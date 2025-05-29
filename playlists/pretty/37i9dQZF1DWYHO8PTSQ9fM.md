@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYHO8PTSQ9fM.md) - [plain]
 
 > Les hits du moment au Maroc\. Cover: Shaw
 
-[Spotify](https://open.spotify.com/user/spotify) - 681,433 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 681,444 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYHO8PTSQ9fM.md) - [plain]
 | 49 | [Lalla w Mali](https://open.spotify.com/track/3Thycu4Wd5AwGFDYYWiioT) | [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS) | [Lalla w Mali](https://open.spotify.com/album/1PJZUE8mS0n32Rbf7buCXl) | 2:56 |
 | 50 | [Ya Mektoubi](https://open.spotify.com/track/2Ylhm1lBkTkn9UAxKL9akH) | [Bilal Assarguini](https://open.spotify.com/artist/2taSKJRDLOVQg0g0RnFDVH) | [Ya Mektoubi](https://open.spotify.com/album/4Me68q3TV8r9mPi4nqHI2L) | 3:43 |
 
-Snapshot ID: `AAAAAFAEsNgV1ajIvH+RnFEvpqCPx2EL`
+Snapshot ID: `aDVqtgAAAACmKr6AxyEmQoRAfvn4TY8A`

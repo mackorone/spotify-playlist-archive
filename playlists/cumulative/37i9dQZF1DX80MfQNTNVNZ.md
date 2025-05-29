@@ -4,7 +4,7 @@
 
 > Groove\-heavy, soothing tunes for the soul and R&B
 
-576 songs - 1 day 10 hr 0 min
+577 songs - 1 day 10 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Dundee](https://open.spotify.com/track/64fF8kyyZ0i55dgNuslZZM) | [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z) | [Dundee](https://open.spotify.com/album/3BAlFd5A5cniOXQ3jX99dR) | 2:42 | 2024-06-15 | 2024-08-17 |
 | [Déjà Vu](https://open.spotify.com/track/29Hg1jaX5ZY5miqr3ScQSn) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Déjà Vu](https://open.spotify.com/album/6lk6qAKg7sIIXdXejLDWuz) | 2:42 | 2022-03-31 | 2022-07-29 |
 | [Easier Done Than Said](https://open.spotify.com/track/78H6YBy5lm1P2suxSAzVdo) | [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Easier Done Than Said](https://open.spotify.com/album/08P5vVNLqPNiCyle8kRssE) | 3:35 | 2025-05-16 |  |
+| [Eden \(feat\. Cordae, DJ Jazzy Jeff\)](https://open.spotify.com/track/2ICVrUIyL20gOkhbx6umcB) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [DJ Jazzy Jeff](https://open.spotify.com/artist/3nmiIgeri4vEY7y0VpbsCn) | [Gen](https://open.spotify.com/album/1s9TxbeBWAbz939OHhl3ch) | 3:41 | 2025-05-28 |  |
 | [Eden \(feat\. Cordae, DJ Jazzy Jeff\)](https://open.spotify.com/track/3arj9wUIRzmKpJ1HHXkyXZ) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [DJ Jazzy Jeff](https://open.spotify.com/artist/3nmiIgeri4vEY7y0VpbsCn) | [Gen](https://open.spotify.com/album/68o6ZyxXi2hvjV0J3MwfDs) | 3:41 | 2025-05-16 | 2025-05-26 |
 | [Egyptian Luvr \(feat\. Aminé and Dana Williams\)](https://open.spotify.com/track/4uToWVHXLtKEEboNsG3n2u) | [Rejjie Snow](https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL) | [Dear Annie](https://open.spotify.com/album/16bkk7YWytTk5I3VPMU4mv) | 4:16 | 2022-04-03 | 2022-04-16 |
 | [Elasto](https://open.spotify.com/track/0joWz6mlWQtcREQzYurLVo) | [Schwey](https://open.spotify.com/artist/1HjpNX0zNXYbHe38hMgDgZ), [Artemis](https://open.spotify.com/artist/1weRXyXXSBxar799mDmQ2v) | [Schwey](https://open.spotify.com/album/46W9GXfRJpQdlYs9cCus0m) | 3:42 | 2021-12-23 | 2022-07-29 |
@@ -420,7 +421,7 @@
 | [Softest Touch](https://open.spotify.com/track/42QLP7Z6KvkOV7vYr8RaLD) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Softest Touch](https://open.spotify.com/album/3DZd5Fvl7UuxgMT0FXwsUi) | 2:44 | 2023-03-30 | 2025-05-17 |
 | [Solar](https://open.spotify.com/track/3oLuxFWxjCYggpX5MfLXCD) | [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6) | [Solar](https://open.spotify.com/album/0ihYO4WjTtY3i5PyOJPIL5) | 2:39 | 2022-07-07 | 2022-08-19 |
 | [Sonhos Cor De Rosa](https://open.spotify.com/track/4BKsABy7jDwmuGRvnUcZkK) | [Tiawa](https://open.spotify.com/artist/0QrKRZo0bqCEvzjXfanjqw) | [Sonhos Cor De Rosa](https://open.spotify.com/album/3CaqsA6ii3fB6ME0EBZEQl) | 2:35 | 2022-03-31 | 2022-04-17 |
-| [Soulmate](https://open.spotify.com/track/6g56vvpNt52RX65lcautxd) | [Johnny Stimson](https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE), [Jeremy Passion](https://open.spotify.com/artist/5Z8UTQtTYNu5o5FA66LFgv) | [The Way It Was Before](https://open.spotify.com/album/59aMQPmxNeRdtWv7Tqk5WY) | 3:11 | 2025-05-02 |  |
+| [Soulmate](https://open.spotify.com/track/6g56vvpNt52RX65lcautxd) | [Johnny Stimson](https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE), [Jeremy Passion](https://open.spotify.com/artist/5Z8UTQtTYNu5o5FA66LFgv) | [The Way It Was Before](https://open.spotify.com/album/59aMQPmxNeRdtWv7Tqk5WY) | 3:11 | 2025-05-02 | 2025-05-29 |
 | [SPACE](https://open.spotify.com/track/0w8KR0YHluavjJx1DLwu6Q) | [Spice rhythm](https://open.spotify.com/artist/5lmsbZAumn8MwK6llKn4Kx), [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS) | [SPACE](https://open.spotify.com/album/58UDQ360N0Iswe8is6rSuu) | 4:17 | 2022-03-24 | 2022-04-19 |
 | [Sparkle Tape Break Up \- Mndsgn Remix](https://open.spotify.com/track/1I36mRlYXhAkUVygbtPZGd) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y), [Mndsgn](https://open.spotify.com/artist/4GcpBLY8g8NrmimWbssM26) | [Mood Variant \(The Remixes\)](https://open.spotify.com/album/7mozKcwF1bQhD7zmSuCzvk) | 3:55 | 2022-04-07 | 2022-07-26 |
 | [Speaking Silence](https://open.spotify.com/track/4bO0TQQJbBUcksM7m1G2to) | [PREP](https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42) | [Speaking Silence](https://open.spotify.com/album/19QVd08C93fCUJaZeO9GCy) | 4:03 | 2022-03-31 | 2022-07-26 |

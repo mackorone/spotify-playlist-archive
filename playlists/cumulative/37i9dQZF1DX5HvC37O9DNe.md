@@ -4,7 +4,7 @@
 
 > 💅 amo, troppo noi 🫂
 
-309 songs - 16 hr 29 min
+310 songs - 16 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,7 +150,8 @@
 | [La genesi del tuo colore](https://open.spotify.com/track/0HyDNYQmQ3obfA81D3y9tG) | [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK) | [La genesi del tuo colore](https://open.spotify.com/album/7eIyCeIG5Y0v4Be4mhV2vu) | 3:48 | 2022-04-27 | 2022-07-29 |
 | [La musica non c'è](https://open.spotify.com/track/7MMJa7cjMadOSR6CFWvB1x) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Faccio un casino](https://open.spotify.com/album/3aKazjcDl544T21siS8lDp) | 3:42 | 2024-02-02 | 2025-01-29 |
 | [La storia infinita](https://open.spotify.com/track/0XAO6HaZDHa2HxbnWWKWCZ) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [La storia infinita](https://open.spotify.com/album/6IU2IppbPl3bt4CqL90qKd) | 3:27 | 2022-04-27 | 2022-07-29 |
-| [La tua canzone](https://open.spotify.com/track/4Z43nMEiOiNeDrqu2BN0JD) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [È sempre bello](https://open.spotify.com/album/10qyDIB3pverR0MvhOFDVy) | 3:12 | 2024-01-17 |  |
+| [La tua canzone](https://open.spotify.com/track/17ctLiAYSfZkL8ksjtSchO) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [È sempre bello](https://open.spotify.com/album/5IMzuX8ITydV8NBq10xG2T) | 3:12 | 2025-05-28 |  |
+| [La tua canzone](https://open.spotify.com/track/4Z43nMEiOiNeDrqu2BN0JD) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [È sempre bello](https://open.spotify.com/album/10qyDIB3pverR0MvhOFDVy) | 3:12 | 2024-01-17 | 2025-05-29 |
 | [Lalalalalalalalalala](https://open.spotify.com/track/1vJPGeapiTW4KRPjK65JpV) | [Mikolas Josef](https://open.spotify.com/artist/6Kz7MXIUFMtp5Ts91lagtR) | [Lalalalalalalalalala](https://open.spotify.com/album/2vPyR1QaW69L7vVQrv0Vxz) | 2:41 | 2022-04-27 | 2022-07-19 |
 | [LET GO](https://open.spotify.com/track/3zkyus0njMCL6phZmNNEeN) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [LET GO](https://open.spotify.com/album/1QYPAEk2Ksj3WPv3mvoDnL) | 2:54 | 2023-01-23 |  |
 | [Let Me Down Slowly](https://open.spotify.com/track/2qxmye6gAegTMjLKEBoR3d) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Narrated For You](https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ) | 2:49 | 2022-07-26 | 2022-09-30 |

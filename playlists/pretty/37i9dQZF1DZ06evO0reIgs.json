@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Luz. The essential tracks, all in one playlist.",
-  "num_followers": 82043,
+  "num_followers": 82045,
   "original_name": "This Is Cynthia Luz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDOvAAAAAADLc7gV7L+g6I//bXX7B09N",
+  "snapshot_id": "aDUAgAAAAABPALHytUgC8a8WcHud8wkQ",
   "tracks": [
     {
       "added_at": null,
@@ -495,6 +495,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pode Sair / Pode Ficar",
+        "url": "https://open.spotify.com/album/3DGdy9CvatHGlNjFSlsFiS"
+      },
+      "artists": [
+        {
+          "name": "Math Basso",
+          "url": "https://open.spotify.com/artist/39vofNTfJCZegFfSljqxhZ"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 173042,
+      "name": "Pode Sair / Pode Ficar",
+      "url": "https://open.spotify.com/track/7aDbe2Ga5ptrXhJ5oRReaR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Beira Mar",
         "url": "https://open.spotify.com/album/1cp33YxpxZBcnc8RpoHLYX"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 338861,
       "name": "No Mundo da Lua / Abra\u00e7o",
       "url": "https://open.spotify.com/track/2KyjaRrklvkqdIGUEJSGto"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pode Sair / Pode Ficar",
-        "url": "https://open.spotify.com/album/3DGdy9CvatHGlNjFSlsFiS"
-      },
-      "artists": [
-        {
-          "name": "Math Basso",
-          "url": "https://open.spotify.com/artist/39vofNTfJCZegFfSljqxhZ"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 173042,
-      "name": "Pode Sair / Pode Ficar",
-      "url": "https://open.spotify.com/track/7aDbe2Ga5ptrXhJ5oRReaR"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Que Voc\u00ea Faz",
-        "url": "https://open.spotify.com/album/3nVHkr0UYH2LIGvNzkazNd"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 181500,
-      "name": "O Que Voc\u00ea Faz",
-      "url": "https://open.spotify.com/track/3HTyLPUwl9e2gUp6Ewgd7e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oriente Ac\u00fastico",
         "url": "https://open.spotify.com/album/3WJzYyIeffgxWIT0o0N7J1"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 250851,
       "name": "Liberta",
       "url": "https://open.spotify.com/track/6tsmtDa7CAXIMSwWpXRUGQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Que Voc\u00ea Faz",
+        "url": "https://open.spotify.com/album/3nVHkr0UYH2LIGvNzkazNd"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 181500,
+      "name": "O Que Voc\u00ea Faz",
+      "url": "https://open.spotify.com/track/3HTyLPUwl9e2gUp6Ewgd7e"
     },
     {
       "added_at": null,
@@ -1234,15 +1234,11 @@
         {
           "name": "Gustah",
           "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
-        },
-        {
-          "name": "Carla Sol",
-          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
         }
       ],
-      "duration_ms": 136935,
-      "name": "Coisas Que Eu Aprendi",
-      "url": "https://open.spotify.com/track/4pR2Jy5fPdMKt2ACIX1Int"
+      "duration_ms": 164949,
+      "name": "Cora\u00e7\u00e3o Bandido",
+      "url": "https://open.spotify.com/track/6968Cmc4iBwpkaS1bKfPkW"
     }
   ],
   "unique_name": "This Is Cynthia Luz",

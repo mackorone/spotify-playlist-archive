@@ -2297,6 +2297,28 @@
     },
     {
       "album": {
+        "name": "Bird's Eye",
+        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        },
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "date_added": "2025-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195502,
+      "name": "One Wish (feat. Childish Gambino)",
+      "url": "https://open.spotify.com/track/4jaNeCjRjTCekyaErvjnRX"
+    },
+    {
+      "album": {
         "name": "Free Spirit",
         "url": "https://open.spotify.com/album/6KT8x5oqZJl9CcnM66hddo"
       },
@@ -3500,6 +3522,24 @@
       "duration_ms": 176466,
       "name": "Together Now",
       "url": "https://open.spotify.com/track/0wGlWyLEXXjeBTpNIPFii0"
+    },
+    {
+      "album": {
+        "name": "The Hours: Morning",
+        "url": "https://open.spotify.com/album/5NNGAq96n9HWGAWGnIQLQM"
+      },
+      "artists": [
+        {
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+        }
+      ],
+      "date_added": "2025-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144742,
+      "name": "Tokyo Lift (5am)",
+      "url": "https://open.spotify.com/track/4hdZmSL7BBEVpphhWI8B5w"
     },
     {
       "album": {

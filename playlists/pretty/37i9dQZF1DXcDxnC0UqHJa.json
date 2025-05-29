@@ -1,6 +1,6 @@
 {
   "description": "Folksy takes on your favorite tracks. Cover: Timoth\u00e9e Chalamet in A Complete Unknown",
-  "num_followers": 463873,
+  "num_followers": 463806,
   "original_name": "Folksy Covers",
   "owner": {
     "name": "Spotify",
@@ -267,6 +267,22 @@
     {
       "added_at": "2025-05-02 17:28:32",
       "album": {
+        "name": "Between The Bars (EP)",
+        "url": "https://open.spotify.com/album/3N99UWfASH8iTQqGoFV7q5"
+      },
+      "artists": [
+        {
+          "name": "The Civil Wars",
+          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+        }
+      ],
+      "duration_ms": 259920,
+      "name": "Billie Jean",
+      "url": "https://open.spotify.com/track/4zzi2eD2cEPpQ3a307mPPj"
+    },
+    {
+      "added_at": "2025-05-02 17:28:32",
+      "album": {
         "name": "Heroes",
         "url": "https://open.spotify.com/album/4pwOr5WCJyqrFxwYLFB2nT"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 242280,
       "name": "Just Breathe",
       "url": "https://open.spotify.com/track/3rIgqH7rTzpB7Gtvo6oDsA"
-    },
-    {
-      "added_at": "2025-05-02 17:28:32",
-      "album": {
-        "name": "Between The Bars (EP)",
-        "url": "https://open.spotify.com/album/3N99UWfASH8iTQqGoFV7q5"
-      },
-      "artists": [
-        {
-          "name": "The Civil Wars",
-          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
-        }
-      ],
-      "duration_ms": 259920,
-      "name": "Billie Jean",
-      "url": "https://open.spotify.com/track/4zzi2eD2cEPpQ3a307mPPj"
     },
     {
       "added_at": "2025-05-02 17:28:32",
@@ -747,22 +747,6 @@
     {
       "added_at": "2025-05-02 17:28:32",
       "album": {
-        "name": "Landslide",
-        "url": "https://open.spotify.com/album/3yNz1rdmZNGufkecBusKgs"
-      },
-      "artists": [
-        {
-          "name": "Baby Rose",
-          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
-        }
-      ],
-      "duration_ms": 213726,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/1GihL7MaWGtvJN5uuWzybj"
-    },
-    {
-      "added_at": "2025-05-02 17:28:32",
-      "album": {
         "name": "The Boxer",
         "url": "https://open.spotify.com/album/7dpExLHVdNg2IasaFb9SxI"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 151817,
       "name": "The Boxer",
       "url": "https://open.spotify.com/track/6HopKFVZmGU3YQF5Ac3EXa"
+    },
+    {
+      "added_at": "2025-05-02 17:28:32",
+      "album": {
+        "name": "Landslide",
+        "url": "https://open.spotify.com/album/3yNz1rdmZNGufkecBusKgs"
+      },
+      "artists": [
+        {
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+        }
+      ],
+      "duration_ms": 213726,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/1GihL7MaWGtvJN5uuWzybj"
     },
     {
       "added_at": "2025-05-02 17:28:32",
@@ -963,6 +963,22 @@
     {
       "added_at": "2025-05-02 17:28:32",
       "album": {
+        "name": "Remembering Mountains : Unheard Songs By Karen Dalton",
+        "url": "https://open.spotify.com/album/0zH32ejJgyMAlwF0V3p6EI"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "duration_ms": 216773,
+      "name": "Remembering Mountains",
+      "url": "https://open.spotify.com/track/2zW0oWOUOc8KDLBCJXT80T"
+    },
+    {
+      "added_at": "2025-05-02 17:28:32",
+      "album": {
         "name": "I Will Follow You Into The Dark",
         "url": "https://open.spotify.com/album/3oa1lLhRWZ390b2CeoXndA"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 224692,
       "name": "I Will Follow You Into The Dark",
       "url": "https://open.spotify.com/track/3Jmc6qadrwk3pg30iQPs5j"
-    },
-    {
-      "added_at": "2025-05-02 17:28:32",
-      "album": {
-        "name": "Shotgun Willie",
-        "url": "https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 260040,
-      "name": "A Song for You",
-      "url": "https://open.spotify.com/track/20T1K4gvaX8c7FbA7ljoau"
     },
     {
       "added_at": "2025-05-02 17:28:32",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2025-05-02 17:28:32",
       "album": {
-        "name": "Remembering Mountains : Unheard Songs By Karen Dalton",
-        "url": "https://open.spotify.com/album/0zH32ejJgyMAlwF0V3p6EI"
+        "name": "Shotgun Willie",
+        "url": "https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y"
       },
       "artists": [
         {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 216773,
-      "name": "Remembering Mountains",
-      "url": "https://open.spotify.com/track/2zW0oWOUOc8KDLBCJXT80T"
+      "duration_ms": 260040,
+      "name": "A Song for You",
+      "url": "https://open.spotify.com/track/20T1K4gvaX8c7FbA7ljoau"
     },
     {
       "added_at": "2025-05-02 17:28:32",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2025-05-02 17:28:32",
       "album": {
+        "name": "The Moon And Stars: Prescriptions For Dreamers (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1zShXPlRJNXANZolct3VzL"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 145280,
+      "name": "Pink Moon",
+      "url": "https://open.spotify.com/track/5SW6BhWTAJenEneGruiijj"
+    },
+    {
+      "added_at": "2025-05-02 17:28:32",
+      "album": {
         "name": "...but i'd rather be with you, too",
         "url": "https://open.spotify.com/album/5rBVASdotOwS4z4a4LAbmS"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 197790,
       "name": "Strong Enough",
       "url": "https://open.spotify.com/track/69qLjFRZbz7V7uM13DtmOW"
-    },
-    {
-      "added_at": "2025-05-02 17:28:32",
-      "album": {
-        "name": "The Moon And Stars: Prescriptions For Dreamers (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1zShXPlRJNXANZolct3VzL"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 145280,
-      "name": "Pink Moon",
-      "url": "https://open.spotify.com/track/5SW6BhWTAJenEneGruiijj"
     },
     {
       "added_at": "2025-05-02 17:28:32",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2025-05-02 17:28:32",
       "album": {
+        "name": "So Low",
+        "url": "https://open.spotify.com/album/2NBpiTeWOyrP088gUj6J2y"
+      },
+      "artists": [
+        {
+          "name": "Lowland Hum",
+          "url": "https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE"
+        }
+      ],
+      "duration_ms": 264930,
+      "name": "Sledgehammer",
+      "url": "https://open.spotify.com/track/7cWTvfOdnO2slD9Xm7DK87"
+    },
+    {
+      "added_at": "2025-05-02 17:28:32",
+      "album": {
         "name": "Love At The Five & Dime",
         "url": "https://open.spotify.com/album/3h3OflWVSlb7gvhVQ2qJQn"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 289186,
       "name": "Love At The Five & Dime",
       "url": "https://open.spotify.com/track/1XwqNMe7dcylnzQD4w8Ctk"
-    },
-    {
-      "added_at": "2025-05-02 17:28:32",
-      "album": {
-        "name": "So Low",
-        "url": "https://open.spotify.com/album/2NBpiTeWOyrP088gUj6J2y"
-      },
-      "artists": [
-        {
-          "name": "Lowland Hum",
-          "url": "https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE"
-        }
-      ],
-      "duration_ms": 264930,
-      "name": "Sledgehammer",
-      "url": "https://open.spotify.com/track/7cWTvfOdnO2slD9Xm7DK87"
     },
     {
       "added_at": "2025-05-02 17:28:32",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2025-05-02 17:28:32",
       "album": {
+        "name": "True Love Will Find You In The End",
+        "url": "https://open.spotify.com/album/20mtg0Xbs9vwuzqVsVNAKL"
+      },
+      "artists": [
+        {
+          "name": "Katherine Priddy",
+          "url": "https://open.spotify.com/artist/102dPAntS5rtgPwkSZPB41"
+        }
+      ],
+      "duration_ms": 165306,
+      "name": "True Love Will Find You In The End",
+      "url": "https://open.spotify.com/track/2QdzHAm5fq0v7lOuC3XImf"
+    },
+    {
+      "added_at": "2025-05-02 17:28:32",
+      "album": {
         "name": "American Pie",
         "url": "https://open.spotify.com/album/4cmRLJRiZqkeOKZUE9iztd"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 210666,
       "name": "Northern Sky - from The Fire Inside",
       "url": "https://open.spotify.com/track/6ySbh4Se81hlu3oqITPCAL"
-    },
-    {
-      "added_at": "2025-05-02 17:28:32",
-      "album": {
-        "name": "True Love Will Find You In The End",
-        "url": "https://open.spotify.com/album/20mtg0Xbs9vwuzqVsVNAKL"
-      },
-      "artists": [
-        {
-          "name": "Katherine Priddy",
-          "url": "https://open.spotify.com/artist/102dPAntS5rtgPwkSZPB41"
-        }
-      ],
-      "duration_ms": 165306,
-      "name": "True Love Will Find You In The End",
-      "url": "https://open.spotify.com/track/2QdzHAm5fq0v7lOuC3XImf"
     },
     {
       "added_at": "2025-05-02 17:28:32",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2025-05-02 17:28:32",
       "album": {
-        "name": "everything i wanted",
-        "url": "https://open.spotify.com/album/6RrC9O5QDOnKRYoH6ANYZB"
-      },
-      "artists": [
-        {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
-        }
-      ],
-      "duration_ms": 275880,
-      "name": "everything i wanted",
-      "url": "https://open.spotify.com/track/0Uc5kxNJyLYWldaSbZD8EX"
-    },
-    {
-      "added_at": "2025-05-02 17:28:32",
-      "album": {
         "name": "good 4 u / Dooley's Farm (Spotify Singles)",
         "url": "https://open.spotify.com/album/65mrgLaC6S4drN9PoJRxKm"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 216343,
       "name": "good 4 u - Spotify Sessions",
       "url": "https://open.spotify.com/track/3ruHm5bxqfPnAO14kYGvFx"
+    },
+    {
+      "added_at": "2025-05-02 17:28:32",
+      "album": {
+        "name": "everything i wanted",
+        "url": "https://open.spotify.com/album/6RrC9O5QDOnKRYoH6ANYZB"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "duration_ms": 275880,
+      "name": "everything i wanted",
+      "url": "https://open.spotify.com/track/0Uc5kxNJyLYWldaSbZD8EX"
     },
     {
       "added_at": "2025-05-02 17:28:32",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2025-05-02 17:28:32",
       "album": {
-        "name": "Woodstock / Green Altar",
-        "url": "https://open.spotify.com/album/42kdrZO7qdmQKvoBXXzWwL"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Wolfe",
-          "url": "https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10"
-        }
-      ],
-      "duration_ms": 273489,
-      "name": "Woodstock",
-      "url": "https://open.spotify.com/track/0V6RQwkV91uZgXE86wq5fw"
-    },
-    {
-      "added_at": "2025-05-02 17:28:32",
-      "album": {
         "name": "Wednesday (Extended Edition)",
         "url": "https://open.spotify.com/album/1me3fOCssRFnYRbTHgiiHk"
       },
@@ -1951,6 +1935,22 @@
       "duration_ms": 291093,
       "name": "Someone Like You",
       "url": "https://open.spotify.com/track/3S7BZqv1qZO5hxku8u8fqB"
+    },
+    {
+      "added_at": "2025-05-02 17:28:32",
+      "album": {
+        "name": "Woodstock / Green Altar",
+        "url": "https://open.spotify.com/album/42kdrZO7qdmQKvoBXXzWwL"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Wolfe",
+          "url": "https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10"
+        }
+      ],
+      "duration_ms": 273489,
+      "name": "Woodstock",
+      "url": "https://open.spotify.com/track/0V6RQwkV91uZgXE86wq5fw"
     },
     {
       "added_at": "2025-05-02 17:28:32",

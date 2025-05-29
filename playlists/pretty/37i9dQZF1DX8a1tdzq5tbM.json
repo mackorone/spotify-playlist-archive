@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1692817,
+  "num_followers": 1693133,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
@@ -863,26 +863,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "One More Love",
-        "url": "https://open.spotify.com/album/5DJc5qCdB5pPrDO97LXjeW"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "The Egg",
-          "url": "https://open.spotify.com/artist/73nwTQUc9kA9vqGzGPsMkA"
-        }
-      ],
-      "duration_ms": 191106,
-      "name": "Love Don't Let Me Go (Walking Away) (David Guetta vs. The Egg)",
-      "url": "https://open.spotify.com/track/7BuynvoA4xIt9LIwqhLwRu"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Girlfriend (2008 Remix)",
         "url": "https://open.spotify.com/album/78ehClbvFAiT3iJjJrNml9"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 435986,
       "name": "Girlfriend - 2008 Remix",
       "url": "https://open.spotify.com/track/04hY9ZE6jatvZjsu1Q9nPc"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "One More Love",
+        "url": "https://open.spotify.com/album/5DJc5qCdB5pPrDO97LXjeW"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "The Egg",
+          "url": "https://open.spotify.com/artist/73nwTQUc9kA9vqGzGPsMkA"
+        }
+      ],
+      "duration_ms": 191106,
+      "name": "Love Don't Let Me Go (Walking Away) (David Guetta vs. The Egg)",
+      "url": "https://open.spotify.com/track/7BuynvoA4xIt9LIwqhLwRu"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1055,30 +1055,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Show Me Love (feat. Robin S)",
-        "url": "https://open.spotify.com/album/32SxAN231WZpNVzHaFZ9O2"
-      },
-      "artists": [
-        {
-          "name": "Steve Angello",
-          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
-        },
-        {
-          "name": "Laidback Luke",
-          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
-        },
-        {
-          "name": "Robin S",
-          "url": "https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3"
-        }
-      ],
-      "duration_ms": 185613,
-      "name": "Show Me Love (feat. Robin S) - Radio Edit",
-      "url": "https://open.spotify.com/track/5Nzph7bpgv2GNh2DcVX29T"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Toys Are Nuts Remixes",
         "url": "https://open.spotify.com/album/5V2OID9LYLcd84BGiCYHhx"
       },
@@ -1103,6 +1079,30 @@
       "duration_ms": 306000,
       "name": "Toys Are Nuts - Hardwell & Rehab Remix",
       "url": "https://open.spotify.com/track/7fvkfIQ4AsdNxDd45yR02F"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Show Me Love (feat. Robin S)",
+        "url": "https://open.spotify.com/album/32SxAN231WZpNVzHaFZ9O2"
+      },
+      "artists": [
+        {
+          "name": "Steve Angello",
+          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+        },
+        {
+          "name": "Laidback Luke",
+          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
+        },
+        {
+          "name": "Robin S",
+          "url": "https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3"
+        }
+      ],
+      "duration_ms": 185613,
+      "name": "Show Me Love (feat. Robin S) - Radio Edit",
+      "url": "https://open.spotify.com/track/5Nzph7bpgv2GNh2DcVX29T"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Call On Me",
-        "url": "https://open.spotify.com/album/4FN8F3aiiUagVSBBGW5ULu"
-      },
-      "artists": [
-        {
-          "name": "Eric Prydz",
-          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
-        }
-      ],
-      "duration_ms": 171360,
-      "name": "Call On Me - Radio Edit",
-      "url": "https://open.spotify.com/track/3uLSUZEmTY50H6Kw17lpfW"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Western Dream",
         "url": "https://open.spotify.com/album/4HLy8ci70oGBja4DAgaCzq"
       },
@@ -1483,6 +1467,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Call On Me",
+        "url": "https://open.spotify.com/album/4FN8F3aiiUagVSBBGW5ULu"
+      },
+      "artists": [
+        {
+          "name": "Eric Prydz",
+          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
+        }
+      ],
+      "duration_ms": 171360,
+      "name": "Call On Me - Radio Edit",
+      "url": "https://open.spotify.com/track/3uLSUZEmTY50H6Kw17lpfW"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Better Off Alone (Laidback Luke Remix)",
         "url": "https://open.spotify.com/album/1mujD0TLUx27MXlxune8nb"
       },
@@ -1495,22 +1495,6 @@
       "duration_ms": 215246,
       "name": "Better Off Alone - 1999 Original Hit Radio",
       "url": "https://open.spotify.com/track/48gBfTRel9fajeev7tmLpo"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Just Be",
-        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 177026,
-      "name": "Traffic - Radio Edit",
-      "url": "https://open.spotify.com/track/6pqFWRuybCtxerWC7B4RgF"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1531,6 +1515,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Just Be",
+        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 177026,
+      "name": "Traffic - Radio Edit",
+      "url": "https://open.spotify.com/track/6pqFWRuybCtxerWC7B4RgF"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Cry for You",
         "url": "https://open.spotify.com/album/3E6MKsq5x82lhg7RWXObJD"
       },
@@ -1543,6 +1543,22 @@
       "duration_ms": 211600,
       "name": "Cry for You",
       "url": "https://open.spotify.com/track/4s3CHmungRHAI5ho2edqXb"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Movements",
+        "url": "https://open.spotify.com/album/52YO0uURAvAHYGWK38zP8r"
+      },
+      "artists": [
+        {
+          "name": "Booka Shade",
+          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
+        }
+      ],
+      "duration_ms": 326840,
+      "name": "In White Rooms",
+      "url": "https://open.spotify.com/track/4m2RLN7imvsaLL1ZUGfFFw"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1599,18 +1615,18 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Movements",
-        "url": "https://open.spotify.com/album/52YO0uURAvAHYGWK38zP8r"
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/3SvVvqBTl3M5AftNbcSLdn"
       },
       "artists": [
         {
-          "name": "Booka Shade",
-          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
+          "name": "4 Strings",
+          "url": "https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id"
         }
       ],
-      "duration_ms": 326840,
-      "name": "In White Rooms",
-      "url": "https://open.spotify.com/track/4m2RLN7imvsaLL1ZUGfFFw"
+      "duration_ms": 190426,
+      "name": "Take Me Away - Vocal Radio Mix",
+      "url": "https://open.spotify.com/track/2DBZoeYzOGURGY3nj8XpC7"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1627,22 +1643,6 @@
       "duration_ms": 178613,
       "name": "Heartbroken - Edit",
       "url": "https://open.spotify.com/track/3dhzZ068rKh2fRB2uitX18"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/3SvVvqBTl3M5AftNbcSLdn"
-      },
-      "artists": [
-        {
-          "name": "4 Strings",
-          "url": "https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id"
-        }
-      ],
-      "duration_ms": 190426,
-      "name": "Take Me Away - Vocal Radio Mix",
-      "url": "https://open.spotify.com/track/2DBZoeYzOGURGY3nj8XpC7"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1771,6 +1771,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Back 2 House",
+        "url": "https://open.spotify.com/album/5TQNDaPGGHtDWfxbAbLfzm"
+      },
+      "artists": [
+        {
+          "name": "Modjo",
+          "url": "https://open.spotify.com/artist/0AkpPlFLnr0VQwZQeMGht0"
+        }
+      ],
+      "duration_ms": 211853,
+      "name": "Lady (Hear Me Tonight)",
+      "url": "https://open.spotify.com/track/2T42itxS9f1ijygkLOLGOe"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "I Am The Club Rocker",
         "url": "https://open.spotify.com/album/6aZyOf8v33rs3CJGTctkM6"
       },
@@ -1803,6 +1819,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Best of Alter Ego",
+        "url": "https://open.spotify.com/album/3f5NedtW0S20UEB4Kl34TM"
+      },
+      "artists": [
+        {
+          "name": "Alter Ego",
+          "url": "https://open.spotify.com/artist/1bnxrGpNXaVSzgbwEFL0qj"
+        }
+      ],
+      "duration_ms": 288053,
+      "name": "Rocker",
+      "url": "https://open.spotify.com/track/0TqVsIuKYQTNsh1pmAF6Kn"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Destination Calabria",
         "url": "https://open.spotify.com/album/4XtnIwvXWrgmrvZNxUEOE1"
       },
@@ -1819,22 +1851,6 @@
       "duration_ms": 180906,
       "name": "Destination Calabria - Radio Edit",
       "url": "https://open.spotify.com/track/4IES3nsUkICyjj3sfznczq"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Back 2 House",
-        "url": "https://open.spotify.com/album/5TQNDaPGGHtDWfxbAbLfzm"
-      },
-      "artists": [
-        {
-          "name": "Modjo",
-          "url": "https://open.spotify.com/artist/0AkpPlFLnr0VQwZQeMGht0"
-        }
-      ],
-      "duration_ms": 211853,
-      "name": "Lady (Hear Me Tonight)",
-      "url": "https://open.spotify.com/track/2T42itxS9f1ijygkLOLGOe"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1895,22 +1911,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Best of Alter Ego",
-        "url": "https://open.spotify.com/album/3f5NedtW0S20UEB4Kl34TM"
-      },
-      "artists": [
-        {
-          "name": "Alter Ego",
-          "url": "https://open.spotify.com/artist/1bnxrGpNXaVSzgbwEFL0qj"
-        }
-      ],
-      "duration_ms": 288053,
-      "name": "Rocker",
-      "url": "https://open.spotify.com/track/0TqVsIuKYQTNsh1pmAF6Kn"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "presents Traffic Signs",
         "url": "https://open.spotify.com/album/6imAcRHAFRTMRKa7qlQ0q9"
       },
@@ -1959,22 +1959,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Just Be",
-        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 453146,
-      "name": "Sweet Misery",
-      "url": "https://open.spotify.com/track/5O71Sv4uv46dV9stV8Cujv"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Perfect Day",
         "url": "https://open.spotify.com/album/00vuTPggKkAZ4qGcsYE1zm"
       },
@@ -1987,6 +1971,22 @@
       "duration_ms": 219706,
       "name": "What Hurts the Most - Radio Mix U.S.",
       "url": "https://open.spotify.com/track/3OW3uDpM7mgLe3xU6EYX5q"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Just Be",
+        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 453146,
+      "name": "Sweet Misery",
+      "url": "https://open.spotify.com/track/5O71Sv4uv46dV9stV8Cujv"
     },
     {
       "added_at": "2024-07-12 15:40:20",

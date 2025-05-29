@@ -6,8 +6,272 @@
     "name": "RDGO",
     "url": "https://open.spotify.com/user/rgonzalez196"
   },
-  "snapshot_id": "AAAGTw1uHGCNYoBuERT5dFf9XKohekdZ",
+  "snapshot_id": "AAAGVUMT8jh+3bdiDDJupcmJXwNcaqrR",
   "tracks": [
+    {
+      "added_at": "2025-05-28 16:50:18",
+      "album": {
+        "name": "Get Ready",
+        "url": "https://open.spotify.com/album/1iyy1VtOakx1IYApr9ShsU"
+      },
+      "artists": [
+        {
+          "name": "RDGO",
+          "url": "https://open.spotify.com/artist/6UZEErPAl6SmBfodfX4U8c"
+        }
+      ],
+      "duration_ms": 167272,
+      "name": "Get Ready",
+      "url": "https://open.spotify.com/track/6N7rEkg5KTB17SHetef4nT"
+    },
+    {
+      "added_at": "2025-05-28 16:50:18",
+      "album": {
+        "name": "Push Up",
+        "url": "https://open.spotify.com/album/6PvoR8c8d5WymGZdY4roxw"
+      },
+      "artists": [
+        {
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+        },
+        {
+          "name": "Kyle Watson",
+          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        }
+      ],
+      "duration_ms": 162346,
+      "name": "Push Up",
+      "url": "https://open.spotify.com/track/6CqfT2mBl9VLQhtqoyhOOh"
+    },
+    {
+      "added_at": "2025-05-28 16:50:18",
+      "album": {
+        "name": "Poison",
+        "url": "https://open.spotify.com/album/0dfqvCOm8PJ0yGTLzlJWCX"
+      },
+      "artists": [
+        {
+          "name": "Smokey Bubblin' B",
+          "url": "https://open.spotify.com/artist/1iXq8vdKgJp43m1vhiAmUM"
+        }
+      ],
+      "duration_ms": 276000,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/78dGpGY3eSm7NGLFtVhQDJ"
+    },
+    {
+      "added_at": "2025-05-28 16:50:18",
+      "album": {
+        "name": "Bluewerks Vol. 17: SLICE",
+        "url": "https://open.spotify.com/album/4Fk03pKsZHzismavOjBFOT"
+      },
+      "artists": [
+        {
+          "name": "Bluewerks",
+          "url": "https://open.spotify.com/artist/4ELcaEK7UaF0mUoodoVBfn"
+        },
+        {
+          "name": "Hans Glader",
+          "url": "https://open.spotify.com/artist/2xncrpOGGRImOgiWmbAPZG"
+        },
+        {
+          "name": "Katie Bosworth",
+          "url": "https://open.spotify.com/artist/28FYH39CCzDfykrD0PpA5J"
+        }
+      ],
+      "duration_ms": 358000,
+      "name": "Let Me Go (feat. Katie Bosworth)",
+      "url": "https://open.spotify.com/track/10bBxJjyXnVVTOE3J3030E"
+    },
+    {
+      "added_at": "2025-05-28 16:50:18",
+      "album": {
+        "name": "Bluewerks Vol. 17: SLICE",
+        "url": "https://open.spotify.com/album/4Fk03pKsZHzismavOjBFOT"
+      },
+      "artists": [
+        {
+          "name": "Bluewerks",
+          "url": "https://open.spotify.com/artist/4ELcaEK7UaF0mUoodoVBfn"
+        },
+        {
+          "name": "Hans Glader",
+          "url": "https://open.spotify.com/artist/2xncrpOGGRImOgiWmbAPZG"
+        }
+      ],
+      "duration_ms": 258120,
+      "name": "Nebula",
+      "url": "https://open.spotify.com/track/1diiWqFB8hieTfSJQVjKsK"
+    },
+    {
+      "added_at": "2025-05-28 16:50:18",
+      "album": {
+        "name": "Bluewerks Vol. 17: SLICE",
+        "url": "https://open.spotify.com/album/4Fk03pKsZHzismavOjBFOT"
+      },
+      "artists": [
+        {
+          "name": "Bluewerks",
+          "url": "https://open.spotify.com/artist/4ELcaEK7UaF0mUoodoVBfn"
+        },
+        {
+          "name": "Hans Glader",
+          "url": "https://open.spotify.com/artist/2xncrpOGGRImOgiWmbAPZG"
+        },
+        {
+          "name": "Cam James",
+          "url": "https://open.spotify.com/artist/1eoHH8E3CMRVvbPzvg3uc5"
+        }
+      ],
+      "duration_ms": 278125,
+      "name": "Slice (feat. Cam James)",
+      "url": "https://open.spotify.com/track/6XCghOFYsTi1Mun38fr0yj"
+    },
+    {
+      "added_at": "2025-05-28 16:50:18",
+      "album": {
+        "name": "Bringing Me Joy (Hutcher Remix)",
+        "url": "https://open.spotify.com/album/6882KCDdRYdabmrickAX6U"
+      },
+      "artists": [
+        {
+          "name": "BVNQUET",
+          "url": "https://open.spotify.com/artist/3kS6ce97k6g4h7V1OdlMxv"
+        },
+        {
+          "name": "prettyboyface",
+          "url": "https://open.spotify.com/artist/1PkEWM6c9gWkWtbUjL5Vln"
+        },
+        {
+          "name": "Hutcher",
+          "url": "https://open.spotify.com/artist/2nwnPxZXwF9Mfaik9pQNXI"
+        }
+      ],
+      "duration_ms": 166615,
+      "name": "Bringing Me Joy - Hutcher Remix",
+      "url": "https://open.spotify.com/track/05DtOBax1OjnbiAkftPSDq"
+    },
+    {
+      "added_at": "2025-05-28 16:50:18",
+      "album": {
+        "name": "THE DJ MANIFESTO",
+        "url": "https://open.spotify.com/album/7MqJCjGayX5JMAX4MZBBum"
+      },
+      "artists": [
+        {
+          "name": "Angelo Ferreri",
+          "url": "https://open.spotify.com/artist/3tT2XX9qEVivLCYGoqkRkZ"
+        },
+        {
+          "name": "DJ Delta (IT)",
+          "url": "https://open.spotify.com/artist/2tJ2hBRKR9Udd77aQWC1Iu"
+        }
+      ],
+      "duration_ms": 188055,
+      "name": "THE DJ MANIFESTO - Radio Edit",
+      "url": "https://open.spotify.com/track/5QrZwWZTi2eXTOiiEMwn4N"
+    },
+    {
+      "added_at": "2025-05-28 16:50:18",
+      "album": {
+        "name": "La La Tune (Mel\u00e9 Remix)",
+        "url": "https://open.spotify.com/album/4IxRq9twm9HsgsV9G63rrb"
+      },
+      "artists": [
+        {
+          "name": "Sam Ruffillo",
+          "url": "https://open.spotify.com/artist/22x2iswjXGmDEkCJcUKYiy"
+        },
+        {
+          "name": "Kapote",
+          "url": "https://open.spotify.com/artist/3sySIHNL0hqR7eOlm3LNTH"
+        },
+        {
+          "name": "Mel\u00e9",
+          "url": "https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX"
+        }
+      ],
+      "duration_ms": 230601,
+      "name": "La La Tune - Mel\u00e9 Remix",
+      "url": "https://open.spotify.com/track/1phN95ZeZGMKCua2pLMalu"
+    },
+    {
+      "added_at": "2025-05-28 16:50:18",
+      "album": {
+        "name": "La Fiesta",
+        "url": "https://open.spotify.com/album/3DrNNJtb95HOnFrECKZqvE"
+      },
+      "artists": [
+        {
+          "name": "Wh0",
+          "url": "https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA"
+        },
+        {
+          "name": "David Penn",
+          "url": "https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki"
+        }
+      ],
+      "duration_ms": 178110,
+      "name": "La Fiesta",
+      "url": "https://open.spotify.com/track/01UTKNFPC5tyXu0XNI3X3d"
+    },
+    {
+      "added_at": "2025-05-28 16:50:18",
+      "album": {
+        "name": "Are U The One",
+        "url": "https://open.spotify.com/album/3I0MMEgVylA69wAef3lN0j"
+      },
+      "artists": [
+        {
+          "name": "SWIM",
+          "url": "https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V"
+        }
+      ],
+      "duration_ms": 274782,
+      "name": "Are U The One",
+      "url": "https://open.spotify.com/track/1rOspz7NK5VCHqAFgtk1VA"
+    },
+    {
+      "added_at": "2025-05-28 16:50:18",
+      "album": {
+        "name": "Somewhere Else EP",
+        "url": "https://open.spotify.com/album/0fUJhTO5mzTMBqetldn3Eq"
+      },
+      "artists": [
+        {
+          "name": "Scott Diaz",
+          "url": "https://open.spotify.com/artist/5nH9A6diTpYZVs8YuPB8kw"
+        },
+        {
+          "name": "LOA.",
+          "url": "https://open.spotify.com/artist/6pcPaT1Vy3dHVPunJXZM0A"
+        }
+      ],
+      "duration_ms": 391381,
+      "name": "Somewhere Else",
+      "url": "https://open.spotify.com/track/5EvfBHhEWGazDEu83Y2ehD"
+    },
+    {
+      "added_at": "2025-05-28 16:50:18",
+      "album": {
+        "name": "Baby Don't Trip It",
+        "url": "https://open.spotify.com/album/7twMEDppadQQhb8n7ANxzk"
+      },
+      "artists": [
+        {
+          "name": "Tiptoes",
+          "url": "https://open.spotify.com/artist/0OPGFIdqpZs3pxJ7MLuVjD"
+        }
+      ],
+      "duration_ms": 385950,
+      "name": "Baby Don't Trip It",
+      "url": "https://open.spotify.com/track/1oA2s8IvryFRIOAiPyI35j"
+    },
     {
       "added_at": "2025-05-11 20:33:31",
       "album": {

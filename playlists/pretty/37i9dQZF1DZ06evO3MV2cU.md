@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MV2cU.md) - [plain]
 
 > This is Chris Tomlin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,573 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,577 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MV2cU.md) - [plain]
 | 31 | [Jesus Messiah](https://open.spotify.com/track/1MpJ8XHlbOsUdrCWIjmweZ) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [How Great Is Our God: The Essential Collection](https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu) | 4:48 |
 | 32 | [God's Great Dance Floor](https://open.spotify.com/track/2nVmKOoqzbHt5YMT3dzLnp) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Burning Lights](https://open.spotify.com/album/3tSSB1DofuOXRnNXPDjwiW) | 3:38 |
 | 33 | [I Will Rise](https://open.spotify.com/track/0BP0JHEeYVZZsyngW4Uc1x) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Hello Love](https://open.spotify.com/album/4Rxm4YPcHyohRXoIM8GWMk) | 5:01 |
-| 34 | [Be A Light](https://open.spotify.com/track/5o6dFqafETxZNqUFt9ZqAC) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor), [Hillary Scott](https://open.spotify.com/artist/0Sk6yoUQnccty5iMhVhz9D), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Be A Light](https://open.spotify.com/album/6NUcdndmwC54yLd0KosGI2) | 2:53 |
+| 34 | [Jesus](https://open.spotify.com/track/7CNINxlyvWE15Dees3X5zC) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Never Lose Sight \(Deluxe Edition\)](https://open.spotify.com/album/7BK26n0Gkw7bvAlAUdU53F) | 4:05 |
 | 35 | [We Fall Down](https://open.spotify.com/track/5gnMKEfIyg2zu84vfmfSpa) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [How Great Is Our God: The Essential Collection](https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu) | 4:40 |
-| 36 | [Jesus](https://open.spotify.com/track/7CNINxlyvWE15Dees3X5zC) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Never Lose Sight \(Deluxe Edition\)](https://open.spotify.com/album/7BK26n0Gkw7bvAlAUdU53F) | 4:05 |
+| 36 | [Be A Light](https://open.spotify.com/track/5o6dFqafETxZNqUFt9ZqAC) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor), [Hillary Scott](https://open.spotify.com/artist/0Sk6yoUQnccty5iMhVhz9D), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Be A Light](https://open.spotify.com/album/6NUcdndmwC54yLd0KosGI2) | 2:53 |
 | 37 | [We Fall Down / Agnus Dei \- Medley](https://open.spotify.com/track/1mCehTLs3ZlEcoQt0aIGiv) | [The Maker & The Instrument](https://open.spotify.com/artist/0HQiwspXm03L5BmzTgK1hV), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Instrumental Songs Of Worship](https://open.spotify.com/album/3DzhS9CumbDVCkB7WYvtEX) | 4:32 |
 | 38 | [Holy Forever \- Instrumental](https://open.spotify.com/track/0sTfcojHpTGr5y3GAaVmft) | [The Maker & The Instrument](https://open.spotify.com/artist/0HQiwspXm03L5BmzTgK1hV), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Holy Forever \(Instrumental\)](https://open.spotify.com/album/5ldWFChwbA9CB4j0tcTgWO) | 8:00 |
 | 39 | [Holy Is The Lord \- Arriving Album Version](https://open.spotify.com/track/31Kb7jyAscJJma1gTXRUFQ) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [How Great Is Our God: The Essential Collection](https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu) | 4:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MV2cU.md) - [plain]
 | 49 | [I See You \(with Brandon Lake\)](https://open.spotify.com/track/5WJbUQV3FbzOxB4tA7yiXF) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Always](https://open.spotify.com/album/72AujkDTGgHNkVcPERPLaE) | 3:50 |
 | 50 | [Yes And Amen](https://open.spotify.com/track/6xYHIXSrucTcC9AXoTBEoB) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Never Lose Sight \(Deluxe Edition\)](https://open.spotify.com/album/7BK26n0Gkw7bvAlAUdU53F) | 5:06 |
 
-Snapshot ID: `aDOvAAAAAADGaWK9UgH785u8kbyQ4qID`
+Snapshot ID: `aDUAgAAAAADcl+PFcxx8+3WhUVA+g33A`

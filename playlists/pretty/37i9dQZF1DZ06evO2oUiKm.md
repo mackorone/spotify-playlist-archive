@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oUiKm.md) - [plain]
 
 > This is Cynthia Erivo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,509 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,511 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oUiKm.md) - [plain]
 | 23 | [What About Love?](https://open.spotify.com/track/6QY1bfRkcQyvzkPqf0fsYN) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [The Color Purple \(New Broadway Cast Recording\)](https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W) | 3:57 |
 | 24 | [Glowing Up](https://open.spotify.com/track/5aeUHbWlVXp0TZ0L1tuKsc) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Ch\. 1 Vs\. 1](https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De) | 3:52 |
 | 25 | [Alright](https://open.spotify.com/track/6oFsUGtEpV7qZGyYpQGtJe) | [Anthony Ramos](https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [The Freedom \- EP](https://open.spotify.com/album/32z9IUjENPdO1FZlgN0t8J) | 3:49 |
-| 26 | [Fly Before You Fall](https://open.spotify.com/track/6Ch1e7h3b19r8HnR6HD1MW) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Beyond The Lights \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/76IoyEyJjmgL6vLAK6a6EI) | 3:03 |
-| 27 | [Hold On I'm Coming](https://open.spotify.com/track/3Saj1U3DNCB8wf5KFiaYto) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Bad Times At The El Royale \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/61RD050Ag1j9bhnGI1Hc1f) | 2:47 |
+| 26 | [Hold On I'm Coming](https://open.spotify.com/track/3Saj1U3DNCB8wf5KFiaYto) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Bad Times At The El Royale \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/61RD050Ag1j9bhnGI1Hc1f) | 2:47 |
+| 27 | [Fly Before You Fall](https://open.spotify.com/track/6Ch1e7h3b19r8HnR6HD1MW) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Beyond The Lights \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/76IoyEyJjmgL6vLAK6a6EI) | 3:03 |
 | 28 | [What In The World](https://open.spotify.com/track/6kxmbaSZGtxnWkSO50FFku) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Ch\. 1 Vs\. 1](https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De) | 3:26 |
 | 29 | [Anything Worth Holding On To](https://open.spotify.com/track/3SOIpvBhXfCeqSQti8mlj8) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Scott Alan](https://open.spotify.com/artist/36mPTvwUFmSOm3JcQyLuEy) | [Cynthia Erivo and Oliver Tompsett Sing Scott Alan](https://open.spotify.com/album/7kdMcZRveWqWsQARQDRQAt) | 4:44 |
 | 30 | [The Color Purple \(Reprise\)](https://open.spotify.com/track/4v92TDdqX3VlFyeEA5sOfy) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Color Purple New Broadway Cast](https://open.spotify.com/artist/59nDI6cgkij2y6empWnaJE) | [The Color Purple \(New Broadway Cast Recording\)](https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W) | 3:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oUiKm.md) - [plain]
 | 49 | [At All](https://open.spotify.com/track/4mm1OFHCY0XzldGu19L0w3) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Scott Alan](https://open.spotify.com/artist/36mPTvwUFmSOm3JcQyLuEy) | [Cynthia Erivo and Oliver Tompsett Sing Scott Alan](https://open.spotify.com/album/7kdMcZRveWqWsQARQDRQAt) | 4:56 |
 | 50 | [The Wizard And I \- Commentary](https://open.spotify.com/track/6jjHITTvyWcUboN8o7Pvcz) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Wicked: The Soundtrack \(Commentary\)](https://open.spotify.com/album/3SKe78ljCWiaGA2znAmGEs) | 0:46 |
 
-Snapshot ID: `aDOvAAAAAACY13AgvwApHuPaUtXCWqjg`
+Snapshot ID: `aDUAgAAAAADwAKhUaywSybiM3kK3YKDq`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from mgk, Alex Warren & Jelly Roll, Burna Boy & Travis Scott, Reneé Rapp, KAROL G, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,378,260 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,377,956 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 19 | [Big city life](https://open.spotify.com/track/02DduZyB33c2EpkSx2Zr4C) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Big city life](https://open.spotify.com/album/6C14WjZp4TYn9AXkhdx5Qd) | 2:08 |
 | 20 | [Don't Cry, Put Your Head On My Shoulder](https://open.spotify.com/track/7pIkx5eSiIqA4WPRK526Wf) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Don't Cry, Put Your Head On My Shoulder](https://open.spotify.com/album/74xb3RB0NFdpxogUMihIlb) | 3:51 |
 | 21 | [Moviestar](https://open.spotify.com/track/0ItVps4GAVBmOg8o9ZHEip) | [Remy Bond](https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo) | [Moviestar](https://open.spotify.com/album/13p5cFZs4kREuDaWysHci5) | 3:08 |
-| 22 | [HOLLYWOOD \- feat\. Shoreline Mafia](https://open.spotify.com/track/0uAmR0yTDNAaXA5jPGOrir) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ) | [HOLLYWOOD \(feat\. Shoreline Mafia\)](https://open.spotify.com/album/0pg3WtuKm4GlckMugbml46) | 3:00 |
+| 22 | [HOLLYWOOD](https://open.spotify.com/track/0uAmR0yTDNAaXA5jPGOrir) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ) | [HOLLYWOOD](https://open.spotify.com/album/0pg3WtuKm4GlckMugbml46) | 3:00 |
 | 23 | [So Sexyy \(with Sexyy Redd & YTB Fatt\)](https://open.spotify.com/track/208C0acBUn3Lzh4L5P5Kkw) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT) | [Let Me Fly](https://open.spotify.com/album/5bPJWz3z4NWjOaRYBRZBED) | 3:22 |
 | 24 | [Good Thing](https://open.spotify.com/track/3GFeuIIJQDgCpVHjsLkEgw) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [We are](https://open.spotify.com/album/1t6JFkzuqg7Wb7SzkHkheH) | 2:34 |
 | 25 | [You’re Invited \(feat\. Kenyon Dixon\)](https://open.spotify.com/track/1sSLrVeHhhfKxFGwx7u5pW) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL), [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [You’re Invited \(feat\. Kenyon Dixon\)](https://open.spotify.com/album/1GGaFCQrVk2sZNTpIuPjXM) | 2:58 |

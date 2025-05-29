@@ -1,6 +1,6 @@
 {
   "description": "The best new electronic indie music. Cover: Real Lies",
-  "num_followers": 36214,
+  "num_followers": 36229,
   "original_name": "Indie Electronic ",
   "owner": {
     "name": "Spotify",
@@ -847,6 +847,22 @@
     {
       "added_at": "2025-05-08 23:00:20",
       "album": {
+        "name": "So Low",
+        "url": "https://open.spotify.com/album/0kghcOAkB1hUkSKTFUxRpV"
+      },
+      "artists": [
+        {
+          "name": "49th & Main",
+          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
+        }
+      ],
+      "duration_ms": 165454,
+      "name": "So Low",
+      "url": "https://open.spotify.com/track/6LPooJUhejqFutgXU1DY0q"
+    },
+    {
+      "added_at": "2025-05-08 23:00:20",
+      "album": {
         "name": "Feel It For You",
         "url": "https://open.spotify.com/album/5JsQ0nnJ1jzG6QsjZyIh0F"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 214315,
       "name": "Lobster Telephone - Edit",
       "url": "https://open.spotify.com/track/6vrsFaISBLBKzQGZmqDnxK"
-    },
-    {
-      "added_at": "2025-05-08 23:00:20",
-      "album": {
-        "name": "So Low",
-        "url": "https://open.spotify.com/album/0kghcOAkB1hUkSKTFUxRpV"
-      },
-      "artists": [
-        {
-          "name": "49th & Main",
-          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
-        }
-      ],
-      "duration_ms": 165454,
-      "name": "So Low",
-      "url": "https://open.spotify.com/track/6LPooJUhejqFutgXU1DY0q"
     },
     {
       "added_at": "2025-05-08 23:00:20",
@@ -931,6 +931,22 @@
     {
       "added_at": "2025-05-08 23:00:20",
       "album": {
+        "name": "Fun",
+        "url": "https://open.spotify.com/album/1kZhU7o65hxykIDQlYaysm"
+      },
+      "artists": [
+        {
+          "name": "Deki Alem",
+          "url": "https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52"
+        }
+      ],
+      "duration_ms": 188321,
+      "name": "Fun",
+      "url": "https://open.spotify.com/track/7gsYaYvQHjW7x4UzLpCrVo"
+    },
+    {
+      "added_at": "2025-05-08 23:00:20",
+      "album": {
         "name": "Love Language",
         "url": "https://open.spotify.com/album/70Vz3MZVPq8Lw89xK2QsS6"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 278379,
       "name": "Love Language",
       "url": "https://open.spotify.com/track/4WzXJHxNBHuMuGg89mZFh1"
-    },
-    {
-      "added_at": "2025-05-08 23:00:20",
-      "album": {
-        "name": "Fun",
-        "url": "https://open.spotify.com/album/1kZhU7o65hxykIDQlYaysm"
-      },
-      "artists": [
-        {
-          "name": "Deki Alem",
-          "url": "https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52"
-        }
-      ],
-      "duration_ms": 188321,
-      "name": "Fun",
-      "url": "https://open.spotify.com/track/7gsYaYvQHjW7x4UzLpCrVo"
     },
     {
       "added_at": "2025-05-08 23:00:20",
@@ -1079,6 +1079,26 @@
     {
       "added_at": "2025-05-08 23:00:20",
       "album": {
+        "name": "Wake Up",
+        "url": "https://open.spotify.com/album/4h5y3RQfceyaCLCjDAYZuo"
+      },
+      "artists": [
+        {
+          "name": "Young Franco",
+          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
+        },
+        {
+          "name": "Master Peace",
+          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
+        }
+      ],
+      "duration_ms": 124401,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/1m8jhrWGlDXOWI2l8JG9Lk"
+    },
+    {
+      "added_at": "2025-05-08 23:00:20",
+      "album": {
         "name": "Galt",
         "url": "https://open.spotify.com/album/23rvvEZD5sNeIV3yvZR2b7"
       },
@@ -1111,26 +1131,6 @@
       "duration_ms": 199968,
       "name": "Lying In The Sand",
       "url": "https://open.spotify.com/track/3OW31vfqhbTcT5Po1L81Lo"
-    },
-    {
-      "added_at": "2025-05-08 23:00:20",
-      "album": {
-        "name": "Wake Up",
-        "url": "https://open.spotify.com/album/4h5y3RQfceyaCLCjDAYZuo"
-      },
-      "artists": [
-        {
-          "name": "Young Franco",
-          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
-        },
-        {
-          "name": "Master Peace",
-          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
-        }
-      ],
-      "duration_ms": 124401,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/1m8jhrWGlDXOWI2l8JG9Lk"
     },
     {
       "added_at": "2025-05-08 23:00:20",

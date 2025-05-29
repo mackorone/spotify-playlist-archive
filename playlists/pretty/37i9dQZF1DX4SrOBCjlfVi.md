@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Rob49, YG, BossMan Dlow and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,223 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,284 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Top Tingz](https://open.spotify.com/track/3AO8GgO0WMncsEwhLZJqh5) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Top Tingz](https://open.spotify.com/album/7mtsbsnf8Fv6VN2MdtIAy3) | 3:34 |
 | 2 | [So Sexyy \(with Sexyy Redd & YTB Fatt\)](https://open.spotify.com/track/208C0acBUn3Lzh4L5P5Kkw) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT) | [Let Me Fly](https://open.spotify.com/album/5bPJWz3z4NWjOaRYBRZBED) | 3:22 |
-| 3 | [HOLLYWOOD \- feat\. Shoreline Mafia](https://open.spotify.com/track/0uAmR0yTDNAaXA5jPGOrir) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ) | [HOLLYWOOD \(feat\. Shoreline Mafia\)](https://open.spotify.com/album/0pg3WtuKm4GlckMugbml46) | 3:00 |
+| 3 | [HOLLYWOOD](https://open.spotify.com/track/0uAmR0yTDNAaXA5jPGOrir) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ) | [HOLLYWOOD](https://open.spotify.com/album/0pg3WtuKm4GlckMugbml46) | 3:00 |
 | 4 | [TaTaTa \(feat\. Travis Scott\)](https://open.spotify.com/track/7iCvoWlfuJ1y7zibnh1EW9) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [TaTaTa \(feat\. Travis Scott\)](https://open.spotify.com/album/5g7VbiVwXeu8lVdj4tpAZ5) | 2:30 |
 | 5 | [WE NOT DONE](https://open.spotify.com/track/5ggfaK0dKWFrEr6PDO1knB) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [WE NOT DONE](https://open.spotify.com/album/7oBIAS28VRW3MK7WOcQtIo) | 2:55 |
 | 6 | [Plenty Motion](https://open.spotify.com/track/4UVZFD5h5RPoTjl1ExmxSe) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Dlow Curry \(Deluxe\)](https://open.spotify.com/album/6GuthNCWjSFsAFoKsnIBR7) | 1:55 |

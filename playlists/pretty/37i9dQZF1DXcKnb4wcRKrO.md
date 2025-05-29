@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKnb4wcRKrO.md) - [plain]
 
 > this and golden hour, apéritif, cozy time, beach wind\-down \-  jazzy vibes & relaxed house beats🍹
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,113 likes - 77 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,354 likes - 77 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKnb4wcRKrO.md) - [plain]
 | 76 | [amber](https://open.spotify.com/track/600oQJ0EL0L1WoxQQ8Mq8s) | [STELLA.](https://open.spotify.com/artist/7E4fw5nKeMuPzbvdn52nqa), [pedram](https://open.spotify.com/artist/0sQSO9miTJGNBj9Kqxptfz) | [amber](https://open.spotify.com/album/0k3nJYuhQ0qQAfPpgv2dyN) | 3:08 |
 | 77 | [Talk to me.](https://open.spotify.com/track/2CjCINQC9GwKJnkmxZM8X9) | [Bolden.](https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5) | [Talk to me.](https://open.spotify.com/album/3pOyuefXEHtWqCw3BsW5Wb) | 1:43 |
 
-Snapshot ID: `aCXbPgAAAACHlAjpI8zU7ZbjtfmUXlKg`
+Snapshot ID: `AAAAAJP/xd8tV4l4uvUHgkR5NlA8T4Gw`

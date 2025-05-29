@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Tomlin. The essential tracks, all in one playlist.",
-  "num_followers": 138573,
+  "num_followers": 138577,
   "original_name": "This Is Chris Tomlin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDOvAAAAAADGaWK9UgH785u8kbyQ4qID",
+  "snapshot_id": "aDUAgAAAAADcl+PFcxx8+3WhUVA+g33A",
   "tracks": [
     {
       "added_at": null,
@@ -639,6 +639,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Never Lose Sight (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7BK26n0Gkw7bvAlAUdU53F"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 245533,
+      "name": "Jesus",
+      "url": "https://open.spotify.com/track/7CNINxlyvWE15Dees3X5zC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "How Great Is Our God: The Essential Collection",
+        "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 280960,
+      "name": "We Fall Down",
+      "url": "https://open.spotify.com/track/5gnMKEfIyg2zu84vfmfSpa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Be A Light",
         "url": "https://open.spotify.com/album/6NUcdndmwC54yLd0KosGI2"
       },
@@ -667,38 +699,6 @@
       "duration_ms": 173960,
       "name": "Be A Light",
       "url": "https://open.spotify.com/track/5o6dFqafETxZNqUFt9ZqAC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "How Great Is Our God: The Essential Collection",
-        "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 280960,
-      "name": "We Fall Down",
-      "url": "https://open.spotify.com/track/5gnMKEfIyg2zu84vfmfSpa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Never Lose Sight (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7BK26n0Gkw7bvAlAUdU53F"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 245533,
-      "name": "Jesus",
-      "url": "https://open.spotify.com/track/7CNINxlyvWE15Dees3X5zC"
     },
     {
       "added_at": null,

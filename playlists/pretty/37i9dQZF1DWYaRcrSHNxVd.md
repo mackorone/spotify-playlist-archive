@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaRcrSHNxVd.md) - [plain]
 
 > Songs to skate to, curated by Jagger Eaton.
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,911 likes - 40 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,052 likes - 40 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaRcrSHNxVd.md) - [plain]
 | 12 | [Sharp Sh00ter](https://open.spotify.com/track/1bKnNaFOO9hMJf0lGJbbZ7) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [i5u5we5](https://open.spotify.com/album/6VQw51JISwFViXaj3K7u9d) | 1:42 |
 | 13 | [Karma \(feat\. YG Hootie, Popa Smurf & Slim Dunkin\)](https://open.spotify.com/track/69yBUy50NgpaYZYoiwDDhL) | [Waka Flocka Flame](https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM), [Popa Smurf](https://open.spotify.com/artist/1JDb8g61utAHwF6WI82RyZ), [Slim Dunkin](https://open.spotify.com/artist/1j9teSUrqJuPSWtXmgpbO3), [YG Hootie](https://open.spotify.com/artist/0AtWMBis5Rh02sFv4LgXtP) | [Flockaveli](https://open.spotify.com/album/6MQtWELG7aRX7CkAzQ6nLM) | 3:52 |
 | 14 | [Check](https://open.spotify.com/track/1jk9c0gZI0wbn5GvAj7PBV) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Barter 6](https://open.spotify.com/album/0BsMZIueWsJLWng8A7sE8e) | 3:50 |
-| 15 | [Text \(feat\. C\. Mula\)](https://open.spotify.com/track/5v18I01HnE6uXSrnFATTMA) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [C\. Mula](https://open.spotify.com/artist/12921jPZpHIrTHmVwB87LJ) | [Dedication](https://open.spotify.com/album/1cu8gZDe4a71AQgSlBHOAC) | 3:48 |
+| 15 | [Text \- feat\. C\. Mula](https://open.spotify.com/track/5v18I01HnE6uXSrnFATTMA) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [C\. Mula](https://open.spotify.com/artist/12921jPZpHIrTHmVwB87LJ) | [Dedication](https://open.spotify.com/album/1cu8gZDe4a71AQgSlBHOAC) | 3:48 |
 | 16 | [Whiplash'd](https://open.spotify.com/track/52a8SjUaDMkIZeE0kRHr79) | [Xavier Wulf](https://open.spotify.com/artist/3uo0ix4Y67XHVWBhXXIY1S) | [Whiplash'd](https://open.spotify.com/album/7MZWvFBfZ6rEVsc1LHmm12) | 1:50 |
 | 17 | [NO BYSTANDERS](https://open.spotify.com/track/6OaVWaGfhXn70ZJfdVcabn) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 3:38 |
 | 18 | [Long Time \- Intro](https://open.spotify.com/track/4IO2X2YoXoUMv0M2rwomLC) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Die Lit](https://open.spotify.com/album/7dAm8ShwJLFm9SaJ6Yc58O) | 3:31 |

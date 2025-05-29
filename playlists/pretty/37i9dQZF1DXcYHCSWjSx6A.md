@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYHCSWjSx6A.md) - [plain]
 
 > Check out our Kollywood Machos!<br/>Cover : Suriya
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,697 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,737 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYHCSWjSx6A.md) - [plain]
 | 33 | [Jai Sulthan \- From "Sulthan"](https://open.spotify.com/track/7crGzxRqI5pMZAjZgF9uu2) | [Vivek \- Mervin](https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Junior Nithya](https://open.spotify.com/artist/40ZhJCJheQU4Vgv544SLV3), [Gana Guna](https://open.spotify.com/artist/3xaAlrhQIwIUzoim09APaW) | [Jai Sulthan \(From "Sulthan"\)](https://open.spotify.com/album/3t8eTRRkTRs9mxxYWZK9Xz) | 4:06 |
 | 34 | [Varlaam Varlaam Vaa](https://open.spotify.com/track/4FRQWmFWX7ABRXHl4reyHn) | [Roshan Jamrock](https://open.spotify.com/artist/2ITH4nPbFeZ2Dj4zAIvl7S), [Arunraja Kamaraj](https://open.spotify.com/artist/3jw6WnDlhrKkNjgcp8JGQe) | [Bairavaa](https://open.spotify.com/album/0DCUShS8mPudHRV6GGQGsx) | 3:55 |
 | 35 | [Mavane \(From "Pattas"\)](https://open.spotify.com/track/6ffEHNJBFnr68xNVoRwPf2) | [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx) | [Mavane \(From "Pattas"\)](https://open.spotify.com/album/1GYOC0lb0qiE8iyXyJHzrs) | 3:51 |
-| 36 | [Kutti Puli Kootam](https://open.spotify.com/track/5ofC5Bkx59uOWCG3gJnQy2) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Tippu](https://open.spotify.com/artist/0PykiHCcDsMPRV7s67qZ1B) | [Thuppakki \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3cHO6AGqouRETUlmJTqxmy) | 6:08 |
-| 37 | [Varavaa Varavaa](https://open.spotify.com/track/7IPRyJWp0i9vgE2mDZ8kvk) | [Anirudh Ravichander,Vignesh Shivan](https://open.spotify.com/artist/51JNE3tEZCBbwogHG5FSgQ) | [Naanum Rowdy Dhaan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4JPb12l6n12Zo34Ut2XhFx) | 3:22 |
+| 36 | [Varavaa Varavaa](https://open.spotify.com/track/7IPRyJWp0i9vgE2mDZ8kvk) | [Anirudh Ravichander,Vignesh Shivan](https://open.spotify.com/artist/51JNE3tEZCBbwogHG5FSgQ) | [Naanum Rowdy Dhaan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4JPb12l6n12Zo34Ut2XhFx) | 3:22 |
+| 37 | [Kutti Puli Kootam](https://open.spotify.com/track/5ofC5Bkx59uOWCG3gJnQy2) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Tippu](https://open.spotify.com/artist/0PykiHCcDsMPRV7s67qZ1B) | [Thuppakki \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3cHO6AGqouRETUlmJTqxmy) | 6:08 |
 | 38 | [Kadhal Yaanai](https://open.spotify.com/track/2EmoaXUqkNFzIj6L9Oy0uy) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Harini](https://open.spotify.com/artist/1pnRoXjrOiEtxcTxJPBJKH) | [Anniyan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6jVAsnneh2gwlQRfbJ5M13) | 5:48 |
 | 39 | [Aaluma Doluma](https://open.spotify.com/track/1Do2hDE0etMakAEQbyOd4L) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Vedalam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3KOvSxSNXC7mPvVESt1rVT) | 4:18 |
 | 40 | [Kaththi Theme… The Sword of Destiny](https://open.spotify.com/track/1m2PQa2vARopdOK8xGVkaX) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Kaththi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0CHQy8WKl6HXPdoJM84pwb) | 1:01 |

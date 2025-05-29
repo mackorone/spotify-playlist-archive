@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxwXKCsImRe.md) - [plain]
 
 > We introduce exciting artists to you from the Benelux: <a href="spotify:artist:7Iff7uMHGSpOygBkCsdcHq">Hiqpy</a> \(cover\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,303 likes - 29 songs - 1 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,304 likes - 29 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

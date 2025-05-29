@@ -1,29 +1,13 @@
 {
   "description": "This is Kemilly Santos. The essential tracks, all in one playlist.",
-  "num_followers": 5532,
+  "num_followers": 5543,
   "original_name": "This Is Kemilly Santos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDOvAAAAAAAZ/b5b5Su99mJbpt6s9iPz",
+  "snapshot_id": "aDUAgAAAAAAGTrouHpC2moHLKA02+0eT",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cicatrizes (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/0WC4N0Z7RthAHJMmG3xoPX"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 276480,
-      "name": "Cicatrizes - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/1BwVIZfhJtLZpDVqhIjBLi"
-    },
     {
       "added_at": null,
       "album": {
@@ -343,26 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Presen\u00e7a",
-        "url": "https://open.spotify.com/album/0YJjGJRMMW4iLKzVkTaE9t"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        },
-        {
-          "name": "Anderson Freire",
-          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
-        }
-      ],
-      "duration_ms": 356176,
-      "name": "Presen\u00e7a",
-      "url": "https://open.spotify.com/track/349BKIWoKEa8QyobTc4O20"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Plano Original",
         "url": "https://open.spotify.com/album/4bAZtQAOkCmTIKKyA50cCI"
       },
@@ -379,6 +343,26 @@
       "duration_ms": 217500,
       "name": "Calma",
       "url": "https://open.spotify.com/track/2jpAVrNOYTHLguyC7ccPGj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Presen\u00e7a",
+        "url": "https://open.spotify.com/album/0YJjGJRMMW4iLKzVkTaE9t"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        },
+        {
+          "name": "Anderson Freire",
+          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+        }
+      ],
+      "duration_ms": 356176,
+      "name": "Presen\u00e7a",
+      "url": "https://open.spotify.com/track/349BKIWoKEa8QyobTc4O20"
     },
     {
       "added_at": null,
@@ -408,25 +392,9 @@
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
         }
       ],
-      "duration_ms": 301280,
-      "name": "360 Graus",
-      "url": "https://open.spotify.com/track/5SU7gkuU0jQerzQL44Tz2K"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eliseu (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3IxfoVmsukfrHmPm6asX4V"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 542010,
-      "name": "Eliseu - Ao Vivo",
-      "url": "https://open.spotify.com/track/7I1ZA8OJDPwyWmcvogY8Z5"
+      "duration_ms": 293026,
+      "name": "Fogo e Gl\u00f3ria",
+      "url": "https://open.spotify.com/track/0FaO859uX1wpZhnKa0cUzi"
     },
     {
       "added_at": null,
@@ -443,6 +411,22 @@
       "duration_ms": 278613,
       "name": "Limite (Ao Vivo)",
       "url": "https://open.spotify.com/track/2AfkBRIkeL12Jhwsqwyu0i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eliseu (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3IxfoVmsukfrHmPm6asX4V"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "duration_ms": 542010,
+      "name": "Eliseu - Ao Vivo",
+      "url": "https://open.spotify.com/track/7I1ZA8OJDPwyWmcvogY8Z5"
     },
     {
       "added_at": null,
@@ -472,9 +456,9 @@
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
         }
       ],
-      "duration_ms": 293026,
-      "name": "Fogo e Gl\u00f3ria",
-      "url": "https://open.spotify.com/track/0FaO859uX1wpZhnKa0cUzi"
+      "duration_ms": 301280,
+      "name": "360 Graus",
+      "url": "https://open.spotify.com/track/5SU7gkuU0jQerzQL44Tz2K"
     },
     {
       "added_at": null,
@@ -563,22 +547,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trilo",
-        "url": "https://open.spotify.com/album/2U8Z37cBZSCuN6IVd9wrMu"
+        "name": "Cicatrizes (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/0WC4N0Z7RthAHJMmG3xoPX"
       },
       "artists": [
-        {
-          "name": "Trilo",
-          "url": "https://open.spotify.com/artist/76bLMQAatDGLJ8yyuyVPjD"
-        },
         {
           "name": "Kemilly Santos",
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
         }
       ],
-      "duration_ms": 318076,
-      "name": "Pedro",
-      "url": "https://open.spotify.com/track/57FSmz2z4I2DLdjRBzdHpy"
+      "duration_ms": 276480,
+      "name": "Cicatrizes - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/1BwVIZfhJtLZpDVqhIjBLi"
     },
     {
       "added_at": null,
@@ -615,6 +595,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Trilo",
+        "url": "https://open.spotify.com/album/2U8Z37cBZSCuN6IVd9wrMu"
+      },
+      "artists": [
+        {
+          "name": "Trilo",
+          "url": "https://open.spotify.com/artist/76bLMQAatDGLJ8yyuyVPjD"
+        },
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "duration_ms": 318076,
+      "name": "Pedro",
+      "url": "https://open.spotify.com/track/57FSmz2z4I2DLdjRBzdHpy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Plano Original",
         "url": "https://open.spotify.com/album/4bAZtQAOkCmTIKKyA50cCI"
       },
@@ -624,25 +624,9 @@
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
         }
       ],
-      "duration_ms": 273913,
-      "name": "A Resposta",
-      "url": "https://open.spotify.com/track/4oNXwuFag2I7YMDLvlldtW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ele Te Escolheu (Ess\u00eancia Sessions)",
-        "url": "https://open.spotify.com/album/7vdquHLDt7lLkyOa6CawVN"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 241874,
-      "name": "Ele Te Escolheu (Ess\u00eancia Sessions)",
-      "url": "https://open.spotify.com/track/1VllRsyiavxu58wL4FGPv1"
+      "duration_ms": 237187,
+      "name": "Vai Acontecer",
+      "url": "https://open.spotify.com/track/4FBSQX1tKKfsIkW8rmvuQ7"
     },
     {
       "added_at": null,
@@ -683,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Plano Original",
-        "url": "https://open.spotify.com/album/4bAZtQAOkCmTIKKyA50cCI"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 237187,
-      "name": "Vai Acontecer",
-      "url": "https://open.spotify.com/track/4FBSQX1tKKfsIkW8rmvuQ7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Maravilhosa Gra\u00e7a (feat. Rebeca Carvalho)",
         "url": "https://open.spotify.com/album/1igRu2gmmWySSID0sgMLvb"
       },
@@ -723,6 +691,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Plano Original",
+        "url": "https://open.spotify.com/album/4bAZtQAOkCmTIKKyA50cCI"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "duration_ms": 273913,
+      "name": "A Resposta",
+      "url": "https://open.spotify.com/track/4oNXwuFag2I7YMDLvlldtW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Kemilly Santos ao Vivo em S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 305506,
       "name": "Fogo e Gl\u00f3ria / O Que Sua Gl\u00f3ria Fez Comigo (Ao Vivo)",
       "url": "https://open.spotify.com/track/3UpoN13s3AYmC8UJlbrfNm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ele Te Escolheu (Ess\u00eancia Sessions)",
+        "url": "https://open.spotify.com/album/7vdquHLDt7lLkyOa6CawVN"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "duration_ms": 241874,
+      "name": "Ele Te Escolheu (Ess\u00eancia Sessions)",
+      "url": "https://open.spotify.com/track/1VllRsyiavxu58wL4FGPv1"
     },
     {
       "added_at": null,

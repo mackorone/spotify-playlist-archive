@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Klisman
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,662 likes - 75 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,661 likes - 75 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 23 | [P.O.V.](https://open.spotify.com/track/2GmE0opXXRuMR82RFPq6dD) | [UCLÃ](https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP), [Duzz](https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz), [Sueth](https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX), [Sobs](https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9), [LX](https://open.spotify.com/artist/2Mpz3shu5Ud330kOoJFYpF) | [P.O.V.](https://open.spotify.com/album/7Cdcc5aWje0f5KDkcs6MNY) | 5:12 |
 | 24 | [FÉRIAS EM NEW YORK](https://open.spotify.com/track/2Zb8gedNLYceHyvbXgOjJl) | [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td), [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo) | [FUMANDO E VENDO SÉRIE](https://open.spotify.com/album/2dv5Tvi5N6CD0uTUvqAGIB) | 5:15 |
 | 25 | [USD, é USD!](https://open.spotify.com/track/0JPpScEAtvRvWQ38nifwO9) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU), [DJ Mzl Ori](https://open.spotify.com/artist/7b2orftrm2hU49EZKOD2Tz) | [USD, é USD!](https://open.spotify.com/album/5leihKxCDkW9o25unr3j6S) | 3:01 |
-| 26 | [Surf](https://open.spotify.com/track/1bKAAk7flDIrFcCZyhw8qO) | [El Coffee](https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5), [Franco, The Sir!](https://open.spotify.com/artist/2dSdEXb846NGEN95MkLTYU), [Ribb](https://open.spotify.com/artist/0QDtEwBuAbylERTOT4PntE) | [Surf](https://open.spotify.com/album/1pH6OY9IYNusyWnrVFer7z) | 2:49 |
+| 26 | [Surf](https://open.spotify.com/track/1bKAAk7flDIrFcCZyhw8qO) | [El Coffee](https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5), [Franco, The Sir!](https://open.spotify.com/artist/2dSdEXb846NGEN95MkLTYU), [Ribb](https://open.spotify.com/artist/0QDtEwBuAbylERTOT4PntE), [Valey](https://open.spotify.com/artist/5CJoSzfSFi2ddUQzwbVJQ9) | [Surf](https://open.spotify.com/album/1pH6OY9IYNusyWnrVFer7z) | 2:49 |
 | 27 | [Fogo no Pavio](https://open.spotify.com/track/32LDhU11HiZDnUpZBieLg0) | [PJ HOUDINI](https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [JHXW](https://open.spotify.com/artist/6DsMACWhJ5AgWLkZA2f5BV) | [Fogo no Pavio](https://open.spotify.com/album/0j4QBzcoZfB1aNT4owz79z) | 2:43 |
 | 28 | [Discreto](https://open.spotify.com/track/2tojoGnvHLNuMuGncpnjAC) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Discreto](https://open.spotify.com/album/1ACVXYNOm1AwwCPxzgZfe1) | 2:00 |
 | 29 | [Musa do Verão](https://open.spotify.com/track/7jdZXXQ0Th0Oub1NIW2EoK) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Raflow](https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0), [Dj Alle da coro](https://open.spotify.com/artist/6fGH2Qk8eKAcvEU1nHOi8x) | [Musa do Verão](https://open.spotify.com/album/02Gn0ZxKwgvwqqpJVm5BHw) | 2:42 |

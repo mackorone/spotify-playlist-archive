@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 
 > The best of modern blues rock\. Cover: Joe Bonamassa
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,906 likes - 150 songs - 9 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,956 likes - 150 songs - 9 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,7 +123,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 | 113 | [Can't Go Back](https://open.spotify.com/track/1UakN2FvjlCtktr5C7eKTU) | [Eric Steckel](https://open.spotify.com/artist/1Nszrfn8SpD5v19xCpaVbk) | [Polyphonic Prayer](https://open.spotify.com/album/1UDIrNUj89EZLk6sxDMQEo) | 4:55 |
 | 114 | [Why Would You Say Such a Thing](https://open.spotify.com/track/2ChjTl6De9oPARng4KS3F3) | [Dustin Douglas & the Electric Gentlemen](https://open.spotify.com/artist/0SCkDFjNZmp2hfT72RVTkm) | [Why Would You Say Such a Thing](https://open.spotify.com/album/5ULXrmyxzAhyzsVBhYsm53) | 2:34 |
 | 115 | [Haunted Heart](https://open.spotify.com/track/74y2oKuMSBVtoukuUg08rh) | [Ray Beadle](https://open.spotify.com/artist/7wGs0wj3dW628DJio6N4r3) | [Haunted Heart](https://open.spotify.com/album/1l6OJVASvXKZ5tsviojuoQ) | 3:48 |
-| 116 | [I'm Gone](https://open.spotify.com/track/1ZbVqL2ErCQH26Zj4JkHy0) | [Vision Arcade](https://open.spotify.com/artist/21tnncEE8gHj8B6C7iOCFX) | [I'm Gone](https://open.spotify.com/album/2mQCWFo3LOBpx66YqquzXr) | 4:42 |
+| 116 | [I'm Gone](https://open.spotify.com/track/1ZbVqL2ErCQH26Zj4JkHy0) | [VISION ARCADE](https://open.spotify.com/artist/21tnncEE8gHj8B6C7iOCFX) | [I'm Gone](https://open.spotify.com/album/2mQCWFo3LOBpx66YqquzXr) | 4:42 |
 | 117 | [Pick Your Poison](https://open.spotify.com/track/2oXl8o2g4iPAEZL1YbmYVH) | [Black Pistol Fire](https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo) | [Pick Your Poison](https://open.spotify.com/album/7DVKYtrPILCQxbUgP7EJ0a) | 3:45 |
 | 118 | [Open Your Eyes](https://open.spotify.com/track/1HaJ3wcWeA8n7QVdqfagKx) | [Madison Galloway](https://open.spotify.com/artist/50J27BeJLo8Roh6QepeJBR) | [Open Your Eyes](https://open.spotify.com/album/3WxhJW0zQ4HQjqYxerjrmB) | 4:34 |
 | 119 | [Louder](https://open.spotify.com/track/64u5BCxJ7tkiN3Zru9agqt) | [Chris Leamy](https://open.spotify.com/artist/1JPn3XQNeGEYGAxqC8apQx) | [Louder](https://open.spotify.com/album/3IeXcZHEGTwtu0TLFQ0djd) | 2:45 |

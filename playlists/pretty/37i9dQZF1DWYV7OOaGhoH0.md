@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 
 > The best in folk & acoustic today featuring music from  Wednesday
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,798,144 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,797,736 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 | 99 | [Whiskey Angel](https://open.spotify.com/track/4dkJAQlRswrkaapPJcOfys) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [Ever\-Shifting, Continual Blossoming](https://open.spotify.com/album/2jHVzEpvZ8gV5zn5IywmRB) | 2:50 |
 | 100 | [Sailor Song](https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit) | 3:31 |
 
-Snapshot ID: `aC/y8AAAAABTL8HYV8xI+2J+UV1RjGOw`
+Snapshot ID: `aC/y8AAAAACbkOW5nWbzPFvRYbR0cS3j`

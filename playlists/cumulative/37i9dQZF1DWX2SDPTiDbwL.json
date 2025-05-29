@@ -1549,6 +1549,24 @@
     },
     {
       "album": {
+        "name": "Onyx",
+        "url": "https://open.spotify.com/album/3xxdEs2WfbfsP14dXWdzEN"
+      },
+      "artists": [
+        {
+          "name": "Esmeralda Torres",
+          "url": "https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp"
+        }
+      ],
+      "date_added": "2025-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165577,
+      "name": "Onyx",
+      "url": "https://open.spotify.com/track/5vPIHZrhWQV4bJvEvMOdwa"
+    },
+    {
+      "album": {
         "name": "Oscar",
         "url": "https://open.spotify.com/album/5AvUWcX6u0sDE6CyV0N5xB"
       },

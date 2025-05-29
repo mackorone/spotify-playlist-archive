@@ -4958,7 +4958,7 @@
       ],
       "date_added": "2025-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-29",
       "duration_ms": 231826,
       "name": "Let's FUJIWARA",
       "url": "https://open.spotify.com/track/4SwU8g5Yt6Wg2rWBhhmyIG"
@@ -10995,6 +10995,32 @@
     },
     {
       "album": {
+        "name": "VS",
+        "url": "https://open.spotify.com/album/1CNntUhNcB7ubvHncuVDcu"
+      },
+      "artists": [
+        {
+          "name": "\u3077\u306b\u3077\u306b\u96fb\u6a5f",
+          "url": "https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK"
+        },
+        {
+          "name": "\u6c34\u69fd",
+          "url": "https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq"
+        },
+        {
+          "name": "Gimgigam",
+          "url": "https://open.spotify.com/artist/1LHF7KKnogex2qYTumsGiY"
+        }
+      ],
+      "date_added": "2025-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165913,
+      "name": "VS",
+      "url": "https://open.spotify.com/track/1q0kEuBTOCmRJ2B7o4sESz"
+    },
+    {
+      "album": {
         "name": "Want You / Merry-Go-Round",
         "url": "https://open.spotify.com/album/1Cg0oGrE8oXGgW0C64Oeqe"
       },
@@ -11902,7 +11928,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-29",
       "duration_ms": 216204,
       "name": "\u3044\u3048\u306a\u3044",
       "url": "https://open.spotify.com/track/5zU11rGz9E06aZRUO8E3rm"
@@ -12874,7 +12900,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-01",
+      "date_removed": null,
       "duration_ms": 222464,
       "name": "\u30a8\u30e1\u30e9\u30eb\u30c9\u30b0\u30ea\u30fc\u30f3\u306e\u63fa\u3089\u3081\u304d",
       "url": "https://open.spotify.com/track/2OkLRX5QF4RGNnCbeFlFwX"

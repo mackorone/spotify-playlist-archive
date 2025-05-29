@@ -1,12 +1,12 @@
 {
   "description": "This is Fernanda Brum. The essential tracks, all in one playlist.",
-  "num_followers": 73363,
+  "num_followers": 73366,
   "original_name": "This Is Fernanda Brum",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDOvAAAAAACS1+KewnveunFncMBgar/0",
+  "snapshot_id": "aDUAgAAAAAB7yiQuhAZ6axXEulKml2Y9",
   "tracks": [
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apenas um Toque",
-        "url": "https://open.spotify.com/album/2a9dxd5z61o4if1fI16vel"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 289041,
-      "name": "Puro Nardo",
-      "url": "https://open.spotify.com/track/7LHGwdC5OJpb4v8nO0ie73"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "O Amor Que Cura (Ao Vivo)",
         "url": "https://open.spotify.com/album/3XTXGvthPvk7uBuxQi2SyB"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 261999,
       "name": "O Amor Que Cura - Ao Vivo",
       "url": "https://open.spotify.com/track/5b47ZWRCXkysAs2sK2bkrG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Apenas um Toque",
+        "url": "https://open.spotify.com/album/2a9dxd5z61o4if1fI16vel"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 289041,
+      "name": "Puro Nardo",
+      "url": "https://open.spotify.com/track/7LHGwdC5OJpb4v8nO0ie73"
     },
     {
       "added_at": null,
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cura-me",
-        "url": "https://open.spotify.com/album/63of1PwXSdXGg8V5JZkJt3"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 305342,
-      "name": "Adorai, Adonai",
-      "url": "https://open.spotify.com/track/5oHXT1Q1gqtfxnbyjjGITZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Meu Bem Maior",
         "url": "https://open.spotify.com/album/2WdRhfIIk9y1EbZm0TO3ae"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 217849,
       "name": "Meu Bem Maior",
       "url": "https://open.spotify.com/track/2L45wEZfgukdZIixbyZVA4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cura-me",
+        "url": "https://open.spotify.com/album/63of1PwXSdXGg8V5JZkJt3"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 305342,
+      "name": "Adorai, Adonai",
+      "url": "https://open.spotify.com/track/5oHXT1Q1gqtfxnbyjjGITZ"
     },
     {
       "added_at": null,
@@ -915,22 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Escreve",
-        "url": "https://open.spotify.com/album/23VnB0ZTqln1XnMUinTGW2"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 275590,
-      "name": "Escreve",
-      "url": "https://open.spotify.com/track/6e2qXHWkxNNJyROemErInw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Imagine (Ao Vivo)",
         "url": "https://open.spotify.com/album/70BXXPNfNXGXBT7P2vjh17"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 275604,
       "name": "Imagine (Ao Vivo)",
       "url": "https://open.spotify.com/track/7i3FmPXzZ09XKSECqPSDLi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Escreve",
+        "url": "https://open.spotify.com/album/23VnB0ZTqln1XnMUinTGW2"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 275590,
+      "name": "Escreve",
+      "url": "https://open.spotify.com/track/6e2qXHWkxNNJyROemErInw"
     },
     {
       "added_at": null,

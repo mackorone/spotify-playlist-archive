@@ -448,7 +448,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-29",
       "duration_ms": 113333,
       "name": "2031",
       "url": "https://open.spotify.com/track/2WpUSQmw5GyoyhVBXGYdxh"
@@ -4922,7 +4922,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-27",
+      "date_removed": null,
       "duration_ms": 207403,
       "name": "Baddies",
       "url": "https://open.spotify.com/track/7arCRGABaKdEFvGa3gCM9d"
@@ -5358,7 +5358,7 @@
       ],
       "date_added": "2025-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-29",
       "duration_ms": 166880,
       "name": "Bara Bada Bastu",
       "url": "https://open.spotify.com/track/6eIzQCYExfnNeM7KOlE3lE"
@@ -29432,7 +29432,7 @@
       ],
       "date_added": "2025-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-29",
       "duration_ms": 180195,
       "name": "maman",
       "url": "https://open.spotify.com/track/1FsIoCTWHx6lB0f3PgYdtz"
@@ -31796,7 +31796,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-19",
+      "date_removed": null,
       "duration_ms": 171537,
       "name": "Mood",
       "url": "https://open.spotify.com/track/58rVY9wmIYBOzdLXygVs6i"
@@ -33122,7 +33122,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-27",
+      "date_removed": null,
       "duration_ms": 217693,
       "name": "NANANI NANANA",
       "url": "https://open.spotify.com/track/0qlYaRFGvgR6afy1f4BBwD"
@@ -33446,7 +33446,7 @@
       ],
       "date_added": "2025-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-27",
+      "date_removed": null,
       "duration_ms": 176000,
       "name": "Nice To Meet You",
       "url": "https://open.spotify.com/track/6eWAWHm0cuOaPGDWhoLJ7s"
@@ -34476,7 +34476,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-27",
+      "date_removed": null,
       "duration_ms": 183685,
       "name": "NUEVAYoL",
       "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
@@ -42541,6 +42541,24 @@
     },
     {
       "album": {
+        "name": "Las Cartier",
+        "url": "https://open.spotify.com/album/5bJrGResXSqeLmtIdG9JKe"
+      },
+      "artists": [
+        {
+          "name": "Flowerz",
+          "url": "https://open.spotify.com/artist/6wFa7pw1DJATz85rGVoMOf"
+        }
+      ],
+      "date_added": "2025-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "Sientelo",
+      "url": "https://open.spotify.com/track/6nkAh3VqgXTdUIgCqk91Eg"
+    },
+    {
+      "album": {
         "name": "Sierra",
         "url": "https://open.spotify.com/album/5bpgWBqlh8WjarrEZouClL"
       },
@@ -45194,7 +45212,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-29",
       "duration_ms": 147326,
       "name": "SUELTA",
       "url": "https://open.spotify.com/track/6ZPfvfb1IieK9vMshXD6VH"
@@ -47180,7 +47198,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-29",
       "duration_ms": 190427,
       "name": "The Emptiness Machine",
       "url": "https://open.spotify.com/track/1EDPVGbyPKJPeGqATwXZvN"
@@ -50140,7 +50158,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-29",
       "duration_ms": 196352,
       "name": "Una Vez M\u00e1s Dijo Mai",
       "url": "https://open.spotify.com/track/1c3EzfmQChEApeYpAh8SPW"

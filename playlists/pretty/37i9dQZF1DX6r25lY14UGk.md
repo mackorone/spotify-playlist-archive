@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 
 > New releases for the kids\. Cover: Peppa Pig
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,484 likes - 142 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,694 likes - 142 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

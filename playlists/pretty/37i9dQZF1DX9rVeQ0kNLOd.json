@@ -1,6 +1,6 @@
 {
   "description": "\u3044\u308d\u3044\u308d\u3042\u308b\u304b\u3082\u77e5\u308c\u306a\u3044\u3051\u308c\u3069\u3001\u3061\u3087\u3063\u3068\u4f11\u61a9\u3057\u307e\u305b\u3093\u304b\uff1f\u30c1\u30eb\u306a\u697d\u66f2\u3067\u3086\u3063\u305f\u308a\u307e\u3063\u305f\u308a\u306a\u3072\u3068\u6642\u3092\u3002Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 26879,
+  "num_followers": 26888,
   "original_name": "\u307e\u3069\u308d\u307f\u306e\u4e2d\u3067",
   "owner": {
     "name": "Spotify",
@@ -691,8 +691,8 @@
     {
       "added_at": "2025-05-20 15:00:02",
       "album": {
-        "name": "Butterfly",
-        "url": "https://open.spotify.com/album/428NUiCIToyIhyAQEf2zAw"
+        "name": "harunone",
+        "url": "https://open.spotify.com/album/1s3ZPjmQ7ZX6UOrIh4W43w"
       },
       "artists": [
         {
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
         }
       ],
-      "duration_ms": 189006,
-      "name": "Butterfly",
-      "url": "https://open.spotify.com/track/0hwtEIit3clZ8uVLYGyCyj"
+      "duration_ms": 199120,
+      "name": "harunone",
+      "url": "https://open.spotify.com/track/6Yu04azyaRYfstRsHJPKK8"
     },
     {
       "added_at": "2025-05-20 15:00:02",
@@ -763,38 +763,6 @@
     {
       "added_at": "2025-05-20 15:00:02",
       "album": {
-        "name": "\u30ab\u30bf\u30b3\u30c8",
-        "url": "https://open.spotify.com/album/6Kga2QgL5PJGfn3v7aKJ2w"
-      },
-      "artists": [
-        {
-          "name": "sloppy dim",
-          "url": "https://open.spotify.com/artist/6uMBnBtHeJmhc2tx1vDCae"
-        }
-      ],
-      "duration_ms": 158888,
-      "name": "\u30ab\u30bf\u30b3\u30c8",
-      "url": "https://open.spotify.com/track/3ck6DbwKM4maTik8s7j3s4"
-    },
-    {
-      "added_at": "2025-05-20 15:00:02",
-      "album": {
-        "name": "harunone",
-        "url": "https://open.spotify.com/album/1s3ZPjmQ7ZX6UOrIh4W43w"
-      },
-      "artists": [
-        {
-          "name": "iri",
-          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
-        }
-      ],
-      "duration_ms": 199120,
-      "name": "harunone",
-      "url": "https://open.spotify.com/track/6Yu04azyaRYfstRsHJPKK8"
-    },
-    {
-      "added_at": "2025-05-20 15:00:02",
-      "album": {
         "name": "swipe sheep",
         "url": "https://open.spotify.com/album/3jtrdWKt4Uo5iUU6VCc0do"
       },
@@ -811,6 +779,54 @@
     {
       "added_at": "2025-05-20 15:00:02",
       "album": {
+        "name": "Butterfly",
+        "url": "https://open.spotify.com/album/428NUiCIToyIhyAQEf2zAw"
+      },
+      "artists": [
+        {
+          "name": "iri",
+          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
+        }
+      ],
+      "duration_ms": 189006,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/0hwtEIit3clZ8uVLYGyCyj"
+    },
+    {
+      "added_at": "2025-05-20 15:00:02",
+      "album": {
+        "name": "\u30ab\u30bf\u30b3\u30c8",
+        "url": "https://open.spotify.com/album/6Kga2QgL5PJGfn3v7aKJ2w"
+      },
+      "artists": [
+        {
+          "name": "sloppy dim",
+          "url": "https://open.spotify.com/artist/6uMBnBtHeJmhc2tx1vDCae"
+        }
+      ],
+      "duration_ms": 158888,
+      "name": "\u30ab\u30bf\u30b3\u30c8",
+      "url": "https://open.spotify.com/track/3ck6DbwKM4maTik8s7j3s4"
+    },
+    {
+      "added_at": "2025-05-20 15:00:02",
+      "album": {
+        "name": "\u30b5\u30f3\u30af\u30c1\u30e5\u30a2\u30ea",
+        "url": "https://open.spotify.com/album/3K6BhGujuqyF0aTdSA0DYb"
+      },
+      "artists": [
+        {
+          "name": "Da-iCE",
+          "url": "https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH"
+        }
+      ],
+      "duration_ms": 292080,
+      "name": "\u30b5\u30f3\u30af\u30c1\u30e5\u30a2\u30ea",
+      "url": "https://open.spotify.com/track/1meZPjZFVbA9psKezn9Z87"
+    },
+    {
+      "added_at": "2025-05-20 15:00:02",
+      "album": {
         "name": "\u5207\u611b",
         "url": "https://open.spotify.com/album/7pvhBUlAVqaq40IiMJ5Szf"
       },
@@ -823,30 +839,6 @@
       "duration_ms": 223346,
       "name": "\u3053\u308c\u3060\u3051\u3067\u5341\u5206\u306a\u306e\u306b - (BASI REMIX)",
       "url": "https://open.spotify.com/track/6zQH04kpeG68psOniDOuyd"
-    },
-    {
-      "added_at": "2025-05-20 15:00:02",
-      "album": {
-        "name": "RENDEZVOUS (feat. hard life)",
-        "url": "https://open.spotify.com/album/6KeUu57PZdCQyJVU4A4iSG"
-      },
-      "artists": [
-        {
-          "name": "SIRUP",
-          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
-        },
-        {
-          "name": "Taka Perry",
-          "url": "https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF"
-        },
-        {
-          "name": "hard life",
-          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
-        }
-      ],
-      "duration_ms": 185999,
-      "name": "RENDEZVOUS - feat. hard life",
-      "url": "https://open.spotify.com/track/7IW75vzcw6xcJUIQBBEbfe"
     }
   ],
   "unique_name": "\u307e\u3069\u308d\u307f\u306e\u4e2d\u3067",

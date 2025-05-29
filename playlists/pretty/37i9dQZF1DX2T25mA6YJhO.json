@@ -1,6 +1,6 @@
 {
   "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: La Paloma.",
-  "num_followers": 27138,
+  "num_followers": 27163,
   "original_name": "Rock 2025",
   "owner": {
     "name": "Spotify",
@@ -551,6 +551,22 @@
     {
       "added_at": "2025-05-22 22:00:35",
       "album": {
+        "name": "Dos Gusanos",
+        "url": "https://open.spotify.com/album/03oipajiAtAgWzZTo6CKFZ"
+      },
+      "artists": [
+        {
+          "name": "VVV [Trippin'you]",
+          "url": "https://open.spotify.com/artist/7tszuN9emjCCsC7kccXTFU"
+        }
+      ],
+      "duration_ms": 185565,
+      "name": "Dos Gusanos",
+      "url": "https://open.spotify.com/track/0QCThVo6CAQ85b8a8yCaxM"
+    },
+    {
+      "added_at": "2025-05-22 22:00:35",
+      "album": {
         "name": "No lo volver\u00e9 a hacer",
         "url": "https://open.spotify.com/album/3oHXlxp5C7e59cu7OdmhPI"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 155800,
       "name": "Te matar\u00e9",
       "url": "https://open.spotify.com/track/2cZmRibufSnJylo0g29vXg"
-    },
-    {
-      "added_at": "2025-05-22 22:00:35",
-      "album": {
-        "name": "Dos Gusanos",
-        "url": "https://open.spotify.com/album/03oipajiAtAgWzZTo6CKFZ"
-      },
-      "artists": [
-        {
-          "name": "VVV [Trippin'you]",
-          "url": "https://open.spotify.com/artist/7tszuN9emjCCsC7kccXTFU"
-        }
-      ],
-      "duration_ms": 185565,
-      "name": "Dos Gusanos",
-      "url": "https://open.spotify.com/track/0QCThVo6CAQ85b8a8yCaxM"
     },
     {
       "added_at": "2025-05-22 22:00:35",
@@ -727,22 +727,6 @@
     {
       "added_at": "2025-05-22 22:00:35",
       "album": {
-        "name": "Uma Thurman",
-        "url": "https://open.spotify.com/album/02PWBo7h3VbVn3MpgVCwxz"
-      },
-      "artists": [
-        {
-          "name": "Sobrezero",
-          "url": "https://open.spotify.com/artist/5shINgHUmPMcJFG3MivRZr"
-        }
-      ],
-      "duration_ms": 178629,
-      "name": "Uma Thurman",
-      "url": "https://open.spotify.com/track/2kdvuLboXtcrWjk3ZVqauw"
-    },
-    {
-      "added_at": "2025-05-22 22:00:35",
-      "album": {
         "name": "Entre Amores y Errores",
         "url": "https://open.spotify.com/album/071E2UPxi3oZfLm9vHTxpc"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 165197,
       "name": "Amores y Errores",
       "url": "https://open.spotify.com/track/0m9HSvl7fLvBxNPDSFTW2D"
+    },
+    {
+      "added_at": "2025-05-22 22:00:35",
+      "album": {
+        "name": "Uma Thurman",
+        "url": "https://open.spotify.com/album/02PWBo7h3VbVn3MpgVCwxz"
+      },
+      "artists": [
+        {
+          "name": "Sobrezero",
+          "url": "https://open.spotify.com/artist/5shINgHUmPMcJFG3MivRZr"
+        }
+      ],
+      "duration_ms": 178629,
+      "name": "Uma Thurman",
+      "url": "https://open.spotify.com/track/2kdvuLboXtcrWjk3ZVqauw"
     },
     {
       "added_at": "2025-05-22 22:00:35",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2025-05-22 22:00:35",
       "album": {
-        "name": "TENGO UNA COSA EN LA CARTERA",
-        "url": "https://open.spotify.com/album/0QS6nqp3ISEgB0jafIu2m3"
-      },
-      "artists": [
-        {
-          "name": "RATA",
-          "url": "https://open.spotify.com/artist/28xI1L1VYJXU9XnhzWmHdR"
-        }
-      ],
-      "duration_ms": 236571,
-      "name": "TENGO UNA COSA EN LA CARTERA",
-      "url": "https://open.spotify.com/track/1axufhRkF7nGYx769ZCHuE"
-    },
-    {
-      "added_at": "2025-05-22 22:00:35",
-      "album": {
         "name": "PARAR EL TIEMPO",
         "url": "https://open.spotify.com/album/6SDYi499w2SeknkNGxh0cB"
       },
@@ -1203,6 +1187,22 @@
     {
       "added_at": "2025-05-22 22:00:35",
       "album": {
+        "name": "TENGO UNA COSA EN LA CARTERA",
+        "url": "https://open.spotify.com/album/0QS6nqp3ISEgB0jafIu2m3"
+      },
+      "artists": [
+        {
+          "name": "RATA",
+          "url": "https://open.spotify.com/artist/28xI1L1VYJXU9XnhzWmHdR"
+        }
+      ],
+      "duration_ms": 236571,
+      "name": "TENGO UNA COSA EN LA CARTERA",
+      "url": "https://open.spotify.com/track/1axufhRkF7nGYx769ZCHuE"
+    },
+    {
+      "added_at": "2025-05-22 22:00:35",
+      "album": {
         "name": "La gran renuncia",
         "url": "https://open.spotify.com/album/4UTY5ZCz3QWi9I9oMQOJ8O"
       },
@@ -1215,6 +1215,26 @@
       "duration_ms": 146132,
       "name": "La gran renuncia",
       "url": "https://open.spotify.com/track/11CA4TGaCv8VuOpQ81CZGO"
+    },
+    {
+      "added_at": "2025-05-22 22:00:35",
+      "album": {
+        "name": "Ganas de verte",
+        "url": "https://open.spotify.com/album/4Ai4xJrsBo8EvvWYl4BcVM"
+      },
+      "artists": [
+        {
+          "name": "Pagafantas",
+          "url": "https://open.spotify.com/artist/3tK9yOouaJ56vcGh4uEooV"
+        },
+        {
+          "name": "Luc\u00eda Moreno",
+          "url": "https://open.spotify.com/artist/5Vbi6yLxxnQcO6k0tuZV7V"
+        }
+      ],
+      "duration_ms": 174613,
+      "name": "Ganas de verte",
+      "url": "https://open.spotify.com/track/31ZhYH8vyZceJpm0PYpW6Y"
     },
     {
       "added_at": "2025-05-22 22:00:35",
@@ -1255,26 +1275,6 @@
     {
       "added_at": "2025-05-22 22:00:35",
       "album": {
-        "name": "Ganas de verte",
-        "url": "https://open.spotify.com/album/4Ai4xJrsBo8EvvWYl4BcVM"
-      },
-      "artists": [
-        {
-          "name": "Pagafantas",
-          "url": "https://open.spotify.com/artist/3tK9yOouaJ56vcGh4uEooV"
-        },
-        {
-          "name": "Luc\u00eda Moreno",
-          "url": "https://open.spotify.com/artist/5Vbi6yLxxnQcO6k0tuZV7V"
-        }
-      ],
-      "duration_ms": 174613,
-      "name": "Ganas de verte",
-      "url": "https://open.spotify.com/track/31ZhYH8vyZceJpm0PYpW6Y"
-    },
-    {
-      "added_at": "2025-05-22 22:00:35",
-      "album": {
         "name": "MENTIRA",
         "url": "https://open.spotify.com/album/24mCgu4HUhxk6HmPLUe8PR"
       },
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2025-05-22 22:00:35",
       "album": {
-        "name": "Historias que contar",
-        "url": "https://open.spotify.com/album/0RJ13jWwbQkYByaYGIIYBv"
+        "name": "Eres Un Regalo",
+        "url": "https://open.spotify.com/album/4CHwpS1nKJfM8D9sOy317b"
       },
       "artists": [
         {
-          "name": "rumbos",
-          "url": "https://open.spotify.com/artist/7qNftOu0DUIDh1Gd6Gy8LQ"
+          "name": "Joven Dolores",
+          "url": "https://open.spotify.com/artist/6SNJAvWSF0KZJbt3T162RH"
         }
       ],
-      "duration_ms": 209582,
-      "name": "Historias que contar",
-      "url": "https://open.spotify.com/track/3taryJdWZSn8ucmFyqHlvR"
+      "duration_ms": 210428,
+      "name": "Eres Un Regalo",
+      "url": "https://open.spotify.com/track/3CL17u9HMbAXM2KYWHLoxv"
     },
     {
       "added_at": "2025-05-22 22:00:35",
@@ -1339,18 +1339,18 @@
     {
       "added_at": "2025-05-22 22:00:35",
       "album": {
-        "name": "Eres Un Regalo",
-        "url": "https://open.spotify.com/album/4CHwpS1nKJfM8D9sOy317b"
+        "name": "Historias que contar",
+        "url": "https://open.spotify.com/album/0RJ13jWwbQkYByaYGIIYBv"
       },
       "artists": [
         {
-          "name": "Joven Dolores",
-          "url": "https://open.spotify.com/artist/6SNJAvWSF0KZJbt3T162RH"
+          "name": "rumbos",
+          "url": "https://open.spotify.com/artist/7qNftOu0DUIDh1Gd6Gy8LQ"
         }
       ],
-      "duration_ms": 210428,
-      "name": "Eres Un Regalo",
-      "url": "https://open.spotify.com/track/3CL17u9HMbAXM2KYWHLoxv"
+      "duration_ms": 209582,
+      "name": "Historias que contar",
+      "url": "https://open.spotify.com/track/3taryJdWZSn8ucmFyqHlvR"
     },
     {
       "added_at": "2025-05-22 22:00:35",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2025-05-22 22:00:35",
       "album": {
+        "name": "Pedro Bicicletas",
+        "url": "https://open.spotify.com/album/0P3Hdlh6LmtJXei8SVJFsj"
+      },
+      "artists": [
+        {
+          "name": "Ru\u00efnosa y las Strippers de Rahola",
+          "url": "https://open.spotify.com/artist/6JcoLHQLRlm12My6cACmlT"
+        }
+      ],
+      "duration_ms": 219428,
+      "name": "Pedro Bicicletas",
+      "url": "https://open.spotify.com/track/7lXH03N9sAScdPeQ9HDJXx"
+    },
+    {
+      "added_at": "2025-05-22 22:00:35",
+      "album": {
         "name": "COMERTE",
         "url": "https://open.spotify.com/album/0ifKdGsvgwtMl1bPWSOvxz"
       },
@@ -1471,22 +1487,6 @@
     {
       "added_at": "2025-05-22 22:00:35",
       "album": {
-        "name": "4 Impulsos M\u00e1s",
-        "url": "https://open.spotify.com/album/1ZAHYBJwpccd5CIo0Ab1zo"
-      },
-      "artists": [
-        {
-          "name": "Erin Memento",
-          "url": "https://open.spotify.com/artist/7J8Jvh09QTtKZYnvChiHsp"
-        }
-      ],
-      "duration_ms": 207124,
-      "name": "4 Impulsos M\u00e1s",
-      "url": "https://open.spotify.com/track/2UEWhrxIRlZJeObLrwhhE2"
-    },
-    {
-      "added_at": "2025-05-22 22:00:35",
-      "album": {
         "name": "Tu desd\u00e9n",
         "url": "https://open.spotify.com/album/7qLqRKGoHrsxGdIJ8MTfhG"
       },
@@ -1503,18 +1503,18 @@
     {
       "added_at": "2025-05-22 22:00:35",
       "album": {
-        "name": "Pedro Bicicletas",
-        "url": "https://open.spotify.com/album/0P3Hdlh6LmtJXei8SVJFsj"
+        "name": "4 Impulsos M\u00e1s",
+        "url": "https://open.spotify.com/album/1ZAHYBJwpccd5CIo0Ab1zo"
       },
       "artists": [
         {
-          "name": "Ru\u00efnosa y las Strippers de Rahola",
-          "url": "https://open.spotify.com/artist/6JcoLHQLRlm12My6cACmlT"
+          "name": "Erin Memento",
+          "url": "https://open.spotify.com/artist/7J8Jvh09QTtKZYnvChiHsp"
         }
       ],
-      "duration_ms": 219428,
-      "name": "Pedro Bicicletas",
-      "url": "https://open.spotify.com/track/7lXH03N9sAScdPeQ9HDJXx"
+      "duration_ms": 207124,
+      "name": "4 Impulsos M\u00e1s",
+      "url": "https://open.spotify.com/track/2UEWhrxIRlZJeObLrwhhE2"
     },
     {
       "added_at": "2025-05-22 22:00:35",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2025-05-22 22:00:35",
       "album": {
-        "name": "Cocido, Madrid",
-        "url": "https://open.spotify.com/album/2OwPCULIVI2XSRgi3RlYPY"
+        "name": "WTF",
+        "url": "https://open.spotify.com/album/5ApCX1wSvwDMCEK7d0Njlx"
       },
       "artists": [
         {
-          "name": "piti y me voy",
-          "url": "https://open.spotify.com/artist/334ZIJVugvR3DZxCXNnusx"
+          "name": "PELIGRO!",
+          "url": "https://open.spotify.com/artist/3FDCL5TTPpKM5liVuuU0f3"
         }
       ],
-      "duration_ms": 171351,
-      "name": "Cocido, Madrid",
-      "url": "https://open.spotify.com/track/31bAzaiSL9YidyP54R3QdT"
+      "duration_ms": 187816,
+      "name": "WTF",
+      "url": "https://open.spotify.com/track/5RcL45YbinszYJU2Stixca"
     },
     {
       "added_at": "2025-05-22 22:00:35",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2025-05-22 22:00:35",
       "album": {
-        "name": "WTF",
-        "url": "https://open.spotify.com/album/5ApCX1wSvwDMCEK7d0Njlx"
-      },
-      "artists": [
-        {
-          "name": "PELIGRO!",
-          "url": "https://open.spotify.com/artist/3FDCL5TTPpKM5liVuuU0f3"
-        }
-      ],
-      "duration_ms": 187816,
-      "name": "WTF",
-      "url": "https://open.spotify.com/track/5RcL45YbinszYJU2Stixca"
-    },
-    {
-      "added_at": "2025-05-22 22:00:35",
-      "album": {
         "name": "Huella de ti",
         "url": "https://open.spotify.com/album/04VF4cO2dj3nuNvnPKBIfH"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 197253,
       "name": "Huella de ti",
       "url": "https://open.spotify.com/track/6SmYVKgtUd4jsZdkAnnA1b"
+    },
+    {
+      "added_at": "2025-05-22 22:00:35",
+      "album": {
+        "name": "Cocido, Madrid",
+        "url": "https://open.spotify.com/album/2OwPCULIVI2XSRgi3RlYPY"
+      },
+      "artists": [
+        {
+          "name": "piti y me voy",
+          "url": "https://open.spotify.com/artist/334ZIJVugvR3DZxCXNnusx"
+        }
+      ],
+      "duration_ms": 171351,
+      "name": "Cocido, Madrid",
+      "url": "https://open.spotify.com/track/31bAzaiSL9YidyP54R3QdT"
     },
     {
       "added_at": "2025-05-22 22:00:35",

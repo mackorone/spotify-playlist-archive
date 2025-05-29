@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5PHJQUwAnG.md) - [plain]
 
 > Bienvenidx a la trampa mexa\. Alemán en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,875 likes - 95 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,894 likes - 95 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Adios Mama](https://open.spotify.com/track/5ynXbvpVZ3HZoWdMeg8okp) | [El Makabelico](https://open.spotify.com/artist/0rJ0xlAQI0wLRucDRoQQbO) | [Adios Mama](https://open.spotify.com/album/1eUU76PicOtLdcSc42vgIA) | 4:44 |
 | 2 | [BAD BITCHES](https://open.spotify.com/track/3EVo65c62B8vp0GMMnC6um) | [Sandro Malandro](https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS) | [BAD BITCHES](https://open.spotify.com/album/16Ftq4nOMPGluQLBVfK419) | 3:07 |
-| 3 | [Sin Dudar](https://open.spotify.com/track/13j7Fnpm2b6rQ9fDB7lvmK) | [T.O.N.A](https://open.spotify.com/artist/10UmrqEfeg6yiGZo5qKqyK), [Boss Fimbres](https://open.spotify.com/artist/0A3DYpiwmYQD1dC28K97lK), [Daeck The Pretty Young](https://open.spotify.com/artist/4ALzItUb1a3kiJT0Tdb6gd) | [Sin Dudar](https://open.spotify.com/album/36I292qKdqno3kL01PhBkE) | 2:04 |
+| 3 | [Sin Dudar](https://open.spotify.com/track/13j7Fnpm2b6rQ9fDB7lvmK) | [T.O.N.A](https://open.spotify.com/artist/10UmrqEfeg6yiGZo5qKqyK), [Boss Fimbres](https://open.spotify.com/artist/00iKC66DpYIgYz7Tmml7tr), [Daeck The Pretty Young](https://open.spotify.com/artist/4ALzItUb1a3kiJT0Tdb6gd) | [Sin Dudar](https://open.spotify.com/album/36I292qKdqno3kL01PhBkE) | 2:04 |
 | 4 | [Romeo y Julieta](https://open.spotify.com/track/3CoSvuPCBq0XyjAUHrAonc) | [Dimelow Pro](https://open.spotify.com/artist/4VZE0jwOCEOWu5C1f2xh8m), [Ibarra](https://open.spotify.com/artist/386ucqQTZpZxL6iQOngyjY) | [Los Ángeles Más Brillantes](https://open.spotify.com/album/6W334E1HwPaVfbqNdSCyie) | 2:32 |
 | 5 | [Pepelepluggg \- Remix](https://open.spotify.com/track/4c1uAUH9OARNdAhwSTGNyC) | [Kidd Wings](https://open.spotify.com/artist/66ftqaZX4clrvY88DGzCH7), [Black Paste](https://open.spotify.com/artist/0040M1zAPFzb4k0Dpvj1hM), [OPYI](https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl), [POLUSS](https://open.spotify.com/artist/0yBa8tNg5UMfZ1ypyEp0iI) | [Pepelepluggg \(Remix\)](https://open.spotify.com/album/1wbhLPsfN3oWvkOURj4z2E) | 3:31 |
 | 6 | [Le Gustan Así](https://open.spotify.com/track/4ZP264Ld4mOd72cNa0LvVF) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR) | [De Vuelta a las Andadas](https://open.spotify.com/album/2YgSHCBlOE0ZamNGQBg19Q) | 2:59 |

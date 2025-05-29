@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > 🔥 de største nye rap hits i dk 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,236 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,231 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 | 37 | [ANTISOCIAL](https://open.spotify.com/track/5tAFJmTuNNrCnNbjWM2KAR) | [Larry](https://open.spotify.com/artist/2ws8pkPraOgD2gzMM6hUsh) | [ANTISOCIAL](https://open.spotify.com/album/32akYgu4MkrCHLkOEi0XAv) | 2:35 |
 | 38 | [Bare Vent \(feat\. Artigeardit\)](https://open.spotify.com/track/5TC4trc7XgCCkycbTSTqV2) | [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Månen Er Min Ven](https://open.spotify.com/album/16EjNHcMJ402k7OhdoFxqS) | 2:21 |
 | 39 | [Mit Ord](https://open.spotify.com/track/2MTuvBUexLhmsiRpIozOL5) | [ozzy](https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9) | [Mit Ord](https://open.spotify.com/album/2n1YkH9GplOZunXhT8ucqL) | 2:30 |
-| 40 | [Swang \(feat\. wicky\)](https://open.spotify.com/track/2v3kvpgQskCSDFI8JCV0X9) | [Michael Williams](https://open.spotify.com/artist/4pA9UUTKYrz88wP5NzYyVE), [wicky](https://open.spotify.com/artist/79ky6ZBdwtfcMNf2LqRzvP) | [Swang \(feat\. wicky\)](https://open.spotify.com/album/4sUjEkhiZRPQZCcUBB6POd) | 2:11 |
+| 40 | [SWANG \(feat\. wicky\)](https://open.spotify.com/track/2v3kvpgQskCSDFI8JCV0X9) | [Michael Williams](https://open.spotify.com/artist/4pA9UUTKYrz88wP5NzYyVE), [wicky](https://open.spotify.com/artist/79ky6ZBdwtfcMNf2LqRzvP) | [SWANG \(feat\. wicky\)](https://open.spotify.com/album/4sUjEkhiZRPQZCcUBB6POd) | 2:11 |
 | 41 | [Gi' Mig Lidt](https://open.spotify.com/track/0PV02Bx2zewm4N76A7qoa8) | [ADI$](https://open.spotify.com/artist/6BMgHHoA6nlGlzKgPSm1Rr) | [Gi' Mig Lidt](https://open.spotify.com/album/27E0gLhLVd7EMVCvDiliki) | 2:08 |
 | 42 | [CLEOPATRA](https://open.spotify.com/track/65C4AmFA6oyMJ2lwLNPiIB) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [CLEOPATRA](https://open.spotify.com/album/0r4JsF8r5F6np0Dyt5P4e6) | 2:15 |
 | 43 | [Stime \(feat\. KESI\)](https://open.spotify.com/track/5rBJLnaIpZ2NJQTWmjJNYO) | [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [Månen Er Min Ven](https://open.spotify.com/album/16EjNHcMJ402k7OhdoFxqS) | 3:29 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDOvAAAAAACoH9SC3l5+dZkxQAQSqo8w",
+  "snapshot_id": "aDUAgAAAAABQTrZZdDiewJnS+W3+NNTA",
   "tracks": [
     {
       "added_at": null,
@@ -303,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Todos Mis Amigos",
-        "url": "https://open.spotify.com/album/47SmOmDoPlaUD9BMoflw2A"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 146893,
-      "name": "Cuando Estoy Contigo",
-      "url": "https://open.spotify.com/track/33AAoOl6DIWwO2ll2bxpBq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Celia & Johnny",
         "url": "https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 342173,
       "name": "Toro Mata",
       "url": "https://open.spotify.com/track/0lXxj5T6jeovmtd460qrFN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Todos Mis Amigos",
+        "url": "https://open.spotify.com/album/47SmOmDoPlaUD9BMoflw2A"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 146893,
+      "name": "Cuando Estoy Contigo",
+      "url": "https://open.spotify.com/track/33AAoOl6DIWwO2ll2bxpBq"
     },
     {
       "added_at": null,
@@ -451,22 +451,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Celia",
-        "url": "https://open.spotify.com/album/5sqZcxkoyxWmuQJNFoQ13M"
+        "name": "Tremendo Cache",
+        "url": "https://open.spotify.com/album/1Wbmg5TqfFELODTlgeihcN"
       },
       "artists": [
         {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
-        },
-        {
           "name": "Celia Cruz",
           "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
         }
       ],
-      "duration_ms": 243201,
-      "name": "Celia",
-      "url": "https://open.spotify.com/track/2ikqeL35cDP0R4Rrh0enU9"
+      "duration_ms": 229373,
+      "name": "C\u00facala",
+      "url": "https://open.spotify.com/track/4lDazSsfp0eKRWUh4BKCgI"
     },
     {
       "added_at": null,
@@ -487,22 +487,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tremendo Cache",
-        "url": "https://open.spotify.com/album/1Wbmg5TqfFELODTlgeihcN"
+        "name": "Celia",
+        "url": "https://open.spotify.com/album/5sqZcxkoyxWmuQJNFoQ13M"
       },
       "artists": [
         {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
         },
         {
-          "name": "Johnny Pacheco",
-          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
         }
       ],
-      "duration_ms": 229373,
-      "name": "C\u00facala",
-      "url": "https://open.spotify.com/track/4lDazSsfp0eKRWUh4BKCgI"
+      "duration_ms": 243201,
+      "name": "Celia",
+      "url": "https://open.spotify.com/track/2ikqeL35cDP0R4Rrh0enU9"
     },
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boleros",
-        "url": "https://open.spotify.com/album/7DSbg77hDxJs4dnvi1qVgj"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 182160,
-      "name": "Esp\u00e9rame En El Cielo",
-      "url": "https://open.spotify.com/track/2QpsriJKyoAruNdeHRgJUd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Din\u00e1mica!",
         "url": "https://open.spotify.com/album/0f3n5513x4jjxDMe8IvAaT"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 152346,
       "name": "No Hay Nada Mejor",
       "url": "https://open.spotify.com/track/5CMpOH70qypRlGJBqTxUFx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boleros",
+        "url": "https://open.spotify.com/album/7DSbg77hDxJs4dnvi1qVgj"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 182160,
+      "name": "Esp\u00e9rame En El Cielo",
+      "url": "https://open.spotify.com/track/2QpsriJKyoAruNdeHRgJUd"
     },
     {
       "added_at": null,
@@ -867,22 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Grandes Damas",
-        "url": "https://open.spotify.com/album/0POeKgQRRh1ayPEY0wcj20"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 163343,
-      "name": "El Yerberito Moderno",
-      "url": "https://open.spotify.com/track/5zyF3dvHQbarJH35TcCIde"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Viva la Reina de la Salsa",
         "url": "https://open.spotify.com/album/5sj5rxV32E8izCz99fNFLU"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 166200,
       "name": "Juancito Trucupey",
       "url": "https://open.spotify.com/track/2QPG2p6h37YhkJCzceqrrP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Grandes Damas",
+        "url": "https://open.spotify.com/album/0POeKgQRRh1ayPEY0wcj20"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 163343,
+      "name": "El Yerberito Moderno",
+      "url": "https://open.spotify.com/track/5zyF3dvHQbarJH35TcCIde"
     },
     {
       "added_at": null,

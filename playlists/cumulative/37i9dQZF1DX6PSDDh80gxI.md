@@ -4,7 +4,7 @@
 
 > C'è un nuovo pezzo di Delicatoni e Coca Puma ed è proprio qua su Indie Italia 🌻
 
-298 songs - 15 hr 48 min
+299 songs - 15 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Fratello](https://open.spotify.com/track/7HGdifYN6emWwGIC5QtHSr) | [IRBIS](https://open.spotify.com/artist/2u9Wpl7T6gCu1t3ymd6aXL) | [LACRIME E CEMENTO](https://open.spotify.com/album/3Xf19WNtWHIGITHydF506S) | 2:47 | 2024-06-27 | 2024-09-14 |
 | [Fucina](https://open.spotify.com/track/67vJdMwzC9uf45SCAdWYKB) | [Francamente](https://open.spotify.com/artist/6bqtHMM52XRivHoewxC5Ts) | [Fucina](https://open.spotify.com/album/0sMlOuCm7ACc9M03XkLaNA) | 2:59 | 2024-11-21 | 2025-03-28 |
 | [fulmine a ciel sereno](https://open.spotify.com/track/36gtJ3amXxagqcW61gB3HO) | [faccianuvola](https://open.spotify.com/artist/5KVUHVqS6B5MZKXf5PXDg1) | [fulmine a ciel sereno](https://open.spotify.com/album/23oVdnPw7NLTh9bl0WEJgA) | 2:54 | 2025-01-16 | 2025-03-18 |
+| [Fumantina](https://open.spotify.com/track/7pPBHzshVTaaWejG7mlb4r) | [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg) | [Fumantina](https://open.spotify.com/album/6FgC7laRXop6DMm9KhjWgb) | 3:17 | 2025-05-28 |  |
 | [FUORI ROTTA](https://open.spotify.com/track/2GuOuGiBR1hCaf0FBl93Uw) | [rovere](https://open.spotify.com/artist/5epzSn98pqluCq6hyGu3ux) | [FUORI ROTTA](https://open.spotify.com/album/6xKa5iiKwEl8yumheDmbiC) | 3:00 | 2024-06-27 | 2024-09-20 |
 | [Gangsta Story](https://open.spotify.com/track/6LaTDXwti80gtqeHqfTsx7) | [TROPICO](https://open.spotify.com/artist/11wRTRhOoRE8kcDgtAmuJW), [Dat Boi Dee](https://open.spotify.com/artist/3wDn3kW2zDRLnaQAnX0S3x) | [Gangsta Story](https://open.spotify.com/album/0mmVqF87bpTP5PtZcwT7EX) | 3:13 | 2024-09-13 | 2024-10-11 |
 | [GAS](https://open.spotify.com/track/4l39vgGIQZWebaucRfYlLd) | [PSICOLOGI](https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro) | [GAS](https://open.spotify.com/album/4CF7kAZmISuatwQnfi7quy) | 2:39 | 2024-06-27 | 2024-11-29 |

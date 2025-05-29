@@ -1,6 +1,6 @@
 {
   "description": "Immerse yourself in the mysticism of Tulum!",
-  "num_followers": 338505,
+  "num_followers": 338821,
   "original_name": "Tulum Vibes",
   "owner": {
     "name": "Spotify",
@@ -263,26 +263,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Claremont 56: 10 Years, Pt. 1",
-        "url": "https://open.spotify.com/album/2h4ZRjRreYJOPPkETTAZcP"
-      },
-      "artists": [
-        {
-          "name": "Para\u00edso",
-          "url": "https://open.spotify.com/artist/4ID8ALXR4zZrcJFvxL41n0"
-        },
-        {
-          "name": "Jex Opolis",
-          "url": "https://open.spotify.com/artist/6LKEDpmHSbVFGyL2OW0ZbQ"
-        }
-      ],
-      "duration_ms": 429913,
-      "name": "Teu Sorriso - Jex Opolis Remix",
-      "url": "https://open.spotify.com/track/7ts7Z6IW6zSsSPO2UEgnY8"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "TANDEM",
         "url": "https://open.spotify.com/album/1qm1yaOMS8Hhz4QS4aUB69"
       },
@@ -299,6 +279,26 @@
       "duration_ms": 170158,
       "name": "SALTA",
       "url": "https://open.spotify.com/track/3Jc8DUdZ1iX5FbYaKzKVh1"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Claremont 56: 10 Years, Pt. 1",
+        "url": "https://open.spotify.com/album/2h4ZRjRreYJOPPkETTAZcP"
+      },
+      "artists": [
+        {
+          "name": "Para\u00edso",
+          "url": "https://open.spotify.com/artist/4ID8ALXR4zZrcJFvxL41n0"
+        },
+        {
+          "name": "Jex Opolis",
+          "url": "https://open.spotify.com/artist/6LKEDpmHSbVFGyL2OW0ZbQ"
+        }
+      ],
+      "duration_ms": 429913,
+      "name": "Teu Sorriso - Jex Opolis Remix",
+      "url": "https://open.spotify.com/track/7ts7Z6IW6zSsSPO2UEgnY8"
     },
     {
       "added_at": "2023-04-07 06:00:00",
@@ -821,22 +821,6 @@
       "url": "https://open.spotify.com/track/13LVADAG1jdD42fe5wihFc"
     },
     {
-      "added_at": "2022-08-19 01:51:18",
-      "album": {
-        "name": "Caf\u00e9 del Mar XXVIII (Vol. 28)",
-        "url": "https://open.spotify.com/album/50hSMsot2349bT8bzyPzfy"
-      },
-      "artists": [
-        {
-          "name": "Yvonne Archer",
-          "url": "https://open.spotify.com/artist/7silPKojiZ1G2aa6RVmTFa"
-        }
-      ],
-      "duration_ms": 266401,
-      "name": "Ain't Nobody - 12\" Mix",
-      "url": "https://open.spotify.com/track/6RJp9ofpbFw1HCZ2gW3YrU"
-    },
-    {
       "added_at": "2024-02-02 04:40:19",
       "album": {
         "name": "intentos",
@@ -851,6 +835,22 @@
       "duration_ms": 122331,
       "name": "quiz\u00e1s en otra vida",
       "url": "https://open.spotify.com/track/4mozAEJ8Gb7LOF5cX68LYh"
+    },
+    {
+      "added_at": "2022-08-19 01:51:18",
+      "album": {
+        "name": "Caf\u00e9 del Mar XXVIII (Vol. 28)",
+        "url": "https://open.spotify.com/album/50hSMsot2349bT8bzyPzfy"
+      },
+      "artists": [
+        {
+          "name": "Yvonne Archer",
+          "url": "https://open.spotify.com/artist/7silPKojiZ1G2aa6RVmTFa"
+        }
+      ],
+      "duration_ms": 266401,
+      "name": "Ain't Nobody - 12\" Mix",
+      "url": "https://open.spotify.com/track/6RJp9ofpbFw1HCZ2gW3YrU"
     },
     {
       "added_at": "2023-03-24 19:15:37",
@@ -1033,6 +1033,22 @@
       "url": "https://open.spotify.com/track/3ZGIZOg6juy0TkF1Gy8Gzg"
     },
     {
+      "added_at": "2024-05-30 03:07:45",
+      "album": {
+        "name": "Malegr\u00eda",
+        "url": "https://open.spotify.com/album/0rN5KNEYHtYSuM7X9VuaV4"
+      },
+      "artists": [
+        {
+          "name": "Reyna Tropical",
+          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
+        }
+      ],
+      "duration_ms": 180646,
+      "name": "Conexi\u00f3n Ancestral",
+      "url": "https://open.spotify.com/track/3EjDI8FK3fMTVWNeclSP8v"
+    },
+    {
       "added_at": "2022-08-11 18:18:05",
       "album": {
         "name": "French Samba",
@@ -1063,22 +1079,6 @@
       "duration_ms": 198767,
       "name": "Blossom",
       "url": "https://open.spotify.com/track/68Ck9sVtvLBnyklKBhppty"
-    },
-    {
-      "added_at": "2024-05-30 03:07:45",
-      "album": {
-        "name": "Malegr\u00eda",
-        "url": "https://open.spotify.com/album/0rN5KNEYHtYSuM7X9VuaV4"
-      },
-      "artists": [
-        {
-          "name": "Reyna Tropical",
-          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
-        }
-      ],
-      "duration_ms": 180646,
-      "name": "Conexi\u00f3n Ancestral",
-      "url": "https://open.spotify.com/track/3EjDI8FK3fMTVWNeclSP8v"
     },
     {
       "added_at": "2023-03-22 17:52:31",
@@ -1181,22 +1181,6 @@
       "url": "https://open.spotify.com/track/1CYuo0OfQLSoqkaM8Hrrxt"
     },
     {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Claude Fontaine",
-        "url": "https://open.spotify.com/album/0N3jnwoj19u35NojyETlk7"
-      },
-      "artists": [
-        {
-          "name": "Claude Fontaine",
-          "url": "https://open.spotify.com/artist/34Ri1nJORbduGK8LLHz61Y"
-        }
-      ],
-      "duration_ms": 246386,
-      "name": "Play by Play",
-      "url": "https://open.spotify.com/track/3fgD4imzFk4b5PfixFqLBF"
-    },
-    {
       "added_at": "2023-03-16 23:40:55",
       "album": {
         "name": "Dj friendly",
@@ -1215,6 +1199,22 @@
       "duration_ms": 234900,
       "name": "V\u00e1monos - Vazl\u00e1 Remix",
       "url": "https://open.spotify.com/track/7lSBSAwgzzd9l5Vh2t94tl"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Claude Fontaine",
+        "url": "https://open.spotify.com/album/0N3jnwoj19u35NojyETlk7"
+      },
+      "artists": [
+        {
+          "name": "Claude Fontaine",
+          "url": "https://open.spotify.com/artist/34Ri1nJORbduGK8LLHz61Y"
+        }
+      ],
+      "duration_ms": 246386,
+      "name": "Play by Play",
+      "url": "https://open.spotify.com/track/3fgD4imzFk4b5PfixFqLBF"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1241,6 +1241,22 @@
       "url": "https://open.spotify.com/track/7bxC71HV7HEyhFbpJkLHKk"
     },
     {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "So\u00f1ando",
+        "url": "https://open.spotify.com/album/5HDXllRh6Kyp0TWilBuDsr"
+      },
+      "artists": [
+        {
+          "name": "Acid Coco",
+          "url": "https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW"
+        }
+      ],
+      "duration_ms": 242215,
+      "name": "So\u00f1ando",
+      "url": "https://open.spotify.com/track/3UUkMsnp1NDwN0g1Rg48Y4"
+    },
+    {
       "added_at": "2023-03-16 20:58:23",
       "album": {
         "name": "Soy la lluvia",
@@ -1259,22 +1275,6 @@
       "duration_ms": 327912,
       "name": "Soy la lluvia",
       "url": "https://open.spotify.com/track/6nBTtVXOr8tXZQaJRguy8r"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "So\u00f1ando",
-        "url": "https://open.spotify.com/album/5HDXllRh6Kyp0TWilBuDsr"
-      },
-      "artists": [
-        {
-          "name": "Acid Coco",
-          "url": "https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW"
-        }
-      ],
-      "duration_ms": 242215,
-      "name": "So\u00f1ando",
-      "url": "https://open.spotify.com/track/3UUkMsnp1NDwN0g1Rg48Y4"
     }
   ],
   "unique_name": "Tulum Vibes",

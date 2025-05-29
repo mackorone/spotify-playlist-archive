@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 
 > Explore Pakistan's thriving independent scene\. Discover more on <a href="https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7">Pakistani Indie Rising</a>\. Cover: Marshall Ahmad
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,449 likes - 90 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,455 likes - 90 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 | 12 | [Din Dhalay](https://open.spotify.com/track/1y30e6iFISuGTbpO68H1Ob) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP) | [4 Saal](https://open.spotify.com/album/5LiulhSHQrEXkYO63T5Z6Q) | 5:36 |
 | 13 | [JAANA](https://open.spotify.com/track/3E9OBZwjtVywWzwYY8oQBS) | [Hamza Jahangir](https://open.spotify.com/artist/6JIeeCINgVPeCxowfoOBmo), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR), [Izzchughtai](https://open.spotify.com/artist/211ei6ZiUeBMIXUZGBaJ4S) | [JAANA](https://open.spotify.com/album/4xakIV95Mvfm9W8kxx2AN4) | 3:17 |
 | 14 | [ROOP](https://open.spotify.com/track/51EAvQ6RYU14VwUaMJHsnD) | [NAYEL](https://open.spotify.com/artist/7B0H8l9inK2UBRm5Xsc9zO), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V) | [ROOP](https://open.spotify.com/album/4SkBxlilZZsloBNShyEXuE) | 2:32 |
-| 15 | [Global Zakham](https://open.spotify.com/track/7LPLckhk6ygQgcvHntw1gT) | [Bilal Ali](https://open.spotify.com/artist/1qJck1RgMGzqJyzvIJuOuX), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Natasha Noorani](https://open.spotify.com/artist/1nGL9DljVpkRcayU8Wi285), [Zahid Qureshi](https://open.spotify.com/artist/5tDFcZItyMnXbSX3gdNNwL) | [Global Zakham](https://open.spotify.com/album/6kFCZEKJX6MrMpfzo93Zl6) | 3:00 |
+| 15 | [Global Zakham](https://open.spotify.com/track/7LPLckhk6ygQgcvHntw1gT) | [Bilal Ali](https://open.spotify.com/artist/1qJck1RgMGzqJyzvIJuOuX), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Natasha Noorani](https://open.spotify.com/artist/1nGL9DljVpkRcayU8Wi285), [Zahid Qureshi](https://open.spotify.com/artist/54n10AF8rgWBCy8OL0Fizw) | [Global Zakham](https://open.spotify.com/album/6kFCZEKJX6MrMpfzo93Zl6) | 3:00 |
 | 16 | [Niyat\-e\-Shauq](https://open.spotify.com/track/0LqbNetpERqAwILDNpyuT9) | [Rehan Hashmi](https://open.spotify.com/artist/0a0uJilGKuNgp0gonbPDJS) | [Niyat\-e\-Shauq](https://open.spotify.com/album/0QhRcKn4DOqPavhyCHPYf9) | 4:25 |
 | 17 | [Chandniyan Raatan](https://open.spotify.com/track/4C7lNrW2LJveZKJClW0nnJ) | [Mehmood J](https://open.spotify.com/artist/4dDplWRph6eniqpE1VIwYF), [Hamzay](https://open.spotify.com/artist/3jZgv3hijK101spub7clyS) | [Chandniyan Raatan](https://open.spotify.com/album/4sUMO6bDmEx13dtR6Vvo1G) | 2:37 |
 | 18 | [Wishes](https://open.spotify.com/track/5rpCUsEfBLIumvrxrahnKF) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN) | [Maybe, It's Love](https://open.spotify.com/album/5s1E31b6Tli6eCH5TldUS6) | 3:38 |

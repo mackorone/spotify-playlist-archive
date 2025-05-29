@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDOvAAAAAADsU8aJjydcyBUMBBg+pMWu",
+  "snapshot_id": "aDUAgAAAAAARYpWu3Xe8L9R3+no1NwxS",
   "tracks": [
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BI",
-        "url": "https://open.spotify.com/album/5eDuna8HWeNest7b5MVSb3"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 149760,
-      "name": "BI",
-      "url": "https://open.spotify.com/track/3A2h5cSKjTgIVwVsti2EdT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pa' La Cultura",
         "url": "https://open.spotify.com/album/3lafienEVOSKlWKwZY1vwu"
       },
@@ -767,6 +751,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BI",
+        "url": "https://open.spotify.com/album/5eDuna8HWeNest7b5MVSb3"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 149760,
+      "name": "BI",
+      "url": "https://open.spotify.com/track/3A2h5cSKjTgIVwVsti2EdT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Louder!.",
         "url": "https://open.spotify.com/album/7tPQLOpoHALuSuHcDFUgB8"
       },
@@ -807,6 +807,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mal De Amores",
+        "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 219628,
+      "name": "Palo Santo",
+      "url": "https://open.spotify.com/track/4IXRQXyRATa71cMCL8aPqu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Good Life",
         "url": "https://open.spotify.com/album/4NwBGbGjwIYAFmL1fAQYHJ"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 171761,
       "name": "Kids (feat. Sofia Reyes)",
       "url": "https://open.spotify.com/track/28JJJAkCRwWH2pFI9SoA7L"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mal De Amores",
-        "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 219628,
-      "name": "Palo Santo",
-      "url": "https://open.spotify.com/track/4IXRQXyRATa71cMCL8aPqu"
     },
     {
       "added_at": null,

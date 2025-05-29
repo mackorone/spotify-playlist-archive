@@ -1,12 +1,12 @@
 {
   "description": "This is Los Relampagos Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 7685,
+  "num_followers": 7689,
   "original_name": "This Is Los Relampagos Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDOvAAAAAAAqw2CZmltccBswjLph1ila",
+  "snapshot_id": "aDUAgAAAAAArjy/6y9YPGnHmT2bP+GSE",
   "tracks": [
     {
       "added_at": null,
@@ -92,9 +92,9 @@
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 171816,
-      "name": "Anhelo",
-      "url": "https://open.spotify.com/track/16Ghnlp54Vfk8T3EVlYOGp"
+      "duration_ms": 176076,
+      "name": "Vuelve Gaviota",
+      "url": "https://open.spotify.com/track/3D9EZqnh00hJPmaM2akMsd"
     },
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 176076,
-      "name": "Vuelve Gaviota",
-      "url": "https://open.spotify.com/track/3D9EZqnh00hJPmaM2akMsd"
+      "duration_ms": 171816,
+      "name": "Anhelo",
+      "url": "https://open.spotify.com/track/16Ghnlp54Vfk8T3EVlYOGp"
     },
     {
       "added_at": null,
@@ -243,22 +243,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 Clasicas De Leyenda",
-        "url": "https://open.spotify.com/album/1dDR0N4IbnIejNEzhm9e69"
+        "name": "Mi Talism\u00e1n",
+        "url": "https://open.spotify.com/album/4PjX1edXB9jBsfv74nvuSR"
       },
       "artists": [
-        {
-          "name": "Cornelio Reyna",
-          "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
-        },
         {
           "name": "Los Relampagos Del Norte",
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 188040,
-      "name": "Me Cai De La Nube",
-      "url": "https://open.spotify.com/track/1CTAefqqsURDEHX8CCBMcf"
+      "duration_ms": 196000,
+      "name": "Por una Mujer Casada",
+      "url": "https://open.spotify.com/track/2FQX8f8S3VAT7gVjeHPP14"
     },
     {
       "added_at": null,
@@ -319,18 +315,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Talism\u00e1n",
-        "url": "https://open.spotify.com/album/4PjX1edXB9jBsfv74nvuSR"
+        "name": "15 Clasicas De Leyenda",
+        "url": "https://open.spotify.com/album/1dDR0N4IbnIejNEzhm9e69"
       },
       "artists": [
+        {
+          "name": "Cornelio Reyna",
+          "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
+        },
         {
           "name": "Los Relampagos Del Norte",
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 196000,
-      "name": "Por una Mujer Casada",
-      "url": "https://open.spotify.com/track/2FQX8f8S3VAT7gVjeHPP14"
+      "duration_ms": 188040,
+      "name": "Me Cai De La Nube",
+      "url": "https://open.spotify.com/track/1CTAefqqsURDEHX8CCBMcf"
     },
     {
       "added_at": null,
@@ -551,6 +551,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Los Relampagos del Norte, Ram\u00f3n Ayala y Cornelio Reyna",
+        "url": "https://open.spotify.com/album/06nd7OnRZIbLuoTIFRkpkq"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "duration_ms": 170370,
+      "name": "Sin Decirte Lo Que Siento",
+      "url": "https://open.spotify.com/track/077CY7BZBTMECCD4RaAwc0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "12 Mejores \u00c9xitos con",
         "url": "https://open.spotify.com/album/6aJTJ4ab0HAdCjF2tY4xs2"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 132306,
       "name": "Devolucion",
       "url": "https://open.spotify.com/track/7KINw8GLCQfV2SrD6hVKFr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Los Relampagos del Norte, Ram\u00f3n Ayala y Cornelio Reyna",
-        "url": "https://open.spotify.com/album/06nd7OnRZIbLuoTIFRkpkq"
-      },
-      "artists": [
-        {
-          "name": "Los Relampagos Del Norte",
-          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
-        }
-      ],
-      "duration_ms": 170370,
-      "name": "Sin Decirte Lo Que Siento",
-      "url": "https://open.spotify.com/track/077CY7BZBTMECCD4RaAwc0"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
       "duration_ms": 175358,
       "name": "Llorar por Amor",
       "url": "https://open.spotify.com/track/3csxQ4oZ6IxhAoNm1TroSp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "15 Exitos de los Relampagos del Norte",
-        "url": "https://open.spotify.com/album/3NlXAw72kFd04LBcUgyrDa"
-      },
-      "artists": [
-        {
-          "name": "Los Relampagos Del Norte",
-          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
-        }
-      ],
-      "duration_ms": 129360,
-      "name": "Rogante",
-      "url": "https://open.spotify.com/track/11RbKPEMEKr1BwOI3qwqcE"
     }
   ],
   "unique_name": "This Is Los Relampagos Del Norte",

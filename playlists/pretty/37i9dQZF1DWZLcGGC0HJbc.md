@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 
 > als het woud een playlist zou zijn
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,276 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,273 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 | 36 | [For Tomorrow's Sake](https://open.spotify.com/track/6noc42qHS5k4qFjYjHAfCz) | [Tim Knol](https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K) | [For Tomorrow's Sake](https://open.spotify.com/album/4lfYG6Fr9gMrNRZ1wOUmLi) | 3:24 |
 | 37 | [Hold On](https://open.spotify.com/track/61t4YbSe1FRAcOLJZPOg5z) | [Philemon](https://open.spotify.com/artist/4ApTlSIEi4CNhGGuxxPXWq) | [Hold On](https://open.spotify.com/album/4QWgIt9q3iv2vhx7BG74x0) | 3:02 |
 | 38 | [I Miss You](https://open.spotify.com/track/2AAhrVlXSqTUDLGPQDbqCz) | [Douglas Firs](https://open.spotify.com/artist/4bIqgUsS9Vgb5vQOPdaLr4) | [Happy, Pt\. 2](https://open.spotify.com/album/6ZU1LCfGkXbU7Ot0R528yi) | 3:50 |
-| 39 | [No Boat No Aeroplane](https://open.spotify.com/track/3VwB0Pt5DczMEIzSaao8yH) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [No Boat No Aeroplane](https://open.spotify.com/album/3yk8qLTSEPhdfKQVQCMFXd) | 5:12 |
-| 40 | [For Months Now \(III\)](https://open.spotify.com/track/1S4dxxePAL21FZfgjdn5k0) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [For Months Now \(III\)](https://open.spotify.com/album/7wicvkduvBHX8fEe2BMPxW) | 4:07 |
-| 41 | [The Soils Ever Changing](https://open.spotify.com/track/7JDySQnkWJuRDmmIPeiqRt) | [Bertie Newman](https://open.spotify.com/artist/5FgAV3f4fiJ8tuztZ5eyWh) | [The Soils Ever Changing](https://open.spotify.com/album/1hG1LegaM7GrrE3Mfu6rG3) | 3:59 |
+| 39 | [The Soils Ever Changing](https://open.spotify.com/track/7JDySQnkWJuRDmmIPeiqRt) | [Bertie Newman](https://open.spotify.com/artist/5FgAV3f4fiJ8tuztZ5eyWh) | [The Soils Ever Changing](https://open.spotify.com/album/1hG1LegaM7GrrE3Mfu6rG3) | 3:59 |
+| 40 | [No Boat No Aeroplane](https://open.spotify.com/track/3VwB0Pt5DczMEIzSaao8yH) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [No Boat No Aeroplane](https://open.spotify.com/album/3yk8qLTSEPhdfKQVQCMFXd) | 5:12 |
+| 41 | [For Months Now \(III\)](https://open.spotify.com/track/1S4dxxePAL21FZfgjdn5k0) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [For Months Now \(III\)](https://open.spotify.com/album/7wicvkduvBHX8fEe2BMPxW) | 4:07 |
 | 42 | [Too Fast](https://open.spotify.com/track/68doYcCRB3BeHpVYwQcEDk) | [Mooneye](https://open.spotify.com/artist/5WHt1gMUaK0iEm53NKNdxL) | [Come with Me and Hide](https://open.spotify.com/album/23pr3SrInhrmHAwBZxcJYY) | 3:58 |
 | 43 | [Destruction](https://open.spotify.com/track/5UXWE2YprzKonI14ZIB4Sd) | [Cocoon](https://open.spotify.com/artist/15h5B5quwDm2C1rhbtvUPD) | [Destruction](https://open.spotify.com/album/4GRMWv6L9ldKlWib2VH59C) | 2:29 |
 | 44 | [Thoughtless Man](https://open.spotify.com/track/2XHr4X6ykkZmv2dhK94hJd) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [How Do We Go Back To Being Normal?](https://open.spotify.com/album/7t77eQdswzlXeKdAhIeJFg) | 3:02 |

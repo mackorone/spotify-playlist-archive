@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Uruguay.
 
-1,029 songs - 2 day 6 hr 21 min
+1,030 songs - 2 day 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [30 Grados](https://open.spotify.com/track/6IRRoV7AbjHT8JWP4uFrD5) | [El Turko](https://open.spotify.com/artist/7aqaIr9F3tHP7BMsmfAL8Z), [Mandale Flow](https://open.spotify.com/artist/2mrlK4Ow9Fb9U50qbkRMZd) | [30 Grados](https://open.spotify.com/album/60gvJYHZGLyxwiZSlETv56) | 2:31 | 2024-06-15 | 2024-08-28 |
 | [30 GRADOS RKT](https://open.spotify.com/track/1cG1zGCrsLOz5HL1tJwYUj) | [RUNE](https://open.spotify.com/artist/6cPEhvTTOyvNb3dL3ZkdHb), [Dj Agus Lima](https://open.spotify.com/artist/6JSZJddy1dORbnzdx2ZLG9) | [30 GRADOS RKT](https://open.spotify.com/album/6JUpn1Fg1B39BUiLBgYa7f) | 2:34 | 2024-06-13 | 2024-06-15 |
 | [33](https://open.spotify.com/track/0rJCvWts5H9GCYKeDqGTnj) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8), [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [NO VAYAS A ATENDER CUANDO EL DEMONIO LLAMA](https://open.spotify.com/album/56BPpEYgadIVVXYLabO5Je) | 3:44 | 2025-05-01 | 2025-05-03 |
+| [444](https://open.spotify.com/track/1o4xkdBe0RjSf2u6VXi4OI) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [Panda Black](https://open.spotify.com/artist/1QcutbFtA6u8A2ZFTZuLSL) | [444](https://open.spotify.com/album/5wKKETPKCZbiIxfBTPfz16) | 2:55 | 2025-05-28 |  |
 | [512](https://open.spotify.com/track/5jzEwSyyymBlf1fa1o39T2) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Primer Dia de Clases](https://open.spotify.com/album/5r8T7S23cVDSd7a045h4N5) | 3:13 | 2021-04-26 | 2021-09-12 |
 | [69](https://open.spotify.com/track/13Z5Q40pa1Ly7aQk1oW8Ce) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [69](https://open.spotify.com/album/6Zj7qmBZ7MRZ276b67CLi2) | 3:41 | 2023-05-29 | 2023-06-18 |
 | [8 AM](https://open.spotify.com/track/5UcWUgWfR2Ir0EXSb1EpoM) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [ALMA](https://open.spotify.com/album/0pWzIntouGCOZzQsSW6xYc) | 2:27 | 2023-06-01 | 2023-10-06 |
@@ -940,7 +941,7 @@
 | [Ultimo Tren a Ameri](https://open.spotify.com/track/1UuWDJ8wmptULOs6RbFrBo) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Antes de Ameri](https://open.spotify.com/album/2A7S80QXLWlzw41LwkRYRU) | 1:51 | 2023-06-24 | 2023-06-26 |
 | [ULTRA SOLO](https://open.spotify.com/track/0OTNHGKcqQbk51bOYe462Y) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [ULTRA SOLO](https://open.spotify.com/album/1HeGenNhHCIMcnFsSlvprd) | 3:47 | 2022-05-06 | 2022-07-24 |
 | [ULTRA SOLO REMIX](https://open.spotify.com/track/6wtZPYBIXUvCpXwVjMCJBf) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [ULTRA SOLO REMIX](https://open.spotify.com/album/7JsxzI8o2TI71jHBOIsgqm) | 5:22 | 2022-06-28 | 2022-10-15 |
-| [Un Besito Más](https://open.spotify.com/track/5rQSQlZXXjMcevPGoAfE1z) | [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r), [Diel Paris](https://open.spotify.com/artist/2sp0CxickfFJun08JtXgiA) | [Un Besito Más](https://open.spotify.com/album/6lrNHcXSOvN82VYYtL9wCs) | 2:40 | 2024-03-16 |  |
+| [Un Besito Más](https://open.spotify.com/track/5rQSQlZXXjMcevPGoAfE1z) | [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r), [Diel Paris](https://open.spotify.com/artist/2sp0CxickfFJun08JtXgiA) | [Un Besito Más](https://open.spotify.com/album/6lrNHcXSOvN82VYYtL9wCs) | 2:40 | 2024-03-16 | 2025-05-29 |
 | [Un Coco](https://open.spotify.com/track/6VrQTLzzuyGIYjUDe4kAZk) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:16 | 2022-05-07 | 2022-05-08 |
 | [Un Día Más](https://open.spotify.com/track/2m3v40xGeLVqnQvAwx5rdi) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6) | [AMERI](https://open.spotify.com/album/3rVk419T7ct4qoW52h2q2d) | 2:45 | 2024-11-02 | 2024-11-08 |
 | [Un Finde \| CROSSOVER \#2](https://open.spotify.com/track/3tiJUOfAEqIrLFRQgGgdoY) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Un Finde \| CROSSOVER \#2](https://open.spotify.com/album/7cAfD0HludcAifXAbcIR80) | 2:42 | 2023-04-06 | 2025-01-06 |

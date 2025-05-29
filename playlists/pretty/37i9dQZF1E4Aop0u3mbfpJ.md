@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Aop0u3mbfpJ.md) - [plain]
 
 > With Britney Spears, Rihanna, Miley Cyrus and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,594 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,784 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Aop0u3mbfpJ.md) - [plain]
 | 49 | [Do What U Want](https://open.spotify.com/track/5XKXMWPACPq51OiqzxenZo) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Do What U Want](https://open.spotify.com/album/5R9DO1cXTOaw9p7nd2emkm) | 3:36 |
 | 50 | [APT.](https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:49 |
 
-Snapshot ID: `aDZnvQAAAABKBkn6LCUeJSFxF+3Y/W0W`
+Snapshot ID: `aDe1fgAAAAAxVqdRXkcV6s+TAo+2C08d`

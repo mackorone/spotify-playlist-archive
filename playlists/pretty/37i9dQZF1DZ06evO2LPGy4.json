@@ -1,12 +1,12 @@
 {
   "description": "This is Gerardo Ortiz. The essential tracks, all in one playlist.",
-  "num_followers": 460474,
+  "num_followers": 460527,
   "original_name": "This Is Gerardo Ortiz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDOvAAAAAADrPoZQxGJIOtxgcoIijgbm",
+  "snapshot_id": "aDUAgAAAAACDj2RZ4etVd6wULpqrcCjX",
   "tracks": [
     {
       "added_at": null,
@@ -107,6 +107,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Morir y Existir En Vivo",
+        "url": "https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 282266,
+      "name": "Cara A La Muerte (En Vivo)",
+      "url": "https://open.spotify.com/track/2BwQ9RVjAjLpTM8D7SPlsZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tal Como Eres",
         "url": "https://open.spotify.com/album/2wU20CR1rYUTHYbzIy8bBT"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 230802,
       "name": "Tal Como Eres",
       "url": "https://open.spotify.com/track/217m0uJ8ntyl2Zm1JSABzB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Morir y Existir En Vivo",
-        "url": "https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 282266,
-      "name": "Cara A La Muerte (En Vivo)",
-      "url": "https://open.spotify.com/track/2BwQ9RVjAjLpTM8D7SPlsZ"
     },
     {
       "added_at": null,
@@ -168,9 +168,9 @@
           "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         }
       ],
-      "duration_ms": 200386,
-      "name": "Perd\u00f3name",
-      "url": "https://open.spotify.com/track/69JACep1HLAHGitjoHhXkR"
+      "duration_ms": 97240,
+      "name": "Qui\u00e9n Se Anima",
+      "url": "https://open.spotify.com/track/1Kxap8UbrmlXcgKBuCysNg"
     },
     {
       "added_at": null,
@@ -236,9 +236,9 @@
           "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         }
       ],
-      "duration_ms": 97240,
-      "name": "Qui\u00e9n Se Anima",
-      "url": "https://open.spotify.com/track/1Kxap8UbrmlXcgKBuCysNg"
+      "duration_ms": 200386,
+      "name": "Perd\u00f3name",
+      "url": "https://open.spotify.com/track/69JACep1HLAHGitjoHhXkR"
     },
     {
       "added_at": null,

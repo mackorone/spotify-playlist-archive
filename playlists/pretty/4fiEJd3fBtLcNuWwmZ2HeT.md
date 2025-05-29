@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 298 songs - 16 hr 53 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 299 songs - 16 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -306,5 +306,6 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 296 | [lapis lazuli](https://open.spotify.com/track/471Ij7ju21628jTjGCQX6U) | [璃依子](https://open.spotify.com/artist/0h9Bctxh6IkFpbsYhIBj07) | [lapis lazuli](https://open.spotify.com/album/5WyyjVnvOkDkTZzD63AxKW) | 4:19 |
 | 297 | [GYARU](https://open.spotify.com/track/1rIegF191fU9LDCiozDyRH) | [Nene](https://open.spotify.com/artist/07pMzPVvAsMS1tgLfGtdIh) | [GYARU](https://open.spotify.com/album/2JghQxtUgwV6zCPcPI8JW7) | 3:05 |
 | 298 | [koi \(feat\. 9Lana\)](https://open.spotify.com/track/3QhD3w9JDGsVm18ypnkHEP) | [Linmu](https://open.spotify.com/artist/7fDKKZH24LisRepejhv0iz), [9Lana](https://open.spotify.com/artist/4PiEaQDZq6WdVirde1aIq3) | [koi \(feat\. 9Lana\)](https://open.spotify.com/album/4RaGX5JF1XBkHCeysp0Rnn) | 2:42 |
+| 299 | [killer\-tune](https://open.spotify.com/track/7aFxDKk3jUfimCNX9mF36l) | [Lady Mellow.](https://open.spotify.com/artist/55qCSOkDiqf4njLqj0JSiD) | [Smoking hot](https://open.spotify.com/album/3YyoL3YnNQKkLAafWkzDix) | 3:12 |
 
 Snapshot ID: `AAAJEalrPSgQNqPi5fCylfUwRvcPusyu`

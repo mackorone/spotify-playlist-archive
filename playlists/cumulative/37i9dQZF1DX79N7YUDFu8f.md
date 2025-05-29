@@ -4,11 +4,12 @@
 
 > Lekker rustig aan doen op zaterdag met deze zachte popliedjes.
 
-274 songs - 16 hr 16 min
+275 songs - 16 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [25](https://open.spotify.com/track/53GIVIfxPEgfBlOncqG1by) | [Savine](https://open.spotify.com/artist/7n0hWtsxPEDc5ZjuKvbybc) | [25](https://open.spotify.com/album/57CeXretqkDlILesiRMvv6) | 3:35 | 2021-11-24 | 2022-08-12 |
+| [80 Days](https://open.spotify.com/track/6GqDKlvGfqWoj3j1m5gp7s) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Adagio](https://open.spotify.com/album/3TAhlJxvOBskHFd0J1YRmq) | 2:36 | 2025-05-28 |  |
 | [Abigail](https://open.spotify.com/track/7agIX3ge0VVzTQAJTvJH5E) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Last Night In The Bittersweet](https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x) | 3:50 | 2022-09-26 |  |
 | [Alice \- Acoustic](https://open.spotify.com/track/6dp4Rf8RxrbKUIOGMGWErU) | [Cloud Cukkoo](https://open.spotify.com/artist/3bIIfcj0VjiKKPrJgA57Rg) | [Alice \(Acoustic\)](https://open.spotify.com/album/2iNeA2CpYYCsnaJDjDHljO) | 4:03 | 2023-06-14 |  |
 | [All Is Ours \- Acoustic Version](https://open.spotify.com/track/2GiKm519SjcHtETEGsSXwi) | [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1) | [All Is Ours](https://open.spotify.com/album/2dzydQ4Kt36UkRZOOZZRUT) | 4:51 | 2024-11-08 |  |
@@ -169,7 +170,7 @@
 | [Nothing For Miles](https://open.spotify.com/track/23Ht5Sur2qTl0C2dPMX6lK) | [Christof van der Ven](https://open.spotify.com/artist/4OmL1NFB2mS4Ipv9TAWC1F) | [Haul](https://open.spotify.com/album/4TrA4GVlOwq5pNcW6roKPY) | 4:34 | 2023-04-20 |  |
 | [novembre](https://open.spotify.com/track/30icGaTYAoxKjczSHfoSG2) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [novembre](https://open.spotify.com/album/66VkskaQjFwIhORK51Ke6S) | 3:05 | 2022-12-01 | 2023-09-30 |
 | [October, Halfway July](https://open.spotify.com/track/2eD56lWTL92klRLfmgjP9h) | [A\. Johanson](https://open.spotify.com/artist/1p11NnGiTGtzm49zznyK69) | [October, Halfway July](https://open.spotify.com/album/2zQmazQRssxqwdUe198gqn) | 3:22 | 2021-11-24 | 2024-11-09 |
-| [On My Mind](https://open.spotify.com/track/3lNBBcH8OWPp281L9VuqQn) | [Christy](https://open.spotify.com/artist/3BgniSkzaCLKgQSBkWcsoV) | [On My Mind](https://open.spotify.com/album/3ibBY3XM01fTDd1Z7us1k0) | 2:39 | 2021-11-24 |  |
+| [On My Mind](https://open.spotify.com/track/3lNBBcH8OWPp281L9VuqQn) | [Christy](https://open.spotify.com/artist/3BgniSkzaCLKgQSBkWcsoV) | [On My Mind](https://open.spotify.com/album/3ibBY3XM01fTDd1Z7us1k0) | 2:39 | 2021-11-24 | 2025-05-29 |
 | [On the Train Ride Home](https://open.spotify.com/track/37adNHvszWoS1kINkE99Ja) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [On the Train Ride Home](https://open.spotify.com/album/52nbX1xWBxOQrFSCqepCUz) | 3:47 | 2021-11-24 | 2025-03-22 |
 | [On the Train Ride Home](https://open.spotify.com/track/4sTjyRMuBumcHsVWe9tfKL) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [On the Train Ride Home](https://open.spotify.com/album/4amdDYo23aSOrv7hSZrCMT) | 3:47 | 2022-06-03 | 2024-04-19 |
 | [Our Part of Town](https://open.spotify.com/track/79bfMnQOe8oaqXjZenmcQw) | [Dressed Like Boys](https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp) | [Our Part of Town](https://open.spotify.com/album/5cH4Ls7MGVkc1sJrmDEoqX) | 3:07 | 2025-03-21 |  |

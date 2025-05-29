@@ -4,7 +4,7 @@
 
 > Grüezi! This is 100% made in Switzerland\.  Cover: Zoë Më
 
-351 songs - 18 hr 5 min
+352 songs - 18 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,12 +156,13 @@
 | [Home \- The Voice Of Switzerland](https://open.spotify.com/track/1VZXG6QgMBOgyxtkTflRM7) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Home \(The Voice Of Switzerland\)](https://open.spotify.com/album/1nNkmovkHuMpCbdsELoYR8) | 3:21 | 2024-06-27 | 2024-10-04 |
 | [Honolulu](https://open.spotify.com/track/5pW5kURQgNzOgNLtYBhFxh) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P), [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh) | [February](https://open.spotify.com/album/1aS4Ymw0GPsZI5sASa0Bq1) | 2:11 | 2025-02-27 |  |
 | [House On Fire](https://open.spotify.com/track/3zF1YMoUWaLsjnQgqwRc7K) | [Linda Elys](https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf) | [House On Fire](https://open.spotify.com/album/0mYcvsaGweNUTm4HoifK5O) | 2:59 | 2024-06-27 |  |
+| [House On Fire \- Duet Version](https://open.spotify.com/track/3D5RwZZhMiWkI2RrIhyenr) | [Linda Elys](https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf), [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [House On Fire \(Duet Version\)](https://open.spotify.com/album/7dH9OmKx2qWo6zGfd9brou) | 2:59 | 2025-05-22 |  |
 | [How Much Can a Heart Break](https://open.spotify.com/track/0NAzeWAZjFBFzTorfZS9DF) | [Pegasus](https://open.spotify.com/artist/6IWxOu9w3PtIpLa7A178ad) | [How Much Can a Heart Break](https://open.spotify.com/album/6UO64Z8AgMqPdSgoljbaRx) | 3:15 | 2024-10-11 |  |
 | [Hurry](https://open.spotify.com/track/07BKIjjRXMUt6Cs9P3YxYa) | [Linda Elys](https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf) | [Hurry](https://open.spotify.com/album/6fyNY8yfQLhLoIR6xVqiyD) | 3:13 | 2024-06-27 | 2025-05-09 |
 | [Hurting](https://open.spotify.com/track/26nHImnfyX0vE6CTLA5UHH) | [Amaya Gloor](https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x) | [Hurting](https://open.spotify.com/album/3Hw04kuWi6O7aUcmXQa2Ap) | 2:37 | 2024-06-27 |  |
 | [Hör mir noch einmal zu](https://open.spotify.com/track/1V7iXlTg9h6dy7q9qk8Ehw) | [jan SEVEN dettwyler](https://open.spotify.com/artist/0vzAclaaTGJDFQzdWxmTej) | [Schwarz auf Grün](https://open.spotify.com/album/23EG6QL1cCfVSCoTZBZ8F5) | 2:26 | 2024-10-03 | 2024-10-24 |
 | [I han es Zündhölzli azündt](https://open.spotify.com/track/1BgnJyDB7jEYoAMpHqKbcn) | [Mani Matter](https://open.spotify.com/artist/7wkPBPwF9oOZJ8lEbQjIVt) | [I han es Zündhölzli azündt](https://open.spotify.com/album/04MiVKnlpaFvjQY0LBLmry) | 1:33 | 2025-05-08 | 2025-05-16 |
-| [I Hate The Sun](https://open.spotify.com/track/5Ylf778mAXBMuEw5eJl1fH) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [I Hate The Sun](https://open.spotify.com/album/17evjTTTBinbk36ZAjd2kx) | 3:22 | 2024-09-06 |  |
+| [I Hate The Sun](https://open.spotify.com/track/5Ylf778mAXBMuEw5eJl1fH) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [I Hate The Sun](https://open.spotify.com/album/17evjTTTBinbk36ZAjd2kx) | 3:22 | 2024-09-06 | 2025-05-29 |
 | [I schänke dr mis Härz](https://open.spotify.com/track/16yQMAq01OKNB5oiEFajio) | [Züri West](https://open.spotify.com/artist/5whb6si9KY0ywOL5zeRlV9) | [Züriwest](https://open.spotify.com/album/0frrjFHdmIInWUPLnFGExA) | 3:28 | 2025-04-17 | 2025-05-16 |
 | [i think i'm in love](https://open.spotify.com/track/0U97wZxxQhrjUuTB9uqoke) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [i think i'm in love](https://open.spotify.com/album/3XoVhwa02RGA8RYIucnNe9) | 3:07 | 2024-08-09 | 2024-10-04 |
 | [I weiss das](https://open.spotify.com/track/6OqMGnEQzYpePPj7B1l0kT) | [Fischermätteli Hood Gäng](https://open.spotify.com/artist/12y9kQeYqRhyqDQsC7SI68) | [Turbo](https://open.spotify.com/album/2pOZ7Af7rkYWPPMi7NSXqX) | 2:48 | 2025-04-24 | 2025-05-02 |

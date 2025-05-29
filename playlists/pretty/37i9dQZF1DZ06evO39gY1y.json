@@ -1,12 +1,12 @@
 {
   "description": "This is Charles Ans. The essential tracks, all in one playlist.",
-  "num_followers": 242479,
+  "num_followers": 242530,
   "original_name": "This Is Charles Ans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDOvAAAAAADxwhDI6dhzLDm+rTfN9CuN",
+  "snapshot_id": "aDUAgAAAAAABD36F5JnRXbS9kvl6/Apx",
   "tracks": [
     {
       "added_at": null,
@@ -507,26 +507,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Inmensidades",
-        "url": "https://open.spotify.com/album/64xRjme6Wx7xdJVhRt06fY"
+        "name": "M\u00e1scaras",
+        "url": "https://open.spotify.com/album/1e4hvdD4wgcEtABivupueQ"
       },
       "artists": [
         {
-          "name": "Sharif",
-          "url": "https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf"
-        },
-        {
-          "name": "Gordo del Funk",
-          "url": "https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3"
-        },
-        {
           "name": "Charles Ans",
           "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "La Loquera",
+          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
+        },
+        {
+          "name": "BCN",
+          "url": "https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd"
         }
       ],
-      "duration_ms": 231416,
-      "name": "Lumbre",
-      "url": "https://open.spotify.com/track/4grtH2EEl14ZJL0fry7Zcg"
+      "duration_ms": 182200,
+      "name": "Vegetales Con Pescado",
+      "url": "https://open.spotify.com/track/79E00piO2jJc98iBP9mw7m"
     },
     {
       "added_at": null,
@@ -555,26 +555,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00e1scaras",
-        "url": "https://open.spotify.com/album/1e4hvdD4wgcEtABivupueQ"
+        "name": "De Inmensidades",
+        "url": "https://open.spotify.com/album/64xRjme6Wx7xdJVhRt06fY"
       },
       "artists": [
         {
+          "name": "Sharif",
+          "url": "https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf"
+        },
+        {
+          "name": "Gordo del Funk",
+          "url": "https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3"
+        },
+        {
           "name": "Charles Ans",
           "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "La Loquera",
-          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
-        },
-        {
-          "name": "BCN",
-          "url": "https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd"
         }
       ],
-      "duration_ms": 182200,
-      "name": "Vegetales Con Pescado",
-      "url": "https://open.spotify.com/track/79E00piO2jJc98iBP9mw7m"
+      "duration_ms": 231416,
+      "name": "Lumbre",
+      "url": "https://open.spotify.com/track/4grtH2EEl14ZJL0fry7Zcg"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 
 > feel the magic with the gems in r&b right now
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,493 likes - 88 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,492 likes - 88 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 5 | [SPEECHLESS](https://open.spotify.com/track/3QG7ScQMjttBGhEQWM3tEf) | [WESLEYFRANKLIN](https://open.spotify.com/artist/5kKyuVfbMT2YX6QF3sh6vh) | [HIATUS](https://open.spotify.com/album/4Xhpn4XMjaoKTuWJ7YDWcE) | 3:34 |
 | 6 | [Cutesy](https://open.spotify.com/track/04Np3EvsIBgaDLriPvfxQn) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Cutesy](https://open.spotify.com/album/2fhVt4ZypAk6u1S4nMxDp6) | 3:01 |
 | 7 | [Residuals](https://open.spotify.com/track/4t4rGgiVX7woTmlnW9SHJ7) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [11:11 \(Deluxe\)](https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz) | 3:35 |
-| 8 | [Sunshine & Rain...](https://open.spotify.com/track/0XNZ6zY9qwJVu9JypWUcvo) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sunshine & Rain...](https://open.spotify.com/album/6sBXKaeFQdGtpDMoW5TAU4) | 3:17 |
-| 9 | [Little Things](https://open.spotify.com/track/2HA4tNLIXY1dGvDVCLeslk) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [3](https://open.spotify.com/album/19TUU6Y9OEYm8W1zBYakWq) | 2:52 |
+| 8 | [Little Things](https://open.spotify.com/track/2HA4tNLIXY1dGvDVCLeslk) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [3](https://open.spotify.com/album/19TUU6Y9OEYm8W1zBYakWq) | 2:52 |
+| 9 | [Sunshine & Rain...](https://open.spotify.com/track/0XNZ6zY9qwJVu9JypWUcvo) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sunshine & Rain...](https://open.spotify.com/album/6sBXKaeFQdGtpDMoW5TAU4) | 3:17 |
 | 10 | [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/track/7eRJjg52FkSmQvmNQDYpMl) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/album/6tEqHl8uemF0Hmb0iGs6vJ) | 3:33 |
 | 11 | [Spend It](https://open.spotify.com/track/290eKCMBc9f9CcSLFuQrim) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Spend It](https://open.spotify.com/album/1bbRn3bCzOPvjbShgj26K9) | 2:45 |
 | 12 | [YES IT IS](https://open.spotify.com/track/2iksjpqL3eraxCBKqNHuqd) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 3:48 |
@@ -46,13 +46,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 36 | [A Fair Exchange](https://open.spotify.com/track/4XqBXP047t8rUEv7GIIzoR) | [Lizzy](https://open.spotify.com/artist/0gPcmVDfRgMGgnZCr3qvuO), [Mitchell Yard](https://open.spotify.com/artist/6uBNJwADs2esWMFezi5Eb2) | [A Fair Exchange](https://open.spotify.com/album/6PWqRQavTZcpRrFBKWMZq0) | 2:20 |
 | 37 | [STAR](https://open.spotify.com/track/7IiVKpdCtU1Y5seKBe3Asg) | [Asiah](https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX) | [Star](https://open.spotify.com/album/5ZOCtRyWxSwDY4e0rWPTxi) | 3:22 |
 | 38 | [Favorite One](https://open.spotify.com/track/2t2fiW1SjH8V0vGut64nCE) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF) | [Favorite One](https://open.spotify.com/album/3fJ25Pfd8sdxK5HaPiZZfL) | 2:56 |
-| 39 | [Two Cents](https://open.spotify.com/track/4J3vgENXvPF4BVYxztyEyq) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [Two Cents](https://open.spotify.com/album/1goONdBC2HFSWV8PXT0tRW) | 2:58 |
-| 40 | [125 Degrees](https://open.spotify.com/track/3vVWaeY9ZZpLq2fBGl9J4i) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq) | [125 Degrees](https://open.spotify.com/album/3N6qsUlszc6byIASYr0bBp) | 2:43 |
+| 39 | [125 Degrees](https://open.spotify.com/track/3vVWaeY9ZZpLq2fBGl9J4i) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq) | [125 Degrees](https://open.spotify.com/album/3N6qsUlszc6byIASYr0bBp) | 2:43 |
+| 40 | [Just Another Day](https://open.spotify.com/track/10mwoA7R21BMQBd37HPMtF) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [Auryln](https://open.spotify.com/artist/1wDX3rlWCfdHvB31ExxX79) | [Just Another Day](https://open.spotify.com/album/5R2XoxoxFQ8hAS1PJa4LMk) | 2:40 |
 | 41 | [Slow Down](https://open.spotify.com/track/2SlLZusHiwJ7sl18O4BssR) | [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY) | [Slow Down](https://open.spotify.com/album/7aSJHePqF7bfzQRVozwj4a) | 2:20 |
-| 42 | [Just Another Day](https://open.spotify.com/track/10mwoA7R21BMQBd37HPMtF) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [Auryln](https://open.spotify.com/artist/1wDX3rlWCfdHvB31ExxX79) | [Just Another Day](https://open.spotify.com/album/5R2XoxoxFQ8hAS1PJa4LMk) | 2:40 |
-| 43 | [Drive It](https://open.spotify.com/track/49U5mUkOEepn9yLtKJfYVb) | [Sky Feliz](https://open.spotify.com/artist/7EeqJ1ky6b1Kjf4vgGkx3O), [Lamsi](https://open.spotify.com/artist/6qdxvGWY0xnOmV8ISg6yjJ) | [Drive It](https://open.spotify.com/album/2nZHtpjbbwA5D8WkyB5Rvy) | 2:21 |
-| 44 | [Too Many Strings](https://open.spotify.com/track/123kCRJe2ufrrZI5iJ8rhr) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Cut Ties](https://open.spotify.com/album/2KH8PHZCwSqFWiFOz2jzAy) | 3:11 |
-| 45 | [INFINITY](https://open.spotify.com/track/1FygpR0yv9eGytytqxA1O4) | [Sedric Perry](https://open.spotify.com/artist/4Z6yPeF2Ytgp3tZATwf6Jw), [Mitchell Yard](https://open.spotify.com/artist/6uBNJwADs2esWMFezi5Eb2) | [INFINITY](https://open.spotify.com/album/7FUUeTnlcCJ78stxTPvPkI) | 2:34 |
+| 42 | [Two Cents](https://open.spotify.com/track/4J3vgENXvPF4BVYxztyEyq) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [Two Cents](https://open.spotify.com/album/1goONdBC2HFSWV8PXT0tRW) | 2:58 |
+| 43 | [Too Many Strings](https://open.spotify.com/track/123kCRJe2ufrrZI5iJ8rhr) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Cut Ties](https://open.spotify.com/album/2KH8PHZCwSqFWiFOz2jzAy) | 3:11 |
+| 44 | [INFINITY](https://open.spotify.com/track/1FygpR0yv9eGytytqxA1O4) | [Sedric Perry](https://open.spotify.com/artist/4Z6yPeF2Ytgp3tZATwf6Jw), [Mitchell Yard](https://open.spotify.com/artist/6uBNJwADs2esWMFezi5Eb2) | [INFINITY](https://open.spotify.com/album/7FUUeTnlcCJ78stxTPvPkI) | 2:34 |
+| 45 | [Drive It](https://open.spotify.com/track/49U5mUkOEepn9yLtKJfYVb) | [Sky Feliz](https://open.spotify.com/artist/7EeqJ1ky6b1Kjf4vgGkx3O), [Lamsi](https://open.spotify.com/artist/6qdxvGWY0xnOmV8ISg6yjJ) | [Drive It](https://open.spotify.com/album/2nZHtpjbbwA5D8WkyB5Rvy) | 2:21 |
 | 46 | [Beautiful Ruin](https://open.spotify.com/track/1A3ifiokbYEx6aq87n4M5I) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Souled Out: 10th Anniversary Edition](https://open.spotify.com/album/6QTeUgt8uTcABIg3UZFpwY) | 3:45 |
 | 47 | [AAA](https://open.spotify.com/track/2Oo9Heg2qZNGaZIz3shwUx) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [AAA](https://open.spotify.com/album/1ZtF0gvpkuYViqufFHtS2B) | 3:24 |
 | 48 | [HIGHER](https://open.spotify.com/track/1PqvFkb8ui6dkMFXUky8Sv) | [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY), [Sedric Perry](https://open.spotify.com/artist/4Z6yPeF2Ytgp3tZATwf6Jw) | [HIGHER](https://open.spotify.com/album/1mAwkzV51N4Z9CbaIncD5T) | 3:01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 
 > a bxd é cruel e a caneta da ebony, mto afiada
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,546,553 likes - 55 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,546,419 likes - 55 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 | 54 | [Te Trombei na Noite](https://open.spotify.com/track/1M7RQZsflzNS073ohc5kxw) | [Massaru](https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU), [Boaventura](https://open.spotify.com/artist/0HNv7LfoPFCBtfdeiFIXPe), [KayG](https://open.spotify.com/artist/23FGpj6N9wtORIuMoXu9Uk) | [Te Trombei na Noite](https://open.spotify.com/album/0uD1dPLNAHhJMR3lYOAloN) | 3:25 |
 | 55 | [Não É Amor \(Só P\* e Tchau\)](https://open.spotify.com/track/17PSpje8Gh2NYwSnXLeZsw) | [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH), [PL](https://open.spotify.com/artist/2IWSQjDY5SXgnSyiCRUiP1) | [Não É Fácil Ser Eu](https://open.spotify.com/album/4rnCfBilA1yONDvb8q8OBT) | 2:09 |
 
-Snapshot ID: `aC/lCAAAAAAH8pzqBHSmIkFYl/Ck5NDi`
+Snapshot ID: `aC/lCAAAAABl0Xo/MBp1AQQT6z0Ww2rx`

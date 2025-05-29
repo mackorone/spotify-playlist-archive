@@ -2921,6 +2921,24 @@
     },
     {
       "album": {
+        "name": "More Life",
+        "url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2025-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228437,
+      "name": "Can't Have Everything",
+      "url": "https://open.spotify.com/track/5f5r2N4Lp9WoULWPH9zp2W"
+    },
+    {
+      "album": {
         "name": "i am > i was",
         "url": "https://open.spotify.com/album/007DWn799UWvfY1wwZeENR"
       },

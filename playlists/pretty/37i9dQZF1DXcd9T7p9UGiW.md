@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover: Burna Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,272 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,298 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 | 79 | [JIGGLE & WHINE \(feat\. Spice\)](https://open.spotify.com/track/18s33chy3QHCH2ICSB2tHK) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [UP & RUNNIN6](https://open.spotify.com/album/5EomOd5HdWMyenGsSv61D2) | 3:09 |
 | 80 | [What's Poppin](https://open.spotify.com/track/2j6nG1yvvf7qK2HxmckQFu) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [What's Poppin](https://open.spotify.com/album/2ks56eA68StdI7n3qlaSam) | 3:15 |
 
-Snapshot ID: `aC+63gAAAADH54w4E3+FmwBiMa6YSxMq`
+Snapshot ID: `aC+63gAAAABmw+wbkkq7mbfbOk9e/OYo`

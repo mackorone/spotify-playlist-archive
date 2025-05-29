@@ -4,7 +4,7 @@
 
 > Quiet piano for hope and acceptance in times of hardship.
 
-248 songs - 11 hr 0 min
+249 songs - 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [If Only I Could Stop the Clock](https://open.spotify.com/track/2Ey5klJpXYZj8Ci9thENWA) | [Maarten Schellekens](https://open.spotify.com/artist/35HKcY4o7vVi5rzJ0gPxis) | [If Only I Could Stop the Clock](https://open.spotify.com/album/5MPk2CIBjpHTo4VKeLCfEE) | 2:31 | 2023-01-26 | 2023-04-20 |
 | [Illuminate The Night](https://open.spotify.com/track/4xwD2O3xL0aMEI2jfw7mb8) | [Antoine Di Luzio](https://open.spotify.com/artist/0nvI5DwMokXVsbHH7sBuwv) | [Illuminate The Night](https://open.spotify.com/album/2fbtqkEVf615YZStDOMGdw) | 2:07 | 2023-08-01 | 2025-01-15 |
 | [Impressions](https://open.spotify.com/track/2IxfYyUQFZWoopvcfOmKnV) | [Joseph Vaux](https://open.spotify.com/artist/3xeLXw1KYDFIZlod0XGHr1) | [Impressions](https://open.spotify.com/album/319m1F9IJTZ6ups51e1m4N) | 2:43 | 2022-08-03 | 2022-09-13 |
+| [In the Quiet Hours](https://open.spotify.com/track/0mhzqS1uEIQm49i8yH7eUh) | [Harmonic Reverie](https://open.spotify.com/artist/5MQgVlRZZAASmBxSk6bbqi) | [In the Quiet Hours](https://open.spotify.com/album/0Hxyrm1hOIXjJFcXb51kn8) | 3:19 | 2025-05-28 |  |
 | [Indian Yellow](https://open.spotify.com/track/6j8KPn7rmbTwlkpEbHcrS1) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Underwater](https://open.spotify.com/album/3DT821mYJb7Ore88vA8IOO) | 3:14 | 2022-08-03 |  |
 | [Intertwining](https://open.spotify.com/track/4DrbKyHiDUDBAMSvLmDIYN) | [John Crome](https://open.spotify.com/artist/5HCXtWcqdFJhJQYgevKCA5) | [Intertwining](https://open.spotify.com/album/4v2uvSANeRjevB4F7EhXIt) | 2:25 | 2022-08-03 |  |
 | [Intuitive](https://open.spotify.com/track/31VWZJtZ5ba8GCVhllyOiQ) | [Alto Fernando](https://open.spotify.com/artist/0KQn5sR0L1mcSUicDjMtiK) | [Intuitive](https://open.spotify.com/album/6Xa4sstww69EZKAPiwnPRs) | 2:07 | 2025-01-28 |  |

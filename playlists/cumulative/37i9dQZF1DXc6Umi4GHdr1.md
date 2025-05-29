@@ -4,7 +4,7 @@
 
 > Acoustic instrumental guitar to help focus the mind and concentrate on the task at hand.
 
-430 songs - 19 hr 5 min
+432 songs - 19 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Hesitation Theme and Variation Blues](https://open.spotify.com/track/2h4KmvKPMxvZjTpHTpq2FE) | [Marisa Anderson](https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW) | [Mercury](https://open.spotify.com/album/0ltORgLqzn1ZWiu6a49Cyv) | 2:22 | 2021-12-10 | 2023-04-28 |
 | [Hidden Treasures](https://open.spotify.com/track/5QMPnfATvvolBDWSvM2hjm) | [Carsten Meyer](https://open.spotify.com/artist/6je5sFIVVOMLNUeTVnx3v6) | [A Town on a Hill](https://open.spotify.com/album/6IpmlOnnDB4ilaK8mMZtuV) | 3:17 | 2021-12-10 | 2022-05-27 |
 | [High Seas](https://open.spotify.com/track/6SCqDHH0cPWjb5RoO8JeJv) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [High Seas](https://open.spotify.com/album/4Y6eHC85yEXFPA0o6ClDgF) | 2:29 | 2022-03-03 | 2024-06-15 |
+| [Highway](https://open.spotify.com/track/7md0GcPGQmZscsglwm7GIA) | [Dorian Skye](https://open.spotify.com/artist/2PqHZufHAfKQKnL2C76Dnq) | [Highway](https://open.spotify.com/album/5IPedTrS1EwAWrOXh26WYO) | 2:19 | 2025-05-28 |  |
 | [Hope Is The Thing With Feathers](https://open.spotify.com/track/3bfqaJtj53DnO5pJn3DUw1) | [Verona Cassidy](https://open.spotify.com/artist/6yDAXIdSTIU3nLU6MeYIz0) | [Hope Is The Thing With Feathers](https://open.spotify.com/album/2R3SdXnRlzP5xE1MvkYjMD) | 2:05 | 2023-01-06 | 2023-06-10 |
 | [I Found The Right Bottle Of Wine](https://open.spotify.com/track/2rFbFGCYmtwuUDEVSTyQ82) | [Kevin Flynn](https://open.spotify.com/artist/6Bgvv35hEHNuAeOQoNmpAm) | [I Found The Right Bottle Of Wine](https://open.spotify.com/album/3s9PCTNI5xhZ5zgkcU7nOB) | 3:20 | 2022-03-03 | 2024-06-28 |
 | [I Still Believe In You](https://open.spotify.com/track/0cRv6i0wB4WObSQxJriIea) | [Dean M Parker](https://open.spotify.com/artist/1QuHekBuKJTCJa4R0ZbzdT) | [I Still Believe In You](https://open.spotify.com/album/6BDHTLktaSrdqKvRD98VG4) | 2:36 | 2022-03-03 | 2023-08-25 |
@@ -172,6 +173,7 @@
 | [In good company](https://open.spotify.com/track/2PmwATbeMAyIullNs55HJN) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [In good company](https://open.spotify.com/album/4RA2oHsVnCcQQYUnYaDBkc) | 2:25 | 2023-12-15 | 2024-02-02 |
 | [In Search of Miracles](https://open.spotify.com/track/1LWBEJpBkLHkrA662BDHNI) | [Denver Paige](https://open.spotify.com/artist/7u18DW0RHIYBIBZymrnVj5) | [In Search of Miracles](https://open.spotify.com/album/0nQesqp5e8RV2mPN664mvm) | 2:27 | 2023-03-10 | 2023-08-26 |
 | [In the Blink of an Eye](https://open.spotify.com/track/1R1Efo6OOyo9SnR5sdl6dX) | [Claes Nilsson](https://open.spotify.com/artist/3AdcSxxep8tZESjs9K3mZ9) | [In the Blink of an Eye](https://open.spotify.com/album/1a1CrU23YN5PGR4ln2qlg0) | 2:47 | 2022-06-24 | 2023-03-10 |
+| [In Time's Wake](https://open.spotify.com/track/6RV00RZtUQGMrJfIV44aH3) | [Val Monroe](https://open.spotify.com/artist/3R4gAfhxiN6cGlyueGErFo) | [In Time's Wake](https://open.spotify.com/album/53WgH7jOcfo0TKrX0iE8XZ) | 2:30 | 2025-05-28 |  |
 | [Inclination](https://open.spotify.com/track/7AWVuXbcpfTY67jTH4WrWZ) | [Joseph Cline](https://open.spotify.com/artist/4I9DN3aBJSdzI26IuzVl0h) | [Inclination](https://open.spotify.com/album/7exmV8B5jrOXPyn9eFrgpN) | 2:43 | 2024-12-10 |  |
 | [Infinite](https://open.spotify.com/track/0Psbnswd3NpdjuP0rZOJXq) | [Auguste Braun](https://open.spotify.com/artist/5hPDT99ovB977bWVy6oJIc) | [Infinite](https://open.spotify.com/album/07LsSl1xgS3kDwfhTsVRJ3) | 2:25 | 2024-06-07 |  |
 | [Inner Light](https://open.spotify.com/track/3VSd4HA3Wn4AfpFOgBR1Gx) | [Pavel Bittová](https://open.spotify.com/artist/6XfO8fz3xbhOyC53SuSiQ9) | [Inner Light](https://open.spotify.com/album/4keDkcxI0hxLfrFUYAzAPf) | 2:44 | 2024-08-13 |  |
@@ -383,7 +385,7 @@
 | [Timeless](https://open.spotify.com/track/21Av8NmwEwc6uYIjjeUm54) | [Parascope](https://open.spotify.com/artist/3HL4rODpP9DHDgCUlsJnvG) | [Timeless](https://open.spotify.com/album/37Ffg43nlbeDlocMD3VtPj) | 2:28 | 2021-12-10 | 2022-07-22 |
 | [Tintern Abbey](https://open.spotify.com/track/3aWttEx2k00f2UEZDgZBX1) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Tintern Abbey](https://open.spotify.com/album/1z2U5VHq0Zz7pWypdxUjUp) | 2:29 | 2023-04-28 | 2023-06-16 |
 | [To Be Loved](https://open.spotify.com/track/3nrcRpG5QBCXITQMs2i5FL) | [Joseph Gonzalez](https://open.spotify.com/artist/0Xx5c1qUSqajCgoUqS2dMa) | [Better Days](https://open.spotify.com/album/78Sv1TPZppB1jXVbmc2In3) | 2:30 | 2021-12-10 | 2024-04-20 |
-| [To The Brim](https://open.spotify.com/track/0DbVOryVKBRdOFgfhPYok4) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [To The Brim](https://open.spotify.com/album/0v0QEp2zydw5qHPNWwVebn) | 2:09 | 2025-01-07 |  |
+| [To The Brim](https://open.spotify.com/track/0DbVOryVKBRdOFgfhPYok4) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [To The Brim](https://open.spotify.com/album/0v0QEp2zydw5qHPNWwVebn) | 2:09 | 2025-01-07 | 2025-05-29 |
 | [Together Again](https://open.spotify.com/track/163pGELrVriFgvYwdiOHlW) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Together Again](https://open.spotify.com/album/14Iv2IpxEhAsdqehdpbHfc) | 2:31 | 2024-06-28 |  |
 | [Too Soon to Tell](https://open.spotify.com/track/45kY29wtAE6MMJcvCXZYhP) | [August Wilkes](https://open.spotify.com/artist/19gSkzJPz68TJCpd3RIbm5) | [Too Soon to Tell](https://open.spotify.com/album/0GUNid0wDuvNNWVuq16wbr) | 1:42 | 2025-02-19 | 2025-04-03 |
 | [Toujours](https://open.spotify.com/track/4KcEPxhVRj82HNQkZz0fTW) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Toujours](https://open.spotify.com/album/676ljNNDqK54CNbN0NOayI) | 3:11 | 2023-09-08 |  |

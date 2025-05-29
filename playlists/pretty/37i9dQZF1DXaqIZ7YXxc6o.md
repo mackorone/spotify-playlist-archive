@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: Mansionair
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,478 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,482 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 99 | [Everything In Its Right Place](https://open.spotify.com/track/2t8ASQkF6pymkgzdF06F6W) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [Lizzy Land](https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux) | [Movement I](https://open.spotify.com/album/438qTJdiG6kDfdRPRtXCEQ) | 4:01 |
 | 100 | [LOVELOVE](https://open.spotify.com/track/1CuXRKxg5QXaQu3NgGi2Z7) | [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR), [Kazhi](https://open.spotify.com/artist/5GTYEYJqmYH3VlaRRnkaWj) | [LOVELOVE](https://open.spotify.com/album/2giaF7Lwvy9ddscpF9iaP9) | 3:06 |
 
-Snapshot ID: `aC8t6wAAAAAOvnaTpB7dECLXNdFo89cO`
+Snapshot ID: `AAAAABZzmNx46KTqZBLEU5+jaBTFtcNU`

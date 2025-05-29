@@ -1,6 +1,6 @@
 {
   "description": "Bald ist Sommer \u2600\ufe0f",
-  "num_followers": 1522391,
+  "num_followers": 1522469,
   "original_name": "Sommerhits 2025",
   "owner": {
     "name": "Spotify",
@@ -687,18 +687,22 @@
     {
       "added_at": "2025-05-22 15:53:34",
       "album": {
-        "name": "Running Around",
-        "url": "https://open.spotify.com/album/6SgbKsntdtOnmohYEeHi9o"
+        "name": "Borderline",
+        "url": "https://open.spotify.com/album/7orKsJO9Qi5l33hosrYYAf"
       },
       "artists": [
         {
           "name": "Ely Oaks",
           "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        },
+        {
+          "name": "LAVINIA",
+          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
         }
       ],
-      "duration_ms": 124620,
-      "name": "Running Around",
-      "url": "https://open.spotify.com/track/7yNQ5oPcuCC4wTqTcMRIrE"
+      "duration_ms": 118449,
+      "name": "Borderline",
+      "url": "https://open.spotify.com/track/5LrWZ8K4SPr1Qe0ZBqJGTq"
     },
     {
       "added_at": "2025-05-22 15:53:34",
@@ -791,22 +795,18 @@
     {
       "added_at": "2025-05-22 15:53:34",
       "album": {
-        "name": "Borderline",
-        "url": "https://open.spotify.com/album/7orKsJO9Qi5l33hosrYYAf"
+        "name": "Running Around",
+        "url": "https://open.spotify.com/album/6SgbKsntdtOnmohYEeHi9o"
       },
       "artists": [
         {
           "name": "Ely Oaks",
           "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
-        },
-        {
-          "name": "LAVINIA",
-          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
         }
       ],
-      "duration_ms": 118449,
-      "name": "Borderline",
-      "url": "https://open.spotify.com/track/5LrWZ8K4SPr1Qe0ZBqJGTq"
+      "duration_ms": 124620,
+      "name": "Running Around",
+      "url": "https://open.spotify.com/track/7yNQ5oPcuCC4wTqTcMRIrE"
     },
     {
       "added_at": "2025-05-22 15:53:34",
@@ -859,22 +859,22 @@
     {
       "added_at": "2025-05-22 15:53:34",
       "album": {
-        "name": "SURRENDER",
-        "url": "https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D"
+        "name": "Vaitimbora",
+        "url": "https://open.spotify.com/album/0cIKxynxh628Q7qOyamXLe"
       },
       "artists": [
         {
-          "name": "Zerb",
-          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+          "name": "Mariana Froes",
+          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
         },
         {
-          "name": "Sofiya Nzau",
-          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+          "name": "Trinix",
+          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
         }
       ],
-      "duration_ms": 208135,
-      "name": "Mwaki",
-      "url": "https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc"
+      "duration_ms": 135131,
+      "name": "Vaitimbora",
+      "url": "https://open.spotify.com/track/0QAUgW2vTmlUWhbiNeSkWm"
     },
     {
       "added_at": "2025-05-22 15:53:34",
@@ -907,22 +907,22 @@
     {
       "added_at": "2025-05-22 15:53:34",
       "album": {
-        "name": "Vaitimbora",
-        "url": "https://open.spotify.com/album/0cIKxynxh628Q7qOyamXLe"
+        "name": "SURRENDER",
+        "url": "https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D"
       },
       "artists": [
         {
-          "name": "Mariana Froes",
-          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
         },
         {
-          "name": "Trinix",
-          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
         }
       ],
-      "duration_ms": 135131,
-      "name": "Vaitimbora",
-      "url": "https://open.spotify.com/track/0QAUgW2vTmlUWhbiNeSkWm"
+      "duration_ms": 208135,
+      "name": "Mwaki",
+      "url": "https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc"
     },
     {
       "added_at": "2025-05-22 15:53:34",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2025-05-22 15:53:34",
       "album": {
+        "name": "Mille Grazie",
+        "url": "https://open.spotify.com/album/6vQyF8fixVpBo93bThDEQD"
+      },
+      "artists": [
+        {
+          "name": "Roy Bianco & Die Abbrunzati Boys",
+          "url": "https://open.spotify.com/artist/3mWQ5gAWWhoPDNHyAEC5Hz"
+        }
+      ],
+      "duration_ms": 235986,
+      "name": "Bella Napoli",
+      "url": "https://open.spotify.com/track/1W14FFFgsM0m6DUt3Tf6NP"
+    },
+    {
+      "added_at": "2025-05-22 15:53:34",
+      "album": {
         "name": "Head Down",
         "url": "https://open.spotify.com/album/4FUeHNijvgnMa27510RDC2"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 173888,
       "name": "Head Down",
       "url": "https://open.spotify.com/track/7v4lL0VxQV8yTv29Tpf2sH"
-    },
-    {
-      "added_at": "2025-05-22 15:53:34",
-      "album": {
-        "name": "Mille Grazie",
-        "url": "https://open.spotify.com/album/6vQyF8fixVpBo93bThDEQD"
-      },
-      "artists": [
-        {
-          "name": "Roy Bianco & Die Abbrunzati Boys",
-          "url": "https://open.spotify.com/artist/3mWQ5gAWWhoPDNHyAEC5Hz"
-        }
-      ],
-      "duration_ms": 235986,
-      "name": "Bella Napoli",
-      "url": "https://open.spotify.com/track/1W14FFFgsM0m6DUt3Tf6NP"
     },
     {
       "added_at": "2025-05-22 15:53:34",

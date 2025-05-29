@@ -4,7 +4,7 @@
 
 > The best new rock & alternative tracks every week\. Cover: Turnstile
 
-8,620 songs - 20 day 10 hr 14 min
+8,621 songs - 20 day 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -6234,6 +6234,7 @@
 | [Salome](https://open.spotify.com/track/0vBoiLP5oMhP32eRZguhdm) | [The Ophelias](https://open.spotify.com/artist/0Kpf7PvEotzvndPhYwwZzb) | [Salome](https://open.spotify.com/album/1t75YrHvYR6BeBo9uVTG8Z) | 2:18 | 2025-03-07 | 2025-03-15 |
 | [Salt](https://open.spotify.com/track/0opJEZyslw0pzdfZisGiaL) | [Oversize](https://open.spotify.com/artist/38vNZvHEjUU9XlzlV43H9T), [Heavenward](https://open.spotify.com/artist/3iKDeO8yaOiWz7vkeljunk) | [Salt](https://open.spotify.com/album/1NjAWYIQvHY8uicYdQN3an) | 3:30 | 2024-03-29 | 2024-04-06 |
 | [Salt](https://open.spotify.com/track/7bMm4GSR0O90ZrrqsKf74G) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF), [The Grogans](https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv) | [Salt](https://open.spotify.com/album/1i029CHfpOok9L5nC1JWO2) | 3:07 | 2023-09-08 | 2023-09-16 |
+| [Salvation](https://open.spotify.com/track/1rrR4Bah1eMMSnk7FPudug) | [Twin Atlantic](https://open.spotify.com/artist/4A9xtvezlouTD7H0kyUje9) | [Salvation](https://open.spotify.com/album/22HppaRF9YW1WMxH9kTjyA) | 3:51 | 2025-05-28 |  |
 | [Samantha](https://open.spotify.com/track/6HzHUak0SX37OJbpTOUdoB) | [Fresh not Chill](https://open.spotify.com/artist/27haRyrBkX38HdMBqeMi7u) | [Samantha](https://open.spotify.com/album/3965BurtVRJblIYIPEXwhG) | 3:48 | 2022-06-16 | 2022-06-24 |
 | [Samba Samba](https://open.spotify.com/track/5hRxiUmqeUQDKtMSzyWlOk) | [Raue](https://open.spotify.com/artist/0N3GaGdqGJYLZTa6L04tuI) | [Samba Samba](https://open.spotify.com/album/3qpGFaEcf5BohADvFq9WCO) | 2:31 | 2024-03-08 | 2024-03-16 |
 | [Same](https://open.spotify.com/track/7bvRiYdF3iz7MTDYC4vVWs) | [The OBGMs](https://open.spotify.com/artist/3Sp7HTc7BNbSx0SPiHVeRI) | [Same](https://open.spotify.com/album/1SARpFDdsDM4ZS2UWqH51s) | 3:38 | 2022-06-16 | 2022-06-24 |

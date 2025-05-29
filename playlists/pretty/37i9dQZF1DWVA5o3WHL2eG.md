@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Zoë Më
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,768 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,769 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 15 | [Danke sagen](https://open.spotify.com/track/2RwL8OQf3RgdEIjjWOjnTK) | [Alina](https://open.spotify.com/artist/6hPlslLYRFnaIswJ5pn0rw) | [Ungefiltert](https://open.spotify.com/album/2Fjj1esqsdGzLopD2iICcJ) | 3:35 |
 | 16 | [Fuck Marry Kill](https://open.spotify.com/track/63ClzlsRKKd3ggRum4HBSD) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Fuck Marry Kill](https://open.spotify.com/album/4QMoElshtpQOGNhIf8Oy8Y) | 2:55 |
 | 17 | [Liste des Interdits](https://open.spotify.com/track/5101smY8IQ4gm8z0KKDPpl) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN) | [Liste des Interdits](https://open.spotify.com/album/05xUH4lTx258ILjXjsx7Oh) | 3:06 |
-| 18 | [Blumen auf dem Friedhof](https://open.spotify.com/track/3KGC4HMLgbRMK6XWCjIofj) | [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [Blumen auf dem Friedhof](https://open.spotify.com/album/5JMVfYiwsyCCmxKWkZ9vZ5) | 2:33 |
-| 19 | [FRAU](https://open.spotify.com/track/4QQsVX9PHWm0w0mm82Xjj3) | [Lara Hulo](https://open.spotify.com/artist/7uIuNffVj9hfFYnh8r27P0) | [FRAU](https://open.spotify.com/album/2jU2rAGE4VgIpTfTGnNJ3R) | 2:56 |
+| 18 | [FRAU](https://open.spotify.com/track/4QQsVX9PHWm0w0mm82Xjj3) | [Lara Hulo](https://open.spotify.com/artist/7uIuNffVj9hfFYnh8r27P0) | [FRAU](https://open.spotify.com/album/2jU2rAGE4VgIpTfTGnNJ3R) | 2:56 |
+| 19 | [Blumen auf dem Friedhof](https://open.spotify.com/track/3KGC4HMLgbRMK6XWCjIofj) | [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [Blumen auf dem Friedhof](https://open.spotify.com/album/5JMVfYiwsyCCmxKWkZ9vZ5) | 2:33 |
 | 20 | [Unterwegs](https://open.spotify.com/track/40jJzV9jbjOBffMaSNeWXT) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Unterwegs](https://open.spotify.com/album/6XlZr5BuPXtawE2KIZ89Up) | 2:30 |
 | 21 | [Keine Zeit/Selbstmitleid](https://open.spotify.com/track/6iG5sYycr1fzTajS770BzE) | [Kayla Shyx](https://open.spotify.com/artist/37NnQM5PCvTKYI1MIWiNx8) | [Keine Zeit/Selbstmitleid](https://open.spotify.com/album/4IfKrwMwA3WFuKlxTljiFp) | 2:51 |
 | 22 | [Wandrisse](https://open.spotify.com/track/40i48ukbj3os9j30zFvA0F) | [Magda](https://open.spotify.com/artist/5yjjgmQfOQTB2s8XQxQwup) | [Wandrisse](https://open.spotify.com/album/0mYVH89m0NIpU2LXpfDOK3) | 2:42 |

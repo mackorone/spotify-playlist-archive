@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from Alex Warren, Jelly Roll, Burna Boy, Travis Scott, Ruby Fields + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 409,147 likes - 98 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 409,159 likes - 98 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 19 | [Motorway](https://open.spotify.com/track/2SRfU2mLSa7MJ8LgCY6ute) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Motorway](https://open.spotify.com/album/4ElIb7BvBZWM7nHm5lcUnG) | 3:30 |
 | 20 | [About To Begin](https://open.spotify.com/track/5bF7tpXlhyfA7EwQ5sdOZh) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [About To Begin / Cars Pass By Like Childhood Sweethearts](https://open.spotify.com/album/0SQV9DefT0wIBz9aCYehmu) | 3:30 |
 | 21 | [Facelift](https://open.spotify.com/track/2SYAr2AfmNynPZD24cQFFm) | [Gold Fang](https://open.spotify.com/artist/1e8lOc1h26CVBSGh3iiW7M), [1st Klase](https://open.spotify.com/artist/5gPZ9xZ09FdYzbHIdGB2bA) | [Facelift](https://open.spotify.com/album/5oy10pCqrAEb4TR4FlfWoH) | 1:55 |
-| 22 | [HOLLYWOOD \- feat\. Shoreline Mafia](https://open.spotify.com/track/0uAmR0yTDNAaXA5jPGOrir) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ) | [HOLLYWOOD \(feat\. Shoreline Mafia\)](https://open.spotify.com/album/0pg3WtuKm4GlckMugbml46) | 3:00 |
+| 22 | [HOLLYWOOD](https://open.spotify.com/track/0uAmR0yTDNAaXA5jPGOrir) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ) | [HOLLYWOOD](https://open.spotify.com/album/0pg3WtuKm4GlckMugbml46) | 3:00 |
 | 23 | [BACK IN THE DAY](https://open.spotify.com/track/4OxaRflmTPVg5fSwEWZJqh) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1) | [BACK IN THE DAY](https://open.spotify.com/album/5yRdZrCHMTcJVqJOcDL2TP) | 2:48 |
 | 24 | [The Hit](https://open.spotify.com/track/0cDf1WMAJW9CUubbp6Fb3d) | [aleksiah](https://open.spotify.com/artist/2zQnvTW2xp6dVyK6qFqht9) | [The Hit](https://open.spotify.com/album/4mhrVYZZPIj5dwIDhyQDmK) | 3:39 |
 | 25 | [Where You Need To Be](https://open.spotify.com/track/5wAxcO9N89pLKRo68vMqJL) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [Where You Need To Be](https://open.spotify.com/album/5zuAaJ9wg60dc7UOVHVgRz) | 4:13 |

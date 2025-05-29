@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 
 > Vintage easy listening from the fifties...
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,975 likes - 80 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,993 likes - 80 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 | 41 | [Come prima](https://open.spotify.com/track/1PlV6IT8zWLrhJThiIozbv) | [Marino Marini](https://open.spotify.com/artist/2XLDoRIbLGPDqTXeTrVIbo) | [Guaglione](https://open.spotify.com/album/3JP375sFTecotrjU3tN0wc) | 2:41 |
 | 42 | [I'm In Love Again](https://open.spotify.com/track/4YwJx3IDgQQY75yGMXG8A0) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [Legends Of Rock n' Roll](https://open.spotify.com/album/4b9RizMvXeRHO3ZihUfas6) | 1:58 |
 | 43 | [Make It Soon \- 1999 Remaster](https://open.spotify.com/track/20SLjXdA0H3I5IRf4E07Hi) | [Tony Brent](https://open.spotify.com/artist/4JHTfWmgZf3Hz7JLBGrJnj) | [The Best Of Tony Brent](https://open.spotify.com/album/26pN1w1fbL5t8EDI5XvaOn) | 2:34 |
-| 44 | [Let Me Go, Lover!](https://open.spotify.com/track/0Ribhkc0wstAoYkEY12BDq) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [The Singles](https://open.spotify.com/album/5LoOStQoPOCIyOReBVcbtR) | 3:04 |
-| 45 | [A Teenager In Love](https://open.spotify.com/track/48zgajINkd60MYu8WE0dcG) | [Marty Wilde](https://open.spotify.com/artist/49Jb7NSMLFMM3n8M7BNRxN) | [The Best of British Rock 'n' Roll / 1956 \- 1959, Vol\. 2](https://open.spotify.com/album/0g8JsELC0nFdjETYsDO1lK) | 2:21 |
+| 44 | [A Teenager In Love](https://open.spotify.com/track/48zgajINkd60MYu8WE0dcG) | [Marty Wilde](https://open.spotify.com/artist/49Jb7NSMLFMM3n8M7BNRxN) | [The Best of British Rock 'n' Roll / 1956 \- 1959, Vol\. 2](https://open.spotify.com/album/0g8JsELC0nFdjETYsDO1lK) | 2:21 |
+| 45 | [Let Me Go, Lover!](https://open.spotify.com/track/0Ribhkc0wstAoYkEY12BDq) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [The Singles](https://open.spotify.com/album/5LoOStQoPOCIyOReBVcbtR) | 3:04 |
 | 46 | [Tammy](https://open.spotify.com/track/5aumFAJ6QzEy8Sm9fluanc) | [Debbie Reynolds](https://open.spotify.com/artist/4Zf0pLGYwNB86Y97kisvkn) | [Love Is A Simple Thing](https://open.spotify.com/album/4xFfbmS2BiQieVo1nRZi47) | 3:04 |
 | 47 | [Band of Gold \(with Ray Conniff & His Orchestra & Chorus\)](https://open.spotify.com/track/1cn68NZRQSnergWSf1o1hd) | [Don Cherry](https://open.spotify.com/artist/3uOUFs61rANc8dETV3OfID), [Ray Conniff](https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv) | [The Best of Don Cherry](https://open.spotify.com/album/0hmtoNydN3gGXdxhts4Zf4) | 2:35 |
 | 48 | [Big Man](https://open.spotify.com/track/0KayDFomB8iDyAdOpKfKTK) | [The Four Preps](https://open.spotify.com/artist/5MsnoFODDc5nxWrjm99Zew) | [The Single Collection, Vol\. 1](https://open.spotify.com/album/1pmKZnDtUJACH85pfDAHDr) | 2:23 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 | 76 | [Half As Much \(with Percy Faith & His Orchestra\)](https://open.spotify.com/track/28vTOD76XR7tx6RonEpZc2) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK), [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [Essential \- Easy Listening](https://open.spotify.com/album/6tLbWFq5usheMkHZwmMFaY) | 2:45 |
 | 77 | [My Special Angel](https://open.spotify.com/track/5gMys5AKf5PaAXeebvSJzS) | [Malcolm Vaughan](https://open.spotify.com/artist/40nN9AjGbnrntYFEyD95GA) | [Call The Midwife](https://open.spotify.com/album/7H5q6GZrfypwDMBuzQS4F3) | 2:45 |
 | 78 | [He's Got the Whole World in His Hands](https://open.spotify.com/track/1P3ZqCqZVd2MTTTpM6GljU) | [Laurie London](https://open.spotify.com/artist/0oqCI59nwfnmdeofg0TApe) | [Original Hits \- 50s](https://open.spotify.com/album/5F5iEKIrS6EZmItYyvAQjx) | 2:21 |
-| 79 | [We Will Make Love](https://open.spotify.com/track/2RwgGFFWJO0RzyM2VAOwWW) | [Russ Hamilton](https://open.spotify.com/artist/6ghW1DfBe5HLRybsxZrQHV) | [The Best Of The 50's \(Fifties\)](https://open.spotify.com/album/6IT0jEXEkvbJkgGQwFyOud) | 2:40 |
-| 80 | [Rose Marie](https://open.spotify.com/track/6jak4Fou65AgcZoLpNDN74) | [Slim Whitman](https://open.spotify.com/artist/5bO7gAKKIwHwhxdsCR1UN0) | [Original Hits \- Country](https://open.spotify.com/album/2CLBwQ3j9tbB1yUVtoIf6n) | 2:22 |
+| 79 | [Rose Marie](https://open.spotify.com/track/6jak4Fou65AgcZoLpNDN74) | [Slim Whitman](https://open.spotify.com/artist/5bO7gAKKIwHwhxdsCR1UN0) | [Original Hits \- Country](https://open.spotify.com/album/2CLBwQ3j9tbB1yUVtoIf6n) | 2:22 |
+| 80 | [We Will Make Love](https://open.spotify.com/track/2RwgGFFWJO0RzyM2VAOwWW) | [Russ Hamilton](https://open.spotify.com/artist/6ghW1DfBe5HLRybsxZrQHV) | [The Best Of The 50's \(Fifties\)](https://open.spotify.com/album/6IT0jEXEkvbJkgGQwFyOud) | 2:40 |
 
 Snapshot ID: `Zl3YwgAAAAAOXKvqXoCX6XHDb3VyaPb3`

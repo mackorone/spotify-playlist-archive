@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/2En0hpA97YxdCqyGVnDOK6?si=H2DMPteVR6C4AWRPMgrBfQ">PSILK</a>, <a href="https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2?si=xFG\-SGjhSmuLSt5Mi7gE1A">Thando Zide</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,828 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,829 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 27 | [Tell me I never knew that](https://open.spotify.com/track/2Kd9o6XhbcMLQcqkyoAg3f) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Tell me I never knew that](https://open.spotify.com/album/6Z76fbESpNdmG9WSvlvaCW) | 4:39 |
 | 28 | [Lovers Only](https://open.spotify.com/track/5El7hefZel9jzdjnoBUrUJ) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Lovers Only](https://open.spotify.com/album/5SzdVGZnxac4bJmw1kI78U) | 3:39 |
 | 29 | [You got time and I got money](https://open.spotify.com/track/4YDl2Oxc1mVRnZsZAbNzI0) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [You got time and I got money](https://open.spotify.com/album/1GpEABGAAl6jY2Io86FQvn) | 4:31 |
-| 30 | [You and I](https://open.spotify.com/track/2ia6zPFz6SF8ZOT5mpR2TA) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [You and I](https://open.spotify.com/album/6vD25XXvlBJCH4duRBMfYc) | 2:48 |
-| 31 | [Animaru](https://open.spotify.com/track/1SkY6npvIxrTAU1cP4XMIg) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Animaru](https://open.spotify.com/album/6giorr9WTWilWHmD0Ox4ow) | 2:41 |
+| 30 | [Animaru](https://open.spotify.com/track/1SkY6npvIxrTAU1cP4XMIg) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Animaru](https://open.spotify.com/album/6giorr9WTWilWHmD0Ox4ow) | 2:41 |
+| 31 | [You and I](https://open.spotify.com/track/2ia6zPFz6SF8ZOT5mpR2TA) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [You and I](https://open.spotify.com/album/6vD25XXvlBJCH4duRBMfYc) | 2:48 |
 | 32 | [The Actor](https://open.spotify.com/track/3BnXwrGZwJ2kDtACt4TOIX) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [The Actor](https://open.spotify.com/album/4cuqUw4Z17ym8fvzgkrOOm) | 2:50 |
 | 33 | [Entertainer](https://open.spotify.com/track/2MTGcrlm3vnMdzlgS2eKe8) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Safe](https://open.spotify.com/album/3642b765vQWRQXzDyoPItp) | 3:23 |
 | 34 | [300 dreams](https://open.spotify.com/track/3gkVuPHTyp4rHH5YrczzOL) | [After](https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li) | [300 dreams](https://open.spotify.com/album/3IgDyLUkygCEyfG7CsZyzB) | 3:08 |
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 36 | [Too Pretty For Buffalo](https://open.spotify.com/track/0YSLuLkd42sfo1CYXcdijR) | [Baby Nova](https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf) | [Too Pretty For Buffalo](https://open.spotify.com/album/4vDyjgRIPNAQTirFdySzoY) | 3:56 |
 | 37 | [Caterpillar](https://open.spotify.com/track/3pEHYqoL41WqjJDGCwRoQN) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Caterpillar](https://open.spotify.com/album/1zcnxqIC7IomgcLiKFfpS6) | 3:37 |
 | 38 | [Broken Heart](https://open.spotify.com/track/48MSexB0mV4AG0mG3Em3xX) | [Booshle G.](https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s) | [Broken Heart](https://open.spotify.com/album/48aSryXOCcT0AOqTJyoa8Y) | 2:48 |
-| 39 | [Woman Lake](https://open.spotify.com/track/6qSt1UvGaxHUzzV244HpmO) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Woman Lake](https://open.spotify.com/album/5FTfV5xtWhRbcQ3K1H97Q6) | 2:44 |
+| 39 | [In Love With A Memory](https://open.spotify.com/track/4VruElIXifs4MixNrCd0uB) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [In Love With A Memory](https://open.spotify.com/album/1Kg8dxL57VOCutWzOqYYff) | 4:03 |
 | 40 | [Old Friend](https://open.spotify.com/track/2WY82DxJJon1zXRuFLdwkg) | [David Derman](https://open.spotify.com/artist/7wxxhtLbg3D7B6q4HsYQ3A) | [Old Friend](https://open.spotify.com/album/1Vv7pCT3NRnkznBwdWyejW) | 3:09 |
-| 41 | [In Love With A Memory](https://open.spotify.com/track/4VruElIXifs4MixNrCd0uB) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [In Love With A Memory](https://open.spotify.com/album/1Kg8dxL57VOCutWzOqYYff) | 4:03 |
+| 41 | [Woman Lake](https://open.spotify.com/track/6qSt1UvGaxHUzzV244HpmO) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Woman Lake](https://open.spotify.com/album/5FTfV5xtWhRbcQ3K1H97Q6) | 2:44 |
 | 42 | [Undercover](https://open.spotify.com/track/4rtTUIgkdHKkxnE5Md8OWP) | [LJ Hills](https://open.spotify.com/artist/2oJekFYHLZFWfFLgjeFENq) | [Undercover](https://open.spotify.com/album/7sYU1VLCQAFMOQsrEEzIQT) | 3:49 |
 | 43 | [Amiss](https://open.spotify.com/track/32MdMYrvkZR0UbipORYKYZ) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Amiss](https://open.spotify.com/album/4kbW4wRsOzRNBzP9gwSyMz) | 3:49 |
 | 44 | [Are You Happy Now](https://open.spotify.com/track/1QWZGW12Stj3JGZWIWVUx4) | [Joshua Morris](https://open.spotify.com/artist/0fgysuyIdg2ZjnSePctoPn) | [Are You Happy Now](https://open.spotify.com/album/3B5sz22BMCAnFhDNliedai) | 3:59 |

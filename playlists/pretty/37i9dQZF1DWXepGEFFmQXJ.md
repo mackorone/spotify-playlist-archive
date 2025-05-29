@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 
 > The cream of today's country crop\. Cover: Chris Stapleton
 
-[Spotify](https://open.spotify.com/user/spotify) - 427,223 likes - 49 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 427,227 likes - 49 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 48 | [Same Moon](https://open.spotify.com/track/66FK7N6myc7RJ4WgB5QW70) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Same Moon](https://open.spotify.com/album/3RLCkCsMPZZ8WFDXrnbjNV) | 2:54 |
 | 49 | [How Do You Miss Me \(feat\. Alexandra Kay\)](https://open.spotify.com/track/3225izSd52xkiNvhG7yg7n) | [Dallas Smith](https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC), [Alexandra Kay](https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV) | [How Do You Miss Me](https://open.spotify.com/album/2JmjXSDe7gzx5v8zQ7DOV7) | 3:02 |
 
-Snapshot ID: `aDOk7wAAAABzrQJLsZjyKTW9w2Q/R4oX`
+Snapshot ID: `aDOk7wAAAABKFHw+IVDwM4jv/R4CjMsJ`

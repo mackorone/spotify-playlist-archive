@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 
 > Songs of faith, hope, and the greatest of these, love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,970 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,975 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,13 +61,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 51 | [Don't Deserve You](https://open.spotify.com/track/1TRibL6UoaiU3yEdqCQbgx) | [Plumb](https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH) | [Need You Now](https://open.spotify.com/album/2AwrSABuCbL70654kGQ1so) | 4:11 |
 | 52 | [All Of Me](https://open.spotify.com/track/40WDnUnzQL4XTo81vUJlKt) | [Matt Hammitt](https://open.spotify.com/artist/0o77vi5tCsW348tzvdjNPw) | [Every Falling Tear](https://open.spotify.com/album/57KfddAY3ffu3A3F7M5b0h) | 4:06 |
 | 53 | [We Will Dance](https://open.spotify.com/track/1vvKpTt15DT2xWA6mNcF6o) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [All About Love](https://open.spotify.com/album/0GtzQXs1ecJK73NsRXfXAM) | 4:40 |
-| 54 | [Falling At The Thought Of You](https://open.spotify.com/track/4PqpoY1wcn4GsM4gKw7lBO) | [Claire Leslie](https://open.spotify.com/artist/5GkuwRdmvp8r48JCPwqM7E) | [Falling At The Thought Of You](https://open.spotify.com/album/1ucrXcjn2Dd5FVWrN7bYdX) | 2:50 |
-| 55 | [The Day Before You \- Acoustic](https://open.spotify.com/track/20Y6MNDyaBRpFrQ1Dt5CNF) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [The Writer's Room: An Acoustic EP](https://open.spotify.com/album/6yUxPBG0mG9RA2PdKA7Px5) | 3:32 |
-| 56 | [Beautiful \(feat\. India.Arie\)](https://open.spotify.com/track/1P5jyUv4YzTUWTorHAQjgf) | [Gene Moore](https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6), [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Beautiful](https://open.spotify.com/album/4cb9hipQR0owfDfjieuOsb) | 3:46 |
+| 54 | [The Day Before You \- Acoustic](https://open.spotify.com/track/20Y6MNDyaBRpFrQ1Dt5CNF) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [The Writer's Room: An Acoustic EP](https://open.spotify.com/album/6yUxPBG0mG9RA2PdKA7Px5) | 3:32 |
+| 55 | [Beautiful \(feat\. India.Arie\)](https://open.spotify.com/track/1P5jyUv4YzTUWTorHAQjgf) | [Gene Moore](https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6), [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Beautiful](https://open.spotify.com/album/4cb9hipQR0owfDfjieuOsb) | 3:46 |
+| 56 | [Falling At The Thought Of You](https://open.spotify.com/track/4PqpoY1wcn4GsM4gKw7lBO) | [Claire Leslie](https://open.spotify.com/artist/5GkuwRdmvp8r48JCPwqM7E) | [Falling At The Thought Of You](https://open.spotify.com/album/1ucrXcjn2Dd5FVWrN7bYdX) | 2:50 |
 | 57 | [Love In the Time of Madness](https://open.spotify.com/track/1lOn7QVLKuNtPQOOjq9Qo6) | [Josh Gauton](https://open.spotify.com/artist/4PLDTXCudiHDay44OSM79M) | [Slow Renaissance](https://open.spotify.com/album/2z2kb5sdhNp9lBnnzGxhi1) | 4:03 |
 | 58 | [ZIKITUM](https://open.spotify.com/track/6YfdLH5Y3SLpbagzkqwJoc) | [Cardec Drums](https://open.spotify.com/artist/1uVtllLSmvkfPRozmSmxzG) | [ZIKITUM](https://open.spotify.com/album/0yHtSQXp7c8O3nC3dwh32X) | 2:22 |
-| 59 | [Look At Love](https://open.spotify.com/track/6LyEFiIuByViEKcbZBAebw) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [My Tribe](https://open.spotify.com/album/6BiS5wWmp1iWnRsxkq4BzD) | 3:21 |
-| 60 | [I'll Wait](https://open.spotify.com/track/4S897uiKljGMaW7jKeRF9I) | [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [I'll Wait](https://open.spotify.com/album/2Mvi0g1n9f8tHaO7oeJfzR) | 3:51 |
+| 59 | [I'll Wait](https://open.spotify.com/track/4S897uiKljGMaW7jKeRF9I) | [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [I'll Wait](https://open.spotify.com/album/2Mvi0g1n9f8tHaO7oeJfzR) | 3:51 |
+| 60 | [Look At Love](https://open.spotify.com/track/6LyEFiIuByViEKcbZBAebw) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [My Tribe](https://open.spotify.com/album/6BiS5wWmp1iWnRsxkq4BzD) | 3:21 |
 | 61 | [What A Mystery](https://open.spotify.com/track/2FYSON92zpz3iiDAmG2IMg) | [Josh Wilson](https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2) | [Carry Me](https://open.spotify.com/album/4xjAeY5J7q6iHlRWEF07b0) | 2:57 |
 | 62 | [Together](https://open.spotify.com/track/3BWvRBAgmWS7v7hgZnSn9S) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [The Glorious Unfolding](https://open.spotify.com/album/48saUjxC3qdrxuEKa5jiGZ) | 4:02 |
 | 63 | [Just Too Good](https://open.spotify.com/track/23hRAQiS0XqnGIz1Oyb1gR) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Just Too Good](https://open.spotify.com/album/6ZbkWzwtQiNTCWNu7uTTbd) | 3:23 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 81 | [Breathe Life](https://open.spotify.com/track/6jYStiz3SkwOHSfBApVxTA) | [Nu Tone](https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA), [Marie Love](https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h), [Matthew Grant](https://open.spotify.com/artist/1TtBULEnLbpIrXCrpcO4Di) | [Breathe Life](https://open.spotify.com/album/5zy0vbCV0XwCKHUizHAesy) | 3:06 |
 | 82 | [Here for You](https://open.spotify.com/track/04D4ANfSUYYOZQqYjwt2ae) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Here for You](https://open.spotify.com/album/460gb1Qn7I9OwESRjiXrHl) | 2:32 |
 | 83 | [fall \(when we fell in love\)](https://open.spotify.com/track/36d1svoAknjikN8IgUXSbD) | [Xander Sallows](https://open.spotify.com/artist/1qkNJ1IgevMh0GG9rMEh8F) | [fall \(when we fell in love\)](https://open.spotify.com/album/10n7mUKnfNJKUWcm6Bu6jm) | 2:37 |
-| 84 | [A Red, Red Rose](https://open.spotify.com/track/1g9FU9nMRWjpA1HLsdNNKg) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx) | [A Red, Red Rose](https://open.spotify.com/album/3Zl4tzDaW9wCK62lEyRhuf) | 3:23 |
-| 85 | [Easy](https://open.spotify.com/track/2CrAx85yam4L1C45LImiHv) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Easy](https://open.spotify.com/album/063TozOtRM8T8I7fGpLNsG) | 2:58 |
+| 84 | [Easy](https://open.spotify.com/track/2CrAx85yam4L1C45LImiHv) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Easy](https://open.spotify.com/album/063TozOtRM8T8I7fGpLNsG) | 2:58 |
+| 85 | [A Red, Red Rose](https://open.spotify.com/track/1g9FU9nMRWjpA1HLsdNNKg) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx) | [A Red, Red Rose](https://open.spotify.com/album/3Zl4tzDaW9wCK62lEyRhuf) | 3:23 |
 | 86 | [Junto a Ti](https://open.spotify.com/track/309976H25vNibcds9nAH5A) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu) | [Junto a Ti](https://open.spotify.com/album/2ExKlEtTWeHbcv4uViU6sH) | 3:07 |
 | 87 | [I'm in Love With You](https://open.spotify.com/track/1X40brgUhO1VaZ8CHtKBnt) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Genesis](https://open.spotify.com/album/56H4CnTe0xS1VpZLgC9wAf) | 4:06 |
 | 88 | [Giving In](https://open.spotify.com/track/5U3UVEFEdunLJFpbTliCGj) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Giving In](https://open.spotify.com/album/7I1KWEWQ4G2FA84rHEuslm) | 3:27 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 97 | [The One Out The Friendzone \- Kevin Aleksander Remix](https://open.spotify.com/track/25EsAdUP8d3ENGnlKsKcOc) | [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL), [Tommy Royale](https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs), [Kevin Aleksander](https://open.spotify.com/artist/2i22RHQ7v8dY9xiNtC9ADZ) | [The One Out The Friendzone \(Kevin Aleksander Remix\)](https://open.spotify.com/album/34iEy5I9vJ3BUvYgbs9tiC) | 3:00 |
 | 98 | [I Do](https://open.spotify.com/track/23lQIH97ocBAw1cOJmZigq) | [Jordan May](https://open.spotify.com/artist/0lx6baQe1oEBLm8jkDWI8v) | [I Do](https://open.spotify.com/album/3RsemeJwb8I1PebI8Y2tW8) | 3:34 |
 | 99 | [Me + You = Pi](https://open.spotify.com/track/11akLVy8J6vDKsnmDbMxus) | [Kurtis Hoppie](https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8) | [Me + You = Pi](https://open.spotify.com/album/1hXEZYIQQBGCdx9j0aDr6p) | 2:49 |
-| 100 | [Red Mercedes](https://open.spotify.com/track/3II7QddbZjEKhYh7XoBb1Y) | [Toyalove](https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6) | [Red Mercedes](https://open.spotify.com/album/4FqEdIjwG6wdCyEx2tyxcz) | 2:37 |
+| 100 | [SAFE](https://open.spotify.com/track/2UZf3nuTmbp4hgG3vluLRs) | [Ki Alexis](https://open.spotify.com/artist/5qQlhqqrbs8kTsaq7yBOch) | [SAFE](https://open.spotify.com/album/74yE9s61cJjwygLpdW7gQq) | 3:51 |
 
 Snapshot ID: `Z68RzQAAAACVoWgDoBgigxr1UJ0BJL/h`

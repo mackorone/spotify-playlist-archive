@@ -603,6 +603,24 @@
     },
     {
       "album": {
+        "name": "Daylight Saving",
+        "url": "https://open.spotify.com/album/6lMTV5tFejaXj9fGgEBsVF"
+      },
+      "artists": [
+        {
+          "name": "Ferragno",
+          "url": "https://open.spotify.com/artist/6V5Qb50Rc4RxLMVRgLyD2W"
+        }
+      ],
+      "date_added": "2025-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162092,
+      "name": "Daylight Saving",
+      "url": "https://open.spotify.com/track/3SaIAk237mEa2tt2ije1JR"
+    },
+    {
+      "album": {
         "name": "Dear Buddy",
         "url": "https://open.spotify.com/album/7nRhGhULaOo98BoVjYzzgD"
       },

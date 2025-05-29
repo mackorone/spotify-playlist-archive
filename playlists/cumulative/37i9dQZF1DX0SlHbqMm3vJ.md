@@ -4,7 +4,7 @@
 
 > A collection R&B and Afropop cuts from West Africa’s finest artists\. Cover: Seyi Vibez
 
-764 songs - 1 day 13 hr 35 min
+765 songs - 1 day 13 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,6 +225,7 @@
 | [Falling](https://open.spotify.com/track/4nZrMIPiY3Ti2OdsQkOb8I) | [Basiil](https://open.spotify.com/artist/1KOeTyRjoGl0MPu4NRklMV), [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [I Know I Am](https://open.spotify.com/album/0n8t233j9SxfeORXpC9msV) | 2:36 | 2023-07-20 | 2023-12-13 |
 | [Falling](https://open.spotify.com/track/5ubkegvlxFY0q6vtGUwlMI) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Falling/Unleash](https://open.spotify.com/album/3sUz5UDkvIdDfc75pzf0Kz) | 2:09 | 2024-10-18 | 2025-05-17 |
 | [Falling Again](https://open.spotify.com/track/6d6v4qRPqlf3C6yTWLPOCj) | [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf), [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl) | [Before the Sun Comes Down](https://open.spotify.com/album/0rLkSDDGpI42RBMc7QaP1I) | 2:40 | 2024-01-26 | 2024-02-09 |
+| [Falling In Love](https://open.spotify.com/track/4einxxnYgyAqINv83N6OJf) | [Good Nation](https://open.spotify.com/artist/0PhzQyacoc63MStTa2Yik1), [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Falling In Love](https://open.spotify.com/album/5PfyP5wekXVjrqkvhKaqF1) | 3:10 | 2025-05-26 |  |
 | [FAMILY](https://open.spotify.com/track/65aQ76660Dd6rn40UwQVgM) | [Priesst](https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP) | [KURIMA](https://open.spotify.com/album/5maRefSgf0qSSkTMB4lmTR) | 2:33 | 2025-01-31 | 2025-04-08 |
 | [Fan](https://open.spotify.com/track/5IDvV5y6vl4Xcj6p4gAMfV) | [Blaq Jerzee](https://open.spotify.com/artist/4on7a4BKixLl1rSlEcaY8Y), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Lost Files](https://open.spotify.com/album/3TMfWqrSPfKFXUgGJyL09Z) | 3:09 | 2023-03-11 | 2023-03-18 |
 | [Far Away](https://open.spotify.com/track/6ytwuDs4xBbt0TllrIZi4C) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Far Away](https://open.spotify.com/album/57oEI8ZsS1oPc6bYwgfNiT) | 2:19 | 2023-03-30 | 2023-06-07 |
@@ -415,7 +416,7 @@
 | [Lost Time](https://open.spotify.com/track/0XGuj5C0hLW8UGwjFbWzrL) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Lost Time](https://open.spotify.com/album/5wLzXVlWQ80chM0kiIYR2X) | 2:52 | 2024-05-03 | 2024-08-02 |
 | [Loud](https://open.spotify.com/track/5JHZt404UXlozqWc1opVkt) | [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Kkeda](https://open.spotify.com/artist/0seIm2Vmyh7V7oqRX2uZtC) | [Wondergirl](https://open.spotify.com/album/5gX8CJicdyXFqlUtYTNqF6) | 2:27 | 2021-10-14 | 2022-07-29 |
 | [Love & Romance](https://open.spotify.com/track/2USyKcOX5LnK7gOMVwOBWT) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Love & Romance](https://open.spotify.com/album/4CzwxBapoqBCrfVT6ew7Q1) | 2:13 | 2024-07-26 | 2024-11-02 |
-| [Love & Romance II](https://open.spotify.com/track/4VcP2qNfYjYibIHxMbYyV3) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Love & Romance II](https://open.spotify.com/album/4E3DVlQMhfUxWAwLRW7NyQ) | 3:15 | 2024-11-15 |  |
+| [Love & Romance II](https://open.spotify.com/track/4VcP2qNfYjYibIHxMbYyV3) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Love & Romance II](https://open.spotify.com/album/4E3DVlQMhfUxWAwLRW7NyQ) | 3:15 | 2024-11-15 | 2025-05-29 |
 | [Love and Trust](https://open.spotify.com/track/2Vt3LIt6PTK8f0LeKt0DnQ) | [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Love & Trust](https://open.spotify.com/album/1R0lN0IUKzFO6eLUlzDFSJ) | 2:45 | 2023-06-09 | 2024-01-26 |
 | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT) | 2:27 | 2022-02-10 | 2023-10-20 |
 | [Love Garden](https://open.spotify.com/track/2Q0XIOSmJ8DAONrIimShb6) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Love Garden](https://open.spotify.com/album/6fT729N2aJQUsIJvY2L0N3) | 2:30 | 2024-05-10 | 2024-10-05 |

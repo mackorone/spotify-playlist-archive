@@ -1,12 +1,12 @@
 {
   "description": "This is Saweetie. The essential tracks, all in one playlist.",
-  "num_followers": 41401,
+  "num_followers": 41411,
   "original_name": "This Is Saweetie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDOvAAAAAABobSHO1q7gHD1WyaoMTvYF",
+  "snapshot_id": "aDUAgAAAAADlhrxVBfUqnRm3sLYEaHbE",
   "tracks": [
     {
       "added_at": null,
@@ -111,22 +111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "High Maintenance",
-        "url": "https://open.spotify.com/album/4Sz0PugCLKo0CEA7zgPplW"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 109302,
-      "name": "ICY GRL",
-      "url": "https://open.spotify.com/track/1sl1cpix9GnwNwaVt04BIu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "That Girl (feat. Saweetie)",
         "url": "https://open.spotify.com/album/109kFKSHQurf4h5JZWgCLk"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 147386,
       "name": "That Girl (feat. Saweetie)",
       "url": "https://open.spotify.com/track/0gYIDOQkA4DZQw3wboBiuP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "High Maintenance",
+        "url": "https://open.spotify.com/album/4Sz0PugCLKo0CEA7zgPplW"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 109302,
+      "name": "ICY GRL",
+      "url": "https://open.spotify.com/track/1sl1cpix9GnwNwaVt04BIu"
     },
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Best",
-        "url": "https://open.spotify.com/album/6Jntu9qLC1fkwjDFm9hWMK"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 121053,
-      "name": "My Best",
-      "url": "https://open.spotify.com/track/3qAMlVUvNZVpxA85pFPxOT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fast (Motion)",
         "url": "https://open.spotify.com/album/5vIJnjshQfOPk710tNy9HB"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 154400,
       "name": "Immaculate",
       "url": "https://open.spotify.com/track/21XJd63KiArnOgo39sJezL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Best",
+        "url": "https://open.spotify.com/album/6Jntu9qLC1fkwjDFm9hWMK"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 121053,
+      "name": "My Best",
+      "url": "https://open.spotify.com/track/3qAMlVUvNZVpxA85pFPxOT"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "High Maintenance",
-        "url": "https://open.spotify.com/album/4Sz0PugCLKo0CEA7zgPplW"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 49242,
-      "name": "High Maintenance",
-      "url": "https://open.spotify.com/track/3pxHcgYG8aKkclfWXBFSWv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pretty Bitch Freestyle",
         "url": "https://open.spotify.com/album/4AFMc41peNA5Pf2JbXEpdK"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 129379,
       "name": "Pretty Bitch Freestyle",
       "url": "https://open.spotify.com/track/7Hhtz9zeiTz03DSIcXjV4V"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "High Maintenance",
+        "url": "https://open.spotify.com/album/4Sz0PugCLKo0CEA7zgPplW"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 49242,
+      "name": "High Maintenance",
+      "url": "https://open.spotify.com/track/3pxHcgYG8aKkclfWXBFSWv"
     },
     {
       "added_at": null,
@@ -825,7 +825,7 @@
         }
       ],
       "duration_ms": 169944,
-      "name": "Addiction (feat. Lil Wayne & Saweetie)",
+      "name": "Addiction - feat. Lil Wayne & Saweetie",
       "url": "https://open.spotify.com/track/62TseHr3oK08tbDG5LgdUv"
     },
     {
@@ -871,6 +871,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Certified Pop",
+        "url": "https://open.spotify.com/album/2TzLHxrnjTNkOA53atXq8t"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 238940,
+      "name": "IDGAF (feat. Saweetie)",
+      "url": "https://open.spotify.com/track/0SJfn1uM23DejjkqqM3Xs6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pretty Girls Cry Too (feat. Lay Bankz, Saweetie & Flo Milli)",
         "url": "https://open.spotify.com/album/4EPslQriJfV1wLD1NS49IU"
       },
@@ -895,26 +915,6 @@
       "duration_ms": 182400,
       "name": "Pretty Girls Cry Too (feat. Lay Bankz, Saweetie & Flo Milli)",
       "url": "https://open.spotify.com/track/1xIUzmnbBGks5bWZjngTIH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Certified Pop",
-        "url": "https://open.spotify.com/album/2TzLHxrnjTNkOA53atXq8t"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 238940,
-      "name": "IDGAF (feat. Saweetie)",
-      "url": "https://open.spotify.com/track/0SJfn1uM23DejjkqqM3Xs6"
     },
     {
       "added_at": null,

@@ -2,9 +2,9 @@
 
 ### [Hot Hits Switzerland](https://open.spotify.com/playlist/37i9dQZF1DX0MD19TXm0aV)
 
-> Switzerland's biggest hits right now\. Cover: JJ
+> Switzerland's biggest hits right now\. Cover: Mariana Froes
 
-231 songs - 11 hr 34 min
+232 songs - 11 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [BATTITO](https://open.spotify.com/track/6bfy5e5jWNcNSFAJzsMPED) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i) | [BATTITO](https://open.spotify.com/album/2XMeGxa3WRs1qIjrSOAJDw) | 3:14 | 2025-02-18 | 2025-03-13 |
 | [Bauch Beine Po](https://open.spotify.com/track/64f3yNXsi2Vk76odcHCOnw) | [Shirin David](https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa) | [Bauch Beine Po](https://open.spotify.com/album/3iw71cw9PHemEFZ9HZewWW) | 2:13 | 2024-08-02 | 2024-10-31 |
 | [Beanie](https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Beanie](https://open.spotify.com/album/3sgTZuoyovg4bR5iTgQoo3) | 2:12 | 2024-12-05 | 2025-02-26 |
-| [Beautiful People](https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Beautiful People](https://open.spotify.com/album/41GrpCcoPSawyIVDbLRdLW) | 3:07 | 2025-03-12 | 2025-05-08 |
+| [Beautiful People](https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Beautiful People](https://open.spotify.com/album/41GrpCcoPSawyIVDbLRdLW) | 3:07 | 2025-03-12 |  |
 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 | 2024-07-02 | 2024-07-27 |
 | [Belong Together](https://open.spotify.com/track/4JGtRHnWyaNq7FIOZoBdPe) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Belong Together](https://open.spotify.com/album/1RaDxuGnsIuuGR3lHukOPI) | 2:28 | 2024-07-02 | 2025-02-05 |
 | [Big Dawgs](https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Kalmi](https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45) | [Big Dawgs](https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD) | 3:10 | 2024-08-07 | 2024-11-06 |
@@ -181,9 +181,10 @@
 | [SABÍA QUE NO](https://open.spotify.com/track/61lNxSCj38lvmZjJZuhXSt) | [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [SABÍA QUE NO](https://open.spotify.com/album/4WszholwoxRZHWYkRgsXKs) | 3:02 | 2025-01-14 | 2025-05-22 |
 | [Sailor Song](https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit) | 3:31 | 2024-09-13 |  |
 | [Santa](https://open.spotify.com/track/5bi0gh89wRuH2OgjdAKFsb) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Santa](https://open.spotify.com/album/0SqUi6bPIlAaWfvZibBfia) | 3:13 | 2024-07-02 | 2024-07-20 |
-| [Schmerz](https://open.spotify.com/track/4SXUbnaYt80pFpAebHVR5Q) | [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp) | [Schmerz](https://open.spotify.com/album/6DXSVluSMQF8aj8zQnoiVZ) | 2:43 | 2025-04-29 |  |
+| [Schmerz](https://open.spotify.com/track/4SXUbnaYt80pFpAebHVR5Q) | [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp) | [Schmerz](https://open.spotify.com/album/6DXSVluSMQF8aj8zQnoiVZ) | 2:43 | 2025-04-29 | 2025-05-29 |
 | [SESSO E SAMBA \(feat\. Gaia\)](https://open.spotify.com/track/2Q4Z2js0C6DDUVc7GuLGdF) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Gaia](https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1) | [ICON](https://open.spotify.com/album/7wd0zT4UYy8sJwPt9lMqyJ) | 2:47 | 2024-07-02 | 2024-12-18 |
 | [Shabab\(e\)s im VIP](https://open.spotify.com/track/1JjHQ4lfAjbDq7wmOmH9wM) | [Pashanim](https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg), [Ceren](https://open.spotify.com/artist/6sgeY4vovk7KfxVwiu2V9E) | [grünewürfelflow](https://open.spotify.com/album/4abdDHSZaiXkvPBlFD5cnv) | 1:55 | 2025-05-07 |  |
+| [Shake It To The Max \(FLY\) \- Remix](https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Shake It To The Max \(FLY\) \(Remix\)](https://open.spotify.com/album/7jhHpyhKorvt65mYvuhlBs) | 2:58 | 2025-05-28 |  |
 | [Show Me Love](https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Show Me Love](https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6) | 2:56 | 2025-02-18 |  |
 | [Si Ai](https://open.spotify.com/track/27jIKs9ZEe4m19j3lx4E2b) | [Tayna](https://open.spotify.com/artist/5Cj0xJrG2k8TPOJQ1vdAmZ) | [Si Ai](https://open.spotify.com/album/7JRTgBc4mvX7CfkfDhaLMK) | 2:46 | 2024-07-11 | 2024-10-23 |
 | [Si Antes Te Hubiera Conocido](https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Si Antes Te Hubiera Conocido](https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS) | 3:15 | 2024-07-02 |  |
@@ -228,7 +229,7 @@
 | [Wasted Love](https://open.spotify.com/track/321yySUTzRXUbzkRTeTzDB) | [JJ](https://open.spotify.com/artist/4W9cXg9c6w38cHSUfUWPcP) | [Wasted Love](https://open.spotify.com/album/22GDpNfVvE2WYGTQMXeTJx) | 2:44 | 2025-05-21 |  |
 | [WE PRAY \- Single Version](https://open.spotify.com/track/2sKHevALE8DKDkwEo04Pbh) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [WE PRAY](https://open.spotify.com/album/3dZE98f3OlxeQlm9qWYekK) | 3:53 | 2024-08-27 | 2024-12-31 |
 | [Wenn der Himmel weint](https://open.spotify.com/track/6yT1Qf1EKbUfiROeOWtzeN) | [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV), [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Wenn der Himmel weint](https://open.spotify.com/album/32JXAbcmBvvZRJSCSsKQwJ) | 2:08 | 2025-02-25 | 2025-03-19 |
-| [What Was That](https://open.spotify.com/track/2jNyiavSywmA472t2m6ZBz) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [What Was That](https://open.spotify.com/album/4lvgj3m6vTtpRYdVNEqu2o) | 3:29 | 2025-04-29 |  |
+| [What Was That](https://open.spotify.com/track/2jNyiavSywmA472t2m6ZBz) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [What Was That](https://open.spotify.com/album/4lvgj3m6vTtpRYdVNEqu2o) | 3:29 | 2025-04-29 | 2025-05-29 |
 | [Why Why Why](https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn](https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE) | 2:49 | 2024-08-13 | 2024-09-14 |
 | [wie du manchmal fehlst](https://open.spotify.com/track/2gOVXniOMdunVdYk2NUQ4p) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0), [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Dauner](https://open.spotify.com/artist/2E5bmPbkiGhZ3ZK798zFIb) | [wie du manchmal fehlst](https://open.spotify.com/album/7c6bG1FchpuEbkTl8iJ4As) | 2:11 | 2024-07-02 | 2024-07-10 |
 | [Wie?](https://open.spotify.com/track/36w8f4Cl7JqTbFDamAdq8Q) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) | [Wie?](https://open.spotify.com/album/3WjhvJaQYvDdud4lPBtrlH) | 2:53 | 2025-02-25 | 2025-05-16 |

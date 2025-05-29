@@ -4,7 +4,7 @@
 
 > 아 나도 모르겠다\~ idk idk idkkk\~
 
-87 songs - 4 hr 37 min
+90 songs - 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Daydrinking](https://open.spotify.com/track/2Zw8rlCM3tEWGl2ZlSpTeJ) | [DINDIN](https://open.spotify.com/artist/63cvWayCvPbWYNDi537w0z) | [Daydrinking](https://open.spotify.com/album/1LzTssDA9JdPiqUgO21lDV) | 3:13 | 2025-04-23 |  |
 | [dear heart](https://open.spotify.com/track/1l8m2AYyklcReKPLQcGH9d) | [Kim Hyunchang](https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB) | [Demo songs](https://open.spotify.com/album/6MnPLoqYKHzJuzoh2CIxxi) | 4:06 | 2023-11-09 |  |
 | [Do](https://open.spotify.com/track/6tStqbjbMdMRzRWWNvlnqI) | [Chang Kiha](https://open.spotify.com/artist/2kppzekGp379T3M56GYd7d) | [Do / Do or Don't](https://open.spotify.com/album/3se0GBdgs53DJXR7CJb9l6) | 3:41 | 2023-11-09 | 2025-05-15 |
+| [Don't](https://open.spotify.com/track/6mrkGFFpfmfaQtuXnH9jGx) | [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS) | [Something Feelings](https://open.spotify.com/album/0EaQUB1OjML1b3Ufj7hU2k) | 3:07 | 2025-05-28 |  |
 | [Don't do anything](https://open.spotify.com/track/0AVuw4TYNnfVlu7ajvOSrN) | [saram tto saram](https://open.spotify.com/artist/4khhm4gbowkhdIbNWxWXgT) | [Don't do anything](https://open.spotify.com/album/1jQH4eSSrMN7bQgBpY0xIv) | 2:36 | 2023-11-09 |  |
 | [Drink it, Girls!](https://open.spotify.com/track/1iJX2WMpUpYsuxkKLPhVH8) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [Work Later Drink Now S2, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/0eYBfC57JfL2mZgcBTEZnh) | 2:56 | 2023-11-09 |  |
 | [Drive mE cRaZy](https://open.spotify.com/track/1dWCQTQeAHZQhAKUVsWOg6) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Drive mE cRaZy](https://open.spotify.com/album/2vckNenVlFyIZDN3UTQYZA) | 2:51 | 2024-03-08 |  |
@@ -42,6 +43,7 @@
 | [Gulping laziness](https://open.spotify.com/track/03Z63iglmQEP6XtIJ9DmNI) | [weather](https://open.spotify.com/artist/4F26Ae7GmQK9iqv4M7vJsr) | [Gulping laziness](https://open.spotify.com/album/7oHqgsdNXSol1p0H8jnCwj) | 1:53 | 2025-05-22 |  |
 | [Holiday](https://open.spotify.com/track/6EK23kYj5odyKUxLSXK3JS) | [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg) | [Holiday](https://open.spotify.com/album/3WXTRGYDn5wZ7viTikD0KD) | 3:58 | 2023-11-09 |  |
 | [Honbob Song](https://open.spotify.com/track/7cgrqYqcpuVvkRUxoj1Dgw) | [JeongEun Seo](https://open.spotify.com/artist/5J8WUPow9twuYcVjpTCyPW) | [Honbob Song](https://open.spotify.com/album/5iszn5kAurpExmM5Ar8IgQ) | 2:50 | 2023-11-09 |  |
+| [Humdrum](https://open.spotify.com/track/6lm3YcWi2ELilyurp2cVie) | [Mustang Sally](https://open.spotify.com/artist/2I1EYHv6x6U7cjlqJ5QTC2) | [Sally’s Restaurant](https://open.spotify.com/album/3hcYWlow1oVOZNkl1TCVI8) | 4:32 | 2025-05-28 |  |
 | [I LUV IT](https://open.spotify.com/track/0sEWGO1ajAmgln6B4lkuKb) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) | [PSY 8th 4X2=8](https://open.spotify.com/album/5AtBwO35tOSWvxS4nFWHAi) | 3:08 | 2023-11-09 | 2025-04-09 |
 | [i'm a machine](https://open.spotify.com/track/2aK5mnbEy79vILutso18YA) | [Deng.E](https://open.spotify.com/artist/4ockKZwqrNI9wO6LWtulK3) | [life like a machine, day like a shrimp, and daily life like a bus.](https://open.spotify.com/album/0BgdfoBbiczsx6hZf50sZ5) | 4:20 | 2023-11-09 |  |
 | [I'm not a hero](https://open.spotify.com/track/6obtEFIrdBl7W2keVl6oXv) | [IMSEMO](https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV) | [Take care](https://open.spotify.com/album/0Sn3xiwF8oyjTvZsvR1ekM) | 2:58 | 2023-11-09 | 2024-04-19 |
@@ -50,6 +52,7 @@
 | [It Doesn't Matter](https://open.spotify.com/track/2yujjkBN8aw0eJTBQTLD2P) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [It Doesn't Matter](https://open.spotify.com/album/5EvNDonhQsBFfZQCgAzU0d) | 3:34 | 2023-11-09 |  |
 | [It is what it is...](https://open.spotify.com/track/3H2RJlhKLW5vWY37zJ5MF2) | [YdBB](https://open.spotify.com/artist/2UjX6FLGyUQb4sbookjR3y), [Charming Jo](https://open.spotify.com/artist/2WD3kpF4RQRNucwkuHhKZo) | [It is what it is...](https://open.spotify.com/album/5BcEPVheofscMIjxJ5ZKMO) | 2:18 | 2024-09-18 |  |
 | [i’m so tired.\. \(Feat\. THAMA\)](https://open.spotify.com/track/71lXdK0I8qxaeFxsFSDiwc) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV), [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [1,2,3..](https://open.spotify.com/album/2uQEtB8QzLCZARbYmnnaUf) | 3:05 | 2025-04-16 |  |
+| [Lazy Me](https://open.spotify.com/track/5BjgnMwv77gljbjptknmU1) | [Sandeul](https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx) | [Lazy Me](https://open.spotify.com/album/4WgImc0yuAYUPbObX4xjjs) | 3:07 | 2025-05-28 |  |
 | [let me go home](https://open.spotify.com/track/7zPB6iYhUSKiIJxAAUTlyo) | [Pre'Melo](https://open.spotify.com/artist/59jyRPrPkL8QIR0wfaJMWl) | [let me go home](https://open.spotify.com/album/2Mm6tTaPrNhdmadp0qTUEm) | 2:48 | 2025-04-23 |  |
 | [Like I'm saying](https://open.spotify.com/track/4irP8FbtdvsSdbMpUyDEWp) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [BLEACHED](https://open.spotify.com/album/1xREcRvJFgP1rJMfRvh2aI) | 3:28 | 2024-04-17 | 2025-05-08 |
 | [Like I′m saying](https://open.spotify.com/track/3dBzRsKScRugEdrHi8fKQ0) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [BLEACHED](https://open.spotify.com/album/1YuWWMWO87WPJInhLGy9yh) | 3:28 | 2023-11-09 | 2024-04-19 |

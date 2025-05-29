@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > 2d e aju são o corre, olha a postura 🤌🏾
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,237 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,278 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 34 | [Mate Ou Morra](https://open.spotify.com/track/1uvmo7t9n8bUG4teYI4Wjy) | [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw), [otrashy](https://open.spotify.com/artist/7z0MVnhMYi2JMaFlmkIICD), [UM ENT](https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT) | [Mate Ou Morra](https://open.spotify.com/album/344humbhc6gfKZdZLqCRdY) | 2:17 |
 | 35 | [Verdinha Criminosa](https://open.spotify.com/track/6WHReC5GArql7M1MC92DY4) | [MC KTRINE](https://open.spotify.com/artist/5OYUyB5akCjyfKq9TDn283), [Hugão](https://open.spotify.com/artist/4wFNtMpRn2TEzEXZG60iXY), [EHXIS](https://open.spotify.com/artist/3QDb2HGMBIMqmkhF5iJ2Q4) | [Verdinha Criminosa](https://open.spotify.com/album/2EedIUumt8ALF4Hr26SunX) | 2:39 |
 | 36 | [Kylie Kenner](https://open.spotify.com/track/7jfzviafhHFK7a3rKRhT22) | [Btrem](https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Mahai](https://open.spotify.com/artist/2wRHyStBiMxi4bYc8nHdPy) | [Kylie Kenner](https://open.spotify.com/album/000FnEhyZ7C6noRngF6r1W) | 2:19 |
-| 37 | [APEDIDO](https://open.spotify.com/track/4D8ffdNH8VWbWS0p2khjeb) | [SHURY](https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [APEDIDO](https://open.spotify.com/album/47Gec07H7tU8NkKGO3GFGI) | 1:59 |
-| 38 | [Minha Competição](https://open.spotify.com/track/4GIU6Qg6uQdy6XmBy70YJK) | [AF!RMA](https://open.spotify.com/artist/5ezbyJgINANhxowRLAUoXS), [NandaTsunami](https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY) | [Minha Competição](https://open.spotify.com/album/5TyhogzIXyEWwxPyVzbQ3q) | 2:10 |
+| 37 | [Minha Competição](https://open.spotify.com/track/4GIU6Qg6uQdy6XmBy70YJK) | [AF!RMA](https://open.spotify.com/artist/5ezbyJgINANhxowRLAUoXS), [NandaTsunami](https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY) | [Minha Competição](https://open.spotify.com/album/5TyhogzIXyEWwxPyVzbQ3q) | 2:10 |
+| 38 | [APEDIDO](https://open.spotify.com/track/4D8ffdNH8VWbWS0p2khjeb) | [SHURY](https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [APEDIDO](https://open.spotify.com/album/47Gec07H7tU8NkKGO3GFGI) | 1:59 |
 | 39 | [Mais Uma Vadia](https://open.spotify.com/track/54z9A5QU3cxsEZLMqNhXQW) | [Baby Kysha](https://open.spotify.com/artist/27h8nOl2zDSbrtvmIiyvqK), [Cashley](https://open.spotify.com/artist/2Qwqi6HFAxi1QZSS0fQrPC), [DJ Wkilla](https://open.spotify.com/artist/5nHUlAMjYkOtzSvqwzcdUW) | [Mais Uma Vadia](https://open.spotify.com/album/1k4hdTrjul21G5KQnNzi41) | 2:52 |
 | 40 | [DESCONFORTO](https://open.spotify.com/track/0zpFEPoAYy6AhWCMdTvgxO) | [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe) | [DESCONFORTO](https://open.spotify.com/album/61aImIc7x4qJMqkcOVFITq) | 3:38 |
 | 41 | [Nuvem de Testemunhas \- Spotify Singles](https://open.spotify.com/track/3NBfOhDKrioHcQLuCSVXzk) | [Mericia](https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS) | [Nuvem de Testemunhas \- Spotify Singles](https://open.spotify.com/album/1ossP5lDYR9ssNYpPJ8r64) | 1:33 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1wwcap53LA.md) - [plain]
 
 > Country music making waves\. Cover: Sacha
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,116 likes - 109 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,127 likes - 109 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1wwcap53LA.md) - [plain]
 | 83 | [Goner](https://open.spotify.com/track/5aoAYO5gJL9VnCxWU3q0EU) | [Skyelor Anderson](https://open.spotify.com/artist/5bclkN4UM70TfIa6NGMGcr) | [Bonfire](https://open.spotify.com/album/2DuONDxO2ITx5MNJbjPnr5) | 3:00 |
 | 84 | [Beer Up](https://open.spotify.com/track/6oWSA5EQdY20ZfZCyvjMki) | [Neon Union](https://open.spotify.com/artist/7L9ainQsqBtaa8JSgh9nub) | [Beer Up](https://open.spotify.com/album/2g75lQNQV0y74O23nk4Jm0) | 3:04 |
 | 85 | [Life's Short Drink Tall](https://open.spotify.com/track/1pQMkHmVOw0vniUlXPvmgo) | [Curt Chambers](https://open.spotify.com/artist/5NfiN9W8v7WMG2m90UpxCJ) | [Life's Short Drink Tall](https://open.spotify.com/album/5UjiPf6KbhvmJTqdxYbv5d) | 3:09 |
-| 86 | [Let It Burn](https://open.spotify.com/track/5OKlj1PEpzA4g0JSljysE9) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Let It Burn](https://open.spotify.com/album/7n4ITaoKpCiI1DxyuOfJNZ) | 3:26 |
+| 86 | [](https://open.spotify.com/track/5OKlj1PEpzA4g0JSljysE9) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Let It Burn](https://open.spotify.com/album/7n4ITaoKpCiI1DxyuOfJNZ) | 0:00 |
 | 87 | [Lil Vibe](https://open.spotify.com/track/1eucIrSBntRnPpTvsaHmwE) | [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM) | [Something To Dance To](https://open.spotify.com/album/2o9aZsNGXbBNJvtdfW0eXt) | 2:54 |
 | 88 | [Old Porch Swing](https://open.spotify.com/track/424tTFNRNvXVbOpmD0V3D8) | [Tony Jackson](https://open.spotify.com/artist/0jNzk1w9xrAevFLpLtJnCR) | [Tony Jackson](https://open.spotify.com/album/5kRHqz0vKYcg1dzPogMRLK) | 3:40 |
 | 89 | [Southern Curls](https://open.spotify.com/track/2PXlqCswcJk7DHm605QFoP) | [Julie Williams](https://open.spotify.com/artist/4sRUZFWl0hDJg6MW9lHKR9) | [Southern Curls](https://open.spotify.com/album/0xea2CsAsnZK4JljMCXcJ5) | 4:38 |
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1wwcap53LA.md) - [plain]
 | 108 | [Magnolia \(Acoustic\)](https://open.spotify.com/track/3x5jkS931VvNRg4tLIqzvL) | [Austin McNeill](https://open.spotify.com/artist/7mYDpUarg1iQgonYRRwpMR) | [Carolina](https://open.spotify.com/album/5PiWlfUUUYB8gMqAEZbrRC) | 2:56 |
 | 109 | [Gonna Be Alright](https://open.spotify.com/track/3Eo9aTE1gnvShpP21Vb7tu) | [Cowboy Troy](https://open.spotify.com/artist/3Rd3kr9QoBdHGjD1Hk0tkj) | [Gonna Be Alright](https://open.spotify.com/album/6jlXxGbWeMOMbSEU9TJ3K9) | 2:56 |
 
-Snapshot ID: `aC/y4gAAAAASfH94gph5T5SNFfuh05kS`
+Snapshot ID: `aC/y4gAAAADOZlxxaW/znqVf2NSfb61p`

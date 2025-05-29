@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Co1jvHSQ9FFXOEY0TdPHQ">Hillary Lindsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 490 likes - 326 songs - 19 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 491 likes - 326 songs - 19 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,8 +108,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 98 | [Take Me Out](https://open.spotify.com/track/4Fdn6pClZqqubxguo8KqxN) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones \(Deluxe Edition\)](https://open.spotify.com/album/7KYgF3DFsc2eCamlB4JMzy) | 4:03 |
 | 99 | [Hate Me](https://open.spotify.com/track/4QNlHIYv4JreNLZM78w3Eo) | [Jillian Jacqueline](https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7) | [Side A](https://open.spotify.com/album/0xgvbBQI2RDnw0q6kVllKH) | 3:50 |
 | 100 | [Plain Jane](https://open.spotify.com/track/1vooH2ubQm33QhksSPLFGY) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [Raised](https://open.spotify.com/album/2fbpiahbZmJqg2KDK9JEVJ) | 3:28 |
-| 101 | [Broken](https://open.spotify.com/track/65VulgoHJGsL7l3eRIXzRC) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Stereotype Broken](https://open.spotify.com/album/0rsIuMdNjcwbnS9kL4DKAf) | 2:57 |
-| 102 | [Hold On Me](https://open.spotify.com/track/498mz1TlZyPbyEEbF0YScP) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ) | 3:36 |
+| 101 | [Hold On Me](https://open.spotify.com/track/498mz1TlZyPbyEEbF0YScP) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ) | 3:36 |
+| 102 | [Broken](https://open.spotify.com/track/65VulgoHJGsL7l3eRIXzRC) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Stereotype Broken](https://open.spotify.com/album/0rsIuMdNjcwbnS9kL4DKAf) | 2:57 |
 | 103 | [Runnin’ Away From Home](https://open.spotify.com/track/3S1ml6NqVkVBjYNB8QgXE7) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Ticket To L.A.](https://open.spotify.com/album/3TJSHb2z7Zo2K8ff8bMSik) | 3:08 |
 | 104 | [Low](https://open.spotify.com/track/72pvSf3nSjqB4Fuph46kJK) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Cry Pretty](https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd) | 3:31 |
 | 105 | [Better Off](https://open.spotify.com/track/2Si7GvIT6drGqNGR4MNEVz) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [Ain't That Kind of Cowboy](https://open.spotify.com/album/1e1kJ1OxfK3lHhqx9XFNE4) | 3:09 |
@@ -132,8 +132,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 122 | [Closing Time In California](https://open.spotify.com/track/7JVGoVpU5oR7vvNJWlvtiM) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Mind Of A Country Boy](https://open.spotify.com/album/0SyEsGffJ9ZqvRkuVrzOlB) | 3:29 |
 | 123 | [Jonesin'](https://open.spotify.com/track/0ebjRWVCjmmYgp4NnHGl8O) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [Summer Forever](https://open.spotify.com/album/3OkqAak6KhIQExElXif7UW) | 3:31 |
 | 124 | [Water Rising](https://open.spotify.com/track/7Bx0HkGCT6WD7fHiHYT1oQ) | [Nashville Cast](https://open.spotify.com/artist/2NvmDZar6FF2CICK1yBS4I), [Hayden Panettiere](https://open.spotify.com/artist/4lujXse2GVoN3RoTG3ZxZC) | [The Music Of Nashville Original Soundtrack Season 5 Volume 3](https://open.spotify.com/album/3BpnYIhKpIdtu9DWcupT0z) | 3:31 |
-| 125 | [Burn](https://open.spotify.com/track/6vYx683y1hTyS8vCujGANA) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 3:10 |
-| 126 | [Velvet Heartbreak](https://open.spotify.com/track/2MvjNZWNBKX7VWkYUxRBTJ) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 3:03 |
+| 125 | [Velvet Heartbreak](https://open.spotify.com/track/2MvjNZWNBKX7VWkYUxRBTJ) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 3:03 |
+| 126 | [Burn](https://open.spotify.com/track/6vYx683y1hTyS8vCujGANA) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 3:10 |
 | 127 | [Women Ain’t Whiskey](https://open.spotify.com/track/3axBDZmJLbGw61413B8XIS) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [The Devil I Know](https://open.spotify.com/album/5geTL4f7rXjvO90j9G4B7S) | 2:46 |
 | 128 | [Broken Umbrella](https://open.spotify.com/track/5y9AGed2pNT9QwN26J1CwS) | [Jojo Mason](https://open.spotify.com/artist/4IXAxCHuarvDtv7K0NS6x6) | [Broken Umbrella](https://open.spotify.com/album/6cP0I03XgX7eE0NGRR6DVV) | 2:43 |
 | 129 | [The Days](https://open.spotify.com/track/3nrwvaP2ntAZVP2v1d6l6P) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [The Dream](https://open.spotify.com/album/0uJHZD1qFZwvO1GyMzDA1G) | 3:14 |
@@ -200,8 +200,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 190 | [How To Break A Heart \(feat\. Lori McKenna & Hillary Lindsey\)](https://open.spotify.com/track/5x8C7QQpU81bS62LtFOeGv) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I), [Lori McKenna](https://open.spotify.com/artist/1hjMVz40rkkOoGSnl3yweD), [Hillary Lindsey](https://open.spotify.com/artist/5mX9Z6qHTTHHFCreShrFIA) | [The Dream: Living The Dream \(Deluxe\)](https://open.spotify.com/album/7eictMoL2O0921qQH3aG8K) | 3:24 |
 | 191 | [Back in the Game](https://open.spotify.com/track/0uoPXey96C6nj5e9wdY5wr) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [27861](https://open.spotify.com/album/6v0nKIJz5dP5iZWGClu2JH) | 3:05 |
 | 192 | [It Ain't Easy](https://open.spotify.com/track/0zpVeUdz3eO7iJiOEdl2Up) | [Steven Tyler](https://open.spotify.com/artist/32zks9ovi0IExzUd1C7W6o) | [We're All Somebody From Somewhere](https://open.spotify.com/album/1GyfGJLtZkD2yfRICZh3j2) | 4:05 |
-| 193 | [The Chapter](https://open.spotify.com/track/1AYKKWCYkY31Ae7nZj7VcG) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Chapter & Verse](https://open.spotify.com/album/4pfspuo0DUzho0hGtZHI9r) | 3:32 |
-| 194 | [She Gets To Drinking](https://open.spotify.com/track/6zLAkT80MxW8ek36okIyQE) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Honkytonk Hollywood](https://open.spotify.com/album/1eDL4Z6TcdCDul9hip9WiS) | 4:15 |
+| 193 | [She Gets To Drinking](https://open.spotify.com/track/6zLAkT80MxW8ek36okIyQE) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Honkytonk Hollywood](https://open.spotify.com/album/1eDL4Z6TcdCDul9hip9WiS) | 4:15 |
+| 194 | [The Chapter](https://open.spotify.com/track/1AYKKWCYkY31Ae7nZj7VcG) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Chapter & Verse](https://open.spotify.com/album/4pfspuo0DUzho0hGtZHI9r) | 3:32 |
 | 195 | [Sweet Louisiana](https://open.spotify.com/track/5pMNVwBmwQ7GfaVKfzuPzo) | [Steven Tyler](https://open.spotify.com/artist/32zks9ovi0IExzUd1C7W6o) | [We're All Somebody From Somewhere](https://open.spotify.com/album/1GyfGJLtZkD2yfRICZh3j2) | 3:02 |
 | 196 | [Wounded](https://open.spotify.com/track/56SFMatA6nKIg2pROl35Fz) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [The Road To Here](https://open.spotify.com/album/54vjTimZqQsDgXYVJFDJqm) | 3:39 |
 | 197 | [Time on My Hands](https://open.spotify.com/track/4rFP0zt2o5K3W6Aq6rbOk8) | [Jon Wolfe](https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp) | [Any Night in Texas](https://open.spotify.com/album/7zfyys4Or3HXPmGggCrDUY) | 2:56 |
@@ -335,4 +335,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 325 | [I'm Gone](https://open.spotify.com/track/3GdOcYTlNMirnl0o0tWLkb) | [Paul Dunn](https://open.spotify.com/artist/7amKjhbrhokyIBk0bYjoFg) | [Out of the Shadows](https://open.spotify.com/album/6OW6DnU2bnqupmngFZtIHu) | 3:59 |
 | 326 | [I Won't Lie](https://open.spotify.com/track/6eDFmuT7OW5TQGERzto20z) | [BFM Hits](https://open.spotify.com/artist/6Xdp9Oz4PJJB9O0yoZmg7r) | [Karaoke: Country Hits 1998, Vol\. 11](https://open.spotify.com/album/0QvHzG6xAWCUjxzuoIuyUb) | 3:20 |
 
-Snapshot ID: `AbykKgAAAABRizYelVMLaTEUk5d3nU+Q`
+Snapshot ID: `Abyp/AAAAACMNxa5l0bpjW6cUsPw3sNB`

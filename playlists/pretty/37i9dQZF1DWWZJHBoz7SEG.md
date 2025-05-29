@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Qué calor teeengo! Es que las canciones de esta semana son puro fuego 🔥🥵 Gabito Ballesteros en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 989,763 likes - 65 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 989,890 likes - 65 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 64 | [Mariposas](https://open.spotify.com/track/6jJgmF2nFyim5pFCwXEsla) | [Alan Wittels](https://open.spotify.com/artist/5JZYv0z6YzsztblsEpst8g) | [RADIO +58](https://open.spotify.com/album/1xB2gtQNaqdPD5gPQOGbHs) | 2:46 |
 | 65 | [SI SALTAS YO SALTO](https://open.spotify.com/track/6Q7DpZhQV7gT0vWQF4haez) | [FAZ](https://open.spotify.com/artist/4xUSrhyHFt2cjzOPqWoJM7) | [SI SALTAS YO SALTO](https://open.spotify.com/album/0Lj7mIDsspYxegJlZ4d3BC) | 2:51 |
 
-Snapshot ID: `aDAO/gAAAABTVnDWMxD3psuAPFhx22Qu`
+Snapshot ID: `AAAAAB4vOh9SDtKfD0+K4QLlSA+D5a8a`

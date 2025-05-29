@@ -1,12 +1,12 @@
 {
   "description": "This is Emicida. The essential tracks, all in one playlist.",
-  "num_followers": 172763,
+  "num_followers": 172765,
   "original_name": "This Is Emicida",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDOvAAAAAADVCVDIndwbwTzv0m9ENkc9",
+  "snapshot_id": "aDUAgAAAAAD32HS66wlE5V883pf5ZpXu",
   "tracks": [
     {
       "added_at": null,
@@ -795,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pra Quem J\u00e1 Mordeu um Cachorro por Comida At\u00e9 Que Eu Cheguei Longe",
+        "url": "https://open.spotify.com/album/3ZA85zeudxFA1NGeb6avXS"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 209373,
+      "name": "Triunfo (A Rua \u00c9 N\u00f3iz)",
+      "url": "https://open.spotify.com/track/3XELYgcY0b9mGsJE28r4Fh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "AmarElo - Ao Vivo",
         "url": "https://open.spotify.com/album/1OEj74ygMvQHFyypp3COpw"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 340080,
       "name": "A Ordem Natural das Coisas / Chiclete com Banana - Ao Vivo",
       "url": "https://open.spotify.com/track/4G3kLyHp4335rXLzaoTmVu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pra Quem J\u00e1 Mordeu um Cachorro por Comida At\u00e9 Que Eu Cheguei Longe",
-        "url": "https://open.spotify.com/album/3ZA85zeudxFA1NGeb6avXS"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 209373,
-      "name": "Triunfo (A Rua \u00c9 N\u00f3iz)",
-      "url": "https://open.spotify.com/track/3XELYgcY0b9mGsJE28r4Fh"
     },
     {
       "added_at": null,
@@ -866,15 +866,11 @@
         {
           "name": "Emicida",
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Mano Brown",
-          "url": "https://open.spotify.com/artist/0fMjaafeNhHPA6mJ5ZglAJ"
         }
       ],
-      "duration_ms": 127053,
-      "name": "Cap\u00edtulo 4, Vers\u00edculo 3 - Live",
-      "url": "https://open.spotify.com/track/0ITzKSRykU81569IrYUhVC"
+      "duration_ms": 211280,
+      "name": "Subirusdoistiozin - Live",
+      "url": "https://open.spotify.com/track/7bLMLwx6gJrCXoppD2YqOu"
     },
     {
       "added_at": null,
@@ -958,11 +954,15 @@
         {
           "name": "Emicida",
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Mano Brown",
+          "url": "https://open.spotify.com/artist/0fMjaafeNhHPA6mJ5ZglAJ"
         }
       ],
-      "duration_ms": 211280,
-      "name": "Subirusdoistiozin - Live",
-      "url": "https://open.spotify.com/track/7bLMLwx6gJrCXoppD2YqOu"
+      "duration_ms": 127053,
+      "name": "Cap\u00edtulo 4, Vers\u00edculo 3 - Live",
+      "url": "https://open.spotify.com/track/0ITzKSRykU81569IrYUhVC"
     },
     {
       "added_at": null,

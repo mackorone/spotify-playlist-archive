@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbND4ZYa46PaA.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belgium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,174 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,176 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbND4ZYa46PaA.md) - [plain]
 | 49 | [maman](https://open.spotify.com/track/1FsIoCTWHx6lB0f3PgYdtz) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [solo](https://open.spotify.com/album/5vgGQQEXOhWB8On731hF6f) | 3:00 |
 | 50 | [Born With a Broken Heart](https://open.spotify.com/track/36r085cj95tQcGaOoPLfc5) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [FUNNY little FEARS](https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa) | 3:28 |
 
-Snapshot ID: `L8ks+AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L8p+eAAAAAAAAAAAAAAAAAAAAAAAAGVu`

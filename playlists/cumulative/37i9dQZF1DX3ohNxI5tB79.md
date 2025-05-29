@@ -4,11 +4,12 @@
 
 > Start your morning right with this collection of funky, soulful, jazzy tunes.
 
-307 songs - 19 hr 43 min
+308 songs - 19 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [12 AM in Bali](https://open.spotify.com/track/5fVDAO6wDRWdC9xGSYxx3Q) | [SMANDEM.](https://open.spotify.com/artist/3pBZ54BloAsAYIkZS15jol), [Elena Pinderhughes](https://open.spotify.com/artist/1djeOKOhlMmpiF6gyGVUcu) | [12 AM in Bali](https://open.spotify.com/album/0CR6gZNeIMt8OBrD7In5AH) | 5:36 | 2021-12-13 | 2022-12-03 |
+| [3454 \(thoughts\)](https://open.spotify.com/track/5XL10wnNyzuWtlrCrX8wXg) | [Brintex Collective](https://open.spotify.com/artist/5jS72nZgNklECz7m1Lj7zR), [Ranie Ribeiro](https://open.spotify.com/artist/6PZ3Yb4Yr2CtDF3463y7hz) | [3454 \(thoughts\)](https://open.spotify.com/album/5qBzkS5HjjLU9RZDvmXLqj) | 7:22 | 2025-05-28 |  |
 | [A Moment](https://open.spotify.com/track/0XTt9kpYyjgYtBfeqOFea6) | [Adja](https://open.spotify.com/artist/6mfAnYseSIw2FCo3YvVz1g) | [A Moment](https://open.spotify.com/album/2ZFQN6NQUWJdr2GbffQUmy) | 3:46 | 2024-12-20 |  |
 | [A Moment](https://open.spotify.com/track/1v6UuMrgMISMcmLGg3IG7m) | [Adja](https://open.spotify.com/artist/6mfAnYseSIw2FCo3YvVz1g) | [Golden Retrieve Her](https://open.spotify.com/album/5gHgxycuCf1hG5sUXRTMxd) | 3:46 | 2025-05-14 |  |
 | [A Place I Don't Know](https://open.spotify.com/track/5jvlfSy4d1B6hBpuanSOKb) | [Benjamin Herman](https://open.spotify.com/artist/1dZtTzcPTFBsbmqNohoKUR), [Anna Serierse](https://open.spotify.com/artist/76fJed0D3EG8B7MN4HCohO) | [True Love's Flame](https://open.spotify.com/album/5CjuwbmkjrsQDeSebUMJVT) | 2:32 | 2024-04-11 | 2025-02-11 |
@@ -138,7 +139,7 @@
 | [Island Letter](https://open.spotify.com/track/2sTqZHdxovxCVa0w6qfDws) | [Shuggie Otis](https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl) | [Inspiration Information/ Wings Of Love](https://open.spotify.com/album/0JittRuqxUKruy1LlfxY4S) | 4:43 | 2024-03-07 | 2024-04-19 |
 | [It's Alright](https://open.spotify.com/track/4xcljUwIz4plmVI0q5dyb9) | [Sven Hammond](https://open.spotify.com/artist/3zSA1rBeAHp5NFDR4Q9lyn) | [It's Alright](https://open.spotify.com/album/2Z0bubZCNHf5RBhAK0sUwb) | 3:56 | 2024-11-14 |  |
 | [Jusqu'ici tout va bien](https://open.spotify.com/track/4Enwbl0M7hXUU9gYf6l928) | [Okvsho](https://open.spotify.com/artist/30b8dNhkUcfPVsDbwyXlC9) | [Jusqu'ici tout va bien](https://open.spotify.com/album/2KoENXX9CeFjHTuwsV7AUT) | 3:26 | 2021-12-13 | 2024-09-21 |
-| [Keep Your Head Up](https://open.spotify.com/track/2kHVK2I4FpaI48ZRAlmNTc) | [Feiertag](https://open.spotify.com/artist/1GLnhRhNDXOofP7IlDxT5q), [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo) | [Keep Your Head Up](https://open.spotify.com/album/71P3ASFixQCXfE4S7XYYFb) | 2:59 | 2024-04-11 |  |
+| [Keep Your Head Up](https://open.spotify.com/track/2kHVK2I4FpaI48ZRAlmNTc) | [Feiertag](https://open.spotify.com/artist/1GLnhRhNDXOofP7IlDxT5q), [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo) | [Keep Your Head Up](https://open.spotify.com/album/71P3ASFixQCXfE4S7XYYFb) | 2:59 | 2024-04-11 | 2025-05-29 |
 | [Kickback](https://open.spotify.com/track/0zgDfVY84eFIzgTvK9KutN) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Friends](https://open.spotify.com/album/1G3k89T6eKqTXU9qbDqmr6) | 2:51 | 2022-10-10 | 2024-02-24 |
 | [Kickback](https://open.spotify.com/track/5MZQIjtghyFc4sMVUzD7MD) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Friends](https://open.spotify.com/album/3yuV4GeplvzBIiYGhQp2nd) | 2:51 | 2021-12-13 | 2022-10-13 |
 | [Lacuna](https://open.spotify.com/track/0apf5s4dsNMkUSwzISx3lz) | [Bnnyhunna](https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD) | [Lacuna](https://open.spotify.com/album/0gA3jwUeZMuOFtwEzQgZdB) | 3:22 | 2025-05-22 |  |

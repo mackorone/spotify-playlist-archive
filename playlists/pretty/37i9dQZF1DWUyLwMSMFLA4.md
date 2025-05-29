@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyLwMSMFLA4.md) - [plain]
 
 > ¡Asadito a pura cumbia con toques de cuarteto!
 
-[Spotify](https://open.spotify.com/user/spotify) - 616,324 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 616,334 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyLwMSMFLA4.md) - [plain]
 | 58 | [Escápate Conmigo](https://open.spotify.com/track/408q39K0rnY815TF5x52tb) | [Nene Malo](https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN), [Magenta](https://open.spotify.com/artist/0uT3lm3wY3LnyP6dtok0q4) | [No Está en la Flecha Sino en el Indio](https://open.spotify.com/album/0c5AlFdcK0Tv073nYxrOBA) | 3:05 |
 | 59 | [A PRUEBA DE BALAS](https://open.spotify.com/track/0T3BndJOoSWYkPXcPLMH9B) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn) | [A PRUEBA DE BALAS](https://open.spotify.com/album/0oaPAjkswlNaZHAfamcO5L) | 2:42 |
 | 60 | [Pideme la Luna](https://open.spotify.com/track/1RJpmuL9ht9JimLCPazhT7) | [Repiola](https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ) | [La 2da del Boxeador](https://open.spotify.com/album/0qhvY5ilIjQJsQMw7Y4T2X) | 2:49 |
-| 61 | [Lo Que Me Duele / Y Que Pasó](https://open.spotify.com/track/7vL8ZEvLOXXW9SiL9ulZRZ) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Lo Que Me Duele / Y Que Pasó](https://open.spotify.com/album/3CtG7vSvFhZqFPryWeuZ0N) | 4:44 |
+| 61 | [Disfruto](https://open.spotify.com/track/1v4ggzkdNysd77L7oJ6GmU) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Disfruto](https://open.spotify.com/album/3QGHVWaXZfHNFsH7NEQvp5) | 2:10 |
 | 62 | [Fuego y Pasion](https://open.spotify.com/track/0SBHkYiZh8ih1RHoOcDtHl) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Cuarteto Característico \(A2000\)](https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3) | 4:21 |
 | 63 | [Su Florcita](https://open.spotify.com/track/558S2P5A4Ku4bnXheLaXeG) | [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Historias](https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm) | 3:44 |
 | 64 | [ADIÓS \(Live Version\)](https://open.spotify.com/track/3jrn71DBQDQsenUUNspQwe) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [ADIÓS \(Live Version\)](https://open.spotify.com/album/4kl31TLRY80ZsAGSAFn282) | 2:44 |

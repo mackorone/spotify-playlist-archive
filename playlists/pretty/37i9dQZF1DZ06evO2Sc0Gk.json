@@ -1,12 +1,12 @@
 {
   "description": "This is Mr Eazi. The essential tracks, all in one playlist.",
-  "num_followers": 20115,
+  "num_followers": 20113,
   "original_name": "This Is Mr Eazi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDOvAAAAAACeOCcOEcCp9ph0a7BSt7X4",
+  "snapshot_id": "aDUAgAAAAAANYB8ioD3pf7HfrwYz4AHV",
   "tracks": [
     {
       "added_at": null,
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Supernova",
-        "url": "https://open.spotify.com/album/0wDPXirmkaRKLWIfYAsnKH"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 109747,
-      "name": "Supernova",
-      "url": "https://open.spotify.com/track/4Vo3oCRHQI8KT7kv9Ayism"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dame Un Break (Remix)",
         "url": "https://open.spotify.com/album/6nLjjJAYSRzGOb3fy2FUcN"
       },
@@ -819,6 +803,26 @@
       "duration_ms": 262219,
       "name": "Dame Un Break - Remix",
       "url": "https://open.spotify.com/track/1GrpcJyJteho5VRPr70mYu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "F\u00e0\u00e0j\u00ed",
+        "url": "https://open.spotify.com/album/6qPmOuoHmx9U4ZBCvMUxHt"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 149741,
+      "name": "F\u00e0\u00e0j\u00ed",
+      "url": "https://open.spotify.com/track/1ObFmDHL5oeVzRf9uIcn09"
     },
     {
       "added_at": null,
@@ -847,22 +851,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "F\u00e0\u00e0j\u00ed",
-        "url": "https://open.spotify.com/album/6qPmOuoHmx9U4ZBCvMUxHt"
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/0wDPXirmkaRKLWIfYAsnKH"
       },
       "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        },
         {
           "name": "Mr Eazi",
           "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         }
       ],
-      "duration_ms": 149741,
-      "name": "F\u00e0\u00e0j\u00ed",
-      "url": "https://open.spotify.com/track/1ObFmDHL5oeVzRf9uIcn09"
+      "duration_ms": 109747,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/4Vo3oCRHQI8KT7kv9Ayism"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Life is Eazi, Vol. 1 - Accra To Lagos",
+        "url": "https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Mugeez",
+          "url": "https://open.spotify.com/artist/2xU6IU13MYie8RcM54Ovt0"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Business",
+      "url": "https://open.spotify.com/track/6Px2Esj5oY27ZvkbkLSA5d"
     },
     {
       "added_at": null,
@@ -887,26 +907,6 @@
       "duration_ms": 195789,
       "name": "Abracadabra",
       "url": "https://open.spotify.com/track/6jwOZjlgsVnE0PvEmusjqZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Life is Eazi, Vol. 1 - Accra To Lagos",
-        "url": "https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Mugeez",
-          "url": "https://open.spotify.com/artist/2xU6IU13MYie8RcM54Ovt0"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Business",
-      "url": "https://open.spotify.com/track/6Px2Esj5oY27ZvkbkLSA5d"
     },
     {
       "added_at": null,
@@ -955,6 +955,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Body",
+        "url": "https://open.spotify.com/album/276Wmuj5vozbr8ud6lGTCv"
+      },
+      "artists": [
+        {
+          "name": "Eugy Official",
+          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/44xkTNfuxSrc7VKAegVI1O"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Take Control",
         "url": "https://open.spotify.com/album/1w7zh77gLaDTosxWxQ2eNT"
       },
@@ -979,26 +999,6 @@
       "duration_ms": 213354,
       "name": "Take Control",
       "url": "https://open.spotify.com/track/24kLQBF5CBJyr0x06lRpiy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Body",
-        "url": "https://open.spotify.com/album/276Wmuj5vozbr8ud6lGTCv"
-      },
-      "artists": [
-        {
-          "name": "Eugy Official",
-          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Body",
-      "url": "https://open.spotify.com/track/44xkTNfuxSrc7VKAegVI1O"
     },
     {
       "added_at": null,

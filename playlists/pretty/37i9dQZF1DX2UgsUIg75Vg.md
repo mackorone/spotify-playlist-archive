@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chill r&b\. Cover: Jack Dine
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,383,429 likes - 175 songs - 9 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,383,277 likes - 175 songs - 9 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 | 174 | [Reason](https://open.spotify.com/track/4QpPk76nOhX3Xe4DebeZYS) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gold](https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz) | 4:00 |
 | 175 | [Love Is](https://open.spotify.com/track/5N1JIOm3fDwEb06XVNb4GD) | [TheARTI$t](https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a) | [ARTchives: The Gallery](https://open.spotify.com/album/7feiQ1G1IwHzUgipvWbGHh) | 2:42 |
 
-Snapshot ID: `aC/8RAAAAAAjEYPkoao7aAnb1jlGBv7Y`
+Snapshot ID: `aC/8RAAAAAAKpDS8C5uwX9QNpXAy/Lwz`

@@ -2,14 +2,15 @@
 
 ### [a rainy night](https://open.spotify.com/playlist/37i9dQZF1DX6TJWXRemQHy)
 
-> you're having a cozy, slow night in listening to the rain dripping on the windows\.  🌧️
+> you're having a quiet, slow night in listening to the rain dripping on the windows\.  🌧️
 
-67 songs - 3 hr 14 min
+69 songs - 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Active Mind](https://open.spotify.com/track/7klOnG0cONo7xYWLzIcbzj) | [Brainy](https://open.spotify.com/artist/2GPLowDuIzf10Ju8mFunge) | [Gamma Waves](https://open.spotify.com/album/2Bw1CUn8uJQUd9C1giqwLV) | 2:18 | 2025-05-20 |  |
 | [Ajna](https://open.spotify.com/track/60wsl84GfiI0vbMXe1oPeJ) | [Hollow Graham](https://open.spotify.com/artist/4yeImZMSwYrOxDHujAsfWz) | [Ajna](https://open.spotify.com/album/0jlaSTdXuHGEx4wfJtjb4J) | 2:27 | 2025-05-20 |  |
+| [Beyond Stillness](https://open.spotify.com/track/55ZNXydy4WrhDzy3yuA5qn) | [Anapanasati](https://open.spotify.com/artist/43WrziN4gBq2HqDXu2sQ9M) | [Beyond Stillness](https://open.spotify.com/album/3pRDKy533R54NSKRIsllzw) | 2:50 | 2025-05-28 |  |
 | [Beyond the Rain](https://open.spotify.com/track/4gTmxVQSm5B5Cgd9mmoPSq) | [AuraLoom](https://open.spotify.com/artist/2ZYVbc2WImD0mJNivdjZPV) | [Beyond the Rain](https://open.spotify.com/album/3HNKfg02sSlfeogCi2GFAa) | 3:03 | 2025-05-20 |  |
 | [Beyond the Trees \- Piano & Rain](https://open.spotify.com/track/6pnGZ8aMMQN5IFl80ZHz85) | [Farelane](https://open.spotify.com/artist/2Mnrle5lTFOHn1WIEbHexO) | [Beyond the Trees](https://open.spotify.com/album/2oGkYUkwKNfHGrwtr0WoEs) | 2:56 | 2025-05-20 |  |
 | [California Rain](https://open.spotify.com/track/1hbbCoJVVvNYK7aPeYZ7Yr) | [Aries Suan](https://open.spotify.com/artist/5mYqynrlNOgK6tXogOCtSW) | [California Rain](https://open.spotify.com/album/4RKAOHlHcEdm2l2zBckCBt) | 2:28 | 2025-05-20 |  |
@@ -23,6 +24,7 @@
 | [Deva](https://open.spotify.com/track/6pLKZpj6VVx5oNRFwBLYG7) | [Hollow Graham](https://open.spotify.com/artist/4yeImZMSwYrOxDHujAsfWz) | [Deva](https://open.spotify.com/album/60CVjQ2RulBtx6Ga5lXhBU) | 2:14 | 2025-05-20 |  |
 | [Directions](https://open.spotify.com/track/0j5pGHcHfaYMgCnKh46B75) | [Ari Einarsson](https://open.spotify.com/artist/4phG0P0DDFhm0ZORDBMaSk) | [Directions](https://open.spotify.com/album/0XPHpeVd1PncGvhfuTfXIo) | 2:28 | 2025-05-20 |  |
 | [Dream Phases](https://open.spotify.com/track/2RasknNLyt1a4LAirlaXUP) | [Soothe My Soul](https://open.spotify.com/artist/7C8p7eBuwDPhRuOFamOJ9T) | [Dream Phases](https://open.spotify.com/album/6BgqOSwerXXi8k83KFZV2h) | 3:06 | 2025-05-20 |  |
+| [Dreamweaver](https://open.spotify.com/track/2SoUkJsCScTQ9GTumON8YS) | [Eclectic Elements](https://open.spotify.com/artist/3xlagJKvA0REqZkIGa2sBr) | [Dreamweaver](https://open.spotify.com/album/2fqq9FrFEhCDJKCBG3oeiX) | 4:17 | 2025-05-28 |  |
 | [Drifteria](https://open.spotify.com/track/6F6KurVkboRJYQ1OjmEPzk) | [Primary Sense](https://open.spotify.com/artist/16CzPXUcmQbZA6Nq8LJuYV) | [Drifteria](https://open.spotify.com/album/1uAjiC6ZbYUEj8SrAg6GRd) | 2:52 | 2025-05-20 |  |
 | [Entering](https://open.spotify.com/track/12adZZBVeeSDKWp54wQVwr) | [Harbours & Oceans](https://open.spotify.com/artist/0k8elyDgYdovh5k0yn9fDX) | [Entering](https://open.spotify.com/album/3mxgspEMYHtoFtOEO6gSJi) | 2:17 | 2025-05-20 |  |
 | [Essence](https://open.spotify.com/track/27H4fVlVuhcPH3buersmYj) | [Chrastigel](https://open.spotify.com/artist/4AxST7mawxtkURrDeHSe7z) | [Essence](https://open.spotify.com/album/7gBkQIvElcd4nDS4MdNgpp) | 3:06 | 2025-05-20 |  |

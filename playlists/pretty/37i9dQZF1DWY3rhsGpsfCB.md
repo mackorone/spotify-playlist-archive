@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3rhsGpsfCB.md) - [plain]
 
 > Smooth soul\-inspired tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,967 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,988 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3rhsGpsfCB.md) - [plain]
 | 57 | [Somebody Like You](https://open.spotify.com/track/0dEnWro42n8g51OVojqFSX) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Somebody Like You](https://open.spotify.com/album/4SOJzMweqeghqe8UzKl4Om) | 2:53 |
 | 58 | [Tears](https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Tears](https://open.spotify.com/album/14jFnlreJb9BsKpaCAWEm0) | 2:30 |
 | 59 | [Soul](https://open.spotify.com/track/0vgwRl8tsq9nVaXWuT8Sws) | [Yarden](https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd) | [Soul](https://open.spotify.com/album/126AOyWGBV3M6m85LhRLSZ) | 2:58 |
-| 60 | [Sunshine](https://open.spotify.com/track/4xlZOKbwM8kHxIjjjOqr4L) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Falling Into Place](https://open.spotify.com/album/6kiNbfqDF1N0OVOc58W2EQ) | 2:24 |
-| 61 | [That's What I Love](https://open.spotify.com/track/6qxPXbJammkI5JkjVctXED) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [That's What I Love](https://open.spotify.com/album/4AO7lU5M0Zj4aWOaZFCj93) | 3:46 |
+| 60 | [That's What I Love](https://open.spotify.com/track/6qxPXbJammkI5JkjVctXED) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [That's What I Love](https://open.spotify.com/album/4AO7lU5M0Zj4aWOaZFCj93) | 3:46 |
+| 61 | [Sunshine](https://open.spotify.com/track/4xlZOKbwM8kHxIjjjOqr4L) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Falling Into Place](https://open.spotify.com/album/6kiNbfqDF1N0OVOc58W2EQ) | 2:24 |
 | 62 | [1:59 \(feat\. Gunna\)](https://open.spotify.com/track/4nncvBrXyuKNg5jfBnJ1dR) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [1:59 \(feat\. Gunna\)](https://open.spotify.com/album/4QTPH0500WkMREPzyNYp9d) | 3:12 |
 | 63 | [High](https://open.spotify.com/track/3bIoJjL2VH2U9nInHQYHgv) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [High / Higher](https://open.spotify.com/album/1UeBb2lT6mMln7aveePUMR) | 2:57 |
 | 64 | [Ouu wee \(brown\)](https://open.spotify.com/track/1AhteYWd9IcNqUXEktUlfi) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Ouu wee \(brown\)](https://open.spotify.com/album/0g8LWq9ClBfOkass2cIeYl) | 2:46 |

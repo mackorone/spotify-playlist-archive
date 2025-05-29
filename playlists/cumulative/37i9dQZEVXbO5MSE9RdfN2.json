@@ -2106,7 +2106,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-29",
       "duration_ms": 175385,
       "name": "Asteromata",
       "url": "https://open.spotify.com/track/5mrxikyMGplgzRgTrkIJo6"
@@ -6468,7 +6468,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-29",
       "duration_ms": 264836,
       "name": "Damocles",
       "url": "https://open.spotify.com/track/3enIFKYJKSVyjXVzmup28I"
@@ -18719,6 +18719,28 @@
     },
     {
       "album": {
+        "name": "My Main",
+        "url": "https://open.spotify.com/album/3QBZR7Km3B91LtvGQ6amck"
+      },
+      "artists": [
+        {
+          "name": "Mila J",
+          "url": "https://open.spotify.com/artist/6cN9XwPMj9bWzJ32GC6V7v"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2025-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212720,
+      "name": "My Main",
+      "url": "https://open.spotify.com/track/5embh0i7ZHHn3BXhjoeihX"
+    },
+    {
+      "album": {
         "name": "C4STL3",
         "url": "https://open.spotify.com/album/4TQ0GUgul2iN9nFqweWw3h"
       },
@@ -24652,6 +24674,28 @@
       "duration_ms": 207794,
       "name": "Somethin\u2019 \u2018Bout A Woman (feat. Teddy Swims)",
       "url": "https://open.spotify.com/track/1dHUB7GIbSk3MdL6a6KGvc"
+    },
+    {
+      "album": {
+        "name": "Let's Get It: Thug Motivation 101",
+        "url": "https://open.spotify.com/album/6hiOeC9YErltT6CnK4pfJN"
+      },
+      "artists": [
+        {
+          "name": "Jeezy",
+          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2025-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280013,
+      "name": "Soul Survivor",
+      "url": "https://open.spotify.com/track/0Ss50OU9tCozI7JIywkv14"
     },
     {
       "album": {

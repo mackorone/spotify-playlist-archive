@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 
 > Back to the golden age of the scene\. Cover: Underoath
 
-[Spotify](https://open.spotify.com/user/spotify) - 511,330 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 511,416 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 | 63 | [Ride The Wings Of Pestilence](https://open.spotify.com/track/5TljqB3tKMmYMRXUc95mjt) | [From First To Last](https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN) | [Dear Diary, My Teen Angst Has A Body Count](https://open.spotify.com/album/0Q6C8p6g47jEOU6G7SoRrS) | 4:27 |
 | 64 | [Changing](https://open.spotify.com/track/4C3osHVXn7trOxSBc8AuhX) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [In Search of Solid Ground](https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn) | 3:46 |
 | 65 | [I'm Not A Thief, I'm A Treasure Hunter](https://open.spotify.com/track/146UE7we0gOcTQ118xmR0A) | [A Skylit Drive](https://open.spotify.com/artist/2HSp2S2KwxKE7sASl6bMR9) | [Wires...And The Concept Of Breathing](https://open.spotify.com/album/6W5ldjWLvCJKpCmR9l3MQd) | 3:18 |
-| 66 | [Take Me Back](https://open.spotify.com/track/4Y9SvDoZpyuaulD7XAfcUH) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [In the Wake of Determination](https://open.spotify.com/album/5IOgRGEVVKdFVuqL88I7sy) | 4:07 |
-| 67 | [New Medicines](https://open.spotify.com/track/2UMuVwCwPUdTmAYYgd88Fg) | [Dead Poetic](https://open.spotify.com/artist/14NIQxiBiZtbmZMXUwS6KD) | [New Medicines](https://open.spotify.com/album/3D4LoGIjzALWhaYBp4brMh) | 4:02 |
+| 66 | [New Medicines](https://open.spotify.com/track/2UMuVwCwPUdTmAYYgd88Fg) | [Dead Poetic](https://open.spotify.com/artist/14NIQxiBiZtbmZMXUwS6KD) | [New Medicines](https://open.spotify.com/album/3D4LoGIjzALWhaYBp4brMh) | 4:02 |
+| 67 | [Take Me Back](https://open.spotify.com/track/4Y9SvDoZpyuaulD7XAfcUH) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [In the Wake of Determination](https://open.spotify.com/album/5IOgRGEVVKdFVuqL88I7sy) | 4:07 |
 | 68 | [Rookie of the Year](https://open.spotify.com/track/05IWxcvFY5t7fUVJQdK9GA) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Casually Dressed And Deep In Conversation](https://open.spotify.com/album/5RoKtuFghXVMHrtOf0CBKN) | 3:00 |
 | 69 | [Die Romantic](https://open.spotify.com/track/6X6hTTh32bJM24wYY26MTc) | [Aiden](https://open.spotify.com/artist/1FNjzdmDeHeZjU5qUJlQ1G) | [Nightmare Anatomy](https://open.spotify.com/album/2K3Ga1V2OzVtBLemgMDcIB) | 3:40 |
 | 70 | [The New Black](https://open.spotify.com/track/22EXrfNV0f9ZcWMpK2lF67) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [Gutter Phenomenon](https://open.spotify.com/album/6bL6rFAbAPxrmvuRZx9tfz) | 2:52 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 | 82 | [In the Belly of a Shark](https://open.spotify.com/track/0khj70h8pejNRukEhOn86O) | [Gallows](https://open.spotify.com/artist/0LpwbxbT8dPiqUnul4ngzu) | [Orchestra Of Wolves \(new version\)](https://open.spotify.com/album/6iKEpmbrs3YpXiEo68HHnx) | 2:41 |
 | 83 | [Mu Empire](https://open.spotify.com/track/3yUebDgogzV36flxuyMoV0) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Worship And Tribute \(U.S\. Version\)](https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT) | 3:44 |
 | 84 | [Dream to Make Believe](https://open.spotify.com/track/33kiSXAy1GBwqOh4O7v9Lv) | [Armor For Sleep](https://open.spotify.com/artist/7eSbps3Uha3MMBNWhMYa2H) | [Dream to Make Believe](https://open.spotify.com/album/2BpTMalKI3yhZ2tVATUPXk) | 3:01 |
-| 85 | [House of Cards](https://open.spotify.com/track/4orQFDcvhvyaPx8PPf35iI) | [Madina Lake](https://open.spotify.com/artist/43QrUqvhiL71U9A9gJtAfA) | [From Them, Through Us, To You](https://open.spotify.com/album/1Uw8vdLEIUxvQLYTd0Dk1f) | 3:36 |
-| 86 | [The Party Song](https://open.spotify.com/track/4IYJ0fEY4zoetmq1jVyiud) | [Emery](https://open.spotify.com/artist/4feAxLUxIU7G4KXhH0h2ni) | [I'm Only A Man](https://open.spotify.com/album/15Ws2c78QkSmzZ9HNr5PCq) | 3:31 |
+| 85 | [The Party Song](https://open.spotify.com/track/4IYJ0fEY4zoetmq1jVyiud) | [Emery](https://open.spotify.com/artist/4feAxLUxIU7G4KXhH0h2ni) | [I'm Only A Man](https://open.spotify.com/album/15Ws2c78QkSmzZ9HNr5PCq) | 3:31 |
+| 86 | [House of Cards](https://open.spotify.com/track/4orQFDcvhvyaPx8PPf35iI) | [Madina Lake](https://open.spotify.com/artist/43QrUqvhiL71U9A9gJtAfA) | [From Them, Through Us, To You](https://open.spotify.com/album/1Uw8vdLEIUxvQLYTd0Dk1f) | 3:36 |
 | 87 | [Ink](https://open.spotify.com/track/2SJoURQgsD1BtdEjlAVeNE) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Say Hello To Sunshine](https://open.spotify.com/album/2sTszHEtxhh9GkHtl3SU9N) | 3:35 |
 | 88 | [Surrender Your Sons](https://open.spotify.com/track/2fwjdgBSOCVt3QDpxU3G31) | [Norma Jean](https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH) | [The Anti Mother](https://open.spotify.com/album/0GZJgWLGPiJi8TTp5hDnY4) | 4:40 |
 | 89 | [Let The Evil Go East](https://open.spotify.com/track/7kw1y5LQfNXELwGrKDalxg) | [Greeley Estates](https://open.spotify.com/artist/2l7ALCv1HxcE32kc3b7vag) | [Go West Young Man, Let The Evil Go East](https://open.spotify.com/album/3ApC6jMB269oXLXZK0hkPZ) | 3:20 |

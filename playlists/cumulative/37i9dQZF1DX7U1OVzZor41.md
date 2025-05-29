@@ -4,7 +4,7 @@
 
 > 在KTV里，这些都是必点必唱的华语K歌。你准备好了吗？
 
-111 songs - 7 hr 50 min
+112 songs - 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [最後一堂課 \- 《媽,別鬧了!》影集片尾曲](https://open.spotify.com/track/2OR5FUKy3GQ7I9DCbRnfsW) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [最後一堂課 \(《媽,別鬧了!》影集片尾曲\)](https://open.spotify.com/album/5x6j8vBf5m91MUBEO5Jdxy) | 4:38 | 2023-11-27 | 2024-03-18 |
 | [最特別的人](https://open.spotify.com/track/3R3mXD5H3xSTYKXAKwUnAT) | [Bii](https://open.spotify.com/artist/1AIrEsIWKWiJJ6lfkLmtWK) | [最特別的人 Say It](https://open.spotify.com/album/77zflKsLQVGVPZDLsGq7bm) | 3:32 | 2024-08-05 | 2024-10-12 |
 | [最近的遠方](https://open.spotify.com/track/4bZLFvymNNYoltTTGWjUX5) | [黃偉晉](https://open.spotify.com/artist/1LfGS4Ko1gqgvZ8f1hAG7D), [Nine Chen](https://open.spotify.com/artist/4MMQmzYiUiuD8VwjrJu3v6) | [最近的遠方](https://open.spotify.com/album/0OjGjTluCDRQFsw2BEyuuL) | 3:50 | 2024-06-20 | 2024-08-06 |
+| [月牙灣](https://open.spotify.com/track/1b5IRT3iraxjHOsKZx93sW) | [F.I.R.](https://open.spotify.com/artist/5oqLnVZzJJXE3YnzzZfRKu) | [愛‧歌姬](https://open.spotify.com/album/3jFtKa1iT9rD5Xb40mHgQ1) | 5:08 | 2024-10-11 |  |
 | [末日瘋癲](https://open.spotify.com/track/6wATXCWK07j0T0DjHAD4F1) | [Quanzo](https://open.spotify.com/artist/2xZ5jDLM2DzHd0UoeIquZn) | [THE PENROSE ROOM 鏡房](https://open.spotify.com/album/29JSCngK4DwyyNEzGZcLaS) | 2:52 | 2024-10-11 |  |
 | [永不失聯的愛](https://open.spotify.com/track/46fURCnWErjFdNM2yBJ2c8) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [如果雨之後](https://open.spotify.com/album/63lCCebNDe20nxyCvFWk8g) | 4:19 | 2023-11-27 |  |
 | [沒那麽簡單](https://open.spotify.com/track/4xZIMRwaaBx7CZMmM6KLuh) | [黃小琥](https://open.spotify.com/artist/6KCusBln9NTESgcuI0DlUz) | [簡單不簡單](https://open.spotify.com/album/1L5TJ2XkW8pXgSwHYMZsJJ) | 5:10 | 2024-06-06 | 2024-10-10 |
@@ -103,7 +104,7 @@
 | [突然好想你](https://open.spotify.com/track/0IAgufC1FlOg1nZMmRZxRr) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [後 青春期的詩](https://open.spotify.com/album/3cCdHi2r9iknmDTBSOWlqF) | 4:25 | 2023-11-27 | 2024-04-09 |
 | [童話](https://open.spotify.com/track/6NCylXeJcHOI908PjZDFcg) | [Michael Wong](https://open.spotify.com/artist/26SQFo2qNNGOxh2PUAsTeO) | [十光年精選輯](https://open.spotify.com/album/36Z2YriYoWjRLZOiklzgSm) | 4:06 | 2023-11-27 |  |
 | [給我一個理由忘記](https://open.spotify.com/track/2DcmVSLAg0ZzfOQxDshZHY) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [寂寞不痛](https://open.spotify.com/album/5ncMRfP3V96fdb61yB0WKR) | 4:45 | 2023-11-27 |  |
-| [背對背擁抱](https://open.spotify.com/track/5OZeRuBBRpEY13BagcAOLJ) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [JJ林俊傑100天](https://open.spotify.com/album/6D0BwgO8fScZhwVFP6k6N9) | 3:54 | 2024-06-06 |  |
+| [背對背擁抱](https://open.spotify.com/track/5OZeRuBBRpEY13BagcAOLJ) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [JJ林俊傑100天](https://open.spotify.com/album/6D0BwgO8fScZhwVFP6k6N9) | 3:54 | 2024-06-06 | 2025-05-29 |
 | [胭脂扣 \(音樂劇主題曲\)](https://open.spotify.com/track/20LxgHYtaAeiByIjAbHmEt) | [Jam Hsiao](https://open.spotify.com/artist/4AJcTAMOLkRl3vf4syay8Q) | [胭脂扣 \(音樂劇主題曲\)](https://open.spotify.com/album/51o5zrvxRS4aA9MttqkGaJ) | 3:42 | 2024-10-11 |  |
 | [舞狀元](https://open.spotify.com/track/0qwXdUpsJTxCgfVIe5tMOo) | [Show Luo](https://open.spotify.com/artist/33ApZ6LzfimooQNIKqf4jo) | [舞狀元](https://open.spotify.com/album/1OmjwR8j9Dpxwd8zZPDCcE) | 3:14 | 2024-08-05 | 2024-10-12 |
 | [芬蘭距離](https://open.spotify.com/track/1OvQbBToQ5gMPs7bwqUbbz) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [《不夠善良的我們 : 戲劇音樂設計專輯》](https://open.spotify.com/album/0pH2VtQLa0T3G3ZoHSFgeC) | 5:49 | 2024-06-20 | 2024-08-06 |

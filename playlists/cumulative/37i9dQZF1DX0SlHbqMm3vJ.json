@@ -4419,6 +4419,32 @@
     },
     {
       "album": {
+        "name": "Falling In Love",
+        "url": "https://open.spotify.com/album/5PfyP5wekXVjrqkvhKaqF1"
+      },
+      "artists": [
+        {
+          "name": "Good Nation",
+          "url": "https://open.spotify.com/artist/0PhzQyacoc63MStTa2Yik1"
+        },
+        {
+          "name": "Emma'a",
+          "url": "https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx"
+        },
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        }
+      ],
+      "date_added": "2025-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190588,
+      "name": "Falling In Love",
+      "url": "https://open.spotify.com/track/4einxxnYgyAqINv83N6OJf"
+    },
+    {
+      "album": {
         "name": "KURIMA",
         "url": "https://open.spotify.com/album/5maRefSgf0qSSkTMB4lmTR"
       },
@@ -8318,7 +8344,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-29",
       "duration_ms": 195900,
       "name": "Love & Romance II",
       "url": "https://open.spotify.com/track/4VcP2qNfYjYibIHxMbYyV3"

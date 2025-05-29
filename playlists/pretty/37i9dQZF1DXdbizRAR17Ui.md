@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 
 > When the night isn't over just yet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,419 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,441 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,10 +38,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 | 28 | [LMK](https://open.spotify.com/track/4aHqjlibpXrHQ1nlvGJQrA) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [LMK](https://open.spotify.com/album/0z3SNQSfMGSWS0aKlcuea6) | 3:53 |
 | 29 | [Be The First One](https://open.spotify.com/track/0UsBpozOiItwFrErgLkDAh) | [Caius](https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi), [NYAROL](https://open.spotify.com/artist/378ilmifyE7FfICFkwlAD7) | [Be The First One](https://open.spotify.com/album/5yNthIBAghTkSfRTtDKd8k) | 2:43 |
 | 30 | [oceanic \(feat\. Vagabon\) \[rebirth\]](https://open.spotify.com/track/5yMT0cRoY8G9fbWOEJ2JOE) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [oceanic \(feat\. Vagabon\) \[rebirth\]](https://open.spotify.com/album/1UK7VjiYaBeFTwVXLcr7ay) | 2:22 |
-| 31 | [In The Sound Of Breathing \- George FitzGerald Remix](https://open.spotify.com/track/3EIi1v4tLTY1G0EIxVPuoD) | [SAGES](https://open.spotify.com/artist/5V57PJiPMsZflHN9dqoCSJ), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl), [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [In The Sound Of Breathing \(George FitzGerald Remix\)](https://open.spotify.com/album/4nhaONxYBJkfFvAv7Lpbnk) | 4:49 |
-| 32 | [Swim](https://open.spotify.com/track/76jLlcqIuqBv3SXx5fcnfW) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Swim](https://open.spotify.com/album/7tkmjD2hcGbjZvHhpQnLBI) | 4:03 |
-| 33 | [Lovestruck](https://open.spotify.com/track/1pfleon3jOOvP1IPWOtt31) | [Mona Yim](https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv), [Strath](https://open.spotify.com/artist/6iM3BATbxNbAxuQ9YaaWFe) | [Lovestruck](https://open.spotify.com/album/5oEp7owVjPRCTKc4xBOr3H) | 3:30 |
-| 34 | [Shy](https://open.spotify.com/track/2ZMlMWibWHnxB4qf5zlt3L) | [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d), [Might Delete Later](https://open.spotify.com/artist/71j4PhDtWqw0LIG5MXBLxT) | [Shy](https://open.spotify.com/album/56lt0wA0GO8UguFRdXVBA4) | 3:25 |
+| 31 | [Swim](https://open.spotify.com/track/76jLlcqIuqBv3SXx5fcnfW) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Swim](https://open.spotify.com/album/7tkmjD2hcGbjZvHhpQnLBI) | 4:03 |
+| 32 | [Lovestruck](https://open.spotify.com/track/1pfleon3jOOvP1IPWOtt31) | [Mona Yim](https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv), [Strath](https://open.spotify.com/artist/6iM3BATbxNbAxuQ9YaaWFe) | [Lovestruck](https://open.spotify.com/album/5oEp7owVjPRCTKc4xBOr3H) | 3:30 |
+| 33 | [Shy](https://open.spotify.com/track/2ZMlMWibWHnxB4qf5zlt3L) | [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d), [Might Delete Later](https://open.spotify.com/artist/71j4PhDtWqw0LIG5MXBLxT) | [Shy](https://open.spotify.com/album/56lt0wA0GO8UguFRdXVBA4) | 3:25 |
+| 34 | [In The Sound Of Breathing \- George FitzGerald Remix](https://open.spotify.com/track/3EIi1v4tLTY1G0EIxVPuoD) | [SAGES](https://open.spotify.com/artist/5V57PJiPMsZflHN9dqoCSJ), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl), [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [In The Sound Of Breathing \(George FitzGerald Remix\)](https://open.spotify.com/album/4nhaONxYBJkfFvAv7Lpbnk) | 4:49 |
 | 35 | [ineedu](https://open.spotify.com/track/5v35hxyNPToBxF5vx737U8) | [Ordley](https://open.spotify.com/artist/7iytrtzbCdACF9euDDHfiD) | [ineedu](https://open.spotify.com/album/4CSGs0uGFhhmXsXOa4s2ms) | 2:25 |
 | 36 | [i think you can save me](https://open.spotify.com/track/1BUIzWWmPJSE75lrHbaGlP) | [Dimside](https://open.spotify.com/artist/20CQ7P9w4tJT7zpUI1TAXX) | [i think you can save me](https://open.spotify.com/album/1ulBFo81789hv5mwzhHI7j) | 2:05 |
 | 37 | [Riddles](https://open.spotify.com/track/692A9OaT8kc7KuFhvdcMqu) | [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Riddles](https://open.spotify.com/album/5RifJhwYzGXU4kQ4KGIkYC) | 2:49 |

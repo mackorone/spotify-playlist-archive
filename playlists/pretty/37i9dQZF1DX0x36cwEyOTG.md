@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 
 > Relax with this mix of peaceful, ambient, indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,480 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 433,434 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 | 39 | [Saans Lo](https://open.spotify.com/track/6iPZbDZtoVyQv7spX7Tt8m) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Vulture Prince](https://open.spotify.com/album/6HrBTi1F76h7mJuQDHEijH) | 7:31 |
 | 40 | [Sliding Doors](https://open.spotify.com/track/63HtCJMvG5k3aGD7behQeY) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Inside Out](https://open.spotify.com/album/7yf6qu9oeomPuI8p3FHjCP) | 4:05 |
 | 41 | [Richter: Moth\-like Stars \- Edit](https://open.spotify.com/track/0wo2oXRCQmuzbJBhG2s564) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Ben Russell](https://open.spotify.com/artist/5BG0gerrHZFHPaIEi43FHB), [Yuki Numata](https://open.spotify.com/artist/4rYJIqA2SBfcbn8y8yUGtU), [Caleb Burhans](https://open.spotify.com/artist/3962g9Dfd93mJSVy1D37LF), [Clarice Jensen](https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a), [Brian Snow](https://open.spotify.com/artist/2ESi6tlKQpAqymfpcmBmYi) | [My Brilliant Friend, Season 2 \(TV Series Soundtrack\)](https://open.spotify.com/album/6c3eJ2tcnkLN1BuJpjtRit) | 10:40 |
-| 42 | [Free](https://open.spotify.com/track/4b57xU7rviFrRgilxMjDJb) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Free Love](https://open.spotify.com/album/2KAPJ40On8JY1Yt64JJgTk) | 2:36 |
-| 43 | [Nest](https://open.spotify.com/track/4NtRwRfAuGRFQAhOezicIx) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Home](https://open.spotify.com/album/1iWIdNirSM5jBeSUl6R5JE) | 4:20 |
+| 42 | [Nest](https://open.spotify.com/track/4NtRwRfAuGRFQAhOezicIx) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Home](https://open.spotify.com/album/1iWIdNirSM5jBeSUl6R5JE) | 4:20 |
+| 43 | [Free](https://open.spotify.com/track/4b57xU7rviFrRgilxMjDJb) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Free Love](https://open.spotify.com/album/2KAPJ40On8JY1Yt64JJgTk) | 2:36 |
 | 44 | [I Wish I Knew](https://open.spotify.com/track/4s0mvp3ewGOiPt4Ie8wGBt) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [I Wish I Knew](https://open.spotify.com/album/55MEStsCnRChtFW0bCnz1N) | 3:49 |
 | 45 | [Only a Moment](https://open.spotify.com/track/0YsdzdSjK6kEwtEeL4bfa6) | [From The Mouth of The Sun](https://open.spotify.com/artist/6UpouK3jks1yWvXxjDFB5S) | [A Broken House](https://open.spotify.com/album/4GeOn3aGUAyZ5yT5kapePX) | 1:25 |
 | 46 | [News About Heaven](https://open.spotify.com/track/0GTopopHvqgaIbV8VSx9wM) | [Marisa Anderson](https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW), [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [Lost Futures](https://open.spotify.com/album/1ccFrrZoLFGfDM2LaB8bc6) | 3:56 |

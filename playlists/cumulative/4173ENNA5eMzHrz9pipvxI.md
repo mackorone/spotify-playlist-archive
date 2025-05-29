@@ -2,7 +2,7 @@
 
 ### [Spinnin' Records Brand New](https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI)
 
-> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover:  Raaban, Hypaton, TOOMANYLEFTHANDS
+> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover:  SAMA \(US\)
 
 1,738 songs - 3 day 11 hr 13 min
 

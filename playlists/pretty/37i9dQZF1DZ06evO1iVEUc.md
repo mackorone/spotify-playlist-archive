@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iVEUc.md) - [plain]
 
 > This is Angie Stone\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,452 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,453 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iVEUc.md) - [plain]
 | 49 | [Gonna Have to Be You](https://open.spotify.com/track/0yKtPIRrUjoATLNNXmJcbq) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [Jaheim](https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3) | [Full Circle](https://open.spotify.com/album/6KhoIz4SDYW5zEnl0O9bRB) | 3:58 |
 | 50 | [Kiss All Over Your Body](https://open.spotify.com/track/0GmZfFYIhU0Pd9oXV5EKZt) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Unexpected](https://open.spotify.com/album/03GXHujYDvYF7zkSUC1KlU) | 4:45 |
 
-Snapshot ID: `aDOvAAAAAAC2wG6b7oeRJ2DDxa4N4+HV`
+Snapshot ID: `aDUAgAAAAAA69RTlkxNP/rc9rcbSldk7`

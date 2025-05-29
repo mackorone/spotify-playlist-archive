@@ -1,6 +1,6 @@
 {
   "description": "Verdi was the undisputed king of Italian opera in the 19th century. Explore his greatest works, including Rigoletto and La Traviata, right here.",
-  "num_followers": 83788,
+  "num_followers": 83795,
   "original_name": "This Is Verdi",
   "owner": {
     "name": "Spotify",
@@ -1279,34 +1279,6 @@
     {
       "added_at": "2022-06-27 14:42:44",
       "album": {
-        "name": "Verdi: La forza del destino",
-        "url": "https://open.spotify.com/album/7dOAuusf4Bvmj33E7BL3z1"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Riccardo Muti",
-          "url": "https://open.spotify.com/artist/7silW8RiEOoLBgAg5JBCL1"
-        },
-        {
-          "name": "Giorgio Zancanaro",
-          "url": "https://open.spotify.com/artist/39dLB5mWDbZhWPGeEOzDHX"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
-        }
-      ],
-      "duration_ms": 131733,
-      "name": "Verdi: La forza del destino, Act 3: \"Morir! Tremenda cosa!\" (Don Carlo di Vargas)",
-      "url": "https://open.spotify.com/track/0drQZ4GkWY45j0mUKpMOpm"
-    },
-    {
-      "added_at": "2022-06-27 14:42:44",
-      "album": {
         "name": "Verdi: Rigoletto",
         "url": "https://open.spotify.com/album/1NLwPDTSFM1qIqYBCUfLHe"
       },
@@ -1339,6 +1311,34 @@
       "duration_ms": 165160,
       "name": "Rigoletto / Act 1: Zitti, zitti...Soccorso, padre mio",
       "url": "https://open.spotify.com/track/0lwh0r181aPU0ef3y5JZwL"
+    },
+    {
+      "added_at": "2022-06-27 14:42:44",
+      "album": {
+        "name": "Verdi: La forza del destino",
+        "url": "https://open.spotify.com/album/7dOAuusf4Bvmj33E7BL3z1"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Riccardo Muti",
+          "url": "https://open.spotify.com/artist/7silW8RiEOoLBgAg5JBCL1"
+        },
+        {
+          "name": "Giorgio Zancanaro",
+          "url": "https://open.spotify.com/artist/39dLB5mWDbZhWPGeEOzDHX"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        }
+      ],
+      "duration_ms": 131733,
+      "name": "Verdi: La forza del destino, Act 3: \"Morir! Tremenda cosa!\" (Don Carlo di Vargas)",
+      "url": "https://open.spotify.com/track/0drQZ4GkWY45j0mUKpMOpm"
     },
     {
       "added_at": "2022-06-27 14:42:44",
@@ -1915,30 +1915,6 @@
     {
       "added_at": "2022-06-27 14:42:44",
       "album": {
-        "name": "Verdi: Aida",
-        "url": "https://open.spotify.com/album/3i05h9cx661EAQLC1RwJYb"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Antonio Pappano",
-          "url": "https://open.spotify.com/artist/0xHw5qPRSEc8sUmSmXf5sw"
-        },
-        {
-          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
-        }
-      ],
-      "duration_ms": 263120,
-      "name": "Verdi: Aida, Act 2: Ballet",
-      "url": "https://open.spotify.com/track/3qbbzJ2Z0zldaL04fwnHlY"
-    },
-    {
-      "added_at": "2022-06-27 14:42:44",
-      "album": {
         "name": "Romantic Arias",
         "url": "https://open.spotify.com/album/4qA4Q7Fs4oj8mfBZBYR386"
       },
@@ -1963,6 +1939,30 @@
       "duration_ms": 327133,
       "name": "Rigoletto / Act 2: \"Ella mi fu rapita... Parmi veder le lagrime\"",
       "url": "https://open.spotify.com/track/2nr6wfqIBQG5XDM6vEawAd"
+    },
+    {
+      "added_at": "2022-06-27 14:42:44",
+      "album": {
+        "name": "Verdi: Aida",
+        "url": "https://open.spotify.com/album/3i05h9cx661EAQLC1RwJYb"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Antonio Pappano",
+          "url": "https://open.spotify.com/artist/0xHw5qPRSEc8sUmSmXf5sw"
+        },
+        {
+          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
+        }
+      ],
+      "duration_ms": 263120,
+      "name": "Verdi: Aida, Act 2: Ballet",
+      "url": "https://open.spotify.com/track/3qbbzJ2Z0zldaL04fwnHlY"
     },
     {
       "added_at": "2022-06-27 14:42:44",

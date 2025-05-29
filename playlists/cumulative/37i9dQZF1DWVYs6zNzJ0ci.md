@@ -2,9 +2,9 @@
 
 ### [Reggae en Español](https://open.spotify.com/playlist/37i9dQZF1DWVYs6zNzJ0ci)
 
-> Vibraciones rastafari en español\. Foto: Pure Negga
+> Vibraciones rastafari en español\. Jah Fabio por siempre
 
-399 songs - 1 day 2 hr 12 min
+400 songs - 1 day 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -328,6 +328,7 @@
 | [Siempre](https://open.spotify.com/track/7d42VpwmsJhlBcfOJ5XQu0) | [Los Aguas Aguas](https://open.spotify.com/artist/6MlrTBeZE2S1lUxSD6x8wG) | [Siempre](https://open.spotify.com/album/4tx8t2F5LBamtUKg4Wk7ik) | 4:24 | 2021-12-10 | 2022-07-29 |
 | [Sierra del Mar](https://open.spotify.com/track/1m4h2rplVZ3cpcWplrJYSw) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR), [Alex Serra](https://open.spotify.com/artist/3iUmseZo1IoMlJvhjxPy4r), [Totidub](https://open.spotify.com/artist/1VTBqewro51M1puZAUn4jt) | [Sierra del Mar](https://open.spotify.com/album/2jCf17eHD4u8U7Gp3PZ4ba) | 5:17 | 2025-01-07 |  |
 | [Sigo Caminando](https://open.spotify.com/track/1Po5Jxjh5gHCFiKIt6AQZR) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Alas Canciones](https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8) | 5:02 | 2021-12-10 |  |
+| [Siguiendo El Sol](https://open.spotify.com/track/7CxfL9joDNHis7ct066PmI) | [Jah Fabio](https://open.spotify.com/artist/6cMEIQyZxsgtbzzvMmozuc), [Beat Bull](https://open.spotify.com/artist/0OAf2gUXuu48NSwWfbVtIo) | [Siguiendo El Sol](https://open.spotify.com/album/5EY1psRQ36NkYr09MF4Z7v) | 3:47 | 2025-05-29 |  |
 | [Sin Ti](https://open.spotify.com/track/1mmaywWRQzNE5dt0eUISBd) | [King Chango](https://open.spotify.com/artist/5nZlhgO7iNedGlO0gKu9us) | [The Return of El Santo](https://open.spotify.com/album/5cOccFEax9P6EPRJc4xPx9) | 4:47 | 2021-12-10 |  |
 | [Sin Ti \(feat\. Quique Neira\)](https://open.spotify.com/track/6209QxIqPJxYsO64iVYRpi) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [MIL Canciones](https://open.spotify.com/album/6zjahAclu3UUidDuggIIMJ) | 3:31 | 2021-12-10 |  |
 | [Sintiendo el Ánimo](https://open.spotify.com/track/2EVDau86ZdNIBOKx7qvkUR) | [Vibranko](https://open.spotify.com/artist/4PwGCD3OWzdY2gZf1DoHdu), [Danilo del Flow](https://open.spotify.com/artist/1Hht5i2SyJVpcihTk7pQHW) | [Sintiendo el Ánimo](https://open.spotify.com/album/28BsZnN1pXfKs1B6MkdoeS) | 3:03 | 2022-11-18 | 2023-01-21 |
@@ -339,7 +340,7 @@
 | [Soy Salvo](https://open.spotify.com/track/5BWIJEni18Z66S4CZ1ftqw) | [Kafu Banton](https://open.spotify.com/artist/5RLb16s3zfrdWdRF0l7xij), [Unity Sound](https://open.spotify.com/artist/5K354VQ6YnadcAq59TNgwH) | [Soy Salvo](https://open.spotify.com/album/7Da9rVyMHdEeqp5D1jAv54) | 3:06 | 2024-05-10 | 2024-06-22 |
 | [Soy un Lion](https://open.spotify.com/track/5asB0dIZTE4mHbX9mhm89g) | [Little Pepe](https://open.spotify.com/artist/33CBC8BnDtnQKsgK2JeOyO), [Green Valley](https://open.spotify.com/artist/1v7iZcyrm4fHfsEBiseomy) | [Soy un Lion](https://open.spotify.com/album/66PzOEOI6XehXOEG9rtJ8B) | 3:24 | 2022-01-21 | 2022-08-02 |
 | [Suena a Reggae \(Suena a Reggae\), Vol\. 6](https://open.spotify.com/track/3fSBJlTmKgrVrDgBwQU9HY) | [Kalos](https://open.spotify.com/artist/1BVGsNTQd7o8Hh1Yal8G9I), [George Palmer](https://open.spotify.com/artist/0H5NauidBq245F36K6Zeeg), [Danel](https://open.spotify.com/artist/4DqG4QsC3VqWzr8flNPqO8), [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI), [Sinka](https://open.spotify.com/artist/5lclaqTcElYYbdyWZO0c77), [The\_little\_SAM](https://open.spotify.com/artist/4C09Y4oHty8kNcKynQ6Mbj) | [Suena a Reggae \(Suena a Reggae\), Vol\. 6](https://open.spotify.com/album/3OfrjHPPJM3NS2tYUvgMut) | 4:40 | 2024-07-02 | 2024-07-19 |
-| [Sueño de Virtud](https://open.spotify.com/track/796d0gOFAb5JgakjlNzX55) | [Pure Negga](https://open.spotify.com/artist/1F23hhbmyCMBq3BadxKNhk), [Oto Beats](https://open.spotify.com/artist/3YtLMUJIIPmTDeQeiCVL68) | [Sueño de Virtud](https://open.spotify.com/album/1ZNAzHBKUV4KRK6SMBK9nN) | 4:00 | 2024-11-29 |  |
+| [Sueño de Virtud](https://open.spotify.com/track/796d0gOFAb5JgakjlNzX55) | [Pure Negga](https://open.spotify.com/artist/1F23hhbmyCMBq3BadxKNhk), [Oto Beats](https://open.spotify.com/artist/3YtLMUJIIPmTDeQeiCVL68) | [Sueño de Virtud](https://open.spotify.com/album/1ZNAzHBKUV4KRK6SMBK9nN) | 4:00 | 2024-11-29 | 2025-05-29 |
 | [Sunset](https://open.spotify.com/track/2YA3RGYuXPsuVy2tQOa0cf) | [Javypablo](https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq), [Anakena](https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo) | [Sunset](https://open.spotify.com/album/0zemhsDxtW61XHT0BYvaG0) | 3:05 | 2023-09-08 | 2023-09-24 |
 | [Sunshine](https://open.spotify.com/track/2zkqFq1OCZ8iHvyqY585v8) | [King Magneto](https://open.spotify.com/artist/1OLhbYSBp0ySNWoTjNcxrC), [Pure Negga](https://open.spotify.com/artist/1F23hhbmyCMBq3BadxKNhk), [Aleix P Macau](https://open.spotify.com/artist/1KKsrzeiDQTtCgWAHfFSiM) | [Sunshine](https://open.spotify.com/album/1luiHxTvu4zHLCrG3VhP1E) | 4:40 | 2023-03-03 | 2023-07-18 |
 | [Tan Distante](https://open.spotify.com/track/72t5gOSN80UxL23dyBelJ7) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP) | [Aguas Frescas De Jamaica](https://open.spotify.com/album/1svQZMx26EywFi49R1BMkX) | 4:38 | 2021-12-10 | 2023-01-17 |

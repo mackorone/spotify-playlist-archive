@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4ZIckimeCjQpyqu39pufX2">Leland</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-233 songs - 12 hr 46 min
+234 songs - 12 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Can't Go Back, Baby](https://open.spotify.com/track/6fNyEK8kTquBSUTHbqbfaK) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:21 | 2023-12-13 |  |
 | [CHARGER \(ft\. Charli XCX\)](https://open.spotify.com/track/3InNdtWYQV1Wx81qST5rU1) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [ELIO and Friends : The Remixes](https://open.spotify.com/album/1O1b6rtBC1KVjqAt6grw96) | 2:27 | 2021-12-27 | 2025-03-27 |
 | [CHARGER \(ft\. Charli XCX\)](https://open.spotify.com/track/73Jgw4iwHxptFsc08p3w7V) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [ELIO and Friends : The Remixes](https://open.spotify.com/album/3dbudG9bfUDxcyizvEeoXR) | 2:27 | 2025-03-26 |  |
+| [Chemical Reaction](https://open.spotify.com/track/7AAcT7MunkAjHyk9Abg774) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Chemical Reaction](https://open.spotify.com/album/5aCO10dxpRi1HiMtSyMaDC) | 3:18 | 2025-05-28 |  |
 | [Closure](https://open.spotify.com/track/4qRWEdbVRXDeqLzH4KP6vw) | [Hayley Warner](https://open.spotify.com/artist/1xrvnT8IPYpS6iOkAq8tLt) | [Closure](https://open.spotify.com/album/11slq6pHVpFYtRQ7XyjQPc) | 4:00 | 2021-12-27 |  |
 | [Cool](https://open.spotify.com/track/12ZxB6OrRRATkt7UoAqQHh) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Sit Still, Look Pretty](https://open.spotify.com/album/2cE2eOy7alOZHpuelJEV8Q) | 3:34 | 2021-12-27 | 2022-11-26 |
 | [Cool](https://open.spotify.com/track/0pJObmIY6LQTvZEuE6MLa2) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Sit Still, Look Pretty](https://open.spotify.com/album/3NoYyHEGIa8as1c0cisZAt) | 3:34 | 2022-11-25 | 2024-07-01 |

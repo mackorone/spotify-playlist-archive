@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,979 songs - 1 day 16 hr 6 min
+1,980 songs - 1 day 16 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1266,6 +1266,7 @@
 | [Patapan \- Cello Version](https://open.spotify.com/track/2YLYWflhmlnBkKWuoX3lLG) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Patapan \(Cello Version\)](https://open.spotify.com/album/0Z7ihQHdJR3AHFJIr5JLEX) | 1:01 | 2024-02-09 | 2024-02-13 |
 | [Patapan Arr\. For Cello And Piano](https://open.spotify.com/track/2uoVXMexTdfjEqfXLOpo0l) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Patapan Arr\. For Cello And Piano](https://open.spotify.com/album/0hZLVJdVhdBt9HmWxm1lX5) | 1:07 | 2024-02-09 | 2024-02-13 |
 | [Path](https://open.spotify.com/track/5Vt1C5qZINtmDqhGrSZjjO) | [Sunset Harmony](https://open.spotify.com/artist/6RYTVoYZSRtXlupVCm0uQf) | [Path](https://open.spotify.com/album/1fmPw4FYgQ7c9PN9cx6k3i) | 1:00 | 2025-05-23 |  |
+| [Pathway](https://open.spotify.com/track/7ACudgS35Rfgum3m30I3Oo) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Pathway](https://open.spotify.com/album/4mEgddXMN9jn4AkxeMcPTl) | 1:00 | 2025-05-28 |  |
 | [Patience](https://open.spotify.com/track/0ojel7AP7L7mmyqKjtOhHe) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Patience](https://open.spotify.com/album/4qB0cmvSbzr5IJEBD4ptj4) | 1:00 | 2024-10-08 |  |
 | [Patience And Hope](https://open.spotify.com/track/1Scfz6anlCdK9BdnVNHrii) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Restored](https://open.spotify.com/album/1xwDx8jc8SdscX2xYWSrud) | 1:03 | 2022-02-11 | 2024-01-30 |
 | [Patience and Longing](https://open.spotify.com/track/7kBo7y4VJf1eJ8TCvdrKgV) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Journeys](https://open.spotify.com/album/1e5hDdHVnh9RKGu4akLgZE) | 1:24 | 2022-01-12 |  |

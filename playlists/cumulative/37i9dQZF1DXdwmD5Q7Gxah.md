@@ -4,7 +4,7 @@
 
 > <a href="https://loremandfriends.substack.com/p/put\-me\-on\-a\-porch\-with\-a\-crispy\-beverage">Check out our May newsletter!</a> Cover: Smerz
 
-3,368 songs - 7 day 15 hr 36 min
+3,369 songs - 7 day 15 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [2 Be Loved](https://open.spotify.com/track/0FbMz0SvWSIPU51o5eFjN8) | [Earth Dad](https://open.spotify.com/artist/4chHQ1XcMUGTnvb0Q5mgIG) | [Stomping / 2 Be Loved](https://open.spotify.com/album/2A6g4eLSERVlqQHLF3nVug) | 2:15 | 2021-01-07 | 2021-02-06 |
 | [2 die 4 \(feat\. Charli XCX\)](https://open.spotify.com/track/7lvfYYQXH6fxP7JAiY1tjz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [AR](https://open.spotify.com/album/4HFL8GJomswlqQwqJGwKDt) | 2:06 | 2023-08-18 | 2023-08-26 |
 | [20](https://open.spotify.com/track/28cBt86GEGR1JvsTz5jaoc) | [Blue Nude](https://open.spotify.com/artist/3v15f3wDZHdPzfaGN01vKU) | [20](https://open.spotify.com/album/1gTCFbHMDRYfu6xAOyJ6b2) | 4:45 | 2019-08-02 | 2019-10-11 |
+| [2000](https://open.spotify.com/track/50WmaN9G4RyEo6imS11gD5) | [Mietze Conte](https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN) | [Mietzee](https://open.spotify.com/album/6aPaVG3tb0UAxgzgVnIdg1) | 1:45 | 2025-05-28 |  |
 | [2008](https://open.spotify.com/track/5S2fYAHI2zwSIc2RWcFL7V) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [The Alexander Technique](https://open.spotify.com/album/5HSZsS7TGsyMvur547zjVe) | 2:33 | 2024-09-06 | 2025-01-18 |
 | [2008](https://open.spotify.com/track/6P9k0dC9CP1g4ZlSzQn90M) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [2008](https://open.spotify.com/album/5KC7HD8Zt9kF088rA3SLl4) | 2:33 | 2024-09-04 | 2024-09-07 |
 | [2023](https://open.spotify.com/track/6zIycyd4Fp0pJ7zmLmmO2I) | [Lila Drew](https://open.spotify.com/artist/31ce51nzy9QQQlfnkwRm9F) | [2023](https://open.spotify.com/album/3hvl1jHmHMJjTHOAyCuucv) | 2:30 | 2021-10-14 | 2022-01-08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요\. \(There is something between us\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,143 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,145 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,10 +52,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 42 | [Someday \(feat\. Ha Hyun Sang\)](https://open.spotify.com/track/3G4TbgDHUyMnt1RT3lZM66) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl), [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [Someday \(feat\. Ha Hyun Sang\)](https://open.spotify.com/album/5I3ukJ3aeVcoVy2Q6OWGPW) | 3:01 |
 | 43 | [I Am Yours](https://open.spotify.com/track/0lZZ0Icm0dVmJHTpMCuy1H) | [OVAN](https://open.spotify.com/artist/4FuRHFtCeoYaeeVDKyyvbS) | [I Am Yours](https://open.spotify.com/album/3F2z1d1wAllQCboEkrQ054) | 3:31 |
 | 44 | [Attraction \(Bunny and Guys X Eric Nam, NAEUN\)](https://open.spotify.com/track/5TukPlV2eJWX7lfQAbrZGV) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM), [Naeun](https://open.spotify.com/artist/16Jm6AxcL9XKkwOemxmbXc) | [Attraction \(Bunny and Guys X Eric Nam, NAEUN\)](https://open.spotify.com/album/0W7TJ6he0KuZ5medVP8rWO) | 3:27 |
-| 45 | [Actually I Love You](https://open.spotify.com/track/1UCIegzDnHhiMmjNB2BLml) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) | [Doctor Slump \(Original Television Soundtrack\) Pt.4](https://open.spotify.com/album/4GMSuAqkTBvijLIPSlqR67) | 3:45 |
-| 46 | [Say I Love U](https://open.spotify.com/track/1qwn1cLzaOKb501YwbuF1H) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA) | [Love Interference Season3 \(Original Television Soundtrack\), Pt\. 17](https://open.spotify.com/album/21fVkmQsDvSeGP5jQ1k2CG) | 2:50 |
-| 47 | [독신주의 \(i love you\)](https://open.spotify.com/track/5fObsKkKuqnewLGmvE1xr2) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [독신주의 \(i love you\)](https://open.spotify.com/album/4hJBUBNF16qHRlEwMEurVo) | 3:25 |
-| 48 | [이런 내 맘](https://open.spotify.com/track/7x8WaMdxlDA4tcUbVhca1d) | [HAAN](https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F) | [이런 내 맘 \(대충 캠퍼스로맨스임 X HAAN & Chan\)](https://open.spotify.com/album/2Jd6eiWAuP2yLZIKLCS9h5) | 3:25 |
+| 45 | [이런 내 맘](https://open.spotify.com/track/7x8WaMdxlDA4tcUbVhca1d) | [HAAN](https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F) | [이런 내 맘 \(대충 캠퍼스로맨스임 X HAAN & Chan\)](https://open.spotify.com/album/2Jd6eiWAuP2yLZIKLCS9h5) | 3:25 |
+| 46 | [Actually I Love You](https://open.spotify.com/track/1UCIegzDnHhiMmjNB2BLml) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) | [Doctor Slump \(Original Television Soundtrack\) Pt.4](https://open.spotify.com/album/4GMSuAqkTBvijLIPSlqR67) | 3:45 |
+| 47 | [Say I Love U](https://open.spotify.com/track/1qwn1cLzaOKb501YwbuF1H) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA) | [Love Interference Season3 \(Original Television Soundtrack\), Pt\. 17](https://open.spotify.com/album/21fVkmQsDvSeGP5jQ1k2CG) | 2:50 |
+| 48 | [독신주의 \(i love you\)](https://open.spotify.com/track/5fObsKkKuqnewLGmvE1xr2) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [독신주의 \(i love you\)](https://open.spotify.com/album/4hJBUBNF16qHRlEwMEurVo) | 3:25 |
 | 49 | [IS THIS LOVE](https://open.spotify.com/track/7ssHGorhA1RFETKIufBFht) | [KIHYUN](https://open.spotify.com/artist/52MWHSohXVqTyGhBPRJepS) | [After School Lessons for Unripe Apples \(Original Webcomic Soundtrack\) Pt.2](https://open.spotify.com/album/6y8QtlbcnxTnBt1Sd4S4bS) | 3:24 |
 | 50 | [Before the Petals Fall](https://open.spotify.com/track/3IgT7VsDxWZsg90OrqK90t) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [Before the Petals Fall](https://open.spotify.com/album/168wOyzeKZdYSmSQu0Fkq3) | 3:49 |
 

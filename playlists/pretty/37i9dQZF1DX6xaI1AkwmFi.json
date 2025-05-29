@@ -1,6 +1,6 @@
 {
   "description": "\u30b9\u30c8\u30ed\u30dc\u30e9\u30a4\u30c8\u306e\u3088\u3046\u306b\u5149\u308a\u8f1d\u304f\u697d\u66f2\u3067\u3001\u4eca\u65e5\u3068\u3044\u3046\u65e5\u3092\u30b9\u30bf\u30fc\u30c8\u3057\u3088\u3046\u3002 Cover art painted by <a href=\"spotify:artist:2IUl3m1H1EQ7QfNbNWvgru\">Vaundy</a>",
-  "num_followers": 28720,
+  "num_followers": 28731,
   "original_name": "\u30b9\u30c8\u30ed\u30dc",
   "owner": {
     "name": "Spotify",
@@ -235,6 +235,22 @@
     {
       "added_at": "2025-05-27 15:00:10",
       "album": {
+        "name": "\u30c7\u30a4\u30b8\u30fc",
+        "url": "https://open.spotify.com/album/4BkPgahyVN3J3Xo8fPVzP1"
+      },
+      "artists": [
+        {
+          "name": "Lavt",
+          "url": "https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn"
+        }
+      ],
+      "duration_ms": 168533,
+      "name": "\u30c7\u30a4\u30b8\u30fc",
+      "url": "https://open.spotify.com/track/6OalExVqGSXSXxT7lmzTLY"
+    },
+    {
+      "added_at": "2025-05-27 15:00:10",
+      "album": {
         "name": "\u767e\u82b1\u7e5a\u4e71",
         "url": "https://open.spotify.com/album/3LDV2xGL9HiqCsQujEPQLb"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 179238,
       "name": "\u767e\u82b1\u7e5a\u4e71",
       "url": "https://open.spotify.com/track/79zgdvnTPyWSuTrd48Ik5O"
-    },
-    {
-      "added_at": "2025-05-27 15:00:10",
-      "album": {
-        "name": "\u30a2\u30a4\u30c9\u30eb",
-        "url": "https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a"
-      },
-      "artists": [
-        {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
-        }
-      ],
-      "duration_ms": 213233,
-      "name": "\u30a2\u30a4\u30c9\u30eb",
-      "url": "https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt"
     },
     {
       "added_at": "2025-05-27 15:00:10",
@@ -315,6 +315,22 @@
     {
       "added_at": "2025-05-27 15:00:10",
       "album": {
+        "name": "\u30a2\u30a4\u30c9\u30eb",
+        "url": "https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "duration_ms": 213233,
+      "name": "\u30a2\u30a4\u30c9\u30eb",
+      "url": "https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt"
+    },
+    {
+      "added_at": "2025-05-27 15:00:10",
+      "album": {
         "name": "\u30c0\u30f3\u30b9\u30db\u30fc\u30eb",
         "url": "https://open.spotify.com/album/3OyEc77lPQ8QOWMIWvZl08"
       },
@@ -347,22 +363,6 @@
     {
       "added_at": "2025-05-27 15:00:10",
       "album": {
-        "name": "GOD_i",
-        "url": "https://open.spotify.com/album/4fU7LKsNvfSiqBWreDtW1I"
-      },
-      "artists": [
-        {
-          "name": "Number_i",
-          "url": "https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN"
-        }
-      ],
-      "duration_ms": 215120,
-      "name": "GOD_i",
-      "url": "https://open.spotify.com/track/6xLSq48LkhwFTwKx442veN"
-    },
-    {
-      "added_at": "2025-05-27 15:00:10",
-      "album": {
         "name": "\u604b\u611b\u5f8c\u907a\u75c7",
         "url": "https://open.spotify.com/album/5IA4woiYpbC0sFN79fU8vr"
       },
@@ -379,18 +379,18 @@
     {
       "added_at": "2025-05-27 15:00:10",
       "album": {
-        "name": "\u6674\u308b",
-        "url": "https://open.spotify.com/album/4O53dhmIctih3p2suAAgga"
+        "name": "GOD_i",
+        "url": "https://open.spotify.com/album/4fU7LKsNvfSiqBWreDtW1I"
       },
       "artists": [
         {
-          "name": "\u30e8\u30eb\u30b7\u30ab",
-          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+          "name": "Number_i",
+          "url": "https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN"
         }
       ],
-      "duration_ms": 270705,
-      "name": "\u6674\u308b",
-      "url": "https://open.spotify.com/track/5eY7692tmgHB9dbmq6wa2M"
+      "duration_ms": 215120,
+      "name": "GOD_i",
+      "url": "https://open.spotify.com/track/6xLSq48LkhwFTwKx442veN"
     },
     {
       "added_at": "2025-05-27 15:00:10",
@@ -427,6 +427,22 @@
     {
       "added_at": "2025-05-27 15:00:10",
       "album": {
+        "name": "\u6674\u308b",
+        "url": "https://open.spotify.com/album/4O53dhmIctih3p2suAAgga"
+      },
+      "artists": [
+        {
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+        }
+      ],
+      "duration_ms": 270705,
+      "name": "\u6674\u308b",
+      "url": "https://open.spotify.com/track/5eY7692tmgHB9dbmq6wa2M"
+    },
+    {
+      "added_at": "2025-05-27 15:00:10",
+      "album": {
         "name": "LOVE DIVE",
         "url": "https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 177186,
       "name": "LOVE DIVE",
       "url": "https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi"
-    },
-    {
-      "added_at": "2025-05-27 15:00:10",
-      "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/0aA475GObe8VCZvHRRloxK"
-      },
-      "artists": [
-        {
-          "name": "BABYMONSTER",
-          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
-        }
-      ],
-      "duration_ms": 182104,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/37qlRGMmN1tStZS0elymXg"
     },
     {
       "added_at": "2025-05-27 15:00:10",
@@ -479,6 +479,22 @@
     {
       "added_at": "2025-05-27 15:00:10",
       "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/0aA475GObe8VCZvHRRloxK"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "duration_ms": 182104,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/37qlRGMmN1tStZS0elymXg"
+    },
+    {
+      "added_at": "2025-05-27 15:00:10",
+      "album": {
         "name": "\u9752\u306e\u3059\u307f\u304b",
         "url": "https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS"
       },
@@ -491,6 +507,22 @@
       "duration_ms": 196466,
       "name": "\u9752\u306e\u3059\u307f\u304b",
       "url": "https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd"
+    },
+    {
+      "added_at": "2025-05-27 15:00:10",
+      "album": {
+        "name": "Watch me!",
+        "url": "https://open.spotify.com/album/1M2XEzXjHUbVfMVfwMTPYc"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "duration_ms": 186193,
+      "name": "Watch me!",
+      "url": "https://open.spotify.com/track/2XlTBc7XOzyunDf3Oqsfpk"
     },
     {
       "added_at": "2025-05-27 15:00:10",
@@ -527,22 +559,6 @@
     {
       "added_at": "2025-05-27 15:00:10",
       "album": {
-        "name": "Watch me!",
-        "url": "https://open.spotify.com/album/1M2XEzXjHUbVfMVfwMTPYc"
-      },
-      "artists": [
-        {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
-        }
-      ],
-      "duration_ms": 186193,
-      "name": "Watch me!",
-      "url": "https://open.spotify.com/track/2XlTBc7XOzyunDf3Oqsfpk"
-    },
-    {
-      "added_at": "2025-05-27 15:00:10",
-      "album": {
         "name": "\u7d76\u5bfe\u96f6\u5ea6",
         "url": "https://open.spotify.com/album/4cAgsEZlaDdg3PSH3IAgEy"
       },
@@ -575,22 +591,6 @@
     {
       "added_at": "2025-05-27 15:00:10",
       "album": {
-        "name": "\u98a8\u795e",
-        "url": "https://open.spotify.com/album/2dkncPeCSULjpH34voco0k"
-      },
-      "artists": [
-        {
-          "name": "Vaundy",
-          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
-        }
-      ],
-      "duration_ms": 235543,
-      "name": "\u98a8\u795e",
-      "url": "https://open.spotify.com/track/00GDUNeJd97qjKp2yrx0OC"
-    },
-    {
-      "added_at": "2025-05-27 15:00:10",
-      "album": {
         "name": "\u3082\u3046\u3069\u3046\u306a\u3063\u3066\u3082\u3044\u3044\u3084",
         "url": "https://open.spotify.com/album/6XMeBVW9xA5buvS6EAVbGG"
       },
@@ -603,6 +603,22 @@
       "duration_ms": 203066,
       "name": "\u3082\u3046\u3069\u3046\u306a\u3063\u3066\u3082\u3044\u3044\u3084",
       "url": "https://open.spotify.com/track/17oTdCFRG5Vp4381jehV3U"
+    },
+    {
+      "added_at": "2025-05-27 15:00:10",
+      "album": {
+        "name": "\u98a8\u795e",
+        "url": "https://open.spotify.com/album/2dkncPeCSULjpH34voco0k"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "duration_ms": 235543,
+      "name": "\u98a8\u795e",
+      "url": "https://open.spotify.com/track/00GDUNeJd97qjKp2yrx0OC"
     },
     {
       "added_at": "2025-05-27 15:00:10",
@@ -663,22 +679,6 @@
     {
       "added_at": "2025-05-27 15:00:10",
       "album": {
-        "name": "replica",
-        "url": "https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn"
-      },
-      "artists": [
-        {
-          "name": "Vaundy",
-          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
-        }
-      ],
-      "duration_ms": 207486,
-      "name": "\u82b1\u5360\u3044",
-      "url": "https://open.spotify.com/track/4ETc1oFREuqQss7VQ1Y4mj"
-    },
-    {
-      "added_at": "2025-05-27 15:00:10",
-      "album": {
         "name": "TAIDADA",
         "url": "https://open.spotify.com/album/5z6M8BvLoHYhVbZZOdLbn6"
       },
@@ -691,6 +691,22 @@
       "duration_ms": 226026,
       "name": "TAIDADA",
       "url": "https://open.spotify.com/track/4cPwi7lcWxRQNEb4xC77fC"
+    },
+    {
+      "added_at": "2025-05-27 15:00:10",
+      "album": {
+        "name": "replica",
+        "url": "https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "duration_ms": 207486,
+      "name": "\u82b1\u5360\u3044",
+      "url": "https://open.spotify.com/track/4ETc1oFREuqQss7VQ1Y4mj"
     },
     {
       "added_at": "2025-05-27 15:00:10",
@@ -743,22 +759,6 @@
     {
       "added_at": "2025-05-27 15:00:10",
       "album": {
-        "name": "\u30bf\u30a4\u30e0\u30d1\u30e9\u30c9\u30c3\u30af\u30b9",
-        "url": "https://open.spotify.com/album/4cHdtiNVgGR80HprOsOdiK"
-      },
-      "artists": [
-        {
-          "name": "Vaundy",
-          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
-        }
-      ],
-      "duration_ms": 226557,
-      "name": "\u30bf\u30a4\u30e0\u30d1\u30e9\u30c9\u30c3\u30af\u30b9",
-      "url": "https://open.spotify.com/track/3jNwPOqdPvQIr5dRT0hzgY"
-    },
-    {
-      "added_at": "2025-05-27 15:00:10",
-      "album": {
         "name": "\u82b1",
         "url": "https://open.spotify.com/album/5ZV6rLgTmKi9xVJxLEPKcw"
       },
@@ -771,6 +771,22 @@
       "duration_ms": 246699,
       "name": "\u82b1",
       "url": "https://open.spotify.com/track/5RIQU2JDuXC4NkLiHNNMon"
+    },
+    {
+      "added_at": "2025-05-27 15:00:10",
+      "album": {
+        "name": "\u30bf\u30a4\u30e0\u30d1\u30e9\u30c9\u30c3\u30af\u30b9",
+        "url": "https://open.spotify.com/album/4cHdtiNVgGR80HprOsOdiK"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "duration_ms": 226557,
+      "name": "\u30bf\u30a4\u30e0\u30d1\u30e9\u30c9\u30c3\u30af\u30b9",
+      "url": "https://open.spotify.com/track/3jNwPOqdPvQIr5dRT0hzgY"
     },
     {
       "added_at": "2025-05-27 15:00:10",
@@ -803,22 +819,6 @@
       "duration_ms": 215853,
       "name": "\u6669\u9910\u6b4c - Bansanka",
       "url": "https://open.spotify.com/track/2cxcqKwQtfKq7giphxjzOu"
-    },
-    {
-      "added_at": "2025-05-27 15:00:10",
-      "album": {
-        "name": "\u30aa\u30ec\u30f3\u30b8",
-        "url": "https://open.spotify.com/album/4bpX1Wi81FjZ4d0GFlO1y3"
-      },
-      "artists": [
-        {
-          "name": "SPYAIR",
-          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
-        }
-      ],
-      "duration_ms": 235200,
-      "name": "\u30aa\u30ec\u30f3\u30b8",
-      "url": "https://open.spotify.com/track/6M6ZNRplLNspFEn6Ab3mOv"
     }
   ],
   "unique_name": "\u30b9\u30c8\u30ed\u30dc",

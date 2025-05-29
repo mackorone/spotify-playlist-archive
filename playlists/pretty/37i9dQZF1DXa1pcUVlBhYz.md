@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 
 > Electronic + Dance making waves, every month\. Cover: Kareem Ali
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,063 likes - 60 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,071 likes - 60 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 | 59 | [UNDER THE SKY](https://open.spotify.com/track/5O7jpP7uM5JUyq7NJwxH5p) | [CHAIME](https://open.spotify.com/artist/5ntCtEJfmuE4RPQyGyN7CB) | [UNDER THE SKY](https://open.spotify.com/album/6DaOzZ2WYJ0zGgt2FBvFO2) | 2:21 |
 | 60 | [LOOKING FOR JOY](https://open.spotify.com/track/5EqfKJSbG8yQBicX9YRMKu) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK) | [LOOKING FOR JOY](https://open.spotify.com/album/3wCt9lFevXlCjEugo5LPlV) | 2:48 |
 
-Snapshot ID: `aC/y3AAAAAD6BaKtwmkloICgystqKTHc`
+Snapshot ID: `aC/y3AAAAADpJs0HOKj3JoeFWeU4UAMj`

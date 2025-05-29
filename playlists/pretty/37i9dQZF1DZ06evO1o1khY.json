@@ -1,12 +1,12 @@
 {
   "description": "This is GloRilla. The essential tracks, all in one playlist.",
-  "num_followers": 37813,
+  "num_followers": 37861,
   "original_name": "This Is GloRilla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDOvAAAAAAAf/9+3+ylUks4fJEBUQ9wB",
+  "snapshot_id": "aDUAgAAAAACKP9/7NoJ++uLTxF9LPy8/",
   "tracks": [
     {
       "added_at": null,
@@ -371,30 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SPEAK NOW OR...",
-        "url": "https://open.spotify.com/album/3JfTxMny1oIZDmYcBnoHWT"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Big Boogie",
-          "url": "https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs"
-        }
-      ],
-      "duration_ms": 213524,
-      "name": "WYD (with GloRilla & Big Boogie)",
-      "url": "https://open.spotify.com/track/4Z3xZgvuCVn5ds2YdpZVaS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Never Need (feat. GloRilla & KARRAHBOOO)",
         "url": "https://open.spotify.com/album/00rWgbD4zkoJ9i9TOMcBAr"
       },
@@ -415,6 +391,30 @@
       "duration_ms": 179795,
       "name": "Never Need (feat. GloRilla & KARRAHBOOO)",
       "url": "https://open.spotify.com/track/2G2uOM1Jex8jtjt4Skqr2c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SPEAK NOW OR...",
+        "url": "https://open.spotify.com/album/3JfTxMny1oIZDmYcBnoHWT"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Big Boogie",
+          "url": "https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs"
+        }
+      ],
+      "duration_ms": 213524,
+      "name": "WYD (with GloRilla & Big Boogie)",
+      "url": "https://open.spotify.com/track/4Z3xZgvuCVn5ds2YdpZVaS"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: skuth, bac
 
-[Spotify](https://open.spotify.com/user/spotify) - 457,117 likes - 75 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 457,101 likes - 75 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Blumen aus Metall](https://open.spotify.com/track/67fg0iyO7n7neiV2zj8qJZ) | [Akryl](https://open.spotify.com/artist/37LWnyoq7uaCMLsnbbducU) | [Blumen aus Metall](https://open.spotify.com/album/5ruFbp1f7HBCdxHD8U0is2) | 3:26 |
 | 75 | [Bürgermeister von Altona](https://open.spotify.com/track/4xkRGsnjs6q8CFWVZDI3Yy) | [diamando](https://open.spotify.com/artist/3cz29L4q7oud1GnAccNTWk), [Urbannino](https://open.spotify.com/artist/4aZt5D61w5uaDQsvWxXC8T), [DeeLou](https://open.spotify.com/artist/0PKd9ULK3JUpTTB62AhZP7) | [Bürgermeister von Altona](https://open.spotify.com/album/2IcdHPQ5wEMqtjwnkhjMg1) | 2:18 |
 
-Snapshot ID: `AAAAADwsO0cMxq9TVl4xDjskjUXhlMQo`
+Snapshot ID: `aC+ejQAAAACvs1VMy8smVkSvPZ5Lkr/p`

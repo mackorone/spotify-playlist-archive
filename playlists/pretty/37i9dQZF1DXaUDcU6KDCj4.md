@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Amble
 
-[Spotify](https://open.spotify.com/user/spotify) - 850,554 likes - 151 songs - 9 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 850,562 likes - 151 songs - 9 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "The hottest Afropop records on the planet.  ",
-  "num_followers": 611943,
+  "num_followers": 612157,
   "original_name": "Afropop",
   "owner": {
     "name": "Spotify",
@@ -599,22 +599,6 @@
     {
       "added_at": "2025-04-25 00:59:12",
       "album": {
-        "name": "Money",
-        "url": "https://open.spotify.com/album/2HfRsmVTm9PFW7QDPoAtVj"
-      },
-      "artists": [
-        {
-          "name": "Teni",
-          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
-        }
-      ],
-      "duration_ms": 206080,
-      "name": "Money",
-      "url": "https://open.spotify.com/track/258dAAbHbmjEuxZCPT3YqC"
-    },
-    {
-      "added_at": "2025-04-25 00:59:12",
-      "album": {
         "name": "Yimmy Yimmy",
         "url": "https://open.spotify.com/album/4c7DjheRUBNo8aiN6Z6iWC"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 189015,
       "name": "American Love",
       "url": "https://open.spotify.com/track/5c1rWQAa8GX8LgCC9h3d1N"
+    },
+    {
+      "added_at": "2025-04-25 00:59:12",
+      "album": {
+        "name": "Money",
+        "url": "https://open.spotify.com/album/2HfRsmVTm9PFW7QDPoAtVj"
+      },
+      "artists": [
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        }
+      ],
+      "duration_ms": 206080,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/258dAAbHbmjEuxZCPT3YqC"
     },
     {
       "added_at": "2025-04-25 00:59:12",
@@ -1315,18 +1315,22 @@
     {
       "added_at": "2025-04-25 00:59:12",
       "album": {
-        "name": "OFA: Deluxe Edition",
-        "url": "https://open.spotify.com/album/5aV20I9N3dU2XvgBt6YaVB"
+        "name": "Hard Guy Confessions",
+        "url": "https://open.spotify.com/album/0W7BMO49kLcUma73fz8XZo"
       },
       "artists": [
         {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+          "name": "Johnny Drille",
+          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
+        },
+        {
+          "name": "Don Jazzy",
+          "url": "https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a"
         }
       ],
-      "duration_ms": 161351,
-      "name": "DOINGZ",
-      "url": "https://open.spotify.com/track/6RNP84XyE9eemCgWPVRni8"
+      "duration_ms": 234767,
+      "name": "Anyway",
+      "url": "https://open.spotify.com/track/5yJKvsK45OXwwx3NwgIYN6"
     }
   ],
   "unique_name": "Afropop",

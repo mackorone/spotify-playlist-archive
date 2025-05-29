@@ -4,7 +4,7 @@
 
 > Stormy en tête d'affiche de la playlist numéro 1 du rap marocain.
 
-389 songs - 20 hr 40 min
+390 songs - 20 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,6 +233,7 @@
 | [Molotov](https://open.spotify.com/track/6HJPnvA2dmuViqGx0bSxI0) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS), [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [RECTOVERSO](https://open.spotify.com/album/1PXz6YGt7KNq52crGuY9v9) | 3:33 | 2024-07-12 | 2024-08-02 |
 | [MON LOVE OHO](https://open.spotify.com/track/06l63fDOp1qRltZbA6r4nP) | [Liamsi](https://open.spotify.com/artist/3W0nbFHGRWfrVNVAsZN6rw) | [MON LOVE OHO](https://open.spotify.com/album/2WXMfQ0n7ETl8urYg80Xg9) | 2:19 | 2023-04-29 | 2023-05-13 |
 | [MON LOVE OHO](https://open.spotify.com/track/6PkKOTfky37pdi6e0nJcm4) | [Liamsi](https://open.spotify.com/artist/3W0nbFHGRWfrVNVAsZN6rw) | [MON LOVE OHO](https://open.spotify.com/album/3Kw0SPNrjAZ9fL1TtfsnL9) | 2:19 | 2023-04-09 | 2023-05-08 |
+| [Money Cash](https://open.spotify.com/track/37enI5HLEliszFasVgpjlz) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [2x1](https://open.spotify.com/album/5jVfTzpviF4GNj47qcrGbp) | 2:50 | 2025-05-28 |  |
 | [Moon](https://open.spotify.com/track/1kwCxlRJwYQvCS9VT9Gs53) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [Dracula](https://open.spotify.com/album/78xV80fjWA4rcJy68ciWjR) | 3:00 | 2024-12-26 |  |
 | [Mouja](https://open.spotify.com/track/1OSxhMqU071Ez0lQjBnA1W) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Mouja](https://open.spotify.com/album/40rCoqtbzgquAaQ40Z7NZw) | 3:15 | 2022-11-14 | 2023-06-14 |
 | [Moulaga](https://open.spotify.com/track/2s4eIt2bWj7xwcXEV7lQdG) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Moulaga](https://open.spotify.com/album/0OeZXdYEZcy5yWuC4oQLMt) | 2:52 | 2022-11-14 | 2023-12-08 |
@@ -303,7 +304,7 @@
 | [Salade Coco](https://open.spotify.com/track/71k5nrJuZcr9j3X0YIBwWh) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Salade Coco](https://open.spotify.com/album/2fktU7sGEJ5ocfANqVMe5M) | 2:47 | 2022-11-14 | 2022-12-13 |
 | [Sality Wla Ba91](https://open.spotify.com/track/6qEennteH7K9g4Lw1sb9Hn) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [Sality Wla Ba91](https://open.spotify.com/album/15pDNMHadZGbwQBwev9SwP) | 3:09 | 2024-10-02 | 2024-10-23 |
 | [San Siro](https://open.spotify.com/track/0WuTPXry9d1aV446dafoO1) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [San Siro](https://open.spotify.com/album/5QOytCFrVEvxxeR3zGsjfP) | 3:24 | 2024-04-26 | 2024-10-03 |
-| [San Siro](https://open.spotify.com/track/20CeXYgWoJdheBiI89QgcK) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [2x1](https://open.spotify.com/album/5jVfTzpviF4GNj47qcrGbp) | 3:24 | 2024-10-02 |  |
+| [San Siro](https://open.spotify.com/track/20CeXYgWoJdheBiI89QgcK) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [2x1](https://open.spotify.com/album/5jVfTzpviF4GNj47qcrGbp) | 3:24 | 2024-10-02 | 2025-05-29 |
 | [Sentiment](https://open.spotify.com/track/4Z1yWm77qsMwDmbbPqycFP) | [Marouane](https://open.spotify.com/artist/0NOPgjB8SLX44CDPTaW0Be) | [Sentiment](https://open.spotify.com/album/4qS1zPIIKk9rzThe4qtcFd) | 3:12 | 2023-02-26 | 2023-06-02 |
 | [Sherine Freestyle](https://open.spotify.com/track/4WqVVQdQJRFScttAyDsxiq) | [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [Bridge Life](https://open.spotify.com/album/5kzfldQGBcvYgzuWLZNH2N) | 2:44 | 2025-01-14 | 2025-04-13 |
 | [Shlag](https://open.spotify.com/track/5FyeA0EnhjpTT850pGeOUq) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [Dracula](https://open.spotify.com/album/78xV80fjWA4rcJy68ciWjR) | 2:59 | 2024-12-29 | 2025-04-13 |

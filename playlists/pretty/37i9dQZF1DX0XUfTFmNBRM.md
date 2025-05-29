@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUfTFmNBRM.md) - [plain]
 
 > Hottest Hindi music that India is listening to\. Cover \- Stree 2
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,695,629 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,696,930 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUfTFmNBRM.md) - [plain]
 | 49 | [O Beliya](https://open.spotify.com/track/2mdwuBtT1alepau9g6GwnC) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Out of Control](https://open.spotify.com/album/7bght7slNBH8AuYHdIlvYf) | 2:58 |
 | 50 | [Churake](https://open.spotify.com/track/5fJeJQBDLq1A6iNNX4spkO) | [Vilen](https://open.spotify.com/artist/5gVozagAcRKYCeAVnlC3Nk), [Kanika Kapoor](https://open.spotify.com/artist/6qcIg4IPLulyc03mWR87N8) | [Churake](https://open.spotify.com/album/2MLucaU6gmB5jePHKMFRAq) | 2:34 |
 
-Snapshot ID: `aC18uAAAAAADR1OXQws6kDyrLvrCL4BT`
+Snapshot ID: `AAAAAJFaa172xy6gP0rDY0cVjIKZLjZe`

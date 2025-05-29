@@ -2,7 +2,7 @@
 
 ### [Hallyu Boy Bands \(한류 보이 밴드\)](https://open.spotify.com/playlist/37i9dQZF1DX1gjl24GAQC0)
 
-> Is it your favorite oppa or dongsaeng? \(Cover: VANNER \(배너\)\) 당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
+> Is it your favorite oppa or dongsaeng? \(Cover: 엔플라잉 \(N.Flying\)\) 당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
 
 685 songs - 1 day 13 hr 41 min
 
@@ -33,7 +33,7 @@
 | [Again](https://open.spotify.com/track/3obitKwgSPRoPGqmWcHD13) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [The Best Album ‘Needle & Bubble’](https://open.spotify.com/album/5O8z5SrdPPz3gP2TS6viUu) | 3:26 | 2022-03-15 | 2022-04-11 |
 | [AH YEAH](https://open.spotify.com/track/2WDhYlm5gBepkMZHBk0LN7) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [WE](https://open.spotify.com/album/52epM8aF5xCLAtDwbGPeP2) | 2:56 | 2022-01-03 | 2022-04-09 |
 | [ALL FOR YOU](https://open.spotify.com/track/5nHD2GbiDHXc7PF0i3p64I) | [SECHSKIES](https://open.spotify.com/artist/6uRyNreOHUvWPNGnKfIo27) | [ALL FOR YOU](https://open.spotify.com/album/093T3GW8oztPbgt0y3WYLx) | 4:02 | 2022-03-30 | 2022-04-10 |
-| [All My Poetry](https://open.spotify.com/track/1qGihPwp76LainqxoRQ4Y0) | [CLOSE YOUR EYES](https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5) | [ETERNALT](https://open.spotify.com/album/5N8nzYvaqnls4UduaKAQjh) | 3:35 | 2025-04-03 |  |
+| [All My Poetry](https://open.spotify.com/track/1qGihPwp76LainqxoRQ4Y0) | [CLOSE YOUR EYES](https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5) | [ETERNALT](https://open.spotify.com/album/5N8nzYvaqnls4UduaKAQjh) | 3:35 | 2025-04-03 | 2025-05-29 |
 | [Alligator](https://open.spotify.com/track/2pmbxzWBNM6j5p9CQH32f1) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Take.2 We Are Here.](https://open.spotify.com/album/2zLSiu6FFxav0kHP2mUUzM) | 3:12 | 2022-04-04 | 2022-04-21 |
 | [Alone](https://open.spotify.com/track/7qrpkyFfaglH9BfYbppZPH) | [Highlight](https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr) | [AFTER SUNSET](https://open.spotify.com/album/2aK1LDHsWJUECfRFCgHdyM) | 3:03 | 2022-11-07 | 2022-12-22 |
 | [Always](https://open.spotify.com/track/6bLZ6JV1mAGz4xfS1ZwOMV) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [Always](https://open.spotify.com/album/0kwAgLzLnzQxaKcdubyaMh) | 3:06 | 2022-02-24 | 2022-07-29 |
@@ -262,7 +262,7 @@
 | [Graduation Day](https://open.spotify.com/track/1vvewlmtfPsBxEAA1UIXPw) | [EPEX](https://open.spotify.com/artist/4e2umhzNHTSeQnSCWPN0uT) | [Graduation Day](https://open.spotify.com/album/57g5zmujXL2trR2lzBAe5e) | 3:14 | 2024-02-05 | 2024-02-27 |
 | [Gravity](https://open.spotify.com/track/4HgkahWUngIceLYNV1djsr) | [TREI](https://open.spotify.com/artist/2olRUnJBxMWrHpShDSwYoe) | [BORN](https://open.spotify.com/album/4yFUqAksHb5fEogC57WDxP) | 3:12 | 2022-03-31 | 2022-04-10 |
 | [Groovy](https://open.spotify.com/track/7I2ue60s8PvCbc1Oovt5ph) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [MASTER : PIECE](https://open.spotify.com/album/6vlYZzNPs1SCafyLKbmUrC) | 3:22 | 2023-03-06 | 2023-04-01 |
-| [Guerrilla](https://open.spotify.com/track/0tYZo2UhV1lrUez5CA0Iyw) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.1 : MOVEMENT](https://open.spotify.com/album/3fgDrbflffzvV3H3plG9e6) | 3:27 | 2022-08-03 | 2025-05-27 |
+| [Guerrilla](https://open.spotify.com/track/0tYZo2UhV1lrUez5CA0Iyw) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.1 : MOVEMENT](https://open.spotify.com/album/3fgDrbflffzvV3H3plG9e6) | 3:27 | 2022-08-03 |  |
 | [H! TEEN](https://open.spotify.com/track/1hYMSd05OHbOSjQ3aWh0g4) | [The Wind](https://open.spotify.com/artist/3q4h0WRGyR0Qcx88vwyzkd) | [Our : YouthTeen](https://open.spotify.com/album/6oYjYDCYOXcPUBc7nk9Gto) | 2:59 | 2024-02-14 | 2024-02-27 |
 | [HALAZIA](https://open.spotify.com/track/5cTnKClHyczcUhFT8MKBZe) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [SPIN OFF : FROM THE WITNESS](https://open.spotify.com/album/0NQQk6vo9LOOwKjZc2iUwm) | 3:17 | 2023-01-03 | 2024-04-19 |
 | [Happy &](https://open.spotify.com/track/4BSI3iOdmxln8gOjatYJhD) | [n.SSign](https://open.spotify.com/artist/3IHvi45S5SITyNES9VzSjI) | [n.SSign 2nd MINI ALBUM 'Happy &'](https://open.spotify.com/album/0zeyYNgBaggs3d0AT8lGO4) | 3:09 | 2024-02-26 | 2024-03-06 |

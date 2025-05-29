@@ -4,7 +4,7 @@
 
 > This is Playboi Carti\. The essential tracks, all in one playlist.
 
-43 songs - 2 hr 9 min
+44 songs - 2 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Over](https://open.spotify.com/track/08dz3ygXyFur6bL7Au8u8J) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 2:46 | 2025-03-16 |  |
 | [Pain 1993 \(with Playboi Carti\)](https://open.spotify.com/track/6Kj17Afjo1OKJYpf5VzCeo) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Dark Lane Demo Tapes](https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK) | 2:29 | 2025-03-16 |  |
 | [PHILLY \(with Travis Scott\)](https://open.spotify.com/track/5SIvP6TdWc9DNvKbENjnYc) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:05 | 2025-03-16 |  |
+| [Place](https://open.spotify.com/track/1Bg2CNZw6S4e9cGWPmi0uI) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 1:57 | 2025-05-29 |  |
 | [Popular \(with Playboi Carti & Madonna\) \- From The Idol Vol\. 1 \(Music from the HBO Original Series\)](https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Popular \(Music from the HBO Original Series\)](https://open.spotify.com/album/5O0zUvdnJr0RbWzLFneN2i) | 3:35 | 2025-03-16 |  |
 | [R.I.P.](https://open.spotify.com/track/3L0IKstjUgDFVQAbQIRZRv) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Die Lit](https://open.spotify.com/album/7dAm8ShwJLFm9SaJ6Yc58O) | 3:12 | 2025-03-16 |  |
 | [RADAR](https://open.spotify.com/track/3lAEHk0eZzMKtCUFLXz8Ln) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 1:47 | 2025-03-16 | 2025-03-23 |

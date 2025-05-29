@@ -4,7 +4,7 @@
 
 > A mix of the best modern Deathcore tracks\. Cover: Shadow of Intent
 
-658 songs - 1 day 18 hr 37 min
+659 songs - 1 day 18 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -528,6 +528,7 @@
 | [So Much for Love](https://open.spotify.com/track/0DGdIxB7uUIgmyRvSmt3HO) | [Xile](https://open.spotify.com/artist/0CzR5dQOy1y5niJZXGype3) | [I Am Your God](https://open.spotify.com/album/2YhFaHQr1Li7hVHGsOzEVw) | 2:55 | 2022-01-14 | 2022-06-25 |
 | [Solace and Serenity](https://open.spotify.com/track/54a1FNgetgOdZEsD6PlO6s) | [The Acacia Strain](https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs) | [E](https://open.spotify.com/album/7FXcpxnTHupS7uwEc8S5uC) | 4:37 | 2021-12-17 | 2024-10-19 |
 | [Solace and Serenity](https://open.spotify.com/track/6wvQHYHz8bqkIDSSE23eyM) | [The Acacia Strain](https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs) | [Slow Decay](https://open.spotify.com/album/1kHaQkPY41hT6N6espwLdn) | 4:37 | 2023-08-16 | 2024-04-19 |
+| [Song 3](https://open.spotify.com/track/7eDUTBIo76AMC5UYqkkzDL) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m) | [Song 3](https://open.spotify.com/album/0Cxa2LwLEBIpVglPWwiias) | 3:34 | 2025-05-23 |  |
 | [Song of Courage](https://open.spotify.com/track/08MoIG52suSMunVtYB4rs8) | [Walking Dead On Broadway](https://open.spotify.com/artist/3kpSjBJ7SSuQ4rzdieCWSb) | [Song of Courage](https://open.spotify.com/album/4NsOIiejj3z08OrDKnjl4o) | 4:51 | 2022-01-28 | 2022-04-09 |
 | [Sort Sommer](https://open.spotify.com/track/4XqiGdFGZ88BXhNGovcUwb) | [CABAL](https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO), [FABRÄK](https://open.spotify.com/artist/1EhjKyONmOvWHQuGANLcU8) | [Sort Sommer](https://open.spotify.com/album/5jdUeAqwzHL2EoscFAUeJN) | 2:52 | 2024-06-25 | 2024-08-24 |
 | [Soul Drift](https://open.spotify.com/track/2bVg5VVZvE7fAEwse71wRw) | [The Browning](https://open.spotify.com/artist/4DSNcg40nf6T3eNAObq1Lo) | [Soul Drift](https://open.spotify.com/album/0cyRaMB5eKaw3y0IKkmdtF) | 2:47 | 2024-10-18 | 2025-03-15 |

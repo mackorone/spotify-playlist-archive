@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: Reneé Rapp
 
-[Spotify](https://open.spotify.com/user/spotify) - 898,636 likes - 40 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 898,671 likes - 40 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 | 28 | [Big city life](https://open.spotify.com/track/02DduZyB33c2EpkSx2Zr4C) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Big city life](https://open.spotify.com/album/6C14WjZp4TYn9AXkhdx5Qd) | 2:08 |
 | 29 | [Expiration Dating](https://open.spotify.com/track/4RY8NabvRv6Y95x96asZbr) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [Expiration Dating](https://open.spotify.com/album/6FFDFr43db7FFvrpOT6xAg) | 3:00 |
 | 30 | [Violent Nature](https://open.spotify.com/track/4wG1qk65XGBixayITnktbO) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Violent Nature](https://open.spotify.com/album/0NpIXEaW7ekAxVqOJ8GmAe) | 2:10 |
-| 31 | [HOLLYWOOD \- feat\. Shoreline Mafia](https://open.spotify.com/track/0uAmR0yTDNAaXA5jPGOrir) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ) | [HOLLYWOOD \(feat\. Shoreline Mafia\)](https://open.spotify.com/album/0pg3WtuKm4GlckMugbml46) | 3:00 |
+| 31 | [HOLLYWOOD](https://open.spotify.com/track/0uAmR0yTDNAaXA5jPGOrir) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ) | [HOLLYWOOD](https://open.spotify.com/album/0pg3WtuKm4GlckMugbml46) | 3:00 |
 | 32 | [Dads Don't Die](https://open.spotify.com/track/0GSGiPdXx7y29uMYjW17Xw) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Dads Don't Die](https://open.spotify.com/album/3o92h5pPmdj8EaCBkORE3C) | 3:29 |
 | 33 | [GoROUND](https://open.spotify.com/track/4YtuYDR319Xp5GsguDOMcw) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [GoROUND](https://open.spotify.com/album/4sCHp2XDbooZoty8Hq4foY) | 2:01 |
 | 34 | [Super Love Me](https://open.spotify.com/track/5l3Qcbmd6fCmMIgA50eAJH) | [Grace Davies](https://open.spotify.com/artist/55VbVrjmAWcvCknVFfPzvK) | [Super Love Me](https://open.spotify.com/album/6C2W7lY57Nhm01DDjXMJxa) | 4:26 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 | 39 | [Fuck Off](https://open.spotify.com/track/52L8TAHmnao8FWoMiOj9hZ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Saviors \(édition de luxe\)](https://open.spotify.com/album/6j1TdmSs8ROkx7pDBwSJrO) | 2:03 |
 | 40 | [Turquoise Cowboy](https://open.spotify.com/track/4LifLPjq01uBbFF0yKTrzU) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Turquoise Cowboy](https://open.spotify.com/album/1JMzzKhYbJcYNQ3VKC0lpw) | 3:16 |
 
-Snapshot ID: `aDY07gAAAAAZcUEEogI84X8Qz47GfFKh`
+Snapshot ID: `AAAAAG2Q7T+QpY9e0fHLsEzWYjXvR5nu`

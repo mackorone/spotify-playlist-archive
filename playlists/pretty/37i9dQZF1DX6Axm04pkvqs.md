@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Axm04pkvqs.md) - [plain]
 
 > When my mouth has no words, let my spirit sing
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,322 likes - 80 songs - 11 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,425 likes - 80 songs - 11 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,14 +75,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Axm04pkvqs.md) - [plain]
 | 65 | [Holy Ghost](https://open.spotify.com/track/62iIcfToRxBNTZ1qstamVC) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [Man Of Galilee](https://open.spotify.com/album/6w4tBana90AXVJOxcNHdHv) | 5:23 |
 | 66 | [Eze Mmuo](https://open.spotify.com/track/4Ja1oWQdJqXZ35ZZ1GAdua) | [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa) | [Eze Mmuo](https://open.spotify.com/album/6HYR6TCB7BypDFHryf87Kn) | 5:33 |
 | 67 | [You Cover Me](https://open.spotify.com/track/37JvyLbD2sZqJb0xVYE80U) | [Abbey Ojomu](https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM) | [You Cover Me](https://open.spotify.com/album/3MpNFst8nlIyBLSt17ErjT) | 17:58 |
-| 68 | [At All Cost](https://open.spotify.com/track/6GwE4OioGK8oOaC8nKJffy) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Gospel of the Kingdom](https://open.spotify.com/album/25YIWvGm47WqKctz8k76r5) | 8:56 |
-| 69 | [Fire](https://open.spotify.com/track/6HGO5S83wWMNxszS28zx8x) | [Siisi Baidoo](https://open.spotify.com/artist/1x9IbDcuMszbQzU8tposjZ), [Theophilus Sunday](https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6), [Sandra Boakye Duah](https://open.spotify.com/artist/1z6oSSdmYsJgwFjI7Br1A0) | [Revelation Album](https://open.spotify.com/album/3UfVHu4IjvLbkyVljDTNy4) | 9:55 |
+| 68 | [Fire](https://open.spotify.com/track/6HGO5S83wWMNxszS28zx8x) | [Siisi Baidoo](https://open.spotify.com/artist/1x9IbDcuMszbQzU8tposjZ), [Theophilus Sunday](https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6), [Sandra Boakye Duah](https://open.spotify.com/artist/1z6oSSdmYsJgwFjI7Br1A0) | [Revelation Album](https://open.spotify.com/album/3UfVHu4IjvLbkyVljDTNy4) | 9:55 |
+| 69 | [At All Cost](https://open.spotify.com/track/6GwE4OioGK8oOaC8nKJffy) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Gospel of the Kingdom](https://open.spotify.com/album/25YIWvGm47WqKctz8k76r5) | 8:56 |
 | 70 | [There Is Prophecy over Me \(Prayer Instrumental Music\)](https://open.spotify.com/track/70ULbNpGcjEJRjeqJZAiEm) | [Ucious Music](https://open.spotify.com/artist/04SC030qxHLFoyyug9Pawa) | [There Is Prophecy over Me \(Prayer Instrumental Music\)](https://open.spotify.com/album/3P98nKARTr1d2OA5QxEv97) | 14:59 |
 | 71 | [Awake](https://open.spotify.com/track/70GaF6ifYZpt4i2IQNfw2y) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J), [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4), [121 Selah](https://open.spotify.com/artist/0FjCYT4l6k77uJhK7arnh5) | [We Are Fire](https://open.spotify.com/album/1MBjBNMOTSu2ikfJlt3SIY) | 6:20 |
-| 72 | [Hallelujah Chant \(Ruach Hakodesh\)](https://open.spotify.com/track/39sTVazPHh5IB8SdWNgLha) | [Noble G](https://open.spotify.com/artist/5QMR3QbX1ufqYCWPsphyUm), [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4) | [Hallelujah Chant](https://open.spotify.com/album/6wWdwa33ovvntJ35BADYRv) | 4:55 |
+| 72 | [Ghana Chant](https://open.spotify.com/track/6SDSUyyEbsjFHEccLh0Mw4) | [Team Eternity Ghana](https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz) | [Testimony](https://open.spotify.com/album/3bWaysoTLDOIuvVh9JxR69) | 13:21 |
 | 73 | [The Conqueror’s Chant \(Agalliao\)](https://open.spotify.com/track/0INx5pqvfPfD9ZkqsOaM03) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [The Conqueror’s Chant \(Agalliao\)](https://open.spotify.com/album/35thPiCxJtZayMsEV1Resj) | 8:44 |
-| 74 | [Ghana Chant](https://open.spotify.com/track/6SDSUyyEbsjFHEccLh0Mw4) | [Team Eternity Ghana](https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz) | [Testimony](https://open.spotify.com/album/3bWaysoTLDOIuvVh9JxR69) | 13:21 |
-| 75 | [I'm Available \(Prayer Chant\)](https://open.spotify.com/track/0ANipW0kAZ1RIocfpL1u4u) | [Praiz Singz](https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h) | [Strings of Glory \(Prayer Chant\)](https://open.spotify.com/album/1PkBEhb3H8N3P8a9WPrRWb) | 5:20 |
+| 74 | [I'm Available \(Prayer Chant\)](https://open.spotify.com/track/0ANipW0kAZ1RIocfpL1u4u) | [Praiz Singz](https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h) | [Strings of Glory \(Prayer Chant\)](https://open.spotify.com/album/1PkBEhb3H8N3P8a9WPrRWb) | 5:20 |
+| 75 | [Hallelujah Chant \(Ruach Hakodesh\)](https://open.spotify.com/track/39sTVazPHh5IB8SdWNgLha) | [Noble G](https://open.spotify.com/artist/5QMR3QbX1ufqYCWPsphyUm), [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4) | [Hallelujah Chant](https://open.spotify.com/album/6wWdwa33ovvntJ35BADYRv) | 4:55 |
 | 76 | [Holyghost](https://open.spotify.com/track/5DK8nQppYFosgt9BspPeT6) | [Abbey Ojomu](https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM) | [Holyghost](https://open.spotify.com/album/0auDRLR3Nv8Mv3E953UYZQ) | 5:42 |
 | 77 | [Let Me Want What You Want](https://open.spotify.com/track/78QThdGhUVsZVq1ieC2Wm8) | [The Paul\-Enenche Family](https://open.spotify.com/artist/2L3tUlLwhfO1RkbdxmX6bT) | [Let Me Want What You Want](https://open.spotify.com/album/3AKHczXx1uCi5gyMYUAk2Q) | 8:03 |
 | 78 | [Iwo Loba\(Chant\)](https://open.spotify.com/track/7DWMCsJ0Vb7Dx3Q1Zr2y7I) | [Hugo David](https://open.spotify.com/artist/5msx4pkfuvJyauwGcRWQeo) | [Tongues and Melodies](https://open.spotify.com/album/4KKbio6RtPiANVNYFAQwnK) | 2:14 |

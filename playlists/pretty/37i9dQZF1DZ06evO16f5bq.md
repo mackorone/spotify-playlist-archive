@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO16f5bq.md) - [plain]
 
 > This is MC Cabelinho\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,234 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,247 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO16f5bq.md) - [plain]
 | 30 | [garrafa vazia](https://open.spotify.com/track/4VNAAEN2euoyl7N8E3QSph) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [Não Sou Santo Mas Não Sou Bandido](https://open.spotify.com/album/0SLQorSjD7PmKDMcP9H9ml) | 3:54 |
 | 31 | [Dinheiro e Putaria](https://open.spotify.com/track/3MGYvpoNOH3Tv5DywjJ0wA) | [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [Nova Moda](https://open.spotify.com/album/3Ne8Jl7YiQmCM4S4FdBBhN) | 3:13 |
 | 32 | [BEM MELHOR](https://open.spotify.com/track/7aOBf2xYbux3bo1fwISo6b) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Palma](https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp) | [LITTLE LOVE \(DELUXE\)](https://open.spotify.com/album/63yWnhCdUQQBhtQFGM108I) | 5:17 |
-| 33 | [NA ONDA](https://open.spotify.com/track/4IavDOfEOKg8zzdfCx9TmJ) | [MC Maneirinho](https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [AJ Wav](https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8) | [MUITA ONDA](https://open.spotify.com/album/2WMPOyfjd59nxbXmLlo4n4) | 2:30 |
-| 34 | [Química](https://open.spotify.com/track/5RTtCd89bpX4lSRaYgKd8r) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [Química](https://open.spotify.com/album/6RWsT169HF4eb8C3FqFOMB) | 2:33 |
+| 33 | [Química](https://open.spotify.com/track/5RTtCd89bpX4lSRaYgKd8r) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [Química](https://open.spotify.com/album/6RWsT169HF4eb8C3FqFOMB) | 2:33 |
+| 34 | [NA ONDA](https://open.spotify.com/track/4IavDOfEOKg8zzdfCx9TmJ) | [MC Maneirinho](https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [AJ Wav](https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8) | [MUITA ONDA](https://open.spotify.com/album/2WMPOyfjd59nxbXmLlo4n4) | 2:30 |
 | 35 | [A Cara do Crime 4 \(Acendo a Flor\)](https://open.spotify.com/track/77VEEXFqs8GlKhT1lWHcsE) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Bielzin](https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Portugal No Beat](https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q) | [A Cara do Crime 4 \(Acendo a Flor\)](https://open.spotify.com/album/1wfZi9HzzLz2IoXjt7UVC6) | 5:08 |
 | 36 | [ngm é perfeito](https://open.spotify.com/track/48s5RykIHKyvbE04ejMxH1) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Mc Safira](https://open.spotify.com/artist/3sypukBvk2y3ozQW63b3HO) | [Não Sou Santo Mas Não Sou Bandido](https://open.spotify.com/album/0SLQorSjD7PmKDMcP9H9ml) | 3:31 |
 | 37 | [Carro Forte](https://open.spotify.com/track/1TL33F4bcT9fZPSqvUbFV5) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Dono das Esquinas](https://open.spotify.com/album/1A0a8bYGqm5tC4vgSnvDmK) | 4:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO16f5bq.md) - [plain]
 | 49 | [Saudade](https://open.spotify.com/track/3lbkPMBvM2hmgx4nDqLqvb) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Djay W](https://open.spotify.com/artist/5nkzLizeD93QtabjeK4oyl) | [Ainda](https://open.spotify.com/album/2YEX8OaLPGDd1SjhIipLjS) | 3:27 |
 | 50 | [Até o céu](https://open.spotify.com/track/0NRP5OIrTcgGvttJlSLO0n) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [Até o céu](https://open.spotify.com/album/713q68xdmP3jOgkAdY0gd4) | 2:46 |
 
-Snapshot ID: `aDOvAAAAAAC0UeWrltHaFKwzThDWRGIP`
+Snapshot ID: `aDUAgAAAAADciU0VEFfgj4aEf+2j5WsY`

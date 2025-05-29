@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Celebrating 10 years of fresh releases from your future favorite artists\. Cover: It All Started In May Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,112 likes - 99 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,125 likes - 99 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 98 | [Pansamantala](https://open.spotify.com/track/79RGh1DtmU0KlgJzKnO2qe) | [Tenten Abella](https://open.spotify.com/artist/346gLH8G5r1FWVN2kit3do), [Nathan Abella](https://open.spotify.com/artist/6rM3ctCLVJRX0tHwLXn0lw) | [Pansamantala](https://open.spotify.com/album/5j0KQLMSb7ETzE4vGlajT0) | 2:48 |
 | 99 | [Ikaw Lamang](https://open.spotify.com/track/4dgtdxkDwu59CKRPBSgBZf) | [Jeffrey Querubin](https://open.spotify.com/artist/6af6ThbIjS7M2ahGkrnukn) | [Ikaw Lamang](https://open.spotify.com/album/06jiIRH4Gi5ZyYLH6S7pV6) | 3:43 |
 
-Snapshot ID: `AAAAABHs5dTXOpT3f2j7ZqwHUSo7LB89`
+Snapshot ID: `aC9KIQAAAAAMbxqUmzJLDjEUVFYbb3Nx`

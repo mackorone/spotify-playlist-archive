@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 
 > 100% ska en español\. Camiseta 22 y Los Miserables en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 480,091 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 480,114 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 | 82 | [Que Se Joda el Amor](https://open.spotify.com/track/1V8NAzFN4MsVo1mOcHOOYO) | [Los De Abajo](https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW) | [Que Se Joda el Amor](https://open.spotify.com/album/0zOcy4urH5uwcHuvpGhDSt) | 2:31 |
 | 83 | [El Túnel Del Amor](https://open.spotify.com/track/11iCxKAxXLyMUmO5044LV9) | [Victimas Del Doctor Cerebro](https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [El Túnel Del Amor](https://open.spotify.com/album/5uAPjTGzfaJhsSAs79kzEQ) | 3:42 |
 | 84 | [Un Amor Violento](https://open.spotify.com/track/3NX364scO2GnsYW0ux81Pc) | [The Skatalites](https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb), [Alvaro Henriquez](https://open.spotify.com/artist/45H7NFSk6h7YyYP6BiB3EP) | [Un Amor Violento](https://open.spotify.com/album/6GNEPdeN4MKdGwVKnMwnC1) | 4:49 |
-| 85 | [Rey de la Calumnia](https://open.spotify.com/track/7mjKUNtRa7OZ6FmEySByuS) | [La Tremenda Korte](https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt) | [Rey de la Calumnia](https://open.spotify.com/album/7umIHVzwovYGCXrb1iwNB2) | 3:03 |
-| 86 | [Siente El Movimiento](https://open.spotify.com/track/1fzfB7aBWRIYBHVRD19Lp3) | [La Santísima Voladora](https://open.spotify.com/artist/4gRK50jqC4k8yGS2aEG2F0) | [Siente El Movimiento](https://open.spotify.com/album/10UTgoc7mdWI0YRpNq5MTC) | 3:06 |
+| 85 | [Siente El Movimiento](https://open.spotify.com/track/1fzfB7aBWRIYBHVRD19Lp3) | [La Santísima Voladora](https://open.spotify.com/artist/4gRK50jqC4k8yGS2aEG2F0) | [Siente El Movimiento](https://open.spotify.com/album/10UTgoc7mdWI0YRpNq5MTC) | 3:06 |
+| 86 | [Rey de la Calumnia](https://open.spotify.com/track/7mjKUNtRa7OZ6FmEySByuS) | [La Tremenda Korte](https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt) | [Rey de la Calumnia](https://open.spotify.com/album/7umIHVzwovYGCXrb1iwNB2) | 3:03 |
 | 87 | [Criminales Sudamericanos](https://open.spotify.com/track/1DzEPtqVgNL85O0mwtOAk4) | [Los Intocables](https://open.spotify.com/artist/1DVzzjpINLQBDKIF4FRPrD) | [Antihéroes](https://open.spotify.com/album/6VLbykpS9CuA5RE03ab8yd) | 3:19 |
 | 88 | [La Caída y la Gloria](https://open.spotify.com/track/5A1tWza8ztAzZSgvhZzdXe) | [Los Victorios](https://open.spotify.com/artist/0lUm3jq72pD9UrZJN0h0aj) | [5 Años Con Sabor a 20](https://open.spotify.com/album/7yOMgXnagrpEyIkKyyEHIY) | 2:17 |
 | 89 | [Paz y Baile](https://open.spotify.com/track/2eSYkbxRBkfJTm8ILlnB9P) | [Roco Pachukote](https://open.spotify.com/artist/2ODbtFkjehgsWGLhybegVA), [Flavio Cianciarulo](https://open.spotify.com/artist/07blDpyF58EXFIgZtIS3H3) | [Paz y Baile](https://open.spotify.com/album/3QInNg3IGdnIn8NaSwuUOr) | 3:38 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 | 96 | [Todo Crazy](https://open.spotify.com/track/00xO4aLAM1baaX7HX3y1Dw) | [Gallo Rojo](https://open.spotify.com/artist/5snI6175hjbf6Du8Z2E5Mk), [Triciclo Circus Band](https://open.spotify.com/artist/6Kkbu7QNMwiSeQxTJ8hFZt) | [Todo Crazy](https://open.spotify.com/album/1xwLD4K1UR04tqUKcAYy9a) | 2:55 |
 | 97 | [Virgen de la Merced](https://open.spotify.com/track/74QCc0AxmtLL10CRqVc2Y7) | [Los De Abajo](https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW), [Big Javy](https://open.spotify.com/artist/2ZOu3MoZXWcJjQLedo40Xp) | [Revolución Ska](https://open.spotify.com/album/2RAOafSouYFgyEKRzUQala) | 4:03 |
 | 98 | [Todo Algún Día Termina](https://open.spotify.com/track/45YYcOVAIAFxGV0kR4pMq0) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx) | [Todo Algún Día Termina](https://open.spotify.com/album/6ee0nmx2mLFnanzvX32pSK) | 4:08 |
-| 99 | [La Bacha](https://open.spotify.com/track/0uoCp44J9zDIp0YiU3Q9Gu) | [Adhesivo](https://open.spotify.com/artist/3G09ejwK6mqyGaWXDF1w6n) | [La Bacha](https://open.spotify.com/album/2g2F7xOQIfylKxoT2sA4Xw) | 3:16 |
-| 100 | [Mucho Mejor](https://open.spotify.com/track/74hKdpN6CifwRlsg5VItCX) | [Bombai](https://open.spotify.com/artist/4sbKCRFKQ8sAUn1pWR5iKZ), [La Pegatina](https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK) | [Mucho Mejor](https://open.spotify.com/album/53KzF0G9feWSiJ76Psj3LE) | 2:55 |
+| 99 | [Mucho Mejor](https://open.spotify.com/track/74hKdpN6CifwRlsg5VItCX) | [Bombai](https://open.spotify.com/artist/4sbKCRFKQ8sAUn1pWR5iKZ), [La Pegatina](https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK) | [Mucho Mejor](https://open.spotify.com/album/53KzF0G9feWSiJ76Psj3LE) | 2:55 |
+| 100 | [La Bacha](https://open.spotify.com/track/0uoCp44J9zDIp0YiU3Q9Gu) | [Adhesivo](https://open.spotify.com/artist/3G09ejwK6mqyGaWXDF1w6n) | [La Bacha](https://open.spotify.com/album/2g2F7xOQIfylKxoT2sA4Xw) | 3:16 |
 
 Snapshot ID: `Z+91cwAAAACPNM1WHeYYeYXN2akekW0o`

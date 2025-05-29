@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEXNUSgdc3s.md) - [plain]
 
 > Alpha frequencies to reach the point of ultimate relaxation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,371 likes - 91 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,409 likes - 91 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEXNUSgdc3s.md) - [plain]
 | 90 | [Binaural Alpha Sinus 220 Hz \- L 230 Hz \- R](https://open.spotify.com/track/4yZW295RhtI2vdjNtDpLhb) | [Dramadoria](https://open.spotify.com/artist/7g1qKEMGMmdNxwndbNylbD) | [Binaural Alpha Sinus 220 Hz \- L 230 Hz \- R](https://open.spotify.com/album/5WsQeQf7nbbnqaHpw84MaQ) | 2:36 |
 | 91 | [Binaural Alpha Sinus 100 Hz \- 108 Hz](https://open.spotify.com/track/4m9mcrSgs6uJk8ddws1Yz7) | [Vorssenn](https://open.spotify.com/artist/0V8dBTheanSubEjlU0dlvf) | [Alpha 8\-14 Hz Drones](https://open.spotify.com/album/1xvR00hIQDx1fiAQtoMHfI) | 3:26 |
 
-Snapshot ID: `aAj2hwAAAADXcNBUmcY38iBOQN11Auac`
+Snapshot ID: `aDcbuAAAAAB4t8yTnEqM2PUnpAySvxjU`

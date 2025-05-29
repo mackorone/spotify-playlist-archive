@@ -1,12 +1,12 @@
 {
   "description": "This is Inspector. The essential tracks, all in one playlist.",
-  "num_followers": 117604,
+  "num_followers": 117641,
   "original_name": "This Is Inspector",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDOvAAAAAABXAh5i2z0+tL8PlGub25bo",
+  "snapshot_id": "aDUAgAAAAABxyOXDze55HIZIp1Ym+aXg",
   "tracks": [
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inspector",
-        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 223146,
-      "name": "Besame Mucho",
-      "url": "https://open.spotify.com/track/4XMGgtLvkOOfNzS3PNcsvY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amar o Morir",
         "url": "https://open.spotify.com/album/2q4m9TbU7rnvsC3thQ004u"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 252266,
       "name": "Brindo por ti",
       "url": "https://open.spotify.com/track/4T2O4SWChk3uKN8Tvyxzic"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inspector",
+        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 223146,
+      "name": "Besame Mucho",
+      "url": "https://open.spotify.com/track/4XMGgtLvkOOfNzS3PNcsvY"
     },
     {
       "added_at": null,
@@ -783,6 +783,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Serpientes Y Escaleras",
+        "url": "https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 267333,
+      "name": "Te Falt\u00f3 Coraz\u00f3n - Versi\u00f3n Bolero",
+      "url": "https://open.spotify.com/track/77ugG1dWbDv980I5J0IEzY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Luna (Sonando Desde El Auditorio Nacional)",
         "url": "https://open.spotify.com/album/554mV2o4xXe18Z8WPvNQnW"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 154897,
       "name": "Ara\u00f1a Ska",
       "url": "https://open.spotify.com/track/6oseawKMHtK8WzEy0mcsUI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Serpientes Y Escaleras",
-        "url": "https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 267333,
-      "name": "Te Falt\u00f3 Coraz\u00f3n - Versi\u00f3n Bolero",
-      "url": "https://open.spotify.com/track/77ugG1dWbDv980I5J0IEzY"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EUcyVKIE73.md) - [plain]
 
 > Selections of North Indian classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,900 likes - 50 songs - 13 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,922 likes - 50 songs - 13 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EUcyVKIE73.md) - [plain]
 | 17 | [Komal Rishabh Asavari \- Jhaptaal](https://open.spotify.com/track/3j01dFrZ4yHMlwBwXDbc7d) | [Nayan Ghosh](https://open.spotify.com/artist/5kk5TShwoM4mlhJWFqGeCF), [Ishaan Ghosh](https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL) | [Synergy](https://open.spotify.com/album/4SnossBXBAwj2DtVPNH2jt) | 13:55 |
 | 18 | [Raga Shuddh Kalyan](https://open.spotify.com/track/61OYo9t6Pq8U9uLRgGNulT) | [Kaushiki Chakrabarty, Yogesh Samsi, Brajeshwar Mukherjee, Yogesh Dutt](https://open.spotify.com/artist/0MmJO9ML6eMRRUUWsJf5oQ) | [Swar Sadhna](https://open.spotify.com/album/303Pkb83Anu8cMovTksOen) | 35:12 |
 | 19 | [Dheer Kaise: Raag Bageshri \(Drut Ektaal\)](https://open.spotify.com/track/5xmT8n8OpkGzuYe7Tp111F) | [Ronkini Gupta](https://open.spotify.com/artist/1cWzyBPa1R7sKifsDKhkz4) | [Dheer Kaise: Raag Bageshri \(Drut Ektaal\)](https://open.spotify.com/album/3tMVOSJYaRu0yIv6kGHaRB) | 7:29 |
-| 20 | [Chandrakaush Alap](https://open.spotify.com/track/4hrp2BLqRV6XO2oOp5IVeY) | [Nikhil Banerjee](https://open.spotify.com/artist/7ieM2QOG3mf89WSTAfGvu1) | [Chandrakaush Khamaj 1967](https://open.spotify.com/album/4fY7XyZhcMPXyqXo5FOkh7) | 20:24 |
-| 21 | [Jadoo Bharey Torey Nain](https://open.spotify.com/track/5eCIqqupfqS0o6zzbIQbDo) | [Lakshmi Shankar, Aneesh Pradhan](https://open.spotify.com/artist/3C4TFbL0xDifxWQv1Xkq0I) | [Shringar: The Many Moods of Love \- Volume 3](https://open.spotify.com/album/61cPFAeHlRQz4lQFIBZ1zr) | 12:44 |
-| 22 | [Rag Marwa, Part 2](https://open.spotify.com/track/6827uN6sw0pHEQe9R2Jzcm) | [Ali Akbar Khan](https://open.spotify.com/artist/2GUxWjR8cNgljddVLEp72u) | [Signature Series, Vol\. 3](https://open.spotify.com/album/0xOx85Xa1RQn5XuEmGFLVH) | 21:13 |
+| 20 | [Jadoo Bharey Torey Nain](https://open.spotify.com/track/5eCIqqupfqS0o6zzbIQbDo) | [Lakshmi Shankar, Aneesh Pradhan](https://open.spotify.com/artist/3C4TFbL0xDifxWQv1Xkq0I) | [Shringar: The Many Moods of Love \- Volume 3](https://open.spotify.com/album/61cPFAeHlRQz4lQFIBZ1zr) | 12:44 |
+| 21 | [Rag Marwa, Part 2](https://open.spotify.com/track/6827uN6sw0pHEQe9R2Jzcm) | [Ali Akbar Khan](https://open.spotify.com/artist/2GUxWjR8cNgljddVLEp72u) | [Signature Series, Vol\. 3](https://open.spotify.com/album/0xOx85Xa1RQn5XuEmGFLVH) | 21:13 |
+| 22 | [Chandrakaush Alap](https://open.spotify.com/track/4hrp2BLqRV6XO2oOp5IVeY) | [Nikhil Banerjee](https://open.spotify.com/artist/7ieM2QOG3mf89WSTAfGvu1) | [Chandrakaush Khamaj 1967](https://open.spotify.com/album/4fY7XyZhcMPXyqXo5FOkh7) | 20:24 |
 | 23 | [Tabla Solo In Ektal \- Live](https://open.spotify.com/track/4FsUTO3VyjORPxOtcuuDRQ) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Ravi Shankar](https://open.spotify.com/artist/4uE9TgBW0AaPDHL1qYbtd0) | [The Ravi Shankar Collection: Live: Ravi Shankar At The Monterey International Pop Festival](https://open.spotify.com/album/3sXkygk2kpWlNAA2neCvW0) | 6:19 |
 | 24 | [Raag Mishra Shirvranjani Taal Deepchandi](https://open.spotify.com/track/1pvvfWnFF3va8LrjbUDx8S) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon), [Aashish Khan](https://open.spotify.com/artist/5p8OENeK8MwGxxyAN3Dtbq), [Swapan Chaudhuri](https://open.spotify.com/artist/7wRuaMUZKArrp2sQCaC2LT) | [Jugalbandi II](https://open.spotify.com/album/5shZ28NNUrgvj8bsSuAo40) | 21:49 |
 | 25 | [Jaagun Main Saari Raina / Maru Bihaag \- Live](https://open.spotify.com/track/4vzYYv84aa1NWM8tqGOzey) | [Prabha Atre](https://open.spotify.com/artist/4ijLHam3SGHSpOWtyUEwCg), [Ronkini Gupta](https://open.spotify.com/artist/1cWzyBPa1R7sKifsDKhkz4), [Abhinay Ravande](https://open.spotify.com/artist/2ozeNR3NziMtnuokdpAByx), [Ashish Ragwani](https://open.spotify.com/artist/5En4yYFch66YWFTavXtuuO) | [Jaagun Main Saari Raina / Maru Bihaag \(Live\)](https://open.spotify.com/album/6bnTpxj48Ml7fzBo9EwRb8) | 10:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EUcyVKIE73.md) - [plain]
 | 49 | [Raga Shree](https://open.spotify.com/track/7hrScFzMLbCqqMjRVhVGui) | [Kumar Gandharva](https://open.spotify.com/artist/4nZmnoNMkDwdutbWCJhL22) | [Sangeet Sataj Vol\. 1 & 2](https://open.spotify.com/album/3w15CmWb0Wj4HneKR4YAFP) | 31:48 |
 | 50 | [Raag Jhinjhoti Alaap Jod](https://open.spotify.com/track/7EksNfDGLeyAZ2XznadmHg) | [Ronu Majumdar](https://open.spotify.com/artist/2BtkOvKNQUqyBvK5pnSx3P) | [Raag Jhinjhoti by Ronu Majumdar](https://open.spotify.com/album/7l5QepzzzRX79oT2Yu4qWI) | 19:54 |
 
-Snapshot ID: `aAoMkwAAAAB8EYWL8XHbTja2XsrmqMLh`
+Snapshot ID: `aDa8EQAAAACcwKO+ZCal28jUTwk4N8LK`

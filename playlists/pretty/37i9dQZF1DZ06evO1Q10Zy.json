@@ -1,12 +1,12 @@
 {
   "description": "This is Babyface. The essential tracks, all in one playlist.",
-  "num_followers": 36843,
+  "num_followers": 36856,
   "original_name": "This Is Babyface",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDOvAAAAAAB+XLFpa+KKgJk0J2kPrtL+",
+  "snapshot_id": "aDUAgAAAAABt7ERfgBvzplseVYb10iar",
   "tracks": [
     {
       "added_at": null,
@@ -763,30 +763,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Stoppin' Us",
-        "url": "https://open.spotify.com/album/5jB7iZh1HNrQzgWajInSJm"
+        "name": "Partners (Deluxe)",
+        "url": "https://open.spotify.com/album/0vpZmvUH5x2ByXTYtXB4mG"
       },
       "artists": [
         {
-          "name": "Charlie Wilson",
-          "url": "https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w"
-        },
-        {
-          "name": "Johnny Gill",
-          "url": "https://open.spotify.com/artist/7oHzn7edwmrYClrPRINkbn"
+          "name": "Barbra Streisand",
+          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
         },
         {
           "name": "Babyface",
           "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        },
-        {
-          "name": "K-Ci Hailey",
-          "url": "https://open.spotify.com/artist/53M8YqZnU51ZjTFiXAFpIo"
         }
       ],
-      "duration_ms": 179700,
-      "name": "No Stoppin' Us",
-      "url": "https://open.spotify.com/track/4THDqloteA7XDcUicyhcvm"
+      "duration_ms": 194000,
+      "name": "Evergreen (with Babyface)",
+      "url": "https://open.spotify.com/track/1Mn263ocXqVrFArQJ3QKJi"
     },
     {
       "added_at": null,
@@ -811,22 +803,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Partners (Deluxe)",
-        "url": "https://open.spotify.com/album/0vpZmvUH5x2ByXTYtXB4mG"
+        "name": "No Stoppin' Us",
+        "url": "https://open.spotify.com/album/5jB7iZh1HNrQzgWajInSJm"
       },
       "artists": [
         {
-          "name": "Barbra Streisand",
-          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
+          "name": "Charlie Wilson",
+          "url": "https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w"
+        },
+        {
+          "name": "Johnny Gill",
+          "url": "https://open.spotify.com/artist/7oHzn7edwmrYClrPRINkbn"
         },
         {
           "name": "Babyface",
           "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        },
+        {
+          "name": "K-Ci Hailey",
+          "url": "https://open.spotify.com/artist/53M8YqZnU51ZjTFiXAFpIo"
         }
       ],
-      "duration_ms": 194000,
-      "name": "Evergreen (with Babyface)",
-      "url": "https://open.spotify.com/track/1Mn263ocXqVrFArQJ3QKJi"
+      "duration_ms": 179700,
+      "name": "No Stoppin' Us",
+      "url": "https://open.spotify.com/track/4THDqloteA7XDcUicyhcvm"
     },
     {
       "added_at": null,

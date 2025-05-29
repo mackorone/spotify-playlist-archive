@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Ernie Zakri, Anggi Marito, Reneé Rapp, Elliot James Reay, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,584 likes - 121 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,585 likes - 121 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,7 +116,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 106 | [Roses \(Now’s The Time\)](https://open.spotify.com/track/2mhJTvV2vtEznXnSrfTtUx) | [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn) | [Stay Alta](https://open.spotify.com/album/4PMJGgrOKvjAD9ci1PHMpE) | 4:55 |
 | 107 | [Time After Time](https://open.spotify.com/track/5VpPQHUxGdz7ntrITnaRBg) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Time After Time](https://open.spotify.com/album/2Cx2YJ3A63ywLbsP8zLUj8) | 2:19 |
 | 108 | [Helium \(feat\. X Ambassadors\)](https://open.spotify.com/track/2ej8Av0xMTBQwNIt0QeLbS) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Helium](https://open.spotify.com/album/22N0FVAflIZLGdkCm7Np2U) | 2:48 |
-| 109 | [HOLLYWOOD \- feat\. Shoreline Mafia](https://open.spotify.com/track/0uAmR0yTDNAaXA5jPGOrir) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ) | [HOLLYWOOD \(feat\. Shoreline Mafia\)](https://open.spotify.com/album/0pg3WtuKm4GlckMugbml46) | 3:00 |
+| 109 | [HOLLYWOOD](https://open.spotify.com/track/0uAmR0yTDNAaXA5jPGOrir) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ) | [HOLLYWOOD](https://open.spotify.com/album/0pg3WtuKm4GlckMugbml46) | 3:00 |
 | 110 | [LOOK OUT FOR ME](https://open.spotify.com/track/3gX1APRlWGUJF9DIYdD1gx) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [LOOK OUT FOR ME](https://open.spotify.com/album/0BUO6QDa4EBoVuMumIaAza) | 6:43 |
 | 111 | [Hey Ma](https://open.spotify.com/track/5TrhGhn9uOojpLeT35Qged) | [Aaron Rowe](https://open.spotify.com/artist/1wskVZXoUsbxB5mBhR9Oke) | [Hey Ma](https://open.spotify.com/album/0QxqcLCbgMcfzzKFWdU1mi) | 4:00 |
 | 112 | [iwky](https://open.spotify.com/track/7bI4Wbk7rjK4H9tM7fgWjr) | [Shantel Cyline](https://open.spotify.com/artist/460xp6KCwKJBQgf7EhobDV) | [iwky](https://open.spotify.com/album/6ITwH4ASejO7Hrlu01jCNG) | 2:56 |

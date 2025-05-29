@@ -1,12 +1,12 @@
 {
   "description": "This is Gunna. The essential tracks, all in one playlist.",
-  "num_followers": 173427,
+  "num_followers": 173518,
   "original_name": "This Is Gunna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDOvAAAAAABL5QpstlaYod7d484Ylc5N",
+  "snapshot_id": "aDUAgAAAAAC/TyUI0aWdj+/CtiXuUEKZ",
   "tracks": [
     {
       "added_at": null,
@@ -347,6 +347,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Drip or Drown",
+        "url": "https://open.spotify.com/album/3flHKlyXgH4vu277N43sMJ"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 126168,
+      "name": "Drip or Drown",
+      "url": "https://open.spotify.com/track/6ZthdsKjWtiCxnxbhs74vF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Street Gossip",
         "url": "https://open.spotify.com/album/4iF44RCCybJtkBkMoqrLW2"
       },
@@ -367,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drip or Drown",
-        "url": "https://open.spotify.com/album/3flHKlyXgH4vu277N43sMJ"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 126168,
-      "name": "Drip or Drown",
-      "url": "https://open.spotify.com/track/6ZthdsKjWtiCxnxbhs74vF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "WUNNA (Deluxe)",
         "url": "https://open.spotify.com/album/6FfYIKA59pCFs2d1FB79Pq"
       },
@@ -395,22 +395,6 @@
       "duration_ms": 149106,
       "name": "200 FOR LUNCH",
       "url": "https://open.spotify.com/track/6SpBKyfn9BnvnoQbUGPlYM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DS4EVER",
-        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 122693,
-      "name": "south to west",
-      "url": "https://open.spotify.com/track/7rEUuRanwV9piOwwPKxPIM"
     },
     {
       "added_at": null,
@@ -431,6 +415,22 @@
       "duration_ms": 169906,
       "name": "TOP FLOOR (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/4YhJ3a6kBPGJWX4Ek77sDd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DS4EVER",
+        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 122693,
+      "name": "south to west",
+      "url": "https://open.spotify.com/track/7rEUuRanwV9piOwwPKxPIM"
     },
     {
       "added_at": null,
@@ -475,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "WUNNA",
+        "url": "https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 149133,
+      "name": "MET GALA",
+      "url": "https://open.spotify.com/track/4loM16743hROPC6uIJG6wM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Classy Girl",
         "url": "https://open.spotify.com/album/3zdBXSO8dEkYG5aVPfpOdk"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 173800,
       "name": "Classy Girl",
       "url": "https://open.spotify.com/track/5MQw4sDFeFub72PLbRvsZv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "WUNNA",
-        "url": "https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 149133,
-      "name": "MET GALA",
-      "url": "https://open.spotify.com/track/4loM16743hROPC6uIJG6wM"
     },
     {
       "added_at": null,
@@ -671,26 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diamant Noir",
-        "url": "https://open.spotify.com/album/7LNFnwCFOuBNmlLwywpT3q"
-      },
-      "artists": [
-        {
-          "name": "Werenoi",
-          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 208421,
-      "name": "Gulfstream",
-      "url": "https://open.spotify.com/track/18DHBHZtbMZO7Jw9EHUQat"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DS4EVER",
         "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 136266,
       "name": "pushin P (feat. Young Thug)",
       "url": "https://open.spotify.com/track/3XOalgusokruzA5ZBA2Qcb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Diamant Noir",
+        "url": "https://open.spotify.com/album/7LNFnwCFOuBNmlLwywpT3q"
+      },
+      "artists": [
+        {
+          "name": "Werenoi",
+          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 208421,
+      "name": "Gulfstream",
+      "url": "https://open.spotify.com/track/18DHBHZtbMZO7Jw9EHUQat"
     },
     {
       "added_at": null,
@@ -983,22 +983,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Die Lit",
-        "url": "https://open.spotify.com/album/7dAm8ShwJLFm9SaJ6Yc58O"
+        "name": "a Gift & a Curse",
+        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
       },
       "artists": [
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        },
         {
           "name": "Gunna",
           "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 219453,
-      "name": "No Time (feat. Gunna)",
-      "url": "https://open.spotify.com/track/5pHJv0bgNsT9nPoK2BjNBn"
+      "duration_ms": 173360,
+      "name": "go crazy",
+      "url": "https://open.spotify.com/track/6YD8EpsddOfEwAhaymGu0Q"
     }
   ],
   "unique_name": "This Is Gunna",

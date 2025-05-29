@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,335 likes - 115 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,342 likes - 115 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 114 | [hold me, never let go](https://open.spotify.com/track/6QC5Dtp38M05T536UONe6J) | [Rocco](https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq) | [Her Favorite Flowers](https://open.spotify.com/album/5rFnAfQqhy7sFGSq15gN7g) | 3:13 |
 | 115 | [Into Your Room](https://open.spotify.com/track/3necmcKMz1nk4r5pPbMufR) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Into Your Room](https://open.spotify.com/album/2GKtVgtk2BUhgJ60eYCxws) | 3:29 |
 
-Snapshot ID: `AAAAAAaaoQESAMVtF0tMBNiO5mKXKtVc`
+Snapshot ID: `aC/y1gAAAACS7V/AjW+Uzu4WGfL0foR3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 
 > Music from Playboi Carti, Young Thug and Drake.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,104,350 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,102,179 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 | 23 | [Somebody](https://open.spotify.com/track/1GpslorH7Gi64x8uodyvfO) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Somebody](https://open.spotify.com/album/39jgucp2ZAo3pYpG3AcUY1) | 3:22 |
 | 24 | [Swing My Way](https://open.spotify.com/track/4wFiEt5XdXVcUAxcMRZnCR) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Swing My Way](https://open.spotify.com/album/48wyjtn53vHqRuQsusH04z) | 2:59 |
 | 25 | [Blue Devil](https://open.spotify.com/track/6eTweWBgIkPzPfiqs7l2E3) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glockaveli](https://open.spotify.com/album/6pvCEOgB3oLiDiAhKs0vA6) | 2:19 |
-| 26 | [HOLLYWOOD \- feat\. Shoreline Mafia](https://open.spotify.com/track/0uAmR0yTDNAaXA5jPGOrir) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ) | [HOLLYWOOD \(feat\. Shoreline Mafia\)](https://open.spotify.com/album/0pg3WtuKm4GlckMugbml46) | 3:00 |
+| 26 | [HOLLYWOOD](https://open.spotify.com/track/0uAmR0yTDNAaXA5jPGOrir) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ) | [HOLLYWOOD](https://open.spotify.com/album/0pg3WtuKm4GlckMugbml46) | 3:00 |
 | 27 | [Plenty Motion](https://open.spotify.com/track/4UVZFD5h5RPoTjl1ExmxSe) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Dlow Curry \(Deluxe\)](https://open.spotify.com/album/6GuthNCWjSFsAFoKsnIBR7) | 1:55 |
 | 28 | [Anxiety](https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Anxiety](https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA) | 4:09 |
 | 29 | [GOT DAMN](https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [GOT DAMN](https://open.spotify.com/album/6HO6ObAHr6Yf03scMOWFec) | 2:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 | 49 | [WRK](https://open.spotify.com/track/5HA7el8fgIjpdfE4oMfMdY) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [WRK](https://open.spotify.com/album/7ExlJ95Ktgz2nHRouKBdxu) | 3:14 |
 | 50 | [Blakk Rokkstar](https://open.spotify.com/track/7IzutleLK1419FM8rUpYmq) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [More Chaos](https://open.spotify.com/album/3tIS7SDlvbyJ0oFQzNqjco) | 3:50 |
 
-Snapshot ID: `aDYO1QAAAADVOZ3ej9tM8O/lEbAFFfjY`
+Snapshot ID: `AAAAAPJyepDEB4u5Q93YfFKur+xYgMtJ`

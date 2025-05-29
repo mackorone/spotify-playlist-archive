@@ -487,6 +487,24 @@
     },
     {
       "album": {
+        "name": "Black Mona Lisa",
+        "url": "https://open.spotify.com/album/5TjZrtwHeIxK4KUGZcQe27"
+      },
+      "artists": [
+        {
+          "name": "Billy Porter",
+          "url": "https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4"
+        }
+      ],
+      "date_added": "2025-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158908,
+      "name": "Funk Is On The One",
+      "url": "https://open.spotify.com/track/4Isde3N1AFgQDqhFiYHraP"
+    },
+    {
+      "album": {
         "name": "GNX",
         "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
       },

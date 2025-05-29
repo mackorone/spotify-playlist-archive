@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI9wBgUr4BH.md) - [plain]
 
 > Les hits de demain sont déjà ici\. Photo : Myles Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,171 likes - 40 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,203 likes - 40 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI9wBgUr4BH.md) - [plain]
 | 39 | [SMOKE THE PAIN AWAY](https://open.spotify.com/track/7abZdMxSDfDDf7HKB8Ae8r) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [SMOKE THE PAIN AWAY](https://open.spotify.com/album/50OtQfrt3bjHLjnQMMT5KP) | 2:42 |
 | 40 | [Chimiyé](https://open.spotify.com/track/6xaoSNgphFog6VMIqGteYZ) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Chimiyé](https://open.spotify.com/album/47cEV3nBAEdOqKQrq3dBaE) | 2:31 |
 
-Snapshot ID: `aC+h8wAAAAACBv0IAFpKxetR7FNPeeD9`
+Snapshot ID: `AAAAABd8+Mf7j/5LxliWkM7+0AC9yoK/`

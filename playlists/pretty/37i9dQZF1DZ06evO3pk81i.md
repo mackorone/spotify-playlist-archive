@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3pk81i.md) - [plain]
 
 > This is Los Primos del Este\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,743 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,747 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3pk81i.md) - [plain]
 | 42 | [Fue Mi Culpa](https://open.spotify.com/track/3s9tXoVLXkea4zI3ly3OHV) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Fue Mi Culpa](https://open.spotify.com/album/4ixj7UNFpQvZ4J0vRNlrI7) | 3:32 |
 | 43 | [Viene Diciembre](https://open.spotify.com/track/0MI3ecobuZBu2u2jwTuNCJ) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Viene Diciembre](https://open.spotify.com/album/1Zz5n6oK5aZeppY5Xbj0ha) | 3:06 |
 | 44 | [Tesec](https://open.spotify.com/track/3gGiXwtdax32RF2Zb687OB) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Amor De Lejos](https://open.spotify.com/album/6yTpeJC36PW6nAflA8Njb7) | 2:12 |
-| 45 | [Niña Buena](https://open.spotify.com/track/6PTekRdiemAJG12yFBHmsz) | [Proximo Nivel](https://open.spotify.com/artist/3aEa0X3wMYErFrys1jgV94), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Noches De Verano](https://open.spotify.com/album/25FCfNQGfRwwAVCOfIm9yy) | 4:20 |
-| 46 | [Marcándote](https://open.spotify.com/track/0rtoh7bC7nW9clwmnCTeAe) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Marcándote](https://open.spotify.com/album/3ZxRpyYUN1tEAusn7aG3N1) | 2:59 |
+| 45 | [Marcándote](https://open.spotify.com/track/0rtoh7bC7nW9clwmnCTeAe) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Marcándote](https://open.spotify.com/album/3ZxRpyYUN1tEAusn7aG3N1) | 2:59 |
+| 46 | [Niña Buena](https://open.spotify.com/track/6PTekRdiemAJG12yFBHmsz) | [Proximo Nivel](https://open.spotify.com/artist/3aEa0X3wMYErFrys1jgV94), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Noches De Verano](https://open.spotify.com/album/25FCfNQGfRwwAVCOfIm9yy) | 4:20 |
 | 47 | [Solita Bailando](https://open.spotify.com/track/5heDv0socwkLa4lAiNar0H) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [PDE](https://open.spotify.com/album/1dyaVG9mr6sHveJI0RWaUT) | 2:56 |
 | 48 | [Atrapado](https://open.spotify.com/track/4g3twQI9tA1J3e5AL964a1) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Amor De Lejos](https://open.spotify.com/album/6yTpeJC36PW6nAflA8Njb7) | 2:36 |
 | 49 | [Capuchino](https://open.spotify.com/track/0bvE1KpvXwPTieXLaBgVaq) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Capuchino](https://open.spotify.com/album/49KzaISNOQeZb7YvYASydw) | 3:24 |
 | 50 | [Pasos Firmes](https://open.spotify.com/track/3gluf5rb6ygO8CWo6HosQR) | [David Santos](https://open.spotify.com/artist/3sc9qeCcbKwYiiBspwVUzU), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Pasos Firmes](https://open.spotify.com/album/7Chr7fCCMXrGTaU6fiIZXG) | 2:53 |
 
-Snapshot ID: `aDOvAAAAAAAE0my0LKeBqKmczS2ovH6G`
+Snapshot ID: `aDUAgAAAAABs22R8PrtcvQe4kVZWNcro`

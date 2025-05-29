@@ -2,7 +2,7 @@
 
 ### [This is NIKI](https://open.spotify.com/playlist/37i9dQZF1DWT47jrFbmL3z)
 
-> Wrench your heart out with NIKI but she's letting go
+> Take a chance with NIKI because even if she lets go, you’ll still be in her heart.
 
 106 songs - 6 hr 0 min
 

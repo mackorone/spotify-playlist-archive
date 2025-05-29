@@ -4,20 +4,21 @@
 
 > 100% Pinoy hits from your favorite artists!
 
-165 songs - 11 hr 56 min
+167 songs - 12 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['Di Na Muli](https://open.spotify.com/track/2PO6blDCnOFWxudKu0XnmV) | [The Itchyworms](https://open.spotify.com/artist/5cYJYBMg1n71v7cvthr1SO) | [Sid & Aya \(Not A Love Story\) \[Original Movie Soundtrack\]](https://open.spotify.com/album/7djBOaRI4ItJ9Q9j1haJ4n) | 4:20 | 2022-04-19 | 2022-07-29 |
 | [12:51](https://open.spotify.com/track/1FHCU1rDAeaPsBW9byjJ0Q) | [krissy & ericka](https://open.spotify.com/artist/09DdQEMQaaq0f99vqqub3V) | [Twelve: Fifty One \(International Version\)](https://open.spotify.com/album/5M4GVkxOl3joHIkvNrAlbJ) | 4:06 | 2022-04-19 | 2025-03-26 |
 | [214](https://open.spotify.com/track/7gZ3kWNtIxFgxjsm5OTVMB) | [Rivermaya](https://open.spotify.com/artist/1ZTdxfZTeztyAgKUJVLxAI) | [Greatest Hits](https://open.spotify.com/album/65GkUxR6lYlCiYP4mqyZl1) | 4:33 | 2022-04-19 |  |
-| [711](https://open.spotify.com/track/2ONW0ksoUixoxT7gfI9hWX) | [TONEEJAY](https://open.spotify.com/artist/2KdFoq4IBXMzfia4ZCLDIs) | [711](https://open.spotify.com/album/3rr7vncuxv64AzY98YwPIL) | 3:42 | 2024-05-08 |  |
+| [711](https://open.spotify.com/track/2ONW0ksoUixoxT7gfI9hWX) | [TONEEJAY](https://open.spotify.com/artist/2KdFoq4IBXMzfia4ZCLDIs) | [711](https://open.spotify.com/album/3rr7vncuxv64AzY98YwPIL) | 3:42 | 2024-05-08 | 2025-05-29 |
 | [AMAKABOGERA](https://open.spotify.com/track/0s3blMulBSWhJoA6Cezb6Z) | [Maymay Entrata](https://open.spotify.com/artist/4JliYPIw09GespZAmZv6rI) | [AMAKABOGERA](https://open.spotify.com/album/1Eh38bZzUklsa4jPf0vDex) | 3:05 | 2022-06-13 | 2023-01-04 |
 | [Ang Huling El Bimbo](https://open.spotify.com/track/21LMl54FIe7J5oOoZzgeiQ) | [Eraserheads](https://open.spotify.com/artist/7374lH6kwx9uQATYQ9H3Cp) | [Anthology](https://open.spotify.com/album/2DIpgoeZAbwk3wF1qSDj8v) | 7:30 | 2022-04-19 | 2023-01-19 |
 | [Ang Wakas \(feat\. Trisha Macapagal\)](https://open.spotify.com/track/5yu0lVVW68f5VIzdjIJVQ6) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce), [Trisha Macapagal](https://open.spotify.com/artist/6oF9fOWX7L88hNPKqWzB0O) | [Ang Wakas \(feat\. Trisha Macapagal\)](https://open.spotify.com/album/0xrEjBZwug4gj5k5qHE22n) | 5:04 | 2023-01-04 | 2025-03-26 |
 | [Araw\-Araw Love](https://open.spotify.com/track/1x7DysraeqSgVgj95hHc3U) | [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh) | [Araw\-Araw Love](https://open.spotify.com/album/4h5wKpTXHfEeYYZIIVOC8g) | 3:31 | 2023-04-03 | 2023-08-02 |
 | [Asan Ka Na Ba](https://open.spotify.com/track/5MYPzdIWgx3pMLRGlq2fVq) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Asan Ka Na Ba](https://open.spotify.com/album/0MK93ibEen72O8dosu3WXE) | 4:01 | 2023-03-09 | 2023-12-12 |
 | [Aya](https://open.spotify.com/track/6iwojThk8NJYqaN9LUZSON) | [Earl Agustin](https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm) | [Aya](https://open.spotify.com/album/3H0LADPurgxZ61MXge7EpR) | 3:50 | 2025-03-25 |  |
+| [Bagyo](https://open.spotify.com/track/0I2ugiLWhuMPSxpmEeRpZA) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Silakbo](https://open.spotify.com/album/2WOyuTsNHF90SryrS3kmIN) | 3:47 | 2025-05-28 |  |
 | [Bahala Na](https://open.spotify.com/track/0kDeE8TezXDY1QadpjAQQq) | [Kenaniah](https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS) | [Bahala Na](https://open.spotify.com/album/38K1I3Ij268DtPqJqYcY6U) | 3:48 | 2023-04-03 | 2024-01-10 |
 | [Bakit Ba Ikaw](https://open.spotify.com/track/0Vmk6Ebk4QBq7r0VAz2a6s) | [Michael Pangilinan](https://open.spotify.com/artist/1t2caVgyabZrVDAlmMGraV) | [Michael](https://open.spotify.com/album/2fI8PsKYLPMt9Gv4NVrtjk) | 4:05 | 2022-06-13 | 2022-07-11 |
 | [Bawat Daan](https://open.spotify.com/track/0wUSZjJVblGKntOqBSWMdo) | [Ebe Dancel](https://open.spotify.com/artist/543f0NvGig5Moo9XROTUur) | [Bawat Daan](https://open.spotify.com/album/4acHD3ykZw3DYLcLW1Mqv3) | 5:00 | 2022-04-19 | 2022-08-15 |
@@ -94,6 +95,7 @@
 | [Mahika](https://open.spotify.com/track/2nqlM3gNBMi5Zf9MDzp2Xi) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2), [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [Senaryo](https://open.spotify.com/album/5UNDk7qptf3EtMNoIh3w0k) | 3:21 | 2024-03-06 |  |
 | [Mahika](https://open.spotify.com/track/0Pafr67ogSuAur2L3DxB4b) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [Mahika](https://open.spotify.com/album/65PZ3P2MKJuSAVCMM9WWkA) | 3:30 | 2023-03-23 |  |
 | [Malaya](https://open.spotify.com/track/70bc7AZ8MN5niphOXyHpsD) | [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [Malaya](https://open.spotify.com/album/05rQadwAVYTpNNnBoeTuj0) | 5:20 | 2022-04-19 | 2022-07-29 |
+| [Marilag](https://open.spotify.com/track/2zbq6eS68i4NIJWekIuW1s) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj) | [Marilag](https://open.spotify.com/album/55B7nAZ0c4QF5pdHhVOkRY) | 2:37 | 2025-05-28 |  |
 | [Maybe The Night](https://open.spotify.com/track/1yDiru08Q6omDOGkZMPnei) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Maybe The Night](https://open.spotify.com/album/6LhZ3QMHGJeTes9cCTxK8e) | 3:37 | 2022-04-19 |  |
 | [Maybe This Time](https://open.spotify.com/track/4wOISjicRMhm89CnvX7zuR) | [Sarah Geronimo](https://open.spotify.com/artist/6aiCKnIN68hohzU3ZzNq48) | [Maybe This Time \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/453Ok0696evJwrzN4DAa6c) | 4:15 | 2022-04-19 | 2022-07-29 |
 | [Maybe This Time \- From "Maybe This Time"](https://open.spotify.com/track/0Dljpp52vCmtXi0E94qjfo) | [Sarah Geronimo](https://open.spotify.com/artist/6aiCKnIN68hohzU3ZzNq48) | [Maybe This Time \(From "Maybe This Time"\)](https://open.spotify.com/album/0BGReR0ClYIme8zAabt53h) | 4:15 | 2022-06-13 | 2023-06-04 |
@@ -139,7 +141,7 @@
 | [Sana \- Single Version](https://open.spotify.com/track/7o7FQ0zdggnSP8nrsAIy1m) | [I Belong to the Zoo](https://open.spotify.com/artist/7tKpXx21KVUOR6vvDs6xtg) | [Sana](https://open.spotify.com/album/0ULmsFDDkOnwetCGrEvCSl) | 4:37 | 2022-09-20 | 2024-03-07 |
 | [Sila](https://open.spotify.com/track/2IMODbij0lZ5CuAjZi0IDE) | [SUD](https://open.spotify.com/artist/0jKQrxK2zHqxyOAyIMrUQt) | [Sila](https://open.spotify.com/album/0qwujayb77utSpftsXjdP3) | 5:26 | 2024-04-17 |  |
 | [Simpleng Tao](https://open.spotify.com/track/6bMSUhAmaAGTb5RTTuzWE3) | [Gloc 9](https://open.spotify.com/artist/7HJDRQAfEcFiARVehhM6qD) | [G9](https://open.spotify.com/album/4OS6H3C1zimI6QPXA9MXvG) | 4:04 | 2022-06-13 | 2023-06-04 |
-| [Sinta](https://open.spotify.com/track/0aCmjkogiWIRu7205eZK6I) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Sinta](https://open.spotify.com/album/0LAPQm2tSDLFDDpCfpw5DO) | 5:16 | 2023-04-03 |  |
+| [Sinta](https://open.spotify.com/track/0aCmjkogiWIRu7205eZK6I) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Sinta](https://open.spotify.com/album/0LAPQm2tSDLFDDpCfpw5DO) | 5:16 | 2023-04-03 | 2025-05-29 |
 | [So Slow](https://open.spotify.com/track/5tg4Rr2rArQJKiH2hcaJph) | [Freestyle](https://open.spotify.com/artist/0jarApAsbmiCkYhz0590mE) | [Freestyle](https://open.spotify.com/album/23urE9jm4wugYqmxANnDut) | 4:35 | 2022-09-20 | 2023-01-17 |
 | [So Slow](https://open.spotify.com/track/1Xr4t4Ze6gfuzY1Yb4bP3z) | [Side A & Freestyle](https://open.spotify.com/artist/3JITwr6Xwkz8p6cm9leNUh) | [Back 2 Back](https://open.spotify.com/album/5m3Qj30Vp2BKZVGzBFxCyD) | 4:36 | 2022-06-13 | 2022-07-28 |
 | [Someday](https://open.spotify.com/track/1MkiRsYBkXbXvdiYvTTiQT) | [Nina](https://open.spotify.com/artist/2tQbSWgZLIB8MXMnsXVRro) | [Nina](https://open.spotify.com/album/1yx0lKqG8Z1J3IOxx4gbzs) | 3:34 | 2022-04-19 | 2023-02-02 |

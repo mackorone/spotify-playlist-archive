@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > Il futuro dell'indie italiano è in questa playlist 👀 Cover: faccianuvola
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,494 likes - 105 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,499 likes - 105 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,15 +27,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 | 17 | [rondine / angelica](https://open.spotify.com/track/1Tr2NJr6gIZU7olFv5K8IW) | [faccianuvola](https://open.spotify.com/artist/5KVUHVqS6B5MZKXf5PXDg1) | [il dolce ricordo della nostra disperata gioventù](https://open.spotify.com/album/1nUcm1FiMWkZ2u2xT3FvoD) | 3:22 |
 | 18 | [il cielo è così terso](https://open.spotify.com/track/6rfBdgPdwHSXhqcGrQDHkA) | [Merli Armisa](https://open.spotify.com/artist/6Xi0bEiO6Ncki0K3iudLki) | [Ortensie Comete](https://open.spotify.com/album/7AWANKuqSdNSYro8EbisWz) | 4:26 |
 | 19 | [Solamente qualche volta](https://open.spotify.com/track/3jepM84GHXo58AafyJbnzV) | [Brugnano](https://open.spotify.com/artist/1Tly9Wn1glHtV5NIVKGYCZ), [Max D'Ambra](https://open.spotify.com/artist/3DLt4nX7NHxSoL50l5l3re) | [Solamente qualche volta](https://open.spotify.com/album/1tvoRLJq3umfMZT8DexSz3) | 3:36 |
-| 20 | [IL MONDO FUORi : .\. ?](https://open.spotify.com/track/4KhQFg7o7JRJWiI8zQmxIf) | [EMMA](https://open.spotify.com/artist/7LmO2BJsbObtMqCPcpjjhq) | [ERA L’INIZIO](https://open.spotify.com/album/2RgzZRAkdstoKe6NgpTrga) | 4:17 |
-| 21 | [COLLISIONE](https://open.spotify.com/track/3E1TuHUDzlbquMmvkzbSqS) | [CARRESE](https://open.spotify.com/artist/0o03kaFDzK8R1hSe3mRepL) | [CRISALIDE](https://open.spotify.com/album/37XoPU9JXgqWCR2pW0utiP) | 3:34 |
-| 22 | [basta](https://open.spotify.com/track/17FgnoBGoQmILprNqmkcOU) | [prima stanza a destra](https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5) | [basta](https://open.spotify.com/album/6jCo6KF5MCPOH4g1j7U8QW) | 2:09 |
-| 23 | [Onitsuka Brown](https://open.spotify.com/track/6fX5AQ32hJ19TzExdeKSYi) | [jiojio](https://open.spotify.com/artist/5af5HLW8lfAgK2ocZKwgrp) | [Onitsuka Brown](https://open.spotify.com/album/6e3kHhcWsFiZ61D4Ik1vvw) | 2:53 |
+| 20 | [Beverly Hills](https://open.spotify.com/track/7qanHZthVAAE5EK1Zqe53l) | [ALICE](https://open.spotify.com/artist/0ToaPtnbi9jzYRkSgnUoEp) | [Beverly Hills](https://open.spotify.com/album/0WJfkFS9vX47nMgy8JyePF) | 2:30 |
+| 21 | [basta](https://open.spotify.com/track/17FgnoBGoQmILprNqmkcOU) | [prima stanza a destra](https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5) | [basta](https://open.spotify.com/album/6jCo6KF5MCPOH4g1j7U8QW) | 2:09 |
+| 22 | [Onitsuka Brown](https://open.spotify.com/track/6fX5AQ32hJ19TzExdeKSYi) | [jiojio](https://open.spotify.com/artist/5af5HLW8lfAgK2ocZKwgrp) | [Onitsuka Brown](https://open.spotify.com/album/6e3kHhcWsFiZ61D4Ik1vvw) | 2:53 |
+| 23 | [Blu \(don't worry be happy\)](https://open.spotify.com/track/3hRmpNhnyW89qkyeNJGQfm) | [Stunk](https://open.spotify.com/artist/6eHbpr6dxKAYDUvL0kCU0t) | [Cocci di me](https://open.spotify.com/album/1CYiuNWv4g1IXGv0f5nfQB) | 2:41 |
 | 24 | [Martedì](https://open.spotify.com/track/72f8rrWu5ZyTkowUCUs1y9) | [HAMBURGO](https://open.spotify.com/artist/7rEBJhnCtbpVOXacgihVdd) | [Martedì](https://open.spotify.com/album/7g29SAK7M8QbO52uWqIpbi) | 3:19 |
-| 25 | [Vorrei Odiarti](https://open.spotify.com/track/4CNeWnXtVJ1cgNQ4msUoPE) | [Florinda](https://open.spotify.com/artist/4MbtMtKmurOvjSw5i4u0LU) | [Vorrei Odiarti](https://open.spotify.com/album/5xBD9md5eMvoeK4u0aYSwJ) | 2:50 |
-| 26 | [Beverly Hills](https://open.spotify.com/track/7qanHZthVAAE5EK1Zqe53l) | [ALICE](https://open.spotify.com/artist/0ToaPtnbi9jzYRkSgnUoEp) | [Beverly Hills](https://open.spotify.com/album/0WJfkFS9vX47nMgy8JyePF) | 2:30 |
-| 27 | [T’ARREPIGLIE](https://open.spotify.com/track/2FKT20BUZGm5aQiWJLDyCA) | [Gabriele Esposito](https://open.spotify.com/artist/6KBX0GZAeEOYSgONCtcwFL) | [T’ARREPIGLIE](https://open.spotify.com/album/5xrzkb2dBEEtUrc4RgYIwt) | 2:22 |
-| 28 | [Blu \(don't worry be happy\)](https://open.spotify.com/track/3hRmpNhnyW89qkyeNJGQfm) | [Stunk](https://open.spotify.com/artist/6eHbpr6dxKAYDUvL0kCU0t) | [Cocci di me](https://open.spotify.com/album/1CYiuNWv4g1IXGv0f5nfQB) | 2:41 |
+| 25 | [COLLISIONE](https://open.spotify.com/track/3E1TuHUDzlbquMmvkzbSqS) | [CARRESE](https://open.spotify.com/artist/0o03kaFDzK8R1hSe3mRepL) | [CRISALIDE](https://open.spotify.com/album/37XoPU9JXgqWCR2pW0utiP) | 3:34 |
+| 26 | [Vorrei Odiarti](https://open.spotify.com/track/4CNeWnXtVJ1cgNQ4msUoPE) | [Florinda](https://open.spotify.com/artist/4MbtMtKmurOvjSw5i4u0LU) | [Vorrei Odiarti](https://open.spotify.com/album/5xBD9md5eMvoeK4u0aYSwJ) | 2:50 |
+| 27 | [IL MONDO FUORi : .\. ?](https://open.spotify.com/track/4KhQFg7o7JRJWiI8zQmxIf) | [EMMA](https://open.spotify.com/artist/7LmO2BJsbObtMqCPcpjjhq) | [ERA L’INIZIO](https://open.spotify.com/album/2RgzZRAkdstoKe6NgpTrga) | 4:17 |
+| 28 | [T’ARREPIGLIE](https://open.spotify.com/track/2FKT20BUZGm5aQiWJLDyCA) | [Gabriele Esposito](https://open.spotify.com/artist/6KBX0GZAeEOYSgONCtcwFL) | [T’ARREPIGLIE](https://open.spotify.com/album/5xrzkb2dBEEtUrc4RgYIwt) | 2:22 |
 | 29 | [Madonna](https://open.spotify.com/track/1rfpKVgPOpdXv8xIL8NtX5) | [Ricche le Mura](https://open.spotify.com/artist/0Jejmdac0sG1anWKT8F1RB) | [Un ragno, il suo uovo e noi dentro](https://open.spotify.com/album/6Sk7DEbuF2q3gpPVLbQgLo) | 3:18 |
 | 30 | [Aiuto](https://open.spotify.com/track/0Mu6W8dVtwdXdQf1UIbBGh) | [PLASTICA](https://open.spotify.com/artist/2fB3iExnBIP2AA713JAqIM), [Assurditè](https://open.spotify.com/artist/2vDluwryVXelZfng6DxjnC) | [Aiuto](https://open.spotify.com/album/0KB9RktfD3H7la1lnVEhCT) | 4:07 |
 | 31 | [Luce](https://open.spotify.com/track/0mZBQzifh9ST6r6dh4bf6k) | [SELMI](https://open.spotify.com/artist/52ckPP690n7mGS4jQIDbys) | [Luce](https://open.spotify.com/album/34AXcqy0NG1YIKCakYx732) | 2:44 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 | 104 | [Quasi a casa](https://open.spotify.com/track/5kzB90XlmjURvXJXLDwtjX) | [Coca Puma](https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc) | [Quasi A Casa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2lgLRSgU1jxeZVBIyGpGi5) | 5:09 |
 | 105 | [fulmine a ciel sereno](https://open.spotify.com/track/36gtJ3amXxagqcW61gB3HO) | [faccianuvola](https://open.spotify.com/artist/5KVUHVqS6B5MZKXf5PXDg1) | [fulmine a ciel sereno](https://open.spotify.com/album/23oVdnPw7NLTh9bl0WEJgA) | 2:54 |
 
-Snapshot ID: `aDW7rwAAAADCjr4ssb3cnJMBeKB/UWIX`
+Snapshot ID: `aDbM+gAAAADr1zZ9Cg/2/yVbicXnk1Pe`

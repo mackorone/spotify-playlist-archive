@@ -1,12 +1,12 @@
 {
   "description": "This is Kierra Sheard. The essential tracks, all in one playlist.",
-  "num_followers": 4878,
+  "num_followers": 4879,
   "original_name": "This Is Kierra Sheard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDOvAAAAAAC5qtm9hnF1AUMB8ohNh7Rd",
+  "snapshot_id": "aDUAgAAAAADW99AYB1KtRUZ9Fos98kxF",
   "tracks": [
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GRACELAND",
-        "url": "https://open.spotify.com/album/7CeLcdXA8rCbkZSbmZYM0S"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 184106,
-      "name": "Flaws",
-      "url": "https://open.spotify.com/track/57GQvTsith6MEe4jpjvBqQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Reset",
         "url": "https://open.spotify.com/album/7zEQOVHHzD8U0YybvF79rS"
       },
@@ -775,26 +759,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "V4...The Other Side",
-        "url": "https://open.spotify.com/album/2vdDEuqRB1P8oCAACbtoYJ"
+        "name": "GRACELAND",
+        "url": "https://open.spotify.com/album/7CeLcdXA8rCbkZSbmZYM0S"
       },
       "artists": [
         {
-          "name": "J Moss",
-          "url": "https://open.spotify.com/artist/6sj6FGLblnVfktDZPaydWP"
-        },
-        {
           "name": "Kierra Sheard",
           "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        },
-        {
-          "name": "Karen Clark Sheard",
-          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
         }
       ],
-      "duration_ms": 238733,
-      "name": "Good Day (feat. Kierra Sheard & Karen Clark Sheard)",
-      "url": "https://open.spotify.com/track/4zy2i9BCsLZjOCQ5P4TkY2"
+      "duration_ms": 184106,
+      "name": "Flaws",
+      "url": "https://open.spotify.com/track/57GQvTsith6MEe4jpjvBqQ"
     },
     {
       "added_at": null,
@@ -827,6 +803,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "All Things Work Together",
+        "url": "https://open.spotify.com/album/436tJ7T4l2EXqFa4r8PT5r"
+      },
+      "artists": [
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        },
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "Jawan Harris",
+          "url": "https://open.spotify.com/artist/1zWtqUs1JpL98hWc6B8DtA"
+        }
+      ],
+      "duration_ms": 294888,
+      "name": "Worth It",
+      "url": "https://open.spotify.com/track/74w1s9d3VuQYAcGXRqxmkm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Don't Judge Me (feat. Missy Elliott)",
         "url": "https://open.spotify.com/album/4WGsdy6L3dmsgywrFOJomw"
       },
@@ -843,6 +843,30 @@
       "duration_ms": 204000,
       "name": "Don't Judge Me (feat. Missy Elliott)",
       "url": "https://open.spotify.com/track/12CBn7x2KbYgzCExu1JKyD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "V4...The Other Side",
+        "url": "https://open.spotify.com/album/2vdDEuqRB1P8oCAACbtoYJ"
+      },
+      "artists": [
+        {
+          "name": "J Moss",
+          "url": "https://open.spotify.com/artist/6sj6FGLblnVfktDZPaydWP"
+        },
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "Karen Clark Sheard",
+          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
+        }
+      ],
+      "duration_ms": 238733,
+      "name": "Good Day (feat. Kierra Sheard & Karen Clark Sheard)",
+      "url": "https://open.spotify.com/track/4zy2i9BCsLZjOCQ5P4TkY2"
     },
     {
       "added_at": null,
@@ -867,26 +891,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Things Work Together",
-        "url": "https://open.spotify.com/album/436tJ7T4l2EXqFa4r8PT5r"
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/1qCUfjDUf4kJUl4nJv6bVz"
       },
       "artists": [
         {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
         },
         {
           "name": "Kierra Sheard",
           "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        },
-        {
-          "name": "Jawan Harris",
-          "url": "https://open.spotify.com/artist/1zWtqUs1JpL98hWc6B8DtA"
         }
       ],
-      "duration_ms": 294888,
-      "name": "Worth It",
-      "url": "https://open.spotify.com/track/74w1s9d3VuQYAcGXRqxmkm"
+      "duration_ms": 189392,
+      "name": "Better Than I Found It (feat. Kierra Sheard)",
+      "url": "https://open.spotify.com/track/0q7Y6vWAbhqL0SUFfv8aET"
     },
     {
       "added_at": null,
@@ -915,26 +935,6 @@
       "duration_ms": 252760,
       "name": "Nobody but God (feat. Kierra Sheard & 1K Phew)",
       "url": "https://open.spotify.com/track/1eCnFnrOGHZvg9L6YSIdIY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/1qCUfjDUf4kJUl4nJv6bVz"
-      },
-      "artists": [
-        {
-          "name": "Danny Gokey",
-          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
-        },
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 189392,
-      "name": "Better Than I Found It (feat. Kierra Sheard)",
-      "url": "https://open.spotify.com/track/0q7Y6vWAbhqL0SUFfv8aET"
     },
     {
       "added_at": null,
@@ -1067,26 +1067,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oil + Water",
-        "url": "https://open.spotify.com/album/35XjZJwNLZj6RbTVXakIbX"
-      },
-      "artists": [
-        {
-          "name": "Travis Greene",
-          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
-        },
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 315533,
-      "name": "Somehow (feat. Kierra Sheard)",
-      "url": "https://open.spotify.com/track/2TmKgQy6If0wrPHtLKbmWp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/6uibqw6D0zCO7FGvAGSf5s"
       },
@@ -1103,6 +1083,26 @@
       "duration_ms": 376973,
       "name": "You Are - Live",
       "url": "https://open.spotify.com/track/7n1587JTlRfg9ePIdf0mUW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oil + Water",
+        "url": "https://open.spotify.com/album/35XjZJwNLZj6RbTVXakIbX"
+      },
+      "artists": [
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        },
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 315533,
+      "name": "Somehow (feat. Kierra Sheard)",
+      "url": "https://open.spotify.com/track/2TmKgQy6If0wrPHtLKbmWp"
     },
     {
       "added_at": null,

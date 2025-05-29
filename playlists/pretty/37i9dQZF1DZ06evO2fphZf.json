@@ -1,12 +1,12 @@
 {
   "description": "This is th\u1ee7y. The essential tracks, all in one playlist.",
-  "num_followers": 12073,
+  "num_followers": 12077,
   "original_name": "This Is th\u1ee7y",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDOvAAAAAAC3UzgBplsH7T2f6AR/qFrs",
+  "snapshot_id": "aDUAgAAAAABf2Yg8ppDJLu0hFnJ/lzQ4",
   "tracks": [
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "don't miss me too much",
-        "url": "https://open.spotify.com/album/54pN5CVMrX7ObvJSlOMQD1"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 137386,
-      "name": "no ties",
-      "url": "https://open.spotify.com/track/4FW8uQtz9LqSrd7BPIrw7g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Slide",
         "url": "https://open.spotify.com/album/5OWku4zuFZbcCLckaunlXc"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 221440,
       "name": "Slide",
       "url": "https://open.spotify.com/track/1nOfGMBJATb0Cbu1Xpv3ie"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "don't miss me too much",
+        "url": "https://open.spotify.com/album/54pN5CVMrX7ObvJSlOMQD1"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 137386,
+      "name": "no ties",
+      "url": "https://open.spotify.com/track/4FW8uQtz9LqSrd7BPIrw7g"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tied Down",
-        "url": "https://open.spotify.com/album/0CiVWLXFFXfVstNWYgGTCS"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 163846,
-      "name": "Tied Down",
-      "url": "https://open.spotify.com/track/4zjg2aRUQKVgUaOVjuGPA7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Never Yours",
         "url": "https://open.spotify.com/album/1hdziZxJ3jB02fmFhfhtVD"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 172608,
       "name": "Never Yours",
       "url": "https://open.spotify.com/track/3a9o2LTowJfEYBvp19efLy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tied Down",
+        "url": "https://open.spotify.com/album/0CiVWLXFFXfVstNWYgGTCS"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 163846,
+      "name": "Tied Down",
+      "url": "https://open.spotify.com/track/4zjg2aRUQKVgUaOVjuGPA7"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Het leven is prachtig en dat verdient goede muziek
 
-145 songs - 8 hr 7 min
+146 songs - 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Kayo](https://open.spotify.com/track/4lfjBWQ0tE9hvejQ0LtT4k) | [Blaudzun](https://open.spotify.com/artist/1A6zWJwn4XmdZZgob3wYPM) | [Kayo](https://open.spotify.com/album/4eTJsaYRux5uxMuhzBBgjq) | 2:57 | 2025-05-15 |  |
 | [Lari](https://open.spotify.com/track/6Xq83QyKrdGOJEXBt1pQ7T) | [Komodo](https://open.spotify.com/artist/4Gm7WZh4QB6KE9M69BvsVU) | [Lari](https://open.spotify.com/album/7xAFH0K3NpmDSa1F5uKyXJ) | 3:29 | 2024-09-26 | 2025-05-27 |
 | [Let You Go](https://open.spotify.com/track/63t1r4qxpc8WmM3sGW03cM) | [Martin Jasper](https://open.spotify.com/artist/7vcAIkOgnOD1L8aXk7YheZ) | [Let You Go](https://open.spotify.com/album/5f0BeyC7OKitwUPFjZl6IW) | 2:46 | 2024-09-05 | 2025-04-30 |
+| [Lifetime](https://open.spotify.com/track/4Lij0Sql38bVQRS8nRE0yp) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk) | [Lifetime](https://open.spotify.com/album/46vjtvwAesLzAUVrhHaiyO) | 4:16 | 2025-05-28 |  |
 | [London, Tokyo](https://open.spotify.com/track/78fv8y2e8uSXaoumhH2h5E) | [Savine](https://open.spotify.com/artist/7n0hWtsxPEDc5ZjuKvbybc) | [London, Tokyo](https://open.spotify.com/album/61rIcpa6ktXyHi6Q8ol5S3) | 3:03 | 2024-07-01 | 2025-03-08 |
 | [Looking At You](https://open.spotify.com/track/1vfNaTL5DfKAPEd4ywUjlo) | [Only The Poets](https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t) | [Looking At You](https://open.spotify.com/album/2jrADtaLp3ptjv4UW2okro) | 3:10 | 2024-07-01 | 2024-11-05 |
 | [Lose Control](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) | 3:30 | 2024-07-01 | 2024-07-19 |
@@ -113,7 +114,7 @@
 | [Say Goodbye](https://open.spotify.com/track/58h6HSRIKJeArYdGNUhKQJ) | [Niels Geusebroek](https://open.spotify.com/artist/7D22FhEGzT4jxbjWryB63l) | [Say Goodbye](https://open.spotify.com/album/5oQqzWjvn2XvuF2NE0C7PV) | 3:04 | 2024-07-01 | 2025-04-25 |
 | [Sinatra](https://open.spotify.com/track/4J5TEKLKS3hXWlPv0HDe5n) | [Lenny Monsou](https://open.spotify.com/artist/1mCVKxQihZkfBjdphoGLT3) | [Sinatra](https://open.spotify.com/album/1i5Ver0UuKtGr1eJSlbyXL) | 3:14 | 2025-04-29 |  |
 | [Sleep When I'm With You](https://open.spotify.com/track/3Va9eANCm7FrpByrRLkQvk) | [The Indien](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb) | [Sleep When I'm With You](https://open.spotify.com/album/5GjwbyGJ0KlBoOR3uUt8Co) | 2:59 | 2024-07-01 | 2025-01-07 |
-| [Smoke On the Highway](https://open.spotify.com/track/6QfundULpaM2BSV7tcxBsL) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Townie](https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr) | 4:13 | 2024-09-24 |  |
+| [Smoke On the Highway](https://open.spotify.com/track/6QfundULpaM2BSV7tcxBsL) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Townie](https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr) | 4:13 | 2024-09-24 | 2025-05-29 |
 | [Somebody](https://open.spotify.com/track/3Q2Sh0puZOeJvTjPPq4xnn) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Somebody](https://open.spotify.com/album/3jt8M4vaXSkrhi34KuFLuT) | 3:55 | 2024-07-01 | 2024-10-22 |
 | [Something](https://open.spotify.com/track/1qWkZqddBfB2gT9timbnN4) | [Hiqpy](https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq) | [Something](https://open.spotify.com/album/7LiLmYbPYkFyyaHnDLlE4P) | 4:21 | 2025-05-26 |  |
 | [Something To Remember](https://open.spotify.com/track/2p8NCaU68YwlL8ZNnyLFxx) | [Thomas Nicolas](https://open.spotify.com/artist/7pXdNMrXe30tL64f3N5rN8) | [Something To Remember](https://open.spotify.com/album/5dNXnpsIQ7uYPOX8r4pruv) | 2:47 | 2024-07-01 | 2025-03-18 |

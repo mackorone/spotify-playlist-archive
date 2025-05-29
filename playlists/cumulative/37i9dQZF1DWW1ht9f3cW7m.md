@@ -4,7 +4,7 @@
 
 > sweet and fresh emerging indie pop, featuring frances mistry 🎀
 
-257 songs - 13 hr 59 min
+258 songs - 14 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Blind](https://open.spotify.com/track/513z8kjyLSnl0toYu9xwdU) | [Only Real](https://open.spotify.com/artist/5cyHu7tidauRJ9UawaPwG5) | [Blind](https://open.spotify.com/album/0OKbrYFDbd3WbPdmSWY3Hq) | 3:00 | 2025-01-24 | 2025-04-13 |
 | [body to you](https://open.spotify.com/track/1xBQafV1iMGpZotqgAExHe) | [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [Avalanche](https://open.spotify.com/album/0j3KE6kVuo6mLoTpbc1acX) | 3:35 | 2025-02-14 |  |
 | [Bonnie & Clyde](https://open.spotify.com/track/0hBzNwcC1tQynw8fj7nPaj) | [CVC](https://open.spotify.com/artist/4UVp2DRjYXq2ZWQwA5QLuD) | [Bonnie & Clyde](https://open.spotify.com/album/7E5ORNlK5vQSY6lpUe1OiD) | 3:37 | 2025-04-12 | 2025-05-18 |
-| [borderline](https://open.spotify.com/track/3cfG7BZUKJuHjXZTpfsjNK) | [Max Pope](https://open.spotify.com/artist/1pW42WHCsBicnNoBkcbD7i) | [borderline](https://open.spotify.com/album/0G2chJn3DFh0FSjdDG9iyT) | 3:25 | 2025-04-12 |  |
+| [borderline](https://open.spotify.com/track/3cfG7BZUKJuHjXZTpfsjNK) | [Max Pope](https://open.spotify.com/artist/1pW42WHCsBicnNoBkcbD7i) | [borderline](https://open.spotify.com/album/0G2chJn3DFh0FSjdDG9iyT) | 3:25 | 2025-04-12 | 2025-05-29 |
 | [Boyfriend](https://open.spotify.com/track/4LGsX3jC2m7uRmhlbHcUGC) | [Teenage Dads](https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw) | [Boyfriend](https://open.spotify.com/album/7A5WFQa2dXh1MpUA2iJDCx) | 3:57 | 2024-07-12 | 2025-05-09 |
 | [Boys](https://open.spotify.com/track/7CWA14UlnWudaqC3KxX8WU) | [Alfie Jukes](https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9) | [Boys](https://open.spotify.com/album/5S7ckddyRxZPKcFwOMlKLS) | 4:03 | 2025-01-24 | 2025-05-02 |
 | [Boys](https://open.spotify.com/track/3wRLsbybqoHVncYouMQvp3) | [Ellur](https://open.spotify.com/artist/4uG8VYp1GLQpZVokfG2Ui7) | [Boys](https://open.spotify.com/album/5PzrhYhmTEb8Wao6CmZe66) | 3:12 | 2024-06-14 | 2025-04-13 |
@@ -150,6 +150,7 @@
 | [Learn To Let You Go](https://open.spotify.com/track/1OSIw2VfI1X6PEOlb6Epe3) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX), [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Learn To Let You Go](https://open.spotify.com/album/7nPnLv5ZkPXgQsCQdRk8Uz) | 3:11 | 2025-05-01 |  |
 | [Like a Fool](https://open.spotify.com/track/0atY2C366o795qGCmGwWv7) | [Essence Martins](https://open.spotify.com/artist/4DahLnNm7J5zRiQmiQeWec) | [Deer In The Headlights](https://open.spotify.com/album/382WnZSUuDvsT2YhNWS3Ih) | 4:09 | 2024-06-14 | 2024-07-13 |
 | [Like Honey](https://open.spotify.com/track/2BHjccS8tjcww3NwIgbMIz) | [Yuneki](https://open.spotify.com/artist/53r8hPKEBgXFSRpg2Hbpmi) | [Like Honey](https://open.spotify.com/album/0trNw0ZdkN4za0xh96II1F) | 3:28 | 2024-06-14 | 2025-01-24 |
+| [Like You Mean It](https://open.spotify.com/track/4I6YA2dALn0knco3BylDmf) | [The Flints](https://open.spotify.com/artist/4yJmzmjRodRbsqgOVpHD1v) | [Like You Mean It](https://open.spotify.com/album/1OPRflgKe11QJ3SJa65ynF) | 3:04 | 2025-05-22 |  |
 | [Living In A Dream](https://open.spotify.com/track/4lKXmQEGW64zHKnkMcLvbR) | [The Flints](https://open.spotify.com/artist/4yJmzmjRodRbsqgOVpHD1v) | [Living In A Dream](https://open.spotify.com/album/0pXGJiiO2fysQYXmyQqG6A) | 3:16 | 2024-06-14 | 2024-12-24 |
 | [Lizard](https://open.spotify.com/track/4rmMO7iCXpt4BClXUd5eDS) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Lizard](https://open.spotify.com/album/3NJrjLlAcDdUsgP78WVuck) | 3:20 | 2025-04-12 |  |
 | [Losing By A Landslide](https://open.spotify.com/track/3rmUh491bZcjZlzv2zn1xa) | [Sophia Alexa](https://open.spotify.com/artist/73lvPuHcwxbYt4DzLhs7XZ) | [Losing By A Landslide](https://open.spotify.com/album/16D48mNNTX9JtuKUuVMnKP) | 3:14 | 2024-06-14 | 2025-01-24 |

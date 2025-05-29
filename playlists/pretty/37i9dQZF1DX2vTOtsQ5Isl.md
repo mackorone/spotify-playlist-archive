@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vTOtsQ5Isl.md) - [plain]
 
 > Gorące nowości i przeboje od światowych gwiazd muzyki pop\. Cover: sombr
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,639 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,747 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vTOtsQ5Isl.md) - [plain]
 | 59 | [More to Lose](https://open.spotify.com/track/2xAHKs8W4lcOLweTCAPUbF) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [More to Lose](https://open.spotify.com/album/00YhOpwh4N9I5ItJP8C6pc) | 4:35 |
 | 60 | [Timeless \(feat\. Playboi Carti & Doechii\) \- Remix](https://open.spotify.com/track/7kJyHFVVZMv1wQYRU9de9d) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Timeless \(Remix\)](https://open.spotify.com/album/0FWdxPnncm63s91g0PkTvv) | 3:48 |
 
-Snapshot ID: `aC+ehwAAAAC47MG3fwhT2+jbLfDWGD9n`
+Snapshot ID: `aC+ehwAAAACkjfpSpupmZ8O4lGif2iJC`

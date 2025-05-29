@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: 데이먼스 이어 \(Damons year\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-956 songs - 2 day 10 hr 19 min
+957 songs - 2 day 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -613,6 +613,7 @@
 | [Photograph 사진첩](https://open.spotify.com/track/0NH2J0S8HK56jq5YUwVL22) | [Dasutt](https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s) | [Photograph 사진첩](https://open.spotify.com/album/6zdxKx3yMTontzE3Mfg8oc) | 4:14 | 2021-12-21 | 2022-06-05 |
 | [Picture](https://open.spotify.com/track/56oE2VjbGEgGSiBk1keP5d) | [O.WHEN](https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq) | [Picture](https://open.spotify.com/album/7IIlgeMAaSxO2JwhetHFMf) | 4:11 | 2022-04-12 | 2022-04-19 |
 | [Piscis](https://open.spotify.com/track/3Mp0lsOnz9Srf6zW3EntnF) | [Shin Hae Gyeong](https://open.spotify.com/artist/5QvjYtqN0mekeCiyhdAjss) | [The Oddscape](https://open.spotify.com/album/7wfohCLnRXfhaZUXIOstum) | 4:05 | 2024-11-29 | 2025-01-31 |
+| [Pixels](https://open.spotify.com/track/5YBTucTtGmiXiRATFlW0Nz) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Pixels](https://open.spotify.com/album/3DiqMTkQMuCrjo9Cf8Oq9d) | 4:08 | 2025-05-28 |  |
 | [Play With Me!](https://open.spotify.com/track/4CmF4iIoV7Wafddq0M0Ni7) | [Jisokury](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [Play With Me!](https://open.spotify.com/album/1LAmZS4Qhapw80O54zH8Ib) | 3:55 | 2022-03-09 | 2022-04-03 |
 | [Playing Guitar 기타를 치며](https://open.spotify.com/track/2orUiubkXn0WUhosdNvKIr) | [Mineri](https://open.spotify.com/artist/248cYeF1SitJc42qGZ8QUi) | [Playing Guitar 기타를 치며](https://open.spotify.com/album/6YmxeaHHfdWGOeH64rW6zN) | 3:33 | 2022-03-31 | 2022-04-05 |
 | [PLAYLIST](https://open.spotify.com/track/12kMpvtjefa3ocd8BOj3k9) | [Ahn Heesu](https://open.spotify.com/artist/2Fwxi3YNuEudad5gK11BUo) | [PLAYLIST](https://open.spotify.com/album/49v8k8cmufM9Lhz4TkrpcI) | 3:54 | 2022-07-08 | 2022-08-05 |
@@ -623,7 +624,7 @@
 | [Po.Ong \(feat\. Kim Min Seok of MeloMance\)](https://open.spotify.com/track/5H14NYlM5sV4FTL2NHzych) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW), [Kim Min Seok of MeloMance](https://open.spotify.com/artist/65a7h2pva5HZy6aZA9bvdW) | [Po.Ong \(Hug\)](https://open.spotify.com/album/0F6Yr8EQDnuHn19ZcTMcqj) | 3:47 | 2024-04-30 | 2024-05-10 |
 | [POKZOOK TIME](https://open.spotify.com/track/7ok3LoeV3VwL4PKU24bMpv) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [PRE\-RELEASE 3RD ALBUM \[YEOK SEONG\]](https://open.spotify.com/album/7ISbHpHU4iLp3GiC2fi1oR) | 3:18 | 2024-07-03 | 2024-08-06 |
 | [Pong Dang](https://open.spotify.com/track/1z4RuGHHajj2eRK8IMbxMw) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Pong Dang](https://open.spotify.com/album/1pFgxq13Tw9ZU7owb3BTP2) | 3:53 | 2022-07-08 | 2022-07-12 |
-| [pony](https://open.spotify.com/track/6pZIsf4z5iFsueGtlHn35V) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [pony](https://open.spotify.com/album/0Fqg5u1mP8d8VJZmhIWkpc) | 3:01 | 2023-07-05 |  |
+| [pony](https://open.spotify.com/track/6pZIsf4z5iFsueGtlHn35V) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [pony](https://open.spotify.com/album/0Fqg5u1mP8d8VJZmhIWkpc) | 3:01 | 2023-07-05 | 2025-05-29 |
 | [Potential](https://open.spotify.com/track/6Lrp4HqonE16Tt8PDeOHbY) | [deulrejang](https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM) | [Potential](https://open.spotify.com/album/1aF1e7wcTDiADgCGe6trPg) | 3:08 | 2022-06-20 | 2022-06-30 |
 | [Prettiest One](https://open.spotify.com/track/5jxBIft0pEtB3rJKs06dwv) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [Prettiest One \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/1saFQAJ9to9vbnggAleSfm) | 3:08 | 2022-03-31 | 2022-06-17 |
 | [Private Language](https://open.spotify.com/track/5PXbAtE5H3e3SkWXenu07T) | [Pil Kyo](https://open.spotify.com/artist/2ZVOkp4yAY6v4mD4YR8Chw) | [Private Language](https://open.spotify.com/album/7z7fiojUks8WesV42xMf4r) | 4:11 | 2022-03-09 | 2022-07-29 |

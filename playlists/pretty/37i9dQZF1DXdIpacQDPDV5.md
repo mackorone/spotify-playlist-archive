@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > The best of today's dance hits\. Cover: CHYL
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,083 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,075 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 22 | [Don't Wake Me Up](https://open.spotify.com/track/3sU1L9okYWbN61oHZNQTfh) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Don't Wake Me Up](https://open.spotify.com/album/3j5uOXYCe6ebHU86UcAMAg) | 2:34 |
 | 23 | [Surrender](https://open.spotify.com/track/2HJu1bxkubHZEXC8r6snXY) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Surrender](https://open.spotify.com/album/5uIjazA5fZ88us2oc1zbBd) | 2:24 |
 | 24 | [Breathe Me In](https://open.spotify.com/track/6gApAE8LZAddMlgHDlvIY1) | [DJ Planet Express](https://open.spotify.com/artist/0nx9ai3o3Ba6bE3WHkEoQg) | [Breathe Me In / Waves](https://open.spotify.com/album/1NEtjk8sfM3jeTVLJYDKML) | 3:32 |
-| 25 | [Pressure \- Indira Paganotto Remix](https://open.spotify.com/track/0CesUDLx0Oj2J19HVbQOnd) | [LEGZDINA](https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N), [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Indira Paganotto](https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR) | [Pressure \(Indira Paganotto Remix\)](https://open.spotify.com/album/7bbuWt0xlR3hG7oK9MXQWf) | 4:29 |
+| 25 | [Pressure \- Indira Paganotto Remix](https://open.spotify.com/track/0CesUDLx0Oj2J19HVbQOnd) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [LEGZDINA](https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N), [Indira Paganotto](https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR) | [Pressure \(Indira Paganotto Remix\)](https://open.spotify.com/album/7bbuWt0xlR3hG7oK9MXQWf) | 4:29 |
 | 26 | [No Enemies \(feat\. Namasenda\)](https://open.spotify.com/track/55gp7v87CYS1lxWQ5ho5nK) | [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP), [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s), [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [No Enemies \(feat\. Namasenda\)](https://open.spotify.com/album/7pvzIp85EdrRsBMN1SDW5p) | 2:40 |
 | 27 | [Show Me Love](https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Show Me Love](https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6) | 2:56 |
 | 28 | [Is It Real \(feat\. Ravyn Lenae\)](https://open.spotify.com/track/3tYxKs4D1Xqyt9xR8soVdr) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [We Live In A Society](https://open.spotify.com/album/2NvuDARjVRkDMZAHnx8ll5) | 2:49 |

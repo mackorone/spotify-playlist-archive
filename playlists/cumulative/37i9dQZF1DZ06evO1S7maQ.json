@@ -576,7 +576,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-29",
       "duration_ms": 264507,
       "name": "Dustland (feat. Bruce Springsteen)",
       "url": "https://open.spotify.com/track/6F3AStga2KRSJVZvVA5L3c"
@@ -998,7 +998,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-29",
       "duration_ms": 390320,
       "name": "Jersey Girl - Live at Meadowlands Arena, E. Rutherford, NJ - July 1981",
       "url": "https://open.spotify.com/track/3kqC9r9ilM63AogQ47RVpu"
@@ -1095,6 +1095,24 @@
     },
     {
       "album": {
+        "name": "Land Of Hope & Dreams",
+        "url": "https://open.spotify.com/album/1wWm7MPHSIpBX7Wiw8LAAq"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393949,
+      "name": "Long Walk Home - Live in Manchester, May 14, 2025",
+      "url": "https://open.spotify.com/track/6DplepOEJuoBLHLhzWLhAe"
+    },
+    {
+      "album": {
         "name": "The Live Series: Songs Of Location",
         "url": "https://open.spotify.com/album/3f9gSNrcSQxcEjWDSbOxAK"
       },
@@ -1128,6 +1146,24 @@
       "duration_ms": 358933,
       "name": "Mary's Place",
       "url": "https://open.spotify.com/track/0g0MBBxtDRy8Igs0AzSZR4"
+    },
+    {
+      "album": {
+        "name": "Land Of Hope & Dreams",
+        "url": "https://open.spotify.com/album/1wWm7MPHSIpBX7Wiw8LAAq"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410937,
+      "name": "My City of Ruins - Live in Manchester, May 14, 2025",
+      "url": "https://open.spotify.com/track/5suxhWHmTHj73KFTTa72N5"
     },
     {
       "album": {

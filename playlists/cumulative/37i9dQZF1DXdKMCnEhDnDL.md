@@ -2,9 +2,9 @@
 
 ### [Beste van NL](https://open.spotify.com/playlist/37i9dQZF1DXdKMCnEhDnDL)
 
-> De beste Nederlandse liedjes\. Cover: Emma Heesters
+> De beste Nederlandse liedjes\. Cover: Suzan & Freek
 
-375 songs - 19 hr 13 min
+377 songs - 19 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Al Heb Ik Mijn Dag Niet](https://open.spotify.com/track/4FoFIk9hoa38futUYCVAlC) | [Vlins](https://open.spotify.com/artist/3qV1LDx1ZWWJVdnLuVXAB5), [Laura Yasmin](https://open.spotify.com/artist/2ifdw2Mu8P2fCey9VLhuu2) | [Al Heb Ik Mijn Dag Niet](https://open.spotify.com/album/00tIhm0Jr6Yu7AweGL9Qet) | 3:22 | 2024-02-13 | 2025-02-21 |
 | [Alleen Met Jou](https://open.spotify.com/track/2K7HqkHEUfz7c4BzEO33Qd) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F), [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM) | [Alleen Met Jou](https://open.spotify.com/album/7HgRghVOzefgyXloz5HUmq) | 3:13 | 2024-10-24 |  |
 | [Allermeest](https://open.spotify.com/track/0feAMm6cs12Ped1uuoNKjG) | [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA) | [Allermeest](https://open.spotify.com/album/0MsIqJcvATIVhrnDZSlzLv) | 2:46 | 2023-02-24 | 2024-02-03 |
+| [Alles](https://open.spotify.com/track/15GrS3BRyZNy6M6SC7UCTz) | [Big2](https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Hard Hout](https://open.spotify.com/album/4olpplTVPCKmgIxDOinv2E) | 2:51 | 2025-05-28 |  |
 | [Alles](https://open.spotify.com/track/1Mvjog6iuetW1uXH4di2bP) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Alles](https://open.spotify.com/album/0XEjnbbUYmcdbDazbxNmvs) | 3:02 | 2023-02-24 | 2024-07-05 |
 | [Alles Kwijt \- Live in Carré 2023](https://open.spotify.com/track/3swj4AMjeqaPxHAqftfAq8) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Alles Kwijt](https://open.spotify.com/album/2L1qzNA0JnpifTZMI07a9i) | 3:15 | 2023-12-07 | 2024-03-20 |
 | [Alles Op Gevoel](https://open.spotify.com/track/3kHSi1ysS2HLt3XmBLIYlO) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Zoe Tauran](https://open.spotify.com/artist/63eEYhIlgGEjHZrQf61EAB), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Twee Stappen Voor](https://open.spotify.com/album/6HwoP7y1vS2gtH2bMPdfHK) | 2:49 | 2024-10-24 |  |
@@ -215,9 +216,10 @@
 | [Leef Een Beetje](https://open.spotify.com/track/1vhEfity5GLO5a9qF6ch7B) | [Big2](https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV), [Sticks](https://open.spotify.com/artist/0DnbOatBnP7UDkeiQACgxd) | [Leef Een Beetje](https://open.spotify.com/album/2LEx437XznruD4LOlh1eYc) | 2:10 | 2025-02-11 | 2025-04-04 |
 | [Leuk](https://open.spotify.com/track/2z43Tcnc82QqrOCHv5GG9J) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Big2](https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV) | [Heilig Water](https://open.spotify.com/album/5qZ3b7w4956bKObKxtXSTY) | 2:27 | 2023-02-24 | 2023-07-07 |
 | [Leven](https://open.spotify.com/track/2Mv9R8FDkPCjAghezGUgJC) | [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU) | [Leven](https://open.spotify.com/album/22DIca4jxPu2N5o8vgKAKm) | 2:14 | 2023-02-24 |  |
-| [Leven Het Groots](https://open.spotify.com/track/3WaWlhDgXD8ljeO3dqQd3q) | [Shary\-An](https://open.spotify.com/artist/4YJo8C4fQjZXRewIuH6rnc), [Kenny B](https://open.spotify.com/artist/2NX52zvQRp4AxVzhp2cMiP) | [Leven Het Groots](https://open.spotify.com/album/2a0OmGXhmN3U0GN8BKP6by) | 2:31 | 2024-10-03 |  |
+| [Leven Het Groots](https://open.spotify.com/track/3WaWlhDgXD8ljeO3dqQd3q) | [Shary\-An](https://open.spotify.com/artist/4YJo8C4fQjZXRewIuH6rnc), [Kenny B](https://open.spotify.com/artist/2NX52zvQRp4AxVzhp2cMiP) | [Leven Het Groots](https://open.spotify.com/album/2a0OmGXhmN3U0GN8BKP6by) | 2:31 | 2024-10-03 | 2025-05-29 |
 | [Levenslang](https://open.spotify.com/track/1Vk4hsnhJAgZxZDRG9jThx) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Levenslang](https://open.spotify.com/album/6SgbamvUI8Nzuhw7NIEW5s) | 3:44 | 2024-10-24 |  |
 | [Levenslang](https://open.spotify.com/track/39up5WgPdJqPTi56C4mEJq) | [Jeroen Van Der Boom](https://open.spotify.com/artist/5zEUGwAdlfTQqKplCJJuua) | [Levenslang](https://open.spotify.com/album/2dHMo4Cb6qfR1DjpuayvCm) | 3:17 | 2025-05-26 |  |
+| [Lichtje Branden](https://open.spotify.com/track/16VFlUdJfBnF2UoMgTJIDI) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Dromen In Kleur](https://open.spotify.com/album/2JtjfJrGUOWfmT3AZ65IZF) | 2:52 | 2025-05-28 |  |
 | [Liefde Van Later](https://open.spotify.com/track/2x7ltK4hyYsRUALOqlKFk7) | [Paskal Jakobsen](https://open.spotify.com/artist/22shUi37uDfZmZQ8H6YuWr) | [Liefde Van Later](https://open.spotify.com/album/1vA8Pw95YH4zNCxOPaM1Zm) | 4:43 | 2024-04-16 | 2024-05-24 |
 | [Liefste](https://open.spotify.com/track/03rS8yQDtIHaDuUewAbEe7) | [LUNA](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf) | [Liefste](https://open.spotify.com/album/5TueQLTCYfnzmD9XtCbkse) | 2:35 | 2025-03-12 |  |
 | [Lil Freakje](https://open.spotify.com/track/7tqg41RdA6MLUrUbcNrFoJ) | [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q), [ADF Samski](https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8) | [Lil Freakje](https://open.spotify.com/album/5qSSgAxAPQ4tfDeodFFc7A) | 3:34 | 2025-05-07 |  |
@@ -335,7 +337,7 @@
 | [Verder Gaan](https://open.spotify.com/track/6UmHcP85c9ithN6491OqGB) | [FLEUR](https://open.spotify.com/artist/5jE7YqOC3yRqDh0QsOmTV0) | [Verder Gaan](https://open.spotify.com/album/0r77Nr0uGa2s6LjUhUn8nu) | 2:59 | 2024-07-04 | 2025-05-08 |
 | [Vergeef Me](https://open.spotify.com/track/3uWDhz3cIoWzN1944cUmq6) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Vergeef Me](https://open.spotify.com/album/1sr1TbYn17UxMa6xOqoSaN) | 3:02 | 2025-04-03 |  |
 | [Verleden Tijd](https://open.spotify.com/track/1vYF6O8JLonzVYrJGSGNNW) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Verleden Tijd](https://open.spotify.com/album/2NZL8RRqr3CyrOYUuSOcPa) | 2:47 | 2023-05-15 | 2024-03-20 |
-| [Verleden Tijd](https://open.spotify.com/track/7FR89ZwB3ilNeUMsz1P80O) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Verleden Tijd](https://open.spotify.com/album/1jhy8byW2VtIarRBzAyoOC) | 2:56 | 2024-07-25 |  |
+| [Verleden Tijd](https://open.spotify.com/track/7FR89ZwB3ilNeUMsz1P80O) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Verleden Tijd](https://open.spotify.com/album/1jhy8byW2VtIarRBzAyoOC) | 2:56 | 2024-07-25 | 2025-05-29 |
 | [Verrader](https://open.spotify.com/track/41ftob2dyXVwsrC3Q5oNIq) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Verrader](https://open.spotify.com/album/3LxnX0bz2R5b5CWsUE3PN6) | 2:42 | 2024-03-19 | 2024-06-21 |
 | [VINDERSLOON](https://open.spotify.com/track/7bSaQDxmheM9dhBS9NYlq7) | [Dio](https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ), [Typhoon](https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx) | [de vluGtlaan](https://open.spotify.com/album/78zhc4bB3FYASBaDlilWC4) | 3:01 | 2025-03-27 | 2025-05-27 |
 | [Vlammen](https://open.spotify.com/track/0rNbnftds39PJOL8HzdLho) | [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [Heimwee](https://open.spotify.com/album/6IgSZ5VJ7m1dP5zeaWBUWh) | 3:51 | 2024-11-28 | 2025-02-28 |

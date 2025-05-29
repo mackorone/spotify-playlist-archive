@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4vLyj0srrBvo.md) - [plain]
 
 > With Pastel Ghost, Sidewalks and Skeletons, Mareux and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,160 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,182 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4vLyj0srrBvo.md) - [plain]
 | 49 | [Delete Forever](https://open.spotify.com/track/71J2rawCGulCAyTMtNY3Ej) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Miss Anthropocene \(Deluxe Edition\)](https://open.spotify.com/album/4zyqNfmTrnvUejh8M1IEh9) | 3:57 |
 | 50 | [We Appreciate Power](https://open.spotify.com/track/46cWr45cjDcXEQpkYp9jFT) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab), [HANA](https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o) | [Miss Anthropocene \(Deluxe Edition\)](https://open.spotify.com/album/4zyqNfmTrnvUejh8M1IEh9) | 5:35 |
 
-Snapshot ID: `aDZrpAAAAAA3SfDuE0Pe5ExArGUAa7zN`
+Snapshot ID: `aDfNlgAAAADjIKljO28nnsjO4010tdow`

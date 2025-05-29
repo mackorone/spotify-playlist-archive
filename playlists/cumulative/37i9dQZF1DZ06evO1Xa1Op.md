@@ -4,7 +4,7 @@
 
 > This is Ali Farka Touré\. The essential tracks, all in one playlist.
 
-121 songs - 10 hr 4 min
+122 songs - 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Be Mankan](https://open.spotify.com/track/1IrPSbGITPaMwMMEXfb2DJ) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [Ali & Toumani](https://open.spotify.com/album/4JiLV9qrmMyP1xmgl3B4HH) | 5:06 | 2023-12-13 |  |
 | [Be Mankan](https://open.spotify.com/track/7CA7jcMHe5pnXA7QQmgGBR) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [Ali & Toumani](https://open.spotify.com/album/14uhq1loNIOTT23aRo4oCi) | 5:06 | 2021-12-28 | 2023-12-14 |
 | [Beto](https://open.spotify.com/track/3Jzc8txMyjGj0OQU1DsEl6) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Savane](https://open.spotify.com/album/1lbT3JkVYPxbcDtebod6Ez) | 4:45 | 2021-12-28 | 2024-12-24 |
-| [Beto](https://open.spotify.com/track/2I9ZSrLeX7tslnqn0ouVuz) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Savane](https://open.spotify.com/album/2WsP2BPz9GI5sJBdJFonrO) | 4:49 | 2025-05-19 |  |
+| [Beto](https://open.spotify.com/track/2I9ZSrLeX7tslnqn0ouVuz) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Savane](https://open.spotify.com/album/2WsP2BPz9GI5sJBdJFonrO) | 4:49 | 2025-05-19 | 2025-05-29 |
 | [Bonde \(with Ry Cooder\)](https://open.spotify.com/track/7L5FEYVfpIEGHJOv6gZ6EW) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Talking Timbuktu \(with Ry Cooder\)](https://open.spotify.com/album/2MSgPFGGgIn5EqLezjLpt9) | 5:24 | 2021-12-28 | 2023-12-14 |
 | [Bonde \- with Ry Cooder](https://open.spotify.com/track/28HE2hcTggk9F46G9Ra6PY) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Talking Timbuktu \(with Ry Cooder\)](https://open.spotify.com/album/0pOL9eM3BPolgD5jjQInAk) | 5:28 | 2023-12-13 |  |
 | [Cherie \(feat\. Oumou Sangaré\)](https://open.spotify.com/track/2CrbTDdZUASqSWBfpvCydn) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Cherie \(feat\. Oumou Sangaré\)](https://open.spotify.com/album/5Wwjx8vMkSFPNzxF7wZ35R) | 5:47 | 2023-02-11 |  |
@@ -121,6 +121,7 @@
 | [Takamba \- Instrumental;2017 Remastered Version](https://open.spotify.com/track/6XbqbfuoZNMU7CREhL5JaO) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [The Source \(2017 Remastered Version\)](https://open.spotify.com/album/1Q3cxh12wxlKuF6k4obzbj) | 4:53 | 2021-12-28 | 2023-03-14 |
 | [The Secret](https://open.spotify.com/track/362JdradEO0cX5N7qYhkRE) | [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze), [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [The Secret](https://open.spotify.com/album/0gGinv1UJ9R4wAPhimSjWc) | 6:51 | 2021-12-28 | 2025-02-07 |
 | [Timbarma](https://open.spotify.com/track/2DMNbBoZnuDkQcoFjRiAMb) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Ali Farka Touré](https://open.spotify.com/album/1aX7oOVYryzsfu2wWk9hok) | 5:08 | 2021-12-28 | 2022-10-15 |
+| [TIMBINDY](https://open.spotify.com/track/5tmj1qvK1JquYi8yRcgupj) | [Juanma Nieto](https://open.spotify.com/artist/0cFwwkjCHNZc5JAOvlBZ4N), [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [SABAR MEETS JAZZ](https://open.spotify.com/album/1PrNSteU1B6rQM797Petp6) | 3:24 | 2025-05-29 |  |
 | [Toungere](https://open.spotify.com/track/0K3W6FrcGzkgYJjYwa8m17) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [The River](https://open.spotify.com/album/78Pv299m6S629pS6hPFOix) | 7:31 | 2021-12-28 | 2022-10-13 |
 | [Tulumba](https://open.spotify.com/track/3dDuNtU56FIC8crdNgqDrJ) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Niafunké](https://open.spotify.com/album/5GfXFFsn4cYbsbFTmlGaDa) | 5:22 | 2021-12-28 | 2023-03-14 |
 | [Warbé](https://open.spotify.com/track/4fb7CtOq5pb3gNcC6ebfQF) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [Ali & Toumani](https://open.spotify.com/album/4JiLV9qrmMyP1xmgl3B4HH) | 4:51 | 2023-12-13 |  |

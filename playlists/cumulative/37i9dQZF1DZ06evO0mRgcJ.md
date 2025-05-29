@@ -4,7 +4,7 @@
 
 > This is Los Desvelados\. The essential tracks, all in one playlist.
 
-84 songs - 4 hr 33 min
+85 songs - 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,11 +55,12 @@
 | [Hay Les Voy De Nuevo](https://open.spotify.com/track/72oyJ4ZmOWPuqyXw2d6I6m) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Los Juniors de California](https://open.spotify.com/artist/3Eqt4YgWB1MBq9E692lhk1) | [A Los Angeles Hay Que Tenerle Cuidado](https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B) | 3:14 | 2024-01-29 |  |
 | [HUMILDE Y RANCHERO](https://open.spotify.com/track/1AfJbVYMxJpwy8VKmtViS5) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [CORRIDOS UNDERGROUND \(Vol\. 4\)](https://open.spotify.com/album/2Nqb3yTWqrq8IJ5hPMn9UY) | 4:09 | 2024-04-27 | 2024-08-22 |
 | [Humilde y Sencillo \(En Vivo\)](https://open.spotify.com/track/5w7W726cvmYEG4WUnNzjfT) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Corridos Underground Desde Culiacan Sin \(En Vivo\)](https://open.spotify.com/album/0h0VNlor4eGbnLPC71mRdp) | 1:49 | 2024-01-29 | 2025-01-05 |
-| [Indio Enamorado](https://open.spotify.com/track/1GqnzEv3hQyd9ridxoQG3g) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [LA Privada](https://open.spotify.com/album/0PNMxKlPkcdUXEwCf9pcPf) | 3:25 | 2025-05-26 |  |
+| [Indio Enamorado](https://open.spotify.com/track/1GqnzEv3hQyd9ridxoQG3g) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [LA Privada](https://open.spotify.com/album/0PNMxKlPkcdUXEwCf9pcPf) | 3:25 | 2025-05-26 | 2025-05-29 |
 | [Johnny Boy \(feat\. Los Nuevos Ilegales & La Decima Banda\)](https://open.spotify.com/track/4APetySIwtHz0sUdBcwsNw) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U), [Los Nuevos Ilegales](https://open.spotify.com/artist/0dAcy3ayJIW98jdHTacqac) | [Johnny Boy \(feat\. Los Nuevos Ilegales & La Decima Banda\)](https://open.spotify.com/album/7MgODVOyJPFXuThp6bivKL) | 2:37 | 2024-01-29 |  |
 | [Joven Delincuente](https://open.spotify.com/track/5esyzttlthLkvEhaJsPtUd) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Joven Delincuente](https://open.spotify.com/album/6LJQHthrT6kncN1zN9atvE) | 3:56 | 2024-01-29 | 2024-06-18 |
 | [Joven Delinquente](https://open.spotify.com/track/0H6CmqrDWzdGS6C4nVrDuv) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Grupo Elexion](https://open.spotify.com/artist/5JQFHFB2VCcven5RfSH1d7) | [A Los Angeles Hay Que Tenerle Cuidado](https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B) | 3:42 | 2024-05-24 | 2024-05-26 |
 | [La Patrulla](https://open.spotify.com/track/7dueUpuihkYhTDGO5V3IBD) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [LA Privada](https://open.spotify.com/album/0PNMxKlPkcdUXEwCf9pcPf) | 2:18 | 2025-05-16 |  |
+| [Las Vacaciones del Jefe](https://open.spotify.com/track/0M9CGFVX73YETJxg1KNcm0) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [LA Privada](https://open.spotify.com/album/0PNMxKlPkcdUXEwCf9pcPf) | 3:37 | 2025-05-29 |  |
 | [Layo Gastelum \(En Vivo\)](https://open.spotify.com/track/3numKkxd3guCAWjwJgLjdH) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Corridos Underground 2](https://open.spotify.com/album/5ePdJzekAiQoxukqYlzEiY) | 2:28 | 2024-01-29 |  |
 | [Los Tengo Viendo](https://open.spotify.com/track/7hGcGzrh6Bl6OLubzHbLb2) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Los Tengo Viendo](https://open.spotify.com/album/22YgCj8XGrlDQjlJGT8faI) | 3:54 | 2024-01-29 |  |
 | [Me Dicen E](https://open.spotify.com/track/4VSFniHiB9DICyT3JqrQNw) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Grupo Los Del Area](https://open.spotify.com/artist/2cuvlWUiSa8eLLTbnRR0cf) | [A Los Angeles Hay Que Tenerle Cuidado](https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B) | 3:26 | 2024-01-29 |  |

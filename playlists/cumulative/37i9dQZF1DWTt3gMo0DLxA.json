@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Trending songs from Tollywood! \nCover: Court",
+  "description": "Trending songs from Tollywood! \nCover: Khaleja",
   "name": "Trending Now Telugu",
   "tracks": [
     {
@@ -1740,7 +1740,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-29",
       "duration_ms": 223500,
       "name": "Hi Laila",
       "url": "https://open.spotify.com/track/4GLuMIgV7UosM4zePMtlQu"
@@ -3367,6 +3367,32 @@
     },
     {
       "album": {
+        "name": "Khaaleja (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6U1ZDp9cdKJrgJfoXdrkCu"
+      },
+      "artists": [
+        {
+          "name": "Mani Sharma",
+          "url": "https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss"
+        },
+        {
+          "name": "Hemachandra Vedala",
+          "url": "https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN"
+        },
+        {
+          "name": "Shweta Mohan",
+          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
+        }
+      ],
+      "date_added": "2025-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340906,
+      "name": "Pileche",
+      "url": "https://open.spotify.com/track/1mOCb1w5n62jLGHJqpGL2W"
+    },
+    {
+      "album": {
         "name": "RX 100",
         "url": "https://open.spotify.com/album/2vjnanwkgSnHU96BPZVtpR"
       },
@@ -4067,6 +4093,32 @@
     },
     {
       "album": {
+        "name": "Khaaleja (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6U1ZDp9cdKJrgJfoXdrkCu"
+      },
+      "artists": [
+        {
+          "name": "Mani Sharma",
+          "url": "https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss"
+        },
+        {
+          "name": "Ramesh Vinayakam",
+          "url": "https://open.spotify.com/artist/6inHsxIYCalnwN5AcdWtjL"
+        },
+        {
+          "name": "Karunya",
+          "url": "https://open.spotify.com/artist/6qrS6jqZfr8HJe3IWkQqv2"
+        }
+      ],
+      "date_added": "2025-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267600,
+      "name": "Sada Siva",
+      "url": "https://open.spotify.com/track/7sB18S2Ae8Aye4n9s9LZNj"
+    },
+    {
+      "album": {
         "name": "Samayama (From \"Hi Nanna\")",
         "url": "https://open.spotify.com/album/6D13wnr8nPxBHLalTHPrqG"
       },
@@ -4422,7 +4474,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-29",
       "duration_ms": 101503,
       "name": "The Paradise Theme OST (From \"The Paradise\")",
       "url": "https://open.spotify.com/track/75psy3t04DkzPbaXVAgjD4"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 
 > indie & indiepop in het Nederlands\. Cover: Eefje de Visser
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,377 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,418 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,18 +45,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 | 35 | [WijTwee](https://open.spotify.com/track/2hqlsv11YK6cJqt7jJn6vQ) | [Astronaut](https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn) | [De Lucht](https://open.spotify.com/album/1kA1PK4ls833pRy3G41ALi) | 2:46 |
 | 36 | [Wildernis](https://open.spotify.com/track/4XnKHxkNz9myioLIPM7NnQ) | [Johannes Is Zijn Naam](https://open.spotify.com/artist/2RBFRe2zOvWfzMotCRr7D0) | [Wildernis](https://open.spotify.com/album/0XcPUzHYP68CtnXoxBm1YJ) | 3:31 |
 | 37 | [Disco Dip](https://open.spotify.com/track/3ozI7vH6AYsSeiGYB53iwr) | [Prins S\. en De Geit](https://open.spotify.com/artist/0jXZD0lM7Icyig6RrBGlUi) | [Partijtje \(Deluxe\)](https://open.spotify.com/album/5CdmWnzhXsmDOcmEfbXCY0) | 3:05 |
-| 38 | [Waarom Ik Zo Ben](https://open.spotify.com/track/1fmX3SAnzqe1UqUbnwn3SR) | [Merle](https://open.spotify.com/artist/6y2VqVMyiZAAQpA4lSCBu0) | [Waarom Ik Zo Ben](https://open.spotify.com/album/1z55auGHkjSdETH4YJKdud) | 2:00 |
-| 39 | [Lach](https://open.spotify.com/track/05P1nGFVfX5YYXH51nPeeJ) | [Spijbelaar](https://open.spotify.com/artist/1qlWFFK3AhBmlk7Lyft6MP) | [Lach](https://open.spotify.com/album/1m1Ksb78UTjW9QsOAlDfJI) | 3:06 |
-| 40 | [Zonder Naam](https://open.spotify.com/track/2L9SjKxjHUPiZ4KRNZsbri) | [Spinvis](https://open.spotify.com/artist/1Vxc40v4VtLpSWTF2bn8Y4) | [Zonder Naam](https://open.spotify.com/album/5QEFqvIyfTxjiRgPMuKuq5) | 3:01 |
-| 41 | [Vager!](https://open.spotify.com/track/5llK2C03HqHJ7NM8ixKwYD) | [IDA](https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN), [MAZOO](https://open.spotify.com/artist/0xbGR2sM0IN3C3pwlmA4Hj) | [Vager!](https://open.spotify.com/album/5zRCPSHsRjT9thKatrwc1J) | 2:12 |
+| 38 | [Lach](https://open.spotify.com/track/05P1nGFVfX5YYXH51nPeeJ) | [Spijbelaar](https://open.spotify.com/artist/1qlWFFK3AhBmlk7Lyft6MP) | [Lach](https://open.spotify.com/album/1m1Ksb78UTjW9QsOAlDfJI) | 3:06 |
+| 39 | [Vager!](https://open.spotify.com/track/5llK2C03HqHJ7NM8ixKwYD) | [IDA](https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN), [MAZOO](https://open.spotify.com/artist/0xbGR2sM0IN3C3pwlmA4Hj) | [Vager!](https://open.spotify.com/album/5zRCPSHsRjT9thKatrwc1J) | 2:12 |
+| 40 | [Waarom Ik Zo Ben](https://open.spotify.com/track/1fmX3SAnzqe1UqUbnwn3SR) | [Merle](https://open.spotify.com/artist/6y2VqVMyiZAAQpA4lSCBu0) | [Waarom Ik Zo Ben](https://open.spotify.com/album/1z55auGHkjSdETH4YJKdud) | 2:00 |
+| 41 | [Zonder Naam](https://open.spotify.com/track/2L9SjKxjHUPiZ4KRNZsbri) | [Spinvis](https://open.spotify.com/artist/1Vxc40v4VtLpSWTF2bn8Y4) | [Zonder Naam](https://open.spotify.com/album/5QEFqvIyfTxjiRgPMuKuq5) | 3:01 |
 | 42 | [23.45](https://open.spotify.com/track/19y3TK5V9b7MZEe5qTKCY1) | [puntjudith](https://open.spotify.com/artist/2TY5EKL27G5c9deuWQIj8d) | [23.45](https://open.spotify.com/album/4b0W64Ivrfy3aJgztXW1E9) | 3:17 |
-| 43 | [Iemand Anders](https://open.spotify.com/track/6ZzjjOoKAw3QGQmODzplnK) | [REINDIER](https://open.spotify.com/artist/7B8bcaveMV31zAvok466cK) | [Iemand Anders](https://open.spotify.com/album/6saWoM2nRMWq4QIrKo3GGL) | 3:50 |
-| 44 | [Eerste Date](https://open.spotify.com/track/5yduJBegePsnWGlm6QK6DY) | [LE MOTAT](https://open.spotify.com/artist/5ETmxctyLILUwpIf9H30iO) | [Eerste Date](https://open.spotify.com/album/1RRZ8lGxb3EToVRya8zsNi) | 2:38 |
-| 45 | [Ballenbak](https://open.spotify.com/track/0oak6GeIAf1YwiVTlbomVn) | [Maartje](https://open.spotify.com/artist/7fz2OzUjHRv2ih9aaXoBnA) | [Ballenbak](https://open.spotify.com/album/1RVK36HctjM08N9Os1kiqQ) | 2:37 |
+| 43 | [Eerste Date](https://open.spotify.com/track/5yduJBegePsnWGlm6QK6DY) | [LE MOTAT](https://open.spotify.com/artist/5ETmxctyLILUwpIf9H30iO) | [Eerste Date](https://open.spotify.com/album/1RRZ8lGxb3EToVRya8zsNi) | 2:38 |
+| 44 | [Ballenbak](https://open.spotify.com/track/0oak6GeIAf1YwiVTlbomVn) | [Maartje](https://open.spotify.com/artist/7fz2OzUjHRv2ih9aaXoBnA) | [Ballenbak](https://open.spotify.com/album/1RVK36HctjM08N9Os1kiqQ) | 2:37 |
+| 45 | [Iemand Anders](https://open.spotify.com/track/6ZzjjOoKAw3QGQmODzplnK) | [REINDIER](https://open.spotify.com/artist/7B8bcaveMV31zAvok466cK) | [Iemand Anders](https://open.spotify.com/album/6saWoM2nRMWq4QIrKo3GGL) | 3:50 |
 | 46 | [Nieuw Begin](https://open.spotify.com/track/5whI35aoxvWEr5cnzgXj0P) | [Roos Blufpand](https://open.spotify.com/artist/7J2a0SEgW7QaRHUIGjqgFC) | [Naamloze Liefde](https://open.spotify.com/album/3kY5AWZimGg9ztotSt65Pw) | 2:37 |
-| 47 | [Is dit echt](https://open.spotify.com/track/3qQcJi8WU1MS5xukw61j8j) | [Merle](https://open.spotify.com/artist/6y2VqVMyiZAAQpA4lSCBu0) | [Is dit echt](https://open.spotify.com/album/4eLuerkEYnJ6z69SYvBhVi) | 2:55 |
-| 48 | [IK MIS JE](https://open.spotify.com/track/1u1wKliOsyKZfku9DbZq5q) | [Gianski](https://open.spotify.com/artist/1tC6NRB6c1mVgV4xrqrOgy) | [IK MIS JE](https://open.spotify.com/album/0gbNyJSEctAU96fhS7T0zj) | 3:23 |
-| 49 | [Wind In De Zeilen](https://open.spotify.com/track/1CuunQxTRe5jL13ikuQ67Y) | [Tienson](https://open.spotify.com/artist/6NuwXIFcHEYmeu6Tf9BGt8) | [Wind In De Zeilen](https://open.spotify.com/album/1Vcc1C8T9ktEhGmmlx8A0D) | 3:35 |
-| 50 | [De Grens Tussen Ons](https://open.spotify.com/track/5jWLxOSU7WWpcNnPNbhCwz) | [Droom Dit](https://open.spotify.com/artist/535Rx3nGAAoN5eQ56bVcVs) | [Het Hart Bestaat Niet En De Rest Ook Niet](https://open.spotify.com/album/5TaJOGhCQhrg8AMf5WSwZW) | 3:29 |
+| 47 | [Wind In De Zeilen](https://open.spotify.com/track/1CuunQxTRe5jL13ikuQ67Y) | [Tienson](https://open.spotify.com/artist/6NuwXIFcHEYmeu6Tf9BGt8) | [Wind In De Zeilen](https://open.spotify.com/album/1Vcc1C8T9ktEhGmmlx8A0D) | 3:35 |
+| 48 | [Is dit echt](https://open.spotify.com/track/3qQcJi8WU1MS5xukw61j8j) | [Merle](https://open.spotify.com/artist/6y2VqVMyiZAAQpA4lSCBu0) | [Is dit echt](https://open.spotify.com/album/4eLuerkEYnJ6z69SYvBhVi) | 2:55 |
+| 49 | [De Grens Tussen Ons](https://open.spotify.com/track/5jWLxOSU7WWpcNnPNbhCwz) | [Droom Dit](https://open.spotify.com/artist/535Rx3nGAAoN5eQ56bVcVs) | [Het Hart Bestaat Niet En De Rest Ook Niet](https://open.spotify.com/album/5TaJOGhCQhrg8AMf5WSwZW) | 3:29 |
+| 50 | [IK MIS JE](https://open.spotify.com/track/1u1wKliOsyKZfku9DbZq5q) | [Gianski](https://open.spotify.com/artist/1tC6NRB6c1mVgV4xrqrOgy) | [IK MIS JE](https://open.spotify.com/album/0gbNyJSEctAU96fhS7T0zj) | 3:23 |
 
 Snapshot ID: `aDRe8gAAAAClSOqbGj8d1dzzCrdx18FP`

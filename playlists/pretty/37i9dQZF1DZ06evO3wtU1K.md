@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wtU1K.md) - [plain]
 
 > This is Tasha Cobbs Leonard\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,142 likes - 50 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,141 likes - 50 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wtU1K.md) - [plain]
 | 30 | [Forever At Your Feet](https://open.spotify.com/track/2fL7VG81TUm62B3fhJyr1Z) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [William Murphy](https://open.spotify.com/artist/1FQJqgKQDNLWfeLBQoQLmD) | [Heart\. Passion\. Pursuit.](https://open.spotify.com/album/39UpQWkYwByspw53CTZDis) | 6:23 |
 | 31 | [More Than Able \(feat\. Tasha Cobbs Leonard & Chandler Moore\)](https://open.spotify.com/track/7KeMUZAdegNFrikChmSbvV) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [The Maverick Way \- EP](https://open.spotify.com/album/4GHtoBIXzNJcjoqPD0WSlz) | 9:16 |
 | 32 | [Great I Am \(feat\. Tasha Cobbs Leonard\) \- Live](https://open.spotify.com/track/5MlBcBP7ARqZI4dYNzcZMa) | [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Chandler Moore: Live in Los Angeles](https://open.spotify.com/album/0Zjn1YJmwcsvmHqc4LPI6V) | 9:12 |
-| 33 | [You Still Love Me \- Live](https://open.spotify.com/track/13cmGlpQsawlq6QwLzden1) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [One Place Live \(Deluxe Edition\)](https://open.spotify.com/album/6cfOOffNGtjSR7Ew3TRuZ8) | 7:35 |
-| 34 | [The Blood Hymns Medley \- Live](https://open.spotify.com/track/0Oc8IsqGoqf6b5KDeIAmSK) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Heart\. Passion\. Pursuit.: Live At Passion City Church](https://open.spotify.com/album/3to6tIB6taMg12hPGxfyyN) | 2:47 |
+| 33 | [The Blood Hymns Medley \- Live](https://open.spotify.com/track/0Oc8IsqGoqf6b5KDeIAmSK) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Heart\. Passion\. Pursuit.: Live At Passion City Church](https://open.spotify.com/album/3to6tIB6taMg12hPGxfyyN) | 2:47 |
+| 34 | [You Still Love Me \- Live](https://open.spotify.com/track/13cmGlpQsawlq6QwLzden1) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [One Place Live \(Deluxe Edition\)](https://open.spotify.com/album/6cfOOffNGtjSR7Ew3TRuZ8) | 7:35 |
 | 35 | [I Will Follow](https://open.spotify.com/track/38mSgdGYO8FIcunxWbkTqh) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Heart\. Passion\. Pursuit\. \(Deluxe\)](https://open.spotify.com/album/7BQ2sFd1DNrETEw8xXPUHG) | 5:33 |
 | 36 | [Smile \- Live](https://open.spotify.com/track/5XFYRxSFLFnxJOCFqXRLc9) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Grace \(Live/Deluxe\)](https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5) | 5:47 |
 | 37 | [Agnus Dei \- Live](https://open.spotify.com/track/2zSokIMYeayfu5SlZ6WySJ) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Hymns \(Live\)](https://open.spotify.com/album/1ZecqYyaNHmlU7zXhkuk6u) | 1:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wtU1K.md) - [plain]
 | 49 | [Man Of Your Word \- Live](https://open.spotify.com/track/0vO4f64AippKsUhWPOM6b7) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Live at Maverick City](https://open.spotify.com/album/6EuI4oABuEdqtebGSWwtJt) | 2:01 |
 | 50 | [Never Be The Same \(feat\. Tasha Cobbs Leonard, Brian Courtney Wilson & Travis Greene\)](https://open.spotify.com/track/1ZLQ9em098JEt310TDsbs2) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Brian Courtney Wilson](https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [Gospel According To PJ](https://open.spotify.com/album/03sl2epNRPGXu64WL36RsO) | 3:56 |
 
-Snapshot ID: `aDOvAAAAAACqppMDBY731I5RKLrqn7ha`
+Snapshot ID: `aDUAgAAAAADTycKTFnUAWDqzuij79ZT8`

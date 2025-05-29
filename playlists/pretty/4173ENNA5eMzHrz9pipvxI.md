@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 ### [Spinnin' Records Brand New](https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI)
 
-> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover:  Raaban, Hypaton, TOOMANYLEFTHANDS
+> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover:  SAMA \(US\)
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,600 likes - 24 songs - 1 hr 7 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,588 likes - 24 songs - 1 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 | 23 | [Won’t Be Possible](https://open.spotify.com/track/20kaCbdgkJRUPniPVZgsoR) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Won’t Be Possible](https://open.spotify.com/album/6AsH075qDhDhjb7S56zY7p) | 2:16 |
 | 24 | [Tears Dry Tonight](https://open.spotify.com/track/3WjljjNzoLEQxghZLoAyFQ) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Tears Dry Tonight](https://open.spotify.com/album/2x4jGKWr3BFg511NVr88Cq) | 2:47 |
 
-Snapshot ID: `AAAfa9+vlNrIaYHSJU2m9x+Yw/zqARx9`
+Snapshot ID: `AAAfbBNlF5mgH7iknvMTxVokE1tZJ8gv`

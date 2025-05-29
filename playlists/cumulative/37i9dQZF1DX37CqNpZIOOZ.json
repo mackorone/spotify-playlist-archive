@@ -147,6 +147,36 @@
     },
     {
       "album": {
+        "name": "Richard Strauss: Four Last Songs; 6 Orchestral Songs",
+        "url": "https://open.spotify.com/album/5TiXEfaoLSihh6JGP9VhiR"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Jessye Norman",
+          "url": "https://open.spotify.com/artist/0zdBW3w3XzBuPMUEiarUUw"
+        },
+        {
+          "name": "Gewandhausorchester",
+          "url": "https://open.spotify.com/artist/0SlNRZ8zBLAgyB1lsoYxAa"
+        },
+        {
+          "name": "Kurt Masur",
+          "url": "https://open.spotify.com/artist/37Lr1lIJy824MQIENRUnZn"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369560,
+      "name": "4 Letzte Lieder, TrV 296: No. 3, Beim Schlafengehen",
+      "url": "https://open.spotify.com/track/3l6smflKi76lzGCnDYLe5Z"
+    },
+    {
+      "album": {
         "name": "Strauss, R.: Four Last Songs, etc.",
         "url": "https://open.spotify.com/album/0sIuKA8hHwodqk2nQ8qv1k"
       },
@@ -2490,36 +2520,6 @@
       "duration_ms": 1480000,
       "name": "Tod und Verkl\u00e4rung, Op. 24, TrV 158: Tod und Verkl\u00e4rung (Death and Transfiguration), Op. 24, TrV 158",
       "url": "https://open.spotify.com/track/7xEHQGAdlZwjv7GwfkRlMs"
-    },
-    {
-      "album": {
-        "name": "Richard Strauss: Four Last Songs; 6 Orchestral Songs",
-        "url": "https://open.spotify.com/album/5TiXEfaoLSihh6JGP9VhiR"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Jessye Norman",
-          "url": "https://open.spotify.com/artist/0zdBW3w3XzBuPMUEiarUUw"
-        },
-        {
-          "name": "Gewandhausorchester",
-          "url": "https://open.spotify.com/artist/0SlNRZ8zBLAgyB1lsoYxAa"
-        },
-        {
-          "name": "Kurt Masur",
-          "url": "https://open.spotify.com/artist/37Lr1lIJy824MQIENRUnZn"
-        }
-      ],
-      "date_added": "2020-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 369560,
-      "name": "Vier letzte Lieder, TrV 296: 3. Beim Schlafengehen",
-      "url": "https://open.spotify.com/track/3l6smflKi76lzGCnDYLe5Z"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX37CqNpZIOOZ"

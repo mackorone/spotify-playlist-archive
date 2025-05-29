@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-248 songs - 12 hr 3 min
+255 songs - 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Clarity](https://open.spotify.com/track/2SEFRp8tsRpHMDuoOLDySR) | [Jaylen Sharise](https://open.spotify.com/artist/0xrQf6fTJb3fjpYyddA0ph) | [Clarity](https://open.spotify.com/album/6Zfm4chfknuDbhHbwrmWZf) | 2:46 | 2023-04-28 | 2025-05-22 |
 | [Clearing](https://open.spotify.com/track/4zFgXfvzNt7Nj7ccOGQEab) | [dYb](https://open.spotify.com/artist/5J2i1y9d9QrAVdBi92SX3r) | [Clearing](https://open.spotify.com/album/7twiHDo5Hf1DJPsWGHERTw) | 3:46 | 2023-04-28 |  |
 | [Comfortable under the Surface](https://open.spotify.com/track/3W63szGlVtLFTkmrA8dgXJ) | [Hanna Lindgren](https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2) | [Comfortable under the Surface](https://open.spotify.com/album/0AzrK9ejFOS16BOM2feyHg) | 3:05 | 2023-04-28 | 2025-05-22 |
+| [Condensation](https://open.spotify.com/track/4DOqRbz7WqlvueNRCkTdCZ) | [Asteeõs](https://open.spotify.com/artist/59r2DpcsbqkntoA9Xfkw9K) | [Condensation](https://open.spotify.com/album/5FH8oQ5l8qq8Twv0kr20lp) | 2:30 | 2025-05-28 |  |
 | [Connection \(Nature\)](https://open.spotify.com/track/72psxjeHs75ZxMNbsCEwD7) | [The Destination](https://open.spotify.com/artist/5LqmDSsJGx12mu0u8vmj1w) | [Connection](https://open.spotify.com/album/3vaTeBzkNTKF3hxABPlo04) | 2:48 | 2023-06-16 | 2025-03-23 |
 | [Corales \(Forest\)](https://open.spotify.com/track/1Q7PRNKkTFUWdm8OEcv9dq) | [Asajj Sadie](https://open.spotify.com/artist/7dBSSjPi5Web6Ifwg1uiSd) | [Corales \(Forest\)](https://open.spotify.com/album/6Vk9EcP1P9eZbY4EKPS0j4) | 2:39 | 2024-04-01 |  |
 | [Cottonia Creek](https://open.spotify.com/track/0dCUcvksazRPUy1ld5xab6) | [Alpha Vectoriam](https://open.spotify.com/artist/4tJk8aN9skPGFZmkoAsBJD) | [Cottonia Creek](https://open.spotify.com/album/58BGziZfUqc7JGY5AW0Y0r) | 2:59 | 2023-04-28 | 2025-05-22 |
@@ -66,6 +67,8 @@
 | [Early Forest Serenade](https://open.spotify.com/track/7h95AoSQLXgft5By5ByMnV) | [Clouds Come Down](https://open.spotify.com/artist/6AqxTQj5IlWTwGCwPuxZu8) | [Majestic Light](https://open.spotify.com/album/0sQKEnZqsabnegdMu6cujB) | 2:13 | 2023-06-16 |  |
 | [Earth Song \(Brook\)](https://open.spotify.com/track/2u5SfmEplx0MJZrouALhLd) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [Earth Song](https://open.spotify.com/album/6Ped9Q9msu0Rpm7A0MjYGO) | 3:10 | 2023-04-28 | 2025-02-23 |
 | [Ebb](https://open.spotify.com/track/6DzXikYMPvw1T9rqasupiQ) | [Gleework](https://open.spotify.com/artist/7mpVI32uln65a45ny7L1Pc) | [Ebb](https://open.spotify.com/album/3gwbC6C3G15nY0ktcx09fL) | 2:16 | 2024-12-04 |  |
+| [Echoes Of Dawn](https://open.spotify.com/track/1z47P8YHFuKiylq7Fur1kY) | [Naturalists](https://open.spotify.com/artist/1sp0zRK6eY8NaAYAjBJoAf) | [Echoes of Dawn](https://open.spotify.com/album/6B3pHA7fAP2LPKIo4K05Oi) | 3:02 | 2025-05-28 |  |
+| [Eden](https://open.spotify.com/track/0UMFi650xZxD3qj0OxsXKd) | [Nature Pulse](https://open.spotify.com/artist/70vUxFU28oeZCt4GremOQ0) | [Eden](https://open.spotify.com/album/4MQ8zwffRyWpFLh2fZBV9q) | 2:40 | 2025-05-28 |  |
 | [Elsewhere](https://open.spotify.com/track/5cnTweMt0wMIwQ1QrrMn3n) | [Tomorrow and Now](https://open.spotify.com/artist/482UOUYdqsKTTUmnENSKJQ) | [Elsewhere](https://open.spotify.com/album/731Aao1LRdcSKTKI6y65jb) | 3:06 | 2024-10-01 |  |
 | [Emberly Path](https://open.spotify.com/track/6LQiwabLqjy1jEJEACKcyj) | [Peaceful Plausible](https://open.spotify.com/artist/2jBR2Yedi7YgJOjZLDtSJI) | [Emberly Path](https://open.spotify.com/album/2E7vitCgw71paDzGHMukLQ) | 2:59 | 2023-04-28 | 2025-05-22 |
 | [Endless Nights](https://open.spotify.com/track/1dh5L7YteK5UzPCrjU9Mnz) | [Devansh Tushar](https://open.spotify.com/artist/6A6XOlnYgaiM9qfRvSIHQL) | [Endless Nights](https://open.spotify.com/album/74Idklak1pC21HpDPPcDBC) | 3:09 | 2023-04-28 | 2025-05-22 |
@@ -131,6 +134,7 @@
 | [Lapse of Time](https://open.spotify.com/track/7qgX4p0tNEfxWarc1KgY6d) | [Unity & Harmony](https://open.spotify.com/artist/1HxhPKVY1XsKFIpvkYdXPI) | [Lapse of Time](https://open.spotify.com/album/4vOLXGeE4xrCmrtEIqCjVm) | 2:32 | 2023-04-28 | 2025-05-22 |
 | [Lay the Foundation](https://open.spotify.com/track/7gwnSkntSK8u0ueJH06xpF) | [Heriela](https://open.spotify.com/artist/4Z39bNE8YlLs57YzOp6bWY) | [Lay the Foundation](https://open.spotify.com/album/166aV9lE2KR5UHh28N05m2) | 3:24 | 2025-03-19 |  |
 | [Legacy Drift \- Nature Noise Version](https://open.spotify.com/track/3hnpbd1LlHPeCCw7ugjTsO) | [Aquaimo](https://open.spotify.com/artist/0TVxrxLRIiSOUrJdmjgg4f) | [Legacy Drift](https://open.spotify.com/album/6FOEczmgps7pqBfvGAXlcD) | 2:11 | 2023-04-28 | 2025-05-22 |
+| [Less Is More](https://open.spotify.com/track/3hVgtoSYwjaNl3mwimskqH) | [Oaktale](https://open.spotify.com/artist/4IuzTmSlbUNhhIcAK5fBiQ) | [Less Is More](https://open.spotify.com/album/3AObQxHcwXtyh0XLtUss2D) | 3:21 | 2025-05-28 |  |
 | [Lichen Pillow \- Spa](https://open.spotify.com/track/2nX7khSpIWDFaYoLpPZvDA) | [Endel](https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4) | [Lichen Pillow](https://open.spotify.com/album/14I1aDJmh1wHCjrUzgA631) | 3:28 | 2023-04-28 |  |
 | [Light Flow](https://open.spotify.com/track/5CwM4QtEWH5qSqpWxor76d) | [Maira](https://open.spotify.com/artist/6x0Xdy7LgcYtyIWBG7CA04) | [Light Flow](https://open.spotify.com/album/6CIiQ9Ti0tI2yAgjGpJmdE) | 2:59 | 2024-12-20 |  |
 | [Like Water](https://open.spotify.com/track/5cbaZZoB2iYsP7FQHmKRzq) | [Forest Gold](https://open.spotify.com/artist/12Lj4bvVL57SoslmmpalNU) | [Golden Light](https://open.spotify.com/album/1q0IUbhxzScGGUO5iwC7mi) | 3:26 | 2023-04-28 | 2023-07-14 |
@@ -157,8 +161,10 @@
 | [Nature Surrounded](https://open.spotify.com/track/3WRuZ3OxgT37nzDxS1feyr) | [Nordic Atmos](https://open.spotify.com/artist/3MfbMpKaXMdMo8DZkvobfn) | [Galactic Relaxation](https://open.spotify.com/album/7cGfQ8xodLAuY07fwp2YMy) | 3:06 | 2023-04-28 | 2024-06-28 |
 | [Nature's Bed](https://open.spotify.com/track/05CwrrO3RBQ8yQ0D6jxgA2) | [Sinnesro](https://open.spotify.com/artist/3CHM9Tbf0hM4MBzWGAcGPc) | [Nature's Bed](https://open.spotify.com/album/6VBCk80s3CdZjsDbX1cTFi) | 3:11 | 2023-11-24 | 2025-05-22 |
 | [Nature's Canvas](https://open.spotify.com/track/3gn4qQjNar63wHcK5DOJYU) | [Inner Purpose](https://open.spotify.com/artist/5Oy46V4li9PKCzp6bBxxd7) | [Nature's Canvas](https://open.spotify.com/album/58HOen5kFIqFH0AgNn8qfs) | 2:42 | 2023-04-28 |  |
+| [Nature's Fortune](https://open.spotify.com/track/6tqAtVUUh5gtT1BgwEfeYz) | [Rivers Of Time](https://open.spotify.com/artist/01HPpfT387ULSdN6EztPip) | [Nature's Fortune](https://open.spotify.com/album/7wAyenYlZ3Dq1NZ30eWU5V) | 2:35 | 2025-05-28 |  |
 | [Naturopathy](https://open.spotify.com/track/7sn9S28CworpMPtVi9waWI) | [Nordic Spa Music](https://open.spotify.com/artist/000g1xoERW2wrJusJdfBpf) | [Naturopathy](https://open.spotify.com/album/1jSpCHxu3ds5UDgQDWdcIv) | 2:53 | 2023-04-28 | 2024-12-25 |
 | [Natuurlijk](https://open.spotify.com/track/2BqSwsKNtp7gTAmH479Jmj) | [Ebba Dekker](https://open.spotify.com/artist/1IyHF3iElYVD2QGDF0zZKg) | [Natuurlijk](https://open.spotify.com/album/4NUMUE1zC63L8XIndUip2e) | 2:49 | 2023-04-28 | 2024-08-24 |
+| [Neon Feathers](https://open.spotify.com/track/1DBPSOM91XvvQf9uEYUfmJ) | [Caspian Nerida](https://open.spotify.com/artist/27uIFFlt4Wxf4DLVJQXtcV) | [Neon Feathers](https://open.spotify.com/album/0OzS7lpvnM5Oi2Za4NBnpW) | 2:06 | 2025-05-28 |  |
 | [Nightswimming](https://open.spotify.com/track/7i93LXVxC6OnibqUY8DdpT) | [Sam Bucciana](https://open.spotify.com/artist/4A7ZW9rJIvRiyu3pgxQW1j) | [Nightswimming](https://open.spotify.com/album/6F7tYoC2zPzi0yt6bzX2ad) | 2:39 | 2023-11-24 | 2025-05-22 |
 | [Noctilucent Clouds \(meditation\)](https://open.spotify.com/track/2Fcun7FZ4vH3kBPbdtw6uZ) | [SKEN](https://open.spotify.com/artist/4034dofwaqvTYb10Ss1jrv) | [Noctilucent Clouds](https://open.spotify.com/album/7dAEq5Vvaz8l259C5BHv7q) | 2:41 | 2023-11-10 |  |
 | [Not quite there yet](https://open.spotify.com/track/5uUKuVWqa2xF1TqNaBqJkw) | [Dust Merchant](https://open.spotify.com/artist/4fbbE6iUtkyYBXQpYuuyqn) | [Insomnia Tamer](https://open.spotify.com/album/1XELmRwGmVDmehuINfxmZ2) | 1:54 | 2023-04-28 | 2023-07-29 |
@@ -176,6 +182,7 @@
 | [Portraits \(Sound Bath\)](https://open.spotify.com/track/0RyfmZbX3IIJcv6QE8lHmH) | [For The Lost](https://open.spotify.com/artist/58WBGaTBnBHGIgn19HOnhZ) | [Portraits \(Sound Bath\)](https://open.spotify.com/album/7Eh16NCTsAbz4jtNoRWqh7) | 3:14 | 2023-04-28 | 2025-05-22 |
 | [Prakrti](https://open.spotify.com/track/72WBF6dxJLFHsuyWnLYqja) | [Hashree](https://open.spotify.com/artist/15UsQSphJsVhQ89KBQ5i2G) | [Prakrti](https://open.spotify.com/album/0HlFC6UnZo6M0yZTC39sYM) | 2:57 | 2023-06-30 |  |
 | [Prana](https://open.spotify.com/track/2I8w8s0lKS1ZT4onSKB7k7) | [Garden of Lotus](https://open.spotify.com/artist/7I1z8LXW0jX3fyWx7h0PRs) | [Bhakti](https://open.spotify.com/album/01pQqb89FcBuQnE2KDdFyl) | 2:48 | 2023-04-28 | 2025-05-22 |
+| [Radiant Recovery](https://open.spotify.com/track/6vrIfscwRw6648jkgY5JUO) | [Ambienne](https://open.spotify.com/artist/2TnYJIoylPdjQiWJPYsKhu) | [Radiant Recovery](https://open.spotify.com/album/7laP0oMseLBZjSjM912dh2) | 2:28 | 2025-05-28 |  |
 | [Rainbow's End](https://open.spotify.com/track/7qYia3491jXCpBz9LXI9HU) | [Ani](https://open.spotify.com/artist/3W5apiMDqy6v6ai4tP3SkX) | [Rainbow's End](https://open.spotify.com/album/3CYTEAvcYSEFe61NBk1lWD) | 3:10 | 2024-06-03 |  |
 | [Relaxing Water Flow](https://open.spotify.com/track/0WI552XdVtIsWJzxU0vxXA) | [Bed of Flowers](https://open.spotify.com/artist/01TxUc4gaIBQGYZ6LsTsFp) | [close to nature](https://open.spotify.com/album/4wcX5mi1m1EDBtK3Yuecq3) | 2:16 | 2023-04-28 | 2023-09-09 |
 | [Renacer en Calma \(Nature\)](https://open.spotify.com/track/15kpyHpO1u89MMGrQLxiEJ) | [Esmeraldas](https://open.spotify.com/artist/1mIhqTBJzWF8W2iWSuuO8f) | [Renacer en Calma](https://open.spotify.com/album/7rhUJ9JlU3L2j4TZdyFoLW) | 3:02 | 2023-06-09 |  |

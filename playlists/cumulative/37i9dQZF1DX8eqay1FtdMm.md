@@ -4,7 +4,7 @@
 
 > Meet the best Korean vocalists who will melt your eardrums! \(Cover: 이무진\) \(여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
 
-605 songs - 1 day 15 hr 33 min
+606 songs - 1 day 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Between Heaven And Hell](https://open.spotify.com/track/0ZvpuSbOQGD3S3gsjoAPvS) | [Baek Ji Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [Between Heaven And Hell](https://open.spotify.com/album/7oiyhEtOQSmzqIhq2IZeVd) | 3:46 | 2024-05-02 | 2024-05-10 |
 | [Beyond The Sea](https://open.spotify.com/track/4OxtWbT2vpoWOROrRSYHSk) | [The Stray](https://open.spotify.com/artist/7CedIKpt1GTubqlwD149d6) | [Beyond The Sea](https://open.spotify.com/album/5sIJhxAbyNindPmfgYb0VS) | 3:00 | 2023-01-10 | 2023-01-25 |
 | [Big world](https://open.spotify.com/track/0Hy3JNYKAJu4ttcyQHzzYA) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [New Year](https://open.spotify.com/album/5EurmkjnoKInaBsjAM6iFB) | 3:54 | 2023-01-02 | 2023-10-06 |
+| [Bird On The Edge](https://open.spotify.com/track/53T5mZuqAjvm0pinUfwIXr) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Bird On The Edge](https://open.spotify.com/album/2pFz5fjBwZwKcK86LAOoVm) | 4:16 | 2025-05-27 |  |
 | [Blame](https://open.spotify.com/track/4D0Zn7ULyzUVDC5z4dx5VT) | [Ragoon](https://open.spotify.com/artist/6KukpOkfUcJxKmgsGEvTaz) | [Blame](https://open.spotify.com/album/5CtYaFaa9tWwfgyJkfODVF) | 4:19 | 2022-03-29 | 2022-04-21 |
 | [Blank](https://open.spotify.com/track/2OyX69J0H3ZaO3irKbcemY) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [RECIPE](https://open.spotify.com/album/7xSPokUlRKABb78sL7WRsm) | 3:12 | 2022-03-29 | 2022-06-10 |
 | [blue lagoon](https://open.spotify.com/track/6biXLR6erSRv6PtgTt3Nd9) | [KISSXS](https://open.spotify.com/artist/2WaoJEyJIJ08YWyu7IJAOI) | [blue lagoon](https://open.spotify.com/album/2J4f8XpnORZvKOxqRmWQfx) | 3:37 | 2022-03-24 | 2022-04-18 |
@@ -303,7 +304,7 @@
 | [Love Me Love Me](https://open.spotify.com/track/6PDGLp3PVAVdwVeFRLYvS5) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [Love Me Love Me](https://open.spotify.com/album/2rtrqdfMeYxBNxpxcUl3cY) | 3:26 | 2023-08-10 | 2023-11-05 |
 | [LOVE PROCESS Act 3:Farewell\(Woman's Story\) \- No More Love](https://open.spotify.com/track/6ZcntF0MCIZEzi1XHYiRjP) | [Ryeowon](https://open.spotify.com/artist/18N3eeeRpVuRfPuk6GF7rp) | [LOVE PROCESS Act 3:Farewell\(Woman's Story\) \- No More Love](https://open.spotify.com/album/5seo7nROqNTWa0l88SmDRn) | 3:59 | 2022-06-13 | 2022-06-21 |
 | [LOVE PROCESS Act 4:Pain\(Woman's Story\) \- Bloom](https://open.spotify.com/track/3aaQ9CxRuchKCQcqq5xVoV) | [J\-Min](https://open.spotify.com/artist/0S6IIwYVTtgMjv7vfkdfRl) | [LOVE PROCESS Act 4:Pain\(Woman's Story\) \- Bloom](https://open.spotify.com/album/2AsuqpJNjUVTX3tjmx1sbk) | 4:16 | 2022-06-13 | 2022-07-09 |
-| [LOVE RECIPE](https://open.spotify.com/track/5R8MbzkUpTigzAXHsnoYpq) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb), [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) | [WONDO Project : LOVE RECIPE, Vol.1](https://open.spotify.com/album/7lPcHUovL3U9KU72VCPqJ7) | 3:51 | 2024-07-04 |  |
+| [LOVE RECIPE](https://open.spotify.com/track/5R8MbzkUpTigzAXHsnoYpq) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb), [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) | [WONDO Project : LOVE RECIPE, Vol.1](https://open.spotify.com/album/7lPcHUovL3U9KU72VCPqJ7) | 3:51 | 2024-07-04 | 2025-05-29 |
 | [Love should not be harsh on you](https://open.spotify.com/track/03TdLY0nav9sQ3kyjbyJ9t) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [Love should not be harsh on you](https://open.spotify.com/album/6jHa0QNqdyT3w2jGIpR2z5) | 4:28 | 2021-12-20 | 2022-07-28 |
 | [Love Sick](https://open.spotify.com/track/0Vb3ELQ111quZfXfnrmIdc) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [LEESEOKHOON 1st Full Album 'Customary Place'](https://open.spotify.com/album/5MfVAeTyhatiLjzaPtMbsh) | 3:42 | 2022-03-24 | 2022-07-29 |
 | [Love That Only Heaven Allows](https://open.spotify.com/track/7KqDuh9FooIIU2aw7iJY3A) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Love That Only Heaven Allows](https://open.spotify.com/album/6FrA8j1imC1nXzzXjb1Psy) | 3:59 | 2024-08-14 | 2024-10-10 |

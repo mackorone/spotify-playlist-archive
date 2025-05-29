@@ -12398,7 +12398,7 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-26",
+      "date_removed": null,
       "duration_ms": 161785,
       "name": "\u05d0\u05e0\u05d9 \u05d1\u05d5\u05db\u05d4",
       "url": "https://open.spotify.com/track/665X7UybqiY9dIKXSRozuH"
@@ -17840,7 +17840,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-29",
       "duration_ms": 180000,
       "name": "\u05de\u05d2\u05e0\u05d8",
       "url": "https://open.spotify.com/track/4BnqGasQmJZsFDsrTymuth"
@@ -21588,7 +21588,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-29",
       "duration_ms": 178409,
       "name": "\u05e8\u05d5\u05e7\u05d3 \u05dc\u05d9 \u05e2\u05dc \u05d4\u05e2\u05e6\u05d1",
       "url": "https://open.spotify.com/track/5R2KoD3IlLRvCPHVhwdaEe"
@@ -23038,6 +23038,24 @@
       "duration_ms": 296400,
       "name": "\u05ea\u05e8\u05e7\u05d5\u05d3 \u05dc\u05e0\u05e6\u05d7",
       "url": "https://open.spotify.com/track/3mITeXQ9Dt7M6nTutuNtsx"
+    },
+    {
+      "album": {
+        "name": "\u05e9\u05e4\u05d5\u05d9\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/3MFrcMJrlTtlbSq44midmp"
+      },
+      "artists": [
+        {
+          "name": "Shlomo Artzi",
+          "url": "https://open.spotify.com/artist/2W0dQPsEPd0tz7cj95gUse"
+        }
+      ],
+      "date_added": "2025-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227013,
+      "name": "\u05ea\u05ea\u05d0\u05e8\u05d5 \u05dc\u05db\u05dd",
+      "url": "https://open.spotify.com/track/2gK92y6pVz6ygq8Fc7N2xL"
     },
     {
       "album": {

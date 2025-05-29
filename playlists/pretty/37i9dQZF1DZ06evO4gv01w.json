@@ -1,12 +1,12 @@
 {
   "description": "This is Larkin Poe. The essential tracks, all in one playlist.",
-  "num_followers": 29680,
+  "num_followers": 29683,
   "original_name": "This Is Larkin Poe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDOvAAAAAAA9ywqdOTp1JwTy06kc5Ia2",
+  "snapshot_id": "aDUAgAAAAAAK3Z0ARkFHVPpDlUDsa0TB",
   "tracks": [
     {
       "added_at": null,
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blood Harmony",
-        "url": "https://open.spotify.com/album/1mjMp0hRihcOnePY4DTfHj"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 245889,
-      "name": "Blood Harmony",
-      "url": "https://open.spotify.com/track/0lNzJmI8WydGlJ3ZzEvW93"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Killing Time",
         "url": "https://open.spotify.com/album/5ZQXwmQwqasO0qWa7yIO1R"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 142640,
       "name": "Killing Time",
       "url": "https://open.spotify.com/track/6m9keSvNWf8XFzs5aTK1co"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blood Harmony",
+        "url": "https://open.spotify.com/album/1mjMp0hRihcOnePY4DTfHj"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 245889,
+      "name": "Blood Harmony",
+      "url": "https://open.spotify.com/track/0lNzJmI8WydGlJ3ZzEvW93"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reskinned",
-        "url": "https://open.spotify.com/album/4UwbVHSo5yrp4jkOIrKsRo"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 209720,
-      "name": "When God Closes a Door",
-      "url": "https://open.spotify.com/track/2wYVL5QawLgPamUCw87TQw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Peach",
         "url": "https://open.spotify.com/album/3d1joZj7jDDEAe3cpPloZz"
       },
@@ -735,6 +719,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Reskinned",
+        "url": "https://open.spotify.com/album/4UwbVHSo5yrp4jkOIrKsRo"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 209720,
+      "name": "When God Closes a Door",
+      "url": "https://open.spotify.com/track/2wYVL5QawLgPamUCw87TQw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Rainy Day Sessions EP",
         "url": "https://open.spotify.com/album/3cNNJvewda8N8nWKThsCRr"
       },
@@ -751,22 +751,6 @@
       "duration_ms": 233066,
       "name": "Baby Blue Eyes (feat. Larkin Poe) - Rainy Day Sessions",
       "url": "https://open.spotify.com/track/3eB4bheM9cIu5v8lcQ558s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reskinned",
-        "url": "https://open.spotify.com/album/4UwbVHSo5yrp4jkOIrKsRo"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 210040,
-      "name": "Sucker Puncher",
-      "url": "https://open.spotify.com/track/5RXqnZB37wzll5IPQLcBX4"
     },
     {
       "added_at": null,
@@ -799,6 +783,22 @@
       "duration_ms": 171256,
       "name": "Blue Ridge Mountains",
       "url": "https://open.spotify.com/track/2xRzrAkhWvJJqPKoEJFzSa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reskinned",
+        "url": "https://open.spotify.com/album/4UwbVHSo5yrp4jkOIrKsRo"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 210040,
+      "name": "Sucker Puncher",
+      "url": "https://open.spotify.com/track/5RXqnZB37wzll5IPQLcBX4"
     },
     {
       "added_at": null,

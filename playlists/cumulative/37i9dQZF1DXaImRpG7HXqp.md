@@ -4,7 +4,7 @@
 
 > Keep calm with instrumental acoustic tracks.
 
-830 songs - 1 day 12 hr 4 min
+832 songs - 1 day 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -309,7 +309,7 @@
 | [Highway 62](https://open.spotify.com/track/7kDoc5DGGuXzQBRVDA2c6G) | [Damien Adams](https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg) | [Highway 62](https://open.spotify.com/album/6YUK9h48JpAekhqABmFafD) | 2:41 | 2023-03-10 | 2024-07-19 |
 | [Hold Back The River](https://open.spotify.com/track/52X6M2Kp4HvpHup3tafEF5) | [Lucian Byrne](https://open.spotify.com/artist/76JjyD3D3gmVw6h9Do2T2C) | [Hold Back The River](https://open.spotify.com/album/4mUjWwSGmnqzhLzTgqa3mH) | 2:28 | 2023-02-24 | 2024-05-04 |
 | [Homage to Mr Rodriguez](https://open.spotify.com/track/2qhdCn9YpnLF6nILfEB56W) | [Brandon Marcelo](https://open.spotify.com/artist/2VtBXPLGJRY6dgNwHue5y4) | [Homage to Mr Rodriguez](https://open.spotify.com/album/6C7HFwnvU3vFI12Z6viGtp) | 4:04 | 2021-12-08 | 2022-02-02 |
-| [Homely Stars](https://open.spotify.com/track/6kZnm4YsiqJ7QYEKbjwvej) | [Oma Holt](https://open.spotify.com/artist/39DIKdqf5qn0trLhTPBNPY) | [Homely Stars](https://open.spotify.com/album/3em8T5dt55VvYTauS8eUFy) | 2:50 | 2025-04-07 |  |
+| [Homely Stars](https://open.spotify.com/track/6kZnm4YsiqJ7QYEKbjwvej) | [Oma Holt](https://open.spotify.com/artist/39DIKdqf5qn0trLhTPBNPY) | [Homely Stars](https://open.spotify.com/album/3em8T5dt55VvYTauS8eUFy) | 2:50 | 2025-04-07 | 2025-05-29 |
 | [Homesick](https://open.spotify.com/track/5EO5Sx8n15p2f3SURF8Pcw) | [Celestial Conscience](https://open.spotify.com/artist/0UG5sCzTJoQXp7RvjoypkI), [Sykomori](https://open.spotify.com/artist/6mURhfwb2vKHmYD9aICMMC) | [Homesick](https://open.spotify.com/album/6rO8Jn9exEBWv9pUBC5wSc) | 2:25 | 2021-12-08 | 2022-06-10 |
 | [Hope Is The Thing With Feathers](https://open.spotify.com/track/3bfqaJtj53DnO5pJn3DUw1) | [Verona Cassidy](https://open.spotify.com/artist/6yDAXIdSTIU3nLU6MeYIz0) | [Hope Is The Thing With Feathers](https://open.spotify.com/album/2R3SdXnRlzP5xE1MvkYjMD) | 2:05 | 2023-01-06 | 2023-09-01 |
 | [Horizonte Tranquilo](https://open.spotify.com/track/1kPz0CM7h5yaQh7ctGV9r6) | [Emanuel Costa](https://open.spotify.com/artist/6iQweq1LCgRS4IEuTzRHQJ) | [Horizonte Tranquilo](https://open.spotify.com/album/3F8rQfhgRWroSrid5gar5M) | 1:41 | 2023-04-21 | 2023-08-19 |
@@ -346,6 +346,7 @@
 | [in the barrel](https://open.spotify.com/track/08t0y9ckkd4D3INWzucet3) | [Heitor de Lima](https://open.spotify.com/artist/5FNGrj7hvqzeskFQMeCZe5) | [seaflowers](https://open.spotify.com/album/2m79xabOBSNymQfPqWdIt0) | 3:00 | 2021-12-08 | 2023-06-09 |
 | [In The Morning Sun](https://open.spotify.com/track/3GK06PqC7srEok5b6tlfAc) | [Mario Regio](https://open.spotify.com/artist/37J9hiCCgzUYyi8V46abD2) | [Pinus Halepensis](https://open.spotify.com/album/5VbSF6F1JbowAFGpB3YB9C) | 3:33 | 2021-12-08 | 2022-04-06 |
 | [In the rear window](https://open.spotify.com/track/3hXcJf4BHy6DikP6H5WSw4) | [Oceane Bardot](https://open.spotify.com/artist/4YYQ7Q0261K5rIEs0SQZIi) | [In the rear window](https://open.spotify.com/album/2GXZud0uP8SSM4VCE0Z6eH) | 2:01 | 2024-02-02 |  |
+| [In Time's Wake](https://open.spotify.com/track/6RV00RZtUQGMrJfIV44aH3) | [Val Monroe](https://open.spotify.com/artist/3R4gAfhxiN6cGlyueGErFo) | [In Time's Wake](https://open.spotify.com/album/53WgH7jOcfo0TKrX0iE8XZ) | 2:30 | 2025-05-28 |  |
 | [Infatuated](https://open.spotify.com/track/4snLhsoeQDkuYpjSmnGlUV) | [Amalia Booth](https://open.spotify.com/artist/3szEDgli10x7q4mMLCehgP) | [Infatuated](https://open.spotify.com/album/2kIwwzu3FAJcZRxA5P0eFH) | 2:45 | 2023-02-24 | 2024-05-04 |
 | [Infatuation](https://open.spotify.com/track/1RKWZJKvFfuPDroaYPnaNA) | [Kay Meine](https://open.spotify.com/artist/1YCpuDhM5Ounw7IiCBypuB) | [Infatuation](https://open.spotify.com/album/7eyl64vJR6DiBHa8TAzgRL) | 2:14 | 2021-12-08 | 2024-04-05 |
 | [Infinite](https://open.spotify.com/track/0Psbnswd3NpdjuP0rZOJXq) | [Auguste Braun](https://open.spotify.com/artist/5hPDT99ovB977bWVy6oJIc) | [Infinite](https://open.spotify.com/album/07LsSl1xgS3kDwfhTsVRJ3) | 2:25 | 2024-06-07 |  |
@@ -472,7 +473,7 @@
 | [Mondschein](https://open.spotify.com/track/7n1b2jjQSD5xNyo0Bs5dpM) | [Heinrich Schulmann](https://open.spotify.com/artist/6gOl6CDl4lz2DDYpdH8DJU) | [Mondschein](https://open.spotify.com/album/6MRZynP88zTclx9tOUoGrx) | 3:35 | 2021-12-08 | 2023-04-22 |
 | [Montes Claros](https://open.spotify.com/track/2DwZFuh7xnuEDvNwz4mAMi) | [Adeben](https://open.spotify.com/artist/5cSY1JVvW3EoDFLfjuEBkg) | [Montes Claros](https://open.spotify.com/album/4xouEO0NJWhJswiV2Qofy8) | 2:45 | 2023-10-13 |  |
 | [Moon Waltz](https://open.spotify.com/track/4Xezh0FxenrjYsqwEmwRG4) | [Sam’s Creek](https://open.spotify.com/artist/6b6CnL7FW5ukNt6pGJrYV2) | [Moon Waltz](https://open.spotify.com/album/66g2EHpUlzfj1Zy6ooDRh9) | 2:24 | 2025-04-16 |  |
-| [More Human](https://open.spotify.com/track/4A0JgmSpjwZbN5plH0JDzg) | [Emmanuel Fischer](https://open.spotify.com/artist/2yB2CmOKM98FyiYDq0H1v3) | [More Human](https://open.spotify.com/album/445YVx7F9QnBhN21h8FNRl) | 3:03 | 2025-02-24 |  |
+| [More Human](https://open.spotify.com/track/4A0JgmSpjwZbN5plH0JDzg) | [Emmanuel Fischer](https://open.spotify.com/artist/2yB2CmOKM98FyiYDq0H1v3) | [More Human](https://open.spotify.com/album/445YVx7F9QnBhN21h8FNRl) | 3:03 | 2025-02-24 | 2025-05-29 |
 | [Morning After](https://open.spotify.com/track/4DfrrlI4CXgm2MxCpHMTYJ) | [Joseph Gonzalez](https://open.spotify.com/artist/0Xx5c1qUSqajCgoUqS2dMa) | [Alluring Nights](https://open.spotify.com/album/0WvJGkmpVKmaxNE0ymehsf) | 2:34 | 2021-12-08 | 2024-08-14 |
 | [Morning Dew](https://open.spotify.com/track/5MgDL4PZuc0lKdgpQCGjoX) | [Denver Paige](https://open.spotify.com/artist/7u18DW0RHIYBIBZymrnVj5) | [Morning Dew](https://open.spotify.com/album/3HXo20W8FF3Cmol4ZzeZFM) | 2:52 | 2021-12-08 | 2022-09-09 |
 | [Morning Dew](https://open.spotify.com/track/0dhPf7uQVTl63JOFCaYsJD) | [Dorothy Laddland](https://open.spotify.com/artist/4faFJj7Vro57tVaN6Q8p3I) | [Morning Dew](https://open.spotify.com/album/1ycPHmmIrXmVYkpdOtKQU9) | 1:52 | 2023-06-02 | 2023-08-19 |
@@ -630,6 +631,7 @@
 | [Sleeping In](https://open.spotify.com/track/5VLRRFirz43glb8VaLi0u5) | [Damien Adams](https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg) | [Sleeping In](https://open.spotify.com/album/74gHriyoqihLtwbA9LdyTG) | 3:00 | 2023-03-10 | 2024-06-07 |
 | [Sleepover](https://open.spotify.com/track/3qQ1RkMq1Fc3Kf1beqcZDZ) | [Robert Delofeu](https://open.spotify.com/artist/05HoDshGmaZHJBCs6HWFA3) | [Sleepover](https://open.spotify.com/album/78ncS8rEV6irr9m1Nhtro1) | 1:38 | 2022-07-01 | 2022-09-17 |
 | [Slow Us Down](https://open.spotify.com/track/2pJVa3BEetPJLgBUCaVW7n) | [Jónatan Tinek](https://open.spotify.com/artist/3m1CHyq4P8IYZyEn4A2qVF) | [Slow Us Down](https://open.spotify.com/album/3BUWNWluuCHelTAihZMTKB) | 3:51 | 2022-09-23 | 2024-04-19 |
+| [Slowed by Time](https://open.spotify.com/track/4jdOVJzC2JYKMwfgat1Rdh) | [Logan Connors](https://open.spotify.com/artist/5isnVGl3x963Fl8DCH1zsk) | [Slowed by Time](https://open.spotify.com/album/3sNV8v8XF2A15Ai4lFzBfX) | 2:18 | 2025-05-28 |  |
 | [Slowmood](https://open.spotify.com/track/2uBdx5OBEQmRIBcM7FSnSB) | [Mike Duff](https://open.spotify.com/artist/3CCA4rgJaywSdKgYyuBzQy) | [Slowmood](https://open.spotify.com/album/5E4adlY3rgcjvPrA3jqE0L) | 2:15 | 2023-02-24 | 2024-11-21 |
 | [Sofia](https://open.spotify.com/track/67kLDQq8ItgqmAxvOgcgnJ) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Sofia](https://open.spotify.com/album/6GjxHAGO2uqKYVZouQiXDa) | 2:19 | 2023-04-21 | 2024-04-05 |
 | [Soft Echoes](https://open.spotify.com/track/3pZt1uUb7bgSADqm3smoMo) | [Colin Weary](https://open.spotify.com/artist/5z9QoWPwVN58RPnYjpPgEO) | [Soft Echoes](https://open.spotify.com/album/0FcwvBp2L2pKv1pdgXbvyV) | 3:27 | 2023-01-20 | 2024-04-05 |
@@ -663,7 +665,7 @@
 | [Spring has sprung](https://open.spotify.com/track/3wsMlLVsaUa2hlUmXAZgzg) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Sofia](https://open.spotify.com/album/6GjxHAGO2uqKYVZouQiXDa) | 2:18 | 2023-04-21 | 2025-05-14 |
 | [Sprössling](https://open.spotify.com/track/1g6ezK2BBrM9R97O8SlJsW) | [Clio Rene](https://open.spotify.com/artist/5VgxvrFuxQwGnqyqxGIFjo) | [Sprössling](https://open.spotify.com/album/3s2rTpIa7ZXdX2d4VrvzYy) | 2:31 | 2021-12-08 | 2024-04-05 |
 | [Spur of The Moment](https://open.spotify.com/track/3cMRR2kJDgid4lsNhfKGmg) | [Matthew Kaff](https://open.spotify.com/artist/45KZBIPW9K2Yslr7ccejpk) | [Spur of The Moment](https://open.spotify.com/album/6FTSLJ4Bhn49LP745m0oTl) | 2:32 | 2025-02-19 |  |
-| [Squares](https://open.spotify.com/track/2S7tKTNzlT6uNDOMQwXTTb) | [Samuel Kahn](https://open.spotify.com/artist/2kgaihMoGZ9AeL17aug2Fb) | [Squares](https://open.spotify.com/album/7CdcOB80Mr91dRp6tsv9B4) | 3:06 | 2024-12-10 |  |
+| [Squares](https://open.spotify.com/track/2S7tKTNzlT6uNDOMQwXTTb) | [Samuel Kahn](https://open.spotify.com/artist/2kgaihMoGZ9AeL17aug2Fb) | [Squares](https://open.spotify.com/album/7CdcOB80Mr91dRp6tsv9B4) | 3:06 | 2024-12-10 | 2025-05-29 |
 | [Stairway to Heaven](https://open.spotify.com/track/52MugsFISb5ACXi5d8Z2kG) | [Payton Howard](https://open.spotify.com/artist/46FYL5s6ojrHCMVeOCMq53) | [Stairway to Heaven](https://open.spotify.com/album/1ASGOuAVrcjnp5x3P4guJP) | 2:43 | 2023-02-24 | 2023-05-13 |
 | [Stay](https://open.spotify.com/track/3IwotLyzLEwvnVV5tK3LxX) | [Nicole Morenno](https://open.spotify.com/artist/20qzlrLcHxylJGZUCH0M9T) | [Stay](https://open.spotify.com/album/2ZpJ6FLDVO1ktGjRf8d3jP) | 1:54 | 2021-12-08 | 2022-04-06 |
 | [Staying In](https://open.spotify.com/track/4uLqEM1L4VhcTAnpKpkd3H) | [Sam Blom](https://open.spotify.com/artist/25zEYREIlgZF0kZ4Mb7OKN) | [Staying In](https://open.spotify.com/album/54OZnDVk4YawbMjQ2PrHsT) | 2:34 | 2025-05-19 |  |

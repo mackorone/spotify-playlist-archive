@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeanowPcWEJB.md) - [plain]
 
 > Viaja al México tradicional con la expresión de sus guitarras.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,641 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,675 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeanowPcWEJB.md) - [plain]
 | 15 | [Lagrima](https://open.spotify.com/track/2HjCLXHg41WhaJjJeTtXtm) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Ambientes](https://open.spotify.com/album/4VE8K1ccgbiGo0f8eeIxC0) | 2:00 |
 | 16 | [No Se Tú](https://open.spotify.com/track/6BFAhQJHsOqJCa9lIJZUE8) | [Guitarras de Luna](https://open.spotify.com/artist/0SBE5mcdSjhXgCBmWREiFh) | [Grandes Exitos del Sol](https://open.spotify.com/album/5dNZmdBj1zl3zu5LBdvf8D) | 3:14 |
 | 17 | [Adoro](https://open.spotify.com/track/7fQ8mPzBybAaVRoM4cZ0T5) | [Las Tres Cuerdas](https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a) | [Adoro](https://open.spotify.com/album/4RXbe2z6RIpyCEluLk9nd4) | 2:25 |
-| 18 | [Somos Novios](https://open.spotify.com/track/7yWJtlafh6TTjcljGpSn5B) | [Las Verdes](https://open.spotify.com/artist/1EYHVHmQJl5adHTZ0RZqvW) | [Somos Novios](https://open.spotify.com/album/5pzOJCIXm7y4YucjI04SQI) | 2:46 |
-| 19 | [Sabor A Mi](https://open.spotify.com/track/2T5EXt3R5JlSgsDU31CQNl) | [Los Suculentos](https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN) | [Sabor A Mi](https://open.spotify.com/album/26DHsH3JefudnjpnssJh2c) | 2:48 |
+| 18 | [Sabor A Mi](https://open.spotify.com/track/2T5EXt3R5JlSgsDU31CQNl) | [Los Suculentos](https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN) | [Sabor A Mi](https://open.spotify.com/album/26DHsH3JefudnjpnssJh2c) | 2:48 |
+| 19 | [Somos Novios](https://open.spotify.com/track/7yWJtlafh6TTjcljGpSn5B) | [Las Verdes](https://open.spotify.com/artist/1EYHVHmQJl5adHTZ0RZqvW) | [Somos Novios](https://open.spotify.com/album/5pzOJCIXm7y4YucjI04SQI) | 2:46 |
 | 20 | [No](https://open.spotify.com/track/0C69couVwXQPhHPq2f2gSa) | [Los Tres Mariquitas](https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf) | [No](https://open.spotify.com/album/453mZhcGBHRgoJeLfirF6k) | 2:41 |
 | 21 | [La Media Vuelta](https://open.spotify.com/track/2bHEWIKnvwC8UODwSjXMCu) | [Guitarras de Luna](https://open.spotify.com/artist/0SBE5mcdSjhXgCBmWREiFh) | [Grandes Exitos del Sol](https://open.spotify.com/album/5dNZmdBj1zl3zu5LBdvf8D) | 2:27 |
 | 22 | [Pensando En Ti](https://open.spotify.com/track/7Ckf1wTf5DDp9byugqz3gv) | [Las Perlas Negras](https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp) | [Pensando En Ti](https://open.spotify.com/album/0DdhG3uTQzuqaUYHOTyleK) | 2:42 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeanowPcWEJB.md) - [plain]
 | 33 | [Luna Lunera](https://open.spotify.com/track/119YhbTAwA2txEJNe6Sdjg) | [Cortando Troncos](https://open.spotify.com/artist/5K2ipzlsy5eOnGSr8Q9jCn) | [Luna Lunera](https://open.spotify.com/album/1LHSs9qU9O6bu2OIvav6pr) | 2:04 |
 | 34 | [Piel Canela](https://open.spotify.com/track/5jgDyBwJ9MT6r1L8LsJXhJ) | [Guitarras Mágicas](https://open.spotify.com/artist/20lOJusSoLyiJR1CYQH4a0) | [25 Exitos](https://open.spotify.com/album/6rmBa08mpIj55kcE4AdSBS) | 3:17 |
 | 35 | [Costumbres](https://open.spotify.com/track/7pK8jqZaln51RmaCKcvNr6) | [Chamin Madero](https://open.spotify.com/artist/2i6crsrnfZnUu1hdEEa1Z4) | [Juan Gabriel Instrumental](https://open.spotify.com/album/0gwnj5oFg6mpXSCHdu87Fg) | 4:06 |
-| 36 | [La Morena](https://open.spotify.com/track/548xag3N1RRqouKbnrkCex) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV) | [Guitarras Latinas](https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD) | 2:55 |
-| 37 | [Somos Novios](https://open.spotify.com/track/4mhgSi52rApm5FOOykFmKF) | [Gilberto Puente](https://open.spotify.com/artist/1OBVE9oxvqZ5mGtUUR3wVR) | [Historia de Amor](https://open.spotify.com/album/7qrDWAbGTj4qbf3hVexQxJ) | 3:46 |
+| 36 | [Somos Novios](https://open.spotify.com/track/4mhgSi52rApm5FOOykFmKF) | [Gilberto Puente](https://open.spotify.com/artist/1OBVE9oxvqZ5mGtUUR3wVR) | [Historia de Amor](https://open.spotify.com/album/7qrDWAbGTj4qbf3hVexQxJ) | 3:46 |
+| 37 | [La Morena](https://open.spotify.com/track/548xag3N1RRqouKbnrkCex) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV) | [Guitarras Latinas](https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD) | 2:55 |
 | 38 | [Presentimiento](https://open.spotify.com/track/4i5oTNy1YUFjKDPyeRgSPQ) | [José Isidoro](https://open.spotify.com/artist/3nbcGaD8jhAuRC6SLuB2Hz), [Mauricio Hernandez Monterrubio](https://open.spotify.com/artist/5K5WYuWrH1riDA7600TlE6) | [Presentimiento](https://open.spotify.com/album/0nWb8ZW4xynOxjNR0L3yEr) | 3:00 |
 | 39 | [Corazon Partio](https://open.spotify.com/track/6Bi0Viwx77fAJjTK62by6e) | [Guitarras Mágicas](https://open.spotify.com/artist/20lOJusSoLyiJR1CYQH4a0) | [25 Exitos](https://open.spotify.com/album/6rmBa08mpIj55kcE4AdSBS) | 4:09 |
 | 40 | [Amor Eterno](https://open.spotify.com/track/5k7l6Sl8lmLfxqbFg2kLgk) | [Chamin Madero](https://open.spotify.com/artist/2i6crsrnfZnUu1hdEEa1Z4) | [Juan Gabriel Instrumental](https://open.spotify.com/album/0gwnj5oFg6mpXSCHdu87Fg) | 3:41 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeanowPcWEJB.md) - [plain]
 | 91 | [El Mar \- Beyond the Sea \[Resmasterizado\]](https://open.spotify.com/track/4tyI1kQ3MIx58NDRIJY7oB) | [Claudio Estrada](https://open.spotify.com/artist/0LPTWTGEL7owKrYVeu50iJ) | [Tesoros De Colección \- Las Grandes Guitarras Mexicanas](https://open.spotify.com/album/5oXeGRM1GB8Olw0p1W1FQ3) | 2:46 |
 | 92 | [La Media Vuelta](https://open.spotify.com/track/7DVBuVbnRUTxgnWR6Q3tK0) | [Romanticos De La Guitarra](https://open.spotify.com/artist/6HexP8xPE4JxhMkwxx55Pz) | [Guitarras, Lloren ..\. Guitarras](https://open.spotify.com/album/0OaejbGdGCWKoMp5MguB2t) | 3:01 |
 | 93 | [Mal de Amores](https://open.spotify.com/track/1BHvnYtflVAjzydeEZ00iy) | [Ramon Dona\-Dio Y Sus Guitarras Mexicanas](https://open.spotify.com/artist/5QdoHnJ2GRqsMdYKNuryip) | [Las Guitarras Mágicas](https://open.spotify.com/album/2ggdAZc20qXocFuZ7AQOx3) | 3:25 |
-| 94 | [El Jardin](https://open.spotify.com/track/73eUiyq2OGr7JtOmgbyMxj) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [8 Años](https://open.spotify.com/album/3d1utyj80pLW7lVZa19pIP) | 3:20 |
+| 94 | [El Camino De Mi Alma](https://open.spotify.com/track/6Jfpv3vvfobay7uYVxWXog) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [El Camino De Mi Alma](https://open.spotify.com/album/1drg7Khmc8lZML5biWWtjY) | 6:01 |
 | 95 | [Mi Ciudad \(Remasterizado\)](https://open.spotify.com/track/69CRO9ofTkrgFUg2CKX8oR) | [Gilberto Puente](https://open.spotify.com/artist/1OBVE9oxvqZ5mGtUUR3wVR) | [Tesoros De Colección \- Las Grandes Guitarras Mexicanas](https://open.spotify.com/album/5oXeGRM1GB8Olw0p1W1FQ3) | 4:11 |
 | 96 | [Con los Años Que Me Quedan](https://open.spotify.com/track/0Xhg05D95egupooxyWYd4f) | [Chamin Correa](https://open.spotify.com/artist/5nbu0z9YPCdLMUr4OsiQ9w) | [Éxitos, Vol\. 2](https://open.spotify.com/album/27u9LlecBGDngpTp0SRghR) | 4:59 |
 | 97 | [Besame Mucho](https://open.spotify.com/track/3OQBWVESLIsq4h0M2U1WN4) | [Guitarras Mágicas](https://open.spotify.com/artist/20lOJusSoLyiJR1CYQH4a0) | [25 Exitos](https://open.spotify.com/album/6rmBa08mpIj55kcE4AdSBS) | 4:21 |
 | 98 | [La Incondicional](https://open.spotify.com/track/7FFwJ6LJzc5kywubh45ZMU) | [Guitarras de Luna](https://open.spotify.com/artist/0SBE5mcdSjhXgCBmWREiFh) | [Grandes Exitos del Sol](https://open.spotify.com/album/5dNZmdBj1zl3zu5LBdvf8D) | 3:57 |
-| 99 | [El Camino De Mi Alma](https://open.spotify.com/track/6Jfpv3vvfobay7uYVxWXog) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [El Camino De Mi Alma](https://open.spotify.com/album/1drg7Khmc8lZML5biWWtjY) | 6:01 |
+| 99 | [El Jardin](https://open.spotify.com/track/73eUiyq2OGr7JtOmgbyMxj) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [8 Años](https://open.spotify.com/album/3d1utyj80pLW7lVZa19pIP) | 3:20 |
 | 100 | [Mexico 1910](https://open.spotify.com/track/7KPA038sMskcyOYtI6tc7i) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Cinema Latino Vol\. 1](https://open.spotify.com/album/7kNKfwn3JRIPCYXpk2VF4B) | 1:47 |
 
 Snapshot ID: `Zo805gAAAACBLmcW3E+PhlfBQkxsWupv`

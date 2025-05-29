@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Eo0KY.md) - [plain]
 
 > This is Nicholas Craven\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 598 likes - 43 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 597 likes - 43 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Eo0KY.md) - [plain]
 | 21 | [You Ain't No Menace](https://open.spotify.com/track/1CzgJLPQmVCnCxtprKmKgA) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Fair Exchange No Robbery](https://open.spotify.com/album/4jpTuerIpgU77hzRCfcXZj) | 3:14 |
 | 22 | [Early Worms Get Birds](https://open.spotify.com/track/2Jhku0aj90zNf1d1S8HECm) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Double Dee](https://open.spotify.com/artist/0VCa5LsylPVCUo93jxHCYe) | [Penalty of Leadership](https://open.spotify.com/album/3jGa3xK9xpXMWpAN8JJ8NL) | 3:02 |
 | 23 | [Shogun Jump](https://open.spotify.com/track/0UznY2XztSP2pP3fhW3d9U) | [Tha God Fahim](https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Ultimate Dump Gawd](https://open.spotify.com/album/7BY0QMRC18N9sxaXqYkzNP) | 2:36 |
-| 24 | [2 Sides](https://open.spotify.com/track/23HXgFzfHAaoTqlyweimUI) | [Jimmie D](https://open.spotify.com/artist/1grzkPdyoi7RbrBTMIIxRU), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Raz Fresco](https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC) | [Good Music Hypnotizes](https://open.spotify.com/album/6gRt97VXKvCAti89oAI7LZ) | 2:09 |
-| 25 | [Wolfing Down](https://open.spotify.com/track/114lH2FW6ptiIv3MPwvRV3) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri) | [Craven N](https://open.spotify.com/album/3MehQLIwSof0ZxgSJUyCRP) | 2:15 |
+| 24 | [Wolfing Down](https://open.spotify.com/track/114lH2FW6ptiIv3MPwvRV3) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri) | [Craven N](https://open.spotify.com/album/3MehQLIwSof0ZxgSJUyCRP) | 2:15 |
+| 25 | [2 Sides](https://open.spotify.com/track/23HXgFzfHAaoTqlyweimUI) | [Jimmie D](https://open.spotify.com/artist/1grzkPdyoi7RbrBTMIIxRU), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Raz Fresco](https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC) | [Good Music Hypnotizes](https://open.spotify.com/album/6gRt97VXKvCAti89oAI7LZ) | 2:09 |
 | 26 | [Anchor](https://open.spotify.com/track/6Zxwx0alt2Afe2N2h67xMa) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Navy Blue](https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV) | [Craven N 3](https://open.spotify.com/album/5wAlUyWNsX3qZo5Q58soad) | 2:41 |
 | 27 | [Lost His Way](https://open.spotify.com/track/6eqnVQb0Ct5Eg8Aziveyh2) | [Tha God Fahim](https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Your Old Droog](https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp) | [Dump Gawd: Shot Clock King](https://open.spotify.com/album/36FjECbaQWxWg64KyjotOs) | 2:12 |
 | 28 | [Fallen](https://open.spotify.com/track/6CEJ0mhZO62EdNo5YvycXG) | [Jimmie D](https://open.spotify.com/artist/1grzkPdyoi7RbrBTMIIxRU), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Fallen](https://open.spotify.com/album/6E5Xxv3BekgDEtPhiGhQoM) | 2:19 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Eo0KY.md) - [plain]
 | 42 | [Midsommar](https://open.spotify.com/track/6n4hU8yiTKd9vdusec8auo) | [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Deleted Scenes](https://open.spotify.com/album/0bSumc88UItdZGGWQwf3f5) | 1:09 |
 | 43 | [Final Destination](https://open.spotify.com/track/4OAEMH3QS3o69ww6wKrNQS) | [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Deleted Scenes](https://open.spotify.com/album/0bSumc88UItdZGGWQwf3f5) | 3:08 |
 
-Snapshot ID: `aDOvAAAAAACK9nibtFMN2I/oid3MdQoN`
+Snapshot ID: `aDUAgAAAAACNfV0J7FPKapSWghHiu4z0`

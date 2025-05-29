@@ -1,12 +1,12 @@
 {
   "description": "This is Gabr\u00edel \u00d3lafs. The essential tracks, all in one playlist.",
-  "num_followers": 1922,
+  "num_followers": 1924,
   "original_name": "This Is Gabr\u00edel \u00d3lafs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDOvAAAAAAA+Ye8LH3jgMgVt4X1Ah9Xf",
+  "snapshot_id": "aDUAgAAAAACvKWo4aOQ38VBMjvuG2DJF",
   "tracks": [
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
         }
       ],
-      "duration_ms": 80085,
-      "name": "Flatey",
-      "url": "https://open.spotify.com/track/5xrtUpX3QnFgGIAXdYAY3r"
+      "duration_ms": 118347,
+      "name": "Mosi",
+      "url": "https://open.spotify.com/track/4RBLDWbV6cDTJj3ToejEED"
     },
     {
       "added_at": null,
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
         }
       ],
-      "duration_ms": 118347,
-      "name": "Mosi",
-      "url": "https://open.spotify.com/track/4RBLDWbV6cDTJj3ToejEED"
+      "duration_ms": 80085,
+      "name": "Flatey",
+      "url": "https://open.spotify.com/track/5xrtUpX3QnFgGIAXdYAY3r"
     },
     {
       "added_at": null,
@@ -747,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Orchestral Works",
-        "url": "https://open.spotify.com/album/6fJIhLghRJNCVWbmRWObn3"
+        "name": "Lullabies for Piano and Cello (Deluxe)",
+        "url": "https://open.spotify.com/album/0V9codAUbAzXJSD1c5jkk3"
       },
       "artists": [
         {
@@ -756,17 +756,13 @@
           "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
         },
         {
-          "name": "Reykjav\u00edk Orkestra",
-          "url": "https://open.spotify.com/artist/2QNVqJUUo1JmnkDVBblSaU"
-        },
-        {
-          "name": "Viktor Orri \u00c1rnason",
-          "url": "https://open.spotify.com/artist/18Z4spLSvLLjg7hnCS5De1"
+          "name": "Steiney Sigur\u00f0ard\u00f3ttir",
+          "url": "https://open.spotify.com/artist/60zYVQeEkApaNJVnVKyISO"
         }
       ],
-      "duration_ms": 239996,
-      "name": "Islandus: Streymir",
-      "url": "https://open.spotify.com/track/1GT6MSZpVOgZVn8O8iCqPm"
+      "duration_ms": 92257,
+      "name": "Somn\u00eda",
+      "url": "https://open.spotify.com/track/16CJHOcR0iksFRellAVvs1"
     },
     {
       "added_at": null,
@@ -787,8 +783,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lullabies for Piano and Cello (Deluxe)",
-        "url": "https://open.spotify.com/album/0V9codAUbAzXJSD1c5jkk3"
+        "name": "Orchestral Works",
+        "url": "https://open.spotify.com/album/6fJIhLghRJNCVWbmRWObn3"
       },
       "artists": [
         {
@@ -796,13 +792,17 @@
           "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
         },
         {
-          "name": "Steiney Sigur\u00f0ard\u00f3ttir",
-          "url": "https://open.spotify.com/artist/60zYVQeEkApaNJVnVKyISO"
+          "name": "Reykjav\u00edk Orkestra",
+          "url": "https://open.spotify.com/artist/2QNVqJUUo1JmnkDVBblSaU"
+        },
+        {
+          "name": "Viktor Orri \u00c1rnason",
+          "url": "https://open.spotify.com/artist/18Z4spLSvLLjg7hnCS5De1"
         }
       ],
-      "duration_ms": 92257,
-      "name": "Somn\u00eda",
-      "url": "https://open.spotify.com/track/16CJHOcR0iksFRellAVvs1"
+      "duration_ms": 239996,
+      "name": "Islandus: Streymir",
+      "url": "https://open.spotify.com/track/1GT6MSZpVOgZVn8O8iCqPm"
     },
     {
       "added_at": null,

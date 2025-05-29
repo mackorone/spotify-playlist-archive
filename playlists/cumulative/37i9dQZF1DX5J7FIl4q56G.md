@@ -4,7 +4,7 @@
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: We Came As Romans
 
-9,231 songs - 25 day 18 hr 45 min
+9,232 songs - 25 day 18 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -7077,6 +7077,7 @@
 | [Somewhere Better](https://open.spotify.com/track/0GyV45JIZhjYxDqMEDc3vz) | [Ad Infinitum](https://open.spotify.com/artist/2X3qFQFHkm1sOGo5ppIoSD) | [Somewhere Better](https://open.spotify.com/album/2EUYd6YEvWysmyuc8CEo0q) | 4:08 | 2022-11-25 | 2022-12-03 |
 | [Somos Negocio](https://open.spotify.com/track/7Dtbv6pChk6Qdyxy5BJJJb) | [DELICTIVO](https://open.spotify.com/artist/1G8OSVGFYiuCJSMySDPCbE), [Thell Barrio](https://open.spotify.com/artist/5JMS3Ijapn92ZJ8EKFcW59) | [Somos Negocio](https://open.spotify.com/album/5HjAP8qa3lBJ7pBIvgP4Ci) | 2:33 | 2023-02-24 | 2023-03-04 |
 | [Song 09 \(Pale Blue Dot\) \- Demo 2018](https://open.spotify.com/track/5Qn4YIAFnydWamvXGtQUhC) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Lost Not Forgotten Archives: Distance Over Time Demos \(2018\)](https://open.spotify.com/album/3813UgywzpXjMYQiWyb859) | 8:18 | 2023-02-10 | 2023-02-18 |
+| [Song 3](https://open.spotify.com/track/7eDUTBIo76AMC5UYqkkzDL) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m) | [Song 3](https://open.spotify.com/album/0Cxa2LwLEBIpVglPWwiias) | 3:34 | 2025-05-23 |  |
 | [Song For The Weak.](https://open.spotify.com/track/12wm3tZxnlvGBy3ccrjqYr) | [DEVILOOF](https://open.spotify.com/artist/4gSAE6I87LS39XMZpoQGPG) | [Song For The Weak.](https://open.spotify.com/album/3ubFGbdCfGAmMBHgwdFua6) | 5:14 | 2024-01-12 | 2024-01-20 |
 | [Song of the Dead](https://open.spotify.com/track/64Fo3zFdf7e63itkITq87j) | [Feared](https://open.spotify.com/artist/4633f4llaipUFmiJMpDO7Z) | [Song of the Dead](https://open.spotify.com/album/3BvC1iMpn704KLD8JvDnhi) | 1:57 | 2024-02-23 | 2024-03-02 |
 | [Song of the Dusk](https://open.spotify.com/track/59KysmBtOw5YYLV2UzbXeO) | [Insomnium](https://open.spotify.com/artist/3uIgLG971oRM5fe6v8lvQS) | [Song of the Dusk](https://open.spotify.com/album/7G8frDmB5Nl7hNEvOHE3om) | 9:43 | 2023-09-01 | 2023-09-09 |

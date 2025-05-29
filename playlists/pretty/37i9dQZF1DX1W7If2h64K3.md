@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1W7If2h64K3.md) - [plain]
 
 > Discover the music of Schumann.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,448 likes - 60 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,465 likes - 60 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Kinderszenen, Op\. 15: 7\. Träumerei](https://open.spotify.com/track/7rrDSYbroZhV6aKkbYxiuG) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Alfred Brendel](https://open.spotify.com/artist/5vBh0nve44zwwVF5KWtCwA) | [Schumann: Kreisleriana; Kinderszenen; Fantasiestücke](https://open.spotify.com/album/5vek6eoWa9v7lhnV2IbYWW) | 2:30 |
+| 1 | [Kinderszenen, Op\. 15: VII\. Träumerei](https://open.spotify.com/track/7rrDSYbroZhV6aKkbYxiuG) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Alfred Brendel](https://open.spotify.com/artist/5vBh0nve44zwwVF5KWtCwA) | [Schumann: Kreisleriana; Kinderszenen; Fantasiestücke](https://open.spotify.com/album/5vek6eoWa9v7lhnV2IbYWW) | 2:30 |
 | 2 | [Andante and Variation for two pianos, Op.46](https://open.spotify.com/track/46g55JN50hOZNdaLH9s6VF) | [Gabriela Montero](https://open.spotify.com/artist/0zn66Km3MeK24VuWUZydgr), [Martha Argerich](https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4) | [Live from the Lugano Festival 2007](https://open.spotify.com/album/1DuZ25ZGiTC2kAVIEubWgw) | 13:28 |
 | 3 | [Schumann: Piano Concerto in A Minor, Op\. 54: I\. Allegro affettuoso](https://open.spotify.com/track/2JzsHRzDT3kCokSu0ggZ8U) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Evgeny Kissin](https://open.spotify.com/artist/71kYWgqr6eHLOZj6u3JTuJ), [Sir Colin Davis](https://open.spotify.com/artist/1fufXFU3XAPubSQXmj1aBx), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Mozart: Piano Concerto No\. 24, K\. 491 \- Schumann: Piano Concerto, Op\. 54](https://open.spotify.com/album/1fcsqzBU2pszJQ0fWMPRws) | 16:05 |
 | 4 | [Dichterliebe, Op.48: 10\. Hör' ich das Liedchen klingen](https://open.spotify.com/track/3VItFGYyv2uvEzrzKQcbAM) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Fritz Wunderlich](https://open.spotify.com/artist/3jp4zawfeVYVpSzO2Yujbv), [Hubert Giesen](https://open.spotify.com/artist/4JiFvHUZrCO4IyeEs19fjn) | [Schumann: Dichterliebe / Beethoven & Schubert: Lieder](https://open.spotify.com/album/36OhNMPqhk5lVf2HNY6ErU) | 1:55 |

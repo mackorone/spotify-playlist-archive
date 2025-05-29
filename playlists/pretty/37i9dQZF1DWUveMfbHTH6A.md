@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUveMfbHTH6A.md) - [plain]
 
 > Our editors' picks of the best Fresh Finds tracks around the world this year\. Cover: Cash Cobain
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,603 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,605 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUveMfbHTH6A.md) - [plain]
 | 14 | [Small Change](https://open.spotify.com/track/6iCH68EVZeUm0qlIBp5GOO) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Small Change](https://open.spotify.com/album/3RZwwR7eh3FvVekFA2ivNp) | 2:45 |
 | 15 | [For Me](https://open.spotify.com/track/3blAqiAP9f44Kt3R7pQabP) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [Zombieland 2](https://open.spotify.com/album/1M3M7UVL9o2py1sY5A6jk9) | 1:44 |
 | 16 | [Flowers](https://open.spotify.com/track/0BEwBflam3FG1sjoVDrCuN) | [Samantha Ebert](https://open.spotify.com/artist/0ETOPq7bpPG7rxYsV0MEzu) | [Flowers](https://open.spotify.com/album/56zpgYfjYFwIH03XCy2TGz) | 3:44 |
-| 17 | [eyes wide open](https://open.spotify.com/track/6TQtwV4QG19SzCVG5F2RkC) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [eyes wide open](https://open.spotify.com/album/4uCsGsDDZQbhDsb8ujwenV) | 2:33 |
-| 18 | [Technicolor Dream](https://open.spotify.com/track/4Mn0mNcjY2GpycbCChNLej) | [My Friend Catie](https://open.spotify.com/artist/2B2j4jb1ZGYKKIBOJAj4aq) | [Technicolor Dream](https://open.spotify.com/album/165OxgFnUaeMTJnYndej77) | 4:10 |
+| 17 | [Technicolor Dream](https://open.spotify.com/track/4Mn0mNcjY2GpycbCChNLej) | [My Friend Catie](https://open.spotify.com/artist/2B2j4jb1ZGYKKIBOJAj4aq) | [Technicolor Dream](https://open.spotify.com/album/165OxgFnUaeMTJnYndej77) | 4:10 |
+| 18 | [eyes wide open](https://open.spotify.com/track/6TQtwV4QG19SzCVG5F2RkC) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [eyes wide open](https://open.spotify.com/album/4uCsGsDDZQbhDsb8ujwenV) | 2:33 |
 | 19 | [in your head](https://open.spotify.com/track/4o6xvp0vmdHMeS4Z5qeRQw) | [cloudyfield](https://open.spotify.com/artist/1QXwIgp7aA3JT7WIyaAcur) | [in your head](https://open.spotify.com/album/6FeKgvDfFFEqEbEksoTdIm) | 2:50 |
 | 20 | [Bon Bon](https://open.spotify.com/track/4Dr5pBJktWX8aZckCznE6q) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Bon Bon](https://open.spotify.com/album/27WWDGD7YPsoaOCwZNFWBT) | 3:30 |
 | 21 | [AUCTION](https://open.spotify.com/track/1yhFfvsXLCagHMJuPZllJD) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [AUCTION](https://open.spotify.com/album/3kwxfS6aFImHEPU3XW85CU) | 3:20 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUveMfbHTH6A.md) - [plain]
 | 42 | [Swimming](https://open.spotify.com/track/1ouaQKErGuX7vv8mtQrjv8) | [Douvelle19](https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH) | [Swimming](https://open.spotify.com/album/7pvPWVBCOPOo08SQAc4hDD) | 4:02 |
 | 43 | [I Just Needed You To Know](https://open.spotify.com/track/1LCovl7CSqDuKJRlFQEA5V) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [I Just Needed You To Know](https://open.spotify.com/album/2Xhvdg9rLRGvhlcOznttch) | 4:35 |
 | 44 | [Rich](https://open.spotify.com/track/4OYKHiuqAjiSQJjn08LNXy) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Rich](https://open.spotify.com/album/5T3wN7U12GfIVduaX8aDU3) | 3:55 |
-| 45 | [The Bed I Made](https://open.spotify.com/track/52lurZLl1MTd4I2E3GMkgb) | [Hannah McFarland](https://open.spotify.com/artist/6wOUwj1qttEQHIkyFjlMdp) | [The Bed I Made](https://open.spotify.com/album/35JQWINaTEFOCJSKg6pd4a) | 3:52 |
-| 46 | [Shadows](https://open.spotify.com/track/4uqwjTu6OOTASKwDb1PDtx) | [Talia Rae](https://open.spotify.com/artist/4v6p8rTvDtYbnoegKY3mqr) | [Shadows](https://open.spotify.com/album/0mQFKHQ1KQYQCY46mudsJC) | 3:03 |
+| 45 | [Shadows](https://open.spotify.com/track/4uqwjTu6OOTASKwDb1PDtx) | [Talia Rae](https://open.spotify.com/artist/4v6p8rTvDtYbnoegKY3mqr) | [Shadows](https://open.spotify.com/album/0mQFKHQ1KQYQCY46mudsJC) | 3:03 |
+| 46 | [The Bed I Made](https://open.spotify.com/track/52lurZLl1MTd4I2E3GMkgb) | [Hannah McFarland](https://open.spotify.com/artist/6wOUwj1qttEQHIkyFjlMdp) | [The Bed I Made](https://open.spotify.com/album/35JQWINaTEFOCJSKg6pd4a) | 3:52 |
 | 47 | [she ain't texas](https://open.spotify.com/track/1ElaPKXfrZkfhNUoEDGrzI) | [Ashley Anne](https://open.spotify.com/artist/4oAZAzn6NKRzLM8LTtrVsw) | [she ain't texas](https://open.spotify.com/album/6wKBrxFqveJQGNtrPbdQZx) | 4:05 |
 | 48 | [Bring The Witches Back](https://open.spotify.com/track/3sJHkSkno3qYZkXemkoNkW) | [Mel D](https://open.spotify.com/artist/5UXFqyAj973tF87Entr44J) | [Bring The Witches Back](https://open.spotify.com/album/5J9P9buPntwTG6hgWShoYc) | 4:14 |
 | 49 | [safe space](https://open.spotify.com/track/7lOsJPdQuDAVmm3ZZsvG9f) | [Sughn](https://open.spotify.com/artist/0BPCwLHpZIpVlVXcZyH2CB) | [safe space](https://open.spotify.com/album/2tBmCvqE2xObYau5vGoY2z) | 3:10 |

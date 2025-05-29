@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 
 > This is Alan Walker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,642,189 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,642,177 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 | 36 | [Dust](https://open.spotify.com/track/2r9a4yyqoM0izDoldy4S8i) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Dust](https://open.spotify.com/album/0AKXaoCpKdJMOAvVy8Xt5O) | 3:11 |
 | 37 | [Endless Summer](https://open.spotify.com/track/2DVvsgWrZ4rUjupdRGYEXK) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Endless Summer](https://open.spotify.com/album/6heWsbxEvCnXbHcw4xlKmE) | 3:07 |
 | 38 | [That's What I Like \- Alan Walker Remix](https://open.spotify.com/track/1KtU0WCq472KzqCXgMOxkS) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [That's What I Like \(Alan Walker Remix\)](https://open.spotify.com/album/6LD3J50OxLEQbAB8ahoj1S) | 3:15 |
-| 39 | [Space Melody \(Edward Artemyev\) \(feat\. Leony\)](https://open.spotify.com/track/0FRavXSn6XmeItbuJR3VrR) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Edward Artemyev](https://open.spotify.com/artist/097u8n1F4JjTzmOR9VUVEK), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Space Melody \(Edward Artemyev\) \(feat\. Leony\)](https://open.spotify.com/album/2KQatLV1j4JssrVeVnvf2K) | 3:00 |
-| 40 | [Story of a Bird](https://open.spotify.com/track/5nBOV8rbNUi6SQb4SOrdx0) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [Story of a Bird](https://open.spotify.com/album/3yXSlH8QsT0hvJvfJjS2iB) | 3:50 |
+| 39 | [Story of a Bird](https://open.spotify.com/track/5nBOV8rbNUi6SQb4SOrdx0) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [Story of a Bird](https://open.spotify.com/album/3yXSlH8QsT0hvJvfJjS2iB) | 3:50 |
+| 40 | [Space Melody \(Edward Artemyev\) \(feat\. Leony\)](https://open.spotify.com/track/0FRavXSn6XmeItbuJR3VrR) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Edward Artemyev](https://open.spotify.com/artist/097u8n1F4JjTzmOR9VUVEK), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Space Melody \(Edward Artemyev\) \(feat\. Leony\)](https://open.spotify.com/album/2KQatLV1j4JssrVeVnvf2K) | 3:00 |
 | 41 | [Forever Young](https://open.spotify.com/track/0wOdcEgqadzlYgBGunlHMV) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Forever Young](https://open.spotify.com/album/7xBAA2rjqdxZtJbi8FfdAn) | 2:58 |
 | 42 | [Dreamer](https://open.spotify.com/track/3eClq9oJiACXJZuCsErmWr) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Dreamer](https://open.spotify.com/album/2lqGGudTqfh9zLgx0CWiSU) | 2:35 |
 | 43 | [Fake A Smile](https://open.spotify.com/track/6rAGFY9D3ah6Lb7fUgbNNH) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Fake A Smile](https://open.spotify.com/album/1leY6jsSJO6qjoZYUxE2fN) | 2:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 | 49 | [Paradise](https://open.spotify.com/track/2sVcG5mresyV79qpYr3M1C) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [K\-391](https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr), [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [World Of Walker](https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF) | 3:03 |
 | 50 | [Thick Of It All](https://open.spotify.com/track/6JbvvGKwtgcjeOU810AS8w) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Thick Of It All](https://open.spotify.com/album/0JvWGbkCMpAdbPVlczwKDx) | 3:19 |
 
-Snapshot ID: `aDOvAAAAAACeQGDw3pUVjXRxAJs3sXZo`
+Snapshot ID: `aDUAgAAAAADgBwUo7+ssTP3v39OuSgqy`

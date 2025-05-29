@@ -1,6 +1,6 @@
 {
   "description": "El nuevo sonido de la canci\u00f3n sudamericana de la mano de Sof\u00eda \u00c1lvez.",
-  "num_followers": 27042,
+  "num_followers": 27049,
   "original_name": "Voces del Sur",
   "owner": {
     "name": "Spotify",
@@ -1015,6 +1015,34 @@
     {
       "added_at": "2025-04-11 03:00:08",
       "album": {
+        "name": "Luna Llena de Fuego",
+        "url": "https://open.spotify.com/album/1SoLqCi9zPz3aFjbMFkfHF"
+      },
+      "artists": [
+        {
+          "name": "Milagros",
+          "url": "https://open.spotify.com/artist/7fuhvsoeDJJwdQYBwZkRRU"
+        },
+        {
+          "name": "Luana Mendez",
+          "url": "https://open.spotify.com/artist/4EsoEMF4MR3LrFzsQFxzGK"
+        },
+        {
+          "name": "YOGAROCK",
+          "url": "https://open.spotify.com/artist/65oqi7gbDimKUBR0MzhMNc"
+        },
+        {
+          "name": "Hugo Fattoruso",
+          "url": "https://open.spotify.com/artist/6QDyLE9MsKNhEwDcgd86F9"
+        }
+      ],
+      "duration_ms": 161875,
+      "name": "Luna Llena de Fuego",
+      "url": "https://open.spotify.com/track/22AoaRhyEfGwxGYc951ZLM"
+    },
+    {
+      "added_at": "2025-04-11 03:00:08",
+      "album": {
         "name": "Esperarte",
         "url": "https://open.spotify.com/album/5I0dw9jdaRbYmEPV63nNMT"
       },
@@ -1175,34 +1203,6 @@
     {
       "added_at": "2025-04-11 03:00:08",
       "album": {
-        "name": "Luna Llena de Fuego",
-        "url": "https://open.spotify.com/album/1SoLqCi9zPz3aFjbMFkfHF"
-      },
-      "artists": [
-        {
-          "name": "Milagros",
-          "url": "https://open.spotify.com/artist/7fuhvsoeDJJwdQYBwZkRRU"
-        },
-        {
-          "name": "Luana Mendez",
-          "url": "https://open.spotify.com/artist/4EsoEMF4MR3LrFzsQFxzGK"
-        },
-        {
-          "name": "YOGAROCK",
-          "url": "https://open.spotify.com/artist/65oqi7gbDimKUBR0MzhMNc"
-        },
-        {
-          "name": "Hugo Fattoruso",
-          "url": "https://open.spotify.com/artist/6QDyLE9MsKNhEwDcgd86F9"
-        }
-      ],
-      "duration_ms": 161875,
-      "name": "Luna Llena de Fuego",
-      "url": "https://open.spotify.com/track/22AoaRhyEfGwxGYc951ZLM"
-    },
-    {
-      "added_at": "2025-04-11 03:00:08",
-      "album": {
         "name": "Falso de amor",
         "url": "https://open.spotify.com/album/7CWGDvXea9XZhgWon8uLEc"
       },
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2025-04-11 03:00:08",
       "album": {
-        "name": "Cuadros",
-        "url": "https://open.spotify.com/album/0Q34cEYBylFm5erVVMOIwG"
-      },
-      "artists": [
-        {
-          "name": "Mocchi",
-          "url": "https://open.spotify.com/artist/2PIR7IOatY3R48U74ypBez"
-        }
-      ],
-      "duration_ms": 195529,
-      "name": "Cuadros",
-      "url": "https://open.spotify.com/track/3jB9ZCohuyiCOqPDVrAEU3"
-    },
-    {
-      "added_at": "2025-04-11 03:00:08",
-      "album": {
         "name": "Tequila",
         "url": "https://open.spotify.com/album/4f6goszG3AzoyI4BGY1vdV"
       },
@@ -1311,6 +1295,42 @@
       "duration_ms": 202655,
       "name": "Tequila",
       "url": "https://open.spotify.com/track/0ZyWR4rAJSZdNn1UDcm6RP"
+    },
+    {
+      "added_at": "2025-04-11 03:00:08",
+      "album": {
+        "name": "Pecho Jard\u00edn",
+        "url": "https://open.spotify.com/album/7bA5CbHjNftxr0NvL9nrGc"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Albarr\u00e1n",
+          "url": "https://open.spotify.com/artist/1QmdL2FgY8hrUjbKxX3jcK"
+        },
+        {
+          "name": "Rosario Alfonso",
+          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
+        }
+      ],
+      "duration_ms": 282990,
+      "name": "Pecho Jard\u00edn",
+      "url": "https://open.spotify.com/track/2lG6Uab6jE44w5PPQKTRC7"
+    },
+    {
+      "added_at": "2025-04-11 03:00:08",
+      "album": {
+        "name": "Cuadros",
+        "url": "https://open.spotify.com/album/0Q34cEYBylFm5erVVMOIwG"
+      },
+      "artists": [
+        {
+          "name": "Mocchi",
+          "url": "https://open.spotify.com/artist/2PIR7IOatY3R48U74ypBez"
+        }
+      ],
+      "duration_ms": 195529,
+      "name": "Cuadros",
+      "url": "https://open.spotify.com/track/3jB9ZCohuyiCOqPDVrAEU3"
     },
     {
       "added_at": "2025-04-11 03:00:08",
@@ -1335,22 +1355,18 @@
     {
       "added_at": "2025-04-11 03:00:08",
       "album": {
-        "name": "Pecho Jard\u00edn",
-        "url": "https://open.spotify.com/album/7bA5CbHjNftxr0NvL9nrGc"
+        "name": "Odio despertar",
+        "url": "https://open.spotify.com/album/4CIBXHoCuxl1Pbr4OjwWoS"
       },
       "artists": [
         {
-          "name": "Alejandro Albarr\u00e1n",
-          "url": "https://open.spotify.com/artist/1QmdL2FgY8hrUjbKxX3jcK"
-        },
-        {
-          "name": "Rosario Alfonso",
-          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
+          "name": "Miau Tr\u00edo",
+          "url": "https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL"
         }
       ],
-      "duration_ms": 282990,
-      "name": "Pecho Jard\u00edn",
-      "url": "https://open.spotify.com/track/2lG6Uab6jE44w5PPQKTRC7"
+      "duration_ms": 267941,
+      "name": "Odio despertar",
+      "url": "https://open.spotify.com/track/5iHpMjibIkqUNAIw6jYWs1"
     },
     {
       "added_at": "2025-04-11 03:00:08",
@@ -1395,22 +1411,6 @@
     {
       "added_at": "2025-04-11 03:00:08",
       "album": {
-        "name": "Odio despertar",
-        "url": "https://open.spotify.com/album/4CIBXHoCuxl1Pbr4OjwWoS"
-      },
-      "artists": [
-        {
-          "name": "Miau Tr\u00edo",
-          "url": "https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL"
-        }
-      ],
-      "duration_ms": 267941,
-      "name": "Odio despertar",
-      "url": "https://open.spotify.com/track/5iHpMjibIkqUNAIw6jYWs1"
-    },
-    {
-      "added_at": "2025-04-11 03:00:08",
-      "album": {
         "name": "Eufemismos",
         "url": "https://open.spotify.com/album/4kn8e8zAEn2BYX50GAvBNF"
       },
@@ -1451,22 +1451,22 @@
     {
       "added_at": "2025-04-11 03:00:08",
       "album": {
-        "name": "Vals de la Luna (Vivo en Madrid)",
-        "url": "https://open.spotify.com/album/4GUXXkfXgUVlbbp9yhzNmb"
+        "name": "Sampa",
+        "url": "https://open.spotify.com/album/1koawHnVGULixrX3oMtJxf"
       },
       "artists": [
         {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+          "name": "S\u00edlvia P\u00e9rez Cruz",
+          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
         },
         {
-          "name": "Liniers",
-          "url": "https://open.spotify.com/artist/5wRmSI0ZmYNPPuMyo8cRvb"
+          "name": "Juan Fal\u00fa",
+          "url": "https://open.spotify.com/artist/2NjcVfg5McVYV375Fm0rFH"
         }
       ],
-      "duration_ms": 245482,
-      "name": "Vals de la Luna (Vivo en Madrid)",
-      "url": "https://open.spotify.com/track/1lcYkQf99lUThsqtccv3bO"
+      "duration_ms": 269540,
+      "name": "Sampa",
+      "url": "https://open.spotify.com/track/4Hlo0rzrgIOCcj84LFDa8n"
     },
     {
       "added_at": "2025-04-11 03:00:08",
@@ -1491,42 +1491,22 @@
     {
       "added_at": "2025-04-11 03:00:08",
       "album": {
-        "name": "Sampa",
-        "url": "https://open.spotify.com/album/1koawHnVGULixrX3oMtJxf"
+        "name": "Vals de la Luna (Vivo en Madrid)",
+        "url": "https://open.spotify.com/album/4GUXXkfXgUVlbbp9yhzNmb"
       },
       "artists": [
         {
-          "name": "S\u00edlvia P\u00e9rez Cruz",
-          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
         },
         {
-          "name": "Juan Fal\u00fa",
-          "url": "https://open.spotify.com/artist/2NjcVfg5McVYV375Fm0rFH"
+          "name": "Liniers",
+          "url": "https://open.spotify.com/artist/5wRmSI0ZmYNPPuMyo8cRvb"
         }
       ],
-      "duration_ms": 269540,
-      "name": "Sampa",
-      "url": "https://open.spotify.com/track/4Hlo0rzrgIOCcj84LFDa8n"
-    },
-    {
-      "added_at": "2025-04-11 03:00:08",
-      "album": {
-        "name": "Puntos Cardinales",
-        "url": "https://open.spotify.com/album/22l1ECW02p1pcXyBCFOh6f"
-      },
-      "artists": [
-        {
-          "name": "Laura Canoura",
-          "url": "https://open.spotify.com/artist/0ATxyDnFvftkIT21OZu80N"
-        },
-        {
-          "name": "Ricardo Mollo",
-          "url": "https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7"
-        }
-      ],
-      "duration_ms": 301664,
-      "name": "Puntos Cardinales",
-      "url": "https://open.spotify.com/track/5GKSuqq399v74JageW2C9L"
+      "duration_ms": 245482,
+      "name": "Vals de la Luna (Vivo en Madrid)",
+      "url": "https://open.spotify.com/track/1lcYkQf99lUThsqtccv3bO"
     },
     {
       "added_at": "2025-04-11 03:00:08",
@@ -1547,6 +1527,26 @@
       "duration_ms": 237078,
       "name": "La Noche",
       "url": "https://open.spotify.com/track/1zL89efsx8wRCIja5CB9tr"
+    },
+    {
+      "added_at": "2025-04-11 03:00:08",
+      "album": {
+        "name": "Puntos Cardinales",
+        "url": "https://open.spotify.com/album/22l1ECW02p1pcXyBCFOh6f"
+      },
+      "artists": [
+        {
+          "name": "Laura Canoura",
+          "url": "https://open.spotify.com/artist/0ATxyDnFvftkIT21OZu80N"
+        },
+        {
+          "name": "Ricardo Mollo",
+          "url": "https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7"
+        }
+      ],
+      "duration_ms": 301664,
+      "name": "Puntos Cardinales",
+      "url": "https://open.spotify.com/track/5GKSuqq399v74JageW2C9L"
     },
     {
       "added_at": "2025-04-11 03:00:08",
@@ -1603,26 +1603,6 @@
     {
       "added_at": "2025-04-11 03:00:08",
       "album": {
-        "name": "Llamando",
-        "url": "https://open.spotify.com/album/1gS7zOKufSC1rj29Q9eBPD"
-      },
-      "artists": [
-        {
-          "name": "Julieta Rada",
-          "url": "https://open.spotify.com/artist/5KA95SZBQeMgNMTuqnxzJd"
-        },
-        {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
-        }
-      ],
-      "duration_ms": 343498,
-      "name": "Llamando",
-      "url": "https://open.spotify.com/track/5qnfj8NLkjVaNO2eDWqt4C"
-    },
-    {
-      "added_at": "2025-04-11 03:00:08",
-      "album": {
         "name": "Que siga el baile",
         "url": "https://open.spotify.com/album/46oKQE0htUjsQfXXQmLskb"
       },
@@ -1643,22 +1623,38 @@
     {
       "added_at": "2025-04-11 03:00:08",
       "album": {
-        "name": "OTRX",
-        "url": "https://open.spotify.com/album/5CM33ITU9p94NVDDMEMLAh"
+        "name": "Llamando",
+        "url": "https://open.spotify.com/album/1gS7zOKufSC1rj29Q9eBPD"
       },
       "artists": [
         {
-          "name": "Valen Bonetto",
-          "url": "https://open.spotify.com/artist/7vPbPjEVJEWQ63omiimVpd"
+          "name": "Julieta Rada",
+          "url": "https://open.spotify.com/artist/5KA95SZBQeMgNMTuqnxzJd"
         },
         {
-          "name": "Brenda Martin",
-          "url": "https://open.spotify.com/artist/54NJYwYXv1Y6HoIW5MxdqI"
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
         }
       ],
-      "duration_ms": 216645,
-      "name": "Ahora",
-      "url": "https://open.spotify.com/track/6E2AxABlhC0dR1qHM550wU"
+      "duration_ms": 343498,
+      "name": "Llamando",
+      "url": "https://open.spotify.com/track/5qnfj8NLkjVaNO2eDWqt4C"
+    },
+    {
+      "added_at": "2025-04-11 03:00:08",
+      "album": {
+        "name": "EUCALIPTO",
+        "url": "https://open.spotify.com/album/1cr1LtMh5mwohEogHuqQe7"
+      },
+      "artists": [
+        {
+          "name": "Yacar\u00e9 Manso",
+          "url": "https://open.spotify.com/artist/0G6VQf773ZIIYkKs8QnW1V"
+        }
+      ],
+      "duration_ms": 84997,
+      "name": "Alguien",
+      "url": "https://open.spotify.com/track/6wieV3krzP6veSHdwAkOAL"
     },
     {
       "added_at": "2025-04-11 03:00:08",
@@ -1691,6 +1687,26 @@
       "duration_ms": 191339,
       "name": "Neblina",
       "url": "https://open.spotify.com/track/3udPLpECugI0SJhvVOez3X"
+    },
+    {
+      "added_at": "2025-04-11 03:00:08",
+      "album": {
+        "name": "OTRX",
+        "url": "https://open.spotify.com/album/5CM33ITU9p94NVDDMEMLAh"
+      },
+      "artists": [
+        {
+          "name": "Valen Bonetto",
+          "url": "https://open.spotify.com/artist/7vPbPjEVJEWQ63omiimVpd"
+        },
+        {
+          "name": "Brenda Martin",
+          "url": "https://open.spotify.com/artist/54NJYwYXv1Y6HoIW5MxdqI"
+        }
+      ],
+      "duration_ms": 216645,
+      "name": "Ahora",
+      "url": "https://open.spotify.com/track/6E2AxABlhC0dR1qHM550wU"
     },
     {
       "added_at": "2025-04-11 03:00:08",
@@ -1751,22 +1767,6 @@
     {
       "added_at": "2025-04-11 03:00:08",
       "album": {
-        "name": "Chance",
-        "url": "https://open.spotify.com/album/31j7OrzQiwUxrQeejC5oFd"
-      },
-      "artists": [
-        {
-          "name": "Santiago Alonso",
-          "url": "https://open.spotify.com/artist/6yw8LNuc6B8uELY2TUwrSw"
-        }
-      ],
-      "duration_ms": 172137,
-      "name": "Chance",
-      "url": "https://open.spotify.com/track/1vVOPxTviDX9iyluAy3W8q"
-    },
-    {
-      "added_at": "2025-04-11 03:00:08",
-      "album": {
         "name": "Duele la pena",
         "url": "https://open.spotify.com/album/3waHdfO9Z0jzpDRXwiOLLl"
       },
@@ -1783,22 +1783,18 @@
     {
       "added_at": "2025-04-11 03:00:08",
       "album": {
-        "name": "Del otro lado de la vidriera",
-        "url": "https://open.spotify.com/album/36b4FRKLtMv0Z75NCtoOZP"
+        "name": "Chance",
+        "url": "https://open.spotify.com/album/31j7OrzQiwUxrQeejC5oFd"
       },
       "artists": [
         {
-          "name": "Galean",
-          "url": "https://open.spotify.com/artist/3usCwS0jcb6SFJe3ZPiFA8"
-        },
-        {
-          "name": "Juana Aguirre",
-          "url": "https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2"
+          "name": "Santiago Alonso",
+          "url": "https://open.spotify.com/artist/6yw8LNuc6B8uELY2TUwrSw"
         }
       ],
-      "duration_ms": 256032,
-      "name": "Tu Profec\u00eda",
-      "url": "https://open.spotify.com/track/5K4e3D9pEibOQA0T17s34P"
+      "duration_ms": 172137,
+      "name": "Chance",
+      "url": "https://open.spotify.com/track/1vVOPxTviDX9iyluAy3W8q"
     },
     {
       "added_at": "2025-04-11 03:00:08",
@@ -1839,6 +1835,26 @@
     {
       "added_at": "2025-04-11 03:00:08",
       "album": {
+        "name": "Del otro lado de la vidriera",
+        "url": "https://open.spotify.com/album/36b4FRKLtMv0Z75NCtoOZP"
+      },
+      "artists": [
+        {
+          "name": "Galean",
+          "url": "https://open.spotify.com/artist/3usCwS0jcb6SFJe3ZPiFA8"
+        },
+        {
+          "name": "Juana Aguirre",
+          "url": "https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2"
+        }
+      ],
+      "duration_ms": 256032,
+      "name": "Tu Profec\u00eda",
+      "url": "https://open.spotify.com/track/5K4e3D9pEibOQA0T17s34P"
+    },
+    {
+      "added_at": "2025-04-11 03:00:08",
+      "album": {
         "name": "Esperanza/ Nunca te vayas",
         "url": "https://open.spotify.com/album/0RN51pSdZYAHMKCxmNnUao"
       },
@@ -1851,22 +1867,6 @@
       "duration_ms": 150200,
       "name": "Esperanza",
       "url": "https://open.spotify.com/track/6VD8rUInU3YGMlpeTosHUV"
-    },
-    {
-      "added_at": "2025-04-11 03:00:08",
-      "album": {
-        "name": "El rey del yuyal",
-        "url": "https://open.spotify.com/album/3YmKNf3CiCG381ZvxJwkCk"
-      },
-      "artists": [
-        {
-          "name": "Pens\u00e9 que era viernes",
-          "url": "https://open.spotify.com/artist/4ItV8u3CWrnoo4D8JEHXk1"
-        }
-      ],
-      "duration_ms": 174857,
-      "name": "El rey del yuyal",
-      "url": "https://open.spotify.com/track/37q1oUFGyp0Uh8L8kArkym"
     },
     {
       "added_at": "2025-04-11 03:00:08",

@@ -1,12 +1,12 @@
 {
   "description": "This is Tyga. The essential tracks, all in one playlist.",
-  "num_followers": 226504,
+  "num_followers": 226507,
   "original_name": "This Is Tyga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDOvAAAAAACZTFgRl1wFdcNBRflUQbIB",
+  "snapshot_id": "aDUAgAAAAACiq9MfjFzoOOFQ7y7BePdX",
   "tracks": [
     {
       "added_at": null,
@@ -263,26 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pop It Off",
-        "url": "https://open.spotify.com/album/2K72Xpc2mhuNAIz2mwcvwt"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 189600,
-      "name": "Pop It Off",
-      "url": "https://open.spotify.com/track/41Rb31TeUfCQqSHrPTbsrL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Freaky Deaky",
         "url": "https://open.spotify.com/album/05oVghsqITa33yHnbW7uPz"
       },
@@ -315,6 +295,26 @@
       "duration_ms": 131606,
       "name": "Ayy Macarena",
       "url": "https://open.spotify.com/track/6LcauUZjF1eXQrgqMUecHX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pop It Off",
+        "url": "https://open.spotify.com/album/2K72Xpc2mhuNAIz2mwcvwt"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 189600,
+      "name": "Pop It Off",
+      "url": "https://open.spotify.com/track/41Rb31TeUfCQqSHrPTbsrL"
     },
     {
       "added_at": null,
@@ -703,26 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Careless World: Rise Of The Last King",
-        "url": "https://open.spotify.com/album/68XdlVpTEpBtM2FBxROLva"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 211413,
-      "name": "Faded",
-      "url": "https://open.spotify.com/track/4vULFpGH9sCBdCfCC6p3Xo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "nights and weekends",
         "url": "https://open.spotify.com/album/39jNh5MndiuFTNjDjuWnDQ"
       },
@@ -751,6 +731,26 @@
       "duration_ms": 244855,
       "name": "soak city (feat. OhGeesy & BlueBucksClan)",
       "url": "https://open.spotify.com/track/1Drdj1A2fmtweiAZdpCF6c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Careless World: Rise Of The Last King",
+        "url": "https://open.spotify.com/album/68XdlVpTEpBtM2FBxROLva"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 211413,
+      "name": "Faded",
+      "url": "https://open.spotify.com/track/4vULFpGH9sCBdCfCC6p3Xo"
     },
     {
       "added_at": null,
@@ -1055,26 +1055,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "NSFW",
-        "url": "https://open.spotify.com/album/0HFmXICO7WgVoqLAXc7Rhw"
+        "name": "TRANSLATION",
+        "url": "https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc"
       },
       "artists": [
         {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
           "name": "Tyga",
           "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        },
-        {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
-        },
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
         }
       ],
-      "duration_ms": 134579,
-      "name": "Dumb",
-      "url": "https://open.spotify.com/track/7byAZG2J1zIQSQxm5Ewxyl"
+      "duration_ms": 234374,
+      "name": "VIDA LOCA",
+      "url": "https://open.spotify.com/track/6c6Pr4ALb2SD7j7UnS5YDE"
     }
   ],
   "unique_name": "This Is Tyga",

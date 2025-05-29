@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUmQhB7PvFH.md) - [plain]
 
 > 千禧後第一個十年，讓我們藉著旋律回味...Cover: 李玟 \(Coco Lee\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,974 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,033 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUmQhB7PvFH.md) - [plain]
 | 8 | [逆光](https://open.spotify.com/track/4x1hB3Yg01Aq6J6q0deS9M) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [逆光](https://open.spotify.com/album/6mBrt99J1sFWMQ9LzPHLGw) | 4:54 |
 | 9 | [當你](https://open.spotify.com/track/4xNDbq22jC2Vdf6QV2uArL) | [Cyndi Wang](https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP) | [Begin](https://open.spotify.com/album/2nXygKVkTEGHeCtdEHCsdp) | 3:23 |
 | 10 | [Love Song](https://open.spotify.com/track/2XEtdVgbgltXfzVQppAkbi) | [Khalil Fong](https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd) | [未來](https://open.spotify.com/album/4y11FrvacuhutkuV9T1mlq) | 4:29 |
-| 11 | [紅色高跟鞋](https://open.spotify.com/track/5DSF1VTSaaAFIesJLlltuM) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [若你碰到他](https://open.spotify.com/album/60ibi7DcLi7LDZSgq4KQfF) | 3:26 |
-| 12 | [十年](https://open.spotify.com/track/25pWemriUQVrZ3yIiS2IBf) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [黑·白·灰](https://open.spotify.com/album/0zMV4uDNTSQAiphN3cVzQ0) | 3:25 |
+| 11 | [十年](https://open.spotify.com/track/25pWemriUQVrZ3yIiS2IBf) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [黑·白·灰](https://open.spotify.com/album/0zMV4uDNTSQAiphN3cVzQ0) | 3:25 |
+| 12 | [紅色高跟鞋](https://open.spotify.com/track/5DSF1VTSaaAFIesJLlltuM) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [若你碰到他](https://open.spotify.com/album/60ibi7DcLi7LDZSgq4KQfF) | 3:26 |
 | 13 | [情非得已](https://open.spotify.com/track/4KBegMBVyHsfC7fPOztTzV) | [Harlem Yu](https://open.spotify.com/artist/6VbRanWSU3pdDhJnhSfGmY) | [海嘯](https://open.spotify.com/album/06yEqpc6KFxUZ5BxE7V7TN) | 4:33 |
 | 14 | [童話](https://open.spotify.com/track/6NCylXeJcHOI908PjZDFcg) | [Michael Wong](https://open.spotify.com/artist/26SQFo2qNNGOxh2PUAsTeO) | [十光年精選輯](https://open.spotify.com/album/36Z2YriYoWjRLZOiklzgSm) | 4:06 |
 | 15 | [妥協](https://open.spotify.com/track/0m1cI6aV1jq537JamnL592) | [JOLIN](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [花蝴蝶](https://open.spotify.com/album/4vGWkGex9QdZCXwP5XM3HR) | 4:24 |

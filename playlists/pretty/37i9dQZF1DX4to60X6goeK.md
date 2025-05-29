@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 > Go hard or go home\. Cover: Georgie Riot
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,471 likes - 55 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,489 likes - 55 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 32 | [Eat $hit](https://open.spotify.com/track/2RwD63NEvCaJPiNOM0knae) | [Macky Gee](https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx), [AIRGLO](https://open.spotify.com/artist/6J9iVHqjoo2ZCXq4kVgm4Z) | [Eat $hit](https://open.spotify.com/album/6vPFYzc1O68UsQVaM28k03) | 3:00 |
 | 33 | [Spartanz \- Bou Remix](https://open.spotify.com/track/3C7cOylp1OQNr6Bud2TKlC) | [Dominator](https://open.spotify.com/artist/4ma9HJkRMW53TV4aRQy6Mn), [Nu Elementz](https://open.spotify.com/artist/1byzCRSdDJzbi0RnRB4xgP), [TNA](https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13) | [Spartanz \(Bou Remix\)](https://open.spotify.com/album/4vQ8iFRMG9tg6IZyeZvaiI) | 3:42 |
 | 34 | [Come Around](https://open.spotify.com/track/2EK2hR0X1XYrPnfLCgCIXl) | [Subsonic](https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j), [Flowidus](https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC) | [Come Around](https://open.spotify.com/album/2B81YZsWzPSLdgzSR3gF8O) | 3:48 |
-| 35 | [Beamin’ \- K Motionz & skantia Remix](https://open.spotify.com/track/56qOWeHCiS8EbdYc39sjEr) | [K Motionz](https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ), [skantia](https://open.spotify.com/artist/0FZS1HlJfonbMpQGzTrh0M), [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd) | [Beamin’ \(K Motionz & skantia Remix\)](https://open.spotify.com/album/4gmV6lUCXyhnOcUglQ0qPQ) | 4:03 |
+| 35 | [Ghosting Your Love](https://open.spotify.com/track/08zuBTzQbwfmpLAfuEIV6R) | [Basstripper](https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl) | [Ghosting Your Love](https://open.spotify.com/album/0vGtSVO4QjFAOU0ojOYsJD) | 3:19 |
 | 36 | [Ice Cold](https://open.spotify.com/track/1WvguFKnrnscdMG0JISkWX) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0), [Jman](https://open.spotify.com/artist/4yBjkJ6MdQUxHdWBwTavEm) | [Ice Cold](https://open.spotify.com/album/0ReTigKkyunpydPXYvBfKV) | 2:03 |
-| 37 | [Ghosting Your Love](https://open.spotify.com/track/08zuBTzQbwfmpLAfuEIV6R) | [Basstripper](https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl) | [Ghosting Your Love](https://open.spotify.com/album/0vGtSVO4QjFAOU0ojOYsJD) | 3:19 |
+| 37 | [Beamin’ \- K Motionz & skantia Remix](https://open.spotify.com/track/56qOWeHCiS8EbdYc39sjEr) | [K Motionz](https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ), [skantia](https://open.spotify.com/artist/0FZS1HlJfonbMpQGzTrh0M), [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd) | [Beamin’ \(K Motionz & skantia Remix\)](https://open.spotify.com/album/4gmV6lUCXyhnOcUglQ0qPQ) | 4:03 |
 | 38 | [PURPOSE](https://open.spotify.com/track/35mele207P8xoKXOsTh52L) | [Blooom](https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS), [Maksim MC](https://open.spotify.com/artist/6iwQ21ctUhnKozPAQx6zyC) | [PURPOSE](https://open.spotify.com/album/0gXmfiCDIV0DRnHakUxXjU) | 2:47 |
 | 39 | [Take Me Up](https://open.spotify.com/track/0nkATAigYa0AvFFihj6cb1) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Take Me Up](https://open.spotify.com/album/3cF3ImX7T7nNT84XD2QJjt) | 3:35 |
 | 40 | [There In 10](https://open.spotify.com/track/37I6Fw5ZYnzfAXPBwITT3t) | [A.M.C](https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ) | [There In 10](https://open.spotify.com/album/5LMpeaTYk1hxd4lTFd0lEm) | 4:06 |

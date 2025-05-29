@@ -4,7 +4,7 @@
 
 > Loksins New Music Friday! Ný tónlist frá Alex Warren, Myles Smith, Benson Boone og mörgum fleiri!
 
-6,019 songs - 13 day 12 hr 2 min
+6,020 songs - 13 day 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1273,7 +1273,7 @@
 | [Digital girl \- funk remix](https://open.spotify.com/track/2mBNIt6P5TPuly5JdKUPzH) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [Digital girl](https://open.spotify.com/album/1WaLWK5ZcxZVSPYy7GAdtY) | 2:54 | 2024-08-09 | 2024-08-16 |
 | [DILEMMA \(feat\. Central Cee\)](https://open.spotify.com/track/1OrR5tTnYaryjbfZ8Jl2wT) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [RENT'S DUE](https://open.spotify.com/album/3uKar0bX3b6g6YcLrGDDuD) | 2:40 | 2025-03-28 | 2025-04-04 |
 | [diluvio](https://open.spotify.com/track/3GfGWYj4Y4Dq6ic7Z3BBht) | [Dinamarca](https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX), [Meth Math](https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T) | [diluvio](https://open.spotify.com/album/6vWQqcKvMKMOCjO8684nZq) | 2:17 | 2025-04-18 | 2025-04-25 |
-| [Dime Girl](https://open.spotify.com/track/7eu3iYBABXk0QTjfIBJMSW) | [Ari Bald](https://open.spotify.com/artist/4BIUrqQlg2nOgFdem5DTup), [CJ Scott](https://open.spotify.com/artist/0thkTEQ87kDOsVs9ohjiCl), [Ari Bald & CJ Scott](https://open.spotify.com/artist/0E6gscdNMDFByNLHQkm4aG) | [Dime Girl](https://open.spotify.com/album/68P4N1NCqbfbTjdtIgPD5c) | 4:46 | 2025-05-23 |  |
+| [Dime Girl](https://open.spotify.com/track/7eu3iYBABXk0QTjfIBJMSW) | [Ari Bald](https://open.spotify.com/artist/4BIUrqQlg2nOgFdem5DTup), [CJ Scott](https://open.spotify.com/artist/0thkTEQ87kDOsVs9ohjiCl), [Ari Bald & CJ Scott](https://open.spotify.com/artist/0E6gscdNMDFByNLHQkm4aG) | [Dime Girl](https://open.spotify.com/album/68P4N1NCqbfbTjdtIgPD5c) | 4:46 | 2025-05-23 | 2025-05-29 |
 | [Dinner @ Brasserie Zédel](https://open.spotify.com/track/2OE8encLnOWQEsmcJTifeZ) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Dinner @ Brasserie Zédel](https://open.spotify.com/album/0NNZzGLChmCp78PF60tuWk) | 3:24 | 2024-11-01 | 2024-11-08 |
 | [Dirt](https://open.spotify.com/track/44ALVwEqolu9FUKDc6pjup) | [dePresno](https://open.spotify.com/artist/3DzvldYcKG83XYhYC0wfLn), [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Dirt](https://open.spotify.com/album/67OPb3ij6M6yPGZa6pyhOD) | 4:10 | 2025-05-23 |  |
 | [Dirty](https://open.spotify.com/track/0z93LiOLVx8thr9eD2r9uV) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z) | [Dirty](https://open.spotify.com/album/7pUbm4cVWzOkXKuy4rzAjK) | 3:03 | 2024-12-13 | 2024-12-20 |
@@ -2683,6 +2683,7 @@
 | [Immaculate](https://open.spotify.com/track/21XJd63KiArnOgo39sJezL) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Immaculate](https://open.spotify.com/album/4O1qp17rGimPUls9c54bS2) | 2:34 | 2024-10-25 | 2024-11-01 |
 | [Immortal Queen \(feat\. Chaka Khan & Eve\)](https://open.spotify.com/track/4Dr0ZwcgQbj9Sqna43GBes) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Immortal Queen \(feat\. Chaka Khan & Eve\)](https://open.spotify.com/album/3bIMMjzboZD5thhPhRZ8Sn) | 3:32 | 2024-08-02 | 2024-08-09 |
 | [Immortal Queen \(feat\. Chaka Khan\)](https://open.spotify.com/track/3L5AK36OlaswwPI0WduBJg) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Reasonable Woman](https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb) | 3:19 | 2024-05-03 | 2024-05-10 |
+| [Imperfect '99](https://open.spotify.com/track/4cgBiNTYIku5vTs0VVYnUR) | [Daghem](https://open.spotify.com/artist/1YcmK9yjLnTcze8VpKYcRi) | [Imperfect '99](https://open.spotify.com/album/1igfsyZaUupb7OzfIXnZfa) | 3:07 | 2025-05-23 |  |
 | [Impressions \(feat\. Madison Cunningham\)](https://open.spotify.com/track/6vgV9COfjlPVbz3R2QgJRC) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Impressions \(feat\. Madison Cunningham\)](https://open.spotify.com/album/6xeD1QV6tIq2uzIZeZRmQJ) | 3:46 | 2025-03-07 | 2025-03-14 |
 | [In Control](https://open.spotify.com/track/6ENj47aA41bTZFinUDrYNP) | [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL), [Oliver Nelson](https://open.spotify.com/artist/4QAp87iZerUP9PKxtLhmW1) | [In Control](https://open.spotify.com/album/3SD9BUjJvoSY3Uiafm83lb) | 2:31 | 2024-06-21 | 2024-06-28 |
 | [in heaven](https://open.spotify.com/track/3eDuwudjmOqc15ca9xKXt6) | [bad tuner](https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm), [Miette Hope](https://open.spotify.com/artist/4K61UysqQc1VRj8VsY76Qw) | [in heaven](https://open.spotify.com/album/1H2sEfR1sXPiAv3t7T0HsB) | 2:32 | 2024-08-30 | 2024-09-06 |

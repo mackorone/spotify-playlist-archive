@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4LIb2PKCU2q36oMfA4eNHl.md) - [plain]
 
 > The best tracks in downtempo &amp; chill, curated by Anjuna\. Perfect for studying, meditating &amp; relaxing.
 
-[Anjunadeep](https://open.spotify.com/user/anjunadeep) - 45,829 likes - 100 songs - 6 hr 11 min
+[Anjunadeep](https://open.spotify.com/user/anjunadeep) - 45,827 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/4LIb2PKCU2q36oMfA4eNHl.md) - [plain]
 | 12 | [Satisfied \- Ambient Reprise](https://open.spotify.com/track/4vNW3T8XMgXltqrSxNnykV) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Satisfied \(The Remixes\)](https://open.spotify.com/album/7zEKaM5PDUm8GfEk1Lzt0b) | 3:15 |
 | 13 | [Nightwhisper \- Chill Mix](https://open.spotify.com/track/0fkoqytIal07KgtUQbpShZ) | [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [James Grant](https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7) | [Nightwhisper \(Chill Mix\)](https://open.spotify.com/album/2QxuAUei2dRmRKmSAUWncE) | 4:00 |
 | 14 | [Looking Through The Mirror Of The Soul \- Chihei Hatakeyama Remix](https://open.spotify.com/track/1wBTUjG4n6h9xTxsOGVTYM) | [Mark Barrott](https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P), [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Everything Changes, Nothing Ends \(The Remixes\)](https://open.spotify.com/album/6gtYPyG3E3fHASBm4mUaAR) | 3:56 |
-| 15 | [Reach Out To Me \- Acoustic Rework](https://open.spotify.com/track/64kE0BmqaVFfjWSvZRgkiJ) | [Greg Newman](https://open.spotify.com/artist/0umJoQYvzwnnKIlucLsIuv), [Placido Salamone](https://open.spotify.com/artist/66NkU5Nqx6drzTYXUPWJYT), [Blank Page](https://open.spotify.com/artist/1ZwCQVciFsCneJFpwSdA0r), [Dan Kol](https://open.spotify.com/artist/36sSK0wDGzRTTplBKWP8TQ) | [Reach Out To Me \(Acoustic Rework\)](https://open.spotify.com/album/3U8NDP92i6IjQgecTL3TE1) | 2:21 |
+| 15 | [Reach Out To Me \- Acoustic Rework](https://open.spotify.com/track/64kE0BmqaVFfjWSvZRgkiJ) | [Blank Page](https://open.spotify.com/artist/1ZwCQVciFsCneJFpwSdA0r), [Dan Kol](https://open.spotify.com/artist/36sSK0wDGzRTTplBKWP8TQ) | [Reach Out To Me \(Acoustic Rework\)](https://open.spotify.com/album/3U8NDP92i6IjQgecTL3TE1) | 2:21 |
 | 16 | [8 Hours, Still No Rain](https://open.spotify.com/track/7u3tmftMEaOYqYE6fUnNmX) | [Hosini](https://open.spotify.com/artist/3DQ7WGIfJ4z4aQzNE1bNFF), [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [8 Hours, Still No Rain EP](https://open.spotify.com/album/0BOaheOSk6cpvXPm3spOx0) | 3:02 |
 | 17 | [Sunrise Song](https://open.spotify.com/track/2gsa8ffLRpj0QrgsTWdJxF) | [Luttrell](https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2) | [Life at Full Speed](https://open.spotify.com/album/0nWAp3Dhfy2a4tyaHMVSPr) | 3:47 |
 | 18 | [Slowly](https://open.spotify.com/track/5j6yDmMrjdgNn0pSyqXG5d) | [Croquet Club](https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6) | [Fugue In Twilight](https://open.spotify.com/album/0cv8RApqPNKm5G8w8mOugM) | 3:50 |

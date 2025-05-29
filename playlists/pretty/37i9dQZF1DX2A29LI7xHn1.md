@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2A29LI7xHn1.md) - [plain]
 
 > Crossing over like Allen I\. Cover: Lil Tecca
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,124,857 likes - 101 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,124,756 likes - 101 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2A29LI7xHn1.md) - [plain]
 | 17 | [Outfit \(with 21 Savage\)](https://open.spotify.com/track/6mxKWahJzbv7SVF8nkZwLT) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Outfit \(with 21 Savage\)](https://open.spotify.com/album/6w8kBHoOsT1tvoNO05BTwj) | 2:57 |
 | 18 | [Can't Hold Me Down](https://open.spotify.com/track/59UWPiUEQPd0jVVzikHyoV) | [Doodles](https://open.spotify.com/artist/6U0aWTZ4llc1ICfyFPtIzd), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Can't Hold Me Down](https://open.spotify.com/album/0p8DBORvuoUyEa2GrUFLff) | 3:17 |
 | 19 | [TRIPPIN](https://open.spotify.com/track/7LRxsdzPgpbu4EYVbqo2A6) | [Sturdyyoungin](https://open.spotify.com/artist/2DnJs9S5S7DWOyE2zK2fNs), [Ohthatsmizz](https://open.spotify.com/artist/77zq5iaCosWolNf1IRdTjJ), [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf) | [TRIPPIN](https://open.spotify.com/album/5HcOiZtNwL6AMrMdw0qJ8Q) | 2:05 |
-| 20 | [HOLLYWOOD \- feat\. Shoreline Mafia](https://open.spotify.com/track/0uAmR0yTDNAaXA5jPGOrir) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ) | [HOLLYWOOD \(feat\. Shoreline Mafia\)](https://open.spotify.com/album/0pg3WtuKm4GlckMugbml46) | 3:00 |
+| 20 | [HOLLYWOOD](https://open.spotify.com/track/0uAmR0yTDNAaXA5jPGOrir) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ) | [HOLLYWOOD](https://open.spotify.com/album/0pg3WtuKm4GlckMugbml46) | 3:00 |
 | 21 | [Yo Bunny](https://open.spotify.com/track/6914nrqNob8EcW3qyEhihe) | [prodbycpkshawn](https://open.spotify.com/artist/4lSMHN0hTQWFJchmKwHE7Z), [Ugly Andz.](https://open.spotify.com/artist/6o33ajgtOTzJPKrgvQR9pW) | [Yo Bunny](https://open.spotify.com/album/4uRk8WbxccxtdvbzLkjZN2) | 1:50 |
 | 22 | [Shake It To The Max \(FLY\) \- Remix](https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Shake It To The Max \(FLY\) \(Remix\)](https://open.spotify.com/album/7jhHpyhKorvt65mYvuhlBs) | 2:58 |
 | 23 | [Whatever She Wants](https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Whatever She Wants](https://open.spotify.com/album/60s0PMYFJhe34io9HuyUXf) | 2:41 |

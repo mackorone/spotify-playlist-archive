@@ -99,6 +99,24 @@
     },
     {
       "album": {
+        "name": "Aguachile",
+        "url": "https://open.spotify.com/album/6ugXuZjPxb6eUacXvSiPXZ"
+      },
+      "artists": [
+        {
+          "name": "Alex Laude",
+          "url": "https://open.spotify.com/artist/0MFzcJKiDZl0lPHraV0abV"
+        }
+      ],
+      "date_added": "2025-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126079,
+      "name": "Aguachile",
+      "url": "https://open.spotify.com/track/79JWsSXbAW3gisGFrLXafU"
+    },
+    {
+      "album": {
         "name": "Akeleie",
         "url": "https://open.spotify.com/album/4wuBcYPsziuMtuafKDpDlP"
       },

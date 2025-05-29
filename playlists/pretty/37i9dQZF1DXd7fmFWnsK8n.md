@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7fmFWnsK8n.md) - [plain]
 
 > アイドリッシュセブンの煌びやかな物語を彩る楽曲たちを1つのプレイリストに。Enjoy Music from the game & anime series of “IDOLiSH 7”!  ©アイドリッシュセブン
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,328 likes - 70 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,325 likes - 70 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,14 +69,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7fmFWnsK8n.md) - [plain]
 | 59 | [My Friend](https://open.spotify.com/track/3TKZ0FCAUIOuHolsZVjR7o) | [二階堂大和 \(CV.白井悠介\)](https://open.spotify.com/artist/2bs7gIAXdwGgIr7UNVLfrw), [和泉三月 \(CV.代永 翼\)](https://open.spotify.com/artist/7oPep8A9azbYvgnADjeh0c), [六弥ナギ \(CV.江口拓也\)](https://open.spotify.com/artist/3iY2wSNXnl4HozD3jUxo4a) | [My Friend](https://open.spotify.com/album/0SsBA1WDO7VQ2C2DgzBgGB) | 4:16 |
 | 60 | [午前4時のDusty Love](https://open.spotify.com/track/4VpQnA8PUQGJlSREzEjf2u) | [御堂虎於 \(CV.近藤 隆\)](https://open.spotify.com/artist/4NuxWb2eGVkzb6AsN2sv8H) | [午前4時のDusty Love](https://open.spotify.com/album/5ELinRPiJCLrmCCKsOTAvd) | 4:34 |
 | 61 | [Polished](https://open.spotify.com/track/4G3AX1HYUypLWwTMTaWLYZ) | [Iori Izumi \(CV: Toshiki Masuda\)](https://open.spotify.com/artist/4NlsMMsd35fdP2UCzhG1PU), [Mitsuki Izumi \(CV: Tsubasa Yonaga\)](https://open.spotify.com/artist/2plh4dVIRnxmFGnNkHfu6C), [Riku Nanase \(CV: Kensho Ono\)](https://open.spotify.com/artist/0Bq1mg6MFqIr0KpIzE84ZC) | [Polished](https://open.spotify.com/album/0AsMiHzhdfZ5oGQ7cCNNGA) | 4:29 |
-| 62 | [Dejavu](https://open.spotify.com/track/2x96Uek1encMpPxzZfRixB) | [棗 巳波 \(CV.西山宏太朗\)](https://open.spotify.com/artist/2ClkCmN3ssmdtBGuDYmutj) | [Dejavu](https://open.spotify.com/album/2sxCRIMhFNNPInRgTdOmM5) | 3:55 |
-| 63 | [三日月のヴェール](https://open.spotify.com/track/3XxSDMRiO7kbduxl4viXZs) | [和泉三月 \(CV.代永 翼\)](https://open.spotify.com/artist/7oPep8A9azbYvgnADjeh0c) | [三日月のヴェール](https://open.spotify.com/album/6oZyRXkgaSStGoeuiC1ezc) | 5:20 |
+| 62 | [三日月のヴェール](https://open.spotify.com/track/3XxSDMRiO7kbduxl4viXZs) | [和泉三月 \(CV.代永 翼\)](https://open.spotify.com/artist/7oPep8A9azbYvgnADjeh0c) | [三日月のヴェール](https://open.spotify.com/album/6oZyRXkgaSStGoeuiC1ezc) | 5:20 |
+| 63 | [Dejavu](https://open.spotify.com/track/2x96Uek1encMpPxzZfRixB) | [棗 巳波 \(CV.西山宏太朗\)](https://open.spotify.com/artist/2ClkCmN3ssmdtBGuDYmutj) | [Dejavu](https://open.spotify.com/album/2sxCRIMhFNNPInRgTdOmM5) | 3:55 |
 | 64 | [Love two you](https://open.spotify.com/track/4VE4Nm0MCqKIYqRiLffNBf) | [二階堂大和 \(CV.白井悠介\)](https://open.spotify.com/artist/2bs7gIAXdwGgIr7UNVLfrw) | [Love two you](https://open.spotify.com/album/1mm3C2rMN35Qi1vsyfy3nd) | 4:45 |
 | 65 | [Chameleon](https://open.spotify.com/track/4nyF38uqLRNqdh4AmmiJCY) | [Yamato Nikaido \(CV: Yusuke Shirai\)](https://open.spotify.com/artist/7GS38SdMBcDCouQUdllaTK), [Sogo Osaka \(CV: Atsushi Abe\)](https://open.spotify.com/artist/6S3Y222d1LlL91Mr9Zao7j), [Yuki \(CV: Shinnosuke Tachibana\)](https://open.spotify.com/artist/67vfCcitRvMcZluBW4dSzk), [Minami Natsume \(CV: Koutaro Nishiyama\)](https://open.spotify.com/artist/28IIr1lXeCP14LA8DGFjuu) | [Chameleon](https://open.spotify.com/album/506yu8tzGbPfQ6szDwseb4) | 3:30 |
 | 66 | [NiGHTFALL](https://open.spotify.com/track/4Q4R3WUd3DntZTApoIbI4N) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [劇場版アイドリッシュセブン LIVE 4bit Compilation Album "BEYOND THE PERiOD" \(DAY 1\)](https://open.spotify.com/album/5aU6grliqthktT3TlJNm1b) | 3:51 |
 | 67 | [星屑マジック](https://open.spotify.com/track/71wKxVrk9r6LHmfHjPFagJ) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [Re:al Axis](https://open.spotify.com/album/1GL2a2l2jLE3jPcFMn0zQT) | 3:33 |
 | 68 | [Leopard Eyes](https://open.spotify.com/track/1pBQJ0hZyFIwKCayM9nISj) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [REGALITY](https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU) | 4:32 |
 | 69 | [STRONGER & STRONGER](https://open.spotify.com/track/6SuxSZciPXssT1MQKXBgU8) | [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [劇場版アイドリッシュセブン LIVE 4bit Compilation Album "BEYOND THE PERiOD" \(DAY 1\)](https://open.spotify.com/album/5aU6grliqthktT3TlJNm1b) | 4:27 |
-| 70 | [Forever Note](https://open.spotify.com/track/6lOJvgfaTLtyPEozeXyg7l) | [MEZZO”](https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0) | [Forever Note](https://open.spotify.com/album/5DehSj5HPoXgAdC0wzSa4X) | 4:24 |
+| 70 | [恋のかけら](https://open.spotify.com/track/7jA6MKXhfBa6bwe9kJrBNT) | [MEZZO”](https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0) | [恋のかけら](https://open.spotify.com/album/2jBadSUvZhUnY53uaeeTK0) | 4:39 |
 
 Snapshot ID: `Z/2lVQAAAAAqHeyE1Jip8spt8HgzjnK9`

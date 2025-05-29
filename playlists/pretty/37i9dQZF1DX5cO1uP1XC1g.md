@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cO1uP1XC1g.md) - [plain]
 
 ### [Yalla ](https://open.spotify.com/playlist/37i9dQZF1DX5cO1uP1XC1g)
 
-> The Hottest Arabic Music.<br/>Cover: Saint Levant
+> The Hottest Arabic Music.<br/>Cover: Bessan Ismail
 
-[Spotify](https://open.spotify.com/user/spotify) - 557,742 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 557,818 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [KALAMANTINA / كلمنتينا](https://open.spotify.com/track/3vZ3ngEbunTiK4fOVKyzYD) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT), [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [Love Letters / رسائل حب](https://open.spotify.com/album/7CBui2zfZ08ZbpdVnBfpUr) | 3:26 |
-| 2 | [Asli Ana](https://open.spotify.com/track/0eqH5SceGkvfbxDXu7KaNZ) | [zeyne](https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf) | [7arrir 3aqlak / Asli Ana](https://open.spotify.com/album/1JDKhvGNRFZSPXm1uVzTME) | 2:51 |
-| 3 | [خطية](https://open.spotify.com/track/3zhq4NoxePEjzojkAnVbOy) | [Bessan Ismail](https://open.spotify.com/artist/3D19Q7vcrQ8iCeSNcrQpAB), [Fouad Jned](https://open.spotify.com/artist/6HbYj8CX1iPNrY6ox5haJN) | [خطية](https://open.spotify.com/album/7yCSM2zx7WzqNghq7vB9QV) | 2:53 |
+| 1 | [خطية](https://open.spotify.com/track/3zhq4NoxePEjzojkAnVbOy) | [Bessan Ismail](https://open.spotify.com/artist/3D19Q7vcrQ8iCeSNcrQpAB), [Fouad Jned](https://open.spotify.com/artist/6HbYj8CX1iPNrY6ox5haJN) | [خطية](https://open.spotify.com/album/7yCSM2zx7WzqNghq7vB9QV) | 2:53 |
+| 2 | [KALAMANTINA / كلمنتينا](https://open.spotify.com/track/3vZ3ngEbunTiK4fOVKyzYD) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT), [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [Love Letters / رسائل حب](https://open.spotify.com/album/7CBui2zfZ08ZbpdVnBfpUr) | 3:26 |
+| 3 | [Asli Ana](https://open.spotify.com/track/0eqH5SceGkvfbxDXu7KaNZ) | [zeyne](https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf) | [7arrir 3aqlak / Asli Ana](https://open.spotify.com/album/1JDKhvGNRFZSPXm1uVzTME) | 2:51 |
 | 4 | [Ganeni](https://open.spotify.com/track/2qXSWquHZScT6OMJARM6Ql) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [WOLEDTO](https://open.spotify.com/album/3wCKwy1cHwBUCW4RQFvHHQ) | 2:57 |
 | 5 | [Ahla Rasma](https://open.spotify.com/track/4TOTz0WysSu9eI40QT2vZp) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Ahla Rasma](https://open.spotify.com/album/5CziKAAQ10z1hfzr8VfnBO) | 3:36 |
 | 6 | [ماتيجي اعدي عليكي](https://open.spotify.com/track/4Tfdzh30bYmSPsWhAnUhYG) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [كوكتيل غنائي للفنان تووليت حصرياً لحبايب قلبي](https://open.spotify.com/album/3DNubUSWkHKBcDMdBtiLHp) | 2:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cO1uP1XC1g.md) - [plain]
 | 49 | [Kolo Falso](https://open.spotify.com/track/1il1wNIj3ful9IlWgxLRmX) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7), [Esaad Younes](https://open.spotify.com/artist/244JwBOuYHi3RiWItQtKIY) | [Kolo Falso](https://open.spotify.com/album/7mbfcm8CXhfUEJVf2ioUwF) | 2:58 |
 | 50 | [La](https://open.spotify.com/track/5XF583kr3Eojotxl6SOKF0) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [LAYALI](https://open.spotify.com/album/6pgfUVqynLc5hZ0HyozHKp) | 2:28 |
 
-Snapshot ID: `aC1ugAAAAAAq9aiAIan13CKLpoMsFiCA`
+Snapshot ID: `aDcRbgAAAABtW839Gx4rdohB1P8Q1wBb`

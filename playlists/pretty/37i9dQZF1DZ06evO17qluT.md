@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 
 > This is BK\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,431 likes - 43 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,526 likes - 43 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 | 39 | [Sigo na Sombra](https://open.spotify.com/track/2e0tjPnWrT0w5225k6aB7B) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k) | [Castelos & Ruínas](https://open.spotify.com/album/5BCxlla9sHRzzP302BOMH0) | 3:15 |
 | 40 | [Vivos](https://open.spotify.com/track/10jI01n8w6g41qiIMAcAkb) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Gigantes](https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg) | 4:09 |
 | 41 | [exalta](https://open.spotify.com/track/2otIusmrNZtvYj8lDVnA2w) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Dois](https://open.spotify.com/album/5NRBahRXTDabcbEVvCGtAm) | 3:42 |
-| 42 | [Visão Ampla](https://open.spotify.com/track/6SmZgYXem0UdN5vye7h4r5) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k) | [Castelos & Ruínas](https://open.spotify.com/album/5BCxlla9sHRzzP302BOMH0) | 3:15 |
+| 42 | [O Próximo Nascer do Sol](https://open.spotify.com/track/47PieBHqNxpbLZqsDAUCI4) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW) | [Castelos & Ruínas](https://open.spotify.com/album/5BCxlla9sHRzzP302BOMH0) | 3:06 |
 | 43 | [Julius](https://open.spotify.com/track/525iKRpCJuNRyA5OTUNzla) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k) | [Gigantes](https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg) | 4:11 |
 
-Snapshot ID: `aDOvAAAAAABf0z0GR1wCwzmuPUFYAWuY`
+Snapshot ID: `aDUAgAAAAAC5wYQ9uGwd95Stbm9Wk0q5`

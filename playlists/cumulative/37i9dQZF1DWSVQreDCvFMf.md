@@ -4,7 +4,7 @@
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Jenzen Guino
 
-392 songs - 1 day 0 hr 35 min
+393 songs - 1 day 0 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,6 +285,7 @@
 | [Palihim](https://open.spotify.com/track/7d3lqYm2DtCg7zdulTfBQ8) | [Janine](https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ) | [Apat Na Buwan](https://open.spotify.com/album/7zKcc6B3ZqbMG117tsGMk3) | 3:49 | 2024-09-06 | 2024-12-17 |
 | [Pamamaalam](https://open.spotify.com/track/6OSekJDcxZkthDnEycnRLr) | [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [Pamamaalam](https://open.spotify.com/album/1EwEagKWXDpCHa7W1imleB) | 3:46 | 2024-11-20 | 2025-02-15 |
 | [Pambihira](https://open.spotify.com/track/1Q8Y8NRb5Ug9OPSxJRmW01) | [Kiyo](https://open.spotify.com/artist/6gcteR920pLEynlHzjSRYd), [Zild](https://open.spotify.com/artist/7BxbcnOfx5r4d53UQl2I1s) | [Pambihira](https://open.spotify.com/album/0GKilAe9xZorJi7OthEzWu) | 4:08 | 2025-05-02 |  |
+| [Panaginip](https://open.spotify.com/track/6XHUlDl2PJMEecKyN6aAkO) | [nicole](https://open.spotify.com/artist/64c6qxJIkcvJP3glpCkWHp) | [Panaginip](https://open.spotify.com/album/7zA0i3A5ALkRYkLgb9cShq) | 5:17 | 2025-05-28 |  |
 | [Panaginip Ko](https://open.spotify.com/track/1xZwIbyfN6WXouzprW4CqR) | [Mark Carpio](https://open.spotify.com/artist/2JEIN1g27pZdm3hKB9EwE5) | [Panaginip Ko](https://open.spotify.com/album/1yULhjvIedMHjzbgGpSGQD) | 3:42 | 2024-07-02 | 2024-08-03 |
 | [panalangin](https://open.spotify.com/track/68doFzNBmManicbD9yfRoA) | [syd hartha](https://open.spotify.com/artist/3BQ7MYNeB0wMPtHYPWvu1C) | [panalangin](https://open.spotify.com/album/662zfB0NP7XjMNIiup69jj) | 2:42 | 2024-07-19 | 2024-11-09 |
 | [Panghahawakan](https://open.spotify.com/track/6jkoiKknPuUQE1ajQ1CG92) | [Jason Marvin](https://open.spotify.com/artist/4eK6vQqh6wpgldKVWm7560) | [Panghahawakan](https://open.spotify.com/album/1AscvKanWKKgDWz7Y96d3L) | 6:53 | 2025-01-31 | 2025-04-16 |

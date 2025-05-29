@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 
 > Celebrating women at the center of innovation in electronic music\. Featuring LUMI.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,126 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,134 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 | 5 | [disappear](https://open.spotify.com/track/1rRGWpAgC4KRihY8p4N3c9) | [joanna ⋆ ☆](https://open.spotify.com/artist/6O6jCbxOSUMWYn3BqZxYLg) | [disappear](https://open.spotify.com/album/51AXabaBnHlAlMbLdZJPIZ) | 2:54 |
 | 6 | [All I See](https://open.spotify.com/track/7ryxGezZf6DmzTZeYIpM0D) | [Sensu](https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw) | [All I See](https://open.spotify.com/album/0vbbRCwHDwG1GA2yUWp1hn) | 3:15 |
 | 7 | [FTRW!](https://open.spotify.com/track/0eiuxRLtuTVZZI0UQcGzAa) | [Surusinghe](https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe) | [FTRW!](https://open.spotify.com/album/2Uul5GoHM26xnV3WcTIpuR) | 4:11 |
-| 8 | [Pressure \- Indira Paganotto Remix](https://open.spotify.com/track/0CesUDLx0Oj2J19HVbQOnd) | [LEGZDINA](https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N), [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Indira Paganotto](https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR) | [Pressure \(Indira Paganotto Remix\)](https://open.spotify.com/album/7bbuWt0xlR3hG7oK9MXQWf) | 4:29 |
+| 8 | [Pressure \- Indira Paganotto Remix](https://open.spotify.com/track/0CesUDLx0Oj2J19HVbQOnd) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [LEGZDINA](https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N), [Indira Paganotto](https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR) | [Pressure \(Indira Paganotto Remix\)](https://open.spotify.com/album/7bbuWt0xlR3hG7oK9MXQWf) | 4:29 |
 | 9 | [WILD!](https://open.spotify.com/track/49BcUseE7kHJ5YEZ51EQgr) | [Jaguar](https://open.spotify.com/artist/00Yp7ztleUYQsQ3wtcEf5X) | [WILD!](https://open.spotify.com/album/4jSn0KXaUCI9m026jBPF3i) | 3:22 |
 | 10 | [Automatic](https://open.spotify.com/track/6MIrLGtq5t0I3v3IV28fPk) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Automatic / Gentle Gaze](https://open.spotify.com/album/0UhTNCAmqaeJKXje7377P7) | 3:43 |
 | 11 | [Samba Disco](https://open.spotify.com/track/47PF45MCPpjEryCIQ3ujYU) | [Bonnie Spacey](https://open.spotify.com/artist/255hSkioJ6vRV921Iyw4DA) | [Samba Disco](https://open.spotify.com/album/7sMp58NuJGvoZOtvHpNBkI) | 6:01 |

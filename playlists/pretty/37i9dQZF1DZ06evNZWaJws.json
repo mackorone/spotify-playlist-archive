@@ -1,12 +1,12 @@
 {
   "description": "This is Los Tucanes De Tijuana. The essential tracks, all in one playlist.",
-  "num_followers": 330544,
+  "num_followers": 330591,
   "original_name": "This Is Los Tucanes De Tijuana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDOvAAAAAAAL/1tP3M3O25NAF7UOFZi2",
+  "snapshot_id": "aDUAgAAAAAD0MgfT8kBsrUAIIc5HekhD",
   "tracks": [
     {
       "added_at": null,
@@ -143,22 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "14 Tucanazos Bien Pesados",
-        "url": "https://open.spotify.com/album/5poff6oDNapTa60LAq46O0"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 163191,
-      "name": "Mis Tres Animales",
-      "url": "https://open.spotify.com/track/50urwe1JN84PxSKsJ8yY2p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Robaste El Corazon",
         "url": "https://open.spotify.com/album/127PyrgkTjtB5HTFNlIG2Y"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 198920,
       "name": "La Chona",
       "url": "https://open.spotify.com/track/6pq7EtEDWgD5Sh02RJaXK7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "14 Tucanazos Bien Pesados",
+        "url": "https://open.spotify.com/album/5poff6oDNapTa60LAq46O0"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 163191,
+      "name": "Mis Tres Animales",
+      "url": "https://open.spotify.com/track/50urwe1JN84PxSKsJ8yY2p"
     },
     {
       "added_at": null,
@@ -223,6 +223,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Clave Nueva",
+        "url": "https://open.spotify.com/album/0NnVLyoPXRp3hs8Gd3PHCZ"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 178333,
+      "name": "La Pista Secreta",
+      "url": "https://open.spotify.com/track/2COdLxvoBkZr3L6IFgKaSi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Arriba La T\u00eda, Desde Las Vegas (En Vivo)",
         "url": "https://open.spotify.com/album/3AUGAUtS6FRsbPQGRd3yDO"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 166720,
       "name": "Las Heladas (En Vivo)",
       "url": "https://open.spotify.com/track/49sWgJFx6kdGSqejVZrF6C"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Clave Nueva",
-        "url": "https://open.spotify.com/album/0NnVLyoPXRp3hs8Gd3PHCZ"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 178333,
-      "name": "La Pista Secreta",
-      "url": "https://open.spotify.com/track/2COdLxvoBkZr3L6IFgKaSi"
     },
     {
       "added_at": null,
@@ -295,6 +295,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Tierra del Corrido - Spotify Singles",
+        "url": "https://open.spotify.com/album/0ZbkzVai25cBAjmy7uoUkW"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 211472,
+      "name": "La Tierra del Corrido - Spotify Singles",
+      "url": "https://open.spotify.com/track/1oZqJaE23GEn4SOFQcnTPB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Arriba La T\u00eda, Desde Las Vegas (En Vivo)",
         "url": "https://open.spotify.com/album/3AUGAUtS6FRsbPQGRd3yDO"
       },
@@ -327,30 +351,6 @@
       "duration_ms": 187706,
       "name": "La Pi\u00f1ata",
       "url": "https://open.spotify.com/track/0g1Qhh4ijd51TcpV53O8dU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Tierra del Corrido - Spotify Singles",
-        "url": "https://open.spotify.com/album/0ZbkzVai25cBAjmy7uoUkW"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        },
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 211472,
-      "name": "La Tierra del Corrido - Spotify Singles",
-      "url": "https://open.spotify.com/track/1oZqJaE23GEn4SOFQcnTPB"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "14 Tucanazos Bien Pesados",
-        "url": "https://open.spotify.com/album/5poff6oDNapTa60LAq46O0"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 145004,
-      "name": "Carrera Prohibida",
-      "url": "https://open.spotify.com/track/6WOJAgzKbqHxBmYsKqbiW5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Romance Norte\u00f1o",
         "url": "https://open.spotify.com/album/6OolFCMNSTNv1faRoAdEfG"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 208253,
       "name": "Se Fue Mi Amor",
       "url": "https://open.spotify.com/track/12DD2WZnlpq72BlsNdv4LK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "14 Tucanazos Bien Pesados",
+        "url": "https://open.spotify.com/album/5poff6oDNapTa60LAq46O0"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 145004,
+      "name": "Carrera Prohibida",
+      "url": "https://open.spotify.com/track/6WOJAgzKbqHxBmYsKqbiW5"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El \u00c1rbol",
-        "url": "https://open.spotify.com/album/0D8ccoDH3ExN728wDRsRNT"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 218733,
-      "name": "El Jefe De La Sierra",
-      "url": "https://open.spotify.com/track/6UuXzEW2GBwcJefoXTYztu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "14 Tucanazos Bien Pesados",
         "url": "https://open.spotify.com/album/5poff6oDNapTa60LAq46O0"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 233431,
       "name": "El Guero Palma",
       "url": "https://open.spotify.com/track/6p9oaClC7aKEfUPGlvozCM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El \u00c1rbol",
+        "url": "https://open.spotify.com/album/0D8ccoDH3ExN728wDRsRNT"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 218733,
+      "name": "El Jefe De La Sierra",
+      "url": "https://open.spotify.com/track/6UuXzEW2GBwcJefoXTYztu"
     },
     {
       "added_at": null,
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Mas Buscados",
-        "url": "https://open.spotify.com/album/64dZEFpVrF6TkL6G5nmYWh"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 206280,
-      "name": "El Heredero",
-      "url": "https://open.spotify.com/track/59YF0TRYWRyS4O3taW5Wuc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Arriba La T\u00eda, Desde Las Vegas (En Vivo)",
         "url": "https://open.spotify.com/album/3AUGAUtS6FRsbPQGRd3yDO"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 191750,
       "name": "Ram\u00f3n Arellano (En Vivo)",
       "url": "https://open.spotify.com/track/3ZxamLUsj6GavMF6OZ54kn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Mas Buscados",
+        "url": "https://open.spotify.com/album/64dZEFpVrF6TkL6G5nmYWh"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 206280,
+      "name": "El Heredero",
+      "url": "https://open.spotify.com/track/59YF0TRYWRyS4O3taW5Wuc"
     },
     {
       "added_at": null,

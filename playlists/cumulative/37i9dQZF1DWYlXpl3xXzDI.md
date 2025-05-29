@@ -4,10 +4,11 @@
 
 > Lekker rustig aan doen op maandag met deze zachte popliedjes.
 
-327 songs - 19 hr 27 min
+328 songs - 19 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [80 Days](https://open.spotify.com/track/6GqDKlvGfqWoj3j1m5gp7s) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Adagio](https://open.spotify.com/album/3TAhlJxvOBskHFd0J1YRmq) | 2:36 | 2025-05-28 |  |
 | [A Face In The Crowd](https://open.spotify.com/track/66q4BUNLBymfOBzmqZyVl2) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/7ihweYjA1ck66NTB4bujGl) | 3:58 | 2017-12-03 | 2022-07-29 |
 | [A Face In The Crowd](https://open.spotify.com/track/4tSZr210OTY6upjNYfEYUI) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093) | 3:59 | 2017-12-03 | 2022-12-15 |
 | [A Face In The Crowd](https://open.spotify.com/track/7trWmvPx4b3ar5XXSk4LgY) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Rainy Day Tunes](https://open.spotify.com/album/5ZUe08JFTnCZLXElXLjLtl) | 3:59 | 2017-12-03 | 2022-11-13 |
@@ -192,7 +193,7 @@
 | [Old Records \- Acoustic](https://open.spotify.com/track/0YsKYFyMD7PXnTlXJAOzJk) | [Jacqueline Govaert](https://open.spotify.com/artist/7LTI9KZLhnMbrDojlJK7Li) | [Easy Sunny Morning](https://open.spotify.com/album/2OZxFttxeRpNJTpxxjdtH3) | 3:17 | 2017-12-03 | 2022-11-14 |
 | [Old Records \- Acoustic](https://open.spotify.com/track/1bD85vOr7SEKdZiRduesfb) | [Jacqueline Govaert](https://open.spotify.com/artist/7LTI9KZLhnMbrDojlJK7Li) | [Old Records](https://open.spotify.com/album/7CmleVCoYlCAF2RHDBorhO) | 3:17 | 2017-12-03 | 2024-04-19 |
 | [Old Records \- Acoustic](https://open.spotify.com/track/40bfm9RRM6PY8cTckh0s6Z) | [Jacqueline Govaert](https://open.spotify.com/artist/7LTI9KZLhnMbrDojlJK7Li) | [Old Records](https://open.spotify.com/album/2Mt62UoiVpVQCdxNIuuS0V) | 3:17 | 2017-12-03 | 2025-02-04 |
-| [On My Mind](https://open.spotify.com/track/3lNBBcH8OWPp281L9VuqQn) | [Christy](https://open.spotify.com/artist/3BgniSkzaCLKgQSBkWcsoV) | [On My Mind](https://open.spotify.com/album/3ibBY3XM01fTDd1Z7us1k0) | 2:39 | 2025-02-03 |  |
+| [On My Mind](https://open.spotify.com/track/3lNBBcH8OWPp281L9VuqQn) | [Christy](https://open.spotify.com/artist/3BgniSkzaCLKgQSBkWcsoV) | [On My Mind](https://open.spotify.com/album/3ibBY3XM01fTDd1Z7us1k0) | 2:39 | 2025-02-03 | 2025-05-29 |
 | [On the Train Ride Home](https://open.spotify.com/track/37adNHvszWoS1kINkE99Ja) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [On the Train Ride Home](https://open.spotify.com/album/52nbX1xWBxOQrFSCqepCUz) | 3:47 | 2025-02-03 | 2025-03-22 |
 | [One More Night](https://open.spotify.com/track/4L0Vq3hZQggPPWmBFOKwIq) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Easy Sunny Morning](https://open.spotify.com/album/395vm4hYjijR0jLbWCx5Xy) | 3:52 | 2017-12-03 | 2022-11-13 |
 | [One More Night](https://open.spotify.com/track/0N24Ao3uRkKLbT0Cuc45gb) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [One More Night](https://open.spotify.com/album/2UeAhscxcxmAaPGwQuASRL) | 3:53 | 2017-12-03 | 2025-02-04 |

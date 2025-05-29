@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Dan Mangan
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,710 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,705 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 99 | [I Don’t Wanna Talk](https://open.spotify.com/track/0rpOR79X30vU5I9i0Jnusg) | [The Royal Foundry](https://open.spotify.com/artist/7w7g3NoDd7yITLuPp8kmfg) | [I Don’t Wanna Talk](https://open.spotify.com/album/2xOJFe7Fh9zbscZrf3NqqQ) | 3:46 |
 | 100 | [Never Be Without Love](https://open.spotify.com/track/6MkxIJbhsXIiL1maMJFZHm) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [Never Be Without Love](https://open.spotify.com/album/0BCZ4HqL2CZN58qa2w8mxx) | 2:52 |
 
-Snapshot ID: `aC/y4QAAAACUs4KTgfswcV5jO1bkTGNc`
+Snapshot ID: `aC/y4QAAAAAImvbTOeKCRX84JB6LZvA+`

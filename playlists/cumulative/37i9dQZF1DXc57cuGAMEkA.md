@@ -4,7 +4,7 @@
 
 > 洋楽を中心に今週の新曲をチェック。 KAROL G, Benson Boone, Green Day, ずっと真夜中でいいのに。 and more!
 
-9,636 songs - 22 day 10 hr 37 min
+9,637 songs - 22 day 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3457,7 +3457,7 @@
 | [Hollon](https://open.spotify.com/track/6XVkJ1fM7NkjODPYI7QbAM) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Hollon](https://open.spotify.com/album/1HCjvCCMusvjNzYWW0p60D) | 2:08 | 2024-09-19 | 2024-09-27 |
 | [Hollywood](https://open.spotify.com/track/5ixsARSHL26SXP89piNe1r) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Adaptations](https://open.spotify.com/album/1lkI9vJnzW5nAT4HxgOmBp) | 3:15 | 2024-08-01 | 2024-08-09 |
 | [Hollywood](https://open.spotify.com/track/1jit8yRaXz50OZNINPxtym) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp), [Benjamin Gibbard](https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL) | [Hollywood b/w CD\-R](https://open.spotify.com/album/6o8LiEGxLTjMBt1PFxHp4U) | 3:05 | 2024-08-08 | 2024-08-16 |
-| [HOLLYWOOD \- feat\. Shoreline Mafia](https://open.spotify.com/track/0uAmR0yTDNAaXA5jPGOrir) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ) | [HOLLYWOOD \(feat\. Shoreline Mafia\)](https://open.spotify.com/album/0pg3WtuKm4GlckMugbml46) | 3:00 | 2025-05-23 |  |
+| [HOLLYWOOD](https://open.spotify.com/track/0uAmR0yTDNAaXA5jPGOrir) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ) | [HOLLYWOOD](https://open.spotify.com/album/0pg3WtuKm4GlckMugbml46) | 3:00 | 2025-05-23 |  |
 | [Hollywood Baby](https://open.spotify.com/track/48ElaQLYuOaybqagIlPxpU) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [Hollywood Baby](https://open.spotify.com/album/1jI6gq10WSeAv4MdTaRq7N) | 3:07 | 2023-02-16 | 2023-02-24 |
 | [Hollywood Bowl](https://open.spotify.com/track/0837Am3wsBxCmfxo1DiFmz) | [Rob Grant](https://open.spotify.com/artist/5Y1ry2fgj4VzEjWndZu8Rw), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Lost At Sea](https://open.spotify.com/album/7kwav2MO9gEBS55o0Ui3n9) | 4:13 | 2023-06-09 | 2023-06-16 |
 | [Hollywood Bowl](https://open.spotify.com/track/1DAIGVQoOruWmlVYmpC0B7) | [Rob Grant](https://open.spotify.com/artist/5Y1ry2fgj4VzEjWndZu8Rw), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Hollywood Bowl](https://open.spotify.com/album/7plBFX9EbmkHZnBbRtzKkA) | 4:13 | 2023-06-08 | 2023-06-10 |
@@ -6995,6 +6995,7 @@
 | [Somewhere Near Marseilles ーマルセイユ辺りー \(Sci\-Fi Edit\)](https://open.spotify.com/track/4GUY0onClFq7BrdSJMQ4Vw) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [Somewhere Near Marseilles ーマルセイユ辺りー \(Sci\-Fi Edit\)](https://open.spotify.com/album/26ygzT2K5HKFnhsGxJPSuD) | 4:12 | 2024-04-04 | 2024-04-12 |
 | [Son of a Bitch](https://open.spotify.com/track/5EyxR5yEN3mohQ5EycOpII) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Son of a Bitch](https://open.spotify.com/album/4QBpgWspmECfxr201lGim4) | 2:35 | 2024-02-22 | 2024-03-01 |
 | [SONAR](https://open.spotify.com/track/5sopL1eudHPKEpHPSdBJFk) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [SONAR](https://open.spotify.com/album/3LB2AdLy8kW2OVfJEW5ULa) | 3:17 | 2025-02-06 | 2025-02-14 |
+| [Song 3](https://open.spotify.com/track/7eDUTBIo76AMC5UYqkkzDL) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m) | [Song 3](https://open.spotify.com/album/0Cxa2LwLEBIpVglPWwiias) | 3:34 | 2025-05-23 |  |
 | [Song Of The Lake](https://open.spotify.com/track/7kN3xKqRtMQEnhxCK5d5Ih) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Wild God](https://open.spotify.com/album/0TRr4JGEPJ4eAb5QKRaunf) | 3:36 | 2024-08-29 | 2024-09-06 |
 | [SONGS](https://open.spotify.com/track/0l93cYkJLTiSgHSBGful5p) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [Songs](https://open.spotify.com/album/5KCNofx4mr0Blk7WXGiPXU) | 2:47 | 2024-02-22 | 2024-03-01 |
 | [Songs](https://open.spotify.com/track/3I2fjIvp3H6QSD7FaPQxaR) | [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS), [Headaches](https://open.spotify.com/artist/385XMCKUEnTVlM7UVFRLHl) | [Making Friends With The Space Around Me](https://open.spotify.com/album/7xYJux2nUDleJTTBcRng5t) | 2:57 | 2024-05-23 | 2024-06-01 |

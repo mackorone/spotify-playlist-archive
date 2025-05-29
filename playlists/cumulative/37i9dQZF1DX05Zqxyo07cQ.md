@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-741 songs - 1 day 12 hr 6 min
+742 songs - 1 day 12 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [Dark Blue](https://open.spotify.com/track/2BTJLOrqvYeLLeEub0IDJx) | [Palace Flower](https://open.spotify.com/artist/1uU27K4D96Hn0ws2lULjHp) | [Dark Blue](https://open.spotify.com/album/4RlbWH1eu5h1ICu4zeA35n) | 2:54 | 2023-03-23 | 2024-03-21 |
 | [Dark Lights](https://open.spotify.com/track/7hb9cJh5t16WJiRWVPbzMZ) | [Emmitt Howard](https://open.spotify.com/artist/4ZWPxlJt6aJXZ6ZqtSKsDe) | [Dark Lights](https://open.spotify.com/album/24jHwcu0OnEKV4DCiiCxRF) | 2:37 | 2023-03-23 | 2024-02-09 |
 | [Dawel](https://open.spotify.com/track/6imPjyaeTkegHqHQCY7pOr) | [Charles Sardo](https://open.spotify.com/artist/7t9MmdQBNxgFACHuBih61V) | [Dawel](https://open.spotify.com/album/2Xkc6rAzSAI1hTfwQb5HHu) | 2:45 | 2024-05-04 | 2025-01-24 |
+| [Dayglow](https://open.spotify.com/track/2yGN2jnrtn4Y4f8bINK8DV) | [Narnara](https://open.spotify.com/artist/1604ICu74nrUUHcpRREkd0) | [Dayglow](https://open.spotify.com/album/4IiMO7N8kedZfwzPnyS8YZ) | 2:22 | 2025-05-27 |  |
 | [Deep Abyssal](https://open.spotify.com/track/22LEo2UNoQMBaJWApcj5gE) | [Meloleon](https://open.spotify.com/artist/0KB7j94GTdhFMPEEmBMGAI) | [Deep Abyssal](https://open.spotify.com/album/187qENgE5y5f3XeEFVjkx3) | 3:00 | 2025-04-23 |  |
 | [Deep breaths](https://open.spotify.com/track/1XhhBtMKmNGM4yfgMZQVxf) | [Jirou Soller](https://open.spotify.com/artist/0gTSb6SH0iohVVodJGSUlH) | [Deep breaths](https://open.spotify.com/album/3JEiMxMBlySWYU9dpuSMoA) | 2:11 | 2023-03-23 | 2024-02-09 |
 | [Deep Down The Cave](https://open.spotify.com/track/4IBQllOXx6Ct9Bidmj3yyF) | [Xavier Ortando](https://open.spotify.com/artist/5DUWKbIv5XlkqcmXNqZYme) | [Deep Down The Cave](https://open.spotify.com/album/31o5l9eR13wwNBTJzCJ1Jt) | 3:14 | 2023-03-23 | 2024-04-06 |
@@ -351,7 +352,7 @@
 | [Include](https://open.spotify.com/track/0v4OsqxNQmqxaz10teJsWO) | [different spaces](https://open.spotify.com/artist/5TGuPLjK2IVw8eDuJ9oZ1K) | [Include](https://open.spotify.com/album/1Hs4Nl5uMnxyn4skV5EIF5) | 2:57 | 2024-05-20 | 2025-04-28 |
 | [Inevitability](https://open.spotify.com/track/0k5TnsKv68q20aE1sJYY7a) | [Fannie Shelton](https://open.spotify.com/artist/3IgG6CQo3mfhUsT1AgNWum) | [Inevitability](https://open.spotify.com/album/6nRr1olpoiH9pky8VQ1eZW) | 3:31 | 2023-03-23 | 2024-03-21 |
 | [Infinitya](https://open.spotify.com/track/3u5XjYs1nfWW53voU5mxpx) | [X\-Genie](https://open.spotify.com/artist/7jpxxOSOJX0PCvKXAbQs2I) | [Infinitya](https://open.spotify.com/album/0LiNszwKSivaoA3eTQibKn) | 2:31 | 2024-05-04 | 2025-03-02 |
-| [Initially](https://open.spotify.com/track/6JNaHAeQrCiqIf0nvZHu3b) | [Aveniós](https://open.spotify.com/artist/4DUA5cmKWH8fIMmPIQhWY1) | [Initially](https://open.spotify.com/album/6Wesmg2ZiQ944z84Gqdm3S) | 3:05 | 2024-12-03 |  |
+| [Initially](https://open.spotify.com/track/6JNaHAeQrCiqIf0nvZHu3b) | [Aveniós](https://open.spotify.com/artist/4DUA5cmKWH8fIMmPIQhWY1) | [Initially](https://open.spotify.com/album/6Wesmg2ZiQ944z84Gqdm3S) | 3:05 | 2024-12-03 | 2025-05-29 |
 | [Ink](https://open.spotify.com/track/1n7faxE0AzrxoLz0OmQl6Q) | [Divijata Ash](https://open.spotify.com/artist/5CRHdG2bIiKcAsRwAmJqwg) | [Ink](https://open.spotify.com/album/4HV2Fmobr0NiMNuQfLtJFk) | 3:01 | 2024-05-04 | 2025-03-03 |
 | [Inner Guidance](https://open.spotify.com/track/7fhxsFzVhoznTnK7UlbnLv) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Inner Guidance](https://open.spotify.com/album/5dYYm6NNZ5aM8Nxf5Djy29) | 4:01 | 2024-01-17 | 2024-03-21 |
 | [Inner Realm](https://open.spotify.com/track/28k1LumefEFmrUKTRaakIO) | [Dominum Nominum](https://open.spotify.com/artist/7okwKwX9ydmNTjwXXdgBO4) | [Inner Realm](https://open.spotify.com/album/6D0Gk54OLdjSPcJucPYJ0s) | 3:23 | 2025-02-04 |  |

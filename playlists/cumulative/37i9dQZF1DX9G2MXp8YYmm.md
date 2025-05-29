@@ -4,7 +4,7 @@
 
 > Pop'un sevilen isimleri\. Kapak: Ece Mumay x Sinan Akçıl
 
-273 songs - 13 hr 43 min
+274 songs - 13 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Beni Seviyo](https://open.spotify.com/track/20O92DIuPCTt9yIoudyqtP) | [Alara Serena](https://open.spotify.com/artist/4ggPxt5YPNtQ1RgwKComXu) | [Beni Seviyo](https://open.spotify.com/album/131EG59oUCxBSezj1EDY11) | 2:41 | 2024-07-04 | 2024-07-19 |
 | [Benim İlacım Yok](https://open.spotify.com/track/1pprdlPFEZsefdPSflJT2P) | [Ceren Gündoğdu](https://open.spotify.com/artist/2t6i0lQOkrmuIInzYZFM90) | [Işık Olur Gözlerin](https://open.spotify.com/album/0Nnm6fSQdcq2WDbEdAFawF) | 3:33 | 2025-02-20 | 2025-02-28 |
 | [Beyaz Sayfalar](https://open.spotify.com/track/35LBdRgHxGQ232UmkzbBIe) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [Beyaz Sayfalar](https://open.spotify.com/album/4mx7s38eskaxRDWC2BOkeP) | 2:31 | 2025-02-27 |  |
-| [Beyhude Bir Gam](https://open.spotify.com/track/7zhzf1VBkGvwjhggPbC843) | [Kahraman Deniz](https://open.spotify.com/artist/3nF0yXDatdq9xV279nEs5X) | [Beyhude Bir Gam](https://open.spotify.com/album/51OonkPnYYg3MFjP7yIJpB) | 3:54 | 2025-04-17 |  |
+| [Beyhude Bir Gam](https://open.spotify.com/track/7zhzf1VBkGvwjhggPbC843) | [Kahraman Deniz](https://open.spotify.com/artist/3nF0yXDatdq9xV279nEs5X) | [Beyhude Bir Gam](https://open.spotify.com/album/51OonkPnYYg3MFjP7yIJpB) | 3:54 | 2025-04-17 | 2025-05-29 |
 | [Bi Gece Gidebilirim](https://open.spotify.com/track/7L52bWVSbEPSwyHF4IeVk8) | [Mert Demir](https://open.spotify.com/artist/1Zj4GtouAnxHq4qw7ooLfm) | [Bi Gece Gidebilirim](https://open.spotify.com/album/54x3BPwQEcauxQXFRF53Qd) | 3:06 | 2025-05-22 |  |
 | [bi kere öpse bükülür uzay](https://open.spotify.com/track/3a61r0HCZxxiKW86NwORDb) | [TUANA](https://open.spotify.com/artist/2FkaZzzDTwnz1l1mK9DoT6) | [bi kere öpse bükülür uzay](https://open.spotify.com/album/5iJ0xqmjayLLOWKace2Tbq) | 2:08 | 2024-12-19 | 2025-05-17 |
 | [Bi Mani Yoksa](https://open.spotify.com/track/67RsgVh1I4rYqNqRmyW3JS) | [Oğuzhan Koç](https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i) | [Bi Mani Yoksa](https://open.spotify.com/album/2DtIUWEBco0tXVNkHFlrMN) | 3:14 | 2025-03-06 |  |
@@ -171,6 +171,7 @@
 | [Lakin](https://open.spotify.com/track/7AjPgrmEzCBVkQWUiOncM3) | [Sufle](https://open.spotify.com/artist/1hWfWJvstJQPgjZ2vDFY0P) | [Lakin](https://open.spotify.com/album/7u52LKZ2sJ0LnYxMol4Sxi) | 2:41 | 2024-06-27 |  |
 | [Lan](https://open.spotify.com/track/1whKKdtCiFjN7MW7DrIRUH) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Lan](https://open.spotify.com/album/1LvnmkkATPS4wBrEPMec26) | 3:16 | 2024-06-27 | 2024-09-06 |
 | [Lovelandım](https://open.spotify.com/track/6g8g1XosNa18N4CqhfQcbw) | [Hande Ünsal](https://open.spotify.com/artist/6YapGsI8u59kfewJjjJ2LJ) | [Halim](https://open.spotify.com/album/6tx8KRugMjbWQc7AlcKMXU) | 2:41 | 2025-05-15 |  |
+| [Max](https://open.spotify.com/track/7lRMajzI2xa34EQg2SKecS) | [Hande Yener](https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R) | [Max](https://open.spotify.com/album/30xEU4sNXkYHvtSIiM8uUV) | 3:49 | 2025-05-27 |  |
 | [Mağlup](https://open.spotify.com/track/2YZdLhFIIODNxeVtVy4qLC) | [Çağan Şengül](https://open.spotify.com/artist/3W0gwNZqdtkleuMYlKElaw) | [Mağlup](https://open.spotify.com/album/19JJCx7HlJEhhW3oVwphxI) | 2:40 | 2024-11-07 | 2025-01-20 |
 | [Mecnun](https://open.spotify.com/track/7pvJS491DvAF634AxRGUZG) | [Siyam](https://open.spotify.com/artist/20VUzeHAjxKUEJuXT6EiMo) | [Mecnun](https://open.spotify.com/album/2zwLL93kAc8TwamDzSocET) | 2:28 | 2024-11-21 | 2025-03-05 |
 | [Meleğim](https://open.spotify.com/track/6qjpvoOyxCl2DoLalk1DBV) | [Ahmet Hatipoğlu](https://open.spotify.com/artist/2sOq4hJZRAybcz8AvKjDK4) | [Meleğim](https://open.spotify.com/album/444lQ55RAdFaSf4CQLb0i7) | 2:45 | 2024-07-25 | 2024-08-28 |

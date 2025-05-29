@@ -5846,7 +5846,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-29",
       "duration_ms": 103250,
       "name": "Gliding",
       "url": "https://open.spotify.com/track/5tFHUZ0Qldkq8B3OzhgoTm"
@@ -15096,6 +15096,24 @@
       "duration_ms": 162541,
       "name": "Somber",
       "url": "https://open.spotify.com/track/2TDQlamYl8cSi6C5mk2xkp"
+    },
+    {
+      "album": {
+        "name": "something",
+        "url": "https://open.spotify.com/album/7lBS6bvo0htgfugJjImRVA"
+      },
+      "artists": [
+        {
+          "name": "Flower Chanel.",
+          "url": "https://open.spotify.com/artist/7qnkTNSjbkAfmWRjjs9yq4"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136941,
+      "name": "something",
+      "url": "https://open.spotify.com/track/3gZES4CVI9MVvp5ShamfxT"
     },
     {
       "album": {

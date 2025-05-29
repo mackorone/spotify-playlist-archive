@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,240 songs - 18 day 19 hr 38 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,241 songs - 18 day 19 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -828,7 +828,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 818 | [color](https://open.spotify.com/track/3eX9HeooG4QazbheKKDAwv) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Sekai Ha i Ni Michiteiru](https://open.spotify.com/album/4NVH83ZZPdQpneveSpEIfb) | 3:58 |
 | 819 | [プライド革命](https://open.spotify.com/track/7uD3cE6aiSFKdJO30k2vbZ) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Sekai Ha i Ni Michiteiru](https://open.spotify.com/album/4NVH83ZZPdQpneveSpEIfb) | 3:53 |
 | 820 | [Bitch Where](https://open.spotify.com/track/0t9V60QxyMyVZSUVTBgOnt) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [4NEM](https://open.spotify.com/album/1sujvm6paInfm8fYnNdjIy) | 1:51 |
-| 821 | [Jesus \(feat\. Lil Gnar\)](https://open.spotify.com/track/5mE1sporLTCltsZVRp27cA) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Lil Gnar](https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB) | [Almighty So 2](https://open.spotify.com/album/6xw2hoSzBYynn2dGmERunp) | 4:39 |
+| 821 | [Jesus \- feat\. Lil Gnar](https://open.spotify.com/track/5mE1sporLTCltsZVRp27cA) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Lil Gnar](https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB) | [Almighty So 2](https://open.spotify.com/album/6xw2hoSzBYynn2dGmERunp) | 4:39 |
 | 822 | [Faneto](https://open.spotify.com/track/7EcE5yCPVZaZut1JqowbcI) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Back from the Dead 2](https://open.spotify.com/album/6uOn9t70gVO6YPU4M65h5g) | 3:26 |
 | 823 | [Kills](https://open.spotify.com/track/31HzVBCXNRgBWlD5bZg94O) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Dedication](https://open.spotify.com/album/1cu8gZDe4a71AQgSlBHOAC) | 2:49 |
 | 824 | [Love Sosa](https://open.spotify.com/track/01Lr5YepbgjXAWR9iOEyH1) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Finally Rich](https://open.spotify.com/album/2B4y3j02ho6XNF8BEzx3JF) | 4:06 |
@@ -3945,9 +3945,9 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 3935 | [Billie Jean](https://open.spotify.com/track/5ChkMS8OtdzJeqyybCc9R5) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller 25 Super Deluxe Edition](https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a) | 4:53 |
 | 3936 | [Billie Jean \(2008 Kanye West Mix\) \(feat\. Kanye West\) \- Thriller 25th Anniversary Remix](https://open.spotify.com/track/17bgTUPOnLLVavmeS2Pc0B) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Thriller 25 Super Deluxe Edition](https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a) | 4:35 |
 | 3937 | [I Feel Best When I'm Alone](https://open.spotify.com/track/3OYejGbGSMijzWFTdCd8sy) | [Michael Seyer](https://open.spotify.com/artist/7K4cef9h3NvU7Xb3BH7Ade) | [Bad Bonez](https://open.spotify.com/album/5p3gsTRh2rd4cZfNjyVgln) | 3:10 |
-| 3938 | [Show & Tell \(feat\. Freddie Gibbs\)](https://open.spotify.com/track/4iJVfdFivbtN9n72aUtgOx) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [The Patience](https://open.spotify.com/album/1R7oXtXCQEI7GDujxImL87) | 4:20 |
+| 3938 | [Show & Tell \- feat\. Freddie Gibbs](https://open.spotify.com/track/4iJVfdFivbtN9n72aUtgOx) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [The Patience](https://open.spotify.com/album/1R7oXtXCQEI7GDujxImL87) | 4:20 |
 | 3939 | [Smoke Break\-Dance \(feat\. JID\)](https://open.spotify.com/track/01HF0G0K6CPvVIub1JpO4f) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [The Patience](https://open.spotify.com/album/7GlMEHJyohBhILSQYQIFgI) | 2:47 |
-| 3940 | [Smoke Break\-Dance \(feat\. JID\)](https://open.spotify.com/track/3EcqaLV76JnvSQOInAmdXv) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [The Patience](https://open.spotify.com/album/1R7oXtXCQEI7GDujxImL87) | 2:55 |
+| 3940 | [Smoke Break\-Dance \- feat\. JID](https://open.spotify.com/track/3EcqaLV76JnvSQOInAmdXv) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [The Patience](https://open.spotify.com/album/1R7oXtXCQEI7GDujxImL87) | 2:55 |
 | 3941 | [ROY G\. BIV](https://open.spotify.com/track/6Zh9nRvoVt4GXXgAzbtCH9) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [The Patience](https://open.spotify.com/album/1R7oXtXCQEI7GDujxImL87) | 1:54 |
 | 3942 | [Guapanese](https://open.spotify.com/track/40pwSWsizZ5xUSVJMqoYOA) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [The Patience](https://open.spotify.com/album/1R7oXtXCQEI7GDujxImL87) | 2:24 |
 | 3943 | [Culture \(feat\. DJ Khaled\)](https://open.spotify.com/track/3zrks1xFx1ATYzEx5mX3Q8) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [Culture](https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO) | 2:33 |
@@ -7248,5 +7248,6 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 7238 | [INFINITY](https://open.spotify.com/track/34IGTOLvOggIWQl5eUiQBa) | [Lyn](https://open.spotify.com/artist/5qEtLvXzYdv0G7c7rR6irX) | [INFINITY](https://open.spotify.com/album/62ihq6VYKiNKIqvHZqcpP8) | 4:22 |
 | 7239 | [specialist](https://open.spotify.com/track/5UWJxql2C2VNLAusOQRjt1) | [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN) | [ネバー・モア\-『ペルソナ4』輪廻転生\-](https://open.spotify.com/album/6sYyz749kpPYzQU5gtnuQd) | 4:03 |
 | 7240 | [Alchemy](https://open.spotify.com/track/7LLUvdfRqSO2Bf5tY6CxFz) | [marina](https://open.spotify.com/artist/358xRt5CBUd9I19QYV379n), [VISUAL ARTS / Key](https://open.spotify.com/artist/4XoXFUiabPNKrXxTgHTy0z) | [Crow Song](https://open.spotify.com/album/0A14rgU2iEJj06M6Of5MBY) | 4:16 |
+| 7241 | [八方來財\(Stacks from All Sides\)](https://open.spotify.com/track/7jm2PueKmv4EOHfdbdXMKT) | [攬佬SKAI ISYOURGOD](https://open.spotify.com/artist/4LUmhH4A1lvFljre6d00NI) | [八方來財\(Stacks from All Sides\)](https://open.spotify.com/album/5vYWbmWrSSBskg28cRmcjg) | 2:53 |
 
-Snapshot ID: `AAAG3MHCjBWs10ADgYrCvvl29yq3fVhY`
+Snapshot ID: `AAAG3fSFdoUI57aaTf6I2Dc2tZOCSbjB`

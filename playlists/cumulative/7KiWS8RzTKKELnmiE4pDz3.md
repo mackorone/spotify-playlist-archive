@@ -4,7 +4,7 @@
 
 > 
 
-1,009 songs - 2 day 2 hr 8 min
+1,010 songs - 2 day 2 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -849,6 +849,7 @@
 | [Suicide Doors](https://open.spotify.com/track/3fDTzkvrOo5xQIO480Qmsb) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 4:19 | 2023-07-12 | 2024-03-05 |
 | [Suicide Mission](https://open.spotify.com/track/6GpRLxHvsTayOnY83TZdmM) | [Rick Owens](https://open.spotify.com/artist/2pC7dYql1Qm5KdhVwkhpS2) | [Suicide Mission](https://open.spotify.com/album/3oXmHRYseFn96UYT2I3BR1) | 2:25 | 2022-09-12 | 2023-04-12 |
 | [Sum 2 do](https://open.spotify.com/track/7sjhOYcPgeSv3oj3IkFTeK) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [AftërLyfe](https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM) | 2:32 | 2023-12-20 | 2024-04-24 |
+| [Summer Love](https://open.spotify.com/track/1MBM7CyZbwJpVbbZJnHHRg) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [FutureSex/LoveSounds](https://open.spotify.com/album/2scB1uhcCI1TSf6b9TCZK3) | 4:12 | 2025-05-28 |  |
 | [Summer Reign \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/6ELl4Rhgv6oqSbqWIomjs3) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [The Great Escape](https://open.spotify.com/album/1AJrpzYu5KAbDSvmyiIUhr) | 2:55 | 2023-04-04 | 2023-05-09 |
 | [Summer Soft](https://open.spotify.com/track/0eGpcLG96GWVCG4Ix3qLCp) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 4:14 | 2025-04-14 |  |
 | [Sup Mate \(feat\. Future\)](https://open.spotify.com/track/0zNHMc1cGKe4MO5rtGtKRh) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [So Much Fun](https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh) | 3:58 | 2023-10-03 | 2024-04-24 |

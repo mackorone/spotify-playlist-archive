@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover : Kazy Lambist
 
-[Spotify](https://open.spotify.com/user/spotify) - 407,004 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 406,996 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [Nouveau départ](https://open.spotify.com/track/6Be312SFmugZFtSMY22J3K) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Nouveau départ](https://open.spotify.com/album/5F8J6TG8vHp9YWsLSoDLNK) | 3:17 |
 | 50 | [la douche](https://open.spotify.com/track/5ANUATWKve7VCSx1B6544D) | [DO not DO](https://open.spotify.com/artist/7ipFE8S09qHrx6zoLKVGqi) | [la douche](https://open.spotify.com/album/7lc0k3qI1kPookx0fRGnpT) | 3:13 |
 
-Snapshot ID: `aC+edgAAAABI5BTrYvsU3q/OeNfons7x`
+Snapshot ID: `aC+edgAAAAB4rXJqiN1jOSdg7ctjpSQO`

@@ -201,6 +201,28 @@
     },
     {
       "album": {
+        "name": "Dyrnar",
+        "url": "https://open.spotify.com/album/5yjVhol6NpMgJ3kVcKWaWo"
+      },
+      "artists": [
+        {
+          "name": "Birnir",
+          "url": "https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z"
+        },
+        {
+          "name": "Herra Hnetusmj\u00f6r",
+          "url": "https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4"
+        }
+      ],
+      "date_added": "2025-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213573,
+      "name": "10 fingur",
+      "url": "https://open.spotify.com/track/6xUjDJr13mTwal8SEdS7AP"
+    },
+    {
+      "album": {
         "name": "10 Years",
         "url": "https://open.spotify.com/album/2Zegz0LaKZgwrLo5UbEa2x"
       },
@@ -508,7 +530,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-29",
       "duration_ms": 162413,
       "name": "270 365",
       "url": "https://open.spotify.com/track/6vUXsPtgB4WwOLVGH9WpHM"
@@ -3420,7 +3442,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-29",
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
@@ -4952,7 +4974,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-29",
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -6656,7 +6678,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-29",
       "duration_ms": 160281,
       "name": "C'est La Vie",
       "url": "https://open.spotify.com/track/0b9RNAzGtDRRMQS1cF9HXT"
@@ -7208,7 +7230,7 @@
       ],
       "date_added": "2025-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-29",
       "duration_ms": 175161,
       "name": "Cha Cha Cha",
       "url": "https://open.spotify.com/track/2Nq2IkUtXoO1DJ0A4bNBcj"
@@ -11003,6 +11025,24 @@
     },
     {
       "album": {
+        "name": "Dyrnar",
+        "url": "https://open.spotify.com/album/5yjVhol6NpMgJ3kVcKWaWo"
+      },
+      "artists": [
+        {
+          "name": "Birnir",
+          "url": "https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z"
+        }
+      ],
+      "date_added": "2025-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157173,
+      "name": "Dyrnar",
+      "url": "https://open.spotify.com/track/3V7qeqqJBkzqm0lo8mfVB7"
+    },
+    {
+      "album": {
         "name": "D\u00ednam\u00edt",
         "url": "https://open.spotify.com/album/76Z5RaiRyQEA0jLeTCntht"
       },
@@ -11570,7 +11610,7 @@
       ],
       "date_added": "2025-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-29",
       "duration_ms": 170444,
       "name": "Einn Dans",
       "url": "https://open.spotify.com/track/1TKHXYa0F8hhO0UbjCV7PN"
@@ -12120,7 +12160,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-29",
       "duration_ms": 157506,
       "name": "Elska",
       "url": "https://open.spotify.com/track/3u3uS54VRFbCJThLdTZN8k"
@@ -12404,10 +12444,28 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-29",
       "duration_ms": 241690,
       "name": "Englar",
       "url": "https://open.spotify.com/track/4ac5PlafxyXfb9qBJBSKq6"
+    },
+    {
+      "album": {
+        "name": "Dyrnar",
+        "url": "https://open.spotify.com/album/5yjVhol6NpMgJ3kVcKWaWo"
+      },
+      "artists": [
+        {
+          "name": "Birnir",
+          "url": "https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z"
+        }
+      ],
+      "date_added": "2025-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242200,
+      "name": "Englar",
+      "url": "https://open.spotify.com/track/2FgBwYUtCAojxxB6S4lZNM"
     },
     {
       "album": {
@@ -13583,6 +13641,24 @@
     },
     {
       "album": {
+        "name": "Dyrnar",
+        "url": "https://open.spotify.com/album/5yjVhol6NpMgJ3kVcKWaWo"
+      },
+      "artists": [
+        {
+          "name": "Birnir",
+          "url": "https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z"
+        }
+      ],
+      "date_added": "2025-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292133,
+      "name": "Far",
+      "url": "https://open.spotify.com/track/47aQ5I2w61UjVrSv27gFdp"
+    },
+    {
+      "album": {
         "name": "Far",
         "url": "https://open.spotify.com/album/7DINQCxwUQTbQpAwuPGLjo"
       },
@@ -13594,7 +13670,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-29",
       "duration_ms": 292544,
       "name": "Far",
       "url": "https://open.spotify.com/track/2bGufV5inUlCxbDZNuQGJr"
@@ -15332,7 +15408,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-29",
       "duration_ms": 125852,
       "name": "Frost er \u00fati fuglinn minn",
       "url": "https://open.spotify.com/track/1sgn8wmK2kuJrF9ppsnH2F"
@@ -17265,6 +17341,32 @@
     },
     {
       "album": {
+        "name": "Dyrnar",
+        "url": "https://open.spotify.com/album/5yjVhol6NpMgJ3kVcKWaWo"
+      },
+      "artists": [
+        {
+          "name": "Birnir",
+          "url": "https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z"
+        },
+        {
+          "name": "Floni",
+          "url": "https://open.spotify.com/artist/3hvKmeo12OU7ai8Mpgraf7"
+        },
+        {
+          "name": "Drengur",
+          "url": "https://open.spotify.com/artist/0lq9KIOkkesrht0IhgRQO2"
+        }
+      ],
+      "date_added": "2025-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311360,
+      "name": "Grafar\u00fe\u00f6gn",
+      "url": "https://open.spotify.com/track/27aFRfKSWdO39jUPpqimkE"
+    },
+    {
+      "album": {
         "name": "Grandma's Hands",
         "url": "https://open.spotify.com/album/1zdGZQCS1XmHXlxA7gEvDm"
       },
@@ -17650,6 +17752,24 @@
       "duration_ms": 164011,
       "name": "Guy For That (Feat. Luke Combs)",
       "url": "https://open.spotify.com/track/5crxqqibcvoOQQgg4HjAFQ"
+    },
+    {
+      "album": {
+        "name": "Dyrnar",
+        "url": "https://open.spotify.com/album/5yjVhol6NpMgJ3kVcKWaWo"
+      },
+      "artists": [
+        {
+          "name": "Birnir",
+          "url": "https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z"
+        }
+      ],
+      "date_added": "2025-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195026,
+      "name": "Gu\u00f0 96",
+      "url": "https://open.spotify.com/track/5WOocSDFD1a2I2XUK2NiEq"
     },
     {
       "album": {
@@ -20041,6 +20161,24 @@
     },
     {
       "album": {
+        "name": "Dyrnar",
+        "url": "https://open.spotify.com/album/5yjVhol6NpMgJ3kVcKWaWo"
+      },
+      "artists": [
+        {
+          "name": "Birnir",
+          "url": "https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z"
+        }
+      ],
+      "date_added": "2025-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Huglei\u00f0sla",
+      "url": "https://open.spotify.com/track/4d521XcdrRCLV33A4YB0RZ"
+    },
+    {
+      "album": {
         "name": "Hugsa Bara Um \u00deig",
         "url": "https://open.spotify.com/album/1VIieGdsxCMVAI4z923Abt"
       },
@@ -20580,7 +20718,7 @@
       ],
       "date_added": "2025-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-29",
       "duration_ms": 156428,
       "name": "H\u00e6 - EM 2025",
       "url": "https://open.spotify.com/track/2GAR7xyr2OE07Q1cEabUOZ"
@@ -21678,7 +21816,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-29",
       "duration_ms": 180314,
       "name": "ICH KOMME",
       "url": "https://open.spotify.com/track/52NFoPnzxOKPIcJIQ9mb5Q"
@@ -22096,6 +22234,24 @@
       "duration_ms": 79386,
       "name": "Infinite Affection",
       "url": "https://open.spotify.com/track/3AxDEWKkCuMtK6zmaikt99"
+    },
+    {
+      "album": {
+        "name": "Dyrnar",
+        "url": "https://open.spotify.com/album/5yjVhol6NpMgJ3kVcKWaWo"
+      },
+      "artists": [
+        {
+          "name": "Birnir",
+          "url": "https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z"
+        }
+      ],
+      "date_added": "2025-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223306,
+      "name": "Inn a\u00f0 beini",
+      "url": "https://open.spotify.com/track/5XFavzA3Gusn9grV6rqGNz"
     },
     {
       "album": {
@@ -23812,6 +23968,24 @@
       "duration_ms": 156862,
       "name": "KING",
       "url": "https://open.spotify.com/track/01Ho3efkRrIbYnWxISj05V"
+    },
+    {
+      "album": {
+        "name": "Dyrnar",
+        "url": "https://open.spotify.com/album/5yjVhol6NpMgJ3kVcKWaWo"
+      },
+      "artists": [
+        {
+          "name": "Birnir",
+          "url": "https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z"
+        }
+      ],
+      "date_added": "2025-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205546,
+      "name": "Kirkjan",
+      "url": "https://open.spotify.com/track/02seGW8QlG3IdVXvC4cZMM"
     },
     {
       "album": {
@@ -26534,7 +26708,7 @@
       ],
       "date_added": "2025-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-29",
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
@@ -26928,10 +27102,28 @@
       ],
       "date_added": "2025-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-29",
       "duration_ms": 212013,
       "name": "LXS",
       "url": "https://open.spotify.com/track/4fCJv65IdSElmOyjsDEvRO"
+    },
+    {
+      "album": {
+        "name": "Dyrnar",
+        "url": "https://open.spotify.com/album/5yjVhol6NpMgJ3kVcKWaWo"
+      },
+      "artists": [
+        {
+          "name": "Birnir",
+          "url": "https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z"
+        }
+      ],
+      "date_added": "2025-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212520,
+      "name": "LXS",
+      "url": "https://open.spotify.com/track/68DUVQdRVFQYj0Xr2V5YTm"
     },
     {
       "album": {
@@ -28372,6 +28564,24 @@
       "duration_ms": 172524,
       "name": "Millj\u00f3n t\u00e1r",
       "url": "https://open.spotify.com/track/09b47GOPPLBKCke0IbvuWE"
+    },
+    {
+      "album": {
+        "name": "Dyrnar",
+        "url": "https://open.spotify.com/album/5yjVhol6NpMgJ3kVcKWaWo"
+      },
+      "artists": [
+        {
+          "name": "Birnir",
+          "url": "https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z"
+        }
+      ],
+      "date_added": "2025-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196520,
+      "name": "Minning",
+      "url": "https://open.spotify.com/track/1bmA2BKptZYlAMs7AUjAvQ"
     },
     {
       "album": {
@@ -30905,6 +31115,24 @@
     },
     {
       "album": {
+        "name": "Dyrnar",
+        "url": "https://open.spotify.com/album/5yjVhol6NpMgJ3kVcKWaWo"
+      },
+      "artists": [
+        {
+          "name": "Birnir",
+          "url": "https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z"
+        }
+      ],
+      "date_added": "2025-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165080,
+      "name": "Nor\u00f0ur",
+      "url": "https://open.spotify.com/track/5wdaj2fIinurUwoSBzhsUF"
+    },
+    {
+      "album": {
         "name": "Nor\u00f0urlj\u00f3s / Northerns Lights",
         "url": "https://open.spotify.com/album/3HzAGfuuxBpZWuTLmXoUYg"
       },
@@ -31342,7 +31570,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-29",
       "duration_ms": 182090,
       "name": "N\u00f3ttin l\u00e6\u00f0ist inn",
       "url": "https://open.spotify.com/track/5TBNZCGMR1NJtJrrg606m0"
@@ -34021,6 +34249,24 @@
     },
     {
       "album": {
+        "name": "Dyrnar",
+        "url": "https://open.spotify.com/album/5yjVhol6NpMgJ3kVcKWaWo"
+      },
+      "artists": [
+        {
+          "name": "Birnir",
+          "url": "https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z"
+        }
+      ],
+      "date_added": "2025-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238093,
+      "name": "Popstjarna",
+      "url": "https://open.spotify.com/track/6T1GZS7rHhhFGsoIusFvM7"
+    },
+    {
+      "album": {
         "name": "The Highlights (Deluxe)",
         "url": "https://open.spotify.com/album/18sR8zHx4zsVJUI4bHWuPC"
       },
@@ -35493,6 +35739,24 @@
     },
     {
       "album": {
+        "name": "Dyrnar",
+        "url": "https://open.spotify.com/album/5yjVhol6NpMgJ3kVcKWaWo"
+      },
+      "artists": [
+        {
+          "name": "Birnir",
+          "url": "https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z"
+        }
+      ],
+      "date_added": "2025-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194693,
+      "name": "Rau\u00f0ur himinn",
+      "url": "https://open.spotify.com/track/4sf2Nmzo1UQ8fqcBW2FqBD"
+    },
+    {
+      "album": {
         "name": "\u00fe\u00fa ert l\u00f6ngu b\u00fain a\u00f0 fokka \u00feessu upp",
         "url": "https://open.spotify.com/album/7N40uKJeJtfvjRbp2Gwwx7"
       },
@@ -36570,7 +36834,7 @@
       ],
       "date_added": "2025-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-27",
+      "date_removed": null,
       "duration_ms": 162857,
       "name": "R\u00d3A",
       "url": "https://open.spotify.com/track/1YnOwWvV1bQevRqJMCbYJz"
@@ -36588,7 +36852,7 @@
       ],
       "date_added": "2025-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-29",
       "duration_ms": 162925,
       "name": "R\u00d3A",
       "url": "https://open.spotify.com/track/4PtgYVIiujBJrNbpWo5jzs"
@@ -39438,7 +39702,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-29",
       "duration_ms": 193282,
       "name": "Sof\u00f0u",
       "url": "https://open.spotify.com/track/51J0zLsmKb265vmylOJGMr"
@@ -40700,6 +40964,24 @@
       "duration_ms": 255915,
       "name": "Sticky (feat. GloRilla, Sexyy Red & Lil Wayne)",
       "url": "https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R"
+    },
+    {
+      "album": {
+        "name": "Still a Little Drunk",
+        "url": "https://open.spotify.com/album/6qOkig9BXbGcPLLm9YYQ9n"
+      },
+      "artists": [
+        {
+          "name": "Capree",
+          "url": "https://open.spotify.com/artist/2BhA4Tcj2heNL0gthDMp3v"
+        }
+      ],
+      "date_added": "2025-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178147,
+      "name": "Still a Little Drunk",
+      "url": "https://open.spotify.com/track/5bLuWXuqefnhxTp0go9wqF"
     },
     {
       "album": {
@@ -42301,6 +42583,24 @@
     },
     {
       "album": {
+        "name": "Dyrnar",
+        "url": "https://open.spotify.com/album/5yjVhol6NpMgJ3kVcKWaWo"
+      },
+      "artists": [
+        {
+          "name": "Birnir",
+          "url": "https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z"
+        }
+      ],
+      "date_added": "2025-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252666,
+      "name": "S\u00e9 ekki eftir neinu",
+      "url": "https://open.spotify.com/track/7KjyoKx0xMO0Dxkn0joqCW"
+    },
+    {
+      "album": {
         "name": "S\u00e9ra Shady",
         "url": "https://open.spotify.com/album/5h8JE3yCUHuUXVvlwYrVWm"
       },
@@ -42558,7 +42858,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-29",
       "duration_ms": 99752,
       "name": "S\u00f3lskin",
       "url": "https://open.spotify.com/track/3LP5YM7IMwmffWXPE1VBf1"
@@ -42602,6 +42902,28 @@
       "duration_ms": 139925,
       "name": "S\u00d6MMER BABY",
       "url": "https://open.spotify.com/track/3REpbx6G5JboAOzZeJXJNS"
+    },
+    {
+      "album": {
+        "name": "Dyrnar",
+        "url": "https://open.spotify.com/album/5yjVhol6NpMgJ3kVcKWaWo"
+      },
+      "artists": [
+        {
+          "name": "Birnir",
+          "url": "https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z"
+        },
+        {
+          "name": "GDRN",
+          "url": "https://open.spotify.com/artist/1FvIWbYLm8dBezbdjucrZb"
+        }
+      ],
+      "date_added": "2025-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202373,
+      "name": "S\u00fdna m\u00e9r",
+      "url": "https://open.spotify.com/track/35SIiZONHSAKFf1iQLfQnI"
     },
     {
       "album": {
@@ -42772,7 +43094,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-29",
       "duration_ms": 323813,
       "name": "Tala minn sk\u00edt",
       "url": "https://open.spotify.com/track/08gGODSrgb09P0yyl9Hx7B"
@@ -45843,6 +46165,24 @@
     },
     {
       "album": {
+        "name": "Dyrnar",
+        "url": "https://open.spotify.com/album/5yjVhol6NpMgJ3kVcKWaWo"
+      },
+      "artists": [
+        {
+          "name": "Birnir",
+          "url": "https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z"
+        }
+      ],
+      "date_added": "2025-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196080,
+      "name": "T\u00e9kkland",
+      "url": "https://open.spotify.com/track/2vnXiIFLrTZafND3nLar57"
+    },
+    {
+      "album": {
         "name": "Brat",
         "url": "https://open.spotify.com/album/705ULz5Chxa6TFQOIH14Ae"
       },
@@ -46326,7 +46666,7 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-29",
       "duration_ms": 182088,
       "name": "undressed",
       "url": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"
@@ -47206,7 +47546,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-29",
       "duration_ms": 169870,
       "name": "Vitamin",
       "url": "https://open.spotify.com/track/2bk8MeKPbwWc9Iwv4qjz7U"
@@ -47406,6 +47746,28 @@
       "duration_ms": 211133,
       "name": "VOODOO (feat. Kodak Black)",
       "url": "https://open.spotify.com/track/39YXI3na4MIpVZhJj3GFi7"
+    },
+    {
+      "album": {
+        "name": "Dyrnar",
+        "url": "https://open.spotify.com/album/5yjVhol6NpMgJ3kVcKWaWo"
+      },
+      "artists": [
+        {
+          "name": "Birnir",
+          "url": "https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z"
+        },
+        {
+          "name": "Aron Can",
+          "url": "https://open.spotify.com/artist/4jfe3cL8wzjPxD9CViP2dW"
+        }
+      ],
+      "date_added": "2025-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200106,
+      "name": "Vopn",
+      "url": "https://open.spotify.com/track/7fc5fotKDfgeD8v0NPEG3g"
     },
     {
       "album": {
@@ -48975,6 +49337,24 @@
     },
     {
       "album": {
+        "name": "Dyrnar",
+        "url": "https://open.spotify.com/album/5yjVhol6NpMgJ3kVcKWaWo"
+      },
+      "artists": [
+        {
+          "name": "Birnir",
+          "url": "https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z"
+        }
+      ],
+      "date_added": "2025-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210813,
+      "name": "Win win",
+      "url": "https://open.spotify.com/track/1uPjJDIpFRnkhr84AQS1on"
+    },
+    {
+      "album": {
         "name": "Win win",
         "url": "https://open.spotify.com/album/3mERfhrWNi18XLnsg9xJOd"
       },
@@ -48986,7 +49366,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-29",
       "duration_ms": 211107,
       "name": "Win win",
       "url": "https://open.spotify.com/track/1N2F5D3sdjY3Ud8QnsnaRu"
@@ -50233,6 +50613,24 @@
     },
     {
       "album": {
+        "name": "Dyrnar",
+        "url": "https://open.spotify.com/album/5yjVhol6NpMgJ3kVcKWaWo"
+      },
+      "artists": [
+        {
+          "name": "Birnir",
+          "url": "https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z"
+        }
+      ],
+      "date_added": "2025-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282186,
+      "name": "\u00c1r \u00f3ttans + tj\u00f6rnin",
+      "url": "https://open.spotify.com/track/2sE3MrqHG6VnN7nfkwkBWK"
+    },
+    {
+      "album": {
         "name": "FAKE BITCH",
         "url": "https://open.spotify.com/album/0qevsoQVmjpNevDDBIgXir"
       },
@@ -51016,6 +51414,28 @@
       "duration_ms": 181000,
       "name": "\u00c9videmment",
       "url": "https://open.spotify.com/track/18ZX6YaDSOopXPRvfIh8DM"
+    },
+    {
+      "album": {
+        "name": "Dyrnar",
+        "url": "https://open.spotify.com/album/5yjVhol6NpMgJ3kVcKWaWo"
+      },
+      "artists": [
+        {
+          "name": "Birnir",
+          "url": "https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z"
+        },
+        {
+          "name": "Tiny",
+          "url": "https://open.spotify.com/artist/7fOVZEkR5UYyvz4EoR2nKy"
+        }
+      ],
+      "date_added": "2025-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345693,
+      "name": "\u00cd allan dag",
+      "url": "https://open.spotify.com/track/2cN5bPuFmUs4xvbor6vu74"
     },
     {
       "album": {
@@ -52004,7 +52424,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-29",
       "duration_ms": 135325,
       "name": "\u00de\u00fa ert",
       "url": "https://open.spotify.com/track/6xsUlQIjfduRdQt88yekZ5"

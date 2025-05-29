@@ -4,7 +4,7 @@
 
 > Bathe in forest sounds and reconnect to nature, with the Japanese practice of shinrin yoku.
 
-228 songs - 11 hr 55 min
+229 songs - 11 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [Rivulet](https://open.spotify.com/track/5g3Yz3pnKESzTApUUhwV5U) | [Tonal Topographies](https://open.spotify.com/artist/7F6XWc2t17ADSbXAzwzQF8) | [Rivulet](https://open.spotify.com/album/6VZUTEpAcrttetZxwcDrBa) | 2:41 | 2025-05-06 |  |
 | [Rumble in Peace](https://open.spotify.com/track/1KVOysjv01sx4N21q102kJ) | [Lula Dreamer](https://open.spotify.com/artist/3YmfABSTczjkjF8EblWWa8) | [Rumble in Peace](https://open.spotify.com/album/3XRcZrKvzaQO3ONBBXof7N) | 2:58 | 2025-01-15 |  |
 | [Sacred Groves](https://open.spotify.com/track/04cZKVBULr2VKl7VwquEUF) | [Forest for Rest](https://open.spotify.com/artist/2ZM2iTRxvp6d9QnnJvKpt3) | [Silent Mind](https://open.spotify.com/album/45La9VqG8XymSR0sul7XAp) | 2:01 | 2022-09-15 |  |
+| [Sanctuary](https://open.spotify.com/track/2YKksuNNjRneaDHplGZkhJ) | [Eldrelder](https://open.spotify.com/artist/3TrVbyS2m9PyOxsjoPos7Z) | [Sanctuary](https://open.spotify.com/album/1Mm91Huwj8XSwn2Z6IqarA) | 3:03 | 2025-05-28 |  |
 | [Sanguine](https://open.spotify.com/track/0jhlHVGBceEn76z6M7uTuC) | [Mei Wyatt](https://open.spotify.com/artist/3dlas5ivLc1UoaGKlWz7ak) | [Sanguine](https://open.spotify.com/album/0yJ6y7fatKw6R47DIhCQxj) | 2:59 | 2024-05-01 |  |
 | [Scots Pine](https://open.spotify.com/track/2Ch4DARTYZSOHgK8yq9e7h) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Scots Pine](https://open.spotify.com/album/30XzQtgzdmpr23G81JvMFJ) | 2:51 | 2025-01-31 |  |
 | [Secrets of the Forest](https://open.spotify.com/track/7rVg5IaSVhulVdXpIUbZcR) | [Zonyoh](https://open.spotify.com/artist/7o9aQXbCxoLm0QqpQX5TZx) | [Secrets of the Forest](https://open.spotify.com/album/1MMXk8aJ4rCi8tBrKXa433) | 2:55 | 2022-09-15 | 2023-09-23 |

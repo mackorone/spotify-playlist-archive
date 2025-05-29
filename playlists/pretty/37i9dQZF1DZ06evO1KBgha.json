@@ -1,12 +1,12 @@
 {
   "description": "This is Kenia Os. The essential tracks, all in one playlist.",
-  "num_followers": 363137,
+  "num_followers": 363184,
   "original_name": "This Is Kenia Os",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDOvAAAAAABhapR78nnW5HzihZoZFNrq",
+  "snapshot_id": "aDUAgAAAAABPW+DnRNXse4eRlQzy4AUv",
   "tracks": [
     {
       "added_at": null,
@@ -499,26 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un Bezito",
-        "url": "https://open.spotify.com/album/73ak0lB4a1hE6glj88jp9b"
-      },
-      "artists": [
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        },
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        }
-      ],
-      "duration_ms": 156734,
-      "name": "Un Bezito",
-      "url": "https://open.spotify.com/track/1SQfMaCmPULmazsql39NTb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Plut\u00f3n",
         "url": "https://open.spotify.com/album/6etaamYe4bL3P9MHoDcMSQ"
       },
@@ -535,6 +515,26 @@
       "duration_ms": 165533,
       "name": "Plut\u00f3n",
       "url": "https://open.spotify.com/track/0w41wEubHTq13Hh4tfRCke"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Un Bezito",
+        "url": "https://open.spotify.com/album/73ak0lB4a1hE6glj88jp9b"
+      },
+      "artists": [
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        },
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        }
+      ],
+      "duration_ms": 156734,
+      "name": "Un Bezito",
+      "url": "https://open.spotify.com/track/1SQfMaCmPULmazsql39NTb"
     },
     {
       "added_at": null,
@@ -751,22 +751,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joder",
-        "url": "https://open.spotify.com/album/4AuyjPAbIqovnGdkiashml"
+        "name": "T\u00edrame Un Hello (Remix)",
+        "url": "https://open.spotify.com/album/5tUPv0bmgylRODlVkL0FGx"
       },
       "artists": [
         {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+          "name": "Ramon Vega",
+          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
         },
         {
-          "name": "Snow Tha Product",
-          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
         }
       ],
-      "duration_ms": 149300,
-      "name": "Joder",
-      "url": "https://open.spotify.com/track/2b5Worm8h9yAJOw2jc4zZp"
+      "duration_ms": 169621,
+      "name": "T\u00edrame Un Hello - Remix",
+      "url": "https://open.spotify.com/track/4Kb3xZkdhXtAwAdQ0yeSSA"
     },
     {
       "added_at": null,
@@ -787,22 +787,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "T\u00edrame Un Hello (Remix)",
-        "url": "https://open.spotify.com/album/5tUPv0bmgylRODlVkL0FGx"
+        "name": "Joder",
+        "url": "https://open.spotify.com/album/4AuyjPAbIqovnGdkiashml"
       },
       "artists": [
         {
-          "name": "Ramon Vega",
-          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
-        },
-        {
           "name": "Kenia Os",
           "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        },
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
         }
       ],
-      "duration_ms": 169621,
-      "name": "T\u00edrame Un Hello - Remix",
-      "url": "https://open.spotify.com/track/4Kb3xZkdhXtAwAdQ0yeSSA"
+      "duration_ms": 149300,
+      "name": "Joder",
+      "url": "https://open.spotify.com/track/2b5Worm8h9yAJOw2jc4zZp"
     },
     {
       "added_at": null,

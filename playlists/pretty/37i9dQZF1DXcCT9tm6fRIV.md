@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCT9tm6fRIV.md) - [plain]
 
 > Disfruta esta fina selección de los mejores Tangos argentinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,505 likes - 80 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,520 likes - 80 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCT9tm6fRIV.md) - [plain]
 | 42 | [La Luz de un Fósforo \- En Vivo](https://open.spotify.com/track/293xyTq2gy7G5PFaMeBbmd) | [Ariel Ardit](https://open.spotify.com/artist/62WLKvGxUiIjMITbNetyR6), [Orquesta Tipica](https://open.spotify.com/artist/04eoPYzcEUkOi9dyDYYUIk) | [A los Cantores \(En Vivo\)](https://open.spotify.com/album/2AN8JN4CJlc1BqgKLQEvvx) | 2:54 |
 | 43 | [Tarde](https://open.spotify.com/track/3NBK1KYBB7K278yKrWugnY) | [Chino Laborde](https://open.spotify.com/artist/5OrKrSqxhTFrtScoJhqLrP), [Federico Mizrahi](https://open.spotify.com/artist/0RcujGrIDwI6n6f9PfWhFt) | [El Tango](https://open.spotify.com/album/7akIfhOcL4nMi4vwILqXsX) | 3:41 |
 | 44 | [Pasional](https://open.spotify.com/track/4UWJSmwJe8qZnXz8KDa6V0) | [Jorge Vázquez](https://open.spotify.com/artist/6wiOHmlihMHpqgiPmYFCab) | [Pasional](https://open.spotify.com/album/57cI3a1ZWB8kCN7FilRmHc) | 3:28 |
-| 45 | [El Corazón al Sur](https://open.spotify.com/track/1sht3HgBWK4yOybGHEGqRE) | [Ines Cuello](https://open.spotify.com/artist/2oSavI1BxsBaEPeMCUfgiW), [Ramón Maschio](https://open.spotify.com/artist/31IEd3TrZZ2wGU94gvGVNh) | [Canciones del Sur](https://open.spotify.com/album/1ZuMiZAxMUM7Q5p3FCKZRy) | 3:25 |
+| 45 | [Un Guiño](https://open.spotify.com/track/2LVMD9R9Og0crKqFLYhoV0) | [Tomi Lago](https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug) | [Un Guiño](https://open.spotify.com/album/3LvWDXnEPWockfH5JIaxkF) | 2:55 |
 | 46 | [Chiquilín de Bachín](https://open.spotify.com/track/2bR0drb2tOaznRIfOTHzwF) | [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk), [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [El Nuevo Rumbo](https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM) | 3:41 |
-| 47 | [Un Guiño](https://open.spotify.com/track/2LVMD9R9Og0crKqFLYhoV0) | [Tomi Lago](https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug) | [Un Guiño](https://open.spotify.com/album/3LvWDXnEPWockfH5JIaxkF) | 2:55 |
+| 47 | [El Corazón al Sur](https://open.spotify.com/track/1sht3HgBWK4yOybGHEGqRE) | [Ines Cuello](https://open.spotify.com/artist/2oSavI1BxsBaEPeMCUfgiW), [Ramón Maschio](https://open.spotify.com/artist/31IEd3TrZZ2wGU94gvGVNh) | [Canciones del Sur](https://open.spotify.com/album/1ZuMiZAxMUM7Q5p3FCKZRy) | 3:25 |
 | 48 | [El Mundo De La Fantasía](https://open.spotify.com/track/4ZdOJD4CAQU4rdh06nhzaF) | [Cacho Castaña](https://open.spotify.com/artist/3lwRbCTt1qmo0QgXUai8ao) | [El Mundo De La Fantasía](https://open.spotify.com/album/3HOIEH3oy2eEjXG2DIEbvD) | 3:27 |
 | 49 | [Adios Pampa mia](https://open.spotify.com/track/4mHp0whXyf80glskjIXqMK) | [Aníbal Troilo](https://open.spotify.com/artist/7zsTaSj1Q4jSCjbj5GtmoN) | [Anibal Troilo \- Cancion desesperada](https://open.spotify.com/album/77OkvaAB1cjgOtxqf3oQIW) | 3:24 |
 | 50 | [En Ese Ayer/Ventarrón](https://open.spotify.com/track/6yzikW529P1w3mwxAoMC3H) | [Susana Rinaldi](https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE) | [En El Underground](https://open.spotify.com/album/6I123wp2nUkU8hiY0vzu7o) | 4:02 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCT9tm6fRIV.md) - [plain]
 | 55 | [Todo Es Amor](https://open.spotify.com/track/1cj8FcBF6bs8mWXqAfwgoH) | [Cristian Chinellato](https://open.spotify.com/artist/3jcTbMxvNkZAzH52lzHsLy) | [Todo Es Amor](https://open.spotify.com/album/2kV8huoq9yaO65m6LeCkl5) | 4:13 |
 | 56 | [Sur](https://open.spotify.com/track/4nHtnFsPM2tOes5jnDC9ZC) | [Omar Mollo](https://open.spotify.com/artist/3gvvM06RykBuIcFpWljUhD) | [Rescatados](https://open.spotify.com/album/226r72g4B8q7rIC2oIhKFy) | 2:57 |
 | 57 | [Muchacha \(ojos de papel\)](https://open.spotify.com/track/6qBGItCcsPzUcAMsPIiSUW) | [Spinettango](https://open.spotify.com/artist/0fzRepdCbhZBArYBGRrszr), [Litto Nebbia](https://open.spotify.com/artist/2SpMjzpc9CfI6WWtwdToiA) | [Muchacha \(ojos de papel\)](https://open.spotify.com/album/32Rrsfqs8OEV3igoRZkDyl) | 3:18 |
-| 58 | [Trenzas](https://open.spotify.com/track/1PXmOgfoM78vdhBjrjrTzu) | [Angelito Martinez](https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2) | [Antología, Vol.2: Viejas Alegrias](https://open.spotify.com/album/3p1lXEENvPdfbtivMxBZbS) | 3:24 |
-| 59 | [Desencuentro](https://open.spotify.com/track/7hpCXzUdgp4I1aX45W7514) | [Chino Laborde](https://open.spotify.com/artist/5OrKrSqxhTFrtScoJhqLrP) | [El Tango](https://open.spotify.com/album/7akIfhOcL4nMi4vwILqXsX) | 2:38 |
+| 58 | [Desencuentro](https://open.spotify.com/track/7hpCXzUdgp4I1aX45W7514) | [Chino Laborde](https://open.spotify.com/artist/5OrKrSqxhTFrtScoJhqLrP) | [El Tango](https://open.spotify.com/album/7akIfhOcL4nMi4vwILqXsX) | 2:38 |
+| 59 | [Trenzas](https://open.spotify.com/track/1PXmOgfoM78vdhBjrjrTzu) | [Angelito Martinez](https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2) | [Antología, Vol.2: Viejas Alegrias](https://open.spotify.com/album/3p1lXEENvPdfbtivMxBZbS) | 3:24 |
 | 60 | [Barrio de Tango \- En Vivo](https://open.spotify.com/track/3d0IYd0xEiXbcS9bCEaWd5) | [Ariel Ardit](https://open.spotify.com/artist/62WLKvGxUiIjMITbNetyR6), [Orquesta Tipica](https://open.spotify.com/artist/04eoPYzcEUkOi9dyDYYUIk) | [A los Cantores \(En Vivo\)](https://open.spotify.com/album/2AN8JN4CJlc1BqgKLQEvvx) | 2:47 |
 | 61 | [Soledad](https://open.spotify.com/track/0H4KhjWDe4TftcaXr6dFru) | [Cucuza Castiello](https://open.spotify.com/artist/3JW0hQELXulJ2LmkPXJAgE), [Kastiello](https://open.spotify.com/artist/5OlTXiWZ4TqLMaqbyUsX6X) | [Castiellos](https://open.spotify.com/album/54xztW047EbGLz0wkr1QST) | 4:01 |
 | 62 | [Cualquiera de Estas Noches](https://open.spotify.com/track/73AB5izFOtarOahEB7oHpJ) | [Romina Balestrino](https://open.spotify.com/artist/4mCEifV4uLTqfnI6gvZf9L), [Guillermo Fernández](https://open.spotify.com/artist/2zzYRIDKcVq20xeBefKO2J) | [Mi Version de los Hechos](https://open.spotify.com/album/63wvYeS5fZLT9VahjapmHv) | 3:53 |

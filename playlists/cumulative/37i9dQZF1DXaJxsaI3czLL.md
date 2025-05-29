@@ -4,7 +4,7 @@
 
 > 眠れない夜も音楽と一緒に。くつろぎながら、入眠効果のある音楽と素敵な夜をゆったりとお過ごし下さい。
 
-476 songs - 1 day 9 hr 36 min
+477 songs - 1 day 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,7 +293,7 @@
 | [この日のこと](https://open.spotify.com/track/4G7qeAp6SBwIUnmvzTUjSh) | [Kazumasa Oda](https://open.spotify.com/artist/2UzjSnmjccLgd1DkvAH5OR) | [early summer 2022](https://open.spotify.com/album/0mv2ejXiEERKAA2iDbGnTs) | 4:34 | 2022-10-20 |  |
 | [さもありなん](https://open.spotify.com/track/5D5K3Giyp427zPZ6cOQmv6) | [Naotaro Moriyama](https://open.spotify.com/artist/31VPfrPEa86aKpD2LT3Ued) | [さもありなん](https://open.spotify.com/album/6B8yGpKG4hIATtbS3ibsHA) | 5:50 | 2023-02-28 | 2024-01-02 |
 | [それでは、](https://open.spotify.com/track/5qGpsL9fCOr1sGYNMmFFtI) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL SERVE ALL](https://open.spotify.com/album/6VJwkUQXD3DnqqUUaxqDzH) | 3:50 | 2022-10-20 | 2022-11-11 |
-| [それでも家族](https://open.spotify.com/track/4iqy8c3PaPQreAfeROJg1E) | [yuma yamaguchi](https://open.spotify.com/artist/4k0moLthcxudxdBCI3SUb8) | [映画「おじいちゃん、死んじゃったって。」　オリジナル・サウンドトラック](https://open.spotify.com/album/0rI3aaQ2Ij6uKwDWyIald8) | 2:02 | 2023-12-12 |  |
+| [それでも家族](https://open.spotify.com/track/4iqy8c3PaPQreAfeROJg1E) | [yuma yamaguchi](https://open.spotify.com/artist/4k0moLthcxudxdBCI3SUb8) | [映画「おじいちゃん、死んじゃったって。」　オリジナル・サウンドトラック](https://open.spotify.com/album/0rI3aaQ2Ij6uKwDWyIald8) | 2:02 | 2023-12-12 | 2025-05-29 |
 | [たとえ・ばさ](https://open.spotify.com/track/7J13ZqrHTqZPI6rzeZS0jz) | [CRCK/LCKS](https://open.spotify.com/artist/1iCsnjNikUpDDGDAxBalTs) | [Double Rift](https://open.spotify.com/album/4GlJPeO448wfQ5E1BDir2Y) | 4:15 | 2024-03-05 |  |
 | [ため息の行方](https://open.spotify.com/track/6GSVtgBJ2bNRicSqQcXg99) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [ゆめ](https://open.spotify.com/album/4d0nnBfxKBJt3evaV4Yssh) | 4:28 | 2022-10-20 | 2023-01-27 |
 | [つぐみ](https://open.spotify.com/track/2r4QuVAiy86mVpxzqoQCCQ) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [THUNDERBIRD](https://open.spotify.com/album/7nNeG1szKiODPoXM2UC3Lg) | 3:58 | 2022-10-20 |  |
@@ -358,6 +358,7 @@
 | [何もない日](https://open.spotify.com/track/6FCZwarxha0XHi78yj46SK) | [波のよう](https://open.spotify.com/artist/6NJMPhL4Va9u2RWjymGYhZ) | [何もない日](https://open.spotify.com/album/6O06OGRhVQc2toEcc4ifQC) | 3:54 | 2024-02-20 | 2025-02-28 |
 | [僕の大切な場所](https://open.spotify.com/track/1rYsjSmIqLcjPPh00rxnmD) | [阿尾茂毅](https://open.spotify.com/artist/5qCuT5yjFSSq17OyrdII1y), [吉川忠英](https://open.spotify.com/artist/1V8Ou6GyjuuLxD6n4Iuymz) | [僕の大切な場所](https://open.spotify.com/album/2AvNvK7uupY5U1EjrvKGAI) | 4:16 | 2023-07-25 | 2023-08-09 |
 | [光のゆくえ](https://open.spotify.com/track/06qgE2CtKpj7iiC4ozgAn2) | [優河 with 魔法バンド](https://open.spotify.com/artist/4Sv6m7DsDWWGEP47BKsJ7Q), [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [月食の夜は](https://open.spotify.com/album/2IzcytCqWORdjCtNYpNc1M) | 4:09 | 2023-03-30 | 2023-06-07 |
+| [劇場](https://open.spotify.com/track/53hfzcJKgWPNFpfjORtTKC) | [Ai Higuchi](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [最悪最愛](https://open.spotify.com/album/3HrPqqK8s7gsSEa7fFHNjv) | 5:58 | 2025-05-22 |  |
 | [北ウイング \-CLASSIC\-](https://open.spotify.com/track/07OiQkDWUwgatxU5WUWxXN) | [Akina Nakamori](https://open.spotify.com/artist/7140bcJ0ZySe314nUfOo1J) | [50th Anniversary Special A Tribute of Hayashi Tetsuji \- Saudade \-](https://open.spotify.com/album/5xsy4iKnYN4g8uM3KWiMLf) | 6:22 | 2023-11-07 |  |
 | [同じ月を見ている](https://open.spotify.com/track/1f0WfgZV9JK1k0e8OpyqML) | [上野大樹](https://open.spotify.com/artist/5YPkOSqagMwjOWf7PLjHNF) | [瀬と瀬](https://open.spotify.com/album/5gWa4l4159qeKUNFDBbmhS) | 4:43 | 2022-10-20 | 2023-03-23 |
 | [名前のない街](https://open.spotify.com/track/6eJetNdi0WMj1BAoqIsX7t) | [Kyrie](https://open.spotify.com/artist/1W3oa2UIRtBlQSPwszyIWu), [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [名前のない街](https://open.spotify.com/album/3hN8H85mT5RFr2IyXrpCfJ) | 4:11 | 2023-09-19 | 2024-02-07 |

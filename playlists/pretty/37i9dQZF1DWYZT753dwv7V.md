@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZT753dwv7V.md) - [plain]
 
 > I più grandi successi della storia del festival 🏆
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,895 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,900 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZT753dwv7V.md) - [plain]
 | 49 | [Per Un Milione](https://open.spotify.com/track/4QkibOQBBrpdsCgZBpSlgQ) | [Boomdabash](https://open.spotify.com/artist/4mAsWDGLUIEdo6imU77WG6) | [Per Un Milione](https://open.spotify.com/album/2hMifnfGsH7W1cPNR8G8sH) | 2:54 |
 | 50 | [Senza giacca e cravatta](https://open.spotify.com/track/7DkFHdtNlzHE5gcJT7vGKV) | [Nino D'Angelo](https://open.spotify.com/artist/4xhEhRE75hHgXMeNeeTTsx) | [Stella 'E Matina](https://open.spotify.com/album/70YSojRDllSp9yE0KYOe5P) | 4:14 |
 | 51 | [Lei verrà](https://open.spotify.com/track/1WrT3pRtE32H2lyLPQFJq1) | [Mango](https://open.spotify.com/artist/5iBphIrmXEjfrqiuz5y6pY) | [Odissea](https://open.spotify.com/album/53byQXY8VWsJ8aiVjK6pbI) | 4:05 |
-| 52 | [Per tutta la vita](https://open.spotify.com/track/6zcEnCS2mCYsv9nL356TYY) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [Sulla Mia Pelle](https://open.spotify.com/album/5iVI155wEcVAS0fa9uLkc3) | 3:12 |
-| 53 | [Non voglio mica la luna](https://open.spotify.com/track/0xZGPXJ0vzeWIcVlwI4jY8) | [Fiordaliso](https://open.spotify.com/artist/3O9LDOD9Hutyg1tWnqETgH) | [Fiordaliso](https://open.spotify.com/album/3oBdY9Ue7M2VSMrsBfdN6s) | 4:02 |
+| 52 | [Non voglio mica la luna](https://open.spotify.com/track/0xZGPXJ0vzeWIcVlwI4jY8) | [Fiordaliso](https://open.spotify.com/artist/3O9LDOD9Hutyg1tWnqETgH) | [Fiordaliso](https://open.spotify.com/album/3oBdY9Ue7M2VSMrsBfdN6s) | 4:02 |
+| 53 | [Per tutta la vita](https://open.spotify.com/track/6zcEnCS2mCYsv9nL356TYY) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [Sulla Mia Pelle](https://open.spotify.com/album/5iVI155wEcVAS0fa9uLkc3) | 3:12 |
 | 54 | [Vacanze Romane \- 1991 Remaster](https://open.spotify.com/track/4PRdGQsEQeqvfYZTPN6pDC) | [Matia Bazar](https://open.spotify.com/artist/449mAbddAC2PAgNM3TLyc5) | [Tango \(1991 \- Remaster\)](https://open.spotify.com/album/6vtR5awftB25quBXs42aA3) | 4:12 |
 | 55 | [Amore Di Plastica](https://open.spotify.com/track/4Phog5jQ2VeTPevfFH0UcH) | [Carmen Consoli](https://open.spotify.com/artist/6C3OLzdOvBI9yCOCf7iC4E) | [Due Parole](https://open.spotify.com/album/5uNzCs9eLmDcUn7DtZvhq7) | 4:04 |
 | 56 | [Barbara](https://open.spotify.com/track/7vJs8fgxF2ONlzaIApPadv) | [Enzo Carella](https://open.spotify.com/artist/5OJ0DNeHpHq7b6fHWRaPp9) | [Barbara e altri Carella](https://open.spotify.com/album/21F0EWtwLcajf9MFKn1Tdo) | 4:06 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZT753dwv7V.md) - [plain]
 | 74 | [Glicine](https://open.spotify.com/track/7g1MeIDCN0R36wi4bNarbN) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [Glicine](https://open.spotify.com/album/1zKdr84teaXQZuQiOUjscD) | 3:37 |
 | 75 | [Per sentirmi vivo](https://open.spotify.com/track/5U3ln41nbhztweY70Mv5b3) | [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [Per sentirmi vivo](https://open.spotify.com/album/5owbVnzLpbq9SlftvHXjTa) | 2:59 |
 | 76 | [Andamento lento](https://open.spotify.com/track/5HAri7dfAKqA7vTAt8vwMB) | [Tullio De Piscopo](https://open.spotify.com/artist/677NtrMPiyPumrSUs8lBKk) | [1998…e I miei grandi successi](https://open.spotify.com/album/4Vas2bDBwoX9SmeJ9ucL1Q) | 4:16 |
-| 77 | [Senza farlo apposta](https://open.spotify.com/track/4rwKn954sAK61ojiPVIxuP) | [Shade](https://open.spotify.com/artist/1xqolkIzTFMmqgCuD48WNt), [Federica Carta](https://open.spotify.com/artist/0vQk2DnpCtSLT8QeMbCE6L) | [Senza farlo apposta](https://open.spotify.com/album/20wgQyzYFfr0OS9CCqmvbz) | 3:35 |
-| 78 | [Quelli Che Non Hanno Età \- Gabry Ponte Power Cut](https://open.spotify.com/track/2mz1KvlR3aHoLSJTdh1nwR) | [Eiffel 65](https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Eiffel 65 \(Italian Album\)](https://open.spotify.com/album/1JhmNKRWia4bEo6IH8AFpg) | 3:59 |
+| 77 | [Quelli Che Non Hanno Età \- Gabry Ponte Power Cut](https://open.spotify.com/track/2mz1KvlR3aHoLSJTdh1nwR) | [Eiffel 65](https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Eiffel 65 \(Italian Album\)](https://open.spotify.com/album/1JhmNKRWia4bEo6IH8AFpg) | 3:59 |
+| 78 | [Senza farlo apposta](https://open.spotify.com/track/4rwKn954sAK61ojiPVIxuP) | [Shade](https://open.spotify.com/artist/1xqolkIzTFMmqgCuD48WNt), [Federica Carta](https://open.spotify.com/artist/0vQk2DnpCtSLT8QeMbCE6L) | [Senza farlo apposta](https://open.spotify.com/album/20wgQyzYFfr0OS9CCqmvbz) | 3:35 |
 | 79 | [Ringo Starr](https://open.spotify.com/track/17j76Q3fmROd2eL4M7Vira) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Ringo Starr](https://open.spotify.com/album/7Li84Fi6QLiE5SAlsruDwS) | 3:03 |
 | 80 | [Ciao amore, ciao](https://open.spotify.com/track/388Rzi0ggGLhG20fZnssLS) | [Luigi Tenco](https://open.spotify.com/artist/4F9VFl80sWpvTfXwLJZbhK) | [Luigi Tenco \- I Miti](https://open.spotify.com/album/1m1azdRUDmvSw5TcixliW3) | 3:04 |
 | 81 | [Cosa hai messo nel caffè?](https://open.spotify.com/track/2BTvcx218RPaIXyH5Gz3xa) | [Riccardo Del Turco](https://open.spotify.com/artist/26YwzAEW3kihviypkZpOfq) | [Riccardo Del Turco](https://open.spotify.com/album/4yn8guJVqtimO17DbpdsEO) | 3:33 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZT753dwv7V.md) - [plain]
 | 95 | [Salirò](https://open.spotify.com/track/0Oheso9xvbCsZc6rzZjaWe) | [Daniele Silvestri](https://open.spotify.com/artist/6q8f3fxaWqkXzkbxtKOzYF) | [Monetine](https://open.spotify.com/album/3mfahOk88mQBdYnbLfT7GZ) | 3:57 |
 | 96 | [Contessa \- Original Version 1980](https://open.spotify.com/track/0CWJIpU0D8Bk78H1k7ELC6) | [Decibel](https://open.spotify.com/artist/0wSk7M2UXea9whwjDzmK4R) | [Le origini \- Gli anni d'oro \(1978 \- 1982\)](https://open.spotify.com/album/3u9mKrMogJjg9W0Y8tYKMH) | 3:03 |
 | 97 | [Il ballo delle incertezze](https://open.spotify.com/track/35JwSMQXtHyTKPTcpXF07P) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [Il ballo delle incertezze](https://open.spotify.com/album/3AGmokaneh8qA9rA5HshFM) | 3:25 |
-| 98 | [Dio come ti amo!](https://open.spotify.com/track/0QceOqQ2vmiRfCjJwgHwqA) | [Domenico Modugno](https://open.spotify.com/artist/4llklDtTTyMYMY2LfFOkTI) | [Domenico Modugno](https://open.spotify.com/album/1O5m1zuWVPyD0g7MwHDYMp) | 2:31 |
-| 99 | [Il mondo prima di te](https://open.spotify.com/track/6dNtIe63iTj60GXprm8H4j) | [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [Il mondo prima di te](https://open.spotify.com/album/4FuHwClY6AO9CEyCigVoXJ) | 3:40 |
+| 98 | [Il mondo prima di te](https://open.spotify.com/track/6dNtIe63iTj60GXprm8H4j) | [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [Il mondo prima di te](https://open.spotify.com/album/4FuHwClY6AO9CEyCigVoXJ) | 3:40 |
+| 99 | [Dio come ti amo!](https://open.spotify.com/track/0QceOqQ2vmiRfCjJwgHwqA) | [Domenico Modugno](https://open.spotify.com/artist/4llklDtTTyMYMY2LfFOkTI) | [Domenico Modugno](https://open.spotify.com/album/1O5m1zuWVPyD0g7MwHDYMp) | 2:31 |
 | 100 | [Cosa ti aspetti da me](https://open.spotify.com/track/7CwSOlR99SUUjNrO4qbAXj) | [Loredana Bertè](https://open.spotify.com/artist/2XpUprTohaksHpVjUtTvlx) | [Cosa ti aspetti da me](https://open.spotify.com/album/10H82zO9BPH0aJSpaqu1hC) | 3:44 |
 
 Snapshot ID: `Z74/WQAAAAACDgRYbfQLP9N2QwAoBCNi`

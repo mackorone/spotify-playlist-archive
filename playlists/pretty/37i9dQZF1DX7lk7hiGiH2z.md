@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Endlich Frühling mit allen Songs für längere Tage!
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,058 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,059 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 29 | [Auf einem Baum ein Kuckuck saß](https://open.spotify.com/track/3oaIwfVQsGt51yZo8Q7xTQ) | [herrH](https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ) | [Kinderlieder \- umgedacht & neu gemacht](https://open.spotify.com/album/5LxOg4MpWy6twmQeBZ7kT8) | 2:20 |
 | 30 | [Alle Vögel sind schon da](https://open.spotify.com/track/3o1gtPqPPleF3uz4OEXI9a) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [Bei uns in der Kita \- 22 Lieder im Frühling + Sommer](https://open.spotify.com/album/7oe96EpBKDY6iAKkjHXmCc) | 1:48 |
 | 31 | [A, B, C, das Häschen sitzt im Klee](https://open.spotify.com/track/1oFKQ9dnl9tgAXok64HZ4E) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Oster\- und Frühlingslieder](https://open.spotify.com/album/2TXXHQA4FgXkfQ1JjGOpDi) | 2:17 |
-| 32 | [Vogelhochzeit](https://open.spotify.com/track/5DNeogMzMBjMerArPIpKaG) | [Jasmin Wagner](https://open.spotify.com/artist/3mhDn4XA9GYZ8qR5spf0kG), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen 7 \- Die große Geburtstagsfeier \(Party mit Schlagerstars\)](https://open.spotify.com/album/6YZONXa0vRpQoqNBclZtIy) | 2:28 |
-| 33 | [Jetzt kommt die Biene Maja](https://open.spotify.com/track/1hNHctnuG5O74TamlCXKKY) | [Volker Rosin](https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf) | [Die Biene Maja \- Meine Lieder](https://open.spotify.com/album/2w1GpapewuvarRvXfIuDma) | 3:03 |
+| 32 | [Jetzt kommt die Biene Maja](https://open.spotify.com/track/1hNHctnuG5O74TamlCXKKY) | [Volker Rosin](https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf) | [Die Biene Maja \- Meine Lieder](https://open.spotify.com/album/2w1GpapewuvarRvXfIuDma) | 3:03 |
+| 33 | [Vogelhochzeit](https://open.spotify.com/track/5DNeogMzMBjMerArPIpKaG) | [Jasmin Wagner](https://open.spotify.com/artist/3mhDn4XA9GYZ8qR5spf0kG), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen 7 \- Die große Geburtstagsfeier \(Party mit Schlagerstars\)](https://open.spotify.com/album/6YZONXa0vRpQoqNBclZtIy) | 2:28 |
 | 34 | [Was müssen das für Bäume sein](https://open.spotify.com/track/4ZMiwU7dAYoVyytt3wttAc) | [herrH](https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ) | [Kinderlieder \- umgedacht & neu gemacht](https://open.spotify.com/album/5LxOg4MpWy6twmQeBZ7kT8) | 2:18 |
 | 35 | [Das Farbenlied](https://open.spotify.com/track/3nI8GaZzs3qI28j5tMGqst) | [Lichterkinder](https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv) | [Lern\- und Spaßlieder](https://open.spotify.com/album/3kTGJmOVMtSQYWhASUsaxL) | 3:06 |
 | 36 | [Häschenparty](https://open.spotify.com/track/1nKFydN5UZzLxnHVZrw7MQ) | [Kinderlieder Gang](https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E) | [Häschenparty](https://open.spotify.com/album/4nH4j7jpnzsSUtRweSse1Q) | 2:48 |

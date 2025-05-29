@@ -1,6 +1,6 @@
 {
   "description": "longe dos perigos noturnos",
-  "num_followers": 125038,
+  "num_followers": 125055,
   "original_name": "dengo",
   "owner": {
     "name": "Spotify",
@@ -723,22 +723,6 @@
     {
       "added_at": "2025-04-19 15:17:25",
       "album": {
-        "name": "All Of Me",
-        "url": "https://open.spotify.com/album/2ga0hYHyX3p1N0xEsKh0L8"
-      },
-      "artists": [
-        {
-          "name": "Nao",
-          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
-        }
-      ],
-      "duration_ms": 165038,
-      "name": "All Of Me",
-      "url": "https://open.spotify.com/track/4biivZcnoeiB6vzmdOL6Bg"
-    },
-    {
-      "added_at": "2025-04-19 15:17:25",
-      "album": {
         "name": "Slow (feat. J Valentine)",
         "url": "https://open.spotify.com/album/2URY7aT8Ig8jxhlXK3bWOl"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 200212,
       "name": "Slow (feat. J Valentine)",
       "url": "https://open.spotify.com/track/78t5Br2LpRmlisvBzxE4mZ"
+    },
+    {
+      "added_at": "2025-04-19 15:17:25",
+      "album": {
+        "name": "All Of Me",
+        "url": "https://open.spotify.com/album/2ga0hYHyX3p1N0xEsKh0L8"
+      },
+      "artists": [
+        {
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
+        }
+      ],
+      "duration_ms": 165038,
+      "name": "All Of Me",
+      "url": "https://open.spotify.com/track/4biivZcnoeiB6vzmdOL6Bg"
     },
     {
       "added_at": "2025-04-19 15:17:25",
@@ -795,22 +795,6 @@
     {
       "added_at": "2025-04-19 15:17:25",
       "album": {
-        "name": "Dreamsoul Ballads",
-        "url": "https://open.spotify.com/album/4YDB8xoCS8aCo93B5SfPCK"
-      },
-      "artists": [
-        {
-          "name": "Devin Morrison",
-          "url": "https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW"
-        }
-      ],
-      "duration_ms": 237500,
-      "name": "Anita Valentine",
-      "url": "https://open.spotify.com/track/54hEV0SJrVqPi0SePNXKXg"
-    },
-    {
-      "added_at": "2025-04-19 15:17:25",
-      "album": {
         "name": "Seamless (with Kehlani)",
         "url": "https://open.spotify.com/album/0gKMMJm0FAVhgL8HUJdWLV"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 195265,
       "name": "Seamless (with Kehlani)",
       "url": "https://open.spotify.com/track/2UqMwz0vqVDdkLHZrzSLOp"
+    },
+    {
+      "added_at": "2025-04-19 15:17:25",
+      "album": {
+        "name": "Dreamsoul Ballads",
+        "url": "https://open.spotify.com/album/4YDB8xoCS8aCo93B5SfPCK"
+      },
+      "artists": [
+        {
+          "name": "Devin Morrison",
+          "url": "https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW"
+        }
+      ],
+      "duration_ms": 237500,
+      "name": "Anita Valentine",
+      "url": "https://open.spotify.com/track/54hEV0SJrVqPi0SePNXKXg"
     },
     {
       "added_at": "2025-04-19 15:17:25",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2025-04-19 15:17:25",
       "album": {
-        "name": "Hidden Beach Presents: The Original Jill Scott - from the vault, Vol. 1 (Deluxe)",
-        "url": "https://open.spotify.com/album/1lITHni4gjJUFgpH1J9rng"
+        "name": "No Love Song",
+        "url": "https://open.spotify.com/album/3wur4O6bZGh647ZJzXSsct"
       },
       "artists": [
         {
-          "name": "Jill Scott",
-          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+          "name": "Children of Zeus",
+          "url": "https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z"
         }
       ],
-      "duration_ms": 235000,
-      "name": "Wake Up Baby",
-      "url": "https://open.spotify.com/track/30c0CcK6RVr8tX8B19M3AW"
+      "duration_ms": 239173,
+      "name": "No Love Song",
+      "url": "https://open.spotify.com/track/1w51c5zq4Wr2jgGGBeeSbW"
     },
     {
       "added_at": "2025-04-19 15:17:25",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2025-04-19 15:17:25",
       "album": {
+        "name": "Hidden Beach Presents: The Original Jill Scott - from the vault, Vol. 1 (Deluxe)",
+        "url": "https://open.spotify.com/album/1lITHni4gjJUFgpH1J9rng"
+      },
+      "artists": [
+        {
+          "name": "Jill Scott",
+          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Wake Up Baby",
+      "url": "https://open.spotify.com/track/30c0CcK6RVr8tX8B19M3AW"
+    },
+    {
+      "added_at": "2025-04-19 15:17:25",
+      "album": {
         "name": "The Beauty Created",
         "url": "https://open.spotify.com/album/5WHjXhxponqkW8TQoNzttR"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 271453,
       "name": "Come To My Room",
       "url": "https://open.spotify.com/track/1GkOOo0eZng6Q4zZ6rfAvj"
-    },
-    {
-      "added_at": "2025-04-19 15:17:25",
-      "album": {
-        "name": "No Love Song",
-        "url": "https://open.spotify.com/album/3wur4O6bZGh647ZJzXSsct"
-      },
-      "artists": [
-        {
-          "name": "Children of Zeus",
-          "url": "https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z"
-        }
-      ],
-      "duration_ms": 239173,
-      "name": "No Love Song",
-      "url": "https://open.spotify.com/track/1w51c5zq4Wr2jgGGBeeSbW"
     },
     {
       "added_at": "2025-04-19 15:17:25",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2025-04-19 15:17:25",
       "album": {
-        "name": "Standards",
-        "url": "https://open.spotify.com/album/4LKUDSVzFa5P0CiOXtJNEJ"
-      },
-      "artists": [
-        {
-          "name": "Keke Palmer",
-          "url": "https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq"
-        }
-      ],
-      "duration_ms": 186294,
-      "name": "Standards",
-      "url": "https://open.spotify.com/track/5m0X50W9ga5qghnXzeKNSe"
-    },
-    {
-      "added_at": "2025-04-19 15:17:25",
-      "album": {
         "name": "Eventually Pt. 1",
         "url": "https://open.spotify.com/album/2lF9k8tmdXYRj36Qwrn3tQ"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 236493,
       "name": "ILM",
       "url": "https://open.spotify.com/track/7aiVxe226qNgGf16rsv9Ip"
+    },
+    {
+      "added_at": "2025-04-19 15:17:25",
+      "album": {
+        "name": "Standards",
+        "url": "https://open.spotify.com/album/4LKUDSVzFa5P0CiOXtJNEJ"
+      },
+      "artists": [
+        {
+          "name": "Keke Palmer",
+          "url": "https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq"
+        }
+      ],
+      "duration_ms": 186294,
+      "name": "Standards",
+      "url": "https://open.spotify.com/track/5m0X50W9ga5qghnXzeKNSe"
     },
     {
       "added_at": "2025-04-19 15:17:25",

@@ -4,7 +4,7 @@
 
 > Dip your feet in the pool and enjoy this perfect summer house mix ☀️
 
-419 songs - 22 hr 4 min
+420 songs - 22 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Cruel Summer \(Marcus Layton Edit\)](https://open.spotify.com/track/4yg4e6LkbEzc3sA0bE0GYg) | [LAUWE](https://open.spotify.com/artist/1pEZZUBRto2Tid1aaFOzQK), [Marcus Layton](https://open.spotify.com/artist/6JzWgxi0nFzcHq7cqpGbiz) | [Cruel Summer \(Marcus Layton Edit\)](https://open.spotify.com/album/7t4AA6GFMkLfrGlrzcyy4U) | 2:24 | 2022-09-30 | 2025-02-17 |
 | [Cruel Summer \- LP Giobbi Remix](https://open.spotify.com/track/0pjBqAz8GlxGlpaU4W0DxS) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [The Cruelest Summer](https://open.spotify.com/album/1nqF9ybDGwuGl1rVERp5Q4) | 3:12 | 2024-03-15 |  |
 | [Cruise](https://open.spotify.com/track/6wmR2TU2ke8vQP5Hv8TsVq) | [ROYA](https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh) | [Cruise](https://open.spotify.com/album/2SalYuSmYNeLhZ4Eu70v7U) | 2:55 | 2024-08-16 |  |
+| [Crush](https://open.spotify.com/track/422u4065pibZQ0jUl1kJo0) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Crush](https://open.spotify.com/album/1N7K3IIyDpWywAo7hrlHzc) | 3:01 | 2025-05-23 |  |
 | [Currency \(Count On Me\) \(ft Cimafunk and PAMÉ\)](https://open.spotify.com/track/7HkSXmHPXtNtaaosJ4ejVS) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Cimafunk](https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe), [PAMÉ](https://open.spotify.com/artist/5ZSOXLTnZcSjdVCIdjnq03) | [On A Trip](https://open.spotify.com/album/0NmQAh2m9ayLitCrFaIjiN) | 3:17 | 2025-02-14 |  |
 | [Dance With You](https://open.spotify.com/track/2pgAIjDHGyhCiljwR8cHA6) | [Mohtiv](https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG) | [Dance With You](https://open.spotify.com/album/37ON9AutvXnoBSES8QzuIA) | 2:52 | 2024-06-07 | 2024-08-16 |
 | [Dancing In The Lightning](https://open.spotify.com/track/4dCdxOWspPkiAydcdEaYQ3) | [CARSTN](https://open.spotify.com/artist/3Wb1mXnd1hXkGwys5m54YC), [FDVM](https://open.spotify.com/artist/6J0Y4CoGMKL5RyeozHnVKl), [Tyler Sjöström](https://open.spotify.com/artist/3JRrxifzOpGOalOfGHEJNB) | [Dancing In The Lightning](https://open.spotify.com/album/0Q1lEnpu0dhnJGzSEOdXvZ) | 3:05 | 2022-07-08 | 2022-09-10 |
@@ -276,7 +277,7 @@
 | [On My Mind \- Enzo is Burning Remix](https://open.spotify.com/track/6OYWH6FZgixV7e7VN14neq) | [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive), [Ronnie Spiteri](https://open.spotify.com/artist/7tH1Y2LeCe2LUxvru8y7Df), [Enzo is Burning](https://open.spotify.com/artist/2KIWGryAlZJj1PwpdRTDCB) | [On My Mind \(Enzo is Burning Remix\)](https://open.spotify.com/album/1LDeKZgXNEW6gkUvLykMkN) | 2:42 | 2024-07-09 |  |
 | [One and Only \- AseMix](https://open.spotify.com/track/45VHi1pZE1NKeBuoPGTsZj) | [Ase](https://open.spotify.com/artist/6NUvHOofq46GTsvTU8jiYe) | [One and Only \(AseMix\)](https://open.spotify.com/album/0bpCNqt5p9ejztrQrXQVgc) | 4:02 | 2022-08-05 | 2024-06-13 |
 | [One More Night](https://open.spotify.com/track/5uIXRf0nKHHWbJ2jVGlRoU) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Easton Corbin](https://open.spotify.com/artist/070kGpqtESdDsLb3gdMIyx) | [One More Night](https://open.spotify.com/album/437pHGBe6cnnxyEdZrbMvo) | 2:37 | 2021-10-29 | 2022-03-22 |
-| [Only You](https://open.spotify.com/track/2LMKaaPc48a48HIB5dmFmR) | [Oden & Fatzo](https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH), [THEOS](https://open.spotify.com/artist/1hfqK3rF48A3CDcV8SAiyM), [Noa Milee](https://open.spotify.com/artist/2CvZc8HOLU2V2ykXCUlaC4) | [Only You](https://open.spotify.com/album/7cWLkwgHZo7jtIpzlsQCeD) | 2:47 | 2025-03-05 |  |
+| [Only You](https://open.spotify.com/track/2LMKaaPc48a48HIB5dmFmR) | [Oden & Fatzo](https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH), [THEOS](https://open.spotify.com/artist/1hfqK3rF48A3CDcV8SAiyM), [Noa Milee](https://open.spotify.com/artist/2CvZc8HOLU2V2ykXCUlaC4) | [Only You](https://open.spotify.com/album/7cWLkwgHZo7jtIpzlsQCeD) | 2:47 | 2025-03-05 | 2025-05-29 |
 | [Opened Up My Soul](https://open.spotify.com/track/5ECDg47YFFUqFbyhoQdLtV) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6), [RSCL](https://open.spotify.com/artist/5pkU7zjIzHgfN1n91e51r3) | [Opened Up My Soul](https://open.spotify.com/album/3HlS6pRxpCD6PoLvTsJ2Lu) | 2:20 | 2024-06-07 | 2025-02-15 |
 | [Original Sin](https://open.spotify.com/track/722zMk3C41DINBNBYh7iI9) | [Steam Phunk](https://open.spotify.com/artist/4cRXBNKXZ5vfw2IidDobcZ), [SOUNDR](https://open.spotify.com/artist/0YnlfML5Nu6DrpCshXMH0X) | [Original Sin](https://open.spotify.com/album/2JctLsvJUzExj3yeROAvn9) | 2:39 | 2021-10-29 | 2022-03-04 |
 | [Overtime](https://open.spotify.com/track/3DMC7dgQwLQbT8JifXkZGZ) | [LIMONADE](https://open.spotify.com/artist/0MJJvDrHdl7GGYostfweWJ) | [Overtime](https://open.spotify.com/album/1waOiFKqMNr9njpKn3YBcZ) | 2:23 | 2023-06-16 | 2023-07-01 |

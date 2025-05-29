@@ -4,7 +4,7 @@
 
 > ☕️☕️ espresso macchiato por favore ☕️☕️
 
-1,616 songs - 3 day 13 hr 9 min
+1,617 songs - 3 day 13 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,6 +273,7 @@
 | [CHXSE](https://open.spotify.com/track/4vZCkAXIcD8A050VeirCwj) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [BEAUTY IN DEATH \(DELUXE EDITION\)](https://open.spotify.com/album/4tb9KRJe8FNjYIRbvtGTG5) | 3:29 | 2022-05-19 | 2025-01-08 |
 | [cinderella's dead](https://open.spotify.com/track/5MWXOo8DJwgODtPGaietNz) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [cinderella's dead](https://open.spotify.com/album/7xynMeclusR20e0CXvvSOS) | 2:00 | 2022-05-19 | 2025-01-08 |
 | [Classic](https://open.spotify.com/track/6FE2iI43OZnszFLuLtvvmg) | [MKTO](https://open.spotify.com/artist/2l35CQqtYRh3d8ZIiBep4v) | [MKTO](https://open.spotify.com/album/5IenxFp0vpnXBUxPcwJtbE) | 2:55 | 2022-05-19 | 2022-10-29 |
+| [cliché](https://open.spotify.com/track/3aD33slymVwdEcdbKUBnDu) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [cliché](https://open.spotify.com/album/2zCyRKoQozz3iTdTi3o8mi) | 2:56 | 2025-05-28 |  |
 | [Close To You](https://open.spotify.com/track/5MPi9e7z46wopyad10R6qx) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Close To You](https://open.spotify.com/album/2gxGzfvXQvjVbQiuVcfKDM) | 3:45 | 2024-06-06 | 2024-06-13 |
 | [Clouds \- Sped Up](https://open.spotify.com/track/1Y3mJh7oVvOaDomsnpw8P1) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Clouds](https://open.spotify.com/album/5ll0DBe2cSrSWiCSZ8IYXR) | 2:24 | 2023-03-17 | 2025-01-08 |
 | [Club Banger](https://open.spotify.com/track/5WCksBebNJWqdsDQnHHf71) | [Donzo x Mitchi](https://open.spotify.com/artist/6vyyCB5qh4EXjfz9Rpo2iv) | [Club Banger](https://open.spotify.com/album/43nu3jm3j6L3Gyzxn2UNjx) | 3:06 | 2022-06-27 | 2025-01-08 |

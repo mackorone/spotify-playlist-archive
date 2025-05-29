@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"https://loremandfriends.substack.com/p/put-me-on-a-porch-with-a-crispy-beverage\">Check out our May newsletter!</a> Cover: Smerz",
-  "num_followers": 1181307,
+  "num_followers": 1181422,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDCr8gAAAADiS46sX97eWYca3oHv25hq",
+  "snapshot_id": "aDdgRQAAAACSeBijyGUr0hTHaM5B5BFm",
   "tracks": [
     {
       "added_at": "2025-05-22 19:34:41",
@@ -59,22 +59,6 @@
     {
       "added_at": "2025-05-23 04:00:33",
       "album": {
-        "name": "Big city life",
-        "url": "https://open.spotify.com/album/6C14WjZp4TYn9AXkhdx5Qd"
-      },
-      "artists": [
-        {
-          "name": "Smerz",
-          "url": "https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI"
-        }
-      ],
-      "duration_ms": 128437,
-      "name": "Big city life",
-      "url": "https://open.spotify.com/track/02DduZyB33c2EpkSx2Zr4C"
-    },
-    {
-      "added_at": "2025-05-23 04:00:33",
-      "album": {
         "name": "Emo Regulation",
         "url": "https://open.spotify.com/album/1pir4aOKWF8N3AosfKsRgk"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 143500,
       "name": "Emo Regulation",
       "url": "https://open.spotify.com/track/4PjdsrYAb9CWjbtT9RUwi3"
+    },
+    {
+      "added_at": "2025-05-22 19:27:26",
+      "album": {
+        "name": "LOOK OUT FOR ME",
+        "url": "https://open.spotify.com/album/0BUO6QDa4EBoVuMumIaAza"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "duration_ms": 287159,
+      "name": "NEVER ENOUGH",
+      "url": "https://open.spotify.com/track/645zFwzeoDoEkkSLgup2oq"
     },
     {
       "added_at": "2025-05-16 04:00:33",
@@ -113,20 +113,36 @@
       "url": "https://open.spotify.com/track/7xHap3EOHq2Qn8OQhCpfgW"
     },
     {
-      "added_at": "2025-05-22 19:27:26",
+      "added_at": "2025-03-13 17:25:37",
       "album": {
-        "name": "LOOK OUT FOR ME",
-        "url": "https://open.spotify.com/album/0BUO6QDa4EBoVuMumIaAza"
+        "name": "Object Permanence (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2wupSocGm47JxOKTZtStrw"
       },
       "artists": [
         {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+          "name": "Sophia Stel",
+          "url": "https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex"
         }
       ],
-      "duration_ms": 287159,
-      "name": "NEVER ENOUGH",
-      "url": "https://open.spotify.com/track/645zFwzeoDoEkkSLgup2oq"
+      "duration_ms": 203093,
+      "name": "I'll Take It",
+      "url": "https://open.spotify.com/track/0FAlG6uOeaXWuRdDxaeIQY"
+    },
+    {
+      "added_at": "2025-04-28 18:26:23",
+      "album": {
+        "name": "Rivet Gun",
+        "url": "https://open.spotify.com/album/0DAG064jI5VUY0CAWDYZG2"
+      },
+      "artists": [
+        {
+          "name": "Mother Soki",
+          "url": "https://open.spotify.com/artist/08W3G3y83p0TLqqjiyKXBk"
+        }
+      ],
+      "duration_ms": 137633,
+      "name": "Rivet Gun",
+      "url": "https://open.spotify.com/track/5MAJGAdzKex0Z8Po7GwS4e"
     },
     {
       "added_at": "2025-05-23 04:00:33",
@@ -143,6 +159,38 @@
       "duration_ms": 103520,
       "name": "Super",
       "url": "https://open.spotify.com/track/4u5hMlAk0FpBsgReJ7Rpfy"
+    },
+    {
+      "added_at": "2025-05-23 04:00:33",
+      "album": {
+        "name": "Big city life",
+        "url": "https://open.spotify.com/album/6C14WjZp4TYn9AXkhdx5Qd"
+      },
+      "artists": [
+        {
+          "name": "Smerz",
+          "url": "https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI"
+        }
+      ],
+      "duration_ms": 128437,
+      "name": "Big city life",
+      "url": "https://open.spotify.com/track/02DduZyB33c2EpkSx2Zr4C"
+    },
+    {
+      "added_at": "2025-05-23 04:00:33",
+      "album": {
+        "name": "Tomorrow is Perfect",
+        "url": "https://open.spotify.com/album/7gVnv19lJakKUMCTYZ7BXq"
+      },
+      "artists": [
+        {
+          "name": "mark william lewis",
+          "url": "https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k"
+        }
+      ],
+      "duration_ms": 381560,
+      "name": "Tomorrow is Perfect",
+      "url": "https://open.spotify.com/track/3LY1CZhWdfHezDSmZSLfrC"
     },
     {
       "added_at": "2025-05-23 04:00:33",
@@ -177,20 +225,36 @@
       "url": "https://open.spotify.com/track/48FUVeDwsngzzJqJx4MUoo"
     },
     {
-      "added_at": "2025-05-23 04:00:33",
+      "added_at": "2025-05-28 19:13:09",
       "album": {
-        "name": "rats",
-        "url": "https://open.spotify.com/album/3XUbVKAHZjOBVKZCkHydfk"
+        "name": "Mietzee",
+        "url": "https://open.spotify.com/album/6aPaVG3tb0UAxgzgVnIdg1"
       },
       "artists": [
         {
-          "name": "Feinte",
-          "url": "https://open.spotify.com/artist/1Oav4xyxBjHug09BPlLReT"
+          "name": "Mietze Conte",
+          "url": "https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN"
         }
       ],
-      "duration_ms": 183014,
-      "name": "Little Victor",
-      "url": "https://open.spotify.com/track/354ZUT1IyCjIAtcrJ302zJ"
+      "duration_ms": 105600,
+      "name": "2000",
+      "url": "https://open.spotify.com/track/50WmaN9G4RyEo6imS11gD5"
+    },
+    {
+      "added_at": "2025-05-22 19:27:26",
+      "album": {
+        "name": "mistake",
+        "url": "https://open.spotify.com/album/6xgMu5oVnuyL4zIemZIX6f"
+      },
+      "artists": [
+        {
+          "name": "lots of hands",
+          "url": "https://open.spotify.com/artist/6sNcyjEVdNlZ0dpgr7EcT9"
+        }
+      ],
+      "duration_ms": 165415,
+      "name": "mistake",
+      "url": "https://open.spotify.com/track/6wjznpOUm54iCCCT6Rgt6R"
     },
     {
       "added_at": "2025-05-09 04:00:06",
@@ -245,22 +309,6 @@
       "url": "https://open.spotify.com/track/4rxStMhSPuwm1QfXwp5zUA"
     },
     {
-      "added_at": "2025-05-22 19:27:26",
-      "album": {
-        "name": "mistake",
-        "url": "https://open.spotify.com/album/6xgMu5oVnuyL4zIemZIX6f"
-      },
-      "artists": [
-        {
-          "name": "lots of hands",
-          "url": "https://open.spotify.com/artist/6sNcyjEVdNlZ0dpgr7EcT9"
-        }
-      ],
-      "duration_ms": 165415,
-      "name": "mistake",
-      "url": "https://open.spotify.com/track/6wjznpOUm54iCCCT6Rgt6R"
-    },
-    {
       "added_at": "2025-05-20 16:42:33",
       "album": {
         "name": "Sincerely,",
@@ -279,34 +327,18 @@
     {
       "added_at": "2025-05-23 04:00:33",
       "album": {
-        "name": "Tomorrow is Perfect",
-        "url": "https://open.spotify.com/album/7gVnv19lJakKUMCTYZ7BXq"
+        "name": "rats",
+        "url": "https://open.spotify.com/album/3XUbVKAHZjOBVKZCkHydfk"
       },
       "artists": [
         {
-          "name": "mark william lewis",
-          "url": "https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k"
+          "name": "Feinte",
+          "url": "https://open.spotify.com/artist/1Oav4xyxBjHug09BPlLReT"
         }
       ],
-      "duration_ms": 381560,
-      "name": "Tomorrow is Perfect",
-      "url": "https://open.spotify.com/track/3LY1CZhWdfHezDSmZSLfrC"
-    },
-    {
-      "added_at": "2025-03-13 17:25:37",
-      "album": {
-        "name": "Object Permanence (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2wupSocGm47JxOKTZtStrw"
-      },
-      "artists": [
-        {
-          "name": "Sophia Stel",
-          "url": "https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex"
-        }
-      ],
-      "duration_ms": 203093,
-      "name": "I'll Take It",
-      "url": "https://open.spotify.com/track/0FAlG6uOeaXWuRdDxaeIQY"
+      "duration_ms": 183014,
+      "name": "Little Victor",
+      "url": "https://open.spotify.com/track/354ZUT1IyCjIAtcrJ302zJ"
     },
     {
       "added_at": "2025-05-16 04:00:33",
@@ -511,22 +543,6 @@
       "duration_ms": 291029,
       "name": "God",
       "url": "https://open.spotify.com/track/1OfFSUu19Or3y03hALZs8t"
-    },
-    {
-      "added_at": "2025-04-28 18:26:23",
-      "album": {
-        "name": "Rivet Gun",
-        "url": "https://open.spotify.com/album/0DAG064jI5VUY0CAWDYZG2"
-      },
-      "artists": [
-        {
-          "name": "Mother Soki",
-          "url": "https://open.spotify.com/artist/08W3G3y83p0TLqqjiyKXBk"
-        }
-      ],
-      "duration_ms": 137633,
-      "name": "Rivet Gun",
-      "url": "https://open.spotify.com/track/5MAJGAdzKex0Z8Po7GwS4e"
     },
     {
       "added_at": "2025-05-09 04:00:06",

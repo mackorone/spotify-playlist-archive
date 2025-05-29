@@ -4,7 +4,7 @@
 
 > Keep calm and focus with ambient electric guitar.
 
-894 songs - 1 day 21 hr 15 min
+897 songs - 1 day 21 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,6 +225,7 @@
 | [Echoes](https://open.spotify.com/track/7w7PBFjwBt01imdfarXDmf) | [Ciel](https://open.spotify.com/artist/0i33HVwcdV58Ci5dI7cfjx) | [Echoes](https://open.spotify.com/album/01XSMp72dKTduhYTRR42am) | 2:50 | 2024-12-18 | 2025-03-15 |
 | [Echoes In The Night](https://open.spotify.com/track/0Y12GuKnIa7ObO8s6E0D9X) | [Hers Lake](https://open.spotify.com/artist/7EqcX6VMuJAQViJqJrL2yA) | [Wild Flowers](https://open.spotify.com/album/1ZC2UZU31y5NrgkCiAkUUO) | 2:58 | 2022-10-21 | 2024-05-12 |
 | [Eclipses](https://open.spotify.com/track/7kgPqo0QdBTtMOI6SlLnLS) | [Miyklo](https://open.spotify.com/artist/2X3Invt8lYGm7czZvFUPCj) | [Eclipses](https://open.spotify.com/album/4VcspTT9a2grd3wZxS7shE) | 2:19 | 2025-01-21 |  |
+| [Eclosion](https://open.spotify.com/track/03VSAx4NPQO6zu2NYSj8Ie) | [Lumen Atlas](https://open.spotify.com/artist/0vDZe8eJxdzdC8EbJRjbKx) | [Eclosion](https://open.spotify.com/album/25HmPblvhLIyo64ch9IMPX) | 2:11 | 2025-05-28 |  |
 | [efflorescence](https://open.spotify.com/track/7qa14fkhxgOwWgJ2cbDTyc) | [Far & Beyond](https://open.spotify.com/artist/3ZfzatnOpZk7jV2TeN76if) | [efflorescence](https://open.spotify.com/album/5gTuNZ0GwWQLNH0YiwsDZr) | 2:23 | 2022-05-25 | 2024-05-12 |
 | [Effortless](https://open.spotify.com/track/3XW2ewe1iNoBlHTYPUi39V) | [Space Access](https://open.spotify.com/artist/1s2VXzYMLAHNVLNohNAmQy) | [Effortless](https://open.spotify.com/album/1qsL6G5Ydy3yzQaXXKjgzx) | 2:47 | 2023-02-03 | 2024-12-05 |
 | [Eidolon](https://open.spotify.com/track/6KuzTwyczjBp1C4f60Y5ID) | [Monocle Twins](https://open.spotify.com/artist/3Ju2hEmz5onAzHRpy4tXe6) | [Eidolon](https://open.spotify.com/album/3Afi3vkyW6PcheDK8O5lsx) | 4:17 | 2020-04-13 | 2022-03-05 |
@@ -413,6 +414,7 @@
 | [Last Night](https://open.spotify.com/track/0mEtQh163dmE6NjbaPqf6o) | [Jedisol](https://open.spotify.com/artist/7kmBZkdNHbYShCHyfyK49b) | [Last Night](https://open.spotify.com/album/4dLc9E2edRxouguIrCA1OX) | 2:07 | 2019-06-19\* | 2023-07-14 |
 | [Last Sun](https://open.spotify.com/track/29ik9cmDBUOv4qjhEuFF53) | [Fjordne](https://open.spotify.com/artist/4Zuhw9hRgeWtX6DLVxxcEh) | [The Setting Sun](https://open.spotify.com/album/3fESTufQEk0WlHw2mIG8iX) | 5:07 | 2019-05-26\* | 2019-06-19 |
 | [Last Sunrise In The Wasteland](https://open.spotify.com/track/3lBPp5qjEjDRFjFV2beh35) | [At The End Of Times, Nothing](https://open.spotify.com/artist/249C09TWxdBKs7Z5BN2MU6) | [Everything We See Will Die](https://open.spotify.com/album/6prMVW3OJCHsRwLYTg6SLa) | 2:49 | 2019-05-26\* | 2020-08-07 |
+| [Latitude](https://open.spotify.com/track/49wbzcnZpd8ySgOP7Vn9Vu) | [Sam Matthew](https://open.spotify.com/artist/6PkYVSB01oeVQJwmfxTd6M) | [Latitude](https://open.spotify.com/album/4TeX6ZH14NxtlVCZ66mnNg) | 2:19 | 2025-05-28 |  |
 | [Laugavegur](https://open.spotify.com/track/4nZSgFwgYUOyWcBX61JY6j) | [Dreyma](https://open.spotify.com/artist/6fhkHJ6kJGHDuypn800e77) | [Laugavegur](https://open.spotify.com/album/2NoslXTFBvgUP5eKbJvPcP) | 3:08 | 2019-09-11 | 2023-08-12 |
 | [Left](https://open.spotify.com/track/08INGrgXm49N3b1cRnXBfF) | [Yume](https://open.spotify.com/artist/4BgMskNNvTm3R0amoQs2eD) | [Left](https://open.spotify.com/album/7Bv4wbKCuyabt6Ec5FZUVi) | 2:42 | 2024-05-11 | 2025-03-15 |
 | [Let Me Keep This Memory](https://open.spotify.com/track/68VSV9DQESOHiEtoPvNK3n) | [U137](https://open.spotify.com/artist/5Js8zUcr9OCEyoWjw3joxY) | [Dreamer on the Run](https://open.spotify.com/album/4dp33vx7vWx93lxuxjNTz2) | 4:00 | 2019-05-26\* | 2019-06-19 |
@@ -524,7 +526,7 @@
 | [Nostalgic Traces](https://open.spotify.com/track/3e2AwUGFYM8FvtfETbTH23) | [Benjamin Martins](https://open.spotify.com/artist/5oqbogYQRxno77NT1FFrt5) | [Nostalgic Traces](https://open.spotify.com/album/5qbDZ0Uet2jnV1PmoOajfE) | 2:51 | 2024-04-07 | 2025-05-07 |
 | [Nothing It Can](https://open.spotify.com/track/4YEKwC3ipNg9LdR02OL8h2) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [Moiety](https://open.spotify.com/album/26bsye3Q78IE7Kees8v8iO) | 4:47 | 2019-05-26\* | 2020-08-07 |
 | [Nova](https://open.spotify.com/track/1l1MKYlytemoS11TVNnxFP) | [Plaice Commes](https://open.spotify.com/artist/103iNifaFqCDUVVglaXb7D) | [Nova](https://open.spotify.com/album/3Fyh3CZ5ADbWg873Fw5Dmx) | 2:51 | 2023-10-13 | 2025-05-07 |
-| [Nova](https://open.spotify.com/track/5TNwSw69tLLBS330aaAXo2) | [Savione](https://open.spotify.com/artist/3BqdrzfJnVqaTOI84wcjVg) | [Nova](https://open.spotify.com/album/3rhyGeZdj1chwYFoq1nvMs) | 2:03 | 2024-07-14 |  |
+| [Nova](https://open.spotify.com/track/5TNwSw69tLLBS330aaAXo2) | [Savione](https://open.spotify.com/artist/3BqdrzfJnVqaTOI84wcjVg) | [Nova](https://open.spotify.com/album/3rhyGeZdj1chwYFoq1nvMs) | 2:03 | 2024-07-14 | 2025-05-29 |
 | [Nova Trace](https://open.spotify.com/track/3fu89sPz9Ueztam8X5LCix) | [Emberwaves](https://open.spotify.com/artist/56QSJQc6Jik15NGJDHk4UH) | [Nova Trace](https://open.spotify.com/album/4xyEZV7XnV3AOFNE3EZ7i5) | 2:10 | 2025-05-21 |  |
 | [Now It's Over\. Now I'm Awake.](https://open.spotify.com/track/1Ho9GnoEXLcl60ZmdOfxzQ) | [LUCHS](https://open.spotify.com/artist/5YNgVaI5vgMjBLel7QShBe) | [Dawning](https://open.spotify.com/album/1AXGMY5gO4VvCefch2R8oh) | 2:20 | 2019-05-26\* | 2020-08-07 |
 | [Nowhere](https://open.spotify.com/track/07niZTYNkvPcw61OX0YSR6) | [Nomad Spector](https://open.spotify.com/artist/5UEm6zWB2OYaYE1y168uEV) | [Nowhere](https://open.spotify.com/album/5o0llJnOIAB6zitBrxrcA6) | 3:25 | 2023-01-27 | 2025-03-01 |
@@ -633,6 +635,7 @@
 | [Safe And Sound](https://open.spotify.com/track/61nBe7BiDRiwqSNZfAjswA) | [Burgundy Skies](https://open.spotify.com/artist/2txYwbS88ztbJYTKGVeUrq) | [Safe And Sound](https://open.spotify.com/album/4dzLEtw4Qusza1go3sfFcf) | 2:49 | 2019-06-19\* | 2020-08-07 |
 | [Santosha](https://open.spotify.com/track/1Lx2eaXNUdvqgO1f70LSrQ) | [Van Sandano](https://open.spotify.com/artist/1ncrVuDd5AG12G0rwAJP8z) | [Yuma](https://open.spotify.com/album/6BIPb7wIRPrkPar5cMawk2) | 2:40 | 2019-06-19\* | 2020-08-07 |
 | [Saoirse](https://open.spotify.com/track/1RiLeuzt9obdImY1RXp5rQ) | [Symon van Gent](https://open.spotify.com/artist/3uskh2B7aDflDsUXjMcyID) | [Saoirse](https://open.spotify.com/album/4yohb3aNNPF9mm9y8WaC2V) | 2:59 | 2019-07-31 | 2022-10-15 |
+| [Sapphire Dust](https://open.spotify.com/track/5FVjQGYh71zgRiO537UQAd) | [Lifou](https://open.spotify.com/artist/30A8LRNZBq4B0GmcpvK0Cc) | [Sapphire Dust](https://open.spotify.com/album/616NOARyfUZuV6MKM1Fg1P) | 2:25 | 2025-05-28 |  |
 | [save the date](https://open.spotify.com/track/0MeFxDLrLaw3n0sSjIXYvn) | [Shape Of Our Dreams](https://open.spotify.com/artist/17QBpw01txiuRtneh0l1tc) | [save the date](https://open.spotify.com/album/2obIyNPkzIdyVTTnndchxT) | 2:44 | 2023-01-13 | 2024-11-22 |
 | [Saving Daylight](https://open.spotify.com/track/0rDXZpaDpGMbT8ON1DxEtT) | [Harvest Silence](https://open.spotify.com/artist/6qtd1ujjnPOMDU5DCDQPuH) | [Saving Daylight](https://open.spotify.com/album/0TaOvFNhMXYGq0uazSxJDy) | 3:26 | 2020-06-19 | 2021-05-06 |
 | [Say No More](https://open.spotify.com/track/6rUs6otgdHJYLA08iliqaE) | [Chris Nordlinger](https://open.spotify.com/artist/7jxfHriBt8rNxGMvvUfJKy) | [Say No More](https://open.spotify.com/album/0c12fGb4SJ00IcQhYAsiJs) | 2:13 | 2025-05-06 |  |
@@ -659,7 +662,7 @@
 | [Signaling Through The Flames](https://open.spotify.com/track/2GS6isvr1UVSIhvjBLX925) | [The American Dollar](https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb) | [The Best of The American Dollar](https://open.spotify.com/album/5x69rnsPKmHQopn2sDM5OX) | 5:18 | 2019-05-26\* | 2019-06-19 |
 | [Silence of Siberia](https://open.spotify.com/track/21cUwlOjOehy98jgn29cTv) | [Lowercase Noises](https://open.spotify.com/artist/7trvyUUXmPhi1StCNYHj4e) | [This Is for Our Sins](https://open.spotify.com/album/0INFpTEPQIavLrDaePgKXW) | 7:26 | 2019-05-26\* | 2019-06-19 |
 | [Silence Speaks Loud](https://open.spotify.com/track/2JOvQXgN7AHMdbEqtCJvdw) | [Far & Beyond](https://open.spotify.com/artist/3ZfzatnOpZk7jV2TeN76if) | [Silence Speaks Loud](https://open.spotify.com/album/54cc5Yh5fNpFbQsLDQOzoy) | 2:50 | 2025-02-07 | 2025-04-24 |
-| [Silhouettes](https://open.spotify.com/track/5yHYbTZQ91fAFqgCkXWcNB) | [Serene Skies](https://open.spotify.com/artist/3S0qJncVtbLRcrgcVflyY9) | [Silhouettes](https://open.spotify.com/album/5lU1KRe0gLFlY3X600b98E) | 2:39 | 2025-01-08 |  |
+| [Silhouettes](https://open.spotify.com/track/5yHYbTZQ91fAFqgCkXWcNB) | [Serene Skies](https://open.spotify.com/artist/3S0qJncVtbLRcrgcVflyY9) | [Silhouettes](https://open.spotify.com/album/5lU1KRe0gLFlY3X600b98E) | 2:39 | 2025-01-08 | 2025-05-29 |
 | [Silk](https://open.spotify.com/track/4wQqXxRKzaf3a9ygWPWEhV) | [Oblivion](https://open.spotify.com/artist/5bay23a7lnykOEQWt7FVnQ) | [Silk](https://open.spotify.com/album/3LHMaOv9nxLwah9u9DtwqK) | 2:16 | 2024-12-04 | 2025-04-24 |
 | [Silk And Honey](https://open.spotify.com/track/1SPPEq7HfS9W1wwGOptNdD) | [Wolfgang Snow](https://open.spotify.com/artist/6FDOmi6UcqTevNjdwQfpsD) | [Silk And Honey](https://open.spotify.com/album/09wtqj1m6Wc3VDkUurll52) | 3:20 | 2019-06-19\* | 2021-09-14 |
 | [Silver Lining](https://open.spotify.com/track/28fBoIuzvYI6uQExWj9DbN) | [Agnes Lundh](https://open.spotify.com/artist/3OJ5pC5H7eYoyow4sXULSt) | [Silver Lining](https://open.spotify.com/album/7sEnE60zm4BGbyeSYKxJAt) | 2:22 | 2022-08-15 | 2023-09-26 |
@@ -834,7 +837,7 @@
 | [Valley Tales](https://open.spotify.com/track/1RnmnjIrfyOtOwGPhzxKHM) | [Jonci](https://open.spotify.com/artist/1fMWwAxizFL0GBDYR4DbDs) | [Valley Tales](https://open.spotify.com/album/6mWis8Ru2ZaQnibpUDws9G) | 3:22 | 2019-06-19\* | 2020-08-07 |
 | [Vanguard](https://open.spotify.com/track/7HcF22m1hFU8lRBLXrJs8e) | [Noah Moon](https://open.spotify.com/artist/6kXZd2PVpbPLWi6P0QQeQ8) | [Vanguard](https://open.spotify.com/album/4FgoFKlCLecAsZIm7GhMLp) | 2:22 | 2025-02-14 |  |
 | [Varberg](https://open.spotify.com/track/5sFdMGaWXdSWYtS93KimeP) | [U137](https://open.spotify.com/artist/5Js8zUcr9OCEyoWjw3joxY) | [Dreamer on the Run](https://open.spotify.com/album/4dp33vx7vWx93lxuxjNTz2) | 2:49 | 2019-05-26\* | 2020-01-09 |
-| [Velmara](https://open.spotify.com/track/7at1x7ejPTjCHuu1DEle83) | [Lumen Atlas](https://open.spotify.com/artist/0vDZe8eJxdzdC8EbJRjbKx) | [Velmara](https://open.spotify.com/album/2iUb0tcILXbM3Ts8ZPjhe3) | 2:27 | 2025-04-23 |  |
+| [Velmara](https://open.spotify.com/track/7at1x7ejPTjCHuu1DEle83) | [Lumen Atlas](https://open.spotify.com/artist/0vDZe8eJxdzdC8EbJRjbKx) | [Velmara](https://open.spotify.com/album/2iUb0tcILXbM3Ts8ZPjhe3) | 2:27 | 2025-04-23 | 2025-05-29 |
 | [Velvet](https://open.spotify.com/track/4Wr3nkfzkpLPOfrBByPuKY) | [Elijah Edwards](https://open.spotify.com/artist/33e4XNrceV0ftUpzWWJWqS) | [Velvet](https://open.spotify.com/album/6XIzqkykvrEu8NICzOms9b) | 2:36 | 2024-12-18 | 2025-04-24 |
 | [Venice](https://open.spotify.com/track/3S1BKVF9Q3lhJ1jOcpkz4G) | [PLVCES](https://open.spotify.com/artist/04cixKonVUpFouuri2mSzC) | [Plvces](https://open.spotify.com/album/1FLOo1YhOnUHHyEezqyNEP) | 3:16 | 2019-06-19\* | 2019-08-13 |
 | [Ventura](https://open.spotify.com/track/3aIidfKAjMwaRTgvY9d0BG) | [City of the Sun](https://open.spotify.com/artist/4DkYxtaASIKQnk4Gj0TB7k) | [Ventura](https://open.spotify.com/album/3WvMUxQ71TR6ocUelhSYHE) | 4:41 | 2019-06-19\* | 2019-12-11 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Barry White. The essential tracks, all in one playlist.",
-  "num_followers": 226729,
+  "num_followers": 226784,
   "original_name": "This Is Barry White",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDOvAAAAAAAhjekXKMkX4FrYidjYGJCr",
+  "snapshot_id": "aDUAgAAAAAAl16Ho6+55brBeLu2z8D/p",
   "tracks": [
     {
       "added_at": null,
@@ -239,22 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Barry White - The Collection",
-        "url": "https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 250493,
-      "name": "I'll Do For You Anything You Want Me To",
-      "url": "https://open.spotify.com/track/5G1UUuiREQXwDfpJaxu3BC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Back On The Block",
         "url": "https://open.spotify.com/album/5DR4gcd3fj3E6XhbPTaF82"
       },
@@ -287,6 +271,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Barry White - The Collection",
+        "url": "https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 250493,
+      "name": "I'll Do For You Anything You Want Me To",
+      "url": "https://open.spotify.com/track/5G1UUuiREQXwDfpJaxu3BC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Man",
         "url": "https://open.spotify.com/album/4QxIEYrQKckIbgKutD2FSR"
       },
@@ -303,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sheet Music",
-        "url": "https://open.spotify.com/album/2ZoY9TwvDoSVXpGQCKyfH2"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 340826,
-      "name": "Lady, Sweet Lady",
-      "url": "https://open.spotify.com/track/10z1bj9T7hpJ9bfIlsHF1s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Barry White Sings For Someone You Love",
         "url": "https://open.spotify.com/album/65orbyfwR353KTYqz3seIu"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 433226,
       "name": "Playing Your Game, Baby",
       "url": "https://open.spotify.com/track/6dwMebV6lVtwFiecdb8aSD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sheet Music",
+        "url": "https://open.spotify.com/album/2ZoY9TwvDoSVXpGQCKyfH2"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 340826,
+      "name": "Lady, Sweet Lady",
+      "url": "https://open.spotify.com/track/10z1bj9T7hpJ9bfIlsHF1s"
     },
     {
       "added_at": null,
@@ -755,6 +755,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stone Gon'",
+        "url": "https://open.spotify.com/album/6fPii3RUZhVIX3qINgHPzR"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 520666,
+      "name": "Girl It's True, Yes I'll Always Love You",
+      "url": "https://open.spotify.com/track/6CweI3ZfhtzvrSza0dOH1r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Barry White's Greatest Hits",
+        "url": "https://open.spotify.com/album/7jvp7VBawevCyY4Rfwknu0"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 190333,
+      "name": "I've Got So Much To Give",
+      "url": "https://open.spotify.com/track/30BIQMWprmAlVae1W4BRBw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pavarotti - The Greatest Hits",
         "url": "https://open.spotify.com/album/2P3b56yTzSqL3HLM25qUq4"
       },
@@ -779,38 +811,6 @@
       "duration_ms": 267106,
       "name": "You're The First, The Last, My Everything - Live",
       "url": "https://open.spotify.com/track/62OKQRxgusW4mvvUwLjGye"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Barry White's Greatest Hits",
-        "url": "https://open.spotify.com/album/7jvp7VBawevCyY4Rfwknu0"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 190333,
-      "name": "I've Got So Much To Give",
-      "url": "https://open.spotify.com/track/30BIQMWprmAlVae1W4BRBw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stone Gon'",
-        "url": "https://open.spotify.com/album/6fPii3RUZhVIX3qINgHPzR"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 520666,
-      "name": "Girl It's True, Yes I'll Always Love You",
-      "url": "https://open.spotify.com/track/6CweI3ZfhtzvrSza0dOH1r"
     },
     {
       "added_at": null,

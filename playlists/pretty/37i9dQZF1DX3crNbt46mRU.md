@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including KAROL G, Alex Warren, Edb, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,834 likes - 99 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,839 likes - 99 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

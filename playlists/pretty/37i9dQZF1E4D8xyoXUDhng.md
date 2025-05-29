@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4D8xyoXUDhng.md) - [plain]
 
 ### [Callie Day Radio](https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng)
 
-> With Sunday Service Choir, Dorothy Norwood, Amber Bullock and more
+> With Sunday Service Choir, Tasha Page\-Lockhart, Chicago Mass Choir and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 245 likes - 50 songs - 4 hr 16 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4D8xyoXUDhng.md) - [plain]
 | 49 | [I Am The One \(Luke 17:11\) \(featuring Nikki Potts & Pastor Destry Bell\)](https://open.spotify.com/track/2DYqRXMNbGJaxjgnJXj9fZ) | [Kurt Carr & The Kurt Carr Singers](https://open.spotify.com/artist/5yoZYhT8x7DXiFl0srkXLQ) | [Just The Beginning](https://open.spotify.com/album/5l6wDu0nuNw6cp3IkBKMZ5) | 8:38 |
 | 50 | [This Is How I'm Telling It Now](https://open.spotify.com/track/2V657fsNLpR0Fg6jafgJPA) | [Mikael Karlsson](https://open.spotify.com/artist/1XNtgBboL5YQGHqM8zFFDx), [Callie Day](https://open.spotify.com/artist/7rq2boa3cUriEls0PJedCH) | [Play \(Original Soundtrack\)](https://open.spotify.com/album/50ke6e7oCuoIAxcHFjuDXz) | 6:41 |
 
-Snapshot ID: `aDaC3QAAAACLg1YyPzdi/BR7rR97yb9Z`
+Snapshot ID: `aDfXQQAAAACXRiES3n0KjG+ieqeap7na`

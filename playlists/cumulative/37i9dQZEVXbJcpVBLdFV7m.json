@@ -1803,6 +1803,24 @@
     },
     {
       "album": {
+        "name": "A\u015fkperest",
+        "url": "https://open.spotify.com/album/2fWCOHMMAq9vZXwjQGMkhp"
+      },
+      "artists": [
+        {
+          "name": "Y\u0131ld\u0131z Tilbe",
+          "url": "https://open.spotify.com/artist/4525TiJDbBD4mZJ7EZArT0"
+        }
+      ],
+      "date_added": "2025-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280560,
+      "name": "A\u015fk Yok Olmakt\u0131r",
+      "url": "https://open.spotify.com/track/0F7e5Ot8PrsdHBW0SmeXi7"
+    },
+    {
+      "album": {
         "name": "A\u015fka \u0130nanmaz",
         "url": "https://open.spotify.com/album/7HPDobtd7ZH2McwQkZkroV"
       },
@@ -1868,7 +1886,7 @@
       ],
       "date_added": "2025-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-28",
+      "date_removed": null,
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
@@ -3560,7 +3578,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-29",
       "duration_ms": 178325,
       "name": "Bur man laimi",
       "url": "https://open.spotify.com/track/5uTiXuGlCU13EFcyawISkW"
@@ -6730,7 +6748,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-25",
+      "date_removed": null,
       "duration_ms": 171034,
       "name": "Egati matskata",
       "url": "https://open.spotify.com/track/3Dv0uWv5LK9wewOrwaj3pb"
@@ -13726,7 +13744,7 @@
       ],
       "date_added": "2025-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-29",
       "duration_ms": 216764,
       "name": "Maski Dolu",
       "url": "https://open.spotify.com/track/32AtsqkEW14KWxixNgoiMZ"
@@ -14258,7 +14276,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-29",
       "duration_ms": 172383,
       "name": "Milkshake Man",
       "url": "https://open.spotify.com/track/1kvxvVdeauiXc5ue0Z3HoS"
@@ -27096,7 +27114,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-29",
       "duration_ms": 184421,
       "name": "Zjerm",
       "url": "https://open.spotify.com/track/1MMfGAHowKNRithYDIRS1k"
@@ -31099,7 +31117,7 @@
     },
     {
       "album": {
-        "name": "\u516b\u65b9\u4f86\u8ca1",
+        "name": "\u516b\u65b9\u4f86\u8ca1(Stacks from All Sides)",
         "url": "https://open.spotify.com/album/5vYWbmWrSSBskg28cRmcjg"
       },
       "artists": [
@@ -31110,9 +31128,9 @@
       ],
       "date_added": "2025-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-21",
+      "date_removed": null,
       "duration_ms": 173037,
-      "name": "\u516b\u65b9\u4f86\u8ca1",
+      "name": "\u516b\u65b9\u4f86\u8ca1(Stacks from All Sides)",
       "url": "https://open.spotify.com/track/7jm2PueKmv4EOHfdbdXMKT"
     },
     {

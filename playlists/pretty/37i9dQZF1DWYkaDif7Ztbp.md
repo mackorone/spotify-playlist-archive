@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 
 > The tracks heating up the continent right now!  Cover: Seyi Vibez
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,676,971 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,677,384 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 | 49 | [Jealousy \(feat\. Leemckrazy & Ceeka RSA\)](https://open.spotify.com/track/6OGNF7mro80pMi5q1HhylS) | [Khalil Harrison](https://open.spotify.com/artist/2zq3Zm57y4TxZRbMZ05CGp), [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4), [LeeMcKrazy](https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg), [Ceeka RSA](https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY) | [Jealousy \(feat\. Leemckrazy & Ceeka RSA\)](https://open.spotify.com/album/0prfEaQxPCu9UqPSnscpoS) | 6:30 |
 | 50 | [Biri Marung \(feat\. Sje Konka, Focalistic, DJ Maphorisa, Scotts Maphuma & CowBoii\)](https://open.spotify.com/track/7MD8gswt08VhFwVF1PR8Mg) | [Mr Pilato](https://open.spotify.com/artist/3qqJxbB40F5AmjBiO4akVa), [Ego Slimflow](https://open.spotify.com/artist/4hADccnhJWKgtjTKues1oy), [Tebogo G Mashego](https://open.spotify.com/artist/3U6tzzUuiMZD64IPkutbjM), [Sje Konka](https://open.spotify.com/artist/1KAE5EFbVnz0RGnj9DdY1l), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Scotts Maphuma](https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS), [CowBoii](https://open.spotify.com/artist/5n0o0t9wgg6uzHqfVd2Yr1) | [Biri Marung \(feat\. Sje Konka, Focalistic, DJ Maphorisa, Scotts Maphuma & CowBoii\)](https://open.spotify.com/album/4Q3RdIIabU5csHjoe8b8Qh) | 7:34 |
 
-Snapshot ID: `aDCdKgAAAAA7704U+1YiyZekZu5qXQ1W`
+Snapshot ID: `aDCdKgAAAADbyDDgb7t29JFBFbFzMn3Q`

@@ -3365,6 +3365,24 @@
     },
     {
       "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/7qSI8zRVFIOUKdENPi03E5"
+      },
+      "artists": [
+        {
+          "name": "Jasper Tygner",
+          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217617,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/72bs66ZAxaeg7GUAVUQzZy"
+    },
+    {
+      "album": {
         "name": "Mountain of Memory (Remixes)",
         "url": "https://open.spotify.com/album/2nqwTmApCiPP6jAAB7ZtDn"
       },
@@ -27578,7 +27596,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-29",
       "duration_ms": 170324,
       "name": "Show Me",
       "url": "https://open.spotify.com/track/7rPKSjPgwWDc8S9toczFgV"

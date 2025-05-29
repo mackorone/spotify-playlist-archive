@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 
 > 兩人成組、三人成團，硬地主流都開花！風格豐富力量大！Cover: 小男孩樂團 \(Men Envy Children\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,176 likes - 76 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,180 likes - 76 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

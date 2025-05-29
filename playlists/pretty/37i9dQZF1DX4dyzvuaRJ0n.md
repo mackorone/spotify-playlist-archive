@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 
 > The world's biggest dance & electronic hits\. Cover: Mau P
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,780,570 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,779,855 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 | 24 | [Nirvana](https://open.spotify.com/track/64jx6PV3hXstEZ7hggGeKw) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Layla Benitez](https://open.spotify.com/artist/3StMSo3rzsZBfuGaGLq3IE), [Max Milner](https://open.spotify.com/artist/0WFFfBGhY0aC6MQiQ1UQi8) | [Nirvana](https://open.spotify.com/album/1ZohrB8KSfWMc0yNkymR93) | 3:42 |
 | 25 | [Can’t Get Enough](https://open.spotify.com/track/6zY829UlOMYoOIULHiGIZz) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K), [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [Can’t Get Enough](https://open.spotify.com/album/3AjPHQqgkjcqwhpRxwiFP2) | 2:45 |
 | 26 | [Borderline](https://open.spotify.com/track/5LrWZ8K4SPr1Qe0ZBqJGTq) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6) | [Borderline](https://open.spotify.com/album/7orKsJO9Qi5l33hosrYYAf) | 1:58 |
-| 27 | [Pressure \- Indira Paganotto Remix](https://open.spotify.com/track/0CesUDLx0Oj2J19HVbQOnd) | [LEGZDINA](https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N), [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Indira Paganotto](https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR) | [Pressure \(Indira Paganotto Remix\)](https://open.spotify.com/album/7bbuWt0xlR3hG7oK9MXQWf) | 4:29 |
+| 27 | [Pressure \- Indira Paganotto Remix](https://open.spotify.com/track/0CesUDLx0Oj2J19HVbQOnd) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [LEGZDINA](https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N), [Indira Paganotto](https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR) | [Pressure \(Indira Paganotto Remix\)](https://open.spotify.com/album/7bbuWt0xlR3hG7oK9MXQWf) | 4:29 |
 | 28 | [No Enemies \(feat\. Namasenda\)](https://open.spotify.com/track/55gp7v87CYS1lxWQ5ho5nK) | [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP), [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s), [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [No Enemies \(feat\. Namasenda\)](https://open.spotify.com/album/7pvzIp85EdrRsBMN1SDW5p) | 2:40 |
 | 29 | [Surrender](https://open.spotify.com/track/2HJu1bxkubHZEXC8r6snXY) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Surrender](https://open.spotify.com/album/5uIjazA5fZ88us2oc1zbBd) | 2:24 |
 | 30 | [Life Is Simple \(Move Your Body\) \[Feat Salomé Das\]](https://open.spotify.com/track/6sgYrldk8IdtSERq4eGZj1) | [Maesic](https://open.spotify.com/artist/1GO0BdzMo0I4HNHfbaLbKZ), [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz), [Salomé Das](https://open.spotify.com/artist/6OZuVLUPd9v4yEOTjwZz77) | [Life Is Simple \(Move Your Body\) \[Feat Salomé Das\]](https://open.spotify.com/album/4btj2RrBqE3GZ2azpFrWuo) | 2:52 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 | 74 | [Back It Up](https://open.spotify.com/track/5bdKaYnig6IqBsQQqBUjHm) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6), [Omar+](https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc) | [Back It Up](https://open.spotify.com/album/3zmA0CrYMwFY92X9DkK2fY) | 2:36 |
 | 75 | [It Feels So Good](https://open.spotify.com/track/7xFy1kfgGWJWTpx1vSHBLi) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Sonique](https://open.spotify.com/artist/5xtqw2B8z8JGfDYi2eAZHI) | [It Feels So Good](https://open.spotify.com/album/5DkTpze7FxkVlsNgD3jKYO) | 2:40 |
 
-Snapshot ID: `aC/y9wAAAAAqy0fcDTJTUWC4pJnTvSvL`
+Snapshot ID: `aC/y9wAAAADqFWfx/1QwoqROM57/E72o`

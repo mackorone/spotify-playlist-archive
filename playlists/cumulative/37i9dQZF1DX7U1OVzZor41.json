@@ -1521,6 +1521,24 @@
     },
     {
       "album": {
+        "name": "\u611b\u2027\u6b4c\u59ec",
+        "url": "https://open.spotify.com/album/3jFtKa1iT9rD5Xb40mHgQ1"
+      },
+      "artists": [
+        {
+          "name": "F.I.R.",
+          "url": "https://open.spotify.com/artist/5oqLnVZzJJXE3YnzzZfRKu"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308546,
+      "name": "\u6708\u7259\u7063",
+      "url": "https://open.spotify.com/track/1b5IRT3iraxjHOsKZx93sW"
+    },
+    {
+      "album": {
         "name": "THE PENROSE ROOM \u93e1\u623f",
         "url": "https://open.spotify.com/album/29JSCngK4DwyyNEzGZcLaS"
       },
@@ -1770,7 +1788,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-29",
       "duration_ms": 234890,
       "name": "\u80cc\u5c0d\u80cc\u64c1\u62b1",
       "url": "https://open.spotify.com/track/5OZeRuBBRpEY13BagcAOLJ"

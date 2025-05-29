@@ -1,12 +1,12 @@
 {
   "description": "This is Flo Milli. The essential tracks, all in one playlist.",
-  "num_followers": 19342,
+  "num_followers": 19349,
   "original_name": "This Is Flo Milli",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDOvAAAAAABLwQtT5DbR2b3MjD6e3pCx",
+  "snapshot_id": "aDUAgAAAAAAKGa51evmyvTCIw3nDKMjW",
   "tracks": [
     {
       "added_at": null,
@@ -127,26 +127,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gripper (feat. T-Pain)",
-        "url": "https://open.spotify.com/album/2k7JIjZOh96oTcKAgK3rlp"
-      },
-      "artists": [
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        },
-        {
-          "name": "T-Pain",
-          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
-        }
-      ],
-      "duration_ms": 172592,
-      "name": "Gripper (feat. T-Pain)",
-      "url": "https://open.spotify.com/track/0OBXjsLYqftAOhCMEcAeAs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "After The Rain",
         "url": "https://open.spotify.com/album/0ne4ND8fxiwMDH8OK0sAn6"
       },
@@ -163,6 +143,26 @@
       "duration_ms": 182464,
       "name": "I Am (feat. Flo Milli)",
       "url": "https://open.spotify.com/track/4E7ZbuJH3NddjnMWLstkRq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gripper (feat. T-Pain)",
+        "url": "https://open.spotify.com/album/2k7JIjZOh96oTcKAgK3rlp"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        },
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        }
+      ],
+      "duration_ms": 172592,
+      "name": "Gripper (feat. T-Pain)",
+      "url": "https://open.spotify.com/track/0OBXjsLYqftAOhCMEcAeAs"
     },
     {
       "added_at": null,
@@ -475,26 +475,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wet Dreams (feat. coop & gg)",
-        "url": "https://open.spotify.com/album/65NAjD3jks0YWWLVkl2VnO"
+        "name": "ATLANTA",
+        "url": "https://open.spotify.com/album/42DbAMmiiuIPyBuEB4P1FD"
       },
       "artists": [
         {
+          "name": "PlaqueBoyMax",
+          "url": "https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS"
+        },
+        {
           "name": "Flo Milli",
           "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        },
-        {
-          "name": "coop",
-          "url": "https://open.spotify.com/artist/39Fgy3DGHvOP32RcQ8U4bv"
-        },
-        {
-          "name": "gg",
-          "url": "https://open.spotify.com/artist/12XC7Vu5zRQ9Q8UFmX6Fnw"
         }
       ],
-      "duration_ms": 159090,
-      "name": "Wet Dreams (feat. coop & gg)",
-      "url": "https://open.spotify.com/track/20LfID5lY83tDZAHZqpFtC"
+      "duration_ms": 105360,
+      "name": "oncam",
+      "url": "https://open.spotify.com/track/5GkGInIqn2RFKkKWZHaWjR"
     },
     {
       "added_at": null,
@@ -539,38 +535,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "ATLANTA",
-        "url": "https://open.spotify.com/album/42DbAMmiiuIPyBuEB4P1FD"
+        "name": "Wet Dreams (feat. coop & gg)",
+        "url": "https://open.spotify.com/album/65NAjD3jks0YWWLVkl2VnO"
       },
       "artists": [
         {
-          "name": "PlaqueBoyMax",
-          "url": "https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS"
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
         },
         {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 105360,
-      "name": "oncam",
-      "url": "https://open.spotify.com/track/5GkGInIqn2RFKkKWZHaWjR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BGC",
-        "url": "https://open.spotify.com/album/6Cc9Uzkovy0wEyUiazE5qR"
-      },
-      "artists": [
+          "name": "coop",
+          "url": "https://open.spotify.com/artist/39Fgy3DGHvOP32RcQ8U4bv"
+        },
         {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+          "name": "gg",
+          "url": "https://open.spotify.com/artist/12XC7Vu5zRQ9Q8UFmX6Fnw"
         }
       ],
-      "duration_ms": 156877,
-      "name": "BGC",
-      "url": "https://open.spotify.com/track/6j8rjIqqZkKnc0VzLjIN3J"
+      "duration_ms": 159090,
+      "name": "Wet Dreams (feat. coop & gg)",
+      "url": "https://open.spotify.com/track/20LfID5lY83tDZAHZqpFtC"
     },
     {
       "added_at": null,
@@ -587,6 +571,22 @@
       "duration_ms": 234991,
       "name": "Not Friendly",
       "url": "https://open.spotify.com/track/2le8xbpMJ1aA0SpJZRMbRw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BGC",
+        "url": "https://open.spotify.com/album/6Cc9Uzkovy0wEyUiazE5qR"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 156877,
+      "name": "BGC",
+      "url": "https://open.spotify.com/track/6j8rjIqqZkKnc0VzLjIN3J"
     },
     {
       "added_at": null,
@@ -731,6 +731,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Roaring 20s",
+        "url": "https://open.spotify.com/album/6o4bP0wIOQVPgtaKOHO3af"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 129145,
+      "name": "Roaring 20s",
+      "url": "https://open.spotify.com/track/5N4oNpf3YH76vNhXKc5usy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pretty Girls Cry Too (feat. Lay Bankz, Saweetie & Flo Milli)",
         "url": "https://open.spotify.com/album/4EPslQriJfV1wLD1NS49IU"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 182400,
       "name": "Pretty Girls Cry Too (feat. Lay Bankz, Saweetie & Flo Milli)",
       "url": "https://open.spotify.com/track/1xIUzmnbBGks5bWZjngTIH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Roaring 20s",
-        "url": "https://open.spotify.com/album/6o4bP0wIOQVPgtaKOHO3af"
-      },
-      "artists": [
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 129145,
-      "name": "Roaring 20s",
-      "url": "https://open.spotify.com/track/5N4oNpf3YH76vNhXKc5usy"
     },
     {
       "added_at": null,

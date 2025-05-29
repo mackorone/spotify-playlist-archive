@@ -1,6 +1,6 @@
 {
   "description": "Beautiful songs to give you that warm, fuzzy feeling.",
-  "num_followers": 2702506,
+  "num_followers": 2702754,
   "original_name": "Warm Fuzzy Feeling",
   "owner": {
     "name": "Spotify",
@@ -351,8 +351,8 @@
     {
       "added_at": "2024-08-12 15:54:12",
       "album": {
-        "name": "Midnight Memories (Deluxe)",
-        "url": "https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu"
+        "name": "FOUR (Deluxe)",
+        "url": "https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY"
       },
       "artists": [
         {
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
         }
       ],
-      "duration_ms": 237933,
-      "name": "You & I",
-      "url": "https://open.spotify.com/track/2afCBiru10AFckfOa49wIa"
+      "duration_ms": 248360,
+      "name": "18",
+      "url": "https://open.spotify.com/track/3JjnGLK8IxkNLvo8Lb3KOM"
     },
     {
       "added_at": "2024-08-12 15:54:12",
@@ -435,8 +435,8 @@
     {
       "added_at": "2024-08-12 15:54:12",
       "album": {
-        "name": "FOUR (Deluxe)",
-        "url": "https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY"
+        "name": "Midnight Memories (Deluxe)",
+        "url": "https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu"
       },
       "artists": [
         {
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
         }
       ],
-      "duration_ms": 248360,
-      "name": "18",
-      "url": "https://open.spotify.com/track/3JjnGLK8IxkNLvo8Lb3KOM"
+      "duration_ms": 237933,
+      "name": "You & I",
+      "url": "https://open.spotify.com/track/2afCBiru10AFckfOa49wIa"
     },
     {
       "added_at": "2024-08-12 15:54:12",
@@ -1023,8 +1023,8 @@
     {
       "added_at": "2024-08-12 15:54:12",
       "album": {
-        "name": "x (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
+        "name": "+",
+        "url": "https://open.spotify.com/album/02pi98kE0nra0yBqCStzbC"
       },
       "artists": [
         {
@@ -1032,9 +1032,25 @@
           "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 241346,
-      "name": "Tenerife Sea",
-      "url": "https://open.spotify.com/track/1HbcclMpw0q2WDWpdGCKdS"
+      "duration_ms": 280853,
+      "name": "Kiss Me",
+      "url": "https://open.spotify.com/track/0Tel1fmuCxEFV6wBLXsEdk"
+    },
+    {
+      "added_at": "2024-08-12 15:54:12",
+      "album": {
+        "name": "sun to me",
+        "url": "https://open.spotify.com/album/5rWYslg1tfIO46bDK7xXPW"
+      },
+      "artists": [
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "duration_ms": 158446,
+      "name": "sun to me",
+      "url": "https://open.spotify.com/track/1YFUI8vmek5XtbON2ZW892"
     },
     {
       "added_at": "2024-08-12 15:54:12",
@@ -1055,22 +1071,6 @@
       "duration_ms": 222860,
       "name": "Till Forever Falls Apart",
       "url": "https://open.spotify.com/track/2769RhOZs0ezRncRW1vryp"
-    },
-    {
-      "added_at": "2024-08-12 15:54:12",
-      "album": {
-        "name": "sun to me",
-        "url": "https://open.spotify.com/album/5rWYslg1tfIO46bDK7xXPW"
-      },
-      "artists": [
-        {
-          "name": "mgk",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        }
-      ],
-      "duration_ms": 158446,
-      "name": "sun to me",
-      "url": "https://open.spotify.com/track/1YFUI8vmek5XtbON2ZW892"
     },
     {
       "added_at": "2025-05-02 04:00:18",
@@ -1107,8 +1107,8 @@
     {
       "added_at": "2024-08-12 15:54:12",
       "album": {
-        "name": "+",
-        "url": "https://open.spotify.com/album/02pi98kE0nra0yBqCStzbC"
+        "name": "x (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
       },
       "artists": [
         {
@@ -1116,9 +1116,9 @@
           "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 280853,
-      "name": "Kiss Me",
-      "url": "https://open.spotify.com/track/0Tel1fmuCxEFV6wBLXsEdk"
+      "duration_ms": 241346,
+      "name": "Tenerife Sea",
+      "url": "https://open.spotify.com/track/1HbcclMpw0q2WDWpdGCKdS"
     },
     {
       "added_at": "2024-08-12 15:54:12",
@@ -1439,26 +1439,6 @@
     {
       "added_at": "2024-08-12 15:54:12",
       "album": {
-        "name": "Freudian",
-        "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        },
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 209831,
-      "name": "Best Part (feat. H.E.R.)",
-      "url": "https://open.spotify.com/track/1RMJOxR6GRPsBHL8qeC2ux"
-    },
-    {
-      "added_at": "2024-08-12 15:54:12",
-      "album": {
         "name": "Fall Into Me",
         "url": "https://open.spotify.com/album/6nRIGu1lglm6SZC3oG3L4l"
       },
@@ -1487,6 +1467,26 @@
       "duration_ms": 188046,
       "name": "Nervous",
       "url": "https://open.spotify.com/track/1XNAH3h63O1hWFcgyHGbjf"
+    },
+    {
+      "added_at": "2024-08-12 15:54:12",
+      "album": {
+        "name": "Freudian",
+        "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 209831,
+      "name": "Best Part (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/1RMJOxR6GRPsBHL8qeC2ux"
     },
     {
       "added_at": "2024-08-12 15:54:12",

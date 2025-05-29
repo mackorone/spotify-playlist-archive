@@ -4,12 +4,13 @@
 
 > Relax to some gentle percussion from all corners of the globe.
 
-140 songs - 8 hr 17 min
+144 songs - 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [76k](https://open.spotify.com/track/6NbMq76XHUqt23syNf3lhJ) | [Meh Met](https://open.spotify.com/artist/215AS9kH8CZt63FZwq8hln) | [1960](https://open.spotify.com/album/20V7AioNpLxsYcxYv53lrV) | 3:06 | 2025-03-18 |  |
 | [A B S E N T I A \- Udu & Hang Solo](https://open.spotify.com/track/33Q7gzXHp4DVXBgW5apr8o) | [Tempus Fugit Percussion Ensemble](https://open.spotify.com/artist/38VFk9ODFiXZFH1knbI9f0), [Francesco Brianzi](https://open.spotify.com/artist/59QoFNgV8EiF0ANQGrNOBI) | [A B S E N T I A](https://open.spotify.com/album/0fdbdSzgctIY5uayuNTyYW) | 3:19 | 2022-05-19 |  |
+| [A Calling](https://open.spotify.com/track/1OmCEQrJ7REOIplNx3zz11) | [Fidelio](https://open.spotify.com/artist/5bJCKzGbzZCzZ2ypWtNca6) | [A Calling](https://open.spotify.com/album/6Jk7EFWPLsWOqbX0mE1znQ) | 3:18 | 2025-05-28 |  |
 | [A Peaceful Discovery](https://open.spotify.com/track/6DwsfsHcR0WCdfXvNNR73H) | [Gadaragh](https://open.spotify.com/artist/2htCgKICdd3y3WpVjh5hyR) | [A Peaceful Discovery](https://open.spotify.com/album/7HGUGkjlxkzckpNwqPzFid) | 2:27 | 2022-05-19 |  |
 | [African Games](https://open.spotify.com/track/75E60HGE8xcd667O1Thayz) | [African Music Drums Collection](https://open.spotify.com/artist/1VZg5g46KNbpD7CsIxPrKo) | [Worship African Experience: Shamanic Serenity, Relaxing Drums, Tribal Meditation](https://open.spotify.com/album/1YasVpcLqeQPWSFDsHHOOt) | 1:52 | 2022-05-19 | 2023-05-27 |
 | [Ajna](https://open.spotify.com/track/6iJVbZDhFZnFqbugkf86pe) | [Sleep Advisor](https://open.spotify.com/artist/0Il8fx16KHOeF6EdGdCgE6) | [Ajna](https://open.spotify.com/album/1XwOL2xWqSy7zeFlajSFWL) | 2:44 | 2025-04-29 |  |
@@ -105,6 +106,7 @@
 | [On a Different River](https://open.spotify.com/track/77Kr0KenZf9DCE1kbqQeEt) | [Pranayama Squad](https://open.spotify.com/artist/4Fn6NIKAqZ7P7kUG39RG7w) | [On a Different River](https://open.spotify.com/album/1iquYW5s00pGdRbOrOz0OK) | 3:51 | 2023-01-13 |  |
 | [Orange Crush](https://open.spotify.com/track/6oyq0dO8TRMJlSV1UrUW0o) | [Meh Met](https://open.spotify.com/artist/215AS9kH8CZt63FZwq8hln) | [Elway](https://open.spotify.com/album/02EZpBqivdZyL5feXvH0bg) | 2:42 | 2025-04-29 |  |
 | [Orientale](https://open.spotify.com/track/2zjEkh1tCbRtARZZLkP5SI) | [David Charrier](https://open.spotify.com/artist/52qbMkeZq79cVYB6RqLQ98), [Sylvain Paslier](https://open.spotify.com/artist/2q9bru2FtUf8MQlALS1GjC) | [Keona the cousins' hang duet](https://open.spotify.com/album/16d1nehPbUG1Y5TY6Nu9EU) | 4:31 | 2022-05-19 | 2023-07-15 |
+| [Pay the price](https://open.spotify.com/track/1Z6BuZkYjqHj9YeQBvU6f6) | [Sitarana](https://open.spotify.com/artist/1lg0s0LnjjmgY7iDqkhEBZ) | [Pay the price](https://open.spotify.com/album/5tFEebdhTha8pnnMkqh5mC) | 2:12 | 2025-05-28 |  |
 | [Perhentian](https://open.spotify.com/track/6uwiYkV67uGEEeAGnpmVMC) | [Kate Stone](https://open.spotify.com/artist/1uuTWnnSPHQMX8ZHi1XTN9) | [Urban](https://open.spotify.com/album/1GzQVBKiSGTmgRRp07Kcy1) | 4:28 | 2022-05-19 |  |
 | [Piedras Encantadas](https://open.spotify.com/track/1Q0AJKWZhyWHDlUUnnZ5rs) | [Aeromancias](https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw) | [Suiseki](https://open.spotify.com/album/2ZenMYsh0RIM66yZF66bsN) | 2:58 | 2022-05-19 |  |
 | [Pluto was here](https://open.spotify.com/track/3ZASLhKNNYTAo2O3Pz0lDz) | [Yatao](https://open.spotify.com/artist/4BYqP4YTwWGpi4q94QkW2x), [Alexander Mercks](https://open.spotify.com/artist/1GykWQWG7xcdwxdLiX40jL) | [Osmosis](https://open.spotify.com/album/5EekI9jcgWfjPITMAHWEnh) | 4:45 | 2022-05-19 |  |
@@ -112,6 +114,7 @@
 | [Puddles](https://open.spotify.com/track/1LSdqUTKdIyeOz8dARVOe9) | [Misted Minds](https://open.spotify.com/artist/0OKqDI3WyLeYdZA5xd6hdU) | [Puddles](https://open.spotify.com/album/2t29gQrwKhC4ugQHGelet2) | 2:32 | 2024-07-18 |  |
 | [Ra](https://open.spotify.com/track/46WdVsTQR8oNSCz9TQTWup) | [Phumos](https://open.spotify.com/artist/4Kbma5Q6AakN90M13bF7mh) | [Ra](https://open.spotify.com/album/5iAKOHMEOZsRCvICTyDVuE) | 2:36 | 2024-03-05 |  |
 | [Reiki Healing](https://open.spotify.com/track/7AFn9jNexFochuEsrpM3yz) | [Maha Rabab](https://open.spotify.com/artist/0B4XHQBcfV7eUPme4AAS5C) | [Meditategroove](https://open.spotify.com/album/3vU5fKgVkNV5HM3uTPnWlb) | 1:47 | 2022-05-19 | 2023-03-18 |
+| [Rhythm of You](https://open.spotify.com/track/1BXUdFKa5z9PAovnLyraRf) | [Endless Space](https://open.spotify.com/artist/7HHVt02XZTOf0FQ6YhZtG5) | [Rhythm of You](https://open.spotify.com/album/55uWsOLhWyHvzhvnTShAzL) | 2:26 | 2025-05-28 |  |
 | [Rhythmic Odyssey](https://open.spotify.com/track/5iIJxhyD7Aile3v11sWZza) | [Joborja Perc](https://open.spotify.com/artist/11otmykUQiYuTfJcqVFiE8) | [Rhythmic Odyssey](https://open.spotify.com/album/22KoLGWDyvIAERdQf86MBD) | 3:19 | 2024-03-05 |  |
 | [River at Dawn](https://open.spotify.com/track/2OEUrK1H4m4e9R0eqsDESE) | [Kate Stone](https://open.spotify.com/artist/1uuTWnnSPHQMX8ZHi1XTN9) | [Urban](https://open.spotify.com/album/1GzQVBKiSGTmgRRp07Kcy1) | 3:06 | 2022-05-19 |  |
 | [River Hymn](https://open.spotify.com/track/0G6qOjR6sbdx3f812Jf6m3) | [Melatonement](https://open.spotify.com/artist/1ZlMvBVYhelNe23PPk4mBN) | [River Hymn](https://open.spotify.com/album/1JeUE7z5MzGdlRVSeWcMLv) | 2:56 | 2024-03-05 |  |
@@ -128,6 +131,7 @@
 | [Song of the Morning](https://open.spotify.com/track/4fqfpPg6umah8ZSgCJtXtT) | [Jeremy Arndt](https://open.spotify.com/artist/7KZzcubMLbaEJMPIHw9Q1T) | [Journeys: Handpan Solo](https://open.spotify.com/album/32VPq59sHG028ot4awVMUW) | 3:56 | 2022-05-19 |  |
 | [Sparrow Song](https://open.spotify.com/track/1aVJxI2dZXD6TQ3zHVIDhl) | [Stone Steps](https://open.spotify.com/artist/4FDTSH6593ZrweLvsonjQ5) | [Sparrow Song](https://open.spotify.com/album/2KSKfnP1uoUSJOLlS1uWTx) | 2:06 | 2024-03-05 |  |
 | [Spirit Glow](https://open.spotify.com/track/572nNmnWtvn1ON7C6XkuCW) | [SoulPan](https://open.spotify.com/artist/55TPaWQiFcIRFc6bAAWiO5) | [Spirit Glow](https://open.spotify.com/album/7a6x1SFiLRKuUuI6kPncSX) | 2:09 | 2025-05-16 |  |
+| [Spiritual Ascent](https://open.spotify.com/track/2GzX0oSb1iRgvDkDweIANZ) | [Aks](https://open.spotify.com/artist/35hgpFqZM16OXEkF4hkNn0) | [Spiritual Ascent](https://open.spotify.com/album/2TOl8BOpVEgAsW7Jp9E8uD) | 4:08 | 2025-05-28 |  |
 | [Suite for Solo Marimba: I\. Mist](https://open.spotify.com/track/0innuGLPaiws0cPKlQsBqr) | [Alfred Fissinger](https://open.spotify.com/artist/4htH9Ccgnj1hOEeXvyCixA), [Severin Blazer](https://open.spotify.com/artist/1Ja6CRy0gfbAKH44OI25wr) | [Yoga with Classical Music](https://open.spotify.com/album/6kPF1cgLwFCqbuQ9Y9gSpn) | 5:28 | 2022-05-19 |  |
 | [Sun Sunil Beat](https://open.spotify.com/track/676FxH7m1xGxsuryz7D9OF) | [Sangenjaya](https://open.spotify.com/artist/5ZrrEKTUqjrI6kAVj5Mfrl) | [Sun Sunil Beat](https://open.spotify.com/album/6lNqfMeQhyXbR15RBVqhvw) | 2:28 | 2022-05-19 |  |
 | [Sunrise Rhythm](https://open.spotify.com/track/6BrvOJmKsMrld46VFYDUK7) | [Darma Waters](https://open.spotify.com/artist/4nN4oxcvDaWafW2VAmvf7Y) | [Sunrise Rhythm](https://open.spotify.com/album/0WtyQyl7jaipY6GIT4vk7c) | 2:45 | 2025-01-09 |  |

@@ -1,13 +1,193 @@
 {
-  "description": "The best new pop music from new, independent artists.  Cover: Ruby Roberts. Artwork by Paola Saliby",
-  "num_followers": 227298,
+  "description": "The best new pop music from new, independent artists.  Cover: no na. Artwork by Paola Saliby",
+  "num_followers": 227351,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aC3XRQAAAADUqHiSV3Knk/bqgrsf5f3p",
+  "snapshot_id": "aDaXbQAAAAAFdQzWfHISM06c39RI0Tq5",
   "tracks": [
+    {
+      "added_at": "2025-05-28 04:56:13",
+      "album": {
+        "name": "superstitious / falling in love",
+        "url": "https://open.spotify.com/album/1WevIdYWogV9E4pZcXdoel"
+      },
+      "artists": [
+        {
+          "name": "no na",
+          "url": "https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b"
+        }
+      ],
+      "duration_ms": 187235,
+      "name": "superstitious",
+      "url": "https://open.spotify.com/track/1HoRAFcgEZSUJesK23aRnZ"
+    },
+    {
+      "added_at": "2025-05-28 04:56:13",
+      "album": {
+        "name": "BOUNCE",
+        "url": "https://open.spotify.com/album/0kPmhHtIOqnYqfwZej06Ly"
+      },
+      "artists": [
+        {
+          "name": "Aiko Tomi",
+          "url": "https://open.spotify.com/artist/24jBJ64cYnyWF53EKv6K9t"
+        }
+      ],
+      "duration_ms": 143761,
+      "name": "BOUNCE",
+      "url": "https://open.spotify.com/track/503UZSFMEB9R2NexclrOLn"
+    },
+    {
+      "added_at": "2025-05-28 04:56:13",
+      "album": {
+        "name": "The Seven Spirits of Her",
+        "url": "https://open.spotify.com/album/6cgUDc9crqMBomAqWjGfU4"
+      },
+      "artists": [
+        {
+          "name": "Jude Kelly",
+          "url": "https://open.spotify.com/artist/0xHZwRejbMwSEfDZNnyviZ"
+        }
+      ],
+      "duration_ms": 167100,
+      "name": "Married to Her Death",
+      "url": "https://open.spotify.com/track/3xQYyjx0ns7CRg6k3mu0sL"
+    },
+    {
+      "added_at": "2025-05-28 04:56:13",
+      "album": {
+        "name": "mouse",
+        "url": "https://open.spotify.com/album/53LIIHadE5Ehu7kJzTIdCD"
+      },
+      "artists": [
+        {
+          "name": "Jewel Owusu",
+          "url": "https://open.spotify.com/artist/6juZJy9PxiYX2EhuxW4AzW"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "mouse",
+      "url": "https://open.spotify.com/track/1XoXWYxD64PmsnYXfEUzZ5"
+    },
+    {
+      "added_at": "2025-05-28 04:56:13",
+      "album": {
+        "name": "Wise Beyond Words",
+        "url": "https://open.spotify.com/album/7ci25b1MY9O3gAYiSqlKeJ"
+      },
+      "artists": [
+        {
+          "name": "Hendrix Frankenreiter",
+          "url": "https://open.spotify.com/artist/5jQMlfMli0tA6P1Ipp3VDX"
+        }
+      ],
+      "duration_ms": 161451,
+      "name": "Wise Beyond Words",
+      "url": "https://open.spotify.com/track/2XYnqW4wuBbE8mc6M9EWnx"
+    },
+    {
+      "added_at": "2025-05-28 04:56:13",
+      "album": {
+        "name": "Bootymove (feat. UNIIQU3)",
+        "url": "https://open.spotify.com/album/07T4Tsf3K9P0km5N7aLAOm"
+      },
+      "artists": [
+        {
+          "name": "Malibu Babie",
+          "url": "https://open.spotify.com/artist/30BzssruVp26rt8bIe6LcZ"
+        },
+        {
+          "name": "UNIIQU3",
+          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
+        }
+      ],
+      "duration_ms": 163884,
+      "name": "Bootymove (feat. UNIIQU3)",
+      "url": "https://open.spotify.com/track/6C1LLpGTxU6w6bV0dBDTje"
+    },
+    {
+      "added_at": "2025-05-28 04:56:13",
+      "album": {
+        "name": "Earcandy",
+        "url": "https://open.spotify.com/album/7p0eOkAgv8m9g59wprb0L0"
+      },
+      "artists": [
+        {
+          "name": "Miso Extra",
+          "url": "https://open.spotify.com/artist/0Vv0Cc8LAnIhUsYI4d5wBg"
+        }
+      ],
+      "duration_ms": 155546,
+      "name": "Done.",
+      "url": "https://open.spotify.com/track/7rxtStGAWSUYhMoXAdIQzj"
+    },
+    {
+      "added_at": "2025-05-28 04:56:13",
+      "album": {
+        "name": "Laser Tag",
+        "url": "https://open.spotify.com/album/6UatheHpZ0P69yhiZcgp28"
+      },
+      "artists": [
+        {
+          "name": "Marta Palombo",
+          "url": "https://open.spotify.com/artist/6z8kTM2p88nuU48pf076Xv"
+        }
+      ],
+      "duration_ms": 225385,
+      "name": "Laser Tag",
+      "url": "https://open.spotify.com/track/2Auw3DQ5LpIqBAuA78YVbj"
+    },
+    {
+      "added_at": "2025-05-28 04:56:13",
+      "album": {
+        "name": "NAUSEOUS",
+        "url": "https://open.spotify.com/album/61ZmBqFS4wXTwky1qojCvC"
+      },
+      "artists": [
+        {
+          "name": "PERRIS",
+          "url": "https://open.spotify.com/artist/28g5e8S0umbeXJOxmRZFMw"
+        }
+      ],
+      "duration_ms": 150821,
+      "name": "NAUSEOUS",
+      "url": "https://open.spotify.com/track/4L5ATobsBdlUoHgVG5LdKa"
+    },
+    {
+      "added_at": "2025-05-28 04:56:13",
+      "album": {
+        "name": "our wedding at the theatre",
+        "url": "https://open.spotify.com/album/7v9LRuV9s4Im9ngsSIkkq9"
+      },
+      "artists": [
+        {
+          "name": "MEYY",
+          "url": "https://open.spotify.com/artist/6ovTUUvyWpxSigzDhtfVs5"
+        }
+      ],
+      "duration_ms": 132013,
+      "name": "forever and ever and ever and ever",
+      "url": "https://open.spotify.com/track/5PEGuHYzez9T1MLKgS7bqo"
+    },
+    {
+      "added_at": "2025-05-28 04:56:13",
+      "album": {
+        "name": "Trust Issues",
+        "url": "https://open.spotify.com/album/4lfCxwDlQ4ZdpDwQyNxbC9"
+      },
+      "artists": [
+        {
+          "name": "Rachel Newnham",
+          "url": "https://open.spotify.com/artist/3fzDJ5NVbesIIRCl7HuQyP"
+        }
+      ],
+      "duration_ms": 163440,
+      "name": "Trust Issues",
+      "url": "https://open.spotify.com/track/5TIilhHzXMxkFTfZQk94Mz"
+    },
     {
       "added_at": "2025-05-21 04:00:26",
       "album": {
@@ -164,7 +344,7 @@
           "url": "https://open.spotify.com/artist/1Zf0m40qFe3lRQwhknz9yd"
         }
       ],
-      "duration_ms": 237874,
+      "duration_ms": 236727,
       "name": "Sky Meets The Water",
       "url": "https://open.spotify.com/track/18d9BbwniBUyWW89NLN69p"
     },
@@ -343,22 +523,6 @@
       "duration_ms": 164717,
       "name": "Next to You",
       "url": "https://open.spotify.com/track/1gqPIp3IpI2suAFp5ZN67J"
-    },
-    {
-      "added_at": "2025-05-07 04:00:36",
-      "album": {
-        "name": "shoot",
-        "url": "https://open.spotify.com/album/7C3cWsNbYPO76a5qIq8fPM"
-      },
-      "artists": [
-        {
-          "name": "no na",
-          "url": "https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b"
-        }
-      ],
-      "duration_ms": 214300,
-      "name": "shoot",
-      "url": "https://open.spotify.com/track/1lpXnyjEKDzExVyVS1AT1Q"
     },
     {
       "added_at": "2025-05-07 04:00:36",
@@ -851,54 +1015,6 @@
     {
       "added_at": "2025-04-16 04:00:26",
       "album": {
-        "name": "Pure",
-        "url": "https://open.spotify.com/album/2H5w6jTvq5OCUI4w4Xt49a"
-      },
-      "artists": [
-        {
-          "name": "Adriana",
-          "url": "https://open.spotify.com/artist/2h7JR7HbfDuNKibkk9GkDq"
-        }
-      ],
-      "duration_ms": 187631,
-      "name": "Pure",
-      "url": "https://open.spotify.com/track/2sab89Tv3lCK0sR23SAHUC"
-    },
-    {
-      "added_at": "2025-04-16 04:00:26",
-      "album": {
-        "name": "viva venus",
-        "url": "https://open.spotify.com/album/1iJlcjIoqL9GFY5Gmsf1TE"
-      },
-      "artists": [
-        {
-          "name": "LALA HAYDEN",
-          "url": "https://open.spotify.com/artist/54K6X7R6KvbCryoGE5Dufn"
-        }
-      ],
-      "duration_ms": 247530,
-      "name": "beast",
-      "url": "https://open.spotify.com/track/1OSeiaTnrxOyb5zFsCiEIw"
-    },
-    {
-      "added_at": "2025-04-16 04:00:26",
-      "album": {
-        "name": "Demos 26-30",
-        "url": "https://open.spotify.com/album/3aRS4aKF7lh8gpb0N8dM9a"
-      },
-      "artists": [
-        {
-          "name": "googly eyes",
-          "url": "https://open.spotify.com/artist/70csuBTxncKYE9FcIA0CXa"
-        }
-      ],
-      "duration_ms": 157714,
-      "name": "Picking Petals",
-      "url": "https://open.spotify.com/track/5zP2Sxr2jDIhnX25yCjZq6"
-    },
-    {
-      "added_at": "2025-04-16 04:00:26",
-      "album": {
         "name": "Power Cuts",
         "url": "https://open.spotify.com/album/2Scii7Kogj2Vm28BpV96eA"
       },
@@ -1107,22 +1223,6 @@
     {
       "added_at": "2025-04-09 13:37:42",
       "album": {
-        "name": "YOU SUCK",
-        "url": "https://open.spotify.com/album/1DrreMLDkOgrQz7XwiLsOE"
-      },
-      "artists": [
-        {
-          "name": "garbagepink",
-          "url": "https://open.spotify.com/artist/67JJQ1bAsztm9QUq9OTr1z"
-        }
-      ],
-      "duration_ms": 149774,
-      "name": "YOU SUCK",
-      "url": "https://open.spotify.com/track/1AP4ZEGsMjQmejiZRZLiXT"
-    },
-    {
-      "added_at": "2025-04-09 13:37:42",
-      "album": {
         "name": "Nostalgic",
         "url": "https://open.spotify.com/album/7ECV25SOu9xdBJitm5jqea"
       },
@@ -1135,38 +1235,6 @@
       "duration_ms": 196414,
       "name": "Nostalgic",
       "url": "https://open.spotify.com/track/0GOFwHGJxHHNFhlDKEnCht"
-    },
-    {
-      "added_at": "2025-04-09 13:37:42",
-      "album": {
-        "name": "dear marie",
-        "url": "https://open.spotify.com/album/74tLNw4Zh5x4mlgyNPjfrR"
-      },
-      "artists": [
-        {
-          "name": "isa blu",
-          "url": "https://open.spotify.com/artist/6PkYos4RsslZZSUYpin4Cc"
-        }
-      ],
-      "duration_ms": 211400,
-      "name": "dear marie",
-      "url": "https://open.spotify.com/track/5xuvCsT4kYinknbD5sNlTw"
-    },
-    {
-      "added_at": "2025-04-09 13:37:42",
-      "album": {
-        "name": "Hang the DJ",
-        "url": "https://open.spotify.com/album/4lqM98HqVQpNaoCubZnQuf"
-      },
-      "artists": [
-        {
-          "name": "LILLI",
-          "url": "https://open.spotify.com/artist/4QXIOyqIXDfC6gGWfFkous"
-        }
-      ],
-      "duration_ms": 174509,
-      "name": "Erase My Mind",
-      "url": "https://open.spotify.com/track/5720SNCvTw7Ql4sa8a8AE6"
     },
     {
       "added_at": "2025-04-09 13:55:18",
@@ -1183,22 +1251,6 @@
       "duration_ms": 170333,
       "name": "SUNSHINE",
       "url": "https://open.spotify.com/track/6GheCD7Tle993lcG875Vr1"
-    },
-    {
-      "added_at": "2025-04-09 13:37:42",
-      "album": {
-        "name": "A Good Place To Start",
-        "url": "https://open.spotify.com/album/4qywmboYnzNxDUBOzvBPD7"
-      },
-      "artists": [
-        {
-          "name": "Tom Mary",
-          "url": "https://open.spotify.com/artist/1QQsTDOeaBZWZS5hFYAb9f"
-        }
-      ],
-      "duration_ms": 184464,
-      "name": "A Good Place To Start",
-      "url": "https://open.spotify.com/track/4tlSOSfSpuOPxTTqSAWfsP"
     },
     {
       "added_at": "2025-04-09 13:37:42",
@@ -1231,22 +1283,6 @@
       "duration_ms": 150938,
       "name": "Please Don't Make Me Cry",
       "url": "https://open.spotify.com/track/1NfrKf7rxG0i0TpsHoo7F1"
-    },
-    {
-      "added_at": "2025-04-09 13:37:42",
-      "album": {
-        "name": "Pharos",
-        "url": "https://open.spotify.com/album/3INHHoVztUGjeijZ63Np4M"
-      },
-      "artists": [
-        {
-          "name": "MOLLY SUE",
-          "url": "https://open.spotify.com/artist/1UmeDUPF1A9xnmyzE8O2fA"
-        }
-      ],
-      "duration_ms": 136958,
-      "name": "Pharos",
-      "url": "https://open.spotify.com/track/4lsvUf69pGZneOeSXyd9hi"
     },
     {
       "added_at": "2025-04-09 13:37:42",
@@ -1327,22 +1363,6 @@
       "duration_ms": 175400,
       "name": "Duel",
       "url": "https://open.spotify.com/track/2BeBp0IazmkqGVc0PxxDye"
-    },
-    {
-      "added_at": "2025-03-26 04:00:08",
-      "album": {
-        "name": "POP",
-        "url": "https://open.spotify.com/album/3DeFHwLhCLfhhg6GwDhMjX"
-      },
-      "artists": [
-        {
-          "name": "Miso Extra",
-          "url": "https://open.spotify.com/artist/0Vv0Cc8LAnIhUsYI4d5wBg"
-        }
-      ],
-      "duration_ms": 157013,
-      "name": "POP",
-      "url": "https://open.spotify.com/track/6NBbY5HUuowO9cS4lcFHNn"
     },
     {
       "added_at": "2025-03-26 04:00:08",
@@ -1555,22 +1575,6 @@
       "duration_ms": 155571,
       "name": "Sex, Drugs & Existential Dread",
       "url": "https://open.spotify.com/track/6QNvGDyclysWjq7QQcWHAk"
-    },
-    {
-      "added_at": "2025-03-12 04:00:29",
-      "album": {
-        "name": "Clarence",
-        "url": "https://open.spotify.com/album/6YMvucMuycOBYPK39jtztD"
-      },
-      "artists": [
-        {
-          "name": "Jude Kelly",
-          "url": "https://open.spotify.com/artist/0xHZwRejbMwSEfDZNnyviZ"
-        }
-      ],
-      "duration_ms": 210333,
-      "name": "Clarence",
-      "url": "https://open.spotify.com/track/58GqIwAH6Z9qPBDQRd2sEr"
     },
     {
       "added_at": "2025-03-05 05:00:05",

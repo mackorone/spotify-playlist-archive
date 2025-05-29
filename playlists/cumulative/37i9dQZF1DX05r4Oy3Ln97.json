@@ -1483,6 +1483,24 @@
     },
     {
       "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/1N7K3IIyDpWywAo7hrlHzc"
+      },
+      "artists": [
+        {
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181363,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/422u4065pibZQ0jUl1kJo0"
+    },
+    {
+      "album": {
         "name": "On A Trip",
         "url": "https://open.spotify.com/album/0NmQAh2m9ayLitCrFaIjiN"
       },
@@ -5744,7 +5762,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-29",
       "duration_ms": 167514,
       "name": "Only You",
       "url": "https://open.spotify.com/track/2LMKaaPc48a48HIB5dmFmR"

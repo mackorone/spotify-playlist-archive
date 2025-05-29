@@ -625,6 +625,24 @@
     },
     {
       "album": {
+        "name": "Whole Lotta Red",
+        "url": "https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117239,
+      "name": "Place",
+      "url": "https://open.spotify.com/track/1Bg2CNZw6S4e9cGWPmi0uI"
+    },
+    {
+      "album": {
         "name": "Popular (Music from the HBO Original Series)",
         "url": "https://open.spotify.com/album/5O0zUvdnJr0RbWzLFneN2i"
       },

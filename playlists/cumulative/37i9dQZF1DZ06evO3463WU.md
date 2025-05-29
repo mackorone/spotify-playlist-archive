@@ -4,7 +4,7 @@
 
 > This is Pancho Barraza\. The essential tracks, all in one playlist.
 
-129 songs - 7 hr 21 min
+130 songs - 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,8 @@
 | [Nube Viajera](https://open.spotify.com/track/7aQzaktSRWOs7JX4iAFGQq) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Los Ciclones del Arroyo](https://open.spotify.com/artist/474014H20e2LqUwdWaaVLO) | [Puro Che Rios Oiga](https://open.spotify.com/album/0RpKcuhlypb45ragJxcPDD) | 4:23 | 2025-05-11 |  |
 | [Nuestro Amor](https://open.spotify.com/track/4gfCFNZiohK3xpwCQUUifT) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Hombre Enamorado](https://open.spotify.com/album/5D77PYz1WHp9nna1DkA48I) | 3:31 | 2022-06-01 | 2024-09-13 |
 | [Nuestro Amor](https://open.spotify.com/track/5B2WmeLQzXIiMPB7yeiGpJ) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Hombre Enamorado](https://open.spotify.com/album/58kU4NbuZF48yK24YoT1Ff) | 3:31 | 2024-09-13 |  |
-| [Nunca Cambies](https://open.spotify.com/track/2GV9Q5prIUhhIfnlQG0VzL) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mas Fuerte Que Nunca](https://open.spotify.com/album/7EQVo82zWf1HDubvJmdbEi) | 2:37 | 2022-06-01 |  |
+| [Nunca Cambies](https://open.spotify.com/track/2GV9Q5prIUhhIfnlQG0VzL) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mas Fuerte Que Nunca](https://open.spotify.com/album/7EQVo82zWf1HDubvJmdbEi) | 2:37 | 2022-06-01 | 2025-05-29 |
+| [Nunca Cambies](https://open.spotify.com/track/2aZkwq6MoLBdSDcm8L09mP) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mas Fuerte Que Nunca](https://open.spotify.com/album/0KGj7OkeA9Rm6yZ0pVhZZL) | 2:37 | 2025-05-29 |  |
 | [Oh Carol](https://open.spotify.com/track/0oyTIk8169r7VcZJdcty20) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Banda AT](https://open.spotify.com/artist/3yNkh615RFz50gE4kRlXto) | [Oh Carol](https://open.spotify.com/album/1qXOg0IGKb4tk2dUSuULWB) | 2:37 | 2023-04-14 | 2023-12-14 |
 | [Ojalá Sea Cierto](https://open.spotify.com/track/4m6NWuvSrcS7keLJAO1aGD) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [El Vagabundo Que Te Ama](https://open.spotify.com/album/5ArPxAo4IyU0pEsCIZsg0F) | 2:36 | 2022-06-15 | 2024-09-16 |
 | [Ojalá Sea Cierto](https://open.spotify.com/track/6RL91YY0Kf24NeHHjwdaeb) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [El Vagabundo Que Te Ama](https://open.spotify.com/album/4aHIYnbJXldkqugU3YpRSs) | 2:36 | 2024-09-16 |  |

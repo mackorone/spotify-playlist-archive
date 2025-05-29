@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKktnMCmHx1.md) - [plain]
 
 > Tecnica, stile e talento: MVP starter pack, nel rap come nel gaming 🎮
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,974 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,970 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKktnMCmHx1.md) - [plain]
 | 68 | [Walk Em Down \(feat\. Roddy Ricch\)](https://open.spotify.com/track/4cSSL3YafYjM3yjgFO1vJg) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Walk Em Down \(feat\. Roddy Ricch\)](https://open.spotify.com/album/3EYg0XBIcyz3OvhIy7gsZQ) | 2:53 |
 | 69 | [REPEAT IT \(with Gunna\)](https://open.spotify.com/track/21AJQhGZpujjZQXByZAXpr) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [REPEAT IT](https://open.spotify.com/album/0hTvuLmKKMWoBWgPPrpUKF) | 3:10 |
 | 70 | [24 \(feat\. Lil Baby\)](https://open.spotify.com/track/7v96VvFLS0wSYT8kewNLRy) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [24 \(feat\. Lil Baby\)](https://open.spotify.com/album/5kaQQ0Z6RNMSqCRtM1lGn5) | 3:02 |
-| 71 | [ELEGANTE \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/7qADAhkEs9vv3ll4hP8ybC) | [DrefGold](https://open.spotify.com/artist/6jwzGu5VdkR5tsRROYuxso), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [ELO](https://open.spotify.com/album/0vp8LbPMJ0tAlqz2wjWRJa) | 3:40 |
-| 72 | [BETRAYED](https://open.spotify.com/track/5sxq1iFhvcqSbS86Cws8aj) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Gully \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3AXV4OJLUI7v9MQ3w8wzaN) | 3:12 |
+| 71 | [BETRAYED](https://open.spotify.com/track/5sxq1iFhvcqSbS86Cws8aj) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Gully \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3AXV4OJLUI7v9MQ3w8wzaN) | 3:12 |
+| 72 | [ELEGANTE \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/7qADAhkEs9vv3ll4hP8ybC) | [DrefGold](https://open.spotify.com/artist/6jwzGu5VdkR5tsRROYuxso), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [ELO](https://open.spotify.com/album/0vp8LbPMJ0tAlqz2wjWRJa) | 3:40 |
 | 73 | [Mi Piace \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/5gCAQkBpp9HNKLB8unHgMj) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Untouchable](https://open.spotify.com/album/6bIGovgsemnS7Y7DzvT61N) | 2:38 |
 | 74 | [Moonwalking in Calabasas \(feat\. Blueface\) \- Remix](https://open.spotify.com/track/7o4gBbTM6UBLkOYPw9xMCz) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ) | [Moonwalking in Calabasas \(feat\. Blueface\) \[Remix\]](https://open.spotify.com/album/1z02WpEdAuImwfySk43owY) | 2:50 |
 | 75 | [ALYX \(feat\. Capo Plaza\)](https://open.spotify.com/track/5ifarM7jfplX1EqkqMHlDq) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [J](https://open.spotify.com/album/4vCqEvwOICd6NwnsuhWzUO) | 3:03 |

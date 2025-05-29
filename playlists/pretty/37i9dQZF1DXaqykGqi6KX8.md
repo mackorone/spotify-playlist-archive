@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqykGqi6KX8.md) - [plain]
 
 > A collection of the best Arab metal\.  Cover: <a href="spotify:artist:63U8atFXZ3sax4eeV212tq">Coat Of Arms</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,868 likes - 30 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,899 likes - 30 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,6 +37,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqykGqi6KX8.md) - [plain]
 | 27 | [The Gambit](https://open.spotify.com/track/40MlHg1LIQDNryxwJQUNGH) | [Divine Disorder](https://open.spotify.com/artist/6TUH8SH556eJUVeKVq0ODz) | [Garden of Dystopia](https://open.spotify.com/album/01f26cqA6rP4x4YQ43phM9) | 8:04 |
 | 28 | [I Am the Beast](https://open.spotify.com/track/3esEno7VbHhFQly6SYeBV8) | [Ambrotype](https://open.spotify.com/artist/2kgkOFR0aUzwtamaD010iD) | [The Revelations](https://open.spotify.com/album/1tKEYkjR1fmLJeUHYouPhG) | 11:06 |
 | 29 | [Forever and A Day](https://open.spotify.com/track/3Qo94B93QHjhPTIAQyMmcd) | [Myrath](https://open.spotify.com/artist/72500XOYPw5e7OgFWuW2Gl) | [Desert Call](https://open.spotify.com/album/3x5aAqCdwXsvisJZve1cwt) | 5:40 |
-| 30 | [The Tragedy Within](https://open.spotify.com/track/0pYtMLPKmN2ROSZ46O4DEC) | [BILOCATE](https://open.spotify.com/artist/1id7fKgL1T5sh5MMBeviJe) | [Summoning the Bygones](https://open.spotify.com/album/5zy8rUbB55HkaiMx0jyAkx) | 8:44 |
+| 30 | [Blind Fate \(Turab\)](https://open.spotify.com/track/6YJxrjI7Y53MCKWEzdxDta) | [Esodic](https://open.spotify.com/artist/46XPKhmZCbqaixuDpJsC4S) | [Mirrors of Disgrace](https://open.spotify.com/album/2myDafpzzFLHe6nw7LWGyh) | 4:45 |
 
 Snapshot ID: `ZIxVtQAAAADGrT1wFuid8UETIcB/xPQJ`

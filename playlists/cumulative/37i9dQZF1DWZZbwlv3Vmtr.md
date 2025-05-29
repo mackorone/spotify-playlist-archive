@@ -4,7 +4,7 @@
 
 > Instrumental beats to lock\-in.
 
-1,034 songs - 1 day 16 hr 3 min
+1,035 songs - 1 day 16 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -315,7 +315,7 @@
 | [gin mood](https://open.spotify.com/track/5YAr1nEOeBQLsrqntj7Nyz) | [yori yoi hi](https://open.spotify.com/artist/0l5qxcD2fZRiXhbtJOkI5r) | [gin mood](https://open.spotify.com/album/6Taeo2fE2zaGNtHg7jTYVs) | 2:40 | 2022-04-15 | 2022-07-08 |
 | [Ginger and Lime](https://open.spotify.com/track/0vpCjZxZ03dHk71gT6WdHR) | [spice rack](https://open.spotify.com/artist/4as7eq7Z4RegcT6FJ754Ub) | [the spice is right](https://open.spotify.com/album/1PHAihdUhYxo9dZrN1QOyb) | 2:21 | 2022-04-15 | 2023-10-27 |
 | [ginza](https://open.spotify.com/track/5vm51ZokW3p5Mc0WG015QD) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa) | [ginza](https://open.spotify.com/album/5H7eKaI7Dj0Hv7U9X00yWt) | 2:36 | 2022-07-01 | 2022-07-29 |
-| [Gliding](https://open.spotify.com/track/5tFHUZ0Qldkq8B3OzhgoTm) | [In\-No\-Scence](https://open.spotify.com/artist/5MOvmIpMThMyTNmvwdckcA) | [Gliding](https://open.spotify.com/album/6qJG6AhrAb4wxIuR1fsKjp) | 1:43 | 2023-04-03 |  |
+| [Gliding](https://open.spotify.com/track/5tFHUZ0Qldkq8B3OzhgoTm) | [In\-No\-Scence](https://open.spotify.com/artist/5MOvmIpMThMyTNmvwdckcA) | [Gliding](https://open.spotify.com/album/6qJG6AhrAb4wxIuR1fsKjp) | 1:43 | 2023-04-03 | 2025-05-29 |
 | [Glimmers](https://open.spotify.com/track/7ooO1azb9V79AwrCCDDsDM) | [Dozy Duzzn](https://open.spotify.com/artist/2CPIZDGSe0zORQADHqFIAY) | [Glimmers](https://open.spotify.com/album/1XzhGnS0rspiOQZ552QHo5) | 2:21 | 2025-03-07 |  |
 | [Glitch Flower](https://open.spotify.com/track/5FILcC4AkPVuPdEqINDWNX) | [Brief & Breezy](https://open.spotify.com/artist/5GHbufBgAO1POi50gQq1B7) | [Glitch Flower](https://open.spotify.com/album/4dwzeOvMJCTIBGiUFw82rO) | 2:52 | 2024-02-09 |  |
 | [Glorious](https://open.spotify.com/track/6MtDXkpB4tCtiRIFfAyzCE) | [Lozzle](https://open.spotify.com/artist/3qhKLxCl0TVYBmDoNCKMbt) | [Glorious](https://open.spotify.com/album/0Gp6gzfEUO9RPly3O6hyOz) | 2:11 | 2022-04-15 | 2022-06-03 |
@@ -807,6 +807,7 @@
 | [Softube](https://open.spotify.com/track/3EGVkqdu333Vzd94rN0NMf) | [Myles and Myles](https://open.spotify.com/artist/5p3Ec9LGzE9aa8l3GW2xo8) | [Ride Out](https://open.spotify.com/album/3gbYpIEF04ngDLsEnvRiR7) | 3:56 | 2022-04-15 | 2022-09-17 |
 | [solstice](https://open.spotify.com/track/0nSchxt6Ucc5gSX5n8HnLV) | [owlh](https://open.spotify.com/artist/0kCNNJfXF8AOSqRIC4aoza) | [in the clouds](https://open.spotify.com/album/3MxySDz5dvG7BxCttkLEue) | 3:43 | 2022-09-23 | 2023-10-20 |
 | [Somber](https://open.spotify.com/track/2TDQlamYl8cSi6C5mk2xkp) | [Lndonfox](https://open.spotify.com/artist/2eMNpDgRKr7M0TczONdHV1) | [Somber](https://open.spotify.com/album/7IMkSebRnzJSYaiSYhPVmi) | 2:42 | 2025-01-24 |  |
+| [something](https://open.spotify.com/track/3gZES4CVI9MVvp5ShamfxT) | [Flower Chanel.](https://open.spotify.com/artist/7qnkTNSjbkAfmWRjjs9yq4) | [something](https://open.spotify.com/album/7lBS6bvo0htgfugJjImRVA) | 2:16 | 2025-05-23 |  |
 | [Sometime](https://open.spotify.com/track/5wlLF3893tOtvLR6pSkodi) | [Natural Yoghurt](https://open.spotify.com/artist/4TeR99t1Oz0dXu0xTFAt5J) | [Can't make it without U](https://open.spotify.com/album/6oGnAtyHgkZdXYfHl6LzDf) | 1:58 | 2022-04-15 | 2022-09-09 |
 | [Sorry, Jorge](https://open.spotify.com/track/5b0Opn1XtWaqN70sXm8uJk) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Flakes](https://open.spotify.com/album/45WTdqbH4bvvR8yZm5ykWL) | 2:06 | 2022-04-15 | 2022-07-01 |
 | [Soul Calibre](https://open.spotify.com/track/6hagXr40I8q0fHJ1uwWnj0) | [Florida Frank](https://open.spotify.com/artist/1XPs2qSUuafYCiqiCf6V3z) | [Soul Calibre](https://open.spotify.com/album/3IJdOutsIz9NSd1cfHOJys) | 2:33 | 2023-01-06 | 2024-02-07 |

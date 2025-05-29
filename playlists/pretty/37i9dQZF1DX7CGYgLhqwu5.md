@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 
 > Many would say that this decade is a "Golden Era" for country music\. Cover: Patsy Cline
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,162 likes - 100 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,191 likes - 100 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,12 +97,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 | 87 | [Why Do I Love You So \- 1960 \#42 Billboard chart hit](https://open.spotify.com/track/2hh6RGmBNTGB7fi62fYgUL) | [Johnny Tillotson](https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794) | [Johnny Tillotson's Best](https://open.spotify.com/album/23FZ6dkeF3N8cAfVqzggFR) | 2:07 |
 | 88 | [A Six Pack To Go](https://open.spotify.com/track/6ac7GUlfon5ezqPvDYPixS) | [Hank Thompson](https://open.spotify.com/artist/42tDjhK9kdS7CCHxs8ysz0) | [20 Greatest Hits](https://open.spotify.com/album/5P6rEZ32MTCZubNbXSP9AM) | 2:09 |
 | 89 | [Leavin' On Your Mind \- Single Version](https://open.spotify.com/track/1UX3YnunUhblOJbdnX64F2) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [Sweet Dreams: Her Complete Decca Masters \(1960\-1963\)](https://open.spotify.com/album/42ClQwOX06MiqvPJ97yoNC) | 2:24 |
-| 90 | [Love's Gonna Live Here](https://open.spotify.com/track/0svhKL5JfIxASjbmEkxXKV) | [Buck Owens](https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu) | [All\-Time Greatest Hits](https://open.spotify.com/album/6c31q0EiGPqzNVDKfQzyzt) | 2:04 |
+| 90 | [I've Got A Tiger By The Tail \- 2006 Remastered Version](https://open.spotify.com/track/1GDAvJth0ebssC2XkG7RYM) | [Buck Owens](https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu) | [21 \#1 Hits: The Ultimate Collection](https://open.spotify.com/album/6YhrskvsUUnJtWmkCGeY6D) | 2:13 |
 | 91 | [Jackson \(with June Carter Cash\)](https://open.spotify.com/track/6ekSX8AVzwRSs0mbSlPc0R) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [June Carter Cash](https://open.spotify.com/artist/0ZnY6mQmgr2yZarjry68td) | [Keep On the Sunny Side \- June Carter Cash: Her Life In Music](https://open.spotify.com/album/0pSVeCzT60p5pzP3m3iOrN) | 2:46 |
 | 92 | [Poetry In Motion \- 1960 \#2 Billboard chart hit](https://open.spotify.com/track/2HKafPuzWaKsCzcE3zFOIX) | [Johnny Tillotson](https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794) | [Johnny Tillotson's Best](https://open.spotify.com/album/23FZ6dkeF3N8cAfVqzggFR) | 2:34 |
 | 93 | [Honey \- 1991 \- Remaster](https://open.spotify.com/track/3ZnlYvqCnjJ7OeZhVKkWPg) | [Bobby Goldsboro](https://open.spotify.com/artist/5gPEo032lzARtzuVqJIm9o) | [Honey \- The Best of Bobby Goldsboro](https://open.spotify.com/album/16QapBbCMXHEekBXfUCiKp) | 3:59 |
 | 94 | [Walk Through This World With Me](https://open.spotify.com/track/21SxnQOkzD11IO3qToKvaG) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [Walk Through This World With Me](https://open.spotify.com/album/06AQF06cw5or7c4IXr0Kjk) | 2:17 |
-| 95 | [I've Got A Tiger By The Tail \- 2006 Remastered Version](https://open.spotify.com/track/1GDAvJth0ebssC2XkG7RYM) | [Buck Owens](https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu) | [21 \#1 Hits: The Ultimate Collection](https://open.spotify.com/album/6YhrskvsUUnJtWmkCGeY6D) | 2:13 |
+| 95 | [Love's Gonna Live Here](https://open.spotify.com/track/0svhKL5JfIxASjbmEkxXKV) | [Buck Owens](https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu) | [All\-Time Greatest Hits](https://open.spotify.com/album/6c31q0EiGPqzNVDKfQzyzt) | 2:04 |
 | 96 | [Yesterday When I Was Young](https://open.spotify.com/track/34FHyAVCDFURtlrt6HfPHU) | [Roy Clark](https://open.spotify.com/artist/6iOpZ3mUTWOjjER4mGcZmS) | [The Best Of Roy Clark](https://open.spotify.com/album/2ADFGSvr79NVsX0KcB5r2Q) | 3:20 |
 | 97 | [Send Me The Pillow You Dream On](https://open.spotify.com/track/60LBZcuecM8zRwXmZm5bQs) | [Johnny Tillotson](https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794) | [25 All\-Time Greatest Hits](https://open.spotify.com/album/5hoikUKrQZkKm8tspRhwTS) | 2:53 |
 | 98 | [Swinging Doors](https://open.spotify.com/track/6Ja76N5EcdHrZCGfsWNeGo) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Super Hits Collection \- 32 Songs \- Swinging Doors](https://open.spotify.com/album/7inmfUQJ4jioW0GSVxpgpe) | 2:52 |

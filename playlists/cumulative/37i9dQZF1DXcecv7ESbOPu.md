@@ -4,7 +4,7 @@
 
 > Äntligen fredag och ny musik från Miriam Bryant, Hov1, Seinabo Sey och Eah Jé med flera\. Happy New Music Friday!
 
-19,164 songs - 41 day 9 hr 10 min
+19,165 songs - 41 day 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -9347,6 +9347,7 @@
 | [Kämpa på](https://open.spotify.com/track/1tSRawGe2OzyPgLU3tbAwX) | [Ness Hakin](https://open.spotify.com/artist/73SA7OgBvMc1GGRyius3UN) | [Kämpa på](https://open.spotify.com/album/4VnrxMiP7qNqQXe2oDw2eh) | 3:52 | 2022-02-24 | 2022-03-04 |
 | [Känd på lögner](https://open.spotify.com/track/3U7gdpg6kHT7QyiP4vz89D) | [Vilhelm Nordvall](https://open.spotify.com/artist/2RIlribpXetnuu5hrOnHwA) | [Känd på lögner](https://open.spotify.com/album/4d2Hr1uUUVgtmiuHO8ezzj) | 2:04 | 2025-05-15 | 2025-05-23 |
 | [Känn ingen sorg för mig Göteborg](https://open.spotify.com/track/47Eym1DOh0jduwT4CWyaG9) | [emoemy](https://open.spotify.com/artist/6kOYIk57Dcel1IrTxYNP9i) | [Känn ingen sorg för mig Göteborg](https://open.spotify.com/album/5U9zrj9w3LZbKYHsBkUhEx) | 2:27 | 2025-01-23 | 2025-01-31 |
+| [känna det igen](https://open.spotify.com/track/2IzwU2LnVFlCGl7IHtYNJk) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [känna det igen](https://open.spotify.com/album/5vzCIN20OYgpflQNSH9566) | 3:08 | 2025-05-22 |  |
 | [Känna nåt \(feat\. lovad\)](https://open.spotify.com/track/6K0DUcbZBWq3pvxfHg29RO) | [Luc1ano](https://open.spotify.com/artist/5FrvaIrf2vik2rktPWOrsN), [lovad](https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj) | [Känna nåt \(feat\. lovad\)](https://open.spotify.com/album/6i7emf1muBecoGbiHfo3FK) | 2:48 | 2024-01-18 | 2024-01-26 |
 | [Känner ni igen er](https://open.spotify.com/track/7CfHRQgFH52hn9gcj5d8Wq) | [Peder Stenberg](https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2) | [Känner ni igen er](https://open.spotify.com/album/5AOSs0BRjVjAZNvIshnVIj) | 4:39 | 2025-03-20 | 2025-03-28 |
 | [KÄNNERKÄNSLANKOMMATILLBAX](https://open.spotify.com/track/5KxWxgEvECjb5BiimfM9NR) | [jalda](https://open.spotify.com/artist/5qSesMOFsys9kvpVVOJnHa) | [KÄNNERKÄNSLANKOMMATILLBAX](https://open.spotify.com/album/6KtCjacIPM76i8PaomHgSU) | 3:03 | 2025-03-06 | 2025-03-14 |

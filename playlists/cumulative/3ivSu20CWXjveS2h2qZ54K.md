@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-4,152 songs - 9 day 13 hr 54 min
+4,155 songs - 9 day 14 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -777,6 +777,7 @@
 | [Como es](https://open.spotify.com/track/6sSyBmcJtssWLvhiAndxM0) | [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Como es](https://open.spotify.com/album/7wTovvAZLEMdVGJBam816w) | 3:31 | 2024-05-24 | 2024-06-12 |
 | [Como La Primera Vez](https://open.spotify.com/track/25hfhPALM5JY5eiQbATov0) | [La Habitación Roja](https://open.spotify.com/artist/1PVE74Pf9ejCjOzdxlsHC6) | [Como La Primera Vez](https://open.spotify.com/album/3syc8sBLMIIF8QbuWfOSDH) | 3:48 | 2024-09-20 | 2024-09-28 |
 | [Como un cristal](https://open.spotify.com/track/3uzKaTP7GRDNRlMOndcRcv) | [Lucas Bun](https://open.spotify.com/artist/7oXdAnN1t1cLruHJWuR7Cx), [Jeanette](https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2) | [Como un cristal](https://open.spotify.com/album/0pJqPGLY9ZX3RXZ5KyHYNy) | 3:21 | 2025-03-21 | 2025-03-29 |
+| [Como Un Pájaro](https://open.spotify.com/track/4zVznkVDNdQNnXsj058THT) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Como Un Pájaro](https://open.spotify.com/album/1X8lMZJ1mkuU6C9cx8oEn8) | 3:28 | 2025-05-28 |  |
 | [COMODINES](https://open.spotify.com/track/2onnW5yUQgDnu2x3TzUghf) | [L'haine](https://open.spotify.com/artist/7tXH4uI7BOE7hFBazlah0q) | [COMODINES](https://open.spotify.com/album/5m8VfVPSiiC7VHfLuGUdJM) | 3:04 | 2025-01-24 | 2025-02-01 |
 | [compartir](https://open.spotify.com/track/2jQbHv1h68MGzhYcCHNZQw) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [compartir](https://open.spotify.com/album/2D5cjEp8Msc43KA3v7lIo1) | 2:45 | 2024-11-22 | 2024-11-30 |
 | [Compass Will Fracture](https://open.spotify.com/track/63IqeRT97jGa1zIORhXCM2) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Compass Will Fracture](https://open.spotify.com/album/6ikCfDF0BVgXEUvJPNvrwR) | 3:12 | 2025-04-18 | 2025-04-26 |
@@ -888,6 +889,7 @@
 | [Darkerside](https://open.spotify.com/track/3b1s3Ywg0laGsNHCpUBhrl) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [The Dichotomy](https://open.spotify.com/album/4F2fCQJXXGfpKsoudFrjDW) | 2:37 | 2024-08-30 | 2024-09-07 |
 | [Darkest Lullaby](https://open.spotify.com/track/3MV0SFjUcQYUGmAQv6o7Q2) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Darkest Lullaby](https://open.spotify.com/album/1R1J4SFlMtGIuTeH7yS9yH) | 3:10 | 2024-06-21 | 2024-06-29 |
 | [Darlin'](https://open.spotify.com/track/3lFVdFLQeBXLxqKxqwqIfS) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Glimmer of God](https://open.spotify.com/album/2sdEcm60h3HBZkd5k7SkRh) | 3:28 | 2024-10-18 | 2024-10-26 |
+| [Darling](https://open.spotify.com/track/0WTyIytT4Yi0nHtWI29PVZ) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Darling](https://open.spotify.com/album/1Dgpzrfx3i4N8NzBcWru47) | 2:53 | 2025-05-28 |  |
 | [Dating Szn](https://open.spotify.com/track/36VdMAYdbvsPDxq9w4fehv) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Dating Szn](https://open.spotify.com/album/0POPtgxngG9xYy2ogbHqVK) | 2:55 | 2024-09-27 | 2024-10-05 |
 | [De aquí a un mes](https://open.spotify.com/track/0e8H6wIJ5o7OoSMGH9I2iL) | [Error 97](https://open.spotify.com/artist/0t8pleD8cLadWZNfaGQIz1) | [De aquí a un mes](https://open.spotify.com/album/12kOvGvaUrqMDE3Gnygj3w) | 2:21 | 2024-08-30 | 2024-09-07 |
 | [DE AQUÍ PAL CHINO](https://open.spotify.com/track/3O6MFojPEa5mnnRIGAStQ1) | [Los Yakis](https://open.spotify.com/artist/0IeW4k5OZdeYhrqtILPrb1), [La Plazuela](https://open.spotify.com/artist/3iNrNJ38T7OEaI1UofQcIB) | [DE AQUÍ PAL CHINO](https://open.spotify.com/album/57bm6viSfdLFGLP5hr6QKq) | 2:46 | 2025-03-21 | 2025-03-29 |
@@ -1427,6 +1429,7 @@
 | [Gente Normal](https://open.spotify.com/track/6G6SAcRkypH5euCIm4npMM) | [Marinita Precaria](https://open.spotify.com/artist/4HJBGcOqWcIOay7q6eeXOR) | [Gente Normal](https://open.spotify.com/album/2RmlsDaojKm9sru5LTWQ1U) | 3:06 | 2024-09-06 | 2024-09-14 |
 | [Georgia Ways \(with Teddy Swims & Luke Bryan\)](https://open.spotify.com/track/64YCRnMmAcj4982RtwNaag) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Georgia Ways \(with Teddy Swims & Luke Bryan\)](https://open.spotify.com/album/4MvWcgCB3dBfSgW8dctJ2h) | 2:48 | 2024-12-06 | 2024-12-14 |
 | [Georgina con Cristiano](https://open.spotify.com/track/7xcjInsgc0MQodkIkWnccD) | [Varry Brava](https://open.spotify.com/artist/6kkQkBRrPcQGUN8g2grxwb), [María de Juan](https://open.spotify.com/artist/3JOaesg3hFdm9PjUAlAevb) | [SHARIROP](https://open.spotify.com/album/6O8AoZ3oFqEuyQw89UkCnq) | 3:09 | 2024-10-03 | 2024-10-12 |
+| [GERM](https://open.spotify.com/track/3gylfpJh39G4WErX4QFV7y) | [Kate Nash](https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg) | [GERM](https://open.spotify.com/album/0HP3FFeHsVIVeXkWZynFLm) | 5:06 | 2025-05-28 |  |
 | [gervonta](https://open.spotify.com/track/0hfXHqWhOpbR9YQmQojDMN) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [gervonta](https://open.spotify.com/album/07P3e4goBCLdmyLavq25cS) | 2:47 | 2024-12-06 | 2024-12-14 |
 | [Get back to me](https://open.spotify.com/track/3YxMOcoa7ogJlG4e6zyJwm) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Get back to me](https://open.spotify.com/album/6U8hWwjGntHu3thhtm0jGB) | 3:10 | 2025-04-18 | 2025-04-26 |
 | [Get Happy](https://open.spotify.com/track/1ldykTue3ZAv6GxW8shJjN) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Gary \(Deluxe\)](https://open.spotify.com/album/7n5z9K5f4UMNfZ7Qajwvvj) | 3:22 | 2025-05-09 | 2025-05-17 |

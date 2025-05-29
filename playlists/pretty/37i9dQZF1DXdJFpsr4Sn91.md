@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 
 > Nousussa olevat hitit\. Kannessa euroviisuvoittaja JJ.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,195 likes - 87 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,198 likes - 87 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

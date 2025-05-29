@@ -456,7 +456,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-29",
       "duration_ms": 151483,
       "name": "For bbys",
       "url": "https://open.spotify.com/track/2EdLAaW8vO49B8QySpf2fC"
@@ -2533,6 +2533,24 @@
     },
     {
       "album": {
+        "name": "\u30c7\u30a4\u30b8\u30fc",
+        "url": "https://open.spotify.com/album/4BkPgahyVN3J3Xo8fPVzP1"
+      },
+      "artists": [
+        {
+          "name": "Lavt",
+          "url": "https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn"
+        }
+      ],
+      "date_added": "2025-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168533,
+      "name": "\u30c7\u30a4\u30b8\u30fc",
+      "url": "https://open.spotify.com/track/6OalExVqGSXSXxT7lmzTLY"
+    },
+    {
+      "album": {
         "name": "\u30c8\u30e9\u30c3\u30d7",
         "url": "https://open.spotify.com/album/2D3D5GaaGnwsmOOxt2VO1x"
       },
@@ -3034,7 +3052,7 @@
       ],
       "date_added": "2024-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-29",
       "duration_ms": 258207,
       "name": "\u512a\u3057\u3055\u306b\u6ea2\u308c\u305f\u4e16\u754c\u3067",
       "url": "https://open.spotify.com/track/2mRMcwDCNyYvBXaoUxmsmE"
@@ -4136,6 +4154,24 @@
       "duration_ms": 234283,
       "name": "\u8ca0\u3051\u72ac\u306b\u30a2\u30f3\u30b3\u30fc\u30eb\u306f\u3044\u3089\u306a\u3044",
       "url": "https://open.spotify.com/track/1fooGB6yJLKiOk8jW3thn6"
+    },
+    {
+      "album": {
+        "name": "\u904a\u970a\u5a5a",
+        "url": "https://open.spotify.com/album/1WqN51nbtp6858wqmDPLYR"
+      },
+      "artists": [
+        {
+          "name": "Kei Sugawara",
+          "url": "https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS"
+        }
+      ],
+      "date_added": "2025-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135554,
+      "name": "\u904a\u970a\u5a5a",
+      "url": "https://open.spotify.com/track/0cDMDQnj35KT8WrkSnbzeL"
     },
     {
       "album": {

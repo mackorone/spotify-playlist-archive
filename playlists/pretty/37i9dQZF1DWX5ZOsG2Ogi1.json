@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Perreo del bueno! twerk that \ud83c\udf51 Cover: KAROL G",
-  "num_followers": 1341669,
+  "num_followers": 1341755,
   "original_name": "Puro Perreo",
   "owner": {
     "name": "Spotify",
@@ -527,6 +527,22 @@
     {
       "added_at": "2025-05-23 17:52:32",
       "album": {
+        "name": "LA VIDA ES UNA",
+        "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 197920,
+      "name": "LALA",
+      "url": "https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG"
+    },
+    {
+      "added_at": "2025-05-23 17:52:32",
+      "album": {
         "name": "PONTE LOKITA",
         "url": "https://open.spotify.com/album/23x1J2mnb1oMcD1ib0gCVx"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 183673,
       "name": "PONTE LOKITA",
       "url": "https://open.spotify.com/track/0Lahr7sUDdtYnX3n3KobR6"
-    },
-    {
-      "added_at": "2025-05-23 17:52:32",
-      "album": {
-        "name": "LA VIDA ES UNA",
-        "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 197920,
-      "name": "LALA",
-      "url": "https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG"
     },
     {
       "added_at": "2025-05-23 17:52:32",
@@ -987,8 +987,8 @@
     {
       "added_at": "2025-05-23 17:52:32",
       "album": {
-        "name": "No Ponga Excusas",
-        "url": "https://open.spotify.com/album/3j9j0wgXwhQyr4urIIkfL4"
+        "name": "Conmigo Se Escapa",
+        "url": "https://open.spotify.com/album/5y6DZbTtvo0T3ZGUufeDVj"
       },
       "artists": [
         {
@@ -996,9 +996,9 @@
           "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
         }
       ],
-      "duration_ms": 164956,
-      "name": "No Ponga Excusas",
-      "url": "https://open.spotify.com/track/21hsqOOUfdSjHi3SVz8oyv"
+      "duration_ms": 151442,
+      "name": "Conmigo Se Escapa",
+      "url": "https://open.spotify.com/track/2U48v71nIFHBxdKsih8r4P"
     },
     {
       "added_at": "2025-05-23 17:52:32",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2025-05-23 17:52:32",
       "album": {
-        "name": "DON KBRN",
-        "url": "https://open.spotify.com/album/77WXheyyYBkqqz6Q19l37a"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        }
-      ],
-      "duration_ms": 203750,
-      "name": "El Reggaet\u00f3n del Disco",
-      "url": "https://open.spotify.com/track/15F8m8VShRlBXmSbwZBUTt"
-    },
-    {
-      "added_at": "2025-05-23 17:52:32",
-      "album": {
         "name": "Volv\u00ed",
         "url": "https://open.spotify.com/album/23zzZlUiABIg4ftZbJ7peK"
       },
@@ -1171,8 +1151,28 @@
     {
       "added_at": "2025-05-23 17:52:32",
       "album": {
-        "name": "Conmigo Se Escapa",
-        "url": "https://open.spotify.com/album/5y6DZbTtvo0T3ZGUufeDVj"
+        "name": "DON KBRN",
+        "url": "https://open.spotify.com/album/77WXheyyYBkqqz6Q19l37a"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "duration_ms": 203750,
+      "name": "El Reggaet\u00f3n del Disco",
+      "url": "https://open.spotify.com/track/15F8m8VShRlBXmSbwZBUTt"
+    },
+    {
+      "added_at": "2025-05-23 17:52:32",
+      "album": {
+        "name": "No Ponga Excusas",
+        "url": "https://open.spotify.com/album/3j9j0wgXwhQyr4urIIkfL4"
       },
       "artists": [
         {
@@ -1180,9 +1180,29 @@
           "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
         }
       ],
-      "duration_ms": 151442,
-      "name": "Conmigo Se Escapa",
-      "url": "https://open.spotify.com/track/2U48v71nIFHBxdKsih8r4P"
+      "duration_ms": 164956,
+      "name": "No Ponga Excusas",
+      "url": "https://open.spotify.com/track/21hsqOOUfdSjHi3SVz8oyv"
+    },
+    {
+      "added_at": "2025-05-23 17:52:32",
+      "album": {
+        "name": "Primer Dia de Clases",
+        "url": "https://open.spotify.com/album/5r8T7S23cVDSd7a045h4N5"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        },
+        {
+          "name": "JHAYCO",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 193636,
+      "name": "512",
+      "url": "https://open.spotify.com/track/5jzEwSyyymBlf1fa1o39T2"
     },
     {
       "added_at": "2025-05-23 17:52:32",
@@ -1207,26 +1227,6 @@
       "duration_ms": 159280,
       "name": "WHISKY A LA ROCA",
       "url": "https://open.spotify.com/track/3nDhIGkMvnsd8zo5u6eD05"
-    },
-    {
-      "added_at": "2025-05-23 17:52:32",
-      "album": {
-        "name": "Primer Dia de Clases",
-        "url": "https://open.spotify.com/album/5r8T7S23cVDSd7a045h4N5"
-      },
-      "artists": [
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        },
-        {
-          "name": "JHAYCO",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 193636,
-      "name": "512",
-      "url": "https://open.spotify.com/track/5jzEwSyyymBlf1fa1o39T2"
     },
     {
       "added_at": "2025-05-23 17:52:32",
@@ -1295,22 +1295,26 @@
     {
       "added_at": "2025-05-23 17:52:32",
       "album": {
-        "name": "BELLAKEO",
-        "url": "https://open.spotify.com/album/3VLY9g3CAG1Y5r2eGVEaZ0"
+        "name": "Cosmo",
+        "url": "https://open.spotify.com/album/3nEa7WJXcruywRIZXu6qRE"
       },
       "artists": [
         {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         },
         {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Chris Jedi",
+          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
         }
       ],
-      "duration_ms": 197333,
-      "name": "BELLAKEO",
-      "url": "https://open.spotify.com/track/05WVKTdZhlIMX4qqMLuo0f"
+      "duration_ms": 206103,
+      "name": "Pa Ti Estoy",
+      "url": "https://open.spotify.com/track/3j5zNcb0aSk7dx3W3mAKzw"
     },
     {
       "added_at": "2025-05-23 17:52:32",
@@ -1335,6 +1339,26 @@
       "duration_ms": 238666,
       "name": "MIRAME REMIX",
       "url": "https://open.spotify.com/track/2S8bH7ABqJ02bWeH8bgQfU"
+    },
+    {
+      "added_at": "2025-05-23 17:52:32",
+      "album": {
+        "name": "BELLAKEO",
+        "url": "https://open.spotify.com/album/3VLY9g3CAG1Y5r2eGVEaZ0"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "BELLAKEO",
+      "url": "https://open.spotify.com/track/05WVKTdZhlIMX4qqMLuo0f"
     },
     {
       "added_at": "2025-05-23 17:52:32",
@@ -1371,30 +1395,6 @@
       "duration_ms": 417920,
       "name": "Te Bot\u00e9 - Remix",
       "url": "https://open.spotify.com/track/3V8UKqhEK5zBkBb6d6ub8i"
-    },
-    {
-      "added_at": "2025-05-23 17:52:32",
-      "album": {
-        "name": "Cosmo",
-        "url": "https://open.spotify.com/album/3nEa7WJXcruywRIZXu6qRE"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Chris Jedi",
-          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
-        }
-      ],
-      "duration_ms": 206103,
-      "name": "Pa Ti Estoy",
-      "url": "https://open.spotify.com/track/3j5zNcb0aSk7dx3W3mAKzw"
     },
     {
       "added_at": "2025-05-23 17:52:32",
@@ -1811,6 +1811,26 @@
     {
       "added_at": "2025-05-23 17:52:32",
       "album": {
+        "name": "Mamoncita",
+        "url": "https://open.spotify.com/album/0Qk9UcxgtYiVrF3lKWqucN"
+      },
+      "artists": [
+        {
+          "name": "Victor Valverde",
+          "url": "https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf"
+        },
+        {
+          "name": "Kevin AMF",
+          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
+        }
+      ],
+      "duration_ms": 189320,
+      "name": "Mamoncita",
+      "url": "https://open.spotify.com/track/0YuobxSQEnwYECp7PS00nP"
+    },
+    {
+      "added_at": "2025-05-23 17:52:32",
+      "album": {
         "name": "\u00c9l No Es Tuyo",
         "url": "https://open.spotify.com/album/0baLGh3enDgF1Ley0q8NtG"
       },
@@ -1831,26 +1851,6 @@
       "duration_ms": 216050,
       "name": "\u00c9l No Es Tuyo",
       "url": "https://open.spotify.com/track/1Ob7BoZlmwL5itaJAScc1I"
-    },
-    {
-      "added_at": "2025-05-23 17:52:32",
-      "album": {
-        "name": "Mamoncita",
-        "url": "https://open.spotify.com/album/0Qk9UcxgtYiVrF3lKWqucN"
-      },
-      "artists": [
-        {
-          "name": "Victor Valverde",
-          "url": "https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf"
-        },
-        {
-          "name": "Kevin AMF",
-          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
-        }
-      ],
-      "duration_ms": 189320,
-      "name": "Mamoncita",
-      "url": "https://open.spotify.com/track/0YuobxSQEnwYECp7PS00nP"
     },
     {
       "added_at": "2025-05-23 17:52:32",
@@ -1939,26 +1939,6 @@
     {
       "added_at": "2025-05-23 17:52:32",
       "album": {
-        "name": "Qui\u00e9n es Dei V?",
-        "url": "https://open.spotify.com/album/2i6InsyHZPR6NBFniDivF5"
-      },
-      "artists": [
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        },
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Rapido (with Cris Mj)",
-      "url": "https://open.spotify.com/track/1emJPywtseFLmLCcPY92dW"
-    },
-    {
-      "added_at": "2025-05-23 17:52:32",
-      "album": {
         "name": "BONNIE AND CLYDE (REMIX)",
         "url": "https://open.spotify.com/album/2HeKQhQNkXEbaMxawEv4Om"
       },
@@ -2027,22 +2007,22 @@
     {
       "added_at": "2025-05-23 17:52:32",
       "album": {
-        "name": "Kilerito",
-        "url": "https://open.spotify.com/album/7aqQhBZNAFuzSclpQ5wRFm"
+        "name": "Qui\u00e9n es Dei V?",
+        "url": "https://open.spotify.com/album/2i6InsyHZPR6NBFniDivF5"
       },
       "artists": [
         {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
         },
         {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
         }
       ],
-      "duration_ms": 225270,
-      "name": "Kilerito",
-      "url": "https://open.spotify.com/track/3kGMgEDHQoWykByLL6Jut3"
+      "duration_ms": 146000,
+      "name": "Rapido (with Cris Mj)",
+      "url": "https://open.spotify.com/track/1emJPywtseFLmLCcPY92dW"
     },
     {
       "added_at": "2025-05-23 17:52:32",
@@ -2067,6 +2047,26 @@
     {
       "added_at": "2025-05-23 17:52:32",
       "album": {
+        "name": "Kilerito",
+        "url": "https://open.spotify.com/album/7aqQhBZNAFuzSclpQ5wRFm"
+      },
+      "artists": [
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 225270,
+      "name": "Kilerito",
+      "url": "https://open.spotify.com/track/3kGMgEDHQoWykByLL6Jut3"
+    },
+    {
+      "added_at": "2025-05-23 17:52:32",
+      "album": {
         "name": "P\u00e9gate",
         "url": "https://open.spotify.com/album/1jf9BeWRyKwxDmFN8Xzc8g"
       },
@@ -2079,6 +2079,42 @@
       "duration_ms": 186096,
       "name": "P\u00e9gate",
       "url": "https://open.spotify.com/track/3E8xyYdIPpiH2wNEozE68I"
+    },
+    {
+      "added_at": "2025-05-23 17:52:32",
+      "album": {
+        "name": "Holanda",
+        "url": "https://open.spotify.com/album/42D6fdFJ4SLnh4jXZJrsNa"
+      },
+      "artists": [
+        {
+          "name": "JHAYCO",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 231693,
+      "name": "Holanda",
+      "url": "https://open.spotify.com/track/6irysuQyZWd7Bjj7ePiOs2"
+    },
+    {
+      "added_at": "2025-05-23 17:52:32",
+      "album": {
+        "name": "De Chava",
+        "url": "https://open.spotify.com/album/44pDDIFsx4YTZkKPErlEtn"
+      },
+      "artists": [
+        {
+          "name": "Yeri Mua",
+          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
+        },
+        {
+          "name": "Lewis Somes",
+          "url": "https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3"
+        }
+      ],
+      "duration_ms": 169200,
+      "name": "Morrita (Tinker Bell)",
+      "url": "https://open.spotify.com/track/6YdkAzfexm7nUydxWaU9aQ"
     },
     {
       "added_at": "2025-05-23 17:52:32",
@@ -2103,42 +2139,6 @@
       "duration_ms": 230693,
       "name": "Una Locura",
       "url": "https://open.spotify.com/track/5y7DaS3jAc9eZzcSOoUIwU"
-    },
-    {
-      "added_at": "2025-05-23 17:52:32",
-      "album": {
-        "name": "Holanda",
-        "url": "https://open.spotify.com/album/42D6fdFJ4SLnh4jXZJrsNa"
-      },
-      "artists": [
-        {
-          "name": "JHAYCO",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 231693,
-      "name": "Holanda",
-      "url": "https://open.spotify.com/track/6irysuQyZWd7Bjj7ePiOs2"
-    },
-    {
-      "added_at": "2025-05-23 17:52:32",
-      "album": {
-        "name": "NACER DE NUEVO",
-        "url": "https://open.spotify.com/album/2Q3qBzFiex2SN5hWMEJj1H"
-      },
-      "artists": [
-        {
-          "name": "JC Reyes",
-          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
-        },
-        {
-          "name": "Sky Rompiendo",
-          "url": "https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW"
-        }
-      ],
-      "duration_ms": 141600,
-      "name": "DESEO",
-      "url": "https://open.spotify.com/track/0J2YHeebc3HvUDl2XDPu7d"
     }
   ],
   "unique_name": "Puro Perreo",

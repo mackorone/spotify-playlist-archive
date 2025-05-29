@@ -4,7 +4,7 @@
 
 > Drift off to these peaceful classical melodies.
 
-228 songs - 10 hr 49 min
+229 songs - 10 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Impressions](https://open.spotify.com/track/2IxfYyUQFZWoopvcfOmKnV) | [Joseph Vaux](https://open.spotify.com/artist/3xeLXw1KYDFIZlod0XGHr1) | [Impressions](https://open.spotify.com/album/319m1F9IJTZ6ups51e1m4N) | 2:43 | 2023-09-29 | 2025-05-17 |
 | [Impromptu, No\. 1](https://open.spotify.com/track/0n64jayPuTWrRP8EewJ6bJ) | [Thomas Farnon](https://open.spotify.com/artist/21toYB9udeC6Zdi9fJL0wu) | [Two Impromptus](https://open.spotify.com/album/4B3xYFlGSx7Bp9PAIgYdfc) | 3:26 | 2021-11-09 | 2022-02-01 |
 | [In my arms](https://open.spotify.com/track/54y634vST5xlwpSMwKcXoK) | [Limestone Quarry](https://open.spotify.com/artist/4VhlhOe3FHkPzW4BsYR9EC) | [In my arms](https://open.spotify.com/album/0eQUSx23ROwXjwPKo0BQLo) | 3:26 | 2023-10-10 |  |
+| [In the Quiet Hours](https://open.spotify.com/track/0mhzqS1uEIQm49i8yH7eUh) | [Harmonic Reverie](https://open.spotify.com/artist/5MQgVlRZZAASmBxSk6bbqi) | [In the Quiet Hours](https://open.spotify.com/album/0Hxyrm1hOIXjJFcXb51kn8) | 3:19 | 2025-05-28 |  |
 | [In The Stars](https://open.spotify.com/track/2hxaiA9EtXjMlXhG6SCoW8) | [Rebecca Woods](https://open.spotify.com/artist/5my6FfdYpwFo5cEaaqzTnz) | [In The Stars](https://open.spotify.com/album/0lR0lulxdzgblDc5QLbQKV) | 2:43 | 2023-02-28 | 2025-05-17 |
 | [Infinity](https://open.spotify.com/track/2FR3mH7DwsaX3TcObkUEX3) | [Rosey Chan](https://open.spotify.com/artist/1u8TRAmMBFoaqor9uJyyXR), [Sonic Apothecary](https://open.spotify.com/artist/1jHK7GApaC0DbeqhXIWUrr) | [Sonic Apothecary](https://open.spotify.com/album/0xngclE7lI1lFO3Fu9Kzcb) | 7:28 | 2022-06-21 | 2024-10-02 |
 | [Island II](https://open.spotify.com/track/1qGI8KYIXtJK9WTMC6nIQM) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Island II](https://open.spotify.com/album/1ZzQ5rkaZ8EVR7SiQUZC9l) | 2:23 | 2022-02-21 |  |
@@ -175,7 +176,7 @@
 | [Saint\-Saëns / Transcr\. Vidal: Le carnaval des animaux: XIII\. Le cygne](https://open.spotify.com/track/40IvETLq2Y1Su1Z0GWumRF) | [Camille Saint\-Saëns](https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0), [Gautier Capuçon](https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI), [Douglas Boyd](https://open.spotify.com/artist/652Q4y5ewFDuXGqcmFPo2E), [Orchestre de chambre de Paris](https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I) | [Intuition](https://open.spotify.com/album/77NahN2GH3Z5Ss4VAhL6MW) | 3:28 | 2022-06-21 | 2023-09-30 |
 | [saman](https://open.spotify.com/track/5RqKo9P4DLA0bVyY70cWkr) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [re:member](https://open.spotify.com/album/6JpQGIi2he6iskzR4aLwPG) | 2:11 | 2021-11-09 | 2025-02-27 |
 | [Satori](https://open.spotify.com/track/24gIZr0tHpmgg92zkc8YMm) | [Marlon Guild](https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl) | [Satori](https://open.spotify.com/album/3q8rTx0wU3FaaGwmuhhfcn) | 2:18 | 2023-09-29 |  |
-| [Shaman](https://open.spotify.com/track/1BpmW0DUzzFCsDmBtcGY2k) | [Harold Kay](https://open.spotify.com/artist/2syEslXYK8k3kpiQ2RXBDm) | [Shaman](https://open.spotify.com/album/0mGr21i3WKYLlEouTu8lae) | 2:18 | 2024-10-21 |  |
+| [Shaman](https://open.spotify.com/track/1BpmW0DUzzFCsDmBtcGY2k) | [Harold Kay](https://open.spotify.com/artist/2syEslXYK8k3kpiQ2RXBDm) | [Shaman](https://open.spotify.com/album/0mGr21i3WKYLlEouTu8lae) | 2:18 | 2024-10-21 | 2025-05-29 |
 | [Shroud of Night](https://open.spotify.com/track/55gJzsjaRb0nSv8ZyuUBqC) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Shroud of Night](https://open.spotify.com/album/5jIsBJGqv1y994K54N1QTp) | 3:19 | 2023-02-28 | 2024-01-03 |
 | [Silent Among Strangers](https://open.spotify.com/track/0QesMtYIzZ8yLPbSNYXqW1) | [Yeer Ifinies](https://open.spotify.com/artist/3GOZgVR0H4p50c5LaZ8kQx) | [Silent Among Strangers](https://open.spotify.com/album/6O8w2goMMDonSZnugTW4kL) | 2:30 | 2024-03-11 |  |
 | [Silent joy](https://open.spotify.com/track/5lS2q5nrx4qmBUD2ew3QMV) | [Lester Dann](https://open.spotify.com/artist/4LWygJYj8Gu9KJYUGsXBbB) | [Silent joy](https://open.spotify.com/album/29NkfVf1QGHv64uleVpGqo) | 2:25 | 2023-09-29 |  |

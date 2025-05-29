@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 428062,
+  "num_followers": 428094,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2025-03-31 08:13:36",
       "album": {
-        "name": "A Star Is Born Soundtrack",
-        "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 210200,
-      "name": "Always Remember Us This Way",
-      "url": "https://open.spotify.com/track/74iZuPGwyL33VlTr6jTnab"
-    },
-    {
-      "added_at": "2025-03-31 08:13:36",
-      "album": {
         "name": "Love Is a Four Letter Word (Deluxe Edition)",
         "url": "https://open.spotify.com/album/64SChsjQBiEe3aVTFYnW1b"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 240165,
       "name": "I Won't Give Up",
       "url": "https://open.spotify.com/track/53QF56cjZA9RTuuMZDrSA6"
+    },
+    {
+      "added_at": "2025-03-31 08:13:36",
+      "album": {
+        "name": "A Star Is Born Soundtrack",
+        "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 210200,
+      "name": "Always Remember Us This Way",
+      "url": "https://open.spotify.com/track/74iZuPGwyL33VlTr6jTnab"
     },
     {
       "added_at": "2025-03-31 08:13:36",
@@ -831,22 +831,6 @@
     {
       "added_at": "2025-03-31 08:13:36",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/5ota1DtixKfUcrsiazzgcK"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 174373,
-      "name": "Stay With Me - Live From Spotify Berlin",
-      "url": "https://open.spotify.com/track/6itWAD2WxmAVQgWuk85yXx"
-    },
-    {
-      "added_at": "2025-03-31 08:13:36",
-      "album": {
         "name": "Time After Time",
         "url": "https://open.spotify.com/album/3q7JpBcbZ1uGUypD5Dg8Xc"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 206226,
       "name": "Time After Time",
       "url": "https://open.spotify.com/track/4zUd12gfWCDzSNBp1b0jiE"
+    },
+    {
+      "added_at": "2025-03-31 08:13:36",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/5ota1DtixKfUcrsiazzgcK"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 174373,
+      "name": "Stay With Me - Live From Spotify Berlin",
+      "url": "https://open.spotify.com/track/6itWAD2WxmAVQgWuk85yXx"
     },
     {
       "added_at": "2025-03-31 08:13:36",
@@ -943,18 +943,18 @@
     {
       "added_at": "2025-03-31 08:13:36",
       "album": {
-        "name": "Footprints I Found",
-        "url": "https://open.spotify.com/album/5bXx1ncSvWPtNAuecQgsHf"
+        "name": "Wilco (The Album)",
+        "url": "https://open.spotify.com/album/3UeSYkvpAJfXp97Os7Y1sK"
       },
       "artists": [
         {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
         }
       ],
-      "duration_ms": 179173,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/40dfo65kBJa1UgzkD652Gl"
+      "duration_ms": 204706,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/5i57BBhq5eNVS5cBkDD69j"
     },
     {
       "added_at": "2025-03-31 08:13:36",
@@ -979,18 +979,18 @@
     {
       "added_at": "2025-03-31 08:13:36",
       "album": {
-        "name": "Wilco (The Album)",
-        "url": "https://open.spotify.com/album/3UeSYkvpAJfXp97Os7Y1sK"
+        "name": "Footprints I Found",
+        "url": "https://open.spotify.com/album/5bXx1ncSvWPtNAuecQgsHf"
       },
       "artists": [
         {
-          "name": "Wilco",
-          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
         }
       ],
-      "duration_ms": 204706,
-      "name": "You and I",
-      "url": "https://open.spotify.com/track/5i57BBhq5eNVS5cBkDD69j"
+      "duration_ms": 179173,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/40dfo65kBJa1UgzkD652Gl"
     },
     {
       "added_at": "2025-03-31 08:13:36",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2025-03-31 08:13:36",
       "album": {
-        "name": "Sanadoras Voluntades",
-        "url": "https://open.spotify.com/album/4en5TaKhMK6hxjQVW0hHoa"
-      },
-      "artists": [
-        {
-          "name": "Macaco",
-          "url": "https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT"
-        }
-      ],
-      "duration_ms": 164956,
-      "name": "Sanadoras Voluntades",
-      "url": "https://open.spotify.com/track/7AqHsrlrP34XzmOgx5CmGe"
-    },
-    {
-      "added_at": "2025-03-31 08:13:36",
-      "album": {
         "name": "Hay algo en ti",
         "url": "https://open.spotify.com/album/0XM53g2PoYVHPINFzwSYRW"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 146176,
       "name": "Hay algo en ti",
       "url": "https://open.spotify.com/track/4j8tH795UUTuCiBb7nUQXf"
+    },
+    {
+      "added_at": "2025-03-31 08:13:36",
+      "album": {
+        "name": "Sanadoras Voluntades",
+        "url": "https://open.spotify.com/album/4en5TaKhMK6hxjQVW0hHoa"
+      },
+      "artists": [
+        {
+          "name": "Macaco",
+          "url": "https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT"
+        }
+      ],
+      "duration_ms": 164956,
+      "name": "Sanadoras Voluntades",
+      "url": "https://open.spotify.com/track/7AqHsrlrP34XzmOgx5CmGe"
     },
     {
       "added_at": "2025-03-31 08:13:36",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2025-03-31 08:13:36",
       "album": {
-        "name": "Life Is A Movie",
-        "url": "https://open.spotify.com/album/3IJhzIBopdSE70xsu1RthO"
-      },
-      "artists": [
-        {
-          "name": "TRIST\u00c1N!",
-          "url": "https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0"
-        }
-      ],
-      "duration_ms": 181573,
-      "name": "Life Is A Movie",
-      "url": "https://open.spotify.com/track/5wLORt31zVolrz4fvekc9P"
-    },
-    {
-      "added_at": "2025-03-31 08:13:36",
-      "album": {
         "name": "Hold Your Head Up High",
         "url": "https://open.spotify.com/album/1utqu0XGDOsrDL4TWXhf8J"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 217360,
       "name": "Hold Your Head Up High",
       "url": "https://open.spotify.com/track/7oOsCpcgcLXKkkIPQzQ6cX"
+    },
+    {
+      "added_at": "2025-03-31 08:13:36",
+      "album": {
+        "name": "Life Is A Movie",
+        "url": "https://open.spotify.com/album/3IJhzIBopdSE70xsu1RthO"
+      },
+      "artists": [
+        {
+          "name": "TRIST\u00c1N!",
+          "url": "https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0"
+        }
+      ],
+      "duration_ms": 181573,
+      "name": "Life Is A Movie",
+      "url": "https://open.spotify.com/track/5wLORt31zVolrz4fvekc9P"
     },
     {
       "added_at": "2025-03-31 08:13:36",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2025-03-31 08:13:36",
       "album": {
-        "name": "siento mucho m\u00e1s",
-        "url": "https://open.spotify.com/album/4F8kyjMBeQC0CHgJd0Qi3C"
-      },
-      "artists": [
-        {
-          "name": "Flavio",
-          "url": "https://open.spotify.com/artist/2PpQXJidwYjlmvUyyWqsxN"
-        }
-      ],
-      "duration_ms": 169945,
-      "name": "siento mucho m\u00e1s",
-      "url": "https://open.spotify.com/track/0Htx70RXcDyejFDSdhzRvO"
-    },
-    {
-      "added_at": "2025-03-31 08:13:36",
-      "album": {
         "name": "Dos L\u00e1grimas, Dos Peces",
         "url": "https://open.spotify.com/album/76vM1rO3OsF38plPvdQUvE"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 220031,
       "name": "Dos L\u00e1grimas, Dos Peces",
       "url": "https://open.spotify.com/track/1ug7yXk31XK1rPcGw63tnQ"
+    },
+    {
+      "added_at": "2025-03-31 08:13:36",
+      "album": {
+        "name": "siento mucho m\u00e1s",
+        "url": "https://open.spotify.com/album/4F8kyjMBeQC0CHgJd0Qi3C"
+      },
+      "artists": [
+        {
+          "name": "Flavio",
+          "url": "https://open.spotify.com/artist/2PpQXJidwYjlmvUyyWqsxN"
+        }
+      ],
+      "duration_ms": 169945,
+      "name": "siento mucho m\u00e1s",
+      "url": "https://open.spotify.com/track/0Htx70RXcDyejFDSdhzRvO"
     },
     {
       "added_at": "2025-03-31 08:13:36",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2025-03-31 08:13:36",
       "album": {
-        "name": "Lento",
-        "url": "https://open.spotify.com/album/0vclQbN2PWFfbPnqsNwAOc"
-      },
-      "artists": [
-        {
-          "name": "Anne Lukin",
-          "url": "https://open.spotify.com/artist/2ZCMed7zvHPqwMcsYzYcGL"
-        }
-      ],
-      "duration_ms": 151027,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/4a2Bgq4J0Uxs1iEvRieM2z"
-    },
-    {
-      "added_at": "2025-03-31 08:13:36",
-      "album": {
         "name": "Bones",
         "url": "https://open.spotify.com/album/1wIySeB9NtReed6unvzzm8"
       },
@@ -1655,18 +1639,18 @@
     {
       "added_at": "2025-03-31 08:13:36",
       "album": {
-        "name": "Cruzando el Charco",
-        "url": "https://open.spotify.com/album/5i4yms2HXGAn5FW3Up5H3N"
+        "name": "Lento",
+        "url": "https://open.spotify.com/album/0vclQbN2PWFfbPnqsNwAOc"
       },
       "artists": [
         {
-          "name": "Marilia Monz\u00f3n",
-          "url": "https://open.spotify.com/artist/3bch3EeUoah5rDRni92X93"
+          "name": "Anne Lukin",
+          "url": "https://open.spotify.com/artist/2ZCMed7zvHPqwMcsYzYcGL"
         }
       ],
-      "duration_ms": 190502,
-      "name": "Cruzando el Charco",
-      "url": "https://open.spotify.com/track/4XPxyC1PRjZzPip0PRRkKO"
+      "duration_ms": 151027,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/4a2Bgq4J0Uxs1iEvRieM2z"
     },
     {
       "added_at": "2025-03-31 08:13:36",
@@ -1683,6 +1667,22 @@
       "duration_ms": 236462,
       "name": "Equilibri",
       "url": "https://open.spotify.com/track/5HDvMHInN6E41815Z6ZRlp"
+    },
+    {
+      "added_at": "2025-03-31 08:13:36",
+      "album": {
+        "name": "Cruzando el Charco",
+        "url": "https://open.spotify.com/album/5i4yms2HXGAn5FW3Up5H3N"
+      },
+      "artists": [
+        {
+          "name": "Marilia Monz\u00f3n",
+          "url": "https://open.spotify.com/artist/3bch3EeUoah5rDRni92X93"
+        }
+      ],
+      "duration_ms": 190502,
+      "name": "Cruzando el Charco",
+      "url": "https://open.spotify.com/track/4XPxyC1PRjZzPip0PRRkKO"
     }
   ],
   "unique_name": "Relax en casa",

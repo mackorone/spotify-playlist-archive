@@ -4,7 +4,7 @@
 
 > Because a quiet Sunday every now and again doesn't hurt anybody.
 
-203 songs - 12 hr 32 min
+204 songs - 12 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [nothing to prove](https://open.spotify.com/track/1BL1fu0ToUrnrTh1M9wVRG) | [Allysha Joy](https://open.spotify.com/artist/3CzYPWEnpaODw56A53qxh3) | [The Making of Silk](https://open.spotify.com/album/6KBKOiiUG7akDFH4J0mQDT) | 4:14 | 2024-09-12 | 2024-09-20 |
 | [Now And Then](https://open.spotify.com/track/4vziJcnB2Qyi9o4nIRUeN7) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Now And Then](https://open.spotify.com/album/2qQP2NgOoH6HqknnbpJmIk) | 4:08 | 2023-11-02 | 2024-01-02 |
 | [ocean eyes](https://open.spotify.com/track/7hDVYcQq6MxkdJGweuCtl9) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [dont smile at me](https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU) | 3:20 | 2023-06-15 |  |
-| [Older](https://open.spotify.com/track/52iLDrSoRtf9lcgFuLVfqE) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Older](https://open.spotify.com/album/2mTA1YzwWs39JdjSIQNCBS) | 3:11 | 2024-03-28 |  |
+| [Older](https://open.spotify.com/track/52iLDrSoRtf9lcgFuLVfqE) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Older](https://open.spotify.com/album/2mTA1YzwWs39JdjSIQNCBS) | 3:11 | 2024-03-28 | 2025-05-29 |
 | [Omen](https://open.spotify.com/track/0BKhef93QmTKCW4ub1lNNa) | [Ella Thompson](https://open.spotify.com/artist/54o0UmPHSaZ2ADMID5o6y3) | [Omen](https://open.spotify.com/album/0UhsLckMXwTvr7rTWglH8C) | 3:44 | 2024-09-12 | 2024-09-20 |
 | [One More Step](https://open.spotify.com/track/5ah0lStBk74Qb8pgSeLupG) | [Ella Thompson](https://open.spotify.com/artist/54o0UmPHSaZ2ADMID5o6y3) | [One More Step](https://open.spotify.com/album/5wUg4CIGGVX89ra1OLqAuG) | 3:19 | 2024-10-10 | 2024-11-08 |
 | [Orange Juice](https://open.spotify.com/track/07UFnnK3uPIuKv5Rs9TmXl) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 4:57 | 2024-03-28 |  |
@@ -145,6 +145,7 @@
 | [S P E Y S I D E](https://open.spotify.com/track/6khKJVbTxzfhbGfHMtyOM8) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [S P E Y S I D E](https://open.spotify.com/album/5VFsihsTprFnqRHyrNxMPs) | 3:29 | 2024-09-26 | 2024-11-16 |
 | [Same Day, Same Face](https://open.spotify.com/track/6yozB8rb1E3xPD4WK1TFYW) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Same Day, Same Face](https://open.spotify.com/album/1IfCtqu5HGgG8uB7vOGYNT) | 2:35 | 2024-02-22 | 2024-03-01 |
 | [Say Don't Go \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/4NioO5R9sHEZh4cGzMHyNt) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 4:39 | 2023-11-02 | 2025-05-25 |
+| [Say Something](https://open.spotify.com/track/6Vc5wAMmXdKIAM7WUoEb7N) | [A Great Big World](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Is There Anybody Out There?](https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl) | 3:49 | 2024-03-28 |  |
 | [Say You Won't Let Go](https://open.spotify.com/track/5uCax9HTNlzGybIStD3vDh) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Back from the Edge](https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD) | 3:31 | 2023-06-15 |  |
 | [Scars To Your Beautiful](https://open.spotify.com/track/0wI7QkCcs8FUQE1OkXUIqd) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Know\-It\-All](https://open.spotify.com/album/7HnbhIDKXIBhMR4EPGuMgu) | 3:50 | 2023-06-15 | 2024-04-19 |
 | [Sexy to Someone](https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sexy to Someone](https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU) | 3:27 | 2024-06-27 | 2024-08-07 |

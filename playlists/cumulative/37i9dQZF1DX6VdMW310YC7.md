@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,768 songs - 5 day 0 hr 31 min
+1,769 songs - 5 day 0 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [Bloodline feat\. Tomas Høffding](https://open.spotify.com/track/1GyLXvaWJ0dlugN99u4kKb) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [Tomas Høffding](https://open.spotify.com/artist/3vAZRzjco8xKk2NbT5BQ6A) | [1983](https://open.spotify.com/album/31bHWGxXkpup6zbPdNjhPy) | 5:50 | 2020-02-29\* | 2020-03-16 |
 | [Bloom](https://open.spotify.com/track/1HaJ9IFikoK82LmPkzNr3x) | [Faodail](https://open.spotify.com/artist/7p53fRMaR9h4Ri162E5LGi) | [Painting In Shades](https://open.spotify.com/album/02SXB7KBEsKUCNMrbJTsr3) | 4:43 | 2021-04-03 | 2022-07-28 |
 | [Blossom](https://open.spotify.com/track/5kAv0wk38BRqdMPbaGbKQe) | [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf) | [Colorize 2023 Spring Sampler](https://open.spotify.com/album/2RQiB9SPWqSLQETVpLVacO) | 4:00 | 2023-07-07 | 2024-04-19 |
+| [Blue](https://open.spotify.com/track/72bs66ZAxaeg7GUAVUQzZy) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Blue](https://open.spotify.com/album/7qSI8zRVFIOUKdENPi03E5) | 3:37 | 2025-05-23 |  |
 | [Blue Dream \- Koresma Remix](https://open.spotify.com/track/39KSC7pPxIp15t9NknC6mb) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm), [Koresma](https://open.spotify.com/artist/14EybDMySlkntyuxgm1pek) | [Mountain of Memory \(Remixes\)](https://open.spotify.com/album/2nqwTmApCiPP6jAAB7ZtDn) | 3:07 | 2020-10-09 | 2022-06-12 |
 | [Blue Dream \- Koresma Remix](https://open.spotify.com/track/3rbrMdejDkWGZOTEbgpTBw) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm), [Koresma](https://open.spotify.com/artist/14EybDMySlkntyuxgm1pek) | [Mountain of Memory \(Remixes\)](https://open.spotify.com/album/6iMbPcPoekOpMwnek7k2nZ) | 3:07 | 2022-07-01 | 2022-10-13 |
 | [Blue Light \- Edit](https://open.spotify.com/track/3qB9gAUTTP6EirW5apZuVH) | [Juno Mamba](https://open.spotify.com/artist/5RAHYRgJdI1D82IANP5yYL) | [Blue Light](https://open.spotify.com/album/01XNviYDMM7g0rFi6NqEi0) | 4:21 | 2021-10-22 | 2022-04-20 |
@@ -1361,7 +1362,7 @@
 | [Shimmer](https://open.spotify.com/track/4X2Qg72J6kqCGNqNfXtt4A) | [Farves](https://open.spotify.com/artist/5xwXeWb8ITd7ESHk3y5PUB) | [Shimmer](https://open.spotify.com/album/59jjqcR0O0eWGxhG9t15aS) | 3:32 | 2022-12-28 | 2023-01-06 |
 | [Shooting Stars](https://open.spotify.com/track/3j4Q0OcxYgvJYev93mevxz) | [POOLCLVB](https://open.spotify.com/artist/2YuGcy0A3VKg9jRbadzoJL), [MARSHES](https://open.spotify.com/artist/22QCRSs7Gwn7UmLQ1xImIQ) | [Shooting Stars](https://open.spotify.com/album/7ntE6qOgJMXsyylRY1HGjB) | 3:24 | 2020-07-18 | 2020-10-10 |
 | [Shortline \- Frank Wiedemann Remix](https://open.spotify.com/track/2hmCjVFWlmcaJOmX9eT8hf) | [Howling](https://open.spotify.com/artist/3WTWOrIS77vY3hkCFqTyIw), [Frank Wiedemann](https://open.spotify.com/artist/1gbnoyNZEf6K9HytIv1D94) | [Shortline \(Frank Wiedemann Remix\)](https://open.spotify.com/album/1sGTLVhdlJWyQHn6FCutAg) | 9:20 | 2020-02-29\* | 2020-03-16 |
-| [Show Me](https://open.spotify.com/track/7rPKSjPgwWDc8S9toczFgV) | [Arodes](https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47), [TH;EN](https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff), [Henri Bergmann](https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo), [Beobê](https://open.spotify.com/artist/1SNjvPpsWFYWGpJW5wPeeK) | [Show Me](https://open.spotify.com/album/5Ta8jERROmZgTiCGAt6Mkn) | 2:50 | 2025-04-18 |  |
+| [Show Me](https://open.spotify.com/track/7rPKSjPgwWDc8S9toczFgV) | [Arodes](https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47), [TH;EN](https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff), [Henri Bergmann](https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo), [Beobê](https://open.spotify.com/artist/1SNjvPpsWFYWGpJW5wPeeK) | [Show Me](https://open.spotify.com/album/5Ta8jERROmZgTiCGAt6Mkn) | 2:50 | 2025-04-18 | 2025-05-29 |
 | [Show Me](https://open.spotify.com/track/3y8fG2oGK5sx7liKZ9oyx7) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA), [Hundred Waters](https://open.spotify.com/artist/108ugtkRFQzP9nGgNiyERO) | [Show Me](https://open.spotify.com/album/2FgS1KHblcOFOiAhN7nJNH) | 3:47 | 2020-05-18 | 2020-07-18 |
 | [show me](https://open.spotify.com/track/5eSpXdMMcdQoLNaAnqrX7g) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [album1](https://open.spotify.com/album/09lJhufJEYwygdKq3vUa8t) | 5:41 | 2020-03-20 | 2020-10-09 |
 | [Show Me](https://open.spotify.com/track/1Btk4gaExuQpysaG2FNjaG) | [Solicit](https://open.spotify.com/artist/4BgSaBlB2eULHaOUtXSgys), [Floro](https://open.spotify.com/artist/0yvd3GXMKpg82pnDNEQjGq) | [Show Me](https://open.spotify.com/album/4Ic7qWtNWvx0EIM2jk2ygc) | 4:08 | 2021-04-30 | 2022-07-28 |

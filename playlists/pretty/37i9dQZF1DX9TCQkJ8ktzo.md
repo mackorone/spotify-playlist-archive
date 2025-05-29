@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TCQkJ8ktzo.md) - [plain]
 
 > The Latin soundtrack of the 60s! Cover: Armando Manzanero
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,035 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,060 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TCQkJ8ktzo.md) - [plain]
 | 10 | [Guantanamera](https://open.spotify.com/track/6Z6bFqqxhHS53Z5SqT0exe) | [The Sandpipers](https://open.spotify.com/artist/3iBuBivHItWMpdiVmLT0uB) | [Guantanamera](https://open.spotify.com/album/6GJ2oQ4v90ylX6WQTobmd5) | 3:13 |
 | 11 | [Vete Con Ella \(Chappel of Love\)](https://open.spotify.com/track/3YjwaunKJ7iXhXj98eRRsM) | [Mayte Gaos](https://open.spotify.com/artist/2nWZrWrYWk8Y9gBtprx8Hb) | [Los Éxitos de Mayte Gaos](https://open.spotify.com/album/1wTS67I6XW53fxL2TvJiC3) | 2:53 |
 | 12 | [El Ladrón](https://open.spotify.com/track/6wD6ELX0mFyBzEMqhDp3F8) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [15 EXITOS](https://open.spotify.com/album/2CHM7kNjxlfUHpOj1BuxOs) | 2:46 |
-| 13 | [Llegó Borracho el Borracho](https://open.spotify.com/track/6ozLQ1wSAPmS7LVsHA0CdX) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Corridos Y Rancheras](https://open.spotify.com/album/0RZ4nhnAHsZeYPtKMX16hf) | 3:06 |
+| 13 | [Escándalo](https://open.spotify.com/track/2BOqc30CNk9sp1MHbzBDR3) | [Marco Antonio Muñiz](https://open.spotify.com/artist/4BLAYO57LtkaZ6odOdWmGc) | [Coleccion Original](https://open.spotify.com/album/5mwwGVisjZAiAUwLF0IZFC) | 2:32 |
 | 14 | [Vas a Llorar](https://open.spotify.com/track/4saXbAXjAGfKiH5yJBCSai) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Palabra De Rey](https://open.spotify.com/album/0npWlNrpoaCdnsrWjiUUtW) | 3:00 |
-| 15 | [Escándalo](https://open.spotify.com/track/2BOqc30CNk9sp1MHbzBDR3) | [Marco Antonio Muñiz](https://open.spotify.com/artist/4BLAYO57LtkaZ6odOdWmGc) | [Coleccion Original](https://open.spotify.com/album/5mwwGVisjZAiAUwLF0IZFC) | 2:32 |
+| 15 | [Llegó Borracho el Borracho](https://open.spotify.com/track/6ozLQ1wSAPmS7LVsHA0CdX) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Corridos Y Rancheras](https://open.spotify.com/album/0RZ4nhnAHsZeYPtKMX16hf) | 3:06 |
 | 16 | [Tus Ojos](https://open.spotify.com/track/2ikdhRtBUIS1sBpN0j0ozp) | [Los Locos Del Ritmo](https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO) | [Rock \- Lo Mejor De Los Locos Del Ritmo \- Pioneros Del Rock En México](https://open.spotify.com/album/6hjdFdFkgLdMucS7yAghxK) | 3:25 |
 | 17 | [De Mil Maneras](https://open.spotify.com/track/23SdQDuoyHarQwRC95Xo6c) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [La Gran Colección del 60 Aniversario CBS \- Sonora Santanera](https://open.spotify.com/album/6poi9pfnqjVUt5EZtWEUA4) | 2:43 |
 | 18 | [Tu Seras Mi Baby](https://open.spotify.com/track/4tko6GvGRI2Ege56DN9QNa) | [Les Surfs](https://open.spotify.com/artist/5ZKI9KiIkT1VRgDOfawSjx) | [Los Éxitos en Español y Francés](https://open.spotify.com/album/6wjhvF4EuYuZFcs5PpKzRn) | 2:26 |
@@ -50,12 +50,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TCQkJ8ktzo.md) - [plain]
 | 40 | [Felicidad](https://open.spotify.com/track/2JXbqC4UlzqC8TGJtUMNPp) | [Armando Manzanero](https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT) | [A Mi Amor Con Mi Amor](https://open.spotify.com/album/2UER4o2CMFxJ0qEG662gcu) | 2:08 |
 | 41 | [Más Allá](https://open.spotify.com/track/58cW9R0YKli1aXJZ9QwluZ) | [Los Tres Diamantes](https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1) | [Trios de Oro, Vol\. 1](https://open.spotify.com/album/0mSdcs38g8JWVrMmfLdHBR) | 2:37 |
 | 42 | [El Rock de la Cárcel \- Jailhouse Rock](https://open.spotify.com/track/378st4sJlIIFz9IqA2uJJz) | [Los Teen Tops](https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy) | [Personalidad](https://open.spotify.com/album/4fVeZv12kCMzF72ve0HwWZ) | 2:10 |
-| 43 | [Bemba Colorá](https://open.spotify.com/track/6vWPBJvH1NdMvjsXWTDtjh) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Son con Guaguancó](https://open.spotify.com/album/2j9JHp4omrgcgXsWLoMG2J) | 3:31 |
+| 43 | [Locamente Te Amaré](https://open.spotify.com/track/4qH1UHtlwb8IRQOnu22lnJ) | [Los Cinco Latinos](https://open.spotify.com/artist/5T5Xw3jmM98NH8KMFB6qrX) | [Versiones Originales Vol.2](https://open.spotify.com/album/3dEUs2tF2pKjdIHIjD6IYK) | 2:39 |
 | 44 | [Somos Novios](https://open.spotify.com/track/5S768Vsh3sh6bMtDwVF9by) | [Armando Manzanero Y Su Piano](https://open.spotify.com/artist/3RLrmzOMJMwWVGm2MLiNwq) | [Armando Manzanero, Su Piano y Su Música](https://open.spotify.com/album/1d4stNciFHtWTc7Qc3uHXy) | 2:37 |
-| 45 | [Locamente Te Amaré](https://open.spotify.com/track/4qH1UHtlwb8IRQOnu22lnJ) | [Los Cinco Latinos](https://open.spotify.com/artist/5T5Xw3jmM98NH8KMFB6qrX) | [Versiones Originales Vol.2](https://open.spotify.com/album/3dEUs2tF2pKjdIHIjD6IYK) | 2:39 |
-| 46 | [Shimmy Shimmy Ko Ko Bop](https://open.spotify.com/track/3Y6cwxZjctcQvtYtcQxKXr) | [Los Yetis](https://open.spotify.com/artist/7vIO2LfB0BhbA8ltndHpFA) | [Historia Músical \- 40 Éxitos del Festival de Ancón](https://open.spotify.com/album/5Cm7sIZcZntOWP4HVp5Ki9) | 2:16 |
+| 45 | [Bemba Colorá](https://open.spotify.com/track/6vWPBJvH1NdMvjsXWTDtjh) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Son con Guaguancó](https://open.spotify.com/album/2j9JHp4omrgcgXsWLoMG2J) | 3:31 |
+| 46 | [Colores \- Remastered](https://open.spotify.com/track/068uocva293Tr77QgIZeIf) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Lo Mejor De \(Remastered\)](https://open.spotify.com/album/3SKhjtGcCYGzPKIDFH8Uom) | 2:12 |
 | 47 | [Pensaba en Ti](https://open.spotify.com/track/5NM7BTvP4yr58JqwN3BYGm) | [Los Teen Tops](https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy) | [Personalidad](https://open.spotify.com/album/4fVeZv12kCMzF72ve0HwWZ) | 3:22 |
-| 48 | [Colores \- Remastered](https://open.spotify.com/track/068uocva293Tr77QgIZeIf) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Lo Mejor De \(Remastered\)](https://open.spotify.com/album/3SKhjtGcCYGzPKIDFH8Uom) | 2:12 |
+| 48 | [Shimmy Shimmy Ko Ko Bop](https://open.spotify.com/track/3Y6cwxZjctcQvtYtcQxKXr) | [Los Yetis](https://open.spotify.com/artist/7vIO2LfB0BhbA8ltndHpFA) | [Historia Músical \- 40 Éxitos del Festival de Ancón](https://open.spotify.com/album/5Cm7sIZcZntOWP4HVp5Ki9) | 2:16 |
 | 49 | [El día de los enamorados \(remastered\)](https://open.spotify.com/track/3CwGLO5ypNPGBYKP2qbn0m) | [Monna Bell](https://open.spotify.com/artist/2aJtGPY592hgmkGzD9oleC) | [Monna Bell\. Sus Primeros EP's \(1959\-1961\)](https://open.spotify.com/album/6bdKkTA2hfqQQ32fhkamO3) | 2:06 |
 | 50 | [Herencia Gitana](https://open.spotify.com/track/71OaY7celWpuQh00OlDrls) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Cuba y Puerto Rico](https://open.spotify.com/album/1P7Ucst33FwWbnoCj0TlNw) | 3:11 |
 

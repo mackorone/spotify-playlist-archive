@@ -2760,7 +2760,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-29",
       "duration_ms": 149944,
       "name": "f\u00fcr Meesha",
       "url": "https://open.spotify.com/track/2QZwhaG5da1frWBQZsallH"
@@ -4091,6 +4091,24 @@
     },
     {
       "album": {
+        "name": "golden hour dimly lit",
+        "url": "https://open.spotify.com/album/5SJZYPSRHMKU4uKse3ePmb"
+      },
+      "artists": [
+        {
+          "name": "Be Still the Earth",
+          "url": "https://open.spotify.com/artist/7FedGrros77uFxBy4PT8k6"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141379,
+      "name": "lit",
+      "url": "https://open.spotify.com/track/1vSrVWErL3uPa1pntwaJ7c"
+    },
+    {
+      "album": {
         "name": "Blizz",
         "url": "https://open.spotify.com/album/6rzMe09QPlvWFvW1hhrxS9"
       },
@@ -4514,7 +4532,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-29",
       "duration_ms": 326140,
       "name": "Memory Ornament",
       "url": "https://open.spotify.com/track/4E4AEPYzyX5a4yxjgZubmN"
@@ -7874,6 +7892,24 @@
       "duration_ms": 162000,
       "name": "Wanderstop Part 1",
       "url": "https://open.spotify.com/track/4VMUh61jfChVRAnO4RLrsZ"
+    },
+    {
+      "album": {
+        "name": "wavesss",
+        "url": "https://open.spotify.com/album/6G4QtXGiov1spfRxO8PisF"
+      },
+      "artists": [
+        {
+          "name": "Oily James",
+          "url": "https://open.spotify.com/artist/1UFdLCL3pR023igvIy9GEj"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152937,
+      "name": "wavesss",
+      "url": "https://open.spotify.com/track/4tmBEKIQWwJ6DNEjEMyOST"
     },
     {
       "album": {

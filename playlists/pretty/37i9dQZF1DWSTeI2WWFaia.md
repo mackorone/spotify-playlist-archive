@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Benny The Butcher
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,589,865 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,589,797 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 31 | [Pipeline](https://open.spotify.com/track/4SJNTcvRNneF6B210XyqLu) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Oddisee](https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC) | [Pipeline](https://open.spotify.com/album/5lYViAIS1MLIXpYPWp4UbS) | 3:39 |
 | 32 | [3333](https://open.spotify.com/track/51wZRATIHtYIfb0tMpp3e2) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [3333](https://open.spotify.com/album/7GNUGyxAQb3SnalLasqx8D) | 2:33 |
 | 33 | [055](https://open.spotify.com/track/4fPRdyZTAJxZS3m3UKm8zR) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Stove God Cooks](https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv) | [12](https://open.spotify.com/album/3LtZUOfccDjNs18684twS8) | 4:03 |
-| 34 | [Dont Wanna C Me Rich](https://open.spotify.com/track/2yIg0KHEuXzagLIDNS2I0s) | [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [Muddy Waters Too](https://open.spotify.com/album/5aahGTQnyEzNwR8Wy2lEpi) | 2:17 |
-| 35 | [Judgement Day](https://open.spotify.com/track/0EfSMdCzfbDsQpq7gnyYi4) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive \(10 Year Anniversary Edition\)](https://open.spotify.com/album/2fSAC0ZiYnwKfzLEvyaMm8) | 3:14 |
+| 34 | [Judgement Day](https://open.spotify.com/track/0EfSMdCzfbDsQpq7gnyYi4) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive \(10 Year Anniversary Edition\)](https://open.spotify.com/album/2fSAC0ZiYnwKfzLEvyaMm8) | 3:14 |
+| 35 | [Dont Wanna C Me Rich](https://open.spotify.com/track/2yIg0KHEuXzagLIDNS2I0s) | [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [Muddy Waters Too](https://open.spotify.com/album/5aahGTQnyEzNwR8Wy2lEpi) | 2:17 |
 | 36 | [BLAH](https://open.spotify.com/track/7zsSnv9ff1GMvf0LxXHpnP) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Statik Selektah](https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0), [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [BLAH](https://open.spotify.com/album/7mQxz688kGblo1TPYp40VM) | 2:27 |
 | 37 | [The Dead Apple](https://open.spotify.com/track/3E0vJ5w8BmK4KapEJ5ZWUI) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o) | [The Dead Apple / New York Crash](https://open.spotify.com/album/5XwaABkGUxYERVfV9q6e4L) | 4:14 |
 | 38 | [OUTLANDER](https://open.spotify.com/track/0XYCmKYEqdtNE8mYIIaBg9) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [12](https://open.spotify.com/album/3LtZUOfccDjNs18684twS8) | 3:09 |

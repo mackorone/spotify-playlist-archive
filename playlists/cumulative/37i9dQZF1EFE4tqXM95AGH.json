@@ -533,6 +533,24 @@
     },
     {
       "album": {
+        "name": "Chemical Reaction",
+        "url": "https://open.spotify.com/album/5aCO10dxpRi1HiMtSyMaDC"
+      },
+      "artists": [
+        {
+          "name": "Debbii Dawson",
+          "url": "https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh"
+        }
+      ],
+      "date_added": "2025-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198778,
+      "name": "Chemical Reaction",
+      "url": "https://open.spotify.com/track/7AAcT7MunkAjHyk9Abg774"
+    },
+    {
+      "album": {
         "name": "Closure",
         "url": "https://open.spotify.com/album/11slq6pHVpFYtRQ7XyjQPc"
       },

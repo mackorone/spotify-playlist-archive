@@ -4,7 +4,7 @@
 
 > I brani italiani che abbiamo on repeat  🔁  Olly in cover
 
-293 songs - 15 hr 2 min
+294 songs - 15 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Amore Disperato](https://open.spotify.com/track/2gI2IA7QGtzKZKuahon3W1) | [Achille Lauro](https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv) | [Amore Disperato](https://open.spotify.com/album/7s4bIAU9FK0rMuTFec2924) | 3:08 | 2024-09-19 | 2025-05-09 |
 | [Amore mio](https://open.spotify.com/track/346nT9OEHKXyc0RA5JzVYT) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h) | [Amore mio](https://open.spotify.com/album/6zGqsAq8vDt2t8wO12oF71) | 3:29 | 2025-01-23 | 2025-02-04 |
 | [ancora \(feat\. Geolier\)](https://open.spotify.com/track/7dOicN7jFw9HSdorxASiPu) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [radio vega](https://open.spotify.com/album/2ykfPpPezkSUfCnZjSQ6CQ) | 3:08 | 2025-04-10 |  |
-| [ANEMA E CORE](https://open.spotify.com/track/5M8Z823Sb2BhMpecHksN0T) | [Serena Brancale](https://open.spotify.com/artist/7108jelN43seqWILMvJwKi) | [ANEMA E CORE](https://open.spotify.com/album/2t1lwzO3j3iRxYrIdNQJLi) | 2:46 | 2025-02-18 |  |
+| [ANEMA E CORE](https://open.spotify.com/track/5M8Z823Sb2BhMpecHksN0T) | [Serena Brancale](https://open.spotify.com/artist/7108jelN43seqWILMvJwKi) | [ANEMA E CORE](https://open.spotify.com/album/2t1lwzO3j3iRxYrIdNQJLi) | 2:46 | 2025-02-18 | 2025-05-29 |
 | [Anni d'Oro](https://open.spotify.com/track/37YDdw3l1sXORgYXkBiS5j) | [Benji & Fede](https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm) | [Anni d'Oro](https://open.spotify.com/album/4xCB4r3uNA1C0MaoayXLWs) | 3:18 | 2025-03-20 | 2025-04-04 |
 | [apnea da un po'.](https://open.spotify.com/track/4MIsP32vMgPXV7pS1G4hh2) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [apnea da un po'.](https://open.spotify.com/album/45Nn0l9BIRMPkXYkpgIGhF) | 2:44 | 2025-04-24 |  |
 | [Arrogante](https://open.spotify.com/track/3UuwtjGqAUXecKbpoLrrpp) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz), [Vinz Turner](https://open.spotify.com/artist/1FCRctfZKE42NfXqfLVs89) | [Arrogante](https://open.spotify.com/album/0UWo2I8q76plSrf6V8emw8) | 2:23 | 2025-02-27 | 2025-04-04 |
@@ -293,6 +293,7 @@
 | [VELENO](https://open.spotify.com/track/2K7bv4Q0FNNKPt4PPPCjOi) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [VELENO](https://open.spotify.com/album/5yyaogWQcARbLR0FGz1wel) | 3:18 | 2024-07-01 | 2024-09-06 |
 | [Vengo a fidarmi di te](https://open.spotify.com/track/2p4xwVY0d0veJ4w8PEz7EY) | [Francesco Gabbani](https://open.spotify.com/artist/5lzqFxifzjxYHGJxuwQqtR) | [Vengo a fidarmi di te](https://open.spotify.com/album/5w6jP0SfIiQTPQSZ86H2uE) | 3:27 | 2025-01-02 | 2025-01-24 |
 | [VERTEBRE](https://open.spotify.com/track/1CGqE43Inhm54oPCMrgF7S) | [SETTEMBRE](https://open.spotify.com/artist/3NYjsnTwQg5ukSulmf8JY2) | [VERTEBRE](https://open.spotify.com/album/3NALtxk7mVSDJNdMiRKD1m) | 2:50 | 2024-11-20 | 2025-04-25 |
+| [VIENNARÌ](https://open.spotify.com/track/4jiplAN9NaGsapfWZED45b) | [LIBERATO](https://open.spotify.com/artist/4X89u81dkCXBSGo8i2DhMW) | [VIENNARÌ](https://open.spotify.com/album/5pnwiqz4zlZOJkLPwOWxIT) | 3:28 | 2025-05-28 |  |
 | [VITA LENTA](https://open.spotify.com/track/6iqB8oRV4rhzHv6iSVkeah) | [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX) | [SOUVENIR \(Extended Edition\)](https://open.spotify.com/album/7JajfTaMnKAwz3BcM67Zx9) | 2:10 | 2024-10-03 | 2024-11-01 |
 | [Viva la vita](https://open.spotify.com/track/3cQy6pN38rw0wyUNhQ1Ax3) | [Francesco Gabbani](https://open.spotify.com/artist/5lzqFxifzjxYHGJxuwQqtR) | [Viva la vita](https://open.spotify.com/album/64f3m5IfWvEkcJRG0sAmGZ) | 3:38 | 2025-02-12 | 2025-03-07 |
 | [VOGLIONO ESSERE ME](https://open.spotify.com/track/6zP3dYR5MQB8vj1QPAsgoX) | [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM) | [VOGLIONO ESSERE ME](https://open.spotify.com/album/0bKZXBDyTVBSfmk5cKGDOY) | 2:09 | 2024-10-24 | 2024-11-29 |

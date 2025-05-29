@@ -39,7 +39,7 @@
 | [bittersweet](https://open.spotify.com/track/4tMx9TwsMwvPKJKpQZcxDV) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [bittersweet](https://open.spotify.com/album/4uoI23bnRkWOMWg3N2kOQk) | 2:39 | 2025-01-02 | 2025-03-08 |
 | [Bittersweet \- Radio Edit](https://open.spotify.com/track/7CNtRYYyhNJKXFr2bQ5rv2) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Bittersweet \(Radio Edit\)](https://open.spotify.com/album/6zqOLPAQagrbNJCd10MiST) | 3:56 | 2023-07-26 | 2024-04-19 |
 | [Black Friday](https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday](https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp) | 3:41 | 2023-09-26 | 2024-07-02 |
-| [Blau](https://open.spotify.com/track/27BDgmEjgMdHLYIWogdnIU) | [CCOSMO](https://open.spotify.com/artist/0DFSWsBGwp4kqEKvU9Akj4) | [Blau](https://open.spotify.com/album/23SHHCFDCsNhSvCPH4Y63O) | 2:40 | 2024-08-05 |  |
+| [Blau](https://open.spotify.com/track/27BDgmEjgMdHLYIWogdnIU) | [CCOSMO](https://open.spotify.com/artist/0DFSWsBGwp4kqEKvU9Akj4) | [Blau](https://open.spotify.com/album/23SHHCFDCsNhSvCPH4Y63O) | 2:40 | 2024-08-05 | 2025-05-29 |
 | [Bloom](https://open.spotify.com/track/5utUZ5nv6y6dR8irsnOQEj) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Bloom](https://open.spotify.com/album/7eSHhMZCCvJvubQ3plHlYZ) | 2:55 | 2024-03-21 | 2024-07-10 |
 | [blue](https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [blue](https://open.spotify.com/album/5aelly3dAJd7yZlgUHpLBw) | 3:34 | 2025-01-02 |  |
 | [Blue Hair](https://open.spotify.com/track/39sDitIeCMrVX2QyXHY46t) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Death of a Party Girl](https://open.spotify.com/album/5kFjYk3umY8Pu1lymIJLVy) | 3:37 | 2023-07-26 | 2023-08-19 |
@@ -259,7 +259,7 @@
 | [Wildfires](https://open.spotify.com/track/4Tzw9IdZbVyzmpWrvsGaNX) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Untitled \(Black Is\)](https://open.spotify.com/album/0GPmuVuCdC5hCsiuy1wXle) | 3:26 | 2024-03-15 |  |
 | [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 | 2024-08-16 |  |
 | [wo bin ich](https://open.spotify.com/track/5UXJVxwMKnWVKmaLAZtaDY) | [Aaron](https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ) | [wo bin ich](https://open.spotify.com/album/1EWDJG9bvcEwyEOPZtcLFc) | 2:03 | 2024-10-07 |  |
-| [WORRY.](https://open.spotify.com/track/4tb0xoNHvIhUsrx7GFcxzf) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [WORRY.](https://open.spotify.com/album/687CLrjAQcz01r18Eo9bXn) | 4:03 | 2025-04-25 | 2025-05-26 |
+| [WORRY.](https://open.spotify.com/track/4tb0xoNHvIhUsrx7GFcxzf) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [WORRY.](https://open.spotify.com/album/687CLrjAQcz01r18Eo9bXn) | 4:03 | 2025-04-25 |  |
 | [would've been you](https://open.spotify.com/track/2U7svZUGvR4tfKdyxv9mXu) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [would've been you](https://open.spotify.com/album/1a43UOca3qYS1ZcS0b9wSk) | 3:03 | 2024-07-11 |  |
 
 \*This playlist was first scraped on 2023-07-28. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: GRAPEVINE
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,740 likes - 101 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,763 likes - 101 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 100 | [さいごの天地物語](https://open.spotify.com/track/38IvX8jYiTro8uirA1Nl76) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [さいごの天地物語](https://open.spotify.com/album/1ytMQyS7Zbc1hB1pWA9mXj) | 3:40 |
 | 101 | [REMEMBER](https://open.spotify.com/track/1iw71RYEVpU30ClK6BOZbZ) | [SuiseiNoboAz](https://open.spotify.com/artist/09rAbsqza6GM0611tmVX2J) | [REMEMBER](https://open.spotify.com/album/6oS0jrdtG8AGqS6edYPwZ9) | 4:36 |
 
-Snapshot ID: `aDXdDgAAAABHMZGegrgLyNb12mGueeD3`
+Snapshot ID: `aDXdDgAAAAAmmcQRiI0yuxiWTfysmZPK`

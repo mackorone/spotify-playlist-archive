@@ -1,12 +1,12 @@
 {
   "description": "This is Mercy Chinwo. The essential tracks, all in one playlist.",
-  "num_followers": 12692,
+  "num_followers": 12707,
   "original_name": "This Is Mercy Chinwo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDOvAAAAAADTMGJuzCSEUwGwXoigYc87",
+  "snapshot_id": "aDUAgAAAAAAd9KnKF445AzjiWkmJs6+Z",
   "tracks": [
     {
       "added_at": null,
@@ -535,6 +535,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Suddenly + Amazing God (Double Single)",
+        "url": "https://open.spotify.com/album/1kBd76gF9G6AAFS3Ss1DMR"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 291493,
+      "name": "Suddenly",
+      "url": "https://open.spotify.com/track/1hHmS0mH6rUoEj9MAVhiyE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Amaram Onyewem (Live)",
         "url": "https://open.spotify.com/album/0xSHtIqcHSX3OBLolbuKgP"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 642124,
       "name": "Amaram Onyewem - Live",
       "url": "https://open.spotify.com/track/4hICkRdqsvZnu4B0gsY47v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Suddenly + Amazing God (Double Single)",
-        "url": "https://open.spotify.com/album/1kBd76gF9G6AAFS3Ss1DMR"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 291493,
-      "name": "Suddenly",
-      "url": "https://open.spotify.com/track/1hHmS0mH6rUoEj9MAVhiyE"
     },
     {
       "added_at": null,

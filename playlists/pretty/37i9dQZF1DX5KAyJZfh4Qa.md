@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 
 > it's just one of those days w/ Michael Cera Palin
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,220 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,269 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 | 23 | [Stop Talking](https://open.spotify.com/track/2pVyYoFLpGRea0wPvVpz8H) | [Motion City Soundtrack](https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D) | [Stop Talking](https://open.spotify.com/album/3fPeojjKjUDHH0zTYN49RR) | 3:20 |
 | 24 | [777](https://open.spotify.com/track/1bIg5pzhE8NCiyzlhh2JtS) | [Riley!](https://open.spotify.com/artist/6mxWaHNcOgrJeD8NCRenps) | [Keep Your Cool](https://open.spotify.com/album/2N2nVXYiltFdU8NL0ACh7T) | 3:00 |
 | 25 | [ain't it sweet](https://open.spotify.com/track/2TF8s1A5ncPQIREic3gwXn) | [Balance And Composure](https://open.spotify.com/artist/2fgl3me4n9diODTrVfruF3) | [with you in spirit](https://open.spotify.com/album/1tBLn0Ekhfx6WGaH4zRjdp) | 2:57 |
-| 26 | [Teeth](https://open.spotify.com/track/6d96mLOd9hUdJJVw2KFQAA) | [Sorry Mom](https://open.spotify.com/artist/0KZzhF4tqJGaVOrXXONmCX) | [babyface](https://open.spotify.com/album/6ewhotPSksO3fzeWIMahVS) | 3:46 |
-| 27 | [Eternal](https://open.spotify.com/track/4O8mBTuiMOpXZ4hUfqm6SD) | [Sweet Pill](https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa) | [Starchild](https://open.spotify.com/album/3XLHijG8ZJaE8wyD9cIcCb) | 2:18 |
+| 26 | [Eternal](https://open.spotify.com/track/4O8mBTuiMOpXZ4hUfqm6SD) | [Sweet Pill](https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa) | [Starchild](https://open.spotify.com/album/3XLHijG8ZJaE8wyD9cIcCb) | 2:18 |
+| 27 | [Teeth](https://open.spotify.com/track/6d96mLOd9hUdJJVw2KFQAA) | [Sorry Mom](https://open.spotify.com/artist/0KZzhF4tqJGaVOrXXONmCX) | [babyface](https://open.spotify.com/album/6ewhotPSksO3fzeWIMahVS) | 3:46 |
 | 28 | [Really Big Shrimp](https://open.spotify.com/track/1HrlVqg8nu86YRdMIGOGzT) | [Arm's Length](https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD) | [Really Big Shrimp](https://open.spotify.com/album/3sOldd5oq7qesemjhPgcei) | 4:07 |
 | 29 | [i used to check my driveway hoping one day i might see you there](https://open.spotify.com/track/74qNCVxEXgqHlb8sZW5Kik) | [empty parking lot](https://open.spotify.com/artist/5PbZSC1skXoz4QHNor8JiB) | [silly songs for a silly girl](https://open.spotify.com/album/4LBL1hPWZd9nddHGVMwdqE) | 2:42 |
 | 30 | [Serotonin](https://open.spotify.com/track/0PkriCeqOJvh9QNvfMka7w) | [Covey](https://open.spotify.com/artist/1BWtQmbjRgQ6YaEIizJ5Pe) | [Serotonin](https://open.spotify.com/album/1OISFeE5Pfq40hyzuqtT8H) | 3:17 |
@@ -53,15 +53,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 | 43 | [It Was Real To Me](https://open.spotify.com/track/0frCZbVGC6kdgLGYOewWMz) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE), [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [It Was Real To Me](https://open.spotify.com/album/2VMwISn56z1TKDg8Yti2k4) | 2:46 |
 | 44 | [If You're Lonely](https://open.spotify.com/track/6920SXezNpgmwSifVJkOXM) | [Citizen](https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor) | [If You're Lonely](https://open.spotify.com/album/4SkQufb5RDhqYDAglH45fz) | 4:04 |
 | 45 | [Plant Pot Song](https://open.spotify.com/track/5GYlldi6Qa1Px83vRKCuDj) | [Indoor Foxes](https://open.spotify.com/artist/6wsisvgmHy85OWQWa4TeBo) | [Plant Pot Song](https://open.spotify.com/album/57Xwk8VAERpxv7fYtXoRT1) | 3:09 |
-| 46 | [Counting Sheep](https://open.spotify.com/track/60uyVKK6KRhYK6ceJEbdjN) | [Anxious](https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH) | [Counting Sheep](https://open.spotify.com/album/6SsMMHu3EjoHGLseSwMLyC) | 4:06 |
-| 47 | [the country club](https://open.spotify.com/track/3XZzkDZH6p4VjJU0qmxsgl) | [Oso Oso](https://open.spotify.com/artist/63GTn25wbdRNX3ijCHvYxD) | [life till bones](https://open.spotify.com/album/3vT9PayicuM9sEo0tONUmS) | 2:59 |
+| 46 | [the country club](https://open.spotify.com/track/3XZzkDZH6p4VjJU0qmxsgl) | [Oso Oso](https://open.spotify.com/artist/63GTn25wbdRNX3ijCHvYxD) | [life till bones](https://open.spotify.com/album/3vT9PayicuM9sEo0tONUmS) | 2:59 |
+| 47 | [Counting Sheep](https://open.spotify.com/track/60uyVKK6KRhYK6ceJEbdjN) | [Anxious](https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH) | [Counting Sheep](https://open.spotify.com/album/6SsMMHu3EjoHGLseSwMLyC) | 4:06 |
 | 48 | [Nobody’s](https://open.spotify.com/track/609A6oa4P6iD0YY8cxNeMU) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Nobody’s](https://open.spotify.com/album/46e2HEQghpFuXNVHTNz6hT) | 2:15 |
 | 49 | [The Highway Signs Will Lead to Nothing](https://open.spotify.com/track/6SpavaUktNu788dew49p9U) | [Predisposed.](https://open.spotify.com/artist/4KIxOZRJxLKPeaFSarFk1X) | [The Highway Signs Will Lead to Nothing](https://open.spotify.com/album/5sxBZ51MbCmwvtonfVsA1C) | 4:39 |
-| 50 | [Absolute Bloom](https://open.spotify.com/track/2J2NIgMvtnIStg1ZfCiEjm) | [Higher Power](https://open.spotify.com/artist/6yv0Vd63iiAaW4665Cs9vT) | [Absolute Bloom](https://open.spotify.com/album/5b6msyAHAio8tzWXOaYQsW) | 3:25 |
-| 51 | [What Tomorrow Brings / Requiem \- Acoustic](https://open.spotify.com/track/5YWaODOtb3dzApL0bKwTr0) | [Youth Fountain](https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD) | [Together In Lonesome \(Acoustic EP\)](https://open.spotify.com/album/2SSiObfXtuimULGI8LtG7j) | 3:24 |
+| 50 | [What Tomorrow Brings / Requiem \- Acoustic](https://open.spotify.com/track/5YWaODOtb3dzApL0bKwTr0) | [Youth Fountain](https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD) | [Together In Lonesome \(Acoustic EP\)](https://open.spotify.com/album/2SSiObfXtuimULGI8LtG7j) | 3:24 |
+| 51 | [Absolute Bloom](https://open.spotify.com/track/2J2NIgMvtnIStg1ZfCiEjm) | [Higher Power](https://open.spotify.com/artist/6yv0Vd63iiAaW4665Cs9vT) | [Absolute Bloom](https://open.spotify.com/album/5b6msyAHAio8tzWXOaYQsW) | 3:25 |
 | 52 | [closure](https://open.spotify.com/track/3ayeHyZ09bDgxnPfRBS5K2) | [Frat Mouse](https://open.spotify.com/artist/5KyiJcvybfUdX8Qm9OhMy8) | [flea house](https://open.spotify.com/album/4x5p7yXHi64StUzFmDEtRd) | 2:34 |
-| 53 | [Permanent Resolution](https://open.spotify.com/track/0s5m3QC7n1nOfthZkdm4fU) | [Homesafe](https://open.spotify.com/artist/5vV4gEs3O35SdrdwhvhYwe) | [Permanent Resolution](https://open.spotify.com/album/3ixJ2tEWQXd5TykWUaU6Mp) | 3:21 |
-| 54 | [Glass](https://open.spotify.com/track/5M7liVdPj4B9X0ZJncErme) | [Forest Green](https://open.spotify.com/artist/63lRjOZ8TCzjHaxZr1ZToc) | [Glass](https://open.spotify.com/album/6JlxrE8fN5jwEYmMYEflsc) | 4:43 |
+| 53 | [Glass](https://open.spotify.com/track/5M7liVdPj4B9X0ZJncErme) | [Forest Green](https://open.spotify.com/artist/63lRjOZ8TCzjHaxZr1ZToc) | [Glass](https://open.spotify.com/album/6JlxrE8fN5jwEYmMYEflsc) | 4:43 |
+| 54 | [Permanent Resolution](https://open.spotify.com/track/0s5m3QC7n1nOfthZkdm4fU) | [Homesafe](https://open.spotify.com/artist/5vV4gEs3O35SdrdwhvhYwe) | [Permanent Resolution](https://open.spotify.com/album/3ixJ2tEWQXd5TykWUaU6Mp) | 3:21 |
 | 55 | [Opossum! My Possum!](https://open.spotify.com/track/5yghSwq7jePANBrd72J8Ly) | [Thanks! I Hate It](https://open.spotify.com/artist/2AXYLreE6e33pDQgQNNNyu) | [Lovers Lane](https://open.spotify.com/album/66VJJVlE4sn1PlZVIRKW58) | 3:45 |
 | 56 | [Full Speed Ahead](https://open.spotify.com/track/1UyoYp34XuQEfW7Id7q4Vy) | [Combat](https://open.spotify.com/artist/5ltJmbw0BHIzssTLOznjLx) | [Stay Golden](https://open.spotify.com/album/3eOka6weED6Atrxap8V15u) | 2:34 |
 | 57 | [Stone](https://open.spotify.com/track/3FF9ObKa1UqIxoV2ttGOpP) | [Clementine](https://open.spotify.com/artist/7w5fod5FOdSfULpZfwvM1c) | [Stone](https://open.spotify.com/album/51kRAWAaOibNlUS0I58dcK) | 3:34 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 | 69 | [Dead On The Page](https://open.spotify.com/track/19PDFOc2rfaAvHJGaIwy91) | [Park National](https://open.spotify.com/artist/3zXM9yF4mhCHg9vUS9pnul) | [I'm Here And This Is Real](https://open.spotify.com/album/3qU6M8uIKGKrmiWooVy4Pk) | 3:18 |
 | 70 | [No Stranger](https://open.spotify.com/track/3huDFMmxqh8TfKTiHr89Xj) | [Pool Kids](https://open.spotify.com/artist/6yoW6SfviQ5D4Wa5jGxh7f) | [Pool Kids // POOL](https://open.spotify.com/album/7l53P1GftnthQCpHQ3LwFX) | 3:44 |
 | 71 | [Auguries of Guilt](https://open.spotify.com/track/1lWuzJReshkbjDKjElnmeA) | [The World Is A Beautiful Place & I Am No Longer Afraid To Die](https://open.spotify.com/artist/5bCNJ1ICzdnzK0yoCIP2Ip) | [Auguries of Guilt](https://open.spotify.com/album/1kPoDuvNX6536cx1ZWpUAN) | 5:37 |
-| 72 | [goin' for the garbage plate](https://open.spotify.com/track/2mH0I08tBUW5ZdgGrGrMT7) | [CLIFFDIVER](https://open.spotify.com/artist/3yYFfLWWw90qPAloqOGM7x), [Carpool](https://open.spotify.com/artist/1GfHrs9bbnqkN3ektKmGit) | [goin' for the garbage plate](https://open.spotify.com/album/1FoVLF5NnbJBlZPkXork3J) | 4:02 |
-| 73 | [My Fault](https://open.spotify.com/track/50FpCfseTjaMAWQ9q1Krfl) | [Stay Inside](https://open.spotify.com/artist/59QLiM8EVDaCyuHV6ifMpv) | [Ferried Away](https://open.spotify.com/album/2GAlwex2k6grIDP3ieQf6c) | 2:27 |
+| 72 | [My Fault](https://open.spotify.com/track/50FpCfseTjaMAWQ9q1Krfl) | [Stay Inside](https://open.spotify.com/artist/59QLiM8EVDaCyuHV6ifMpv) | [Ferried Away](https://open.spotify.com/album/2GAlwex2k6grIDP3ieQf6c) | 2:27 |
+| 73 | [goin' for the garbage plate](https://open.spotify.com/track/2mH0I08tBUW5ZdgGrGrMT7) | [CLIFFDIVER](https://open.spotify.com/artist/3yYFfLWWw90qPAloqOGM7x), [Carpool](https://open.spotify.com/artist/1GfHrs9bbnqkN3ektKmGit) | [goin' for the garbage plate](https://open.spotify.com/album/1FoVLF5NnbJBlZPkXork3J) | 4:02 |
 | 74 | [Black Hole](https://open.spotify.com/track/2pNlprM4EeUDywzOcbIE2q) | [Goalkeeper](https://open.spotify.com/artist/1foCMRbxVRo99EWPglSD3n) | [Black Hole](https://open.spotify.com/album/3ZvWNjZk7kFwvM4EF5fiGf) | 2:48 |
 | 75 | [Anthem](https://open.spotify.com/track/7BRMqN8HBnF73RPDpFwHzI) | [Koyo](https://open.spotify.com/artist/4np3dM8CSvjKhToa0Epfs9) | [Anthem](https://open.spotify.com/album/3I9WiU9Hjgnkq8LUCxlt8q) | 1:42 |
 

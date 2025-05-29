@@ -1,6 +1,6 @@
 {
   "description": "Os grandes artistas da MPB. Foto: Tim Maia",
-  "num_followers": 1411675,
+  "num_followers": 1411936,
   "original_name": "O Melhor da MPB",
   "owner": {
     "name": "Spotify",
@@ -375,18 +375,22 @@
     {
       "added_at": "2025-03-07 03:00:30",
       "album": {
-        "name": "Carlos, Erasmo [Vers\u00e3o Com B\u00f4nus (1971)]",
-        "url": "https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M"
+        "name": "Gal Costa",
+        "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
       },
       "artists": [
         {
-          "name": "Erasmo Carlos",
-          "url": "https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz"
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
         }
       ],
-      "duration_ms": 140426,
-      "name": "Gente Aberta",
-      "url": "https://open.spotify.com/track/0MT6ecgiLweuA4nd9NTGll"
+      "duration_ms": 212933,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/0C13P4IghHNFPjt4zIJ8vX"
     },
     {
       "added_at": "2025-03-07 03:00:30",
@@ -407,22 +411,18 @@
     {
       "added_at": "2025-03-07 03:00:30",
       "album": {
-        "name": "Gal Costa",
-        "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
+        "name": "Carlos, Erasmo [Vers\u00e3o Com B\u00f4nus (1971)]",
+        "url": "https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M"
       },
       "artists": [
         {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        },
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+          "name": "Erasmo Carlos",
+          "url": "https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz"
         }
       ],
-      "duration_ms": 212933,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/0C13P4IghHNFPjt4zIJ8vX"
+      "duration_ms": 140426,
+      "name": "Gente Aberta",
+      "url": "https://open.spotify.com/track/0MT6ecgiLweuA4nd9NTGll"
     },
     {
       "added_at": "2025-03-07 03:00:30",

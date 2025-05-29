@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 
 > O melhor do Tecnobrega, Melody e Brega do norte! Foto: Viviane Batidão
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,710 likes - 64 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,773 likes - 64 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 24 | [Disse Adeus](https://open.spotify.com/track/6naHDFlQZ1TvcPYN0Uasgm) | [Banda Calypso](https://open.spotify.com/artist/2qXtddeMnGLeLuIfhnJY3P) | [Ao Vivo na Amazônia](https://open.spotify.com/album/0NsBhK5b0iHGZFOMirfnla) | 4:10 |
 | 25 | [Galera da Golada](https://open.spotify.com/track/1nOi7O71UVjCPS4AT1BLDQ) | [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj) | [Marcantes](https://open.spotify.com/album/1VUSKzW4PssDDqhGh0oKiX) | 4:31 |
 | 26 | [O Traficante](https://open.spotify.com/track/7f1x85YSE9DliOSRFFfuM2) | [Banda Amazonas](https://open.spotify.com/artist/6aADV1iVy0z8Bni0qXLRkf), [Nelsinho Rodrigues](https://open.spotify.com/artist/4k5GPOqlaMmuhxSQkPZrWb) | [Ai Amor](https://open.spotify.com/album/7GqpB21EqkfOs3WJYufal4) | 2:55 |
-| 27 | [Agora Somos Ex](https://open.spotify.com/track/3XL2i8IhA4YJaOZ4gASuEx) | [Asas Livres](https://open.spotify.com/artist/0cyzEOy6DVvL0pPDnW61Xx) | [Agora Somos Ex](https://open.spotify.com/album/4m1SAIKfDy3s63InxRzLPX) | 3:40 |
-| 28 | [Super pop \(De Mansinho\)](https://open.spotify.com/track/4cwA08to8VgSMtEiQsdN7w) | [Banda Batidão](https://open.spotify.com/artist/7sX6HhHtj8S5w8K3fiipub), [Mansão Record](https://open.spotify.com/artist/3SmboZvoX8urbfboHM5HKK) | [Super pop \(De Mansinho\)](https://open.spotify.com/album/5eF7jaskbpWMx7BZx1n4q2) | 2:56 |
-| 29 | [Sou do Norte](https://open.spotify.com/track/08hHdpaOdOaH8feh4qiRN8) | [Zaynara](https://open.spotify.com/artist/3g5sxvKldw7Kss4e5FPSXb) | [Sou do Norte](https://open.spotify.com/album/2viFBI4mjhFPScVNybzn6l) | 3:02 |
+| 27 | [Sou do Norte](https://open.spotify.com/track/08hHdpaOdOaH8feh4qiRN8) | [Zaynara](https://open.spotify.com/artist/3g5sxvKldw7Kss4e5FPSXb) | [Sou do Norte](https://open.spotify.com/album/2viFBI4mjhFPScVNybzn6l) | 3:02 |
+| 28 | [Agora Somos Ex](https://open.spotify.com/track/3XL2i8IhA4YJaOZ4gASuEx) | [Asas Livres](https://open.spotify.com/artist/0cyzEOy6DVvL0pPDnW61Xx) | [Agora Somos Ex](https://open.spotify.com/album/4m1SAIKfDy3s63InxRzLPX) | 3:40 |
+| 29 | [Super pop \(De Mansinho\)](https://open.spotify.com/track/4cwA08to8VgSMtEiQsdN7w) | [Banda Batidão](https://open.spotify.com/artist/7sX6HhHtj8S5w8K3fiipub), [Mansão Record](https://open.spotify.com/artist/3SmboZvoX8urbfboHM5HKK) | [Super pop \(De Mansinho\)](https://open.spotify.com/album/5eF7jaskbpWMx7BZx1n4q2) | 2:56 |
 | 30 | [Eu Vou Recomeçar](https://open.spotify.com/track/2tZbOtxqeOpxamAlDPDZTs) | [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj) | [Sucessos](https://open.spotify.com/album/6UqGyxulGDAtJGQiy5gRP8) | 2:40 |
 | 31 | [Ela Tá Beba Doida](https://open.spotify.com/track/2BybrcWAgQO8ZHtaIlkzOM) | [Banda Xeiro De Mel](https://open.spotify.com/artist/15fVYlG29onbGj5w3QhtKy) | [Banda Xeiro de Mel \(Tecnobrega \- O Ritmo Que Conquistou o Brasil\)](https://open.spotify.com/album/1Ll5NXrV9VDwaAw80KSl2N) | 3:35 |
 | 32 | [Esperança](https://open.spotify.com/track/65XEiVtu5lTjBqsAfJeafb) | [Banda AR\-15](https://open.spotify.com/artist/6wYo9f6kXFslXYtATvhM86), [Manu](https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r) | [Esperança](https://open.spotify.com/album/2mwMZXG1mfvuSNAGun4qZL) | 2:55 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 50 | [Meus Dias Felizes](https://open.spotify.com/track/2221klmWmQn2yLtuLGSz6R) | [Banda Halley](https://open.spotify.com/artist/5UgJvzYWsiYKJPnmLixmpt) | [Bregoso 4](https://open.spotify.com/album/2QbLKFf00rabPX0REmUeew) | 2:02 |
 | 51 | [Itamaraty](https://open.spotify.com/track/0jondRRyM7rj9nxjkMxORN) | [Aretuza Lovi](https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe), [Fruto Sensual](https://open.spotify.com/artist/6syywN4FcSZEBwaEV7EsNq), [Valéria Paiva](https://open.spotify.com/artist/2j2TgiOSC2bsZlRiN5MFaS) | [Itamaraty](https://open.spotify.com/album/4tb6TVJ41Q80C7Zjat7uFP) | 2:43 |
 | 52 | [Problema Seu](https://open.spotify.com/track/2pByJv32jG0dUwkyu6Gmth) | [Banda Floresta Nativa](https://open.spotify.com/artist/7BUo6flN4ZfDeWOafPAHeL) | [Raro Amor](https://open.spotify.com/album/0polX3dWngAwh9WSb92fmQ) | 4:13 |
-| 53 | [Eu Fiz Tudo Errado](https://open.spotify.com/track/2CYsMFirzEqCcWVuKIhppp) | [Manu](https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r) | [Manu](https://open.spotify.com/album/3nWSN49yT6w8aoVSoacZZS) | 3:39 |
-| 54 | [Está no Ar](https://open.spotify.com/track/4HvbIF4n0nW3f0t2K1r6la) | [Fruto Sensual](https://open.spotify.com/artist/6syywN4FcSZEBwaEV7EsNq), [DJ Neco Patifão](https://open.spotify.com/artist/5qKMhT0vNRheWDWYDTjV1V) | [Elétrico](https://open.spotify.com/album/2sQuHDWwnn10g440LIlm03) | 3:35 |
+| 53 | [Está no Ar](https://open.spotify.com/track/4HvbIF4n0nW3f0t2K1r6la) | [Fruto Sensual](https://open.spotify.com/artist/6syywN4FcSZEBwaEV7EsNq), [DJ Neco Patifão](https://open.spotify.com/artist/5qKMhT0vNRheWDWYDTjV1V) | [Elétrico](https://open.spotify.com/album/2sQuHDWwnn10g440LIlm03) | 3:35 |
+| 54 | [Eu Fiz Tudo Errado](https://open.spotify.com/track/2CYsMFirzEqCcWVuKIhppp) | [Manu](https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r) | [Manu](https://open.spotify.com/album/3nWSN49yT6w8aoVSoacZZS) | 3:39 |
 | 55 | [Nem Vem Dizer](https://open.spotify.com/track/4ayKSLcVBWcGCgV03bDZDj) | [Banda msynck](https://open.spotify.com/artist/79iY9AWpx6WDFhWAko16rQ) | [Uma Pancada de Sucesso](https://open.spotify.com/album/1HGd4P6mSGbz3IdYZRUdT2) | 3:26 |
 | 56 | [Búfalo do Marajó](https://open.spotify.com/track/6FWyRWvXJ2srLSHOvWf4UU) | [Banda 007 Oficial](https://open.spotify.com/artist/5ZdRKRLaP4OvypaRak6Rr9) | [Búfalo do Marajó](https://open.spotify.com/album/26D2eYA5rlAbhWyuGyfWiv) | 2:51 |
 | 57 | [Louca Paixão](https://open.spotify.com/track/7Am0BZQdRi7xAZC0LcLb6y) | [Banda AR\-15](https://open.spotify.com/artist/6wYo9f6kXFslXYtATvhM86) | [Vol\. 2](https://open.spotify.com/album/59VmiLW7m9sREMf03pCbCi) | 3:35 |

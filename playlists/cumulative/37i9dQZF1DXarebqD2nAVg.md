@@ -4,7 +4,7 @@
 
 > raw feels,  emotional beats to cry out to ☁️❤️‍🩹
 
-228 songs - 8 hr 54 min
+229 songs - 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,10 +170,11 @@
 | [roadtrip](https://open.spotify.com/track/70Kjb1MyC82FjzhiPiBPU4) | [vibesment](https://open.spotify.com/artist/6UWqTGxMm01khzGeZlOimx) | [roadtrip](https://open.spotify.com/album/4QiEuN6Pu7bPE64XmZDqpy) | 2:17 | 2023-10-27 |  |
 | [roamwave](https://open.spotify.com/track/5LaOfGGkGFUyUdULSwGzwc) | [ai sayuri](https://open.spotify.com/artist/5YohkWp4bq0IUw4c0StwjJ) | [roamwave](https://open.spotify.com/album/5IbovMKmZTv0ikkb3qmnSy) | 2:18 | 2023-10-27 |  |
 | [sad music](https://open.spotify.com/track/1mZDmX2U780ucdnGB78Qzr) | [sumthin](https://open.spotify.com/artist/1m1oQ84LqqtpGvE3Omv8Rd) | [call me when ur lonely](https://open.spotify.com/album/5ypeVEv4lRQhg3wXZKaIf5) | 1:22 | 2024-09-03 |  |
+| [safe](https://open.spotify.com/track/4Z5hkHjVFRKnSU1838IItB) | [little blue](https://open.spotify.com/artist/5WFsnwKBPWK0uFitm41Dv1) | [safe](https://open.spotify.com/album/40LlPRqwG2PgcASrYyG9Ms) | 2:15 | 2025-05-21 |  |
 | [Safe \(feat\. Shiloh\)](https://open.spotify.com/track/0TMez4fjyOAciXn4VefMNU) | [Bra Dy](https://open.spotify.com/artist/6tTaHSgwQ4Ld5lBKAc93Bd), [Shiloh](https://open.spotify.com/artist/2hkB8tem6WtX6015adeOXU) | [Safe \(feat\. Shiloh\)](https://open.spotify.com/album/6r33t1qiEt1UfJrByhcdn9) | 3:05 | 2023-02-16 | 2023-03-25 |
 | [same stars](https://open.spotify.com/track/0XFp0z42T0x3s3qxidqvTE) | [fcj](https://open.spotify.com/artist/1Nv875EklW8XLTduI6I3Js) | [if you're reading this ily](https://open.spotify.com/album/5WZFEyUjIgJL8iV04b9pwp) | 1:56 | 2019-03-27 | 2024-04-19 |
 | [same stars](https://open.spotify.com/track/6dBuZM1j2y8qSZTOM8StjM) | [fcj](https://open.spotify.com/artist/1Nv875EklW8XLTduI6I3Js) | [if you're reading this ily](https://open.spotify.com/album/14AdiG9VQC71MQRid4dcIw) | 1:56 | 2019-03-27 | 2024-07-27 |
-| [seabreeze](https://open.spotify.com/track/4hemND3KD7KrAZsznYW7sy) | [Rustique Beats](https://open.spotify.com/artist/6i2uc5LaqqgBJ6SozGzryq) | [seabreeze](https://open.spotify.com/album/5rH6GmpEdxhhllAvSilwGI) | 1:59 | 2025-05-21 |  |
+| [seabreeze](https://open.spotify.com/track/4hemND3KD7KrAZsznYW7sy) | [Rustique Beats](https://open.spotify.com/artist/6i2uc5LaqqgBJ6SozGzryq) | [seabreeze](https://open.spotify.com/album/5rH6GmpEdxhhllAvSilwGI) | 1:59 | 2025-05-21 | 2025-05-29 |
 | [Seymour](https://open.spotify.com/track/0WMA7dwEojg5fN89EdpcpR) | [Drevm](https://open.spotify.com/artist/4pHeEHS66wGubk4WCJ5BZG) | [Seymour](https://open.spotify.com/album/2VmXPUB5mRZ4DLIRjvOxxC) | 1:53 | 2019-03-27 | 2022-07-29 |
 | [Seymour \(with Dawn Golden\)](https://open.spotify.com/track/3tpr337B8DsgKo7JR2eYAS) | [Drevm](https://open.spotify.com/artist/4pHeEHS66wGubk4WCJ5BZG), [Dawn Golden](https://open.spotify.com/artist/6MzxeKydmXufvX7HYPknFW) | [Seymour \(with Dawn Golden\)](https://open.spotify.com/album/7BccR0AIrdXUozgZTAX6gE) | 1:53 | 2019-03-27 | 2024-03-01 |
 | [Sick of This](https://open.spotify.com/track/3XKAwOCIYtttde7vLMD5Jo) | [Just Big Hills](https://open.spotify.com/artist/2ih5O9wwxSSYLe9Bnce309) | [When You Forgive](https://open.spotify.com/album/5xG0QYLqbR4dTJknfhYtlu) | 3:53 | 2019-03-27 | 2024-04-19 |

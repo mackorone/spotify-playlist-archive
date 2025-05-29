@@ -1,6 +1,6 @@
 {
   "description": "O melhor do rock ac\u00fastico nacional e internacional para curtir e relaxar.",
-  "num_followers": 329472,
+  "num_followers": 329512,
   "original_name": "Rock Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -595,6 +595,22 @@
     {
       "added_at": "2025-02-28 17:10:40",
       "album": {
+        "name": "Follow Me Around",
+        "url": "https://open.spotify.com/album/2vTAZfcTyauC6ZG29d6yB5"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 319288,
+      "name": "Follow Me Around",
+      "url": "https://open.spotify.com/track/6zc5BnlGNETdLqsu2gK3y2"
+    },
+    {
+      "added_at": "2025-02-28 17:10:40",
+      "album": {
         "name": "Sex on the Beach (Ao Vivo)",
         "url": "https://open.spotify.com/album/5zdUlB5etflvZE2q0ZWuu5"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 192853,
       "name": "Hear Me Now - Ao Vivo",
       "url": "https://open.spotify.com/track/4kNNWpU47YCCBSfWrsVuwk"
-    },
-    {
-      "added_at": "2025-02-28 17:10:40",
-      "album": {
-        "name": "Follow Me Around",
-        "url": "https://open.spotify.com/album/2vTAZfcTyauC6ZG29d6yB5"
-      },
-      "artists": [
-        {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-        }
-      ],
-      "duration_ms": 319288,
-      "name": "Follow Me Around",
-      "url": "https://open.spotify.com/track/6zc5BnlGNETdLqsu2gK3y2"
     },
     {
       "added_at": "2025-02-28 17:10:40",
@@ -911,22 +911,6 @@
     {
       "added_at": "2025-02-28 17:10:40",
       "album": {
-        "name": "Cabrobro (Ac\u00fastico) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/5dJz65iTYrIFhAoe4E424N"
-      },
-      "artists": [
-        {
-          "name": "Tianastacia",
-          "url": "https://open.spotify.com/artist/3ucYi2JRu3j12lHbfqms9u"
-        }
-      ],
-      "duration_ms": 220600,
-      "name": "Cabrobro (Ac\u00fastico) - Ao Vivo",
-      "url": "https://open.spotify.com/track/6GfqBkse7JgaIndolRQy1u"
-    },
-    {
-      "added_at": "2025-02-28 17:10:40",
-      "album": {
         "name": "Digital (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/32L9YGyYkP4jXe2ZrUfQTk"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 196023,
       "name": "Digital - Ac\u00fastico",
       "url": "https://open.spotify.com/track/1LJvDkYyNLz4ZOYV6De1qX"
+    },
+    {
+      "added_at": "2025-02-28 17:10:40",
+      "album": {
+        "name": "Cabrobro (Ac\u00fastico) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/5dJz65iTYrIFhAoe4E424N"
+      },
+      "artists": [
+        {
+          "name": "Tianastacia",
+          "url": "https://open.spotify.com/artist/3ucYi2JRu3j12lHbfqms9u"
+        }
+      ],
+      "duration_ms": 220600,
+      "name": "Cabrobro (Ac\u00fastico) - Ao Vivo",
+      "url": "https://open.spotify.com/track/6GfqBkse7JgaIndolRQy1u"
     },
     {
       "added_at": "2025-02-28 17:10:40",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2025-02-28 17:10:40",
       "album": {
-        "name": "Are You Gonna Be My Girl",
-        "url": "https://open.spotify.com/album/36oEYuAEYbiyFLuFuybtsa"
-      },
-      "artists": [
-        {
-          "name": "Jet",
-          "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
-        }
-      ],
-      "duration_ms": 237173,
-      "name": "Are You Gonna Be My Girl - Acoustic",
-      "url": "https://open.spotify.com/track/3tRMcxAVPS0YK00YcSc737"
-    },
-    {
-      "added_at": "2025-02-28 17:10:40",
-      "album": {
         "name": "M\u00fasica Popular Cai\u00e7ara (Ao Vivo)",
         "url": "https://open.spotify.com/album/3T1n2CfGfA9W5uGhAa7YrU"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 196347,
       "name": "C\u00e9u Azul (Ao Vivo)",
       "url": "https://open.spotify.com/track/3XDUFBYZy50XMaTXUZtRXA"
+    },
+    {
+      "added_at": "2025-02-28 17:10:40",
+      "album": {
+        "name": "Are You Gonna Be My Girl",
+        "url": "https://open.spotify.com/album/36oEYuAEYbiyFLuFuybtsa"
+      },
+      "artists": [
+        {
+          "name": "Jet",
+          "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
+        }
+      ],
+      "duration_ms": 237173,
+      "name": "Are You Gonna Be My Girl - Acoustic",
+      "url": "https://open.spotify.com/track/3tRMcxAVPS0YK00YcSc737"
     },
     {
       "added_at": "2025-02-28 17:10:40",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2025-02-28 17:10:40",
       "album": {
-        "name": "Take On Me (MTV Unplugged / Edit)",
-        "url": "https://open.spotify.com/album/2sMYviwwmjpVasUAMRBwDY"
-      },
-      "artists": [
-        {
-          "name": "a-ha",
-          "url": "https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE"
-        }
-      ],
-      "duration_ms": 222826,
-      "name": "Take On Me - MTV Unplugged / Edit",
-      "url": "https://open.spotify.com/track/6UyPTgKXxsFeQExGml9x21"
-    },
-    {
-      "added_at": "2025-02-28 17:10:40",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2mFyFiDQfooOHmngJkmIXO"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 183052,
       "name": "Stand by Me - Recorded at RAK Studios, London",
       "url": "https://open.spotify.com/track/2Gq0jYYpUnuw7rG81bMXya"
+    },
+    {
+      "added_at": "2025-02-28 17:10:40",
+      "album": {
+        "name": "Take On Me (MTV Unplugged / Edit)",
+        "url": "https://open.spotify.com/album/2sMYviwwmjpVasUAMRBwDY"
+      },
+      "artists": [
+        {
+          "name": "a-ha",
+          "url": "https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE"
+        }
+      ],
+      "duration_ms": 222826,
+      "name": "Take On Me - MTV Unplugged / Edit",
+      "url": "https://open.spotify.com/track/6UyPTgKXxsFeQExGml9x21"
     },
     {
       "added_at": "2025-02-28 17:10:40",

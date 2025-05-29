@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39gY1y.md) - [plain]
 
 > This is Charles Ans\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,479 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,530 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39gY1y.md) - [plain]
 | 21 | [Déjame en Paz](https://open.spotify.com/track/7y16XmtzjTGe8QxTmExwSX) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Los No Tan Tristes](https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM) | 5:13 |
 | 22 | [Andrómeda](https://open.spotify.com/track/5gNzZ7XzGawNJqsaxOs5ZC) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Sui Géneris](https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4) | 3:55 |
 | 23 | [Hasta Que la Muerte Nos Separe](https://open.spotify.com/track/1cUPGG5tSWperOT9a7zZz3) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Hasta Que la Muerte Nos Separe](https://open.spotify.com/album/04MJFDXcwKuZizmnMKqyhb) | 3:52 |
-| 24 | [Lumbre](https://open.spotify.com/track/4grtH2EEl14ZJL0fry7Zcg) | [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf), [Gordo del Funk](https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [De Inmensidades](https://open.spotify.com/album/64xRjme6Wx7xdJVhRt06fY) | 3:51 |
+| 24 | [Vegetales Con Pescado](https://open.spotify.com/track/79E00piO2jJc98iBP9mw7m) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd) | [Máscaras](https://open.spotify.com/album/1e4hvdD4wgcEtABivupueQ) | 3:02 |
 | 25 | [Carita de Ángel](https://open.spotify.com/track/01hgvJRWaAVi9kAfKOa4TC) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Los No Tan Tristes](https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM) | 4:10 |
-| 26 | [Vegetales Con Pescado](https://open.spotify.com/track/79E00piO2jJc98iBP9mw7m) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd) | [Máscaras](https://open.spotify.com/album/1e4hvdD4wgcEtABivupueQ) | 3:02 |
+| 26 | [Lumbre](https://open.spotify.com/track/4grtH2EEl14ZJL0fry7Zcg) | [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf), [Gordo del Funk](https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [De Inmensidades](https://open.spotify.com/album/64xRjme6Wx7xdJVhRt06fY) | 3:51 |
 | 27 | [A Paso Lento](https://open.spotify.com/track/5fUkzmm6HnPDDZKwnQcNUG) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Gordo Fu](https://open.spotify.com/artist/23bGjptdJUtlOgewyvds6g) | [Smile](https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu) | 3:44 |
 | 28 | [Olvidemos el Reloj](https://open.spotify.com/track/57czCt4GTuasg1JRAg9lc9) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [M2H](https://open.spotify.com/artist/7bWN0FHvLppK8ozEH6exdi) | [Olvidemos el Reloj](https://open.spotify.com/album/0SoOGrJ6Rs2Zm7t9rlr5kr) | 3:52 |
 | 29 | [No Estés Triste](https://open.spotify.com/track/0RmcxxIWGaiZ4mvK8ryRsq) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV) | [No estes triste](https://open.spotify.com/album/3zQZmkhiglO4prMpN5U2A6) | 3:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39gY1y.md) - [plain]
 | 49 | [Ruego](https://open.spotify.com/track/2QcwDtAaq2bVfDgTNgV79R) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Sui Géneris](https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4) | 3:58 |
 | 50 | [Alejandria / "Ella Es Nostálgica"](https://open.spotify.com/track/3bQ1dv2HzXWuniEYsyEE5x) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [De Brujas y Otros Hábitos](https://open.spotify.com/album/560Q69UkgF7V33uvAYjHVd) | 2:34 |
 
-Snapshot ID: `aDOvAAAAAADxwhDI6dhzLDm+rTfN9CuN`
+Snapshot ID: `aDUAgAAAAAABD36F5JnRXbS9kvl6/Apx`

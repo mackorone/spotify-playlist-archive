@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Israel.
 
-1,193 songs - 2 day 19 hr 18 min
+1,194 songs - 2 day 19 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -643,7 +643,7 @@
 | [אני אוהב](https://open.spotify.com/track/1aqJsgfrg0FguJ91NyItC8) | [Hakeves Hashisha Asar Cast](https://open.spotify.com/artist/5qNBOWFjWqm8HFLuCEfI5R) | [הכבש השישה עשר](https://open.spotify.com/album/1W3rJ4GGmcx2649VTgrYMz) | 2:52 | 2023-04-22 | 2023-04-25 |
 | [אני אוהב אותך \(prod by Navi\)](https://open.spotify.com/track/54Eg8MXmNLr9b4q8Qb3kYL) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [אני אוהב אותך \(prod by Navi\)](https://open.spotify.com/album/3pdBEM3eeR9EeUMlZ7eazU) | 3:31 | 2021-04-06 | 2021-06-27 |
 | [אני אוהב, אני מכור, אני שרוף](https://open.spotify.com/track/0SmY5bTuls1ccput6QhHSA) | [Adir Getz](https://open.spotify.com/artist/2MOEM2cDGyOzUf7LrBFuIG) | [אני אוהב, אני מכור, אני שרוף](https://open.spotify.com/album/6V3xJpO7DvJmgCzdSX1vzB) | 3:00 | 2022-07-18 | 2023-04-26 |
-| [אני בוכה](https://open.spotify.com/track/665X7UybqiY9dIKXSRozuH) | [Itay Levi](https://open.spotify.com/artist/6VdxGMRiiFQhI8F0FkuQZg) | [11](https://open.spotify.com/album/0ennEyxGFWhz2ShCa74kMK) | 2:41 | 2025-05-03 | 2025-05-26 |
+| [אני בוכה](https://open.spotify.com/track/665X7UybqiY9dIKXSRozuH) | [Itay Levi](https://open.spotify.com/artist/6VdxGMRiiFQhI8F0FkuQZg) | [11](https://open.spotify.com/album/0ennEyxGFWhz2ShCa74kMK) | 2:41 | 2025-05-03 |  |
 | [אני חוזר](https://open.spotify.com/track/0D9A15ZzO3VzLIYqOfm6QB) | [מ'](https://open.spotify.com/artist/36TG4OFhKuCHnTFCa6BEh7) | [לחזור הביתה](https://open.spotify.com/album/5DpY1nWjxRmf3E0AbrG7po) | 3:17 | 2024-07-20 | 2025-05-26 |
 | [אני כבר לא בך](https://open.spotify.com/track/6J8hw9Lcrp3zxk9J7s5RmH) | [Itay Levi](https://open.spotify.com/artist/6VdxGMRiiFQhI8F0FkuQZg) | [אני כבר לא בך](https://open.spotify.com/album/36lM0F38dXFsNgGKwQ3Cde) | 2:57 | 2021-12-24 | 2022-01-23 |
 | [אני לא מפסיק להתרגש ממך](https://open.spotify.com/track/4rQOpu34WFMZFGaoHcO8d0) | [Danny Robas](https://open.spotify.com/artist/72UMGUwvrkXSesefytfLWy) | [נוסע על כביש מהיר \(הופעה חיה\)](https://open.spotify.com/album/7fUo9SEuJ1CXfN5HEzKp2S) | 3:32 | 2024-11-10 | 2024-11-12 |
@@ -924,7 +924,7 @@
 | [מגבת באוויר](https://open.spotify.com/track/0w4e9A0KryKlPySPdyZQDC) | [NOROZ](https://open.spotify.com/artist/0rj0bYZWazgyJ3hZTDKQHD), [Ido B & Zooki](https://open.spotify.com/artist/5tTTzKBRrO8fTWrBjD1rd2) | [מרגיש מוגזם](https://open.spotify.com/album/3oWxkXhf7JsyvNw07BCCOi) | 2:51 | 2021-12-15 | 2022-03-15 |
 | [מגבת באוויר](https://open.spotify.com/track/7qCwgzeZQbNp6VHt9wz8i7) | [NOROZ](https://open.spotify.com/artist/0rj0bYZWazgyJ3hZTDKQHD), [Ido B & Zooki](https://open.spotify.com/artist/5tTTzKBRrO8fTWrBjD1rd2) | [מגבת באוויר](https://open.spotify.com/album/5vuSfhLOx4QU4kPMeLBK2U) | 2:51 | 2021-10-17 | 2021-12-15 |
 | [מגדלים](https://open.spotify.com/track/5nYFRLTLrqiETyy6LUPfhQ) | [סטילה](https://open.spotify.com/artist/7lwdlhwSxbB36wqnOwo5Kd), [Ness](https://open.spotify.com/artist/2ygecp3YQJwBHL7LNzDgwe) | [מגדלים](https://open.spotify.com/album/4I1R7WUWt5wAIbaw9NXKvk) | 2:34 | 2024-07-16 |  |
-| [מגנט](https://open.spotify.com/track/4BnqGasQmJZsFDsrTymuth) | [ששון איפרם שאולוב](https://open.spotify.com/artist/1Wq2STGiL7ZaIHAm5jMakc) | [מגנט](https://open.spotify.com/album/1xIx3xa7So8zW7BnRGCHhQ) | 3:00 | 2025-04-11 |  |
+| [מגנט](https://open.spotify.com/track/4BnqGasQmJZsFDsrTymuth) | [ששון איפרם שאולוב](https://open.spotify.com/artist/1Wq2STGiL7ZaIHAm5jMakc) | [מגנט](https://open.spotify.com/album/1xIx3xa7So8zW7BnRGCHhQ) | 3:00 | 2025-04-11 | 2025-05-29 |
 | [מדברים בשקט \(מתוך חזרות למופע NEXT\)](https://open.spotify.com/track/6tldCcfbfXkLApFllqab7S) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL), [Idan Raichel](https://open.spotify.com/artist/5EBnQEKoaiAk37Q7cfGrE1) | [מדברים בשקט \(מתוך חזרות למופע NEXT\)](https://open.spotify.com/album/7M011HPciFztEdlXkJNzZ3) | 4:20 | 2022-12-10 | 2023-02-23 |
 | [מדליקה לי הכל](https://open.spotify.com/track/0FQ7tcdBk5d9s7juYV2QQj) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [מדליקה לי הכל](https://open.spotify.com/album/0Q13028sIQEmreai21rM4N) | 3:24 | 2021-10-30 | 2021-12-07 |
 | [מדליקה לי הכל](https://open.spotify.com/track/7rNA5Jwu23g7PaXcMwfLdq) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [אלבום 2](https://open.spotify.com/album/4Y0qA5fFbat53aqfeN9IcE) | 3:24 | 2021-12-07 | 2023-05-11 |
@@ -1118,7 +1118,7 @@
 | [רוז](https://open.spotify.com/track/0Wr6wZgEP1npYg0vrsWPIZ) | [Peer Tasi](https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs) | [רדיו שטח 2](https://open.spotify.com/album/1PWujNSVmbVLoY0CbewwWq) | 3:44 | 2024-05-28 |  |
 | [רונדלים](https://open.spotify.com/track/3Au0H4VhjcXZ5HGOHo8Nc3) | [Static](https://open.spotify.com/artist/5Ea0d3mUECVaMf8h2DTehE) | [לירז](https://open.spotify.com/album/6yYi9EdNhdOZGXIWKVVK7G) | 1:54 | 2023-02-23 | 2024-10-23 |
 | [רוצה שלום](https://open.spotify.com/track/4L4dPjtEVEpZ0ER2deHAJA) | [Raviv Kaner](https://open.spotify.com/artist/5p205uKfxztlzI3oD15AKf) | [רוצה שלום](https://open.spotify.com/album/3TsFkrLXnknyMa3GegwMOR) | 3:28 | 2021-03-27\* | 2021-12-19 |
-| [רוקד לי על העצב](https://open.spotify.com/track/5R2KoD3IlLRvCPHVhwdaEe) | [Mor](https://open.spotify.com/artist/0oI0Dm98K3jmtSbfTLiChX) | [רוקד לי על העצב](https://open.spotify.com/album/0RcgspZ4OvKayfaPDS1gcY) | 2:58 | 2025-05-14 |  |
+| [רוקד לי על העצב](https://open.spotify.com/track/5R2KoD3IlLRvCPHVhwdaEe) | [Mor](https://open.spotify.com/artist/0oI0Dm98K3jmtSbfTLiChX) | [רוקד לי על העצב](https://open.spotify.com/album/0RcgspZ4OvKayfaPDS1gcY) | 2:58 | 2025-05-14 | 2025-05-29 |
 | [רוקנרול](https://open.spotify.com/track/2tFX3wqEPyya8k2bS8pHqW) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [לחנים שבורים](https://open.spotify.com/album/6qBbLMrB32FOw0uitKl2RR) | 2:43 | 2024-11-11 | 2025-03-16 |
 | [רחוק מכולם](https://open.spotify.com/track/1hTth4TFnHWYWiXglQ6bN2) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [עומר](https://open.spotify.com/album/2BuH7xzTbDVJ6PseqasZBM) | 2:55 | 2024-04-18 | 2024-11-15 |
 | [רסיסים](https://open.spotify.com/track/4qAHhdpiGcbzqwjqmwuXwj) | [Raviv Kaner](https://open.spotify.com/artist/5p205uKfxztlzI3oD15AKf) | [רסיסים](https://open.spotify.com/album/1VJTRr2sjWAUBN5vcfci6T) | 3:21 | 2021-03-27\* | 2022-04-12 |
@@ -1194,6 +1194,7 @@
 | [תראי אהובתי](https://open.spotify.com/track/6uCZdJ3p3hrfi6mRKVtt7k) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [אושר](https://open.spotify.com/album/0mqMqD84CEJAQIaHYLggLr) | 3:16 | 2023-02-10 | 2024-03-20 |
 | [תרקדי \(7.10.23\)](https://open.spotify.com/track/0CBpvL8Z0NRdazbJ4HDm9M) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [תרקדי \(7.10.23\)](https://open.spotify.com/album/1qjiaeASOpQs4MJbc5k3of) | 5:00 | 2023-11-02 | 2025-05-03 |
 | [תרקוד לנצח](https://open.spotify.com/track/3mITeXQ9Dt7M6nTutuNtsx) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL), [Infected Mushroom](https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI) | [תרקוד לנצח](https://open.spotify.com/album/7gCZApUPjkkS1mdOLMTTbQ) | 4:56 | 2023-10-27 | 2023-12-04 |
+| [תתארו לכם](https://open.spotify.com/track/2gK92y6pVz6ygq8Fc7N2xL) | [Shlomo Artzi](https://open.spotify.com/artist/2W0dQPsEPd0tz7cj95gUse) | [שפויים](https://open.spotify.com/album/3MFrcMJrlTtlbSq44midmp) | 3:47 | 2025-05-28 |  |
 | [‏בלדה לביישן](https://open.spotify.com/track/78OGIZvj4bxG0lFis2cndH) | [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx), [Soul J](https://open.spotify.com/artist/485QOZYo6QKTExsIOB1NZD) | [תוך כדי תנועה](https://open.spotify.com/album/1Q6zthp8EbA68Low9tgD1G) | 4:33 | 2021-09-26 | 2021-10-16 |
 | [‏גיבור](https://open.spotify.com/track/76Iqn87We9vQlpQo7ql5g2) | [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx) | [תוך כדי תנועה](https://open.spotify.com/album/1Q6zthp8EbA68Low9tgD1G) | 3:56 | 2021-09-26 | 2021-10-09 |
 | [‏ערב טוב טרוריסטים](https://open.spotify.com/track/54XUp0MTopZmtHpqcpJnMp) | [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx) | [תוך כדי תנועה](https://open.spotify.com/album/1Q6zthp8EbA68Low9tgD1G) | 4:18 | 2021-09-26 | 2021-10-10 |

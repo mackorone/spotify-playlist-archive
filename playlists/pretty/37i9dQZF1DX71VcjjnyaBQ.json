@@ -1,6 +1,6 @@
 {
   "description": "Jazz for breakfast to start your day right.",
-  "num_followers": 424396,
+  "num_followers": 424458,
   "original_name": "Good Morning Jazz",
   "owner": {
     "name": "Spotify",
@@ -447,6 +447,34 @@
     {
       "added_at": "2025-03-21 13:49:22",
       "album": {
+        "name": "Massimo Fara\u00f2 Plays the Great Jazz American Composers - George Gershwin, Vol. 3",
+        "url": "https://open.spotify.com/album/0w9US9EzNtLwIMDHM4QDQC"
+      },
+      "artists": [
+        {
+          "name": "Massimo Fara\u00f2",
+          "url": "https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI"
+        },
+        {
+          "name": "Davide Palladin",
+          "url": "https://open.spotify.com/artist/5NKYpROtVAHu5iudIQSs8z"
+        },
+        {
+          "name": "Bobo Facchinetti",
+          "url": "https://open.spotify.com/artist/1WiARZlaiu6ZXMmEVFeFqP"
+        },
+        {
+          "name": "Nicola Barbon",
+          "url": "https://open.spotify.com/artist/2HeWIvHGcrKkN5dab3lMnL"
+        }
+      ],
+      "duration_ms": 268081,
+      "name": "Bess Is My Woman Now",
+      "url": "https://open.spotify.com/track/0H7udegVzTRxIYzPXoBvkI"
+    },
+    {
+      "added_at": "2025-03-21 13:49:22",
+      "album": {
         "name": "Cloudland",
         "url": "https://open.spotify.com/album/0fm7uQgAG7FIMzrKZfKMng"
       },
@@ -475,34 +503,6 @@
       "duration_ms": 274802,
       "name": "Cloudland",
       "url": "https://open.spotify.com/track/32GV4ifruoiDEoLVe0c1k7"
-    },
-    {
-      "added_at": "2025-03-21 13:49:22",
-      "album": {
-        "name": "Massimo Fara\u00f2 Plays the Great Jazz American Composers - George Gershwin, Vol. 3",
-        "url": "https://open.spotify.com/album/0w9US9EzNtLwIMDHM4QDQC"
-      },
-      "artists": [
-        {
-          "name": "Massimo Fara\u00f2",
-          "url": "https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI"
-        },
-        {
-          "name": "Davide Palladin",
-          "url": "https://open.spotify.com/artist/5NKYpROtVAHu5iudIQSs8z"
-        },
-        {
-          "name": "Bobo Facchinetti",
-          "url": "https://open.spotify.com/artist/1WiARZlaiu6ZXMmEVFeFqP"
-        },
-        {
-          "name": "Nicola Barbon",
-          "url": "https://open.spotify.com/artist/2HeWIvHGcrKkN5dab3lMnL"
-        }
-      ],
-      "duration_ms": 268081,
-      "name": "Bess Is My Woman Now",
-      "url": "https://open.spotify.com/track/0H7udegVzTRxIYzPXoBvkI"
     },
     {
       "added_at": "2025-03-21 13:49:22",
@@ -615,22 +615,6 @@
     {
       "added_at": "2025-03-21 13:49:22",
       "album": {
-        "name": "For my lady",
-        "url": "https://open.spotify.com/album/2NLCnD0lGH6bz8lUsS1PWy"
-      },
-      "artists": [
-        {
-          "name": "Filip Jers",
-          "url": "https://open.spotify.com/artist/6W86U8ofm64IaGxSTBvMtl"
-        }
-      ],
-      "duration_ms": 203986,
-      "name": "For my lady",
-      "url": "https://open.spotify.com/track/7tkyGvCJZbGcF35y71WRtG"
-    },
-    {
-      "added_at": "2025-03-21 13:49:22",
-      "album": {
         "name": "The Lion Turtle",
         "url": "https://open.spotify.com/album/5ntyasxJzPodwnnZJ252Td"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 515253,
       "name": "The Lion Turtle",
       "url": "https://open.spotify.com/track/4RJVRVB6PkFnlJcaVsoMbE"
+    },
+    {
+      "added_at": "2025-03-21 13:49:22",
+      "album": {
+        "name": "For my lady",
+        "url": "https://open.spotify.com/album/2NLCnD0lGH6bz8lUsS1PWy"
+      },
+      "artists": [
+        {
+          "name": "Filip Jers",
+          "url": "https://open.spotify.com/artist/6W86U8ofm64IaGxSTBvMtl"
+        }
+      ],
+      "duration_ms": 203986,
+      "name": "For my lady",
+      "url": "https://open.spotify.com/track/7tkyGvCJZbGcF35y71WRtG"
     },
     {
       "added_at": "2025-03-21 13:49:22",
@@ -783,22 +783,6 @@
     {
       "added_at": "2025-03-21 13:49:22",
       "album": {
-        "name": "Cononbridge",
-        "url": "https://open.spotify.com/album/1Hu3K4n6IhaGGqCT5Hf1sj"
-      },
-      "artists": [
-        {
-          "name": "Matt Carmichael",
-          "url": "https://open.spotify.com/artist/1U7veIfQdOj6xbmc6mWLd0"
-        }
-      ],
-      "duration_ms": 298000,
-      "name": "Cononbridge",
-      "url": "https://open.spotify.com/track/7eTxWRSvauWm5L3FblGk2h"
-    },
-    {
-      "added_at": "2025-03-21 13:49:22",
-      "album": {
         "name": "Where We Belong",
         "url": "https://open.spotify.com/album/1klyqyo9Ychh0ItzQDgrox"
       },
@@ -819,30 +803,6 @@
       "duration_ms": 371773,
       "name": "Where We Belong",
       "url": "https://open.spotify.com/track/4LRIGcp9jELNiscAhEc2XI"
-    },
-    {
-      "added_at": "2025-03-21 13:49:22",
-      "album": {
-        "name": "A Drums Comes True",
-        "url": "https://open.spotify.com/album/6bey4hwrgdVRopI07dKfsr"
-      },
-      "artists": [
-        {
-          "name": "Massimo Fara\u00f2",
-          "url": "https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI"
-        },
-        {
-          "name": "Jimmy Cobb",
-          "url": "https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ"
-        },
-        {
-          "name": "John Webber",
-          "url": "https://open.spotify.com/artist/2DcPd1TuEWKCjnokl3EIO5"
-        }
-      ],
-      "duration_ms": 353280,
-      "name": "Will You Still Be Mine?",
-      "url": "https://open.spotify.com/track/7FoszDSSSG1bFxDl6QDZ0l"
     },
     {
       "added_at": "2025-03-21 13:49:22",
@@ -879,6 +839,46 @@
       "duration_ms": 354000,
       "name": "Den Gr\u00f8nbenede R\u00f8rh\u00f8ne",
       "url": "https://open.spotify.com/track/4kIgbvan6se7EOYlTh64fL"
+    },
+    {
+      "added_at": "2025-03-21 13:49:22",
+      "album": {
+        "name": "A Drums Comes True",
+        "url": "https://open.spotify.com/album/6bey4hwrgdVRopI07dKfsr"
+      },
+      "artists": [
+        {
+          "name": "Massimo Fara\u00f2",
+          "url": "https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI"
+        },
+        {
+          "name": "Jimmy Cobb",
+          "url": "https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ"
+        },
+        {
+          "name": "John Webber",
+          "url": "https://open.spotify.com/artist/2DcPd1TuEWKCjnokl3EIO5"
+        }
+      ],
+      "duration_ms": 353280,
+      "name": "Will You Still Be Mine?",
+      "url": "https://open.spotify.com/track/7FoszDSSSG1bFxDl6QDZ0l"
+    },
+    {
+      "added_at": "2025-03-21 13:49:22",
+      "album": {
+        "name": "Cononbridge",
+        "url": "https://open.spotify.com/album/1Hu3K4n6IhaGGqCT5Hf1sj"
+      },
+      "artists": [
+        {
+          "name": "Matt Carmichael",
+          "url": "https://open.spotify.com/artist/1U7veIfQdOj6xbmc6mWLd0"
+        }
+      ],
+      "duration_ms": 298000,
+      "name": "Cononbridge",
+      "url": "https://open.spotify.com/track/7eTxWRSvauWm5L3FblGk2h"
     },
     {
       "added_at": "2025-03-21 13:49:22",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2025-03-21 13:49:22",
       "album": {
-        "name": "You Had Me at Goodbye",
-        "url": "https://open.spotify.com/album/6OxXYgY6ayT3FSuR2VqZdW"
-      },
-      "artists": [
-        {
-          "name": "Espen Eriksen Trio",
-          "url": "https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST"
-        }
-      ],
-      "duration_ms": 304880,
-      "name": "Grinde",
-      "url": "https://open.spotify.com/track/2ldhlejPCYY1Ey1QKNlxnz"
-    },
-    {
-      "added_at": "2025-03-21 13:49:22",
-      "album": {
         "name": "The Great Belonging",
         "url": "https://open.spotify.com/album/0IhSJ4CocuulbqMyhGIbIB"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 371120,
       "name": "The Great Belonging",
       "url": "https://open.spotify.com/track/2b908yzXY8uzaD4gMDcc8G"
+    },
+    {
+      "added_at": "2025-03-21 13:49:22",
+      "album": {
+        "name": "You Had Me at Goodbye",
+        "url": "https://open.spotify.com/album/6OxXYgY6ayT3FSuR2VqZdW"
+      },
+      "artists": [
+        {
+          "name": "Espen Eriksen Trio",
+          "url": "https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST"
+        }
+      ],
+      "duration_ms": 304880,
+      "name": "Grinde",
+      "url": "https://open.spotify.com/track/2ldhlejPCYY1Ey1QKNlxnz"
     },
     {
       "added_at": "2025-03-21 13:49:22",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2025-03-21 13:49:22",
       "album": {
-        "name": "Where Will the River Flow",
-        "url": "https://open.spotify.com/album/56PNaRZ8pHy1jsxQt7nQQf"
-      },
-      "artists": [
-        {
-          "name": "Matt Carmichael",
-          "url": "https://open.spotify.com/artist/1U7veIfQdOj6xbmc6mWLd0"
-        }
-      ],
-      "duration_ms": 334925,
-      "name": "Hopeful Morning",
-      "url": "https://open.spotify.com/track/2PwVmRP7Hq2ZYjbaJugFWD"
-    },
-    {
-      "added_at": "2025-03-21 13:49:22",
-      "album": {
         "name": "Oh, Jaco!",
         "url": "https://open.spotify.com/album/0i2i4vMnJ8hv5fJreuHWc5"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 360769,
       "name": "Oh, Jaco!",
       "url": "https://open.spotify.com/track/33FJyAQRTd8GKjku7DvYun"
+    },
+    {
+      "added_at": "2025-03-21 13:49:22",
+      "album": {
+        "name": "Where Will the River Flow",
+        "url": "https://open.spotify.com/album/56PNaRZ8pHy1jsxQt7nQQf"
+      },
+      "artists": [
+        {
+          "name": "Matt Carmichael",
+          "url": "https://open.spotify.com/artist/1U7veIfQdOj6xbmc6mWLd0"
+        }
+      ],
+      "duration_ms": 334925,
+      "name": "Hopeful Morning",
+      "url": "https://open.spotify.com/track/2PwVmRP7Hq2ZYjbaJugFWD"
     },
     {
       "added_at": "2025-03-21 13:49:22",

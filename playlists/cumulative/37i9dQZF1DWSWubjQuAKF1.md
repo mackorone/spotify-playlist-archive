@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Faustyna Maciejczuk
 
-465 songs - 22 hr 33 min
+466 songs - 22 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | [milczysz](https://open.spotify.com/track/2REKOuFQwvWRfycJB1Hfn1) | [Magda Drejka](https://open.spotify.com/artist/0pUTemal7XM7uGxiyphELo) | [milczysz](https://open.spotify.com/album/0q3TtiHKHnQvnDXhDRfRYI) | 2:17 | 2024-08-22 | 2025-01-24 |
 | [MILION](https://open.spotify.com/track/5F3tMkclVSZ3sYyhU9knBx) | [LIJA](https://open.spotify.com/artist/46Ke0Gji5QAaMGvsTgBEj5) | [MILION](https://open.spotify.com/album/2uMYW6xYTT6yQeCZorgoaD) | 2:57 | 2024-09-13 | 2025-01-24 |
 | [Miliony monet \(feat\. Wiktor Waligóra, Piotr Odoszewski & Kajetan Wolas\)](https://open.spotify.com/track/3u7NG0qKoxZPbdLiz2G6lp) | [PROJEKT WOW](https://open.spotify.com/artist/5PMVw2BdUOLVhFe0Hibkms), [Wiktor Waligóra](https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL), [Piotr Odoszewski](https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk), [Kajetan Wolas](https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj) | [Miliony monet \(feat\. Wiktor Waligóra, Piotr Odoszewski & Kajetan Wolas\)](https://open.spotify.com/album/3ZrD1SPVM3EUSqbUM9AgW0) | 2:52 | 2024-07-25 | 2024-11-08 |
+| [Minie jesień](https://open.spotify.com/track/53ieaetpKRfYklvJcGVnel) | [Mlecze](https://open.spotify.com/artist/5lCEddkyXfytjFWsUlviEo) | [Minie jesień](https://open.spotify.com/album/0WfjjNuG4XCydHH1VcWI74) | 2:48 | 2025-05-22 |  |
 | [mirabelkowy asfalt](https://open.spotify.com/track/7EeJGX9o9uVsYQ3jVyTEGg) | [Maja Krzyżewska](https://open.spotify.com/artist/0Ik3lsTqLJTDmAmKQ6mxPL) | [mirabelkowy asfalt](https://open.spotify.com/album/4poh2MHhgQthdH6byXneK2) | 2:18 | 2025-04-17 | 2025-05-02 |
 | [Miracle](https://open.spotify.com/track/1Rc955GBwPGvCoWLNQokoE) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [Miracle](https://open.spotify.com/album/4IyYlHAeJrECsT7VSXCH6Y) | 3:00 | 2024-10-11 | 2025-01-24 |
 | [Miracle \- Eurovision Version](https://open.spotify.com/track/43aFX2LZpCnZXEhNVKBk1z) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [Miracle \(Eurovision Version\)](https://open.spotify.com/album/5v8wOqN8GWvKy7fkPsCW4S) | 2:50 | 2025-01-16 | 2025-03-14 |
@@ -350,7 +351,7 @@
 | [Running From Myself](https://open.spotify.com/track/2oWQin3JziO4aw4IrEkAmF) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Running From Myself](https://open.spotify.com/album/2UeR4nyka780fWnwgabZLe) | 2:36 | 2025-04-03 |  |
 | [rychło](https://open.spotify.com/track/7MelYNEVwd91gVDJFpu6it) | [nat cichocka](https://open.spotify.com/artist/5EAjCeLqtw5GFkmqFQy9al), [Dawid Płonka](https://open.spotify.com/artist/6P8H6nSX040u58IuahsdvF) | [rychło](https://open.spotify.com/album/45wHP18JKaFAEMuUQHoKmm) | 3:37 | 2024-06-28 | 2024-08-02 |
 | [Róże](https://open.spotify.com/track/7KwoToBk5yZ3sDTOuFEI9F) | [Zuza Jabłońska](https://open.spotify.com/artist/2obyllmx54A5zB0yZe5ikt) | [Róże](https://open.spotify.com/album/1OFjjOlwaioMt9YqGZHNRb) | 2:31 | 2025-05-15 |  |
-| [różowa kurtka](https://open.spotify.com/track/2burnazGQjeP6U2hheGpTd) | [Norbert Wronka](https://open.spotify.com/artist/5jPmnL6vRtGz8pNWsv7ujq) | [różowa kurtka](https://open.spotify.com/album/43mE5tq8My3N8V0ER0gTLB) | 2:21 | 2025-05-01 |  |
+| [różowa kurtka](https://open.spotify.com/track/2burnazGQjeP6U2hheGpTd) | [Norbert Wronka](https://open.spotify.com/artist/5jPmnL6vRtGz8pNWsv7ujq) | [różowa kurtka](https://open.spotify.com/album/43mE5tq8My3N8V0ER0gTLB) | 2:21 | 2025-05-01 | 2025-05-29 |
 | [Sad But True](https://open.spotify.com/track/0gdQvpd0knhJmcIbF3jSOM) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Sad But True](https://open.spotify.com/album/79pXYIrBC0AClFOPDK1xzL) | 3:36 | 2025-02-27 | 2025-05-15 |
 | [Safe Zone](https://open.spotify.com/track/7vU0fgnjfwRuAGDDNSmfGn) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU), [Moo Latte](https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F) | [Safe zone](https://open.spotify.com/album/00FCqeV2zeakDhDWTziDQG) | 3:02 | 2024-06-28 | 2024-08-02 |
 | [Sally, When The Wine Runs Out](https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore \(The Longest Goodbye\)](https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f) | 3:38 | 2025-03-13 | 2025-05-02 |

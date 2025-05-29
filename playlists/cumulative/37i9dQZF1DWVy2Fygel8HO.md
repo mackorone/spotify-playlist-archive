@@ -4,7 +4,7 @@
 
 > Soft, soothing piano for you and your baby.
 
-181 songs - 7 hr 30 min
+182 songs - 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Continuum](https://open.spotify.com/track/6r8KQsw5w6xLPgCcz5f9gX) | [Karen LeFrak](https://open.spotify.com/artist/7w0W3SxEy226zQlm1eMnXo), [Jacques van Tuinen](https://open.spotify.com/artist/2cJHx9ShBZorTEnZbVv5nz) | [Continuum](https://open.spotify.com/album/5Kwp883TNLiSnBqgvsrQfV) | 1:21 | 2023-05-09 | 2025-04-09 |
 | [Copenhagen Lullaby](https://open.spotify.com/track/7DEtUcuVDrjKf2VaVwarV5) | [Rasmus H Thomsen](https://open.spotify.com/artist/42jjk371b9jW9zsmrMls10) | [Copenhagen Lullabies](https://open.spotify.com/album/6LjSPzTlsMM0eOwWrnAzTx) | 2:25 | 2023-05-09 |  |
 | [Dandelion Lullaby](https://open.spotify.com/track/08qJ7igtZJPpvS1kNZz9yV) | [Leila Milki](https://open.spotify.com/artist/4DXSD40PBK0g20FwbdMUON) | [Springtime Improvisations](https://open.spotify.com/album/5ezMUY3NhgxPsufHezSG7D) | 2:11 | 2023-05-09 | 2025-02-19 |
+| [Daylight Saving](https://open.spotify.com/track/3SaIAk237mEa2tt2ije1JR) | [Ferragno](https://open.spotify.com/artist/6V5Qb50Rc4RxLMVRgLyD2W) | [Daylight Saving](https://open.spotify.com/album/6lMTV5tFejaXj9fGgEBsVF) | 2:42 | 2025-05-28 |  |
 | [Dear Buddy](https://open.spotify.com/track/4XhZgQHy6yNEB5M3NhZXAG) | [Cinthya Garcia](https://open.spotify.com/artist/6bJ7NkfRa94C3IT6NGamEv) | [Dear Buddy](https://open.spotify.com/album/7nRhGhULaOo98BoVjYzzgD) | 2:12 | 2023-05-09 | 2025-04-26 |
 | [Des Tourtereaux](https://open.spotify.com/track/17C80ckXJM15fazZlKt7nE) | [De Gruy](https://open.spotify.com/artist/1yfYcQByfFNOqdcv2u9J9q) | [Des Tourtereaux](https://open.spotify.com/album/4RaU97Iwx8fFJeIAoKiuKS) | 2:25 | 2023-05-09 | 2025-04-26 |
 | [Deux](https://open.spotify.com/track/3HZF4X9kNjSDLppU9aw01r) | [Valerie Renaud](https://open.spotify.com/artist/1GgQvtLPuHNOXTFtsUO7Lq) | [Deux](https://open.spotify.com/album/7b3eeTtobX08kn1qW1ljWb) | 3:03 | 2023-05-09 | 2025-02-19 |

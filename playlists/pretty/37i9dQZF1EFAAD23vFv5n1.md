@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/14QejH3mjo1cVX1ATOop0M">okgiorgio</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,004 likes - 128 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,003 likes - 128 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 25 | [Wah Wah](https://open.spotify.com/track/4ENsfBs38JiwX96HasFH78) | [Tancredi](https://open.spotify.com/artist/6BeaPpdgW7R4Q1ZGqENbV0) | [Wah Wah](https://open.spotify.com/album/7hW0lNWIc1ll7RjjCn0k64) | 2:28 |
 | 26 | [Asfalto](https://open.spotify.com/track/0h6zzKCpqIQwCetFJWhd8f) | [Colla Zio](https://open.spotify.com/artist/5b7RP4RDJ37q5EPUs4nf59) | [ROCKABILLY CARTER](https://open.spotify.com/album/4JhRql5w7yWaRipBuUM7ar) | 2:45 |
 | 27 | [ok :\)](https://open.spotify.com/track/5QTT9PQDW6CSl1UByi5nxt) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok :\)](https://open.spotify.com/album/499zhITIl5pq4NgXU7AXoR) | 3:29 |
-| 28 | [Maremoto](https://open.spotify.com/track/7FGx98tYHKGabYTTf5rMjd) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ), [See Maw](https://open.spotify.com/artist/6EpzsiQuQ3dJas4vA6drGQ) | [Maremoto](https://open.spotify.com/album/5qiLpQpRR0eF2fkV3qTJP4) | 2:49 |
-| 29 | [okokok](https://open.spotify.com/track/5VML2SOtSpYIKxtAQ3oAzq) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [okokok](https://open.spotify.com/album/0a6WPtwGDH6doaQoBiIp2C) | 2:38 |
+| 28 | [okokok](https://open.spotify.com/track/5VML2SOtSpYIKxtAQ3oAzq) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [okokok](https://open.spotify.com/album/0a6WPtwGDH6doaQoBiIp2C) | 2:38 |
+| 29 | [Maremoto](https://open.spotify.com/track/7FGx98tYHKGabYTTf5rMjd) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ), [See Maw](https://open.spotify.com/artist/6EpzsiQuQ3dJas4vA6drGQ) | [Maremoto](https://open.spotify.com/album/5qiLpQpRR0eF2fkV3qTJP4) | 2:49 |
 | 30 | [Baby](https://open.spotify.com/track/6pGsdKu9meinWCqFDiD94g) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [INTERNET](https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz) | 3:13 |
 | 31 | [Draghi](https://open.spotify.com/track/6L3KJV18NMuSz9QLoamsZQ) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [Draghi](https://open.spotify.com/album/5C2FXB6ueDnXQnrZTgQ61J) | 3:32 |
 | 32 | [Ricomincio da tre \(feat\. Fulminacci\)](https://open.spotify.com/track/1Kgamo1ceMHjNvizIFNavf) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK), [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3) | [CRUSH](https://open.spotify.com/album/6prdGyJZaUBHgCvVJ4mJH5) | 3:12 |
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 127 | [Ninna Nanna Triste](https://open.spotify.com/track/2bthDKc7nePa2aChDXjiMB) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [Hotel Corallo](https://open.spotify.com/album/6TOinoXJcHtiLvF3Nrw8rB) | 2:19 |
 | 128 | [Intro](https://open.spotify.com/track/6qyeQ7FdZXM44vqY2DWtv4) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [Hotel Corallo](https://open.spotify.com/album/6TOinoXJcHtiLvF3Nrw8rB) | 0:46 |
 
-Snapshot ID: `AbykNAAAAABoyqzv82Ql/u5jXj+b7Rku`
+Snapshot ID: `Abyp/AAAAABmiWYdYwFVu+YJK9HxkkRU`

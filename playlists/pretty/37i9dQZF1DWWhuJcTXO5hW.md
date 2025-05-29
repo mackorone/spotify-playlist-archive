@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhuJcTXO5hW.md) - [plain]
 
 > The most chill instrumental oud sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,238 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,250 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,13 +46,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhuJcTXO5hW.md) - [plain]
 | 36 | [Turkish Coffee](https://open.spotify.com/track/3169aUzrWTznvVupy1f20E) | [Basel Rajoub](https://open.spotify.com/artist/68rxFd814z29ByrpJtXcNp) | [Khameer](https://open.spotify.com/album/1nGR5fdDSZrUkeUrdbPxDC) | 4:24 |
 | 37 | [Sama' Ay Sihr Misr](https://open.spotify.com/track/3iflS35RQOA8uPKQ9TF455) | [Saber Abdelsattar](https://open.spotify.com/artist/2TtJW54EuW7FoqRimKehA5) | [Alabanza \- Tasabih](https://open.spotify.com/album/4NsiDOK7VsDTJoEQQvzCK0) | 4:35 |
 | 38 | [FIRAT](https://open.spotify.com/track/3vjOp0AczE2nzHxMxr8Dwj) | [ismet Demirhan](https://open.spotify.com/artist/6JmJZt2L5BFINYsz9IldUV) | [ISMET DEMIRHAN](https://open.spotify.com/album/2N3iaWdPPDxXuMukwkdlOo) | 4:47 |
-| 39 | [Nara](https://open.spotify.com/track/49ppdLKp66bzhMWoK3wlzy) | [Imane Homsy](https://open.spotify.com/artist/3rSLFFNKHgWYbmDi1DoC5R), [Charbel Rouhana](https://open.spotify.com/artist/544JiY0RNPRFaxnkLS3cFL) | [Charbel Rouhana: the Art of the Middle Eastern Oud \- New Perspectives On Trad\. Maqams](https://open.spotify.com/album/56H6omd7p4dFyx1gPMEM6e) | 2:15 |
-| 40 | [Islands of Peace](https://open.spotify.com/track/2MhrdSEfjv2cjQ226BHEN5) | [Abdul Al Kahabir](https://open.spotify.com/artist/6jQNoAYC0mpgCRpIIU89Pi) | [Best of Arabian Lounge](https://open.spotify.com/album/44seqBGCa20ECWZBI2RviV) | 3:54 |
+| 39 | [Islands of Peace](https://open.spotify.com/track/2MhrdSEfjv2cjQ226BHEN5) | [Abdul Al Kahabir](https://open.spotify.com/artist/6jQNoAYC0mpgCRpIIU89Pi) | [Best of Arabian Lounge](https://open.spotify.com/album/44seqBGCa20ECWZBI2RviV) | 3:54 |
+| 40 | [Nara](https://open.spotify.com/track/49ppdLKp66bzhMWoK3wlzy) | [Imane Homsy](https://open.spotify.com/artist/3rSLFFNKHgWYbmDi1DoC5R), [Charbel Rouhana](https://open.spotify.com/artist/544JiY0RNPRFaxnkLS3cFL) | [Charbel Rouhana: the Art of the Middle Eastern Oud \- New Perspectives On Trad\. Maqams](https://open.spotify.com/album/56H6omd7p4dFyx1gPMEM6e) | 2:15 |
 | 41 | [Dreams Of A Dying City](https://open.spotify.com/track/6ZEmjcKnZvbWV2qBvDR3rm) | [Rabih Abou\-Khalil](https://open.spotify.com/artist/7cM9Y2LNnnmmqivaEuH8vT), [Jarrod Cagwin](https://open.spotify.com/artist/5sWtE2cBLTTbo9bfrNOYN0), [Luciano Biondini](https://open.spotify.com/artist/0AHji8QRcQS9bGeIFHA3D0), [Gavino Murgia](https://open.spotify.com/artist/6iCQomJORy2bN4R47rVTvP), [Michel Godard](https://open.spotify.com/artist/1A25jYWj9rD6Co1KbnBGav) | [Hungry People](https://open.spotify.com/album/37ZVvmVPYFCyaDdNZaSRof) | 5:34 |
 | 42 | [Lourga](https://open.spotify.com/track/5unbdTVuyBjvXe3OUHZTNV) | [Omar Bashir](https://open.spotify.com/artist/4IRXGwXby9WAyL7hrgLOQH) | [Zykrayati](https://open.spotify.com/album/1QGk8YXeOBGIZ8mEQCnsle) | 18:42 |
 | 43 | [Nuo Ather](https://open.spotify.com/track/3wviuDbyvbG0Vr3sO4IfUs) | [Aarif Jaman](https://open.spotify.com/artist/1zkvifjurjnlKQmRLlXpeh) | [Oud \(The Legend of Arabic Music\)](https://open.spotify.com/album/6ccsUgs16DGDaZ77UNKYOg) | 3:14 |
-| 44 | [Gözyaşı](https://open.spotify.com/track/7ecoRpurntOKGDj4nL4tIk) | [Selim Sesler](https://open.spotify.com/artist/1H4RsM1SDZVGLVli80d3sd) | [Oğlan Bizim Kız Bizim](https://open.spotify.com/album/1tr6B3iChauvB5MXpZ316V) | 5:43 |
-| 45 | [Hamsin](https://open.spotify.com/track/1MNANP3o8hubBiDlbu4rsx) | [Bustan Abraham](https://open.spotify.com/artist/6aUAiSI1TGLoGyHeVxPdbc) | [Hamsa](https://open.spotify.com/album/4U88OG3vzz8hFIEoIEwouO) | 7:44 |
+| 44 | [Hamsin](https://open.spotify.com/track/1MNANP3o8hubBiDlbu4rsx) | [Bustan Abraham](https://open.spotify.com/artist/6aUAiSI1TGLoGyHeVxPdbc) | [Hamsa](https://open.spotify.com/album/4U88OG3vzz8hFIEoIEwouO) | 7:44 |
+| 45 | [Gözyaşı](https://open.spotify.com/track/7ecoRpurntOKGDj4nL4tIk) | [Selim Sesler](https://open.spotify.com/artist/1H4RsM1SDZVGLVli80d3sd) | [Oğlan Bizim Kız Bizim](https://open.spotify.com/album/1tr6B3iChauvB5MXpZ316V) | 5:43 |
 | 46 | [A Night In The Mountains](https://open.spotify.com/track/2jzVMkRBB97R6CEU77QWFs) | [Rabih Abou\-Khalil](https://open.spotify.com/artist/7cM9Y2LNnnmmqivaEuH8vT) | [Blue Camel](https://open.spotify.com/album/4Qxx712hAyTvTsl1EsWeRj) | 8:37 |
 | 47 | [Mirage](https://open.spotify.com/track/3LohLAMADeTgPr44EsOkBm) | [Solferino](https://open.spotify.com/artist/0Dge0pjhPWHwrusK6dAy8k), [Ibis Babè](https://open.spotify.com/artist/3nFoFM7CInvWALF4zBn5Yx) | [Arabian Nights \(Best Arabic Lounge Music\)](https://open.spotify.com/album/0lWIMI91TXMP2pKJZ8IRrT) | 4:50 |
 | 48 | [Nugriz](https://open.spotify.com/track/6ggBOrhVLihp57cTr8L4yX) | [Aarif Jaman](https://open.spotify.com/artist/1zkvifjurjnlKQmRLlXpeh) | [Oud \(The Legend of Arabic Music\)](https://open.spotify.com/album/6ccsUgs16DGDaZ77UNKYOg) | 3:14 |

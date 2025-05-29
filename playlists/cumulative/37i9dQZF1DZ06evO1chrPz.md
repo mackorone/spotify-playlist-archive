@@ -4,7 +4,7 @@
 
 > This is Bethel Music\. The essential tracks, all in one playlist.
 
-158 songs - 16 hr 6 min
+159 songs - 16 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | [Stand In Your Love \- Radio Version](https://open.spotify.com/track/6HRU0CPcG0q3Dq8XVBWacL) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [Stand In Your Love \(Radio Version\)](https://open.spotify.com/album/1ZID8iDyFaevr7kBna3Y9d) | 3:41 | 2023-03-17 | 2024-08-01 |
 | [Surrounded \(Fight My Battles\)](https://open.spotify.com/track/1bG33I9qQ5jOTLyNQvvSni) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Peace](https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE) | 5:01 | 2024-07-27 |  |
 | [Surrounded \(Fight My Battles\)](https://open.spotify.com/track/0HtWxjydJ3pEwT5nHJxxZ1) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Peace](https://open.spotify.com/album/5ooqN8wLOZ4zAYo23v3GfA) | 5:03 | 2023-03-17 | 2024-07-27 |
-| [Surrounded By Holy](https://open.spotify.com/track/0YCOTbsLcODzITM0WsSnD7) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Zahriya Zachary](https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L) | [Come Up Here](https://open.spotify.com/album/4d5y9lclXFqb4ADKfEnBDN) | 4:54 | 2024-08-06 |  |
+| [Surrounded By Holy](https://open.spotify.com/track/0YCOTbsLcODzITM0WsSnD7) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Zahriya Zachary](https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L) | [Come Up Here](https://open.spotify.com/album/4d5y9lclXFqb4ADKfEnBDN) | 4:54 | 2024-08-06 | 2025-05-29 |
 | [Surrounded By Holy](https://open.spotify.com/track/3Gx2IFzYlAhaGpBMASAA0U) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Zahriya Zachary](https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L) | [Come Up Here](https://open.spotify.com/album/77rY1J7GGhv82lWkmVrb03) | 4:54 | 2023-03-30 | 2024-07-15 |
 | [Surrounded By Holy](https://open.spotify.com/track/3oHBQsiTAi3FHCL2zKXvpf) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Zahriya Zachary](https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L) | [Surrounded By Holy](https://open.spotify.com/album/40Cv3OatvEElZTKKUhL2Lg) | 4:54 | 2023-03-17 | 2023-03-31 |
 | [Surrounded By Holy \- Live](https://open.spotify.com/track/0PmGvuvTmEw4mkL6URYfDc) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Zahriya Zachary](https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L) | [Surrounded By Holy](https://open.spotify.com/album/1PPHCkGg32qpdCB8UryA2p) | 7:35 | 2023-09-18 | 2023-12-20 |
@@ -166,5 +166,6 @@
 | [You Make Me Brave \- Live](https://open.spotify.com/track/14I9CpiA1CMTdLga8SKAjJ) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [You Make Me Brave \(Live\)](https://open.spotify.com/album/0u5bqt44z6UQEcHV7MVFvM) | 6:06 | 2023-03-17 | 2024-07-14 |
 | [You're Gonna Be Ok](https://open.spotify.com/track/66JDQEKj1rdeAz1D080mJw) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [Peace, Vol\. II](https://open.spotify.com/album/0RbdblzaMNGge5MqeFAX9N) | 4:20 | 2024-07-27 |  |
 | [You're Gonna Be Ok](https://open.spotify.com/track/35sVDinWrh5nYjpzPXe4qz) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [Peace, Vol\. II](https://open.spotify.com/album/6rlmahX20G4EGu7ClCHe4p) | 4:21 | 2023-03-17 | 2024-07-27 |
+| [You're Worthy of My Praise/As The Deer \- Live](https://open.spotify.com/track/0z3CNIaZ6g6Pw5v4OocpFQ) | [John Wilds](https://open.spotify.com/artist/7EtFuC5bUGDUyl6QLyYCvg), [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [I Want Jesus \(Live\)](https://open.spotify.com/album/7IdEtizrVA9XlZRN8Pxed0) | 2:26 | 2025-05-29 |  |
 
 \*This playlist was first scraped on 2023-03-18. Prior content cannot be recovered.

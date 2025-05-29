@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3wlYs23A2Ma5v7mAwIBJsR">Meghan Trainor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,421 likes - 165 songs - 8 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,422 likes - 165 songs - 8 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,9 +127,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 | 117 | [I Believe In Santa](https://open.spotify.com/track/1NgLQouxQqWVA2oQdr0Ze0) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [A Very Trainor Christmas](https://open.spotify.com/album/2Mb2HvX9H2J98qOvZGdsFf) | 2:38 |
 | 118 | [Crowded Room](https://open.spotify.com/track/7538JmMWZuw9kopnACWeyP) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless](https://open.spotify.com/album/07oUxYZMdbyNQtxBsaNhyB) | 2:24 |
 | 119 | [Here To Stay](https://open.spotify.com/track/34z8lt0220mD5i159EpuEm) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [TREAT MYSELF](https://open.spotify.com/album/766Hr0WDvATeOSIo41JvNs) | 3:03 |
-| 120 | [I Don't Do Maybe](https://open.spotify.com/track/7uxxQdI16xLbnhyuUDc1dQ) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless](https://open.spotify.com/album/58UwdMAci96aMa30xLuutY) | 2:30 |
-| 121 | [Love On Hold \(feat\. T\-Pain\)](https://open.spotify.com/track/0t99zoq7bEVFzEVAiyohJz) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Timeless](https://open.spotify.com/album/07oUxYZMdbyNQtxBsaNhyB) | 2:57 |
-| 122 | [Mind Reader \(with Meghan Trainor\)](https://open.spotify.com/track/7oN7VcpfjpSyuzScL3930l) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Mind Reader \(with Meghan Trainor\)](https://open.spotify.com/album/4t4REL6KQpg2leApBEG23W) | 2:31 |
+| 120 | [Mind Reader \(with Meghan Trainor\)](https://open.spotify.com/track/7oN7VcpfjpSyuzScL3930l) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Mind Reader \(with Meghan Trainor\)](https://open.spotify.com/album/4t4REL6KQpg2leApBEG23W) | 2:31 |
+| 121 | [I Don't Do Maybe](https://open.spotify.com/track/7uxxQdI16xLbnhyuUDc1dQ) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless](https://open.spotify.com/album/58UwdMAci96aMa30xLuutY) | 2:30 |
+| 122 | [Love On Hold \(feat\. T\-Pain\)](https://open.spotify.com/track/0t99zoq7bEVFzEVAiyohJz) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Timeless](https://open.spotify.com/album/07oUxYZMdbyNQtxBsaNhyB) | 2:57 |
 | 123 | [Dance About It](https://open.spotify.com/track/37SZ2L5EHqto2gSqCQdd7G) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 3:16 |
 | 124 | [Remind Me](https://open.spotify.com/track/6PctdJn0tMlRtWUDtVZEW4) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 3:20 |
 | 125 | [Special Delivery \(feat\. MAX\)](https://open.spotify.com/track/1nYERUIQ42uJjsvCbDPKlU) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Takin' It Back \(Deluxe\)](https://open.spotify.com/album/6IK5i5sR0uxIcM0rV8HThX) | 3:04 |
@@ -174,4 +174,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 | 164 | [Take Me There](https://open.spotify.com/track/67bB21Y4jSjG3bPPxmqHE8) | [Roger](https://open.spotify.com/artist/4znx0x1npb8pWk0b7Te7hg) | [Hoy \(Finalista La Voz Kids 2015\)](https://open.spotify.com/album/03R3ZvRxNVnjl4PvAeloSg) | 3:30 |
 | 165 | [I'm Ready](https://open.spotify.com/track/4vHh5UPDjmK4R8OPu6sizb) | [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9), [Kinsley](https://open.spotify.com/artist/45TaTVSd9vVWTbafjbljHX) | [Motions LP](https://open.spotify.com/album/2yrVlPZtagwIhwpGm2arbH) | 2:27 |
 
-Snapshot ID: `AbykUgAAAADJ/bkws30DQ5sFna2AB4bo`
+Snapshot ID: `Abyp/AAAAAD1d2U181FttnOmpNFLGYdt`

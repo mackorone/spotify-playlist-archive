@@ -4,7 +4,7 @@
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-567 songs - 23 hr 58 min
+569 songs - 1 day 0 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Act of Kindness](https://open.spotify.com/track/3Xip9lwNo2DAPADWHdVgyi) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Act of Kindness](https://open.spotify.com/album/6nKme2M8g4OjVWz7v8Ze9W) | 3:05 | 2023-11-24 | 2024-09-26 |
 | [Adelita](https://open.spotify.com/track/5AI6zlfccr8OZBUDT996F9) | [Juan Jose Moreno](https://open.spotify.com/artist/4hQDTsoE4V7uoOvtvxp12P) | [Adelita](https://open.spotify.com/album/1uPC9jQL9J7q8SsjxuphpP) | 2:04 | 2023-03-10 | 2023-06-23 |
 | [Adjacent](https://open.spotify.com/track/2xfu6IZrsxJmbVRM4slfN9) | [Bill Valentino](https://open.spotify.com/artist/0I1EsNzqgWLBylHYY8kQnN) | [Adjacent](https://open.spotify.com/album/2SnEZhNI9s5vSLsmIvOrRJ) | 3:51 | 2022-10-07 | 2024-06-28 |
-| [Adrift](https://open.spotify.com/track/0jaIrzvr3sQUPflXMmAVgn) | [Néer Échoes](https://open.spotify.com/artist/3Z9Mr09HvDuod5l4JXIPpu) | [Adrift](https://open.spotify.com/album/5cxm4HGBQ6OfooUvqskGsL) | 2:14 | 2025-04-22 |  |
+| [Adrift](https://open.spotify.com/track/0jaIrzvr3sQUPflXMmAVgn) | [Néer Échoes](https://open.spotify.com/artist/3Z9Mr09HvDuod5l4JXIPpu) | [Adrift](https://open.spotify.com/album/5cxm4HGBQ6OfooUvqskGsL) | 2:14 | 2025-04-22 | 2025-05-29 |
 | [Aeonian](https://open.spotify.com/track/5t5afa9dRzW41gHbAvUfHQ) | [Ron Well](https://open.spotify.com/artist/3SEmNWyAadupLPO2WOcw0W) | [Aeonian](https://open.spotify.com/album/10TTVSf5z979cewemtMlep) | 2:46 | 2022-06-17 | 2023-03-10 |
 | [Afternoon hovers](https://open.spotify.com/track/7JaU9CgUhv6I6DqryPyg1C) | [Oceane Bardot](https://open.spotify.com/artist/4YYQ7Q0261K5rIEs0SQZIi) | [Afternoon hovers](https://open.spotify.com/album/2VMThT0iQUWcvbKm6OUOW7) | 2:26 | 2023-04-28 | 2023-06-23 |
 | [Afternoon in May](https://open.spotify.com/track/1FcvorbsrplfCxOX3ch77B) | [Michelle Qureshi](https://open.spotify.com/artist/2tnTYLzDkug2iNhsBpWmuG) | [Within](https://open.spotify.com/album/65eOKdl0MxptxgnpDiM8ax) | 2:22 | 2024-02-02 |  |
@@ -470,6 +470,7 @@
 | [Stones](https://open.spotify.com/track/3YKRLvwTVd61lcgM1En09p) | [The Bare Bones](https://open.spotify.com/artist/2NKYLVOD0HH7O1anuALOBU) | [Stones](https://open.spotify.com/album/1ejYgT85tPxlEWBYn5jjpP) | 2:24 | 2022-06-17 | 2024-07-18 |
 | [Strange Encounter](https://open.spotify.com/track/0wy7FZ340c8LFHbbu07od2) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Strange Encounter](https://open.spotify.com/album/1gPHMceOELyRK5Sc7sbX4m) | 2:20 | 2023-03-24 | 2023-06-23 |
 | [Strawberry Dreams](https://open.spotify.com/track/6WWPhYyJVAZV4gA38GXmcF) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [Strawberry Dreams](https://open.spotify.com/album/1MOCesaJVnxOgVz3iyIzvp) | 2:35 | 2023-05-19 |  |
+| [Strolling in the park](https://open.spotify.com/track/1FUzID0Dks61wkJMYv8XJO) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Strolling in the park](https://open.spotify.com/album/5ifEiF8AMwRCRpK66JNwUI) | 2:58 | 2025-05-28 |  |
 | [Summer Love](https://open.spotify.com/track/7iGZjJTIxc3nU5KQ3LlCdI) | [Maia](https://open.spotify.com/artist/4RW9d3d203cf98WetcAbIj) | [Summer Love](https://open.spotify.com/album/6cY5l2Q1CiRpJm301q756l) | 2:07 | 2023-08-10 |  |
 | [Summer Rain](https://open.spotify.com/track/3M2tYT2LyJi8tISX7j1pbI) | [Max Laugland](https://open.spotify.com/artist/7ASrnmDyLPEBiO97unM9AC) | [Summer Rain](https://open.spotify.com/album/7wvfO96xIIFvY8ShoZjatX) | 3:02 | 2024-10-09 |  |
 | [Sun Beam](https://open.spotify.com/track/5cUqHAqFyRdoh1d84IExHD) | [Benjamins Friend](https://open.spotify.com/artist/54Pp9oG56ETWzr0DC65tld) | [Sun Beam](https://open.spotify.com/album/7Hcg1wCXtBKqxljQFcgywZ) | 3:19 | 2025-04-29 | 2025-05-20 |
@@ -502,6 +503,7 @@
 | [The Good Choice](https://open.spotify.com/track/3G4ExFqeptnGm7581Aqj82) | [Lo Larsen](https://open.spotify.com/artist/1RsZrWsACeuDkqAISdeFDi) | [The Good Choice](https://open.spotify.com/album/5LdhdJSDjnRnxaB3cUl6Ka) | 3:56 | 2022-06-17 | 2023-05-20 |
 | [The Lights](https://open.spotify.com/track/2CIpfBZeHsuouUwJWUEsod) | [Remy Simon](https://open.spotify.com/artist/0ExT57wmZSDy4h6wT1AGqs) | [The Lights](https://open.spotify.com/album/7pnNgMZyKEPjGbJlQJ6LI1) | 1:46 | 2023-04-28 | 2023-06-23 |
 | [The Lowest Point](https://open.spotify.com/track/2gtT9F0c1DDaz0W3vr2hRv) | [Sam Stone](https://open.spotify.com/artist/0Ostoo9TfYaBuDd5QdHz28) | [The Lowest Point](https://open.spotify.com/album/5Wf8oYxZ6nrVDBmDM6Hj6t) | 2:31 | 2024-12-10 |  |
+| [The Meadow Stirs](https://open.spotify.com/track/7cVR6AMaMaUFuWFGvAsjDv) | [Noah Lorne](https://open.spotify.com/artist/3mgtorvPIuOOqO0V5EwEqa) | [The Meadow Stirs](https://open.spotify.com/album/13MZr3OrJgQnMcukseUfSL) | 2:41 | 2025-05-28 |  |
 | [The Opera House](https://open.spotify.com/track/3dhrGAxAN0i37d64p4bCm1) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [The Opera House](https://open.spotify.com/album/3LqVjTRi1yMlpNsjYEBPMG) | 3:00 | 2023-06-22 | 2024-05-10 |
 | [The Spring Bird](https://open.spotify.com/track/1PvZZloPxrC4q2nh3LCj4O) | [Tim Philis](https://open.spotify.com/artist/1OFXBk4WZ7ZF3I98uJ9T6j) | [The Spring Bird](https://open.spotify.com/album/1zBJdIFX92nSLrv5ek5YqP) | 2:20 | 2022-06-17 | 2023-08-18 |
 | [The Summer House](https://open.spotify.com/track/5bc5OxgJbevqYvM1gWXpYg) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [The Summer House](https://open.spotify.com/album/5PqyY80r1xYaT5Wkqk4BDH) | 2:02 | 2023-04-28 | 2023-06-23 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 
 > All the new music you need to hear right now\. Cover: Burna Boy, Travis Scott
 
-[Spotify](https://open.spotify.com/user/spotify) - 571,618 likes - 80 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 571,605 likes - 80 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 | 28 | [Listen](https://open.spotify.com/track/1KXvPVzlJhSR3DT7ADSh89) | [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr), [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP) | [Overgrown](https://open.spotify.com/album/6SKM4F8aje787qw2KlQSFM) | 3:46 |
 | 29 | [moody](https://open.spotify.com/track/7MerIDn7wpEH4OEGbpasSH) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [moody](https://open.spotify.com/album/7eZ8bFDtTIymJEdRCEIyro) | 2:55 |
 | 30 | [About To Begin](https://open.spotify.com/track/5bF7tpXlhyfA7EwQ5sdOZh) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [About To Begin / Cars Pass By Like Childhood Sweethearts](https://open.spotify.com/album/0SQV9DefT0wIBz9aCYehmu) | 3:30 |
-| 31 | [Paid In Full \(feat\. Big Zuu, Wax, Ets & D7\)](https://open.spotify.com/track/5wzNTV981iD8f21ZrJGymT) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U), [Big Zuu](https://open.spotify.com/artist/3FyA6R41UYLDXfRRcaOhh5), [Wax](https://open.spotify.com/artist/2aFHxt3VFFnhNYik32Pvvt), [D7](https://open.spotify.com/artist/3YOZTsZa2dczQKpodqy2yS), [Ets](https://open.spotify.com/artist/1TnWkpc34IlvMmNTmb1J9C) | [Paid In Full \(feat\. Big Zuu, Wax, Ets & D7\)](https://open.spotify.com/album/117WybpWbay0WPbk0LBQY1) | 3:16 |
+| 31 | [Paid In Full \(feat\. Big Zuu, Wax, Ets & D7\)](https://open.spotify.com/track/5wzNTV981iD8f21ZrJGymT) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U), [Big Zuu](https://open.spotify.com/artist/3FyA6R41UYLDXfRRcaOhh5), [Wax](https://open.spotify.com/artist/2aFHxt3VFFnhNYik32Pvvt), [Ets](https://open.spotify.com/artist/1TnWkpc34IlvMmNTmb1J9C), [D7](https://open.spotify.com/artist/3YOZTsZa2dczQKpodqy2yS) | [Paid In Full \(feat\. Big Zuu, Wax, Ets & D7\)](https://open.spotify.com/album/117WybpWbay0WPbk0LBQY1) | 3:16 |
 | 32 | [Full Attention](https://open.spotify.com/track/6Yhzabh1wK19kniAJOz1G2) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Full Attention](https://open.spotify.com/album/25Gn5IvV9ykJTPDGigx452) | 3:04 |
 | 33 | [His & Hers \(with Loski\)](https://open.spotify.com/track/4pbf37Dttl8yLgpDSPTq6T) | [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z), [Loski](https://open.spotify.com/artist/5VNMclLseLzRnVhvkrqdpn) | [His & Hers \(with Loski\)](https://open.spotify.com/album/5iDPT6RAETzQJ8PZxbS9Xh) | 3:26 |
 | 34 | [What I Want \(feat\. Tate McRae\)](https://open.spotify.com/track/04emojnbYkrRmv5qtJcgVP) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [I’m The Problem](https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD) | 3:04 |

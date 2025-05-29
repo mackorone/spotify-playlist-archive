@@ -2,9 +2,9 @@
 
 ### [أفضل الأغاني الشرقية](https://open.spotify.com/playlist/37i9dQZF1DXe3aCmUoBd8n)
 
-> Top Sharqi hits right now\. Cover: Bessan Ismail
+> Top Sharqi hits right now\. Cover: AL SHAMI
 
-192 songs - 11 hr 10 min
+193 songs - 11 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Ma Fi Leil](https://open.spotify.com/track/7eBCrBVZGlfgbutr8CbqiG) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65), [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [Ma Fi Leil](https://open.spotify.com/album/1Rp9bFeceWXdz8bifip2cM) | 3:57 | 2024-04-23 |  |
 | [Ma Tarakna](https://open.spotify.com/track/59UWCOSGrNNrkFUn7rCZtS) | [Saif safadi](https://open.spotify.com/artist/5YOpMW6wgD0l50bK1DBq74) | [Ma Tarakna](https://open.spotify.com/album/7bOBrNOz7Ey6GLfKyBj1a1) | 3:18 | 2023-03-13 | 2024-10-13 |
 | [Madi Aswad](https://open.spotify.com/track/24IyeYzwIGXWBtqqxQ5Kde) | [Mohamed el Majzoub](https://open.spotify.com/artist/154fa6GCqPcTDUCF6BBdHS) | [Madi Aswad](https://open.spotify.com/album/2ZiZGls3VjAKzK7Ga1ZBtw) | 3:17 | 2022-05-04 | 2022-07-17 |
+| [Maleket Gamal El Kon](https://open.spotify.com/track/2UaswhFiFjhWfIBpiVSfEt) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy), [AL SHAMI](https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k) | [Maleket Gamal El Kon](https://open.spotify.com/album/2o3FieURTMsE0wPBPqFogl) | 2:53 | 2025-05-28 |  |
 | [Manga](https://open.spotify.com/track/72UjNW994y94RYAdTB4zD4) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Lehqt Nafsy](https://open.spotify.com/album/5Hy7i5IWXGVgnZ6EGYK5Oq) | 3:19 | 2024-10-13 | 2024-10-31 |
 | [Manni Wafi](https://open.spotify.com/track/1OoXeFPjwzsszgrFbF6NgP) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Shayfa Feek](https://open.spotify.com/album/5VI4sFVYovAJdrWWOA1LHX) | 3:00 | 2024-03-11 | 2024-10-13 |
 | [Men Nazra](https://open.spotify.com/track/03IOx6TU8DU7p7TwLPdjI2) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Men Nazra](https://open.spotify.com/album/3gQgJqfwjhLlSVwRe4elqK) | 2:52 | 2024-10-12 |  |
@@ -170,7 +171,7 @@
 | [بحارب فيها](https://open.spotify.com/track/0XDtC0f0gsLPPVvbFiu07q) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [بحارب فيها](https://open.spotify.com/album/0LLAkjCkZJFQInR2cQ9KFe) | 4:05 | 2022-08-28 | 2024-01-07 |
 | [بحارب فيها](https://open.spotify.com/track/74dkAlEbjBPHK3HrLXiAmC) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [بحارب فيها](https://open.spotify.com/album/4x1Bl2uSE5UPlfnQXwlo2U) | 4:05 | 2022-06-20 | 2024-10-31 |
 | [بحارب فيها](https://open.spotify.com/track/7CMWymjluZIFObjuvzHYeT) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [بحارب فيها](https://open.spotify.com/album/5RimBiLxkawPsr59cDnkWT) | 4:05 | 2023-12-27 | 2024-04-19 |
-| [بركان](https://open.spotify.com/track/57by0g52xM5QUUFFI5ZaiX) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [بركان](https://open.spotify.com/album/5KkRsB4FGEuV82TSWWfIen) | 3:10 | 2023-07-27 |  |
+| [بركان](https://open.spotify.com/track/57by0g52xM5QUUFFI5ZaiX) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [بركان](https://open.spotify.com/album/5KkRsB4FGEuV82TSWWfIen) | 3:10 | 2023-07-27 | 2025-05-29 |
 | [بركان](https://open.spotify.com/track/5ebPGUF0ycevMKFLepmYdU) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [بركان](https://open.spotify.com/album/5RKRUPGQoldDKWdDOykvZv) | 3:10 | 2023-12-27 | 2024-04-19 |
 | [بيتكلم عليا](https://open.spotify.com/track/7yqw4f8ovU2HuuQmfy4kVu) | [George Wassouf](https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1) | [Byetkallem Aalaya](https://open.spotify.com/album/0in1Cb14BGgSyvwOHWpNni) | 4:17 | 2022-12-01 | 2023-01-06 |
 | [جمالا](https://open.spotify.com/track/6wyCbgtbiZU6g5ovWTIRwI) | [Joseph Attieh](https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo) | [Jamala](https://open.spotify.com/album/2zuh7nXPm70aZ1JyffBa8x) | 2:54 | 2022-10-09 | 2025-02-25 |

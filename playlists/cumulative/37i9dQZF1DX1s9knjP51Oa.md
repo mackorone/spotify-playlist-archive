@@ -4,7 +4,7 @@
 
 > Relaxing piano to help you find calm and stillness within.
 
-848 songs - 1 day 12 hr 25 min
+850 songs - 1 day 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Afterlight](https://open.spotify.com/track/0X3mDFl8poPzyNQmrTe9fr) | [Arlo Thiem](https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd) | [Afterlight](https://open.spotify.com/album/4dNFgryxb6P7wJDsdPaupX) | 3:20 | 2023-10-02 |  |
 | [Aftonstjärna](https://open.spotify.com/track/438tqm4eZnhsomXZPu2s2T) | [Christian Peterson\-Bergling](https://open.spotify.com/artist/0jXPRVmiApahArJiibipfH) | [Aftonstjärna](https://open.spotify.com/album/2an7srBOdWxQDg1IF8ToM4) | 2:57 | 2023-03-27 | 2024-06-01 |
 | [Agonize](https://open.spotify.com/track/3FeGZb9pg7ws79UhhZP8lv) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [Agonize](https://open.spotify.com/album/6PMNbI3D4rsYwWWgXZ9JHS) | 2:51 | 2021-12-13 | 2022-05-27 |
-| [Air from Air](https://open.spotify.com/track/7jUgBIVfc6C2YfFqFmETxz) | [Yasuo Zen](https://open.spotify.com/artist/4Gew7TmeuvKFbHl0PttGaz) | [Air from Air](https://open.spotify.com/album/7H66SSCcsdRnEdhQxdan7r) | 3:19 | 2023-03-06 |  |
+| [Air from Air](https://open.spotify.com/track/7jUgBIVfc6C2YfFqFmETxz) | [Yasuo Zen](https://open.spotify.com/artist/4Gew7TmeuvKFbHl0PttGaz) | [Air from Air](https://open.spotify.com/album/7H66SSCcsdRnEdhQxdan7r) | 3:19 | 2023-03-06 | 2025-05-29 |
 | [Akeleie](https://open.spotify.com/track/0UmaYgHfAEEMwxYGHSDMmu) | [Signe Bratlie](https://open.spotify.com/artist/61VEtQG9UwPF5V01eRmZWi) | [Akeleie](https://open.spotify.com/album/4wuBcYPsziuMtuafKDpDlP) | 3:53 | 2021-12-13 | 2022-08-10 |
 | [Al buio con te](https://open.spotify.com/track/2xU7HfHYdDO8T4TVRJwvHJ) | [Nicola Conti](https://open.spotify.com/artist/6vfIB4LyqkmDQevucWiiif) | [Al buio con te](https://open.spotify.com/album/6emKARrpD8jsPvjXkZdQOs) | 2:16 | 2022-10-04 | 2024-04-09 |
 | [Alba](https://open.spotify.com/track/5eEYSPaVwg4Fe1KCMYunQf) | [Helmut Schenker](https://open.spotify.com/artist/6wf5DKFK08Qx5d11LNhesK) | [Alba](https://open.spotify.com/album/1TRZDyBjo3syOMRNL6luIq) | 2:32 | 2021-12-13 | 2024-03-26 |
@@ -185,6 +185,7 @@
 | [Daydream](https://open.spotify.com/track/2ybNkUxBLsr62fkVcqJ8OC) | [Patrica Vazquez](https://open.spotify.com/artist/3WwszcyQ0cJgmBo9YrHN0p) | [Daydream](https://open.spotify.com/album/7dMjCn2hQgcP4Vqll8M4BJ) | 1:52 | 2021-12-13 | 2022-05-27 |
 | [Daydreamer](https://open.spotify.com/track/5VWbXmisFDNGzh1kcXouTR) | [Noah Hart](https://open.spotify.com/artist/774mkzUMjSY8lZyRwVJqen) | [Daydreamer](https://open.spotify.com/album/4z9N0nfrR9TvL7ycpAxwqb) | 2:36 | 2024-03-04 |  |
 | [Daydreamer](https://open.spotify.com/track/0QVOz1Ciduo7miwdCMAeRD) | [Ronan Spoor](https://open.spotify.com/artist/1MeRseIlQhsx4BksnKLHZ0) | [Daydreamer](https://open.spotify.com/album/3seGUQqyvqEZoCKJPidgeJ) | 2:36 | 2022-11-11 | 2024-01-03 |
+| [Daylight Saving](https://open.spotify.com/track/3SaIAk237mEa2tt2ije1JR) | [Ferragno](https://open.spotify.com/artist/6V5Qb50Rc4RxLMVRgLyD2W) | [Daylight Saving](https://open.spotify.com/album/6lMTV5tFejaXj9fGgEBsVF) | 2:42 | 2025-05-28 |  |
 | [Days Gone By](https://open.spotify.com/track/4vDA036RKeQjigYZmANk3Y) | [Tiny Rhino](https://open.spotify.com/artist/7Ma0CST4j0LCd0IYNi5RK4) | [Days Gone By](https://open.spotify.com/album/0je0PVxNcqe1d9n6HRoTx5) | 3:08 | 2021-12-13 | 2022-07-22 |
 | [Days Passing By](https://open.spotify.com/track/6yFNVbbhoPzPmGCYZWlFcw) | [Noomi Meerbach](https://open.spotify.com/artist/2xKGduzNgzli3Ei0q1ofUh) | [Passages](https://open.spotify.com/album/5Aw677fwAtCUBpsLM7E0gB) | 2:39 | 2022-12-21 | 2023-02-07 |
 | [Dedication](https://open.spotify.com/track/5UKTmSINIygGZJR4MFx9Mu) | [HILLEVI](https://open.spotify.com/artist/7602awgZjH5sJDrf8qlwZ6) | [Dedication](https://open.spotify.com/album/0mHFXI7cpZez6t913U6MWB) | 3:07 | 2021-12-13 | 2022-08-10 |
@@ -568,6 +569,7 @@
 | [quiet dream](https://open.spotify.com/track/0XgnVABCWfrB9QG0e7246E) | [Shingo Mimura](https://open.spotify.com/artist/0CkbeuCIE8dfPc7csjP5wT) | [105 years](https://open.spotify.com/album/25l0iXZ0zKly8INJamNzRw) | 2:09 | 2023-10-16 | 2024-04-19 |
 | [quiet dream](https://open.spotify.com/track/45eijXxK33ulZc8WByHYUu) | [Shingo Mimura](https://open.spotify.com/artist/0CkbeuCIE8dfPc7csjP5wT) | [quiet dream](https://open.spotify.com/album/76I5c8mQvOxBOovUtNcqVn) | 2:09 | 2022-10-24 | 2024-10-01 |
 | [Quiet Eyes](https://open.spotify.com/track/2oafUifmaR1uBS3o9o7uLO) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Quiet Eyes](https://open.spotify.com/album/1KnEqKgjw9ryJcHvIgKHL0) | 2:21 | 2023-02-27 |  |
+| [Quiet Palette](https://open.spotify.com/track/7404RoJRtD7G6js1gAdZGz) | [Mijongya](https://open.spotify.com/artist/7GPrD3dPYED5wENCMHirj7) | [Quiet Palette](https://open.spotify.com/album/02ptJu9pkcqOeejvdyvJep) | 2:48 | 2025-05-28 |  |
 | [Quietly Into The Night](https://open.spotify.com/track/63qPLmDnmhKZbzisq6i03B) | [M\. Ljungström](https://open.spotify.com/artist/1IkemcErqAi4s4qpJ5J3kT) | [Quietly Into The Night](https://open.spotify.com/album/4dKF6U00m5Ed9wsFzir5ze) | 2:16 | 2024-08-19 |  |
 | [Quérete a ti mesmo](https://open.spotify.com/track/1LcIr9UrZgmkMGJ6U5aIIm) | [Coralia del Villar](https://open.spotify.com/artist/3gX9B2yu8e72aPFZTap45P) | [Quérete a ti mesmo](https://open.spotify.com/album/4eSIWgY6NHWPhw46vMa4R6) | 2:45 | 2021-12-13 | 2022-10-05 |
 | [Raconteur](https://open.spotify.com/track/6a2LtHG5EH3GSjkkFVFFNK) | [Dean Demir](https://open.spotify.com/artist/434a1xYHmz2z0QvE2jYzmX) | [Raconteur](https://open.spotify.com/album/10dbGhnBgOPijndMSd2f2T) | 1:47 | 2022-03-02 | 2023-08-22 |

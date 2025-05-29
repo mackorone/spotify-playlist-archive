@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Dmnn4U23IpI.md) - [plain]
 
 > With FM\-84, Ollie Wride, The Bad Dreamers and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,234 likes - 50 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,248 likes - 50 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Dmnn4U23IpI.md) - [plain]
 | 49 | [Synthetic](https://open.spotify.com/track/7ChBXw0fe88wRlWFIwe5pX) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Endless Summer](https://open.spotify.com/album/0ZbnBDVUkpegVOfgPFr1wr) | 3:19 |
 | 50 | [Seventeen](https://open.spotify.com/track/4nFljIjLP7Pwvv8vcJ9H2b) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Monsters](https://open.spotify.com/album/1WKMbxcldmwnXaCIGgEpUW) | 4:02 |
 
-Snapshot ID: `aDZvcQAAAAD6bCC/PR90Hcg2nGSaPiMQ`
+Snapshot ID: `aDe5CAAAAADNs0qf/UqmKFqXm1jBvGc8`

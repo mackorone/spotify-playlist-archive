@@ -4,7 +4,7 @@
 
 > Warm and cozy acoustic instrumentals.
 
-394 songs - 17 hr 45 min
+397 songs - 17 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [Hidden Hymns](https://open.spotify.com/track/7fo54L8KW69K5nuVrp0kwJ) | [Aaron Flemming](https://open.spotify.com/artist/5JZXYantGqgguYFt5pw1uH) | [Hidden Hymns](https://open.spotify.com/album/0kjMhSbHbFZTgOboHGP35l) | 2:19 | 2024-03-08 |  |
 | [High Seas](https://open.spotify.com/track/6SCqDHH0cPWjb5RoO8JeJv) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [High Seas](https://open.spotify.com/album/4Y6eHC85yEXFPA0o6ClDgF) | 2:29 | 2022-05-13 | 2024-04-06 |
 | [High Tide](https://open.spotify.com/track/5vpRsRSqIETB8HiHzoJ9lV) | [Danny Black](https://open.spotify.com/artist/1acLmH4vW6PaaqDCDyNf46) | [Adventure Soundtrack](https://open.spotify.com/album/5yLqVDYBeB03t52Nm0myXi) | 1:49 | 2022-05-13 | 2022-06-10 |
+| [Highway](https://open.spotify.com/track/7md0GcPGQmZscsglwm7GIA) | [Dorian Skye](https://open.spotify.com/artist/2PqHZufHAfKQKnL2C76Dnq) | [Highway](https://open.spotify.com/album/5IPedTrS1EwAWrOXh26WYO) | 2:19 | 2025-05-28 |  |
 | [Highway 62](https://open.spotify.com/track/7kDoc5DGGuXzQBRVDA2c6G) | [Damien Adams](https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg) | [Highway 62](https://open.spotify.com/album/6YUK9h48JpAekhqABmFafD) | 2:41 | 2023-03-10 |  |
 | [Hold Back The River](https://open.spotify.com/track/52X6M2Kp4HvpHup3tafEF5) | [Lucian Byrne](https://open.spotify.com/artist/76JjyD3D3gmVw6h9Do2T2C) | [Hold Back The River](https://open.spotify.com/album/4mUjWwSGmnqzhLzTgqa3mH) | 2:28 | 2023-02-24 | 2024-06-15 |
 | [homestretch](https://open.spotify.com/track/6X7sxHLt8IMSUeqnw5T8dT) | [Brooke Osmanski](https://open.spotify.com/artist/1feAma94YsixyNehcnalFA) | [away from the city](https://open.spotify.com/album/6V0gpmoSXFlimu7tHH0fmM) | 2:39 | 2022-05-13 | 2022-10-07 |
@@ -258,6 +259,7 @@
 | [Peaceful Workshop](https://open.spotify.com/track/5FsZl5A4Pn38PX1tajTsTB) | [Ewan O'Connoll](https://open.spotify.com/artist/1RiZWCRIUcWj990GDoTQro) | [Peaceful Workshop](https://open.spotify.com/album/632wdGEM8BkJLGGhnCoHcl) | 2:06 | 2022-05-13 | 2024-04-06 |
 | [Pegasi](https://open.spotify.com/track/1j1LCMYDvPMho2uWB5qdUg) | [Hugo Lemieux](https://open.spotify.com/artist/0jeKJVRZWoZzS4uZCOAC9g) | [Cycling](https://open.spotify.com/album/7LZX5Bublv8SEqy0A9lyuM) | 2:18 | 2022-05-13 | 2022-06-10 |
 | [Perfect Straight Lines](https://open.spotify.com/track/4E34cUcOYEMUCoBZUTkmcz) | [Helen Wei](https://open.spotify.com/artist/618kVtXxOEnfAasArnWgvA) | [Perfect Straight Lines](https://open.spotify.com/album/16PzjWRebn9a8OWTz5FC3N) | 2:59 | 2023-06-09 |  |
+| [Perfidia](https://open.spotify.com/track/3w3DKeKUQpkVnD7bjuaHFj) | [Lucas Morel](https://open.spotify.com/artist/5qmQ7yN4yUtz77k2JhY3Mu) | [Perfidia](https://open.spotify.com/album/3RUkvL2MktN9c53TACSSs0) | 2:11 | 2025-05-28 |  |
 | [Pipes Canyon](https://open.spotify.com/track/10QnuxhWxXnQfDIFfpTTra) | [Damien Adams](https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg) | [Pipes Canyon](https://open.spotify.com/album/0b4jMAmrxMk9MxLsKvB4ko) | 2:47 | 2023-01-20 |  |
 | [Polmont](https://open.spotify.com/track/6Mz1pP2PVuRP74MmjSMK6z) | [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP) | [Polmont](https://open.spotify.com/album/4H2kxZ43dRQdOTuAL6mw5r) | 2:16 | 2022-05-13 | 2022-06-10 |
 | [Quality Craftsmanship](https://open.spotify.com/track/0BoV3iHQDjg8f1RI1jHR6B) | [Joshua Cipolla](https://open.spotify.com/artist/1dc27rgyTY82CaorqruMi1) | [Quality Craftsmanship](https://open.spotify.com/album/3AZbol8ntAqXNrUJOelRwX) | 2:16 | 2022-05-13 | 2023-03-31 |
@@ -336,9 +338,10 @@
 | [TENNESSEE WHISKY](https://open.spotify.com/track/5lBoLsqUSgMSqGUBNzRcxh) | [El Mar](https://open.spotify.com/artist/4fxnolyScxkPqZc7WVxNEq) | [Tennessee Whisky](https://open.spotify.com/album/5Yo1rUTQvWftDiCJnyshF8) | 6:01 | 2023-04-28 | 2023-06-23 |
 | [The birds of my mind](https://open.spotify.com/track/6vYYZDgA2Lgn49Yurwno61) | [Colibrí Acústico](https://open.spotify.com/artist/6aKYru6qh4nD6Ivcl3WjUB) | [The birds of my mind](https://open.spotify.com/album/6Y7Ko0xoPdV4ytadPvAHUq) | 2:01 | 2024-05-24 |  |
 | [The Chestnut Tree](https://open.spotify.com/track/7EoQmzT2wFOCanGluMeHpm) | [Amiyah Powell](https://open.spotify.com/artist/53TEChEItRKMjajyHzEQxl) | [The Chestnut Tree](https://open.spotify.com/album/387VLvqLtqd0l4UCdZi3gb) | 3:00 | 2024-07-19 |  |
+| [The Crecent Moon](https://open.spotify.com/track/6EsVWU7R5B2yTYP5neMm3V) | [Jonah Heather](https://open.spotify.com/artist/1wPjGpHJKKk8Nkd6fYLZMD) | [The Crecent Moon](https://open.spotify.com/album/4EMWf1lpi3CjvBad2CNuMh) | 2:34 | 2025-05-28 |  |
 | [The Dust Settles](https://open.spotify.com/track/0EVXNRFGjdC9xap72VhV7C) | [Andrei Smirnova](https://open.spotify.com/artist/6wLqG3xZFWS0M5pFimbbyr) | [The Dust Settles](https://open.spotify.com/album/06u42yAuNFUuzO2CLrJWCh) | 2:27 | 2023-04-28 |  |
 | [The Game Changer](https://open.spotify.com/track/35CHmzwJtxFaX2jrTwxvSS) | [Jonas Kahnberg](https://open.spotify.com/artist/1rCFmFMow5dvQNlgCEwTH0) | [The Game Changer](https://open.spotify.com/album/1aRdcDtkN2qlomNDagQ85C) | 2:26 | 2024-10-23 |  |
-| [The House on the Hill](https://open.spotify.com/track/4xJU5iTln7c6i4GkX33yRm) | [Jesse Rostad](https://open.spotify.com/artist/1A4uhZo28pk8VoTEHrMQlg) | [The House on the Hill](https://open.spotify.com/album/6fM8Bwsk1I19TujeBYRFWI) | 2:31 | 2025-04-29 |  |
+| [The House on the Hill](https://open.spotify.com/track/4xJU5iTln7c6i4GkX33yRm) | [Jesse Rostad](https://open.spotify.com/artist/1A4uhZo28pk8VoTEHrMQlg) | [The House on the Hill](https://open.spotify.com/album/6fM8Bwsk1I19TujeBYRFWI) | 2:31 | 2025-04-29 | 2025-05-29 |
 | [The Lightkeeper](https://open.spotify.com/track/38XWOlV96eIYhww3A1f7I8) | [J\. Kahnberg](https://open.spotify.com/artist/2aLfgyCUwAWVDqwmtjyJxs) | [The Lightkeeper](https://open.spotify.com/album/3DZemnOhS2gzVyogZmGD15) | 2:17 | 2025-05-13 |  |
 | [The little road to Elling Bay](https://open.spotify.com/track/035spYGRlBWEeGC7Iqj406) | [Lavelle Barber](https://open.spotify.com/artist/09NZ6wf6hcbml8X1aPwyEX) | [The little road to Elling Bay](https://open.spotify.com/album/4PN2TaBXEt9l3RQBERhF96) | 2:20 | 2022-10-28 |  |
 | [The Other Side Of The Sun](https://open.spotify.com/track/1tQC5wVWIxwsSTY5lPXIeI) | [Josephine Forrester](https://open.spotify.com/artist/3hGRgVdSwQQVheMJ6pizcz) | [The Other Side Of The Sun](https://open.spotify.com/album/7DnYdqzWAnfnJEmqFlyBbi) | 2:35 | 2022-05-13 | 2024-05-25 |
@@ -364,7 +367,7 @@
 | [Transient Clouds](https://open.spotify.com/track/0mDXzY5kBcJEc5Ko75BVJX) | [Nesima](https://open.spotify.com/artist/530XbBVaksvDN09nLsbwER) | [Spring in My Head](https://open.spotify.com/album/1C9NbVsvBeLOD46KO0H3sz) | 2:56 | 2022-05-13 | 2023-02-25 |
 | [True At Heart](https://open.spotify.com/track/73h3TJ84CCvwCfvvLpcVdq) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [True At Heart](https://open.spotify.com/album/0F6Y7O5CCZ8Ivlqb1A7uCV) | 2:13 | 2024-08-20 |  |
 | [Twins](https://open.spotify.com/track/0SeCA3vPHuXGP6sizB05ZA) | [Matt Kivel](https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w) | [Days of Being Wild](https://open.spotify.com/album/4OUF3bDg60cOEqlHLsLDA0) | 0:50 | 2022-05-13 | 2022-06-10 |
-| [Unanchored](https://open.spotify.com/track/163bwlnpGFSj3TCCFk2rT1) | [Julian Rivers](https://open.spotify.com/artist/6Kz9TTn0UKMFKI4gC9g3Hb) | [Unanchored](https://open.spotify.com/album/5kR8Q9cvTarslNQpAw8ayJ) | 2:35 | 2025-04-02 |  |
+| [Unanchored](https://open.spotify.com/track/163bwlnpGFSj3TCCFk2rT1) | [Julian Rivers](https://open.spotify.com/artist/6Kz9TTn0UKMFKI4gC9g3Hb) | [Unanchored](https://open.spotify.com/album/5kR8Q9cvTarslNQpAw8ayJ) | 2:35 | 2025-04-02 | 2025-05-29 |
 | [Under Taken](https://open.spotify.com/track/1dFl3je4swK3FmYJF12RmK) | [Sisters Of Marks](https://open.spotify.com/artist/58Hsg5UY4DmFIaVODTfVls) | [Sisters Of Marks](https://open.spotify.com/album/5OicysjUS20tN8e6k6dAym) | 2:56 | 2022-05-13 | 2022-06-10 |
 | [Unforced](https://open.spotify.com/track/56hk6GkYuk8AmUOdjPEYDb) | [Toledo Heights](https://open.spotify.com/artist/1nxXdVa0LIKGjk0eLLRM6q) | [Unforced](https://open.spotify.com/album/1ID1Z4DCgMELtWTnLyscGQ) | 2:21 | 2022-05-13 | 2022-06-10 |
 | [Until Eternity](https://open.spotify.com/track/0Ln2XQp3zJpRsAqDvTJhgA) | [Serilda Bell](https://open.spotify.com/artist/47Ak9ecFbwZj3g4uCLGS6G) | [Until Eternity](https://open.spotify.com/album/1N1czqs5ixWciPe4b6f8VO) | 2:01 | 2023-01-06 |  |

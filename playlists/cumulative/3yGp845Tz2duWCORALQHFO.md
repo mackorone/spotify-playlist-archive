@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-2,954 songs - 6 day 16 hr 24 min
+2,956 songs - 6 day 16 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1115,6 +1115,7 @@
 | [HIGHS & LOWS](https://open.spotify.com/track/3nGn1uKrIl1vi8DYTZ07Qx) | [Anna Grey](https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q) | [HIGHS & LOWS](https://open.spotify.com/album/0etPnBzlb3slRaTPz2aWal) | 2:50 | 2024-08-16 | 2024-08-24 |
 | [Highway](https://open.spotify.com/track/5LKrBZzwk5Ortvh5vR2gd5) | [Mason Young](https://open.spotify.com/artist/1gxp11l23wPX8Ek43fVD6F) | [Highway](https://open.spotify.com/album/4Ls2jbLJoYFAdvS3X0UHjs) | 2:31 | 2025-01-31 | 2025-02-07 |
 | [Himalaya](https://open.spotify.com/track/6jUdm6vlTbiqEuzCcCkEoq) | [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88) | [Himalaya](https://open.spotify.com/album/7zzq5fe5RxidA8L36MuaCy) | 3:03 | 2024-12-13 | 2024-12-20 |
+| [Hit My Heart \- TR3NACRIA Remix](https://open.spotify.com/track/3vA9oqlBuVvrzdy2PoSmpR) | [Benassi Bros.](https://open.spotify.com/artist/0yrjYlutW9HgmJlnX479Mx), [Dhany](https://open.spotify.com/artist/7HiP69UJp8p2pKxnRaPqYF), [TR3NACRIA](https://open.spotify.com/artist/1gFiEIH4TiLrNeoq7rktTH) | [Hit My Heart \(TR3NACRIA Remix\)](https://open.spotify.com/album/3LrdwAZoEyzBDxEnbGyj8w) | 3:54 | 2025-05-28 |  |
 | [Hit The Club](https://open.spotify.com/track/3Q8T16OWAoiOCslY14Pfuc) | [Charmes](https://open.spotify.com/artist/3Lat1XFXy1jjal8bckU6ZQ) | [Hit The Club](https://open.spotify.com/album/6QhHWrXATy4mquhlGkA2a7) | 2:54 | 2024-07-05 | 2024-07-12 |
 | [Hold Me](https://open.spotify.com/track/2zVvXkIvGus2Q1jjNGR0T2) | [Hannah Wants](https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI), [ARA](https://open.spotify.com/artist/2hhItOB9DuMhxXkU26wgZK) | [Hold Me](https://open.spotify.com/album/3G2phCWDzdCXGUrUzgzIEB) | 4:18 | 2025-02-06 | 2025-02-14 |
 | [Hold My Breath](https://open.spotify.com/track/7qFs5kbBUST8CI4aFpmv3k) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [BOYS LIKE GIRLS](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI) | [Hold My Breath](https://open.spotify.com/album/3FSVUQtDNKRnFqNhHKBCp5) | 3:06 | 2024-06-16 | 2024-06-21 |
@@ -2485,6 +2486,7 @@
 | [System Shock](https://open.spotify.com/track/48xIuXP8AN7dnan1Afsoqv) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t), [IRAH](https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU) | [System Shock](https://open.spotify.com/album/7ADLWJaRuxts3AfNcJPXQq) | 2:16 | 2025-02-28 | 2025-03-08 |
 | [São Paulo](https://open.spotify.com/track/1LZ8F84Vj6EAnerY7RiMUO) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [São Paulo EP](https://open.spotify.com/album/690QdmHPXtjGxLuQ4MzJt4) | 3:00 | 2025-01-17 | 2025-01-24 |
 | [Take Care \(feat\. Stevie Appleton\)](https://open.spotify.com/track/2aquitej8IO7a0hfKBjzdK) | [Helion](https://open.spotify.com/artist/05GSra7vTwr8o54Brzp2nA), [CLMD](https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr), [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Take Care \(feat\. Stevie Appleton\)](https://open.spotify.com/album/2ll505QGpNKTeIGYmnJsAh) | 2:47 | 2024-09-05 | 2024-09-13 |
+| [Take Control](https://open.spotify.com/track/1m7ewTczQGvTONCH8tSkJW) | [13LACKBEARD](https://open.spotify.com/artist/4fABfX7O7T4QkLxsKqdMrx) | [Take Control](https://open.spotify.com/album/7fa2bgPcYh36CkXnxfN0Ln) | 4:15 | 2025-05-28 |  |
 | [Take It Easy on Me](https://open.spotify.com/track/62aj6pzjrfimmXIMWHMYiU) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Michael Ekow](https://open.spotify.com/artist/2WImvuJ2dUdnyZDT69SROJ) | [Take It Easy on Me](https://open.spotify.com/album/61t1NrQrjIvnOozh9h212U) | 2:39 | 2025-01-31 | 2025-02-07 |
 | [Take It Slow](https://open.spotify.com/track/617SoNO2LNsU6lTSN3t3t8) | [Alias Club](https://open.spotify.com/artist/7iBfLTLOnJIArlk3IODV95) | [Take It Slow](https://open.spotify.com/album/5lk4rie1rNS4GMw0s0Mjga) | 3:10 | 2024-07-19 | 2024-08-02 |
 | [Take It Slow](https://open.spotify.com/track/5vMbHj07VNXIX3MBNj6wBl) | [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK) | [Take It Slow](https://open.spotify.com/album/6UD6KZNIKzI6Z21h9l2j9H) | 2:53 | 2025-04-18 | 2025-04-25 |

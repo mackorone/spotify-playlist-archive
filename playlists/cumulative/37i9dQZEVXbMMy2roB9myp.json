@@ -5686,7 +5686,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-24",
+      "date_removed": null,
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ"
@@ -13930,7 +13930,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-29",
       "duration_ms": 153815,
       "name": "NO ME IMPORTA",
       "url": "https://open.spotify.com/track/2XnuUZHc7qyeHgGM1Uvl6v"
@@ -14676,7 +14676,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-29",
       "duration_ms": 157500,
       "name": "Olvidarte (feat. Emilia)",
       "url": "https://open.spotify.com/track/7yif9yIhSCxhcPExFOktCp"
@@ -16596,6 +16596,28 @@
       "duration_ms": 162397,
       "name": "PRINCESITA DE ...",
       "url": "https://open.spotify.com/track/7pNzulQGBP6v2g4A2KnAJ6"
+    },
+    {
+      "album": {
+        "name": "Priti",
+        "url": "https://open.spotify.com/album/6PJtmcd3jv2afBCZ3GSdsB"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "date_added": "2025-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130968,
+      "name": "Priti",
+      "url": "https://open.spotify.com/track/5FLzweTtgQurkLPs0E7uEO"
     },
     {
       "album": {

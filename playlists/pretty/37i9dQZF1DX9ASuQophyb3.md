@@ -4,23 +4,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 
 > Türkçe pop'un hit şarkıları ve zirveye oynayanlar\.  Kapak: Tarkan
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,506,958 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,507,131 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Dönmüyor Giden](https://open.spotify.com/track/3UXzQ5XshA4IENsaPuo0iW) | [Tarkan](https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k) | [Dönmüyor Giden](https://open.spotify.com/album/1jEswdNJeoTuzcTX1sNCLq) | 3:25 |
 | 2 | [Kör Sevdam](https://open.spotify.com/track/2RlpOjMTH17Gf0F0AM40Lw) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Kör Sevdam](https://open.spotify.com/album/5LnSokIxzuo1rVOdq6plPa) | 3:11 |
-| 3 | [Bi Gece Gidebilirim](https://open.spotify.com/track/7L52bWVSbEPSwyHF4IeVk8) | [Mert Demir](https://open.spotify.com/artist/1Zj4GtouAnxHq4qw7ooLfm) | [Bi Gece Gidebilirim](https://open.spotify.com/album/54x3BPwQEcauxQXFRF53Qd) | 3:06 |
-| 4 | [Geçsin Yıllar](https://open.spotify.com/track/5CiycCVVt7vLJyMw1MVfzS) | [Oğuzhan Koç](https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i), [Merve Özbey](https://open.spotify.com/artist/74IYRdqa9EFKMMXUIjGyxM) | [Geçsin Yıllar](https://open.spotify.com/album/5vc7GUQqWQ2zZS3CffxRmx) | 3:27 |
+| 3 | [Geçsin Yıllar](https://open.spotify.com/track/5CiycCVVt7vLJyMw1MVfzS) | [Oğuzhan Koç](https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i), [Merve Özbey](https://open.spotify.com/artist/74IYRdqa9EFKMMXUIjGyxM) | [Geçsin Yıllar](https://open.spotify.com/album/5vc7GUQqWQ2zZS3CffxRmx) | 3:27 |
+| 4 | [Bi Gece Gidebilirim](https://open.spotify.com/track/7L52bWVSbEPSwyHF4IeVk8) | [Mert Demir](https://open.spotify.com/artist/1Zj4GtouAnxHq4qw7ooLfm) | [Bi Gece Gidebilirim](https://open.spotify.com/album/54x3BPwQEcauxQXFRF53Qd) | 3:06 |
 | 5 | [Serserinim](https://open.spotify.com/track/7EvDurG8Qcx1549Tc7Gzpm) | [Amo988](https://open.spotify.com/artist/05c2IUQGegTcqtWeWwuJ06) | [Serserinim](https://open.spotify.com/album/1aMjQcqxbXFOUj7N00ti5S) | 1:44 |
 | 6 | [Yasemin](https://open.spotify.com/track/1hdJwEj1tD0O5NiWM9U5VW) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz), [Serdar Ortaç](https://open.spotify.com/artist/7BJjzi0JHyDHAsmVe21dGa) | [Yasemin](https://open.spotify.com/album/2Qo7f5utir38YNXkNfFtNZ) | 3:06 |
 | 7 | [Bulamazsın](https://open.spotify.com/track/3MBxOQ98vv9szf1s3DOY0n) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Bulamazsın](https://open.spotify.com/album/4SgjgMKovidKmdAYsxSUEm) | 2:35 |
 | 8 | [YANILIR GİBİ](https://open.spotify.com/track/20hHiVlL96ctdsrP2Nsydj) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf), [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [TEK KİŞİLİK MASA](https://open.spotify.com/album/1PNjEh6e0T28jszrn3Mwva) | 4:27 |
 | 9 | [Max](https://open.spotify.com/track/7lRMajzI2xa34EQg2SKecS) | [Hande Yener](https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R) | [Max](https://open.spotify.com/album/30xEU4sNXkYHvtSIiM8uUV) | 3:49 |
 | 10 | [Affet](https://open.spotify.com/track/6KNiGukcNEDfgWqUIiy8zF) | [Ebru Yaşar](https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN), [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Affet](https://open.spotify.com/album/3B048WriXP7L7jZVAbhxfH) | 2:04 |
-| 11 | [Demedim mi](https://open.spotify.com/track/77lHp4bCY5aBhOsTOQhcTx) | [Irmak Arıcı](https://open.spotify.com/artist/3WKZeiNOV5dnANlQnjL95B), [Ozan Doğulu](https://open.spotify.com/artist/6xLv41SHPrVVfvyGd1M7ut) | [Demedim mi](https://open.spotify.com/album/7J29irCiUo907kH5wt210O) | 2:17 |
-| 12 | [Yansın](https://open.spotify.com/track/1JhhX1TICmdKIwaLNuj09y) | [Ece Seçkin](https://open.spotify.com/artist/1lfD2lvoDctsMr6grjYOb5) | [Spektrum](https://open.spotify.com/album/0PbUBrhDL85j33u5HEqU03) | 2:32 |
-| 13 | [Ayaza Serdim](https://open.spotify.com/track/7wZRlmI91BOt7JF7rMOrej) | [Kubilay Karça](https://open.spotify.com/artist/2pbct1ni3yLLAfzrSXQDrH) | [Ayaza Serdim](https://open.spotify.com/album/3xDzaEo83O8jaKlvYzUboF) | 3:38 |
+| 11 | [Ayaza Serdim](https://open.spotify.com/track/7wZRlmI91BOt7JF7rMOrej) | [Kubilay Karça](https://open.spotify.com/artist/2pbct1ni3yLLAfzrSXQDrH) | [Ayaza Serdim](https://open.spotify.com/album/3xDzaEo83O8jaKlvYzUboF) | 3:38 |
+| 12 | [Demedim mi](https://open.spotify.com/track/77lHp4bCY5aBhOsTOQhcTx) | [Irmak Arıcı](https://open.spotify.com/artist/3WKZeiNOV5dnANlQnjL95B), [Ozan Doğulu](https://open.spotify.com/artist/6xLv41SHPrVVfvyGd1M7ut) | [Demedim mi](https://open.spotify.com/album/7J29irCiUo907kH5wt210O) | 2:17 |
+| 13 | [Yansın](https://open.spotify.com/track/1JhhX1TICmdKIwaLNuj09y) | [Ece Seçkin](https://open.spotify.com/artist/1lfD2lvoDctsMr6grjYOb5) | [Spektrum](https://open.spotify.com/album/0PbUBrhDL85j33u5HEqU03) | 2:32 |
 | 14 | [Bu Yaz](https://open.spotify.com/track/5R4IMqppkpo0rBBHja7j7J) | [Bahadır Tatlıöz](https://open.spotify.com/artist/2cJHtXWQuFgxQ0GkpE7dNR) | [Bu Yaz](https://open.spotify.com/album/7fegHq2yToExda8Z6Ds37N) | 3:02 |
 | 15 | [Kızılca Şerbet](https://open.spotify.com/track/0aIrUkvAvcy36CtV5pXEme) | [Seda Sayan](https://open.spotify.com/artist/5hKNaXEXIxQ3dmZR7FoRr8), [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D) | [Kızılca Şerbet](https://open.spotify.com/album/746RjfRw4bAjdrGLcOQdys) | 3:00 |
 | 16 | [Lovelandım](https://open.spotify.com/track/6g8g1XosNa18N4CqhfQcbw) | [Hande Ünsal](https://open.spotify.com/artist/6YapGsI8u59kfewJjjJ2LJ) | [Halim](https://open.spotify.com/album/6tx8KRugMjbWQc7AlcKMXU) | 2:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 | 49 | [Seni Bana Vermediler](https://open.spotify.com/track/1RfKc1ILYZtgkD41gCpZRc) | [Mavi Gri](https://open.spotify.com/artist/4otJVkrLLqDF8OxFJOigme) | [Seni Bana Vermediler](https://open.spotify.com/album/7nkt6nd03wiPPZOjS1VKnj) | 2:55 |
 | 50 | [Bekleyenim](https://open.spotify.com/track/31eQP55jRbczzhi1YCNynR) | [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Bekleyenim](https://open.spotify.com/album/6Wg2f6kG5Nbqv6GKWbDC7x) | 2:41 |
 
-Snapshot ID: `AAAAAKz/jpf/JwWg0k3ymcK5tLWvHaLn`
+Snapshot ID: `AAAAAN7ppSgdBAhAUKNjpCLPL5AKL4xM`

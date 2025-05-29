@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IX6biNn3iB.md) - [plain]
 | 46 | [WASTED WEEKEND](https://open.spotify.com/track/22Pl1r4YyCoVe2BxgDDuUZ) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [NEVERENDING ROADTRIP](https://open.spotify.com/album/6p3eBZviVFViSdA9smwHZc) | 2:33 |
 | 47 | [Que Sabía Yo](https://open.spotify.com/track/7cCNt7UqSaujQ1FgcJSBgU) | [La Cassandra](https://open.spotify.com/artist/3hmwKzlTlScoWN4LoPhPKw) | [Que Sabía Yo](https://open.spotify.com/album/5ACUZ50VXiQ5hvDpMtNMMn) | 2:49 |
 | 48 | [mis viejos](https://open.spotify.com/track/7zq0Kshd6Ln4x270UwciqF) | [deadsoulsociety](https://open.spotify.com/artist/5jK1BdSQerlxAhyHMKpXe6) | [mis viejos](https://open.spotify.com/album/4BOUFqo6ips2i5d5UDnPx5) | 4:00 |
-| 49 | [broken heart](https://open.spotify.com/track/5akkEq8y9Zp7vXj9AJg9WJ) | [Danny Bonilla](https://open.spotify.com/artist/2hZfnLqWqwLbv5lYs7mHmy) | [broken heart](https://open.spotify.com/album/4GoqEbLTe9Sk56kS5uRH3V) | 2:42 |
-| 50 | [Paloma](https://open.spotify.com/track/74rvVpcia4jfUDBafy0WEt) | [Angélica Garcia](https://open.spotify.com/artist/2rjGbM0H8EUQzTVx6BgUlG) | [Gemelo](https://open.spotify.com/album/16hyi0FtwSiv2Kojazr71m) | 3:31 |
+| 49 | [Luces](https://open.spotify.com/track/7sNJboWlN4I88AFP8b68Zb) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Observation I: Metamorphosis](https://open.spotify.com/album/5OsXENqSCulBZguBp1AyGr) | 3:22 |
+| 50 | [broken heart](https://open.spotify.com/track/5akkEq8y9Zp7vXj9AJg9WJ) | [Danny Bonilla](https://open.spotify.com/artist/2hZfnLqWqwLbv5lYs7mHmy) | [broken heart](https://open.spotify.com/album/4GoqEbLTe9Sk56kS5uRH3V) | 2:42 |
 
 Snapshot ID: `Z8X3cAAAAABTUJJ8kL9wo/+AAHh41R2e`

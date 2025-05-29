@@ -4,7 +4,7 @@
 
 > アニメシーンで話題のロックサウンドを1つのプレイリストに。Best & new rock anthems for anime fans\. Cover: Ave Mujica
 
-197 songs - 12 hr 20 min
+198 songs - 12 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [クスシキ](https://open.spotify.com/track/3huSUfmhUr4entz2S0G31O) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [クスシキ](https://open.spotify.com/album/1VoARePwuGf1zb7iYKuOqd) | 3:08 | 2025-04-08 |  |
 | [クロノスタシス](https://open.spotify.com/track/6Pd73yNBtoVpTRM6xLwOGp) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [クロノスタシス](https://open.spotify.com/album/4upctURy2F1F2rVfltc2P6) | 5:39 | 2024-04-16 | 2024-09-07 |
 | [ゴーストダイブ](https://open.spotify.com/track/3YSYq98AiBIXAj8GCW3wbd) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [ゴーストダイブ](https://open.spotify.com/album/22Y4CMkBXjaGCVfzNrtdEw) | 3:18 | 2023-09-19 | 2023-12-30 |
-| [サムライハート\(Some Like It Hot!!\)](https://open.spotify.com/track/5G0NPSOTLepHxUhEMlVjWj) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Rockin' the World](https://open.spotify.com/album/0qjPsfOiRvNZiek2McT7AE) | 3:11 | 2023-08-03 |  |
+| [サムライハート\(Some Like It Hot!!\)](https://open.spotify.com/track/5G0NPSOTLepHxUhEMlVjWj) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Rockin' the World](https://open.spotify.com/album/0qjPsfOiRvNZiek2McT7AE) | 3:11 | 2023-08-03 | 2025-05-29 |
 | [シルエット](https://open.spotify.com/track/0XMSzGi3pf0CcfYaw7nyGt) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [シルエット](https://open.spotify.com/album/2FLdb5m1IRCPjKyD3LSRn0) | 4:03 | 2023-08-03 | 2023-08-16 |
 | [シルエット](https://open.spotify.com/track/1di1C0QI6Y92yZPYn6XYAZ) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [TIME](https://open.spotify.com/album/45z2ntx53Y0d42S9IpN6OH) | 4:00 | 2023-08-03 | 2024-04-19 |
 | [シルエット](https://open.spotify.com/track/3vWRsBKvOpj8iITRh8ERlZ) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [TIME](https://open.spotify.com/album/3MFXQmlK8U6Zwe3GjNSoxN) | 4:00 | 2024-04-16 |  |
@@ -138,6 +138,7 @@
 | [ドライブ・マイ・イデア](https://open.spotify.com/track/4kprPDP5JqxcBLqKXjhMTJ) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [ドライブ・マイ・イデア](https://open.spotify.com/album/1hyXLEpA9pZfWenpqUUE5Q) | 3:37 | 2024-04-16 | 2024-07-10 |
 | [ハルシネイト](https://open.spotify.com/track/5CKCkKyjtxI3wpDyEMLxbA) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [ハルシネイト](https://open.spotify.com/album/29VQzxOjTwNEeIBlQVumMs) | 3:25 | 2024-05-21 | 2024-07-10 |
 | [バイラルハック](https://open.spotify.com/track/5p7KkbTZX8AkF3dX1Qy1El) | [Crab 蟹 Club](https://open.spotify.com/artist/2Po8LYeurfstvqMOLCTTs6) | [バイラルハック](https://open.spotify.com/album/7JRTYH3mxTQQGm2hCPvPZW) | 3:54 | 2024-04-16 | 2025-01-15 |
+| [バリバリ最強No.1](https://open.spotify.com/track/13AxywtjydRCxwtfY0pmua) | [FEEL SO BAD](https://open.spotify.com/artist/7cNhLqaTq5hsTHLlbGnbhW) | [FEEL SO BEST](https://open.spotify.com/album/0sTnywAkkmX1HT4ZfOOcsk) | 5:15 | 2025-05-22 |  |
 | [パレイド](https://open.spotify.com/track/7uXzW6dPhkd4NbRv8sLNS6) | [syh](https://open.spotify.com/artist/3bKQgwripMGjcjH3hTjRkW) | [パレイド](https://open.spotify.com/album/5lPGcuP6rKcmkGbI2eOAbD) | 2:41 | 2024-01-26 | 2024-04-17 |
 | [ヒカリトカゼ](https://open.spotify.com/track/2QvWBGuGgoDZCNKGbjSpmt) | [BACK\-ON](https://open.spotify.com/artist/41wiRMqVmNSZ3FFM7JIeht) | [ヒカリトカゼ](https://open.spotify.com/album/48XQcdFXosUmSHGCECFIYI) | 3:34 | 2023-10-03 | 2023-10-19 |
 | [ピースサイン](https://open.spotify.com/track/6QpWIlT6WqmwSYpR9Tjb13) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [Peace Sign \- EP](https://open.spotify.com/album/42FMdvus2YAtEp6hGHgiD6) | 3:57 | 2024-04-16 |  |

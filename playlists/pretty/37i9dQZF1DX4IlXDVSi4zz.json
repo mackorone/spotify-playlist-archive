@@ -1,6 +1,6 @@
 {
   "description": "Dance the night away and just blame it on Tulum!",
-  "num_followers": 905079,
+  "num_followers": 905542,
   "original_name": "Tulum Party",
   "owner": {
     "name": "Spotify",
@@ -487,22 +487,6 @@
     {
       "added_at": "2025-05-23 04:00:26",
       "album": {
-        "name": "Ride It",
-        "url": "https://open.spotify.com/album/4zOhjJfe0dwqsNdDYk622E"
-      },
-      "artists": [
-        {
-          "name": "Regard",
-          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
-        }
-      ],
-      "duration_ms": 157605,
-      "name": "Ride It",
-      "url": "https://open.spotify.com/track/2tnVG71enUj33Ic2nFN6kZ"
-    },
-    {
-      "added_at": "2025-05-23 04:00:26",
-      "album": {
         "name": "Think Of Me",
         "url": "https://open.spotify.com/album/6CjFvd1Oj0cljGm226jCvH"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 170041,
       "name": "Think Of Me",
       "url": "https://open.spotify.com/track/3RvkuiK2x5BlSQWYqTYjIS"
+    },
+    {
+      "added_at": "2025-05-23 04:00:26",
+      "album": {
+        "name": "Ride It",
+        "url": "https://open.spotify.com/album/4zOhjJfe0dwqsNdDYk622E"
+      },
+      "artists": [
+        {
+          "name": "Regard",
+          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
+        }
+      ],
+      "duration_ms": 157605,
+      "name": "Ride It",
+      "url": "https://open.spotify.com/track/2tnVG71enUj33Ic2nFN6kZ"
     },
     {
       "added_at": "2025-05-23 04:00:26",
@@ -615,30 +615,6 @@
     {
       "added_at": "2025-05-23 04:00:26",
       "album": {
-        "name": "Dancin (feat. Luvli) [Krono Remix]",
-        "url": "https://open.spotify.com/album/2J2f6vGACFrRghO1Ki74BE"
-      },
-      "artists": [
-        {
-          "name": "Aaron Smith",
-          "url": "https://open.spotify.com/artist/77qukKzmdI5BeMBR7WGUrN"
-        },
-        {
-          "name": "Krono",
-          "url": "https://open.spotify.com/artist/17TFSnqADESRM8BPSaM5aB"
-        },
-        {
-          "name": "Luvli",
-          "url": "https://open.spotify.com/artist/6dqohi36avY0M9urnyhITr"
-        }
-      ],
-      "duration_ms": 198053,
-      "name": "Dancin (feat. Luvli) - Krono Remix",
-      "url": "https://open.spotify.com/track/6WkJ2OK163XXS2oARUC9JM"
-    },
-    {
-      "added_at": "2025-05-23 04:00:26",
-      "album": {
         "name": "Forever (feat. Malou & Yuna)",
         "url": "https://open.spotify.com/album/4nXpTQXjFGtB5n3vC76IBR"
       },
@@ -663,6 +639,30 @@
       "duration_ms": 140500,
       "name": "Forever (feat. Malou & Yuna)",
       "url": "https://open.spotify.com/track/0WS1qLcXKsCGt5e3dqq30S"
+    },
+    {
+      "added_at": "2025-05-23 04:00:26",
+      "album": {
+        "name": "Dancin (feat. Luvli) [Krono Remix]",
+        "url": "https://open.spotify.com/album/2J2f6vGACFrRghO1Ki74BE"
+      },
+      "artists": [
+        {
+          "name": "Aaron Smith",
+          "url": "https://open.spotify.com/artist/77qukKzmdI5BeMBR7WGUrN"
+        },
+        {
+          "name": "Krono",
+          "url": "https://open.spotify.com/artist/17TFSnqADESRM8BPSaM5aB"
+        },
+        {
+          "name": "Luvli",
+          "url": "https://open.spotify.com/artist/6dqohi36avY0M9urnyhITr"
+        }
+      ],
+      "duration_ms": 198053,
+      "name": "Dancin (feat. Luvli) - Krono Remix",
+      "url": "https://open.spotify.com/track/6WkJ2OK163XXS2oARUC9JM"
     },
     {
       "added_at": "2025-05-23 04:00:26",
@@ -723,6 +723,22 @@
     {
       "added_at": "2025-05-23 04:00:26",
       "album": {
+        "name": "Patadas de Ahogado / LAT\u00cdN MAFIA, HUMBE (Rework)",
+        "url": "https://open.spotify.com/album/4XNpw8KZFcml3E0wz4ZyYx"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        }
+      ],
+      "duration_ms": 186341,
+      "name": "Patadas de Ahogado / LAT\u00cdN MAFIA, HUMBE - Rework",
+      "url": "https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg"
+    },
+    {
+      "added_at": "2025-05-23 04:00:26",
+      "album": {
         "name": "Your Love (9PM)",
         "url": "https://open.spotify.com/album/7F9yYqHRtIZnEGF2tANI4b"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 150052,
       "name": "Your Love (9PM)",
       "url": "https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx"
-    },
-    {
-      "added_at": "2025-05-23 04:00:26",
-      "album": {
-        "name": "Patadas de Ahogado / LAT\u00cdN MAFIA, HUMBE (Rework)",
-        "url": "https://open.spotify.com/album/4XNpw8KZFcml3E0wz4ZyYx"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        }
-      ],
-      "duration_ms": 186341,
-      "name": "Patadas de Ahogado / LAT\u00cdN MAFIA, HUMBE - Rework",
-      "url": "https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg"
     },
     {
       "added_at": "2025-05-23 04:00:26",
@@ -899,26 +899,6 @@
     {
       "added_at": "2025-05-23 04:00:26",
       "album": {
-        "name": "The Motto",
-        "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 164818,
-      "name": "The Motto",
-      "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
-    },
-    {
-      "added_at": "2025-05-23 04:00:26",
-      "album": {
         "name": "una noche con hugel",
         "url": "https://open.spotify.com/album/2TWRbmPRKGGp3iiREkKyjT"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 191475,
       "name": "una noche con hugel",
       "url": "https://open.spotify.com/track/2iamvJ8dFSfapKYEtEYFun"
+    },
+    {
+      "added_at": "2025-05-23 04:00:26",
+      "album": {
+        "name": "The Motto",
+        "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 164818,
+      "name": "The Motto",
+      "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
     },
     {
       "added_at": "2025-05-23 04:00:26",
@@ -983,26 +983,6 @@
     {
       "added_at": "2025-05-23 04:00:26",
       "album": {
-        "name": "Ease My Mind",
-        "url": "https://open.spotify.com/album/5tNyT64HOXFDppBvxj1S6h"
-      },
-      "artists": [
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        },
-        {
-          "name": "Abel Balder",
-          "url": "https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG"
-        }
-      ],
-      "duration_ms": 191704,
-      "name": "Ease My Mind",
-      "url": "https://open.spotify.com/track/04gs2fDnnjT6995ruR1qbk"
-    },
-    {
-      "added_at": "2025-05-23 04:00:26",
-      "album": {
         "name": "Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy)",
         "url": "https://open.spotify.com/album/0xbuJLlb5afBcmCpdOaszR"
       },
@@ -1023,6 +1003,26 @@
       "duration_ms": 163804,
       "name": "Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy)",
       "url": "https://open.spotify.com/track/7Feaw9WAEREY0DUOSXJLOM"
+    },
+    {
+      "added_at": "2025-05-23 04:00:26",
+      "album": {
+        "name": "Ease My Mind",
+        "url": "https://open.spotify.com/album/5tNyT64HOXFDppBvxj1S6h"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Abel Balder",
+          "url": "https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG"
+        }
+      ],
+      "duration_ms": 191704,
+      "name": "Ease My Mind",
+      "url": "https://open.spotify.com/track/04gs2fDnnjT6995ruR1qbk"
     },
     {
       "added_at": "2025-05-23 04:00:26",
@@ -1519,6 +1519,30 @@
     {
       "added_at": "2025-05-23 04:00:26",
       "album": {
+        "name": "Jackie B",
+        "url": "https://open.spotify.com/album/6bl2DvR8JpxauHqG7PjOmg"
+      },
+      "artists": [
+        {
+          "name": "&friends",
+          "url": "https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0"
+        },
+        {
+          "name": "JOSEPH (CH)",
+          "url": "https://open.spotify.com/artist/2ulSvfleM8jFR2YwauHjN0"
+        },
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Jackie B",
+      "url": "https://open.spotify.com/track/6AriBfTagIjKVUov3WEwOa"
+    },
+    {
+      "added_at": "2025-05-23 04:00:26",
+      "album": {
         "name": "Mad World",
         "url": "https://open.spotify.com/album/35LVfE1wsiXr4tdKnYliJ8"
       },
@@ -1539,22 +1563,6 @@
     {
       "added_at": "2025-05-23 04:00:26",
       "album": {
-        "name": "Never Going Home",
-        "url": "https://open.spotify.com/album/3M2ev0LMKExe0Y9HaNrkfA"
-      },
-      "artists": [
-        {
-          "name": "Kungs",
-          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
-        }
-      ],
-      "duration_ms": 169944,
-      "name": "Never Going Home",
-      "url": "https://open.spotify.com/track/0xfMlIW8lS40qvpsUw1l0X"
-    },
-    {
-      "added_at": "2025-05-23 04:00:26",
-      "album": {
         "name": "DLUX",
         "url": "https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ"
       },
@@ -1567,6 +1575,22 @@
       "duration_ms": 140735,
       "name": "HOUSE OF LUX",
       "url": "https://open.spotify.com/track/3CU1qWV0h0PvWXQg71YUoo"
+    },
+    {
+      "added_at": "2025-05-23 04:00:26",
+      "album": {
+        "name": "Never Going Home",
+        "url": "https://open.spotify.com/album/3M2ev0LMKExe0Y9HaNrkfA"
+      },
+      "artists": [
+        {
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+        }
+      ],
+      "duration_ms": 169944,
+      "name": "Never Going Home",
+      "url": "https://open.spotify.com/track/0xfMlIW8lS40qvpsUw1l0X"
     },
     {
       "added_at": "2025-05-23 04:00:26",
@@ -1591,30 +1615,6 @@
       "duration_ms": 182498,
       "name": "The One (feat. Jocelyn Brown)",
       "url": "https://open.spotify.com/track/4fErrQvOX1LPDIPFDFI4eM"
-    },
-    {
-      "added_at": "2025-05-23 04:00:26",
-      "album": {
-        "name": "Jackie B",
-        "url": "https://open.spotify.com/album/6bl2DvR8JpxauHqG7PjOmg"
-      },
-      "artists": [
-        {
-          "name": "&friends",
-          "url": "https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0"
-        },
-        {
-          "name": "JOSEPH (CH)",
-          "url": "https://open.spotify.com/artist/2ulSvfleM8jFR2YwauHjN0"
-        },
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Jackie B",
-      "url": "https://open.spotify.com/track/6AriBfTagIjKVUov3WEwOa"
     },
     {
       "added_at": "2025-05-23 04:00:26",
@@ -2023,6 +2023,30 @@
     {
       "added_at": "2025-05-23 04:00:26",
       "album": {
+        "name": "Globo (feat. Blessd & Kofla)",
+        "url": "https://open.spotify.com/album/1kUmugvmPWIY6ZEODVrMSx"
+      },
+      "artists": [
+        {
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Kofla",
+          "url": "https://open.spotify.com/artist/3uvuXrgd8H5Gwnubvtm0sk"
+        }
+      ],
+      "duration_ms": 193846,
+      "name": "Globo (feat. Blessd & Kofla)",
+      "url": "https://open.spotify.com/track/3QyQNNpJg7spXyMzobBoX3"
+    },
+    {
+      "added_at": "2025-05-23 04:00:26",
+      "album": {
         "name": "Tshwala Bam (feat. S.N.E, EeQue)",
         "url": "https://open.spotify.com/album/4lZSgj4cw3cmEvw0KQXNnY"
       },
@@ -2047,30 +2071,6 @@
       "duration_ms": 390000,
       "name": "Tshwala Bam (feat. S.N.E, EeQue)",
       "url": "https://open.spotify.com/track/54seQV7MCcppBrznALCdlT"
-    },
-    {
-      "added_at": "2025-05-23 04:00:26",
-      "album": {
-        "name": "Globo (feat. Blessd & Kofla)",
-        "url": "https://open.spotify.com/album/1kUmugvmPWIY6ZEODVrMSx"
-      },
-      "artists": [
-        {
-          "name": "Gordo",
-          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
-        },
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "Kofla",
-          "url": "https://open.spotify.com/artist/3uvuXrgd8H5Gwnubvtm0sk"
-        }
-      ],
-      "duration_ms": 193846,
-      "name": "Globo (feat. Blessd & Kofla)",
-      "url": "https://open.spotify.com/track/3QyQNNpJg7spXyMzobBoX3"
     },
     {
       "added_at": "2025-05-23 04:00:26",

@@ -2,7 +2,7 @@
 
 ### [Yalla ](https://open.spotify.com/playlist/37i9dQZF1DX5cO1uP1XC1g)
 
-> The Hottest Arabic Music.<br/>Cover: Saint Levant
+> The Hottest Arabic Music.<br/>Cover: Bessan Ismail
 
 423 songs - 1 day 1 hr 31 min
 

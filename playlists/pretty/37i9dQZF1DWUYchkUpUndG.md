@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: Greatman Takit and Limoblaze
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,964 likes - 99 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,984 likes - 99 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

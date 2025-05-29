@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Harold
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,404 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,407 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 23 | [FIM DA NOITE](https://open.spotify.com/track/31pd4crQES4hOaWHGIpzXI) | [Kappa Jotta](https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu), [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [FIM DA NOITE](https://open.spotify.com/album/3CqyVBp2IjCB9ZbhqPv4a1) | 3:34 |
 | 24 | [Farda](https://open.spotify.com/track/6YvBWNtX8L8VBxahAqo954) | [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [Farda](https://open.spotify.com/album/5YSetVW0KplBGeI1uLQPFs) | 3:09 |
 | 25 | [TA TUDO BEM](https://open.spotify.com/track/15ERxM3x0D2HzqdhPxsbd2) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [COR D'ÁGUA](https://open.spotify.com/album/7G4pMhZajkeOLWgvQyGhta) | 4:32 |
-| 26 | [Direção Paris](https://open.spotify.com/track/47vme38PigHgHq5YVEzUt8) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [O Próprio](https://open.spotify.com/album/52B67tLSbAC5pS3GZc2Gnd) | 4:02 |
-| 27 | [Fica](https://open.spotify.com/track/5x2NQmYWyqExdyyXjNIWh3) | [Domingues](https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx) | [Fica](https://open.spotify.com/album/1pOpD6cFStho3wbAcx6Npr) | 4:20 |
+| 26 | [Fica](https://open.spotify.com/track/5x2NQmYWyqExdyyXjNIWh3) | [Domingues](https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx) | [Fica](https://open.spotify.com/album/1pOpD6cFStho3wbAcx6Npr) | 4:20 |
+| 27 | [Direção Paris](https://open.spotify.com/track/47vme38PigHgHq5YVEzUt8) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [O Próprio](https://open.spotify.com/album/52B67tLSbAC5pS3GZc2Gnd) | 4:02 |
 | 28 | [Lembrei\-me](https://open.spotify.com/track/5hF6VYE61LV6Jr6dy86CvI) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Mais Antigo](https://open.spotify.com/album/6jv4CzMCPVJqt0DTlAiJw3) | 3:26 |
 | 29 | [Before I Lose My Voice](https://open.spotify.com/track/7frjoQg8cSUY0Pb7OpCvl5) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Before I Lose My Voice](https://open.spotify.com/album/4oZm4sCOIFsWz41UgOu7r3) | 3:06 |
 | 30 | [Solteiros](https://open.spotify.com/track/2e3OSiCXg1AcLFQ3HuiW42) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n), [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Solteiros](https://open.spotify.com/album/1oh19k6mxh4bSGkEKE91md) | 2:59 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 72 | [Liga Quando A Festa Acabar](https://open.spotify.com/track/58e7qocOqK9P3V78CAy38L) | [Satiro](https://open.spotify.com/artist/2s0vdOp4RtF3VBYH6wxxbM) | [Liga Quando A Festa Acabar](https://open.spotify.com/album/0dxvk23gepW1r9YaiRMj2G) | 3:09 |
 | 73 | [Rocky&Rihanna](https://open.spotify.com/track/0X4w15pyZl9RWsXLJg9wln) | [CADU](https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3), [Kuptz](https://open.spotify.com/artist/5LzaJ0lNZxQBkZxzOqJYkd), [POTTER](https://open.spotify.com/artist/2qr1gotEePk3ZaJVDrQltU) | [Rocky&Rihanna](https://open.spotify.com/album/788dLP8HVaRlAwzQSVnRrJ) | 2:24 |
 | 74 | [Salto Alto](https://open.spotify.com/track/3sIXzuNgN9HrC7amkEQWiP) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Salto Alto](https://open.spotify.com/album/0uatAqfa3VviB7GZuUXd6l) | 3:39 |
-| 75 | [culpada](https://open.spotify.com/track/4GvM5yKmQJtKwW8TB2RXxp) | [pikika](https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN), [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw) | [SOZINHA E MAL ACOMPANHADA](https://open.spotify.com/album/6OmOFBmtboJKXXqTpXCZBi) | 3:10 |
+| 75 | [Berço de Ouro](https://open.spotify.com/track/1JU4ncwSXEjC13H0W72ucD) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Berço de Ouro](https://open.spotify.com/album/68v70mBGjLi5hN1y7xrrlv) | 2:57 |
 
 Snapshot ID: `aC+sfQAAAACQX2GYnZyp2q9rWQc5Oukm`

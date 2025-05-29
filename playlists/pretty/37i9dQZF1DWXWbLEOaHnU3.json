@@ -1,6 +1,6 @@
 {
   "description": "Lose yourself in the cosmic spheres of Psytrance.",
-  "num_followers": 574443,
+  "num_followers": 574517,
   "original_name": "Psytrance Supernova",
   "owner": {
     "name": "Spotify",
@@ -120,12 +120,12 @@
       },
       "artists": [
         {
-          "name": "LEGZDINA",
-          "url": "https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N"
-        },
-        {
           "name": "Sara Landry",
           "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+        },
+        {
+          "name": "LEGZDINA",
+          "url": "https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N"
         },
         {
           "name": "Indira Paganotto",
@@ -243,6 +243,30 @@
     {
       "added_at": "2025-05-12 17:49:53",
       "album": {
+        "name": "All One",
+        "url": "https://open.spotify.com/album/2lKHitO3IUyPXcHJDoJ29g"
+      },
+      "artists": [
+        {
+          "name": "Vini Vici",
+          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
+        },
+        {
+          "name": "Giorgia Angiuli",
+          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
+        },
+        {
+          "name": "Volcano On Mars",
+          "url": "https://open.spotify.com/artist/4zQwbmuw1EcxLjA4ItvWk4"
+        }
+      ],
+      "duration_ms": 223561,
+      "name": "All One",
+      "url": "https://open.spotify.com/track/3qKMjxwl4vD042sGUDzTpx"
+    },
+    {
+      "added_at": "2025-05-12 17:49:53",
+      "album": {
         "name": "Something",
         "url": "https://open.spotify.com/album/30uZ7QkSe3RiIuNCiRCLWk"
       },
@@ -267,30 +291,6 @@
       "duration_ms": 203250,
       "name": "Something",
       "url": "https://open.spotify.com/track/1KgU8LZ7MWxBkCugjWFRJ2"
-    },
-    {
-      "added_at": "2025-05-12 17:49:53",
-      "album": {
-        "name": "All One",
-        "url": "https://open.spotify.com/album/2lKHitO3IUyPXcHJDoJ29g"
-      },
-      "artists": [
-        {
-          "name": "Vini Vici",
-          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
-        },
-        {
-          "name": "Giorgia Angiuli",
-          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
-        },
-        {
-          "name": "Volcano On Mars",
-          "url": "https://open.spotify.com/artist/4zQwbmuw1EcxLjA4ItvWk4"
-        }
-      ],
-      "duration_ms": 223561,
-      "name": "All One",
-      "url": "https://open.spotify.com/track/3qKMjxwl4vD042sGUDzTpx"
     },
     {
       "added_at": "2025-05-12 17:49:53",
@@ -759,6 +759,22 @@
     {
       "added_at": "2025-05-12 17:49:53",
       "album": {
+        "name": "I Want Your Soul",
+        "url": "https://open.spotify.com/album/4wXLChVEExhDz4PQ37V8yx"
+      },
+      "artists": [
+        {
+          "name": "Naturalize",
+          "url": "https://open.spotify.com/artist/0fzvJQrOtf2nhtgNCRZ022"
+        }
+      ],
+      "duration_ms": 420872,
+      "name": "I Want Your Soul",
+      "url": "https://open.spotify.com/track/1jRBWD3P86rcJi2AAONZdz"
+    },
+    {
+      "added_at": "2025-05-12 17:49:53",
+      "album": {
         "name": "All Gone",
         "url": "https://open.spotify.com/album/3h9i8vXutqHGH5QkxUEG6o"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 229436,
       "name": "All Gone",
       "url": "https://open.spotify.com/track/6imZUICpik2ZVecP0MO3aF"
-    },
-    {
-      "added_at": "2025-05-12 17:49:53",
-      "album": {
-        "name": "I Want Your Soul",
-        "url": "https://open.spotify.com/album/4wXLChVEExhDz4PQ37V8yx"
-      },
-      "artists": [
-        {
-          "name": "Naturalize",
-          "url": "https://open.spotify.com/artist/0fzvJQrOtf2nhtgNCRZ022"
-        }
-      ],
-      "duration_ms": 420872,
-      "name": "I Want Your Soul",
-      "url": "https://open.spotify.com/track/1jRBWD3P86rcJi2AAONZdz"
     },
     {
       "added_at": "2025-05-12 17:49:53",
@@ -899,6 +899,22 @@
     {
       "added_at": "2025-05-12 17:49:53",
       "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/1FKMaVHL6Gekwe9D7deIub"
+      },
+      "artists": [
+        {
+          "name": "Morten Granau",
+          "url": "https://open.spotify.com/artist/49loZrPArxoDvk5XKyugw0"
+        }
+      ],
+      "duration_ms": 452173,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/75PXINUJqSDqEbLj3p9tv0"
+    },
+    {
+      "added_at": "2025-05-12 17:49:53",
+      "album": {
         "name": "Hogbeza",
         "url": "https://open.spotify.com/album/3aujW4E3Ma2vnTfgusmGm7"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 321126,
       "name": "Hogbeza",
       "url": "https://open.spotify.com/track/4I78a7kBr9IlrVc69GbwLY"
-    },
-    {
-      "added_at": "2025-05-12 17:49:53",
-      "album": {
-        "name": "Silence",
-        "url": "https://open.spotify.com/album/1FKMaVHL6Gekwe9D7deIub"
-      },
-      "artists": [
-        {
-          "name": "Morten Granau",
-          "url": "https://open.spotify.com/artist/49loZrPArxoDvk5XKyugw0"
-        }
-      ],
-      "duration_ms": 452173,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/75PXINUJqSDqEbLj3p9tv0"
     },
     {
       "added_at": "2025-05-12 17:49:53",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2025-05-12 17:49:53",
       "album": {
+        "name": "Shroomeez",
+        "url": "https://open.spotify.com/album/6WjT81kkedROKlbYj6SInQ"
+      },
+      "artists": [
+        {
+          "name": "Infected Mushroom",
+          "url": "https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI"
+        }
+      ],
+      "duration_ms": 390011,
+      "name": "You Wanna Stay",
+      "url": "https://open.spotify.com/track/1zCEQgOjjQRzGieDb3OVKh"
+    },
+    {
+      "added_at": "2025-05-12 17:49:53",
+      "album": {
         "name": "Roshini",
         "url": "https://open.spotify.com/album/5YUkqNP9SMKt3B0Jm93iMH"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 393590,
       "name": "Roshini",
       "url": "https://open.spotify.com/track/7yM3nhPNWiRmSWbNwgu3Se"
-    },
-    {
-      "added_at": "2025-05-12 17:49:53",
-      "album": {
-        "name": "Shroomeez",
-        "url": "https://open.spotify.com/album/6WjT81kkedROKlbYj6SInQ"
-      },
-      "artists": [
-        {
-          "name": "Infected Mushroom",
-          "url": "https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI"
-        }
-      ],
-      "duration_ms": 390011,
-      "name": "You Wanna Stay",
-      "url": "https://open.spotify.com/track/1zCEQgOjjQRzGieDb3OVKh"
     },
     {
       "added_at": "2025-05-12 17:49:53",

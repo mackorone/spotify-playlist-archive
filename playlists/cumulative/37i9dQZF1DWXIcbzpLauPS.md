@@ -4,7 +4,7 @@
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: Of Mice & Men
 
-1,240 songs - 3 day 4 hr 5 min
+1,241 songs - 3 day 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -339,7 +339,7 @@
 | [Don't Go](https://open.spotify.com/track/5su7QP5m3Mt5yaAM5rrriE) | [Villain of the Story](https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE) | [Don't Go](https://open.spotify.com/album/2notng3VruouqChEzm2IJl) | 3:21 | 2022-05-06 | 2022-06-11 |
 | [don't let it hurt me](https://open.spotify.com/track/3ZhgL4UrPX2vUL9ryRtvZh) | [Defocus](https://open.spotify.com/artist/4lqszvqBsOjOq4MItmZlsU) | [there is a place for me on earth](https://open.spotify.com/album/52Ztezv5THlWDf73gDjERO) | 3:53 | 2024-03-08 | 2024-12-19 |
 | [Don't Reach For Me](https://open.spotify.com/track/3pFg2UmSItBn9Zj8AmVse7) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw) | [Don't Reach For Me](https://open.spotify.com/album/3FWb6SMsjXJ1VqRamg44cO) | 3:45 | 2024-04-12 | 2024-08-13 |
-| [Don't Talk](https://open.spotify.com/track/5KWVqP6ooLAgmbwJnVol9D) | [Our Mirage](https://open.spotify.com/artist/1QpYiCxy3p5Wz7HtomBqHU), [Christopher Kristensen](https://open.spotify.com/artist/4teR8K3TE71fbNw61zAoSu) | [Don't Talk](https://open.spotify.com/album/7HmiykmvDz2ezPinwYoMqv) | 3:21 | 2025-03-14 |  |
+| [Don't Talk](https://open.spotify.com/track/5KWVqP6ooLAgmbwJnVol9D) | [Our Mirage](https://open.spotify.com/artist/1QpYiCxy3p5Wz7HtomBqHU), [Christopher Kristensen](https://open.spotify.com/artist/4teR8K3TE71fbNw61zAoSu) | [Don't Talk](https://open.spotify.com/album/7HmiykmvDz2ezPinwYoMqv) | 3:21 | 2025-03-14 | 2025-05-29 |
 | [Don’t Look Away](https://open.spotify.com/track/13TI2bhTRld8pgk9xM8wm9) | [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [Don't Look Away](https://open.spotify.com/album/4waOzgfNIF4sBAkKX9NzrJ) | 3:13 | 2024-03-08 | 2024-05-11 |
 | [Don’t Look Away](https://open.spotify.com/track/0vEp4LmvDQNcc8MGOHno6Q) | [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [Vol\. 2](https://open.spotify.com/album/7lAOJSvVNt3hTZ9MQMSBmB) | 3:13 | 2024-05-10 | 2024-11-09 |
 | [Doom + Gloom](https://open.spotify.com/track/6MI4QzIiJIfIZcdTSlDXnq) | [Set for Tomorrow](https://open.spotify.com/artist/38G81lySCkQhDVRchYGZzK) | [Doom + Gloom](https://open.spotify.com/album/7JosnS7Ttco0A7hMV5Ctp0) | 3:09 | 2024-08-30 | 2025-05-18 |
@@ -985,6 +985,7 @@
 | [Something I'm Not](https://open.spotify.com/track/266NgH6rHSWkgdTSHyVfnB) | [Graphic Nature](https://open.spotify.com/artist/0QUcDHMfwBsMAufKXbzhkH) | [Something I'm Not](https://open.spotify.com/album/6TprautIu2RUz8oYQSv8BB) | 3:25 | 2024-06-04 | 2024-12-19 |
 | [Something In The Way](https://open.spotify.com/track/3V28Eb87Y8du002uxsxUDn) | [TSS](https://open.spotify.com/artist/0hTsRy6iJPc0fgkxhEHzmT) | [Something In The Way](https://open.spotify.com/album/1ZyprDf0216EbtcBS48cjz) | 3:39 | 2025-03-31 | 2025-04-26 |
 | [Soul Chasm](https://open.spotify.com/track/66fCFGrX5XQD69VumC1sZA) | [Heriot](https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4) | [Soul Chasm](https://open.spotify.com/album/4zkhWlE1kPQbgd4qJPxOUA) | 3:24 | 2023-11-27 | 2024-06-05 |
+| [Soul Drown](https://open.spotify.com/track/0eKzIDG9gSnnwfT6ZoCeHB) | [As The Structure Fails](https://open.spotify.com/artist/12A5ksM0yYvX6ULrJmIvQN) | [Soul Drown](https://open.spotify.com/album/3AZRPLiZlufomxOHGYAkNk) | 2:44 | 2025-05-23 |  |
 | [Souls Devoured](https://open.spotify.com/track/74Z3FMsY0mXzN8MpkXcvB7) | [Shadows Fall](https://open.spotify.com/artist/1HaiS1sFo8qkc6tF5Mw1M0) | [Souls Devoured](https://open.spotify.com/album/56sumLuEYimoOtQb1KKnWr) | 4:15 | 2025-05-02 |  |
 | [SOWHAT1999](https://open.spotify.com/track/2YkYYob6zFTXzcjLv2mg9q) | [Ocean Grove](https://open.spotify.com/artist/0AlnGjlLLXglk9hnwErYDU) | [ODDWORLD](https://open.spotify.com/album/5RrM7e9rjhJIom1673RnRF) | 3:00 | 2024-11-22 | 2025-02-22 |
 | [Spaceman \(feat\. FiNCH\)](https://open.spotify.com/track/6OXlb1FnbySxMPPhbwiXic) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc), [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD) | [Spaceman \(feat\. FiNCH\)](https://open.spotify.com/album/5bbrawfeXG2MHOYw0OSTyK) | 3:10 | 2022-04-08 | 2022-07-22 |

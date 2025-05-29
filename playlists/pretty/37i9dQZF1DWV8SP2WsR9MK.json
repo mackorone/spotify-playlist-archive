@@ -1,6 +1,6 @@
 {
   "description": "The classic Jazz guitarists and their finest pieces. Cover: Grant Green",
-  "num_followers": 109943,
+  "num_followers": 109993,
   "original_name": "Jazz Guitar Classics",
   "owner": {
     "name": "Spotify",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-07-17 12:19:46",
       "album": {
-        "name": "Time On My Hands",
-        "url": "https://open.spotify.com/album/204uhoOaWn4a1XK8RmJi92"
-      },
-      "artists": [
-        {
-          "name": "John Scofield",
-          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
-        }
-      ],
-      "duration_ms": 267800,
-      "name": "Let's Say We Did",
-      "url": "https://open.spotify.com/track/301YnLmQmSX7mURPKvWOy5"
-    },
-    {
-      "added_at": "2024-07-17 12:19:46",
-      "album": {
         "name": "The Artistry Of Tal Farlow",
         "url": "https://open.spotify.com/album/3DhbpcnuskeHWkCzWAM9cO"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 296613,
       "name": "Have You Met Miss Jones?",
       "url": "https://open.spotify.com/track/10iq9kylUDnPeLJikEdCvl"
+    },
+    {
+      "added_at": "2024-07-17 12:19:46",
+      "album": {
+        "name": "Time On My Hands",
+        "url": "https://open.spotify.com/album/204uhoOaWn4a1XK8RmJi92"
+      },
+      "artists": [
+        {
+          "name": "John Scofield",
+          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
+        }
+      ],
+      "duration_ms": 267800,
+      "name": "Let's Say We Did",
+      "url": "https://open.spotify.com/track/301YnLmQmSX7mURPKvWOy5"
     },
     {
       "added_at": "2024-07-17 12:19:46",
@@ -1415,26 +1415,22 @@
     {
       "added_at": "2024-07-17 12:19:46",
       "album": {
-        "name": "I Have The Room Above Her",
-        "url": "https://open.spotify.com/album/3b1HL44VlL1tniGvg6yDF3"
+        "name": "Jimmy Raney Featuring Bob Brookmeyer",
+        "url": "https://open.spotify.com/album/2M5HUcSTnSBgJt1zB9Xjvp"
       },
       "artists": [
         {
-          "name": "Paul Motian",
-          "url": "https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX"
+          "name": "Jimmy Raney",
+          "url": "https://open.spotify.com/artist/42MZam7rropEzPCxlGTmOs"
         },
         {
-          "name": "Bill Frisell",
-          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
-        },
-        {
-          "name": "Joe Lovano",
-          "url": "https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf"
+          "name": "Bob Brookmeyer",
+          "url": "https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN"
         }
       ],
-      "duration_ms": 253866,
-      "name": "Odd Man Out",
-      "url": "https://open.spotify.com/track/4zSlzvNseGhiutbNKzq6nO"
+      "duration_ms": 271200,
+      "name": "How Long Has This Been Going On",
+      "url": "https://open.spotify.com/track/3hQ6hSnDRPpHht0jK9AWeg"
     },
     {
       "added_at": "2024-07-17 12:19:46",
@@ -1455,22 +1451,26 @@
     {
       "added_at": "2024-07-17 12:19:46",
       "album": {
-        "name": "Jimmy Raney Featuring Bob Brookmeyer",
-        "url": "https://open.spotify.com/album/2M5HUcSTnSBgJt1zB9Xjvp"
+        "name": "I Have The Room Above Her",
+        "url": "https://open.spotify.com/album/3b1HL44VlL1tniGvg6yDF3"
       },
       "artists": [
         {
-          "name": "Jimmy Raney",
-          "url": "https://open.spotify.com/artist/42MZam7rropEzPCxlGTmOs"
+          "name": "Paul Motian",
+          "url": "https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX"
         },
         {
-          "name": "Bob Brookmeyer",
-          "url": "https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN"
+          "name": "Bill Frisell",
+          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+        },
+        {
+          "name": "Joe Lovano",
+          "url": "https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf"
         }
       ],
-      "duration_ms": 271200,
-      "name": "How Long Has This Been Going On",
-      "url": "https://open.spotify.com/track/3hQ6hSnDRPpHht0jK9AWeg"
+      "duration_ms": 253866,
+      "name": "Odd Man Out",
+      "url": "https://open.spotify.com/track/4zSlzvNseGhiutbNKzq6nO"
     },
     {
       "added_at": "2024-07-17 12:19:46",

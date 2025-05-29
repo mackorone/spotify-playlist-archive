@@ -1,12 +1,12 @@
 {
   "description": "This is Nanpa B\u00e1sico. The essential tracks, all in one playlist.",
-  "num_followers": 245228,
+  "num_followers": 245296,
   "original_name": "This Is Nanpa B\u00e1sico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDOvAAAAAABFNBRPGUWpEe8xGmuFhaJR",
+  "snapshot_id": "aDUAgAAAAAAiFjJFYrztt7mMJkwEAn5w",
   "tracks": [
     {
       "added_at": null,
@@ -327,22 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HECHO M13RD4",
-        "url": "https://open.spotify.com/album/6sJJd1j1ekg8p8grveeydi"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 246480,
-      "name": "Me Da Lo Mismo",
-      "url": "https://open.spotify.com/track/5Gd3xX8XfF0BtJifRndvRK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Contra Todo Pron\u00f3stico",
         "url": "https://open.spotify.com/album/6Vci5Gbazs7TZYDNliRJKO"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 189098,
       "name": "Volvernos a Amar",
       "url": "https://open.spotify.com/track/3W1HtrBRDTYdvDJ6Ty4bfn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HECHO M13RD4",
+        "url": "https://open.spotify.com/album/6sJJd1j1ekg8p8grveeydi"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 246480,
+      "name": "Me Da Lo Mismo",
+      "url": "https://open.spotify.com/track/5Gd3xX8XfF0BtJifRndvRK"
     },
     {
       "added_at": null,
@@ -539,26 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Di\u00e1logos de Paz",
-        "url": "https://open.spotify.com/album/736bsgKua2P9W13gSIMKAg"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Maisak",
-          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
-        }
-      ],
-      "duration_ms": 190927,
-      "name": "Di\u00e1logos de Paz",
-      "url": "https://open.spotify.com/track/2woSoLI9JC4JpF7kw6v8vc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Seg\u00fan Nosotros",
         "url": "https://open.spotify.com/album/2WVRIzfP6hreSpWyKxEeME"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 224938,
       "name": "S\u00f3lo T\u00fa",
       "url": "https://open.spotify.com/track/0OpaOJ0gYjhnSgdEaSxHqY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Di\u00e1logos de Paz",
+        "url": "https://open.spotify.com/album/736bsgKua2P9W13gSIMKAg"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Maisak",
+          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
+        }
+      ],
+      "duration_ms": 190927,
+      "name": "Di\u00e1logos de Paz",
+      "url": "https://open.spotify.com/track/2woSoLI9JC4JpF7kw6v8vc"
     },
     {
       "added_at": null,

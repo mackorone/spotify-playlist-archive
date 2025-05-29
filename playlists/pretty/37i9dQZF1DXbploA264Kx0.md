@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbploA264Kx0.md) - [plain]
 
 > Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Dizparity x SOPHY
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,273 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,276 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbploA264Kx0.md) - [plain]
 | 49 | [down](https://open.spotify.com/track/3ookojcT2eRZfaYP77mygQ) | [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [down](https://open.spotify.com/album/6vCmYD16Fv6vS4patfC3vH) | 2:24 |
 | 50 | [EXX](https://open.spotify.com/track/1uxpdBypxB44G4F6insgK3) | [Mandark](https://open.spotify.com/artist/7znAteIK9wAnN6URYwFsks) | [EXX](https://open.spotify.com/album/4tjS7UM9uRgqw6MBvfqkIS) | 2:20 |
 
-Snapshot ID: `aC9NJgAAAACOtI7fH00zermCe8EgnIy8`
+Snapshot ID: `AAAAAOTx8dpeJXWlotaUGuhcVQc6iWiZ`

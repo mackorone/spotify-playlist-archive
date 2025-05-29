@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 
 > Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- AUR
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,789 likes - 69 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,801 likes - 69 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 | 2 | [Memories](https://open.spotify.com/track/2O0sJTtjLKvMhd7cWyNdbe) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Justin Bibis](https://open.spotify.com/artist/0u8P1TS7Zyuq1MFQxTLAGy), [Shehryar Khan](https://open.spotify.com/artist/4vdNZHa1VmnLgFObceAzAi) | [Memories](https://open.spotify.com/album/1I8YUsgEIWFfVJXqngPBoL) | 2:38 |
 | 3 | [Tera Hona Kafi Hai \(feat\. Zara Madani\)](https://open.spotify.com/track/4J5b66GMWMCYEqDXqxVOko) | [Abbas Ali Khan](https://open.spotify.com/artist/2s0QNp9mi0mup8DHbTPs9l), [Zara Madani](https://open.spotify.com/artist/7whBc4k8oVdg9akSlUoyo9) | [Tera Hona Kafi Hai \(feat\. Zara Madani\)](https://open.spotify.com/album/2AnynxL5TukpcqNdhiBp7B) | 4:08 |
 | 4 | [Rush](https://open.spotify.com/track/68vAMcnZxEFjbplSiRVPGG) | [Marshall Ahmad](https://open.spotify.com/artist/3c7YStlXDTZyJjiIcsJDJP) | [Rush](https://open.spotify.com/album/18rQwymQVOui4MFz3cNB8Y) | 2:26 |
-| 5 | [Global Zakham](https://open.spotify.com/track/7LPLckhk6ygQgcvHntw1gT) | [Bilal Ali](https://open.spotify.com/artist/1qJck1RgMGzqJyzvIJuOuX), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Natasha Noorani](https://open.spotify.com/artist/1nGL9DljVpkRcayU8Wi285), [Zahid Qureshi](https://open.spotify.com/artist/5tDFcZItyMnXbSX3gdNNwL) | [Global Zakham](https://open.spotify.com/album/6kFCZEKJX6MrMpfzo93Zl6) | 3:00 |
+| 5 | [Global Zakham](https://open.spotify.com/track/7LPLckhk6ygQgcvHntw1gT) | [Bilal Ali](https://open.spotify.com/artist/1qJck1RgMGzqJyzvIJuOuX), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Natasha Noorani](https://open.spotify.com/artist/1nGL9DljVpkRcayU8Wi285), [Zahid Qureshi](https://open.spotify.com/artist/54n10AF8rgWBCy8OL0Fizw) | [Global Zakham](https://open.spotify.com/album/6kFCZEKJX6MrMpfzo93Zl6) | 3:00 |
 | 6 | [Dil Ruba](https://open.spotify.com/track/1VVCIQHFamc5Q7uDsqDkfN) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [Velo Sound Station](https://open.spotify.com/artist/36R4BjMUZw5ivfFomI7WGd) | [Dil Ruba](https://open.spotify.com/album/0KD9Ddk52NSmYdzW8QcgFY) | 4:20 |
 | 7 | [Peeran](https://open.spotify.com/track/4jSJ185RtHo2dQ3AFw8cLi) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Peeran](https://open.spotify.com/album/6IcfYrEbYRXh4ojDNc6O0L) | 4:14 |
 | 8 | [Maand](https://open.spotify.com/track/2ZzZ2qwZBWlDKs420hhloc) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [Safar](https://open.spotify.com/album/3M8j6IwEcqDnf0V3y3ZI3C) | 3:05 |

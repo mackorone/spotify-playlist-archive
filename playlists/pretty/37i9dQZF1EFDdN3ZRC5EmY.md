@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDdN3ZRC5EmY.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6SK0frMbyQXljpwhhXP4KD">Jessie Reyez</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,928 likes - 74 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,927 likes - 74 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDdN3ZRC5EmY.md) - [plain]
 | 29 | [Sola](https://open.spotify.com/track/3doK7YkkgMtfD6qoXCkTWh) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Being Human In Public](https://open.spotify.com/album/0dZlf6U1djSwKxMrJ0RZgQ) | 3:30 |
 | 30 | [Jessie \(i miss you\)](https://open.spotify.com/track/2BMtVVQPrhMR3bIoiFhwpQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Jessie \(i miss you\)](https://open.spotify.com/album/3EKtYw5CKxZD4B0lXizamQ) | 3:17 |
 | 31 | [Feel It Too \(with Jessie Reyez & Tory Lanez\)](https://open.spotify.com/track/0afSDk3PxzQGY6rIdf30Z0) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Feel It Too \(with Jessie Reyez & Tory Lanez\)](https://open.spotify.com/album/4xOKqHPmVztXkOS7CSHcSN) | 3:13 |
-| 32 | [Basement \(Feat\. Jessie Reyez\)](https://open.spotify.com/track/2BzWMz80tzdFmVFHuyCMAp) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Basement \(Feat\. Jessie Reyez\)](https://open.spotify.com/album/2suvROVbQiZoG1H5qgSzPr) | 3:29 |
-| 33 | [F\*\*\* Being Friends](https://open.spotify.com/track/6QDi3G7ng3vWiIXQJntQSZ) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Being Human In Public](https://open.spotify.com/album/0dZlf6U1djSwKxMrJ0RZgQ) | 2:31 |
+| 32 | [F\*\*\* Being Friends](https://open.spotify.com/track/6QDi3G7ng3vWiIXQJntQSZ) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Being Human In Public](https://open.spotify.com/album/0dZlf6U1djSwKxMrJ0RZgQ) | 2:31 |
+| 33 | [Basement \(Feat\. Jessie Reyez\)](https://open.spotify.com/track/2BzWMz80tzdFmVFHuyCMAp) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Basement \(Feat\. Jessie Reyez\)](https://open.spotify.com/album/2suvROVbQiZoG1H5qgSzPr) | 3:29 |
 | 34 | [Slow Down \(with Calvin Harris\)](https://open.spotify.com/track/43tgC5pTYJpc5D3C9HRwEg) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Normani x Calvin Harris](https://open.spotify.com/album/3OKTeMekMHZCvwlp7uttPE) | 3:25 |
 | 35 | [FAR AWAY](https://open.spotify.com/track/12H6iTEgiX4HPnCPphYSMk) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [FAR AWAY](https://open.spotify.com/album/6oSnvw7yQpDFFTZIZA4Rxx) | 2:41 |
 | 36 | [FAR AWAY II \(feat\. A Boogie Wit da Hoodie & JID\)](https://open.spotify.com/track/48sVPgGv1lux3LbGtk35iS) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [BEFORE LOVE CAME TO KILL US \(Deluxe\)](https://open.spotify.com/album/2o7OtjWjB5cbHgH4JpWrc3) | 3:35 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDdN3ZRC5EmY.md) - [plain]
 | 73 | [Where Do We Come From? \(feat\. ISHMAEL & Elle Yaya\)](https://open.spotify.com/track/6RJjHt3ZaghTvtlu53AgeJ) | [Paul Epworth](https://open.spotify.com/artist/04ouBKIoUizgF9j6v6TWR8), [ISHMAEL](https://open.spotify.com/artist/5zjOfDUpwoXpMQcWV9ULD4), [Elle Yaya](https://open.spotify.com/artist/5LmRH2CD6Qqn1H8Zc36dMR) | [Voyager](https://open.spotify.com/album/6inskjOXMnEFnxt0QUFFYu) | 6:09 |
 | 74 | [Brand New](https://open.spotify.com/track/4X8wy3qfk5GHUtR9JyrjR2) | [Young Quicks](https://open.spotify.com/artist/5WtvL5NDnjl0j1V29dpy9p) | [Young, Fly & Latino \(Y.F.L\)](https://open.spotify.com/album/1D6CZYk8M3RIbeVgDipD87) | 3:54 |
 
-Snapshot ID: `AbykIAAAAABj+S7epCoEsEUX5648NYWC`
+Snapshot ID: `Abyp8gAAAACWiDjDau1oUTEP1bwWgVIB`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yt1EN3vjWR.md) - [plain]
 
 > 【全セットリストを再現】2025年5月24日\(土\), 25日\(日\)に幕張メッセで開催された国内最大規模のヒップホップフェスティバル<a href="https://popyours.jp/">『POP YOURS』</a>のセットリストをプレイリストで再現。
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,545 likes - 253 songs - 12 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,303 likes - 253 songs - 12 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yt1EN3vjWR.md) - [plain]
 | 53 | [After Rain](https://open.spotify.com/track/6K8PR3ECGv9q2EpByU8Czc) | [3House](https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w) | [Terminal 3](https://open.spotify.com/album/0js5DqzTxYKklPL1SIa63d) | 2:55 |
 | 54 | [Ozone](https://open.spotify.com/track/5pI9So3OZfdVI8vqoBcKBM) | [3House](https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w) | [Terminal 3](https://open.spotify.com/album/0js5DqzTxYKklPL1SIa63d) | 3:14 |
 | 55 | [力をくれ](https://open.spotify.com/track/35FFFojzUUlFAwKIXCPvNi) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [力をくれ](https://open.spotify.com/album/7qu1zz3XI91cCz99mhHg33) | 3:16 |
-| 56 | [Higher](https://open.spotify.com/track/4TdCEsk7IwznrnajSnlqFF) | [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH), [YZERR](https://open.spotify.com/artist/7z8eFxohsIg2Tu5evbNXXo) | [Survive](https://open.spotify.com/album/4fonwdZlGimtjxdW8SfGlu) | 2:14 |
+| 56 | [Higher \(feat\. Tohji, gummyboy\)](https://open.spotify.com/track/3J4MYj9VMdARb2Gs4zjkoW) | [Mall Boyz](https://open.spotify.com/artist/4frHeZ2ummtLwkuV7QohYp), [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF), [gummyboy](https://open.spotify.com/artist/3jk0CePj2VdhqGpN0GX6pd) | [Mall Tape](https://open.spotify.com/album/6cR6RxGVzK8ndetlv9i4G0) | 3:04 |
 | 57 | [DREAMIN’ BOI ISSUE](https://open.spotify.com/track/5PpLPAdZGMQ5eMzwwC5HoQ) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK) | [KJ SEASON](https://open.spotify.com/album/28Tb83FZurUuUbiv17V0zE) | 2:46 |
 | 58 | [Champions](https://open.spotify.com/track/07n4Wa9DmDyZyeyoba6dtA) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK), [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8) | [Champions](https://open.spotify.com/album/2AlTOHvsl8jYqVxGgsvXqe) | 4:37 |
 | 59 | [Lost 2 \(Ftheworld\)](https://open.spotify.com/track/0O92ROnkQ1AN2VVpUyDOkv) | [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [Ftheworld](https://open.spotify.com/album/0S5nb7Wr2M4ZoTZN20VHfk) | 3:46 |
@@ -262,4 +262,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yt1EN3vjWR.md) - [plain]
 | 252 | [Changes \(feat\. JJJ\)](https://open.spotify.com/track/6EWrD1fNA2v0aqjFLBTGq1) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR) | [Eutopia](https://open.spotify.com/album/4MUHJDhll4mTa80kATFiHG) | 3:51 |
 | 253 | [Fla$hBackS prod.KID FRESINO](https://open.spotify.com/track/4EwZuUzzPIwbfg09up0YeA) | [Fla$hbacks](https://open.spotify.com/artist/7mQHt2ZhmXyvA9NfJbtzCq) | [FL$8KS](https://open.spotify.com/album/1somIMGYbNAzEt19WIQDcY) | 3:32 |
 
-Snapshot ID: `aDRAHAAAAACDTb/DaeL7Ik4aqrFeQzYI`
+Snapshot ID: `aDbdRwAAAAAcLVPPfsJsRstL3yJqpknL`

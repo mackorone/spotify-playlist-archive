@@ -4,7 +4,7 @@
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:0WqsT2a4CBuQ0LC7vrJD0H">Nino Paid</a>
 
-2,336 songs - 4 day 7 hr 49 min
+2,337 songs - 4 day 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,7 +178,7 @@
 | [Bad Bitches \(Remix\) \[feat\. Lola Brooke & Kaliii\]](https://open.spotify.com/track/5uNg131mN22zZzQ9XjRQ5Q) | [BreezyLYN](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Bad Bitches \(Remix\) \[feat\. Lola Brooke & Kaliii\]](https://open.spotify.com/album/4lUP6CjI2ZsClgPCGi6bbW) | 3:10 | 2023-05-12 | 2023-07-15 |
 | [Bad Bitty](https://open.spotify.com/track/3hDGP1FyivTChULeeVWkH6) | [J.P.](https://open.spotify.com/artist/6ygDlIilHZqielxxkvmIVH) | [Bad Bitty](https://open.spotify.com/album/2ACyT17aP97swSJO9wDjvd) | 1:42 | 2024-05-25 | 2024-10-19 |
 | [Bad Bitty \(Remix\)](https://open.spotify.com/track/3lu9zdjhHvAt7gje6w8Pn9) | [J.P.](https://open.spotify.com/artist/6ygDlIilHZqielxxkvmIVH), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Bad Bitty \(Remix\)](https://open.spotify.com/album/4X8qIyq7WLawahGInRD9RR) | 2:23 | 2024-08-02 | 2024-08-10 |
-| [Bad Brain](https://open.spotify.com/track/4KOYcFVPQ6VKlTj3YCBzaq) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [Bad Brain](https://open.spotify.com/album/3EwnV07cVBW0KE4SyAVvna) | 2:43 | 2025-05-02 |  |
+| [Bad Brain](https://open.spotify.com/track/4KOYcFVPQ6VKlTj3YCBzaq) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [Bad Brain](https://open.spotify.com/album/3EwnV07cVBW0KE4SyAVvna) | 2:43 | 2025-05-02 | 2025-05-29 |
 | [Bad Day](https://open.spotify.com/track/5E3IRkG7F6jgFin8hLiOd9) | [Nino Paid](https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H) | [Love Me As I Am](https://open.spotify.com/album/7jYJVYcqMg9V4j41q8G3Bm) | 1:48 | 2025-02-07 | 2025-02-15 |
 | [Bad Days \(feat\. Sleepy Hallow\)](https://open.spotify.com/track/6qg6FiJXghvGugTnItB4Lv) | [Eli Fross](https://open.spotify.com/artist/6Vy1VMVCyTgbcmA1iz0QFg), [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Bad Days \(feat\. Sleepy Hallow\)](https://open.spotify.com/album/3ubtf0L8eEjiUIDQsSiWYu) | 3:27 | 2022-07-08 | 2022-09-03 |
 | [BAD DECISIONS](https://open.spotify.com/track/6DPe3yHTfpFwVVx92AVT54) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [BAD DECISIONS](https://open.spotify.com/album/6FRtJw6ULKUrSvqXK99PjR) | 2:19 | 2025-03-07 | 2025-03-15 |
@@ -790,6 +790,7 @@
 | [GET JIGGY](https://open.spotify.com/track/1yPOdPOvDAR8J4KBzEHIy2) | [Baby Kia](https://open.spotify.com/artist/1IppGzPqPv70sKbraW5Q2L), [Lil Slixk](https://open.spotify.com/artist/30r98xL28PIfjUG4JwyWaM), [Lil Reaper](https://open.spotify.com/artist/0pXg9udRX8G5ra0m4xllGv) | [HELL CAN'T SAVE YOU](https://open.spotify.com/album/5F10HRZliGco8ZtXZQCqPV) | 2:24 | 2024-03-15 | 2024-03-23 |
 | [Get Lucki](https://open.spotify.com/track/2Lesv91L9paVZjIPpu0jx6) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Ganger \(Deluxe Edition\)](https://open.spotify.com/album/1VzWsyBJ8FdJwoMlpm7tDn) | 2:59 | 2023-10-13 | 2024-06-08 |
 | [Get Money \(feat\. Polo G\)](https://open.spotify.com/track/2lCksaXDjYoYBiBtODuNFG) | [Scorey](https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Help Is On The Way](https://open.spotify.com/album/7JNS0SjmLodxUxHJ1SJvhn) | 2:32 | 2022-12-09 | 2023-02-11 |
+| [GET NAKED](https://open.spotify.com/track/69TzPRfWMOoGywNFxNLCRJ) | [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk) | [GET NAKED](https://open.spotify.com/album/17aMf9YdX5Pdyt0RyfU3Jh) | 2:06 | 2025-05-28 |  |
 | [Get Off The Wall](https://open.spotify.com/track/1ttdCC6nZ0M1Bq2zkuf73W) | [Philly Goats](https://open.spotify.com/artist/2WdQEgolM3ReWDLVbULP0U) | [Get Off The Wall](https://open.spotify.com/album/3bb2VTq1MT3JrMF0S5XU93) | 2:58 | 2023-06-23 | 2023-08-19 |
 | [Get Paid](https://open.spotify.com/track/5hhvK8Png04nKtNZalWK8s) | [Whookilledkenny](https://open.spotify.com/artist/2KZnFwKkzZwaTe74507ZLD) | [Get Paid](https://open.spotify.com/album/5IlwJIWswcDznugc8wdT2K) | 2:31 | 2022-04-15 | 2022-06-04 |
 | [Get To It \(feat\. Nino Paid\)](https://open.spotify.com/track/02h1SjpjOuceuRbMTvihBt) | [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef), [Nino Paid](https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H) | [Get To It \(feat\. Nino Paid\)](https://open.spotify.com/album/750gEj1yKmKpsgetJHUvtv) | 3:10 | 2025-05-16 | 2025-05-24 |

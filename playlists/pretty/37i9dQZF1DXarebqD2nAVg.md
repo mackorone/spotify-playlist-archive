@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 
 > raw feels,  emotional beats to cry out to ☁️❤️‍🩹
 
-[Spotify](https://open.spotify.com/user/spotify) - 456,106 likes - 75 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 456,132 likes - 75 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 | 36 | [nothing to lose](https://open.spotify.com/track/33zke8d6rCkng1Brt3LjlH) | [softclouds](https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d) | [nothing to lose](https://open.spotify.com/album/5MnN94EeAMkc0DeOMeSYwm) | 2:32 |
 | 37 | [I Have Love for Everyone Besides Myself.](https://open.spotify.com/track/6okflAl3X7elXPx7MgJMi6) | [Barnes Blvd.](https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc) | [Last Summer](https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8) | 2:41 |
 | 38 | [lucky charms](https://open.spotify.com/track/4JnGvG2qXVDwAArJkZvZwJ) | [slowburn](https://open.spotify.com/artist/4wSDv48fN9mItDjtMpSEDo) | [lucky charms](https://open.spotify.com/album/04zMzCmGyAhMlziRYcd0MA) | 2:19 |
-| 39 | [day by day](https://open.spotify.com/track/5K5k3QaMvZdwlrrJX1Qqnf) | [sad notes](https://open.spotify.com/artist/6LlMF86oZBZG1nvkIkso0A) | [day by day](https://open.spotify.com/album/2aeDFGJgAVpDjEg9kw17Qk) | 2:34 |
-| 40 | [Frequencies](https://open.spotify.com/track/0A11UBR4MR27eUYZxhqTlW) | [les marais](https://open.spotify.com/artist/5kPiI5sB5mBDOcbFyoEUng) | [Frequencies](https://open.spotify.com/album/0BXSPoKppxpUJmHO7HIdRc) | 1:52 |
+| 39 | [Frequencies](https://open.spotify.com/track/0A11UBR4MR27eUYZxhqTlW) | [les marais](https://open.spotify.com/artist/5kPiI5sB5mBDOcbFyoEUng) | [Frequencies](https://open.spotify.com/album/0BXSPoKppxpUJmHO7HIdRc) | 1:52 |
+| 40 | [day by day](https://open.spotify.com/track/5K5k3QaMvZdwlrrJX1Qqnf) | [sad notes](https://open.spotify.com/artist/6LlMF86oZBZG1nvkIkso0A) | [day by day](https://open.spotify.com/album/2aeDFGJgAVpDjEg9kw17Qk) | 2:34 |
 | 41 | [broth](https://open.spotify.com/track/1V07rv74k9FinkehDGR14N) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [broth](https://open.spotify.com/album/4r5vFtlHvYzp23Xn34Oj8Y) | 3:06 |
 | 42 | [Dreemin'](https://open.spotify.com/track/6L4ZXA6ROpbQCF8UlDqZ9A) | [\_tag](https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi) | [Dreemin'](https://open.spotify.com/album/44WEHjidINWRXTcjHP9mF0) | 2:11 |
 | 43 | [Slow Drive](https://open.spotify.com/track/0gUiGhcwij43cJ3WMTIKwy) | [Mondo Loops](https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK) | [Slow Drive](https://open.spotify.com/album/0W0nfFZYXahtnhO8I3LL9i) | 2:08 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 | 71 | [truth](https://open.spotify.com/track/2v61JbHklrRRSyADCJh5Hn) | [marigold](https://open.spotify.com/artist/4UPrESsUKf7K2iGxO1mSwc) | [truth](https://open.spotify.com/album/44wtfuJv5UJeyEmNZkpM2e) | 2:03 |
 | 72 | [amethyst](https://open.spotify.com/track/0sAOhw3tv1rzpfi1tiRKQL) | [jaackson](https://open.spotify.com/artist/1Mvzmc04DfxzjMsV6oCohI) | [amethyst](https://open.spotify.com/album/4cxQp2Q5D5nRvl2wH3q7X0) | 2:12 |
 | 73 | [slowFi](https://open.spotify.com/track/4aWrBVm1mzziG5g003EkEd) | [knight knight](https://open.spotify.com/artist/7ykZNsdah5u9qzEJ6cvrgg) | [slowFi](https://open.spotify.com/album/52itzxK5WbmBO1RcOcxU9g) | 2:12 |
-| 74 | [Frequency](https://open.spotify.com/track/0vUGOJ60caBjtw5T8mG8xC) | [Indigo Songs](https://open.spotify.com/artist/2BWhKXeKs6nnuRF8Z7v7Mj) | [Frequency](https://open.spotify.com/album/6YMU1IvOsXHLXTrWLKTSVI) | 2:25 |
-| 75 | [seabreeze](https://open.spotify.com/track/4hemND3KD7KrAZsznYW7sy) | [Rustique Beats](https://open.spotify.com/artist/6i2uc5LaqqgBJ6SozGzryq) | [seabreeze](https://open.spotify.com/album/5rH6GmpEdxhhllAvSilwGI) | 1:59 |
+| 74 | [safe](https://open.spotify.com/track/4Z5hkHjVFRKnSU1838IItB) | [little blue](https://open.spotify.com/artist/5WFsnwKBPWK0uFitm41Dv1) | [safe](https://open.spotify.com/album/40LlPRqwG2PgcASrYyG9Ms) | 2:15 |
+| 75 | [Frequency](https://open.spotify.com/track/0vUGOJ60caBjtw5T8mG8xC) | [Indigo Songs](https://open.spotify.com/artist/2BWhKXeKs6nnuRF8Z7v7Mj) | [Frequency](https://open.spotify.com/album/6YMU1IvOsXHLXTrWLKTSVI) | 2:25 |
 
 Snapshot ID: `aC1P2gAAAADYyAwTNXW0p5so2ThQgOHA`

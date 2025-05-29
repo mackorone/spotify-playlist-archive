@@ -4,7 +4,7 @@
 
 > Turn this playlist all the way up! Money Man, Rio Da Yung Og,  Peezy &amp; Tyga.
 
-148 songs - 6 hr 22 min
+150 songs - 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [BBL \(feat\. Rob49\)](https://open.spotify.com/track/6RKaL2SJRb7OPDhApNa2Bc) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [BBL \(feat\. Rob49\)](https://open.spotify.com/album/6WF6Fl2wDrxWIe9AGkMBbW) | 2:26 | 2024-12-09 |  |
 | [BBY GOAT](https://open.spotify.com/track/4KcEwOdMjfKDsroYVy6mnp) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [GEMINI!](https://open.spotify.com/album/1oocvwkq7m9gmJma0SceUi) | 4:10 | 2024-06-14 | 2025-02-01 |
 | [BEAST OUT THE CAGE](https://open.spotify.com/track/5wskdb31Z9aAhtuSkphkF6) | [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L) | [BEAST OUT THE CAGE](https://open.spotify.com/album/3xyUv8Z7PWHRakcSM1P0zg) | 2:53 | 2024-02-20 | 2025-02-01 |
+| [Black Man](https://open.spotify.com/track/4uN65YkcvoHVJdI9Q8zCPj) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Cardo Got Wings](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p) | [Black Man](https://open.spotify.com/album/6ILl9Q8JoNZhNkuRkjLPkY) | 2:40 | 2025-05-28 |  |
 | [Blink Twice](https://open.spotify.com/track/3f3ujFD6YndqRRVYuBcq7T) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Blink Twice](https://open.spotify.com/album/33EhLLKE9Bo2v3ITgAxvuW) | 2:36 | 2025-04-14 |  |
 | [BLOOD DIAMONDS \(feat\. Peysoh\)](https://open.spotify.com/track/03heaSeI0k4pcHhD0v3iqk) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC) | [BLOOD DIAMONDS \(feat\. Peysoh\)](https://open.spotify.com/album/3df0dzVGMVAmlD1irSXAeo) | 2:32 | 2024-11-18 | 2025-02-01 |
 | [Blood Money](https://open.spotify.com/track/16RFHJt4G6sCvYNiamya1n) | [MO3](https://open.spotify.com/artist/44JEJiBvti7NiEhAfzWstv), [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [Blood Money](https://open.spotify.com/album/66CxCiIbp8PQqNLsMhENvR) | 2:40 | 2024-05-20 | 2024-06-15 |
@@ -155,6 +156,7 @@
 | [Wave](https://open.spotify.com/track/780BUxpCmW9vOVYZsqdLLE) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Wave](https://open.spotify.com/album/65dLAih8fOf5UUkplKRvdR) | 3:25 | 2024-09-23 |  |
 | [Way Bigga](https://open.spotify.com/track/5JAUQsLfN5WJ0qL8KJan8l) | [Trigga500k](https://open.spotify.com/artist/3sKEcXiXfFmjp7qOo44qfx) | [Trimmer Den Ever](https://open.spotify.com/album/5XOuzRTrs00lsfbH1zXrIn) | 2:01 | 2023-11-03 | 2025-02-01 |
 | [West Coast Weekend](https://open.spotify.com/track/3qnznOzVFYuDWjidDAxEV4) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [West Coast Weekend](https://open.spotify.com/album/0JGkeI57qkg0jZbqPzzc25) | 3:19 | 2023-06-09 |  |
+| [Won't Be Lonely](https://open.spotify.com/track/1IV5X8CiOr1dfbQcmP2AWO) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv) | [The Big Bang](https://open.spotify.com/album/20pOEJXUCejxsAp14Uuc2e) | 3:50 | 2025-05-28 |  |
 | [Yea Freestyle](https://open.spotify.com/track/1tNIrPGSAhs4wquxihb01G) | [Cash Kidd](https://open.spotify.com/artist/26qmuJTgE3g67pPClBQ3Iu), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [No Socks 3](https://open.spotify.com/album/0TuZ9izuLgcVvN7dKyqRRb) | 3:06 | 2023-09-29 | 2024-01-20 |
 
 \*This playlist was first scraped on 2023-12-14. Prior content cannot be recovered.

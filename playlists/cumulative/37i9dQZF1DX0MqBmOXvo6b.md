@@ -4,7 +4,7 @@
 
 > Concéntrate al máximo, sin distracciones.
 
-724 songs - 1 day 6 hr 43 min
+726 songs - 1 day 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [For A Gentle Morning](https://open.spotify.com/track/35mE5q37ovOCjZGf2P5EG4) | [Jackson Love](https://open.spotify.com/artist/1UgWMZAdp3B83W5kgT6QEC) | [For A Gentle Morning](https://open.spotify.com/album/61znAWhGllMzFk4NtE5LcZ) | 2:44 | 2022-06-07 | 2024-03-06 |
 | [For Brea](https://open.spotify.com/track/7AAiL40T07q44EzwZWhsmf) | [JNUARY](https://open.spotify.com/artist/66A9oG2ybGddl9xwDibKak) | [For Brea](https://open.spotify.com/album/3DhaC4gb4cgt8tLlBEEERI) | 1:57 | 2022-06-07 | 2023-07-12 |
 | [For Kate](https://open.spotify.com/track/4uNQlDhz4fIKvjvdSESKou) | [Ed Chinaski](https://open.spotify.com/artist/1uiURs2L2yxv1vr5vGwbSt) | [For Kate](https://open.spotify.com/album/1eGuJ5nZme9vfMMyb5B07S) | 2:17 | 2022-06-07 | 2025-04-26 |
+| [Forever Yours](https://open.spotify.com/track/2Fa4HWhnE7oiWdiHnjv3aD) | [Lyvia Northman](https://open.spotify.com/artist/5UlShaxI9lS8FdpD4esXvh) | [Forever Yours](https://open.spotify.com/album/373hZdOKeVNCwLsi7VZRJN) | 2:22 | 2025-05-28 |  |
 | [Forevermore](https://open.spotify.com/track/3xZBHTUT1gLAmDbPz77ETo) | [Ambrosiae](https://open.spotify.com/artist/0WtC6Sw0FEuccTgMXoYQPm) | [Forevermore](https://open.spotify.com/album/1uaB2cXT94Sl6V3eN2UFsW) | 2:34 | 2023-06-20 | 2025-03-19 |
 | [Forsaken Land](https://open.spotify.com/track/3pWlQdfMNp4NabYbPAQcje) | [Lorenzo Balzotti](https://open.spotify.com/artist/3hHeHet790nZ3x8ulsu6tC) | [Forsaken Land](https://open.spotify.com/album/2GrqPpnPembHDXm1cWE4oY) | 3:02 | 2022-07-19 | 2024-10-08 |
 | [Fortune Teller](https://open.spotify.com/track/3V5W0NKk7JkGzBMoMOrOHb) | [Lihua Zhao](https://open.spotify.com/artist/7dsYrsCwrZat4t33c7RXPe) | [Fortune Teller](https://open.spotify.com/album/4tai0Aw4yNU9YuS37uqJoM) | 2:24 | 2024-04-22 | 2025-04-26 |
@@ -443,6 +444,7 @@
 | [Perfectly Flawed](https://open.spotify.com/track/6AdGVOupLKxDJTByA1Fs1j) | [Aiden Riedel](https://open.spotify.com/artist/77j4VlHhrvqU37GkYjwmp1) | [Perfectly Flawed](https://open.spotify.com/album/0K5ub7KMLtzFk4zM2nFiAp) | 2:47 | 2022-06-07 | 2024-05-04 |
 | [Persistence](https://open.spotify.com/track/0axAOvyLwfINcKe3tw7U2f) | [Gunnel Boek](https://open.spotify.com/artist/1o402msQD5tWRl4y5jnrvI) | [Persistence](https://open.spotify.com/album/7hihzMSbAIsrcRtSGjebl8) | 2:19 | 2022-06-07 | 2024-09-25 |
 | [Perspectives](https://open.spotify.com/track/4NLORT4CrxkYaegK1ywz4v) | [Gunnel Boek](https://open.spotify.com/artist/1o402msQD5tWRl4y5jnrvI) | [Perspectives](https://open.spotify.com/album/2gSOIVQHLgOt6Fh5lgUPeE) | 3:06 | 2022-06-07 | 2022-07-20 |
+| [Pine Valley](https://open.spotify.com/track/2vx8usJOHF7wohOltf2gsJ) | [Elois Jacq](https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN) | [Pine Valley](https://open.spotify.com/album/2VHmIO8N0ddnVEQjlZ4TdW) | 3:14 | 2025-05-28 |  |
 | [Placid](https://open.spotify.com/track/1u3h3PCvrzTSCSPhCiQH3Q) | [Anoire](https://open.spotify.com/artist/3g7pYrMzsYgKrNPyMKNf7K) | [Placid](https://open.spotify.com/album/3W1xO9Ba7QCJ8vXCsaoE63) | 2:32 | 2022-06-07 | 2024-12-12 |
 | [Plum Coulee](https://open.spotify.com/track/3xfiHpIjVN3pN9wfD6BYMD) | [Michael Janzen](https://open.spotify.com/artist/2Vx2Zfx7Gxu6A6xbwbbtFg) | [Plum Coulee](https://open.spotify.com/album/4sfvTd6E3B6Ta0843XB9WT) | 2:53 | 2022-07-19 |  |
 | [Pointed Leaves](https://open.spotify.com/track/31u3s9hi7vrqm40Kh49j32) | [Bryan Zingerman](https://open.spotify.com/artist/3ba6Q8CQ6ENhKkyqtGnZlL) | [Four Waltz](https://open.spotify.com/album/64Xrn4iTMDdgRgUKBuO3Pc) | 2:46 | 2022-06-07 | 2023-04-16 |
@@ -604,7 +606,7 @@
 | [The Deep End](https://open.spotify.com/track/670UNEC9XyjOvq1HOic4jE) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [The Deep End](https://open.spotify.com/album/6AzacQuQXwJE3dC1ts5NII) | 2:09 | 2022-07-19 | 2022-09-15 |
 | [The Dreams We Left Behind](https://open.spotify.com/track/6KZtv7JVe8fKXaIHPj3Gb2) | [Joy Meyer\-Williams](https://open.spotify.com/artist/0uGHltM64FZJWH1uOr8YWU) | [The Dreams We Left Behind](https://open.spotify.com/album/5wpWx956vb5d7CDGmniwcY) | 3:02 | 2022-06-07 | 2023-07-28 |
 | [The Eleventh Hour](https://open.spotify.com/track/3tW3lL5dCnjKIUfKf22qQN) | [Finn Forsberg](https://open.spotify.com/artist/4yTgrCNA5ym4jRHkU1q9Hd) | [The Eleventh Hour](https://open.spotify.com/album/5lLPdxavpWSer1FAC2hjKx) | 2:34 | 2022-06-07 | 2022-09-24 |
-| [The Emotion of Light \- Revisited](https://open.spotify.com/track/1YOgykOfaRddTMVSxVyESp) | [Lemos](https://open.spotify.com/artist/5nXvkyQwcA3mf2B9Wsd3Lh) | [The Emotion Of Light \(Revisited\)](https://open.spotify.com/album/4bFCPQNJbkSJGVWogzUnVw) | 2:13 | 2022-07-19 |  |
+| [The Emotion of Light \- Revisited](https://open.spotify.com/track/1YOgykOfaRddTMVSxVyESp) | [Lemos](https://open.spotify.com/artist/5nXvkyQwcA3mf2B9Wsd3Lh) | [The Emotion Of Light \(Revisited\)](https://open.spotify.com/album/4bFCPQNJbkSJGVWogzUnVw) | 2:13 | 2022-07-19 | 2025-05-29 |
 | [The Far West](https://open.spotify.com/track/3nI7ooi7HA8oRVSgCKvcE7) | [Lihua Zhao](https://open.spotify.com/artist/7dsYrsCwrZat4t33c7RXPe) | [The Far West](https://open.spotify.com/album/1oS03TkuqigN5sPeG4ubKQ) | 2:51 | 2022-06-07 | 2022-09-15 |
 | [The Field](https://open.spotify.com/track/7Mas670FmorgBqp0GnZOHb) | [Leonard Gambrell](https://open.spotify.com/artist/3UjODKnwbU318wOJhcuxSG) | [The Field](https://open.spotify.com/album/3IboYSaQu2t0zoFU7BkG6Z) | 2:36 | 2022-06-07 | 2022-07-20 |
 | [The Garden Level](https://open.spotify.com/track/5Ku72stdcggstX5jSNeMxN) | [Rachel Page](https://open.spotify.com/artist/5Wa9BCfxcZp6m8buEvClQF) | [Infinite Landing](https://open.spotify.com/album/3OUb8u8blLuUt2i4gnTUdD) | 2:17 | 2022-06-07 | 2022-09-24 |

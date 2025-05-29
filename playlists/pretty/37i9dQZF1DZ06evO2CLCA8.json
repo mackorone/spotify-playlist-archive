@@ -1,12 +1,12 @@
 {
   "description": "This is Tom Petty and the Heartbreakers. The essential tracks, all in one playlist.",
-  "num_followers": 957,
+  "num_followers": 959,
   "original_name": "This Is Tom Petty and the Heartbreakers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDOvAAAAAABlb9ksVBtGF9hdR1nX83gU",
+  "snapshot_id": "aDUAgAAAAACD2zbCNpdfzILe61yWIu3C",
   "tracks": [
     {
       "added_at": null,
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Live Anthology",
-        "url": "https://open.spotify.com/album/1O804nfr6T6BvswqLqd3Lh"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 169893,
-      "name": "Alright for Now - Live",
-      "url": "https://open.spotify.com/track/24PCWkrRVYdt6b7TT9gd6s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tom Petty And The Heartbreakers",
         "url": "https://open.spotify.com/album/0JBy4lxBlQIxMZ8qPMIJER"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 183426,
       "name": "Mystery Man",
       "url": "https://open.spotify.com/track/08aq0woLggpJoUYep1XgN5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Live Anthology",
+        "url": "https://open.spotify.com/album/1O804nfr6T6BvswqLqd3Lh"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 169893,
+      "name": "Alright for Now - Live",
+      "url": "https://open.spotify.com/track/24PCWkrRVYdt6b7TT9gd6s"
     },
     {
       "added_at": null,

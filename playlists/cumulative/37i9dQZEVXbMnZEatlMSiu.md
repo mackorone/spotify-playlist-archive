@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Taiwan.
 
-1,254 songs - 3 day 1 hr 46 min
+1,257 songs - 3 day 1 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [99.9% \(WONWOO Solo\)](https://open.spotify.com/track/6PEeh7wjIJpwTOxjjhsAcJ) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 5th Album 'HAPPY BURSTDAY'](https://open.spotify.com/album/0xlyof8BowaJtYPsxWYmkN) | 3:05 | 2025-05-27 |  |
 | [A Love Before Time](https://open.spotify.com/track/2fgDCzvKVb5G47zdsOzQW5) | [CoCo Lee](https://open.spotify.com/artist/3ioHf138TiMxYRCWmC8yJX) | [Promise](https://open.spotify.com/album/45I9zOLkpyzEBuN2wodeyF) | 3:37 | 2023-07-07 | 2023-07-09 |
 | [A Sky Full of Stars](https://open.spotify.com/track/0FDzzruyVECATHXKHFs9eJ) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Ghost Stories](https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr) | 4:27 | 2023-11-12 | 2023-11-20 |
-| [A Strange Love Song](https://open.spotify.com/track/5SxVJ2qGPoP13ZTZz4yntH) | [Yoga Lin](https://open.spotify.com/artist/1GPoTgvXd5OqZMF1akOsV2) | [A Strange Love Song](https://open.spotify.com/album/202bVHXH17QwF6DnINXZnK) | 4:11 | 2025-05-21 |  |
+| [A Strange Love Song](https://open.spotify.com/track/5SxVJ2qGPoP13ZTZz4yntH) | [Yoga Lin](https://open.spotify.com/artist/1GPoTgvXd5OqZMF1akOsV2) | [A Strange Love Song](https://open.spotify.com/album/202bVHXH17QwF6DnINXZnK) | 4:11 | 2025-05-21 | 2025-05-29 |
 | [ABCD](https://open.spotify.com/track/0V2passWyAXnON67kfAj7y) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [NA](https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7) | 2:42 | 2024-06-15 | 2024-08-20 |
 | [ABCD](https://open.spotify.com/track/53rB05bAi7JdNbUfgz72I1) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [NA](https://open.spotify.com/album/40gIiI8skJeWU05P7FoIse) | 2:42 | 2024-06-16 | 2024-08-10 |
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2021-12-05 | 2022-05-28 |
@@ -144,6 +144,7 @@
 | [Close to You](https://open.spotify.com/track/4z0vfU3JiAsl99ZHL29hMm) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [When the Stars Gossip OST Part.3](https://open.spotify.com/album/5dQAvvKAG5diJ5DLEHCGcc) | 3:48 | 2025-01-28 | 2025-02-16 |
 | [Closer Than This](https://open.spotify.com/track/3k6q0O9JnO2GhvD6C8fs20) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Closer Than This](https://open.spotify.com/album/3auDI7RSdoJr99qMNXimP4) | 3:43 | 2024-07-01 | 2024-07-03 |
 | [Coin](https://open.spotify.com/track/7CZRguMolNqIobnXxpV735) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:13 | 2021-03-27 | 2021-04-04 |
+| [Coincidence \(JEONGHAN Solo\)](https://open.spotify.com/track/1BmA9UsLDblr3cmpWPsjti) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 5th Album 'HAPPY BURSTDAY'](https://open.spotify.com/album/0xlyof8BowaJtYPsxWYmkN) | 2:43 | 2025-05-28 |  |
 | [Cold \(feat\. Goater\)](https://open.spotify.com/track/4dL8Yvr8PQDwItlyVQuZRk) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM), [莫宰羊](https://open.spotify.com/artist/2yN7qnZbV8krGJEB16nUOe) | [Cold \(feat\. Goater\)](https://open.spotify.com/album/3dCOPA0BmltHe3m9HRG0Gu) | 3:12 | 2021-05-20 | 2021-06-05 |
 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/7rglLriMNBPAyuJOMGwi39) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [The Lockdown Sessions](https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om) | 3:22 | 2021-11-14 | 2021-12-09 |
 | [Comedy](https://open.spotify.com/track/5SuOikwiRyPMVoIQDJUgSV) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Comedy](https://open.spotify.com/album/41ERrwfzos93Xlf6hFBiDn) | 3:50 | 2022-04-25 | 2022-07-05 |
@@ -169,6 +170,7 @@
 | [deja vu](https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:35 | 2021-05-23 | 2021-07-11 |
 | [deja vu](https://open.spotify.com/track/61KpQadow081I2AsbeLcsb) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [deja vu](https://open.spotify.com/album/3lwHyR4joA1xB7Nun21EP6) | 3:35 | 2021-04-07 | 2021-05-23 |
 | [Deja Vu](https://open.spotify.com/track/3aAnwyBJY9OLNLqSgd4fZU) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 3: TOMORROW](https://open.spotify.com/album/0mDwrOXZHN1lgCNeBvkBbj) | 2:51 | 2024-04-03 | 2024-05-26 |
+| [Destiny \(WOOZI Solo\)](https://open.spotify.com/track/0z2DWFjnHhuWjlMFqAH4GN) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 5th Album 'HAPPY BURSTDAY'](https://open.spotify.com/album/0xlyof8BowaJtYPsxWYmkN) | 4:21 | 2025-05-28 |  |
 | [Di Da Di](https://open.spotify.com/track/3MmdjiDvWsn5kmDJAbOmiK) | [CoCo Lee](https://open.spotify.com/artist/3ioHf138TiMxYRCWmC8yJX) | [DI\-DA\-DI暗示](https://open.spotify.com/album/1hW9QA6WJxiH8VqxSa4KTz) | 4:29 | 2023-07-07 | 2023-07-09 |
 | [Diamond Days](https://open.spotify.com/track/6n5M2Al3QgTScpO4AZH9OI) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 11th Mini Album 'SEVENTEENTH HEAVEN'](https://open.spotify.com/album/1rE0Gy69MFUh4GuXafWd0f) | 3:25 | 2023-10-24 | 2023-10-28 |
 | [DICE](https://open.spotify.com/track/6C734SmqoIYuRWo2qSCnpC) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [ENTWURF](https://open.spotify.com/album/2uB0PgzqqWLdk2R736sMkP) | 2:45 | 2022-09-21 | 2022-10-11 |
@@ -539,6 +541,7 @@
 | [Pink Venom](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Pink Venom](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) | 3:06 | 2022-08-20 | 2022-09-18 |
 | [Pink Venom](https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 3:06 | 2022-09-17 | 2023-08-18 |
 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 | 2024-06-13 | 2024-09-10 |
+| [Pleasure](https://open.spotify.com/track/72AAKt6SQmRbYSvVKP34QD) | [JOLIN](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [Pleasure](https://open.spotify.com/album/55xKiaSWQ1BABKnueyYsSN) | 2:48 | 2025-05-28 |  |
 | [plot twist](https://open.spotify.com/track/0aZG8KWrpRnsGL0loUkfSj) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TWS 1st Mini Album 'Sparkling Blue'](https://open.spotify.com/album/25qO1VYd8BuT8m5w8CFpdG) | 2:32 | 2024-02-17 | 2024-04-21 |
 | [POP!](https://open.spotify.com/track/3lOMJTQTd6J34faYwASc33) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 2:48 | 2022-06-25 | 2022-06-27 |
 | [POP!](https://open.spotify.com/track/5rJ7bdPmr8nfmm2JQ8xHOz) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [IM NAYEON](https://open.spotify.com/album/7yePounUspaQfanDsw6nI0) | 2:48 | 2022-06-26 | 2022-09-18 |
@@ -1013,7 +1016,7 @@
 | [我会等](https://open.spotify.com/track/5Rzpn60KTM11EBETHaF9Kt) | [承桓](https://open.spotify.com/artist/3ZYhFl4nztqc9vx35vKdUI) | [我会等](https://open.spotify.com/album/3113SgaBiac1ta3gtRnyYk) | 3:15 | 2023-04-17 | 2024-11-13 |
 | [我依然是你的情人](https://open.spotify.com/track/1ueaOJPdLPbsvRRGPf30Ws) | [CoCo Lee](https://open.spotify.com/artist/3ioHf138TiMxYRCWmC8yJX) | [COCO李玟第一張全紀錄精選輯](https://open.spotify.com/album/1Ke7kxbY80SdC0taucXDAP) | 4:22 | 2023-07-07 | 2023-07-09 |
 | [我們好好的](https://open.spotify.com/track/2QKkvbhZgKSkQPvTs6D1Ut) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K) | [我們好好的](https://open.spotify.com/album/2EGlMduiLBYLBMYIyDH0TK) | 4:32 | 2021-09-02 | 2021-09-16 |
-| [我們的愛](https://open.spotify.com/track/0Q4YuuiCuxIIKUw2fb1cmV) | [F.I.R.](https://open.spotify.com/artist/5oqLnVZzJJXE3YnzzZfRKu) | [飛兒樂團](https://open.spotify.com/album/268ZucmIubAGuH8AGwYZEZ) | 4:47 | 2025-02-23 |  |
+| [我們的愛](https://open.spotify.com/track/0Q4YuuiCuxIIKUw2fb1cmV) | [F.I.R.](https://open.spotify.com/artist/5oqLnVZzJJXE3YnzzZfRKu) | [飛兒樂團](https://open.spotify.com/album/268ZucmIubAGuH8AGwYZEZ) | 4:47 | 2025-02-23 | 2025-05-29 |
 | [我們都傷](https://open.spotify.com/track/2Ml2GEyuekwmmzoyC9x4TK) | [Andrew Tan](https://open.spotify.com/artist/5AhK8gDgOZT7lE1UlbyF1c) | [唯一想了解的人](https://open.spotify.com/album/5gIB5uMXeghqzyChfQJOr7) | 4:33 | 2021-05-27 | 2021-06-03 |
 | [我做的是愛不是夢](https://open.spotify.com/track/1aK3V9OCM8GUuMR6GxXhyf) | [NICKTHEREAL](https://open.spotify.com/artist/1fHw35wWkpOw05sswFSl70) | [我做的是愛不是夢](https://open.spotify.com/album/2AoiXOSwuI1gb4nPbsKjBB) | 3:39 | 2022-08-31 | 2022-09-22 |
 | [我反芻著你留下的寂寞](https://open.spotify.com/track/2Qxaglvzsc0129JB4O0XCF) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [我反芻著你留下的寂寞](https://open.spotify.com/album/5mZw3T0H1hK582ePR25C3p) | 4:15 | 2021-12-16 | 2022-01-20 |
@@ -1049,7 +1052,7 @@
 | [摯友](https://open.spotify.com/track/5evE7bweEhX83fd1ZmwPjP) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [摯友](https://open.spotify.com/album/5XhdyuaZcuvgWVR135euye) | 5:13 | 2023-05-20 | 2024-11-20 |
 | [擋一根](https://open.spotify.com/track/6439IQyiZV5I7aOo8UREgm) | [Amazing Show](https://open.spotify.com/artist/3n16EAnJtz6SZGx2zJssrI) | [電火王](https://open.spotify.com/album/2M55kmmq0xR32RKDtBIeHT) | 3:56 | 2025-05-20 | 2025-05-28 |
 | [擱淺](https://open.spotify.com/track/4Rt9k4SE8dbfKzngxKJPq9) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [七里香](https://open.spotify.com/album/27I7fCoQRSdL9PT1nFWEPC) | 3:56 | 2022-11-13 | 2024-01-09 |
-| [擱淺](https://open.spotify.com/track/0cOMncRq4cmDLO4tPQnkBF) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [七里香](https://open.spotify.com/album/6WdM1OfmVIPuQ56QPmaJIr) | 3:58 | 2024-01-08 |  |
+| [擱淺](https://open.spotify.com/track/0cOMncRq4cmDLO4tPQnkBF) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [七里香](https://open.spotify.com/album/6WdM1OfmVIPuQ56QPmaJIr) | 3:58 | 2024-01-08 | 2025-05-29 |
 | [擱淺](https://open.spotify.com/track/56mzU03ZesV0iRroHR2K04) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [七里香](https://open.spotify.com/album/7vSaodFzUYCexkKXeEhkpc) | 3:58 | 2024-09-16 | 2025-05-19 |
 | [敦化南路 \(Revisit\)](https://open.spotify.com/track/1fN2vfoCaDR1CkGsTAn6aT) | [Gummy B](https://open.spotify.com/artist/041GibkKYtPdNlIAqxs1gs) | [大嘻哈時代2: BLOCK TO BLOCK 區域對決](https://open.spotify.com/album/6LFaMq5M9auGTQ2ynneItM) | 4:06 | 2023-03-03 | 2023-03-23 |
 | [新時代](https://open.spotify.com/track/28MATCYDctW5EiBa2repxb) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 3:46 | 2022-08-20 | 2022-10-07 |

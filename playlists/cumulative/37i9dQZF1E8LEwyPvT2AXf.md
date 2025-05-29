@@ -2,7 +2,7 @@
 
 ### [When We Were Young Radio](https://open.spotify.com/playlist/37i9dQZF1E8LEwyPvT2AXf)
 
-> With Adele, Lewis Capaldi, James Arthur and more
+> With Adele, Lewis Capaldi, Harry Styles and more
 
 1,207 songs - 3 day 3 hr 58 min
 

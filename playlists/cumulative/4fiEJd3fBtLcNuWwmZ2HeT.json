@@ -1789,6 +1789,24 @@
     },
     {
       "album": {
+        "name": "Smoking hot",
+        "url": "https://open.spotify.com/album/3YyoL3YnNQKkLAafWkzDix"
+      },
+      "artists": [
+        {
+          "name": "Lady Mellow.",
+          "url": "https://open.spotify.com/artist/55qCSOkDiqf4njLqj0JSiD"
+        }
+      ],
+      "date_added": "2025-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192166,
+      "name": "killer-tune",
+      "url": "https://open.spotify.com/track/7aFxDKk3jUfimCNX9mF36l"
+    },
+    {
+      "album": {
         "name": "Knife of Love",
         "url": "https://open.spotify.com/album/579EA2TK9INZyfuJ1mH7Y9"
       },

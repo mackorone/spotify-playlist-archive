@@ -1471,6 +1471,28 @@
     },
     {
       "album": {
+        "name": "Castelos & Ru\u00ednas",
+        "url": "https://open.spotify.com/album/5BCxlla9sHRzzP302BOMH0"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186806,
+      "name": "O Pr\u00f3ximo Nascer do Sol",
+      "url": "https://open.spotify.com/track/47PieBHqNxpbLZqsDAUCI4"
+    },
+    {
+      "album": {
         "name": "Um",
         "url": "https://open.spotify.com/album/0rcx8BIJykJsZHhUwpcAN0"
       },
@@ -2908,7 +2930,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-29",
       "duration_ms": 195883,
       "name": "Vis\u00e3o Ampla",
       "url": "https://open.spotify.com/track/6SmZgYXem0UdN5vye7h4r5"

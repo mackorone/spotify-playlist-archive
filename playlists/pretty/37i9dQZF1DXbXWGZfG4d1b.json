@@ -1,6 +1,6 @@
 {
   "description": "Rock independiente, pop alternativo y golden hour. ",
-  "num_followers": 24275,
+  "num_followers": 24282,
   "original_name": "6PM Indie",
   "owner": {
     "name": "Spotify",
@@ -391,26 +391,6 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
-        "name": "Mi Verano Oscuro",
-        "url": "https://open.spotify.com/album/1sy7k2IzwSt2z2NoOXjUsp"
-      },
-      "artists": [
-        {
-          "name": "El Culto Casero",
-          "url": "https://open.spotify.com/artist/5FXQksBW1lPVyzT8QQVwzW"
-        },
-        {
-          "name": "Isla de Caras",
-          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
-        }
-      ],
-      "duration_ms": 197005,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/74W7TUPaRUOQgIj60HAcCh"
-    },
-    {
-      "added_at": "2025-05-09 15:00:14",
-      "album": {
         "name": "Medalla De Oro A La Mejor Canci\u00f3n De Amor",
         "url": "https://open.spotify.com/album/3SHCY55PM5ueF7hoiFspgN"
       },
@@ -427,6 +407,26 @@
       "duration_ms": 207181,
       "name": "Medalla De Oro A La Mejor Canci\u00f3n de Amor",
       "url": "https://open.spotify.com/track/5sRbPtGGRrkrtJdRU1p6G3"
+    },
+    {
+      "added_at": "2025-05-09 15:00:14",
+      "album": {
+        "name": "Mi Verano Oscuro",
+        "url": "https://open.spotify.com/album/1sy7k2IzwSt2z2NoOXjUsp"
+      },
+      "artists": [
+        {
+          "name": "El Culto Casero",
+          "url": "https://open.spotify.com/artist/5FXQksBW1lPVyzT8QQVwzW"
+        },
+        {
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+        }
+      ],
+      "duration_ms": 197005,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/74W7TUPaRUOQgIj60HAcCh"
     },
     {
       "added_at": "2025-05-09 15:00:14",
@@ -623,22 +623,6 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
-        "name": "Sombra de Tibur\u00f3n",
-        "url": "https://open.spotify.com/album/3D1JEn6aDdEfqz9eBx47W4"
-      },
-      "artists": [
-        {
-          "name": "Tigre Ulli",
-          "url": "https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v"
-        }
-      ],
-      "duration_ms": 195410,
-      "name": "Malos Sentimientos",
-      "url": "https://open.spotify.com/track/67oBvYeZMkNctGAiXELHVe"
-    },
-    {
-      "added_at": "2025-05-09 15:00:14",
-      "album": {
         "name": "Romance Con la Luna",
         "url": "https://open.spotify.com/album/035K8wr5lzZSvkYIUfb781"
       },
@@ -655,18 +639,34 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
-        "name": "Pacto",
-        "url": "https://open.spotify.com/album/2Pd0XykNsGJq2ggeAik68R"
+        "name": "Sombra de Tibur\u00f3n",
+        "url": "https://open.spotify.com/album/3D1JEn6aDdEfqz9eBx47W4"
       },
       "artists": [
         {
-          "name": "Rocco Posca",
-          "url": "https://open.spotify.com/artist/1d7BLhorBcreW8Zs9SxHcd"
+          "name": "Tigre Ulli",
+          "url": "https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v"
         }
       ],
-      "duration_ms": 183879,
-      "name": "Pacto",
-      "url": "https://open.spotify.com/track/2b1oQoFENaMpI0rB3wqs26"
+      "duration_ms": 195410,
+      "name": "Malos Sentimientos",
+      "url": "https://open.spotify.com/track/67oBvYeZMkNctGAiXELHVe"
+    },
+    {
+      "added_at": "2025-05-09 15:00:14",
+      "album": {
+        "name": "general paz",
+        "url": "https://open.spotify.com/album/4IA2B09XZkxSovqVhonkUR"
+      },
+      "artists": [
+        {
+          "name": "ODD MAMI",
+          "url": "https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6"
+        }
+      ],
+      "duration_ms": 169581,
+      "name": "General Paz",
+      "url": "https://open.spotify.com/track/7uRSvEQAlYng9g92DQY6RX"
     },
     {
       "added_at": "2025-05-09 15:00:14",
@@ -687,18 +687,18 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
-        "name": "general paz",
-        "url": "https://open.spotify.com/album/4IA2B09XZkxSovqVhonkUR"
+        "name": "Pacto",
+        "url": "https://open.spotify.com/album/2Pd0XykNsGJq2ggeAik68R"
       },
       "artists": [
         {
-          "name": "ODD MAMI",
-          "url": "https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6"
+          "name": "Rocco Posca",
+          "url": "https://open.spotify.com/artist/1d7BLhorBcreW8Zs9SxHcd"
         }
       ],
-      "duration_ms": 169581,
-      "name": "General Paz",
-      "url": "https://open.spotify.com/track/7uRSvEQAlYng9g92DQY6RX"
+      "duration_ms": 183879,
+      "name": "Pacto",
+      "url": "https://open.spotify.com/track/2b1oQoFENaMpI0rB3wqs26"
     },
     {
       "added_at": "2025-05-09 15:00:14",
@@ -735,22 +735,6 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
-        "name": "Lapso",
-        "url": "https://open.spotify.com/album/2CBql5YfVAaFq8GuDSu1KU"
-      },
-      "artists": [
-        {
-          "name": "Posguerra",
-          "url": "https://open.spotify.com/artist/6LXuhZRap06bMFoMDxGDAf"
-        }
-      ],
-      "duration_ms": 185314,
-      "name": "Tanto Az\u00facar",
-      "url": "https://open.spotify.com/track/4IM9rnYuCr4Y8T5VyXUih9"
-    },
-    {
-      "added_at": "2025-05-09 15:00:14",
-      "album": {
         "name": "A Veces Casi",
         "url": "https://open.spotify.com/album/38wSM3BSPWuQDjVudCPawT"
       },
@@ -767,18 +751,34 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
-        "name": "Cae la noche",
-        "url": "https://open.spotify.com/album/6zh0kUiR3qiD95UsBi8TYB"
+        "name": "Lapso",
+        "url": "https://open.spotify.com/album/2CBql5YfVAaFq8GuDSu1KU"
       },
       "artists": [
         {
-          "name": "BATOS",
-          "url": "https://open.spotify.com/artist/47ImzDRVg19IIw6IQa2tLI"
+          "name": "Posguerra",
+          "url": "https://open.spotify.com/artist/6LXuhZRap06bMFoMDxGDAf"
         }
       ],
-      "duration_ms": 244144,
-      "name": "Cae la noche",
-      "url": "https://open.spotify.com/track/1BKGYjquRMON7xsPSz51o8"
+      "duration_ms": 185314,
+      "name": "Tanto Az\u00facar",
+      "url": "https://open.spotify.com/track/4IM9rnYuCr4Y8T5VyXUih9"
+    },
+    {
+      "added_at": "2025-05-09 15:00:14",
+      "album": {
+        "name": "ME FUI DE LA FIESTA",
+        "url": "https://open.spotify.com/album/7AiD7jKOyP3JrETPcPaLVN"
+      },
+      "artists": [
+        {
+          "name": "Carolina Donati",
+          "url": "https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT"
+        }
+      ],
+      "duration_ms": 158934,
+      "name": "ME FUI DE LA FIESTA",
+      "url": "https://open.spotify.com/track/3436It4kagYqIlGvHbbBa8"
     },
     {
       "added_at": "2025-05-09 15:00:14",
@@ -799,18 +799,18 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
-        "name": "ME FUI DE LA FIESTA",
-        "url": "https://open.spotify.com/album/7AiD7jKOyP3JrETPcPaLVN"
+        "name": "Cae la noche",
+        "url": "https://open.spotify.com/album/6zh0kUiR3qiD95UsBi8TYB"
       },
       "artists": [
         {
-          "name": "Carolina Donati",
-          "url": "https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT"
+          "name": "BATOS",
+          "url": "https://open.spotify.com/artist/47ImzDRVg19IIw6IQa2tLI"
         }
       ],
-      "duration_ms": 158934,
-      "name": "ME FUI DE LA FIESTA",
-      "url": "https://open.spotify.com/track/3436It4kagYqIlGvHbbBa8"
+      "duration_ms": 244144,
+      "name": "Cae la noche",
+      "url": "https://open.spotify.com/track/1BKGYjquRMON7xsPSz51o8"
     },
     {
       "added_at": "2025-05-09 15:00:14",
@@ -939,22 +939,6 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
-        "name": "LOS VIEJOS CON GUITA",
-        "url": "https://open.spotify.com/album/5eTFsyL5a7d2MlIOYZRiso"
-      },
-      "artists": [
-        {
-          "name": "cata carpena",
-          "url": "https://open.spotify.com/artist/5u13T8YAE8jmv8YRYOuGxx"
-        }
-      ],
-      "duration_ms": 244195,
-      "name": "DOSMILUNO",
-      "url": "https://open.spotify.com/track/5XsIW5AjmCGybWKQ7tYxqd"
-    },
-    {
-      "added_at": "2025-05-09 15:00:14",
-      "album": {
         "name": "Me gusta mirarte de cerca",
         "url": "https://open.spotify.com/album/1IprhVpQu1xf4v2fElr7Kc"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 204875,
       "name": "Me Gusta Mirarte De Cerca",
       "url": "https://open.spotify.com/track/3FbpJoOMjuCOhTQzaqoOTo"
+    },
+    {
+      "added_at": "2025-05-09 15:00:14",
+      "album": {
+        "name": "LOS VIEJOS CON GUITA",
+        "url": "https://open.spotify.com/album/5eTFsyL5a7d2MlIOYZRiso"
+      },
+      "artists": [
+        {
+          "name": "cata carpena",
+          "url": "https://open.spotify.com/artist/5u13T8YAE8jmv8YRYOuGxx"
+        }
+      ],
+      "duration_ms": 244195,
+      "name": "DOSMILUNO",
+      "url": "https://open.spotify.com/track/5XsIW5AjmCGybWKQ7tYxqd"
     },
     {
       "added_at": "2025-05-09 15:00:14",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
-        "name": "malas decisiones",
-        "url": "https://open.spotify.com/album/6FcsRp3ZwHDzBZznM21Os5"
-      },
-      "artists": [
-        {
-          "name": "Delfina Campos",
-          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
-        }
-      ],
-      "duration_ms": 180989,
-      "name": "malas decisiones",
-      "url": "https://open.spotify.com/track/39FkLgL30jP9VnZ4FvO7g7"
-    },
-    {
-      "added_at": "2025-05-09 15:00:14",
-      "album": {
         "name": "Losers' Paradise",
         "url": "https://open.spotify.com/album/0nWLiIqkHQ2LmgkUJ9SwhJ"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 210750,
       "name": "Losers' Paradise",
       "url": "https://open.spotify.com/track/529Hflo1AuaNdEoOmA0ELu"
+    },
+    {
+      "added_at": "2025-05-09 15:00:14",
+      "album": {
+        "name": "malas decisiones",
+        "url": "https://open.spotify.com/album/6FcsRp3ZwHDzBZznM21Os5"
+      },
+      "artists": [
+        {
+          "name": "Delfina Campos",
+          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
+        }
+      ],
+      "duration_ms": 180989,
+      "name": "malas decisiones",
+      "url": "https://open.spotify.com/track/39FkLgL30jP9VnZ4FvO7g7"
     },
     {
       "added_at": "2025-05-09 15:00:14",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
-        "name": "El Hit",
-        "url": "https://open.spotify.com/album/289DmDK5Hnq2Eh0d05HdI7"
-      },
-      "artists": [
-        {
-          "name": "Dum Chica",
-          "url": "https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX"
-        }
-      ],
-      "duration_ms": 193928,
-      "name": "El Hit",
-      "url": "https://open.spotify.com/track/0gt0wTEOGBNxooOdDKbKmm"
-    },
-    {
-      "added_at": "2025-05-09 15:00:14",
-      "album": {
         "name": "Cinta Testigo, Vol. 1",
         "url": "https://open.spotify.com/album/1qqFaVpQnQePKMPrbwlrKW"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 182197,
       "name": "Las Cosas que Fueron Antes",
       "url": "https://open.spotify.com/track/0YCyuxDRdUkiWN2hDPFZwo"
+    },
+    {
+      "added_at": "2025-05-09 15:00:14",
+      "album": {
+        "name": "El Hit",
+        "url": "https://open.spotify.com/album/289DmDK5Hnq2Eh0d05HdI7"
+      },
+      "artists": [
+        {
+          "name": "Dum Chica",
+          "url": "https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX"
+        }
+      ],
+      "duration_ms": 193928,
+      "name": "El Hit",
+      "url": "https://open.spotify.com/track/0gt0wTEOGBNxooOdDKbKmm"
     },
     {
       "added_at": "2025-05-09 15:00:14",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
-        "name": "Que te iba a Decir",
-        "url": "https://open.spotify.com/album/1tNIO5QIAnEAgwirbmYwSr"
-      },
-      "artists": [
-        {
-          "name": "Santiago Moraes",
-          "url": "https://open.spotify.com/artist/2pfLPT9ZTkPrLd8ZJiDBld"
-        }
-      ],
-      "duration_ms": 381577,
-      "name": "Botas encontradas",
-      "url": "https://open.spotify.com/track/1r8Lfim7AeevbTjUWRbAEL"
-    },
-    {
-      "added_at": "2025-05-09 15:00:14",
-      "album": {
         "name": "El Discreto Encanto de la Melod\u00eda",
         "url": "https://open.spotify.com/album/4hKhsNXuzsrNNwep7s3dqH"
       },
@@ -1299,18 +1283,18 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
-        "name": "El Buen Fantasma",
-        "url": "https://open.spotify.com/album/48hbGU7bm2fKzJhoYfI0fA"
+        "name": "Que te iba a Decir",
+        "url": "https://open.spotify.com/album/1tNIO5QIAnEAgwirbmYwSr"
       },
       "artists": [
         {
-          "name": "Tigre Ulli",
-          "url": "https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v"
+          "name": "Santiago Moraes",
+          "url": "https://open.spotify.com/artist/2pfLPT9ZTkPrLd8ZJiDBld"
         }
       ],
-      "duration_ms": 179539,
-      "name": "El Buen Fantasma",
-      "url": "https://open.spotify.com/track/7iLbWqKcFMp5uCxXqDjihM"
+      "duration_ms": 381577,
+      "name": "Botas encontradas",
+      "url": "https://open.spotify.com/track/1r8Lfim7AeevbTjUWRbAEL"
     },
     {
       "added_at": "2025-05-09 15:00:14",
@@ -1331,6 +1315,22 @@
       "duration_ms": 226715,
       "name": "GLEEMONEX",
       "url": "https://open.spotify.com/track/2JU1pR0bBAWijuu9uVipNm"
+    },
+    {
+      "added_at": "2025-05-09 15:00:14",
+      "album": {
+        "name": "El Buen Fantasma",
+        "url": "https://open.spotify.com/album/48hbGU7bm2fKzJhoYfI0fA"
+      },
+      "artists": [
+        {
+          "name": "Tigre Ulli",
+          "url": "https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v"
+        }
+      ],
+      "duration_ms": 179539,
+      "name": "El Buen Fantasma",
+      "url": "https://open.spotify.com/track/7iLbWqKcFMp5uCxXqDjihM"
     },
     {
       "added_at": "2025-05-09 15:00:14",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
-        "name": "Perd\u00f3n pero con estas gafas no te escucho nada",
-        "url": "https://open.spotify.com/album/6h1wX7CQWb04qZRzMYFF4O"
-      },
-      "artists": [
-        {
-          "name": "Fantasmagoria",
-          "url": "https://open.spotify.com/artist/59zFIrLQf6ht2Edo0BarLn"
-        }
-      ],
-      "duration_ms": 118625,
-      "name": "Perd\u00f3n pero con estas gafas no te escucho nada",
-      "url": "https://open.spotify.com/track/1CD3JzkGVGylR2NpBgu3Qu"
-    },
-    {
-      "added_at": "2025-05-09 15:00:14",
-      "album": {
         "name": "VOLVER A CERO",
         "url": "https://open.spotify.com/album/0RYkXZaDl8Ts08iSuP9GmA"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 186250,
       "name": "VOLVER A CERO",
       "url": "https://open.spotify.com/track/7qbWxkPj2QexzkWIGz9sxs"
+    },
+    {
+      "added_at": "2025-05-09 15:00:14",
+      "album": {
+        "name": "Perd\u00f3n pero con estas gafas no te escucho nada",
+        "url": "https://open.spotify.com/album/6h1wX7CQWb04qZRzMYFF4O"
+      },
+      "artists": [
+        {
+          "name": "Fantasmagoria",
+          "url": "https://open.spotify.com/artist/59zFIrLQf6ht2Edo0BarLn"
+        }
+      ],
+      "duration_ms": 118625,
+      "name": "Perd\u00f3n pero con estas gafas no te escucho nada",
+      "url": "https://open.spotify.com/track/1CD3JzkGVGylR2NpBgu3Qu"
     },
     {
       "added_at": "2025-05-09 15:00:14",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
-        "name": "ya soy, ya tengo",
-        "url": "https://open.spotify.com/album/7sLpt0HqSqdIaLvwwQuV8L"
-      },
-      "artists": [
-        {
-          "name": "Tarsitano",
-          "url": "https://open.spotify.com/artist/33bFzRzGGTXNRuQsPlsjXG"
-        }
-      ],
-      "duration_ms": 249245,
-      "name": "ya soy, ya tengo",
-      "url": "https://open.spotify.com/track/1Xfzs3OXZg5aZ6pSj64ngb"
-    },
-    {
-      "added_at": "2025-05-09 15:00:14",
-      "album": {
         "name": "Fantas\u00edas de Violencia",
         "url": "https://open.spotify.com/album/19OW2y7pIYn6AKGSTA9Ys4"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 253177,
       "name": "Los Carritos",
       "url": "https://open.spotify.com/track/5WqyFYPGHGoEQWGZC4cC3i"
+    },
+    {
+      "added_at": "2025-05-09 15:00:14",
+      "album": {
+        "name": "ya soy, ya tengo",
+        "url": "https://open.spotify.com/album/7sLpt0HqSqdIaLvwwQuV8L"
+      },
+      "artists": [
+        {
+          "name": "Tarsitano",
+          "url": "https://open.spotify.com/artist/33bFzRzGGTXNRuQsPlsjXG"
+        }
+      ],
+      "duration_ms": 249245,
+      "name": "ya soy, ya tengo",
+      "url": "https://open.spotify.com/track/1Xfzs3OXZg5aZ6pSj64ngb"
     },
     {
       "added_at": "2025-05-09 15:00:14",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
-        "name": "Pastillas",
-        "url": "https://open.spotify.com/album/3mWjW6kkcyE2R1DF40BQqo"
-      },
-      "artists": [
-        {
-          "name": "Clara_mente",
-          "url": "https://open.spotify.com/artist/2fT7IpuxCPeR81zCxf9olk"
-        }
-      ],
-      "duration_ms": 200014,
-      "name": "Pastillas",
-      "url": "https://open.spotify.com/track/51SYnvMbQqIiw8EbGh2HZK"
-    },
-    {
-      "added_at": "2025-05-09 15:00:14",
-      "album": {
         "name": "Revoluci\u00f3n",
         "url": "https://open.spotify.com/album/3YrjpZoeTshiFMkXlwG4Yr"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 137887,
       "name": "Revoluci\u00f3n",
       "url": "https://open.spotify.com/track/5CNE2KaVa7x3H5lGJOM132"
+    },
+    {
+      "added_at": "2025-05-09 15:00:14",
+      "album": {
+        "name": "Pastillas",
+        "url": "https://open.spotify.com/album/3mWjW6kkcyE2R1DF40BQqo"
+      },
+      "artists": [
+        {
+          "name": "Clara_mente",
+          "url": "https://open.spotify.com/artist/2fT7IpuxCPeR81zCxf9olk"
+        }
+      ],
+      "duration_ms": 200014,
+      "name": "Pastillas",
+      "url": "https://open.spotify.com/track/51SYnvMbQqIiw8EbGh2HZK"
     },
     {
       "added_at": "2025-05-09 15:00:14",

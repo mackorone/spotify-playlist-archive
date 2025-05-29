@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-377 songs - 1 day 0 hr 54 min
+378 songs - 1 day 0 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Chance On You \(feat\. KUČKA\)](https://open.spotify.com/track/0Byefko3vpr0FV8BIQmOsH) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Chance On You \(feat\. KUČKA\)](https://open.spotify.com/album/6rSHU53ifkacE59zpNUBxv) | 3:14 | 2024-03-29 | 2024-08-18 |
 | [Changed For The Better \- Disco Version](https://open.spotify.com/track/2vLwnsh9J6uZqvWoemd6HC) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [Night Versions](https://open.spotify.com/album/4IswLnf0haAgObRJ0gXVFc) | 4:34 | 2024-10-04 | 2025-03-05 |
 | [Chasing Thrills](https://open.spotify.com/track/1ce0YjciXVfVjzQtAYWHoL) | [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Harry Stone](https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96) | [Chasing Thrills](https://open.spotify.com/album/4OEZyk2librDK5xV4NH0Es) | 3:06 | 2025-03-07 | 2025-03-10 |
+| [cinematic love](https://open.spotify.com/track/69Wb51WdMcjZa1Z4O9QLHP) | [Soul Legend](https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy) | [cinematic love](https://open.spotify.com/album/5C6TUoCrNGmGCGVLYEwJ94) | 2:09 | 2025-05-23 |  |
 | [Closer To Me](https://open.spotify.com/track/5SCvUWfDY3XuvyS6oap0Le) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Nazzereene](https://open.spotify.com/artist/3juwo4sTF5okJNvCfQpArZ) | [Closer To Me](https://open.spotify.com/album/2BUwdL6f9Sv4EHDHJ8NhHD) | 3:35 | 2025-04-11 |  |
 | [Collect 200](https://open.spotify.com/track/5wMhlHcon8U2WNA05QMUb6) | [Collect 200](https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE) | [Collect 200](https://open.spotify.com/album/3wgNFsGLpAFDFIKsce1EKe) | 2:50 | 2025-04-25 |  |
 | [COLOGNE](https://open.spotify.com/track/0nh7PHjK9n0w9hu4Ka1HkL) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [COLOGNE](https://open.spotify.com/album/79omah7LR2uicio2GTfxZ1) | 3:20 | 2024-06-14 |  |
@@ -356,7 +357,7 @@
 | [Type of Girl Pt\. 2](https://open.spotify.com/track/3PfCagzJEW85noY9XLykVs) | [Teilz](https://open.spotify.com/artist/5FXeiHtcyalHwoeViwaEno), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Type of Girl](https://open.spotify.com/album/6wZffGiz4L7TSOCR3M27iQ) | 4:25 | 2024-08-02 | 2024-09-29 |
 | [u can get it](https://open.spotify.com/track/3TgBBgdNupVOVKDVskdO0f) | [Soul Legend](https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy) | [u can get it](https://open.spotify.com/album/75Na6z7eq9oeAB44g6fSE8) | 2:54 | 2024-12-06 |  |
 | [Unconditional feat\. Rationale \- Extended Version](https://open.spotify.com/track/2ETcVAJp0womgNLhC1Esgt) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Rationale](https://open.spotify.com/artist/2IQDM5URYGYfSMmwhTCmyy) | [Unconditional feat\. Rationale \(Extended Version\)](https://open.spotify.com/album/2oHFjPiBi2VSLFzlinbzTk) | 6:22 | 2024-04-26 | 2024-07-15 |
-| [Unconditional feat\. Rationale \- Girls of the Internet Remix](https://open.spotify.com/track/6ela7oGjcs7g9C7RmzgJu9) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Rationale](https://open.spotify.com/artist/2IQDM5URYGYfSMmwhTCmyy), [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [Unconditional feat\. Rationale \(Girls of the Internet Remix\)](https://open.spotify.com/album/3gUYvadzKc0kkqhVVr7wpF) | 3:50 | 2024-06-28 |  |
+| [Unconditional feat\. Rationale \- Girls of the Internet Remix](https://open.spotify.com/track/6ela7oGjcs7g9C7RmzgJu9) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Rationale](https://open.spotify.com/artist/2IQDM5URYGYfSMmwhTCmyy), [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [Unconditional feat\. Rationale \(Girls of the Internet Remix\)](https://open.spotify.com/album/3gUYvadzKc0kkqhVVr7wpF) | 3:50 | 2024-06-28 | 2025-05-29 |
 | [Under My Skin](https://open.spotify.com/track/2YHWK4dHz9dcL4gAeMXvF6) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Nazzereene](https://open.spotify.com/artist/3juwo4sTF5okJNvCfQpArZ) | [Under My Skin](https://open.spotify.com/album/712jM2DQdTggQ3Uzp8cxW9) | 3:42 | 2024-09-20 |  |
 | [Unholy Delights](https://open.spotify.com/track/1K7CGcnQpclZiuUtFGXo4o) | [Dye O](https://open.spotify.com/artist/3AihmaPi9Wr3O7z578f6mH) | [Unholy Delights](https://open.spotify.com/album/2EgnK1VNU4wv952DUhvwPO) | 3:08 | 2023-10-27 | 2024-03-31 |
 | [UP DOWN BOUNCE](https://open.spotify.com/track/1inQivxnbFbeUyfeCWgg3Y) | [veggi](https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v), [daste.](https://open.spotify.com/artist/5uXWOfu1kA8mQ9bUp5GgxT) | [UP DOWN BOUNCE](https://open.spotify.com/album/4Dm17A5CiFkuDAVSRTPQNd) | 3:08 | 2024-09-13 |  |

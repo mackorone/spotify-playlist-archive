@@ -1,6 +1,6 @@
 {
   "description": "Grandes relatos de toque reflexivo y visi\u00f3n consciente.",
-  "num_followers": 111641,
+  "num_followers": 111675,
   "original_name": "Rap Conciencia",
   "owner": {
     "name": "Spotify",
@@ -871,18 +871,18 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
-        "name": "Relojito",
-        "url": "https://open.spotify.com/album/34FyjWq7YB1bIGkBKCjRwu"
+        "name": "Espacio",
+        "url": "https://open.spotify.com/album/4jsKse94WxNSuO6osmSyNs"
       },
       "artists": [
         {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+          "name": "Bocafloja",
+          "url": "https://open.spotify.com/artist/2bj9MQez88g09q4NSr2xjS"
         }
       ],
-      "duration_ms": 144438,
-      "name": "Relojito",
-      "url": "https://open.spotify.com/track/6FMbb1G5p7H0n6lDxsZYKt"
+      "duration_ms": 275318,
+      "name": "Espacio",
+      "url": "https://open.spotify.com/track/4Qlji49yh5giZ1FaGrcka1"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -907,18 +907,18 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
-        "name": "Espacio",
-        "url": "https://open.spotify.com/album/4jsKse94WxNSuO6osmSyNs"
+        "name": "Relojito",
+        "url": "https://open.spotify.com/album/34FyjWq7YB1bIGkBKCjRwu"
       },
       "artists": [
         {
-          "name": "Bocafloja",
-          "url": "https://open.spotify.com/artist/2bj9MQez88g09q4NSr2xjS"
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
         }
       ],
-      "duration_ms": 275318,
-      "name": "Espacio",
-      "url": "https://open.spotify.com/track/4Qlji49yh5giZ1FaGrcka1"
+      "duration_ms": 144438,
+      "name": "Relojito",
+      "url": "https://open.spotify.com/track/6FMbb1G5p7H0n6lDxsZYKt"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -1023,42 +1023,6 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
-        "name": "Ellas",
-        "url": "https://open.spotify.com/album/4VpdPretQ3aI1cwXFhlFhY"
-      },
-      "artists": [
-        {
-          "name": "Akil Ammar",
-          "url": "https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr"
-        },
-        {
-          "name": "El David Aguilar",
-          "url": "https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk"
-        }
-      ],
-      "duration_ms": 284413,
-      "name": "Ellas",
-      "url": "https://open.spotify.com/track/5OqS4GrqPeL1EcFNxGAJ5y"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
-        "name": "Intraterreno",
-        "url": "https://open.spotify.com/album/5ozLNE6qkjZGJ5Inf54tX5"
-      },
-      "artists": [
-        {
-          "name": "Mecal",
-          "url": "https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5"
-        }
-      ],
-      "duration_ms": 234428,
-      "name": "Intraterreno",
-      "url": "https://open.spotify.com/track/5bcrz9x6c3NfiZlvQNlzzW"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
         "name": "El eslab\u00f3n perdido",
         "url": "https://open.spotify.com/album/0cnmNoOmJCsRYTruZmE8oq"
       },
@@ -1079,6 +1043,42 @@
       "duration_ms": 213334,
       "name": "El eslab\u00f3n perdido",
       "url": "https://open.spotify.com/track/5oPhZx0Ap6kcJKBIfzzy6D"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
+        "name": "Intraterreno",
+        "url": "https://open.spotify.com/album/5ozLNE6qkjZGJ5Inf54tX5"
+      },
+      "artists": [
+        {
+          "name": "Mecal",
+          "url": "https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5"
+        }
+      ],
+      "duration_ms": 234428,
+      "name": "Intraterreno",
+      "url": "https://open.spotify.com/track/5bcrz9x6c3NfiZlvQNlzzW"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
+        "name": "Ellas",
+        "url": "https://open.spotify.com/album/4VpdPretQ3aI1cwXFhlFhY"
+      },
+      "artists": [
+        {
+          "name": "Akil Ammar",
+          "url": "https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr"
+        },
+        {
+          "name": "El David Aguilar",
+          "url": "https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk"
+        }
+      ],
+      "duration_ms": 284413,
+      "name": "Ellas",
+      "url": "https://open.spotify.com/track/5OqS4GrqPeL1EcFNxGAJ5y"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -1123,42 +1123,6 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
-        "name": "Flow Leyenda",
-        "url": "https://open.spotify.com/album/22zga9v4YH6DXtvpu9YIvw"
-      },
-      "artists": [
-        {
-          "name": "Flaco Flow y Melanina",
-          "url": "https://open.spotify.com/artist/7HYiFaf8421jcAZtEHIuv2"
-        }
-      ],
-      "duration_ms": 194042,
-      "name": "Flow Leyenda",
-      "url": "https://open.spotify.com/track/2HUzFoPdLNQFYSz7g4POhP"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
-        "name": "M\u00e1s & Menos",
-        "url": "https://open.spotify.com/album/6PF5Nfua8PnfihIwSxdwus"
-      },
-      "artists": [
-        {
-          "name": "Akil Ammar",
-          "url": "https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr"
-        },
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        }
-      ],
-      "duration_ms": 269413,
-      "name": "M\u00e1s & Menos",
-      "url": "https://open.spotify.com/track/3JccwWX1NKkIGQYppnjtCA"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
         "name": "Plomo en el Aire",
         "url": "https://open.spotify.com/album/45LpcCIYNG7CptIGvLcMhX"
       },
@@ -1179,6 +1143,22 @@
       "duration_ms": 207804,
       "name": "Plomo en el Aire",
       "url": "https://open.spotify.com/track/1mMeJH8C1LifR1QTPFdAN0"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
+        "name": "Flow Leyenda",
+        "url": "https://open.spotify.com/album/22zga9v4YH6DXtvpu9YIvw"
+      },
+      "artists": [
+        {
+          "name": "Flaco Flow y Melanina",
+          "url": "https://open.spotify.com/artist/7HYiFaf8421jcAZtEHIuv2"
+        }
+      ],
+      "duration_ms": 194042,
+      "name": "Flow Leyenda",
+      "url": "https://open.spotify.com/track/2HUzFoPdLNQFYSz7g4POhP"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -1243,6 +1223,26 @@
       "duration_ms": 642229,
       "name": "MORE FYAH",
       "url": "https://open.spotify.com/track/4L3eRmXwGZ4fPcvtF285El"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
+        "name": "M\u00e1s & Menos",
+        "url": "https://open.spotify.com/album/6PF5Nfua8PnfihIwSxdwus"
+      },
+      "artists": [
+        {
+          "name": "Akil Ammar",
+          "url": "https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr"
+        },
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        }
+      ],
+      "duration_ms": 269413,
+      "name": "M\u00e1s & Menos",
+      "url": "https://open.spotify.com/track/3JccwWX1NKkIGQYppnjtCA"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
+        "name": "Psicofonia",
+        "url": "https://open.spotify.com/album/1G7aXRkiE08dm6tlf93qQw"
+      },
+      "artists": [
+        {
+          "name": "Aczino",
+          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
+        }
+      ],
+      "duration_ms": 184255,
+      "name": "Matar o Morir",
+      "url": "https://open.spotify.com/track/1ApXrpI3xopc2kaOpq46vV"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
         "name": "Hombre (One Shot) [Remix]",
         "url": "https://open.spotify.com/album/3bCmiho1yBiqd6Udt3ayEY"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 184600,
       "name": "Hombre (One Shot) - Remix",
       "url": "https://open.spotify.com/track/7ClQWd6CqBYi0LZRgILUvl"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
-        "name": "Psicofonia",
-        "url": "https://open.spotify.com/album/1G7aXRkiE08dm6tlf93qQw"
-      },
-      "artists": [
-        {
-          "name": "Aczino",
-          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
-        }
-      ],
-      "duration_ms": 184255,
-      "name": "Matar o Morir",
-      "url": "https://open.spotify.com/track/1ApXrpI3xopc2kaOpq46vV"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
-        "name": "104",
-        "url": "https://open.spotify.com/album/3O0lfld5JKQuxjXPAmIZqy"
-      },
-      "artists": [
-        {
-          "name": "Fermin IV",
-          "url": "https://open.spotify.com/artist/74OPWhLPyLylAzgqcJlNMm"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "104",
-      "url": "https://open.spotify.com/track/5OaGRA4vQjvKwSRVsFvgku"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
         "name": "Tiempos Felices",
         "url": "https://open.spotify.com/album/7AHNb6VALxScuuUYcmd90L"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 201399,
       "name": "Tiempos Felices",
       "url": "https://open.spotify.com/track/4lS1HxKXFMinRnsz6PqywA"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
+        "name": "104",
+        "url": "https://open.spotify.com/album/3O0lfld5JKQuxjXPAmIZqy"
+      },
+      "artists": [
+        {
+          "name": "Fermin IV",
+          "url": "https://open.spotify.com/artist/74OPWhLPyLylAzgqcJlNMm"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "104",
+      "url": "https://open.spotify.com/track/5OaGRA4vQjvKwSRVsFvgku"
     },
     {
       "added_at": "2025-05-23 06:00:30",

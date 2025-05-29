@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcGFLus6X9T4.md) - [plain]
 
 > The official playlist for The Adam Project\. Watch on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,144 likes - 34 songs - 1 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,150 likes - 34 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcGFLus6X9T4.md) - [plain]
 | 9 | [Let It Be](https://open.spotify.com/track/1xflb6sCgJjMqbdtakgONq) | [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [Let It Be](https://open.spotify.com/album/1dReIAToRq9PGXlsDWzRE9) | 3:42 |
 | 10 | [Good Times Bad Times \- 1993 Remaster](https://open.spotify.com/track/0QwZfbw26QeUoIy82Z2jYp) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin](https://open.spotify.com/album/3ycjBixZf7S3WpC5WZhhUK) | 2:46 |
 | 11 | [Make Good Choices](https://open.spotify.com/track/27xCKOledz9hgo0CZzh5QX) | [Rob Simonsen](https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J) | [The Adam Project \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/549SOdyJdLUojqoXBynu9O) | 2:09 |
-| 12 | [15 Inventions, BWV 772\-786: No\. 6 in E Major, BWV 777](https://open.spotify.com/track/6QOdI0QfO1iBhuNGc86rBg) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [András Schiff](https://open.spotify.com/artist/24K6LTZFqBAvKsorwK0iXd) | [Bach, J.S.: Two and Three Part Inventions](https://open.spotify.com/album/7B6F306xdRIC0A1Rka5cbg) | 3:18 |
+| 12 | [Invention No\. 6 in E Major, BWV 777](https://open.spotify.com/track/6QOdI0QfO1iBhuNGc86rBg) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [András Schiff](https://open.spotify.com/artist/24K6LTZFqBAvKsorwK0iXd) | [Bach, J.S.: Two and Three Part Inventions](https://open.spotify.com/album/7B6F306xdRIC0A1Rka5cbg) | 3:18 |
 | 13 | [Plan A](https://open.spotify.com/track/0pZz0tKIdgfUJs6LGab4vH) | [Rob Simonsen](https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J) | [The Adam Project \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/549SOdyJdLUojqoXBynu9O) | 1:53 |
 | 14 | [40 Years Young](https://open.spotify.com/track/1wFJbaG7kT8nh95a4bZ2CK) | [Muzak Orchestra](https://open.spotify.com/artist/0tHtKepUi7LKuN2q7wb6is) | [Stimulus Progression 6 \- Muzak: 40 Years, More Than a Name](https://open.spotify.com/album/7uTdnkFM0W4fsAiLnHtByh) | 1:52 |
 | 15 | [You Can Be a Real Jerk](https://open.spotify.com/track/4pLLEs4eKEPhkJpjd0sQ8q) | [Rob Simonsen](https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J) | [The Adam Project \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/549SOdyJdLUojqoXBynu9O) | 1:21 |
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcGFLus6X9T4.md) - [plain]
 | 33 | [Catch](https://open.spotify.com/track/5vF93IIbs14hxgvybrajmy) | [Rob Simonsen](https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J) | [The Adam Project \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/549SOdyJdLUojqoXBynu9O) | 4:27 |
 | 34 | [I Found You Again](https://open.spotify.com/track/11KmkY1FSpmNBfyLQv5VKE) | [Rob Simonsen](https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J) | [The Adam Project \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/549SOdyJdLUojqoXBynu9O) | 1:42 |
 
-Snapshot ID: `ZIsR9AAAAABavZfMDR+wO4QD5A2GvTs5`
+Snapshot ID: `ZIsR9AAAAADJ3XnKbKiwlFbRQe1kBpAA`

@@ -4,7 +4,7 @@
 
 > The freshest Hip Hop and R&amp;B.
 
-373 songs - 16 hr 26 min
+379 songs - 16 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Aye Citch](https://open.spotify.com/track/6zyJ3S9wKZ2WQHl8Yz7k10) | [Zoe Osama](https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz) | [Aye Citch](https://open.spotify.com/album/2V0HcbojfIQuAhtYOq3lfS) | 2:17 | 2024-05-20 | 2024-11-19 |
 | [B&E](https://open.spotify.com/track/3mACxKdKihqX6p1xnSFJUQ) | [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX) | [B&E](https://open.spotify.com/album/1oyiRs3DZGTWgac445z9U3) | 2:07 | 2024-05-15 | 2024-11-19 |
 | [B2A \(belt 2 ass\)](https://open.spotify.com/track/5I5riGGzguZODuaYlifUs9) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [B2A \(belt 2 ass\)](https://open.spotify.com/album/4c3uikJdDRMI4JXP0cUGs0) | 2:50 | 2025-04-29 |  |
+| [Baby](https://open.spotify.com/track/16XlQ75mVEp4wlfdTvGcnP) | [RJMrLA](https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN) | [Baby](https://open.spotify.com/album/6J1yejuu881CRYihj6PQCN) | 2:21 | 2025-05-28 |  |
 | [Back](https://open.spotify.com/track/2XsW6TVzdKOpSp5XEDvGeu) | [RJMrLA](https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN), [Lil Vada](https://open.spotify.com/artist/61HlkUsczjBP7IODEMFtrB) | [BIG LA](https://open.spotify.com/album/2XxI56qhPHtyGXnacu5IoZ) | 2:32 | 2024-07-22 | 2024-11-19 |
 | [back it up](https://open.spotify.com/track/11H4HMp6cbBmq1jX2XIRFU) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [back it up](https://open.spotify.com/album/79NlxG2zasYDYcIBFVA7rq) | 2:12 | 2025-01-31 | 2025-02-25 |
 | [Backslide](https://open.spotify.com/track/3fpF1wbhka6wD52euq4UaU) | [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX) | [Backslide](https://open.spotify.com/album/7ActXZISNRFX3jBRPcE7XW) | 2:43 | 2023-08-28 | 2024-01-13 |
@@ -71,6 +72,7 @@
 | [Cashout](https://open.spotify.com/track/3jMkQImrpgdMpziv9WYj5v) | [Payroll Giovanni](https://open.spotify.com/artist/6q2peHL8h2vUGvWNbsIjii) | [Have Money Have Heart](https://open.spotify.com/album/5k0hR6M4hFs6mS5X5wbqj5) | 2:33 | 2024-05-20 | 2024-11-19 |
 | [Celebrity Status](https://open.spotify.com/track/6qTVt8nIu3UzFe6qXmtEao) | [Talibando](https://open.spotify.com/artist/5Uv0QiFyiS6dI5tqgiJciI) | [Celebrity Status](https://open.spotify.com/album/6M1H4iaKsUYjEPoTMwqVlF) | 1:26 | 2023-09-08 | 2024-01-13 |
 | [Charged Up](https://open.spotify.com/track/4HN6CicOpFp1nrkxHFM3Gt) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Charged Up](https://open.spotify.com/album/7tM3cKpt6DrUg1OW4B4BSf) | 2:59 | 2024-04-24 | 2024-07-23 |
+| [CHEAP!](https://open.spotify.com/track/7vUgSkFKIkcdbROR2Noke7) | [MAYCE](https://open.spotify.com/artist/5MLjCi6tlmcBXNyklgRzaZ) | [CHEAP!](https://open.spotify.com/album/7fVUcgvFguHNcHxK8xvfby) | 2:50 | 2025-05-28 |  |
 | [Cheat On You](https://open.spotify.com/track/5eEujB7GCM34vovJBGCU50) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Cheat On You](https://open.spotify.com/album/38bYEvgGHZ4su9AKt3Dudz) | 3:21 | 2025-04-14 |  |
 | [Chops on the Blade](https://open.spotify.com/track/74Fqn1olHLrMlL6deu4ExE) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Cardo](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p) | [Chops on the Blade](https://open.spotify.com/album/1W8rO7SBVNsjB2v197I0bk) | 3:32 | 2023-10-13 | 2024-01-20 |
 | [Chosen 1](https://open.spotify.com/track/1K0UPJWF8VCm2lbLvpyRGX) | [Trigga500k](https://open.spotify.com/artist/3sKEcXiXfFmjp7qOo44qfx) | [Chosen 1](https://open.spotify.com/album/7CFCrL0NgSAwWKxOnjo5ef) | 1:40 | 2024-09-23 | 2025-02-25 |
@@ -128,6 +130,7 @@
 | [FOR YOU](https://open.spotify.com/track/4p6fJ7g1keUlBfr1kCAol7) | [Samuel Shabazz](https://open.spotify.com/artist/20V5Q17099P2NNExkMStg7) | [FOR YOU](https://open.spotify.com/album/78kj9yMQM2KxgcjznvccZ4) | 3:01 | 2024-06-01 | 2024-11-19 |
 | [Forever On That](https://open.spotify.com/track/2DUuNEHxyeRz1JOZb9URyV) | [Rucci](https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA) | [Forever On That](https://open.spotify.com/album/2bMaqdD3xeDs9qWROkSgSP) | 2:08 | 2024-01-19 | 2024-05-21 |
 | [forward back](https://open.spotify.com/track/46eKpZPwKygAY2jAEKcqFC) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [forward back](https://open.spotify.com/album/274MW5GJam6hhnTJbT8Vtw) | 1:24 | 2024-09-23 | 2025-02-25 |
+| [FOUL MOUTH](https://open.spotify.com/track/5BmbeND29Ic8tXyrvUviOf) | [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY) | [FOUL MOUTH](https://open.spotify.com/album/4AsYPrzsntzmiLSIXNj7Iy) | 2:46 | 2025-05-28 |  |
 | [Free My Mind](https://open.spotify.com/track/0hJFRBkbBS20cLnVnQZQuv) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Free My Mind](https://open.spotify.com/album/7tCumu7kRFLx7lF306jfCY) | 3:25 | 2023-10-13 | 2024-01-20 |
 | [FTW](https://open.spotify.com/track/3FtdFxk3mXsBtmCICjIYOZ) | [G.T.](https://open.spotify.com/artist/7LPqtwClp78XM85lJWaiKQ), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [FTW](https://open.spotify.com/album/3QopZMe12YsPHvz3LXJAx4) | 2:28 | 2025-03-31 |  |
 | [Fuck Around & Find Out](https://open.spotify.com/track/61KPSucpAHpMNo1AxjsVMT) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Fuck Around & Find Out](https://open.spotify.com/album/4WPMyya2jn2GoVAEHEUBr8) | 2:30 | 2024-05-20 | 2024-11-19 |
@@ -229,6 +232,7 @@
 | [MAKE IT HOT](https://open.spotify.com/track/1ETvswRlijobMKkLKTfHvJ) | [Ron Suno](https://open.spotify.com/artist/3A63dHvKuavknOcvWVgZA9) | [MAKE IT HOT](https://open.spotify.com/album/6nho8M9Q3oqB5rV7dZfeH7) | 1:45 | 2023-09-28 | 2024-01-13 |
 | [Man Up](https://open.spotify.com/track/2RqkLttkL59wqTbGd9VbaB) | [Cash Kidd](https://open.spotify.com/artist/26qmuJTgE3g67pPClBQ3Iu), [Bfb Da Packman](https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF) | [No Socks 3](https://open.spotify.com/album/0TuZ9izuLgcVvN7dKyqRRb) | 3:24 | 2023-09-29 | 2024-01-13 |
 | [matilda](https://open.spotify.com/track/37Cas67bPJXIuS7qAgSax6) | [Lil Bean](https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef) | [BACK TO THE BASICS 2](https://open.spotify.com/album/6HLn9gOY0tNwPBW6A8IwBz) | 2:36 | 2024-05-15 | 2024-11-19 |
+| [Max Payne](https://open.spotify.com/track/3f0tgBGJKs0Q6q8yr5MXwV) | [ZayBang](https://open.spotify.com/artist/4knZcINThe7rbCYx0FVewG), [Lil Bean](https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef), [EBK Young Joc](https://open.spotify.com/artist/4lPU30QB53QTUVhkjcb0WS) | [Love From A Distance](https://open.spotify.com/album/2plrAwLetLhO1F98eIcgWc) | 3:01 | 2025-05-28 |  |
 | [Maya Angelou](https://open.spotify.com/track/387KUid0zJ88RAMvauKNHt) | [Cash Kidd](https://open.spotify.com/artist/26qmuJTgE3g67pPClBQ3Iu), [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1) | [Maya Angelou](https://open.spotify.com/album/6xpTmvWXMXpUeZOqaUzDQ1) | 2:34 | 2024-07-22 | 2025-02-25 |
 | [Me And Mike](https://open.spotify.com/track/4wwACmcnLZWd5MAdNPE6mP) | [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx), [Rmc Mike](https://open.spotify.com/artist/1j9595o6FMO4iLwci19nvo) | [Me And Mike](https://open.spotify.com/album/69oFLAcQKRkhTOowDPMCJW) | 2:19 | 2025-01-31 | 2025-02-25 |
 | [Mean Girl Era](https://open.spotify.com/track/1oyhhLwrIeYmreTTzDBAhw) | [Pretty Brayah](https://open.spotify.com/artist/04T13CNEP9VzNd4jMNQrQb) | [Mean Girl Era](https://open.spotify.com/album/2GyCuFBhreLo52VYaDfPqC) | 1:48 | 2023-10-30 | 2024-02-13 |
@@ -241,6 +245,7 @@
 | [Mind](https://open.spotify.com/track/1OekV80ySFNwfXFEk8oGlV) | [D\. Savage](https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc) | [Mind](https://open.spotify.com/album/0pgMNPo0dopgdtKRGuoBkD) | 2:04 | 2025-04-08 |  |
 | [Misery](https://open.spotify.com/track/37WO9r4U3LLqFkwHqZ2qg1) | [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN) | [Misery](https://open.spotify.com/album/0cWD3IQM9T3kYvIc5w7vpv) | 1:39 | 2023-08-28 | 2024-01-13 |
 | [Mob](https://open.spotify.com/track/4zeLNybpK3UO6p3QhCYNGl) | [D\. Savage](https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc) | [Mob](https://open.spotify.com/album/3t4MBMVuq9899LgkqGSAAr) | 3:12 | 2024-01-12 | 2024-05-21 |
+| [Money Moves](https://open.spotify.com/track/4otA4JHWkokv4qAj1Pp2U5) | [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74) | [Money Moves](https://open.spotify.com/album/2WmYykdXI1SCFrkglLVTPX) | 2:43 | 2025-05-28 |  |
 | [Mr\. Put That Shit On](https://open.spotify.com/track/4r2pxdCocBEyQ93xbsaYof) | [CyHi](https://open.spotify.com/artist/18HVMQsV3tINaTyzT5UIjH), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [Mr\. Put That Shit On](https://open.spotify.com/album/0iB4O5HImR5jopE1vf7WYr) | 5:48 | 2023-10-30 | 2024-02-21 |
 | [Mud Baby](https://open.spotify.com/track/2yaAYGFWsGP0IIFlTk14BD) | [Morray](https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd) | [Long Story Short](https://open.spotify.com/album/0nFbj1peFRKPFy3gbem4mV) | 2:51 | 2025-02-24 |  |
 | [My Darling](https://open.spotify.com/track/7mdvPu1ZAOIgMzr3sfpAqk) | [Chella](https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI) | [My Darling](https://open.spotify.com/album/5UOf3gDg4dnNBBaLi9qTK9) | 2:26 | 2025-05-20 |  |
@@ -279,6 +284,7 @@
 | [Popular Loner](https://open.spotify.com/track/7taCvlPIm7iwAc1fOeusRJ) | [Rucci](https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA), [Bankroll Got It](https://open.spotify.com/artist/42H2ObFiITAP87vskCGIh5) | [Can't Stop, Won't Stop!](https://open.spotify.com/album/2rsLMusvn7yQZzBdOxj8Xj) | 1:52 | 2023-08-11 | 2023-11-18 |
 | [poseidon](https://open.spotify.com/track/42ENXxkT1sZvNN7kwdGPPv) | [Lil Bean](https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef) | [poseidon](https://open.spotify.com/album/25qzz1pjKx8QN1Y4A0DcYW) | 2:29 | 2024-07-22 | 2025-02-25 |
 | [practice!](https://open.spotify.com/track/5VfP1gMYKqIX9kmpzPsxDA) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [practice!](https://open.spotify.com/album/1gmLgmhof4wffGTnsqJXv2) | 2:23 | 2024-07-08 | 2024-11-19 |
+| [Pressure](https://open.spotify.com/track/05lhFsOWPXRjfGA7xY7XJz) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Pressure](https://open.spotify.com/album/0O7179ieea0SQIwxyFaL68) | 2:39 | 2025-05-28 |  |
 | [raise your hands](https://open.spotify.com/track/3IEALkYIYBPaJQka035lCX) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [310degrees](https://open.spotify.com/album/13AhshxPGH647ftmQdhSdv) | 1:28 | 2025-01-31 | 2025-02-25 |
 | [Rap Saved Me](https://open.spotify.com/track/5JJzfwx67N6HldPk15b1QV) | [BERNA](https://open.spotify.com/artist/4r533q4JGGMJ5ufDV6iOed) | [Rap Saved Me](https://open.spotify.com/album/0W1uhkopAyB1EDN8IrGViS) | 2:01 | 2024-03-04 | 2024-07-23 |
 | [Real Money](https://open.spotify.com/track/0gweVEX4NZLlMStXXbtOVd) | [ShooterGang Kony](https://open.spotify.com/artist/0dT2U2jUx6OmKlyeQOH8AK) | [Real Money](https://open.spotify.com/album/5MLUGCFI5oUhwWT0c96n7i) | 2:22 | 2024-05-15 | 2024-11-19 |

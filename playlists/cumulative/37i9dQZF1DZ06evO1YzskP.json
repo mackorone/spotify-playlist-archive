@@ -158,7 +158,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-23",
+      "date_removed": null,
       "duration_ms": 140341,
       "name": "Bien Firme el Sombrero",
       "url": "https://open.spotify.com/track/4NBiLab7UlhDLfQyrWZsYN"
@@ -400,10 +400,28 @@
       ],
       "date_added": "2024-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-29",
       "duration_ms": 183920,
       "name": "c\u00f3mo dormiste?",
       "url": "https://open.spotify.com/track/0Ns7RqQCUjEUJdyDNDac7e"
+    },
+    {
+      "album": {
+        "name": "Corridos Aesthetic",
+        "url": "https://open.spotify.com/album/0RzAd6HUJ3wRbgUedKYMZ1"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183920,
+      "name": "c\u00f3mo dormiste?",
+      "url": "https://open.spotify.com/track/2G2aZ724zW6qIgNtamYHGz"
     },
     {
       "album": {
@@ -542,6 +560,24 @@
       "duration_ms": 202120,
       "name": "El JP (En Vivo)",
       "url": "https://open.spotify.com/track/2cJpo5bZUYlHF6pWNfkyOV"
+    },
+    {
+      "album": {
+        "name": "Corridos Asombrerados",
+        "url": "https://open.spotify.com/album/0IiFbYVzN1ekVu1j3S1uh9"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172462,
+      "name": "El Mz",
+      "url": "https://open.spotify.com/track/388legjpqnOgFciK1rSJR1"
     },
     {
       "album": {
@@ -1050,7 +1086,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-29",
       "duration_ms": 163040,
       "name": "Los Pasajes Del Sera",
       "url": "https://open.spotify.com/track/7fVZVKzWzM7G1Q5jBiMyE5"

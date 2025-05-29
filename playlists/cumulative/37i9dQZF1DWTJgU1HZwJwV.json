@@ -394,7 +394,7 @@
       ],
       "date_added": "2025-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-29",
       "duration_ms": 134906,
       "name": "Adrift",
       "url": "https://open.spotify.com/track/0jaIrzvr3sQUPflXMmAVgn"
@@ -8365,6 +8365,24 @@
     },
     {
       "album": {
+        "name": "Strolling in the park",
+        "url": "https://open.spotify.com/album/5ifEiF8AMwRCRpK66JNwUI"
+      },
+      "artists": [
+        {
+          "name": "Marino Calle",
+          "url": "https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ"
+        }
+      ],
+      "date_added": "2025-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178080,
+      "name": "Strolling in the park",
+      "url": "https://open.spotify.com/track/1FUzID0Dks61wkJMYv8XJO"
+    },
+    {
+      "album": {
         "name": "Summer Love",
         "url": "https://open.spotify.com/album/6cY5l2Q1CiRpJm301q756l"
       },
@@ -8942,6 +8960,24 @@
       "duration_ms": 151145,
       "name": "The Lowest Point",
       "url": "https://open.spotify.com/track/2gtT9F0c1DDaz0W3vr2hRv"
+    },
+    {
+      "album": {
+        "name": "The Meadow Stirs",
+        "url": "https://open.spotify.com/album/13MZr3OrJgQnMcukseUfSL"
+      },
+      "artists": [
+        {
+          "name": "Noah Lorne",
+          "url": "https://open.spotify.com/artist/3mgtorvPIuOOqO0V5EwEqa"
+        }
+      ],
+      "date_added": "2025-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161354,
+      "name": "The Meadow Stirs",
+      "url": "https://open.spotify.com/track/7cVR6AMaMaUFuWFGvAsjDv"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels. Cover: effe",
-  "num_followers": 27804,
+  "num_followers": 27813,
   "original_name": "Fresh Finds AU & NZ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDXFYQAAAADuUAndJ7/J9YNcjkUnTXxz",
+  "snapshot_id": "aDekQAAAAACdCMxX+BTEIGKX/CaOKw1X",
   "tracks": [
     {
       "added_at": "2025-05-27 14:00:00",
@@ -71,6 +71,22 @@
       "duration_ms": 182105,
       "name": "Wishing",
       "url": "https://open.spotify.com/track/1gsLRWzZlLFniFMncKzQjO"
+    },
+    {
+      "added_at": "2025-05-29 00:03:12",
+      "album": {
+        "name": "Imperfections",
+        "url": "https://open.spotify.com/album/16MMr4oW3i5YvYH4jxBk6O"
+      },
+      "artists": [
+        {
+          "name": "Celly",
+          "url": "https://open.spotify.com/artist/7zBBABGp1O95Fills6I7MN"
+        }
+      ],
+      "duration_ms": 156898,
+      "name": "Imperfections",
+      "url": "https://open.spotify.com/track/1qYalXlo1QlcuK2D2QCkMV"
     },
     {
       "added_at": "2025-05-20 14:00:28",
@@ -475,6 +491,22 @@
       "duration_ms": 190344,
       "name": "Running in Pairs",
       "url": "https://open.spotify.com/track/51pk8hFaLx7L8hy1kU0NqH"
+    },
+    {
+      "added_at": "2025-05-28 23:11:11",
+      "album": {
+        "name": "New Leaf",
+        "url": "https://open.spotify.com/album/2HPraiTLNZwRFs99OmZiAt"
+      },
+      "artists": [
+        {
+          "name": "Soft Bait",
+          "url": "https://open.spotify.com/artist/2GdDNUCO7QLHKxHvWOkl2J"
+        }
+      ],
+      "duration_ms": 259077,
+      "name": "New Leaf",
+      "url": "https://open.spotify.com/track/49zSGc0saqGp4x1S5XwIqS"
     },
     {
       "added_at": "2025-05-27 14:00:00",
@@ -1425,22 +1457,6 @@
       "url": "https://open.spotify.com/track/1kX24LMs0Q1DxFpb10n6qr"
     },
     {
-      "added_at": "2025-04-08 14:00:10",
-      "album": {
-        "name": "The Breaking Line",
-        "url": "https://open.spotify.com/album/0TTsmT7a7ebsK1tiSpKOOA"
-      },
-      "artists": [
-        {
-          "name": "GRMLN",
-          "url": "https://open.spotify.com/artist/3RE9lrTTbnp2GUwHrGS40f"
-        }
-      ],
-      "duration_ms": 182823,
-      "name": "The Breaking Line",
-      "url": "https://open.spotify.com/track/7JyeRAlbQVelxw9mu3nHMA"
-    },
-    {
       "added_at": "2025-04-15 14:00:41",
       "album": {
         "name": "The Actor",
@@ -1599,22 +1615,6 @@
       "duration_ms": 231521,
       "name": "easy (v1)",
       "url": "https://open.spotify.com/track/6AMbjH0VhrAs4a2sJnkoVa"
-    },
-    {
-      "added_at": "2025-04-22 14:00:30",
-      "album": {
-        "name": "HOT GLUE",
-        "url": "https://open.spotify.com/album/6ibwHMqW0VVpDmwqQEExkU"
-      },
-      "artists": [
-        {
-          "name": "RAGEFLOWER",
-          "url": "https://open.spotify.com/artist/0jHAwb83XpyQCuKAsrNaNG"
-        }
-      ],
-      "duration_ms": 211056,
-      "name": "HOT GLUE",
-      "url": "https://open.spotify.com/track/20T769G30FQRJNpQS2lC4K"
     },
     {
       "added_at": "2025-04-23 00:03:19",

@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-991 songs - 2 day 7 hr 52 min
+992 songs - 2 day 7 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Afterlife](https://open.spotify.com/track/6WBUjjJfJfCuAw2QKrduFv) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf) | [Afterlife](https://open.spotify.com/album/7I7CPbDYjhgk6wuecUzxwJ) | 3:41 | 2025-03-13 |  |
 | [Again](https://open.spotify.com/track/3eam4YNpR4GHxBGqLNzZ4U) | [ORACLE](https://open.spotify.com/artist/3gZrJ9QnqxKlSdZAkT54aF), [MØØNE](https://open.spotify.com/artist/7kKL0Z6mypwMkgCevMfuQ6) | [Again](https://open.spotify.com/album/0sPXhRIkT8X3866JIiN1Rq) | 3:48 | 2025-05-13 |  |
 | [AGONIZE](https://open.spotify.com/track/6vuF3LYipww2DRhRJ9s7CH) | [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2), [Extra Terra](https://open.spotify.com/artist/4wjUOQuVVl9qzSdSX1E1yU) | [AGONIZE](https://open.spotify.com/album/19M2LqtlyvIT3VUnCD8rpx) | 3:43 | 2022-02-10 | 2022-04-21 |
+| [AHORA](https://open.spotify.com/track/1Re81w8xdZjUNuRu1AUSoL) | [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr), [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [AHORA](https://open.spotify.com/album/4JcvArkgyQyq8C7gAETGgu) | 2:25 | 2025-05-28 |  |
 | [Airborne](https://open.spotify.com/track/5drPG7Jfd99IQuXA0yN5C9) | [Aether](https://open.spotify.com/artist/5UyjnQfu4OsLGiOi3sIoEN) | [Airborne](https://open.spotify.com/album/0kjuzNLxD4KV0nJNaNN5iI) | 3:32 | 2022-01-07 | 2022-03-16 |
 | [Aklana](https://open.spotify.com/track/796NUAXeDAd9n8Ng1xJGus) | [Sound Quelle](https://open.spotify.com/artist/5mdTuNl23tON1WlsVbvD18) | [Aklana](https://open.spotify.com/album/15LjTU9nmCPpMQbPMH8TDc) | 3:24 | 2024-08-27 | 2024-11-20 |
 | [Alibi](https://open.spotify.com/track/654LHKBikT7p3xoI6ByrBh) | [Codeko](https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp), [ALLKNIGHT](https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c) | [Alibi](https://open.spotify.com/album/5PPBZar51GDZjE6xCRmPRH) | 3:32 | 2024-03-07 | 2024-06-01 |

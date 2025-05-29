@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 
 > Dukh Dard Peeda!  🫂
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,091 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,350 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 | 9 | [Ghutt Ghutt](https://open.spotify.com/track/6Pli0rn0Z3Z11mQo6FIHGW) | [SARRB](https://open.spotify.com/artist/2LKbmSS1wx5pW7YfRkIgg6), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Ghutt Ghutt](https://open.spotify.com/album/2fniIfHjJ8WjJ29Wr1D0lM) | 3:34 |
 | 10 | [Stay](https://open.spotify.com/track/5qMKcWk6Lcuz0t3R9Ed1NO) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [Stay](https://open.spotify.com/album/7p609zpBo0lsPEJcXlX9Jr) | 3:39 |
 | 11 | [Dost Banke](https://open.spotify.com/track/2k0D2OXWXwuwBPXLQQYmZx) | [Gurnazar](https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W), [Kartik Dev](https://open.spotify.com/artist/3RP5G139xbMICwhskoljmz) | [Dost Banke](https://open.spotify.com/album/4Ira2DDLEUgXmL6t4UA95V) | 4:49 |
-| 12 | [Mujhe Peene Do](https://open.spotify.com/track/3FbZoPzEaUBOD84l1FwFEH) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Mujhe Peene Do](https://open.spotify.com/album/5XurzQE6FZrn7fQPrX4Vcc) | 3:16 |
-| 13 | [Chidiya](https://open.spotify.com/track/0aoN9BQostK81IFddJn8Ej) | [Vilen](https://open.spotify.com/artist/5gVozagAcRKYCeAVnlC3Nk) | [Chidiya](https://open.spotify.com/album/6xecxwI17jdNrGKvHPIqVc) | 4:13 |
+| 12 | [Chidiya](https://open.spotify.com/track/0aoN9BQostK81IFddJn8Ej) | [Vilen](https://open.spotify.com/artist/5gVozagAcRKYCeAVnlC3Nk) | [Chidiya](https://open.spotify.com/album/6xecxwI17jdNrGKvHPIqVc) | 4:13 |
+| 13 | [Mujhe Peene Do](https://open.spotify.com/track/3FbZoPzEaUBOD84l1FwFEH) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Mujhe Peene Do](https://open.spotify.com/album/5XurzQE6FZrn7fQPrX4Vcc) | 3:16 |
 | 14 | [Akhiyaan](https://open.spotify.com/track/2l3dFxtoSMgMQVyRIUHjpz) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Akhiyaan](https://open.spotify.com/album/4MBCBnMZyFFv8Ch9elmLsL) | 3:11 |
 | 15 | [Pachtaoge \(From "Jaani Ve"\)](https://open.spotify.com/track/5QVHNa0ppJUOoqSd36ovQS) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [Pachtaoge \(From "Jaani Ve"\)](https://open.spotify.com/album/3Ptq3ARmJ8iTLBb7M7Bho0) | 3:46 |
 | 16 | [Aaj Bhi 2](https://open.spotify.com/track/5Swyv8euhHEJu57t5qbGUs) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507) | [Aaj Bhi 2](https://open.spotify.com/album/5OYZCRHN3Dqe29yzFKr630) | 4:19 |
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 | 23 | [Chhor Denge](https://open.spotify.com/track/5SYcKZYmQnHBW1LGLOi8sH) | [Sachet\-Parampara](https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE), [Nora Fatehi](https://open.spotify.com/artist/76jfMJlfNPQsOBblO0ZaEA) | [Chhor Denge](https://open.spotify.com/album/14oX4JyIMaxhjb54CkfbQ9) | 4:17 |
 | 24 | [Kehna Galat Galat](https://open.spotify.com/track/6ZCjqm4QlYPEOtd4GZPKxL) | [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8), [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl), [Jyoti Nooran](https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB) | [Kehna Galat Galat](https://open.spotify.com/album/1dWevVFLLY3djj918zBvx8) | 3:47 |
 | 25 | [Kya Loge Tum](https://open.spotify.com/track/6t7PuZfHAtNGheWisgUq3I) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [Kya Loge Tum](https://open.spotify.com/album/76spwPLkGkvPtADGCTkNeT) | 3:53 |
-| 26 | [Teri Ho Na Saki](https://open.spotify.com/track/4wr3QwOxLqh4uBlHKhtTlx) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [Shayad Woh Sune](https://open.spotify.com/album/46DB2EWNmSBSZc5YlCdmCm) | 3:51 |
-| 27 | [Dard](https://open.spotify.com/track/6bXrlIITUgU0qnmmTnzrXW) | [Kushagra](https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6), [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC) | [Love19](https://open.spotify.com/album/3uovRrWC0V8zckaZAbPoSK) | 2:45 |
+| 26 | [Dard](https://open.spotify.com/track/6bXrlIITUgU0qnmmTnzrXW) | [Kushagra](https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6), [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC) | [Love19](https://open.spotify.com/album/3uovRrWC0V8zckaZAbPoSK) | 2:45 |
+| 27 | [Teri Ho Na Saki](https://open.spotify.com/track/4wr3QwOxLqh4uBlHKhtTlx) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [Shayad Woh Sune](https://open.spotify.com/album/46DB2EWNmSBSZc5YlCdmCm) | 3:51 |
 | 28 | [Achha Sila Diya](https://open.spotify.com/track/0WVMcPw0MpCyckkjdGt0p4) | [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Nikhil Vinay](https://open.spotify.com/artist/0HsUQSehtJfQENJxgxQwg5) | [Achha Sila Diya](https://open.spotify.com/album/7cwXuOBoenVpKagfx3BAzF) | 5:17 |
 | 29 | [Koi Si](https://open.spotify.com/track/26ku8sJ1rV2gQAEuNs38X6) | [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [Nirmaan](https://open.spotify.com/artist/3yCmFr0jQ0hRoaEjpp7Clh) | [Koi Si](https://open.spotify.com/album/6ygmcKWcYou8isVIdje83u) | 3:23 |
 | 30 | [Aziyat 2.0 \- Reprise Version](https://open.spotify.com/track/3fwyItGexa88kR8j76dIqv) | [Pratsofficial](https://open.spotify.com/artist/29ggvWc5EMcSk5RLQ5aXHr) | [Aziyat 2.0 \(Reprise Version\)](https://open.spotify.com/album/6Pe9mPc7ynVPgtBWwLVXgL) | 3:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 | 49 | [PYAAR HUMARA](https://open.spotify.com/track/7y3qyt5vR7QBU51BFnfQ2q) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [PYAAR HUMARA](https://open.spotify.com/album/7syNlcl1mcB70xo3Y2sYyz) | 2:47 |
 | 50 | [Unspoken](https://open.spotify.com/track/6aJLPRRyxJjWXc91jtLO56) | [Arjun Kanungo](https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa), [NEXA Music](https://open.spotify.com/artist/66NKyTgQP5uRDoy8tN4Gnx) | [Unspoken](https://open.spotify.com/album/2ymymrHipb8QfhV7nyn3zk) | 2:45 |
 
-Snapshot ID: `aC2ubQAAAAAPT4JPqkPB5QgDFSo2hq6m`
+Snapshot ID: `aDcv+wAAAACDDdy1Rr5xSKdYZjb1Sw12`

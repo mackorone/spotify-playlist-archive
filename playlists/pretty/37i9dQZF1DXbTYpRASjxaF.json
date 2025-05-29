@@ -795,34 +795,6 @@
     {
       "added_at": "2025-05-23 03:01:27",
       "album": {
-        "name": "IAMBINHU",
-        "url": "https://open.spotify.com/album/7BpvuVN4bsFdncN2KLkBLU"
-      },
-      "artists": [
-        {
-          "name": "BIN",
-          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        },
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
-        {
-          "name": "Balances",
-          "url": "https://open.spotify.com/artist/64ixLjZbotbS49TdLAGqBT"
-        }
-      ],
-      "duration_ms": 151525,
-      "name": "Destaque",
-      "url": "https://open.spotify.com/track/5T9Vw3RD6MaVXC0Y3Gkfr9"
-    },
-    {
-      "added_at": "2025-05-23 03:01:27",
-      "album": {
         "name": "Akilla On The Radar Freestyle",
         "url": "https://open.spotify.com/album/1pR1h8zOGtfbar68dHbWxL"
       },
@@ -867,6 +839,34 @@
       "duration_ms": 143283,
       "name": "Final De Semana Na Quebra",
       "url": "https://open.spotify.com/track/4mUkMS6mG5FNFIBn0FMfGt"
+    },
+    {
+      "added_at": "2025-05-23 03:01:27",
+      "album": {
+        "name": "IAMBINHU",
+        "url": "https://open.spotify.com/album/7BpvuVN4bsFdncN2KLkBLU"
+      },
+      "artists": [
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "Balances",
+          "url": "https://open.spotify.com/artist/64ixLjZbotbS49TdLAGqBT"
+        }
+      ],
+      "duration_ms": 151525,
+      "name": "Destaque",
+      "url": "https://open.spotify.com/track/5T9Vw3RD6MaVXC0Y3Gkfr9"
     },
     {
       "added_at": "2025-05-23 03:01:27",

@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "1985",
+        "url": "https://open.spotify.com/album/4FkVzYd8PVAGo5ylgoWSTM"
+      },
+      "artists": [
+        {
+          "name": "ART-SCHOOL",
+          "url": "https://open.spotify.com/artist/53qmbfZrKa81AKLdojnxBT"
+        }
+      ],
+      "date_added": "2025-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200481,
+      "name": "1985",
+      "url": "https://open.spotify.com/track/0enOrXRrfvuOZPWtCTjRHW"
+    },
+    {
+      "album": {
         "name": "1994",
         "url": "https://open.spotify.com/album/2JAJGIjBaeM1m5f9yNfWDM"
       },
@@ -4518,7 +4536,7 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-29",
       "duration_ms": 89563,
       "name": "HAWATARI NIOKU CENTI [2-hundred-million-centimeter-long blades] - TV edit",
       "url": "https://open.spotify.com/track/1lySGuhlcZUJxLA5W5Bo7k"
@@ -11331,6 +11349,24 @@
     },
     {
       "album": {
+        "name": "Spicy Queen",
+        "url": "https://open.spotify.com/album/6g6RUAmiCQbW9H8nq324XK"
+      },
+      "artists": [
+        {
+          "name": "\u82b1\u51b7\u3048\u3002",
+          "url": "https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h"
+        }
+      ],
+      "date_added": "2025-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229105,
+      "name": "Spicy Queen",
+      "url": "https://open.spotify.com/track/6UtV1xntPbEgbbY8Dh2tQn"
+    },
+    {
+      "album": {
         "name": "Midnight Chocolate - EP",
         "url": "https://open.spotify.com/album/6Jjha9eFKiS7bvJbxU2U7Y"
       },
@@ -13411,6 +13447,28 @@
     },
     {
       "album": {
+        "name": "Useless",
+        "url": "https://open.spotify.com/album/5sEatstRNfjeRdXmu1pHBe"
+      },
+      "artists": [
+        {
+          "name": "Survive Said The Prophet",
+          "url": "https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh"
+        },
+        {
+          "name": "Knosis",
+          "url": "https://open.spotify.com/artist/5o1BN92ZEG8TucPzj6czCh"
+        }
+      ],
+      "date_added": "2025-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190500,
+      "name": "Useless",
+      "url": "https://open.spotify.com/track/4w1n6SNwu8H0SlwzhsyaiV"
+    },
+    {
+      "album": {
         "name": "Utae Nippon no Sora",
         "url": "https://open.spotify.com/album/3Unh0miQk8WcU5uSQptS8v"
       },
@@ -14014,6 +14072,24 @@
       "duration_ms": 296500,
       "name": "Whenever, Whatever",
       "url": "https://open.spotify.com/track/3zE8xmbyFYQoHfRwb1Hs04"
+    },
+    {
+      "album": {
+        "name": "Whole of Flower",
+        "url": "https://open.spotify.com/album/3K67zHSgeaMoQV7dtog8rS"
+      },
+      "artists": [
+        {
+          "name": "Suchmos",
+          "url": "https://open.spotify.com/artist/0O0hxUrO2PKxZknken3R24"
+        }
+      ],
+      "date_added": "2025-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249013,
+      "name": "Whole of Flower",
+      "url": "https://open.spotify.com/track/3ovwLoowye9dVmbfhz1nEV"
     },
     {
       "album": {
@@ -16202,7 +16278,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-29",
       "duration_ms": 207213,
       "name": "\u30a8\u30de",
       "url": "https://open.spotify.com/track/3BcpM90O0BWj13cg439m5P"
@@ -18314,7 +18390,7 @@
       ],
       "date_added": "2025-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-29",
       "duration_ms": 156133,
       "name": "\u30de\u30b8\u3067\u4e16\u754c\u5909\u3048\u3061\u3083\u30465\u79d2\u524d",
       "url": "https://open.spotify.com/track/3lfpvn67RNEPBOjZeEuHSS"
@@ -23754,7 +23830,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-29",
       "duration_ms": 236000,
       "name": "\u9b54\u6cd5\u306f\u30b9\u30d1\u30a4\u30b9",
       "url": "https://open.spotify.com/track/73Jga6MTClvMJtBenx2S8V"

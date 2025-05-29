@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: 데이먼스 이어 \(Damons year\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 497,013 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 497,116 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [CORPUS 0](https://open.spotify.com/track/0boGx65PACZNyIq7mv7trr) | [데이먼스 이어 Damons year](https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus) | [CORPUS 0](https://open.spotify.com/album/4NcOWtOHeayLunvnHBdQKx) | 4:50 |
 | 2 | [for lovers who hesitate](https://open.spotify.com/track/5BqwC9kOBbqYkzdOKeXFFk) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [LEGEND](https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC) | 4:25 |
-| 3 | [1\-4\-3](https://open.spotify.com/track/4OWKzw44sCXWih8qy4Av8K) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [I MET PEEJAY](https://open.spotify.com/album/31O9E8r4PYUr4VhRAI1zM8) | 3:28 |
-| 4 | [Maybe We Could Be a Thing](https://open.spotify.com/track/2yjDmSX8ukT00SXmRs04T6) | [Jesse Barrera](https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l), [Michael Carreon](https://open.spotify.com/artist/5rYJsXiNw3NxHJfOxtmDuC), [Albert Posis](https://open.spotify.com/artist/4bNOdxc26omK0xR7FPucJn) | [Maybe We Could Be a Thing](https://open.spotify.com/album/6AQcFf0gaBZWaZgGZZPMmI) | 2:56 |
+| 3 | [Maybe We Could Be a Thing](https://open.spotify.com/track/2yjDmSX8ukT00SXmRs04T6) | [Jesse Barrera](https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l), [Michael Carreon](https://open.spotify.com/artist/5rYJsXiNw3NxHJfOxtmDuC), [Albert Posis](https://open.spotify.com/artist/4bNOdxc26omK0xR7FPucJn) | [Maybe We Could Be a Thing](https://open.spotify.com/album/6AQcFf0gaBZWaZgGZZPMmI) | 2:56 |
+| 4 | [Closely Far Away](https://open.spotify.com/track/7wLJ4xzxNss5abZ1kXs242) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [Closely Far Away](https://open.spotify.com/album/6q9YOWpWu7QA3MeHbpIoLC) | 3:14 |
 | 5 | [needalove](https://open.spotify.com/track/1oMUumys2cIeMUeShaXhUy) | [OuiOui](https://open.spotify.com/artist/11BHuhJ2jEMPNJ3WpwZVT8) | [needalove](https://open.spotify.com/album/44E2RLXYSEYXjK0kMD8orQ) | 3:18 |
-| 6 | [Closely Far Away](https://open.spotify.com/track/7wLJ4xzxNss5abZ1kXs242) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [Closely Far Away](https://open.spotify.com/album/6q9YOWpWu7QA3MeHbpIoLC) | 3:14 |
+| 6 | [Bom](https://open.spotify.com/track/1Vd8qFWC07LB8UvNHyIlzg) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Puberty BookⅠ Bom](https://open.spotify.com/album/0JkeId5EsudMnCK3UHe7cg) | 3:37 |
 | 7 | [GET LUCKY!](https://open.spotify.com/track/6dkx7yryrVpYxP75lNsy6j) | [YdBB](https://open.spotify.com/artist/2UjX6FLGyUQb4sbookjR3y) | [GET LUCKY!](https://open.spotify.com/album/52sUuTeemfkKHHqwfMMzcm) | 3:40 |
-| 8 | [Bom](https://open.spotify.com/track/1Vd8qFWC07LB8UvNHyIlzg) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Puberty BookⅠ Bom](https://open.spotify.com/album/0JkeId5EsudMnCK3UHe7cg) | 3:37 |
+| 8 | [1\-4\-3](https://open.spotify.com/track/4OWKzw44sCXWih8qy4Av8K) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [I MET PEEJAY](https://open.spotify.com/album/31O9E8r4PYUr4VhRAI1zM8) | 3:28 |
 | 9 | [May the TENDERNESS be with you! \(feat\. KARINA of aespa\)](https://open.spotify.com/track/4dA19AW8ehIYVOScdWu4IT) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS), [KARINA](https://open.spotify.com/artist/2qwDjeSYANOOBFU8jwtBXx) | [Sound of Music pt.1](https://open.spotify.com/album/0MszgvODJojjzJCNmlWWGu) | 3:25 |
 | 10 | [Summer breeze](https://open.spotify.com/track/5C8xuGNeqqTCJ4cw9jx6Mh) | [Lemon City](https://open.spotify.com/artist/6J1LfT9S8BD5i2xqk87x6Z), [colin](https://open.spotify.com/artist/23ILHWqZRWApKJZMSCEdty) | [Summer breeze](https://open.spotify.com/album/3V9CszsycSsdW58DzAIOk0) | 2:57 |
 | 11 | [Wings](https://open.spotify.com/track/3ieVRTL0jHyZD6AAjcoeQa) | [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Wings](https://open.spotify.com/album/42nmm0ZdjkbfsROkjqJx1c) | 3:15 |
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 | 38 | [One](https://open.spotify.com/track/420CEW5diE4ulkdbUxtg2w) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [One](https://open.spotify.com/album/6JfMCmlRcKbd07cj3GDPEG) | 2:48 |
 | 39 | [Today's Mood](https://open.spotify.com/track/7LcgHOeLcMbAMu48Abqtqt) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [I can't tell you everything](https://open.spotify.com/album/0H24UcLRQFp2iihdvpQQ20) | 3:45 |
 | 40 | [friend to lover](https://open.spotify.com/track/7un5FM27KmkEMpsPQ2T062) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [friend to lover](https://open.spotify.com/album/4bjDmQW2Vu2Br4RPCi12hr) | 3:07 |
-| 41 | [Rawww](https://open.spotify.com/track/0d6PXcdf0OTlfF16uQ7fh6) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Rawww](https://open.spotify.com/album/46EtrYe0U9yYOKCOYD1zAi) | 2:40 |
-| 42 | [Thought of You](https://open.spotify.com/track/4As6SLkweWhpNGIA66b891) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [Thought of You](https://open.spotify.com/album/6wArEED6fUTnMHkrOoxaPK) | 3:33 |
+| 41 | [Thought of You](https://open.spotify.com/track/4As6SLkweWhpNGIA66b891) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [Thought of You](https://open.spotify.com/album/6wArEED6fUTnMHkrOoxaPK) | 3:33 |
+| 42 | [Rawww](https://open.spotify.com/track/0d6PXcdf0OTlfF16uQ7fh6) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Rawww](https://open.spotify.com/album/46EtrYe0U9yYOKCOYD1zAi) | 2:40 |
 | 43 | [In the Bed](https://open.spotify.com/track/5naUy3DInK9w6phVgZKoKk) | [sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [In the Bed](https://open.spotify.com/album/6UCGxZpwzt7SYipIRa0CCo) | 4:25 |
 | 44 | [3108](https://open.spotify.com/track/4Pty5kAaFSjQk2a5cLLpqK) | [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [3108](https://open.spotify.com/album/4km6abn4iGxsbDnxuvFMrw) | 2:58 |
 | 45 | [H O M E](https://open.spotify.com/track/5E7MmixrLwGiOvEkAybNpr) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [HOME](https://open.spotify.com/album/4finbgKnMb3yfGdr0vErpw) | 3:51 |
 | 46 | [Hug](https://open.spotify.com/track/5IjEA99ADS6ERSh8Ck1OLq) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Puberty BookⅡ Pum](https://open.spotify.com/album/7bokVbwwFlYf6dqzdSUXEp) | 3:06 |
-| 47 | [The Clockwork Whirl](https://open.spotify.com/track/41zMQtyFKnSrevslXxQpxN) | [데이먼스 이어 Damons year](https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus) | [The Clockwork Whirl](https://open.spotify.com/album/5zod3cJbuUbfQfUmUVS1YE) | 3:15 |
+| 47 | [Pixels](https://open.spotify.com/track/5YBTucTtGmiXiRATFlW0Nz) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Pixels](https://open.spotify.com/album/3DiqMTkQMuCrjo9Cf8Oq9d) | 4:08 |
 | 48 | [Do You Think Of Me?](https://open.spotify.com/track/67kcXvYNr1WUXx00bjt1HL) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Do You Think Of Me?](https://open.spotify.com/album/7pOrzU2NCcOT1QxvBX70Fe) | 3:16 |
-| 49 | [Goodbye blue days](https://open.spotify.com/track/1al6pYbDVgvWgfQAWVOFe6) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [21' Archive](https://open.spotify.com/album/5IkZqnvKVzjH02zsLmeLD6) | 4:11 |
-| 50 | [pony](https://open.spotify.com/track/6pZIsf4z5iFsueGtlHn35V) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [pony](https://open.spotify.com/album/0Fqg5u1mP8d8VJZmhIWkpc) | 3:01 |
+| 49 | [The Clockwork Whirl](https://open.spotify.com/track/41zMQtyFKnSrevslXxQpxN) | [데이먼스 이어 Damons year](https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus) | [The Clockwork Whirl](https://open.spotify.com/album/5zod3cJbuUbfQfUmUVS1YE) | 3:15 |
+| 50 | [Goodbye blue days](https://open.spotify.com/track/1al6pYbDVgvWgfQAWVOFe6) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [21' Archive](https://open.spotify.com/album/5IkZqnvKVzjH02zsLmeLD6) | 4:11 |
 
-Snapshot ID: `aDPAVQAAAACVFszINSlFUl3uZ7T4RMZI`
+Snapshot ID: `aDbWQQAAAAA2p7P+zqvVEeX4yvhB8tdD`

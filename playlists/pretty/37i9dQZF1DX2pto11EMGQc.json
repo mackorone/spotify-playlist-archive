@@ -1,6 +1,6 @@
 {
   "description": "Here's to the groom! Enjoy your day with the boys!",
-  "num_followers": 94803,
+  "num_followers": 94827,
   "original_name": "Bachelor Party",
   "owner": {
     "name": "Spotify",
@@ -695,6 +695,26 @@
     {
       "added_at": "2022-05-11 15:37:27",
       "album": {
+        "name": "TRANSLATION",
+        "url": "https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 214854,
+      "name": "RITMO (Bad Boys For Life)",
+      "url": "https://open.spotify.com/track/5NyS3oxTlos3Agl2YtZwrC"
+    },
+    {
+      "added_at": "2022-05-11 15:37:27",
+      "album": {
         "name": "Snap Yo Fingers - Single",
         "url": "https://open.spotify.com/album/5ot3hAGLgvrmfZ3ddosFZf"
       },
@@ -715,26 +735,6 @@
       "duration_ms": 274386,
       "name": "Snap Yo Fingers",
       "url": "https://open.spotify.com/track/6o3s08kk2fQI37vxGZDrJ1"
-    },
-    {
-      "added_at": "2022-05-11 15:37:27",
-      "album": {
-        "name": "TRANSLATION",
-        "url": "https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 214854,
-      "name": "RITMO (Bad Boys For Life)",
-      "url": "https://open.spotify.com/track/5NyS3oxTlos3Agl2YtZwrC"
     },
     {
       "added_at": "2022-05-11 15:37:27",

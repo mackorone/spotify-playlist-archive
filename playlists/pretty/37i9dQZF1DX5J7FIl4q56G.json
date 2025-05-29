@@ -1,12 +1,12 @@
 {
   "description": "The best new tracks in metal, hard rock, and all things heavy. Cover: We Came As Romans",
-  "num_followers": 754365,
+  "num_followers": 754447,
   "original_name": "All New Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aC/y9QAAAACGIOSBVXYLmTE+bwtDSrtL",
+  "snapshot_id": "aC/y9QAAAACeX1SKdkXdE6mUnC8jwoB2",
   "tracks": [
     {
       "added_at": "2025-05-23 04:00:53",
@@ -55,6 +55,26 @@
       "duration_ms": 192911,
       "name": "Revery",
       "url": "https://open.spotify.com/track/0Vn099e0jlAgV0TE5sOre1"
+    },
+    {
+      "added_at": "2025-05-23 04:00:53",
+      "album": {
+        "name": "Song 3",
+        "url": "https://open.spotify.com/album/0Cxa2LwLEBIpVglPWwiias"
+      },
+      "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        },
+        {
+          "name": "Slaughter to Prevail",
+          "url": "https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m"
+        }
+      ],
+      "duration_ms": 214193,
+      "name": "Song 3",
+      "url": "https://open.spotify.com/track/7eDUTBIo76AMC5UYqkkzDL"
     },
     {
       "added_at": "2025-05-23 04:00:53",

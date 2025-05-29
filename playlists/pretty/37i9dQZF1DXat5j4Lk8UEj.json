@@ -1,6 +1,6 @@
 {
   "description": "A mix of electric roots rock and folk-infused alternative. Cover: Nathaniel Rateliff & The Night Sweats",
-  "num_followers": 488026,
+  "num_followers": 488010,
   "original_name": "Folk Rock Favorites",
   "owner": {
     "name": "Spotify",
@@ -911,6 +911,22 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
+        "name": "One",
+        "url": "https://open.spotify.com/album/0gfT2lXIBkjYHUYqQwLGqm"
+      },
+      "artists": [
+        {
+          "name": "Birdtalker",
+          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
+        }
+      ],
+      "duration_ms": 219320,
+      "name": "Looking for Love",
+      "url": "https://open.spotify.com/track/3s3NKsV3p6hCAh23j1H4W7"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
         "name": "Heroes",
         "url": "https://open.spotify.com/album/7817F6Nn9C1XdQmENndiks"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 163746,
       "name": "Fever Pitch",
       "url": "https://open.spotify.com/track/0CczqIwQrFvuiR0Q6g6IYP"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
-        "name": "One",
-        "url": "https://open.spotify.com/album/0gfT2lXIBkjYHUYqQwLGqm"
-      },
-      "artists": [
-        {
-          "name": "Birdtalker",
-          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
-        }
-      ],
-      "duration_ms": 219320,
-      "name": "Looking for Love",
-      "url": "https://open.spotify.com/track/3s3NKsV3p6hCAh23j1H4W7"
     },
     {
       "added_at": "2025-02-07 05:00:32",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "Old Sob Story",
-        "url": "https://open.spotify.com/album/3fnFtGjNgtLYd0CSnYp3Z9"
-      },
-      "artists": [
-        {
-          "name": "Birdtalker",
-          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
-        }
-      ],
-      "duration_ms": 196160,
-      "name": "Old Sob Story",
-      "url": "https://open.spotify.com/track/7Akh76oQE1crm0aIz9B7IK"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
         "name": "The Records Were Ours",
         "url": "https://open.spotify.com/album/4BXUB780HfPgYfi9lerlR9"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 257117,
       "name": "Hands On The Wheel (Feat. Particle Kid) (Recorded at Luck Reunion) - Spotify Singles",
       "url": "https://open.spotify.com/track/1c0PPeV09JNqhLsM4mC7Mx"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
+        "name": "Old Sob Story",
+        "url": "https://open.spotify.com/album/3fnFtGjNgtLYd0CSnYp3Z9"
+      },
+      "artists": [
+        {
+          "name": "Birdtalker",
+          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
+        }
+      ],
+      "duration_ms": 196160,
+      "name": "Old Sob Story",
+      "url": "https://open.spotify.com/track/7Akh76oQE1crm0aIz9B7IK"
     },
     {
       "added_at": "2025-02-07 05:00:32",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "Losing You",
-        "url": "https://open.spotify.com/album/3ZJHDe4rj9pnsAMMKiYMug"
-      },
-      "artists": [
-        {
-          "name": "Flyte",
-          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
-        }
-      ],
-      "duration_ms": 206720,
-      "name": "Losing You",
-      "url": "https://open.spotify.com/track/6KQEt8QOhdwp5QPtofFQAC"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
         "name": "River Wider",
         "url": "https://open.spotify.com/album/4NBpqEDUdimWGmSu3q6zWD"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 195213,
       "name": "River Wider",
       "url": "https://open.spotify.com/track/3xuE0GvFWLgZIWZAa4PQwy"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
+        "name": "Losing You",
+        "url": "https://open.spotify.com/album/3ZJHDe4rj9pnsAMMKiYMug"
+      },
+      "artists": [
+        {
+          "name": "Flyte",
+          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
+        }
+      ],
+      "duration_ms": 206720,
+      "name": "Losing You",
+      "url": "https://open.spotify.com/track/6KQEt8QOhdwp5QPtofFQAC"
     },
     {
       "added_at": "2025-02-07 05:00:32",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "Way Back",
-        "url": "https://open.spotify.com/album/19HLhs8Ey6wysibfosbk0q"
-      },
-      "artists": [
-        {
-          "name": "The Lighthouse And The Whaler",
-          "url": "https://open.spotify.com/artist/6ls5A8Wys9Swixpz4v6kj3"
-        }
-      ],
-      "duration_ms": 258058,
-      "name": "Way Back",
-      "url": "https://open.spotify.com/track/6Jt5iBTXNyW4fpG6W26K0G"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
         "name": "Starting from Scratch",
         "url": "https://open.spotify.com/album/3ajBFaN4FRuRgmzLrvUFVk"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 189425,
       "name": "Starting from Scratch",
       "url": "https://open.spotify.com/track/3pM19Q0sIoPc3SLLAaJrcs"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
+        "name": "Way Back",
+        "url": "https://open.spotify.com/album/19HLhs8Ey6wysibfosbk0q"
+      },
+      "artists": [
+        {
+          "name": "The Lighthouse And The Whaler",
+          "url": "https://open.spotify.com/artist/6ls5A8Wys9Swixpz4v6kj3"
+        }
+      ],
+      "duration_ms": 258058,
+      "name": "Way Back",
+      "url": "https://open.spotify.com/track/6Jt5iBTXNyW4fpG6W26K0G"
     },
     {
       "added_at": "2025-02-07 05:00:32",

@@ -1,4 +1,4 @@
-## Playlists \(8510\)
+## Playlists \(8511\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -2960,6 +2960,7 @@
 - [IDM Essentials](/playlists/pretty/37i9dQZF1DXbjZQOVqxNHv.md)
 - [IDOL : The Coup](/playlists/pretty/37i9dQZF1DWTm9PQomW7Or.md)
 - [ILLIT FAN CONCERT \[GLITTER DAY\]](/playlists/pretty/37i9dQZF1DX9T6mE1pBbgn.md)
+- [INCHEON PENTAPORT MUSIC FESTIVAL \[인천펜타포트 음악축제\]](/playlists/pretty/37i9dQZF1DWZ0oVIKIiCUD.md)
 - [INITIAL D](/playlists/pretty/37i9dQZF1DWU4aFimZ74X3.md)
 - [IRIS](/playlists/pretty/37i9dQZF1DX42OMh36xkYf.md)
 - [IRL ANGEL](/playlists/pretty/37i9dQZF1DX7Ocjwy96xTX.md)

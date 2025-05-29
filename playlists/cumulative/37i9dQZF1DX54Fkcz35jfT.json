@@ -1512,7 +1512,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-29",
       "duration_ms": 196573,
       "name": "Drive Far",
       "url": "https://open.spotify.com/track/3eQEUcSoU3CCQBFa8NOq5X"
@@ -2162,7 +2162,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-29",
       "duration_ms": 197088,
       "name": "High & High",
       "url": "https://open.spotify.com/track/0i454WkGkyI6hunCwRJGpU"
@@ -3164,6 +3164,24 @@
       "duration_ms": 500011,
       "name": "Master Of Puppets",
       "url": "https://open.spotify.com/track/20hGEpVrGGZoHOMJwHJhj3"
+    },
+    {
+      "album": {
+        "name": "Mayfly",
+        "url": "https://open.spotify.com/album/4xNsGBPFxFhpmqTXup0r9S"
+      },
+      "artists": [
+        {
+          "name": "Some Life",
+          "url": "https://open.spotify.com/artist/3cO9bp3Hqyrk2Icc9ONk0J"
+        }
+      ],
+      "date_added": "2025-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287288,
+      "name": "Mayfly",
+      "url": "https://open.spotify.com/track/0F97rI9eyqqVehbA68TZAJ"
     },
     {
       "album": {
@@ -5027,6 +5045,24 @@
     },
     {
       "album": {
+        "name": "Spicy Queen",
+        "url": "https://open.spotify.com/album/6g6RUAmiCQbW9H8nq324XK"
+      },
+      "artists": [
+        {
+          "name": "\u82b1\u51b7\u3048\u3002",
+          "url": "https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h"
+        }
+      ],
+      "date_added": "2025-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229105,
+      "name": "Spicy Queen",
+      "url": "https://open.spotify.com/track/6UtV1xntPbEgbbY8Dh2tQn"
+    },
+    {
+      "album": {
         "name": "St.ROSALIA",
         "url": "https://open.spotify.com/album/0YxhoTCRy9YPRHVMCFSrXv"
       },
@@ -5482,6 +5518,10 @@
         {
           "name": "The Last Rockstars",
           "url": "https://open.spotify.com/artist/4tCAdCQzODk8RI5LvTfujz"
+        },
+        {
+          "name": "Yoshiki",
+          "url": "https://open.spotify.com/artist/2EWIKpC6npt0GTe1Cq1KDm"
         }
       ],
       "date_added": "2023-07-20",
@@ -5754,6 +5794,28 @@
       "duration_ms": 271265,
       "name": "UNDER THE TREE - Full Length Ver.",
       "url": "https://open.spotify.com/track/5YcUxwigZPVTeBAMXWHaYq"
+    },
+    {
+      "album": {
+        "name": "Useless",
+        "url": "https://open.spotify.com/album/5sEatstRNfjeRdXmu1pHBe"
+      },
+      "artists": [
+        {
+          "name": "Survive Said The Prophet",
+          "url": "https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh"
+        },
+        {
+          "name": "Knosis",
+          "url": "https://open.spotify.com/artist/5o1BN92ZEG8TucPzj6czCh"
+        }
+      ],
+      "date_added": "2025-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190500,
+      "name": "Useless",
+      "url": "https://open.spotify.com/track/4w1n6SNwu8H0SlwzhsyaiV"
     },
     {
       "album": {
@@ -7264,7 +7326,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-29",
       "duration_ms": 207301,
       "name": "\u90e8\u9577\u3077\u3063\u3061\u3087\u3069\u3046\uff1f",
       "url": "https://open.spotify.com/track/2Oz4Nt5wvOhvh5DTT8PrqR"

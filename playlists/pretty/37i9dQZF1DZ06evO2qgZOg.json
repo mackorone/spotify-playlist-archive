@@ -1,12 +1,12 @@
 {
   "description": "This is Skillet. The essential tracks, all in one playlist.",
-  "num_followers": 300212,
+  "num_followers": 300274,
   "original_name": "This Is Skillet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDOvAAAAAACplpAD73IVM9oOnfvyXYQJ",
+  "snapshot_id": "aDUAgAAAAACT3IgCI3AHGx0P0s6dFKuC",
   "tracks": [
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
         }
       ],
-      "duration_ms": 232054,
-      "name": "Ash In The Wind",
-      "url": "https://open.spotify.com/track/3MExPJbadqPSX3GlUeqzfl"
+      "duration_ms": 185553,
+      "name": "Unpopular",
+      "url": "https://open.spotify.com/track/74PfOfWFgxpUBBucEiWWNx"
     },
     {
       "added_at": null,
@@ -364,25 +364,9 @@
           "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
         }
       ],
-      "duration_ms": 185553,
-      "name": "Unpopular",
-      "url": "https://open.spotify.com/track/74PfOfWFgxpUBBucEiWWNx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rise (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3AUIurHdBrfvqSs7EEr3AA"
-      },
-      "artists": [
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        }
-      ],
-      "duration_ms": 199480,
-      "name": "What I Believe",
-      "url": "https://open.spotify.com/track/5aUl2cPg4O7yXXdzWQVTYO"
+      "duration_ms": 232054,
+      "name": "Ash In The Wind",
+      "url": "https://open.spotify.com/track/3MExPJbadqPSX3GlUeqzfl"
     },
     {
       "added_at": null,
@@ -399,6 +383,22 @@
       "duration_ms": 210520,
       "name": "Never Surrender",
       "url": "https://open.spotify.com/track/4MoVvVkDGFNtQPHciZgG3w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rise (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3AUIurHdBrfvqSs7EEr3AA"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "duration_ms": 199480,
+      "name": "What I Believe",
+      "url": "https://open.spotify.com/track/5aUl2cPg4O7yXXdzWQVTYO"
     },
     {
       "added_at": null,

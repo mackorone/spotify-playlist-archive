@@ -4,7 +4,7 @@
 
 > Get the party started with these Naija bangers!
 
-682 songs - 1 day 8 hr 23 min
+683 songs - 1 day 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Adenuga \(feat\. Qing Madi\)](https://open.spotify.com/track/74CA9T8IpFzrLNFV6EoY3a) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Adenuga x Concerning](https://open.spotify.com/album/1O3r2Q1sb3XUuUFwbJQKo2) | 2:40 | 2024-04-12 | 2025-02-25 |
 | [Again](https://open.spotify.com/track/6qk3jI8bKCgURI3h0d8zBZ) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Realms](https://open.spotify.com/album/0ZdiHNx2h4QTKwfF7fEM8j) | 2:36 | 2022-06-09 | 2023-02-24 |
 | [Agba Singing](https://open.spotify.com/track/1r1Xz7MMUotaxziNtqcstp) | [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X) | [Agba Singing](https://open.spotify.com/album/2Mt90xMkv1pP1ZxOpIvg1i) | 2:30 | 2024-10-07 | 2025-04-01 |
-| [Alchl](https://open.spotify.com/track/6s2Axyc8OgfFFlDMK3XtqZ) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [I Dream In Color](https://open.spotify.com/album/1f2GqjFMA3dTYF6CNVAQdh) | 2:40 | 2025-02-28 |  |
+| [Alchl](https://open.spotify.com/track/6s2Axyc8OgfFFlDMK3XtqZ) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [I Dream In Color](https://open.spotify.com/album/1f2GqjFMA3dTYF6CNVAQdh) | 2:40 | 2025-02-28 | 2025-05-29 |
 | [Alhaji](https://open.spotify.com/track/5XrgPJask6SnYkoPDQAHQy) | [FirstKlaz](https://open.spotify.com/artist/6VPpDxzOXTPNsdxfJ5cAR5), [Iliya Entertainment Music](https://open.spotify.com/artist/0NwtS6wE1fRewrOxxSCSKh) | [Alhaji](https://open.spotify.com/album/70vdKrzZ5W8XqRj4YcbWyr) | 2:01 | 2024-12-06 | 2025-02-13 |
 | [Alhaji](https://open.spotify.com/track/1fl2s61uhH6Ob4bU6f8TMT) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Alhaji](https://open.spotify.com/album/2x89WyCjViUviC7YjEZlxm) | 2:23 | 2025-05-23 |  |
 | [All of Us](https://open.spotify.com/track/66hwnejSDoMXppajTx1jc6) | [Kukbeatz](https://open.spotify.com/artist/7ec839cm4GyYwjFaHdOUbN), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [All of Us](https://open.spotify.com/album/0f9DldlKR7QQBmy3In5BOI) | 2:52 | 2023-12-15 | 2024-06-01 |
@@ -248,6 +248,7 @@
 | [FIREGUN](https://open.spotify.com/track/3GYjrPY5rh4f02ezDl07De) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [FIREGUN](https://open.spotify.com/album/0papSoKgmmRHnyIkCmMRhl) | 3:14 | 2023-06-30 | 2023-07-11 |
 | [FIREGUN \(feat\. Fireboy DML\)](https://open.spotify.com/track/5UautcyJDjHxwnejNAkfg9) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [FIREGUN \(feat\. Fireboy DML\)](https://open.spotify.com/album/1t7HLxUEYRN3TUBGkoazWj) | 3:14 | 2023-07-14 | 2023-10-09 |
 | [FIREGUN \(feat\. Fireboy DML\)](https://open.spotify.com/track/5VF45DoQu9oT7Se5ieLoZk) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [EZIOKWU](https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx) | 3:14 | 2023-09-29 | 2024-03-22 |
+| [First Sight](https://open.spotify.com/track/02DkSzg2JUcKiWllkiZKlO) | [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh) | [First Sight](https://open.spotify.com/album/3xOkRgxPDogV62jurUx4Vg) | 3:06 | 2025-05-23 |  |
 | [flavor.](https://open.spotify.com/track/3q51YwUa160xFufWZuPM78) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [Xistence.](https://open.spotify.com/album/36cl6vYPoDH3k2dtTsuBL5) | 1:38 | 2025-02-19 | 2025-04-01 |
 | [Flex](https://open.spotify.com/track/61VsQlEKyeL6E4W41F1bYU) | [Lil Qhuid](https://open.spotify.com/artist/1BLlvXV8nOlu9QpAYqDWLP), [DJ Boat](https://open.spotify.com/artist/0Btky5ia7ihAQE8UEXPmbQ), [BetejayMadeIt](https://open.spotify.com/artist/4pvwFJJ5bMKFB3QYZTzDdY) | [Flex](https://open.spotify.com/album/6b2KkHqsI33fosCa2KbGmf) | 2:54 | 2024-02-09 | 2024-03-22 |
 | [Focus On Me \(All The Sexy Girls In The Club\)](https://open.spotify.com/track/7JMkjelaEgUOdV7926uzGi) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR) | [Focus On Me \(All The Sexy Girls In The Club\)](https://open.spotify.com/album/5DsOXNHR7dHOSVQ5sFDp4N) | 3:09 | 2025-01-21 |  |

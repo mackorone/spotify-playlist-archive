@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 ### [New Music Friday BE](https://open.spotify.com/playlist/37i9dQZF1DXbUOvbOBAiPu)
 
-> New music from LUNA & Metejoor, Eefje de Visser, Burna Boy en meer...
+> New music from LUNA & Metejoor, Eefje de Visser, Burna Boy and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,671 likes - 94 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,673 likes - 94 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,11 +96,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 86 | [Pray](https://open.spotify.com/track/2QIwwLD84biX4Ghw2VJYCn) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Pray](https://open.spotify.com/album/5fJ1VOWImcJkl9QLRsRHBS) | 3:04 |
 | 87 | [Wat Zou Ik Daarvoor Moeten Doen](https://open.spotify.com/track/4Thwkrx5Qf6sCskcEy4ucF) | [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ) | [Wat Zou Ik Daarvoor Moeten Doen](https://open.spotify.com/album/1f4OPOd7un2KA8WPLccIXe) | 3:09 |
 | 88 | [josie](https://open.spotify.com/track/48iE8EnH8L9ZHnpDtkovwg) | [philine](https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL) | [josie](https://open.spotify.com/album/3KFvqxdQSAnmJCsbToEzEk) | 2:56 |
-| 89 | [HOLLYWOOD \- feat\. Shoreline Mafia](https://open.spotify.com/track/0uAmR0yTDNAaXA5jPGOrir) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ) | [HOLLYWOOD \(feat\. Shoreline Mafia\)](https://open.spotify.com/album/0pg3WtuKm4GlckMugbml46) | 3:00 |
+| 89 | [HOLLYWOOD](https://open.spotify.com/track/0uAmR0yTDNAaXA5jPGOrir) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ) | [HOLLYWOOD](https://open.spotify.com/album/0pg3WtuKm4GlckMugbml46) | 3:00 |
 | 90 | [Haast](https://open.spotify.com/track/5cyRYelTdsXAFHkv0gMNiU) | [De Twins](https://open.spotify.com/artist/7mX70r181nFRZXuMRkKdDv) | [Haast](https://open.spotify.com/album/6u8ZDJe8NzZDoeY3JBxfCA) | 2:57 |
 | 91 | [Sterk Water](https://open.spotify.com/track/6h2oatveHS7B1X9twMqBJ9) | [Vieze Meisje](https://open.spotify.com/artist/3vcfiyMZrC1bpR4m5VkFUl) | [Sterk Water](https://open.spotify.com/album/3UTeUZ4ZyWFC7orxLZRvGK) | 3:07 |
 | 92 | [Let's Go](https://open.spotify.com/track/2rCVDyF33KhwBR3mDfo2pV) | [Gio Kemper](https://open.spotify.com/artist/1zl6OAgkunniIfcidpGL6w) | [Let's Go](https://open.spotify.com/album/6emdao7eIkXhAHuiS91JSU) | 2:21 |
 | 93 | [Zoete zee](https://open.spotify.com/track/7bOQJZK4s2MB4oQrpGu27i) | [Kubilay Kaya](https://open.spotify.com/artist/6kYPCxuSAog3cu8iwQnilK), [Sanne Feenstra](https://open.spotify.com/artist/57MQGrW9Mc8glodCgHYEMy) | [Zoete zee](https://open.spotify.com/album/6SR3TBwEEAGJ99pXfm2WMj) | 3:15 |
 | 94 | [Kobe in 2010](https://open.spotify.com/track/28qyL0zJkcK3P1DZeBliJ5) | [SAN ANDREAS](https://open.spotify.com/artist/4DkAejYwYl6ApOckPPlo1y) | [Kobe in 2010](https://open.spotify.com/album/0BInPxfeXG4eDwoVXEYieZ) | 1:33 |
 
-Snapshot ID: `aDQfVQAAAAAHtzrZzyocF2XMdwRX5ass`
+Snapshot ID: `aDb6SAAAAACblKlQ7cj59OHAIViaOeDr`

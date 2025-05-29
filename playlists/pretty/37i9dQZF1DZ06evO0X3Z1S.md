@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0X3Z1S.md) - [plain]
 
 > This is Jonas Blue\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,365 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,367 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0X3Z1S.md) - [plain]
 | 35 | [Mistakes](https://open.spotify.com/track/4zCEJUxsW73s2sIIoM4SLC) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [Mistakes](https://open.spotify.com/album/7dm0STpyctopt8zjJ0IHPT) | 3:06 |
 | 36 | [Don't Give Up \- Jonas Blue Remix](https://open.spotify.com/track/4k1fuzOlu1vQEYG5muVP94) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Don't Give Up \(Jonas Blue Remix\)](https://open.spotify.com/album/1yqDCZu5DB4XCSWE6eeiZA) | 3:21 |
 | 37 | [Fast Car \- Club Mix](https://open.spotify.com/track/38Iwduov8CqeckUz1oKmyC) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Dakota](https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms) | [Fast Car \(Remixes\)](https://open.spotify.com/album/40ifSsakci9ksnclgVDT8F) | 5:30 |
-| 38 | [Now or Never](https://open.spotify.com/track/48Ow2RXXaLwWVEp2Y4F6DV) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Call My Name](https://open.spotify.com/album/5SBLYLF6v5FafexVCvVh8R) | 3:05 |
-| 39 | [All Night Long](https://open.spotify.com/track/7rRMmhC027ixjjXzuZYoMv) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS) | [All Night Long](https://open.spotify.com/album/0N142E2hr6c8uf0qrpfvhQ) | 3:26 |
-| 40 | [MOONLIGHT SUNRISE \(Jonas Blue Remix\)](https://open.spotify.com/track/0H8vXZHYrbMfYJlojEjiS3) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [THE REMIXES](https://open.spotify.com/album/37WsLE5Eny9CTmF9CPzWIq) | 2:47 |
+| 38 | [All Night Long](https://open.spotify.com/track/7rRMmhC027ixjjXzuZYoMv) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS) | [All Night Long](https://open.spotify.com/album/0N142E2hr6c8uf0qrpfvhQ) | 3:26 |
+| 39 | [MOONLIGHT SUNRISE \(Jonas Blue Remix\)](https://open.spotify.com/track/0H8vXZHYrbMfYJlojEjiS3) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [THE REMIXES](https://open.spotify.com/album/37WsLE5Eny9CTmF9CPzWIq) | 2:47 |
+| 40 | [Now or Never](https://open.spotify.com/track/48Ow2RXXaLwWVEp2Y4F6DV) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Call My Name](https://open.spotify.com/album/5SBLYLF6v5FafexVCvVh8R) | 3:05 |
 | 41 | [Aceita \- Jonas Blue Remix](https://open.spotify.com/track/5neNUN5qPB1hkJzhT823rO) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Aceita \(Jonas Blue Remix\)](https://open.spotify.com/album/6QXjrHkPxuk3N8ZINvq3le) | 2:50 |
 | 42 | [I Wanna Dance](https://open.spotify.com/track/1CW7tYkpJ95c7bQkRf6CcK) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [I Wanna Dance](https://open.spotify.com/album/3niF8tyjfJw8pmfc6VYKGa) | 3:04 |
 | 43 | [Till The End \- Jonas Blue & Sam Feldt Present Endless Summer](https://open.spotify.com/track/42NgRCC7M5rfVNKXMaFitZ) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Sam DeRosa](https://open.spotify.com/artist/4xOi6SOP1jUoAeSfuPsfx0), [Endless Summer](https://open.spotify.com/artist/3E0d6yF8knEtWluzLbxCVA) | [Till The End \(Jonas Blue & Sam Feldt Present Endless Summer\)](https://open.spotify.com/album/1ocuRCXk3wpcRl5OzQvGB9) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0X3Z1S.md) - [plain]
 | 49 | [Roll With Me \(feat\. Shungudzo & ZieZie\)](https://open.spotify.com/track/5nsJclFXUIQajs8WJIkds7) | [Bantu](https://open.spotify.com/artist/6tt0iYnpHERj05WATWRiom), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T), [ZieZie](https://open.spotify.com/artist/26XzvosH2cl8Re6KSo9m8Z) | [Roll With Me \(feat\. Shungudzo & ZieZie\)](https://open.spotify.com/album/20SORgtgHYtIn2xjpjXres) | 3:02 |
 | 50 | [Siento](https://open.spotify.com/track/2Ys5BmzK3AZWNCrKihq50z) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Siento](https://open.spotify.com/album/4kKvFPFsPnBgSvTxG1ybPq) | 3:37 |
 
-Snapshot ID: `aDOvAAAAAADrVPdVVy3D8g1nP6pZrD/n`
+Snapshot ID: `aDUAgAAAAABqSmChNXEKpXk4AWl2mb4y`

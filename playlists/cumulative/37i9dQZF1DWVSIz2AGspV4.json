@@ -2411,6 +2411,24 @@
     },
     {
       "album": {
+        "name": "Goli Goli",
+        "url": "https://open.spotify.com/album/1tJ2xRvJiSbvFwEWpmg3Z8"
+      },
+      "artists": [
+        {
+          "name": "Ali Saber",
+          "url": "https://open.spotify.com/artist/6kNbn4f4j3Uhd79CGCmcFK"
+        }
+      ],
+      "date_added": "2025-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216521,
+      "name": "Goli Goli",
+      "url": "https://open.spotify.com/track/4flys7yW9xneNYyeHTvYSi"
+    },
+    {
+      "album": {
         "name": "Ha Khouya",
         "url": "https://open.spotify.com/album/6XQsDdlTch6XLivTtooFzL"
       },
@@ -3604,7 +3622,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-29",
       "duration_ms": 168888,
       "name": "Maali Habibi",
       "url": "https://open.spotify.com/track/69f4WjQ8eXRM2ESxlqeIWu"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0nWt7RisY0ovBXztrbCyiV">Sia</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,248 likes - 338 songs - 21 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,251 likes - 338 songs - 21 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -262,8 +262,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 252 | [Toy Box](https://open.spotify.com/track/1ox13aJPqqpqb6Ej1HO3Db) | [Mylene Cruz \(Herizen Guardiola\) & The Soul Madonnas](https://open.spotify.com/artist/1qCN3pqJTenBwFzJvtaXMS), [The Soul Madonnas](https://open.spotify.com/artist/5tvgyJ5URflCCNGKEZ7iB4) | [The Get Down Part II: Original Soundtrack From The Netflix Original Series](https://open.spotify.com/album/0UqBp39R5ARECBnxnVk25l) | 3:45 |
 | 253 | [Go On](https://open.spotify.com/track/5gKW4Zbd2A6NcD6iAF2JQ1) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Reasonable Woman](https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb) | 3:14 |
 | 254 | [Cares At The Door](https://open.spotify.com/track/21MIfQxzau3lmiPtnwQzJX) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Some People Have REAL Problems](https://open.spotify.com/album/6jwrliQ4758qVYMtdgQtZt) | 3:51 |
-| 255 | [Don't Give Up \(Heaven Edit\)](https://open.spotify.com/track/50nNOHPUI1HCmbLpnHSTo9) | [Sam i](https://open.spotify.com/artist/5AUTN6tMncnOnYgJK1VM6K), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Don't Give Up \(Heaven Edit\)](https://open.spotify.com/album/3L9ufHivNkSdvYiVDnY1OT) | 3:26 |
-| 256 | [If the Earth is Spinning \(feat\. Sia\)](https://open.spotify.com/track/24SJ5ugsrMU20yLjZIsxlI) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Infinite Icon](https://open.spotify.com/album/1nfalq2GeQblyDqn9wYzWx) | 3:13 |
+| 255 | [If the Earth is Spinning \(feat\. Sia\)](https://open.spotify.com/track/24SJ5ugsrMU20yLjZIsxlI) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Infinite Icon](https://open.spotify.com/album/1nfalq2GeQblyDqn9wYzWx) | 3:13 |
+| 256 | [Don't Give Up \(Heaven Edit\)](https://open.spotify.com/track/50nNOHPUI1HCmbLpnHSTo9) | [Sam i](https://open.spotify.com/artist/5AUTN6tMncnOnYgJK1VM6K), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Don't Give Up \(Heaven Edit\)](https://open.spotify.com/album/3L9ufHivNkSdvYiVDnY1OT) | 3:26 |
 | 257 | [12 Nights](https://open.spotify.com/track/2k5F4391ld0tzQCZf6vV7h) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Snowman Deluxe Edition\)](https://open.spotify.com/album/49kFmuCyxzpbtVfnpLcOP1) | 4:07 |
 | 258 | [Like Water \(Originals\)](https://open.spotify.com/track/5lVwpU4qZ6XpGee6Zc4Ohd) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 3:57 |
 | 259 | [Broken Biscuit](https://open.spotify.com/track/3IWBbQlGtsZgCO16AffdKE) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Colour The Small One \(Deluxe Edition\)](https://open.spotify.com/album/5ywlzsK6ga8Drc8RbSI0KX) | 4:55 |
@@ -347,4 +347,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 337 | [Cut To The Chase](https://open.spotify.com/track/5Ci2h6Xg4Z6WULbttzd6VB) | [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2aBT9pL5XZXmGB5gR9QQUo) | 2:52 |
 | 338 | [Out There](https://open.spotify.com/track/3Te7kICU7pmlx86QzNyb23) | [Mariana Coello](https://open.spotify.com/artist/2v8BIa5qKGdUZXfRQk9206) | [Out There](https://open.spotify.com/album/6q00fYGRYBkaVG3ujARmNF) | 2:50 |
 
-Snapshot ID: `AbykFgAAAABynKAViiHaCvtBjK9iyxdW`
+Snapshot ID: `Abyp8gAAAAAG+mUv2PQD/bW7qyVfwjeJ`

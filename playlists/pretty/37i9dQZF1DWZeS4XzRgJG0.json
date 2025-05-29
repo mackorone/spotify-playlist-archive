@@ -1,6 +1,6 @@
 {
   "description": "focus modus is aan en leren maar",
-  "num_followers": 37862,
+  "num_followers": 37889,
   "original_name": "Studeermuziek",
   "owner": {
     "name": "Spotify",
@@ -863,22 +863,6 @@
     {
       "added_at": "2025-04-29 14:55:42",
       "album": {
-        "name": "Electric Light",
-        "url": "https://open.spotify.com/album/08cprzGPjtLDvKMwtQh93R"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 181360,
-      "name": "Us",
-      "url": "https://open.spotify.com/track/16XiTUC2rQvb5lmtOm3FYY"
-    },
-    {
-      "added_at": "2025-04-29 14:55:42",
-      "album": {
         "name": "It'll Be Okay",
         "url": "https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 222800,
       "name": "It'll Be Okay",
       "url": "https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD"
+    },
+    {
+      "added_at": "2025-04-29 14:55:42",
+      "album": {
+        "name": "Electric Light",
+        "url": "https://open.spotify.com/album/08cprzGPjtLDvKMwtQh93R"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 181360,
+      "name": "Us",
+      "url": "https://open.spotify.com/track/16XiTUC2rQvb5lmtOm3FYY"
     },
     {
       "added_at": "2025-04-29 14:55:42",
@@ -943,6 +943,26 @@
     {
       "added_at": "2025-04-29 14:55:42",
       "album": {
+        "name": "Is There Anybody Out There?",
+        "url": "https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl"
+      },
+      "artists": [
+        {
+          "name": "A Great Big World",
+          "url": "https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF"
+        },
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 229400,
+      "name": "Say Something",
+      "url": "https://open.spotify.com/track/6Vc5wAMmXdKIAM7WUoEb7N"
+    },
+    {
+      "added_at": "2025-04-29 14:55:42",
+      "album": {
         "name": "Chaos And The Calm",
         "url": "https://open.spotify.com/album/3GqsyMrJu3o8jLiGyBsBQW"
       },
@@ -971,26 +991,6 @@
       "duration_ms": 185200,
       "name": "Little Do You Know",
       "url": "https://open.spotify.com/track/1almCHdsfikRPfVB9VrEdT"
-    },
-    {
-      "added_at": "2025-04-29 14:55:42",
-      "album": {
-        "name": "Is There Anybody Out There?",
-        "url": "https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl"
-      },
-      "artists": [
-        {
-          "name": "A Great Big World",
-          "url": "https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF"
-        },
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 229400,
-      "name": "Say Something",
-      "url": "https://open.spotify.com/track/6Vc5wAMmXdKIAM7WUoEb7N"
     },
     {
       "added_at": "2025-04-29 14:55:42",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2025-04-29 14:55:42",
       "album": {
-        "name": "Kiss Me",
-        "url": "https://open.spotify.com/album/23A1VrlL0AyJkv6OpZofNy"
-      },
-      "artists": [
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 240900,
-      "name": "Kiss Me - Acoustic",
-      "url": "https://open.spotify.com/track/7xQUulzggtLVXbo8tLwpjc"
-    },
-    {
-      "added_at": "2025-04-29 14:55:42",
-      "album": {
         "name": "Always",
         "url": "https://open.spotify.com/album/0PKJ1GtB1639K7P0hbjvfM"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 247842,
       "name": "Always",
       "url": "https://open.spotify.com/track/3MQMBm2m3UqpT23doEOZc2"
+    },
+    {
+      "added_at": "2025-04-29 14:55:42",
+      "album": {
+        "name": "Kiss Me",
+        "url": "https://open.spotify.com/album/23A1VrlL0AyJkv6OpZofNy"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 240900,
+      "name": "Kiss Me - Acoustic",
+      "url": "https://open.spotify.com/track/7xQUulzggtLVXbo8tLwpjc"
     },
     {
       "added_at": "2025-04-29 14:55:42",
@@ -2231,22 +2231,6 @@
     {
       "added_at": "2025-04-29 14:55:42",
       "album": {
-        "name": "One Day",
-        "url": "https://open.spotify.com/album/5Q1DDLoSIkSgwPCGH6luio"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 202496,
-      "name": "One Day",
-      "url": "https://open.spotify.com/track/27r2uANqwK7XbsiAZnzf9e"
-    },
-    {
-      "added_at": "2025-04-29 14:55:42",
-      "album": {
         "name": "Fingers Crossed",
         "url": "https://open.spotify.com/album/1UPlwdM0JYNwlDcKbeXrKZ"
       },
@@ -2259,6 +2243,22 @@
       "duration_ms": 175344,
       "name": "Fingers Crossed",
       "url": "https://open.spotify.com/track/5S9Zs5g9lTWnLIboN1pdlU"
+    },
+    {
+      "added_at": "2025-04-29 14:55:42",
+      "album": {
+        "name": "One Day",
+        "url": "https://open.spotify.com/album/5Q1DDLoSIkSgwPCGH6luio"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 202496,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/27r2uANqwK7XbsiAZnzf9e"
     },
     {
       "added_at": "2025-04-29 14:55:42",

@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Bostik. The essential tracks, all in one playlist.",
-  "num_followers": 6008,
+  "num_followers": 6017,
   "original_name": "This Is Banda Bostik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDOvAAAAAAAmNlHOxLPE7yWVBI9DY86U",
+  "snapshot_id": "aDUAgAAAAAAQBA0cPZYJz5JZyoV7o8Sl",
   "tracks": [
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Capturados",
-        "url": "https://open.spotify.com/album/3yAAIY2FjKw8IkOVTEguWu"
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
         }
       ],
-      "duration_ms": 236193,
-      "name": "Pandillero, Pt. 1",
-      "url": "https://open.spotify.com/track/1LB8vVSpazzZ9pQ0VzGuAj"
+      "duration_ms": 201680,
+      "name": "Redada",
+      "url": "https://open.spotify.com/track/6A5YgDerg860DaXXDvBJxU"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV"
+        "name": "Capturados",
+        "url": "https://open.spotify.com/album/3yAAIY2FjKw8IkOVTEguWu"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
         }
       ],
-      "duration_ms": 201680,
-      "name": "Redada",
-      "url": "https://open.spotify.com/track/6A5YgDerg860DaXXDvBJxU"
+      "duration_ms": 236193,
+      "name": "Pandillero, Pt. 1",
+      "url": "https://open.spotify.com/track/1LB8vVSpazzZ9pQ0VzGuAj"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Capturados",
-        "url": "https://open.spotify.com/album/3yAAIY2FjKw8IkOVTEguWu"
-      },
-      "artists": [
-        {
-          "name": "Banda Bostik",
-          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
-        }
-      ],
-      "duration_ms": 129393,
-      "name": "Presentaci\u00f3n",
-      "url": "https://open.spotify.com/track/6Lx6yC1Zltmx93uT6QxFlc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Genoma Humano",
         "url": "https://open.spotify.com/album/7vN4m21unn7Fy7splGXC62"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 223386,
       "name": "Guerrillero",
       "url": "https://open.spotify.com/track/7vW9d63iftut4OaD1IVv17"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Capturados",
+        "url": "https://open.spotify.com/album/3yAAIY2FjKw8IkOVTEguWu"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "duration_ms": 129393,
+      "name": "Presentaci\u00f3n",
+      "url": "https://open.spotify.com/track/6Lx6yC1Zltmx93uT6QxFlc"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Capturados",
-        "url": "https://open.spotify.com/album/3yAAIY2FjKw8IkOVTEguWu"
-      },
-      "artists": [
-        {
-          "name": "Banda Bostik",
-          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
-        }
-      ],
-      "duration_ms": 191750,
-      "name": "Maribel",
-      "url": "https://open.spotify.com/track/24R36ZDhCWbXsucZwm4LBc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Genoma Humano",
         "url": "https://open.spotify.com/album/7vN4m21unn7Fy7splGXC62"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 277960,
       "name": "El o Ella",
       "url": "https://open.spotify.com/track/62IHFIcNY5g8t5XA8mAmZ8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Capturados",
+        "url": "https://open.spotify.com/album/3yAAIY2FjKw8IkOVTEguWu"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "duration_ms": 191750,
+      "name": "Maribel",
+      "url": "https://open.spotify.com/track/24R36ZDhCWbXsucZwm4LBc"
     },
     {
       "added_at": null,
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Capturados",
-        "url": "https://open.spotify.com/album/3yAAIY2FjKw8IkOVTEguWu"
+        "name": "Genoma Humano",
+        "url": "https://open.spotify.com/album/7vN4m21unn7Fy7splGXC62"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
         }
       ],
-      "duration_ms": 156548,
-      "name": "Blue Suede Shoes",
-      "url": "https://open.spotify.com/track/73jOGdULRXfR02W41tyP9u"
+      "duration_ms": 340560,
+      "name": "Ave Nocturna",
+      "url": "https://open.spotify.com/track/7ebnVkj8vrXaPD51rSw0ia"
     }
   ],
   "unique_name": "This Is Banda Bostik",

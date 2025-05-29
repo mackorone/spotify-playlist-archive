@@ -4,7 +4,7 @@
 
 > Piezas acústicas que te ayudarán a enfocarte.
 
-116 songs - 5 hr 55 min
+117 songs - 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Ibiza Sunset](https://open.spotify.com/track/3n3WBgFav1mo7Ccz1T3E0j) | [Eric Josef](https://open.spotify.com/artist/29w4oGLyEXCDDyaCvKTtfN) | [Ibiza Sunset](https://open.spotify.com/album/03gFLapNILwqleIO9ZCPS8) | 2:48 | 2023-12-15 |  |
 | [If I Hold Her Tight](https://open.spotify.com/track/7DyqszQV23g2raAm9hYskl) | [Adrian Muriel](https://open.spotify.com/artist/0JSV9pQZCkhOL2pLXOGO3T) | [White Nights](https://open.spotify.com/album/2OOVDZBJZmeyXxg2OzhlL7) | 3:41 | 2023-12-15 |  |
 | [In The Morning Sun](https://open.spotify.com/track/3GK06PqC7srEok5b6tlfAc) | [Mario Regio](https://open.spotify.com/artist/37J9hiCCgzUYyi8V46abD2) | [Pinus Halepensis](https://open.spotify.com/album/5VbSF6F1JbowAFGpB3YB9C) | 3:33 | 2023-12-15 |  |
+| [Just In Case](https://open.spotify.com/track/0xsxO2M2wEqtTMPmkFMxW4) | [Jonka Tribute](https://open.spotify.com/artist/3RBASZuevPXGYdPtyltxT9) | [Just In Case](https://open.spotify.com/album/6oE3lcUNSBg3JdGZXrwE9L) | 2:45 | 2025-05-28 |  |
 | [La Fogata](https://open.spotify.com/track/0lIee3QNGXfs0AVJr29yIo) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [La Fogata](https://open.spotify.com/album/72AEnJLKgvXxsPuVQAWPvi) | 2:32 | 2023-12-15 |  |
 | [La Frase Importante](https://open.spotify.com/track/6W4kU5OcSgSsn0e0yrZ6Na) | [El Equipo Del Norte](https://open.spotify.com/artist/3NlkrQ9iKKw6VZlWr0lk0U) | [La Frase Importante](https://open.spotify.com/album/7IGHlC1Vf7aOa5i4OaeVCu) | 3:02 | 2023-12-15 | 2025-02-25 |
 | [lago azul](https://open.spotify.com/track/5TaKQs2zs5EvEcZVeQKXcv) | [Jesse Edwards](https://open.spotify.com/artist/709zLNADbgTrKat7mNELgy) | [Camilla](https://open.spotify.com/album/57cP0FEzhoCtxvuge5fh2u) | 3:22 | 2023-12-15 |  |
@@ -74,7 +75,7 @@
 | [Mate Dulce y Amargo](https://open.spotify.com/track/0u6r9d3mjMfIJ3FF4RW4k9) | [Las Tres Cuerdas](https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a) | [Mate Dulce y Amargo](https://open.spotify.com/album/3U0ywmyP4MKnpv6BSaBAjv) | 2:58 | 2023-12-15 |  |
 | [Me Dijeron Que Estas Bien](https://open.spotify.com/track/4giwucadmCriq0zubRnUNg) | [Las Tres Abejas](https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi) | [Me Dijeron Que Estas Bien](https://open.spotify.com/album/1szujtJwnISWuBBCSqSR53) | 2:27 | 2023-12-15 |  |
 | [Merula](https://open.spotify.com/track/28rRAAV0wy18FNxLgH46WQ) | [Mario Cabrera](https://open.spotify.com/artist/2jxGXKxdhbWgtylGviMHZh) | [Merula](https://open.spotify.com/album/3L05XKpAW8M2i9j7z1BbeN) | 4:09 | 2023-12-15 |  |
-| [MIA \(Acoustic Cover\)](https://open.spotify.com/track/5J42gkKWho5iHm8JTOO0uE) | [Bruno Elisabetsky](https://open.spotify.com/artist/4eMHMibKPrazzDOFNMTJTQ) | [MIA \(Acoustic Cover\)](https://open.spotify.com/album/013OQf5I0OmgLdzZcjhR0k) | 3:20 | 2023-12-15 |  |
+| [MIA \(Acoustic Cover\)](https://open.spotify.com/track/5J42gkKWho5iHm8JTOO0uE) | [Bruno Elisabetsky](https://open.spotify.com/artist/4eMHMibKPrazzDOFNMTJTQ) | [MIA \(Acoustic Cover\)](https://open.spotify.com/album/013OQf5I0OmgLdzZcjhR0k) | 3:20 | 2023-12-15 | 2025-05-29 |
 | [No Te Mentí](https://open.spotify.com/track/1YsobFyJPJXt0B1EGizzNv) | [Byron Brizz](https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ), [David Peña](https://open.spotify.com/artist/4NMM9OaHOyncdIvuDks37i) | [Alma Mexicana](https://open.spotify.com/album/5q23NA34MBehDCwbbhfDBJ) | 2:04 | 2023-12-15 |  |
 | [No Te Vayas](https://open.spotify.com/track/6J7JikIQ1IqUKeGCnYaK8w) | [Las Palmas Rosas](https://open.spotify.com/artist/5JoX8uKllGc2qsVy76rgsM) | [Las Palmas Rosas](https://open.spotify.com/album/6JhI7GjDswt6CqQi0cyyuo) | 2:45 | 2023-12-15 |  |
 | [Nostalgia](https://open.spotify.com/track/0qHJd9jqgclHWGouSXRcOz) | [Fredrik Johansson](https://open.spotify.com/artist/7wKJfbyQ8YETfxRRjZv80m) | [Nostalgia](https://open.spotify.com/album/38o8v1HxQz6vrJd0yPn1Ep) | 3:15 | 2023-12-15 |  |
@@ -88,7 +89,7 @@
 | [Pensando En Ti](https://open.spotify.com/track/7Ckf1wTf5DDp9byugqz3gv) | [Las Perlas Negras](https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp) | [Pensando En Ti](https://open.spotify.com/album/0DdhG3uTQzuqaUYHOTyleK) | 2:42 | 2023-12-15 |  |
 | [Perfidia](https://open.spotify.com/track/5WQ5a7ixw5DJ5uyQZGD8FP) | [Las Palmas Rosas](https://open.spotify.com/artist/5JoX8uKllGc2qsVy76rgsM) | [Las Palmas Rosas](https://open.spotify.com/album/6JhI7GjDswt6CqQi0cyyuo) | 2:58 | 2023-12-15 |  |
 | [Photograph](https://open.spotify.com/track/3V77kdKcM6fPqhMeDeGlFH) | [Son De Durango](https://open.spotify.com/artist/0ISEAJsaLxPWWkKJ9JLmd6) | [Photograph](https://open.spotify.com/album/3t5RR5bjvFYCCTVC7n2q8Y) | 3:17 | 2023-12-15 |  |
-| [Porro](https://open.spotify.com/track/0vPCJQTYGTOhEpO1diLYSO) | [Gentil Montaña](https://open.spotify.com/artist/1xhGE4Jo5IQkanmyVtGF8T), [Celia Linde](https://open.spotify.com/artist/12Sdhg5Y9l75czgzGyMD34) | [Shades in Blue](https://open.spotify.com/album/52NKtIOuEqvvlBN43G9Vz5) | 3:35 | 2023-12-15 |  |
+| [Porro](https://open.spotify.com/track/0vPCJQTYGTOhEpO1diLYSO) | [Gentil Montaña](https://open.spotify.com/artist/1xhGE4Jo5IQkanmyVtGF8T), [Celia Linde](https://open.spotify.com/artist/12Sdhg5Y9l75czgzGyMD34) | [Shades in Blue](https://open.spotify.com/album/52NKtIOuEqvvlBN43G9Vz5) | 3:35 | 2023-12-15 | 2025-05-29 |
 | [Pão de Açúcar](https://open.spotify.com/track/07ZdqvJ37JIGrbybE2iVPZ) | [El Equipo Del Norte](https://open.spotify.com/artist/3NlkrQ9iKKw6VZlWr0lk0U) | [Pão de Açúcar](https://open.spotify.com/album/5qz7sVtLSdqQatSiYUpJWM) | 3:42 | 2023-12-15 |  |
 | [Quiereme Corazon Quiereme](https://open.spotify.com/track/0K38jgUjNNXz6AEgQneS6M) | [Las Almas Nuevas](https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt) | [Quiereme Corazon Quiereme](https://open.spotify.com/album/7z9wIysqZqoUNFso68D3zK) | 2:54 | 2023-12-15 |  |
 | [Rancho](https://open.spotify.com/track/46BVf0OGrdgbuowxPpwviH) | [Joana Ema](https://open.spotify.com/artist/2W1k5KydRQg7MsOSgGEm9u) | [Rancho](https://open.spotify.com/album/5NWhm7lJDMiKryYAWeW2U9) | 2:49 | 2023-12-15 |  |

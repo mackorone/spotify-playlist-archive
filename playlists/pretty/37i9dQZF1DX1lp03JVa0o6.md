@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 
 > Today's biggest dance hits! Cover: kiki wera, Gravagerz
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,224 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 421,239 likes - 75 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 | 74 | [All I Am](https://open.spotify.com/track/7z1knymHRO7iuMys6dnanT) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [All I Am](https://open.spotify.com/album/1F5otXEI2rOJD3LOJafnM4) | 3:02 |
 | 75 | [Generation Love](https://open.spotify.com/track/3e5BNbnIsuGQrAIz0yL5wt) | [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [NewEra](https://open.spotify.com/artist/4QLa9DWZEpFrBhNG5UWXF1) | [Generation Love](https://open.spotify.com/album/6fXWbfRr32M9pUly41Z6XF) | 2:59 |
 
-Snapshot ID: `aC8t6wAAAAArImDKmlGU3gG/Ewrn+9e5`
+Snapshot ID: `AAAAAH60nOAIXe95f4FItjJoRk2+QoCS`

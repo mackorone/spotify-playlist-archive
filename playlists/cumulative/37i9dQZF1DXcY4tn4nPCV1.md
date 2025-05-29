@@ -4,7 +4,7 @@
 
 > A calm, instrumental reading playlist.
 
-491 songs - 20 hr 52 min
+492 songs - 20 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -348,6 +348,7 @@
 | [Roots](https://open.spotify.com/track/5DIegspvH5kSOgfl2uuS0I) | [Ceri Floyyd](https://open.spotify.com/artist/7AlsCKaKLDPwzHm4O2gb2i) | [Roots](https://open.spotify.com/album/3W441GJZTCT3O0R1Zy84QO) | 3:18 | 2024-09-24 |  |
 | [Ruiseñor](https://open.spotify.com/track/0ECmXrwUI8YqLnKKom8jq1) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Khione](https://open.spotify.com/album/6nkSfwqiUqpcDcr3i5Ep51) | 2:59 | 2022-12-22 |  |
 | [Røgslør](https://open.spotify.com/track/16zbo4n31PEtvx6eDCWJqe) | [Ledetraad](https://open.spotify.com/artist/1oldJmiOiDyqjCwKYtm16E) | [Røgslør](https://open.spotify.com/album/13DfNvc23HtZrIJRQ0hkMN) | 2:12 | 2022-04-04 | 2024-03-05 |
+| [sakura](https://open.spotify.com/track/2CpXWQc4PuLauXBkAu6Dnz) | [Tom Feldt](https://open.spotify.com/artist/6zsJJhawunqJOVpD7kpoib) | [sakura](https://open.spotify.com/album/4avjQ7OYxRtTSOCs6qRv5S) | 2:13 | 2025-05-28 |  |
 | [Sanctuary](https://open.spotify.com/track/5oKiEfM3YuGCOXrFKcZpbM) | [Wave Of Pollen](https://open.spotify.com/artist/7gPa5ROTtEKCRAaOsM6thZ) | [Sanctuary](https://open.spotify.com/album/2Ogoe8psCeVJQe7trdF7Bf) | 2:34 | 2022-04-04 | 2024-02-03 |
 | [Sands Of Time](https://open.spotify.com/track/3j3puYxZ3zB9PQ7acE9mal) | [Daniel Ketchum](https://open.spotify.com/artist/6TwhBnzSvGRJBC9obv73uz) | [Sands Of Time](https://open.spotify.com/album/08ikUeZQ3YVWJ0p121ecE0) | 2:20 | 2022-04-04 | 2023-04-05 |
 | [Sanpo](https://open.spotify.com/track/07lePWIMzKuTsvkTtTVQhW) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Sanpo](https://open.spotify.com/album/1BdZhzd2iQTim5CxFLyccf) | 2:36 | 2022-04-04 | 2024-03-26 |

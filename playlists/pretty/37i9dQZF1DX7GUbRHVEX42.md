@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 
 > The best of current & contemporary Reggae\.  Cover: Haile
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,131,104 likes - 70 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,131,038 likes - 70 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 | 37 | [Diamonds and Gold](https://open.spotify.com/track/2XMeQMiOJgKRoWcC3CHFtJ) | [Marlon Asher](https://open.spotify.com/artist/4DeCJnS3fuqohKk4FCVl0y), [Tarrus Riley](https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c), [Capleton](https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf) | [Diamonds and Gold](https://open.spotify.com/album/15muGQPID5opsEsRptvSDz) | 3:47 |
 | 38 | [\`Close \(Remix\) \(with Masicka and DING DONG\)](https://open.spotify.com/track/2JTCsRhIYoDQ6HyEt8gvkp) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK), [DING DONG](https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7), [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA) | [Close \(Remix\)](https://open.spotify.com/album/0asY1dRdFyI1RgAnBGU41k) | 4:05 |
 | 39 | [Radio](https://open.spotify.com/track/3dRjsMrxyqUbN5bfyLGbOS) | [Jaz Elise](https://open.spotify.com/artist/1KcAq7rtxXV2RJ7BsFFItA) | [The Golden Hour](https://open.spotify.com/album/5KvwBh1yyh6HiaTGDBzP78) | 3:00 |
-| 40 | [Pilates](https://open.spotify.com/track/0XnhHtjdEQwhDwQzWVJ3k6) | [Cashh](https://open.spotify.com/artist/1CTdJErNqnCWNwtxJmleua) | [Pilates](https://open.spotify.com/album/6ux6oPZPf2WlDa6lZqxDMs) | 2:25 |
-| 41 | [God is Love](https://open.spotify.com/track/7pm5ZgUZlDA5P51j9zIz6l) | [Beres Hammond](https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [God is Love](https://open.spotify.com/album/1Clv6Kk6nr5AzLu0JNZWyj) | 4:20 |
+| 40 | [God is Love](https://open.spotify.com/track/7pm5ZgUZlDA5P51j9zIz6l) | [Beres Hammond](https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [God is Love](https://open.spotify.com/album/1Clv6Kk6nr5AzLu0JNZWyj) | 4:20 |
+| 41 | [Pilates](https://open.spotify.com/track/0XnhHtjdEQwhDwQzWVJ3k6) | [Cashh](https://open.spotify.com/artist/1CTdJErNqnCWNwtxJmleua) | [Pilates](https://open.spotify.com/album/6ux6oPZPf2WlDa6lZqxDMs) | 2:25 |
 | 42 | [Mi Deh Yah](https://open.spotify.com/track/49v38DJoDmsKR2hLuuX035) | [Capleton](https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf), [Mixing Finga](https://open.spotify.com/artist/2UopbSlohTzQEyqorhWAzx) | [Mi Deh Yah](https://open.spotify.com/album/1nidBImbRcFGTYh0YBkAuu) | 3:47 |
 | 43 | [Believe](https://open.spotify.com/track/4lelv8PEcOEpSxZGsYZWil) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Believe](https://open.spotify.com/album/09dXLJqAXCOCrsFNZv9NzC) | 2:38 |
 | 44 | [Rose Petal](https://open.spotify.com/track/7xywfSEGrXeONik3afbjLf) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Rose Petal](https://open.spotify.com/album/3puzUOeDspdXYqC7uLpGWF) | 3:29 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 | 53 | [40 Days & 40 Nights \(Pt\. 2\)](https://open.spotify.com/track/1vhfL29bRXSpZcA0rBkiES) | [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1), [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN) | [Set up Shop, Vol\. 4](https://open.spotify.com/album/5HRCRgKHqMjnnWmE3VisB0) | 2:56 |
 | 54 | [Undeniable \(feat\. Kaylan Arnold\)](https://open.spotify.com/track/3FXA9dJbftFcgOoMiGYH0u) | [Jah Cure](https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy), [Kaylan Arnold](https://open.spotify.com/artist/30Umdbc6mDkhyrfyPw2quC) | [Undeniable \(feat\. Kaylan Arnold\)](https://open.spotify.com/album/3n932rLi5cM8YNejLeCcf7) | 4:00 |
 | 55 | [Never Give Up](https://open.spotify.com/track/5YcRugjrGIBL6TjcmaDaqI) | [Zamunda](https://open.spotify.com/artist/7FjI2O0iKV8rvlHjiqZaPg) | [Jah Love Surround Me](https://open.spotify.com/album/5TUwg8z4VvkkeR8GGtdJz2) | 3:38 |
-| 56 | [Jungle](https://open.spotify.com/track/0ez6JelKTHlTaZlJEufmfd) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Jungle](https://open.spotify.com/album/7flyvQaoNzRFLeTUA1GElE) | 2:21 |
-| 57 | [Safe N Sound](https://open.spotify.com/track/0wLcHCDYmsKURWg1dGZUie) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Safe N Sound](https://open.spotify.com/album/4KkSe9skfC5aFwD2J3WzFN) | 3:06 |
+| 56 | [Safe N Sound](https://open.spotify.com/track/0wLcHCDYmsKURWg1dGZUie) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Safe N Sound](https://open.spotify.com/album/4KkSe9skfC5aFwD2J3WzFN) | 3:06 |
+| 57 | [Jungle](https://open.spotify.com/track/0ez6JelKTHlTaZlJEufmfd) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Jungle](https://open.spotify.com/album/7flyvQaoNzRFLeTUA1GElE) | 2:21 |
 | 58 | [Try](https://open.spotify.com/track/1VnH7JLH0WqmoB4hY6xj6p) | [Tarrus Riley](https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c) | [Try](https://open.spotify.com/album/2HFUCk4B25JopjnNsvSLNY) | 4:13 |
 | 59 | [Fill My Cup](https://open.spotify.com/track/58PFZiGVblDkRgiFbsCXTm) | [Iotosh](https://open.spotify.com/artist/5IzolPBJ2JFhc2NeNA8Log) | [Fill My Cup](https://open.spotify.com/album/5GjpNkfPldpQpyqH8UgOrE) | 3:22 |
 | 60 | [Helping Hand \(with Anthony B\)](https://open.spotify.com/track/6PjLeKjVLdN76GcBcDXn82) | [Irie Souljah](https://open.spotify.com/artist/1Qfee1zwAFUrtaaPMbkpsw), [Anthony B](https://open.spotify.com/artist/7Lij2ZLJJQOfGojVR3Wmqa) | [Thankful \(with Chronic Law\)](https://open.spotify.com/album/5LM9OTMQ4ub6exdf9E8h23) | 4:13 |

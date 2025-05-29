@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 
 ### [NIGHT TRAVELER Radio](https://open.spotify.com/playlist/37i9dQZF1E4kTD46HZNyiq)
 
-> With Laureline, The Wild Wind, Rhineland and more
+> With Rhineland, The Wild Wind, Laureline and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,085 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,086 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 | 49 | [Escape](https://open.spotify.com/track/5vcXZBMm0gbMMLPnzfQA4A) | [The Wild Wind](https://open.spotify.com/artist/377Knb6HRXkcDKafzqtt5y) | [Young and in Love](https://open.spotify.com/album/38rzj4uWKuXZFXZNr8cUEo) | 4:11 |
 | 50 | [Everything Ends Up Ending](https://open.spotify.com/track/20qTnXGVEu1ibpnVugYFc1) | [Laureline](https://open.spotify.com/artist/6NLvlpFHjAedoPwWoPfGgK) | [Everything Ends Up Ending](https://open.spotify.com/album/1HVXjoZFj8r8KA6pNw4FjB) | 3:10 |
 
-Snapshot ID: `aDZcMQAAAACdxY60MprmWuR3aB7dRPoD`
+Snapshot ID: `aDfBpAAAAAAEfLoTJNrEJQYadKlz4eRF`

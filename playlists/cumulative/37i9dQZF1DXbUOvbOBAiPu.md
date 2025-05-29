@@ -2,7 +2,7 @@
 
 ### [New Music Friday BE](https://open.spotify.com/playlist/37i9dQZF1DXbUOvbOBAiPu)
 
-> New music from LUNA & Metejoor, Eefje de Visser, Burna Boy en meer...
+> New music from LUNA & Metejoor, Eefje de Visser, Burna Boy and more...
 
 4,826 songs - 10 day 15 hr 32 min
 
@@ -1851,7 +1851,7 @@
 | [Hollow](https://open.spotify.com/track/3pm9zDurEHGygOM3p8uF8W) | [Wildstylez](https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV), [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64) | [Hollow](https://open.spotify.com/album/1uhSs6sPkJrGNyWiVEOKGV) | 2:51 | 2024-12-19 | 2025-01-03 |
 | [Hollow \- Single Edit](https://open.spotify.com/track/4tmoxwTWktgM9vwJ5fGb4D) | [Ramkot](https://open.spotify.com/artist/6F93CFXfe0VbChYnV0EXi7) | [Hollow](https://open.spotify.com/album/0PChvqyS7MmL2kxP1gRdaj) | 3:28 | 2024-09-19 | 2024-09-27 |
 | [Hollywood](https://open.spotify.com/track/1jit8yRaXz50OZNINPxtym) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp), [Benjamin Gibbard](https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL) | [Hollywood b/w CD\-R](https://open.spotify.com/album/6o8LiEGxLTjMBt1PFxHp4U) | 3:05 | 2024-08-08 | 2024-08-17 |
-| [HOLLYWOOD \- feat\. Shoreline Mafia](https://open.spotify.com/track/0uAmR0yTDNAaXA5jPGOrir) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ) | [HOLLYWOOD \(feat\. Shoreline Mafia\)](https://open.spotify.com/album/0pg3WtuKm4GlckMugbml46) | 3:00 | 2025-05-22 |  |
+| [HOLLYWOOD](https://open.spotify.com/track/0uAmR0yTDNAaXA5jPGOrir) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ) | [HOLLYWOOD](https://open.spotify.com/album/0pg3WtuKm4GlckMugbml46) | 3:00 | 2025-05-22 |  |
 | [Holy Ghost](https://open.spotify.com/track/3kKVjpgY1UQW3ikr0AhMZg) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Holy Ghost](https://open.spotify.com/album/2AUGXdf8CZckloBZfqY35g) | 2:38 | 2024-07-19 | 2024-07-27 |
 | [Holy Grail](https://open.spotify.com/track/6Gotxbh6LfoD7ttFHsp4Ni) | [Bradley Simpson](https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE) | [Holy Grail](https://open.spotify.com/album/16yx2dOA0EkZRg4fKxx2Er) | 2:54 | 2024-11-07 | 2024-11-15 |
 | [Holy Moly \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/1q22aC4uN1ScliKRzoB0OV) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Head Rush](https://open.spotify.com/album/1LWY99BhdUJPU72PZ0MCIc) | 2:21 | 2024-06-27 | 2024-07-05 |

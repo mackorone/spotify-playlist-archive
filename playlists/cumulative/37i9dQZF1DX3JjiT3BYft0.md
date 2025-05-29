@@ -4,7 +4,7 @@
 
 > Music from “BanG Dream! “ series!
 
-448 songs - 1 day 8 hr 6 min
+449 songs - 1 day 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Break your desire](https://open.spotify.com/track/2ZWTPwcCA5dYRp0zG7UOAc) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Wahl](https://open.spotify.com/album/6nk5SUZlraHzpwIPUFdI84) | 4:20 | 2022-05-17 | 2022-07-27 |
 | [Breakthrough!](https://open.spotify.com/track/2cXfTaVa7r0l89xjtnNODW) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Breakthrough!](https://open.spotify.com/album/5TLIFj3J5Ro4mlbb2l8a91) | 4:33 | 2022-05-17 | 2022-07-24 |
 | [Butter\-Fly \- Cover](https://open.spotify.com/track/3F5z872AOQcAyo7j3010bk) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [STAY GLOW](https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV) | 4:10 | 2024-03-23 |  |
-| [CATASTROPHE BANQUET](https://open.spotify.com/track/3SmOTTgNvWL7tZ46K2wYHO) | [レイヤ](https://open.spotify.com/artist/7gKb7riZkXgWq1DMSc4J4V), [紗夜](https://open.spotify.com/artist/4bKTnPDnjgWNVG0wPpq5L5), [沙綾](https://open.spotify.com/artist/6L53bP8ui7Ed6Sk1swU2lc), [ミッシェル](https://open.spotify.com/artist/5qvySlwwYvONn471kyIrJl), [瑠唯](https://open.spotify.com/artist/7CttnSnreAHT90ryxQDafh) | [BanG Dream! Dreamer's Best](https://open.spotify.com/album/4QTYmkZJstgjXi2oqb1BU9) | 4:22 | 2022-05-17 |  |
+| [CATASTROPHE BANQUET](https://open.spotify.com/track/3SmOTTgNvWL7tZ46K2wYHO) | [レイヤ](https://open.spotify.com/artist/7gKb7riZkXgWq1DMSc4J4V), [紗夜](https://open.spotify.com/artist/4bKTnPDnjgWNVG0wPpq5L5), [沙綾](https://open.spotify.com/artist/6L53bP8ui7Ed6Sk1swU2lc), [ミッシェル](https://open.spotify.com/artist/5qvySlwwYvONn471kyIrJl), [瑠唯](https://open.spotify.com/artist/7CttnSnreAHT90ryxQDafh) | [BanG Dream! Dreamer's Best](https://open.spotify.com/album/4QTYmkZJstgjXi2oqb1BU9) | 4:22 | 2022-05-17 | 2025-05-29 |
 | [CATASTROPHE BANQUET](https://open.spotify.com/track/5LPzzl5G24SqCP0Wzjzf5y) | [レイヤ](https://open.spotify.com/artist/7gKb7riZkXgWq1DMSc4J4V), [紗夜](https://open.spotify.com/artist/4bKTnPDnjgWNVG0wPpq5L5), [沙綾](https://open.spotify.com/artist/6L53bP8ui7Ed6Sk1swU2lc), [ミッシェル](https://open.spotify.com/artist/5qvySlwwYvONn471kyIrJl), [瑠唯](https://open.spotify.com/artist/7CttnSnreAHT90ryxQDafh) | [BanG Dream! Dreamer's Best](https://open.spotify.com/album/2zO2Ptv0rub8ZkxYiJt71d) | 4:22 | 2022-06-23 | 2022-10-02 |
 | [CATASTROPHE BANQUET](https://open.spotify.com/track/3Y7Mw5Yj5P3nMfzBwHR6OS) | [レイヤ](https://open.spotify.com/artist/7gKb7riZkXgWq1DMSc4J4V), [紗夜](https://open.spotify.com/artist/4bKTnPDnjgWNVG0wPpq5L5), [沙綾](https://open.spotify.com/artist/6L53bP8ui7Ed6Sk1swU2lc), [ミッシェル](https://open.spotify.com/artist/5qvySlwwYvONn471kyIrJl), [瑠唯](https://open.spotify.com/artist/7CttnSnreAHT90ryxQDafh) | [BanG Dream! Dreamer's Best](https://open.spotify.com/album/7qNDMsNGMiVOrl7psHRxp0) | 4:22 | 2022-09-20 | 2024-04-19 |
 | [chAngE](https://open.spotify.com/track/1aEeR6DqwyvgSwDLUxKjnl) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [バンドリ! ガールズバンドパーティ! カバコレ Special Selection2](https://open.spotify.com/album/5WSYF1uz2bWL9XO7sKoCG2) | 4:10 | 2022-05-17 | 2022-07-29 |
@@ -344,6 +344,7 @@
 | [ティアドロップス \- Acoustic Ver.](https://open.spotify.com/track/5G2RV7o6t5WKI0YtWNT3ZJ) | [戸山 香澄\(CV:愛美\)](https://open.spotify.com/artist/0TDcytIDEIOHNYfQwSVkFP) | [どきどきSING OUT!](https://open.spotify.com/album/1yQKhOaT8Uq7UeLs1soLVn) | 3:53 | 2022-09-20 | 2024-04-19 |
 | [ティアドロップス \- Acoustic Ver.](https://open.spotify.com/track/2yVV8WMakahuVZ4SJjQUSI) | [戸山香澄\(CAST:愛美\)](https://open.spotify.com/artist/4WxWVilaHHB9S5yMmo5lir) | [どきどきSING OUT!](https://open.spotify.com/album/03VdszVOrzdFqxQ6HA00Sm) | 3:52 | 2022-05-17 | 2025-05-28 |
 | [ティアドロップス \- Popipa Acoustic Ver.](https://open.spotify.com/track/1t3Vhpob56n9ASohIaYGzi) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Poppin'on!](https://open.spotify.com/album/7uZ57BtKr2QWlsxC4T7fyH) | 3:52 | 2022-05-17 | 2022-07-11 |
+| [トレモロアイズ](https://open.spotify.com/track/669RI7o0s3Z0ncGntSeYTx) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [POPIGENIC](https://open.spotify.com/album/4J0ob8cyT5lF023GxAnVF4) | 4:01 | 2025-05-07 |  |
 | [ハイファイブ∞あどべんちゃっ](https://open.spotify.com/track/1Gqjczdtzbpd3iMZq7goPy) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [にこにこねくと!](https://open.spotify.com/album/0BOnW22OXPOoZzTq4nNfoF) | 4:30 | 2022-05-17 | 2022-07-28 |
 | [ハイファイブ∞あどべんちゃっ](https://open.spotify.com/track/1azepvqPocxFilYuCObDPT) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [ハイファイブ∞あどべんちゃっ](https://open.spotify.com/album/2XhqMTZVFxbqrQAJzc7RsF) | 4:31 | 2022-05-17 | 2022-07-01 |
 | [ハーモニー・デイ](https://open.spotify.com/track/1uMkVxwFJrPBX5CxBViYgW) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [ハーモニー・デイ](https://open.spotify.com/album/4ppUy6ccCN9VkqQODS5PQK) | 3:39 | 2022-09-20 | 2022-10-03 |

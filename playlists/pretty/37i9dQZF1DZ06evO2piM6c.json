@@ -1,12 +1,12 @@
 {
   "description": "This is Sade. The essential tracks, all in one playlist.",
-  "num_followers": 429535,
+  "num_followers": 429653,
   "original_name": "This Is Sade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDOvAAAAAAD6fLSh3EcZ3+bKVMDmmpF3",
+  "snapshot_id": "aDUAgAAAAABxe8h/PeBdbGw2MP00XryW",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lovers Rock",
-        "url": "https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 274933,
-      "name": "By Your Side",
-      "url": "https://open.spotify.com/track/7H3ojI1BsVy0dEJENqMt1k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Diamond Life",
         "url": "https://open.spotify.com/album/3JcNnjMVSKiNpqhErZarW0"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 219426,
       "name": "Your Love Is King",
       "url": "https://open.spotify.com/track/1j2LuIf7mv15ZVug1Xy5qz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lovers Rock",
+        "url": "https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 274933,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/7H3ojI1BsVy0dEJENqMt1k"
     },
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stronger Than Pride",
-        "url": "https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK"
+        "name": "Diamond Life",
+        "url": "https://open.spotify.com/album/3JcNnjMVSKiNpqhErZarW0"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
         }
       ],
-      "duration_ms": 258026,
-      "name": "Love Is Stronger Than Pride",
-      "url": "https://open.spotify.com/track/5Qrcxc2YPomtX6UB0bwNaf"
+      "duration_ms": 328333,
+      "name": "Why Can't We Live Together",
+      "url": "https://open.spotify.com/track/7pd7fTNMtn4jRv80CSdgcq"
     },
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diamond Life",
-        "url": "https://open.spotify.com/album/3JcNnjMVSKiNpqhErZarW0"
+        "name": "Stronger Than Pride",
+        "url": "https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
         }
       ],
-      "duration_ms": 328333,
-      "name": "Why Can't We Live Together",
-      "url": "https://open.spotify.com/track/7pd7fTNMtn4jRv80CSdgcq"
+      "duration_ms": 258026,
+      "name": "Love Is Stronger Than Pride",
+      "url": "https://open.spotify.com/track/5Qrcxc2YPomtX6UB0bwNaf"
     },
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stronger Than Pride",
-        "url": "https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK"
+        "name": "Lovers Rock",
+        "url": "https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
         }
       ],
-      "duration_ms": 321600,
-      "name": "Keep Looking",
-      "url": "https://open.spotify.com/track/0Q97fST0xHWAEahe28rMrb"
+      "duration_ms": 301266,
+      "name": "Somebody Already Broke My Heart",
+      "url": "https://open.spotify.com/track/6bFGd2OxhPMgarpYVVncRC"
     },
     {
       "added_at": null,
@@ -375,6 +375,22 @@
       "duration_ms": 309200,
       "name": "Feel No Pain",
       "url": "https://open.spotify.com/track/3r0Q8oUYyHjViM43bAUP3D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stronger Than Pride",
+        "url": "https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 321600,
+      "name": "Keep Looking",
+      "url": "https://open.spotify.com/track/0Q97fST0xHWAEahe28rMrb"
     },
     {
       "added_at": null,
@@ -404,9 +420,9 @@
           "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
         }
       ],
-      "duration_ms": 301266,
-      "name": "Somebody Already Broke My Heart",
-      "url": "https://open.spotify.com/track/6bFGd2OxhPMgarpYVVncRC"
+      "duration_ms": 160626,
+      "name": "All About Our Love",
+      "url": "https://open.spotify.com/track/0TZOdKFWNYfnwewAP8R4D8"
     },
     {
       "added_at": null,
@@ -459,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lovers Rock",
-        "url": "https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9"
+        "name": "Stronger Than Pride",
+        "url": "https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK"
       },
       "artists": [
         {
@@ -468,9 +484,9 @@
           "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
         }
       ],
-      "duration_ms": 160626,
-      "name": "All About Our Love",
-      "url": "https://open.spotify.com/track/0TZOdKFWNYfnwewAP8R4D8"
+      "duration_ms": 241666,
+      "name": "Clean Heart",
+      "url": "https://open.spotify.com/track/10TTcq5sPRxx1hq2lQ04CI"
     },
     {
       "added_at": null,
@@ -507,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stronger Than Pride",
-        "url": "https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 241666,
-      "name": "Clean Heart",
-      "url": "https://open.spotify.com/track/10TTcq5sPRxx1hq2lQ04CI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Soldier of Love",
         "url": "https://open.spotify.com/album/3QzXOFN7Wh4WgilnraBYAU"
       },
@@ -535,6 +535,22 @@
       "duration_ms": 181240,
       "name": "Long Hard Road",
       "url": "https://open.spotify.com/track/54jCmeAxT4NZMav0qQYC7P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stronger Than Pride",
+        "url": "https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 350293,
+      "name": "Haunt Me",
+      "url": "https://open.spotify.com/track/1u0LQwTtYAi7LZbknFNhZ1"
     },
     {
       "added_at": null,
@@ -571,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stronger Than Pride",
-        "url": "https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 350293,
-      "name": "Haunt Me",
-      "url": "https://open.spotify.com/track/1u0LQwTtYAi7LZbknFNhZ1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Soldier of Love",
         "url": "https://open.spotify.com/album/3QzXOFN7Wh4WgilnraBYAU"
       },
@@ -596,9 +596,25 @@
           "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
         }
       ],
-      "duration_ms": 219200,
-      "name": "Be That Easy",
-      "url": "https://open.spotify.com/track/5KADKKJqxxF2d0a9Ir2lK3"
+      "duration_ms": 247266,
+      "name": "Bring Me Home",
+      "url": "https://open.spotify.com/track/1akRbcGtVdQl6xDIVBaExK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stronger Than Pride",
+        "url": "https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 366693,
+      "name": "Turn My Back On You",
+      "url": "https://open.spotify.com/track/7aiN4fPcpFmZeF88SiVdpS"
     },
     {
       "added_at": null,
@@ -635,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stronger Than Pride",
-        "url": "https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 366693,
-      "name": "Turn My Back On You",
-      "url": "https://open.spotify.com/track/7aiN4fPcpFmZeF88SiVdpS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Soldier of Love",
         "url": "https://open.spotify.com/album/3QzXOFN7Wh4WgilnraBYAU"
       },
@@ -660,9 +660,25 @@
           "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
         }
       ],
-      "duration_ms": 247266,
-      "name": "Bring Me Home",
-      "url": "https://open.spotify.com/track/1akRbcGtVdQl6xDIVBaExK"
+      "duration_ms": 219200,
+      "name": "Be That Easy",
+      "url": "https://open.spotify.com/track/5KADKKJqxxF2d0a9Ir2lK3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stronger Than Pride",
+        "url": "https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 253200,
+      "name": "I Never Thought I'd See the Day",
+      "url": "https://open.spotify.com/track/6Y3h8CAOKtFSKGN1hTRA1D"
     },
     {
       "added_at": null,
@@ -695,22 +711,6 @@
       "duration_ms": 261466,
       "name": "The Big Unknown (From \"Widows\")",
       "url": "https://open.spotify.com/track/3vvTGcClIV5mocdasOIDsb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stronger Than Pride",
-        "url": "https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 253200,
-      "name": "I Never Thought I'd See the Day",
-      "url": "https://open.spotify.com/track/6Y3h8CAOKtFSKGN1hTRA1D"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Pescao Vivo
 
-2,835 songs - 8 day 17 hr 44 min
+2,836 songs - 8 day 17 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [A Pesar](https://open.spotify.com/track/5UKpPESWSHOOf1LPXQYfM5) | [Channiel](https://open.spotify.com/artist/3cHBFZpgkDAcC9Qecr9uJx), [Carlito Codigo](https://open.spotify.com/artist/5UteEvNs5R2nAmmv55R9bR), [Dexter Music](https://open.spotify.com/artist/5pzzsAs3nFK4EX9lZB0MdG) | [A Pesar](https://open.spotify.com/album/1WW5gaHLgS7FIa9WUvq3sG) | 3:57 | 2024-11-08 | 2025-01-11 |
 | [A Puerta Cerrada](https://open.spotify.com/track/0HzcNtVVpTB3IdrzHhfrTO) | [Daniela Galeano](https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be), [CRYS](https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI) | [A Puerta Cerrada](https://open.spotify.com/album/42XTtNruyb9nf3KAihCEG9) | 3:05 | 2022-07-22 | 2022-09-24 |
 | [A Quién Iremos](https://open.spotify.com/track/4CcH3kekkWh9KI2QfZqG3J) | [Son By Four](https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j) | [A Quién Iremos](https://open.spotify.com/album/06Pgluz92FVBeCOZg6mX74) | 4:58 | 2023-05-26 | 2023-07-22 |
-| [A Su Único Hijo](https://open.spotify.com/track/0j4pJAhiNwShi27DbYpAiw) | [Pescao Vivo](https://open.spotify.com/artist/5GlkVOsZJwtYsvY55B8ExI), [Coalo Zamorano](https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b) | [A Su Único Hijo](https://open.spotify.com/album/1Ayfzyg6kqulhXThYswEmh) | 3:32 | 2025-04-25 |  |
+| [A Su Único Hijo](https://open.spotify.com/track/0j4pJAhiNwShi27DbYpAiw) | [Pescao Vivo](https://open.spotify.com/artist/5GlkVOsZJwtYsvY55B8ExI), [Coalo Zamorano](https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b) | [A Su Único Hijo](https://open.spotify.com/album/1Ayfzyg6kqulhXThYswEmh) | 3:32 | 2025-04-25 | 2025-05-29 |
 | [A Ti Sea La Gloria](https://open.spotify.com/track/2D7mUcWLMSHu21FQAi1YFL) | [NxtWave](https://open.spotify.com/artist/3icg8QXxKDihHvzfoC1Vpm) | [A Ti Sea La Gloria](https://open.spotify.com/album/2eGEkryUN5gXEQ9Rg8NroK) | 3:22 | 2022-02-25 | 2022-03-26 |
 | [A Tiempo](https://open.spotify.com/track/6SbTfAcg7u89dezVLO58yh) | [Iveth Luna](https://open.spotify.com/artist/2fiP5LcBybuvRJlE9RW8zv) | [Right on Time](https://open.spotify.com/album/0Gw9quE6VUvg49osbcrU6A) | 2:50 | 2024-08-02 | 2024-09-07 |
 | [A To' Pulmón](https://open.spotify.com/track/3DGsl8I4AJiGc9SWcyShtq) | [CRYS](https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI), [Nate Diaz](https://open.spotify.com/artist/7DhqbylsLWouIf4LYo2XqN) | [A To' Pulmón](https://open.spotify.com/album/6UYkv6Wzv9f6Qhnx55j3Of) | 4:24 | 2024-07-26 | 2024-08-31 |
@@ -191,6 +191,7 @@
 | [Amén \(feat\. Gustavo Antonio\)](https://open.spotify.com/track/5cC0tVkZPGS83kTqursium) | [Lakepointe Música](https://open.spotify.com/artist/7Iydkuaj5RLeSY02mxo6CP), [Gustavo Antonio](https://open.spotify.com/artist/6ermy9eNrbYTRCQzbeXWpk) | [Amén \(feat\. Gustavo Antonio\)](https://open.spotify.com/album/72NjzGsnoIUVP8InSjS5mP) | 6:23 | 2025-05-02 |  |
 | [Amén \- Live](https://open.spotify.com/track/245akdzC4AoGNTg21gmsO6) | [Comunidad Music](https://open.spotify.com/artist/5qzNDbhaScIgGBcByNzJQd), [Juli Escobar](https://open.spotify.com/artist/21npOZpMnSe5APSSlpuxtD) | [Amén \(Live\)](https://open.spotify.com/album/0eZ7QWTEnenbxKwYyUoBMy) | 4:52 | 2024-10-04 | 2024-11-09 |
 | [Amén Amén \- En Vivo](https://open.spotify.com/track/6V5WPbMnKSSKgr3gaZ2GiD) | [Edward Rivera](https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv), [Aaron Moses](https://open.spotify.com/artist/4QzrhxZWtXfuW6rZATPTE7) | [Amén Amén \(En Vivo\)](https://open.spotify.com/album/0VlS3rEeQngjJGdmNg7yeY) | 8:24 | 2022-07-15 | 2022-09-17 |
+| [AMÓ DIOS](https://open.spotify.com/track/7yF3XJs7IMWqwmALhZYerp) | [Pescao Vivo](https://open.spotify.com/artist/5GlkVOsZJwtYsvY55B8ExI), [Héctor Tobo](https://open.spotify.com/artist/08GwuFG128T7ElmNimrvns) | [ALGO IMPOSIBLE DE MEDIR](https://open.spotify.com/album/4Q2BOT7vQnv6OcBRkbnVng) | 2:19 | 2025-05-28 |  |
 | [Andamos Con Dios](https://open.spotify.com/track/222L9EIrHvCTHVF8lgPGfJ) | [LifeBanda](https://open.spotify.com/artist/5ZuEEy60Q2rXIQX20efDHz), [El Philippe](https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1) | [Andamos Con Dios](https://open.spotify.com/album/2MGM1KzwQ7XuRmqq6k2say) | 3:33 | 2024-03-15 | 2024-05-03 |
 | [Ando Buscando](https://open.spotify.com/track/4CtrV2YrWF6AeaFmIPzP1j) | [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe), [Oveja Cosmica](https://open.spotify.com/artist/753kMQPUSpCNEXk4YcEUy6) | [Ando Buscando](https://open.spotify.com/album/15lgAi4rF8nNEwMQwjzBAU) | 2:40 | 2022-08-05 | 2022-10-08 |
 | [Andrea](https://open.spotify.com/track/2E7wlAY1qFDYxOSp5Nu6Nh) | [Townix](https://open.spotify.com/artist/4iSbdQ17ULxAugOFOC5Bx2) | [Andrea](https://open.spotify.com/album/1qbBE4RaA0ned1dAfzyDOR) | 3:39 | 2023-03-17 | 2023-04-29 |

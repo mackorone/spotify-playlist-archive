@@ -4,7 +4,7 @@
 
 > This is Kelsea Ballerini\. The essential tracks, all in one playlist.
 
-92 songs - 4 hr 45 min
+93 songs - 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [First Rodeo](https://open.spotify.com/track/42fu93ICEK8n1oJeu3syXk) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [First Rodeo](https://open.spotify.com/album/2NLbOG58Y3CDWXemojJEfj) | 3:43 | 2024-10-19 | 2024-11-01 |
 | [First Rodeo](https://open.spotify.com/track/6HHQ2d7MMqoc1x6nXki8m3) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS \(DELUXE\)](https://open.spotify.com/album/426ni1U6MsUtpxmvtXgLhn) | 3:43 | 2025-03-16 |  |
 | [First Time Again](https://open.spotify.com/track/2aPIgCNuLT9TWUN9be2rpR) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH), [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [They Don't Know](https://open.spotify.com/album/64IFfMf7W67CLvXaYeRNB6) | 3:24 | 2022-09-08 | 2023-12-14 |
-| [First Time Again](https://open.spotify.com/track/7dRnLA0SZFVn62weznwJnk) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH), [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [They Don't Know](https://open.spotify.com/album/2EhCp9jUMBdrJIrnDrhw4L) | 3:24 | 2023-12-13 |  |
+| [First Time Again](https://open.spotify.com/track/7dRnLA0SZFVn62weznwJnk) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH), [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [They Don't Know](https://open.spotify.com/album/2EhCp9jUMBdrJIrnDrhw4L) | 3:24 | 2023-12-13 | 2025-05-29 |
 | [Future Tripping](https://open.spotify.com/track/4w4BEXFhuQM5VcoycPe1zD) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS \(DELUXE\)](https://open.spotify.com/album/426ni1U6MsUtpxmvtXgLhn) | 2:28 | 2025-03-09 |  |
 | [Get over Yourself](https://open.spotify.com/track/0sr84SDJ9VN4EB7p2mWGur) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Unapologetically \(Deluxe Edition\)](https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA) | 3:20 | 2022-09-10 | 2024-10-28 |
 | [half of my hometown \(feat\. Kenny Chesney\)](https://open.spotify.com/track/1yRke3PmsyFrYlFZOAkABk) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [kelsea](https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ) | 3:51 | 2022-09-08 |  |
@@ -77,6 +77,7 @@
 | [Shut Up Train \(Collab Version With Kelsea Ballerini\)](https://open.spotify.com/track/4P7kLRQNTPeSP9GyWzrqMT) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv), [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Shut Up Train \(Collab Version With Kelsea Ballerini\)](https://open.spotify.com/album/20o9VxiC3QA45Db8NaMTO6) | 3:47 | 2024-06-09 | 2024-10-28 |
 | [Sorry Mom](https://open.spotify.com/track/1IdlBpGLVQGxDhdc1CDNba) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS \(DELUXE\)](https://open.spotify.com/album/426ni1U6MsUtpxmvtXgLhn) | 3:35 | 2025-03-14 | 2025-03-16 |
 | [Sorry Mom](https://open.spotify.com/track/3zftDSl1HdBPJek75cQwDE) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Sorry Mom](https://open.spotify.com/album/0rxM61BYIAoyY2KvMOUwjo) | 3:35 | 2024-08-11 | 2024-11-01 |
+| [Square Pegs](https://open.spotify.com/track/7LWv7KkSQm9vXUkKtGRPVl) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [The First Time: 10 Year Anniversary Edition](https://open.spotify.com/album/4bT4YQv0edl0KrWrrMHpB3) | 3:22 | 2025-05-29 |  |
 | [Stilettos](https://open.spotify.com/track/2q1VQXH254t7zGWpZOQU8x) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [The First Time](https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf) | 3:26 | 2022-09-08 | 2024-10-28 |
 | [SUBJECT TO CHANGE](https://open.spotify.com/track/2JEWiDPkSPFc28NWLZoI9t) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 2:59 | 2022-09-24 | 2023-07-24 |
 | [THE LITTLE THINGS](https://open.spotify.com/track/6D5Rtbk33c876AkZJWxmbm) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 2:57 | 2022-10-09 |  |

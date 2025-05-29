@@ -4,7 +4,7 @@
 
 > This is Murda Beatz\. The essential tracks, all in one playlist.
 
-54 songs - 2 hr 33 min
+55 songs - 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [GRoCERIES](https://open.spotify.com/track/2ZueZJriwJi7vFXD1UVEVj) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [TisaKorean](https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [GRoCERIES](https://open.spotify.com/album/4ukKkRaCiWcgJ3YZ3jmUfu) | 3:46 | 2025-04-10 |  |
 | [Habit \(feat\. O.T\. Genasis & Murda Beatz\)](https://open.spotify.com/track/26Ft7fvwTz6EG3TXIjUDEo) | [Chrystian Lehr](https://open.spotify.com/artist/4kFWTKFddUzdFcWTDD2ikE), [O.T\. Genasis](https://open.spotify.com/artist/1Zatb2YN4erBOoSivOXc0o), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Offline III](https://open.spotify.com/album/2cEJL06Jf94WFiGKmVJoTy) | 2:25 | 2024-06-22 | 2024-10-09 |
 | [LOVE \(feat\. Trippie Redd\)](https://open.spotify.com/track/19FE7YCq8xxijzQNqFnGAd) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Memory Lane](https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp) | 4:15 | 2023-12-13 | 2025-05-12 |
+| [Maybach](https://open.spotify.com/track/67WsbWbEI02qt27s5YcXso) | [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Maybach](https://open.spotify.com/album/2UsXysLvyNlrGvcvG6KtyB) | 2:45 | 2025-05-29 |  |
 | [McQueen](https://open.spotify.com/track/4vLRgSxcRmhnhAl9dKb0jl) | [TrifeDrew](https://open.spotify.com/artist/3cWGilyM7pw2Q1bGbTXuBr), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [McQueen](https://open.spotify.com/album/3kCfNWxtVZI9UuUXLGv0an) | 2:36 | 2023-12-13 | 2025-04-25 |
 | [Me Too](https://open.spotify.com/track/7sqrit5R5kBEQ7yZENxvZB) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane 2](https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd) | 2:28 | 2023-12-13 | 2025-04-10 |
 | [MHSTD](https://open.spotify.com/track/1DSGtRk2T5beu0zoTtAwny) | [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [MHSTD](https://open.spotify.com/album/7BBWxe16ztpNQsT1s2aT7D) | 2:39 | 2025-04-20 |  |

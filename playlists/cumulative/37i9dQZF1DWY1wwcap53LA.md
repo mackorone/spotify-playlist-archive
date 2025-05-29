@@ -4,10 +4,11 @@
 
 > Country music making waves\. Cover: Sacha
 
-226 songs - 11 hr 46 min
+226 songs - 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/5OKlj1PEpzA4g0JSljysE9) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Let It Burn](https://open.spotify.com/album/7n4ITaoKpCiI1DxyuOfJNZ) | 0:00 | 2023-10-06 |  |
 | [16 CARRIAGES](https://open.spotify.com/track/3Fwebmu4BzPUpDtPZo0qHb) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [16 CARRIAGES](https://open.spotify.com/album/6PeoltoiWQWCyWA0JBHVGN) | 3:47 | 2024-12-17 |  |
 | [A Bar Song \(Tipsy\)](https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [A Bar Song \(Tipsy\)](https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ) | 2:51 | 2024-04-12 |  |
 | [A Hundred](https://open.spotify.com/track/2C83kplH0uabvBCs8atvZN) | [Reyna Roberts](https://open.spotify.com/artist/4jpqm8g4We93Uk6M9M4FDh) | [Bad Girl Bible, Vol 2: The Lost Files](https://open.spotify.com/album/7dx3egWe4XydAlpBw3XznM) | 3:13 | 2024-12-17 |  |
@@ -114,7 +115,6 @@
 | [Leads Me Home](https://open.spotify.com/track/6Pv0lrmyyQpSPIaGBIDukW) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Leads Me Home](https://open.spotify.com/album/3BWWEzqzihiQp8EOQQLNNZ) | 3:21 | 2024-12-17 |  |
 | [Leave Right Now](https://open.spotify.com/track/2IxqiVtNPokQ2klL2tQr2p) | [The Kentucky Gentlemen](https://open.spotify.com/artist/5Jyxuj6Ho7xmNPrDub1U86) | [Leave Right Now](https://open.spotify.com/album/0WLh4sClyd5u3UuRxXRf5x) | 2:52 | 2023-12-08 |  |
 | [Leave You Alone](https://open.spotify.com/track/5J8AKBaUq1WHrzrm9YWlP3) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Leave You Alone](https://open.spotify.com/album/1GeeQwpCveYVHBSumI6dFx) | 3:34 | 2022-03-04 | 2024-08-20 |
-| [Let It Burn](https://open.spotify.com/track/5OKlj1PEpzA4g0JSljysE9) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Let It Burn](https://open.spotify.com/album/7n4ITaoKpCiI1DxyuOfJNZ) | 3:26 | 2023-10-06 |  |
 | [Life's Short Drink Tall](https://open.spotify.com/track/1pQMkHmVOw0vniUlXPvmgo) | [Curt Chambers](https://open.spotify.com/artist/5NfiN9W8v7WMG2m90UpxCJ) | [Life's Short Drink Tall](https://open.spotify.com/album/5UjiPf6KbhvmJTqdxYbv5d) | 3:09 | 2021-12-03 |  |
 | [Like I Love Country Music](https://open.spotify.com/track/3j1xkzTW8owIphkWV51V9s) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Like I Love Country Music](https://open.spotify.com/album/6IXSaIsyP9LbtccncAs2Gg) | 3:54 | 2024-12-17 |  |
 | [Like I Love Country Music](https://open.spotify.com/track/5C9jQ8ikTOieveuORd8wlf) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Different Man](https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1) | 3:54 | 2024-11-19 | 2024-12-18 |

@@ -4,14 +4,14 @@
 
 > Vieja escuela y de ahora 📸 Los Turros.
 
-328 songs - 18 hr 21 min
+329 songs - 18 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1x100to](https://open.spotify.com/track/41JLyB0mqLNxb8nsDubA6v) | [Los Pibes del Penal](https://open.spotify.com/artist/23h9kiR8GTLVQyoGWVubqi) | [1x100to](https://open.spotify.com/album/3nXLIvflpBU1ki7fGYQ6yS) | 3:12 | 2023-06-23 | 2023-07-01 |
 | [38](https://open.spotify.com/track/4My1ij0QUaZrojxzkV0OEx) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L), [Kenzy](https://open.spotify.com/artist/778s7JrnFl5ICM49oimpj4), [May Creizy](https://open.spotify.com/artist/6XyKFAoM3iHJimAHWo7JNQ) | [38](https://open.spotify.com/album/4YtUu37m5y31rp8jrWJ9wk) | 2:41 | 2023-05-26 | 2024-04-27 |
 | [6to Sentido \(Una Vuelta\)](https://open.spotify.com/track/0j2p4MTvu6tfrK8UsKLS31) | [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR), [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [DJ Cronox](https://open.spotify.com/artist/3xEW53mjWRObQjw1yu6fvi) | [6to Sentido \(Una Vuelta\)](https://open.spotify.com/album/4u3hJm3bh7L8lcANjjUINr) | 2:08 | 2023-07-25 | 2025-05-15 |
-| [A Chillar a Otra Parte](https://open.spotify.com/track/6rbRGG6KLfSCLW5EN4VlsI) | [El Tecla](https://open.spotify.com/artist/6TY0JuXMcvhCLtHYBJ4iXH) | [Único en Su Especie](https://open.spotify.com/album/1wU7LHfFlihSDZUJ6EU1Tf) | 3:45 | 2024-03-05 |  |
+| [A Chillar a Otra Parte](https://open.spotify.com/track/6rbRGG6KLfSCLW5EN4VlsI) | [El Tecla](https://open.spotify.com/artist/6TY0JuXMcvhCLtHYBJ4iXH) | [Único en Su Especie](https://open.spotify.com/album/1wU7LHfFlihSDZUJ6EU1Tf) | 3:45 | 2024-03-05 | 2025-05-29 |
 | [Acelerando](https://open.spotify.com/track/3HA3hitwRhesWNKu3YGAE1) | [El Mala](https://open.spotify.com/artist/1LSYfRidvKN3sUXOg8HDWC) | [Acelerando](https://open.spotify.com/album/4xeP0fdal3zym3H7zwnjiT) | 2:14 | 2024-02-23 | 2024-03-06 |
 | [Acercate Bandida](https://open.spotify.com/track/5qLueRsolYdRjdxVcclWLb) | [El Retutu](https://open.spotify.com/artist/3WSePpVeFAwNAI4vQc19rG) | [El Retutu](https://open.spotify.com/album/0FH1NDJlj2Vvb4G21rPh3e) | 3:22 | 2023-05-26 | 2023-11-02 |
 | [Adentro del Party](https://open.spotify.com/track/14fTqe6T4p9zyikK1RvYti) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [Adentro del Party](https://open.spotify.com/album/78zVM36RvzD7VpaaKgQ7E5) | 3:00 | 2023-05-26 | 2023-09-23 |
@@ -218,6 +218,7 @@
 | [Oasis de amor](https://open.spotify.com/track/6W5qtIUDyxXIuoM4hZit5G) | [La Rama](https://open.spotify.com/artist/36Wa6C4jLLtnY4fqS8qqEm) | [Session Mix](https://open.spotify.com/album/5obo5eIpt40IqIv3zTa6cN) | 1:48 | 2025-05-16 |  |
 | [Ojos Color Fernet](https://open.spotify.com/track/3NCtczoyFW0qRxCXqLg7wt) | [Mak Donal](https://open.spotify.com/artist/2TekzK4jw30Cc4jlAmcrVM) | [Ojos Color Fernet](https://open.spotify.com/album/0cT0ygX5Ir9CRNSQIYH41q) | 2:23 | 2023-05-26 | 2023-06-05 |
 | [Orgullosa](https://open.spotify.com/track/7bgzGkSLclStkyn3WAUGv0) | [Eh!!! Guacho](https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF) | [Es Corta la Bocha](https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM) | 3:07 | 2023-05-26 |  |
+| [Padre Ejemplar](https://open.spotify.com/track/5qqe7ydFECpDN17CDcMSOw) | [Pala Ancha](https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ) | [El Autentico Creador De La Cumbia Callejera](https://open.spotify.com/album/4zruxAuHRzEjbpGB07ycdq) | 4:26 | 2025-05-16 |  |
 | [Par\-Tusa](https://open.spotify.com/track/7iZSr3NiHlqJGAJmlfd3Ru) | [El Dipy](https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw) | [Par\-Tusa](https://open.spotify.com/album/1gg1qZMNUpw9Tsp7pbJoAo) | 3:10 | 2023-05-26 | 2025-04-12 |
 | [Para la Gilada](https://open.spotify.com/track/0C2m7ZH8czZ1nnaVJlZtrt) | [Meta Guacha](https://open.spotify.com/artist/3HOkZ1yVuMiVJeH1sFjMQL) | [Supermerk2 & Meta Guacha: 2x1](https://open.spotify.com/album/3iEZnqx25qRtb6XKFaYq0y) | 3:42 | 2024-03-05 | 2024-10-26 |
 | [Para la Gilada](https://open.spotify.com/track/3BCfo3eZ1AhKeVj4D9GGKL) | [Meta Guacha](https://open.spotify.com/artist/3HOkZ1yVuMiVJeH1sFjMQL) | [Lona, Cartón y Chapa](https://open.spotify.com/album/6ChioFR0zr61jvyH1F7WA5) | 3:42 | 2023-05-26 | 2023-08-11 |

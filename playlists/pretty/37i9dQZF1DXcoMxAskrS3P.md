@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcoMxAskrS3P.md) - [plain]
 
 > Get ready for the upcoming festival by listening to the best songs from the festival lineup! \(페스티벌 참가 라인업의 베스트 곡들을 들으며 다가오는 페스티벌을 준비해보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 60 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 78 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcoMxAskrS3P.md) - [plain]
 | 49 | [No.1](https://open.spotify.com/track/4RtHEggWfFWknuAsRdkyku) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [No.1 \- The 2nd Album](https://open.spotify.com/album/4Se5tmG7Dc1WKJYr4o5gXz) | 3:13 |
 | 50 | [Only One](https://open.spotify.com/track/3Hyl7YrOtBcnh1geON2kSO) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Only One \- The 7th Album](https://open.spotify.com/album/54xacjSt0jd9cELJc2j7UR) | 3:37 |
 
-Snapshot ID: `aDCNgQAAAACSAXnzf7ejOWPJ1iOinbZ8`
+Snapshot ID: `aDCNgQAAAACsFozpHr7ytZOtMbL7N7O/`

@@ -1,6 +1,6 @@
 {
   "description": "\u5373\u8208\u800c\u81ea\u5728\u3001\u512a\u96c5\u800c\u8212\u7de9\uff0c\u9019\u5f62\u5bb9\u662f\u4e0d\u662f\u50cf\u500b\u597d\u5922\u7684\u611f\u89ba\u5462\uff1f\u5c31\u8b93\u7f8e\u5999\u7684\u7235\u58eb\u6a02\u52a9\u4f60\u5165\u7720\u5427\uff01",
-  "num_followers": 61813,
+  "num_followers": 61815,
   "original_name": "\u50ac\u7720\u7235\u58eb",
   "owner": {
     "name": "Spotify",
@@ -703,22 +703,6 @@
     {
       "added_at": "2025-05-26 07:13:56",
       "album": {
-        "name": "Summertime",
-        "url": "https://open.spotify.com/album/0yjSeaa1BvDU2nlFB0E6j7"
-      },
-      "artists": [
-        {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
-        }
-      ],
-      "duration_ms": 287373,
-      "name": "Emily",
-      "url": "https://open.spotify.com/track/6joG9hvPqUH0Bm4Zff7Nru"
-    },
-    {
-      "added_at": "2025-05-26 07:13:56",
-      "album": {
         "name": "Romaria",
         "url": "https://open.spotify.com/album/7s6ExEC25Hy8JirFPrghQY"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 311480,
       "name": "Romaria",
       "url": "https://open.spotify.com/track/6BMmyctJWWdbTHKpXkrja0"
+    },
+    {
+      "added_at": "2025-05-26 07:13:56",
+      "album": {
+        "name": "Summertime",
+        "url": "https://open.spotify.com/album/0yjSeaa1BvDU2nlFB0E6j7"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        }
+      ],
+      "duration_ms": 287373,
+      "name": "Emily",
+      "url": "https://open.spotify.com/track/6joG9hvPqUH0Bm4Zff7Nru"
     },
     {
       "added_at": "2025-05-26 07:13:56",
@@ -991,22 +991,6 @@
     {
       "added_at": "2025-05-26 07:13:56",
       "album": {
-        "name": "Songbook",
-        "url": "https://open.spotify.com/album/1iygnpMlnC5R3HtPJ6dIF3"
-      },
-      "artists": [
-        {
-          "name": "Kenny Garrett",
-          "url": "https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY"
-        }
-      ],
-      "duration_ms": 317946,
-      "name": "Before It's Time to Say Goodbye",
-      "url": "https://open.spotify.com/track/4lj4cW45UP5tQ8AhRxnQi9"
-    },
-    {
-      "added_at": "2025-05-26 07:13:56",
-      "album": {
         "name": "All Blues (CTI Records 40th Anniversary Edition)",
         "url": "https://open.spotify.com/album/5nEZ3hlaqqiQ9MQ4lFl16c"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 404026,
       "name": "Light Blue",
       "url": "https://open.spotify.com/track/1aScbLgIXdvopADfbla929"
+    },
+    {
+      "added_at": "2025-05-26 07:13:56",
+      "album": {
+        "name": "Songbook",
+        "url": "https://open.spotify.com/album/1iygnpMlnC5R3HtPJ6dIF3"
+      },
+      "artists": [
+        {
+          "name": "Kenny Garrett",
+          "url": "https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY"
+        }
+      ],
+      "duration_ms": 317946,
+      "name": "Before It's Time to Say Goodbye",
+      "url": "https://open.spotify.com/track/4lj4cW45UP5tQ8AhRxnQi9"
     },
     {
       "added_at": "2025-05-26 07:13:56",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2025-05-26 07:13:56",
       "album": {
-        "name": "Scott Hamilton Plays Ballads",
-        "url": "https://open.spotify.com/album/0bw16TpTm9imdckwKYYoKm"
-      },
-      "artists": [
-        {
-          "name": "Scott Hamilton",
-          "url": "https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr"
-        }
-      ],
-      "duration_ms": 220666,
-      "name": "Maybe September",
-      "url": "https://open.spotify.com/track/7wGqWPW8haFrmvikCyS5Qc"
-    },
-    {
-      "added_at": "2025-05-26 07:13:56",
-      "album": {
         "name": "return to casual",
         "url": "https://open.spotify.com/album/21m26L5W8yDHtrUBtNvH3s"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 248165,
       "name": "Evans",
       "url": "https://open.spotify.com/track/7sjiyZMJmYkoT2ScUnq622"
+    },
+    {
+      "added_at": "2025-05-26 07:13:56",
+      "album": {
+        "name": "Scott Hamilton Plays Ballads",
+        "url": "https://open.spotify.com/album/0bw16TpTm9imdckwKYYoKm"
+      },
+      "artists": [
+        {
+          "name": "Scott Hamilton",
+          "url": "https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr"
+        }
+      ],
+      "duration_ms": 220666,
+      "name": "Maybe September",
+      "url": "https://open.spotify.com/track/7wGqWPW8haFrmvikCyS5Qc"
     },
     {
       "added_at": "2025-05-26 07:13:56",

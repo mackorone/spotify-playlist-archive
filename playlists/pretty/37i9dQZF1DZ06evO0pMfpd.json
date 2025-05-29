@@ -1,12 +1,12 @@
 {
   "description": "This is Mi Banda El Mexicano. The essential tracks, all in one playlist.",
-  "num_followers": 75473,
+  "num_followers": 75483,
   "original_name": "This Is Mi Banda El Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDOvAAAAAADkwRyHEZcLhB9hRavzw3bm",
+  "snapshot_id": "aDUAgAAAAADuxsV0YkY1mNKPbMl8q1u1",
   "tracks": [
     {
       "added_at": null,
@@ -383,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Bailar... De Caballito!!",
-        "url": "https://open.spotify.com/album/5gsxJpgVURs0VKVoJbULL5"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 171230,
-      "name": "La Flaca",
-      "url": "https://open.spotify.com/track/1ch4u7n3GCyUYuLfRi8NAd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Banda el Mexicano",
         "url": "https://open.spotify.com/album/6XS5KBlreLUQlz9OU8ZzaI"
       },
@@ -415,8 +399,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/4ah8hW8051zINZLlMnH7Eu"
+        "name": "A Bailar... De Caballito!!",
+        "url": "https://open.spotify.com/album/5gsxJpgVURs0VKVoJbULL5"
       },
       "artists": [
         {
@@ -424,9 +408,25 @@
           "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
         }
       ],
-      "duration_ms": 145293,
-      "name": "El Borrachito - En Vivo",
-      "url": "https://open.spotify.com/track/4Q11MtOHssUXR3KW918PcJ"
+      "duration_ms": 171230,
+      "name": "La Flaca",
+      "url": "https://open.spotify.com/track/1ch4u7n3GCyUYuLfRi8NAd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Otra Vez",
+        "url": "https://open.spotify.com/album/3sxDYIn1KAZZdDNGHiQGbd"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 220723,
+      "name": "La Chinita",
+      "url": "https://open.spotify.com/track/5W1vsroY1xtc0HdoyGTwnb"
     },
     {
       "added_at": null,
@@ -447,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Otra Vez",
-        "url": "https://open.spotify.com/album/3sxDYIn1KAZZdDNGHiQGbd"
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/4ah8hW8051zINZLlMnH7Eu"
       },
       "artists": [
         {
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
         }
       ],
-      "duration_ms": 220723,
-      "name": "La Chinita",
-      "url": "https://open.spotify.com/track/5W1vsroY1xtc0HdoyGTwnb"
+      "duration_ms": 145293,
+      "name": "El Borrachito - En Vivo",
+      "url": "https://open.spotify.com/track/4Q11MtOHssUXR3KW918PcJ"
     },
     {
       "added_at": null,

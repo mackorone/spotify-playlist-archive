@@ -4,7 +4,7 @@
 
 > いろいろあるかも知れないけれど、ちょっと休憩しませんか？チルな楽曲でゆったりまったりなひと時を。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-354 songs - 21 hr 28 min
+355 songs - 21 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,7 @@
 | [RACE](https://open.spotify.com/track/6BALXTE4btzuEoCjdCFL31) | [Simmer Pine](https://open.spotify.com/artist/1aBq93WwCvNTicXVQ7B9vA) | [RACE](https://open.spotify.com/album/4iwTyaDbhF1RCKurB3o9VH) | 3:39 | 2024-07-17 | 2024-07-31 |
 | [Re:Deadstock](https://open.spotify.com/track/1yeVYPhxJBdeSoUFVf0gkb) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU), [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [Re:Deadstock](https://open.spotify.com/album/2cDL3EX58mSFRisxcNRnwP) | 2:23 | 2022-10-20 | 2023-07-07 |
 | [Refrain](https://open.spotify.com/track/2pK4IIWrmy0HoPeJK7ITSK) | [Hazy Blue](https://open.spotify.com/artist/2min1ksXdf3fra1lihn3sj) | [Refrain](https://open.spotify.com/album/0Z8e6p7ZqNSNpW2agJwATf) | 2:38 | 2024-06-12 | 2024-07-18 |
-| [RENDEZVOUS \- feat\. hard life](https://open.spotify.com/track/7IW75vzcw6xcJUIQBBEbfe) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [Taka Perry](https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF), [hard life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [RENDEZVOUS \(feat\. hard life\)](https://open.spotify.com/album/6KeUu57PZdCQyJVU4A4iSG) | 3:05 | 2025-05-20 |  |
+| [RENDEZVOUS \- feat\. hard life](https://open.spotify.com/track/7IW75vzcw6xcJUIQBBEbfe) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [Taka Perry](https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF), [hard life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [RENDEZVOUS \(feat\. hard life\)](https://open.spotify.com/album/6KeUu57PZdCQyJVU4A4iSG) | 3:05 | 2025-05-20 | 2025-05-29 |
 | [Roulette](https://open.spotify.com/track/7pQ241OlUabMsT9qwiyWtV) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [Roulette](https://open.spotify.com/album/66NYjSHUYFmgIW1VYKMASB) | 2:39 | 2024-08-28 | 2024-09-26 |
 | [S.S.S.](https://open.spotify.com/track/48f0KSnaKBBM4v5Uo3NWKN) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [S.S.S.](https://open.spotify.com/album/6r7gBmCDMCHc0C61Jgm74X) | 3:21 | 2022-11-24 | 2023-03-14 |
 | [Saintwood](https://open.spotify.com/track/7BvlhGNncFMJUpG89VmwE0) | [Haruy](https://open.spotify.com/artist/1fUfOzkQ6XFNv0JMdl3afw) | [CIRCLE](https://open.spotify.com/album/0XYuAdUfNURaY1bvS8orRU) | 4:32 | 2024-02-13 | 2024-03-06 |
@@ -262,6 +262,7 @@
 | [ゲームオーバー](https://open.spotify.com/track/7wX4lU05mPcLejQXPhh4Gk) | [mei ehara](https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF) | [ゲームオーバー](https://open.spotify.com/album/1W2ALpoA6PjU52mkFj2JwS) | 4:26 | 2022-11-23 | 2023-03-22 |
 | [ゴースト](https://open.spotify.com/track/0aBb5sdeZyojEd5cVD9UKb) | [Deep Sea Diving Club](https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY) | [Mix Wave](https://open.spotify.com/album/02IbI9D14DVwwU7ZXJz0vd) | 3:47 | 2023-05-09 | 2023-05-24 |
 | [サイダー](https://open.spotify.com/track/3XyMgMwiakVHJGrXquBRU7) | [もさを。](https://open.spotify.com/artist/71KI7v1YqVU8cIFzBl47dh) | [サイダー](https://open.spotify.com/album/5lWC0kWqYgIUem8aSfKfpu) | 3:39 | 2022-10-20 | 2022-12-24 |
+| [サンクチュアリ](https://open.spotify.com/track/1meZPjZFVbA9psKezn9Z87) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [サンクチュアリ](https://open.spotify.com/album/3K6BhGujuqyF0aTdSA0DYb) | 4:52 | 2025-05-20 |  |
 | [ストレンジバード](https://open.spotify.com/track/33SKM1skEKGragmvSoy29f) | [Emerald](https://open.spotify.com/artist/1d7tus0MFvl8SEin6MIRAs) | [Neo Oriented](https://open.spotify.com/album/1s7cSIMsphIt4ELBfOfEbC) | 3:32 | 2024-08-28 | 2025-01-15 |
 | [スパークル](https://open.spotify.com/track/6EuubEs5qOmJdpNhkU47OZ) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [スパークル](https://open.spotify.com/album/0HmvMEiGowPfT2UvYNRDcv) | 3:33 | 2023-03-25 |  |
 | [セゾン](https://open.spotify.com/track/5xEJBG1m6sCm42CPaikcTK) | [Khamai Leon](https://open.spotify.com/artist/0XR6pwgaNullwNSqnmnhHb) | [セゾン](https://open.spotify.com/album/0Q0Anh9MNPzdlu5xP9kdfp) | 4:47 | 2025-03-18 |  |

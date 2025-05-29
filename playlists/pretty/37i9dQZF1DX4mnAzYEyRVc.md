@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 
 > The world series of Ska\. Cover: Sondaschule
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,422 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,436 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,22 +91,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 81 | [In 80 Tagen um die Welt \- Birthday Rerecordings '24](https://open.spotify.com/track/4JABU1W26SfKdMloYWs1TW) | [Broilers](https://open.spotify.com/artist/2C7RDMSpyGZFyoSnvOeU4J) | [Jolly Good Fellas \- Best of Broilers 1994\-2024](https://open.spotify.com/album/6QGv5jv9VH7oRFF5is69mv) | 3:22 |
 | 82 | [Quién devuelve el tiempo?](https://open.spotify.com/track/2NjO7h3J6rimKuRuzEMtzZ) | [Out Of Control Army](https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy), [The Locos](https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx) | [Quién Devuelve El Tiempo?](https://open.spotify.com/album/2AQPM37cUxM9NK8v8pCZer) | 3:30 |
 | 83 | [Clandestino](https://open.spotify.com/track/05tdpvaKfMHgHUL7d8JOBw) | [Los Fastidios](https://open.spotify.com/artist/7mj1qBxQNKorkNUCHXjOw9) | [The Sound Of Revolution](https://open.spotify.com/album/7zlwVsTrNivVfNBTPBzQw9) | 3:25 |
-| 84 | [Juice](https://open.spotify.com/track/7EfoHAFmh3NXkFv6psha4K) | [Sublime Reggae Kings](https://open.spotify.com/artist/0IdWDHqu9vAilcEhb3Q0tN), [Nenei](https://open.spotify.com/artist/7675AXKo73FqKM9RDrGbf7) | [Juice](https://open.spotify.com/album/751vQFOW3Ta6H207f2KXAp) | 2:59 |
-| 85 | [Zombiler](https://open.spotify.com/track/1IW6yBz7CH4oN7csJxl9Oz) | [Second](https://open.spotify.com/artist/0hB4oP2Xs7bmAb3W5dHwsi) | [Zombiler](https://open.spotify.com/album/53HtyBiWbJkq8eJnPiio8Z) | 3:26 |
+| 84 | [Zombiler](https://open.spotify.com/track/1IW6yBz7CH4oN7csJxl9Oz) | [Second](https://open.spotify.com/artist/0hB4oP2Xs7bmAb3W5dHwsi) | [Zombiler](https://open.spotify.com/album/53HtyBiWbJkq8eJnPiio8Z) | 3:26 |
+| 85 | [Juice](https://open.spotify.com/track/7EfoHAFmh3NXkFv6psha4K) | [Sublime Reggae Kings](https://open.spotify.com/artist/0IdWDHqu9vAilcEhb3Q0tN), [Nenei](https://open.spotify.com/artist/7675AXKo73FqKM9RDrGbf7) | [Juice](https://open.spotify.com/album/751vQFOW3Ta6H207f2KXAp) | 2:59 |
 | 86 | [Don't Worry, Be Happy](https://open.spotify.com/track/1fCwJr4ICgKcJOVqnY1Dtb) | [The Busters](https://open.spotify.com/artist/2wCh75gIAQ5Ed9UGiqLBMB) | [Ruder Than Rude](https://open.spotify.com/album/5fYmxYffEECoKcstBe37qU) | 2:57 |
 | 87 | [Paz y Baile](https://open.spotify.com/track/2eSYkbxRBkfJTm8ILlnB9P) | [Roco Pachukote](https://open.spotify.com/artist/2ODbtFkjehgsWGLhybegVA), [Flavio Cianciarulo](https://open.spotify.com/artist/07blDpyF58EXFIgZtIS3H3) | [Paz y Baile](https://open.spotify.com/album/3QInNg3IGdnIn8NaSwuUOr) | 3:38 |
 | 88 | [La Manifestacion](https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9) | [Skampida](https://open.spotify.com/artist/2gFTHPd5iboV0IvQgsATno) | [Inflammable](https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al) | 2:51 |
 | 89 | [El Ático](https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj) | [Ska\-P](https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl) | [El Ático](https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm) | 4:02 |
-| 90 | [Devil With a Microphone](https://open.spotify.com/track/4oZEIKV1jFpaanyl9DneOF) | [Random Hand](https://open.spotify.com/artist/0qyNkAVhhlJ4DvfYypl1Bb) | [Random Hand](https://open.spotify.com/album/5IUr8JaIyJvTN4nU293VHC) | 3:12 |
-| 91 | [El Amor No Es para Tibios \(Este Año Es el Bueno\)](https://open.spotify.com/track/7xUJ7xDiITKkziExo8TolF) | [Raztlan](https://open.spotify.com/artist/4bm76UqljC1NEUS1yahaxE), [Melodycans](https://open.spotify.com/artist/1kjHfeJNTbCFiDwz0xJbNF) | [El Amor No Es para Tibios \(Este Año Es el Bueno\)](https://open.spotify.com/album/1e3dZ3V9acJz1nJRCjsZXO) | 3:33 |
+| 90 | [El Amor No Es para Tibios \(Este Año Es el Bueno\)](https://open.spotify.com/track/7xUJ7xDiITKkziExo8TolF) | [Raztlan](https://open.spotify.com/artist/4bm76UqljC1NEUS1yahaxE), [Melodycans](https://open.spotify.com/artist/1kjHfeJNTbCFiDwz0xJbNF) | [El Amor No Es para Tibios \(Este Año Es el Bueno\)](https://open.spotify.com/album/1e3dZ3V9acJz1nJRCjsZXO) | 3:33 |
+| 91 | [Devil With a Microphone](https://open.spotify.com/track/4oZEIKV1jFpaanyl9DneOF) | [Random Hand](https://open.spotify.com/artist/0qyNkAVhhlJ4DvfYypl1Bb) | [Random Hand](https://open.spotify.com/album/5IUr8JaIyJvTN4nU293VHC) | 3:12 |
 | 92 | [Don\`t Worry Be Happy](https://open.spotify.com/track/6jo4CR3Efx6g2peyiXmzAU) | [The Locos](https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx) | [Don't Worry Be Happy](https://open.spotify.com/album/5FexSOMJcqzhSt3NFXqbLY) | 3:45 |
-| 93 | [Get Me Ready](https://open.spotify.com/track/2R6xSW1Z50F8CT31BNWMhM) | [Pepper](https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT) | [Get Me Ready](https://open.spotify.com/album/0AUFHAT1XHHyxiMucByoGB) | 2:49 |
-| 94 | [Tengo Miedo](https://open.spotify.com/track/0Ie0046Cnewwp8bKCZlDPA) | [Timo Pacheco](https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl) | [Estacional](https://open.spotify.com/album/5wU8q6gfYE2aQDxTMRULGt) | 3:17 |
+| 93 | [Tengo Miedo](https://open.spotify.com/track/0Ie0046Cnewwp8bKCZlDPA) | [Timo Pacheco](https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl) | [Estacional](https://open.spotify.com/album/5wU8q6gfYE2aQDxTMRULGt) | 3:17 |
+| 94 | [Get Me Ready](https://open.spotify.com/track/2R6xSW1Z50F8CT31BNWMhM) | [Pepper](https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT) | [Get Me Ready](https://open.spotify.com/album/0AUFHAT1XHHyxiMucByoGB) | 2:49 |
 | 95 | [Mudik](https://open.spotify.com/track/3u7pq1wcyrms1poAnD5HuR) | [Shaggydog](https://open.spotify.com/artist/0AjuoWaVVGH41iEhASaj2r) | [Mudik](https://open.spotify.com/album/3x0dxk1UNE1cAk2jmLrAUQ) | 4:15 |
 | 96 | [Pancho](https://open.spotify.com/track/5X1pCdS5HwMHXeE2Yz7ZaC) | [Fast Food Orchestra](https://open.spotify.com/artist/2EjBCwIB8BXPEdWQKTeEqN) | [Pancho](https://open.spotify.com/album/7DrM0Z9XB0tTOi1gCqZXQf) | 2:41 |
 | 97 | [Lights Out In The Reptile House](https://open.spotify.com/track/0Jh0lA8GmgbfIh0VkMpOp1) | [Save Ferris](https://open.spotify.com/artist/1PAi6SNPtaiFqTRiTfecFr) | [Lights Out In The Reptile House](https://open.spotify.com/album/0I2NMVIK0TZB5cZMn9gbfa) | 3:04 |
 | 98 | [風に戦ぐブルーズ \- feat.TAKUMA \(10\-FEET\)](https://open.spotify.com/track/1bst6b0Ax3XzPECji6z5Fq) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [風に戦ぐブルーズ \[feat.TAKUMA \(10\-FEET\)\]](https://open.spotify.com/album/6rtIq83ix9y8z2AeQhAoOh) | 5:03 |
-| 99 | [Broken Words](https://open.spotify.com/track/0HPNtnw8qhK0IAQlxMPNjB) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Broken Words](https://open.spotify.com/album/0Z0RC0jyicZJDUXtH8goe8) | 2:52 |
-| 100 | [Sally Brown](https://open.spotify.com/track/08hvKlzfjR1uXbDsUdFtXE) | [Bad Manners](https://open.spotify.com/artist/0GShYlUdyLahdsvgKdselx) | [Return Of The Ugly](https://open.spotify.com/album/6HOvTf2kejA6S1lh0rCTCD) | 3:02 |
+| 99 | [Sally Brown](https://open.spotify.com/track/08hvKlzfjR1uXbDsUdFtXE) | [Bad Manners](https://open.spotify.com/artist/0GShYlUdyLahdsvgKdselx) | [Return Of The Ugly](https://open.spotify.com/album/6HOvTf2kejA6S1lh0rCTCD) | 3:02 |
+| 100 | [Broken Words](https://open.spotify.com/track/0HPNtnw8qhK0IAQlxMPNjB) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Broken Words](https://open.spotify.com/album/0Z0RC0jyicZJDUXtH8goe8) | 2:52 |
 
 Snapshot ID: `Z/iv6QAAAACVySnUnadMAagLcJ0shQhG`

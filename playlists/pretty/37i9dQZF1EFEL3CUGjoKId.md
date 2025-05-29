@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEL3CUGjoKId.md) - [plain]
 | 40 | [Make Me Cry](https://open.spotify.com/track/6q8yTO3kDbym2OgvTNRJ0P) | [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6) | [Double Up](https://open.spotify.com/album/0DTOpcrISuUBmpHknsAJlW) | 4:14 |
 | 41 | [Ricky \- 2017 Remaster](https://open.spotify.com/track/76lg1p3MYHNGc3qDrB9xB8) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In the Night \(Deluxe Edition\)](https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F) | 4:26 |
 | 42 | [Behind the Mask](https://open.spotify.com/track/6UHroXgEynjfh8VfcZSYsi) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Behind the Mask](https://open.spotify.com/album/3aXrkfZW8FzUDOU0RwQ401) | 4:18 |
-| 43 | [Hollywood \(Some Other Kind of Town\)](https://open.spotify.com/track/3FcjR9MHChTfJd5HCbnMW2) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Time](https://open.spotify.com/album/2efkPPuJQ7JrTloWk4lhiV) | 5:45 |
-| 44 | [Come a Little Bit Closer](https://open.spotify.com/track/6XbTYUpwr2txNzyS3yVYlR) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Heroes Are Hard to Find](https://open.spotify.com/album/2ISNpwmh12Nf2420YUQcNE) | 4:48 |
+| 43 | [Come a Little Bit Closer](https://open.spotify.com/track/6XbTYUpwr2txNzyS3yVYlR) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Heroes Are Hard to Find](https://open.spotify.com/album/2ISNpwmh12Nf2420YUQcNE) | 4:48 |
+| 44 | [Hollywood \(Some Other Kind of Town\)](https://open.spotify.com/track/3FcjR9MHChTfJd5HCbnMW2) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Time](https://open.spotify.com/album/2efkPPuJQ7JrTloWk4lhiV) | 5:45 |
 | 45 | [Carnival Begin](https://open.spotify.com/track/2DW5uwhFUUEVYLyTwMkJDV) | [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO), [Christine McVie](https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2) | [Lindsey Buckingham Christine McVie](https://open.spotify.com/album/0hV5tUdhxoe9ul2YVqco6b) | 4:40 |
 | 46 | [All over Again](https://open.spotify.com/track/5ZwoapiOoajVUtLmj1BDBb) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Time](https://open.spotify.com/album/2efkPPuJQ7JrTloWk4lhiV) | 3:36 |
 | 47 | [Do You Know](https://open.spotify.com/track/5aXSUZaSDgSvtuaAXyLtFL) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Behind the Mask](https://open.spotify.com/album/3aXrkfZW8FzUDOU0RwQ401) | 4:19 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEL3CUGjoKId.md) - [plain]
 | 85 | [Sweet Revenge](https://open.spotify.com/track/469gfzBdPNs6FfZ9SMEvlw) | [Christine Mcvie](https://open.spotify.com/artist/37vxFfgCPJ4ATpZjGPVWY2) | [In The Meantime](https://open.spotify.com/album/0fCzPs9l2rPF3eLPrEiQ9H) | 3:50 |
 | 86 | [Wanna Be With You \(Everywhere\)](https://open.spotify.com/track/5wUSCnSTvyRXUJzpAaorhz) | [GTF](https://open.spotify.com/artist/6qa9mE0Y9cguezXeXWJBQ1) | [Wanna Be With You \(Everywhere\)](https://open.spotify.com/album/1tAkT1wiSxVsR2hgYcirAh) | 3:15 |
 
-Snapshot ID: `AbykPgAAAACvR2TKls1u9P8wUHKRRnkx`
+Snapshot ID: `Abyp/AAAAACKZDKupO/Qc3Btk4m/93ci`

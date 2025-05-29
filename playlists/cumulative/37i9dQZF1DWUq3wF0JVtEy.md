@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-530 songs - 1 day 1 hr 50 min
+531 songs - 1 day 1 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Be Good](https://open.spotify.com/track/5AZLFrMsM9URNM77tqxdNZ) | [NO SIGNE](https://open.spotify.com/artist/1DoFYfnZ1zTlWU9ZGJLNuX), [Emie](https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ) | [Be Good](https://open.spotify.com/album/2ryWx4gB4evXAKlIIFwup4) | 2:51 | 2021-10-29 | 2022-11-12 |
 | [Be With You](https://open.spotify.com/track/1VdCgotTRcPwbbRnCrzIfR) | [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS) | [Be With You](https://open.spotify.com/album/0kiZ251Slwv3rlGwdAHuRk) | 2:46 | 2023-10-06 | 2025-02-16 |
 | [Beast Mode \(Knock You Out\)](https://open.spotify.com/track/460FLlsVLaDLzPTclcuOl4) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Beast Mode \(Knock You Out\)](https://open.spotify.com/album/6k5C7dt5RAZZ7oTzoF7LBc) | 2:44 | 2024-04-19 |  |
+| [Beat Goes On \(feat\. Casey Cook\)](https://open.spotify.com/track/1cI5uk4DpB22EixZCllbwy) | [Cheyenne Giles](https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj), [Casey Cook](https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl) | [Beat Goes On \(feat\. Casey Cook\)](https://open.spotify.com/album/1Rot8rGcIeEXCNW960nszl) | 2:49 | 2025-05-23 |  |
 | [Beat Keep Rockin'](https://open.spotify.com/track/11RXJgrGmyPJEtbOJ9ZFYQ) | [Starjunk 95](https://open.spotify.com/artist/523iXWyHL26prJR3GKjRhx) | [Beat Keep Rockin'](https://open.spotify.com/album/6qIpC1zUZJ1DqFbyMcQT6q) | 3:03 | 2025-02-14 |  |
 | [Better Off \(feat\. Sara Diamond\)](https://open.spotify.com/track/0axSINcrVVrNfHXMRTsTKF) | [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF), [Cazztek](https://open.spotify.com/artist/3wRQD6UZWlaWEnbgpIEPPX), [Sara Diamond](https://open.spotify.com/artist/4azg4dtpH6PiewGHFzQEj0) | [Better Off \(feat\. Sara Diamond\)](https://open.spotify.com/album/1WmvEdrVlrx4CuP496Xxa5) | 2:45 | 2021-10-29 | 2022-03-23 |
 | [Better Than This](https://open.spotify.com/track/1TjOUIkjyQnOn0U5LfjnI6) | [Plastik Funk](https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v), [Sebastian Mateo](https://open.spotify.com/artist/4McoittPoukRnXpQM6oqus), [DJ St3v3](https://open.spotify.com/artist/5JtHhJV4k1FTDeshhfUg7G) | [Better Than This](https://open.spotify.com/album/2nOK0aIFlvx3UnDchQ0b1q) | 2:20 | 2022-04-01 | 2022-04-21 |
@@ -485,7 +486,7 @@
 | [The One](https://open.spotify.com/track/5Kf986lCmcLAlVAennL74R) | [DEVOWR.](https://open.spotify.com/artist/1u8a7qizQpZ7avZWbltl7X), [AK RENNY](https://open.spotify.com/artist/7J0b2c5hn6vsok7dPwtQMX) | [The One](https://open.spotify.com/album/0vLmi3I6py7HTOIIom2yqO) | 3:35 | 2023-01-13 | 2023-03-10 |
 | [The Sound](https://open.spotify.com/track/6VfURLdwW6jBCu4nHdAKBm) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV) | [The Sound](https://open.spotify.com/album/1rwPxia8PKK8uvUSaErJIj) | 2:35 | 2024-08-30 |  |
 | [The Sound](https://open.spotify.com/track/29mfJk6aT99UhjzIidSLow) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [NORII](https://open.spotify.com/artist/4I1nNVymsW8VCQpkkAiqn1) | [4x4 BANGERS](https://open.spotify.com/album/4bDFHemYynP6J0w7lVdtSD) | 2:42 | 2024-05-10 | 2024-11-09 |
-| [The Sound](https://open.spotify.com/track/7cZyHZYl7xoEUfIL36bmx0) | [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh) | [Panorama](https://open.spotify.com/album/0vQ60otw3uv3eJuGANVBUM) | 3:51 | 2025-01-24 |  |
+| [The Sound](https://open.spotify.com/track/7cZyHZYl7xoEUfIL36bmx0) | [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh) | [Panorama](https://open.spotify.com/album/0vQ60otw3uv3eJuGANVBUM) | 3:51 | 2025-01-24 | 2025-05-29 |
 | [The Underground](https://open.spotify.com/track/266YHA8L6rGYl4Iq5Mmvwb) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM), [MorganJ](https://open.spotify.com/artist/5irwemCIBdwWYTZrcxX2UW) | [The Underground](https://open.spotify.com/album/75d0vSPEzmVLSECS9AOXUO) | 2:35 | 2022-07-22 | 2022-08-22 |
 | [The Way We Touch](https://open.spotify.com/track/3odB1ngbDmmLBdaaFu9d8D) | [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [Mahalo](https://open.spotify.com/artist/1SeU8Y2rEUpEoeWmUCdQIR) | [The Way We Touch](https://open.spotify.com/album/13FtX9bJFhfsA8JAjUAjg1) | 2:42 | 2023-05-26 | 2023-11-11 |
 | [They Not Us](https://open.spotify.com/track/7lmyru1csct3dKD6KD8cpa) | [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN) | [They Not Us](https://open.spotify.com/album/1jaBnYJ6vkb8iNIPNjetTu) | 3:24 | 2024-02-02 | 2024-02-24 |

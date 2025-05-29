@@ -8155,6 +8155,28 @@
     },
     {
       "album": {
+        "name": "Paapi",
+        "url": "https://open.spotify.com/album/4KxNZnfb4MsKVJGJDw38Zp"
+      },
+      "artists": [
+        {
+          "name": "Aastha Gill",
+          "url": "https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ"
+        },
+        {
+          "name": "Puri",
+          "url": "https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp"
+        }
+      ],
+      "date_added": "2025-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Paapi",
+      "url": "https://open.spotify.com/track/2YQcdg36Rv2jRFcccORcv9"
+    },
+    {
+      "album": {
         "name": "Pal",
         "url": "https://open.spotify.com/album/4QCM8VlhhlwZtQ2Ew7gtIg"
       },
@@ -9962,7 +9984,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-29",
       "duration_ms": 173222,
       "name": "Senti",
       "url": "https://open.spotify.com/track/6xaOFO19zFLxW4KUFz28qa"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 
 > Feeling dramatic? All eyes on you\. Cover: Remy Bond
 
-[Spotify](https://open.spotify.com/user/spotify) - 543,964 likes - 70 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 544,010 likes - 70 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,16 +21,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 | 11 | [Army Dreamers \- 2018 Remaster](https://open.spotify.com/track/5QYUNHT2dQwoNHorXznygN) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Never for Ever \(2018 Remaster\)](https://open.spotify.com/album/7uNjeNs5AmDqZHzIbyPkZH) | 2:59 |
 | 12 | [Crowd Caffeine](https://open.spotify.com/track/5NgUs4A8db3NL75hvDr4eB) | [SOFIA ISELLA](https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2) | [Crowd Caffeine](https://open.spotify.com/album/6eQcK3pwuno4GzjNqgNBL2) | 3:22 |
 | 13 | [Shy Girl](https://open.spotify.com/track/7KNFJbMvPdplvrolBUkK2N) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Shy Girl](https://open.spotify.com/album/3geXpNNZHdQD15uZV0uRj5) | 3:07 |
-| 14 | [Joyride](https://open.spotify.com/track/4s27xtyDNC6C3SCBKn8He3) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [Joyride](https://open.spotify.com/album/2mqDhcLG9qQ1rlHx8LKAlj) | 4:44 |
-| 15 | [DA DA DA](https://open.spotify.com/track/0edVUyI6gmCfm4Ka6YxSDt) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [DA DA DA](https://open.spotify.com/album/6BqQ0NgA85BDf5lNtXoXob) | 2:18 |
-| 16 | [Dangerous](https://open.spotify.com/track/2sxpbOUUSzRrms8vSZwxvo) | [Jorge Rivera\-Herrans](https://open.spotify.com/artist/2kdmTOXncgNHSuYVMhdd5I), [TROY](https://open.spotify.com/artist/72rBhryT48xN1YJ1ygEWrj), [Diana Rivera\-Herrans](https://open.spotify.com/artist/642h5sVW7rt43WPfEHkL1k) | [EPIC: The Vengeance Saga \(Official Concept Album\)](https://open.spotify.com/album/5P7YyqqjHuq7mSLqIY06jE) | 3:24 |
-| 17 | [Come Home](https://open.spotify.com/track/4Hs0dbbWphP4ILaGaV9dYb) | [Jace June](https://open.spotify.com/artist/0Hsm1DHvcL8kNCWRlZAxkP) | [Come Home](https://open.spotify.com/album/2I8n3Hm1SWZz7HfOTP281M) | 2:48 |
-| 18 | [Hermit the Frog](https://open.spotify.com/track/4Zcz6saEkOII3PlXd9gN3o) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [The Family Jewels](https://open.spotify.com/album/1CtDa7pVfLF4u2ZadRTWz7) | 3:35 |
-| 19 | [Cruel](https://open.spotify.com/track/54TGWoEvjukuZSE2CyRssB) | [Spencer Sutherland](https://open.spotify.com/artist/6mjz3NMhNE5SK7GsbJIg6C) | [The Drama Deluxe \(The Encore!\)](https://open.spotify.com/album/4v8tECPR1zq0SjqNwI8wql) | 2:20 |
-| 20 | [Silver Lining](https://open.spotify.com/track/4kfXaAAZlfBrimPJYHlCEM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Silver Lining](https://open.spotify.com/album/0jAVa8PcQSqGTFIXVyxFoy) | 3:17 |
-| 21 | [Cole's Response](https://open.spotify.com/track/51MMAFn3SJ5icMft2NwCG5) | [Yaelokre](https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY) | [Cole's Response](https://open.spotify.com/album/3c9v4CNoqLy1h3x8nlM5vP) | 2:08 |
-| 22 | [Conquests](https://open.spotify.com/track/2bftvpU1GIxsy2mEtM1RJ1) | [Bellzzz](https://open.spotify.com/artist/4qxIpRSvXWpN4f1Y5QQ2gg) | [Dear Elizabeth,](https://open.spotify.com/album/1xlAMd57AlCYXuZ6UrkTNK) | 2:32 |
-| 23 | [What The Hell Just Happened?](https://open.spotify.com/track/39psNd97jsWTYIXrLOTco2) | [Remember Monday](https://open.spotify.com/artist/3oIj2x6uKeZSe9Bprnt4TX) | [What The Hell Just Happened?](https://open.spotify.com/album/1xJikgsecBOKSNpyjk8i2W) | 2:56 |
+| 14 | [What The Hell Just Happened?](https://open.spotify.com/track/39psNd97jsWTYIXrLOTco2) | [Remember Monday](https://open.spotify.com/artist/3oIj2x6uKeZSe9Bprnt4TX) | [What The Hell Just Happened?](https://open.spotify.com/album/1xJikgsecBOKSNpyjk8i2W) | 2:56 |
+| 15 | [Joyride](https://open.spotify.com/track/4s27xtyDNC6C3SCBKn8He3) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [Joyride](https://open.spotify.com/album/2mqDhcLG9qQ1rlHx8LKAlj) | 4:44 |
+| 16 | [DA DA DA](https://open.spotify.com/track/0edVUyI6gmCfm4Ka6YxSDt) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [DA DA DA](https://open.spotify.com/album/6BqQ0NgA85BDf5lNtXoXob) | 2:18 |
+| 17 | [Dangerous](https://open.spotify.com/track/2sxpbOUUSzRrms8vSZwxvo) | [Jorge Rivera\-Herrans](https://open.spotify.com/artist/2kdmTOXncgNHSuYVMhdd5I), [TROY](https://open.spotify.com/artist/72rBhryT48xN1YJ1ygEWrj), [Diana Rivera\-Herrans](https://open.spotify.com/artist/642h5sVW7rt43WPfEHkL1k) | [EPIC: The Vengeance Saga \(Official Concept Album\)](https://open.spotify.com/album/5P7YyqqjHuq7mSLqIY06jE) | 3:24 |
+| 18 | [Come Home](https://open.spotify.com/track/4Hs0dbbWphP4ILaGaV9dYb) | [Jace June](https://open.spotify.com/artist/0Hsm1DHvcL8kNCWRlZAxkP) | [Come Home](https://open.spotify.com/album/2I8n3Hm1SWZz7HfOTP281M) | 2:48 |
+| 19 | [Hermit the Frog](https://open.spotify.com/track/4Zcz6saEkOII3PlXd9gN3o) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [The Family Jewels](https://open.spotify.com/album/1CtDa7pVfLF4u2ZadRTWz7) | 3:35 |
+| 20 | [Cruel](https://open.spotify.com/track/54TGWoEvjukuZSE2CyRssB) | [Spencer Sutherland](https://open.spotify.com/artist/6mjz3NMhNE5SK7GsbJIg6C) | [The Drama Deluxe \(The Encore!\)](https://open.spotify.com/album/4v8tECPR1zq0SjqNwI8wql) | 2:20 |
+| 21 | [Silver Lining](https://open.spotify.com/track/4kfXaAAZlfBrimPJYHlCEM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Silver Lining](https://open.spotify.com/album/0jAVa8PcQSqGTFIXVyxFoy) | 3:17 |
+| 22 | [Cole's Response](https://open.spotify.com/track/51MMAFn3SJ5icMft2NwCG5) | [Yaelokre](https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY) | [Cole's Response](https://open.spotify.com/album/3c9v4CNoqLy1h3x8nlM5vP) | 2:08 |
+| 23 | [Conquests](https://open.spotify.com/track/2bftvpU1GIxsy2mEtM1RJ1) | [Bellzzz](https://open.spotify.com/artist/4qxIpRSvXWpN4f1Y5QQ2gg) | [Dear Elizabeth,](https://open.spotify.com/album/1xlAMd57AlCYXuZ6UrkTNK) | 2:32 |
 | 24 | [Brand New](https://open.spotify.com/track/06JHQjM86D4IvdwIIksdls) | [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [CHILDSTAR](https://open.spotify.com/album/6mFk7NdiRWLRVSX784kyfS) | 2:51 |
 | 25 | [Marble Arch](https://open.spotify.com/track/21zKWP33iPQYuCWIWipRhk) | [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [Marble Arch](https://open.spotify.com/album/68pV0kNS4G4TVFM7lNZTwG) | 3:11 |
 | 26 | [Pity Party](https://open.spotify.com/track/5D4pxNBwIXBDaFYWFfia0r) | [Lydia Night](https://open.spotify.com/artist/7zPPRI5YRGj8bPYBmtIy4l) | [Pity Party](https://open.spotify.com/album/7kUXbGwQwpbgQV9obq7yGd) | 3:17 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 | 69 | [1985](https://open.spotify.com/track/2FdzIRCqzjhdxP5W99FSvS) | [Bo Burnham](https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo) | [THE INSIDE OUTTAKES](https://open.spotify.com/album/1m44SygOrmURyQXnYYq59H) | 2:26 |
 | 70 | [My Alcoholic Friends](https://open.spotify.com/track/2gvmxusSOe3vNjNDjQWaso) | [The Dresden Dolls](https://open.spotify.com/artist/5JqX1glXPg6428ubI1w72i) | [Yes, Virginia](https://open.spotify.com/album/1jcVHOTgDFDb5nLh2wTCaR) | 2:47 |
 
-Snapshot ID: `aDXcTAAAAACiFUIR14ZSeBVbPPg8PNi9`
+Snapshot ID: `aDeAzgAAAAAHXfr9VoSmCEYmMfODjclT`

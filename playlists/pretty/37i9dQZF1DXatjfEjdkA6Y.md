@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatjfEjdkA6Y.md) - [plain]
 
 > The highlights of Eurovision from the 50s, 60s & 70s\. Cover: ABBA
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,881 likes - 70 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,887 likes - 70 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,10 +23,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatjfEjdkA6Y.md) - [plain]
 | 13 | [Beg, Steal Or Borrow](https://open.spotify.com/track/0oIL0V8acWjmUDs79Uiqsz) | [The New Seekers](https://open.spotify.com/artist/4jrTNltJtTMUfXybDdsHDn) | [The Albums 1970\-73](https://open.spotify.com/album/7fCJV5AS4vWwgSaeYPwKEj) | 2:47 |
 | 14 | [Après toi](https://open.spotify.com/track/13tx9je0ftBgu6BKpsQDo4) | [Vicky Leandros](https://open.spotify.com/artist/68yjIBoc8l4GaliVFZDUcJ) | [Vicky Leandros \(Expanded Edition\)](https://open.spotify.com/album/5SdvPCwMrGeco2J8YYXB6I) | 3:32 |
 | 15 | [La, La, La](https://open.spotify.com/track/1ApXNkjfjxkSDoezO8Kh8g) | [Massiel](https://open.spotify.com/artist/7gAcNqHWOMnqnsTBjq7v0T) | [Lo Mejor de Massiel](https://open.spotify.com/album/44JyWGnSQObZVILBVQ4hnF) | 2:32 |
-| 16 | [Vivo Cantando](https://open.spotify.com/track/059G9tpE3kl6wz3kiddaN0) | [Salomé](https://open.spotify.com/artist/63do5oMjVDbcCYvgqhMCtM) | [Todo Lo Mejor](https://open.spotify.com/album/7ktr6P3BCeVcyhwQ1a4QPX) | 2:10 |
-| 17 | [N'avoue Jamais](https://open.spotify.com/track/1vPCbI7QPZtU6T42uaeP8w) | [Guy Mardel](https://open.spotify.com/artist/7AeNQueeNvOLDKYylJPaB0) | [Best Of Vol.1, Les Succès De Guy Mardel](https://open.spotify.com/album/1atBdA3FXEvIhU19tXbIqD) | 2:52 |
-| 18 | [1, 2, 3](https://open.spotify.com/track/4AFbTE63GLKZyZv96eNmYK) | [Catherine Ferry](https://open.spotify.com/artist/42RTi99jGurzuXQqqr2g0A) | [Mélodie bleue](https://open.spotify.com/album/3Oa1HzOfHQPaHUtbNUJ6jm) | 2:30 |
-| 19 | [Bailemos un Vals](https://open.spotify.com/track/07HHIWiizlox1aoaxscHoj) | [José Velez](https://open.spotify.com/artist/7wM7apExOIkh5wtyDjDxvm) | [Lo Mejor de José Velez](https://open.spotify.com/album/5qv51ppTwXb5DE8iusnLl8) | 3:07 |
+| 16 | [N'avoue Jamais](https://open.spotify.com/track/1vPCbI7QPZtU6T42uaeP8w) | [Guy Mardel](https://open.spotify.com/artist/7AeNQueeNvOLDKYylJPaB0) | [Best Of Vol.1, Les Succès De Guy Mardel](https://open.spotify.com/album/1atBdA3FXEvIhU19tXbIqD) | 2:52 |
+| 17 | [Vivo Cantando](https://open.spotify.com/track/059G9tpE3kl6wz3kiddaN0) | [Salomé](https://open.spotify.com/artist/63do5oMjVDbcCYvgqhMCtM) | [Todo Lo Mejor](https://open.spotify.com/album/7ktr6P3BCeVcyhwQ1a4QPX) | 2:10 |
+| 18 | [Bailemos un Vals](https://open.spotify.com/track/07HHIWiizlox1aoaxscHoj) | [José Velez](https://open.spotify.com/artist/7wM7apExOIkh5wtyDjDxvm) | [Lo Mejor de José Velez](https://open.spotify.com/album/5qv51ppTwXb5DE8iusnLl8) | 3:07 |
+| 19 | [1, 2, 3](https://open.spotify.com/track/4AFbTE63GLKZyZv96eNmYK) | [Catherine Ferry](https://open.spotify.com/artist/42RTi99jGurzuXQqqr2g0A) | [Mélodie bleue](https://open.spotify.com/album/3Oa1HzOfHQPaHUtbNUJ6jm) | 2:30 |
 | 20 | [אי שם](https://open.spotify.com/track/6XTFPBCx1F8q9V2CgXnUWO) | [Ilanit](https://open.spotify.com/artist/6Rs5PyjfGBoAYfsA0Kocsj) | [אי שם](https://open.spotify.com/album/20DzOLF3saURVlu1S4SFY3) | 2:52 |
 | 21 | [Swiss Lady](https://open.spotify.com/track/0832pCssQRETuqoNPLOtpO) | [Pepe Lienhard Band](https://open.spotify.com/artist/5eCPVMIgv86yjbfmCp4faz) | [Swiss Lady](https://open.spotify.com/album/033LXpLUFi89URJiEqc2qf) | 2:58 |
 | 22 | [Occhi di ragazza](https://open.spotify.com/track/1w7ID6DNVqWTkFigG5bHgE) | [Gianni Morandi](https://open.spotify.com/artist/15FrhfFYJIx7Ijltkpjbsr) | [Gianni Morandi](https://open.spotify.com/album/0Bp1XMvxKay4gZrEkMXn6w) | 2:52 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatjfEjdkA6Y.md) - [plain]
 | 63 | [Festa da Vida](https://open.spotify.com/track/7wLYU9xbF3rGxN8ZYTy0NS) | [Carlos Mendes](https://open.spotify.com/artist/0rPo81L45W612Ke5Ezsqc4) | [A Festa da Vida](https://open.spotify.com/album/0ZlWPHxyCHxo70SQBSYZGm) | 2:40 |
 | 64 | [Marianne](https://open.spotify.com/track/6qjTf8vArMndh5BalX4qGv) | [Sergio Endrigo](https://open.spotify.com/artist/4ERMFbVCuwsv0eiUrG7LF3) | [Collection: Sergio Endrigo](https://open.spotify.com/album/3I41nPHRdOpInP57Noytru) | 3:10 |
 | 65 | [Telegram](https://open.spotify.com/track/72YL3BihTfLT3gfihtonfB) | [Silver Convention](https://open.spotify.com/artist/5QHvbEwccF3WANUD5lEIuA) | [Golden Girls](https://open.spotify.com/album/0bUaCbCLyGV2aneWfDSDcV) | 3:03 |
-| 66 | [Tsarly Tsaplin](https://open.spotify.com/track/2BcjzwGE9Nwoqe6rqplYxD) | [Tania Tsanaklidou](https://open.spotify.com/artist/2M0MfjN3wqrrvKHXohxTfw) | [Tsarli Tsaplin](https://open.spotify.com/album/6PQTUHJ7dqG3mz1Qzi0DXM) | 2:51 |
-| 67 | [Et Bonjour A Toi l'Artiste](https://open.spotify.com/track/5eGnVU7C3mRbXMergmSz9Q) | [Nicole Rieu](https://open.spotify.com/artist/77eP94nF4XoaYvzx5W8CVC) | [Nicole Rieu](https://open.spotify.com/album/6pgSHh4Sb9J1ttOTDrgtwl) | 3:42 |
+| 66 | [Et Bonjour A Toi l'Artiste](https://open.spotify.com/track/5eGnVU7C3mRbXMergmSz9Q) | [Nicole Rieu](https://open.spotify.com/artist/77eP94nF4XoaYvzx5W8CVC) | [Nicole Rieu](https://open.spotify.com/album/6pgSHh4Sb9J1ttOTDrgtwl) | 3:42 |
+| 67 | [Tsarly Tsaplin](https://open.spotify.com/track/2BcjzwGE9Nwoqe6rqplYxD) | [Tania Tsanaklidou](https://open.spotify.com/artist/2M0MfjN3wqrrvKHXohxTfw) | [Tsarli Tsaplin](https://open.spotify.com/album/6PQTUHJ7dqG3mz1Qzi0DXM) | 2:51 |
 | 68 | [Feuer \- Remastered 1996](https://open.spotify.com/track/1bBZVweXaAyLI8FkuhoOyb) | [Ireen Sheer](https://open.spotify.com/artist/6DtzOuUkjukrHLwgG4EnDw) | [Mega 50 \- Die 70er Jahre](https://open.spotify.com/album/4Jy5Oy9tA5kSnjsz0YyAls) | 3:03 |
 | 69 | [Enseñame a Cantar](https://open.spotify.com/track/0U44GbCt9x8s7KW5VEVSV6) | [Micky](https://open.spotify.com/artist/0etbSXXNUU5ryv8SxnYQht) | [40 Años de No\. 1 en Español : Los 50's, 60's, 70's y 80's](https://open.spotify.com/album/4cuKRJ2hkJy13J7ml7NHu8) | 3:27 |
 | 70 | [Primaballerina \- tysk Version](https://open.spotify.com/track/5I0IiNSEy5ww523Wvmgrmc) | [Siw Malmkvist](https://open.spotify.com/artist/2VWX6ZalDVTp1KMGN6JDSl) | [Primaballerina](https://open.spotify.com/album/4XJS3oPFX2Dh5GvDHI7lHy) | 2:42 |

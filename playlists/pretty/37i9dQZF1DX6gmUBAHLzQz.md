@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6gmUBAHLzQz.md) - [plain]
 
 > Music from "Aikatsu!", a story of young girls dreaming of becoming a top idol\. \(C\)BNP/BANDAI, DENTSU, TV TOKYO
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,337 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,340 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6gmUBAHLzQz.md) - [plain]
 | 44 | [いばらの女王](https://open.spotify.com/track/4Y2uO5rzu5UENvKvFNClQS) | [もな from AIKATSU☆STARS!](https://open.spotify.com/artist/4VPREigW2d9IB5D8xZEZw9) | [TVアニメ/データカードダス『アイカツ!』主題歌/挿入歌 4年目](https://open.spotify.com/album/33FEqBU7HvfqrWtpaOiHRT) | 4:05 |
 | 45 | [CHU\-CHU▽RAINBOW](https://open.spotify.com/track/16dCrdTYHPw9OJVygNVOPb) | [れみ・えり from STAR☆ANIS](https://open.spotify.com/artist/5p9SaXBcPuvfi4kcTezY4E) | [TVアニメ/データカードダス『アイカツ!』主題歌/挿入歌 2年目2](https://open.spotify.com/album/2HJdoqtoKMRUBkhFwHwXqX) | 4:29 |
 | 46 | [薄紅デイトリッパー](https://open.spotify.com/track/6YiUwixptag2rVsU4DvTJz) | [れみ from STAR☆ANIS & みほ from AIKATSU☆STARS!](https://open.spotify.com/artist/7Jea0SMwP0knjKChiGjlKI) | [TVアニメ/データカードダス『アイカツ!』主題歌/挿入歌 3年目1](https://open.spotify.com/album/3dbKvUmC2KAWgTWkVPDQ7Y) | 3:53 |
-| 47 | [Moonlight destiny](https://open.spotify.com/track/7k23PwzprCuA2cAgPTMgmW) | [りすこfrom STAR☆ANIS](https://open.spotify.com/artist/7DK1Wv6HgOGHNqrj6WnOHq) | [TVアニメ/データカードダス『アイカツ!』主題歌/挿入歌 1年目2](https://open.spotify.com/album/1i7eKjaA0dNEBcKz3nisHZ) | 6:28 |
-| 48 | [マジカルタイム](https://open.spotify.com/track/6AgD6BHbc72OzKeAH5Di5G) | [ゆな・れみ form STAR☆ANIS](https://open.spotify.com/artist/6mcWaIxSZFTjen7bOMkX69) | [TVアニメ/データカードダス『アイカツ!』主題歌/挿入歌 2年目1](https://open.spotify.com/album/2cVQpyIVCOscg2MCdgWpRT) | 4:41 |
+| 47 | [マジカルタイム](https://open.spotify.com/track/6AgD6BHbc72OzKeAH5Di5G) | [ゆな・れみ form STAR☆ANIS](https://open.spotify.com/artist/6mcWaIxSZFTjen7bOMkX69) | [TVアニメ/データカードダス『アイカツ!』主題歌/挿入歌 2年目1](https://open.spotify.com/album/2cVQpyIVCOscg2MCdgWpRT) | 4:41 |
+| 48 | [Moonlight destiny](https://open.spotify.com/track/7k23PwzprCuA2cAgPTMgmW) | [りすこfrom STAR☆ANIS](https://open.spotify.com/artist/7DK1Wv6HgOGHNqrj6WnOHq) | [TVアニメ/データカードダス『アイカツ!』主題歌/挿入歌 1年目2](https://open.spotify.com/album/1i7eKjaA0dNEBcKz3nisHZ) | 6:28 |
 | 49 | [タルト・タタン](https://open.spotify.com/track/14rUJ3yA1zQsJwuH2DmMEH) | [もな from AIKATSU☆STARS!](https://open.spotify.com/artist/4VPREigW2d9IB5D8xZEZw9) | [TVアニメ/データカードダス『アイカツ!』主題歌/挿入歌 3年目1](https://open.spotify.com/album/3dbKvUmC2KAWgTWkVPDQ7Y) | 4:03 |
 | 50 | [LOVE GAME](https://open.spotify.com/track/5xuhxP7ZLgO92LlyKgKPE9) | [もな・ななせ from AIKATSU☆STARS!](https://open.spotify.com/artist/1aLy1uvFmETw6GLgTpiqxU) | [TVアニメ/データカードダス『アイカツ!』主題歌/挿入歌 4年目](https://open.spotify.com/album/33FEqBU7HvfqrWtpaOiHRT) | 4:19 |
 

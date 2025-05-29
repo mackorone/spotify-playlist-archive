@@ -1,12 +1,12 @@
 {
   "description": "This is Whitney Houston. The essential tracks, all in one playlist.",
-  "num_followers": 625414,
+  "num_followers": 625466,
   "original_name": "This Is Whitney Houston",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDOvAAAAAACYxVVK1v3qGwAOTmp5riSZ",
+  "snapshot_id": "aDUAgAAAAAAOIDMKWhTfkZr1zT5ktxpE",
   "tracks": [
     {
       "added_at": null,
@@ -687,18 +687,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whitney",
-        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/44mthU2qR57JhTbDeoBcby"
       },
       "artists": [
         {
           "name": "Whitney Houston",
           "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        },
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 256200,
-      "name": "You're Still My Man",
-      "url": "https://open.spotify.com/track/2csRQWI7A2FjLYBQBiAIoi"
+      "duration_ms": 245533,
+      "name": "If I Told You That (feat. George Michael) - Radio Edit",
+      "url": "https://open.spotify.com/track/3u3TlUNiySeTeUKMvkA1L7"
     },
     {
       "added_at": null,
@@ -723,22 +727,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/44mthU2qR57JhTbDeoBcby"
+        "name": "Whitney",
+        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
       },
       "artists": [
         {
           "name": "Whitney Houston",
           "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        },
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 245533,
-      "name": "If I Told You That (feat. George Michael) - Radio Edit",
-      "url": "https://open.spotify.com/track/3u3TlUNiySeTeUKMvkA1L7"
+      "duration_ms": 256200,
+      "name": "You're Still My Man",
+      "url": "https://open.spotify.com/track/2csRQWI7A2FjLYBQBiAIoi"
     },
     {
       "added_at": null,

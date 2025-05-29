@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 
 > Strictly Nigerian worship songs\. Cover: <a href=https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI?si=HmXKFx0fTomufwMWvb1fZg>Lawrence Oyor</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,376 likes - 100 songs - 12 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,528 likes - 100 songs - 12 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 | 99 | [King Of Glory \- Live](https://open.spotify.com/track/4itomPSq33Qajs152476n0) | [Ugee Royalty](https://open.spotify.com/artist/1upKp4bI2MbgvvfVXTxakF) | [King Of Glory \(Live\)](https://open.spotify.com/album/3D1wfBDMZFJP7L0HVccuQ7) | 4:37 |
 | 100 | [Able God](https://open.spotify.com/track/4CkDjy3zvHHDNm51joKmst) | [Toyin Ogunniyi](https://open.spotify.com/artist/485KdhvKOxbZt0CDo0fdAx) | [Able God](https://open.spotify.com/album/6pwOhF1h9S0TKheP28rNLa) | 3:33 |
 
-Snapshot ID: `aC+63wAAAAAoIL+HR+Qto3jYrwLR/shB`
+Snapshot ID: `aC+63wAAAAA/kJIuIIk7OjZ6hk8dweJR`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Zé Neto & Cristiano, Murillo e LT no Beat, Felipe Araújo e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,092,153 likes - 97 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,092,527 likes - 97 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 17 | [Quem Diria Em Ladrão](https://open.spotify.com/track/3hufQFaGR11MtWUCgIDkei) | [MC Lan](https://open.spotify.com/artist/4mb1xtQVGSK5dh8AbtwBiR), [MC Fioti](https://open.spotify.com/artist/2W6kbe0nm96COrHzNmfLLd), [ZP 23](https://open.spotify.com/artist/6yf6jnTWD3Mn3KCa1V7GUO) | [Quem Diria Em Ladrão](https://open.spotify.com/album/5Hw47yLAOeeBRMSNys7GZk) | 3:22 |
 | 18 | [As do Trepa Trepa](https://open.spotify.com/track/6W3cyJf1kE1AuQOtQB5fAd) | [WC no Beat](https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS), [Mc Laranjinha](https://open.spotify.com/artist/1JJq541frMPfUIQiUoVrnp) | [As do Trepa Trepa](https://open.spotify.com/album/79Dp4bmwAGfuLuQ0QFepGA) | 2:41 |
 | 19 | [QUEIMANDO ICE](https://open.spotify.com/track/2RfHXxlkGUXSs1m9UJQZXz) | [Irmãs de Pau](https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Gambiarra Chic, Pt\. 2](https://open.spotify.com/album/1cDks8kvbTPzmr8McMduVi) | 3:54 |
-| 20 | [Neymar Mudou](https://open.spotify.com/track/6NgcQrj5PrQhE0ayrLyliD) | [DG e Batidão Stronda](https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [MC Mari](https://open.spotify.com/artist/2AdUWxNm17kkGZiPGuorth), [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu), [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Neymar Mudou](https://open.spotify.com/album/4Wu6b5zgLWWdMC078UF4jO) | 3:18 |
+| 20 | [Neymar Mudou](https://open.spotify.com/track/6NgcQrj5PrQhE0ayrLyliD) | [MC Mari](https://open.spotify.com/artist/2AdUWxNm17kkGZiPGuorth), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [DG e Batidão Stronda](https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ), [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu), [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Neymar Mudou](https://open.spotify.com/album/4Wu6b5zgLWWdMC078UF4jO) | 3:18 |
 | 21 | [Prateleira](https://open.spotify.com/track/1vt5qAME5w8auSdTQZQPEd) | [Thaeme & Thiago](https://open.spotify.com/artist/7ABjmCErFBTzoGMVoQc2Sh), [Marília Tavares](https://open.spotify.com/artist/5B1BR71Q9cBvvoNocPSHiL) | [Prateleira](https://open.spotify.com/album/2621CuT6IsLOzAVaRl0Nk3) | 3:31 |
 | 22 | [Muié Exagerada \- Ao Vivo](https://open.spotify.com/track/6te64YcBa3lFacjNg4QdXK) | [João Gustavo e Murilo](https://open.spotify.com/artist/6xerOqBLmelL3xZNZkVbGl), [Gino & Geno](https://open.spotify.com/artist/2rGEXX2PXml6YnjkgOlWwT) | [Muié Exagerada \(Ao Vivo\)](https://open.spotify.com/album/3u4mAWjhb8NCxLOCpEGyxe) | 2:03 |
 | 23 | [Cê Me Amou Um Dia](https://open.spotify.com/track/2OCNtwReQifVYoNp4rQhwI) | [Thales Lessa](https://open.spotify.com/artist/3kz1MToxXOeJU18hzSRbRm) | [Cê Me Amou Um Dia](https://open.spotify.com/album/3g8gKM3tMJlYtwXQmxRy71) | 2:36 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 96 | [37 Graus](https://open.spotify.com/track/4EFALHEXG0qvKrQwW57C9y) | [JUMA](https://open.spotify.com/artist/4sKCqyOM5vHLnTfoj61p6a) | [37 Graus](https://open.spotify.com/album/3loLoO0edgs7NjZjr3ZfBM) | 3:32 |
 | 97 | [Coração Refém](https://open.spotify.com/track/4wCuZXsnGyG0c6cG5u1B0B) | [Paradise Guerrilla](https://open.spotify.com/artist/6Ln3eKTHXP2hFsHsjMv6fo) | [Todo Tempo Que Virá Depois Desse Momento, Vol\. 1](https://open.spotify.com/album/3cgf5P3hl31u0KIG1gz7mj) | 3:24 |
 
-Snapshot ID: `aDCnvgAAAADI4XN7i/fRFgLElAX4vO13`
+Snapshot ID: `AAAAAO2VPRlg9RfyJ17YUW3in+7q3JnQ`

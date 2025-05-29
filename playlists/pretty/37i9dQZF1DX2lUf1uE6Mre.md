@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lUf1uE6Mre.md) - [plain]
 
 > Die Playlist zur Wasserpfeife\. Cover: SHABAB
 
-[Spotify](https://open.spotify.com/user/spotify) - 915,098 likes - 80 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 915,137 likes - 80 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lUf1uE6Mre.md) - [plain]
 | 79 | [On/Off](https://open.spotify.com/track/5X63FvEXgMGIt7LF6U7v2W) | [Milano](https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm), [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [On/Off](https://open.spotify.com/album/6fV2gDEnZrkEDz5ENTaL8x) | 2:27 |
 | 80 | [NuR Du :/](https://open.spotify.com/track/3DYJ9tHSIhZqCVT8l5QAd0) | [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6), [SHABAB](https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO) | [NuR Du :/](https://open.spotify.com/album/2ri0pX0fz7FEQSW9xyKURZ) | 3:26 |
 
-Snapshot ID: `aDWg1gAAAABUNoxUxXxgFUf5TY4mh//N`
+Snapshot ID: `aDWg1gAAAAB04oZccMzBePycav2wnp2x`

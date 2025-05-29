@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125295,
+  "num_followers": 125292,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUIb7fTgomBSivY1Ced/03d07cpT2B",
+  "snapshot_id": "AAAUInxS0HqZTY5QtjdIz/Ux94j0oZLK",
   "tracks": [
+    {
+      "added_at": "2025-05-28 16:00:30",
+      "album": {
+        "name": "AHORA",
+        "url": "https://open.spotify.com/album/4JcvArkgyQyq8C7gAETGgu"
+      },
+      "artists": [
+        {
+          "name": "Jon Casey",
+          "url": "https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr"
+        },
+        {
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        }
+      ],
+      "duration_ms": 145655,
+      "name": "AHORA",
+      "url": "https://open.spotify.com/track/1Re81w8xdZjUNuRu1AUSoL"
+    },
     {
       "added_at": "2025-05-27 15:04:09",
       "album": {

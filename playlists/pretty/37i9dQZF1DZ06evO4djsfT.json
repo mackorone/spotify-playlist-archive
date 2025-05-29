@@ -1,12 +1,12 @@
 {
   "description": "This is KB. The essential tracks, all in one playlist.",
-  "num_followers": 26892,
+  "num_followers": 26890,
   "original_name": "This Is KB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDOvAAAAAACX6oPVogWRUsQfSC16rjm5",
+  "snapshot_id": "aDUAgAAAAACwGxNgbaMWuXYr6+cnQEVt",
   "tracks": [
     {
       "added_at": null,
@@ -231,6 +231,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hold Me Back",
+        "url": "https://open.spotify.com/album/2jGC7NrvufO6RAbDn60NTU"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 223107,
+      "name": "Hold Me Back",
+      "url": "https://open.spotify.com/track/5C5FqRfbXF9oY4HSRYyqn3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "RUN WILD. LIVE FREE. LOVE STRONG. (Deluxe Anniversary Edition)",
         "url": "https://open.spotify.com/album/3JgsuH1i4ddVP4Ke5zf87I"
       },
@@ -251,18 +267,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hold Me Back",
-        "url": "https://open.spotify.com/album/2jGC7NrvufO6RAbDn60NTU"
+        "name": "American Prodigal (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5UnaAIuMRqSBeBWY3XM0FQ"
       },
       "artists": [
+        {
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        },
         {
           "name": "KB",
           "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
         }
       ],
-      "duration_ms": 223107,
-      "name": "Hold Me Back",
-      "url": "https://open.spotify.com/track/5C5FqRfbXF9oY4HSRYyqn3"
+      "duration_ms": 156480,
+      "name": "Prove It",
+      "url": "https://open.spotify.com/track/1tGKjMflcFTEY2IOzKhwLe"
     },
     {
       "added_at": null,
@@ -283,26 +303,6 @@
       "duration_ms": 259328,
       "name": "Let It Reign (feat. Bizzle)",
       "url": "https://open.spotify.com/track/51ibczFjbaSrxynt6yKKah"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "American Prodigal (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5UnaAIuMRqSBeBWY3XM0FQ"
-      },
-      "artists": [
-        {
-          "name": "Crowder",
-          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 156480,
-      "name": "Prove It",
-      "url": "https://open.spotify.com/track/1tGKjMflcFTEY2IOzKhwLe"
     },
     {
       "added_at": null,
@@ -643,18 +643,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Worship in the Moshpit",
-        "url": "https://open.spotify.com/album/3ccBgpEeVPly4YAOLBDuPX"
+        "name": "It's Time",
+        "url": "https://open.spotify.com/album/6KhGzjhjn0AX7juE7LOsRJ"
       },
       "artists": [
+        {
+          "name": "Childlike CiCi",
+          "url": "https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1"
+        },
         {
           "name": "KB",
           "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
         }
       ],
-      "duration_ms": 190480,
-      "name": "Worship in the Moshpit",
-      "url": "https://open.spotify.com/track/6MHQObYccj0fpYH3NnxewV"
+      "duration_ms": 153469,
+      "name": "It's Time",
+      "url": "https://open.spotify.com/track/1buXNTGRvMLk1MMC1Apgjd"
     },
     {
       "added_at": null,
@@ -683,6 +687,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Worship in the Moshpit",
+        "url": "https://open.spotify.com/album/3ccBgpEeVPly4YAOLBDuPX"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 190480,
+      "name": "Worship in the Moshpit",
+      "url": "https://open.spotify.com/track/6MHQObYccj0fpYH3NnxewV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Epilogue.",
         "url": "https://open.spotify.com/album/6q7eHLeBX6B7teKXCtX3Mg"
       },
@@ -699,26 +719,6 @@
       "duration_ms": 173179,
       "name": "Built For This",
       "url": "https://open.spotify.com/track/5ihWb5kpd7brDr32wNebn6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "It's Time",
-        "url": "https://open.spotify.com/album/6KhGzjhjn0AX7juE7LOsRJ"
-      },
-      "artists": [
-        {
-          "name": "Childlike CiCi",
-          "url": "https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 153469,
-      "name": "It's Time",
-      "url": "https://open.spotify.com/track/1buXNTGRvMLk1MMC1Apgjd"
     },
     {
       "added_at": null,
@@ -999,22 +999,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Messenger 4: Independents Day",
-        "url": "https://open.spotify.com/album/0mi8gsJuVUlshWtP5yaq3U"
+        "name": "So Tired (feat. Bizzle & Zhalarina)",
+        "url": "https://open.spotify.com/album/4pLXkCFVxFL1yNy85N3vSb"
       },
       "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
         {
           "name": "Bizzle",
           "url": "https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr"
         },
         {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+          "name": "Zhalarina",
+          "url": "https://open.spotify.com/artist/4YGH9xeBuphWZaiiWmG8sC"
         }
       ],
-      "duration_ms": 259615,
-      "name": "Smoke Free",
-      "url": "https://open.spotify.com/track/4N0kn2312eWP0ufX6O6lkZ"
+      "duration_ms": 208717,
+      "name": "So Tired (feat. Bizzle & Zhalarina)",
+      "url": "https://open.spotify.com/track/2TYtWTZO97F1Uyuwov8wSk"
     }
   ],
   "unique_name": "This Is KB",

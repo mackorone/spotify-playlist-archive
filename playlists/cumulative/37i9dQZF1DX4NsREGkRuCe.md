@@ -4,7 +4,7 @@
 
 > Turn traffic stops into jam sessions.
 
-947 songs - 1 day 22 hr 37 min
+948 songs - 1 day 22 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -409,6 +409,7 @@
 | [I Believe](https://open.spotify.com/track/2qSw2Sykal2ECGgAPxEz9t) | [Tolani](https://open.spotify.com/artist/6ILYtYSwIa2Aygcqr8PTds), [Qdot](https://open.spotify.com/artist/6PQqfJGRZzewMi6rBjK4Ev) | [I Believe](https://open.spotify.com/album/0W3ybbuYT1ylY1cShliEJp) | 2:45 | 2024-03-01 | 2024-03-22 |
 | [I Do](https://open.spotify.com/track/589PbDb2eFRKoBJrQR5PU5) | [Goya Menor](https://open.spotify.com/artist/4TWOviIGJMWH79dyovGkaX), [Magnito](https://open.spotify.com/artist/1u3Hw4LXhW2EeCR3Wanqan) | [I Do](https://open.spotify.com/album/5KmcBDiB8nLz4vixCKdAeG) | 3:09 | 2024-04-12 | 2024-04-19 |
 | [I Don't Care](https://open.spotify.com/track/5vNL6mCfgM4SzLB7xy4KXa) | [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT), [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [I Don't Care](https://open.spotify.com/album/5CQmHT9zoHQnwvfvP6tEYg) | 2:46 | 2024-03-22 | 2024-06-25 |
+| [I Go](https://open.spotify.com/track/6nyrnM6E1rRaZM8YiDPbEu) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Shine TTW](https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn) | [I Go](https://open.spotify.com/album/6A9mUbNPbtPRi4S42vHLvr) | 2:41 | 2025-05-23 |  |
 | [I Like Girls](https://open.spotify.com/track/4AJoojPC3el2UWboIKnDDk) | [Chinko Ekun](https://open.spotify.com/artist/5jfQBS0O6dR6axaz0BGMgs) | [I Like Girls](https://open.spotify.com/album/2UzLjMX7iff7P6KcbL9Ez3) | 2:37 | 2023-03-18 | 2023-03-31 |
 | [I No Fit Die](https://open.spotify.com/track/1pyPBjAUwnmCu3cROJ6ROL) | [Dunnie](https://open.spotify.com/artist/5q1uxBdFXCDZDdNOw2rzD2) | [I No Fit Die](https://open.spotify.com/album/1weqTKVEn5JeREhe6vFlv4) | 2:17 | 2024-10-04 | 2024-10-19 |
 | [I Pray](https://open.spotify.com/track/1Xlna9IA6XldZqXOjSpAcv) | [KCee](https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [I Pray](https://open.spotify.com/album/2gfJWeRGqTnAxIft7WB8Ow) | 2:45 | 2023-11-08 | 2023-12-02 |
@@ -795,7 +796,7 @@
 | [Smooth Criminal](https://open.spotify.com/track/4hVnFwqGpRQJexdLoNwCFn) | [Yimeeka](https://open.spotify.com/artist/0yGRgPiwbWQcQsMf7H7DmK), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Smooth Criminal](https://open.spotify.com/album/6xe7n9n6eqrZprj2d8QGNE) | 2:31 | 2022-10-13 | 2022-10-31 |
 | [Soja](https://open.spotify.com/track/5F7imvl6nIRWoMCejdR4Sk) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Soja](https://open.spotify.com/album/0WrpYqyMi0ZU8EY9AzCdht) | 3:01 | 2022-09-23 | 2022-10-14 |
 | [SOKOTO](https://open.spotify.com/track/5wedEJLTgmlmworhXQaaO8) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [SOKOTO](https://open.spotify.com/album/6cZhzvKBRup7VnIfV0roR1) | 2:55 | 2023-06-22 | 2023-07-14 |
-| [Somebody Like You](https://open.spotify.com/track/0dEnWro42n8g51OVojqFSX) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Somebody Like You](https://open.spotify.com/album/4SOJzMweqeghqe8UzKl4Om) | 2:53 | 2025-02-21 |  |
+| [Somebody Like You](https://open.spotify.com/track/0dEnWro42n8g51OVojqFSX) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Somebody Like You](https://open.spotify.com/album/4SOJzMweqeghqe8UzKl4Om) | 2:53 | 2025-02-21 | 2025-05-29 |
 | [Somebody’s Son \(Ft Brandy\)](https://open.spotify.com/track/3Z9B9GQ2fFx4IRCG8bbWys) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Water & Garri](https://open.spotify.com/album/4kaFvICfRtvFJawQ6p7VSW) | 3:38 | 2022-06-08 | 2022-08-11 |
 | [Someone](https://open.spotify.com/track/7mJuTUAyp8EWh15UEoP8a8) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Someone](https://open.spotify.com/album/7z8nmUqOyoQSdUgnB0TPZN) | 2:37 | 2023-05-04 | 2023-07-06 |
 | [SOMETHING](https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [SOMETHING](https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D) | 3:08 | 2022-06-09 | 2023-05-08 |

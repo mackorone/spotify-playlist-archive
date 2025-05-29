@@ -1,12 +1,12 @@
 {
   "description": "This is Coi Leray. The essential tracks, all in one playlist.",
-  "num_followers": 18359,
+  "num_followers": 18361,
   "original_name": "This Is Coi Leray",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDOvAAAAAADZqoU/cDirdpGzYOZEZUAF",
+  "snapshot_id": "aDUAgAAAAAA3XVGz1aZi4f7rBlzgrxXS",
   "tracks": [
     {
       "added_at": null,
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "What Happened To Forever?",
-        "url": "https://open.spotify.com/album/0Nnd22G5iTtLUpd0TKYX52"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 76424,
-      "name": "Lick Back",
-      "url": "https://open.spotify.com/track/4uP2usJkQXCTMqW7r2thMs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nonsense (Remix)",
         "url": "https://open.spotify.com/album/1jTN0ud3pW7ATr45S1CdpL"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 175648,
       "name": "Nonsense (with Coi Leray) - Remix",
       "url": "https://open.spotify.com/track/0DD4vkP9qDiej99eUCG4jC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What Happened To Forever?",
+        "url": "https://open.spotify.com/album/0Nnd22G5iTtLUpd0TKYX52"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 76424,
+      "name": "Lick Back",
+      "url": "https://open.spotify.com/track/4uP2usJkQXCTMqW7r2thMs"
     },
     {
       "added_at": null,
@@ -987,18 +987,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Keep It",
-        "url": "https://open.spotify.com/album/7HV9vePbQOjxInYeHILjbG"
+        "name": "Trendsetter",
+        "url": "https://open.spotify.com/album/5diRNQUhdOVkGo8TbWnMIx"
       },
       "artists": [
         {
           "name": "Coi Leray",
           "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
         }
       ],
-      "duration_ms": 173117,
-      "name": "Keep It",
-      "url": "https://open.spotify.com/track/2QJ8y7KKrbTlHoLCI69TsQ"
+      "duration_ms": 190560,
+      "name": "Overthinking (with H.E.R.)",
+      "url": "https://open.spotify.com/track/5IaKG7RVFKddipzaOeide9"
     }
   ],
   "unique_name": "This Is Coi Leray",

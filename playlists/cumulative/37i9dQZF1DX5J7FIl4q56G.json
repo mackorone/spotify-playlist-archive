@@ -132507,6 +132507,28 @@
     },
     {
       "album": {
+        "name": "Song 3",
+        "url": "https://open.spotify.com/album/0Cxa2LwLEBIpVglPWwiias"
+      },
+      "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        },
+        {
+          "name": "Slaughter to Prevail",
+          "url": "https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214193,
+      "name": "Song 3",
+      "url": "https://open.spotify.com/track/7eDUTBIo76AMC5UYqkkzDL"
+    },
+    {
+      "album": {
         "name": "Song For The Weak.",
         "url": "https://open.spotify.com/album/3ubFGbdCfGAmMBHgwdFua6"
       },

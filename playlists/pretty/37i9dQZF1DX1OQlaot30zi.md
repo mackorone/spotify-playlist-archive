@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Marte, Rkomi, Simba, Fibra e Tredici Pietro, Carla Hero e tanti altri 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,246 likes - 138 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,244 likes - 138 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 57 | [Oscilla fuc u mean](https://open.spotify.com/track/6W6qjW8VH3TTOVn4Uq4VYX) | [Mulayaka](https://open.spotify.com/artist/5B6aC6VZwV9IIu2v8YlVnK) | [Oscilla fuc u mean](https://open.spotify.com/album/62Gd4BMbKs5odP7qDjOolq) | 1:50 |
 | 58 | [ANOMALIA](https://open.spotify.com/track/6odNK14jiM2r44MyckZ9uA) | [DALILA](https://open.spotify.com/artist/4ss92hmqhQPhJI4FvKNoSs) | [ANOMALIA](https://open.spotify.com/album/1nU1GdA7UBPqqvUoLGkysO) | 2:32 |
 | 59 | [Shanks](https://open.spotify.com/track/39xTRGsdNVoSUuqESbYKqh) | [CrocoJonny](https://open.spotify.com/artist/7p8ahUHgDDCdDv552Kq2nH) | [Shanks](https://open.spotify.com/album/3wDAkysFP1YMAomVNtlURk) | 1:55 |
-| 60 | [ABITUATI](https://open.spotify.com/track/4URq8VfeS2B9nY79vU2rqS) | [ESTREMO EAST](https://open.spotify.com/artist/5pLvZE9AWuFuMVFntiOvBq), [Kooma](https://open.spotify.com/artist/10EarkYHtpo6YCGvlrL0i0), [Amon](https://open.spotify.com/artist/1jiVHVMFuHekLOGrAISQeb), [Totem](https://open.spotify.com/artist/4S3jg23v1gg17rTKI952fK), [El Moro](https://open.spotify.com/artist/4fxCc0SX5a54YE1zoaaDX6), [LLEDRI™](https://open.spotify.com/artist/1GZcNesL6zyEwpfdDJJf6O) | [FIGLI DELL'ESTREMO](https://open.spotify.com/album/6aUCmdnQGJ8CDwX3iKtamy) | 2:32 |
+| 60 | [Abituati](https://open.spotify.com/track/4URq8VfeS2B9nY79vU2rqS) | [ESTREMO EAST](https://open.spotify.com/artist/5pLvZE9AWuFuMVFntiOvBq), [Kooma](https://open.spotify.com/artist/10EarkYHtpo6YCGvlrL0i0), [Amon](https://open.spotify.com/artist/1jiVHVMFuHekLOGrAISQeb), [Totem](https://open.spotify.com/artist/4S3jg23v1gg17rTKI952fK), [El Moro](https://open.spotify.com/artist/4fxCc0SX5a54YE1zoaaDX6), [LLEDRI™](https://open.spotify.com/artist/1GZcNesL6zyEwpfdDJJf6O) | [FIGLI DELL'ESTREMO](https://open.spotify.com/album/6aUCmdnQGJ8CDwX3iKtamy) | 2:32 |
 | 61 | [Fa Male](https://open.spotify.com/track/7tFs9ntshWf19Hs934UIwe) | [Lewa Jr](https://open.spotify.com/artist/2uBSvdDSgAKx06rwQkhadm), [N'Dreamer](https://open.spotify.com/artist/5r2RIg0giawu4KBxNK0KL8) | [Fa Male](https://open.spotify.com/album/4vN91huReboigVzWExTW1q) | 2:09 |
 | 62 | [0.25X](https://open.spotify.com/track/0zfQF2wXm6lfHg9vje0Mkw) | [Rosa Chemical](https://open.spotify.com/artist/5gYADZXuZoaJwrwfAPbKuH) | [OKAY OKAY 2](https://open.spotify.com/album/31DqbARkPE7psMQeosE1mY) | 1:47 |
 | 63 | [FASTCAR](https://open.spotify.com/track/1aDIExdoWvXicMpHENbkqQ) | [BIG P](https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768), [Ryon](https://open.spotify.com/artist/6lnFa7RsEvCRidfobkNRGf) | [DRIVE BY](https://open.spotify.com/album/07lDZybkJfXL68WrZjEkQJ) | 2:20 |

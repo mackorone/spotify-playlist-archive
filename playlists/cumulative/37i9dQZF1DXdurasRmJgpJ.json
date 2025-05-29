@@ -4137,6 +4137,24 @@
     },
     {
       "album": {
+        "name": "Whole of Flower",
+        "url": "https://open.spotify.com/album/3K67zHSgeaMoQV7dtog8rS"
+      },
+      "artists": [
+        {
+          "name": "Suchmos",
+          "url": "https://open.spotify.com/artist/0O0hxUrO2PKxZknken3R24"
+        }
+      ],
+      "date_added": "2025-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249013,
+      "name": "Whole of Flower",
+      "url": "https://open.spotify.com/track/3ovwLoowye9dVmbfhz1nEV"
+    },
+    {
+      "album": {
         "name": "Why / Life",
         "url": "https://open.spotify.com/album/59uiaEUK0EFBw2NeepYpLz"
       },
@@ -4426,7 +4444,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-29",
       "duration_ms": 392426,
       "name": "\u305d\u3063\u3051\u306a\u3044",
       "url": "https://open.spotify.com/track/2ntXQnx4ZUraj1u5Hwqjem"
@@ -5071,6 +5089,24 @@
     },
     {
       "album": {
+        "name": "\u30c7\u30a4\u30b8\u30fc",
+        "url": "https://open.spotify.com/album/4BkPgahyVN3J3Xo8fPVzP1"
+      },
+      "artists": [
+        {
+          "name": "Lavt",
+          "url": "https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn"
+        }
+      ],
+      "date_added": "2025-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168533,
+      "name": "\u30c7\u30a4\u30b8\u30fc",
+      "url": "https://open.spotify.com/track/6OalExVqGSXSXxT7lmzTLY"
+    },
+    {
+      "album": {
         "name": "\u30ca\u30cf\u30c8\u30e0\u30b8\u30fc\u30af",
         "url": "https://open.spotify.com/album/3ciQ76hHbqu2syaDi0QPti"
       },
@@ -5180,7 +5216,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-29",
       "duration_ms": 244869,
       "name": "\u30d6\u30eb\u30fc\u30d9\u30ea\u30fc\u30fb\u30ca\u30a4\u30c4",
       "url": "https://open.spotify.com/track/2UdvMWk0Z83lMJPbawy2Sm"

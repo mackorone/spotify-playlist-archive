@@ -1,12 +1,12 @@
 {
   "description": "This is Pedro Cap\u00f3. The essential tracks, all in one playlist.",
-  "num_followers": 68593,
+  "num_followers": 68599,
   "original_name": "This Is Pedro Cap\u00f3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDOvAAAAAADCzRc13lG5POBTG2rEP48B",
+  "snapshot_id": "aDUAgAAAAAALmne3PrGYgl5R8aXH6BcS",
   "tracks": [
     {
       "added_at": null,
@@ -259,26 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Fiesta",
-        "url": "https://open.spotify.com/album/3zn9otXWGsS4fKtmayZgC0"
-      },
-      "artists": [
-        {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 170099,
-      "name": "La Fiesta",
-      "url": "https://open.spotify.com/track/5bcR0cFXf0qhLR6de6xCmO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mal De Amores",
         "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
       },
@@ -295,6 +275,26 @@
       "duration_ms": 193112,
       "name": "Casualidad",
       "url": "https://open.spotify.com/track/2SZx8N3eiLGqXTWEeN6dZt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Fiesta",
+        "url": "https://open.spotify.com/album/3zn9otXWGsS4fKtmayZgC0"
+      },
+      "artists": [
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 170099,
+      "name": "La Fiesta",
+      "url": "https://open.spotify.com/track/5bcR0cFXf0qhLR6de6xCmO"
     },
     {
       "added_at": null,
@@ -731,22 +731,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00bfDe qu\u00e9 vamos a hablar?",
-        "url": "https://open.spotify.com/album/1dexhNnGvId5xMSu1hlTqh"
+        "name": "Adi\u00f3s",
+        "url": "https://open.spotify.com/album/2QszGFpzq25vKTPIdMySyu"
       },
       "artists": [
-        {
-          "name": "Camil\u00fa",
-          "url": "https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF"
-        },
         {
           "name": "Pedro Cap\u00f3",
           "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
         }
       ],
-      "duration_ms": 185690,
-      "name": "\u00bfDe qu\u00e9 vamos a hablar?",
-      "url": "https://open.spotify.com/track/3Ra7HSy3xOJo3gkdXFZ3NB"
+      "duration_ms": 198839,
+      "name": "Adi\u00f3s",
+      "url": "https://open.spotify.com/track/56egMSOttQh3ztykSqsk0u"
     },
     {
       "added_at": null,
@@ -767,18 +763,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adi\u00f3s",
-        "url": "https://open.spotify.com/album/2QszGFpzq25vKTPIdMySyu"
+        "name": "\u00bfDe qu\u00e9 vamos a hablar?",
+        "url": "https://open.spotify.com/album/1dexhNnGvId5xMSu1hlTqh"
       },
       "artists": [
+        {
+          "name": "Camil\u00fa",
+          "url": "https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF"
+        },
         {
           "name": "Pedro Cap\u00f3",
           "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
         }
       ],
-      "duration_ms": 198839,
-      "name": "Adi\u00f3s",
-      "url": "https://open.spotify.com/track/56egMSOttQh3ztykSqsk0u"
+      "duration_ms": 185690,
+      "name": "\u00bfDe qu\u00e9 vamos a hablar?",
+      "url": "https://open.spotify.com/track/3Ra7HSy3xOJo3gkdXFZ3NB"
     },
     {
       "added_at": null,
@@ -835,26 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gracias (Remix)",
-        "url": "https://open.spotify.com/album/7DIEwl5kON89D6kXzPSZwB"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 253586,
-      "name": "Gracias - Remix",
-      "url": "https://open.spotify.com/track/3EPkYtHqRXZAxE9K7xxC2W"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis No Lugares",
         "url": "https://open.spotify.com/album/5UTVOml5TfH7wUeCkqxM8k"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 178285,
       "name": "Jard\u00edn",
       "url": "https://open.spotify.com/track/6SpEFYmSZQJGuyL8tiyhnZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gracias (Remix)",
+        "url": "https://open.spotify.com/album/7DIEwl5kON89D6kXzPSZwB"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 253586,
+      "name": "Gracias - Remix",
+      "url": "https://open.spotify.com/track/3EPkYtHqRXZAxE9K7xxC2W"
     },
     {
       "added_at": null,
@@ -907,26 +907,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cumbiana II",
-        "url": "https://open.spotify.com/album/4fscMZmg0NKVmgDDDE6mA6"
-      },
-      "artists": [
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 193844,
-      "name": "Pagamento",
-      "url": "https://open.spotify.com/track/0FzATyAkvGkWdR6Rp0lN2x"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Si Alguien Me Ve",
         "url": "https://open.spotify.com/album/68AC8yFLwnmI6xDYV4rqtF"
       },
@@ -947,6 +927,26 @@
       "duration_ms": 176289,
       "name": "Si Alguien Me Ve",
       "url": "https://open.spotify.com/track/7CAJ3m7qP122kvN1bkyTPm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cumbiana II",
+        "url": "https://open.spotify.com/album/4fscMZmg0NKVmgDDDE6mA6"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 193844,
+      "name": "Pagamento",
+      "url": "https://open.spotify.com/track/0FzATyAkvGkWdR6Rp0lN2x"
     },
     {
       "added_at": null,

@@ -699,6 +699,24 @@
     },
     {
       "album": {
+        "name": "Cloudberry Hill",
+        "url": "https://open.spotify.com/album/2u2rFU0CLNVXJBzgin0203"
+      },
+      "artists": [
+        {
+          "name": "Oddn",
+          "url": "https://open.spotify.com/artist/3EJCkCtqUOD8WWdMB3BqCN"
+        }
+      ],
+      "date_added": "2025-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182532,
+      "name": "Cloudberry Hill",
+      "url": "https://open.spotify.com/track/67uf7fIOdyn7ZniHZxBnJB"
+    },
+    {
+      "album": {
         "name": "Coisa Linda",
         "url": "https://open.spotify.com/album/0nSH16JFQkqaePBZyXvcgV"
       },

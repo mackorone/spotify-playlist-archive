@@ -244,7 +244,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-29",
       "duration_ms": 178453,
       "name": "_WORLD",
       "url": "https://open.spotify.com/track/3QwiidVHfeE9y5jl4n2MTC"
@@ -10295,6 +10295,24 @@
     },
     {
       "album": {
+        "name": "Poet | Artist",
+        "url": "https://open.spotify.com/album/2ZrLQa73Q3wW2SXZPkSVED"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2025-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204026,
+      "name": "Poet | Artist",
+      "url": "https://open.spotify.com/track/2cCoa7dwECGNlmLVV1Fgjf"
+    },
+    {
+      "album": {
         "name": "DIMENSION : ANSWER",
         "url": "https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5"
       },
@@ -11076,7 +11094,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-29",
       "duration_ms": 213426,
       "name": "RUN2U",
       "url": "https://open.spotify.com/track/3gFcGnU4kTdMYLXDjH1TK8"
@@ -13185,6 +13203,24 @@
     },
     {
       "album": {
+        "name": "SEVENTEEN 5th Album 'HAPPY BURSTDAY'",
+        "url": "https://open.spotify.com/album/0xlyof8BowaJtYPsxWYmkN"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "date_added": "2025-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164040,
+      "name": "THUNDER",
+      "url": "https://open.spotify.com/track/0qkYuCno3SoU8vxkCdx0iJ"
+    },
+    {
+      "album": {
         "name": "NOEASY",
         "url": "https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj"
       },
@@ -13272,6 +13308,24 @@
       "duration_ms": 190050,
       "name": "Tie a Cherry",
       "url": "https://open.spotify.com/track/6tRzqvMtnfDZY80WRh4csu"
+    },
+    {
+      "album": {
+        "name": "TILT - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/706xdC5SJBOk85HoJSFJeq"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet - IRENE & SEULGI",
+          "url": "https://open.spotify.com/artist/6bwp9ObI8FWvMPCIWVBmhl"
+        }
+      ],
+      "date_added": "2025-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184013,
+      "name": "TILT",
+      "url": "https://open.spotify.com/track/1etiDVN61JMXErlRMia2oR"
     },
     {
       "album": {
@@ -13752,7 +13806,7 @@
       ],
       "date_added": "2025-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-29",
       "duration_ms": 227293,
       "name": "Universe",
       "url": "https://open.spotify.com/track/0WfGe9wV6Dz8ygraMCI7wU"

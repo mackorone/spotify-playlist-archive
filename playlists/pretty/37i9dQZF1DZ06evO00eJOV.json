@@ -1,12 +1,12 @@
 {
   "description": "This is Brenda Fassie. The essential tracks, all in one playlist.",
-  "num_followers": 36720,
+  "num_followers": 36726,
   "original_name": "This Is Brenda Fassie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDOvAAAAAAAL1At49b3HTb2PlQZRu9Bv",
+  "snapshot_id": "aDUAgAAAAAChOf0th1Akr9PI1FBJ1kYD",
   "tracks": [
     {
       "added_at": null,
@@ -91,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Myekeleni",
-        "url": "https://open.spotify.com/album/7chQEP3pHqRHTnm3egstPL"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 263093,
-      "name": "Mama I'm Sorry",
-      "url": "https://open.spotify.com/track/1Tuh0lfagSr2ggyZXyWofx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Legends",
         "url": "https://open.spotify.com/album/0RDdkzqoqSDVle30Cn4csO"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 239800,
       "name": "Wedding Day",
       "url": "https://open.spotify.com/track/26e8Qw2ABeMtVbYxIYIkMr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Myekeleni",
+        "url": "https://open.spotify.com/album/7chQEP3pHqRHTnm3egstPL"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 263093,
+      "name": "Mama I'm Sorry",
+      "url": "https://open.spotify.com/track/1Tuh0lfagSr2ggyZXyWofx"
     },
     {
       "added_at": null,
@@ -259,38 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mina Nawe",
-        "url": "https://open.spotify.com/album/2bghemSyO0h96j7YDSjpV0"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 229240,
-      "name": "Vuma",
-      "url": "https://open.spotify.com/track/6mWsjfFrRkdIr03LBN0Zpa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mali",
-        "url": "https://open.spotify.com/album/5Sxb6kh9aVFcH1r3a6kpUP"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 300013,
-      "name": "Ngwanona",
-      "url": "https://open.spotify.com/track/1FSZuMu3FlBjVqyqtoDA3e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Piano Republik",
         "url": "https://open.spotify.com/album/7Bv6Vg8y1Cwl7b9TV1xSqQ"
       },
@@ -315,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nomakanjani",
-        "url": "https://open.spotify.com/album/5ahFIyiKJP6a1JlNCZ4fzM"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 297840,
-      "name": "Kenang Bohle",
-      "url": "https://open.spotify.com/track/1ZarN2H9sexCr38Rlm06NU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mina Nawe",
         "url": "https://open.spotify.com/album/2bghemSyO0h96j7YDSjpV0"
       },
@@ -347,6 +299,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mali",
+        "url": "https://open.spotify.com/album/5Sxb6kh9aVFcH1r3a6kpUP"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 300013,
+      "name": "Ngwanona",
+      "url": "https://open.spotify.com/track/1FSZuMu3FlBjVqyqtoDA3e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nomakanjani",
+        "url": "https://open.spotify.com/album/5ahFIyiKJP6a1JlNCZ4fzM"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 297840,
+      "name": "Kenang Bohle",
+      "url": "https://open.spotify.com/track/1ZarN2H9sexCr38Rlm06NU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mama",
         "url": "https://open.spotify.com/album/3gMIm1DzHL4BFdfzarGX42"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 270133,
       "name": "Mama",
       "url": "https://open.spotify.com/track/1pLVv5izG6cj2GiQdsEreq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mina Nawe",
+        "url": "https://open.spotify.com/album/2bghemSyO0h96j7YDSjpV0"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 229240,
+      "name": "Vuma",
+      "url": "https://open.spotify.com/track/6mWsjfFrRkdIr03LBN0Zpa"
     },
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mina Nawe",
-        "url": "https://open.spotify.com/album/2bghemSyO0h96j7YDSjpV0"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 288213,
-      "name": "Wewe (African Wedding)",
-      "url": "https://open.spotify.com/track/26vfNVp3EkjxMZv9ix1vXw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gimme Some Volume",
         "url": "https://open.spotify.com/album/0mZUadtsJA1ax3WHtX8oAO"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 301986,
       "name": "Matshidiso",
       "url": "https://open.spotify.com/track/3rcrsKkRXu7EnVHLCdrUGF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mina Nawe",
+        "url": "https://open.spotify.com/album/2bghemSyO0h96j7YDSjpV0"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 288213,
+      "name": "Wewe (African Wedding)",
+      "url": "https://open.spotify.com/track/26vfNVp3EkjxMZv9ix1vXw"
     },
     {
       "added_at": null,
@@ -675,22 +675,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hamba Sathane",
-        "url": "https://open.spotify.com/album/1mNSmtT55yrOH4TFCdQJtJ"
+        "name": "Mina Nawe",
+        "url": "https://open.spotify.com/album/2bghemSyO0h96j7YDSjpV0"
       },
       "artists": [
         {
           "name": "Brenda Fassie",
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        },
-        {
-          "name": "Pure Gold",
-          "url": "https://open.spotify.com/artist/3EDFeCAmLSVbMJZJBZj05z"
         }
       ],
-      "duration_ms": 290266,
-      "name": "Hamba Sathane",
-      "url": "https://open.spotify.com/track/5WRoiwyCUQxn4eE6WOaQKa"
+      "duration_ms": 290613,
+      "name": "Uyang'Embarasa",
+      "url": "https://open.spotify.com/track/2sYRByVFwMQAx6K0CTWizr"
     },
     {
       "added_at": null,
@@ -711,18 +707,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mina Nawe",
-        "url": "https://open.spotify.com/album/2bghemSyO0h96j7YDSjpV0"
+        "name": "Hamba Sathane",
+        "url": "https://open.spotify.com/album/1mNSmtT55yrOH4TFCdQJtJ"
       },
       "artists": [
         {
           "name": "Brenda Fassie",
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        },
+        {
+          "name": "Pure Gold",
+          "url": "https://open.spotify.com/artist/3EDFeCAmLSVbMJZJBZj05z"
         }
       ],
-      "duration_ms": 290613,
-      "name": "Uyang'Embarasa",
-      "url": "https://open.spotify.com/track/2sYRByVFwMQAx6K0CTWizr"
+      "duration_ms": 290266,
+      "name": "Hamba Sathane",
+      "url": "https://open.spotify.com/track/5WRoiwyCUQxn4eE6WOaQKa"
     },
     {
       "added_at": null,
@@ -743,22 +743,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hamba Sathane",
-        "url": "https://open.spotify.com/album/1mNSmtT55yrOH4TFCdQJtJ"
+        "name": "Mina Nawe",
+        "url": "https://open.spotify.com/album/2bghemSyO0h96j7YDSjpV0"
       },
       "artists": [
         {
           "name": "Brenda Fassie",
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        },
-        {
-          "name": "Pure Gold",
-          "url": "https://open.spotify.com/artist/3EDFeCAmLSVbMJZJBZj05z"
         }
       ],
-      "duration_ms": 275480,
-      "name": "O Lemenemene",
-      "url": "https://open.spotify.com/track/34VLLIFr9h9MKRwdWlJZHl"
+      "duration_ms": 298906,
+      "name": "Ngohlala Ngi Nje",
+      "url": "https://open.spotify.com/track/5oV9NjG1DzywliYzg1CLaS"
     },
     {
       "added_at": null,
@@ -779,18 +775,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mina Nawe",
-        "url": "https://open.spotify.com/album/2bghemSyO0h96j7YDSjpV0"
+        "name": "Hamba Sathane",
+        "url": "https://open.spotify.com/album/1mNSmtT55yrOH4TFCdQJtJ"
       },
       "artists": [
         {
           "name": "Brenda Fassie",
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        },
+        {
+          "name": "Pure Gold",
+          "url": "https://open.spotify.com/artist/3EDFeCAmLSVbMJZJBZj05z"
         }
       ],
-      "duration_ms": 298906,
-      "name": "Ngohlala Ngi Nje",
-      "url": "https://open.spotify.com/track/5oV9NjG1DzywliYzg1CLaS"
+      "duration_ms": 275480,
+      "name": "O Lemenemene",
+      "url": "https://open.spotify.com/track/34VLLIFr9h9MKRwdWlJZHl"
     },
     {
       "added_at": null,

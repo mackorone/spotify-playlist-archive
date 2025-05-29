@@ -4,7 +4,7 @@
 
 > Blissful soundscapes from the best Ambient artists right now, to transport you to that feel good place 🌤️
 
-432 songs - 1 day 2 hr 2 min
+434 songs - 1 day 2 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,7 @@
 | [Forevertime Journeys](https://open.spotify.com/track/5hpZxgvARgsbmQjQaGmYIW) | [naran ratan](https://open.spotify.com/artist/2keywPnpoD1RhMrs2Qrrsj) | [Trees etc.](https://open.spotify.com/album/0Hi7a09Vn6FuPZSsADVfsI) | 1:33 | 2021-10-16 | 2025-05-24 |
 | [forged by the water](https://open.spotify.com/track/3PaPtDDaqFKphKZNupca3K) | [Borealism](https://open.spotify.com/artist/6FsyvM4nmEVkHPWR79ymC7) | [DVALE](https://open.spotify.com/album/648NzHsmlleh5hig97kc25) | 2:49 | 2021-10-16 | 2025-05-15 |
 | [Four Glass Steps](https://open.spotify.com/track/34Jlc2jWDf7CogIa8driCU) | [J Foerster](https://open.spotify.com/artist/4sRdSdPKzOOJa9WgBfTz6i), [N KRAMER](https://open.spotify.com/artist/6pY5KhflZwSO9L6Iq2A77t) | [Four Glass Steps](https://open.spotify.com/album/3mfGzMbRtYHYt2eU9BblDX) | 4:14 | 2021-10-16 | 2022-07-27 |
-| [für Meesha](https://open.spotify.com/track/2QZwhaG5da1frWBQZsallH) | [Htennek Niwhsa](https://open.spotify.com/artist/3sbQ2jo75b32GImdv6ZE04) | [für Meesha](https://open.spotify.com/album/2wkpYviuhaeDLBeU60XP9p) | 2:29 | 2025-05-23 |  |
+| [für Meesha](https://open.spotify.com/track/2QZwhaG5da1frWBQZsallH) | [Htennek Niwhsa](https://open.spotify.com/artist/3sbQ2jo75b32GImdv6ZE04) | [für Meesha](https://open.spotify.com/album/2wkpYviuhaeDLBeU60XP9p) | 2:29 | 2025-05-23 | 2025-05-29 |
 | [Gale Still Blowing](https://open.spotify.com/track/4sMQ7GTYDKqfcI8CpqXDVe) | [Early Fern](https://open.spotify.com/artist/3teaIUAxaPtoX5s6seiZhE) | [Perpetual Care](https://open.spotify.com/album/4dwbddU1EGBZHnBGa8ZVvY) | 4:57 | 2023-03-29 | 2024-10-24 |
 | [garra de leon](https://open.spotify.com/track/4gfdPZgxnRawkEpTDthXOX) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [RNDN](https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn) | [garra de leon](https://open.spotify.com/album/7CclyjtDDQtLblH4Wxadbw) | 2:49 | 2023-05-24 | 2024-09-05 |
 | [giza](https://open.spotify.com/track/6JSLJcMsjyx5aBQkCF8P1A) | [Sxmniak](https://open.spotify.com/artist/0NIcjfmIXKx1cOpF0VSLVr), [Joe Nora](https://open.spotify.com/artist/2ShIqcIbteAk5jwdZzF2NZ) | [giza](https://open.spotify.com/album/1wzM8tlioXRRl4XR8ILGe6) | 2:00 | 2021-10-16 | 2025-05-15 |
@@ -221,6 +221,7 @@
 | [Lilac](https://open.spotify.com/track/0Ymu1QBwxsXpwsLdxWBRtA) | [G Mills](https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N) | [Lilac](https://open.spotify.com/album/4lqw1wICfF7tNfVjj3TPgX) | 2:40 | 2021-10-16 | 2024-09-05 |
 | [Lilac](https://open.spotify.com/track/1o6NbOV0dqkjeaXFiTMJOO) | [G Mills](https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N) | [Lilac](https://open.spotify.com/album/7s9B2fGXMeIgYEnoHxrzWN) | 2:40 | 2021-10-16 | 2024-04-19 |
 | [Lineoa](https://open.spotify.com/track/3ZHLXe62MxnwGz7YjxmHeO) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [Lineoa](https://open.spotify.com/album/7155dlzrVg7sADrfG24wir) | 4:13 | 2023-07-28 | 2024-09-05 |
+| [lit](https://open.spotify.com/track/1vSrVWErL3uPa1pntwaJ7c) | [Be Still the Earth](https://open.spotify.com/artist/7FedGrros77uFxBy4PT8k6) | [golden hour dimly lit](https://open.spotify.com/album/5SJZYPSRHMKU4uKse3ePmb) | 2:21 | 2025-05-23 |  |
 | [Lithe](https://open.spotify.com/track/5tFLJyoBQkbIFz3YZ2SfF5) | [Simon Popp](https://open.spotify.com/artist/3g6w2ATRPWhtFCUtkDIdcp) | [Blizz](https://open.spotify.com/album/6rzMe09QPlvWFvW1hhrxS9) | 5:28 | 2022-11-25 | 2025-05-15 |
 | [logical](https://open.spotify.com/track/3E87Le6IN9RYKhgRfJp3BN) | [Shuttle358](https://open.spotify.com/artist/1scitKDOobvcQlJb8DdP4n) | [Chessa](https://open.spotify.com/album/3vnNHitqzdPjWNBNGuZSrl) | 3:02 | 2021-10-16 | 2025-05-15 |
 | [Lonely](https://open.spotify.com/track/3xzPOzDfNDJcub1s1MXKcJ) | [Hyperparadise](https://open.spotify.com/artist/4uajeI5EPh9v3im2UwQH5s) | [Midnight Thoughts](https://open.spotify.com/album/3bAbS8r4SzB4sRRsiDqyfc) | 3:12 | 2021-10-16 | 2024-09-05 |
@@ -243,7 +244,7 @@
 | [Meditations](https://open.spotify.com/track/1C8TMLXojWgI87vacwQD3J) | [DJ Clea](https://open.spotify.com/artist/5ZSGfblqHsmriplkJOoAWx) | [Meditations](https://open.spotify.com/album/1oTKZ4ittv2nOsAfi4r0X9) | 6:41 | 2021-10-16 | 2025-05-15 |
 | [memorial park](https://open.spotify.com/track/4OoGwa6kp9TmsjXopMP5Yo) | [Matt Kivel](https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w) | [that day, on the beach](https://open.spotify.com/album/5cL9c4WEeS33FzfbwYb4Ha) | 2:31 | 2021-10-16 | 2022-07-28 |
 | [memorial park](https://open.spotify.com/track/5TCKrAOgiVCHEgUEgUBL1Q) | [Matt Kivel](https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w) | [that day, on the beach](https://open.spotify.com/album/43aoFo7Rdryf3WPpPnnbz1) | 2:31 | 2021-10-16 | 2024-02-15 |
-| [Memory Ornament](https://open.spotify.com/track/4E4AEPYzyX5a4yxjgZubmN) | [Ben Hackett](https://open.spotify.com/artist/050oABtOYcWMjuoWR7saCa) | [Memory Ornament](https://open.spotify.com/album/0vAfRha4Mhbm5G97VTI2IT) | 5:26 | 2025-05-14 |  |
+| [Memory Ornament](https://open.spotify.com/track/4E4AEPYzyX5a4yxjgZubmN) | [Ben Hackett](https://open.spotify.com/artist/050oABtOYcWMjuoWR7saCa) | [Memory Ornament](https://open.spotify.com/album/0vAfRha4Mhbm5G97VTI2IT) | 5:26 | 2025-05-14 | 2025-05-29 |
 | [Meta V](https://open.spotify.com/track/1hO2aMpprNNIcLjvVx18es) | [Nikolaienko](https://open.spotify.com/artist/3fifybKFLHwKbEjATG02ig), [Mykola Lebed](https://open.spotify.com/artist/73OfnS2YlWCMKgwtWPlBMA) | [Meta](https://open.spotify.com/album/5PCWhedTMnMndndZ0pw5bc) | 5:48 | 2024-08-14 | 2024-12-17 |
 | [Mexico Edit](https://open.spotify.com/track/69N1tB1ajMGnxOOiEW9rwr) | [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1), [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk) | [Hardy Boys](https://open.spotify.com/album/58ocne0PjbMjQN4iIXCxNv) | 2:17 | 2024-07-19 |  |
 | [Migrations](https://open.spotify.com/track/4oiwHTTaiLERMEEhHwqnq2) | [Taylor Deupree](https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T), [Marcus Fischer](https://open.spotify.com/artist/65XXatfLe9qJ44dCxKH4u9) | [Lowlands](https://open.spotify.com/album/5bd2paC7EFKOS6YJv4se2e) | 3:16 | 2021-10-16 | 2022-07-10 |
@@ -422,6 +423,7 @@
 | [wading through the wetlands](https://open.spotify.com/track/70s82y5YSYOsLhlQnZNh1E) | [santpoort](https://open.spotify.com/artist/7KtVS0f2RQoEhjxDcSGBtJ) | [mudflat hikers](https://open.spotify.com/album/5unmEFWv7YiVMV39friIJY) | 2:44 | 2021-10-16 | 2024-09-05 |
 | [Waiting for You](https://open.spotify.com/track/6zfJirLNG7uyh9R3k1NKOF) | [Beatsloth](https://open.spotify.com/artist/2mNGmwkYJOW9hqFf3BJRQn) | [Waiting for You](https://open.spotify.com/album/11jtUQ6GkxorADe9g3c5hM) | 2:00 | 2022-11-18 | 2025-02-09 |
 | [Wanderstop Part 1](https://open.spotify.com/track/4VMUh61jfChVRAnO4RLrsZ) | [C418](https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx) | [Wanderstop](https://open.spotify.com/album/051vvnKIC9VaY8vw4R2s0y) | 2:42 | 2025-05-14 |  |
+| [wavesss](https://open.spotify.com/track/4tmBEKIQWwJ6DNEjEMyOST) | [Oily James](https://open.spotify.com/artist/1UFdLCL3pR023igvIy9GEj) | [wavesss](https://open.spotify.com/album/6G4QtXGiov1spfRxO8PisF) | 2:32 | 2025-05-23 |  |
 | [We](https://open.spotify.com/track/22SzEhlJaen0MCdlOJ2aLe) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [The Sky Sings Its Chorus \(For Us Alone\) \[Pt .1\]](https://open.spotify.com/album/4FQr3OeU7tQKO8h1g8QiI2) | 2:35 | 2021-10-16 | 2024-09-05 |
 | [We](https://open.spotify.com/track/5tMwIq5wvUARN4NOuB2XLW) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [For Us Alone](https://open.spotify.com/album/5qLvjzYlOPBWcoGXH7bUSo) | 2:35 | 2021-10-16 | 2024-04-19 |
 | [What A Life \(I\)](https://open.spotify.com/track/7JuGqawtpkLXnzA9q4bmVZ) | [Hayes Bradley](https://open.spotify.com/artist/2eR5l1dWjSIEfAs0mXgyak) | [Recommence \(I/VII\)](https://open.spotify.com/album/2anOU5OeKw7RxanJGs7AqY) | 2:22 | 2025-05-14 |  |

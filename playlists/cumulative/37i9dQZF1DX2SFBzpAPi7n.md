@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Tuesday Beach Club\) \(핫한 국내 록 음악을 만나보세요!\)
 
-957 songs - 2 day 10 hr 25 min
+958 songs - 2 day 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,6 +231,7 @@
 | [Evening Glow](https://open.spotify.com/track/1Yuua9AnSRDl0taHxpVNzM) | [Dayangsung](https://open.spotify.com/artist/3nVkLQWe6gkgmqia9kl89z) | [A World Full Of Paper Planes & Balloons](https://open.spotify.com/album/5QlrdfNsruHMELFrb9xEDd) | 3:41 | 2022-09-30 | 2022-10-19 |
 | [Event Horizon](https://open.spotify.com/track/6RBziRcDeiho3iTPdtEeg9) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [YOUNHA 6th Album Repackage 'END THEORY : Final Edition'](https://open.spotify.com/album/63mur6I6yCG9cOxOst3i7c) | 5:00 | 2022-04-12 |  |
 | [EVER](https://open.spotify.com/track/7kZDgpf6ebA3dlgt0vdRv2) | [Hebi](https://open.spotify.com/artist/0hJZEIh0mcRY6wl5LAlpDv) | [EVER](https://open.spotify.com/album/6Hd2ZOJ8Lt8ePovI7ZFpTw) | 3:21 | 2025-03-31 | 2025-04-12 |
+| [Everlasting](https://open.spotify.com/track/2WBN1JHsM6jVzEqRGsjz1z) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [Everlasting](https://open.spotify.com/album/2JAijBbqdC7WGqqcpTE17D) | 4:17 | 2025-05-28 |  |
 | [Extinction](https://open.spotify.com/track/7ophvrIUAHSbf0uCEb5TzB) | [THORNAPPLE](https://open.spotify.com/artist/6S4fsREHT1NEjTb3lYD2pG) | [Animal](https://open.spotify.com/album/4ZALM5WKnmqL1sJouAAFqw) | 4:44 | 2023-08-29 | 2023-10-12 |
 | [Eye of the Typhoon](https://open.spotify.com/track/0nSEAABoviV818GLEZsD6r) | [PEPPERTONES](https://open.spotify.com/artist/0gos4GVpI0PzhyrWhsc7nj) | [thousand years](https://open.spotify.com/album/3pDA2ikEslIDXpzIWmauQY) | 4:06 | 2022-09-20 | 2022-10-19 |
 | [Face](https://open.spotify.com/track/50OgyUeTppAqsJbGthk2x9) | [Lee go do](https://open.spotify.com/artist/18r9qka1AKwgqzUzaLdxhm) | [Face](https://open.spotify.com/album/1lcBukbd61zGUprqrePYMv) | 3:34 | 2024-02-21 | 2024-05-10 |
@@ -279,7 +280,7 @@
 | [Glittering Dreams \(Feat\. Lee Yongshin\)](https://open.spotify.com/track/7ka3DtYOq1iYs26gVXcCJ2) | [DEVSISTERS](https://open.spotify.com/artist/7cf0ByqyHXCghj6gC5axcX), [Lee Yongshin](https://open.spotify.com/artist/7IupjPUInYSwlSmdCL3mKM) | [Cookie Run: Kingdom OST Summer Soda Rock Festa](https://open.spotify.com/album/5YDDSItmnh83Y7bTKHCOpG) | 3:27 | 2023-07-12 | 2023-07-29 |
 | [Go](https://open.spotify.com/track/51W0tWQB56AvnLhIauJuSc) | [SEUNGKWAN](https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6) | [Record of Youth \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/6PCVAO4BRutldPc7WjbkLU) | 3:33 | 2022-07-22 | 2023-08-29 |
 | [Go Fast \(KARTRIDER X LINE FRIENDS \[Original Game Soundtrack\], Pt\. 3\)](https://open.spotify.com/track/3YPSH6gOsnEZgItxaLDSAL) | [Yoon Do Hyun](https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB), [KimYeji](https://open.spotify.com/artist/3XyqYcDNFPFWbyGn8pFTf9) | [Go Fast \(KARTRIDER X LINE FRIENDS \[Original Game Soundtrack\], Pt\. 3\)](https://open.spotify.com/album/3DfLxv8m65MF99PDCpqlUa) | 2:53 | 2022-05-03 | 2022-06-13 |
-| [Go On](https://open.spotify.com/track/1B4u4JP5DaqGQJ9976HW46) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [Burn to Win \(Original Soundtrack\) Part.2](https://open.spotify.com/album/1hiFjohix0gV2ZSh51OPTE) | 3:20 | 2025-05-26 |  |
+| [Go On](https://open.spotify.com/track/1B4u4JP5DaqGQJ9976HW46) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [Burn to Win \(Original Soundtrack\) Part.2](https://open.spotify.com/album/1hiFjohix0gV2ZSh51OPTE) | 3:20 | 2025-05-26 | 2025-05-29 |
 | [Go!](https://open.spotify.com/track/4hzeoIOERTL4jdTXAQ0FWr) | [DOKYEOM](https://open.spotify.com/artist/7G1kUsPtQCdolV6CPwHmh2) | [Twenty\-Five Twenty\-One OST Part 5](https://open.spotify.com/album/285SCIzheZ0SrcZp4Q5YvR) | 3:29 | 2022-05-24 | 2023-04-06 |
 | [GO!DO!RIGHT!](https://open.spotify.com/track/6e9W7Eo6I34JgJW5ZiXz26) | [O.O.O](https://open.spotify.com/artist/0YMpM4y1fUUHhBLFnYVOaD) | [BLUE](https://open.spotify.com/album/3ZPTjzyy3cmbKp8lLT2SNi) | 4:02 | 2022-08-12 | 2022-08-19 |
 | [Goddess of Despair](https://open.spotify.com/track/1kMuSPY0CrZsrrUfbGTbnf) | [HOSHI](https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR) | [Goddess of Despair](https://open.spotify.com/album/2pF0taAwEGNMFRfAyvWGnv) | 3:39 | 2024-03-06 | 2024-11-07 |

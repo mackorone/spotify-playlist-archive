@@ -4,7 +4,7 @@
 
 > أحدث الاغاني العراقية\. غلاف: علي صابر
 
-319 songs - 18 hr 46 min
+320 songs - 18 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Gher Any](https://open.spotify.com/track/0az73QKySqn6l23TWoljUt) | [Hatem Al Iraqi](https://open.spotify.com/artist/0yLMdeDY9aaF6R5V8EO99D) | [Gher Any](https://open.spotify.com/album/5HkpOu0MwwMcQdo6DUA5CQ) | 3:42 | 2022-06-07 | 2023-02-01 |
 | [Ghyabe Wagaak](https://open.spotify.com/track/1XePTZCLsOggdc8ABNl81J) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Ghyabe Wagaak](https://open.spotify.com/album/72Lvo8ez65pAReNdGyCPkv) | 4:06 | 2022-01-01 | 2022-05-14 |
 | [Gissah](https://open.spotify.com/track/6i7tFmWmfP0Un7nPIkSpaY) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Gissah](https://open.spotify.com/album/2mWcaTK4MDGlSDrvOnPy9x) | 0:59 | 2023-03-14 | 2023-09-22 |
+| [Goli Goli](https://open.spotify.com/track/4flys7yW9xneNYyeHTvYSi) | [Ali Saber](https://open.spotify.com/artist/6kNbn4f4j3Uhd79CGCmcFK) | [Goli Goli](https://open.spotify.com/album/1tJ2xRvJiSbvFwEWpmg3Z8) | 3:36 | 2025-05-28 |  |
 | [Ha Khouya](https://open.spotify.com/track/1eEWmjCWjFtWhL36HKdjsc) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [Ha Khouya](https://open.spotify.com/album/6XQsDdlTch6XLivTtooFzL) | 2:57 | 2023-03-24 | 2023-10-07 |
 | [Habib Rohi](https://open.spotify.com/track/1BdoXfvRxhBZ11NtdRW3Im) | [Waleed Al Shami](https://open.spotify.com/artist/05LLsyiJRSjBpe54u0jJRz) | [Habib Rohi](https://open.spotify.com/album/7mfZ7wvLmIpwNE9cY0uQtN) | 5:08 | 2021-12-23 | 2022-01-21 |
 | [Hai El Resala](https://open.spotify.com/track/0YHeI00TOV6j4sb9F9fFN1) | [Ali Arnoos](https://open.spotify.com/artist/1ICLYRvDbaXOGR17fhTQKq) | [Hai El Resala](https://open.spotify.com/album/7e6FLXKMPWzRIdrUJmaW14) | 3:15 | 2021-12-23 | 2022-03-12 |
@@ -202,7 +203,7 @@
 | [Ma Matroukaa](https://open.spotify.com/track/1hx7D9TXiCGZg5LUZWZgL8) | [Saif Nabeel](https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK) | [Ma Matroukaa](https://open.spotify.com/album/31KGaz4Fhmsr8xLFWCOyL9) | 2:35 | 2024-04-10 |  |
 | [Ma Qasart](https://open.spotify.com/track/0Qpbsu4fszRrtc1g6NnSnm) | [Hamza Al Mahmdawi](https://open.spotify.com/artist/4fClSImakiSPnfxOa4NOiW) | [Ma Qasart](https://open.spotify.com/album/0wQ3ft7291KtIoQzPQEkqt) | 3:19 | 2023-06-13 | 2024-04-19 |
 | [Ma Yrham](https://open.spotify.com/track/08tZf9bbR9WDa6G7S04ttp) | [Jafar Al Ghazal](https://open.spotify.com/artist/33FJbhlNRNQIBQdlSF91sr) | [Ma Yrham](https://open.spotify.com/album/2rOpwc0DnJMWPJjz8mZnlK) | 3:29 | 2021-12-23 | 2022-02-10 |
-| [Maali Habibi](https://open.spotify.com/track/69f4WjQ8eXRM2ESxlqeIWu) | [Dumooa Tahseen](https://open.spotify.com/artist/0453pwQTyMdU2a66fCFaUQ) | [Maali Habibi](https://open.spotify.com/album/0qzmx29rHHEGictWe1qHuD) | 2:48 | 2023-12-22 |  |
+| [Maali Habibi](https://open.spotify.com/track/69f4WjQ8eXRM2ESxlqeIWu) | [Dumooa Tahseen](https://open.spotify.com/artist/0453pwQTyMdU2a66fCFaUQ) | [Maali Habibi](https://open.spotify.com/album/0qzmx29rHHEGictWe1qHuD) | 2:48 | 2023-12-22 | 2025-05-29 |
 | [Madim Aleak](https://open.spotify.com/track/7x3OeqioqJIZD5y0yFEeir) | [Mahmoud Al Gayath](https://open.spotify.com/artist/0vlrGHoVOpmG8ufhbgcJe9) | [Madim Aleak](https://open.spotify.com/album/7tGZPVKKgrV3aJ1fRQUjIj) | 3:25 | 2022-01-20 | 2022-06-07 |
 | [Maqsoda](https://open.spotify.com/track/4Na3asJ6ziDXspqUtZH22W) | [Habeeb Ali](https://open.spotify.com/artist/7KArBbdJ0GLtkEM3LUv1Fj) | [Maqsoda](https://open.spotify.com/album/6S2F1BSq39W6AuQ7GA6hyF) | 3:47 | 2024-06-24 |  |
 | [Mashit Wayak](https://open.spotify.com/track/0Wq13UFsTy0ZGmwmPd7iaw) | [Osama Naji](https://open.spotify.com/artist/0Wsn2xJsy1aeAPfNviVDm4) | [Mashit Wayak](https://open.spotify.com/album/6ZoXSyv6O4ZMYQt8XVCPIg) | 3:02 | 2022-05-13 | 2022-10-14 |

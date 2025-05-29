@@ -1,6 +1,6 @@
 {
   "description": "El don de cantar y componer, una playlist llena de talento. Foto: Pedro Pastor y Silvio Rodr\u00edguez.",
-  "num_followers": 339931,
+  "num_followers": 339939,
   "original_name": "Cantautores",
   "owner": {
     "name": "Spotify",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2025-05-26 09:13:13",
       "album": {
+        "name": "Miguel Hernandez",
+        "url": "https://open.spotify.com/album/16CjMJTRsm3KSEgudueP2S"
+      },
+      "artists": [
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        }
+      ],
+      "duration_ms": 170906,
+      "name": "Para la Libertad",
+      "url": "https://open.spotify.com/track/2MbBeecWBAEHAYEC37Gk6s"
+    },
+    {
+      "added_at": "2025-05-26 09:13:13",
+      "album": {
         "name": "Cerrando Puntos Suspensivos",
         "url": "https://open.spotify.com/album/64l9Hf8OOB5S5E3cftmFxr"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 217373,
       "name": "Sinmigo",
       "url": "https://open.spotify.com/track/4GjjFFJpivq5otRgAfUGqw"
-    },
-    {
-      "added_at": "2025-05-26 09:13:13",
-      "album": {
-        "name": "Miguel Hernandez",
-        "url": "https://open.spotify.com/album/16CjMJTRsm3KSEgudueP2S"
-      },
-      "artists": [
-        {
-          "name": "Joan Manuel Serrat",
-          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
-        }
-      ],
-      "duration_ms": 170906,
-      "name": "Para la Libertad",
-      "url": "https://open.spotify.com/track/2MbBeecWBAEHAYEC37Gk6s"
     },
     {
       "added_at": "2025-05-26 09:13:13",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2025-05-26 09:13:13",
       "album": {
+        "name": "La Llamada",
+        "url": "https://open.spotify.com/album/4IKa51k08eP9C6MhKslZ21"
+      },
+      "artists": [
+        {
+          "name": "Ismael Serrano",
+          "url": "https://open.spotify.com/artist/4eyF2eDCunzeFykH90Ej34"
+        }
+      ],
+      "duration_ms": 442680,
+      "name": "Ahora Que Te Encuentro",
+      "url": "https://open.spotify.com/track/6hCgPpGpAgV6ExrOj9MGXH"
+    },
+    {
+      "added_at": "2025-05-26 09:13:13",
+      "album": {
         "name": "Que Digan (Seg\u00fan Sta. Rocio)",
         "url": "https://open.spotify.com/album/2Xiy3E0gR9nRxCMSGP3otv"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 218981,
       "name": "Que Digan (Seg\u00fan Sta. Rocio)",
       "url": "https://open.spotify.com/track/55ow5rRCIbUX1zzGuq0nek"
-    },
-    {
-      "added_at": "2025-05-26 09:13:13",
-      "album": {
-        "name": "La Llamada",
-        "url": "https://open.spotify.com/album/4IKa51k08eP9C6MhKslZ21"
-      },
-      "artists": [
-        {
-          "name": "Ismael Serrano",
-          "url": "https://open.spotify.com/artist/4eyF2eDCunzeFykH90Ej34"
-        }
-      ],
-      "duration_ms": 442680,
-      "name": "Ahora Que Te Encuentro",
-      "url": "https://open.spotify.com/track/6hCgPpGpAgV6ExrOj9MGXH"
     },
     {
       "added_at": "2025-05-26 09:13:13",
@@ -1695,18 +1695,22 @@
     {
       "added_at": "2025-05-26 09:13:13",
       "album": {
-        "name": "Auterretratos",
-        "url": "https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv"
+        "name": "Gracias",
+        "url": "https://open.spotify.com/album/0rU0glgG267Tm44RkfJawd"
       },
       "artists": [
         {
-          "name": "Luis Eduardo Aute",
-          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
+          "name": "Elefantes",
+          "url": "https://open.spotify.com/artist/5ykyeZYA8wEGQ0WhhH8AKn"
+        },
+        {
+          "name": "Antonio Vega",
+          "url": "https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF"
         }
       ],
-      "duration_ms": 233000,
-      "name": "La Belleza",
-      "url": "https://open.spotify.com/track/5oMnRH2HJ3N3leLRh3AWCw"
+      "duration_ms": 231706,
+      "name": "Que yo no lo sab\u00eda (feat. Antonio Vega)",
+      "url": "https://open.spotify.com/track/0XlybA6F3v5XcHl6rqmNRw"
     },
     {
       "added_at": "2025-05-26 09:13:13",
@@ -1727,22 +1731,18 @@
     {
       "added_at": "2025-05-26 09:13:13",
       "album": {
-        "name": "Gracias",
-        "url": "https://open.spotify.com/album/0rU0glgG267Tm44RkfJawd"
+        "name": "Auterretratos",
+        "url": "https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv"
       },
       "artists": [
         {
-          "name": "Elefantes",
-          "url": "https://open.spotify.com/artist/5ykyeZYA8wEGQ0WhhH8AKn"
-        },
-        {
-          "name": "Antonio Vega",
-          "url": "https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF"
+          "name": "Luis Eduardo Aute",
+          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
         }
       ],
-      "duration_ms": 231706,
-      "name": "Que yo no lo sab\u00eda (feat. Antonio Vega)",
-      "url": "https://open.spotify.com/track/0XlybA6F3v5XcHl6rqmNRw"
+      "duration_ms": 233000,
+      "name": "La Belleza",
+      "url": "https://open.spotify.com/track/5oMnRH2HJ3N3leLRh3AWCw"
     },
     {
       "added_at": "2025-05-26 09:13:13",
@@ -1783,22 +1783,18 @@
     {
       "added_at": "2025-05-26 09:13:13",
       "album": {
-        "name": "Ben poca cosa tens",
-        "url": "https://open.spotify.com/album/4eBnmtZBcmN8eGCALV5SdL"
+        "name": "La Llamada",
+        "url": "https://open.spotify.com/album/4IKa51k08eP9C6MhKslZ21"
       },
       "artists": [
         {
-          "name": "Salvador Sobral",
-          "url": "https://open.spotify.com/artist/0GfYO21pue5u0sVEYk9HZO"
-        },
-        {
-          "name": "S\u00edlvia P\u00e9rez Cruz",
-          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
+          "name": "Ismael Serrano",
+          "url": "https://open.spotify.com/artist/4eyF2eDCunzeFykH90Ej34"
         }
       ],
-      "duration_ms": 310754,
-      "name": "Ben poca cosa tens",
-      "url": "https://open.spotify.com/track/6bjEfCnfH1aTkDVxmXkptn"
+      "duration_ms": 365986,
+      "name": "Mi Problema",
+      "url": "https://open.spotify.com/track/6PIRiVNVZk0vN9ZyUJTqKj"
     }
   ],
   "unique_name": "Cantautores",

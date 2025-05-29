@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYF9TpSdRtkF.md) - [plain]
 
 > Music from "THE IDOLM@STER MILLION LIVE!"\.  THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,879 likes - 75 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,882 likes - 75 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYF9TpSdRtkF.md) - [plain]
 | 71 | [DIAMOND JOKER](https://open.spotify.com/track/7r2X6wsyLGhfPCL5mqzSQm) | [伊吹 翼 \(CV.Machico\)](https://open.spotify.com/artist/4xjWa7X3thhXaePyQtPBG1), [徳川まつり \(CV.諏訪彩花\)](https://open.spotify.com/artist/2uTw4D9HmyZI0NmjCIJ7Mk), [Takane Shijou \(CV: Yumi Hara\)](https://open.spotify.com/artist/0jByAMysntS3sv6vTCXNJl), [所 恵美 \(CV.藤井ゆきよ\)](https://open.spotify.com/artist/1kKVN7e55Q0Xi3n2ydAh6G) | [THE IDOLM@STER MILLION THE@TER SEASON](https://open.spotify.com/album/2GmyOoF9xIs414VXoGQ3zN) | 3:37 |
 | 72 | [Blue Symphony](https://open.spotify.com/track/61pUUUV0ng4YJIdK3DHnvQ) | [如月千早 \(CV.今井麻美\)](https://open.spotify.com/artist/7HXMd79Kiz7GweUt79us1g), [北沢志保 \(CV.雨宮 天\)](https://open.spotify.com/artist/7nDgFIZOhzZpIfhriPxdw0), [Kotoha Tanaka \(CV: Risa Taneda\)](https://open.spotify.com/artist/7vOsyxqAygo6QgUJ5AIeyr), [所 恵美 \(CV.藤井ゆきよ\)](https://open.spotify.com/artist/1kKVN7e55Q0Xi3n2ydAh6G) | [THE IDOLM@STER LIVE THE@TER PERFORMANCE 04](https://open.spotify.com/album/6WKC6lYDjiHk38mSeuNOoW) | 4:42 |
 | 73 | [Catch my dream](https://open.spotify.com/track/0jgj7n4quchk3nSTdVJ7vF) | [最上静香 \(CV.田所あずさ\)](https://open.spotify.com/artist/66UKyfIWbPvoH82zGZlkdH) | [THE IDOLM@STER LIVE THE@TER HARMONY 03](https://open.spotify.com/album/7eyHlvuilbyQace0k063iy) | 4:31 |
-| 74 | [Harmony 4 You](https://open.spotify.com/track/0G5Cr2BypXfAuwM4mdGoOK) | [765 MILLION ALLSTARS](https://open.spotify.com/artist/2t5cmL5V6MkODKqWIlxuoU) | [THE IDOLM@STER MILLION THE@TER SEASON Harmony 4 You](https://open.spotify.com/album/57E3U1mfPeFU6enkevecb7) | 4:55 |
-| 75 | [BORN ON DREAM! ～HANABI NIGHT～](https://open.spotify.com/track/6W5HzMuv3qcqKd2TrGYFvG) | [高山紗代子 \(CV.駒形友梨\)](https://open.spotify.com/artist/7cq2REtJjYZjt8jf7zEZHS), [横山奈緒 \(CV.渡部優衣\)](https://open.spotify.com/artist/2j8owAuskSnjiYPbHXMxED), [高坂海美 \(CV.上田麗奈\)](https://open.spotify.com/artist/6AZndMQu5mgIHidhE5rB7v), [佐竹美奈子 \(CV.大関英里\)](https://open.spotify.com/artist/1MHpk1EUgDP1vwPORrBagq), [福田のり子 \(CV.浜崎奈々\)](https://open.spotify.com/artist/537KFiGRODn7oSYRq0BGPo) | [THE IDOLM@STER MILLION THE@TER GENERATION 10 閃光 HANABI団](https://open.spotify.com/album/3yMOG8hVXOI4DRrUixNXBE) | 4:03 |
+| 74 | [BORN ON DREAM! ～HANABI NIGHT～](https://open.spotify.com/track/6W5HzMuv3qcqKd2TrGYFvG) | [高山紗代子 \(CV.駒形友梨\)](https://open.spotify.com/artist/7cq2REtJjYZjt8jf7zEZHS), [横山奈緒 \(CV.渡部優衣\)](https://open.spotify.com/artist/2j8owAuskSnjiYPbHXMxED), [高坂海美 \(CV.上田麗奈\)](https://open.spotify.com/artist/6AZndMQu5mgIHidhE5rB7v), [佐竹美奈子 \(CV.大関英里\)](https://open.spotify.com/artist/1MHpk1EUgDP1vwPORrBagq), [福田のり子 \(CV.浜崎奈々\)](https://open.spotify.com/artist/537KFiGRODn7oSYRq0BGPo) | [THE IDOLM@STER MILLION THE@TER GENERATION 10 閃光 HANABI団](https://open.spotify.com/album/3yMOG8hVXOI4DRrUixNXBE) | 4:03 |
+| 75 | [スノウレター](https://open.spotify.com/track/0bGXiLOb24Xe0w435VUZDQ) | [木下ひなた \(CV.田村奈央\)](https://open.spotify.com/artist/1iruVsncWyvlBN5FdPdHmZ) | [THE IDOLM@STER MILLION LIVE! M@STER SPARKLE 07](https://open.spotify.com/album/7kjKAMMNIJLEctRIE0cYsq) | 4:37 |
 
 Snapshot ID: `Z+QwIQAAAACWf1IirQlvKuwBY37QrXiU`

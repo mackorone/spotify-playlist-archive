@@ -4,7 +4,7 @@
 
 > Piezas acústicas para cenar a la luz de las velas con alguien especial.
 
-187 songs - 9 hr 19 min
+188 songs - 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Changing Tides](https://open.spotify.com/track/52tu6wxS5rrfXQdVCnd7pc) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [Lost Tales of Catalonia](https://open.spotify.com/album/1LnfyMLkTr1BD7UPj6ykTl) | 2:14 | 2022-03-03 | 2022-07-15 |
 | [Chitarra Romantica](https://open.spotify.com/track/1NlE6SA19XddOVILXQTmsw) | [Robert Michaels](https://open.spotify.com/artist/5oMvKfHAyoVcXM1TkmXw2I) | [Spanish Guitar Collection 2](https://open.spotify.com/album/183GT2Qv5C701uK7BrfVT7) | 2:56 | 2024-07-18 |  |
 | [Cinque Terre](https://open.spotify.com/track/4Is86uGhrqWssNzt54uQTn) | [Mauricio Galbardi](https://open.spotify.com/artist/0aTk31OGuuQKrwZJc1SryA) | [Cinque Terre](https://open.spotify.com/album/7suLw0GxdLqvVGuzyTTIpM) | 3:52 | 2022-03-03 | 2022-07-15 |
+| [Cloudberry Hill](https://open.spotify.com/track/67uf7fIOdyn7ZniHZxBnJB) | [Oddn](https://open.spotify.com/artist/3EJCkCtqUOD8WWdMB3BqCN) | [Cloudberry Hill](https://open.spotify.com/album/2u2rFU0CLNVXJBzgin0203) | 3:02 | 2025-05-28 |  |
 | [Coisa Linda \(Solo Guitar\)](https://open.spotify.com/track/5RIBurCH73RYHD9rbNPvN2) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Coisa Linda](https://open.spotify.com/album/0nSH16JFQkqaePBZyXvcgV) | 3:25 | 2022-03-03 | 2022-07-09 |
 | [Commitments](https://open.spotify.com/track/1oIDF7ezAEtZbPaR9kaZ99) | [Affe Reidhoff](https://open.spotify.com/artist/4pqJbzXUZa8by7nb50hlN0) | [Commitments](https://open.spotify.com/album/5Hzye9VDXOIUJviuOwR4st) | 3:14 | 2022-03-03 |  |
 | [Como Han Pasado los Anos](https://open.spotify.com/track/56MEvjcsopnXjg0beoQiJU) | [Juan Carlos Allende](https://open.spotify.com/artist/1Ra3B3zt4TA4fzXpSW4oAR) | [Internacional New Age Guitarra, Vol.2](https://open.spotify.com/album/34tsTHoNwA80agPtrj5JhL) | 3:55 | 2022-03-03 | 2022-07-09 |

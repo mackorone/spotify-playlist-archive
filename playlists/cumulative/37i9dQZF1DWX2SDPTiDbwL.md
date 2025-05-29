@@ -4,7 +4,7 @@
 
 > El precioso sonido de la guitarra flamenca, perfecto para evadirte.
 
-116 songs - 7 hr 25 min
+117 songs - 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Moody Road \- Sensual Romantic Rumba](https://open.spotify.com/track/22qJyJvt8eh6Y1NxULDB0U) | [Gypsy Flamenco Masters](https://open.spotify.com/artist/3fvnWc7bLQVnkrtFI298rl) | [Flamenco Music \- Instrumental Spanish Flamenco Guitar, Original Acoustic Guitar Songs With Latin Jazz Band, Latin Dance Party](https://open.spotify.com/album/6Vwu4En2OT9sjMfwv23cKB) | 3:55 | 2023-09-01 |  |
 | [Moonstone](https://open.spotify.com/track/17yD0hbCcSMtYbPhkrBMph) | [Mark Barnwell](https://open.spotify.com/artist/7KT3M5b1sDWSIkh1AKl2um), [Al Marconi](https://open.spotify.com/artist/4Sd3PIPUKX5AHwME6qxG7O) | [Mandala](https://open.spotify.com/album/0SScNz53QNs2yLrKmj8sBY) | 4:49 | 2023-09-01 |  |
 | [Ojos de las Estrellas](https://open.spotify.com/track/344A5rwFf9gOulZPp06C42) | [Jim Stubblefield Group](https://open.spotify.com/artist/5IVxPvKxyxwoWyF2wrQLcQ) | [Rhythm of the Heart](https://open.spotify.com/album/2DHi5UXErkRa6Wvbd9Dvtk) | 5:36 | 2023-09-01 |  |
+| [Onyx](https://open.spotify.com/track/5vPIHZrhWQV4bJvEvMOdwa) | [Esmeralda Torres](https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp) | [Onyx](https://open.spotify.com/album/3xxdEs2WfbfsP14dXWdzEN) | 2:45 | 2025-05-28 |  |
 | [Oscar](https://open.spotify.com/track/4vHfQcd66AdYudYQkeM5eF) | [Diego de Frigiliana](https://open.spotify.com/artist/0ZA7bWb2UEatiixLiriYE7) | [Oscar](https://open.spotify.com/album/5AvUWcX6u0sDE6CyV0N5xB) | 2:34 | 2025-04-29 |  |
 | [Por Una Cabeza](https://open.spotify.com/track/6ZwB9Jtr64BbYYVo2fGGuc) | [Gypsy Flamenco Masters](https://open.spotify.com/artist/3fvnWc7bLQVnkrtFI298rl) | [Romantic Flamenco Music\- Acoustic Guitar Songs For Romance, Dining, Latin Party, Lounge & Relaxation](https://open.spotify.com/album/55YXKQiJuaokkwiOFLcp1i) | 3:02 | 2024-06-20 |  |
 | [Pureza](https://open.spotify.com/track/4TpElKeUtQ2JzMnajhWbMe) | [Rafael Riqueni](https://open.spotify.com/artist/5eye4DlE12OQi676MhZGM4) | [Pureza](https://open.spotify.com/album/6KHaXDnrVNVa2e2OpXk6Tp) | 4:19 | 2023-09-01 |  |

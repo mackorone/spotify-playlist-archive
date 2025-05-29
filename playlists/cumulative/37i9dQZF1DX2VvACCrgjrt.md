@@ -4,7 +4,7 @@
 
 > Real nasty house 🔥🔥 with Matroda
 
-1,057 songs - 2 day 6 hr 2 min
+1,058 songs - 2 day 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,6 +219,7 @@
 | [Connect](https://open.spotify.com/track/6An6JPuqOMgE9DV3Nk1u7A) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Jamakabi](https://open.spotify.com/artist/0kUmhavjjgQdru7TRPlLAC) | [Connect](https://open.spotify.com/album/1183FzAgAXFIGnGtzsrqxd) | 2:17 | 2025-02-14 |  |
 | [Connect](https://open.spotify.com/track/6H1fjrF5zmxUUdLerA7HkF) | [Kryder](https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O), [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj) | [Connect](https://open.spotify.com/album/4nLK2scPvvoKozMofiVPxr) | 2:51 | 2024-09-20 | 2025-05-09 |
 | [Consume It](https://open.spotify.com/track/3il0x7oS13YAfsmSWx6saa) | [Where It's ATT](https://open.spotify.com/artist/6sMtJ7VjiMiflyZCnTxEcD), [Veste](https://open.spotify.com/artist/0J3bkc9cinplW5YbSjTo5O) | [Consume It](https://open.spotify.com/album/5QkNAL0C8a1dnnAzAZCx07) | 3:03 | 2024-09-06 | 2025-03-01 |
+| [Control](https://open.spotify.com/track/1C32MtYI9URmJT5QTRQcCQ) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab), [Medium Rare](https://open.spotify.com/artist/5bt2kSI1bD3Xfc70srooOK) | [Control](https://open.spotify.com/album/6PNI9RU919oEt8mW0cV2Q4) | 2:35 | 2025-05-23 |  |
 | [Control](https://open.spotify.com/track/4wsage4Z1tdsj3sHDBnJBn) | [OOTORO](https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI) | [CULT CHROME](https://open.spotify.com/album/2xqDI5PPqMJJ9nsJCZ2F3f) | 3:06 | 2024-12-13 | 2025-01-29 |
 | [Count On You](https://open.spotify.com/track/7v9mYX2KjcQQtunwVbaKx4) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [Sian\-Lee](https://open.spotify.com/artist/0JiqigemaoIuLScw1UNRr0) | [Count On You](https://open.spotify.com/album/0Dgjg1kL5gX4bfvQrzujvH) | 2:45 | 2025-04-11 |  |
 | [Crank](https://open.spotify.com/track/5fgoTJczma2FibGrpuJNYj) | [BLEAM](https://open.spotify.com/artist/21b3kfHEAM3THTSpA92k57) | [Crank](https://open.spotify.com/album/01gLYobVbTc8yYKvrZVBfI) | 3:06 | 2022-02-04 | 2022-02-06 |
@@ -959,7 +960,7 @@
 | [Thick](https://open.spotify.com/track/1E6OXbDbUIo4sQPjGjtyYs) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Thick](https://open.spotify.com/album/49IPqVzx8Y0KJsR4HvvL9o) | 2:40 | 2022-02-18 | 2022-05-28 |
 | [Thick like an X5](https://open.spotify.com/track/4LwjD4XFseQ7qRhBGOsiVH) | [NIKK](https://open.spotify.com/artist/0WpOkyZny3FSpdF95rJBJP) | [Thick like an X5](https://open.spotify.com/album/69sMNI2sX15sVbojB2CvFX) | 2:36 | 2024-02-16 | 2024-03-02 |
 | [Think About You](https://open.spotify.com/track/3py90JCyIe5lcpy9c3UYll) | [Breez](https://open.spotify.com/artist/4x5ZAu3mkn46Q9awIrNYdQ), [Silvertone \(US\)](https://open.spotify.com/artist/2bWv7KRP44Qlh9kBEGyKYI), [Carrie Keller](https://open.spotify.com/artist/2Rl5lh15RzvEg0eEzfhzJQ) | [Think About You](https://open.spotify.com/album/2lXTyWkPlDOK6GFjtm67a2) | 3:19 | 2025-02-07 | 2025-04-12 |
-| [This One Crew](https://open.spotify.com/track/0rlnbRR2ETSLCJGxM5M9SB) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [Voltech](https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o) | [This One Crew](https://open.spotify.com/album/2ziCWYD9C55srHBgzVSFSX) | 2:53 | 2024-12-06 |  |
+| [This One Crew](https://open.spotify.com/track/0rlnbRR2ETSLCJGxM5M9SB) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [Voltech](https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o) | [This One Crew](https://open.spotify.com/album/2ziCWYD9C55srHBgzVSFSX) | 2:53 | 2024-12-06 | 2025-05-29 |
 | [THROW YA HANDS](https://open.spotify.com/track/2jT2E3T7lUMjkp7DQWu5aG) | [K3ONI](https://open.spotify.com/artist/0b6etxCHWEu50exqGbjOca) | [THROW YA HANDS](https://open.spotify.com/album/1feEQsUNT9mxG029gitfHm) | 3:30 | 2024-04-26 | 2024-05-18 |
 | [TIME](https://open.spotify.com/track/6Ui5bbINcHkcJM7c7qXyKj) | [AYOR](https://open.spotify.com/artist/5NzdRvsHUo8bIaIi7kTr74) | [TIME](https://open.spotify.com/album/7oKCEhzbHgertrWKkkKgxp) | 2:29 | 2022-07-15 | 2023-04-10 |
 | [Time For That](https://open.spotify.com/track/7rq8W4rsVd5JroaR7pBdLw) | [MorganJ](https://open.spotify.com/artist/5irwemCIBdwWYTZrcxX2UW) | [Time For That](https://open.spotify.com/album/38y77WXWV1xmMH49wXNCZ3) | 3:30 | 2024-03-15 | 2024-05-19 |

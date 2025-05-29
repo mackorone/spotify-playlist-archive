@@ -451,6 +451,24 @@
     },
     {
       "album": {
+        "name": "Mietzee",
+        "url": "https://open.spotify.com/album/6aPaVG3tb0UAxgzgVnIdg1"
+      },
+      "artists": [
+        {
+          "name": "Mietze Conte",
+          "url": "https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN"
+        }
+      ],
+      "date_added": "2025-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105600,
+      "name": "2000",
+      "url": "https://open.spotify.com/track/50WmaN9G4RyEo6imS11gD5"
+    },
+    {
+      "album": {
         "name": "The Alexander Technique",
         "url": "https://open.spotify.com/album/5HSZsS7TGsyMvur547zjVe"
       },

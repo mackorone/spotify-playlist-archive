@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-09-29",
-  "description": "What&#x27;s gonna be the song of the Summer 2025!? ",
+  "description": "What&#x27;s gonna be the song of the Summer 2025!?",
   "name": "Obama\u2019s Summer Playlist 2025",
   "tracks": [
     {
@@ -6717,6 +6717,24 @@
     },
     {
       "album": {
+        "name": "back in the summer",
+        "url": "https://open.spotify.com/album/5H5P0XlJ0pAW8SoC6cOndQ"
+      },
+      "artists": [
+        {
+          "name": "Slan",
+          "url": "https://open.spotify.com/artist/2hWj5kCyL026CxUymZEX8Z"
+        }
+      ],
+      "date_added": "2025-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "back in the summer",
+      "url": "https://open.spotify.com/track/3YHnmNESgz09msh1qv1cFb"
+    },
+    {
+      "album": {
         "name": "Back in Time",
         "url": "https://open.spotify.com/album/75hw7zV47ieqHxsKVZ0Dnk"
       },
@@ -6768,6 +6786,24 @@
       "duration_ms": 209482,
       "name": "Back On 74",
       "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
+    },
+    {
+      "album": {
+        "name": "Back to Black",
+        "url": "https://open.spotify.com/album/2gfPfNPf86A3OBSctCbfP9"
+      },
+      "artists": [
+        {
+          "name": "Estella Dawn",
+          "url": "https://open.spotify.com/artist/00SIMc8XBD6NezPkMpkMcL"
+        }
+      ],
+      "date_added": "2025-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150124,
+      "name": "Back to Black",
+      "url": "https://open.spotify.com/track/1K9sxWCWj6nFJvTqlwBB4O"
     },
     {
       "album": {
@@ -50975,6 +51011,24 @@
     },
     {
       "album": {
+        "name": "Make Time",
+        "url": "https://open.spotify.com/album/5IsgeqTbAzKKSIMk5U5ygp"
+      },
+      "artists": [
+        {
+          "name": "Arpita",
+          "url": "https://open.spotify.com/artist/6X1ZOnfJtkNfTVMH3aYVS0"
+        }
+      ],
+      "date_added": "2025-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204359,
+      "name": "Make Time",
+      "url": "https://open.spotify.com/track/4wznhUFYOrJBmueQaS1rJ3"
+    },
+    {
+      "album": {
         "name": "Make You",
         "url": "https://open.spotify.com/album/3TXQ2243awOWcyHvGjzU91"
       },
@@ -72521,7 +72575,7 @@
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 237874,
+      "duration_ms": 236727,
       "name": "Sky Meets The Water",
       "url": "https://open.spotify.com/track/18d9BbwniBUyWW89NLN69p"
     },
@@ -90872,7 +90926,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-29",
       "duration_ms": 150521,
       "name": "Whiskey Promises",
       "url": "https://open.spotify.com/track/5WKLnjjJz1byKHGRWY5JVh"

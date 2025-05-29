@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-05-24",
-  "description": "you're having a cozy, slow night in listening to the rain dripping on the windows.  \ud83c\udf27\ufe0f",
+  "description": "you're having a quiet, slow night in listening to the rain dripping on the windows.  \ud83c\udf27\ufe0f",
   "name": "a rainy night",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 147748,
       "name": "Ajna",
       "url": "https://open.spotify.com/track/60wsl84GfiI0vbMXe1oPeJ"
+    },
+    {
+      "album": {
+        "name": "Beyond Stillness",
+        "url": "https://open.spotify.com/album/3pRDKy533R54NSKRIsllzw"
+      },
+      "artists": [
+        {
+          "name": "Anapanasati",
+          "url": "https://open.spotify.com/artist/43WrziN4gBq2HqDXu2sQ9M"
+        }
+      ],
+      "date_added": "2025-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170632,
+      "name": "Beyond Stillness",
+      "url": "https://open.spotify.com/track/55ZNXydy4WrhDzy3yuA5qn"
     },
     {
       "album": {
@@ -272,6 +290,24 @@
       "duration_ms": 186282,
       "name": "Dream Phases",
       "url": "https://open.spotify.com/track/2RasknNLyt1a4LAirlaXUP"
+    },
+    {
+      "album": {
+        "name": "Dreamweaver",
+        "url": "https://open.spotify.com/album/2fqq9FrFEhCDJKCBG3oeiX"
+      },
+      "artists": [
+        {
+          "name": "Eclectic Elements",
+          "url": "https://open.spotify.com/artist/3xlagJKvA0REqZkIGa2sBr"
+        }
+      ],
+      "date_added": "2025-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257983,
+      "name": "Dreamweaver",
+      "url": "https://open.spotify.com/track/2SoUkJsCScTQ9GTumON8YS"
     },
     {
       "album": {

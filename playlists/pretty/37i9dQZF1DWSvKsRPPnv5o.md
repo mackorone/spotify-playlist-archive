@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: Snoop Dogg
 
-[Spotify](https://open.spotify.com/user/spotify) - 754,564 likes - 100 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 754,630 likes - 100 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [HOLLYWOOD \- feat\. Shoreline Mafia](https://open.spotify.com/track/0uAmR0yTDNAaXA5jPGOrir) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ) | [HOLLYWOOD \(feat\. Shoreline Mafia\)](https://open.spotify.com/album/0pg3WtuKm4GlckMugbml46) | 3:00 |
+| 1 | [HOLLYWOOD](https://open.spotify.com/track/0uAmR0yTDNAaXA5jPGOrir) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ) | [HOLLYWOOD](https://open.spotify.com/album/0pg3WtuKm4GlckMugbml46) | 3:00 |
 | 2 | [Gang Gang \(feat\. Rosecrans HopOut, YS, PhoPho8ight & Hitta J3\)](https://open.spotify.com/track/05LySLBjyDruvbSPL3K7Gb) | [Chef Boy](https://open.spotify.com/artist/0y9JScMVVW8sk3UoLZA3hj), [YS](https://open.spotify.com/artist/40jihEUOTuy5WTQDUTsZCN), [Hitta J3](https://open.spotify.com/artist/50DchbKTiJU56SYmIRSJCI), [Rosecrans HopOut](https://open.spotify.com/artist/7AUJ5xjiZaLesT26mrZG8M), [PHOPHO8IGHT](https://open.spotify.com/artist/43exFSfUqMqp3nlCLSQVwu) | [Gang Gang \(feat\. Rosecrans HopOut, YS, PhoPho8ight & Hitta J3\)](https://open.spotify.com/album/6ZV8jcdIqNa0py7I6w1UzT) | 3:47 |
 | 3 | [HEAT STICK](https://open.spotify.com/track/0HGItm7Ox9AnHZbx26nkE4) | [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb) | [HEAT STICK](https://open.spotify.com/album/6H2ObAyZHuAoj45tYexC1w) | 2:17 |
 | 4 | [pink whitney](https://open.spotify.com/track/5QVD21jVsQd2gbZCSlJxJO) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [310degrees](https://open.spotify.com/album/6ILh4lBjtyPaHYROZBISwO) | 2:02 |

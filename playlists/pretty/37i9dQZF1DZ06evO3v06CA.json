@@ -1,12 +1,12 @@
 {
   "description": "This is Willie Nelson. The essential tracks, all in one playlist.",
-  "num_followers": 201517,
+  "num_followers": 201530,
   "original_name": "This Is Willie Nelson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDOvAAAAAACAeZ36TSisAKwe9i+0ZO3F",
+  "snapshot_id": "aDUAgAAAAAAD1UBeNikN2CBHPsDnQwib",
   "tracks": [
     {
       "added_at": null,
@@ -779,26 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "French Touch",
-        "url": "https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ"
-      },
-      "artists": [
-        {
-          "name": "Carla Bruni",
-          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 183440,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/7INR1BCI0tZMtiBitUm2WN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Ballad of Dood & Juanita",
         "url": "https://open.spotify.com/album/5CigVuEyiAYaNYx2M2w4hh"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 220976,
       "name": "Juanita",
       "url": "https://open.spotify.com/track/0Vtik6x9dLUPNoyIoJZm9I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "French Touch",
+        "url": "https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ"
+      },
+      "artists": [
+        {
+          "name": "Carla Bruni",
+          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 183440,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/7INR1BCI0tZMtiBitUm2WN"
     },
     {
       "added_at": null,
@@ -1015,22 +1015,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oh What A Beautiful World",
-        "url": "https://open.spotify.com/album/7C2rtzfeP135vyNyzsmhfV"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 206426,
-      "name": "Banks Of The Old Bandera",
-      "url": "https://open.spotify.com/track/6pmsMuJXPeKMrDr2nLd47e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Yesterday's Wine",
         "url": "https://open.spotify.com/album/6ZraSUfutH0n071RZb3QZf"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 228560,
       "name": "Me and Paul",
       "url": "https://open.spotify.com/track/4vcDnnuHUmombz20IRkzRO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oh What A Beautiful World",
+        "url": "https://open.spotify.com/album/7C2rtzfeP135vyNyzsmhfV"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 206426,
+      "name": "Banks Of The Old Bandera",
+      "url": "https://open.spotify.com/track/6pmsMuJXPeKMrDr2nLd47e"
     },
     {
       "added_at": null,
@@ -1087,22 +1087,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oh What A Beautiful World",
-        "url": "https://open.spotify.com/album/7C2rtzfeP135vyNyzsmhfV"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 232066,
-      "name": "Open Season On My Heart",
-      "url": "https://open.spotify.com/track/3udOqXXzeoTpnFBAFjsyJN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "And Then I Wrote",
         "url": "https://open.spotify.com/album/2Bsr45EWfyrQEUDfGhJwyu"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 173001,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/0xqtcLB45iKNfHroi5y1em"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oh What A Beautiful World",
+        "url": "https://open.spotify.com/album/7C2rtzfeP135vyNyzsmhfV"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 232066,
+      "name": "Open Season On My Heart",
+      "url": "https://open.spotify.com/track/3udOqXXzeoTpnFBAFjsyJN"
     },
     {
       "added_at": null,
@@ -1135,6 +1135,26 @@
       "duration_ms": 211146,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/34jUlISPpEYnJqzPc7B7Sh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tuskegee (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5FnNO3IO6veN62ZdaV7j3z"
+      },
+      "artists": [
+        {
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 270573,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/2eA160jLLoHiJKOqvOFKJt"
     },
     {
       "added_at": null,
@@ -1247,26 +1267,6 @@
       "duration_ms": 240053,
       "name": "Oh What A Beautiful World - feat. Rodney Crowell",
       "url": "https://open.spotify.com/track/7ml1acXUTiwSm2WjtXYFbZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tuskegee (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5FnNO3IO6veN62ZdaV7j3z"
-      },
-      "artists": [
-        {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 270573,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/2eA160jLLoHiJKOqvOFKJt"
     },
     {
       "added_at": null,

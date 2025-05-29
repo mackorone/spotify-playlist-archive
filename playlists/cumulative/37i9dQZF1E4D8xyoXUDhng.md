@@ -2,7 +2,7 @@
 
 ### [Callie Day Radio](https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng)
 
-> With Sunday Service Choir, Dorothy Norwood, Amber Bullock and more
+> With Sunday Service Choir, Tasha Page\-Lockhart, Chicago Mass Choir and more
 
 1,744 songs - 5 day 11 hr 53 min
 

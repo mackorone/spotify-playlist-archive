@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2dqn7O.md) - [plain]
 
 > This is X Ambassadors\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,405 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,415 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2dqn7O.md) - [plain]
 | 44 | [Follow the Sound of My Voice \(OurVinyl Sessions\)](https://open.spotify.com/track/4eFuusfxsqiKxbkd1IrlBw) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [OurVinyl](https://open.spotify.com/artist/4MhBe0d439ToDXCWlT3wae) | [X Ambassadors \| OurVinyl Sessions](https://open.spotify.com/album/7eghKP5hH7lsBQJzVCCV8O) | 5:38 |
 | 45 | [Unconsolable](https://open.spotify.com/track/0jpoRHaMiyKNnCectzcXTv) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Love Songs Drug Songs](https://open.spotify.com/album/2gb0qB8risulVnHeXCqqhK) | 3:36 |
 | 46 | [Drive](https://open.spotify.com/track/5txx1olGftHbwwArf49YPX) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Townies](https://open.spotify.com/album/4FnVrYIOQ9ViAMajN0AXQg) | 2:59 |
-| 47 | [Great Unknown \- From The Motion Picture “The Call Of The Wild"](https://open.spotify.com/track/4u2uQ7G1nzZJ7yHA6Dzg7z) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Great Unknown \(From The Motion Picture “The Call Of The Wild”\)](https://open.spotify.com/album/3XHdRknn2OGMY34vYRcgtu) | 3:06 |
-| 48 | [Hoping](https://open.spotify.com/track/3BymzRCyTpah2tLfjXuMok) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Hoping](https://open.spotify.com/album/7z2pCwRH2d2Lydl7wncoH9) | 3:13 |
+| 47 | [Hoping](https://open.spotify.com/track/3BymzRCyTpah2tLfjXuMok) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Hoping](https://open.spotify.com/album/7z2pCwRH2d2Lydl7wncoH9) | 3:13 |
+| 48 | [Great Unknown \- From The Motion Picture “The Call Of The Wild"](https://open.spotify.com/track/4u2uQ7G1nzZJ7yHA6Dzg7z) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Great Unknown \(From The Motion Picture “The Call Of The Wild”\)](https://open.spotify.com/album/3XHdRknn2OGMY34vYRcgtu) | 3:06 |
 | 49 | [Your Town \(OurVinyl Sessions\)](https://open.spotify.com/track/1vjPsWcTGJmBf7slcjSMul) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [OurVinyl](https://open.spotify.com/artist/4MhBe0d439ToDXCWlT3wae) | [X Ambassadors \| OurVinyl Sessions](https://open.spotify.com/album/7eghKP5hH7lsBQJzVCCV8O) | 4:52 |
 | 50 | [Cannonball](https://open.spotify.com/track/1Ez4p27fWkO7j9F1o5aHOD) | [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Cannonball](https://open.spotify.com/album/5xL9BEb10q8us1fRdQdGkm) | 3:55 |
 
-Snapshot ID: `aDOvAAAAAAD4YsSgDdrvmoh0FxUJiZhp`
+Snapshot ID: `aDUAgAAAAACMiaZXXkmHvFAZuDEUY+rC`

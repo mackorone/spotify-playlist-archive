@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Rich Brian\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,813 likes - 119 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,827 likes - 119 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Jumpy \(feat\. Ski Mask The Slump God\)](https://open.spotify.com/track/49P2pxfkLZa4yfjCRLu0zS) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a), [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [Jumpy \(feat\. Ski Mask The Slump God\)](https://open.spotify.com/album/6fskhLyVR5TOU9yAEYtVXQ) | 2:36 |
 | 2 | [GoROUND](https://open.spotify.com/track/4YtuYDR319Xp5GsguDOMcw) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [GoROUND](https://open.spotify.com/album/4sCHp2XDbooZoty8Hq4foY) | 2:01 |
 | 3 | [Helium \(feat\. X Ambassadors\)](https://open.spotify.com/track/2ej8Av0xMTBQwNIt0QeLbS) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Helium](https://open.spotify.com/album/22N0FVAflIZLGdkCm7Np2U) | 2:48 |
-| 4 | [HOLLYWOOD \- feat\. Shoreline Mafia](https://open.spotify.com/track/0uAmR0yTDNAaXA5jPGOrir) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ) | [HOLLYWOOD \(feat\. Shoreline Mafia\)](https://open.spotify.com/album/0pg3WtuKm4GlckMugbml46) | 3:00 |
+| 4 | [HOLLYWOOD](https://open.spotify.com/track/0uAmR0yTDNAaXA5jPGOrir) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ) | [HOLLYWOOD](https://open.spotify.com/album/0pg3WtuKm4GlckMugbml46) | 3:00 |
 | 5 | [Ouiiiii อุ้ย!!!](https://open.spotify.com/track/7y2P5qhxGiWVWs2yM0S8U4) | [DABOYWAY](https://open.spotify.com/artist/6p0woWDfWgd5EAX7HFzZ7d), [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis) | [Ouiiiii อุ้ย!!!](https://open.spotify.com/album/2ZgPdK0jPYOKJ4EoGKvksz) | 3:03 |
 | 6 | [Don't Say I Never Loved You \(DSINLY\)](https://open.spotify.com/track/7KmuYmySYyCGXOa7iBgt6t) | [Bloodlyne](https://open.spotify.com/artist/6r2NRFjucCptbMJHvRtLXL) | [Don't Say I Never Loved You \(DSINLY\)](https://open.spotify.com/album/1NwzftYAtUn6yMuJqJ6SYK) | 3:16 |
 | 7 | [My G's \(feat\. SEEDA\)](https://open.spotify.com/track/1uo0oC9gTWFfdpBKk6yAqN) | [AK\-69](https://open.spotify.com/artist/4Wet9Sqa5LrEjBeV4k6edh), [SEEDA](https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY) | [My G's](https://open.spotify.com/album/6ar2qX5A53xuQgd44G6KOF) | 3:18 |
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 118 | [DILEMMA \(feat\. Central Cee\)](https://open.spotify.com/track/1OrR5tTnYaryjbfZ8Jl2wT) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [RENT'S DUE](https://open.spotify.com/album/3uKar0bX3b6g6YcLrGDDuD) | 2:40 |
 | 119 | [Burning slow \(feat\. Sik\-K, GGM LIL DRAGON\) \- Remix](https://open.spotify.com/track/5q7uQrUfdGIrTnspd8tYu6) | [Molly Yam](https://open.spotify.com/artist/52Rh1eNJIw4i8E3qZGTSHP), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [GGM LIL DRAGON](https://open.spotify.com/artist/41mlkzYR9tlZ8ZByH6yhCS) | [Burning slow \(feat\. Sik\-K, GGM LIL DRAGON\) \[Remix\]](https://open.spotify.com/album/7s2DOIB1K1zx8Lf0AF9Ivh) | 2:50 |
 
-Snapshot ID: `aDAdDwAAAABfJmCuqHRq060NHZiianX7`
+Snapshot ID: `aDAdDwAAAACkx/AGmdTjGwEV/yDJU9bc`

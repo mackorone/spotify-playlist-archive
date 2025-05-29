@@ -4,7 +4,7 @@
 
 > Todos los cumbieros con las manos bien arriba haciendo palmas 💃🏾🕺🏾🏝
 
-273 songs - 15 hr 33 min
+274 songs - 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [La Bachata](https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [La Bachata](https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2) | 2:42 | 2023-02-02 |  |
 | [La Culebritica](https://open.spotify.com/track/5XnvzXPcvukZZI3woD08Fc) | [Grupo 5](https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6) | [La Amante](https://open.spotify.com/album/5QkNCgBdG30U0yRRHOolPq) | 3:49 | 2024-02-23 |  |
 | [La Cumbia De La Baliniza](https://open.spotify.com/track/4sNnFf3VjtL0biCWSiI6BF) | [Los Cómplices](https://open.spotify.com/artist/5VWS9FUu81CLfq7i7tLHXn), [Yahir Saldivar](https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ) | [La Cumbia De La Baliniza](https://open.spotify.com/album/0rrk5OiasAkClqvriMUPwc) | 2:47 | 2024-01-04 | 2024-08-14 |
+| [La Cumbia De Los Trapos](https://open.spotify.com/track/79yOF3p0RbIAnrxxF8wiPS) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [Cumbia Villera](https://open.spotify.com/album/42K3CKzIBfuN9YnIZgLzmd) | 4:11 | 2025-05-28 |  |
 | [LA CUMBIA DEL CASTOR](https://open.spotify.com/track/6vFDrAOD5Hck0EtaSBpH4L) | [Yahir Saldivar](https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ) | [LA CUMBIA DEL CASTOR](https://open.spotify.com/album/3Fy9gqW5EkzKam7mINGrIy) | 4:10 | 2024-03-08 | 2024-05-04 |
 | [La Cumbia Triste](https://open.spotify.com/track/2sAFBZ8a7uTT7tsAsjoUzo) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [La Cumbia Triste](https://open.spotify.com/album/7DSLHSjqV7CCjNa1NxKi2P) | 3:30 | 2024-03-27 | 2024-11-16 |
 | [La Cumbia Triste](https://open.spotify.com/track/5tsZWdsk2emPhUXNYs5Jnr) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [La Cumbia Triste](https://open.spotify.com/album/2GKBfuu1ab0QKzOpyrvMva) | 3:30 | 2024-03-01 | 2024-04-15 |

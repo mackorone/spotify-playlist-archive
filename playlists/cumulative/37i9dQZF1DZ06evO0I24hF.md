@@ -4,13 +4,13 @@
 
 > This is Gigi Perez\. The essential tracks, all in one playlist.
 
-20 songs - 1 hr 21 min
+21 songs - 1 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [At The Beach, In Every Life](https://open.spotify.com/track/5LfgzPHvka22FdRAxOme6m) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [At The Beach, In Every Life](https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl) | 3:57 | 2025-04-27 |  |
 | [Chemistry](https://open.spotify.com/track/0VySCkMP67vSTy9IrzbvHE) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Chemistry](https://open.spotify.com/album/5L6B0gqE9CCOWwq783IaNZ) | 4:44 | 2025-04-26 |  |
-| [Crown](https://open.spotify.com/track/3hdKErsbStsSN9sTIvtn25) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [At The Beach, In Every Life](https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl) | 4:46 | 2025-04-27 |  |
+| [Crown](https://open.spotify.com/track/3hdKErsbStsSN9sTIvtn25) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [At The Beach, In Every Life](https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl) | 4:46 | 2025-04-27 | 2025-05-29 |
 | [Fable](https://open.spotify.com/track/1e0vsza0hIVYv9Mkz542qn) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Fable](https://open.spotify.com/album/74JuKBkLUssHnghX4WusJw) | 4:21 | 2025-04-26 |  |
 | [Glue](https://open.spotify.com/track/4EbwhvDv0TFLN7SjuOUjym) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [How To Catch A Falling Knife](https://open.spotify.com/album/4y09e5XNcSik8Vfnam7Tj4) | 5:17 | 2025-04-26 |  |
 | [Karma](https://open.spotify.com/track/4W4UK2NM6pkYQ1NTfFnhBU) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [How To Catch A Falling Knife](https://open.spotify.com/album/4y09e5XNcSik8Vfnam7Tj4) | 4:58 | 2025-04-26 |  |
@@ -18,7 +18,8 @@
 | [Normalcy](https://open.spotify.com/track/2cTVoD2dYSjsxHbtvKsAHq) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Normalcy](https://open.spotify.com/album/26YO9YcV0B83XJPMCYSP0H) | 5:38 | 2025-04-26 | 2025-05-10 |
 | [Normalcy](https://open.spotify.com/track/44FrsRwZEDZHgLbbObA8Z4) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [At The Beach, In Every Life](https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl) | 5:38 | 2025-05-10 |  |
 | [Nothing, Absolutely](https://open.spotify.com/track/4ST1nbdDie0CFmDd9mINwO) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [At The Beach, In Every Life](https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl) | 3:45 | 2025-04-27 |  |
-| [Please Be Rude](https://open.spotify.com/track/2ORD5RHyZI9LGibgqcwr3v) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Please Be Rude](https://open.spotify.com/album/2fFmsiZkJxjGvBFMGFxpOf) | 3:00 | 2025-04-26 |  |
+| [Please Be Rude](https://open.spotify.com/track/2ORD5RHyZI9LGibgqcwr3v) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Please Be Rude](https://open.spotify.com/album/2fFmsiZkJxjGvBFMGFxpOf) | 3:00 | 2025-04-26 | 2025-05-29 |
+| [Please Be Rude](https://open.spotify.com/track/7bLFtDcAmwVD3pw7zTUfmy) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [At The Beach, In Every Life](https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl) | 3:00 | 2025-05-29 |  |
 | [Sailor Song](https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e) | 3:31 | 2025-04-26 |  |
 | [Sally](https://open.spotify.com/track/04hrNRA9fRCWPNf8jjEUBJ) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [How To Catch A Falling Knife](https://open.spotify.com/album/4y09e5XNcSik8Vfnam7Tj4) | 4:33 | 2025-04-26 |  |
 | [Sleeping](https://open.spotify.com/track/3x8ZN5mCjRNuHkCgqRAaob) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [At The Beach, In Every Life](https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl) | 3:52 | 2025-04-27 |  |

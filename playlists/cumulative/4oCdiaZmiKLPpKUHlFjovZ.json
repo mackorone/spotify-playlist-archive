@@ -525,6 +525,28 @@
     },
     {
       "album": {
+        "name": "Black Man",
+        "url": "https://open.spotify.com/album/6ILl9Q8JoNZhNkuRkjLPkY"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        },
+        {
+          "name": "Cardo Got Wings",
+          "url": "https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p"
+        }
+      ],
+      "date_added": "2025-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160318,
+      "name": "Black Man",
+      "url": "https://open.spotify.com/track/4uN65YkcvoHVJdI9Q8zCPj"
+    },
+    {
+      "album": {
         "name": "Blink Twice",
         "url": "https://open.spotify.com/album/33EhLLKE9Bo2v3ITgAxvuW"
       },
@@ -3108,6 +3130,24 @@
       "duration_ms": 199626,
       "name": "West Coast Weekend",
       "url": "https://open.spotify.com/track/3qnznOzVFYuDWjidDAxEV4"
+    },
+    {
+      "album": {
+        "name": "The Big Bang",
+        "url": "https://open.spotify.com/album/20pOEJXUCejxsAp14Uuc2e"
+      },
+      "artists": [
+        {
+          "name": "Fredo Bang",
+          "url": "https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv"
+        }
+      ],
+      "date_added": "2025-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230591,
+      "name": "Won't Be Lonely",
+      "url": "https://open.spotify.com/track/1IV5X8CiOr1dfbQcmP2AWO"
     },
     {
       "album": {

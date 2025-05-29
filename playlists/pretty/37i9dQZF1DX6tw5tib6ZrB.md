@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tw5tib6ZrB.md) - [plain]
 
 > Monster Hiphop anthems to unlock your day\. Tracks from Bossman Dlow, 42 Dugg, Rob49, JID and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,643 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,669 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tw5tib6ZrB.md) - [plain]
 | 23 | [GBP \(feat\. 21 Savage\)](https://open.spotify.com/track/5emD8K39MmotlCLOx9qzCH) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [GBP \(feat\. 21 Savage\)](https://open.spotify.com/album/4Ep5kfo5Z40qVV0vBYC8De) | 2:34 |
 | 24 | [Hoochie Coochie](https://open.spotify.com/track/7ygjfxmmkgPN0nbyYOMD2T) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hoochie Coochie](https://open.spotify.com/album/3AGhrLfPdpOZQnI7s5GBjz) | 2:27 |
 | 25 | [No Sweat](https://open.spotify.com/track/0K0jgfFssBL0Q5IcFMrsSz) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [No Sweat](https://open.spotify.com/album/6gUOpZLzz8nEAHgLRW9kxZ) | 2:35 |
-| 26 | [Paid In Full \(feat\. Big Zuu, Wax, Ets & D7\)](https://open.spotify.com/track/5wzNTV981iD8f21ZrJGymT) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U), [Big Zuu](https://open.spotify.com/artist/3FyA6R41UYLDXfRRcaOhh5), [Wax](https://open.spotify.com/artist/2aFHxt3VFFnhNYik32Pvvt), [D7](https://open.spotify.com/artist/3YOZTsZa2dczQKpodqy2yS), [Ets](https://open.spotify.com/artist/1TnWkpc34IlvMmNTmb1J9C) | [Paid In Full \(feat\. Big Zuu, Wax, Ets & D7\)](https://open.spotify.com/album/117WybpWbay0WPbk0LBQY1) | 3:16 |
+| 26 | [Paid In Full \(feat\. Big Zuu, Wax, Ets & D7\)](https://open.spotify.com/track/5wzNTV981iD8f21ZrJGymT) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U), [Big Zuu](https://open.spotify.com/artist/3FyA6R41UYLDXfRRcaOhh5), [Wax](https://open.spotify.com/artist/2aFHxt3VFFnhNYik32Pvvt), [Ets](https://open.spotify.com/artist/1TnWkpc34IlvMmNTmb1J9C), [D7](https://open.spotify.com/artist/3YOZTsZa2dczQKpodqy2yS) | [Paid In Full \(feat\. Big Zuu, Wax, Ets & D7\)](https://open.spotify.com/album/117WybpWbay0WPbk0LBQY1) | 3:16 |
 | 27 | [My God](https://open.spotify.com/track/3ZC1Mj36GIjc7TY7kW6xCS) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [My God](https://open.spotify.com/album/2VJ1XXZ0nj8w5aMCKFRRFp) | 3:21 |
 | 28 | [Home Sweet Home](https://open.spotify.com/track/70bb572cerUzxcqoIBBC3O) | [Wretch 32](https://open.spotify.com/artist/0T2sGLJKge2eaFmZJxX7sq), [Kano](https://open.spotify.com/artist/50nN8IFD4xA67fI4jYbLV4) | [HOME?](https://open.spotify.com/album/4yCHmmmhJDMVgHO1nC9gZo) | 4:08 |
 | 29 | [4X4](https://open.spotify.com/track/6s8WSX1MxNThrot8ThI6fG) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [4X4](https://open.spotify.com/album/5HAxzyUfyay8NElNaehsNe) | 3:10 |

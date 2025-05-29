@@ -1353,28 +1353,6 @@
     },
     {
       "album": {
-        "name": "Schumann: Kreisleriana; Kinderszenen; Fantasiest\u00fccke",
-        "url": "https://open.spotify.com/album/5vek6eoWa9v7lhnV2IbYWW"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Alfred Brendel",
-          "url": "https://open.spotify.com/artist/5vBh0nve44zwwVF5KWtCwA"
-        }
-      ],
-      "date_added": "2020-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 150600,
-      "name": "Kinderszenen, Op. 15: 7. Tr\u00e4umerei",
-      "url": "https://open.spotify.com/track/7rrDSYbroZhV6aKkbYxiuG"
-    },
-    {
-      "album": {
         "name": "Schumann: Kinderszenen; Kreisleriana",
         "url": "https://open.spotify.com/album/6sxH5yHob34qbhbYjYWjsX"
       },
@@ -1416,6 +1394,28 @@
       "duration_ms": 48106,
       "name": "Kinderszenen, Op. 15: No. 5, Gl\u00fcckes genug",
       "url": "https://open.spotify.com/track/5qQqJuT1RPEthmfp3amYWW"
+    },
+    {
+      "album": {
+        "name": "Schumann: Kreisleriana; Kinderszenen; Fantasiest\u00fccke",
+        "url": "https://open.spotify.com/album/5vek6eoWa9v7lhnV2IbYWW"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Alfred Brendel",
+          "url": "https://open.spotify.com/artist/5vBh0nve44zwwVF5KWtCwA"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150600,
+      "name": "Kinderszenen, Op. 15: VII. Tr\u00e4umerei",
+      "url": "https://open.spotify.com/track/7rrDSYbroZhV6aKkbYxiuG"
     },
     {
       "album": {

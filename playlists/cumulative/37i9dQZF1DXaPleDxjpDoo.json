@@ -2999,6 +2999,24 @@
     },
     {
       "album": {
+        "name": "Sanctuary",
+        "url": "https://open.spotify.com/album/1Mm91Huwj8XSwn2Z6IqarA"
+      },
+      "artists": [
+        {
+          "name": "Eldrelder",
+          "url": "https://open.spotify.com/artist/3TrVbyS2m9PyOxsjoPos7Z"
+        }
+      ],
+      "date_added": "2025-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183030,
+      "name": "Sanctuary",
+      "url": "https://open.spotify.com/track/2YKksuNNjRneaDHplGZkhJ"
+    },
+    {
+      "album": {
         "name": "Sanguine",
         "url": "https://open.spotify.com/album/0yJ6y7fatKw6R47DIhCQxj"
       },

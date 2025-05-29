@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 
 > The biggest house bangers popping off in the UK, let's go! Cover: Gorgon City, Caroline Byrne
 
-[Spotify](https://open.spotify.com/user/spotify) - 751,247 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 751,198 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 | 99 | [Devi](https://open.spotify.com/track/4y3GqzgcaY3RFajEg5mOkV) | [Angel Lee](https://open.spotify.com/artist/2wu5DECdLoNlHYwdZQ592R) | [DEVI](https://open.spotify.com/album/7mwWM9EpT4J6RRb0xzlD4k) | 2:52 |
 | 100 | [Holding Back](https://open.spotify.com/track/3PY4LMTRDGzg9wXq4tB9cE) | [Azzecca](https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj) | [Holding Back](https://open.spotify.com/album/7vH5NAAUkYccDgk37OZcmc) | 3:45 |
 
-Snapshot ID: `aC+sfQAAAADZDXbA10S3X6/vYFgobypw`
+Snapshot ID: `aC+sfQAAAACcK44JbvC0XftFCTzIMs6Z`

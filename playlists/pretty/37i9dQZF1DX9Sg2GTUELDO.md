@@ -501,4 +501,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 | 491 | [座右銘](https://open.spotify.com/track/0wrcgFagQjRcXmuGRm8p0C) | [Kary Ng](https://open.spotify.com/artist/3B9ZmIcte26paTCaI1PFKE) | [In Control](https://open.spotify.com/album/687bmgPYRYsFGrdnRfTniL) | 3:56 |
 | 492 | [Mad](https://open.spotify.com/track/1coCAB4dyoJQBapGAvS3Co) | [AGA](https://open.spotify.com/artist/1opXC6lrFxsiDks53X5d3Q) | [Mad](https://open.spotify.com/album/5TkvoT5zEYhBoQA7bnK7g5) | 4:11 |
 
-Snapshot ID: `AAAAAIhU+O/QZPaieD4lwsvnlBhXHQne`
+Snapshot ID: `aC9KHAAAAACpplHNWyIUfCq68WYQbtIG`

@@ -2,9 +2,9 @@
 
 ### [Pakka Hit Hai](https://open.spotify.com/playlist/37i9dQZF1DX6TT2YOPM1n3)
 
-> Home to Pakistani Hits\. Cover: Samar Jafri
+> Home to Pakistani Hits\. Cover: Afusic
 
-214 songs - 14 hr 31 min
+215 songs - 14 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [Jo Tu Na Mila](https://open.spotify.com/track/6DefzsWqnwrFrmNVnJxWkS) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Jo Tu Na Mila](https://open.spotify.com/album/4KSvSqPJwTo7qMxP4XyIaH) | 3:54 | 2023-05-04 |  |
 | [Jo Tu Na Mila x Habibi \(Mashup\)](https://open.spotify.com/track/2weDNfUaaHIy5ck06qCJ54) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS), [Arshman Naeem](https://open.spotify.com/artist/2WF847myArLiNE7Cjs9kgD) | [Jo Tu Na Mila x Habibi \(Mashup\)](https://open.spotify.com/album/3zbB8G3qBkAK74gobhZ3RB) | 3:09 | 2023-05-04 | 2023-11-30 |
 | [Joona](https://open.spotify.com/track/18twglRl0wFIIMtFOy2CHs) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR) | [Joona](https://open.spotify.com/album/3ziCoUwiVpBO2DHkMh3UH5) | 3:09 | 2023-05-04 | 2023-11-30 |
-| [Judai](https://open.spotify.com/track/2wZvpX0owdzYg8e8HSfIgV) | [Ali & Shjr](https://open.spotify.com/artist/7GquqOIWZX7FNjsUYNjOKy), [Ali Raza](https://open.spotify.com/artist/2URzIJH7QfPgMAEPErd0cC), [Shajjar Hussain](https://open.spotify.com/artist/485dW6YyuxW3kpnWmuFnnv) | [Judai](https://open.spotify.com/album/3IZe3XakLgSYMVsVcF4XlX) | 3:00 | 2025-05-01 |  |
+| [Judai](https://open.spotify.com/track/2wZvpX0owdzYg8e8HSfIgV) | [Ali & Shjr](https://open.spotify.com/artist/7GquqOIWZX7FNjsUYNjOKy), [Ali Raza](https://open.spotify.com/artist/2URzIJH7QfPgMAEPErd0cC), [Shajjar Hussain](https://open.spotify.com/artist/485dW6YyuxW3kpnWmuFnnv) | [Judai](https://open.spotify.com/album/3IZe3XakLgSYMVsVcF4XlX) | 3:00 | 2025-05-01 | 2025-05-29 |
 | [Jurmana](https://open.spotify.com/track/76pWGIqdI2d7X4MmoUT4L5) | [Kaifi Khalil](https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9) | [Jurmana](https://open.spotify.com/album/1LaWqK7YRtxm9ecqEne6Fj) | 2:53 | 2024-01-12 | 2024-08-10 |
 | [Just Us](https://open.spotify.com/track/3wm5N6UAVYLF1lRQMW8t0C) | [Aashir Wajahat](https://open.spotify.com/artist/4Kd6rJWBl4KpwRYct9PFMo) | [Just Us](https://open.spotify.com/album/1s5gQHicm3JMqyyia8YcpF) | 2:48 | 2024-06-14 | 2024-12-29 |
 | [Kabhi Mein Kabhi Tum](https://open.spotify.com/track/3Sz9b5LuyZ48AFgc37Db8v) | [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [Kabhi Mein Kabhi Tum](https://open.spotify.com/album/59GXnJVnXGqQHza4Cy2Gdo) | 3:33 | 2024-06-14 | 2024-06-22 |
@@ -116,6 +116,7 @@
 | [Karma](https://open.spotify.com/track/5mowfsyfcMHPljgxVMjtQL) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5) | [BEMATLAB](https://open.spotify.com/album/5FxaP7bs11XrDUAza4z5es) | 4:00 | 2024-04-29 | 2024-06-15 |
 | [Kaun Talha](https://open.spotify.com/track/0euDWZG2g1Cw12TDyLQUKu) | [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Kaun Talha](https://open.spotify.com/album/79kk4fBrppufcwHKZ6SspP) | 4:29 | 2024-06-24 |  |
 | [Kehdena](https://open.spotify.com/track/6o8tuwVDjGn3fUoiFsNNba) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [ChillBazaar](https://open.spotify.com/artist/2NAjKl5QHznzsMfHy6cGOJ) | [Kehdena](https://open.spotify.com/album/3apaPtqSwlQoQBiWFmWZu1) | 3:49 | 2023-05-24 | 2023-05-31 |
+| [Kehdo Na](https://open.spotify.com/track/5UNN2SnmrqvYMFpREy7vZz) | [JANI](https://open.spotify.com/artist/63L8XYlQRWRGlg1d4ujXDc), [Rithmetic](https://open.spotify.com/artist/3cX78aMow7ykBLA6cTnB3a) | [Kehdo Na](https://open.spotify.com/album/7zWYyvK6weW41BYS5vd7hV) | 3:03 | 2025-05-28 |  |
 | [Khabram Raseed Imshab](https://open.spotify.com/track/7DCNxzlo5IPcMRxo7ac8JP) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Chain of Light](https://open.spotify.com/album/7FBtn9gCsJh6UV0GwaZY77) | 11:28 | 2024-09-20 | 2024-09-24 |
 | [Khwabeeda](https://open.spotify.com/track/2hYgz7q5qhBeRiKIdChC83) | [Farhan Saeed](https://open.spotify.com/artist/1W67L8OH9z7C3b9YJJbVYq), [Nirmaan](https://open.spotify.com/artist/3yCmFr0jQ0hRoaEjpp7Clh) | [Khwabeeda](https://open.spotify.com/album/7oE5nV1wTd9wvEZbM8qi02) | 2:43 | 2025-02-17 | 2025-04-12 |
 | [Kismat](https://open.spotify.com/track/1nSv0cisN87jlAiXHjZ3KM) | [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C), [HASHAM](https://open.spotify.com/artist/3b2KqMPwMeN8zchJ9CljtG) | [Kismat](https://open.spotify.com/album/7kI8KZ9l4NUQMM9ULNU9wk) | 2:53 | 2024-12-04 | 2024-12-20 |

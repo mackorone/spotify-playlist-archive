@@ -4,7 +4,7 @@
 
 > Meet the future\.  Cover: JANI
 
-109 songs - 6 hr 0 min
+110 songs - 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Kahani Suno 2.0](https://open.spotify.com/track/4VsP4Dm8gsibRxB5I2hEkw) | [Kaifi Khalil](https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9) | [Kahani Suno 2.0](https://open.spotify.com/album/6BHlJhCk1vjCG6hqTG2SFV) | 2:53 | 2023-07-31 |  |
 | [Kali Raat](https://open.spotify.com/track/74UHCurjieq16JY1saeasF) | [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS), [Zaw Ali](https://open.spotify.com/artist/19LdEP3vvsc2BJ4Vj7IRLI) | [TURBO](https://open.spotify.com/album/2Rnc46rrppQJeRnaK80GFP) | 2:58 | 2023-10-05 |  |
 | [Kehdena](https://open.spotify.com/track/6o8tuwVDjGn3fUoiFsNNba) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [ChillBazaar](https://open.spotify.com/artist/2NAjKl5QHznzsMfHy6cGOJ) | [Kehdena](https://open.spotify.com/album/3apaPtqSwlQoQBiWFmWZu1) | 3:49 | 2023-07-31 |  |
+| [Kehdo Na](https://open.spotify.com/track/5UNN2SnmrqvYMFpREy7vZz) | [JANI](https://open.spotify.com/artist/63L8XYlQRWRGlg1d4ujXDc), [Rithmetic](https://open.spotify.com/artist/3cX78aMow7ykBLA6cTnB3a) | [Kehdo Na](https://open.spotify.com/album/7zWYyvK6weW41BYS5vd7hV) | 3:03 | 2025-05-28 |  |
 | [Khair](https://open.spotify.com/track/3rXGNW4iX1XcbJVx2N4qev) | [Kaifi Khalil](https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9) | [Khair](https://open.spotify.com/album/1egKAuUTNnYFWXwdWWfeRg) | 2:45 | 2024-08-09 |  |
 | [Khushnaseebi](https://open.spotify.com/track/6pnSZHW0QYr6OYd3oXLXL5) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1) | [Khushnaseebi](https://open.spotify.com/album/6UFJPoceIxfmjOMeodyGFu) | 2:35 | 2024-08-16 |  |
 | [Kids](https://open.spotify.com/track/2qTqeKMywXEsWbrdYr5OxP) | [Abdullah Siddiqui](https://open.spotify.com/artist/3PbkSdpJnYRF18jau74b7R), [Shamoon Ismail](https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv) | [Heterotopia](https://open.spotify.com/album/1npykN4Zpbo7FQR61o1oAr) | 3:49 | 2023-07-31 | 2024-07-23 |

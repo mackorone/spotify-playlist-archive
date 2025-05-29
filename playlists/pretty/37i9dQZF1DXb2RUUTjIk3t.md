@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2RUUTjIk3t.md) - [plain]
 
 > Beautiful indie tracks from around the world\. Cover: beabadoobee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,400 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,411 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2RUUTjIk3t.md) - [plain]
 | 50 | [I Guess](https://open.spotify.com/track/0hzVEWIYibIGxMdn2NkjXw) | [See You Next Year](https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv), [Ekkstacy](https://open.spotify.com/artist/1zCiff0Qh7vaL9CoFb2wiy), [MIKE DEAN](https://open.spotify.com/artist/5TAipisjquAkq2o7lzMJyc) | [Pigeons & Planes presents: See You Next Year](https://open.spotify.com/album/7kcpj6h0JGPKOh59ZvbUdm) | 2:54 |
 | 51 | [Mélodie](https://open.spotify.com/track/2F8tzUI4guwXpszgwaRBCX) | [Mon Doux Saigneur](https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x) | [Fleur de l'Âge](https://open.spotify.com/album/6Aj0vdfEBYeHmOiFFjZJev) | 2:30 |
 | 52 | [Hi\-Fidelity](https://open.spotify.com/track/6bkedSfBm08y2ZWRl4v4iK) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Hi\-Fidelity](https://open.spotify.com/album/0ggU3YqRVqieE3EThAiNl7) | 3:19 |
-| 53 | [The Underground](https://open.spotify.com/track/111ZlqKl6XMouxYalfUQl4) | [THE MOON](https://open.spotify.com/artist/3DfX25iwobGwgawuvpR7fB), [Sapir Shoval](https://open.spotify.com/artist/0s0mfbnDDXbblyKKK2NkeF) | [The Underground](https://open.spotify.com/album/4hjqzZDXRI4GnMgKFv1tuN) | 3:32 |
+| 53 | [The Underground](https://open.spotify.com/track/111ZlqKl6XMouxYalfUQl4) | [THE MOON](https://open.spotify.com/artist/3DfX25iwobGwgawuvpR7fB), [Mama Polin](https://open.spotify.com/artist/6KNM9o5E05WcTCvJ1hiocs) | [The Underground](https://open.spotify.com/album/4hjqzZDXRI4GnMgKFv1tuN) | 3:32 |
 | 54 | [OTT](https://open.spotify.com/track/7vfVFDOOwErIDLt2vi2Q3W) | [hard life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [MAYBE IN ANOTHER LIFE...](https://open.spotify.com/album/5vvbek95UXDUAbdeDArk7m) | 2:37 |
 | 55 | [We're Still Young](https://open.spotify.com/track/1RYzVm4glRGlTZw8kSZF32) | [Oak Glen](https://open.spotify.com/artist/2zS2pX7GUtR5voVkO2orYq) | [We're Still Young](https://open.spotify.com/album/4ZrmZ3ztJzEXtWfRDU38Fc) | 3:22 |
 | 56 | [Killing Me](https://open.spotify.com/track/5BhK8Mho223YLPQOLfzWNP) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 2:45 |

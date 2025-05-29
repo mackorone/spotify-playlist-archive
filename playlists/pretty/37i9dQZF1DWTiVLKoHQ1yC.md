@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 
 > Come alive with this progressive & melodic house selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,676 likes - 60 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,782 likes - 60 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 51 | [Oblivion](https://open.spotify.com/track/6nuqo0u5Ex03YMRL0SdyLs) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ), [Nu\-La](https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR) | [Oblivion](https://open.spotify.com/album/2K5l5X07mVNjRbJ0myFG9X) | 3:39 |
 | 52 | [Shallow Water](https://open.spotify.com/track/74gSgOTNzmotJKcyKRpjom) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Shallow Water](https://open.spotify.com/album/4cMVEtKn0ikqpYrHpHq89w) | 3:22 |
 | 53 | [Protected](https://open.spotify.com/track/1cRRIRrUiPnLOvsnWNhoH9) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs), [Richard Walters](https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F) | [Protected](https://open.spotify.com/album/4MOIA5rcy0XfN7kRWmSukG) | 4:00 |
-| 54 | [Hold On](https://open.spotify.com/track/6PhDLktpvEInsEyJlStBdf) | [Rezident](https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc), [Von Boch](https://open.spotify.com/artist/7cR62TCmcorAdyny40NsP0), [Elissa Mielke](https://open.spotify.com/artist/0pu3ESGhCGupolNCwxDCOw) | [Hold On](https://open.spotify.com/album/4NaRLbBHxXA9nqPSwm7ELk) | 3:50 |
-| 55 | [Throwing Stones](https://open.spotify.com/track/1IWIcqxOyoCDnzRHKTc1F5) | [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ) | [Throwing Stones](https://open.spotify.com/album/1oqD3HkCzU48MmKANuFb6c) | 3:39 |
+| 54 | [Throwing Stones](https://open.spotify.com/track/1IWIcqxOyoCDnzRHKTc1F5) | [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ) | [Throwing Stones](https://open.spotify.com/album/1oqD3HkCzU48MmKANuFb6c) | 3:39 |
+| 55 | [Hold On](https://open.spotify.com/track/6PhDLktpvEInsEyJlStBdf) | [Rezident](https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc), [Von Boch](https://open.spotify.com/artist/7cR62TCmcorAdyny40NsP0), [Elissa Mielke](https://open.spotify.com/artist/0pu3ESGhCGupolNCwxDCOw) | [Hold On](https://open.spotify.com/album/4NaRLbBHxXA9nqPSwm7ELk) | 3:50 |
 | 56 | [Endlessly](https://open.spotify.com/track/6QeO1fYyKamrW3JcdlfSoP) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Nadia Ali](https://open.spotify.com/artist/1C60viSZv6BoYtrnkZ44g5) | [Endlessly](https://open.spotify.com/album/1xxj3i8zJ8a9mFIf23ymLv) | 3:37 |
 | 57 | [Seventeen](https://open.spotify.com/track/7JWcNzIEvT4YIS0hplWZBs) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [YOTTO](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [White Lies](https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910) | [Seventeen](https://open.spotify.com/album/18n4STVyi9RQAlFSYINDf3) | 3:23 |
 | 58 | [Nothing Ever Changes](https://open.spotify.com/track/1oytqQdZTKnICWgqCW9SrI) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w) | [Nothing Ever Changes](https://open.spotify.com/album/0HlphAJZzZbQ9xcqaD2yX4) | 3:46 |

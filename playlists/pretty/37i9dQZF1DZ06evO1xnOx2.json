@@ -1,12 +1,12 @@
 {
   "description": "This is Hozier. The essential tracks, all in one playlist.",
-  "num_followers": 600920,
+  "num_followers": 601129,
   "original_name": "This Is Hozier",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDOvAAAAAACBVQcR/y8thx5OrOOGjHiv",
+  "snapshot_id": "aDUAgAAAAACb/4hW53uON7oX71iK2lal",
   "tracks": [
     {
       "added_at": null,
@@ -511,6 +511,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wasteland, Baby! (Special Edition)",
+        "url": "https://open.spotify.com/album/4qpvDzPCm5PLNLNINaEWM5"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 235346,
+      "name": "Be - Acoustic",
+      "url": "https://open.spotify.com/track/0U74q2Txx1kpyJ8iB1cFAG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The First Time Ever I Saw Your Face (with Hozier)",
         "url": "https://open.spotify.com/album/4t9AAm3rQVu01FJ7tQz33B"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 273748,
       "name": "The First Time Ever I Saw Your Face (with Hozier)",
       "url": "https://open.spotify.com/track/4yzyi2v0QhJuumnhldtVNi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wasteland, Baby! (Special Edition)",
-        "url": "https://open.spotify.com/album/4qpvDzPCm5PLNLNINaEWM5"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 235346,
-      "name": "Be - Acoustic",
-      "url": "https://open.spotify.com/track/0U74q2Txx1kpyJ8iB1cFAG"
     },
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Better Love",
-        "url": "https://open.spotify.com/album/3x9wI2YbixwKFQwfawMAOl"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 193226,
-      "name": "Better Love - From \"The Legend Of Tarzan\" Original Motion Picture Soundtrack / Single Version",
-      "url": "https://open.spotify.com/track/1xSNfIhSXHEJIwqDXHAxQ7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wasteland, Baby! (Special Edition)",
         "url": "https://open.spotify.com/album/4qpvDzPCm5PLNLNINaEWM5"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 248333,
       "name": "Why Would You Be Loved",
       "url": "https://open.spotify.com/track/378Ufdm9Bq9SjWRQ6d4jn1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Better Love",
+        "url": "https://open.spotify.com/album/3x9wI2YbixwKFQwfawMAOl"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 193226,
+      "name": "Better Love - From \"The Legend Of Tarzan\" Original Motion Picture Soundtrack / Single Version",
+      "url": "https://open.spotify.com/track/1xSNfIhSXHEJIwqDXHAxQ7"
     },
     {
       "added_at": null,

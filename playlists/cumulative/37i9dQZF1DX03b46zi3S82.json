@@ -3031,6 +3031,24 @@
     },
     {
       "album": {
+        "name": "In the Quiet Hours",
+        "url": "https://open.spotify.com/album/0Hxyrm1hOIXjJFcXb51kn8"
+      },
+      "artists": [
+        {
+          "name": "Harmonic Reverie",
+          "url": "https://open.spotify.com/artist/5MQgVlRZZAASmBxSk6bbqi"
+        }
+      ],
+      "date_added": "2025-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199099,
+      "name": "In the Quiet Hours",
+      "url": "https://open.spotify.com/track/0mhzqS1uEIQm49i8yH7eUh"
+    },
+    {
+      "album": {
         "name": "In The Stars",
         "url": "https://open.spotify.com/album/0lR0lulxdzgblDc5QLbQKV"
       },

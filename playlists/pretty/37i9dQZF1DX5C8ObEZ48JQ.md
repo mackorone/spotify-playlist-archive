@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 > The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0?si=lU38kMiSS7u6Koh6iHZK\-g">Braye</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,780 likes - 64 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,799 likes - 64 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

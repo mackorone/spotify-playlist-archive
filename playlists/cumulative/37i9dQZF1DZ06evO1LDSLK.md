@@ -4,7 +4,7 @@
 
 > This is Iggy Pop\. The essential tracks, all in one playlist.
 
-107 songs - 6 hr 46 min
+108 songs - 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Paraguay](https://open.spotify.com/track/0NxkgttWBebPhJhQkW6t8n) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Post Pop Depression](https://open.spotify.com/album/5jRBK15ic9i5C8ucN5LTx1) | 6:25 | 2022-11-05 | 2022-11-28 |
 | [Personal Jesus](https://open.spotify.com/track/1YX3505xUckBaX9qIkVROX) | [Trevor Horn](https://open.spotify.com/artist/2oQd3GVbHbjyCyeG4MGMuT), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4), [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [ECHOES – ANCIENT & MODERN](https://open.spotify.com/album/5tY51acOrbffScV0oR2Kbq) | 3:26 | 2024-12-19 |  |
 | [Personal Jesus](https://open.spotify.com/track/39T5kfrzZZ1I6BgUk5Pmv2) | [Trevor Horn](https://open.spotify.com/artist/2oQd3GVbHbjyCyeG4MGMuT), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4), [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [Personal Jesus](https://open.spotify.com/album/18dZevcCy8WBDLu4kchXiN) | 3:26 | 2023-11-10 | 2024-07-08 |
+| [Plus One \- ft\. Iggy Pop](https://open.spotify.com/track/5fjLWUoQ5NMKh5YlUeE385) | [Pan Amsterdam](https://open.spotify.com/artist/7KPqrVAWjUBAtn8tiZayOE), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4), [Leron Thomas](https://open.spotify.com/artist/0lVzm0fYj4BredTD0LMdSY) | [Confines](https://open.spotify.com/album/1WyMUnv5ekwYaDDFdfZ6Sc) | 4:55 | 2025-05-29 |  |
 | [Post Punk \(feat\. Iggy Pop\)](https://open.spotify.com/track/1LfZVlZg1JMxOS1W1fmWOK) | [The Crystal Method](https://open.spotify.com/artist/5eKLa1xyHLq8ERWmT1CRHj), [Hyper](https://open.spotify.com/artist/6DFJfhZxwWe1yKQvRDJmdl), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Post Punk \(feat\. Iggy Pop\)](https://open.spotify.com/album/6sl0F7alKr5VWHTpdSRXZS) | 4:35 | 2022-11-04 | 2023-03-26 |
 | [Private Hell](https://open.spotify.com/track/5oqkunbRxtmUlt0G75pr71) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4), [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Skull Ring](https://open.spotify.com/album/4y0DpbIDRVqf8MPGs1pvBu) | 2:50 | 2024-05-13 | 2025-01-20 |
 | [Punkrocker \(feat\. Iggy Pop\)](https://open.spotify.com/track/7yHRmaBkHKXKJmS1xMzicZ) | [Teddybears](https://open.spotify.com/artist/3gqv1kgivAc92KnUm4elKv), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Soft Machine](https://open.spotify.com/album/4MHVx1PFPrYUzO0zbh95Q0) | 4:06 | 2022-11-04 |  |
@@ -94,7 +95,7 @@
 | [Strung Out Johnny](https://open.spotify.com/track/6OGIBcJV5qV1FF5uiofnX0) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [EVERY LOSER](https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd) | 4:13 | 2023-01-16 |  |
 | [Success](https://open.spotify.com/track/7LnZRiI3GuF44G6mqLWQA1) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Lust For Life](https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz) | 4:25 | 2022-12-09 | 2024-07-24 |
 | [Sunday](https://open.spotify.com/track/2jRQcQFH7XLPsIFZsSuHkB) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Post Pop Depression](https://open.spotify.com/album/5jRBK15ic9i5C8ucN5LTx1) | 6:06 | 2022-11-04 |  |
-| [Supermarket](https://open.spotify.com/track/21AfGXS5oiWXpLxllErl9o) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4), [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Skull Ring](https://open.spotify.com/album/4y0DpbIDRVqf8MPGs1pvBu) | 3:01 | 2024-11-01 |  |
+| [Supermarket](https://open.spotify.com/track/21AfGXS5oiWXpLxllErl9o) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4), [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Skull Ring](https://open.spotify.com/album/4y0DpbIDRVqf8MPGs1pvBu) | 3:01 | 2024-11-01 | 2025-05-29 |
 | [Syracuse](https://open.spotify.com/track/7fM0p7hgm5Ktr77vDEeuSP) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Après \(10th\-anniversary edition\)](https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2) | 2:03 | 2022-12-04 | 2023-02-08 |
 | [T.V\. Eye \- Live At Montreux Jazz Festival 2023](https://open.spotify.com/track/41cMfG3oTljBYNIfso2rl7) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Live At Montreux Jazz Festival 2023](https://open.spotify.com/album/2aXukTPTeon2XDKJfvizwC) | 3:30 | 2025-01-27 | 2025-02-23 |
 | [The Dawn](https://open.spotify.com/track/20NX3eoG5vBF91b25T6dao) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Free](https://open.spotify.com/album/7BLKzTgaj5fHkNpSPGwjwh) | 2:08 | 2023-01-21 | 2023-01-28 |

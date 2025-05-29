@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Od4Lm.md) - [plain]
 
 > This is Sufjan Stevens\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,122 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,151 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Od4Lm.md) - [plain]
 | 40 | [The Greatest Gift](https://open.spotify.com/track/14VWPYWaemUTwfy1G1Nnoe) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [The Greatest Gift](https://open.spotify.com/album/4UfROvC2nwNTssfJmlcYw2) | 1:51 |
 | 41 | [Size Too Small](https://open.spotify.com/track/1XGvfHwPS6ze5drjk3fX7y) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Seven Swans \(Deluxe Edition\)](https://open.spotify.com/album/42lnsCNSZUkPBgFhvSOHwa) | 3:04 |
 | 42 | [All the Trees of the Field Will Clap Their Hands](https://open.spotify.com/track/5OjpdQLQNF59wsZx9S9b10) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Seven Swans](https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA) | 4:14 |
-| 43 | [Holland](https://open.spotify.com/track/5LeGT0ziFpK3Skvr6jwIgF) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Michigan](https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk) | 3:26 |
-| 44 | [Palinodes](https://open.spotify.com/track/6Dlledo5CPotiHkDSO9xJB) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Lowell Brams](https://open.spotify.com/artist/1hCuN7zeXgcoLq6Ys1UOe4) | [Aporia](https://open.spotify.com/album/1juVCzBeCE5Nzx0iqXZ8kU) | 0:32 |
+| 43 | [Palinodes](https://open.spotify.com/track/6Dlledo5CPotiHkDSO9xJB) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Lowell Brams](https://open.spotify.com/artist/1hCuN7zeXgcoLq6Ys1UOe4) | [Aporia](https://open.spotify.com/album/1juVCzBeCE5Nzx0iqXZ8kU) | 0:32 |
+| 44 | [Holland](https://open.spotify.com/track/5LeGT0ziFpK3Skvr6jwIgF) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Michigan](https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk) | 3:26 |
 | 45 | [We Won't Need Legs To Stand](https://open.spotify.com/track/447cvPxyRThQdy0W9w4kkN) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Seven Swans \(Deluxe Edition\)](https://open.spotify.com/album/42lnsCNSZUkPBgFhvSOHwa) | 2:16 |
-| 46 | [Shade I'll Never See](https://open.spotify.com/track/0jllpyj5FhtLgb7Txj7oxv) | [Denison Witmer](https://open.spotify.com/artist/2sJ5Iicthbc9d8Sl1dpeSB), [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Anything At All](https://open.spotify.com/album/1pBsqSt6LWcEf9nIQHMWya) | 3:12 |
-| 47 | [L\-O\-V\-E \(feat\. Chrissy, Luna & Miles\)](https://open.spotify.com/track/1CoHxW1sHR4BKoBIz3B1Qb) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Chrissy](https://open.spotify.com/artist/0UkJmTvoKcOI4YnBc6jeYf), [Luna](https://open.spotify.com/artist/4z48U0ddm5KpIJZyUaFbWw), [MILES](https://open.spotify.com/artist/2fHmvBw01MQs9FpEaBXglg) | [My Favorite Dream](https://open.spotify.com/album/2Na5BI4pks8yFrWNvEK6zW) | 2:32 |
-| 48 | [City of Roses](https://open.spotify.com/track/24WtCVcFJD2hWfYgrOBMhA) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [The Greatest Gift](https://open.spotify.com/album/4UfROvC2nwNTssfJmlcYw2) | 2:14 |
+| 46 | [City of Roses](https://open.spotify.com/track/24WtCVcFJD2hWfYgrOBMhA) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [The Greatest Gift](https://open.spotify.com/album/4UfROvC2nwNTssfJmlcYw2) | 2:14 |
+| 47 | [Shade I'll Never See](https://open.spotify.com/track/0jllpyj5FhtLgb7Txj7oxv) | [Denison Witmer](https://open.spotify.com/artist/2sJ5Iicthbc9d8Sl1dpeSB), [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Anything At All](https://open.spotify.com/album/1pBsqSt6LWcEf9nIQHMWya) | 3:12 |
+| 48 | [L\-O\-V\-E \(feat\. Chrissy, Luna & Miles\)](https://open.spotify.com/track/1CoHxW1sHR4BKoBIz3B1Qb) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Chrissy](https://open.spotify.com/artist/0UkJmTvoKcOI4YnBc6jeYf), [Luna](https://open.spotify.com/artist/4z48U0ddm5KpIJZyUaFbWw), [MILES](https://open.spotify.com/artist/2fHmvBw01MQs9FpEaBXglg) | [My Favorite Dream](https://open.spotify.com/album/2Na5BI4pks8yFrWNvEK6zW) | 2:32 |
 | 49 | [Video Game](https://open.spotify.com/track/3Q8B1nnUBlJz0VTajyk1IS) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [The Ascension](https://open.spotify.com/album/2Bd6trS7kIZOXujYdVP8Xd) | 4:15 |
 | 50 | [In the Devil's Territory](https://open.spotify.com/track/3NCddFMOQ32FuJQjqRIzQy) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Seven Swans \(Deluxe Edition\)](https://open.spotify.com/album/42lnsCNSZUkPBgFhvSOHwa) | 4:57 |
 
-Snapshot ID: `aDOvAAAAAAA2eM8bmLqbTDMprZJW6ruE`
+Snapshot ID: `aDUAgAAAAABRxH2PQVeGOH9fzqkceTWH`

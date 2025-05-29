@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Just a Closer Walk With Thee",
+        "url": "https://open.spotify.com/album/2CuZe0vzmqXgu5hqbDWFgu"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158720,
+      "name": "All Over This World",
+      "url": "https://open.spotify.com/track/41en8GGsFVRqSrqSGNJPqJ"
+    },
+    {
+      "album": {
         "name": "Trouble in Mind",
         "url": "https://open.spotify.com/album/7pd386kkBPHie54j3kyRpG"
       },

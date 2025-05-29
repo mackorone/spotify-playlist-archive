@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4xkATYcbh7.md) - [plain]
 
 > Get amped!  Listen to the official soundtrack for Tony Hawk’s Pro Skater 3+4.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,850 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,975 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

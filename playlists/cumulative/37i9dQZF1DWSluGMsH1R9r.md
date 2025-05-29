@@ -4,7 +4,7 @@
 
 > Calm piano music for enhanced concentration.
 
-745 songs - 1 day 7 hr 55 min
+747 songs - 1 day 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,6 +226,7 @@
 | [For Brea](https://open.spotify.com/track/7AAiL40T07q44EzwZWhsmf) | [JNUARY](https://open.spotify.com/artist/66A9oG2ybGddl9xwDibKak) | [For Brea](https://open.spotify.com/album/3DhaC4gb4cgt8tLlBEEERI) | 1:57 | 2021-12-07 | 2023-05-04 |
 | [For Kate](https://open.spotify.com/track/4uNQlDhz4fIKvjvdSESKou) | [Ed Chinaski](https://open.spotify.com/artist/1uiURs2L2yxv1vr5vGwbSt) | [For Kate](https://open.spotify.com/album/1eGuJ5nZme9vfMMyb5B07S) | 2:17 | 2022-01-18 |  |
 | [Forever & Always](https://open.spotify.com/track/5hLVKQBumXZ9DhK6khCiOP) | [Tom Stannard](https://open.spotify.com/artist/6rDF0xaV7KBIlI5t9zs6EZ) | [Forever & Always](https://open.spotify.com/album/7B03e9Eebco3A1QGyFcBxj) | 2:06 | 2021-12-07 | 2022-07-16 |
+| [Forever Yours](https://open.spotify.com/track/2Fa4HWhnE7oiWdiHnjv3aD) | [Lyvia Northman](https://open.spotify.com/artist/5UlShaxI9lS8FdpD4esXvh) | [Forever Yours](https://open.spotify.com/album/373hZdOKeVNCwLsi7VZRJN) | 2:22 | 2025-05-28 |  |
 | [Forevermore](https://open.spotify.com/track/3xZBHTUT1gLAmDbPz77ETo) | [Ambrosiae](https://open.spotify.com/artist/0WtC6Sw0FEuccTgMXoYQPm) | [Forevermore](https://open.spotify.com/album/1uaB2cXT94Sl6V3eN2UFsW) | 2:34 | 2023-06-20 |  |
 | [Forsaken Land](https://open.spotify.com/track/3pWlQdfMNp4NabYbPAQcje) | [Lorenzo Balzotti](https://open.spotify.com/artist/3hHeHet790nZ3x8ulsu6tC) | [Forsaken Land](https://open.spotify.com/album/2GrqPpnPembHDXm1cWE4oY) | 3:02 | 2022-07-15 | 2024-10-08 |
 | [Fortune Teller](https://open.spotify.com/track/3V5W0NKk7JkGzBMoMOrOHb) | [Lihua Zhao](https://open.spotify.com/artist/7dsYrsCwrZat4t33c7RXPe) | [Fortune Teller](https://open.spotify.com/album/4tai0Aw4yNU9YuS37uqJoM) | 2:24 | 2024-04-17 |  |
@@ -493,6 +494,7 @@
 | [Perseverance](https://open.spotify.com/track/7w2SNm2phmRjSwl8ftLR8z) | [Morunas](https://open.spotify.com/artist/36RxHbl3Duv6WNJjOGPhV4) | [Perseverance](https://open.spotify.com/album/2cEfltCZou7ueF9UR6iNH5) | 2:14 | 2021-12-07 | 2023-01-27 |
 | [Persistence](https://open.spotify.com/track/0axAOvyLwfINcKe3tw7U2f) | [Gunnel Boek](https://open.spotify.com/artist/1o402msQD5tWRl4y5jnrvI) | [Persistence](https://open.spotify.com/album/7hihzMSbAIsrcRtSGjebl8) | 2:19 | 2021-12-07 | 2024-10-16 |
 | [Perspectives](https://open.spotify.com/track/4NLORT4CrxkYaegK1ywz4v) | [Gunnel Boek](https://open.spotify.com/artist/1o402msQD5tWRl4y5jnrvI) | [Perspectives](https://open.spotify.com/album/2gSOIVQHLgOt6Fh5lgUPeE) | 3:06 | 2021-12-07 | 2022-07-16 |
+| [Pine Valley](https://open.spotify.com/track/2vx8usJOHF7wohOltf2gsJ) | [Elois Jacq](https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN) | [Pine Valley](https://open.spotify.com/album/2VHmIO8N0ddnVEQjlZ4TdW) | 3:14 | 2025-05-28 |  |
 | [Placid](https://open.spotify.com/track/1u3h3PCvrzTSCSPhCiQH3Q) | [Anoire](https://open.spotify.com/artist/3g7pYrMzsYgKrNPyMKNf7K) | [Placid](https://open.spotify.com/album/3W1xO9Ba7QCJ8vXCsaoE63) | 2:32 | 2021-12-07 | 2024-11-06 |
 | [Plum Coulee](https://open.spotify.com/track/3xfiHpIjVN3pN9wfD6BYMD) | [Michael Janzen](https://open.spotify.com/artist/2Vx2Zfx7Gxu6A6xbwbbtFg) | [Plum Coulee](https://open.spotify.com/album/4sfvTd6E3B6Ta0843XB9WT) | 2:53 | 2022-07-15 |  |
 | [Pointed Leaves](https://open.spotify.com/track/31u3s9hi7vrqm40Kh49j32) | [Bryan Zingerman](https://open.spotify.com/artist/3ba6Q8CQ6ENhKkyqtGnZlL) | [Four Waltz](https://open.spotify.com/album/64Xrn4iTMDdgRgUKBuO3Pc) | 2:46 | 2021-12-07 | 2022-07-16 |

@@ -4,7 +4,7 @@
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\.  cover: Cover: YOASOBI
 
-767 songs - 1 day 19 hr 50 min
+768 songs - 1 day 19 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -362,6 +362,7 @@
 | [Snake](https://open.spotify.com/track/3gC9PXSvfJuLc6V9NjL9bf) | [Vicke Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [Snake](https://open.spotify.com/album/0GTl9PHpXPLCJ50xra0AQs) | 3:07 | 2023-08-29 | 2023-11-17 |
 | [SNEAKING](https://open.spotify.com/track/4zYlju4viLB237Htiz3zgo) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [SNEAKING](https://open.spotify.com/album/39rmUoL2KGWuxRFQ28FfhN) | 2:36 | 2023-11-24 | 2023-12-30 |
 | [sober](https://open.spotify.com/track/3tPU87pYSXlN8e6NAvBhRn) | [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [HOLLOW](https://open.spotify.com/album/6xF8yXGdqXuvvbapWKLsea) | 2:52 | 2023-08-17 | 2023-09-01 |
+| [Song 3](https://open.spotify.com/track/7eDUTBIo76AMC5UYqkkzDL) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m) | [Song 3](https://open.spotify.com/album/0Cxa2LwLEBIpVglPWwiias) | 3:34 | 2025-05-22 |  |
 | [Soyokaze](https://open.spotify.com/track/7vQK53ZEP7RVS8WQ2EwzNs) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [Soyokaze](https://open.spotify.com/album/153YmjTil9pifgOigfs315) | 3:36 | 2025-03-27 | 2025-04-09 |
 | [SPECIALZ](https://open.spotify.com/track/5oQpH1uuZte4axR411rIlN) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 3:53 | 2024-12-04 | 2025-01-17 |
 | [SPECIALZ](https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [SPECIALZ](https://open.spotify.com/album/16Wxo6FKPXPzU9IApZfdlc) | 3:58 | 2023-08-31 |  |

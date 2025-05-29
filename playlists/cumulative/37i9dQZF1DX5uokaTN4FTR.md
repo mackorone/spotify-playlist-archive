@@ -4,7 +4,7 @@
 
 > The UK's biggest dance playlist! Cover: Rudimental, Khalid
 
-671 songs - 1 day 10 hr 55 min
+672 songs - 1 day 10 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -405,7 +405,7 @@
 | [Move Your Body](https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Move Your Body](https://open.spotify.com/album/4l9wMVL4XAM5jPMXP5RAbL) | 2:37 | 2022-04-15 | 2022-06-17 |
 | [Move Your Body \- Hedex Remix](https://open.spotify.com/track/6FgthnS6GYgLuELf7uRdDz) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t) | [Move Your Body \(Hedex Remix\)](https://open.spotify.com/album/09nJrAnPgQU8dLEBj1o1lo) | 3:20 | 2022-06-16 | 2022-09-02 |
 | [Moving All Around \(Jumpin'\) \(feat\. Kim English\)](https://open.spotify.com/track/3rN9iG9QDHFQfBdbym2uel) | [Schak](https://open.spotify.com/artist/7gA8yMxRoBujfmpDLuLPvx), [Kim English](https://open.spotify.com/artist/1Tvhj4mF2pvvAT1InLbRKs) | [Moving All Around \(Jumpin'\) \(feat\. Kim English\)](https://open.spotify.com/album/70r5AZjJ8e1dw4TxqcHae5) | 3:09 | 2022-11-07 | 2023-05-05 |
-| [Multiply](https://open.spotify.com/track/0d8qNWRwQafcOXAyw6FxiB) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Multiply](https://open.spotify.com/album/0aniMlLzu8HCWo6wXDgh75) | 2:28 | 2024-05-31 |  |
+| [Multiply](https://open.spotify.com/track/0d8qNWRwQafcOXAyw6FxiB) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Multiply](https://open.spotify.com/album/0aniMlLzu8HCWo6wXDgh75) | 2:28 | 2024-05-31 | 2025-05-29 |
 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 | 2024-01-26 | 2025-01-24 |
 | [My Barn My Rules \- Edit](https://open.spotify.com/track/2y2FrM6flv3s5LNqpjGVgW) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [My Barn My Rules](https://open.spotify.com/album/0mJRlyJ18EPNEGXromb9d0) | 2:06 | 2023-07-06 | 2023-10-17 |
 | [My Bills \(feat\. FEYI\)](https://open.spotify.com/track/7MAtWjiry7hxPJEGlhoYtb) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [FEYI](https://open.spotify.com/artist/2E41RSTUOR7CBYbfzXYI2t) | [My Bills \(feat\. FEYI\)](https://open.spotify.com/album/464yUiXI1Z48DbS4pENIFE) | 3:20 | 2023-05-04 | 2023-07-28 |
@@ -600,6 +600,7 @@
 | [The Days \- NOTION Remix](https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8) | [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK), [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [The Days \(NOTION Remix\)](https://open.spotify.com/album/15gT6ikjvzrlIxQ5eTpqLJ) | 3:53 | 2024-12-20 |  |
 | [The Don](https://open.spotify.com/track/7dhiGKBm2pYVLAW4QF1z1E) | [System.Inc](https://open.spotify.com/artist/5CfCAv52QCxLv9bdlGIyUD), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [The Don](https://open.spotify.com/album/4XuVKQOCaQ15ZCdtcENLlD) | 2:54 | 2021-12-03 | 2022-02-18 |
 | [The Feeling](https://open.spotify.com/track/2XwfwHvM8iqvWL5bZWbo86) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [1991](https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [The Feeling](https://open.spotify.com/album/3cPlIoKj0mGfn4gOJGf1Ms) | 2:48 | 2024-10-24 |  |
+| [The Glen \- Levi Heron Edit](https://open.spotify.com/track/7K2DFO1NYMtBdNP6vNlhWI) | [Levi Heron](https://open.spotify.com/artist/4l6SsatjUmNTPQEOS33NnP) | [The Glen \(Levi Heron Edit\)](https://open.spotify.com/album/3rJU9t2bPnf4WWyaDHjF9h) | 2:53 | 2025-05-28 |  |
 | [The Judge](https://open.spotify.com/track/6r6hSnqlIvtpPFZMiM0LEy) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [The Judge](https://open.spotify.com/album/7BNYEXizheSk1HuD8GYmg9) | 3:40 | 2022-05-06 | 2022-07-22 |
 | [The Last Goodbye \(feat\. Bettye LaVette\)](https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [The Last Goodbye \(feat\. Bettye LaVette\)](https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2) | 5:58 | 2022-02-18 | 2022-04-16 |
 | [The Motto](https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [The Motto](https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV) | 2:44 | 2021-11-05 | 2022-03-25 |

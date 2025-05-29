@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 
 > All the girlies have got ABBA Gold on loop and we love it\. Cover: Grace Davies
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,578,290 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,580,415 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 | 99 | [Juno](https://open.spotify.com/track/21B4gaTWnTkuSh77iWEXdS) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 3:43 |
 | 100 | [Shotgun](https://open.spotify.com/track/7BZSjFeuQAmmnVnzvlMJ8i) | [Michele Lu](https://open.spotify.com/artist/5ycgCCXYSzg54CQ1HDJLUZ) | [Shotgun](https://open.spotify.com/album/3CSR9L8G9vYROd8xMTv5GM) | 3:55 |
 
-Snapshot ID: `AAAAADInaJdDyrFJbm1cgVKVUPaRb5Ln`
+Snapshot ID: `aDXGVwAAAACl3IqSDplJOLNJW43iVPqc`

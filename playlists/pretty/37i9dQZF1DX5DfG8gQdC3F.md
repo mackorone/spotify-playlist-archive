@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Burna Boy & Travis Scott, Myles Smith, Lauren Spencer Smith, KAROL G, Jutes and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 554,695 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 554,709 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 23 | [WHY \(feat\. Luke Combs\)](https://open.spotify.com/track/6GPjo7NPabOKxdOR5zRl4I) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [WHY \(feat\. Luke Combs\)](https://open.spotify.com/album/6MKxvTTzpmHNW8oThYHyBU) | 2:57 |
 | 24 | [John Daly](https://open.spotify.com/track/5YoLHC151z0wgVAqd30wLR) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [John Daly](https://open.spotify.com/album/5pFHL2w0C60mksfXLlm73x) | 2:04 |
 | 25 | [LOOK OUT FOR ME](https://open.spotify.com/track/3gX1APRlWGUJF9DIYdD1gx) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [LOOK OUT FOR ME](https://open.spotify.com/album/0BUO6QDa4EBoVuMumIaAza) | 6:43 |
-| 26 | [HOLLYWOOD \- feat\. Shoreline Mafia](https://open.spotify.com/track/0uAmR0yTDNAaXA5jPGOrir) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ) | [HOLLYWOOD \(feat\. Shoreline Mafia\)](https://open.spotify.com/album/0pg3WtuKm4GlckMugbml46) | 3:00 |
+| 26 | [HOLLYWOOD](https://open.spotify.com/track/0uAmR0yTDNAaXA5jPGOrir) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ) | [HOLLYWOOD](https://open.spotify.com/album/0pg3WtuKm4GlckMugbml46) | 3:00 |
 | 27 | [Blue Sky \(feat\. LYZZA & SadBoi\)](https://open.spotify.com/track/5BDA6UhjGlZeIOfg5wpY68) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [LYZZA](https://open.spotify.com/artist/57xaBKepmdqQ6BjXkiHa4B), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Blue Sky \(feat\. LYZZA & SadBoi\)](https://open.spotify.com/album/1gAXHK0ShArg1KBrOoKbwu) | 2:22 |
 | 28 | [Like I Like It](https://open.spotify.com/track/6vLKVWEuOCQAWEaHv2yknm) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Too Big For B\-Side](https://open.spotify.com/album/5jtv44Kb5NZmbRDfpCTIWE) | 3:44 |
 | 29 | [PICASSO](https://open.spotify.com/track/0uGbZpw3WJBtLAnVqBVBpi) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Ya No Se Llevan Serenatas](https://open.spotify.com/album/6MRvPbmvRXntgB8DiDsIT6) | 3:36 |

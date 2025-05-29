@@ -4,7 +4,7 @@
 
 > mood:  😎✈️
 
-147 songs - 8 hr 17 min
+148 songs - 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [FOUTINI](https://open.spotify.com/track/7mxIHpy7BXMpJL0uuqkcqI) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [FOUTINI](https://open.spotify.com/album/0mGjVJqlJmNmQNREzN4uHf) | 3:59 | 2025-03-05 | 2025-03-14 |
 | [Galess Fdar](https://open.spotify.com/track/65lDROpljxbGDebJPWJqgD) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Galess Fdar](https://open.spotify.com/album/2ZPkRyGQNgw4v3Q2LdlI9I) | 2:19 | 2024-08-02 | 2025-01-13 |
 | [Getafe](https://open.spotify.com/track/7DVtBdHhVfyhtMK3jVFBzQ) | [Kira7](https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17) | [Allo](https://open.spotify.com/album/0l4hOiLzF5RVjK5VNMIXTC) | 3:57 | 2025-01-29 | 2025-04-22 |
-| [Getafe](https://open.spotify.com/track/43Pgt36ri9xbuHXbUgcDjR) | [Kira7](https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17) | [ALLO](https://open.spotify.com/album/0TzL09QzzlXkbUxK3hIqzo) | 4:27 | 2025-04-21 |  |
+| [Getafe](https://open.spotify.com/track/43Pgt36ri9xbuHXbUgcDjR) | [Kira7](https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17) | [ALLO](https://open.spotify.com/album/0TzL09QzzlXkbUxK3hIqzo) | 4:27 | 2025-04-21 | 2025-05-29 |
 | [Getafe](https://open.spotify.com/track/7MpbWOY0wbpdNCdXbeoCeV) | [Kira7](https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17) | [ALLO \(Deleted\)](https://open.spotify.com/album/0tpHKF7aOnredOpDRKRsTi) | 4:27 | 2025-01-01 | 2025-01-30 |
 | [Getafe](https://open.spotify.com/track/4OeschE7uVqNOJc95EhK1d) | [ReleaseX](https://open.spotify.com/artist/13jSGmeVu5dbEm4z7Rxjt6), [Kira7](https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17) | [ALLO \(Deleted\)](https://open.spotify.com/album/1rOpXrw9XymF2ywzE5Rc14) | 4:27 | 2024-11-19 | 2025-01-02 |
 | [Go](https://open.spotify.com/track/2g2x70gCZb31tUFcACNeL5) | [Fetah](https://open.spotify.com/artist/3XGTrzVLfhQ0hK13svf6pu) | [Go](https://open.spotify.com/album/6Bp7UQPt8gXp3SFk3CF70Q) | 2:08 | 2025-02-17 | 2025-05-17 |
@@ -85,6 +85,7 @@
 | [M&Ms, Gemini](https://open.spotify.com/track/06DzOnGVMrcK4T5VFovO4B) | [ISSAM](https://open.spotify.com/artist/37lslcg6zP6eAQAONiYvWN) | [M&Ms, Gemini](https://open.spotify.com/album/3dnkZnqh5R1I0yHY4pwxK8) | 4:47 | 2024-08-02 | 2024-10-04 |
 | [Machi Lkhatri](https://open.spotify.com/track/5BSg7yE6EmP6hSdhjPy0J0) | [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS), [Norfafrica](https://open.spotify.com/artist/3UGUD4F6kDvesqDwOzXl8y) | [Machi Lkhatri](https://open.spotify.com/album/6dAhHPgc12Cq9ZdyON9fVU) | 3:29 | 2024-07-22 | 2024-11-20 |
 | [Maghandemch](https://open.spotify.com/track/7oxgsGrfdM0lXMk7p3MVPW) | [Shayfeen](https://open.spotify.com/artist/3wrzELDiDtiHAlLlAG423O), [Xcep](https://open.spotify.com/artist/0eLoiWLwWeaHGNkYke5G1k) | [07](https://open.spotify.com/album/5E4dpAp2DVN99ijHGDvrPJ) | 3:33 | 2024-07-22 |  |
+| [Medical](https://open.spotify.com/track/0jA7YjPRVkCI3pHQXwiecN) | [salvh](https://open.spotify.com/artist/1bkYfYxCEkteuFFijyrRbT), [Kira7](https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17) | [Medical](https://open.spotify.com/album/7718Pguh1bHXGkzMLDwIBA) | 3:44 | 2025-05-28 |  |
 | [Memo](https://open.spotify.com/track/6czrSxEQpR1oiw5U6vQVUF) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Memo](https://open.spotify.com/album/2SRe9hjJjJ1kRwQE1PBzSZ) | 3:32 | 2024-08-02 | 2024-10-23 |
 | [Merteh \- مرتاح](https://open.spotify.com/track/1cdgSRY4IhYtx7w9QSZaHe) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Merteh \(مرتاح\)](https://open.spotify.com/album/38rvM6WsLXixyKndh2rDEX) | 4:05 | 2024-02-29 | 2024-07-23 |
 | [MIEL](https://open.spotify.com/track/3I1EOnxa1H2RDi8dkAwZX1) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [QUARTIER LATIN VOL.1](https://open.spotify.com/album/4OpjYM9WIhIH4u0Pd3aYij) | 3:18 | 2024-02-29 | 2024-04-19 |

@@ -4,7 +4,7 @@
 
 > mate\- Bus stop!
 
-642 songs - 1 day 9 hr 32 min
+643 songs - 1 day 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [Fefe Ne Fe](https://open.spotify.com/track/2NQwFpvbOhJVVxm4Y4grEV) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [This Is Not the Tape III](https://open.spotify.com/album/6LyLd9gp7xoOKaFtPxI7PI) | 2:48 | 2024-03-22 |  |
 | [Finally](https://open.spotify.com/track/7K421TaU7VnlOYYNfftd8A) | [JZyNo](https://open.spotify.com/artist/3gYUwwn7FiiBMKHe36OUaQ) | [Finally](https://open.spotify.com/album/3444myYgBDVDQaSpHjS0rB) | 2:22 | 2024-06-21 | 2024-07-12 |
 | [Fine Girl](https://open.spotify.com/track/2y2gGCY93nmkr1OoufHWkx) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Fine Girl](https://open.spotify.com/album/5tkw9JK58hhOdBDGrEyzwR) | 2:36 | 2024-12-16 | 2025-03-22 |
+| [Fine Girl](https://open.spotify.com/track/6P52DObY1mHoGjJAObCvAQ) | [Oseikrom Sikanii](https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN), [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac) | [Fine Girl](https://open.spotify.com/album/5H9X2O4eYYkTshwoofj3eB) | 3:02 | 2025-05-23 |  |
 | [Fine Wine \(feat\. King Promise & Joeboy\)](https://open.spotify.com/track/3E3WIVDBt4rX4N2kRrwSah) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Fine Wine \(feat\. King Promise & Joeboy\)](https://open.spotify.com/album/3f6FbIilED8NakLgcWAhqi) | 3:50 | 2022-06-09 | 2022-10-13 |
 | [Fiona \(feat\. Lasmid\) \- Remix](https://open.spotify.com/track/6lcbqARFc6XYGYkHfRUrwo) | [Fazil](https://open.spotify.com/artist/1nKZZibM5fYq7UtMKOZIWq), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Fiona \(feat\. Lasmid\) \[Remix\]](https://open.spotify.com/album/3RkNNWfviQ9hnFO2Sn7jXo) | 3:20 | 2023-11-24 | 2023-12-02 |
 | [Fire](https://open.spotify.com/track/16uuguJjHf7d7gyxpnGwOn) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Fire](https://open.spotify.com/album/5sqPvkTgAI1FIjUA3ZR38O) | 3:58 | 2025-03-28 |  |
@@ -622,7 +623,7 @@
 | [Who Is Your Guy? \- Remix](https://open.spotify.com/track/5ZUMDhlhC6GmjQKdAkUxrh) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Who Is Your Guy? \(Remix\)](https://open.spotify.com/album/0ASoti9sg1ffkaHutFhATQ) | 3:31 | 2023-03-03 | 2023-03-29 |
 | [Who Say](https://open.spotify.com/track/6AKrORRZr4zljkdZiZx8gn) | [E.L](https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel) | [The Teacher](https://open.spotify.com/album/1dknPUgY31fr6w71ZFSWiY) | 3:12 | 2023-09-09 | 2023-09-15 |
 | [WIFI](https://open.spotify.com/track/3XoIFPE1GeKdGR7eG3r9zu) | [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [WIFI](https://open.spotify.com/album/0RdZhYpdfeLAPUBimtVjBr) | 2:20 | 2024-06-28 | 2024-07-12 |
-| [WINE AND BLUES](https://open.spotify.com/track/29kG9fZa56h0jL9qXqTePM) | [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [NEW ROAD AND GUAVA TREES](https://open.spotify.com/album/4p7Y6nHD0gwwS0GMCabOlI) | 3:15 | 2025-03-14 |  |
+| [WINE AND BLUES](https://open.spotify.com/track/29kG9fZa56h0jL9qXqTePM) | [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [NEW ROAD AND GUAVA TREES](https://open.spotify.com/album/4p7Y6nHD0gwwS0GMCabOlI) | 3:15 | 2025-03-14 | 2025-05-29 |
 | [Wombom](https://open.spotify.com/track/3ITbQtBxqUfMnDKUPxtNTo) | [Kofi Jamar](https://open.spotify.com/artist/79KG6wqJDA2rLXbAwmtNgK), [Kwesi Amewuga](https://open.spotify.com/artist/3M6wBIiRHibBnlC0MVZDeC), [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac) | [Wombom](https://open.spotify.com/album/5WQmQP2tj5xH2mvoB1dXme) | 4:44 | 2024-04-05 | 2024-04-26 |
 | [Wonda Boy](https://open.spotify.com/track/6qY996418IU4NbyI0ibC8U) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Wonda Boy](https://open.spotify.com/album/5l2xTNnn4n0UxyFJvbViQP) | 2:54 | 2024-08-02 | 2024-09-28 |
 | [Wonderful](https://open.spotify.com/track/4p1tpwSTLqFBGEZKQQ03JR) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [Okay Baby, Lets Do This](https://open.spotify.com/album/6mF7YvP41L2d40LkDVLsfp) | 3:32 | 2023-06-09 | 2023-07-29 |

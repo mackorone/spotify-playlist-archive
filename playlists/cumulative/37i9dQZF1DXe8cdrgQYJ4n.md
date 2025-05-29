@@ -4,7 +4,7 @@
 
 > 솔로여도 괜찮은 나를 위한 노래들
 
-119 songs - 6 hr 13 min
+121 songs - 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [i](https://open.spotify.com/track/4h9jlv3tO0gm0i1mQ7o6hZ) | [Lee Aram](https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1) | [i](https://open.spotify.com/album/4bXJUWoEn4L5fk0hwE0BPD) | 2:40 | 2022-05-03 | 2023-02-25 |
 | [I AM FINE](https://open.spotify.com/track/3B7f8nNtTeZ2KGwnK2Yc9Q) | [Ulala Session](https://open.spotify.com/artist/2EFJSNZzGSfLXMfAaxbK2A) | [I AM FINE](https://open.spotify.com/album/4e29onVlOB70Pr4fsO7yJX) | 2:47 | 2022-06-18 | 2024-09-14 |
 | [I Don't Need a Man](https://open.spotify.com/track/1sWJyo5PBNSmm0FVIQ6GQ3) | [miss A](https://open.spotify.com/artist/1BEohdSWSBggmO979tzRwW) | [Hush](https://open.spotify.com/album/01zi2Tsa9ojYgPY5Q08aUb) | 3:30 | 2023-07-17 | 2024-04-19 |
-| [I Don′t Need You \(Feat\. Roydo\)](https://open.spotify.com/track/6RBB5rjfcNja2fk2SCOgyr) | [SUDI](https://open.spotify.com/artist/2UNjeY1rdhEAozH2hZJigF), [Roydo](https://open.spotify.com/artist/4Tq5nMU99vtYU8YV8lHVvC) | [I Don't Need You](https://open.spotify.com/album/6NxFBdEPn4DWmHxiGd2m1F) | 2:29 | 2025-05-14 |  |
+| [I Don′t Need You \(Feat\. Roydo\)](https://open.spotify.com/track/6RBB5rjfcNja2fk2SCOgyr) | [SUDI](https://open.spotify.com/artist/2UNjeY1rdhEAozH2hZJigF), [Roydo](https://open.spotify.com/artist/4Tq5nMU99vtYU8YV8lHVvC) | [I Don't Need You](https://open.spotify.com/album/6NxFBdEPn4DWmHxiGd2m1F) | 2:29 | 2025-05-14 | 2025-05-29 |
 | [I hate you](https://open.spotify.com/track/1XlSkQeITGEv8r6HIZfpfX) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [COLORFUL TRAUMA](https://open.spotify.com/album/2A3y4U3r7xzgicuJYisnOe) | 3:10 | 2025-04-23 |  |
 | [I KNOW ME BEST](https://open.spotify.com/track/0jMAXpFLWywfGLQAaiwKZL) | [OLNL](https://open.spotify.com/artist/4ls4GQkl0kkBlAWq2DgS0z) | [GOOD BOY SYNDROME](https://open.spotify.com/album/6uhGHBVumfvzagQxswoJ49) | 3:23 | 2022-05-03 | 2022-08-22 |
 | [I ≠ DOLL](https://open.spotify.com/track/1d6xaY4JvvqTWfgCeJAtWa) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [I ≠ DOLL](https://open.spotify.com/album/4i7Qx3fYBVlXJ7OOvqPXlT) | 2:30 | 2023-01-10 |  |
@@ -78,6 +78,7 @@
 | [Let It](https://open.spotify.com/track/7EUIqHUc6qKk7iVdG1W7RE) | [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [ALPHA](https://open.spotify.com/album/32lsJQmgxK7swVFGZYfQWg) | 3:04 | 2022-05-03 |  |
 | [Like Nothing \(Feat\. YOUHA, Kim Seungmin\)](https://open.spotify.com/track/0rSra7zqW05TvIVnJMSVo7) | [Minit](https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m), [YOUHA](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan), [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ) | [Like Nothing](https://open.spotify.com/album/3IBZkXFy4uNDKowRztNFYf) | 2:51 | 2024-09-13 |  |
 | [Live My Life](https://open.spotify.com/track/3ybJERCKs3Jf3aT7xU1Vs4) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Armageddon \- The 1st Album](https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB) | 2:39 | 2024-08-05 | 2025-01-30 |
+| [LOVE](https://open.spotify.com/track/3uEcpyQUi0PVHy2sXfO3mu) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I love](https://open.spotify.com/album/5P2uqhsUdWHQ8sEdsX9xZE) | 3:17 | 2025-05-28 |  |
 | [Love or Hate](https://open.spotify.com/track/0vSoQCBMCWBiLwrD2is0cP) | [Ryu Su Jeong](https://open.spotify.com/artist/6hrti7kBnnfAgy5Mq9wrQc) | [Love or Hate](https://open.spotify.com/album/2Xff5qFOIixfs1RyPlM43V) | 3:29 | 2023-04-06 | 2023-04-20 |
 | [Love or Hate](https://open.spotify.com/track/1dMzdjNYpSy1ji3dWa9AaH) | [Ryu Su Jeong](https://open.spotify.com/artist/6hrti7kBnnfAgy5Mq9wrQc) | [Love or Hate](https://open.spotify.com/album/73lmR1Fx6yF8KdtCRfr6a0) | 3:29 | 2023-04-06 | 2023-04-24 |
 | [Love or Hate](https://open.spotify.com/track/3d3tyA6cIMxNz3afJXTIYG) | [Ryu Sujeong](https://open.spotify.com/artist/6hrti7kBnnfAgy5Mq9wrQc) | [Archive of Emotions](https://open.spotify.com/album/4SO5d4ADjiyd17Tl9E1e03) | 3:29 | 2023-04-06 | 2024-03-28 |
@@ -118,7 +119,7 @@
 | [Summer Tights](https://open.spotify.com/track/6KeIkgoC8SUeJ4VPw5Lkx8) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [IITE COOL](https://open.spotify.com/album/2OjMA1arGnBXDE20XbesVL) | 3:34 | 2022-05-03 |  |
 | [Tattoo \(feat\. Jayci yucca, YongYong\)](https://open.spotify.com/track/7wMQDZtqHDxNnQNXitRfZG) | [Minit](https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m), [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM), [YongYong](https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK) | [\#LOVEMEORHATEME](https://open.spotify.com/album/3UIen3gIyymppgXGLjc5xk) | 3:15 | 2022-08-09 | 2023-02-09 |
 | [Thank U](https://open.spotify.com/track/5byscDL6SmZhKr8MbcoJcb) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE EMPATHY](https://open.spotify.com/album/7vwi3kXdpkaRO3if4N2gBN) | 3:11 | 2025-04-07 |  |
-| [to the star](https://open.spotify.com/track/38JciloenJBLfqFx5y0GOx) | [Minit](https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m), [OLNL](https://open.spotify.com/artist/4ls4GQkl0kkBlAWq2DgS0z), [YongYong](https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK) | [to the star](https://open.spotify.com/album/0VmJGq4B3FYPWTsOWkmdI3) | 2:37 | 2025-05-07 |  |
+| [to the star](https://open.spotify.com/track/38JciloenJBLfqFx5y0GOx) | [Minit](https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m), [OLNL](https://open.spotify.com/artist/4ls4GQkl0kkBlAWq2DgS0z), [YongYong](https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK) | [to the star](https://open.spotify.com/album/0VmJGq4B3FYPWTsOWkmdI3) | 2:37 | 2025-05-07 | 2025-05-29 |
 | [WANNA BE MYSELF](https://open.spotify.com/track/0VPBuXtEG16NtN5ZGYJ7lV) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [WANNA BE MYSELF](https://open.spotify.com/album/0n62copUsWrST9M6AsYfZI) | 3:26 | 2022-05-03 |  |
 | [WE ARE YOUNG](https://open.spotify.com/track/3iP1Ii8sXnYNUNpEGQMXx6) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [W.A.Y](https://open.spotify.com/album/7iidKsHRHGmJ1tAMz8tvZo) | 2:57 | 2023-02-24 |  |
 | [What Type of X](https://open.spotify.com/track/0LweQRsfJ3pRAJJFy6DrR1) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [What Type of X](https://open.spotify.com/album/5uKW3bLhtPgOev6tKRFJpX) | 3:18 | 2022-05-03 | 2025-05-08 |
@@ -127,5 +128,6 @@
 | [나 홀로 집에 Home Alone](https://open.spotify.com/track/1Hp7T2xCx2AAfWejmJEdsP) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [Right Through Me](https://open.spotify.com/album/5iolZ8XVFQP8lxZVBMXESZ) | 3:22 | 2025-04-16 |  |
 | [남자 없이 잘 살아](https://open.spotify.com/track/7hCnoPpEDBMGnooYnOCRPX) | [miss A](https://open.spotify.com/artist/1BEohdSWSBggmO979tzRwW) | [HUSH](https://open.spotify.com/album/27FDExxvG3h3XCUcJVlVSY) | 3:30 | 2022-05-03 | 2023-08-06 |
 | [쩔어 DOPE](https://open.spotify.com/track/0pGHou9D7JTMKbMfOLKy50) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [화양연화 The Most Beautiful Moment In Life, Pt\. 1](https://open.spotify.com/album/6yRUOoA0Z4jgr6qcKcFAbH) | 4:00 | 2022-05-03 | 2022-07-25 |
+| [혼자라도 좋아](https://open.spotify.com/track/097UCmhpdLbSoWYhxi8fjy) | [이한철](https://open.spotify.com/artist/1BXvzHfW6kvrfQn2MeQyq6), [Hello Ga\-Young](https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo) | [딩고푸드 OST](https://open.spotify.com/album/7qUhNznzzhCegLIdTIoSTi) | 4:02 | 2025-05-28 |  |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

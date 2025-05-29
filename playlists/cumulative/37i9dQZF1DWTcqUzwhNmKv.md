@@ -4,7 +4,7 @@
 
 > Linkin Park are on top of today's best Metal playlist.
 
-985 songs - 2 day 16 hr 35 min
+986 songs - 2 day 16 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -747,6 +747,7 @@
 | [Some Of Us](https://open.spotify.com/track/45YoWKaH5JdbpwpfRRQsqS) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH) | [Some Of Us](https://open.spotify.com/album/1bnH6BatxymLa5sUq7e3qc) | 3:33 | 2023-10-20 | 2024-02-03 |
 | [Someone's Daughter](https://open.spotify.com/track/2ZGrOclH0r6CFvlVGNVUlO) | [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [Someone's Daughter](https://open.spotify.com/album/43QTCpdlaIKgAVnCmaA0hh) | 4:17 | 2024-08-09 | 2024-09-14 |
 | [Something I'm Not](https://open.spotify.com/track/1uGjwm01UDtRWWACi6tQwd) | [Graphic Nature](https://open.spotify.com/artist/0QUcDHMfwBsMAufKXbzhkH) | [Who Are You When No One Is Watching?](https://open.spotify.com/album/5wrkIue3cXCux4doh1vEwM) | 3:25 | 2024-07-12 | 2024-11-30 |
+| [Song 3](https://open.spotify.com/track/7eDUTBIo76AMC5UYqkkzDL) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m) | [Song 3](https://open.spotify.com/album/0Cxa2LwLEBIpVglPWwiias) | 3:34 | 2025-05-26 |  |
 | [Song of the Dusk](https://open.spotify.com/track/59KysmBtOw5YYLV2UzbXeO) | [Insomnium](https://open.spotify.com/artist/3uIgLG971oRM5fe6v8lvQS) | [Song of the Dusk](https://open.spotify.com/album/7G8frDmB5Nl7hNEvOHE3om) | 9:43 | 2023-09-08 | 2023-10-21 |
 | [SOS](https://open.spotify.com/track/43AG34Hsu3k5sSwGYOWpBP) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [SOS](https://open.spotify.com/album/2oAnV3Zd5txIhmfUGX5fu2) | 3:39 | 2022-06-10 | 2022-08-06 |
 | [Soul Bleach](https://open.spotify.com/track/3kRGiGpjCFS7CtEBSfHNH0) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Darker Still](https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4) | 3:31 | 2023-03-24 | 2023-12-02 |

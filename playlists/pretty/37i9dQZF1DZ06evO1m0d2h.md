@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1m0d2h.md) - [plain]
 
 > This is Sleep Token\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,832 likes - 38 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,011 likes - 38 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1m0d2h.md) - [plain]
 | 37 | [When the Bough Breaks](https://open.spotify.com/track/4By7rlsQO5KBN9vWgSPHBa) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [One](https://open.spotify.com/album/6NJfEwMs0sdtxoDQyAo3jv) | 7:35 |
 | 38 | [When The Party's Over \- from the room below](https://open.spotify.com/track/6qH9hCt89r1o0NUWFRmj3n) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Sundowning \(Deluxe\)](https://open.spotify.com/album/21XQQZZq1cO45mJ2U3vVdp) | 2:26 |
 
-Snapshot ID: `aDOvAAAAAACC/+FF9iqEiJ1aM95kJY9W`
+Snapshot ID: `aDUAgAAAAAAu9Jhzn1FEGzRkCzP+MCZO`

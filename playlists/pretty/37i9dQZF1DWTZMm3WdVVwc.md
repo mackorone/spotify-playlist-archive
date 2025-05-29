@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZMm3WdVVwc.md) - [plain]
 
 > 肌寒い日々を少しだけ暖めるような冬の名曲たちを一つのプレイリストに。
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,085 likes - 80 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,080 likes - 80 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZMm3WdVVwc.md) - [plain]
 | 35 | [火星の冬](https://open.spotify.com/track/4UHzBwKTPCCB6OkpNgDM7Q) | [baboon](https://open.spotify.com/artist/7sBrAW25n2EA3ZVcYZ3TwL) | [火星の冬](https://open.spotify.com/album/1iuQx4uh0usnKThiGhSSOb) | 5:34 |
 | 36 | [スカーレット](https://open.spotify.com/track/5snNa3VGFhT80VzkVNPKTG) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [フェイクファー](https://open.spotify.com/album/5ZBM9scaALwFaVODbGmPMc) | 3:33 |
 | 37 | [スノースマイル](https://open.spotify.com/track/2l02YNthg1e2dyXrv8gacQ) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [ユグドラシル](https://open.spotify.com/album/6nAhyJYpMCLzRGeVLJrico) | 5:07 |
-| 38 | [Memory Lane](https://open.spotify.com/track/7hHrs2q5c5rtzHLJ2DKHTT) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Memory Lane & Winter Song](https://open.spotify.com/album/5IvpvVd9LKgHACcUSHL5Y8) | 3:12 |
-| 39 | [解氷](https://open.spotify.com/track/2dSrFR1iNipf8GUt3tp307) | [ナツノセ](https://open.spotify.com/artist/2oGGvMrukzgUrFNLxk2Mbe) | [解氷](https://open.spotify.com/album/1up2lZGnt5cfsKVf4BswJY) | 2:18 |
-| 40 | [愛をさわれたら](https://open.spotify.com/track/5DA6yq9ff76RQ6ol54WU1D) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [SIKK\-O](https://open.spotify.com/artist/62x90xtztIeFjU7Z9eVKDR), [Mamiko Suzuki](https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF) | [愛をさわれたら](https://open.spotify.com/album/1bN92M7cjUtDxKiTfZeMEA) | 3:45 |
+| 38 | [解氷](https://open.spotify.com/track/2dSrFR1iNipf8GUt3tp307) | [ナツノセ](https://open.spotify.com/artist/2oGGvMrukzgUrFNLxk2Mbe) | [解氷](https://open.spotify.com/album/1up2lZGnt5cfsKVf4BswJY) | 2:18 |
+| 39 | [愛をさわれたら](https://open.spotify.com/track/5DA6yq9ff76RQ6ol54WU1D) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [SIKK\-O](https://open.spotify.com/artist/62x90xtztIeFjU7Z9eVKDR), [Mamiko Suzuki](https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF) | [愛をさわれたら](https://open.spotify.com/album/1bN92M7cjUtDxKiTfZeMEA) | 3:45 |
+| 40 | [Memory Lane](https://open.spotify.com/track/7hHrs2q5c5rtzHLJ2DKHTT) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Memory Lane & Winter Song](https://open.spotify.com/album/5IvpvVd9LKgHACcUSHL5Y8) | 3:12 |
 | 41 | [Bedroom \(feat\. Anne\-Marie\)](https://open.spotify.com/track/2TkAUHBaCReXruGnMVPGNL) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Bedroom \(feat\. Anne\-Marie\)](https://open.spotify.com/album/2oF2nQnJr8Fg43g2oo68uX) | 3:23 |
 | 42 | [When You Say My Name](https://open.spotify.com/track/1LFFqnGA8n1QHlNcobioF8) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Winter Glow](https://open.spotify.com/album/6ZnV6RIYCZdozre4yDzIOu) | 3:31 |
 | 43 | [Focus](https://open.spotify.com/track/5y170aRBflCoZagqVYdUiq) | [荒谷翔大](https://open.spotify.com/artist/3H8pmg8yKsqyghjN9h1As2), [Mamiko Suzuki](https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF), [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [Focus](https://open.spotify.com/album/57jgzL9QOFsdEPVKPkYbhh) | 4:17 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZMm3WdVVwc.md) - [plain]
 | 51 | [ロマンスの神様](https://open.spotify.com/track/3cgfoF5qwhcPKVUaMa8QvJ) | [Kohmi Hirose](https://open.spotify.com/artist/0jMZY406RfgjK6PFKIRfAv) | [ロマンスの神様](https://open.spotify.com/album/122ZRlwkenkrIt1VAtHaDa) | 4:29 |
 | 52 | [クリスマスキャロルの頃には COCKTAIL SOUNDS MIX](https://open.spotify.com/track/6lHajEScMpuYpc6TH6iQe4) | [SKRYU](https://open.spotify.com/artist/3YI0IfapXX8M8W3zwzmcbM), [ESME MORI](https://open.spotify.com/artist/76H8LGZ7isj2XG6ZRMYpzK), [Junichi Inagaki](https://open.spotify.com/artist/7tZ4vIF5bfR7cI1VOVPvpy) | [クリスマスキャロルの頃には COCKTAIL SOUNDS MIX](https://open.spotify.com/album/0pmb5QZgIJnpsNj6PvfEIE) | 3:11 |
 | 53 | [沫雪](https://open.spotify.com/track/43wA7GO59hkeojRFu6jU4n) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [沫雪](https://open.spotify.com/album/7hMlSqny9Cm80ZQV77EC0Q) | 3:04 |
-| 54 | [Heaven](https://open.spotify.com/track/1G2kMwKAoqgHLPwi0hviHJ) | [Olivia Marsh](https://open.spotify.com/artist/18F9xpCQ8GFkKP12gonZnq) | [Heaven](https://open.spotify.com/album/3Qbyc7jDRAi4akv2JPbsV4) | 2:35 |
-| 55 | [白雪の王子様](https://open.spotify.com/track/072CGgPBvuShcATDbQRMuW) | [はせとも。](https://open.spotify.com/artist/78GY7TOWZWZcA660hCkVPb) | [白雪の王子様](https://open.spotify.com/album/4FlwnZjrssEiIG1uaf4GQe) | 4:37 |
+| 54 | [白雪の王子様](https://open.spotify.com/track/072CGgPBvuShcATDbQRMuW) | [はせとも。](https://open.spotify.com/artist/78GY7TOWZWZcA660hCkVPb) | [白雪の王子様](https://open.spotify.com/album/4FlwnZjrssEiIG1uaf4GQe) | 4:37 |
+| 55 | [Heaven](https://open.spotify.com/track/1G2kMwKAoqgHLPwi0hviHJ) | [Olivia Marsh](https://open.spotify.com/artist/18F9xpCQ8GFkKP12gonZnq) | [Heaven](https://open.spotify.com/album/3Qbyc7jDRAi4akv2JPbsV4) | 2:35 |
 | 56 | [Snow White](https://open.spotify.com/track/6WytRwLSMdF6W4exCxR3qu) | [もさを。](https://open.spotify.com/artist/71KI7v1YqVU8cIFzBl47dh) | [Snow White](https://open.spotify.com/album/5NgUEYWKs6lhgAvgMg0moE) | 3:23 |
 | 57 | [snowspring](https://open.spotify.com/track/7tonj11VpAOhsOH7QgJPhq) | [ChoQMay](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [snowspring](https://open.spotify.com/album/6097pqjwHjLkbbWj30WQmt) | 3:42 |
 | 58 | [snow love](https://open.spotify.com/track/23keEnxeTVoQv1gWsPkPFj) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [snow love](https://open.spotify.com/album/67HG1uLY4tFmC6L3aNxjmS) | 3:26 |

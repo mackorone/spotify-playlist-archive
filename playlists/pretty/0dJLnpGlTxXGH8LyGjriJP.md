@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 
 > 
 
-[skillstreet](https://open.spotify.com/user/skillstreet) - 3 likes - 852 songs - 1 day 19 hr 31 min
+[skillstreet](https://open.spotify.com/user/skillstreet) - 3 likes - 853 songs - 1 day 19 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -860,5 +860,6 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 | 850 | [Indecisive \- Is It A Crime](https://open.spotify.com/track/1f4NJhdLUzvAo13K7XTsh6) | [Kidwild](https://open.spotify.com/artist/5IR3SxDdtCCw6KD1aoF6w9) | [Indecisive \(Is It A Crime\)](https://open.spotify.com/album/2F20qsTyxv3SqUsRghi2Bk) | 2:22 |
 | 851 | [LVL](https://open.spotify.com/track/787rCZF9i4L1cXGMkdyIk4) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [LONG.LIVE.A$AP \(Deluxe Version\)](https://open.spotify.com/album/6rzMufuu8sLkIizM4q9c7J) | 3:40 |
 | 852 | [VALENTINO](https://open.spotify.com/track/6piAUJJQFD8oHDUr0b7l7q) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [DROPPED OUTTA COLLEGE](https://open.spotify.com/album/2eLpj5EDUhyAoTks8sxcKR) | 2:59 |
+| 853 | [Can't Have Everything](https://open.spotify.com/track/5f5r2N4Lp9WoULWPH9zp2W) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [More Life](https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK) | 3:48 |
 
-Snapshot ID: `AAAEEEW8L3UQtIfLZFGtCxatnt06CsYE`
+Snapshot ID: `AAAEEQWodz99UlQlonqLW86ZSFlHXp/L`

@@ -4,7 +4,7 @@
 
 > C'est parti pour une bonne journée.
 
-246 songs - 15 hr 25 min
+247 songs - 15 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [Parallel Lines](https://open.spotify.com/track/2h9k3txmnkPpDzMhgohEZO) | [Cocoon](https://open.spotify.com/artist/15h5B5quwDm2C1rhbtvUPD) | [What We Leave Behind](https://open.spotify.com/album/5glE2xnhRJnkan4lHWgXJt) | 2:42 | 2025-05-16 |  |
 | [Parallel Lives \- Acoustic](https://open.spotify.com/track/2Cq7TjQSRjRkxpgPXVaQUW) | [Revolver](https://open.spotify.com/artist/2ERWfqqrtdXicQJ9wcOONf) | [Parallel Lives](https://open.spotify.com/album/1FBzhOIzvStn8WRPUWqNyn) | 4:02 | 2024-03-27 | 2025-04-16 |
 | [Peace and Tranquility to Earth](https://open.spotify.com/track/7jKp4Yl1p89ByCMOjh2fHR) | [Roudoudou](https://open.spotify.com/artist/6YTtkGLYyAHNUGD8PVL6SL) | [Listener's Digest](https://open.spotify.com/album/6VsiGQn3S3dgape5u4dZhB) | 4:13 | 2024-09-17 | 2025-04-16 |
+| [Pegasus \(ft\. Phoebe Bridgers\)](https://open.spotify.com/track/2oZH5jrlSr0sFWoiIymVHh) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Pegasus \(ft\. Phoebe Bridgers\)](https://open.spotify.com/album/0gsw4flnfCrEqGr16ACAoQ) | 3:06 | 2025-05-22 |  |
 | [Playground Love](https://open.spotify.com/track/052z2UsE2wPrHsBJ9tly0g) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ), [Gordon Tracks](https://open.spotify.com/artist/4DWl8U58uYeeTtlvbrLEY6) | [The Virgin Suicides \(Original Motion Picture Score\)](https://open.spotify.com/album/2E1q8eohZZ1BUQ7Bq5WUIY) | 3:31 | 2022-12-06 | 2024-04-19 |
 | [Put Your Records On](https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Corinne Bailey Rae](https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg) | 3:35 | 2023-05-31 | 2025-05-17 |
 | [Rails of the Night](https://open.spotify.com/track/57qJCSxKFD5Q4tpR3EJDwC) | [Kids Return](https://open.spotify.com/artist/5U4QUWaCwxvtUz2hTu0Bkq) | [Rails of the Night](https://open.spotify.com/album/7pYyi4rilAKFda806Y85VS) | 4:00 | 2024-05-23 | 2024-09-18 |
@@ -225,7 +226,7 @@
 | [The Sweet Sound of You](https://open.spotify.com/track/6LAUgmGpZBFq2dHmcYCcot) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [The Sweet Sound of You](https://open.spotify.com/album/30NwPn9L2yYV1FD5KSSZVF) | 4:57 | 2023-03-16 | 2023-08-23 |
 | [The World to Come](https://open.spotify.com/track/325PBLnQFZSCjsh4UOop2s) | [Fredrika Stahl](https://open.spotify.com/artist/3hWWpC6XAABcySpC1id9Q5) | [Tomorrow \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6ShjDdzaBsJnc0ke9IysmB) | 3:14 | 2022-12-06 | 2023-02-22 |
 | [There's A Rhythmn](https://open.spotify.com/track/7uWS4zoWMNU9fUPojMYilC) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE, fABLE](https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T) | 5:16 | 2025-04-15 |  |
-| [THINGS BEHIND THINGS BEHIND THINGS](https://open.spotify.com/track/2kyL1eP0mluFHYlAwKySzj) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE,](https://open.spotify.com/album/2Cwxsws0uZcu61gliYLOEm) | 3:20 | 2025-04-15 |  |
+| [THINGS BEHIND THINGS BEHIND THINGS](https://open.spotify.com/track/2kyL1eP0mluFHYlAwKySzj) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE,](https://open.spotify.com/album/2Cwxsws0uZcu61gliYLOEm) | 3:20 | 2025-04-15 | 2025-05-29 |
 | [To Know Him Is To Love Him \- Live](https://open.spotify.com/track/1Nz1PPjU3ONNEgjg8Pkppg) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 2:25 | 2022-12-06 | 2025-04-16 |
 | [To Zion \(feat\. Carlos Santana\)](https://open.spotify.com/track/7x6hO9VMAee9x1iWaeNkL6) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl), [Carlos Santana](https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 6:09 | 2023-11-22 | 2025-04-16 |
 | [Too Much](https://open.spotify.com/track/1Bb8NUOSX6jEdjLtR5TEuQ) | [Tora](https://open.spotify.com/artist/7KGI0OwY8iAL5rI5p47YyK) | [Take A Rest](https://open.spotify.com/album/3Zvzi22zGjr2oql67k8TgK) | 2:34 | 2023-02-21 | 2024-04-19 |

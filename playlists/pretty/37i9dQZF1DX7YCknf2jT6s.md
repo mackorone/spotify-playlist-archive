@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Hamilton De Holanda
 
-[Spotify](https://open.spotify.com/user/spotify) - 952,204 likes - 100 songs - 8 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 952,160 likes - 100 songs - 8 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Burna Boy, Seyi Vibez, Bhadboy OML  and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,589 likes - 67 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,683 likes - 67 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6qlZhVcPgV2bWXdUuEDoST">Ink</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-69 songs - 3 hr 58 min
+70 songs - 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Don't Worry \(feat\. Ink\)](https://open.spotify.com/track/2MUTyvTF8gnrxz4KKNHkCo) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Gold\-Diggers Sound](https://open.spotify.com/album/6pKaUDUnQiZgWLPZJqwkzn) | 6:41 | 2022-05-25 |  |
 | [Frenesí](https://open.spotify.com/track/7Kz2Op4u003oogY6FTqDkB) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Sueños de Dalí](https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK) | 3:13 | 2022-05-25 |  |
 | [Friday](https://open.spotify.com/track/03bOA3BAjZiqJOGyFmWYFz) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Friday](https://open.spotify.com/album/7syOKNR2x90o9MzqJI91hQ) | 3:28 | 2024-06-10 |  |
+| [Funk Is On The One](https://open.spotify.com/track/4Isde3N1AFgQDqhFiYHraP) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Black Mona Lisa](https://open.spotify.com/album/5TjZrtwHeIxK4KUGZcQe27) | 2:38 | 2025-05-28 |  |
 | [gloria \(with sza\)](https://open.spotify.com/track/0wgOhYnqZKjOHr6bmdz0aN) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 4:47 | 2025-04-16 |  |
 | [Greatest Love Story Never Told](https://open.spotify.com/track/4FAs3OblD5UR4gKdpwcprV) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [This Is Me...Now](https://open.spotify.com/album/22B2vyeQD9MWvsuLDU3yCt) | 3:07 | 2024-02-18 |  |
 | [Hear Me \(feat\. Ink\)](https://open.spotify.com/track/7sFWuqjE6nFlKQxVVWcXUq) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [From Dark to Light](https://open.spotify.com/album/1Dp8DJTwLzqxscHc6nHrio) | 2:58 | 2022-05-25 |  |

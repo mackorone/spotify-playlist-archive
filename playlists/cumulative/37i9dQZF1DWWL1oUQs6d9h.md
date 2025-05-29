@@ -4,7 +4,7 @@
 
 > 머릿속은 복잡하지만, 겉으로는 칠 & 쿨해보이고 싶을 때
 
-53 songs - 2 hr 49 min
+56 songs - 2 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,11 +28,12 @@
 | [Flowers](https://open.spotify.com/track/4u9cOL7R5OjAmlWkeEFXzf) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Whiplash \- The 5th Mini Album](https://open.spotify.com/album/3OaW4df1SA62k0arNpn6bK) | 3:10 | 2025-05-16 |  |
 | [Get Up](https://open.spotify.com/track/1wUnuiXMMvhudmzvcCtlZP) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 2nd EP 'Get Up'](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | 0:36 | 2025-05-16 |  |
 | [H.S.K.T\. \(feat\. Wonstein\)](https://open.spotify.com/track/39382sUtIOwIXftX0i76do) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [4 ONLY](https://open.spotify.com/album/1DKgZeAYrjslAPZVMe6EFt) | 3:24 | 2025-05-16 |  |
+| [Heaven](https://open.spotify.com/track/5NQpRUfFQh3jB0guBAkYWu) | [Red Velvet \- IRENE & SEULGI](https://open.spotify.com/artist/6bwp9ObI8FWvMPCIWVBmhl) | [TILT \- The 2nd Mini Album](https://open.spotify.com/album/706xdC5SJBOk85HoJSFJeq) | 3:00 | 2025-05-29 |  |
 | [how u been?](https://open.spotify.com/track/14MljYk21TMPj3cOQ8Rsz6) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [how u been?](https://open.spotify.com/album/3IFf3W3XEgx6uD0Ok6XknE) | 2:34 | 2025-05-16 |  |
 | [I’m not good at](https://open.spotify.com/track/0lpvVtvprYHA8L0uBYTFtS) | [Mitty](https://open.spotify.com/artist/1RyHoiUL5MomO7N7kzgZjQ) | [I’m not good at](https://open.spotify.com/album/7rTw76epZxmCpniX4WVDjc) | 3:43 | 2025-05-16 |  |
 | [Jasmine](https://open.spotify.com/track/2IgbYlOlFpiSFYnsqB39lM) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [Jasmine](https://open.spotify.com/album/2J4lOWOjWUYBRJoShrhAGk) | 3:21 | 2025-05-16 |  |
 | [lake](https://open.spotify.com/track/2JvEusETnf9dVDu7xzrbRN) | [JEONG SEWOON](https://open.spotify.com/artist/2l9aF9jOgB7GI1uyNkx836) | [Brut](https://open.spotify.com/album/2JiPV8SXl4Rcvh4qOAacwy) | 3:17 | 2025-05-16 |  |
-| [LATE](https://open.spotify.com/track/5dINyexwj0eNiugJREkRd5) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [LATE](https://open.spotify.com/album/4vssHzH0VzPsTf23EtiMJH) | 2:46 | 2025-05-22 |  |
+| [LATE](https://open.spotify.com/track/5dINyexwj0eNiugJREkRd5) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [LATE](https://open.spotify.com/album/4vssHzH0VzPsTf23EtiMJH) | 2:46 | 2025-05-22 | 2025-05-29 |
 | [Let's Fall in Love for the Night](https://open.spotify.com/track/4pfhgOylRLcBll5JjUsJZj) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony](https://open.spotify.com/album/2b7DunZFOVCs0QgiTI1FJW) | 3:10 | 2025-05-16 |  |
 | [Like I Want You](https://open.spotify.com/track/6qBFSepqLCuh5tehehc1bd) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 4:20 | 2025-05-16 |  |
 | [LIT RIGHT NOW](https://open.spotify.com/track/1wfX8k5P1DPRbmQ6bCy9pv) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [MY EYES OPEN VVIDE](https://open.spotify.com/album/2EXqumr0ulSCCt63qG1ar7) | 2:34 | 2025-05-16 | 2025-05-23 |
@@ -41,13 +42,15 @@
 | [Love Me](https://open.spotify.com/track/4qgMPzf9QOETWQFUcFkHD4) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Love Me](https://open.spotify.com/album/7hgekZLPc8OHgk8kAaPkel) | 3:27 | 2025-05-16 |  |
 | [luther \(with sza\)](https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:57 | 2025-05-16 |  |
 | [Mind Games](https://open.spotify.com/track/7C68wOAArdMX3A9EVfT1cA) | [Sickick](https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS) | [Mind Games](https://open.spotify.com/album/6wGP1KJLJ6kXnWf0qnOtyB) | 4:18 | 2025-05-16 |  |
+| [Need](https://open.spotify.com/track/51Ge0cFUSzgr3jCCIsurEE) | [Collective Arts](https://open.spotify.com/artist/2wqU6s6XzEQBmbVNvo8HRM), [Damien](https://open.spotify.com/artist/6rY6f9sVehHVXVAOfLrgKf) | [STORY\#33](https://open.spotify.com/album/6DBTjyVMyMhDEIP8gapl0S) | 2:48 | 2025-05-29 |  |
 | [needalove](https://open.spotify.com/track/1oMUumys2cIeMUeShaXhUy) | [OuiOui](https://open.spotify.com/artist/11BHuhJ2jEMPNJ3WpwZVT8) | [needalove](https://open.spotify.com/album/44E2RLXYSEYXjK0kMD8orQ) | 3:18 | 2025-05-22 |  |
 | [peach eyes](https://open.spotify.com/track/72UVMFjUAL6KJvwi36VBiz) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [0.1 flaws and all.](https://open.spotify.com/album/5T0Gt5JYXh6gEttuB8ujML) | 3:05 | 2025-05-16 |  |
-| [Popo \(How deep is our love?\)](https://open.spotify.com/track/6hQHOFxszCnn9Fsodazpcn) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Every letter I sent you.](https://open.spotify.com/album/22DH3kdbdLrelnvpkf6VHu) | 4:31 | 2025-05-16 |  |
+| [Popo \(How deep is our love?\)](https://open.spotify.com/track/6hQHOFxszCnn9Fsodazpcn) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Every letter I sent you.](https://open.spotify.com/album/22DH3kdbdLrelnvpkf6VHu) | 4:31 | 2025-05-16 | 2025-05-29 |
 | [Praying](https://open.spotify.com/track/28FSGvQfafhr7oq5vbJOon) | [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [Accidentally On Purpose \- The 2nd Mini Album](https://open.spotify.com/album/70RduzYb3gbtmVs88CpAHV) | 3:05 | 2025-05-16 |  |
 | [Pygma girl](https://open.spotify.com/track/5fR0q66vzg3bCvH2vhBFUe) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [EVE: ROMANCE](https://open.spotify.com/album/4OrisjS1FiGCNucXdwtd3Y) | 3:37 | 2025-05-16 |  |
 | [Raise y\_our glass](https://open.spotify.com/track/7j1vFohEm1lbsctYY9gyGd) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [Raise y\_our glass](https://open.spotify.com/album/5Ty5fWBzQypVhiboHneO3y) | 3:32 | 2025-05-16 |  |
-| [Roses](https://open.spotify.com/track/6aSwH4whSmRnIZGwjXZS4C) | [JAEHYUN](https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu) | [J \- The 1st Album](https://open.spotify.com/album/1I0XP2ChShL3fZQ6mEMVtz) | 2:48 | 2025-05-16 |  |
+| [Reuben](https://open.spotify.com/track/3Y51ddb8xmMxDKCWHZa13h) | [Izykite](https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx) | [Reuben](https://open.spotify.com/album/30bpwihRVMaxSS6PEbplDe) | 2:33 | 2025-05-29 |  |
+| [Roses](https://open.spotify.com/track/6aSwH4whSmRnIZGwjXZS4C) | [JAEHYUN](https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu) | [J \- The 1st Album](https://open.spotify.com/album/1I0XP2ChShL3fZQ6mEMVtz) | 2:48 | 2025-05-16 | 2025-05-29 |
 | [Saturn](https://open.spotify.com/track/040I32EKLxQrkuxQu1pqvT) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 3:06 | 2025-05-16 |  |
 | [Say](https://open.spotify.com/track/49PPH7Kji3bCyKKNx78SxS) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem](https://open.spotify.com/album/5DfKDonIvNlxlzA4ORIOFm) | 3:01 | 2025-05-16 |  |
 | [Shameful Game](https://open.spotify.com/track/7IwPrc0AZV9uMSPitvJMxx) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM) | [The Celestial Suite](https://open.spotify.com/album/74H9AkTLaEp1YsSlXqsXDN) | 3:05 | 2025-05-16 |  |

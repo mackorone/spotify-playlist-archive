@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. Cover: effe
 
-4,034 songs - 9 day 5 hr 56 min
+4,036 songs - 9 day 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1638,7 +1638,7 @@
 | [HOT](https://open.spotify.com/track/1UVRdZRAiW3GomKSg81PLE) | [La Felix](https://open.spotify.com/artist/3PoWaGWGbWmC3DrCOyGXOj) | [HOT](https://open.spotify.com/album/1KmisFnVTIct9oBmATe41I) | 3:38 | 2023-05-03 | 2023-05-31 |
 | [hot and talking](https://open.spotify.com/track/72vZQDoPeWNmo9cbuAfFvY) | [JUNO](https://open.spotify.com/artist/5rxsXE7ZCWfW3ft7Dc5eyu) | [hot and talking](https://open.spotify.com/album/06Wt4oQiVFEWTbR2G65Qie) | 3:28 | 2025-04-15 |  |
 | [HOT COFFEE](https://open.spotify.com/track/5SzO1JqUUQ5gfIOGEdPyiP) | [BANTA.](https://open.spotify.com/artist/67cC7FAq0g7QBM0AtxLrxl), [Snory](https://open.spotify.com/artist/0dqFBXDxYVSrc3UfXzAYaT) | [HOT COFFEE](https://open.spotify.com/album/7c214bkLaFeeF2d8TfFFjn) | 1:48 | 2022-08-03 | 2022-09-01 |
-| [HOT GLUE](https://open.spotify.com/track/20T769G30FQRJNpQS2lC4K) | [RAGEFLOWER](https://open.spotify.com/artist/0jHAwb83XpyQCuKAsrNaNG) | [HOT GLUE](https://open.spotify.com/album/6ibwHMqW0VVpDmwqQEExkU) | 3:31 | 2025-04-22 |  |
+| [HOT GLUE](https://open.spotify.com/track/20T769G30FQRJNpQS2lC4K) | [RAGEFLOWER](https://open.spotify.com/artist/0jHAwb83XpyQCuKAsrNaNG) | [HOT GLUE](https://open.spotify.com/album/6ibwHMqW0VVpDmwqQEExkU) | 3:31 | 2025-04-22 | 2025-05-29 |
 | [Hotel Santa Cruz](https://open.spotify.com/track/4tqA8kBbA7n4saOWUWJJTC) | [Nadia Reid](https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn) | [Hotel Santa Cruz](https://open.spotify.com/album/3q8BNZU23MZ36bMGbMmzEO) | 3:26 | 2024-11-12 | 2025-01-29 |
 | [HOUDINI](https://open.spotify.com/track/6ZEEp282K8eqwV7EG59mwD) | [Mulalo](https://open.spotify.com/artist/5gUm9HBoHkyMtwmPyDJfNn) | [HOUDINI](https://open.spotify.com/album/0MCR2VzikC4fNV3VQFEKZl) | 2:37 | 2022-12-02 | 2023-01-13 |
 | [HOUDINI](https://open.spotify.com/track/77qqkGyIATml8aUFgHSbBN) | [Mulalo](https://open.spotify.com/artist/5gUm9HBoHkyMtwmPyDJfNn) | [HOUDINI](https://open.spotify.com/album/71S8wbGOnbvDHd10xyA7Mt) | 2:37 | 2022-10-26 | 2022-12-05 |
@@ -1795,6 +1795,7 @@
 | [Impasse](https://open.spotify.com/track/1cqerDgdNRkvBJAHPOt5ro) | [Arbes](https://open.spotify.com/artist/4EJsm8GVADYCXpKNNrFjtu) | [Impasse](https://open.spotify.com/album/1ympZk0PVl95hpwl7HBqrp) | 3:38 | 2024-07-30 | 2024-10-02 |
 | [Impatient](https://open.spotify.com/track/2jUVA18Y7mUrua67tZac8D) | [Annie Burnell](https://open.spotify.com/artist/5AkGCUXcX19cuzPypmd2uB) | [Impatient](https://open.spotify.com/album/5cuKlogmEveR6kJTvOmgoa) | 4:08 | 2022-03-01 | 2022-03-24 |
 | [Impatient \(feat\. Safety Club\)](https://open.spotify.com/track/65NUBrgDiJKJTXh8OQuQ75) | [Pink Matter](https://open.spotify.com/artist/3akS61Yn88YZAfQyD0Z7x8), [SAFETY CLUB](https://open.spotify.com/artist/52OF5mGGrAg9kdlq9Qkkd4) | [Impatient \(feat\. Safety Club\)](https://open.spotify.com/album/0VE3gGmU4YJNaW7BHJVAZs) | 3:05 | 2024-03-07 | 2024-05-01 |
+| [Imperfections](https://open.spotify.com/track/1qYalXlo1QlcuK2D2QCkMV) | [Celly](https://open.spotify.com/artist/7zBBABGp1O95Fills6I7MN) | [Imperfections](https://open.spotify.com/album/16MMr4oW3i5YvYH4jxBk6O) | 2:36 | 2025-05-29 |  |
 | [IMU](https://open.spotify.com/track/4XVLp9PovkY40LHxzYP3Eo) | [Elie G](https://open.spotify.com/artist/6KKIDnWEYeBvdIHzZGaXJd), [VERBB](https://open.spotify.com/artist/7btDUoOpCkFj1zrIEZKL1b) | [IMU](https://open.spotify.com/album/7BvtxPMhtRR1cDV5ycdmRP) | 3:01 | 2023-10-19 | 2023-11-16 |
 | [IN & OUT](https://open.spotify.com/track/6vIjaUSu7cNdK3yrTdS2VK) | [KILL Carter](https://open.spotify.com/artist/6ZjGM1y9VoXBIdDspZAS04), [YNG Martyr](https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF) | [IN & OUT](https://open.spotify.com/album/4FcPdx3UqnbcQaoDHyshe1) | 2:25 | 2023-03-29 | 2023-04-20 |
 | [In 10,000 Places](https://open.spotify.com/track/2MThJYGRpWfPmfdK04VrjQ) | [Jennifer Loveless](https://open.spotify.com/artist/2Vsiki0qM11ADccRwwvS1c) | [In 10,000 Places](https://open.spotify.com/album/7F67kb9cW8j6aT5OksMoCS) | 6:35 | 2021-12-28 | 2022-01-13 |
@@ -2415,6 +2416,7 @@
 | [New Feelings](https://open.spotify.com/track/2aqlCJQ2LSz3yA1dBsAH6G) | [Ashli](https://open.spotify.com/artist/2T0p9A9mK7wpiXNrSb2jP9) | [New Feelings](https://open.spotify.com/album/5uMABp0y0oZXkLrYlwtOFZ) | 3:02 | 2023-10-04 | 2023-10-27 |
 | [NEW FLAME](https://open.spotify.com/track/4RZRQYMCISad56aOeBaBAc) | [MUNGMUNG](https://open.spotify.com/artist/1WFXknBooWyCTpQuVhhCfd) | [NEW FLAME](https://open.spotify.com/album/5Ho3pkkGrQK7uiReIkFPir) | 3:02 | 2022-02-16 | 2022-03-02 |
 | [New High](https://open.spotify.com/track/48ZHyBju731LtrATqM3LhQ) | [dust](https://open.spotify.com/artist/1QcbaOVrpo91k6rHnzhMeA) | [New High](https://open.spotify.com/album/2YCEnnEB1dUwaLBvhfkK75) | 3:41 | 2024-11-05 | 2025-01-22 |
+| [New Leaf](https://open.spotify.com/track/49zSGc0saqGp4x1S5XwIqS) | [Soft Bait](https://open.spotify.com/artist/2GdDNUCO7QLHKxHvWOkl2J) | [New Leaf](https://open.spotify.com/album/2HPraiTLNZwRFs99OmZiAt) | 4:19 | 2025-05-28 |  |
 | [NEW LOOK](https://open.spotify.com/track/3lXlc6GrqR5V1yJQBNv7uz) | [Adrian Dzvuke](https://open.spotify.com/artist/3fgolNSZnidBlbm5dFi4go), [Tasman Keith](https://open.spotify.com/artist/3Pe4IIW9HoZsmBlKa5G6I1) | [NEW LOOK](https://open.spotify.com/album/76DQoYLUryBKtyJMc3R8mg) | 2:28 | 2023-03-29 | 2023-04-20 |
 | [New Me](https://open.spotify.com/track/2kwXNOQcNcXbEEem2So0K1) | [Adam Kneale](https://open.spotify.com/artist/6T3ymX60WEaWLqvqb3TNSg), [J.Rob The Chief](https://open.spotify.com/artist/3eFvhpLbVKTlhGWaazeeG6) | [New Me](https://open.spotify.com/album/0ZJIDnTWN81Z0Zn9NqKjls) | 2:30 | 2022-01-12 | 2022-02-03 |
 | [New Psyche](https://open.spotify.com/track/4LjYu3BWutmbJVbdRNCX6X) | [Leaping Tiger](https://open.spotify.com/artist/6msX2U4FuNMIIDGdCrIuXm) | [New Psyche](https://open.spotify.com/album/6D7xeYzEEQ2OA9y2wJ59WA) | 2:07 | 2022-05-18 | 2022-06-01 |
@@ -3477,7 +3479,7 @@
 | [The Beat Won't Let You Down](https://open.spotify.com/track/2VYjZWtYWH4E50Op0ujQQU) | [Bum Bag](https://open.spotify.com/artist/2WS2Qwnxq1hrwwgfMLFTDW) | [The Beat Won't Let You Down](https://open.spotify.com/album/2aq70loH3mPqm5f6wqVdvd) | 2:32 | 2024-11-05 | 2025-02-19 |
 | [The Best](https://open.spotify.com/track/64BqEabe0rJ2qQhwcBRif4) | [Isadora](https://open.spotify.com/artist/61Br6Weriwjaa2MMeIVx9v) | [The Best](https://open.spotify.com/album/1EqJLyJChQ9ebCMU7xVTm9) | 3:12 | 2021-12-28 | 2022-01-13 |
 | [The Block](https://open.spotify.com/track/7JfXu4pBLtwpU5DxDT9qn2) | [A.GIRL](https://open.spotify.com/artist/3oy9LLKC0pjYsIVAi7GHVW) | [The Block](https://open.spotify.com/album/0EZWcw8t1GlIBukRZh3nkj) | 2:40 | 2022-07-13 | 2022-08-25 |
-| [The Breaking Line](https://open.spotify.com/track/7JyeRAlbQVelxw9mu3nHMA) | [GRMLN](https://open.spotify.com/artist/3RE9lrTTbnp2GUwHrGS40f) | [The Breaking Line](https://open.spotify.com/album/0TTsmT7a7ebsK1tiSpKOOA) | 3:02 | 2025-04-08 |  |
+| [The Breaking Line](https://open.spotify.com/track/7JyeRAlbQVelxw9mu3nHMA) | [GRMLN](https://open.spotify.com/artist/3RE9lrTTbnp2GUwHrGS40f) | [The Breaking Line](https://open.spotify.com/album/0TTsmT7a7ebsK1tiSpKOOA) | 3:02 | 2025-04-08 | 2025-05-29 |
 | [The Burnout](https://open.spotify.com/track/7oS9cc0RQxVHz50ogDtAMr) | [Sam Bambery](https://open.spotify.com/artist/3RGAUSwRfNHGcwGgO0osy5) | [The Burnout](https://open.spotify.com/album/597PeBwrhKAH0663c3QB76) | 4:48 | 2024-04-08 | 2024-05-22 |
 | [The Castle](https://open.spotify.com/track/45qndRKzp0pLyywNtP9sRH) | [Ruumi](https://open.spotify.com/artist/5mKU3kgUjOuA28cUxlJ20J), [Craterface](https://open.spotify.com/artist/7jmXkFtJK2CsXP2h1dvhx0) | [AT THE CASTLE STEPS](https://open.spotify.com/album/3uj0AkKLBOgLT6WL1kyvkq) | 2:27 | 2022-07-27 | 2022-08-25 |
 | [The Charm](https://open.spotify.com/track/1Zrxs8fMyCs0rNVFU2WaJA) | [Body Type](https://open.spotify.com/artist/2gOqvEhTe5TjetSBfivC4D) | [The Charm](https://open.spotify.com/album/50zgqhiR8fzTXNQIlFOLI7) | 4:09 | 2022-05-04 | 2022-05-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,791 likes - 50 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,792 likes - 50 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [NAME](https://open.spotify.com/track/0GGAbLItGQQ0ebKUISsAHW) | [OBLADAET](https://open.spotify.com/artist/1hwKCeSXpLrh4OQND6iQHw), [Icegergert](https://open.spotify.com/artist/4z3TiM4dsnvWDRcnqf3l0r) | [735](https://open.spotify.com/album/49pB2UYcKbELlIfjMPAJ2t) | 2:48 |
 | 50 | [PASSO BEM SOLTO \- Slowed](https://open.spotify.com/track/4sTlQPMyoFMPdhAJvErBN3) | [ATLXS](https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah) | [PASSO BEM SOLTO](https://open.spotify.com/album/0I7096R74VFP2xnMmp33sY) | 1:56 |
 
-Snapshot ID: `L8ks+AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L8p+eAAAAAAAAAAAAAAAAAAAAAAAAGVu`

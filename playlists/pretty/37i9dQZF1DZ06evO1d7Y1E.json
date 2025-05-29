@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Poze do Rodo. The essential tracks, all in one playlist.",
-  "num_followers": 117017,
+  "num_followers": 117030,
   "original_name": "This Is Mc Poze do Rodo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDOvAAAAAACvoundTRmTMqC5csnPdIH+",
+  "snapshot_id": "aDUAgAAAAABk39HjB2RxwaYkDln4uFTK",
   "tracks": [
     {
       "added_at": null,
@@ -499,6 +499,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vida Louca",
+        "url": "https://open.spotify.com/album/3qaeGIuXmO4lNgGgerapPc"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Neo Beats",
+          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        }
+      ],
+      "duration_ms": 155675,
+      "name": "Vida Louca",
+      "url": "https://open.spotify.com/track/7IG7laqVpcvIIULrwWP5SA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Todo Mundo Odeia o IG",
         "url": "https://open.spotify.com/album/5DgYAKr0iKOHjwEf9nKMs4"
       },
@@ -551,30 +575,6 @@
       "duration_ms": 703157,
       "name": "Diz A\u00ed Qual \u00e9 o Plano?",
       "url": "https://open.spotify.com/track/7pnqm6UEb7SzpDxb53wULT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vida Louca",
-        "url": "https://open.spotify.com/album/3qaeGIuXmO4lNgGgerapPc"
-      },
-      "artists": [
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Neo Beats",
-          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        }
-      ],
-      "duration_ms": 155675,
-      "name": "Vida Louca",
-      "url": "https://open.spotify.com/track/7IG7laqVpcvIIULrwWP5SA"
     },
     {
       "added_at": null,

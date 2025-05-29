@@ -4,13 +4,14 @@
 
 > This is Sister Rosetta Tharpe\. The essential tracks, all in one playlist.
 
-141 songs - 7 hr 2 min
+142 songs - 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [99 1/2 Won't Do](https://open.spotify.com/track/7AJRlFDvX1PhxFIDJRMMFS) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Gospel Train \(Expanded Edition\)](https://open.spotify.com/album/3OGOZW8wCyD0zj254FZ0Ei) | 1:59 | 2022-05-25 |  |
 | [All Alone](https://open.spotify.com/track/0rsTuDQFai2jbs5D2yAxo6) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Gospel Train](https://open.spotify.com/album/3TdM8fxuOgqJoEA8tS84Px) | 2:37 | 2024-01-11 |  |
 | [All Alone](https://open.spotify.com/track/2FAyOevYFLDtGudjSiWUlw) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Gospel Train \(Expanded Edition\)](https://open.spotify.com/album/3OGOZW8wCyD0zj254FZ0Ei) | 2:40 | 2022-05-25 | 2024-01-12 |
+| [All Over This World](https://open.spotify.com/track/41en8GGsFVRqSrqSGNJPqJ) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Just a Closer Walk With Thee](https://open.spotify.com/album/2CuZe0vzmqXgu5hqbDWFgu) | 2:38 | 2025-05-29 |  |
 | [All Over This World](https://open.spotify.com/track/5dfQvhkoG0ulO4gKAzHLyA) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Trouble in Mind](https://open.spotify.com/album/7pd386kkBPHie54j3kyRpG) | 2:45 | 2022-05-25 | 2024-04-06 |
 | [All over This World](https://open.spotify.com/track/0NgdzrGJt8YA0KfD9F3eh3) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Presenting Sister Rosetta Tharpe](https://open.spotify.com/album/5lti5m4J6SvKRyW9r4f1Sm) | 2:45 | 2024-04-21 | 2024-04-22 |
 | [Amazing Grace](https://open.spotify.com/track/7Jpy6hJWPhnav0qk0fGv8Y) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Vacation in the Sky](https://open.spotify.com/album/7HorAWUeYVKqIImFJ8zGRO) | 3:23 | 2022-05-25 | 2023-01-07 |

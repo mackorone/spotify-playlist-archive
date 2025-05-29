@@ -2,7 +2,7 @@
 
 ### [Chill House 2025](https://open.spotify.com/playlist/62bReXvmroQzQfEUuTNe3Y)
 
-> Chill tracks to vibe or dance to for 2025\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
+> Chill tracks to vibe or dance to for Summer 2025\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
 475 songs - 1 day 2 hr 39 min
 

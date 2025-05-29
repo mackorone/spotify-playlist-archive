@@ -1,12 +1,12 @@
 {
   "description": "This is Montell Fish. The essential tracks, all in one playlist.",
-  "num_followers": 63518,
+  "num_followers": 63548,
   "original_name": "This Is Montell Fish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDOvAAAAAAA7Ac/xGvZuOBC/VfGtdEiT",
+  "snapshot_id": "aDUAgAAAAADAdIQSmOWw1+flIDKI+Sh+",
   "tracks": [
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Days Are Getting Shorter",
-        "url": "https://open.spotify.com/album/6q4uKBBIYKQdIzuyziNL4w"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 334285,
-      "name": "Days Are Getting Shorter",
-      "url": "https://open.spotify.com/track/3W0o9jlcLsJceWgw9r1HNE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "It's Beautiful.",
         "url": "https://open.spotify.com/album/6MRvWffD81OCQNUsa5J63K"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 182857,
       "name": "3:35am",
       "url": "https://open.spotify.com/track/0QAFiGqEkWn27WVy6AZShQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Days Are Getting Shorter",
+        "url": "https://open.spotify.com/album/6q4uKBBIYKQdIzuyziNL4w"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 334285,
+      "name": "Days Are Getting Shorter",
+      "url": "https://open.spotify.com/track/3W0o9jlcLsJceWgw9r1HNE"
     },
     {
       "added_at": null,
@@ -643,6 +643,22 @@
       "duration_ms": 119156,
       "name": "6:16am",
       "url": "https://open.spotify.com/track/5pTb9i96sgct5x6jyjwhrM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stay (With Me).",
+        "url": "https://open.spotify.com/album/2UOdVuBqu1UQA9EXWGQNeE"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 303355,
+      "name": "Stay (With Me).",
+      "url": "https://open.spotify.com/track/1lYF2cFAjKU8DG6FfGU4CE"
     },
     {
       "added_at": null,
@@ -671,22 +687,6 @@
       "duration_ms": 185205,
       "name": "Same Shit (feat. dj gummy bear)",
       "url": "https://open.spotify.com/track/4nVyUYaZVAN7dMZ5MytGxF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stay (With Me).",
-        "url": "https://open.spotify.com/album/2UOdVuBqu1UQA9EXWGQNeE"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 303355,
-      "name": "Stay (With Me).",
-      "url": "https://open.spotify.com/track/1lYF2cFAjKU8DG6FfGU4CE"
     },
     {
       "added_at": null,
@@ -843,8 +843,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Show the Signs.",
-        "url": "https://open.spotify.com/album/1oc8h9nIQClaRvwaEpeSvl"
+        "name": "Bedroom Lofi",
+        "url": "https://open.spotify.com/album/6zvGIAgWSOkS1w8F4C42Mi"
       },
       "artists": [
         {
@@ -854,15 +854,11 @@
         {
           "name": "Montell Fish",
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        },
-        {
-          "name": "chromonicci",
-          "url": "https://open.spotify.com/artist/746nA9NSKsqBDRk343UtkE"
         }
       ],
-      "duration_ms": 181682,
-      "name": "Show the Signs.",
-      "url": "https://open.spotify.com/track/4I5dVjz3Uwqmgb4Wzmupn6"
+      "duration_ms": 67171,
+      "name": "A Piece Called Butterflies.",
+      "url": "https://open.spotify.com/track/1yqtrIUcRBXHOXPrHRcbjh"
     },
     {
       "added_at": null,
@@ -887,8 +883,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bedroom Lofi",
-        "url": "https://open.spotify.com/album/6zvGIAgWSOkS1w8F4C42Mi"
+        "name": "Show the Signs.",
+        "url": "https://open.spotify.com/album/1oc8h9nIQClaRvwaEpeSvl"
       },
       "artists": [
         {
@@ -898,11 +894,15 @@
         {
           "name": "Montell Fish",
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        },
+        {
+          "name": "chromonicci",
+          "url": "https://open.spotify.com/artist/746nA9NSKsqBDRk343UtkE"
         }
       ],
-      "duration_ms": 67171,
-      "name": "A Piece Called Butterflies.",
-      "url": "https://open.spotify.com/track/1yqtrIUcRBXHOXPrHRcbjh"
+      "duration_ms": 181682,
+      "name": "Show the Signs.",
+      "url": "https://open.spotify.com/track/4I5dVjz3Uwqmgb4Wzmupn6"
     }
   ],
   "unique_name": "This Is Montell Fish",

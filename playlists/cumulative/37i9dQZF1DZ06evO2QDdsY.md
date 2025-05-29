@@ -4,7 +4,7 @@
 
 > This is Valerie June\. The essential tracks, all in one playlist.
 
-93 songs - 5 hr 10 min
+94 songs - 5 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Call Me A Fool \[Feat\. Carla Thomas\]](https://open.spotify.com/track/3kuHcdkHwdnxSOFrPiHkoj) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM), [Carla Thomas](https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj) | [Call Me A Fool \[Feat\. Carla Thomas\]](https://open.spotify.com/album/0pSxVdyHM0NrcDQtCIU8Xl) | 3:43 | 2023-01-03 | 2024-03-17 |
 | [Call Me A Fool \[Feat\. Carla Thomas\]](https://open.spotify.com/track/4nNft158MTJ5fbbPt0tb2l) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM), [Carla Thomas](https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 3:43 | 2022-09-16 |  |
 | [Calling My Spirit](https://open.spotify.com/track/5fGXmfSxljlEnOveAGWivi) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Owls, Omens, and Oracles](https://open.spotify.com/album/5K6SF5pgdnfHRnuC4gaC0Q) | 2:02 | 2025-04-13 | 2025-04-19 |
-| [Changed \(Feat\. The Blind Boys Of Alabama\)](https://open.spotify.com/track/6YVZvK9SVUQSJg3RB2Cjkf) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM), [The Blind Boys Of Alabama](https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH) | [Owls, Omens, and Oracles](https://open.spotify.com/album/5K6SF5pgdnfHRnuC4gaC0Q) | 2:05 | 2025-04-13 |  |
+| [Changed \(Feat\. The Blind Boys Of Alabama\)](https://open.spotify.com/track/6YVZvK9SVUQSJg3RB2Cjkf) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM), [The Blind Boys Of Alabama](https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH) | [Owls, Omens, and Oracles](https://open.spotify.com/album/5K6SF5pgdnfHRnuC4gaC0Q) | 2:05 | 2025-04-13 | 2025-05-29 |
 | [Cheese \(feat\. PawPaw Rod & Valerie June\)](https://open.spotify.com/track/4IttML3TgHecmpPe0Ytffs) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx), [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq), [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Cheese \(feat\. PawPaw Rod & Valerie June\)](https://open.spotify.com/album/3qSABvJGms0qKHNI6aqYov) | 3:49 | 2023-12-13 | 2025-04-13 |
 | [Colors](https://open.spotify.com/track/0yVv3bVTl6VRiBJ1qSAWU3) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 4:19 | 2022-09-16 |  |
 | [Cosmic Dancer](https://open.spotify.com/track/5jXqgEjfy9IPrBv5SQtYtT) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Cosmic Dancer](https://open.spotify.com/album/2iYmMZu2Fmum7r6tFyZ2zn) | 4:25 | 2022-09-16 |  |
@@ -73,7 +73,8 @@
 | [Summer's End](https://open.spotify.com/track/1GOcYcVoojwz4FH1aD8ZKP) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Broken Hearts & Dirty Windows: Songs of John Prine, Vol\. 2](https://open.spotify.com/album/1zeu2tjunNLjS6rWNWCZ70) | 3:29 | 2024-11-12 | 2025-04-13 |
 | [Superpower](https://open.spotify.com/track/630fKF86aeU8HfOyFf3FIq) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Owls, Omens, and Oracles](https://open.spotify.com/album/5K6SF5pgdnfHRnuC4gaC0Q) | 2:20 | 2025-04-13 | 2025-04-15 |
 | [Sure to Fall](https://open.spotify.com/track/13RQs1T5nEDGq5JVBFHJEo) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Red Hot: A Memphis Celebration of Sun Records](https://open.spotify.com/album/5i5GqRNs1ifV07HCQLQH6c) | 2:51 | 2022-09-16 |  |
-| [Sweet Things Just for You](https://open.spotify.com/track/68UyOxMA7KV67b6i07QTSK) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Sweet Things Just for You](https://open.spotify.com/album/262ELeoj9M4JdbBDmWIiDG) | 2:37 | 2025-03-09 |  |
+| [Sweet Things Just for You](https://open.spotify.com/track/3Njnztq7RcqwQycbOzaI8i) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Owls, Omens, and Oracles](https://open.spotify.com/album/5K6SF5pgdnfHRnuC4gaC0Q) | 2:37 | 2025-05-29 |  |
+| [Sweet Things Just for You](https://open.spotify.com/track/68UyOxMA7KV67b6i07QTSK) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Sweet Things Just for You](https://open.spotify.com/album/262ELeoj9M4JdbBDmWIiDG) | 2:37 | 2025-03-09 | 2025-05-29 |
 | [Tennessee Time](https://open.spotify.com/track/3L2DzPh6UCxtgehSnjSB4s) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' Against A Stone](https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ) | 3:12 | 2022-09-21 | 2024-07-23 |
 | [The Drifter](https://open.spotify.com/track/0ZX0mqvRzmI7fR5w6eq7UN) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Mountain of Rose Quartz](https://open.spotify.com/album/2ExPB3sevswcHXOXiyajDH) | 3:15 | 2022-09-16 | 2022-10-09 |
 | [The Fact](https://open.spotify.com/track/1Xq0XTjQVQkLNrOgDQ7hrf) | [Mick Flannery](https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf), [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Goodtime Charlie](https://open.spotify.com/album/58WR5ej6EJFRGjQp1qrfpN) | 3:27 | 2023-09-18 | 2025-05-08 |
