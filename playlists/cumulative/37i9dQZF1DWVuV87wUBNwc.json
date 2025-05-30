@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "Alex Warren au sommet de la premi\u00e8re playlist de France.",
+  "description": "Ed Sheeran au sommet de la premi\u00e8re playlist de France.",
   "name": "Hits du Moment",
   "tracks": [
     {
@@ -370,7 +370,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
@@ -981,6 +981,24 @@
     },
     {
       "album": {
+        "name": "Break Your Heart",
+        "url": "https://open.spotify.com/album/7kQqrcgoDVxpgEPnDXpTVh"
+      },
+      "artists": [
+        {
+          "name": "Bormin\u2019",
+          "url": "https://open.spotify.com/artist/2DCCeNy7EIhIt2TceZELw5"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188953,
+      "name": "Break Your Heart",
+      "url": "https://open.spotify.com/track/1wrVWI9VExFCUFl8c4cWKI"
+    },
+    {
+      "album": {
         "name": "B\u00e9cane - A COLORS SHOW",
         "url": "https://open.spotify.com/album/7oBuvko8hsXKXHEUHvDXnB"
       },
@@ -1236,7 +1254,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 186461,
       "name": "CIEL",
       "url": "https://open.spotify.com/track/78FNSZkI1968KTtyf2s315"
@@ -4712,6 +4730,28 @@
       "duration_ms": 217259,
       "name": "Petit g\u00e9nie",
       "url": "https://open.spotify.com/track/1eldTykrnkEBLX41bk5eMw"
+    },
+    {
+      "album": {
+        "name": "Piano",
+        "url": "https://open.spotify.com/album/1BQ2YrKLtRzIuQ7Zai76jJ"
+      },
+      "artists": [
+        {
+          "name": "Werenoi",
+          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
+        },
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173538,
+      "name": "Piano",
+      "url": "https://open.spotify.com/track/6xOiC7SgWCFsipcM69jIDO"
     },
     {
       "album": {

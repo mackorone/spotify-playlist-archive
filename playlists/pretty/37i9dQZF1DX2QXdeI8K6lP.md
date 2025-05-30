@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 
 > Música que te hará suspirar como en aquellos años dorados\. Los Panchos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,104 likes - 100 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,122 likes - 100 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 | 15 | [Embrujo](https://open.spotify.com/track/32xpnvh67XUNcjh0iW0dj6) | [Los Tres Diamantes](https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1) | [Consentida Y Otros Exitos](https://open.spotify.com/album/6TaghakmbT1QLgzoatmg4Y) | 3:11 |
 | 16 | [Jacarandá](https://open.spotify.com/track/0RIijpTXIM2xf11zcH3eGL) | [Los Santos](https://open.spotify.com/artist/2yecGImQIcTzSN0nh6BHcI) | [Los Santos](https://open.spotify.com/album/2oFAIyqSu5623ZUIFnbiiR) | 2:56 |
 | 17 | [Como un Duende](https://open.spotify.com/track/5rjxLGoHgUg5P1IsvHRYQM) | [Los Dandys](https://open.spotify.com/artist/1orbu8WOc4EtKxQsfNNEZK) | [RCA 100 Años de Música](https://open.spotify.com/album/2kBmwynoRQzpYaIv5fb7NM) | 2:58 |
-| 18 | [Hipócrita](https://open.spotify.com/track/5YhyWVea591buoQxYS5Fwx) | [Fernando Fernandez](https://open.spotify.com/artist/5c1i7WEYcHjAGxDQMYSWkS) | [Hipócrita y Otros Éxitos de Fernando Fernández](https://open.spotify.com/album/54UtU7kuWdd7kEb6VYl0SX) | 2:49 |
-| 19 | [Amor Perdido](https://open.spotify.com/track/2KwLC9vs5lZa8NDZUkMlem) | [Maria Luisa Landin](https://open.spotify.com/artist/6xwRfnFKMKRoHL8LuLNBpf) | [Orquideas Vocales](https://open.spotify.com/album/6D7ViPhYqbcigiIgF3c5fK) | 3:15 |
+| 18 | [Amor Perdido](https://open.spotify.com/track/2KwLC9vs5lZa8NDZUkMlem) | [Maria Luisa Landin](https://open.spotify.com/artist/6xwRfnFKMKRoHL8LuLNBpf) | [Orquideas Vocales](https://open.spotify.com/album/6D7ViPhYqbcigiIgF3c5fK) | 3:15 |
+| 19 | [Hipócrita](https://open.spotify.com/track/5YhyWVea591buoQxYS5Fwx) | [Fernando Fernandez](https://open.spotify.com/artist/5c1i7WEYcHjAGxDQMYSWkS) | [Hipócrita y Otros Éxitos de Fernando Fernández](https://open.spotify.com/album/54UtU7kuWdd7kEb6VYl0SX) | 2:49 |
 | 20 | [Total](https://open.spotify.com/track/3VHDcEGlFuiFGBRsdhWtA9) | [Celio Gonzalez](https://open.spotify.com/artist/17fQCVwjvlCEIr3T1dLg5y) | [Las Estrellas De La Matancera](https://open.spotify.com/album/1NfEP5Vfe1Pvxr6fcshVP1) | 2:54 |
 | 21 | [La Copa Rota](https://open.spotify.com/track/0RGST5XWJhxHAsUnbbsq3p) | [Alci Acosta](https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK) | [30 Mejores: Alci Acosta](https://open.spotify.com/album/1NdnBLYZy9ZtgzPbyxdM5E) | 2:56 |
 | 22 | [Usted](https://open.spotify.com/track/1Wt3vmlSvvdyjeizfXsyrg) | [Los Tres Diamantes](https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1) | [Usted](https://open.spotify.com/album/7fTMdHlOrYglm01YcdOMig) | 3:16 |
@@ -61,11 +61,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 | 51 | [Sin Ti](https://open.spotify.com/track/3tfXyPuyqdKSBkJcgAE1kA) | [Trios de Mexico](https://open.spotify.com/artist/1iXvNC4dw6uoQz6cKA8Ths) | [Mexican Music: Trios](https://open.spotify.com/album/2af88xFYtqpXPo0QeBaK3B) | 2:21 |
 | 52 | [Regálame Esta Noche](https://open.spotify.com/track/0fkRaCCLExhD6SisSRntlw) | [Los Tres Caballeros](https://open.spotify.com/artist/0ou4IrIjMSANpaPTL8lC3F) | [Frente a Frente de Tríos](https://open.spotify.com/album/0TibhurVSsO5rf4tq4hEy9) | 3:18 |
 | 53 | [Cuando Me Vaya](https://open.spotify.com/track/0fTYREc0bWpuqWekaUaLuI) | [Los Tres Diamantes](https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1) | [Tres Super Trios](https://open.spotify.com/album/0YJaOjYj6ljHzadphJcpMY) | 3:06 |
-| 54 | [Cuidadito, Cuidadito](https://open.spotify.com/track/2eNyia284twoi86yKlDFxV) | [Maria Victoria](https://open.spotify.com/artist/2kCMFGCTWev6UdoLwVKCDb) | [Dame Que Te Doy](https://open.spotify.com/album/61TnSCAvXeFGjVF5TVSjJs) | 3:11 |
-| 55 | [Perla Negra](https://open.spotify.com/track/4z4BKAp6RpZZlNa1QQiYeA) | [Trio Los Soberanos](https://open.spotify.com/artist/1uFnAWXxYgeyQs40Cqn4zn) | [20 Éxitos de los Mejores Tríos de América](https://open.spotify.com/album/3nKVToGPx8VDSdPBUAcfDE) | 2:34 |
+| 54 | [Perla Negra](https://open.spotify.com/track/4z4BKAp6RpZZlNa1QQiYeA) | [Trio Los Soberanos](https://open.spotify.com/artist/1uFnAWXxYgeyQs40Cqn4zn) | [20 Éxitos de los Mejores Tríos de América](https://open.spotify.com/album/3nKVToGPx8VDSdPBUAcfDE) | 2:34 |
+| 55 | [Cuidadito, Cuidadito](https://open.spotify.com/track/2eNyia284twoi86yKlDFxV) | [Maria Victoria](https://open.spotify.com/artist/2kCMFGCTWev6UdoLwVKCDb) | [Dame Que Te Doy](https://open.spotify.com/album/61TnSCAvXeFGjVF5TVSjJs) | 3:11 |
 | 56 | [Bonita](https://open.spotify.com/track/6Tsr4h9Av9WkJDu1F4HPIz) | [Luis Arcaraz Y Su Orquesta](https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg) | [Cita Con Luis Arcaraz](https://open.spotify.com/album/2yhhV6GIC9dLiSJ0olcUdE) | 3:08 |
-| 57 | [Adoro](https://open.spotify.com/track/7fQ8mPzBybAaVRoM4cZ0T5) | [Las Tres Cuerdas](https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a) | [Adoro](https://open.spotify.com/album/4RXbe2z6RIpyCEluLk9nd4) | 2:25 |
-| 58 | [Somos Novios](https://open.spotify.com/track/7yWJtlafh6TTjcljGpSn5B) | [Las Verdes](https://open.spotify.com/artist/1EYHVHmQJl5adHTZ0RZqvW) | [Somos Novios](https://open.spotify.com/album/5pzOJCIXm7y4YucjI04SQI) | 2:46 |
+| 57 | [Somos Novios](https://open.spotify.com/track/7yWJtlafh6TTjcljGpSn5B) | [Las Verdes](https://open.spotify.com/artist/1EYHVHmQJl5adHTZ0RZqvW) | [Somos Novios](https://open.spotify.com/album/5pzOJCIXm7y4YucjI04SQI) | 2:46 |
+| 58 | [Adoro](https://open.spotify.com/track/7fQ8mPzBybAaVRoM4cZ0T5) | [Las Tres Cuerdas](https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a) | [Adoro](https://open.spotify.com/album/4RXbe2z6RIpyCEluLk9nd4) | 2:25 |
 | 59 | [Empiezo a Extrañarte](https://open.spotify.com/track/3lLSg8IEC1MEjk4zA1Dz0U) | [Las Sombras](https://open.spotify.com/artist/1QDqOOONr11np0HEOPMVTI) | [Personalidad \- Los Grandes Trios \- Las Sombras](https://open.spotify.com/album/7y2WIsOp0LrL9dJjjhDE66) | 2:38 |
 | 60 | [No](https://open.spotify.com/track/0C69couVwXQPhHPq2f2gSa) | [Los Tres Mariquitas](https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf) | [No](https://open.spotify.com/album/453mZhcGBHRgoJeLfirF6k) | 2:41 |
 | 61 | [Talisman](https://open.spotify.com/track/2eK0oqBA9QMoV0nOavJTS3) | [Antonio Badu](https://open.spotify.com/artist/3HMS8RHr7RqTB1vj8igPkl) | [Frente A Frente](https://open.spotify.com/album/49xPknFfNTCPZH6ZRyuekN) | 3:16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FavclD4O50.md) - [plain]
 
 > Eerie pieces created by waving hands around Leon Theremin's otherworldly instrument\. Clara Rockmore on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,609 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,612 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FavclD4O50.md) - [plain]
 | 35 | [Luna Hiena](https://open.spotify.com/track/4h652ABDkLBsAzOolrJ6ke) | [Javier Díez Ena & His Theremins](https://open.spotify.com/artist/5TA6P5gISjtzFu3BXogfrM) | [Theremonial \(Dark & Exotic Theremin Music\)](https://open.spotify.com/album/6SCpra08I6g6Ahqof19Ck7) | 2:44 |
 | 36 | [Keler Tsoler](https://open.spotify.com/track/4UqGOyOoFBHe5JuIhEc7K5) | [Armen Ra](https://open.spotify.com/artist/0YHZ5h5Xm50R5bW5ISx08A) | [Plays the Theremin](https://open.spotify.com/album/2m3gsqca2ZhFNLppQ7Ciwq) | 5:10 |
 | 37 | [Voice of Theremin](https://open.spotify.com/track/7o0FxcsUn7z7JLellv8W49) | [Vladimir Komarov](https://open.spotify.com/artist/1Ejt4SadlhMj7ijOeOC3iQ), [Lydia Kavina](https://open.spotify.com/artist/08GqAbGBPbwT33PIeW0QZv) | [Music from the Ether: Original Works for Theremin](https://open.spotify.com/album/4T8jPbJTjvc5GYzcQ66BCE) | 8:47 |
-| 38 | [Bachianas Brasileiras: No\. 5, Aria](https://open.spotify.com/track/2QCSXfBGFMHRc0KzjMg27B) | [Clara Rockmore](https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q), [The Listening Room Ensemble](https://open.spotify.com/artist/4qKsaDDZKs0Kf6LX0Y2786) | [Music In and On The Air](https://open.spotify.com/album/3mOQzPO4HMa1mmQggKdGe1) | 7:56 |
-| 39 | [Mysterons Theme](https://open.spotify.com/track/0sliCazBkrrX6OqVkqaW9F) | [Radio Science Orchestra](https://open.spotify.com/artist/68zs0SPQL8kAKrWmiYOaci) | [Mysterons Theme](https://open.spotify.com/album/6Rc5C6X5t1U7zojgkkyVDq) | 2:28 |
+| 38 | [Mysterons Theme](https://open.spotify.com/track/0sliCazBkrrX6OqVkqaW9F) | [Radio Science Orchestra](https://open.spotify.com/artist/68zs0SPQL8kAKrWmiYOaci) | [Mysterons Theme](https://open.spotify.com/album/6Rc5C6X5t1U7zojgkkyVDq) | 2:28 |
+| 39 | [Bachianas Brasileiras: No\. 5, Aria](https://open.spotify.com/track/2QCSXfBGFMHRc0KzjMg27B) | [Clara Rockmore](https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q), [The Listening Room Ensemble](https://open.spotify.com/artist/4qKsaDDZKs0Kf6LX0Y2786) | [Music In and On The Air](https://open.spotify.com/album/3mOQzPO4HMa1mmQggKdGe1) | 7:56 |
 | 40 | [Concerto for 2 Violins in D minor, BWV 1043: 2nd movement](https://open.spotify.com/track/0vxhF01eweNLunXafcXtP2) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Erick Friedman](https://open.spotify.com/artist/4xaVVQxKoP1ZhamR8rUFOT), [Clara Rockmore](https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q), [Nadia Reisenberg](https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR) | [Music In and On The Air](https://open.spotify.com/album/3mOQzPO4HMa1mmQggKdGe1) | 8:34 |
 | 41 | [Waikiki Spleen](https://open.spotify.com/track/79UG5zCh9xcADra04a1Oy0) | [Javier Díez Ena & His Theremins](https://open.spotify.com/artist/5TA6P5gISjtzFu3BXogfrM) | [Theremonial \(Dark & Exotic Theremin Music\)](https://open.spotify.com/album/6SCpra08I6g6Ahqof19Ck7) | 3:19 |
 | 42 | [Theremin Sonata No\. 1: I\. Moderato](https://open.spotify.com/track/0nrY6e0615DFib7MHYOqkz) | [Christopher Tarnow](https://open.spotify.com/artist/0cOcnlkQLbizLpOqRUkmGq), [Carolina Eyck](https://open.spotify.com/artist/5ZrrzzxmMRfGFioCWEfGMI) | [Tarnow: Theremin Sonatas](https://open.spotify.com/album/70enQr7njOjNNd08lKp72H) | 7:42 |

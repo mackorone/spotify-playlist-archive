@@ -1,6 +1,6 @@
 {
   "description": "\u6c92\u6709\u4ec0\u9ebc\u6bd4\u611f\u89ba\u597d\u66f4\u91cd\u8981\u4e86\uff01\u9019\u88e1\u7684\u6b4c\u66f2\u80fd\u5927\u5927\u632f\u596e\u5fc3\u60c5\u3001\u4ee4\u4f60\u5143\u6c23\u5341\u8db3\uff01",
-  "num_followers": 61026,
+  "num_followers": 61025,
   "original_name": "\u5fc3\u60c5\u5927\u632f",
   "owner": {
     "name": "Spotify",
@@ -335,18 +335,18 @@
     {
       "added_at": "2025-05-25 16:00:17",
       "album": {
-        "name": "Ballyhoo",
-        "url": "https://open.spotify.com/album/4YgpNAv2LjHEcPX2L4rtV3"
+        "name": "Heartbreak Weather",
+        "url": "https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp"
       },
       "artists": [
         {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
         }
       ],
-      "duration_ms": 165974,
-      "name": "Ballyhoo",
-      "url": "https://open.spotify.com/track/6Gfxs9YRSHZH6g53mcsHRZ"
+      "duration_ms": 193089,
+      "name": "Black And White",
+      "url": "https://open.spotify.com/track/7rpNuuoMbid56XkDsx2FjE"
     },
     {
       "added_at": "2025-05-25 16:00:17",
@@ -367,22 +367,6 @@
     {
       "added_at": "2025-05-25 16:00:17",
       "album": {
-        "name": "Heartbreak Weather",
-        "url": "https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 193089,
-      "name": "Black And White",
-      "url": "https://open.spotify.com/track/7rpNuuoMbid56XkDsx2FjE"
-    },
-    {
-      "added_at": "2025-05-25 16:00:17",
-      "album": {
         "name": "Fools Gold",
         "url": "https://open.spotify.com/album/2jYLzXEZ5ki5itbFQhADAV"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 192700,
       "name": "Orbit",
       "url": "https://open.spotify.com/track/6LBMBIzdGj4RKhJeTcTBjr"
+    },
+    {
+      "added_at": "2025-05-25 16:00:17",
+      "album": {
+        "name": "Ballyhoo",
+        "url": "https://open.spotify.com/album/4YgpNAv2LjHEcPX2L4rtV3"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 165974,
+      "name": "Ballyhoo",
+      "url": "https://open.spotify.com/track/6Gfxs9YRSHZH6g53mcsHRZ"
     },
     {
       "added_at": "2025-05-25 16:00:17",
@@ -511,22 +511,6 @@
     {
       "added_at": "2025-05-25 16:00:17",
       "album": {
-        "name": "Smash It Like Belushi",
-        "url": "https://open.spotify.com/album/6UsVWmVhrnbaeHxeZKZhoU"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 168554,
-      "name": "Smash It Like Belushi",
-      "url": "https://open.spotify.com/track/5VJNF9RdCPN99IDCbmMchz"
-    },
-    {
-      "added_at": "2025-05-25 16:00:17",
-      "album": {
         "name": "What If Nothing",
         "url": "https://open.spotify.com/album/4fe1YmssM6Ugs6UyA7OdGg"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 200645,
       "name": "Let's Love",
       "url": "https://open.spotify.com/track/6lhZLbb0czULpjb2kFryPS"
+    },
+    {
+      "added_at": "2025-05-25 16:00:17",
+      "album": {
+        "name": "Smash It Like Belushi",
+        "url": "https://open.spotify.com/album/6UsVWmVhrnbaeHxeZKZhoU"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 168554,
+      "name": "Smash It Like Belushi",
+      "url": "https://open.spotify.com/track/5VJNF9RdCPN99IDCbmMchz"
     },
     {
       "added_at": "2025-05-25 16:00:17",
@@ -879,22 +879,6 @@
     {
       "added_at": "2025-05-25 16:00:17",
       "album": {
-        "name": "safeword",
-        "url": "https://open.spotify.com/album/7r2F9eu36wbjErxQYeM9lu"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 133639,
-      "name": "safeword",
-      "url": "https://open.spotify.com/track/0rgwADAHd21s1OE7RPFwPN"
-    },
-    {
-      "added_at": "2025-05-25 16:00:17",
-      "album": {
         "name": "Dead Club City",
         "url": "https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7"
       },
@@ -927,6 +911,22 @@
     {
       "added_at": "2025-05-25 16:00:17",
       "album": {
+        "name": "safeword",
+        "url": "https://open.spotify.com/album/7r2F9eu36wbjErxQYeM9lu"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 133639,
+      "name": "safeword",
+      "url": "https://open.spotify.com/track/0rgwADAHd21s1OE7RPFwPN"
+    },
+    {
+      "added_at": "2025-05-25 16:00:17",
+      "album": {
         "name": "Soy Pablo",
         "url": "https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw"
       },
@@ -943,18 +943,22 @@
     {
       "added_at": "2025-05-25 16:00:17",
       "album": {
-        "name": "Paralyzed",
-        "url": "https://open.spotify.com/album/4b5VmGfGFXxivUx1vshO9o"
+        "name": "don't sleep, repeat (feat. Machine Gun Kelly)",
+        "url": "https://open.spotify.com/album/4QI0QDu2k1PpD4432zbNHK"
       },
       "artists": [
         {
-          "name": "Big Time Rush",
-          "url": "https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd"
+          "name": "44phantom",
+          "url": "https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ"
+        },
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
         }
       ],
-      "duration_ms": 184473,
-      "name": "Paralyzed",
-      "url": "https://open.spotify.com/track/6KOQLj5dcYuFSN6srNs96u"
+      "duration_ms": 149160,
+      "name": "don't sleep, repeat (feat. Machine Gun Kelly)",
+      "url": "https://open.spotify.com/track/2qtqIinDwJQzsUofMtkH0D"
     },
     {
       "added_at": "2025-05-25 16:00:17",
@@ -983,22 +987,18 @@
     {
       "added_at": "2025-05-25 16:00:17",
       "album": {
-        "name": "don't sleep, repeat (feat. Machine Gun Kelly)",
-        "url": "https://open.spotify.com/album/4QI0QDu2k1PpD4432zbNHK"
+        "name": "Paralyzed",
+        "url": "https://open.spotify.com/album/4b5VmGfGFXxivUx1vshO9o"
       },
       "artists": [
         {
-          "name": "44phantom",
-          "url": "https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ"
-        },
-        {
-          "name": "mgk",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+          "name": "Big Time Rush",
+          "url": "https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd"
         }
       ],
-      "duration_ms": 149160,
-      "name": "don't sleep, repeat (feat. Machine Gun Kelly)",
-      "url": "https://open.spotify.com/track/2qtqIinDwJQzsUofMtkH0D"
+      "duration_ms": 184473,
+      "name": "Paralyzed",
+      "url": "https://open.spotify.com/track/6KOQLj5dcYuFSN6srNs96u"
     },
     {
       "added_at": "2025-05-25 16:00:17",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2025-05-25 16:00:17",
       "album": {
-        "name": "Twisters: The Album",
-        "url": "https://open.spotify.com/album/2Z3lIfc06B7YV1ZN9oZCdS"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 152133,
-      "name": "Dead End Road",
-      "url": "https://open.spotify.com/track/1unTSILv272aGjufNBJjQj"
-    },
-    {
-      "added_at": "2025-05-25 16:00:17",
-      "album": {
         "name": "mama's boy",
         "url": "https://open.spotify.com/album/6tmSIFaEjxAtuYwPq9FaFP"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 199506,
       "name": "heart won't let me",
       "url": "https://open.spotify.com/track/2IY537C2ecmUMJ46bYQggp"
+    },
+    {
+      "added_at": "2025-05-25 16:00:17",
+      "album": {
+        "name": "Twisters: The Album",
+        "url": "https://open.spotify.com/album/2Z3lIfc06B7YV1ZN9oZCdS"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 152133,
+      "name": "Dead End Road",
+      "url": "https://open.spotify.com/track/1unTSILv272aGjufNBJjQj"
     },
     {
       "added_at": "2025-05-25 16:00:17",

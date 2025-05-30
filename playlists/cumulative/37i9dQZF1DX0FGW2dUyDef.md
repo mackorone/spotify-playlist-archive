@@ -2,9 +2,9 @@
 
 ### [Hot Hits Türkiye](https://open.spotify.com/playlist/37i9dQZF1DX0FGW2dUyDef)
 
-> Dinlemekten vazgeçemediklerin ve en yeni hitler\.  Kapak: Yıldız Tilbe
+> Dinlemekten vazgeçemediklerin ve en yeni hitler\.  Kapak: Oğuzhan Koç x Merve Özbey
 
-154 songs - 7 hr 49 min
+155 songs - 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [BRAPAP](https://open.spotify.com/track/7zTNMaXRLjiQwi8rRlvReb) | [ERAY067](https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT), [Mansur](https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm), [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [BRAPAP](https://open.spotify.com/album/13dAE2L8DBSKVsHEB7OeBx) | 2:23 | 2025-02-18 | 2025-05-14 |
 | [Bulamazsın](https://open.spotify.com/track/3MBxOQ98vv9szf1s3DOY0n) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Bulamazsın](https://open.spotify.com/album/4SgjgMKovidKmdAYsxSUEm) | 2:35 | 2025-04-29 |  |
 | [Bunca Yıl \- Dedub Sessions](https://open.spotify.com/track/0mSFwDtiAPPNwBOSFnI3G5) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT), [Can Kazaz](https://open.spotify.com/artist/4YLcK0MEyqFkdyyzbPTWrs) | [Bunca Yıl \(Dedub Sessions\)](https://open.spotify.com/album/6oEMdYmN0PQXVlr058Jdp5) | 4:38 | 2024-10-02 | 2025-04-24 |
-| [Canın Beni Çekti](https://open.spotify.com/track/6xTi66mobAdZcKR3SMyygD) | [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [Canın Beni Çekti](https://open.spotify.com/album/6wxBYLndYtQJeJKmFagVRB) | 3:13 | 2024-10-02 |  |
+| [Canın Beni Çekti](https://open.spotify.com/track/6xTi66mobAdZcKR3SMyygD) | [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [Canın Beni Çekti](https://open.spotify.com/album/6wxBYLndYtQJeJKmFagVRB) | 3:13 | 2024-10-02 | 2025-05-30 |
 | [Cehennemin Dibi](https://open.spotify.com/track/408CB6C3xSUJJJpMopjJ1y) | [Mert Demir](https://open.spotify.com/artist/1Zj4GtouAnxHq4qw7ooLfm) | [Cehennemin Dibi](https://open.spotify.com/album/5d0khevKWVD2hMghDEKpaR) | 2:50 | 2024-07-02 | 2024-08-30 |
 | [Cennet](https://open.spotify.com/track/0ay0rJ0zPpu5yGLCxqz5oE) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Cennet](https://open.spotify.com/album/0nGdlxWVdcHbjaf4CvKAXm) | 2:20 | 2024-07-02 | 2024-09-25 |
 | [CISTAK](https://open.spotify.com/track/7ygoPHce1dHCMUWgtR6MTx) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2), [Narco](https://open.spotify.com/artist/6WpmH4J0R74ZkHtgm7JLvM) | [CISTAK](https://open.spotify.com/album/1S2nF6GDYCKJd6EVvjzkhb) | 2:16 | 2024-07-02 |  |
@@ -121,6 +121,7 @@
 | [Ortak](https://open.spotify.com/track/3GD8Zc8MByLbeLrLVWBzPz) | [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [Ortak](https://open.spotify.com/album/1fbwxXov1LpDIFzSdRfIPI) | 3:25 | 2024-09-04 | 2024-12-17 |
 | [PSYCHO](https://open.spotify.com/track/7eLW4rL7saxNtZ640Na7vM) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx) | [Drama](https://open.spotify.com/album/2eFw0PGVpuVHagqAU8vO9X) | 2:33 | 2025-01-02 | 2025-05-02 |
 | [pUTA](https://open.spotify.com/track/0nSgiI4vDSLUCA4GcQDAtp) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx), [BIGBAT](https://open.spotify.com/artist/2UHnfpUKzvlJPRPk7lNLix) | [pUTA](https://open.spotify.com/album/4qu7sfvwNCwuqOReUcPIOd) | 1:44 | 2025-05-01 |  |
+| [RanDuman](https://open.spotify.com/track/49lLBkUqdjCFuLAlDIteRF) | [BGR](https://open.spotify.com/artist/6umb60Q2lGAXahIvuPiOHi) | [RanDuman](https://open.spotify.com/album/2slL47sGIv2wRv9P4Wo9Xy) | 2:32 | 2025-05-29 |  |
 | [Renklensin](https://open.spotify.com/track/1d02igesB9DREknAVXRiBd) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Renklensin](https://open.spotify.com/album/5QTNMJkssQOVw7DZhzHQNL) | 3:10 | 2024-07-02 | 2024-10-03 |
 | [Roman Olur Yazsam Seni](https://open.spotify.com/track/7wSiIzgBSzNFDbVDgxCqeO) | [Velet](https://open.spotify.com/artist/7bchfd9ZihGesFniE7tM71) | [Roman Olur Yazsam Seni](https://open.spotify.com/album/2baiXsRE7e2Koj4LIsbKUp) | 2:52 | 2025-04-16 |  |
 | [SAGOLUYORUM \(BIG TERORISTA\)](https://open.spotify.com/track/4bbndwPQlPaEQQGmXPPkTw) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx) | [SAGOLUYORUM \(BIG TERORISTA\)](https://open.spotify.com/album/45kuj3np55rmLNWTvm4cA9) | 1:35 | 2024-07-02 | 2024-11-05 |

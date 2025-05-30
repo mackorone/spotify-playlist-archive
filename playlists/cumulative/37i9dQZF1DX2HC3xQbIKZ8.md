@@ -4,7 +4,7 @@
 
 > Pacific reggae, roots rockers\. Relax, you're on island time.
 
-189 songs - 11 hr 26 min
+191 songs - 11 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [NEVER \- REMIX](https://open.spotify.com/track/2ck3ktp70iez3oKiLxyIA5) | [Swiss](https://open.spotify.com/artist/3iRQU5nfA9uLRPgmXXhbCy), [Junior Soqeta](https://open.spotify.com/artist/1bJTmjgUdH1inz5cCpsOUA), [Folau](https://open.spotify.com/artist/0jj9Os8Krjis4OFaps08Km) | [NEVER \(REMIX\)](https://open.spotify.com/album/2V9Pt2F4G0gXBP4qTJvNpz) | 3:34 | 2023-11-28 |  |
 | [Never Unlove](https://open.spotify.com/track/5DAh70C3AD3mt4LZY6cUXT) | [Ms\. Thandi](https://open.spotify.com/artist/0puWDWtG4G9xAJJ6JiZEfA), [Gold Fang](https://open.spotify.com/artist/1e8lOc1h26CVBSGh3iiW7M) | [Never Unlove](https://open.spotify.com/album/66amADLG6u8BsffjbDFIS4) | 3:16 | 2025-05-01 |  |
 | [Next Stop](https://open.spotify.com/track/1THi2wFMXol0p3lOpX9fZd) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS), [MC Slave](https://open.spotify.com/artist/1C5mWM86XaAjaX5fiNm5O1) | [Next Stop](https://open.spotify.com/album/6i5wh97IMqnO8A3MIo1DA9) | 6:11 | 2024-10-04 |  |
+| [Night Night](https://open.spotify.com/track/0skNFEVeT49k1oCeuRqT2k) | [Hollie Cook](https://open.spotify.com/artist/1fwuUuFbqXJx3B17PUhFCE), [Horseman](https://open.spotify.com/artist/6072oVyIFCVwPcftVNWF1z) | [Night Night](https://open.spotify.com/album/0SAHNSSJcJeVyFI7lRX46f) | 3:08 | 2025-05-29 |  |
 | [Nothing's Gonna Change My Love For You](https://open.spotify.com/track/1whApKrpPZVx9BWJjKWNZl) | [Canaan Ene](https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA), [Reyn](https://open.spotify.com/artist/2YspL5zp6XvxxqEy7I1M2y) | [Nothing's Gonna Change My Love For You](https://open.spotify.com/album/0MA3O2ckEGEDTmaXcpjh9M) | 3:05 | 2024-02-28 |  |
 | [Ocean Demon](https://open.spotify.com/track/1tdlBFoIRKslWFZmjL4OTj) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B VI](https://open.spotify.com/album/671hZnMHapwrrMIjousq6l) | 4:20 | 2024-02-07 | 2024-04-19 |
 | [Ocean Demon](https://open.spotify.com/track/2DuzhNJjW3N61Te2Zqd6Un) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [Ocean Demon](https://open.spotify.com/album/2BL7t5XIN8JmWWJajgqgY0) | 4:20 | 2024-02-07 | 2024-02-27 |
@@ -166,6 +167,7 @@
 | [Stand By Me \(Drew Forever\)](https://open.spotify.com/track/4Ua8dhnL9mKAZ78etjdOHX) | [Common Kings](https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL) | [Stand By Me \(Drew Forever\)](https://open.spotify.com/album/6AsVMB0zcOvHvGc3INNY44) | 3:14 | 2023-12-21 |  |
 | [Stay In Your Lane](https://open.spotify.com/track/1e6TMGAXb3G81zFhFQ4gmw) | [Rex Atirai](https://open.spotify.com/artist/3YWnT7lNCBODL78ikRDomW), [Fiakal](https://open.spotify.com/artist/7DWgx2P7qT4MlhRLI37yOJ) | [Stay In Your Lane](https://open.spotify.com/album/6YYrPz65agGFETnvXqlaDH) | 2:40 | 2024-03-21 |  |
 | [Still the One](https://open.spotify.com/track/5kt8ukMn43YK7eMYeD2tP8) | [DJ Noiz](https://open.spotify.com/artist/0ZVAv3drBuIRSc88ATH6UK), [Mikey Mayz](https://open.spotify.com/artist/6AEfnpuztTZIwyy7fViTcy) | [Still the One](https://open.spotify.com/album/1dp1GNZaZFwCoqerFgVIA2) | 2:19 | 2023-11-28 |  |
+| [Summer Breeze](https://open.spotify.com/track/1QvnAn3bRO9OHvcVcGdgJX) | [The Mighty Rootsmen](https://open.spotify.com/artist/3HZNJxRu48Cxt6dlPcIhnH), [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK), [Gregory Isaacs](https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc), [Mykal Rose](https://open.spotify.com/artist/5wdQ2IkL8WASlcyt0x2s8Q) | [Summer Breeze](https://open.spotify.com/album/1BMwIdCw9HWnuWS0Kc2fL9) | 3:27 | 2025-05-29 |  |
 | [Summer Roots](https://open.spotify.com/track/0aYqYGU4vWXVOtv6YIk5PZ) | [Brutha Rodz](https://open.spotify.com/artist/7etGJzSv1g7S8RxZinqkdS), [Teina Mamaori](https://open.spotify.com/artist/5p0JHW1CkPxEqkbcz59rrp) | [Summer Roots](https://open.spotify.com/album/35J3yKS1y03AeCfgZfPudX) | 3:25 | 2025-03-20 |  |
 | [Summertime in Aotearoa](https://open.spotify.com/track/0of1ijyiq9iGJWXoijoIod) | [Corrella](https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX) | [Summertime in Aotearoa](https://open.spotify.com/album/4S3lE2h37snPZ3ERMIKGF8) | 3:57 | 2024-03-21 | 2024-11-08 |
 | [Summertime In Aotearoa](https://open.spotify.com/track/0ovU4fKL5J7V80YNwuqUYg) | [Corrella](https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX) | [Summertime In Aotearoa](https://open.spotify.com/album/6G4gwoemNI7fz9j1l79qVu) | 3:57 | 2023-11-28 | 2024-04-19 |

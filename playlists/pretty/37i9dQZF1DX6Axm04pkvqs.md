@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Axm04pkvqs.md) - [plain]
 
 > When my mouth has no words, let my spirit sing
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,425 likes - 80 songs - 11 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,509 likes - 80 songs - 11 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Axm04pkvqs.md) - [plain]
 | 42 | [Captured My Heart](https://open.spotify.com/track/0mkiOUQl052rRacosA5fS4) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [To Yahweh's Delight](https://open.spotify.com/album/4MCPXcYlgqMGWqm8B2k3ap) | 10:31 |
 | 43 | [Holy Ghost \(Live\)](https://open.spotify.com/track/7jYjkK3fPO7j7GcX2v12bF) | [Pastor Emmanuel Iren](https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw), [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Apostolos \(Sounds of Transition\)](https://open.spotify.com/album/2EB9Skh5opMuYmAusHBMlv) | 7:08 |
 | 44 | [Offered to a Deity](https://open.spotify.com/track/2RcnohsqrDzLsiXLA6oYod) | [1Spirit & Theophilus Sunday](https://open.spotify.com/artist/6k3PaNSSf7mNa4lauJUV00) | [The Journey](https://open.spotify.com/album/5xPudNK2llrpf4UfFtCljH) | 5:42 |
-| 45 | [Deep Prophetic Worship](https://open.spotify.com/track/4mIabVSMCGzLNCsDYBniYQ) | [Fiyin Adeniyi](https://open.spotify.com/artist/7b4BZkj7cS5gokEOCrNuN0) | [Deep Prophetic Worship](https://open.spotify.com/album/1Fl0GKcHMtfMyOt2g4rxS6) | 2:42 |
-| 46 | [Prayer Call \(Chants\) \- Live](https://open.spotify.com/track/1pmdxkKQ63owY4oSjBmqnj) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [God Can Live Ministration](https://open.spotify.com/album/1kiiYGJtDNVezSCFYTGR1P) | 8:50 |
+| 45 | [Prayer Call \(Chants\) \- Live](https://open.spotify.com/track/1pmdxkKQ63owY4oSjBmqnj) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [God Can Live Ministration](https://open.spotify.com/album/1kiiYGJtDNVezSCFYTGR1P) | 8:50 |
+| 46 | [Deep Prophetic Worship](https://open.spotify.com/track/4mIabVSMCGzLNCsDYBniYQ) | [Fiyin Adeniyi](https://open.spotify.com/artist/7b4BZkj7cS5gokEOCrNuN0) | [Deep Prophetic Worship](https://open.spotify.com/album/1Fl0GKcHMtfMyOt2g4rxS6) | 2:42 |
 | 47 | [House of Prayer \(feat\. Jayna Cullens\)](https://open.spotify.com/track/386uNqsMRVtiKDulq2P16T) | [Eddie James](https://open.spotify.com/artist/69LsPQEcmyMBXbdMKWT6Yq), [Jayna Cullens](https://open.spotify.com/artist/49UDs5Mtq1PYQeL5n9bqL0) | [Shift \(Awakening\)](https://open.spotify.com/album/4eBjA7nICogcfibf6xuGAz) | 7:59 |
 | 48 | [Adua Ke \(Cover\)](https://open.spotify.com/track/19m3PKmrtknv7pBQVySo5j) | [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI), [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS) | [Adua Ke \(Cover\)](https://open.spotify.com/album/4ERejtj6c9RXkAZxExOWif) | 5:00 |
 | 49 | [When God Walks In](https://open.spotify.com/track/38NkJdwVwSzezWnenSYR4A) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Glory Experience \(Songs of Zion\)](https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT) | 12:58 |
@@ -79,14 +79,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Axm04pkvqs.md) - [plain]
 | 69 | [At All Cost](https://open.spotify.com/track/6GwE4OioGK8oOaC8nKJffy) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Gospel of the Kingdom](https://open.spotify.com/album/25YIWvGm47WqKctz8k76r5) | 8:56 |
 | 70 | [There Is Prophecy over Me \(Prayer Instrumental Music\)](https://open.spotify.com/track/70ULbNpGcjEJRjeqJZAiEm) | [Ucious Music](https://open.spotify.com/artist/04SC030qxHLFoyyug9Pawa) | [There Is Prophecy over Me \(Prayer Instrumental Music\)](https://open.spotify.com/album/3P98nKARTr1d2OA5QxEv97) | 14:59 |
 | 71 | [Awake](https://open.spotify.com/track/70GaF6ifYZpt4i2IQNfw2y) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J), [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4), [121 Selah](https://open.spotify.com/artist/0FjCYT4l6k77uJhK7arnh5) | [We Are Fire](https://open.spotify.com/album/1MBjBNMOTSu2ikfJlt3SIY) | 6:20 |
-| 72 | [Ghana Chant](https://open.spotify.com/track/6SDSUyyEbsjFHEccLh0Mw4) | [Team Eternity Ghana](https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz) | [Testimony](https://open.spotify.com/album/3bWaysoTLDOIuvVh9JxR69) | 13:21 |
+| 72 | [I'm Available \(Prayer Chant\)](https://open.spotify.com/track/0ANipW0kAZ1RIocfpL1u4u) | [Praiz Singz](https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h) | [Strings of Glory \(Prayer Chant\)](https://open.spotify.com/album/1PkBEhb3H8N3P8a9WPrRWb) | 5:20 |
 | 73 | [The Conqueror’s Chant \(Agalliao\)](https://open.spotify.com/track/0INx5pqvfPfD9ZkqsOaM03) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [The Conqueror’s Chant \(Agalliao\)](https://open.spotify.com/album/35thPiCxJtZayMsEV1Resj) | 8:44 |
-| 74 | [I'm Available \(Prayer Chant\)](https://open.spotify.com/track/0ANipW0kAZ1RIocfpL1u4u) | [Praiz Singz](https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h) | [Strings of Glory \(Prayer Chant\)](https://open.spotify.com/album/1PkBEhb3H8N3P8a9WPrRWb) | 5:20 |
+| 74 | [Ghana Chant](https://open.spotify.com/track/6SDSUyyEbsjFHEccLh0Mw4) | [Team Eternity Ghana](https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz) | [Testimony](https://open.spotify.com/album/3bWaysoTLDOIuvVh9JxR69) | 13:21 |
 | 75 | [Hallelujah Chant \(Ruach Hakodesh\)](https://open.spotify.com/track/39sTVazPHh5IB8SdWNgLha) | [Noble G](https://open.spotify.com/artist/5QMR3QbX1ufqYCWPsphyUm), [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4) | [Hallelujah Chant](https://open.spotify.com/album/6wWdwa33ovvntJ35BADYRv) | 4:55 |
 | 76 | [Holyghost](https://open.spotify.com/track/5DK8nQppYFosgt9BspPeT6) | [Abbey Ojomu](https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM) | [Holyghost](https://open.spotify.com/album/0auDRLR3Nv8Mv3E953UYZQ) | 5:42 |
 | 77 | [Let Me Want What You Want](https://open.spotify.com/track/78QThdGhUVsZVq1ieC2Wm8) | [The Paul\-Enenche Family](https://open.spotify.com/artist/2L3tUlLwhfO1RkbdxmX6bT) | [Let Me Want What You Want](https://open.spotify.com/album/3AKHczXx1uCi5gyMYUAk2Q) | 8:03 |
 | 78 | [Iwo Loba\(Chant\)](https://open.spotify.com/track/7DWMCsJ0Vb7Dx3Q1Zr2y7I) | [Hugo David](https://open.spotify.com/artist/5msx4pkfuvJyauwGcRWQeo) | [Tongues and Melodies](https://open.spotify.com/album/4KKbio6RtPiANVNYFAQwnK) | 2:14 |
 | 79 | [Song of Angels](https://open.spotify.com/track/3JMh7EqWmxzguJaSCqQuwc) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Kingdom Now](https://open.spotify.com/album/2M2BBowaeYPd211IYmKNqn) | 12:11 |
-| 80 | [Intercession](https://open.spotify.com/track/2RXbpRdcxIq513gWw7tgn7) | [Caleb Music](https://open.spotify.com/artist/3tkHMoB4rBAXLjg0iq2jz0) | [Intercession](https://open.spotify.com/album/668d4mhaCYauZOunBEq7Vb) | 5:26 |
+| 80 | [Breathe on Me](https://open.spotify.com/track/47AuDsrAwLlkaKZMtthqX9) | [Elijah Oyelade](https://open.spotify.com/artist/2oRaSHeT9xVpXFvon3U4ak) | [Spirit Pray](https://open.spotify.com/album/0fEuILLwD5b4EIKuXg40k4) | 7:21 |
 
-Snapshot ID: `aC+64AAAAAC1rn5JnReAZJ3j6M1xSoSS`
+Snapshot ID: `aDj1XAAAAAD/jmuKjmdddAnsHyfsK/Dr`

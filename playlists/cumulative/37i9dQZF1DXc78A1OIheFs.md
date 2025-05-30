@@ -2,9 +2,9 @@
 
 ### [The Local List Aotearoa](https://open.spotify.com/playlist/37i9dQZF1DXc78A1OIheFs)
 
-> Discover the best in new music from Aotearoa\. Cover: Fat Freddy's Drop
+> Discover the best in new music from Aotearoa\. Cover: Lorde
 
-271 songs - 15 hr 38 min
+274 songs - 15 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Asphalt](https://open.spotify.com/track/7wsZgP1uN9IRlcH0NoCVq9) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [Asphalt](https://open.spotify.com/album/10N8STYVe81IzMCAkA8eBf) | 2:34 | 2024-05-20 | 2024-11-08 |
 | [Back In My Arms](https://open.spotify.com/track/4g5j7VcONFP64jSNSuLDOK) | [Hori Shaw](https://open.spotify.com/artist/3weDT5G04NSpPg2q1lvcJh) | [Back In My Arms](https://open.spotify.com/album/1pJWSJkimSU1tBcALRBZvr) | 3:45 | 2024-05-20 |  |
 | [Back To You](https://open.spotify.com/track/7GJAITul5ZTnYLRBJTricW) | [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [Back To You](https://open.spotify.com/album/5SdjFd7vXcbvQAjOy2kLwb) | 3:24 | 2024-08-15 | 2024-11-08 |
+| [Backseat](https://open.spotify.com/track/7yT4NJt5rgmVoMJMGPULcj) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Backseat](https://open.spotify.com/album/4SnYbgZqKOxc2eCRdMS3xu) | 6:23 | 2025-05-29 |  |
 | [Baited](https://open.spotify.com/track/4A8a7KKRvYvwFVPsbR1uFr) | [Coast Arcade](https://open.spotify.com/artist/1QfAgtBvfQQTNZjqSGyTEC) | [Baited](https://open.spotify.com/album/2VfPY2Zw8zio3uhqhryA1s) | 4:57 | 2024-08-15 | 2024-11-11 |
 | [Bali Nights](https://open.spotify.com/track/0DbCQ19qemrwPFPeoXsZRP) | [Summer Thieves](https://open.spotify.com/artist/4WCnYYTO46t5FujuWKOc4W) | [Cigarettes In Space](https://open.spotify.com/album/6j0YmnGZ7Qm2ZdtPMT1Gxu) | 3:30 | 2024-05-20 | 2024-11-08 |
 | [Barracuda](https://open.spotify.com/track/33Y2KCwOb0PRF0qCgat5GO) | [Devilskin](https://open.spotify.com/artist/3TIlROeJjCAhax6c000Pcd) | [SURFACING](https://open.spotify.com/album/2BxES4GiO5LdChisskcSde) | 4:05 | 2024-05-20 | 2024-11-08 |
@@ -154,7 +155,8 @@
 | [Love Language](https://open.spotify.com/track/1E5JV3mlDVqHEpQAtOV0RZ) | [Amila](https://open.spotify.com/artist/1aov4dgX0qVZVjIseA9LCh) | [Life Changes](https://open.spotify.com/album/6L8DCQG5Y91672wEjXXYL3) | 3:08 | 2024-05-20 | 2024-11-08 |
 | [Love No Other](https://open.spotify.com/track/6YO8Co43WvQ3ziqqfvdBmc) | [Reiki Ruawai](https://open.spotify.com/artist/0ZdwAoh3jV19yuDwht8ig3) | [The Message](https://open.spotify.com/album/06yILDavdcbbvqqELnMOYX) | 3:15 | 2024-09-26 | 2024-11-08 |
 | [Lucky Star](https://open.spotify.com/track/0dyKAdVxw1ZR4Dm7ubUJmF) | [Marlin's Dreaming](https://open.spotify.com/artist/3LTsKAOByvXFR2UshGoxaL) | [Lucky Star](https://open.spotify.com/album/1jBCW2wlEWOJ2UGFEqR8qS) | 4:44 | 2024-08-15 | 2024-11-08 |
-| [Luxury](https://open.spotify.com/track/7AJn6nHmWouUAdd7bJAheL) | [Drax Project](https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8) | [Upside](https://open.spotify.com/album/3DJIsKB1vlhdn0hDAwqiTH) | 3:17 | 2024-05-20 |  |
+| [Luxury](https://open.spotify.com/track/7AJn6nHmWouUAdd7bJAheL) | [Drax Project](https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8) | [Upside](https://open.spotify.com/album/3DJIsKB1vlhdn0hDAwqiTH) | 3:17 | 2024-05-20 | 2025-05-30 |
+| [Man Of The Year](https://open.spotify.com/track/1hoeP1oPYlhcv6iRCtB7pT) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Man Of The Year](https://open.spotify.com/album/1QSIGmlbg2zqpGbWXJNJeW) | 3:00 | 2025-05-29 |  |
 | [Margo](https://open.spotify.com/track/7ksb4APLjTOykHiRzPerRo) | [There's A Tuesday](https://open.spotify.com/artist/7ogKQvoSDyH4YEM5yShPI5) | [Margo](https://open.spotify.com/album/5PcwxJr53UiLWEpMwNWFv5) | 2:34 | 2025-02-13 | 2025-05-03 |
 | [Maumahara Noa Ahau](https://open.spotify.com/track/6425BbzJ8gGY9ossgxcQP4) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC), [Corrella](https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX), [Brannigan Kaa](https://open.spotify.com/artist/45PMvAQiWl2Coq1uQkQlUy) | [Maumahara Noa Ahau](https://open.spotify.com/album/1M03YWeJdRd1OhFD4g0QMp) | 2:50 | 2025-02-13 |  |
 | [Mazda Familia](https://open.spotify.com/track/2OCU63YuZVNuBZa8IDO99J) | [PNC](https://open.spotify.com/artist/1vxEjlZ4EHSA2lMheggLuS) | [Mazda Familia](https://open.spotify.com/album/6AE3UHZ98oYeENhRlZAtc7) | 3:08 | 2024-05-20 | 2024-11-08 |
@@ -167,6 +169,7 @@
 | [Might As Well Be Watching](https://open.spotify.com/track/5SfNS3bx82rXYXHtH5FNE9) | [Serebii](https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms) | [Might As Well Be Watching](https://open.spotify.com/album/4U9loPOJifAA6qjM4JpwYR) | 3:23 | 2024-10-24 | 2025-04-27 |
 | [Millions](https://open.spotify.com/track/1OiEaDZf2xda14zWlkXinE) | [Mountain Boy](https://open.spotify.com/artist/3qEnPaVdXvWJz4JZfRdqw7) | [The Days](https://open.spotify.com/album/3Orb30lEud5jYVlIjdtWfd) | 3:10 | 2024-05-20 | 2024-08-16 |
 | [Miss You All The Time](https://open.spotify.com/track/2Z47P8OrffWIO5BKWrIlou) | [Foley](https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE) | [Miss You All The Time](https://open.spotify.com/album/36u6nqSNbq4ZeH10s6lBgl) | 3:00 | 2024-05-20 | 2024-11-08 |
+| [MONEY CALLIN](https://open.spotify.com/track/5ndrJDMYHj2ZNO5M3cnvCm) | [MELODOWNZ](https://open.spotify.com/artist/0tkEKBrgdMZXjZylYRoN7H), [Halfsing](https://open.spotify.com/artist/2N9LXayJ8gJPbgpehVKMAZ) | [MONEY CALLIN](https://open.spotify.com/album/4F48UjmhCkQ7oQGmhtDquo) | 2:51 | 2025-05-29 |  |
 | [Moneypenny](https://open.spotify.com/track/6t6gN6WFTsHd0aDpdEgA5Y) | [LA WOMEN](https://open.spotify.com/artist/4FUs4dXBvexAfJDQEcBfGj) | [Moneypenny](https://open.spotify.com/album/4A4YRs6Sb1uXHKnWpgn8V6) | 4:18 | 2024-08-15 | 2025-02-07 |
 | [Moonglade](https://open.spotify.com/track/2u4d4vP0rkRwf1s7Tt671a) | [Mild Orange](https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf) | [Moonglade](https://open.spotify.com/album/6V1xxQCtt0IqSlBXp1YkfB) | 4:34 | 2025-04-24 |  |
 | [more than a minute](https://open.spotify.com/track/5Y1B8SV62MIqRb4AZdf4IY) | [MACEY](https://open.spotify.com/artist/716EJp7f6iFYHsCywzgE1i) | [how to say goodbye](https://open.spotify.com/album/4KcmPWoY1mQKNKcvgqYk4l) | 3:46 | 2024-11-07 | 2024-11-29 |
@@ -192,9 +195,9 @@
 | [One True Love](https://open.spotify.com/track/43FQqxSy16OabeFD0X2cgj) | [General Fiyah](https://open.spotify.com/artist/4dnsfuI3oozEl16wEcsPc8), [Sheldon Palmer](https://open.spotify.com/artist/0VNnu9f86UN5ATrAuDKu64) | [One True Love](https://open.spotify.com/album/5tJylxYHIt86FGsLNNTRF5) | 3:37 | 2024-05-20 | 2024-11-08 |
 | [Painting My Roof Again](https://open.spotify.com/track/5hzO1rv7G7oYVWuLN7VUsl) | [The Butlers](https://open.spotify.com/artist/4fNyHJVpejfDhaaWk9jOfN) | [Painting My Roof Again](https://open.spotify.com/album/5KRo3jirSE4UEq2m2432No) | 4:08 | 2024-08-15 | 2024-11-08 |
 | [Papier\-Mâché](https://open.spotify.com/track/3GC0NNZxyIQSMOSoyUqpZ1) | [Tarn PK](https://open.spotify.com/artist/0o5jOQbBI6oSsI0U6OT41X) | [Papier\-Mâché](https://open.spotify.com/album/21wGL1QvVrXM5yJUNki3ag) | 4:00 | 2024-05-20 | 2024-10-04 |
-| [Paradise](https://open.spotify.com/track/7yj7Ju3KQ0oBDS38MuXwON) | [COTERIE](https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY) | [Paradise](https://open.spotify.com/album/5noUoR7axB7PlLJbulwpmz) | 1:47 | 2024-05-20 |  |
+| [Paradise](https://open.spotify.com/track/7yj7Ju3KQ0oBDS38MuXwON) | [COTERIE](https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY) | [Paradise](https://open.spotify.com/album/5noUoR7axB7PlLJbulwpmz) | 1:47 | 2024-05-20 | 2025-05-30 |
 | [pinky boy](https://open.spotify.com/track/5qQnZ1b3lNzeZhRryzxfzZ) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [pinky boy](https://open.spotify.com/album/57LMbZ3RB5eYxPsYHF87q9) | 4:45 | 2024-08-15 | 2025-03-21 |
-| [pinky girl](https://open.spotify.com/track/4ZvoE03wSTX4gSneaH1L2J) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [pinky girl](https://open.spotify.com/album/4Q0lBUApWnjRmkjN3yiKwR) | 3:54 | 2024-10-03 |  |
+| [pinky girl](https://open.spotify.com/track/4ZvoE03wSTX4gSneaH1L2J) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [pinky girl](https://open.spotify.com/album/4Q0lBUApWnjRmkjN3yiKwR) | 3:54 | 2024-10-03 | 2025-05-30 |
 | [PLEASER](https://open.spotify.com/track/57aoIncSQMCTT58Nczu5se) | [Vana](https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T) | [PLEASER](https://open.spotify.com/album/3DLbNeGEg77U7wyAgIv4pc) | 2:45 | 2025-03-20 |  |
 | [Porcelain](https://open.spotify.com/track/2b8HXdCOw96FHzRAIx8Kps) | [Hans.](https://open.spotify.com/artist/41azuh0IUq4g2UPySoYp8A) | [Porcelain](https://open.spotify.com/album/2pEMwAZNzrG1LP66stCLQH) | 2:09 | 2024-05-20 | 2024-08-16 |
 | [Post High Slide](https://open.spotify.com/track/0Oy5bmDDnMpqCv8eYpPqTM) | [Mel Parsons](https://open.spotify.com/artist/2mKPHz3RD0bMrQqKFnrwrC) | [Post High Slide](https://open.spotify.com/album/4yIdXuxYCX87HG4l2PnYCg) | 3:36 | 2025-03-20 | 2025-03-28 |

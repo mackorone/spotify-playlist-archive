@@ -78,7 +78,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 152158,
       "name": "99 Problemer",
       "url": "https://open.spotify.com/track/4GrN08TEmpFC93cOf0S4sE"
@@ -755,6 +755,24 @@
     },
     {
       "album": {
+        "name": "Okej att d\u00f6",
+        "url": "https://open.spotify.com/album/2N6zGSJKBKGOLMUwxnwx2B"
+      },
+      "artists": [
+        {
+          "name": "Miriam Bryant",
+          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144360,
+      "name": "FaceTime",
+      "url": "https://open.spotify.com/track/61E9a3TY4BNTBOuTa5jqJK"
+    },
+    {
+      "album": {
         "name": "Feel This Way",
         "url": "https://open.spotify.com/album/1krHx6VqHRNlHXI1ShycIU"
       },
@@ -1244,6 +1262,32 @@
       "duration_ms": 183615,
       "name": "Jeg vil ha (Parlamentet)",
       "url": "https://open.spotify.com/track/64wEOlCnjWxwRevRrXl3ot"
+    },
+    {
+      "album": {
+        "name": "John Carew (feat. Roc Boyz)",
+        "url": "https://open.spotify.com/album/5db4qNSo7J24GNTJQU5YCw"
+      },
+      "artists": [
+        {
+          "name": "Amara",
+          "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
+        },
+        {
+          "name": "Chris Abolade",
+          "url": "https://open.spotify.com/artist/4wqjUmydj8rX3foHUjNOtB"
+        },
+        {
+          "name": "Roc Boyz",
+          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200401,
+      "name": "John Carew (feat. Roc Boyz)",
+      "url": "https://open.spotify.com/track/4sr29tcFUbSu2FYyHNAdrE"
     },
     {
       "album": {
@@ -1868,7 +1912,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 127200,
       "name": "PRTY",
       "url": "https://open.spotify.com/track/5KXGFjw48liIgAqTMv3jfs"

@@ -489,6 +489,24 @@
     },
     {
       "album": {
+        "name": "Gubi Gubi",
+        "url": "https://open.spotify.com/album/2nY2HJo0XWnMI1PH8sMgEw"
+      },
+      "artists": [
+        {
+          "name": "\u535a\u535a\u7684\u5947\u5999\u6a02\u5712",
+          "url": "https://open.spotify.com/artist/31epdAsDh0SBTYv0da0rW0"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156941,
+      "name": "Gubi Gubi",
+      "url": "https://open.spotify.com/track/29vedMS2AXT4DvVhSQQ6xo"
+    },
+    {
+      "album": {
         "name": "Hello",
         "url": "https://open.spotify.com/album/5y28RdPzIRXegzr5YM9Y0D"
       },
@@ -1262,7 +1280,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 179138,
       "name": "\u55f6\u55f6\u54e9\u5df4\u55f6\u54e9\u5e03 - \u5c0f\u516c\u8996\u611b\u5531\u6b4c\u7cfb\u5217__\u70ba\u5bf6\u8c9d\u5531\u4e00\u9996\u6b4c",
       "url": "https://open.spotify.com/track/15UPCpdfAwpYKx4NWj7Tqa"

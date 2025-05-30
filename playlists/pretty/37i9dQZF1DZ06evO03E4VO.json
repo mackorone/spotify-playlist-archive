@@ -1,13 +1,29 @@
 {
   "description": "This is Alaina Castillo. The essential tracks, all in one playlist.",
-  "num_followers": 4746,
+  "num_followers": 4748,
   "original_name": "This Is Alaina Castillo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDUAgAAAAAAgAwz2QjzTRay7Id1A4m06",
+  "snapshot_id": "aDZSAAAAAAD+ecFX+bO+2BTWLJgVh+h6",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "one & only",
+        "url": "https://open.spotify.com/album/0fpRXGnNNWfSLQ6UILGKIH"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 213115,
+      "name": "one & only",
+      "url": "https://open.spotify.com/track/7LSCQqpgG89LkdQm2DDlMt"
+    },
     {
       "added_at": null,
       "album": {
@@ -331,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "luna de miel",
-        "url": "https://open.spotify.com/album/6jS8h6S75hv5XtRcdjd8f2"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 155017,
-      "name": "luna de miel",
-      "url": "https://open.spotify.com/track/2hjyD6lWeudH8HDsh1b1vr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "valentine's day",
         "url": "https://open.spotify.com/album/7BR4fDyQhhDVUwPEgiSOZ8"
       },
@@ -359,6 +359,22 @@
       "duration_ms": 188560,
       "name": "valentine's day",
       "url": "https://open.spotify.com/track/5eIZxYFOZUcCMS0g79r7Qq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "luna de miel",
+        "url": "https://open.spotify.com/album/6jS8h6S75hv5XtRcdjd8f2"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 155017,
+      "name": "luna de miel",
+      "url": "https://open.spotify.com/track/2hjyD6lWeudH8HDsh1b1vr"
     },
     {
       "added_at": null,
@@ -427,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "mensajes de voz",
-        "url": "https://open.spotify.com/album/3ke91rZeapK58zUwhdztrX"
+        "name": "antisocial butterfly",
+        "url": "https://open.spotify.com/album/3VjohCH9QginYIiEP4E5Mg"
       },
       "artists": [
         {
@@ -436,9 +452,9 @@
           "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
         }
       ],
-      "duration_ms": 185681,
-      "name": "un ni\u00f1o",
-      "url": "https://open.spotify.com/track/7KvT052XdKMsVvHfqeYqP9"
+      "duration_ms": 183587,
+      "name": "mentiras",
+      "url": "https://open.spotify.com/track/4rEf2r4gEZBFpQuOE9TMev"
     },
     {
       "added_at": null,
@@ -459,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "antisocial butterfly",
-        "url": "https://open.spotify.com/album/3VjohCH9QginYIiEP4E5Mg"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 183587,
-      "name": "mentiras",
-      "url": "https://open.spotify.com/track/4rEf2r4gEZBFpQuOE9TMev"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "fantasies",
         "url": "https://open.spotify.com/album/1fXLA70J3p1vNZ03dmzZR3"
       },
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "running water",
-        "url": "https://open.spotify.com/album/6toh8B1dKilWkXSEs0Snpq"
+        "name": "mensajes de voz",
+        "url": "https://open.spotify.com/album/3ke91rZeapK58zUwhdztrX"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
         }
       ],
-      "duration_ms": 184633,
-      "name": "running water",
-      "url": "https://open.spotify.com/track/1b90ddTdItBsl0s6cNzKzS"
+      "duration_ms": 185681,
+      "name": "un ni\u00f1o",
+      "url": "https://open.spotify.com/track/7KvT052XdKMsVvHfqeYqP9"
     },
     {
       "added_at": null,
@@ -523,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "wishlist",
-        "url": "https://open.spotify.com/album/4lR8d9biYRzivkjR2YNxN8"
+        "name": "running water",
+        "url": "https://open.spotify.com/album/6toh8B1dKilWkXSEs0Snpq"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
         }
       ],
-      "duration_ms": 203093,
-      "name": "wishlist",
-      "url": "https://open.spotify.com/track/5A7c78ufMETDVBmFADFMJv"
+      "duration_ms": 184633,
+      "name": "running water",
+      "url": "https://open.spotify.com/track/1b90ddTdItBsl0s6cNzKzS"
     },
     {
       "added_at": null,
@@ -555,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "wishlist",
+        "url": "https://open.spotify.com/album/4lR8d9biYRzivkjR2YNxN8"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 203093,
+      "name": "wishlist",
+      "url": "https://open.spotify.com/track/5A7c78ufMETDVBmFADFMJv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "the voicenotes",
         "url": "https://open.spotify.com/album/0u0XemQDEsApGFSI1Yr379"
       },
@@ -571,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00a1p\u00e1rate!",
-        "url": "https://open.spotify.com/album/3o3Yc5Wl1V6MnoI3MONhQx"
+        "name": "malos h\u00e1bitos",
+        "url": "https://open.spotify.com/album/6OPuLLyQr6sjyJG98Fd8ZP"
       },
       "artists": [
         {
@@ -580,25 +596,9 @@
           "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
         }
       ],
-      "duration_ms": 153189,
-      "name": "\u00a1p\u00e1rate!",
-      "url": "https://open.spotify.com/track/2FkDMpd67hEiPCoIcQd7QO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "antisocial butterfly",
-        "url": "https://open.spotify.com/album/3VjohCH9QginYIiEP4E5Mg"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 87579,
-      "name": "back to you",
-      "url": "https://open.spotify.com/track/2Ir0OrTswTZwU7BUMVV620"
+      "duration_ms": 173000,
+      "name": "me conquistaste",
+      "url": "https://open.spotify.com/track/74ne3xdycnUrWsDnAJXCX4"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "malos h\u00e1bitos",
-        "url": "https://open.spotify.com/album/6OPuLLyQr6sjyJG98Fd8ZP"
+        "name": "antisocial butterfly",
+        "url": "https://open.spotify.com/album/3VjohCH9QginYIiEP4E5Mg"
       },
       "artists": [
         {
@@ -628,9 +628,25 @@
           "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
         }
       ],
-      "duration_ms": 173000,
-      "name": "me conquistaste",
-      "url": "https://open.spotify.com/track/74ne3xdycnUrWsDnAJXCX4"
+      "duration_ms": 87579,
+      "name": "back to you",
+      "url": "https://open.spotify.com/track/2Ir0OrTswTZwU7BUMVV620"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00a1p\u00e1rate!",
+        "url": "https://open.spotify.com/album/3o3Yc5Wl1V6MnoI3MONhQx"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 153189,
+      "name": "\u00a1p\u00e1rate!",
+      "url": "https://open.spotify.com/track/2FkDMpd67hEiPCoIcQd7QO"
     },
     {
       "added_at": null,

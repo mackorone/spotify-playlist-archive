@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 | 77 | [Fly](https://open.spotify.com/track/0PvbgBKA1ZMsTNrd8QVlCi) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Spies in Disguise](https://open.spotify.com/artist/6KvlPV9ixIAotRrbKHWZPl) | [Fly](https://open.spotify.com/album/3Shvkj36f9cbFZOQe9Dc0K) | 2:43 |
 | 78 | [Testify](https://open.spotify.com/track/3kafzvowAyLtjs6TRFaRdj) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Since I Have A Lover](https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF) | 3:51 |
 | 79 | [Nothing Like L.A.](https://open.spotify.com/track/22VhoVIaVeJx1fvS46OkdU) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [I Am The West](https://open.spotify.com/album/1WXp9ofuosOWHVjkEnvuzL) | 3:20 |
-| 80 | [Dollar Wine](https://open.spotify.com/track/7m9QpC8iqp4GrQ6Ag0BICY) | [Colin Lucas](https://open.spotify.com/artist/28aD9YH3CvyLVmje2x0Fa8) | [Soca 101 Vol\. 1](https://open.spotify.com/album/7FEdke9MotkOuK81ZN6VTa) | 5:47 |
+| 80 | [Dollar Wine](https://open.spotify.com/track/0F2Py4ogjJZIprJkQwD4IW) | [Colin Lucas](https://open.spotify.com/artist/30e4w7lTeWNqIvmAOxAhig) | [Soca 101 Vol\. 1](https://open.spotify.com/album/2R5kNP2ojFzhcHUi2SyenE) | 5:47 |
 | 81 | [Love These Days](https://open.spotify.com/track/2cXu6oGXOieNkFViXTHBEi) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [It’s The End Of The World But It’s A Beautiful Day](https://open.spotify.com/album/08qd1EHSPOu0RHlIOgyYDf) | 3:00 |
 | 82 | [Home](https://open.spotify.com/track/5GI96fTs0xkKXfgShNn975) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [At Home](https://open.spotify.com/album/27y7LkojjT5POmnZeWIttg) | 2:30 |
 | 83 | [Psycho](https://open.spotify.com/track/11mnze67X02I4q190PXVxo) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [FWA](https://open.spotify.com/album/2wVTLpA19kpk5qmkTASir0) | 4:07 |
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 | 120 | [Nothing In Common](https://open.spotify.com/track/4FPt0UqiphP1eiDCX9pxGO) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 2:48 |
 | 121 | [Gang In This Bitch](https://open.spotify.com/track/47igTK6oLfLRuK5IHQqx26) | [CHIRAQ CULTURE](https://open.spotify.com/artist/1DWnPrbc3B6IbM4dMO5CLg) | [SHOOTERS TOUCH VOL 1](https://open.spotify.com/album/3KLou7O2u6sGpqpNSgcetX) | 2:51 |
 
-Snapshot ID: `Abyp8gAAAACxJYisqe3rrof8KLy60WEv`
+Snapshot ID: `AbyvfgAAAACgmBmzJ8V7q6nQd7vcjYGr`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4O0AdBo80OE.md) - [plain]
 
 > Rimas cremosas, tan necesarias como tu café\. Dharius y Yayo en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,469 likes - 102 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,505 likes - 102 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4O0AdBo80OE.md) - [plain]
 | 88 | [Ajenos](https://open.spotify.com/track/5sb5zLIDC3FjMyBqGCopf9) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Ajenos / El Día de tu Muerte](https://open.spotify.com/album/7k2cOeyxBoImq2kEmwRYxR) | 3:37 |
 | 89 | [Te Marqué Pedo](https://open.spotify.com/track/4JfWJOuhXu0QVnev3jgC9S) | [Alex Luna](https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [Te Marqué Pedo](https://open.spotify.com/album/5whw8haonqjs15S7DzG4Pv) | 3:36 |
 | 90 | [La Marcha De Los Tristes](https://open.spotify.com/track/5ZXPV5uBNUC7itJrVXoyUw) | [Lng Sht](https://open.spotify.com/artist/2q9p1IXueDbcN4de5C9fI2) | [IV.\- Buenos Adultos](https://open.spotify.com/album/1qkCpcYwTdl4OWpdZLc1ZN) | 3:42 |
-| 91 | [Si Aquí Estuvieras](https://open.spotify.com/track/2uH7BbKKG9bzVBuHdL5TB2) | [Gera MXM](https://open.spotify.com/artist/5n3LP0KcPkzWsvExZ6cJEO), [Jay Romero](https://open.spotify.com/artist/4VECwDIJ0DYczPqCyP85kQ), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Lich Weezy](https://open.spotify.com/artist/4XiMUcMQp7CjjUX0728Bqu) | [Si Aquí Estuvieras](https://open.spotify.com/album/2BpP4gT2GjPzHNHwlZqlmU) | 5:21 |
+| 91 | [Si Aquí Estuvieras](https://open.spotify.com/track/2uH7BbKKG9bzVBuHdL5TB2) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Jay Romero](https://open.spotify.com/artist/4VECwDIJ0DYczPqCyP85kQ), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Lich Weezy](https://open.spotify.com/artist/4XiMUcMQp7CjjUX0728Bqu) | [Si Aquí Estuvieras](https://open.spotify.com/album/2BpP4gT2GjPzHNHwlZqlmU) | 5:21 |
 | 92 | [Mextasis](https://open.spotify.com/track/7hUGy5dnyRVXzHOv9LoZB9) | [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [El Morroeste](https://open.spotify.com/album/1FaFnc7lRcUSy2fk8DSHNe) | 3:16 |
 | 93 | [No Llegaré \(Remix\)](https://open.spotify.com/track/54CJM8yM962AAtBAV7igUr) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Zornoza](https://open.spotify.com/artist/7duoO1s42va1lka5TikCfu), [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [No Llegaré \(Remix\)](https://open.spotify.com/album/1nHCG2d7yTxzAaWtVA5y84) | 4:15 |
 | 94 | [Duele](https://open.spotify.com/track/0vp1LRAhFT6PK9ixOmFT6E) | [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [Duele](https://open.spotify.com/album/59IkAXXPqzP6DOuYsQ696T) | 2:39 |

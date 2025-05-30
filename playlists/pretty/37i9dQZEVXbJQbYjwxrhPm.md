@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 961 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 962 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [like JENNIE](https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 2:03 |
 | 50 | [Moy Si Merak](https://open.spotify.com/track/6Y06ElSXio17oXbPcTkhnO) | [SIMONA](https://open.spotify.com/artist/6NtH0d4qlaU5FakRdrdNwq), [Mirela](https://open.spotify.com/artist/4aPsL8sPDTXIR11gYfAb0i) | [Moy Si Merak](https://open.spotify.com/album/29a6tSrFHK5ztt2lAC2Jvx) | 2:59 |
 
-Snapshot ID: `L8p+eAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L8vP+AAAAAAAAAAAAAAAAAAAAAAAAGVu`

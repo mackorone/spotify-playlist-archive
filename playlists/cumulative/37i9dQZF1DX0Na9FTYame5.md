@@ -4,7 +4,7 @@
 
 > Deutschrap für die emotions\. Cover: CIVO
 
-217 songs - 9 hr 50 min
+218 songs - 9 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Für immer Zuhaus‘ \(feat\. Montez\)](https://open.spotify.com/track/6uYJJG8O09FDGSX6FMz3rz) | [Nio](https://open.spotify.com/artist/59QdJy846FAaNXcztOegY5), [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Für immer Zuhaus‘ \(feat\. Montez\)](https://open.spotify.com/album/369u6YDhMq2L6RPy4cP7v6) | 2:24 | 2024-06-28 | 2024-09-21 |
 | [Gar nicht mal so glücklich \(feat\. Estikay\)](https://open.spotify.com/track/0KujySjvlPZiC4itOukxDM) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq), [Estikay](https://open.spotify.com/artist/4DMzvwya65eu1LsYZ3BLV6) | [PAUL](https://open.spotify.com/album/1JCHmY9QyhalyUBjHHbg3D) | 2:45 | 2024-06-28 | 2025-02-09 |
 | [Garten vorm Haus](https://open.spotify.com/track/6NOtUjLWOJdXLqB08t62uI) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8), [Maxe](https://open.spotify.com/artist/6YTILOAf9umh7RMEJdigWm) | [Garten vorm Haus](https://open.spotify.com/album/68ia6GzIsyt8c432HeagAn) | 1:54 | 2024-11-11 |  |
+| [Geboren um zu leben](https://open.spotify.com/track/0KHSvFopZcVxNuAB7oQPDv) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK), [NESS](https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R) | [Geboren um zu leben](https://open.spotify.com/album/4ouPGR0UfyUeDqb56e4ray) | 2:48 | 2025-05-29 |  |
 | [Gesegnet](https://open.spotify.com/track/0fvFSGvEAPDDMfweKvDJVa) | [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Gesegnet](https://open.spotify.com/album/28znTBZh9uV0BCoJ0w6xuk) | 3:11 | 2025-01-16 |  |
 | [Glatteis](https://open.spotify.com/track/1z9NVyu6rOFQR57vA94xbR) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Fieber / Glatteis](https://open.spotify.com/album/6eNrbdwrN1GE7VWeiDc11f) | 3:22 | 2024-06-28 | 2025-05-16 |
 | [glücklich ohne dich](https://open.spotify.com/track/64eMg1XPRTKjtoW6ohdN6S) | [Anna Grey](https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q) | [glücklich ohne dich](https://open.spotify.com/album/7LvFdCU6m28MfVDgEwy5HQ) | 2:33 | 2025-04-10 |  |
@@ -154,7 +155,7 @@
 | [NuR Du :/](https://open.spotify.com/track/3DYJ9tHSIhZqCVT8l5QAd0) | [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6), [SHABAB](https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO) | [NuR Du :/](https://open.spotify.com/album/2ri0pX0fz7FEQSW9xyKURZ) | 3:26 | 2024-06-28 |  |
 | [Ohne dich](https://open.spotify.com/track/3b3Dj7FMFkqUQLSxKjixkS) | [Eddin](https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq) | [Ohne dich](https://open.spotify.com/album/0pUX6myx7NWjdx2j7hgvs2) | 2:17 | 2025-04-17 |  |
 | [OMG](https://open.spotify.com/track/48VxUAyrLAnOr39ck1cJV5) | [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr), [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV), [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU), [102 Boyz](https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR) | [OMG](https://open.spotify.com/album/29JfpcRRhV7vspCooH2pIM) | 2:41 | 2024-08-12 | 2025-01-21 |
-| [On/Off](https://open.spotify.com/track/5X63FvEXgMGIt7LF6U7v2W) | [Milano](https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm), [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [On/Off](https://open.spotify.com/album/6fV2gDEnZrkEDz5ENTaL8x) | 2:27 | 2024-06-28 |  |
+| [On/Off](https://open.spotify.com/track/5X63FvEXgMGIt7LF6U7v2W) | [Milano](https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm), [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [On/Off](https://open.spotify.com/album/6fV2gDEnZrkEDz5ENTaL8x) | 2:27 | 2024-06-28 | 2025-05-30 |
 | [Panikweiß](https://open.spotify.com/track/2sledoZeAbV6vtTo6HsrqG) | [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U), [Schmyt](https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb) | [Panikweiß](https://open.spotify.com/album/759SIsxU0p4v2TJ2yrplV5) | 2:50 | 2024-06-28 | 2025-02-12 |
 | [Party Allein](https://open.spotify.com/track/0OU4O2hTL2PtjzZ1yg8o2G) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Lost Tapes Teil 2](https://open.spotify.com/album/2QCQLyr5RnqZdikUD3cDbn) | 2:05 | 2025-02-27 | 2025-03-04 |
 | [Passion \(feat\. Paula Hartmann\)](https://open.spotify.com/track/0npHflJzLWZ6svbq5Abnfo) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic) | [Majestic](https://open.spotify.com/album/7qNuJ1DoCy9au1vdip0f7o) | 2:40 | 2024-06-28 |  |

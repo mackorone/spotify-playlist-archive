@@ -40881,6 +40881,24 @@
     },
     {
       "album": {
+        "name": "Twisted",
+        "url": "https://open.spotify.com/album/4364SmixuDHP9XAupp2Uv5"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179076,
+      "name": "Twisted",
+      "url": "https://open.spotify.com/track/34QR6gBe0QbYg8gDnzuv7P"
+    },
+    {
+      "album": {
         "name": "Two Caps",
         "url": "https://open.spotify.com/album/2omx5AxUw6N0G94rgD9fKA"
       },

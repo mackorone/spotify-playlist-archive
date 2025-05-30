@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Uma playlist de pura alma pop! Foto: D.A.M.A.",
+  "description": "Uma playlist de pura alma pop! Foto: NAPA com Van Zee",
   "name": "Pop PT",
   "tracks": [
     {
@@ -150,6 +150,24 @@
       "duration_ms": 151384,
       "name": "Adeus",
       "url": "https://open.spotify.com/track/4KdOFRQT6eMN1yckrmd2o1"
+    },
+    {
+      "album": {
+        "name": "eu nem queria falar de amor.",
+        "url": "https://open.spotify.com/album/7uNp5CarprrAZ06KvaRBCT"
+      },
+      "artists": [
+        {
+          "name": "L\u00e1zaro",
+          "url": "https://open.spotify.com/artist/4e7bUinclzH7iZ0vGr476X"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217565,
+      "name": "Admite",
+      "url": "https://open.spotify.com/track/7Jo0qZsQAtnmVRORMvjOOu"
     },
     {
       "album": {
@@ -404,6 +422,24 @@
       "duration_ms": 166329,
       "name": "Apaga a Luz",
       "url": "https://open.spotify.com/track/3wsBY12jclLxRB8IkQkfFh"
+    },
+    {
+      "album": {
+        "name": "Apagar A Sombra",
+        "url": "https://open.spotify.com/album/20LXGivwNOPfvMvTJWzRvE"
+      },
+      "artists": [
+        {
+          "name": "Milhanas",
+          "url": "https://open.spotify.com/artist/4NbHlXvmfisJ4e9tNkTqgC"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166432,
+      "name": "Apagar A Sombra",
+      "url": "https://open.spotify.com/track/1d85Pi8RAoGxB18gfu2Nk0"
     },
     {
       "album": {
@@ -2473,6 +2509,28 @@
     },
     {
       "album": {
+        "name": "Infinito",
+        "url": "https://open.spotify.com/album/5PggQNNlmkNTw3jZFyn0qs"
+      },
+      "artists": [
+        {
+          "name": "NAPA",
+          "url": "https://open.spotify.com/artist/3BR3Qfra04DICDUB2BL3eu"
+        },
+        {
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229244,
+      "name": "Infinito",
+      "url": "https://open.spotify.com/track/2lJ43uf6sTBG9RV9YeXqtb"
+    },
+    {
+      "album": {
         "name": "INVIS\u00cdVEL",
         "url": "https://open.spotify.com/album/6DHs8XGJC8d63tl67Ce9NU"
       },
@@ -2802,7 +2860,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 211092,
       "name": "Linhas da Vida",
       "url": "https://open.spotify.com/track/2gXxRgY4xhDbduzPauDeEP"
@@ -3002,7 +3060,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 241678,
       "name": "Milion\u00e1rio",
       "url": "https://open.spotify.com/track/2SkgTFL4pSfG5N5ub9frhb"
@@ -3390,7 +3448,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 288945,
       "name": "N\u00e3o Te Ausentes De Mim",
       "url": "https://open.spotify.com/track/5i0rY5P2kTa5JU4qKb5lZl"

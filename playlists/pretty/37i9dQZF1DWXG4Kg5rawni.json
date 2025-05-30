@@ -1,6 +1,6 @@
 {
   "description": "Amor aben\u00e7oado por Deus.",
-  "num_followers": 110558,
+  "num_followers": 110583,
   "original_name": "Gospel Rom\u00e2ntico",
   "owner": {
     "name": "Spotify",
@@ -539,6 +539,22 @@
     {
       "added_at": "2024-07-11 15:58:05",
       "album": {
+        "name": "Deus Me Deu Voc\u00ea",
+        "url": "https://open.spotify.com/album/27QzsDGSDFsnEQMqf6CyOl"
+      },
+      "artists": [
+        {
+          "name": "Thiago e J\u00e9ssica",
+          "url": "https://open.spotify.com/artist/47Avc96OLqdMeyZldOlIhF"
+        }
+      ],
+      "duration_ms": 263213,
+      "name": "Deus Me Deu Voc\u00ea",
+      "url": "https://open.spotify.com/track/2UfgNRxseC9S9Hmf8sW7tm"
+    },
+    {
+      "added_at": "2024-07-11 15:58:05",
+      "album": {
         "name": "Com Voc\u00ea",
         "url": "https://open.spotify.com/album/54ci89R6xdQfxdsQLgH1no"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 223886,
       "name": "Com Voc\u00ea",
       "url": "https://open.spotify.com/track/7dsOIrjQZbRgNg6KNWPYYJ"
-    },
-    {
-      "added_at": "2024-07-11 15:58:05",
-      "album": {
-        "name": "Deus Me Deu Voc\u00ea",
-        "url": "https://open.spotify.com/album/27QzsDGSDFsnEQMqf6CyOl"
-      },
-      "artists": [
-        {
-          "name": "Thiago e J\u00e9ssica",
-          "url": "https://open.spotify.com/artist/47Avc96OLqdMeyZldOlIhF"
-        }
-      ],
-      "duration_ms": 263213,
-      "name": "Deus Me Deu Voc\u00ea",
-      "url": "https://open.spotify.com/track/2UfgNRxseC9S9Hmf8sW7tm"
     },
     {
       "added_at": "2024-07-11 15:58:05",
@@ -611,6 +611,22 @@
     {
       "added_at": "2024-07-11 15:58:05",
       "album": {
+        "name": "Nosso Castelo",
+        "url": "https://open.spotify.com/album/20HqyoxH3L4OAL9J8rElVd"
+      },
+      "artists": [
+        {
+          "name": "Wilian Nascimento",
+          "url": "https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR"
+        }
+      ],
+      "duration_ms": 252215,
+      "name": "Nosso Castelo",
+      "url": "https://open.spotify.com/track/3cwe5HZqAhygCVPPVcwsit"
+    },
+    {
+      "added_at": "2024-07-11 15:58:05",
+      "album": {
         "name": "Amo Voc\u00ea Vol. 6",
         "url": "https://open.spotify.com/album/3v5Geo1sU3EbNrecHH8aYE"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 351735,
       "name": "Amar Voc\u00ea",
       "url": "https://open.spotify.com/track/1H9K7yHUop3Y1W9u2Df9ke"
-    },
-    {
-      "added_at": "2024-07-11 15:58:05",
-      "album": {
-        "name": "Nosso Castelo",
-        "url": "https://open.spotify.com/album/20HqyoxH3L4OAL9J8rElVd"
-      },
-      "artists": [
-        {
-          "name": "Wilian Nascimento",
-          "url": "https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR"
-        }
-      ],
-      "duration_ms": 252215,
-      "name": "Nosso Castelo",
-      "url": "https://open.spotify.com/track/3cwe5HZqAhygCVPPVcwsit"
     },
     {
       "added_at": "2024-07-11 15:58:05",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-07-11 15:58:05",
       "album": {
-        "name": "Amar e Perdoar",
-        "url": "https://open.spotify.com/album/3Z1fceQgyz4oMxnOrPRooJ"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 230310,
-      "name": "Por N\u00f3s",
-      "url": "https://open.spotify.com/track/2BSlxEYxjBdTefmzs5COfA"
-    },
-    {
-      "added_at": "2024-07-11 15:58:05",
-      "album": {
         "name": "Deus Voc\u00ea e Eu",
         "url": "https://open.spotify.com/album/4inEuKybNiqEcL2loSpBZU"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 219440,
       "name": "Deus Voc\u00ea e Eu",
       "url": "https://open.spotify.com/track/2IhDivniBs1oALzgMIoP2G"
+    },
+    {
+      "added_at": "2024-07-11 15:58:05",
+      "album": {
+        "name": "Amar e Perdoar",
+        "url": "https://open.spotify.com/album/3Z1fceQgyz4oMxnOrPRooJ"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 230310,
+      "name": "Por N\u00f3s",
+      "url": "https://open.spotify.com/track/2BSlxEYxjBdTefmzs5COfA"
     },
     {
       "added_at": "2024-07-11 15:58:05",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-07-11 15:58:05",
       "album": {
-        "name": "Te Amaria Outra Vez / Amar Voc\u00ea (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0UxVlLy7ryHUWDSBoMaRPe"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 249763,
-      "name": "Te Amaria Outra Vez / Amar Voc\u00ea (Ao Vivo)",
-      "url": "https://open.spotify.com/track/5G4HETtoTa5bkDcZRruHFr"
-    },
-    {
-      "added_at": "2024-07-11 15:58:05",
-      "album": {
         "name": "Amar pra Sempre",
         "url": "https://open.spotify.com/album/3xmpGzhNKqpZcyjRNruEDR"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 285544,
       "name": "Amar pra Sempre",
       "url": "https://open.spotify.com/track/5QzEmPJCu2MSyaR5OpjVqr"
+    },
+    {
+      "added_at": "2024-07-11 15:58:05",
+      "album": {
+        "name": "Te Amaria Outra Vez / Amar Voc\u00ea (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0UxVlLy7ryHUWDSBoMaRPe"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 249763,
+      "name": "Te Amaria Outra Vez / Amar Voc\u00ea (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5G4HETtoTa5bkDcZRruHFr"
     },
     {
       "added_at": "2024-07-11 15:58:05",

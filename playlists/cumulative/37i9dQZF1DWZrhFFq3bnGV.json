@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-09",
-  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Sliver",
+  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Societeit de Harmonie, Natasya Elvira",
   "name": "Jazz Anak Negeri",
   "tracks": [
     {
@@ -569,6 +569,24 @@
     },
     {
       "album": {
+        "name": "Bawalah Daku",
+        "url": "https://open.spotify.com/album/2Pbuw7QT9j8NLnby9wH0Xt"
+      },
+      "artists": [
+        {
+          "name": "Rieka Roslan",
+          "url": "https://open.spotify.com/artist/1uv8Uq3SQm91fql1Ef6G2l"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284167,
+      "name": "Bawalah Daku",
+      "url": "https://open.spotify.com/track/4K97yFFFYy4SPvEMdIjWsy"
+    },
+    {
+      "album": {
         "name": "Begini Cinta",
         "url": "https://open.spotify.com/album/18KtHSEUWRj9q1NrAPr2G1"
       },
@@ -1040,7 +1058,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 253818,
       "name": "Dal Segno",
       "url": "https://open.spotify.com/track/2OLMfKVxUNwjyY0ChedxaW"
@@ -1314,7 +1332,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 177658,
       "name": "Don't You Worry",
       "url": "https://open.spotify.com/track/17A8vZ3CSa2iApLAtLEDJN"
@@ -1448,7 +1466,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 282223,
       "name": "Enter The Forest",
       "url": "https://open.spotify.com/track/1igx6zG9HrUur1v0Xm8Bn2"
@@ -2571,6 +2589,24 @@
     },
     {
       "album": {
+        "name": "Klise",
+        "url": "https://open.spotify.com/album/3py2U2L6UzHMMEoVuu8cD6"
+      },
+      "artists": [
+        {
+          "name": "Adikara",
+          "url": "https://open.spotify.com/artist/4g69iZz2nk9El5Zf3ttiBN"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282501,
+      "name": "Kembali",
+      "url": "https://open.spotify.com/track/212IXh4olT2VzhkTkR941u"
+    },
+    {
+      "album": {
         "name": "Kembali Bersama",
         "url": "https://open.spotify.com/album/41fNuj0KJtHoR3Rger2nfL"
       },
@@ -2712,7 +2748,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 165000,
       "name": "Layla",
       "url": "https://open.spotify.com/track/0c7K8PhzxpCpmKBGnMvTRS"
@@ -2760,7 +2796,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 264523,
       "name": "Life Is Good",
       "url": "https://open.spotify.com/track/0G7ZgoA6iHgwdIAx8fv0Qb"
@@ -2826,7 +2862,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 217555,
       "name": "Like Someone In Love",
       "url": "https://open.spotify.com/track/0fB6UiXQltFaqUEhDFqoiI"
@@ -3269,6 +3305,24 @@
     },
     {
       "album": {
+        "name": "New Flow",
+        "url": "https://open.spotify.com/album/1DsQqK4QdsoJ50KdsDS9eZ"
+      },
+      "artists": [
+        {
+          "name": "Syaharani",
+          "url": "https://open.spotify.com/artist/52VJUOX3c48iWtxAXZ8L1J"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221869,
+      "name": "New Flow",
+      "url": "https://open.spotify.com/track/5gIL98r7NZQWYYzJpsjQyH"
+    },
+    {
+      "album": {
         "name": "Nganggur",
         "url": "https://open.spotify.com/album/2rJJSQ3EYTtdyvIvgpLWkl"
       },
@@ -3302,7 +3356,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 183082,
       "name": "Noodle",
       "url": "https://open.spotify.com/track/0skPOaR1KzICWLqhzTJoOA"
@@ -3404,7 +3458,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 354413,
       "name": "Nyomennyoh",
       "url": "https://open.spotify.com/track/3vbjE0uKesNplB2q37pLqr"
@@ -3422,7 +3476,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 380121,
       "name": "Ode To Benny Liku",
       "url": "https://open.spotify.com/track/0InqZFiygFkZpMlLBHZV76"
@@ -3712,7 +3766,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 418700,
       "name": "Rolled Oats",
       "url": "https://open.spotify.com/track/1b34UigXKioJC18H80ZiU2"
@@ -4034,6 +4088,28 @@
       "duration_ms": 220000,
       "name": "Senopati Shuffle",
       "url": "https://open.spotify.com/track/5LwukjIPavFO64vjVfhLQa"
+    },
+    {
+      "album": {
+        "name": "BILANGAN",
+        "url": "https://open.spotify.com/album/2c4mAUQr191ZXD8Ol7u0kL"
+      },
+      "artists": [
+        {
+          "name": "Societeit de Harmonie",
+          "url": "https://open.spotify.com/artist/1KH1jCwChcxJG9GKUUfCt9"
+        },
+        {
+          "name": "Natasya Elvira",
+          "url": "https://open.spotify.com/artist/6lNWlJEtPCkkWE6P17fUIw"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295390,
+      "name": "Sepuluh",
+      "url": "https://open.spotify.com/track/1qtBnM7fzYr8N7GEKKfxrx"
     },
     {
       "album": {

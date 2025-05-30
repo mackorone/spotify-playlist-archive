@@ -4,7 +4,7 @@
 
 > most popular tiktok phonk \- best phonk 2025 \-  viral phonk \- viral sigma \- best sigma male \- sigma workout \- sad sigma songs
 
-736 songs - 1 day 8 hr 17 min
+739 songs - 1 day 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,7 @@
 | [Coeur Humain](https://open.spotify.com/track/4DuS03hO8dtbJekfAUrvL8) | [Eden Script](https://open.spotify.com/artist/1wfaaSjn5iiiuCLAGeAoOE) | [Coeur Humain](https://open.spotify.com/album/1cgVlGhTuxaE7FGULube9Y) | 3:43 | 2025-02-14 | 2025-05-17 |
 | [Cold](https://open.spotify.com/track/64b4Dsol9Rt8yaxWX8x0vs) | [Jzzzy Jutas](https://open.spotify.com/artist/2T1HFYAK94V6aroWrRVBk8) | [Cold](https://open.spotify.com/album/129B5WtAnJAuuWeAQOlKmc) | 2:55 | 2023-06-12 | 2023-07-29 |
 | [Colder Than Snow](https://open.spotify.com/track/2RbsVSwM49sQgenzCudWVB) | [Skyvoice](https://open.spotify.com/artist/2B8lJrGfr4uVZt3xw3lgMR) | [Colder Than Snow](https://open.spotify.com/album/1hsEiNg28eds9mUQfM2Awi) | 3:05 | 2024-01-13 | 2024-02-21 |
-| [Come Alive](https://open.spotify.com/track/6nhQN858onDGpJAdfgNtKj) | [Pav](https://open.spotify.com/artist/0GY4kYjzdRVqjFpTvHUwCP) | [Come Alive](https://open.spotify.com/album/4iTSTKq9PKqaVXUAKK2F9Q) | 3:15 | 2024-12-15 | 2025-05-17 |
+| [Come Alive](https://open.spotify.com/track/6nhQN858onDGpJAdfgNtKj) | [Pav](https://open.spotify.com/artist/0GY4kYjzdRVqjFpTvHUwCP) | [Come Alive](https://open.spotify.com/album/4iTSTKq9PKqaVXUAKK2F9Q) | 3:15 | 2024-12-15 |  |
 | [COPIOU](https://open.spotify.com/track/3ROBGpyIMHocqsFfU0ZEED) | [NXTRO](https://open.spotify.com/artist/2SWXA0tjWwsmGD1wszXBYy) | [COPIOU](https://open.spotify.com/album/4H9V5xuklOKx8UwGu6w7eT) | 1:31 | 2024-09-27 | 2024-12-18 |
 | [COSMIC BRAZILIAN PHONK](https://open.spotify.com/track/2DETANBDEstoy76foZVbxv) | [Bgnzinho](https://open.spotify.com/artist/5Km5CmAW8ReOXLd26uLPXL) | [COSMIC BRAZILIAN PHONK](https://open.spotify.com/album/4QaojJnmzUtpojYgAURiTN) | 1:31 | 2023-06-12 | 2024-01-14 |
 | [Count 'Em Up](https://open.spotify.com/track/5i592yc2kZsVAgkN8KAyIr) | [Skysia](https://open.spotify.com/artist/5YIxufplJpHkE3S1MXQr63) | [Count 'Em Up](https://open.spotify.com/album/0pBNSxbUMsuellsLqKugOK) | 3:00 | 2024-12-04 | 2024-12-16 |
@@ -201,6 +201,7 @@
 | [Elysium](https://open.spotify.com/track/0C6OyuPFAo7n8Ks56emPN9) | [Brock B](https://open.spotify.com/artist/5WZagxom0NMqEIFOWCZvYa), [Ziv Shalev](https://open.spotify.com/artist/4irXJYqsWSHsYOxa0cHlb8) | [Elysium](https://open.spotify.com/album/4LDWlarInih2h3VewqDRHq) | 4:24 | 2025-04-27 |  |
 | [Embrace It](https://open.spotify.com/track/0io16MKpbeDIdYzmGpQaES) | [Ndotz](https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik) | [Embrace It](https://open.spotify.com/album/0mV9Pfr1GfoZLkp1EAau9P) | 1:44 | 2024-10-07 |  |
 | [EMPEROR](https://open.spotify.com/track/0OkdlYNVAA9PQSm6YxVW3o) | [Nemecist](https://open.spotify.com/artist/3HZFRAdrfCUdkl2ajPWQ0M), [acronym.](https://open.spotify.com/artist/5GFRLmuyDjzaobJ5xRFAU0) | [EMPEROR](https://open.spotify.com/album/2HvVyKP1CF9zuW9YU9pVg1) | 2:10 | 2023-06-12 | 2023-09-26 |
+| [ESTA NOCHE](https://open.spotify.com/track/1hcTs55Do0dzfuXQvxr7bD) | [TRXVELER](https://open.spotify.com/artist/31VaidRoI1NnHfyY8SxSL7) | [ESTA NOCHE](https://open.spotify.com/album/11ThPIOUmGboV4wKyfmKPK) | 1:21 | 2025-05-29 |  |
 | [Etat du flux](https://open.spotify.com/track/2Msu7nxnBYOShtI8GRq5Kr) | [N3URON](https://open.spotify.com/artist/0NfuDnCzwIfKHCYle8Ja58) | [Etat du flux](https://open.spotify.com/album/6iHQAIJYpYypzoixpVsvna) | 2:13 | 2024-01-31 | 2024-02-21 |
 | [ETERNAL](https://open.spotify.com/track/44ow5E6v3evksJhALvjfDm) | [GXTHMODE](https://open.spotify.com/artist/1p3418t2jRBA2ttFkBMMhT) | [ETERNAL](https://open.spotify.com/album/2eCAPVC8HXAEKc3XgVnTJw) | 1:36 | 2023-12-08 | 2024-01-02 |
 | [Everybody \- Radio Edit](https://open.spotify.com/track/4emawufKdOwgDfmsM6amn8) | [LeDoc](https://open.spotify.com/artist/1i2zxq7wpaoJJarTsrBPK1) | [Everybody](https://open.spotify.com/album/3R6ej89JkQXyyhb31twp0r) | 3:30 | 2023-06-12 | 2023-09-26 |
@@ -268,6 +269,7 @@
 | [Glisten](https://open.spotify.com/track/3M7gaIifomr1c0BBLgyGXP) | [Pseudo](https://open.spotify.com/artist/1wFUwnJhCYwRe6eC0DlMkd) | [Glisten](https://open.spotify.com/album/7lPXIfQlIEqk2j1muZuMcJ) | 2:43 | 2023-08-05 | 2023-09-26 |
 | [GLITCHED](https://open.spotify.com/track/04f5LcobDx5WR66deShA2r) | [D4C](https://open.spotify.com/artist/03dgMbqosvNOQzxyfqALkq), [KIIXSHI](https://open.spotify.com/artist/3nLZDVpDU6RrQ9k98yHTKh) | [GLITCHED](https://open.spotify.com/album/25v5fjve2j2SGl1v8PBRj2) | 2:17 | 2023-08-05 | 2023-09-26 |
 | [GLORY](https://open.spotify.com/track/2YZ7CJV3Q1OGh7ZL9PYWcP) | [Ogryzek](https://open.spotify.com/artist/1Sdc6ySbIvzO0X9vbyHzWm) | [GLORY](https://open.spotify.com/album/3tSeUNn7yOQPEex7jwS9Bf) | 2:29 | 2025-05-07 |  |
+| [Gods](https://open.spotify.com/track/3o5mNSJZimpo1bWyVR5dQE) | [Kluster Flux](https://open.spotify.com/artist/1r5BmDBeH2Su9jCTByqMAI) | [Gods](https://open.spotify.com/album/2vPwPMJZhzmrQyuumA8ufi) | 3:03 | 2025-05-29 |  |
 | [GOLD OR RoSE?](https://open.spotify.com/track/72XfVA2cLwaHLVnOxEV9u2) | [Xeemo](https://open.spotify.com/artist/093LDo8Zf9UwiPBArTTyxh) | [Phantom Limbs](https://open.spotify.com/album/1sZSPjGeKFntCZXU3Tv9tF) | 1:39 | 2024-02-06 | 2024-05-08 |
 | [GOOD THINGS](https://open.spotify.com/track/4611m6Jm22ubazDBLiumYF) | [Luhv](https://open.spotify.com/artist/5LCfdfYn1xeApKtQRrzI2z) | [ECLIPSED](https://open.spotify.com/album/69VUMrrhWK8L1xXYePhNTC) | 2:19 | 2024-07-26 | 2024-11-01 |
 | [Gotta Return Some Videotapes](https://open.spotify.com/track/6KgD9qmWE05bMPVGhFQNzL) | [LeDoc](https://open.spotify.com/artist/1i2zxq7wpaoJJarTsrBPK1), [Guantanamo Bae](https://open.spotify.com/artist/0G0RBNB2IT4AhCIMQ8qnos) | [Gotta Return Some Videotapes](https://open.spotify.com/album/3oOtsIhfsCF4ZLG3eYNeRX) | 0:57 | 2023-06-12 |  |
@@ -401,6 +403,7 @@
 | [Look Twice!](https://open.spotify.com/track/6gh0V6hYcMjeTu1mdGXRjO) | [Brutei](https://open.spotify.com/artist/3HYuXYKDa60x7qgnYTzHiw) | [Look Twice!](https://open.spotify.com/album/6LdLajtFJEi1KM5fzjMJ7j) | 2:03 | 2023-08-03 | 2023-08-20 |
 | [LOOKSMAXXER](https://open.spotify.com/track/06MFBmY6CsnOzU28I0maas) | [SLOWEDCORE](https://open.spotify.com/artist/65Oa8bght5NjRWDCYezE5s), [Shyron](https://open.spotify.com/artist/7sn0kisfcvczluUtXihajF) | [LOOKSMAXXER](https://open.spotify.com/album/0x26W0dWEQ81kkECqkh7mQ) | 2:09 | 2024-02-02 | 2024-03-07 |
 | [Lord Forgive Me](https://open.spotify.com/track/3AzPxdm8SRYNdsc7v1bpEj) | [Taz\*](https://open.spotify.com/artist/0iuRv2MZkD74UDXdtcU9pv) | [Lord Forgive Me](https://open.spotify.com/album/2Eca7jQMiSWHWCI4LiAmpj) | 2:33 | 2023-06-12 | 2023-06-26 |
+| [LOS VOLTAJE](https://open.spotify.com/track/4LkkRLP8pldQer1YRrHwkx) | [Sayfalse](https://open.spotify.com/artist/6s4LSwgbzTAfnN6OUfegJB), [Yb Wasg'ood](https://open.spotify.com/artist/02wf6SCDwrs2qTX09X0IRE), [Ariis](https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR) | [LOS VOLTAJE](https://open.spotify.com/album/7CWmZcjCHJWd7detYptzAX) | 1:39 | 2025-05-29 |  |
 | [Lost Bones](https://open.spotify.com/track/3IpOnknXOHCzUptVzKbdZ1) | [Skeleton Queen](https://open.spotify.com/artist/1jr3dJ61TbSpCqcmvCkuN4) | [Lost Bones](https://open.spotify.com/album/5LS0ppb0lUu4YqBzlmO4xq) | 3:59 | 2024-06-02 | 2024-07-03 |
 | [lost cause!](https://open.spotify.com/track/1vyBKmJooi5Zdx1SBeotHQ) | [Yung Zime](https://open.spotify.com/artist/3iG3DOwDRNNcU4SD26P0qp), [ILLXSION](https://open.spotify.com/artist/1hTmnnajpUWBkxJeiwmZWn), [acronym.](https://open.spotify.com/artist/5GFRLmuyDjzaobJ5xRFAU0) | [lost cause!](https://open.spotify.com/album/77LNJ6CN8Fji6317zKPPP8) | 2:14 | 2024-04-01 | 2024-07-27 |
 | [Lost Forever](https://open.spotify.com/track/3ULhC0SnG6mHluq2UbFqTJ) | [Sergio Valentino](https://open.spotify.com/artist/4OmG7TmODI5Rj3q7PV3fP5) | [Lost Forever](https://open.spotify.com/album/5NB4IfZvUysbgJ7cUIJwET) | 1:52 | 2023-06-12 |  |

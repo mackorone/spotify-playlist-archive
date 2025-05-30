@@ -1,6 +1,6 @@
 {
   "description": "Himnos de Resistencia: Somos un pueblo fuerte que no se calla.",
-  "num_followers": 270074,
+  "num_followers": 270098,
   "original_name": "Himnos de Resistencia Latinoamericana",
   "owner": {
     "name": "Spotify",
@@ -387,22 +387,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Salvavidas de hielo",
-        "url": "https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0"
-      },
-      "artists": [
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        }
-      ],
-      "duration_ms": 231653,
-      "name": "Movimiento",
-      "url": "https://open.spotify.com/track/7pBoi7yWCPzn3UjeMsGKg6"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "Casa Babylon",
         "url": "https://open.spotify.com/album/0DzXs04hKcMYg7D2JSLptk"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 237640,
       "name": "Senor Matanza",
       "url": "https://open.spotify.com/track/2uR6DAqwZCfDeD6jFrD5zA"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Salvavidas de hielo",
+        "url": "https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0"
+      },
+      "artists": [
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "duration_ms": 231653,
+      "name": "Movimiento",
+      "url": "https://open.spotify.com/track/7pBoi7yWCPzn3UjeMsGKg6"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -503,6 +503,22 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "El Diablito",
+        "url": "https://open.spotify.com/album/2cGrlR3OJwtQXUa4aQJRCV"
+      },
+      "artists": [
+        {
+          "name": "Caifanes",
+          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
+        }
+      ],
+      "duration_ms": 280933,
+      "name": "Aqu\u00ed No Pasa Nada",
+      "url": "https://open.spotify.com/track/3fwn1dl9oo9tbUWCGzhJXx"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "La Bala",
         "url": "https://open.spotify.com/album/2zKOLLaPdOm8gouCwbzkgF"
       },
@@ -523,38 +539,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "El Diablito",
-        "url": "https://open.spotify.com/album/2cGrlR3OJwtQXUa4aQJRCV"
-      },
-      "artists": [
-        {
-          "name": "Caifanes",
-          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
-        }
-      ],
-      "duration_ms": 280933,
-      "name": "Aqu\u00ed No Pasa Nada",
-      "url": "https://open.spotify.com/track/3fwn1dl9oo9tbUWCGzhJXx"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "Fijate Bien",
-        "url": "https://open.spotify.com/album/7IOugW3LC5qxTyceggg00d"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 294266,
-      "name": "Fijate Bien",
-      "url": "https://open.spotify.com/track/3wE4fvPhhScUAhY37TDc1D"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "Bi",
         "url": "https://open.spotify.com/album/5Rnk0JczvdBVg123Mpd483"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 202906,
       "name": "Baja a la Tierra (feat. Lila Downs)",
       "url": "https://open.spotify.com/track/44OP8tosI4ufd6XuUQvx0a"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Fijate Bien",
+        "url": "https://open.spotify.com/album/7IOugW3LC5qxTyceggg00d"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 294266,
+      "name": "Fijate Bien",
+      "url": "https://open.spotify.com/track/3wE4fvPhhScUAhY37TDc1D"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -791,6 +791,22 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "Abrazo",
+        "url": "https://open.spotify.com/album/1xTvgXfSOLFGvtnTbfNZ4N"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 250706,
+      "name": "Si Me Matan",
+      "url": "https://open.spotify.com/track/3Tv57oLXrydAK4Hlwm7fX6"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "Patria y Vida",
         "url": "https://open.spotify.com/album/11KmjqP7jS1tb7caxTPYHa"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 245149,
       "name": "Patria y Vida",
       "url": "https://open.spotify.com/track/1jOF5X4zw27t9LQltutz9f"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "Abrazo",
-        "url": "https://open.spotify.com/album/1xTvgXfSOLFGvtnTbfNZ4N"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 250706,
-      "name": "Si Me Matan",
-      "url": "https://open.spotify.com/track/3Tv57oLXrydAK4Hlwm7fX6"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1091,22 +1091,18 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Canci\u00f3n Sin Miedo",
-        "url": "https://open.spotify.com/album/7LK8yw2OrKJ7Nv0BZ6EIKz"
+        "name": "Buscando Chilenos Vol. 1",
+        "url": "https://open.spotify.com/album/7uuF0krsc2ZPkKyc1q26ax"
       },
       "artists": [
         {
-          "name": "Vivir Quintana",
-          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
-        },
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+          "name": "Sexual Democracia",
+          "url": "https://open.spotify.com/artist/3m2dBZiLPZUffYga9ocES7"
         }
       ],
-      "duration_ms": 213000,
-      "name": "Canci\u00f3n Sin Miedo",
-      "url": "https://open.spotify.com/track/28WYHiLShsQh3NEV5FfhsW"
+      "duration_ms": 284693,
+      "name": "Cancion Pacifico-Violenta",
+      "url": "https://open.spotify.com/track/273RiyloYbmnFHKORe6Rpr"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1127,18 +1123,22 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Buscando Chilenos Vol. 1",
-        "url": "https://open.spotify.com/album/7uuF0krsc2ZPkKyc1q26ax"
+        "name": "Canci\u00f3n Sin Miedo",
+        "url": "https://open.spotify.com/album/7LK8yw2OrKJ7Nv0BZ6EIKz"
       },
       "artists": [
         {
-          "name": "Sexual Democracia",
-          "url": "https://open.spotify.com/artist/3m2dBZiLPZUffYga9ocES7"
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 284693,
-      "name": "Cancion Pacifico-Violenta",
-      "url": "https://open.spotify.com/track/273RiyloYbmnFHKORe6Rpr"
+      "duration_ms": 213000,
+      "name": "Canci\u00f3n Sin Miedo",
+      "url": "https://open.spotify.com/track/28WYHiLShsQh3NEV5FfhsW"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1443,18 +1443,18 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Somos Hermanas",
-        "url": "https://open.spotify.com/album/5jwDeAqliI9J5t7KXDInjK"
+        "name": "Split",
+        "url": "https://open.spotify.com/album/378dF8Ci1JMWc8J3yf0vf1"
       },
       "artists": [
         {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
+          "name": "De Nalgas",
+          "url": "https://open.spotify.com/artist/4VZR1CBFS8AR4zqrtn7Dlh"
         }
       ],
-      "duration_ms": 230877,
-      "name": "Somos Hermanas",
-      "url": "https://open.spotify.com/track/41THofGqCI97EnFDlPr7uZ"
+      "duration_ms": 220520,
+      "name": "Promesas y Perdones",
+      "url": "https://open.spotify.com/track/5frSqRBs5NdRrjoZSCUUX7"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Split",
-        "url": "https://open.spotify.com/album/378dF8Ci1JMWc8J3yf0vf1"
+        "name": "Somos Hermanas",
+        "url": "https://open.spotify.com/album/5jwDeAqliI9J5t7KXDInjK"
       },
       "artists": [
         {
-          "name": "De Nalgas",
-          "url": "https://open.spotify.com/artist/4VZR1CBFS8AR4zqrtn7Dlh"
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
         }
       ],
-      "duration_ms": 220520,
-      "name": "Promesas y Perdones",
-      "url": "https://open.spotify.com/track/5frSqRBs5NdRrjoZSCUUX7"
+      "duration_ms": 230877,
+      "name": "Somos Hermanas",
+      "url": "https://open.spotify.com/track/41THofGqCI97EnFDlPr7uZ"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Gervasio",
-        "url": "https://open.spotify.com/album/1G3CuCMsNpR6eMxJ7WXE4O"
-      },
-      "artists": [
-        {
-          "name": "Gervasio",
-          "url": "https://open.spotify.com/artist/2Tvx0xTgN6ok9PXCNKbPBW"
-        }
-      ],
-      "duration_ms": 241360,
-      "name": "La Marcha de la Bronca",
-      "url": "https://open.spotify.com/track/0ZoDjWUyhpbmN6bAk9xkvs"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "El Largo Camino al \u00c9xito",
         "url": "https://open.spotify.com/album/0eeWzoH8FtW0mPiRfVX09B"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 223040,
       "name": "Rico el Pa\u00eds",
       "url": "https://open.spotify.com/track/7smmyQa9tnBfPAYqqPn06Q"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Gervasio",
+        "url": "https://open.spotify.com/album/1G3CuCMsNpR6eMxJ7WXE4O"
+      },
+      "artists": [
+        {
+          "name": "Gervasio",
+          "url": "https://open.spotify.com/artist/2Tvx0xTgN6ok9PXCNKbPBW"
+        }
+      ],
+      "duration_ms": 241360,
+      "name": "La Marcha de la Bronca",
+      "url": "https://open.spotify.com/track/0ZoDjWUyhpbmN6bAk9xkvs"
     }
   ],
   "unique_name": "Himnos de Resistencia Latinoamericana",

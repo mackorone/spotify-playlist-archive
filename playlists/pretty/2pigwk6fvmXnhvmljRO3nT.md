@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,241 songs - 18 day 19 hr 41 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,270 songs - 18 day 21 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -7249,5 +7249,34 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 7239 | [specialist](https://open.spotify.com/track/5UWJxql2C2VNLAusOQRjt1) | [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN) | [ネバー・モア\-『ペルソナ4』輪廻転生\-](https://open.spotify.com/album/6sYyz749kpPYzQU5gtnuQd) | 4:03 |
 | 7240 | [Alchemy](https://open.spotify.com/track/7LLUvdfRqSO2Bf5tY6CxFz) | [marina](https://open.spotify.com/artist/358xRt5CBUd9I19QYV379n), [VISUAL ARTS / Key](https://open.spotify.com/artist/4XoXFUiabPNKrXxTgHTy0z) | [Crow Song](https://open.spotify.com/album/0A14rgU2iEJj06M6Of5MBY) | 4:16 |
 | 7241 | [八方來財\(Stacks from All Sides\)](https://open.spotify.com/track/7jm2PueKmv4EOHfdbdXMKT) | [攬佬SKAI ISYOURGOD](https://open.spotify.com/artist/4LUmhH4A1lvFljre6d00NI) | [八方來財\(Stacks from All Sides\)](https://open.spotify.com/album/5vYWbmWrSSBskg28cRmcjg) | 2:53 |
+| 7242 | [What Are You Waiting For](https://open.spotify.com/track/3TesGaCMKpcLnZackJcBX8) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WITHERED](https://open.spotify.com/album/00xSzSrckgOgVAqZUIcrxf) | 2:24 |
+| 7243 | [Busy Woman](https://open.spotify.com/track/0b0Dz0Gi86SVdBxYeiQcCP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet \(Deluxe\)](https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk) | 3:06 |
+| 7244 | [Super Gremlin](https://open.spotify.com/track/1Y5Jvi3eLi4Chwqch9GMem) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Back For Everything](https://open.spotify.com/album/7sX9VE0I4zbslanrLXR5aR) | 3:20 |
+| 7245 | [Makes Me Wonder](https://open.spotify.com/track/1lHXlGlve5Zx8tXLhyjDwM) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [It Won't Be Soon Before Long.](https://open.spotify.com/album/29hJ8AFYZU98OzenrMr6iU) | 3:31 |
+| 7246 | [Just Us \(feat\. Doja Cat\)](https://open.spotify.com/track/1SVhTS4l0sLFsP2Abme05l) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Just Us \(feat\. Doja Cat\)](https://open.spotify.com/album/6EIo8YVBZEHJFvX6xh9bMy) | 2:52 |
+| 7247 | [Disease](https://open.spotify.com/track/0T3Hw3kPj9T2E4UoaSXmfn) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:49 |
+| 7248 | [Breakin' My Heart \(Pretty Brown Eyes\)](https://open.spotify.com/track/18sytW2s53Of6NVudQyUlH) | [Mint Condition](https://open.spotify.com/artist/4MT97VeycuegSicrrphisJ) | [Meant To Be Mint](https://open.spotify.com/album/3ZBXtcukYi3AdNtf7rtpGr) | 5:56 |
+| 7249 | [Who are you?](https://open.spotify.com/track/2EIUQkawLEdWDytIL0mQV8) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [Who are you?](https://open.spotify.com/album/1qOdryKl2RmYnnLHgx2AXm) | 2:31 |
+| 7250 | [One and Only](https://open.spotify.com/track/1rFqgfiIRyjAw3mB7SVEBn) | [Wingy](https://open.spotify.com/artist/5iC5X2J3wbFDGRiZTDZG9X), [liightflower](https://open.spotify.com/artist/0pTWAKxiLBZI9RKYhxSWtm) | [One and Only](https://open.spotify.com/album/3krHvF6KmPKEc9Y1LcD6IZ) | 3:22 |
+| 7251 | [Gypsy Woman \(She's Homeless\) \(La Da Dee La Da Da\) \- Basement Boy Strip To The Bone Mix](https://open.spotify.com/track/1SShxVVBeZBCY7WddnksPz) | [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43), [The Basement Boys](https://open.spotify.com/artist/4zs2Vybqo9ktD8QORpnHfI) | [Surprise](https://open.spotify.com/album/7MtJHdiKmt3Gbus6oyXhy1) | 7:31 |
+| 7252 | [10月無口な君を忘れる](https://open.spotify.com/track/2YQ8TlTmNheRI3VafoDpod) | [Atarayo](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [夜明け前](https://open.spotify.com/album/2CWOBXWMUcMnWuiCKYZPrj) | 5:32 |
+| 7253 | [夏霞](https://open.spotify.com/track/34jv2mOVzPjncrBncjYl6F) | [Atarayo](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [夜明け前](https://open.spotify.com/album/2CWOBXWMUcMnWuiCKYZPrj) | 3:48 |
+| 7254 | [「僕は...」](https://open.spotify.com/track/7K9Go4rPZqNWdYzy5wDNhE) | [Atarayo](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [朝露は木漏れ日に溶けて](https://open.spotify.com/album/3LfOHhwP8Uh3t9rcdcb2Tr) | 3:59 |
+| 7255 | [憂い桜](https://open.spotify.com/track/4P4Ocx5koM1TT8RHQ0Ssgv) | [Atarayo](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [季億の箱](https://open.spotify.com/album/5vBcyTeKwu2h7JBdkjhURs) | 4:36 |
+| 7256 | [Washing Machine Heart](https://open.spotify.com/track/3jjsRKEsF42ccXf8kWR3nu) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq) | 2:08 |
+| 7257 | [I Bet on Losing Dogs](https://open.spotify.com/track/2Co0IjcLTSHMtodwD4gzfg) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Puberty 2](https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q) | 2:50 |
+| 7258 | [First Love/Late Spring](https://open.spotify.com/track/3sslYZcFKtUvIEWN9lADgr) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bury Me At Makeout Creek](https://open.spotify.com/album/3I2KkX13lHXuYqfBjSOopo) | 4:38 |
+| 7259 | [Nobody](https://open.spotify.com/track/2P5yIMu2DNeMXTyOANKS6k) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq) | 3:13 |
+| 7260 | [Francis Forever](https://open.spotify.com/track/5411TEB6tlzvuF5A4oyldr) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bury Me At Makeout Creek](https://open.spotify.com/album/3I2KkX13lHXuYqfBjSOopo) | 2:29 |
+| 7261 | [Liquid Smooth](https://open.spotify.com/track/3XCveEutwTaDiekRkkfdp9) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Lush](https://open.spotify.com/album/22MICAVuz34zzqm4Se5Lga) | 2:49 |
+| 7262 | [I Want You](https://open.spotify.com/track/7FHj19QQigvMH1onMYRNLn) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Retired from Sad, New Career in Business](https://open.spotify.com/album/7K4SuWzgUEweJScduBcC6f) | 3:03 |
+| 7263 | [Me and My Husband](https://open.spotify.com/track/3pANfZVFdtuVnJsE6xa5Ox) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq) | 2:17 |
+| 7264 | [A Pearl](https://open.spotify.com/track/7fd3aMiuwHWKsTdZafjOfZ) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq) | 2:36 |
+| 7265 | [summertime](https://open.spotify.com/track/172zA5Yn0YzayQWvEJuGAm) | [cinnamons](https://open.spotify.com/artist/5aAe7DHdSJgTpBijaxTUaf), [evening cinema](https://open.spotify.com/artist/6NQ3DibpWMigY2cXJr9KYv) | [summertime](https://open.spotify.com/album/0CvEmNg3fc8Dh6E4ERIPli) | 4:11 |
+| 7266 | [Outstanding](https://open.spotify.com/track/2yd0XI7g0BhAgY9GkpPClU) | [The Gap Band](https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp) | [The Gap Band IV](https://open.spotify.com/album/3pJ0uie1bu662cOCCu5cfG) | 3:18 |
+| 7267 | [Loretta](https://open.spotify.com/track/3eZqBNHlNA4lUsbAB6UmvD) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [Loretta](https://open.spotify.com/album/6JK3NfcRSyRnrIdBiZtQGM) | 3:10 |
+| 7268 | [Be Yourself Or Die Dreaming](https://open.spotify.com/track/38Ag3lftAiZfCxe5W7Psnp) | [Nouvelle Story](https://open.spotify.com/artist/2eq1D9x8jRZQa3vAVn5wHi) | [Be Yourself Or Die Dreaming](https://open.spotify.com/album/6Nb0x0r4HJF47eKVksLx1f) | 3:52 |
+| 7269 | [テレフォン・ナンバー](https://open.spotify.com/track/49vIvmsneQwxyFTdmCQzmV) | [Junko Ohashi](https://open.spotify.com/artist/7rGbODPTIVjzn3CTR6RCzE) | [MAGICAL 大橋純子の世界 III](https://open.spotify.com/album/7Ifqra0zOrAwf5NWe5UvNu) | 3:59 |
+| 7270 | [F L Y](https://open.spotify.com/track/7BInSwH3Ha2YMEEezQLz95) | [Spectrum](https://open.spotify.com/artist/4iKc9dfbcUzxOL6S31zjXF) | [Optical Sunrise/Spectrum2](https://open.spotify.com/album/1TQ3TvPc16aJ9n2HM5fY6w) | 3:30 |
 
-Snapshot ID: `AAAG3fSFdoUI57aaTf6I2Dc2tZOCSbjB`
+Snapshot ID: `AAAG8ufpY1+T072UXVnVaILw+ZCALjph`

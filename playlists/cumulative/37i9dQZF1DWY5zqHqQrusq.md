@@ -2,9 +2,9 @@
 
 ### [Barefoot and Free](https://open.spotify.com/playlist/37i9dQZF1DWY5zqHqQrusq)
 
-> Chill, take a long walk and clear your mind\. Cover: Rita Wangui
+> Chill, take a long walk and clear your mind\. Cover: Maya Amolo
 
-121 songs - 6 hr 56 min
+122 songs - 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [For Lovers](https://open.spotify.com/track/7yKzWjujvc2MnBhRyURV9p) | [Hornsphere](https://open.spotify.com/artist/27PRI6n81ZU9wJUSbIiLUN), [Mutoriah](https://open.spotify.com/artist/23fYD3tClohzF1Afng7tPJ), [Aliye](https://open.spotify.com/artist/7yo0XV88xEkqroBbH2O0kq), [Noi](https://open.spotify.com/artist/4azaSqZcFF6qd2xy8WIR9P) | [Fomation](https://open.spotify.com/album/1S2TtBkcswiXj96CoMY3vv) | 5:04 | 2025-02-14 |  |
 | [Forever yours](https://open.spotify.com/track/0dd0McSQVC7kxppAEunPQN) | [Manasseh Shalom](https://open.spotify.com/artist/0l5DAChk60zrPxl18DGUT7) | [Ndoa](https://open.spotify.com/album/3vKSPMAe4vy4p8LcaOygoR) | 4:35 | 2022-11-11 | 2025-02-22 |
 | [Free](https://open.spotify.com/track/3oNPOIzZYk6WCCvSSLDLqI) | [Muthoka](https://open.spotify.com/artist/5BSYJH7QrL8yLmFPzJedBp) | [Free](https://open.spotify.com/album/0TwahsX1CAvVgooTwZSvP1) | 2:35 | 2025-02-21 |  |
+| [Guidance](https://open.spotify.com/track/45pMPoDTfSRolpU5qRw54v) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Guidance](https://open.spotify.com/album/5rJTqmaSUmsoWCqM0nfLF0) | 2:55 | 2025-05-30 |  |
 | [Heartbreak Song](https://open.spotify.com/track/5EDdDNPEijkgv5ghNQK3Nl) | [Hildah Watiri](https://open.spotify.com/artist/4XTUHZbb6KmJJKUrdBAKDM), [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [Heartbreak Song](https://open.spotify.com/album/4s6PcuPpXiHS5XOcZduQJa) | 3:27 | 2024-05-03 |  |
 | [Homabay](https://open.spotify.com/track/6a6k7ieZ83lmqqpw9pYhwS) | [Kethan](https://open.spotify.com/artist/5xpwtUlXeMP8sywThx4tMh) | [Blink](https://open.spotify.com/album/6vzfIdktz4sBazv4NSOz1n) | 3:23 | 2023-04-28 | 2024-05-04 |
 | [Home](https://open.spotify.com/track/10xrx94SPkwD7Kf3ynXCED) | [Amara Tari](https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd), [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520) | [Home](https://open.spotify.com/album/2Xt2Uq1c96N7rRKfmWQPNW) | 4:12 | 2022-11-11 | 2024-08-10 |
@@ -50,7 +51,7 @@
 | [I'm Here](https://open.spotify.com/track/7joutRkcXCkujSPf9x5WB3) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw) | [I'm Here](https://open.spotify.com/album/2Rj3tI88QYmUcSiC1Mqsp6) | 3:25 | 2024-03-08 | 2024-05-17 |
 | [If You Don't Know](https://open.spotify.com/track/1KWUfVKdBzUY3NAnfGHbRZ) | [V\-Be](https://open.spotify.com/artist/4J1fmBdd2R01ls06DjuccW), [Davy Waweru](https://open.spotify.com/artist/19Y9KysWDrkmZyMy8VRpOp) | [Nairobi in Love](https://open.spotify.com/album/7f1gWklPYCMk7yotmrn21y) | 3:20 | 2025-02-07 |  |
 | [Impilo Yami](https://open.spotify.com/track/2zgjDvC4btrPBHBg1w4QqM) | [SERRO](https://open.spotify.com/artist/4r3svQfFw0Ae5GMplY92u9) | [Misimu](https://open.spotify.com/album/68CvaHEB0uNEYLKUCosqYH) | 3:32 | 2022-11-11 | 2024-04-20 |
-| [IN THE RAIN](https://open.spotify.com/track/4LolcPDdgSroaKquGfCFqt) | [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs) | [Full Circle](https://open.spotify.com/album/4PhEHRqWfgTnTwDXAVq4SN) | 2:40 | 2022-11-11 |  |
+| [IN THE RAIN](https://open.spotify.com/track/4LolcPDdgSroaKquGfCFqt) | [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs) | [Full Circle](https://open.spotify.com/album/4PhEHRqWfgTnTwDXAVq4SN) | 2:40 | 2022-11-11 | 2025-05-30 |
 | [Inemara](https://open.spotify.com/track/0djkii4q5rDnnXykS3Q919) | [Winyo](https://open.spotify.com/artist/0xYZnLkJHs6y9Ts7Yq2C1C), [Fancy Fingers](https://open.spotify.com/artist/6GKFK8rXiyBshmwi6CMm0y), [Lisa Oduor\-Noah](https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa) | [Jawaya Jathum](https://open.spotify.com/album/4K0EycNWwVzlziGQjOA2BD) | 4:12 | 2025-03-31 |  |
 | [It's You](https://open.spotify.com/track/7pr7HuG2oWV4AhvM4SDbsW) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Andyah](https://open.spotify.com/artist/0TEFK09eFLqYTE2fj7xUtX) | [It's You](https://open.spotify.com/album/5DbTBskBpsHoO8MCaP3ubM) | 2:34 | 2024-02-01 |  |
 | [Jaded](https://open.spotify.com/track/2oUqHt6WhKih0nmfHhVj3J) | [Le Ru](https://open.spotify.com/artist/2Kgd8TvR0MGJ0NRFkGX0DJ) | [The Ride](https://open.spotify.com/album/6ZLeYdY71zyZ9Vvl17XSGM) | 3:46 | 2022-11-11 | 2023-09-16 |

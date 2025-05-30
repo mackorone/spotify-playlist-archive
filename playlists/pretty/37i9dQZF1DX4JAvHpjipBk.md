@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from mgk, Alex Warren & Jelly Roll, Burna Boy & Travis Scott, Reneé Rapp, KAROL G, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,377,956 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,377,697 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 52 | [Helium \(feat\. X Ambassadors\)](https://open.spotify.com/track/2ej8Av0xMTBQwNIt0QeLbS) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Helium](https://open.spotify.com/album/22N0FVAflIZLGdkCm7Np2U) | 2:48 |
 | 53 | [JAN\. 31st \(my truth\)](https://open.spotify.com/track/7su15iEo8LuZnZRDFdtsZw) | [YFN Lucci](https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP) | [JAN\. 31st \(my truth\)](https://open.spotify.com/album/3lp8jGNG5n5N0ALuNZH2v1) | 2:49 |
 | 54 | [Expiration Dating](https://open.spotify.com/track/4RY8NabvRv6Y95x96asZbr) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [Expiration Dating](https://open.spotify.com/album/6FFDFr43db7FFvrpOT6xAg) | 3:00 |
-| 55 | [Supernova \(feat funeral\)](https://open.spotify.com/track/3T7uuh01GneWZzQEkFfXOs) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu), [funeral](https://open.spotify.com/artist/3f0Mhz0oXmnsnehuEGTrfd) | [Supernova \(feat funeral\)](https://open.spotify.com/album/7KEc7xSd2Iy00kejA9nGPV) | 3:04 |
+| 55 | [Supernova ft funeral](https://open.spotify.com/track/3T7uuh01GneWZzQEkFfXOs) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu), [funeral](https://open.spotify.com/artist/3f0Mhz0oXmnsnehuEGTrfd) | [Supernova ft funeral](https://open.spotify.com/album/7KEc7xSd2Iy00kejA9nGPV) | 3:04 |
 | 56 | [Good Swim](https://open.spotify.com/track/0GBq6apzUKagUU31aXSq7o) | [Ryan Woods](https://open.spotify.com/artist/2Zgc1KUqd7A9wmQ7mQHuwY) | [Good Swim](https://open.spotify.com/album/63LdIN5zvcE34MYYKykySg) | 3:25 |
 | 57 | [The Cost of Growing Up](https://open.spotify.com/track/0yhLlhh36yxfE2MWnC28Bz) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [The Cost of Growing Up](https://open.spotify.com/album/07wWN064o7XUxgw7IRmJFB) | 4:23 |
 | 58 | [JOURNEY](https://open.spotify.com/track/3wPlPqFjJsqWayNqXkXyrU) | [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N), [S'ABLE SOUNDS](https://open.spotify.com/artist/6U7WxgiiEN0thKCXwAFah7) | [JOURNEY](https://open.spotify.com/album/5y7AKaA4ZqVUT10mnKi4CC) | 2:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [Don’t Find It Strange \- Live at First Avenue](https://open.spotify.com/track/32XuKpROrtXZFKJRO9F4NT) | [Jovonta Patton](https://open.spotify.com/artist/28z9vFNyY8Gs7xJNfIYPSC) | [Live At First Avenue](https://open.spotify.com/album/3XQNaT4W4uhAcws5KDvyJr) | 5:29 |
 | 100 | [EL GORDO](https://open.spotify.com/track/500kQAqm0AVQIPXIe6o1Ie) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [PARA QUIEN TRABAJAS Vol\. I](https://open.spotify.com/album/40Nq78LYEHEtCKd0tuOmy2) | 3:36 |
 
-Snapshot ID: `aC/8sQAAAADwbXcw3UA1X7+Q17cgZOVK`
+Snapshot ID: `aC/8sQAAAACh9iKeEwDhZXzkHGuWaD9J`

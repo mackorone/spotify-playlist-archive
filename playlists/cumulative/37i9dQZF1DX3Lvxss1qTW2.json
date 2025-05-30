@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The future hits of today. \nCover:  Boypee",
+  "description": "The future hits of today. \nCover:  Bloody Civilian",
   "name": "Bubblin'",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 136755,
       "name": "10 Kilo",
       "url": "https://open.spotify.com/track/2IOMDdgUZfjlsPYXGeeoaH"
@@ -82,6 +82,32 @@
       "duration_ms": 131134,
       "name": "365",
       "url": "https://open.spotify.com/track/04E8u3YScYYjwOoMzTm19T"
+    },
+    {
+      "album": {
+        "name": "3AM",
+        "url": "https://open.spotify.com/album/1IqjNIMWcVuDQnvwPxAdtC"
+      },
+      "artists": [
+        {
+          "name": "May D",
+          "url": "https://open.spotify.com/artist/7ahfCquNK3ReYc2UHhugs5"
+        },
+        {
+          "name": "Belu Vuitton",
+          "url": "https://open.spotify.com/artist/0aMcHs9KqS3BM83hwR9Kk9"
+        },
+        {
+          "name": "Blakkboi",
+          "url": "https://open.spotify.com/artist/1irKyDpZ6RCRkVlCm6Sn73"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172717,
+      "name": "3AM",
+      "url": "https://open.spotify.com/track/6OHJx893brg4fNrgDOEPfH"
     },
     {
       "album": {
@@ -826,7 +852,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 143476,
       "name": "Babcock",
       "url": "https://open.spotify.com/track/0R5Od7mq2qMvDXPHcbRShH"
@@ -1464,7 +1490,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 137160,
       "name": "Check Your Available",
       "url": "https://open.spotify.com/track/6dKuFjxbfBApa6oQULvovC"
@@ -1852,7 +1878,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 160587,
       "name": "Dangbana Riddim",
       "url": "https://open.spotify.com/track/07eJSSPcNlkR34wVlkrCcY"
@@ -2838,7 +2864,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 173858,
       "name": "Free of Charge",
       "url": "https://open.spotify.com/track/5yyVAz3WD6L6143oGfQ3AT"
@@ -3461,6 +3487,24 @@
     },
     {
       "album": {
+        "name": "I Wish I Had More Time",
+        "url": "https://open.spotify.com/album/3vmGWdWH4DkbiLWlb3s9kb"
+      },
+      "artists": [
+        {
+          "name": "Braye",
+          "url": "https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189999,
+      "name": "I Wish I Had More Time",
+      "url": "https://open.spotify.com/track/5BQML4ZWArKHRCiQuQ4cDT"
+    },
+    {
+      "album": {
         "name": "I'll Be There",
         "url": "https://open.spotify.com/album/3dV6dktBCe7l03Ju0WCaPS"
       },
@@ -3822,7 +3866,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 172800,
       "name": "Jay Jay",
       "url": "https://open.spotify.com/track/1QkUnVCGx3ghx0WG8XO4J7"
@@ -4143,6 +4187,24 @@
     },
     {
       "album": {
+        "name": "Ladida",
+        "url": "https://open.spotify.com/album/5H10ukTXc6mnzTe7leaQPJ"
+      },
+      "artists": [
+        {
+          "name": "Bloody Civilian",
+          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131307,
+      "name": "Ladida",
+      "url": "https://open.spotify.com/track/0UewHkoEkSW2cbpNbLPI4F"
+    },
+    {
+      "album": {
         "name": "Loseyi Professor",
         "url": "https://open.spotify.com/album/38tvoGnBsZNd8FJg2YsCT4"
       },
@@ -4274,6 +4336,28 @@
       "duration_ms": 173571,
       "name": "Lemme Know",
       "url": "https://open.spotify.com/track/75zq5BZ67Hp1o8x6w3HQDY"
+    },
+    {
+      "album": {
+        "name": "MEL\u00d6VIA",
+        "url": "https://open.spotify.com/album/43l2ygGjBGaT1sN7uZBJ74"
+      },
+      "artists": [
+        {
+          "name": "Savage",
+          "url": "https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149968,
+      "name": "LET ME BE",
+      "url": "https://open.spotify.com/track/3tL4lxj4zfhbJTCCVOT6Lr"
     },
     {
       "album": {
@@ -4410,7 +4494,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 151498,
       "name": "Like Dat",
       "url": "https://open.spotify.com/track/4ZLPVrjMb6dkY0v9Tf3UKt"
@@ -4472,6 +4556,24 @@
       "duration_ms": 164472,
       "name": "lon3ly",
       "url": "https://open.spotify.com/track/1qIZ86h51bpBHpg6eFTDkf"
+    },
+    {
+      "album": {
+        "name": "London Summers",
+        "url": "https://open.spotify.com/album/6L0fjCZSfZxhavSOOh4ohF"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217636,
+      "name": "London Summers",
+      "url": "https://open.spotify.com/track/1vCnTZE7PVUakwkqCnIhrn"
     },
     {
       "album": {
@@ -5653,6 +5755,24 @@
     },
     {
       "album": {
+        "name": "Omo Temi",
+        "url": "https://open.spotify.com/album/3QKCipyd2mvMeoNoN6MjRm"
+      },
+      "artists": [
+        {
+          "name": "Brown Joel",
+          "url": "https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161400,
+      "name": "Omo Temi",
+      "url": "https://open.spotify.com/track/3x3HRVZjM1Mv3Bfd1UMIhZ"
+    },
+    {
+      "album": {
         "name": "Omo To Sexy",
         "url": "https://open.spotify.com/album/3ajUkC6s6WOUx64JZJZZsL"
       },
@@ -5818,6 +5938,28 @@
       "duration_ms": 198545,
       "name": "ONOME",
       "url": "https://open.spotify.com/track/7gafxJvox7DDFs3R1dByQH"
+    },
+    {
+      "album": {
+        "name": "OXYTOCIN",
+        "url": "https://open.spotify.com/album/6APa9esRfWVy3kXaCxlL4L"
+      },
+      "artists": [
+        {
+          "name": "Yaadman fka Yung L",
+          "url": "https://open.spotify.com/artist/0XnH3M78JKVEjutHn1146c"
+        },
+        {
+          "name": "Chopstix",
+          "url": "https://open.spotify.com/artist/167yXtyZFzoIEl4650nGkt"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Onsite",
+      "url": "https://open.spotify.com/track/4A8yLLp7nEIzZF5SS72vcZ"
     },
     {
       "album": {
@@ -6160,7 +6302,7 @@
       ],
       "date_added": "2025-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 128741,
       "name": "RAMADAN KAREEM (with Tolibian & Boj)",
       "url": "https://open.spotify.com/track/6xIcJYyk3f3WvgnX7dcHmw"
@@ -6292,6 +6434,28 @@
       "duration_ms": 211320,
       "name": "Roadman",
       "url": "https://open.spotify.com/track/1vAvrkdedqfcFVm6cLfZBe"
+    },
+    {
+      "album": {
+        "name": "Behind Closed Doors",
+        "url": "https://open.spotify.com/album/7IcAWl0SNTImQwHcG8w98o"
+      },
+      "artists": [
+        {
+          "name": "Runda",
+          "url": "https://open.spotify.com/artist/1ECPisHdyXxJzBSPaHCk0x"
+        },
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165250,
+      "name": "Roma",
+      "url": "https://open.spotify.com/track/0tYVKrdMhSACnQTlCBzKAi"
     },
     {
       "album": {
@@ -6438,7 +6602,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 175483,
       "name": "Sexual Healing",
       "url": "https://open.spotify.com/track/5UlIQlThsFv7qCEhQbR5EG"
@@ -6530,6 +6694,24 @@
       "duration_ms": 171232,
       "name": "Shalaye",
       "url": "https://open.spotify.com/track/5RTfC7qVXydNrmv4quXFpq"
+    },
+    {
+      "album": {
+        "name": "Shalaye",
+        "url": "https://open.spotify.com/album/7zQONjJIsWdF03ZgnaMbKP"
+      },
+      "artists": [
+        {
+          "name": "Raybekah",
+          "url": "https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "Shalaye",
+      "url": "https://open.spotify.com/track/5RytGOyrh48tH9MvLkChpx"
     },
     {
       "album": {

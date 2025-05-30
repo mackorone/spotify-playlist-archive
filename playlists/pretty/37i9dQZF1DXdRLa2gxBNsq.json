@@ -1,6 +1,6 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: RADIOCRIMEN y Envidia Kotxina.",
-  "num_followers": 112119,
+  "num_followers": 112128,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -731,6 +731,26 @@
     {
       "added_at": "2025-05-15 22:00:18",
       "album": {
+        "name": "Inadaptados",
+        "url": "https://open.spotify.com/album/0OV9pUUqr3QyxRYD9YuOhT"
+      },
+      "artists": [
+        {
+          "name": "Enga\u00f1o Manifiesto",
+          "url": "https://open.spotify.com/artist/0cnl8NwbODpVqEc5sUGT9c"
+        },
+        {
+          "name": "Maldito Matas",
+          "url": "https://open.spotify.com/artist/2MMpbJh1RmzGkh87DVXTS5"
+        }
+      ],
+      "duration_ms": 163002,
+      "name": "Inadaptados",
+      "url": "https://open.spotify.com/track/73bmsiR22Sa1chUSge1M9t"
+    },
+    {
+      "added_at": "2025-05-15 22:00:18",
+      "album": {
         "name": "Versos de Rabia",
         "url": "https://open.spotify.com/album/6CbReCJ1l2o2Mwu2Matrq2"
       },
@@ -799,26 +819,6 @@
       "duration_ms": 289367,
       "name": "Maki Navaja, El \u00daltimo Chorisso",
       "url": "https://open.spotify.com/track/2hK8ZAY2KgCbla7iZdOyhR"
-    },
-    {
-      "added_at": "2025-05-15 22:00:18",
-      "album": {
-        "name": "Inadaptados",
-        "url": "https://open.spotify.com/album/0OV9pUUqr3QyxRYD9YuOhT"
-      },
-      "artists": [
-        {
-          "name": "Enga\u00f1o Manifiesto",
-          "url": "https://open.spotify.com/artist/0cnl8NwbODpVqEc5sUGT9c"
-        },
-        {
-          "name": "Maldito Matas",
-          "url": "https://open.spotify.com/artist/2MMpbJh1RmzGkh87DVXTS5"
-        }
-      ],
-      "duration_ms": 163002,
-      "name": "Inadaptados",
-      "url": "https://open.spotify.com/track/73bmsiR22Sa1chUSge1M9t"
     },
     {
       "added_at": "2025-05-15 22:00:18",
@@ -959,22 +959,6 @@
     {
       "added_at": "2025-05-15 22:00:18",
       "album": {
-        "name": "Pesambre",
-        "url": "https://open.spotify.com/album/50rhx0847BpLx391oLvk1t"
-      },
-      "artists": [
-        {
-          "name": "Malos Vicios",
-          "url": "https://open.spotify.com/artist/3CC52A7QKNPvnXnjykRo4x"
-        }
-      ],
-      "duration_ms": 241628,
-      "name": "Pesambre",
-      "url": "https://open.spotify.com/track/79uTN9yqWuXnfU9yybyS0B"
-    },
-    {
-      "added_at": "2025-05-15 22:00:18",
-      "album": {
         "name": "Millones de Ojos Brillantes",
         "url": "https://open.spotify.com/album/2Je8h40FWv1MFpufjGOwjt"
       },
@@ -991,18 +975,18 @@
     {
       "added_at": "2025-05-15 22:00:18",
       "album": {
-        "name": "Tonto Seguro",
-        "url": "https://open.spotify.com/album/6hpw1fJKU9lwaHXO8hZCeg"
+        "name": "Pesambre",
+        "url": "https://open.spotify.com/album/50rhx0847BpLx391oLvk1t"
       },
       "artists": [
         {
-          "name": "Sartenazo Cerebral",
-          "url": "https://open.spotify.com/artist/4UIGa1G6fmJ74FheT3qszX"
+          "name": "Malos Vicios",
+          "url": "https://open.spotify.com/artist/3CC52A7QKNPvnXnjykRo4x"
         }
       ],
-      "duration_ms": 83452,
-      "name": "Tonto Seguro",
-      "url": "https://open.spotify.com/track/4RSAqCCEwc0nMjyaIentNZ"
+      "duration_ms": 241628,
+      "name": "Pesambre",
+      "url": "https://open.spotify.com/track/79uTN9yqWuXnfU9yybyS0B"
     },
     {
       "added_at": "2025-05-15 22:00:18",
@@ -1019,6 +1003,22 @@
       "duration_ms": 150701,
       "name": "Figurante",
       "url": "https://open.spotify.com/track/2Ond4SI9sIodW3sRZs9Ynm"
+    },
+    {
+      "added_at": "2025-05-15 22:00:18",
+      "album": {
+        "name": "Tonto Seguro",
+        "url": "https://open.spotify.com/album/6hpw1fJKU9lwaHXO8hZCeg"
+      },
+      "artists": [
+        {
+          "name": "Sartenazo Cerebral",
+          "url": "https://open.spotify.com/artist/4UIGa1G6fmJ74FheT3qszX"
+        }
+      ],
+      "duration_ms": 83452,
+      "name": "Tonto Seguro",
+      "url": "https://open.spotify.com/track/4RSAqCCEwc0nMjyaIentNZ"
     },
     {
       "added_at": "2025-05-15 22:00:18",
@@ -1055,6 +1055,26 @@
     {
       "added_at": "2025-05-15 22:00:18",
       "album": {
+        "name": "Don de Gentes",
+        "url": "https://open.spotify.com/album/0lKo2r1xkSLic09lWCbY5H"
+      },
+      "artists": [
+        {
+          "name": "Malos Vicios",
+          "url": "https://open.spotify.com/artist/3CC52A7QKNPvnXnjykRo4x"
+        },
+        {
+          "name": "Ni por favor ni ostias",
+          "url": "https://open.spotify.com/artist/3ECXcpeE3Hl981IZEszU0g"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Don de Gentes",
+      "url": "https://open.spotify.com/track/5lAP82kfLoBEr2jwjFtWPI"
+    },
+    {
+      "added_at": "2025-05-15 22:00:18",
+      "album": {
         "name": "Control de Masas",
         "url": "https://open.spotify.com/album/0wDmAO63FZOYvotxqeCOlm"
       },
@@ -1087,38 +1107,18 @@
     {
       "added_at": "2025-05-15 22:00:18",
       "album": {
-        "name": "Don de Gentes",
-        "url": "https://open.spotify.com/album/0lKo2r1xkSLic09lWCbY5H"
+        "name": "Amar Mata (Remasterizado 2024)",
+        "url": "https://open.spotify.com/album/0cGPcWdGME5xzYwNVA69LP"
       },
       "artists": [
         {
-          "name": "Malos Vicios",
-          "url": "https://open.spotify.com/artist/3CC52A7QKNPvnXnjykRo4x"
-        },
-        {
-          "name": "Ni por favor ni ostias",
-          "url": "https://open.spotify.com/artist/3ECXcpeE3Hl981IZEszU0g"
+          "name": "RADIOCRIMEN",
+          "url": "https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK"
         }
       ],
-      "duration_ms": 197000,
-      "name": "Don de Gentes",
-      "url": "https://open.spotify.com/track/5lAP82kfLoBEr2jwjFtWPI"
-    },
-    {
-      "added_at": "2025-05-15 22:00:18",
-      "album": {
-        "name": "Mama, Come, R\u00ede, Traga",
-        "url": "https://open.spotify.com/album/5vO66nn3MiYPl6d7LAZo1K"
-      },
-      "artists": [
-        {
-          "name": "Hijos De Nacho Vidal",
-          "url": "https://open.spotify.com/artist/0C4EXE8J4wocwa1rVzMmVz"
-        }
-      ],
-      "duration_ms": 172015,
-      "name": "Mama, Come, R\u00ede, Traga",
-      "url": "https://open.spotify.com/track/5LGo1evQmoLItCgoSwlzE6"
+      "duration_ms": 184262,
+      "name": "Amar Mata - Remasterizado 2024",
+      "url": "https://open.spotify.com/track/0FeTWjNHIalS91yEH0PZsu"
     },
     {
       "added_at": "2025-05-15 22:00:18",
@@ -1139,18 +1139,50 @@
     {
       "added_at": "2025-05-15 22:00:18",
       "album": {
-        "name": "Amar Mata (Remasterizado 2024)",
-        "url": "https://open.spotify.com/album/0cGPcWdGME5xzYwNVA69LP"
+        "name": "Yo Soy Aquel",
+        "url": "https://open.spotify.com/album/7LS6h2qgq2smyc3dVEiEMD"
       },
       "artists": [
         {
-          "name": "RADIOCRIMEN",
-          "url": "https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK"
+          "name": "Enga\u00f1o Manifiesto",
+          "url": "https://open.spotify.com/artist/0cnl8NwbODpVqEc5sUGT9c"
         }
       ],
-      "duration_ms": 184262,
-      "name": "Amar Mata - Remasterizado 2024",
-      "url": "https://open.spotify.com/track/0FeTWjNHIalS91yEH0PZsu"
+      "duration_ms": 139998,
+      "name": "Yo Soy Aquel",
+      "url": "https://open.spotify.com/track/17uv9rAMfpwfluvH7nDG9I"
+    },
+    {
+      "added_at": "2025-05-15 22:00:18",
+      "album": {
+        "name": "Mama, Come, R\u00ede, Traga",
+        "url": "https://open.spotify.com/album/5vO66nn3MiYPl6d7LAZo1K"
+      },
+      "artists": [
+        {
+          "name": "Hijos De Nacho Vidal",
+          "url": "https://open.spotify.com/artist/0C4EXE8J4wocwa1rVzMmVz"
+        }
+      ],
+      "duration_ms": 172015,
+      "name": "Mama, Come, R\u00ede, Traga",
+      "url": "https://open.spotify.com/track/5LGo1evQmoLItCgoSwlzE6"
+    },
+    {
+      "added_at": "2025-05-15 22:00:18",
+      "album": {
+        "name": "Borratxos y Orgullosos",
+        "url": "https://open.spotify.com/album/5ID6tz1P5QOQlS6z2ht7IE"
+      },
+      "artists": [
+        {
+          "name": "Josetxu Piperrak & The Riber Rock Band",
+          "url": "https://open.spotify.com/artist/3CMa7KMGEivE5STGjWSlxG"
+        }
+      ],
+      "duration_ms": 223950,
+      "name": "Borratxos y Orgullosos",
+      "url": "https://open.spotify.com/track/3pcyr7HKRhEAf6RZ9UFLdc"
     },
     {
       "added_at": "2025-05-15 22:00:18",
@@ -1171,22 +1203,6 @@
     {
       "added_at": "2025-05-15 22:00:18",
       "album": {
-        "name": "Yo Soy Aquel",
-        "url": "https://open.spotify.com/album/7LS6h2qgq2smyc3dVEiEMD"
-      },
-      "artists": [
-        {
-          "name": "Enga\u00f1o Manifiesto",
-          "url": "https://open.spotify.com/artist/0cnl8NwbODpVqEc5sUGT9c"
-        }
-      ],
-      "duration_ms": 139998,
-      "name": "Yo Soy Aquel",
-      "url": "https://open.spotify.com/track/17uv9rAMfpwfluvH7nDG9I"
-    },
-    {
-      "added_at": "2025-05-15 22:00:18",
-      "album": {
         "name": "Arde Ribera",
         "url": "https://open.spotify.com/album/4miZbn6vSzsHLvCUMSBX1s"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 170686,
       "name": "Mi Primer Amor",
       "url": "https://open.spotify.com/track/2oRmhBSPhWNScSkwR7x8xi"
-    },
-    {
-      "added_at": "2025-05-15 22:00:18",
-      "album": {
-        "name": "Borratxos y Orgullosos",
-        "url": "https://open.spotify.com/album/5ID6tz1P5QOQlS6z2ht7IE"
-      },
-      "artists": [
-        {
-          "name": "Josetxu Piperrak & The Riber Rock Band",
-          "url": "https://open.spotify.com/artist/3CMa7KMGEivE5STGjWSlxG"
-        }
-      ],
-      "duration_ms": 223950,
-      "name": "Borratxos y Orgullosos",
-      "url": "https://open.spotify.com/track/3pcyr7HKRhEAf6RZ9UFLdc"
     },
     {
       "added_at": "2025-05-15 22:00:18",

@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,094 songs - 2 day 18 hr 59 min
+1,095 songs - 2 day 19 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Back by Popular Demand 1 1 \- unmuffled](https://open.spotify.com/track/3QNBEvoWWdwQ1ai5s4wbPy) | [Reno](https://open.spotify.com/artist/46hSwkXAwKPcVxnh5vdJCV) | [quad didnt mean to \(unmuffled\)](https://open.spotify.com/album/1hIumzZ2gdwGRjPkEN1YjV) | 1:48 | 2023-04-23 |  |
 | [BACK TO ME](https://open.spotify.com/track/0Tgm7wkLb0AfAHAZDschvD) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 4:55 | 2024-02-10 | 2024-05-20 |
 | [Back Up To Earth](https://open.spotify.com/track/1OOC28cOjTfNd7fsZcbm7o) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [From Me To You \(Deluxe\)](https://open.spotify.com/album/3ttPsHix6tJ7mqV8BcwOFp) | 3:02 | 2021-11-03 |  |
+| [Backseat](https://open.spotify.com/track/7yT4NJt5rgmVoMJMGPULcj) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Backseat](https://open.spotify.com/album/4SnYbgZqKOxc2eCRdMS3xu) | 6:23 | 2025-05-29 |  |
 | [Backslide](https://open.spotify.com/track/62aSL7D64td5wr09L6iFiV) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Backslide](https://open.spotify.com/album/4bwNLICcbpG5VpFGG1J2pD) | 3:00 | 2024-04-25 |  |
 | [Bad Disease](https://open.spotify.com/track/7taKcyGBXq0egpHYmttmm4) | [Alexandra Savior](https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa) | [The Archer](https://open.spotify.com/album/3QHdGQFzgpIvvSFA83bqyh) | 3:46 | 2024-06-17 |  |
 | [Bad Habit](https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 3:52 | 2023-01-27 |  |

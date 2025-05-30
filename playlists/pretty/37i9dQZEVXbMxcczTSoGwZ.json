@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Finland.",
-  "num_followers": 168873,
+  "num_followers": 168900,
   "original_name": "Top 50 - Finland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "L8p+eAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "L8vP+AAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-05-28 13:13:41",
+      "added_at": "2025-05-29 13:12:18",
       "album": {
         "name": "Aja tai kuole",
         "url": "https://open.spotify.com/album/5H5orhEdULcEb6yiV1yCxZ"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/7m7Mmlw9m1NJxcYbvdW2z7"
     },
     {
-      "added_at": "2025-05-28 13:13:41",
+      "added_at": "2025-05-29 13:12:18",
       "album": {
         "name": "Onneks",
         "url": "https://open.spotify.com/album/47CR0XQ5zbMS7Rg8KIs87e"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/6Pnv2q27FEAXKAPeuny5w5"
     },
     {
-      "added_at": "2025-05-28 13:13:41",
+      "added_at": "2025-05-29 13:12:18",
       "album": {
         "name": "Sauna Collection",
         "url": "https://open.spotify.com/album/4CWJY1YRrC5U8SCBScB4SX"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/6eIzQCYExfnNeM7KOlE3lE"
     },
     {
-      "added_at": "2025-05-28 13:13:41",
+      "added_at": "2025-05-29 13:12:18",
       "album": {
         "name": "Luuleks (feat. Ares)",
         "url": "https://open.spotify.com/album/5Nnn4fHocRguOixJkN2VEC"
@@ -81,7 +81,7 @@
       "url": "https://open.spotify.com/track/1dhyYodxrbpVw1UGpIIe3q"
     },
     {
-      "added_at": "2025-05-28 13:13:41",
+      "added_at": "2025-05-29 13:12:18",
       "album": {
         "name": "Espresso Macchiato",
         "url": "https://open.spotify.com/album/6oyTmTZoCYK6zyoaOPK9ns"
@@ -97,7 +97,7 @@
       "url": "https://open.spotify.com/track/3gWBWLw3J3XTy3QTo36GqJ"
     },
     {
-      "added_at": "2025-05-28 13:13:41",
+      "added_at": "2025-05-29 13:12:18",
       "album": {
         "name": "Ylibuukattu",
         "url": "https://open.spotify.com/album/738LkmjU8QxUmHtOq6Waoh"
@@ -117,7 +117,23 @@
       "url": "https://open.spotify.com/track/0tHGD8lfEjbIYgG28aVyDz"
     },
     {
-      "added_at": "2025-05-28 13:13:41",
+      "added_at": "2025-05-29 13:12:18",
+      "album": {
+        "name": "Liike on l\u00e4\u00e4ke",
+        "url": "https://open.spotify.com/album/18V9kkoBrUFgOKZiQSeVFe"
+      },
+      "artists": [
+        {
+          "name": "Turisti",
+          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
+        }
+      ],
+      "duration_ms": 172850,
+      "name": "Liike on l\u00e4\u00e4ke",
+      "url": "https://open.spotify.com/track/4QBks5nt05qmlblfid82Yr"
+    },
+    {
+      "added_at": "2025-05-29 13:12:18",
       "album": {
         "name": "APATHIA",
         "url": "https://open.spotify.com/album/1wVq5KOK1sZQ27szlcnGJE"
@@ -133,7 +149,7 @@
       "url": "https://open.spotify.com/track/728CCaVme0Ppv8zrG9caYE"
     },
     {
-      "added_at": "2025-05-28 13:13:41",
+      "added_at": "2025-05-29 13:12:18",
       "album": {
         "name": "Yks mun ongelmist (feat. Jore & Zpoppa)",
         "url": "https://open.spotify.com/album/5PvUchPy7xwCHJGCgSzGKG"
@@ -153,23 +169,39 @@
       "url": "https://open.spotify.com/track/7FsF80Hta5P4bSZ3HL6KRr"
     },
     {
-      "added_at": "2025-05-28 13:13:41",
+      "added_at": "2025-05-29 13:12:18",
       "album": {
-        "name": "Liike on l\u00e4\u00e4ke",
-        "url": "https://open.spotify.com/album/18V9kkoBrUFgOKZiQSeVFe"
+        "name": "Toisessa el\u00e4m\u00e4ss\u00e4",
+        "url": "https://open.spotify.com/album/18WuSJbT1qsfVHcfBcLHlV"
       },
       "artists": [
         {
-          "name": "Turisti",
-          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
+          "name": "Lauri Haav",
+          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
         }
       ],
-      "duration_ms": 172850,
-      "name": "Liike on l\u00e4\u00e4ke",
-      "url": "https://open.spotify.com/track/4QBks5nt05qmlblfid82Yr"
+      "duration_ms": 209683,
+      "name": "Toisessa el\u00e4m\u00e4ss\u00e4",
+      "url": "https://open.spotify.com/track/7jLUZ7Hah28SRrs3NDugpD"
     },
     {
-      "added_at": "2025-05-28 13:13:41",
+      "added_at": "2025-05-29 13:12:18",
+      "album": {
+        "name": "Mun ihminen",
+        "url": "https://open.spotify.com/album/4f3ETbbOr26nV6wlK4KoNl"
+      },
+      "artists": [
+        {
+          "name": "ELLIMEI",
+          "url": "https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra"
+        }
+      ],
+      "duration_ms": 153141,
+      "name": "Mun ihminen",
+      "url": "https://open.spotify.com/track/3VEV0SQHNl533SrB6bbIPY"
+    },
+    {
+      "added_at": "2025-05-29 13:12:18",
       "album": {
         "name": "#eurodab",
         "url": "https://open.spotify.com/album/1om5mgfzIyl8wK0VExNHCA"
@@ -189,39 +221,7 @@
       "url": "https://open.spotify.com/track/5LUbJo8GHzcqlCCrE83c05"
     },
     {
-      "added_at": "2025-05-28 13:13:41",
-      "album": {
-        "name": "Toisessa el\u00e4m\u00e4ss\u00e4",
-        "url": "https://open.spotify.com/album/18WuSJbT1qsfVHcfBcLHlV"
-      },
-      "artists": [
-        {
-          "name": "Lauri Haav",
-          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
-        }
-      ],
-      "duration_ms": 209683,
-      "name": "Toisessa el\u00e4m\u00e4ss\u00e4",
-      "url": "https://open.spotify.com/track/7jLUZ7Hah28SRrs3NDugpD"
-    },
-    {
-      "added_at": "2025-05-28 13:13:41",
-      "album": {
-        "name": "Mun ihminen",
-        "url": "https://open.spotify.com/album/4f3ETbbOr26nV6wlK4KoNl"
-      },
-      "artists": [
-        {
-          "name": "ELLIMEI",
-          "url": "https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra"
-        }
-      ],
-      "duration_ms": 153141,
-      "name": "Mun ihminen",
-      "url": "https://open.spotify.com/track/3VEV0SQHNl533SrB6bbIPY"
-    },
-    {
-      "added_at": "2025-05-28 13:13:41",
+      "added_at": "2025-05-29 13:12:18",
       "album": {
         "name": "Herkkukauppa (Bam Tsiki Tsiki)",
         "url": "https://open.spotify.com/album/02AAVxfdMqurVFDJMXTmCw"
@@ -237,39 +237,7 @@
       "url": "https://open.spotify.com/track/09rz8UVupw08GyfqSX92oo"
     },
     {
-      "added_at": "2025-05-28 13:13:41",
-      "album": {
-        "name": "ICH KOMME",
-        "url": "https://open.spotify.com/album/37Jo8WGCWZTAv53vweYlYx"
-      },
-      "artists": [
-        {
-          "name": "Erika Vikman",
-          "url": "https://open.spotify.com/artist/6JVB6uiYxpF2K1PGsPRpWR"
-        }
-      ],
-      "duration_ms": 180314,
-      "name": "ICH KOMME",
-      "url": "https://open.spotify.com/track/52NFoPnzxOKPIcJIQ9mb5Q"
-    },
-    {
-      "added_at": "2025-05-28 13:13:41",
-      "album": {
-        "name": "ROADMAN",
-        "url": "https://open.spotify.com/album/77h9rh1J6b9OE8z8wAQF4m"
-      },
-      "artists": [
-        {
-          "name": "Turisti",
-          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
-        }
-      ],
-      "duration_ms": 176788,
-      "name": "Taikuri",
-      "url": "https://open.spotify.com/track/7fdNCtxfZArtOZK3hLqqm3"
-    },
-    {
-      "added_at": "2025-05-28 13:13:41",
+      "added_at": "2025-05-29 13:12:18",
       "album": {
         "name": "Kaistaa",
         "url": "https://open.spotify.com/album/5SAFbphi9PipC8M8e0bq2p"
@@ -289,7 +257,55 @@
       "url": "https://open.spotify.com/track/5zBFyivO2fctJtXufjyVz5"
     },
     {
-      "added_at": "2025-05-28 13:13:41",
+      "added_at": "2025-05-29 13:12:18",
+      "album": {
+        "name": "ICH KOMME",
+        "url": "https://open.spotify.com/album/37Jo8WGCWZTAv53vweYlYx"
+      },
+      "artists": [
+        {
+          "name": "Erika Vikman",
+          "url": "https://open.spotify.com/artist/6JVB6uiYxpF2K1PGsPRpWR"
+        }
+      ],
+      "duration_ms": 180314,
+      "name": "ICH KOMME",
+      "url": "https://open.spotify.com/track/52NFoPnzxOKPIcJIQ9mb5Q"
+    },
+    {
+      "added_at": "2025-05-29 13:12:18",
+      "album": {
+        "name": "ROADMAN",
+        "url": "https://open.spotify.com/album/77h9rh1J6b9OE8z8wAQF4m"
+      },
+      "artists": [
+        {
+          "name": "Turisti",
+          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
+        }
+      ],
+      "duration_ms": 176788,
+      "name": "Taikuri",
+      "url": "https://open.spotify.com/track/7fdNCtxfZArtOZK3hLqqm3"
+    },
+    {
+      "added_at": "2025-05-29 13:12:18",
+      "album": {
+        "name": "NRO1 B\u00c4M\u00c4",
+        "url": "https://open.spotify.com/album/4Qw9aHxTzjFkWxZsGiwK8z"
+      },
+      "artists": [
+        {
+          "name": "OLGA",
+          "url": "https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub"
+        }
+      ],
+      "duration_ms": 154054,
+      "name": "NRO1 B\u00c4M\u00c4",
+      "url": "https://open.spotify.com/track/6cNFoKcRDKFs2j2aUKxYtt"
+    },
+    {
+      "added_at": "2025-05-29 13:12:18",
       "album": {
         "name": "Tyt\u00f6t tiet\u00e4\u00e4",
         "url": "https://open.spotify.com/album/5drhXGx6ojIgQzoLWJXMXc"
@@ -305,7 +321,23 @@
       "url": "https://open.spotify.com/track/4jWL1qqesCvi9DafuJ5238"
     },
     {
-      "added_at": "2025-05-28 13:13:41",
+      "added_at": "2025-05-29 13:12:18",
+      "album": {
+        "name": "Vanhasta Uuteen",
+        "url": "https://open.spotify.com/album/276dY1fRnOuBfSGA5w7Mfb"
+      },
+      "artists": [
+        {
+          "name": "Isac Elliot",
+          "url": "https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D"
+        }
+      ],
+      "duration_ms": 169646,
+      "name": "Vanhasta Uuteen",
+      "url": "https://open.spotify.com/track/0UxaNxUNLleuXOPtnPnCTZ"
+    },
+    {
+      "added_at": "2025-05-29 13:12:18",
       "album": {
         "name": "ORIGO",
         "url": "https://open.spotify.com/album/7bH5zo9yUlF6TXk8SpfxPt"
@@ -325,71 +357,7 @@
       "url": "https://open.spotify.com/track/57Stuvnw9HYOTKsmHxk9gV"
     },
     {
-      "added_at": "2025-05-28 13:13:41",
-      "album": {
-        "name": "V\u00e4\u00e4r\u00e4\u00e4n ihmiseen",
-        "url": "https://open.spotify.com/album/1JO9UvzcMtrJJ2nh5Pf7vk"
-      },
-      "artists": [
-        {
-          "name": "HUGO",
-          "url": "https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ"
-        }
-      ],
-      "duration_ms": 127129,
-      "name": "V\u00e4\u00e4r\u00e4\u00e4n ihmiseen",
-      "url": "https://open.spotify.com/track/2x4xLxN2y6c7yUhK9Sxzpq"
-    },
-    {
-      "added_at": "2025-05-28 13:13:41",
-      "album": {
-        "name": "NRO1 B\u00c4M\u00c4",
-        "url": "https://open.spotify.com/album/4Qw9aHxTzjFkWxZsGiwK8z"
-      },
-      "artists": [
-        {
-          "name": "OLGA",
-          "url": "https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub"
-        }
-      ],
-      "duration_ms": 154054,
-      "name": "NRO1 B\u00c4M\u00c4",
-      "url": "https://open.spotify.com/track/6cNFoKcRDKFs2j2aUKxYtt"
-    },
-    {
-      "added_at": "2025-05-28 13:13:41",
-      "album": {
-        "name": "Vanhasta Uuteen",
-        "url": "https://open.spotify.com/album/276dY1fRnOuBfSGA5w7Mfb"
-      },
-      "artists": [
-        {
-          "name": "Isac Elliot",
-          "url": "https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D"
-        }
-      ],
-      "duration_ms": 169646,
-      "name": "Vanhasta Uuteen",
-      "url": "https://open.spotify.com/track/0UxaNxUNLleuXOPtnPnCTZ"
-    },
-    {
-      "added_at": "2025-05-28 13:13:41",
-      "album": {
-        "name": "Rehellisesti",
-        "url": "https://open.spotify.com/album/3ZAR6IweaSPuJj4j6NJGTI"
-      },
-      "artists": [
-        {
-          "name": "JVG",
-          "url": "https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj"
-        }
-      ],
-      "duration_ms": 190339,
-      "name": "Rehellisesti",
-      "url": "https://open.spotify.com/track/5FWF6wWO488FWlljL3Fgo3"
-    },
-    {
-      "added_at": "2025-05-28 13:13:41",
+      "added_at": "2025-05-29 13:12:18",
       "album": {
         "name": "Monsteri",
         "url": "https://open.spotify.com/album/3Mj6pHxrnOyE4mXWMp5Gi7"
@@ -413,75 +381,39 @@
       "url": "https://open.spotify.com/track/0sEyktdaOL7Oe3Hstucmgc"
     },
     {
-      "added_at": "2025-05-28 13:13:41",
+      "added_at": "2025-05-29 13:12:18",
       "album": {
-        "name": "Wasted Love",
-        "url": "https://open.spotify.com/album/22GDpNfVvE2WYGTQMXeTJx"
+        "name": "Rehellisesti",
+        "url": "https://open.spotify.com/album/3ZAR6IweaSPuJj4j6NJGTI"
       },
       "artists": [
         {
-          "name": "JJ",
-          "url": "https://open.spotify.com/artist/4W9cXg9c6w38cHSUfUWPcP"
+          "name": "JVG",
+          "url": "https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj"
         }
       ],
-      "duration_ms": 164998,
-      "name": "Wasted Love",
-      "url": "https://open.spotify.com/track/321yySUTzRXUbzkRTeTzDB"
+      "duration_ms": 190339,
+      "name": "Rehellisesti",
+      "url": "https://open.spotify.com/track/5FWF6wWO488FWlljL3Fgo3"
     },
     {
-      "added_at": "2025-05-28 13:13:41",
+      "added_at": "2025-05-29 13:12:18",
       "album": {
-        "name": "Lighter",
-        "url": "https://open.spotify.com/album/3wo1epa3NLBGPr1rTeJror"
+        "name": "V\u00e4\u00e4r\u00e4\u00e4n ihmiseen",
+        "url": "https://open.spotify.com/album/1JO9UvzcMtrJJ2nh5Pf7vk"
       },
       "artists": [
         {
-          "name": "Kyle Alessandro",
-          "url": "https://open.spotify.com/artist/4KfEG606HYb1TLQhq7NbDl"
+          "name": "HUGO",
+          "url": "https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ"
         }
       ],
-      "duration_ms": 175853,
-      "name": "Lighter",
-      "url": "https://open.spotify.com/track/0AMoopn68aGAAaJ9qFXPnX"
+      "duration_ms": 127129,
+      "name": "V\u00e4\u00e4r\u00e4\u00e4n ihmiseen",
+      "url": "https://open.spotify.com/track/2x4xLxN2y6c7yUhK9Sxzpq"
     },
     {
-      "added_at": "2025-05-28 13:13:41",
-      "album": {
-        "name": "Bitters\u00fc\u00df",
-        "url": "https://open.spotify.com/album/0PrVmVD88Xk509v7BOT6a2"
-      },
-      "artists": [
-        {
-          "name": "Abor & Tynna",
-          "url": "https://open.spotify.com/artist/58xrjO7pWlfj2C2uksXScP"
-        }
-      ],
-      "duration_ms": 159493,
-      "name": "Baller",
-      "url": "https://open.spotify.com/track/4kbkYbhWNiSJraySknB4hD"
-    },
-    {
-      "added_at": "2025-05-28 13:13:41",
-      "album": {
-        "name": "Roskat",
-        "url": "https://open.spotify.com/album/55Esr23od1oFtjtGgu9mgB"
-      },
-      "artists": [
-        {
-          "name": "Nelli Matula",
-          "url": "https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE"
-        },
-        {
-          "name": "Sara Siipola",
-          "url": "https://open.spotify.com/artist/0cv9YYFgE0vLVgTjMrOZup"
-        }
-      ],
-      "duration_ms": 185122,
-      "name": "Roskat",
-      "url": "https://open.spotify.com/track/6dRzO2keKtD8DSCBU8tZtl"
-    },
-    {
-      "added_at": "2025-05-28 13:13:41",
+      "added_at": "2025-05-29 13:12:18",
       "album": {
         "name": "APATHIA",
         "url": "https://open.spotify.com/album/1wVq5KOK1sZQ27szlcnGJE"
@@ -501,39 +433,7 @@
       "url": "https://open.spotify.com/track/3P1pM5vlWSugzuBlVKRZjG"
     },
     {
-      "added_at": "2025-05-28 13:13:41",
-      "album": {
-        "name": "Sisko",
-        "url": "https://open.spotify.com/album/726cvsMISBANq4GBdUzBKL"
-      },
-      "artists": [
-        {
-          "name": "emma & matilda",
-          "url": "https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV"
-        }
-      ],
-      "duration_ms": 209523,
-      "name": "Sisko",
-      "url": "https://open.spotify.com/track/5GsPlZhyZhpYWqFQagfySb"
-    },
-    {
-      "added_at": "2025-05-28 13:13:41",
-      "album": {
-        "name": "Vanhasta Uuteen",
-        "url": "https://open.spotify.com/album/276dY1fRnOuBfSGA5w7Mfb"
-      },
-      "artists": [
-        {
-          "name": "Isac Elliot",
-          "url": "https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D"
-        }
-      ],
-      "duration_ms": 182348,
-      "name": "Ehk\u00e4 Se Siit\u00e4",
-      "url": "https://open.spotify.com/track/30McQzUzWjcZbqQbW3Smd3"
-    },
-    {
-      "added_at": "2025-05-28 13:13:41",
+      "added_at": "2025-05-29 13:12:18",
       "album": {
         "name": "Kaiken arvoinen",
         "url": "https://open.spotify.com/album/6EElBgZ03JW114cldLHg5L"
@@ -549,23 +449,39 @@
       "url": "https://open.spotify.com/track/04ItU6vyhnq8QHKIrYqDR1"
     },
     {
-      "added_at": "2025-05-28 13:13:41",
+      "added_at": "2025-05-29 13:12:18",
       "album": {
-        "name": "You'll Be Alright, Kid (Chapter 1)",
-        "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
+        "name": "Sisko",
+        "url": "https://open.spotify.com/album/726cvsMISBANq4GBdUzBKL"
       },
       "artists": [
         {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+          "name": "emma & matilda",
+          "url": "https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV"
         }
       ],
-      "duration_ms": 186964,
-      "name": "Ordinary",
-      "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
+      "duration_ms": 209523,
+      "name": "Sisko",
+      "url": "https://open.spotify.com/track/5GsPlZhyZhpYWqFQagfySb"
     },
     {
-      "added_at": "2025-05-28 13:13:41",
+      "added_at": "2025-05-29 13:12:18",
+      "album": {
+        "name": "Wasted Love",
+        "url": "https://open.spotify.com/album/22GDpNfVvE2WYGTQMXeTJx"
+      },
+      "artists": [
+        {
+          "name": "JJ",
+          "url": "https://open.spotify.com/artist/4W9cXg9c6w38cHSUfUWPcP"
+        }
+      ],
+      "duration_ms": 164998,
+      "name": "Wasted Love",
+      "url": "https://open.spotify.com/track/321yySUTzRXUbzkRTeTzDB"
+    },
+    {
+      "added_at": "2025-05-29 13:12:18",
       "album": {
         "name": "Gardenia",
         "url": "https://open.spotify.com/album/2mJ1flQ0ZAW0rdHZZUrPf3"
@@ -581,23 +497,7 @@
       "url": "https://open.spotify.com/track/7Ih2bWlEQU3vg2s28qw607"
     },
     {
-      "added_at": "2025-05-28 13:13:41",
-      "album": {
-        "name": "Mit\u00e4 meist j\u00e4\u00e4",
-        "url": "https://open.spotify.com/album/0kNKcAFFALuDImbKDSksJ9"
-      },
-      "artists": [
-        {
-          "name": "Averagekidluke",
-          "url": "https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk"
-        }
-      ],
-      "duration_ms": 149058,
-      "name": "Mit\u00e4 meist j\u00e4\u00e4",
-      "url": "https://open.spotify.com/track/6wspZiK5qqoX0HL6zYX4CQ"
-    },
-    {
-      "added_at": "2025-05-28 13:13:41",
+      "added_at": "2025-05-29 13:12:18",
       "album": {
         "name": "Kunpa oisin kertonut",
         "url": "https://open.spotify.com/album/7wiZKnQuxCFGIMoZjhQ9kU"
@@ -613,7 +513,107 @@
       "url": "https://open.spotify.com/track/36lT6tdND08VVvv3HwbhZD"
     },
     {
-      "added_at": "2025-05-28 13:13:41",
+      "added_at": "2025-05-29 13:12:18",
+      "album": {
+        "name": "Mit\u00e4 meist j\u00e4\u00e4",
+        "url": "https://open.spotify.com/album/0kNKcAFFALuDImbKDSksJ9"
+      },
+      "artists": [
+        {
+          "name": "Averagekidluke",
+          "url": "https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk"
+        }
+      ],
+      "duration_ms": 149058,
+      "name": "Mit\u00e4 meist j\u00e4\u00e4",
+      "url": "https://open.spotify.com/track/6wspZiK5qqoX0HL6zYX4CQ"
+    },
+    {
+      "added_at": "2025-05-29 13:12:18",
+      "album": {
+        "name": "You'll Be Alright, Kid (Chapter 1)",
+        "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 186964,
+      "name": "Ordinary",
+      "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
+    },
+    {
+      "added_at": "2025-05-29 13:12:18",
+      "album": {
+        "name": "Bitters\u00fc\u00df",
+        "url": "https://open.spotify.com/album/0PrVmVD88Xk509v7BOT6a2"
+      },
+      "artists": [
+        {
+          "name": "Abor & Tynna",
+          "url": "https://open.spotify.com/artist/58xrjO7pWlfj2C2uksXScP"
+        }
+      ],
+      "duration_ms": 159493,
+      "name": "Baller",
+      "url": "https://open.spotify.com/track/4kbkYbhWNiSJraySknB4hD"
+    },
+    {
+      "added_at": "2025-05-29 13:12:18",
+      "album": {
+        "name": "Lighter",
+        "url": "https://open.spotify.com/album/3wo1epa3NLBGPr1rTeJror"
+      },
+      "artists": [
+        {
+          "name": "Kyle Alessandro",
+          "url": "https://open.spotify.com/artist/4KfEG606HYb1TLQhq7NbDl"
+        }
+      ],
+      "duration_ms": 175853,
+      "name": "Lighter",
+      "url": "https://open.spotify.com/track/0AMoopn68aGAAaJ9qFXPnX"
+    },
+    {
+      "added_at": "2025-05-29 13:12:18",
+      "album": {
+        "name": "Roskat",
+        "url": "https://open.spotify.com/album/55Esr23od1oFtjtGgu9mgB"
+      },
+      "artists": [
+        {
+          "name": "Nelli Matula",
+          "url": "https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE"
+        },
+        {
+          "name": "Sara Siipola",
+          "url": "https://open.spotify.com/artist/0cv9YYFgE0vLVgTjMrOZup"
+        }
+      ],
+      "duration_ms": 185122,
+      "name": "Roskat",
+      "url": "https://open.spotify.com/track/6dRzO2keKtD8DSCBU8tZtl"
+    },
+    {
+      "added_at": "2025-05-29 13:12:18",
+      "album": {
+        "name": "Vanhasta Uuteen",
+        "url": "https://open.spotify.com/album/276dY1fRnOuBfSGA5w7Mfb"
+      },
+      "artists": [
+        {
+          "name": "Isac Elliot",
+          "url": "https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D"
+        }
+      ],
+      "duration_ms": 182348,
+      "name": "Ehk\u00e4 Se Siit\u00e4",
+      "url": "https://open.spotify.com/track/30McQzUzWjcZbqQbW3Smd3"
+    },
+    {
+      "added_at": "2025-05-29 13:12:18",
       "album": {
         "name": "APATHIA",
         "url": "https://open.spotify.com/album/1wVq5KOK1sZQ27szlcnGJE"
@@ -637,23 +637,7 @@
       "url": "https://open.spotify.com/track/5CbkZJipjT198pDW8v3k2u"
     },
     {
-      "added_at": "2025-05-28 13:13:41",
-      "album": {
-        "name": "R\u00d3A",
-        "url": "https://open.spotify.com/album/6CukWYQblekfCN4j1SVYp2"
-      },
-      "artists": [
-        {
-          "name": "V\u00c6B",
-          "url": "https://open.spotify.com/artist/2Y1zMOhyjW9R9C4DYBuNLg"
-        }
-      ],
-      "duration_ms": 162857,
-      "name": "R\u00d3A",
-      "url": "https://open.spotify.com/track/1YnOwWvV1bQevRqJMCbYJz"
-    },
-    {
-      "added_at": "2025-05-28 13:13:41",
+      "added_at": "2025-05-29 13:12:18",
       "album": {
         "name": "Kunpa oisin kertonut",
         "url": "https://open.spotify.com/album/7wiZKnQuxCFGIMoZjhQ9kU"
@@ -673,95 +657,7 @@
       "url": "https://open.spotify.com/track/3gEmQZnsmDrttYiBM2WYdD"
     },
     {
-      "added_at": "2025-05-28 13:13:41",
-      "album": {
-        "name": "Sexmane x OFF THE BOOTH (Respect on my name)",
-        "url": "https://open.spotify.com/album/3GH3dqxxpqXo0763qfZR29"
-      },
-      "artists": [
-        {
-          "name": "OFF THE BOOTH",
-          "url": "https://open.spotify.com/artist/6lneXpoKhbBtujfCjkMD6g"
-        },
-        {
-          "name": "Sexmane",
-          "url": "https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq"
-        }
-      ],
-      "duration_ms": 172023,
-      "name": "Sexmane x OFF THE BOOTH (Respect on my name)",
-      "url": "https://open.spotify.com/track/1kBB8qSrHeJD2lewCGhS2C"
-    },
-    {
-      "added_at": "2025-05-28 13:13:41",
-      "album": {
-        "name": "Diana",
-        "url": "https://open.spotify.com/album/7B837fOa9ySaE1M9mccVxX"
-      },
-      "artists": [
-        {
-          "name": "Turisti",
-          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
-        }
-      ],
-      "duration_ms": 178339,
-      "name": "Diana",
-      "url": "https://open.spotify.com/track/19LWPpXTX49k1KANJ46ydb"
-    },
-    {
-      "added_at": "2025-05-28 13:13:41",
-      "album": {
-        "name": "10 000 tuntii",
-        "url": "https://open.spotify.com/album/6EgRhNmKgqozqEPgPBa0Xq"
-      },
-      "artists": [
-        {
-          "name": "KAUKUA",
-          "url": "https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ"
-        }
-      ],
-      "duration_ms": 135674,
-      "name": "10 000 tuntii",
-      "url": "https://open.spotify.com/track/6xLnpRH0AICTolSlPERAJK"
-    },
-    {
-      "added_at": "2025-05-28 13:13:41",
-      "album": {
-        "name": "MAYHEM",
-        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 223398,
-      "name": "Abracadabra",
-      "url": "https://open.spotify.com/track/2LHNTC9QZxsL3nWpt8iaSR"
-    },
-    {
-      "added_at": "2025-05-28 13:13:41",
-      "album": {
-        "name": "ROADMAN",
-        "url": "https://open.spotify.com/album/77h9rh1J6b9OE8z8wAQF4m"
-      },
-      "artists": [
-        {
-          "name": "Turisti",
-          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
-        },
-        {
-          "name": "Sexmane",
-          "url": "https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq"
-        }
-      ],
-      "duration_ms": 146666,
-      "name": "Lightskinboy (feat. Sexmane)",
-      "url": "https://open.spotify.com/track/73kBsYMLlAQFcGym49f74g"
-    },
-    {
-      "added_at": "2025-05-28 13:13:41",
+      "added_at": "2025-05-29 13:12:18",
       "album": {
         "name": "KRUUNU (feat. ibe)",
         "url": "https://open.spotify.com/album/55FzsBDx6O1NbBGjYNhYLv"
@@ -781,43 +677,59 @@
       "url": "https://open.spotify.com/track/2OM9fc7sOAdQX2gt5a4PSB"
     },
     {
-      "added_at": "2025-05-28 13:13:41",
+      "added_at": "2025-05-29 13:12:18",
       "album": {
-        "name": "ROADMAN",
-        "url": "https://open.spotify.com/album/77h9rh1J6b9OE8z8wAQF4m"
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
       },
       "artists": [
         {
-          "name": "Turisti",
-          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 223398,
+      "name": "Abracadabra",
+      "url": "https://open.spotify.com/track/2LHNTC9QZxsL3nWpt8iaSR"
+    },
+    {
+      "added_at": "2025-05-29 13:12:18",
+      "album": {
+        "name": "10 000 tuntii",
+        "url": "https://open.spotify.com/album/6EgRhNmKgqozqEPgPBa0Xq"
+      },
+      "artists": [
+        {
+          "name": "KAUKUA",
+          "url": "https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ"
+        }
+      ],
+      "duration_ms": 135674,
+      "name": "10 000 tuntii",
+      "url": "https://open.spotify.com/track/6xLnpRH0AICTolSlPERAJK"
+    },
+    {
+      "added_at": "2025-05-29 13:12:18",
+      "album": {
+        "name": "Sexmane x OFF THE BOOTH (Respect on my name)",
+        "url": "https://open.spotify.com/album/3GH3dqxxpqXo0763qfZR29"
+      },
+      "artists": [
+        {
+          "name": "OFF THE BOOTH",
+          "url": "https://open.spotify.com/artist/6lneXpoKhbBtujfCjkMD6g"
         },
         {
-          "name": "ibe",
-          "url": "https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA"
+          "name": "Sexmane",
+          "url": "https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq"
         }
       ],
-      "duration_ms": 184647,
-      "name": "Kiireinen nainen (feat. ibe)",
-      "url": "https://open.spotify.com/track/14wiEbecEf1jSWiflaxHvA"
+      "duration_ms": 172023,
+      "name": "Sexmane x OFF THE BOOTH (Respect on my name)",
+      "url": "https://open.spotify.com/track/1kBB8qSrHeJD2lewCGhS2C"
     },
     {
-      "added_at": "2025-05-28 13:13:41",
-      "album": {
-        "name": "Hitaammin hautaan",
-        "url": "https://open.spotify.com/album/5sacMb3lLplhX3RT9LiKw7"
-      },
-      "artists": [
-        {
-          "name": "Nelli Matula",
-          "url": "https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE"
-        }
-      ],
-      "duration_ms": 178457,
-      "name": "Hitaammin hautaan",
-      "url": "https://open.spotify.com/track/56gErvTUBhx82XqEauET28"
-    },
-    {
-      "added_at": "2025-05-28 13:13:41",
+      "added_at": "2025-05-29 13:12:18",
       "album": {
         "name": "EXIT",
         "url": "https://open.spotify.com/album/2grZKNgllDuPAbMGTmx5Ap"
@@ -837,27 +749,39 @@
       "url": "https://open.spotify.com/track/4n6PzDyWGkjAVRl74aR8Pb"
     },
     {
-      "added_at": "2025-05-28 13:13:41",
+      "added_at": "2025-05-29 13:12:18",
       "album": {
-        "name": "Liikaa vauhtii (feat. Jore & Zpoppa)",
-        "url": "https://open.spotify.com/album/7q9S7xj1nF8t3tHw0wppcN"
+        "name": "Diana",
+        "url": "https://open.spotify.com/album/7B837fOa9ySaE1M9mccVxX"
       },
       "artists": [
         {
-          "name": "VJ",
-          "url": "https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2"
-        },
-        {
-          "name": "Jore & Zpoppa",
-          "url": "https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7"
+          "name": "Turisti",
+          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
         }
       ],
-      "duration_ms": 197921,
-      "name": "Liikaa vauhtii (feat. Jore & Zpoppa)",
-      "url": "https://open.spotify.com/track/2rwT5yfTQYULSvrERWfxa8"
+      "duration_ms": 178339,
+      "name": "Diana",
+      "url": "https://open.spotify.com/track/19LWPpXTX49k1KANJ46ydb"
     },
     {
-      "added_at": "2025-05-28 13:13:41",
+      "added_at": "2025-05-29 13:12:18",
+      "album": {
+        "name": "R\u00d3A",
+        "url": "https://open.spotify.com/album/6CukWYQblekfCN4j1SVYp2"
+      },
+      "artists": [
+        {
+          "name": "V\u00c6B",
+          "url": "https://open.spotify.com/artist/2Y1zMOhyjW9R9C4DYBuNLg"
+        }
+      ],
+      "duration_ms": 162857,
+      "name": "R\u00d3A",
+      "url": "https://open.spotify.com/track/1YnOwWvV1bQevRqJMCbYJz"
+    },
+    {
+      "added_at": "2025-05-29 13:12:18",
       "album": {
         "name": "People's Champion",
         "url": "https://open.spotify.com/album/1tCNYS0XPcGlPvKhncQd6o"
@@ -873,24 +797,96 @@
       "url": "https://open.spotify.com/track/2Nq2IkUtXoO1DJ0A4bNBcj"
     },
     {
-      "added_at": "2025-05-28 13:13:41",
+      "added_at": "2025-05-29 13:12:18",
       "album": {
-        "name": "YUNO",
-        "url": "https://open.spotify.com/album/5tC2VozpKDfbpOzO8Ybipj"
+        "name": "MASIINA",
+        "url": "https://open.spotify.com/album/3aNazUoV8x82EPaGQMwWgW"
       },
       "artists": [
         {
-          "name": "Averagekidluke",
-          "url": "https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk"
-        },
+          "name": "ibe",
+          "url": "https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA"
+        }
+      ],
+      "duration_ms": 194546,
+      "name": "MASIINA",
+      "url": "https://open.spotify.com/track/25FQ6nVIcLOMfl5Rnmud57"
+    },
+    {
+      "added_at": "2025-05-29 13:12:18",
+      "album": {
+        "name": "ROADMAN",
+        "url": "https://open.spotify.com/album/77h9rh1J6b9OE8z8wAQF4m"
+      },
+      "artists": [
         {
           "name": "Turisti",
           "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
+        },
+        {
+          "name": "ibe",
+          "url": "https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA"
         }
       ],
-      "duration_ms": 180099,
-      "name": "Vitun hyvin",
-      "url": "https://open.spotify.com/track/71hoYrgo1nxzWp9hfhu0Fi"
+      "duration_ms": 184647,
+      "name": "Kiireinen nainen (feat. ibe)",
+      "url": "https://open.spotify.com/track/14wiEbecEf1jSWiflaxHvA"
+    },
+    {
+      "added_at": "2025-05-29 13:12:18",
+      "album": {
+        "name": "Hitaammin hautaan",
+        "url": "https://open.spotify.com/album/5sacMb3lLplhX3RT9LiKw7"
+      },
+      "artists": [
+        {
+          "name": "Nelli Matula",
+          "url": "https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE"
+        }
+      ],
+      "duration_ms": 178457,
+      "name": "Hitaammin hautaan",
+      "url": "https://open.spotify.com/track/56gErvTUBhx82XqEauET28"
+    },
+    {
+      "added_at": "2025-05-29 13:12:18",
+      "album": {
+        "name": "Merkitt\u00e4v\u00e4t erot",
+        "url": "https://open.spotify.com/album/4NJkTWOSCA5b4I7HwgNuwK"
+      },
+      "artists": [
+        {
+          "name": "Behm",
+          "url": "https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE"
+        },
+        {
+          "name": "Olavi Uusivirta",
+          "url": "https://open.spotify.com/artist/5LbUBFEG2qciScT9kwFqmV"
+        }
+      ],
+      "duration_ms": 222439,
+      "name": "Viimeinen tanssi",
+      "url": "https://open.spotify.com/track/643oAKTJRrWg6sd7Npc0Qk"
+    },
+    {
+      "added_at": "2025-05-29 13:12:18",
+      "album": {
+        "name": "ROADMAN",
+        "url": "https://open.spotify.com/album/77h9rh1J6b9OE8z8wAQF4m"
+      },
+      "artists": [
+        {
+          "name": "Turisti",
+          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
+        },
+        {
+          "name": "Sexmane",
+          "url": "https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq"
+        }
+      ],
+      "duration_ms": 146666,
+      "name": "Lightskinboy (feat. Sexmane)",
+      "url": "https://open.spotify.com/track/73kBsYMLlAQFcGym49f74g"
     }
   ],
   "unique_name": "Top 50 - Finland",

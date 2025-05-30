@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 
 > Rico Nasty along with the hottest alternative songs right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 602,588 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 602,625 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 | 74 | [Giving Up](https://open.spotify.com/track/5pQHt91DmDdhjIUYYAg7BJ) | [Michigander](https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu) | [Michigander](https://open.spotify.com/album/40hEeqidvpcsJrUqYN4jTL) | 3:14 |
 | 75 | [Everything Is Peaceful Love](https://open.spotify.com/track/5bA9nkU0bUuBrAaakSiOXP) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Everything Is Peaceful Love](https://open.spotify.com/album/0TISqdrgN6Cvsg7rdDaUJs) | 3:30 |
 
-Snapshot ID: `aC/y9AAAAADeVf9cy6gZlHlmwJJp7hXG`
+Snapshot ID: `AAAAAKNgm0tpeQjDjZzzjo8N90gZ3Y9F`

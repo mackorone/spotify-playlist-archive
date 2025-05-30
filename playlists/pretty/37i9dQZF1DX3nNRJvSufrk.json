@@ -1,6 +1,6 @@
 {
   "description": "Can you keep up? Get moving to the rapid rhythms of Footwork & Juke, originating in 1990s Chicago. Cover: DJ Manny",
-  "num_followers": 36251,
+  "num_followers": 36263,
   "original_name": "Footwork/Juke",
   "owner": {
     "name": "Spotify",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "High on Clouds",
-        "url": "https://open.spotify.com/album/7daVVI2wd8FIhzWyWtpq8N"
-      },
-      "artists": [
-        {
-          "name": "Nangdo",
-          "url": "https://open.spotify.com/artist/3q8bo1K12TtwbvsPiwJWDi"
-        }
-      ],
-      "duration_ms": 194541,
-      "name": "Turn Up",
-      "url": "https://open.spotify.com/track/5Qdcx5xvBBckTVyYiHdQuN"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Still Trippin'",
         "url": "https://open.spotify.com/album/7xDFC6tA0ADGOv3NmIM7rE"
       },
@@ -1391,22 +1375,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Juke Pack Vol.1",
-        "url": "https://open.spotify.com/album/0gMUmMf0xpZjctgUUmhj0p"
-      },
-      "artists": [
-        {
-          "name": "EQ Why",
-          "url": "https://open.spotify.com/artist/2XEjbBHqhnBlfydDBUp1Rf"
-        }
-      ],
-      "duration_ms": 157593,
-      "name": "Big Booty Savage",
-      "url": "https://open.spotify.com/track/7fQ6AGVEcds2qwnQeAdNyZ"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Pariah",
         "url": "https://open.spotify.com/album/2KLD67ZxiIL1cwNPaMz7q9"
       },
@@ -1435,6 +1403,38 @@
       "duration_ms": 210248,
       "name": "Burnin Ya Boa (feat. DJ Manny)",
       "url": "https://open.spotify.com/track/3CJhotfLdzJbbjAWlK7YFZ"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Juke Pack Vol.1",
+        "url": "https://open.spotify.com/album/0gMUmMf0xpZjctgUUmhj0p"
+      },
+      "artists": [
+        {
+          "name": "EQ Why",
+          "url": "https://open.spotify.com/artist/2XEjbBHqhnBlfydDBUp1Rf"
+        }
+      ],
+      "duration_ms": 157593,
+      "name": "Big Booty Savage",
+      "url": "https://open.spotify.com/track/7fQ6AGVEcds2qwnQeAdNyZ"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Do Right",
+        "url": "https://open.spotify.com/album/79oVcdOfST9iLRlqenoJdl"
+      },
+      "artists": [
+        {
+          "name": "Slick Shoota",
+          "url": "https://open.spotify.com/artist/2P1OqKNHmAOg9RfAufNNkR"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Do Right",
+      "url": "https://open.spotify.com/track/7lMjqRbsChqroWRRkhw3ge"
     }
   ],
   "unique_name": "Footwork/Juke",

@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,573 songs - 2 day 11 hr 8 min
+1,574 songs - 2 day 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -863,6 +863,7 @@
 | [misty roads](https://open.spotify.com/track/6tNiamSafwCipjcN49WmoA) | [nadezhiko](https://open.spotify.com/artist/6JbECRtgmjNHNUeDaKQgtp) | [misty roads](https://open.spotify.com/album/5z3QTdB9bgpJH1s8NC05jI) | 2:20 | 2022-12-09 |  |
 | [mobility](https://open.spotify.com/track/7vhJhZb5dYQ6Sn4kEdJPys) | [Max Kellen](https://open.spotify.com/artist/01DXCHumnPqMICVTYhOdUU) | [mobility](https://open.spotify.com/album/3XLimNvX5KT8N8jpKbGBtd) | 1:50 | 2023-05-19 |  |
 | [Mocha](https://open.spotify.com/track/7BAfo8WKIrAm3hJDj16Xd6) | [Grizzly Beatz](https://open.spotify.com/artist/2TzIeWirsf62rqqqQMrXY2) | [Mocha](https://open.spotify.com/album/0pGX6CFDFo6NGDEj38zESS) | 2:24 | 2023-01-20 | 2023-09-29 |
+| [Mochi](https://open.spotify.com/track/4JN2VQRRnmOTG9uSL8W9r9) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [tenkousei.](https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N) | [Mochi](https://open.spotify.com/album/6Ilvxb10mQwP4zw6cTshKo) | 2:08 | 2025-05-23 |  |
 | [Mom's Spaghetti](https://open.spotify.com/track/0Odn9Za3gTEWsnO5i5fMbI) | [Beat Oven](https://open.spotify.com/artist/57nxKbKZ4Uc9jzTkcCfRRq) | [Beat Soup](https://open.spotify.com/album/6dEsyuYCALQJpT04B0Qvic) | 1:40 | 2022-05-13 | 2024-05-14 |
 | [Monday](https://open.spotify.com/track/4DBUv3NPLsSBSsD4bw6Svb) | [beatthump](https://open.spotify.com/artist/21LyMe2qaxBJYvdcOLyCBb) | [Monday](https://open.spotify.com/album/3fO79St3Wd1NtduoK9Tlno) | 2:37 | 2022-01-27 | 2023-06-06 |
 | [Monday](https://open.spotify.com/track/5Ja6hwEoh4RtReDG0WscsB) | [Sineg](https://open.spotify.com/artist/2dFzMUO0SoMadcJNogEmg9) | [Monday](https://open.spotify.com/album/0eFUJSWJmsSBilHaSP7ZGL) | 1:40 | 2022-08-05 | 2022-12-17 |
@@ -919,7 +920,7 @@
 | [Nanny's Lullaby](https://open.spotify.com/track/6vxZvCHuexWyAj0VdJsGnS) | [1930](https://open.spotify.com/artist/04qLskUo3x0vMixvZxCK78) | [Nanny's Lullaby](https://open.spotify.com/album/0EJDO54exCA6ix4hhzxhoV) | 2:23 | 2022-09-30 | 2023-04-21 |
 | [Nardis](https://open.spotify.com/track/0MO6SnNz53dYGbAb0UFBx9) | [UKDD](https://open.spotify.com/artist/14AiEXtiaKk6yF7YO2fap8), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Nardis](https://open.spotify.com/album/2DL0X8hLdbYSKlBUIgTqG2) | 2:18 | 2022-12-09 | 2023-09-29 |
 | [Natsumi](https://open.spotify.com/track/4GQ8CyrjkROX6hiM7q1d2H) | [Neko Kedi](https://open.spotify.com/artist/785Hs8MoBt2oTIRtfEtsuw) | [Natsumi](https://open.spotify.com/album/72FhFkkn8epsa96noAjLMJ) | 2:06 | 2024-10-04 |  |
-| [natten](https://open.spotify.com/track/328jz9mv74DFbfzLQHU0BJ) | [archipelago beats](https://open.spotify.com/artist/7kv4vSxfaAfdzaq6Ogd272) | [natten EP](https://open.spotify.com/album/4BNeqht3X7y0yeNo9tE45h) | 2:27 | 2023-01-13 |  |
+| [natten](https://open.spotify.com/track/328jz9mv74DFbfzLQHU0BJ) | [archipelago beats](https://open.spotify.com/artist/7kv4vSxfaAfdzaq6Ogd272) | [natten EP](https://open.spotify.com/album/4BNeqht3X7y0yeNo9tE45h) | 2:27 | 2023-01-13 | 2025-05-30 |
 | [Nattsudd](https://open.spotify.com/track/6HMT16Rk6JTTQ2LuYLHVRb) | [Overklig](https://open.spotify.com/artist/44GjBAdTaRpLUjQi7wJMa2) | [Nattsudd](https://open.spotify.com/album/1oJoXscf6fpPQKbzDJe2OT) | 2:36 | 2022-01-27 | 2022-07-08 |
 | [NEAR](https://open.spotify.com/track/72u6WlUdYIx62Z33Xvh7A4) | [SINY](https://open.spotify.com/artist/6d1bmKQyB8OJWCOJJPCkVT) | [Shinigami](https://open.spotify.com/album/47couheC4wUEeHig9mBYHW) | 1:35 | 2022-01-27 | 2022-06-10 |
 | [Necklace \- Coffe Ambience](https://open.spotify.com/track/6UbEwbpoVMUDNG94ART8qm) | [Azurenity](https://open.spotify.com/artist/670tCQfj3LeVsUqb2SY4Rs) | [Necklace](https://open.spotify.com/album/5Bl50pCXxV6cRISd7uNcFu) | 2:34 | 2022-05-27 |  |
@@ -1260,7 +1261,7 @@
 | [Soul Kitchen](https://open.spotify.com/track/5rwkMQ0tfHdy7zIYDSoKAQ) | [Hi Hat Henry](https://open.spotify.com/artist/7tsp47BEDJSjYQB0YaDV52) | [Soul Kitchen](https://open.spotify.com/album/1ipcVG3TDzv8owuTVMu4tE) | 1:24 | 2022-01-27 | 2022-06-10 |
 | [Soul Single Serenade](https://open.spotify.com/track/3PLYtvrUO5s2nzzx12DNxX) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Soul Single Serenade](https://open.spotify.com/album/71zjHfvYVpew9IVpwXR5ve) | 2:27 | 2022-01-27 | 2022-07-08 |
 | [Soul Sister](https://open.spotify.com/track/6e13KTREbbwyAoTJVf8N26) | [Crate Diggers](https://open.spotify.com/artist/0WOGvsLAjAft28z7O3QHQ8) | [Maria](https://open.spotify.com/album/5T46u2h98CjDlCwgd3D9oW) | 1:22 | 2022-01-27 | 2022-05-27 |
-| [Soulful Views](https://open.spotify.com/track/6wf4jJ4EH6cz766YHW3ds2) | [Starlies](https://open.spotify.com/artist/3ZXBbe1WF1PfwggpEOcips), [Ouflen](https://open.spotify.com/artist/1RFUrCY2wxQaLw6NjAnnT7) | [Soulful Views](https://open.spotify.com/album/7e367sNgfpUFVxQ5N1RWrs) | 2:49 | 2023-05-19 | 2025-02-28 |
+| [Soulful Views](https://open.spotify.com/track/6wf4jJ4EH6cz766YHW3ds2) | [Starlies](https://open.spotify.com/artist/3ZXBbe1WF1PfwggpEOcips), [Ouflen](https://open.spotify.com/artist/1RFUrCY2wxQaLw6NjAnnT7) | [Soulful Views](https://open.spotify.com/album/7e367sNgfpUFVxQ5N1RWrs) | 2:49 | 2023-05-19 |  |
 | [Sounds like fog](https://open.spotify.com/track/1MAKPG2lOnh7wO51jLLjkC) | [Gotharoo](https://open.spotify.com/artist/2HAhra1YtinE3FIIuYEDHQ) | [Sounds like fog](https://open.spotify.com/album/2h0IQwmC5MDUtWSqQhC0UH) | 2:41 | 2022-10-28 | 2023-03-09 |
 | [Space Fern](https://open.spotify.com/track/1Rh6LJdVGmt2A3GKGT1KFN) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS) | [Midnight Glow, Vol\. 2](https://open.spotify.com/album/5OY4f2lUocQL384e0qV8ow) | 1:49 | 2022-01-27 | 2022-08-19 |
 | [Spaceship](https://open.spotify.com/track/2k3yUnrVcubhOz4gP68rKR) | [Roe Cutz](https://open.spotify.com/artist/3tv9tFr4bEFisyEYhXkyxQ) | [Spaceship](https://open.spotify.com/album/4dehvMyckUXDL96dllQolm) | 2:24 | 2023-04-20 | 2023-05-20 |
@@ -1562,7 +1563,7 @@
 | [WorkinOnIt](https://open.spotify.com/track/6LWGINtQbDX9tdfQDIAmNJ) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt), [n o r m a l](https://open.spotify.com/artist/299YwUx9tIS10VkkAujnMt) | [WorkinOnIt](https://open.spotify.com/album/57vOrniaei6IvRen9ZoOX2) | 2:50 | 2022-11-11 | 2023-09-29 |
 | [Works of Fiction](https://open.spotify.com/track/4OIWPBw1keXcCsTBh1Jw39) | [Woozy Youngster](https://open.spotify.com/artist/2gbULTKiTcbVhrVXKJ1tCV) | [The One Who Could](https://open.spotify.com/album/5eBAuicfa2N0dWtoDcCtRj) | 2:48 | 2022-06-10 | 2023-08-04 |
 | [wrong room?](https://open.spotify.com/track/6zvGDFWAM91P1huvcUgPo3) | [slowerful](https://open.spotify.com/artist/6dDjZKFRB1MhmnxZiKegdq) | [wrong room?](https://open.spotify.com/album/7uTtXbBmXvfr227RczFqtt) | 2:29 | 2022-01-27 | 2023-06-06 |
-| [Wrong Turn](https://open.spotify.com/track/78gnsPk8zQmrUiUu2Mp8Kf) | [Halfspeed](https://open.spotify.com/artist/2R0QLg5yVU6Z5aGyhEjR0b) | [Wrong Turn](https://open.spotify.com/album/23TgVhteU8ps5VPXiER7Ti) | 1:22 | 2023-01-13 |  |
+| [Wrong Turn](https://open.spotify.com/track/78gnsPk8zQmrUiUu2Mp8Kf) | [Halfspeed](https://open.spotify.com/artist/2R0QLg5yVU6Z5aGyhEjR0b) | [Wrong Turn](https://open.spotify.com/album/23TgVhteU8ps5VPXiER7Ti) | 1:22 | 2023-01-13 | 2025-05-30 |
 | [Wroom!](https://open.spotify.com/track/1xDK5y3GqJzcy9QATqVeiX) | [Byz Playground](https://open.spotify.com/artist/0BMwJwRVDIJwATictkQzky) | [Wroom!](https://open.spotify.com/album/5l2hQ0NPpBF0ey1nrVw0Ee) | 1:40 | 2022-12-09 | 2023-08-04 |
 | [Wun](https://open.spotify.com/track/1gE2YJrgu8jRfLENtC9Bjf) | [Dream Web](https://open.spotify.com/artist/0xhiRy2F05NVIpB4GKReES) | [Wun](https://open.spotify.com/album/6oqzhDL5OBYl86OIMKWeKd) | 4:00 | 2022-01-27 | 2022-07-08 |
 | [XOXO](https://open.spotify.com/track/6Bc5p9BJM9YPS9sZNaBp9V) | [Nostalgique](https://open.spotify.com/artist/4i29Lf2vHDzbCPrkdP3uoM) | [Night Life](https://open.spotify.com/album/5cNuT4skHDNiMmiwehhknD) | 1:31 | 2022-01-27 | 2022-06-10 |

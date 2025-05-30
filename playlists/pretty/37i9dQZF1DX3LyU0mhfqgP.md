@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > Songs from LGBTQIA+ artists\. Cover: iolanda
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,079,445 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,079,443 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 49 | [lose her](https://open.spotify.com/track/3LSnjjRclQUlY3H94wuTc1) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [kissing under an \(almost\) full moon](https://open.spotify.com/album/65zcYqi7ANpju4Xui1cWFJ) | 4:10 |
 | 50 | [Mouth Flash \(Kuchinohanabi\)](https://open.spotify.com/track/5QneXGb9baT7XSjqZvQdYl) | [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi) | [Mahōgakkō](https://open.spotify.com/album/4pNJ4qCheT1fQASProMDrj) | 3:50 |
 
-Snapshot ID: `AAAAAAo2Up8Y4R4RanAlppX6gSGluj67`
+Snapshot ID: `aDTkYAAAAABpRfPVCQ/sPprJT88Olf7m`

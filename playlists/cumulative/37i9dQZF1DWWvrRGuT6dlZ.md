@@ -2,9 +2,9 @@
 
 ### [Fresh Finds SG & MY](https://open.spotify.com/playlist/37i9dQZF1DWWvrRGuT6dlZ)
 
-> Celebrating 10 years of  unearthing your new favourite artists\. Cover: owellciao\. Artwork: Isu Kim.
+> Celebrating 10 years of  unearthing your new favourite artists\. Cover: Amrita Soon\. Artwork: Isu Kim.
 
-1,014 songs - 2 day 7 hr 6 min
+1,018 songs - 2 day 7 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [A Time](https://open.spotify.com/track/1uhl3sqIBe3lDViAzZWFLA) | [Islandeer](https://open.spotify.com/artist/4c3qTot194QRzZbjM3Q8ov) | [A Time](https://open.spotify.com/album/6nkTM36uJsiQm9GZdAQUXY) | 2:55 | 2024-01-11 | 2024-11-22 |
 | [abyss](https://open.spotify.com/track/0Cve3DjYpYYA8R4MNE79Zu) | [khayr](https://open.spotify.com/artist/3fZ2biq7TE8pYQLDGfRd2A) | [abyss](https://open.spotify.com/album/044ciJnjsQPMsSLgGvr4tE) | 3:05 | 2022-11-10 | 2023-06-16 |
 | [act too nice, be too dumb](https://open.spotify.com/track/6d5Qo1pfi6f2dk3GI0H2ap) | [Sabrina Nicolette](https://open.spotify.com/artist/6DxUkGnJDY3BIubtX1afwj) | [act too nice, be too dumb](https://open.spotify.com/album/05pZcnUnfaI7ZLzSixe17n) | 3:13 | 2021-12-01 | 2022-01-14 |
+| [ADIMAI](https://open.spotify.com/track/4fJq3KI3Wa0kxVyY4huDrZ) | [Santesh](https://open.spotify.com/artist/7DWSfLX0stZ7Fm4JssbiN6), [Jason Penerselvam](https://open.spotify.com/artist/203p1jM90ugEbq3N0vX6PH) | [ADIMAI](https://open.spotify.com/album/0Ga8XhLre9K8LMhBpjqkA9) | 3:12 | 2025-05-29 |  |
 | [Adolescence](https://open.spotify.com/track/7kJF6LXAdGFFYIBG0ORnjv) | [Burmese Bombshells](https://open.spotify.com/artist/2LjrfHF7nEMEDoTd4eJ522) | [Adolescence](https://open.spotify.com/album/4GpeNL5ruYdieY9QLK2cTk) | 4:20 | 2022-01-13 | 2023-01-13 |
 | [adore me](https://open.spotify.com/track/5QsjLpEsXspFtlBXKdmTr7) | [ANNÉ](https://open.spotify.com/artist/0mI2naVcev6UnXkXKmG4kf) | [adore me](https://open.spotify.com/album/7GFKXQ6QZXx89jLI2nCHaW) | 2:30 | 2025-03-13 | 2025-05-17 |
 | [Aftercare](https://open.spotify.com/track/79DiVsERsCMjpM5hjwF1as) | [Patra](https://open.spotify.com/artist/4eXQQns9uWmVosCTNQgeSs) | [Aftercare](https://open.spotify.com/album/1d1DXjCUjgGyeKS8jMumva) | 2:20 | 2025-01-24 | 2025-04-04 |
@@ -84,6 +85,7 @@
 | [BAD BAD](https://open.spotify.com/track/4lVrAXlQJZdATFVAqEIazO) | [Saint Kylo](https://open.spotify.com/artist/2bxZxx4s1Nn6FbSvsE8jnA) | [BAD BAD](https://open.spotify.com/album/07wwlkBxsuhKsyxi4TcKBX) | 3:27 | 2022-08-18 | 2023-02-10 |
 | [Bad Dream](https://open.spotify.com/track/4A13g03FEeD4hAH5JnxBp7) | [An Honest Mistake](https://open.spotify.com/artist/10AFY2pkSdVHy940701lu6), [Patriots](https://open.spotify.com/artist/4kbQeef0lyT1hmytT6xyUJ), [Bright Minder](https://open.spotify.com/artist/0SzTWLfzCw9i8xBXtiKLz0) | [Bad Dream](https://open.spotify.com/album/3WUPRxenLBnvIuth0uIKwM) | 3:09 | 2022-02-24 | 2023-01-13 |
 | [baltimore](https://open.spotify.com/track/4BOfEeprYc7YASJdxEFRUc) | [kiingkess](https://open.spotify.com/artist/6hVsLLm8Ny0Vn2sY73Rukr) | [baltimore](https://open.spotify.com/album/7rcvOnx1ucyswGYtRhAVOe) | 2:13 | 2024-02-25 | 2024-11-22 |
+| [Basstamam](https://open.spotify.com/track/16s058nbVmbop2Uwrue65n) | [Syed Iqbal](https://open.spotify.com/artist/47xUKiYI5ZIf9vtn27XVNk) | [Basstamam](https://open.spotify.com/album/3h6mdN6mTlaLZwb7y6X5Mr) | 3:04 | 2025-05-29 |  |
 | [Battles](https://open.spotify.com/track/2jDPTVDP4QNGgHfEDYJIUr) | [Izat Ibrahim](https://open.spotify.com/artist/7H7lmD1o6jjZFvclnVDIwc) | [Battles](https://open.spotify.com/album/2QNc9X23wz8vnt5MIeoGUN) | 2:55 | 2021-12-01 | 2022-01-14 |
 | [BBM \(Beef Bone Marrow\)](https://open.spotify.com/track/4foCnPJQXK78WDsmKRbKt6) | [Woes](https://open.spotify.com/artist/3RHT7tkSLfPzlgP44ysf6H) | [Temporal Dimension](https://open.spotify.com/album/3CHTsJNm9gm3GZpASoguOX) | 2:40 | 2023-11-09 | 2024-02-16 |
 | [Be Kind](https://open.spotify.com/track/1r73DoCuAo0SN5Jh80z0gC) | [shazza](https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD) | [Be Kind](https://open.spotify.com/album/7HM12F2hFEIuQW2URxMrkv) | 2:46 | 2022-06-16 | 2022-09-16 |
@@ -373,6 +375,7 @@
 | [How](https://open.spotify.com/track/5Llyery4t5DXTlAYhJNBQ7) | [Anthea Anne](https://open.spotify.com/artist/2fr7njpYGNic2CH50HMGEe) | [How](https://open.spotify.com/album/2UsP0ulnEYtY92b9yLAPYq) | 4:44 | 2023-09-14 | 2024-01-19 |
 | [How Am I Not Famous](https://open.spotify.com/track/6zLX1ZbNgRRHNdyeO86XQ1) | [Amari Teague](https://open.spotify.com/artist/2fu7Ig6d88h9W1gyFoo0vC) | [How Am I Not Famous](https://open.spotify.com/album/7BwUkiabCyj9MWXOqsL1i1) | 1:55 | 2024-11-21 | 2025-04-04 |
 | [How do I survive ?](https://open.spotify.com/track/0NO6ukpDZS0qFaZ0weDDwA) | [Raf Kairyl](https://open.spotify.com/artist/5t6OuSln7p4rnAwizjzSyT), [K\-Mobu](https://open.spotify.com/artist/6CBN8htbmAsThxTb2TWvUQ) | [How do I survive ?](https://open.spotify.com/album/4ty39NXUIEOowUjtWjgW40) | 2:24 | 2022-07-07 | 2022-09-23 |
+| [HOW DO YOU SLEEP?](https://open.spotify.com/track/43FuhOu2hmOuTEzRKWECOO) | [Nigel Zhen](https://open.spotify.com/artist/31ErICn21CyTGivaRu1SpE) | [HOW DO YOU SLEEP?](https://open.spotify.com/album/0bEMqWopVwRERDgnHPaScq) | 3:33 | 2025-05-29 |  |
 | [How Much I Love You](https://open.spotify.com/track/5vKndiPBueOaTN1P9lQwfa) | [MOTUS.SG](https://open.spotify.com/artist/7tuB7LkGxGec6TBzNbxO6b) | [How Much I Love You](https://open.spotify.com/album/1897C7mz4NrXSo8aTWjLHj) | 4:32 | 2022-01-13 | 2022-03-25 |
 | [HUMPTY DUMPTY REPRISE](https://open.spotify.com/track/2Zy15gif4V2WLt0GUaCv89) | [Ihasamic!](https://open.spotify.com/artist/1iQWokgeROUSPQ8L39ycdh), [Wovensound](https://open.spotify.com/artist/5EdTcCnecu4gcvXdZHqsfq), [Axel Brizzy](https://open.spotify.com/artist/25WvXcmQl42yfbnOlfM3JB), [kozy allways](https://open.spotify.com/artist/68IGPZDzdsLulAkXZ3Hk6G), [Frission](https://open.spotify.com/artist/6LZBEV05qn9E7o6KZSqQ9l), [Hasyir Ibrahim](https://open.spotify.com/artist/2s7x0aJAEuKTbiREMBkrp9), [Umar Sirhan](https://open.spotify.com/artist/1aBGLr4Mt61I8hhejBgNnk) | [REPRISE](https://open.spotify.com/album/3gavjGfvl4aiy0OIfByV3e) | 2:30 | 2023-01-12 | 2023-06-16 |
 | [HUOY \(I A F Remix\)](https://open.spotify.com/track/3wnH3eaH3rn8gyruSsRvsD) | [Joel See](https://open.spotify.com/artist/44DkJ4VKIXuLWfpyL9Tbps), [I A F](https://open.spotify.com/artist/06LlHaKG2UBtZdp4iyg4MK) | [HUOY \(I A F Remix\)](https://open.spotify.com/album/1C5tU1vYajSiNOG0ZEN19S) | 3:22 | 2022-01-20 | 2023-01-13 |
@@ -709,6 +712,7 @@
 | [Rose Tinted Eyes](https://open.spotify.com/track/76fmIfIURZyrGgdq2qGmm8) | [Half Open Tales](https://open.spotify.com/artist/4K53wLhKH9D0BOiwDDW7bO) | [Rose Tinted Eyes](https://open.spotify.com/album/6Vfc9B57eWm1cfzCijhMhI) | 2:47 | 2025-04-03 | 2025-05-17 |
 | [ROUNDABOUT](https://open.spotify.com/track/2YCMNYDyV35VaHnKz7Ip2D) | [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK) | [ROUNDABOUT](https://open.spotify.com/album/1PetiQ0Jbju87l6c1YG0ey) | 2:56 | 2024-03-15 | 2024-11-22 |
 | [ROUNDABOUT](https://open.spotify.com/track/6aNtR6rfbHC6KBlipWjIB9) | [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK) | [WHERE ARE YOU NOW THAT IT'S OVER?](https://open.spotify.com/album/0vZ2TnJ14bTm1KbHYUFHU0) | 2:56 | 2024-12-04 | 2025-01-18 |
+| [Run](https://open.spotify.com/track/7H58NQ8Fu4bHpnevGa4IXd) | [Amrita Soon](https://open.spotify.com/artist/0amxkyGtZNA3pn83mkrtNz) | [Run](https://open.spotify.com/album/3h5vYocS9qmzRXTbHeuvXX) | 3:13 | 2025-05-29 |  |
 | [Run Again \(Acoustic\)](https://open.spotify.com/track/0r7x4FURS4dwkPZah6Nosf) | [Phoebe Tsen](https://open.spotify.com/artist/06Bshz3mErx5BEZxwd4gPE) | [Run Again \(Acoustic\)](https://open.spotify.com/album/66cDvMNDovrj2QNnL7aCs9) | 3:08 | 2022-03-31 | 2022-06-17 |
 | [runaway](https://open.spotify.com/track/7i0d63oU4w3KJHCwAzj0JA) | [cloud nyla](https://open.spotify.com/artist/629WSHXuR88ZyYf7DV9l9G), [gels](https://open.spotify.com/artist/64A8LUUbYeqJBw4rv0OTxf) | [runaway](https://open.spotify.com/album/3RshPmToF6577Qpo7B2ePv) | 2:46 | 2024-03-21 | 2025-01-18 |
 | [Runaway](https://open.spotify.com/track/7u9v35EFgZJgzgFlUm6MoY) | [The New Modern Lights](https://open.spotify.com/artist/7fwPJniDEJ1ld3lzqZhs1D) | [The Distance Between Us](https://open.spotify.com/album/4XlMcnW7hte39E8gvuU3m9) | 4:18 | 2022-01-13 | 2022-06-17 |

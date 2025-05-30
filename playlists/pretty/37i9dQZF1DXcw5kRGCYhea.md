@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcw5kRGCYhea.md) - [plain]
 
 > Vibrez au rythme des morceaux urbains et Afro en feu 🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,552 likes - 39 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,645 likes - 39 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcw5kRGCYhea.md) - [plain]
 | 2 | [LAKAMURA \(LOLE LOLE\)](https://open.spotify.com/track/7GpRfqWrmhflvcIFPcvdS7) | [JamShow](https://open.spotify.com/artist/0nCMA6dYea3Y08bsnB0xrx), [Lakamura](https://open.spotify.com/artist/1ocBu5jVKJJ6xW0Sw0r87b) | [PRIME 6 'FINALE'](https://open.spotify.com/album/47kEZ7v8J6d9sU9rMYg8fB) | 3:19 |
 | 3 | [Totopika](https://open.spotify.com/track/6eb5omKnWjZabRNYVj3Lsj) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Totopika](https://open.spotify.com/album/2RnvdenjPNouk7sUE3aPzg) | 2:19 |
 | 4 | [Mok ya mok](https://open.spotify.com/track/5JobkufjKtdGgCASCaOGCP) | [Benny Adam](https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA), [Khadija El Warzazia](https://open.spotify.com/artist/2ygf9jdzulwgls2Gx1jTdm) | [Mok ya mok](https://open.spotify.com/album/0glB4KAxl5lStonhyTUi1g) | 2:38 |
-| 5 | [WALLAHI](https://open.spotify.com/track/6qUFq3ngBLDBb2fTFug7bb) | [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [BLÉDARD \(Deluxe\)](https://open.spotify.com/album/1t0XKmyNXVbWkg0gNptaHd) | 2:32 |
-| 6 | [Wsalni MSG](https://open.spotify.com/track/2FeOGXvdm9yTD0HaNTqndu) | [Hassa1](https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr), [Flack](https://open.spotify.com/artist/3Fi4gBbVvIHrqEG9TGwRTC) | [Prince](https://open.spotify.com/album/3l2WhIJt45Lw46JOLDfms9) | 2:36 |
+| 5 | [Wsalni MSG](https://open.spotify.com/track/2FeOGXvdm9yTD0HaNTqndu) | [Hassa1](https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr), [Flack](https://open.spotify.com/artist/3Fi4gBbVvIHrqEG9TGwRTC) | [Prince](https://open.spotify.com/album/3l2WhIJt45Lw46JOLDfms9) | 2:36 |
+| 6 | [WALLAHI](https://open.spotify.com/track/6qUFq3ngBLDBb2fTFug7bb) | [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [BLÉDARD \(Deluxe\)](https://open.spotify.com/album/1t0XKmyNXVbWkg0gNptaHd) | 2:32 |
 | 7 | [Ti RIRI](https://open.spotify.com/track/1IjFRytMHtnZlB0hsropac) | [Hustle](https://open.spotify.com/artist/1L5bAK9LJyz4ef1QIn1n1N) | [Ti RIRI](https://open.spotify.com/album/1aMM9FxV9p9ApIGge4m3od) | 2:23 |
 | 8 | [Ma Jolie](https://open.spotify.com/track/1RpfpLMsvQB9voSXa973SP) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [Cagoulé](https://open.spotify.com/album/1SdZSJjT89FHOVsT7ofFta) | 2:24 |
 | 9 | [DELLALI \(feat\. Hamza\)](https://open.spotify.com/track/2oMCQhVDHhzKEHk5rN6T1E) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [27](https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8) | 3:02 |
@@ -40,12 +40,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcw5kRGCYhea.md) - [plain]
 | 30 | [3ADI JIDAN](https://open.spotify.com/track/2wNNXprT139bOoaBGmc12V) | [Dada](https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0) | [M.I.M](https://open.spotify.com/album/16VwVZ1dFAaCXAeQrsyit8) | 2:52 |
 | 31 | [KIF KIF](https://open.spotify.com/track/23iRPid7TsITfNxKGL0toM) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv) | [KIF KIF](https://open.spotify.com/album/7DeGLtJG2R45QJrHW1NLLF) | 3:47 |
 | 32 | [Machi Bedala](https://open.spotify.com/track/5Xi5ArUrhw7xYz4ZtGGiRv) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Machi Bedala](https://open.spotify.com/album/7oxjlOyaQWurxc93M6YH60) | 3:44 |
-| 33 | [Skhoon](https://open.spotify.com/track/0lWhFSQ7eWejR3mOYPJ4zy) | [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [Skhoon](https://open.spotify.com/album/6jrdwfwfKKQbs7kbhnN3Z2) | 2:59 |
-| 34 | [PIRATE](https://open.spotify.com/track/7L6iM8mnj0t2WW0Fjre5pG) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [OMEGA](https://open.spotify.com/album/2WOuni1EwCyGVYIeN0LXXt) | 2:59 |
-| 35 | [Hibou](https://open.spotify.com/track/4gr4oZB1TKipXwMd02iUg3) | [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT), [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Hibou](https://open.spotify.com/album/6JJxwyARdiQCzVxjp87HgU) | 2:48 |
-| 36 | [COLD PALMER](https://open.spotify.com/track/5pPMlUR87OAXecDB3s1am7) | [Mirv48](https://open.spotify.com/artist/2ORmu3PJ825VSiXknGy6Ma) | [COLD PALMER](https://open.spotify.com/album/1xnQozBIU83NvwAnboEzGW) | 3:10 |
-| 37 | [LILA](https://open.spotify.com/track/5CkDVJBrBjYduZiPtPmgRW) | [SCOOL BOY](https://open.spotify.com/artist/5suJPIX3Y4r4hEIrz60szV) | [LILA](https://open.spotify.com/album/06CGM6DLyWKlbP1YYidQtx) | 2:44 |
-| 38 | [Nfss Lhala](https://open.spotify.com/track/4Sf0D2p1XLbfnVAAFFLl0E) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Nfss Lhala](https://open.spotify.com/album/4UPtx2VWPSsMIVPThB2cW7) | 3:20 |
-| 39 | [KAN DENDEN](https://open.spotify.com/track/7nRCeXAwV3ByM8xJMf0mrE) | [Kartman](https://open.spotify.com/artist/0IYNXXKJHf0Tc01lA7l0dg) | [BALA W FAS](https://open.spotify.com/album/2QIh9VO7NiTo2BCqFnl9qa) | 3:20 |
+| 33 | [KAN DENDEN](https://open.spotify.com/track/7nRCeXAwV3ByM8xJMf0mrE) | [Kartman](https://open.spotify.com/artist/0IYNXXKJHf0Tc01lA7l0dg) | [BALA W FAS](https://open.spotify.com/album/2QIh9VO7NiTo2BCqFnl9qa) | 3:20 |
+| 34 | [Skhoon](https://open.spotify.com/track/0lWhFSQ7eWejR3mOYPJ4zy) | [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [Skhoon](https://open.spotify.com/album/6jrdwfwfKKQbs7kbhnN3Z2) | 2:59 |
+| 35 | [PIRATE](https://open.spotify.com/track/7L6iM8mnj0t2WW0Fjre5pG) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [OMEGA](https://open.spotify.com/album/2WOuni1EwCyGVYIeN0LXXt) | 2:59 |
+| 36 | [Hibou](https://open.spotify.com/track/4gr4oZB1TKipXwMd02iUg3) | [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT), [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Hibou](https://open.spotify.com/album/6JJxwyARdiQCzVxjp87HgU) | 2:48 |
+| 37 | [COLD PALMER](https://open.spotify.com/track/5pPMlUR87OAXecDB3s1am7) | [Mirv48](https://open.spotify.com/artist/2ORmu3PJ825VSiXknGy6Ma) | [COLD PALMER](https://open.spotify.com/album/1xnQozBIU83NvwAnboEzGW) | 3:10 |
+| 38 | [LILA](https://open.spotify.com/track/5CkDVJBrBjYduZiPtPmgRW) | [SCOOL BOY](https://open.spotify.com/artist/5suJPIX3Y4r4hEIrz60szV) | [LILA](https://open.spotify.com/album/06CGM6DLyWKlbP1YYidQtx) | 2:44 |
+| 39 | [Nfss Lhala](https://open.spotify.com/track/4Sf0D2p1XLbfnVAAFFLl0E) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Nfss Lhala](https://open.spotify.com/album/4UPtx2VWPSsMIVPThB2cW7) | 3:20 |
 
-Snapshot ID: `aDVb6QAAAACXshGllqZa46jqhHoYtTeb`
+Snapshot ID: `aDkDMAAAAADmuBWYH9wFIr3GMQv4wnD7`

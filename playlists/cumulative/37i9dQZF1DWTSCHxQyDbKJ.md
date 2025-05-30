@@ -4,7 +4,7 @@
 
 > Necessities from LGBTQIA+ artists\. Cover: Elton John
 
-228 songs - 12 hr 24 min
+231 songs - 12 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [alone](https://open.spotify.com/track/6wpOHVSrinXhKqF4EBbpuS) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [alone](https://open.spotify.com/album/29sXbgWHLAjGcshP5zHCpW) | 2:52 | 2024-06-10 |  |
 | [Always Forever](https://open.spotify.com/track/2kSeF6yZz3wLFchfnX0xfO) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Always Forever](https://open.spotify.com/album/65otcCeyfEPtdY4DZMgPtF) | 3:05 | 2024-06-10 |  |
 | [Anything](https://open.spotify.com/track/4C6A9i2wiawiFgnKLAruaW) | [Polly Money](https://open.spotify.com/artist/7Aem5tZTNcNDFBh3HBdOON) | [Anything](https://open.spotify.com/album/0kCsEG4eJcywmJb1tewQwR) | 3:25 | 2024-09-09 |  |
-| [Are You Ready Now?](https://open.spotify.com/track/4AxcUAv6Y87hSDLl4Lqq2s) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Heaven Can Wait](https://open.spotify.com/album/6dweyz4Y0Uyo3fVrz0vgsD) | 3:35 | 2024-10-07 |  |
+| [Are You Ready Now?](https://open.spotify.com/track/4AxcUAv6Y87hSDLl4Lqq2s) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Heaven Can Wait](https://open.spotify.com/album/6dweyz4Y0Uyo3fVrz0vgsD) | 3:35 | 2024-10-07 | 2025-05-30 |
 | [Are You Ready Now?](https://open.spotify.com/track/5IEQUM87X2zSFfsFJ9vir7) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Are You Ready Now?](https://open.spotify.com/album/6xbmpgRs0VTklRRVHIpmrn) | 3:35 | 2024-12-04 | 2025-01-14 |
 | [Aw, Shoot!](https://open.spotify.com/track/4D7db0sTmEWYf9aAzCJl9c) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Aw, Shoot!](https://open.spotify.com/album/2MrVs5OGnY7RGn33GiB2pu) | 3:28 | 2024-06-14 |  |
 | [B.I.L.L.S.](https://open.spotify.com/track/1doyPSKlfeIyA6s4NSwXPn) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [American Hero](https://open.spotify.com/album/21HMENCxfw31djGv60lk88) | 2:14 | 2024-12-04 | 2025-01-14 |
@@ -33,7 +33,7 @@
 | [Better Off](https://open.spotify.com/track/4kEt94IvVWYL46YiHhRdNB) | [Dréya Mac](https://open.spotify.com/artist/03AVZyE7WnmLY4rTL1s0RP) | [Better Off](https://open.spotify.com/album/0gF03DYa7rRpGuSS6jx66Q) | 2:15 | 2024-07-08 | 2024-08-13 |
 | [Big Machine](https://open.spotify.com/track/75TJ9jx0geVtyjfHx8b6mO) | [Liz Lawrence](https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC) | [Peanuts](https://open.spotify.com/album/4umimrxQlVJj2YyiFjAnlJ) | 3:57 | 2024-06-14 | 2024-08-26 |
 | [Big Man](https://open.spotify.com/track/1kgEHdcA1hesiL4qFISZc4) | [Self Esteem](https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe), [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw) | [Big Man](https://open.spotify.com/album/5yW6Sr7FABZxe95FEEKEkb) | 4:13 | 2024-12-04 | 2025-01-14 |
-| [Bite The Hand](https://open.spotify.com/track/2dFREjV7w8TunHysQtcYj5) | [Harry Strange](https://open.spotify.com/artist/33hzAXIWsHwT9LxvlQ1ZAr) | [Bite The Hand / Kind of Love](https://open.spotify.com/album/4Ehq3wUDJzv6pWVFWW8V6T) | 2:38 | 2024-06-10 |  |
+| [Bite The Hand](https://open.spotify.com/track/2dFREjV7w8TunHysQtcYj5) | [Harry Strange](https://open.spotify.com/artist/33hzAXIWsHwT9LxvlQ1ZAr) | [Bite The Hand / Kind of Love](https://open.spotify.com/album/4Ehq3wUDJzv6pWVFWW8V6T) | 2:38 | 2024-06-10 | 2025-05-30 |
 | [Body of Mine](https://open.spotify.com/track/18DJZuLkgGwKtSDeOMrUsB) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [God's Country / Body of Mine](https://open.spotify.com/album/630TvkzIGIJtmfd04Li7Ql) | 2:11 | 2024-06-10 |  |
 | [Boy Clothes](https://open.spotify.com/track/7nuCxvFvVT5YEAjSDd6Glr) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [Boy Clothes](https://open.spotify.com/album/6WGqWtYCHsA1St6RupTo4F) | 2:14 | 2025-02-11 |  |
 | [Break You](https://open.spotify.com/track/3lp0POJTRk9qFKF2keDpJV) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Break You](https://open.spotify.com/album/7DcUOc7DA2zHoQVudHCPaR) | 2:19 | 2024-06-10 | 2024-10-15 |
@@ -107,10 +107,11 @@
 | [Hectic](https://open.spotify.com/track/5Ia7bTwJ1gTCFlztPvSHRC) | [Jodie Harsh](https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i) | [Hectic](https://open.spotify.com/album/2UKVkOF6pHGKleJXFL32dB) | 2:37 | 2024-06-10 | 2024-12-05 |
 | [HENRY'S REVENGE](https://open.spotify.com/track/43ibXIVa1Vz273QcmTtNEU) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [HENRY'S REVENGE](https://open.spotify.com/album/0JwZDMbKZtTjBViOxbsVq7) | 4:24 | 2024-06-10 | 2025-03-08 |
 | [Hex So Heavy](https://open.spotify.com/track/7mH4bjq5xH7V154h2wOwwb) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC) | [Hex So Heavy](https://open.spotify.com/album/4lMUdnfOb3Aq0wIHoxhHy4) | 3:05 | 2024-09-09 |  |
+| [Higher](https://open.spotify.com/track/4TQ5N0lCI7HC89Kn8DybZP) | [Paige Eliza](https://open.spotify.com/artist/6zwVg9raWBJhhCpd8Etrey) | [Higher](https://open.spotify.com/album/42EYV7glkIuaDiFoFDKD4T) | 3:03 | 2025-05-29 |  |
 | [Hot and Stupid](https://open.spotify.com/track/0B9yMae4fLWvjDQGFKon40) | [Beth McCarthy](https://open.spotify.com/artist/2ba5BHaaNzyzG5ZEfKXIF2) | [Hot and Stupid](https://open.spotify.com/album/3RmYXWeVscd3fLgjS0c7tW) | 2:23 | 2025-02-14 |  |
 | [Humanity](https://open.spotify.com/track/582wDszLo3ASfJVxMRQr93) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [STARFACE](https://open.spotify.com/album/2ygz2yoIAR5S9WWIxnvkAL) | 3:20 | 2024-12-04 | 2025-01-14 |
 | [Humanity](https://open.spotify.com/track/7IjLwKOvFCNxy59yZ5sVRb) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Humanity](https://open.spotify.com/album/46K0JxHJHa6jRwd0tZGwCo) | 3:20 | 2024-06-10 | 2024-08-20 |
-| [i can't get my shit together](https://open.spotify.com/track/5QQH0yRUbD4fYqNWKiPX9I) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [i can't get my shit together](https://open.spotify.com/album/4Q1JfWQoV1zWHLejdhpyey) | 2:53 | 2024-06-10 |  |
+| [i can't get my shit together](https://open.spotify.com/track/5QQH0yRUbD4fYqNWKiPX9I) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [i can't get my shit together](https://open.spotify.com/album/4Q1JfWQoV1zWHLejdhpyey) | 2:53 | 2024-06-10 | 2025-05-30 |
 | [I Don't Miss You \(I Just Miss Your Mum\)](https://open.spotify.com/track/1y4PXL5npR2o7mC6XzMW5Y) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [I Don't Miss You \(I Just Miss Your Mum\)](https://open.spotify.com/album/7hANRh9kW0YFQ3GWTI0ER5) | 2:55 | 2024-07-08 | 2024-08-13 |
 | [I Know It Happened But I Can't Explain](https://open.spotify.com/track/1PRY3whxLdyRwOWROuakG8) | [Zoe Konez](https://open.spotify.com/artist/56zdMqayB3Ja8iwUmdKumu) | [I Know It Happened But I Can't Explain](https://open.spotify.com/album/0Qxnmt9laQJu48svYZQ6Xt) | 3:08 | 2024-06-10 | 2025-01-18 |
 | [I Want What I Don't Need](https://open.spotify.com/track/1BBI0SWpDYIoOmgue9ncqI) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [That Golden Time](https://open.spotify.com/album/69u5RXvbCnrLgf2zV8VGey) | 3:35 | 2024-12-04 | 2025-01-14 |
@@ -211,6 +212,7 @@
 | [Strut](https://open.spotify.com/track/0H8kYnzffchuaqo8rqOIzS) | [Liz Lawrence](https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC) | [Peanuts](https://open.spotify.com/album/4umimrxQlVJj2YyiFjAnlJ) | 3:18 | 2024-12-04 | 2025-01-14 |
 | [SUGAR RUSH](https://open.spotify.com/track/5nsUidvKeOy9JLzQI2QYVt) | [Tiberius b](https://open.spotify.com/artist/0Kt443UQm5aqR2WCwqSMe0) | [SUGAR RUSH](https://open.spotify.com/album/1VpU4vyGJzRIHMYZj3Ax6L) | 3:02 | 2025-03-11 |  |
 | [sulky baby](https://open.spotify.com/track/3GnahtjoeFUWAu6vEYQnzH) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [sulky baby](https://open.spotify.com/album/3MvISUCBgt0rFXGhuxJ7IJ) | 4:38 | 2024-06-10 |  |
+| [Talk 2 Me](https://open.spotify.com/track/1twfzIIdZiI08eM7yVhE9E) | [SONIKKU](https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9) | [Talk 2 Me](https://open.spotify.com/album/1CAxbTl96WGEeV6j0oGxMq) | 3:42 | 2025-05-29 |  |
 | [Television Promises](https://open.spotify.com/track/4naPdZuEidyk9rOC3WVxi5) | [BLOXX](https://open.spotify.com/artist/4wYzzR0lpEub1gUU8bbBTw) | [Television Promises](https://open.spotify.com/album/4w8Innemo2CDtnJnO7T9cT) | 3:39 | 2024-07-08 | 2024-08-13 |
 | [Terrified](https://open.spotify.com/track/5S9opvHpOztqiShDAAusum) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Terrified](https://open.spotify.com/album/4eCNNKkvJK9tXdMPaV8abd) | 3:06 | 2024-06-10 |  |
 | [Thank Goodness](https://open.spotify.com/track/2mb9wKJz6WMD5Y0baavuIQ) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Thank Goodness](https://open.spotify.com/album/11jnSpOvbJLYh1MyJpU3NT) | 3:20 | 2024-09-09 |  |
@@ -228,6 +230,7 @@
 | [When We Kiss](https://open.spotify.com/track/2OlFA7WMfBtr1JvONddJaI) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [When We Kiss](https://open.spotify.com/album/1GPY2MwnSFIT0zVyKaeO0L) | 3:32 | 2025-01-14 | 2025-04-30 |
 | [Why Am I Like This?](https://open.spotify.com/track/2SSnrpEz16w4bvdLqcG2Ze) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [This World Fucking Sucks](https://open.spotify.com/album/2PqUPBcCT4mR9CTZXEmg1B) | 2:26 | 2024-12-04 | 2025-01-14 |
 | [Why Am I Like This?](https://open.spotify.com/track/6gnNNTPxIPjgvGlWw98Bwc) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Why Am I Like This? / Ipecac](https://open.spotify.com/album/5CRI8TgzFDrBGmgMoC0hVq) | 2:26 | 2024-06-10 | 2025-04-08 |
+| [WILD!](https://open.spotify.com/track/49BcUseE7kHJ5YEZ51EQgr) | [Jaguar](https://open.spotify.com/artist/00Yp7ztleUYQsQ3wtcEf5X) | [WILD!](https://open.spotify.com/album/4jSn0KXaUCI9m026jBPF3i) | 3:22 | 2025-05-29 |  |
 | [Worms](https://open.spotify.com/track/5PlGxNgE62io6OBc1BsIaq) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Worms](https://open.spotify.com/album/1iMYhGsjfZIDKuiF73D6cI) | 2:28 | 2024-06-10 |  |
 | [WOT?](https://open.spotify.com/track/3reDMknQne3fFioU5DGjxn) | [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W) | [WOT?](https://open.spotify.com/album/1ZR2wheKOl3LfjIMeldl7E) | 2:56 | 2024-06-10 | 2025-01-24 |
 | [You Are The Morning](https://open.spotify.com/track/42eoOh5gqlN1iazumPf4ei) | [jasmine.4.t](https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm) | [You Are The Morning](https://open.spotify.com/album/2YEw0l5F8HCK3t6iZWzCx3) | 4:13 | 2025-01-14 | 2025-04-12 |

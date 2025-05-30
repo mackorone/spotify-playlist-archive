@@ -2,7 +2,7 @@
 
 ### [Kαλοκαιρινά Λαϊκά ](https://open.spotify.com/playlist/37i9dQZF1DX8BFWz6ArBm4)
 
-> ☀️ Γιατί δεν νοείται καλοκαίρι χωρίς τις αγαπημένες σου λαΙκές φωνές ☀️Εξώφυλλοr: Aspa
+> ☀️ Γιατί δεν νοείται καλοκαίρι χωρίς τις αγαπημένες σου λαΙκές φωνές ☀️Εξώφυλλοr: Paola
 
 169 songs - 9 hr 33 min
 
@@ -75,7 +75,7 @@
 | [Kapios San Esena](https://open.spotify.com/track/2HDxzXnUO5PdzsV7iSbRWL) | [Eirini Papadopoulou](https://open.spotify.com/artist/3tzEjVUVJ8tSUOIkrrrt5t) | [Kapios San Esena](https://open.spotify.com/album/3UO7uWavACcYZGibvNv6d4) | 3:19 | 2024-06-27 | 2024-07-05 |
 | [Kapou Kapou](https://open.spotify.com/track/7trPl1kIywvCq1o78uIE6O) | [Billie Isak](https://open.spotify.com/artist/0RMH7M3gqLAv3DUeLvQzz6) | [Kapou Kapou](https://open.spotify.com/album/63EE2UxrSGQ4oHDuwKBeyR) | 3:09 | 2025-05-15 |  |
 | [Katamata](https://open.spotify.com/track/4gizfKGSprKyQgYgwX6BYS) | [Thodoris Ferris](https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT) | [Katamata](https://open.spotify.com/album/42t8tYGPuZorC82akH5eFS) | 4:40 | 2025-04-10 |  |
-| [Kataramena Feggaria \- Live](https://open.spotify.com/track/4SpgcAcF735Sr3AjQIVQjc) | [Nikos Apergis](https://open.spotify.com/artist/01AuIzn7oUxs1H3oqWpy8d) | [Kataramena Feggaria \(Live\)](https://open.spotify.com/album/7elp4RTpAQ2IcZbW85hIKH) | 3:00 | 2025-02-13 | 2025-05-28 |
+| [Kataramena Feggaria \- Live](https://open.spotify.com/track/4SpgcAcF735Sr3AjQIVQjc) | [Nikos Apergis](https://open.spotify.com/artist/01AuIzn7oUxs1H3oqWpy8d) | [Kataramena Feggaria \(Live\)](https://open.spotify.com/album/7elp4RTpAQ2IcZbW85hIKH) | 3:00 | 2025-02-13 |  |
 | [Kathestos](https://open.spotify.com/track/4fOSyDqPqV1AnVZfj44f6z) | [Vasilis Karras](https://open.spotify.com/artist/4P4cATtI7ozt4k4oKho4uz) | [Kathestos](https://open.spotify.com/album/2O6Hd21LRn99WJmuiVzXiV) | 3:24 | 2024-10-10 | 2024-10-25 |
 | [Kati Xereis](https://open.spotify.com/track/6sdfSqn9Jz0hr2CYtOicQX) | [Ria Ellinidou](https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc) | [Kati Xereis](https://open.spotify.com/album/1JmNd52N6hawcFYuqKKQ0w) | 2:44 | 2025-03-20 |  |
 | [Kontra Paidi](https://open.spotify.com/track/25Y7pAip2rT44HKg37z7or) | [Ioulia Kallimani](https://open.spotify.com/artist/6HsM9NbNIunWMEFLOk4d9p), [Michael Touratzidis](https://open.spotify.com/artist/5dwadtCk3MY582FXpBAHwz) | [Kontra Paidi](https://open.spotify.com/album/1nE79NwK4nbiv93YuEYtrK) | 2:44 | 2025-03-27 | 2025-04-25 |
@@ -169,7 +169,7 @@
 | [To Velos](https://open.spotify.com/track/6TFPOMN57JxaKdfkxwB4YQ) | [Nino Xypolitas](https://open.spotify.com/artist/1ATDcv6wTF2U42HPB4qEFz) | [To Velos](https://open.spotify.com/album/3BxWWqlUWJ0551CLIJBD2H) | 2:49 | 2025-01-30 | 2025-02-14 |
 | [To Viografiko](https://open.spotify.com/track/2AlQniZwMjUWcOqtawNvxF) | [Nikos Oikonomopoulos](https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s) | [To Viografiko](https://open.spotify.com/album/6TZl1zhoavvZUkUKjPX2jr) | 3:25 | 2024-11-14 |  |
 | [Trelos Gia Sena \- Den Tha Figeis Makria \- Katse Kai Metra \- 2024 Live](https://open.spotify.com/track/47Mwkz2SSCReqoC74u86Az) | [Panos Kiamos](https://open.spotify.com/artist/2EsTolBYIEICM1kx7MGluy) | [Parea Me Ton Pano \- Live](https://open.spotify.com/album/2l6v9zoA8e61cZ0DAHsVth) | 4:23 | 2024-10-24 | 2024-11-29 |
-| [Trexe](https://open.spotify.com/track/1BOqkrm3T91AWJzAPiht2K) | [Manolis Mitsias](https://open.spotify.com/artist/0iPmB3x32r1vp0nL4gsjMo) | [Trexe](https://open.spotify.com/album/1pFCqfyjdMYkDAfTr0SKXB) | 2:54 | 2025-05-08 |  |
+| [Trexe](https://open.spotify.com/track/1BOqkrm3T91AWJzAPiht2K) | [Manolis Mitsias](https://open.spotify.com/artist/0iPmB3x32r1vp0nL4gsjMo) | [Trexe](https://open.spotify.com/album/1pFCqfyjdMYkDAfTr0SKXB) | 2:54 | 2025-05-08 | 2025-05-30 |
 | [Vrohi](https://open.spotify.com/track/0U3eLgukBcUQZwUPkH4pv8) | [Pashalis Terzis](https://open.spotify.com/artist/1va4ozW68yYx2bjxzk29gs), [Thodoris Papadopoulos](https://open.spotify.com/artist/60MVWaWqiw6tjbFeCVXcHP) | [Vrohi](https://open.spotify.com/album/6GrOYbShrsxh3MiKwvaWKk) | 3:41 | 2025-01-16 | 2025-01-31 |
 | [Xeimwnas](https://open.spotify.com/track/47DMuLoJzVMVCiAhgGw0e1) | [Aspa](https://open.spotify.com/artist/1dxuhrh05CDzJtEc9qEc3N) | [Xeimwnas](https://open.spotify.com/album/2gnvF2qjaKgS4tddJltNex) | 3:17 | 2024-11-14 | 2025-02-28 |
 | [XENIXTISA](https://open.spotify.com/track/7cgNPyFEoWTO0YAy5AbZ2J) | [Rene Ageri](https://open.spotify.com/artist/1FjxtNQOz4jknufS7SVyaj), [Teo Tzimas](https://open.spotify.com/artist/7CkEq9a4CwfkweA1tRgxgh) | [XENIXTISA](https://open.spotify.com/album/5W7YHCWAzRQ0bhfpq3hYBF) | 2:35 | 2025-03-07 | 2025-03-21 |

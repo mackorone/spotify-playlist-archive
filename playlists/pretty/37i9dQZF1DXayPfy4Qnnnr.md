@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayPfy4Qnnnr.md) - [plain]
 
 > Chanson alterno, rock festif, ska ou reggae, peu importe le genre : crie\-le bien fort, use tes cordes vocales !
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,482 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,515 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tout le bonheur du monde](https://open.spotify.com/track/2jY4XzyntBSe2ns2EwA2pL) | [Sinsémilia](https://open.spotify.com/artist/7xtiaP8V8z95pASVuIrCRY) | [Debout les yeux ouverts](https://open.spotify.com/album/4Bgs5Nfk9CN0L8QGvVig6H) | 3:49 |
 | 2 | [L'hymne de nos campagnes \- Live](https://open.spotify.com/track/0tcFkV7zLOGWgUbYtD6ROz) | [Tryo](https://open.spotify.com/artist/4ZP3CHz28XWVLGiaVVWuLj) | [Mamagubida](https://open.spotify.com/album/5nFS7n7hpqlDOXI8e4ggsL) | 3:25 |
-| 3 | [Les étoiles filantes](https://open.spotify.com/track/3ChV0OY2OMofstepo4uVXy) | [Les Cowboys Fringants](https://open.spotify.com/artist/54BZLczVMsW9sPSIcUst1a) | [La grand\-messe](https://open.spotify.com/album/11R4ZPmfZTbIMxy4QumstB) | 4:21 |
-| 4 | [Les nuits parisiennes](https://open.spotify.com/track/2TaEmp0ekjFpnteScYcFXU) | [Louise Attaque](https://open.spotify.com/artist/4CAsSAU842glNKJX71ndA9) | [Louise Attaque](https://open.spotify.com/album/2HkPAUQZm9D1wkJQeh9ENz) | 2:31 |
+| 3 | [Les nuits parisiennes](https://open.spotify.com/track/2TaEmp0ekjFpnteScYcFXU) | [Louise Attaque](https://open.spotify.com/artist/4CAsSAU842glNKJX71ndA9) | [Louise Attaque](https://open.spotify.com/album/2HkPAUQZm9D1wkJQeh9ENz) | 2:31 |
+| 4 | [Les étoiles filantes](https://open.spotify.com/track/3ChV0OY2OMofstepo4uVXy) | [Les Cowboys Fringants](https://open.spotify.com/artist/54BZLczVMsW9sPSIcUst1a) | [La grand\-messe](https://open.spotify.com/album/11R4ZPmfZTbIMxy4QumstB) | 4:21 |
 | 5 | [Marley](https://open.spotify.com/track/0UZtknI7pCLAVGtHPLIYXZ) | [Danakil](https://open.spotify.com/artist/52MTyKpEJBAnWj1oVNYGTj) | [Dialogue de sourds](https://open.spotify.com/album/6CyUDbu8iwTgVhpUGAenMo) | 5:12 |
 | 6 | [Les moutons](https://open.spotify.com/track/5qcHNtNeQWSEVTeIwBLwss) | [Matmatah](https://open.spotify.com/artist/4bhynkwu2d1ZbjPTNBkI2t) | [La Ouache](https://open.spotify.com/album/3Jc7BaQeEeWq1KwDXmbS8g) | 3:48 |
 | 7 | [Et ta mère](https://open.spotify.com/track/2HEr6PARUW822o9VLx25mg) | [Zoufris Maracas](https://open.spotify.com/artist/2aW5pvTZYAAZxbh75uVzZD) | [Prison Dorée \(Nouvelle Edition\)](https://open.spotify.com/album/0O5XAR0ds6FBbRTtG36mlL) | 2:49 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayPfy4Qnnnr.md) - [plain]
 | 24 | [On lâche rien](https://open.spotify.com/track/61ZSaEqlhd8LtMZcWkFekJ) | [HK et Les Saltimbanks](https://open.spotify.com/artist/4xsIQBB0sTOoXpENHzse10) | [Citoyen du monde](https://open.spotify.com/album/3TfIE3EOxOzS9GE8IQvrXe) | 3:43 |
 | 25 | [Y' a pas d'arrangement](https://open.spotify.com/track/7sUzkDEQVDowGyLgyjTuDv) | [Zebda](https://open.spotify.com/artist/0eOdRJIL6L8AInJLre2uIP) | [Essence Ordinaire](https://open.spotify.com/album/7otu4JDWUXUIosul8HLfMF) | 4:31 |
 | 26 | [Mam'selle bulle](https://open.spotify.com/track/3qOtWKFjrGJky92RPuZH9K) | [Tryo](https://open.spotify.com/artist/4ZP3CHz28XWVLGiaVVWuLj), [Les Ogres De Barback](https://open.spotify.com/artist/3avSMklPuyXhcT5Smt1h7G) | [La pittoresque histoire de Pitt Ocha](https://open.spotify.com/album/2jXpYlwSJC9jUjC2Ildqwv) | 3:54 |
-| 27 | [O C B](https://open.spotify.com/track/1Bnn7jDTqWroFl2hcgntWS) | [Billy Ze Kick et Les Gamins En Folie](https://open.spotify.com/artist/3mWNKpH81QK05ax6Uxbvjg) | [Billy Ze Kick Et Les Gamins En Folie](https://open.spotify.com/album/4kvAnqql69qfbr3YaTN6tJ) | 2:31 |
-| 28 | [Quand plus rien ne va \- La turlute](https://open.spotify.com/track/6hrbyZLZePWb6nCsgVpjLp) | [Mes Souliers Sont Rouges](https://open.spotify.com/artist/4IyUYsH5XMy3tgfBfeHRO6) | [Proches](https://open.spotify.com/album/5BWfaMWJVTKzX9NQEc0CrT) | 3:36 |
+| 27 | [Quand plus rien ne va \- La turlute](https://open.spotify.com/track/6hrbyZLZePWb6nCsgVpjLp) | [Mes Souliers Sont Rouges](https://open.spotify.com/artist/4IyUYsH5XMy3tgfBfeHRO6) | [Proches](https://open.spotify.com/album/5BWfaMWJVTKzX9NQEc0CrT) | 3:36 |
+| 28 | [O C B](https://open.spotify.com/track/1Bnn7jDTqWroFl2hcgntWS) | [Billy Ze Kick et Les Gamins En Folie](https://open.spotify.com/artist/3mWNKpH81QK05ax6Uxbvjg) | [Billy Ze Kick Et Les Gamins En Folie](https://open.spotify.com/album/4kvAnqql69qfbr3YaTN6tJ) | 2:31 |
 | 29 | [Allo Paris](https://open.spotify.com/track/7fuV0qMP7cBAApFvleb1T9) | [Mano Solo](https://open.spotify.com/artist/2MfAaMT9qmkHIBnU1ofzAP), [Mathew Ollivier](https://open.spotify.com/artist/5XXGHMuOtjPHSL5n7F6rlk) | [La Marmaille Nue](https://open.spotify.com/album/481r3yGly5FBggEgi3Sxi2) | 2:44 |
 | 30 | [Sur les sentiers du monde](https://open.spotify.com/track/5Ix00M85PPm8X0BFhiDQhT) | [Le trottoir](https://open.spotify.com/artist/0z6rhcwWAD4Oi2J9bLKHbD) | [Nulle ombre](https://open.spotify.com/album/5OZT0zftB7q4lSB1zXorjD) | 3:46 |
 | 31 | [Cergy](https://open.spotify.com/track/1e83AhmZenZjuUGxpFtjcK) | [Anis](https://open.spotify.com/artist/3700G3mzTkuxc5U7hdE9CV) | [La Chance.](https://open.spotify.com/album/7hr4T8GgC9Pw7B9v9sDMju) | 4:18 |

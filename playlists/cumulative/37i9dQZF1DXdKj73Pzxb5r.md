@@ -2,9 +2,9 @@
 
 ### [Skena Gres](https://open.spotify.com/playlist/37i9dQZF1DXdKj73Pzxb5r)
 
-> Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Adrian Yunan, Reda Gaudiamo
+> Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Tigapagi
 
-336 songs - 21 hr 22 min
+339 songs - 21 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Coming Home \(feat\. Chelsea Dawn & Coloura\)](https://open.spotify.com/track/4CeQo2SvURvL9gXEF51mGm) | [lightcraft](https://open.spotify.com/artist/444HDWJ9nggNbvuxbCikY3), [Chelsea Dawn](https://open.spotify.com/artist/5ivM0OETR0pUou4EesF1G0), [Coloura](https://open.spotify.com/artist/22YlJuPLhTsW9m4fptz4r3) | [Coming Home \(feat\. Chelsea Dawn & Coloura\)](https://open.spotify.com/album/7pORcqNUVyySp3JrQvPxAl) | 3:38 | 2024-06-27 | 2024-07-27 |
 | [Contemplation, Pt\. 1](https://open.spotify.com/track/4Vo45D4lMsLv60JoSWeMoY) | [Mad Madmen](https://open.spotify.com/artist/6J53OmVP9ZU5yp72SaeG0b), [Afirniar Mutsrin](https://open.spotify.com/artist/39bo1HVsRhevqRRCVxkMDB) | [In With The Out, Old With The New, Vol\. 2](https://open.spotify.com/album/0NXZnpIolPwpUlAY9wc2EX) | 4:44 | 2024-07-04 | 2024-08-17 |
 | [cool enough for you](https://open.spotify.com/track/595HL0O9cpL8vYwb9GpbAB) | [Skyline](https://open.spotify.com/artist/3jFq99M5yrKG1yihywpcnf) | [cool enough for you](https://open.spotify.com/album/7vA18NCulyMLrOtAZaA3AF) | 3:21 | 2024-08-01 |  |
+| [CVX \- HENSHIN](https://open.spotify.com/track/1mmS6KmwxjQPpDdwBoHBsI) | [CVX](https://open.spotify.com/artist/3YDAdiXuKjmL0SsiCr1eyz) | [CVX \- HENSHIN](https://open.spotify.com/album/3NULzkAB2M5zCFCABYe19s) | 3:09 | 2025-05-29 |  |
 | [Daisies](https://open.spotify.com/track/6HXZZMhKZfEPBwvT5COP6g) | [Milledenials](https://open.spotify.com/artist/0Mh5wMruCzJIMbeospsjyB) | [Daisies](https://open.spotify.com/album/6Ez5TxGJT6ylmhM7Q2iHUb) | 4:07 | 2025-01-23 | 2025-04-11 |
 | [Dancing On The Edge](https://open.spotify.com/track/0yrYaevAu2jOtjwUX7Pmxx) | [JUNJI](https://open.spotify.com/artist/6mjeFtDhVUlJ7pR2ZoJTET) | [Daydreams](https://open.spotify.com/album/2jjWb7XY4trmaRRP8rtMbK) | 4:05 | 2024-10-10 | 2025-02-14 |
 | [Dangkal](https://open.spotify.com/track/40GHXHnL2AUktn1uPMo24r) | [Good Ol' Dreams](https://open.spotify.com/artist/79q9reqE7oBuRsYVubsrYN) | [Untuk Pengantin](https://open.spotify.com/album/2cwYJmPEAyOEwvvgh2T2t3) | 3:08 | 2024-06-27 | 2024-08-17 |
@@ -246,7 +247,9 @@
 | [Prahara Api Asmara](https://open.spotify.com/track/1mzdrMhlRMt1e0JhBGKPW8) | [Diskoria](https://open.spotify.com/artist/4Z9pg3LzMfuuSgl3hMDYuG), [Chelsea Islan](https://open.spotify.com/artist/1etS44Dp8X7UIJKswDMNtT) | [INTONESIA O.5](https://open.spotify.com/album/71ppkU1UHX1dTRfPjW5c6L) | 5:19 | 2025-02-13 |  |
 | [Precious Time](https://open.spotify.com/track/6QCf3ZUBc5oIUjtxR4NPmm) | [Showbiz](https://open.spotify.com/artist/1qrWyeykFOOSGikuDQA9eC) | [Precious Time](https://open.spotify.com/album/4snPevQGPMdd0nsSX6q45M) | 3:23 | 2025-01-31 | 2025-02-21 |
 | [Puding Pelangi](https://open.spotify.com/track/6cwNx7jEFLh7BSYZenQWoU) | [Nosstress](https://open.spotify.com/artist/4XnnBdCt9Cg5W2wBgtD7co) | [Lebih Dekat](https://open.spotify.com/album/4H5ks1HmVJJI79UQpQXMwc) | 2:35 | 2024-06-27 | 2024-07-25 |
+| [Pulang](https://open.spotify.com/track/5uQRqQ1EOcFzCvEsq2kmM1) | [Kapal Udara](https://open.spotify.com/artist/5CvDGL6DI3YjfUujUZZa8f) | [Pulang](https://open.spotify.com/album/6MTK6jWWsh4R6MXxB5kbKZ) | 4:28 | 2025-05-29 |  |
 | [Pulang](https://open.spotify.com/track/0iP75h7FSy1s4pOlKcZOEB) | [Moongazing And Her](https://open.spotify.com/artist/6Zo43jiGrri1Pq8tQNKodP) | [Beranjak](https://open.spotify.com/album/1L8ftHXjnkhrVpvQNky0lP) | 3:03 | 2024-06-27 | 2024-08-30 |
+| [Quick! Love!](https://open.spotify.com/track/0CE0mnqq5w0UhKCmvguoxW) | [Reality Club](https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw) | [Quick! Love!](https://open.spotify.com/album/6J2hFA8D9077BTfNX8SEbt) | 3:23 | 2025-05-29 |  |
 | [Rabun](https://open.spotify.com/track/4OmavoUHxH5aNG9m4xHG7g) | [caldera](https://open.spotify.com/artist/2mYB723pbBKNPKbjDhMGYb) | [Rabun](https://open.spotify.com/album/4nch3VqtxwPeglZsqPhI2f) | 3:45 | 2024-08-29 | 2024-11-29 |
 | [Raih Tanahmu](https://open.spotify.com/track/3Xc2njU3NxFnJaQutpXhmq) | [hara](https://open.spotify.com/artist/1NKaPLdlQCfYkNyex4BqQ9), [Nosstress](https://open.spotify.com/artist/4XnnBdCt9Cg5W2wBgtD7co) | [Raih Tanahmu](https://open.spotify.com/album/0nQAlWRC496pixQH2mngCc) | 4:52 | 2024-11-28 | 2025-05-09 |
 | [Rawat Jalan](https://open.spotify.com/track/4PXOAbFIVHwP3B1zonLHQ0) | [Soenji](https://open.spotify.com/artist/5LFvlAVJttO2Jf0TNaDdHd) | [Kebun Rayaku](https://open.spotify.com/album/7pulPK1bhTeSOXG5J9pS1r) | 4:36 | 2024-08-01 | 2024-11-08 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Discover the best in new music from Aotearoa. Cover: Fat Freddy's Drop",
+  "description": "Discover the best in new music from Aotearoa. Cover: Lorde",
   "name": "The Local List Aotearoa",
   "tracks": [
     {
@@ -288,6 +288,24 @@
       "duration_ms": 204986,
       "name": "Back To You",
       "url": "https://open.spotify.com/track/7GJAITul5ZTnYLRBJTricW"
+    },
+    {
+      "album": {
+        "name": "Backseat",
+        "url": "https://open.spotify.com/album/4SnYbgZqKOxc2eCRdMS3xu"
+      },
+      "artists": [
+        {
+          "name": "Balu Brigada",
+          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383400,
+      "name": "Backseat",
+      "url": "https://open.spotify.com/track/7yT4NJt5rgmVoMJMGPULcj"
     },
     {
       "album": {
@@ -2788,10 +2806,28 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 197328,
       "name": "Luxury",
       "url": "https://open.spotify.com/track/7AJn6nHmWouUAdd7bJAheL"
+    },
+    {
+      "album": {
+        "name": "Man Of The Year",
+        "url": "https://open.spotify.com/album/1QSIGmlbg2zqpGbWXJNJeW"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180433,
+      "name": "Man Of The Year",
+      "url": "https://open.spotify.com/track/1hoeP1oPYlhcv6iRCtB7pT"
     },
     {
       "album": {
@@ -3028,6 +3064,28 @@
       "duration_ms": 180480,
       "name": "Miss You All The Time",
       "url": "https://open.spotify.com/track/2Z47P8OrffWIO5BKWrIlou"
+    },
+    {
+      "album": {
+        "name": "MONEY CALLIN",
+        "url": "https://open.spotify.com/album/4F48UjmhCkQ7oQGmhtDquo"
+      },
+      "artists": [
+        {
+          "name": "MELODOWNZ",
+          "url": "https://open.spotify.com/artist/0tkEKBrgdMZXjZylYRoN7H"
+        },
+        {
+          "name": "Halfsing",
+          "url": "https://open.spotify.com/artist/2N9LXayJ8gJPbgpehVKMAZ"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171685,
+      "name": "MONEY CALLIN",
+      "url": "https://open.spotify.com/track/5ndrJDMYHj2ZNO5M3cnvCm"
     },
     {
       "album": {
@@ -3512,7 +3570,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 107232,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/7yj7Ju3KQ0oBDS38MuXwON"
@@ -3548,7 +3606,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 234901,
       "name": "pinky girl",
       "url": "https://open.spotify.com/track/4ZvoE03wSTX4gSneaH1L2J"

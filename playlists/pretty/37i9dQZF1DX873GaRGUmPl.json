@@ -1,6 +1,6 @@
 {
   "description": "The best alternative songs of the decade. Cover: Vampire Weekend",
-  "num_followers": 905115,
+  "num_followers": 905112,
   "original_name": "Alternative 10s",
   "owner": {
     "name": "Spotify",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
+        "name": "My Love Is Cool",
+        "url": "https://open.spotify.com/album/2L82g2rqAlNBcADFzayJBU"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "duration_ms": 224720,
+      "name": "Bros",
+      "url": "https://open.spotify.com/track/2PIcAQiSOayFwJrfWc72Qc"
+    },
+    {
+      "added_at": "2022-09-29 15:30:40",
+      "album": {
         "name": "Not Waving, But Drowning",
         "url": "https://open.spotify.com/album/1kokRXXxrJzhxdMo0vsVDV"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 256198,
       "name": "Loose Ends",
       "url": "https://open.spotify.com/track/6dEe0H4vjEyy2ukczkB25o"
-    },
-    {
-      "added_at": "2022-09-29 15:30:40",
-      "album": {
-        "name": "My Love Is Cool",
-        "url": "https://open.spotify.com/album/2L82g2rqAlNBcADFzayJBU"
-      },
-      "artists": [
-        {
-          "name": "Wolf Alice",
-          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
-        }
-      ],
-      "duration_ms": 224720,
-      "name": "Bros",
-      "url": "https://open.spotify.com/track/2PIcAQiSOayFwJrfWc72Qc"
     },
     {
       "added_at": "2022-09-29 15:30:40",

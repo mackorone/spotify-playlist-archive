@@ -2,9 +2,9 @@
 
 ### [peach](https://open.spotify.com/playlist/37i9dQZF1DWW1ht9f3cW7m)
 
-> sweet and fresh emerging indie pop, featuring frances mistry 🎀
+> sweet and fresh emerging indie pop, featuring NoSo 🍑
 
-258 songs - 14 hr 2 min
+260 songs - 14 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,10 +123,10 @@
 | [Hotel Bar](https://open.spotify.com/track/0iypvl1PX8N6xMq3KoUVuf) | [Delights](https://open.spotify.com/artist/5QWPjk0d98lRw8sdVkYN0S) | [Hotel Bar](https://open.spotify.com/album/56hrGkYp09q6C3a2WUvsSx) | 2:59 | 2025-01-24 | 2025-03-18 |
 | [How Do You See The World?](https://open.spotify.com/track/34nfOrevDLN1aFoSFeNawK) | [Bored at My Grandmas House](https://open.spotify.com/artist/0hQ6Js0CTBu337vggHinhk) | [How Do You See The World?](https://open.spotify.com/album/1atB3sBQjgamnaak2tUE56) | 3:28 | 2024-06-14 | 2024-08-22 |
 | [How I Wish I Was Cool](https://open.spotify.com/track/4vHN3V78frVhc6wfYXOS8D) | [Bayboards](https://open.spotify.com/artist/0FpxYe2b5uTpjYK8IwMgsM) | [How I Wish I Was Cool](https://open.spotify.com/album/0cfVAeAUKSHQfBdSItqykL) | 3:06 | 2024-07-12 | 2025-05-02 |
-| [hush!](https://open.spotify.com/track/25WxEpbCml2kL1YJVNVa64) | [SOFY](https://open.spotify.com/artist/34TRRbxNJYpDV7VJ7kBzQd) | [Another Day In Paradise](https://open.spotify.com/album/6qkrUuqvTFKdLfJurM8jAJ) | 3:34 | 2025-04-12 |  |
+| [hush!](https://open.spotify.com/track/25WxEpbCml2kL1YJVNVa64) | [SOFY](https://open.spotify.com/artist/34TRRbxNJYpDV7VJ7kBzQd) | [Another Day In Paradise](https://open.spotify.com/album/6qkrUuqvTFKdLfJurM8jAJ) | 3:34 | 2025-04-12 | 2025-05-30 |
 | [I Could Try To Change](https://open.spotify.com/track/77rqGhdAqwUAPXu92MiQGv) | [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [The Container](https://open.spotify.com/album/6cg00BnOYNX6LMoaMBx0YF) | 2:53 | 2025-04-12 | 2025-05-16 |
 | [I Feel You](https://open.spotify.com/track/1FjrTr0IVabwKR93xUR6FS) | [KAWALA](https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL) | [I Feel You](https://open.spotify.com/album/5nO3sdRL4yMFlmFtl7TMJB) | 2:36 | 2024-08-21 | 2025-05-02 |
-| [I Hate That I'm Yours](https://open.spotify.com/track/5D5mZoBKBdmhkjdwkdOPFV) | [Bo Bardot](https://open.spotify.com/artist/3LXVY3CHThIntsXR1xzYbU) | [I Hate That I'm Yours](https://open.spotify.com/album/5aLosNgwmmOhHxWD8g6tvO) | 3:49 | 2025-05-08 |  |
+| [I Hate That I'm Yours](https://open.spotify.com/track/5D5mZoBKBdmhkjdwkdOPFV) | [Bo Bardot](https://open.spotify.com/artist/3LXVY3CHThIntsXR1xzYbU) | [I Hate That I'm Yours](https://open.spotify.com/album/5aLosNgwmmOhHxWD8g6tvO) | 3:49 | 2025-05-08 | 2025-05-30 |
 | [I Like Your Look](https://open.spotify.com/track/6ZTmWZIjdDhZUNdq8uGCZ8) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Gary](https://open.spotify.com/album/7xFJr8gwGjiWzyKV39882t) | 2:56 | 2024-09-20 | 2025-01-24 |
 | [I Think That I'm Getting Boring](https://open.spotify.com/track/3g3f5WOOjZ05dHUnKC55Jf) | [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [I Think That I'm Getting Boring](https://open.spotify.com/album/1q2dMzmwjff28MgF7F1afL) | 3:22 | 2024-06-14 | 2025-01-24 |
 | [I Think You Should Know](https://open.spotify.com/track/5iKoTvLByfYQql1WhursGt) | [Delights](https://open.spotify.com/artist/5QWPjk0d98lRw8sdVkYN0S) | [If Heaven Looks A Little Like This](https://open.spotify.com/album/7DvehTCKcluhPmB6wTmyyc) | 3:37 | 2025-04-12 | 2025-04-19 |
@@ -156,6 +156,7 @@
 | [Losing By A Landslide](https://open.spotify.com/track/3rmUh491bZcjZlzv2zn1xa) | [Sophia Alexa](https://open.spotify.com/artist/73lvPuHcwxbYt4DzLhs7XZ) | [Losing By A Landslide](https://open.spotify.com/album/16D48mNNTX9JtuKUuVMnKP) | 3:14 | 2024-06-14 | 2025-01-24 |
 | [Love & Money](https://open.spotify.com/track/3ZYMLd8UWBWqC3VUdWtjMP) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Love & Money](https://open.spotify.com/album/0o7tZI8zaOJjOnS5j4UbJ8) | 3:49 | 2025-02-14 |  |
 | [Love Song](https://open.spotify.com/track/78MskDsJaWh5K2O1D9Cn23) | [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [Love Song](https://open.spotify.com/album/60dJqbocDa4ipVOmP2drQl) | 3:38 | 2024-08-21 | 2025-02-07 |
+| [Lucky](https://open.spotify.com/track/2ZSm9bCxkQqF5e8QNlosQQ) | [Jude Kelly](https://open.spotify.com/artist/0xHZwRejbMwSEfDZNnyviZ) | [The Seven Spirits of Her](https://open.spotify.com/album/6cgUDc9crqMBomAqWjGfU4) | 3:21 | 2025-05-29 |  |
 | [Lucky October](https://open.spotify.com/track/5jbMNZLyMOz6Yrwr7ox7aK) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [Lucky October](https://open.spotify.com/album/7rElcjHJysuPTvc28oDj2s) | 2:41 | 2025-05-01 |  |
 | [Lungs](https://open.spotify.com/track/2GZfOep6Qzwlzdw5yOoSMA) | [Siobhán Winifred](https://open.spotify.com/artist/1YvRCYoo7jj2O6l6sPcT9x) | [Lungs](https://open.spotify.com/album/3b5aMQuNlkUihH61tWfafr) | 3:40 | 2024-06-14 | 2025-04-13 |
 | [May I Have This Dance?](https://open.spotify.com/track/0pAcGeokyNP8jsxgJPvZLF) | [Freddie Lewis](https://open.spotify.com/artist/2Y08LH0PaXKiJNNuQQ827y) | [May I Have This Dance?](https://open.spotify.com/album/5ruqDtNkEKfArLkcIob3DC) | 3:03 | 2025-05-01 |  |
@@ -226,6 +227,7 @@
 | [sprinkles](https://open.spotify.com/track/1X7zU3V1TDVhqM253XcIV7) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [sprinkles](https://open.spotify.com/album/6JPFvDl16Wh4iTm69fYpNs) | 4:33 | 2024-06-14 | 2025-01-24 |
 | [Stay For Good](https://open.spotify.com/track/0PrPN5jWLDjvNXFPSfbDy4) | [Siobhán Winifred](https://open.spotify.com/artist/1YvRCYoo7jj2O6l6sPcT9x) | [Stay For Good](https://open.spotify.com/album/4fvtPXhNtEMiMGhhBWsrfs) | 3:25 | 2024-09-20 | 2025-05-07 |
 | [STAY WITH ME!](https://open.spotify.com/track/1Dg4KP0l6sPH1IEbS7iRW6) | [Tiberius b](https://open.spotify.com/artist/0Kt443UQm5aqR2WCwqSMe0) | [STAY WITH ME!](https://open.spotify.com/album/1xfGHGxqx8MnPf6aRs2P0J) | 3:07 | 2025-04-12 |  |
+| [Sugar](https://open.spotify.com/track/60HY8TH6tjKd64nwK6H73j) | [NoSo](https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o) | [Sugar](https://open.spotify.com/album/2r0295YFUjpfgBT889SZOl) | 4:02 | 2025-05-29 |  |
 | [Summertime](https://open.spotify.com/track/0Vesfwe8lnI5xW9Wg8Gfki) | [Lei Hope](https://open.spotify.com/artist/6257V4WUEDg5kZd2IbBUJu) | [Summertime](https://open.spotify.com/album/5jq4L2BpP7aWqu5nbfSWEb) | 4:20 | 2024-06-14 | 2024-08-22 |
 | [swimming in pity](https://open.spotify.com/track/2cBLY3kNAJ2IjygBLpRrli) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [swimming in pity](https://open.spotify.com/album/6ySG6aUUn6g8xujn2xKaM6) | 2:56 | 2025-04-12 |  |
 | [Teenage Love](https://open.spotify.com/track/3fgMHs4LZNPrMV2AFqma3F) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [Teenage Love](https://open.spotify.com/album/1TQuSNnGJGfX80HQE7HBcl) | 4:21 | 2025-02-14 |  |

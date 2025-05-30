@@ -7536,7 +7536,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 142228,
       "name": "Mad World",
       "url": "https://open.spotify.com/track/2HdsjF5PGHPllVTSpjg4zJ"
@@ -8401,6 +8401,24 @@
     },
     {
       "album": {
+        "name": "Mystical Magical",
+        "url": "https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165746,
+      "name": "Mystical Magical",
+      "url": "https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT"
+    },
+    {
+      "album": {
         "name": "Naughty",
         "url": "https://open.spotify.com/album/6IGDQuZ2OPeIR7FluRkdOp"
       },
@@ -8594,7 +8612,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 176000,
       "name": "Nice To Meet You",
       "url": "https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl"
@@ -12917,6 +12935,28 @@
     },
     {
       "album": {
+        "name": "I\u2019m The Problem",
+        "url": "https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        },
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184517,
+      "name": "What I Want (feat. Tate McRae)",
+      "url": "https://open.spotify.com/track/04emojnbYkrRmv5qtJcgVP"
+    },
+    {
+      "album": {
         "name": "What If I Want You Now",
         "url": "https://open.spotify.com/album/43fvwvfFC0F8XVLhzeXKaq"
       },
@@ -13444,6 +13484,24 @@
       "duration_ms": 164179,
       "name": "You'll Never Let Me Down",
       "url": "https://open.spotify.com/track/6Zqz0ZNlRLG9bAsQ13mA9f"
+    },
+    {
+      "album": {
+        "name": "your opinion",
+        "url": "https://open.spotify.com/album/1vheuh1Y2cI2JFfKciRJut"
+      },
+      "artists": [
+        {
+          "name": "Judith",
+          "url": "https://open.spotify.com/artist/6N3rD8rvf1LIOtQqTCXnVA"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169627,
+      "name": "your opinion",
+      "url": "https://open.spotify.com/track/4ujzt2xbe6cqhE4wK9ImkR"
     },
     {
       "album": {

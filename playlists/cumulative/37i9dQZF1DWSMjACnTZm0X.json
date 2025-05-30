@@ -96,7 +96,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 143157,
       "name": "7.5G",
       "url": "https://open.spotify.com/track/4cfJumsxrjjRSUUSDk0VK0"
@@ -476,7 +476,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 141428,
       "name": "AMATRAP 1 - Johanna",
       "url": "https://open.spotify.com/track/7M2U3lzAeXHkZbe73RBSwF"
@@ -1819,6 +1819,24 @@
     },
     {
       "album": {
+        "name": "CLOSER / CONTROL",
+        "url": "https://open.spotify.com/album/05AuVyLZ7nVkLqW06LvUQz"
+      },
+      "artists": [
+        {
+          "name": "Royal Ezenwa",
+          "url": "https://open.spotify.com/artist/0oRtqoahaYrcXuJATzagv3"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185181,
+      "name": "CLOSER",
+      "url": "https://open.spotify.com/track/0dXLrSxcQFTEVKLg2I0MxI"
+    },
+    {
+      "album": {
         "name": "Concussion (Remix)",
         "url": "https://open.spotify.com/album/21nupdfTnGduMsVXIyuc9u"
       },
@@ -1852,7 +1870,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 290186,
       "name": "Constellations",
       "url": "https://open.spotify.com/track/0t4ydMVehpZue9D2R9m9sU"
@@ -2136,6 +2154,28 @@
       "duration_ms": 144083,
       "name": "down",
       "url": "https://open.spotify.com/track/3ookojcT2eRZfaYP77mygQ"
+    },
+    {
+      "album": {
+        "name": "Dreamers",
+        "url": "https://open.spotify.com/album/16OXEGQMtlcpdABTqmiCSn"
+      },
+      "artists": [
+        {
+          "name": "Mansa",
+          "url": "https://open.spotify.com/artist/4k08h1hsmW5QOgGfOznnQC"
+        },
+        {
+          "name": "Tusabe",
+          "url": "https://open.spotify.com/artist/2wth2ULFFJ1H8gfK9pL1h8"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172890,
+      "name": "Dreamers",
+      "url": "https://open.spotify.com/track/3JJoutpKOjZBHZmxSebsjd"
     },
     {
       "album": {
@@ -2960,7 +3000,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 341348,
       "name": "Hadikene",
       "url": "https://open.spotify.com/track/3vfgMCBWQC7Cya7KNMUCZT"
@@ -3154,6 +3194,24 @@
       "duration_ms": 174953,
       "name": "Hillary Remix (feat. Pabi Cooper)",
       "url": "https://open.spotify.com/track/2ff14gUetkeu5ybyyPQbOt"
+    },
+    {
+      "album": {
+        "name": "Hips",
+        "url": "https://open.spotify.com/album/3fQ9tvrRrcsijCoBllauji"
+      },
+      "artists": [
+        {
+          "name": "Remee",
+          "url": "https://open.spotify.com/artist/5tjyFvhnukNkJDBrS4Jahe"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149158,
+      "name": "Hips",
+      "url": "https://open.spotify.com/track/6C4yNSk2BElHhNhtaC6Dim"
     },
     {
       "album": {
@@ -3644,7 +3702,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 174159,
       "name": "JEGEDE",
       "url": "https://open.spotify.com/track/53TyHxhimew2NYblNSoBuw"
@@ -5142,7 +5200,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-21",
+      "date_removed": null,
       "duration_ms": 269217,
       "name": "Namtaka (feat. LeeMcKrazy & Raspy)",
       "url": "https://open.spotify.com/track/7vxmB0okc59LqbLzFmKMy4"
@@ -5212,6 +5270,40 @@
       "duration_ms": 193845,
       "name": "Ndakhuyanza",
       "url": "https://open.spotify.com/track/7uVsmB4CmynqGuhVFwaZ7R"
+    },
+    {
+      "album": {
+        "name": "Ngelinye iLanga (feat. Zimvo & Yanga Grenade)",
+        "url": "https://open.spotify.com/album/6HZDI19DLbhtRAd7G9vaCy"
+      },
+      "artists": [
+        {
+          "name": "Bandros",
+          "url": "https://open.spotify.com/artist/5yR5c8xnUVQDP3UDqfjhZd"
+        },
+        {
+          "name": "Luxtonic",
+          "url": "https://open.spotify.com/artist/4yYfPYl3d7ZHAQYdH2RBWB"
+        },
+        {
+          "name": "Jamrock",
+          "url": "https://open.spotify.com/artist/7xqEbvizqb2LUWRFghwlYv"
+        },
+        {
+          "name": "Zimvo",
+          "url": "https://open.spotify.com/artist/5eOVZdQNBoHqNnosZTM1hk"
+        },
+        {
+          "name": "Yanga Grenade",
+          "url": "https://open.spotify.com/artist/7Hr1rJkoRxDX06YI7VpGIj"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 484292,
+      "name": "Ngelinye iLanga (feat. Zimvo & Yanga Grenade)",
+      "url": "https://open.spotify.com/track/2sfkp81UC3FxRU57rzXcYu"
     },
     {
       "album": {
@@ -5684,7 +5776,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 177406,
       "name": "Olumbah",
       "url": "https://open.spotify.com/track/3u6A2V5GHKRCtc1lLdRu5U"
@@ -6030,7 +6122,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 323113,
       "name": "Phuthuma (feat. Young Jonn) - Remix",
       "url": "https://open.spotify.com/track/4Mp8RpZBADIR3J691SgqT1"
@@ -6666,7 +6758,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-23",
+      "date_removed": null,
       "duration_ms": 248571,
       "name": "Sgubu Sa Kasi",
       "url": "https://open.spotify.com/track/3HNPrTRRTfy565DbTKTiWo"
@@ -6810,6 +6902,24 @@
       "duration_ms": 192000,
       "name": "Siren\u2019s Interlude",
       "url": "https://open.spotify.com/track/2pWUwIrALpcSB5HnClODeO"
+    },
+    {
+      "album": {
+        "name": "Sitaki",
+        "url": "https://open.spotify.com/album/0Yz6waiDwKXzskayIAFtnM"
+      },
+      "artists": [
+        {
+          "name": "Mbosso",
+          "url": "https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216637,
+      "name": "Sitaki",
+      "url": "https://open.spotify.com/track/3VciOIAAH9bqNPmsqOhVod"
     },
     {
       "album": {
@@ -7058,7 +7168,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 280702,
       "name": "Sumu (feat. Marioo)",
       "url": "https://open.spotify.com/track/058q1xfFWx9Nde7lvWNXBl"
@@ -7442,7 +7552,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-02",
+      "date_removed": null,
       "duration_ms": 368875,
       "name": "The Pink Panther",
       "url": "https://open.spotify.com/track/2dED7CsaX6jogS5cSftJL6"
@@ -7642,7 +7752,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 288849,
       "name": "Tunakuja",
       "url": "https://open.spotify.com/track/6QzhgBXtPrYHDmWBP1U6Qw"
@@ -7978,6 +8088,24 @@
       "duration_ms": 453874,
       "name": "Wamuhle",
       "url": "https://open.spotify.com/track/7svsAHuA6hM4sKhkzpvlhS"
+    },
+    {
+      "album": {
+        "name": "Visit Bongo",
+        "url": "https://open.spotify.com/album/0ZY5xnqRphPOYRkrHF0LiW"
+      },
+      "artists": [
+        {
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207734,
+      "name": "Wangu Mimi",
+      "url": "https://open.spotify.com/track/28FbGQIV3NC2U2X5HAtHvw"
     },
     {
       "album": {

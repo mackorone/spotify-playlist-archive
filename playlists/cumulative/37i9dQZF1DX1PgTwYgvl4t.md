@@ -2,9 +2,9 @@
 
 ### [Naija Worship](https://open.spotify.com/playlist/37i9dQZF1DX1PgTwYgvl4t)
 
-> Strictly Nigerian worship songs\. Cover: <a href=https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI?si=HmXKFx0fTomufwMWvb1fZg>Lawrence Oyor</a>
+> Strictly Nigerian worship songs\. Cover: <a href=https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso?si=NuTJ7\-ipTYCwsypXy3z40A>Victoria Orenze</a>
 
-196 songs - 23 hr 18 min
+201 songs - 1 day 0 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,12 +30,14 @@
 | [ASHEDA](https://open.spotify.com/track/0A9vUjffz3V2EVc1hmP65r) | [FIDEL E\. William](https://open.spotify.com/artist/3ZtLx9dt1d6OMirAEMMToe) | [ASHEDA](https://open.spotify.com/album/53xb6WpFI8m7M9vTqdfKck) | 3:43 | 2024-11-15 | 2024-12-20 |
 | [Awofuwo](https://open.spotify.com/track/4jDtIlGX6AmW2NFJTcRpiL) | [Olivertherain](https://open.spotify.com/artist/64E0RwV7Qxl8GSiaHHNbmh), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Awofuwo](https://open.spotify.com/album/5qWIB74h8PVysO1QMcSjCx) | 5:46 | 2024-11-01 | 2024-12-13 |
 | [B'Ola \- Honour](https://open.spotify.com/track/2dMDbU8IYPSltZayJLQ9Mb) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [B'Ola \(Honour\)](https://open.spotify.com/album/0VSxRD5vzaQ49htVfjNwNM) | 5:24 | 2024-05-09 |  |
+| [Baba \- Live](https://open.spotify.com/track/1oKrZGoL2m5XjJ6455wPMy) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Baba \(Live\)](https://open.spotify.com/album/2DBgaWfBAVa8fUvZ3zrAAN) | 13:51 | 2025-05-30 |  |
 | [Baba Yangu, Baba Yangu \- Live](https://open.spotify.com/track/1pRSMBzKzEbMiWMerX8hBm) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Yinka Okeleye](https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9) | [Baba Yangu, Baba Yangu \(Live\)](https://open.spotify.com/album/7k7hnvGI5oYtw0ZUwcvghF) | 4:49 | 2024-08-02 |  |
 | [Banner Of Worship](https://open.spotify.com/track/6AxNOg3AqUHhrSiCsb2Thu) | [IBKSings](https://open.spotify.com/artist/5H4j32gWFbJQnjImeuaHhU) | [Banner Of Worship](https://open.spotify.com/album/72SwTxWY2WlgTMaWCBlxN6) | 9:59 | 2025-02-28 | 2025-04-11 |
 | [BARUCH HASHEM ADONAI \- Live](https://open.spotify.com/track/6TZjhz17cbEJDdrjudmufT) | [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT) | [BARUCH HASHEM ADONAI \(Live\)](https://open.spotify.com/album/6IEgvUKslkTGiP9OjGN6Dy) | 12:49 | 2024-12-13 | 2025-01-17 |
 | [Before Your Throne \- Live](https://open.spotify.com/track/27LcHHruNMuHCN6Fc9L6U4) | [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Before Your Throne \(Live\)](https://open.spotify.com/album/4u2vnwlPnxYKdIpAn3b7wo) | 12:45 | 2024-11-22 |  |
 | [Beyond Me](https://open.spotify.com/track/1dLvBXVVbWSrZ9j0g2YyHT) | [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q) | [The Love Story](https://open.spotify.com/album/55oOa9npkSisKLa3tvbibr) | 7:11 | 2024-05-09 |  |
 | [Bless The Lord God](https://open.spotify.com/track/7IC9RDqJA5K4e74eryXKed) | [CHINEMEREM](https://open.spotify.com/artist/1kW6NzBKO0fVW3VEfgF00v), [I\-fee Sound](https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP) | [Bless The Lord God](https://open.spotify.com/album/0o8qrBWrp9NDbXYebV7cLA) | 4:05 | 2024-11-22 | 2025-01-03 |
+| [Blessed Be Your Name](https://open.spotify.com/track/19naPYtiHYPNmXUNfHVnj3) | [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8) | [Blessed Be Your Name](https://open.spotify.com/album/2bPxiD3QggQ6JLOr8O890p) | 5:11 | 2025-05-30 |  |
 | [Break forth \(Isaiah 54:1\-4\) \- Live From The Song Of Sons Project](https://open.spotify.com/track/412oQBTiuIDTCDLuVALKXx) | [David Nkennor](https://open.spotify.com/artist/4IunI41jLkKQaKyb3dYESN) | [Break forth \(Isaiah 54:1\-4\) \[Live From The Song Of Sons Project\]](https://open.spotify.com/album/6MFNHyKp4ABkLOfzXdpAu9) | 12:24 | 2024-09-06 | 2024-11-08 |
 | [By Your Mercy \- Live](https://open.spotify.com/track/4WzIddM6LC55iSNu2KKNmx) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [By Your Mercy](https://open.spotify.com/album/1CeMJ8F8hcDd2GsDA9inj0) | 7:42 | 2025-02-21 |  |
 | [Calm](https://open.spotify.com/track/5lAMVtYJNbMyQWrLOQtogT) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Calm](https://open.spotify.com/album/2o5zh0Zz3MOgeeehAW7NVw) | 3:15 | 2024-11-15 | 2025-01-31 |
@@ -107,6 +109,7 @@
 | [Imela](https://open.spotify.com/track/48t4nNLGMs6UQcnn6cSCmK) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf), [Mercy Peter](https://open.spotify.com/artist/6th52hnATS4dveuzJJZr04) | [Imela](https://open.spotify.com/album/1t9RvjiXTXN79Fp1gPHenK) | 5:07 | 2024-06-21 | 2025-01-10 |
 | [In the Room \(Rendition\)](https://open.spotify.com/track/1BtLSpIErQW4pyXxSHJabn) | [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [In the Room \(Rendition\)](https://open.spotify.com/album/5Kfd8a8myhiGOEUePTCwaA) | 6:11 | 2024-12-20 |  |
 | [In You](https://open.spotify.com/track/6bsrCda8VgcBLtI5c3HCyn) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [In You](https://open.spotify.com/album/4sKh0lvHz8RmO3BOpETpZS) | 2:39 | 2024-05-17 | 2024-06-07 |
+| [In You Oh Lord I Put My Trust](https://open.spotify.com/track/4RvV5rgSP7MH5MeR8vr2Mi) | [Daniel Aikhomu](https://open.spotify.com/artist/2ZpiNuJPh1v5DeqfZs623d) | [In You Oh Lord I Put My Trust](https://open.spotify.com/album/3Z0hoVuTRobV8NT0a9jNdO) | 4:08 | 2025-05-30 |  |
 | [Intimacy](https://open.spotify.com/track/3kvQ1aWiP1OHawDszvNEeO) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Intimacy](https://open.spotify.com/album/4msg6xi048k2ZrXiw3plqA) | 7:19 | 2025-03-07 |  |
 | [Izurukeme \- Live](https://open.spotify.com/track/5K0wzd1xT77UkkTHHEtrxt) | [Grace Akakam](https://open.spotify.com/artist/6RxBaERGqQUh8s7IW6ebDV), [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8) | [Izurukeme \(Live\)](https://open.spotify.com/album/7jl1P747R49lZOXW9nfFsO) | 5:38 | 2025-02-28 | 2025-04-11 |
 | [Jesu Doh \(Revisitation\)](https://open.spotify.com/track/2ff0oDG7KHh5G6Sn4Tn6KH) | [Onome Ovwori](https://open.spotify.com/artist/3BVYzOXEHmFZGLy9jHiXIy), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Jesu Doh \(Revisitation\)](https://open.spotify.com/album/3EuYKNMSaFJjncOA1yZktn) | 5:23 | 2024-12-27 |  |
@@ -179,6 +182,8 @@
 | [There For Me](https://open.spotify.com/track/6MOLlzdQfGPR1xLVSEHG8T) | [Samuel Folabi](https://open.spotify.com/artist/2MhhZ3x6FKYWCNzZDObdqM) | [There For Me](https://open.spotify.com/album/0mc0EvdbLGj8rOsNp3S1CJ) | 8:47 | 2024-12-13 | 2025-01-10 |
 | [This Kind of God](https://open.spotify.com/track/5DWxdGIP5WwbUAiq7TjzqD) | [K Praise](https://open.spotify.com/artist/73UGdLm5P1qECNSFuiP2eV) | [This Kind of God](https://open.spotify.com/album/6cFUF3NAeIWdhhoevY7wAH) | 3:55 | 2024-10-10 | 2025-02-21 |
 | [Too Faithful](https://open.spotify.com/track/0XmK2zPgY1t1msdf1jyhHw) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Too Faithful](https://open.spotify.com/album/1ELb6tHupgVxBvvSURINnN) | 6:10 | 2024-05-09 |  |
+| [Too Oiled](https://open.spotify.com/track/3fPWeU5dawXN52Z9geFYFR) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Too Oiled](https://open.spotify.com/album/0aqXe5YKPqIkGQgoTuDZKE) | 12:14 | 2025-05-30 |  |
+| [Totally Available](https://open.spotify.com/track/7u5PJy1meljL8c5xXhZ0Ta) | [Dr Paul Enenche](https://open.spotify.com/artist/5bbq9LbEHKVq6FEpVLuz7i) | [In His Presence, Vol\. 14 \- Ogayoloo](https://open.spotify.com/album/2il35SOSddOGws33OLG1UI) | 6:30 | 2025-05-30 |  |
 | [War Room Worship, Pt\. 4](https://open.spotify.com/track/64XhCvtsgCAJbOWxsUe5Wh) | [Minister Afam](https://open.spotify.com/artist/2OuwAasMkYHQXewbtvrIMK) | [War Room Worship, Pt\. 4](https://open.spotify.com/album/2hZvzNbOJWmtp8ufg9U26j) | 9:54 | 2024-08-23 | 2025-02-14 |
 | [Where You Lead](https://open.spotify.com/track/3SO1sXMxPbAGrveHakukVZ) | [CHINEMEREM](https://open.spotify.com/artist/1kW6NzBKO0fVW3VEfgF00v) | [Where You Lead](https://open.spotify.com/album/5PsZNaxGFZRI3RACssLofH) | 4:09 | 2025-02-07 | 2025-05-09 |
 | [Who Is Like You \- Live](https://open.spotify.com/track/2gbB7Qux8u6qCZhGxlEKFo) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Who Is Like You \(Live\)](https://open.spotify.com/album/4Z7NcJsD3IbJRCGalgEyW9) | 19:01 | 2025-03-07 |  |

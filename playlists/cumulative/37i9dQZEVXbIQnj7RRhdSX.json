@@ -12586,7 +12586,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 212148,
       "name": "Depresso fortunato",
       "url": "https://open.spotify.com/track/0xju4u3DFjOy1fhITDPZ6B"
@@ -12608,7 +12608,7 @@
       ],
       "date_added": "2025-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-29",
+      "date_removed": null,
       "duration_ms": 212148,
       "name": "Depresso fortunato",
       "url": "https://open.spotify.com/track/6vbU5lktjuswHhG8ToyljZ"
@@ -21622,7 +21622,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-27",
+      "date_removed": null,
       "duration_ms": 187403,
       "name": "il filo rosso",
       "url": "https://open.spotify.com/track/1QcmAp6Ev2HuYxKujUwnw0"
@@ -27562,7 +27562,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 180000,
       "name": "M' Manc (con Geolier & Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/0MLu1cFYL4ikdRTdasCQT9"
@@ -39097,6 +39097,24 @@
     },
     {
       "album": {
+        "name": "PRONTO COME VA",
+        "url": "https://open.spotify.com/album/7GYhXN89GS5QQBqd1xv62f"
+      },
+      "artists": [
+        {
+          "name": "The Kolors",
+          "url": "https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177120,
+      "name": "PRONTO COME VA",
+      "url": "https://open.spotify.com/track/6CvJtmzjDkWCeGt4nT2l1O"
+    },
+    {
+      "album": {
         "name": "Caos",
         "url": "https://open.spotify.com/album/3uiWXB4lUCGo3QHxMVxGEB"
       },
@@ -41120,7 +41138,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 192989,
       "name": "Rossetto e caff\u00e8",
       "url": "https://open.spotify.com/track/1nLGeFQuY7PFxrou3ezEvP"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafCT9DHTijq.md) - [plain]
 
 > A spine\-chilling selection of classical favourites and supernatural soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,975 likes - 58 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,967 likes - 58 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafCT9DHTijq.md) - [plain]
 | 18 | [Magic Mirror](https://open.spotify.com/track/70C9ciYWV6m4sC82Q32wTH) | [Leigh Harline](https://open.spotify.com/artist/7aXWrnm0b8kKzTTgzublaZ) | [Snow White And The Seven Dwarfs Original Soundtrack](https://open.spotify.com/album/0Bqy2UNNB9WRS2EyHtpnIn) | 1:26 |
 | 19 | [Witches' Lair](https://open.spotify.com/track/03kJgSqwHoHGMnjMjs3b9j) | [John Debney](https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ) | [Hocus Pocus \(Original Score\)](https://open.spotify.com/album/35HW28UZvr9UghP8Ras6mu) | 5:42 |
 | 20 | [The Dance of the Witches](https://open.spotify.com/track/0x5xRTV6l8tCr8ShASj9Wd) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [The Witches of Eastwick \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6biRMMkj61KdyfFzH36y6K) | 4:46 |
-| 21 | [Carmina Burana / Fortuna Imperatrix Mundi: "O Fortuna"](https://open.spotify.com/track/47J2TBfDpGQUfHkErP78Tw) | [Carl Orff](https://open.spotify.com/artist/4LXxsm5BF85PWnQ1dUDAze), [Brighton Festival Chorus](https://open.spotify.com/artist/3zh9WYEWEgwgryx70COfMY), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [Antal Doráti](https://open.spotify.com/artist/3kBrUZAp2FVhkN5bcTu0QL) | [Orff: Carmina Burana](https://open.spotify.com/album/4L7SIEExpB90YxLI9YqWng) | 2:23 |
+| 21 | [Carmina Burana: I\. O fortuna](https://open.spotify.com/track/47J2TBfDpGQUfHkErP78Tw) | [Carl Orff](https://open.spotify.com/artist/4LXxsm5BF85PWnQ1dUDAze), [Brighton Festival Chorus](https://open.spotify.com/artist/3zh9WYEWEgwgryx70COfMY), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [Antal Doráti](https://open.spotify.com/artist/3kBrUZAp2FVhkN5bcTu0QL) | [Orff: Carmina Burana](https://open.spotify.com/album/4L7SIEExpB90YxLI9YqWng) | 2:23 |
 | 22 | [Imhotep \- From “The Mummy” Soundtrack](https://open.spotify.com/track/2XZ6Cc4sfNVLQZ9oLfugZm) | [Jerry Goldsmith](https://open.spotify.com/artist/7t8q7ikEtcPNtoaKAm9Vu6) | [The Mummy \- Original Motion Picture Soundtrack](https://open.spotify.com/album/5npe6B2eEGqG4g6jYk71Kb) | 4:16 |
 | 23 | [Die Walkure, Act III: Ride of the Valkyries](https://open.spotify.com/track/2e8MxBgVWMSQmxb2zcuCoq) | [Richard Wagner](https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE), [Budapest Symphony Orchestra](https://open.spotify.com/artist/4yrzlxPNm4ulLRpn5wmEAX), [György Lehel](https://open.spotify.com/artist/5Veude8V6p7YxBNIQld13F) | [Wagner, R.: Orchestral Music From Operas](https://open.spotify.com/album/16jEL1Jt4EaYVLV7TzOCPS) | 5:25 |
 | 24 | [Sonata in G Minor for Violin and Continuo, B.g5 \- "The Devil's Trill": 3\. Andante \- Allegro](https://open.spotify.com/track/0M6OmL0WClZynaauDhmrrs) | [Giuseppe Tartini](https://open.spotify.com/artist/46x75iFAkipaG5IEAFN4L4), [Nicola Benedetti](https://open.spotify.com/artist/02B3Os1lCLuWR6klPJiQpW), [Christian Curnyn](https://open.spotify.com/artist/4Dgt4brudJR4ikEF5YY4cj) | [Italia](https://open.spotify.com/album/0ccpo9wUumeGlks3S8IR7P) | 5:26 |

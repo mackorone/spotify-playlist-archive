@@ -1,6 +1,6 @@
 {
   "description": "\u30b9\u30c8\u30ed\u30dc\u30e9\u30a4\u30c8\u306e\u3088\u3046\u306b\u5149\u308a\u8f1d\u304f\u697d\u66f2\u3067\u3001\u4eca\u65e5\u3068\u3044\u3046\u65e5\u3092\u30b9\u30bf\u30fc\u30c8\u3057\u3088\u3046\u3002 Cover art painted by <a href=\"spotify:artist:2IUl3m1H1EQ7QfNbNWvgru\">Vaundy</a>",
-  "num_followers": 28731,
+  "num_followers": 28732,
   "original_name": "\u30b9\u30c8\u30ed\u30dc",
   "owner": {
     "name": "Spotify",
@@ -411,22 +411,6 @@
     {
       "added_at": "2025-05-27 15:00:10",
       "album": {
-        "name": "\u30b3\u30ed\u30f3\u30d6\u30b9",
-        "url": "https://open.spotify.com/album/1u9fvlFVKcjhhin274qEAp"
-      },
-      "artists": [
-        {
-          "name": "Mrs. GREEN APPLE",
-          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
-        }
-      ],
-      "duration_ms": 227178,
-      "name": "\u30b3\u30ed\u30f3\u30d6\u30b9",
-      "url": "https://open.spotify.com/track/3ECvJ97WjbbaTsCZ64pwgI"
-    },
-    {
-      "added_at": "2025-05-27 15:00:10",
-      "album": {
         "name": "\u6674\u308b",
         "url": "https://open.spotify.com/album/4O53dhmIctih3p2suAAgga"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 270705,
       "name": "\u6674\u308b",
       "url": "https://open.spotify.com/track/5eY7692tmgHB9dbmq6wa2M"
+    },
+    {
+      "added_at": "2025-05-27 15:00:10",
+      "album": {
+        "name": "\u30b3\u30ed\u30f3\u30d6\u30b9",
+        "url": "https://open.spotify.com/album/1u9fvlFVKcjhhin274qEAp"
+      },
+      "artists": [
+        {
+          "name": "Mrs. GREEN APPLE",
+          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
+        }
+      ],
+      "duration_ms": 227178,
+      "name": "\u30b3\u30ed\u30f3\u30d6\u30b9",
+      "url": "https://open.spotify.com/track/3ECvJ97WjbbaTsCZ64pwgI"
     },
     {
       "added_at": "2025-05-27 15:00:10",
@@ -527,8 +527,8 @@
     {
       "added_at": "2025-05-27 15:00:10",
       "album": {
-        "name": "\u8d70\u308cSAKAMOTO",
-        "url": "https://open.spotify.com/album/7HHU5nfClWij4FgSIlXivY"
+        "name": "\u98a8\u795e",
+        "url": "https://open.spotify.com/album/2dkncPeCSULjpH34voco0k"
       },
       "artists": [
         {
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
         }
       ],
-      "duration_ms": 205984,
-      "name": "\u8d70\u308cSAKAMOTO",
-      "url": "https://open.spotify.com/track/4XObDlhGp6sREJoZj2lFv2"
+      "duration_ms": 235543,
+      "name": "\u98a8\u795e",
+      "url": "https://open.spotify.com/track/00GDUNeJd97qjKp2yrx0OC"
     },
     {
       "added_at": "2025-05-27 15:00:10",
@@ -575,22 +575,6 @@
     {
       "added_at": "2025-05-27 15:00:10",
       "album": {
-        "name": "\u30ab\u30fc\u30c6\u30f3\u30b3\u30fc\u30eb",
-        "url": "https://open.spotify.com/album/11GFYcT1N05hLyrWABo9BK"
-      },
-      "artists": [
-        {
-          "name": "Yuuri",
-          "url": "https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W"
-        }
-      ],
-      "duration_ms": 243026,
-      "name": "\u30ab\u30fc\u30c6\u30f3\u30b3\u30fc\u30eb",
-      "url": "https://open.spotify.com/track/1nysdCpKAh6yif4JkmoiNy"
-    },
-    {
-      "added_at": "2025-05-27 15:00:10",
-      "album": {
         "name": "\u3082\u3046\u3069\u3046\u306a\u3063\u3066\u3082\u3044\u3044\u3084",
         "url": "https://open.spotify.com/album/6XMeBVW9xA5buvS6EAVbGG"
       },
@@ -607,8 +591,24 @@
     {
       "added_at": "2025-05-27 15:00:10",
       "album": {
-        "name": "\u98a8\u795e",
-        "url": "https://open.spotify.com/album/2dkncPeCSULjpH34voco0k"
+        "name": "\u30ab\u30fc\u30c6\u30f3\u30b3\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/11GFYcT1N05hLyrWABo9BK"
+      },
+      "artists": [
+        {
+          "name": "Yuuri",
+          "url": "https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W"
+        }
+      ],
+      "duration_ms": 243026,
+      "name": "\u30ab\u30fc\u30c6\u30f3\u30b3\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/1nysdCpKAh6yif4JkmoiNy"
+    },
+    {
+      "added_at": "2025-05-27 15:00:10",
+      "album": {
+        "name": "\u8d70\u308cSAKAMOTO",
+        "url": "https://open.spotify.com/album/7HHU5nfClWij4FgSIlXivY"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
         }
       ],
-      "duration_ms": 235543,
-      "name": "\u98a8\u795e",
-      "url": "https://open.spotify.com/track/00GDUNeJd97qjKp2yrx0OC"
+      "duration_ms": 205984,
+      "name": "\u8d70\u308cSAKAMOTO",
+      "url": "https://open.spotify.com/track/4XObDlhGp6sREJoZj2lFv2"
     },
     {
       "added_at": "2025-05-27 15:00:10",

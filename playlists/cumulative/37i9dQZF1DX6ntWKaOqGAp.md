@@ -4,7 +4,7 @@
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: GRAPEVINE
 
-2,235 songs - 5 day 20 hr 10 min
+2,236 songs - 5 day 20 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -585,7 +585,7 @@
 | [mad cooking machine](https://open.spotify.com/track/0vVoIRnqi0JMvFjc95ewxK) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [mad cooking machine](https://open.spotify.com/album/0wgB5VGk6FdMTkZtK1X3mU) | 3:05 | 2024-01-30 | 2024-02-28 |
 | [Madness](https://open.spotify.com/track/6cfLuBTEVaYUXZJ6uyj7w7) | [SIX LOUNGE](https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX) | [Madness](https://open.spotify.com/album/0PBZHqTETqxvMXFBgWfoMW) | 3:15 | 2024-09-03 | 2024-10-04 |
 | [MAE](https://open.spotify.com/track/0YgGz6kZcMw4QXq2IM6tAE) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [GOLD IMPRINTS](https://open.spotify.com/album/0u4T0jMskpSiQO0mrw6TNK) | 4:01 | 2023-09-20 | 2023-10-18 |
-| [Magatama feat\. Short Uchiyama](https://open.spotify.com/track/6AHUkUEHyEcXwzdTSSbkz0) | [bokula.](https://open.spotify.com/artist/03d8apfHOy2uV3oLL9lsFG), [SHORT UCHIYAMA](https://open.spotify.com/artist/6Kgh26sjVOu3GlLHApbtgx) | [MELT](https://open.spotify.com/album/1N4nwP5iP08DdHS5JJo01E) | 2:54 | 2025-04-29 |  |
+| [Magatama feat\. Short Uchiyama](https://open.spotify.com/track/6AHUkUEHyEcXwzdTSSbkz0) | [bokula.](https://open.spotify.com/artist/03d8apfHOy2uV3oLL9lsFG), [SHORT UCHIYAMA](https://open.spotify.com/artist/6Kgh26sjVOu3GlLHApbtgx) | [MELT](https://open.spotify.com/album/1N4nwP5iP08DdHS5JJo01E) | 2:54 | 2025-04-29 | 2025-05-30 |
 | [Magic](https://open.spotify.com/track/2buW01JGz5GXaLvf4DJ0iM) | [flumpool](https://open.spotify.com/artist/5Kpt1mryjiwHa9goYPQG1o) | [Magic](https://open.spotify.com/album/3yGdkifwZ60aVBhrDYylmJ) | 3:44 | 2023-04-06 | 2023-04-26 |
 | [Magic](https://open.spotify.com/track/0csHMdBheTvp9Oay1hM1WF) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Magic](https://open.spotify.com/album/6YiIRjTqbhaWpNG5WpgB85) | 4:23 | 2023-06-13 | 2023-07-05 |
 | [magnet](https://open.spotify.com/track/2HwweciLv84LZCPguyDpi4) | [04 Limited Sazabys](https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh) | [MOON](https://open.spotify.com/album/5cUf1ovfEUKU3ZwcwXHzLB) | 2:46 | 2025-01-28 |  |
@@ -1116,6 +1116,7 @@
 | [When it blooms cherry blossoms](https://open.spotify.com/track/5fMpRSSZ8K8eJZYeuAHm2J) | [Ryota Fujimaki](https://open.spotify.com/artist/7r3FkquAY1tv1roZs3unJ1) | [When it blooms cherry blossoms](https://open.spotify.com/album/2awYDLo0fNo5lk7DQ9at45) | 4:16 | 2025-02-25 | 2025-03-26 |
 | [Where Do We Go?](https://open.spotify.com/track/3n2YaCic0C3gjCgkTkwfOz) | [OKAMOTO'S](https://open.spotify.com/artist/3X1afU2VL6MV0AJacARH7T) | [Where Do We Go?](https://open.spotify.com/album/13ukRIGlCs6RbRAvDVzhF8) | 3:22 | 2023-04-27 | 2023-06-21 |
 | [White Lies](https://open.spotify.com/track/7t24ZtO2bo7QlBCLNV2pq6) | [Newspeak](https://open.spotify.com/artist/3eaUqC1a64Qk1pjNBv5L71) | [Newspeak](https://open.spotify.com/album/5GFnoyQDBrZ6hxA6V1QhYj) | 3:54 | 2024-07-09 | 2024-07-24 |
+| [White Lies \(feat\. Hiroyuki SAWANO\)](https://open.spotify.com/track/2eYCAueZruRieMkCbKqJvQ) | [Newspeak](https://open.spotify.com/artist/3eaUqC1a64Qk1pjNBv5L71), [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [White Lies \(feat\. Hiroyuki SAWANO\)](https://open.spotify.com/album/6gJ1yo0tFb3OEnUdTGoHVV) | 3:57 | 2025-05-29 |  |
 | [white noise](https://open.spotify.com/track/5vYlfoaJnOiBZ5SILO9cUQ) | [Blue Mash](https://open.spotify.com/artist/1qG4m6PAWqUuJ2b3Ahfr07) | [Rokujohan Nite](https://open.spotify.com/album/4cW06oPx0P4ok7p9X44VSa) | 3:23 | 2025-03-25 | 2025-05-14 |
 | [White Noise](https://open.spotify.com/track/1mY3E6zTjhjQD5SSy8ctgk) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [White Noise](https://open.spotify.com/album/5QFR0drgoyEhPvfFh5zulf) | 4:14 | 2023-01-13 | 2023-04-21 |
 | [White Rabbit](https://open.spotify.com/track/1BMhVGBje3qHKLCrFbLOwB) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [White Rabbit](https://open.spotify.com/album/7cKEIQl2vpLKajvEKLY7ys) | 4:35 | 2023-03-21 | 2023-05-10 |
@@ -1864,7 +1865,7 @@
 | [小さな革命](https://open.spotify.com/track/7aiTDFqOPn2U495quOxRUt) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [音楽](https://open.spotify.com/album/2CBL0ep4HNPCrCkQGhWJ1M) | 4:24 | 2024-05-28 | 2025-01-24 |
 | [小市民イーア](https://open.spotify.com/track/2hyGHwdUhrCEvVUqrONRIN) | [amazarashi](https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao) | [小市民イーア](https://open.spotify.com/album/77DueOvyt3iXD8I0Rzu1Ts) | 3:41 | 2025-04-01 | 2025-04-09 |
 | [小悪魔的ッ☆相当キレてる \- feat\. の子\(神聖かまってちゃん\)](https://open.spotify.com/track/65jrDwaUJRc8fzmp0gDPhi) | [Seiko Oomori](https://open.spotify.com/artist/24YRwiUM8Lj1bamuYNbeEr), [の子](https://open.spotify.com/artist/5ynUxXWjJSfQUALZLAea1E) | [小悪魔的ッ☆相当キレてる \[feat\. の子\(神聖かまってちゃん\)\]](https://open.spotify.com/album/5Y57sDj7dR9W9jNBdarr86) | 3:34 | 2024-01-02 | 2024-01-24 |
-| [少年](https://open.spotify.com/track/1JZGFepejoz04PaWB9VpxK) | [wacci](https://open.spotify.com/artist/7jCHrVGjeHUYP2pHv8FOJ3) | [少年](https://open.spotify.com/album/2TFBUIOkv9IUK61Nok1QOn) | 4:08 | 2025-04-29 |  |
+| [少年](https://open.spotify.com/track/1JZGFepejoz04PaWB9VpxK) | [wacci](https://open.spotify.com/artist/7jCHrVGjeHUYP2pHv8FOJ3) | [少年](https://open.spotify.com/album/2TFBUIOkv9IUK61Nok1QOn) | 4:08 | 2025-04-29 | 2025-05-30 |
 | [少年、風薫る](https://open.spotify.com/track/5Gpkdf4zVQkzuLgRvo1EVD) | [Atarayo](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [少年、風薫る](https://open.spotify.com/album/1aL9ekGR2i1rb3ubP0Jgnc) | 3:35 | 2024-06-18 | 2024-07-31 |
 | [少年セゾン](https://open.spotify.com/track/6mhif68sfKzj8Tp4nEKEWY) | [the dresscodes](https://open.spotify.com/artist/2qmqi8B4pdSyjBc7lNBBiO) | [少年セゾン](https://open.spotify.com/album/08uVRPJ95oNwUI2TyHUim2) | 3:43 | 2023-07-06 | 2023-08-16 |
 | [少年時代](https://open.spotify.com/track/2uVnjd2uVKPg299891KcFs) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [少年時代](https://open.spotify.com/album/5y3xFfjLRFB5ACA5EBgjtq) | 3:20 | 2024-07-09 | 2024-09-04 |

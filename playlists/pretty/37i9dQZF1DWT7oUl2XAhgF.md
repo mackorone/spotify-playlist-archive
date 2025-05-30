@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 
 > A new take on a classic sound\. Cover: Thee Sacred Souls
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,268 likes - 101 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,328 likes - 101 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 | 100 | [Without You](https://open.spotify.com/track/2Ex6PBUZ3fsF6slCIiqIdp) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Without You](https://open.spotify.com/album/3WDkQ6nXADxHuZ4c94TqwE) | 2:26 |
 | 101 | [You Can Count On Me](https://open.spotify.com/track/63zB2o0u28X046oIFO2ou1) | [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Waiting on the Sidelines](https://open.spotify.com/album/5kABgENIqXOEWtN3o6rcPn) | 4:09 |
 
-Snapshot ID: `aC/y6QAAAAB2ZrW1aCd3G9JagLOUoZM6`
+Snapshot ID: `aC/y6QAAAAB9k+Z8peeYs1EvYZtHbyvy`

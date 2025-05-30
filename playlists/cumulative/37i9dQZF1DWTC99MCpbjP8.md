@@ -4,7 +4,7 @@
 
 > Slow down and relax with a mix of calming piano music.
 
-643 songs - 1 day 3 hr 51 min
+645 songs - 1 day 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Amen](https://open.spotify.com/track/5BE8bT99o4cINi4eISOt2A) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Amen](https://open.spotify.com/album/4gf23gqn48jC8XBcNsOnna) | 2:59 | 2023-08-07 |  |
 | [Amiable](https://open.spotify.com/track/1WNj5OaWzAZyyAeumYFWPn) | [Sonja Elliott](https://open.spotify.com/artist/7kKuC431bgNSQmNpEUBbbr) | [Amiable](https://open.spotify.com/album/3rWRFWT7dErO0kTLSeqgJn) | 2:37 | 2024-03-25 |  |
 | [Amici](https://open.spotify.com/track/1GBNuD6VkNDHXNwL0wgVi2) | [Sean Oban](https://open.spotify.com/artist/32LreS7UHEG3COCJzy826n) | [Amici](https://open.spotify.com/album/30oMX8LB37YXsinHIph2XI) | 2:08 | 2022-04-22 | 2024-02-14 |
-| [Amongst The Trees](https://open.spotify.com/track/0JwtjSgQzfSPsTNMufSGsT) | [Ferragno](https://open.spotify.com/artist/6V5Qb50Rc4RxLMVRgLyD2W) | [Amongst The Trees](https://open.spotify.com/album/4St0VWo6mYaE4zJJ0GuuKO) | 2:45 | 2024-03-04 |  |
+| [Amongst The Trees](https://open.spotify.com/track/0JwtjSgQzfSPsTNMufSGsT) | [Ferragno](https://open.spotify.com/artist/6V5Qb50Rc4RxLMVRgLyD2W) | [Amongst The Trees](https://open.spotify.com/album/4St0VWo6mYaE4zJJ0GuuKO) | 2:45 | 2024-03-04 | 2025-05-30 |
 | [An Evening \- Single Edit](https://open.spotify.com/track/1XC63Vb7wvBRuIYcEuOEVm) | [Daan Duijf](https://open.spotify.com/artist/4vgc7LR6lNRJBCO1FGWeSc) | [An Evening](https://open.spotify.com/album/7DtgwEUhcxPrSNZ1Pi0Ydh) | 2:35 | 2024-03-04 |  |
 | [Ancient Poem](https://open.spotify.com/track/0npVs5vYX7x8YohsZi9Ba7) | [Lorenzo Balzotti](https://open.spotify.com/artist/3hHeHet790nZ3x8ulsu6tC) | [Ancient Poem](https://open.spotify.com/album/7BFQr3KtXuRc1hbWktXTMp) | 2:14 | 2023-01-31 | 2025-05-15 |
 | [Angel Wings](https://open.spotify.com/track/2XZC2qNKbAKHLpvJH0BEZs) | [Cassandra Nestico](https://open.spotify.com/artist/5rJMWRWoISTfzsFsGHSzP9) | [Angel Wings](https://open.spotify.com/album/65XjpkXA9NZbuhOaEOqGnT) | 2:58 | 2024-02-13 | 2025-05-15 |
@@ -120,6 +120,7 @@
 | [Dawn](https://open.spotify.com/track/5VMPixSvGFod1dZGHXG8XI) | [Diego Dumas](https://open.spotify.com/artist/7lhYdashTGE8O0urnHyWdB) | [Dawn](https://open.spotify.com/album/3b4fmBYxqQaqoLqxcTdfmx) | 2:26 | 2022-04-22 | 2023-08-08 |
 | [Daydream](https://open.spotify.com/track/1WlaTc6LFDBrag4vKuiuRs) | [HILMA](https://open.spotify.com/artist/5cfA35ok9YlWE032xcI423) | [Polaris](https://open.spotify.com/album/4zRFfOm7i3DhHqmW0rIIru) | 2:15 | 2022-04-22 | 2022-09-16 |
 | [Daylight](https://open.spotify.com/track/0dVsSv0xlnO3CJd4osrt2w) | [Della Valle](https://open.spotify.com/artist/0QsQ7aCgsuTSOib9lt6NGm) | [Daylight](https://open.spotify.com/album/1MMZ6TC0X0LcztVxsx2oYr) | 2:39 | 2024-11-19 |  |
+| [Daylight Saving](https://open.spotify.com/track/3SaIAk237mEa2tt2ije1JR) | [Ferragno](https://open.spotify.com/artist/6V5Qb50Rc4RxLMVRgLyD2W) | [Daylight Saving](https://open.spotify.com/album/6lMTV5tFejaXj9fGgEBsVF) | 2:42 | 2025-05-29 |  |
 | [Days Gone By](https://open.spotify.com/track/4vDA036RKeQjigYZmANk3Y) | [Tiny Rhino](https://open.spotify.com/artist/7Ma0CST4j0LCd0IYNi5RK4) | [Days Gone By](https://open.spotify.com/album/0je0PVxNcqe1d9n6HRoTx5) | 3:08 | 2022-04-22 | 2024-03-26 |
 | [De seu](https://open.spotify.com/track/5Bl7fjZwq3u37T51tspPAp) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [De Seu](https://open.spotify.com/album/0a84zl4kQdodn1VhkTl3jl) | 2:35 | 2022-04-22 | 2024-04-16 |
 | [Dear](https://open.spotify.com/track/7ICZkeodyeK8foAiGbJjOI) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Dear](https://open.spotify.com/album/6WtvQb9SmGvC3Gg7Jc0vDk) | 1:56 | 2022-04-22 | 2023-02-01 |
@@ -167,7 +168,7 @@
 | [Ethereal](https://open.spotify.com/track/7uC95ammTjIPwrMYb8YOkz) | [Nolan Khan](https://open.spotify.com/artist/6GpEjquDluNZrINNY0cS3H) | [Ethereal](https://open.spotify.com/album/1fZSnvJTvlQS220yBlAfvz) | 2:05 | 2022-04-22 | 2024-02-14 |
 | [Eunoia](https://open.spotify.com/track/2wUWi9sqWy1gKsCkxGYKVT) | [Nadia Oak](https://open.spotify.com/artist/69kmTV1Yq4nmkwlrYSYeMa) | [Eunoia](https://open.spotify.com/album/33zpGuDjZW6Yw8xColjJ35) | 2:21 | 2022-04-22 | 2023-08-15 |
 | [Evening tide](https://open.spotify.com/track/0CDcAZ780aambjOfSyi3nv) | [Arlo Thiem](https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd) | [Evening tide](https://open.spotify.com/album/5mDExQyqfGIgJ7d4PAsnXc) | 2:16 | 2023-01-31 | 2024-04-16 |
-| [Eveningtide](https://open.spotify.com/track/3QKFLAbRtaw6NXPa0XT6fR) | [Blake Hollow](https://open.spotify.com/artist/4UvYi8W3Tfi1FOeLN6rHZ7) | [Eveningtide](https://open.spotify.com/album/2qAaiGIL8k1bUjEGW4vRYC) | 2:13 | 2024-03-04 |  |
+| [Eveningtide](https://open.spotify.com/track/3QKFLAbRtaw6NXPa0XT6fR) | [Blake Hollow](https://open.spotify.com/artist/4UvYi8W3Tfi1FOeLN6rHZ7) | [Eveningtide](https://open.spotify.com/album/2qAaiGIL8k1bUjEGW4vRYC) | 2:13 | 2024-03-04 | 2025-05-30 |
 | [Everlost](https://open.spotify.com/track/5gKleAF9imvWmf46kIVar7) | [Domi Nova](https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz) | [Everlost](https://open.spotify.com/album/4OIaJjLneomYvwTl7zGRO7) | 3:01 | 2022-04-22 | 2023-12-13 |
 | [Fairy Wings](https://open.spotify.com/track/6CMNS6pnhXrNMVIaySBaMY) | [Jon Cossack](https://open.spotify.com/artist/6w8RoKnxCYlouuGTigZTO6) | [Fairy Wings](https://open.spotify.com/album/0AVeV4v7mhaOW7Okhxk7Yb) | 2:05 | 2023-06-19 |  |
 | [Faith](https://open.spotify.com/track/6rMKRMeW8iGPRGaAA3g8ZJ) | [Arvid Purna](https://open.spotify.com/artist/0B8wOVY2YZ4A3KVLNdtp2K) | [Faith](https://open.spotify.com/album/6KFLVb3LM2asbF4FbGdN99) | 2:13 | 2023-09-18 |  |
@@ -188,6 +189,7 @@
 | [Flow like there's no tomorrow](https://open.spotify.com/track/1qkv4AQX3dQ93UtiEjLETB) | [Lisa Kriegler](https://open.spotify.com/artist/5Mt0AabvbSZtBXNPhfMBik) | [Flow like there's no tomorrow](https://open.spotify.com/album/6NhPWzJslCZoTFClYBtOuP) | 3:36 | 2022-07-27 | 2025-04-10 |
 | [Follow The Wind](https://open.spotify.com/track/5TsrzBIJvEJXoujkVVY6be) | [Jett Ingram](https://open.spotify.com/artist/1OsM3C8DqfNYJc0PXD0Pyv) | [Follow The Wind](https://open.spotify.com/album/00szFnztAJMvCFQI4xN0pe) | 2:24 | 2022-04-22 | 2024-04-04 |
 | [For A Moment](https://open.spotify.com/track/1mKHZDWICROPP1gmOg1mn2) | [Haley Morrison](https://open.spotify.com/artist/3OMlFyzbxE7bDYBg4GiwET) | [For A Moment](https://open.spotify.com/album/0uQtP6n33MGR13YOZz4pmO) | 3:21 | 2023-10-16 | 2025-05-15 |
+| [For a Moment](https://open.spotify.com/track/3LpE4XPSmS6PoyVbnPb1xh) | [Matthew L\. Fisher](https://open.spotify.com/artist/2ih4rjK8ZgiEpVu3BJ6sUb) | [For a Moment](https://open.spotify.com/album/6w8sZ0dY0c8lnkDpIKRCzq) | 2:25 | 2025-05-29 |  |
 | [For Catherine](https://open.spotify.com/track/7sthK300jq1FzpSvJXID1L) | [Chad Hammond](https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL) | [For Catherine](https://open.spotify.com/album/3B1c7bhs9De05jWPNjVnIX) | 2:18 | 2022-07-27 | 2025-02-27 |
 | [For Kate](https://open.spotify.com/track/4uNQlDhz4fIKvjvdSESKou) | [Ed Chinaski](https://open.spotify.com/artist/1uiURs2L2yxv1vr5vGwbSt) | [For Kate](https://open.spotify.com/album/1eGuJ5nZme9vfMMyb5B07S) | 2:17 | 2022-04-22 | 2024-09-25 |
 | [For love](https://open.spotify.com/track/4kDRLAbvEWLXFRG3zPcU0p) | [Anton Lindholm](https://open.spotify.com/artist/3ZuH0PIvMsQwFwr76OrdnP) | [For love](https://open.spotify.com/album/6mLw8MErNI9cmkpjnAQ3bw) | 2:26 | 2025-03-28 |  |

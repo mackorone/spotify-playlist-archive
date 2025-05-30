@@ -2,9 +2,9 @@
 
 ### [VOLUME SUOMI](https://open.spotify.com/playlist/37i9dQZF1DX7Zqfq7rklwe)
 
-> Suomen suurin ja paras rock\-soittolista\. Kannessa Lost Society.
+> Suomen suurin ja paras rock\-soittolista\. Kannessa Ghost.
 
-250 songs - 16 hr 20 min
+251 songs - 16 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Anhedonia](https://open.spotify.com/track/4kQw8sDuZirD5DluVUm2ff) | [Sara](https://open.spotify.com/artist/2vWRgNboMcV1z1g7TrFsQr) | [Anhedonia](https://open.spotify.com/album/0w9soTmgOvg2anV3SfZ9jV) | 3:48 | 2024-09-26 | 2025-01-17 |
 | [Arms Around Me](https://open.spotify.com/track/301CeEA0GFGthMXOI3YXbc) | [Moon Shot](https://open.spotify.com/artist/7q6MMOgRRdkw9Xw5xAfQa9) | [The Power](https://open.spotify.com/album/6Rbxgt8xNmnc6xHlXSRxQM) | 4:09 | 2024-09-11 | 2025-01-17 |
 | [Ascension Day](https://open.spotify.com/track/4sscLguEDlCH2EfaS2FAYk) | [Von Hertzen Brothers](https://open.spotify.com/artist/5QA702pGd9qa2oWvp21ofG) | [Ascension Day](https://open.spotify.com/album/4ev1RRP4QZVJSouEmyai19) | 5:06 | 2024-09-19 | 2024-10-25 |
-| [Awake](https://open.spotify.com/track/6EZK2Ir2ottEL0eMiXO47f) | [Lost Society](https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN) | [If The Sky Came Down](https://open.spotify.com/album/0Af2e0rKhhsyAz83qsZzIF) | 5:12 | 2024-09-11 |  |
+| [Awake](https://open.spotify.com/track/6EZK2Ir2ottEL0eMiXO47f) | [Lost Society](https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN) | [If The Sky Came Down](https://open.spotify.com/album/0Af2e0rKhhsyAz83qsZzIF) | 5:12 | 2024-09-11 | 2025-05-30 |
 | [Aztec Death Whistle](https://open.spotify.com/track/3cXkBtO5htBKiM05H0PQ7F) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS) | [Aztec Death Whistle](https://open.spotify.com/album/1Zin3zqwp0N8wKOE3ZXlZg) | 3:19 | 2024-09-11 | 2024-09-20 |
 | [Back With A Bang](https://open.spotify.com/track/1F5x8GlQ5XKG29jBzIlSlM) | [Kissin' Dynamite](https://open.spotify.com/artist/2wSP2cFfkqg4LKu1pmkTWx) | [Back With A Bang](https://open.spotify.com/album/1OFd5G0pxS0BRsWr3HdV6N) | 3:33 | 2024-09-11 | 2025-02-07 |
 | [Ballyhoo](https://open.spotify.com/track/6Gfxs9YRSHZH6g53mcsHRZ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Ballyhoo](https://open.spotify.com/album/4YgpNAv2LjHEcPX2L4rtV3) | 2:45 | 2025-05-01 |  |
@@ -136,7 +136,7 @@
 | [Lost Boys](https://open.spotify.com/track/687klRjBy7iqdzCBtQwcQf) | [The 69 Eyes](https://open.spotify.com/artist/0Z1UczcSjwKNuv4HgdjH3b) | [Devils](https://open.spotify.com/album/2upv5guRDK6ThUT4CzrDIc) | 3:23 | 2024-09-11 |  |
 | [Louisa](https://open.spotify.com/track/6LWcaRttcmHuYC0PvBPKqz) | [Rokets](https://open.spotify.com/artist/7eSjy85dGwJONCL3BLctWf) | [Bad Choices](https://open.spotify.com/album/5bRqvjPj9l3IVsRE8Okizy) | 2:19 | 2025-05-16 |  |
 | [love u](https://open.spotify.com/track/71TlsrOr3eHZgdDDsNjOhv) | [LUNA KILLS](https://open.spotify.com/artist/5OMIs8tNddcCXVDMN8LLyQ) | [DEATHMATCH](https://open.spotify.com/album/1KzhjA47EIY2rX2WjKpMBR) | 3:21 | 2025-04-03 |  |
-| [Lovesick Lullaby](https://open.spotify.com/track/2LRSQhv3Vi8SkEllnvUhEK) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Lovesick Lullaby](https://open.spotify.com/album/3zwpHJVP5RXTpzQ7o2dpTu) | 2:55 | 2025-04-24 |  |
+| [Lovesick Lullaby](https://open.spotify.com/track/2LRSQhv3Vi8SkEllnvUhEK) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Lovesick Lullaby](https://open.spotify.com/album/3zwpHJVP5RXTpzQ7o2dpTu) | 2:55 | 2025-04-24 | 2025-05-30 |
 | [Made Of Metal](https://open.spotify.com/track/6YvnVtMnUipiiJXKexq9MI) | [Lordi](https://open.spotify.com/artist/14SgKNlOCKAI0PfRD1HnWh) | [Made Of Metal](https://open.spotify.com/album/6iF2V3BdIyQY21w3JyZcSN) | 4:12 | 2024-09-11 | 2024-10-04 |
 | [Mary On A Cross](https://open.spotify.com/track/0LOo3MYjiSzIOLjSd9wZUw) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Seven Inches Of Satanic Panic](https://open.spotify.com/album/7Lidkf6Nkvw5Ts7UbEeS6S) | 4:04 | 2024-12-19 | 2025-03-07 |
 | [Mea Culpa \(Ah! Ça ira!\)](https://open.spotify.com/track/4AFjPeecGnS3999PV5iOSK) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt), [Marina Viotti](https://open.spotify.com/artist/79i3gkVE8U1ff8X4TRX7y4), [Victor Le Masne](https://open.spotify.com/artist/73HYvBYbBoXKmDEzsM27RI) | [Mea Culpa \(Ah! Ça ira!\)](https://open.spotify.com/album/4k6UKb3mWQcQ5yEiyi43DT) | 2:53 | 2024-09-11 | 2025-03-14 |
@@ -257,6 +257,7 @@
 | [You In Youth](https://open.spotify.com/track/6iZACkU7tWa5aVI6Fdciyl) | [rock band from hell](https://open.spotify.com/artist/271PF7IlfHIJJ6XoOYg7cP) | [You In Youth](https://open.spotify.com/album/4SLNTIGAzqaKZvAODUNuZo) | 2:49 | 2024-11-28 | 2025-05-21 |
 | [Your Sweet 666](https://open.spotify.com/track/3IOTNKbDiyk8OpVrQZq838) | [HIM](https://open.spotify.com/artist/74aLweE8FHHf4yN5TWv1GM) | [Greatest Love Songs Vol\. 666](https://open.spotify.com/album/2p7iWrYivSiCScrpNI4qiD) | 4:12 | 2024-09-11 |  |
 | [Zombie](https://open.spotify.com/track/5d8Wq39QLT6OQWsY9paz5n) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Disobey](https://open.spotify.com/album/3jyiDkqTq16C8PHqAZu6oe) | 4:14 | 2024-12-19 |  |
+| [Zombie](https://open.spotify.com/track/7DQotDUGnJkXgNJv363GXF) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Zombie](https://open.spotify.com/album/2VjTqSwV1IY3a4kFdurCVv) | 4:06 | 2025-05-29 |  |
 | [Älä pelkää pimeää](https://open.spotify.com/track/3gpJJJfQN3LePhH55wtAqh) | [Viikate](https://open.spotify.com/artist/7q12xW42JkVKEMFNQACZ3l) | [Askel](https://open.spotify.com/album/0XealbfQIWQ9Xc4Gh6qjoN) | 3:12 | 2024-09-11 | 2024-09-20 |
 
 \*This playlist was first scraped on 2024-09-12. Prior content cannot be recovered.

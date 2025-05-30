@@ -889,6 +889,24 @@
     },
     {
       "album": {
+        "name": "THE IDOLM@STER SideM ORIGIN@L PIECES 02",
+        "url": "https://open.spotify.com/album/7vKuKjUjsikdlFhOXbX4Ld"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u697d \u9e97 (CV.\u6c38\u91ce\u7531\u7950)",
+          "url": "https://open.spotify.com/artist/362D8P2T3DvFL9bU2Zs3jo"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293360,
+      "name": "Echoes My Note",
+      "url": "https://open.spotify.com/track/0aAoE7GsF884YSSXAMEt23"
+    },
+    {
+      "album": {
         "name": "THE IDOLM@STER SideM 49 ELEMENTS -11 Legenders",
         "url": "https://open.spotify.com/album/2rp14XeiuA5mYCZoO5D1Jw"
       },
@@ -1122,7 +1140,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 220293,
       "name": "GIVE ME FUSION",
       "url": "https://open.spotify.com/track/2u88brqMvhPCrtFqSzxO61"

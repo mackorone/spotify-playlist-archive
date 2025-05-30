@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfGx5o2qjVb.md) - [plain]
 
 > <a href="spotify:artist:4p5WgeiPSPpqPDs7T6OkWf">ANOTR</a>'s favorite tracks\. Curated by ANOTR\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,301 likes - 100 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,327 likes - 100 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfGx5o2qjVb.md) - [plain]
 | 55 | [Time Is On Our Side \- Edit](https://open.spotify.com/track/0D7PkDncUlv2FjOjfcQWau) | [Mad Honey](https://open.spotify.com/artist/4ImL9622xpI5SQnjMVZCnV), [Another Taste](https://open.spotify.com/artist/47z8yPNt1lLP2C9fx0uYvS) | [Setback / Time Is On Our Side](https://open.spotify.com/album/3baPp0jFg7UW8BEm2aC7l6) | 6:15 |
 | 56 | [Smells Like You](https://open.spotify.com/track/3knO1ek0smFqqsQNR5HaU6) | [Origāmi](https://open.spotify.com/artist/0wUeskhCjrNua9CuV5D0Z0), [Pau Sotomayor](https://open.spotify.com/artist/056E7SvpkfW3APQoHf35zN) | [Smells Like You](https://open.spotify.com/album/1uVLTR5cjjBE8eeRmXHoMM) | 4:29 |
 | 57 | [Under No Nation \- Radio Edit](https://open.spotify.com/track/4FtumUPkZgKXyItJx2telR) | [Goat](https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP) | [Under No Nation \(Radio Edit\)](https://open.spotify.com/album/6NpZ9v8aJwdLdhhVEJq3Lm) | 3:04 |
-| 58 | [Teardrops](https://open.spotify.com/track/7FMAe3x132zl7n1M0U0THP) | [Womack & Womack](https://open.spotify.com/artist/7qShKycqNUP0GLEiTENDVZ) | [Teardrops \(Sped Up\)](https://open.spotify.com/album/2jFN1fc4a0TPbroKWiUjPK) | 3:48 |
+| 58 | [Teardrops \- 7” Single Version](https://open.spotify.com/track/7FMAe3x132zl7n1M0U0THP) | [Womack & Womack](https://open.spotify.com/artist/7qShKycqNUP0GLEiTENDVZ) | [Teardrops \(Sped Up\)](https://open.spotify.com/album/2jFN1fc4a0TPbroKWiUjPK) | 3:48 |
 | 59 | [OBiNRiN \- IZCO Remix](https://open.spotify.com/track/10y1PJ6s7JVLmFlcvhF8eM) | [DIVINEANGEL](https://open.spotify.com/artist/2P2NByJDCB5VUHkKVVnOtX), [Divine Earth](https://open.spotify.com/artist/3Sjvp3uM9DWVg54ZhdfmO3), [Angel Seka](https://open.spotify.com/artist/3YqnEjLCU7wmiG51vnUlC0), [IZCO](https://open.spotify.com/artist/4uqqEE1NaQBAa4wnDug9c1) | [OBiNRiN Remixes](https://open.spotify.com/album/5aBHKPs8BBlvvzcC6K5d4v) | 2:59 |
 | 60 | [Estou Livre](https://open.spotify.com/track/7030TiAyz3KmnXRklU2uDI) | [Tony Adams](https://open.spotify.com/artist/79v25tS4V21XCbrPSGMrtq) | [Brazilian Compilation Series, Vol\. 2](https://open.spotify.com/album/4XBYRpTCJiwgBPbtjMFP1o) | 4:50 |
 | 61 | [Kong](https://open.spotify.com/track/1AOy9cNv4cEIvVwjEQmEtG) | [Glass Beams](https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF) | [Mirage](https://open.spotify.com/album/2IoG9R4tMHazagfGb695K2) | 4:47 |

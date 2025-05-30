@@ -2,9 +2,9 @@
 
 ### [Rock The World](https://open.spotify.com/playlist/37i9dQZF1DWYXBm3qy96SP)
 
-> 世界中のロックシーンを彩る話題曲をチェック。Cover: Green Day
+> 世界中のロックシーンを彩る話題曲をチェック。Cover: Rise Against
 
-1,589 songs - 3 day 19 hr 33 min
+1,592 songs - 3 day 19 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [Avalanche Of Love \(feat\. Sampa the Great\)](https://open.spotify.com/track/20yvPj3wzqoV5wvdkj89lj) | [WITCH](https://open.spotify.com/artist/0LMkPoi2xIgpOPUSJMftqM), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [Avalanche of Love \(feat\. Sampa the Great\)](https://open.spotify.com/album/7JSj5PDFnh9x6DevquJxep) | 3:55 | 2023-04-06 | 2023-04-14 |
 | [B/W Rainbow](https://open.spotify.com/track/4Mao9J2KxOWkqp9u1LULTd) | [Stuck in the Sound](https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy) | [B/W Rainbow](https://open.spotify.com/album/2UrIwY8TCUCBe5VXVCStoO) | 2:42 | 2023-11-23 | 2023-12-01 |
 | [BABY SAID](https://open.spotify.com/track/2KReCz1L5XkGIBhDncQ5VZ) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 2:44 | 2023-03-16 | 2023-09-15 |
-| [Babygirl](https://open.spotify.com/track/0qtvCZI69m5RPDsGXLkzVJ) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Babygirl](https://open.spotify.com/album/6hONHPkl2qXdM092MirNTf) | 2:54 | 2025-03-20 |  |
+| [Babygirl](https://open.spotify.com/track/0qtvCZI69m5RPDsGXLkzVJ) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Babygirl](https://open.spotify.com/album/6hONHPkl2qXdM092MirNTf) | 2:54 | 2025-03-20 | 2025-05-30 |
 | [Back to the Light](https://open.spotify.com/track/3DbbslE3KZNVQ2aCsjcF40) | [Teenage Fanclub](https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW) | [Back to the Light](https://open.spotify.com/album/5HsJ8jtEXFxujuleSECHng) | 3:06 | 2023-08-10 | 2023-08-18 |
 | [Back To Us \(feat\. Goody Grace and Smrtdeath\)](https://open.spotify.com/track/1jOzZUwloEQwXTSEhIrRW3) | [44Blonde](https://open.spotify.com/artist/4KVVfMSquW9mvY3CHFwAxX), [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30), [Smrtdeath](https://open.spotify.com/artist/4NYeChhB65zL0ywl4rHmSk) | [Back To Us \(feat\. Goody Grace and Smrtdeath\)](https://open.spotify.com/album/6JKG9hCQqO9rCtT1NmCMEs) | 2:42 | 2023-12-14 | 2023-12-22 |
 | [Back To You](https://open.spotify.com/track/0NNFtjZHwjTZzBtBkRxhtY) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [ILLENIUM](https://open.spotify.com/album/0ValflNlWce21wm5PlwV60) | 3:07 | 2023-05-11 | 2023-05-19 |
@@ -335,6 +335,7 @@
 | [Cost](https://open.spotify.com/track/3Eg2GL1QzEfELjZknELk5S) | [Future Humans](https://open.spotify.com/artist/4BXM7ghfjufutCDfJfXdIl) | [If This Is the End](https://open.spotify.com/album/6djfhzLovf3YXS9fFmUAgh) | 3:12 | 2023-11-30 | 2023-12-08 |
 | [Council Skies](https://open.spotify.com/track/1KDR3iKY185DjEREnzYhgU) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Council Skies](https://open.spotify.com/album/0LEsy6Ncwa96urueYAB8ud) | 4:42 | 2023-04-20 | 2023-04-28 |
 | [Countdown To Shutdown](https://open.spotify.com/track/1bw8MQNG3NOQCfJQD1Auxt) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Countdown To Shutdown](https://open.spotify.com/album/7exlpnPOPjdUfwKwZ3tvQk) | 3:13 | 2023-06-15 | 2023-06-23 |
+| [CPR](https://open.spotify.com/track/4shJVGH4xRWChBSkHHamxv) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [CPR](https://open.spotify.com/album/74nethFnPNZe86ksfRl0gh) | 2:50 | 2025-05-29 |  |
 | [Crack!](https://open.spotify.com/track/5fdcRU4NnzoQDvUaITXU8n) | [Summer Whales](https://open.spotify.com/artist/3hkum3WiqHnQUdMicxAsS8) | [Doughy](https://open.spotify.com/album/3awx1iBGigpJlxHssiFSjA) | 3:14 | 2024-07-18 | 2024-08-16 |
 | [Creature](https://open.spotify.com/track/6sSxQwz5SBYSLfiyRKWSkC) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6) | [Creature](https://open.spotify.com/album/5ZTrE6qqgvvz2aycIKtbQi) | 3:45 | 2024-01-25 | 2024-02-23 |
 | [Creep \- Spotify Singles](https://open.spotify.com/track/1PZvPorXQLC44jmIQuLfmG) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Spotify Singles](https://open.spotify.com/album/1adXyfI1jkHpWe7145pXK4) | 5:02 | 2023-11-09 | 2023-11-17 |
@@ -584,7 +585,7 @@
 | [Good Time](https://open.spotify.com/track/5HuLnaRoHZTcgu2GMAbLGJ) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Good Time](https://open.spotify.com/album/0OnblvmyOmNIlMGL6rxLWx) | 3:06 | 2024-04-18 | 2024-06-03 |
 | [Good Vibrations](https://open.spotify.com/track/1boQ8QXXPNRW1mpJKepfOz) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS) | [Good Vibrations](https://open.spotify.com/album/7McOe3kUKSJasl5N1oOlII) | 3:45 | 2023-06-30 | 2023-07-14 |
 | [GOSSIP \(feat\. Tom Morello\)](https://open.spotify.com/track/44Xyja7xYPlVC6v2CeweSi) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 2:48 | 2023-04-14 |  |
-| [Got to Have Love](https://open.spotify.com/track/4bhA5X3qMEcTycEoW6BvJ2) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [Got to Have Love](https://open.spotify.com/album/2bMabGrC1sdXbXykn6t0Ij) | 4:52 | 2025-05-22 |  |
+| [Got to Have Love](https://open.spotify.com/track/4bhA5X3qMEcTycEoW6BvJ2) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [Got to Have Love](https://open.spotify.com/album/2bMabGrC1sdXbXykn6t0Ij) | 4:52 | 2025-05-22 | 2025-05-30 |
 | [Grace](https://open.spotify.com/track/0j6oelnoCs8StrR26Fm04P) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Grace](https://open.spotify.com/album/46x33FiHk7u4QRrf2H6pfY) | 3:53 | 2023-12-07 | 2023-12-15 |
 | [Gravity](https://open.spotify.com/track/3tlw6dqv2qejTGLnVaEsgb) | [Sleep Theory](https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN) | [Afterglow](https://open.spotify.com/album/5VFCZaivqUDRJq34ylEbt5) | 3:53 | 2025-05-16 |  |
 | [Great Decisions](https://open.spotify.com/track/5IJ6OY6JYxeG9dqXbLxs1D) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Great Decisions](https://open.spotify.com/album/2hbPEdecB1IsThIxiNdP99) | 2:55 | 2024-02-29 | 2024-05-03 |
@@ -681,6 +682,7 @@
 | [I remember how your hands felt on mine](https://open.spotify.com/track/4rWWNbsiorGPfSb7B4c8sy) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [I remember how your hands felt on mine](https://open.spotify.com/album/51SGbfwir9zzbgr2N0BxfO) | 3:15 | 2024-10-31 | 2025-04-11 |
 | [i should call my friends](https://open.spotify.com/track/7u0JipKqt3pIxbvgjOqd4R) | [Hey Violet](https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am) | [i should call my friends](https://open.spotify.com/album/7qYCSuZ6kdIid6QrhuLAYe) | 2:39 | 2023-10-12 | 2023-10-27 |
 | [I Thought You'd Change](https://open.spotify.com/track/3ePFWIRZNratB2vjSrSKoP) | [Hotline TNT](https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe) | [Cartwheel](https://open.spotify.com/album/6LrhvefGM7zcJpIdMC9otz) | 2:51 | 2024-01-04 | 2024-01-12 |
+| [I Want It All](https://open.spotify.com/track/6nUv1TbOMwOYzESvJCVbF7) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [I Want It All](https://open.spotify.com/album/5ePyRQrVvJWE3YJ8t9FQcw) | 3:06 | 2025-05-29 |  |
 | [I Want It All](https://open.spotify.com/track/5Gfnj8IW7A0YmmPyUzFoQp) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [Jonny](https://open.spotify.com/album/2yyDNz8lkP0igqZfZzEgv0) | 4:55 | 2024-04-04 | 2024-06-01 |
 | [I Want You To Know Me](https://open.spotify.com/track/2lIl1LDlcnAoYnDOE6Xngi) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [I Want You To Know Me](https://open.spotify.com/album/4ybZv7O8powGQPEhTK9cD0) | 3:37 | 2024-01-11 | 2024-01-19 |
 | [I Was Alive](https://open.spotify.com/track/7Csk3CTefKI9mEZvwNCjNX) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [The Surface](https://open.spotify.com/album/5WmbnLQhy8ndx8S7puEolG) | 3:18 | 2023-10-12 | 2023-10-20 |
@@ -1096,7 +1098,7 @@
 | [pretty good for a bad day](https://open.spotify.com/track/00LBxD0r6QHfBYDrvJUsuw) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU), [Alex Gaskarth](https://open.spotify.com/artist/5X0hXpGcJDZiGTpnGPWEm5) | [pretty good for a bad day](https://open.spotify.com/album/3Rj2HxZFLcGCCb7bZWwe9r) | 3:15 | 2023-12-14 | 2023-12-22 |
 | [Pretty in pink](https://open.spotify.com/track/4xCy0UyJ5qMx0bbt4F9B0d) | [WENDY](https://open.spotify.com/artist/2i8mY7fj920uqkcPkoX6QS) | [Pretty in pink](https://open.spotify.com/album/5Cgh8OZAJ8Y6haJyxMzBVH) | 2:56 | 2023-04-27 | 2023-05-05 |
 | [Pretty Vicious](https://open.spotify.com/track/0qIOCd5RPUKObKu9FTWRaz) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Pretty Vicious](https://open.spotify.com/album/6LaR18ZPjkJzY6TQse2lt8) | 5:10 | 2023-10-19 | 2023-11-03 |
-| [Prizefighter](https://open.spotify.com/track/1mvStaNiiO38hfsdWs5d2F) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Prizefighter](https://open.spotify.com/album/6wSfrkBLBrN619oQx8OYTq) | 3:20 | 2025-04-03 |  |
+| [Prizefighter](https://open.spotify.com/track/1mvStaNiiO38hfsdWs5d2F) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Prizefighter](https://open.spotify.com/album/6wSfrkBLBrN619oQx8OYTq) | 3:20 | 2025-04-03 | 2025-05-30 |
 | [Prophecy of the Dragon](https://open.spotify.com/track/6sDP5eAl2X2VZXc6vQfRJM) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Prophecy of the Dragon](https://open.spotify.com/album/2vgY7kyz9brbPUKBE6DAqs) | 4:53 | 2023-05-25 | 2023-06-02 |
 | [Prove It To You](https://open.spotify.com/track/4Z7kVvEhQ3jqhskvmcrgfW) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Prove It To You](https://open.spotify.com/album/4Xz22ylDIPE8D3KGjptD4J) | 3:20 | 2024-01-25 | 2024-02-02 |
 | [Psycho](https://open.spotify.com/track/6s3MpvQ1ulwrTuRhBgv0Eu) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Psycho](https://open.spotify.com/album/1dK86eMRKHfAeN92ZwFaCe) | 3:56 | 2023-06-15 | 2023-08-31 |
@@ -1172,6 +1174,7 @@
 | [Salvation](https://open.spotify.com/track/54VRGCpS5jUI4PXa5jAZFL) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [Salvation](https://open.spotify.com/album/0Zjqgl37E3nYM9No5UA1Zm) | 3:35 | 2023-03-30 | 2023-04-07 |
 | [Sanity \(Re: Jack Antonoff\)](https://open.spotify.com/track/7fdTX00771dvqvHcEKBEa6) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Re: This Is Why](https://open.spotify.com/album/7t4NiEDttnvbCSF0sREjds) | 3:27 | 2024-02-15 | 2024-03-22 |
 | [Satanized](https://open.spotify.com/track/5yt7aRlPMFdsLulfqBYDsc) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Satanized](https://open.spotify.com/album/1iIObYoApKb4DE2rr8PdBX) | 3:56 | 2025-03-06 |  |
+| [Save The Cat](https://open.spotify.com/track/0L0DVRuUZ0lJIyq8oNQtF9) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B) | [Save The Cat](https://open.spotify.com/album/3lF11dYBA2aml6FwhXBh5k) | 2:52 | 2025-05-29 |  |
 | [Savior](https://open.spotify.com/track/6BwmYF0DqrrX6OkaOJphQH) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Die About It](https://open.spotify.com/album/7vL9sQj9AGhuBRHn969A9X) | 2:59 | 2023-11-02 | 2023-11-10 |
 | [say it](https://open.spotify.com/track/4xFOkjzx24JL0FrplTyMAS) | [The KYLE](https://open.spotify.com/artist/0IQ0dKIOfKs1h7nIDcKBuW) | [say it](https://open.spotify.com/album/1wR2zPQSlFq0o8fqHibOQe) | 3:05 | 2023-12-07 | 2023-12-15 |
 | [Say It Ain't So \- Spotify Anniversaries Version \- Live](https://open.spotify.com/track/5yNwnJeSPgDGSdvuCf44g0) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [The 30th Anniversary of Weezer \| Spotify Anniversaries LIVE](https://open.spotify.com/album/5ClwmEMWeYJPRuCeDNug3S) | 4:17 | 2024-06-28 | 2024-07-12 |

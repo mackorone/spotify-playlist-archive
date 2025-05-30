@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "New and emerging R&B, afropop and Alternative tracks. Cover: Boy Pee",
+  "description": "New and emerging R&B, afropop and Alternative tracks. Cover: Braye",
   "name": "Sizzlers ",
   "tracks": [
     {
@@ -8108,7 +8108,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 165896,
       "name": "Go Away",
       "url": "https://open.spotify.com/track/1p8VRVuGMKDNTaZ35vJA8Y"
@@ -8395,6 +8395,28 @@
     },
     {
       "album": {
+        "name": "Grizzly",
+        "url": "https://open.spotify.com/album/49ybIWZtk46KKSRyOr2N8n"
+      },
+      "artists": [
+        {
+          "name": "Apple Gule",
+          "url": "https://open.spotify.com/artist/6qQiyy1hXfRttZvgHqdwM1"
+        },
+        {
+          "name": "Anzo",
+          "url": "https://open.spotify.com/artist/0mXjRSmbTBBoufMmTKuGmv"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162388,
+      "name": "Grizzly",
+      "url": "https://open.spotify.com/track/6l1AkbIl0zgzEEU2CvWFBp"
+    },
+    {
+      "album": {
         "name": "Grown Ass Girl.",
         "url": "https://open.spotify.com/album/4KR4FghCCBGvhxvsgnRVe0"
       },
@@ -8656,7 +8678,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 151322,
       "name": "Heartbreak",
       "url": "https://open.spotify.com/track/4Ra86g92ZKzJmK2tgEGJyG"
@@ -8714,7 +8736,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 337058,
       "name": "Heaven Dey Burn",
       "url": "https://open.spotify.com/track/74oL9AzjWzMu8C24lbya03"
@@ -9338,7 +9360,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 138300,
       "name": "How",
       "url": "https://open.spotify.com/track/28Mube4Oid2Imbx9sBUhqw"
@@ -9787,6 +9809,24 @@
     },
     {
       "album": {
+        "name": "Free me",
+        "url": "https://open.spotify.com/album/1pJJZNi2UtjkoUYQL1VJEC"
+      },
+      "artists": [
+        {
+          "name": "Terry G",
+          "url": "https://open.spotify.com/artist/0Azkx5tjOLekLGEavycJ3S"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260440,
+      "name": "I no go lie",
+      "url": "https://open.spotify.com/track/5FJjpkLJIc8QYyxU95s7Zu"
+    },
+    {
+      "album": {
         "name": "I Regret",
         "url": "https://open.spotify.com/album/7yMBUhBFLWmcf58qL9b9SQ"
       },
@@ -9867,6 +9907,24 @@
     },
     {
       "album": {
+        "name": "I Want More",
+        "url": "https://open.spotify.com/album/0LRe4arxBGysYf7l9rM5Pf"
+      },
+      "artists": [
+        {
+          "name": "CupidSZN",
+          "url": "https://open.spotify.com/artist/150lmofYTz4i9fnVzM6AZZ"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122890,
+      "name": "I Want More",
+      "url": "https://open.spotify.com/track/596BNhRO3pGpHKhBmOd9WH"
+    },
+    {
+      "album": {
         "name": "I Want To",
         "url": "https://open.spotify.com/album/5uDPaLBvxk6V7ukHLczGcP"
       },
@@ -9882,6 +9940,24 @@
       "duration_ms": 180035,
       "name": "I Want To",
       "url": "https://open.spotify.com/track/2bdOTedTdlAmv78Ed10A6l"
+    },
+    {
+      "album": {
+        "name": "I Wish I Had More Time",
+        "url": "https://open.spotify.com/album/3vmGWdWH4DkbiLWlb3s9kb"
+      },
+      "artists": [
+        {
+          "name": "Braye",
+          "url": "https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189999,
+      "name": "I Wish I Had More Time",
+      "url": "https://open.spotify.com/track/5BQML4ZWArKHRCiQuQ4cDT"
     },
     {
       "album": {
@@ -11542,6 +11618,24 @@
       "duration_ms": 173921,
       "name": "Lactose",
       "url": "https://open.spotify.com/track/0e3qyt6xOYv3KdyfWkHUgm"
+    },
+    {
+      "album": {
+        "name": "Ladida",
+        "url": "https://open.spotify.com/album/5H10ukTXc6mnzTe7leaQPJ"
+      },
+      "artists": [
+        {
+          "name": "Bloody Civilian",
+          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131307,
+      "name": "Ladida",
+      "url": "https://open.spotify.com/track/0UewHkoEkSW2cbpNbLPI4F"
     },
     {
       "album": {
@@ -14598,7 +14692,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 156000,
       "name": "My Way",
       "url": "https://open.spotify.com/track/1mKTa5l73nQ2LGHIaT6WZJ"
@@ -15490,6 +15584,24 @@
       "duration_ms": 202549,
       "name": "Now and Always - Remix",
       "url": "https://open.spotify.com/track/5XCyI5ldTe0qFnrRZHYo7Y"
+    },
+    {
+      "album": {
+        "name": "Now Im Alone",
+        "url": "https://open.spotify.com/album/4lzxjxo7PWujSEXfJkMLu7"
+      },
+      "artists": [
+        {
+          "name": "Ria Sean",
+          "url": "https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134840,
+      "name": "Now Im Alone",
+      "url": "https://open.spotify.com/track/6lhnMPBSRL8XrxGm118vNO"
     },
     {
       "album": {
@@ -17956,7 +18068,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 158400,
       "name": "Pull up",
       "url": "https://open.spotify.com/track/1JvqN0vUrSfB01bQoGexLn"
@@ -20797,6 +20909,24 @@
     },
     {
       "album": {
+        "name": "I Wish I Had More Time",
+        "url": "https://open.spotify.com/album/3vmGWdWH4DkbiLWlb3s9kb"
+      },
+      "artists": [
+        {
+          "name": "Braye",
+          "url": "https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219199,
+      "name": "Stuck",
+      "url": "https://open.spotify.com/track/3fDUVymijOJEa0cchGb9sb"
+    },
+    {
+      "album": {
         "name": "Stupid Love",
         "url": "https://open.spotify.com/album/5iyb0MZM2S0hmr0dPyh9PV"
       },
@@ -21768,6 +21898,28 @@
       "duration_ms": 225009,
       "name": "tethered",
       "url": "https://open.spotify.com/track/60WK2pLEcXCv2dD1VJqHOu"
+    },
+    {
+      "album": {
+        "name": "Than All [2]",
+        "url": "https://open.spotify.com/album/3aLRoGblO2UEE6P3GsTHGj"
+      },
+      "artists": [
+        {
+          "name": "wordsofAzia",
+          "url": "https://open.spotify.com/artist/663EtY2EOQrh6XYQGYIdK7"
+        },
+        {
+          "name": "FirstKlaz",
+          "url": "https://open.spotify.com/artist/6VPpDxzOXTPNsdxfJ5cAR5"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141176,
+      "name": "Than All [2]",
+      "url": "https://open.spotify.com/track/1IGOYnjQk8I8QRTCKLB93v"
     },
     {
       "album": {

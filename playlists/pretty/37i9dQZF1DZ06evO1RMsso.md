@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1RMsso.md) - [plain]
 
 > This is John Williams\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,051 likes - 42 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,072 likes - 42 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1RMsso.md) - [plain]
 | 9 | [Anakin vs\. Obi\-Wan](https://open.spotify.com/track/3fzL0RuACZtv5cQ6R78Sjq) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: Revenge of the Sith \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6zhlos3HFJrWni7rjqxacg) | 3:56 |
 | 10 | [Prologue](https://open.spotify.com/track/6CeCOC2zx1qS8mQNYHe6IM) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Harry Potter and The Sorcerer's Stone Original Motion Picture Soundtrack](https://open.spotify.com/album/6zeHM5CV0CjcS0K8ouWE4N) | 2:10 |
 | 11 | [Reunion of Friends](https://open.spotify.com/track/0rpSIjKSmZ2SFO6vmLJpXl) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Harry Potter and The Chamber of Secrets/ Original Motion Picture Soundtrack](https://open.spotify.com/album/5nzzU118YRlXdhjRMb3fq0) | 5:08 |
-| 12 | [Sayuri's Theme](https://open.spotify.com/track/0RGZCtszeCpGRgbMyVigAG) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk), [Itzhak Perlman](https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA) | [Memoirs of a Geisha \(Remastered\)](https://open.spotify.com/album/4wcOu3JLqjWjcFpMwKS69C) | 1:31 |
-| 13 | [Secrets of the Castle](https://open.spotify.com/track/5PUvxyQ0STurZq4TM8yl4F) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Harry Potter and the Prisoner of Azkaban / Original Motion Picture Soundtrack](https://open.spotify.com/album/7DDls7RWrCLvZgTVCJgfcq) | 2:32 |
+| 12 | [Secrets of the Castle](https://open.spotify.com/track/5PUvxyQ0STurZq4TM8yl4F) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Harry Potter and the Prisoner of Azkaban / Original Motion Picture Soundtrack](https://open.spotify.com/album/7DDls7RWrCLvZgTVCJgfcq) | 2:32 |
+| 13 | [Sayuri's Theme](https://open.spotify.com/track/0RGZCtszeCpGRgbMyVigAG) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk), [Itzhak Perlman](https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA) | [Memoirs of a Geisha \(Remastered\)](https://open.spotify.com/album/4wcOu3JLqjWjcFpMwKS69C) | 1:31 |
 | 14 | [Hedwig's Theme](https://open.spotify.com/track/1n8NKQRg8LVHy7oUhUgbFF) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Harry Potter and The Sorcerer's Stone Original Motion Picture Soundtrack](https://open.spotify.com/album/6zeHM5CV0CjcS0K8ouWE4N) | 5:09 |
 | 15 | [Cantina Band](https://open.spotify.com/track/5ZSAdkQb23NPIcUGt6exdm) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: A New Hope \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/55gMu4AvAKCbCaGv3GIXgy) | 2:44 |
 | 16 | [Fawkes the Phoenix](https://open.spotify.com/track/1m4ZjbibTvvmYIJyXAIuxv) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Harry Potter and The Chamber of Secrets/ Original Motion Picture Soundtrack](https://open.spotify.com/album/5nzzU118YRlXdhjRMb3fq0) | 3:45 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1RMsso.md) - [plain]
 | 41 | [Hymn To The Fallen \- From "Saving Private Ryan" Soundtrack](https://open.spotify.com/track/71zPpqRMdkEUCl7cPQIBrV) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Saving Private Ryan](https://open.spotify.com/album/60Ymcp3amHOWlPfPnNeNSI) | 6:10 |
 | 42 | [I Could Have Done More](https://open.spotify.com/track/52PSKy15gHNoaidUT4i5vt) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [Itzhak Perlman](https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA), [Boston Symphony Orchestra](https://open.spotify.com/artist/0K23lQ2hSQAlxSEeZ05bjI) | [Schindler's List](https://open.spotify.com/album/1I3unGxGIIxCQkYPlzzaL8) | 5:52 |
 
-Snapshot ID: `aDUAgAAAAAAIJb/k8bJY0sh9SRWpkNqT`
+Snapshot ID: `aDZSAAAAAACJmRXR7iskmoA7HWf9li2a`

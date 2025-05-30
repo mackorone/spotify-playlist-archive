@@ -1295,6 +1295,28 @@
     },
     {
       "album": {
+        "name": "Geboren um zu leben",
+        "url": "https://open.spotify.com/album/4ouPGR0UfyUeDqb56e4ray"
+      },
+      "artists": [
+        {
+          "name": "Kontra K",
+          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
+        },
+        {
+          "name": "NESS",
+          "url": "https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168727,
+      "name": "Geboren um zu leben",
+      "url": "https://open.spotify.com/track/0KHSvFopZcVxNuAB7oQPDv"
+    },
+    {
+      "album": {
         "name": "Gesegnet",
         "url": "https://open.spotify.com/album/28znTBZh9uV0BCoJ0w6xuk"
       },
@@ -2952,7 +2974,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 147500,
       "name": "On/Off",
       "url": "https://open.spotify.com/track/5X63FvEXgMGIt7LF6U7v2W"

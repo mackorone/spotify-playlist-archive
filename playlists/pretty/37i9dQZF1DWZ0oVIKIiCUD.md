@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0oVIKIiCUD.md) - [plain]
 
 > Get ready for the upcoming festival by listening to the best songs from the festival lineup! \(페스티벌 참가 라인업의 베스트 곡들을 들으며 다가오는 페스티벌을 준비해보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 8 likes - 90 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 432 likes - 90 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0oVIKIiCUD.md) - [plain]
 | 58 | [難しい](https://open.spotify.com/track/4A17FmwUuCAHfPm8vB8VTq) | [kanekoayano](https://open.spotify.com/artist/57pOIEYikq3gxJLw3l0a7c) | [石の糸](https://open.spotify.com/album/2mwTHy379ujzZaHgj5AJEA) | 3:07 |
 | 59 | [Not But Disco](https://open.spotify.com/track/0zYh96PnOBI8zFCHedpSzc) | [KARDI](https://open.spotify.com/artist/6v8xPUDPu5hQlu0GrYHyOE) | [Not But Disco](https://open.spotify.com/album/0maHyVb700DeV5b76MdpeG) | 3:44 |
 | 60 | [Watchout](https://open.spotify.com/track/3oRw1Wqci8aww8fWildPza) | [KARDI](https://open.spotify.com/artist/6v8xPUDPu5hQlu0GrYHyOE) | [Chill](https://open.spotify.com/album/3W873KOrXXUFqGxW2ESgoo) | 2:57 |
-| 61 | [Endless Night](https://open.spotify.com/track/3WfJO9VcW0lYhpmKc29fKF) | [Beck](https://open.spotify.com/artist/43rF0ezbI0BApStNet2EWk) | [Endless Night](https://open.spotify.com/album/4DYZfWqf0nHrtkSu3W9Ffy) | 4:22 |
-| 62 | [Leave](https://open.spotify.com/track/7GCyLh9De79wwOs9bSaExP) | [Beck](https://open.spotify.com/artist/43rF0ezbI0BApStNet2EWk) | [Leave](https://open.spotify.com/album/6N4XyuPypA225gnYgz58pw) | 3:28 |
+| 61 | [Loser](https://open.spotify.com/track/5PntSbMHC1ud6Vvl8x56qd) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Mellow Gold](https://open.spotify.com/album/0iIGP4Sxw3KR4OCFv2yvz8) | 3:55 |
+| 62 | [E\-Pro](https://open.spotify.com/track/01MBhRpvFkbeRwAp7gcF2W) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Guero](https://open.spotify.com/album/2EugWXUZjr78KJFqZavvZT) | 3:22 |
 | 63 | [스물다섯, 스물하나](https://open.spotify.com/track/3DmDPYRQYdYE5gWf2DiKn2) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [Goodbye, grief.](https://open.spotify.com/album/2Db7g2nYCXggiNOJc59vkS) | 4:44 |
 | 64 | [Mister Klauss](https://open.spotify.com/track/5nB2E5T0IDShiBc3qeP6nn) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [MERRY SPOOKY X\-MAS](https://open.spotify.com/album/0UTmpaHoC7vGHD5XZMIVdm) | 3:15 |
 | 65 | [Magnolia](https://open.spotify.com/track/5zITiikxJP51591PPTd0pU) | [Deafheaven](https://open.spotify.com/artist/4XpPveeg7RuYS3CgLo75t9) | [Lonely People With Power](https://open.spotify.com/album/5Eh3xMVdGFAUiYwuoPOzXc) | 4:14 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0oVIKIiCUD.md) - [plain]
 | 89 | [H O M E](https://open.spotify.com/track/5E7MmixrLwGiOvEkAybNpr) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [HOME](https://open.spotify.com/album/4finbgKnMb3yfGdr0vErpw) | 3:51 |
 | 90 | [Let Me Love My Youth](https://open.spotify.com/track/4KA9VMFIKUUMjEcnwiylr1) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [Let Me Love My Youth](https://open.spotify.com/album/7bRI9NhWadLpdKCWvzsuWJ) | 4:08 |
 
-Snapshot ID: `aDbFxAAAAABlg8OSpv5R1UiK1wI2iTGf`
+Snapshot ID: `aDf3FAAAAACOBcgtB+y6eCcm4LlwytKz`

@@ -4,7 +4,7 @@
 
 > Come, lets take a soulful journey through rhythmic grooves
 
-128 songs - 7 hr 10 min
+129 songs - 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Mgeni](https://open.spotify.com/track/2kDf9925nj8X3beV0aRMOb) | [BFG Buliba](https://open.spotify.com/artist/2YvSRHln4kRr59gJw5N8lk) | [Mgeni](https://open.spotify.com/album/0idQziT5TBNDH9vMeNUUvY) | 3:20 | 2024-10-17 |  |
 | [Miss You](https://open.spotify.com/track/1MpyOrNKUXCv3lE9DlPqWe) | [Lone Tree](https://open.spotify.com/artist/0VAj0iiD96mFA60tqZrtUU) | [Miss You](https://open.spotify.com/album/6gqySHl4zPpgNOcxg9Usdj) | 4:47 | 2024-03-22 |  |
 | [MOMMA \- Reloaded](https://open.spotify.com/track/3UWc0rG6dXtn6KMgUpvQwq) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520) | [MOMMA \(Reloaded\)](https://open.spotify.com/album/3Cvv9W4Me9uPv7WXDI7y6v) | 3:46 | 2024-05-09 | 2025-01-18 |
-| [Money Emotions](https://open.spotify.com/track/79KjJ83HOF9hKl7eUC9yfq) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [Money & Other Things](https://open.spotify.com/album/1lSq8AREi188gD0KDrHdQ9) | 2:46 | 2023-10-20 |  |
+| [Money Emotions](https://open.spotify.com/track/79KjJ83HOF9hKl7eUC9yfq) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [Money & Other Things](https://open.spotify.com/album/1lSq8AREi188gD0KDrHdQ9) | 2:46 | 2023-10-20 | 2025-05-30 |
 | [moonblush](https://open.spotify.com/track/5vopOwOC7OSmxGBqNf8aRa) | [mwami](https://open.spotify.com/artist/0efcioCBRBzfxRC6Ax0zXq), [Hurricane Dan Fischer](https://open.spotify.com/artist/6FBvTqUW5FkfopSN89CGtP), [Ridym](https://open.spotify.com/artist/0oHKQJYVEgW3r3NzOX0YyY) | [olympean](https://open.spotify.com/album/6sSChOGxUAliFMngXURrWf) | 2:33 | 2024-11-21 |  |
 | [Motorola Money](https://open.spotify.com/track/5r9N2Z8MjZf1kWjH8azEai) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [Motorola Money](https://open.spotify.com/album/5mtguVYb0VQeR77Hix7bJG) | 1:50 | 2024-05-03 |  |
 | [Muse](https://open.spotify.com/track/7mlh81rZvoDlHCXBiowqrg) | [Matt Ngesa](https://open.spotify.com/artist/38jStfZwiNvdn1PKt9ma35) | [Muse](https://open.spotify.com/album/47vsQwer42Eb6hKTFdAuEz) | 5:07 | 2024-05-30 | 2025-04-16 |
@@ -82,6 +82,7 @@
 | [Perfect](https://open.spotify.com/track/7aYgfQTQIuoi9FojUgE7lY) | [Faith Kimani](https://open.spotify.com/artist/3B5MbmvxoqmqByCtU4temj), [TY1NE](https://open.spotify.com/artist/4Cc5wSjyKdtkmQjuBLAo5B) | [Perfect](https://open.spotify.com/album/07lMSOElGW77832xvtCJes) | 2:50 | 2024-06-13 |  |
 | [Pineapple Drink](https://open.spotify.com/track/3EiV7BXmyIEJbUYpulc7Kj) | [Ras Amor](https://open.spotify.com/artist/196LafXHcjwZnGudGOtcA4), [Katelyn Skye](https://open.spotify.com/artist/32GN439n6P2c3lwfWJMYi2) | [The Lost Tapes](https://open.spotify.com/album/5gKtx3nrdXfYNrZPI4b42h) | 3:04 | 2023-06-30 | 2024-02-23 |
 | [Playing With Fire](https://open.spotify.com/track/13ampMIuI5NynkDnUa4CGe) | [Alisha Popat](https://open.spotify.com/artist/5N3jHlJY21ToHGszPs9NCn), [Kato Change](https://open.spotify.com/artist/3Day7hRDsVXE8uRBCpR2z5) | [Playing With Fire](https://open.spotify.com/album/1tNjqUWWiP4BCd6JotQMEo) | 3:51 | 2023-09-01 |  |
+| [pour it onto me](https://open.spotify.com/track/5g4qy057kYuNSgeZ1wI2R7) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [pour it onto me](https://open.spotify.com/album/6UUfR3AnGM3bZn3mE3UARk) | 2:21 | 2025-05-29 |  |
 | [Presha](https://open.spotify.com/track/1OelLLNoOJNYnukzOPYSct) | [Mutoriah](https://open.spotify.com/artist/23fYD3tClohzF1Afng7tPJ), [SERRO](https://open.spotify.com/artist/4r3svQfFw0Ae5GMplY92u9) | [Presha](https://open.spotify.com/album/5QlAwtL0kaP0JPEe93PN4A) | 2:56 | 2023-06-30 | 2024-07-16 |
 | [Restore](https://open.spotify.com/track/5I6M34H6mOxG9ulDRZJLIz) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf), [Jay James](https://open.spotify.com/artist/03NiOycjVSDIuglwWSl4BH) | [Restore](https://open.spotify.com/album/0JJ9lKygS0p1pZfLn7Bzc6) | 2:27 | 2024-07-02 | 2025-05-02 |
 | [Rich](https://open.spotify.com/track/1QDWNbbh4Ey69IUjsa44GB) | [That Malcolm Guy](https://open.spotify.com/artist/2oNtuWZXcMdCspkoQr97SI), [Denesi](https://open.spotify.com/artist/2j5qvgoDULdbdLaFfb1Ap6) | [Gucci 2 Piece](https://open.spotify.com/album/1Gz3ivlgkmjO4ZHQJKzqv5) | 3:09 | 2024-05-03 | 2024-11-09 |

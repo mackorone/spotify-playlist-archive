@@ -677,6 +677,32 @@
     },
     {
       "album": {
+        "name": "Thug Life (Hindi)",
+        "url": "https://open.spotify.com/album/4dgK8VU5soqJgsNUJTd6W7"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Chinmayi",
+          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
+        },
+        {
+          "name": "Mehboob",
+          "url": "https://open.spotify.com/artist/5IQdeobKYan5qvwT92YXPv"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240514,
+      "name": "Ang Ang Morey",
+      "url": "https://open.spotify.com/track/2rCsR0p49jpuZQMVzwm23B"
+    },
+    {
+      "album": {
         "name": "Angaaron (From \"Pushpa 2 The Rule\") [HINDI]",
         "url": "https://open.spotify.com/album/7i3rOAK3iPA96QAekZeOrh"
       },
@@ -904,7 +930,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 208806,
       "name": "Baarish",
       "url": "https://open.spotify.com/track/4ebIOXra14qZV1kttgkA42"

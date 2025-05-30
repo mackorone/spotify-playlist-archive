@@ -1,6 +1,6 @@
 {
   "description": "Os brabos do hip hop nacional. Foto: Racionais MCs",
-  "num_followers": 18106,
+  "num_followers": 18104,
   "original_name": "Cole\u00e7\u00e3o Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -803,6 +803,22 @@
     {
       "added_at": "2024-08-16 20:28:24",
       "album": {
+        "name": "Eletrocardiograma",
+        "url": "https://open.spotify.com/album/0M7Qar3a31HBBUGBREC4rg"
+      },
+      "artists": [
+        {
+          "name": "Flora Matos",
+          "url": "https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3"
+        }
+      ],
+      "duration_ms": 224272,
+      "name": "Bora Dan\u00e7ar",
+      "url": "https://open.spotify.com/track/00XfUDUYQJ2hgG0vKpdwa6"
+    },
+    {
+      "added_at": "2024-08-16 20:28:24",
+      "album": {
         "name": "\u00caxito",
         "url": "https://open.spotify.com/album/3d19qMiZoSQHsgKshBpyuf"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 204693,
       "name": "Nipsey do Azul",
       "url": "https://open.spotify.com/track/7oOZ6CmKSUUgTtVIYPJiNk"
-    },
-    {
-      "added_at": "2024-08-16 20:28:24",
-      "album": {
-        "name": "Eletrocardiograma",
-        "url": "https://open.spotify.com/album/0M7Qar3a31HBBUGBREC4rg"
-      },
-      "artists": [
-        {
-          "name": "Flora Matos",
-          "url": "https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3"
-        }
-      ],
-      "duration_ms": 224272,
-      "name": "Bora Dan\u00e7ar",
-      "url": "https://open.spotify.com/track/00XfUDUYQJ2hgG0vKpdwa6"
     },
     {
       "added_at": "2024-08-16 20:28:24",
@@ -1079,26 +1079,6 @@
     {
       "added_at": "2024-08-16 20:28:24",
       "album": {
-        "name": "Natural",
-        "url": "https://open.spotify.com/album/6Q2eI8igMSdvCHsyz9rkJ4"
-      },
-      "artists": [
-        {
-          "name": "Pentagono",
-          "url": "https://open.spotify.com/artist/3lhhkRFNyUUA1US4BuMQsB"
-        },
-        {
-          "name": "Uter\u00e7o",
-          "url": "https://open.spotify.com/artist/2ygKolq01W8yZgE5PqwERm"
-        }
-      ],
-      "duration_ms": 246866,
-      "name": "\u00c9 o Moio",
-      "url": "https://open.spotify.com/track/6gTqJukT2CudOlBIHQsipW"
-    },
-    {
-      "added_at": "2024-08-16 20:28:24",
-      "album": {
         "name": "\"...Entre...\"",
         "url": "https://open.spotify.com/album/4BXTL3vb3tzS05aLTRiosX"
       },
@@ -1115,6 +1095,26 @@
       "duration_ms": 234520,
       "name": "L\u00e1grimas do Palha\u00e7o",
       "url": "https://open.spotify.com/track/78qdx0sVnBYTGAKqnLHxcp"
+    },
+    {
+      "added_at": "2024-08-16 20:28:24",
+      "album": {
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/6Q2eI8igMSdvCHsyz9rkJ4"
+      },
+      "artists": [
+        {
+          "name": "Pentagono",
+          "url": "https://open.spotify.com/artist/3lhhkRFNyUUA1US4BuMQsB"
+        },
+        {
+          "name": "Uter\u00e7o",
+          "url": "https://open.spotify.com/artist/2ygKolq01W8yZgE5PqwERm"
+        }
+      ],
+      "duration_ms": 246866,
+      "name": "\u00c9 o Moio",
+      "url": "https://open.spotify.com/track/6gTqJukT2CudOlBIHQsipW"
     },
     {
       "added_at": "2024-08-16 20:28:24",

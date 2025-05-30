@@ -2,9 +2,9 @@
 
 ### [PEGAO](https://open.spotify.com/playlist/37i9dQZF1DX1HCSfq0nSal)
 
-> Si está pegao, está aquí\. Feat\. Mora
+> Si está pegao, está aquí\. Feat\. Quevedo, Myke Towers
 
-783 songs - 1 day 19 hr 18 min
+784 songs - 1 day 19 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -663,6 +663,7 @@
 | [Sirena](https://open.spotify.com/track/0EYoG9Z0q0C0K1MCs1hQQl) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Sirena](https://open.spotify.com/album/4nhU57ASWx4FZgMbKfVOBD) | 2:45 | 2025-02-28 |  |
 | [SMP \(Sol, Mar y Playa\) \(with Farruko & Wisin\)](https://open.spotify.com/track/4pj68dTcvGVXgzD7qWAGEd) | [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [SMP \(Sol, Mar y Playa\) \(with Farruko & Wisin\)](https://open.spotify.com/album/7eoNzwrC6Hs8kYNSgAQEkE) | 4:33 | 2022-04-04 | 2022-05-27 |
 | [Sol y Playa](https://open.spotify.com/track/39nLL9g3H6V7fXpGu4R4xL) | [Nickzzy](https://open.spotify.com/artist/6ddcxDK0BEkhe5LCdoA5Ki) | [Sol y Playa](https://open.spotify.com/album/5GpoT2F1Si9JOohjvVbhoT) | 2:10 | 2023-07-04 | 2023-08-02 |
+| [SOLEAO](https://open.spotify.com/track/3jAshemiRYWukWLtT3Ivrb) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [SOLEAO](https://open.spotify.com/album/1UMdrgq8ZuZRrJv7ZLvjpP) | 3:38 | 2025-05-30 |  |
 | [Solita y SueltAAA](https://open.spotify.com/track/3gtZLsncEuG3gNO4Qswhuf) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [AfroLOVA' 23](https://open.spotify.com/album/4eycRqS93AqCf74BVzj6JP) | 2:35 | 2023-07-21 | 2023-08-15 |
 | [SORRY 4 THAT MUCH](https://open.spotify.com/track/63pLfjK6FvcYJYMGwtHjd6) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [SORRY 4 THAT MUCH](https://open.spotify.com/album/1kZGpaXOeB48TPT2JatjvC) | 3:27 | 2024-06-07 | 2024-07-02 |
 | [Soñando Despierto](https://open.spotify.com/track/2xismjBOecrJI9aqBzGMep) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [El Amor y Yo](https://open.spotify.com/album/0SoLGv62pYVM9w254yM8lf) | 2:56 | 2022-02-10 | 2022-03-04 |
@@ -698,7 +699,7 @@
 | [TOA](https://open.spotify.com/track/23t1V5mOAsixIY5RVtTIng) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [LO MISMO DE SIEMPRE](https://open.spotify.com/album/3beZ5DRcWVTpXaU3ViLIF6) | 3:15 | 2025-05-19 | 2025-05-21 |
 | [Toa \(with De La Rose\)](https://open.spotify.com/track/1gaBfa1HWh1HVmuUAdBpzs) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [LOS FLAVORZ](https://open.spotify.com/album/22BVJ7Phbagnr8hhECDzqk) | 3:49 | 2025-03-28 |  |
 | [Toki](https://open.spotify.com/track/5UoT7c2R5nadqdwidFhZxa) | [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Toki](https://open.spotify.com/album/2TagoLY223oIfTjr1pu6Pe) | 4:44 | 2024-05-06 | 2024-07-02 |
-| [Tokicha](https://open.spotify.com/track/5uPGtSSHtN28xUhX7W4eAp) | [J Castle](https://open.spotify.com/artist/7nNS9kiCWRqHGBcWxLB0Pk), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [Tokicha](https://open.spotify.com/album/6zAlmaTBclBxZ63eeWHPSe) | 2:21 | 2025-03-03 |  |
+| [Tokicha](https://open.spotify.com/track/5uPGtSSHtN28xUhX7W4eAp) | [J Castle](https://open.spotify.com/artist/7nNS9kiCWRqHGBcWxLB0Pk), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [Tokicha](https://open.spotify.com/album/6zAlmaTBclBxZ63eeWHPSe) | 2:21 | 2025-03-03 | 2025-05-30 |
 | [Tokyo](https://open.spotify.com/track/1gYipuSzUpI6BENbGrgeid) | [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Timelezz](https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y) | 3:22 | 2022-01-07 | 2022-02-15 |
 | [TONO DE VOZ](https://open.spotify.com/track/53ZdQQqfCwtkIBjYObbDDy) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LYKE MIIKE \(DELUXE\)](https://open.spotify.com/album/27bcWf41ghwRCrfTS1OjXj) | 3:32 | 2025-03-10 |  |
 | [TOP 5](https://open.spotify.com/track/7JZ5mOTea5T4LH0UdwCsWx) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Temporada de Reggaetón](https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl) | 2:26 | 2022-01-07 | 2022-04-05 |

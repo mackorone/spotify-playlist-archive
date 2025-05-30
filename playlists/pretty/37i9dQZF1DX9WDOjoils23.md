@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 
 > Your favorite Punjabi Ghazals and Qawwalis\. Cover: Jagjit Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,517 likes - 50 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,528 likes - 50 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Mere Naal Tu \(From "Saunkan Saunkanay 2"\)](https://open.spotify.com/track/5P7xp0OHMszQYHbRlCj6Lu) | [Mohammad Faiz](https://open.spotify.com/artist/4xNgNFUMUuGCoy7IX74Y60), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Samay](https://open.spotify.com/artist/6TOSyTilnA2kieWziVH8Bl), [Harsh](https://open.spotify.com/artist/0SZYw22DDlIaHcZULwGm1H) | [Mere Naal Tu \(From "Saunkan Saunkanay 2"\)](https://open.spotify.com/album/0BgJP0vKH3SSo9HEioobNL) | 3:29 |
+| 1 | [Mere Naal Tu \(From "Saunkan Saunkanay 2"\)](https://open.spotify.com/track/5P7xp0OHMszQYHbRlCj6Lu) | [Mohammad Faiz](https://open.spotify.com/artist/4xNgNFUMUuGCoy7IX74Y60), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Harsh Kargeti](https://open.spotify.com/artist/3QMU3GgeUmDZe7F6g9N9qT), [Samay](https://open.spotify.com/artist/6TOSyTilnA2kieWziVH8Bl) | [Mere Naal Tu \(From "Saunkan Saunkanay 2"\)](https://open.spotify.com/album/0BgJP0vKH3SSo9HEioobNL) | 3:29 |
 | 2 | [Ishq](https://open.spotify.com/track/74wdoS4XBF6rDcejHiyfBR) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Bemisaal Jagjit Singh](https://open.spotify.com/album/2YkxjiHsBzCPoRgFwsdXCs) | 3:40 |
 | 3 | [Flowers Of the Same Tree](https://open.spotify.com/track/30wKQxl6Dy9D4WCLPHBk5d) | [Bir Singh](https://open.spotify.com/artist/6Su06O6MCxKJXOtxkM8iBi) | [Flowers Of the Same Tree](https://open.spotify.com/album/4hnhLGtUDSD0Vub1z0XLi6) | 4:44 |
 | 4 | [Sajjna Wali Gall \(From "Hoshiar Singh"\)](https://open.spotify.com/track/6kjzM5TnnaeaaleGGaTSOx) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV), [Beat Minister](https://open.spotify.com/artist/5qQVMvDtASDmERUI9LlbgH) | [Sajjna Wali Gall \(From "Hoshiar Singh"\)](https://open.spotify.com/album/6bXzeJZ75sf5AMKIO35W9X) | 7:13 |

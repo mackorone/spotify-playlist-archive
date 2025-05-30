@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Zqfq7rklwe.md) - [plain]
 
 ### [VOLUME SUOMI](https://open.spotify.com/playlist/37i9dQZF1DX7Zqfq7rklwe)
 
-> Suomen suurin ja paras rock\-soittolista\. Kannessa Lost Society.
+> Suomen suurin ja paras rock\-soittolista\. Kannessa Ghost.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,067 likes - 89 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,068 likes - 88 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Dead People Scare Me \(But The Living Make Me Sick\)](https://open.spotify.com/track/6VcbQTlKbE4bt85Rx6qXnV) | [Lost Society](https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN) | [Dead People Scare Me \(But The Living Make Me Sick\)](https://open.spotify.com/album/5KDDpUroWEDc7HXH0Dqouc) | 3:32 |
+| 1 | [Peacefield](https://open.spotify.com/track/6KEMumkYvsrGsl485JwN0u) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Peacefield](https://open.spotify.com/album/5vNvNASfnf2MVIrnoLr1OE) | 5:40 |
 | 2 | [Templars](https://open.spotify.com/track/1OtLNenkGkCDsVLGCgMtpj) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [Templars](https://open.spotify.com/album/3WnVO32cbBRfKynknZ5XcI) | 4:54 |
-| 3 | [Peacefield](https://open.spotify.com/track/6KEMumkYvsrGsl485JwN0u) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Peacefield](https://open.spotify.com/album/5vNvNASfnf2MVIrnoLr1OE) | 5:40 |
-| 4 | [Even In Arcadia](https://open.spotify.com/track/4IixOTCzviJgIigKleiVbo) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Even In Arcadia](https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj) | 4:28 |
+| 3 | [Even In Arcadia](https://open.spotify.com/track/4IixOTCzviJgIigKleiVbo) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Even In Arcadia](https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj) | 4:28 |
+| 4 | [I Refuse \(feat\. Maria Brink of In This Moment\) \- 2025 VERSION](https://open.spotify.com/track/183LHdf7z7LG2eQf10popU) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM), [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [I Refuse \(feat\. Maria Brink of In This Moment\) \[2025 VERSION\]](https://open.spotify.com/album/2IrqDjpjH3dOVz8Nd7rPqI) | 3:41 |
 | 5 | [Whiteout Moon](https://open.spotify.com/track/5Wphkrmc1NYqFf4Geb1rFm) | [My Bloodline](https://open.spotify.com/artist/020hYe5zmCGRFWKCAs5eoe) | [Whiteout Moon](https://open.spotify.com/album/37pUcxYtnzQXAzbixEnXrV) | 3:58 |
 | 6 | [Last Goodbye](https://open.spotify.com/track/4syuqt1OfDiwdgNHVZjmCq) | [Battle Beast](https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize) | [Last Goodbye](https://open.spotify.com/album/6P1p6YKpnipMo8CQKfTGOB) | 3:32 |
 | 7 | [Roar Like Thunder](https://open.spotify.com/track/2504SqP5lMZIiRKoTkvPUN) | [Buckcherry](https://open.spotify.com/artist/0yN7xI1blow9nYIK0R8nM7) | [Roar Like Thunder](https://open.spotify.com/album/75D9FDdpYuEj7dp1hMhKIM) | 3:07 |
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Zqfq7rklwe.md) - [plain]
 | 9 | [I Drove All Night](https://open.spotify.com/track/5lM4Pk0KXUzi8RFe18ObJX) | [Cemetery Skyline](https://open.spotify.com/artist/3FVIkWmqjcUbtIgS86bnab) | [I Drove All Night](https://open.spotify.com/album/3hYOAUXTZXskcbPEd5oIp3) | 4:27 |
 | 10 | [Revery](https://open.spotify.com/track/0Vn099e0jlAgV0TE5sOre1) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [Revery](https://open.spotify.com/album/5yNd7mpvNnQWDHUr9WvKPE) | 3:12 |
 | 11 | [Even If It Kills Me](https://open.spotify.com/track/06dBzUBULISVMFBeNKbbRA) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Even If It Kills Me](https://open.spotify.com/album/5xkM5c1gLbEp8UgIx4WV0x) | 3:32 |
-| 12 | [I Refuse \(feat\. Maria Brink of In This Moment\) \- 2025 VERSION](https://open.spotify.com/track/183LHdf7z7LG2eQf10popU) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM), [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [I Refuse \(feat\. Maria Brink of In This Moment\) \[2025 VERSION\]](https://open.spotify.com/album/2IrqDjpjH3dOVz8Nd7rPqI) | 3:41 |
+| 12 | [Dead People Scare Me \(But The Living Make Me Sick\)](https://open.spotify.com/track/6VcbQTlKbE4bt85Rx6qXnV) | [Lost Society](https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN) | [Dead People Scare Me \(But The Living Make Me Sick\)](https://open.spotify.com/album/5KDDpUroWEDc7HXH0Dqouc) | 3:32 |
 | 13 | [Idänjuna](https://open.spotify.com/track/21me6KEGFTjccDhZsEjzD5) | [Timo Rautiainen & Trio Niskalaukaus](https://open.spotify.com/artist/6sJ8TvVdY3NLFxtG4TESzC) | [Idänjuna](https://open.spotify.com/album/1OakXi7TIwAMRWkePOY8jY) | 4:02 |
 | 14 | [Second Chance](https://open.spotify.com/track/0CwYG1UnRmOx8Q1EzElCIL) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [The Sound of Madness](https://open.spotify.com/album/4PeRcYNYVB1mD4wemj5zld) | 3:42 |
 | 15 | [Roses from the Deep](https://open.spotify.com/track/5Qv3gqhjXOZd9AFbR7ywXr) | [Marko Hietala](https://open.spotify.com/artist/1tbhwOH5UBAJoqTx9Oak00) | [Roses from the Deep](https://open.spotify.com/album/7a6GERsb9QWlRKSmcB0JiD) | 6:31 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Zqfq7rklwe.md) - [plain]
 | 26 | [Afterlife](https://open.spotify.com/track/7zAt4tdL44D3VuzsvM0N8n) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Avenged Sevenfold](https://open.spotify.com/album/3Id3VUk9jSKBD1guNo1buF) | 5:52 |
 | 27 | [Hell You Call A Dream](https://open.spotify.com/track/03A89GAR9MPybXei4sZiYh) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Keep Me Fed](https://open.spotify.com/album/1rYHznqLeJVXuy0YqwERGv) | 2:56 |
 | 28 | [Boulevard of Broken Dreams](https://open.spotify.com/track/1hwJKpe0BPUsq6UUrwBWTw) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Boulevard of Broken Dreams](https://open.spotify.com/album/2sIWM1FzNqLCccNwXuC4SA) | 4:21 |
-| 29 | [Awake](https://open.spotify.com/track/6EZK2Ir2ottEL0eMiXO47f) | [Lost Society](https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN) | [If The Sky Came Down](https://open.spotify.com/album/0Af2e0rKhhsyAz83qsZzIF) | 5:12 |
+| 29 | [Zombie](https://open.spotify.com/track/7DQotDUGnJkXgNJv363GXF) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Zombie](https://open.spotify.com/album/2VjTqSwV1IY3a4kFdurCVv) | 4:06 |
 | 30 | [Sinä 2.0](https://open.spotify.com/track/5D3lENK3mXnB9vkXgVGFYS) | [Turmion Kätilöt](https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg) | [Reset](https://open.spotify.com/album/4jI2TKGEjUjjnLjlpGYie6) | 3:09 |
 | 31 | [Heaven's On Fire](https://open.spotify.com/track/1brpdmqkx3kSxyqzqXfW7J) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Animalize](https://open.spotify.com/album/5UxqSH1Ez2fcNVLqvLjsgB) | 3:21 |
 | 32 | [Whiskey In The Jar](https://open.spotify.com/track/2R6UrJ8uWbSIiHWmvRQvN8) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Garage Inc.](https://open.spotify.com/album/0vshXZYhBkbIoqxyC2fXcF) | 5:04 |
@@ -87,15 +87,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Zqfq7rklwe.md) - [plain]
 | 77 | [love u](https://open.spotify.com/track/71TlsrOr3eHZgdDDsNjOhv) | [LUNA KILLS](https://open.spotify.com/artist/5OMIs8tNddcCXVDMN8LLyQ) | [DEATHMATCH](https://open.spotify.com/album/1KzhjA47EIY2rX2WjKpMBR) | 3:21 |
 | 78 | [The End](https://open.spotify.com/track/6O07S5jyxG1e2hri4pcIjY) | [Mammoth](https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO) | [The End](https://open.spotify.com/album/6pktSS5acVnqbT5VNnRagN) | 3:33 |
 | 79 | [Enter The Behelit](https://open.spotify.com/track/0Gur9sDtlb6D4O6B8sO87k) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [Enter The Behelit](https://open.spotify.com/album/6CfAClVnQ6BS7LLA7CNMWo) | 3:47 |
-| 80 | [Lovesick Lullaby](https://open.spotify.com/track/2LRSQhv3Vi8SkEllnvUhEK) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Lovesick Lullaby](https://open.spotify.com/album/3zwpHJVP5RXTpzQ7o2dpTu) | 2:55 |
-| 81 | [Up From the Bottom](https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Up From the Bottom](https://open.spotify.com/album/0TwcWJHhsyi9J9va7VCmwm) | 3:03 |
-| 82 | [Just Too Much](https://open.spotify.com/track/0nLGyEeOsErcTyBcEQIu8s) | [Tremonti](https://open.spotify.com/artist/44tQC1PjxXIpEgW0i8uN00) | [The End Will Show Us How](https://open.spotify.com/album/0tQNVwSxVYCwaEa8HfHCd4) | 3:46 |
-| 83 | [Perfect Soul](https://open.spotify.com/track/7FjRNlmPtWb1ra46t14rUN) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Perfect Soul](https://open.spotify.com/album/6trbYqn0Og2FEmucGshPg5) | 3:59 |
-| 84 | [Bullshit](https://open.spotify.com/track/1R68TlNOuu6ERdjQv1Rmsx) | [Shiraz Lane](https://open.spotify.com/artist/0TTu3zbvW4iFfls1GDbyGk) | [Bullshit](https://open.spotify.com/album/0z7CdOXnxXHc2t4J2bWFxc) | 3:53 |
-| 85 | [Overdose \- feat\. Blindside](https://open.spotify.com/track/23GgTbzZ80ceqziBKCO7mJ) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf), [Blindside](https://open.spotify.com/artist/0Uj2hge2fxypJ7f4ik6lpr) | [Overdose \(feat\. Blindside\)](https://open.spotify.com/album/6fiUohfi86KTzXkf2OGOYi) | 3:07 |
-| 86 | [Satanized](https://open.spotify.com/track/3UAQ7gQc2O3B40M4XrEgpT) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Satanized](https://open.spotify.com/album/47DIJNO8Fgzi9ptduzI7R2) | 3:56 |
-| 87 | [Shot in the Dark](https://open.spotify.com/track/31dqpLUModJWNbxrXu6TWd) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [The Ultimate Sin](https://open.spotify.com/album/2IPIumpbhrtBvjyzIgGE9j) | 4:16 |
-| 88 | [Code Of The Road](https://open.spotify.com/track/6KJfHOfaQ6vvU1wC8zOWku) | [Danko Jones](https://open.spotify.com/artist/7CGoviGsNXYmGOBkXk8dtW) | [Never Too Loud](https://open.spotify.com/album/0Oa1LlbLyeccvhqH0sUL8O) | 2:57 |
-| 89 | [The Ring](https://open.spotify.com/track/3zEcOUkZuXfM9UBjEuyOxJ) | [Erja Lyytinen](https://open.spotify.com/artist/73i095FtGSlyCoudRYl6MD) | [The Ring](https://open.spotify.com/album/7JahzP1AdsdKlspPFNedVT) | 5:35 |
+| 80 | [Up From the Bottom](https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Up From the Bottom](https://open.spotify.com/album/0TwcWJHhsyi9J9va7VCmwm) | 3:03 |
+| 81 | [Just Too Much](https://open.spotify.com/track/0nLGyEeOsErcTyBcEQIu8s) | [Tremonti](https://open.spotify.com/artist/44tQC1PjxXIpEgW0i8uN00) | [The End Will Show Us How](https://open.spotify.com/album/0tQNVwSxVYCwaEa8HfHCd4) | 3:46 |
+| 82 | [Perfect Soul](https://open.spotify.com/track/7FjRNlmPtWb1ra46t14rUN) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Perfect Soul](https://open.spotify.com/album/6trbYqn0Og2FEmucGshPg5) | 3:59 |
+| 83 | [Bullshit](https://open.spotify.com/track/1R68TlNOuu6ERdjQv1Rmsx) | [Shiraz Lane](https://open.spotify.com/artist/0TTu3zbvW4iFfls1GDbyGk) | [Bullshit](https://open.spotify.com/album/0z7CdOXnxXHc2t4J2bWFxc) | 3:53 |
+| 84 | [Overdose \- feat\. Blindside](https://open.spotify.com/track/23GgTbzZ80ceqziBKCO7mJ) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf), [Blindside](https://open.spotify.com/artist/0Uj2hge2fxypJ7f4ik6lpr) | [Overdose \(feat\. Blindside\)](https://open.spotify.com/album/6fiUohfi86KTzXkf2OGOYi) | 3:07 |
+| 85 | [Satanized](https://open.spotify.com/track/3UAQ7gQc2O3B40M4XrEgpT) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Satanized](https://open.spotify.com/album/47DIJNO8Fgzi9ptduzI7R2) | 3:56 |
+| 86 | [Shot in the Dark](https://open.spotify.com/track/31dqpLUModJWNbxrXu6TWd) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [The Ultimate Sin](https://open.spotify.com/album/2IPIumpbhrtBvjyzIgGE9j) | 4:16 |
+| 87 | [Code Of The Road](https://open.spotify.com/track/6KJfHOfaQ6vvU1wC8zOWku) | [Danko Jones](https://open.spotify.com/artist/7CGoviGsNXYmGOBkXk8dtW) | [Never Too Loud](https://open.spotify.com/album/0Oa1LlbLyeccvhqH0sUL8O) | 2:57 |
+| 88 | [The Ring](https://open.spotify.com/track/3zEcOUkZuXfM9UBjEuyOxJ) | [Erja Lyytinen](https://open.spotify.com/artist/73i095FtGSlyCoudRYl6MD) | [The Ring](https://open.spotify.com/album/7JahzP1AdsdKlspPFNedVT) | 5:35 |
 
-Snapshot ID: `aDRrjQAAAACPghN7Bn+Skl//Pr0wHnup`
+Snapshot ID: `aDjLKAAAAACr4O0zH/Yco5moaV9bPdFm`

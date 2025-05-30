@@ -1,6 +1,6 @@
 {
   "description": "\u2764\ufe0f o \ud83d\udc94\n",
-  "num_followers": 9642,
+  "num_followers": 9657,
   "original_name": "Trap Luv",
   "owner": {
     "name": "Spotify",
@@ -235,6 +235,26 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
+        "name": "GPS (feat. French Montana)",
+        "url": "https://open.spotify.com/album/391Aef4X78Ta4Y7XpRJw6q"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        }
+      ],
+      "duration_ms": 216306,
+      "name": "GPS (feat. French Montana)",
+      "url": "https://open.spotify.com/track/3t6j6WNv2OSn6qm5Vxynub"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
         "name": "Vete Pal Carajo",
         "url": "https://open.spotify.com/album/6h1BJzZHeHkAg5jknF3fwD"
       },
@@ -275,26 +295,6 @@
       "duration_ms": 146341,
       "name": "C.R.O: Bzrp Music Sessions, Vol. 29",
       "url": "https://open.spotify.com/track/0qPbQWcqNDVrReSSvMoJxk"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
-        "name": "GPS (feat. French Montana)",
-        "url": "https://open.spotify.com/album/391Aef4X78Ta4Y7XpRJw6q"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "French Montana",
-          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
-        }
-      ],
-      "duration_ms": 216306,
-      "name": "GPS (feat. French Montana)",
-      "url": "https://open.spotify.com/track/3t6j6WNv2OSn6qm5Vxynub"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
-        "name": "Hurac\u00e1n",
-        "url": "https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi"
-      },
-      "artists": [
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        },
-        {
-          "name": "Kidd Keo",
-          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
-        }
-      ],
-      "duration_ms": 245141,
-      "name": "Dejar Atr\u00e1s / Rompe Corazones",
-      "url": "https://open.spotify.com/track/2UZkyyrceQx4PP1cMIpMkO"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
         "name": "Si No Fue Asi",
         "url": "https://open.spotify.com/album/65q7oPWAcJxVRQzrBMveRd"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 185196,
       "name": "Si No Fue Asi",
       "url": "https://open.spotify.com/track/1wdAd6JuFOaFfLbzNXPR0Y"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
+        "name": "Hurac\u00e1n",
+        "url": "https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Kidd Keo",
+          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
+        }
+      ],
+      "duration_ms": 245141,
+      "name": "Dejar Atr\u00e1s / Rompe Corazones",
+      "url": "https://open.spotify.com/track/2UZkyyrceQx4PP1cMIpMkO"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -1643,6 +1643,30 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
+        "name": "No Lo Se",
+        "url": "https://open.spotify.com/album/60CojhteCCRDrHyEggr75i"
+      },
+      "artists": [
+        {
+          "name": "Klave",
+          "url": "https://open.spotify.com/artist/4hw9WaVkOzRQN6XaUqULv1"
+        },
+        {
+          "name": "Coscu",
+          "url": "https://open.spotify.com/artist/5iDY2x1LHqHUH73t2p0YOV"
+        },
+        {
+          "name": "AYWA",
+          "url": "https://open.spotify.com/artist/6GEVw5yA5Oe5UxuiN2YOIO"
+        }
+      ],
+      "duration_ms": 224556,
+      "name": "No Lo Se",
+      "url": "https://open.spotify.com/track/2AzgvH7QJkq4nXBLQeLhuD"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
         "name": "Adem\u00e1s de M\u00ed (Remix)",
         "url": "https://open.spotify.com/album/38DYAL9bTbpSQpZwENwj78"
       },
@@ -1675,30 +1699,6 @@
       "duration_ms": 330040,
       "name": "Adem\u00e1s de M\u00ed - Remix",
       "url": "https://open.spotify.com/track/7I8L3vYCLThw2FDrE6LuzE"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
-        "name": "No Lo Se",
-        "url": "https://open.spotify.com/album/60CojhteCCRDrHyEggr75i"
-      },
-      "artists": [
-        {
-          "name": "Klave",
-          "url": "https://open.spotify.com/artist/4hw9WaVkOzRQN6XaUqULv1"
-        },
-        {
-          "name": "Coscu",
-          "url": "https://open.spotify.com/artist/5iDY2x1LHqHUH73t2p0YOV"
-        },
-        {
-          "name": "AYWA",
-          "url": "https://open.spotify.com/artist/6GEVw5yA5Oe5UxuiN2YOIO"
-        }
-      ],
-      "duration_ms": 224556,
-      "name": "No Lo Se",
-      "url": "https://open.spotify.com/track/2AzgvH7QJkq4nXBLQeLhuD"
     },
     {
       "added_at": "2024-07-26 04:59:00",

@@ -4,7 +4,7 @@
 
 > This is Willie Nelson\. The essential tracks, all in one playlist.
 
-108 songs - 6 hr 7 min
+109 songs - 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Do You Realize??](https://open.spotify.com/track/2xDch0dVjwlCqWT03pu0mb) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Do You Realize??](https://open.spotify.com/album/6yGTrxonx43B5ZwJi0KLCq) | 3:11 | 2024-09-21 | 2024-10-20 |
 | [Easy](https://open.spotify.com/track/2eA160jLLoHiJKOqvOFKJt) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Tuskegee \(Deluxe Version\)](https://open.spotify.com/album/5FnNO3IO6veN62ZdaV7j3z) | 4:30 | 2023-04-28 |  |
 | [Eu Só Penso em Você \(Always On My Mind\) \(feat\. Willie Nelson\)](https://open.spotify.com/track/5khbn2nR9I6QBE7992lrWL) | [Zezé Di Camargo & Luciano](https://open.spotify.com/artist/4dyYjqmYDjegbB3F2mbvcT), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Zezé Di Camargo & Luciano 1993](https://open.spotify.com/album/6LOFKEu2x9qznKyY0KUHD3) | 3:49 | 2024-03-15 | 2025-04-23 |
+| [Faithfully \- feat\. Willie Nelson](https://open.spotify.com/track/1vnZeVXl71X1D7WHgGotLY) | [Steve Perry](https://open.spotify.com/artist/5xQKoGD7Ql92fWd1uWwKkf), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Faithfully \(feat\. Willie Nelson\)](https://open.spotify.com/album/3WUpUwDbCVQyeKq8YigINX) | 4:22 | 2025-05-30 |  |
 | [Funny How Time Slips Away](https://open.spotify.com/track/0hXHpNiW5dHv21aUhYDEnA) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [And Then I Wrote](https://open.spotify.com/album/2Bsr45EWfyrQEUDfGhJwyu) | 3:05 | 2024-01-24 | 2025-03-14 |
 | [Georgia On My Mind](https://open.spotify.com/track/5GOFil3Umfp4yB75U2Ah4e) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Stardust](https://open.spotify.com/album/38uGoW7jS8jjJMvZA26sRq) | 4:19 | 2023-04-28 |  |
 | [Georgia on My Mind](https://open.spotify.com/track/4Mckv604NWFSw11g4iCgG0) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Made in the Usa Collection](https://open.spotify.com/album/2vwhPIDd0WnJO0yuL8vrku) | 4:17 | 2023-04-28 | 2023-09-26 |
@@ -48,7 +49,7 @@
 | [Hands on the Wheel](https://open.spotify.com/track/6C8nBZQw7yyPQ1jkelFYX5) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Red Headed Stranger](https://open.spotify.com/album/5aEtg4dxdBk4pj6SJ3hNsM) | 4:22 | 2024-11-20 | 2024-12-04 |
 | [Have You Ever Seen the Rain \(feat\. Paula Nelson\)](https://open.spotify.com/track/7ys0hKbMBZ0m7eQ4iR1hHU) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Paula Nelson](https://open.spotify.com/artist/5uhowxcNLDhc0qsmXWaOHV) | [To All The Girls...](https://open.spotify.com/album/3ztZ9tYkxsTYPp9LQ4qeMx) | 4:38 | 2023-04-28 |  |
 | [Heaven and Hell](https://open.spotify.com/track/3Ph1o8I4ATHBh15r1XiI9j) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Wanted! The Outlaws \(Expanded Edition\)](https://open.spotify.com/album/2QqTYCt0RbRC624nT607fV) | 1:38 | 2023-05-06 | 2023-07-23 |
-| [Heaven's Bad Day](https://open.spotify.com/track/5LPo4MHNYtWdh8FWIIkixD) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Viva Tu](https://open.spotify.com/album/0de0VSMdg29Rwoe9MG4ck2) | 2:05 | 2024-09-23 |  |
+| [Heaven's Bad Day](https://open.spotify.com/track/5LPo4MHNYtWdh8FWIIkixD) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Viva Tu](https://open.spotify.com/album/0de0VSMdg29Rwoe9MG4ck2) | 2:05 | 2024-09-23 | 2025-05-30 |
 | [Hello Walls](https://open.spotify.com/track/27hpjHYx6duzBH99XW7ENn) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [And Then I Wrote](https://open.spotify.com/album/2Bsr45EWfyrQEUDfGhJwyu) | 2:26 | 2024-01-31 | 2025-01-11 |
 | [Highwayman](https://open.spotify.com/track/7jWbXvrgdbkajU8L28ahn5) | [The Highwaymen](https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Highwayman](https://open.spotify.com/album/6rFM5jHaGzwut3hGbG9pGU) | 3:02 | 2023-04-28 |  |
 | [Home Motel](https://open.spotify.com/track/0NlJXMA4HHqc1eJ2jG286Q) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Bluegrass](https://open.spotify.com/album/65tnKCMWCQ5HJnzUn57dkO) | 4:24 | 2023-09-25 | 2023-11-11 |

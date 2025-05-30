@@ -2,9 +2,9 @@
 
 ### [Exception Française](https://open.spotify.com/playlist/37i9dQZF1DWTIykNHRogOx)
 
-> Les  meilleures nouveautés de la chanson française\. Photo: Bertrand Belin
+> Les  meilleures nouveautés de la chanson française\. Photo: Juliette Armanet
 
-177 songs - 9 hr 44 min
+180 songs - 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Cette guerre](https://open.spotify.com/track/2F7F4ZWiPnJ8ZUK2Gc96dQ) | [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou) | [Famille](https://open.spotify.com/album/42BQRI096xf6TUvY4UOuEV) | 3:17 | 2025-04-03 |  |
 | [Chevaleresse](https://open.spotify.com/track/6XBHQyX3Xwvluxwwv6HEnz) | [Babx](https://open.spotify.com/artist/7MCsMOkbdDHqJ4WAGuXdDZ) | [Chevaleresse](https://open.spotify.com/album/3c36IcRSFD58b9daUvhIXl) | 3:49 | 2025-01-23 | 2025-03-21 |
 | [Comment fais\-tu pour vivre ? \- version guitare](https://open.spotify.com/track/0a0FoOFwLFgsPNYH3VjN5t) | [Noé Preszow](https://open.spotify.com/artist/6CZhbpXpR3VJNQWFkwd2Ic) | [De ton vivant](https://open.spotify.com/album/2jqy3gATiuA0IbJoYAG3lZ) | 3:42 | 2025-01-30 |  |
-| [Contre\-cœur](https://open.spotify.com/track/4gE1HeO2U1UmnnF6angfva) | [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Contre\-cœur](https://open.spotify.com/album/0NgRqhtpe32D07BGbdxTAR) | 3:21 | 2025-01-09 |  |
+| [Contre\-cœur](https://open.spotify.com/track/4gE1HeO2U1UmnnF6angfva) | [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Contre\-cœur](https://open.spotify.com/album/0NgRqhtpe32D07BGbdxTAR) | 3:21 | 2025-01-09 | 2025-05-30 |
 | [Couleur](https://open.spotify.com/track/046vFIGwo6qUSClISFXw1j) | [Stéfi Celma](https://open.spotify.com/artist/0fMSqSfAS3Bv91cw1QBkXZ) | [Couleur](https://open.spotify.com/album/4J3yqX0XXLtVr9hEbncHwn) | 2:43 | 2024-10-03 | 2025-02-21 |
 | [Cowboy](https://open.spotify.com/track/7MiE534goM0NaxN7qxxhWw) | [Da Silva](https://open.spotify.com/artist/2DOrhe8H1WfcD6PPkgJH8X) | [Cowboy](https://open.spotify.com/album/3FVjnRqcREOvX0BO2AsBB4) | 3:37 | 2024-09-19 | 2025-01-31 |
 | [D'avoir vécu assez](https://open.spotify.com/track/6tesGbKz1I8Cj4dqfbzUe5) | [Tim Dup](https://open.spotify.com/artist/2Ksaxtwx8hMgjUkzIoGDXE), [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou) | [D'avoir vécu assez](https://open.spotify.com/album/1YOYednwxdyNBXrgxpfHq4) | 3:16 | 2024-11-07 | 2025-03-21 |
@@ -47,7 +47,7 @@
 | [Exister](https://open.spotify.com/track/4LdgaYjFuTjx4BpiLqa865) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8) | [Exister](https://open.spotify.com/album/2pJpWWUKSoPgXQ5F8UTCy8) | 3:19 | 2024-08-29 | 2025-01-17 |
 | [Famille](https://open.spotify.com/track/4O7Da2WyihJIM282Gz4MiK) | [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou) | [Famille](https://open.spotify.com/album/5rhxlNvBqpy9Xr4geJ8B8m) | 3:15 | 2025-01-30 | 2025-04-04 |
 | [Feu de paille](https://open.spotify.com/track/59i1gjr6bOdrdKF3eP2LWe) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Feu de paille](https://open.spotify.com/album/6WiPXlkyl9kTvlG37IMCM6) | 3:15 | 2024-10-10 | 2025-01-10 |
-| [Fille lacrymale](https://open.spotify.com/track/2322KewAGzg6Zj5Oxw21vO) | [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [Fille lacrymale](https://open.spotify.com/album/4MrAsfTRnU0uLfnmZQTRMD) | 2:40 | 2025-01-09 |  |
+| [Fille lacrymale](https://open.spotify.com/track/2322KewAGzg6Zj5Oxw21vO) | [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [Fille lacrymale](https://open.spotify.com/album/4MrAsfTRnU0uLfnmZQTRMD) | 2:40 | 2025-01-09 | 2025-05-30 |
 | [Flou](https://open.spotify.com/track/30tWzwvW86eJJ6qZvApsFF) | [Elena Copsi](https://open.spotify.com/artist/5YafOG1cCGaf4dpzCNVPXm) | [Flou](https://open.spotify.com/album/7JavIhWOxHvoD6C1DDJ1Ro) | 2:21 | 2025-01-16 |  |
 | [fou](https://open.spotify.com/track/3PlgqWBKQ7uItZOS0lACbp) | [The Doug](https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S) | [réparer](https://open.spotify.com/album/5gJhca2FaL4ruf9nKSpMIu) | 2:36 | 2024-06-27 | 2024-10-18 |
 | [FVL](https://open.spotify.com/track/6Z07cvmuFdFHTcT7wtIVVu) | [L \(Raphaële Lannadère\)](https://open.spotify.com/artist/6U11D7usLhid56o38NJVi8) | [FVL](https://open.spotify.com/album/05BrGpbesMwG2ObSrejFQQ) | 3:45 | 2024-06-27 | 2024-10-04 |
@@ -59,6 +59,7 @@
 | [IL N'A DIEU QUE POUR ELLE](https://open.spotify.com/track/2TCexzMXhtEMrO7NT6QMQk) | [Charlelie Couture](https://open.spotify.com/artist/3iqmYVVSjUVWoeREwRf5a6) | [CONTRE TOI](https://open.spotify.com/album/6HPKxakSZeFgqt0U3PHStV) | 3:59 | 2024-06-27 | 2024-07-27 |
 | [ils en savent quoi ?](https://open.spotify.com/track/3pQiYMXNgoSAwwFo0P2P7D) | [jenna](https://open.spotify.com/artist/50KuFTdbf6PbVjpvNuJALs) | [ils en savent quoi ?](https://open.spotify.com/album/6YEiKcIjfQaWBRxoaFBJTO) | 3:18 | 2024-09-19 | 2025-01-31 |
 | [Insolation](https://open.spotify.com/track/6nq8djOsXo8wr8vl1eKeIH) | [Manon Lisa](https://open.spotify.com/artist/2qzxrbVBGwJjYOay7mJmhf) | [Insolation](https://open.spotify.com/album/3rTQcvP4qgScLh3vDOJyIp) | 2:54 | 2024-06-27 | 2024-11-29 |
+| [J'ai grandi](https://open.spotify.com/track/1rXroIXLQcLA6dADmkJGgw) | [Tessa B\. ](https://open.spotify.com/artist/2zHuN04qyNnz890Y2R0Nkr) | [J'ai grandi](https://open.spotify.com/album/1nE1MnSNJN7K6HnoKodMJl) | 2:22 | 2025-05-29 |  |
 | [J'ai tenté mais](https://open.spotify.com/track/3bF05KrShPH4BL3at4l9GB) | [Bonneville](https://open.spotify.com/artist/6Kni14rJV1e4vwD2D6rM6V) | [J'ai tenté mais](https://open.spotify.com/album/0X1VrZroA9FedsQOSgjKsL) | 3:04 | 2025-05-22 |  |
 | [J'connais des gens](https://open.spotify.com/track/4ypetAUhCL7Y3Y433EBnm2) | [Baptiste W\. Hamon](https://open.spotify.com/artist/5H1vQFu0fy55ZNLLMDpM8p) | [J'connais des gens](https://open.spotify.com/album/1aCdQ8jknao0WUpmx7kooJ) | 2:15 | 2024-06-27 | 2024-09-20 |
 | [J'sais pas](https://open.spotify.com/track/4BO0vhy2s9i19uxS12wVMM) | [Thomas Caruso Aragona](https://open.spotify.com/artist/2S9pqAQyIrYPBupHZC6l09) | [J'sais pas](https://open.spotify.com/album/2zBtXq26fYwHQagQjdPgxh) | 3:31 | 2024-06-27 | 2024-12-06 |
@@ -78,6 +79,7 @@
 | [La fresque](https://open.spotify.com/track/2eelhSfH6dy2EpAkidvsmE) | [Vincent Delerm](https://open.spotify.com/artist/3Uo7E7lR9Li0qXzxU8VmnF) | [La fresque](https://open.spotify.com/album/24fO1cCmRAxui3fxi3hKCh) | 2:58 | 2025-03-13 | 2025-05-16 |
 | [La louve](https://open.spotify.com/track/7ib2PxnOEbqOc1GQYFSoBD) | [Clara Ysé](https://open.spotify.com/artist/5resnspF60fUdkKmQHn8em) | [OCEANO NOXX \(Nouvelle édition\)](https://open.spotify.com/album/1snFVyVzC1p0eDlyXRR1l1) | 3:43 | 2024-09-26 | 2025-01-10 |
 | [La musique à fond](https://open.spotify.com/track/7jVGaMb1XA9u88tWlouB4t) | [Keren Ann](https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA) | [La musique à fond](https://open.spotify.com/album/1GmHIr4LHAwuloVe5FuiVo) | 3:26 | 2025-05-15 |  |
+| [LA NUIT](https://open.spotify.com/track/4cc2PUXzaw7hgUsbYScfFd) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [LA NUIT \(La Venue de l’avenir \- musique originale\)](https://open.spotify.com/album/6FEqYXlwRZfx9ro7cXNZru) | 3:12 | 2025-05-29 |  |
 | [La nuit est entrée en lui](https://open.spotify.com/track/1eA8fnNTsuYW4eYWlcNqxK) | [H\-Burns](https://open.spotify.com/artist/5Jd4dFTFgTta5lqPvamjZn), [Bertrand Belin](https://open.spotify.com/artist/5yFrjxlSd8zPqzCCNrOI5h) | [Sunset Park \(Extended version\)](https://open.spotify.com/album/4R7JoS7uL4Rs0zBayDeJxY) | 4:21 | 2024-06-27 | 2024-09-06 |
 | [La rivière](https://open.spotify.com/track/0MMXPraylvfvemFGDINgag) | [Elena Copsi](https://open.spotify.com/artist/5YafOG1cCGaf4dpzCNVPXm) | [SOMA](https://open.spotify.com/album/6fCbeaZSXlVDgHTiaMR9C9) | 2:45 | 2025-04-24 |  |
 | [La Romance](https://open.spotify.com/track/0ls9BOrEHJUOPftepjSuN8) | [Ronnie](https://open.spotify.com/artist/6a8uf5LXFZ22BzKMpU9YFz) | [La Romance](https://open.spotify.com/album/16QXt3XzV9u3atxLK2sWSK) | 3:16 | 2024-07-18 | 2024-11-08 |
@@ -121,6 +123,7 @@
 | [Ma mère](https://open.spotify.com/track/6hCsNW3jamyjGIsiQUmPgn) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA), [Albin de la Simone](https://open.spotify.com/artist/4VuZOySa9AIegZZzNIjPLC) | [Ma mère](https://open.spotify.com/album/0MoVGzK68HgZ8vAT3jAEBW) | 3:03 | 2024-06-27 | 2024-08-30 |
 | [Mademoiselle](https://open.spotify.com/track/3XCEplEEtCzUyT2t09h4Ec) | [Lili Em](https://open.spotify.com/artist/4LjJmXmEJVACRkgQyMzPBk) | [Mademoiselle](https://open.spotify.com/album/61BqSXBuEQk3IZf91dAAUG) | 2:31 | 2025-04-17 |  |
 | [Manquer à quelqu'un quelque part](https://open.spotify.com/track/3ziKYDEXy8qG50W0mvYtAs) | [Clarika](https://open.spotify.com/artist/286N26F5niRQqjn3PeqFjH) | [Danse encore](https://open.spotify.com/album/0xRbi5yizZ5215IUA0HnNW) | 3:15 | 2024-06-27 | 2024-07-19 |
+| [Manteau chagrin](https://open.spotify.com/track/5QLlufXqdXZEcvrAmtqFvR) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [Manteau chagrin](https://open.spotify.com/album/70Gb0hozJ6iIx6gOZxxchY) | 4:13 | 2025-05-29 |  |
 | [Marcher droit](https://open.spotify.com/track/5QcbSS53QWUHTiKDYBHuHM) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [Marcher droit](https://open.spotify.com/album/1HwrjAGvdyfIvl3RCRBEfp) | 4:01 | 2024-09-26 | 2025-01-24 |
 | [Mode d'emploi](https://open.spotify.com/track/3EsRNFcFTVtCyHYtVhMa4P) | [Hélène Sio](https://open.spotify.com/artist/4xY8i64uyLVZJcxobplgOO) | [Mode d'emploi](https://open.spotify.com/album/1WxJGF9ruFXR0wroN8DWHN) | 3:30 | 2024-06-27 | 2024-11-08 |
 | [Mon épaule](https://open.spotify.com/track/20uMoMNEt8BxWdOP7m19hj) | [Clou](https://open.spotify.com/artist/7DPzuksj4fnGIb4F9dVswN) | [À l'évidence](https://open.spotify.com/album/1BcBAcp829SmQLmIZV9adb) | 2:43 | 2024-11-21 | 2025-04-11 |
@@ -177,7 +180,7 @@
 | [vestiaire](https://open.spotify.com/track/1l73TR0XQyd3UAPv1JritE) | [The Doug](https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S) | [vestiaire](https://open.spotify.com/album/26Slz1vGSAqtp6eW2z2Lzp) | 2:52 | 2025-05-01 | 2025-05-23 |
 | [Violette](https://open.spotify.com/track/7smDg0K71zHvU7w0qRiUOG) | [Manon Lisa](https://open.spotify.com/artist/2qzxrbVBGwJjYOay7mJmhf) | [Violette](https://open.spotify.com/album/100JcLvH3jFj7EvC3r4mNr) | 2:41 | 2024-11-28 | 2025-04-25 |
 | [Vivant](https://open.spotify.com/track/79WNuukBSoDzaem1LT4IZ4) | [Malik Djoudi](https://open.spotify.com/artist/5STTEE3TlZg9gb3xNC4RHF) | [Vivant](https://open.spotify.com/album/1Mf3XaYg2XWFDR5E0D2RCX) | 3:02 | 2024-06-27 | 2024-11-08 |
-| [vivre sobrement](https://open.spotify.com/track/28x80OgMDIuoEN1Fxg05wy) | [Terrenoire](https://open.spotify.com/artist/6AiHXHMryCtGFBEnjB17aA) | [vivre sobrement](https://open.spotify.com/album/1WzUmvwS8cONNLNfeCEStN) | 3:11 | 2025-01-09 |  |
+| [vivre sobrement](https://open.spotify.com/track/28x80OgMDIuoEN1Fxg05wy) | [Terrenoire](https://open.spotify.com/artist/6AiHXHMryCtGFBEnjB17aA) | [vivre sobrement](https://open.spotify.com/album/1WzUmvwS8cONNLNfeCEStN) | 3:11 | 2025-01-09 | 2025-05-30 |
 | [À l'arrière de la voiture](https://open.spotify.com/track/5aSdlaElPZ67Jie7hFIzmD) | [Clou](https://open.spotify.com/artist/7DPzuksj4fnGIb4F9dVswN) | [À l'évidence](https://open.spotify.com/album/1BcBAcp829SmQLmIZV9adb) | 4:06 | 2025-01-09 | 2025-05-23 |
 | [À l'évidence](https://open.spotify.com/track/159HSchugulB4yPCx1SaI1) | [Clou](https://open.spotify.com/artist/7DPzuksj4fnGIb4F9dVswN) | [À l'évidence](https://open.spotify.com/album/2AYSNL50EMcJssFacKZdZn) | 2:45 | 2024-08-29 | 2024-11-22 |
 | [À quoi tu penses ?](https://open.spotify.com/track/1fohypbxw75F3KaLX8PHZU) | [Ours](https://open.spotify.com/artist/4ejFPEH0usmNOKnk6l2l3H), [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x), [Pierre Souchon](https://open.spotify.com/artist/1VXDkrXR9IXKIdotTI5GtZ) | [À quoi tu penses ?](https://open.spotify.com/album/4OBljJluufDECpKXqDs27P) | 3:20 | 2025-01-30 |  |

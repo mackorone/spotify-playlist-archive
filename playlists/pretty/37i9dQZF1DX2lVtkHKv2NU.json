@@ -1,6 +1,6 @@
 {
   "description": "me gustas mucho. <3 I've got a crush on you.",
-  "num_followers": 323630,
+  "num_followers": 323637,
   "original_name": "internet crush",
   "owner": {
     "name": "Spotify",
@@ -439,26 +439,6 @@
     {
       "added_at": "2025-05-09 06:00:13",
       "album": {
-        "name": "Solcito",
-        "url": "https://open.spotify.com/album/3BzCHEyuOsxZrWq3M3CsR2"
-      },
-      "artists": [
-        {
-          "name": "Miguel Bueno",
-          "url": "https://open.spotify.com/artist/3frx2nsVBAA3DvbKTE9JeT"
-        },
-        {
-          "name": "Juan Duque",
-          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Solcito",
-      "url": "https://open.spotify.com/track/2BE1Q5N4Enl1eRrM82uzsu"
-    },
-    {
-      "added_at": "2025-05-09 06:00:13",
-      "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 258298,
       "name": "Ojitos Lindos",
       "url": "https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW"
+    },
+    {
+      "added_at": "2025-05-09 06:00:13",
+      "album": {
+        "name": "Solcito",
+        "url": "https://open.spotify.com/album/3BzCHEyuOsxZrWq3M3CsR2"
+      },
+      "artists": [
+        {
+          "name": "Miguel Bueno",
+          "url": "https://open.spotify.com/artist/3frx2nsVBAA3DvbKTE9JeT"
+        },
+        {
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Solcito",
+      "url": "https://open.spotify.com/track/2BE1Q5N4Enl1eRrM82uzsu"
     },
     {
       "added_at": "2025-05-09 06:00:13",
@@ -1363,26 +1363,6 @@
     {
       "added_at": "2025-05-09 06:00:13",
       "album": {
-        "name": "I Said I Love You First... And You Said It Back",
-        "url": "https://open.spotify.com/album/5Gb94494MtenpCCWoNX0e5"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        },
-        {
-          "name": "benny blanco",
-          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
-        }
-      ],
-      "duration_ms": 132539,
-      "name": "Talk",
-      "url": "https://open.spotify.com/track/2TuxpGjF4fPTNLMXP28xYb"
-    },
-    {
-      "added_at": "2025-05-09 06:00:13",
-      "album": {
         "name": "Abr\u00e1zame",
         "url": "https://open.spotify.com/album/2YZnqChmcKcsTS6tTg0fuL"
       },
@@ -1435,6 +1415,26 @@
       "duration_ms": 193463,
       "name": "Tormenta (feat. Bad Bunny)",
       "url": "https://open.spotify.com/track/38UYeBLfvpnDSG9GznZdnL"
+    },
+    {
+      "added_at": "2025-05-09 06:00:13",
+      "album": {
+        "name": "I Said I Love You First... And You Said It Back",
+        "url": "https://open.spotify.com/album/5Gb94494MtenpCCWoNX0e5"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        }
+      ],
+      "duration_ms": 132539,
+      "name": "Talk",
+      "url": "https://open.spotify.com/track/2TuxpGjF4fPTNLMXP28xYb"
     },
     {
       "added_at": "2025-05-09 06:00:13",

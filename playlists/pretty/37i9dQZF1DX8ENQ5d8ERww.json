@@ -1,6 +1,6 @@
 {
   "description": "Die Klassiker des Schweizer Hip-Hop.",
-  "num_followers": 12677,
+  "num_followers": 12680,
   "original_name": "Alte Schule",
   "owner": {
     "name": "Spotify",
@@ -343,38 +343,6 @@
     {
       "added_at": "2024-12-09 12:11:25",
       "album": {
-        "name": "Bar",
-        "url": "https://open.spotify.com/album/6qpKhE3dGE8rFVAssczdHG"
-      },
-      "artists": [
-        {
-          "name": "Tinguely d\u00e4 Chn\u00e4cht",
-          "url": "https://open.spotify.com/artist/30pdt4YkBYxYPIr0RVdxRj"
-        }
-      ],
-      "duration_ms": 252440,
-      "name": "Mini Homeboys",
-      "url": "https://open.spotify.com/track/2YoBQUtCsAtvPiG7XrY3S5"
-    },
-    {
-      "added_at": "2024-12-09 12:11:25",
-      "album": {
-        "name": "Golden Greats",
-        "url": "https://open.spotify.com/album/0WCTR1QeaNv6i3wqG5zLKw"
-      },
-      "artists": [
-        {
-          "name": "Stress",
-          "url": "https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg"
-        }
-      ],
-      "duration_ms": 254226,
-      "name": "Mais o\u00fa? - Single Version",
-      "url": "https://open.spotify.com/track/5LZuIfdjO7zJmauOltiKtl"
-    },
-    {
-      "added_at": "2024-12-09 12:11:25",
-      "album": {
         "name": "The Show Must Go On",
         "url": "https://open.spotify.com/album/5cLUhcAm3X2MR9P9yiCn0H"
       },
@@ -395,6 +363,38 @@
       "duration_ms": 235906,
       "name": "So simer",
       "url": "https://open.spotify.com/track/5O9S52yM9oARUeeHZgLgPb"
+    },
+    {
+      "added_at": "2024-12-09 12:11:25",
+      "album": {
+        "name": "Golden Greats",
+        "url": "https://open.spotify.com/album/0WCTR1QeaNv6i3wqG5zLKw"
+      },
+      "artists": [
+        {
+          "name": "Stress",
+          "url": "https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg"
+        }
+      ],
+      "duration_ms": 254226,
+      "name": "Mais o\u00fa? - Single Version",
+      "url": "https://open.spotify.com/track/5LZuIfdjO7zJmauOltiKtl"
+    },
+    {
+      "added_at": "2024-12-09 12:11:25",
+      "album": {
+        "name": "Bar",
+        "url": "https://open.spotify.com/album/6qpKhE3dGE8rFVAssczdHG"
+      },
+      "artists": [
+        {
+          "name": "Tinguely d\u00e4 Chn\u00e4cht",
+          "url": "https://open.spotify.com/artist/30pdt4YkBYxYPIr0RVdxRj"
+        }
+      ],
+      "duration_ms": 252440,
+      "name": "Mini Homeboys",
+      "url": "https://open.spotify.com/track/2YoBQUtCsAtvPiG7XrY3S5"
     },
     {
       "added_at": "2024-12-09 12:11:25",
@@ -843,46 +843,6 @@
     {
       "added_at": "2024-12-09 12:11:25",
       "album": {
-        "name": "Normal (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4roW7Xpb9oeKUyqnwpQDMj"
-      },
-      "artists": [
-        {
-          "name": "Bligg",
-          "url": "https://open.spotify.com/artist/1q4LHoD7IzquqGQR4YZRQr"
-        },
-        {
-          "name": "Stress",
-          "url": "https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg"
-        },
-        {
-          "name": "Lexx",
-          "url": "https://open.spotify.com/artist/1VlcasdoALzQ028J8vAEax"
-        }
-      ],
-      "duration_ms": 222173,
-      "name": "Relaxtra",
-      "url": "https://open.spotify.com/track/18in07peN7I1KRfrOKpyPn"
-    },
-    {
-      "added_at": "2024-12-09 12:11:25",
-      "album": {
-        "name": "0816 (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5xY03mntZ8UYzw9JyhVovX"
-      },
-      "artists": [
-        {
-          "name": "Bligg",
-          "url": "https://open.spotify.com/artist/1q4LHoD7IzquqGQR4YZRQr"
-        }
-      ],
-      "duration_ms": 202933,
-      "name": "Musigg i d\u00e4 Schwiiz",
-      "url": "https://open.spotify.com/track/3rrXQC7hEBynPo3qmHWNDA"
-    },
-    {
-      "added_at": "2024-12-09 12:11:25",
-      "album": {
         "name": "Tour de Suisse",
         "url": "https://open.spotify.com/album/6KwaoppsoovbcsJAmGP5Cq"
       },
@@ -952,13 +912,57 @@
           "url": "https://open.spotify.com/artist/1q4LHoD7IzquqGQR4YZRQr"
         },
         {
-          "name": "Emel",
-          "url": "https://open.spotify.com/artist/7DtDbNT3ZUqIY8BCbcLVz1"
+          "name": "Stress",
+          "url": "https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg"
+        },
+        {
+          "name": "Lexx",
+          "url": "https://open.spotify.com/artist/1VlcasdoALzQ028J8vAEax"
         }
       ],
-      "duration_ms": 254986,
-      "name": "Alles scho mal gh\u00f6rt",
-      "url": "https://open.spotify.com/track/16gkGhNGF3ovqylGoKDqdY"
+      "duration_ms": 222173,
+      "name": "Relaxtra",
+      "url": "https://open.spotify.com/track/18in07peN7I1KRfrOKpyPn"
+    },
+    {
+      "added_at": "2024-12-09 12:11:25",
+      "album": {
+        "name": "Mitgehen oder Aussteigen",
+        "url": "https://open.spotify.com/album/3fVEtUSIcU4h73mh4diMAH"
+      },
+      "artists": [
+        {
+          "name": "Beat Dictator Crew",
+          "url": "https://open.spotify.com/artist/5bj84ajO1AAm0eoF77GMQo"
+        },
+        {
+          "name": "Bdc",
+          "url": "https://open.spotify.com/artist/79hvWSUEeiNSrwukWPbf1V"
+        }
+      ],
+      "duration_ms": 220013,
+      "name": "Die Grundregeln",
+      "url": "https://open.spotify.com/track/45mo0hGu4G9aN0P9uTHpui"
+    },
+    {
+      "added_at": "2024-12-09 12:11:25",
+      "album": {
+        "name": "Link Up (Remix) / Extra",
+        "url": "https://open.spotify.com/album/4azTTTDQOh91aouGjgbRnm"
+      },
+      "artists": [
+        {
+          "name": "Manillio",
+          "url": "https://open.spotify.com/artist/7uxtLjuqkJ3cnjQQuW6Cul"
+        },
+        {
+          "name": "Nativ",
+          "url": "https://open.spotify.com/artist/3D9JUF3jSyhMh88bYb4wJX"
+        }
+      ],
+      "duration_ms": 193768,
+      "name": "Extra",
+      "url": "https://open.spotify.com/track/3JEV20qAKdhQ9opRo2eP1m"
     }
   ],
   "unique_name": "Alte Schule",

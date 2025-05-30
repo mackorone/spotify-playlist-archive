@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > 40 Canadian artists to keep on your radar, according to our editors\. Cover: Baby Nova
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,241 likes - 40 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,242 likes - 40 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 15 | [LOUDER!](https://open.spotify.com/track/0roBwHPpPoBtmlpeaOQXYt) | [Dom Vallie](https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk) | [LOUDER!](https://open.spotify.com/album/5G5d6P7xn3HJfbzk6F5nmI) | 2:17 |
 | 16 | [miss melancholy](https://open.spotify.com/track/2GHQimEGRvo0OSyvqLIf8d) | [Evan Fong](https://open.spotify.com/artist/74pDNLCBUxYeDepGvZP2KP) | [miss melancholy](https://open.spotify.com/album/68wM3sjcRJM0W4o3QRJrTX) | 3:09 |
 | 17 | [WHEN IN ROME](https://open.spotify.com/track/5oWZuJIRqiLjbnrYQWdA22) | [80purppp](https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF) | [WHEN IN ROME](https://open.spotify.com/album/789Bksm1brUUGEvFS0SNIc) | 3:09 |
-| 18 | [SpitShineFreestyle\(04.23.2022\)](https://open.spotify.com/track/5Q8C3D1YiM1UZt23zNk9ez) | [KOTO?](https://open.spotify.com/artist/1N7v8ztld41DN69kQvp0We), [Thelonious](https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI) | [SpitShineFreestyle\(04.23.2022\)](https://open.spotify.com/album/1GklecXNAPYU5epr3FVuUc) | 1:44 |
+| 18 | [SpitShineFreestyle](https://open.spotify.com/track/5Q8C3D1YiM1UZt23zNk9ez) | [KOTO?](https://open.spotify.com/artist/1N7v8ztld41DN69kQvp0We), [Thelonious](https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI) | [SpitShineFreestyle](https://open.spotify.com/album/1GklecXNAPYU5epr3FVuUc) | 1:44 |
 | 19 | [Jersey](https://open.spotify.com/track/6UhygfLQaavhREE9Ia5FCD) | [646yf4t](https://open.spotify.com/artist/4obW4V3i8LGRVJbWClPclF) | [Jersey](https://open.spotify.com/album/6qtAWnR7GmJJqMkmk10hvz) | 3:35 |
 | 20 | [Storming Out](https://open.spotify.com/track/3H7IGbRRh3rHy3d2b9jGsS) | [Seago](https://open.spotify.com/artist/0bDqmuVnpecyZQuXZ7i85s) | [Storming Out](https://open.spotify.com/album/3lAtEouGEFlz5ODKtBIASE) | 2:08 |
 | 21 | [Heartbreak Club](https://open.spotify.com/track/7iJ6C5k07SfjYlr7c5785a) | [Laraw](https://open.spotify.com/artist/7vxKZcJkulVyFjO6Bb1Pq1) | [J'ai quitté le Heartbreak Club](https://open.spotify.com/album/0UGFBfMGBjljra0EJJ1Swj) | 2:37 |

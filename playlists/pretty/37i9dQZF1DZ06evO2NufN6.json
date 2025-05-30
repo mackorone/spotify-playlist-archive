@@ -1,12 +1,12 @@
 {
   "description": "This is Mac Miller. The essential tracks, all in one playlist.",
-  "num_followers": 945298,
+  "num_followers": 945445,
   "original_name": "This Is Mac Miller",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDUAgAAAAABahULzsHTfW181ncwaeyvb",
+  "snapshot_id": "aDZSAAAAAACWIp0EJPEAlV9MV25DLuXS",
   "tracks": [
     {
       "added_at": null,
@@ -311,38 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Circles",
-        "url": "https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 170360,
-      "name": "Circles",
-      "url": "https://open.spotify.com/track/4jXl6VtkFFKIt3ycUQc5LT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Balloonerism",
-        "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 263941,
-      "name": "Funny Papers",
-      "url": "https://open.spotify.com/track/4pu58kqegTnOxPNJpY3kr9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Free Nationals",
         "url": "https://open.spotify.com/album/53oqFs4q8sfqH6IPiyleEN"
       },
@@ -367,8 +335,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Swimming",
-        "url": "https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk"
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb"
       },
       "artists": [
         {
@@ -376,9 +344,9 @@
           "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
         }
       ],
-      "duration_ms": 345213,
-      "name": "Jet Fuel",
-      "url": "https://open.spotify.com/track/2JmFRXaJrkAUD2cs6U20KG"
+      "duration_ms": 170360,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/4jXl6VtkFFKIt3ycUQc5LT"
     },
     {
       "added_at": null,
@@ -395,6 +363,38 @@
       "duration_ms": 164522,
       "name": "Donald Trump",
       "url": "https://open.spotify.com/track/6Aa7aDayiQHnUw1dUvdneZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Swimming",
+        "url": "https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 345213,
+      "name": "Jet Fuel",
+      "url": "https://open.spotify.com/track/2JmFRXaJrkAUD2cs6U20KG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Balloonerism",
+        "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 263941,
+      "name": "Funny Papers",
+      "url": "https://open.spotify.com/track/4pu58kqegTnOxPNJpY3kr9"
     },
     {
       "added_at": null,
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Balloonerism",
-        "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 222119,
-      "name": "5 Dollar Pony Rides",
-      "url": "https://open.spotify.com/track/1xKGnsdKOh8jx8pzSZAgXE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Watching Movies with the Sound Off",
         "url": "https://open.spotify.com/album/5lftuHeYvtCA64xGfUviwS"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 259143,
       "name": "Objects in the Mirror",
       "url": "https://open.spotify.com/track/4O0xktTx6zrClJ7OPzMpDT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Balloonerism",
+        "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 222119,
+      "name": "5 Dollar Pony Rides",
+      "url": "https://open.spotify.com/track/1xKGnsdKOh8jx8pzSZAgXE"
     },
     {
       "added_at": null,
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Balloonerism",
-        "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 285805,
-      "name": "Friendly Hallucinations",
-      "url": "https://open.spotify.com/track/1lw3asU5xp73sdBy0rYsuK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Divine Feminine",
         "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 480186,
       "name": "Cinderella (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Balloonerism",
+        "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 285805,
+      "name": "Friendly Hallucinations",
+      "url": "https://open.spotify.com/track/1lw3asU5xp73sdBy0rYsuK"
     },
     {
       "added_at": null,
@@ -711,22 +711,6 @@
       "duration_ms": 190186,
       "name": "Programs",
       "url": "https://open.spotify.com/track/1883mCuSqnfnrWoq8i3myH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Balloonerism",
-        "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 204564,
-      "name": "Do You Have A Destination?",
-      "url": "https://open.spotify.com/track/1KwIDHEK3CYbHPJUTMxxNu"
     },
     {
       "added_at": null,
@@ -767,6 +751,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Balloonerism",
+        "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 204564,
+      "name": "Do You Have A Destination?",
+      "url": "https://open.spotify.com/track/1KwIDHEK3CYbHPJUTMxxNu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Faces",
         "url": "https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY"
       },
@@ -779,22 +779,6 @@
       "duration_ms": 198107,
       "name": "Diablo",
       "url": "https://open.spotify.com/track/3BDpkLMkgrtrM3HckrVIXr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GO:OD AM",
-        "url": "https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 292466,
-      "name": "Ascension",
-      "url": "https://open.spotify.com/track/19CkkPInDRDIOlqfrz1mVn"
     },
     {
       "added_at": null,
@@ -815,6 +799,22 @@
       "duration_ms": 319272,
       "name": "We (feat. CeeLo Green)",
       "url": "https://open.spotify.com/track/4k5UZm89ZX0YAHUp55zpt9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GO:OD AM",
+        "url": "https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 292466,
+      "name": "Ascension",
+      "url": "https://open.spotify.com/track/19CkkPInDRDIOlqfrz1mVn"
     },
     {
       "added_at": null,

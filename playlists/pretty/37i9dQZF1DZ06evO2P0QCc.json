@@ -1,12 +1,12 @@
 {
   "description": "This is Inspector. The essential tracks, all in one playlist.",
-  "num_followers": 117641,
+  "num_followers": 117673,
   "original_name": "This Is Inspector",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDUAgAAAAABxyOXDze55HIZIp1Ym+aXg",
+  "snapshot_id": "aDZSAAAAAAATah5KsfykL2A+lpxnIwHf",
   "tracks": [
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Serpientes Y Escaleras",
-        "url": "https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 214933,
-      "name": "Serpientes Y Escaleras",
-      "url": "https://open.spotify.com/track/5eUoshsxNYpDVDyvApzxed"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Inspector",
         "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 200613,
       "name": "Noviembre (feat. Ely Guerra)",
       "url": "https://open.spotify.com/track/1ZZwOa4F545Z0bsirja8iz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Serpientes Y Escaleras",
+        "url": "https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 214933,
+      "name": "Serpientes Y Escaleras",
+      "url": "https://open.spotify.com/track/5eUoshsxNYpDVDyvApzxed"
     },
     {
       "added_at": null,
@@ -727,8 +727,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soy Soledad",
-        "url": "https://open.spotify.com/album/1k1MjUF3FtfOKtUKDzF9c8"
+        "name": "Luna (Sonando Desde El Auditorio Nacional)",
+        "url": "https://open.spotify.com/album/554mV2o4xXe18Z8WPvNQnW"
       },
       "artists": [
         {
@@ -736,13 +736,17 @@
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
         },
         {
-          "name": "Lng Sht",
-          "url": "https://open.spotify.com/artist/7quTxXHwjedVPXjeTbnXmN"
+          "name": "La Marisoul",
+          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
+        },
+        {
+          "name": "Son Rompe Pera",
+          "url": "https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V"
         }
       ],
-      "duration_ms": 208400,
-      "name": "Soy Soledad",
-      "url": "https://open.spotify.com/track/50QvMSeHtzMjDGhgtWJDsi"
+      "duration_ms": 321493,
+      "name": "Luna - Sonando Desde El Auditorio Nacional",
+      "url": "https://open.spotify.com/track/301p7RYR4Bg9a16m80XWnY"
     },
     {
       "added_at": null,
@@ -799,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luna (Sonando Desde El Auditorio Nacional)",
-        "url": "https://open.spotify.com/album/554mV2o4xXe18Z8WPvNQnW"
+        "name": "Soy Soledad",
+        "url": "https://open.spotify.com/album/1k1MjUF3FtfOKtUKDzF9c8"
       },
       "artists": [
         {
@@ -808,17 +812,13 @@
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
         },
         {
-          "name": "La Marisoul",
-          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
-        },
-        {
-          "name": "Son Rompe Pera",
-          "url": "https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V"
+          "name": "Lng Sht",
+          "url": "https://open.spotify.com/artist/7quTxXHwjedVPXjeTbnXmN"
         }
       ],
-      "duration_ms": 321493,
-      "name": "Luna - Sonando Desde El Auditorio Nacional",
-      "url": "https://open.spotify.com/track/301p7RYR4Bg9a16m80XWnY"
+      "duration_ms": 208400,
+      "name": "Soy Soledad",
+      "url": "https://open.spotify.com/track/50QvMSeHtzMjDGhgtWJDsi"
     },
     {
       "added_at": null,

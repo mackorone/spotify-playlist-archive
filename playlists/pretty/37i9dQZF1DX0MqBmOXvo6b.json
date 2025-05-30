@@ -1,6 +1,6 @@
 {
   "description": "Conc\u00e9ntrate al m\u00e1ximo, sin distracciones.",
-  "num_followers": 425039,
+  "num_followers": 425096,
   "original_name": "Concentraci\u00f3n Perfecta",
   "owner": {
     "name": "Spotify",
@@ -155,22 +155,6 @@
     {
       "added_at": "2025-05-28 14:39:41",
       "album": {
-        "name": "Nordanvind",
-        "url": "https://open.spotify.com/album/6j0bsFT0NhsZiiSJqS3mze"
-      },
-      "artists": [
-        {
-          "name": "Malmkvist",
-          "url": "https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l"
-        }
-      ],
-      "duration_ms": 127000,
-      "name": "Nordanvind",
-      "url": "https://open.spotify.com/track/42cskWMuFydbI9f9um1sTj"
-    },
-    {
-      "added_at": "2025-05-28 14:39:41",
-      "album": {
         "name": "Ti Vedo",
         "url": "https://open.spotify.com/album/7yJ9ZwO2t7fI2gYRDi7vIS"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 157655,
       "name": "Ti Vedo",
       "url": "https://open.spotify.com/track/1MMPjL15s8zSB787xGGePp"
+    },
+    {
+      "added_at": "2025-05-28 14:39:41",
+      "album": {
+        "name": "Nordanvind",
+        "url": "https://open.spotify.com/album/6j0bsFT0NhsZiiSJqS3mze"
+      },
+      "artists": [
+        {
+          "name": "Malmkvist",
+          "url": "https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l"
+        }
+      ],
+      "duration_ms": 127000,
+      "name": "Nordanvind",
+      "url": "https://open.spotify.com/track/42cskWMuFydbI9f9um1sTj"
     },
     {
       "added_at": "2025-05-28 14:39:41",
@@ -427,6 +427,22 @@
     {
       "added_at": "2025-05-28 14:39:41",
       "album": {
+        "name": "Alder",
+        "url": "https://open.spotify.com/album/6uW1dHFYMcBynJexmoRdBl"
+      },
+      "artists": [
+        {
+          "name": "Finn Dubois",
+          "url": "https://open.spotify.com/artist/2ek3AbMb8PTzYmJP69gpBE"
+        }
+      ],
+      "duration_ms": 179682,
+      "name": "Alder",
+      "url": "https://open.spotify.com/track/2TuPzUCUfmhh1d3lqn0DWJ"
+    },
+    {
+      "added_at": "2025-05-28 14:39:41",
+      "album": {
         "name": "Escallonia",
         "url": "https://open.spotify.com/album/2wY3ju9AoeMmFDyATPzBSh"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 129300,
       "name": "Escallonia",
       "url": "https://open.spotify.com/track/3eiNEHJYK9MX3UKYfW9irj"
-    },
-    {
-      "added_at": "2025-05-28 14:39:41",
-      "album": {
-        "name": "Ing\u00e9nue",
-        "url": "https://open.spotify.com/album/4VSETamjgx6cwFsdba8N7b"
-      },
-      "artists": [
-        {
-          "name": "Nino Carl",
-          "url": "https://open.spotify.com/artist/3V1leSurIPtt6YdrfnJNo2"
-        }
-      ],
-      "duration_ms": 147639,
-      "name": "Ing\u00e9nue",
-      "url": "https://open.spotify.com/track/3eh0aTbpVViZatOcCnSTMW"
     },
     {
       "added_at": "2025-05-28 14:39:41",
@@ -491,22 +491,6 @@
     {
       "added_at": "2025-05-28 14:39:41",
       "album": {
-        "name": "Secret Meadow",
-        "url": "https://open.spotify.com/album/3vqbinG3yAqZhYdCuq9eKM"
-      },
-      "artists": [
-        {
-          "name": "Cole Neumann",
-          "url": "https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi"
-        }
-      ],
-      "duration_ms": 147524,
-      "name": "Secret Meadow",
-      "url": "https://open.spotify.com/track/0CtYYa8anV9WcP4R7WEP6c"
-    },
-    {
-      "added_at": "2025-05-28 14:39:41",
-      "album": {
         "name": "Each glorious entity",
         "url": "https://open.spotify.com/album/5AsSot5Zm8jb8iSBLg966r"
       },
@@ -523,18 +507,34 @@
     {
       "added_at": "2025-05-28 14:39:41",
       "album": {
-        "name": "Alder",
-        "url": "https://open.spotify.com/album/6uW1dHFYMcBynJexmoRdBl"
+        "name": "Secret Meadow",
+        "url": "https://open.spotify.com/album/3vqbinG3yAqZhYdCuq9eKM"
       },
       "artists": [
         {
-          "name": "Finn Dubois",
-          "url": "https://open.spotify.com/artist/2ek3AbMb8PTzYmJP69gpBE"
+          "name": "Cole Neumann",
+          "url": "https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi"
         }
       ],
-      "duration_ms": 179682,
-      "name": "Alder",
-      "url": "https://open.spotify.com/track/2TuPzUCUfmhh1d3lqn0DWJ"
+      "duration_ms": 147524,
+      "name": "Secret Meadow",
+      "url": "https://open.spotify.com/track/0CtYYa8anV9WcP4R7WEP6c"
+    },
+    {
+      "added_at": "2025-05-28 14:39:41",
+      "album": {
+        "name": "Ing\u00e9nue",
+        "url": "https://open.spotify.com/album/4VSETamjgx6cwFsdba8N7b"
+      },
+      "artists": [
+        {
+          "name": "Nino Carl",
+          "url": "https://open.spotify.com/artist/3V1leSurIPtt6YdrfnJNo2"
+        }
+      ],
+      "duration_ms": 147639,
+      "name": "Ing\u00e9nue",
+      "url": "https://open.spotify.com/track/3eh0aTbpVViZatOcCnSTMW"
     },
     {
       "added_at": "2025-05-28 14:39:41",
@@ -555,22 +555,6 @@
     {
       "added_at": "2025-05-28 14:39:41",
       "album": {
-        "name": "Truth Within",
-        "url": "https://open.spotify.com/album/0LW4Hr1eiR2BodmRD9iDev"
-      },
-      "artists": [
-        {
-          "name": "Adri\u00e1n \u00dalfur",
-          "url": "https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw"
-        }
-      ],
-      "duration_ms": 141993,
-      "name": "Truth Within",
-      "url": "https://open.spotify.com/track/3mRO22aXY2HAdEVFluFrXI"
-    },
-    {
-      "added_at": "2025-05-28 14:39:41",
-      "album": {
         "name": "My love",
         "url": "https://open.spotify.com/album/2Z9vPeJtT5Y9S0iNoytxMC"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 170826,
       "name": "My love",
       "url": "https://open.spotify.com/track/0BsgEGGkpLtMnbp8z0LnRF"
+    },
+    {
+      "added_at": "2025-05-28 14:39:41",
+      "album": {
+        "name": "Truth Within",
+        "url": "https://open.spotify.com/album/0LW4Hr1eiR2BodmRD9iDev"
+      },
+      "artists": [
+        {
+          "name": "Adri\u00e1n \u00dalfur",
+          "url": "https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw"
+        }
+      ],
+      "duration_ms": 141993,
+      "name": "Truth Within",
+      "url": "https://open.spotify.com/track/3mRO22aXY2HAdEVFluFrXI"
     },
     {
       "added_at": "2025-05-28 14:39:41",
@@ -843,22 +843,6 @@
     {
       "added_at": "2025-05-28 14:39:41",
       "album": {
-        "name": "Tranquil Landscape",
-        "url": "https://open.spotify.com/album/2Ki1eCrONyJr7GPJdoC9ta"
-      },
-      "artists": [
-        {
-          "name": "Ametrine Skies",
-          "url": "https://open.spotify.com/artist/40vrF4Xbk1GAxqnIRdyrKs"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "Tranquil Landscape",
-      "url": "https://open.spotify.com/track/6oODbMYfHjqWHTZp3wMheG"
-    },
-    {
-      "added_at": "2025-05-28 14:39:41",
-      "album": {
         "name": "Find The Light Behind The Clouds",
         "url": "https://open.spotify.com/album/3nfBykXL4VSjn141KAOKQq"
       },
@@ -871,22 +855,6 @@
       "duration_ms": 139884,
       "name": "Find The Light Behind The Clouds",
       "url": "https://open.spotify.com/track/6lO855y2athPU69GEgmFnV"
-    },
-    {
-      "added_at": "2025-05-28 14:39:41",
-      "album": {
-        "name": "Little Boy",
-        "url": "https://open.spotify.com/album/22j6ckEXQqatndRT7AFLYT"
-      },
-      "artists": [
-        {
-          "name": "Haru Kitamura",
-          "url": "https://open.spotify.com/artist/6qjQ8iKIjHkc6x5wodNJiD"
-        }
-      ],
-      "duration_ms": 122000,
-      "name": "Little Boy",
-      "url": "https://open.spotify.com/track/4ugfH6l185E6ahXiWQdmdD"
     },
     {
       "added_at": "2025-05-28 14:39:41",
@@ -907,18 +875,18 @@
     {
       "added_at": "2025-05-28 14:39:41",
       "album": {
-        "name": "Au matin du magicien",
-        "url": "https://open.spotify.com/album/67HlY6TafwpL0BDXMpvjfQ"
+        "name": "Little Boy",
+        "url": "https://open.spotify.com/album/22j6ckEXQqatndRT7AFLYT"
       },
       "artists": [
         {
-          "name": "Leo Nocta",
-          "url": "https://open.spotify.com/artist/1BOoMqm6EGpw6D36gt76PI"
+          "name": "Haru Kitamura",
+          "url": "https://open.spotify.com/artist/6qjQ8iKIjHkc6x5wodNJiD"
         }
       ],
-      "duration_ms": 122560,
-      "name": "Au matin du magicien",
-      "url": "https://open.spotify.com/track/0P6bBjhwWbNhAC20n03PzW"
+      "duration_ms": 122000,
+      "name": "Little Boy",
+      "url": "https://open.spotify.com/track/4ugfH6l185E6ahXiWQdmdD"
     },
     {
       "added_at": "2025-05-28 14:39:41",
@@ -939,18 +907,34 @@
     {
       "added_at": "2025-05-28 14:39:41",
       "album": {
-        "name": "Rest",
-        "url": "https://open.spotify.com/album/5PyoVVil8AmVxpN8Gxzitj"
+        "name": "Tranquil Landscape",
+        "url": "https://open.spotify.com/album/2Ki1eCrONyJr7GPJdoC9ta"
       },
       "artists": [
         {
-          "name": "Algot Brooke",
-          "url": "https://open.spotify.com/artist/5jusPffeiBz4RWAvgZK3dC"
+          "name": "Ametrine Skies",
+          "url": "https://open.spotify.com/artist/40vrF4Xbk1GAxqnIRdyrKs"
         }
       ],
-      "duration_ms": 174426,
-      "name": "Rest",
-      "url": "https://open.spotify.com/track/634pdMJ4hY7Ttaf8B45C0C"
+      "duration_ms": 187200,
+      "name": "Tranquil Landscape",
+      "url": "https://open.spotify.com/track/6oODbMYfHjqWHTZp3wMheG"
+    },
+    {
+      "added_at": "2025-05-28 14:39:41",
+      "album": {
+        "name": "Au matin du magicien",
+        "url": "https://open.spotify.com/album/67HlY6TafwpL0BDXMpvjfQ"
+      },
+      "artists": [
+        {
+          "name": "Leo Nocta",
+          "url": "https://open.spotify.com/artist/1BOoMqm6EGpw6D36gt76PI"
+        }
+      ],
+      "duration_ms": 122560,
+      "name": "Au matin du magicien",
+      "url": "https://open.spotify.com/track/0P6bBjhwWbNhAC20n03PzW"
     },
     {
       "added_at": "2025-05-28 14:39:41",
@@ -971,22 +955,6 @@
     {
       "added_at": "2025-05-28 14:39:41",
       "album": {
-        "name": "Open Mind",
-        "url": "https://open.spotify.com/album/0dcEMhlVSE5SgFgL7wJ5OB"
-      },
-      "artists": [
-        {
-          "name": "Iris Fairchild",
-          "url": "https://open.spotify.com/artist/4y0LLz0nnu6BQoaFI1zcUa"
-        }
-      ],
-      "duration_ms": 122105,
-      "name": "Open Mind",
-      "url": "https://open.spotify.com/track/7lz4IM1oPgxaCvs1R0xTHn"
-    },
-    {
-      "added_at": "2025-05-28 14:39:41",
-      "album": {
         "name": "campfire",
         "url": "https://open.spotify.com/album/53amoiSBErIDMWnX1yBUj9"
       },
@@ -999,6 +967,38 @@
       "duration_ms": 186701,
       "name": "campfire",
       "url": "https://open.spotify.com/track/0hzKA9jzEj7vFgkLyF4LQu"
+    },
+    {
+      "added_at": "2025-05-28 14:39:41",
+      "album": {
+        "name": "Rest",
+        "url": "https://open.spotify.com/album/5PyoVVil8AmVxpN8Gxzitj"
+      },
+      "artists": [
+        {
+          "name": "Algot Brooke",
+          "url": "https://open.spotify.com/artist/5jusPffeiBz4RWAvgZK3dC"
+        }
+      ],
+      "duration_ms": 174426,
+      "name": "Rest",
+      "url": "https://open.spotify.com/track/634pdMJ4hY7Ttaf8B45C0C"
+    },
+    {
+      "added_at": "2025-05-28 14:39:41",
+      "album": {
+        "name": "Open Mind",
+        "url": "https://open.spotify.com/album/0dcEMhlVSE5SgFgL7wJ5OB"
+      },
+      "artists": [
+        {
+          "name": "Iris Fairchild",
+          "url": "https://open.spotify.com/artist/4y0LLz0nnu6BQoaFI1zcUa"
+        }
+      ],
+      "duration_ms": 122105,
+      "name": "Open Mind",
+      "url": "https://open.spotify.com/track/7lz4IM1oPgxaCvs1R0xTHn"
     },
     {
       "added_at": "2025-05-28 14:39:41",
@@ -1115,6 +1115,38 @@
     {
       "added_at": "2025-05-28 14:39:41",
       "album": {
+        "name": "Memoirs",
+        "url": "https://open.spotify.com/album/0yvsOmzn4odyU2em1bj652"
+      },
+      "artists": [
+        {
+          "name": "Gunnel Boek",
+          "url": "https://open.spotify.com/artist/1o402msQD5tWRl4y5jnrvI"
+        }
+      ],
+      "duration_ms": 173500,
+      "name": "Memoirs",
+      "url": "https://open.spotify.com/track/1SyAYIrYK269TynosiAY1L"
+    },
+    {
+      "added_at": "2025-05-28 14:39:41",
+      "album": {
+        "name": "Simple Beauty",
+        "url": "https://open.spotify.com/album/70rVMRRBihLgLnJimjHGZ3"
+      },
+      "artists": [
+        {
+          "name": "Jon Hailey",
+          "url": "https://open.spotify.com/artist/0Kr5kE9OFqjufb7gRkDBz0"
+        }
+      ],
+      "duration_ms": 168675,
+      "name": "Simple Beauty",
+      "url": "https://open.spotify.com/track/6r5txGtAi1qZDRt93OJrcF"
+    },
+    {
+      "added_at": "2025-05-28 14:39:41",
+      "album": {
         "name": "Reiu",
         "url": "https://open.spotify.com/album/6B1jZ2AcMmNEL2uEAe7Lyu"
       },
@@ -1147,34 +1179,18 @@
     {
       "added_at": "2025-05-28 14:39:41",
       "album": {
-        "name": "Simple Beauty",
-        "url": "https://open.spotify.com/album/70rVMRRBihLgLnJimjHGZ3"
+        "name": "Landet",
+        "url": "https://open.spotify.com/album/0whaUwPWTCKgt5bAINrKK9"
       },
       "artists": [
         {
-          "name": "Jon Hailey",
-          "url": "https://open.spotify.com/artist/0Kr5kE9OFqjufb7gRkDBz0"
+          "name": "Anders Linros",
+          "url": "https://open.spotify.com/artist/7LP66e9QcCrSWAFDyyueTv"
         }
       ],
-      "duration_ms": 168675,
-      "name": "Simple Beauty",
-      "url": "https://open.spotify.com/track/6r5txGtAi1qZDRt93OJrcF"
-    },
-    {
-      "added_at": "2025-05-28 14:39:41",
-      "album": {
-        "name": "Memoirs",
-        "url": "https://open.spotify.com/album/0yvsOmzn4odyU2em1bj652"
-      },
-      "artists": [
-        {
-          "name": "Gunnel Boek",
-          "url": "https://open.spotify.com/artist/1o402msQD5tWRl4y5jnrvI"
-        }
-      ],
-      "duration_ms": 173500,
-      "name": "Memoirs",
-      "url": "https://open.spotify.com/track/1SyAYIrYK269TynosiAY1L"
+      "duration_ms": 126760,
+      "name": "Landet",
+      "url": "https://open.spotify.com/track/7vgbGR4vZNm97c6VTaovkG"
     },
     {
       "added_at": "2025-05-28 14:39:41",
@@ -1195,22 +1211,6 @@
     {
       "added_at": "2025-05-28 14:39:41",
       "album": {
-        "name": "Landet",
-        "url": "https://open.spotify.com/album/0whaUwPWTCKgt5bAINrKK9"
-      },
-      "artists": [
-        {
-          "name": "Anders Linros",
-          "url": "https://open.spotify.com/artist/7LP66e9QcCrSWAFDyyueTv"
-        }
-      ],
-      "duration_ms": 126760,
-      "name": "Landet",
-      "url": "https://open.spotify.com/track/7vgbGR4vZNm97c6VTaovkG"
-    },
-    {
-      "added_at": "2025-05-28 14:39:41",
-      "album": {
         "name": "Resplendent",
         "url": "https://open.spotify.com/album/4gMyqPbXXeFmQadOrKK6GN"
       },
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2025-05-28 14:39:41",
       "album": {
-        "name": "Plum Coulee",
-        "url": "https://open.spotify.com/album/4sfvTd6E3B6Ta0843XB9WT"
-      },
-      "artists": [
-        {
-          "name": "Michael Janzen",
-          "url": "https://open.spotify.com/artist/2Vx2Zfx7Gxu6A6xbwbbtFg"
-        }
-      ],
-      "duration_ms": 173887,
-      "name": "Plum Coulee",
-      "url": "https://open.spotify.com/track/3xfiHpIjVN3pN9wfD6BYMD"
-    },
-    {
-      "added_at": "2025-05-28 14:39:41",
-      "album": {
         "name": "Beauty",
         "url": "https://open.spotify.com/album/48YLSCQqRS20tYuJa2xXR5"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 139952,
       "name": "Beauty",
       "url": "https://open.spotify.com/track/3qxuK06404vBqUlB3VcrHx"
+    },
+    {
+      "added_at": "2025-05-28 14:39:41",
+      "album": {
+        "name": "Plum Coulee",
+        "url": "https://open.spotify.com/album/4sfvTd6E3B6Ta0843XB9WT"
+      },
+      "artists": [
+        {
+          "name": "Michael Janzen",
+          "url": "https://open.spotify.com/artist/2Vx2Zfx7Gxu6A6xbwbbtFg"
+        }
+      ],
+      "duration_ms": 173887,
+      "name": "Plum Coulee",
+      "url": "https://open.spotify.com/track/3xfiHpIjVN3pN9wfD6BYMD"
     },
     {
       "added_at": "2025-05-28 14:39:41",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2025-05-28 14:39:41",
       "album": {
-        "name": "Black coal of dream",
-        "url": "https://open.spotify.com/album/6Qr73LPNXy4GOM7t4SsfO4"
-      },
-      "artists": [
-        {
-          "name": "Thomas Preber",
-          "url": "https://open.spotify.com/artist/69HZUsV2eMEw0ka0BQTZ79"
-        }
-      ],
-      "duration_ms": 125160,
-      "name": "Black coal of dream",
-      "url": "https://open.spotify.com/track/4QTsrZ1o0SRgx6FhdonuCi"
-    },
-    {
-      "added_at": "2025-05-28 14:39:41",
-      "album": {
         "name": "The light is there",
         "url": "https://open.spotify.com/album/4sLCogCSRNefB8zbmhcEj2"
       },
@@ -1467,18 +1451,18 @@
     {
       "added_at": "2025-05-28 14:39:41",
       "album": {
-        "name": "D\u00e9lise",
-        "url": "https://open.spotify.com/album/52Wm8XO82x6UKyAmIVQIDQ"
+        "name": "Black coal of dream",
+        "url": "https://open.spotify.com/album/6Qr73LPNXy4GOM7t4SsfO4"
       },
       "artists": [
         {
-          "name": "Raffaello Sorrento",
-          "url": "https://open.spotify.com/artist/7nhYjVhwKCoj5Sc6CrcNYl"
+          "name": "Thomas Preber",
+          "url": "https://open.spotify.com/artist/69HZUsV2eMEw0ka0BQTZ79"
         }
       ],
-      "duration_ms": 125968,
-      "name": "D\u00e9lise",
-      "url": "https://open.spotify.com/track/7sTIuY89Vgtb67PdM1awJK"
+      "duration_ms": 125160,
+      "name": "Black coal of dream",
+      "url": "https://open.spotify.com/track/4QTsrZ1o0SRgx6FhdonuCi"
     },
     {
       "added_at": "2025-05-28 14:39:41",
@@ -1499,6 +1483,22 @@
     {
       "added_at": "2025-05-28 14:39:41",
       "album": {
+        "name": "D\u00e9lise",
+        "url": "https://open.spotify.com/album/52Wm8XO82x6UKyAmIVQIDQ"
+      },
+      "artists": [
+        {
+          "name": "Raffaello Sorrento",
+          "url": "https://open.spotify.com/artist/7nhYjVhwKCoj5Sc6CrcNYl"
+        }
+      ],
+      "duration_ms": 125968,
+      "name": "D\u00e9lise",
+      "url": "https://open.spotify.com/track/7sTIuY89Vgtb67PdM1awJK"
+    },
+    {
+      "added_at": "2025-05-28 14:39:41",
+      "album": {
         "name": "Deep Blue",
         "url": "https://open.spotify.com/album/6BYs44BM5V0a4neWaQ5u1l"
       },
@@ -1511,22 +1511,6 @@
       "duration_ms": 157347,
       "name": "Deep Blue",
       "url": "https://open.spotify.com/track/2qmKMYVvHxOQqW0GbMr5VR"
-    },
-    {
-      "added_at": "2025-05-28 14:39:41",
-      "album": {
-        "name": "Troms\u00f8",
-        "url": "https://open.spotify.com/album/64dPxiybtQ1P5vCGuqEYkX"
-      },
-      "artists": [
-        {
-          "name": "Otto Noir",
-          "url": "https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS"
-        }
-      ],
-      "duration_ms": 131071,
-      "name": "Troms\u00f8",
-      "url": "https://open.spotify.com/track/09jdC5o254s2seWBMMHco7"
     },
     {
       "added_at": "2025-05-28 14:39:41",
@@ -1563,18 +1547,18 @@
     {
       "added_at": "2025-05-28 14:39:41",
       "album": {
-        "name": "Insignia",
-        "url": "https://open.spotify.com/album/6KljnSEKSgk32JLRN4Vd9H"
+        "name": "Troms\u00f8",
+        "url": "https://open.spotify.com/album/64dPxiybtQ1P5vCGuqEYkX"
       },
       "artists": [
         {
-          "name": "Aron Edwards",
-          "url": "https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W"
+          "name": "Otto Noir",
+          "url": "https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS"
         }
       ],
-      "duration_ms": 178743,
-      "name": "Insignia",
-      "url": "https://open.spotify.com/track/17moSSyt9oOxVHyewjXLav"
+      "duration_ms": 131071,
+      "name": "Troms\u00f8",
+      "url": "https://open.spotify.com/track/09jdC5o254s2seWBMMHco7"
     },
     {
       "added_at": "2025-05-28 14:39:41",
@@ -1595,18 +1579,18 @@
     {
       "added_at": "2025-05-28 14:39:41",
       "album": {
-        "name": "Within Reach",
-        "url": "https://open.spotify.com/album/0tu8xdyVBnJLHC1irTvhog"
+        "name": "Insignia",
+        "url": "https://open.spotify.com/album/6KljnSEKSgk32JLRN4Vd9H"
       },
       "artists": [
         {
-          "name": "Waqar Jachin",
-          "url": "https://open.spotify.com/artist/2JrcIKr4EduwMg6DJdvnKu"
+          "name": "Aron Edwards",
+          "url": "https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W"
         }
       ],
-      "duration_ms": 153301,
-      "name": "Within Reach",
-      "url": "https://open.spotify.com/track/22WL29LGZvVsIYC64cP1ai"
+      "duration_ms": 178743,
+      "name": "Insignia",
+      "url": "https://open.spotify.com/track/17moSSyt9oOxVHyewjXLav"
     },
     {
       "added_at": "2025-05-28 14:39:41",
@@ -1627,6 +1611,22 @@
     {
       "added_at": "2025-05-28 14:39:41",
       "album": {
+        "name": "Last Summer",
+        "url": "https://open.spotify.com/album/2Ut8GPa6BSH6cDTUnc890v"
+      },
+      "artists": [
+        {
+          "name": "Alfons Daiminger",
+          "url": "https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v"
+        }
+      ],
+      "duration_ms": 140541,
+      "name": "Last Summer",
+      "url": "https://open.spotify.com/track/6zWlb8ign5eEFLES2wnrZZ"
+    },
+    {
+      "added_at": "2025-05-28 14:39:41",
+      "album": {
         "name": "Apr\u00e8s Tout",
         "url": "https://open.spotify.com/album/1nCHPH8qrolGyCbQ6gXtl3"
       },
@@ -1643,18 +1643,18 @@
     {
       "added_at": "2025-05-28 14:39:41",
       "album": {
-        "name": "Last Summer",
-        "url": "https://open.spotify.com/album/2Ut8GPa6BSH6cDTUnc890v"
+        "name": "Within Reach",
+        "url": "https://open.spotify.com/album/0tu8xdyVBnJLHC1irTvhog"
       },
       "artists": [
         {
-          "name": "Alfons Daiminger",
-          "url": "https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v"
+          "name": "Waqar Jachin",
+          "url": "https://open.spotify.com/artist/2JrcIKr4EduwMg6DJdvnKu"
         }
       ],
-      "duration_ms": 140541,
-      "name": "Last Summer",
-      "url": "https://open.spotify.com/track/6zWlb8ign5eEFLES2wnrZZ"
+      "duration_ms": 153301,
+      "name": "Within Reach",
+      "url": "https://open.spotify.com/track/22WL29LGZvVsIYC64cP1ai"
     },
     {
       "added_at": "2025-05-28 14:39:41",
@@ -1771,18 +1771,18 @@
     {
       "added_at": "2025-05-28 14:39:41",
       "album": {
-        "name": "Affection",
-        "url": "https://open.spotify.com/album/13FzOtSVQw5IaMhGabmVhR"
+        "name": "Motian",
+        "url": "https://open.spotify.com/album/3TYbUe8YQXclwpn5JZ4xIs"
       },
       "artists": [
         {
-          "name": "Robert Gafforelli",
-          "url": "https://open.spotify.com/artist/16yfPw6Pf0UdDBX05HqCa7"
+          "name": "Linior",
+          "url": "https://open.spotify.com/artist/6IBrNzuYAMMWiTAg3xJRgw"
         }
       ],
-      "duration_ms": 207219,
-      "name": "Affection",
-      "url": "https://open.spotify.com/track/3C9XQnp8aNwSoyPhf1by3z"
+      "duration_ms": 164588,
+      "name": "Motian",
+      "url": "https://open.spotify.com/track/5lmgIDksEoi9vVf0jzcaTs"
     },
     {
       "added_at": "2025-05-28 14:39:41",
@@ -1803,18 +1803,18 @@
     {
       "added_at": "2025-05-28 14:39:41",
       "album": {
-        "name": "Motian",
-        "url": "https://open.spotify.com/album/3TYbUe8YQXclwpn5JZ4xIs"
+        "name": "Affection",
+        "url": "https://open.spotify.com/album/13FzOtSVQw5IaMhGabmVhR"
       },
       "artists": [
         {
-          "name": "Linior",
-          "url": "https://open.spotify.com/artist/6IBrNzuYAMMWiTAg3xJRgw"
+          "name": "Robert Gafforelli",
+          "url": "https://open.spotify.com/artist/16yfPw6Pf0UdDBX05HqCa7"
         }
       ],
-      "duration_ms": 164588,
-      "name": "Motian",
-      "url": "https://open.spotify.com/track/5lmgIDksEoi9vVf0jzcaTs"
+      "duration_ms": 207219,
+      "name": "Affection",
+      "url": "https://open.spotify.com/track/3C9XQnp8aNwSoyPhf1by3z"
     },
     {
       "added_at": "2025-05-28 14:39:41",
@@ -1835,18 +1835,18 @@
     {
       "added_at": "2025-05-28 14:39:41",
       "album": {
-        "name": "Steady",
-        "url": "https://open.spotify.com/album/5vXDx8lXDSDCz4TGJ3Yahp"
+        "name": "Hope Remains",
+        "url": "https://open.spotify.com/album/5qWrilEui29XPFmyE9Agqk"
       },
       "artists": [
         {
-          "name": "Rory Lewis",
-          "url": "https://open.spotify.com/artist/5xMvSh83e0z7eBZSZ8dxKA"
+          "name": "Noomi Meerbach",
+          "url": "https://open.spotify.com/artist/2xKGduzNgzli3Ei0q1ofUh"
         }
       ],
-      "duration_ms": 140592,
-      "name": "Steady",
-      "url": "https://open.spotify.com/track/6Wo45l5WHTJzJsc2JwvsuF"
+      "duration_ms": 169630,
+      "name": "Hope Remains",
+      "url": "https://open.spotify.com/track/5MNa6Zx5BvwO1YeXxb0W04"
     },
     {
       "added_at": "2025-05-28 14:39:41",
@@ -1867,18 +1867,18 @@
     {
       "added_at": "2025-05-28 14:39:41",
       "album": {
-        "name": "Hope Remains",
-        "url": "https://open.spotify.com/album/5qWrilEui29XPFmyE9Agqk"
+        "name": "Steady",
+        "url": "https://open.spotify.com/album/5vXDx8lXDSDCz4TGJ3Yahp"
       },
       "artists": [
         {
-          "name": "Noomi Meerbach",
-          "url": "https://open.spotify.com/artist/2xKGduzNgzli3Ei0q1ofUh"
+          "name": "Rory Lewis",
+          "url": "https://open.spotify.com/artist/5xMvSh83e0z7eBZSZ8dxKA"
         }
       ],
-      "duration_ms": 169630,
-      "name": "Hope Remains",
-      "url": "https://open.spotify.com/track/5MNa6Zx5BvwO1YeXxb0W04"
+      "duration_ms": 140592,
+      "name": "Steady",
+      "url": "https://open.spotify.com/track/6Wo45l5WHTJzJsc2JwvsuF"
     },
     {
       "added_at": "2025-05-28 14:39:41",
@@ -2027,6 +2027,22 @@
     {
       "added_at": "2025-05-28 14:39:41",
       "album": {
+        "name": "Ordinary Thoughts",
+        "url": "https://open.spotify.com/album/1QEAfHDzflVLqXUkckRzMw"
+      },
+      "artists": [
+        {
+          "name": "Thom Nelson",
+          "url": "https://open.spotify.com/artist/4o5K7rIpvDyPmdNWvt9XY1"
+        }
+      ],
+      "duration_ms": 143832,
+      "name": "Ordinary Thoughts",
+      "url": "https://open.spotify.com/track/6J6q6ejP39h9FqE5d9EdBp"
+    },
+    {
+      "added_at": "2025-05-28 14:39:41",
+      "album": {
         "name": "The Magic of a Piano",
         "url": "https://open.spotify.com/album/4DLMZCohmGP5phlxICGyiG"
       },
@@ -2043,18 +2059,18 @@
     {
       "added_at": "2025-05-28 14:39:41",
       "album": {
-        "name": "Emanate",
-        "url": "https://open.spotify.com/album/7Eb7FSjOX0Tf9GTtHW8XuS"
+        "name": "Evanesce",
+        "url": "https://open.spotify.com/album/6ZeyIM51iwmdN2RPm1Fkvy"
       },
       "artists": [
         {
-          "name": "Aldo Talete",
-          "url": "https://open.spotify.com/artist/1kiwy88C2q3l8auoOUMw6W"
+          "name": "J. Alke",
+          "url": "https://open.spotify.com/artist/2JeRW0SGODyCsx0pYAjxSC"
         }
       ],
-      "duration_ms": 179281,
-      "name": "Emanate",
-      "url": "https://open.spotify.com/track/0X4e6EoRi8NyVoCsJIbYz8"
+      "duration_ms": 136991,
+      "name": "Evanesce",
+      "url": "https://open.spotify.com/track/4YQm2eS7XRNFtYQVTSur4X"
     },
     {
       "added_at": "2025-05-28 14:39:41",
@@ -2075,18 +2091,34 @@
     {
       "added_at": "2025-05-28 14:39:41",
       "album": {
-        "name": "Ordinary Thoughts",
-        "url": "https://open.spotify.com/album/1QEAfHDzflVLqXUkckRzMw"
+        "name": "Letters to the Wind",
+        "url": "https://open.spotify.com/album/2ao7v1AcoOvv8sEJ3vhncp"
       },
       "artists": [
         {
-          "name": "Thom Nelson",
-          "url": "https://open.spotify.com/artist/4o5K7rIpvDyPmdNWvt9XY1"
+          "name": "Joseph Fina",
+          "url": "https://open.spotify.com/artist/5BZjycpMPqgrPbJJq43szv"
         }
       ],
-      "duration_ms": 143832,
-      "name": "Ordinary Thoughts",
-      "url": "https://open.spotify.com/track/6J6q6ejP39h9FqE5d9EdBp"
+      "duration_ms": 164555,
+      "name": "Letters to the Wind",
+      "url": "https://open.spotify.com/track/2xIOGocs3xntXBULxJw5iL"
+    },
+    {
+      "added_at": "2025-05-28 14:39:41",
+      "album": {
+        "name": "Emanate",
+        "url": "https://open.spotify.com/album/7Eb7FSjOX0Tf9GTtHW8XuS"
+      },
+      "artists": [
+        {
+          "name": "Aldo Talete",
+          "url": "https://open.spotify.com/artist/1kiwy88C2q3l8auoOUMw6W"
+        }
+      ],
+      "duration_ms": 179281,
+      "name": "Emanate",
+      "url": "https://open.spotify.com/track/0X4e6EoRi8NyVoCsJIbYz8"
     },
     {
       "added_at": "2025-05-28 14:39:41",
@@ -2139,22 +2171,6 @@
     {
       "added_at": "2025-05-28 14:39:41",
       "album": {
-        "name": "Evanesce",
-        "url": "https://open.spotify.com/album/6ZeyIM51iwmdN2RPm1Fkvy"
-      },
-      "artists": [
-        {
-          "name": "J. Alke",
-          "url": "https://open.spotify.com/artist/2JeRW0SGODyCsx0pYAjxSC"
-        }
-      ],
-      "duration_ms": 136991,
-      "name": "Evanesce",
-      "url": "https://open.spotify.com/track/4YQm2eS7XRNFtYQVTSur4X"
-    },
-    {
-      "added_at": "2025-05-28 14:39:41",
-      "album": {
         "name": "Across the Currents",
         "url": "https://open.spotify.com/album/1UhCCqxjYG9UmeaQTFYQvz"
       },
@@ -2167,22 +2183,6 @@
       "duration_ms": 123818,
       "name": "Across the Currents",
       "url": "https://open.spotify.com/track/3s3XZbyompgwb7NXKKKsH8"
-    },
-    {
-      "added_at": "2025-05-28 14:39:41",
-      "album": {
-        "name": "Letters to the Wind",
-        "url": "https://open.spotify.com/album/2ao7v1AcoOvv8sEJ3vhncp"
-      },
-      "artists": [
-        {
-          "name": "Joseph Fina",
-          "url": "https://open.spotify.com/artist/5BZjycpMPqgrPbJJq43szv"
-        }
-      ],
-      "duration_ms": 164555,
-      "name": "Letters to the Wind",
-      "url": "https://open.spotify.com/track/2xIOGocs3xntXBULxJw5iL"
     },
     {
       "added_at": "2025-05-28 14:39:41",
@@ -2395,6 +2395,22 @@
     {
       "added_at": "2025-05-28 14:39:41",
       "album": {
+        "name": "Pine Valley",
+        "url": "https://open.spotify.com/album/2VHmIO8N0ddnVEQjlZ4TdW"
+      },
+      "artists": [
+        {
+          "name": "Elois Jacq",
+          "url": "https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Pine Valley",
+      "url": "https://open.spotify.com/track/2vx8usJOHF7wohOltf2gsJ"
+    },
+    {
+      "added_at": "2025-05-28 14:39:41",
+      "album": {
         "name": "Minor Fable",
         "url": "https://open.spotify.com/album/4yq1sWpFO7LgofgmmPEEVC"
       },
@@ -2423,22 +2439,6 @@
       "duration_ms": 159750,
       "name": "Bonjour",
       "url": "https://open.spotify.com/track/3Ww0Guhe9loz9l2L1kZGWb"
-    },
-    {
-      "added_at": "2025-05-28 14:39:41",
-      "album": {
-        "name": "Pine Valley",
-        "url": "https://open.spotify.com/album/2VHmIO8N0ddnVEQjlZ4TdW"
-      },
-      "artists": [
-        {
-          "name": "Elois Jacq",
-          "url": "https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Pine Valley",
-      "url": "https://open.spotify.com/track/2vx8usJOHF7wohOltf2gsJ"
     },
     {
       "added_at": "2025-05-28 14:39:41",

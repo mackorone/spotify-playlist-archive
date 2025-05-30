@@ -4,7 +4,7 @@
 
 > The hottest tracks in Ghana\. Cover: Black Sherif
 
-378 songs - 19 hr 14 min
+380 songs - 19 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Asiwaju](https://open.spotify.com/track/6z5y2kdxF4XrEVRFVqdGVL) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [RU The World](https://open.spotify.com/album/676QN3uS7pzWA0Or87JTcN) | 3:36 | 2024-01-26 | 2025-03-15 |
 | [Asiwaju](https://open.spotify.com/track/7ErtOGQ9DwyQa3lwP77j4u) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Asiwaju](https://open.spotify.com/album/5xqEVPQeBA9GUnEFJhyCtt) | 3:36 | 2023-01-16 | 2024-05-15 |
 | [Ask About Me](https://open.spotify.com/track/4bE2eWDiGBzRgfTl5IPBW4) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Blessed](https://open.spotify.com/album/0X0hFVPZ4GfWlY9Gr6tSst) | 2:55 | 2023-09-27 | 2023-10-27 |
+| [Asor](https://open.spotify.com/track/1au4kwJno8TJB5tR4ocQnZ) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew), [JZyNo](https://open.spotify.com/artist/3gYUwwn7FiiBMKHe36OUaQ) | [Asor](https://open.spotify.com/album/6tyX6CWvTE1bVyYRERMGbi) | 3:06 | 2025-05-30 |  |
 | [Asylum](https://open.spotify.com/track/1Cek6PV24GtEk4GDWqFbCk) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Avana \(Deluxe\)](https://open.spotify.com/album/0Y6z5zNbCGEiD6dHeEUtgV) | 3:02 | 2024-03-01 |  |
 | [Atele](https://open.spotify.com/track/0ODCrGAuV8iSgnI8aJLznB) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Atele](https://open.spotify.com/album/5RZ1JeQvf9rTr772dR2Xa1) | 2:46 | 2022-09-23 | 2023-10-27 |
 | [Auntie Ama](https://open.spotify.com/track/4Kt1qclcbspAr5ENFhBcPR) | [Kofi Kinaata](https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm) | [Kofi OO Kofi](https://open.spotify.com/album/2hFPnpDZYgCv95Ye4Zc93v) | 4:34 | 2024-05-14 | 2025-03-15 |
@@ -348,7 +349,7 @@
 | [Till We Die \(feat\. Ruger\)](https://open.spotify.com/track/0tdbVxn9Qewgtv2lUgD8aD) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Till We Die \(feat\. Ruger\)](https://open.spotify.com/album/75BdyAVpJgWI6Dmz9qc9zY) | 3:03 | 2023-10-27 | 2024-05-15 |
 | [TIME CATCH](https://open.spotify.com/track/0XUoGWZ0XXPlOuCZ1seFGZ) | [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX) | [NEW ROAD AND GUAVA TREES](https://open.spotify.com/album/4p7Y6nHD0gwwS0GMCabOlI) | 1:33 | 2025-03-14 | 2025-04-08 |
 | [Ting Ting](https://open.spotify.com/track/4pPjtltszSbjBFzM0KCEqs) | [Oseikrom Sikanii](https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN) | [Ting Ting](https://open.spotify.com/album/5SovjJsCQZwm4zGoVCq2TK) | 3:02 | 2024-02-22 | 2025-01-17 |
-| [Titanium \(feat\. Chris Brown\)](https://open.spotify.com/track/5xZ4y9EgfmpogFKf1607lP) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [5ive](https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8) | 2:33 | 2025-05-12 |  |
+| [Titanium \(feat\. Chris Brown\)](https://open.spotify.com/track/5xZ4y9EgfmpogFKf1607lP) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [5ive](https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8) | 2:33 | 2025-05-12 | 2025-05-30 |
 | [Tomorrow](https://open.spotify.com/track/4F1qhy14MdQoYcgrJUGt3a) | [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK) | [Tomorrow](https://open.spotify.com/album/6rXRhlh1NEEI5eLb6UdRVk) | 2:28 | 2023-05-11 | 2023-07-21 |
 | [Top of the Morning](https://open.spotify.com/track/7C2ld7CGhCilI6w07NG3jZ) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [IRON BOY](https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK) | 2:16 | 2025-05-12 |  |
 | [Tornado](https://open.spotify.com/track/52L1OTjUe8Zmz8xQH9HENi) | [Tripcy](https://open.spotify.com/artist/5O7sGyn3CPojVAPQAtVApn), [Nektunez](https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72) | [Tornado](https://open.spotify.com/album/339rnWvetNqZTAZzxrlv35) | 2:38 | 2023-04-27 | 2023-05-27 |
@@ -370,7 +371,7 @@
 | [Wasteman](https://open.spotify.com/track/3jKFt4kXB8EjY9beWwdvOv) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [The Villain I Never Was](https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg) | 2:31 | 2023-02-23 | 2023-05-27 |
 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 | 2023-09-27 | 2024-03-05 |
 | [We Made It](https://open.spotify.com/track/39XhbcJa05wPLIEHid0ETX) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Planning & Plotting](https://open.spotify.com/album/5tzGN7v8ThskOevWZtZCUS) | 3:20 | 2023-10-13 | 2023-11-14 |
-| [Wells Fargo](https://open.spotify.com/track/3pjLIMho53zy3VJuAgWFoN) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T) | [CHRONICLES \(The First Supper\)](https://open.spotify.com/album/11gE9lxKNWiAB9AmfLQ3pQ) | 2:20 | 2025-05-12 |  |
+| [Wells Fargo](https://open.spotify.com/track/3pjLIMho53zy3VJuAgWFoN) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T) | [CHRONICLES \(The First Supper\)](https://open.spotify.com/album/11gE9lxKNWiAB9AmfLQ3pQ) | 2:20 | 2025-05-12 | 2025-05-30 |
 | [Who Is Your Guy?](https://open.spotify.com/track/1kyYCsP2NRZEKkBg9wcF2c) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys) | [Who Is Your Guy?](https://open.spotify.com/album/48L6IyMWELE0HIz5JdhW34) | 2:40 | 2023-03-24 | 2023-08-08 |
 | [Who Is Your Guy?](https://open.spotify.com/track/50Fnn6VgRmPXcCKKBFUxm0) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys) | [Who Is Your Guy?](https://open.spotify.com/album/3l2DGZPCX1tkzV3O9tqiq4) | 2:40 | 2023-02-23 | 2023-03-29 |
 | [WHY LOVE](https://open.spotify.com/track/4uLBwGnr1U3ctcDZrnVEgK) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [WHY LOVE](https://open.spotify.com/album/5bQKiaMHTdJcn4fxPs9MCk) | 3:30 | 2025-03-14 |  |
@@ -384,6 +385,7 @@
 | [YESU](https://open.spotify.com/track/3yt7iYLEWEAF2DR98QYeOU) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [YESU](https://open.spotify.com/album/4rvlg1bc9BpOw7Coj5mLyy) | 3:21 | 2024-08-29 | 2025-03-15 |
 | [You Dey Feel The Vibe \(Live\)](https://open.spotify.com/track/3jDxl1SAnCCZ6TIod7uD7n) | [FRA!](https://open.spotify.com/artist/07Bkdyq0lzTh2ayKwd40HN), [Nana Yaw Ofori\-Atta](https://open.spotify.com/artist/1D6DzRCxKig1KCd4uDuHoL) | [You Dey Feel The Vibe \(Live\)](https://open.spotify.com/album/3MdmMxsZPo4hSM0XvOx6PN) | 5:03 | 2023-07-07 | 2023-09-22 |
 | [YOUR BODY](https://open.spotify.com/track/2E5YFuY3aRD7oZr7GKfgCQ) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [YOUR BODY](https://open.spotify.com/album/196SOihxCXE85Ooazqz1sk) | 2:46 | 2024-06-14 | 2024-10-01 |
+| [Your Ghost](https://open.spotify.com/track/4jWDJjKkwzMDjou8X7V0Ml) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [Your Ghost / Ayekoo](https://open.spotify.com/album/6OwmHKMoOpPX9N8l35xX3B) | 2:42 | 2025-05-30 |  |
 | [Zero](https://open.spotify.com/track/1ZBoY6ta9ANMD19SGsp7JN) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Zero](https://open.spotify.com/album/3hEMQKXVKJWkoOu6Cj0Nhc) | 2:56 | 2024-02-09 | 2024-05-15 |
 | [Zormizor \(Asabone\)](https://open.spotify.com/track/6pO6mg2XVv3IW7LyyMc5Sj) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Zormizor \(Asabone\)](https://open.spotify.com/album/3NCiYh93re3lE8GTehUYWz) | 3:04 | 2024-08-29 | 2025-03-15 |
 

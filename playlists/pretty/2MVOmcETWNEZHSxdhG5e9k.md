@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2MVOmcETWNEZHSxdhG5e9k.md) - [plain]
 
 > Melodic Progressive, Progressive House and Vocal Trance\. Selections from Chris Lyons DJ&\#x27;s &quot;Riding The Soundwave&quot; webradio show.
 
-[Chris Lyons DJ](https://open.spotify.com/user/dr1qyhdgceut17a2728ig8g1a) - 14 likes - 74 songs - 8 hr 22 min
+[Chris Lyons DJ](https://open.spotify.com/user/dr1qyhdgceut17a2728ig8g1a) - 14 likes - 77 songs - 8 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,5 +82,8 @@ pretty - [cumulative](/playlists/cumulative/2MVOmcETWNEZHSxdhG5e9k.md) - [plain]
 | 72 | [Lonely Shore](https://open.spotify.com/track/033TGcyIjbXIMF6ZgHrYq3) | [Vintage & Morelli](https://open.spotify.com/artist/58dfpnXBkKgFNH2JFtEAv0), [Arielle Maren](https://open.spotify.com/artist/7MbnTNfDyXb2vTM1GYXsLV), [RNX](https://open.spotify.com/artist/6MvuP20356EIRrCDMI92jc) | [Lonely Shore \(Incl\. Blood Groove & Kikis Remix\)](https://open.spotify.com/album/2NAMJBTzrWINdSVj8oibsr) | 4:00 |
 | 73 | [Malaga \- Original Mix](https://open.spotify.com/track/0o3xdNut7NLMwHibznJQdF) | [Talamanca](https://open.spotify.com/artist/6T10DjLBN7wT5gtnPnhmEk), [Vitodito](https://open.spotify.com/artist/16mF4YXC1sZZWNjZoJoxd2) | [Encanta's Winter Picks \- 2015](https://open.spotify.com/album/5bOV5hnnvNNKDugKf0wHOS) | 7:20 |
 | 74 | [City Lights \- Original Mix](https://open.spotify.com/track/3Dce37lwGGXcg9EeYj80rQ) | [Sundriver](https://open.spotify.com/artist/3OKbvWLskv2IPnpFiL1BRr) | [Anjunabeats Volume 6](https://open.spotify.com/album/7uMIeJwmYHWB5UmQCJxtzr) | 5:15 |
+| 75 | [Outshine \- Nigel Good Radio Edit](https://open.spotify.com/track/1fcaQ2Yj06nusW20DzmEtF) | [Myon](https://open.spotify.com/artist/0nTbVTXLLbBA4xCtn0cFkv), [Shane 54](https://open.spotify.com/artist/2ITbqEgyp32vL3BxEFmQ1V), [Natalie Peris](https://open.spotify.com/artist/1RtzTxvZZdPsVz82rB7BEs), [Nigel Good](https://open.spotify.com/artist/5Q0xO4AeNtPKPqWcpCygD2) | [Outshine](https://open.spotify.com/album/6Vd89na2VpfS9GYDPcDVj1) | 3:32 |
+| 76 | [Arrival](https://open.spotify.com/track/79PINijs6LZ0JGNvcECVVk) | [James Woods](https://open.spotify.com/artist/5YeXBjCN7FLVoTLWu8dL6L), [Talamanca](https://open.spotify.com/artist/6T10DjLBN7wT5gtnPnhmEk) | [Arrival](https://open.spotify.com/album/0iLb7siCAulqE75dVVfIVd) | 6:47 |
+| 77 | [April \- 'Morning' Mix](https://open.spotify.com/track/1ru5ger9m2bB0ERfFofc9F) | [Schodt](https://open.spotify.com/artist/7oJeR8oaVPNG8RnmbVW32o) | [April \(Remixes\)](https://open.spotify.com/album/4MRDTpjb3qeUdVevOX3cZe) | 4:26 |
 
-Snapshot ID: `AAAAV22Cc2FX3a81Lxo3VCV1O7fCDV2Q`
+Snapshot ID: `AAAAWoadWgDVCPCndqWfSP75zcAVjnyT`

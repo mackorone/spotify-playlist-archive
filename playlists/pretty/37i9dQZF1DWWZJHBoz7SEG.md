@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Qué calor teeengo! Es que las canciones de esta semana son puro fuego 🔥🥵 Gabito Ballesteros en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 989,890 likes - 65 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 990,057 likes - 65 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

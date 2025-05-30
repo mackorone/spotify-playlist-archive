@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSKbfhHetFR.md) - [plain]
 
 > On a pas pu appeler ça Québec Shiny Tunes\. Photo: EXTERIO
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,235 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,237 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSKbfhHetFR.md) - [plain]
 | 17 | [Laissez venir à moi les grandes brunes](https://open.spotify.com/track/3idVQRL9T87FEE7ryZxNPB) | [Le Nombre](https://open.spotify.com/artist/6FkEbRC3V3rjxNLFN5uG1d) | [Le Nombre](https://open.spotify.com/album/4oyUIUYWRmoCLq59RneHuG) | 2:54 |
 | 18 | [Si j'ai tort](https://open.spotify.com/track/0AjB4QVAB8T2DZgt0GrJPx) | [France D'Amour](https://open.spotify.com/artist/5g40u1MQUx691VciJIh3jI) | [Le silence des roses](https://open.spotify.com/album/2J5HzUbk4AxuM8j1sbyWKF) | 4:23 |
 | 19 | [Alinéa](https://open.spotify.com/track/22lo0iW3QMBCTyVm1BnsWt) | [El Motor](https://open.spotify.com/artist/4NIlqFEWcoMo6rfATI1FRQ) | [El Motor](https://open.spotify.com/album/6IbcIVV1tB5vboWRJSe3ef) | 4:31 |
-| 20 | [Touche pas](https://open.spotify.com/track/1T3vIR5SmlUt0pkm1huM2V) | [Elyzabeth Diaga](https://open.spotify.com/artist/0KIJUMvTUQiTNulWUpBIbj) | [Elyzabeth Diaga](https://open.spotify.com/album/3Ryel4PeIcsaOcaIhTrB1d) | 3:06 |
-| 21 | [Vent fou](https://open.spotify.com/track/6i3659FPWh4fL7dMCQYYeb) | [Jorane](https://open.spotify.com/artist/6i4QbQrxJaY2aDhTYOYvJ7) | [Vent fou](https://open.spotify.com/album/4meRurpCXE1T2EwMM9L02t) | 1:19 |
+| 20 | [Vent fou](https://open.spotify.com/track/6i3659FPWh4fL7dMCQYYeb) | [Jorane](https://open.spotify.com/artist/6i4QbQrxJaY2aDhTYOYvJ7) | [Vent fou](https://open.spotify.com/album/4meRurpCXE1T2EwMM9L02t) | 1:19 |
+| 21 | [Touche pas](https://open.spotify.com/track/1T3vIR5SmlUt0pkm1huM2V) | [Elyzabeth Diaga](https://open.spotify.com/artist/0KIJUMvTUQiTNulWUpBIbj) | [Elyzabeth Diaga](https://open.spotify.com/album/3Ryel4PeIcsaOcaIhTrB1d) | 3:06 |
 | 22 | [Les patates](https://open.spotify.com/track/3Z3BvbtR8n2LxuZARFc2rW) | [Mononc' Serge](https://open.spotify.com/artist/35BsDVEPHGqz4fPhlRJHB1), [Anonymus](https://open.spotify.com/artist/47KsZ7WY3lQUXxhOpXkIG8) | [L'académie du massacre](https://open.spotify.com/album/6OULjgJloRJUYlWctThGkF) | 2:56 |
 | 23 | [Le train](https://open.spotify.com/track/2p3O33eThnhhq1dMWlvR7M) | [Vilain Pingouin](https://open.spotify.com/artist/7lS2jO7gRXSOtMYlhfjtbi) | [Vilain Pingouin](https://open.spotify.com/album/3pINLfKyH98HfwvNgMQgL6) | 3:58 |
 | 24 | [Dale Hawerchuk](https://open.spotify.com/track/3p4TDZWyc6Uj8GsPAIPO7D) | [Les Dales Hawerchuk](https://open.spotify.com/artist/5kYwyvlqsCuDlzmfsSNSSC) | [Les Dales Hawerchuk](https://open.spotify.com/album/2kZv4f9cNfQ8327JKqwBYA) | 2:12 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSKbfhHetFR.md) - [plain]
 | 35 | [Cité Rock Suicide](https://open.spotify.com/track/7D9ayTlfonyW0I1MBxmcSQ) | [Arseniq33](https://open.spotify.com/artist/6MtltOBHPG1r8zMxj66GVU) | [Courtepointes](https://open.spotify.com/album/0T6pG4W280cfFmHe4A7Tff) | 3:04 |
 | 36 | [Tu ne peux pas partir](https://open.spotify.com/track/5lb1bhrrwwV1c4dQbGSIxm) | [Cafeine](https://open.spotify.com/artist/0Ejf1nVc9FUIfi4czaMwwy) | [Mal éduqué mon amour](https://open.spotify.com/album/1FyoH3mAEsI9F9U518fL2B) | 3:23 |
 | 37 | [J'ai Oublié](https://open.spotify.com/track/4tX28kKt5YasANWQj9RgIR) | [Captaine Révolte](https://open.spotify.com/artist/7qsCifJn8gcqcLP5nUfWPC) | [Danse Sociale](https://open.spotify.com/album/32OmCkG3Q6bsHQNNgbKrX3) | 3:55 |
-| 38 | [Grossière indécence](https://open.spotify.com/track/55qUxWYhkjinbOJS9rvnN9) | [Les Pistolets Roses](https://open.spotify.com/artist/375krjLXVD5sy9AFZ7PqLj) | [Sans foi ni loi](https://open.spotify.com/album/3ZC0QWTlJ5DYbRrPVTiAwQ) | 2:56 |
-| 39 | [Big Bang](https://open.spotify.com/track/7bfnzQ0SdG1mi3pItHO4n7) | [Galaxie](https://open.spotify.com/artist/4RGr0QWqqUMDcXBIWTJ1xa) | [Le temps au point mort](https://open.spotify.com/album/01eDW3QDT4HjJ7vWa6tIup) | 3:20 |
+| 38 | [Big Bang](https://open.spotify.com/track/7bfnzQ0SdG1mi3pItHO4n7) | [Galaxie](https://open.spotify.com/artist/4RGr0QWqqUMDcXBIWTJ1xa) | [Le temps au point mort](https://open.spotify.com/album/01eDW3QDT4HjJ7vWa6tIup) | 3:20 |
+| 39 | [Grossière indécence](https://open.spotify.com/track/55qUxWYhkjinbOJS9rvnN9) | [Les Pistolets Roses](https://open.spotify.com/artist/375krjLXVD5sy9AFZ7PqLj) | [Sans foi ni loi](https://open.spotify.com/album/3ZC0QWTlJ5DYbRrPVTiAwQ) | 2:56 |
 | 40 | [Gwen Et Les Rats](https://open.spotify.com/track/40HtuAsUDbDG8FDjLUyaxj) | [Gwenwed](https://open.spotify.com/artist/0HFirn5VruMovsRmFX02hT) | [L'amour la haine les animaux les automobiles](https://open.spotify.com/album/2fXJObc0jM7Zd6AdhR92DA) | 3:08 |
 | 41 | [Ton amour est trop lourd](https://open.spotify.com/track/4PxZdHDHTSS5R1BcIuXpj2) | [Hepatite B](https://open.spotify.com/artist/57dW2gHW4uMAAfHXSHsqxg) | [Hepatite B](https://open.spotify.com/album/3vcEGTInZLMpu9zuXASsrk) | 1:57 |
 | 42 | [Le coup d'état](https://open.spotify.com/track/6vNUd4oWXksZURkuaZ0fti) | [Karkwa](https://open.spotify.com/artist/6l8KabfQ4VAdFHzm3ZOOYZ) | [Les tremblements s'immobilisent](https://open.spotify.com/album/6P6e4WkfYYx1cUa265Ibwj) | 4:22 |

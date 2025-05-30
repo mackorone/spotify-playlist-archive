@@ -4,7 +4,7 @@
 
 > Nigeria's hottest tracks\.  Cover: Burna Boy
 
-488 songs - 23 hr 24 min
+489 songs - 23 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Big 7](https://open.spotify.com/track/1OgoyOlrMJFqjE1eqQiCUc) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Big 7](https://open.spotify.com/album/75AHV3X6Pcy1aHJZabAwib) | 2:23 | 2023-07-28 | 2023-09-27 |
 | [Big Big Things \(feat\. Kizz Daniel & Seyi Vibez\)](https://open.spotify.com/track/7MaM9JVq1UXAGZQ4JFNXMg) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Big Big Things \(feat\. Kizz Daniel & Seyi Vibez\)](https://open.spotify.com/album/2CcOmbLxQFIsm5aQu7VSuJ) | 3:00 | 2024-02-27 | 2024-07-27 |
 | [Billions](https://open.spotify.com/track/06KTlwAvk8ioxuSpHZISoc) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Billions](https://open.spotify.com/album/2BwLuz9L140VU4vu1bMvV2) | 3:44 | 2024-05-22 | 2024-08-01 |
+| [Black Girl Magic](https://open.spotify.com/track/6n6J0mZb0ltWlt2AqobHVd) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Uncle K: Lemon Chase](https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF) | 2:17 | 2025-05-30 |  |
 | [Blessings \(feat\. Wizkid & Gimba\)](https://open.spotify.com/track/1ALcYeD6JELUFLL3obyUDt) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Gimba](https://open.spotify.com/artist/6ce9dKPssK7XOIyar9S4vK) | [Blessings \(feat\. Wizkid & Gimba\)](https://open.spotify.com/album/7Jczi3QQN1oiJPa2k2mrpx) | 3:16 | 2023-05-15 | 2023-06-10 |
 | [BLOOD ON THE DANCE FLOOR \(feat\. Bloody Civilian and Wale\)](https://open.spotify.com/track/35MU2MEhQMw0NhXZztAP9m) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [EZIOKWU](https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx) | 3:53 | 2023-10-17 | 2024-06-01 |
 | [Bloody Samaritan](https://open.spotify.com/track/1OoPhcM78evXIxjmSzCnmf) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [19 & Dangerous](https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv) | 3:07 | 2021-11-15 | 2023-02-04 |
@@ -232,7 +233,7 @@
 | [It's Plenty](https://open.spotify.com/track/5hVjoL3sHepZROri63wBxP) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:36 | 2022-08-15 | 2023-09-27 |
 | [Jangrova \(feat\. Tribal Mark\)](https://open.spotify.com/track/6D4MeOwamBjPt1FI3l3Uzs) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [IDRIS](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [Tribal Mark](https://open.spotify.com/artist/5yIgGM9s6jw4L0g8CmD8dT) | [Jangrova \(feat\. Tribal Mark\)](https://open.spotify.com/album/6eLBhDWVnZZPvtPW1S9Irp) | 2:46 | 2024-02-09 | 2024-03-15 |
 | [Jara](https://open.spotify.com/track/0WSxRM0rcUH9vqfsPcoDvx) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Emotions](https://open.spotify.com/album/3bGwvmmPjjxaiOjIG0YBqr) | 2:40 | 2023-09-26 | 2023-11-24 |
-| [Jay Jay](https://open.spotify.com/track/1QkUnVCGx3ghx0WG8XO4J7) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Jay Jay](https://open.spotify.com/album/0U3J75IccPlheYKYgCjdNm) | 2:52 | 2025-02-26 |  |
+| [Jay Jay](https://open.spotify.com/track/1QkUnVCGx3ghx0WG8XO4J7) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Jay Jay](https://open.spotify.com/album/0U3J75IccPlheYKYgCjdNm) | 2:52 | 2025-02-26 | 2025-05-30 |
 | [Jehovah](https://open.spotify.com/track/7EfjkOYi6He33zzUoHuUjs) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Jehovah](https://open.spotify.com/album/7K7GOwWQmFZNeH49dQbIoM) | 2:44 | 2024-08-29 | 2024-11-29 |
 | [JELO](https://open.spotify.com/track/2p2IUL7Wn1W4bSCxrYSFEh) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [JELO](https://open.spotify.com/album/4zyiP8Ik1unh9IeaW32Zb3) | 2:25 | 2023-08-31 | 2023-09-04 |
 | [JELO \(feat\. Young Jonn\)](https://open.spotify.com/track/6t2X8OIGbNqkNrF6k9bkPd) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [JELO \(feat\. Young Jonn\)](https://open.spotify.com/album/4EowPSIlKkYWJ2wS3Qsu7b) | 2:25 | 2023-08-31 | 2023-09-27 |

@@ -2,9 +2,9 @@
 
 ### [Riffs & Runs](https://open.spotify.com/playlist/37i9dQZF1DX2V97dgq1s0W)
 
-> The best voices in R&B\. Cover: No Guidnce, Tamera
+> The best voices in R&B\. Cover: Shae Universe
 
-457 songs - 1 day 0 hr 8 min
+459 songs - 1 day 0 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Closer](https://open.spotify.com/track/3ZG7FzfuejHiekD67PtGb7) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [Closer](https://open.spotify.com/album/6sLawiJo2c2YoL2hzBW5Vm) | 3:55 | 2023-11-24 | 2024-05-11 |
 | [Closure](https://open.spotify.com/track/487C5rvchmcP1p2YzzRw5Z) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Closure](https://open.spotify.com/album/6InOh4KLVmqBTYMJx8vtRp) | 3:36 | 2024-06-14 | 2024-09-13 |
 | [Come Find Me](https://open.spotify.com/track/2JXhIOii8XvolNWAZuQtuH) | [Liét](https://open.spotify.com/artist/1ES79pFtKmov7q67DnoxXI) | [Come Find Me](https://open.spotify.com/album/0GEimT8iHZ2si6ZoEx5M4M) | 2:26 | 2024-07-24 | 2024-10-11 |
-| [Crocodile Tears \(feat\. Chase Shakur\)](https://open.spotify.com/track/37H7aRa7TWO7c0yvRnPcGg) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc), [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [Crocodile Tears \(feat\. Chase Shakur\)](https://open.spotify.com/album/5LZIpzVMyVceRxkVfLv34k) | 3:13 | 2024-11-01 |  |
+| [Crocodile Tears \(feat\. Chase Shakur\)](https://open.spotify.com/track/37H7aRa7TWO7c0yvRnPcGg) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc), [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [Crocodile Tears \(feat\. Chase Shakur\)](https://open.spotify.com/album/5LZIpzVMyVceRxkVfLv34k) | 3:13 | 2024-11-01 | 2025-05-30 |
 | [Crystal Tears](https://open.spotify.com/track/4z6YXURKvs98NXUlVGyevf) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Crystal Tears](https://open.spotify.com/album/5EQiMkO4WpYpk8zPG8hrTb) | 3:59 | 2024-03-19 | 2025-04-25 |
 | [CUFF IT \- WETTER REMIX](https://open.spotify.com/track/7eQpbVg3tjHmtdOlAHxaTr) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [CUFF IT](https://open.spotify.com/album/7BJjZgzGzpll0t8CEzjILs) | 4:09 | 2023-02-23 | 2024-01-26 |
 | [CYBAH \(feat\. Lucky Daye\)](https://open.spotify.com/track/50wpwXmMyYWMEhuATNxLEt) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Broken Hearts Club](https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y) | 4:04 | 2023-02-23 | 2023-05-15 |
@@ -115,7 +115,7 @@
 | [EVERYTHING \- A COLORS SHOW](https://open.spotify.com/track/3YHWHbD0sa31BmwdjNNtwH) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [EVERYTHING \(A COLORS SHOW\)](https://open.spotify.com/album/7m2UXRby4qg7d5majV2Cdk) | 3:04 | 2023-07-21 | 2023-09-23 |
 | [Everything’s Beautiful](https://open.spotify.com/track/3HkLJLoUHQbKwjn3krWvpg) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Everything’s Beautiful](https://open.spotify.com/album/0rjW3BdMJdjfKhDVKLkJjt) | 2:50 | 2024-01-26 | 2024-11-08 |
 | [eyes wide open](https://open.spotify.com/track/6TQtwV4QG19SzCVG5F2RkC) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [eyes wide open](https://open.spotify.com/album/4uCsGsDDZQbhDsb8ujwenV) | 2:33 | 2024-05-10 | 2024-09-20 |
-| [Fear When You Fly](https://open.spotify.com/track/0BDlu6AEeWxdjmKwFc0rI0) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Fear When You Fly](https://open.spotify.com/album/1Dve6i5g4D9Xw2GJCb9xOZ) | 3:40 | 2024-11-01 |  |
+| [Fear When You Fly](https://open.spotify.com/track/0BDlu6AEeWxdjmKwFc0rI0) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Fear When You Fly](https://open.spotify.com/album/1Dve6i5g4D9Xw2GJCb9xOZ) | 3:40 | 2024-11-01 | 2025-05-30 |
 | [FEELINGS ON SILENT \(feat\. Wale\)](https://open.spotify.com/track/0XQFACvy0OCADmCIgHNtXJ) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 3:29 | 2024-09-26 | 2025-01-31 |
 | [Feels](https://open.spotify.com/track/1BANaaZNg6PsCv5JpSuD3z) | [Nbdy](https://open.spotify.com/artist/1fQWUHoSWhlrc9rmHi2xnE), [Eestbound](https://open.spotify.com/artist/1k6SNxtUoIymDrXHuf3N3G) | [Feels](https://open.spotify.com/album/6pfRdR3FNPQ9O7WHQtEKwq) | 4:07 | 2023-05-14 | 2023-07-22 |
 | [feels](https://open.spotify.com/track/56O1IiX4MTIzQNxUFoBWHu) | [Raheem Bakare](https://open.spotify.com/artist/40IuUXbYWhw6UcfU7hHmpM) | [allure](https://open.spotify.com/album/4fGVenw5TmETgwm1iR4upQ) | 3:55 | 2023-09-29 | 2024-04-19 |
@@ -281,6 +281,7 @@
 | [No Games](https://open.spotify.com/track/5AGhBP57akSYR9rW7NPsoy) | [Angel](https://open.spotify.com/artist/6RIJu05yhEIYskbVgxmk3R), [IQ](https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv), [Haile](https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM), [WSTRN](https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs) | [No Games](https://open.spotify.com/album/0huBlSgNZ9DqOJvgyEz8Sm) | 2:56 | 2023-02-23 | 2023-05-15 |
 | [No Way](https://open.spotify.com/track/4A3RHFKpMnHqMNyD6DaIUV) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [No Way](https://open.spotify.com/album/0Ooe0UKuc913thQffh8XhK) | 2:53 | 2023-07-21 | 2024-02-28 |
 | [NOT EVERYTHING!](https://open.spotify.com/track/6e3l6SgpyR3FkXUM0nqvlz) | [ROMderful](https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU) | [ICE CREAM CLONES 2](https://open.spotify.com/album/0F5obDWo7KyKgLWfDnJowH) | 1:28 | 2023-09-29 | 2023-11-17 |
+| [NOT FAIR](https://open.spotify.com/track/277K8GOv27Pq3qS4IKSRoW) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT Deluxe: HEEL](https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL) | 3:16 | 2025-05-29 |  |
 | [Nothing](https://open.spotify.com/track/0Eto5S71KnEkPzmFGUM6TM) | [Ojerime](https://open.spotify.com/artist/2kVmW0EZG23dqsqeRZ4Jg0) | [Nothing](https://open.spotify.com/album/5tVG29NcCqvk0e1cQUbdKu) | 2:56 | 2023-02-23 | 2023-05-15 |
 | [Nothing On You](https://open.spotify.com/track/7u8fLctZzIhiiavPuXXwF7) | [Marie Dahlstrom](https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Nothing On You](https://open.spotify.com/album/3wN5twfbZoolIBd9GgQyBV) | 3:45 | 2024-02-28 | 2024-10-25 |
 | [Nowhere But Up](https://open.spotify.com/track/1eSaEAjIt2OOVbvLqtZG6i) | [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6) | [Nowhere But Up](https://open.spotify.com/album/1acFeY7OrZMzmCiAnYWmKU) | 3:55 | 2023-02-23 | 2023-05-15 |
@@ -357,6 +358,7 @@
 | [Say You Love Me](https://open.spotify.com/track/1Eb5sgD4IlFTpKzuA5R1Ew) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [In A Perfect World](https://open.spotify.com/album/3oPebCk2nGseupO5q4PxiI) | 2:59 | 2023-09-22 | 2024-05-11 |
 | [Scandalous](https://open.spotify.com/track/0nW3LFiSZEcu6tCOi7SKRm) | [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM) | [Tales of a Miracle \(Deluxe\)](https://open.spotify.com/album/7eDnw7VgUNXxg3v7GOEyFT) | 2:39 | 2024-04-19 | 2025-01-17 |
 | [SEARCHING](https://open.spotify.com/track/4G0bpzDl8vZ8yzB6ePI38w) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [SEARCHING](https://open.spotify.com/album/5Brn5xm94sbj03mp8tvSnX) | 2:30 | 2025-03-28 |  |
+| [Seasons \(feat\. Protoje\)](https://open.spotify.com/track/0B0dP4OycyBHvWSKStdBHg) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71), [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [Seasons \(feat\. Protoje\)](https://open.spotify.com/album/1edW0HmNdgqH3X3vxJ2nxm) | 2:43 | 2025-05-29 |  |
 | [Selfless](https://open.spotify.com/track/63iiZMYk6TuvBROKhwznjF) | [BHUMBLE](https://open.spotify.com/artist/1lLZSPeW3zUzXfHA3r8RzH) | [Selfless](https://open.spotify.com/album/7izEEgKSE68Vgznxb6dCrW) | 3:16 | 2024-02-28 | 2024-04-26 |
 | [Sensational \(feat\. Davido & Lojay\)](https://open.spotify.com/track/5HM5trJxTouv3eUVcbW8sh) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Sensational \(feat\. Davido & Lojay\)](https://open.spotify.com/album/68nJVTjmRbl5se1eYTglBA) | 3:51 | 2023-10-27 | 2024-05-21 |
 | [Shame \(with Elmiene\)](https://open.spotify.com/track/28Ir6VUbomCsKRYXJDS8pW) | [Dahi](https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der), [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Shame](https://open.spotify.com/album/2o4dcRZUBuseVy8omv6CaO) | 2:32 | 2023-09-29 | 2024-02-28 |

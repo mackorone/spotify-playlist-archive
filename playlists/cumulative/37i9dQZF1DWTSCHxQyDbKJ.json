@@ -200,7 +200,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 215929,
       "name": "Are You Ready Now?",
       "url": "https://open.spotify.com/track/4AxcUAv6Y87hSDLl4Lqq2s"
@@ -482,7 +482,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 158969,
       "name": "Bite The Hand",
       "url": "https://open.spotify.com/track/2dFREjV7w8TunHysQtcYj5"
@@ -1871,6 +1871,24 @@
     },
     {
       "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/42EYV7glkIuaDiFoFDKD4T"
+      },
+      "artists": [
+        {
+          "name": "Paige Eliza",
+          "url": "https://open.spotify.com/artist/6zwVg9raWBJhhCpd8Etrey"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183839,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/4TQ5N0lCI7HC89Kn8DybZP"
+    },
+    {
+      "album": {
         "name": "Hot and Stupid",
         "url": "https://open.spotify.com/album/3RmYXWeVscd3fLgjS0c7tW"
       },
@@ -1936,7 +1954,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 173551,
       "name": "i can't get my shit together",
       "url": "https://open.spotify.com/track/5QQH0yRUbD4fYqNWKiPX9I"
@@ -3859,6 +3877,24 @@
     },
     {
       "album": {
+        "name": "Talk 2 Me",
+        "url": "https://open.spotify.com/album/1CAxbTl96WGEeV6j0oGxMq"
+      },
+      "artists": [
+        {
+          "name": "SONIKKU",
+          "url": "https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222271,
+      "name": "Talk 2 Me",
+      "url": "https://open.spotify.com/track/1twfzIIdZiI08eM7yVhE9E"
+    },
+    {
+      "album": {
         "name": "Television Promises",
         "url": "https://open.spotify.com/album/4w8Innemo2CDtnJnO7T9cT"
       },
@@ -4174,6 +4210,24 @@
       "duration_ms": 146080,
       "name": "Why Am I Like This?",
       "url": "https://open.spotify.com/track/6gnNNTPxIPjgvGlWw98Bwc"
+    },
+    {
+      "album": {
+        "name": "WILD!",
+        "url": "https://open.spotify.com/album/4jSn0KXaUCI9m026jBPF3i"
+      },
+      "artists": [
+        {
+          "name": "Jaguar",
+          "url": "https://open.spotify.com/artist/00Yp7ztleUYQsQ3wtcEf5X"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202955,
+      "name": "WILD!",
+      "url": "https://open.spotify.com/track/49BcUseE7kHJ5YEZ51EQgr"
     },
     {
       "album": {

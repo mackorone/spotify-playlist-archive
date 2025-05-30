@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvZBXGjNCU4.md) - [plain]
 
 > Warm and cozy acoustic instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,545 likes - 140 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,564 likes - 140 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvZBXGjNCU4.md) - [plain]
 | 139 | [Better Here](https://open.spotify.com/track/2xMK2XVpe7mOFMjaI1ZPGh) | [Equanimity Seekers](https://open.spotify.com/artist/6oXndPl70FAG2e2h7ttCge) | [Better Here](https://open.spotify.com/album/6PJhbCAzc2w4edtE6ay57F) | 2:23 |
 | 140 | [Sweet Sky](https://open.spotify.com/track/2HUz7Vn3QcsmCPrHmJojvi) | [Daniela Petrová](https://open.spotify.com/artist/0k5b5g9KNikMYLSZWikx4Y) | [Sweet Sky](https://open.spotify.com/album/7M45WfGEysgnjPlcV2Fmud) | 3:00 |
 
-Snapshot ID: `AAAAADQTKxQqJQdqUUH3oTnjKtEyBhJ/`
+Snapshot ID: `aDbcJQAAAABYMg8y1Kub13rhXEMQ6Nqt`

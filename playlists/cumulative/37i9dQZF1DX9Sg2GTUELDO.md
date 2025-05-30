@@ -2,9 +2,9 @@
 
 ### [最愛女聲](https://open.spotify.com/playlist/37i9dQZF1DX9Sg2GTUELDO)
 
-> 感受女聲力量。Cover: COLLAR
+> 感受女聲力量。Cover: Mischa Ip
 
-497 songs - 1 day 5 hr 37 min
+503 songs - 1 day 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Morning Call](https://open.spotify.com/track/4JeJg0MDrvpQSQQBwC2y8W) | [VIVA](https://open.spotify.com/artist/662zDVWmEH6bK7P5FaQ7GY) | [Morning Call](https://open.spotify.com/album/4ZiGvTsGK6xViEbf7EMYI8) | 3:03 | 2024-10-10 |  |
 | [My Christmas time awaits](https://open.spotify.com/track/4Su9txGoMk3IogDUDtlAu6) | [Gwenji](https://open.spotify.com/artist/6Plwm4XDEK2qBannPfy1LC) | [My Christmas time awaits](https://open.spotify.com/album/5VfXDe4Y8p3BDQQI0vvPfj) | 2:18 | 2024-12-19 |  |
 | [My Type](https://open.spotify.com/track/71x2nXAO1ytJ6JFFrrfFmc) | [Kerryta](https://open.spotify.com/artist/4Ks5LLyn8jdLnD7J2JKY6s) | [My Type](https://open.spotify.com/album/7yeZXWEBwsX5uo8Q8Xn84A) | 2:38 | 2024-06-27 |  |
+| [NEED YOU](https://open.spotify.com/track/5YV2xTICuhHdakgfbdqhI5) | [Kira Chan](https://open.spotify.com/artist/0nA2s878rKSluSrpBTpABm) | [NEED YOU](https://open.spotify.com/album/3eagKWSJ90uzHu1lmg4B7u) | 3:58 | 2025-05-29 |  |
 | [Never mind](https://open.spotify.com/track/4QM774WtzXy2KZeed1xe03) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [Never mind](https://open.spotify.com/album/2aRPQp8uqMdUBDTIYROVWJ) | 4:11 | 2024-06-27 |  |
 | [Never Walk Alone](https://open.spotify.com/track/5d8ojsT9pv2WstWgjeUe6i) | [Lokyi@EOS](https://open.spotify.com/artist/4Xvv5Voh7NnKzkh1JoYh3N) | [Never Walk Alone](https://open.spotify.com/album/1GeDkJnIjkFUQUdhFUBnkV) | 3:24 | 2024-10-17 |  |
 | [new classic](https://open.spotify.com/track/11JmqNWpGhVLGy0VvSWYxm) | [XTIE](https://open.spotify.com/artist/4CTOMcrGypQOoxVO3yFlE9) | [new classic](https://open.spotify.com/album/4DdnZM3DZUgqj11BhpqodH) | 3:14 | 2024-06-27 |  |
@@ -132,6 +133,7 @@
 | [Only For Me](https://open.spotify.com/track/32nbQpvBnCDtXv59qchVdX) | [Gigi炎明熹](https://open.spotify.com/artist/7McwvS0kWbED0fxl6orCjA) | [Only For Me](https://open.spotify.com/album/4FkPEW0c45VA6ANisI3Wod) | 3:30 | 2024-06-27 |  |
 | [Out of the blue](https://open.spotify.com/track/5fJ9reRZCwq1ezsi9w4CdF) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [Out of the blue](https://open.spotify.com/album/1GOtkuxH60AYTFKN1ul97u) | 3:26 | 2024-06-27 |  |
 | [Planet Nine](https://open.spotify.com/track/319vdKBCMdU0lSqk0DyPBo) | [dai'zy](https://open.spotify.com/artist/2AwggAldACBkcFHUM0t4kP) | [Planet Nine](https://open.spotify.com/album/3MuUF4M67ZzKFdcO1u5jNk) | 3:12 | 2024-06-27 |  |
+| [Pretending](https://open.spotify.com/track/5Dqg1AVbpxtKLhaAOzs6XR) | [risy](https://open.spotify.com/artist/4MA9eWK70D4JdQmLpRDw2r) | [Pretending](https://open.spotify.com/album/2pBDFxIlrAhxhPqTpwinOj) | 3:45 | 2025-05-29 |  |
 | [Pretty Good](https://open.spotify.com/track/2Pja6ToXXOLBrEtA5p8VMX) | [XiX](https://open.spotify.com/artist/4GoZP54zjLUTt2HICmYOGU) | [Pretty Good](https://open.spotify.com/album/0Yd0AcHFMaPlSWuGvxwddu) | 3:15 | 2024-07-11 |  |
 | [Rain Rain地](https://open.spotify.com/track/4WUGpD1TqdEpmxbXJJ0KjM) | [趙展彤 VAL](https://open.spotify.com/artist/0YyOn3pvKeT1LKWKowx1OG) | [Rain Rain地](https://open.spotify.com/album/0tGR8WnNCTIBkWlNDh7arS) | 3:10 | 2024-06-27 |  |
 | [Red Flag](https://open.spotify.com/track/1wbex2AZ9pwXpaGXsBJvb1) | [Amy Lo](https://open.spotify.com/artist/1GUOcVj0qkEYcb2mKWxG7a) | [Red Flag](https://open.spotify.com/album/23KmQS9hwU8uGgV7W69wnS) | 2:52 | 2025-05-01 |  |
@@ -194,6 +196,7 @@
 | [不冷淡不熱情](https://open.spotify.com/track/5wR1LPy7JMTHRHVSK4Zr0U) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [不冷淡不熱情](https://open.spotify.com/album/5N2mQsGWHB5XxRvq4DJlit) | 3:12 | 2024-06-27 |  |
 | [不只一萬八千個世界](https://open.spotify.com/track/6dxnGw39wSMg4ni7Vvzthl) | [Vivian Chan](https://open.spotify.com/artist/7h7iZmYBCQ3EEOwJLvTx8T) | [這段時間的我正在⋯](https://open.spotify.com/album/5HPgwunguvcYk9UsFLNl6T) | 3:10 | 2024-06-27 |  |
 | [不可得](https://open.spotify.com/track/6fR9qqBVXGLs0gvuilrirm) | [Stephy Tang](https://open.spotify.com/artist/4ujntV2BGRi7X4UbCmTFX0) | [不可得](https://open.spotify.com/album/4LL4ZJ0lzvk9MW8HWDVQw9) | 4:13 | 2025-02-13 |  |
+| [不夠浪漫的我們](https://open.spotify.com/track/1lm4LxYmVThM8p6bYhWgZd) | [VIVA](https://open.spotify.com/artist/662zDVWmEH6bK7P5FaQ7GY) | [不夠浪漫的我們](https://open.spotify.com/album/7r7AWuQE4Uz65hX1xApB01) | 3:40 | 2025-05-29 |  |
 | [不怕](https://open.spotify.com/track/3hgIDtoDgPFTg2aInipKaS) | [Mag Lam](https://open.spotify.com/artist/2fTmvcWWFIP66KlIvWlnlL) | [不怕](https://open.spotify.com/album/6CMCrVnGLnCyHvqhe1BnS0) | 4:16 | 2024-06-27 |  |
 | [不明文規定](https://open.spotify.com/track/5pnyoT0JPRJMuTfWPNBRMC) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [不明文規定](https://open.spotify.com/album/1Zj1ZhfmGyFhPBJ1wCtVfe) | 3:51 | 2025-03-16 |  |
 | [不是男孩](https://open.spotify.com/track/6UWSItjcLD6Wg7HodNvze6) | [蘇麗珊](https://open.spotify.com/artist/2qIeMjTqaIOFJYftPN4me7) | [不是男孩](https://open.spotify.com/album/3OsDl81PwF9KZ4QDu32UIH) | 3:35 | 2024-06-27 |  |
@@ -296,6 +299,7 @@
 | [孤獨的戀愛家](https://open.spotify.com/track/4UuXDAnySNrnVcE7y1Xjwi) | [Kerryta](https://open.spotify.com/artist/4Ks5LLyn8jdLnD7J2JKY6s) | [孤獨的戀愛家](https://open.spotify.com/album/5ycW8WPd14X1j7uxkC9Vl4) | 3:43 | 2024-06-27 |  |
 | [安全駕駛](https://open.spotify.com/track/59Z3XOZ5qxfgjyiAvqjNev) | [Stephanie Cheng](https://open.spotify.com/artist/6qAoh45c4dsSqxNhp845SQ) | [安全駕駛](https://open.spotify.com/album/1uBaNTKO4ATifamnt6mEVa) | 3:48 | 2024-06-27 |  |
 | [將快樂這刻蔓延 \(snap it）](https://open.spotify.com/track/0WPVn5cAsN8f3Cjuqtmyfr) | [Jaime Cheung](https://open.spotify.com/artist/0HlQqnAtrcPAXQcfdKqz5h) | [將快樂這刻蔓延 \(snap it）](https://open.spotify.com/album/70qRv1iy64ecKwEP5d32GB) | 2:53 | 2025-01-16 |  |
+| [小傷疤](https://open.spotify.com/track/0OD7Vr8PYeTfYBHdsIVmuh) | [葉巧琳](https://open.spotify.com/artist/48tRNx6mDy91ETezlPgihs) | [小傷疤](https://open.spotify.com/album/7tKq50jFMSvK9KP7bLMknJ) | 4:20 | 2025-05-29 |  |
 | [小半生](https://open.spotify.com/track/1Pw9vrZzCGHBLHlGJJ4y9m) | [JW](https://open.spotify.com/artist/5YsDFZYpkNgiIxfDW6rXlu) | [小半生](https://open.spotify.com/album/04zcfiPky1B6WcST77FusT) | 4:12 | 2024-06-27 |  |
 | [小夜燈](https://open.spotify.com/track/3pC8cDilwplM1adGHuAun1) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [小夜燈](https://open.spotify.com/album/3XTrVWieYlnIkvPAhbJH5n) | 4:06 | 2024-06-27 |  |
 | [左手香](https://open.spotify.com/track/2PATmOyvRZGKwOoD46DQpC) | [Kira Chan](https://open.spotify.com/artist/0nA2s878rKSluSrpBTpABm) | [左手香](https://open.spotify.com/album/0d1i03fdM8bnMKQjj4PdCA) | 3:30 | 2024-06-27 |  |
@@ -398,6 +402,7 @@
 | [比赤裸更赤裸](https://open.spotify.com/track/5zRjOfsVdMw3enQKULyYhU) | [Jocelyn Chan](https://open.spotify.com/artist/54X296HPEBGKumudEbWLRd) | [比赤裸更赤裸](https://open.spotify.com/album/1YwUfzM65ngow33fMnQAwq) | 4:24 | 2024-09-26 |  |
 | [水之形](https://open.spotify.com/track/3FwlXmSh2J0QJXLEZmeNjQ) | [何佩](https://open.spotify.com/artist/3aRY5Cw7kIXQlcEnmSnhTo) | [水之形](https://open.spotify.com/album/2OrcCAtIHgxEKmPKk3Hjaz) | 3:18 | 2025-05-01 |  |
 | [水性．揚花](https://open.spotify.com/track/2xOJevEW5XGSdqNe3A9jGg) | [SOPHY](https://open.spotify.com/artist/5Hx1PRV6i7vQdc8gAGE8eq) | [水性揚花](https://open.spotify.com/album/6elCEI3I5Iuwia6E80wcFU) | 4:08 | 2024-06-27 |  |
+| [求救的勇氣](https://open.spotify.com/track/1Fj6ahpJNC7sJyG8SRxuaf) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [求救的勇氣](https://open.spotify.com/album/4IXv3ydm9NmhdSDBPf1XmK) | 4:36 | 2025-05-29 |  |
 | [沉沒成本](https://open.spotify.com/track/6h4Ms3RFZZiVNf64n1Oh79) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [念](https://open.spotify.com/album/59TofyRHvflzaS9JW2pDjD) | 4:07 | 2024-06-27 |  |
 | [沉積岩](https://open.spotify.com/track/7abzorNnx5iI2r4Q7Ash9V) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [沉積岩](https://open.spotify.com/album/5Fq40jwqBSAtUJpLkp4BLe) | 3:33 | 2024-06-27 |  |
 | [沒有無緣無故的恨](https://open.spotify.com/track/6YI4OXOVtZ29Rc7GxOI4sY) | [JACE](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [沒有無緣無故的恨](https://open.spotify.com/album/3UugGjG8QfPiwvBDbRuhL8) | 3:45 | 2024-06-27 |  |
@@ -477,6 +482,7 @@
 | [路仍長](https://open.spotify.com/track/0xVlqxxhxKsLWythPiUsM7) | [雷同二友](https://open.spotify.com/artist/3oOIMiWNGFGHjWEqo2okiU) | [路仍長](https://open.spotify.com/album/7jc7ZJtv12tt4P5bVbKr23) | 3:19 | 2024-06-27 |  |
 | [輪迴德己立街](https://open.spotify.com/track/0GnS1rJNpc8PEfRhIifTO2) | [Salty Chick](https://open.spotify.com/artist/37gag5BhRpch91IX5dEf5A) | [輪迴德己立街](https://open.spotify.com/album/1hEqBNDQAEZNmDm3y3tsIs) | 3:04 | 2024-11-07 |  |
 | [轉個身擁抱](https://open.spotify.com/track/4Lr6oJWXDw4dH9j6Gx9DKr) | [何佩](https://open.spotify.com/artist/3aRY5Cw7kIXQlcEnmSnhTo) | [轉個身擁抱](https://open.spotify.com/album/4Bxi1DFRqMZ4ZgZup60baS) | 3:57 | 2024-06-27 |  |
+| [迷途時發吽哣](https://open.spotify.com/track/3yXwxlWDJt9TR4SY0rkPjP) | [sica](https://open.spotify.com/artist/7iExyvANFWKeRdregJ4Yk5) | [迷途時發吽哣](https://open.spotify.com/album/2oQ3D4hIQeyRsKN9js6rBI) | 3:25 | 2025-05-29 |  |
 | [逃生門](https://open.spotify.com/track/0ziKtZzRh1Hsc8JzlCOOum) | [JW](https://open.spotify.com/artist/5YsDFZYpkNgiIxfDW6rXlu) | [逃生門](https://open.spotify.com/album/1NtG7yUcB3PXsDLSARal9h) | 4:43 | 2024-06-27 |  |
 | [逃避雖可恥但有用](https://open.spotify.com/track/3QOiaqeWH44Hu1koIgdNrj) | [蘇麗珊](https://open.spotify.com/artist/2qIeMjTqaIOFJYftPN4me7) | [metamorphosis](https://open.spotify.com/album/0H8GE8cqeWl3dYUIonVTBs) | 3:55 | 2024-06-27 |  |
 | [透光者](https://open.spotify.com/track/3WKetFAvOgAhuvGKpAYM6P) | [Gigi炎明熹](https://open.spotify.com/artist/7McwvS0kWbED0fxl6orCjA) | [透光者](https://open.spotify.com/album/2cO4O6fU4ZDnbRKoLRmDPm) | 3:44 | 2024-06-27 |  |

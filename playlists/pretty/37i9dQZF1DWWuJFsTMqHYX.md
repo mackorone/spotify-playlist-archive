@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 
 > The hottest music from the hottest desert\. Cover: Tinariwen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 436,810 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 436,936 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 | 8 | [Kulu](https://open.spotify.com/track/4Z1SwrQ2E9mOrXDTuP1bTD) | [N'Gou Bagayoko](https://open.spotify.com/artist/0U14GimEuoGTXPNaoNAlmg) | [Kulu](https://open.spotify.com/album/1vGI90FqQestc7Zw6SCVg1) | 3:45 |
 | 9 | [Djôn'Maya](https://open.spotify.com/track/2JlQOgJZdvQ5YJrVxY13wQ) | [Victor Démé](https://open.spotify.com/artist/1FCJ4zmRfkGUOtY65Jettg) | [Victor Démé](https://open.spotify.com/album/4psXSB62XvHZ0c3fg2udob) | 4:09 |
 | 10 | [Laidu](https://open.spotify.com/track/05CF4ATpqROLTQVYABNZ3W) | [Rokia Traoré](https://open.spotify.com/artist/6sz0k1q2aEtG5dxEgr4YWV) | [Mouneïssa](https://open.spotify.com/album/21Tj95e18stlS6SetlwqAa) | 6:26 |
-| 11 | [Azawade](https://open.spotify.com/track/7dHowm9WlK1gOuEuM0bd7m) | [The Touré\-Raichel Collective](https://open.spotify.com/artist/4NXdiYnTn0W2hblJ1WphGh), [Idan Raichel](https://open.spotify.com/artist/5EBnQEKoaiAk37Q7cfGrE1), [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze) | [The Tel Aviv Session](https://open.spotify.com/album/0GIm6JcC0la7IZ7SAU8XjH) | 8:12 |
-| 12 | [Toumast Tincha](https://open.spotify.com/track/3911Bzzv8FHgbitJzXFjxh) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Emmaar](https://open.spotify.com/album/7BHJjxuGHgU4aFpBFCjFsw) | 4:20 |
+| 11 | [Toumast Tincha](https://open.spotify.com/track/3911Bzzv8FHgbitJzXFjxh) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Emmaar](https://open.spotify.com/album/7BHJjxuGHgU4aFpBFCjFsw) | 4:20 |
+| 12 | [Azawade](https://open.spotify.com/track/7dHowm9WlK1gOuEuM0bd7m) | [The Touré\-Raichel Collective](https://open.spotify.com/artist/4NXdiYnTn0W2hblJ1WphGh), [Idan Raichel](https://open.spotify.com/artist/5EBnQEKoaiAk37Q7cfGrE1), [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze) | [The Tel Aviv Session](https://open.spotify.com/album/0GIm6JcC0la7IZ7SAU8XjH) | 8:12 |
 | 13 | [Mamaké](https://open.spotify.com/track/520tnSeFL0qGLxD7I7YsxQ) | [Sona Jobarteh](https://open.spotify.com/artist/7JksKqLDuYE8QYj2WjiNQr) | [Fasiya](https://open.spotify.com/album/7h7MgG54nO4RvaPj01CEX6) | 5:08 |
 | 14 | [Mogoya](https://open.spotify.com/track/3aPOQ6TdIuAW8m1KZid1Hv) | [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Mogoya](https://open.spotify.com/album/43euCDOikmefRS29Y55pLX) | 3:30 |
 | 15 | [Amidinine](https://open.spotify.com/track/2ISu36NpmL9Uirpn0ubbQ4) | [Tissilawen](https://open.spotify.com/artist/14viaIxpNaKT0mCz5p46jR) | [Amidinine](https://open.spotify.com/album/45rSglMAjMobDFFbWbDcAU) | 4:21 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 | 31 | [Yarab](https://open.spotify.com/track/4DdoInAoNy6cT6Z1AAj6vX) | [Malouma](https://open.spotify.com/artist/0TuCYPg3Na5TogmBIEl7T5) | [Nour](https://open.spotify.com/album/6KGuLkvq9MNHbK4ttF0vx3) | 5:05 |
 | 32 | [Mawarniha Tartit](https://open.spotify.com/track/6KnZ9iov6qX5ZZBLS0pUPF) | [Tamikrest](https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872) | [Kidal](https://open.spotify.com/album/5OomumBipFPjdcXld2zJQc) | 3:38 |
 | 33 | [Lagi](https://open.spotify.com/track/6T0wxfTmgWw67QM6IJQvU4) | [Aziza Brahim](https://open.spotify.com/artist/0ydDa6afIYote2AtmgSycS) | [Soutak](https://open.spotify.com/album/4X7wSphcqgl8gvqdnOQkbB) | 5:53 |
-| 34 | [Tahra a Issasnane](https://open.spotify.com/track/51y5kEOYPs4JHFgbPTvuKe) | [Terakaft](https://open.spotify.com/artist/0UtqyB9qf6oA6B7SeTjLue) | [Akh Issudar](https://open.spotify.com/album/0grlHQW8BkVTcEaW0QqTPx) | 3:21 |
-| 35 | [Tadieu Bone](https://open.spotify.com/track/1XMr0CfVAuZ5ueoDe8yUNq) | [Ismaël Lô](https://open.spotify.com/artist/4EBRPnSYtrfmwptEMOSCV8) | [Natt](https://open.spotify.com/album/2hyXbgiRlM3PORB5GEAkLw) | 4:23 |
+| 34 | [Tadieu Bone](https://open.spotify.com/track/1XMr0CfVAuZ5ueoDe8yUNq) | [Ismaël Lô](https://open.spotify.com/artist/4EBRPnSYtrfmwptEMOSCV8) | [Natt](https://open.spotify.com/album/2hyXbgiRlM3PORB5GEAkLw) | 4:23 |
+| 35 | [Tahra a Issasnane](https://open.spotify.com/track/51y5kEOYPs4JHFgbPTvuKe) | [Terakaft](https://open.spotify.com/artist/0UtqyB9qf6oA6B7SeTjLue) | [Akh Issudar](https://open.spotify.com/album/0grlHQW8BkVTcEaW0QqTPx) | 3:21 |
 | 36 | [A Lamèn](https://open.spotify.com/track/4bT1rl9bnULJw7ivrXozfQ) | [Lobi Traoré](https://open.spotify.com/artist/5uycig9ettxM7vWsZt4Rzp) | [Rainy Season Blues](https://open.spotify.com/album/01PrHxFNvBdEZr99c03s3M) | 2:21 |
 | 37 | [Toumast anlet](https://open.spotify.com/track/09n4VZqxSvFJfdtyV0HbCV) | [Tamikrest](https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872) | [Chatma](https://open.spotify.com/album/0VI8LrJKHMN1S9hloXGMlU) | 5:13 |
 | 38 | [Baraka](https://open.spotify.com/track/1aCV7ocnKXsLSb0oX2dmup) | [Aziza Brahim](https://open.spotify.com/artist/0ydDa6afIYote2AtmgSycS) | [Abbar el Hamada](https://open.spotify.com/album/1TVWhiqo2BlNO1rxB1exn3) | 3:51 |

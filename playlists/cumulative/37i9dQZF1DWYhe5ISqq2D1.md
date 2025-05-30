@@ -4,7 +4,7 @@
 
 > たった独りでメロディーと言葉を紡ぐシンガーソングライター。Cover: 大森元貴
 
-653 songs - 1 day 17 hr 20 min
+654 songs - 1 day 17 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -296,6 +296,7 @@
 | [You Are the Inspiration](https://open.spotify.com/track/7wOBl67FaxQUVT0gowzd6i) | [Noriyuki Makihara](https://open.spotify.com/artist/3vVDusnDA0LcPH3NvZpoyM) | [Buppu Label 15th Anniversary “Showcase!”](https://open.spotify.com/album/4cqs31g4iMUWeMtoyLYGmn) | 4:06 | 2025-02-11 | 2025-02-26 |
 | [Your Love](https://open.spotify.com/track/7Bek5MohEgCbfAs91H3Di1) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh), [knoak](https://open.spotify.com/artist/2JaKbKsQiaVksYmGSs2ZuP) | [Love One Another](https://open.spotify.com/album/47MmxhLmTn7W91dxYCHvT9) | 3:45 | 2024-07-02 | 2024-07-10 |
 | [Your Story](https://open.spotify.com/track/1gSqJKTwEEYCkoin38bL8r) | [Tamuraryo](https://open.spotify.com/artist/15i61GDW435zKWZ5vaJAYR) | [Your Story](https://open.spotify.com/album/5ceDFPnC7LQ7jODNsNtPpE) | 2:34 | 2024-09-17 | 2024-09-25 |
+| [Yurete](https://open.spotify.com/track/5t2gA8JSINaJaHUtnBvDdR) | [マコトコンドウ](https://open.spotify.com/artist/5LGNw6Zr6yaFM9px1QiTwc) | [Yurete](https://open.spotify.com/album/03vhCXWVc8WIiwIxdjmjG9) | 2:23 | 2025-05-27 |  |
 | [Zatto](https://open.spotify.com/track/3mnc8STf3GPV8E9JlA6j4X) | [Nariaki](https://open.spotify.com/artist/6VhZSXucPwAlDJD1j2Zayk) | [Zatto](https://open.spotify.com/album/3zpeZbl6NBa9KJbXpQMrig) | 6:07 | 2025-01-14 | 2025-04-02 |
 | [¿](https://open.spotify.com/track/3w21x9HAkwygqrEHRPurcc) | [井戸健人](https://open.spotify.com/artist/4PlzrQn4QMNelRxDC51Z7u) | [All the places \(I have ever slept\)](https://open.spotify.com/album/00vQgqMmhyI2sXnHYlZBZN) | 4:12 | 2025-02-18 | 2025-02-26 |
 | [’Round And ’Round](https://open.spotify.com/track/1beHuOolorpKboFKCrsMc4) | [竹内唯人](https://open.spotify.com/artist/2OpX0FyI9sULjE7pmpT0eh) | [CELL](https://open.spotify.com/album/0YhtgOOAugKkCmi275XGR1) | 2:32 | 2025-05-27 |  |
@@ -607,7 +608,7 @@
 | [私ばっかりバカみたい！](https://open.spotify.com/track/22nGsWDIVhOh46WWvdo5fT) | [ニイナ](https://open.spotify.com/artist/3awoctCVai4GDLEzZREbPV) | [私ばっかりバカみたい！](https://open.spotify.com/album/4LOx4VDXKIYFCaPiFQOzNO) | 2:48 | 2024-12-24 | 2025-02-01 |
 | [空とぶタクシー](https://open.spotify.com/track/5xU0FglG9sl9gmIjSgKgXM) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [GOLD HOUR](https://open.spotify.com/album/2TTPto1lSjrgo5KkiDrPRw) | 5:28 | 2024-11-13 | 2025-02-08 |
 | [笑い話](https://open.spotify.com/track/4dQ2aTr0vgxc346TEhN8nO) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [笑い話](https://open.spotify.com/album/7pNGGFs7y4gRbyMJ1DYbno) | 4:07 | 2024-07-02 | 2024-12-02 |
-| [笑う癖](https://open.spotify.com/track/1VGgs0QvE5so3DABoIwbCD) | [五十嵐ハル](https://open.spotify.com/artist/28a4P2rmW853MTC4pOlCv0) | [笑う癖](https://open.spotify.com/album/1nBQwgsh2D6OgBo0MxFwUk) | 3:34 | 2025-03-04 |  |
+| [笑う癖](https://open.spotify.com/track/1VGgs0QvE5so3DABoIwbCD) | [五十嵐ハル](https://open.spotify.com/artist/28a4P2rmW853MTC4pOlCv0) | [笑う癖](https://open.spotify.com/album/1nBQwgsh2D6OgBo0MxFwUk) | 3:34 | 2025-03-04 | 2025-05-30 |
 | [箱庭の灯](https://open.spotify.com/track/6XvxmbCjBRAwFzFKcg27Hh) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [箱庭の灯](https://open.spotify.com/album/7kmEI6snJw0yLMjYMmZngQ) | 4:08 | 2024-07-16 | 2024-09-04 |
 | [糸電話](https://open.spotify.com/track/6BPJod6d4ymhRcziURKoaM) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [糸電話](https://open.spotify.com/album/7BJiq1ZVbcSpRzfZH6B2qH) | 3:43 | 2024-09-24 |  |
 | [紡ぐ](https://open.spotify.com/track/4nnkvTcw7lpS8w9FKpo7yJ) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [紡ぐ](https://open.spotify.com/album/0RVNSXrfFHeI6Bsk3YXLHZ) | 3:51 | 2024-07-02 | 2024-12-25 |

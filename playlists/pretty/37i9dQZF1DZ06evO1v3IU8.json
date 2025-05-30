@@ -1,12 +1,12 @@
 {
   "description": "This is Banda MS de Sergio Liz\u00e1rraga. The essential tracks, all in one playlist.",
-  "num_followers": 1349175,
+  "num_followers": 1349248,
   "original_name": "This Is Banda MS de Sergio Liz\u00e1rraga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDUAgAAAAABcKg2v5cjXCNL1FFmwxBpi",
+  "snapshot_id": "aDZSAAAAAAAf60yIRCBG35EruXdyU52s",
   "tracks": [
     {
       "added_at": null,
@@ -663,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Trabajo Es La Suerte",
+        "url": "https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 232413,
+      "name": "Lo Mejor Que Me Pas\u00f3",
+      "url": "https://open.spotify.com/track/2q6Yn01lr8bZK1hVVKFvat"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "S\u00e9 Sincera Coraz\u00f3n",
         "url": "https://open.spotify.com/album/3nua6BtgRTtLGt8nEv4bgF"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 188400,
       "name": "S\u00e9 Sincera Coraz\u00f3n",
       "url": "https://open.spotify.com/track/4xPk7nmG2DZmIrXYQ9qnhU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Trabajo Es La Suerte",
-        "url": "https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 232413,
-      "name": "Lo Mejor Que Me Pas\u00f3",
-      "url": "https://open.spotify.com/track/2q6Yn01lr8bZK1hVVKFvat"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pasa Tips",
-        "url": "https://open.spotify.com/album/5P43UV8CfStgrgvkgeou6y"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 167250,
-      "name": "Pasa Tips",
-      "url": "https://open.spotify.com/track/1GwBfU9CDCiuJh8P5Ocgxx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Mejor Versi\u00f3n De M\u00ed",
         "url": "https://open.spotify.com/album/6UV1wTga3v0p7rXwxxbUL1"
       },
@@ -799,8 +783,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Escuela De Rancho",
-        "url": "https://open.spotify.com/album/3MAavJryyyldhnZGkgMr2T"
+        "name": "Pasa Tips",
+        "url": "https://open.spotify.com/album/5P43UV8CfStgrgvkgeou6y"
       },
       "artists": [
         {
@@ -808,9 +792,25 @@
           "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 139186,
-      "name": "El Mech\u00f3n",
-      "url": "https://open.spotify.com/track/7dbOcZwBpDCUqR7sIz3djU"
+      "duration_ms": 167250,
+      "name": "Pasa Tips",
+      "url": "https://open.spotify.com/track/1GwBfU9CDCiuJh8P5Ocgxx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cahuates, Pistaches",
+        "url": "https://open.spotify.com/album/6Wia37tqLhyIwKJMJdsRfy"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 177053,
+      "name": "Cahuates, Pistaches",
+      "url": "https://open.spotify.com/track/4MzglbfmgFrjfmyEaoKNmD"
     },
     {
       "added_at": null,
@@ -831,8 +831,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cahuates, Pistaches",
-        "url": "https://open.spotify.com/album/6Wia37tqLhyIwKJMJdsRfy"
+        "name": "Escuela De Rancho",
+        "url": "https://open.spotify.com/album/3MAavJryyyldhnZGkgMr2T"
       },
       "artists": [
         {
@@ -840,9 +840,9 @@
           "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 177053,
-      "name": "Cahuates, Pistaches",
-      "url": "https://open.spotify.com/track/4MzglbfmgFrjfmyEaoKNmD"
+      "duration_ms": 139186,
+      "name": "El Mech\u00f3n",
+      "url": "https://open.spotify.com/track/7dbOcZwBpDCUqR7sIz3djU"
     }
   ],
   "unique_name": "This Is Banda MS de Sergio Liz\u00e1rraga",

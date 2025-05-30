@@ -4,7 +4,7 @@
 
 > グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: BE:FIRST
 
-586 songs - 1 day 8 hr 42 min
+588 songs - 1 day 8 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,7 @@
 | [Furete](https://open.spotify.com/track/6cORKmyAM5qYe8gwtQ4WlH) | [Urashimasakatasen](https://open.spotify.com/artist/1EYvO39JCY52RH1buMSgX2) | [Furete](https://open.spotify.com/album/3Mgfnr0yrpFMMVAm4mBEIu) | 3:41 | 2024-04-16 | 2024-04-19 |
 | [GBAD](https://open.spotify.com/track/3OxVaGUYKdSAXqIp8x7VgC) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [GBAD](https://open.spotify.com/album/3zd28IonbElPm1abU4G6Ve) | 3:10 | 2025-03-27 | 2025-04-16 |
 | [GBAD \(Number\_i Remix\)](https://open.spotify.com/track/0Sc93x1NGL4SbWFlMOvDkN) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [GBAD \(Number\_i Remix\)](https://open.spotify.com/album/76C1D2sECFpW0lWOuhcZak) | 3:07 | 2025-04-15 |  |
-| [Gelato](https://open.spotify.com/track/3qShJFAJ6OMCGrHzx2ze4u) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb) | [Gelato](https://open.spotify.com/album/7pdXgSitr9RAF9gDDbGG3L) | 2:56 | 2025-05-15 |  |
+| [Gelato](https://open.spotify.com/track/3qShJFAJ6OMCGrHzx2ze4u) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb) | [Gelato](https://open.spotify.com/album/7pdXgSitr9RAF9gDDbGG3L) | 2:56 | 2025-05-15 | 2025-05-30 |
 | [Generation\_Cloud](https://open.spotify.com/track/3vkGaXx8dOqoqnki0GD4sc) | [KJRGL](https://open.spotify.com/artist/0cIWA2RwHqzE0OGvNjRxrX) | [Generation\_Cloud](https://open.spotify.com/album/06AseksArQxT2mXYzwAiuO) | 2:36 | 2025-01-28 | 2025-03-26 |
 | [GET STUPID](https://open.spotify.com/track/5UHHgSPZkVMM6RBOmhfB5f) | [XY](https://open.spotify.com/artist/2MOWJsCM7TRwG7K7eIZzxC) | [GET STUPID](https://open.spotify.com/album/1wwvdUYewkU9xAqn9DhZa7) | 2:40 | 2024-06-18 | 2024-06-26 |
 | [Get Wild](https://open.spotify.com/track/4IDWkk8s12B50Ksb4aS87W) | [BALLISTIK BOYZ from EXILE TRIBE](https://open.spotify.com/artist/1dZ8IZ8BXP30yhG50TH06o) | [Get Wild](https://open.spotify.com/album/54og7pfmDGwwaVrROP2aiL) | 2:58 | 2025-03-06 | 2025-04-07 |
@@ -381,6 +381,7 @@
 | [REC](https://open.spotify.com/track/2mccAxFdI4g5AcDmB1FICG) | [Tensaibonjin](https://open.spotify.com/artist/1ELi8EtBddXdfm2QdYCtVj) | [REC](https://open.spotify.com/album/3GzQyeVLAP3Cg7npOSqXMd) | 2:53 | 2024-01-24 | 2024-02-07 |
 | [RED](https://open.spotify.com/track/2EQUqaZtaTfYgZiLN6L3rr) | [Ryosuke Yamada](https://open.spotify.com/artist/5fc4bs6XESpstwZCLCKA4q) | [RED](https://open.spotify.com/album/77k2WgtdorQHxZjCzUagqP) | 3:28 | 2025-04-15 | 2025-05-20 |
 | [REEEMINDER! \- feat\. Crystal Kay](https://open.spotify.com/track/2lDgDfW735tzdnm18LAZHL) | [MA55IVE THE RAMPAGE](https://open.spotify.com/artist/4WrhFhuiPWwEkbsRzAjMBk), [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM) | [REEEMINDER! \(feat\. Crystal Kay\)](https://open.spotify.com/album/0ftGozHZgrmumfN8ApPKuN) | 2:47 | 2025-04-29 |  |
+| [Reflection](https://open.spotify.com/track/6bVPDhgG3NdK7YxxxN6SPK) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb) | [PSYCHIC FILE III](https://open.spotify.com/album/4z8vldWRgTGlzLeVRX7Yj1) | 3:20 | 2025-05-29 |  |
 | [REVERSE](https://open.spotify.com/track/5KlKadHo3z2nuSpWZNgpj3) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [REVERSE](https://open.spotify.com/album/2agh9SrSkdac9tUYbHOeum) | 3:30 | 2024-07-30 | 2024-11-06 |
 | [Revolution](https://open.spotify.com/track/1iv9W7OAqcJcMpzy0s8vaT) | [SUPER★DRAGON](https://open.spotify.com/artist/2O86rYMEuvyrkOhyooK87W) | [mirror](https://open.spotify.com/album/4c7Xu0FHmZPfXgLAapJvPy) | 3:28 | 2023-11-23 | 2024-01-03 |
 | [Ride the Vibe](https://open.spotify.com/track/1g3YJ4LEitgCkrvMnD9ggg) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [Ride the Vibe](https://open.spotify.com/album/1cTIK6Npr4gfRh2sDpBaUQ) | 2:52 | 2024-05-21 | 2024-09-11 |
@@ -481,7 +482,7 @@
 | [Unfreeze](https://open.spotify.com/track/7Ko3Ark4s7OL7sQIo1ToHR) | [TEMPEST](https://open.spotify.com/artist/1iyFL3CRuKW7PXgPH4VxSP) | [RE: Full of Youth](https://open.spotify.com/album/1vlehuBlbn5SqCzpaoRICu) | 3:11 | 2025-03-31 |  |
 | [Universe](https://open.spotify.com/track/61bFionfXJxkMit23Rvu5H) | [DAESUNG](https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO) | [D's WAVE](https://open.spotify.com/album/3HI2arleNFka7BTes75U83) | 3:47 | 2025-04-08 |  |
 | [Use Your Body](https://open.spotify.com/track/5jJanCOrDYbqfWO85B6XzJ) | [DA PUMP](https://open.spotify.com/artist/3NRXKeatDxKe4apH6XawKX) | [Use Your Body / E\-NERGY BOYS](https://open.spotify.com/album/7pVVu6AwIlArQyTUq8jpqu) | 2:59 | 2024-02-20 | 2024-03-13 |
-| [UV](https://open.spotify.com/track/6eKBXC5KEbiS3gNLgWWtyk) | [MASHIHO](https://open.spotify.com/artist/0pxEGHaPCDvpHEyXGc7xlc) | [ULTRA VIOLET](https://open.spotify.com/album/5JJb0PsoRNXCTNVU1leKiq) | 2:47 | 2025-03-25 |  |
+| [UV](https://open.spotify.com/track/6eKBXC5KEbiS3gNLgWWtyk) | [MASHIHO](https://open.spotify.com/artist/0pxEGHaPCDvpHEyXGc7xlc) | [ULTRA VIOLET](https://open.spotify.com/album/5JJb0PsoRNXCTNVU1leKiq) | 2:47 | 2025-03-25 | 2025-05-30 |
 | [Vanilla](https://open.spotify.com/track/40Sa8TQixEoPFU7kosThge) | [A.B.C\-Z](https://open.spotify.com/artist/4HXPfWNUCAFpjMoWyTWz5i) | [BEST OF A.B.C\-Z](https://open.spotify.com/album/0yk8RjLmJXhB9S5A0czgN1) | 4:43 | 2024-04-30 | 2024-05-15 |
 | [Venus](https://open.spotify.com/track/5A6AfI5wfTAY7xnxu1PSUq) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [EQUINOX \(Special Edition\)](https://open.spotify.com/album/5a3C5LKYVvfZGNxfNuT5Qa) | 3:18 | 2023-11-23 | 2024-05-08 |
 | [Vivid](https://open.spotify.com/track/3nXzWBaH6lhOksp1wu8hnL) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [Vivid](https://open.spotify.com/album/326p2F8FWYrvdoVgSjLDdB) | 3:24 | 2023-11-23 | 2024-02-28 |
@@ -523,6 +524,7 @@
 | [Your Key](https://open.spotify.com/track/6u6hU2ZikSQ8PdPC3yVYbH) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Your Key](https://open.spotify.com/album/16NmOg7tpLafA7WJb1eAwS) | 3:28 | 2024-01-09 | 2024-06-13 |
 | [Youth Spark](https://open.spotify.com/track/2WKXGsbtHimKjJ2CBX3JES) | [LIL LEAGUE from EXILE TRIBE](https://open.spotify.com/artist/6B51WqiWwRf7LytXwWhmHJ) | [Youth Spark](https://open.spotify.com/album/1qiBJWJsG5JvYzkfgtOfyC) | 3:05 | 2024-07-30 | 2024-09-25 |
 | [ZOOM](https://open.spotify.com/track/0kLktoAjZQczngphPbfq52) | [BMSG POSSE](https://open.spotify.com/artist/70ZXCRaBCyquIzkizcFfbk), [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b), [Novel Core](https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD) | [ZOOM](https://open.spotify.com/album/7vyywKqNuOsQ0UveBQPhRn) | 3:04 | 2024-10-29 | 2024-11-27 |
+| [เม้นหยอกๆ \(Comment\)](https://open.spotify.com/track/7soLL3HJ0wmOtIC6Sxse5a) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [เม้นหยอกๆ \(Comment\)](https://open.spotify.com/album/6l408RTEZpuoijgcEgDlxF) | 3:46 | 2025-05-29 |  |
 | [“超”勝手に仕上がれ](https://open.spotify.com/track/2nsaIqfTeFqsIeqE5N4QSD) | [SUPER EIGHT](https://open.spotify.com/artist/7hPEh2rcIFbRsUdy6ZzFpQ) | [SUPER EIGHT](https://open.spotify.com/album/24rRGwyzAfk1fmhyvaKTzA) | 4:24 | 2024-07-30 | 2024-08-07 |
 | [あっちむいてほい](https://open.spotify.com/track/0rQfEhcOvcB5NW4V4VD47q) | [NEWS](https://open.spotify.com/artist/2Sw8snRnez7gVPNd9UU07o) | [あっちむいてほい](https://open.spotify.com/album/765plafXxbIYdlm7Uodkme) | 2:47 | 2024-11-05 | 2024-11-20 |
 | [それぞれ。](https://open.spotify.com/track/4IDv79DIXD5H0pimT4fL0m) | [Hey! Say! JUMP](https://open.spotify.com/artist/64BB3FFJokfd3owfpnwxb0) | [P.U!](https://open.spotify.com/album/63j2GyF1WGdRIxPuHbOmoU) | 3:57 | 2023-11-28 | 2023-12-13 |

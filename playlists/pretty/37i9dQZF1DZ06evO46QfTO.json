@@ -1,12 +1,12 @@
 {
   "description": "This is Maren Morris. The essential tracks, all in one playlist.",
-  "num_followers": 74303,
+  "num_followers": 74308,
   "original_name": "This Is Maren Morris",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDUAgAAAAAC/iPph5Asu5M2XifNdVEKW",
+  "snapshot_id": "aDZSAAAAAAAFoPcET9cypMiSbcRrGLTQ",
   "tracks": [
     {
       "added_at": null,
@@ -423,18 +423,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "bed no breakfast",
-        "url": "https://open.spotify.com/album/50eGJe89pUdqFiNcl3V36B"
+        "name": "Scissors",
+        "url": "https://open.spotify.com/album/4xcHcXY1WvL6MaSpEsBICL"
       },
       "artists": [
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        },
         {
           "name": "Maren Morris",
           "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         }
       ],
-      "duration_ms": 146226,
-      "name": "bed no breakfast",
-      "url": "https://open.spotify.com/track/2dNRnuMiLjicWMbmSkKF4n"
+      "duration_ms": 145622,
+      "name": "Scissors",
+      "url": "https://open.spotify.com/track/3JNgfzJac40BSzCc3H0e1i"
     },
     {
       "added_at": null,
@@ -459,22 +463,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Scissors",
-        "url": "https://open.spotify.com/album/4xcHcXY1WvL6MaSpEsBICL"
+        "name": "bed no breakfast",
+        "url": "https://open.spotify.com/album/50eGJe89pUdqFiNcl3V36B"
       },
       "artists": [
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        },
         {
           "name": "Maren Morris",
           "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         }
       ],
-      "duration_ms": 145622,
-      "name": "Scissors",
-      "url": "https://open.spotify.com/track/3JNgfzJac40BSzCc3H0e1i"
+      "duration_ms": 146226,
+      "name": "bed no breakfast",
+      "url": "https://open.spotify.com/track/2dNRnuMiLjicWMbmSkKF4n"
     },
     {
       "added_at": null,
@@ -903,22 +903,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dancing with Myself",
-        "url": "https://open.spotify.com/album/2qVBhf1Xsqm806dtsPXb0F"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 251309,
-      "name": "Dancing with Myself",
-      "url": "https://open.spotify.com/track/5Ds6UPLXf9wRe1ly0N8o7o"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HERO (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 240061,
       "name": "I Wish I Was",
       "url": "https://open.spotify.com/track/0CqvhN7ChNjQf4tHp5rKTv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dancing with Myself",
+        "url": "https://open.spotify.com/album/2qVBhf1Xsqm806dtsPXb0F"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 251309,
+      "name": "Dancing with Myself",
+      "url": "https://open.spotify.com/track/5Ds6UPLXf9wRe1ly0N8o7o"
     },
     {
       "added_at": null,

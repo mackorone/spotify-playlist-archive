@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/317l1YGA14Vl2sRaVL8INT.md) - [plain]
 
 > It’s pop punk, it’s the best \. Your ultimate v\-day / anti v\-day playlist.
 
-[Hopeless Records](https://open.spotify.com/user/hopelessrecords) - 43,556 likes - 173 songs - 9 hr 41 min
+[Hopeless Records](https://open.spotify.com/user/hopelessrecords) - 43,555 likes - 193 songs - 10 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -181,5 +181,25 @@ pretty - [cumulative](/playlists/cumulative/317l1YGA14Vl2sRaVL8INT.md) - [plain]
 | 171 | [100%](https://open.spotify.com/track/43d22Bp8nyPZJjmdKIzQ04) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [100%](https://open.spotify.com/album/6bGvZxSSajIl2pfdC4MnEv) | 3:28 |
 | 172 | [Negative Space](https://open.spotify.com/track/2y360Vbmgunt8pyLHmwOUf) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Negative Space](https://open.spotify.com/album/3BSAYIxEIPKc6DdJwpSeDh) | 3:18 |
 | 173 | [Vista Verde \(So Far, So Good\)](https://open.spotify.com/track/7mbiumH5NqG4DqTUa6EeIO) | [Stateside](https://open.spotify.com/artist/2WpPJq3Z87oKW6NwADqkBu) | [Vista Verde \(So Far, So Good\)](https://open.spotify.com/album/1hiAnITVXm9jFUUvTfc8aK) | 2:46 |
+| 174 | [I'M THE MAN \(feat\. Lauren Sanderson\)](https://open.spotify.com/track/3uxwMc7iM3z0Jz0C0k4Vb2) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [I'M THE MAN \(feat\. Lauren Sanderson\)](https://open.spotify.com/album/5XC95kPi0453QJxtx0zLaS) | 2:42 |
+| 175 | [KINDA LOVE IT](https://open.spotify.com/track/3AQriyiMDGxNYOPLwda8Ch) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [GROWING UP ON THE INTERNET](https://open.spotify.com/album/6aFJQtL04OsqLPKVzGjqC8) | 1:56 |
+| 176 | [GOOD ENEMY](https://open.spotify.com/track/1dkVl41242u0eGODPvjd0l) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [GOOD ENEMY](https://open.spotify.com/album/3A5aAGLhHkQZFJsk4FsvAg) | 2:10 |
+| 177 | [GIRL$](https://open.spotify.com/track/2M0ryHpvIcoMUNd5wm0eTB) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [WAS HERE](https://open.spotify.com/album/57NMtVBwhchO8RyFm0LAfG) | 2:12 |
+| 178 | [Pink Panther](https://open.spotify.com/track/32ljWqOxw3ckyuaUc882F6) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Bimbocore](https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0) | 2:22 |
+| 179 | [HOSTAGE \(they will not erase us\)](https://open.spotify.com/track/7wf2Q9U399jOkIDMF3MyEw) | [TX2](https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H) | [HOSTAGE \(they will not erase us\)](https://open.spotify.com/album/3F404G44l9JCbxJHXabN4L) | 3:26 |
+| 180 | [Lovesick Lullaby](https://open.spotify.com/track/2LRSQhv3Vi8SkEllnvUhEK) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Lovesick Lullaby](https://open.spotify.com/album/3zwpHJVP5RXTpzQ7o2dpTu) | 2:55 |
+| 181 | [ADIDAS](https://open.spotify.com/track/2uQCqKzODU6Y49SFv4IH6a) | [The Summer Set](https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w) | [ADIDAS](https://open.spotify.com/album/3c2DhmzChTScsJbyQbrcIP) | 3:05 |
+| 182 | [i'm not crying you're crying](https://open.spotify.com/track/7ChGmRrK8sWCGp3uWNV0vH) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [Love Me Forever](https://open.spotify.com/album/5OmaMjzlejoRXpeKATzfLB) | 2:49 |
+| 183 | [Locker Room Bully](https://open.spotify.com/track/3Kdu2bo7HxXO6PGOs8jiyl) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Open Mouth, Open Heart](https://open.spotify.com/album/5jowai2DVaDn3cgxigARdy) | 2:17 |
+| 184 | [Wreck My Life \(feat\. PUP\)](https://open.spotify.com/track/5PLmlMi5vvoL9pvR8E8UOo) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O), [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [Wreck My Life \(feat\. PUP\)](https://open.spotify.com/album/7D634spauV9sF64ndg5NgF) | 1:58 |
+| 185 | [me against me](https://open.spotify.com/track/2lj5ljvoJTA7wZnEHL8gnI) | [senses](https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB) | [me against me](https://open.spotify.com/album/0OCwUiSpRZNj9GQATlexSE) | 3:43 |
+| 186 | [But I'm a Quarterback](https://open.spotify.com/track/4rgGq0MtNAPGcStquC7iIz) | [Sorry Mom](https://open.spotify.com/artist/0KZzhF4tqJGaVOrXXONmCX) | [But I'm a Quarterback](https://open.spotify.com/album/3qQLmW9AhwN2DDkLlcMMYc) | 2:52 |
+| 187 | [Say It \(To My Face\)](https://open.spotify.com/track/2hbOvsFwsgwaboSRGxeng8) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Past // Present // Future](https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve) | 2:39 |
+| 188 | [Active Trauma](https://open.spotify.com/track/4yMM6709W39opUprK6dL7Y) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [Active Trauma](https://open.spotify.com/album/6fAIfp3qHFsTduCiJfHQMn) | 1:49 |
+| 189 | [Kiss Me Again](https://open.spotify.com/track/2aeTUJ2VAXwTE0WayrkKT0) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Smitten](https://open.spotify.com/album/20L5ONbidQxNKj0yMP1mWO) | 2:55 |
+| 190 | [ONE NATION UNDERDOGS](https://open.spotify.com/track/0rlcL9H8ZJUEDQ3N0tmTZf) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [RAT TRAP 1: the blueprint](https://open.spotify.com/album/0otIBMv5zMV7ikDvfWCD3r) | 3:32 |
+| 191 | [Ankles](https://open.spotify.com/track/4VhbsGXRGDncpi79aiX8eE) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Forever Is A Feeling](https://open.spotify.com/album/2PedUC4azy5ywqWp8gVVrs) | 3:11 |
+| 192 | [The Reaper](https://open.spotify.com/track/4qjZQkOHRVhzVBTYpflXAK) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Kissing Death](https://open.spotify.com/album/06BiMFYYLl0cQnJDRSXmtD) | 2:40 |
+| 193 | [Special](https://open.spotify.com/track/62camXiL7evu87vDZ7EKSH) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Special](https://open.spotify.com/album/6vnJda9u77ADNQED3jjI6r) | 2:57 |
 
-Snapshot ID: `AAAb4mIF+BdnlBZPkKH8rpx2LviQIdlb`
+Snapshot ID: `AAAb+N+DXy9PgyLhsSykZ+FajH9zjqxs`

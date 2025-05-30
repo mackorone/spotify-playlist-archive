@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-1,628 songs - 4 day 2 hr 28 min
+1,629 songs - 4 day 2 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -624,7 +624,7 @@
 | [Machagama \(平安名のマチャガマ\)](https://open.spotify.com/track/4Qxwp7wq2tpbnrmHIJaxl8) | [HARIKUYAMAKU](https://open.spotify.com/artist/2RANRmuadtyn5Pb3bX1Ih0) | [Machagama](https://open.spotify.com/album/0Gb5oTPO3RCY64SztMHhes) | 4:20 | 2023-07-18 | 2023-07-26 |
 | [mad cooking machine](https://open.spotify.com/track/0vVoIRnqi0JMvFjc95ewxK) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [mad cooking machine](https://open.spotify.com/album/0wgB5VGk6FdMTkZtK1X3mU) | 3:05 | 2024-01-30 | 2024-02-14 |
 | [Mad Doctor](https://open.spotify.com/track/5zi0i85j65B7VeHofufPwt) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [MAD DOCTOR](https://open.spotify.com/album/5fOaAZm7tVTv5aimJ9FKbv) | 2:33 | 2022-05-26 | 2022-06-29 |
-| [Mad Hope \(feat\. Louis Cole, Sam Gendel, Sam Wilkes\)](https://open.spotify.com/track/1sbgtxMmPxua3m0H2Gc1P1) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs), [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH), [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk), [Sam Wilkes](https://open.spotify.com/artist/6Xo1vXFRCEJPgVqCyHlTPW) | [Gen](https://open.spotify.com/album/68o6ZyxXi2hvjV0J3MwfDs) | 3:28 | 2025-05-13 |  |
+| [Mad Hope \(feat\. Louis Cole, Sam Gendel, Sam Wilkes\)](https://open.spotify.com/track/1sbgtxMmPxua3m0H2Gc1P1) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs), [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH), [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk), [Sam Wilkes](https://open.spotify.com/artist/6Xo1vXFRCEJPgVqCyHlTPW) | [Gen](https://open.spotify.com/album/68o6ZyxXi2hvjV0J3MwfDs) | 3:28 | 2025-05-13 | 2025-05-30 |
 | [Made him cry](https://open.spotify.com/track/1oCRbUky5RypOeKKAKCRBS) | [Aisho Nakajima](https://open.spotify.com/artist/73TJEwnZTYd2p0qRbn2Pi3) | [Made him cry](https://open.spotify.com/album/1edNAj94b5QsfldraHrJnb) | 2:50 | 2024-04-12 | 2024-04-19 |
 | [Made him cry](https://open.spotify.com/track/3U5ID8XObI90bi4EIvGQ5Y) | [Aisho Nakajima](https://open.spotify.com/artist/73TJEwnZTYd2p0qRbn2Pi3) | [Made him cry](https://open.spotify.com/album/5GFe4zpqYQ3UCnH2IvBjnV) | 2:50 | 2024-04-16 | 2024-05-15 |
 | [Madoromi](https://open.spotify.com/track/7H8fkWbpfyggT5xpWAIr0d) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Madoromi](https://open.spotify.com/album/0Gw3Ag34k3rrQKQE7onPfB) | 4:23 | 2023-10-05 | 2023-10-18 |
@@ -1592,6 +1592,7 @@
 | [窓](https://open.spotify.com/track/1kSI2K7ziJRvqqv1pOwJC8) | [The World Will Tear Us Apart](https://open.spotify.com/artist/1GS838TTVSArwgjWcidfYV) | [窓/深呼吸](https://open.spotify.com/album/1ZI5gjnYMMz0wdbVMA1Ssb) | 4:26 | 2023-01-17 | 2023-01-25 |
 | [笑い話の夜 \- album ver.](https://open.spotify.com/track/2x953wBThParvOKoGF0XBR) | [OYAT](https://open.spotify.com/artist/0btudUX9PgqqXZuRtdjpSh) | [笑い話の夜](https://open.spotify.com/album/12yN9ReJFF180pEX2IjEZY) | 4:40 | 2023-07-04 | 2023-08-04 |
 | [紫陽花](https://open.spotify.com/track/2ektCq0B2HZyL38eRbI70W) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [紫陽花](https://open.spotify.com/album/0ZPqvRK7rjSwPTPNbAcEjY) | 3:51 | 2025-04-13 |  |
+| [絵画](https://open.spotify.com/track/5aOOHwpcSGL9gHc5dEv6wg) | [大森元貴](https://open.spotify.com/artist/4gwWRJBdufvMEHUuyjBDOs) | [絵画 / こたえあわせ](https://open.spotify.com/album/2bvMqLZrtpJ3tLbOTLSzUJ) | 4:10 | 2025-05-28 |  |
 | [続・New York City](https://open.spotify.com/track/0SEtY9Z4GWq9i0sNyIttFA) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [続・New York City](https://open.spotify.com/album/2YGIs4EQXhDL9R9D1lz3WZ) | 4:42 | 2022-10-04 | 2022-10-28 |
 | [続・革命前夜](https://open.spotify.com/track/2osm196jE2UjFkwkwvVPTu) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [from JAPAN 3](https://open.spotify.com/album/1rgfecWGctA7ett2HdShmx) | 4:31 | 2022-10-11 | 2023-01-18 |
 | [綺羅キラー](https://open.spotify.com/track/2ZaTpgdhU8MKpiujnBGPoa) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj), [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [綺羅キラー](https://open.spotify.com/album/24HE9Q8LrZupbkTmux0U9O) | 4:13 | 2022-12-15 | 2023-06-07 |

@@ -1,6 +1,6 @@
 {
   "description": "We like it like that! Cover: Pete Rodriguez",
-  "num_followers": 93198,
+  "num_followers": 93225,
   "original_name": "Boogaloo Essentials",
   "owner": {
     "name": "Spotify",
@@ -623,6 +623,22 @@
     {
       "added_at": "2024-07-18 20:57:58",
       "album": {
+        "name": "Joe Bataan Anthology",
+        "url": "https://open.spotify.com/album/4WdHyWjaXFd1dLFb6BlEPv"
+      },
+      "artists": [
+        {
+          "name": "Joe Bataan",
+          "url": "https://open.spotify.com/artist/7ME0heqob2B32S9ofWhOyU"
+        }
+      ],
+      "duration_ms": 246173,
+      "name": "Gypsy Woman",
+      "url": "https://open.spotify.com/track/2cTqYG1rtwmpiXvhIuTQFY"
+    },
+    {
+      "added_at": "2024-07-18 20:57:58",
+      "album": {
         "name": "Pachanguerisimo, Vol. 1",
         "url": "https://open.spotify.com/album/5w4x5TGsS6ZdHYVgGOZgBq"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 218346,
       "name": "Arrecotin Arrecotan",
       "url": "https://open.spotify.com/track/0Fhj9gmYf0BR5aHI2TPhfU"
-    },
-    {
-      "added_at": "2024-07-18 20:57:58",
-      "album": {
-        "name": "Joe Bataan Anthology",
-        "url": "https://open.spotify.com/album/4WdHyWjaXFd1dLFb6BlEPv"
-      },
-      "artists": [
-        {
-          "name": "Joe Bataan",
-          "url": "https://open.spotify.com/artist/7ME0heqob2B32S9ofWhOyU"
-        }
-      ],
-      "duration_ms": 246173,
-      "name": "Gypsy Woman",
-      "url": "https://open.spotify.com/track/2cTqYG1rtwmpiXvhIuTQFY"
     },
     {
       "added_at": "2024-07-18 20:57:58",

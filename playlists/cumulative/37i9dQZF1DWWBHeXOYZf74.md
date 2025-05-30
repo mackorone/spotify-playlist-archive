@@ -4,7 +4,7 @@
 
 > Genre\-less\. Quality first always\. Cover: rusowsky
 
-3,001 songs - 6 day 23 hr 51 min
+3,002 songs - 6 day 23 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2029,6 +2029,7 @@
 | [Pet Rock](https://open.spotify.com/track/3rmTtAIJydBOPohvykKubn) | [L'Rain](https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn) | [Pet Rock](https://open.spotify.com/album/6OhhcYS7IB3M7gtNucP8Iz) | 2:45 | 2023-08-25 | 2023-10-17 |
 | [Pet Rock](https://open.spotify.com/track/6WEsHmNIZIza01qGJNvjc3) | [L'Rain](https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn) | [I Killed Your Dog](https://open.spotify.com/album/2O01P3dwp47dyImCnTdfyo) | 2:45 | 2023-08-25 | 2023-10-21 |
 | [Petrified](https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:17 | 2022-04-08 | 2022-06-25 |
+| [Petty Pete](https://open.spotify.com/track/3AoRetRPhYJ9dcBCXIXBD5) | [Liim](https://open.spotify.com/artist/4WBs3HlXxMAqo8Yi6m1PCM) | [Petty Pete](https://open.spotify.com/album/4Ofb1xAGY7BRXi5CCcWNg1) | 2:40 | 2025-05-29 |  |
 | [Pfizer](https://open.spotify.com/track/4T1pEFUMRcp383kBMkrEv8) | [Gabriel Sayer](https://open.spotify.com/artist/1YvGXgPvmPL6Iq3FiTkr5b) | [Pfizer](https://open.spotify.com/album/6rYgAwiwVBz8RK2xmTFyVP) | 3:06 | 2021-07-02 | 2021-10-07 |
 | [pg baby](https://open.spotify.com/track/2qfPBPq9BEVEd1GF4UH96H) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [learn 2 swim](https://open.spotify.com/album/6UMelDEJAzDUlgUi9VxPFf) | 2:36 | 2022-04-22 | 2022-08-27 |
 | [Phoenix](https://open.spotify.com/track/4SDtLLn8LmbOStJeL9Vhkk) | [Lord Apex](https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Phoenix](https://open.spotify.com/album/3Vjb7MVaReVbjw4yXbMp5j) | 3:33 | 2023-10-13 | 2024-01-27 |

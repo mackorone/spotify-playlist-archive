@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZA4G4jVRXy.md) - [plain]
 
 > Pour yourself a mai tai 🍹 and festoon yourself with lei 🌺, welcome to the Hawaiian party! 🌴🥭🎉
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,244 likes - 76 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,250 likes - 76 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZA4G4jVRXy.md) - [plain]
 | 8 | [Misirlou \- Remastered 1995](https://open.spotify.com/track/4XEthz8GA0yZ6hPwwSqwQg) | [Martin Denny](https://open.spotify.com/artist/3D9J9nPNW1cBktx5apJq4V) | [Best Of Martin Denny's Exotica](https://open.spotify.com/album/2mdidQxbJ3iT8TDNbV5OJ5) | 2:38 |
 | 9 | [Sunset on the Kona Kai](https://open.spotify.com/track/60YSnSjVaDXc1QmGzMtbEu) | [The Tikiyaki Orchestra](https://open.spotify.com/artist/7kJPKUUnHCennOOEBxjidx) | [Swingin' sounds for the Jungle Jetset !](https://open.spotify.com/album/4gI81mkI8rD1z4zjW5RENc) | 3:40 |
 | 10 | [Alika](https://open.spotify.com/track/5VUZ3kwdQHr9rMVkJot15R) | [Genoa Keawe](https://open.spotify.com/artist/3TOhHfwiR2xQYQFph79xOy) | [Hana Hou! Vol\. 1](https://open.spotify.com/album/2LSvzyw8Xt2r11gsaSfPVt) | 4:36 |
-| 11 | [Taboo Tu](https://open.spotify.com/track/7tmHTrXjolQZbD0qxLWn9Y) | [Arthur Lyman](https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln) | [Taboo 2: New Exotic Sounds of Arthur Lyman](https://open.spotify.com/album/4QQrUheyVPgbSgnW3QCh5T) | 2:08 |
-| 12 | [Chant Of The Moon](https://open.spotify.com/track/6j46ude4neMZMiEagbYkie) | [Robert Drasnin](https://open.spotify.com/artist/4lWj8PHjMEv0e2SZ7j1ZE4) | [Voodoo!](https://open.spotify.com/album/6SnfMkaU2WAvBmmiFpz892) | 2:33 |
+| 11 | [Chant Of The Moon](https://open.spotify.com/track/6j46ude4neMZMiEagbYkie) | [Robert Drasnin](https://open.spotify.com/artist/4lWj8PHjMEv0e2SZ7j1ZE4) | [Voodoo!](https://open.spotify.com/album/6SnfMkaU2WAvBmmiFpz892) | 2:33 |
+| 12 | [Taboo Tu](https://open.spotify.com/track/7tmHTrXjolQZbD0qxLWn9Y) | [Arthur Lyman](https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln) | [Taboo 2: New Exotic Sounds of Arthur Lyman](https://open.spotify.com/album/4QQrUheyVPgbSgnW3QCh5T) | 2:08 |
 | 13 | [Fruit Of Dreams](https://open.spotify.com/track/67hlixuKYLcIbUAge2iVqe) | [Les Baxter](https://open.spotify.com/artist/35pV6EUbherudlvAftoueR) | [The Sacred Idol](https://open.spotify.com/album/3hkdLz234t91jRZrwCo55M) | 2:31 |
 | 14 | [Ahulili](https://open.spotify.com/track/5SmWyYdkX14Oj80WlRHnKY) | [Raiatea Helm](https://open.spotify.com/artist/3OmAmym7dLlhFhpAYt3bNC) | [Hawaiian Blossom](https://open.spotify.com/album/49HLATxWXEGjWyRHEIhrij) | 3:06 |
 | 15 | [Nani Wale Ka Lau Oliva](https://open.spotify.com/track/6GLfF4lksULpecQMFMy3lU) | [Benitez, Darren](https://open.spotify.com/artist/1ZmCUwq9iEoBTFE9unlWTI) | [Dear Mama](https://open.spotify.com/album/1Zqt9Q1iqeRLPZBFHiMGmn) | 5:07 |
@@ -78,11 +78,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZA4G4jVRXy.md) - [plain]
 | 68 | [Kawohikukapulani](https://open.spotify.com/track/2t5nydEEeYdsi2hR33TRjx) | [Arthur Lyman](https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln) | [Hawaiian Sunset](https://open.spotify.com/album/0krfVkBvqQxmQXAXOFeuwg) | 2:26 |
 | 69 | [I Kona](https://open.spotify.com/track/5rexglBxLZ18rUnHha32Xy) | [Dennis Pavao](https://open.spotify.com/artist/0cjSMcAplLjxMqkXD6xWSX) | [The Golden Voice of Hawai'i, Vol\. 1](https://open.spotify.com/album/6c13l06xAppZ30jLRHp0N1) | 3:35 |
 | 70 | [When It's Time to Go](https://open.spotify.com/track/7cENS3IEG7zkmRgwtXg7Cs) | [Buddy Fo & His Group](https://open.spotify.com/artist/66ExVD8110Lx5DbCVoJcNI) | [When It's Time to Go](https://open.spotify.com/album/12U7NpnNfc1XbMxDkndmqd) | 2:43 |
-| 71 | [Yellow Bird](https://open.spotify.com/track/3KOC0porpfAeFFYuA4d73z) | [Arthur Lyman](https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln) | [Yellow Bird](https://open.spotify.com/album/20MWtXQ8eH0hgOi8Sf7KyX) | 2:44 |
-| 72 | [Lolita Ya Ya](https://open.spotify.com/track/6kAC0ln9itn3TXFZHeEMyg) | [Nelson Riddle](https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb) | [Lolita: Original Motion Picture Soundtrack](https://open.spotify.com/album/5Rw1VdeWqxgAfiqC6dk61q) | 3:23 |
-| 73 | [Lust](https://open.spotify.com/track/3UbYI0HPdoJJlZHsjx6yE4) | [Bas Sheva](https://open.spotify.com/artist/2754ZKfUBzGnAsiA2gYoxP) | [Lisbon Antigua \(One Mint Julep Lounge 1953 \- 1956\)](https://open.spotify.com/album/25tMpbJhW0vuldZbQ1tjpS) | 2:59 |
+| 71 | [Lolita Ya Ya](https://open.spotify.com/track/6kAC0ln9itn3TXFZHeEMyg) | [Nelson Riddle](https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb) | [Lolita: Original Motion Picture Soundtrack](https://open.spotify.com/album/5Rw1VdeWqxgAfiqC6dk61q) | 3:23 |
+| 72 | [Jivaro](https://open.spotify.com/track/1pP9JVGU5jKP7sWah8ROPx) | [Yma Sumac](https://open.spotify.com/artist/1HkQ4XrPffqcVW0TgTTw0d) | [Yma Sumac \- Story Of The Jivaro Vol\. 1](https://open.spotify.com/album/4HKVsoMLahluq4lxl3VMKb) | 2:55 |
+| 73 | [Yellow Bird](https://open.spotify.com/track/3KOC0porpfAeFFYuA4d73z) | [Arthur Lyman](https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln) | [Yellow Bird](https://open.spotify.com/album/20MWtXQ8eH0hgOi8Sf7KyX) | 2:44 |
 | 74 | [Hanalei Moon](https://open.spotify.com/track/0THpBIexGSqkHkvkyk51CJ) | [Dennis Pavao](https://open.spotify.com/artist/0cjSMcAplLjxMqkXD6xWSX) | [The Golden Voice of Hawai'i, Vol\. 1](https://open.spotify.com/album/6c13l06xAppZ30jLRHp0N1) | 4:35 |
-| 75 | [Jivaro](https://open.spotify.com/track/1pP9JVGU5jKP7sWah8ROPx) | [Yma Sumac](https://open.spotify.com/artist/1HkQ4XrPffqcVW0TgTTw0d) | [Yma Sumac \- Story Of The Jivaro Vol\. 1](https://open.spotify.com/album/4HKVsoMLahluq4lxl3VMKb) | 2:55 |
+| 75 | [Lust](https://open.spotify.com/track/3UbYI0HPdoJJlZHsjx6yE4) | [Bas Sheva](https://open.spotify.com/artist/2754ZKfUBzGnAsiA2gYoxP) | [Lisbon Antigua \(One Mint Julep Lounge 1953 \- 1956\)](https://open.spotify.com/album/25tMpbJhW0vuldZbQ1tjpS) | 2:59 |
 | 76 | [Hilawe](https://open.spotify.com/track/3JfdX5DBjXvMdQd55Ipq4s) | [Arthur Lyman](https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln) | [Hawaiian Sunset](https://open.spotify.com/album/0krfVkBvqQxmQXAXOFeuwg) | 1:11 |
 
 Snapshot ID: `ZicXmQAAAAA2IHoAq3S2pkTTkOaR/xob`

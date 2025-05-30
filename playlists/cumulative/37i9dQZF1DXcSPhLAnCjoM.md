@@ -2,9 +2,9 @@
 
 ### [Grand Hit](https://open.spotify.com/playlist/37i9dQZF1DXcSPhLAnCjoM)
 
-> "Ma faute" de Marine est le Grand Hit de la semaine.
+> "Me Enamore" de RIDSA est le Grand Hit de la semaine.
 
-251 songs - 12 hr 53 min
+252 songs - 12 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Au bout de mes rêves](https://open.spotify.com/track/0gtCHxyATWVLvcUhq8eL2f) | [Star Academy](https://open.spotify.com/artist/0SkR0pnP9oQ3ghG9juH9hy) | [Au bout de mes rêves](https://open.spotify.com/album/4T8LsKgQuZqucNNf7GbBw8) | 2:50 | 2023-12-07 | 2024-04-19 |
 | [Avant Elle](https://open.spotify.com/track/313L5l9abg2UJMq0FRccMD) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Aliocha Schneider](https://open.spotify.com/album/5wSrUAHl9x25A4w0wXpJLO) | 3:20 | 2023-11-09 | 2023-12-09 |
 | [Avec ou sans](https://open.spotify.com/track/2WZci6zfzEeVg7kjeRT1RH) | [Jérémy Frerot](https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK) | [Gamin des sables](https://open.spotify.com/album/3PxgtcdYshpXCtNAfBQHdW) | 2:52 | 2025-04-17 |  |
-| [BABY](https://open.spotify.com/track/0sr5S46jQiCSeORc5ui0jo) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [BABY](https://open.spotify.com/album/7HYln20CyYW9VRDb2uASTp) | 2:35 | 2025-02-27 |  |
+| [BABY](https://open.spotify.com/track/0sr5S46jQiCSeORc5ui0jo) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [BABY](https://open.spotify.com/album/7HYln20CyYW9VRDb2uASTp) | 2:35 | 2025-02-27 | 2025-05-30 |
 | [Bande organisée](https://open.spotify.com/track/1vZ9zAIQ9cB386y0E6jcxg) | [Vernis Rouge](https://open.spotify.com/artist/6Miu2EYSCD74K7VzDYostC) | [Bande organisée](https://open.spotify.com/album/2x4sU3PRr3kh5IvwaxiXNQ) | 2:07 | 2024-03-21 | 2024-04-19 |
 | [Bande organisée](https://open.spotify.com/track/5lOvw1rwphudYBZssRXJPO) | [Vernis Rouge](https://open.spotify.com/artist/6Miu2EYSCD74K7VzDYostC) | [Bande organisée](https://open.spotify.com/album/1EqBkCvjB9r5dwC21tKOU6) | 2:07 | 2024-03-21 | 2024-08-23 |
 | [Beau \(feat\. Julien Doré\)](https://open.spotify.com/track/7xZrirKz1fymGxGVPtRRRk) | [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI), [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [Miroirs](https://open.spotify.com/album/5y08xFNtrldDoRVDAH30Uu) | 2:56 | 2024-01-11 | 2024-11-08 |
@@ -197,6 +197,7 @@
 | [Parapluie](https://open.spotify.com/track/4CkbzYcdIRJhrA9tzwFj0B) | [Jeck](https://open.spotify.com/artist/1kvygchIwU4XHXY8xD6ugf) | [Parapluie](https://open.spotify.com/album/1iA5D7sBXDGAITkSWPIqDF) | 2:56 | 2023-09-28 | 2024-06-07 |
 | [Parce que c'est toi](https://open.spotify.com/track/3NUWfWIcH0V9tSEgjYjnEh) | [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ) | [Parce que c'est toi](https://open.spotify.com/album/4U5QfkHKfVZ3aQU0Z3Veb3) | 2:50 | 2023-09-28 | 2023-11-11 |
 | [Pardonne\-moi](https://open.spotify.com/track/7e9St8J2mT2Y7peHokbQRY) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Pardonne\-moi](https://open.spotify.com/album/53PJ9MPRmz9TJaVdzUXiO9) | 3:07 | 2023-09-28 | 2024-03-15 |
+| [Partir un jour](https://open.spotify.com/track/1QG5eDtayEWVHGOTBdupkU) | [Juliette Armanet](https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa) | [Partir un jour](https://open.spotify.com/album/7FMjqci1hqh973l85VoQYf) | 3:32 | 2025-05-29 |  |
 | [Pays des merveilles](https://open.spotify.com/track/5lph5Ohom4uGk7pQDyLPJB) | [Christophe Maé](https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z), [CEUZANY](https://open.spotify.com/artist/5AYXYNFAvk8uUmCa5FDe7L) | [Pays des merveilles](https://open.spotify.com/album/43YnMTktKT5nEJoC5W5XXC) | 3:26 | 2023-09-28 | 2023-11-11 |
 | [Petit Frère](https://open.spotify.com/track/0iQ5nlzoc9DlHPoIpnznZG) | [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI) | [Miroirs \(Edition deluxe\)](https://open.spotify.com/album/04A7mKLEyi4mTTDPM9obKL) | 2:41 | 2025-03-06 |  |
 | [Piano Piano](https://open.spotify.com/track/1SUiLWeJFzuDYo7VzendQV) | [RIDSA](https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es) | [Piano Piano](https://open.spotify.com/album/3Yqa5kICCgL2aqthuXn78F) | 2:24 | 2024-03-21 | 2024-05-24 |

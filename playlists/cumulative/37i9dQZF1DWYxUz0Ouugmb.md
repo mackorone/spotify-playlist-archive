@@ -2,9 +2,9 @@
 
 ### [RADAR Indonesia ](https://open.spotify.com/playlist/37i9dQZF1DWYxUz0Ouugmb)
 
-> Deretan musisi dalam negeri yang patut diantisipasi\.  Cover: Rafi Sudirman
+> Deretan musisi dalam negeri yang patut diantisipasi\.  Cover: Adikara
 
-275 songs - 17 hr 51 min
+276 songs - 17 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Kebal Kelaran](https://open.spotify.com/track/6TcBc2Bs6PGYIl1oJMbzMR) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Kebal Kelaran](https://open.spotify.com/album/0C4eIv3pgBnMJFrhcj8bt5) | 4:34 | 2021-11-25 | 2022-03-25 |
 | [Kecelakaan Hati \(From "Pernikahan Dini"\)](https://open.spotify.com/track/1vL7kVmRlhzE7peOF7TjAK) | [Ashira Zamita](https://open.spotify.com/artist/7u6zt5ZVx1yiUWbCzCyD2l) | [Kecelakaan Hati \(From "Pernikahan Dini"\)](https://open.spotify.com/album/1KA3RF3nWxTg2OpXcjsdn1) | 4:38 | 2024-03-29 | 2025-04-16 |
 | [Kelangan](https://open.spotify.com/track/30B1PUSsLPT9hQrNnAPh3C) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Kelangan](https://open.spotify.com/album/7fGMY8J1COdJaOjfiJi3oO) | 4:54 | 2021-11-25 | 2022-03-25 |
+| [Kembali](https://open.spotify.com/track/212IXh4olT2VzhkTkR941u) | [Adikara](https://open.spotify.com/artist/4g69iZz2nk9El5Zf3ttiBN) | [Klise](https://open.spotify.com/album/3py2U2L6UzHMMEoVuu8cD6) | 4:42 | 2025-05-29 |  |
 | [Kisah Kasih Di Sekolah](https://open.spotify.com/track/7BrOAEtCjD5cHXLLykPCqV) | [Reybong](https://open.spotify.com/artist/6kthu3bnrZuU7G1VLmRWF5) | [Kisah Kasih Di Sekolah](https://open.spotify.com/album/0uT4pw1USlXFDKeWyFfxLC) | 4:03 | 2022-06-16 | 2023-04-14 |
 | [Kisah Tanpa Dirimu](https://open.spotify.com/track/3ptRODxVj328j6TnW33Zj3) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Kisah Tanpa Dirimu](https://open.spotify.com/album/3n3wxffHONB1v1idVCoMcK) | 4:17 | 2024-03-29 | 2025-04-16 |
 | [Kisah Yang Lain](https://open.spotify.com/track/7ewBrAZeVLIZkGgrEbR0az) | [Anggi Marito](https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx) | [Kisah Yang Lain](https://open.spotify.com/album/1EeGQqYpr6ephrrwkD42Ss) | 4:02 | 2024-02-15 | 2024-03-29 |

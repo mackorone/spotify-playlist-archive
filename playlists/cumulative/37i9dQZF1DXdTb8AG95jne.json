@@ -3537,6 +3537,24 @@
     },
     {
       "album": {
+        "name": "Double Trouble (Remix)",
+        "url": "https://open.spotify.com/album/3ylXCMrMzkXt5mVkZYw67P"
+      },
+      "artists": [
+        {
+          "name": "KIM PUREUM",
+          "url": "https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ"
+        }
+      ],
+      "date_added": "2025-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Double Trouble (Remix)",
+      "url": "https://open.spotify.com/track/2TeevnrPlJfYfyJtSjK1mB"
+    },
+    {
+      "album": {
         "name": "MY ONLY 1 (Original Soundtrack from the WEBTOON)",
         "url": "https://open.spotify.com/album/26kWAzpUA7EQyimA0Fxbqx"
       },
@@ -5622,7 +5640,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 251349,
       "name": "Goodbye blue days",
       "url": "https://open.spotify.com/track/1al6pYbDVgvWgfQAWVOFe6"

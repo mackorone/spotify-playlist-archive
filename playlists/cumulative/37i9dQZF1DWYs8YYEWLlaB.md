@@ -2,7 +2,7 @@
 
 ### [trend 2025](https://open.spotify.com/playlist/37i9dQZF1DWYs8YYEWLlaB)
 
-> viral, trend ve yükselenler\.  Kapak: SNOW x Murat Boz x Era7capone
+> viral, trend ve yükselenler\.  Kapak: Velet
 
 165 songs - 8 hr 39 min
 

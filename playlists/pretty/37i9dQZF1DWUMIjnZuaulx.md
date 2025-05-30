@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > Spread the Good News with the best Gospel songs of the moment\. Cover: Jovonta Patton
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,051 likes - 98 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,079 likes - 98 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

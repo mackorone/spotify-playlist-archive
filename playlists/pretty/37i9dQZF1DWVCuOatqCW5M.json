@@ -1,13 +1,141 @@
 {
-  "description": "Latest music from Savera, Jubin Nautiyal and more. ",
-  "num_followers": 74186,
+  "description": "Latest music from Aastha Gill, Arjun Kanungo and more. ",
+  "num_followers": 74219,
   "original_name": "New Music Friday I-Pop ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDAocAAAAABEC9bDQg1ktuQvdQliPoHE",
+  "snapshot_id": "aDjv4gAAAAAEuB4jm3k5mZpxFnF1Sy7X",
   "tracks": [
+    {
+      "added_at": "2025-05-29 23:38:10",
+      "album": {
+        "name": "Paapi",
+        "url": "https://open.spotify.com/album/4KxNZnfb4MsKVJGJDw38Zp"
+      },
+      "artists": [
+        {
+          "name": "Aastha Gill",
+          "url": "https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ"
+        },
+        {
+          "name": "Puri",
+          "url": "https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Paapi",
+      "url": "https://open.spotify.com/track/2YQcdg36Rv2jRFcccORcv9"
+    },
+    {
+      "added_at": "2025-05-29 23:38:10",
+      "album": {
+        "name": "Naqsh",
+        "url": "https://open.spotify.com/album/49BJo3IkDWCsqLjgmESHq3"
+      },
+      "artists": [
+        {
+          "name": "Arjun Kanungo",
+          "url": "https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa"
+        },
+        {
+          "name": "IP Singh",
+          "url": "https://open.spotify.com/artist/7pauOFC9bRqioSX30AvNkG"
+        },
+        {
+          "name": "Madhubanti Bagchi",
+          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "Naqsh",
+      "url": "https://open.spotify.com/track/0IweQc1ixEuXbAbf0kPquN"
+    },
+    {
+      "added_at": "2025-05-29 23:38:10",
+      "album": {
+        "name": "Aaja Re Piya",
+        "url": "https://open.spotify.com/album/5K2vhUlWbAmEderibpnVA2"
+      },
+      "artists": [
+        {
+          "name": "Saaj Bhatt",
+          "url": "https://open.spotify.com/artist/5X6ShVeOR0RNA0QLpFksuj"
+        },
+        {
+          "name": "Priyanshi Srivastava",
+          "url": "https://open.spotify.com/artist/1Vt7a0YpqiUoIcWnIiLXMo"
+        }
+      ],
+      "duration_ms": 206511,
+      "name": "Aaja Re Piya",
+      "url": "https://open.spotify.com/track/6Ezy91iJO0zhaVn9fl5gUX"
+    },
+    {
+      "added_at": "2025-05-29 23:38:10",
+      "album": {
+        "name": "Pehli Dafa",
+        "url": "https://open.spotify.com/album/5HZAZEHZqPojFp1UwXRzN6"
+      },
+      "artists": [
+        {
+          "name": "Shraddha Pandit",
+          "url": "https://open.spotify.com/artist/4rhk6lDh2srdV1a1qmIqGa"
+        },
+        {
+          "name": "Keshav Anand",
+          "url": "https://open.spotify.com/artist/7LkdtgIhOIz0JRoigs3O3K"
+        }
+      ],
+      "duration_ms": 214535,
+      "name": "Pehli Dafa",
+      "url": "https://open.spotify.com/track/3atTMfK2NxUgyqahq81jK8"
+    },
+    {
+      "added_at": "2025-05-29 23:38:10",
+      "album": {
+        "name": "Baahon Mein",
+        "url": "https://open.spotify.com/album/5zagTmorb38L6TwaVyE4Ff"
+      },
+      "artists": [
+        {
+          "name": "Manish S Sharmaa",
+          "url": "https://open.spotify.com/artist/7hSx1zOb96vEwJNcG7mUiY"
+        },
+        {
+          "name": "Anmol Daniel",
+          "url": "https://open.spotify.com/artist/0kcv0RnAZxw2dnUwq7bz9h"
+        }
+      ],
+      "duration_ms": 193695,
+      "name": "Baahon Mein",
+      "url": "https://open.spotify.com/track/17CteCRn40IfzafbH5R5ho"
+    },
+    {
+      "added_at": "2025-05-29 23:38:10",
+      "album": {
+        "name": "Nindiya",
+        "url": "https://open.spotify.com/album/1BiZlRhVoqGgRDrE9fI9Am"
+      },
+      "artists": [
+        {
+          "name": "Parth Srivastava",
+          "url": "https://open.spotify.com/artist/5xioqWZGO4JrB9daKgcreI"
+        },
+        {
+          "name": "Richa Sharma",
+          "url": "https://open.spotify.com/artist/2hgViyN0RqyQQpfjIb0g3W"
+        },
+        {
+          "name": "Garvit Soni",
+          "url": "https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH"
+        }
+      ],
+      "duration_ms": 209750,
+      "name": "Nindiya",
+      "url": "https://open.spotify.com/track/6N3eNNJ0keMMr3rSUgQPAA"
+    },
     {
       "added_at": "2025-05-23 07:49:04",
       "album": {
@@ -73,24 +201,20 @@
       "url": "https://open.spotify.com/track/6fiUepvZzEWr1U1x1lWeVs"
     },
     {
-      "added_at": "2025-05-23 07:49:04",
+      "added_at": "2025-05-29 23:38:10",
       "album": {
-        "name": "Kaisi Hoti Hogi",
-        "url": "https://open.spotify.com/album/1f5wpnc9LS968oPZpKbmS5"
+        "name": "Daayre",
+        "url": "https://open.spotify.com/album/789v0rtpfrVoC5VrZQfDPz"
       },
       "artists": [
         {
-          "name": "Krsna Solo",
-          "url": "https://open.spotify.com/artist/1fn1zda146dVI8wNdqi9l6"
-        },
-        {
-          "name": "Prabhjee Kaur",
-          "url": "https://open.spotify.com/artist/4eCQSJiqQytxz4IJx0I7Bt"
+          "name": "Saaj Bhatt",
+          "url": "https://open.spotify.com/artist/5X6ShVeOR0RNA0QLpFksuj"
         }
       ],
-      "duration_ms": 236800,
-      "name": "Kaisi Hoti Hogi",
-      "url": "https://open.spotify.com/track/1kCoZBd8RpdxUANVMuxvOY"
+      "duration_ms": 174915,
+      "name": "Daayre",
+      "url": "https://open.spotify.com/track/0cqu6axkhu8BMZuAs6afD6"
     },
     {
       "added_at": "2025-05-23 07:49:04",
@@ -199,6 +323,26 @@
       "duration_ms": 276281,
       "name": "Jaaniya",
       "url": "https://open.spotify.com/track/5dsF6MLU1w4tBvQiivZC9X"
+    },
+    {
+      "added_at": "2025-05-23 07:49:04",
+      "album": {
+        "name": "Kaisi Hoti Hogi",
+        "url": "https://open.spotify.com/album/1f5wpnc9LS968oPZpKbmS5"
+      },
+      "artists": [
+        {
+          "name": "Krsna Solo",
+          "url": "https://open.spotify.com/artist/1fn1zda146dVI8wNdqi9l6"
+        },
+        {
+          "name": "Prabhjee Kaur",
+          "url": "https://open.spotify.com/artist/4eCQSJiqQytxz4IJx0I7Bt"
+        }
+      ],
+      "duration_ms": 236800,
+      "name": "Kaisi Hoti Hogi",
+      "url": "https://open.spotify.com/track/1kCoZBd8RpdxUANVMuxvOY"
     },
     {
       "added_at": "2025-05-23 07:49:04",

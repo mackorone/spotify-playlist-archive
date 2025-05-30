@@ -1,6 +1,6 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Sierra Hull",
-  "num_followers": 166068,
+  "num_followers": 166077,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
@@ -247,38 +247,6 @@
     {
       "added_at": "2025-04-18 04:00:47",
       "album": {
-        "name": "The New Modern Hymns",
-        "url": "https://open.spotify.com/album/1ISROKpFtAn78QEb5WTJvC"
-      },
-      "artists": [
-        {
-          "name": "Darrell Scott",
-          "url": "https://open.spotify.com/artist/1qMgGon16RoDAfujk41Em0"
-        }
-      ],
-      "duration_ms": 226901,
-      "name": "American Tune",
-      "url": "https://open.spotify.com/track/6y7lQfGN3tfNyZT0Yi8V2m"
-    },
-    {
-      "added_at": "2025-04-18 04:00:47",
-      "album": {
-        "name": "Introducing Clay Street Unit",
-        "url": "https://open.spotify.com/album/07N5EEHNLkQWBYXeZXAz8Y"
-      },
-      "artists": [
-        {
-          "name": "Clay Street Unit",
-          "url": "https://open.spotify.com/artist/0HmpQ609wnu7isR6i96CWb"
-        }
-      ],
-      "duration_ms": 260893,
-      "name": "Tired of Being Tired",
-      "url": "https://open.spotify.com/track/6U6h6f5bl2rxh7exJWLsIN"
-    },
-    {
-      "added_at": "2025-04-18 04:00:47",
-      "album": {
         "name": "Wake Me When It's Over",
         "url": "https://open.spotify.com/album/0TagfK04olSVvnfHtWbhJz"
       },
@@ -303,6 +271,38 @@
       "duration_ms": 258393,
       "name": "Wake Me When It's Over",
       "url": "https://open.spotify.com/track/0J10lTnQV1rosvX0jYYX5J"
+    },
+    {
+      "added_at": "2025-04-18 04:00:47",
+      "album": {
+        "name": "Introducing Clay Street Unit",
+        "url": "https://open.spotify.com/album/07N5EEHNLkQWBYXeZXAz8Y"
+      },
+      "artists": [
+        {
+          "name": "Clay Street Unit",
+          "url": "https://open.spotify.com/artist/0HmpQ609wnu7isR6i96CWb"
+        }
+      ],
+      "duration_ms": 260893,
+      "name": "Tired of Being Tired",
+      "url": "https://open.spotify.com/track/6U6h6f5bl2rxh7exJWLsIN"
+    },
+    {
+      "added_at": "2025-04-18 04:00:47",
+      "album": {
+        "name": "The New Modern Hymns",
+        "url": "https://open.spotify.com/album/1ISROKpFtAn78QEb5WTJvC"
+      },
+      "artists": [
+        {
+          "name": "Darrell Scott",
+          "url": "https://open.spotify.com/artist/1qMgGon16RoDAfujk41Em0"
+        }
+      ],
+      "duration_ms": 226901,
+      "name": "American Tune",
+      "url": "https://open.spotify.com/track/6y7lQfGN3tfNyZT0Yi8V2m"
     },
     {
       "added_at": "2025-04-18 04:00:47",
@@ -771,6 +771,22 @@
     {
       "added_at": "2025-04-18 04:00:47",
       "album": {
+        "name": "Knee Deep in Bluegrass",
+        "url": "https://open.spotify.com/album/1DwPW07YVEUjtv6g3Q2lfC"
+      },
+      "artists": [
+        {
+          "name": "Ashby Frank",
+          "url": "https://open.spotify.com/artist/1Z3CpFgkHqQNA8F73CgkqT"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Knee Deep in Bluegrass",
+      "url": "https://open.spotify.com/track/1OUD7ceuWPD2DHFXly0voV"
+    },
+    {
+      "added_at": "2025-04-18 04:00:47",
+      "album": {
         "name": "Get Lost",
         "url": "https://open.spotify.com/album/0fKAf9b8w95vvx189vGbPM"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 267954,
       "name": "Get Lost",
       "url": "https://open.spotify.com/track/2xoQ9YNPQLEB4U0CluiqMF"
-    },
-    {
-      "added_at": "2025-04-18 04:00:47",
-      "album": {
-        "name": "Knee Deep in Bluegrass",
-        "url": "https://open.spotify.com/album/1DwPW07YVEUjtv6g3Q2lfC"
-      },
-      "artists": [
-        {
-          "name": "Ashby Frank",
-          "url": "https://open.spotify.com/artist/1Z3CpFgkHqQNA8F73CgkqT"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Knee Deep in Bluegrass",
-      "url": "https://open.spotify.com/track/1OUD7ceuWPD2DHFXly0voV"
     },
     {
       "added_at": "2025-04-18 04:00:47",
@@ -867,22 +867,6 @@
     {
       "added_at": "2025-04-18 04:00:47",
       "album": {
-        "name": "Squareneck Soul",
-        "url": "https://open.spotify.com/album/7xsg8EUd4x66zZbn8Z6hLY"
-      },
-      "artists": [
-        {
-          "name": "Andy Hall",
-          "url": "https://open.spotify.com/artist/0x6z63BgzxTjdYdTxytI0y"
-        }
-      ],
-      "duration_ms": 149346,
-      "name": "Squareneck Soul",
-      "url": "https://open.spotify.com/track/5CqfAkwqX8GmPHJB4J0i6Z"
-    },
-    {
-      "added_at": "2025-04-18 04:00:47",
-      "album": {
         "name": "Heading East to West Virginia",
         "url": "https://open.spotify.com/album/7LHuigW10cgAx81EuO2AVX"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 156536,
       "name": "Heading East to West Virginia",
       "url": "https://open.spotify.com/track/1UXOHhE9f2YG46Vj4p3xgr"
+    },
+    {
+      "added_at": "2025-04-18 04:00:47",
+      "album": {
+        "name": "Squareneck Soul",
+        "url": "https://open.spotify.com/album/7xsg8EUd4x66zZbn8Z6hLY"
+      },
+      "artists": [
+        {
+          "name": "Andy Hall",
+          "url": "https://open.spotify.com/artist/0x6z63BgzxTjdYdTxytI0y"
+        }
+      ],
+      "duration_ms": 149346,
+      "name": "Squareneck Soul",
+      "url": "https://open.spotify.com/track/5CqfAkwqX8GmPHJB4J0i6Z"
     },
     {
       "added_at": "2025-04-18 04:00:47",
@@ -1219,38 +1219,6 @@
     {
       "added_at": "2025-04-18 04:00:47",
       "album": {
-        "name": "Murmurations, Vol. 2",
-        "url": "https://open.spotify.com/album/3u64Gq2Pji5gdCKdCMcTsG"
-      },
-      "artists": [
-        {
-          "name": "Birds of Play",
-          "url": "https://open.spotify.com/artist/3GXu0jfY6YTUeqElGLv5kC"
-        }
-      ],
-      "duration_ms": 279506,
-      "name": "Sandhill Cranes",
-      "url": "https://open.spotify.com/track/56voaeBUVgb4inHaFJXSGz"
-    },
-    {
-      "added_at": "2025-04-18 04:00:47",
-      "album": {
-        "name": "Runaway Train",
-        "url": "https://open.spotify.com/album/1nbbNARDrBRmOD8vEgvEgT"
-      },
-      "artists": [
-        {
-          "name": "The Travelin' McCourys",
-          "url": "https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I"
-        }
-      ],
-      "duration_ms": 260493,
-      "name": "Runaway Train",
-      "url": "https://open.spotify.com/track/4d2JF1jbiEmOhZhSg9qFBN"
-    },
-    {
-      "added_at": "2025-04-18 04:00:47",
-      "album": {
         "name": "Jubilee",
         "url": "https://open.spotify.com/album/5sVC9YU9VdVhQhGxayUX0n"
       },
@@ -1283,6 +1251,38 @@
     {
       "added_at": "2025-04-18 04:00:47",
       "album": {
+        "name": "Runaway Train",
+        "url": "https://open.spotify.com/album/1nbbNARDrBRmOD8vEgvEgT"
+      },
+      "artists": [
+        {
+          "name": "The Travelin' McCourys",
+          "url": "https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I"
+        }
+      ],
+      "duration_ms": 260493,
+      "name": "Runaway Train",
+      "url": "https://open.spotify.com/track/4d2JF1jbiEmOhZhSg9qFBN"
+    },
+    {
+      "added_at": "2025-04-18 04:00:47",
+      "album": {
+        "name": "Murmurations, Vol. 2",
+        "url": "https://open.spotify.com/album/3u64Gq2Pji5gdCKdCMcTsG"
+      },
+      "artists": [
+        {
+          "name": "Birds of Play",
+          "url": "https://open.spotify.com/artist/3GXu0jfY6YTUeqElGLv5kC"
+        }
+      ],
+      "duration_ms": 279506,
+      "name": "Sandhill Cranes",
+      "url": "https://open.spotify.com/track/56voaeBUVgb4inHaFJXSGz"
+    },
+    {
+      "added_at": "2025-04-18 04:00:47",
+      "album": {
         "name": "This Sad Song (Single Version) [Live]",
         "url": "https://open.spotify.com/album/7iSdWGN9Q4U6zKeGDM9XuJ"
       },
@@ -1295,22 +1295,6 @@
       "duration_ms": 138534,
       "name": "This Sad Song (Single Version) [Live]",
       "url": "https://open.spotify.com/track/6YKGPjcii1mJRMaY1hWFGh"
-    },
-    {
-      "added_at": "2025-04-18 04:00:47",
-      "album": {
-        "name": "I Give You the Morning",
-        "url": "https://open.spotify.com/album/0ZmACyS8SVT3YehZTOk16z"
-      },
-      "artists": [
-        {
-          "name": "Claire Lynch",
-          "url": "https://open.spotify.com/artist/00eldNtAqcdLF9adKlyFZf"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "I Give You the Morning",
-      "url": "https://open.spotify.com/track/0pXMa6mbSeftiCPscNIybd"
     },
     {
       "added_at": "2025-04-18 04:00:47",
@@ -1335,18 +1319,18 @@
     {
       "added_at": "2025-04-18 04:00:47",
       "album": {
-        "name": "444",
-        "url": "https://open.spotify.com/album/66W5KTdHyd7pCtULDT6VLB"
+        "name": "I Give You the Morning",
+        "url": "https://open.spotify.com/album/0ZmACyS8SVT3YehZTOk16z"
       },
       "artists": [
         {
-          "name": "Wood Box Heroes",
-          "url": "https://open.spotify.com/artist/2ywJwGJPEbhirJb831dHtH"
+          "name": "Claire Lynch",
+          "url": "https://open.spotify.com/artist/00eldNtAqcdLF9adKlyFZf"
         }
       ],
-      "duration_ms": 172186,
-      "name": "Cross the Line",
-      "url": "https://open.spotify.com/track/5dv9FDaqpzYANipuHSfp6G"
+      "duration_ms": 191000,
+      "name": "I Give You the Morning",
+      "url": "https://open.spotify.com/track/0pXMa6mbSeftiCPscNIybd"
     },
     {
       "added_at": "2025-04-18 04:00:47",
@@ -1407,6 +1391,22 @@
     {
       "added_at": "2025-04-18 04:00:47",
       "album": {
+        "name": "444",
+        "url": "https://open.spotify.com/album/66W5KTdHyd7pCtULDT6VLB"
+      },
+      "artists": [
+        {
+          "name": "Wood Box Heroes",
+          "url": "https://open.spotify.com/artist/2ywJwGJPEbhirJb831dHtH"
+        }
+      ],
+      "duration_ms": 172186,
+      "name": "Cross the Line",
+      "url": "https://open.spotify.com/track/5dv9FDaqpzYANipuHSfp6G"
+    },
+    {
+      "added_at": "2025-04-18 04:00:47",
+      "album": {
         "name": "Heartbreak Train",
         "url": "https://open.spotify.com/album/3eUKVLMOhOOLvyvffz7vY0"
       },
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2025-04-18 04:00:47",
       "album": {
-        "name": "My Little Girl in Tennessee (Live)",
-        "url": "https://open.spotify.com/album/2KCEPrxG000PkTJy4GyUs5"
-      },
-      "artists": [
-        {
-          "name": "Water Tower",
-          "url": "https://open.spotify.com/artist/2Ljo9zBf5ot9mZH6kpCcl0"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "My Little Girl in Tennessee - Live",
-      "url": "https://open.spotify.com/track/7c9K38G9DDNDduH9G6tWOA"
-    },
-    {
-      "added_at": "2025-04-18 04:00:47",
-      "album": {
         "name": "Big City",
         "url": "https://open.spotify.com/album/1I8mPtZ8MM6o5SxCCwmsNa"
       },
@@ -1471,18 +1455,18 @@
     {
       "added_at": "2025-04-18 04:00:47",
       "album": {
-        "name": "Blue Night",
-        "url": "https://open.spotify.com/album/4zuvesfsRy11qUXy9RyAJM"
+        "name": "My Little Girl in Tennessee (Live)",
+        "url": "https://open.spotify.com/album/2KCEPrxG000PkTJy4GyUs5"
       },
       "artists": [
         {
-          "name": "Ashby Frank",
-          "url": "https://open.spotify.com/artist/1Z3CpFgkHqQNA8F73CgkqT"
+          "name": "Water Tower",
+          "url": "https://open.spotify.com/artist/2Ljo9zBf5ot9mZH6kpCcl0"
         }
       ],
-      "duration_ms": 174000,
-      "name": "Blue Night",
-      "url": "https://open.spotify.com/track/5CsDpl5sZRU3GtAYZe8YfN"
+      "duration_ms": 166400,
+      "name": "My Little Girl in Tennessee - Live",
+      "url": "https://open.spotify.com/track/7c9K38G9DDNDduH9G6tWOA"
     },
     {
       "added_at": "2025-04-18 04:00:47",
@@ -1503,6 +1487,22 @@
       "duration_ms": 273627,
       "name": "Mr. Charlie",
       "url": "https://open.spotify.com/track/0N20rPepMY3PnRNt3wsN3l"
+    },
+    {
+      "added_at": "2025-04-18 04:00:47",
+      "album": {
+        "name": "Blue Night",
+        "url": "https://open.spotify.com/album/4zuvesfsRy11qUXy9RyAJM"
+      },
+      "artists": [
+        {
+          "name": "Ashby Frank",
+          "url": "https://open.spotify.com/artist/1Z3CpFgkHqQNA8F73CgkqT"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Blue Night",
+      "url": "https://open.spotify.com/track/5CsDpl5sZRU3GtAYZe8YfN"
     },
     {
       "added_at": "2025-04-18 04:00:47",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2025-04-18 04:00:47",
       "album": {
-        "name": "Blues Are Close at Hand",
-        "url": "https://open.spotify.com/album/2ZfEgw1Jsfhw34G7cwtmkM"
-      },
-      "artists": [
-        {
-          "name": "The Po' Ramblin' Boys",
-          "url": "https://open.spotify.com/artist/65XZgRZMfuSawjuSFrnz0o"
-        }
-      ],
-      "duration_ms": 159427,
-      "name": "Blues Are Close at Hand",
-      "url": "https://open.spotify.com/track/16KCAFsjJn79OA3sh9iedu"
-    },
-    {
-      "added_at": "2025-04-18 04:00:47",
-      "album": {
         "name": "Cannonball",
         "url": "https://open.spotify.com/album/3LVLGUjjuicXJofykim9ne"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 235786,
       "name": "Cannonball",
       "url": "https://open.spotify.com/track/5dl177YODSZ5zHz8ycEtd3"
+    },
+    {
+      "added_at": "2025-04-18 04:00:47",
+      "album": {
+        "name": "Blues Are Close at Hand",
+        "url": "https://open.spotify.com/album/2ZfEgw1Jsfhw34G7cwtmkM"
+      },
+      "artists": [
+        {
+          "name": "The Po' Ramblin' Boys",
+          "url": "https://open.spotify.com/artist/65XZgRZMfuSawjuSFrnz0o"
+        }
+      ],
+      "duration_ms": 159427,
+      "name": "Blues Are Close at Hand",
+      "url": "https://open.spotify.com/track/16KCAFsjJn79OA3sh9iedu"
     }
   ],
   "unique_name": "Grass Roots",

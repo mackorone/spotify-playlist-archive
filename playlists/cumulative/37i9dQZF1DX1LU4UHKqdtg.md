@@ -2,9 +2,9 @@
 
 ### [Stargirl vibes](https://open.spotify.com/playlist/37i9dQZF1DX1LU4UHKqdtg)
 
-> グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: i\-dle
+> グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: AtHeart
 
-1,476 songs - 3 day 6 hr 38 min
+1,478 songs - 3 day 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -495,6 +495,7 @@
 | [Good Boy Gone Bad](https://open.spotify.com/track/1HsSIPLTQT354yJcQGfEY3) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 2: Thursday's Child](https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8) | 3:11 | 2022-05-09 | 2022-09-05 |
 | [Good Boy Gone Bad \- Japanese Ver.](https://open.spotify.com/track/1n52exGqPZkKBItLYxMksJ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [GOOD BOY GONE BAD](https://open.spotify.com/album/0nTPrUjlLwEJD6Fdw2GGoU) | 3:12 | 2022-08-30 | 2022-11-30 |
 | [GOOD DAY](https://open.spotify.com/track/4Zw2b1jp0KrXcrsUeX9As2) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [AND,](https://open.spotify.com/album/3Hs8WBB47spgGcUhtQ9rXB) | 2:52 | 2024-07-09 | 2024-11-01 |
+| [Good Girl \(AtHeart\)](https://open.spotify.com/track/6JWKm12bYJ2GeDkvfi3xuq) | [AtHeart](https://open.spotify.com/artist/0ON7aUm308hzonzZGpZUvB) | [Good Girl \(AtHeart\)](https://open.spotify.com/album/5BMDZVMBLfX8NpHhpO8Opy) | 2:08 | 2025-05-29 |  |
 | [Good Morning](https://open.spotify.com/track/4zXbnTwqwQcRdDILZVKZSQ) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [GOOD MORNING](https://open.spotify.com/album/1kfvY0GjQJhhDNjTpy7xOs) | 3:04 | 2024-01-15 | 2024-03-20 |
 | [GOOD SO BAD](https://open.spotify.com/track/34sW3HrJsxAmbNqlmSoYvu) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [CINEMA PARADISE](https://open.spotify.com/album/09aNJ7OE6uiKnBZuXFigIn) | 2:57 | 2024-08-26 | 2024-09-20 |
 | [GOOD SO BAD \- Japanese ver.](https://open.spotify.com/track/5wc3JZS10SM1JoCv13Fr5Y) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [GOOD SO BAD \- Japanese ver.](https://open.spotify.com/album/6s37gVR5yCdHFJfLbpkmBh) | 2:57 | 2024-08-29 | 2024-10-11 |
@@ -539,7 +540,7 @@
 | [HELLO \- JP Ver.](https://open.spotify.com/track/4QiD4Qkiq1Gw2v2FkKIgqe) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER TWO \(JP EDITION\)](https://open.spotify.com/album/1ITJ3AY63eEUnMxZTV735E) | 3:01 | 2022-11-24 | 2023-03-15 |
 | [Hello Goodbye](https://open.spotify.com/track/443V3JlVW2MJOO5yY92qAN) | [DRIPPIN](https://open.spotify.com/artist/5IVacR5tKgTu9HotcG8kkl) | [Hello Goodbye](https://open.spotify.com/album/3rvLFZpuE1xZWJNLxoCh6C) | 3:15 | 2023-03-14 | 2023-05-10 |
 | [Hello Stranger](https://open.spotify.com/track/2rY9jItQLvMWImHZygEV3d) | [KWON EUNBI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [Hello Stranger](https://open.spotify.com/album/4fy8OpuY3eepNbp6V0p6Og) | 3:01 | 2025-04-15 |  |
-| [HER](https://open.spotify.com/track/0b4xSLnMV2w0RXugY4w9Dg) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [HER](https://open.spotify.com/album/5o5Qyfl84QAAnWNUHuuiCV) | 2:39 | 2025-01-21 |  |
+| [HER](https://open.spotify.com/track/0b4xSLnMV2w0RXugY4w9Dg) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [HER](https://open.spotify.com/album/5o5Qyfl84QAAnWNUHuuiCV) | 2:39 | 2025-01-21 | 2025-05-30 |
 | [Here](https://open.spotify.com/track/7yZv08uDBYKCw7poSL3Btb) | [JINJIN \(ASTRO\)](https://open.spotify.com/artist/3U8ZnKIeY7sgQkIHjQDlHA) | [JIN LAB Project 7\. \[Here\]](https://open.spotify.com/album/5YwAPoIC2QjO4pApIsZ6OH) | 2:53 | 2024-10-24 | 2024-12-25 |
 | [Here I am](https://open.spotify.com/track/7qzpdzJRiIHXJpa28FYrD9) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [DIVE](https://open.spotify.com/album/7tgTOUXm74GKA12wsQIUPu) | 2:50 | 2024-07-17 | 2024-09-04 |
 | [Here I Stand](https://open.spotify.com/track/2muMPwLTvz3tnGg5Jz4rjA) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [Here I Stand](https://open.spotify.com/album/6XHLf6XkdhyHJzWSUhh1f0) | 3:49 | 2023-03-26 | 2023-07-08 |
@@ -1270,7 +1271,7 @@
 | [TORNADO](https://open.spotify.com/track/6X0HaPlb8AscV8YU7beQzT) | [MYERA](https://open.spotify.com/artist/79hOP6wbBdYMeF0e8S8a2i) | [TORNADO / No Drip](https://open.spotify.com/album/5N4ANp1ZcyZoHSQcLpdWKn) | 3:13 | 2025-05-05 |  |
 | [Touch](https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Touch](https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv) | 2:09 | 2024-07-25 | 2025-04-07 |
 | [Touch \(ft\. YEONJUN of TOMORROW X TOGETHER\)](https://open.spotify.com/track/6VG3H64odw9YFcvY0NUZpL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn), [YEONJUN](https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w) | [Touch \(ft\. YEONJUN of TOMORROW X TOGETHER\)](https://open.spotify.com/album/3ohHp2OASdUUB5ryLhvKpU) | 2:09 | 2024-10-11 | 2025-01-09 |
-| [TOXIC](https://open.spotify.com/track/22iBm7pEbvQk4HPrKWOuqQ) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [TOXIC](https://open.spotify.com/album/2NXhPdipPeH06ojLSn5M4k) | 3:10 | 2024-11-18 |  |
+| [TOXIC](https://open.spotify.com/track/22iBm7pEbvQk4HPrKWOuqQ) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [TOXIC](https://open.spotify.com/album/2NXhPdipPeH06ojLSn5M4k) | 3:10 | 2024-11-18 | 2025-05-30 |
 | [Toxic Love](https://open.spotify.com/track/0lGl77mJatnsuNv3BBspR9) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [SHE'S THE BOSS](https://open.spotify.com/album/4YI3GMUel8jwoC1RiYHd6h) | 3:45 | 2022-05-26 | 2022-08-16 |
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-06 | 2025-05-10 |
 | [TPIR \(feat\. MIYAVI\)](https://open.spotify.com/track/5j1RXSJl3JiLJSfdywh5Q4) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW), [MIYAVI](https://open.spotify.com/artist/7sBtBCNVRujQhaHDODkfTN) | [TPIR \(feat\. MIYAVI\)](https://open.spotify.com/album/4dnuuFbQXWiBa6EWKyB8IN) | 3:37 | 2022-08-16 | 2022-10-05 |
@@ -1467,6 +1468,7 @@
 | [時を駆けて](https://open.spotify.com/track/5rLb9sJEfvEMcWTVhEIZwG) | [Jang Keun\-suk](https://open.spotify.com/artist/3OOtuve788y64B4qKtZoci) | [Blooming](https://open.spotify.com/album/59WPwlL2LisK1iTOEZ5rkf) | 3:30 | 2022-03-29 | 2022-05-11 |
 | [木蘭の涙](https://open.spotify.com/track/7iBecj6numquqBjVCaqjAC) | [J\-JUN](https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T) | [木蘭の涙](https://open.spotify.com/album/1VU49IhAsRovcWXa8YgnKn) | 5:32 | 2023-09-21 | 2023-09-27 |
 | [束の間の恋](https://open.spotify.com/track/27WqCs6kN18Uw2PtFHxCvr) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [君という桜の花びらが僕の心に舞い降りた。](https://open.spotify.com/album/6QvUd4r5lYp7wJSS64woW6) | 3:19 | 2023-05-24 | 2023-06-21 |
+| [気まぐれロマンティック](https://open.spotify.com/track/6DKR66QBf1IYQUX6SBJeVF) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [気まぐれロマンティック](https://open.spotify.com/album/2OMNHN1KbJ97isNRSnRL7C) | 4:02 | 2025-05-29 |  |
 | [消費期限](https://open.spotify.com/track/5fGPL6O3H62p3EWog3lJyq) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [消費期限](https://open.spotify.com/album/5qC9E44PTiWzNySKhKFcP8) | 3:10 | 2024-11-11 | 2025-02-07 |
 | [燎](https://open.spotify.com/track/41LHZWfjfQPvSN0s8HFHje) | [苏芮琪](https://open.spotify.com/artist/62oYdsAy450XtCfdIrV9Bl) | [燎](https://open.spotify.com/album/63o1ESQxSCE4Bs8dqBTrur) | 3:13 | 2021-12-23 | 2022-02-05 |
 | [病](https://open.spotify.com/track/16Dklj36BXIa9bY1ZgP7DK) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER TWO \(JP EDITION\)](https://open.spotify.com/album/1ITJ3AY63eEUnMxZTV735E) | 3:24 | 2022-11-29 | 2023-02-22 |

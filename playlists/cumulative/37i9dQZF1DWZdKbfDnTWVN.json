@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The best of bars, beats & rhymes from the 254. Cover: <a href=\"https://open.spotify.com/artist/21wMFiTF8hZHW1ZM2XE6Ul?si=eRLNTVDKQcmxzYf8p9DaTw\"> Le'Laika</a> ",
+  "description": "The best of bars, beats & rhymes from the 254. Cover: <a href=\"https://open.spotify.com/artist/5V9RNrRsqNA33tDrCpIswZ?si=YLn9bj4PRyiLulBb2-O49A\"> Jovie Jovv</a> ",
   "name": "254 Flow",
   "tracks": [
     {
@@ -72,6 +72,28 @@
       "duration_ms": 156620,
       "name": "22 jump st.",
       "url": "https://open.spotify.com/track/1a7k5VXO6Uf30yJmReB0EY"
+    },
+    {
+      "album": {
+        "name": "247",
+        "url": "https://open.spotify.com/album/6oY3frYo4mN0eVEeRvCJEm"
+      },
+      "artists": [
+        {
+          "name": "Jovie Jovv",
+          "url": "https://open.spotify.com/artist/5V9RNrRsqNA33tDrCpIswZ"
+        },
+        {
+          "name": "Swahili Papi",
+          "url": "https://open.spotify.com/artist/66HNxzGcmvdYQD36Pcg0Di"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137500,
+      "name": "247",
+      "url": "https://open.spotify.com/track/6lBOa1Pk7VF0vKJzm26iD6"
     },
     {
       "album": {
@@ -2639,6 +2661,24 @@
     },
     {
       "album": {
+        "name": "June 25th",
+        "url": "https://open.spotify.com/album/4Hogx7jn8gJvADmHAXPzSH"
+      },
+      "artists": [
+        {
+          "name": "Octopizzo",
+          "url": "https://open.spotify.com/artist/7Ijwdl32LSddH695Qn3q5o"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170527,
+      "name": "June 25th",
+      "url": "https://open.spotify.com/track/52oGL84hQkBKLqtEuwsIs6"
+    },
+    {
+      "album": {
         "name": "Kalesa na Leather",
         "url": "https://open.spotify.com/album/2BmdCBVfeopAna7jznaQOM"
       },
@@ -5178,7 +5218,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 169578,
       "name": "Shots (feat. Nyashinski)",
       "url": "https://open.spotify.com/track/1oZYyR3EWPOPTyrZXIQuey"
@@ -5890,7 +5930,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 191034,
       "name": "Talk Ni Cheap",
       "url": "https://open.spotify.com/track/3yLgHCgibaREPaivKLUfUc"

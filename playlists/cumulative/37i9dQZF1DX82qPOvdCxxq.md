@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Faith](https://open.spotify.com/playlist/37i9dQZF1DX82qPOvdCxxq)
 
-> Celebrating 10 years of the best new music by independent artists! Cover: Allie Page \| Artwork: Dana Shine
+> Celebrating 10 years of the best new music by independent artists! Cover: Allie Paige \| Artwork: Dana Shine
 
 590 songs - 1 day 9 hr 46 min
 

@@ -4,7 +4,7 @@
 
 > Desde Juliantla, Guerrero, las inmortales del Rey del Jaripeo.
 
-169 songs - 8 hr 52 min
+170 songs - 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Que Sea](https://open.spotify.com/track/4yKC4OVtG5Z9nIX98r7SQp) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Que Sea](https://open.spotify.com/album/59uULSbzUmeuVBiDGbLsqR) | 2:50 | 2023-04-10 |  |
 | [Que Ya No Estas](https://open.spotify.com/track/7H4VG0Gh5P9dj6zS4A03iR) | [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [Nuestras Favoritas De Joan Sebastian](https://open.spotify.com/album/3zhM6eE3OigmLxaBS1C8zT) | 3:05 | 2023-04-10 | 2024-05-07 |
 | [Quiereme](https://open.spotify.com/track/33viYM3K3VAhasx8OPRtUZ) | [Beto Y Sus Canarios](https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv) | [Homenaje al Poeta Gracias Joan Sebastian](https://open.spotify.com/album/6z37JarZO3f6O0hLmTZp6f) | 2:24 | 2023-04-10 |  |
+| [Quiero Compartir](https://open.spotify.com/track/6M0RL3b783qpUXFT11QJZR) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Lo Mejor de Joan Sebastian](https://open.spotify.com/album/46jBoLgiPCu6mesWfEdxW3) | 3:28 | 2024-07-12 |  |
 | [Qué Si Me Duele Tu Adiós](https://open.spotify.com/track/3HGkpkgdhEB7jxHdMS5H6e) | [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [Nuestras Favoritas De Joan Sebastian](https://open.spotify.com/album/3zhM6eE3OigmLxaBS1C8zT) | 3:09 | 2023-04-10 | 2024-05-07 |
 | [Razones De Más](https://open.spotify.com/track/4PH2FAf3cVXHtFeDhfIXgS) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Recuérdame Bonito](https://open.spotify.com/album/3BO3ykbylrQ69t4bxprqlO) | 3:15 | 2023-04-10 | 2024-05-07 |
 | [Recuérdame Bonito](https://open.spotify.com/track/1APZxSVM4utFv3005z4FtB) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Recuérdame Bonito](https://open.spotify.com/album/7ILpDmbUgAzuyGupH5kDIr) | 3:11 | 2023-04-10 | 2024-04-19 |
@@ -145,7 +146,7 @@
 | [Rumores](https://open.spotify.com/track/1DVZafFlOB53zfGDVs8w1s) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Lisa Lopez](https://open.spotify.com/artist/3gLar4IFE6bFk1GMU12pts) | [Rumores](https://open.spotify.com/album/0DkdxMCzRT1ixYZxD20AlV) | 3:42 | 2023-04-10 | 2024-04-19 |
 | [Rumores](https://open.spotify.com/track/4xN5mVYQilvByCPY6XE352) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq), [Irany & David](https://open.spotify.com/artist/0D9IxwuqUWlytmoPOvurIo) | [Soy Como Quiero Ser \(Deluxe\)](https://open.spotify.com/album/5t5i4Za83W6qEqytymh6pe) | 3:39 | 2024-05-06 |  |
 | [Rumores](https://open.spotify.com/track/1goQCzznunJPbBTg3ncVVH) | [Sonora Tropicana](https://open.spotify.com/artist/0XKgjkHamDZy6obrO52fIs) | [Tesoros De Coleccion](https://open.spotify.com/album/7g5bfjbwzzYDTXFqBXaGfn) | 3:07 | 2023-04-10 | 2024-04-19 |
-| [Rumores](https://open.spotify.com/track/4U7IDsM2SuheFR7kGae09Q) | [Sonora Tropicana](https://open.spotify.com/artist/0XKgjkHamDZy6obrO52fIs) | [Homenaje A Joan Sebastian](https://open.spotify.com/album/2x9eHnn6xlu7WCagpuk50i) | 3:10 | 2023-04-10 |  |
+| [Rumores](https://open.spotify.com/track/4U7IDsM2SuheFR7kGae09Q) | [Sonora Tropicana](https://open.spotify.com/artist/0XKgjkHamDZy6obrO52fIs) | [Homenaje A Joan Sebastian](https://open.spotify.com/album/2x9eHnn6xlu7WCagpuk50i) | 3:10 | 2023-04-10 | 2025-05-30 |
 | [Sangoloteadito](https://open.spotify.com/track/5ANVq31Ya8ktdx5Qy34yuA) | [Conjunto Sol De Ojinaga](https://open.spotify.com/artist/5ZaOWvcoYvKvMShrVo3gK8) | [El Homenaje Al Poeta Del Pueblo Joan Sebastian](https://open.spotify.com/album/3ikKz6kxwP90xWVtUbiUb2) | 3:47 | 2023-04-10 |  |
 | [Secreto De Amor](https://open.spotify.com/track/47PiSg7z5qjUyEGKN4I1g7) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Secreto De Amor](https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV) | 4:33 | 2023-04-10 | 2024-04-19 |
 | [Secreto De Amor](https://open.spotify.com/track/00s2jnZ4cVZssim4VqrszP) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Lo Mejor de Joan Sebastian](https://open.spotify.com/album/46jBoLgiPCu6mesWfEdxW3) | 4:35 | 2023-04-10 | 2024-07-13 |

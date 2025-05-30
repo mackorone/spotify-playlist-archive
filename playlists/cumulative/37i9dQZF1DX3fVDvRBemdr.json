@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Wekelijkse update met Hollands en volks. Cover: Quido van de Graaf",
+  "description": "Wekelijkse update met Hollands en volks. Cover: Mart Hoogkamer",
   "name": "Liever Hollands",
   "tracks": [
     {
@@ -334,7 +334,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 163701,
       "name": "Als Ik Je Heb",
       "url": "https://open.spotify.com/track/50XPpXkxNanl3ADzJy8iAd"
@@ -370,7 +370,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 185290,
       "name": "Als Je Kijkt",
       "url": "https://open.spotify.com/track/4YZg6QZ5Mcl3Js3MKetT5C"
@@ -789,6 +789,24 @@
     },
     {
       "album": {
+        "name": "Ciao Ciao Amore",
+        "url": "https://open.spotify.com/album/5QXHryB0ATrELcdlb1vgSv"
+      },
+      "artists": [
+        {
+          "name": "Remco Koks",
+          "url": "https://open.spotify.com/artist/78TCjgiCJZz8tCUfUVbM9I"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195692,
+      "name": "Ciao Ciao Amore",
+      "url": "https://open.spotify.com/track/6skK7RPjQOZ02HlKgvAoMK"
+    },
+    {
+      "album": {
         "name": "Daar Ga Ik Weer",
         "url": "https://open.spotify.com/album/3HZwT3fHHAY3DiWCrNhJWu"
       },
@@ -876,6 +894,28 @@
       "duration_ms": 167704,
       "name": "Dans Met Mij",
       "url": "https://open.spotify.com/track/1n9VwFbmlEx7cBpWSr5VOY"
+    },
+    {
+      "album": {
+        "name": "Dansend Op Die Melodie",
+        "url": "https://open.spotify.com/album/3nDvmiAgon6g46Xwm0oTJb"
+      },
+      "artists": [
+        {
+          "name": "Mike Peterson",
+          "url": "https://open.spotify.com/artist/4mxrXHWDcP8CifQMVEgY3E"
+        },
+        {
+          "name": "Lange Frans",
+          "url": "https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Dansend Op Die Melodie",
+      "url": "https://open.spotify.com/track/4keARjEt9p4Y2Cst04f19Y"
     },
     {
       "album": {
@@ -1280,7 +1320,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 177445,
       "name": "Door Tot De Kater Komt",
       "url": "https://open.spotify.com/track/3e63pj2xlCrnUUUMh8cL3P"
@@ -1504,6 +1544,24 @@
       "duration_ms": 188726,
       "name": "Feessie",
       "url": "https://open.spotify.com/track/5z8js5bnIxbSVWt9wLvv6x"
+    },
+    {
+      "album": {
+        "name": "Feest In De Tent",
+        "url": "https://open.spotify.com/album/63A6NjvBZNYGbS2XcQ1fQh"
+      },
+      "artists": [
+        {
+          "name": "Mart Hoogkamer",
+          "url": "https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200383,
+      "name": "Feest In De Tent",
+      "url": "https://open.spotify.com/track/6rvwaPKrw99V8G7DoGSMvz"
     },
     {
       "album": {
@@ -1850,6 +1908,24 @@
       "duration_ms": 188666,
       "name": "Het Regent Pijpenstelen",
       "url": "https://open.spotify.com/track/1MhoNw8jlaZs6ItTGREl7X"
+    },
+    {
+      "album": {
+        "name": "Hittegolf (Code Rood)",
+        "url": "https://open.spotify.com/album/2FoCkSFcqJQE1EydQSk9qe"
+      },
+      "artists": [
+        {
+          "name": "Dennis van Dam",
+          "url": "https://open.spotify.com/artist/4raBuWSzk2K1qAnymk7Ypz"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163287,
+      "name": "Hittegolf (Code Rood)",
+      "url": "https://open.spotify.com/track/1Zs98o58STjSHDFmQLTwT3"
     },
     {
       "album": {
@@ -2590,7 +2666,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 187619,
       "name": "Italiaanse Meid",
       "url": "https://open.spotify.com/track/0ncncrEXDauS5zR0Uk5wG7"
@@ -2702,7 +2778,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 199236,
       "name": "Je Ziet Me Morgenvroeg",
       "url": "https://open.spotify.com/track/4gC9aEz4Kd0OoRF5rstp3t"
@@ -3398,7 +3474,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 181165,
       "name": "Laten We Vergeten",
       "url": "https://open.spotify.com/track/5pd7JVQ2eeSk8FtW74TU7s"
@@ -3470,7 +3546,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 188906,
       "name": "Liefde en geluk",
       "url": "https://open.spotify.com/track/4fEv9QkkH241wCNRlzOtsX"
@@ -3691,6 +3767,24 @@
     },
     {
       "album": {
+        "name": "Met Of Zonder Jou",
+        "url": "https://open.spotify.com/album/4CkPHyIcpSHZEDpGySN8WT"
+      },
+      "artists": [
+        {
+          "name": "Tino Martin",
+          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182618,
+      "name": "Met Of Zonder Jou",
+      "url": "https://open.spotify.com/track/6EkLMgBYvDlRnj2UOtG622"
+    },
+    {
+      "album": {
         "name": "Met Tranen In Je Ogen Ben Je Blind",
         "url": "https://open.spotify.com/album/11F42g72XVoQijUSnQ4tiB"
       },
@@ -3898,7 +3992,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 150741,
       "name": "Nooit Meer Voorbij",
       "url": "https://open.spotify.com/track/2uWEvrQazVzAwzDIXE8ZhC"
@@ -4206,6 +4300,28 @@
       "duration_ms": 159843,
       "name": "Paradijs",
       "url": "https://open.spotify.com/track/4gpac5Jmu5u9QNWwt5i7UX"
+    },
+    {
+      "album": {
+        "name": "Plekje In Mijn Hart",
+        "url": "https://open.spotify.com/album/782FzCuKy3CcNjm5PtkjIi"
+      },
+      "artists": [
+        {
+          "name": "Rene Schuurmans",
+          "url": "https://open.spotify.com/artist/3kfX8UOxjmAxIgxtPov6eH"
+        },
+        {
+          "name": "Sam J'taime",
+          "url": "https://open.spotify.com/artist/5xI2wCNNCEJClRVASUysAh"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180992,
+      "name": "Plekje In Mijn Hart",
+      "url": "https://open.spotify.com/track/64cxYuAQ4kDRLZb0YOrtsv"
     },
     {
       "album": {
@@ -4668,7 +4784,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 209034,
       "name": "Toen De Euro Nog Een Gulden Was",
       "url": "https://open.spotify.com/track/1DhO6d9nwWQRMM2wvH1NaG"
@@ -5332,7 +5448,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 194576,
       "name": "Wat Heb Je Mij Toch Aangedaan",
       "url": "https://open.spotify.com/track/6Tx3dSaqnkcXES4WYlWXkL"
@@ -5466,7 +5582,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 162252,
       "name": "We Gaan Weer Uit Ons Bol",
       "url": "https://open.spotify.com/track/4gLJDKJKLOuX8bSrpMu2NS"
@@ -5484,7 +5600,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 160731,
       "name": "We Kunnen Nog Niet Dood",
       "url": "https://open.spotify.com/track/6II8w7cTZFzjIlrIGJ2MZm"
@@ -5506,6 +5622,24 @@
       "duration_ms": 179047,
       "name": "Weet Dat Ik Van Je Hou",
       "url": "https://open.spotify.com/track/3Utf67YFXYM1cyR12BoUSV"
+    },
+    {
+      "album": {
+        "name": "Weet Je Nog Wel Die Avond In De Regen",
+        "url": "https://open.spotify.com/album/0DURsqRh40igHEEYHiiFqA"
+      },
+      "artists": [
+        {
+          "name": "Rocky Pauw",
+          "url": "https://open.spotify.com/artist/4ZAsWJbCCCCKS5r0z0qIvd"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185150,
+      "name": "Weet Je Nog Wel Die Avond In De Regen",
+      "url": "https://open.spotify.com/track/1izbiqUBzsvlPnDeHGeTTD"
     },
     {
       "album": {

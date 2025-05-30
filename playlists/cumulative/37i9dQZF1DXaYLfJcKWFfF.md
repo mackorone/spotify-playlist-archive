@@ -4,7 +4,7 @@
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: Lady Donli
 
-238 songs - 14 hr 12 min
+239 songs - 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [HIGH SPEDE](https://open.spotify.com/track/01OW8EwHqMLnUysHiLT9zE) | [KABEAUSHÉ](https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj) | [HOLD ON TO DEER LIFE, THERE'S A BLCAK BOY BEHIND YOU!](https://open.spotify.com/album/6aScw5iFrLHQUzlO21rCUl) | 3:58 | 2023-11-10 | 2025-03-21 |
 | [hlala](https://open.spotify.com/track/2N52t4ou4Of2eCGxHpPXqq) | [Bongeziwe Mabandla](https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy) | [amaXesha](https://open.spotify.com/album/3jakaJqMeF7geMynKw6QWf) | 3:42 | 2023-05-04 | 2024-04-26 |
 | [Holding On \- Live Dub Mix](https://open.spotify.com/track/4MzxG2az6IMFAMNlUlivwP) | [Sena](https://open.spotify.com/artist/1erBTcAMRYO1WTjsdv0Dma), [Sena Dagadu](https://open.spotify.com/artist/3ceHJPOe3uPruYejDNWXWH) | [The Ghana Live Sessions](https://open.spotify.com/album/0B5DMQdDvi7IJpPu7AUYfc) | 9:16 | 2023-03-17 | 2023-06-09 |
+| [Holy Mountain](https://open.spotify.com/track/0TNwifdG6mUwAWK1psAMlG) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Paradise Now](https://open.spotify.com/album/6Yzu9wAkkxRUpEGyVpun81) | 2:29 | 2025-05-30 |  |
 | [Home](https://open.spotify.com/track/7l0EYGVhGZcuLyphccTcp0) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Home](https://open.spotify.com/album/7qZiuy7KLt5j5BXrs76wo3) | 2:17 | 2022-10-28 | 2023-02-04 |
 | [How is Summer Over?](https://open.spotify.com/track/52SjgHZpjJtAxy867ZT3NK) | [Nasrene](https://open.spotify.com/artist/1OnltwuE09tqRxUgAK4UHB) | [How is Summer Over?](https://open.spotify.com/album/7L1LfkPke0zvF5gRRJAzB1) | 2:59 | 2024-10-04 | 2025-04-11 |
 | [HURTING](https://open.spotify.com/track/3V2qkG0MbPwwMHUJNsxcuR) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [HURTING](https://open.spotify.com/album/4xpvcoxHFtD7JjRs0FyJ42) | 2:38 | 2023-05-26 | 2023-06-09 |
@@ -237,7 +238,7 @@
 | [Wine Drunk](https://open.spotify.com/track/4FUOS0mP6SnAqBdnRWkbBN) | [Baraka](https://open.spotify.com/artist/7jhoWa68COaf3lbfwYgkz9) | [Voicemail](https://open.spotify.com/album/4cjkqBi12YLhvPs5vIwWmG) | 3:57 | 2023-06-30 | 2023-08-04 |
 | [With You in Mind](https://open.spotify.com/track/7IbiKaKBeEC9226RizprKv) | [PSILK](https://open.spotify.com/artist/2En0hpA97YxdCqyGVnDOK6), [Thando Zide](https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2) | [With You in Mind](https://open.spotify.com/album/5dDVYZyFfxvCZR9lUrQPsC) | 2:57 | 2025-05-23 |  |
 | [Woman King](https://open.spotify.com/track/1OBzOpEaPjWE7lnGsmF4vA) | [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [African Royalty](https://open.spotify.com/album/2bh6NRrRmiKVSST5ia5JpK) | 2:37 | 2023-12-01 |  |
-| [Wonderful](https://open.spotify.com/track/4p1tpwSTLqFBGEZKQQ03JR) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [Okay Baby, Lets Do This](https://open.spotify.com/album/6mF7YvP41L2d40LkDVLsfp) | 3:32 | 2023-06-08 |  |
+| [Wonderful](https://open.spotify.com/track/4p1tpwSTLqFBGEZKQQ03JR) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [Okay Baby, Lets Do This](https://open.spotify.com/album/6mF7YvP41L2d40LkDVLsfp) | 3:32 | 2023-06-08 | 2025-05-30 |
 | [Working on You](https://open.spotify.com/track/20elM8EhWy52VmxbjEWCkn) | [Alien Em](https://open.spotify.com/artist/5ol84ORfazc9kNCz4V2ixt) | [Working on You](https://open.spotify.com/album/7tpq3j1GIJ2Ii1zvqiTU4u) | 2:56 | 2023-03-24 | 2023-05-05 |
 | [Wrong for It](https://open.spotify.com/track/4kntTTVtSIfsTl1dEak3X7) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h), [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ) | [Some Nights I Dream of Doors](https://open.spotify.com/album/4b5bbOFp8eUd5QxQJ6jFs3) | 3:22 | 2022-05-12 | 2024-02-23 |
 | [YAKOYO](https://open.spotify.com/track/4pWKbOnBx45TWBFQl3k6ck) | [Tommy WÁ](https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd) | [YAKOYO](https://open.spotify.com/album/2HDyAE2vT8mR31fsl3eUrl) | 2:52 | 2023-08-03 |  |

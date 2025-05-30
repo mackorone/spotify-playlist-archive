@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-01",
-  "description": "\u6ce8\u76ee\u306e\u56fd\u5185\u5916\u30cd\u30af\u30b9\u30c8\u30fb\u30d2\u30c3\u30c8\u3092\u3044\u3061\u65e9\u304f\u304a\u5c4a\u3051\u3002 cover: Laufey",
+  "description": "\u6ce8\u76ee\u306e\u56fd\u5185\u5916\u30cd\u30af\u30b9\u30c8\u30fb\u30d2\u30c3\u30c8\u3092\u3044\u3061\u65e9\u304f\u304a\u5c4a\u3051\u3002 cover: Benson Boone",
   "name": "Next Up",
   "tracks": [
     {
@@ -230,7 +230,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 155740,
       "name": "0.0000%",
       "url": "https://open.spotify.com/track/6tJmPnHeCidKixJ7VEdGgy"
@@ -364,7 +364,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 203380,
       "name": "1000 days of moments",
       "url": "https://open.spotify.com/track/4ygNS3AtvJmdKCa1SU2FEa"
@@ -1654,6 +1654,24 @@
       "duration_ms": 182278,
       "name": "A Million More",
       "url": "https://open.spotify.com/track/7r0YOMoBepzw3405MOPfZ1"
+    },
+    {
+      "album": {
+        "name": "a music score",
+        "url": "https://open.spotify.com/album/5RgCzUL166JU7tFjmEllWg"
+      },
+      "artists": [
+        {
+          "name": "\u4e43\u7d2b",
+          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209250,
+      "name": "a music score",
+      "url": "https://open.spotify.com/track/6TcoXIFuITi36A1uLtOx0O"
     },
     {
       "album": {
@@ -4643,6 +4661,44 @@
     },
     {
       "album": {
+        "name": "Asobo (feat. Awich, MonyHorse, PETZ, JNKMN & kZm)",
+        "url": "https://open.spotify.com/album/7vPTy5MFRLzIVhCqRv2s6j"
+      },
+      "artists": [
+        {
+          "name": "YENTOWN",
+          "url": "https://open.spotify.com/artist/5MZKzz8nnucMHhJq34UZwe"
+        },
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        },
+        {
+          "name": "MonyHorse",
+          "url": "https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD"
+        },
+        {
+          "name": "PETZ",
+          "url": "https://open.spotify.com/artist/1LUhwMGfJbyWkkRu8UmVXT"
+        },
+        {
+          "name": "JNKMN",
+          "url": "https://open.spotify.com/artist/3TAMa7XcdlVoUTc1giFv1L"
+        },
+        {
+          "name": "kZm",
+          "url": "https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202401,
+      "name": "Asobo (feat. Awich, MonyHorse, PETZ, JNKMN & kZm)",
+      "url": "https://open.spotify.com/track/3Xg49Os6ICrKw7QF0OOmdT"
+    },
+    {
+      "album": {
         "name": "ASOBOZE",
         "url": "https://open.spotify.com/album/2DgKzVhhhY0WiRPTsdwgJh"
       },
@@ -4708,7 +4764,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 237809,
       "name": "At The Beach, In Every Life",
       "url": "https://open.spotify.com/track/5LfgzPHvka22FdRAxOme6m"
@@ -11857,6 +11913,24 @@
     },
     {
       "album": {
+        "name": "clich\u00e9",
+        "url": "https://open.spotify.com/album/2zCyRKoQozz3iTdTi3o8mi"
+      },
+      "artists": [
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176242,
+      "name": "clich\u00e9",
+      "url": "https://open.spotify.com/track/3aD33slymVwdEcdbKUBnDu"
+    },
+    {
+      "album": {
         "name": "Click",
         "url": "https://open.spotify.com/album/1kzTxZPwbdRGZFP0Nt7p0f"
       },
@@ -16930,7 +17004,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 246542,
       "name": "DREAMER",
       "url": "https://open.spotify.com/track/2F6nzFUtzy3mUhZlPfbRdb"
@@ -17536,6 +17610,24 @@
       "duration_ms": 164545,
       "name": "EASY",
       "url": "https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI"
+    },
+    {
+      "album": {
+        "name": "Something Beautiful",
+        "url": "https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186639,
+      "name": "Easy Lover",
+      "url": "https://open.spotify.com/track/2OBzYCYMNsD6yhBZZSs0xg"
     },
     {
       "album": {
@@ -24728,7 +24820,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 177966,
       "name": "GRIDOUT",
       "url": "https://open.spotify.com/track/3vPxuqeKOCpguz5aqhHtQr"
@@ -25628,7 +25720,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 199120,
       "name": "harunone",
       "url": "https://open.spotify.com/track/6Yu04azyaRYfstRsHJPKK8"
@@ -39427,6 +39519,24 @@
     },
     {
       "album": {
+        "name": "Man Of The Year",
+        "url": "https://open.spotify.com/album/1QSIGmlbg2zqpGbWXJNJeW"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180433,
+      "name": "Man Of The Year",
+      "url": "https://open.spotify.com/track/1hoeP1oPYlhcv6iRCtB7pT"
+    },
+    {
+      "album": {
         "name": "mango run",
         "url": "https://open.spotify.com/album/1nGrzFVUAaBwaukXqcfLMx"
       },
@@ -40893,6 +41003,24 @@
     },
     {
       "album": {
+        "name": "Momma Song",
+        "url": "https://open.spotify.com/album/6kJgAmZWR69446e3gVZbxE"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197160,
+      "name": "Momma Song",
+      "url": "https://open.spotify.com/track/2TOEn8TnvwiQgwZdqVtfH5"
+    },
+    {
+      "album": {
         "name": "MONA LISA",
         "url": "https://open.spotify.com/album/2zX4sG2aTB7SoITKDa3VBa"
       },
@@ -41394,7 +41522,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 275780,
       "name": "More to Lose",
       "url": "https://open.spotify.com/track/2xAHKs8W4lcOLweTCAPUbF"
@@ -43672,6 +43800,24 @@
       "duration_ms": 171615,
       "name": "NG",
       "url": "https://open.spotify.com/track/12jwNYJiHCSnXwbCmOm8Up"
+    },
+    {
+      "album": {
+        "name": "Nice To Each Other",
+        "url": "https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "Nice To Each Other",
+      "url": "https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l"
     },
     {
       "album": {
@@ -49008,7 +49154,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 192799,
       "name": "Physical (feat. Troye Sivan)",
       "url": "https://open.spotify.com/track/1SdQjKRW52cHg2SEesQLvH"
@@ -52122,6 +52268,24 @@
       "duration_ms": 196837,
       "name": "Rise Up",
       "url": "https://open.spotify.com/track/3wEKXWiYq3h4MCDJZiny0S"
+    },
+    {
+      "album": {
+        "name": "Seek",
+        "url": "https://open.spotify.com/album/47Z1qRZDvj74CCIJxRNgsf"
+      },
+      "artists": [
+        {
+          "name": "iri",
+          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237120,
+      "name": "river",
+      "url": "https://open.spotify.com/track/0l7do5dV3DFuuhW9vtgxja"
     },
     {
       "album": {
@@ -63558,7 +63722,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 316301,
       "name": "There's A Rhythmn",
       "url": "https://open.spotify.com/track/7uWS4zoWMNU9fUPojMYilC"
@@ -65200,7 +65364,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 156685,
       "name": "toxic till the end",
       "url": "https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ"
@@ -80479,6 +80643,28 @@
     },
     {
       "album": {
+        "name": "\u30e8\u30ed\u30e8\u30ed",
+        "url": "https://open.spotify.com/album/7KGimry3yj96A6Jd4z4eNk"
+      },
+      "artists": [
+        {
+          "name": "\u306f\u3057\u30e1\u30ed",
+          "url": "https://open.spotify.com/artist/7Bokk7F8hq4P8wWwEO5mZy"
+        },
+        {
+          "name": "7co",
+          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155859,
+      "name": "\u30e8\u30ed\u30e8\u30ed",
+      "url": "https://open.spotify.com/track/5hymZMLQWDxDFQM4p1zOEW"
+    },
+    {
+      "album": {
         "name": "\u30e8\u30fc\u30bd\u30ed\u30fc",
         "url": "https://open.spotify.com/album/6wEFC1ktCxt68EsVT2e2cX"
       },
@@ -84370,7 +84556,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 324066,
       "name": "\u5f69\u308a",
       "url": "https://open.spotify.com/track/6X5gKRPMuY5Bsn5m2eLbjI"
@@ -84414,6 +84600,24 @@
       "duration_ms": 204340,
       "name": "\u5f8c\u5149",
       "url": "https://open.spotify.com/track/0rk1EARKenr7L7neBv3SQX"
+    },
+    {
+      "album": {
+        "name": "\u5f8c\u6094\u53f2",
+        "url": "https://open.spotify.com/album/3Zq1ApCERbdxujr272P2IW"
+      },
+      "artists": [
+        {
+          "name": "Tani Yuuki",
+          "url": "https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260833,
+      "name": "\u5f8c\u6094\u53f2",
+      "url": "https://open.spotify.com/track/5XuZZQWCtLglKAAe1Tt1ph"
     },
     {
       "album": {
@@ -85321,6 +85525,24 @@
     },
     {
       "album": {
+        "name": "\u6307\u9aea",
+        "url": "https://open.spotify.com/album/7yXq1sXy8KksAunxrVAGWr"
+      },
+      "artists": [
+        {
+          "name": "ChoQMay",
+          "url": "https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166333,
+      "name": "\u6307\u9aea",
+      "url": "https://open.spotify.com/track/47BjDn6H6ytNPJCfgLV3U5"
+    },
+    {
+      "album": {
         "name": "\u633f\u5165\u6b4c",
         "url": "https://open.spotify.com/album/59CltZlhPEnyJDJzL9sUL2"
       },
@@ -85910,7 +86132,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 226866,
       "name": "\u6700&\u5f37",
       "url": "https://open.spotify.com/track/6vblHjZAX1mKmCCSbZfAET"
@@ -87554,6 +87776,24 @@
       "duration_ms": 257237,
       "name": "\u77b3\u306e\u30e9\u30f3\u30c7\u30f4\u30fc",
       "url": "https://open.spotify.com/track/615moHge9ZH2r6NGj3ZANR"
+    },
+    {
+      "album": {
+        "name": "\u7802\u306e\u57ce",
+        "url": "https://open.spotify.com/album/6QcCfQ7J4VLNiHikcwbqLz"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242346,
+      "name": "\u7802\u306e\u57ce",
+      "url": "https://open.spotify.com/track/3GRFoiwlWZKMtdEm8TRpb7"
     },
     {
       "album": {

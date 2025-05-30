@@ -1701,6 +1701,28 @@
     },
     {
       "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/5ASW061ofFSrpEFrW0XhRJ"
+      },
+      "artists": [
+        {
+          "name": "Dafina Zeqiri",
+          "url": "https://open.spotify.com/artist/6V6mxrGG67IyLFy2l4poNZ"
+        },
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183076,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/5HEnfAa0K1ajHfz5zHw87u"
+    },
+    {
+      "album": {
         "name": "Eurosport",
         "url": "https://open.spotify.com/album/6jGAdXROnVnPKtncSr7jj8"
       },
@@ -3510,7 +3532,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 147500,
       "name": "On/Off",
       "url": "https://open.spotify.com/track/5X63FvEXgMGIt7LF6U7v2W"

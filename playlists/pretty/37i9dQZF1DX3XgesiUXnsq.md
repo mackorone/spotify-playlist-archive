@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 
 > Damn son, where'd ya find this?
 
-[Spotify](https://open.spotify.com/user/spotify) - 316,567 likes - 75 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 316,601 likes - 75 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 | 26 | [GAZZILLION EAR](https://open.spotify.com/track/5KeW2rotY0Gdsml5RPOBN8) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [BORN LIKE THIS](https://open.spotify.com/album/2XfBjZ0ZwKMfwYJDX0JR1O) | 4:14 |
 | 27 | [Runnin'](https://open.spotify.com/track/0XgpiStoxq1IJncYlPrvZ5) | [The Pharcyde](https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w) | [Labcabincalifornia \(Deluxe Edition\)](https://open.spotify.com/album/05Qg48LlYGKYdeXrNGg00g) | 4:56 |
 | 28 | [1982 \(with Curren$y & LE$\)](https://open.spotify.com/track/4OTmDHEUGop3Qw1GAXm3F9) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [Le$](https://open.spotify.com/artist/7rikNLN4AV6SQn9ryQFaMw) | [1982 \(with Curren$y & LE$\)](https://open.spotify.com/album/1VY0UoPeaR3V7P4sA55KnW) | 3:46 |
-| 29 | [SpitShineFreestyle\(04.23.2022\)](https://open.spotify.com/track/5Q8C3D1YiM1UZt23zNk9ez) | [KOTO?](https://open.spotify.com/artist/1N7v8ztld41DN69kQvp0We), [Thelonious](https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI) | [SpitShineFreestyle\(04.23.2022\)](https://open.spotify.com/album/1GklecXNAPYU5epr3FVuUc) | 1:44 |
+| 29 | [SpitShineFreestyle](https://open.spotify.com/track/5Q8C3D1YiM1UZt23zNk9ez) | [KOTO?](https://open.spotify.com/artist/1N7v8ztld41DN69kQvp0We), [Thelonious](https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI) | [SpitShineFreestyle](https://open.spotify.com/album/1GklecXNAPYU5epr3FVuUc) | 1:44 |
 | 30 | [VIRGINIA Boy \(feat\. Tyler, The Creator\) \- Remix](https://open.spotify.com/track/1ewLDmADNjHl1rzF5Ink3s) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Piece By Piece \- Music from the Motion Picture](https://open.spotify.com/album/210rAUA5H4xH6S9J0aHRLE) | 2:08 |
 | 31 | [Waves](https://open.spotify.com/track/3AM2ihc5RFzbC47eCpTg2I) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [1999](https://open.spotify.com/album/5ra51AaWF3iVebyhlZ1aqq) | 3:31 |
 | 32 | [Mind Playing Tricks on Me](https://open.spotify.com/track/63BokRfXSQhEU6Qi2dSJpZ) | [Geto Boys](https://open.spotify.com/artist/3f5fB1YUbkUnW7cf7I0R48) | [We Can't Be Stopped](https://open.spotify.com/album/2MJEvcUvsLPjsvVgqn8xa4) | 5:08 |

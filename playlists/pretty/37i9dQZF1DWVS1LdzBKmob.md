@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVS1LdzBKmob.md) - [plain]
 
 > Crystal singing bowls, frequencies and gongs to lift you up and transcend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,596 likes - 103 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,777 likes - 103 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVS1LdzBKmob.md) - [plain]
 | 102 | [Gotas y cuencos de cuarzo](https://open.spotify.com/track/7vIOggIr837ocFBosnqJtY) | [Oriqi Soundhealing](https://open.spotify.com/artist/04CPMYxePrUcNhtu2kX91q) | [Gotas y cuencos de cuarzo](https://open.spotify.com/album/6JvcnqO2qRFsIl8g8JpvPz) | 4:08 |
 | 103 | [spiral energy](https://open.spotify.com/track/2pzqw1FKgDn5TkU7H4eSZI) | [invisible design](https://open.spotify.com/artist/0PGLAS23Jf5WcA4xaCmxLM) | [spiral energy](https://open.spotify.com/album/727np887ncP1RuxuHNtLK8) | 2:57 |
 
-Snapshot ID: `aDcgDgAAAAAhkPF7F2L5nEogqI2pSxl9`
+Snapshot ID: `aDcgDgAAAAC0oVxqhS8cJStZ1uINaVQ9`

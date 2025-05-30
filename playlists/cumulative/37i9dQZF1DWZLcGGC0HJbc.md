@@ -4,7 +4,7 @@
 
 > als het woud een playlist zou zijn
 
-155 songs - 9 hr 9 min
+156 songs - 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Berlin](https://open.spotify.com/track/3xe0as9iSolwPSaZdNhka8) | [Iskander Moon](https://open.spotify.com/artist/4DHxzuCSdrTZgeNMEYg7u0) | [Berlin](https://open.spotify.com/album/0D0FZUmTHNSvsVJ89ZlvZL) | 3:22 | 2024-06-27 | 2025-02-21 |
 | [Big Black Car \- Cover](https://open.spotify.com/track/1gGTs9zEatXSNKwabDDrpD) | [Bertie Newman](https://open.spotify.com/artist/5FgAV3f4fiJ8tuztZ5eyWh), [Bradley Baker](https://open.spotify.com/artist/0L87ufcQdvOHWZbcrIaXcc) | [Big Black Car \(Cover\)](https://open.spotify.com/album/4bmokgLbihiveYrFGvvZrd) | 3:03 | 2025-02-03 |  |
 | [Black Hole](https://open.spotify.com/track/07gbjddL6AZ4PYKaviVMOQ) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw) | [the rest](https://open.spotify.com/album/1n0esOkFQdL74PwMwTVgtz) | 2:21 | 2024-06-27 | 2024-09-20 |
-| [Blue](https://open.spotify.com/track/0PSliKcrngN9atHRe9sy8s) | [Ivy Falls](https://open.spotify.com/artist/3I6L2mDZUNbW1BZ5YNwqAv) | [Sense & Nonsense](https://open.spotify.com/album/49C201EMuA7vMN68BRphjn) | 4:07 | 2025-01-27 |  |
+| [Blue](https://open.spotify.com/track/0PSliKcrngN9atHRe9sy8s) | [Ivy Falls](https://open.spotify.com/artist/3I6L2mDZUNbW1BZ5YNwqAv) | [Sense & Nonsense](https://open.spotify.com/album/49C201EMuA7vMN68BRphjn) | 4:07 | 2025-01-27 | 2025-05-30 |
 | [Body as a Meadow](https://open.spotify.com/track/0X1WV3X8xEf1Tt8nLBIWPi) | [AWKWARD i](https://open.spotify.com/artist/7A8U1UZFpc03H6UrSaX9wh) | [UNALASKA](https://open.spotify.com/album/2EfVQqJagb60EnAJNq1o9I) | 3:39 | 2025-01-23 | 2025-02-22 |
 | [Body as a Meadow](https://open.spotify.com/track/4mRShssMbisESekK0l63Z3) | [AWKWARD i](https://open.spotify.com/artist/7A8U1UZFpc03H6UrSaX9wh) | [Body as a meadow](https://open.spotify.com/album/5fS6k6t6Q8xF1Puwt6dlmE) | 3:39 | 2024-10-03 | 2024-10-23 |
 | [Can You Afford To Lose Me?](https://open.spotify.com/track/3sP6EGqcYVmDy9UBStCnRR) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Can You Afford To Lose Me?](https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO) | 4:02 | 2024-06-27 | 2024-09-20 |
@@ -163,5 +163,6 @@
 | [Winter Baby](https://open.spotify.com/track/4gsO99UmYFrncTeTvMDwWX) | [Sam Vano](https://open.spotify.com/artist/7pGC4cTs6vBSWgWDnf5To5) | [Winter Baby](https://open.spotify.com/album/3OL8iyJX6m54OGBWY6cLoz) | 3:06 | 2025-01-23 | 2025-02-14 |
 | [You Are The Morning](https://open.spotify.com/track/42eoOh5gqlN1iazumPf4ei) | [jasmine.4.t](https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm) | [You Are The Morning](https://open.spotify.com/album/2YEw0l5F8HCK3t6iZWzCx3) | 4:13 | 2025-02-03 | 2025-05-13 |
 | [You Said I'd Feel It All Again](https://open.spotify.com/track/0cuXTNMJypoaqDbJZVZu2H) | [Theo Bleak](https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk) | [You Said I'd Feel It All Again](https://open.spotify.com/album/4PB0sUYPXDP7s5O5zYW2Zk) | 3:52 | 2025-01-23 | 2025-02-12 |
+| [Yvonne](https://open.spotify.com/track/4fPaBqB8bWftagOHy2xtDF) | [Foxwarren](https://open.spotify.com/artist/2dPIBvg7mU59dCTGjhPylV), [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx), [Darryl Kissick](https://open.spotify.com/artist/1VbP2VbyU1Ht1wtIAMn4Gc) | [Yvonne](https://open.spotify.com/album/3pFLJO0siLPq3r89fuJVk7) | 2:12 | 2025-05-29 |  |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

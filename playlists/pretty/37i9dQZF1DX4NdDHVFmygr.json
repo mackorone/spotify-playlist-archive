@@ -1,12 +1,12 @@
 {
   "description": "Made in Morocco, 100% hits marocains.",
-  "num_followers": 47521,
+  "num_followers": 47733,
   "original_name": "Hit Maghribi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDamJgAAAADnkyz+04/CWX/MwK3gYfZM",
+  "snapshot_id": "aDhnywAAAACjLajAp6wKVEztBtlpsSXH",
   "tracks": [
     {
       "added_at": "2025-05-28 05:59:02",
@@ -27,26 +27,6 @@
       "duration_ms": 228017,
       "name": "RS6",
       "url": "https://open.spotify.com/track/6EqhAlO3OAirPbd1kwIbBX"
-    },
-    {
-      "added_at": "2025-05-28 05:59:02",
-      "album": {
-        "name": "Mok ya mok",
-        "url": "https://open.spotify.com/album/6bf0QljuZqYPriKjVQtwG7"
-      },
-      "artists": [
-        {
-          "name": "Benny Adam",
-          "url": "https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA"
-        },
-        {
-          "name": "Khadija El Warzazia",
-          "url": "https://open.spotify.com/artist/2ygf9jdzulwgls2Gx1jTdm"
-        }
-      ],
-      "duration_ms": 158987,
-      "name": "Mok ya mok",
-      "url": "https://open.spotify.com/track/2yQn0Y5mODyHfCk4oxBPfr"
     },
     {
       "added_at": "2025-05-28 05:59:02",
@@ -107,6 +87,26 @@
       "duration_ms": 182535,
       "name": "Jedi ou Jedek",
       "url": "https://open.spotify.com/track/1v8fRuVvA9JhBcCcoP70tE"
+    },
+    {
+      "added_at": "2025-05-28 05:59:02",
+      "album": {
+        "name": "Mok ya mok",
+        "url": "https://open.spotify.com/album/6bf0QljuZqYPriKjVQtwG7"
+      },
+      "artists": [
+        {
+          "name": "Benny Adam",
+          "url": "https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA"
+        },
+        {
+          "name": "Khadija El Warzazia",
+          "url": "https://open.spotify.com/artist/2ygf9jdzulwgls2Gx1jTdm"
+        }
+      ],
+      "duration_ms": 158987,
+      "name": "Mok ya mok",
+      "url": "https://open.spotify.com/track/2yQn0Y5mODyHfCk4oxBPfr"
     },
     {
       "added_at": "2025-05-28 05:59:02",

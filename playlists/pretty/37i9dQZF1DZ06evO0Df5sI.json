@@ -1,12 +1,12 @@
 {
   "description": "This is Alkaline Trio. The essential tracks, all in one playlist.",
-  "num_followers": 22238,
+  "num_followers": 22246,
   "original_name": "This Is Alkaline Trio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDUAgAAAAACFgM029HFJ/S8P3GLaJDVX",
+  "snapshot_id": "aDZSAAAAAAA+JT0RnmFzoW+n+7ZtQ+fh",
   "tracks": [
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maybe I'll Catch Fire",
-        "url": "https://open.spotify.com/album/2cosroXFwTeqXEwrWEXFJK"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 289706,
-      "name": "Fuck You Aurora",
-      "url": "https://open.spotify.com/track/2VDhNJigUBtbkxToyLPu2I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Remains",
         "url": "https://open.spotify.com/album/6U1NRLEie1cPXfDt2kf8Nz"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 154080,
       "name": "My Standard Break from Life",
       "url": "https://open.spotify.com/track/67aA3pLpZ02gtMlOLaEBb4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maybe I'll Catch Fire",
+        "url": "https://open.spotify.com/album/2cosroXFwTeqXEwrWEXFJK"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 289706,
+      "name": "Fuck You Aurora",
+      "url": "https://open.spotify.com/track/2VDhNJigUBtbkxToyLPu2I"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Goddamnit!",
-        "url": "https://open.spotify.com/album/6600hazblXXS27uIdcPLBs"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 143893,
-      "name": "Cringe",
-      "url": "https://open.spotify.com/track/7ybKcYQZbAF7QGSovgqwPQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Is This Thing Cursed?",
         "url": "https://open.spotify.com/album/1qmUB0PQQDdu00WMpro2YC"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 163506,
       "name": "Is This Thing Cursed?",
       "url": "https://open.spotify.com/track/4KgLMgC9724dK12vbHkbYk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Goddamnit!",
+        "url": "https://open.spotify.com/album/6600hazblXXS27uIdcPLBs"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 143893,
+      "name": "Cringe",
+      "url": "https://open.spotify.com/track/7ybKcYQZbAF7QGSovgqwPQ"
     },
     {
       "added_at": null,

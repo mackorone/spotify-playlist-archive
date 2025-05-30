@@ -1781,6 +1781,24 @@
     },
     {
       "album": {
+        "name": "Feels like That",
+        "url": "https://open.spotify.com/album/74iE9zshOGQsSLWsAtmPlq"
+      },
+      "artists": [
+        {
+          "name": "Victor Lundberg",
+          "url": "https://open.spotify.com/artist/3aPt0ITiKD1r1GXV3RvOUh"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216955,
+      "name": "Feels like That",
+      "url": "https://open.spotify.com/track/6odNsNmG4RJbxIkNBe9otp"
+    },
+    {
+      "album": {
         "name": "Fehu (First Flight of the White Raven LIVE)",
         "url": "https://open.spotify.com/album/23ghp02cykc1CY2BWn74RR"
       },
@@ -4210,7 +4228,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 178645,
       "name": "Raining Over Fire",
       "url": "https://open.spotify.com/track/7Ivhfxnqx1n3eP5o5WManb"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXiF0EOUoR.md) - [plain]
 
 > ¡Los reyes del jaripeo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,908 likes - 125 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,018 likes - 125 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXiF0EOUoR.md) - [plain]
 | 54 | [Oye Traicionera](https://open.spotify.com/track/38PM1JFTCqvHHFbc230ud1) | [Banda Trancazo](https://open.spotify.com/artist/6RS70ocGGNzPKiJVhgf3m9), [Arturo Camarillo](https://open.spotify.com/artist/3p0GWiyIY3AOcBWvXXVQ4h) | [La Trayectoria! \(De Arturo Camarillo\)](https://open.spotify.com/album/5mcVVKulTCGOStTTJ6Pgir) | 2:44 |
 | 55 | [El Pistolero \- En Vivo](https://open.spotify.com/track/5LO8ZNqDLAKtqhTlHoQEQo) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Corridos, Rancheras Y Caballos En Vivo](https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2) | 2:16 |
 | 56 | [Popurri Sones: Maria Chuchena / Ya Llegué ya Estoy Aquí / Era de Madrugada / Juan Colorado](https://open.spotify.com/track/1jMSzQlX6y0buI1XZX3ebH) | [Banda Alteñita de Morelia](https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA) | [Una Vez Más](https://open.spotify.com/album/3pg4CVG7UZ5UI1AxSekVEe) | 4:20 |
-| 57 | [Los Colorados \(feat\. Banda los Escamilla\)](https://open.spotify.com/track/5xLUgaS5V8x2cDfvdwH4Je) | [Marco Flores Y La Jerez](https://open.spotify.com/artist/3cseuYmozraz4XJn6nDo80), [Banda Los Escamilla](https://open.spotify.com/artist/1QOcySvn6xdJQlWVnn9LVE) | [Zapateado Perron](https://open.spotify.com/album/3Lz2dyR7iYlDI600eyCDD6) | 2:47 |
-| 58 | [Lucesita](https://open.spotify.com/track/5EdZ3ta2DrvCjPtHNr8A7Y) | [Guizador Norteño de Zirahuén Mich.](https://open.spotify.com/artist/4fGn6oclcpfVniidRAvXLP) | [Los Únicos del Huapango Michoacano](https://open.spotify.com/album/5y4vlR58lLHIxvJEafFogr) | 2:28 |
+| 57 | [Lucesita](https://open.spotify.com/track/5EdZ3ta2DrvCjPtHNr8A7Y) | [Guizador Norteño de Zirahuén Mich.](https://open.spotify.com/artist/4fGn6oclcpfVniidRAvXLP) | [Los Únicos del Huapango Michoacano](https://open.spotify.com/album/5y4vlR58lLHIxvJEafFogr) | 2:28 |
+| 58 | [Los Colorados \(feat\. Banda los Escamilla\)](https://open.spotify.com/track/5xLUgaS5V8x2cDfvdwH4Je) | [Marco Flores Y La Jerez](https://open.spotify.com/artist/3cseuYmozraz4XJn6nDo80), [Banda Los Escamilla](https://open.spotify.com/artist/1QOcySvn6xdJQlWVnn9LVE) | [Zapateado Perron](https://open.spotify.com/album/3Lz2dyR7iYlDI600eyCDD6) | 2:47 |
 | 59 | [Arriba Pichataro](https://open.spotify.com/track/4qgZRDRozAvoTiDtvj0qJe) | [Banda Sinaloense Acero de Pablo Molina Jr.](https://open.spotify.com/artist/53qlNZcUOqKJpIdF61XYBc) | [¡¡La Explosiva!!](https://open.spotify.com/album/49pZIrjzr3D1ABMIFI0nGP) | 3:02 |
 | 60 | [El Carretero](https://open.spotify.com/track/5Li8aTVHhTJgAfocGruRpw) | [Los Infinitos Puro Zirahuen](https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9) | [Las Alegres de los Infinitos](https://open.spotify.com/album/2i5ASZlby3bDtfMaAMAr3d) | 4:13 |
 | 61 | [El Toro De Once \- En Vivo](https://open.spotify.com/track/4jAO429cfLZ4ctSM0QqYOZ) | [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Puras De Viento En Vivo, Vol\. 2](https://open.spotify.com/album/2I1QM5M1gqlrpV6IbkYUrz) | 1:59 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXiF0EOUoR.md) - [plain]
 | 70 | [La Feria de Cali](https://open.spotify.com/track/1yNugyc4i6Jym2iHc6aRpm) | [Los Infinitos Puro Zirahuen](https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9) | [Las Alegres de los Infinitos](https://open.spotify.com/album/2i5ASZlby3bDtfMaAMAr3d) | 2:41 |
 | 71 | [El Toro Requeson](https://open.spotify.com/track/3JBvJYWA23gl28AxyHO1mD) | [Banda la Fascinante del Merito Zirahuen](https://open.spotify.com/artist/0Okqj1OnCQCSgahhvdxo0W) | [Que Chulo Es el Jaripeo](https://open.spotify.com/album/0YIi0dyu3IGa5Vzwpji83F) | 3:31 |
 | 72 | [Pelea De Gallos \- En Vivo](https://open.spotify.com/track/0Ytws5SI0vLt2uPWvkgsj0) | [La Explosiva Banda de Maza](https://open.spotify.com/artist/2KgVCSjwMY3lqnXElXFqTR) | [En Vivo Desde El Rancho](https://open.spotify.com/album/4zgtbXo3phFaCdBnGQ4x8N) | 3:16 |
-| 73 | [Amores de Julia \(En Vivo\)](https://open.spotify.com/track/05yWQdfjN7vuJOwMUhpFq9) | [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Puras de Viento, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/28mc6PwouKVxKjoKlsmEtm) | 3:25 |
-| 74 | [Fiesta de Enero](https://open.spotify.com/track/5KhK6Wjsr7GBeLKrPlWune) | [La Unica Flor De Chirimoyo](https://open.spotify.com/artist/7H68WnqkPEXWadoCUkXKD9) | [Fiesta de Enero](https://open.spotify.com/album/14wBf39CUmkvJqXvR8OKPg) | 2:25 |
+| 73 | [Fiesta de Enero](https://open.spotify.com/track/5KhK6Wjsr7GBeLKrPlWune) | [La Unica Flor De Chirimoyo](https://open.spotify.com/artist/7H68WnqkPEXWadoCUkXKD9) | [Fiesta de Enero](https://open.spotify.com/album/14wBf39CUmkvJqXvR8OKPg) | 2:25 |
+| 74 | [Amores de Julia \(En Vivo\)](https://open.spotify.com/track/05yWQdfjN7vuJOwMUhpFq9) | [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Puras de Viento, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/28mc6PwouKVxKjoKlsmEtm) | 3:25 |
 | 75 | [La Burra Orejona](https://open.spotify.com/track/4g9S6u0oMzIsRrHvubAyXt) | [Banda Trancazo](https://open.spotify.com/artist/6RS70ocGGNzPKiJVhgf3m9), [Arturo Camarillo](https://open.spotify.com/artist/3p0GWiyIY3AOcBWvXXVQ4h) | [Las Mamirriquis](https://open.spotify.com/album/3Q6ytU0NXA47Ba4HEhaE6I) | 2:44 |
 | 76 | [Agua de Té](https://open.spotify.com/track/5HqEVtaLpA8bLnlmX0y8AC) | [Banda La Movida](https://open.spotify.com/artist/4gD8odSwAK19NPcpUiFDf0) | [Agua de Té](https://open.spotify.com/album/2l9bArfA1xUx8VlN168tvQ) | 2:50 |
 | 77 | [El Novillo Despuntado](https://open.spotify.com/track/0GIzpXOlN76DoUWnK2F3bR) | [Banda la Fascinante del Merito Zirahuen](https://open.spotify.com/artist/0Okqj1OnCQCSgahhvdxo0W) | [Que Chulo Es el Jaripeo](https://open.spotify.com/album/0YIi0dyu3IGa5Vzwpji83F) | 2:57 |
@@ -132,6 +132,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXiF0EOUoR.md) - [plain]
 | 122 | [Provócame](https://open.spotify.com/track/7EhjgNLMiTYCh6ClCy3RIT) | [Banda Tierra Sagrada](https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT) | [Ajeno](https://open.spotify.com/album/7nJVbjmvbcsnJvqtT1eXvK) | 3:00 |
 | 123 | [Eva María](https://open.spotify.com/track/0AhvaPKACJhgkir9aUfE2S) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella De Los Bailes](https://open.spotify.com/album/0KtFZRY2V1N4slEqBws2iH) | 2:47 |
 | 124 | [El Sinaloense](https://open.spotify.com/track/57qATI59zt97GfYpac1FoS) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Raíces](https://open.spotify.com/album/3P0x6Hb7bQmv3mAHZ3M4Pl) | 1:53 |
-| 125 | [El Teterete](https://open.spotify.com/track/4hwq3Fwh2YotxDBndS8cKk) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella De Los Bailes](https://open.spotify.com/album/0KtFZRY2V1N4slEqBws2iH) | 2:56 |
+| 125 | [El Alacrán](https://open.spotify.com/track/11ZyiDSiT3aQCKE13adq2r) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tumbando Caña](https://open.spotify.com/album/7hX8dHQT6ArpmEKMwd0sSM) | 2:34 |
 
 Snapshot ID: `Zs53XAAAAACFRkMg01e/wB5Lq69f8kp/`

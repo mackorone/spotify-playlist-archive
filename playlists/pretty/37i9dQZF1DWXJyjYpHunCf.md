@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJyjYpHunCf.md) - [plain]
 
 > The best of folk\-infused pop and singer\-songwriter\. Cover: Vincent Lima
 
-[Spotify](https://open.spotify.com/user/spotify) - 955,772 likes - 106 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 955,860 likes - 106 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJyjYpHunCf.md) - [plain]
 | 105 | [Highway Queen](https://open.spotify.com/track/3E7z1rLE9rR2rhTW3TeXGo) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Highway Queen](https://open.spotify.com/album/5IDhjEAh7I0P8IXf5YIiiv) | 3:32 |
 | 106 | [Landmine](https://open.spotify.com/track/4YjTwBC1T231kB5AEOK8vf) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [AUSTIN](https://open.spotify.com/album/4wiL1pYcgXSvhbaGuM1Xxo) | 3:04 |
 
-Snapshot ID: `aC/y8gAAAAAIFicTagayM2KJXDvU8GJd`
+Snapshot ID: `aC/y8gAAAACMCsT8kEwkEosFir39dK4Z`

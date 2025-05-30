@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs in Latin America in 2000. Cover: Joan Sebastian",
-  "num_followers": 61529,
+  "num_followers": 61554,
   "original_name": "Latin Hits 2000",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2024-07-13 01:17:59",
       "album": {
+        "name": "Son By 4",
+        "url": "https://open.spotify.com/album/6FaDCE5IxXXMXVn3etukKq"
+      },
+      "artists": [
+        {
+          "name": "Son By Four",
+          "url": "https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j"
+        }
+      ],
+      "duration_ms": 210186,
+      "name": "A Puro Dolor - Balada",
+      "url": "https://open.spotify.com/track/28upjDakWVnHAgW2anm273"
+    },
+    {
+      "added_at": "2024-07-13 01:17:59",
+      "album": {
         "name": "2000 Grandes Exitos",
         "url": "https://open.spotify.com/album/4dqiQqmKsYhgmrocMXhogw"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 285773,
       "name": "El Ultimo Adios",
       "url": "https://open.spotify.com/track/7lnun6viJADQCvZnE0w9q8"
-    },
-    {
-      "added_at": "2024-07-13 01:17:59",
-      "album": {
-        "name": "Son By 4",
-        "url": "https://open.spotify.com/album/6FaDCE5IxXXMXVn3etukKq"
-      },
-      "artists": [
-        {
-          "name": "Son By Four",
-          "url": "https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j"
-        }
-      ],
-      "duration_ms": 210186,
-      "name": "A Puro Dolor - Balada",
-      "url": "https://open.spotify.com/track/28upjDakWVnHAgW2anm273"
     },
     {
       "added_at": "2024-07-13 01:17:59",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-07-13 01:17:59",
       "album": {
-        "name": "Paulina",
-        "url": "https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB"
-      },
-      "artists": [
-        {
-          "name": "Paulina Rubio",
-          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
-        }
-      ],
-      "duration_ms": 274506,
-      "name": "Tal Vez Quizas",
-      "url": "https://open.spotify.com/track/4Ft4AbNwk1acKagaBOmvHb"
-    },
-    {
-      "added_at": "2024-07-13 01:17:59",
-      "album": {
         "name": "Coraz\u00f3n Duro",
         "url": "https://open.spotify.com/album/3C5eb62kdgXXv8ZLzfGkiB"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 287960,
       "name": "Que Vuelva",
       "url": "https://open.spotify.com/track/0ndYI8UT0PMaJzKLJbFr35"
+    },
+    {
+      "added_at": "2024-07-13 01:17:59",
+      "album": {
+        "name": "Paulina",
+        "url": "https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB"
+      },
+      "artists": [
+        {
+          "name": "Paulina Rubio",
+          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
+        }
+      ],
+      "duration_ms": 274506,
+      "name": "Tal Vez Quizas",
+      "url": "https://open.spotify.com/track/4Ft4AbNwk1acKagaBOmvHb"
     },
     {
       "added_at": "2024-07-13 01:17:59",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-07-13 01:17:59",
       "album": {
-        "name": "Subir Al Cielo",
-        "url": "https://open.spotify.com/album/6ghZXanM9ROEjqSDgKOmPq"
-      },
-      "artists": [
-        {
-          "name": "MDO",
-          "url": "https://open.spotify.com/artist/08xFgTEmizKwzfDSbxvODp"
-        }
-      ],
-      "duration_ms": 262400,
-      "name": "Te Quise Olvidar",
-      "url": "https://open.spotify.com/track/4UGv3IQYXPj9oR2RMkarWy"
-    },
-    {
-      "added_at": "2024-07-13 01:17:59",
-      "album": {
         "name": "Originales - 20 Exitos",
         "url": "https://open.spotify.com/album/3mHTWntPW5EGMkb54cn1PK"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 181866,
       "name": "Imagina",
       "url": "https://open.spotify.com/track/5rTpWh5T1yPhIAV9mbmYEW"
+    },
+    {
+      "added_at": "2024-07-13 01:17:59",
+      "album": {
+        "name": "Subir Al Cielo",
+        "url": "https://open.spotify.com/album/6ghZXanM9ROEjqSDgKOmPq"
+      },
+      "artists": [
+        {
+          "name": "MDO",
+          "url": "https://open.spotify.com/artist/08xFgTEmizKwzfDSbxvODp"
+        }
+      ],
+      "duration_ms": 262400,
+      "name": "Te Quise Olvidar",
+      "url": "https://open.spotify.com/track/4UGv3IQYXPj9oR2RMkarWy"
     },
     {
       "added_at": "2024-07-13 01:17:59",

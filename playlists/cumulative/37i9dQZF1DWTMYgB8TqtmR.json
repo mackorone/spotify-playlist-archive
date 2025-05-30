@@ -2192,7 +2192,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-28",
+      "date_removed": null,
       "duration_ms": 156721,
       "name": "Blink Twice",
       "url": "https://open.spotify.com/track/3f3ujFD6YndqRRVYuBcq7T"
@@ -5929,6 +5929,28 @@
     },
     {
       "album": {
+        "name": "Y4",
+        "url": "https://open.spotify.com/album/1Hmubk9vXxysBNC3qv9iGe"
+      },
+      "artists": [
+        {
+          "name": "Y4ska",
+          "url": "https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8"
+        },
+        {
+          "name": "01an",
+          "url": "https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110720,
+      "name": "F\u00f6rst\u00e5 mig",
+      "url": "https://open.spotify.com/track/3j0HI048DJuzpG7oTugkBF"
+    },
+    {
+      "album": {
         "name": "F\u00d6RS\u00d6KER LE (med Moonica Mac)",
         "url": "https://open.spotify.com/album/2Gz2am7y6keHTV10qXuExl"
       },
@@ -6820,7 +6842,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 201480,
       "name": "Hej d\u00e4r mitt hj\u00e4rta",
       "url": "https://open.spotify.com/track/1oBZzUV7j9zivts8gfZXNR"
@@ -7472,7 +7494,7 @@
       ],
       "date_added": "2025-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 173973,
       "name": "Hush Hush",
       "url": "https://open.spotify.com/track/3kzhtJH4jrnKQmuE8ai8ob"
@@ -9896,6 +9918,24 @@
       "duration_ms": 177598,
       "name": "luther (with sza)",
       "url": "https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ"
+    },
+    {
+      "album": {
+        "name": "Lys p\u00e5 mig",
+        "url": "https://open.spotify.com/album/3WzL7EQg84unvvF8q3Cq5M"
+      },
+      "artists": [
+        {
+          "name": "Victor Leksell",
+          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159346,
+      "name": "Lys p\u00e5 mig",
+      "url": "https://open.spotify.com/track/3kbNesyQPnUreP6bD7aADS"
     },
     {
       "album": {
@@ -13956,7 +13996,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 181533,
       "name": "Skriker mitt namn",
       "url": "https://open.spotify.com/track/3jGTLWpILJexFMVibAjij9"

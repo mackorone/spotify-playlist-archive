@@ -4,7 +4,7 @@
 
 > Celebrating 10 years of the best new rock & alternative music from independent artists\. Cover: xiao xiao
 
-1,951 songs - 4 day 11 hr 50 min
+1,952 songs - 4 day 11 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1134,6 +1134,7 @@
 | [Miss The World](https://open.spotify.com/track/5vhCkB7OUbaEj7VE5RTihF) | [Body Type](https://open.spotify.com/artist/2gOqvEhTe5TjetSBfivC4D) | [Miss The World](https://open.spotify.com/album/7qm9A3oWQECjSrZINteqXY) | 2:54 | 2023-02-22 | 2023-03-16 |
 | [mo\(u\)rning anthem](https://open.spotify.com/track/2UZnsTg18LhM6StQZ3x1IG) | [Latchkey Kids](https://open.spotify.com/artist/6bXl33OFvcjrGSQ9F1lrSn) | [mo\(u\)rning anthem](https://open.spotify.com/album/0Wl0QXbaiPj4vhQ6DLcltW) | 3:27 | 2023-08-23 | 2023-09-14 |
 | [Modern English](https://open.spotify.com/track/2CzZlfAj85seWiAM5gSn2A) | [CURL](https://open.spotify.com/artist/0lHXr4tEM3cM2FqAgXfey1) | [Modern English](https://open.spotify.com/album/2DMpo4UuTs2FBEwGdiv70k) | 2:53 | 2023-03-15 | 2023-05-04 |
+| [Modern Man](https://open.spotify.com/track/10VAsXITsdLNv3kWjB2Omu) | [MORN](https://open.spotify.com/artist/0kyIsGsq7em6p0dOUwOAI3) | [Modern Man](https://open.spotify.com/album/3m7OWCL2PfBrcj2Fu179kx) | 4:09 | 2025-05-29 |  |
 | [Modo](https://open.spotify.com/track/6O7rJqVltHSlHccxKgJrqZ) | [FREDDY L](https://open.spotify.com/artist/6UisYsxBIJxT8NGZvmzXsm) | [Modo](https://open.spotify.com/album/5Rt0j3oFothc5SZpeQQmMZ) | 3:37 | 2025-05-28 |  |
 | [Molly Sells Molly By The Seashore](https://open.spotify.com/track/7CcxWi6M4H22ga7IJfOAth) | [Sorry Mom](https://open.spotify.com/artist/0KZzhF4tqJGaVOrXXONmCX) | [Molly Sells Molly By The Seashore](https://open.spotify.com/album/4CLBaAh7QXO9GVPVBokZ7w) | 2:22 | 2022-02-23 | 2023-01-12 |
 | [Moment](https://open.spotify.com/track/4OwL6wx20XzC7OCpbwLJva) | [Mercury.](https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk) | [Moment](https://open.spotify.com/album/1QWh1gzONi6q4u44t3GlnV) | 1:53 | 2022-08-10 | 2022-10-13 |

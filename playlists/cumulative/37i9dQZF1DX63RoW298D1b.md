@@ -4,7 +4,7 @@
 
 > Soothing piano for the ultimate wind down.
 
-218 songs - 9 hr 13 min
+219 songs - 9 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,7 @@
 | [Light From the Stars](https://open.spotify.com/track/6gdfuIxnmyRMpca7pP7ok5) | [Hues of Ruby](https://open.spotify.com/artist/2mDOYcn8NaX5VXn6DAECyW) | [Light From the Stars](https://open.spotify.com/album/6mjBBRGkUO8dyMFtw56OGn) | 1:52 | 2024-08-07 | 2025-04-10 |
 | [Light of wintertime](https://open.spotify.com/track/3Q1HOPyyOPygEkiF5j8TDL) | [Josephe Burke](https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi) | [Light of wintertime](https://open.spotify.com/album/5BmL3qmVWwq9ErKKZP0SoD) | 2:11 | 2023-07-04 |  |
 | [Lisser](https://open.spotify.com/track/7JuANIIOksqHRFXgE8tEld) | [Miran](https://open.spotify.com/artist/2Nk5XPyODZYGkTpGPQel2Q) | [Lisser](https://open.spotify.com/album/5tmo9htHpTWaVxZEgHFtB8) | 2:05 | 2023-05-09 |  |
-| [Little Things](https://open.spotify.com/track/1L9NurhEYJFmy69FNRZpQX) | [Jeroen Granneman](https://open.spotify.com/artist/1R0UpoenE1gqapaTNm9d0f) | [Little Things](https://open.spotify.com/album/5wP3H8FWcmE8A8mGAL6VIn) | 2:10 | 2024-04-09 |  |
+| [Little Things](https://open.spotify.com/track/1L9NurhEYJFmy69FNRZpQX) | [Jeroen Granneman](https://open.spotify.com/artist/1R0UpoenE1gqapaTNm9d0f) | [Little Things](https://open.spotify.com/album/5wP3H8FWcmE8A8mGAL6VIn) | 2:10 | 2024-04-09 | 2025-05-30 |
 | [Long\-Awaited Light](https://open.spotify.com/track/0MllxU17FqcO092gj9Gj9k) | [Marcelo Salvius](https://open.spotify.com/artist/4exM1DAqbTjDfgaj98AGiO) | [Long\-Awaited Light](https://open.spotify.com/album/4dtLMUejmFxtkEBRs3yjCN) | 2:38 | 2025-03-11 |  |
 | [Longing](https://open.spotify.com/track/7jL00x2jA5kyTuaqqf8PYq) | [Dan Lambert](https://open.spotify.com/artist/4Z9sG8VEIAR6v4wlMncoNI) | [Echoes of Home](https://open.spotify.com/album/7yCqK5TU8KBZM4MeyHqydu) | 2:22 | 2023-12-12 |  |
 | [Longitude](https://open.spotify.com/track/28W2mqtvitwaoKe5IHL4M9) | [Frederiq](https://open.spotify.com/artist/4WdIA6FvazMuJOCReHzRN1) | [Longitude](https://open.spotify.com/album/5xkVqIK6vdCA6e3rWJjYjJ) | 2:34 | 2024-05-23 | 2025-03-13 |
@@ -158,6 +158,7 @@
 | [Promise](https://open.spotify.com/track/1CcNphJqbsJSlMLZEldCYU) | [Morten Lidahl](https://open.spotify.com/artist/1RI9zJgpCO01hSCfh9k7YT) | [Promise](https://open.spotify.com/album/2gRUbzO0fVE1cmNLQLTMZr) | 2:11 | 2023-05-09 | 2024-02-14 |
 | [Quiet](https://open.spotify.com/track/2s7vQpVichRlRiyNuIPtKA) | [Naomi Coleman](https://open.spotify.com/artist/3Xv5X7d2v1UchIWXei1xHc) | [Quiet](https://open.spotify.com/album/4gpse5MnShhhOBEa4DDdnp) | 2:22 | 2023-05-09 | 2025-02-27 |
 | [Quiet Eyes](https://open.spotify.com/track/2oafUifmaR1uBS3o9o7uLO) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Quiet Eyes](https://open.spotify.com/album/1KnEqKgjw9ryJcHvIgKHL0) | 2:21 | 2023-05-09 |  |
+| [Quiet Palette](https://open.spotify.com/track/7404RoJRtD7G6js1gAdZGz) | [Mijongya](https://open.spotify.com/artist/7GPrD3dPYED5wENCMHirj7) | [Quiet Palette](https://open.spotify.com/album/02ptJu9pkcqOeejvdyvJep) | 2:48 | 2025-05-29 |  |
 | [Quietly, continually](https://open.spotify.com/track/7btf0vfKva9sZ8u4kj84kp) | [Jaquline Falsamo](https://open.spotify.com/artist/4mKpjCmlzJF2PgO8SKwFhK) | [Quietly, continually](https://open.spotify.com/album/0hwbRaVJAjhTTtUA8FE25Q) | 2:18 | 2023-05-09 | 2024-08-08 |
 | [Rays](https://open.spotify.com/track/1o23KVEUtj9M51iEGJg78o) | [Floyd Nova](https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz) | [Rays](https://open.spotify.com/album/2AP9ZRgQEolXjRccHlPqw1) | 2:33 | 2025-03-20 |  |
 | [Residue](https://open.spotify.com/track/1G8rGktpVVsVB6k15w8VKk) | [Adam Estrin](https://open.spotify.com/artist/0RyjN3ANxbj9V5mG1WiYF4) | [Residue](https://open.spotify.com/album/0r7pTejrU8nkzap2IroW2z) | 2:26 | 2023-05-09 | 2024-02-14 |

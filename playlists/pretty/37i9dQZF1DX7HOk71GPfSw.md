@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > we want that pop life 😮‍💨😮‍💨 ft\. umru &  underscores
 
-[Spotify](https://open.spotify.com/user/spotify) - 470,327 likes - 200 songs - 9 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 470,360 likes - 200 songs - 9 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Poplife](https://open.spotify.com/track/2cClnOEBnNJWxbLuTFVIgK) | [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx), [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Poplife](https://open.spotify.com/album/3yhQdourJwBarIJ1pEO12Z) | 2:43 |
 | 2 | [go](https://open.spotify.com/track/4H448E9IQ0TV4nmLRMJ2BH) | [nate sib](https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv) | [for us](https://open.spotify.com/album/0dLV7pFGKpSsJBMQr0FAjf) | 2:19 |
 | 3 | [with u](https://open.spotify.com/track/5bQDapqPmoCukx6ZgO4T1b) | [2006WR](https://open.spotify.com/artist/5IpbIczge2iZZKQn50SQxE) | [with u](https://open.spotify.com/album/1e1d2t4jdgxB9LVqnc0ZWe) | 2:16 |
-| 4 | [Supernova \(feat funeral\)](https://open.spotify.com/track/3T7uuh01GneWZzQEkFfXOs) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu), [funeral](https://open.spotify.com/artist/3f0Mhz0oXmnsnehuEGTrfd) | [Supernova \(feat funeral\)](https://open.spotify.com/album/7KEc7xSd2Iy00kejA9nGPV) | 3:04 |
+| 4 | [Supernova ft funeral](https://open.spotify.com/track/3T7uuh01GneWZzQEkFfXOs) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu), [funeral](https://open.spotify.com/artist/3f0Mhz0oXmnsnehuEGTrfd) | [Supernova ft funeral](https://open.spotify.com/album/7KEc7xSd2Iy00kejA9nGPV) | 3:04 |
 | 5 | [down](https://open.spotify.com/track/4TsTsXukyNBJ5EfYFOw8LG) | [Effie](https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ) | [E](https://open.spotify.com/album/3qgDvO08Y80fcmDPw1k5Kw) | 2:14 |
 | 6 | [Xxxx pt 2](https://open.spotify.com/track/529lUcL9tLXXCsdI3yPM3O) | [Coupdekat](https://open.spotify.com/artist/7dkxCFHMMu1kwCdmCA15i0), [Yazida](https://open.spotify.com/artist/4XYMiEaq0oqFVyBDPfhUfw) | [Xxxx pt 2](https://open.spotify.com/album/7qoiIPsmyDpPpMdZkhOwqT) | 2:07 |
 | 7 | [left to right](https://open.spotify.com/track/4XlNNRHfvBRj5YEz04NGUQ) | [rommulas](https://open.spotify.com/artist/4QsDoxai6urbmrML19OYa3), [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [left to right](https://open.spotify.com/album/0e2H2HkcvsWYmKfrX8iSyJ) | 2:34 |

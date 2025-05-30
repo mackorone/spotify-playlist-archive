@@ -907,6 +907,24 @@
     },
     {
       "album": {
+        "name": "Kpm 1000 Series: A Jazz Inclination",
+        "url": "https://open.spotify.com/album/4EsNzg8Jytnb1yLL0GnbNF"
+      },
+      "artists": [
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137308,
+      "name": "Errol\u0092S Choice",
+      "url": "https://open.spotify.com/track/5479HLz16uzIvVtsH4boxv"
+    },
+    {
+      "album": {
         "name": "Bruton BRI6: Frontiers of Science",
         "url": "https://open.spotify.com/album/69yhwzUOl8NMtkS4GatWat"
       },
@@ -1776,7 +1794,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 169215,
       "name": "Mystique Voyage",
       "url": "https://open.spotify.com/track/4sgv8AIbpS2ABbxVtiOCCc"
@@ -2280,7 +2298,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 100666,
       "name": "Roving Reporter",
       "url": "https://open.spotify.com/track/70ilfw7o4EekgZt3P8EgDz"
@@ -2580,7 +2598,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-12",
+      "date_removed": null,
       "duration_ms": 77733,
       "name": "Speed Speed Speed",
       "url": "https://open.spotify.com/track/6KequWeuLVnMMf1engpVTa"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5OF1YU2YzcMyFem3Fi4M3E">Boi\-1da</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,901 likes - 295 songs - 17 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,902 likes - 295 songs - 17 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -142,8 +142,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 132 | [Party Favors \(feat\. Young Thug\)](https://open.spotify.com/track/4XrKWBHDm587nYp6Io33oo) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Party Favors \(feat\. Young Thug\)](https://open.spotify.com/album/6euw4OOlKt20SAPSz4xKhY) | 4:29 |
 | 133 | [Runnin'](https://open.spotify.com/track/0lgVoUJ2uVH9dwCFPJ3VI6) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Planet Vi](https://open.spotify.com/artist/4agw08n3c2hO48lNfaxJrt) | [Lace Up \(Deluxe\)](https://open.spotify.com/album/5NzdnPboXcqvuvyEH1wSEJ) | 2:47 |
 | 134 | [This is My Time](https://open.spotify.com/track/0NuO1kL7vrWOX8P63qsCsb) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Boi\-1da](https://open.spotify.com/artist/2RQnTQM6OQd8dTUDF7UsT7) | [This is My Time](https://open.spotify.com/album/6nJWaWQT89YyRS9juVAvO0) | 2:15 |
-| 135 | [R.O.D.](https://open.spotify.com/track/5AmzfSxCIOPxPmppoHrr12) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Artist 2.0](https://open.spotify.com/album/0cZAE6guibfcYmTZD7hiae) | 3:34 |
-| 136 | [Run Away \(feat\. Bryson Tiller\)](https://open.spotify.com/track/5JrQ1Jc3udCcAJasEpH0Ov) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [11:11 \(Deluxe\)](https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz) | 3:27 |
+| 135 | [Run Away \(feat\. Bryson Tiller\)](https://open.spotify.com/track/5JrQ1Jc3udCcAJasEpH0Ov) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [11:11 \(Deluxe\)](https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz) | 3:27 |
+| 136 | [R.O.D.](https://open.spotify.com/track/5AmzfSxCIOPxPmppoHrr12) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Artist 2.0](https://open.spotify.com/album/0cZAE6guibfcYmTZD7hiae) | 3:34 |
 | 137 | [Serial Lover](https://open.spotify.com/track/5ftR963YlX88OeCAPnXG2Z) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 2:25 |
 | 138 | [Different Now](https://open.spotify.com/track/5h2RIt544riNwCr3EH9xGe) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [Different Now](https://open.spotify.com/album/0nRbM6EKEQhmyCTsWEPLO7) | 3:22 |
 | 139 | [Draft Day](https://open.spotify.com/track/3W3FVHEDetkiRkkGKDmdir) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Care Package](https://open.spotify.com/album/7dqpveMVcWgbzqYrOdkFTD) | 4:26 |
@@ -251,8 +251,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 241 | [Golden](https://open.spotify.com/track/0CPDHa2T8wHmiXsJWzoA6Y) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [CHOMP 2](https://open.spotify.com/album/6a1EFm7L9Nl1wTm7JsrYBK) | 2:50 |
 | 242 | [R.G.](https://open.spotify.com/track/1wg7lAk7YpKA90pFwSERZS) | [Rich Gang](https://open.spotify.com/artist/5pU9lKGn9IUnVvOCONrcIS), [Mystikal](https://open.spotify.com/artist/3LIJJJkO7R5RasRwt7xIn5) | [Rich Gang \(Deluxe Version\)](https://open.spotify.com/album/2uhiqri87eC7Xe0tg9p7fB) | 2:53 |
 | 243 | [Alcantara](https://open.spotify.com/track/7Efz4qL6h9FeVh8lf77Mvi) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [Mumble Rap](https://open.spotify.com/album/04XJbeTbd7CvN0eXwe4K8P) | 3:07 |
-| 244 | [Red Wine](https://open.spotify.com/track/7z6S8E0LFGeG6mZIIujNFe) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Talk A Good Game \(Deluxe Edition\)](https://open.spotify.com/album/059i5tLNW2ASf1qoVn6LSX) | 4:19 |
-| 245 | [Vince Carter](https://open.spotify.com/track/2QiOWQ06XZHH1DADLoxL46) | [KILLY](https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD), [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR) | [Crazy Life of Sin](https://open.spotify.com/album/6yVI793K5iV8YvM1251KhV) | 3:29 |
+| 244 | [Vince Carter](https://open.spotify.com/track/2QiOWQ06XZHH1DADLoxL46) | [KILLY](https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD), [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR) | [Crazy Life of Sin](https://open.spotify.com/album/6yVI793K5iV8YvM1251KhV) | 3:29 |
+| 245 | [Red Wine](https://open.spotify.com/track/7z6S8E0LFGeG6mZIIujNFe) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Talk A Good Game \(Deluxe Edition\)](https://open.spotify.com/album/059i5tLNW2ASf1qoVn6LSX) | 4:19 |
 | 246 | [My House](https://open.spotify.com/track/2hUV9lOrC6ul4p4WbgLneh) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Finally Famous \(Deluxe\)](https://open.spotify.com/album/19DGkH750PrQMMnKqBAxfY) | 3:33 |
 | 247 | [It's Been a Pleasure](https://open.spotify.com/track/7upxcSIbWaeiS3mom33Bee) | [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO) | [Trill O.G\. \(Amended\)](https://open.spotify.com/album/2NT0ecLaL4wtjmK5SdvjEs) | 5:45 |
 | 248 | [Married To The Game](https://open.spotify.com/track/723ghNyqqw0BVDq3kN47Dw) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Sam Hook](https://open.spotify.com/artist/224ycOSKcyYsp3bBZzExun), [DUBB](https://open.spotify.com/artist/6KAoJl1Kq41RruyHVkDKB4) | [Blood Moon: Year Of The Wolf \(Bonus Edition\)](https://open.spotify.com/album/2Mk8feYIuAIPbCQbxSAt0D) | 4:40 |
@@ -304,4 +304,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 294 | [My Life](https://open.spotify.com/track/659VW7lp1PC9EogVmyy2NW) | [KO](https://open.spotify.com/artist/0QsGiZaEitDoqU4AQJhPqF) | [My Life](https://open.spotify.com/album/62ZHBhUPSiyGbG9TFE5BPk) | 3:20 |
 | 295 | [Whatever Became Of You](https://open.spotify.com/track/1Ycr1YY3M9ITVVNhXIAp2J) | [Colin Munroe](https://open.spotify.com/artist/7IF7emaerV9vIoAjey6IHe) | [Unsung Hero](https://open.spotify.com/album/1UPa8cbZK9mpKAkG0tjJTi) | 4:46 |
 
-Snapshot ID: `Abyp/AAAAADcDODEsMaBayPPi3J0cd4h`
+Snapshot ID: `AbyvYAAAAAA8oW1gJciIp14vViMn7lSG`

@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-303 songs - 17 hr 14 min
+304 songs - 17 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,7 @@
 | [NOX LUX](https://open.spotify.com/track/69gjQpIkp1ZA4XlCRAm67T) | [MYTH & ROID](https://open.spotify.com/artist/1NRrtMvT3o1TI6I8XCuweq) | [NOX LUX](https://open.spotify.com/album/2W1fq9AQtzxztLOm5AfEq0) | 4:33 | 2024-12-02 | 2024-12-08 |
 | [NYAN \(feat\. HATSUNE MIKU\)](https://open.spotify.com/track/7iqm8tmLgRSMkkNTw9FAww) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [NYAN \(feat\. HATSUNE MIKU\)](https://open.spotify.com/album/608oZh12hfBNawDa1ahW7K) | 3:24 | 2025-01-02 |  |
 | [ODD NUMBER](https://open.spotify.com/track/26gnN7LjvFo6Bwsmcu0mx1) | [吉乃](https://open.spotify.com/artist/4jxGzNzN68CsE1SnKixpiF) | [ODD NUMBER](https://open.spotify.com/album/5KIFNFrK22XFmsmY9rVKMO) | 3:09 | 2024-11-18 |  |
-| [Oh...](https://open.spotify.com/track/7bUEfP01ZZcKGsHUucSp26) | [Tadano Kaede](https://open.spotify.com/artist/44GXrTEQl8a3K8pBtys0h8) | [essence](https://open.spotify.com/album/0tzRhapXqfZkuiOk529Ohg) | 3:41 | 2024-12-03 |  |
+| [Oh...](https://open.spotify.com/track/7bUEfP01ZZcKGsHUucSp26) | [只野 楓](https://open.spotify.com/artist/44GXrTEQl8a3K8pBtys0h8) | [essence](https://open.spotify.com/album/0tzRhapXqfZkuiOk529Ohg) | 3:41 | 2024-12-03 |  |
 | [Only Wonder](https://open.spotify.com/track/66gqGFhqcoEjiCcp02rsir) | [frederic](https://open.spotify.com/artist/3srPc1Mytv5GmTWqsQuoXW) | [Frederhythm](https://open.spotify.com/album/47CP4H5sU69fTUPyI0SD4S) | 4:43 | 2023-12-24 |  |
 | [Overdose](https://open.spotify.com/track/2Dzzhb1oV5ckgOjWZLraIB) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Overdose](https://open.spotify.com/album/1ieXthJ9zXRWqTU8ROAeJa) | 3:17 | 2023-06-25 |  |
 | [p.h.](https://open.spotify.com/track/3WxlfdEj9jL5PQiyFfQvcM) | [SEVENTHLINKS](https://open.spotify.com/artist/7GLKth0GUYwTRUDm217DHO) | [p.h.](https://open.spotify.com/album/7LwBnfRTz070DrRlVXiQwj) | 2:35 | 2024-09-09 |  |
@@ -299,6 +299,7 @@
 | [脱獄](https://open.spotify.com/track/4xABbRQwAr4nFxdRYA6kbE) | [Neru](https://open.spotify.com/artist/0rhcL1Mw7J9YJRDpD6mhXr) | [マイネームイズラヴソング](https://open.spotify.com/album/676AXtU3CFKuDBf0wJsYuz) | 3:47 | 2022-08-27 |  |
 | [自主](https://open.spotify.com/track/0gIbjAz4BusevCLxa53YNJ) | [ロス](https://open.spotify.com/artist/1ZJ9RKrUKQB5wEl5Liv4kL) | [自主](https://open.spotify.com/album/4dw87G2DtW3cWLycBHq6oS) | 3:06 | 2024-04-22 |  |
 | [花になって \- Be a flower](https://open.spotify.com/track/2EmkTBTh964LQen4Vz0svg) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [花になって \- Be a flower](https://open.spotify.com/album/2CmupdP2p1BOYVYh2cjtJc) | 3:19 | 2024-06-05 |  |
+| [薄ら氷心中](https://open.spotify.com/track/1DxOabtnI3W4ouECc6AdyT) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [逆輸入 〜航空局〜](https://open.spotify.com/album/4IyZbkR6R4oIcuckwSrJQj) | 3:12 | 2025-05-29 |  |
 | [虚像のCarousel](https://open.spotify.com/track/2FCkgW3vOc3IvpOCd0LJMT) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8), [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) | [虚像のCarousel](https://open.spotify.com/album/4HnTbIJinqxIvnHeIBaJv6) | 3:48 | 2023-08-06 |  |
 | [蜜月アン・ドゥ・トロワ](https://open.spotify.com/track/5NqbWhWvnOVbWgkBS3gyhM) | [Ryo\-kun](https://open.spotify.com/artist/3WtpN29KizqR4NjuJGx6jE) | [Re:alize](https://open.spotify.com/album/4eE5jhzVkqd9smfhX1aUNy) | 4:10 | 2024-01-22 |  |
 | [超常マイマイン](https://open.spotify.com/track/7yuRlwbz9rgtIZwBPbtDjR) | [Nayutalien](https://open.spotify.com/artist/0U2Emr9cdZNcbqSoKoWb8c) | [ナユタン星からの物体Ｎ](https://open.spotify.com/album/41ZGXbCyhkBOt8lqtQxWBZ) | 2:25 | 2022-11-01 |  |

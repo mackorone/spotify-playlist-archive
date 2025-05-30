@@ -1,12 +1,12 @@
 {
   "description": "This is Alexander Stewart. The essential tracks, all in one playlist.",
-  "num_followers": 34603,
+  "num_followers": 34602,
   "original_name": "This Is Alexander Stewart",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDUAgAAAAAAs7IiwqzF9zFjJh41VLhRV",
+  "snapshot_id": "aDZSAAAAAAA/DMuMSSpXco3YF059Nd0e",
   "tracks": [
     {
       "added_at": null,
@@ -303,26 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "birthday cake (duet)",
-        "url": "https://open.spotify.com/album/78CzILlKk9yPskjMLtHTPs"
-      },
-      "artists": [
-        {
-          "name": "Dylan Conrique",
-          "url": "https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30"
-        },
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 205280,
-      "name": "birthday cake - duet",
-      "url": "https://open.spotify.com/track/3Tp79U6sWi6yRywJI3BBsP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Would You Lie",
         "url": "https://open.spotify.com/album/3gcHGmgDIWkXg3ZeBm719V"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 214647,
       "name": "Would You Lie",
       "url": "https://open.spotify.com/track/1M54nLzTxoQFjC0g8H11Bk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "birthday cake (duet)",
+        "url": "https://open.spotify.com/album/78CzILlKk9yPskjMLtHTPs"
+      },
+      "artists": [
+        {
+          "name": "Dylan Conrique",
+          "url": "https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30"
+        },
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 205280,
+      "name": "birthday cake - duet",
+      "url": "https://open.spotify.com/track/3Tp79U6sWi6yRywJI3BBsP"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-742 songs - 1 day 12 hr 8 min
+744 songs - 1 day 12 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [Dreaming of Tomorrow](https://open.spotify.com/track/3EFaN9v9tupcVsokB6OswI) | [Deep Vibrations](https://open.spotify.com/artist/3qtgkLExW6jtJ0UeGTevy3) | [Dreaming of Tomorrow](https://open.spotify.com/album/12mfOaap1GI6c0SCuQNLCK) | 2:50 | 2024-02-08 | 2024-07-13 |
 | [Dreamless](https://open.spotify.com/track/4NfFX4UXNLP7kjvQqdlxag) | [Aitne](https://open.spotify.com/artist/6kBzfRc5LNJoQyoZ6S6FTO) | [Dreamless](https://open.spotify.com/album/4nOghyDZWdB3mqNpVmrjCQ) | 3:04 | 2024-01-17 | 2025-03-01 |
 | [Dreamplay](https://open.spotify.com/track/2LkRhuE955ZZ5QLCYNU1HM) | [Fabuluxe](https://open.spotify.com/artist/4MwFbGn1PGHhaKAkhtEVDP) | [Dreamplay](https://open.spotify.com/album/0Dr78N59UGKGci0dtR5Xoj) | 2:50 | 2025-02-26 |  |
+| [Dreamscape Calmitude](https://open.spotify.com/track/1gnYXbQ7MVciBMO5MtXIfN) | [Ephermal Nights](https://open.spotify.com/artist/4MAkMNGGrVdSVVhNKLZGeV) | [Dreamscape Calmitude](https://open.spotify.com/album/3qE5BgBOSVtKefkKbJNFtl) | 3:07 | 2025-05-27 |  |
 | [Dreamwalker](https://open.spotify.com/track/52ahkUIhePPGiz4lvI4Ah9) | [Ookean](https://open.spotify.com/artist/3RRjbAYUzANb74qkNyT7vF) | [Dreamwalker](https://open.spotify.com/album/3tWedrnHrVXerXmF2Euion) | 2:48 | 2024-03-20 |  |
 | [Dreyma](https://open.spotify.com/track/4k1kHU7F4Y2rJFkDJrtcuk) | [Aether Deem](https://open.spotify.com/artist/38RiqzbbLOb7GIVzcEcmy4) | [Dreyma](https://open.spotify.com/album/1Y6RbEzGoaZptjqC2vF6YQ) | 2:47 | 2025-03-19 |  |
 | [drifting](https://open.spotify.com/track/0Bkuw9iTcI7JGHnLDcYDiR) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [drifting](https://open.spotify.com/album/43XZAnWowTdkO2jEoDxmB8) | 2:45 | 2024-04-05 | 2024-05-05 |
@@ -233,7 +234,7 @@
 | [Endicino](https://open.spotify.com/track/6sCBSdY0rB7pwS8kosA2Md) | [Amphose](https://open.spotify.com/artist/719YWjEvZBDkU5Esi9rsZz) | [Endicino](https://open.spotify.com/album/0D3FLFw97MUgnSA6VL7slA) | 2:51 | 2024-07-22 |  |
 | [Endless](https://open.spotify.com/track/7H3KPyVO9r5x7jsCT1jo0s) | [Benjamin Rhey](https://open.spotify.com/artist/1hD3DmoEBRAveULl3BCFGe) | [Endless](https://open.spotify.com/album/646cyDpSRUNXJtbkklRZdz) | 2:52 | 2025-02-14 |  |
 | [Endless Cosmos](https://open.spotify.com/track/37PNuXmxQzb7xQERMSoYdA) | [Hans Jacob](https://open.spotify.com/artist/6gT2Bu1wTc1uHC5NcJV0gQ) | [Endless Cosmos](https://open.spotify.com/album/3bz9e5yKivJ9Y4juq04T6S) | 2:50 | 2024-04-05 | 2025-02-15 |
-| [Endless Motion](https://open.spotify.com/track/29UVNezH22t8Asto3WFdzl) | [Slepth](https://open.spotify.com/artist/3sKO7LRCv1v7joHE7Hpbql) | [Endless Motion](https://open.spotify.com/album/2O1o8OGsnvX4h69neULuAL) | 2:32 | 2024-10-14 |  |
+| [Endless Motion](https://open.spotify.com/track/29UVNezH22t8Asto3WFdzl) | [Slepth](https://open.spotify.com/artist/3sKO7LRCv1v7joHE7Hpbql) | [Endless Motion](https://open.spotify.com/album/2O1o8OGsnvX4h69neULuAL) | 2:32 | 2024-10-14 | 2025-05-30 |
 | [Endymion](https://open.spotify.com/track/3Se2ifaSm69Np4OtyaNNKa) | [Réka Ioescu](https://open.spotify.com/artist/57Mmf69hQyTIEZxSCo4k5H) | [Endymion](https://open.spotify.com/album/6fbGnh6zZydsE2HmorrUuS) | 2:32 | 2023-03-23 | 2024-01-18 |
 | [Enhance](https://open.spotify.com/track/6qEnfDbUi83vhDsQ0Fbft1) | [Eône](https://open.spotify.com/artist/4kZXfTjEmv2pM1m4B5H1I7) | [Enhance](https://open.spotify.com/album/5OrGR2SQ7hmJeqH5thqCay) | 2:52 | 2024-07-09 | 2025-02-22 |
 | [Enigmus](https://open.spotify.com/track/7Cw2C3KEvbcXVEBERuAWzt) | [luminique Revox](https://open.spotify.com/artist/1x102Y2kSACtCX5MsNyIGX) | [Enigmus](https://open.spotify.com/album/10kWRgddUgZdJ96qITHnYx) | 3:23 | 2024-11-05 | 2025-04-07 |
@@ -241,6 +242,7 @@
 | [Ensorceler](https://open.spotify.com/track/2Fi6BCJD9cafMcnI6FBSaI) | [Elodie Acy](https://open.spotify.com/artist/2uIT3eIsFOjiwUoDJvNzbD) | [Ensorceler](https://open.spotify.com/album/28mJ0ga3VfdBq3pXlCNYub) | 3:12 | 2024-03-06 | 2024-05-23 |
 | [Entirely](https://open.spotify.com/track/252UulLr0Pnwb7adch2Vha) | [Gabby Laurent](https://open.spotify.com/artist/7cAeiCQXUfj7orfW6pkemk) | [Handwritten](https://open.spotify.com/album/0kL551QkBCd4F33sAnnXKj) | 3:12 | 2023-03-23 | 2024-03-21 |
 | [Eons](https://open.spotify.com/track/538bWp96juSoSBvM7wD2Qm) | [Erratic Peace](https://open.spotify.com/artist/2soZQALc84ALUcZxlDyxPD) | [Eons](https://open.spotify.com/album/1mrlHBWDGAFlIiZooWzedK) | 3:03 | 2023-03-23 | 2024-02-09 |
+| [Erice](https://open.spotify.com/track/4ecPC4L51JVR6WqJZWkeAi) | [Amos Stovall](https://open.spotify.com/artist/2rCj2TSCYy40ehzMZ0F5lS) | [Erice](https://open.spotify.com/album/5MJ7tUbfRkHSg5lKYqUM8M) | 2:54 | 2025-05-27 |  |
 | [Erinnerungen](https://open.spotify.com/track/3oSnjjDlGybELlBa9by38Y) | [Phillipp Vogler](https://open.spotify.com/artist/2ocNI6hLYU6rqq6TT4YzNY) | [Erinnerungen](https://open.spotify.com/album/64Cah8smmxb3ypiPR1MtQl) | 3:12 | 2024-02-08 | 2025-02-15 |
 | [Espiral Dunes](https://open.spotify.com/track/4VA2DaUgjUiNHolxdl1jUg) | [Dream Drift Tunes](https://open.spotify.com/artist/26ZbGRftrJHVZUDaz5rSkM) | [Espiral Dunes](https://open.spotify.com/album/2QAWqvO57E1wPBm7i2w3KN) | 3:19 | 2024-05-04 | 2024-07-16 |
 | [Essence](https://open.spotify.com/track/0KXcQySPBhAvDT5c6J1KxH) | [Rufus Ziegler](https://open.spotify.com/artist/3al3f0Fd8OQ3OJj4GfpE2f) | [Essence](https://open.spotify.com/album/3r12O5MUpkRuv3rABTy6zG) | 2:24 | 2024-01-17 | 2024-10-15 |
@@ -535,7 +537,7 @@
 | [Ramus](https://open.spotify.com/track/6I661pmM6IANKvfZgDnwbL) | [Skye Saraswati](https://open.spotify.com/artist/4mSdD05BfppgiCGUVKcUZ3) | [Ramus](https://open.spotify.com/album/63784z6zoLHJk7d4kgv9Aq) | 3:00 | 2024-04-05 | 2025-01-09 |
 | [Rayos de luz](https://open.spotify.com/track/7xYWPFjmb1He7vmhGlO4iX) | [João Marta](https://open.spotify.com/artist/64SRAlT6z9a7J2iVrat1si) | [Rayos de luz](https://open.spotify.com/album/56oCwt4NIYgW7AxYs83iap) | 3:24 | 2023-03-23 | 2024-03-21 |
 | [Rays of Warmth](https://open.spotify.com/track/66OUrai5ZjJgzwhKimF8F8) | [Fabin](https://open.spotify.com/artist/5EQs9AqQh02dx0JLrmVwWV) | [Rays of Warmth](https://open.spotify.com/album/3F4YB50btI83J496J2zj3p) | 3:11 | 2024-01-17 | 2025-02-20 |
-| [Realisation](https://open.spotify.com/track/175hnmBVwO7Lt5UP9fFwpn) | [Dominum Nominum](https://open.spotify.com/artist/7okwKwX9ydmNTjwXXdgBO4) | [Realisation](https://open.spotify.com/album/0fpnWPOymbz9vTuNt7UvZv) | 3:19 | 2025-03-19 |  |
+| [Realisation](https://open.spotify.com/track/175hnmBVwO7Lt5UP9fFwpn) | [Dominum Nominum](https://open.spotify.com/artist/7okwKwX9ydmNTjwXXdgBO4) | [Realisation](https://open.spotify.com/album/0fpnWPOymbz9vTuNt7UvZv) | 3:19 | 2025-03-19 | 2025-05-30 |
 | [Reappearance](https://open.spotify.com/track/381txcpzL73JjcdV2690sm) | [Spacetactular](https://open.spotify.com/artist/7FQhluCKlC5UBRvkodPl8m) | [Reappearance](https://open.spotify.com/album/0O2ZiFlvME9d031RNbZJqp) | 2:02 | 2023-03-23 | 2024-02-09 |
 | [Rearview Mirror](https://open.spotify.com/track/2UXQhAcmJXiDShegqfyBa7) | [Angelo Garnier](https://open.spotify.com/artist/7qvvsAZAERVhX0qJ1kq6In) | [Rearview Mirror](https://open.spotify.com/album/5KWS43uNk7GOGbiIYXZNlr) | 3:14 | 2023-03-23 | 2024-02-09 |
 | [Rebirth](https://open.spotify.com/track/2KCD0Kx46ftF8quaA1I0cP) | [Lou D'Audrey](https://open.spotify.com/artist/1Af7tZT5ll2gtgG4jO1Kxl) | [Night Meadows](https://open.spotify.com/album/0gsw7NryxN2GDB8tjIjrWn) | 3:11 | 2023-03-23 | 2023-05-06 |

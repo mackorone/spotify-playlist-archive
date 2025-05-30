@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 
 > raw feels,  emotional beats to cry out to ☁️❤️‍🩹
 
-[Spotify](https://open.spotify.com/user/spotify) - 456,132 likes - 75 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 456,150 likes - 75 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [clear blue atmosphere](https://open.spotify.com/track/6s31znJTzvn34nJiPfBbHp) | [Touristique](https://open.spotify.com/artist/11rQUKWqk3opiirceuJVV2) | [clear blue atmosphere](https://open.spotify.com/album/3x02MVIYzOPc6t6Mi6annZ) | 2:20 |
 | 2 | [Star Map](https://open.spotify.com/track/5zW1Bwlz6RreBhyphUsifD) | [les marais](https://open.spotify.com/artist/5kPiI5sB5mBDOcbFyoEUng) | [Star Map](https://open.spotify.com/album/3sv9oXIIjsWT833RTXpOmT) | 1:58 |
 | 3 | [Morse](https://open.spotify.com/track/4Od4ZRReLhtOLjOk5WwniX) | [Cmd q](https://open.spotify.com/artist/6XiXz5Vit02rmpr0M9SzMG) | [Morse](https://open.spotify.com/album/6HhukpHgPeBhjwTAKYieJ0) | 2:48 |
-| 4 | [in a haze](https://open.spotify.com/track/0OpsPckPFX5t1fEvPUDeER) | [Kaptain Kola](https://open.spotify.com/artist/2WVOlt6L2d41Pu8xhEbFgn) | [in a haze](https://open.spotify.com/album/1eDBDOKDYy0wN0V5eRtyHK) | 1:56 |
-| 5 | [headway](https://open.spotify.com/track/4K9JZ7uvEfBuquS7r2k8SM) | [morningtime](https://open.spotify.com/artist/7xwOP2sBEig4hhduDiYwHS), [Blue Wednesday](https://open.spotify.com/artist/7185Q95lPFld0aoPqO6e0U) | [happiness](https://open.spotify.com/album/1beor7dgoMwOu8DWdzeOP5) | 2:19 |
+| 4 | [headway](https://open.spotify.com/track/4K9JZ7uvEfBuquS7r2k8SM) | [morningtime](https://open.spotify.com/artist/7xwOP2sBEig4hhduDiYwHS), [Blue Wednesday](https://open.spotify.com/artist/7185Q95lPFld0aoPqO6e0U) | [happiness](https://open.spotify.com/album/1beor7dgoMwOu8DWdzeOP5) | 2:19 |
+| 5 | [in a haze](https://open.spotify.com/track/0OpsPckPFX5t1fEvPUDeER) | [Kaptain Kola](https://open.spotify.com/artist/2WVOlt6L2d41Pu8xhEbFgn) | [in a haze](https://open.spotify.com/album/1eDBDOKDYy0wN0V5eRtyHK) | 1:56 |
 | 6 | [5.50 Am](https://open.spotify.com/track/0e7GJUcTnb1HQZn73goySz) | [Pearldiver](https://open.spotify.com/artist/4e9BBDC8gDwj2WVADiqyVQ) | [5.50 Am](https://open.spotify.com/album/5OoxfVdEtJacEbZcNeV68r) | 2:02 |
 | 7 | [crispy](https://open.spotify.com/track/296PtyBwDRi5dLobxeLxWW) | [Breezonic](https://open.spotify.com/artist/6dcAuzmzyzfUfwRyT2CIXb) | [crispy](https://open.spotify.com/album/5B9gshRopEWYswsesszmpc) | 2:06 |
 | 8 | [In Comparison With](https://open.spotify.com/track/2kRqoND9nTZ6ShVTWPQ3Y6) | [State Artefact](https://open.spotify.com/artist/12i5wgLXkiZiGkM3esIk8Q) | [In Comparison With](https://open.spotify.com/album/3vvMXi4IWwUbgQi7S2oxJP) | 3:22 |
 | 9 | [Worcestershire dreaming](https://open.spotify.com/track/7qdmi4ASzlDenOqt5hG587) | [Low Couture](https://open.spotify.com/artist/13mNwKx9Xb7I4qurCOJfXq) | [Worcestershire dreaming](https://open.spotify.com/album/7j6jANOsfXpSfabekUP2lj) | 2:06 |
-| 10 | [church](https://open.spotify.com/track/1CZTvZVdrJEkUDACYnrpPW) | [Dinis](https://open.spotify.com/artist/6jlKK6jwCQOcdsNlNfKlMq), [Hoogway](https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ) | [a piece of my heart, for you.](https://open.spotify.com/album/2EBeTg02hXxDLMHtpAUoci) | 2:55 |
-| 11 | [Call It A Night](https://open.spotify.com/track/4T7oDgtpVj7mvGseuU7nyA) | [jon pm](https://open.spotify.com/artist/0hEvTw85lFywhlAfgEc8VH) | [Call It A Night](https://open.spotify.com/album/1Xr2BvONEbJF8jKapfbg8O) | 2:21 |
+| 10 | [Call It A Night](https://open.spotify.com/track/4T7oDgtpVj7mvGseuU7nyA) | [jon pm](https://open.spotify.com/artist/0hEvTw85lFywhlAfgEc8VH) | [Call It A Night](https://open.spotify.com/album/1Xr2BvONEbJF8jKapfbg8O) | 2:21 |
+| 11 | [church](https://open.spotify.com/track/1CZTvZVdrJEkUDACYnrpPW) | [Dinis](https://open.spotify.com/artist/6jlKK6jwCQOcdsNlNfKlMq), [Hoogway](https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ) | [a piece of my heart, for you.](https://open.spotify.com/album/2EBeTg02hXxDLMHtpAUoci) | 2:55 |
 | 12 | [no reply](https://open.spotify.com/track/3Ji8JYWfwb48AxDvlpLmtB) | [aUra Lu](https://open.spotify.com/artist/2KF0lKsVByoJPAnLjby9ag) | [no reply](https://open.spotify.com/album/0wBSKUgKu6jsZRE3NPBaPw) | 2:10 |
 | 13 | [Smooth Fields](https://open.spotify.com/track/2MKtFmktpp2kMGKm4oaOcH) | [Harvest Emotions](https://open.spotify.com/artist/53JNLKdwnvLY8F2tA6T22K) | [Smooth Fields](https://open.spotify.com/album/3NzRqlA8AJyFqDQUdcT9ht) | 2:50 |
 | 14 | [fingerlock](https://open.spotify.com/track/3oRubNxLgB33gbB7OqfhNg) | [Arthur Wu](https://open.spotify.com/artist/3FvtuXFdOgdAl7Gsi91GFV) | [fingerlock](https://open.spotify.com/album/30gzL3AApuVLB10SZXooW2) | 2:06 |
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 | 23 | [Breakfast In Bed](https://open.spotify.com/track/55LPJYCwffJ7GYemDPQ47K) | [Springy Dustfield](https://open.spotify.com/artist/161rkKoqy3Q0aEBT1A3YPm) | [Breakfast In Bed](https://open.spotify.com/album/1mAPw9uF9teoADOpISmCTa) | 2:46 |
 | 24 | [Cozy Nights](https://open.spotify.com/track/0xBVQOvIcIykazu03CZQkm) | [Weekly Bagel](https://open.spotify.com/artist/4sNuTGFAUTDkusl3fhpOgL) | [Cozy Nights](https://open.spotify.com/album/4POj4KRaWdw4zWdV7hLL3B) | 2:03 |
 | 25 | [Heavy Rain](https://open.spotify.com/track/75wOVGAOukrsLhijV42LBE) | [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC), [Hilaria](https://open.spotify.com/artist/3wSSMiYpzOTY4DOCrTmycP) | [Heavy Rain](https://open.spotify.com/album/2ljzEnLdslGV8BjW3KBsQm) | 2:00 |
-| 26 | [superabundance](https://open.spotify.com/track/2DPG9HEimTlt2QNUuIvHw8) | [Mickey Jam](https://open.spotify.com/artist/0QeBXI6ruzIKKQ7EkrDBr9) | [superabundance](https://open.spotify.com/album/4yNUijpA7k9oEHau2G3AGC) | 2:19 |
-| 27 | [Dawn](https://open.spotify.com/track/6aKLdYN5qIQXhi5oorQO3g) | [Allem Iversom](https://open.spotify.com/artist/6RaUtVLO8R5TsVdJIxSrq1), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Dawn](https://open.spotify.com/album/3BFZtTltMCgeJcszVWkFKU) | 2:40 |
+| 26 | [Dawn](https://open.spotify.com/track/6aKLdYN5qIQXhi5oorQO3g) | [Allem Iversom](https://open.spotify.com/artist/6RaUtVLO8R5TsVdJIxSrq1), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Dawn](https://open.spotify.com/album/3BFZtTltMCgeJcszVWkFKU) | 2:40 |
+| 27 | [superabundance](https://open.spotify.com/track/2DPG9HEimTlt2QNUuIvHw8) | [Mickey Jam](https://open.spotify.com/artist/0QeBXI6ruzIKKQ7EkrDBr9) | [superabundance](https://open.spotify.com/album/4yNUijpA7k9oEHau2G3AGC) | 2:19 |
 | 28 | [curled up](https://open.spotify.com/track/1eb0KT4XSTq2Gt9C1MCqHm) | [drawn animal](https://open.spotify.com/artist/1Y6lFDIG5QZMrt1AlvW89P) | [curled up](https://open.spotify.com/album/6TosV7bDaKCr39dqtzHTz8) | 2:12 |
 | 29 | [polaris](https://open.spotify.com/track/1Z1EPGghmQHnXY7kHpjidh) | [little blue](https://open.spotify.com/artist/5WFsnwKBPWK0uFitm41Dv1), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [polaris](https://open.spotify.com/album/1RJr6fObv2OYMNY8wzvxlm) | 2:00 |
 | 30 | [Solitude](https://open.spotify.com/track/4b9bN05qHHaRpwd60J0sN3) | [Soibú](https://open.spotify.com/artist/4HFaAaWRSjxvxyNB6RoUaI) | [Solitude](https://open.spotify.com/album/2qBou21EABjntC15p7h3cz) | 2:23 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 | 53 | [In the Moment](https://open.spotify.com/track/2Ww7Lgd6ALlX4kjqXnwjIU) | [cløse2u](https://open.spotify.com/artist/4SAUbKw5T4xORiIq16XKUE) | [In the Moment](https://open.spotify.com/album/5jzwFReoAuL58WwIlAKr4q) | 2:06 |
 | 54 | [Silent Sky](https://open.spotify.com/track/1CwEJgKOytEZgRt7XmYdd0) | [Lofi Leif](https://open.spotify.com/artist/4rPu3mEDy7ZWvjAsNE6q0N) | [Silent Sky](https://open.spotify.com/album/0YxKDYxkNGU6qbnVtLN9PV) | 2:19 |
 | 55 | [lunar walk](https://open.spotify.com/track/6ZJjAycopbrK5ab4Q2YImx) | [laura ploy](https://open.spotify.com/artist/3pzECkhcxMJJSIsi1ZIAaD) | [lunar walk](https://open.spotify.com/album/155VVaMjlTDghYkltp5CUE) | 2:00 |
-| 56 | [Now, I See](https://open.spotify.com/track/7xCYaDqhAOs5TfeDvY9Dqn) | [Barnes Blvd.](https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc) | [Last Summer](https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8) | 2:43 |
-| 57 | [Melatonin](https://open.spotify.com/track/6GgEUzd0UDtcCTFh5tmuXI) | [Laflov](https://open.spotify.com/artist/6EFjl8owc4s7CFfcBcS9AH) | [Soft Life](https://open.spotify.com/album/6lddJ60eyGfolq2i9Y7HTV) | 2:12 |
+| 56 | [Melatonin](https://open.spotify.com/track/6GgEUzd0UDtcCTFh5tmuXI) | [Laflov](https://open.spotify.com/artist/6EFjl8owc4s7CFfcBcS9AH) | [Soft Life](https://open.spotify.com/album/6lddJ60eyGfolq2i9Y7HTV) | 2:12 |
+| 57 | [Now, I See](https://open.spotify.com/track/7xCYaDqhAOs5TfeDvY9Dqn) | [Barnes Blvd.](https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc) | [Last Summer](https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8) | 2:43 |
 | 58 | [dream surfer](https://open.spotify.com/track/2Wj1sIJ6XxtR8R8aJwEKVt) | [loyCOY](https://open.spotify.com/artist/7pK6BN9GZMUosqH5DPKmC7) | [dream surfer](https://open.spotify.com/album/4uKVu6udzIh40UujqTfO97) | 2:24 |
 | 59 | [Through My Window](https://open.spotify.com/track/4Hyaog3Ppn1pDwLzUX7vFt) | [day zee](https://open.spotify.com/artist/5L5AI6T2F4T5F7EdAuqH4L) | [Through My Window](https://open.spotify.com/album/5SBe4fbhILYGomxqJaDZx3) | 2:30 |
 | 60 | [sad music](https://open.spotify.com/track/1mZDmX2U780ucdnGB78Qzr) | [sumthin](https://open.spotify.com/artist/1m1oQ84LqqtpGvE3Omv8Rd) | [call me when ur lonely](https://open.spotify.com/album/5ypeVEv4lRQhg3wXZKaIf5) | 1:22 |
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 | 66 | [time to float](https://open.spotify.com/track/7mfmhIDEKJTYTJ0cbKDYrq) | [mutedvibes](https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K) | [time to float](https://open.spotify.com/album/4WkiWXk2E03LJwAoWt24pR) | 3:21 |
 | 67 | [another time](https://open.spotify.com/track/3b9OgQr8jzUfdQPhe2Q9BW) | [fnonose](https://open.spotify.com/artist/74yvhBPUU5nloVsshHE95q), [morningtime](https://open.spotify.com/artist/7xwOP2sBEig4hhduDiYwHS) | [another time](https://open.spotify.com/album/0V4jU4MUj4Tw4il7avTRc7) | 2:34 |
 | 68 | [Plant Convo](https://open.spotify.com/track/1X069IL4sAaspIfbsONlXq) | [Farmor](https://open.spotify.com/artist/6PSXPlcJRWbnLFb5XZRK63) | [Plant Convo](https://open.spotify.com/album/6yp2zl7CR7xzfjgtylwUnI) | 2:15 |
-| 69 | [woodland](https://open.spotify.com/track/1kbULV3OCGJqQMPp88ZFjY) | [GAB5](https://open.spotify.com/artist/6mmtaBpQJZSynqYsbln6Sk) | [woodland](https://open.spotify.com/album/0N7rMutkrZgsu0UAPFgjyk) | 2:02 |
-| 70 | [black eye trailer](https://open.spotify.com/track/0fSPTpfIdjcG3wZyht5pSf) | [egrets](https://open.spotify.com/artist/6bKGA9CYCVSk6NueTvFlGo) | [black eye trailer](https://open.spotify.com/album/3piPfCDsX541BBK7SPKaQ8) | 2:21 |
+| 69 | [black eye trailer](https://open.spotify.com/track/0fSPTpfIdjcG3wZyht5pSf) | [egrets](https://open.spotify.com/artist/6bKGA9CYCVSk6NueTvFlGo) | [black eye trailer](https://open.spotify.com/album/3piPfCDsX541BBK7SPKaQ8) | 2:21 |
+| 70 | [woodland](https://open.spotify.com/track/1kbULV3OCGJqQMPp88ZFjY) | [GAB5](https://open.spotify.com/artist/6mmtaBpQJZSynqYsbln6Sk) | [woodland](https://open.spotify.com/album/0N7rMutkrZgsu0UAPFgjyk) | 2:02 |
 | 71 | [truth](https://open.spotify.com/track/2v61JbHklrRRSyADCJh5Hn) | [marigold](https://open.spotify.com/artist/4UPrESsUKf7K2iGxO1mSwc) | [truth](https://open.spotify.com/album/44wtfuJv5UJeyEmNZkpM2e) | 2:03 |
 | 72 | [amethyst](https://open.spotify.com/track/0sAOhw3tv1rzpfi1tiRKQL) | [jaackson](https://open.spotify.com/artist/1Mvzmc04DfxzjMsV6oCohI) | [amethyst](https://open.spotify.com/album/4cxQp2Q5D5nRvl2wH3q7X0) | 2:12 |
-| 73 | [slowFi](https://open.spotify.com/track/4aWrBVm1mzziG5g003EkEd) | [knight knight](https://open.spotify.com/artist/7ykZNsdah5u9qzEJ6cvrgg) | [slowFi](https://open.spotify.com/album/52itzxK5WbmBO1RcOcxU9g) | 2:12 |
-| 74 | [safe](https://open.spotify.com/track/4Z5hkHjVFRKnSU1838IItB) | [little blue](https://open.spotify.com/artist/5WFsnwKBPWK0uFitm41Dv1) | [safe](https://open.spotify.com/album/40LlPRqwG2PgcASrYyG9Ms) | 2:15 |
+| 73 | [safe](https://open.spotify.com/track/4Z5hkHjVFRKnSU1838IItB) | [little blue](https://open.spotify.com/artist/5WFsnwKBPWK0uFitm41Dv1) | [safe](https://open.spotify.com/album/40LlPRqwG2PgcASrYyG9Ms) | 2:15 |
+| 74 | [slowFi](https://open.spotify.com/track/4aWrBVm1mzziG5g003EkEd) | [knight knight](https://open.spotify.com/artist/7ykZNsdah5u9qzEJ6cvrgg) | [slowFi](https://open.spotify.com/album/52itzxK5WbmBO1RcOcxU9g) | 2:12 |
 | 75 | [Frequency](https://open.spotify.com/track/0vUGOJ60caBjtw5T8mG8xC) | [Indigo Songs](https://open.spotify.com/artist/2BWhKXeKs6nnuRF8Z7v7Mj) | [Frequency](https://open.spotify.com/album/6YMU1IvOsXHLXTrWLKTSVI) | 2:25 |
 
 Snapshot ID: `aC1P2gAAAADYyAwTNXW0p5so2ThQgOHA`

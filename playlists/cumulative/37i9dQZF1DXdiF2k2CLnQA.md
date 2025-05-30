@@ -4,7 +4,7 @@
 
 > Den bästa och största rocklistan i Sverige! ⚡️
 
-305 songs - 19 hr 25 min
+307 songs - 19 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A Banger A Day Keeps The Doctor Away](https://open.spotify.com/track/7AvALXbGFUPnevTLC41JYK) | [Solence](https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg) | [A Banger A Day Keeps The Doctor Away](https://open.spotify.com/album/44YwGDqhcIbzprf301vs2Q) | 3:36 | 2024-06-27 | 2024-09-27 |
 | [A Little Bit Off](https://open.spotify.com/track/6GqqGv8frU7kqzXkm2rewI) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [F8](https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2) | 3:10 | 2024-06-27 | 2025-01-10 |
 | [A Million Suns](https://open.spotify.com/track/0RXtkfxtmUFb7kcDTXQfYk) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Blood Dynasty](https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8) | 3:45 | 2025-03-27 |  |
+| [A Sky Full of Stars](https://open.spotify.com/track/46ugCVn6XqZKNDE2lLQzOm) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [A Sky Full of Stars](https://open.spotify.com/album/6rVuS8geDXgoTCaPMMFSJS) | 3:22 | 2025-05-29 |  |
 | [A.F\. Day](https://open.spotify.com/track/3NG2doklvUiqTZMfyQxPWA) | [Serj Tankian](https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM) | [A.F\. Day](https://open.spotify.com/album/6U8F7vt0Ybgc27AVUD8KpO) | 3:47 | 2024-06-27 | 2024-09-07 |
 | [Afraid To Die](https://open.spotify.com/track/5RpbbEcE5IdL9Dyr6mRZVi) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Afraid To Die](https://open.spotify.com/album/5TisKSxs4yiItVrle1sxqJ) | 3:02 | 2024-06-27 | 2025-03-14 |
 | [AFRAID TO DIE \(feat\. Tatiana Shmayluk from Jinjer\)](https://open.spotify.com/track/0MVhJOLU3VhNRzWLwTtA26) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU), [Tatiana Shmayluk](https://open.spotify.com/artist/4jUJBAkaX0Foc8fjhuyfpa), [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [AFRAID TO DIE](https://open.spotify.com/album/2kObu5MHhR6BCsvgtptz2T) | 3:04 | 2024-06-27 | 2025-01-10 |
@@ -198,7 +199,7 @@
 | [Pain In Every Way](https://open.spotify.com/track/7MhqFkmXyoGWLMSS0Zoc2W) | [Mustasch](https://open.spotify.com/artist/7ig8pUnno95YNA9MclOveH) | [Pain In Every Way](https://open.spotify.com/album/2V5tlQoEflZEopXoFYLGnH) | 3:32 | 2024-06-27 | 2024-08-02 |
 | [Paloma](https://open.spotify.com/track/3s9Hi8xoJKsd3VDRnPxOZi) | [The Night Flight Orchestra](https://open.spotify.com/artist/6xPOeIDWmM9ooOw7SBknMl) | [Give Us The Moon](https://open.spotify.com/album/20AtqMaAxXaiCFxeq2XDpV) | 5:05 | 2025-01-31 |  |
 | [Paper Tiger](https://open.spotify.com/track/4jJw1XWe4hq0UIOQkUeGLz) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Paper Tiger](https://open.spotify.com/album/1IC5YSNaOSsHPqNPeoYtLm) | 3:56 | 2025-02-06 | 2025-03-28 |
-| [Paradise](https://open.spotify.com/track/0QtYu8F2zWeMPk7bLB2Des) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq), [Elize Ryd](https://open.spotify.com/artist/4aHpq3SeE9HiKNft9Bcj55) | [Paradise](https://open.spotify.com/album/1sADPht6zP5bBXlNitLRuQ) | 3:00 | 2025-04-24 |  |
+| [Paradise](https://open.spotify.com/track/0QtYu8F2zWeMPk7bLB2Des) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq), [Elize Ryd](https://open.spotify.com/artist/4aHpq3SeE9HiKNft9Bcj55) | [Paradise](https://open.spotify.com/album/1sADPht6zP5bBXlNitLRuQ) | 3:00 | 2025-04-24 | 2025-05-30 |
 | [Paranoid](https://open.spotify.com/track/1jzDzZWeSDBg5fhNc3tczV) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid \(2009 Remastered Version\)](https://open.spotify.com/album/132qAo1cDiEJdA3fv4xyNK) | 2:48 | 2024-06-27 | 2025-03-28 |
 | [Parasite](https://open.spotify.com/track/05HTGemZtN0xZibKQ60KKz) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6), [THE DAY WE LEFT EARTH](https://open.spotify.com/artist/7BmeO6vzKLEnURfmgd3VqL), [Cyhra](https://open.spotify.com/artist/6tkhw6PSVw7b2M7h5fLBLE) | [Parasite](https://open.spotify.com/album/6m99BaJU8IxfWcfqPGRZwu) | 3:16 | 2024-06-27 | 2024-09-20 |
 | [Peacefield](https://open.spotify.com/track/6KEMumkYvsrGsl485JwN0u) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Peacefield](https://open.spotify.com/album/5vNvNASfnf2MVIrnoLr1OE) | 5:40 | 2025-04-23 |  |
@@ -310,6 +311,7 @@
 | [You Know My Name \- From "Casino Royale" Soundtrack](https://open.spotify.com/track/3acBQxxlyb0jC2xqndDzSf) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [Carry On](https://open.spotify.com/album/125bv7EBFzsaqeW2LzY6QP) | 4:00 | 2024-11-07 | 2025-05-16 |
 | [Youth of the Nation](https://open.spotify.com/track/0UrWr7Jnu1heq1o99ZwUd0) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Satellite \(U.S\. Version\)](https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk) | 4:16 | 2024-11-07 |  |
 | [ZITTI E BUONI](https://open.spotify.com/track/776AftMmFFAWUIEAb3lHhw) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 3:14 | 2024-11-07 |  |
+| [Zombie](https://open.spotify.com/track/7DQotDUGnJkXgNJv363GXF) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Zombie](https://open.spotify.com/album/2VjTqSwV1IY3a4kFdurCVv) | 4:06 | 2025-05-29 |  |
 | [§1 \- Radio Edit](https://open.spotify.com/track/1wkWkXCdHR4nGViHA3I9Yc) | [Opeth](https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E) | [§1 \(Radio Edit\)](https://open.spotify.com/album/3OK5MthdysdgLjnK6Un45k) | 4:46 | 2024-08-01 | 2024-11-22 |
 | [§3](https://open.spotify.com/track/72U6mVliG329C2zGWxDNte) | [Opeth](https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E) | [§3](https://open.spotify.com/album/2iuWDE716ZKi7EB6cRpTGt) | 5:10 | 2024-09-06 | 2024-09-20 |
 | [§4](https://open.spotify.com/track/0XHqEwAU4Nc1s7xeZzjLKb) | [Opeth](https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E) | [The Last Will And Testament](https://open.spotify.com/album/1f2Q8urIhVZiuPSiNLcQG6) | 7:00 | 2024-11-21 | 2025-02-28 |

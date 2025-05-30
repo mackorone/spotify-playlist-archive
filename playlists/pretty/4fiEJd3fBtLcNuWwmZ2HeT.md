@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 299 songs - 16 hr 56 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 300 songs - 16 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -262,7 +262,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 252 | [ビビデバ](https://open.spotify.com/track/0Gp8MWnUzS5V2lvTr25c2A) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [ビビデバ](https://open.spotify.com/album/3E0lLznAOWAiEWizIzWzJn) | 2:45 |
 | 253 | [Touch You](https://open.spotify.com/track/6qWEpnyU43Bcrx3vfbGuVm) | [遠野高志](https://open.spotify.com/artist/3dkW1L7GIhispeiHo9uzM8), [加島優](https://open.spotify.com/artist/3ynBix87InXjEn5L9LsAWB), [矢口恭介](https://open.spotify.com/artist/4CkENaPbZ3CSwB7kAbzTE1), [ジミー](https://open.spotify.com/artist/4ABfGQhx7kTXCFbxvlLtlO), [百合絢斗](https://open.spotify.com/artist/5nEXLz5Qwkcv8d91fP4Cjo), [田村唯](https://open.spotify.com/artist/4tF37PbmfGwti71JKUI1pz), [明美圭一](https://open.spotify.com/artist/6l15fzba4HWiYgbX7ji3NQ), [糸目幸士郎](https://open.spotify.com/artist/0t1H6voah4Js1hbu2EPUqx), [鹿谷樹](https://open.spotify.com/artist/7u0iN4XxPpkIk9KRcLQXDa) | [アニメ『ヤリチン☆ビッチ部』主題歌「Touch You」](https://open.spotify.com/album/2rQlPhe76mnmviBmjHdS89) | 3:26 |
 | 254 | [Akujiki](https://open.spotify.com/track/565shq9eUdoknV8W0rUViP) | [BIN](https://open.spotify.com/artist/7sDDtZP2I0BT5GwatnM0gk) | [COLONY](https://open.spotify.com/album/495aKAiAHJRIia2Ks5fRCK) | 3:23 |
-| 255 | [Oh...](https://open.spotify.com/track/7bUEfP01ZZcKGsHUucSp26) | [Tadano Kaede](https://open.spotify.com/artist/44GXrTEQl8a3K8pBtys0h8) | [essence](https://open.spotify.com/album/0tzRhapXqfZkuiOk529Ohg) | 3:41 |
+| 255 | [Oh...](https://open.spotify.com/track/7bUEfP01ZZcKGsHUucSp26) | [只野 楓](https://open.spotify.com/artist/44GXrTEQl8a3K8pBtys0h8) | [essence](https://open.spotify.com/album/0tzRhapXqfZkuiOk529Ohg) | 3:41 |
 | 256 | [お洒落番長 \(feat\. Ado\)](https://open.spotify.com/track/4wdZoFvA5zpxVglDuESYJ3) | [Linmu](https://open.spotify.com/artist/7fDKKZH24LisRepejhv0iz), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [お洒落番長 \(feat\. Ado\)](https://open.spotify.com/album/5qBYkswUPw3za9eO2C2Sev) | 4:40 |
 | 257 | [WHEELER\-DEALER](https://open.spotify.com/track/2UlgPL6t8KjTwcozqVsXuK) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [WHEELER\-DEALER](https://open.spotify.com/album/5v2fdO3vboOeuBCZU5VA68) | 4:31 |
 | 258 | [Haunted Dance](https://open.spotify.com/track/6NuW5D8GFwVAVgc7Z3Wlv2) | [Mr\. Asyu](https://open.spotify.com/artist/1RJXUJYZGrX9fGK92SjecX) | [Tone Sphere Ultra Service](https://open.spotify.com/album/3isscH1UZ9yzIzXRCahtdz) | 3:32 |
@@ -307,5 +307,6 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 297 | [GYARU](https://open.spotify.com/track/1rIegF191fU9LDCiozDyRH) | [Nene](https://open.spotify.com/artist/07pMzPVvAsMS1tgLfGtdIh) | [GYARU](https://open.spotify.com/album/2JghQxtUgwV6zCPcPI8JW7) | 3:05 |
 | 298 | [koi \(feat\. 9Lana\)](https://open.spotify.com/track/3QhD3w9JDGsVm18ypnkHEP) | [Linmu](https://open.spotify.com/artist/7fDKKZH24LisRepejhv0iz), [9Lana](https://open.spotify.com/artist/4PiEaQDZq6WdVirde1aIq3) | [koi \(feat\. 9Lana\)](https://open.spotify.com/album/4RaGX5JF1XBkHCeysp0Rnn) | 2:42 |
 | 299 | [killer\-tune](https://open.spotify.com/track/7aFxDKk3jUfimCNX9mF36l) | [Lady Mellow.](https://open.spotify.com/artist/55qCSOkDiqf4njLqj0JSiD) | [Smoking hot](https://open.spotify.com/album/3YyoL3YnNQKkLAafWkzDix) | 3:12 |
+| 300 | [薄ら氷心中](https://open.spotify.com/track/1DxOabtnI3W4ouECc6AdyT) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [逆輸入 〜航空局〜](https://open.spotify.com/album/4IyZbkR6R4oIcuckwSrJQj) | 3:12 |
 
-Snapshot ID: `AAAJEalrPSgQNqPi5fCylfUwRvcPusyu`
+Snapshot ID: `AAAJEjXBmeeCPhhaxEkxKS1FCaCcPC2o`

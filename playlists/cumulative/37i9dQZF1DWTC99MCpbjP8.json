@@ -754,7 +754,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 165080,
       "name": "Amongst The Trees",
       "url": "https://open.spotify.com/track/0JwtjSgQzfSPsTNMufSGsT"
@@ -2025,6 +2025,24 @@
     },
     {
       "album": {
+        "name": "Daylight Saving",
+        "url": "https://open.spotify.com/album/6lMTV5tFejaXj9fGgEBsVF"
+      },
+      "artists": [
+        {
+          "name": "Ferragno",
+          "url": "https://open.spotify.com/artist/6V5Qb50Rc4RxLMVRgLyD2W"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162092,
+      "name": "Daylight Saving",
+      "url": "https://open.spotify.com/track/3SaIAk237mEa2tt2ije1JR"
+    },
+    {
+      "album": {
         "name": "Days Gone By",
         "url": "https://open.spotify.com/album/0je0PVxNcqe1d9n6HRoTx5"
       },
@@ -2882,7 +2900,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 133455,
       "name": "Eveningtide",
       "url": "https://open.spotify.com/track/3QKFLAbRtaw6NXPa0XT6fR"
@@ -3246,6 +3264,24 @@
       "duration_ms": 201874,
       "name": "For A Moment",
       "url": "https://open.spotify.com/track/1mKHZDWICROPP1gmOg1mn2"
+    },
+    {
+      "album": {
+        "name": "For a Moment",
+        "url": "https://open.spotify.com/album/6w8sZ0dY0c8lnkDpIKRCzq"
+      },
+      "artists": [
+        {
+          "name": "Matthew L. Fisher",
+          "url": "https://open.spotify.com/artist/2ih4rjK8ZgiEpVu3BJ6sUb"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145000,
+      "name": "For a Moment",
+      "url": "https://open.spotify.com/track/3LpE4XPSmS6PoyVbnPb1xh"
     },
     {
       "album": {

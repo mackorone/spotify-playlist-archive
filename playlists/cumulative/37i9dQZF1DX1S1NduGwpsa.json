@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Lila-May",
+  "description": "The best jazz new releases. Cover: Georgia C\u00e9cile",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -4769,6 +4769,28 @@
     },
     {
       "album": {
+        "name": "Forgive the Damages (feat. Daudi Matsiko)",
+        "url": "https://open.spotify.com/album/6hfOwRTlt7QNBSdUVhr3Mb"
+      },
+      "artists": [
+        {
+          "name": "GoGo Penguin",
+          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
+        },
+        {
+          "name": "Daudi Matsiko",
+          "url": "https://open.spotify.com/artist/41QVnDFGdU4ALpM7zCe9CL"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250426,
+      "name": "Forgive the Damages (feat. Daudi Matsiko)",
+      "url": "https://open.spotify.com/track/3D2hY0e8WbdJZxkWIgBfZP"
+    },
+    {
+      "album": {
         "name": "Found A Light (Beale Street)",
         "url": "https://open.spotify.com/album/3bryfCCYVWa9IpMyObn3PN"
       },
@@ -7042,7 +7064,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 164451,
       "name": "Jeux de chats au jardin",
       "url": "https://open.spotify.com/track/0nQR6gak5pdH9mhOx7lxKR"
@@ -9856,7 +9878,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 264330,
       "name": "Nougayork Remix (International Version) - feat. Marquis Hill",
       "url": "https://open.spotify.com/track/2UyuSPI9Ciadj89C2f3CZl"
@@ -12608,6 +12630,28 @@
       "duration_ms": 216611,
       "name": "Sun Dog",
       "url": "https://open.spotify.com/track/4n4EALhlcYv1tsc45asW3M"
+    },
+    {
+      "album": {
+        "name": "Shifting Lights",
+        "url": "https://open.spotify.com/album/13HjPRx2MX9Hy7EmyC3uF3"
+      },
+      "artists": [
+        {
+          "name": "Laurent Coulondre",
+          "url": "https://open.spotify.com/artist/1yv7gzHLWb53t8smEXXcUV"
+        },
+        {
+          "name": "Christelle Raquillet",
+          "url": "https://open.spotify.com/artist/3kXt66QJ68b1be6rhSajTJ"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194373,
+      "name": "Sun Is The Key",
+      "url": "https://open.spotify.com/track/0Ty1CoO9OMldlQ6QYUiokr"
     },
     {
       "album": {

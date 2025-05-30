@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nNRJvSufrk.md) - [plain]
 
 > Can you keep up? Get moving to the rapid rhythms of Footwork & Juke, originating in 1990s Chicago\. Cover: DJ Manny
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,251 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,263 likes - 80 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,13 +80,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nNRJvSufrk.md) - [plain]
 | 70 | [One Blood](https://open.spotify.com/track/1lw1zYHWWl7sXlQgqqJE4Y) | [DJ Roc](https://open.spotify.com/artist/3M5fbUWlySs9LximfJj5Da) | [Bangs & Works, Vol.1: A Chicago Footwork Compilation](https://open.spotify.com/album/7jm8RDfHY8ezdu5zEn4I2y) | 2:48 |
 | 71 | [Erotic Heat](https://open.spotify.com/track/7cw7ln9b7LNWNSb5sf1mx9) | [Jlin](https://open.spotify.com/artist/23QKqAkKwti9zBiac6RFBA) | [Dark Energy](https://open.spotify.com/album/2yHEmN9QGuFbFpWt21BJtd) | 4:23 |
 | 72 | [Set It](https://open.spotify.com/track/72paK2vF9UTopN6XAsijRX) | [Dream Continuum](https://open.spotify.com/artist/4VRT7JNcqS3yMV0rBxxUlV) | [Reworkz E.P.](https://open.spotify.com/album/4eTOHLnXdr5WK7UYWnaYXU) | 5:12 |
-| 73 | [Turn Up](https://open.spotify.com/track/5Qdcx5xvBBckTVyYiHdQuN) | [Nangdo](https://open.spotify.com/artist/3q8bo1K12TtwbvsPiwJWDi) | [High on Clouds](https://open.spotify.com/album/7daVVI2wd8FIhzWyWtpq8N) | 3:14 |
-| 74 | [Gimme Some Mo](https://open.spotify.com/track/1Ah9GZskjhqGdrOMN4zWwj) | [DJ Taye](https://open.spotify.com/artist/4T1sY4aibm24hxfz9JnI7c), [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [Still Trippin'](https://open.spotify.com/album/7xDFC6tA0ADGOv3NmIM7rE) | 4:35 |
-| 75 | [Juke It Up](https://open.spotify.com/track/7FY0rPkPYlRlSmczXl9iQh) | [EQ Why](https://open.spotify.com/artist/2XEjbBHqhnBlfydDBUp1Rf) | [Juke Pack Vol.1](https://open.spotify.com/album/0gMUmMf0xpZjctgUUmhj0p) | 2:48 |
-| 76 | [Give It to Me](https://open.spotify.com/track/75MGUYTxhledkSiuOmjmU0) | [DJ Manny](https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7) | [Trackaholic, Vol\. 1 \- EP](https://open.spotify.com/album/3W8TE3M9M5QPsnm4wj06wZ) | 3:49 |
-| 77 | [Never Created, Never Destroyed](https://open.spotify.com/track/6YhSkzyhPBK0N1xulfWlPV) | [Jlin](https://open.spotify.com/artist/23QKqAkKwti9zBiac6RFBA) | [Black Origami](https://open.spotify.com/album/7526bnJCkFFnAMSQ9fsva9) | 3:31 |
-| 78 | [Big Booty Savage](https://open.spotify.com/track/7fQ6AGVEcds2qwnQeAdNyZ) | [EQ Why](https://open.spotify.com/artist/2XEjbBHqhnBlfydDBUp1Rf) | [Juke Pack Vol.1](https://open.spotify.com/album/0gMUmMf0xpZjctgUUmhj0p) | 2:37 |
-| 79 | [Divine](https://open.spotify.com/track/34MzzTrgINt8x5tGS7zRUT) | [Jana Rush](https://open.spotify.com/artist/3lyUIhz1kSCrlqsaMlXAZr) | [Pariah](https://open.spotify.com/album/2KLD67ZxiIL1cwNPaMz7q9) | 5:44 |
-| 80 | [Burnin Ya Boa \(feat\. DJ Manny\)](https://open.spotify.com/track/3CJhotfLdzJbbjAWlK7YFZ) | [DJ Taye](https://open.spotify.com/artist/4T1sY4aibm24hxfz9JnI7c) | [Move Out EP](https://open.spotify.com/album/4NgpWCSva4J1jkTUz2gn7v) | 3:30 |
+| 73 | [Gimme Some Mo](https://open.spotify.com/track/1Ah9GZskjhqGdrOMN4zWwj) | [DJ Taye](https://open.spotify.com/artist/4T1sY4aibm24hxfz9JnI7c), [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [Still Trippin'](https://open.spotify.com/album/7xDFC6tA0ADGOv3NmIM7rE) | 4:35 |
+| 74 | [Juke It Up](https://open.spotify.com/track/7FY0rPkPYlRlSmczXl9iQh) | [EQ Why](https://open.spotify.com/artist/2XEjbBHqhnBlfydDBUp1Rf) | [Juke Pack Vol.1](https://open.spotify.com/album/0gMUmMf0xpZjctgUUmhj0p) | 2:48 |
+| 75 | [Give It to Me](https://open.spotify.com/track/75MGUYTxhledkSiuOmjmU0) | [DJ Manny](https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7) | [Trackaholic, Vol\. 1 \- EP](https://open.spotify.com/album/3W8TE3M9M5QPsnm4wj06wZ) | 3:49 |
+| 76 | [Never Created, Never Destroyed](https://open.spotify.com/track/6YhSkzyhPBK0N1xulfWlPV) | [Jlin](https://open.spotify.com/artist/23QKqAkKwti9zBiac6RFBA) | [Black Origami](https://open.spotify.com/album/7526bnJCkFFnAMSQ9fsva9) | 3:31 |
+| 77 | [Divine](https://open.spotify.com/track/34MzzTrgINt8x5tGS7zRUT) | [Jana Rush](https://open.spotify.com/artist/3lyUIhz1kSCrlqsaMlXAZr) | [Pariah](https://open.spotify.com/album/2KLD67ZxiIL1cwNPaMz7q9) | 5:44 |
+| 78 | [Burnin Ya Boa \(feat\. DJ Manny\)](https://open.spotify.com/track/3CJhotfLdzJbbjAWlK7YFZ) | [DJ Taye](https://open.spotify.com/artist/4T1sY4aibm24hxfz9JnI7c) | [Move Out EP](https://open.spotify.com/album/4NgpWCSva4J1jkTUz2gn7v) | 3:30 |
+| 79 | [Big Booty Savage](https://open.spotify.com/track/7fQ6AGVEcds2qwnQeAdNyZ) | [EQ Why](https://open.spotify.com/artist/2XEjbBHqhnBlfydDBUp1Rf) | [Juke Pack Vol.1](https://open.spotify.com/album/0gMUmMf0xpZjctgUUmhj0p) | 2:37 |
+| 80 | [Do Right](https://open.spotify.com/track/7lMjqRbsChqroWRRkhw3ge) | [Slick Shoota](https://open.spotify.com/artist/2P1OqKNHmAOg9RfAufNNkR) | [Do Right](https://open.spotify.com/album/79oVcdOfST9iLRlqenoJdl) | 3:27 |
 
 Snapshot ID: `Z5eZogAAAAD5MdLVwmY88iM6/EBVA/v4`

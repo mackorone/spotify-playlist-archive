@@ -4,7 +4,7 @@
 
 > Grüezi! This is 100% made in Switzerland\.  Cover: Zoë Më
 
-352 songs - 18 hr 8 min
+354 songs - 18 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,7 @@
 | [Fire To The Sky](https://open.spotify.com/track/64z7HtT0PDMdlWaUwacAuz) | [ZIAN](https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J) | [Fire To The Sky](https://open.spotify.com/album/1Fz5JAZlatqEDYC9gpThwl) | 2:45 | 2025-05-22 |  |
 | [Fleur](https://open.spotify.com/track/1WKvbTPhG5CQ2MoXQ44nJD) | [Lily Claire](https://open.spotify.com/artist/1x7tHpp3O11dDPMcpGlI08) | [Fleur](https://open.spotify.com/album/4vvrxrD8fVSIplYL00CFyX) | 3:08 | 2025-05-01 | 2025-05-09 |
 | [Flight Mode](https://open.spotify.com/track/2jWdBRug5Q4jtYEA4xGHP5) | [Chiara Castelli](https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33) | [Flight Mode](https://open.spotify.com/album/1b3uUquOhMNhm95lPI48Fo) | 2:30 | 2024-06-27 | 2024-09-07 |
-| [Floating](https://open.spotify.com/track/6KF1PU58VkEa4yhWApIyCC) | [Damian Lynn](https://open.spotify.com/artist/4ST7R4xWexBdeBD5u6OP2U) | [Floating](https://open.spotify.com/album/3b5Z4RX4Ew5ivVQ8FHkHD5) | 2:50 | 2024-10-03 |  |
+| [Floating](https://open.spotify.com/track/6KF1PU58VkEa4yhWApIyCC) | [Damian Lynn](https://open.spotify.com/artist/4ST7R4xWexBdeBD5u6OP2U) | [Floating](https://open.spotify.com/album/3b5Z4RX4Ew5ivVQ8FHkHD5) | 2:50 | 2024-10-03 | 2025-05-30 |
 | [Fomo](https://open.spotify.com/track/1iho6JCCMpTS2yLHocyOeQ) | [Marie Jay](https://open.spotify.com/artist/3EfWdPE7TccXs99V0WuOZY) | [Trottinette](https://open.spotify.com/album/2sQnRepY5FEm0rgQpAvfKq) | 3:34 | 2024-11-14 | 2025-01-03 |
 | [For The Night](https://open.spotify.com/track/7kJvHYzLeRzerTJdsR8HPR) | [Argyle](https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg), [NAVENI](https://open.spotify.com/artist/6SKl45GZWlPXXiRgAP9Kmg) | [For The Night](https://open.spotify.com/album/0IwnFtcplQN6d7PBctCIpw) | 2:37 | 2024-06-27 |  |
 | [For You](https://open.spotify.com/track/4cwymvMH81iHgtQJsq12z1) | [ZIAN](https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J) | [For You](https://open.spotify.com/album/6Rutg4L3Or3wdZgmH4muOV) | 2:47 | 2024-06-27 |  |
@@ -187,7 +187,7 @@
 | [Kennsch mi no oder liebsch mi scho..?!](https://open.spotify.com/track/0FIAV40GRBbTfPyEFl93Vd) | [Baschi](https://open.spotify.com/artist/6XzAV5lONpTgoSJDsF2Ubz) | [Neui Wält](https://open.spotify.com/album/5sZkARdLSVWdhrOTjAoL42) | 2:41 | 2025-04-17 | 2025-04-25 |
 | [King Bed](https://open.spotify.com/track/4EQ9AIMWgeGIjxGiLKbZl0) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [King Bed](https://open.spotify.com/album/17uh7gY4QxzY3gcwQ7SFkI) | 2:40 | 2024-06-27 | 2024-10-04 |
 | [Kiss Me in the Morning](https://open.spotify.com/track/29QgJyRmOh5J6vx6oXl1Co) | [Marius Bear](https://open.spotify.com/artist/6thEUEg4pJq0H4aLVqNMwb) | [Kiss Me in the Morning](https://open.spotify.com/album/0Z1SeJgduMYHUHThMpMNEc) | 3:27 | 2024-06-27 | 2024-07-12 |
-| [kissing you at midnight](https://open.spotify.com/track/2OHAY6SRLLk7coxKtopMg7) | [Milune](https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe) | [kissing you at midnight](https://open.spotify.com/album/0Himmw4SE7A47WjLZLiCdf) | 3:13 | 2025-02-14 | 2025-03-30 |
+| [kissing you at midnight](https://open.spotify.com/track/2OHAY6SRLLk7coxKtopMg7) | [Milune](https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe) | [kissing you at midnight](https://open.spotify.com/album/0Himmw4SE7A47WjLZLiCdf) | 3:13 | 2025-02-14 |  |
 | [Kompliment](https://open.spotify.com/track/38okoOwbE4iBF7fK9lbz1O) | [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [Kompliment](https://open.spotify.com/album/2NUERsJFzukrqAtbw2bhdG) | 2:45 | 2024-06-27 | 2024-10-04 |
 | [La Bambele](https://open.spotify.com/track/1UB7rmiUlZEpA7EKLWFoG0) | [Müslüm](https://open.spotify.com/artist/30n84qoTYUcib1cU4WJj9h) | [Apochalüpt](https://open.spotify.com/album/3eIqmJS11sy0lZCtAvFa9M) | 3:10 | 2025-05-08 | 2025-05-16 |
 | [Lakers](https://open.spotify.com/track/0351Q9c4ETLOlr34NGQyEN) | [Di\-Meh](https://open.spotify.com/artist/1QHLcqY9m9aoKWcjBiQV0y) | [OV3²](https://open.spotify.com/album/42Cl1mWFFmdfciQKfYdnqH) | 3:23 | 2025-04-24 | 2025-05-02 |
@@ -208,8 +208,10 @@
 | [Losing My Mind](https://open.spotify.com/track/3dB12m9FLxV7ezUR7QTas7) | [Argyle](https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg) | [Losing My Mind](https://open.spotify.com/album/7nVYW5nmxvdUsKdGwIdmdH) | 3:10 | 2024-11-22 |  |
 | [Losloh](https://open.spotify.com/track/0ZXFSrGieGGO6e5kHVdEE6) | [Riana](https://open.spotify.com/artist/539s6EvqBuxuA5xzRyCIMz) | [Losloh](https://open.spotify.com/album/4S5RluviJRmFhvjX5MmJyT) | 3:32 | 2025-04-17 | 2025-04-25 |
 | [Losloh](https://open.spotify.com/track/3G5uwV019QQJZSgM1xaVd8) | [Riana](https://open.spotify.com/artist/539s6EvqBuxuA5xzRyCIMz) | [Fö eu](https://open.spotify.com/album/5rHls0Optsni1ng6HeiQFh) | 3:32 | 2025-04-24 | 2025-05-02 |
+| [Lost In You](https://open.spotify.com/track/1vQAiK2MWj2D2zgYq6LPbA) | [Gabriel Benedek](https://open.spotify.com/artist/0BBZxotcIVnEEPhjA4iSiu) | [Lost In You](https://open.spotify.com/album/7mMJt8idUTgjDohTLqLekb) | 2:02 | 2025-05-29 |  |
 | [Love Is A Lie](https://open.spotify.com/track/3Ji9fllpDPn8DQGkFnLaBY) | [Luca Hänni](https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ) | [Love Is A Lie](https://open.spotify.com/album/4UFBXEuqazPcVNvzcm11M4) | 2:19 | 2025-04-05 |  |
 | [Love Me Better](https://open.spotify.com/track/3VKKs2Usdi4cVIEE1qHzF2) | [Luca Hänni](https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ) | [Love Me Better](https://open.spotify.com/album/4t0x0qFxsOdcZAhMvZ9G9H) | 2:13 | 2024-08-19 |  |
+| [Low Tide](https://open.spotify.com/track/44LdsGW3nKLfkp0WeInuEC) | [DANA](https://open.spotify.com/artist/3rQLVRDmnGhPhFBp4Q35Rr) | [Low Tide](https://open.spotify.com/album/1jmxE0EMixooHHrPMwLGeM) | 2:41 | 2025-05-29 |  |
 | [Luftloch](https://open.spotify.com/track/6PvHlKMKbmogZs3KOm9jtR) | [Mau3](https://open.spotify.com/artist/5g8jW8Xvn6etfPsZ820n2F) | [Luftloch](https://open.spotify.com/album/2UTUaDLEiddyHgVMTppNel) | 3:32 | 2025-04-24 | 2025-05-02 |
 | [Luisa](https://open.spotify.com/track/3HO8nhj3GUWcASnhQFO4iO) | [Gaspar Narby](https://open.spotify.com/artist/2j4vLZ1ZNKpYCPhk98FR2s) | [Luisa](https://open.spotify.com/album/1JWNb9DGs4uPn4aj2yf8iA) | 3:04 | 2024-12-07 | 2024-12-21 |
 | [Maggie](https://open.spotify.com/track/71xZNB0u4MKxLKSo0vsIjk) | [Linda Elys](https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf) | [Maggie](https://open.spotify.com/album/527ETuK6j0NsH3ZlhdiUHp) | 2:59 | 2024-06-27 |  |
@@ -295,7 +297,7 @@
 | [Softly Speaking](https://open.spotify.com/track/7deNy580xvtMQzvzXhlBwF) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [Softly Speaking](https://open.spotify.com/album/65rLsfsMNCgtlFE7D2790y) | 3:46 | 2024-06-27 |  |
 | [Somebody I Don't Know](https://open.spotify.com/track/6K3SFxoNLfiD7TzSPOvAhe) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Smalltown Boy](https://open.spotify.com/album/5S5LYaDfn0aYIJw2W8vWgm) | 3:05 | 2025-02-27 | 2025-04-18 |
 | [Someone](https://open.spotify.com/track/0qUS7YhYhGM9Zrv0wdssC0) | [Linda Wolf](https://open.spotify.com/artist/5k0bwTI10kfhSyDkg0fvEo) | [What if It All Works Out](https://open.spotify.com/album/7hko53MusmAbvlXYlFtIxA) | 3:33 | 2025-02-07 |  |
-| [Something to Feel](https://open.spotify.com/track/1ASSFuZqeOVaUxaZYRslF1) | [Noah Parks](https://open.spotify.com/artist/1W47ZQbSjqKQiyBDOtlr0p) | [Something to Feel](https://open.spotify.com/album/6Cc2Sey7WrzrpyhR4h0DSP) | 3:19 | 2025-03-21 |  |
+| [Something to Feel](https://open.spotify.com/track/1ASSFuZqeOVaUxaZYRslF1) | [Noah Parks](https://open.spotify.com/artist/1W47ZQbSjqKQiyBDOtlr0p) | [Something to Feel](https://open.spotify.com/album/6Cc2Sey7WrzrpyhR4h0DSP) | 3:19 | 2025-03-21 | 2025-05-30 |
 | [Sonido Cósmico](https://open.spotify.com/track/55BCpfZp7sVgGBzBlGW5f0) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Sonido Cósmico](https://open.spotify.com/album/2P8acwzPaluqWw2qvnmIN0) | 3:43 | 2024-06-27 | 2024-10-04 |
 | [Sorry](https://open.spotify.com/track/5fP2ZLhZT6Ry1WZqzmWUNT) | [ZIAN](https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J) | [Sorry](https://open.spotify.com/album/1GkLbZiRcGcat8HdCX3rT3) | 2:47 | 2024-09-27 | 2025-01-11 |
 | [spark](https://open.spotify.com/track/13lod7e7tqMqSPXmi6jBKY) | [Long Tall Jefferson](https://open.spotify.com/artist/4dPlgLFpJ1w0BtzNVwQNZq) | [spark](https://open.spotify.com/album/73OXMgGuaifUXUzzh7sn6w) | 3:21 | 2024-12-20 | 2025-02-08 |
@@ -321,7 +323,7 @@
 | [torn](https://open.spotify.com/track/4Q4pIhQUUoqDagBCc81rX4) | [Milune](https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe) | [torn](https://open.spotify.com/album/4tsVKMEScY3SQF6OkeDcbW) | 2:43 | 2024-06-27 | 2024-10-04 |
 | [Toro](https://open.spotify.com/track/160NRR8Ol1CwAMNnjM2COC) | [LieVin](https://open.spotify.com/artist/4bCEw9lXrhxvEZQHxD8tJU), [L Loko](https://open.spotify.com/artist/6iI54kPtuDGxFe6T3eIR53), [Drini](https://open.spotify.com/artist/5tRlhg6J2lBxI7Qb4IfL00) | [Toro](https://open.spotify.com/album/0wNk0P72mbxhAx1I6UcrZ6) | 2:31 | 2025-04-24 | 2025-05-02 |
 | [Toti Chatz](https://open.spotify.com/track/5K1QCmyfRpGylVR3Cj6Gj6) | [Dachs](https://open.spotify.com/artist/04LdKPNs0taDflOxwGZCGe) | [Toti Chatz](https://open.spotify.com/album/6kWFAwpZ9L7wd9FeZH6v7v) | 3:30 | 2025-04-24 | 2025-05-02 |
-| [Trade Hearts](https://open.spotify.com/track/6ABj99azBSfIGjLEG06BxT) | [Stress](https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg) | [Trade Hearts](https://open.spotify.com/album/6aajMo7t2WqdeNva5ThW28) | 2:54 | 2024-06-27 |  |
+| [Trade Hearts](https://open.spotify.com/track/6ABj99azBSfIGjLEG06BxT) | [Stress](https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg) | [Trade Hearts](https://open.spotify.com/album/6aajMo7t2WqdeNva5ThW28) | 2:54 | 2024-06-27 | 2025-05-30 |
 | [Tribut](https://open.spotify.com/track/0N1AE3zqGZYLmvffDCJkNy) | [Lo & Leduc](https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe) | [Tribut](https://open.spotify.com/album/6CR79CTeKXHzHlRoDyDStP) | 3:17 | 2024-06-27 |  |
 | [Träumer](https://open.spotify.com/track/3zZT2tVOOvoeXhCXHXwLxe) | [Megawatt](https://open.spotify.com/artist/1OXgQIrgvp6L46akQ5lBey) | [Träumer](https://open.spotify.com/album/2yxljgT0voJDYx4vQUq7Hi) | 3:29 | 2025-05-08 | 2025-05-16 |
 | [Tú y Yo](https://open.spotify.com/track/1s5YXOdmyNk0KLEbKcKCRz) | [Loco Escrito](https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ) | [Tú y Yo](https://open.spotify.com/album/3E2PiQa0TO3ecSgrDDzN4e) | 2:44 | 2024-06-27 |  |

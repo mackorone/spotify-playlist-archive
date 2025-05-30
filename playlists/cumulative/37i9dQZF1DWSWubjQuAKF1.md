@@ -2,9 +2,9 @@
 
 ### [up next](https://open.spotify.com/playlist/37i9dQZF1DWSWubjQuAKF1)
 
-> świeże brzmienia na horyzoncie ✨ Cover: Faustyna Maciejczuk
+> świeże brzmienia na horyzoncie ✨ Cover: pszona
 
-466 songs - 22 hr 36 min
+468 songs - 22 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [apollo](https://open.spotify.com/track/0DoKEamrm3P13HItt9PTwM) | [Lotta](https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs) | [apollo](https://open.spotify.com/album/3piWNDcYfXIPKcF4JFVr8d) | 2:19 | 2024-06-28 | 2024-08-02 |
 | [Arachnophobia](https://open.spotify.com/track/238SwKe4AlSzqa7lg1oHUz) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [Arachnophobia](https://open.spotify.com/album/3QATSYk5TsPkoEJKvZIM7P) | 4:29 | 2024-09-06 | 2024-11-08 |
 | [Arkadia](https://open.spotify.com/track/3PMYCND2OpaEV74EQkWrOZ) | [WOLSKA](https://open.spotify.com/artist/6W535X9Sk4zYwdMeXQ8LwM) | [Arkadia](https://open.spotify.com/album/2p4Udkis07aTRZIDjpyNTQ) | 3:34 | 2025-03-20 | 2025-04-12 |
+| [Ataki Paniki](https://open.spotify.com/track/0MJketFpC5gs4S8JoHKw3p) | [Kalina Kortas](https://open.spotify.com/artist/5Xp6aLgSP9G5w1FV8p0VJ7) | [Ataki Paniki](https://open.spotify.com/album/5nbxNbFcAIxg1EgNfO04qk) | 3:34 | 2025-05-29 |  |
 | [azs](https://open.spotify.com/track/2vq6rl7RArxCQvz4mJs7bC) | [Dafeat](https://open.spotify.com/artist/2Ujn6zr81UqOdSN8tvOjLA), [Dominika Płonka](https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8) | [azs](https://open.spotify.com/album/1q4eCy4H5R0uZcVLLx5NOv) | 2:44 | 2024-11-07 | 2024-11-22 |
 | [Aż Będziesz Wiedzieć](https://open.spotify.com/track/4AvHEHhWzVYtda38KLWEkM) | [Paula Biskup](https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2) | [Tylko Lepiej EP](https://open.spotify.com/album/40hXd3kTwv8wF9iVxQLKHC) | 2:27 | 2024-09-19 | 2025-01-24 |
 | [Aż tyle](https://open.spotify.com/track/5hp9lT0MmUOB7EwDVhNMQL) | [the small town kids](https://open.spotify.com/artist/1cUvJtU1uL59tjCScnbUUk), [Lotta](https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs) | [Aż tyle](https://open.spotify.com/album/3Lg2ZQ0qbLM9zr1e85ZabV) | 2:16 | 2024-09-27 | 2025-01-24 |
@@ -122,6 +123,7 @@
 | [Echo](https://open.spotify.com/track/4S6Eey9SnDruEADx0ojzZJ) | [PHERO](https://open.spotify.com/artist/0rCwkT0lVZHeA8qek9DAhM) | [Echo](https://open.spotify.com/album/4QDtR0UNxUf5JFn90ppg8Z) | 2:44 | 2024-11-21 | 2025-01-10 |
 | [EDEN](https://open.spotify.com/track/1tm0wcb70ojuKjvFUo1Tsd) | [ORKID](https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG) | [EDEN](https://open.spotify.com/album/0N9FSY1ZPYkkySGVQYcswA) | 3:22 | 2025-03-27 |  |
 | [epicentrum](https://open.spotify.com/track/2gCNm0DrdB0kbhFSfGsC0O) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [epicentrum](https://open.spotify.com/album/5Nnjs9uBxHkRpn3t2yn5my) | 2:19 | 2024-07-25 | 2025-01-24 |
+| [Escape](https://open.spotify.com/track/2Dlc3NKzeU8xybT6R8iQm0) | [zuziula](https://open.spotify.com/artist/4QlrRdWN1OxIPPK5tWWang), [Phatrax](https://open.spotify.com/artist/1EWSmJHrwXmAaXOxD4uHg7) | [Escape](https://open.spotify.com/album/2S1RHUOQRRqDPkVmxVSLHA) | 2:33 | 2025-05-29 |  |
 | [Everything Changes \(But I Won't\)](https://open.spotify.com/track/2WGOTUuDEW2NxuJVFWvmcB) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Louder, Please](https://open.spotify.com/album/79SqMfih2FN1NaLtZUcccG) | 3:51 | 2025-01-23 | 2025-03-21 |
 | [Fake ID](https://open.spotify.com/track/5gcokYc6au92x8EUbgJ3KR) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [Fake ID](https://open.spotify.com/album/5QGGbcVRxSnDuRdQXJsKq2) | 2:32 | 2024-06-28 | 2024-10-05 |
 | [falochron](https://open.spotify.com/track/5o0OlsASevD0ArIop32BSf) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [Serce](https://open.spotify.com/album/2DS7nuqs28amXxGagoQ6fh) | 2:40 | 2025-02-20 | 2025-03-28 |
@@ -285,7 +287,7 @@
 | [Noc Aniołów](https://open.spotify.com/track/4N9IE3251WOeuVkL9gYg3y) | [Young Leosia](https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ), [Jonatan](https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak) | [Noc Aniołów](https://open.spotify.com/album/7ClftPSzzotBXbkm0qdzka) | 2:37 | 2024-08-01 | 2024-09-28 |
 | [Not At This Party](https://open.spotify.com/track/2V45ERWv9xrvV7Udm0a8di) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Not At This Party](https://open.spotify.com/album/3HeSxkLXlUx9ugabrCXa4t) | 3:32 | 2025-02-27 |  |
 | [Nowa Era](https://open.spotify.com/track/4FdrZ3wiKbpIRoEKfRSDAB) | [SaMa](https://open.spotify.com/artist/4xEYSiX0oZb4EkmDnu60Tt) | [Nowa Era](https://open.spotify.com/album/1l4RC3SFVx7g4JCe91lLpg) | 2:56 | 2024-06-28 | 2024-07-27 |
-| [nwcojestgrane](https://open.spotify.com/track/0rrUFLkf13Qx5XhUxDw6CK) | [sonia](https://open.spotify.com/artist/5tJewiRCbFJHbFzRWn2OS3) | [nwcojestgrane](https://open.spotify.com/album/3oYY4VqBeh8fORA6WczZBi) | 2:43 | 2025-05-22 |  |
+| [nwcojestgrane](https://open.spotify.com/track/0rrUFLkf13Qx5XhUxDw6CK) | [sonia](https://open.spotify.com/artist/5tJewiRCbFJHbFzRWn2OS3) | [nwcojestgrane](https://open.spotify.com/album/3oYY4VqBeh8fORA6WczZBi) | 2:43 | 2025-05-22 | 2025-05-30 |
 | [o tobie wers](https://open.spotify.com/track/4uN1jM22d2v3l2IRIJe1Af) | [Maja Krzyżewska](https://open.spotify.com/artist/0Ik3lsTqLJTDmAmKQ6mxPL) | [o tobie wers](https://open.spotify.com/album/3nAZGqA6gK1p546TGFuL1E) | 2:45 | 2025-03-13 |  |
 | [obyś to była Ty](https://open.spotify.com/track/1PhWnzPIshK7800SDkfw9h) | [Artur Sikorski](https://open.spotify.com/artist/0IGDk5SQHJVCpiSTLDGs5A) | [obyś to była Ty](https://open.spotify.com/album/67BbloXOMeYCYe0ECHuvRl) | 2:14 | 2024-11-21 | 2025-01-24 |
 | [Obłęd](https://open.spotify.com/track/2zgEt2hzvZmOFn5WcVieFF) | [AJLA](https://open.spotify.com/artist/0DKSIQmQ284IrIKpNdl36H), [Cool P](https://open.spotify.com/artist/5f0sTF0SaVN5hbNYAJFSPV) | [Obłęd](https://open.spotify.com/album/6oGm7MbUXDljtyXO8MLuKL) | 3:30 | 2025-01-23 | 2025-03-07 |
@@ -401,7 +403,7 @@
 | [Tańce na Modlinie](https://open.spotify.com/track/4xbp8yZ1nhpcx3m0N7yecu) | [evelina ross](https://open.spotify.com/artist/1oKaZug8yJYjW4ljicp8Iw) | [Tańce na Modlinie](https://open.spotify.com/album/2LO67WCsun4L0woxKq2LOf) | 4:00 | 2024-11-07 | 2025-01-24 |
 | [Tańczę do Ciebie](https://open.spotify.com/track/22I924FKxxTIDS7JXQjaPE) | [Kuba Dąbrowski](https://open.spotify.com/artist/3AxyUv67RW9vF4GbXFqTCP), [Ania Szlagowska](https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D) | [Tańczę do Ciebie](https://open.spotify.com/album/59Kq0skwHuLhRpeffUuA9L) | 2:55 | 2024-09-06 | 2024-09-20 |
 | [Tchórz](https://open.spotify.com/track/3IWmtaAgIywmurEdfBcMVh) | [evelina ross](https://open.spotify.com/artist/1oKaZug8yJYjW4ljicp8Iw) | [Tchórz](https://open.spotify.com/album/3rHS5Om5ZqZGpvwpQneCU2) | 2:51 | 2024-06-28 | 2024-07-19 |
-| [tchórz](https://open.spotify.com/track/5BEm0jrawsUMGdoSRnEsg2) | [Norbert Wronka](https://open.spotify.com/artist/5jPmnL6vRtGz8pNWsv7ujq) | [tchórz](https://open.spotify.com/album/4ivdL6LJbfphxkRMO78bYv) | 3:29 | 2025-05-22 |  |
+| [tchórz](https://open.spotify.com/track/5BEm0jrawsUMGdoSRnEsg2) | [Norbert Wronka](https://open.spotify.com/artist/5jPmnL6vRtGz8pNWsv7ujq) | [tchórz](https://open.spotify.com/album/4ivdL6LJbfphxkRMO78bYv) | 3:29 | 2025-05-22 | 2025-05-30 |
 | [teleranek](https://open.spotify.com/track/68lwG3Z14g6ZguSpUCtqUD) | [Piotr Odoszewski](https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk) | [Teleranek](https://open.spotify.com/album/61C2QQjGxZioq1gyenC2GM) | 3:07 | 2024-06-28 | 2024-07-27 |
 | [TENSION](https://open.spotify.com/track/0rgCob7qSVjoDBNXKRUUQH) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [TENSION](https://open.spotify.com/album/7dpfQ3sHIarczKj3Ccz8zc) | 2:27 | 2025-03-06 | 2025-05-10 |
 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 | 2025-01-23 | 2025-04-25 |

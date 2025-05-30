@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The biggest Dancehall playlist in the world. Cover: Valiant",
+  "description": "The biggest Dancehall playlist in the world. Cover: Kardinal Offishall",
   "name": "Dancehall Official",
   "tracks": [
     {
@@ -648,7 +648,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 173265,
       "name": "Balcony",
       "url": "https://open.spotify.com/track/3OkFfeLeUZdmxawsFrqk6p"
@@ -1340,6 +1340,32 @@
       "duration_ms": 184111,
       "name": "Buss a Blank",
       "url": "https://open.spotify.com/track/5j1jQwDOGdv5RV6F72YZ54"
+    },
+    {
+      "album": {
+        "name": "Buss a Whine",
+        "url": "https://open.spotify.com/album/2O7NFz737LgCjAmqWdswst"
+      },
+      "artists": [
+        {
+          "name": "Kybba",
+          "url": "https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA"
+        },
+        {
+          "name": "Leftside",
+          "url": "https://open.spotify.com/artist/187qoiisjzqvj3wsBWLotr"
+        },
+        {
+          "name": "Bamby",
+          "url": "https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147878,
+      "name": "Buss a Whine",
+      "url": "https://open.spotify.com/track/6UQLhEkY7ZfpMbctfg490g"
     },
     {
       "album": {
@@ -2123,6 +2149,28 @@
     },
     {
       "album": {
+        "name": "Deceitful",
+        "url": "https://open.spotify.com/album/6kCkndhxsM5Iknqar8rzPB"
+      },
+      "artists": [
+        {
+          "name": "NIGY BOY",
+          "url": "https://open.spotify.com/artist/63o6Z7qrOen7eLbmYOx7gt"
+        },
+        {
+          "name": "9MR",
+          "url": "https://open.spotify.com/artist/1hBmokyEMieW8SaOVyxp8l"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171702,
+      "name": "Deceitful",
+      "url": "https://open.spotify.com/track/7axvgBaBH9Qpbbub8s8gSz"
+    },
+    {
+      "album": {
         "name": "I'll Never Die",
         "url": "https://open.spotify.com/album/6ZDK2wcGJqmfk3hrP3ZHXu"
       },
@@ -2384,7 +2432,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 115000,
       "name": "Dreams Are Made Of",
       "url": "https://open.spotify.com/track/5OgGzWwwZUnIai4iXpIRrZ"
@@ -2740,7 +2788,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 202352,
       "name": "Ex Boyfriend",
       "url": "https://open.spotify.com/track/7n3wqMgEQVIKdM791haDBG"
@@ -4867,6 +4915,24 @@
     },
     {
       "album": {
+        "name": "LET EM OUT",
+        "url": "https://open.spotify.com/album/2eW7djVnQycwpmhiiNjiql"
+      },
+      "artists": [
+        {
+          "name": "Kardinal Offishall",
+          "url": "https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169464,
+      "name": "LET EM OUT",
+      "url": "https://open.spotify.com/track/2lQtir4kucnRn8wcESAU6g"
+    },
+    {
+      "album": {
         "name": "Let Him Guh",
         "url": "https://open.spotify.com/album/2dC55z8dtEtG9QQt0SAFdj"
       },
@@ -5032,7 +5098,7 @@
       ],
       "date_added": "2025-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 174059,
       "name": "Like Glu",
       "url": "https://open.spotify.com/track/2ntyJMLjpnFX69RhKUUesj"

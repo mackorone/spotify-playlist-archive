@@ -1,6 +1,6 @@
 {
   "description": "Pour yourself a mai tai \ud83c\udf79 and festoon yourself with lei \ud83c\udf3a, welcome to the Hawaiian party! \ud83c\udf34\ud83e\udd6d\ud83c\udf89",
-  "num_followers": 133244,
+  "num_followers": 133250,
   "original_name": "The Hawaiian Party",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2022-01-11 02:53:42",
       "album": {
-        "name": "Taboo 2: New Exotic Sounds of Arthur Lyman",
-        "url": "https://open.spotify.com/album/4QQrUheyVPgbSgnW3QCh5T"
-      },
-      "artists": [
-        {
-          "name": "Arthur Lyman",
-          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
-        }
-      ],
-      "duration_ms": 128066,
-      "name": "Taboo Tu",
-      "url": "https://open.spotify.com/track/7tmHTrXjolQZbD0qxLWn9Y"
-    },
-    {
-      "added_at": "2022-01-11 02:53:42",
-      "album": {
         "name": "Voodoo!",
         "url": "https://open.spotify.com/album/6SnfMkaU2WAvBmmiFpz892"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 153493,
       "name": "Chant Of The Moon",
       "url": "https://open.spotify.com/track/6j46ude4neMZMiEagbYkie"
+    },
+    {
+      "added_at": "2022-01-11 02:53:42",
+      "album": {
+        "name": "Taboo 2: New Exotic Sounds of Arthur Lyman",
+        "url": "https://open.spotify.com/album/4QQrUheyVPgbSgnW3QCh5T"
+      },
+      "artists": [
+        {
+          "name": "Arthur Lyman",
+          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
+        }
+      ],
+      "duration_ms": 128066,
+      "name": "Taboo Tu",
+      "url": "https://open.spotify.com/track/7tmHTrXjolQZbD0qxLWn9Y"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Yellow Bird",
-        "url": "https://open.spotify.com/album/20MWtXQ8eH0hgOi8Sf7KyX"
-      },
-      "artists": [
-        {
-          "name": "Arthur Lyman",
-          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
-        }
-      ],
-      "duration_ms": 164920,
-      "name": "Yellow Bird",
-      "url": "https://open.spotify.com/track/3KOC0porpfAeFFYuA4d73z"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Lolita: Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/5Rw1VdeWqxgAfiqC6dk61q"
       },
@@ -1187,18 +1171,34 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Lisbon Antigua (One Mint Julep Lounge 1953 - 1956)",
-        "url": "https://open.spotify.com/album/25tMpbJhW0vuldZbQ1tjpS"
+        "name": "Yma Sumac - Story Of The Jivaro Vol. 1",
+        "url": "https://open.spotify.com/album/4HKVsoMLahluq4lxl3VMKb"
       },
       "artists": [
         {
-          "name": "Bas Sheva",
-          "url": "https://open.spotify.com/artist/2754ZKfUBzGnAsiA2gYoxP"
+          "name": "Yma Sumac",
+          "url": "https://open.spotify.com/artist/1HkQ4XrPffqcVW0TgTTw0d"
         }
       ],
-      "duration_ms": 179800,
-      "name": "Lust",
-      "url": "https://open.spotify.com/track/3UbYI0HPdoJJlZHsjx6yE4"
+      "duration_ms": 175471,
+      "name": "Jivaro",
+      "url": "https://open.spotify.com/track/1pP9JVGU5jKP7sWah8ROPx"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Yellow Bird",
+        "url": "https://open.spotify.com/album/20MWtXQ8eH0hgOi8Sf7KyX"
+      },
+      "artists": [
+        {
+          "name": "Arthur Lyman",
+          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
+        }
+      ],
+      "duration_ms": 164920,
+      "name": "Yellow Bird",
+      "url": "https://open.spotify.com/track/3KOC0porpfAeFFYuA4d73z"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Yma Sumac - Story Of The Jivaro Vol. 1",
-        "url": "https://open.spotify.com/album/4HKVsoMLahluq4lxl3VMKb"
+        "name": "Lisbon Antigua (One Mint Julep Lounge 1953 - 1956)",
+        "url": "https://open.spotify.com/album/25tMpbJhW0vuldZbQ1tjpS"
       },
       "artists": [
         {
-          "name": "Yma Sumac",
-          "url": "https://open.spotify.com/artist/1HkQ4XrPffqcVW0TgTTw0d"
+          "name": "Bas Sheva",
+          "url": "https://open.spotify.com/artist/2754ZKfUBzGnAsiA2gYoxP"
         }
       ],
-      "duration_ms": 175471,
-      "name": "Jivaro",
-      "url": "https://open.spotify.com/track/1pP9JVGU5jKP7sWah8ROPx"
+      "duration_ms": 179800,
+      "name": "Lust",
+      "url": "https://open.spotify.com/track/3UbYI0HPdoJJlZHsjx6yE4"
     },
     {
       "added_at": "2021-01-20 03:50:53",

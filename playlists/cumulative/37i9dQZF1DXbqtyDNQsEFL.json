@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Gospel songs to get you in the spirit. Whether you are happy or need company to feel better, this is the right one! Cover:   <a href=https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT?si=9zbC_Ob1R_iMDVT3dfIDSw>Moses Akoh</a>",
+  "description": "Gospel songs to get you in the spirit. Whether you are happy or need company to feel better, this is the right one! Cover:   <a href=https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H?si=4wNDEOJPQIiED06KrFzEpA>Malcolm Rue</a>",
   "name": "Be Lifted ",
   "tracks": [
     {
@@ -7709,6 +7709,28 @@
     },
     {
       "album": {
+        "name": "Pray For Me",
+        "url": "https://open.spotify.com/album/5AsA1NMG6xLATViBJyQRMH"
+      },
+      "artists": [
+        {
+          "name": "Theresa Phondo",
+          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
+        },
+        {
+          "name": "Praise Umali",
+          "url": "https://open.spotify.com/artist/7xiUwkZo3qCu8FhqFIg7iT"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Pray For Me",
+      "url": "https://open.spotify.com/track/2HxWXOVWDYEd6jUAcKge3k"
+    },
+    {
+      "album": {
         "name": "Prayer",
         "url": "https://open.spotify.com/album/5HWf6AknaS1QvRXM0dpLsU"
       },
@@ -8350,7 +8372,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 160000,
       "name": "Stand Up for Jesus",
       "url": "https://open.spotify.com/track/1XWRCvOmdhWGkxyId5CoBY"
@@ -9123,6 +9145,24 @@
     },
     {
       "album": {
+        "name": "Too Oiled",
+        "url": "https://open.spotify.com/album/0aqXe5YKPqIkGQgoTuDZKE"
+      },
+      "artists": [
+        {
+          "name": "Victoria Orenze",
+          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 734000,
+      "name": "Too Oiled",
+      "url": "https://open.spotify.com/track/3fPWeU5dawXN52Z9geFYFR"
+    },
+    {
+      "album": {
         "name": "Trust In God (Radio Version)",
         "url": "https://open.spotify.com/album/6IW9jcM4HMToKGO1aE8dbv"
       },
@@ -9312,7 +9352,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 191910,
       "name": "Victory Sound",
       "url": "https://open.spotify.com/track/4tzA51379bjf05eXSQbJJD"
@@ -9410,7 +9450,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 183060,
       "name": "Water",
       "url": "https://open.spotify.com/track/5Jm5QshUTNdD2CdLmiIp4X"
@@ -10706,7 +10746,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-22",
+      "date_removed": null,
       "duration_ms": 165524,
       "name": "Your Way",
       "url": "https://open.spotify.com/track/2FuBk9kWI54pQIZuImlJo3"

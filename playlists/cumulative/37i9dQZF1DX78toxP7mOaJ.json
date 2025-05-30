@@ -20449,6 +20449,24 @@
     },
     {
       "album": {
+        "name": "Modern Man",
+        "url": "https://open.spotify.com/album/3m7OWCL2PfBrcj2Fu179kx"
+      },
+      "artists": [
+        {
+          "name": "MORN",
+          "url": "https://open.spotify.com/artist/0kyIsGsq7em6p0dOUwOAI3"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249106,
+      "name": "Modern Man",
+      "url": "https://open.spotify.com/track/10VAsXITsdLNv3kWjB2Omu"
+    },
+    {
+      "album": {
         "name": "Modo",
         "url": "https://open.spotify.com/album/5Rt0j3oFothc5SZpeQQmMZ"
       },

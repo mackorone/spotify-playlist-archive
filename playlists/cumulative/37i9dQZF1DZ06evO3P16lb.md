@@ -4,7 +4,7 @@
 
 > This is Lupita Infante\. The essential tracks, all in one playlist.
 
-51 songs - 2 hr 46 min
+52 songs - 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,13 +14,13 @@
 | [Besarte Así](https://open.spotify.com/track/0z2fdrdXxLhb00CJjPxiY6) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Amor Como en las Películas de Antes](https://open.spotify.com/album/6llEx540bwa3fG9RI0boaW) | 3:54 | 2025-02-12 |  |
 | [Bésame Mucho \(with Lupita Infante\)](https://open.spotify.com/track/1XMI6Ym8dnyQWJfDgu3AdX) | [Engelbert Humperdinck](https://open.spotify.com/artist/17XXKfRBMCWvLrqGoNkJXm), [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [All About Love \(Deluxe Tour Edition\)](https://open.spotify.com/album/69aRmWllq9m7C8P3PSRSf6) | 4:13 | 2025-02-21 |  |
 | [Bésame Mucho \(with Lupita Infante\)](https://open.spotify.com/track/7h04fNkaoTxer1zYqhSa3i) | [Engelbert Humperdinck](https://open.spotify.com/artist/17XXKfRBMCWvLrqGoNkJXm), [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [All About Love](https://open.spotify.com/album/4T1RD1g6dtAbw44aob1iPM) | 4:13 | 2025-02-12 | 2025-02-21 |
-| [Canto del Bracero \- En Vivo](https://open.spotify.com/track/7BKUAIlg48DZpcSxMTX7gV) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Puras de Mi Abuelo, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/6ykgsX2sQOjkZtJITLepIk) | 3:03 | 2025-02-12 | 2025-05-26 |
+| [Canto del Bracero \- En Vivo](https://open.spotify.com/track/7BKUAIlg48DZpcSxMTX7gV) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Puras de Mi Abuelo, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/6ykgsX2sQOjkZtJITLepIk) | 3:03 | 2025-02-12 |  |
 | [Cien Años \- En Vivo](https://open.spotify.com/track/0abywAZKp30hCllOLhq8P6) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Puras de Mi Abuelo, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/6ykgsX2sQOjkZtJITLepIk) | 3:14 | 2025-02-12 |  |
 | [Cuando Me Quieras](https://open.spotify.com/track/6NlJn11gSq75pfd74F4nYz) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ), [Alejandro Ascencio](https://open.spotify.com/artist/1LJTfklgWcEu2KvCBZJEgf) | [La Corona Es Mía](https://open.spotify.com/album/0DusDv4Kf4GPjtsUwyAA5B) | 3:33 | 2025-05-21 |  |
 | [Cucurrucucú Paloma](https://open.spotify.com/track/1piJQpsNncvOCmF8dHX8FS) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Cucurrucucú Paloma](https://open.spotify.com/album/3yIXEqENgPgtJnJC7oYIci) | 3:10 | 2025-02-12 |  |
 | [Cumbiecitas Elegantes](https://open.spotify.com/track/37kpcwVIrLW1i6bz8XAshq) | [Diana Burco](https://open.spotify.com/artist/5Ne3ltocafq0vUn1nlbr3i), [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Cumbiecitas Elegantes](https://open.spotify.com/album/7e8anfI4t2UBQPZADp4Rkq) | 2:47 | 2025-02-12 |  |
 | [Cómo Olvidarte](https://open.spotify.com/track/5TcLdIf7BgSRvidCtrs4Vw) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Amor Como en las Películas de Antes](https://open.spotify.com/album/6llEx540bwa3fG9RI0boaW) | 3:08 | 2025-02-16 |  |
-| [Dame un Beso](https://open.spotify.com/track/2zdSBqAr58KRhTBxy4QJqP) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [La Corona Es Mía](https://open.spotify.com/album/0DusDv4Kf4GPjtsUwyAA5B) | 2:47 | 2025-05-23 |  |
+| [Dame un Beso](https://open.spotify.com/track/2zdSBqAr58KRhTBxy4QJqP) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [La Corona Es Mía](https://open.spotify.com/album/0DusDv4Kf4GPjtsUwyAA5B) | 2:47 | 2025-05-23 | 2025-05-30 |
 | [Dejaré](https://open.spotify.com/track/74UeUWEOPMtVyhXNHitGi8) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [La Serenata](https://open.spotify.com/album/2ho3gFpYus23gzNoMql5mn) | 3:57 | 2025-02-12 |  |
 | [Dios Nunca Muere](https://open.spotify.com/track/3GX2IkCwAglVsnL7fgX3iK) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Dios Nunca Muere](https://open.spotify.com/album/4ADTs7kIW4dVdteX7sXYgy) | 3:08 | 2025-02-12 |  |
 | [El Amor De Mi Vida](https://open.spotify.com/track/1SIuzHNrctmvWo5geNIFyi) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [El Amor de Mi Vida](https://open.spotify.com/album/1FhXUMF28q1d6dJBl1Nj1S) | 3:06 | 2025-02-12 |  |
@@ -58,6 +58,7 @@
 | [Ya Ni Me Acuerdo](https://open.spotify.com/track/0TsMyNgWOyiOngOYBvRKj0) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [La Serenata](https://open.spotify.com/album/2ho3gFpYus23gzNoMql5mn) | 3:15 | 2025-02-12 |  |
 | [Ya No Vuelvas](https://open.spotify.com/track/5lqrDIEQy8YORSY8MoW37I) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Amor Como en las Películas de Antes](https://open.spotify.com/album/6llEx540bwa3fG9RI0boaW) | 2:54 | 2025-02-12 |  |
 | [Yo He Nacido Mexicana](https://open.spotify.com/track/1yejtctJKLV7weRjDLtwYx) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [La Serenata](https://open.spotify.com/album/2ho3gFpYus23gzNoMql5mn) | 2:40 | 2025-02-12 |  |
-| [¿Seguimos o No?](https://open.spotify.com/track/1NsjmaxOjSXMexCLix1WAI) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [¿Seguimos o No?](https://open.spotify.com/album/561lSkRFe7fRTVrR4afGcq) | 2:21 | 2025-02-12 |  |
+| [¿Seguimos o No?](https://open.spotify.com/track/1NsjmaxOjSXMexCLix1WAI) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [¿Seguimos o No?](https://open.spotify.com/album/561lSkRFe7fRTVrR4afGcq) | 2:21 | 2025-02-12 | 2025-05-30 |
+| [¿Seguimos o No?](https://open.spotify.com/track/3RLXWvyoDxHzHEpmh1zFP1) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [La Corona Es Mía](https://open.spotify.com/album/0DusDv4Kf4GPjtsUwyAA5B) | 2:21 | 2025-05-30 |  |
 
 \*This playlist was first scraped on 2025-02-12. Prior content cannot be recovered.

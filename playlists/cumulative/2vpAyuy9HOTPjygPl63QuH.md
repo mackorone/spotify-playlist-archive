@@ -4,7 +4,7 @@
 
 > The freshest house music \| Submit via Instagram: @subshiftmusic
 
-2,219 songs - 5 day 5 hr 25 min
+2,220 songs - 5 day 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2026,6 +2026,7 @@
 | [Turning It Up \- Wongo Remix](https://open.spotify.com/track/0oKNLTAFrsNh82iItXHV08) | [Go Freek](https://open.spotify.com/artist/2aRd7rRSUjtZ6WPG5GsBO6), [Dope Earth Alien](https://open.spotify.com/artist/2wajUFt1bQDrz8A73tQrkN), [Wongo](https://open.spotify.com/artist/7yx47vjNgvQXPtHis6Hi91) | [Turning It Up \(Wongo Remix\)](https://open.spotify.com/album/6JaT0TmOQWRzimbLBtZYiR) | 2:33 | 2023-09-01 | 2023-09-09 |
 | [Twennies \- Emily Nash Remix](https://open.spotify.com/track/2CCumBlHR0BBXJCF8rlUqu) | [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n), [Emily Nash](https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup) | [Twennies \(Emily Nash Remix\)](https://open.spotify.com/album/2SE1u9tDIvRobaKNIRgtkL) | 2:36 | 2023-01-13 | 2023-01-22 |
 | [twentyfourseven](https://open.spotify.com/track/4Ytcnz3nOLa0vn55okqUDE) | [FOOLiE](https://open.spotify.com/artist/5X3h4PwWZi0RkCyFd6gs0P) | [twentyfourseven](https://open.spotify.com/album/1LWwqJzlE55HL5a76Ts7YT) | 3:30 | 2023-04-07 | 2023-04-15 |
+| [Twisted](https://open.spotify.com/track/34QR6gBe0QbYg8gDnzuv7P) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Twisted](https://open.spotify.com/album/4364SmixuDHP9XAupp2Uv5) | 2:59 | 2025-05-29 |  |
 | [Two Caps](https://open.spotify.com/track/6xBU9ordUqC3tzhE3uKVKl) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [Two Caps](https://open.spotify.com/album/2omx5AxUw6N0G94rgD9fKA) | 3:03 | 2022-09-05 | 2022-09-10 |
 | [Two Timer](https://open.spotify.com/track/0xuvnY6PB5Fyw6ccWhguUU) | [SUBB](https://open.spotify.com/artist/0Yjc1aaTwDoJy2KP5xS20r), [NuKey](https://open.spotify.com/artist/2tmve58Sh3f0WZN76W30x3) | [Two Timer](https://open.spotify.com/album/4gFFu7N92kBC35yQIMqQwA) | 2:57 | 2022-06-17 | 2022-06-25 |
 | [TWOSTEP](https://open.spotify.com/track/1Gm9mRYaqU7VpJBsZsWbgQ) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [TWOSTEP](https://open.spotify.com/album/0OEb0RiJNNvmldvwXoCJWT) | 3:12 | 2025-04-25 | 2025-05-24 |

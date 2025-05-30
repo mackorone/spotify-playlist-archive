@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Luch\u00e8 in cover della playlist urban pi\u00f9 grande in Italia \ud83d\udd25",
+  "description": "Salmo in cover della playlist urban pi\u00f9 grande in Italia \ud83d\udd25",
   "name": "Plus Ultra",
   "tracks": [
     {
@@ -3758,7 +3758,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 183139,
       "name": "CHANEL (feat. Tony Boy)",
       "url": "https://open.spotify.com/track/6K9xyXHUgGc7V1pEkADynE"
@@ -3886,7 +3886,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 135692,
       "name": "Chill",
       "url": "https://open.spotify.com/track/74tpC8vZ6DJUILzGG9uvp4"
@@ -6271,6 +6271,28 @@
     },
     {
       "album": {
+        "name": "Fuorilegge (feat. Sayf)",
+        "url": "https://open.spotify.com/album/3B6NcRZgnqP8bnzcWBuNPR"
+      },
+      "artists": [
+        {
+          "name": "Disme",
+          "url": "https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p"
+        },
+        {
+          "name": "Sayf",
+          "url": "https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126371,
+      "name": "Fuorilegge (feat. Sayf)",
+      "url": "https://open.spotify.com/track/04BOFFqWdb2oxhYYJdCM11"
+    },
+    {
+      "album": {
         "name": "LA BELLAVITA",
         "url": "https://open.spotify.com/album/2NBjD7HfilmlALNet5aPFH"
       },
@@ -6382,7 +6404,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 120000,
       "name": "GAME OVER",
       "url": "https://open.spotify.com/track/1slby4wvXGz2xvJudzrqVJ"
@@ -7182,7 +7204,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 154838,
       "name": "HASTA LA MUERTE",
       "url": "https://open.spotify.com/track/7rb3Fo6N2NhbsBlCtNjYUk"
@@ -11555,6 +11577,32 @@
     },
     {
       "album": {
+        "name": "KG",
+        "url": "https://open.spotify.com/album/2BZoZOivm2Khc1jSTRaswS"
+      },
+      "artists": [
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "Rasty Kilo",
+          "url": "https://open.spotify.com/artist/0W7yEx7tCUH0FGMHB3DUL8"
+        },
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196679,
+      "name": "Non sei con me (feat. Tony Boy)",
+      "url": "https://open.spotify.com/track/0zlslXls25oFX5belXv6Gg"
+    },
+    {
+      "album": {
         "name": "Dove Volano Le Aquile Vol. 2",
         "url": "https://open.spotify.com/album/5533SD7HXknP7vKdshypG1"
       },
@@ -14322,6 +14370,32 @@
       "duration_ms": 193079,
       "name": "Ride or Die",
       "url": "https://open.spotify.com/track/1juCtQiq8Q87sNIq6O3m4C"
+    },
+    {
+      "album": {
+        "name": "KG",
+        "url": "https://open.spotify.com/album/2BZoZOivm2Khc1jSTRaswS"
+      },
+      "artists": [
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "Rasty Kilo",
+          "url": "https://open.spotify.com/artist/0W7yEx7tCUH0FGMHB3DUL8"
+        },
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218507,
+      "name": "Rimango free (feat. Tony Effe)",
+      "url": "https://open.spotify.com/track/6wLIy4qWNlG3RN3jhMDaky"
     },
     {
       "album": {
@@ -17766,6 +17840,36 @@
       "duration_ms": 156616,
       "name": "ye@h (feat. Shiva)",
       "url": "https://open.spotify.com/track/2BkoXEOE6vvkOKVNjPax2B"
+    },
+    {
+      "album": {
+        "name": "Zelensky (Red Bull 64 Bars)",
+        "url": "https://open.spotify.com/album/46ZAKcnXju1m9Gik2LOp7R"
+      },
+      "artists": [
+        {
+          "name": "Fabri Fibra",
+          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
+        },
+        {
+          "name": "Amadeus",
+          "url": "https://open.spotify.com/artist/4uk6XMocbVsxmas3nvRFfb"
+        },
+        {
+          "name": "Chef P",
+          "url": "https://open.spotify.com/artist/17OoMUl7RXgn7VyqYEfYWv"
+        },
+        {
+          "name": "James Logan",
+          "url": "https://open.spotify.com/artist/0Murtw7qBtLsRqzV6KHtI1"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289819,
+      "name": "Zelensky (Red Bull 64 Bars)",
+      "url": "https://open.spotify.com/track/1Mu5vugMIYlroUhsEBvUcr"
     },
     {
       "album": {

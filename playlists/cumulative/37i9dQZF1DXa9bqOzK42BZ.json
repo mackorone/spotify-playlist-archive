@@ -279,6 +279,32 @@
     },
     {
       "album": {
+        "name": "Mungu Ni Mmoja",
+        "url": "https://open.spotify.com/album/04njaHwnA3vn08lI2O4IGA"
+      },
+      "artists": [
+        {
+          "name": "BELLA KOMBO",
+          "url": "https://open.spotify.com/artist/4fCg09CBWzbspIIuw8wfVk"
+        },
+        {
+          "name": "JOSH CLEOPA",
+          "url": "https://open.spotify.com/artist/7nvpGpGRXcmzi40VoqVBfj"
+        },
+        {
+          "name": "Melanie Anthony",
+          "url": "https://open.spotify.com/artist/3QxA7gV0hPreXmj1zvLp7g"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402700,
+      "name": "Amina",
+      "url": "https://open.spotify.com/track/7bPosug1dWKjoN5EUbopsp"
+    },
+    {
+      "album": {
         "name": "Amua",
         "url": "https://open.spotify.com/album/3r8SRWMxBde6awir8fXmca"
       },
@@ -1399,6 +1425,24 @@
     },
     {
       "album": {
+        "name": "Let it Shine",
+        "url": "https://open.spotify.com/album/6y9Nl5cM5tfC9VyCWB2TK5"
+      },
+      "artists": [
+        {
+          "name": "Kenani",
+          "url": "https://open.spotify.com/artist/5k3oBkYy3nm3hHoUreIJ3O"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190235,
+      "name": "Let it Shine",
+      "url": "https://open.spotify.com/track/0hkU8PP3x9snLlXrBWujf8"
+    },
+    {
+      "album": {
         "name": "Love Is",
         "url": "https://open.spotify.com/album/3ctXeL6wDikVuT1TKdkydc"
       },
@@ -1914,7 +1958,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 418728,
       "name": "Mshukuru Mungu Tu",
       "url": "https://open.spotify.com/track/0gs4w9EFOQw2cJR36QPfN8"
@@ -2110,7 +2154,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 519223,
       "name": "Mwenye Uwezo - Live",
       "url": "https://open.spotify.com/track/4RcqL9xk4v0PbbuEaCJxVv"
@@ -2244,6 +2288,28 @@
       "duration_ms": 259018,
       "name": "Napepea",
       "url": "https://open.spotify.com/track/2ob9JjI40J4qMWFOHKiPiC"
+    },
+    {
+      "album": {
+        "name": "Napokea Kwako",
+        "url": "https://open.spotify.com/album/4P48WlZx62Ej8BaDnigPkJ"
+      },
+      "artists": [
+        {
+          "name": "Janet Otieno",
+          "url": "https://open.spotify.com/artist/1vfQ0EClwLJGtc4YsHlzPY"
+        },
+        {
+          "name": "Christina Shusho",
+          "url": "https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297978,
+      "name": "Napokea Kwako",
+      "url": "https://open.spotify.com/track/45o4BEAeuEj2569qB4M6jQ"
     },
     {
       "album": {
@@ -3644,7 +3710,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-27",
+      "date_removed": null,
       "duration_ms": 227351,
       "name": "Tabasamu",
       "url": "https://open.spotify.com/track/5WmaLicBL3JgFTacMphY4K"
@@ -3680,7 +3746,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 206200,
       "name": "TEMBEA",
       "url": "https://open.spotify.com/track/0JqowWHMog6xDZ9JnECyGg"
@@ -4274,7 +4340,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 201769,
       "name": "Wananiuliza (feat. Guardian Angel & Eko Dydda) [Remix]",
       "url": "https://open.spotify.com/track/0zZ7A2D0630Khn1XjK97Ei"

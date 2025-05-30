@@ -100,7 +100,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-12",
+      "date_removed": null,
       "duration_ms": 193626,
       "name": "5 TO 10",
       "url": "https://open.spotify.com/track/1zTGRPGqfZP0cfyTmoQP0V"
@@ -1244,6 +1244,28 @@
       "duration_ms": 199253,
       "name": "Ice Attack",
       "url": "https://open.spotify.com/track/70ToiXlzl8N1EgfC07ZcZE"
+    },
+    {
+      "album": {
+        "name": "HARDSTONE PSYCHO",
+        "url": "https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250200,
+      "name": "INSIDE (FEAT. TRAVIS SCOTT)",
+      "url": "https://open.spotify.com/track/24p1C9WueGBQLURpKc3oO8"
     },
     {
       "album": {

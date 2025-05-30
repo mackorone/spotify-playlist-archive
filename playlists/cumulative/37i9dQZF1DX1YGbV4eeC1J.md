@@ -2,9 +2,9 @@
 
 ### [Swahili Love ](https://open.spotify.com/playlist/37i9dQZF1DX1YGbV4eeC1J)
 
-> What is your love language? Say it in Swahili\.  Cover: Rayvanny, Marioo & Harmonize
+> What is your love language? Say it in Swahili\.  Cover: Otile Brown
 
-296 songs - 16 hr 41 min
+297 songs - 16 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Dear X](https://open.spotify.com/track/6mDZAjYfa5VG7hFoqF9mb2) | [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [Grace](https://open.spotify.com/album/5SkSitVZlbjhckkWzEyvzj) | 3:47 | 2024-02-22 | 2024-09-21 |
 | [Dharau](https://open.spotify.com/track/2UiH7lUXyxtccytHCixKQX) | [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Dharau](https://open.spotify.com/album/4fAfuvu9kF55EA8uqlhwcy) | 3:32 | 2024-02-22 | 2024-10-04 |
 | [Doli Doli](https://open.spotify.com/track/0n1T4qBjCeVjeNYFS7jjHy) | [Beka Flavour](https://open.spotify.com/artist/6jETz99dtLj1EgPF1C3xvU) | [Doli Doli](https://open.spotify.com/album/0RIHyHLfX9QqyAhOmbk81T) | 2:56 | 2023-09-21 | 2023-12-23 |
+| [Dont Love Me](https://open.spotify.com/track/71CY96EAelYWqxJqSPDd9p) | [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [Dont Love Me](https://open.spotify.com/album/7kGVsKtToOCvkkRnJ6vdn7) | 3:26 | 2025-05-30 |  |
 | [Dusuma](https://open.spotify.com/track/35riG35oLwfgvv8j5tSY9V) | [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj), [Meddy](https://open.spotify.com/artist/1WryFbMe3DuToQGFN6Ke64) | [Just In Love](https://open.spotify.com/album/61iIaWu85Ga1TtnIqIM4M1) | 3:33 | 2022-05-26 | 2024-01-26 |
 | [Enjoy](https://open.spotify.com/track/1qiHxdihSes6DA9hkAKFyg) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Enjoy](https://open.spotify.com/album/2r2GgPbTjjPB8OclFfiFGY) | 3:36 | 2024-03-14 | 2024-03-22 |
 | [Enjoy](https://open.spotify.com/track/3osydJRsRqgVFKYTC04QfT) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Enjoy](https://open.spotify.com/album/3uY2fylWZaffBO94cxXQ15) | 3:36 | 2024-03-14 | 2024-03-21 |
@@ -297,7 +298,7 @@
 | [WIVU](https://open.spotify.com/track/0wKkMsJb5vGjUMG1AHU4OM) | [Charisma](https://open.spotify.com/artist/34FqcraaOV85NJMLNb4JQu) | [THE MOTIONS](https://open.spotify.com/album/4fPOxjuC3kyV9c6TW4Ejjq) | 3:00 | 2024-08-08 | 2025-01-31 |
 | [Wote](https://open.spotify.com/track/560WaxcCey7Ss0t4ii0Bm4) | [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe) | [Love Season](https://open.spotify.com/album/3lmgIevac4UvNrj4K5I3hg) | 3:10 | 2025-02-06 |  |
 | [Yako Wapi](https://open.spotify.com/track/3EIGn3wZiw5PZw66eHwBuq) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md) | [Yako Wapi](https://open.spotify.com/album/6RCoSr3PynLjqURiK99QRK) | 3:35 | 2025-01-23 |  |
-| [Yes I Do](https://open.spotify.com/track/4EWsq94xq3M1I4rXZMdEni) | [Barakah The Prince](https://open.spotify.com/artist/2Lrp6RL4vdo88oCzuutNfL), [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [Yes I Do](https://open.spotify.com/album/1I47crfo4NzhbAxlO4Vfng) | 3:39 | 2024-10-17 |  |
+| [Yes I Do](https://open.spotify.com/track/4EWsq94xq3M1I4rXZMdEni) | [Barakah The Prince](https://open.spotify.com/artist/2Lrp6RL4vdo88oCzuutNfL), [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [Yes I Do](https://open.spotify.com/album/1I47crfo4NzhbAxlO4Vfng) | 3:39 | 2024-10-17 | 2025-05-30 |
 | [Yeye](https://open.spotify.com/track/54DJmNdE1KwaFNIjxSohY2) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Yeye](https://open.spotify.com/album/6q8mOZ3fOVmPyrlQZ4kLTM) | 2:57 | 2025-04-24 |  |
 | [You \(feat\. Yammi\)](https://open.spotify.com/track/4XTcVh6TLERIw3BcA4sX2D) | [AbduKiba](https://open.spotify.com/artist/61UXsInLB2mt0OynwmL75T), [Yammi](https://open.spotify.com/artist/6yV5HfoLnS2Yn7qKtS2fIK) | [You \(feat\. Yammi\)](https://open.spotify.com/album/6yWJogn1gsms4cAXPE6b7x) | 3:30 | 2024-03-14 | 2024-03-22 |
 | [You Better Go](https://open.spotify.com/track/0kZoAZDJMIz1nObifhVNWC) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [You Better Go](https://open.spotify.com/album/6uVWT5KW2uov5KNYHpM4Mj) | 3:19 | 2024-08-29 | 2025-04-25 |

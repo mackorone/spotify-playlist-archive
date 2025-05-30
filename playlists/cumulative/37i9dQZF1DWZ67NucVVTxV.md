@@ -4,7 +4,7 @@
 
 > Money on my Mind\. Mind on my money.
 
-709 songs - 1 day 9 hr 56 min
+710 songs - 1 day 9 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,7 +265,7 @@
 | [God Abeg](https://open.spotify.com/track/7pRKdVbFEZU3LkzLY1hi3g) | [Ceeza Milli](https://open.spotify.com/artist/11b21KVATwG7LgLPiD3a1A) | [God Abeg](https://open.spotify.com/album/0ukv2lTBdUDNuiRHgTV3Rk) | 3:24 | 2022-09-01 | 2022-10-14 |
 | [God Abeg \(feat\. Kwesi Arthur, Joey B & Kay T\)](https://open.spotify.com/track/5WZXhQL346sTAQ4WKPUJpJ) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Kay T](https://open.spotify.com/artist/65KHsymx2SxbuY1uaFZ2Rr) | [God Abeg \(feat\. Kwesi Arthur, Joey B & Kay T\)](https://open.spotify.com/album/30tV92VWx0ImjvBDCNiJJf) | 6:40 | 2023-04-27 | 2023-05-05 |
 | [God Sent](https://open.spotify.com/track/6psnitGkd9VJdeTtpXeDRA) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50) | [Another Style](https://open.spotify.com/album/0z3KhLC6yItBrFzYvHOe8y) | 2:48 | 2024-06-14 | 2024-09-28 |
-| [Gone Are The Days](https://open.spotify.com/track/7Gm2hdadKnst6nlpJu14WZ) | [Oba Lurge](https://open.spotify.com/artist/69lTRgtPFwn6PHOmftIvkT), [Duncan Mighty](https://open.spotify.com/artist/5N47dnIfPuGH8kIHpf8gZK) | [Gone Are The Days](https://open.spotify.com/album/20XCeNJLiYQPqbLpeqEFnZ) | 3:25 | 2025-05-16 |  |
+| [Gone Are The Days](https://open.spotify.com/track/7Gm2hdadKnst6nlpJu14WZ) | [Oba Lurge](https://open.spotify.com/artist/69lTRgtPFwn6PHOmftIvkT), [Duncan Mighty](https://open.spotify.com/artist/5N47dnIfPuGH8kIHpf8gZK) | [Gone Are The Days](https://open.spotify.com/album/20XCeNJLiYQPqbLpeqEFnZ) | 3:25 | 2025-05-16 | 2025-05-30 |
 | [Gone Far](https://open.spotify.com/track/50FX5UhHPAZQCL0rm0cZm6) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Gone Far](https://open.spotify.com/album/18Q01D7GFl85NruCnXalNO) | 2:28 | 2021-10-08 | 2023-12-22 |
 | [Governor](https://open.spotify.com/track/5u3K16NYnDR8llAqKIcdYF) | [M3dal](https://open.spotify.com/artist/2djlkuPiXmdN2kTGSuX9Qq), [GIDI](https://open.spotify.com/artist/4jpyLwY88iZc65WHKxderI), [Brenya](https://open.spotify.com/artist/2MTCgcnZ7XfN5Xbkzeuswe), [Yung6ix](https://open.spotify.com/artist/1q2U0RJo12z8YmBfb1RwOt) | [Happily Ever After](https://open.spotify.com/album/1CyOpQIKz9ScoXOgEQUQaf) | 3:36 | 2022-10-30 | 2022-11-19 |
 | [Grateful](https://open.spotify.com/track/2K4PHy2VYIWTkyguN0PD79) | [Lil Shappi](https://open.spotify.com/artist/4ZVOYa2eJ1DLxQ1koWTJOo), [Billirano](https://open.spotify.com/artist/6Sb1ugPkZ8pwimM3wb378v), [Little Zino](https://open.spotify.com/artist/6x4OqqMFgdAPsQ9wgPHpYw) | [Grateful](https://open.spotify.com/album/2DU3vg4vlOUbC9lV2pxgud) | 2:47 | 2022-11-18 | 2023-01-28 |
@@ -588,6 +588,7 @@
 | [See Me See God \(SMSG\)](https://open.spotify.com/track/1xFkc8KXwVk1FoG5xhcU3H) | [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [Barrystar Vol\. 1](https://open.spotify.com/album/4HutXkeh0hWTIw2rEFhJIA) | 3:12 | 2025-04-11 |  |
 | [SENSATION](https://open.spotify.com/track/1apopV3Q5tF8ZqgpmLQc3C) | [Alex Wondergem](https://open.spotify.com/artist/6wm4BrjCLxEoUP58NoY6zz) | [LIBER8TED](https://open.spotify.com/album/5F7iyUJR7HdbWS3FqNwiAg) | 3:16 | 2023-03-10 | 2023-03-18 |
 | [Shalaye](https://open.spotify.com/track/4CQ4Os8gfJXjs8P32rOHlu) | [Dangbana Republik](https://open.spotify.com/artist/5ezmlxcj3HQvg2XZamXlZK), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Shalaye](https://open.spotify.com/album/6PwpnAAsu5jL3io4dnshFR) | 2:25 | 2024-11-15 | 2025-01-22 |
+| [Shalaye](https://open.spotify.com/track/5RytGOyrh48tH9MvLkChpx) | [Raybekah](https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW) | [Shalaye](https://open.spotify.com/album/7zQONjJIsWdF03ZgnaMbKP) | 2:44 | 2025-05-30 |  |
 | [Shayo](https://open.spotify.com/track/48yyEzWXIbAhU3H2iC9iDa) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Shayo](https://open.spotify.com/album/606tG62I0ClaZAuuHdM5rz) | 3:17 | 2023-09-14 | 2023-09-22 |
 | [Shine](https://open.spotify.com/track/7gWFSP72DdxHAPyXerIHln) | [LAYCON](https://open.spotify.com/artist/3ge7WahzUrMDAIdlIcchQP) | [Shine / LOL](https://open.spotify.com/album/1c5eNOPt7Lbn8blLBcJVhv) | 2:38 | 2023-04-27 | 2023-05-05 |
 | [Show Dem](https://open.spotify.com/track/0rfQ48q9Krb373B8yzsFF4) | [Dopsy Flow](https://open.spotify.com/artist/3kdXVl3uUenZ0ctMpULhg8), [SBG](https://open.spotify.com/artist/0YX4c3CwqB6lvz031ThpG6), [Fisherman](https://open.spotify.com/artist/5pWkg4HchnEmpzTxk4ygnh) | [Show Dem](https://open.spotify.com/album/2UcamQzPAUNFKXHTvseo1P) | 2:54 | 2023-04-20 | 2023-04-28 |

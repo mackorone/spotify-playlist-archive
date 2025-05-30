@@ -1,6 +1,6 @@
 {
   "description": "Folksy takes on your favorite tracks. Cover: Timoth\u00e9e Chalamet in A Complete Unknown",
-  "num_followers": 463806,
+  "num_followers": 463732,
   "original_name": "Folksy Covers",
   "owner": {
     "name": "Spotify",
@@ -779,22 +779,6 @@
     {
       "added_at": "2025-05-02 17:28:32",
       "album": {
-        "name": "Come Give Me Love",
-        "url": "https://open.spotify.com/album/4Q2SIzTIZXzWykvl3DGVPK"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 239643,
-      "name": "Come Give Me Love",
-      "url": "https://open.spotify.com/track/6lG3q4b7eoeplybJUqXP96"
-    },
-    {
-      "added_at": "2025-05-02 17:28:32",
-      "album": {
         "name": "Unknown Legend",
         "url": "https://open.spotify.com/album/6s1d1rRBynFB21kGCXvEZH"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 248360,
       "name": "Unknown Legend",
       "url": "https://open.spotify.com/track/4Tk20ApEMHXzS1j2r6Glgr"
+    },
+    {
+      "added_at": "2025-05-02 17:28:32",
+      "album": {
+        "name": "Come Give Me Love",
+        "url": "https://open.spotify.com/album/4Q2SIzTIZXzWykvl3DGVPK"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 239643,
+      "name": "Come Give Me Love",
+      "url": "https://open.spotify.com/track/6lG3q4b7eoeplybJUqXP96"
     },
     {
       "added_at": "2025-05-02 17:28:32",
@@ -863,22 +863,6 @@
     {
       "added_at": "2025-05-02 17:28:32",
       "album": {
-        "name": "Live From BBC Radio 2",
-        "url": "https://open.spotify.com/album/70nPdV7ZMFzddatb5WjgrE"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 218760,
-      "name": "Perfect Places - Live From BBC Radio 2",
-      "url": "https://open.spotify.com/track/2hUyNUvpSlNBmYKCUNCLu5"
-    },
-    {
-      "added_at": "2025-05-02 17:28:32",
-      "album": {
         "name": "Listen To The Radio",
         "url": "https://open.spotify.com/album/6RdQfXUPxhbauUanaotuJg"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 240386,
       "name": "Listen To The Radio",
       "url": "https://open.spotify.com/track/6n9PvbAoQtDe3AEMbS8v70"
+    },
+    {
+      "added_at": "2025-05-02 17:28:32",
+      "album": {
+        "name": "Live From BBC Radio 2",
+        "url": "https://open.spotify.com/album/70nPdV7ZMFzddatb5WjgrE"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 218760,
+      "name": "Perfect Places - Live From BBC Radio 2",
+      "url": "https://open.spotify.com/track/2hUyNUvpSlNBmYKCUNCLu5"
     },
     {
       "added_at": "2025-05-02 17:28:32",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2025-05-02 17:28:32",
       "album": {
-        "name": "If You Could Read My Mind",
-        "url": "https://open.spotify.com/album/4xiAPrGgnwcfTJtdOwxKf4"
-      },
-      "artists": [
-        {
-          "name": "Henry Jamison",
-          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
-        }
-      ],
-      "duration_ms": 197540,
-      "name": "If You Could Read My Mind",
-      "url": "https://open.spotify.com/track/1AcMGe32z1DoV61PPCFTFn"
-    },
-    {
-      "added_at": "2025-05-02 17:28:32",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4OUg8wmqAxUfSN05i4um9Y"
       },
@@ -1203,18 +1187,18 @@
     {
       "added_at": "2025-05-02 17:28:32",
       "album": {
-        "name": "Black Star",
-        "url": "https://open.spotify.com/album/7hAXiMrqFN4LbEWD3hNE3Z"
+        "name": "If You Could Read My Mind",
+        "url": "https://open.spotify.com/album/4xiAPrGgnwcfTJtdOwxKf4"
       },
       "artists": [
         {
-          "name": "Gillian Welch",
-          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
         }
       ],
-      "duration_ms": 318853,
-      "name": "Black Star",
-      "url": "https://open.spotify.com/track/2SSBZMg2XdTC7vXBi0Ewkp"
+      "duration_ms": 197540,
+      "name": "If You Could Read My Mind",
+      "url": "https://open.spotify.com/track/1AcMGe32z1DoV61PPCFTFn"
     },
     {
       "added_at": "2025-05-02 17:28:32",
@@ -1235,18 +1219,18 @@
     {
       "added_at": "2025-05-02 17:28:32",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0uneTqrqMeF49ETtLvVOcl"
+        "name": "Black Star",
+        "url": "https://open.spotify.com/album/7hAXiMrqFN4LbEWD3hNE3Z"
       },
       "artists": [
         {
-          "name": "GROUPLOVE",
-          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+          "name": "Gillian Welch",
+          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
         }
       ],
-      "duration_ms": 201851,
-      "name": "One More Cup of Coffee - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1XLJxAcTdnMIeQpsvdfkSv"
+      "duration_ms": 318853,
+      "name": "Black Star",
+      "url": "https://open.spotify.com/track/2SSBZMg2XdTC7vXBi0Ewkp"
     },
     {
       "added_at": "2025-05-02 17:28:32",
@@ -1275,6 +1259,22 @@
     {
       "added_at": "2025-05-02 17:28:32",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0uneTqrqMeF49ETtLvVOcl"
+      },
+      "artists": [
+        {
+          "name": "GROUPLOVE",
+          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+        }
+      ],
+      "duration_ms": 201851,
+      "name": "One More Cup of Coffee - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1XLJxAcTdnMIeQpsvdfkSv"
+    },
+    {
+      "added_at": "2025-05-02 17:28:32",
+      "album": {
         "name": "Other People's Songs",
         "url": "https://open.spotify.com/album/5287cTjfvK8SVYe6cXsEUD"
       },
@@ -1287,6 +1287,22 @@
       "duration_ms": 288764,
       "name": "Don\u2019t It Feel Good",
       "url": "https://open.spotify.com/track/54MnItgRx6drIxYDu9Sb1d"
+    },
+    {
+      "added_at": "2025-05-02 17:28:32",
+      "album": {
+        "name": "Mr. Brightside",
+        "url": "https://open.spotify.com/album/4E6AdW52gcw1Lj7P77b3pY"
+      },
+      "artists": [
+        {
+          "name": "Sydney Rose",
+          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
+        }
+      ],
+      "duration_ms": 267602,
+      "name": "Mr. Brightside",
+      "url": "https://open.spotify.com/track/1InkpT1DTMlYcCEV2HU0L1"
     },
     {
       "added_at": "2025-05-02 17:28:32",
@@ -1307,22 +1323,6 @@
       "duration_ms": 212308,
       "name": "Jackson",
       "url": "https://open.spotify.com/track/3Vk2sEPrkjZeQWLTAhi6JM"
-    },
-    {
-      "added_at": "2025-05-02 17:28:32",
-      "album": {
-        "name": "Mr. Brightside",
-        "url": "https://open.spotify.com/album/4E6AdW52gcw1Lj7P77b3pY"
-      },
-      "artists": [
-        {
-          "name": "Sydney Rose",
-          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
-        }
-      ],
-      "duration_ms": 267602,
-      "name": "Mr. Brightside",
-      "url": "https://open.spotify.com/track/1InkpT1DTMlYcCEV2HU0L1"
     },
     {
       "added_at": "2025-05-02 17:28:32",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2025-05-02 17:28:32",
       "album": {
-        "name": "Green Rocky Road",
-        "url": "https://open.spotify.com/album/3Mk2rCfx4ywDJ5sg5C0jk8"
-      },
-      "artists": [
-        {
-          "name": "Bria Salmena",
-          "url": "https://open.spotify.com/artist/5OlCrYhc9fZxibnKwahGr8"
-        }
-      ],
-      "duration_ms": 201985,
-      "name": "Green Rocky Road",
-      "url": "https://open.spotify.com/track/62VuzDNl5RZIlhzs0XDQzY"
-    },
-    {
-      "added_at": "2025-05-02 17:28:32",
-      "album": {
         "name": "So Low",
         "url": "https://open.spotify.com/album/2NBpiTeWOyrP088gUj6J2y"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 289186,
       "name": "Love At The Five & Dime",
       "url": "https://open.spotify.com/track/1XwqNMe7dcylnzQD4w8Ctk"
+    },
+    {
+      "added_at": "2025-05-02 17:28:32",
+      "album": {
+        "name": "Green Rocky Road",
+        "url": "https://open.spotify.com/album/3Mk2rCfx4ywDJ5sg5C0jk8"
+      },
+      "artists": [
+        {
+          "name": "Bria Salmena",
+          "url": "https://open.spotify.com/artist/5OlCrYhc9fZxibnKwahGr8"
+        }
+      ],
+      "duration_ms": 201985,
+      "name": "Green Rocky Road",
+      "url": "https://open.spotify.com/track/62VuzDNl5RZIlhzs0XDQzY"
     },
     {
       "added_at": "2025-05-02 17:28:32",
@@ -1731,6 +1731,22 @@
     {
       "added_at": "2025-05-02 17:28:32",
       "album": {
+        "name": "Sings Kacey Musgraves",
+        "url": "https://open.spotify.com/album/5V2Gr572p76K873Hm20xFl"
+      },
+      "artists": [
+        {
+          "name": "Mountain Man",
+          "url": "https://open.spotify.com/artist/5kmPNusdo1mCTyz4u1uEGm"
+        }
+      ],
+      "duration_ms": 217524,
+      "name": "Slow Burn",
+      "url": "https://open.spotify.com/track/7wxpR27OE3OlkTWVjTlLIR"
+    },
+    {
+      "added_at": "2025-05-02 17:28:32",
+      "album": {
         "name": "Black Eyed Dog",
         "url": "https://open.spotify.com/album/3YKqcMhqAYrG90RKveNVkj"
       },
@@ -1751,18 +1767,18 @@
     {
       "added_at": "2025-05-02 17:28:32",
       "album": {
-        "name": "Sings Kacey Musgraves",
-        "url": "https://open.spotify.com/album/5V2Gr572p76K873Hm20xFl"
+        "name": "To Ramona",
+        "url": "https://open.spotify.com/album/0JNGjWHIOEzGbjmakQvzBU"
       },
       "artists": [
         {
-          "name": "Mountain Man",
-          "url": "https://open.spotify.com/artist/5kmPNusdo1mCTyz4u1uEGm"
+          "name": "Courtney Marie Andrews",
+          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
         }
       ],
-      "duration_ms": 217524,
-      "name": "Slow Burn",
-      "url": "https://open.spotify.com/track/7wxpR27OE3OlkTWVjTlLIR"
+      "duration_ms": 217586,
+      "name": "To Ramona",
+      "url": "https://open.spotify.com/track/5YL8nR0e3zF5fFqvBmSKDI"
     },
     {
       "added_at": "2025-05-02 17:28:32",
@@ -1815,22 +1831,6 @@
       "duration_ms": 275880,
       "name": "everything i wanted",
       "url": "https://open.spotify.com/track/0Uc5kxNJyLYWldaSbZD8EX"
-    },
-    {
-      "added_at": "2025-05-02 17:28:32",
-      "album": {
-        "name": "To Ramona",
-        "url": "https://open.spotify.com/album/0JNGjWHIOEzGbjmakQvzBU"
-      },
-      "artists": [
-        {
-          "name": "Courtney Marie Andrews",
-          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
-        }
-      ],
-      "duration_ms": 217586,
-      "name": "To Ramona",
-      "url": "https://open.spotify.com/track/5YL8nR0e3zF5fFqvBmSKDI"
     },
     {
       "added_at": "2025-05-02 17:28:32",
@@ -1939,22 +1939,6 @@
     {
       "added_at": "2025-05-02 17:28:32",
       "album": {
-        "name": "Woodstock / Green Altar",
-        "url": "https://open.spotify.com/album/42kdrZO7qdmQKvoBXXzWwL"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Wolfe",
-          "url": "https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10"
-        }
-      ],
-      "duration_ms": 273489,
-      "name": "Woodstock",
-      "url": "https://open.spotify.com/track/0V6RQwkV91uZgXE86wq5fw"
-    },
-    {
-      "added_at": "2025-05-02 17:28:32",
-      "album": {
         "name": "Driver 8",
         "url": "https://open.spotify.com/album/7EhB4Mx0sYNBPe68ZSptKu"
       },
@@ -1971,6 +1955,22 @@
       "duration_ms": 215449,
       "name": "Driver 8",
       "url": "https://open.spotify.com/track/3Etjw7DBhlX24sntsKNnBW"
+    },
+    {
+      "added_at": "2025-05-02 17:28:32",
+      "album": {
+        "name": "Woodstock / Green Altar",
+        "url": "https://open.spotify.com/album/42kdrZO7qdmQKvoBXXzWwL"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Wolfe",
+          "url": "https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10"
+        }
+      ],
+      "duration_ms": 273489,
+      "name": "Woodstock",
+      "url": "https://open.spotify.com/track/0V6RQwkV91uZgXE86wq5fw"
     }
   ],
   "unique_name": "Folksy Covers",

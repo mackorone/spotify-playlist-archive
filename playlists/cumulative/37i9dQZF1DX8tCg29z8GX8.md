@@ -4,7 +4,7 @@
 
 > mate\- Bus stop!
 
-643 songs - 1 day 9 hr 35 min
+644 songs - 1 day 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,7 @@
 | [Earth Song](https://open.spotify.com/track/3jpNez5xEOn21zVcZwOXIy) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4) | [Earth Song](https://open.spotify.com/album/66g3VnctJ29DzhC0Rkh9FP) | 3:03 | 2023-02-11 | 2023-02-17 |
 | [Echoes \(feat\. Tony Duardo, Manana & Lusanda\)](https://open.spotify.com/track/7msMFkuYQdBaJhiav2UrM1) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z), [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ), [Lusanda](https://open.spotify.com/artist/3WcXJ1FwSFJU88zc7vV9rz) | [Echoes \(feat\. Tony Duardo, Manana & Lusanda\)](https://open.spotify.com/album/6GPfETz7e4MYd3kU4CtLIK) | 4:05 | 2023-08-11 | 2023-09-17 |
 | [Effiakuma Broken Heart](https://open.spotify.com/track/3ebcYH7mX3q6muQUBiWhNT) | [Kofi Kinaata](https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm) | [Effiakuma Broken Heart](https://open.spotify.com/album/4lpN5pNVf6HDWpIrBFd3aC) | 3:09 | 2024-04-19 | 2024-05-03 |
-| [EKELEBE \(feat\. ODUMODUBLVCK\)](https://open.spotify.com/track/0hhOltFiPTK40diKYu2mU2) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [EKELEBE \(feat\. ODUMODUBLVCK\)](https://open.spotify.com/album/19N0mCaeYf3EhJcRGlRGYw) | 3:42 | 2024-04-12 |  |
+| [EKELEBE \(feat\. ODUMODUBLVCK\)](https://open.spotify.com/track/0hhOltFiPTK40diKYu2mU2) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [EKELEBE \(feat\. ODUMODUBLVCK\)](https://open.spotify.com/album/19N0mCaeYf3EhJcRGlRGYw) | 3:42 | 2024-04-12 | 2025-05-30 |
 | [Electricity](https://open.spotify.com/track/4hqCqVze2sJqskEQmK2Mb7) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Electricity](https://open.spotify.com/album/2EqVdnQMtVOAIyLVPH1q9Y) | 2:12 | 2024-09-27 |  |
 | [Electricity](https://open.spotify.com/track/6McBvfxgkVfREmQPwTKBUn) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Electricity](https://open.spotify.com/album/5vOpDVowekdCylaDIiV5We) | 2:12 | 2022-08-18 | 2024-04-19 |
 | [Elon Musk \- Remix](https://open.spotify.com/track/68KDqjQ5T2gS0Pk47Somna) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Elon Musk \(Remix\)](https://open.spotify.com/album/2ZSLKoKXOUxbCjX7QjWJkV) | 3:24 | 2023-06-30 | 2023-09-28 |
@@ -524,6 +524,7 @@
 | [Sika](https://open.spotify.com/track/39tkLEnvhdTLJ8pNEa5q52) | [Ayisi](https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU), [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Sika](https://open.spotify.com/album/6zSbBDmwWajDb3VFjqthNi) | 2:55 | 2024-09-06 | 2024-09-28 |
 | [SIMMER DOWN](https://open.spotify.com/track/58PIq4XvTG4bR3IJbE6yX5) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Take Care of Yourself Blacko](https://open.spotify.com/album/1rUsK77wSF6p2cw1FnCTZg) | 2:58 | 2023-08-10 | 2023-09-29 |
 | [Single](https://open.spotify.com/track/6N45YY6tHC0DNeAdXS43fe) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Single](https://open.spotify.com/album/1yszAI0O53HKBjyrR8l2fi) | 2:47 | 2023-01-20 | 2023-10-20 |
+| [Single](https://open.spotify.com/track/6VWLwERP7wzI8brmoaOkAj) | [Mophty](https://open.spotify.com/artist/6ce6iwbNe3sa0gqONeiI8Q), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Single](https://open.spotify.com/album/02KoJJhtOhP6tguHW7LHrH) | 2:19 | 2025-05-30 |  |
 | [Slay Queen](https://open.spotify.com/track/58hvxoqFo5vDqR5NmvORsh) | [Sista Afia](https://open.spotify.com/artist/62sda22OXnPueH8d35gZKf) | [Slay Queen](https://open.spotify.com/album/5K2X26PtyTCUZmmfzIaZI2) | 3:34 | 2024-03-29 | 2024-05-17 |
 | [Slow](https://open.spotify.com/track/5e5Be8E42zERy5Y3k65wyo) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Slow](https://open.spotify.com/album/0GNeksC7xMQxGc9z4Y6rpL) | 2:50 | 2022-10-13 | 2023-03-04 |
 | [Slow](https://open.spotify.com/track/6fZmsZJAnLXJW7p9KO9hNI) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Slow](https://open.spotify.com/album/16OczVqcp5NswQ7nawPX8h) | 2:50 | 2022-10-13 | 2022-12-25 |

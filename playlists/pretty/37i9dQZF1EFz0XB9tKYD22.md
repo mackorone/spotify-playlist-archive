@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Co1jvHSQ9FFXOEY0TdPHQ">Hillary Lindsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 491 likes - 326 songs - 19 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 491 likes - 325 songs - 19 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,8 +159,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 149 | [Do It Like This \(Bonus Track\)](https://open.spotify.com/track/33LpnkcKKvgIAxEgYEYbbS) | [Johnny T](https://open.spotify.com/artist/7m0hBssYWrmf3CFVwY1xjg) | [That's What's Up](https://open.spotify.com/album/2Xk6cTdL78FvtXoXt5wQQs) | 3:11 |
 | 150 | [Mansion](https://open.spotify.com/track/4anMp1snWhpCRzxWObDzRZ) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Ocean](https://open.spotify.com/album/2Ni5tXmyXPTG4jeQxvSqjv) | 3:12 |
 | 151 | [Backseat of a Greyhound Bus](https://open.spotify.com/track/6ukJN2JCXpYkdL0W63YNf7) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Restless](https://open.spotify.com/album/1hkmdmciMUjVLInxxEhHCY) | 5:33 |
-| 152 | [Good Fight](https://open.spotify.com/track/0zWEXxAbRfBFkHe0aY1ny2) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [The Balladeer](https://open.spotify.com/album/34xmomKNR5tpBWAseLhmgX) | 3:18 |
-| 153 | [Too Soon For Goodbye](https://open.spotify.com/track/6qRsqsnh3HrkUq0SLWvdie) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88) | [Too Soon For Goodbye](https://open.spotify.com/album/2ulEJ1F3LiQZlQ6mQFmdwv) | 3:35 |
+| 152 | [Too Soon For Goodbye](https://open.spotify.com/track/6qRsqsnh3HrkUq0SLWvdie) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88) | [Too Soon For Goodbye](https://open.spotify.com/album/2ulEJ1F3LiQZlQ6mQFmdwv) | 3:35 |
+| 153 | [Good Fight](https://open.spotify.com/track/0zWEXxAbRfBFkHe0aY1ny2) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [The Balladeer](https://open.spotify.com/album/34xmomKNR5tpBWAseLhmgX) | 3:18 |
 | 154 | [You're My Texas](https://open.spotify.com/track/4RbS3BlzjK9JMqF6VyaAB5) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Chapter & Verse](https://open.spotify.com/album/4pfspuo0DUzho0hGtZHI9r) | 3:19 |
 | 155 | [Heavyweight](https://open.spotify.com/track/4VjFgo853p4of6maSkmjfB) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Heavyweight](https://open.spotify.com/album/1llat1Rc2C5UKq6G6bSU51) | 3:37 |
 | 156 | [Keep On Movin' On](https://open.spotify.com/track/3NGqAMhYpoqF1tg0Bm8Ozm) | [Maddie Poppe](https://open.spotify.com/artist/2Wda8QEZK7twazWzqDvOdk) | [Keep On Movin' On](https://open.spotify.com/album/3IhRVPjXGfaJfmjSLVmfDN) | 2:38 |
@@ -270,8 +270,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 260 | [Still Got You on My Mind](https://open.spotify.com/track/1lRj0JwuDAZEpjFA5Gq4ei) | [Alaura Lynne](https://open.spotify.com/artist/3IxcwR6roop7eFUSCygNTA) | [Still Got You on My Mind](https://open.spotify.com/album/6IfYpWXAw22WCC1AhNjwHv) | 3:21 |
 | 261 | [Straight To The Bone](https://open.spotify.com/track/74tSY8ywhMkqzW0ivzLk3K) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Hits And More](https://open.spotify.com/album/6qP0ktcSi5AOcDIAMwCxXu) | 4:17 |
 | 262 | [Lightning Bolt](https://open.spotify.com/track/2lMMXWvv5y1yJ6rxzF7H1I) | [Jess Moskaluke](https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et) | [Kiss Me Quiet](https://open.spotify.com/album/2kRBGSqEp0dFDvHvsgF2HJ) | 3:39 |
-| 263 | [younger woman.](https://open.spotify.com/track/03VJe5qSJ9IdUVA97dQzVk) | [Nicolle Galyon](https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn) | [firstborn](https://open.spotify.com/album/0ELKDJn9moMEzskSNVqeCe) | 2:41 |
-| 264 | [If You Were A Country Girl](https://open.spotify.com/track/0z7CPCDePaauQh9g1k5VZl) | [Demps](https://open.spotify.com/artist/5Gx523vSXLobJkopSyany4) | [If You Were A Country Girl](https://open.spotify.com/album/7dGxG3XxGN6AOm6nz2oUi0) | 2:37 |
+| 263 | [If You Were A Country Girl](https://open.spotify.com/track/0z7CPCDePaauQh9g1k5VZl) | [Demps](https://open.spotify.com/artist/5Gx523vSXLobJkopSyany4) | [If You Were A Country Girl](https://open.spotify.com/album/7dGxG3XxGN6AOm6nz2oUi0) | 2:37 |
+| 264 | [younger woman.](https://open.spotify.com/track/03VJe5qSJ9IdUVA97dQzVk) | [Nicolle Galyon](https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn) | [firstborn](https://open.spotify.com/album/0ELKDJn9moMEzskSNVqeCe) | 2:41 |
 | 265 | [I Need A Drink](https://open.spotify.com/track/5IEovkT4oqFuDIkxIuhAvb) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Slide](https://open.spotify.com/album/1XQ65rtdxl5eag0BwvJnvZ) | 3:10 |
 | 266 | [Gimme The Good Stuff](https://open.spotify.com/track/1tnnl03ALxjMkt0VO186j2) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Jasper County](https://open.spotify.com/album/6KWsBlO7JuCY50F4StuSng) | 3:33 |
 | 267 | [I Wish For You](https://open.spotify.com/track/6k1LVrrwSjAPltRKOskESt) | [Jessica Andrews](https://open.spotify.com/artist/5rNhVm2CnqiO5Lv4Dt2lck) | [Now](https://open.spotify.com/album/7DRYIaKhFc7sHNNIS0Erme) | 4:07 |
@@ -328,11 +328,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 318 | [Queen of Hearts](https://open.spotify.com/track/1h7MHoxIW1Md110MR6j1Iy) | [Rose Hips](https://open.spotify.com/artist/2L100CUtatmSVrJ9Vcj4eM) | [Witch Doctor](https://open.spotify.com/album/5246tB6NI5zSqor9lE1vo5) | 5:03 |
 | 319 | [Everything \(Karaoke Version With Lead Vocal\) \[Originally Performed By Jessica Andrews\]](https://open.spotify.com/track/7jLsz9fup5JHANKCaw3XLd) | [Country Karaoke Cow Boys](https://open.spotify.com/artist/1T9rOYmodcUr7fU94l3EB1) | [Everything](https://open.spotify.com/album/21tLYuZvwdw1OynFGigcDf) | 4:08 |
 | 320 | [This Time Of Year](https://open.spotify.com/track/5I4vX0BnOj8Hkb2pyln7s3) | [Melanie Morgan](https://open.spotify.com/artist/5SW32PeH4qJv83WrsbKaXL) | [Goodbye Birmingham](https://open.spotify.com/album/43WOGGhIFomvkV9tunjaA6) | 5:14 |
-| 321 | [Burn](https://open.spotify.com/track/235ocf9mxXmf8kCxRfFc7I) | [Janajana](https://open.spotify.com/artist/1PMgco8DXnVuk4Lr1cw1rR) | [Typical Girl](https://open.spotify.com/album/6zjIhOAyWgjOCHXwTVpzWo) | 3:29 |
-| 322 | [You Ain't Know](https://open.spotify.com/track/270EaQRmJklbHSrcPKQbGt) | [Millz Tha Difference](https://open.spotify.com/artist/3rI5ILtC3NxAtuRDzJ292X) | [You Ain't Know](https://open.spotify.com/album/4ivpwP0SYc2dvvRgduvLjg) | 3:34 |
-| 323 | [Summer Girl \(Karaoke Version\) \- Originally Performed By Jessica Andrews](https://open.spotify.com/track/2BnTOkStvLMRucaCxvukZb) | [Pro Choice Karaoke](https://open.spotify.com/artist/39SxEZ3tqMcObAi3T9QJzB) | [Karaoke Quick Tracks \- Sing the Hits of Jessica Andrews \(Karaoke Version\) \(Originally Performed By Jessica Andrews\)](https://open.spotify.com/album/4xlhT7jOQJT71ZcJXVtT4O) | 3:15 |
-| 324 | [Make It Out](https://open.spotify.com/track/7lQnAxzNfWpHpL1VsA3gzy) | [Zaya Tha Flysta](https://open.spotify.com/artist/1CtP580MCBT8LGke5Riu35), [Mackie Fresh](https://open.spotify.com/artist/3ARzxhq2yh9R0eVClho12c) | [Welcome To The Underground](https://open.spotify.com/album/0jHN4uEq9DXiSYPUTVuxVU) | 3:14 |
-| 325 | [I'm Gone](https://open.spotify.com/track/3GdOcYTlNMirnl0o0tWLkb) | [Paul Dunn](https://open.spotify.com/artist/7amKjhbrhokyIBk0bYjoFg) | [Out of the Shadows](https://open.spotify.com/album/6OW6DnU2bnqupmngFZtIHu) | 3:59 |
-| 326 | [I Won't Lie](https://open.spotify.com/track/6eDFmuT7OW5TQGERzto20z) | [BFM Hits](https://open.spotify.com/artist/6Xdp9Oz4PJJB9O0yoZmg7r) | [Karaoke: Country Hits 1998, Vol\. 11](https://open.spotify.com/album/0QvHzG6xAWCUjxzuoIuyUb) | 3:20 |
+| 321 | [You Ain't Know](https://open.spotify.com/track/270EaQRmJklbHSrcPKQbGt) | [Millz Tha Difference](https://open.spotify.com/artist/3rI5ILtC3NxAtuRDzJ292X) | [You Ain't Know](https://open.spotify.com/album/4ivpwP0SYc2dvvRgduvLjg) | 3:34 |
+| 322 | [Summer Girl \(Karaoke Version\) \- Originally Performed By Jessica Andrews](https://open.spotify.com/track/2BnTOkStvLMRucaCxvukZb) | [Pro Choice Karaoke](https://open.spotify.com/artist/39SxEZ3tqMcObAi3T9QJzB) | [Karaoke Quick Tracks \- Sing the Hits of Jessica Andrews \(Karaoke Version\) \(Originally Performed By Jessica Andrews\)](https://open.spotify.com/album/4xlhT7jOQJT71ZcJXVtT4O) | 3:15 |
+| 323 | [Make It Out](https://open.spotify.com/track/7lQnAxzNfWpHpL1VsA3gzy) | [Zaya Tha Flysta](https://open.spotify.com/artist/1CtP580MCBT8LGke5Riu35), [Mackie Fresh](https://open.spotify.com/artist/3ARzxhq2yh9R0eVClho12c) | [Welcome To The Underground](https://open.spotify.com/album/0jHN4uEq9DXiSYPUTVuxVU) | 3:14 |
+| 324 | [I'm Gone](https://open.spotify.com/track/3GdOcYTlNMirnl0o0tWLkb) | [Paul Dunn](https://open.spotify.com/artist/7amKjhbrhokyIBk0bYjoFg) | [Out of the Shadows](https://open.spotify.com/album/6OW6DnU2bnqupmngFZtIHu) | 3:59 |
+| 325 | [I Won't Lie](https://open.spotify.com/track/6eDFmuT7OW5TQGERzto20z) | [BFM Hits](https://open.spotify.com/artist/6Xdp9Oz4PJJB9O0yoZmg7r) | [Karaoke: Country Hits 1998, Vol\. 11](https://open.spotify.com/album/0QvHzG6xAWCUjxzuoIuyUb) | 3:20 |
 
-Snapshot ID: `Abyp/AAAAACMNxa5l0bpjW6cUsPw3sNB`
+Snapshot ID: `AbyvkgAAAAAVkgawrrnkhJQJ8W7ahDHb`

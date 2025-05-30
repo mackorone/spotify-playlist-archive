@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the South: Rob49
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,251,103 likes - 100 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,251,125 likes - 100 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 99 | [STILL IN THE PAINT \(with LAZER DIM 700 & Bktherula\)](https://open.spotify.com/track/16yFuOEn0CrjQR7SZotv8B) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [LAZER DIM 700](https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U), [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK) | [STILL IN THE PAINT \(with LAZER DIM 700 & Bktherula\)](https://open.spotify.com/album/2xOT5KaLwXnsOVBZbyordn) | 3:53 |
 | 100 | [NEW DROP](https://open.spotify.com/track/2c7z5oRcPBbqRaBY2mLWcf) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 3:37 |
 
-Snapshot ID: `aC/y7QAAAAAciHCj5kU46P6craNK7NcX`
+Snapshot ID: `AAAAAA9HWNmm6YpDbwL26S9vcjKfFO5e`

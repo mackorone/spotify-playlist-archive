@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica refrescante, para vencer el calor.",
-  "num_followers": 123567,
+  "num_followers": 123583,
   "original_name": "Mi Terer\u00e9",
   "owner": {
     "name": "Spotify",
@@ -283,26 +283,6 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
-        "name": "Esto S\u00ed Es Cumbia",
-        "url": "https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        },
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 251626,
-      "name": "Ni Contigo, Ni Sin Ti",
-      "url": "https://open.spotify.com/track/3tHYpuF2eIc4pDrzIdNN3Y"
-    },
-    {
-      "added_at": "2025-03-14 20:46:39",
-      "album": {
         "name": "Armadura De Rosas",
         "url": "https://open.spotify.com/album/7q1Ya9cTQeN1ryNie2dDaF"
       },
@@ -323,6 +303,26 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
+        "name": "Esto S\u00ed Es Cumbia",
+        "url": "https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 251626,
+      "name": "Ni Contigo, Ni Sin Ti",
+      "url": "https://open.spotify.com/track/3tHYpuF2eIc4pDrzIdNN3Y"
+    },
+    {
+      "added_at": "2025-03-14 20:46:39",
+      "album": {
         "name": "Hamaca Paraguaya",
         "url": "https://open.spotify.com/album/7ja8ZfNGuWbvS3lre15CFp"
       },
@@ -339,22 +339,6 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
-        "name": "Bailalo Como Quieras, Que Esto Cumbia Villera",
-        "url": "https://open.spotify.com/album/1BfrDLGjWr6BTQjW2ZTSAV"
-      },
-      "artists": [
-        {
-          "name": "El Monchi Papa",
-          "url": "https://open.spotify.com/artist/7n20wi37wBgwQbqabzrMTB"
-        }
-      ],
-      "duration_ms": 215981,
-      "name": "Una Cerveza",
-      "url": "https://open.spotify.com/track/3LUxexs29ODGnrup1G4y89"
-    },
-    {
-      "added_at": "2025-03-14 20:46:39",
-      "album": {
         "name": "Christian Puga y los Ladrones Sueltos",
         "url": "https://open.spotify.com/album/2sCnMd9nQOtUqBEWLNuw3E"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 223093,
       "name": "Ruge Uge",
       "url": "https://open.spotify.com/track/4qUDaUEXqZtGzxiwQbNC82"
+    },
+    {
+      "added_at": "2025-03-14 20:46:39",
+      "album": {
+        "name": "Bailalo Como Quieras, Que Esto Cumbia Villera",
+        "url": "https://open.spotify.com/album/1BfrDLGjWr6BTQjW2ZTSAV"
+      },
+      "artists": [
+        {
+          "name": "El Monchi Papa",
+          "url": "https://open.spotify.com/artist/7n20wi37wBgwQbqabzrMTB"
+        }
+      ],
+      "duration_ms": 215981,
+      "name": "Una Cerveza",
+      "url": "https://open.spotify.com/track/3LUxexs29ODGnrup1G4y89"
     },
     {
       "added_at": "2025-03-14 20:46:39",

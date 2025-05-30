@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5nEbufTK1GscqQUw0AL6wp">JonTheProducer</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-177 songs - 9 hr 19 min
+178 songs - 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,8 @@
 | [Sugar Mami](https://open.spotify.com/track/5sUoZwdTnrjxcBL2oSfb6z) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Supernova](https://open.spotify.com/album/4CRoaYnahZXOI7zsM14Ca1) | 2:11 | 2023-12-13 |  |
 | [Tan Buena](https://open.spotify.com/track/6I1JuzUGxTAD0kDY65fg1s) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [OTRA COSA](https://open.spotify.com/album/00AVS4xDGxD61LgiIkDaN7) | 3:45 | 2022-06-04 |  |
 | [The Cure](https://open.spotify.com/track/4Setk0A2CtxXFCgK9u7xxa) | [Alazka](https://open.spotify.com/artist/1cvDsLFdRXfZQ1cdRteec7) | [The Cure](https://open.spotify.com/album/3n1kVPFKPYovCFBFDTrYUh) | 3:49 | 2024-03-26 |  |
-| [Tiempo al Viento](https://open.spotify.com/track/2z9jQZxUOpuQqkWDgoHYCt) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2), [Diana Fuentes](https://open.spotify.com/artist/14FqcgpNCmfedRsAZTgMIG) | [Visceral](https://open.spotify.com/album/1PjeKcjUrPAK38U1aGtPep) | 3:07 | 2022-06-04 |  |
+| [Tiempo al Viento](https://open.spotify.com/track/2z9jQZxUOpuQqkWDgoHYCt) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2), [Diana Fuentes](https://open.spotify.com/artist/14FqcgpNCmfedRsAZTgMIG) | [Visceral](https://open.spotify.com/album/1PjeKcjUrPAK38U1aGtPep) | 3:07 | 2022-06-04 | 2025-05-30 |
+| [Tiempo Al Viento](https://open.spotify.com/track/6TJ7AfulRrq7DtE0zpR0Xf) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2), [Diana Fuentes](https://open.spotify.com/artist/14FqcgpNCmfedRsAZTgMIG) | [Visceral](https://open.spotify.com/album/7gPKRle8uAPmhdKAcwlj60) | 3:07 | 2025-05-29 |  |
 | [TOCANDO EL CIELO \(feat\. Felp 22\)](https://open.spotify.com/track/6kDXGEm0VGEbs0ZtFp2EUL) | [VICE MENTA](https://open.spotify.com/artist/5Aw0EHnWZ9YBfsYN3bjZJH), [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK) | [TOCANDO EL CIELO \(feat\. Felp 22\)](https://open.spotify.com/album/427hCecyt8ext6LkFXXw9c) | 3:40 | 2022-06-04 |  |
 | [TQMQA](https://open.spotify.com/track/0Xm7WesKiHAAbLYluGqBZ7) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 2:49 | 2025-02-12 |  |
 | [Tutu](https://open.spotify.com/track/1Ol5LmdNDNpFu1oNwfgkux) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Por Primera Vez](https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I) | 2:59 | 2022-06-04 |  |

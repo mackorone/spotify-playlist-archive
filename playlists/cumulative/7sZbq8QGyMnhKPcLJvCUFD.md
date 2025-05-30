@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-708 songs - 1 day 11 hr 51 min
+710 songs - 1 day 11 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -381,6 +381,7 @@
 | [Lock n' Load](https://open.spotify.com/track/0918PRLqxy7WJ3bNmjWySj) | [HXI](https://open.spotify.com/artist/3yRqd6IO6SamMAmnXwZKeU) | [Lock n' Load](https://open.spotify.com/album/7nnqBWlXiL1f2UtHgRiYW2) | 1:48 | 2024-09-12 |  |
 | [Loneliness](https://open.spotify.com/track/0c2IOjZnVajRBMIQSYq2jZ) | [Poylow](https://open.spotify.com/artist/2u1KLzprGSRmfFhjt7MDYq), [Mandrazo](https://open.spotify.com/artist/51ZYyNbFsBlD1EHGHaSFz0), [Barmuda](https://open.spotify.com/artist/5SoTfJZxWxfm9TkVEkvcLM) | [Loneliness](https://open.spotify.com/album/5VDhzUtDHlYjrSBNn9HHSx) | 2:16 | 2023-08-25 | 2024-01-17 |
 | [Lonely Hour](https://open.spotify.com/track/1uqVKaE5nMAf5GLQGSglly) | [MAD SNAX](https://open.spotify.com/artist/33MJONPoMWD0sKQvCHCdnu), [Poylow](https://open.spotify.com/artist/2u1KLzprGSRmfFhjt7MDYq), [New Beat Order](https://open.spotify.com/artist/0gQDOj4OisQbTq7FUEziea) | [Lonely Hour](https://open.spotify.com/album/0jFbYifq12XTyvYpKw1wF1) | 2:09 | 2023-06-23 | 2023-08-10 |
+| [Loner](https://open.spotify.com/track/0ogKCKUg5bZs21RfNTTOqj) | [Rudeejay](https://open.spotify.com/artist/2zC8RU0p5FvJeCPPLVBR8K), [NOYSE](https://open.spotify.com/artist/3e1EBvnyj3mke3HnMa5Uq2) | [Loner](https://open.spotify.com/album/6mAchaerPlZme2dUKJnkcL) | 2:09 | 2025-05-29 |  |
 | [LOOK AT ME!](https://open.spotify.com/track/0Ll9cyI1ZfDXRqeatIVHc2) | [Rxm リム](https://open.spotify.com/artist/6xQr9sbtrCuoW4qJoATNLB) | [LOOK AT ME!](https://open.spotify.com/album/4IoK5B9QJONah9n0d1MurH) | 3:02 | 2023-05-23 |  |
 | [Look No Further](https://open.spotify.com/track/3Clcf6ZB3C1bnntfoNipWU) | [Madison Mars](https://open.spotify.com/artist/4gJCFxvqKc43Ifk0UIBB42), [Grace Luisa](https://open.spotify.com/artist/4TsDR2lgk4Nd9Zt5kw2gtD) | [Look No Further](https://open.spotify.com/album/4ca09UYlQAYRe38zsmUdpb) | 2:41 | 2024-09-06 |  |
 | [Losing](https://open.spotify.com/track/5fXAhP6h0oEd4vkQ93c0hi) | [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq), [Arya](https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ) | [Losing](https://open.spotify.com/album/0DBKauq7473ZXa49DN6Mad) | 2:41 | 2022-12-08 | 2023-08-10 |
@@ -408,6 +409,7 @@
 | [Memory Nights](https://open.spotify.com/track/3ooflzDgtL0pqnikV7HUDW) | [Jack Shore](https://open.spotify.com/artist/6NgzzaS7j1LDVAV72lmV3P), [KORA](https://open.spotify.com/artist/3WhSCXkMRTSKS4jt43hick) | [Memory Nights](https://open.spotify.com/album/1TaHRPxZD4e0lzVB8EU2AG) | 3:16 | 2022-12-26 | 2023-04-28 |
 | [Mess](https://open.spotify.com/track/6bOXwq9j9wFe4M8LAHc3cl) | [Siik](https://open.spotify.com/artist/3dWrzZ5NrBW1cRHeU15Yrf), [Alenn](https://open.spotify.com/artist/7gHWDovnAqm8jZ53BJCsa7) | [Mess](https://open.spotify.com/album/5TpIbGAHt0rVaw52JIP8md) | 2:20 | 2022-12-16 | 2023-04-28 |
 | [Mirage Of My Heart](https://open.spotify.com/track/6lsu0PNBCk03cdTnZpdgVO) | [D'Amico & Valax](https://open.spotify.com/artist/3kSr7WLrGY10p3zTrJcTsc), [Fayzone](https://open.spotify.com/artist/1hSg7N5p2IUGoWCKtzEHcA) | [Mirage Of My Heart](https://open.spotify.com/album/6ncDWBhtWeEWVWCrmfS3Ud) | 3:09 | 2023-04-07 | 2023-08-10 |
+| [missing life](https://open.spotify.com/track/1ZO5EyLDQRsdIZESfqSlIR) | [QKReign](https://open.spotify.com/artist/5pTDhtjL1lF9Mft8TYCjv6), [gabriawll](https://open.spotify.com/artist/5jMwLnp7dI0H2YFvXpCaMH) | [missing life](https://open.spotify.com/album/2RC1d12bPxRIgNKAqODV2b) | 2:03 | 2025-05-29 |  |
 | [misunderstood](https://open.spotify.com/track/1E0IXWXtlqRjO46cfMXIRJ) | [yanvince](https://open.spotify.com/artist/5WAjBWhp1RaOUP7TxxvfOl) | [misunderstood](https://open.spotify.com/album/0NUdAPurIahjbvjmlAdk6K) | 2:09 | 2024-01-18 | 2024-08-28 |
 | [Models](https://open.spotify.com/track/7xUNCA7dezcwtlo7IOYgdC) | [Hush](https://open.spotify.com/artist/5yumQW70M7N3EeWFWV7fUZ) | [Models](https://open.spotify.com/album/3UW07KJKOcewzC2V6XIjfM) | 2:32 | 2024-09-05 |  |
 | [Moments](https://open.spotify.com/track/1sTKNKmcwHyE8Nxo2gNq77) | [Lost Identities](https://open.spotify.com/artist/76BHKmTZPOUV3itxUUXmkQ), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Moments](https://open.spotify.com/album/7IpkM4Q4T63J4C56pAFgQc) | 3:39 | 2022-04-14 | 2023-04-28 |

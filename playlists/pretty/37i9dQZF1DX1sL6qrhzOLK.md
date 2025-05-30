@@ -1,34 +1,32 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sL6qrhzOLK.md) - [plain](/playlists/plain/37i9dQZF1DX1sL6qrhzOLK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1sL6qrhzOLK)
 
-### [Sync Next 24](https://open.spotify.com/playlist/37i9dQZF1DX1sL6qrhzOLK)
+### [Sync Next 25](https://open.spotify.com/playlist/37i9dQZF1DX1sL6qrhzOLK)
 
-> 가장 트렌디한 예술 경험 Sync Next 24의 참여 아티스트의 추천곡과 대표곡을 즐겨보세요! \(Enjoy recommended and representative songs from participating artists of Sync Next 24, the trendiest art experience!\)
+> Sync Next 25에서 이어지는 감각적 몰입, 새로운 레이브를 경험해보세요\. \(Step into a new kind of rave \- born from the sensory immersion of Sync Next 25.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,298 likes - 22 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,322 likes - 20 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [When I Grab the Sunset Over Your Shoulder](https://open.spotify.com/track/747gyZd18DPjhUFRTi5VYr) | [Chin Sooyoung](https://open.spotify.com/artist/263UdmGyOJkZ6CGF5v7d4G) | [Paraphrase](https://open.spotify.com/album/3j1MVk2HnnZi8CcXOIDkWr) | 3:28 |
-| 2 | [gangnam 478 \(225\-8\) \(feat\. Kim oki saturnballad\)](https://open.spotify.com/track/5RabUWqmpEV79hcNEjESa6) | [Jung Sumin](https://open.spotify.com/artist/7mJe9MyvwEVccLfQODmRN1), [Kim oki saturnballad](https://open.spotify.com/artist/7z4OmJfZRvVxPcJDmNeB4l) | [sense of agony](https://open.spotify.com/album/1qJvMozu77E4T70uzFj5Wg) | 12:19 |
-| 3 | [Cotard's Syndrome](https://open.spotify.com/track/0lwBdmtLVKTvk5VVaAaDB5) | [Kim Oki](https://open.spotify.com/artist/1Z8Khxem5wcnSoH3WpwMbF) | [Spirit Advance Unit](https://open.spotify.com/album/3a1b2maWS8dV6SmPcEWz6B) | 6:01 |
-| 4 | [Don't Talk Down at Me\(Original Ver.\)](https://open.spotify.com/track/2yIWTkM69mTXrgfcfId9ml) | [Mountain Baekdu](https://open.spotify.com/artist/4X0WmE3O5X5coYpmNR9XLS) | [Return Of The King](https://open.spotify.com/album/2knCGlQ3MzIgvIz8iECIgA) | 6:49 |
-| 5 | [Panic Attack](https://open.spotify.com/track/5axwj3ekvw85989jjO8Ov8) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Octavarium](https://open.spotify.com/album/4v6kYkn7mYjlWS9vONmmCP) | 8:13 |
-| 6 | [Line](https://open.spotify.com/track/7Ms1b6tuZSMLuMpwHHFjHt) | [KARDI](https://open.spotify.com/artist/6v8xPUDPu5hQlu0GrYHyOE) | [Inside Out](https://open.spotify.com/album/2MDBTnagwI5RTtCqvLDdqr) | 3:33 |
-| 7 | [Nothing to Envy](https://open.spotify.com/track/67p35KhIFP3qmmwWqG0Nxl) | [HAEPAARY](https://open.spotify.com/artist/3ltYPanqVYTC1qV0OIRaAc) | [Nothing to Envy](https://open.spotify.com/album/5R2EWMQD3fRz6jBpzF8QZo) | 3:53 |
-| 8 | [Wa wa wa wa wa wa wa wa](https://open.spotify.com/track/7bDo7U9ODLAm1HTgqtqjPZ) | [Ego Function Error](https://open.spotify.com/artist/4EhoOhM4d7P3EkLZhjqVa6) | [The School Nurse Files \(Original Soundtrack from The Netflix Series\)](https://open.spotify.com/album/2vBgDorTPQjO5KxAS0YFi0) | 3:13 |
-| 9 | [Countlessly](https://open.spotify.com/track/2CxR90ORNBpNiyRJ4HQMcK) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V), [Mandong](https://open.spotify.com/artist/2Wk4Orq6UQ5KPunF9WHiyd) | [The lion that became cheese](https://open.spotify.com/album/4U6OKmG4nLkRA7Z96oXlqQ) | 2:25 |
-| 10 | [Worm In The Apple](https://open.spotify.com/track/0ZBHa9TysExACr8i7OGQlf) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Worm In The Apple](https://open.spotify.com/album/2UsZcm499RxgMvb1Hn4U8i) | 2:17 |
-| 11 | [\(The Cherry Trees\)](https://open.spotify.com/track/2e5HDpsJrpt0GwWME1tR9p) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [\(1\)](https://open.spotify.com/album/2cg7v6OUCXU4gkOt1b4rKI) | 2:49 |
-| 12 | [Superstar Sh\*t](https://open.spotify.com/track/20j7l6tFtc5lynXpbOQg1O) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [What Could Possibly Go Wrong](https://open.spotify.com/album/1BubKJqf6Uc4fNae5kLJJ7) | 2:07 |
-| 13 | [Goin' Down Slow](https://open.spotify.com/track/4PI5yBLXgwdgRulNo4mQbt) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Howlin' Wolf](https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl) | 3:27 |
-| 14 | [내 루돌프](https://open.spotify.com/track/2oPbXRwVyg2fHScGB1U2eT) | [MAD MONSTER](https://open.spotify.com/artist/4NOgfZ4g8sFOjffbwT9qee) | [내 루돌프](https://open.spotify.com/album/47A4Wn8PGrGF1GF7EWkYre) | 4:09 |
-| 15 | [Seven Heads](https://open.spotify.com/track/1Dbk28yhegmi4EqcVIhBVl) | [Jundo](https://open.spotify.com/artist/1D9aUXW1SzD0xbshbOtwqm) | [Spirit Awaits](https://open.spotify.com/album/1bEn3vdeuIhdTMvYdu1rae) | 5:25 |
-| 16 | [The Twins \(Feat\. Haz\)](https://open.spotify.com/track/4YAhVBL0WbC4sN4CNu8co8) | [Jundo](https://open.spotify.com/artist/1D9aUXW1SzD0xbshbOtwqm), [haz](https://open.spotify.com/artist/3EA0RcckeLoHIu0HTPJviC) | [Spirit Awaits](https://open.spotify.com/album/1bEn3vdeuIhdTMvYdu1rae) | 5:20 |
-| 17 | [Connection](https://open.spotify.com/track/0CtpA0ZYI0qf88tDrrqA8h) | [JAMBINAI](https://open.spotify.com/artist/20xwrwSmGSBQLLV0EVRS9M) | [Differance](https://open.spotify.com/album/2qOacxpUaO1sXYlGdcGjww) | 9:37 |
-| 18 | [until my wings turn to ashes](https://open.spotify.com/track/6VspgiXAD8ZdUdMQ7AaHHO) | [JAMBINAI](https://open.spotify.com/artist/20xwrwSmGSBQLLV0EVRS9M) | [apparition](https://open.spotify.com/album/00pDdLXAmnblTguj57wVVp) | 9:22 |
-| 19 | [Time of Extinction](https://open.spotify.com/track/0StZCoz0AVjWf64JaFxG5v) | [JAMBINAI](https://open.spotify.com/artist/20xwrwSmGSBQLLV0EVRS9M) | [Differance](https://open.spotify.com/album/2qOacxpUaO1sXYlGdcGjww) | 2:56 |
-| 20 | [Heart of Despair](https://open.spotify.com/track/7was9DGKU6THHCRIA5pEbZ) | [49 Morphines](https://open.spotify.com/artist/3GAp8PrsfvuY7QnAzHWcyW) | [Partial Eclipse](https://open.spotify.com/album/6cjvwi9UEz7sGfTjYSA9MN) | 8:47 |
-| 21 | [Running On Empty](https://open.spotify.com/track/01A87ZuKGoMX2n47jwTFvF) | [49 Morphines](https://open.spotify.com/artist/3GAp8PrsfvuY7QnAzHWcyW) | [Partial Eclipse](https://open.spotify.com/album/6cjvwi9UEz7sGfTjYSA9MN) | 3:48 |
-| 22 | [Oblivion Past](https://open.spotify.com/track/1wiQ3VKpCXO09fHTPE1MwE) | [49 Morphines](https://open.spotify.com/artist/3GAp8PrsfvuY7QnAzHWcyW) | [Most Important Value \- EP](https://open.spotify.com/album/4ssFkgw1CUdF0w3vhSPukE) | 2:30 |
+| 1 | [Mindmirror](https://open.spotify.com/track/6hWdk9FvBmr4fdcGBNKSjO) | [Lucid Fall](https://open.spotify.com/artist/4uKVLCvDKjjNM58cXtKitT) | [Being\-with](https://open.spotify.com/album/55bBR5JA5jwRSqpAnaJeeY) | 5:40 |
+| 2 | [Aviiir](https://open.spotify.com/track/7fNAWVcF704qtWXusFpOh6) | [Lucid Fall](https://open.spotify.com/artist/4uKVLCvDKjjNM58cXtKitT) | [Being\-with](https://open.spotify.com/album/55bBR5JA5jwRSqpAnaJeeY) | 10:26 |
+| 3 | [Microcosmo](https://open.spotify.com/track/6ZeE5hfV7HmnrtGLETDUBy) | [Lucid Fall](https://open.spotify.com/artist/4uKVLCvDKjjNM58cXtKitT) | [Being\-with](https://open.spotify.com/album/55bBR5JA5jwRSqpAnaJeeY) | 7:35 |
+| 4 | [Mater Dolorosa](https://open.spotify.com/track/7B1TEC91B8fVvL7Ax1tmGJ) | [Lucid Fall](https://open.spotify.com/artist/4uKVLCvDKjjNM58cXtKitT) | [Being\-with](https://open.spotify.com/album/55bBR5JA5jwRSqpAnaJeeY) | 9:30 |
+| 5 | [Transcendence](https://open.spotify.com/track/51DtjqXvSBhQabUu8l3rZS) | [Lucid Fall](https://open.spotify.com/artist/4uKVLCvDKjjNM58cXtKitT) | [Being\-with](https://open.spotify.com/album/55bBR5JA5jwRSqpAnaJeeY) | 1:00:00 |
+| 6 | [Saudade \(When We Are Born\)](https://open.spotify.com/track/1ijwLR1iybtxaUbasUj7kJ) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Saudade \(When We Are Born\)](https://open.spotify.com/album/3s5UDbcu9PBKBJ4xIz0zcW) | 2:30 |
+| 7 | [In The Sound Of Breathing](https://open.spotify.com/track/7yNYzyUExexEqXvN0F4E9A) | [SAGES](https://open.spotify.com/artist/5V57PJiPMsZflHN9dqoCSJ), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [In The Sound Of Breathing / Opening](https://open.spotify.com/album/5jdLTKpUZFbtreAaGuZ3vt) | 3:55 |
+| 8 | [re:member](https://open.spotify.com/track/6wUU6ff7O1jlE4NOrv01gI) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [re:member](https://open.spotify.com/album/6JpQGIi2he6iskzR4aLwPG) | 6:04 |
+| 9 | [Make\-Believe Birdsong](https://open.spotify.com/track/6NCTMjiBgY3EOGgLBVxvXc) | [Lullatone](https://open.spotify.com/artist/3h100hRlLZ7QDz8GRt5QsD) | [Shapes & Time](https://open.spotify.com/album/5ITq44qb6V0HyyxPaIPde5) | 2:34 |
+| 10 | [Spines](https://open.spotify.com/track/4QblO5F5RpITC9pya3Vwyj) | [Rrose](https://open.spotify.com/artist/5naKaYAyzzuPDsh4H2dwyT) | [Please Touch](https://open.spotify.com/album/0VW6p4XHXCmF6A4IGmgrqU) | 9:21 |
+| 11 | [Dissolve](https://open.spotify.com/track/1o4o5opRPiE3aR4bx0wWBV) | [Rrose](https://open.spotify.com/artist/5naKaYAyzzuPDsh4H2dwyT) | [Hymn to Moisture](https://open.spotify.com/album/5r2XnC9GffhrQZH6o21EYl) | 9:52 |
+| 12 | [The Backrooms](https://open.spotify.com/track/7edZzUCkTQ4WPgGhaCMwi3) | [Xanexx](https://open.spotify.com/artist/5QuvwA2CO72jlQXDaYeVTW) | [Alpha Range](https://open.spotify.com/album/1SDsguoslLcMNBkLNDVKLY) | 5:55 |
+| 13 | [Crossing the Borderline](https://open.spotify.com/track/7kD2fB8KJli8tCpTZ519g4) | [Xanexx](https://open.spotify.com/artist/5QuvwA2CO72jlQXDaYeVTW) | [Crossing the Borderline](https://open.spotify.com/album/2d7tAcvUpvA6ba8yvgTQ4F) | 7:13 |
+| 14 | [False Prophecies](https://open.spotify.com/track/3u2xMK9KM0Nrh41VqKPBsg) | [Anthony Linell](https://open.spotify.com/artist/7f6ExQA9PR5pOnbrOXOwoS) | [Advanced Transcendent Evolution](https://open.spotify.com/album/0NFadRyZ9j6IwE5jwLjSYe) | 5:10 |
+| 15 | [Is This Real Life?](https://open.spotify.com/track/7CVo5ut20NcYU0WAmaezt2) | [Anthony Linell](https://open.spotify.com/artist/7f6ExQA9PR5pOnbrOXOwoS) | [Outlines \(Repurposed\) 2013\-2019](https://open.spotify.com/album/7a8sOJlt87lNL8EjGXJg3P) | 5:58 |
+| 16 | [Interfusion](https://open.spotify.com/track/7xSs11x4XUF5JtViqVdFpe) | [Scøpe](https://open.spotify.com/artist/6rItuTyiiev4hjUax65Jj4) | [Neon Mirage](https://open.spotify.com/album/4imHih8DwITR2kikneKbqx) | 5:56 |
+| 17 | [Metawave](https://open.spotify.com/track/3sR2qhGVI3MdY4HVRCsCV3) | [Scøpe](https://open.spotify.com/artist/6rItuTyiiev4hjUax65Jj4) | [Metawave](https://open.spotify.com/album/79n2VGzXE1J35tynn5RTFH) | 5:55 |
+| 18 | [La\-ga\-da\-di\-do](https://open.spotify.com/track/7KUN2b2cP1bTreB0dIKfIi) | [HWI](https://open.spotify.com/artist/36ufm9GkQyfL4ngCk47olG) | [Bat Apt.](https://open.spotify.com/album/57zVSnxGWShvSW0Q8pc1lV) | 3:54 |
+| 19 | [p.5](https://open.spotify.com/track/3q5PUiWIpRfgBRonYwQn3m) | [HOSOO](https://open.spotify.com/artist/3kMFfdFyf5MJCjr2ATgmKz) | [mist](https://open.spotify.com/album/0nmEthpB9Ym4XsOBBGOztX) | 9:34 |
+| 20 | [Heavy Peace](https://open.spotify.com/track/763S65Ooys16ozi2di7Wea) | [HOSOO](https://open.spotify.com/artist/3kMFfdFyf5MJCjr2ATgmKz) | [Odyssey](https://open.spotify.com/album/2c2OdwOA7piFSvZhxha0Sd) | 5:54 |
 
-Snapshot ID: `ZnU0YAAAAAD1WRYpH8/NT+udP/s7N5aI`
+Snapshot ID: `aDfbnwAAAAB92/C9wSZRUnRk8CkFSH8t`

@@ -2,7 +2,7 @@
 
 ### [Gbedu](https://open.spotify.com/playlist/37i9dQZF1DWUf3j9Rl2IUG)
 
-> Afrobeats' hottest singles\. Cover: Tekno
+> Afrobeats' hottest singles\. Cover: Kizz Daniel
 
 496 songs - 23 hr 28 min
 

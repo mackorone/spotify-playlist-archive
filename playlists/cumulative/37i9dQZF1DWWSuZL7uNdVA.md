@@ -2,9 +2,9 @@
 
 ### [Top of the Rock](https://open.spotify.com/playlist/37i9dQZF1DWWSuZL7uNdVA)
 
-> Wet Leg au top des meilleurs morceaux rock du moment.
+> Green Day au top des meilleurs morceaux rock du moment.
 
-380 songs - 21 hr 32 min
+382 songs - 21 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [American Spirit](https://open.spotify.com/track/6Z2xgzZlxrVVTmyjofoq0c) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [RAT TRAP 5: the beginning](https://open.spotify.com/album/1VznxDXEvTGtos0ElI7CRn) | 2:58 | 2024-06-13 | 2024-07-19 |
 | [An Artist Is An Artist](https://open.spotify.com/track/1QlHr6xzSARBWQ6QvTb7TW) | [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [An Artist Is An Artist](https://open.spotify.com/album/4V3UKsFn4HbEnJKNa0BRAZ) | 3:11 | 2025-01-16 | 2025-03-07 |
 | [Angry](https://open.spotify.com/track/0daHbdrLvUmkh81rnolMcG) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Angry](https://open.spotify.com/album/6rEzHeH14PJSv8anXA6tyE) | 3:46 | 2023-09-28 | 2024-04-16 |
-| [Another Boy](https://open.spotify.com/track/1Qp8rEHhxtjhk4VixcKLlg) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9) | [Another Boy](https://open.spotify.com/album/6mUBGBSDQ9Re1XaLlVBBqH) | 2:57 | 2025-03-20 |  |
+| [Another Boy](https://open.spotify.com/track/1Qp8rEHhxtjhk4VixcKLlg) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9) | [Another Boy](https://open.spotify.com/album/6mUBGBSDQ9Re1XaLlVBBqH) | 2:57 | 2025-03-20 | 2025-05-30 |
 | [Antagonist](https://open.spotify.com/track/3XRknZ0U5NKW8r5g44ptA6) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Supernova](https://open.spotify.com/album/41ycYGcnhkDb3pFkL8vSPJ) | 3:06 | 2024-10-10 | 2025-01-10 |
 | [ANTHEM PART 3](https://open.spotify.com/track/2kjH4Q6WxvlpGnlgwmv4eG) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME...](https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd) | 3:33 | 2023-10-26 | 2023-12-01 |
 | [Apprends\-moi](https://open.spotify.com/track/5zH8U9YG6BrWzUh8NHAJZf) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [Posthume](https://open.spotify.com/album/58UDOo7F1hbra3WoCuGznu) | 2:57 | 2024-06-06 | 2024-10-01 |
@@ -38,6 +38,7 @@
 | [Asleep](https://open.spotify.com/track/5Wx4OTeGLWb3mMws1VjAms) | [Twin Atlantic](https://open.spotify.com/artist/4A9xtvezlouTD7H0kyUje9) | [Asleep](https://open.spotify.com/album/2Vflu6dPQKpU7KHo3wAicp) | 3:13 | 2023-12-21 | 2024-03-15 |
 | [Atomic City](https://open.spotify.com/track/0Zp4PR3jLHfxcXdBdRLh7M) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Atomic City](https://open.spotify.com/album/5ghPJVqhDvidfznC4O7tW3) | 3:30 | 2023-09-28 | 2024-10-11 |
 | [Au Paradis](https://open.spotify.com/track/3cT59lbXrmp1YQmh4FK61I) | [Silmarils](https://open.spotify.com/artist/03X1ph7ZGfqb3W3Ld5lJKH) | [Au Paradis](https://open.spotify.com/album/4h3Jt0wCU1hPfbF9HUGhYd) | 2:47 | 2024-05-30 |  |
+| [Avant qu'elle ne parte](https://open.spotify.com/track/1IkRLNPbQaoBZoyAyhGrIg) | [The Odds](https://open.spotify.com/artist/1Tcb7Fen1mZVvGdGNnPJX0) | [KIDS](https://open.spotify.com/album/2uvIjj6OWipQPpVwLAgUVG) | 4:25 | 2025-05-29 |  |
 | [B/W Rainbow](https://open.spotify.com/track/4Mao9J2KxOWkqp9u1LULTd) | [Stuck in the Sound](https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy) | [B/W Rainbow](https://open.spotify.com/album/2UrIwY8TCUCBe5VXVCStoO) | 2:42 | 2023-11-23 | 2024-04-24 |
 | [BABY SAID](https://open.spotify.com/track/2KReCz1L5XkGIBhDncQ5VZ) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 2:44 | 2023-09-28 | 2023-10-20 |
 | [Bang Bang Bang](https://open.spotify.com/track/6SZiBRJYG3rd3yiU4PDsxZ) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Bang Bang Bang](https://open.spotify.com/album/4xxuqs9e7upJFfloA8hX4W) | 3:39 | 2025-01-09 | 2025-01-24 |
@@ -161,6 +162,7 @@
 | [I'm Still In Love With Rock 'n' Roll](https://open.spotify.com/track/6V5BtphEJVts5laWgp5Jgj) | [American Hi\-Fi](https://open.spotify.com/artist/4XlcLj6bxCnpBIOHmBpIWP) | [I'm Still In Love With Rock 'n' Roll](https://open.spotify.com/album/7jnuM5N0WX6KBfnkC4JYax) | 4:01 | 2024-10-17 | 2024-11-29 |
 | [I'm With The Band \(feat\. Beck\)](https://open.spotify.com/track/23T2c9QnEWy9PvkeDLhHRS) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [I'm With The Band \(feat\. Beck\)](https://open.spotify.com/album/2ZwtjZD39nAQ9yXMi4ZA9G) | 2:55 | 2025-01-09 | 2025-04-11 |
 | [Iconic \(feat\. Jax\)](https://open.spotify.com/track/4r0AbYYtiklnWyNRgEHPM8) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ), [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew) | [Iconic \(feat\. Jax\)](https://open.spotify.com/album/4GgLfWDhquj9jKv7Fiwt8d) | 3:06 | 2023-10-19 | 2024-08-30 |
+| [if i had a gun](https://open.spotify.com/track/4rYoirkxujHEP1hhKZcMrl) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [FOREVER](https://open.spotify.com/album/52iIfDstVzVMMAuOsFJ2YA) | 2:32 | 2025-05-29 |  |
 | [Illusion](https://open.spotify.com/track/0rAg1EXU8PNb3t4tYYEfwD) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Illusion](https://open.spotify.com/album/147gy4rgELPkH5pZVXVA08) | 4:02 | 2024-10-10 | 2025-01-10 |
 | [In Your Head](https://open.spotify.com/track/1ib6xwfqPhHZnxZlinxiyn) | [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [In Your Head](https://open.spotify.com/album/64DKyYtO5tU7MCxJOgJQNv) | 2:28 | 2025-01-16 | 2025-04-18 |
 | [It's Amazing To Be Young](https://open.spotify.com/track/2m3SuMEdjlOWVN05steEXf) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [It's Amazing To Be Young](https://open.spotify.com/album/7MvJ6Zr1OEcMYUxHZA9gWs) | 3:30 | 2025-02-28 |  |
@@ -242,7 +244,7 @@
 | [Paralyzed](https://open.spotify.com/track/6PKxJG1HapLGNqaKoRaIq4) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Paralyzed](https://open.spotify.com/album/1CBaF78AkVYS2S3PufMKgl) | 4:28 | 2024-05-30 | 2024-10-04 |
 | [Paws](https://open.spotify.com/track/73bLtrWnmMu15zgkwgxIft) | [Badflower](https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye) | [Paws](https://open.spotify.com/album/2WTsBo00ik6uknNsm09K9v) | 4:19 | 2025-05-01 |  |
 | [Peacefield \- Single Version](https://open.spotify.com/track/6j9GJGI7sogofbagE6za5E) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Peacefield](https://open.spotify.com/album/5vNvNASfnf2MVIrnoLr1OE) | 4:46 | 2025-05-15 |  |
-| [People Ruin Paintings](https://open.spotify.com/track/2CqvMjkMP1YXLVdK0zBLCQ) | [Manic Street Preachers](https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX) | [People Ruin Paintings](https://open.spotify.com/album/6F6Q9dnHcdjNFG2cfvo17P) | 4:22 | 2025-01-09 |  |
+| [People Ruin Paintings](https://open.spotify.com/track/2CqvMjkMP1YXLVdK0zBLCQ) | [Manic Street Preachers](https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX) | [People Ruin Paintings](https://open.spotify.com/album/6F6Q9dnHcdjNFG2cfvo17P) | 4:22 | 2025-01-09 | 2025-05-30 |
 | [People Watching](https://open.spotify.com/track/3ZZyUf7WkhfN1JkQZZ00fI) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching](https://open.spotify.com/album/2Qg1mJJObwIAJiFHTQvl9E) | 5:11 | 2025-01-09 |  |
 | [pity](https://open.spotify.com/track/63PjD6QWNa5wqft8UIbQHV) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [pity](https://open.spotify.com/album/1MxwPm5Vv9aWl7J3wNI7Sk) | 2:59 | 2023-11-16 | 2023-12-01 |
 | [Plastic Boxes](https://open.spotify.com/track/3DqzYWmNEUosgfMlMXTNwi) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [As Above, So Below](https://open.spotify.com/album/3zvOwqqjuGh8CZYhx2hgaJ) | 4:07 | 2024-07-25 | 2024-08-16 |

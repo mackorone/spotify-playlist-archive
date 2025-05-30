@@ -4,7 +4,7 @@
 
 > 50 nejžhavějších hitů v České republice\. Cover: Ben Cristovao, Sofian Medjmedj
 
-125 songs - 6 hr 11 min
+127 songs - 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Až po uši](https://open.spotify.com/track/4xWFJWVX31eO9I2p2eVdS8) | [Slavíček](https://open.spotify.com/artist/5GfK8A8u8ruvdFiDFS1X9l) | [HOMEMADE](https://open.spotify.com/album/1zwCitjPyOowYEBkuhgEHc) | 3:17 | 2025-05-12 |  |
 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 | 2025-03-24 |  |
 | [Baila](https://open.spotify.com/track/4USCgD3COcDf6KX1LNX3ga) | [KOJO](https://open.spotify.com/artist/0edxmbwC1I57fIyRCuz2FY) | [Baila](https://open.spotify.com/album/5ftQSOaSwf5KPnCzXGteJ6) | 2:38 | 2024-07-01 | 2025-02-18 |
-| [Bara Bada Bastu](https://open.spotify.com/track/2gThkoApt6B7ajBWZRLAVv) | [KAJ](https://open.spotify.com/artist/4blbIMKwfzTxHGvN0Est1t) | [Bara Bada Bastu](https://open.spotify.com/album/2zjk45mVWiAZILHTUmR0ON) | 2:46 | 2025-05-19 |  |
+| [Bara Bada Bastu](https://open.spotify.com/track/2gThkoApt6B7ajBWZRLAVv) | [KAJ](https://open.spotify.com/artist/4blbIMKwfzTxHGvN0Est1t) | [Bara Bada Bastu](https://open.spotify.com/album/2zjk45mVWiAZILHTUmR0ON) | 2:46 | 2025-05-19 | 2025-05-30 |
 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 | 2024-07-01 |  |
 | [Big Dawgs](https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Kalmi](https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45) | [Big Dawgs](https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD) | 3:10 | 2024-08-12 | 2024-10-29 |
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-07-01 |  |
@@ -75,7 +75,8 @@
 | [MONA LISA](https://open.spotify.com/track/7K9hPmzDGuo9WxKG5B1X1Y) | [Sofian Medjmedj](https://open.spotify.com/artist/2ZHJEckf6HJXMSuD2icSSW) | [MONA LISA](https://open.spotify.com/album/0e60PL1Bp0RMNWAeqWJuqC) | 2:39 | 2024-07-01 |  |
 | [moonlight](https://open.spotify.com/track/73b9g7mz0PGG7NrwZm9xly) | [Sofian Medjmedj](https://open.spotify.com/artist/2ZHJEckf6HJXMSuD2icSSW) | [moonlight](https://open.spotify.com/album/11YiuP5u4DIIzrUWj61VDG) | 3:03 | 2024-07-01 | 2024-11-13 |
 | [Mě Nedostanou](https://open.spotify.com/track/0OZ9KaHagV90vvlhNUYdh7) | [Hard Rico](https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ) | [Mě Nedostanou](https://open.spotify.com/album/0o7Il9BCp3VZc9F0ug1C9v) | 2:33 | 2025-04-07 |  |
-| [Na Očiach Vyryté](https://open.spotify.com/track/1Qzgt6gOMrwhMlmiBl3jbc) | [Saul](https://open.spotify.com/artist/6xg3PSVEwviVyfnx3mtsPL), [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [S.A.M.O.](https://open.spotify.com/album/03QrrM2ielwT7oZ2VsGjQX) | 3:40 | 2025-01-27 |  |
+| [Na ostří nože](https://open.spotify.com/track/2QvaPJZpFrlFa660GxjmFs) | [Ewa Farna](https://open.spotify.com/artist/6xajh3A5qhxsNffhhBNntC) | [Singles & Specials](https://open.spotify.com/album/6o7S3ke26XfkAXw3holB5E) | 3:43 | 2025-05-29 |  |
+| [Na Očiach Vyryté](https://open.spotify.com/track/1Qzgt6gOMrwhMlmiBl3jbc) | [Saul](https://open.spotify.com/artist/6xg3PSVEwviVyfnx3mtsPL), [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [S.A.M.O.](https://open.spotify.com/album/03QrrM2ielwT7oZ2VsGjQX) | 3:40 | 2025-01-27 | 2025-05-30 |
 | [Na Plech](https://open.spotify.com/track/10FpZHj5BXgW31Tc2MtVnh) | [Na Plech](https://open.spotify.com/artist/0oDviw1ESfQmS6MAe2XaV6), [Churaq Sputnik](https://open.spotify.com/artist/1JGV8HjQdiDM9I1nPJdoPi), [Hoftyk](https://open.spotify.com/artist/498bveYyEqDFNvfJSnRHKL), [NAUME](https://open.spotify.com/artist/4nN9KPvDyJUChakaoY9AXv) | [Na Plech \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3hG3ALJoXrjnKNc4x1cO1H) | 3:03 | 2025-02-10 | 2025-03-25 |
 | [Narcos](https://open.spotify.com/track/1OWQtElgSSmAcIT6fZLJ6R) | [Hard Rico](https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ), [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk) | [Narcos](https://open.spotify.com/album/5RFUeH46MDwQ1PSIPJM6s5) | 3:11 | 2024-07-01 |  |
 | [Nehaj tak](https://open.spotify.com/track/5SdanljnIl81vy8nsLYea4) | [Separ](https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO), [SpecialBeatz](https://open.spotify.com/artist/2uk6siR31HTp2t4V2cspwe) | [NEVIEM](https://open.spotify.com/album/5wFxSYPYbdzPagxJ4n3uyC) | 3:31 | 2025-04-14 |  |
@@ -101,6 +102,7 @@
 | [Rest In Piss](https://open.spotify.com/track/237OELq03CgubC3t7LwvUq) | [Dollar Prync](https://open.spotify.com/artist/3qoxj1cR3W3crV51Wg38Ux) | [Rest In Piss](https://open.spotify.com/album/24nAN0gQnSpP1nLz0mfH5I) | 2:31 | 2024-09-16 | 2025-05-06 |
 | [Safír](https://open.spotify.com/track/1tpWtFdAuY9chjl5YhzsTP) | [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd), [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [ROADTRIP](https://open.spotify.com/album/7urc9xduLqYClz4nNzQQhc) | 2:29 | 2024-07-01 | 2024-08-07 |
 | [Sailor Song](https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e) | 3:31 | 2024-10-07 |  |
+| [Sezóna](https://open.spotify.com/track/6xf7MCdEyF6idcpkrHzQgI) | [Robin Zoot](https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh), [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [Sezóna](https://open.spotify.com/album/5BRT0G9pSQVC36GDerQjzk) | 3:10 | 2025-05-29 |  |
 | [Show Me Love](https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Show Me Love](https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6) | 2:56 | 2025-05-05 |  |
 | [Silnej hlad](https://open.spotify.com/track/6pLvqvjAQG9kXpKgGCFbgd) | [Dorian](https://open.spotify.com/artist/2vMxLcwqHKxvVdBtKRpyUY), [Lboy Bsc](https://open.spotify.com/artist/7HjHXYRxGom5mjP1lHKHW2) | [Drive By](https://open.spotify.com/album/5VO7ksbvagitZYZArtxl33) | 2:47 | 2025-03-10 |  |
 | [Slzy](https://open.spotify.com/track/3zvg1jGv8J5laammbEvkzf) | [Sofian Medjmedj](https://open.spotify.com/artist/2ZHJEckf6HJXMSuD2icSSW), [Ben Cristovao](https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8) | [Slzy](https://open.spotify.com/album/3GYATvHPq0inFsTEVlxZkZ) | 2:30 | 2024-07-01 |  |

@@ -2124,7 +2124,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 170146,
       "name": "Floating",
       "url": "https://open.spotify.com/track/6KF1PU58VkEa4yhWApIyCC"
@@ -3366,7 +3366,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-30",
+      "date_removed": null,
       "duration_ms": 193294,
       "name": "kissing you at midnight",
       "url": "https://open.spotify.com/track/2OHAY6SRLLk7coxKtopMg7"
@@ -3733,6 +3733,24 @@
     },
     {
       "album": {
+        "name": "Lost In You",
+        "url": "https://open.spotify.com/album/7mMJt8idUTgjDohTLqLekb"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Benedek",
+          "url": "https://open.spotify.com/artist/0BBZxotcIVnEEPhjA4iSiu"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122410,
+      "name": "Lost In You",
+      "url": "https://open.spotify.com/track/1vQAiK2MWj2D2zgYq6LPbA"
+    },
+    {
+      "album": {
         "name": "Love Is A Lie",
         "url": "https://open.spotify.com/album/4UFBXEuqazPcVNvzcm11M4"
       },
@@ -3766,6 +3784,24 @@
       "duration_ms": 133200,
       "name": "Love Me Better",
       "url": "https://open.spotify.com/track/3VKKs2Usdi4cVIEE1qHzF2"
+    },
+    {
+      "album": {
+        "name": "Low Tide",
+        "url": "https://open.spotify.com/album/1jmxE0EMixooHHrPMwLGeM"
+      },
+      "artists": [
+        {
+          "name": "DANA",
+          "url": "https://open.spotify.com/artist/3rQLVRDmnGhPhFBp4Q35Rr"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161340,
+      "name": "Low Tide",
+      "url": "https://open.spotify.com/track/44LdsGW3nKLfkp0WeInuEC"
     },
     {
       "album": {
@@ -5374,7 +5410,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 199564,
       "name": "Something to Feel",
       "url": "https://open.spotify.com/track/1ASSFuZqeOVaUxaZYRslF1"
@@ -5862,7 +5898,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 174786,
       "name": "Trade Hearts",
       "url": "https://open.spotify.com/track/6ABj99azBSfIGjLEG06BxT"

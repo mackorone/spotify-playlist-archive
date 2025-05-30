@@ -1,6 +1,6 @@
 {
   "description": "Las favoritas de los patrones. Luis Mexia, El Rabbanito en portada.",
-  "num_followers": 211193,
+  "num_followers": 211322,
   "original_name": "Corridos Chakalosos",
   "owner": {
     "name": "Spotify",
@@ -399,18 +399,22 @@
     {
       "added_at": "2025-03-28 18:15:05",
       "album": {
-        "name": "Jalense la Gre\u00f1a",
-        "url": "https://open.spotify.com/album/5ggVBjuzCMZUt6E3ObWkqc"
+        "name": "El Plumas",
+        "url": "https://open.spotify.com/album/4ARKlUQgNQHUUFvjHpbWcp"
       },
       "artists": [
         {
           "name": "Neton Vega",
           "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 184773,
-      "name": "El Gerry",
-      "url": "https://open.spotify.com/track/6lDEa9p8HbnxiCMaj9YGUy"
+      "duration_ms": 150528,
+      "name": "El Plumas",
+      "url": "https://open.spotify.com/track/3IQU5PZDEIKayRyB0txMdC"
     },
     {
       "added_at": "2025-03-28 18:15:05",
@@ -495,22 +499,18 @@
     {
       "added_at": "2025-03-28 18:15:05",
       "album": {
-        "name": "El Plumas",
-        "url": "https://open.spotify.com/album/4ARKlUQgNQHUUFvjHpbWcp"
+        "name": "Jalense la Gre\u00f1a",
+        "url": "https://open.spotify.com/album/5ggVBjuzCMZUt6E3ObWkqc"
       },
       "artists": [
         {
           "name": "Neton Vega",
           "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 150528,
-      "name": "El Plumas",
-      "url": "https://open.spotify.com/track/3IQU5PZDEIKayRyB0txMdC"
+      "duration_ms": 184773,
+      "name": "El Gerry",
+      "url": "https://open.spotify.com/track/6lDEa9p8HbnxiCMaj9YGUy"
     },
     {
       "added_at": "2025-03-28 18:15:05",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2025-03-28 18:15:05",
       "album": {
-        "name": "Mono Verde",
-        "url": "https://open.spotify.com/album/7nRoaZeKMvG2qmIlKeiy5r"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 195223,
-      "name": "Mono Verde",
-      "url": "https://open.spotify.com/track/52Z2MDhr07lZuvnR5X47WO"
-    },
-    {
-      "added_at": "2025-03-28 18:15:05",
-      "album": {
         "name": "Mercedes",
         "url": "https://open.spotify.com/album/6TI3ORjQjDwmnxpEm4V2oX"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 133250,
       "name": "Mercedes",
       "url": "https://open.spotify.com/track/2nScdE9zhFz3oPYb7AW5GT"
+    },
+    {
+      "added_at": "2025-03-28 18:15:05",
+      "album": {
+        "name": "Mono Verde",
+        "url": "https://open.spotify.com/album/7nRoaZeKMvG2qmIlKeiy5r"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 195223,
+      "name": "Mono Verde",
+      "url": "https://open.spotify.com/track/52Z2MDhr07lZuvnR5X47WO"
     },
     {
       "added_at": "2025-03-28 18:15:05",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2025-03-28 18:15:05",
       "album": {
-        "name": "El Viejo Fino",
-        "url": "https://open.spotify.com/album/01EPmgyUtq7RRLPFbwpwtG"
-      },
-      "artists": [
-        {
-          "name": "Alemi Bustos",
-          "url": "https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF"
-        }
-      ],
-      "duration_ms": 171785,
-      "name": "El Viejo Fino",
-      "url": "https://open.spotify.com/track/0fOUYjkxWEtO5lCeqBfqbh"
-    },
-    {
-      "added_at": "2025-03-28 18:15:05",
-      "album": {
         "name": "EVO LUXURY 2",
         "url": "https://open.spotify.com/album/1f1JtMSwI8gogUd1kj6LmZ"
       },
@@ -1595,6 +1579,22 @@
     {
       "added_at": "2025-03-28 18:15:05",
       "album": {
+        "name": "El Viejo Fino",
+        "url": "https://open.spotify.com/album/01EPmgyUtq7RRLPFbwpwtG"
+      },
+      "artists": [
+        {
+          "name": "Alemi Bustos",
+          "url": "https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF"
+        }
+      ],
+      "duration_ms": 171785,
+      "name": "El Viejo Fino",
+      "url": "https://open.spotify.com/track/0fOUYjkxWEtO5lCeqBfqbh"
+    },
+    {
+      "added_at": "2025-03-28 18:15:05",
+      "album": {
         "name": "El Muchacho de la Barba",
         "url": "https://open.spotify.com/album/18YC6REM3qcCvpDlFB0TgQ"
       },
@@ -1623,22 +1623,6 @@
       "duration_ms": 161733,
       "name": "El Mago Merl\u00edn",
       "url": "https://open.spotify.com/track/4dbH1Md7KseiHuzWAyE3Y3"
-    },
-    {
-      "added_at": "2025-03-28 18:15:05",
-      "album": {
-        "name": "La Raza de Michoac\u00e1n",
-        "url": "https://open.spotify.com/album/6LV5hKxJFgPPdsxPnua7fN"
-      },
-      "artists": [
-        {
-          "name": "Alemi Bustos",
-          "url": "https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF"
-        }
-      ],
-      "duration_ms": 155018,
-      "name": "La Raza de Michoac\u00e1n",
-      "url": "https://open.spotify.com/track/2V5TwDefnxaxMxByDM2cG1"
     },
     {
       "added_at": "2025-03-28 18:15:05",
@@ -1679,6 +1663,22 @@
       "duration_ms": 247944,
       "name": "El 7 Tito Beltr\u00e1n",
       "url": "https://open.spotify.com/track/3ja3iKYBSQmwa20EYJym8D"
+    },
+    {
+      "added_at": "2025-03-28 18:15:05",
+      "album": {
+        "name": "La Raza de Michoac\u00e1n",
+        "url": "https://open.spotify.com/album/6LV5hKxJFgPPdsxPnua7fN"
+      },
+      "artists": [
+        {
+          "name": "Alemi Bustos",
+          "url": "https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF"
+        }
+      ],
+      "duration_ms": 155018,
+      "name": "La Raza de Michoac\u00e1n",
+      "url": "https://open.spotify.com/track/2V5TwDefnxaxMxByDM2cG1"
     },
     {
       "added_at": "2025-03-28 18:15:05",

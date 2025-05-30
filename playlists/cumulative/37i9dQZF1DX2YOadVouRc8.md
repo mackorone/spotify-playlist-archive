@@ -4,7 +4,7 @@
 
 > afrobeats: best served chill
 
-610 songs - 1 day 5 hr 41 min
+611 songs - 1 day 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,7 @@
 | [CLEAR](https://open.spotify.com/track/10UV0GA408i11E6eSloCb4) | [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu) | [Clear / Rinse & Repeat](https://open.spotify.com/album/646oxcwrISUFht8JJV0N07) | 2:40 | 2024-02-16 | 2024-04-06 |
 | [CLOUD 9](https://open.spotify.com/track/6NPGARxLviKCfERFuSMiaO) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [CLOUD 9](https://open.spotify.com/album/7Jk4YjRuYlomAcJ9ELgZDx) | 3:08 | 2022-06-09 | 2023-11-03 |
 | [Coat](https://open.spotify.com/track/72I8QNOhxOPlIUd706FPHd) | [Rvdical the Kid](https://open.spotify.com/artist/4eu9GW8WwzF6n6fb34COES), [Maesu](https://open.spotify.com/artist/2kk1THOr0gsQaAqOj02tbl) | [Coat](https://open.spotify.com/album/6MrDXdoSfJyULkVYDUIm0n) | 1:30 | 2023-11-24 | 2023-12-02 |
-| [Coffee](https://open.spotify.com/track/1sbNYISa3lQzBWNPtRm5w6) | [G\-West](https://open.spotify.com/artist/39utnMndFEvTgT6ldinEaJ) | [Coffee](https://open.spotify.com/album/5GI1eCPF18sNydRvHGLdqM) | 2:54 | 2025-04-04 |  |
+| [Coffee](https://open.spotify.com/track/1sbNYISa3lQzBWNPtRm5w6) | [G\-West](https://open.spotify.com/artist/39utnMndFEvTgT6ldinEaJ) | [Coffee](https://open.spotify.com/album/5GI1eCPF18sNydRvHGLdqM) | 2:54 | 2025-04-04 | 2025-05-30 |
 | [Come Closer](https://open.spotify.com/track/2SBPw60niF4PMa0i5HRrBS) | [Swish Music](https://open.spotify.com/artist/7BU3LRtUwP48t4OYNmYZHI), [Dau Dau](https://open.spotify.com/artist/5zE6gcTHIzl8LuAqhcCDu1), [Lil Nafy](https://open.spotify.com/artist/1dwSEaXiwO5ggqNXQuReTS) | [Come Closer](https://open.spotify.com/album/24ExWn1W0i4NzG1CPxXYXT) | 2:41 | 2023-04-27 | 2023-06-23 |
 | [Come My Way](https://open.spotify.com/track/15rWCjxhuKiWgHLzuzduKn) | [boistory](https://open.spotify.com/artist/1SCzhjMwBRzC25O01ybQtc) | [Hopeless Romantic Riddim](https://open.spotify.com/album/49JiNiTZIyxzCeGhoc2yBs) | 3:04 | 2022-06-09 | 2023-03-04 |
 | [Comforter \(feat\. Ayra Starr\)](https://open.spotify.com/track/2Vr7Qvt5a9f6W9m6ifke4K) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Comforter \(feat\. Ayra Starr\)](https://open.spotify.com/album/2NmB4LzQtfkv88hY595YtL) | 3:36 | 2022-07-08 | 2023-10-18 |
@@ -369,6 +369,7 @@
 | [nwayi](https://open.spotify.com/track/7iD3LM5BcWm5yZbNPpIhnE) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance \(Deluxe\)](https://open.spotify.com/album/1gC4BgOWemcVLQBM8pnIsZ) | 3:04 | 2023-08-03 | 2024-04-19 |
 | [obaa sima](https://open.spotify.com/track/3DmBkPi3DjThsopnHVt2cA) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Outside / obaa sima](https://open.spotify.com/album/2KiBlKHtsrlaJIwriKI1Qi) | 3:06 | 2023-12-08 | 2024-10-26 |
 | [Obsessed](https://open.spotify.com/track/0V8My1NtUo51470iBrav0Y) | [Ronis Goliath](https://open.spotify.com/artist/7ab3brrz3yehEwzYJf7F8t) | [Obsessed](https://open.spotify.com/album/7rfG2qzNG150rC2L3UzCAi) | 2:40 | 2024-07-05 | 2024-08-02 |
+| [Odeshi](https://open.spotify.com/track/6D3uyxSdlOQpScbqlawnME) | [Abstraktt](https://open.spotify.com/artist/2H5FFLsniz7p7rled2S4pD), [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB) | [Odeshi](https://open.spotify.com/album/6q9zanWSA5C5e8pCSUxjQ9) | 2:15 | 2025-05-30 |  |
 | [Oha](https://open.spotify.com/track/2PZlJEj06ZZZAe13OdHM22) | [SYEMCA](https://open.spotify.com/artist/7qsm8Kz0oIz1gu492D5WJa) | [Crave](https://open.spotify.com/album/15OKHri5NUgFB11KpzmfW3) | 3:12 | 2022-06-09 | 2022-10-01 |
 | [Ojoro](https://open.spotify.com/track/0lgQY2EW1ev4UuXVvATP8i) | [Dumomi the Jig](https://open.spotify.com/artist/7x9N8hOjQ8W2sRNNswCthw), [Alpha P](https://open.spotify.com/artist/3dUPwMGYAsymFv80wkqEKl) | [Ojoro](https://open.spotify.com/album/0UHRV0HSKEzP2WjGH5UzLy) | 3:10 | 2024-04-12 | 2024-05-24 |
 | [Okay](https://open.spotify.com/track/2Iv3GHM3xFKIPbYSnhJAXO) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Afro Pop, Vol\. 1](https://open.spotify.com/album/6GHHoK6LC0Y36nYsouK8qR) | 3:06 | 2022-06-09 | 2023-12-02 |

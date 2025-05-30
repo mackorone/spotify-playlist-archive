@@ -2,7 +2,7 @@
 
 ### [Afrikaanse Hits](https://open.spotify.com/playlist/37i9dQZF1DX7bangZ8fzV0)
 
-> Net die beste Afrikaanse musiek! Omslag: Snotkop
+> Net die beste Afrikaanse musiek! Omslag: Bok Van Blerk, Ricus Nel, Ruhan Du Toit, Chris Steyn en Jay
 
 296 songs - 16 hr 20 min
 
@@ -166,7 +166,7 @@
 | [Lag](https://open.spotify.com/track/3R8GgzGMtJ27pDr6OcazYV) | [ONS](https://open.spotify.com/artist/49NkWWXM4QGYMhiiZCCtNb) | [Lag](https://open.spotify.com/album/2T2I88ZxUKKddoYiJhLd0k) | 3:03 | 2024-06-13 |  |
 | [Lawaaiwater](https://open.spotify.com/track/71MTNDn8B3tBr0WVG0Jaj2) | [Anzélle](https://open.spotify.com/artist/5z6yUIAu8Em61VSjf5oiBs) | [Lawaaiwater](https://open.spotify.com/album/2Cnck7kTfhwxttOIVDw71f) | 3:18 | 2023-06-22 | 2023-10-20 |
 | [Lek My Lippe Af](https://open.spotify.com/track/7AxtjVZVNwPt9VG3D0N1jK) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Lek My Lippe Af](https://open.spotify.com/album/4U2E0tpYsGCAMYn9dy7lPn) | 3:13 | 2024-08-15 |  |
-| [Lekkerste Lekker](https://open.spotify.com/track/2OTNALTwsmkv7yXoRmvw6W) | [Leah](https://open.spotify.com/artist/46aCUT92RT7Q9QwhZuaNXh) | [Lekkerste Lekker](https://open.spotify.com/album/7bwS3hDUSdfutYkorS7sbZ) | 3:07 | 2025-05-22 | 2025-05-26 |
+| [Lekkerste Lekker](https://open.spotify.com/track/2OTNALTwsmkv7yXoRmvw6W) | [Leah](https://open.spotify.com/artist/46aCUT92RT7Q9QwhZuaNXh) | [Lekkerste Lekker](https://open.spotify.com/album/7bwS3hDUSdfutYkorS7sbZ) | 3:07 | 2025-05-22 |  |
 | [Lemoene](https://open.spotify.com/track/5J24BPmjKlr77KK4sQ5iuo) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd), [Bok Van Blerk](https://open.spotify.com/artist/0vevzNDJEuDySBGxIPWcHZ) | [Lei My Na Die Water](https://open.spotify.com/album/30Y6Kmoq8Kz5Ua9JHnbVgQ) | 3:26 | 2023-03-09 | 2023-07-14 |
 | [Lenie Blou](https://open.spotify.com/track/10s1HbmFsDCKmMNcAbDLyV) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Swaartekrag](https://open.spotify.com/album/6KykLYdne818aTl3ogcYSt) | 2:58 | 2023-03-09 | 2023-06-09 |
 | [Lentekind \- Dans Remix](https://open.spotify.com/track/3jp5MWHkhUMNKvTcKoEC21) | [Georic Lomas](https://open.spotify.com/artist/6s70YvvNGOGzhKqveX21uf) | [Lentekind \(Dans Remix\)](https://open.spotify.com/album/29N4DMheHAM04FlffYEAoq) | 2:37 | 2022-09-01 | 2022-10-29 |
@@ -251,7 +251,7 @@
 | [Sou Vir Jou](https://open.spotify.com/track/6b9Dja0fQQBQv0tIhWeJCr) | [Jay](https://open.spotify.com/artist/4KZEdNPtF2AdijUD02qPoj) | [Sou Vir Jou](https://open.spotify.com/album/0myi1ku1lKysaEXDKeesL7) | 2:59 | 2024-07-04 | 2024-11-28 |
 | [Stadig](https://open.spotify.com/track/3qdqbjYUNv3QYIBchTSaUq) | [Danny Smoke](https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj) | [Stadig](https://open.spotify.com/album/2ndEeWY99a4o2lHtx61nGP) | 3:34 | 2024-05-23 | 2024-10-25 |
 | [Standbeelde](https://open.spotify.com/track/5iq0M2V0jJRu7IJYYxJ4vl) | [Ampie](https://open.spotify.com/artist/05OlCJb6VjFEHPiCfwTCZx), [Matthew John Duncan](https://open.spotify.com/artist/5UKMBy6AbIo4xMA9krrPIY) | [Standbeelde](https://open.spotify.com/album/5eIwfDG5foI8Tbd92BE26C) | 3:16 | 2022-10-06 | 2022-10-21 |
-| [Stellies \(feat\. Rooksein\)](https://open.spotify.com/track/5gwdkMm5nxMXUilAEADX76) | [ONS](https://open.spotify.com/artist/49NkWWXM4QGYMhiiZCCtNb), [Rooksein](https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT) | [Stellies \(feat\. Rooksein\)](https://open.spotify.com/album/7yIBnPs996KLu8Sx48GtAK) | 2:47 | 2025-05-15 |  |
+| [Stellies \(feat\. Rooksein\)](https://open.spotify.com/track/5gwdkMm5nxMXUilAEADX76) | [ONS](https://open.spotify.com/artist/49NkWWXM4QGYMhiiZCCtNb), [Rooksein](https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT) | [Stellies \(feat\. Rooksein\)](https://open.spotify.com/album/7yIBnPs996KLu8Sx48GtAK) | 2:47 | 2025-05-15 | 2025-05-30 |
 | [Sterre](https://open.spotify.com/track/388hZyeYDEtgKB0j65TIv0) | [Gerhard Steyn](https://open.spotify.com/artist/6Ie5sDOdJ9iEUbtjUSaH2t), [Liezel Pieters](https://open.spotify.com/artist/3Wk4aDwlH1CsErepTTZVe4) | [Sterre](https://open.spotify.com/album/6bNPqe6llpwr7vrLc7vJ1D) | 3:33 | 2024-04-26 |  |
 | [Stoom](https://open.spotify.com/track/1mCw2uig3k3B1qGBJ1Hpn2) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Stoom](https://open.spotify.com/album/1CSsLrp52azvnNC5mMiuFe) | 2:58 | 2024-03-28 |  |
 | [Stout Vir ...](https://open.spotify.com/track/5IWqYabOkbAXOAUd5RsY8o) | [Irene\-Louise Van Wyk](https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma) | [Stout Vir ...](https://open.spotify.com/album/44OnJYSwia2u2MUYgObohx) | 3:27 | 2023-06-29 | 2024-07-12 |

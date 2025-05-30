@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/65txKM8JvWVEJORHstAcVL.md) - [plain](/playlists/plain/65txKM8JvWVEJORHstAcVL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/65txKM8JvWVEJORHstAcVL)
 
-### [LA LLISTA DE FLAIXBAC \(18/5/2025\)](https://open.spotify.com/playlist/65txKM8JvWVEJORHstAcVL)
+### [LA LLISTA DE FLAIXBAC \(25/5/2025\)](https://open.spotify.com/playlist/65txKM8JvWVEJORHstAcVL)
 
 > La Llista amb els 45 èxits de Flaixbac\. Actualitzada cada diumenge de 17 h a 21 h amb en Jordi Cuadras\. Vota el pròxim número 1 de La Llista a la nostra web: https:&\#x2F;&\#x2F;flaixbac.cat&\#x2F;la\-llista
 
-[flaixbacoficial](https://open.spotify.com/user/flaixbacoficial) - 29,858 likes - 45 songs - 2 hr 18 min
+[flaixbacoficial](https://open.spotify.com/user/flaixbacoficial) - 29,859 likes - 45 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/65txKM8JvWVEJORHstAcVL.md) - [plain]
 | 44 | [HEM VINGUT A JUGAR](https://open.spotify.com/track/381uhXd2a52f6WiLtjiCZs) | [Buhos](https://open.spotify.com/artist/7BdgXLhynRQk78pKkhAsAR) | [HEM VINGUT A JUGAR](https://open.spotify.com/album/53qkR8B31cDvVdKbKWldOa) | 2:31 |
 | 45 | [Mystical Magical](https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Mystical Magical](https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK) | 2:45 |
 
-Snapshot ID: `AAA8KAnjESzWntMxzcAzvtACPsF+ndQc`
+Snapshot ID: `AAA8KYkmsdxJ4TVAj065+iyqNKwufH+u`

@@ -1,12 +1,12 @@
 {
   "description": "This is ALI. The essential tracks, all in one playlist.",
-  "num_followers": 8870,
+  "num_followers": 8881,
   "original_name": "This Is ALI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDUAgAAAAADIgctBQO35jAWKirgumyqo",
+  "snapshot_id": "aDZSAAAAAADpRCHRZB7ux2hiH7zrr0VK",
   "tracks": [
     {
       "added_at": null,
@@ -219,26 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LOVE, MUSIC AND DANCE",
-        "url": "https://open.spotify.com/album/6k0K8fxPxw0daw5QWCKmaQ"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        },
-        {
-          "name": "\u6885\u7530\u30b5\u30a4\u30d5\u30a1\u30fc",
-          "url": "https://open.spotify.com/artist/6jGXROxZ2l5mTSyfVqjLn2"
-        }
-      ],
-      "duration_ms": 289293,
-      "name": "FEELIN' GOOD",
-      "url": "https://open.spotify.com/track/51ekzjfX01cxNzjElR8bpH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MUSIC WORLD",
         "url": "https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW"
       },
@@ -255,6 +235,26 @@
       "duration_ms": 221200,
       "name": "TEENAGE CITY RIOT",
       "url": "https://open.spotify.com/track/5OZGr81O9jLzE5vk8CHUJB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LOVE, MUSIC AND DANCE",
+        "url": "https://open.spotify.com/album/6k0K8fxPxw0daw5QWCKmaQ"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        },
+        {
+          "name": "\u6885\u7530\u30b5\u30a4\u30d5\u30a1\u30fc",
+          "url": "https://open.spotify.com/artist/6jGXROxZ2l5mTSyfVqjLn2"
+        }
+      ],
+      "duration_ms": 289293,
+      "name": "FEELIN' GOOD",
+      "url": "https://open.spotify.com/track/51ekzjfX01cxNzjElR8bpH"
     },
     {
       "added_at": null,
@@ -787,6 +787,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "ALI",
+        "url": "https://open.spotify.com/album/5mAvOe8oCtB1rT4khPoLTQ"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        }
+      ],
+      "duration_ms": 284433,
+      "name": "BONNIE",
+      "url": "https://open.spotify.com/track/5ecYZakfWTAKBT6JwJYmq3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u8e0a\u6551\u6025\u7bb1",
         "url": "https://open.spotify.com/album/6h4DnOV7gOz7jvVy1MhoXr"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 166850,
       "name": "KID feat. LEO (ALI)",
       "url": "https://open.spotify.com/track/7iNdSSdLG2X06P9c9WNHrb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ALI",
-        "url": "https://open.spotify.com/album/5mAvOe8oCtB1rT4khPoLTQ"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        }
-      ],
-      "duration_ms": 284433,
-      "name": "BONNIE",
-      "url": "https://open.spotify.com/track/5ecYZakfWTAKBT6JwJYmq3"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-800 songs - 2 day 9 hr 1 min
+801 songs - 2 day 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -443,7 +443,7 @@
 | [Maktoub Aleina](https://open.spotify.com/track/1SvhjcZt9HTr7MpeAwaskE) | [Hamid Al Shaeri](https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT) | [The SLAM! Years: 1983 \- 1988 \(Habibi Funk 018\)](https://open.spotify.com/album/0PXfnvr4FDsvG0xOWhOzuS) | 4:07 | 2022-01-14 | 2023-08-08 |
 | [Maktoub Aleina \(Habibi Funk 018\)](https://open.spotify.com/track/0GlDM1s0mLBrnV3BcF59EW) | [Hamid Al Shaeri](https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT) | [Maktoub Aleina \(Habibi Funk 018\)](https://open.spotify.com/album/4PUXReU8jUWCkcge6pQKtk) | 4:07 | 2022-01-14 | 2022-07-21 |
 | [Maledetta Quella Notte](https://open.spotify.com/track/2Wz8vQMgkpnUallH0caj1r) | [Il Mago Del Gelato](https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA) | [Maledetta Quella Notte](https://open.spotify.com/album/53rZDVzeELEDGg9XSfoYym) | 3:50 | 2023-10-20 | 2025-05-10 |
-| [Malìa](https://open.spotify.com/track/12fGfkMQLgZr4CooVyGBtK) | [Pellegrino](https://open.spotify.com/artist/7vCQ7NQVgCumcAWj8aaVow), [Zodyaco](https://open.spotify.com/artist/33PuaySauEdkTeCaa3bOB1) | [Malìa](https://open.spotify.com/album/3tm3bhYRjEQ4pig97SQNvu) | 3:48 | 2023-06-02 |  |
+| [Malìa](https://open.spotify.com/track/12fGfkMQLgZr4CooVyGBtK) | [Pellegrino](https://open.spotify.com/artist/7vCQ7NQVgCumcAWj8aaVow), [Zodyaco](https://open.spotify.com/artist/33PuaySauEdkTeCaa3bOB1) | [Malìa](https://open.spotify.com/album/3tm3bhYRjEQ4pig97SQNvu) | 3:48 | 2023-06-02 | 2025-05-30 |
 | [Mam Yinne Wa](https://open.spotify.com/track/08k6ZsTPo7ws120ty9nvHM) | [Alogte Oho & His Sounds of Joy](https://open.spotify.com/artist/4rGa6nIVxUyi8xWSwkHDE1) | [Mam Yinne Wa](https://open.spotify.com/album/1reaXBOvF2YSC4iYd2AQ0T) | 3:55 | 2021-10-06 |  |
 | [Mama \- Déni\-Shain & Mister Francky Remix](https://open.spotify.com/track/0LoVuHRdOFBhT61crHWyIo) | [David Walters](https://open.spotify.com/artist/2ewpXb8jCBlsBscjDCcAG7), [Déni\-Shain](https://open.spotify.com/artist/2I3JncUKUZx2s0SqB4PcKr), [Mister Francky](https://open.spotify.com/artist/4kXQgX9t5ijlfWnybY6SW5) | [Mama](https://open.spotify.com/album/1ZvCj7rr10to6fz4dzGCgv) | 5:04 | 2021-10-06 |  |
 | [Mama Yo Mama Yo](https://open.spotify.com/track/4G2MhGFZCBq7Ojm7CSko9O) | [Pigeon](https://open.spotify.com/artist/2BQ03tTneAqHqm6qWjFKBU) | [Backslider](https://open.spotify.com/album/2cQEpr2WQBUtjgGaXcMy3B) | 4:43 | 2023-06-19 | 2023-10-25 |
@@ -488,6 +488,7 @@
 | [Moody Cumbia](https://open.spotify.com/track/0mmVZa825eh39NNtNcTrFg) | [Malphino](https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij) | [Octopus](https://open.spotify.com/album/59Tec9qk49gfAkKhkniSOy) | 3:36 | 2023-03-28 | 2023-05-07 |
 | [Moody Cumbia](https://open.spotify.com/track/1Mfr0JkEfXR7rN8NUGjCr9) | [Malphino](https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij) | [Strange Salsa](https://open.spotify.com/album/4VELiDWXsabtbzSRxDr7DC) | 3:36 | 2023-03-28 | 2023-04-14 |
 | [Moody Cumbia](https://open.spotify.com/track/5FCcgvZE7pUa6qKZasTbd7) | [Malphino](https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij) | [Sueño EP](https://open.spotify.com/album/3Ss0rghY7VI1gFuzqEKhKR) | 3:36 | 2023-03-28 | 2023-05-13 |
+| [Morning Sun](https://open.spotify.com/track/0ODz72aWsdWhKqgEmJYZ7Q) | [Sampology](https://open.spotify.com/artist/4si18qS80CBDvSo59qthZJ) | [Morning Sun](https://open.spotify.com/album/6gn7yCcrqB7zDovRUrn8ZH) | 5:04 | 2025-05-09 |  |
 | [Mother & Child](https://open.spotify.com/track/6orRF4wapRI8DM9ty9yxld) | [\)zzidi](https://open.spotify.com/artist/2ubZia1eKGp2eiMIEAJ36C), [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Ivory Music Classics, Vol\. 2](https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ) | 6:50 | 2021-10-06 | 2022-07-25 |
 | [Move On](https://open.spotify.com/track/26Prfvk9o5cwyLMCl5zQMS) | [Isaac Chambers](https://open.spotify.com/artist/3Z8221k9q4oLkXUEuizRJP), [Dub Princess](https://open.spotify.com/artist/7HbkOfqsXZgUAJxaK2I3GJ) | [Isaac Chambers & Dub Princess](https://open.spotify.com/album/56Wz4bSbtZnnB5bdYroHvW) | 5:36 | 2022-03-17 |  |
 | [Move on Up](https://open.spotify.com/track/3LIy6dd3MYDjtS2AuIWB9h) | [Devon Russell](https://open.spotify.com/artist/5qpAbHQfFzjfDhHRTTMwkz) | [Darker Than Blue](https://open.spotify.com/album/3AHvkBPz12A5UAcDHfFvn7) | 3:55 | 2022-02-11 |  |

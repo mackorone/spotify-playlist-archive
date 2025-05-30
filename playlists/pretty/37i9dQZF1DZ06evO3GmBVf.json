@@ -1,12 +1,12 @@
 {
   "description": "This is Lefty Sm. The essential tracks, all in one playlist.",
-  "num_followers": 201371,
+  "num_followers": 201408,
   "original_name": "This Is Lefty Sm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDUAgAAAAACd2h1YwgqVIa2wjxF3s57r",
+  "snapshot_id": "aDZSAAAAAADrN+40Cd9LaYW2QtRtlMJH",
   "tracks": [
     {
       "added_at": null,
@@ -403,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don Tan",
-        "url": "https://open.spotify.com/album/1IJ0pZPxux1IynJDH0pNJP"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 252616,
-      "name": "Don Tan",
-      "url": "https://open.spotify.com/track/2B38Yqihpc3i28Uf4WlRf8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Perfume",
         "url": "https://open.spotify.com/album/7eT3M6F7oy7UfazRK3JaAw"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 253596,
       "name": "Perfume",
       "url": "https://open.spotify.com/track/3yTSZUd3hWqEDBQH9Ga0Z9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don Tan",
+        "url": "https://open.spotify.com/album/1IJ0pZPxux1IynJDH0pNJP"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 252616,
+      "name": "Don Tan",
+      "url": "https://open.spotify.com/track/2B38Yqihpc3i28Uf4WlRf8"
     },
     {
       "added_at": null,
@@ -531,26 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Jale Vale",
-        "url": "https://open.spotify.com/album/6yhtC7PRmrYg3idBB7I3sx"
-      },
-      "artists": [
-        {
-          "name": "Toser One",
-          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
-        },
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 174708,
-      "name": "Mi Jale Vale",
-      "url": "https://open.spotify.com/track/1iDBvtahnuXFaLit47gZ3h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shit Masiva",
         "url": "https://open.spotify.com/album/78JJr4jPxcdU5fTQK2NN78"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 336065,
       "name": "Abr\u00e1zame",
       "url": "https://open.spotify.com/track/14DnBCbmd2ANhAfUDWL9LM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Jale Vale",
+        "url": "https://open.spotify.com/album/6yhtC7PRmrYg3idBB7I3sx"
+      },
+      "artists": [
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 174708,
+      "name": "Mi Jale Vale",
+      "url": "https://open.spotify.com/track/1iDBvtahnuXFaLit47gZ3h"
     },
     {
       "added_at": null,
@@ -795,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mi Camino",
+        "url": "https://open.spotify.com/album/6OgELu9sCBTURNGzdykl2v"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 217913,
+      "name": "Mi Camino",
+      "url": "https://open.spotify.com/track/0JUO8vzP1ggpnA3DODSiNC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Soledad",
         "url": "https://open.spotify.com/album/7qjCJhOgyBd9bVyksyDH1z"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 248267,
       "name": "Soledad",
       "url": "https://open.spotify.com/track/1OAtkMjjiZ46ZXYN0rrCGE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mi Camino",
-        "url": "https://open.spotify.com/album/6OgELu9sCBTURNGzdykl2v"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 217913,
-      "name": "Mi Camino",
-      "url": "https://open.spotify.com/track/0JUO8vzP1ggpnA3DODSiNC"
     },
     {
       "added_at": null,

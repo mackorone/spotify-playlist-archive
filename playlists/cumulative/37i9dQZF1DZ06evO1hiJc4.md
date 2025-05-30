@@ -4,7 +4,7 @@
 
 > This is Labrinth\. The essential tracks, all in one playlist.
 
-68 songs - 3 hr 29 min
+69 songs - 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [S.W.M.F.](https://open.spotify.com/track/4NzzYQ0sWySF8pZd0qsVet) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [S.W.M.F.](https://open.spotify.com/album/2VGWPhXYmbO1bnIBEDAr0v) | 3:08 | 2025-05-07 |  |
 | [Same Team \(feat\. Stefflon Don\)](https://open.spotify.com/track/7Db4ViXHhXYznDDRdfX2VB) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Same Team \(feat\. Stefflon Don\)](https://open.spotify.com/album/5bK3Xn3qq3qvqVRLbQiAY9) | 3:09 | 2023-12-18 | 2025-02-05 |
 | [Sexy MF](https://open.spotify.com/track/1ph7yHAVYzeq1MdcYBfAA8) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Imagination & the Misfit Kid](https://open.spotify.com/album/0FSsRH1jeZqKbGcHwq3UO0) | 2:58 | 2023-12-18 | 2025-03-10 |
-| [Silverlines \- prod\. Labrinth](https://open.spotify.com/track/1BK1d7b9bhlbKpQPbYGsol) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Silverlines \- prod\. Labrinth](https://open.spotify.com/album/6xLihtKzCsFZm7nQrAcbF4) | 3:17 | 2024-10-11 |  |
+| [Silverlines \- prod\. Labrinth](https://open.spotify.com/track/0SXUbvefDczI7Z6hEhuJ8h) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [FUNNY little FEARS](https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa) | 3:17 | 2025-05-30 |  |
+| [Silverlines \- prod\. Labrinth](https://open.spotify.com/track/1BK1d7b9bhlbKpQPbYGsol) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Silverlines \- prod\. Labrinth](https://open.spotify.com/album/6xLihtKzCsFZm7nQrAcbF4) | 3:17 | 2024-10-11 | 2025-05-30 |
 | [Skeletons \(Lexi Needed a Break\)](https://open.spotify.com/track/2E8PpcxzMRAv2YdqRxg0jR) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [EUPHORIA SEASON 2 OFFICIAL SCORE \(FROM THE HBO ORIGINAL SERIES\)](https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1) | 2:22 | 2023-12-18 |  |
 | [Something's Got To Give](https://open.spotify.com/track/2cY1XfMsEkNemJ8ECmn0Cs) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Imagination & the Misfit Kid](https://open.spotify.com/album/0zjbNtfnMLmt2q50E3wDx8) | 3:50 | 2024-02-03 | 2024-07-24 |
 | [Still Don't Know My Name](https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 2:33 | 2023-12-18 |  |

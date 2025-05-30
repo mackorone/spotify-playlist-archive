@@ -1,6 +1,6 @@
 {
   "description": "Where swing meets blues.",
-  "num_followers": 58785,
+  "num_followers": 58794,
   "original_name": "Jump Blues",
   "owner": {
     "name": "Spotify",
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Boogie Woogie! Legends Of Jump Blues",
-        "url": "https://open.spotify.com/album/5K0TKBc20U2Wc4Wu2cgRMZ"
-      },
-      "artists": [
-        {
-          "name": "Roy Milton",
-          "url": "https://open.spotify.com/artist/02tMtF5FVucqAJW2TQB9ig"
-        }
-      ],
-      "duration_ms": 150800,
-      "name": "Oh Babe!",
-      "url": "https://open.spotify.com/track/5rjGP2an1PW03auZnOexz0"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "Dootone Rock 'n' Rhythm & Blues",
         "url": "https://open.spotify.com/album/0qt4mC8NS8SOZGjsJoXulh"
       },
@@ -783,18 +767,18 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Cadillac Songs",
-        "url": "https://open.spotify.com/album/7kOOaH8l9HT6009jqUEDms"
+        "name": "Boogie Woogie! Legends Of Jump Blues",
+        "url": "https://open.spotify.com/album/5K0TKBc20U2Wc4Wu2cgRMZ"
       },
       "artists": [
         {
-          "name": "Jimmy Liggins",
-          "url": "https://open.spotify.com/artist/5vBfHviQ6oBuIJw4yZ1NNF"
+          "name": "Roy Milton",
+          "url": "https://open.spotify.com/artist/02tMtF5FVucqAJW2TQB9ig"
         }
       ],
-      "duration_ms": 157666,
-      "name": "Cadillac Boogie",
-      "url": "https://open.spotify.com/track/6eYWirDI4Dxrl8wOzz1b4P"
+      "duration_ms": 150800,
+      "name": "Oh Babe!",
+      "url": "https://open.spotify.com/track/5rjGP2an1PW03auZnOexz0"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -827,6 +811,22 @@
       "duration_ms": 139466,
       "name": "450 Pound Woman",
       "url": "https://open.spotify.com/track/66v57SIfLYJYGYu2WkWiSJ"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Cadillac Songs",
+        "url": "https://open.spotify.com/album/7kOOaH8l9HT6009jqUEDms"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Liggins",
+          "url": "https://open.spotify.com/artist/5vBfHviQ6oBuIJw4yZ1NNF"
+        }
+      ],
+      "duration_ms": 157666,
+      "name": "Cadillac Boogie",
+      "url": "https://open.spotify.com/track/6eYWirDI4Dxrl8wOzz1b4P"
     }
   ],
   "unique_name": "Jump Blues",

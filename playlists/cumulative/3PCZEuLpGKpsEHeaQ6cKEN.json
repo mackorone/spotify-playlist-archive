@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "The tracks we love, work on and enjoy every hour of the day | Including trance, house, techno, dance, Afro house, melodic techno | Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! | Updated weekly on Friday | Cover:  Deep Dish",
+  "description": "The tracks we love, work on and enjoy every hour of the day | Including trance, house, techno, dance, Afro house, melodic techno | Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! | Updated weekly on Friday | Cover:  D.O.D",
   "name": "Armada Today",
   "tracks": [
     {
@@ -756,7 +756,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 142966,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/2IvgjtrHHDSHiLnBmIFTC4"
@@ -2875,6 +2875,32 @@
     },
     {
       "album": {
+        "name": "Break 4 Love (Ridney & Inner Spirit Remix)",
+        "url": "https://open.spotify.com/album/3D15TXhIcTN8lQr3gG5HLi"
+      },
+      "artists": [
+        {
+          "name": "Raze",
+          "url": "https://open.spotify.com/artist/1zZ0EgH5ZZ6ruxh0oViZc0"
+        },
+        {
+          "name": "Ridney",
+          "url": "https://open.spotify.com/artist/5UmoeWk7RM3v9w1DUL4XUD"
+        },
+        {
+          "name": "Inner Spirit",
+          "url": "https://open.spotify.com/artist/3p2hgBwaNAt6jG6iDcstzk"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231932,
+      "name": "Break 4 Love - Ridney & Inner Spirit Remix",
+      "url": "https://open.spotify.com/track/1UXEJMgbvh05RvCfNKFalE"
+    },
+    {
+      "album": {
         "name": "Break The Silence",
         "url": "https://open.spotify.com/album/36VWkKMQrDQoY4PAiBXFBq"
       },
@@ -3345,6 +3371,32 @@
     },
     {
       "album": {
+        "name": "Burn This City (DREYA V Remix)",
+        "url": "https://open.spotify.com/album/7qitjrC3rJjjTQqRQeyLpp"
+      },
+      "artists": [
+        {
+          "name": "Will Clarke",
+          "url": "https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi"
+        },
+        {
+          "name": "JOSEFINA",
+          "url": "https://open.spotify.com/artist/3jBxJe3QHScYuEPo86Zeu5"
+        },
+        {
+          "name": "DREYA V",
+          "url": "https://open.spotify.com/artist/4EFAuQI8Ou0bmpf5Vh1P5P"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216595,
+      "name": "Burn This City - DREYA V Remix",
+      "url": "https://open.spotify.com/track/6sloD0zIvJYEvLv0nrZTkv"
+    },
+    {
+      "album": {
         "name": "By Now",
         "url": "https://open.spotify.com/album/5ayaI14vSPFDIUK23VwzRX"
       },
@@ -3544,6 +3596,28 @@
       "duration_ms": 147083,
       "name": "Can't Help Falling In Love",
       "url": "https://open.spotify.com/track/2qnPCR6Qh8gDzCjS5LIWeL"
+    },
+    {
+      "album": {
+        "name": "Cantando",
+        "url": "https://open.spotify.com/album/4D6E9HBUpMrJQgGkLh8w0R"
+      },
+      "artists": [
+        {
+          "name": "THEMBA",
+          "url": "https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC"
+        },
+        {
+          "name": "Nicinha",
+          "url": "https://open.spotify.com/artist/3iVexULVFyDmVr6odpMnHF"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238410,
+      "name": "Cantando",
+      "url": "https://open.spotify.com/track/5YFOEd3018BV4trm8xkHis"
     },
     {
       "album": {
@@ -7585,6 +7659,24 @@
     },
     {
       "album": {
+        "name": "Nocturnal 016",
+        "url": "https://open.spotify.com/album/0LKbIRF4ZtNpJQuKNGijAH"
+      },
+      "artists": [
+        {
+          "name": "Bren Lock",
+          "url": "https://open.spotify.com/artist/6WXUodSXGrrJ07pBQFyvwt"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202880,
+      "name": "Fading",
+      "url": "https://open.spotify.com/track/3jb8dwXB4GDDdBzh3OVLrh"
+    },
+    {
+      "album": {
         "name": "Fall From Grace",
         "url": "https://open.spotify.com/album/1dLeiegsbWvhaXBo3LrFtt"
       },
@@ -8754,7 +8846,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 167111,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/0HhdZCm9q5Yp37EVSAkHrX"
@@ -9602,6 +9694,28 @@
       "duration_ms": 217377,
       "name": "Glamorous",
       "url": "https://open.spotify.com/track/1TDUJPr5y73gtWYVCI7QAr"
+    },
+    {
+      "album": {
+        "name": "God Help Me",
+        "url": "https://open.spotify.com/album/3k6BqFqGZCMe9rBjznbDAg"
+      },
+      "artists": [
+        {
+          "name": "Bryan Kearney",
+          "url": "https://open.spotify.com/artist/5fBbVsFxoa0jDCqocaEdBx"
+        },
+        {
+          "name": "Plumb",
+          "url": "https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252608,
+      "name": "God Help Me",
+      "url": "https://open.spotify.com/track/0sYX4xy9oCJSUXPgTYEh6y"
     },
     {
       "album": {
@@ -11714,7 +11828,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 225230,
       "name": "Holy Fire",
       "url": "https://open.spotify.com/track/4urJjSHOMohBZDVbPZQhXg"
@@ -25853,6 +25967,28 @@
     },
     {
       "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/4iVzhfADLoMgbTb4EIMPVF"
+      },
+      "artists": [
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        },
+        {
+          "name": "RAHH",
+          "url": "https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177167,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/3lx9HS7No2pTJxPZRgdPdX"
+    },
+    {
+      "album": {
         "name": "Stimulate",
         "url": "https://open.spotify.com/album/2G52gPPh0xnOCjbcHRJv4e"
       },
@@ -27522,6 +27658,28 @@
       "duration_ms": 132417,
       "name": "These Nights",
       "url": "https://open.spotify.com/track/7su7LSdTz7BieFjG7xUXsC"
+    },
+    {
+      "album": {
+        "name": "Thin Air",
+        "url": "https://open.spotify.com/album/4TX3OFj78zOM8UKGl56nxL"
+      },
+      "artists": [
+        {
+          "name": "Haska",
+          "url": "https://open.spotify.com/artist/0oNrNJk1WEVKDpbz4bw54T"
+        },
+        {
+          "name": "Be No Rain",
+          "url": "https://open.spotify.com/artist/0ToTNYPspLv4FWbcpXgOUt"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193170,
+      "name": "Thin Air",
+      "url": "https://open.spotify.com/track/6aRJu3qqA1Csr3HQc4xL7g"
     },
     {
       "album": {
@@ -31043,6 +31201,32 @@
     },
     {
       "album": {
+        "name": "Yeah Yeah",
+        "url": "https://open.spotify.com/album/2p9GM8iVsMDpgDk2dQSPoK"
+      },
+      "artists": [
+        {
+          "name": "1991",
+          "url": "https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy"
+        },
+        {
+          "name": "Luciana",
+          "url": "https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV"
+        },
+        {
+          "name": "Dave Aud\u00e9",
+          "url": "https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204137,
+      "name": "Yeah Yeah",
+      "url": "https://open.spotify.com/track/3cYTnUooCbwikxo74eKc5Q"
+    },
+    {
+      "album": {
         "name": "Yes or No",
         "url": "https://open.spotify.com/album/7ckpPsScRSsxRcMDoEAwL2"
       },
@@ -31442,6 +31626,32 @@
       "duration_ms": 221463,
       "name": "Your Light",
       "url": "https://open.spotify.com/track/4y16eulJFqORdWwRjzwpvA"
+    },
+    {
+      "album": {
+        "name": "Your Love",
+        "url": "https://open.spotify.com/album/3bIILlNbQB51BHUK4ZX28e"
+      },
+      "artists": [
+        {
+          "name": "Joris Voorn",
+          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+        },
+        {
+          "name": "MAX RAD",
+          "url": "https://open.spotify.com/artist/2Igm79AVp3dCbQhfF6I60Z"
+        },
+        {
+          "name": "Liz Cass",
+          "url": "https://open.spotify.com/artist/0erHD7VN4kx2WwPg8w53kp"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259523,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/6O2r4n5YeF5KXVNUrobHZe"
     },
     {
       "album": {

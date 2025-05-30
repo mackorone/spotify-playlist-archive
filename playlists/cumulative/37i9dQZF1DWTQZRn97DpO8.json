@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f. Photo : Tuerie",
+  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f. Photo : Maud Elka",
   "name": "le miel",
   "tracks": [
     {
@@ -164,7 +164,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 226560,
       "name": "A.R.T",
       "url": "https://open.spotify.com/track/5JFuGNMZUtrkBCR7Ok1Ja1"
@@ -388,7 +388,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 188500,
       "name": "autre gars",
       "url": "https://open.spotify.com/track/17vFvuLqk4VtwKWvdy2WXd"
@@ -792,7 +792,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 180923,
       "name": "Can't Get Enough",
       "url": "https://open.spotify.com/track/6gVdjBI6b1HhS5attOduzo"
@@ -1318,7 +1318,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 264853,
       "name": "Demain",
       "url": "https://open.spotify.com/track/5HXXbzpc8BIQioG1NAbokW"
@@ -1434,6 +1434,24 @@
       "duration_ms": 149840,
       "name": "Dis le moi",
       "url": "https://open.spotify.com/track/5Ccv0IrPdyWeLk0QGeNeP4"
+    },
+    {
+      "album": {
+        "name": "Dis moi oui",
+        "url": "https://open.spotify.com/album/0K1NBzsvKksCdlMgSmLaC8"
+      },
+      "artists": [
+        {
+          "name": "Sev7en",
+          "url": "https://open.spotify.com/artist/0XpWrR4q18M7bWY8Qp4jv9"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176861,
+      "name": "Dis moi oui",
+      "url": "https://open.spotify.com/track/6ePE8sZIEQCImJeqaXi7cu"
     },
     {
       "album": {
@@ -1698,7 +1716,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 151093,
       "name": "ELLE NE VEUT QUE",
       "url": "https://open.spotify.com/track/25bJTUy3ByJUqXN3QUhIlj"
@@ -2597,6 +2615,24 @@
     },
     {
       "album": {
+        "name": "In my way",
+        "url": "https://open.spotify.com/album/1hTv6FuoCqToNZWI3lhaDC"
+      },
+      "artists": [
+        {
+          "name": "Gracie Convert",
+          "url": "https://open.spotify.com/artist/0kiZpBpCvMEzvCdFVgsAZN"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178875,
+      "name": "In my way",
+      "url": "https://open.spotify.com/track/5BslHPdJpqtPXQieF0Hxeh"
+    },
+    {
+      "album": {
         "name": "NP2 (DELUXE)",
         "url": "https://open.spotify.com/album/4AINTVUVLkHdHRmN3qJvgs"
       },
@@ -2898,7 +2934,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 174000,
       "name": "Juste une derni\u00e8re fois",
       "url": "https://open.spotify.com/track/1zgpMOoiX4265eNzasafiN"
@@ -3136,6 +3172,28 @@
       "duration_ms": 192973,
       "name": "Laissez-moi",
       "url": "https://open.spotify.com/track/23OElriSAhtF7Y2L4qw2yb"
+    },
+    {
+      "album": {
+        "name": "Larry Hoover",
+        "url": "https://open.spotify.com/album/7zpKSAWCKvdHw5Wu1NLXIO"
+      },
+      "artists": [
+        {
+          "name": "Ladogz",
+          "url": "https://open.spotify.com/artist/0Je5Gj6UNZ5nrOi6SSVSJJ"
+        },
+        {
+          "name": "Alicia.",
+          "url": "https://open.spotify.com/artist/497jP4B8qjwywlQShLt7TU"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132203,
+      "name": "Larry Hoover",
+      "url": "https://open.spotify.com/track/2O0sGz4vtBrmzcOVtaWszI"
     },
     {
       "album": {
@@ -3551,6 +3609,24 @@
     },
     {
       "album": {
+        "name": "LVA",
+        "url": "https://open.spotify.com/album/5i6Zo1VvDwelIUaTRXI1Ie"
+      },
+      "artists": [
+        {
+          "name": "Nu Linh",
+          "url": "https://open.spotify.com/artist/3R0sHWu5AWsvgzjbPqovK1"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154710,
+      "name": "LVA",
+      "url": "https://open.spotify.com/track/2DsP34yb6fajwEVo8NXvYo"
+    },
+    {
+      "album": {
         "name": "L\u00e0 o\u00f9 j\u2019aimerais \u00eatre (Where I Wanna Be) [Acoustic]",
         "url": "https://open.spotify.com/album/28mqWwNSSEhKQ86r2RDF1L"
       },
@@ -3812,7 +3888,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 99428,
       "name": "meen session 3 (les \u00e9toiles)",
       "url": "https://open.spotify.com/track/5J0fyQrl507FmTGE84uaDf"
@@ -4371,6 +4447,24 @@
     },
     {
       "album": {
+        "name": "On verra",
+        "url": "https://open.spotify.com/album/7oMqz0UnFm3hlyloQlPQJx"
+      },
+      "artists": [
+        {
+          "name": "Nka",
+          "url": "https://open.spotify.com/artist/1iuyyjgdZEj54Y1vd5SyKz"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "On verra",
+      "url": "https://open.spotify.com/track/1jOdu8jG3RYcQZgDxOTtd0"
+    },
+    {
+      "album": {
         "name": "ONZE",
         "url": "https://open.spotify.com/album/3L28ldah7yyqnF8H69Pf0K"
       },
@@ -4516,7 +4610,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 135384,
       "name": "Paradis",
       "url": "https://open.spotify.com/track/6Cn7A6RM08DMz7B4P9bPXP"
@@ -5767,6 +5861,28 @@
     },
     {
       "album": {
+        "name": "Situationship (STTS)",
+        "url": "https://open.spotify.com/album/4cYEfc0SbTMiHg51DKtt8f"
+      },
+      "artists": [
+        {
+          "name": "Gol.d",
+          "url": "https://open.spotify.com/artist/1iq9ebpFaCHQ4FbAQWnTtV"
+        },
+        {
+          "name": "Iris Aeria",
+          "url": "https://open.spotify.com/artist/6oe0xpg0qCeA7ZuPHr4Arp"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Situationship (STTS)",
+      "url": "https://open.spotify.com/track/6CbNlvB09OfLbb4Ln1WcTb"
+    },
+    {
+      "album": {
         "name": "HOUSE OF GROOVE",
         "url": "https://open.spotify.com/album/0SAEMNzphsLut3Z5OZlmAo"
       },
@@ -6116,6 +6232,24 @@
       "duration_ms": 165333,
       "name": "TOI QUI VOULAIS PARTIR",
       "url": "https://open.spotify.com/track/43Q1Em5TgITjsqHuuhJq4v"
+    },
+    {
+      "album": {
+        "name": "ANJXLXE",
+        "url": "https://open.spotify.com/album/4aW2uYeatysuq0vCfJgVrK"
+      },
+      "artists": [
+        {
+          "name": "ANJXLXE",
+          "url": "https://open.spotify.com/artist/6zoqIceCJJl2677ANvkmyb"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150280,
+      "name": "Tol\u00e9rance z\u00e9ro",
+      "url": "https://open.spotify.com/track/4auOpoAanS3HYtHU6CwTYN"
     },
     {
       "album": {

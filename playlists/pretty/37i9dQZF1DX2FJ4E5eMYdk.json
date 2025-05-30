@@ -1,6 +1,6 @@
 {
   "description": "groovy.",
-  "num_followers": 183756,
+  "num_followers": 183789,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
@@ -563,6 +563,22 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
+        "name": "Vanishing Shores",
+        "url": "https://open.spotify.com/album/1uUarXMkJvV1R2syV3cYnU"
+      },
+      "artists": [
+        {
+          "name": "Tom West",
+          "url": "https://open.spotify.com/artist/4IszB4IvfBur47pa0bm1sr"
+        }
+      ],
+      "duration_ms": 212725,
+      "name": "Hummingbird",
+      "url": "https://open.spotify.com/track/6mgIfZWip9DpqFD6q2Gf4G"
+    },
+    {
+      "added_at": "2024-07-05 19:49:15",
+      "album": {
         "name": "Do What Feeds Your Soul",
         "url": "https://open.spotify.com/album/1MCMIRmD3RAj9zbMLfdADw"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 155213,
       "name": "Do What Feeds Your Soul",
       "url": "https://open.spotify.com/track/3vgVc48A4Zx2GvBblEMxce"
-    },
-    {
-      "added_at": "2024-07-05 19:49:15",
-      "album": {
-        "name": "Vanishing Shores",
-        "url": "https://open.spotify.com/album/1uUarXMkJvV1R2syV3cYnU"
-      },
-      "artists": [
-        {
-          "name": "Tom West",
-          "url": "https://open.spotify.com/artist/4IszB4IvfBur47pa0bm1sr"
-        }
-      ],
-      "duration_ms": 212725,
-      "name": "Hummingbird",
-      "url": "https://open.spotify.com/track/6mgIfZWip9DpqFD6q2Gf4G"
     },
     {
       "added_at": "2024-07-05 19:49:15",
@@ -899,6 +899,22 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
+        "name": "Cheers",
+        "url": "https://open.spotify.com/album/449AwHLbBwEzRvAqIQr5mB"
+      },
+      "artists": [
+        {
+          "name": "The Wild Reeds",
+          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
+        }
+      ],
+      "duration_ms": 228707,
+      "name": "Lose My Mind",
+      "url": "https://open.spotify.com/track/7djjzziCovlTf0yXGIArWS"
+    },
+    {
+      "added_at": "2024-07-05 19:49:15",
+      "album": {
         "name": "The Atlantic Ocean",
         "url": "https://open.spotify.com/album/2172kXt6Kr0rZigqs3GWKC"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 248791,
       "name": "More Of The Same",
       "url": "https://open.spotify.com/track/1e2LGT07diSwc7UYnK7txi"
-    },
-    {
-      "added_at": "2024-07-05 19:49:15",
-      "album": {
-        "name": "Panther in the Dollhouse",
-        "url": "https://open.spotify.com/album/6uFReUE0X1oqtumrJLdy26"
-      },
-      "artists": [
-        {
-          "name": "Whitehorse",
-          "url": "https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss"
-        }
-      ],
-      "duration_ms": 203319,
-      "name": "Nighthawks",
-      "url": "https://open.spotify.com/track/3eTCd9Vrjl3EwaitvfcmbG"
     }
   ],
   "unique_name": "Psych & Groove",

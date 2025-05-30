@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Alfa sulla cover della playlist pi\u00f9 grande in Italia \ud83c\udfc6",
+  "description": "Elodie sulla cover della playlist pi\u00f9 grande in Italia \ud83c\udfc6",
   "name": "Hot Hits Italia",
   "tracks": [
     {
@@ -316,7 +316,7 @@
       ],
       "date_added": "2025-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 183777,
       "name": "Amarcord",
       "url": "https://open.spotify.com/track/2WiYCsnOxE29r8Y8gV9aVA"
@@ -939,6 +939,28 @@
     },
     {
       "album": {
+        "name": "Che Gusto C'\u00e8 (feat. Tredici Pietro)",
+        "url": "https://open.spotify.com/album/5VidRTp3bTPmlOdq1dLA4T"
+      },
+      "artists": [
+        {
+          "name": "Fabri Fibra",
+          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
+        },
+        {
+          "name": "Tredici Pietro",
+          "url": "https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183520,
+      "name": "Che Gusto C'\u00e8 (feat. Tredici Pietro)",
+      "url": "https://open.spotify.com/track/574A5K67Hj0ZTEKfGsnUpV"
+    },
+    {
+      "album": {
         "name": "CHIAMO IO CHIAMI TU",
         "url": "https://open.spotify.com/album/67CDPNyRvebdAgpdlxcoaS"
       },
@@ -1030,6 +1052,24 @@
       "duration_ms": 175293,
       "name": "COME UN TUONO (feat. Gu\u00e8)",
       "url": "https://open.spotify.com/track/0lXVWzLwDnKB7Ro5p0AJPg"
+    },
+    {
+      "album": {
+        "name": "RANCH",
+        "url": "https://open.spotify.com/album/4Yaw3xvAIJicXibGvmatbs"
+      },
+      "artists": [
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166366,
+      "name": "CONTA SU DI ME",
+      "url": "https://open.spotify.com/track/7HKqAt1GaGbdXKmqhRwcR4"
     },
     {
       "album": {
@@ -2888,7 +2928,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 201016,
       "name": "ON FIRE",
       "url": "https://open.spotify.com/track/3fMv8yD3CR4KuOEddovifJ"
@@ -3465,6 +3505,28 @@
     },
     {
       "album": {
+        "name": "SEXY RAVE (feat. Baby Gang)",
+        "url": "https://open.spotify.com/album/0Rqdxqcqq0wKQISWQwGLT1"
+      },
+      "artists": [
+        {
+          "name": "Fred De Palma",
+          "url": "https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q"
+        },
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140160,
+      "name": "SEXY RAVE (feat. Baby Gang)",
+      "url": "https://open.spotify.com/track/7ue5uvozLbamg0rjS65FeT"
+    },
+    {
+      "album": {
         "name": "SEXY SHOP",
         "url": "https://open.spotify.com/album/3Lf8T7QRFq98I0OELNBh4y"
       },
@@ -3990,7 +4052,7 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 176874,
       "name": "Tutta L'Italia",
       "url": "https://open.spotify.com/track/0h3w9Sr1gToqxA9gIs5O39"

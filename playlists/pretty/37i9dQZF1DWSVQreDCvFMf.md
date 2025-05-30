@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Jenzen Guino
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,020 likes - 107 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,076 likes - 107 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

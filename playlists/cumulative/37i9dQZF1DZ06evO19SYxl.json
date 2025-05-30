@@ -204,6 +204,24 @@
     {
       "album": {
         "name": "Perdidos",
+        "url": "https://open.spotify.com/album/7LqMN0wuOj2BD6wfFjuAIN"
+      },
+      "artists": [
+        {
+          "name": "Tex Tex",
+          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236277,
+      "name": "Artesano de la Construccion",
+      "url": "https://open.spotify.com/track/1kQVH6InNjUsoicAN9aqtH"
+    },
+    {
+      "album": {
+        "name": "Perdidos",
         "url": "https://open.spotify.com/album/28kwRlbn4AFl6VNu4LC87a"
       },
       "artists": [
@@ -214,7 +232,7 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 236277,
       "name": "Artesano de la Construccion",
       "url": "https://open.spotify.com/track/6IUlLJuUiCvqzuR3WWIKfS"
@@ -250,10 +268,46 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 201456,
       "name": "Barrio Pobre",
       "url": "https://open.spotify.com/track/2on3XmXTtMA1dguAkhCzr2"
+    },
+    {
+      "album": {
+        "name": "Perdidos",
+        "url": "https://open.spotify.com/album/7LqMN0wuOj2BD6wfFjuAIN"
+      },
+      "artists": [
+        {
+          "name": "Tex Tex",
+          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201456,
+      "name": "Barrio Pobre",
+      "url": "https://open.spotify.com/track/6GnSgS6gUwDLgTjYTHPTKC"
+    },
+    {
+      "album": {
+        "name": "Perdidos",
+        "url": "https://open.spotify.com/album/7LqMN0wuOj2BD6wfFjuAIN"
+      },
+      "artists": [
+        {
+          "name": "Tex Tex",
+          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188786,
+      "name": "Blues del Borracho",
+      "url": "https://open.spotify.com/track/09Laz5xAi1PJYIMhXima4r"
     },
     {
       "album": {
@@ -268,7 +322,7 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 188786,
       "name": "Blues del Borracho",
       "url": "https://open.spotify.com/track/1rA5JzukQ5DVicpwZ5JxIS"
@@ -398,6 +452,24 @@
       "duration_ms": 237933,
       "name": "Cuando el Amor Acaba",
       "url": "https://open.spotify.com/track/51EJd3jBO8g5Iz5FYWcEIu"
+    },
+    {
+      "album": {
+        "name": "Perdidos",
+        "url": "https://open.spotify.com/album/7LqMN0wuOj2BD6wfFjuAIN"
+      },
+      "artists": [
+        {
+          "name": "Tex Tex",
+          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229093,
+      "name": "Deja en Paz Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/2oeXQzb7ERiQ0UepWK7HEB"
     },
     {
       "album": {
@@ -657,6 +729,24 @@
     },
     {
       "album": {
+        "name": "Super Hits en Concierto, Vol. 1",
+        "url": "https://open.spotify.com/album/77WHq26kEJ0qK9X33GpJPc"
+      },
+      "artists": [
+        {
+          "name": "Tex Tex",
+          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243147,
+      "name": "Guitarra Mexicana - En Vivo",
+      "url": "https://open.spotify.com/track/5pJ65vYTKT3PDJK6bGCE8y"
+    },
+    {
+      "album": {
         "name": "Un Toque Magico",
         "url": "https://open.spotify.com/album/58ozvUHrRppgI8nCqAyCdL"
       },
@@ -722,7 +812,7 @@
       ],
       "date_added": "2024-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 281360,
       "name": "La Niebla",
       "url": "https://open.spotify.com/track/7eK5IAzMYqfsVB4BMK5S4Y"
@@ -1362,7 +1452,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 102217,
       "name": "Vacas",
       "url": "https://open.spotify.com/track/2yhXukrwoHoT2HAFAVFllc"

@@ -1,12 +1,12 @@
 {
   "description": "This is Casting Crowns. The essential tracks, all in one playlist.",
-  "num_followers": 42101,
+  "num_followers": 42114,
   "original_name": "This Is Casting Crowns",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDUAgAAAAADghM1tJKrqY6Mge06yw5Vl",
+  "snapshot_id": "aDZSAAAAAAA4ZT28RbrHsKnXpg8RGRm0",
   "tracks": [
     {
       "added_at": null,
@@ -483,6 +483,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Very Next Thing",
+        "url": "https://open.spotify.com/album/09NNL9Reo4Mfo5tptI6s8S"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 273146,
+      "name": "Loving My Jesus",
+      "url": "https://open.spotify.com/track/0qZXAGI1FPTn0IM7tvyqrJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lifesong",
         "url": "https://open.spotify.com/album/2v95tknJRY8fBHvaNHm6Fc"
       },
@@ -515,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Very Next Thing",
-        "url": "https://open.spotify.com/album/09NNL9Reo4Mfo5tptI6s8S"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 273146,
-      "name": "Loving My Jesus",
-      "url": "https://open.spotify.com/track/0qZXAGI1FPTn0IM7tvyqrJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Healer",
         "url": "https://open.spotify.com/album/7tUX8t3YsmIfYcykcSjwYw"
       },
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
         }
       ],
-      "duration_ms": 241746,
-      "name": "All You've Ever Wanted",
-      "url": "https://open.spotify.com/track/5lSVszuv0PGnfvh2HTWq1k"
+      "duration_ms": 281426,
+      "name": "Broken Together",
+      "url": "https://open.spotify.com/track/2PuvIyN4e2w2i4GIjWCqsB"
     },
     {
       "added_at": null,
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
         }
       ],
-      "duration_ms": 281426,
-      "name": "Broken Together",
-      "url": "https://open.spotify.com/track/2PuvIyN4e2w2i4GIjWCqsB"
+      "duration_ms": 241746,
+      "name": "All You've Ever Wanted",
+      "url": "https://open.spotify.com/track/5lSVszuv0PGnfvh2HTWq1k"
     },
     {
       "added_at": null,

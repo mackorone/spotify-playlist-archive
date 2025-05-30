@@ -4,7 +4,7 @@
 
 > This is Marcos Witt\. The essential tracks, all in one playlist.
 
-97 songs - 7 hr 58 min
+98 songs - 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Renuévame](https://open.spotify.com/track/2wLKFKKiD9s8gArTfwsS5c) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Te Exaltamos](https://open.spotify.com/album/7wCXLga0UCA7SkrCAFXPOM) | 2:43 | 2025-05-13 |  |
 | [Renuévame](https://open.spotify.com/track/0k6MpTbOusOwZVY6QTJ9kQ) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [25 Concierto Conmemorativo \(En Vivo\)](https://open.spotify.com/album/5O2UfFue2c9yfcbMPHHVSe) | 2:44 | 2023-04-02 | 2025-05-13 |
 | [Renuévame](https://open.spotify.com/track/0KLlY8Hfa4NtxfP7X1IHVL) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Lo Mejor de Instrumentales](https://open.spotify.com/album/2W84MBeBF9SHaNhUmfiS1Q) | 3:42 | 2023-12-16 |  |
+| [Renuévame / Tu Amor Por Mi](https://open.spotify.com/track/0iV2iKb7xXppAHh0pDGkCR) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Krystal Guerra Witt](https://open.spotify.com/artist/1WCzAjMYQUbMR5CVZKfYkm), [Elena Witt\-Guerra](https://open.spotify.com/artist/4zESLvdxWtqZP4qbQIO6ka) | [Legado](https://open.spotify.com/album/5nRTZBd8Yrfs9FeIdy8MId) | 3:47 | 2025-05-30 |  |
 | [Sana Nuestra Tierra](https://open.spotify.com/track/6viyvAwhF791gksn4WBvcJ) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Sana Nuestra Tierra](https://open.spotify.com/album/63dZbhvWrC4QotDOWNMwQh) | 6:12 | 2023-04-02 |  |
 | [Sananos](https://open.spotify.com/track/3pf1Pa1b4Vd1KuilOA0CpH) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Sana Nuestra Tierra](https://open.spotify.com/album/63dZbhvWrC4QotDOWNMwQh) | 6:52 | 2023-04-02 |  |
 | [Santo Espíritu](https://open.spotify.com/track/7pTBwEInekrkhZwsbow2Fa) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Ale Fdz](https://open.spotify.com/artist/1m3YfDehEub35DvsmG9gMy) | [Santo Espíritu](https://open.spotify.com/album/1U3WKVZB7o268YPH48OMj7) | 3:49 | 2023-04-30 | 2023-09-16 |
@@ -98,7 +99,7 @@
 | [Tu Mirada](https://open.spotify.com/track/1qpi3Zh2f9mPx5F0SR0xDB) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [25 Concierto Conmemorativo \(En Vivo\)](https://open.spotify.com/album/5O2UfFue2c9yfcbMPHHVSe) | 2:08 | 2023-04-02 |  |
 | [Tu mirada](https://open.spotify.com/track/6wyEkaMW0N2x07sXO4A541) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Lo Mejor de Marcos Witt II](https://open.spotify.com/album/0rkZLwfP6KrpsIWazzQyfU) | 5:39 | 2024-04-19 | 2024-04-20 |
 | [Tu Mirada / Hermoso Eres](https://open.spotify.com/track/4Btcq2CxjuYev1Gjesww8h) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [ECCOS](https://open.spotify.com/artist/6OnDxasjEMPIRrazHkH61l) | [Tu Mirada / Hermoso Eres](https://open.spotify.com/album/68urDv5EM3GMiNWxdTRV63) | 3:54 | 2025-05-25 |  |
-| [Tu Misericordia](https://open.spotify.com/track/62JXNY39mekHoBTxO5gKWr) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Adoremos](https://open.spotify.com/album/2YISvt6LsSIaOFujAQQVkh) | 4:42 | 2024-12-06 |  |
+| [Tu Misericordia](https://open.spotify.com/track/62JXNY39mekHoBTxO5gKWr) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Adoremos](https://open.spotify.com/album/2YISvt6LsSIaOFujAQQVkh) | 4:42 | 2024-12-06 | 2025-05-30 |
 | [Un Millón \- Kelly Spyker](https://open.spotify.com/track/6WWmIrz1sawQoJzZZKjrAJ) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Música Más Vida](https://open.spotify.com/artist/6UhhJKLSxxAPmFQ6j8wY1c) | [Un Millón \(Kelly Spyker\)](https://open.spotify.com/album/0of9ruVLilhQBR0Z5RSxPi) | 3:38 | 2023-04-02 |  |
 | [Viviré \(Salmo 118\)](https://open.spotify.com/track/2AfP1FmE3TZffo4bbgOJIt) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Viviré](https://open.spotify.com/album/67uRZ3X95JEwhbxi7GP5gW) | 4:08 | 2023-04-02 | 2024-02-23 |
 | [Volaré](https://open.spotify.com/track/5EQfr8ZOPOR6BQCEzfphG5) | [T\-Bone](https://open.spotify.com/artist/6h2GxbU7emrTikSWxbMyxd), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Volaré](https://open.spotify.com/album/097s2XywdGjBl8I5NyiJBf) | 5:03 | 2023-04-02 | 2023-06-07 |

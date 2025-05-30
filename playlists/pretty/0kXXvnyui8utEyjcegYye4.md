@@ -1,6 +1,6 @@
 pretty - [cumulative](/playlists/cumulative/0kXXvnyui8utEyjcegYye4.md) - [plain](/playlists/plain/0kXXvnyui8utEyjcegYye4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0kXXvnyui8utEyjcegYye4)
 
-### [driving](https://open.spotify.com/playlist/0kXXvnyui8utEyjcegYye4)
+### [drive.](https://open.spotify.com/playlist/0kXXvnyui8utEyjcegYye4)
 
 > 
 
@@ -323,4 +323,4 @@ pretty - [cumulative](/playlists/cumulative/0kXXvnyui8utEyjcegYye4.md) - [plain]
 | 313 | [Love Story](https://open.spotify.com/track/6nGeLlakfzlBcFdZXteDq7) | [Indila](https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB) | [Mini World](https://open.spotify.com/album/1r7XjAgjwlakmXC2GbPXjH) | 5:16 |
 | 314 | [Lovers](https://open.spotify.com/track/6q8onrzcka32nGVrnWYGBQ) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Lovers](https://open.spotify.com/album/5kopWecrOCWIxpgpukVfct) | 3:35 |
 
-Snapshot ID: `AAADX1bu42GsBzs4tLni2kiX9zeXRZTN`
+Snapshot ID: `AAADYWvsNPdNbU87RWxbkNkSs7y4KFHi`

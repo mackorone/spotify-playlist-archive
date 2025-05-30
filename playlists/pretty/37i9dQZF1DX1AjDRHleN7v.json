@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 379107,
+  "num_followers": 379187,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
@@ -923,6 +923,22 @@
     {
       "added_at": "2025-05-16 03:01:12",
       "album": {
+        "name": "Santa Terra",
+        "url": "https://open.spotify.com/album/75Z8oFAjxXrGABH4URez3B"
+      },
+      "artists": [
+        {
+          "name": "Qback",
+          "url": "https://open.spotify.com/artist/6Uvbaff54Nvzomm1kQLX8q"
+        }
+      ],
+      "duration_ms": 276509,
+      "name": "Santa Terra",
+      "url": "https://open.spotify.com/track/0yjWotYZzx2xrW2SxTZyeG"
+    },
+    {
+      "added_at": "2025-05-16 03:01:12",
+      "album": {
         "name": "Revolvendo as Raizes",
         "url": "https://open.spotify.com/album/1xNlNHe5bXk8ZC4rxoZdvf"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 230896,
       "name": "Bora Chamegar",
       "url": "https://open.spotify.com/track/0aCRuXTStPeNGRU3cpmVZa"
-    },
-    {
-      "added_at": "2025-05-16 03:01:12",
-      "album": {
-        "name": "Santa Terra",
-        "url": "https://open.spotify.com/album/75Z8oFAjxXrGABH4URez3B"
-      },
-      "artists": [
-        {
-          "name": "Qback",
-          "url": "https://open.spotify.com/artist/6Uvbaff54Nvzomm1kQLX8q"
-        }
-      ],
-      "duration_ms": 276509,
-      "name": "Santa Terra",
-      "url": "https://open.spotify.com/track/0yjWotYZzx2xrW2SxTZyeG"
     },
     {
       "added_at": "2025-05-16 03:01:12",

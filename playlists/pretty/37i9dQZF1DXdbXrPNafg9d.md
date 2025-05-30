@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Wednesday
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,314,377 likes - 200 songs - 12 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,314,317 likes - 200 songs - 12 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 199 | [Think I Pass](https://open.spotify.com/track/1M1Jn1lvGAA0n6GEj4hTvQ) | [BRONCHO](https://open.spotify.com/artist/6Lll1MPPak4m4vZKuJB264) | [Think I Pass](https://open.spotify.com/album/7nZeEwyNnGZCBTyUWKWjoj) | 3:12 |
 | 200 | [Leap Year](https://open.spotify.com/track/5G6sgBzBCmZKeCg0R2x67t) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Leap Year](https://open.spotify.com/album/2qiB8YSEJw27QY68Pyx1uO) | 5:45 |
 
-Snapshot ID: `aDDrmgAAAACxCq3PEZdg5YNmlleLWXLO`
+Snapshot ID: `aDDrmgAAAADpSCOHK62nqGQXabC9PQwa`

@@ -4,10 +4,11 @@
 
 > Listen to the best in AfroTech that was born in Southern Africa, as it travels the world's dancefloors.
 
-261 songs - 1 day 3 hr 46 min
+263 songs - 1 day 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [2G2](https://open.spotify.com/track/4vqRQoSL3EPs5Ck4vcklvF) | [Argento Dust](https://open.spotify.com/artist/4k5ekCq3lqokDeY3JifNjt), [Bun Xapa](https://open.spotify.com/artist/0tD4QlKohHKqpuPZKELnwZ) | [2G2 EP](https://open.spotify.com/album/2zpQ8uHxH9O2vYQIZb300I) | 7:29 | 2025-05-29 |  |
 | [4AM](https://open.spotify.com/track/64LIUUtjRyjmvGymR0QYEF) | [TNS](https://open.spotify.com/artist/5uAbOIIAk6nHfy7gikjmYy), [Zaba](https://open.spotify.com/artist/0ZxyWnlmVBuHYzYgyDT24H) | [God First](https://open.spotify.com/album/4SWN2MuEeLqPMeatYXhffK) | 5:50 | 2023-01-19 | 2023-03-18 |
 | [Abalaleli](https://open.spotify.com/track/2HfjIixRwnaOd6m3BFxl2V) | [DJ LESOUL](https://open.spotify.com/artist/5C6dZk6xmSCgrYWjje5zPm), [NayB](https://open.spotify.com/artist/5ZVZt7lQUWeCxCcrJNByr1), [FunkTone](https://open.spotify.com/artist/5e20FnH1vyHXZId8SMW4H8) | [Soul Awakening](https://open.spotify.com/album/6xGXv8qccrPr6GSKt6q7wG) | 6:06 | 2022-11-10 | 2024-01-26 |
 | [Abangoma London Mix \- Black Motion X Osaze](https://open.spotify.com/track/754Uw6qAYu7N5cgJAVAi1j) | [Madala Kunene](https://open.spotify.com/artist/1X3SghwLJ3KExhUsrZhM2S), [Busi Mhlongo](https://open.spotify.com/artist/4QlgeNz8Uf8xF0f0LNjCbf), [Osaze](https://open.spotify.com/artist/6ZWL7h66dJRqstIFa3OO0E), [Black Motion](https://open.spotify.com/artist/4x6n41nYGT6O61pSfgW4z7) | [Remixes 2023 Reel One](https://open.spotify.com/album/6sKtL2YJcuQVo2OMEY7ZzD) | 6:02 | 2023-10-30 |  |
@@ -60,6 +61,7 @@
 | [Danger Zone](https://open.spotify.com/track/7A6YJDDaVuO03sl8Y7YFxD) | [ZVRI](https://open.spotify.com/artist/1or4sxcSSFThb2p8VuK8Sn), [Kususa](https://open.spotify.com/artist/4UcrwfAI09CLZ7aBXMiucJ), [DJ Tira](https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn) | [Medusa](https://open.spotify.com/album/1DGoKk76hCDu3TU9LnoPsS) | 7:23 | 2022-12-02 | 2023-03-18 |
 | [Dark Xmas](https://open.spotify.com/track/6exA8bAr3tzA3hNjFjeJMx) | [Wes Lee](https://open.spotify.com/artist/5jX2NDv1nyXv0FCEP3gqwR) | [The End Is Near EP](https://open.spotify.com/album/6h5FFPtEfRIrkzG3lujb6J) | 4:27 | 2024-05-31 | 2025-01-24 |
 | [Don't Give Up](https://open.spotify.com/track/4HeWkyuI8CoNMbRibOIj7c) | [Afro Swanky](https://open.spotify.com/artist/2WVyfkBgNUZZ3PBZb8DY7x) | [Jozi II](https://open.spotify.com/album/55IXmqj8VWQ7nnSGzE4rcd) | 6:00 | 2024-03-15 | 2025-01-24 |
+| [Drum Hit](https://open.spotify.com/track/7HszQtWScQdLtk40jiidCk) | [Argento Dust](https://open.spotify.com/artist/4k5ekCq3lqokDeY3JifNjt), [Pierre Johnson](https://open.spotify.com/artist/2CUjvq6GOAGAMyN3zDyfXz) | [2G2 EP](https://open.spotify.com/album/2zpQ8uHxH9O2vYQIZb300I) | 7:47 | 2025-05-29 |  |
 | [Electrolog](https://open.spotify.com/track/6IViguLpH79sxMUPO9RGNT) | [Hyenah](https://open.spotify.com/artist/1YUlJfwsUoerJd3mCK6Ccu), [Kasango](https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r) | [Electrolog](https://open.spotify.com/album/5iDLYL2GCUKzFk4Tj8IhtY) | 6:25 | 2025-02-06 |  |
 | [Erro Pt II](https://open.spotify.com/track/1KLQ4j2Krqvebva7FUnBv3) | [BADBOX](https://open.spotify.com/artist/1rfV7OLiCDOYcAacFcJ6Kf), [Afrokillerz](https://open.spotify.com/artist/6r7b5Y6q3CuBgwVF5NmDSb) | [Erro PT II](https://open.spotify.com/album/6fLd2DiQaUuxDaQb1STnJE) | 6:21 | 2025-01-13 |  |
 | [Essensie](https://open.spotify.com/track/3HaBzrILKCnvjmabxB7LnT) | [ReMMusic](https://open.spotify.com/artist/6Q0XwlckSXlijQgDF9qe44) | [Essensie](https://open.spotify.com/album/6owsRMBu1McGPi3LP3ZMFX) | 5:48 | 2024-05-10 | 2024-06-01 |

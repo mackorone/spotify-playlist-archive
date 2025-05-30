@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise. Photo : Ridsa",
+  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise. Photo: Marine",
   "name": "Fresh Vari\u00e9t\u00e9",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 194840,
       "name": "100K \u00e0 l'heure",
       "url": "https://open.spotify.com/track/0ZgvkcqpfrjlU3wBQduEwT"
@@ -294,7 +294,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 160240,
       "name": "Balance",
       "url": "https://open.spotify.com/track/5NozBRrGayj3tk6XefEDK0"
@@ -540,6 +540,24 @@
       "duration_ms": 165986,
       "name": "Chaque seconde (feat. M. Pokora)",
       "url": "https://open.spotify.com/track/1pnzctM9itTsKupaQWDQwe"
+    },
+    {
+      "album": {
+        "name": "Chez moi",
+        "url": "https://open.spotify.com/album/6sclH7FYoU0OW02DRKmQbR"
+      },
+      "artists": [
+        {
+          "name": "Alien",
+          "url": "https://open.spotify.com/artist/5Y80Kn16d4undgMzx4SaYS"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161016,
+      "name": "Chez moi",
+      "url": "https://open.spotify.com/track/09WGJARXs73XVQVWPGf5G1"
     },
     {
       "album": {
@@ -1135,6 +1153,24 @@
     },
     {
       "album": {
+        "name": "EN BAHL\u00c9 PAR TOI",
+        "url": "https://open.spotify.com/album/30Lx2siG7kIw7W6KWe5zCm"
+      },
+      "artists": [
+        {
+          "name": "Shikki",
+          "url": "https://open.spotify.com/artist/6TBo7rPKniZAbrtupt3B9U"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186866,
+      "name": "EN BAHL\u00c9 PAR TOI",
+      "url": "https://open.spotify.com/track/41Dpqw78rln05OLUPHz05i"
+    },
+    {
+      "album": {
         "name": "En \u00e9quipe",
         "url": "https://open.spotify.com/album/5zIcjorc0ObGwvSoUl7p4a"
       },
@@ -1374,6 +1410,24 @@
       "duration_ms": 208201,
       "name": "Fleurs Fan\u00e9es",
       "url": "https://open.spotify.com/track/49T0ep6z8zQG1m4iJfQPx3"
+    },
+    {
+      "album": {
+        "name": "Fou",
+        "url": "https://open.spotify.com/album/51tbf3pT4437nEvVA9T9dE"
+      },
+      "artists": [
+        {
+          "name": "Ulysse",
+          "url": "https://open.spotify.com/artist/0IHkcxD79oKnHexJ1D7fuQ"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173293,
+      "name": "Fou",
+      "url": "https://open.spotify.com/track/3k9ls5eHI51YbFcYTAKUfQ"
     },
     {
       "album": {
@@ -1828,7 +1882,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 155589,
       "name": "Je ne pense qu'\u00e0 \u00e7a",
       "url": "https://open.spotify.com/track/3C24V2ZTjHQNo7frG1hRiM"
@@ -2773,6 +2827,28 @@
     },
     {
       "album": {
+        "name": "L\u00c0-BAS",
+        "url": "https://open.spotify.com/album/7A24KYpWf2LCNO6jJdIU0W"
+      },
+      "artists": [
+        {
+          "name": "NOVA",
+          "url": "https://open.spotify.com/artist/1GSrC8rlBRJlE44AnF0DiX"
+        },
+        {
+          "name": "Ilyana",
+          "url": "https://open.spotify.com/artist/20hkYBK2KSk0PoyFlZkJ1D"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211616,
+      "name": "L\u00c0-BAS",
+      "url": "https://open.spotify.com/track/6nlb4zxOQGytBC7RrPADK9"
+    },
+    {
+      "album": {
         "name": "L\u00e9a",
         "url": "https://open.spotify.com/album/2xewKyVhEUNYWYsz9CGQZs"
       },
@@ -3456,7 +3532,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 154659,
       "name": "Pas banale",
       "url": "https://open.spotify.com/track/6VpQQAEE1RvA1lMrzdMYMM"
@@ -4110,6 +4186,46 @@
       "duration_ms": 159377,
       "name": "soleil",
       "url": "https://open.spotify.com/track/0rhW4zd0Be2ZkqxGbXJtVK"
+    },
+    {
+      "album": {
+        "name": "Soleil Bleu",
+        "url": "https://open.spotify.com/album/2WxTQ8aChxbPZB6RphhXtA"
+      },
+      "artists": [
+        {
+          "name": "Bleu Soleil",
+          "url": "https://open.spotify.com/artist/2HSmynRDUgRfom3fditkjf"
+        },
+        {
+          "name": "LUIZA",
+          "url": "https://open.spotify.com/artist/3K5sYlHk7RZimjYhUWej8D"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "Soleil Bleu",
+      "url": "https://open.spotify.com/track/7xWvRVssTTECvWCDNgCzSH"
+    },
+    {
+      "album": {
+        "name": "Song for You",
+        "url": "https://open.spotify.com/album/5t7mqCakaB2KmhWVoeAbD4"
+      },
+      "artists": [
+        {
+          "name": "Elo\u00efz",
+          "url": "https://open.spotify.com/artist/1J7b2Snol73xTmYILnCk1t"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176446,
+      "name": "Song for You",
+      "url": "https://open.spotify.com/track/3DvIo6x1dNhznOzvoO0dfh"
     },
     {
       "album": {
@@ -4802,7 +4918,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 165869,
       "name": "V\u00e9rit\u00e9",
       "url": "https://open.spotify.com/track/6n0A1PveCnOugPtdWRkbeC"
@@ -4900,7 +5016,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 157894,
       "name": "\u00c0 tes c\u00f4t\u00e9s",
       "url": "https://open.spotify.com/track/0wz1wXKDBtlGhfRNpnLtc1"

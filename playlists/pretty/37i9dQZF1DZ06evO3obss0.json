@@ -1,12 +1,12 @@
 {
   "description": "This is RAYE. The essential tracks, all in one playlist.",
-  "num_followers": 114861,
+  "num_followers": 114905,
   "original_name": "This Is RAYE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDUAgAAAAAC+3319D6FNY/ArVtIchMh4",
+  "snapshot_id": "aDZSAAAAAADMpsfv1RzfvtIHq0Uww+4a",
   "tracks": [
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Euphoric Sad Songs",
-        "url": "https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 242066,
-      "name": "All Dressed Up",
-      "url": "https://open.spotify.com/track/1HIwkl1QwoGeJZ8nJYE25e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Number 1 Angel",
         "url": "https://open.spotify.com/album/37rI2gAtakAmSFtbIE9THq"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 238749,
       "name": "Dreamer - Compound Version",
       "url": "https://open.spotify.com/track/7Coulic7di20MlW1bEytkQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Euphoric Sad Songs",
+        "url": "https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 242066,
+      "name": "All Dressed Up",
+      "url": "https://open.spotify.com/track/1HIwkl1QwoGeJZ8nJYE25e"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Euphoric Sad Songs",
-        "url": "https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 203586,
-      "name": "Walk On By",
-      "url": "https://open.spotify.com/track/0YACnkfd4NWuiPgjXVJwOD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Decline",
         "url": "https://open.spotify.com/album/17Fwkmg4UJ9ORmuOfqb1ud"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 188172,
       "name": "Decline",
       "url": "https://open.spotify.com/track/4qCc2AVDeJYIpAHi9AX1N0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Euphoric Sad Songs",
+        "url": "https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 203586,
+      "name": "Walk On By",
+      "url": "https://open.spotify.com/track/0YACnkfd4NWuiPgjXVJwOD"
     },
     {
       "added_at": null,

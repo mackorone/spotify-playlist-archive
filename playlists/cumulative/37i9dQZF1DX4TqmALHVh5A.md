@@ -2,9 +2,9 @@
 
 ### [Courant Alternatif](https://open.spotify.com/playlist/37i9dQZF1DX4TqmALHVh5A)
 
-> La scène francophone branchée sur courant alternatif\. Photo : Axel Bauer & Brigitte Fontaine
+> La scène francophone branchée sur courant alternatif\. Photo : Sam Sauvage
 
-301 songs - 16 hr 10 min
+302 songs - 16 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Aspiration](https://open.spotify.com/track/7IXvqtnsBbJM7IEDQetR9b) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [La symphonie des éclairs](https://open.spotify.com/album/1Vg18m8cCSPsTrGSoe0gpH) | 3:02 | 2023-09-28 | 2023-11-08 |
 | [Attitude](https://open.spotify.com/track/7x5V1JR3yO7QwpwuXOYQLC) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [Attitude](https://open.spotify.com/album/7qYCBUiH3uVK3gNpusRZiF) | 2:29 | 2023-11-09 | 2024-06-01 |
 | [Au Top](https://open.spotify.com/track/65QYWkPPVLsFj0pFGoLSSO) | [ascendant vierge](https://open.spotify.com/artist/3IMOGrM63og03I4jMYo35G) | [Une Nouvelle Chance](https://open.spotify.com/album/2y0CqT7wxeJ4xXGEt9OpEl) | 2:59 | 2023-09-28 | 2023-10-20 |
+| [Aïe aïe aïe](https://open.spotify.com/track/0nKbGOZWRHmgsEKo4tX6ZK) | [Odezenne](https://open.spotify.com/artist/1FiWBzw15KbR9amOb1Xnxp) | [Aïe aïe aïe](https://open.spotify.com/album/1Nm9pTliKqoSXupzwlyyFd) | 2:45 | 2025-05-29 |  |
 | [Baby Brown \(Short Edit\)](https://open.spotify.com/track/5mhEeSJUAm9KpjDF6wwvKk) | [VoX LoW](https://open.spotify.com/artist/7wdA5zANepbxnHVkUNQMg9) | [Singles and Rarities](https://open.spotify.com/album/22VfnIdacX3d1GNA7771yE) | 5:59 | 2024-10-10 | 2025-03-07 |
 | [babyBB](https://open.spotify.com/track/0W701OYHjDCdIs8G3LR5CJ) | [Ofé](https://open.spotify.com/artist/6BStglzFvs6FDKMzHbZzV0) | [babyBB](https://open.spotify.com/album/3WMUtz1selQxoqGxCHbh7j) | 3:19 | 2024-03-07 | 2024-04-19 |
 | [babyBB](https://open.spotify.com/track/3QdDaachbgJdrWgAXfYBVZ) | [Ofé](https://open.spotify.com/artist/6BStglzFvs6FDKMzHbZzV0) | [babyBB \[ARCHIVE\]](https://open.spotify.com/album/7cNKxHYLzPobRtCsnXzjRD) | 3:20 | 2024-02-29 | 2024-10-11 |
@@ -285,7 +286,7 @@
 | [tu t'es laissé aller](https://open.spotify.com/track/14rgdz5CIyBtRaAc0tHN0I) | [L'enfant](https://open.spotify.com/artist/5imgjumuHUmnzZF3vOEmso) | [trop de choses à prouver](https://open.spotify.com/album/3hzGGpG5isbfTez00TFkcG) | 2:39 | 2024-01-04 | 2024-06-28 |
 | [tue moi](https://open.spotify.com/track/27KaAt4Iwwd8xhxfquYb68) | [Liv del Estal](https://open.spotify.com/artist/2QFqSnoWpKrh7zmNrFQltY) | [tue moi](https://open.spotify.com/album/1YsLRmysP3u2kWbXqpzbN5) | 3:22 | 2025-02-06 | 2025-04-11 |
 | [Turbofée](https://open.spotify.com/track/40XQBEMdfMicRK35jlnKJK) | [Walter Astral](https://open.spotify.com/artist/70OFPH4Nv3kFhCgUU9oGqC) | [Éclipse](https://open.spotify.com/album/4pPRjgXmc6LuO7hR2fikA9) | 3:48 | 2025-01-23 | 2025-05-23 |
-| [Uber](https://open.spotify.com/track/6USkdW0owyHr3O7HQzXAr5) | [Mr GISCARD](https://open.spotify.com/artist/4IEu5JcADp9QoG7qji7tZj) | [Uber](https://open.spotify.com/album/42ShUt5SIqvXrVi2O40606) | 1:38 | 2025-03-13 |  |
+| [Uber](https://open.spotify.com/track/6USkdW0owyHr3O7HQzXAr5) | [Mr GISCARD](https://open.spotify.com/artist/4IEu5JcADp9QoG7qji7tZj) | [Uber](https://open.spotify.com/album/42ShUt5SIqvXrVi2O40606) | 1:38 | 2025-03-13 | 2025-05-30 |
 | [Un Autre Nom](https://open.spotify.com/track/2Sftxg76IUpWf3aSH7prbl) | [Allo Christine](https://open.spotify.com/artist/0ycuoXwPh9pQpDebMV5Wg3) | [Un Autre Nom](https://open.spotify.com/album/1SIurxrtkXjXzxfuj2awk8) | 3:51 | 2024-09-05 | 2024-11-29 |
 | [Une dernière fois](https://open.spotify.com/track/3FWo0LZdY98cNzlJ3vkBPO) | [Jean Castel](https://open.spotify.com/artist/1mNalEbDGiL0rHTGwagfr1) | [Bella Vita](https://open.spotify.com/album/1CUDj03p5bIJMthHyrqpYZ) | 3:07 | 2023-09-28 | 2023-10-20 |
 | [Vampire](https://open.spotify.com/track/1NXaC1bu1eufFLpkqog2zw) | [St Graal](https://open.spotify.com/artist/7Kgv8CorcAKsG4of90vA5I) | [Le cœur qui cogne](https://open.spotify.com/album/4yQrejKybw0gsJ7W6k0Vmw) | 3:33 | 2023-09-28 | 2023-10-20 |
@@ -307,7 +308,7 @@
 | [À l'aide](https://open.spotify.com/track/0RQFdPFD93bKg6rKsYXwpA) | [Nerlov](https://open.spotify.com/artist/0JFtb1jFwdVNr8MycYK2BI) | [À l'aide](https://open.spotify.com/album/3eDQVsbI2raoTUtfKHwdxS) | 3:05 | 2023-09-28 | 2023-10-20 |
 | [à travers les buildings](https://open.spotify.com/track/30Vjkb3uguTKxSuXu9jVWb) | [Liv del Estal](https://open.spotify.com/artist/2QFqSnoWpKrh7zmNrFQltY) | [à travers les buildings](https://open.spotify.com/album/4PWWTdHvDhxj9uq2s9ttPK) | 3:38 | 2025-05-15 |  |
 | [Ça m'a tellement manqué](https://open.spotify.com/track/5hGQ4fuHjsLtC3n1fIq7KV) | [Balladur](https://open.spotify.com/artist/1D1qXaxaiLiQi8HCrFxg50) | [Pourquoi certains arbres sont si grands ?](https://open.spotify.com/album/1R6oma6d9RcC0mu4B5ouiS) | 4:54 | 2023-10-05 | 2024-01-05 |
-| [ça me rassure](https://open.spotify.com/track/6xSWX4tzzUfj2aHvdRQyYQ) | [Enflure](https://open.spotify.com/artist/6LxABfuQ7vjhudTlsxLftm), [Neniu](https://open.spotify.com/artist/27JvDfZUHLn7JVt8pOJs1I) | [ça me rassure](https://open.spotify.com/album/5blfuQ2LsU9lUAuIjDjxIl) | 3:01 | 2025-01-30 |  |
+| [ça me rassure](https://open.spotify.com/track/6xSWX4tzzUfj2aHvdRQyYQ) | [Enflure](https://open.spotify.com/artist/6LxABfuQ7vjhudTlsxLftm), [Neniu](https://open.spotify.com/artist/27JvDfZUHLn7JVt8pOJs1I) | [ça me rassure](https://open.spotify.com/album/5blfuQ2LsU9lUAuIjDjxIl) | 3:01 | 2025-01-30 | 2025-05-30 |
 | [Équipe](https://open.spotify.com/track/4qmPxoru0whIW8roDQBAmf) | [TERRIER](https://open.spotify.com/artist/3GdYpfWMn7epxH2sHheonJ) | [Équipe](https://open.spotify.com/album/1I81vxPxnVlukTv4lrEmg9) | 3:00 | 2024-04-18 | 2024-05-17 |
 
 \*This playlist was first scraped on 2023-09-29. Prior content cannot be recovered.

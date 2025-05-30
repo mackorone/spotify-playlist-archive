@@ -4,7 +4,7 @@
 
 > Meet the future of music around the world\. Cover: MEOVV.
 
-2,010 songs - 4 day 12 hr 41 min
+2,011 songs - 4 day 12 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -433,7 +433,7 @@
 | [Diretoria](https://open.spotify.com/track/64Clca1w9XxHsPstad5aCX) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Pizzol](https://open.spotify.com/artist/1LvxqCO8GOAKkDzDOXfrAK) | [Diretoria](https://open.spotify.com/album/062ycDqIDtT21UFyKlHDvO) | 3:26 | 2022-04-07 | 2022-04-14 |
 | [Dirimu Yang Dulu](https://open.spotify.com/track/4NTJKqpoAlTG3RcPB3y4C7) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Dirimu Yang Dulu](https://open.spotify.com/album/1XwDxY39rQn75hkx763Kri) | 4:00 | 2024-11-29 | 2025-02-08 |
 | [Dis\-moi](https://open.spotify.com/track/5MMkgucRpQfKulEXrNk9Yc) | [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI) | [Dis\-moi](https://open.spotify.com/album/3M5NoWmlCmualCFWxRxm84) | 2:55 | 2022-06-29 | 2022-08-02 |
-| [Disappear](https://open.spotify.com/track/4PDQYHp5YzHFcfoxDMIDPY) | [White Chorus](https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc) | [FASTFOOD](https://open.spotify.com/album/3YTs3UdJUkNStTevXRfGWu) | 2:15 | 2025-04-18 |  |
+| [Disappear](https://open.spotify.com/track/4PDQYHp5YzHFcfoxDMIDPY) | [White Chorus](https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc) | [FASTFOOD](https://open.spotify.com/album/3YTs3UdJUkNStTevXRfGWu) | 2:15 | 2025-04-18 | 2025-05-30 |
 | [Discord\-disco](https://open.spotify.com/track/5O1gmDEnjVid2kElRz1Hy2) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [Discord\-disco](https://open.spotify.com/album/6GdulvAtvSJiXDJjtHenzk) | 3:17 | 2024-01-12 | 2024-05-18 |
 | [Discothèque](https://open.spotify.com/track/4yf1vbwYCGWzmtc132NQG0) | [Janie](https://open.spotify.com/artist/2WSFLb1izcqFnU9KakhCnU) | [Discothèque](https://open.spotify.com/album/59kHLYLwV4ler6eee45BXq) | 2:57 | 2022-03-24 | 2022-08-02 |
 | [Discothèque Inside My Head](https://open.spotify.com/track/7vytqQKZBdWwpfA3aYPRGJ) | [Telenova](https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq) | [Discothèque Inside My Head](https://open.spotify.com/album/7f7H6iXK3osVKuBxLG7lpA) | 3:34 | 2024-07-05 | 2025-01-11 |
@@ -1071,6 +1071,7 @@
 | [Monster](https://open.spotify.com/track/6w67kek3AnRI83HMnDWxpB) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Monster](https://open.spotify.com/album/3m9wXZj0Je2axtnF0fXNYy) | 2:54 | 2023-10-27 | 2024-01-20 |
 | [Monstres](https://open.spotify.com/track/3YKiwttaOxs8As0Ttp8yzs) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [Monstres](https://open.spotify.com/album/1YwDFgQZtPg2lmFY1bfvEq) | 3:48 | 2022-11-25 | 2023-01-28 |
 | [Mood \(feat\. BNXN\)](https://open.spotify.com/track/6jdTkoEaer7XNGSblczoSu) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Made In Lagos: Deluxe Edition](https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD) | 3:29 | 2022-08-01 | 2022-09-16 |
+| [MOOSE](https://open.spotify.com/track/7dIa067cbLbIkUr5BsEqNK) | [Sherifflazone](https://open.spotify.com/artist/3LkkxNCsK47Af8vXoIVG0L), [Skino](https://open.spotify.com/artist/1mekq0jjS5Dq1GQZ3AHux8) | [DMVP EXTEND](https://open.spotify.com/album/6tTgq7ROrGdRaHNorjnDfP) | 2:30 | 2025-05-23 |  |
 | [Mortal pra trás!](https://open.spotify.com/track/3Hk0otwsBfoQ3kIZcOJCfW) | [Xamuel](https://open.spotify.com/artist/62T0lHxZPLwEo96o1cgBoC), [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l), [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5) | [Mortal pra trás!](https://open.spotify.com/album/0MxPITt7zk0AVwf3iXyLQz) | 2:41 | 2024-04-19 | 2024-05-25 |
 | [Moschino](https://open.spotify.com/track/2TOXwgZo66czJlgbY8cnAG) | [Valentina](https://open.spotify.com/artist/3ins7Wpq5xVFJi8wZdBAFI) | [Moschino](https://open.spotify.com/album/4i9gzbR2drDJXDCgeCDlMS) | 2:35 | 2022-03-03 | 2022-03-05 |
 | [MOT NGUOI VI EM](https://open.spotify.com/track/6lmJXxTcLTe6bdgwSfTqhO) | [WEAN](https://open.spotify.com/artist/30eFAXoU2kTjJPf2cq80B8) | [MOT NGUOI VI EM](https://open.spotify.com/album/4RdYWBn5Vw5SOYH0A30v1u) | 3:30 | 2022-02-03 | 2022-12-15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover: Aly & AJ
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,654 likes - 56 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,669 likes - 56 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 10 | [Relationships](https://open.spotify.com/track/22Ui43i51sAALwtapObKmQ) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Relationships](https://open.spotify.com/album/4IveZaLBOjYALIg00gMVEK) | 3:22 |
 | 11 | [ROMEO](https://open.spotify.com/track/5KloY4dqqARqRPavfyRmRE) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [ROMEO](https://open.spotify.com/album/7mRkuJO3wFrp1CKKVPsodh) | 3:10 |
 | 12 | [Im So ATL](https://open.spotify.com/track/6B3evHyQCMysT7Qa2gEu3A) | [Bankroll Ni](https://open.spotify.com/artist/6557ikOFsjiDmV7gjHYuiD) | [Im So ATL](https://open.spotify.com/album/4bcvWXBjMb02i99YXUJR4z) | 2:04 |
-| 13 | [EROTIKA](https://open.spotify.com/track/5wMwgx90OnF7xNtvYcuxFR) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [EROTIKA](https://open.spotify.com/album/47lCWsxnSeMLoCZ67BYULU) | 2:45 |
-| 14 | [Somewhere Over Laredo](https://open.spotify.com/track/0aGIy8kll4HYDnNTDlf2vU) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Somewhere Over Laredo](https://open.spotify.com/album/7AM3OzfWrmxHJ5xkWSEEre) | 3:46 |
+| 13 | [Somewhere Over Laredo](https://open.spotify.com/track/0aGIy8kll4HYDnNTDlf2vU) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Somewhere Over Laredo](https://open.spotify.com/album/7AM3OzfWrmxHJ5xkWSEEre) | 3:46 |
+| 14 | [EROTIKA](https://open.spotify.com/track/5wMwgx90OnF7xNtvYcuxFR) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [EROTIKA](https://open.spotify.com/album/47lCWsxnSeMLoCZ67BYULU) | 2:45 |
 | 15 | [still love you \(todavía\)](https://open.spotify.com/track/4rYUOu5vQ8pjBCYZL24Gfx) | [The Tulips](https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50) | [still love you \(todavía\)](https://open.spotify.com/album/70DlKk4QDj2NdYnB1BL5P3) | 2:32 |
 | 16 | [Down to be wrong](https://open.spotify.com/track/2d18juMmmN1KwjFtfEj0FP) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Down to be wrong](https://open.spotify.com/album/4C5577NRnfQm2EpHvb17dW) | 4:09 |
 | 17 | [Picture Window](https://open.spotify.com/track/02olsPYJypEE0IyuaGS4K4) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [For Melancholy Brunettes \(& sad women\)](https://open.spotify.com/album/4qqdOkr3Ff3kN8GxoxvRES) | 2:58 |
@@ -35,18 +35,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 25 | [Savannah](https://open.spotify.com/track/0tjnfbTtCONUoMqMJmY1vP) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Savannah](https://open.spotify.com/album/06RBvB1oS78HYZ6n0zRLwz) | 3:24 |
 | 26 | [I Look Good](https://open.spotify.com/track/2nO5YCEAQLPYKLbza7N64Z) | [Jackie Hollander](https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ), [Lizzy Land](https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux) | [I Look Good](https://open.spotify.com/album/538gE7qZ8YA2vZeYO8jO36) | 2:44 |
 | 27 | [The Fence](https://open.spotify.com/track/0Bv3eHVIbbkC5doyt7RKfP) | [Emily Ann Roberts](https://open.spotify.com/artist/4ZuggB1YawAAZOBL4pI9J8) | [The Fence](https://open.spotify.com/album/03jHOBiVvsum4Kjt4vKZXB) | 3:00 |
-| 28 | [Honest Conversation](https://open.spotify.com/track/3BntkfnX7RdZTJSc6E04mC) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC) | [Honest Conversation](https://open.spotify.com/album/1YDRExeN337XGyGfColhjx) | 3:55 |
-| 29 | [Unbecoming](https://open.spotify.com/track/4i8qtmA24GECXY98t8reqM) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Unbecoming](https://open.spotify.com/album/3O17GWIWMvwHsAlXtJyWG0) | 2:48 |
-| 30 | [Pity Party](https://open.spotify.com/track/5D4pxNBwIXBDaFYWFfia0r) | [Lydia Night](https://open.spotify.com/artist/7zPPRI5YRGj8bPYBmtIy4l) | [Pity Party](https://open.spotify.com/album/7kUXbGwQwpbgQV9obq7yGd) | 3:17 |
-| 31 | [Cowboy Sh!t](https://open.spotify.com/track/6JtXOrme67AbN3NAPNXpBs) | [Karley Scott Collins](https://open.spotify.com/artist/3bJlfqqO9pIrMvDuvvnGaF) | [Cowboy Sh!t](https://open.spotify.com/album/2OLie3YvtvLUleahxOyruz) | 2:34 |
+| 28 | [Cowboy Sh!t](https://open.spotify.com/track/6JtXOrme67AbN3NAPNXpBs) | [Karley Scott Collins](https://open.spotify.com/artist/3bJlfqqO9pIrMvDuvvnGaF) | [Cowboy Sh!t](https://open.spotify.com/album/2OLie3YvtvLUleahxOyruz) | 2:34 |
+| 29 | [Honest Conversation](https://open.spotify.com/track/3BntkfnX7RdZTJSc6E04mC) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC) | [Honest Conversation](https://open.spotify.com/album/1YDRExeN337XGyGfColhjx) | 3:55 |
+| 30 | [Unbecoming](https://open.spotify.com/track/4i8qtmA24GECXY98t8reqM) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Unbecoming](https://open.spotify.com/album/3O17GWIWMvwHsAlXtJyWG0) | 2:48 |
+| 31 | [Pity Party](https://open.spotify.com/track/5D4pxNBwIXBDaFYWFfia0r) | [Lydia Night](https://open.spotify.com/artist/7zPPRI5YRGj8bPYBmtIy4l) | [Pity Party](https://open.spotify.com/album/7kUXbGwQwpbgQV9obq7yGd) | 3:17 |
 | 32 | [Nichel](https://open.spotify.com/track/6USIYSkp1Fu2URHE1ptEuf) | [Alahsin](https://open.spotify.com/artist/1WIZEUGvpwPabtLcGTVFrF) | [Nichel](https://open.spotify.com/album/7GdtvwkG1Zd42hsS9FM03f) | 3:56 |
 | 33 | [Lasso](https://open.spotify.com/track/7q5qLkQPSTOcPEJDfyTbQR) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Silver Deliverer](https://open.spotify.com/album/5uLwNwP8hIrIUJNFHCNOiS) | 5:40 |
-| 34 | [Carousel](https://open.spotify.com/track/6xErF43Ru9Y0r21iHWaj0J) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Carousel](https://open.spotify.com/album/6ZYFQTxkwpg0A1wTTTjRU8) | 3:27 |
-| 35 | [The First and Last of the Perfect Parties](https://open.spotify.com/track/2fyyltBHLMwFRKgpOpLLCs) | [Ren Martinez](https://open.spotify.com/artist/7jwt0XqTVstELcOeS8F8zf) | [The First and Last of the Perfect Parties](https://open.spotify.com/album/4c08Ec8CktaVauOyAmiNZ2) | 4:08 |
+| 34 | [The First and Last of the Perfect Parties](https://open.spotify.com/track/2fyyltBHLMwFRKgpOpLLCs) | [Ren Martinez](https://open.spotify.com/artist/7jwt0XqTVstELcOeS8F8zf) | [The First and Last of the Perfect Parties](https://open.spotify.com/album/4c08Ec8CktaVauOyAmiNZ2) | 4:08 |
+| 35 | [Carousel](https://open.spotify.com/track/6xErF43Ru9Y0r21iHWaj0J) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Carousel](https://open.spotify.com/album/6ZYFQTxkwpg0A1wTTTjRU8) | 3:27 |
 | 36 | [Dumb Feeling](https://open.spotify.com/track/2fF1a2k5TX0hpzcRv8YQCd) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Dumb Feeling](https://open.spotify.com/album/7KxzFjvX8ocoU3wRYW4bmi) | 3:10 |
-| 37 | [Galt](https://open.spotify.com/track/7j5hpfBlM5TqY3DkXTpGq6) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [Galt](https://open.spotify.com/album/23rvvEZD5sNeIV3yvZR2b7) | 3:05 |
+| 37 | [Turquoise Cowboy](https://open.spotify.com/track/4LifLPjq01uBbFF0yKTrzU) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Turquoise Cowboy](https://open.spotify.com/album/1JMzzKhYbJcYNQ3VKC0lpw) | 3:16 |
 | 38 | [Superpowers](https://open.spotify.com/track/3ZNHrPveoYFrzPK2VYjbqn) | [Rachael Lampa](https://open.spotify.com/artist/0rAp8I6gq67AJEmzWEJ1ri) | [Superpowers](https://open.spotify.com/album/1WeWNF52veaOmfcAagyUr7) | 3:37 |
-| 39 | [Turquoise Cowboy](https://open.spotify.com/track/4LifLPjq01uBbFF0yKTrzU) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Turquoise Cowboy](https://open.spotify.com/album/1JMzzKhYbJcYNQ3VKC0lpw) | 3:16 |
+| 39 | [Galt](https://open.spotify.com/track/7j5hpfBlM5TqY3DkXTpGq6) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [Galt](https://open.spotify.com/album/23rvvEZD5sNeIV3yvZR2b7) | 3:05 |
 | 40 | [God Shows Up](https://open.spotify.com/track/61YmoYlzwA2qR8uaMYsr77) | [Olivia Lane](https://open.spotify.com/artist/3Og5as5vV5n1iTR5iaNNZ6) | [God Shows Up](https://open.spotify.com/album/6gDaH2oBvUsvcl3hTtrRjz) | 3:05 |
 | 41 | [Ancient Light](https://open.spotify.com/track/42Xt27QoxLh1XxxG8ILEMI) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [Ancient Light](https://open.spotify.com/album/3RoX6N86SIrznMx2k28sdl) | 3:34 |
 | 42 | [Scared](https://open.spotify.com/track/10DMeaEjx6QL346F0PYxn6) | [Claire Leslie](https://open.spotify.com/artist/5GkuwRdmvp8r48JCPwqM7E) | [Twenty Something](https://open.spotify.com/album/22QHxalHn2nMiSqQXhulPh) | 2:38 |

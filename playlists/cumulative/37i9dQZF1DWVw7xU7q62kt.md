@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-537 songs - 1 day 0 hr 31 min
+538 songs - 1 day 0 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,6 +300,7 @@
 | [Mollo](https://open.spotify.com/track/2zAW1pqECiIMWZ9CvqpdS2) | [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z) | [Galerie](https://open.spotify.com/album/1F7A1rsVd20Rpa4x8Hb5gJ) | 1:54 | 2023-08-22 | 2025-04-12 |
 | [Mont Kiara](https://open.spotify.com/track/2V5QRfFA9DdwfEf3pdNCle) | [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv), [Smoke Trees](https://open.spotify.com/artist/6cN5TvotJoRbhYHoCHw8BI) | [Mont Kiara](https://open.spotify.com/album/76D4vg3NOaJAL4vbl5KIxw) | 2:15 | 2024-12-13 |  |
 | [Montrose Forest featuring Nicholas Payton](https://open.spotify.com/track/5KDVm18IS8nave70ihVFqN) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP), [Nicholas Payton](https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4) | [Montrose Forest featuring Nicholas Payton](https://open.spotify.com/album/712rPLxjRtWqRjLgKOlMp8) | 4:04 | 2024-11-08 | 2025-01-25 |
+| [Moon Over The Sea](https://open.spotify.com/track/0CW2CierRaSZ1T4zB2VuvA) | [Simber](https://open.spotify.com/artist/3x9DqcRsBAPD6oFZCnDxf0), [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S), [Paxkalito](https://open.spotify.com/artist/3GzNXHI7uiWVe0TnkUvP0f) | [Moon Over The Sea](https://open.spotify.com/album/1OaRUJ0SYlGfOetqTsy3vg) | 2:14 | 2025-05-23 |  |
 | [Moonbath](https://open.spotify.com/track/4YJgokXX4mOOPgwMzbwpx0) | [Lvnt](https://open.spotify.com/artist/0lJBgFBswR7nf4TrKtwZQt) | [Moonbath](https://open.spotify.com/album/2w3wSYzcxUANJ3j25f8kK4) | 2:08 | 2025-04-18 | 2025-04-21 |
 | [Moonglade](https://open.spotify.com/track/4fmzTCgOgTj8dB3Cb3YwjE) | [Pueblo Vista](https://open.spotify.com/artist/1p03eo7FG5sXEMs3lGFEwb) | [Moonglade](https://open.spotify.com/album/2xQdVIZ7DksIupufbmHnq9) | 2:03 | 2025-03-14 | 2025-03-23 |
 | [Moonlight](https://open.spotify.com/track/6ich2rsYphd2p6Bp8mRpw8) | [Hans Hu$tle](https://open.spotify.com/artist/1PwlJoSttX1ML8TPVnRpra), [Jones McJonsen](https://open.spotify.com/artist/7HOOvYURNE4ioNmIPclYhZ) | [Moonlight](https://open.spotify.com/album/521pzIYi6SV9enr8XXqzjE) | 1:51 | 2025-05-16 |  |
@@ -456,7 +457,7 @@
 | [Sweet Move](https://open.spotify.com/track/5XOZyGohPJf6V7bpw0SmyH) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Sweet Move](https://open.spotify.com/album/11lMsLLHINuGwdV4udtWJe) | 1:52 | 2025-05-23 |  |
 | [Sweet Nothings](https://open.spotify.com/track/5y2xnNe1bxYXwpfWyWIiQ1) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u) | [Sweet Nothings](https://open.spotify.com/album/0eFa1m5BblZrUWym0SJrpo) | 2:20 | 2023-08-25 | 2024-09-07 |
 | [swing side](https://open.spotify.com/track/4PO8A3EPanNbkx7Q3Wi2a3) | [ghostschreiber](https://open.spotify.com/artist/40z4VAR5NBGOTEpjfuDicX), [Ville Tomminen](https://open.spotify.com/artist/3z05cHmgpoxtH09pPL5sYD) | [swing side](https://open.spotify.com/album/2TDburFMSfxZB2wGzfaHSZ) | 2:03 | 2024-12-13 |  |
-| [Syeeda](https://open.spotify.com/track/78Q8mFKENef5YDHCf01fuz) | [Wishes and Dreams](https://open.spotify.com/artist/3z3HY7B1UqsrP5un2WXe2h), [Myríad](https://open.spotify.com/artist/5TGFw78FIV0hLV90O8A7an) | [Syeeda](https://open.spotify.com/album/1xcnqQa1pdWmHLgPet9Bcg) | 2:20 | 2025-05-16 |  |
+| [Syeeda](https://open.spotify.com/track/78Q8mFKENef5YDHCf01fuz) | [Wishes and Dreams](https://open.spotify.com/artist/3z3HY7B1UqsrP5un2WXe2h), [Myríad](https://open.spotify.com/artist/5TGFw78FIV0hLV90O8A7an) | [Syeeda](https://open.spotify.com/album/1xcnqQa1pdWmHLgPet9Bcg) | 2:20 | 2025-05-16 | 2025-05-30 |
 | [Symmetry](https://open.spotify.com/track/0x4BB9JufJVOwHKw7GyVlG) | [RMB Justize](https://open.spotify.com/artist/2xLhxXgR236ZtWjZOfa0Kd), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O), [Lamar Azul](https://open.spotify.com/artist/3dW0pC8Ra3zhpntjvBbD34) | [Symmetry](https://open.spotify.com/album/1cEdRSasoQkzL2IhIPxy9h) | 2:26 | 2025-02-07 | 2025-03-04 |
 | [synco](https://open.spotify.com/track/3WfRUaBTwzKaROr346NNmk) | [Julio Estrada](https://open.spotify.com/artist/1IQjJilW4UrRjuZaZtF63b), [bread stinson](https://open.spotify.com/artist/4vwxEQpUoKDS4pvDTbQtiJ) | [synco](https://open.spotify.com/album/2TdnRV8hdjEQUjTukWgdT0) | 4:20 | 2023-08-22 | 2024-09-28 |
 | [synergy](https://open.spotify.com/track/2mobc4qTowSU1xom2svdwr) | [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc) | [synergy](https://open.spotify.com/album/2pVgWKlYMy76JdQ2thPsDg) | 2:35 | 2024-09-27 |  |

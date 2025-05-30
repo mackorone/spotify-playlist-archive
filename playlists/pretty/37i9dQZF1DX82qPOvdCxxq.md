@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 
 ### [Fresh Finds Faith](https://open.spotify.com/playlist/37i9dQZF1DX82qPOvdCxxq)
 
-> Celebrating 10 years of the best new music by independent artists! Cover: Allie Page \| Artwork: Dana Shine
+> Celebrating 10 years of the best new music by independent artists! Cover: Allie Paige \| Artwork: Dana Shine
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,688 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,706 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 | 99 | [Can't Help But Praise \- Acoustic](https://open.spotify.com/track/4q1YjQtBrnUghS2eq0rRoM) | [Jordan Colle](https://open.spotify.com/artist/5ZWnENjJ3uHA9fyKeUBvH1) | [Can't Help But Praise](https://open.spotify.com/album/1tZ8t1azZS4BzGJZED2NlN) | 3:44 |
 | 100 | [17](https://open.spotify.com/track/4xSOhLAzBfyWOWc8yTDV3F) | [Amanda Nolan](https://open.spotify.com/artist/1M62wAGkipCrvniBF6ZCa8) | [17](https://open.spotify.com/album/6Iyr55f8RCYJFap5QyWh81) | 3:29 |
 
-Snapshot ID: `aDaPsQAAAADLGpN7B7eCEmulLzis9m+V`
+Snapshot ID: `aDjEHAAAAACu9o9hYmKMx3MNSFJETlq8`

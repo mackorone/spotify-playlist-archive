@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PCwCLovaMJ.md) - [plain]
 
 > Upptäck låtar från 2024 som du kanske har missat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,354 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,355 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PCwCLovaMJ.md) - [plain]
 | 39 | [under isen](https://open.spotify.com/track/6XmOCjeIjYijSeSEGJLCy5) | [TUVA](https://open.spotify.com/artist/1JnThO5JIF96vaQ87QbX5Q) | [under isen](https://open.spotify.com/album/0bkkEmllmDysuUwtdPfxiF) | 2:26 |
 | 40 | [Only Love](https://open.spotify.com/track/5lzoAofjjMVqeB3CLEzah4) | [OLING](https://open.spotify.com/artist/2saqEnwA5wcTmHPpvVM1cv) | [Only Love](https://open.spotify.com/album/1asQljRHSidWiazVxe3Bud) | 3:35 |
 | 41 | [Empty the Bags](https://open.spotify.com/track/4gVIuiS7OxA8DjabaINZR0) | [Noak Hellsing](https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc) | [Empty the Bags](https://open.spotify.com/album/6MP8gKSOp9vKmAHkic3lse) | 2:33 |
-| 42 | [Flowers at a Funeral](https://open.spotify.com/track/3tW7YR0lQoJds70KsLP0i7) | [NOEL](https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p) | [Flowers at a Funeral](https://open.spotify.com/album/4YXKLLSnxHt1Kvgb2OQLvg) | 3:27 |
-| 43 | [Önskar det vore så enkelt](https://open.spotify.com/track/0dgzmvAuiFwU1b66y7gOPr) | [Strobaek](https://open.spotify.com/artist/082YfpbTrmcJ7CVtnQcbQp) | [Önskar det vore så enkelt](https://open.spotify.com/album/6UF1HqWxGmhwMJqwQ4CaQ8) | 2:17 |
+| 42 | [Önskar det vore så enkelt](https://open.spotify.com/track/0dgzmvAuiFwU1b66y7gOPr) | [Strobaek](https://open.spotify.com/artist/082YfpbTrmcJ7CVtnQcbQp) | [Önskar det vore så enkelt](https://open.spotify.com/album/6UF1HqWxGmhwMJqwQ4CaQ8) | 2:17 |
+| 43 | [Flowers at a Funeral](https://open.spotify.com/track/3tW7YR0lQoJds70KsLP0i7) | [NOEL](https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p) | [Flowers at a Funeral](https://open.spotify.com/album/4YXKLLSnxHt1Kvgb2OQLvg) | 3:27 |
 | 44 | [Don't Wanna Be Saved](https://open.spotify.com/track/3aoRFWXptB9Xfh7zq0RLd1) | [Virgin Miri](https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm) | [Don't Wanna Be Saved](https://open.spotify.com/album/5YjGk8T076PVMaQZQRpzts) | 3:00 |
 | 45 | [The Trip](https://open.spotify.com/track/3aVhH2Ds1JbwLI9Psao8H8) | [DJ Carpenter](https://open.spotify.com/artist/3HT9KuqyBAFyWgw4xMLPUi), [Izza Gara](https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov) | [The Trip](https://open.spotify.com/album/1US4uotVZa99jWjdXlyt9B) | 3:12 |
 | 46 | [Förlåt](https://open.spotify.com/track/4TBV7jI6skfgRRHsXtbNn6) | [Vilhelm Nordvall](https://open.spotify.com/artist/2RIlribpXetnuu5hrOnHwA) | [Förlåt](https://open.spotify.com/album/5YtfqDGtXxZ8nJpqkEGO9y) | 2:46 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PCwCLovaMJ.md) - [plain]
 | 57 | [20 BPM](https://open.spotify.com/track/2vC3G5OVfO8BGSbMkVYcV7) | [CEVIL](https://open.spotify.com/artist/0E2roCDpvKNhh4ym05PfhP) | [20 BPM](https://open.spotify.com/album/7BTUJzOaV7h3GCltS4CW1w) | 3:03 |
 | 58 | [Last Time](https://open.spotify.com/track/1kRi2A08loSg8oZmHbvxWG) | [Scout](https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR) | [Last Time](https://open.spotify.com/album/3vO08GPmv2KGP66nUmW0IC) | 2:56 |
 | 59 | [Restart](https://open.spotify.com/track/26kkBWMgXo3KF2h1XglEIc) | [Daghem](https://open.spotify.com/artist/1YcmK9yjLnTcze8VpKYcRi) | [Restart](https://open.spotify.com/album/4nV9lELBD4ib5ifpOIdZDL) | 2:36 |
-| 60 | [Jump In The Ride](https://open.spotify.com/track/2aU3whKD3n6H9XBuVQUmFM) | [Prof\. Stranger](https://open.spotify.com/artist/10oCYNVAWe1XK0Ui8sgzgp) | [Club Stranger](https://open.spotify.com/album/1Yyd6Q37sIgAl4MHPyKSdI) | 3:50 |
-| 61 | [High Heels On Oceans](https://open.spotify.com/track/3IvxVbsuOA6pbmz37Y1Yqm) | [Lennixx](https://open.spotify.com/artist/0hdACQBYpPV7hL1VBEmHH6) | [High Heels On Oceans](https://open.spotify.com/album/0LBsyH1jNcdwz6LATVC3De) | 2:36 |
+| 60 | [High Heels On Oceans](https://open.spotify.com/track/3IvxVbsuOA6pbmz37Y1Yqm) | [Lennixx](https://open.spotify.com/artist/0hdACQBYpPV7hL1VBEmHH6) | [High Heels On Oceans](https://open.spotify.com/album/0LBsyH1jNcdwz6LATVC3De) | 2:36 |
+| 61 | [Jump In The Ride](https://open.spotify.com/track/2aU3whKD3n6H9XBuVQUmFM) | [Prof\. Stranger](https://open.spotify.com/artist/10oCYNVAWe1XK0Ui8sgzgp) | [Club Stranger](https://open.spotify.com/album/1Yyd6Q37sIgAl4MHPyKSdI) | 3:50 |
 | 62 | [Kvar här](https://open.spotify.com/track/3sN51hBCvqDtuZCNqK0tex) | [Huset](https://open.spotify.com/artist/4YaJSto4YkRG7BA46X6V54) | [Den stora fula kavajen](https://open.spotify.com/album/3e3XFvF2A0GN7MF40D1RF9) | 3:30 |
 | 63 | [Borderline Iconic](https://open.spotify.com/track/67Po00mBd0gRq7Z4lZ30CG) | [Linn Koch\-Emmery](https://open.spotify.com/artist/1VXNcQgSnqCXw4kWGeKNFu) | [Borderline Iconic](https://open.spotify.com/album/6csDiDKWnoejngfWD7gvhK) | 3:06 |
 | 64 | [Upset](https://open.spotify.com/track/1lmESvOXWfDSgVAAaIruLL) | [Edgar Homeros](https://open.spotify.com/artist/4j8tcurjLu5pZAi0uogaYg) | [Crying Dove](https://open.spotify.com/album/6xGehMsofWMuFW2nKYdmK7) | 2:38 |

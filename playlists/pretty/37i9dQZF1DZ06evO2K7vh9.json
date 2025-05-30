@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Tecca. The essential tracks, all in one playlist.",
-  "num_followers": 93218,
+  "num_followers": 93275,
   "original_name": "This Is Lil Tecca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDUAgAAAAADuozpsW4gLVSqPp+A0uL+R",
+  "snapshot_id": "aDZSAAAAAACgVTKrYr7q2fwO69OQunGa",
   "tracks": [
     {
       "added_at": null,
@@ -751,26 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Star",
-        "url": "https://open.spotify.com/album/45LIS5vxDcdMniZcD6biUD"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        },
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        }
-      ],
-      "duration_ms": 180234,
-      "name": "All Star (with Lil Tjay)",
-      "url": "https://open.spotify.com/track/62uolmVjOio9xIfwDM1ZvC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "B4 The Storm (Expanded Edition)",
         "url": "https://open.spotify.com/album/4fszOxJ7RWHqPIXOrC2iKY"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 163636,
       "name": "JLO (feat. Lil Tecca)",
       "url": "https://open.spotify.com/track/6kYP6BKrQOcL61G4XPc0XA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Star",
+        "url": "https://open.spotify.com/album/45LIS5vxDcdMniZcD6biUD"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        },
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "duration_ms": 180234,
+      "name": "All Star (with Lil Tjay)",
+      "url": "https://open.spotify.com/track/62uolmVjOio9xIfwDM1ZvC"
     },
     {
       "added_at": null,

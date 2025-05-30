@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 1960s. Cover: Etta James",
-  "num_followers": 491640,
+  "num_followers": 491843,
   "original_name": "Soft 60s",
   "owner": {
     "name": "Spotify",
@@ -703,6 +703,22 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
+        "name": "La La Means I Love You",
+        "url": "https://open.spotify.com/album/2Xj7OXGWSM6JbjJjYUusLR"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "duration_ms": 200906,
+      "name": "La-La Means I Love You",
+      "url": "https://open.spotify.com/track/58CUIzSxNpQUFvTCd8tntH"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
         "name": "Album 1700",
         "url": "https://open.spotify.com/album/3CDM5os6kA4y6mYYGukMIZ"
       },
@@ -719,34 +735,18 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "La La Means I Love You",
-        "url": "https://open.spotify.com/album/2Xj7OXGWSM6JbjJjYUusLR"
+        "name": "The Dock of the Bay",
+        "url": "https://open.spotify.com/album/0kSkzG0sfuG4lRuFF5jWVr"
       },
       "artists": [
         {
-          "name": "The Delfonics",
-          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
         }
       ],
-      "duration_ms": 200906,
-      "name": "La-La Means I Love You",
-      "url": "https://open.spotify.com/track/58CUIzSxNpQUFvTCd8tntH"
-    },
-    {
-      "added_at": "2024-05-03 14:52:34",
-      "album": {
-        "name": "Take A Look",
-        "url": "https://open.spotify.com/album/5yPYingqlUnFfEzbLPtrVS"
-      },
-      "artists": [
-        {
-          "name": "Irma Thomas",
-          "url": "https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv"
-        }
-      ],
-      "duration_ms": 176080,
-      "name": "Anyone Who Knows What Love Is (Will Understand)",
-      "url": "https://open.spotify.com/track/5GWCndQ8ykzf6rYRvwrFcj"
+      "duration_ms": 166826,
+      "name": "(Sittin' On) the Dock of the Bay",
+      "url": "https://open.spotify.com/track/4Y4Gd3ty8uut6Qw43c7yJc"
     },
     {
       "added_at": "2024-05-03 14:52:34",
@@ -765,20 +765,20 @@
       "url": "https://open.spotify.com/track/5CEREcGR5WaLt40YzTQ62e"
     },
     {
-      "added_at": "2022-05-30 13:00:37",
+      "added_at": "2024-05-03 14:52:34",
       "album": {
-        "name": "The Dock of the Bay",
-        "url": "https://open.spotify.com/album/0kSkzG0sfuG4lRuFF5jWVr"
+        "name": "Take A Look",
+        "url": "https://open.spotify.com/album/5yPYingqlUnFfEzbLPtrVS"
       },
       "artists": [
         {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+          "name": "Irma Thomas",
+          "url": "https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv"
         }
       ],
-      "duration_ms": 166826,
-      "name": "(Sittin' On) the Dock of the Bay",
-      "url": "https://open.spotify.com/track/4Y4Gd3ty8uut6Qw43c7yJc"
+      "duration_ms": 176080,
+      "name": "Anyone Who Knows What Love Is (Will Understand)",
+      "url": "https://open.spotify.com/track/5GWCndQ8ykzf6rYRvwrFcj"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -893,22 +893,6 @@
       "url": "https://open.spotify.com/track/1Kx5LdJPpqRXKUUHBu9CTe"
     },
     {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "For Your Sweet Love",
-        "url": "https://open.spotify.com/album/1eUQiKLKBdQIOnqb3lnbox"
-      },
-      "artists": [
-        {
-          "name": "Ricky Nelson",
-          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
-        }
-      ],
-      "duration_ms": 146133,
-      "name": "I Will Follow You",
-      "url": "https://open.spotify.com/track/4Y6pdMS2PwGshq1MYcJ9fC"
-    },
-    {
       "added_at": "2024-05-03 14:52:34",
       "album": {
         "name": "13 Smash Hits",
@@ -923,6 +907,22 @@
       "duration_ms": 257440,
       "name": "(It Looks Like) I'll Never Fall In Love Again",
       "url": "https://open.spotify.com/track/70wRitifPn1bC1FGjOrFwN"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "For Your Sweet Love",
+        "url": "https://open.spotify.com/album/1eUQiKLKBdQIOnqb3lnbox"
+      },
+      "artists": [
+        {
+          "name": "Ricky Nelson",
+          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
+        }
+      ],
+      "duration_ms": 146133,
+      "name": "I Will Follow You",
+      "url": "https://open.spotify.com/track/4Y6pdMS2PwGshq1MYcJ9fC"
     },
     {
       "added_at": "2024-05-03 14:52:34",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Gary Puckett & The Union Gap Featuring \"Young Girl\"",
-        "url": "https://open.spotify.com/album/3Q83WkHiw4oRcmjuRbHJ8M"
-      },
-      "artists": [
-        {
-          "name": "Gary Puckett & The Union Gap",
-          "url": "https://open.spotify.com/artist/4asCC4oxQcDzFXhCth2SgQ"
-        }
-      ],
-      "duration_ms": 252146,
-      "name": "Honey (I Miss You)",
-      "url": "https://open.spotify.com/track/7eErg4xYy85zjy10xsZop6"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "For Your Precious Love...",
         "url": "https://open.spotify.com/album/2PHrZGSFqrXwJ4RM5svp4T"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 165626,
       "name": "For Your Precious Love",
       "url": "https://open.spotify.com/track/4HiOvJ1lASRijDaaqtZQ9N"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Gary Puckett & The Union Gap Featuring \"Young Girl\"",
+        "url": "https://open.spotify.com/album/3Q83WkHiw4oRcmjuRbHJ8M"
+      },
+      "artists": [
+        {
+          "name": "Gary Puckett & The Union Gap",
+          "url": "https://open.spotify.com/artist/4asCC4oxQcDzFXhCth2SgQ"
+        }
+      ],
+      "duration_ms": 252146,
+      "name": "Honey (I Miss You)",
+      "url": "https://open.spotify.com/track/7eErg4xYy85zjy10xsZop6"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -2179,22 +2179,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Chapel of Love",
-        "url": "https://open.spotify.com/album/6gBGcBd26IFUPpBjsf6Gin"
-      },
-      "artists": [
-        {
-          "name": "The Dixie Cups",
-          "url": "https://open.spotify.com/artist/7ICvZfP4VHAPZ5Wdt03772"
-        }
-      ],
-      "duration_ms": 170874,
-      "name": "Chapel of Love",
-      "url": "https://open.spotify.com/track/4JchWgAG3RZmCLHcEGf9DZ"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "The Ultimate Bee Gees",
         "url": "https://open.spotify.com/album/6PM8QzSc6FXrL11UwDfdI1"
       },
@@ -2207,6 +2191,22 @@
       "duration_ms": 197640,
       "name": "Words",
       "url": "https://open.spotify.com/track/6oEyQSER3TyW92IJm61Fzk"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Chapel of Love",
+        "url": "https://open.spotify.com/album/6gBGcBd26IFUPpBjsf6Gin"
+      },
+      "artists": [
+        {
+          "name": "The Dixie Cups",
+          "url": "https://open.spotify.com/artist/7ICvZfP4VHAPZ5Wdt03772"
+        }
+      ],
+      "duration_ms": 170874,
+      "name": "Chapel of Love",
+      "url": "https://open.spotify.com/track/4JchWgAG3RZmCLHcEGf9DZ"
     },
     {
       "added_at": "2022-05-30 13:00:37",

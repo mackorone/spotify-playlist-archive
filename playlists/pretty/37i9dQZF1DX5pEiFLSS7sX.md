@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 
 > Appreciate the many miracles around you with these songs of worship.
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,894 likes - 75 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,946 likes - 75 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 | 53 | [Come Through \- Live](https://open.spotify.com/track/5cRUeftNovncesYE6P5d9N) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Wild Heart](https://open.spotify.com/album/2wkuGTRxZOldvPf9YeeQpx) | 10:10 |
 | 54 | [Set My Heart \- Live](https://open.spotify.com/track/2UIxlbf3p2Fhknmq6WRHHQ) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o) | [Frontiers](https://open.spotify.com/album/4dJizxCaLMzz4nWSju40mY) | 5:12 |
 | 55 | [Oh The Wonder \(feat\. Mike Grayson\)](https://open.spotify.com/track/3z0MhWhSeSiSyPUTfDr5zj) | [Cross Point Music](https://open.spotify.com/artist/7J5NYM9bwpfxk3hiwQH27P), [Mike Grayson](https://open.spotify.com/artist/3SyG488mo91muoIM24jHq1) | [Never Going Back](https://open.spotify.com/album/4XuXyNQX9VnoxPMjQ0kk6H) | 4:20 |
-| 56 | [Midnight \- Radio Version](https://open.spotify.com/track/1jn37EplTmgk8ZoXsoHGsu) | [Rita Springer](https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c) | [Midnight](https://open.spotify.com/album/1KI4ndRW4pVUrCXgR8XaAt) | 5:03 |
-| 57 | [You're Making Something Beautiful \- Spontaneous/Live](https://open.spotify.com/track/7ygTUmAS6ZgoNVC5fEiFLr) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Canvas And Clay \(Live\)](https://open.spotify.com/album/3sD7R3Rj753B3w3DZsSeIV) | 6:23 |
+| 56 | [You're Making Something Beautiful \- Spontaneous/Live](https://open.spotify.com/track/7ygTUmAS6ZgoNVC5fEiFLr) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Canvas And Clay \(Live\)](https://open.spotify.com/album/3sD7R3Rj753B3w3DZsSeIV) | 6:23 |
+| 57 | [Midnight \- Radio Version](https://open.spotify.com/track/1jn37EplTmgk8ZoXsoHGsu) | [Rita Springer](https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c) | [Midnight](https://open.spotify.com/album/1KI4ndRW4pVUrCXgR8XaAt) | 5:03 |
 | 58 | [Nothing Else / All I Need Is You \- Medley / Live](https://open.spotify.com/track/1FU3FhTkha9P7TtYqCDUdY) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Whitney Medina](https://open.spotify.com/artist/2aEALllrzX6yHYGQkQ3jgZ) | [Live At Church: Mixtape Vol\. 1](https://open.spotify.com/album/5TTMY7j38aJ11kqrsZoXtC) | 11:59 |
 | 59 | [Shine](https://open.spotify.com/track/4sm29oSEumtSzE8AdVhjIu) | [Sisterbrother](https://open.spotify.com/artist/3m1fIdh8xJXRjLLdNgZVXQ) | [Into the Light](https://open.spotify.com/album/39K610YVccFlNB9knpBXvL) | 4:49 |
 | 60 | [What A Beautiful Name](https://open.spotify.com/track/4KLj9QjEhJl2WU50mxRF9Z) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [What A Beautiful Name](https://open.spotify.com/album/7m2VtB9IdKJ0WZmnuSB5Q2) | 3:58 |

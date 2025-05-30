@@ -2,9 +2,9 @@
 
 ### [South African Gospel](https://open.spotify.com/playlist/37i9dQZF1DXbBH5YfEiy7g)
 
-> Praise and Worship your way with the best South African Gospel music\.  Cover: <a href="https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx?si=3c0OFN54STCLGyLFtRdkgg">Lebo Sekgobela</a>
+> Praise and Worship your way with the best South African Gospel music\.  Cover: <a href="https://open.spotify.com/artist/3jzpHftM6t86BxqayyUWiU?si=sRU1OrKVQSCERLXtcGk3hg">Brenden Praise</a>
 
-138 songs - 14 hr 45 min
+139 songs - 14 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Bayazibuza](https://open.spotify.com/track/33pRs7b2nBdqG7mCOHQuqh) | [Nduduzo Matse](https://open.spotify.com/artist/6pLZutxrnCCiFIcxy7drQK) | [New Sounds of Glory](https://open.spotify.com/album/1p9jZMfZfbpxRUbel7Ph07) | 5:00 | 2024-10-04 |  |
 | [Bhekani UJehova \- Live](https://open.spotify.com/track/5FZNzkJ9Csk4m9XegJRahx) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration, Vol\. 18: One Purpose \(Live at CityHill Church, Durban 2014\)](https://open.spotify.com/album/3mHxSlMvvFPNA3DSnuYrvr) | 7:13 | 2024-10-11 |  |
 | [Bina Moya Waka \(Live\)](https://open.spotify.com/track/4JhsyZE6eZYmT3m108U3JQ) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Mmatema](https://open.spotify.com/artist/3WIUiGUzID22YVq9W8yRbG) | [Bina Moya Waka \(Live\)](https://open.spotify.com/album/7I4DEI4Hcojs2MieWKeOqP) | 6:37 | 2024-10-11 |  |
+| [Blessings \(feat\. Nontokozo Mkhize\)](https://open.spotify.com/track/2Q04f7HbmxalpjfrPhJMN4) | [Brenden Praise](https://open.spotify.com/artist/3jzpHftM6t86BxqayyUWiU), [MÖRDA](https://open.spotify.com/artist/0M8NOvT5MTp13jYZ0bZZQp), [Nontokozo Mkhize](https://open.spotify.com/artist/1pGEcbHJvZ6u018SwuUtkK) | [Blessings \(feat\. Nontokozo Mkhize\)](https://open.spotify.com/album/5u2BLmpV0KIfiKo1okOuYW) | 4:14 | 2025-05-30 |  |
 | [Bow Down and Worship \- Live](https://open.spotify.com/track/4pwIlf5w1m2gZJ97o49fpJ) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2) | [Glory in His Presence](https://open.spotify.com/album/4H0LkLQqfqbryyNUmzDvoq) | 10:55 | 2024-10-04 |  |
 | [Dibe Tsa Ka](https://open.spotify.com/track/3yoOd0mfYPoqhPlwGdRJ4Y) | [Sechaba](https://open.spotify.com/artist/1Dag9YPYj8w9Q67pn9qDa4) | [Jeso Oa Mamela](https://open.spotify.com/album/0yhYq8O1SAM2DnzYz9jDTn) | 4:55 | 2025-04-18 |  |
 | [Ebenezer](https://open.spotify.com/track/66cf5Aufw5GxRauvzVdli7) | [Busi Sibiya](https://open.spotify.com/artist/4Socq1uqmPOvJoneN5NiFe), [Oncemore Six](https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd) | [Ebenezer](https://open.spotify.com/album/0MQ00rMj7eBh6vsbNbqZFj) | 9:28 | 2025-02-07 |  |
@@ -72,7 +73,7 @@
 | [Mkhulumsebenzi](https://open.spotify.com/track/49kdVsVi2XuVxEnPHdwxnk) | [Khaya Mthethwa](https://open.spotify.com/artist/0YJ3i0Hjw7aUuBoe4rUfPQ), [Oasis Worship](https://open.spotify.com/artist/7ayajVitzTv40GuERpcE72) | [All About Jesus](https://open.spotify.com/album/2gkN4HGwahDA9X52GFzwrx) | 5:01 | 2024-10-04 |  |
 | [Mlondolozi \- Live](https://open.spotify.com/track/6DFTcyNPTiG3iON72zGscu) | [Busi Sibiya](https://open.spotify.com/artist/4Socq1uqmPOvJoneN5NiFe) | [Mlondolozi](https://open.spotify.com/album/1c3fVc8kTxsYNPTAqANfUp) | 8:02 | 2025-03-14 | 2025-04-18 |
 | [Mmrane](https://open.spotify.com/track/5iLWh0plYIPG6lDs7sGOkB) | [DrumPIPO](https://open.spotify.com/artist/5h0tAAig7dghGyu529G6jI), [Takie Ndou](https://open.spotify.com/artist/4VRhAhWIwAZ8nXLAxuzDGu) | [Mmrane](https://open.spotify.com/album/2LBeyV0CfD9P60qPtmxz0T) | 5:01 | 2024-12-13 | 2025-03-21 |
-| [Modisa Wa Dinku](https://open.spotify.com/track/4UnXuTOxpqvP05llekAKoD) | [IPCC YOUTH](https://open.spotify.com/artist/1mdnJbkFBtyxeqCJml77st) | [Modisa Wa Dinku](https://open.spotify.com/album/4V2QcMzsM2RWwf4eQ4NtVj) | 4:41 | 2025-04-18 |  |
+| [Modisa Wa Dinku](https://open.spotify.com/track/4UnXuTOxpqvP05llekAKoD) | [IPCC YOUTH](https://open.spotify.com/artist/1mdnJbkFBtyxeqCJml77st) | [Modisa Wa Dinku](https://open.spotify.com/album/4V2QcMzsM2RWwf4eQ4NtVj) | 4:41 | 2025-04-18 | 2025-05-30 |
 | [Moya Wa Ka Reta Morena \(Live\)](https://open.spotify.com/track/7jqN9DIvOJvgclDMGYe7zn) | [Tshwane Gospel Choir](https://open.spotify.com/artist/3mQR6Ep0xUi6lekkWfqMpi) | [The Next Revival \(Live\)](https://open.spotify.com/album/60ttdHW2njGJ4hBe4ZwpTb) | 2:30 | 2024-10-04 |  |
 | [Moya Wami \(Live\)](https://open.spotify.com/track/4V47lua1XD4rnzvPLeR4JZ) | [Lebo Sekgobela](https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx) | [Umusa \(Live\)](https://open.spotify.com/album/4YPlI2djfvKTgghrUgQS0V) | 8:36 | 2024-10-04 |  |
 | [Moyongcwele](https://open.spotify.com/track/7EGJk2dluf3ahwKa9Ognkc) | [Nontokozo Mkhize](https://open.spotify.com/artist/2xYE0LYxFRGK9CQxLlkE7H) | [Moyongcwele](https://open.spotify.com/album/3Md7jFJCda78uhck7VfPJC) | 5:09 | 2024-10-04 |  |

@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-4,155 songs - 9 day 14 hr 6 min
+4,157 songs - 9 day 14 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2273,6 +2273,7 @@
 | [Man Down](https://open.spotify.com/track/14deuqhQ54yqESj5BqsVnT) | [B Young](https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp) | [Man Down](https://open.spotify.com/album/0Qnpgoc68ncpdgQ1YytSzO) | 2:48 | 2024-05-24 | 2024-06-12 |
 | [Man Made of Meat](https://open.spotify.com/track/05IdqHMPXSr8dW4rEw5SEZ) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Man Made of Meat](https://open.spotify.com/album/6giAZg9nJ1jIjpd57Jt6Wo) | 3:09 | 2025-01-23 | 2025-02-01 |
 | [Man Of The House](https://open.spotify.com/track/3aIvJqEB3SN3aNvOfOo3CS) | [Rachel Zegler](https://open.spotify.com/artist/1q9hWC9JAJXjXwZN9aDKW3) | [Man Of The House](https://open.spotify.com/album/38shyLCy0GkloXIDQsiAxu) | 2:53 | 2024-10-25 | 2024-11-09 |
+| [Man Of The Year](https://open.spotify.com/track/1hoeP1oPYlhcv6iRCtB7pT) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Man Of The Year](https://open.spotify.com/album/1QSIGmlbg2zqpGbWXJNJeW) | 3:00 | 2025-05-29 |  |
 | [Mandarinas](https://open.spotify.com/track/2lLnBNnbxcJCZ6oUxsKSIs) | [Pinpilinpussies](https://open.spotify.com/artist/4Mbv7MoBUcLBWCuGBCxRf1) | [Mandarinas](https://open.spotify.com/album/6QcTcblqw9WX83uF7Y1GRX) | 3:10 | 2024-06-07 | 2024-06-15 |
 | [mandarino](https://open.spotify.com/track/6Aur1GBVsuyfh7wM1YHttM) | [paolo.alneon](https://open.spotify.com/artist/4EOHC7Fi1B0kKa7g49tSQd) | [mandarino](https://open.spotify.com/album/6y45yPRr7jY6cvvKZSRVhg) | 3:27 | 2024-10-04 | 2024-10-12 |
 | [Mango](https://open.spotify.com/track/0J1XAvHf8lhfDJ4MjnPcM6) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Mango](https://open.spotify.com/album/3clTKY9OQcm7aX83a3Aa3K) | 2:54 | 2025-04-09 | 2025-04-26 |
@@ -2296,6 +2297,7 @@
 | [MASSA ROSSA](https://open.spotify.com/track/676av3287ko9QyJlDlYpPX) | [FADES](https://open.spotify.com/artist/2GbjEKkwENPIzGzGU4haSO) | [METALLIX: Afterparty](https://open.spotify.com/album/6fbYGQVwIeQ1vXiPWVd3Ug) | 2:34 | 2025-05-23 |  |
 | [MATARÍA A TODOS LOS HOMBRES](https://open.spotify.com/track/7Dc5ArYUZKm5DFN2SNWK3N) | [Morreo](https://open.spotify.com/artist/3Xp3bobA8pIQerBzo8jW8d) | [MATARÍA A TODOS LOS HOMBRES](https://open.spotify.com/album/1rFSCBdcIs2ji4hNoqyMGX) | 1:54 | 2024-07-05 | 2024-07-13 |
 | [Materia Oscura](https://open.spotify.com/track/4cWpIL8wiOeQPpA9o43CQK) | [Dorian](https://open.spotify.com/artist/6GoZ2axiSqX91WzMrvJfWk) | [Materia Oscura](https://open.spotify.com/album/6C2DvuFSgxyGHL660PZU8j) | 3:58 | 2024-10-23 | 2024-11-09 |
+| [Materia Oscura](https://open.spotify.com/track/6QVNgqq4RDfXJKq19uUuMX) | [Dorian](https://open.spotify.com/artist/6GoZ2axiSqX91WzMrvJfWk), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [Materia Oscura](https://open.spotify.com/album/2q0rYHAoMp53CCp9CoLi3S) | 3:58 | 2025-05-29 |  |
 | [Material sensible](https://open.spotify.com/track/29XAbdPCoD87oIpKLIv4Jv) | [Suu](https://open.spotify.com/artist/7He3EH9c66ZwBtIMHGdyIA) | [Material sensible](https://open.spotify.com/album/59yHwqIaykQcvp5PsleTFy) | 2:26 | 2025-02-07 | 2025-02-15 |
 | [Max Potential](https://open.spotify.com/track/0zzmjCGOlgAsErLtTIfZa6) | [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [Max Potential](https://open.spotify.com/album/5uheFqtWRggoJOZqdIkcIU) | 3:52 | 2025-05-08 | 2025-05-17 |
 | [Maya](https://open.spotify.com/track/67kcXDLOYLgdIixJjddZ9I) | [Le Nais](https://open.spotify.com/artist/44Wn7ZjTg4vIBEg22A6AMZ) | [Maya](https://open.spotify.com/album/36F66dCo3R2PeNAW5JEOf0) | 3:01 | 2024-06-28 | 2024-07-13 |

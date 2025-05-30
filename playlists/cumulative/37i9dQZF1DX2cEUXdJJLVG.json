@@ -718,7 +718,7 @@
       ],
       "date_added": "2023-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 149749,
       "name": "be like that",
       "url": "https://open.spotify.com/track/0m3vkFhDCpZfkh0Si3AEEt"
@@ -1290,7 +1290,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 195038,
       "name": "CHANTE'S GROOVE",
       "url": "https://open.spotify.com/track/2qMKGSiQvgJAT7J94kloTB"
@@ -4300,7 +4300,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 212250,
       "name": "Lover/Friend",
       "url": "https://open.spotify.com/track/0A3MUy6ifDxog1zfy4m7de"
@@ -5615,6 +5615,24 @@
     },
     {
       "album": {
+        "name": "Pharoah's Lean Time",
+        "url": "https://open.spotify.com/album/3UL8McXSHQRKs64ooxTrsJ"
+      },
+      "artists": [
+        {
+          "name": "Bustin' Loose",
+          "url": "https://open.spotify.com/artist/3HrT4BHXxvlPrfP8SVst0t"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291986,
+      "name": "Pharoah's Lean Time",
+      "url": "https://open.spotify.com/track/3mJcM9Jr0BuCcXrpYuzUBe"
+    },
+    {
+      "album": {
         "name": "Phases (feat. dreamcastmoe)",
         "url": "https://open.spotify.com/album/7LPIzGmvdtNgLdGPlxHjKn"
       },
@@ -5736,6 +5754,32 @@
       "duration_ms": 213874,
       "name": "Play It Off - BLOWSOM Remix",
       "url": "https://open.spotify.com/track/5JMGPedbNolzY3js0CZhft"
+    },
+    {
+      "album": {
+        "name": "Play Me Off (feat. LYMA)",
+        "url": "https://open.spotify.com/album/01ST1xjYZVHcb6PEl4V875"
+      },
+      "artists": [
+        {
+          "name": "Kyle Walker",
+          "url": "https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP"
+        },
+        {
+          "name": "FLETCH",
+          "url": "https://open.spotify.com/artist/5HkPQOedMse24M2meekew4"
+        },
+        {
+          "name": "LYMA",
+          "url": "https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203637,
+      "name": "Play Me Off - feat. LYMA",
+      "url": "https://open.spotify.com/track/5FAiWHvek4lCUcFknERLyg"
     },
     {
       "album": {
@@ -6690,6 +6734,24 @@
       "duration_ms": 263297,
       "name": "Sit & Talk",
       "url": "https://open.spotify.com/track/40UxIicJJ14RQaW4pjt8hx"
+    },
+    {
+      "album": {
+        "name": "Sleepwalking",
+        "url": "https://open.spotify.com/album/0Bf1QKo9KdzPtpLY3pRPEO"
+      },
+      "artists": [
+        {
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162051,
+      "name": "Sleepwalking",
+      "url": "https://open.spotify.com/track/33AhUMkQqyaRGJi0U9hXxt"
     },
     {
       "album": {

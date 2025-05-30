@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Wet Leg au top des meilleurs morceaux rock du moment.",
+  "description": "Green Day au top des meilleurs morceaux rock du moment.",
   "name": "Top of the Rock",
   "tracks": [
     {
@@ -416,7 +416,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 177120,
       "name": "Another Boy",
       "url": "https://open.spotify.com/track/1Qp8rEHhxtjhk4VixcKLlg"
@@ -546,6 +546,24 @@
       "duration_ms": 167493,
       "name": "Au Paradis",
       "url": "https://open.spotify.com/track/3cT59lbXrmp1YQmh4FK61I"
+    },
+    {
+      "album": {
+        "name": "KIDS",
+        "url": "https://open.spotify.com/album/2uvIjj6OWipQPpVwLAgUVG"
+      },
+      "artists": [
+        {
+          "name": "The Odds",
+          "url": "https://open.spotify.com/artist/1Tcb7Fen1mZVvGdGNnPJX0"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265308,
+      "name": "Avant qu'elle ne parte",
+      "url": "https://open.spotify.com/track/1IkRLNPbQaoBZoyAyhGrIg"
     },
     {
       "album": {
@@ -2815,6 +2833,24 @@
     },
     {
       "album": {
+        "name": "FOREVER",
+        "url": "https://open.spotify.com/album/52iIfDstVzVMMAuOsFJ2YA"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152506,
+      "name": "if i had a gun",
+      "url": "https://open.spotify.com/track/4rYoirkxujHEP1hhKZcMrl"
+    },
+    {
+      "album": {
         "name": "Illusion",
         "url": "https://open.spotify.com/album/147gy4rgELPkH5pZVXVA08"
       },
@@ -4296,7 +4332,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 262805,
       "name": "People Ruin Paintings",
       "url": "https://open.spotify.com/track/2CqvMjkMP1YXLVdK0zBLCQ"

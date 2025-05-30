@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 
 > Crusin' is not a crime, it's a lifestyle!
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,336 likes - 150 songs - 8 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,422 likes - 150 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 | 19 | [Sitting In The Park](https://open.spotify.com/track/0Iwbts8iqaJJh2kPiXbtgV) | [Billy Stewart](https://open.spotify.com/artist/21llKqnS025UdaAMslJS4J) | [I Do Love You](https://open.spotify.com/album/46qsxPOOdmWwTrfhvcqKlU) | 3:14 |
 | 20 | [Ain't No Woman \(Like The One I've Got\)](https://open.spotify.com/track/6q8NBpF6twALMb86FBpLgQ) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Keeper Of The Castle](https://open.spotify.com/album/0WwvY1uMFowKCrcFqF87o9) | 3:07 |
 | 21 | [Suavecito](https://open.spotify.com/track/5QoFWpXoaUyT44VmR98wLl) | [Malo](https://open.spotify.com/artist/2vmTJisPQCD5ThbxbFehAB) | [Malo](https://open.spotify.com/album/0idohj8jELOTtI3sUdGWUo) | 6:35 |
-| 22 | [Natural High](https://open.spotify.com/track/7aKrysuyZvDnU3JwnlO3dd) | [Bloodstone](https://open.spotify.com/artist/7z1zaOeWiHpl4SD2N9ZBgk) | [Natural High](https://open.spotify.com/album/4kjf1C8Xpqr2e7pTDwblG2) | 4:00 |
+| 22 | [Just One Look](https://open.spotify.com/track/154uJXAUVoqvV5on0w03a0) | [Doris Troy](https://open.spotify.com/artist/3jiBDfjnWIdLQEEOdKqZex) | [Sings Just One Look And Other Memorable Selections](https://open.spotify.com/album/2CLiFy7JO1bmkNV6LFEMix) | 2:31 |
 | 23 | [Me And You](https://open.spotify.com/track/6HTFY66ZttBULqR1108Zmy) | [Brenton Wood](https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K) | [Baby You Got It](https://open.spotify.com/album/6k6HGujFFmxxqt4cD1AL4N) | 3:02 |
-| 24 | [Just One Look](https://open.spotify.com/track/154uJXAUVoqvV5on0w03a0) | [Doris Troy](https://open.spotify.com/artist/3jiBDfjnWIdLQEEOdKqZex) | [Sings Just One Look And Other Memorable Selections](https://open.spotify.com/album/2CLiFy7JO1bmkNV6LFEMix) | 2:31 |
+| 24 | [Natural High](https://open.spotify.com/track/7aKrysuyZvDnU3JwnlO3dd) | [Bloodstone](https://open.spotify.com/artist/7z1zaOeWiHpl4SD2N9ZBgk) | [Natural High](https://open.spotify.com/album/4kjf1C8Xpqr2e7pTDwblG2) | 4:00 |
 | 25 | [Float On \- Single Version](https://open.spotify.com/track/4kxDa9niTJIyh89afKjpCR) | [The Floaters](https://open.spotify.com/artist/6GpuL6WNTOVhmMl6lZbiKS) | [The ABC's Of Soul, Vol\. 3 \(Classics From The ABC Records Catalog 1975\-1979\)](https://open.spotify.com/album/3pbZUEap46WPw4nxrSjP4n) | 4:15 |
 | 26 | [Baby, I'm Yours](https://open.spotify.com/track/6ldnKaF2UYpOtmpOAOwlQe) | [Barbara Lewis](https://open.spotify.com/artist/2UocIcNiHj5n4tj1CnBzRq) | [Baby, I'm Yours](https://open.spotify.com/album/0rmDDX6kd3GGmsfYVAlHfN) | 2:28 |
 | 27 | [I Wanna Get Next To You](https://open.spotify.com/track/1rff5WJrSljfCLYFoXkDiT) | [Rose Royce](https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO) | [Car Wash](https://open.spotify.com/album/1lUemDpotxT7p1aCGSvWDz) | 3:58 |
@@ -53,11 +53,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 | 43 | [Tell Him](https://open.spotify.com/track/0VZtkNntW57HvblvTBlABe) | [Patti Drew](https://open.spotify.com/artist/6CADfReW3qshQNGQ4yPf6c) | [Workin' On A Groovy Thing....The Best Of](https://open.spotify.com/album/0KFewH4mFw54lLLoP3lsRb) | 2:31 |
 | 44 | [Fire And Desire](https://open.spotify.com/track/6XJdmdiLRvvQXRLMenQmjx) | [Rick James](https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL), [Teena Marie](https://open.spotify.com/artist/61UT1Zj9dFgPAjZfwnsqsb) | [Street Songs \(Deluxe Edition\)](https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5) | 7:17 |
 | 45 | [Make It With You](https://open.spotify.com/track/1MTjPvCioj81IsSX66IB2a) | [Ralfi Pagan](https://open.spotify.com/artist/5Wq4oFrEbsAvYqQ1cc6vLz) | [With Love](https://open.spotify.com/album/6tusv1rVUc9eH5XbeXfFud) | 4:45 |
-| 46 | [Tell It Like It Is](https://open.spotify.com/track/66BjgQodHebiX5QGpBAjyQ) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [The Very Best Of Aaron Neville](https://open.spotify.com/album/5p30oP23JCMDwHXM7f6ECa) | 2:44 |
-| 47 | [Since I Don't Have You \(Alternative Take\)](https://open.spotify.com/track/4uAalOPic5WOPJF1kANXCt) | [The Skyliners](https://open.spotify.com/artist/4JeG1IusHcsL2owYnsJ7wk) | [The Skyliners](https://open.spotify.com/album/1NkPqMACJL2PejSrAZzbiQ) | 2:38 |
+| 46 | [Since I Don't Have You \(Alternative Take\)](https://open.spotify.com/track/4uAalOPic5WOPJF1kANXCt) | [The Skyliners](https://open.spotify.com/artist/4JeG1IusHcsL2owYnsJ7wk) | [The Skyliners](https://open.spotify.com/album/1NkPqMACJL2PejSrAZzbiQ) | 2:38 |
+| 47 | [Tell It Like It Is](https://open.spotify.com/track/66BjgQodHebiX5QGpBAjyQ) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [The Very Best Of Aaron Neville](https://open.spotify.com/album/5p30oP23JCMDwHXM7f6ECa) | 2:44 |
 | 48 | [You Beat Me To The Punch](https://open.spotify.com/track/4Sz8zFchpHQVQVqVyGz5Jb) | [Mary Wells](https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7) | [The One Who Really Loves You](https://open.spotify.com/album/3LOSPDjqK3UrZ0Ab5rGMdm) | 2:45 |
-| 49 | [Don't Let No One Get You Down](https://open.spotify.com/track/08aSprc2fv1viNls6RmLdN) | [War](https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I) | [Why Can't We Be Friends?](https://open.spotify.com/album/59euB5Ns7yGbS06OYHwxRN) | 4:00 |
-| 50 | [Hey There Lonely Girl](https://open.spotify.com/track/1MI8aQJAoaYhIaVNz5giKB) | [Eddie Holman](https://open.spotify.com/artist/4hLuzWVCPicO3nNHfFvB32) | [I Love You](https://open.spotify.com/album/7Ab7hqMWNwYcUGCrltzX8r) | 3:36 |
+| 49 | [Hey There Lonely Girl](https://open.spotify.com/track/1MI8aQJAoaYhIaVNz5giKB) | [Eddie Holman](https://open.spotify.com/artist/4hLuzWVCPicO3nNHfFvB32) | [I Love You](https://open.spotify.com/album/7Ab7hqMWNwYcUGCrltzX8r) | 3:36 |
+| 50 | [Don't Let No One Get You Down](https://open.spotify.com/track/08aSprc2fv1viNls6RmLdN) | [War](https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I) | [Why Can't We Be Friends?](https://open.spotify.com/album/59euB5Ns7yGbS06OYHwxRN) | 4:00 |
 | 51 | [I Do Love You](https://open.spotify.com/track/3J0VYipa6lrdBkjLM7j4iI) | [Billy Stewart](https://open.spotify.com/artist/21llKqnS025UdaAMslJS4J) | [I Do Love You](https://open.spotify.com/album/46qsxPOOdmWwTrfhvcqKlU) | 2:57 |
 | 52 | [In The Rain](https://open.spotify.com/track/6aKFAhG7hCy71wLDMKjP5G) | [The Dramatics](https://open.spotify.com/artist/2W8UTum7bU7ue6m0r14H97) | [The Very Best Of The Dramatics](https://open.spotify.com/album/1smTgNR8x8iq1EkhFyoFT7) | 3:29 |
 | 53 | [Earth Angel \(Will You Be Mine\)](https://open.spotify.com/track/11XR0tRT4g5ov4u8M92wbF) | [The Penguins](https://open.spotify.com/artist/6lOk7hCr8x3O9vHwylXyHR) | [The Best Of The Penguins](https://open.spotify.com/album/22MQotgEOE29gE6YnhN4Ox) | 2:59 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04naX6.md) - [plain]
 
 > This is Yandel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,211 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,219 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04naX6.md) - [plain]
 | 49 | [Te Suelto El Pelo / Dembow Medley \- Sinfónico En Vivo](https://open.spotify.com/track/2qZdmfOUoZpZElWroObqS5) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [SINFÓNICO \(En Vivo\)](https://open.spotify.com/album/6qBMMQeQLfUxEs47lK085F) | 2:25 |
 | 50 | [Cuanto Vale](https://open.spotify.com/track/3WHnnU4jaCPfzywrqSF5kl) | [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Cuanto Vale](https://open.spotify.com/album/0xh0WBa0N4bQsbowMvDCIH) | 2:45 |
 
-Snapshot ID: `aDUAgAAAAACucytEiO+U3VPx2SynX62R`
+Snapshot ID: `aDZSAAAAAAAw8TAw+Txu9pNv/N+JI/Mm`

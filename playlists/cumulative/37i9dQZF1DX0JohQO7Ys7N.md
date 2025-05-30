@@ -2,9 +2,9 @@
 
 ### [NairoBae](https://open.spotify.com/playlist/37i9dQZF1DX0JohQO7Ys7N)
 
-> Kickback, Relax to some smooth R&B from Nairobi \-The city under the Sun\. Cover: Clark Keeng, Zawadi Mukami & Chris Barr
+> Kickback, Relax to some smooth R&B from Nairobi \-The city under the Sun\. Cover: Ochiko
 
-270 songs - 15 hr 6 min
+272 songs - 15 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Further From Me](https://open.spotify.com/track/53SWYv39WMzmGub1PAd7O2) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN), [Faygos Paradise](https://open.spotify.com/artist/0gHLI704d9CPdory3r1URi) | [Further From Me](https://open.spotify.com/album/0fbR7cmYJ8f0AwqglWbpb9) | 2:17 | 2024-06-13 |  |
 | [Go](https://open.spotify.com/track/1bHbElmOOzqRNui7Ocq4Vp) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ), [Chemutai Sage](https://open.spotify.com/artist/2mP0v7i6JeL8yXPfey97lx) | [Go](https://open.spotify.com/album/0YT2PJ2AbXqRbz4Oj3ew0Z) | 2:59 | 2023-01-26 | 2024-09-27 |
 | [Goodbye](https://open.spotify.com/track/0qKSG9DU0TLp8Sy77N0BFU) | [Shanki Austine](https://open.spotify.com/artist/6itwRcitEN1S39bvzrWsNM), [Bee Muziki](https://open.spotify.com/artist/5bUi75yAVr0SuEFhtmm69j) | [Beginning EP](https://open.spotify.com/album/1dxogKeICt9bHr4z4EivFa) | 3:22 | 2024-11-07 | 2025-01-17 |
+| [Guidance](https://open.spotify.com/track/45pMPoDTfSRolpU5qRw54v) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Guidance](https://open.spotify.com/album/5rJTqmaSUmsoWCqM0nfLF0) | 2:55 | 2025-05-29 |  |
 | [Haba Na Haba](https://open.spotify.com/track/7iB7aG563XdqyqGLpb1BYj) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [Effji](https://open.spotify.com/artist/7Ct2oQCP2BEMpMBqk2lRJK) | [Colours](https://open.spotify.com/album/3clJXsKbeadJqCZoURhp5R) | 2:59 | 2022-07-22 | 2024-05-04 |
 | [Hamu](https://open.spotify.com/track/5tE1NiKNG949IRPuDUe0No) | [Clark Keeng](https://open.spotify.com/artist/3trMdyvF4qVEceHElT1oAP), [Zawadi Mukami](https://open.spotify.com/artist/49UnEPh42EMERfMtt6jf6v), [Chris Barr](https://open.spotify.com/artist/4RCcD8VHtHFG79JbhkBcpo) | [Musings](https://open.spotify.com/album/4tP74evyRsApusUxzoOlij) | 3:57 | 2025-05-15 |  |
 | [Happy](https://open.spotify.com/track/6mfOlusYuEHqUjYRh5msRB) | [Davy Waweru](https://open.spotify.com/artist/19Y9KysWDrkmZyMy8VRpOp), [The Proverbial Kiki](https://open.spotify.com/artist/2kF0bcJNoJm8d21xlnAGT8) | [Happy](https://open.spotify.com/album/50yMpW5GhzhpZhBZ0mqDu3) | 3:50 | 2024-11-21 |  |
@@ -210,7 +211,7 @@
 | [Saviour](https://open.spotify.com/track/5NaYtbE1183SMAa57dDH8w) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Iyanah](https://open.spotify.com/artist/6dRAXLNCcsl6P2mgIu6WhO) | [Saviour](https://open.spotify.com/album/1g4JkRkSgMy2DwaO2Kb7aJ) | 2:25 | 2022-05-19 | 2023-01-13 |
 | [SBLTLA](https://open.spotify.com/track/4U4XZWxsMKtcd6lOVSZT1z) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [SBLTLA](https://open.spotify.com/album/6ZmoFJLKAUoNKzuxyQa8Xb) | 1:59 | 2024-02-22 | 2024-10-18 |
 | [Secret Love](https://open.spotify.com/track/0GtSe2T7ddleLyYRrDQwSF) | [Njoki Karu](https://open.spotify.com/artist/0pGewSIX8FwwBqZLsbDk7F) | [Secret Love](https://open.spotify.com/album/6JwMBgQOEwAhZD6MbH26Bp) | 3:48 | 2021-12-28 | 2022-07-30 |
-| [Secret Lover](https://open.spotify.com/track/5wTCpN911fjwZYhnCYzX7k) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ), [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Secret Lover](https://open.spotify.com/album/0aZpLxujAEhkWnYT9yeZe1) | 2:51 | 2023-07-13 |  |
+| [Secret Lover](https://open.spotify.com/track/5wTCpN911fjwZYhnCYzX7k) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ), [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Secret Lover](https://open.spotify.com/album/0aZpLxujAEhkWnYT9yeZe1) | 2:51 | 2023-07-13 | 2025-05-30 |
 | [Sema](https://open.spotify.com/track/4S2LpLITlVGrvOttc4rCtu) | [Wendy Kay](https://open.spotify.com/artist/4xRJ8mtHNzJYvlJbspGFO6) | [Sema](https://open.spotify.com/album/7j0fwr3cxUNQH4vz5ISY7F) | 3:03 | 2025-02-07 |  |
 | [Sema Milele](https://open.spotify.com/track/2etocCZTaYXfYFwvd7a3mp) | [Gilad](https://open.spotify.com/artist/69X8GGcAC4PnkhReqPFDXQ) | [Asante](https://open.spotify.com/album/2aY4NZfuqdZxNWVfq0qksF) | 4:16 | 2025-02-13 | 2025-02-21 |
 | [Shea Butter Baby](https://open.spotify.com/track/2QzHJns0EJD4nCQ1AevgwL) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [Shea Butter Baby](https://open.spotify.com/album/2pOcq4SAJfA8B7eXPwseIt) | 2:33 | 2022-04-28 | 2022-09-23 |
@@ -245,6 +246,7 @@
 | [the one](https://open.spotify.com/track/3N1kTwDdzYW0R6oHwkgENB) | [NGE\-THE\-PRODUCER](https://open.spotify.com/artist/5oV5Wd6ZbxfzzlHqlOchXS), [Iyanah](https://open.spotify.com/artist/6dRAXLNCcsl6P2mgIu6WhO) | [the one](https://open.spotify.com/album/1r6ei26yZTJDOMktiyOAzE) | 2:59 | 2024-02-15 | 2024-09-27 |
 | [The One](https://open.spotify.com/track/6YfzjQil3otRR3siUApB7w) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Unintentional](https://open.spotify.com/album/3xFZSjfSHift08OC7MImAb) | 2:58 | 2025-02-13 | 2025-02-21 |
 | [the vow](https://open.spotify.com/track/32Y8v6M0TfvQcObHbAAfr5) | [malosh](https://open.spotify.com/artist/5Cg5h5rAVMPxZyc4TWNNDu) | [the vow](https://open.spotify.com/album/5L9h9l0GrjkDG11g6H1WQE) | 4:04 | 2025-02-13 | 2025-02-21 |
+| [The World](https://open.spotify.com/track/6AIPUgPeeZlyjlmYJJvQG3) | [Ochiko](https://open.spotify.com/artist/33hRHDCTA20GjDaJaCIEXi) | [The World](https://open.spotify.com/album/01qXWieSBkM6m8tNHTIILL) | 2:12 | 2025-05-29 |  |
 | [Three Little Birds](https://open.spotify.com/track/7vGO9525GQZMGfc6qEY6BZ) | [Jason Sibi\-Okumu](https://open.spotify.com/artist/62RxzBJ449g8jS0gZp4X06), [Lullaby Club](https://open.spotify.com/artist/4NRmTiCjbKDTSJmwhOjDnq) | [Three Little Birds](https://open.spotify.com/album/22uuw7dC7oXrWHITQ2DHjh) | 2:48 | 2023-02-23 | 2023-10-20 |
 | [till forever ends](https://open.spotify.com/track/2ZVOWgbP2Nj76kctTF1jjX) | [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [little messages](https://open.spotify.com/album/7hDzyjqHrig751Igo5ebvN) | 2:56 | 2023-08-24 | 2024-09-13 |
 | [TLC \(No Love Lost\)](https://open.spotify.com/track/0GHPNxbsnpVtpUc2YSFoiR) | [Aurie](https://open.spotify.com/artist/0mdtCl5QYMb1p4y24HJQi8) | [TLC \(No Love Lost\)](https://open.spotify.com/album/1d8JoyDnHixTiyya5DO0TW) | 3:45 | 2024-05-30 | 2024-09-20 |
@@ -268,7 +270,7 @@
 | [WARNING](https://open.spotify.com/track/6HOOJ2LbasnZqxuqlaNSfk) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [Amara Tari](https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd) | [WARNING](https://open.spotify.com/album/4HYPMdHDoTzGLCeB9nVxxZ) | 4:06 | 2023-04-27 | 2024-03-01 |
 | [We're Made For Each Other](https://open.spotify.com/track/2G5EyrYbvXoUIpwqzGLgK1) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [Love Letters II](https://open.spotify.com/album/4YPEUtBlXYKlVpxAezEElY) | 2:28 | 2022-03-03 | 2024-06-01 |
 | [Weapon](https://open.spotify.com/track/2Ycm5ifNu1SC0ff8sJKero) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw) | [Weapon](https://open.spotify.com/album/2DmSvDDCxoM0KqwmoPrBVo) | 2:35 | 2024-05-30 |  |
-| [Wendo Mwaki \- From Un\-Adult\-Erated](https://open.spotify.com/track/4FQ7pGtcUpFVMGLxDHij79) | [Tuku Kantu](https://open.spotify.com/artist/4XOkxpgkjiajWy1yEb1o24) | [Wendo Mwaki \- From Un\-Adult\-Erated](https://open.spotify.com/album/2mkFVIgMDrSG6BaHVQdFiM) | 3:36 | 2023-03-30 |  |
+| [Wendo Mwaki \- From Un\-Adult\-Erated](https://open.spotify.com/track/4FQ7pGtcUpFVMGLxDHij79) | [Tuku Kantu](https://open.spotify.com/artist/4XOkxpgkjiajWy1yEb1o24) | [Wendo Mwaki \- From Un\-Adult\-Erated](https://open.spotify.com/album/2mkFVIgMDrSG6BaHVQdFiM) | 3:36 | 2023-03-30 | 2025-05-30 |
 | [What I See](https://open.spotify.com/track/7jDkmNjxPQ0F2b7D4agmTG) | [Amara Tari](https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd), [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p), [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520) | [What I See](https://open.spotify.com/album/1GeUTD1xqgMWH0qzOffTMX) | 2:54 | 2021-12-28 |  |
 | [Where Ya Been? \- A COLORS SHOW](https://open.spotify.com/track/6am2YNS3MTz3SbWkBUY234) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Where Ya Been? \- A COLORS SHOW](https://open.spotify.com/album/0oqzFS1ec6worWKBAzgolc) | 2:57 | 2023-11-16 | 2024-07-27 |
 | [Wild Ride \- A COLORS SHOW](https://open.spotify.com/track/4Ypa7u8GYWX0u0wP5wntsU) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Wild Ride \- A COLORS SHOW](https://open.spotify.com/album/4amcd3oEcwScFQDtGjSaQR) | 2:42 | 2023-10-26 | 2024-08-16 |

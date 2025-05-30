@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: LILA",
+  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: ZAF",
   "name": "Greek Pop",
   "tracks": [
     {
@@ -298,6 +298,24 @@
       "duration_ms": 193725,
       "name": "Amen",
       "url": "https://open.spotify.com/track/24fOgjgY2y4FLJxFUYaxHv"
+    },
+    {
+      "album": {
+        "name": "AN",
+        "url": "https://open.spotify.com/album/4owPdFivPHH2hE7iTzOoAJ"
+      },
+      "artists": [
+        {
+          "name": "ZAF",
+          "url": "https://open.spotify.com/artist/0vC9IaLo87ruiqkOXmPvPO"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207457,
+      "name": "AN",
+      "url": "https://open.spotify.com/track/1bJkO9a9TtPsac9HwYYcM3"
     },
     {
       "album": {
@@ -892,7 +910,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 212125,
       "name": "Den Yparxei - 2025 Edition",
       "url": "https://open.spotify.com/track/1GY4WYWJSi6Ylmjyx4tAON"
@@ -1484,6 +1502,28 @@
       "duration_ms": 169183,
       "name": "Halima",
       "url": "https://open.spotify.com/track/51IOc0jl3D1jzh9gxmYB0n"
+    },
+    {
+      "album": {
+        "name": "SIMADIA",
+        "url": "https://open.spotify.com/album/0CAvn2OV8DW0vLWuC53qTn"
+      },
+      "artists": [
+        {
+          "name": "Yianna Terzi",
+          "url": "https://open.spotify.com/artist/6jyr8jHac3RvXIltjYqVJi"
+        },
+        {
+          "name": "Billie Kark",
+          "url": "https://open.spotify.com/artist/6hDmweft2NBTVSnCPJ5pMc"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213301,
+      "name": "HASA",
+      "url": "https://open.spotify.com/track/4Q9yLvIpt6JL7eFx1MHXc0"
     },
     {
       "album": {
@@ -2128,7 +2168,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 173778,
       "name": "MONOTONIA",
       "url": "https://open.spotify.com/track/19ADuEN97q85XJ5Ngsjm3m"

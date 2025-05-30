@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 
 > Mantras for meditation
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,410 likes - 75 songs - 13 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,459 likes - 75 songs - 13 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 | 18 | [Rudrashtakam](https://open.spotify.com/track/6mCgtFIQzX4CM44c4Aiot0) | [Sounds of Isha](https://open.spotify.com/artist/07dLDdQaGtCzRksu1phXbG) | [In The Lap Of The Master](https://open.spotify.com/album/1DILWzzJrIFZJ2yxovYtfa) | 6:15 |
 | 19 | [Shivoham](https://open.spotify.com/track/2ifsTVDxbc3BGBPEwrOez5) | [Singers of the Art of Living](https://open.spotify.com/artist/0yl2Dss8OxbolyTnWFqKbi) | [Sacred Chants of Shiva](https://open.spotify.com/album/1YIp5NKAM9vdbt2uB4uai3) | 6:29 |
 | 20 | [The End Of Suffering](https://open.spotify.com/track/29cXtyDKRZXqS5tGgVgK2F) | [Gary Malkin](https://open.spotify.com/artist/7cZvGGhX1EVTClGSqhrvtY), [Thich Nhat Hanh](https://open.spotify.com/artist/270IOtdDWXOUR4YZXMUFJZ), [Dan Alvarez](https://open.spotify.com/artist/3AlqldQ9PkBDPfXjPIggFW) | [Graceful Passages](https://open.spotify.com/album/0rU9Oa0xCjUbAmcIcZBIgX) | 7:13 |
-| 21 | [Bendición de Guru](https://open.spotify.com/track/5rNgiNxnzyeKYCVA9yTqSg) | [Lama Dorje](https://open.spotify.com/artist/1zTJulYHHc7xqncJh2qw9Z) | [Mantras Budista](https://open.spotify.com/album/7AfpljlxDdVVf4AQcpjamv) | 4:29 |
-| 22 | [Offering Chant](https://open.spotify.com/track/542Ucy3XlU0OsIVXKZzBKi) | [Lama Gyurme](https://open.spotify.com/artist/4GwVYugBix3aehjspW1uqG), [Jean\-Philippe Rykiel](https://open.spotify.com/artist/1a3YO3CW9t7nyNUUkYNzVn) | [Roads Of Blessings \- Songs Of Awakening](https://open.spotify.com/album/4grwUAIp3r6OBmsS6D2ZGV) | 7:07 |
+| 21 | [Offering Chant](https://open.spotify.com/track/542Ucy3XlU0OsIVXKZzBKi) | [Lama Gyurme](https://open.spotify.com/artist/4GwVYugBix3aehjspW1uqG), [Jean\-Philippe Rykiel](https://open.spotify.com/artist/1a3YO3CW9t7nyNUUkYNzVn) | [Roads Of Blessings \- Songs Of Awakening](https://open.spotify.com/album/4grwUAIp3r6OBmsS6D2ZGV) | 7:07 |
+| 22 | [Bendición de Guru](https://open.spotify.com/track/5rNgiNxnzyeKYCVA9yTqSg) | [Lama Dorje](https://open.spotify.com/artist/1zTJulYHHc7xqncJh2qw9Z) | [Mantras Budista](https://open.spotify.com/album/7AfpljlxDdVVf4AQcpjamv) | 4:29 |
 | 23 | [Laxmi Mantra 108 Times](https://open.spotify.com/track/659rdNcG2Ldqhg6azH0XRa) | [Nipun Aggarwal](https://open.spotify.com/artist/5yp0kBtdnmEAqQE02L7Wox) | [Laxmi Mantra 108 Times](https://open.spotify.com/album/4OkDBv1NEa6MgxffSMF3mz) | 14:56 |
 | 24 | [Green Tara Mantra](https://open.spotify.com/track/7yivO15nGU6ddIA93aQnUR) | [His Holiness The Dalai Lama](https://open.spotify.com/artist/7pXijXYl63Nj4YW1UlGEOB) | [Songs Of Tara](https://open.spotify.com/album/5hdeJwvfNrUPqm1BYRBVqv) | 7:24 |
 | 25 | [Medicine Buddha](https://open.spotify.com/track/7jNagGQtwQxeAFoJAhPDia) | [Tinna Tình](https://open.spotify.com/artist/6PYJL7J4R74JFJBpobiyO3) | [Buddhist Mantras, Vol\. 1](https://open.spotify.com/album/1oOuBr8IZQ6PLvT5nLzC0t) | 7:36 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 | 74 | [Shloka](https://open.spotify.com/track/2pChwr7eWvftb5KoC8YOKS) | [Pandit Jasraj](https://open.spotify.com/artist/6vvIQFcpGLIum7HYhYwNx0) | [Durga](https://open.spotify.com/album/5cc9E4jWCXtdVj3rAwh1kg) | 4:09 |
 | 75 | [Lingashtakam](https://open.spotify.com/track/664589X4AEPP7wqeduHx0W) | [Ashit Desai](https://open.spotify.com/artist/5tF1NFJk94pRxMjqMVGjIW), [Hema Desai](https://open.spotify.com/artist/2oKrQNVX1h5pXjDK5dNjln), [Alap Desai](https://open.spotify.com/artist/56Z4uEVUQTmYESTHyrPECN) | [Shivoham](https://open.spotify.com/album/4oDggXTk0GxDUsFc6s2IM9) | 2:40 |
 
-Snapshot ID: `aC6cowAAAAB216xI6XqDnr/4vrClOa2X`
+Snapshot ID: `aDff0wAAAAD8hmJnGzrYOkHnXSyzLG5j`

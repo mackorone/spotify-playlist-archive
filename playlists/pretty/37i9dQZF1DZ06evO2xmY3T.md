@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2xmY3T.md) - [plain]
 
 > This is Cardi B\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 680,849 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 680,850 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2xmY3T.md) - [plain]
 | 47 | [Bitter \- Narration By Cardi B](https://open.spotify.com/track/5cwnxz6QPfbOf731UPqphs) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 4:41 |
 | 48 | [Wish Wish \(feat\. Cardi B & 21 Savage\)](https://open.spotify.com/track/1Hd2XLitkt1PYCWSbfF5qV) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Father Of Asahd](https://open.spotify.com/album/1YgX8BWKleDlDeCOFklRfz) | 3:22 |
 | 49 | [Point Me 2 \(with Cardi B\)](https://open.spotify.com/track/69ZBK01gsgWUnA55BEaAPu) | [FendiDa Rappa](https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Point Me 2 \(with Cardi B\)](https://open.spotify.com/album/5My6f8l17o6nvsTDT8Qd2l) | 3:45 |
-| 50 | [Higher Love \(feat\. Natania and Subhi\) \- from the Smurfs Movie Soundtrack](https://open.spotify.com/track/7vh5wN9o1meMGK8DooO7KD) | [DESI TRILL](https://open.spotify.com/artist/22FwGMhBDU8drx91GTxkxJ), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX), [Subhi](https://open.spotify.com/artist/2n4qix48iT07tbyBdxAjM2) | [Higher Love \(feat\. Natania and Subhi\) \[from the Smurfs Movie Soundtrack\]](https://open.spotify.com/album/4AitGOdoQPQZGcpiGXMHAq) | 2:56 |
+| 50 | [La Bebe \- Remix](https://open.spotify.com/track/3DyiAk1BzIF8rq9rimypG4) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Black Jonas Point](https://open.spotify.com/artist/5ImkeVBlU11axX5QwOWg12), [Secreto "El Famoso Biberon"](https://open.spotify.com/artist/37UACiDcdzEYii0iU0QpAf), [Liro Shaq](https://open.spotify.com/artist/3oOJYwLB8FGSKYOQ5zx7Kk) | [La Bebe \(Remix\)](https://open.spotify.com/album/1hUWE99C1h8yBHZT8KxP4V) | 6:14 |
 
-Snapshot ID: `aDUAgAAAAACKjXsidaAsz7+f11LCB/Rj`
+Snapshot ID: `aDZSAAAAAAC3UCpYnsZmV9lNVP6bEcaA`

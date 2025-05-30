@@ -4,7 +4,7 @@
 
 > We introduce exciting artists to you from the Benelux: <a href="spotify:artist:7Iff7uMHGSpOygBkCsdcHq">Hiqpy</a> \(cover\)
 
-210 songs - 11 hr 14 min
+211 songs - 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [pocket locket](https://open.spotify.com/track/0SWVKG9dVSv0s1qdJKxp5c) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [parallel universe pt\. 1](https://open.spotify.com/album/4hKWAWw7dOBJvPiwghGWC5) | 3:08 | 2021-12-10 | 2022-10-13 |
 | [pocket locket](https://open.spotify.com/track/7t9d2YdmD87JC72pocMtlz) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [parallel universe pt\. 1](https://open.spotify.com/album/70LeV0ELqFrNx4KFNTtsaF) | 3:08 | 2022-10-05 | 2022-10-18 |
 | [popstar](https://open.spotify.com/track/6C2xaC4vv2eRwLqcy564vw) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [popstar](https://open.spotify.com/album/3QHPerVUNjQTLaEXilaMjE) | 3:08 | 2021-12-10 | 2022-03-19 |
+| [Red Flag Magician](https://open.spotify.com/track/2Or2qg4qhw5RXDbyCTGIdb) | [Hiqpy](https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq) | [Red Flag Magician](https://open.spotify.com/album/1gRciLdgJ2GetUgTSher9p) | 5:28 | 2025-05-29 |  |
 | [RELAPSE](https://open.spotify.com/track/3SuTqS0CuFnVxC52vBArPy) | [FAANGS](https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j) | [TEETH OUT](https://open.spotify.com/album/6wE7d28Rxv1y1v2FSaYnW2) | 2:37 | 2021-12-10 | 2022-10-18 |
 | [Ribéry](https://open.spotify.com/track/4LSO1o2dTqJedirEoyBNP0) | [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm) | [Ribéry](https://open.spotify.com/album/0qTO7678yKV6K6fdeFIb1Q) | 2:54 | 2023-06-23 | 2024-04-11 |
 | [Ride Away](https://open.spotify.com/track/3LsMYyzxZhp1Fg6Ehc40nw) | [Sylvie Kreusch](https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl) | [Ride Away](https://open.spotify.com/album/3wHNpeAiczJyp3OmVSWNTf) | 5:13 | 2024-07-31 | 2024-11-08 |

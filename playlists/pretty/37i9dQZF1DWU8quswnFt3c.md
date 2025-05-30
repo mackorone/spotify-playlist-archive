@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to Creators at full volume\. Cover: Katteyes
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,081,284 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,081,131 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 37 | [U Should Not Be Doing That](https://open.spotify.com/track/3UPoC4ul3EOALnD8lmTf8o) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Cartoon Darkness](https://open.spotify.com/album/0uMO9LgMLMtHzLnTSONd6k) | 3:26 |
 | 38 | [Vortex](https://open.spotify.com/track/7ySoma7tOtUTPSELihpcko) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 5:43 |
 | 39 | [eat, sleep, slay, 🔁](https://open.spotify.com/track/0Rv7Ql0ImNHE4LqZFrMldi) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [eat, sleep, slay, 🔁](https://open.spotify.com/album/3jtObNyZd0OIHbImdtQo7h) | 2:29 |
-| 40 | [All I Am](https://open.spotify.com/track/7z1knymHRO7iuMys6dnanT) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [All I Am](https://open.spotify.com/album/1F5otXEI2rOJD3LOJafnM4) | 3:02 |
-| 41 | [La Batteria](https://open.spotify.com/track/09GeLKK8IwFBEUVzLlhVQ0) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [La Batteria](https://open.spotify.com/album/5fWRKpCVzmZ0a7hDdBB4ru) | 2:40 |
+| 40 | [La Batteria](https://open.spotify.com/track/09GeLKK8IwFBEUVzLlhVQ0) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [La Batteria](https://open.spotify.com/album/5fWRKpCVzmZ0a7hDdBB4ru) | 2:40 |
+| 41 | [All I Am](https://open.spotify.com/track/7z1knymHRO7iuMys6dnanT) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [All I Am](https://open.spotify.com/album/1F5otXEI2rOJD3LOJafnM4) | 3:02 |
 | 42 | [Guilty](https://open.spotify.com/track/6D3YpYu7OXAruxDiElKrE7) | [BLANKA](https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm) | [Guilty](https://open.spotify.com/album/6sFyzjGUkNN0tEHHVwMaDO) | 2:23 |
 | 43 | [Vále](https://open.spotify.com/track/45q6QPBVT0J0MGTfd2BP8E) | [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK) | [Vále](https://open.spotify.com/album/3OhENMvAvnspxbWRPELIGE) | 3:00 |
 | 44 | [Bad Boy](https://open.spotify.com/track/6JHLEqlfiQDVJ0SbSsZIyL) | [Linska](https://open.spotify.com/artist/5f7jxYF5js7lD5lMyIPUBq) | [Bad Boy](https://open.spotify.com/album/1TEKWGE5byHlJaed68p4BN) | 2:58 |
@@ -69,19 +69,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 59 | [everything is on fire](https://open.spotify.com/track/2kVOwGHpegpiUSkDmfTGsu) | [Ffion](https://open.spotify.com/artist/6gYn1myEM7sARWIoT2AVWG) | [everything is on fire](https://open.spotify.com/album/7lM95ZsaWOvYkdA57nbSAa) | 2:28 |
 | 60 | [What Have You Done To Me?](https://open.spotify.com/track/17R2aajQzh7XyR4b9pnggt) | [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [What Have You Done To Me?](https://open.spotify.com/album/10lnSg9ovtLdS5hNsaO1Gh) | 6:18 |
 | 61 | [科幻小說 \(prod\. by Sōryo\)](https://open.spotify.com/track/53XaSgJqHmYqhkJe4IpQEJ) | [陳嫺靜](https://open.spotify.com/artist/4wbipbaGeTXkuF5paNuJqB) | [如果每天都可以 happy happy 誰想要sad:＊\- 合作的秘密](https://open.spotify.com/album/54y9HZviKYV9sohtlYmBEb) | 3:13 |
-| 62 | [FLAG](https://open.spotify.com/track/20oj6Cd5kS3ULhCUGtaxql) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Luminescent Creatures](https://open.spotify.com/album/4rjsPDeHyY19vV6MZ2zHLt) | 4:36 |
-| 63 | [Estranha Forma de Vida](https://open.spotify.com/track/2Osr1484uvaGNh85VUOBzY) | [Amália Rodrigues](https://open.spotify.com/artist/0DBF33ctUe4yhxKP3eTcCt) | [O Melhor de Amália](https://open.spotify.com/album/2vaFo1N56rknRwypLER53u) | 3:17 |
+| 62 | [Estranha Forma de Vida](https://open.spotify.com/track/2Osr1484uvaGNh85VUOBzY) | [Amália Rodrigues](https://open.spotify.com/artist/0DBF33ctUe4yhxKP3eTcCt) | [O Melhor de Amália](https://open.spotify.com/album/2vaFo1N56rknRwypLER53u) | 3:17 |
+| 63 | [FLAG](https://open.spotify.com/track/20oj6Cd5kS3ULhCUGtaxql) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Luminescent Creatures](https://open.spotify.com/album/4rjsPDeHyY19vV6MZ2zHLt) | 4:36 |
 | 64 | [Benar Kata Temanku](https://open.spotify.com/track/153JoaPN0pXMFiIFwjoOgD) | [Avolia](https://open.spotify.com/artist/1kDkwvzm2Zsn4GFVbS3egE) | [Benar Kata Temanku](https://open.spotify.com/album/6Zad0I4yrlUwTzOWX8W7D8) | 2:28 |
-| 65 | [Tourment d’amour](https://open.spotify.com/track/1ePGj5Nuo4Q7GZ2AvnZQKb) | [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6) | [MUSE](https://open.spotify.com/album/7fZfHGgmDkyMDOTYFS5lfz) | 3:20 |
-| 66 | [BROKEN](https://open.spotify.com/track/3TWxBXRLQTPNr2E2wOop68) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [DÍA](https://open.spotify.com/album/39g8mTcJfSFimjIqtMxGJB) | 4:31 |
-| 67 | [The Lovey Dovey Song](https://open.spotify.com/track/5nqZmbB3xB0RO0RooubM4n) | [Mary Ann Alexander](https://open.spotify.com/artist/5Nd0pl530GmwyCK1lRGQqd) | [The Lovey Dovey Song](https://open.spotify.com/album/30SZowhZ6LpoAl0UyTbWYX) | 2:50 |
+| 65 | [The Lovey Dovey Song](https://open.spotify.com/track/5nqZmbB3xB0RO0RooubM4n) | [Mary Ann Alexander](https://open.spotify.com/artist/5Nd0pl530GmwyCK1lRGQqd) | [The Lovey Dovey Song](https://open.spotify.com/album/30SZowhZ6LpoAl0UyTbWYX) | 2:50 |
+| 66 | [Tourment d’amour](https://open.spotify.com/track/1ePGj5Nuo4Q7GZ2AvnZQKb) | [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6) | [MUSE](https://open.spotify.com/album/7fZfHGgmDkyMDOTYFS5lfz) | 3:20 |
+| 67 | [BROKEN](https://open.spotify.com/track/3TWxBXRLQTPNr2E2wOop68) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [DÍA](https://open.spotify.com/album/39g8mTcJfSFimjIqtMxGJB) | 4:31 |
 | 68 | [Some Type Of Skin \- Sofia Kourtesis Remix](https://open.spotify.com/track/1I8M5tRchiQYYZcV3f63j7) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Some Type Of Skin](https://open.spotify.com/album/473zzYVZR0UMnJH7Y0rNPi) | 3:24 |
 | 69 | [B.S.A.S\. \(Si Alguna Vez te Sentís Sola de Noche\)](https://open.spotify.com/track/5NHTGOuIM4GnLCoPTYnlvW) | [EQ](https://open.spotify.com/artist/1B8ycQsEGw3fUTkzWs5kFD), [Estratosfera](https://open.spotify.com/artist/4bmyQalHgw8xZFJ116P3ir), [Qiri](https://open.spotify.com/artist/4I9SixgrOaKltrQkY8o43u) | [B.S.A.S\. \(Si Alguna Vez te Sentís Sola de Noche\)](https://open.spotify.com/album/6LlR84Vm0bGpNxU1ZKE5Tr) | 4:24 |
-| 70 | [Make Up](https://open.spotify.com/track/17wgXMgncYVMa33et1WE4X) | [Mona Yim](https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv) | [Make Up](https://open.spotify.com/album/6rFEHXqExBkjde9Uhyadrj) | 3:22 |
-| 71 | [Ninacamina](https://open.spotify.com/track/5VOYJdMdKHsg9SPKFBcTfc) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Izzy Camina](https://open.spotify.com/artist/1bEvuUxdYlGYGq5WvDAE1u) | [girl EDM \(disc 1\)](https://open.spotify.com/album/25y6RQ7kNtXfELXhT4QfjN) | 3:07 |
+| 70 | [Ninacamina](https://open.spotify.com/track/5VOYJdMdKHsg9SPKFBcTfc) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Izzy Camina](https://open.spotify.com/artist/1bEvuUxdYlGYGq5WvDAE1u) | [girl EDM \(disc 1\)](https://open.spotify.com/album/25y6RQ7kNtXfELXhT4QfjN) | 3:07 |
+| 71 | [Make Up](https://open.spotify.com/track/17wgXMgncYVMa33et1WE4X) | [Mona Yim](https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv) | [Make Up](https://open.spotify.com/album/6rFEHXqExBkjde9Uhyadrj) | 3:22 |
 | 72 | [搶先看](https://open.spotify.com/track/75AS6DEA25spju7kia995D) | [Pets Tseng](https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w) | [搶先看](https://open.spotify.com/album/2rMLb7kbRXe26KkKmOqWWV) | 4:14 |
 | 73 | [Delusional](https://open.spotify.com/track/62aBKD0BTV1sSelm0JuDk7) | [Jamila](https://open.spotify.com/artist/2BvBcx9p9oqzuOzevudbic) | [Boyfriend Of The Year](https://open.spotify.com/album/64JVMpLwZvNhtlfAgBad4a) | 3:18 |
 | 74 | [If You Wanna Scream](https://open.spotify.com/track/2hGb8HWWbKNQ5MnXdJZpUc) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [If You Wanna Scream](https://open.spotify.com/album/1BCR9EGD8PONhIkaKp9xul) | 4:18 |
-| 75 | [Một\-Không \(1\-0\)](https://open.spotify.com/track/4MyExeNCwOz9da20pOX6iq) | [Đông Nhi](https://open.spotify.com/artist/6JTiPLdbZD2e0tDsN15U1s) | [Một \- Không \(1\-0\)](https://open.spotify.com/album/7AnsPhFqIloDBbkgqJuWEq) | 3:25 |
+| 75 | [Horses](https://open.spotify.com/track/3q9t1eJSGjzsKhs8iDKPfZ) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Light hit my face like a straight right](https://open.spotify.com/album/7MCnchlvwkuXpl9ltALktP) | 3:32 |
 
 Snapshot ID: `aC1QGQAAAADfHwLD2dfa7ySpPde4YsXw`

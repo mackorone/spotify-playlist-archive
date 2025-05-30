@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Kanine",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Camo & Krooked",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -538,7 +538,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 190965,
       "name": "All Good",
       "url": "https://open.spotify.com/track/62FbSkPORxLHtVMMIziCpE"
@@ -3004,6 +3004,24 @@
       "duration_ms": 216093,
       "name": "Censor (feat. Popcaan & IRAH)",
       "url": "https://open.spotify.com/track/18EcR5oRBNKqKqX9qxpcKC"
+    },
+    {
+      "album": {
+        "name": "CHA",
+        "url": "https://open.spotify.com/album/2suaRLhY4QywdFZztYoEAw"
+      },
+      "artists": [
+        {
+          "name": "Voltage",
+          "url": "https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204085,
+      "name": "CHA",
+      "url": "https://open.spotify.com/track/0JyWNzeJpSUvgWl6uXycVn"
     },
     {
       "album": {
@@ -8436,7 +8454,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 216685,
       "name": "IDGAF",
       "url": "https://open.spotify.com/track/5VEFvinD436JLHYunYwv0p"
@@ -19846,6 +19864,32 @@
       "duration_ms": 326750,
       "name": "Yeah Ya Kno",
       "url": "https://open.spotify.com/track/45xYxgfapnCZ1aacoxE73b"
+    },
+    {
+      "album": {
+        "name": "Yeah Yeah",
+        "url": "https://open.spotify.com/album/2p9GM8iVsMDpgDk2dQSPoK"
+      },
+      "artists": [
+        {
+          "name": "1991",
+          "url": "https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy"
+        },
+        {
+          "name": "Luciana",
+          "url": "https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV"
+        },
+        {
+          "name": "Dave Aud\u00e9",
+          "url": "https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204137,
+      "name": "Yeah Yeah",
+      "url": "https://open.spotify.com/track/3cYTnUooCbwikxo74eKc5Q"
     },
     {
       "album": {

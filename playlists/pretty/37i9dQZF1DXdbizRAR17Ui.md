@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 
 > When the night isn't over just yet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,441 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,476 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 | 43 | [All I Need](https://open.spotify.com/track/23DvufvHJAr0OUPfrB7g2J) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Things to Come](https://open.spotify.com/album/27vIEhBrsAL30xLMS41ZyA) | 2:43 |
 | 44 | [Out of the Blue](https://open.spotify.com/track/6A03CSx08EOVrRjH86iKA4) | [Youngr](https://open.spotify.com/artist/5TrkbV9x6OdTBlzWPJeBz5), [Samuel Miller](https://open.spotify.com/artist/4S1EXenN3a8icOr9keFIG8) | [Out of the Blue](https://open.spotify.com/album/3mpTEV9b2SI4ZJVCOgYgzn) | 3:21 |
 | 45 | [Devices](https://open.spotify.com/track/3aTLs7K3otOLePj92JM8Be) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Devices / Green](https://open.spotify.com/album/3KxNq8zMtKQkZlZqnsW3xm) | 5:10 |
-| 46 | [Protector](https://open.spotify.com/track/246PeUwGKXRy9Uvl3lQU9U) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Protector](https://open.spotify.com/album/0Lg5U1P4p7c2jjzZStHPkm) | 4:49 |
-| 47 | [Music Taught Me Life](https://open.spotify.com/track/6y7oSnVN2PpNvd4CUrvZBp) | [Rosbeh](https://open.spotify.com/artist/3TvVhn8o9gFioBKqBxEScE) | [Music Taught Me Life](https://open.spotify.com/album/2zU9Y18v6pTKuFUUBCCIQR) | 5:20 |
+| 46 | [Music Taught Me Life](https://open.spotify.com/track/6y7oSnVN2PpNvd4CUrvZBp) | [Rosbeh](https://open.spotify.com/artist/3TvVhn8o9gFioBKqBxEScE) | [Music Taught Me Life](https://open.spotify.com/album/2zU9Y18v6pTKuFUUBCCIQR) | 5:20 |
+| 47 | [Protector](https://open.spotify.com/track/246PeUwGKXRy9Uvl3lQU9U) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Protector](https://open.spotify.com/album/0Lg5U1P4p7c2jjzZStHPkm) | 4:49 |
 | 48 | [Melancholy](https://open.spotify.com/track/2UdnKEXAXkfXkiXsw3NChl) | [Simula](https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl), [Catching Cairo](https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB) | [Salvo](https://open.spotify.com/album/6eaMoDkwlG4YHPqAFaauMg) | 4:27 |
 | 49 | [CHROMA 003 Bi83](https://open.spotify.com/track/0cBrTgUeXg8oAEfKTlZAP6) | [DOVE](https://open.spotify.com/artist/11rGDSS7UriHODN31vFAXF), [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [CHROMA 003](https://open.spotify.com/album/635sAhOGiqkb11OZDCTRyk) | 3:56 |
 | 50 | [Closer To My Dreams](https://open.spotify.com/track/6Ci2jTX3usJfA9GP3tkSk6) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [Closer To My Dreams](https://open.spotify.com/album/5EOgqtgOgcCuQgN7nCsIAS) | 4:58 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Samuel Mariño
 
-[Spotify](https://open.spotify.com/user/spotify) - 736,222 likes - 78 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 736,200 likes - 78 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 48 | [Études, Book II: No\. 13, L'escalier du diable](https://open.spotify.com/track/50U6iz4vDGCbrtkBA4ftVk) | [György Ligeti](https://open.spotify.com/artist/1zb5zmIuX2lTbzcn7YeQlg), [Shoko Kawasaki](https://open.spotify.com/artist/3AF0UgLLPxaPKHzHqxRVOl) | [Die Tastenkunst](https://open.spotify.com/album/7AN2KS7gTO3zgSIDT9Y2n6) | 5:32 |
 | 49 | [Adagio ma non troppo](https://open.spotify.com/track/4LBJw1yOQhfer63fE1So72) | [Hélène Liebmann](https://open.spotify.com/artist/58QTCYpu1Seko7EV3wmxdl), [Ramon Jaffe](https://open.spotify.com/artist/0qFfAlfMepTQtBnZs7jkIV), [Monica Gutman](https://open.spotify.com/artist/4vUOYLhtikj2gZSTX6GpWh) | [Helene Liebmann: Violin Sonata \- Cello Sonata \- Piano Trio](https://open.spotify.com/album/25XHelMD9sGRKF0e4MRwY0) | 4:33 |
 | 50 | [Prologue, Fougue et Allegro trépidant: III\. Allegro trépidant](https://open.spotify.com/track/4TYN6DwN5jzW1qvIOGZRUt) | [Patrick Roux](https://open.spotify.com/artist/1jkD6zughDeY0O1DxxmxvT), [Canadian Guitar Quartet](https://open.spotify.com/artist/227hOhA544j4C73lUdyboz) | [Roux: Prologue, Fougue et Allegro trépidant: III\. Allegro trépidant](https://open.spotify.com/album/1uBZ5fNhEtbj3pbuKnYb5U) | 3:12 |
-| 51 | [Piano Sonata in C Minor, Op\. 2: I\. Con fervore](https://open.spotify.com/track/1PjG9Q34j45ke5sywFBrJw) | [Talon Smith](https://open.spotify.com/artist/6HguocWKjQsnWLOdARpi5T) | [Talon Smith: 24 Preludes, Op\. 1 & Piano Sonata in C Minor, Op\. 2](https://open.spotify.com/album/0PoB2Jt0ScvxZuE5JKjKzg) | 5:56 |
+| 51 | [Piano Sonata in C Minor, Op\. 2: I\. Con fervore](https://open.spotify.com/track/1PjG9Q34j45ke5sywFBrJw) | [Talon Smith](https://open.spotify.com/artist/6HguocWKjQsnWLOdARpi5T) | [Talon Smith: Debut](https://open.spotify.com/album/0PoB2Jt0ScvxZuE5JKjKzg) | 5:56 |
 | 52 | [Sonata in A Major, D\. 574: I\. Allegro moderato](https://open.spotify.com/track/4CgJ1mgvMac7dAX8ltP3It) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Charlotte Saluste\-Bridoux](https://open.spotify.com/artist/6ATnD2cwXYZsZJg9gUhyTR), [Joseph Havlat](https://open.spotify.com/artist/27OOE3ev1ynCZYBvSr8OMJ) | [Schubert](https://open.spotify.com/album/2GX7lcjPtCqqnU6dlYcYVw) | 8:18 |
 | 53 | [“Ah, vous dirai\-je, maman”](https://open.spotify.com/track/4iV1CwyHcVkxOl5Q0XwDLH) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Jennifer Lim](https://open.spotify.com/artist/2gfPZYLyvJforABkAyHEGN) | [Mozart \- Variations in C major](https://open.spotify.com/album/7HpXe140Gnj56MN5ARWXKg) | 6:38 |
 | 54 | [I love and I must, Z\. 382](https://open.spotify.com/track/6PhPTMuyRheo3wiLA9nbkN) | [Henry Purcell](https://open.spotify.com/artist/3tMLo1k3iUo82coMLWXzxq), [Helen Charlston](https://open.spotify.com/artist/4pLQBB3y9xr8EhZj5u9rlW), [Sounds Baroque](https://open.spotify.com/artist/4RsXYvMuPOWb2b46TCD9Ps) | [If the Fates allow](https://open.spotify.com/album/1ej27S5bQukQPnYG3hPiGI) | 3:04 |

@@ -1,15 +1,15 @@
 {
   "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002/ Discover the intensity and emotion resonating through Japan\u2019s hard rock. Cover: Survive Said The Prophet",
-  "num_followers": 51404,
+  "num_followers": 51425,
   "original_name": "Loud Rock Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDbMxwAAAABOMiRoXfpGQ3abuv4dP2Op",
+  "snapshot_id": "aDfQKwAAAACuJaNm9T+XSlyaUVcVnRyH",
   "tracks": [
     {
-      "added_at": "2025-05-28 08:43:51",
+      "added_at": "2025-05-29 03:10:35",
       "album": {
         "name": "Useless",
         "url": "https://open.spotify.com/album/5sEatstRNfjeRdXmu1pHBe"
@@ -563,6 +563,26 @@
     {
       "added_at": "2025-05-27 15:00:07",
       "album": {
+        "name": "Song 3",
+        "url": "https://open.spotify.com/album/0Cxa2LwLEBIpVglPWwiias"
+      },
+      "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        },
+        {
+          "name": "Slaughter to Prevail",
+          "url": "https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m"
+        }
+      ],
+      "duration_ms": 214193,
+      "name": "Song 3",
+      "url": "https://open.spotify.com/track/7eDUTBIo76AMC5UYqkkzDL"
+    },
+    {
+      "added_at": "2025-05-27 15:00:07",
+      "album": {
         "name": "\u30b3\u30a4\u30b3\u30ac\u30ec",
         "url": "https://open.spotify.com/album/71gRqLVrm4OMLRUYXMkWbu"
       },
@@ -583,22 +603,6 @@
     {
       "added_at": "2025-05-27 15:00:07",
       "album": {
-        "name": "CAVU",
-        "url": "https://open.spotify.com/album/5ZGyjBoHMJb8M2diIt9af8"
-      },
-      "artists": [
-        {
-          "name": "04 Limited Sazabys",
-          "url": "https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "swim",
-      "url": "https://open.spotify.com/track/4fT8isC75wJe9CCsJdnNdI"
-    },
-    {
-      "added_at": "2025-05-27 15:00:07",
-      "album": {
         "name": "Niche\u30b7\u30f3\u30c9\u30ed\u30fc\u30e0",
         "url": "https://open.spotify.com/album/5Txrg948JAAstSTzI0Rssa"
       },
@@ -611,6 +615,22 @@
       "duration_ms": 252200,
       "name": "\u5b8c\u5168\u611f\u899aDreamer",
       "url": "https://open.spotify.com/track/30hzxa3MaRd2XXB6kXGlPh"
+    },
+    {
+      "added_at": "2025-05-27 15:00:07",
+      "album": {
+        "name": "CAVU",
+        "url": "https://open.spotify.com/album/5ZGyjBoHMJb8M2diIt9af8"
+      },
+      "artists": [
+        {
+          "name": "04 Limited Sazabys",
+          "url": "https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "swim",
+      "url": "https://open.spotify.com/track/4fT8isC75wJe9CCsJdnNdI"
     },
     {
       "added_at": "2025-05-27 15:00:07",
@@ -663,22 +683,6 @@
     {
       "added_at": "2025-05-27 15:00:07",
       "album": {
-        "name": "STARS",
-        "url": "https://open.spotify.com/album/758HaOSUUneTb9qVyurf3x"
-      },
-      "artists": [
-        {
-          "name": "w.o.d.",
-          "url": "https://open.spotify.com/artist/06sqnZl2EzpyIamhM1u3eO"
-        }
-      ],
-      "duration_ms": 213400,
-      "name": "STARS",
-      "url": "https://open.spotify.com/track/0mMikRupn84z6woeMHccz1"
-    },
-    {
-      "added_at": "2025-05-27 15:00:07",
-      "album": {
         "name": "Delusion:All",
         "url": "https://open.spotify.com/album/5z4TVXmLIziKpgUEbtHr61"
       },
@@ -691,6 +695,22 @@
       "duration_ms": 184909,
       "name": "Delusion:All",
       "url": "https://open.spotify.com/track/61f3iPQRIe0I6CSj7qJdi3"
+    },
+    {
+      "added_at": "2025-05-27 15:00:07",
+      "album": {
+        "name": "STARS",
+        "url": "https://open.spotify.com/album/758HaOSUUneTb9qVyurf3x"
+      },
+      "artists": [
+        {
+          "name": "w.o.d.",
+          "url": "https://open.spotify.com/artist/06sqnZl2EzpyIamhM1u3eO"
+        }
+      ],
+      "duration_ms": 213400,
+      "name": "STARS",
+      "url": "https://open.spotify.com/track/0mMikRupn84z6woeMHccz1"
     },
     {
       "added_at": "2025-05-27 15:00:07",
@@ -759,18 +779,18 @@
     {
       "added_at": "2025-05-27 15:00:07",
       "album": {
-        "name": "BREAK IT DOWN",
-        "url": "https://open.spotify.com/album/3ogo234STX9mj4SLmOISAH"
+        "name": "\u66d6\u6627",
+        "url": "https://open.spotify.com/album/3BRmcqCvRvH8QVFfiAU5bY"
       },
       "artists": [
         {
-          "name": "MY FIRST STORY",
-          "url": "https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd"
+          "name": "WANIMA",
+          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
         }
       ],
-      "duration_ms": 244493,
-      "name": "BREAK IT DOWN",
-      "url": "https://open.spotify.com/track/73o6n0ZXWVYnBSzge6Ei0m"
+      "duration_ms": 222125,
+      "name": "\u66d6\u6627",
+      "url": "https://open.spotify.com/track/46LzUNQbhoNBTcBNp0dtsH"
     },
     {
       "added_at": "2025-05-27 15:00:07",
@@ -791,18 +811,18 @@
     {
       "added_at": "2025-05-27 15:00:07",
       "album": {
-        "name": "\u66d6\u6627",
-        "url": "https://open.spotify.com/album/3BRmcqCvRvH8QVFfiAU5bY"
+        "name": "BREAK IT DOWN",
+        "url": "https://open.spotify.com/album/3ogo234STX9mj4SLmOISAH"
       },
       "artists": [
         {
-          "name": "WANIMA",
-          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
+          "name": "MY FIRST STORY",
+          "url": "https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd"
         }
       ],
-      "duration_ms": 222125,
-      "name": "\u66d6\u6627",
-      "url": "https://open.spotify.com/track/46LzUNQbhoNBTcBNp0dtsH"
+      "duration_ms": 244493,
+      "name": "BREAK IT DOWN",
+      "url": "https://open.spotify.com/track/73o6n0ZXWVYnBSzge6Ei0m"
     },
     {
       "added_at": "2025-05-27 15:00:07",
@@ -835,22 +855,6 @@
       "duration_ms": 237354,
       "name": "Monochrome",
       "url": "https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P"
-    },
-    {
-      "added_at": "2025-05-27 15:00:07",
-      "album": {
-        "name": "The Crown",
-        "url": "https://open.spotify.com/album/7ENXjwkWhcXDZ09XIQAzca"
-      },
-      "artists": [
-        {
-          "name": "MY FIRST STORY",
-          "url": "https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "\u6771\u4eac\u30df\u30c3\u30c9\u30ca\u30a4\u30c8",
-      "url": "https://open.spotify.com/track/2zKMBHW3j6E4uxXXZhYwwD"
     },
     {
       "added_at": "2025-05-27 15:00:07",
@@ -891,6 +895,22 @@
       "duration_ms": 202607,
       "name": "DEAD! (feat. CVLTE)",
       "url": "https://open.spotify.com/track/3KZunNnCc1YHmS3WSYN5Ol"
+    },
+    {
+      "added_at": "2025-05-27 15:00:07",
+      "album": {
+        "name": "The Crown",
+        "url": "https://open.spotify.com/album/7ENXjwkWhcXDZ09XIQAzca"
+      },
+      "artists": [
+        {
+          "name": "MY FIRST STORY",
+          "url": "https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "\u6771\u4eac\u30df\u30c3\u30c9\u30ca\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/2zKMBHW3j6E4uxXXZhYwwD"
     },
     {
       "added_at": "2025-05-27 15:00:07",
@@ -1559,22 +1579,6 @@
     {
       "added_at": "2025-05-27 15:00:07",
       "album": {
-        "name": "Kiss U Dead Or Alive",
-        "url": "https://open.spotify.com/album/1sVS1TrGB8wpo33AIuDkMv"
-      },
-      "artists": [
-        {
-          "name": "Seikima-II",
-          "url": "https://open.spotify.com/artist/3xl8koA4X7WDnRYSmjYeDa"
-        }
-      ],
-      "duration_ms": 268800,
-      "name": "Kiss U Dead Or Alive",
-      "url": "https://open.spotify.com/track/3MoLK3iAM6l0praSsqqVtZ"
-    },
-    {
-      "added_at": "2025-05-27 15:00:07",
-      "album": {
         "name": "STEADY",
         "url": "https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w"
       },
@@ -1587,6 +1591,22 @@
       "duration_ms": 131680,
       "name": "Drain Water",
       "url": "https://open.spotify.com/track/0zSJONiunE3g3fGjq7W4kv"
+    },
+    {
+      "added_at": "2025-05-27 15:00:07",
+      "album": {
+        "name": "Kiss U Dead Or Alive",
+        "url": "https://open.spotify.com/album/1sVS1TrGB8wpo33AIuDkMv"
+      },
+      "artists": [
+        {
+          "name": "Seikima-II",
+          "url": "https://open.spotify.com/artist/3xl8koA4X7WDnRYSmjYeDa"
+        }
+      ],
+      "duration_ms": 268800,
+      "name": "Kiss U Dead Or Alive",
+      "url": "https://open.spotify.com/track/3MoLK3iAM6l0praSsqqVtZ"
     },
     {
       "added_at": "2025-05-27 15:00:07",
@@ -1607,22 +1627,6 @@
     {
       "added_at": "2025-05-27 15:00:07",
       "album": {
-        "name": "PLAYDEAD",
-        "url": "https://open.spotify.com/album/40a3oAU208h1oFcfi0U25E"
-      },
-      "artists": [
-        {
-          "name": "SiM",
-          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
-        }
-      ],
-      "duration_ms": 196199,
-      "name": "DO THE DANCE",
-      "url": "https://open.spotify.com/track/0eCjxBaTwjCNksbytKPlqh"
-    },
-    {
-      "added_at": "2025-05-27 15:00:07",
-      "album": {
         "name": "The First Eden - Seeds Of Hope (Selected Edition)",
         "url": "https://open.spotify.com/album/3TPdkObXMZnVVW2JhivaZf"
       },
@@ -1639,18 +1643,18 @@
     {
       "added_at": "2025-05-27 15:00:07",
       "album": {
-        "name": "smileY:)",
-        "url": "https://open.spotify.com/album/4EfIqf312U2naIxOfWuxIn"
+        "name": "PLAYDEAD",
+        "url": "https://open.spotify.com/album/40a3oAU208h1oFcfi0U25E"
       },
       "artists": [
         {
-          "name": "CVLTE",
-          "url": "https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA"
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
         }
       ],
-      "duration_ms": 115769,
-      "name": "smileY:)",
-      "url": "https://open.spotify.com/track/7D6gePpoootFzZr1f8lONE"
+      "duration_ms": 196199,
+      "name": "DO THE DANCE",
+      "url": "https://open.spotify.com/track/0eCjxBaTwjCNksbytKPlqh"
     },
     {
       "added_at": "2025-05-27 15:00:07",

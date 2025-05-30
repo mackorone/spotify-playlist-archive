@@ -4,7 +4,7 @@
 
 > Waves and calming music to float away on\. Breathe with the ebb and flow of the sea\. Escape to your inner mindscape of mystical beaches, gentle waves and tranquil shores.
 
-173 songs - 8 hr 16 min
+174 songs - 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Endless 432 Hz](https://open.spotify.com/track/0QHaZdDcpmrl17grXOF9so) | [Eoforwine](https://open.spotify.com/artist/5nyQvoStR6vrrev0Ns7TWq) | [Endless 432 Hz](https://open.spotify.com/album/6bSPIH4cKVS2eetAwvvpKM) | 3:19 | 2023-10-23 |  |
 | [Endless Ocean](https://open.spotify.com/track/3Hu72NQywzDjGwBlZttKdp) | [Altum Somnum](https://open.spotify.com/artist/5W2BQPTLV5i34uvAtUs935) | [Endless Ocean](https://open.spotify.com/album/6G1vgA7HXZf5nDHBsnl7E3) | 3:10 | 2025-01-15 |  |
 | [Enlightened Adrift](https://open.spotify.com/track/2qnd80g4Q2voFJONxPEZff) | [J\. Cartwright](https://open.spotify.com/artist/4DQYUQ3tze2DqQtZUkXdcC) | [Enlightened Adrift](https://open.spotify.com/album/3cA59rCXHo1nQETme2Musp) | 2:30 | 2024-02-06 | 2025-04-05 |
-| [Euphoric](https://open.spotify.com/track/5VisOtLAFNMe3xWAT8p1RQ) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Euphoric](https://open.spotify.com/album/0UTyOSNu07yud4P1TRb8Zl) | 3:51 | 2025-04-01 |  |
+| [Euphoric](https://open.spotify.com/track/5VisOtLAFNMe3xWAT8p1RQ) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Euphoric](https://open.spotify.com/album/0UTyOSNu07yud4P1TRb8Zl) | 3:51 | 2025-04-01 | 2025-05-30 |
 | [Eyes On The Horizon](https://open.spotify.com/track/1QuxKLKlCmMoop2150vVUN) | [Center of Attention](https://open.spotify.com/artist/4xp0qN8C2Og0QbD3GxxfCs), [Liesbet Leroy](https://open.spotify.com/artist/3v9SFRsfDMczAhfLHEecka) | [Eyes On The Horizon](https://open.spotify.com/album/6VOiDfGiCViDdTB5Ds0mIg) | 2:25 | 2024-03-01 | 2025-04-07 |
 | [Feel\(ing\)](https://open.spotify.com/track/47bHgaH5iRUjU0HQhtb6tQ) | [Quiet Notes](https://open.spotify.com/artist/6o4TgXVQ6lPBqMXXyjrMjt) | [Feel\(ing\)](https://open.spotify.com/album/7jUD1Sxsl7k7ysBKKR1i1N) | 3:23 | 2024-02-06 |  |
 | [Fishermans Village](https://open.spotify.com/track/1Xg8CzWQX1tYZ5zfx54oFM) | [Harada Mi](https://open.spotify.com/artist/5rs1agOCZ8aRR9uInxSrq3) | [Fishermans Village](https://open.spotify.com/album/1lmFb29PYY0c5rRa3w12ni) | 2:37 | 2023-10-23 |  |
@@ -142,6 +142,7 @@
 | [Scenery](https://open.spotify.com/track/7pbqUZV3IVADNfLD4pa0tc) | [Jianwu](https://open.spotify.com/artist/15UcWbG8WJ71qSwgeOU4XO) | [Scenery](https://open.spotify.com/album/5I4EmI8sSubdnIiei3i154) | 2:45 | 2024-11-22 | 2024-12-02 |
 | [Sedated](https://open.spotify.com/track/0ZSyO3bqGpDxGioVHLXbjr) | [Nebuu](https://open.spotify.com/artist/4OHXOR1h0JhQBarufXpOtP) | [Sedated](https://open.spotify.com/album/4V3KjRIT8asHHUS1rXlgUm) | 2:44 | 2024-08-22 |  |
 | [Shores of Serenity](https://open.spotify.com/track/56Wi8HppRbnVgvG4DDrm76) | [Moon Garden](https://open.spotify.com/artist/3BXLBEYS53k3FXlvHUJsw7) | [Shores of Serenity](https://open.spotify.com/album/3DdHLlGtxU5vLbYEvyMzc5) | 2:32 | 2023-10-23 | 2024-08-23 |
+| [Silent Glow](https://open.spotify.com/track/1ZLibBKJupB9wQ0pctoa9o) | [Inner Cabin](https://open.spotify.com/artist/7x6ZvvIbEUTL39ZpxeaMo7) | [Silent Glow](https://open.spotify.com/album/6rjUc8JpOpej3SNSHj3WlA) | 3:20 | 2025-05-21 |  |
 | [Silent Retreat \(Ocean View\)](https://open.spotify.com/track/6CF747KbWGVUZpaFRI9ykf) | [Clouds Come Down](https://open.spotify.com/artist/6AqxTQj5IlWTwGCwPuxZu8) | [Grace](https://open.spotify.com/album/2IzduArXZVwnuqTPuYuxrT) | 3:51 | 2023-10-23 |  |
 | [Singing Mermaids](https://open.spotify.com/track/7MnNQEoNtmddjkcM7pQsaH) | [George Memfri](https://open.spotify.com/artist/45b6UK7Bn3GavDYBkkgTxl) | [Singing Mermaids](https://open.spotify.com/album/7rwtwkooAD4zrqkvH8Mff3) | 3:06 | 2023-10-26 | 2024-11-23 |
 | [Skye Nights](https://open.spotify.com/track/39MhIdIn0QhJoHhHEPfmQg) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Skye Nights](https://open.spotify.com/album/7DfLxJGWfggWYmti94MYD9) | 3:34 | 2023-10-23 | 2025-04-02 |

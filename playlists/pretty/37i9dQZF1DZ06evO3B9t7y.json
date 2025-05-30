@@ -1,12 +1,12 @@
 {
   "description": "This is Car\u00edn Le\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 1062308,
+  "num_followers": 1062595,
   "original_name": "This Is Car\u00edn Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDUAgAAAAACHMa7ZQfNIe1t3Zt70ZYcf",
+  "snapshot_id": "aDZSAAAAAAB0zk6pGANXX4oF8nKvA2oy",
   "tracks": [
     {
       "added_at": null,
@@ -663,18 +663,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuando La Vida Sea Trago",
-        "url": "https://open.spotify.com/album/6YNMH9MWTeqbfw4fS6zH5x"
+        "name": "DUE\u00d1O DE TI",
+        "url": "https://open.spotify.com/album/0h4n1Mx0fmZQYm27TfS7xR"
       },
       "artists": [
+        {
+          "name": "Ramon Vega",
+          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
+        },
         {
           "name": "Car\u00edn Le\u00f3n",
           "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 173000,
-      "name": "Cuando La Vida Sea Trago",
-      "url": "https://open.spotify.com/track/2H9XdwA9tD3riAXZmRHBgs"
+      "duration_ms": 212222,
+      "name": "DUE\u00d1O DE TI",
+      "url": "https://open.spotify.com/track/3fVoK5VLXYksHYMDf16RIT"
     },
     {
       "added_at": null,
@@ -699,22 +703,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "DUE\u00d1O DE TI",
-        "url": "https://open.spotify.com/album/0h4n1Mx0fmZQYm27TfS7xR"
+        "name": "Cuando La Vida Sea Trago",
+        "url": "https://open.spotify.com/album/6YNMH9MWTeqbfw4fS6zH5x"
       },
       "artists": [
-        {
-          "name": "Ramon Vega",
-          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
-        },
         {
           "name": "Car\u00edn Le\u00f3n",
           "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 212222,
-      "name": "DUE\u00d1O DE TI",
-      "url": "https://open.spotify.com/track/3fVoK5VLXYksHYMDf16RIT"
+      "duration_ms": 173000,
+      "name": "Cuando La Vida Sea Trago",
+      "url": "https://open.spotify.com/track/2H9XdwA9tD3riAXZmRHBgs"
     },
     {
       "added_at": null,

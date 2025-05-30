@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 
 > 사랑이 더욱 뜨겁게 섞일 때.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,639 likes - 60 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,642 likes - 60 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,11 +60,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 | 50 | [Matter of Taste \(feat\. Paloalto\)](https://open.spotify.com/track/5tEiCsOFqEqDVTYMA05YC8) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv) | [Riddle](https://open.spotify.com/album/3lQAIDcYUT1E5cLAuZ2BGA) | 2:50 |
 | 51 | [Honestly](https://open.spotify.com/track/4xl6ouBRgiUSWCuuSaC3kb) | [HeeJin](https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks) | [Honestly](https://open.spotify.com/album/2YUFblD9rLzVfgSJVBjmhx) | 3:17 |
 | 52 | [Te Quiero\(feat.BIBI\)](https://open.spotify.com/track/1CxgsJPNnz5X3j92ky5mie) | [twlv](https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [K.I.S.S](https://open.spotify.com/album/3NWSMArT2uajdVjViCnWe1) | 3:14 |
-| 53 | [FETISH \(feat\. Jimmy Brown\)](https://open.spotify.com/track/14UVhlg2jUPo64sTfNBKTo) | [OoOo](https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb), [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [FETISH \(feat\. Jimmy Brown\)](https://open.spotify.com/album/5QrmhLK3bHHl6y6lRh94n4) | 2:34 |
-| 54 | [Bad Girls](https://open.spotify.com/track/0adySBJEfMd5xAWkzEOVTb) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc), [Rahul Rajkhowa](https://open.spotify.com/artist/443XJUhCBjuQhbDp3USEFi) | [Bad Girls](https://open.spotify.com/album/4YYvXKLuNhxK35r7JwjMbG) | 3:18 |
+| 53 | [Bad Girls](https://open.spotify.com/track/0adySBJEfMd5xAWkzEOVTb) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc), [Rahul Rajkhowa](https://open.spotify.com/artist/443XJUhCBjuQhbDp3USEFi) | [Bad Girls](https://open.spotify.com/album/4YYvXKLuNhxK35r7JwjMbG) | 3:18 |
+| 54 | [FETISH \(feat\. Jimmy Brown\)](https://open.spotify.com/track/14UVhlg2jUPo64sTfNBKTo) | [OoOo](https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb), [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [FETISH \(feat\. Jimmy Brown\)](https://open.spotify.com/album/5QrmhLK3bHHl6y6lRh94n4) | 2:34 |
 | 55 | [Wonderland \(Carol ver.\)](https://open.spotify.com/track/6UukezNY3YRxAoNlOKwKkI) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[My Christmas Sweet Love\]](https://open.spotify.com/album/2iNdbj46hw67s9CI503nPM) | 3:17 |
-| 56 | [Flake!](https://open.spotify.com/track/22kGyhABhjvPWUW7ekoDgF) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi) | [i ex you](https://open.spotify.com/album/5Om0xEIVmWFirP4WLSTykj) | 3:37 |
-| 57 | [Lovers In The Night](https://open.spotify.com/track/1riG0Dk62yWVqNxdWY28j0) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Lovers In The Night](https://open.spotify.com/album/1K8vhT940w44DgXKUYjSgv) | 3:30 |
+| 56 | [Lovers In The Night](https://open.spotify.com/track/1riG0Dk62yWVqNxdWY28j0) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Lovers In The Night](https://open.spotify.com/album/1K8vhT940w44DgXKUYjSgv) | 3:30 |
+| 57 | [Flake!](https://open.spotify.com/track/22kGyhABhjvPWUW7ekoDgF) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi) | [i ex you](https://open.spotify.com/album/5Om0xEIVmWFirP4WLSTykj) | 3:37 |
 | 58 | [At Night \(feat\. Kuzi\)](https://open.spotify.com/track/64biPdxhHIxYkFy5OSydKK) | [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM), [kuzi](https://open.spotify.com/artist/5rLQsLxJ2fFYVqH84xH7Oj) | [Stranger](https://open.spotify.com/album/64u3D3rw0zxNkLVcFcPCQ6) | 2:23 |
 | 59 | [Lost \(Feat\. Chan\)](https://open.spotify.com/track/0CGLEfpRiP9Xx3DOGIpyu6) | [Giwon](https://open.spotify.com/artist/0p3SJn2qPmo3A4Yby7XIxV), [Chan \(찬\)](https://open.spotify.com/artist/6u58RtKuPesaAnsSybhP5u) | [Lost \(Feat\. Chan\)](https://open.spotify.com/album/6wYbrnLW8oLOzLS8cfO2vR) | 2:24 |
 | 60 | [365247](https://open.spotify.com/track/6CUx9eLEzPayC722kcZ06L) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : Entropy](https://open.spotify.com/album/3U5WG613lOhHMpnPBOzaZD) | 2:53 |

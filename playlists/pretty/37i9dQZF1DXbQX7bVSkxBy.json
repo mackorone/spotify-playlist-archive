@@ -1,12 +1,12 @@
 {
-  "description": "Raise a voice and testify the goodness of God.  Cover: Awinnah",
-  "num_followers": 42522,
+  "description": "Raise a voice and testify the goodness of God.  Cover: Sinach",
+  "num_followers": 42551,
   "original_name": "Testify",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aC+63wAAAACkRiwC0OHqlIA8YY4HvDlU",
+  "snapshot_id": "aDj1WwAAAAB85mTS9MT2BoiT9zCVvScG",
   "tracks": [
     {
       "added_at": "2024-12-06 00:01:00",
@@ -35,6 +35,22 @@
       "duration_ms": 304535,
       "name": "Praise (feat. Brandon Lake, Chris Brown & Chandler Moore)",
       "url": "https://open.spotify.com/track/7Ee6XgP8EHKDhTMYLIndu9"
+    },
+    {
+      "added_at": "2025-05-30 00:01:31",
+      "album": {
+        "name": "You Are Good (Ulungile)",
+        "url": "https://open.spotify.com/album/4coB6IecMPaHUaVGfkNp2E"
+      },
+      "artists": [
+        {
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        }
+      ],
+      "duration_ms": 912311,
+      "name": "You Are Good (Ulungile)",
+      "url": "https://open.spotify.com/track/0xZUjAyA70MKOGSfmvpFJV"
     },
     {
       "added_at": "2023-12-29 00:01:00",
@@ -73,6 +89,50 @@
       "url": "https://open.spotify.com/track/2iym3PPUfaR5285b8iLfbq"
     },
     {
+      "added_at": "2025-05-23 00:01:35",
+      "album": {
+        "name": "Tender Love",
+        "url": "https://open.spotify.com/album/3A4hndO1mMtdSTtzzFcZRu"
+      },
+      "artists": [
+        {
+          "name": "Awinnah",
+          "url": "https://open.spotify.com/artist/3VYRqGXzaXMKRSCpx5FIWX"
+        }
+      ],
+      "duration_ms": 134489,
+      "name": "Tender Love",
+      "url": "https://open.spotify.com/track/5V2JjuDMDPSensCHBTNXZr"
+    },
+    {
+      "added_at": "2023-12-29 00:01:00",
+      "album": {
+        "name": "Old Church Basement",
+        "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        }
+      ],
+      "duration_ms": 598994,
+      "name": "Jireh (feat. Chandler Moore & Naomi Raine)",
+      "url": "https://open.spotify.com/track/1goiRWxiG3GTlODrdDZ7NR"
+    },
+    {
       "added_at": "2024-07-05 00:01:00",
       "album": {
         "name": "Maverick City Music, Vol. 3: Pt. 1",
@@ -97,54 +157,6 @@
       "url": "https://open.spotify.com/track/5suRrn5N4HNeRXOpBTdmZt"
     },
     {
-      "added_at": "2025-05-23 00:01:35",
-      "album": {
-        "name": "Tender Love",
-        "url": "https://open.spotify.com/album/3A4hndO1mMtdSTtzzFcZRu"
-      },
-      "artists": [
-        {
-          "name": "Awinnah",
-          "url": "https://open.spotify.com/artist/3VYRqGXzaXMKRSCpx5FIWX"
-        }
-      ],
-      "duration_ms": 134489,
-      "name": "Tender Love",
-      "url": "https://open.spotify.com/track/5V2JjuDMDPSensCHBTNXZr"
-    },
-    {
-      "added_at": "2023-12-29 00:01:00",
-      "album": {
-        "name": "Holy Forever",
-        "url": "https://open.spotify.com/album/6x77fLgyIqVac6LncFAA22"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 308066,
-      "name": "Holy Forever",
-      "url": "https://open.spotify.com/track/1bfRXeYRGJF8aCxUpQ4yOq"
-    },
-    {
-      "added_at": "2025-05-16 00:01:33",
-      "album": {
-        "name": "Your Love (Live)",
-        "url": "https://open.spotify.com/album/2qYrPBUl76C2YD68JkrTfJ"
-      },
-      "artists": [
-        {
-          "name": "Oge Stan",
-          "url": "https://open.spotify.com/artist/3aL8XwNOqOVv8NwpVLFo1c"
-        }
-      ],
-      "duration_ms": 396695,
-      "name": "Your Love (Live)",
-      "url": "https://open.spotify.com/track/6BSbPCb1xcQYrXUfU0B1TZ"
-    },
-    {
       "added_at": "2024-04-05 00:01:00",
       "album": {
         "name": "Old Church Basement",
@@ -167,6 +179,22 @@
       "duration_ms": 405513,
       "name": "Million Little Miracles (feat. Joe L Barnes)",
       "url": "https://open.spotify.com/track/2AX4m5yewzlDmzODLJ8Lcz"
+    },
+    {
+      "added_at": "2023-12-29 00:01:00",
+      "album": {
+        "name": "Holy Forever",
+        "url": "https://open.spotify.com/album/6x77fLgyIqVac6LncFAA22"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 308066,
+      "name": "Holy Forever",
+      "url": "https://open.spotify.com/track/1bfRXeYRGJF8aCxUpQ4yOq"
     },
     {
       "added_at": "2024-04-05 00:01:00",
@@ -203,34 +231,6 @@
       "duration_ms": 482500,
       "name": "Mighty Name of Jesus - Live",
       "url": "https://open.spotify.com/track/1ysuxhzGyjJPpqPQQyK8Uw"
-    },
-    {
-      "added_at": "2023-12-29 00:01:00",
-      "album": {
-        "name": "Old Church Basement",
-        "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        },
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
-        }
-      ],
-      "duration_ms": 598994,
-      "name": "Jireh (feat. Chandler Moore & Naomi Raine)",
-      "url": "https://open.spotify.com/track/1goiRWxiG3GTlODrdDZ7NR"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -309,26 +309,6 @@
       "url": "https://open.spotify.com/track/4VAX2Vu5fpGYxgUqfcFiNX"
     },
     {
-      "added_at": "2025-05-16 00:01:33",
-      "album": {
-        "name": "GREAT AND MIGHTY",
-        "url": "https://open.spotify.com/album/00H1U0v6a4YIIsa51RqMMm"
-      },
-      "artists": [
-        {
-          "name": "Monaze",
-          "url": "https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG"
-        },
-        {
-          "name": "DJ Ernesty",
-          "url": "https://open.spotify.com/artist/0MGWyvcy2uXq5lVdATxcuj"
-        }
-      ],
-      "duration_ms": 175445,
-      "name": "GREAT AND MIGHTY",
-      "url": "https://open.spotify.com/track/5UHI8GBPVcjN84itGHxVQF"
-    },
-    {
       "added_at": "2023-12-29 00:01:00",
       "album": {
         "name": "CAN YOU IMAGINE?",
@@ -381,22 +361,6 @@
       "url": "https://open.spotify.com/track/2GZNll3SJMAEHstg0wO37N"
     },
     {
-      "added_at": "2025-05-16 00:01:33",
-      "album": {
-        "name": "Sovereign GOD",
-        "url": "https://open.spotify.com/album/4Jq4NUeLjKz8opDMAOQmO5"
-      },
-      "artists": [
-        {
-          "name": "Hi-Bred",
-          "url": "https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8"
-        }
-      ],
-      "duration_ms": 311400,
-      "name": "Sovereign GOD",
-      "url": "https://open.spotify.com/track/66Hp9EnzGr3LzbP8NALo2f"
-    },
-    {
       "added_at": "2023-12-29 00:01:00",
       "album": {
         "name": "This Is The Gospel",
@@ -417,20 +381,40 @@
       "url": "https://open.spotify.com/track/1M3Y52bIexPAMJlcRju6zB"
     },
     {
-      "added_at": "2025-03-07 00:01:34",
+      "added_at": "2025-05-16 00:01:33",
       "album": {
-        "name": "Psalms 112",
-        "url": "https://open.spotify.com/album/07n0VLd4lXvwgGOt3gYTlU"
+        "name": "Sovereign GOD",
+        "url": "https://open.spotify.com/album/4Jq4NUeLjKz8opDMAOQmO5"
       },
       "artists": [
         {
-          "name": "Anna Makula",
-          "url": "https://open.spotify.com/artist/2sCH9kYASIAGOaloAfOe44"
+          "name": "Hi-Bred",
+          "url": "https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8"
         }
       ],
-      "duration_ms": 235894,
-      "name": "Psalms 112",
-      "url": "https://open.spotify.com/track/4HkqgRXy263zFFfyLvOpLd"
+      "duration_ms": 311400,
+      "name": "Sovereign GOD",
+      "url": "https://open.spotify.com/track/66Hp9EnzGr3LzbP8NALo2f"
+    },
+    {
+      "added_at": "2024-04-26 00:01:00",
+      "album": {
+        "name": "The Great Commission",
+        "url": "https://open.spotify.com/album/1ceKYPCijmkMxAaD3eIpJc"
+      },
+      "artists": [
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        },
+        {
+          "name": "Lawrence Oyor",
+          "url": "https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI"
+        }
+      ],
+      "duration_ms": 808677,
+      "name": "Worthy of My Praise",
+      "url": "https://open.spotify.com/track/2TfDq6YUBAiX09xTlH2bhX"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -457,6 +441,22 @@
       "url": "https://open.spotify.com/track/0gDyskuhux7JfUcGzn0gY9"
     },
     {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Calling My Name (I'm A Soldier) [Live]",
+        "url": "https://open.spotify.com/album/43Ezc94qcwnX6mnmuUQnUO"
+      },
+      "artists": [
+        {
+          "name": "Ebuka Songs",
+          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
+        }
+      ],
+      "duration_ms": 638798,
+      "name": "Calling My Name (I'm A Soldier) - Live",
+      "url": "https://open.spotify.com/track/6pKrwKfT1IUq6GvO7xtlIW"
+    },
+    {
       "added_at": "2025-04-25 08:52:56",
       "album": {
         "name": "Crucified with Christ",
@@ -475,58 +475,6 @@
       "duration_ms": 413098,
       "name": "Crucified with Christ",
       "url": "https://open.spotify.com/track/29TdK4PqgMc20n5rwOZnle"
-    },
-    {
-      "added_at": "2024-04-26 00:01:00",
-      "album": {
-        "name": "The Great Commission",
-        "url": "https://open.spotify.com/album/1ceKYPCijmkMxAaD3eIpJc"
-      },
-      "artists": [
-        {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
-        },
-        {
-          "name": "Lawrence Oyor",
-          "url": "https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI"
-        }
-      ],
-      "duration_ms": 808677,
-      "name": "Worthy of My Praise",
-      "url": "https://open.spotify.com/track/2TfDq6YUBAiX09xTlH2bhX"
-    },
-    {
-      "added_at": "2025-05-02 00:01:24",
-      "album": {
-        "name": "CHILD OF GOD",
-        "url": "https://open.spotify.com/album/4xR6DeIKUvnm0vtjxEq0Z7"
-      },
-      "artists": [
-        {
-          "name": "MUNGU FENI",
-          "url": "https://open.spotify.com/artist/28jInFXJyrUOt031oBINu9"
-        }
-      ],
-      "duration_ms": 151771,
-      "name": "CHILD OF GOD",
-      "url": "https://open.spotify.com/track/01kkDeb3etCfFzvf4AqoJq"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Calling My Name (I'm A Soldier) [Live]",
-        "url": "https://open.spotify.com/album/43Ezc94qcwnX6mnmuUQnUO"
-      },
-      "artists": [
-        {
-          "name": "Ebuka Songs",
-          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
-        }
-      ],
-      "duration_ms": 638798,
-      "name": "Calling My Name (I'm A Soldier) - Live",
-      "url": "https://open.spotify.com/track/6pKrwKfT1IUq6GvO7xtlIW"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -563,6 +511,22 @@
       "duration_ms": 156108,
       "name": "E Dey Flow",
       "url": "https://open.spotify.com/track/7BvQTLZXj9XDG9BZnGLZtO"
+    },
+    {
+      "added_at": "2025-05-02 00:01:24",
+      "album": {
+        "name": "CHILD OF GOD",
+        "url": "https://open.spotify.com/album/4xR6DeIKUvnm0vtjxEq0Z7"
+      },
+      "artists": [
+        {
+          "name": "MUNGU FENI",
+          "url": "https://open.spotify.com/artist/28jInFXJyrUOt031oBINu9"
+        }
+      ],
+      "duration_ms": 151771,
+      "name": "CHILD OF GOD",
+      "url": "https://open.spotify.com/track/01kkDeb3etCfFzvf4AqoJq"
     },
     {
       "added_at": "2024-04-12 00:01:00",
@@ -983,6 +947,38 @@
       "duration_ms": 380040,
       "name": "Out Of My Belly",
       "url": "https://open.spotify.com/track/19OhFys7Cga8g5sHHSY7hE"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/3PJUJDl7tSaxspgWXEawfN"
+      },
+      "artists": [
+        {
+          "name": "Lara George",
+          "url": "https://open.spotify.com/artist/6BMYlvYYyC0VxN6vV9y9KZ"
+        }
+      ],
+      "duration_ms": 324572,
+      "name": "Dansaki",
+      "url": "https://open.spotify.com/track/7pW8qktBmU1SLIDeiVb8PP"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Truth in Sounds",
+        "url": "https://open.spotify.com/album/0wQ2rB1CLrUZlsYROvBDyq"
+      },
+      "artists": [
+        {
+          "name": "Victoria Orenze",
+          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
+        }
+      ],
+      "duration_ms": 546156,
+      "name": "I Get Backing",
+      "url": "https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW"
     }
   ],
   "unique_name": "Testify",

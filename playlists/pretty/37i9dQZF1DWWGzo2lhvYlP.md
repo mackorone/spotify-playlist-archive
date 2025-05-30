@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGzo2lhvYlP.md) - [plain]
 
 > nothing but bangers to help you with the grind
 
-[Spotify](https://open.spotify.com/user/spotify) - 575,987 likes - 94 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 576,063 likes - 94 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGzo2lhvYlP.md) - [plain]
 | 74 | [Underwater](https://open.spotify.com/track/1PKmDFdtX4lDsVn30zLOCV) | [Sami Thompson](https://open.spotify.com/artist/0XQpkxtqLdctPH3Z0Jn1dv) | [Underwater](https://open.spotify.com/album/3iEHFTXWjQFtXhvi2z81TZ) | 3:59 |
 | 75 | [Chemical](https://open.spotify.com/track/4qzEjmuz380jeiBJp31oDY) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/6NoH5RUtjoh6ae2lJ9gWfq) | 3:04 |
 | 76 | [Used To You](https://open.spotify.com/track/6KM82El2PfI0w8OY0qbx7I) | [Alex Sampson](https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf) | [Used To You](https://open.spotify.com/album/4xgJNGM8n5W7uAYED2Rln1) | 2:24 |
-| 77 | [Pretty Girl Thriller](https://open.spotify.com/track/0UwuMzIsMzLEY6pu8eS3Gn) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Pretty Girl Thriller](https://open.spotify.com/album/3510yYBDvh1DZxom9nOhlL) | 2:55 |
-| 78 | [Fancy Restaurants](https://open.spotify.com/track/39yYf4jJRzbLArtvLvCIcw) | [Libby Whitehouse](https://open.spotify.com/artist/0myPBTBG3ODlKVBEf5OSBe) | [Fancy Restaurants](https://open.spotify.com/album/02pYjwifHBJRkbFiQfrdTw) | 2:41 |
-| 79 | [ISSUE](https://open.spotify.com/track/14XAip5CLUhA0xtAwXwXGN) | [bob junior](https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne), [Mia Nicolai](https://open.spotify.com/artist/5oSkgLWQpt5bk4B7JeAzKJ) | [friends, vol\. 2](https://open.spotify.com/album/4fAtA6cyPkXVjoiP4XmfI0) | 2:35 |
+| 77 | [ISSUE](https://open.spotify.com/track/14XAip5CLUhA0xtAwXwXGN) | [bob junior](https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne), [Mia Nicolai](https://open.spotify.com/artist/5oSkgLWQpt5bk4B7JeAzKJ) | [friends, vol\. 2](https://open.spotify.com/album/4fAtA6cyPkXVjoiP4XmfI0) | 2:35 |
+| 78 | [Pretty Girl Thriller](https://open.spotify.com/track/0UwuMzIsMzLEY6pu8eS3Gn) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Pretty Girl Thriller](https://open.spotify.com/album/3510yYBDvh1DZxom9nOhlL) | 2:55 |
+| 79 | [Fancy Restaurants](https://open.spotify.com/track/39yYf4jJRzbLArtvLvCIcw) | [Libby Whitehouse](https://open.spotify.com/artist/0myPBTBG3ODlKVBEf5OSBe) | [Fancy Restaurants](https://open.spotify.com/album/02pYjwifHBJRkbFiQfrdTw) | 2:41 |
 | 80 | [Cupid's Chokehold / Breakfast in America](https://open.spotify.com/track/1l0jSYco9U7MefePc0dce0) | [Gym Class Heroes](https://open.spotify.com/artist/4IJczjB0fJ04gs4uvP0Fli) | [Take a Look at My Girlfriend](https://open.spotify.com/album/5PTjj5K9HVdz71CcPpR4yn) | 4:03 |
 | 81 | [STORIES](https://open.spotify.com/track/6Vr5DaX8leoiFUSuVs0FvO) | [Gabriela Bee](https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1) | [STORIES](https://open.spotify.com/album/0Un73xA0BUaLgmoorkouHQ) | 2:31 |
 | 82 | [Houdini](https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Houdini](https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb) | 3:05 |

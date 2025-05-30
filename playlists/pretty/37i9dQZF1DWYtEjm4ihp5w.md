@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 
 > Stormy en tête d'affiche de la playlist numéro 1 du rap marocain.
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,426 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,446 likes - 49 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 | 46 | [Tragédie](https://open.spotify.com/track/7ihZF2gSB0Ppgp9GyAY9eI) | [Nezar](https://open.spotify.com/artist/3sUn8nsotkqOARVLiqofNu), [ViraCocha](https://open.spotify.com/artist/3mBAoEIAN6UdI3VMA1rltv) | [Tragédie](https://open.spotify.com/album/6sXcyPgBQKejKC6n0WWP6q) | 3:09 |
 | 47 | [TRAUMA](https://open.spotify.com/track/4c3wYPl65eHyt3oicxlJqJ) | [HB BOSS](https://open.spotify.com/artist/75kSwvCfQ095CKfPCd07sj), [Kira7](https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17) | [TRAUMA](https://open.spotify.com/album/2A7jeOCRQ9xbklAosed2eg) | 3:35 |
 | 48 | [Wa3ra](https://open.spotify.com/track/5zvvrTE1QoTxsoeTupvQrW) | [Hassa1](https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr) | [Prince](https://open.spotify.com/album/3l2WhIJt45Lw46JOLDfms9) | 2:16 |
-| 49 | [MELLIT](https://open.spotify.com/track/0YKfqX50EbnwGbkSrBN76A) | [SCOOL BOY](https://open.spotify.com/artist/5suJPIX3Y4r4hEIrz60szV) | [MELLIT](https://open.spotify.com/album/76LGHg9S4lymGmES6FfNVp) | 2:32 |
-| 50 | [L’Bayda Mon Amour](https://open.spotify.com/track/0AUEVIEFpYGpCUWFvtItPQ) | [Pause](https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5) | [112](https://open.spotify.com/album/6RjXahScY92fiEQRiZMhbF) | 4:48 |
+| 49 | [L’Bayda Mon Amour](https://open.spotify.com/track/0AUEVIEFpYGpCUWFvtItPQ) | [Pause](https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5) | [112](https://open.spotify.com/album/6RjXahScY92fiEQRiZMhbF) | 4:48 |
 
-Snapshot ID: `aDdipgAAAABNbLEutsjNm8BhWLhVtZq8`
+Snapshot ID: `aDkDMQAAAADoQDRfWx4qCSKUVWCc9V7K`

@@ -2,9 +2,9 @@
 
 ### [RADAR UK & Ireland](https://open.spotify.com/playlist/37i9dQZF1DX9be6QR3XeJp)
 
-> Discover your new favourite artists from UK&IE\. Cover: Georgie & Joe
+> Discover your new favourite artists from UK&IE\. Cover: Cliffords
 
-311 songs - 16 hr 46 min
+312 songs - 16 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [Monday](https://open.spotify.com/track/5NuoHlFplMTA8jmr4nHjH9) | [Tiana Blake](https://open.spotify.com/artist/0dQdwOMacJwwE8Tattr1XI) | [Monday](https://open.spotify.com/album/04B6OoFDc5mIhlx6W8fJUo) | 3:32 | 2022-02-18 | 2023-07-14 |
 | [More](https://open.spotify.com/track/3mS7QkIx75iVG9JjXzKfIz) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [More](https://open.spotify.com/album/6whNqO63IXyrbpV6iZ1MBL) | 3:48 | 2022-02-18 |  |
 | [My Drummer's Girlfriend](https://open.spotify.com/track/2lMrk3IrLeWRV9UT3DlWDp) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [My Drummer's Girlfriend](https://open.spotify.com/album/3rG6pR0MB2apLo4EqYufqj) | 2:37 | 2024-06-27 |  |
+| [My Favourite Monster](https://open.spotify.com/track/3Stk5Oa5Pc2ertfAP5tRUZ) | [Cliffords](https://open.spotify.com/artist/2JIXE3g9E0kfeFWhpKPIja) | [My Favourite Monster](https://open.spotify.com/album/3HcqPbTSgSh7CDAbOVU3zu) | 3:58 | 2025-05-29 |  |
 | [My Lady of Mercy](https://open.spotify.com/track/2M1zHytH8Ch9HmhpScKyvV) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [My Lady Of Mercy](https://open.spotify.com/album/2W3JTxVFYQ9m4xd5sYKCC0) | 2:55 | 2023-10-12 |  |
 | [My Type](https://open.spotify.com/track/0FQU8Y1Ir1YkR6MoMfJjB3) | [Emily Makis](https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX), [Dux n Bass](https://open.spotify.com/artist/5LlJwFI0pt18QEmRZMT7EA), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn), [T\-Man](https://open.spotify.com/artist/5p0SkCjy1OmhoXPSM5dvW2) | [My Type](https://open.spotify.com/album/1cgA9S7KgDpQhG9045suo2) | 3:04 | 2024-03-22 |  |
 | [Nah It Ain't The Same](https://open.spotify.com/track/3KKOxkUPWhKQssiMCSJxqO) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Nah It Ain't The Same](https://open.spotify.com/album/27QNFuoSpcwEYnMJhwHhiP) | 4:11 | 2022-02-18 |  |

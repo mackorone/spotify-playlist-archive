@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > 50% techno, 50% house 🪩🪩 Tech house technicians, featuring VNSSA & Benson
 
-[Spotify](https://open.spotify.com/user/spotify) - 679,524 likes - 125 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 679,584 likes - 125 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Shiny Disco Balls](https://open.spotify.com/track/64YbQpF1rTpXpvxbZNAXO9) | [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM), [Benson](https://open.spotify.com/artist/1b4hTx0gHm3uA0AkZ3GdtY) | [Shiny Disco Balls](https://open.spotify.com/album/1tgSEOSxqlemShSJDQwmes) | 3:00 |
 | 2 | [Appetite](https://open.spotify.com/track/6zldvnVMC25b4uliSKO9Lz) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [Appetite](https://open.spotify.com/album/2AJlggZjfH2vz79q6bSplo) | 3:47 |
-| 3 | [Ease My Mind \- Odd Mob Remix](https://open.spotify.com/track/5kRzvJXEsODhLA3pB1DvHS) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG), [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [Ease My Mind \(Odd Mob Remix\)](https://open.spotify.com/album/1Svch4OVQY2w077FIziTUu) | 3:50 |
+| 3 | [Ease My Mind \- Odd Mob Remix](https://open.spotify.com/track/5kRzvJXEsODhLA3pB1DvHS) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [Ease My Mind \(Odd Mob Remix\)](https://open.spotify.com/album/1Svch4OVQY2w077FIziTUu) | 3:50 |
 | 4 | [Crush](https://open.spotify.com/track/422u4065pibZQ0jUl1kJo0) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Crush](https://open.spotify.com/album/1N7K3IIyDpWywAo7hrlHzc) | 3:01 |
 | 5 | [Like I Like It](https://open.spotify.com/track/6vLKVWEuOCQAWEaHv2yknm) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Too Big For B\-Side](https://open.spotify.com/album/5jtv44Kb5NZmbRDfpCTIWE) | 3:44 |
 | 6 | [X\-Rated](https://open.spotify.com/track/2vFabIc6h3F6GiZCsxq8zw) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Funkdoobiest](https://open.spotify.com/artist/0pbj7bsLCiQ5f8P9mFnuPN) | [X\-Rated](https://open.spotify.com/album/64a4S0L82vMJcOppgnYxmo) | 3:04 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 | 124 | [Blocked](https://open.spotify.com/track/768JazCT1tUiO0vqp47MXH) | [DJ Minx](https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B) | [Blocked](https://open.spotify.com/album/0x0Ou3FP7rLlFKPkG4sVzF) | 3:21 |
 | 125 | [Dile](https://open.spotify.com/track/7qsyyhllSvwoJl4I1O4VZW) | [Juos](https://open.spotify.com/artist/25b30wypcCBgPGWG28RUcl) | [Welcome to Hell III](https://open.spotify.com/album/4x5D8GnJE4JoAdZI41Z8PF) | 2:30 |
 
-Snapshot ID: `aDHzXgAAAAByV7WkP43YQHLWmx+9yvUv`
+Snapshot ID: `aDHzXgAAAAARXrPxbujvfF5ZwFOi2gRa`

@@ -4,7 +4,7 @@
 
 > ⋆.
 
-633 songs - 1 day 10 hr 36 min
+634 songs - 1 day 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Colors](https://open.spotify.com/track/1ccyZbIemS9YfMOy404svt) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Colors](https://open.spotify.com/album/3Ui7WWftqhjJurMYgZ1j5r) | 3:07 | 2023-02-17 |  |
 | [Coma](https://open.spotify.com/track/73hmZZ7HyLgUQj2DaybfBb) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [I Want to Die In New Orleans](https://open.spotify.com/album/2ivOxIKDHxEo6WMD9m3ytn) | 2:17 | 2022-04-17 |  |
 | [Come and See Me \(feat\. Drake\)](https://open.spotify.com/track/6cEguiQecbXrFlsnMi2ysr) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [PARTYNEXTDOOR 3 \(P3\)](https://open.spotify.com/album/2veXxRriGPw4fFBZQNNMfQ) | 3:55 | 2023-10-06 |  |
+| [Comfortable Liar](https://open.spotify.com/track/412LyfktkgWKEn8kmKiyQe) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [Wonder What's Next \(Expanded Edition\)](https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV) | 3:43 | 2025-05-29 |  |
 | [Coming Down](https://open.spotify.com/track/3mHO1J6kfiArjBo1zhLFGP) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [House Of Balloons \(Original\)](https://open.spotify.com/album/7zCODUHkfuRxsUjtuzNqbd) | 4:55 | 2023-08-21 |  |
 | [Compass](https://open.spotify.com/track/0YNtAadZvKBBEFARtfoCV8) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Hard To Imagine The Neighbourhood Ever Changing](https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy) | 2:47 | 2022-01-10 |  |
 | [Cookout](https://open.spotify.com/track/5x2kKqoATMtSuUjgcTSjha) | [BashfortheWorld](https://open.spotify.com/artist/2304Hcgi7OV6YL5Omhx6A4) | [Un Verano En Nueva York](https://open.spotify.com/album/7iUE0seUdcsU6o1XJZXPf6) | 2:24 | 2022-09-16 |  |

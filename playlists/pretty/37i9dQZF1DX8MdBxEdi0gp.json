@@ -1,6 +1,6 @@
 {
   "description": "Con el mismo saz\u00f3n y amor que una sopita de fideo.",
-  "num_followers": 165934,
+  "num_followers": 165983,
   "original_name": "La Cocina de la Abuela",
   "owner": {
     "name": "Spotify",
@@ -339,22 +339,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Un Gato En La Oscuridad",
-        "url": "https://open.spotify.com/album/6QehPjFB3Q8uH2btA35cQm"
-      },
-      "artists": [
-        {
-          "name": "Roberto Carlos",
-          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
-        }
-      ],
-      "duration_ms": 308133,
-      "name": "Detalles (Detalhes)",
-      "url": "https://open.spotify.com/track/4tAwP9QKeLEQJ2fgd1RWcY"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Mariposa Traicionera",
         "url": "https://open.spotify.com/album/5AjpfcQlEOux0UIPtiYwlt"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 243307,
       "name": "Mariposa Traicionera",
       "url": "https://open.spotify.com/track/5YPyuMfaK6GjdFfRaryJak"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Un Gato En La Oscuridad",
+        "url": "https://open.spotify.com/album/6QehPjFB3Q8uH2btA35cQm"
+      },
+      "artists": [
+        {
+          "name": "Roberto Carlos",
+          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
+        }
+      ],
+      "duration_ms": 308133,
+      "name": "Detalles (Detalhes)",
+      "url": "https://open.spotify.com/track/4tAwP9QKeLEQJ2fgd1RWcY"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Recordando Monterrey",
-        "url": "https://open.spotify.com/album/2n1CryXhnIVXisogTOd9JF"
-      },
-      "artists": [
-        {
-          "name": "Rigo Tovar",
-          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
-        }
-      ],
-      "duration_ms": 183026,
-      "name": "Mi Amiga, Mi Esposa, Mi Amante",
-      "url": "https://open.spotify.com/track/6AgSJsbx0DRnH0jIwDVOGF"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Dos Cl\u00e1sicos",
         "url": "https://open.spotify.com/album/6VMoDyNQKAKPLrEnhnLKU2"
       },
@@ -615,8 +599,24 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "A Tu Recuerdo",
-        "url": "https://open.spotify.com/album/3lM4QDtuqPnVFLDfjNtzdY"
+        "name": "Recordando Monterrey",
+        "url": "https://open.spotify.com/album/2n1CryXhnIVXisogTOd9JF"
+      },
+      "artists": [
+        {
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+        }
+      ],
+      "duration_ms": 183026,
+      "name": "Mi Amiga, Mi Esposa, Mi Amante",
+      "url": "https://open.spotify.com/track/6AgSJsbx0DRnH0jIwDVOGF"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Serie De Oro",
+        "url": "https://open.spotify.com/album/1vdwYgTjF9jklmR0RbRR0d"
       },
       "artists": [
         {
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx"
         }
       ],
-      "duration_ms": 206386,
-      "name": "A Tu Recuerdo",
-      "url": "https://open.spotify.com/track/3SZ5Q0KLVIIFKcXIKXb295"
+      "duration_ms": 174360,
+      "name": "Debut Y Despedida",
+      "url": "https://open.spotify.com/track/1Ab8M5xfQ0nUTGSldQzAA2"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -695,8 +695,8 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Serie De Oro",
-        "url": "https://open.spotify.com/album/1vdwYgTjF9jklmR0RbRR0d"
+        "name": "A Tu Recuerdo",
+        "url": "https://open.spotify.com/album/3lM4QDtuqPnVFLDfjNtzdY"
       },
       "artists": [
         {
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx"
         }
       ],
-      "duration_ms": 174360,
-      "name": "Debut Y Despedida",
-      "url": "https://open.spotify.com/track/1Ab8M5xfQ0nUTGSldQzAA2"
+      "duration_ms": 206386,
+      "name": "A Tu Recuerdo",
+      "url": "https://open.spotify.com/track/3SZ5Q0KLVIIFKcXIKXb295"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -875,38 +875,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Mocedades 5",
-        "url": "https://open.spotify.com/album/09wkGIEU9667gEzg6Ywsbx"
-      },
-      "artists": [
-        {
-          "name": "Mocedades",
-          "url": "https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "T\u00f3mame o D\u00e9jame - Remasterizado",
-      "url": "https://open.spotify.com/track/1ZJe2q23LXHnE79UjnJqyx"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
-        "name": "Palito Ortega y Sus Exitos",
-        "url": "https://open.spotify.com/album/7LqDl8hqvxYKVArJWWABtC"
-      },
-      "artists": [
-        {
-          "name": "Palito Ortega",
-          "url": "https://open.spotify.com/artist/4jCduxx9HzFKS0RrRAtVXD"
-        }
-      ],
-      "duration_ms": 202501,
-      "name": "Prometimos No Llorar",
-      "url": "https://open.spotify.com/track/3TSJgodP7iM95y0kODUSyp"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Todo... Vol. 1 (Remastered)",
         "url": "https://open.spotify.com/album/0DhSrqef804U8ZoAT7Hqiz"
       },
@@ -923,6 +891,22 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
+        "name": "Mocedades 5",
+        "url": "https://open.spotify.com/album/09wkGIEU9667gEzg6Ywsbx"
+      },
+      "artists": [
+        {
+          "name": "Mocedades",
+          "url": "https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "T\u00f3mame o D\u00e9jame - Remasterizado",
+      "url": "https://open.spotify.com/track/1ZJe2q23LXHnE79UjnJqyx"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
         "name": "Serie De Coleccion 15 Autenticos Exitos - Enrique Guzman",
         "url": "https://open.spotify.com/album/6Jf07sJkEkGp8f4kFRESFT"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 151133,
       "name": "Tu Cabeza en Mi Hombro",
       "url": "https://open.spotify.com/track/2AtlLNH6BCDhA5DX8FSpVL"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Palito Ortega y Sus Exitos",
+        "url": "https://open.spotify.com/album/7LqDl8hqvxYKVArJWWABtC"
+      },
+      "artists": [
+        {
+          "name": "Palito Ortega",
+          "url": "https://open.spotify.com/artist/4jCduxx9HzFKS0RrRAtVXD"
+        }
+      ],
+      "duration_ms": 202501,
+      "name": "Prometimos No Llorar",
+      "url": "https://open.spotify.com/track/3TSJgodP7iM95y0kODUSyp"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Palito Ortega y Sus Exitos",
-        "url": "https://open.spotify.com/album/7LqDl8hqvxYKVArJWWABtC"
-      },
-      "artists": [
-        {
-          "name": "Palito Ortega",
-          "url": "https://open.spotify.com/artist/4jCduxx9HzFKS0RrRAtVXD"
-        }
-      ],
-      "duration_ms": 200960,
-      "name": "Por Muchas Razones Te Quiero",
-      "url": "https://open.spotify.com/track/3uNHsihawfIiZv8XClEZoY"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Los Tres Caballeros",
         "url": "https://open.spotify.com/album/0g3tdBXHTP9VgftkbXnVPI"
       },
@@ -1227,6 +1211,22 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
+        "name": "Palito Ortega y Sus Exitos",
+        "url": "https://open.spotify.com/album/7LqDl8hqvxYKVArJWWABtC"
+      },
+      "artists": [
+        {
+          "name": "Palito Ortega",
+          "url": "https://open.spotify.com/artist/4jCduxx9HzFKS0RrRAtVXD"
+        }
+      ],
+      "duration_ms": 200960,
+      "name": "Por Muchas Razones Te Quiero",
+      "url": "https://open.spotify.com/track/3uNHsihawfIiZv8XClEZoY"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
         "name": "2 en 1 (Amigo Mio, Cuenta Conmigo)",
         "url": "https://open.spotify.com/album/6WEYYj4KpgQEvkPMIomeih"
       },
@@ -1239,6 +1239,22 @@
       "duration_ms": 331400,
       "name": "Callados",
       "url": "https://open.spotify.com/track/7afLIGLOQUhXMruh8XByhL"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "La M\u00fasica Que Inspir\u00f3 La Serie Original De Netflix, La Casa De Las Flores (Creada Por Manolo Caro)",
+        "url": "https://open.spotify.com/album/5oXSUte6OU8D1FplG0QTkH"
+      },
+      "artists": [
+        {
+          "name": "Los Pulpos",
+          "url": "https://open.spotify.com/artist/3cfF0Dzyws8BcRvDRsNd5N"
+        }
+      ],
+      "duration_ms": 181960,
+      "name": "Lo Que Te Queda",
+      "url": "https://open.spotify.com/track/4SrOqEKxfldAFrV37aF1pQ"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1259,22 +1275,6 @@
       "duration_ms": 223573,
       "name": "D\u00e9jame Vivir (with Juan Gabriel)",
       "url": "https://open.spotify.com/track/4LY4j1ziOoVQm8beWBRYVN"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
-        "name": "La M\u00fasica Que Inspir\u00f3 La Serie Original De Netflix, La Casa De Las Flores (Creada Por Manolo Caro)",
-        "url": "https://open.spotify.com/album/5oXSUte6OU8D1FplG0QTkH"
-      },
-      "artists": [
-        {
-          "name": "Los Pulpos",
-          "url": "https://open.spotify.com/artist/3cfF0Dzyws8BcRvDRsNd5N"
-        }
-      ],
-      "duration_ms": 181960,
-      "name": "Lo Que Te Queda",
-      "url": "https://open.spotify.com/track/4SrOqEKxfldAFrV37aF1pQ"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Germ\u00e1n Vald\u00e9s TIN-TAN Canciones de Sus Pel\u00edculas",
-        "url": "https://open.spotify.com/album/3Ci1X3dr7NJlbuUgqsFUgK"
-      },
-      "artists": [
-        {
-          "name": "Germ\u00e1n Vald\u00e9s \"Tin Tan\"",
-          "url": "https://open.spotify.com/artist/3UycXszmChrsTWhbmydyDZ"
-        }
-      ],
-      "duration_ms": 144013,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/6VGgE1rjM5KDqMSdSRaA17"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Si Quieres Verme Llorar",
         "url": "https://open.spotify.com/album/2P8oEuWa3QRF4zgU8dvmrD"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 190807,
       "name": "Si Quieres Verme Llorar",
       "url": "https://open.spotify.com/track/07yJLjgSez4kdmQEqYxtP7"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Germ\u00e1n Vald\u00e9s TIN-TAN Canciones de Sus Pel\u00edculas",
+        "url": "https://open.spotify.com/album/3Ci1X3dr7NJlbuUgqsFUgK"
+      },
+      "artists": [
+        {
+          "name": "Germ\u00e1n Vald\u00e9s \"Tin Tan\"",
+          "url": "https://open.spotify.com/artist/3UycXszmChrsTWhbmydyDZ"
+        }
+      ],
+      "duration_ms": 144013,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/6VGgE1rjM5KDqMSdSRaA17"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
+        "name": "Rocio Banquells",
+        "url": "https://open.spotify.com/album/2XWgQoX6V3MDSm9dGZGkGz"
+      },
+      "artists": [
+        {
+          "name": "Rocio Banquells",
+          "url": "https://open.spotify.com/artist/0WaPMyYYZZ7yxzG1qhZ5kz"
+        }
+      ],
+      "duration_ms": 251306,
+      "name": "Abr\u00e1zame",
+      "url": "https://open.spotify.com/track/1SGYSOwGX3PPkJc5ihY2zp"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
         "name": "17 Super Exitos",
         "url": "https://open.spotify.com/album/4T3cjmsFQWzFkJaeDU2IUu"
       },
@@ -1407,18 +1423,18 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Rocio Banquells",
-        "url": "https://open.spotify.com/album/2XWgQoX6V3MDSm9dGZGkGz"
+        "name": "El Ultimo Beso",
+        "url": "https://open.spotify.com/album/4gUAghEji9OTewhzSEUZBo"
       },
       "artists": [
         {
-          "name": "Rocio Banquells",
-          "url": "https://open.spotify.com/artist/0WaPMyYYZZ7yxzG1qhZ5kz"
+          "name": "Mar\u00eda del Rayo y Los Gatos Salvajes",
+          "url": "https://open.spotify.com/artist/17RZFRN9B0UKJ2P18muMF7"
         }
       ],
-      "duration_ms": 251306,
-      "name": "Abr\u00e1zame",
-      "url": "https://open.spotify.com/track/1SGYSOwGX3PPkJc5ihY2zp"
+      "duration_ms": 175266,
+      "name": "Te regalo mis ojos",
+      "url": "https://open.spotify.com/track/1ytZAKRIBtkSIre6FbBGnu"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1455,22 +1471,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "El Ultimo Beso",
-        "url": "https://open.spotify.com/album/4gUAghEji9OTewhzSEUZBo"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda del Rayo y Los Gatos Salvajes",
-          "url": "https://open.spotify.com/artist/17RZFRN9B0UKJ2P18muMF7"
-        }
-      ],
-      "duration_ms": 175266,
-      "name": "Te regalo mis ojos",
-      "url": "https://open.spotify.com/track/1ytZAKRIBtkSIre6FbBGnu"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "15 Exitos",
         "url": "https://open.spotify.com/album/1E8zgxv9uHHZ5dj4e8tsrn"
       },
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Lo Mejor de Massiel",
-        "url": "https://open.spotify.com/album/44JyWGnSQObZVILBVQ4hnF"
-      },
-      "artists": [
-        {
-          "name": "Massiel",
-          "url": "https://open.spotify.com/artist/7gAcNqHWOMnqnsTBjq7v0T"
-        }
-      ],
-      "duration_ms": 227640,
-      "name": "Rosas en el Mar",
-      "url": "https://open.spotify.com/track/1CzxmV2RMlY7RoYN6Jd85S"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Intimamente",
         "url": "https://open.spotify.com/album/5K5nnSuTpYNG2dc4mtDiRY"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 219813,
       "name": "Este Terco Coraz\u00f3n",
       "url": "https://open.spotify.com/track/3hTws9UVZRfM3xBx088KKe"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Lo Mejor de Massiel",
+        "url": "https://open.spotify.com/album/44JyWGnSQObZVILBVQ4hnF"
+      },
+      "artists": [
+        {
+          "name": "Massiel",
+          "url": "https://open.spotify.com/artist/7gAcNqHWOMnqnsTBjq7v0T"
+        }
+      ],
+      "duration_ms": 227640,
+      "name": "Rosas en el Mar",
+      "url": "https://open.spotify.com/track/1CzxmV2RMlY7RoYN6Jd85S"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "RCA 100 A\u00f1os De Musica",
-        "url": "https://open.spotify.com/album/6kmo9ICrHMtTWTr6AghTa2"
-      },
-      "artists": [
-        {
-          "name": "Angelica Maria",
-          "url": "https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1"
-        }
-      ],
-      "duration_ms": 182626,
-      "name": "A D\u00f3nde Va Nuestro Amor?",
-      "url": "https://open.spotify.com/track/4y5SzY2HuX5UM4cFJTkaxS"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Las Estrellas Del Fonografo RCA Victor",
         "url": "https://open.spotify.com/album/2iBzqfmSLEAjIpH1RN1myW"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 193706,
       "name": "Estoy Perdido",
       "url": "https://open.spotify.com/track/2uliF87JybtJDQfgOclSTa"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "RCA 100 A\u00f1os De Musica",
+        "url": "https://open.spotify.com/album/6kmo9ICrHMtTWTr6AghTa2"
+      },
+      "artists": [
+        {
+          "name": "Angelica Maria",
+          "url": "https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1"
+        }
+      ],
+      "duration_ms": 182626,
+      "name": "A D\u00f3nde Va Nuestro Amor?",
+      "url": "https://open.spotify.com/track/4y5SzY2HuX5UM4cFJTkaxS"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1959,22 +1959,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Just",
-        "url": "https://open.spotify.com/album/4HpiCloJ987Iq58KRIWTMD"
-      },
-      "artists": [
-        {
-          "name": "Paulina",
-          "url": "https://open.spotify.com/artist/5Vc4qPnItSUWhOZl7J6yUa"
-        }
-      ],
-      "duration_ms": 166217,
-      "name": "Desilusi\u00f3n",
-      "url": "https://open.spotify.com/track/5Mc9dGVnkYCFIvSvWJnOho"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Mi Historia",
         "url": "https://open.spotify.com/album/0C4pX9Q4zwFNvMvYOsiaSa"
       },
@@ -1987,6 +1971,22 @@
       "duration_ms": 185626,
       "name": "Cinco Canas Mas",
       "url": "https://open.spotify.com/track/5riZDaCsIM7ylEIUTMOQo7"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Just",
+        "url": "https://open.spotify.com/album/4HpiCloJ987Iq58KRIWTMD"
+      },
+      "artists": [
+        {
+          "name": "Paulina",
+          "url": "https://open.spotify.com/artist/5Vc4qPnItSUWhOZl7J6yUa"
+        }
+      ],
+      "duration_ms": 166217,
+      "name": "Desilusi\u00f3n",
+      "url": "https://open.spotify.com/track/5Mc9dGVnkYCFIvSvWJnOho"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -2071,22 +2071,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Frente a Frente de Tr\u00edos",
-        "url": "https://open.spotify.com/album/0TibhurVSsO5rf4tq4hEy9"
-      },
-      "artists": [
-        {
-          "name": "Los Tres Caballeros",
-          "url": "https://open.spotify.com/artist/0ou4IrIjMSANpaPTL8lC3F"
-        }
-      ],
-      "duration_ms": 198310,
-      "name": "Reg\u00e1lame Esta Noche",
-      "url": "https://open.spotify.com/track/0fkRaCCLExhD6SisSRntlw"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Te Quiero Todo",
         "url": "https://open.spotify.com/album/3j6gu7vVE7Ur4emsraRonJ"
       },
@@ -2103,18 +2087,18 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Mi Arbol Y Yo",
-        "url": "https://open.spotify.com/album/3xE56OcK19QNVNr7EUoE3o"
+        "name": "Frente a Frente de Tr\u00edos",
+        "url": "https://open.spotify.com/album/0TibhurVSsO5rf4tq4hEy9"
       },
       "artists": [
         {
-          "name": "Alberto Cortez",
-          "url": "https://open.spotify.com/artist/0Iww53p8UY2oYtQhfzsSY9"
+          "name": "Los Tres Caballeros",
+          "url": "https://open.spotify.com/artist/0ou4IrIjMSANpaPTL8lC3F"
         }
       ],
-      "duration_ms": 213446,
-      "name": "Mi Arbol Y Yo",
-      "url": "https://open.spotify.com/track/4un7tX9V9E4O06ogDdtSpv"
+      "duration_ms": 198310,
+      "name": "Reg\u00e1lame Esta Noche",
+      "url": "https://open.spotify.com/track/0fkRaCCLExhD6SisSRntlw"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -2131,6 +2115,22 @@
       "duration_ms": 135520,
       "name": "Amor En El Aire",
       "url": "https://open.spotify.com/track/4SpymdQGOUzDEsOGSlwDR0"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Mi Arbol Y Yo",
+        "url": "https://open.spotify.com/album/3xE56OcK19QNVNr7EUoE3o"
+      },
+      "artists": [
+        {
+          "name": "Alberto Cortez",
+          "url": "https://open.spotify.com/artist/0Iww53p8UY2oYtQhfzsSY9"
+        }
+      ],
+      "duration_ms": 213446,
+      "name": "Mi Arbol Y Yo",
+      "url": "https://open.spotify.com/track/4un7tX9V9E4O06ogDdtSpv"
     },
     {
       "added_at": "2024-07-11 01:42:53",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Photo : KeBlack",
+  "description": "Photo : GIMS",
   "name": "Best Life",
   "tracks": [
     {
@@ -387,6 +387,24 @@
     },
     {
       "album": {
+        "name": "APPELLE TA COPINE",
+        "url": "https://open.spotify.com/album/09WsOdrH7Hzl6ZLg9Er6bq"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180923,
+      "name": "APPELLE TA COPINE",
+      "url": "https://open.spotify.com/track/1i3eRYUhy28Nl0zwcQNOdZ"
+    },
+    {
+      "album": {
         "name": "Avec elle",
         "url": "https://open.spotify.com/album/3zVzY7IdtotQVKGCPOUiBg"
       },
@@ -442,6 +460,28 @@
       "duration_ms": 193401,
       "name": "Balade",
       "url": "https://open.spotify.com/track/7C13bFjFdELL8ioTMtVbZ5"
+    },
+    {
+      "album": {
+        "name": "Ballon d'or",
+        "url": "https://open.spotify.com/album/3WScTyJbc0q5X7xb9rei6O"
+      },
+      "artists": [
+        {
+          "name": "SenSey'",
+          "url": "https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5"
+        },
+        {
+          "name": "RK",
+          "url": "https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131500,
+      "name": "Ballon d'or",
+      "url": "https://open.spotify.com/track/79VtonGgvoyENawzktwOrt"
     },
     {
       "album": {
@@ -1348,7 +1388,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 249115,
       "name": "Diana (with Hamza)",
       "url": "https://open.spotify.com/track/2c3MBL8fpnhzBGHFJWQ8yU"
@@ -1410,7 +1450,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 135523,
       "name": "DO U WANNA ?",
       "url": "https://open.spotify.com/track/5kaYIpCzyVfPLyrjKDtgtF"
@@ -1668,7 +1708,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 181500,
       "name": "Ensay",
       "url": "https://open.spotify.com/track/66Kb1uA4cIUeUbEL3SR2Rs"
@@ -2114,7 +2154,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 164000,
       "name": "Jamais (remix)",
       "url": "https://open.spotify.com/track/60zbRO8q5OA4tdfPVpYA8l"
@@ -2563,6 +2603,32 @@
     },
     {
       "album": {
+        "name": "LDC",
+        "url": "https://open.spotify.com/album/0QvUH3eAOC3FCK0xXmlJIN"
+      },
+      "artists": [
+        {
+          "name": "No Limit",
+          "url": "https://open.spotify.com/artist/2Ns3GuAU2LYllDr7z20d0e"
+        },
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        },
+        {
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181874,
+      "name": "LDC",
+      "url": "https://open.spotify.com/track/79GsCcSo4Fm4xVwFw7gkgs"
+    },
+    {
+      "album": {
         "name": "Liberta",
         "url": "https://open.spotify.com/album/4ezzeRj05jnLrRqunm6qJn"
       },
@@ -2782,6 +2848,28 @@
       "duration_ms": 175265,
       "name": "Madre Mia",
       "url": "https://open.spotify.com/track/4b7I2pWNUOdmWvQsvAciXX"
+    },
+    {
+      "album": {
+        "name": "B\u0112Y\u0100H",
+        "url": "https://open.spotify.com/album/6y0rmE7jkFS9cB03Gw0qKV"
+      },
+      "artists": [
+        {
+          "name": "Damso",
+          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
+        },
+        {
+          "name": "I.A.",
+          "url": "https://open.spotify.com/artist/1X3wBxJjbLALzN8QqaXIFZ"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180360,
+      "name": "Magic (feat. I.A.)",
+      "url": "https://open.spotify.com/track/26AJYfDkqXUTOXLW7fYOZO"
     },
     {
       "album": {
@@ -3348,7 +3436,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 165813,
       "name": "No lo s\u00e9",
       "url": "https://open.spotify.com/track/0KT1DHLTofoTRy1WTlco3r"
@@ -5369,6 +5457,28 @@
     },
     {
       "album": {
+        "name": "Tout donner",
+        "url": "https://open.spotify.com/album/2JX4Z6eoaQWk0AizkGIPBC"
+      },
+      "artists": [
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        },
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145512,
+      "name": "Tout donner",
+      "url": "https://open.spotify.com/track/3Xta6s5k5IwdTfjLwYMa7O"
+    },
+    {
+      "album": {
         "name": "Tout g\u00e2ch\u00e9",
         "url": "https://open.spotify.com/album/2Rev1BAh4FMZNxcQbsdlj7"
       },
@@ -5712,7 +5822,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 166153,
       "name": "WANTA",
       "url": "https://open.spotify.com/track/4o5T3A2O4k9bF6CMOr7DaN"
@@ -5854,6 +5964,24 @@
       "duration_ms": 158986,
       "name": "ZERO (feat. Franglish)",
       "url": "https://open.spotify.com/track/4oTH36emmtCcKKYb3fvXcg"
+    },
+    {
+      "album": {
+        "name": "Zone interdite",
+        "url": "https://open.spotify.com/album/7nzLub4KK8qTnlw28XCAIB"
+      },
+      "artists": [
+        {
+          "name": "Bianca Costa",
+          "url": "https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140666,
+      "name": "Zone interdite",
+      "url": "https://open.spotify.com/track/0d0zzSo36NQBQgVen71PSw"
     },
     {
       "album": {

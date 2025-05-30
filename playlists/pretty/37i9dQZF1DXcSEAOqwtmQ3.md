@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSEAOqwtmQ3.md) - [plain]
 
 > Kick nostalgia up a notch with these throwback bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,869 likes - 50 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,911 likes - 50 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSEAOqwtmQ3.md) - [plain]
 | 28 | [Dami Duro](https://open.spotify.com/track/1qIshP7qHh8qXWtUHECzsI) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Dami Duro](https://open.spotify.com/album/0TKPVgGCjAipq8TnFD7BZ2) | 4:10 |
 | 29 | [Mo Gbono Feli Feli](https://open.spotify.com/track/07RfIWKzLssvCChvLQEW8y) | [D'banj](https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C) | [D'banj Essentials](https://open.spotify.com/album/6W7HwjGhnQoo68CeL0Bz1L) | 4:18 |
 | 30 | [Nwa Baby \- Ashawo Remix](https://open.spotify.com/track/3yLliVuAdxCnXwqSJgF3TX) | [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [Nwa Baby \(Ashawo Remix\)](https://open.spotify.com/album/1oUpWwSxEMQNea1eHCLcmy) | 4:17 |
-| 31 | [Holla At Your Boy](https://open.spotify.com/track/04spFw8MYyF8JtnziscOM7) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Superstar](https://open.spotify.com/album/4o0rVyqZMIvO3PCgbchcgo) | 4:21 |
+| 31 | [Ki Ni Big Deal](https://open.spotify.com/track/4SRzTWAdadrGkSnDujpE1M) | [Nateo C](https://open.spotify.com/artist/2RteiR7Zcg2UOXjNGukqBU) | [U Know My P](https://open.spotify.com/album/2orBFb589p0ZVKmC2qZbTw) | 4:28 |
 | 32 | [Stalemate](https://open.spotify.com/track/039djQX5LwqXM93UxvktmR) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Stalemate \(Edit\)](https://open.spotify.com/album/4E9cv2ksnwf1JttplEwyTd) | 12:54 |
-| 33 | [Ki Ni Big Deal](https://open.spotify.com/track/4SRzTWAdadrGkSnDujpE1M) | [Nateo C](https://open.spotify.com/artist/2RteiR7Zcg2UOXjNGukqBU) | [U Know My P](https://open.spotify.com/album/2orBFb589p0ZVKmC2qZbTw) | 4:28 |
+| 33 | [Holla At Your Boy](https://open.spotify.com/track/04spFw8MYyF8JtnziscOM7) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Superstar](https://open.spotify.com/album/4o0rVyqZMIvO3PCgbchcgo) | 4:21 |
 | 34 | [Lori Le](https://open.spotify.com/track/5fpoDuxvBBNy69mgzIMMrI) | [X Project](https://open.spotify.com/artist/2p4MFIE0APhGNORzjr3WWq) | [Turn It Up](https://open.spotify.com/album/01FMhJP1OMfKLyxWR5lqRl) | 4:03 |
 | 35 | [Bizzy Body](https://open.spotify.com/track/78dTPqstG8GigLVkHe5OM4) | [P\-Square](https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk) | [Get Squared](https://open.spotify.com/album/0x7J2lQoSvwTedF3yy2dWL) | 4:49 |
 | 36 | [Olufunmi](https://open.spotify.com/track/5oBMwr31HDA5zW0LKC5RVD) | [Styl\-Plus](https://open.spotify.com/artist/3WzoYG00RDcrAD5ZPAUmPy) | [Expressions](https://open.spotify.com/album/4dSUWYw7R9pvrdJJEkTy0n) | 5:11 |
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSEAOqwtmQ3.md) - [plain]
 | 43 | [Arabade](https://open.spotify.com/track/3eOJ0hvl3c19W3NdQSZtHt) | [Sir Victor Uwaifo](https://open.spotify.com/artist/2hCi6vXJyyTG9szd63b4LU) | [Five Days A Week Lover](https://open.spotify.com/album/1rdN7vx7snfJbRIIrGdf37) | 8:55 |
 | 44 | [Imagine That](https://open.spotify.com/track/7zZdhUwZnYEtjBRv9VFY1J) | [Styl\-Plus](https://open.spotify.com/artist/3WzoYG00RDcrAD5ZPAUmPy) | [Expressions](https://open.spotify.com/album/4dSUWYw7R9pvrdJJEkTy0n) | 4:59 |
 | 45 | [No Agreement \- Edit](https://open.spotify.com/track/5JFUFbOjmebUD2piGlcxhs) | [Afrika 70](https://open.spotify.com/artist/5lhLOXDLaw0yjEXd6xTasV), [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [No Agreement \(Edit\)](https://open.spotify.com/album/1nR5s4IA9hwVziWOcwN1G6) | 4:38 |
-| 46 | [Dododo \- Ekassa 1](https://open.spotify.com/track/6bCmlUUb3u8MOSlu9myY1C) | [Sir Victor Uwaifo](https://open.spotify.com/artist/2hCi6vXJyyTG9szd63b4LU) | [Sir Victor Uwaifo: Guitar Boy Superstar 1970\-76 \(Soundway Records\)](https://open.spotify.com/album/5FCUyTp1uErvfLcj1b1Tj7) | 5:19 |
-| 47 | [Implication](https://open.spotify.com/track/2JgnAVPrS91zBkuCZ05AXX) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [T.I.A "This Is Afrobeats"](https://open.spotify.com/album/3JmTzkOMwlIlXWfvzZbMj4) | 3:27 |
-| 48 | [Ifunanya](https://open.spotify.com/track/039NjRtWTmq4zDBoUOqQgH) | [P\-Square](https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk) | [Best of P\-Square](https://open.spotify.com/album/6uzbZFSVUksKqMKQa8DAgf) | 4:26 |
+| 46 | [Implication](https://open.spotify.com/track/2JgnAVPrS91zBkuCZ05AXX) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [T.I.A "This Is Afrobeats"](https://open.spotify.com/album/3JmTzkOMwlIlXWfvzZbMj4) | 3:27 |
+| 47 | [Ifunanya](https://open.spotify.com/track/039NjRtWTmq4zDBoUOqQgH) | [P\-Square](https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk) | [Best of P\-Square](https://open.spotify.com/album/6uzbZFSVUksKqMKQa8DAgf) | 4:26 |
+| 48 | [Dododo \- Ekassa 1](https://open.spotify.com/track/6bCmlUUb3u8MOSlu9myY1C) | [Sir Victor Uwaifo](https://open.spotify.com/artist/2hCi6vXJyyTG9szd63b4LU) | [Sir Victor Uwaifo: Guitar Boy Superstar 1970\-76 \(Soundway Records\)](https://open.spotify.com/album/5FCUyTp1uErvfLcj1b1Tj7) | 5:19 |
 | 49 | [Pon Pon Pon](https://open.spotify.com/track/7r5MI82lGS5JcWNedhIBwi) | [Dagrin](https://open.spotify.com/artist/6LRZTXWP7Ytxujepqoq21m) | [C.E.O](https://open.spotify.com/album/7elpucLOwMMx4Nr4Kto9O3) | 3:55 |
 | 50 | [Beng Beng Beng](https://open.spotify.com/track/2zj1UGgmrHjNAEgDa0RKLB) | [Femi Kuti](https://open.spotify.com/artist/6kgrtA0dlnVpWB6zjpXrRb) | [Afrobeat..\. No Go Die!](https://open.spotify.com/album/4XKaYN78bmgnEWuYsB2doQ) | 4:34 |
 

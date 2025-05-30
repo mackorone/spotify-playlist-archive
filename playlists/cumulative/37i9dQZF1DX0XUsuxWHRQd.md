@@ -4,7 +4,7 @@
 
 > Music from Playboi Carti, Young Thug and Drake.
 
-2,382 songs - 5 day 3 hr 22 min
+2,383 songs - 5 day 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -790,6 +790,7 @@
 | [Go Stupid \(feat\. NLE Choppa & Mike WiLL Made\-It\)](https://open.spotify.com/track/74fV8TuLZKVzSIOOGu8wwI) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Stunna 4 Vegas](https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk) | [Go Stupid \(feat\. NLE Choppa & Mike WiLL Made\-It\)](https://open.spotify.com/album/4oSUWBr6s2gIN7IAtHFXsX) | 2:45 | 2020-02-14 | 2020-05-19 |
 | [Go To Hell](https://open.spotify.com/track/2Yd5D02hVICrlpMvd4JOqc) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Cool & Dre](https://open.spotify.com/artist/2PsjBHyb950JI7BHXY10TD), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [Go To Hell](https://open.spotify.com/album/0lVsaUVTURhkRAOEv6hwhI) | 3:39 | 2023-11-10 | 2023-11-18 |
 | [Go Up \(feat\. Roddy Ricch\)](https://open.spotify.com/track/0cMPXkjXXkMqokO9LIFPFn) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Go Up \(feat\. Roddy Ricch\)](https://open.spotify.com/album/29ljL5QvYMhy07hjzhSG4y) | 2:49 | 2019-07-12 | 2019-07-26 |
+| [GO!](https://open.spotify.com/track/4JNTpbntShpUpACDUzwHV5) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Be](https://open.spotify.com/album/2UuvBxV56QWWj2uviGS0up) | 3:44 | 2025-05-29 |  |
 | [GO! \(with BIG30\)](https://open.spotify.com/track/4VYKA63F2fcQnsvfWUpzn9) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [GO! \(with BIG30\)](https://open.spotify.com/album/31FQmY4uSRiiThvwN326kd) | 2:03 | 2021-04-16 | 2021-04-24 |
 | [Goddamn \(feat\. A Boogie wit da Hoodie\)](https://open.spotify.com/track/0Zl4G9qcdXV5hVhdOirNHG) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Goddamn \(feat\. A Boogie wit da Hoodie\)](https://open.spotify.com/album/1IW64ShnRzteYrdTv9Lf7d) | 3:31 | 2019-05-26\* | 2019-06-15 |
 | [Goddamn \(feat\. A Boogie wit da Hoodie\)](https://open.spotify.com/track/4TCG827sk5fDEmUvcQlStk) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Legendary](https://open.spotify.com/album/6hHIX3lfGKnZ2ji41YZMVV) | 3:31 | 2019-06-07 | 2019-08-13 |

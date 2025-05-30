@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: 데이먼스 이어 \(Damons year\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-957 songs - 2 day 10 hr 23 min
+958 songs - 2 day 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [Don't Know \(Prod\. CLAZZI\)](https://open.spotify.com/track/7i2G1Vhqgzb7P0qbYkgy7j) | [김수영 Kim Suyoung](https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj) | [Don't Know](https://open.spotify.com/album/5jnvJERFgLcdXTtlaY8yMI) | 3:31 | 2022-02-10 | 2022-04-25 |
 | [Don’t go home](https://open.spotify.com/track/2ROP0upaRoZuU3WZAAv4d3) | [seoseo](https://open.spotify.com/artist/19fpoLzmPBNG4TdMQMSSc8) | [Don’t go home](https://open.spotify.com/album/5Z2DV5deJlPtSIgLPta6Hb) | 3:07 | 2023-01-05 | 2023-01-11 |
 | [DORA DORA](https://open.spotify.com/track/6UbHawPidvXTKx81ho8Oez) | [GOLDBUUDA](https://open.spotify.com/artist/1C6mRx44pGqKBwZKotODDV) | [DORA DORA](https://open.spotify.com/album/7z15T7R41sk7W5mvJHvRVq) | 3:26 | 2024-04-30 | 2024-05-10 |
+| [Double Trouble \(Remix\)](https://open.spotify.com/track/2TeevnrPlJfYfyJtSjK1mB) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [Double Trouble \(Remix\)](https://open.spotify.com/album/3ylXCMrMzkXt5mVkZYw67P) | 3:12 | 2025-05-28 |  |
 | [Down](https://open.spotify.com/track/7hRhNpXVmoWicHNmgXcF3j) | [jerd](https://open.spotify.com/artist/1Hj2c6llUPMtHG1JX8JMFA) | [MY ONLY 1 \(Original Soundtrack from the WEBTOON\)](https://open.spotify.com/album/26kWAzpUA7EQyimA0Fxbqx) | 3:53 | 2023-02-14 | 2023-03-01 |
 | [Dr\. Happiness \(Feat\. CHS\)](https://open.spotify.com/track/3WtlX5cNelKYTK6jPxn7Z4) | [PARKMOONCHI](https://open.spotify.com/artist/1LIw1nom0dT1E99JFLINqh), [CHS](https://open.spotify.com/artist/5kmOxIVVhfwbItJn9onVoe) | [Dr\. Happiness](https://open.spotify.com/album/0el5q6EfLtW0rpsP0tmAbk) | 3:19 | 2024-04-30 | 2024-05-10 |
 | [DRAMA](https://open.spotify.com/track/56bXIqmnVhCxGhGaOGx1zE) | [406 Project](https://open.spotify.com/artist/3bXpLpVdhS8IBPYk5mNg6n) | [DRAMA](https://open.spotify.com/album/5oVPbj0ll7HoYPt3WCi6es) | 2:39 | 2022-03-31 | 2022-04-14 |
@@ -307,7 +308,7 @@
 | [Gonna Die](https://open.spotify.com/track/3LTk2U4sgSXS87douZ8ENT) | [can’t be blue ](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5) | [Gonna Die](https://open.spotify.com/album/5nLQcMLitti1JYX805cCoO) | 3:24 | 2025-03-04 | 2025-04-11 |
 | [Good bye blue days](https://open.spotify.com/track/0FseBo4lh1WeuvvIKAwsMR) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [Good bye blue days](https://open.spotify.com/album/6fujCf3YvZsPCsXIKRMbUe) | 4:11 | 2021-12-12 | 2022-07-28 |
 | [Good Times](https://open.spotify.com/track/5DXHofLQmL5USn6kjRhtnC) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [X\-Dreams](https://open.spotify.com/album/3yEhqq1L8LShxaJgje45rY) | 3:24 | 2025-04-25 | 2025-05-20 |
-| [Goodbye blue days](https://open.spotify.com/track/1al6pYbDVgvWgfQAWVOFe6) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [21' Archive](https://open.spotify.com/album/5IkZqnvKVzjH02zsLmeLD6) | 4:11 | 2025-04-11 |  |
+| [Goodbye blue days](https://open.spotify.com/track/1al6pYbDVgvWgfQAWVOFe6) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [21' Archive](https://open.spotify.com/album/5IkZqnvKVzjH02zsLmeLD6) | 4:11 | 2025-04-11 | 2025-05-30 |
 | [Goodbye, fall](https://open.spotify.com/track/0LBSNshLNvYTiP6b4K1RzD) | [ROCOBERRY](https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P) | [Goodbye, fall](https://open.spotify.com/album/2E82nqjerYIM9TrlNZeXND) | 3:41 | 2021-12-12 | 2022-07-29 |
 | [Gradation](https://open.spotify.com/track/775S83AMYbQc8SYteOktTL) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.3 \(Gradation\)](https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG) | 3:21 | 2022-07-08 |  |
 | [Grassland](https://open.spotify.com/track/5zypY0T6WMsBHcCVWwuCVi) | [Nuz](https://open.spotify.com/artist/01C8gGSy00yG51FOfWzGpT) | [Grassland](https://open.spotify.com/album/5EvOCewuL8RLnCI1ZCYBwL) | 6:21 | 2022-03-31 | 2022-04-15 |

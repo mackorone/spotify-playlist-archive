@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V8Fm8gtZNH.md) - [plain]
 
 > Our streets, our way\. Listen to music from The Chi, now streaming on Paramount+ with Showtime.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,625 likes - 324 songs - 19 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,648 likes - 324 songs - 19 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -333,4 +333,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V8Fm8gtZNH.md) - [plain]
 | 323 | [What a Life](https://open.spotify.com/track/59DJZMI3JH1TTUWbZy3htO) | [MFnMelo](https://open.spotify.com/artist/7auVoAwdrloWdyKULVOauu), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [Everybody Eats](https://open.spotify.com/album/6KhXakHRaqa0yRbjhrFrNE) | 3:23 |
 | 324 | [Love Inside](https://open.spotify.com/track/6j328qpqI6nScYgOTW5rBl) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe), [Isabella](https://open.spotify.com/artist/2EmRXI8KZXDepJZ5niFy3y) | [In My Mind](https://open.spotify.com/album/15iSR05cslUeYgf2kuWDhu) | 3:47 |
 
-Snapshot ID: `aDAdEAAAAABpKsIRu+E7J9rcHB2awU1V`
+Snapshot ID: `AAAAADWPPNHRUAhJfs+xAE9Bfak9HyO/`

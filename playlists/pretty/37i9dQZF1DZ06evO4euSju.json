@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDUAgAAAAABvkK6K6plUae5Y6vHTZDCC",
+  "snapshot_id": "aDZSAAAAAACfrL9JVnMQXx7WF42k9ekQ",
   "tracks": [
     {
       "added_at": null,
@@ -204,9 +204,9 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 226886,
-      "name": "Digital Self",
-      "url": "https://open.spotify.com/track/1NGiJCk7ca274tEp0xiwmt"
+      "duration_ms": 252314,
+      "name": "Something Good",
+      "url": "https://open.spotify.com/track/6je4IvHO0cl2ZoUglX7L6r"
     },
     {
       "added_at": null,
@@ -268,29 +268,25 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 252314,
-      "name": "Something Good",
-      "url": "https://open.spotify.com/track/6je4IvHO0cl2ZoUglX7L6r"
+      "duration_ms": 226886,
+      "name": "Digital Self",
+      "url": "https://open.spotify.com/track/1NGiJCk7ca274tEp0xiwmt"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Still Love (Deluxe)",
-        "url": "https://open.spotify.com/album/7bjoRFAziiXoBlPbLtUlV7"
+        "name": "Dazed",
+        "url": "https://open.spotify.com/album/0OTMJe9Gf7rk5ss02Q6KtS"
       },
       "artists": [
         {
           "name": "Teenage Wrist",
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
-        },
-        {
-          "name": "S.A. Martinez",
-          "url": "https://open.spotify.com/artist/5dOE9cNjwaLO7AiaXJqnAy"
         }
       ],
-      "duration_ms": 191323,
-      "name": "Dark Sky",
-      "url": "https://open.spotify.com/track/1LkC13v4sIOOcvVMRhiljd"
+      "duration_ms": 284104,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/2BIbQW7IHxJhE6J8i5PM9V"
     },
     {
       "added_at": null,
@@ -336,19 +332,23 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         },
         {
-          "name": "Heavenward",
-          "url": "https://open.spotify.com/artist/3iKDeO8yaOiWz7vkeljunk"
+          "name": "Fear Before The March Of Flames",
+          "url": "https://open.spotify.com/artist/4sGnh5atNR6I2OHURlmlMq"
+        },
+        {
+          "name": "David Marion",
+          "url": "https://open.spotify.com/artist/1Su8KMQGp47Q3LddHVXj5k"
         }
       ],
-      "duration_ms": 194252,
-      "name": "Humbug",
-      "url": "https://open.spotify.com/track/2oex8WpGBSNHgM3Jw7SnRU"
+      "duration_ms": 235565,
+      "name": "Cigarette Two Step",
+      "url": "https://open.spotify.com/track/5KwLLL8VE4k3mUTy1gfgpP"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Dazed",
-        "url": "https://open.spotify.com/album/0OTMJe9Gf7rk5ss02Q6KtS"
+        "name": "Counting Flies",
+        "url": "https://open.spotify.com/album/1cMUO53ujhy2sdSZdRAQvD"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 284104,
-      "name": "Afterglow",
-      "url": "https://open.spotify.com/track/2BIbQW7IHxJhE6J8i5PM9V"
+      "duration_ms": 339212,
+      "name": "Sparkle / Fade",
+      "url": "https://open.spotify.com/track/54pcxTH4RzzfvTq7f2vWem"
     },
     {
       "added_at": null,
@@ -404,33 +404,13 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         },
         {
-          "name": "Fear Before The March Of Flames",
-          "url": "https://open.spotify.com/artist/4sGnh5atNR6I2OHURlmlMq"
-        },
-        {
-          "name": "David Marion",
-          "url": "https://open.spotify.com/artist/1Su8KMQGp47Q3LddHVXj5k"
+          "name": "Heavenward",
+          "url": "https://open.spotify.com/artist/3iKDeO8yaOiWz7vkeljunk"
         }
       ],
-      "duration_ms": 235565,
-      "name": "Cigarette Two Step",
-      "url": "https://open.spotify.com/track/5KwLLL8VE4k3mUTy1gfgpP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Counting Flies",
-        "url": "https://open.spotify.com/album/1cMUO53ujhy2sdSZdRAQvD"
-      },
-      "artists": [
-        {
-          "name": "Teenage Wrist",
-          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
-        }
-      ],
-      "duration_ms": 339212,
-      "name": "Sparkle / Fade",
-      "url": "https://open.spotify.com/track/54pcxTH4RzzfvTq7f2vWem"
+      "duration_ms": 194252,
+      "name": "Humbug",
+      "url": "https://open.spotify.com/track/2oex8WpGBSNHgM3Jw7SnRU"
     },
     {
       "added_at": null,

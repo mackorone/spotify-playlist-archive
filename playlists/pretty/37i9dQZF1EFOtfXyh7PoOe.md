@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOtfXyh7PoOe.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4VL4QRgUHPpilJ4CRhCW1I">Pablo Bowman Navarro</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 832 likes - 128 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 831 likes - 128 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOtfXyh7PoOe.md) - [plain]
 | 35 | [Goodbye](https://open.spotify.com/track/5b6enCVP67LsqqrfTs6rxr) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Goodbye](https://open.spotify.com/album/58Xvw6spiAwJygmEi6iQC7) | 3:04 |
 | 36 | [Blonde](https://open.spotify.com/track/6Tmj9k9HeZhP5CdLHcj81h) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Blonde](https://open.spotify.com/album/4U9tk0sbiMp8PuHY7rsfCI) | 3:01 |
 | 37 | [Nights With You](https://open.spotify.com/track/31xqlEutnJGeu9vwkE3P6v) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Nicky Romero JAPAN COLLECTION 2021](https://open.spotify.com/album/3oxyWlxzEzX7kGgOQnqtQi) | 2:29 |
-| 38 | [Won't Forget You](https://open.spotify.com/track/2fP9aII1LkmZZmzdAiuNVz) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [Won't Forget You](https://open.spotify.com/album/2b2p2llc051aP6YlPG5AnK) | 2:33 |
-| 39 | [Dare U](https://open.spotify.com/track/02FqPcKOjgOBbZRYdpAIhS) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Dare U](https://open.spotify.com/album/4a0Ijzxk9twvWg2ZYjtr7V) | 2:21 |
+| 38 | [Dare U](https://open.spotify.com/track/02FqPcKOjgOBbZRYdpAIhS) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Dare U](https://open.spotify.com/album/4a0Ijzxk9twvWg2ZYjtr7V) | 2:21 |
+| 39 | [Won't Forget You](https://open.spotify.com/track/2fP9aII1LkmZZmzdAiuNVz) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [Won't Forget You](https://open.spotify.com/album/2b2p2llc051aP6YlPG5AnK) | 2:33 |
 | 40 | [Hey DJ](https://open.spotify.com/track/35TuvgQOcLcZmGlZZ3cAGq) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Hey DJ](https://open.spotify.com/album/0HNme2CFQWHNAR1IIiwuZi) | 2:37 |
 | 41 | [Tomorrow](https://open.spotify.com/track/1kOIM9LKyTlqdtsLRS7RUR) | [CHANYEOL](https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5) | [Tomorrow \- SM STATION](https://open.spotify.com/album/5sPtM10mGhGGEUIkTkNMhm) | 2:25 |
 | 42 | [It's Christmas Time \(feat\. Dan Caplen\)](https://open.spotify.com/track/6skTvnm735GYcgiKaeDDPq) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Dan Caplen](https://open.spotify.com/artist/2U3FuHYvL3vhkbDAXm24Ep) | [It's Christmas Time \(feat\. Dan Caplen\)](https://open.spotify.com/album/4yaTdtVKfwkMmX9JrN2O79) | 3:18 |
@@ -100,9 +100,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOtfXyh7PoOe.md) - [plain]
 | 90 | [Off Days](https://open.spotify.com/track/3cyTJ6e9s2JLuOgL3nY8Fb) | [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb) | [Off Days](https://open.spotify.com/album/3ExLiwDPx664c2RqWJbqNr) | 2:49 |
 | 91 | [Cold](https://open.spotify.com/track/0lOzZUQbBx45rOiFCxL2sP) | [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb) | [Hoppa \(pt\. 1\)](https://open.spotify.com/album/5AkqkeuP9dc0j8jl1z54rE) | 2:09 |
 | 92 | [Silence](https://open.spotify.com/track/60hmi2DksV0PYXBMoyiz88) | [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb), [July 7](https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA) | [Hoppa \(pt\. 1\)](https://open.spotify.com/album/5AkqkeuP9dc0j8jl1z54rE) | 1:57 |
-| 93 | [100 Ways \- MK Remix](https://open.spotify.com/track/1NDFWFXR8Jctvpm6vxZRFJ) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [100 Ways \(MK Remix\)](https://open.spotify.com/album/5kHChDjJaFpPwedDPqkWJ6) | 3:51 |
-| 94 | [Not A Lot Left To Say](https://open.spotify.com/track/5eNSMklKlKJGwyc8ucG2fv) | [needanamebro](https://open.spotify.com/artist/4hjO4rBY3DJqEhvLvCeIRp), [Say Now](https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn) | [Not A Lot Left To Say](https://open.spotify.com/album/33gAqq0P3nggfOQoSK9YQJ) | 2:05 |
-| 95 | [Mars](https://open.spotify.com/track/1B8TSjAMHXYvyVCfYQ3IAT) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [FUNNY little FEARS](https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa) | 5:00 |
+| 93 | [Mars](https://open.spotify.com/track/1B8TSjAMHXYvyVCfYQ3IAT) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [FUNNY little FEARS](https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa) | 5:00 |
+| 94 | [100 Ways \- MK Remix](https://open.spotify.com/track/1NDFWFXR8Jctvpm6vxZRFJ) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [100 Ways \(MK Remix\)](https://open.spotify.com/album/5kHChDjJaFpPwedDPqkWJ6) | 3:51 |
+| 95 | [Not A Lot Left To Say](https://open.spotify.com/track/5eNSMklKlKJGwyc8ucG2fv) | [needanamebro](https://open.spotify.com/artist/4hjO4rBY3DJqEhvLvCeIRp), [Say Now](https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn) | [Not A Lot Left To Say](https://open.spotify.com/album/33gAqq0P3nggfOQoSK9YQJ) | 2:05 |
 | 96 | [Astigmat](https://open.spotify.com/track/5oud72cHdYaWQMm9dSDfSt) | [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb) | [Astigmat](https://open.spotify.com/album/1laJjbZByltQYDI5Ebz2LC) | 3:03 |
 | 97 | [Too Bad](https://open.spotify.com/track/3EBTLya5cgk5YP2JI7i7gI) | [HEX](https://open.spotify.com/artist/2XfxJqzWxfNSBNIdmVeNLI) | [Too Bad](https://open.spotify.com/album/2QJPtGoiiZgNHjUx94Nz3p) | 3:11 |
 | 98 | [Radio](https://open.spotify.com/track/5vV9BdGnoBvfoCLThYfaSJ) | [Everyone You Know](https://open.spotify.com/artist/4UAnAM35NDxEWd5WXKv7jM) | [Just for the Times](https://open.spotify.com/album/751FUQcmvpQEinjZhTOLHH) | 3:28 |
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOtfXyh7PoOe.md) - [plain]
 | 127 | [The View](https://open.spotify.com/track/0038fnjL6UVsKq5jzV5QGm) | [R.I.Pablo](https://open.spotify.com/artist/7KGkYFExwTNpryurLNxdwb) | [The View](https://open.spotify.com/album/4y8f3Y73QLPyoqGTzAn9qG) | 2:59 |
 | 128 | [Season of Our Love](https://open.spotify.com/track/0lpJumwXtUE3xD8RP0oll4) | [R.I.Pablo](https://open.spotify.com/artist/7KGkYFExwTNpryurLNxdwb) | [Season of Our Love](https://open.spotify.com/album/4M15n8kQVAQkGrP6XoBhyi) | 2:08 |
 
-Snapshot ID: `Abyp/AAAAAAGfIJU+8eSL5GrCfhqZRxo`
+Snapshot ID: `AbyvYAAAAAAB93Z2Vk5Erc6B/SuKQeym`

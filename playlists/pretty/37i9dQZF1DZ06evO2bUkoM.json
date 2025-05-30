@@ -1,12 +1,12 @@
 {
   "description": "This is Hayley Kiyoko. The essential tracks, all in one playlist.",
-  "num_followers": 49500,
+  "num_followers": 49501,
   "original_name": "This Is Hayley Kiyoko",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDUAgAAAAACWtAM3d3pz0Jsztz3LNWtj",
+  "snapshot_id": "aDZSAAAAAAA6+90ZF9OIlb69GgkEhTQj",
   "tracks": [
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Side of Paradise",
-        "url": "https://open.spotify.com/album/32GGaHTxe2OxpiIKtD0I4v"
-      },
-      "artists": [
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        }
-      ],
-      "duration_ms": 211965,
-      "name": "This Side of Paradise",
-      "url": "https://open.spotify.com/track/7i1WcWycZthlbU1nBKMWQx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I'm Too Sensitive For This Shit",
         "url": "https://open.spotify.com/album/3WCyXTXV94GowRN7nRHxSp"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 205028,
       "name": "I Wish",
       "url": "https://open.spotify.com/track/70U8ngrsEOeqeVjcTrChd8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Side of Paradise",
+        "url": "https://open.spotify.com/album/32GGaHTxe2OxpiIKtD0I4v"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "duration_ms": 211965,
+      "name": "This Side of Paradise",
+      "url": "https://open.spotify.com/track/7i1WcWycZthlbU1nBKMWQx"
     },
     {
       "added_at": null,
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mr. Brightside",
-        "url": "https://open.spotify.com/album/0jLNuoqf2JVuAcNr1vrUex"
-      },
-      "artists": [
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        }
-      ],
-      "duration_ms": 228431,
-      "name": "Mr. Brightside",
-      "url": "https://open.spotify.com/track/1Soa5Axg9Ob0XVYNqXhisX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PANORAMA",
         "url": "https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 159288,
       "name": "L.O.V.E. Me",
       "url": "https://open.spotify.com/track/62yWj1rl3dmeamxfBjOtHO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mr. Brightside",
+        "url": "https://open.spotify.com/album/0jLNuoqf2JVuAcNr1vrUex"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "duration_ms": 228431,
+      "name": "Mr. Brightside",
+      "url": "https://open.spotify.com/track/1Soa5Axg9Ob0XVYNqXhisX"
     },
     {
       "added_at": null,

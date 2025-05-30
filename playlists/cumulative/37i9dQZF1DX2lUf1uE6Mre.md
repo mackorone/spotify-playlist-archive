@@ -4,7 +4,7 @@
 
 > Die Playlist zur Wasserpfeife\. Cover: SHABAB
 
-249 songs - 10 hr 30 min
+250 songs - 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Eigentlich nicht](https://open.spotify.com/track/2jSqXEvdBn6fBAqMQxSlu3) | [CANEY030](https://open.spotify.com/artist/0ZqNAlpzFTJI4tyK4UwJE2) | [Eigentlich nicht](https://open.spotify.com/album/0grhVDcgjnshnAuJBMOuY4) | 2:20 | 2025-04-17 | 2025-04-25 |
 | [Ekipa](https://open.spotify.com/track/7K4sgsFvhwPpgEHE54li5Z) | [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp), [Azet](https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh) | [Ekipa](https://open.spotify.com/album/2jaZ6Kl5orX5KNiVAjhSCm) | 2:41 | 2024-06-28 | 2024-10-25 |
 | [Ella](https://open.spotify.com/track/7G6CXD57a8mIUFoOrmMhU7) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [Ella](https://open.spotify.com/album/1P7A1ht3drAlLlhiuDH6Hj) | 2:09 | 2024-06-28 | 2024-07-27 |
+| [Energy](https://open.spotify.com/track/5HEnfAa0K1ajHfz5zHw87u) | [Dafina Zeqiri](https://open.spotify.com/artist/6V6mxrGG67IyLFy2l4poNZ), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Energy](https://open.spotify.com/album/5ASW061ofFSrpEFrW0XhRJ) | 3:03 | 2025-05-29 |  |
 | [Eurosport](https://open.spotify.com/track/1IncGnjnnKmBkFw0vIf0lV) | [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp), [Azet](https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh) | [Eurosport](https://open.spotify.com/album/6jGAdXROnVnPKtncSr7jj8) | 2:42 | 2024-06-28 | 2024-10-25 |
 | [ex und so](https://open.spotify.com/track/2qGCbovPihUJFbaRlGsFLL) | [IBRA](https://open.spotify.com/artist/7cuo0m2sTg2Pc65nc6vZTb) | [ex und so](https://open.spotify.com/album/5a1RQxsWXpvWrB1cuFvtnl) | 2:15 | 2024-08-26 |  |
 | [Fantasia](https://open.spotify.com/track/5xypiIRm7ILzbz0kze92u6) | [Olexesh](https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl), [Devito](https://open.spotify.com/artist/0JQ4vokBBqHxHzRb36fSWN) | [Fantasia](https://open.spotify.com/album/5NXVPkMBEozDLKI25LCrtu) | 2:20 | 2024-07-25 | 2024-09-10 |
@@ -173,7 +174,7 @@
 | [NuR Du :/](https://open.spotify.com/track/3DYJ9tHSIhZqCVT8l5QAd0) | [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6), [SHABAB](https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO) | [NuR Du :/](https://open.spotify.com/album/2ri0pX0fz7FEQSW9xyKURZ) | 3:26 | 2024-06-28 |  |
 | [Ohh Baby](https://open.spotify.com/track/5qIEQwr6duTVF77EzNODcL) | [De Facto](https://open.spotify.com/artist/5APRXASmdCKDr3l8ZlrBhu) | [Ohh Baby](https://open.spotify.com/album/0TNs6tZazC8QGOAK0FIPbL) | 2:29 | 2024-07-04 | 2024-10-11 |
 | [ohne dich ballert nicht](https://open.spotify.com/track/4DbirG2kU3LvFgl9NH6QDW) | [CARAMELLA](https://open.spotify.com/artist/3bzLLgN7vDyZeokKXrCQAJ), [YDRA](https://open.spotify.com/artist/6AEAVlgzkJWaHO9nOGA91T) | [ohne dich ballert nicht](https://open.spotify.com/album/4fKQueaBBOZU0L6UDwASXc) | 2:12 | 2025-02-24 | 2025-04-25 |
-| [On/Off](https://open.spotify.com/track/5X63FvEXgMGIt7LF6U7v2W) | [Milano](https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm), [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [On/Off](https://open.spotify.com/album/6fV2gDEnZrkEDz5ENTaL8x) | 2:27 | 2024-06-28 |  |
+| [On/Off](https://open.spotify.com/track/5X63FvEXgMGIt7LF6U7v2W) | [Milano](https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm), [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [On/Off](https://open.spotify.com/album/6fV2gDEnZrkEDz5ENTaL8x) | 2:27 | 2024-06-28 | 2025-05-30 |
 | [OOPS \(I did it again\)](https://open.spotify.com/track/7sAUt67MZEhoJncmRDMY2S) | [YAKARY](https://open.spotify.com/artist/6cpOyiEibAAlRlUF4Kk3vI) | [OOPS \(I did it again\)](https://open.spotify.com/album/0BhylzQweb5SPvBbKadbao) | 2:59 | 2024-09-09 | 2025-02-07 |
 | [Out Of The Dark](https://open.spotify.com/track/5tJVkABJRZkTq7Dqjv6xiz) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L) | [Out Of The Dark](https://open.spotify.com/album/15DqWPxOLxClMpeKXhDGSP) | 2:47 | 2024-08-12 | 2025-01-17 |
 | [Pa Mu](https://open.spotify.com/track/6aCAQmJMBHve3Tfelte1HR) | [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp), [Azet](https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh) | [Pa Mu](https://open.spotify.com/album/4igosHYUt1kyGQV2vex8FB) | 2:50 | 2024-06-28 |  |

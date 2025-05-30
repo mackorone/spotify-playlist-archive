@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-388 songs - 20 hr 15 min
+389 songs - 20 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [Like That](https://open.spotify.com/track/6L6i0zjctc5rS1JM0mmbpt) | [Siik](https://open.spotify.com/artist/3dWrzZ5NrBW1cRHeU15Yrf), [JJL](https://open.spotify.com/artist/41QZ7uWNkyqF0PbJsd5nXv) | [Like That](https://open.spotify.com/album/2FGyG6fnPfnEzrqT0Ar6YG) | 2:40 | 2023-08-10 |  |
 | [Live A Lie](https://open.spotify.com/track/4lqjYjqcyRRNTbrwxaUwKa) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Andreas Stone](https://open.spotify.com/artist/4Z63ecu9ZjtVVsIuuOfua3) | [Live A Lie](https://open.spotify.com/album/5ezJVTDdp2c41tYwUAuw4k) | 3:32 | 2022-02-03 | 2022-09-15 |
 | [Lonely Hour](https://open.spotify.com/track/1uqVKaE5nMAf5GLQGSglly) | [MAD SNAX](https://open.spotify.com/artist/33MJONPoMWD0sKQvCHCdnu), [Poylow](https://open.spotify.com/artist/2u1KLzprGSRmfFhjt7MDYq), [New Beat Order](https://open.spotify.com/artist/0gQDOj4OisQbTq7FUEziea) | [Lonely Hour](https://open.spotify.com/album/0jFbYifq12XTyvYpKw1wF1) | 2:09 | 2023-08-10 |  |
+| [Loner](https://open.spotify.com/track/0ogKCKUg5bZs21RfNTTOqj) | [Rudeejay](https://open.spotify.com/artist/2zC8RU0p5FvJeCPPLVBR8K), [NOYSE](https://open.spotify.com/artist/3e1EBvnyj3mke3HnMa5Uq2) | [Loner](https://open.spotify.com/album/6mAchaerPlZme2dUKJnkcL) | 2:09 | 2025-05-29 |  |
 | [Long Night](https://open.spotify.com/track/7nxSIJKV6CorIHHpud0x4t) | [JPB](https://open.spotify.com/artist/0t5H8FcoVPzn4sVeNxibMU), [Marvin Divine](https://open.spotify.com/artist/2ipbBHbU59PKSeDXAgMpkd) | [Long Night](https://open.spotify.com/album/4E3h3VhCNR88R2hPkM6Z5R) | 2:05 | 2022-02-03 | 2022-09-15 |
 | [Long Night \- pt\. II](https://open.spotify.com/track/4ED1RqjJk6897tNtZv9g8n) | [JPB](https://open.spotify.com/artist/0t5H8FcoVPzn4sVeNxibMU), [M.I.M.E](https://open.spotify.com/artist/1RdQK73ZgvXjkaBJkibE6X), [Drama B](https://open.spotify.com/artist/1Ars2RdXFbmt04pZ5g2RNr) | [Long Night pt\. II](https://open.spotify.com/album/3iW7D4nln8Ga8p19ygWiKE) | 2:17 | 2022-02-03 | 2022-09-15 |
 | [LOOK AT ME!](https://open.spotify.com/track/0Ll9cyI1ZfDXRqeatIVHc2) | [Rxm リム](https://open.spotify.com/artist/6xQr9sbtrCuoW4qJoATNLB) | [LOOK AT ME!](https://open.spotify.com/album/4IoK5B9QJONah9n0d1MurH) | 3:02 | 2023-08-10 |  |

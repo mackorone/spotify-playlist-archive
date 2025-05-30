@@ -1096,7 +1096,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 231626,
       "name": "Euphoric",
       "url": "https://open.spotify.com/track/5VisOtLAFNMe3xWAT8p1RQ"
@@ -2422,6 +2422,24 @@
       "duration_ms": 152000,
       "name": "Shores of Serenity",
       "url": "https://open.spotify.com/track/56Wi8HppRbnVgvG4DDrm76"
+    },
+    {
+      "album": {
+        "name": "Silent Glow",
+        "url": "https://open.spotify.com/album/6rjUc8JpOpej3SNSHj3WlA"
+      },
+      "artists": [
+        {
+          "name": "Inner Cabin",
+          "url": "https://open.spotify.com/artist/7x6ZvvIbEUTL39ZpxeaMo7"
+        }
+      ],
+      "date_added": "2025-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Silent Glow",
+      "url": "https://open.spotify.com/track/1ZLibBKJupB9wQ0pctoa9o"
     },
     {
       "album": {

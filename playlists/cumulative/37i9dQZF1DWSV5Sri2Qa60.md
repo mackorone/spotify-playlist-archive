@@ -2,9 +2,9 @@
 
 ### [Hot New Bands](https://open.spotify.com/playlist/37i9dQZF1DWSV5Sri2Qa60)
 
-> Where your new favourite bands are discovered\. Cover: The New Eves
+> Where your new favourite bands are discovered\. Cover: Cliffords
 
-204 songs - 12 hr 6 min
+208 songs - 12 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [21st Century Suffragette](https://open.spotify.com/track/1g2T1BUfAh6U7aOioCiRIX) | [GIRLBAND!](https://open.spotify.com/artist/3QSwq9CQMjqe01RtbKqz0F) | [21st Century Suffragette](https://open.spotify.com/album/2C2ISiaMskaxrMTnAQUd1z) | 2:26 | 2024-06-14 | 2024-07-13 |
 | [Adam & Steve](https://open.spotify.com/track/4sNK6e3OTZCW1jo4Lkkg6s) | [Man/Woman/Chainsaw](https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ) | [Adam & Steve](https://open.spotify.com/album/7yV48nbPydSyv2xod1SQLe) | 2:30 | 2025-04-11 | 2025-05-16 |
 | [All In The Game](https://open.spotify.com/track/5XBUiVkYaDuKhtSV3Fx32f) | [Moreish Idols](https://open.spotify.com/artist/7DoCMYqpSbn3kgBSWDpnLP) | [All In The Game](https://open.spotify.com/album/4zhTIqcLbPovVPYtWAtFhM) | 3:51 | 2025-03-17 | 2025-05-16 |
-| [Aon](https://open.spotify.com/track/31NMfMxMEnqDich4OYD8sE) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [Aon](https://open.spotify.com/album/6WaqLy4NZfIdPYFmvLa3B2) | 7:10 | 2025-02-07 |  |
+| [Aon](https://open.spotify.com/track/31NMfMxMEnqDich4OYD8sE) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [Aon](https://open.spotify.com/album/6WaqLy4NZfIdPYFmvLa3B2) | 7:10 | 2025-02-07 | 2025-05-30 |
 | [Are You Bored](https://open.spotify.com/track/6bUfyombLi4XwgCTunf3kf) | [crysometimes](https://open.spotify.com/artist/152LeNynRSX8ddAcx8OH3V) | [Are You Bored](https://open.spotify.com/album/1hUoD87j6Q8Q3OLqSGPYlJ) | 4:15 | 2025-05-01 |  |
 | [Artificial Light](https://open.spotify.com/track/4tleJEhw78LYRpk2Yi7jx0) | [alphabet](https://open.spotify.com/artist/6XcO14dMsawxjyAJOcmjM2) | [Artificial Light](https://open.spotify.com/album/3YA1gyP0uSFcLEjfWyYbSr) | 3:35 | 2024-09-13 | 2025-03-08 |
 | [Average Boy](https://open.spotify.com/track/1fmo0pStmPFomccb9oY3Mg) | [Nightbus](https://open.spotify.com/artist/1fbC8ATYVPUeFy2h5NOK8x) | [Average Boy](https://open.spotify.com/album/4BYqY0LvQLdxlacGlpIGob) | 3:44 | 2024-06-14 | 2024-07-27 |
@@ -39,7 +39,8 @@
 | [Chill For The Summer](https://open.spotify.com/track/0sdzs2foIVxCmfMIJZsNhd) | [Sick Love](https://open.spotify.com/artist/08WUbbIzHJ003HDxCRdpaB) | [Champagne](https://open.spotify.com/album/20hO0Er1v4yvq8sTFhRccf) | 4:00 | 2024-06-14 | 2024-10-07 |
 | [Chill Out](https://open.spotify.com/track/5K8awOE1oodBf1EquC3ghG) | [Witch Post](https://open.spotify.com/artist/4TBDzXf9NfvFpqLOAodNYQ) | [Chill Out](https://open.spotify.com/album/64YtY1wkONIB0usw75FR6o) | 2:48 | 2024-12-13 | 2025-05-02 |
 | [Choose Life](https://open.spotify.com/track/2oDWs9FrL8N8gw9OjgcLLF) | [Shark School](https://open.spotify.com/artist/39fpkhOwJADA84IcUobmAh) | [Choose Life](https://open.spotify.com/album/3Q4tguHJX2uv4gwDLUMTHq) | 4:01 | 2024-10-06 | 2025-03-18 |
-| [Circe](https://open.spotify.com/track/4YIkwsTc2TNLLTg9m2rVRs) | [WOOM](https://open.spotify.com/artist/2zzPNRhGuLRbP6d1YwakiC) | [Circe](https://open.spotify.com/album/2DRhoWBDa8fYvMvww9si6a) | 5:08 | 2025-03-17 |  |
+| [Chrysalis](https://open.spotify.com/track/4j9tHe6pw1ljHc30IivKYT) | [Getdown Services](https://open.spotify.com/artist/4OTD2AbOu5iBqSWk3NfwG5) | [Chrysalis](https://open.spotify.com/album/5JUBmHorgabNcHUb8fbtxy) | 3:28 | 2025-05-30 |  |
+| [Circe](https://open.spotify.com/track/4YIkwsTc2TNLLTg9m2rVRs) | [WOOM](https://open.spotify.com/artist/2zzPNRhGuLRbP6d1YwakiC) | [Circe](https://open.spotify.com/album/2DRhoWBDa8fYvMvww9si6a) | 5:08 | 2025-03-17 | 2025-05-30 |
 | [Circle](https://open.spotify.com/track/6zv4AFZJgnhBbIXUENWhxb) | [Memorial](https://open.spotify.com/artist/1ql8GAa7a8Ur8x6evYipAc) | [Circle](https://open.spotify.com/album/0WuRI7IJvCdH4LcsDHTQCb) | 3:25 | 2024-06-14 | 2024-07-27 |
 | [Circus](https://open.spotify.com/track/5Xinke5CL0UrKNenCaOzHg) | [Sandhouse](https://open.spotify.com/artist/52MaMxgeAkCxISb1tZuDyq) | [Circus](https://open.spotify.com/album/256A3hMEJMumkN5Z1YwhLa) | 3:39 | 2025-01-22 | 2025-05-02 |
 | [Close Call](https://open.spotify.com/track/5qwCtK5w9yoc19ZvlWw4zY) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Close Call](https://open.spotify.com/album/2TL6nCxuLh7aW6bVUtKr50) | 2:43 | 2024-06-14 | 2024-09-14 |
@@ -61,9 +62,9 @@
 | [Dog Dribble](https://open.spotify.com/track/6skfouZ5bFFU3vxWaBla3B) | [Getdown Services](https://open.spotify.com/artist/4OTD2AbOu5iBqSWk3NfwG5) | [Dog Dribble](https://open.spotify.com/album/4V4EexnVzsOU4nPFvfst23) | 4:15 | 2024-11-22 | 2025-05-02 |
 | [Doomsday](https://open.spotify.com/track/5lDEyYqBrVn7eQTIVgx5sx) | [Sunday \(1994\)](https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U) | [Doomsday](https://open.spotify.com/album/3fs8sgCGTX3vs9JmyFYCBS) | 3:48 | 2025-03-17 | 2025-05-02 |
 | [Driftin](https://open.spotify.com/track/7n6yD2gOCqlxawjUBaGcGD) | [Hermitage Green](https://open.spotify.com/artist/4ffShaM6djxpd5LiJX2MW4) | [Driftin'](https://open.spotify.com/album/4YTgy42U0Jnw7VtEuha3ch) | 4:16 | 2024-06-14 | 2024-10-07 |
-| [Dungarvan Bay](https://open.spotify.com/track/6WlcQe4KodAuL9UfRQJpLx) | [Cliffords](https://open.spotify.com/artist/2JIXE3g9E0kfeFWhpKPIja) | [Dungarvan Bay](https://open.spotify.com/album/1mdLhKK2P573OovvcU0Rb4) | 3:34 | 2025-05-01 |  |
+| [Dungarvan Bay](https://open.spotify.com/track/6WlcQe4KodAuL9UfRQJpLx) | [Cliffords](https://open.spotify.com/artist/2JIXE3g9E0kfeFWhpKPIja) | [Dungarvan Bay](https://open.spotify.com/album/1mdLhKK2P573OovvcU0Rb4) | 3:34 | 2025-05-01 | 2025-05-30 |
 | [DYLM](https://open.spotify.com/track/6sINksp0eE9N704kiauZJs) | [Hank](https://open.spotify.com/artist/0yRKzgUID7XrB6LoWCstJK) | [DYLM](https://open.spotify.com/album/2THuRoV8RDoYb7mnYGZCqZ) | 3:54 | 2024-08-16 | 2025-01-23 |
-| [Eat Quiche, Sleep, Repeat](https://open.spotify.com/track/7fDiApidJ0QXtwH8cvozlj) | [Getdown Services](https://open.spotify.com/artist/4OTD2AbOu5iBqSWk3NfwG5) | [Eat Quiche, Sleep, Repeat](https://open.spotify.com/album/2S6TrWfjwEl2a47o5TMtqi) | 3:53 | 2025-05-01 |  |
+| [Eat Quiche, Sleep, Repeat](https://open.spotify.com/track/7fDiApidJ0QXtwH8cvozlj) | [Getdown Services](https://open.spotify.com/artist/4OTD2AbOu5iBqSWk3NfwG5) | [Eat Quiche, Sleep, Repeat](https://open.spotify.com/album/2S6TrWfjwEl2a47o5TMtqi) | 3:53 | 2025-05-01 | 2025-05-30 |
 | [Every Stage of a Genuine Heartbreak](https://open.spotify.com/track/2tdR8hTbDEcOdPy0rYa34F) | [Big Society](https://open.spotify.com/artist/6YjRZJjNGLk7XwVyfWPaEF) | [Every Stage of a Genuine Heartbreak](https://open.spotify.com/album/0HZmLuYkSXHcKioC93534e) | 3:15 | 2024-11-29 | 2025-05-02 |
 | [Exactly As It Seems](https://open.spotify.com/track/0vtFVr0ZtMdzG7DI8jzQxn) | [Home Counties](https://open.spotify.com/artist/7L0uKOuMgMCLXHW9RnyB8n) | [Exactly As It Seems](https://open.spotify.com/album/6NdCqqlcVdODR1xJ6ubVY4) | 2:57 | 2024-06-14 | 2024-08-17 |
 | [Falling Behind](https://open.spotify.com/track/1AyUGXtjYH8MBvMsEE86Bs) | [Lazy Day](https://open.spotify.com/artist/0F9wD0Nf2Hm0iiFJUqsHLy) | [Falling Behind](https://open.spotify.com/album/7dWVkkH0NcD2gE3qNSAPhY) | 2:44 | 2024-08-16 | 2024-11-09 |
@@ -94,6 +95,7 @@
 | [Heartbreak Town](https://open.spotify.com/track/7nT12hUGZBFNhtEszoe98S) | [GIRLBAND!](https://open.spotify.com/artist/3QSwq9CQMjqe01RtbKqz0F) | [Heartbreak Town](https://open.spotify.com/album/5gHaj7LfX54Ex6IJUxlX7Q) | 3:47 | 2024-07-12 | 2024-12-13 |
 | [Heaven's Gate](https://open.spotify.com/track/4oPtJ8eELKpuWLIumcOJre) | [HighSchool](https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb) | [Accelerator](https://open.spotify.com/album/0ulti0MXCGlxytdAzSIXWh) | 4:04 | 2024-06-14 | 2024-07-13 |
 | [Heavy](https://open.spotify.com/track/7bOi2P9koS8GKmGBc8wjzU) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Heavy](https://open.spotify.com/album/3Jj1nEyuFd4AtWPq3C8UWe) | 3:20 | 2025-03-17 | 2025-05-02 |
+| [Honest Song](https://open.spotify.com/track/1jOHyaoZuxjJuHvkaf3AAK) | [pencil](https://open.spotify.com/artist/6QPwYkx2oeQobQdbCeogTk) | [Bohemian Clutter](https://open.spotify.com/album/4wrs2l9zfbi8iBwdxfiMa3) | 4:39 | 2025-05-30 |  |
 | [How I Wish I Was Cool](https://open.spotify.com/track/4vHN3V78frVhc6wfYXOS8D) | [Bayboards](https://open.spotify.com/artist/0FpxYe2b5uTpjYK8IwMgsM) | [How I Wish I Was Cool](https://open.spotify.com/album/0cfVAeAUKSHQfBdSItqykL) | 3:06 | 2024-07-12 | 2024-12-13 |
 | [I Always Wish You Were Here \(With Me\)](https://open.spotify.com/track/7Jkgg3tdU7IRaDYi9acimW) | [China Bears](https://open.spotify.com/artist/3ygItx4xOyxkoaAZD9sc19) | [Participation Trophy](https://open.spotify.com/album/6vHzNXHRsDZiVzJTyIZhV2) | 3:33 | 2024-07-12 | 2024-11-09 |
 | [I Could Face A Lonely Summer](https://open.spotify.com/track/5DWfumIEW0dqluidtTU54b) | [beachtown](https://open.spotify.com/artist/20Gn0QldnmvNFLYxsa9vMI) | [I Could Face A Lonely Summer](https://open.spotify.com/album/1axbXbM0tfWNWynOhr9V81) | 2:47 | 2024-07-12 | 2024-08-17 |
@@ -132,6 +134,7 @@
 | [Mown In Circles](https://open.spotify.com/track/4g7YnATFgEFKmRxqnlQqtL) | [LICE](https://open.spotify.com/artist/4JC8PfKoENbnkxLB2k3ZGo) | [Mown In Circles](https://open.spotify.com/album/6G7iPqdN75EsnBjIWdrSW0) | 2:35 | 2024-07-12 | 2024-08-17 |
 | [Much Better](https://open.spotify.com/track/2mMsxyKMwIkzSxxcoDlnNj) | [My First Time](https://open.spotify.com/artist/2YCAJa2kGotOZAe5lWC4D0) | [Much Better](https://open.spotify.com/album/4QemJPG8neALdVNSiSXApT) | 2:39 | 2025-04-11 |  |
 | [Mustard Stained Shirt](https://open.spotify.com/track/2RFgg9jCgodzhswAYD5teN) | [Big Warm Bed](https://open.spotify.com/artist/5BZYKfGniYY4g6bk1dohQQ) | [Shores I'm Swimming In](https://open.spotify.com/album/3HwqCM8BE1BsRzVTuphT09) | 2:31 | 2024-10-06 | 2025-03-18 |
+| [My Favourite Monster](https://open.spotify.com/track/3Stk5Oa5Pc2ertfAP5tRUZ) | [Cliffords](https://open.spotify.com/artist/2JIXE3g9E0kfeFWhpKPIja) | [My Favourite Monster](https://open.spotify.com/album/3HcqPbTSgSh7CDAbOVU3zu) | 3:58 | 2025-05-30 |  |
 | [My Teeth](https://open.spotify.com/track/3pXA6hIQPY6gGaifcxybJu) | [test plan](https://open.spotify.com/artist/51hfP8BcSbQoL3DFrwNNCA) | [My Teeth](https://open.spotify.com/album/4XfLG95Mm6cb9JQr74NEQi) | 3:07 | 2025-03-17 |  |
 | [Never Enough](https://open.spotify.com/track/5ktApjbINGsyW5L8BHH3pB) | [BOLD LOVE](https://open.spotify.com/artist/5cqzxOjKUZD5n79mbEkU1i) | [Never Enough](https://open.spotify.com/album/3mk2fs987Q4b2y16lQUeE5) | 4:27 | 2024-10-06 | 2025-03-18 |
 | [Next To Die](https://open.spotify.com/track/3k6iUhaXZKHQnnLqcGsNps) | [Ugly \(UK\)](https://open.spotify.com/artist/5V1vRp27m0PLepQehI2tnf) | [Next To Die](https://open.spotify.com/album/0r52QUb7MBNVYBV8bn2B5P) | 4:08 | 2025-05-01 |  |
@@ -170,6 +173,7 @@
 | [spiders without eyes](https://open.spotify.com/track/5RVuU4TXlJgzxXlrkGA7Kp) | [green star](https://open.spotify.com/artist/35CQyx6pBd8bt19LYBmVOe) | [bleeding swirls](https://open.spotify.com/album/1TcvP96UdTtLrGjmRzppTT) | 4:14 | 2025-05-01 |  |
 | [Sports Day](https://open.spotify.com/track/6hKwzsBblYMfifCLTp5Gn4) | [Man/Woman/Chainsaw](https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ) | [Eazy Peazy](https://open.spotify.com/album/2L4YcqjnpyyDPnIn8GqJfV) | 2:30 | 2024-11-08 | 2025-03-18 |
 | [Stop And Think It Over](https://open.spotify.com/track/1lqhxH6E8d5Kg47ld7NGq6) | [The Lotts](https://open.spotify.com/artist/5pjwhpc0am3fxfJKB4Ud7z) | [Stop And Think It Over](https://open.spotify.com/album/74fsyVodrliDB7LAAgSebd) | 3:13 | 2024-10-06 | 2025-03-18 |
+| [Stroom](https://open.spotify.com/track/2c2x2KQdf8vTi0WlENNHXQ) | [Green Gardens](https://open.spotify.com/artist/5EwUOG0SThYLLXclwy1PiO) | [Stroom](https://open.spotify.com/album/2n2FkT870hnN8lryVswMyK) | 1:57 | 2025-05-30 |  |
 | [Struck](https://open.spotify.com/track/0AFajg4fi2mIxO0CSBBIp5) | [Saloon Dion](https://open.spotify.com/artist/5jyDRjrVTg2M6uHOQF5MhU) | [Struck](https://open.spotify.com/album/6t6lxXJQyFJgSXfbWNtvOR) | 3:28 | 2024-06-14 | 2024-07-13 |
 | [Stuck](https://open.spotify.com/track/0Xw6rMmiaOr0CWTJGQJIJr) | [Cloth](https://open.spotify.com/artist/3ZKUFIrYS6aAgIxu5AfTX5) | [Stuck](https://open.spotify.com/album/7zvnJfzs5OaYCm7B7IOWCF) | 4:06 | 2025-03-17 |  |
 | [Surface Level Kicks](https://open.spotify.com/track/44O78qLokFH4q8EnqKdiS9) | [common goldfish](https://open.spotify.com/artist/6Mmv28h1DOKGQEPxJBqe8F) | [Surface Level Kicks](https://open.spotify.com/album/5hJOhDXz2swoO5Cswg24pw) | 3:29 | 2024-09-13 | 2025-02-14 |

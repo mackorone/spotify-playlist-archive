@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 
 > グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: BE:FIRST
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,729 likes - 80 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,728 likes - 80 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 5 | [I Feel Good](https://open.spotify.com/track/1klePVubVctBqhlKJvibil) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [No Genre](https://open.spotify.com/album/2E8hkTJKnSCv69mjVAh6hL) | 2:35 |
 | 6 | [Be brave!](https://open.spotify.com/track/6kFeAaicIz6Z3w3mwuPbu4) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Be brave!](https://open.spotify.com/album/7eMyEWqVqpX6Bjeh9PBP8l) | 3:24 |
 | 7 | [Don’t Say You Love Me](https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Echo](https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ) | 3:00 |
-| 8 | [Step by Step](https://open.spotify.com/track/1zLdLI3VhSChUB1vlA4GYG) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Step by Step](https://open.spotify.com/album/4YqxNq9s42iBQ30nQsLlJD) | 3:24 |
-| 9 | [Poet \| Artist](https://open.spotify.com/track/2cCoa7dwECGNlmLVV1Fgjf) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Poet \| Artist](https://open.spotify.com/album/2ZrLQa73Q3wW2SXZPkSVED) | 3:24 |
-| 10 | [Gelato](https://open.spotify.com/track/3qShJFAJ6OMCGrHzx2ze4u) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb) | [Gelato](https://open.spotify.com/album/7pdXgSitr9RAF9gDDbGG3L) | 2:56 |
+| 8 | [Reflection](https://open.spotify.com/track/6bVPDhgG3NdK7YxxxN6SPK) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb) | [PSYCHIC FILE III](https://open.spotify.com/album/4z8vldWRgTGlzLeVRX7Yj1) | 3:20 |
+| 9 | [Step by Step](https://open.spotify.com/track/1zLdLI3VhSChUB1vlA4GYG) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Step by Step](https://open.spotify.com/album/4YqxNq9s42iBQ30nQsLlJD) | 3:24 |
+| 10 | [Poet \| Artist](https://open.spotify.com/track/2cCoa7dwECGNlmLVV1Fgjf) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Poet \| Artist](https://open.spotify.com/album/2ZrLQa73Q3wW2SXZPkSVED) | 3:24 |
 | 11 | [FREEZE](https://open.spotify.com/track/3eCsrRgvTNzCSrGUESA5OX) | [KickFlip](https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k) | [Kick Out, Flip Now!](https://open.spotify.com/album/4BonBofCFd9r6PRTSA0blD) | 2:36 |
 | 12 | [Wait On Me](https://open.spotify.com/track/2BoGqSfsf9z5T1exqHtW54) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Wait On Me \- The 4th Mini Album](https://open.spotify.com/album/78cxz0pQ2TDtESNyCCX5Qj) | 3:13 |
 | 13 | [Maybe Tomorrow](https://open.spotify.com/track/0zreBeNWNaM1t0YLP7IB2b) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Maybe Tomorrow](https://open.spotify.com/album/4pvg7UjDPlmUVULN9nhmU6) | 3:44 |
@@ -68,25 +68,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 58 | [Panic](https://open.spotify.com/track/3PTQ2rPfaPDxqpXOcRlTsZ) | [BEOMGYU](https://open.spotify.com/artist/69vfchlzopPm72nD2elXCH) | [Panic](https://open.spotify.com/album/0sUxlp7O7SrVU6I1Ol6J5H) | 3:08 |
 | 59 | [BREATHE](https://open.spotify.com/track/2P5bbp7BeVtrECPJaN8AFO) | [xikers](https://open.spotify.com/artist/6QHP8St0MzfNDqjKpwtMht) | [HOUSE OF TRICKY : SPUR](https://open.spotify.com/album/34AWJLKuS7vDo9WvPSd6rE) | 3:03 |
 | 60 | [YELLOW](https://open.spotify.com/track/7dOvUyWUlpZP4UjwQY9fzk) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [SPECIAL MINI ALBUM \[PLEASURE\]](https://open.spotify.com/album/6ChUNqlCsnJEOf1PyRZm48) | 3:11 |
-| 61 | [BOOM BASH](https://open.spotify.com/track/22mbbvEHy4mRNuz4HbfCgo) | [ONE N' ONLY](https://open.spotify.com/artist/6Pob63g9NOdT7moTAUZ4GB) | [BOOM BASH](https://open.spotify.com/album/2w4RMOw4SPJCuiONScbePk) | 3:38 |
-| 62 | [Push Down](https://open.spotify.com/track/58b0LN1yVrCmtoaoIy9jx1) | [TRENDZ](https://open.spotify.com/artist/6Bmr9e9x44iib7equMj5Qj) | [CANVAS](https://open.spotify.com/album/4GiBoD70ZczHOSTG8POWkW) | 2:30 |
-| 63 | [HEART](https://open.spotify.com/track/1xVHi6ppc8sZS33qCm2IyJ) | [King & Prince](https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp) | [HEART](https://open.spotify.com/album/0MD6Tt34i6Gb1dGbYPmvSP) | 3:48 |
-| 64 | [Candy House](https://open.spotify.com/track/4w91Af7ajtaWaKBFEzs9eE) | [SW:C](https://open.spotify.com/artist/17kzjtrmZ96anZT250z1Nr) | [1st Single album : Sweet Day](https://open.spotify.com/album/5hcOx3fLiB7gc8DJvQ4DzJ) | 2:58 |
-| 65 | [Rock this Party](https://open.spotify.com/track/3ca5Q1gTQI3Alaiutw2DDo) | [timelesz](https://open.spotify.com/artist/1ZFfhzyXjPvbzSYPlCIwo3) | [Rock this Party](https://open.spotify.com/album/7ImXa5wWsZP3WuFBqcYxGf) | 3:45 |
-| 66 | [VVV](https://open.spotify.com/track/1W6L8HNg31ufhNVuTmTsH3) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Unexpected](https://open.spotify.com/album/0gr6ALnqNZF1LwubTWP48V) | 3:55 |
-| 67 | [Unfreeze](https://open.spotify.com/track/7Ko3Ark4s7OL7sQIo1ToHR) | [TEMPEST](https://open.spotify.com/artist/1iyFL3CRuKW7PXgPH4VxSP) | [RE: Full of Youth](https://open.spotify.com/album/1vlehuBlbn5SqCzpaoRICu) | 3:11 |
-| 68 | [STUNNER](https://open.spotify.com/track/63j1HWrXmSk1zK7IZYQepo) | [TEN](https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ) | [STUNNER \- The 2nd Mini Album](https://open.spotify.com/album/0Q0FQVj4Npz4MmQuNaHh8u) | 3:34 |
-| 69 | [96ers](https://open.spotify.com/track/6AvxOYstG9cCD4RVQp4aJz) | [HxW](https://open.spotify.com/artist/1EReYiseDwE51FzGm7EK9n) | [HxW 1st Single Album 'BEAM'](https://open.spotify.com/album/4SOFnzIWYI2JU9ypuQX2E4) | 2:45 |
-| 70 | [Flip the Coin](https://open.spotify.com/track/2ngahTOJYKxjJoeBKAjZQt) | [NEWBEAT](https://open.spotify.com/artist/5Zj3vazMOh0sADCiAejr3z) | [RAW AND RAD](https://open.spotify.com/album/62XEKoEzO7FS84bPBHSLxj) | 2:53 |
-| 71 | [TOO BAD](https://open.spotify.com/track/0GOqhXyouUxqPEw9ypTOLm) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Übermensch](https://open.spotify.com/album/4FviRd7FubuuGNVt2qME1G) | 2:33 |
-| 72 | [SCORCH](https://open.spotify.com/track/3W5j5s8PD22PAmIPGg9VKs) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [Jelly Bean](https://open.spotify.com/album/72I1qNoBJDKSDVs9TC0qCO) | 3:01 |
-| 73 | [Beautiful Life](https://open.spotify.com/track/5qUSdQKKRxmfcEgLQsQINj) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Beautiful Mind](https://open.spotify.com/album/3kj5RMMwVvIvP0D9juqm8j) | 4:25 |
-| 74 | [For Real?](https://open.spotify.com/track/11yJ2iAqlWsk9CngMujJou) | [TNX](https://open.spotify.com/artist/0DRiXmEOc6dJ6Rug3xi4HZ) | [For Real?](https://open.spotify.com/album/2ZlTmzWp67lhdApzMdmwWV) | 3:10 |
-| 75 | [Doctor! Doctor!](https://open.spotify.com/track/0XmY5tyjdXB7yYELGUfYpn) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [BLUE PARADISE](https://open.spotify.com/album/0Mo8K6mKxS0lCENDG8pCb0) | 2:32 |
-| 76 | [WHEE!](https://open.spotify.com/track/3UCnEKnght7sSlycogaSak) | [XIUMIN](https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6) | [Interview X](https://open.spotify.com/album/4TmQo5XPRgVleYrisal8n2) | 2:49 |
-| 77 | [UV](https://open.spotify.com/track/6eKBXC5KEbiS3gNLgWWtyk) | [MASHIHO](https://open.spotify.com/artist/0pxEGHaPCDvpHEyXGc7xlc) | [ULTRA VIOLET](https://open.spotify.com/album/5JJb0PsoRNXCTNVU1leKiq) | 2:47 |
+| 61 | [เม้นหยอกๆ \(Comment\)](https://open.spotify.com/track/7soLL3HJ0wmOtIC6Sxse5a) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [เม้นหยอกๆ \(Comment\)](https://open.spotify.com/album/6l408RTEZpuoijgcEgDlxF) | 3:46 |
+| 62 | [BOOM BASH](https://open.spotify.com/track/22mbbvEHy4mRNuz4HbfCgo) | [ONE N' ONLY](https://open.spotify.com/artist/6Pob63g9NOdT7moTAUZ4GB) | [BOOM BASH](https://open.spotify.com/album/2w4RMOw4SPJCuiONScbePk) | 3:38 |
+| 63 | [Push Down](https://open.spotify.com/track/58b0LN1yVrCmtoaoIy9jx1) | [TRENDZ](https://open.spotify.com/artist/6Bmr9e9x44iib7equMj5Qj) | [CANVAS](https://open.spotify.com/album/4GiBoD70ZczHOSTG8POWkW) | 2:30 |
+| 64 | [HEART](https://open.spotify.com/track/1xVHi6ppc8sZS33qCm2IyJ) | [King & Prince](https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp) | [HEART](https://open.spotify.com/album/0MD6Tt34i6Gb1dGbYPmvSP) | 3:48 |
+| 65 | [Candy House](https://open.spotify.com/track/4w91Af7ajtaWaKBFEzs9eE) | [SW:C](https://open.spotify.com/artist/17kzjtrmZ96anZT250z1Nr) | [1st Single album : Sweet Day](https://open.spotify.com/album/5hcOx3fLiB7gc8DJvQ4DzJ) | 2:58 |
+| 66 | [Rock this Party](https://open.spotify.com/track/3ca5Q1gTQI3Alaiutw2DDo) | [timelesz](https://open.spotify.com/artist/1ZFfhzyXjPvbzSYPlCIwo3) | [Rock this Party](https://open.spotify.com/album/7ImXa5wWsZP3WuFBqcYxGf) | 3:45 |
+| 67 | [VVV](https://open.spotify.com/track/1W6L8HNg31ufhNVuTmTsH3) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Unexpected](https://open.spotify.com/album/0gr6ALnqNZF1LwubTWP48V) | 3:55 |
+| 68 | [Unfreeze](https://open.spotify.com/track/7Ko3Ark4s7OL7sQIo1ToHR) | [TEMPEST](https://open.spotify.com/artist/1iyFL3CRuKW7PXgPH4VxSP) | [RE: Full of Youth](https://open.spotify.com/album/1vlehuBlbn5SqCzpaoRICu) | 3:11 |
+| 69 | [STUNNER](https://open.spotify.com/track/63j1HWrXmSk1zK7IZYQepo) | [TEN](https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ) | [STUNNER \- The 2nd Mini Album](https://open.spotify.com/album/0Q0FQVj4Npz4MmQuNaHh8u) | 3:34 |
+| 70 | [96ers](https://open.spotify.com/track/6AvxOYstG9cCD4RVQp4aJz) | [HxW](https://open.spotify.com/artist/1EReYiseDwE51FzGm7EK9n) | [HxW 1st Single Album 'BEAM'](https://open.spotify.com/album/4SOFnzIWYI2JU9ypuQX2E4) | 2:45 |
+| 71 | [Flip the Coin](https://open.spotify.com/track/2ngahTOJYKxjJoeBKAjZQt) | [NEWBEAT](https://open.spotify.com/artist/5Zj3vazMOh0sADCiAejr3z) | [RAW AND RAD](https://open.spotify.com/album/62XEKoEzO7FS84bPBHSLxj) | 2:53 |
+| 72 | [TOO BAD](https://open.spotify.com/track/0GOqhXyouUxqPEw9ypTOLm) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Übermensch](https://open.spotify.com/album/4FviRd7FubuuGNVt2qME1G) | 2:33 |
+| 73 | [SCORCH](https://open.spotify.com/track/3W5j5s8PD22PAmIPGg9VKs) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [Jelly Bean](https://open.spotify.com/album/72I1qNoBJDKSDVs9TC0qCO) | 3:01 |
+| 74 | [Beautiful Life](https://open.spotify.com/track/5qUSdQKKRxmfcEgLQsQINj) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Beautiful Mind](https://open.spotify.com/album/3kj5RMMwVvIvP0D9juqm8j) | 4:25 |
+| 75 | [For Real?](https://open.spotify.com/track/11yJ2iAqlWsk9CngMujJou) | [TNX](https://open.spotify.com/artist/0DRiXmEOc6dJ6Rug3xi4HZ) | [For Real?](https://open.spotify.com/album/2ZlTmzWp67lhdApzMdmwWV) | 3:10 |
+| 76 | [Doctor! Doctor!](https://open.spotify.com/track/0XmY5tyjdXB7yYELGUfYpn) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [BLUE PARADISE](https://open.spotify.com/album/0Mo8K6mKxS0lCENDG8pCb0) | 2:32 |
+| 77 | [WHEE!](https://open.spotify.com/track/3UCnEKnght7sSlycogaSak) | [XIUMIN](https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6) | [Interview X](https://open.spotify.com/album/4TmQo5XPRgVleYrisal8n2) | 2:49 |
 | 78 | [LOVE TODAY](https://open.spotify.com/track/1oyuzoohgPr3SXcVa3gS4g) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [BTODAY](https://open.spotify.com/album/6zL4ZHKGmKkzQktkjGOq1K) | 3:07 |
 | 79 | [SADISTIC](https://open.spotify.com/track/11umzbLG97P5FTncGcjUhl) | [JASP.ER](https://open.spotify.com/artist/1wBe2nbEVc01LGBk4YCxER) | [SADISTIC](https://open.spotify.com/album/7BBhwoonSRzWEohQIcHDkY) | 3:04 |
 | 80 | [Sweet Like](https://open.spotify.com/track/5AUVeUcBYoL7SGd8ZWMfqK) | [YUGYEOM](https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY) | [Sweet Like](https://open.spotify.com/album/6dkrgJVu2rfIE8iPpUyIoG) | 2:26 |
 
-Snapshot ID: `aDYAtwAAAACkyGKZXE0nabE3OZk2wBnC`
+Snapshot ID: `aDh2fQAAAAAfH/V68g8jbscd8BG3uuHm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: Suchmos\*👉 <a href="https://spice.eplus.jp/articles/338097">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,643 likes - 92 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,639 likes - 92 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 81 | [ヒューマノイドラブ](https://open.spotify.com/track/7dXl1hHglPBe4AotyuhSHk) | [音羽\-otoha\-](https://open.spotify.com/artist/0FWjVS3rnr70HEuhNl0JjR) | [sukimakaze](https://open.spotify.com/album/1mV9dzDn6GC7ydnSZAI9ZL) | 4:54 |
 | 82 | [世界のどこかで](https://open.spotify.com/track/1MkNx2Zt5nBWYu6ByZxBR0) | [興梠まり](https://open.spotify.com/artist/0TgkIuGNXd2t50GiPyz1UC) | [世界のどこかで](https://open.spotify.com/album/1PUGyZgboH55r8FvncAdks) | 4:11 |
 | 83 | [falling](https://open.spotify.com/track/4055wpfIiIXkhvPEoyQ6zb) | [RIVA](https://open.spotify.com/artist/2A1lr06LiCIxIsGBQDp62g) | [falling](https://open.spotify.com/album/2B2jCZQwdeilJOdkzpH62M) | 3:01 |
-| 84 | [KIND](https://open.spotify.com/track/0rBkp0XHFuH4PJfMCY9hXV) | [Daizy](https://open.spotify.com/artist/7EkifHgLtLRFu9uS9RXajU) | [KIND](https://open.spotify.com/album/0vBdmZDbEokcfGw6RGnpSL) | 3:08 |
+| 84 | [KIND](https://open.spotify.com/track/0rBkp0XHFuH4PJfMCY9hXV) | [Daizy](https://open.spotify.com/artist/1qHC10aLRmByanuLsItFsf) | [KIND](https://open.spotify.com/album/0vBdmZDbEokcfGw6RGnpSL) | 3:08 |
 | 85 | [Yurete](https://open.spotify.com/track/5t2gA8JSINaJaHUtnBvDdR) | [マコトコンドウ](https://open.spotify.com/artist/5LGNw6Zr6yaFM9px1QiTwc) | [Yurete](https://open.spotify.com/album/03vhCXWVc8WIiwIxdjmjG9) | 2:23 |
 | 86 | [Night Owl](https://open.spotify.com/track/4E1kqo4z3lTWqUcYraAWaz) | [K E I\_H A Y A S H I](https://open.spotify.com/artist/4fQ023lP2bX27W1YYw9DIc) | [Night Owl](https://open.spotify.com/album/79MQfWCe5pqsG832hykND9) | 3:21 |
 | 87 | [満杯だ](https://open.spotify.com/track/1wDeKnvN8LfNn9wo8l05Yb) | [deadbody](https://open.spotify.com/artist/7aejmJ4leGhuMuHhoVlDlw) | [SCDB\-S310](https://open.spotify.com/album/1C8BCqL4876ZHS93wcxMlq) | 4:25 |

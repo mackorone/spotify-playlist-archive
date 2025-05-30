@@ -2,9 +2,9 @@
 
 ### [R&B UK](https://open.spotify.com/playlist/37i9dQZF1DX942d1NzGgzk)
 
-> The latest of R&B in the UK\. Cover: Orla Rae
+> The latest of R&B in the UK\. Cover: Ebubé
 
-406 songs - 21 hr 8 min
+408 songs - 21 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,7 @@
 | [Gave You My All](https://open.spotify.com/track/2WEgOHRhsCMNiV4qcWNxAX) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [emil](https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb) | [Thoughts I Never Said](https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl) | 3:01 | 2023-11-24 | 2024-11-15 |
 | [Genesis](https://open.spotify.com/track/3agzxnRGyaHEK5KyMeRpRX) | [Mnelia](https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec) | [Genesis](https://open.spotify.com/album/7GEmFirfE4pxst65dTwgFF) | 3:06 | 2023-05-15 | 2023-05-19 |
 | [Genesis \(Remix\) \[feat\. Miraa May, Joyce Wrice & Bellah\]](https://open.spotify.com/track/7moQCUT1UbndHCC2H6xYVs) | [Mnelia](https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec), [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM), [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [Closure Tapes](https://open.spotify.com/album/4rAj2yXfbuhHxR5ibpopF5) | 3:26 | 2023-05-18 | 2023-08-23 |
-| [Get Me](https://open.spotify.com/track/2QYHEIBi1SlaIQbzDOHC5g) | [Nate Brazier](https://open.spotify.com/artist/4cavlP5GhgtNXiWSS3wIO7) | [Get Me](https://open.spotify.com/album/0uATdxFoiP0PRKVDqJ6O7F) | 2:47 | 2025-01-10 |  |
+| [Get Me](https://open.spotify.com/track/2QYHEIBi1SlaIQbzDOHC5g) | [Nate Brazier](https://open.spotify.com/artist/4cavlP5GhgtNXiWSS3wIO7) | [Get Me](https://open.spotify.com/album/0uATdxFoiP0PRKVDqJ6O7F) | 2:47 | 2025-01-10 | 2025-05-30 |
 | [Girlfriend](https://open.spotify.com/track/5deRvXDZlILXkHZG1DA4sJ) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [Girlfriend](https://open.spotify.com/album/48MblNhpA4tKaIxlev3VvE) | 2:49 | 2023-07-21 | 2023-09-15 |
 | [Give](https://open.spotify.com/track/6nIEeQkpfPtijiUVsgiqTI) | [Jamilah Barry](https://open.spotify.com/artist/2XSaBoykurbHLXS5WwDewv) | [Give](https://open.spotify.com/album/0CI4HNURaCU5gDJrfSv2Db) | 3:49 | 2024-05-10 | 2025-03-07 |
 | [Give Up The Fear](https://open.spotify.com/track/10tpSojwAIsgZAy4xbAiMB) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260) | [Give Up The Fear](https://open.spotify.com/album/3MS50q90DYesShrGsqAFve) | 2:39 | 2024-05-31 | 2025-03-07 |
@@ -173,7 +173,7 @@
 | [I want you](https://open.spotify.com/track/6n2ZiEOuR5TtRqiriKCJfH) | [Kali Claire](https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x), [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [I want you](https://open.spotify.com/album/0GjmtqnYZv1RQ6nxOsoGZk) | 2:38 | 2023-07-21 | 2023-08-19 |
 | [I'll Be Loving You](https://open.spotify.com/track/1LqUHH9yacnl8xMBO3dx4d) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [I'll Be Loving You](https://open.spotify.com/album/5z5rwDtEocaatg3fEtXiWV) | 4:06 | 2022-07-17 | 2023-05-19 |
 | [I'll Still Be Here](https://open.spotify.com/track/49nMhwc4XFYhUsl9BDZEBq) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [No Hard Feelings](https://open.spotify.com/album/2RSNvfNgodiGerFWq3ETci) | 3:11 | 2024-05-31 | 2024-09-25 |
-| [I'm Sure](https://open.spotify.com/track/0CNp4DbUZ6yBzQVnF6jCZY) | [Enigma](https://open.spotify.com/artist/1p33V6IQmus6qSftQL0HCV) | [Love Language 2](https://open.spotify.com/album/0gnQ7bzwd67CHRPmcuWavE) | 2:49 | 2025-04-25 |  |
+| [I'm Sure](https://open.spotify.com/track/0CNp4DbUZ6yBzQVnF6jCZY) | [Enigma](https://open.spotify.com/artist/1p33V6IQmus6qSftQL0HCV) | [Love Language 2](https://open.spotify.com/album/0gnQ7bzwd67CHRPmcuWavE) | 2:49 | 2025-04-25 | 2025-05-30 |
 | [if it don't start it can't end](https://open.spotify.com/track/2naJM2Ky0i540JlKvgmZzP) | [WESLEE](https://open.spotify.com/artist/2sfC2KuIzmNQEtVordUuqq) | [Weslee World 2](https://open.spotify.com/album/7CG7qBkKh0c6QUbTl6ThMu) | 3:04 | 2024-05-31 | 2024-06-15 |
 | [If Only You Knew](https://open.spotify.com/track/5stXc4GQVkeLIsP2MVr5ml) | [No Guidnce](https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY) | [If Only You Knew](https://open.spotify.com/album/0fTq2g9l88dQHVtr97c0XK) | 3:16 | 2023-08-18 | 2023-09-23 |
 | [Immature](https://open.spotify.com/track/5Gp0BMl8A4obJTIpd0qWox) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Immature](https://open.spotify.com/album/77KeCRX0Rqbx6l8ydoIYB9) | 2:53 | 2022-07-17 | 2024-08-30 |
@@ -371,6 +371,7 @@
 | [Time To Lose](https://open.spotify.com/track/4ywdVPBmQr1PAkAQitNqyS) | [Yakul](https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO), [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Outlines](https://open.spotify.com/album/567bIsxKHOqBqNCUCSI5KU) | 2:50 | 2023-06-01 | 2023-07-22 |
 | [Timeout](https://open.spotify.com/track/2nC1WhlcDRorkWmN6ApfHn) | [Mellina Tey](https://open.spotify.com/artist/3dmTSthHSYiq7NndeKYGdx) | [Timeout](https://open.spotify.com/album/5uvwM8fgE7PIC0YfpzhJUg) | 2:11 | 2023-06-01 | 2024-09-13 |
 | [Tipsy](https://open.spotify.com/track/6GR5SRiuztfur96y7mBKxK) | [Mya K](https://open.spotify.com/artist/1s6hHUCO2I3IZN4qFy0ypm) | [Tipsy](https://open.spotify.com/album/4hxgmRczO2cTh9doxACWnm) | 2:12 | 2024-04-26 | 2024-05-11 |
+| [To Be Found](https://open.spotify.com/track/2vU95jI1hFEHcKgonUcrlF) | [DHANYA](https://open.spotify.com/artist/4SWESjuSbInxK2MAbQGhbJ), [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA), [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [To Be Found](https://open.spotify.com/album/4BtnAuulML7FN3rALzq7sr) | 3:40 | 2025-05-29 |  |
 | [Tonight](https://open.spotify.com/track/07tj5gy6TKsQ7x0fCjrovr) | [Bex](https://open.spotify.com/artist/2PLgHkAWIico5HHJIq5Trl) | [Tonight](https://open.spotify.com/album/2vidWPfA1GXSB43GhELEB5) | 2:42 | 2025-01-24 |  |
 | [Too Soon](https://open.spotify.com/track/4vJoaQsqgInOXfLTrKGNWE) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Too Soon](https://open.spotify.com/album/1gnbsTYrABy0pYgsuBaX9Z) | 3:01 | 2025-04-25 |  |
 | [Touch It](https://open.spotify.com/track/2vI2o9GfUaFbbalCiTGwMc) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [Touch It](https://open.spotify.com/album/4g38km2uJCDbYq5lnve4Ai) | 2:49 | 2024-05-10 | 2024-06-01 |
@@ -393,6 +394,7 @@
 | [We Need You](https://open.spotify.com/track/68yUHwnNiuhltk2HQoIu9l) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Mother](https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR) | 7:21 | 2022-07-17 | 2023-06-26 |
 | [Weather Woman](https://open.spotify.com/track/3HTajNvnpRHFaKfhmBlhJM) | [Kali Claire](https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x) | [Weather Woman](https://open.spotify.com/album/3VYjEVRtowF8QLwleGYDcS) | 2:52 | 2024-11-15 | 2024-12-13 |
 | [Wet](https://open.spotify.com/track/4n81q2eze3OCygCd1Cg2io) | [Karen Nyame KG](https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz) | [RED EP](https://open.spotify.com/album/4Bp0q40RSxvjTfg8rkxl8J) | 2:46 | 2023-11-03 | 2023-11-18 |
+| [What Can I Do](https://open.spotify.com/track/0s7b23E8bLpvObuIGFKjwX) | [Ebubé](https://open.spotify.com/artist/6Op8o8Uebe6lvbXaqmXT5W) | [Slow Jam Szn](https://open.spotify.com/album/4tFAWjtG1MkocENvvstGac) | 3:24 | 2025-05-29 |  |
 | [What's Luv?](https://open.spotify.com/track/6ZVaa16xlSrloQhYPV63BW) | [Shaé Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [What's Luv?](https://open.spotify.com/album/6C2yR407il1fwIhy3P5iPp) | 2:46 | 2024-01-26 | 2024-02-17 |
 | [Whatever Simon Says](https://open.spotify.com/track/1tHUrfOKfRgzuGaa6lXcK7) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Whatever Simon Says](https://open.spotify.com/album/78UFlfxHiZnU7Jl3tdDZxn) | 3:32 | 2022-07-17 | 2023-03-20 |
 | [When In Rome](https://open.spotify.com/track/6gMQzn0SHgN2TKDwkJWShl) | [ROZZZQWEEN](https://open.spotify.com/artist/7EE9HI3pj86iVpw46vrhh5) | [When In Rome](https://open.spotify.com/album/7MRkwU9BQrDoHYCLmbckKh) | 3:08 | 2025-04-04 |  |

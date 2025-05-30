@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Where your new favourite bands are discovered. Cover: The New Eves",
+  "description": "Where your new favourite bands are discovered. Cover: Cliffords",
   "name": "Hot New Bands",
   "tracks": [
     {
@@ -88,7 +88,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 430960,
       "name": "Aon",
       "url": "https://open.spotify.com/track/31NMfMxMEnqDich4OYD8sE"
@@ -563,6 +563,24 @@
     },
     {
       "album": {
+        "name": "Chrysalis",
+        "url": "https://open.spotify.com/album/5JUBmHorgabNcHUb8fbtxy"
+      },
+      "artists": [
+        {
+          "name": "Getdown Services",
+          "url": "https://open.spotify.com/artist/4OTD2AbOu5iBqSWk3NfwG5"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Chrysalis",
+      "url": "https://open.spotify.com/track/4j9tHe6pw1ljHc30IivKYT"
+    },
+    {
+      "album": {
         "name": "Circe",
         "url": "https://open.spotify.com/album/2DRhoWBDa8fYvMvww9si6a"
       },
@@ -574,7 +592,7 @@
       ],
       "date_added": "2025-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 308052,
       "name": "Circe",
       "url": "https://open.spotify.com/track/4YIkwsTc2TNLLTg9m2rVRs"
@@ -970,7 +988,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 214314,
       "name": "Dungarvan Bay",
       "url": "https://open.spotify.com/track/6WlcQe4KodAuL9UfRQJpLx"
@@ -1006,7 +1024,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 233500,
       "name": "Eat Quiche, Sleep, Repeat",
       "url": "https://open.spotify.com/track/7fDiApidJ0QXtwH8cvozlj"
@@ -1550,6 +1568,24 @@
       "duration_ms": 200053,
       "name": "Heavy",
       "url": "https://open.spotify.com/track/7bOi2P9koS8GKmGBc8wjzU"
+    },
+    {
+      "album": {
+        "name": "Bohemian Clutter",
+        "url": "https://open.spotify.com/album/4wrs2l9zfbi8iBwdxfiMa3"
+      },
+      "artists": [
+        {
+          "name": "pencil",
+          "url": "https://open.spotify.com/artist/6QPwYkx2oeQobQdbCeogTk"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279378,
+      "name": "Honest Song",
+      "url": "https://open.spotify.com/track/1jOHyaoZuxjJuHvkaf3AAK"
     },
     {
       "album": {
@@ -2241,6 +2277,24 @@
     },
     {
       "album": {
+        "name": "My Favourite Monster",
+        "url": "https://open.spotify.com/album/3HcqPbTSgSh7CDAbOVU3zu"
+      },
+      "artists": [
+        {
+          "name": "Cliffords",
+          "url": "https://open.spotify.com/artist/2JIXE3g9E0kfeFWhpKPIja"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238533,
+      "name": "My Favourite Monster",
+      "url": "https://open.spotify.com/track/3Stk5Oa5Pc2ertfAP5tRUZ"
+    },
+    {
+      "album": {
         "name": "My Teeth",
         "url": "https://open.spotify.com/album/4XfLG95Mm6cb9JQr74NEQi"
       },
@@ -2922,6 +2976,24 @@
       "duration_ms": 193000,
       "name": "Stop And Think It Over",
       "url": "https://open.spotify.com/track/1lqhxH6E8d5Kg47ld7NGq6"
+    },
+    {
+      "album": {
+        "name": "Stroom",
+        "url": "https://open.spotify.com/album/2n2FkT870hnN8lryVswMyK"
+      },
+      "artists": [
+        {
+          "name": "Green Gardens",
+          "url": "https://open.spotify.com/artist/5EwUOG0SThYLLXclwy1PiO"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117463,
+      "name": "Stroom",
+      "url": "https://open.spotify.com/track/2c2x2KQdf8vTi0WlENNHXQ"
     },
     {
       "album": {

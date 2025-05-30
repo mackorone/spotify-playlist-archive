@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 
 > Naye Indie gaano ka khazana, featuring Daira,  Arya Salvi and other exciting artists.<br/>Cover : Daira
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,673 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,751 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,18 +45,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 35 | [Tu Jaise Dariya](https://open.spotify.com/track/75983zLFgUzgjJM45aY0Mn) | [Parth Srivastava](https://open.spotify.com/artist/5xioqWZGO4JrB9daKgcreI), [Armaan Sharma](https://open.spotify.com/artist/5nn7leCI4A1Kfp5Q0un5Pi) | [Tu Jaise Dariya](https://open.spotify.com/album/2Q7Jd69YDCL2l0rAHLZjfa) | 3:47 |
 | 36 | [Tera Zikr](https://open.spotify.com/track/6its6Ryep04lYSz6HUt4Q5) | [Ashu Shukla](https://open.spotify.com/artist/15iD55LPew2DyTQDqoV0F1), [Arijit Anand](https://open.spotify.com/artist/4SCDbi4KztQTP0HoOuCNjK) | [Tera Zikr](https://open.spotify.com/album/65S76v3alkgK2msh40A2Yv) | 4:07 |
 | 37 | [Aadhi Chai](https://open.spotify.com/track/10Mbwe81neb7Q3AATNwUBr) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Aadhi Chai](https://open.spotify.com/album/0u5P8rVA9QOeBtkQYyZ66b) | 3:37 |
-| 38 | [Ranjheya](https://open.spotify.com/track/3EyFLvf2phMoveVeyHjYtl) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL), [REHAT](https://open.spotify.com/artist/4Zg2ou2uzzlXFhudJt7qpo) | [Ranjheya](https://open.spotify.com/album/6GEYYn428QWQmyfFXApn1s) | 2:38 |
+| 38 | [Har Subah](https://open.spotify.com/track/2oUsJvFbdF9tbm6PKecwuT) | [citimall](https://open.spotify.com/artist/0wnr36mC2ENfSqlGhgAxqU), [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0) | [Har Subah](https://open.spotify.com/album/2mImRcaAfhmUtNa0RuY46B) | 3:39 |
 | 39 | [Rozana](https://open.spotify.com/track/0EDGjPanNwbjf17OMTMBG4) | [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT), [Shubham Agrawal](https://open.spotify.com/artist/0hXmRbCfPzmsKcTkYy0jev) | [Rozana](https://open.spotify.com/album/4o8fJ14ERZIaYlk4zzOnTj) | 2:52 |
-| 40 | [The Lovey Dovey Song](https://open.spotify.com/track/5nqZmbB3xB0RO0RooubM4n) | [Mary Ann Alexander](https://open.spotify.com/artist/5Nd0pl530GmwyCK1lRGQqd) | [The Lovey Dovey Song](https://open.spotify.com/album/30SZowhZ6LpoAl0UyTbWYX) | 2:50 |
-| 41 | [Har Subah](https://open.spotify.com/track/2oUsJvFbdF9tbm6PKecwuT) | [citimall](https://open.spotify.com/artist/0wnr36mC2ENfSqlGhgAxqU), [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0) | [Har Subah](https://open.spotify.com/album/2mImRcaAfhmUtNa0RuY46B) | 3:39 |
+| 40 | [Ranjheya](https://open.spotify.com/track/3EyFLvf2phMoveVeyHjYtl) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL), [REHAT](https://open.spotify.com/artist/4Zg2ou2uzzlXFhudJt7qpo) | [Ranjheya](https://open.spotify.com/album/6GEYYn428QWQmyfFXApn1s) | 2:38 |
+| 41 | [The Lovey Dovey Song](https://open.spotify.com/track/5nqZmbB3xB0RO0RooubM4n) | [Mary Ann Alexander](https://open.spotify.com/artist/5Nd0pl530GmwyCK1lRGQqd) | [The Lovey Dovey Song](https://open.spotify.com/album/30SZowhZ6LpoAl0UyTbWYX) | 2:50 |
 | 42 | [Jaane Jaana](https://open.spotify.com/track/19r3RVBCyOUyNoTHZqbEHX) | [Abir](https://open.spotify.com/artist/0XHapa0VH6XHwA3wlqextO), [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Jaane Jaana](https://open.spotify.com/album/1SZ92QLakvszzoWAZ4H6Xh) | 2:48 |
 | 43 | [Jaane Bhi Do Na \- City Sessions \- Side A](https://open.spotify.com/track/1KmgWSrEji4H7iR0uLJJ2K) | [Airport](https://open.spotify.com/artist/7yg81HsqsHmS23O8eoCkbA), [Arijit Datta](https://open.spotify.com/artist/2jTgcbhkElI05eLyI2AWgV), [Raghu Ram](https://open.spotify.com/artist/4b5xBk2NYeK5kGKJKGhnJj) | [City Sessions](https://open.spotify.com/album/2KyLU4s7vHWS55nVMKwuE9) | 5:12 |
 | 44 | [Yeh Jo Din](https://open.spotify.com/track/3KszvzmyVCUBFM1YwrCik9) | [Ashwin Adwani](https://open.spotify.com/artist/5kiwICyQNDmCtwOPLvgY04) | [Yeh Jo Din](https://open.spotify.com/album/4nBP7ughDRWgXEUw0hx8bs) | 2:40 |
 | 45 | [Kya Hi Hai](https://open.spotify.com/track/29SvIDiQWM8qoGaN0TvXRh) | [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16), [Rahul Shah](https://open.spotify.com/artist/3oEonEOikYn2hqvZ3oWpiu) | [Kya Hi Hai](https://open.spotify.com/album/7c9Q4FXPaX6EAafvJuu0VQ) | 3:19 |
 | 46 | [Tujhi Mein](https://open.spotify.com/track/33dMUDcgnHuhRKFBv2dIWt) | [Saahel](https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r) | [Tujhi Mein](https://open.spotify.com/album/1o8mYmyDY6pvGOOeQwz4Ag) | 3:05 |
-| 47 | [Re Manva](https://open.spotify.com/track/5oSRxsQLjlg6tsSg0N7JYO) | [Shubham Kabra](https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy) | [Re Manva](https://open.spotify.com/album/7j3Yi0ktAp66X3BjGioCbJ) | 3:27 |
-| 48 | [Kab Aur Kaise](https://open.spotify.com/track/1deiRYIJxWtk7DMDNjjgJO) | [Bombay the Artist](https://open.spotify.com/artist/2Qa5HYyDrPrArARMDJfDbJ) | [Kab Aur Kaise](https://open.spotify.com/album/0J3FZsjW6sQh4URtfzaYYU) | 2:34 |
-| 49 | [O Maaa](https://open.spotify.com/track/3dTLzaV6YGQn6gOZ2j9t0L) | [Vinit Katariya](https://open.spotify.com/artist/23uaAA0nW31ZgSWg7DhctP), [Samyak Prasana](https://open.spotify.com/artist/64j5rJTsD25fTAcOiZWAiY), [Sarthak Hichkad](https://open.spotify.com/artist/59GrJmVi5YwyLJQIV0Cabl) | [O Maaa](https://open.spotify.com/album/2GjCniVKKT8c15EIP4CfBQ) | 3:00 |
+| 47 | [O Maaa](https://open.spotify.com/track/3dTLzaV6YGQn6gOZ2j9t0L) | [Vinit Katariya](https://open.spotify.com/artist/23uaAA0nW31ZgSWg7DhctP), [Samyak Prasana](https://open.spotify.com/artist/64j5rJTsD25fTAcOiZWAiY), [Sarthak Hichkad](https://open.spotify.com/artist/59GrJmVi5YwyLJQIV0Cabl) | [O Maaa](https://open.spotify.com/album/2GjCniVKKT8c15EIP4CfBQ) | 3:00 |
+| 48 | [Re Manva](https://open.spotify.com/track/5oSRxsQLjlg6tsSg0N7JYO) | [Shubham Kabra](https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy) | [Re Manva](https://open.spotify.com/album/7j3Yi0ktAp66X3BjGioCbJ) | 3:27 |
+| 49 | [Kab Aur Kaise](https://open.spotify.com/track/1deiRYIJxWtk7DMDNjjgJO) | [Bombay the Artist](https://open.spotify.com/artist/2Qa5HYyDrPrArARMDJfDbJ) | [Kab Aur Kaise](https://open.spotify.com/album/0J3FZsjW6sQh4URtfzaYYU) | 2:34 |
 | 50 | [Raza](https://open.spotify.com/track/5cFMFTe1mpaALdDEoaEw2G) | [Salman Elahi](https://open.spotify.com/artist/60X8hzDUpAbID7G8cU2FPT) | [Elahi](https://open.spotify.com/album/0XOq8mfKGD2iggIOu1siqy) | 3:45 |
 
 Snapshot ID: `aDAdLQAAAABCXZL94uZTKKvXKsOI0x+T`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MV2cU.md) - [plain]
 
 > This is Chris Tomlin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,577 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,586 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MV2cU.md) - [plain]
 | 9 | [Is He Worthy?](https://open.spotify.com/track/4E43YlwUlpYDJIxcMjt0S7) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Holy Roar](https://open.spotify.com/album/2MsjmtZb4JVzmQ2kmS6dVq) | 4:31 |
 | 10 | [The Cross](https://open.spotify.com/track/3BYjy9SgiD9BbBPdhOfRg5) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [REBEL](https://open.spotify.com/album/0sJhrYC1988r2NNxsmzk3V) | 3:41 |
 | 11 | [Home](https://open.spotify.com/track/2aMb1asq5acm7cDYlFsYhY) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Never Lose Sight \(Deluxe Edition\)](https://open.spotify.com/album/7BK26n0Gkw7bvAlAUdU53F) | 3:39 |
-| 12 | [Indescribable](https://open.spotify.com/track/0M1ujzJ1RTvLt13C4GsnaT) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Arriving](https://open.spotify.com/album/4cCT11g6AEsDrDkyAome9f) | 3:57 |
-| 13 | [You Are My King \(Amazing Love\) \- Spotify Singles](https://open.spotify.com/track/4LEGdbJ3sb6P1IAMfOBrEN) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [You Are My King \(Amazing Love\) \[Spotify Singles\]](https://open.spotify.com/album/7h8KQPYyfseCnFQJJm7BGl) | 4:14 |
+| 12 | [You Are My King \(Amazing Love\) \- Spotify Singles](https://open.spotify.com/track/4LEGdbJ3sb6P1IAMfOBrEN) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [You Are My King \(Amazing Love\) \[Spotify Singles\]](https://open.spotify.com/album/7h8KQPYyfseCnFQJJm7BGl) | 4:14 |
+| 13 | [Indescribable](https://open.spotify.com/track/0M1ujzJ1RTvLt13C4GsnaT) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Arriving](https://open.spotify.com/album/4cCT11g6AEsDrDkyAome9f) | 3:57 |
 | 14 | [What A Beautiful Name](https://open.spotify.com/track/7yeslH8Y5kwAVJyxK7AqIt) | [The Maker & The Instrument](https://open.spotify.com/artist/0HQiwspXm03L5BmzTgK1hV), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Instrumental Songs Of Worship](https://open.spotify.com/album/3DzhS9CumbDVCkB7WYvtEX) | 5:48 |
 | 15 | [I Will Follow](https://open.spotify.com/track/6kpAhNL6CYs3NSbFs3tHwf) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [And If Our God Is For Us...](https://open.spotify.com/album/2xwFfH8fO1MRmWZbNKZVqt) | 3:40 |
 | 16 | [Lord, I Need You \- Live](https://open.spotify.com/track/0xGXCPSjxkHxElgi7kC5SZ) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Passion: Here For You \(Live\)](https://open.spotify.com/album/0NGmtUx2BoGIxzfaCmLj4O) | 4:34 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MV2cU.md) - [plain]
 | 37 | [We Fall Down / Agnus Dei \- Medley](https://open.spotify.com/track/1mCehTLs3ZlEcoQt0aIGiv) | [The Maker & The Instrument](https://open.spotify.com/artist/0HQiwspXm03L5BmzTgK1hV), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Instrumental Songs Of Worship](https://open.spotify.com/album/3DzhS9CumbDVCkB7WYvtEX) | 4:32 |
 | 38 | [Holy Forever \- Instrumental](https://open.spotify.com/track/0sTfcojHpTGr5y3GAaVmft) | [The Maker & The Instrument](https://open.spotify.com/artist/0HQiwspXm03L5BmzTgK1hV), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Holy Forever \(Instrumental\)](https://open.spotify.com/album/5ldWFChwbA9CB4j0tcTgWO) | 8:00 |
 | 39 | [Holy Is The Lord \- Arriving Album Version](https://open.spotify.com/track/31Kb7jyAscJJma1gTXRUFQ) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [How Great Is Our God: The Essential Collection](https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu) | 4:12 |
-| 40 | [No Greater Love \- As Featured in the Film "The Last Supper"](https://open.spotify.com/track/5woxR7S0ZXk5RWS0kLYGLu) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [No Greater Love \(As Featured in the Film "The Last Supper"\)](https://open.spotify.com/album/2x1WPk4KeLGQa4AKpL6rUJ) | 3:38 |
-| 41 | [Resurrection Power](https://open.spotify.com/track/2MxWMPW8E1p8B0Wcc5ypfU) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Holy Roar](https://open.spotify.com/album/2MsjmtZb4JVzmQ2kmS6dVq) | 4:10 |
+| 40 | [Resurrection Power](https://open.spotify.com/track/2MxWMPW8E1p8B0Wcc5ypfU) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Holy Roar](https://open.spotify.com/album/2MsjmtZb4JVzmQ2kmS6dVq) | 4:10 |
+| 41 | [No Greater Love \- As Featured in the Film "The Last Supper"](https://open.spotify.com/track/5woxR7S0ZXk5RWS0kLYGLu) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [No Greater Love \(As Featured in the Film "The Last Supper"\)](https://open.spotify.com/album/2x1WPk4KeLGQa4AKpL6rUJ) | 3:38 |
 | 42 | [The First Hymn](https://open.spotify.com/track/1Azri3vJMThJNOJF9OTv8m) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Ben Fielding](https://open.spotify.com/artist/33u16EyDkCbsyvh66ujJiO) | [The First Hymn](https://open.spotify.com/album/79DMLr7d7TtolyaV1WZoEq) | 4:11 |
 | 43 | [God Of This City](https://open.spotify.com/track/4Eda1y3heYypvl4KRcJcKs) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Hello Love](https://open.spotify.com/album/4Rxm4YPcHyohRXoIM8GWMk) | 4:57 |
 | 44 | [Our God \- Live](https://open.spotify.com/track/1sYMNmv1Fu52OE3bFLADgJ) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Passion: Awakening \(Live\)](https://open.spotify.com/album/79Mqp9oHYgCsGx9n5k7U54) | 5:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MV2cU.md) - [plain]
 | 49 | [I See You \(with Brandon Lake\)](https://open.spotify.com/track/5WJbUQV3FbzOxB4tA7yiXF) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Always](https://open.spotify.com/album/72AujkDTGgHNkVcPERPLaE) | 3:50 |
 | 50 | [Yes And Amen](https://open.spotify.com/track/6xYHIXSrucTcC9AXoTBEoB) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Never Lose Sight \(Deluxe Edition\)](https://open.spotify.com/album/7BK26n0Gkw7bvAlAUdU53F) | 5:06 |
 
-Snapshot ID: `aDUAgAAAAADcl+PFcxx8+3WhUVA+g33A`
+Snapshot ID: `aDZSAAAAAAAxVspq6zkFHOht2BCAtFpU`

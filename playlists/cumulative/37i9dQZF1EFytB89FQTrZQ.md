@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Wi1FLcqmkfe8LZa5QxrSA">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-527 songs - 1 day 6 hr 6 min
+528 songs - 1 day 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,6 +278,7 @@
 | [Love Sweet Love \- The Nextmen's Bigfoot Dub](https://open.spotify.com/track/62JyCjS4Cm5xBKQ8oZhTtl) | [Morcheeba](https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd) | [The Nextmen \- Selected Mixes \(That's What Friends Are For\)](https://open.spotify.com/album/2qf01c0NoFzKkXFMV2Tbb8) | 4:51 | 2022-12-15 | 2023-12-14 |
 | [Love U Better](https://open.spotify.com/track/05npxL9Tb9ekIY6tDe2m7b) | [Boston Bun](https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5) | [There’s A Nightclub Inside My Head](https://open.spotify.com/album/0oUyx6mrd0DgFfo1DPMfdz) | 3:04 | 2023-06-22 | 2023-12-25 |
 | [Love U Better](https://open.spotify.com/track/3N0PBpoAzHdomQy9wU15YS) | [Boston Bun](https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5) | [There’s A Nightclub Inside My Head](https://open.spotify.com/album/6h6xFQ5SdScv1mkoWNzJnI) | 3:04 | 2023-12-24 |  |
+| [Lovers To Enemies](https://open.spotify.com/track/3bkyytDbOVfBw1C4YxxV0B) | [No Guidnce](https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY) | [Confessions of a Loverboy](https://open.spotify.com/album/7H0YUpWlIxLBzRrHBctaWe) | 2:41 | 2025-05-29 |  |
 | [Lovesong](https://open.spotify.com/track/3bfQWFqQp1EnRvizKH3Les) | [Javeon](https://open.spotify.com/artist/41sCs0Q7zO0ls64jWsHnj7) | [Lovesong](https://open.spotify.com/album/38jZRdlpcnYzBvHydBoKx0) | 3:40 | 2025-01-09 | 2025-04-12 |
 | [Make It Hard To Love You](https://open.spotify.com/track/0cJ19SMVX83SJnNfIjmX8c) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Only Honest On The Weekend](https://open.spotify.com/album/2LWAzUYdZSUq0fW8ddbL1Q) | 3:19 | 2022-09-08 |  |
 | [Melody Of Us](https://open.spotify.com/track/7zZyFYpFPn0PZvKqVgm6YT) | [Sam Sparro](https://open.spotify.com/artist/0H0rBbf7vHXO3qh50Wap7y) | [Boombox Eternal: Halcyon Deluxe Edition](https://open.spotify.com/album/0hcLDyv4BKi3IlRXusqxzT) | 3:47 | 2022-09-08 |  |

@@ -4,7 +4,7 @@
 
 > Música independente\. A tua alternativa ao mainstream\. Foto: Mariana Nolasco, MARO
 
-278 songs - 16 hr 12 min
+279 songs - 16 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,6 +220,7 @@
 | [Savage](https://open.spotify.com/track/1mq8wH5sWqjzwvRIHxdlHN) | [LEROCQUE](https://open.spotify.com/artist/4BI5i3MlNaNIi5BPby3r3O) | [Savage](https://open.spotify.com/album/7Ch9Q8EBf6v2eKP3OItSEV) | 3:32 | 2024-07-25 | 2024-08-09 |
 | [Say Yes To Heaven](https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Say Yes To Heaven](https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok) | 3:29 | 2024-06-20 |  |
 | [Scared To Start](https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Scared To Start](https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39) | 2:39 | 2024-06-20 |  |
+| [Se Eu Pudesse](https://open.spotify.com/track/0HEHGiXQTGycAW6k6s6mAJ) | [SfiL](https://open.spotify.com/artist/4SdefXsHLZnpwJGU5dgDcv) | [Se Eu Pudesse](https://open.spotify.com/album/4iPvqZVPL3hOURbUVFW8Cm) | 3:24 | 2025-05-29 |  |
 | [Se é primavera](https://open.spotify.com/track/3uXQ6DZE9UYFjf9WuduU93) | [Valter Lobo](https://open.spotify.com/artist/69KGUs8AVPGEyE5ZR9PCc7) | [Melancólico Dançante](https://open.spotify.com/album/41Dp0ad9EO6BAg5U3YpFS3) | 3:08 | 2025-02-28 | 2025-05-09 |
 | [Seasons & Narcissus](https://open.spotify.com/track/1yT4qMKeA7Hr06veApFMgv) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [“&” \(Ampersand\), Part One](https://open.spotify.com/album/14gwVejGdggFC3UspqGWOC) | 3:29 | 2024-07-25 | 2024-08-30 |
 | [See You In The Afterlife](https://open.spotify.com/track/6qtGeawfnmQMUWyQ95LdIL) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Paradise State of Mind](https://open.spotify.com/album/27ynHS80OjICdw3qLNMgQP) | 3:09 | 2024-08-15 | 2024-09-21 |
@@ -274,7 +275,7 @@
 | [VEM CÁ](https://open.spotify.com/track/4U2BWOlHeTSgfNL4xFpt6B) | [INÊS APENAS](https://open.spotify.com/artist/44lhpTyAjiTTOwOzOfDCUQ) | [VEM CÁ](https://open.spotify.com/album/0h4tfuL7Eo5KWk4oOngYB8) | 2:43 | 2024-10-03 | 2024-10-18 |
 | [Vice Versa](https://open.spotify.com/track/32zpZSucRBESNL2nqgBYDC) | [Ganso](https://open.spotify.com/artist/4wpd66S5iheFM5GJqauV4E) | [Vice Versa](https://open.spotify.com/album/4A4kuj5F6KE1Snoj3AYYfr) | 3:12 | 2024-10-14 | 2024-10-25 |
 | [Volkswagen \- 2025](https://open.spotify.com/track/1SCeOcDKbcJpWoCTUIMDWh) | [Benjamim](https://open.spotify.com/artist/1Il7ZCAkjBtdsg9skLwlOc) | [Volkswagen \(2025\)](https://open.spotify.com/album/3R4WYuE1gEq12GbwBbFuX8) | 4:02 | 2025-01-24 | 2025-02-07 |
-| [Way Way](https://open.spotify.com/track/65IasAWzN38LlomtFJti9W) | [Vaiapraia](https://open.spotify.com/artist/7dFjIbyiueRNzTR2w9FA6R) | [Alegria Terminal](https://open.spotify.com/album/44svjXI1B4D7nCnVF7eU36) | 2:07 | 2025-05-22 |  |
+| [Way Way](https://open.spotify.com/track/65IasAWzN38LlomtFJti9W) | [Vaiapraia](https://open.spotify.com/artist/7dFjIbyiueRNzTR2w9FA6R) | [Alegria Terminal](https://open.spotify.com/album/44svjXI1B4D7nCnVF7eU36) | 2:07 | 2025-05-22 | 2025-05-30 |
 | [we can be our own ruin](https://open.spotify.com/track/7nb0gyY7EpbLg9cXEFWqm1) | [Mariana Tereso](https://open.spotify.com/artist/2flPiXqSKewUNnRoSCGZHu) | [we can be our own ruin](https://open.spotify.com/album/11Z7Oi55Nd8EeKbM5S99Gw) | 2:49 | 2024-11-29 | 2024-12-21 |
 | [WE COULD BE](https://open.spotify.com/track/6JntRmlslnLYjbgGbrngkG) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn), [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4) | [WE COULD BE](https://open.spotify.com/album/0P6GQcT3XIPg4ZWyA45n3V) | 3:15 | 2024-06-20 | 2024-07-19 |
 | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) | 3:42 | 2024-06-20 |  |

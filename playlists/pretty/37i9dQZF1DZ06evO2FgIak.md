@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2FgIak.md) - [plain]
 
 > This is Muddy Waters\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,396 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,400 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2FgIak.md) - [plain]
 | 29 | [The Red Rooster](https://open.spotify.com/track/1qdLSzpYZBqJcSBKbSc4e6) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Super Super Blues Band](https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc) | 7:25 |
 | 30 | [Blow Wind Blow \- Paris, 4 Novembre 1968 \(Restauración 2023\)](https://open.spotify.com/track/5OFRzy4ReR0W5tZw0O6KHG) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [Muddy Waters Blues Band Live Paris 1968 \(Restauración 2023\)](https://open.spotify.com/album/7ztpB4cnGsmmOyYiZuFXrv) | 4:08 |
 | 31 | [Tom Cat](https://open.spotify.com/track/1UHa7agK1kxbcyHLNQ8gTM) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Electric Mud](https://open.spotify.com/album/7cDLEVoIhkfKqaiKAPp7vL) | 3:37 |
-| 32 | [Baby Please Don't Go \- Live](https://open.spotify.com/track/0qjCCEKR7Ct3hshyCES99R) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Live At The Checkerboard Lounge](https://open.spotify.com/album/0SLzwxGYeOdJYbjxbE9plW) | 11:00 |
-| 33 | [Screamin' and Cryin'](https://open.spotify.com/track/0T8mys4YwJPSRDRAw4Co1g) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [I'm Ready](https://open.spotify.com/album/4mh3XUBkBiIpCCriJ4mYNP) | 5:04 |
+| 32 | [Screamin' and Cryin'](https://open.spotify.com/track/0T8mys4YwJPSRDRAw4Co1g) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [I'm Ready](https://open.spotify.com/album/4mh3XUBkBiIpCCriJ4mYNP) | 5:04 |
+| 33 | [Baby Please Don't Go \- Live](https://open.spotify.com/track/0qjCCEKR7Ct3hshyCES99R) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Live At The Checkerboard Lounge](https://open.spotify.com/album/0SLzwxGYeOdJYbjxbE9plW) | 11:00 |
 | 34 | [Train Fare Home \- Paris, 4 Novembre 1968 \(Restauración 2023\)](https://open.spotify.com/track/2TeimLyfJmqO7QsHkUZI4y) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [Muddy Waters Blues Band Live Paris 1968 \(Restauración 2023\)](https://open.spotify.com/album/7ztpB4cnGsmmOyYiZuFXrv) | 4:37 |
 | 35 | [Sad Sad Day](https://open.spotify.com/track/7MtTOg86IBLphq4YU3t31z) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [King Of The Electric Blues](https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ) | 5:23 |
 | 36 | [Tell Me Baby](https://open.spotify.com/track/71yVjDvQpUzzPdocf3DAYo) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Muddy Waters Sings Big Bill Broonzy](https://open.spotify.com/album/2ULAVn0TXR0ISBy9v8iCrU) | 2:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2FgIak.md) - [plain]
 | 49 | [My Babe](https://open.spotify.com/track/0YCj5u72nxNMLdvDQcUdZr) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Super Blues](https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s) | 3:56 |
 | 50 | [When I'm With You](https://open.spotify.com/track/0pkICgml5grZoS3Sxx6TtL) | [Don Williams](https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe), [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [D! Williams](https://open.spotify.com/artist/5BiWdJOs69IQUk4J3rGYIF), [Mike Settle](https://open.spotify.com/artist/3nONeBwPCQfjzWhp4ph4Cl), [Preston Foster](https://open.spotify.com/artist/3h2wJi6uqXuhC0YPBd1P03) | [Sternstunden](https://open.spotify.com/album/4G7bjZ0EeL3tG1quahiidj) | 3:17 |
 
-Snapshot ID: `aDUAgAAAAADdzbubnLEt8/ao6UH5y/P6`
+Snapshot ID: `aDZSAAAAAABYw+iRFx300qXk3sZhL+zz`

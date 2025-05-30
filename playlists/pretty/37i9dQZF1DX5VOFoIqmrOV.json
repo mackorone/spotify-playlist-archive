@@ -1,6 +1,6 @@
 {
   "description": "The finest set of Telugu music from the past 10 years. \nCover : Pushpa 2",
-  "num_followers": 406559,
+  "num_followers": 406717,
   "original_name": "Tollywood Pearls",
   "owner": {
     "name": "Spotify",
@@ -429,6 +429,26 @@
       "url": "https://open.spotify.com/track/36ylvIx1fVaM4i5pux7Ea1"
     },
     {
+      "added_at": "2023-08-07 09:11:28",
+      "album": {
+        "name": "DJ",
+        "url": "https://open.spotify.com/album/1kGnuSqFejTLaDJefAU7yw"
+      },
+      "artists": [
+        {
+          "name": "M.L.R. Karthikeyan",
+          "url": "https://open.spotify.com/artist/1urtr0Wr3oFJVeTMF2aqPm"
+        },
+        {
+          "name": "K. S. Chithra",
+          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+        }
+      ],
+      "duration_ms": 264514,
+      "name": "Gudilo Badilo Madilo",
+      "url": "https://open.spotify.com/track/7ILXon2PBU1bGYemfNg91q"
+    },
+    {
       "added_at": "2023-03-16 06:15:29",
       "album": {
         "name": "Mastaaru Mastaaru (From \"Sir\")(Telugu)",
@@ -451,26 +471,6 @@
       "duration_ms": 225424,
       "name": "Mastaaru Mastaaru (From \"Sir\")(Telugu)",
       "url": "https://open.spotify.com/track/59eeV0SIeyd431uyjAWCRe"
-    },
-    {
-      "added_at": "2023-08-07 09:11:28",
-      "album": {
-        "name": "DJ",
-        "url": "https://open.spotify.com/album/1kGnuSqFejTLaDJefAU7yw"
-      },
-      "artists": [
-        {
-          "name": "M.L.R. Karthikeyan",
-          "url": "https://open.spotify.com/artist/1urtr0Wr3oFJVeTMF2aqPm"
-        },
-        {
-          "name": "K. S. Chithra",
-          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
-        }
-      ],
-      "duration_ms": 264514,
-      "name": "Gudilo Badilo Madilo",
-      "url": "https://open.spotify.com/track/7ILXon2PBU1bGYemfNg91q"
     },
     {
       "added_at": "2023-08-07 09:11:28",
@@ -733,26 +733,6 @@
       "url": "https://open.spotify.com/track/4sJ9X27MSCue4d0t48MXwe"
     },
     {
-      "added_at": "2023-08-07 09:11:28",
-      "album": {
-        "name": "Dhruva",
-        "url": "https://open.spotify.com/album/2mutIulE85wKAHrrP0oCuM"
-      },
-      "artists": [
-        {
-          "name": "Padmalatha",
-          "url": "https://open.spotify.com/artist/7xgN0GCVgPxHiU8p8PIYfk"
-        },
-        {
-          "name": "Vishnupriya Ravi",
-          "url": "https://open.spotify.com/artist/0znqmX3tzZ55FFTmlffAlv"
-        }
-      ],
-      "duration_ms": 193179,
-      "name": "Pareshanura",
-      "url": "https://open.spotify.com/track/0UipbyZ94eKrCm1Vcydvl3"
-    },
-    {
       "added_at": "2023-01-11 20:52:12",
       "album": {
         "name": "Gundellonaa (From \"Ori Devuda\")",
@@ -771,6 +751,26 @@
       "duration_ms": 200113,
       "name": "Gundellonaa",
       "url": "https://open.spotify.com/track/6D2LwdOQ5gjoFrpkoO5fvu"
+    },
+    {
+      "added_at": "2023-08-07 09:11:28",
+      "album": {
+        "name": "Dhruva",
+        "url": "https://open.spotify.com/album/2mutIulE85wKAHrrP0oCuM"
+      },
+      "artists": [
+        {
+          "name": "Padmalatha",
+          "url": "https://open.spotify.com/artist/7xgN0GCVgPxHiU8p8PIYfk"
+        },
+        {
+          "name": "Vishnupriya Ravi",
+          "url": "https://open.spotify.com/artist/0znqmX3tzZ55FFTmlffAlv"
+        }
+      ],
+      "duration_ms": 193179,
+      "name": "Pareshanura",
+      "url": "https://open.spotify.com/track/0UipbyZ94eKrCm1Vcydvl3"
     },
     {
       "added_at": "2023-12-12 05:49:47",
@@ -901,6 +901,22 @@
       "url": "https://open.spotify.com/track/3RyfIFxOrHLJV3reR37Xwr"
     },
     {
+      "added_at": "2021-12-16 12:46:43",
+      "album": {
+        "name": "Majili",
+        "url": "https://open.spotify.com/album/6a6ykv4C9RDMutKI4lR36T"
+      },
+      "artists": [
+        {
+          "name": "Chinmayi",
+          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
+        }
+      ],
+      "duration_ms": 245885,
+      "name": "Priyathama Priyathama",
+      "url": "https://open.spotify.com/track/4wHZiaLsuI9aQdWv4f3Esd"
+    },
+    {
       "added_at": "2022-08-16 07:40:21",
       "album": {
         "name": "Inthandham [From \"Sita Ramam (Telugu)\"]",
@@ -919,22 +935,6 @@
       "duration_ms": 218808,
       "name": "Inthandham (From \"Sita Ramam (Telugu)\")",
       "url": "https://open.spotify.com/track/3BVjPpVvki8Jpm1Ew21UjH"
-    },
-    {
-      "added_at": "2021-12-16 12:46:43",
-      "album": {
-        "name": "Majili",
-        "url": "https://open.spotify.com/album/6a6ykv4C9RDMutKI4lR36T"
-      },
-      "artists": [
-        {
-          "name": "Chinmayi",
-          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
-        }
-      ],
-      "duration_ms": 245885,
-      "name": "Priyathama Priyathama",
-      "url": "https://open.spotify.com/track/4wHZiaLsuI9aQdWv4f3Esd"
     },
     {
       "added_at": "2023-08-07 09:11:28",
@@ -981,30 +981,6 @@
       "url": "https://open.spotify.com/track/3A3vrhAzRGaK92PtFzndjS"
     },
     {
-      "added_at": "2023-08-07 09:11:28",
-      "album": {
-        "name": "Son Of Satyamurthy",
-        "url": "https://open.spotify.com/album/0nJiWxWeUSYUq3xpzNKs5d"
-      },
-      "artists": [
-        {
-          "name": "Devi Sri Prasad",
-          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
-        },
-        {
-          "name": "Sravana Bhargavi",
-          "url": "https://open.spotify.com/artist/4xVrxpa8IgoLneQbdPnSsk"
-        },
-        {
-          "name": "Magizhini Manimaran",
-          "url": "https://open.spotify.com/artist/1Q1vEBErkzeovtGx8kZXKD"
-        }
-      ],
-      "duration_ms": 278188,
-      "name": "Super Machi",
-      "url": "https://open.spotify.com/track/3WTHnUPLqVZXSw54PFLtiL"
-    },
-    {
       "added_at": "2021-12-16 12:46:43",
       "album": {
         "name": "Psycho Saiyaan (From \"Saaho\")",
@@ -1027,6 +1003,30 @@
       "duration_ms": 166293,
       "name": "Psycho Saiyaan (From \"Saaho\")",
       "url": "https://open.spotify.com/track/2IbRKQwgiyvXY1yVq8GuA3"
+    },
+    {
+      "added_at": "2023-08-07 09:11:28",
+      "album": {
+        "name": "Son Of Satyamurthy",
+        "url": "https://open.spotify.com/album/0nJiWxWeUSYUq3xpzNKs5d"
+      },
+      "artists": [
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Sravana Bhargavi",
+          "url": "https://open.spotify.com/artist/4xVrxpa8IgoLneQbdPnSsk"
+        },
+        {
+          "name": "Magizhini Manimaran",
+          "url": "https://open.spotify.com/artist/1Q1vEBErkzeovtGx8kZXKD"
+        }
+      ],
+      "duration_ms": 278188,
+      "name": "Super Machi",
+      "url": "https://open.spotify.com/track/3WTHnUPLqVZXSw54PFLtiL"
     },
     {
       "added_at": "2023-08-07 09:11:28",
@@ -1149,22 +1149,6 @@
       "url": "https://open.spotify.com/track/2x3Plafnj7QE5VU3mFI7f7"
     },
     {
-      "added_at": "2021-12-16 12:46:43",
-      "album": {
-        "name": "Love Story",
-        "url": "https://open.spotify.com/album/7ouZl1HNkTJ3zNhdGPH01F"
-      },
-      "artists": [
-        {
-          "name": "Anurag Kulkarni",
-          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
-        }
-      ],
-      "duration_ms": 263505,
-      "name": "Nee Chitram Choosi",
-      "url": "https://open.spotify.com/track/5PsmOImV4eJxcTK8ZxSPJz"
-    },
-    {
       "added_at": "2023-02-10 09:20:04",
       "album": {
         "name": "Almost Padipoyindhe Pilla (From \"Das Ka Dhamki\")",
@@ -1185,36 +1169,20 @@
       "url": "https://open.spotify.com/track/1ZZzUmkUhcNlb0u7C1jcKd"
     },
     {
-      "added_at": "2022-07-24 04:40:57",
+      "added_at": "2021-12-16 12:46:43",
       "album": {
-        "name": "Bhaagamathie",
-        "url": "https://open.spotify.com/album/3C7JzpLXUHle7KhdhFSNun"
+        "name": "Love Story",
+        "url": "https://open.spotify.com/album/7ouZl1HNkTJ3zNhdGPH01F"
       },
       "artists": [
         {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
         }
       ],
-      "duration_ms": 289030,
-      "name": "Mandaara",
-      "url": "https://open.spotify.com/track/7LaQ58wuVdHDOgCbnyexBL"
-    },
-    {
-      "added_at": "2023-08-07 09:11:28",
-      "album": {
-        "name": "Govindudu Andarivaadele",
-        "url": "https://open.spotify.com/album/6IKZJLQIyKWHYk9iarEI0W"
-      },
-      "artists": [
-        {
-          "name": "Javed Ali",
-          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Gulabi Kallu Rendu Mullu",
-      "url": "https://open.spotify.com/track/7Kd2C4NcmMRk0N7M3LRvLS"
+      "duration_ms": 263505,
+      "name": "Nee Chitram Choosi",
+      "url": "https://open.spotify.com/track/5PsmOImV4eJxcTK8ZxSPJz"
     },
     {
       "added_at": "2023-08-07 09:11:28",
@@ -1235,6 +1203,38 @@
       "duration_ms": 237474,
       "name": "Gusa Gusa Lade",
       "url": "https://open.spotify.com/track/3Z8mfS2fQweEvT9QW9FFGx"
+    },
+    {
+      "added_at": "2023-08-07 09:11:28",
+      "album": {
+        "name": "Govindudu Andarivaadele",
+        "url": "https://open.spotify.com/album/6IKZJLQIyKWHYk9iarEI0W"
+      },
+      "artists": [
+        {
+          "name": "Javed Ali",
+          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Gulabi Kallu Rendu Mullu",
+      "url": "https://open.spotify.com/track/7Kd2C4NcmMRk0N7M3LRvLS"
+    },
+    {
+      "added_at": "2022-07-24 04:40:57",
+      "album": {
+        "name": "Bhaagamathie",
+        "url": "https://open.spotify.com/album/3C7JzpLXUHle7KhdhFSNun"
+      },
+      "artists": [
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        }
+      ],
+      "duration_ms": 289030,
+      "name": "Mandaara",
+      "url": "https://open.spotify.com/track/7LaQ58wuVdHDOgCbnyexBL"
     },
     {
       "added_at": "2023-08-07 09:11:28",

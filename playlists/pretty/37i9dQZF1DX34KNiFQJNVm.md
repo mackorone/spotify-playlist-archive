@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Zé Neto & Cristiano, Murillo e LT no Beat, Felipe Araújo e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,092,527 likes - 97 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,092,936 likes - 97 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 96 | [37 Graus](https://open.spotify.com/track/4EFALHEXG0qvKrQwW57C9y) | [JUMA](https://open.spotify.com/artist/4sKCqyOM5vHLnTfoj61p6a) | [37 Graus](https://open.spotify.com/album/3loLoO0edgs7NjZjr3ZfBM) | 3:32 |
 | 97 | [Coração Refém](https://open.spotify.com/track/4wCuZXsnGyG0c6cG5u1B0B) | [Paradise Guerrilla](https://open.spotify.com/artist/6Ln3eKTHXP2hFsHsjMv6fo) | [Todo Tempo Que Virá Depois Desse Momento, Vol\. 1](https://open.spotify.com/album/3cgf5P3hl31u0KIG1gz7mj) | 3:24 |
 
-Snapshot ID: `AAAAAO2VPRlg9RfyJ17YUW3in+7q3JnQ`
+Snapshot ID: `aDCnvgAAAADI4XN7i/fRFgLElAX4vO13`

@@ -2673,6 +2673,24 @@
     },
     {
       "album": {
+        "name": "Daylight Saving",
+        "url": "https://open.spotify.com/album/6lMTV5tFejaXj9fGgEBsVF"
+      },
+      "artists": [
+        {
+          "name": "Ferragno",
+          "url": "https://open.spotify.com/artist/6V5Qb50Rc4RxLMVRgLyD2W"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162092,
+      "name": "Daylight Saving",
+      "url": "https://open.spotify.com/track/3SaIAk237mEa2tt2ije1JR"
+    },
+    {
+      "album": {
         "name": "Days Of Roses",
         "url": "https://open.spotify.com/album/1h8q1h380zEY9QYpPOckSr"
       },
@@ -5116,7 +5134,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 180562,
       "name": "Highlands",
       "url": "https://open.spotify.com/track/23PYmOs15gQXHPEGQXJP8O"
@@ -9906,6 +9924,24 @@
       "duration_ms": 201124,
       "name": "Quiet Cove",
       "url": "https://open.spotify.com/track/5gqstUNfi8kZBSsGDtk4ND"
+    },
+    {
+      "album": {
+        "name": "Quiet Palette",
+        "url": "https://open.spotify.com/album/02ptJu9pkcqOeejvdyvJep"
+      },
+      "artists": [
+        {
+          "name": "Mijongya",
+          "url": "https://open.spotify.com/artist/7GPrD3dPYED5wENCMHirj7"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168594,
+      "name": "Quiet Palette",
+      "url": "https://open.spotify.com/track/7404RoJRtD7G6js1gAdZGz"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 
 > Celebrating women at the center of innovation in electronic music\. Featuring LUMI.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,134 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,140 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 | 99 | [Crowded Roomz](https://open.spotify.com/track/2bnatDQSIhiZBVfVUT0PUe) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Crowded Roomz](https://open.spotify.com/album/6noU224rd5kmYt0KPBhtgG) | 2:52 |
 | 100 | [Come My Way](https://open.spotify.com/track/7kKg9yiwhnzw2FgPIfRq4K) | [Dana Lu](https://open.spotify.com/artist/2yh299nlctFR4sx8krBlRj), [Taina Rain](https://open.spotify.com/artist/7B88AYHeAM3ZlX6lJTS4Oz) | [Worldwide Link\-Up](https://open.spotify.com/album/1ognORvmZasab5RvjN4PcO) | 2:48 |
 
-Snapshot ID: `aDCG2AAAAAC56wRChb7mHr71Mf1+iHLS`
+Snapshot ID: `AAAAAExPXI5lpD7cQl3my1EePJII5bo+`

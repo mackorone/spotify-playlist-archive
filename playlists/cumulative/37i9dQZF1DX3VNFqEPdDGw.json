@@ -200,7 +200,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-09",
+      "date_removed": null,
       "duration_ms": 137044,
       "name": "506",
       "url": "https://open.spotify.com/track/7fjyz7AHmoyps6GH5Wmc5w"
@@ -530,7 +530,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 210666,
       "name": "Back To 80's",
       "url": "https://open.spotify.com/track/3ecRlherNaepMXp6gQSKYG"
@@ -764,7 +764,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 289545,
       "name": "Boli (Guns Up)",
       "url": "https://open.spotify.com/track/2mtYsageVg9QWK2ijvFdpO"
@@ -852,7 +852,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 173173,
       "name": "Breakup Wala Peg",
       "url": "https://open.spotify.com/track/3ICoViNW8atR1ry7atnEZi"
@@ -1182,7 +1182,7 @@
       ],
       "date_added": "2025-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-27",
+      "date_removed": null,
       "duration_ms": 203846,
       "name": "Cobra",
       "url": "https://open.spotify.com/track/5yBnT2ltrfE0RqKgdf2iL9"
@@ -2653,6 +2653,32 @@
     },
     {
       "album": {
+        "name": "Jatt Fire Maarda",
+        "url": "https://open.spotify.com/album/0IkyOSAp5LsxSUqTHTTw2t"
+      },
+      "artists": [
+        {
+          "name": "Jigar",
+          "url": "https://open.spotify.com/artist/4O0mhPUgsrXDOYxCHw3A8T"
+        },
+        {
+          "name": "G Noor",
+          "url": "https://open.spotify.com/artist/3oCuewGts8hB4pGDkG5Lo8"
+        },
+        {
+          "name": "Little Boi",
+          "url": "https://open.spotify.com/artist/4rgTolxMdRlzcWwUNz7seh"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133033,
+      "name": "Jatt Fire Maarda",
+      "url": "https://open.spotify.com/track/18UrlmmcnIxxDRmtGz1dCB"
+    },
+    {
+      "album": {
         "name": "Jatt Flex",
         "url": "https://open.spotify.com/album/2dhnvaPxxR2EUOtZpsWeWG"
       },
@@ -3184,7 +3210,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-28",
+      "date_removed": null,
       "duration_ms": 178500,
       "name": "Kangni",
       "url": "https://open.spotify.com/track/1dcKwzZXeFL9PdUmKR2uwH"
@@ -3934,7 +3960,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 252613,
       "name": "Morniya\u2019n",
       "url": "https://open.spotify.com/track/0hpjnu8OTuOb6Nru1tvphM"
@@ -4194,7 +4220,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 132000,
       "name": "Notorious",
       "url": "https://open.spotify.com/track/5AXMutQJMtnC8kcrZG7XtC"
@@ -5858,7 +5884,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-29",
+      "date_removed": null,
       "duration_ms": 170322,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/1mWmBaq051j74b1MviNVLR"

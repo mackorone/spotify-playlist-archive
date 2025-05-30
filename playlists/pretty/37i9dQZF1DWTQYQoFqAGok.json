@@ -1,6 +1,6 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico \ud83c\udfb7\ud83c\udfb9\ud83c\udfb6\ud83c\uddf2\ud83c\uddfd",
-  "num_followers": 63204,
+  "num_followers": 63212,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -623,22 +623,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Funk da Power",
-        "url": "https://open.spotify.com/album/04THe7KJSRQ6zRh9idIg63"
-      },
-      "artists": [
-        {
-          "name": "Fiusha",
-          "url": "https://open.spotify.com/artist/0CwPHvEoMX4vMIARIu2WZk"
-        }
-      ],
-      "duration_ms": 316023,
-      "name": "Let It Play",
-      "url": "https://open.spotify.com/track/1Czyel4ty0L3Jhsw6jQTKl"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "KonFussion",
         "url": "https://open.spotify.com/album/0gnwRiISWgdgtwVASejiHu"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 304213,
       "name": "Nada Es Para Siempre",
       "url": "https://open.spotify.com/track/33yU3BFOzegLinbxSAXLt8"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Funk da Power",
+        "url": "https://open.spotify.com/album/04THe7KJSRQ6zRh9idIg63"
+      },
+      "artists": [
+        {
+          "name": "Fiusha",
+          "url": "https://open.spotify.com/artist/0CwPHvEoMX4vMIARIu2WZk"
+        }
+      ],
+      "duration_ms": 316023,
+      "name": "Let It Play",
+      "url": "https://open.spotify.com/track/1Czyel4ty0L3Jhsw6jQTKl"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -749,6 +749,30 @@
       "url": "https://open.spotify.com/track/276aMT3jt0qKDT216Thn3c"
     },
     {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Sacbe: Sacbe (Complete)",
+        "url": "https://open.spotify.com/album/3LhbAvlKoxmYCbagKUajAP"
+      },
+      "artists": [
+        {
+          "name": "Arturo Cipriano",
+          "url": "https://open.spotify.com/artist/5MagvaL80lMCb6ZTiNHW0u"
+        },
+        {
+          "name": "Gerardo Batiz",
+          "url": "https://open.spotify.com/artist/6xBEVM1pgWPp5v93sBVcm3"
+        },
+        {
+          "name": "Sacbe",
+          "url": "https://open.spotify.com/artist/2UA1zpDaD5s3Uy5R7JzzOh"
+        }
+      ],
+      "duration_ms": 404666,
+      "name": "Las Pulgas Freeway",
+      "url": "https://open.spotify.com/track/5AFlumcmhChuLqzrkPzj0M"
+    },
+    {
       "added_at": "2023-04-13 19:45:15",
       "album": {
         "name": "Calladito Te Ves Mejor",
@@ -783,30 +807,6 @@
       "duration_ms": 266866,
       "name": "La Cocola",
       "url": "https://open.spotify.com/track/2XxyE2LiLidlNXuoYpczZA"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Sacbe: Sacbe (Complete)",
-        "url": "https://open.spotify.com/album/3LhbAvlKoxmYCbagKUajAP"
-      },
-      "artists": [
-        {
-          "name": "Arturo Cipriano",
-          "url": "https://open.spotify.com/artist/5MagvaL80lMCb6ZTiNHW0u"
-        },
-        {
-          "name": "Gerardo Batiz",
-          "url": "https://open.spotify.com/artist/6xBEVM1pgWPp5v93sBVcm3"
-        },
-        {
-          "name": "Sacbe",
-          "url": "https://open.spotify.com/artist/2UA1zpDaD5s3Uy5R7JzzOh"
-        }
-      ],
-      "duration_ms": 404666,
-      "name": "Las Pulgas Freeway",
-      "url": "https://open.spotify.com/track/5AFlumcmhChuLqzrkPzj0M"
     },
     {
       "added_at": "2021-07-28 16:44:28",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 
 > indie & indiepop in het Nederlands\. Cover: Eefje de Visser
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,418 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,469 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,12 +41,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 | 31 | [Drijfzand](https://open.spotify.com/track/4FQYVoqLzGiMFMKKWu4BNs) | [WIES](https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n) | [Drijfzand](https://open.spotify.com/album/7ppndnAeYPCnO4YkpjLQeC) | 2:58 |
 | 32 | [dichtbij, veraf](https://open.spotify.com/track/0LpX3MyGISnvbR3pAhoECF) | [De Toegift](https://open.spotify.com/artist/61S4CPkzgyQaX4AvEDEWrs) | [kleine auto, grote hot wheel](https://open.spotify.com/album/4GlbfflO4JRp5ku5zOcPBP) | 4:25 |
 | 33 | [Drijfzand](https://open.spotify.com/track/7xIUJS8zUUfkXvxXrdOgmo) | [stay away from dante!](https://open.spotify.com/artist/5y47Otq6VIrBjaLR7Zl8nd) | [Drijfzand](https://open.spotify.com/album/33HwgqAUk5su4mUxTsKtoc) | 3:39 |
-| 34 | [Privilege](https://open.spotify.com/track/3gwaFleOpagO6aYVfFmw5r) | [Jean Jacques](https://open.spotify.com/artist/3U02wTIYzwf7JA2zD2SDSR) | [Privilege](https://open.spotify.com/album/6gsH7vfaUl3k5nCUzXlKZr) | 1:58 |
+| 34 | [Vager!](https://open.spotify.com/track/5llK2C03HqHJ7NM8ixKwYD) | [IDA](https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN), [MAZOO](https://open.spotify.com/artist/0xbGR2sM0IN3C3pwlmA4Hj) | [Vager!](https://open.spotify.com/album/5zRCPSHsRjT9thKatrwc1J) | 2:12 |
 | 35 | [WijTwee](https://open.spotify.com/track/2hqlsv11YK6cJqt7jJn6vQ) | [Astronaut](https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn) | [De Lucht](https://open.spotify.com/album/1kA1PK4ls833pRy3G41ALi) | 2:46 |
-| 36 | [Wildernis](https://open.spotify.com/track/4XnKHxkNz9myioLIPM7NnQ) | [Johannes Is Zijn Naam](https://open.spotify.com/artist/2RBFRe2zOvWfzMotCRr7D0) | [Wildernis](https://open.spotify.com/album/0XcPUzHYP68CtnXoxBm1YJ) | 3:31 |
-| 37 | [Disco Dip](https://open.spotify.com/track/3ozI7vH6AYsSeiGYB53iwr) | [Prins S\. en De Geit](https://open.spotify.com/artist/0jXZD0lM7Icyig6RrBGlUi) | [Partijtje \(Deluxe\)](https://open.spotify.com/album/5CdmWnzhXsmDOcmEfbXCY0) | 3:05 |
-| 38 | [Lach](https://open.spotify.com/track/05P1nGFVfX5YYXH51nPeeJ) | [Spijbelaar](https://open.spotify.com/artist/1qlWFFK3AhBmlk7Lyft6MP) | [Lach](https://open.spotify.com/album/1m1Ksb78UTjW9QsOAlDfJI) | 3:06 |
-| 39 | [Vager!](https://open.spotify.com/track/5llK2C03HqHJ7NM8ixKwYD) | [IDA](https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN), [MAZOO](https://open.spotify.com/artist/0xbGR2sM0IN3C3pwlmA4Hj) | [Vager!](https://open.spotify.com/album/5zRCPSHsRjT9thKatrwc1J) | 2:12 |
+| 36 | [Privilege](https://open.spotify.com/track/3gwaFleOpagO6aYVfFmw5r) | [Jean Jacques](https://open.spotify.com/artist/3U02wTIYzwf7JA2zD2SDSR) | [Privilege](https://open.spotify.com/album/6gsH7vfaUl3k5nCUzXlKZr) | 1:58 |
+| 37 | [Wildernis](https://open.spotify.com/track/4XnKHxkNz9myioLIPM7NnQ) | [Johannes Is Zijn Naam](https://open.spotify.com/artist/2RBFRe2zOvWfzMotCRr7D0) | [Wildernis](https://open.spotify.com/album/0XcPUzHYP68CtnXoxBm1YJ) | 3:31 |
+| 38 | [Disco Dip](https://open.spotify.com/track/3ozI7vH6AYsSeiGYB53iwr) | [Prins S\. en De Geit](https://open.spotify.com/artist/0jXZD0lM7Icyig6RrBGlUi) | [Partijtje \(Deluxe\)](https://open.spotify.com/album/5CdmWnzhXsmDOcmEfbXCY0) | 3:05 |
+| 39 | [Lach](https://open.spotify.com/track/05P1nGFVfX5YYXH51nPeeJ) | [Spijbelaar](https://open.spotify.com/artist/1qlWFFK3AhBmlk7Lyft6MP) | [Lach](https://open.spotify.com/album/1m1Ksb78UTjW9QsOAlDfJI) | 3:06 |
 | 40 | [Waarom Ik Zo Ben](https://open.spotify.com/track/1fmX3SAnzqe1UqUbnwn3SR) | [Merle](https://open.spotify.com/artist/6y2VqVMyiZAAQpA4lSCBu0) | [Waarom Ik Zo Ben](https://open.spotify.com/album/1z55auGHkjSdETH4YJKdud) | 2:00 |
 | 41 | [Zonder Naam](https://open.spotify.com/track/2L9SjKxjHUPiZ4KRNZsbri) | [Spinvis](https://open.spotify.com/artist/1Vxc40v4VtLpSWTF2bn8Y4) | [Zonder Naam](https://open.spotify.com/album/5QEFqvIyfTxjiRgPMuKuq5) | 3:01 |
 | 42 | [23.45](https://open.spotify.com/track/19y3TK5V9b7MZEe5qTKCY1) | [puntjudith](https://open.spotify.com/artist/2TY5EKL27G5c9deuWQIj8d) | [23.45](https://open.spotify.com/album/4b0W64Ivrfy3aJgztXW1E9) | 3:17 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 | 46 | [Nieuw Begin](https://open.spotify.com/track/5whI35aoxvWEr5cnzgXj0P) | [Roos Blufpand](https://open.spotify.com/artist/7J2a0SEgW7QaRHUIGjqgFC) | [Naamloze Liefde](https://open.spotify.com/album/3kY5AWZimGg9ztotSt65Pw) | 2:37 |
 | 47 | [Wind In De Zeilen](https://open.spotify.com/track/1CuunQxTRe5jL13ikuQ67Y) | [Tienson](https://open.spotify.com/artist/6NuwXIFcHEYmeu6Tf9BGt8) | [Wind In De Zeilen](https://open.spotify.com/album/1Vcc1C8T9ktEhGmmlx8A0D) | 3:35 |
 | 48 | [Is dit echt](https://open.spotify.com/track/3qQcJi8WU1MS5xukw61j8j) | [Merle](https://open.spotify.com/artist/6y2VqVMyiZAAQpA4lSCBu0) | [Is dit echt](https://open.spotify.com/album/4eLuerkEYnJ6z69SYvBhVi) | 2:55 |
-| 49 | [De Grens Tussen Ons](https://open.spotify.com/track/5jWLxOSU7WWpcNnPNbhCwz) | [Droom Dit](https://open.spotify.com/artist/535Rx3nGAAoN5eQ56bVcVs) | [Het Hart Bestaat Niet En De Rest Ook Niet](https://open.spotify.com/album/5TaJOGhCQhrg8AMf5WSwZW) | 3:29 |
-| 50 | [IK MIS JE](https://open.spotify.com/track/1u1wKliOsyKZfku9DbZq5q) | [Gianski](https://open.spotify.com/artist/1tC6NRB6c1mVgV4xrqrOgy) | [IK MIS JE](https://open.spotify.com/album/0gbNyJSEctAU96fhS7T0zj) | 3:23 |
+| 49 | [Alleen](https://open.spotify.com/track/6qtYJkBV6sSKUnHejbyUsC) | [Spijbelaar](https://open.spotify.com/artist/1qlWFFK3AhBmlk7Lyft6MP) | [Spijbelaar](https://open.spotify.com/album/455RrTsNFiMvIXPXt68RQQ) | 3:36 |
+| 50 | [De Grens Tussen Ons](https://open.spotify.com/track/5jWLxOSU7WWpcNnPNbhCwz) | [Droom Dit](https://open.spotify.com/artist/535Rx3nGAAoN5eQ56bVcVs) | [Het Hart Bestaat Niet En De Rest Ook Niet](https://open.spotify.com/album/5TaJOGhCQhrg8AMf5WSwZW) | 3:29 |
 
 Snapshot ID: `aDRe8gAAAAClSOqbGj8d1dzzCrdx18FP`

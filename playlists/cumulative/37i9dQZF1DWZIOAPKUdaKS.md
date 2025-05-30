@@ -4,7 +4,7 @@
 
 > Soft piano to help you focus, work or study.
 
-807 songs - 1 day 10 hr 57 min
+809 songs - 1 day 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Danderlion](https://open.spotify.com/track/4p3aBt5WfldkaRaDfBcfGG) | [Aron Edwards](https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W) | [Danderlion](https://open.spotify.com/album/06mlIPE6BeK3DQlIxLkgjR) | 2:16 | 2021-12-07 | 2022-08-10 |
 | [dans le Bleu](https://open.spotify.com/track/0f8fnzecrwlGZYOWOHTMz0) | [Ricard Paul](https://open.spotify.com/artist/6N2AxUq3v1faD2lVriyeJu) | [dans le Bleu](https://open.spotify.com/album/4pI7r8JcKxLLWAB7iM5bdu) | 1:49 | 2023-03-14 | 2023-07-19 |
 | [Darjeeling](https://open.spotify.com/track/37LE6gpXSSArk0zKyvukSb) | [Yao Chen](https://open.spotify.com/artist/1dWCw84QGvLRebWigUZvyJ) | [Darjeeling](https://open.spotify.com/album/3brqqWbxbR44knvxSxj4s0) | 2:52 | 2021-12-07 | 2022-04-08 |
+| [Daylight Saving](https://open.spotify.com/track/3SaIAk237mEa2tt2ije1JR) | [Ferragno](https://open.spotify.com/artist/6V5Qb50Rc4RxLMVRgLyD2W) | [Daylight Saving](https://open.spotify.com/album/6lMTV5tFejaXj9fGgEBsVF) | 2:42 | 2025-05-29 |  |
 | [Days Of Roses](https://open.spotify.com/track/3QDpj4QuN10FOJXdCQOwOP) | [Eva Brummel](https://open.spotify.com/artist/6JCISfcnC2hHTm0uhjrbNy) | [Days Of Roses](https://open.spotify.com/album/1h8q1h380zEY9QYpPOckSr) | 2:00 | 2022-10-13 |  |
 | [Dazzling Sun](https://open.spotify.com/track/2Ybs9KNO2dlCp6CGBIGtzo) | [Kiara Leonard](https://open.spotify.com/artist/0fAevrRhdDPOCXbd7FYR8P) | [Efflorescence](https://open.spotify.com/album/39PUwYEN0AxbFJDAdsrJOO) | 2:19 | 2022-01-04 | 2024-03-20 |
 | [Der Vogel auf dem Felsen](https://open.spotify.com/track/6qeY26kCmlIzpLZVibJU4M) | [Wolfgang Schulmann](https://open.spotify.com/artist/0AUguA7F9t87WF6krMPXyz) | [Auf dem Felde](https://open.spotify.com/album/0EROhvEiWfGx9i9btcWQQm) | 2:20 | 2021-12-07 | 2022-10-14 |
@@ -290,7 +291,7 @@
 | [Hidcote Garden](https://open.spotify.com/track/0sh3udsRO3AesM270ctQZR) | [Moments](https://open.spotify.com/artist/4QPfkcbTCSAMUOdVCHyPCS) | [Bathtub Chill](https://open.spotify.com/album/7syBT7D7kHTJEvzterZLVJ) | 2:42 | 2022-10-24 | 2022-11-13 |
 | [Hidcote Garden](https://open.spotify.com/track/0thmCXqsXhImtEUtGwy14R) | [Moments](https://open.spotify.com/artist/4QPfkcbTCSAMUOdVCHyPCS) | [Moments](https://open.spotify.com/album/2fYza5rMfZ9tAG7NOcfNJq) | 2:42 | 2021-12-07 | 2022-07-29 |
 | [Hidcote Garden](https://open.spotify.com/track/3eKpha3kgGpAhzZ9vtXBnK) | [Moments](https://open.spotify.com/artist/4QPfkcbTCSAMUOdVCHyPCS) | [Moments](https://open.spotify.com/album/0N7UrdCKbkJeGJyDGSV8fc) | 2:42 | 2022-07-28 | 2023-10-05 |
-| [Highlands](https://open.spotify.com/track/23PYmOs15gQXHPEGQXJP8O) | [André Dívou](https://open.spotify.com/artist/1MIy4clJ09eOtu2W7wcC7T) | [Highlands](https://open.spotify.com/album/4fGBjm0G7Cr5tXeo2aHkn7) | 3:00 | 2024-02-02 |  |
+| [Highlands](https://open.spotify.com/track/23PYmOs15gQXHPEGQXJP8O) | [André Dívou](https://open.spotify.com/artist/1MIy4clJ09eOtu2W7wcC7T) | [Highlands](https://open.spotify.com/album/4fGBjm0G7Cr5tXeo2aHkn7) | 3:00 | 2024-02-02 | 2025-05-30 |
 | [Hilma](https://open.spotify.com/track/7vcKDlb5hV7vWJUhIVcX5W) | [Dirk van Arnhem](https://open.spotify.com/artist/40yZwvRyg1OUOAonHfozfM) | [Hilma](https://open.spotify.com/album/1ZfQb0993HOLiF53xHOURB) | 2:38 | 2021-12-07 | 2022-08-10 |
 | [Hindsight](https://open.spotify.com/track/0k8MgafLdbRrQaqPbklNtN) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Hindsight](https://open.spotify.com/album/6kioGbNjNtqk7fmhcDBleD) | 1:50 | 2021-12-07 | 2023-10-05 |
 | [Histoire d'un Jour](https://open.spotify.com/track/16QEKihp9N6eHLbeIat4jb) | [Amandine Moulin](https://open.spotify.com/artist/0sVyGAiXwDz3NKBLpwY69j) | [Histoire d'un Jour](https://open.spotify.com/album/6E6rkMC4rUvfUbJr19ppjs) | 2:25 | 2021-12-07 | 2022-07-20 |
@@ -556,6 +557,7 @@
 | [Quantum Leap](https://open.spotify.com/track/5rhEwaIiy4GVfJIb9G5SOU) | [Juno Erikson](https://open.spotify.com/artist/7I6yDSz0uj0fzj28dGELNC) | [Quantum Leap](https://open.spotify.com/album/5j8trqbZklxLUHbB6liH7r) | 1:48 | 2022-07-19 | 2023-07-19 |
 | [Quiet](https://open.spotify.com/track/7BAYXTkbNmlBT0wmq5GWtX) | [Francine Miller](https://open.spotify.com/artist/5vxAOWWWvD46wo9rxyELlv) | [Quiet](https://open.spotify.com/album/0QSgw0bHw0kTYF8zPz0LMC) | 1:37 | 2023-07-03 | 2023-07-19 |
 | [Quiet Cove](https://open.spotify.com/track/5gqstUNfi8kZBSsGDtk4ND) | [Edgar De Vries](https://open.spotify.com/artist/5ccEcnSCa82fIfFgwpVyrD) | [Quiet Cove](https://open.spotify.com/album/5GsMGDSeQKNXLZsujzhCTL) | 3:21 | 2021-12-07 | 2022-08-10 |
+| [Quiet Palette](https://open.spotify.com/track/7404RoJRtD7G6js1gAdZGz) | [Mijongya](https://open.spotify.com/artist/7GPrD3dPYED5wENCMHirj7) | [Quiet Palette](https://open.spotify.com/album/02ptJu9pkcqOeejvdyvJep) | 2:48 | 2025-05-29 |  |
 | [Radius](https://open.spotify.com/track/5HAJEsxD0fBSnbdWljzeFh) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Radius](https://open.spotify.com/album/62qUYNydgMlF5scn5Sy1Um) | 1:56 | 2022-08-26 | 2023-11-21 |
 | [Rain In July](https://open.spotify.com/track/6VWXXegvaYsNkEZdKRNtlE) | [Noah Evans](https://open.spotify.com/artist/3s8VDnYnPvSLjhI9B2W1Ou) | [Rain In July](https://open.spotify.com/album/0BHNEQXEvfQBzpCo3a07jp) | 2:50 | 2022-04-07 | 2024-12-18 |
 | [Raindrops](https://open.spotify.com/track/6BMcMtb9M5yqelouZZaOPd) | [Jørg Sorensen](https://open.spotify.com/artist/4nmvmUQiWmoz5AsRoxW41b) | [Raindrops](https://open.spotify.com/album/1UMYLTMDLsVBXY8VfaYPpt) | 2:21 | 2021-12-07 | 2024-02-03 |

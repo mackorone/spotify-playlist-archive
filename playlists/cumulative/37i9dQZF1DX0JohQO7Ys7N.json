@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "Kickback, Relax to some smooth R&B from Nairobi -The city under the Sun. Cover: Clark Keeng, Zawadi Mukami & Chris Barr",
+  "description": "Kickback, Relax to some smooth R&B from Nairobi -The city under the Sun. Cover: Ochiko",
   "name": "NairoBae",
   "tracks": [
     {
@@ -1470,6 +1470,24 @@
       "duration_ms": 202758,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/0qKSG9DU0TLp8Sy77N0BFU"
+    },
+    {
+      "album": {
+        "name": "Guidance",
+        "url": "https://open.spotify.com/album/5rJTqmaSUmsoWCqM0nfLF0"
+      },
+      "artists": [
+        {
+          "name": "Maya Amolo",
+          "url": "https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175135,
+      "name": "Guidance",
+      "url": "https://open.spotify.com/track/45pMPoDTfSRolpU5qRw54v"
     },
     {
       "album": {
@@ -4036,7 +4054,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 171765,
       "name": "Secret Lover",
       "url": "https://open.spotify.com/track/5wTCpN911fjwZYhnCYzX7k"
@@ -4679,6 +4697,24 @@
     },
     {
       "album": {
+        "name": "The World",
+        "url": "https://open.spotify.com/album/01qXWieSBkM6m8tNHTIILL"
+      },
+      "artists": [
+        {
+          "name": "Ochiko",
+          "url": "https://open.spotify.com/artist/33hRHDCTA20GjDaJaCIEXi"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132954,
+      "name": "The World",
+      "url": "https://open.spotify.com/track/6AIPUgPeeZlyjlmYJJvQG3"
+    },
+    {
+      "album": {
         "name": "Three Little Birds",
         "url": "https://open.spotify.com/album/22uuw7dC7oXrWHITQ2DHjh"
       },
@@ -5168,7 +5204,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 216172,
       "name": "Wendo Mwaki - From Un-Adult-Erated",
       "url": "https://open.spotify.com/track/4FQ7pGtcUpFVMGLxDHij79"

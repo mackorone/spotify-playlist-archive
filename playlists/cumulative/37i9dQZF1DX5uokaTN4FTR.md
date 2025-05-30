@@ -2,7 +2,7 @@
 
 ### [Massive Dance Hits](https://open.spotify.com/playlist/37i9dQZF1DX5uokaTN4FTR)
 
-> The UK's biggest dance playlist! Cover: Rudimental, Khalid
+> The UK's biggest dance playlist! Cover: Ely Oaks, LAVINIA
 
 672 songs - 1 day 10 hr 58 min
 

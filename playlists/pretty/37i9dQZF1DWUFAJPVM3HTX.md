@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > Celebrating 10 years of  the best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/5DP3h81xD3klfn0M47GZlK?si=oYSYzsfNRsSn7In5zvFsew"> threetwenty</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,817 likes - 461 songs - 23 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,869 likes - 461 songs - 23 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -470,4 +470,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 460 | [Only One](https://open.spotify.com/track/2iXkVMSRxoqRKV1JrEoDd3) | [PxRRY](https://open.spotify.com/artist/0PsWfG0oEt3Oz7Vlur7pkE), [SHRETA](https://open.spotify.com/artist/3JIPXppV2oYMltqGqBCo9n) | [FairXchange](https://open.spotify.com/album/4bddJB0oeqZgCzWwJ38v2a) | 2:49 |
 | 461 | [How Long?](https://open.spotify.com/track/0bFiS83jnXUTojsrO6p77A) | [Shanté](https://open.spotify.com/artist/01LFHYk6xpMMbpzH8Gzoju) | [I Chose to Keep Going](https://open.spotify.com/album/1w66h1lj1jU89X2LXn9xVJ) | 2:25 |
 
-Snapshot ID: `AAAAAHrwqk0cjuxfNMA9vLbyw9EE/8IG`
+Snapshot ID: `aDDOCgAAAABTdgdfspZyzMdHXe1Dbq8b`

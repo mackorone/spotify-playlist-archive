@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5jNrphFqELVsvxDR3ZwSAx.md) - [plain]
 
 > Listen here for the ultimate list of original and synced songs from TV and Film\. TV Soundtrack \- Movie Soundtrack \- Hollywood Hits \- Film Score \- Movie \- TV \- Film \- Netflix \- Amazon Prime \- Disney + \- Hulu \- Max
 
-[Digster Global](https://open.spotify.com/user/digster.fm) - 52,007 likes - 196 songs - 12 hr 4 min
+[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 51,990 likes - 196 songs - 12 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/5jNrphFqELVsvxDR3ZwSAx.md) - [plain]
 | 33 | [Laid](https://open.spotify.com/track/2CdS3DRqWR5LAhy4hM5X9W) | [James](https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh) | [Laid](https://open.spotify.com/album/5pALyxshOPc8LLKggzNvQe) | 2:36 |
 | 34 | [Something Cool \- Mono](https://open.spotify.com/track/2mqjKGlSdJHdjCQHtOx6PD) | [June Christy](https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP) | [Something Cool \(1955 Version\)](https://open.spotify.com/album/1GJeSeLhbyiOpsNNjndHLA) | 4:18 |
 | 35 | [What If This Is All The Love You Ever Get?](https://open.spotify.com/track/5CZ1XU3DiHnhGM3NpySKyh) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Wildness \(Deluxe\)](https://open.spotify.com/album/7CGzC8FDgpAMyp36T7yyEa) | 3:49 |
-| 36 | [Also sprach Zarathustra, Op\. 30: Prelude \(Sonnenaufgang\)](https://open.spotify.com/track/74Uid4kASPOe0ja4UeoZpl) | [Richard Strauss](https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D), [Berliner Philharmoniker](https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z), [Sir Georg Solti](https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH) | [Richard Strauss: Also sprach Zarathustra; Till Eulenspiegels lustige Streiche etc.](https://open.spotify.com/album/3kWV6iD8UO5WQtthvHjM5m) | 1:39 |
+| 36 | [Also sprach Zarathustra, Op\. 30: I\. Prelude\. Sonnenaufgang \- Live at Philharmonie, Berlin, 1996](https://open.spotify.com/track/74Uid4kASPOe0ja4UeoZpl) | [Richard Strauss](https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D), [Berliner Philharmoniker](https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z), [Sir Georg Solti](https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH) | [Richard Strauss: Also sprach Zarathustra; Till Eulenspiegels lustige Streiche etc.](https://open.spotify.com/album/3kWV6iD8UO5WQtthvHjM5m) | 1:39 |
 | 37 | [Voodoo in My Blood](https://open.spotify.com/track/3iyJPBtWnucN4b5CoC9Zhv) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X), [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [Ritual Spirit](https://open.spotify.com/album/70XADoJy0e98z6soiUx8dw) | 4:01 |
 | 38 | [Jungle Drums](https://open.spotify.com/track/5KFnJoS4VYLD11leBCN0xr) | [Martin Denny](https://open.spotify.com/artist/3D9J9nPNW1cBktx5apJq4V) | [Afro\-Desia](https://open.spotify.com/album/1Fvm5YRNEy95fjaermeJRu) | 2:48 |
 | 39 | [What Are You Gonna Tell Her?](https://open.spotify.com/track/3wxISiy8s2huunhxBkTEhX) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [What Are You Gonna Tell Her?](https://open.spotify.com/album/4iwbkZsX1YmV0KiDDg5UiZ) | 3:13 |

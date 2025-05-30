@@ -103,6 +103,24 @@
     },
     {
       "album": {
+        "name": "A Country Heart Can",
+        "url": "https://open.spotify.com/album/18ly6QslPPTJFkE5XBwjmS"
+      },
+      "artists": [
+        {
+          "name": "Max Jackson",
+          "url": "https://open.spotify.com/artist/6uxoiISyynknybWW6SQrTe"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223484,
+      "name": "A Country Heart Can",
+      "url": "https://open.spotify.com/track/7HYok2NXE23LtYygubuvIO"
+    },
+    {
+      "album": {
         "name": "The Accident",
         "url": "https://open.spotify.com/album/0c0q3cA2sEB4EsNa2m55rw"
       },
@@ -118,6 +136,28 @@
       "duration_ms": 166986,
       "name": "A Telephone Rings",
       "url": "https://open.spotify.com/track/4YOHjkwl6Jn6sZSx7eeIn4"
+    },
+    {
+      "album": {
+        "name": "A.A.",
+        "url": "https://open.spotify.com/album/14aC9p7pJbgaJFTfsyiwIf"
+      },
+      "artists": [
+        {
+          "name": "Teenager",
+          "url": "https://open.spotify.com/artist/4vXxxiqmySa5LxGESBj5PB"
+        },
+        {
+          "name": "Ladyhawke",
+          "url": "https://open.spotify.com/artist/5TfnQ0Ai1cEbKY5katFK14"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211612,
+      "name": "A.A.",
+      "url": "https://open.spotify.com/track/0tnvYx9kZElB3wWkpSmDTp"
     },
     {
       "album": {
@@ -432,7 +472,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 243087,
       "name": "Beginner",
       "url": "https://open.spotify.com/track/2253dhz68xZDjKfOW5KcWt"
@@ -634,10 +674,28 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 200617,
       "name": "Bring It",
       "url": "https://open.spotify.com/track/3IGcT1DMV7axlr4Wez3hRg"
+    },
+    {
+      "album": {
+        "name": "Butterknife",
+        "url": "https://open.spotify.com/album/6Iza5nOc6WmKWctsiYqMsg"
+      },
+      "artists": [
+        {
+          "name": "total tommy",
+          "url": "https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176201,
+      "name": "Butterknife",
+      "url": "https://open.spotify.com/track/4u472hZQnq5h6noTuImsC4"
     },
     {
       "album": {
@@ -868,7 +926,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 188688,
       "name": "Clothes Off",
       "url": "https://open.spotify.com/track/338b5ZgLjuLr5S9Qk5bKrZ"
@@ -1280,7 +1338,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 161511,
       "name": "Don't Go",
       "url": "https://open.spotify.com/track/73UXAcJFFg7njuZahPub9u"
@@ -1756,7 +1814,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 220593,
       "name": "Get Knocked Down",
       "url": "https://open.spotify.com/track/4QCYGQb57NVQvDvG6RKpQV"
@@ -1902,7 +1960,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 219196,
       "name": "Golden Wolf",
       "url": "https://open.spotify.com/track/47MINwGFX5v5HnDX6yo7SE"
@@ -1974,7 +2032,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 237681,
       "name": "Have A Little Dream",
       "url": "https://open.spotify.com/track/6oTxc1HDGSXEWHRM7YTD27"
@@ -2310,7 +2368,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 188548,
       "name": "In The Corner",
       "url": "https://open.spotify.com/track/4IFggj5mlGiNbmOJ5bZhRC"
@@ -2492,6 +2550,24 @@
       "duration_ms": 220662,
       "name": "Kiss Me Like You're Leaving",
       "url": "https://open.spotify.com/track/6rA5wCxRTEE5G2EWwrQY4e"
+    },
+    {
+      "album": {
+        "name": "Return to the Roots",
+        "url": "https://open.spotify.com/album/5aPo5ap8k9H0v3MNSgcI02"
+      },
+      "artists": [
+        {
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316972,
+      "name": "Kiss the Sky",
+      "url": "https://open.spotify.com/track/0lzJGFS25DUEXxiAMyl3Xm"
     },
     {
       "album": {
@@ -2853,6 +2929,24 @@
     },
     {
       "album": {
+        "name": "Maybe I\u2019m Just a Freak",
+        "url": "https://open.spotify.com/album/1xeKCdfejurpPoQsi20TuS"
+      },
+      "artists": [
+        {
+          "name": "The Rions",
+          "url": "https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252931,
+      "name": "Maybe I'm Just a Freak",
+      "url": "https://open.spotify.com/track/3g2Fe6UmB8PJ06gchjavHK"
+    },
+    {
+      "album": {
         "name": "Zorb",
         "url": "https://open.spotify.com/album/6kWMa5wuK9Jw1gtlHJaXRz"
       },
@@ -2998,6 +3092,32 @@
       "duration_ms": 176196,
       "name": "Music On The Radio",
       "url": "https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA"
+    },
+    {
+      "album": {
+        "name": "it's Franky baby! (Deluxe)",
+        "url": "https://open.spotify.com/album/6YJv1Ppcj1xKkkWPg1xmEq"
+      },
+      "artists": [
+        {
+          "name": "Young Franco",
+          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
+        },
+        {
+          "name": "Master Peace",
+          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
+        },
+        {
+          "name": "BCBC",
+          "url": "https://open.spotify.com/artist/0zz7GJ7SZyi4XV3TJsg3YN"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161031,
+      "name": "Music Sounds Better With Me",
+      "url": "https://open.spotify.com/track/0eRtOlUsMueyPH3jIjkZrX"
     },
     {
       "album": {
@@ -3349,6 +3469,24 @@
     },
     {
       "album": {
+        "name": "One Sugar",
+        "url": "https://open.spotify.com/album/0FMYfjQBq1OL899N3tphBc"
+      },
+      "artists": [
+        {
+          "name": "Winston Surfshirt",
+          "url": "https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142125,
+      "name": "One Sugar",
+      "url": "https://open.spotify.com/track/0i3h0cgoRs6klKV7jXEPty"
+    },
+    {
+      "album": {
         "name": "One Way Ticket",
         "url": "https://open.spotify.com/album/02ck4HiN1kXx2bfN1gc3yY"
       },
@@ -3404,6 +3542,28 @@
       "duration_ms": 190533,
       "name": "Out Of My Head",
       "url": "https://open.spotify.com/track/3GfF24z5aHM8idyueXywno"
+    },
+    {
+      "album": {
+        "name": "Oxytocin (feat. Bunga)",
+        "url": "https://open.spotify.com/album/7lVqRATuTl5kcK7VDHHnbI"
+      },
+      "artists": [
+        {
+          "name": "CHISEKO",
+          "url": "https://open.spotify.com/artist/5Z7R9YTOZFv7zC9Ns1gPMS"
+        },
+        {
+          "name": "Bunga",
+          "url": "https://open.spotify.com/artist/1lHG5Nh4kVcBViogIek98t"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175555,
+      "name": "Oxytocin (feat. Bunga)",
+      "url": "https://open.spotify.com/track/0psw6oHJ5Y9eW04Hjp7PsM"
     },
     {
       "album": {
@@ -3815,6 +3975,24 @@
     },
     {
       "album": {
+        "name": "Bug",
+        "url": "https://open.spotify.com/album/2cMqGu1camh7KGSPLUhO5w"
+      },
+      "artists": [
+        {
+          "name": "Lottie McLeod",
+          "url": "https://open.spotify.com/artist/5x7MYvI4G0xdrDVVB9T1g9"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199163,
+      "name": "Ruin A Good Thing",
+      "url": "https://open.spotify.com/track/1WBCT1X3icl0ElsOXxxg25"
+    },
+    {
+      "album": {
         "name": "Running Out",
         "url": "https://open.spotify.com/album/4e4HuGGMBput0CxfwBUOoQ"
       },
@@ -4008,6 +4186,24 @@
       "duration_ms": 152067,
       "name": "See You Again",
       "url": "https://open.spotify.com/track/4FYqsrv2Uqa6mjuwCcqrWy"
+    },
+    {
+      "album": {
+        "name": "Send It Back",
+        "url": "https://open.spotify.com/album/1w88Rkop980Vu2KBZQbPM6"
+      },
+      "artists": [
+        {
+          "name": "DON WEST",
+          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173112,
+      "name": "Send It Back",
+      "url": "https://open.spotify.com/track/6FDYvTpaGaGjXqsnNhUPXm"
     },
     {
       "album": {
@@ -4340,7 +4536,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 178666,
       "name": "Stop Calling",
       "url": "https://open.spotify.com/track/2xLEDO5wt8DunoSq2lJSKK"
@@ -4448,10 +4644,28 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 328655,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/3bS6JKgmnvg6mjQLCZi7JW"
+    },
+    {
+      "album": {
+        "name": "Sunset Psalm",
+        "url": "https://open.spotify.com/album/6kB1iLsUqM30kw5d8Fgg31"
+      },
+      "artists": [
+        {
+          "name": "Brad Cox",
+          "url": "https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249977,
+      "name": "Sunset Psalm",
+      "url": "https://open.spotify.com/track/5wnKqpNO2h39M44TMQk3cC"
     },
     {
       "album": {
@@ -4694,6 +4908,24 @@
       "duration_ms": 237426,
       "name": "tell me something",
       "url": "https://open.spotify.com/track/4IU4zqISs4zONS4rDWStUU"
+    },
+    {
+      "album": {
+        "name": "That's What You Do For Love",
+        "url": "https://open.spotify.com/album/1eJIgChtTpPU9PruenGRNo"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Barnes",
+          "url": "https://open.spotify.com/artist/1k5aZWIOUbUfKcnMxtEivJ"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324253,
+      "name": "That's What You Do For Love",
+      "url": "https://open.spotify.com/track/1Vt0rDoC3lqKOqdQtexxyo"
     },
     {
       "album": {
@@ -5222,7 +5454,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 163265,
       "name": "waltz",
       "url": "https://open.spotify.com/track/0WxQXx1MwC6LpIzEGZiQSE"
@@ -5388,7 +5620,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 253478,
       "name": "Where You Need To Be",
       "url": "https://open.spotify.com/track/5wAxcO9N89pLKRo68vMqJL"

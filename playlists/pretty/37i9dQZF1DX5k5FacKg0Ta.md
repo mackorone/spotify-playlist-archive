@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5k5FacKg0Ta.md) - [plain]
 
 > Valikoima tuoreita ja hieman vanhempiakin suomalaisia jazz\-helmiä.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,122 likes - 98 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,121 likes - 98 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5k5FacKg0Ta.md) - [plain]
 | 97 | [King Cesar](https://open.spotify.com/track/2bLLd8tlZVAhMqko7pdq0D) | [The Stance Brothers](https://open.spotify.com/artist/1AEh6OX55KCjPJX0Lzkjy1) | [Duktus](https://open.spotify.com/album/1KbvXsQv1uWMF0eZyRhHA8) | 3:46 |
 | 98 | [Save This One for When You Need It](https://open.spotify.com/track/0U8dPLAIsUIWK5Aty2jByw) | [Verneri Pohjola](https://open.spotify.com/artist/601yt0lWcEE1vS1bzAPwSX) | [Monkey Mind](https://open.spotify.com/album/3rwh0JR9Y8UYoEJi8U7ulO) | 5:08 |
 
-Snapshot ID: `aAqmkgAAAACTGdH7NuwZ/62VvkSRKokt`
+Snapshot ID: `aAqmkgAAAAB22q9cG89dPSJ1etn3uoit`

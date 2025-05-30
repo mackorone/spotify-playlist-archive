@@ -4,7 +4,7 @@
 
 > Les meilleurs titres du moment et plus encore en version acoustique.
 
-141 songs - 7 hr 32 min
+142 songs - 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [By Your Side \(feat\. Tom Grennan\) \- Acoustic](https://open.spotify.com/track/1QMSIsTV6lcLCQ9MBHTLhT) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [By Your Side \(Acoustic\) \(feat\. Tom Grennan\)](https://open.spotify.com/album/7lYiqSYSUOeWFahBbVZYCF) | 3:11 | 2022-12-21 | 2023-05-15 |
 | [Can't Tame Her \- Acoustic](https://open.spotify.com/track/1fuD35YHKBFQTIy61hbwo4) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Can't Tame Her \(Acoustic\)](https://open.spotify.com/album/7kSvTMG6BOS7O7yHyKeGpg) | 3:30 | 2023-03-09 | 2024-06-01 |
 | [Carry Me \- Acoustic Version](https://open.spotify.com/track/0KXhbwmPLhECjqhGkhYpic) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [ROOM 96](https://open.spotify.com/album/6MFyUXJ1YrcHvraPVirOZ1) | 3:24 | 2023-02-21 |  |
+| [Ce qui me va \- Version acoustique](https://open.spotify.com/track/1yWdlzvYpt5SY1et6TWNDq) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Ce qui me va](https://open.spotify.com/album/6GZ2K7dAyHHMbY65archCw) | 3:03 | 2025-05-29 |  |
 | [Ceux qu'on était \- Version acoustique](https://open.spotify.com/track/03Nu6igh7gtptMbgJrcdrk) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Ceux qu'on était](https://open.spotify.com/album/4JdvSrnVF0r39NGMm1Xree) | 3:20 | 2024-02-22 |  |
 | [Cold Heart \- Acoustic](https://open.spotify.com/track/0k6LV1ohcK2hlNPwu1nVw9) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Cold Heart \(Acoustic\)](https://open.spotify.com/album/78pahaG6oQu93YqFLVYGEv) | 3:15 | 2022-12-21 |  |
 | [Control \- Acoustic Guitar Version](https://open.spotify.com/track/7LsJd6JUzWy3SUvy33g6yQ) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Control \(Acoustic Versions\)](https://open.spotify.com/album/0GfYuFknkNUEPIbmV9rCef) | 3:51 | 2022-12-21 | 2024-06-15 |
@@ -36,7 +37,7 @@
 | [Deep Down \(Acoustic Version\) \(feat\. Never Dull\)](https://open.spotify.com/track/4Sea2XMlbP2Yt8E5CMwvbb) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA), [Kenny Dope](https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX), [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [Deep Down \(Acoustic Version\) \(feat\. Never Dull\)](https://open.spotify.com/album/0FXgNlUQuffimeBnWUsepH) | 3:08 | 2022-12-21 | 2023-10-03 |
 | [Desire \(with Sam Smith\) \- Acoustic](https://open.spotify.com/track/5EUZq2pJJi1X2yRHzAeDWJ) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Desire \(with Sam Smith\) \[Acoustic\]](https://open.spotify.com/album/15fFDWyVcxknsTGmJ2q354) | 3:05 | 2023-09-26 | 2024-09-13 |
 | [Die With A Smile \- Acoustic](https://open.spotify.com/track/3sDIlJZzYNHtnSuuOxvTal) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/29uwnLOApt6HvRw3Ll83vG) | 4:11 | 2024-11-21 |  |
-| [Disease \- The Antidote Live](https://open.spotify.com/track/6Sxj0dNAoW0X0uC8o5cGm3) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Disease](https://open.spotify.com/album/0wY9KJ2kxRz6jZkvAfpDU2) | 4:34 | 2025-01-30 |  |
+| [Disease \- The Antidote Live](https://open.spotify.com/track/6Sxj0dNAoW0X0uC8o5cGm3) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Disease](https://open.spotify.com/album/0wY9KJ2kxRz6jZkvAfpDU2) | 4:34 | 2025-01-30 | 2025-05-30 |
 | [Don't Call Me Up \- Acoustic](https://open.spotify.com/track/3a8gsld8gQzvfyLfPO1LP1) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Don't Call Me Up \(Acoustic\)](https://open.spotify.com/album/73I3HpG6A7oIL6hXaIC5Kr) | 3:32 | 2022-12-21 | 2023-03-27 |
 | [Elastic Heart \- Piano Version](https://open.spotify.com/track/0udoMICxzaUbNUT8EVRq8B) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear \(Deluxe Version\)](https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH) | 4:10 | 2024-04-12 |  |
 | [Emiliana \- Acoustic](https://open.spotify.com/track/5o2eHgbRzQbeZKMFfgy1nn) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Emiliana](https://open.spotify.com/album/4LTckGxBOI0fEkliC3zbIp) | 3:19 | 2022-12-21 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSdu6sAEDF.md) - [plain]
 
 > Let this smooth mix carry you home in style.
 
-[Spotify](https://open.spotify.com/user/spotify) - 524,395 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 524,331 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSdu6sAEDF.md) - [plain]
 | 74 | [Somebody To You \(feat\. Cory Wong & Vincen García\)](https://open.spotify.com/track/0vigaWzrt5hQlfUuirda0o) | [Cody Fry](https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Vincen García](https://open.spotify.com/artist/1E17v2QgyFXkqxsHngr6YD) | [The End](https://open.spotify.com/album/1gGuLJfZnXUoAs5nk7UXV6) | 4:11 |
 | 75 | [Afterglow](https://open.spotify.com/track/2Jh44UZ8vuwjxtQlbxJJki) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Afterglow](https://open.spotify.com/album/1TwYZEHm1MRXmtGAgmCyHc) | 3:12 |
 
-Snapshot ID: `AAAAACtyqIyzqzJC47LSpsz8ncSvnsxK`
+Snapshot ID: `aDXvbwAAAACTuNM/nX2MJM949wB+AYC1`

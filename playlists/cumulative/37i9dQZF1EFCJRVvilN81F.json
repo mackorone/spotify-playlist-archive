@@ -2097,6 +2097,28 @@
     },
     {
       "album": {
+        "name": "Look Easy",
+        "url": "https://open.spotify.com/album/0XCbNyUbT3873z30JAwkbi"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165219,
+      "name": "Look Easy",
+      "url": "https://open.spotify.com/track/0JzPnwc3eDdyBeReXFLgXr"
+    },
+    {
+      "album": {
         "name": "Motive",
         "url": "https://open.spotify.com/album/2IVlGSUdl1ZTeSjOj8tMEr"
       },

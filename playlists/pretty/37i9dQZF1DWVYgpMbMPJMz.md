@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > Experience the lastest and the greatest Worship music right here, right now\. Cover:  ELEVATION RHYTHM
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,030,870 likes - 100 songs - 8 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,030,928 likes - 100 songs - 8 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Sommeren er her!🍹
 
-210 songs - 10 hr 59 min
+211 songs - 11 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Glimt i Øyet](https://open.spotify.com/track/6KkiKNruXUDQAIP43Ap9LG) | [Vidar Villa](https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg) | [Glimt i Øyet](https://open.spotify.com/album/4De11wbb5m0QqyQTK4yOyr) | 2:20 | 2024-06-27 | 2024-07-18 |
 | [God Knows](https://open.spotify.com/track/0yOwc5hOnEQSgDTApRPgzC) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [God Knows](https://open.spotify.com/album/3G3sTPzTb0R6OQTt3nJI7i) | 2:50 | 2025-04-10 |  |
 | [God Morgen](https://open.spotify.com/track/5LKdZiz1TDHGarVoQa1RTX) | [Thomas Dybdahl](https://open.spotify.com/artist/6kUglM25Mvn6Uy7EDXsT1n), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [God Morgen](https://open.spotify.com/album/4kNtCWLFDsDLghPT97tndQ) | 2:51 | 2025-02-06 |  |
+| [Gold](https://open.spotify.com/track/3hZo9UznjcWfJ9vkOho6Ea) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute, A Moment...](https://open.spotify.com/album/02Im7TTPFgjVmXc3HpIkUj) | 2:44 | 2025-05-29 |  |
 | [Good Riddance](https://open.spotify.com/track/0pnmZiwIMLCCkCoOhtLnnh) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [Good Riddance](https://open.spotify.com/album/6jkkWXtKtdAxip4kYJMaJL) | 2:51 | 2024-06-27 | 2024-10-13 |
 | [Gå bli lykkelig, du](https://open.spotify.com/track/7BW1YkNQ1lsCKBE2UXXQpS) | [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Gå bli lykkelig, du](https://open.spotify.com/album/4jp2qk1lRXaEk8FhnvKm2g) | 3:07 | 2024-06-27 |  |
 | [Gåsehud](https://open.spotify.com/track/0dAy0Cq4PwkJ3wG0uOjwj6) | [Jesper Jenset](https://open.spotify.com/artist/4Q6zYbQ2MrKiEWTGB3yrPv) | [Gåsehud](https://open.spotify.com/album/5a00VOr6oBmZeFhHzz6qqt) | 2:32 | 2024-06-27 | 2024-07-06 |
@@ -147,7 +148,7 @@
 | [Om du tror på oss](https://open.spotify.com/track/4x8DtLpcjCTMrFym0aS5kL) | [Eva Weel Skram](https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3), [Erlend Ropstad](https://open.spotify.com/artist/5DEpvCUOqEagldzoh25m1t) | [Om du tror på oss](https://open.spotify.com/album/7kE6Q0jwl7Wr1icIIFwQQ6) | 3:50 | 2024-09-05 | 2025-05-17 |
 | [Om hundre år](https://open.spotify.com/track/0fQ46jJDD5pjok8iX7XuCX) | [Ulrikke](https://open.spotify.com/artist/5h9tiTx6BP5l5ZCrI7cUYh) | [Om hundre år](https://open.spotify.com/album/4Q7zV0oamgMerg3QsWhmJ9) | 2:35 | 2024-06-27 | 2024-11-13 |
 | [Over deg](https://open.spotify.com/track/5x84ULxcLPCFWHBwEmuGuV) | [Morgan Sulele](https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X) | [Over deg](https://open.spotify.com/album/0Mctxv1ffjDMh8aWvY8qyR) | 2:27 | 2024-06-27 | 2025-05-13 |
-| [Part Of The Story](https://open.spotify.com/track/6jS0yEHw2vNXyCbY1DJJU4) | [Emma Jensen](https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS) | [Part Of The Story](https://open.spotify.com/album/7jUYwxe12GrrCeFQjL6HsG) | 3:07 | 2024-09-05 |  |
+| [Part Of The Story](https://open.spotify.com/track/6jS0yEHw2vNXyCbY1DJJU4) | [Emma Jensen](https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS) | [Part Of The Story](https://open.spotify.com/album/7jUYwxe12GrrCeFQjL6HsG) | 3:07 | 2024-09-05 | 2025-05-30 |
 | [Peiling feat\. Øystein Greni](https://open.spotify.com/track/7ezryXKj7BMWtsfdp5o8kX) | [Klossmajor](https://open.spotify.com/artist/1XgbkJNbyHcYaa4WAjGlCc), [Greni](https://open.spotify.com/artist/7GgksazCOqOwZE9IoCpDLg) | [Peiling feat\. Øystein Greni](https://open.spotify.com/album/29D39IIN621Usm8AB3mv3l) | 3:20 | 2024-09-12 | 2024-10-07 |
 | [People Come And Go](https://open.spotify.com/track/4aHmZq4scHbduZcGKqv28T) | [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg) | [People Come And Go](https://open.spotify.com/album/6proxaDXCxD6lCrYjIeUmN) | 2:34 | 2024-06-27 | 2025-01-12 |
 | [Peter Pan](https://open.spotify.com/track/3RjdGUE2Dpu8NjiHqnO0ca) | [Vidar Villa](https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg), [Erik Og Kriss](https://open.spotify.com/artist/2rCu8D8ST7i3lUILyB3yQR) | [Peter Pan](https://open.spotify.com/album/70DAZvZQlwYnJxsGTRZdHn) | 2:49 | 2024-06-27 | 2024-10-25 |

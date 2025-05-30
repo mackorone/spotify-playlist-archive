@@ -2,9 +2,9 @@
 
 ### [Made in France](https://open.spotify.com/playlist/37i9dQZF1DWSrj7tqQ9IOu)
 
-> The best French indie tracks right now\. Cover : Kazy Lambist
+> The best French indie tracks right now\. Cover : Odetto
 
-642 songs - 1 day 10 hr 49 min
+643 songs - 1 day 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [family and friends](https://open.spotify.com/track/3CkNXbhCLFk4o7GJduateb) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [family and friends](https://open.spotify.com/album/6y6YITcW11LC9K83uH6XYR) | 2:56 | 2024-09-19 | 2025-04-04 |
 | [Fantasy Girl](https://open.spotify.com/track/75CoiQTM3XHWSmm4XlfM20) | [Novaé Lita](https://open.spotify.com/artist/1tZ9lQ62KmVFephCl3hfB6) | [Fantasy Girl](https://open.spotify.com/album/2PPmrh2GUeD42U42NWMO9v) | 2:06 | 2022-06-30 | 2022-10-14 |
 | [Feux follets](https://open.spotify.com/track/7fSPvXfHmeLdFZXCMuLLnP) | [Flavien Berger](https://open.spotify.com/artist/5PyU5aVBI66v0pkCIvEJfu) | [Feux follets](https://open.spotify.com/album/3akneBnhOBkOhH4NdLVsqk) | 3:40 | 2023-02-23 | 2023-03-10 |
+| [FEVER 105](https://open.spotify.com/track/3L3UJWqBEbHR6j8gT55zpO) | [Odetto](https://open.spotify.com/artist/24VFUtoeBmyKFwkl2pVtHF) | [SUNSET RADIO](https://open.spotify.com/album/490REHUgcRRvvuEMqFxUwQ) | 2:23 | 2025-05-29 |  |
 | [Film d’amour](https://open.spotify.com/track/3Uy9lHCTF8lRpwg9ribsyj) | [La Belle Vie](https://open.spotify.com/artist/7MrDzS5aCy6jjBVqRidPCY) | [Film d’amour](https://open.spotify.com/album/0khmF7ztwpwP4azahusqyn) | 2:36 | 2022-09-22 | 2022-10-14 |
 | [Fini](https://open.spotify.com/track/7pUBjhrCRk88cbJUoR6XN0) | [Nusky & Vaati](https://open.spotify.com/artist/4hQg3HQhXpqDWA0xi8rplg), [Olympe Chabert](https://open.spotify.com/artist/5vAhRi3Q9OFWN9C8pO3oTp) | [Fini](https://open.spotify.com/album/4eHjBgxRJKIjricewTA4kB) | 2:58 | 2022-09-08 | 2022-09-30 |
 | [Fireflies](https://open.spotify.com/track/2w5qTNK3kadYOs8pgc2JRM) | [Pearl & The Oysters](https://open.spotify.com/artist/7ovvjgqrTeuMxbzIykUqDs) | [Coast 2 Coast](https://open.spotify.com/album/6y5kCZvxD1Oq5M385icFT9) | 2:44 | 2023-04-20 | 2023-06-30 |
@@ -329,7 +330,7 @@
 | [Le fil \(feat\. Cassandra Jenkins\)](https://open.spotify.com/track/1kXKd5gFgy9DEVcjs8zEg5) | [Frànçois & The Atlas Mountains](https://open.spotify.com/artist/1mHTS3stAYCszPZ2PRa8QU), [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [Le fil](https://open.spotify.com/album/6zTZl7sQZaMbEXJn2qImRp) | 3:05 | 2025-04-03 | 2025-04-11 |
 | [le moment présent](https://open.spotify.com/track/6kxkOZuhy1MhEG6OA0cwvR) | [Mélodie Lauret](https://open.spotify.com/artist/4gceoi6b3eqGyx9dLQU1S4) | [le moment présent](https://open.spotify.com/album/5sjPwPZ68bK6CBrh1hIWT4) | 2:49 | 2022-01-20 | 2022-06-10 |
 | [Le plus beau spectacle](https://open.spotify.com/track/6haDeFzU2VjvjR8XRLln1F) | [Claire days](https://open.spotify.com/artist/51Vw9YWwshaKc9xqtHnNES) | [Le plus beau spectacle](https://open.spotify.com/album/7kZbRxL3VXbGOLagL7LihD) | 3:44 | 2023-09-21 | 2023-10-20 |
-| [Le roi Soleil](https://open.spotify.com/track/2g7Cd0qBGSnk0cLIfVgBYu) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Le roi Soleil](https://open.spotify.com/album/2vdlNxxtxH7gB1xlCOCAJz) | 2:58 | 2025-03-13 |  |
+| [Le roi Soleil](https://open.spotify.com/track/2g7Cd0qBGSnk0cLIfVgBYu) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Le roi Soleil](https://open.spotify.com/album/2vdlNxxtxH7gB1xlCOCAJz) | 2:58 | 2025-03-13 | 2025-05-30 |
 | [Le soleil revient sans toi](https://open.spotify.com/track/0b0zIcKGft8yTZv2gqXSxu) | [Victor Marc](https://open.spotify.com/artist/7tiOyhvxRgmYnPfxYgm0kX) | [Out Loud](https://open.spotify.com/album/0LGn3ez9k4sgR5WT2XFD0i) | 3:23 | 2023-04-20 | 2023-06-02 |
 | [Le Summerlove](https://open.spotify.com/track/5XwFXBpMTtxzAy9KniGwm6) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Le Summerlove](https://open.spotify.com/album/42J5qshFUBSi2mXh1fzEjY) | 3:38 | 2023-06-22 | 2023-10-20 |
 | [Le Tuto](https://open.spotify.com/track/7CQWOTljGv2tc9leEARsTa) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf), [Jacques](https://open.spotify.com/artist/55i4AnS7E58y41UwE0vvQh) | [Le Tuto](https://open.spotify.com/album/6DMKItPu49cvlJmiKC0qdL) | 3:30 | 2022-05-06 | 2022-11-25 |

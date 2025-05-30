@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Lynda x Imen Es",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Franglish",
   "name": "R&Bae",
   "tracks": [
     {
@@ -306,6 +306,24 @@
       "duration_ms": 203050,
       "name": "Assez (\u00e9pisode 1)",
       "url": "https://open.spotify.com/track/5knL7kkdGRwHHS1sjZIH5H"
+    },
+    {
+      "album": {
+        "name": "MOSA\u00cfQUE",
+        "url": "https://open.spotify.com/album/1x2v9tCJZfJim0MK8XsjLa"
+      },
+      "artists": [
+        {
+          "name": "Says'z",
+          "url": "https://open.spotify.com/artist/2vCOfKQ7WFyWmuHbTz7OgG"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182328,
+      "name": "ASSEZ PARL\u00c9",
+      "url": "https://open.spotify.com/track/5MtAMhPPcxZRJZESgmOGIN"
     },
     {
       "album": {
@@ -3086,7 +3104,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 147577,
       "name": "Gasolina",
       "url": "https://open.spotify.com/track/7Hwn5z2dXDuySagXsig3YO"
@@ -3489,6 +3507,24 @@
     },
     {
       "album": {
+        "name": "Il Aimerait Bien",
+        "url": "https://open.spotify.com/album/1a2YLaQJEoHm85oX5RQZvw"
+      },
+      "artists": [
+        {
+          "name": "Tayron Kwidan's",
+          "url": "https://open.spotify.com/artist/1wlqglR1kdPF2T0Rxee11v"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160750,
+      "name": "Il Aimerait Bien",
+      "url": "https://open.spotify.com/track/1amJMgQQXSazfvzDkqASGx"
+    },
+    {
+      "album": {
         "name": "Ils se demandent",
         "url": "https://open.spotify.com/album/18g5YnnItpU6UQJS7k6Iva"
       },
@@ -3703,6 +3739,24 @@
     },
     {
       "album": {
+        "name": "J'en veux encore",
+        "url": "https://open.spotify.com/album/0wJ83M3KizDfFGf5LiW60L"
+      },
+      "artists": [
+        {
+          "name": "Kayson",
+          "url": "https://open.spotify.com/artist/4ex04kxzPLbhN4Tfm5dTiV"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159425,
+      "name": "J'en veux encore",
+      "url": "https://open.spotify.com/track/4C8vFljFZVerwc1nL1AC9e"
+    },
+    {
+      "album": {
         "name": "AI",
         "url": "https://open.spotify.com/album/6RcthwbXq2HDWUfIQ2jcmB"
       },
@@ -3714,7 +3768,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 224791,
       "name": "J'FAIS COMMENT",
       "url": "https://open.spotify.com/track/2DBIkYuS4PvDaXEJqj2vTn"
@@ -5978,7 +6032,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 140952,
       "name": "OU",
       "url": "https://open.spotify.com/track/2aRQ3urYDd2FhUE8nZrmGN"
@@ -6446,7 +6500,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 134725,
       "name": "Pas possible",
       "url": "https://open.spotify.com/track/0OgwMkXizRh9pM3lrqEhO0"
@@ -8256,6 +8310,24 @@
       "duration_ms": 173572,
       "name": "Ta route",
       "url": "https://open.spotify.com/track/6h6nAsj4uE5IJBVZmzUXKK"
+    },
+    {
+      "album": {
+        "name": "Tard le soir",
+        "url": "https://open.spotify.com/album/7kltj67JI1nXGcKIZMUE2R"
+      },
+      "artists": [
+        {
+          "name": "7iaa",
+          "url": "https://open.spotify.com/artist/753CpLj7OaZZbx5qLWHFpl"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142142,
+      "name": "Tard le soir",
+      "url": "https://open.spotify.com/track/4dFIxIkXMTUk3p8DX4xh2x"
     },
     {
       "album": {

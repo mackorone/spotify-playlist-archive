@@ -1,6 +1,6 @@
 {
   "description": "bgl \u00e9 ser original, voc\u00eas j\u00e1 sabem. Foto: Senndy, Alee",
-  "num_followers": 147028,
+  "num_followers": 147033,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
@@ -399,26 +399,6 @@
     {
       "added_at": "2025-05-23 03:01:28",
       "album": {
-        "name": "Direto da Selva",
-        "url": "https://open.spotify.com/album/0BLV2fhIeGJmvzBxwz3NxV"
-      },
-      "artists": [
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "Neyriellen Ferreira",
-          "url": "https://open.spotify.com/artist/0FhGKwqvB6mvHxJB2n3fYl"
-        }
-      ],
-      "duration_ms": 200757,
-      "name": "Amanheceu",
-      "url": "https://open.spotify.com/track/2goHxXjG4BLibbnzapH8ow"
-    },
-    {
-      "added_at": "2025-05-23 03:01:28",
-      "album": {
         "name": "CHTC?",
         "url": "https://open.spotify.com/album/1vEV2f6XN0j4hhDHIXf5I4"
       },
@@ -439,6 +419,26 @@
       "duration_ms": 158400,
       "name": "PIR\u00c2MIDE",
       "url": "https://open.spotify.com/track/0Ncw19NyVuxNsKaQmUnNg6"
+    },
+    {
+      "added_at": "2025-05-23 03:01:28",
+      "album": {
+        "name": "Direto da Selva",
+        "url": "https://open.spotify.com/album/0BLV2fhIeGJmvzBxwz3NxV"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Neyriellen Ferreira",
+          "url": "https://open.spotify.com/artist/0FhGKwqvB6mvHxJB2n3fYl"
+        }
+      ],
+      "duration_ms": 200757,
+      "name": "Amanheceu",
+      "url": "https://open.spotify.com/track/2goHxXjG4BLibbnzapH8ow"
     },
     {
       "added_at": "2025-05-23 03:01:28",
@@ -531,18 +531,30 @@
     {
       "added_at": "2025-05-23 03:01:28",
       "album": {
-        "name": "Replay - Spotify Singles",
-        "url": "https://open.spotify.com/album/4fDELkyBSaTlvCFYFzPB2h"
+        "name": "CHTC?",
+        "url": "https://open.spotify.com/album/1vEV2f6XN0j4hhDHIXf5I4"
       },
       "artists": [
         {
-          "name": "Cryzin",
-          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
+          "name": "Klisman",
+          "url": "https://open.spotify.com/artist/1lpgPh5SV2b2aKmss0AhlY"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        },
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
         }
       ],
-      "duration_ms": 150093,
-      "name": "Replay - Spotify Singles",
-      "url": "https://open.spotify.com/track/7xSqol097FL2kKL4wzE10Z"
+      "duration_ms": 160000,
+      "name": "OURO BRANCO",
+      "url": "https://open.spotify.com/track/6PFsoFrUgww46DSM963is1"
     },
     {
       "added_at": "2025-05-23 03:01:28",
@@ -571,30 +583,18 @@
     {
       "added_at": "2025-05-23 03:01:28",
       "album": {
-        "name": "CHTC?",
-        "url": "https://open.spotify.com/album/1vEV2f6XN0j4hhDHIXf5I4"
+        "name": "Replay - Spotify Singles",
+        "url": "https://open.spotify.com/album/4fDELkyBSaTlvCFYFzPB2h"
       },
       "artists": [
         {
-          "name": "Klisman",
-          "url": "https://open.spotify.com/artist/1lpgPh5SV2b2aKmss0AhlY"
-        },
-        {
-          "name": "NADAMAL",
-          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
-        },
-        {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+          "name": "Cryzin",
+          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
         }
       ],
-      "duration_ms": 160000,
-      "name": "OURO BRANCO",
-      "url": "https://open.spotify.com/track/6PFsoFrUgww46DSM963is1"
+      "duration_ms": 150093,
+      "name": "Replay - Spotify Singles",
+      "url": "https://open.spotify.com/track/7xSqol097FL2kKL4wzE10Z"
     },
     {
       "added_at": "2025-05-23 03:01:28",
@@ -731,34 +731,6 @@
     {
       "added_at": "2025-05-23 03:01:28",
       "album": {
-        "name": "Unique",
-        "url": "https://open.spotify.com/album/2GDpipX0hCd3BWwIaXG7YL"
-      },
-      "artists": [
-        {
-          "name": "Emit\u00ea \u00danico",
-          "url": "https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75"
-        },
-        {
-          "name": "Senndy",
-          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
-        },
-        {
-          "name": "Salve Crazy",
-          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
-        },
-        {
-          "name": "Ryu, The Runner",
-          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
-        }
-      ],
-      "duration_ms": 140338,
-      "name": "Pr\u00f3ximo Passo",
-      "url": "https://open.spotify.com/track/58r4xh2mRnLOGpCd8SJFvO"
-    },
-    {
-      "added_at": "2025-05-23 03:01:28",
-      "album": {
         "name": "MAGIC SHOW (DELUXE)",
         "url": "https://open.spotify.com/album/3QwGvMjTIO0xzb8BrWTRu6"
       },
@@ -783,6 +755,34 @@
       "duration_ms": 166449,
       "name": "C.E.O'S (B\u00d4NUS TRACK)",
       "url": "https://open.spotify.com/track/0euUJLQsKhMThMKO07qk01"
+    },
+    {
+      "added_at": "2025-05-23 03:01:28",
+      "album": {
+        "name": "Unique",
+        "url": "https://open.spotify.com/album/2GDpipX0hCd3BWwIaXG7YL"
+      },
+      "artists": [
+        {
+          "name": "Emit\u00ea \u00danico",
+          "url": "https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75"
+        },
+        {
+          "name": "Senndy",
+          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
+        },
+        {
+          "name": "Salve Crazy",
+          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
+        },
+        {
+          "name": "Ryu, The Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        }
+      ],
+      "duration_ms": 140338,
+      "name": "Pr\u00f3ximo Passo",
+      "url": "https://open.spotify.com/track/58r4xh2mRnLOGpCd8SJFvO"
     },
     {
       "added_at": "2025-05-23 03:01:28",
@@ -855,30 +855,6 @@
     {
       "added_at": "2025-05-23 03:01:28",
       "album": {
-        "name": "Escolhas e Reflexos",
-        "url": "https://open.spotify.com/album/3ZaLuQLnkN8qM9eCeQrBC5"
-      },
-      "artists": [
-        {
-          "name": "Dudu",
-          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
-        },
-        {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
-        },
-        {
-          "name": "Iuri Rio Branco",
-          "url": "https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Pra Se Entorpecer",
-      "url": "https://open.spotify.com/track/7ytjb8ZvBX7hViPXKBJp95"
-    },
-    {
-      "added_at": "2025-05-23 03:01:28",
-      "album": {
         "name": "QMPND",
         "url": "https://open.spotify.com/album/6AVzXJNMTCUDuEH5tI5G4L"
       },
@@ -907,6 +883,30 @@
       "duration_ms": 160004,
       "name": "Esse Cara Sou Eu",
       "url": "https://open.spotify.com/track/1ZT7EVs6OJxUlcGCL3mFM2"
+    },
+    {
+      "added_at": "2025-05-23 03:01:28",
+      "album": {
+        "name": "Escolhas e Reflexos",
+        "url": "https://open.spotify.com/album/3ZaLuQLnkN8qM9eCeQrBC5"
+      },
+      "artists": [
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+        },
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "Iuri Rio Branco",
+          "url": "https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Pra Se Entorpecer",
+      "url": "https://open.spotify.com/track/7ytjb8ZvBX7hViPXKBJp95"
     },
     {
       "added_at": "2025-05-23 03:01:28",
@@ -979,34 +979,6 @@
     {
       "added_at": "2025-05-23 03:01:28",
       "album": {
-        "name": "Escolhas e Reflexos",
-        "url": "https://open.spotify.com/album/3ZaLuQLnkN8qM9eCeQrBC5"
-      },
-      "artists": [
-        {
-          "name": "Dudu",
-          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "Iuri Rio Branco",
-          "url": "https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC"
-        }
-      ],
-      "duration_ms": 213994,
-      "name": "Mundo da Fama",
-      "url": "https://open.spotify.com/track/6vqHCFSzYNzg96n8NoKxHt"
-    },
-    {
-      "added_at": "2025-05-23 03:01:28",
-      "album": {
         "name": "IRRASTRE\u00c1VEL",
         "url": "https://open.spotify.com/album/02xKTYrVQ1gSN8Lo4w7JmG"
       },
@@ -1031,6 +1003,34 @@
       "duration_ms": 182000,
       "name": "N\u00e9 Segredo",
       "url": "https://open.spotify.com/track/4Cjlg0MKu53vqeyLif4n44"
+    },
+    {
+      "added_at": "2025-05-23 03:01:28",
+      "album": {
+        "name": "Escolhas e Reflexos",
+        "url": "https://open.spotify.com/album/3ZaLuQLnkN8qM9eCeQrBC5"
+      },
+      "artists": [
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Iuri Rio Branco",
+          "url": "https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC"
+        }
+      ],
+      "duration_ms": 213994,
+      "name": "Mundo da Fama",
+      "url": "https://open.spotify.com/track/6vqHCFSzYNzg96n8NoKxHt"
     },
     {
       "added_at": "2025-05-23 03:01:28",

@@ -4,7 +4,7 @@
 
 > This is Alaina Castillo\. The essential tracks, all in one playlist.
 
-46 songs - 2 hr 23 min
+47 songs - 2 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [no importa](https://open.spotify.com/track/3HxPAaHSRhO87TxolC3LfO) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [antisocial butterfly](https://open.spotify.com/album/3VjohCH9QginYIiEP4E5Mg) | 2:32 | 2023-12-18 |  |
 | [no vuelvas a mirar atrás](https://open.spotify.com/track/0fDRELbqeJ8nlkZJT3UvwQ) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [no vuelvas a mirar atrás](https://open.spotify.com/album/0aJ6gjjfwHDPEDHeltfuu7) | 4:05 | 2023-12-18 |  |
 | [ocean waves](https://open.spotify.com/track/46IbTqaHrikVVcvgUBbLyJ) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [ocean waves](https://open.spotify.com/album/5LoZ3scFKYTRKeMB4gOBTT) | 3:40 | 2023-12-18 |  |
+| [one & only](https://open.spotify.com/track/7LSCQqpgG89LkdQm2DDlMt) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [one & only](https://open.spotify.com/album/0fpRXGnNNWfSLQ6UILGKIH) | 3:33 | 2025-05-30 |  |
 | [papacito](https://open.spotify.com/track/1GNkILpn4KRDLTfgeewXqi) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [antisocial butterfly](https://open.spotify.com/album/3VjohCH9QginYIiEP4E5Mg) | 3:05 | 2023-12-18 |  |
 | [parallel universe](https://open.spotify.com/track/42nfa64d7w016YFDiZvn4y) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [parallel universe pt\. 1](https://open.spotify.com/album/70LeV0ELqFrNx4KFNTtsaF) | 3:17 | 2023-12-18 |  |
 | [party in my head \(ur not invited\)](https://open.spotify.com/track/5EPBBxuMALRFTMimsm1OsX) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [party in my head \(ur not invited\)](https://open.spotify.com/album/3imQuJ7FuS85XSHrsAkTCy) | 3:03 | 2023-12-18 |  |

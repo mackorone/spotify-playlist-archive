@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-2,326 songs - 3 day 16 hr 40 min
+2,327 songs - 3 day 16 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,6 +287,7 @@
 | [Bunch Of Flowers](https://open.spotify.com/track/6DBneGJiUSPIKNRTOAsP1V) | [sleepsleepsleep](https://open.spotify.com/artist/014LowNhgN2d8KreuoFRFd) | [Bunch Of Flowers](https://open.spotify.com/album/0pK0K5qYpRjbF5RRCDYtG5) | 1:52 | 2023-08-31 | 2024-10-08 |
 | [Buoyant Time](https://open.spotify.com/track/10ka1GxK5M8AJxzc21XzeW) | [Boukas](https://open.spotify.com/artist/59yn6qYpXksMH0N6y42Hnj), [Math\-Mic](https://open.spotify.com/artist/5ZtY0L9BEnWtTcPZyNVKV3), [Kristoffer Eikrem](https://open.spotify.com/artist/2TxDDfPwhWPoKJKhEcnv3h) | [Buoyant Time](https://open.spotify.com/album/2H553rKRXK4SBpXJvOxvC6) | 2:39 | 2022-07-01 | 2022-11-26 |
 | [butter](https://open.spotify.com/track/2gouQWJVOdLrjfAF6N1WIg) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [butter](https://open.spotify.com/album/564uFHwoXpTQUR8RkRDJjS) | 2:18 | 2023-12-08 | 2024-08-31 |
+| [butterflies](https://open.spotify.com/track/2rSvj3ijnLX9hQh7yfN5QN) | [herbstreit](https://open.spotify.com/artist/0xEjYcNKVqT5QQOpyas94i) | [butterflies](https://open.spotify.com/album/3w2hAC4HRNyIXW6slXuFBl) | 2:24 | 2025-05-23 |  |
 | [Butterfly Wings](https://open.spotify.com/track/3APXIJxOJapEUUlYE29Dpu) | [Lawrence Walther](https://open.spotify.com/artist/40GMyQ5sv1bfiui9CrEPME), [Solar Body](https://open.spotify.com/artist/74xLamiAg7I4qmr2XsOddO) | [Butterfly Wings](https://open.spotify.com/album/7BJ0oYYtU7NPWNJtTP9rJt) | 2:24 | 2022-07-29 | 2022-10-01 |
 | [Butternut Cake](https://open.spotify.com/track/6jaeklBeX4iRE3YO1Nsk4U) | [Wruce Billis](https://open.spotify.com/artist/4EhDrnqEaFfNnjJkljUmRx) | [Butternut Cake](https://open.spotify.com/album/4pHMXFrovfUgJcbGmeHVYf) | 2:13 | 2022-08-05 | 2022-12-09 |
 | [Buttersweet](https://open.spotify.com/track/1d5pAGQRJ9ROCOuxK52uED) | [Moox](https://open.spotify.com/artist/0ujZnGAenOcihPvgnnY2qq) | [Buttersweet](https://open.spotify.com/album/6GuzaGSiWBXbyRcOMAgsBJ) | 2:57 | 2023-09-08 |  |
@@ -2247,7 +2248,7 @@
 | [Wayfaring](https://open.spotify.com/track/3ynWRmI6SdEgOkbgGlBugn) | [landlooper](https://open.spotify.com/artist/38qqfsLO3vaDBewodzX1V1) | [Wayfaring](https://open.spotify.com/album/0YLWE89Jnt4ieSkMlDo737) | 2:03 | 2022-12-09 | 2023-09-16 |
 | [We Are Love](https://open.spotify.com/track/5wZetUDyN1GQypcfUyxPqo) | [Lucavietski](https://open.spotify.com/artist/27PTN8da910Uo2RPCfpFKR) | [Amont](https://open.spotify.com/album/3qsbn82SoavBcdk4BBbrQV) | 1:57 | 2022-04-15 | 2024-05-14 |
 | [we can't stop](https://open.spotify.com/track/3Oj7VRZouZd62WHNYfkXeH) | [mr mirakami](https://open.spotify.com/artist/2578z8LcqKTw0ccvtDAQoU) | [we can't stop](https://open.spotify.com/album/5kyTtWqm0bm5lPyVhSzh3X) | 2:42 | 2022-11-11 | 2023-02-07 |
-| [We Go Right Slow](https://open.spotify.com/track/0NQJZm1zltok1SzR23FQ8a) | [Boozoo Bajou](https://open.spotify.com/artist/2I36EjIVz3vDfROgj1MfZ3), [MODALiST](https://open.spotify.com/artist/5cc4ReQTEtmtqo5x6jxp3q) | [We Go Right Slow](https://open.spotify.com/album/2olFvEYT1n5FVUe8UhN5AQ) | 2:31 | 2023-08-31 |  |
+| [We Go Right Slow](https://open.spotify.com/track/0NQJZm1zltok1SzR23FQ8a) | [Boozoo Bajou](https://open.spotify.com/artist/2I36EjIVz3vDfROgj1MfZ3), [MODALiST](https://open.spotify.com/artist/5cc4ReQTEtmtqo5x6jxp3q) | [We Go Right Slow](https://open.spotify.com/album/2olFvEYT1n5FVUe8UhN5AQ) | 2:31 | 2023-08-31 | 2025-05-30 |
 | [We Like Boats](https://open.spotify.com/track/4RDLmSWAAclqGARTOJew4d) | [Cosmic Nuit](https://open.spotify.com/artist/46LH6chzwNfYqkt6AklmZk) | [We Like Boats](https://open.spotify.com/album/11QxCHKgmvDoKv6zVV93sx) | 2:28 | 2024-04-12 | 2024-06-24 |
 | [We're All Dreaming](https://open.spotify.com/track/1XZ5JfMiSXyQC4leCH23OD) | [Sweatson Klank](https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT) | [We're All Dreaming](https://open.spotify.com/album/5TnRdDx2fJ1uQHcozY8CJu) | 2:02 | 2022-10-28 | 2023-01-20 |
 | [Wecki](https://open.spotify.com/track/4FgEcQBlEHG8JyKdYgL8uz) | [Sabo Tan](https://open.spotify.com/artist/3XkkVh8jU3QiGPiC8N5RBS) | [Wecki](https://open.spotify.com/album/1QsoRzYNsWn1eqOkVNvLC3) | 2:07 | 2022-04-15 | 2022-04-22 |

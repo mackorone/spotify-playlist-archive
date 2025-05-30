@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: PUN",
+  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: LYKN",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -2287,6 +2287,28 @@
     },
     {
       "album": {
+        "name": "No, Thanks",
+        "url": "https://open.spotify.com/album/2FxYVAPE0C4mgkbQ60nZF2"
+      },
+      "artists": [
+        {
+          "name": "ALLY",
+          "url": "https://open.spotify.com/artist/4dkCB7FJeRXK6OWpal7zpw"
+        },
+        {
+          "name": "JETAIME",
+          "url": "https://open.spotify.com/artist/4DImmn6dNLKXoV6KsC17tu"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189575,
+      "name": "No, Thanks",
+      "url": "https://open.spotify.com/track/1xWL6T7rMwIxw39tv8JGVp"
+    },
+    {
+      "album": {
         "name": "BLOOM",
         "url": "https://open.spotify.com/album/4edPsEhpxL35cl5meC5vvJ"
       },
@@ -2872,7 +2894,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 237527,
       "name": "Someone Someday",
       "url": "https://open.spotify.com/track/6AkBrA64ZQjNMBiqMmH9xb"
@@ -4510,7 +4532,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 234857,
       "name": "\u0e04\u0e27\u0e32\u0e21\u0e23\u0e31\u0e01\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e19\u0e48\u0e32\u0e01\u0e25\u0e31\u0e27\u0e02\u0e19\u0e32\u0e14\u0e19\u0e31\u0e49\u0e19 (TRUST ME)",
       "url": "https://open.spotify.com/track/7fY7jCjncVuEsDYzvdHl7h"
@@ -6088,6 +6110,24 @@
       "duration_ms": 204774,
       "name": "\u0e15\u0e48\u0e2d\u0e43\u0e2b\u0e49\u0e40\u0e18\u0e2d\u0e2d\u0e22\u0e39\u0e48\u0e44\u0e01\u0e25 (Moon to Mars)",
       "url": "https://open.spotify.com/track/5GFLKQNrG9WULCp3AxDXyo"
+    },
+    {
+      "album": {
+        "name": "\u0e15\u0e48\u0e2d\u0e43\u0e2b\u0e49\u0e42\u0e25\u0e01\u0e43\u0e08\u0e23\u0e49\u0e32\u0e22 (Letter For My Dear)",
+        "url": "https://open.spotify.com/album/3GgTx1hooyhErh90NIiOqu"
+      },
+      "artists": [
+        {
+          "name": "PRETZELLE",
+          "url": "https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220404,
+      "name": "\u0e15\u0e48\u0e2d\u0e43\u0e2b\u0e49\u0e42\u0e25\u0e01\u0e43\u0e08\u0e23\u0e49\u0e32\u0e22 (Letter For My Dear)",
+      "url": "https://open.spotify.com/track/2DxR9zFGK3esOF2SpDNI3q"
     },
     {
       "album": {
@@ -8999,7 +9039,7 @@
     },
     {
       "album": {
-        "name": "\u0e28\u0e31\u0e15\u0e23\u0e39\u0e2b\u0e31\u0e27\u0e43\u0e08",
+        "name": "\u0e28\u0e31\u0e15\u0e23\u0e39\u0e2b\u0e31\u0e27\u0e43\u0e08 (Your Worst Enemy!)",
         "url": "https://open.spotify.com/album/1fjJUG6rKppH8yi7TpQuHd"
       },
       "artists": [
@@ -9012,7 +9052,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 234843,
-      "name": "\u0e28\u0e31\u0e15\u0e23\u0e39\u0e2b\u0e31\u0e27\u0e43\u0e08",
+      "name": "\u0e28\u0e31\u0e15\u0e23\u0e39\u0e2b\u0e31\u0e27\u0e43\u0e08 (Your Worst Enemy!)",
       "url": "https://open.spotify.com/track/1QeihgIm5rv63E2hl4n6Vh"
     },
     {
@@ -10575,6 +10615,24 @@
     },
     {
       "album": {
+        "name": "\u0e40\u0e14\u0e32\u0e2a\u0e34! (Guess What ?)",
+        "url": "https://open.spotify.com/album/6GaJV2c7xOoYjBGnlCQeeX"
+      },
+      "artists": [
+        {
+          "name": "MXFRUIT",
+          "url": "https://open.spotify.com/artist/556NsleNBrQWCLjVHoPQ6G"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225762,
+      "name": "\u0e40\u0e14\u0e32\u0e2a\u0e34! (Guess What ?)",
+      "url": "https://open.spotify.com/track/2SncDJjLjtG4kLU2SNGWOe"
+    },
+    {
+      "album": {
         "name": "This City Won\u2019t Be Lonely Anymore",
         "url": "https://open.spotify.com/album/3ChHwbwIhGCH4gprc66ZgU"
       },
@@ -11352,7 +11410,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 180800,
       "name": "\u0e40\u0e25\u0e48\u0e19\u0e43\u0e08\u0e1b\u0e49\u0e30? (Prompt Play)",
       "url": "https://open.spotify.com/track/4pzUumuhlcAQlFr0PeMTV1"

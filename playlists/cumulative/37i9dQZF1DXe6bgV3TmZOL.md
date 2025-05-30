@@ -4,7 +4,7 @@
 
 > If your workout doubles as an outlet for your aggression, this is the playlist for you.
 
-491 songs - 1 day 7 hr 8 min
+492 songs - 1 day 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -391,6 +391,7 @@
 | [Soft](https://open.spotify.com/track/7petzbAJP403GAY6F3Zfbx) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Graveyard Shift](https://open.spotify.com/album/5ucBd1GYFRg0uVhP4a4AY6) | 3:30 | 2024-08-03 | 2024-08-19 |
 | [Soft Spine](https://open.spotify.com/track/3t5GlWUzGSt2lPuiSEPBFG) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Soft Spine](https://open.spotify.com/album/54Upk1Q8DmVaMR2MrOvoiR) | 3:03 | 2025-01-28 |  |
 | [Soldiers](https://open.spotify.com/track/1iWgFnhR0oW5Mup8yXDAPW) | [Otherwise](https://open.spotify.com/artist/1OVyBGCKn7vObVIVPXcmLa) | [Soldiers](https://open.spotify.com/album/6wI2K6ApwaqRa80EEQlLzZ) | 4:01 | 2022-07-13 | 2022-11-03 |
+| [Song 3](https://open.spotify.com/track/7eDUTBIo76AMC5UYqkkzDL) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m) | [Song 3](https://open.spotify.com/album/0Cxa2LwLEBIpVglPWwiias) | 3:34 | 2025-05-23 |  |
 | [Soul Addiction](https://open.spotify.com/track/2rndJFlCviXXiJNzvO611d) | [Sylar](https://open.spotify.com/artist/78vP5COn64VXULgkIQovEA) | [Help!](https://open.spotify.com/album/1r0tlmUi9yhI7b3DgaIr6C) | 3:29 | 2022-07-13 | 2022-07-15 |
 | [Sound the Alarm](https://open.spotify.com/track/2aFsfzUuXuxDr4xo8ndfUt) | [Shallow Side](https://open.spotify.com/artist/4i4Ra7cGv6zxiRtRSrhm1I) | [Sound the Alarm](https://open.spotify.com/album/7myHqhsaTgKoamdL7xJrAJ) | 3:42 | 2021-11-12 | 2022-07-29 |
 | [Spit Not Chewed](https://open.spotify.com/track/0zRhCapl7Kx8plxl1ILKS0) | [My Ticket Home](https://open.spotify.com/artist/4g3JlT9j18DeWH7gr1uF6L) | [Strangers Only](https://open.spotify.com/album/20iMMfAHx6asceI2THqasu) | 3:22 | 2022-07-13 | 2022-07-15 |
@@ -409,7 +410,7 @@
 | [SYSTEMATIC](https://open.spotify.com/track/7LRotHDhVHU9FE7oWhuFTL) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a) | [SLEEPS SOCIETY](https://open.spotify.com/album/0wotrj0XrHFh7x2FVvsuA1) | 2:56 | 2022-07-13 | 2023-05-05 |
 | [Take Me Away](https://open.spotify.com/track/1dRNVcT3YL3BOpuJ32YcP6) | [Uncured](https://open.spotify.com/artist/6YicvYF7Qo1FxNt903gAMh) | [Take Me Away](https://open.spotify.com/album/7tj8V5fWTSGXSCcVppqyAT) | 4:01 | 2022-02-10 | 2022-04-21 |
 | [Take Out the Gunman](https://open.spotify.com/track/5I1ueVGJA6VZRkgkMyiHcP) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [La Gárgola](https://open.spotify.com/album/6ctiVzuLDrwlsHkgsatIqg) | 4:18 | 2022-07-13 |  |
-| [Talk To Me \(feat\. Lzzy Hale\)](https://open.spotify.com/track/00i9VF7sjSaTqblAuKFBDO) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I), [Lzzy Hale](https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY) | [Talk To Me \(feat\. Lzzy Hale\)](https://open.spotify.com/album/3W8ep9kCGVEf5TLFtRRB2T) | 3:28 | 2021-11-12 |  |
+| [Talk To Me \(feat\. Lzzy Hale\)](https://open.spotify.com/track/00i9VF7sjSaTqblAuKFBDO) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I), [Lzzy Hale](https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY) | [Talk To Me \(feat\. Lzzy Hale\)](https://open.spotify.com/album/3W8ep9kCGVEf5TLFtRRB2T) | 3:28 | 2021-11-12 | 2025-05-30 |
 | [Teardrops](https://open.spotify.com/track/3aniWcwiiYKHpm3F5TdeKD) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Teardrops](https://open.spotify.com/album/4U4nKoTy4lsQlUoaGqg8U4) | 3:35 | 2021-11-12 |  |
 | [Tekkno Train](https://open.spotify.com/track/1XK0SrwnujLMZv22WjVQU9) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [TEKKNO](https://open.spotify.com/album/1RCinQ2MnD8yNRsXKpeKFg) | 2:57 | 2023-04-04 | 2025-02-15 |
 | [That Day](https://open.spotify.com/track/2iENCWE4DYyyAh9hXrxIb1) | [Nonpoint](https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z) | [Nonpoint](https://open.spotify.com/album/0cc0ETfgELM6PpCc9rz6yE) | 3:30 | 2022-07-13 | 2022-07-29 |

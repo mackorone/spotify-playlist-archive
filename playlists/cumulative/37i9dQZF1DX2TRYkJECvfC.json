@@ -565,6 +565,28 @@
     },
     {
       "album": {
+        "name": "Another New Day (Kid Fonque Refix)",
+        "url": "https://open.spotify.com/album/1dpozHC4wjKMkthcHwXP6q"
+      },
+      "artists": [
+        {
+          "name": "Jazzanova",
+          "url": "https://open.spotify.com/artist/0nTErwSOllrcUWt3knOG2T"
+        },
+        {
+          "name": "Kid Fonque",
+          "url": "https://open.spotify.com/artist/6hPLYDljt7lCTao1bx1Dcp"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 539750,
+      "name": "Another New Day - Kid Fonque Refix",
+      "url": "https://open.spotify.com/track/21imcRqjDk4hgbjmEJ1ESP"
+    },
+    {
+      "album": {
         "name": "Another Time",
         "url": "https://open.spotify.com/album/6puL9vl482M9AKa3fm7v3B"
       },
@@ -8320,7 +8342,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 459592,
       "name": "Renaissance",
       "url": "https://open.spotify.com/track/1mqPLbDc8DCRlTuyF26ste"

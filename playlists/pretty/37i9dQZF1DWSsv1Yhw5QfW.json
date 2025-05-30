@@ -1,6 +1,6 @@
 {
   "description": "Ag\u00e1rrense fuerte.",
-  "num_followers": 143298,
+  "num_followers": 143350,
   "original_name": "Lentos",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-06-14 18:07:20",
       "album": {
-        "name": "Soul Provider",
-        "url": "https://open.spotify.com/album/5g9LXOhTPW9Iow6GZPRg2D"
-      },
-      "artists": [
-        {
-          "name": "Michael Bolton",
-          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
-        }
-      ],
-      "duration_ms": 255666,
-      "name": "How Am I Supposed to Live Without You",
-      "url": "https://open.spotify.com/track/3RMeOetCdXttthQK0clPuz"
-    },
-    {
-      "added_at": "2024-06-14 18:07:20",
-      "album": {
         "name": "The Earth Is...",
         "url": "https://open.spotify.com/album/3tbuKVVtZTGT7iwZo60sN3"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 272626,
       "name": "Without You",
       "url": "https://open.spotify.com/track/0aW5JH6RnfTv5cGvPS3cca"
+    },
+    {
+      "added_at": "2024-06-14 18:07:20",
+      "album": {
+        "name": "Soul Provider",
+        "url": "https://open.spotify.com/album/5g9LXOhTPW9Iow6GZPRg2D"
+      },
+      "artists": [
+        {
+          "name": "Michael Bolton",
+          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
+        }
+      ],
+      "duration_ms": 255666,
+      "name": "How Am I Supposed to Live Without You",
+      "url": "https://open.spotify.com/track/3RMeOetCdXttthQK0clPuz"
     },
     {
       "added_at": "2024-06-14 18:07:20",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-06-14 18:07:20",
       "album": {
-        "name": "Clapton Chronicles: The Best of Eric Clapton",
-        "url": "https://open.spotify.com/album/6FCakQJ6z6TF0y0qkHYKgy"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 271760,
-      "name": "Tears in Heaven",
-      "url": "https://open.spotify.com/track/7utRJ4BeYx85khzP3lKoBX"
-    },
-    {
-      "added_at": "2024-06-14 18:07:20",
-      "album": {
         "name": "Automatic For The People (U.S. Version)",
         "url": "https://open.spotify.com/album/006Qsi10luS9xEBAcIWGTf"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 318240,
       "name": "Everybody Hurts",
       "url": "https://open.spotify.com/track/4tCWWnk3BXinf7FllmSyHW"
+    },
+    {
+      "added_at": "2024-06-14 18:07:20",
+      "album": {
+        "name": "Clapton Chronicles: The Best of Eric Clapton",
+        "url": "https://open.spotify.com/album/6FCakQJ6z6TF0y0qkHYKgy"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 271760,
+      "name": "Tears in Heaven",
+      "url": "https://open.spotify.com/track/7utRJ4BeYx85khzP3lKoBX"
     },
     {
       "added_at": "2024-06-14 18:07:20",

@@ -334,7 +334,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-29",
+      "date_removed": null,
       "duration_ms": 251785,
       "name": "A Strange Love Song",
       "url": "https://open.spotify.com/track/5SxVJ2qGPoP13ZTZz4yntH"
@@ -2588,7 +2588,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 163106,
       "name": "Coincidence (JEONGHAN Solo)",
       "url": "https://open.spotify.com/track/1BmA9UsLDblr3cmpWPsjti"
@@ -2723,6 +2723,24 @@
     },
     {
       "album": {
+        "name": "Stay Tuned",
+        "url": "https://open.spotify.com/album/1RQpLKsOBrEe71RYdQdsj9"
+      },
+      "artists": [
+        {
+          "name": "Pets Tseng",
+          "url": "https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232336,
+      "name": "Count to Ten",
+      "url": "https://open.spotify.com/track/7Bb2dk76u7tTQxLf1nY9Ne"
+    },
+    {
+      "album": {
         "name": "CRAZY",
         "url": "https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap"
       },
@@ -2846,7 +2864,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 163213,
       "name": "Damage (HOSHI Solo) (feat. Timbaland)",
       "url": "https://open.spotify.com/track/6zfIQ48qCIugcDsrdC5tyn"
@@ -3092,7 +3110,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 261186,
       "name": "Destiny (WOOZI Solo)",
       "url": "https://open.spotify.com/track/0z2DWFjnHhuWjlMFqAH4GN"
@@ -11390,7 +11408,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 180026,
       "name": "Skyfall (THE 8 Solo)",
       "url": "https://open.spotify.com/track/6bDbe7hX1w7fVp3kYTZBLh"
@@ -19620,7 +19638,7 @@
       ],
       "date_added": "2025-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-26",
+      "date_removed": null,
       "duration_ms": 309760,
       "name": "\u63a5\u4f4f\u4f60",
       "url": "https://open.spotify.com/track/4cCpt3dT86O3F7OgkK5n8o"
@@ -19732,7 +19750,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-29",
+      "date_removed": null,
       "duration_ms": 238133,
       "name": "\u64f1\u6dfa",
       "url": "https://open.spotify.com/track/0cOMncRq4cmDLO4tPQnkBF"

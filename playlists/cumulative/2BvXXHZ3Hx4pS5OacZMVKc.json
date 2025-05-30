@@ -4047,6 +4047,28 @@
     },
     {
       "album": {
+        "name": "Loner",
+        "url": "https://open.spotify.com/album/6mAchaerPlZme2dUKJnkcL"
+      },
+      "artists": [
+        {
+          "name": "Rudeejay",
+          "url": "https://open.spotify.com/artist/2zC8RU0p5FvJeCPPLVBR8K"
+        },
+        {
+          "name": "NOYSE",
+          "url": "https://open.spotify.com/artist/3e1EBvnyj3mke3HnMa5Uq2"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129123,
+      "name": "Loner",
+      "url": "https://open.spotify.com/track/0ogKCKUg5bZs21RfNTTOqj"
+    },
+    {
+      "album": {
         "name": "Long Night",
         "url": "https://open.spotify.com/album/4E3h3VhCNR88R2hPkM6Z5R"
       },

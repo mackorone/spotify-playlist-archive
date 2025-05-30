@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "C'\u00e8 un nuovo pezzo di Delicatoni e Coca Puma ed \u00e8 proprio qua su Indie Italia \ud83c\udf3b",
+  "description": "Il concerto di Joan Thiele al MI AMI \u00e8 stato bellissimo, e quindi l'abbiamo messo su Indie Italia \ud83c\udf3b (foto di kimberley ross)",
   "name": "Indie Italia",
   "tracks": [
     {
@@ -247,6 +247,24 @@
     },
     {
       "album": {
+        "name": "Acqua passata",
+        "url": "https://open.spotify.com/album/2R14AMf2ubRN99XASbQgFx"
+      },
+      "artists": [
+        {
+          "name": "chiamamifaro",
+          "url": "https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179700,
+      "name": "Acqua passata",
+      "url": "https://open.spotify.com/track/5BdoBBRMswolsuftniTJY7"
+    },
+    {
+      "album": {
         "name": "Aiuto",
         "url": "https://open.spotify.com/album/0KB9RktfD3H7la1lnVEhCT"
       },
@@ -262,7 +280,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 247258,
       "name": "Aiuto",
       "url": "https://open.spotify.com/track/0Mu6W8dVtwdXdQf1UIbBGh"
@@ -1296,6 +1314,24 @@
       "duration_ms": 169965,
       "name": "Decostruire",
       "url": "https://open.spotify.com/track/6WoR1LIrwT7fhah2JVYtEK"
+    },
+    {
+      "album": {
+        "name": "Futuro Dirigibile",
+        "url": "https://open.spotify.com/album/3KrlHusx87ZaCkNYuyK6Ay"
+      },
+      "artists": [
+        {
+          "name": "REA",
+          "url": "https://open.spotify.com/artist/2WIeVc2TB9As3HeTcPpXev"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263023,
+      "name": "Dirigibile",
+      "url": "https://open.spotify.com/track/5OGVgeJOkTBaBUxXZK9hV9"
     },
     {
       "album": {
@@ -2428,7 +2464,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 171080,
       "name": "L'arte di lasciar andare",
       "url": "https://open.spotify.com/track/0TJs01NwMWXasp1DXVTdX9"
@@ -2507,6 +2543,32 @@
     },
     {
       "album": {
+        "name": "FUORI MEN\u00d9",
+        "url": "https://open.spotify.com/album/0CVCnkzMA5oMiAiwgaIY5k"
+      },
+      "artists": [
+        {
+          "name": "Golden Years",
+          "url": "https://open.spotify.com/artist/4x13f8mnFaaoUdFd5PPSgH"
+        },
+        {
+          "name": "ARIETE",
+          "url": "https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8"
+        },
+        {
+          "name": "Lorenzza",
+          "url": "https://open.spotify.com/artist/0zyujuBCFt15GQ86pcAGk6"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134313,
+      "name": "La Distanza (con Ariete & Lorenzza)",
+      "url": "https://open.spotify.com/track/347ILhysXGJPDiF3JLi93m"
+    },
+    {
+      "album": {
         "name": "La ghigliottina",
         "url": "https://open.spotify.com/album/5irwCesxjZvde8AFNOW3at"
       },
@@ -2554,7 +2616,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 184265,
       "name": "La maglia del Lecce",
       "url": "https://open.spotify.com/track/72LyU7iP8CMuSRs48IqjB4"
@@ -3050,7 +3112,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 257120,
       "name": "MENTRE IL MONDO ESPLODE \u0f0a\u0fd4 (con Marco Castello, Ele A)",
       "url": "https://open.spotify.com/track/0GcTjbsHYkOGHBMafWucAd"
@@ -3104,7 +3166,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 275257,
       "name": "Midnight Light",
       "url": "https://open.spotify.com/track/57dXFliDUK856PYFVT8vJg"
@@ -3270,6 +3332,24 @@
       "duration_ms": 189346,
       "name": "Nevermind",
       "url": "https://open.spotify.com/track/0AyoK0LiaCVV32vmzqBkG8"
+    },
+    {
+      "album": {
+        "name": "NEXT",
+        "url": "https://open.spotify.com/album/2F36LMCm7c54Ik6cU0FFjD"
+      },
+      "artists": [
+        {
+          "name": "Willie Peyote",
+          "url": "https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193184,
+      "name": "NEXT",
+      "url": "https://open.spotify.com/track/0RcyTmiVTIN7Fvv7bLkJYx"
     },
     {
       "album": {
@@ -3556,7 +3636,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 319426,
       "name": "Orfeo",
       "url": "https://open.spotify.com/track/5qMQwD5JaI3E0qOIBVOQZI"
@@ -3740,7 +3820,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 159693,
       "name": "Pastafrolla",
       "url": "https://open.spotify.com/track/4whu9uP24T7xYQtc6Q1OC3"
@@ -4306,7 +4386,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 166330,
       "name": "Romantico Ma Muori",
       "url": "https://open.spotify.com/track/5lTTuESHokJHpSsEvvSR64"
@@ -4505,6 +4585,28 @@
     },
     {
       "album": {
+        "name": "FUORI MEN\u00d9",
+        "url": "https://open.spotify.com/album/0CVCnkzMA5oMiAiwgaIY5k"
+      },
+      "artists": [
+        {
+          "name": "Golden Years",
+          "url": "https://open.spotify.com/artist/4x13f8mnFaaoUdFd5PPSgH"
+        },
+        {
+          "name": "Calcutta ",
+          "url": "https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185316,
+      "name": "Sentirsi Soli (con Calcutta)",
+      "url": "https://open.spotify.com/track/7avHfK0CfHjOoZG8UWlVIn"
+    },
+    {
+      "album": {
         "name": "Senza di me",
         "url": "https://open.spotify.com/album/1M92MZmztvndDnorR9wTsU"
       },
@@ -4599,6 +4701,54 @@
     },
     {
       "album": {
+        "name": "FUORI MEN\u00d9",
+        "url": "https://open.spotify.com/album/0CVCnkzMA5oMiAiwgaIY5k"
+      },
+      "artists": [
+        {
+          "name": "Golden Years",
+          "url": "https://open.spotify.com/artist/4x13f8mnFaaoUdFd5PPSgH"
+        },
+        {
+          "name": "Drast",
+          "url": "https://open.spotify.com/artist/4e250LmaRPGcp0rbUbJtJm"
+        },
+        {
+          "name": "faccianuvola",
+          "url": "https://open.spotify.com/artist/5KVUHVqS6B5MZKXf5PXDg1"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124652,
+      "name": "Signorina Ciao (con Drast & faccianuvola)",
+      "url": "https://open.spotify.com/track/082ZTTy7m8mztUHUrDTsu8"
+    },
+    {
+      "album": {
+        "name": "Signorina, buonasera",
+        "url": "https://open.spotify.com/album/3w3vy3NOib5FmLio6uK7kf"
+      },
+      "artists": [
+        {
+          "name": "Colombre",
+          "url": "https://open.spotify.com/artist/6pVyScwe03hSEWuNs0qeJ1"
+        },
+        {
+          "name": "Maria Antonietta",
+          "url": "https://open.spotify.com/artist/6anaeWEVZRRTdhWVMp1wnb"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176140,
+      "name": "Signorina, buonasera",
+      "url": "https://open.spotify.com/track/6x0LM8WZ7T77Jn0MXv36sL"
+    },
+    {
+      "album": {
         "name": "Volevo essere un duro",
         "url": "https://open.spotify.com/album/4ezcDzdWP6orRlN3ft2eCs"
       },
@@ -4650,6 +4800,24 @@
       "duration_ms": 188106,
       "name": "Sottobraccio",
       "url": "https://open.spotify.com/track/1VQKJQjZNPCYJE5EoAzVil"
+    },
+    {
+      "album": {
+        "name": "Sottocosto",
+        "url": "https://open.spotify.com/album/4HBTyRWYk6ySZAs35bbCdM"
+      },
+      "artists": [
+        {
+          "name": "Fulminacci",
+          "url": "https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177541,
+      "name": "Sottocosto",
+      "url": "https://open.spotify.com/track/1vFMS4QY6wVqoDnaRuL0SB"
     },
     {
       "album": {
@@ -4722,7 +4890,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 215013,
       "name": "Stammi bene",
       "url": "https://open.spotify.com/track/21F52gJo0mQifkLHQMS3Ir"
@@ -4886,7 +5054,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 165729,
       "name": "Terra bruciata",
       "url": "https://open.spotify.com/track/7rY0vHCtgNI37kMY9wIkCg"
@@ -5608,7 +5776,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 185185,
       "name": "Volevo essere un duro",
       "url": "https://open.spotify.com/track/5sFbAYktReH4AJbATsGAw8"
@@ -5652,6 +5820,24 @@
       "duration_ms": 173695,
       "name": "Zenzero (con Colapesce)",
       "url": "https://open.spotify.com/track/0lK6Pn6aN9Ce1BCbNFAb7d"
+    },
+    {
+      "album": {
+        "name": "\u00c8 solo un momento",
+        "url": "https://open.spotify.com/album/5w0vtVhoTzKWq8t46pqLwW"
+      },
+      "artists": [
+        {
+          "name": "The Zen Circus",
+          "url": "https://open.spotify.com/artist/7nrxF1ilcwJNHofGUfsC84"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211712,
+      "name": "\u00c8 solo un momento",
+      "url": "https://open.spotify.com/track/6NCYQaMYJ8BM7SscFAcDfF"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX6PSDDh80gxI"

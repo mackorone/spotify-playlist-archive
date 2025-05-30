@@ -1,6 +1,6 @@
 {
   "description": "New indie from black artists driving the current. Cover: Love Spells",
-  "num_followers": 56338,
+  "num_followers": 56351,
   "original_name": "Indie Frequency",
   "owner": {
     "name": "Spotify",
@@ -759,22 +759,6 @@
     {
       "added_at": "2025-05-14 15:13:08",
       "album": {
-        "name": "Magnetic",
-        "url": "https://open.spotify.com/album/3P52UbRhg3RKPUHYzi1kFG"
-      },
-      "artists": [
-        {
-          "name": "Tunde Adebimpe",
-          "url": "https://open.spotify.com/artist/3and7uje1nuMnKJczCKox9"
-        }
-      ],
-      "duration_ms": 150908,
-      "name": "Magnetic",
-      "url": "https://open.spotify.com/track/46BIkntVmeG382rIo93J3d"
-    },
-    {
-      "added_at": "2025-05-14 15:13:08",
-      "album": {
         "name": "Colors",
         "url": "https://open.spotify.com/album/6vHA1k10xssz56inCFbT58"
       },
@@ -795,22 +779,18 @@
     {
       "added_at": "2025-05-14 15:13:08",
       "album": {
-        "name": "ceremonial contrafact (empathogen deluxe)",
-        "url": "https://open.spotify.com/album/7Hz9uSylbLpx6okTdiyIwE"
+        "name": "Magnetic",
+        "url": "https://open.spotify.com/album/3P52UbRhg3RKPUHYzi1kFG"
       },
       "artists": [
         {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        },
-        {
-          "name": "Kamasi Washington",
-          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+          "name": "Tunde Adebimpe",
+          "url": "https://open.spotify.com/artist/3and7uje1nuMnKJczCKox9"
         }
       ],
-      "duration_ms": 159200,
-      "name": "wanted",
-      "url": "https://open.spotify.com/track/6lQyCgVnSxnOssgLIOZItN"
+      "duration_ms": 150908,
+      "name": "Magnetic",
+      "url": "https://open.spotify.com/track/46BIkntVmeG382rIo93J3d"
     },
     {
       "added_at": "2025-05-14 15:13:08",
@@ -827,6 +807,26 @@
       "duration_ms": 176913,
       "name": "Cards On The Table",
       "url": "https://open.spotify.com/track/56NeC5RB6XA4ctZ8FctwG4"
+    },
+    {
+      "added_at": "2025-05-14 15:13:08",
+      "album": {
+        "name": "ceremonial contrafact (empathogen deluxe)",
+        "url": "https://open.spotify.com/album/7Hz9uSylbLpx6okTdiyIwE"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        },
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        }
+      ],
+      "duration_ms": 159200,
+      "name": "wanted",
+      "url": "https://open.spotify.com/track/6lQyCgVnSxnOssgLIOZItN"
     },
     {
       "added_at": "2025-05-14 15:13:08",

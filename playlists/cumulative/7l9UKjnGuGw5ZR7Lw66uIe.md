@@ -4,7 +4,7 @@
 
 > neler yaşamışım ben ya...
 
-29 songs - 1 hr 21 min
+30 songs - 1 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [sadaka](https://open.spotify.com/track/1WPTVorQB3KN3tOFIfhRdc) | [Mert Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [sadaka](https://open.spotify.com/album/1hvfoWCce60Ymw4OwGaToA) | 2:25 | 2023-01-28 |  |
 | [senli sevda](https://open.spotify.com/track/2COpBVUNsMs075MZGDhXi4) | [Mert Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [senli sevda](https://open.spotify.com/album/5N0pN6uF6MGeHlkNcKPJaw) | 2:17 | 2024-03-22 |  |
 | [serseri tesadüf](https://open.spotify.com/track/3lTwSeaCQWfJD2YjCZCYPs) | [Mert Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [serseri tesadüf](https://open.spotify.com/album/2DMpopdYjf8JNJR4HhyvCe) | 2:26 | 2022-07-27 |  |
+| [Sevda Çiçeğim](https://open.spotify.com/track/0qtIlEt4OwRDmEa1h20vVm) | [Diskopolis](https://open.spotify.com/artist/1qe2V7kY0gd6TbzPzmIrS7) | [Sevda Çiçeğim](https://open.spotify.com/album/1fHTjgzDEir3cw3dc7qcTy) | 4:08 | 2025-05-29 |  |
 | [Soft Öpücük](https://open.spotify.com/track/7sJ1cyZrmhqHaFVvD2xBkj) | [Diskopolis](https://open.spotify.com/artist/1qe2V7kY0gd6TbzPzmIrS7) | [Soft Öpücük](https://open.spotify.com/album/15Z5zDLAWBPP0GjIiVHzlK) | 3:18 | 2025-04-18 |  |
 | [Tövbeliyim Aşka](https://open.spotify.com/track/4LSKSucAzSNrFSkAWVygP4) | [İrem Güral](https://open.spotify.com/artist/6vMZEfgYfCpbiSUglUbDE6) | [Tövbeliyim Aşka](https://open.spotify.com/album/4uaaAsrpQFHmVvuJuLKzti) | 3:28 | 2022-07-27 |  |
 | [Vurgunum](https://open.spotify.com/track/1c6eJEK4sM98qjRcHkswQf) | [Ayberk Serin](https://open.spotify.com/artist/1Q8rbtdvSoGQj33lP2HcJF) | [Vurgunum](https://open.spotify.com/album/5KGbhBsixH1hWtN3Rwjt7K) | 2:06 | 2023-01-28 |  |

@@ -4,14 +4,16 @@
 
 > Melodic Progressive, Progressive House and Vocal Trance\. Selections from Chris Lyons DJ&\#x27;s &quot;Riding The Soundwave&quot; webradio show.
 
-76 songs - 8 hr 35 min
+79 songs - 8 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2Am](https://open.spotify.com/track/285mb5pHHFLYR8LFWOE8ov) | [Veeshy](https://open.spotify.com/artist/4I9gvXHCMWMzarL8yOyjIL) | [Stimulate The Stars](https://open.spotify.com/album/5ikKzPq0MLcsiV21QWywGx) | 7:14 | 2021-09-02 |  |
 | [A Day At The Beach](https://open.spotify.com/track/76i1fwdq0ffQ71KuhTNJgO) | [Talamanca](https://open.spotify.com/artist/6T10DjLBN7wT5gtnPnhmEk) | [Silk Music Pres\. Trance Treasures 06](https://open.spotify.com/album/3ZtUSUzGhMno1ylQmZ1JQi) | 8:47 | 2019-07-05 |  |
 | [A Love That's Hard To Find \- Swung Club Mix](https://open.spotify.com/track/75yjbBYF5SV9UqLBiLn3WG) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [A Love That's Hard To Find](https://open.spotify.com/album/0uHlUsS7W0B61Dwl2QmuHk) | 3:50 | 2021-03-23 |  |
+| [April \- 'Morning' Mix](https://open.spotify.com/track/1ru5ger9m2bB0ERfFofc9F) | [Schodt](https://open.spotify.com/artist/7oJeR8oaVPNG8RnmbVW32o) | [April \(Remixes\)](https://open.spotify.com/album/4MRDTpjb3qeUdVevOX3cZe) | 4:26 | 2025-05-29 |  |
 | [Ararat \- Sam Davies Remix](https://open.spotify.com/track/34bbmP1NAHml4bF23WDIz6) | [Gregory Esayan](https://open.spotify.com/artist/1EOqDTixfAxQjvX2uAuvMy), [Sam Davies](https://open.spotify.com/artist/5fDK1GwOEyKqCjg7F9IiyG) | [Only Silk 04](https://open.spotify.com/album/2KcbzOFjjM1ErTXWTdDvkO) | 5:11 | 2021-03-23 |  |
+| [Arrival](https://open.spotify.com/track/79PINijs6LZ0JGNvcECVVk) | [James Woods](https://open.spotify.com/artist/5YeXBjCN7FLVoTLWu8dL6L), [Talamanca](https://open.spotify.com/artist/6T10DjLBN7wT5gtnPnhmEk) | [Arrival](https://open.spotify.com/album/0iLb7siCAulqE75dVVfIVd) | 6:47 | 2025-05-29 |  |
 | [Atami](https://open.spotify.com/track/29WoQT4qjUMLTovZVPNwle) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ), [Masanori Yasuda](https://open.spotify.com/artist/4t7SDTU2q6zEFW2Ecs9sNB), [TACT TOKYO](https://open.spotify.com/artist/65mp3d4qkueCz4K882g7BW) | [Atami](https://open.spotify.com/album/45q746X1SBTkUXqUkkJSPb) | 6:08 | 2021-09-02 |  |
 | [Azure \- Roald Velden Remix](https://open.spotify.com/track/5SFE9nLsTSZi0rPPdF9rBj) | [Japeboy](https://open.spotify.com/artist/4RuPokVKSl4vK1skbGONyJ), [Roald Velden](https://open.spotify.com/artist/1ezY8w6yikBekrZCUVYkLP) | [Azure](https://open.spotify.com/album/5rvsbHe2WSn0FOwE7BCswB) | 9:32 | 2023-03-04 |  |
 | [Billion Stars](https://open.spotify.com/track/4xcRyEWsJ959FPBXBzJ4Sp) | [Roald Velden](https://open.spotify.com/artist/1ezY8w6yikBekrZCUVYkLP), [South Pole](https://open.spotify.com/artist/3vNPCpgA6iJvFoWQfP3Fli) | [Nowhere](https://open.spotify.com/album/540jX1jXLiiThtaWfAC8ti) | 7:38 | 2021-03-23 |  |
@@ -50,6 +52,7 @@
 | [Omen](https://open.spotify.com/track/6TBhb5MLV4DCAFCp0t7hD4) | [Maiga](https://open.spotify.com/artist/0ecp1rT4umtmtcyx0ItXg8) | [Omen](https://open.spotify.com/album/565L3GWzcRtAp1IXPUjajN) | 8:55 | 2021-03-23 |  |
 | [Omen \- Ryo Nakamura Remix](https://open.spotify.com/track/2pimxlsdNqMYNSF7iafN7T) | [Maiga](https://open.spotify.com/artist/0ecp1rT4umtmtcyx0ItXg8), [Ryo Nakamura](https://open.spotify.com/artist/1N9XyrY6iMTLLpluZm6YlO) | [Omen](https://open.spotify.com/album/565L3GWzcRtAp1IXPUjajN) | 5:45 | 2021-09-02 |  |
 | [Oregon \- RNX Mix](https://open.spotify.com/track/6lzwhEd3uGDvI8DO2iUPXI) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ), [RNX](https://open.spotify.com/artist/6MvuP20356EIRrCDMI92jc) | [Oregon](https://open.spotify.com/album/3NivBSiIh79qt5FNANx6qq) | 5:30 | 2021-03-23 |  |
+| [Outshine \- Nigel Good Radio Edit](https://open.spotify.com/track/1fcaQ2Yj06nusW20DzmEtF) | [Myon](https://open.spotify.com/artist/0nTbVTXLLbBA4xCtn0cFkv), [Shane 54](https://open.spotify.com/artist/2ITbqEgyp32vL3BxEFmQ1V), [Natalie Peris](https://open.spotify.com/artist/1RtzTxvZZdPsVz82rB7BEs), [Nigel Good](https://open.spotify.com/artist/5Q0xO4AeNtPKPqWcpCygD2) | [Outshine](https://open.spotify.com/album/6Vd89na2VpfS9GYDPcDVj1) | 3:32 | 2025-05-29 |  |
 | [Part of Me \- Original Mix](https://open.spotify.com/track/4k8Z6zQPbbJYo5ld0fXvSL) | [Gregory Esayan](https://open.spotify.com/artist/1EOqDTixfAxQjvX2uAuvMy), [Angel Falls](https://open.spotify.com/artist/5rFJL8YA8t1lv8lgjL7X2E) | [Part of Me](https://open.spotify.com/album/62rG5y4kCrfbYIowkunZWO) | 7:01 | 2021-03-23 |  |
 | [Point Nemo \- Original Mix](https://open.spotify.com/track/7AdUCqTinPTvw3ejzGycrg) | [Mark Moncrieff](https://open.spotify.com/artist/4K4hc4X2Dp2atIg6HBBmAd) | [Summer Melody 100: Sampler Part 3](https://open.spotify.com/album/5aPJsvcEJgC2RQIqL6NLbT) | 7:37 | 2021-12-14 |  |
 | [Progressive Soul](https://open.spotify.com/track/1XCbbMW6DwpKHIKAhQ7xSs) | [kalsy](https://open.spotify.com/artist/6vPghOkrVqxHkDHOV3l30R) | [Progressive Soul](https://open.spotify.com/album/6lWCbs8MxC0euSMUuNxR5x) | 10:35 | 2023-02-23 |  |

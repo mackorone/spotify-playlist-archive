@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 
 > rock alternativo argentino\. <br/>📷 El Club Audiovisual.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,791 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,794 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 | 99 | [Será](https://open.spotify.com/track/6jpXkK8IWxoqMIegRTNTCY) | [El Club Audiovisual](https://open.spotify.com/artist/1YZnktJjGKEbhQBcpQQjQ7) | [Será](https://open.spotify.com/album/0OE8zZZAUTiYpEnGZkAwkV) | 3:06 |
 | 100 | [Amanece](https://open.spotify.com/track/4S2WsYzOnCpuXFTFP6vs8i) | [Nadar de Noche](https://open.spotify.com/artist/4XnY6XFP4XOowCR7184get), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Quietud](https://open.spotify.com/album/1EhRQbu7FuQ5HzSafgAMOI) | 3:35 |
 
-Snapshot ID: `aCaqMQAAAADqMzbzCJJw3++k+5i7gl7z`
+Snapshot ID: `aCaqMQAAAABgF13+FxczJ8s3+X67b5mN`

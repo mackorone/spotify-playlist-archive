@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-602 songs - 2 day 2 hr 1 min
+603 songs - 2 day 2 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Amman \- Nils Hoffmann Remix](https://open.spotify.com/track/01pdcdTTNU68wz3nelUulJ) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6), [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb) | [Amman \(Nils Hoffmann Remix\)](https://open.spotify.com/album/594usaC9V9jwQwBU9ncqXa) | 4:14 | 2023-03-03 |  |
 | [And Then You Came](https://open.spotify.com/track/3jOZEvgu6UoEp77kzJjfHS) | [FERR](https://open.spotify.com/artist/2wJ0jGmAcvU2tYsIvGXg4P), [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP), [Maria Marcus](https://open.spotify.com/artist/3TFBKKjm1zzgBCOQi2SEGY) | [As Above So Below \(Deluxe Version\)](https://open.spotify.com/album/77Z0RXxgT4Qu5anSsMNmXn) | 4:47 | 2021-12-08 | 2024-07-13 |
 | [Ano](https://open.spotify.com/track/7GEuIUb8ffHIsZ05O5Zdcl) | [MOLØ](https://open.spotify.com/artist/29k6IUtkDp9ErAaJrh1Tlg) | [Ano EP](https://open.spotify.com/album/3X7duLBTg1yRaYk5rEMlvJ) | 6:59 | 2024-04-12 | 2025-04-05 |
+| [Another New Day \- Kid Fonque Refix](https://open.spotify.com/track/21imcRqjDk4hgbjmEJ1ESP) | [Jazzanova](https://open.spotify.com/artist/0nTErwSOllrcUWt3knOG2T), [Kid Fonque](https://open.spotify.com/artist/6hPLYDljt7lCTao1bx1Dcp) | [Another New Day \(Kid Fonque Refix\)](https://open.spotify.com/album/1dpozHC4wjKMkthcHwXP6q) | 8:59 | 2025-05-23 |  |
 | [Another Time](https://open.spotify.com/track/2W9zh4QNFmuOyKHbtYYNm0) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k), [Kwesi](https://open.spotify.com/artist/320LkiSxenwJtoxQ9SZ1eV) | [Another Time](https://open.spotify.com/album/6puL9vl482M9AKa3fm7v3B) | 4:15 | 2021-12-08 | 2024-08-03 |
 | [Another Time](https://open.spotify.com/track/67f7gMWZ2PJI7IsUBs3mNQ) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k), [Kwesi](https://open.spotify.com/artist/320LkiSxenwJtoxQ9SZ1eV) | [Another Time](https://open.spotify.com/album/4rqr9zrFHD4fd2Y1hv6RKK) | 4:15 | 2023-03-03 | 2024-04-19 |
 | [Anyone](https://open.spotify.com/track/0s1XsqBecwpSibK8RSueWM) | [LAR](https://open.spotify.com/artist/2w3NdJswSn39l3TU9vIRq0), [Taylr Renee](https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8) | [Anyone](https://open.spotify.com/album/4YLt37YBJKmbL9udretXlK) | 4:27 | 2024-06-07 |  |
@@ -426,7 +427,7 @@
 | [Remember](https://open.spotify.com/track/5pRH7tcR0X86sU1wAsY5fA) | [King Henry](https://open.spotify.com/artist/4IbUky1dWqlyVlMMTJXPI5) | [Remember](https://open.spotify.com/album/12Qmk2p1qBQvqqwnvNb10K) | 5:02 | 2022-05-03 | 2024-04-19 |
 | [Remember to Love \- Extended Mix](https://open.spotify.com/track/6cyzz6IwvfjbPiNreeMhZ0) | [Lee Wilson](https://open.spotify.com/artist/0kgsfMP7coSEX8bwUQVivr), [Sattam](https://open.spotify.com/artist/6iyc6BGLOwF8ZZIfcaLVP7) | [Remember to Love](https://open.spotify.com/album/7yEq7FYgBKTzdGAkc6l45b) | 5:04 | 2021-12-08 | 2022-11-17 |
 | [Reminds Me Of Her](https://open.spotify.com/track/51m6hGfXZwpx9YBbcryUpD) | [Honeydripper](https://open.spotify.com/artist/0NSnMsVaDmZlhgEb9jIGu7) | [Reminds Me Of Her](https://open.spotify.com/album/3cpziZcx5ENSn60NopxwT0) | 6:25 | 2021-12-08 | 2023-07-02 |
-| [Renaissance](https://open.spotify.com/track/1mqPLbDc8DCRlTuyF26ste) | [Honeydripper](https://open.spotify.com/artist/0NSnMsVaDmZlhgEb9jIGu7) | [Renaissance](https://open.spotify.com/album/7wENbWzIAZEOmj2a7m4mlZ) | 7:39 | 2021-12-08 |  |
+| [Renaissance](https://open.spotify.com/track/1mqPLbDc8DCRlTuyF26ste) | [Honeydripper](https://open.spotify.com/artist/0NSnMsVaDmZlhgEb9jIGu7) | [Renaissance](https://open.spotify.com/album/7wENbWzIAZEOmj2a7m4mlZ) | 7:39 | 2021-12-08 | 2025-05-30 |
 | [Renaissance \- Manuel Riva Remix](https://open.spotify.com/track/6kiVi4iXhooHmaty1G5vV5) | [Maxim Lany](https://open.spotify.com/artist/3yGz81qZItOli1RL5vgUeB), [Manuel Riva](https://open.spotify.com/artist/2hkGkEnyudpE42IU4DBt99) | [Renaissance \(Manuel Riva Remix\)](https://open.spotify.com/album/0InymYk58sowWFJCdLDk1Q) | 3:46 | 2021-12-08 | 2023-01-06 |
 | [Rest Round Here](https://open.spotify.com/track/2VyMyhZrDDh5e5N9kIX87N) | [La Giang](https://open.spotify.com/artist/4ZtuLbaTRcktUjXtSwzqQ3) | [Rest Round Here](https://open.spotify.com/album/0kvwck16ZQJvB9WOWdcZD4) | 3:55 | 2025-04-11 |  |
 | [Resurface](https://open.spotify.com/track/4ztZ2DZsuwUbaeQdvpY78Z) | [Luke Alessi](https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp) | [Resurface](https://open.spotify.com/album/3M73zMomIlYvJfsqoIPmOl) | 7:33 | 2021-12-08 | 2022-02-22 |

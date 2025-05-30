@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- South Korea.
 
-1,785 songs - 4 day 1 hr 56 min
+1,786 songs - 4 day 1 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [990 \(Feat\. Kim Ximya\)](https://open.spotify.com/track/6BteP1uOVCsGfA58E3L8Fu) | [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg), [Kim Ximya](https://open.spotify.com/artist/2tB3jPHyyfcxvvor2flc1Q) | [NOWITZKI](https://open.spotify.com/album/2ZcI7Sbm7s2yz8l8wvIyUq) | 3:33 | 2023-07-04 | 2023-07-10 |
 | [= \(Equal Sign\)](https://open.spotify.com/track/70XnKsO3UnIT4FnEwChQXx) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 1:54 | 2022-07-16 | 2022-07-23 |
 | [\_WORLD](https://open.spotify.com/track/3QwiidVHfeE9y5jl4n2MTC) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album Repackage 'SECTOR 17'](https://open.spotify.com/album/15pRJdCJtDyzQaY9tGs750) | 2:58 | 2022-07-19 | 2022-08-07 |
+| [A Beautiful Person \(Feat\. Balming Tiger\)](https://open.spotify.com/track/6AF3XZYqQXe8ZeohNrbFXH) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1) | [A flower bookmark, Pt\. 3](https://open.spotify.com/album/4TeDL95L9OTCpYnuQwlrwY) | 3:30 | 2025-05-29 |  |
 | [A bientot](https://open.spotify.com/track/0oaFCNSvLVBpHKB3ep9qMI) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [IM HERO](https://open.spotify.com/album/39cHmgjQ5FDyK6IgpGuMbr) | 4:16 | 2022-05-30 | 2022-07-02 |
 | [A bientot](https://open.spotify.com/track/4Cr43xPo7bwyCcL1g3yVCu) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [IM HERO](https://open.spotify.com/album/5ITErfEiF1nEo8KTRgLv43) | 4:16 | 2022-07-01 | 2024-07-21 |
 | [A Holly Jolly Christmas](https://open.spotify.com/track/77khP2fIVhSW23NwxrRluh) | [Burl Ives](https://open.spotify.com/artist/0MHgLfmQdutffmvWe5XBTN) | [Have A Holly Jolly Christmas](https://open.spotify.com/album/6MvKUOSuPdfH0WLeQjR3eR) | 2:15 | 2021-12-26 | 2022-12-27 |
@@ -565,7 +566,7 @@
 | [Freaky Deaky](https://open.spotify.com/track/3vySEUpD0tc801F2WZDLYw) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Freaky Deaky](https://open.spotify.com/album/05oVghsqITa33yHnbW7uPz) | 3:35 | 2022-03-01 | 2022-03-17 |
 | [FREEZE](https://open.spotify.com/track/2plJdCLTDrATAlL7pU8SeA) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ODDINARY](https://open.spotify.com/album/1byOOf9U3IiQN1cVHqRqEF) | 2:58 | 2022-03-20 | 2022-03-25 |
 | [Fresh Out The Slammer](https://open.spotify.com/track/3fO566xJgwxIa3qGCGBvIC) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:30 | 2024-04-20 | 2024-04-22 |
-| [FRI\(END\)S](https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [FRI\(END\)S](https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs) | 2:28 | 2024-03-16 | 2025-05-29 |
+| [FRI\(END\)S](https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [FRI\(END\)S](https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs) | 2:28 | 2024-03-16 |  |
 | [FRI\(END\)S \(Instrumental\)](https://open.spotify.com/track/6G3myAs4HemIdtLYhhjGLP) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [FRI\(END\)S](https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs) | 2:28 | 2024-03-16 | 2024-03-25 |
 | [FRI\(END\)S \(Slowed Down\)](https://open.spotify.com/track/4njgp1LC4XoUsnF3pN0WXX) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [FRI\(END\)S](https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs) | 2:42 | 2024-03-16 | 2024-03-26 |
 | [FRI\(END\)S \(Sped Up\)](https://open.spotify.com/track/0v6wAlWCzHYj1OuJrVuH7J) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [FRI\(END\)S](https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs) | 2:03 | 2024-03-16 | 2024-03-26 |
@@ -1203,7 +1204,7 @@
 | [plot twist](https://open.spotify.com/track/0aZG8KWrpRnsGL0loUkfSj) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TWS 1st Mini Album 'Sparkling Blue'](https://open.spotify.com/album/25qO1VYd8BuT8m5w8CFpdG) | 2:32 | 2024-01-27 | 2024-06-18 |
 | [Polar Night](https://open.spotify.com/track/3JSodIIStqTwXSH7nXOuhe) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [D\-DAY](https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX) | 2:45 | 2023-04-22 | 2023-04-26 |
 | [POLAROID](https://open.spotify.com/track/1XCoTc12Trl56sgCPP4R8M) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I NEVER DIE](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) | 3:38 | 2022-03-16 | 2022-03-18 |
-| [Polaroid](https://open.spotify.com/track/2tA3NP12r4niSRhb9Y6AoY) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Polaroid](https://open.spotify.com/album/0dIwHWpQXBKVOuP9CJsY4E) | 3:26 | 2022-11-19 |  |
+| [Polaroid](https://open.spotify.com/track/2tA3NP12r4niSRhb9Y6AoY) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Polaroid](https://open.spotify.com/album/0dIwHWpQXBKVOuP9CJsY4E) | 3:26 | 2022-11-19 | 2025-05-30 |
 | [Polaroid Love](https://open.spotify.com/track/5elW2CKSoqjYoJ32AGDxf1) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : ANSWER](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) | 3:04 | 2022-01-22 | 2022-04-26 |
 | [Pool Party \(Feat\. E\-CHAN of DKB\)](https://open.spotify.com/track/2avJo0RwtC1zWiOx4CaGWG) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB), [E\-CHAN](https://open.spotify.com/artist/4h44hjwoLSVhQynEnkrbt5) | [Summer Queen](https://open.spotify.com/album/2x10RN9oP665I7gyP1UNUi) | 3:12 | 2021-06-19 | 2021-06-21 |
 | [POP OUT](https://open.spotify.com/track/3j3SfV4hAcR4XjCvW393Gr) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 2:41 | 2025-03-15 | 2025-03-18 |
@@ -1688,7 +1689,7 @@
 | [What’s Next](https://open.spotify.com/track/3aQem4jVGdhtg116TmJnHz) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scary Hours 2](https://open.spotify.com/album/5LuoozUhs2pl3glZeAJl89) | 2:58 | 2021-03-27\* | 2021-04-01 |
 | [WHEN I MOVE](https://open.spotify.com/track/5xHVCtel1AeJTaK3mS8UDf) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [MOVE AGAIN \(Japan Special Edition\)](https://open.spotify.com/album/25hgAAeE86W8cEH7s4osl6) | 2:58 | 2022-12-23 | 2022-12-31 |
 | [WHEN I MOVE](https://open.spotify.com/track/7gjNxZa0eOEFLY1So9s3fC) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [MOVE AGAIN](https://open.spotify.com/album/6VxGMuJlJzQgxUca7zRqGk) | 2:58 | 2022-12-01 | 2022-12-24 |
-| [When the Day Comes](https://open.spotify.com/track/60DwXD4XZgBGMRwViDqBm6) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Resident Playbook, Pt\. 9 \(Original Soundtrack\)](https://open.spotify.com/album/2gZ7EtpMiM5cEtQIHzOCLo) | 3:41 | 2025-05-22 |  |
+| [When the Day Comes](https://open.spotify.com/track/60DwXD4XZgBGMRwViDqBm6) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Resident Playbook, Pt\. 9 \(Original Soundtrack\)](https://open.spotify.com/album/2gZ7EtpMiM5cEtQIHzOCLo) | 3:41 | 2025-05-22 | 2025-05-30 |
 | [when the storm passes](https://open.spotify.com/track/5LGk6HojDdgnWmSck7AwZi) | [Akame](https://open.spotify.com/artist/13xYfJOINDVvMZ3EqcPUVB) | [when the storm passes](https://open.spotify.com/album/4bVBLnOp0swOht3BOIDSxY) | 0:48 | 2023-04-16 | 2023-04-19 |
 | [When This Rain Stops](https://open.spotify.com/track/6mavVLsxaa4YcPje9qZKcf) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Like Water \- The 1st Mini Album](https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7) | 4:04 | 2021-04-07 | 2021-04-09 |
 | [When You're Gone](https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [When You're Gone](https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp) | 2:52 | 2022-04-02 | 2022-04-26 |

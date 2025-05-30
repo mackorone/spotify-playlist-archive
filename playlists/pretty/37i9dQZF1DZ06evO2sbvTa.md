@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2sbvTa.md) - [plain]
 
 > This is Young Scooter\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,425 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,427 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,10 +42,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2sbvTa.md) - [plain]
 | 32 | [Drug Deals](https://open.spotify.com/track/14LUV1NU3UiumYiuGD5949) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Trippple Cross](https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C) | 3:10 |
 | 33 | [Imma Ball Forever](https://open.spotify.com/track/5heBkfjqYt14ah0pFbBEYg) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [I Pledge Allegiance to the Trap, Vol\. 5](https://open.spotify.com/album/093j7UenxRyQ27vrlZrJ6d) | 3:05 |
 | 34 | [SLAM DUNK \(FEAT\. YOUNG SCOOTER\)](https://open.spotify.com/track/5BEIWP5orph1cJBuylbGK8) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [MAD](https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k) | 2:22 |
-| 35 | [Drugs](https://open.spotify.com/track/3e1TEpSue0wB7fM9RG8klm) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [80's Baby](https://open.spotify.com/album/7lz2fJQ93X8P52pSQTrDXk) | 3:07 |
-| 36 | [Big Guwap \(feat\. Young Scooter\)](https://open.spotify.com/track/66szIKCdNwvZ9lY4j8t1kO) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Trap God 2](https://open.spotify.com/album/327qRhLMXOOwsx3IXxZZxM) | 3:04 |
-| 37 | [Bread Crumbs \(feat\. Young Thug & Vl Deck\)](https://open.spotify.com/track/757H5Tyiq1KGm3gzMvbidd) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Vl Deck](https://open.spotify.com/artist/52qUXaQE08gum6TfK6zyT1) | [Trippple Cross](https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C) | 4:10 |
-| 38 | [Black Migo](https://open.spotify.com/track/31l9ecQfaEpEBe78KmpraS) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Zaytoven](https://open.spotify.com/artist/1mceaxtjWdEmwoDVAlkC41), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Zaystreet](https://open.spotify.com/album/4SflERwxTOuSS2VqKEJizf) | 3:29 |
+| 35 | [Big Guwap \(feat\. Young Scooter\)](https://open.spotify.com/track/66szIKCdNwvZ9lY4j8t1kO) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Trap God 2](https://open.spotify.com/album/327qRhLMXOOwsx3IXxZZxM) | 3:04 |
+| 36 | [Bread Crumbs \(feat\. Young Thug & Vl Deck\)](https://open.spotify.com/track/757H5Tyiq1KGm3gzMvbidd) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Vl Deck](https://open.spotify.com/artist/52qUXaQE08gum6TfK6zyT1) | [Trippple Cross](https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C) | 4:10 |
+| 37 | [Black Migo](https://open.spotify.com/track/31l9ecQfaEpEBe78KmpraS) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Zaytoven](https://open.spotify.com/artist/1mceaxtjWdEmwoDVAlkC41), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Zaystreet](https://open.spotify.com/album/4SflERwxTOuSS2VqKEJizf) | 3:29 |
+| 38 | [Drugs](https://open.spotify.com/track/3e1TEpSue0wB7fM9RG8klm) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [80's Baby](https://open.spotify.com/album/7lz2fJQ93X8P52pSQTrDXk) | 3:07 |
 | 39 | [Touchdown](https://open.spotify.com/track/7uBxxv1fY6JodMDIuEDUxd) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Peewee Longway](https://open.spotify.com/artist/0xTcxl35DKXUeYRWqY10w6) | [Streetz Krazy](https://open.spotify.com/album/0C7TkavM9yq1OZlwqnRPD9) | 2:26 |
 | 40 | [Dope Talk \(feat\. 2 Chainz & Young Scooter\)](https://open.spotify.com/track/7GoyN3847Blqv2y3osZR6l) | [Bankroll Freddie](https://open.spotify.com/artist/20vLls6BmcHB0zEwpB91O2), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Big Bank](https://open.spotify.com/album/4isyF97V7nFks5mQMkZdf9) | 4:08 |
 | 41 | [Trust](https://open.spotify.com/track/1OwslJYziEr3VrE7CFmVd3) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Perfect Timing](https://open.spotify.com/album/47Q0J5RzfzIrTd6KBYmsbK) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2sbvTa.md) - [plain]
 | 49 | [Trap It Out](https://open.spotify.com/track/25ewjSPi4yqL2ion1KCzvh) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Streetz Krazy](https://open.spotify.com/album/0C7TkavM9yq1OZlwqnRPD9) | 3:17 |
 | 50 | [What I Rap About](https://open.spotify.com/track/7i6Qx4BODHO6XPX6fGxmHL) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [80's Baby](https://open.spotify.com/album/7lz2fJQ93X8P52pSQTrDXk) | 3:06 |
 
-Snapshot ID: `aDUAgAAAAAA61zY5PUniC4q2nAuM1xj8`
+Snapshot ID: `aDZSAAAAAACopnVs4/3UNv3mL+TVvO44`

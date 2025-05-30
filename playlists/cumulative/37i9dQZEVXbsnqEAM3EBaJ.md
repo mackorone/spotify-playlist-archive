@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-2,577 songs - 7 day 7 hr 7 min
+2,578 songs - 7 day 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -862,6 +862,7 @@
 | [Gravity](https://open.spotify.com/track/1vMMwDCd1Hnb91a3x9MdfX) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Sem Vox](https://open.spotify.com/artist/4j6FBtbchyfFhBrCw9eT45), [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [Gravity](https://open.spotify.com/album/5XjuB8WjardHuZpaMy6LXP) | 4:45 | 2024-11-08 | 2024-11-17 |
 | [Greenwich \- Daniel Avery Interpolation](https://open.spotify.com/track/3H7wG9CzVXdiYcarxBnYb1) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B), [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Greenwich \(Daniel Avery Interpolation\)](https://open.spotify.com/album/2ZoxawxdHAQSJeReB2cveV) | 4:30 | 2023-08-18 | 2023-09-10 |
 | [Gris](https://open.spotify.com/track/5mhBRIDs3aNvg4WZnhRMYy) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Gris](https://open.spotify.com/album/4DNxSEEFQ0MdDb1vFZsdpG) | 3:09 | 2023-03-03 | 2023-03-25 |
+| [Gritar!](https://open.spotify.com/track/1IjcVYZ8L94thjQTMKOTPp) | [The Covers Duo](https://open.spotify.com/artist/0vlbXMsO1PRqmfJv5tAJ8G) | [Irrealidad](https://open.spotify.com/album/5E7WI1l2GkWq61P6JOesPp) | 3:34 | 2025-05-23 |  |
 | [Growling Showers](https://open.spotify.com/track/0UtpNV4xwK7Pqoj6lLZvfY) | [Sol y Lluvia](https://open.spotify.com/artist/6iGoMyoSIjyTxbCRyHREtI) | [ASMR Rain Clouds](https://open.spotify.com/album/6DWqKUn5L9ppmCWfBuqGMH) | 2:26 | 2023-09-08 | 2023-09-12 |
 | [Guardian's Watch](https://open.spotify.com/track/0j50VxpcSXjF7brTgRukFJ) | [Jethro Tull](https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R) | [RökFlöte](https://open.spotify.com/album/14xjFzjMpH8FIW3546WWdv) | 3:30 | 2023-04-21 | 2023-05-21 |
 | [GUERRERO INTELECTUAL](https://open.spotify.com/track/3SBFITfLQuTKNlJ7igGRuM) | [Mago Rey](https://open.spotify.com/artist/34W0qoIabeEniJH7rLVXHv), [Olinca Hidalgo](https://open.spotify.com/artist/2XA0XXw7Oe3AkLJks9irXp) | [GUERRERO INTELECTUAL](https://open.spotify.com/album/1oqgXGwSnr8beCSnRMdcXS) | 3:38 | 2023-09-08 | 2023-09-16 |
@@ -1337,7 +1338,7 @@
 | [LOW](https://open.spotify.com/track/76HeRbTvaAMjE8abMYBskQ) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [LOW](https://open.spotify.com/album/1TW9CQwdnOC1PFXfL0RIoY) | 3:14 | 2023-03-31 | 2023-04-22 |
 | [low key](https://open.spotify.com/track/3uO7MJ7K2JCa3tqpf7zhEu) | [Lil Lupardz](https://open.spotify.com/artist/1iEyyHSgDmzYCsvt6wrsCn), [Righo](https://open.spotify.com/artist/0hm6if8uBqcGBoPGRqAPYW), [Wild Caster](https://open.spotify.com/artist/6od9SzCm8Y6QvOZQzqYKs8), [Teedo](https://open.spotify.com/artist/31oXVMqNebtTGJlHo8F4QB), [Virus](https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV) | [i didit](https://open.spotify.com/album/1zb3yRPhK8ipl02wBSNbkC) | 3:26 | 2025-01-10 | 2025-02-06 |
 | [Lucero](https://open.spotify.com/track/2VT5GfzNkU69TCNxpTvwXs) | [Saiko](https://open.spotify.com/artist/6YgPVbrxWFP9dnp8dsqDry) | [Drama](https://open.spotify.com/album/3ODXBYShxAlpNTKoiWY3Qb) | 3:28 | 2023-10-27 | 2023-11-02 |
-| [Luces De Neon](https://open.spotify.com/track/0rO6xSQy33ri48VWlqdxru) | [The Covers Duo](https://open.spotify.com/artist/0vlbXMsO1PRqmfJv5tAJ8G) | [Irrealidad](https://open.spotify.com/album/5E7WI1l2GkWq61P6JOesPp) | 3:53 | 2025-05-16 |  |
+| [Luces De Neon](https://open.spotify.com/track/0rO6xSQy33ri48VWlqdxru) | [The Covers Duo](https://open.spotify.com/artist/0vlbXMsO1PRqmfJv5tAJ8G) | [Irrealidad](https://open.spotify.com/album/5E7WI1l2GkWq61P6JOesPp) | 3:53 | 2025-05-16 | 2025-05-30 |
 | [Lucifer's Heritage](https://open.spotify.com/track/6dW828m12lLN06VSO0Omy8) | [Blind Guardian](https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6) | [Symphonies of Doom & Battalions of Fear \(Lucifer's Heritage\)](https://open.spotify.com/album/7ebZBSWQcEejQglRnb74IU) | 4:44 | 2025-02-07 | 2025-02-15 |
 | [Lush \(Spacewalk Mix\)](https://open.spotify.com/track/5HdQzb6kgkFwZXpPoYqfMs) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV), [Vapourspace](https://open.spotify.com/artist/6sHvj6tPxNWkBegdJ3Fyls) | [Orbital 2 \(The Brown Album Expanded\)](https://open.spotify.com/album/6cni6TMOVlY9jAbEGAjOif) | 7:06 | 2025-05-23 |  |
 | [Lvciferaeon](https://open.spotify.com/track/2j6iypUWoFMCzc0QEp1dkd) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [Lvciferaeon](https://open.spotify.com/album/1PRrNHVsKzyj1dp16wtoDd) | 4:16 | 2025-04-11 | 2025-05-05 |

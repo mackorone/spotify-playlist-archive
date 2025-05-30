@@ -1,6 +1,6 @@
 {
   "description": "Music from \"THE IDOLM@STER SHINY COLORS\". THE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.\n\n",
-  "num_followers": 28703,
+  "num_followers": 28705,
   "original_name": "THE IDOLM@STER SHINY COLORS",
   "owner": {
     "name": "Spotify",
@@ -491,6 +491,22 @@
     {
       "added_at": "2025-02-28 16:30:31",
       "album": {
+        "name": "THE IDOLM@STER SHINY COLORS PANOR@MA WING 06",
+        "url": "https://open.spotify.com/album/40jerhrEfhhYjWUh9AA4EU"
+      },
+      "artists": [
+        {
+          "name": "\u30b9\u30c8\u30ec\u30a4\u30e9\u30a4\u30c8",
+          "url": "https://open.spotify.com/artist/493MBQPclwtXx4zWgCalzd"
+        }
+      ],
+      "duration_ms": 200866,
+      "name": "Tracing Defender",
+      "url": "https://open.spotify.com/track/1XEU5o0qG4P0pHJeyAW00Q"
+    },
+    {
+      "added_at": "2025-02-28 16:30:31",
+      "album": {
         "name": "THE IDOLM@STER SHINY COLORS L@YERED WING 08",
         "url": "https://open.spotify.com/album/1Wd36SK5i0M9tCAwHQJBTv"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 228760,
       "name": "Secret utopIA",
       "url": "https://open.spotify.com/track/3OsXQASPOJxYtgFseXp5MF"
-    },
-    {
-      "added_at": "2025-02-28 16:30:31",
-      "album": {
-        "name": "THE IDOLM@STER SHINY COLORS GR@DATE WING 04",
-        "url": "https://open.spotify.com/album/1VZnwWtBpDyVT0IWV4IV57"
-      },
-      "artists": [
-        {
-          "name": "HO-KA-GO CLIMAX GIRLS",
-          "url": "https://open.spotify.com/artist/274c1FFqS8HAIeL7XgK0Hz"
-        }
-      ],
-      "duration_ms": 232520,
-      "name": "\u5b66\u796d\u9769\u547d\u591c\u660e\u3051\u524d",
-      "url": "https://open.spotify.com/track/3dOAQeYqUF691ok9zu4Q7C"
     }
   ],
   "unique_name": "THE IDOLM@STER SHINY COLORS",

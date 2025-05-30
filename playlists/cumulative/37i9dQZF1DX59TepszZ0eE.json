@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Proudly South African Christian and Gospel music. Cover: \"<a href=https://open.spotify.com/artist/4Socq1uqmPOvJoneN5NiFe?si=PhLf_iydTjSwDwRSrVE2dg>Busi Sibiya</a>\"",
+  "description": "Proudly South African Christian and Gospel music. Cover: \"<a href=https://open.spotify.com/artist/2xYE0LYxFRGK9CQxLlkE7H?si=jJtz30JSR1OryH1Mf10DtA>Nontokozo Mkhize</a>\"",
   "name": "Sunday Praise",
   "tracks": [
     {
@@ -754,6 +754,32 @@
       "duration_ms": 191614,
       "name": "Blessed Be Your Name",
       "url": "https://open.spotify.com/track/3W4na5Pss67rsLTGN9gU9R"
+    },
+    {
+      "album": {
+        "name": "Blessings (feat. Nontokozo Mkhize)",
+        "url": "https://open.spotify.com/album/5u2BLmpV0KIfiKo1okOuYW"
+      },
+      "artists": [
+        {
+          "name": "Brenden Praise",
+          "url": "https://open.spotify.com/artist/3jzpHftM6t86BxqayyUWiU"
+        },
+        {
+          "name": "M\u00d6RDA",
+          "url": "https://open.spotify.com/artist/0M8NOvT5MTp13jYZ0bZZQp"
+        },
+        {
+          "name": "Nontokozo Mkhize",
+          "url": "https://open.spotify.com/artist/1pGEcbHJvZ6u018SwuUtkK"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254257,
+      "name": "Blessings (feat. Nontokozo Mkhize)",
+      "url": "https://open.spotify.com/track/2Q04f7HbmxalpjfrPhJMN4"
     },
     {
       "album": {
@@ -4817,6 +4843,24 @@
     },
     {
       "album": {
+        "name": "Worship in Newness",
+        "url": "https://open.spotify.com/album/1h6TI3nojx7PA3HBfkS9wz"
+      },
+      "artists": [
+        {
+          "name": "Puleng March",
+          "url": "https://open.spotify.com/artist/65cfvyR00rBULLtOhWfNTn"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400000,
+      "name": "Sedi la ditshaba",
+      "url": "https://open.spotify.com/track/6cuM3XR6GwDLl4evBO46QE"
+    },
+    {
+      "album": {
         "name": "See The Light",
         "url": "https://open.spotify.com/album/6lHszryJqJHLDyxXbTkqHo"
       },
@@ -5056,7 +5100,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 302000,
       "name": "Sithembe Wena/Egalile",
       "url": "https://open.spotify.com/track/73b3N7Vx2rwLxCixZNoYV4"
@@ -5540,7 +5584,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 271451,
       "name": "Tshanda Tshau Yehova - Live",
       "url": "https://open.spotify.com/track/4G7dubWC6XmwMrnLVt7WRT"

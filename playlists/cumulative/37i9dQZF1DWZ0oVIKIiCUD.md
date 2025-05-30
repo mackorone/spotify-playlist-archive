@@ -4,7 +4,7 @@
 
 > Get ready for the upcoming festival by listening to the best songs from the festival lineup! \(페스티벌 참가 라인업의 베스트 곡들을 들으며 다가오는 페스티벌을 준비해보세요!\)
 
-90 songs - 6 hr 3 min
+92 songs - 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [Common People \- Full Length Version](https://open.spotify.com/track/2fXKyAyPrEa24c6PJyqznF) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [Different Class](https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x) | 5:51 | 2025-05-28 |  |
 | [Days Happier Than Today Will Be Few in My Remaining Life](https://open.spotify.com/track/5fmbElEo7upsJqJWLQXO3B) | [Danpyunsun and the Moments Ensemble](https://open.spotify.com/artist/22tmDSGawccc0xwIm7Oi4I) | [Hail to the Music](https://open.spotify.com/album/6g01oTotN5wYmaYAQx2YE9) | 3:35 | 2025-05-28 |  |
 | [Do](https://open.spotify.com/track/6tStqbjbMdMRzRWWNvlnqI) | [Chang Kiha](https://open.spotify.com/artist/2kppzekGp379T3M56GYd7d) | [Do / Do or Don't](https://open.spotify.com/album/3se0GBdgs53DJXR7CJb9l6) | 3:41 | 2025-05-28 |  |
-| [Endless Night](https://open.spotify.com/track/3WfJO9VcW0lYhpmKc29fKF) | [Beck](https://open.spotify.com/artist/43rF0ezbI0BApStNet2EWk) | [Endless Night](https://open.spotify.com/album/4DYZfWqf0nHrtkSu3W9Ffy) | 4:22 | 2025-05-28 |  |
+| [E\-Pro](https://open.spotify.com/track/01MBhRpvFkbeRwAp7gcF2W) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Guero](https://open.spotify.com/album/2EugWXUZjr78KJFqZavvZT) | 3:22 | 2025-05-29 |  |
+| [Endless Night](https://open.spotify.com/track/3WfJO9VcW0lYhpmKc29fKF) | [Beck](https://open.spotify.com/artist/43rF0ezbI0BApStNet2EWk) | [Endless Night](https://open.spotify.com/album/4DYZfWqf0nHrtkSu3W9Ffy) | 4:22 | 2025-05-28 | 2025-05-30 |
 | [Envy None](https://open.spotify.com/track/196vwD0wtg7XVC1j1Hn1jk) | [Chang Kiha](https://open.spotify.com/artist/2kppzekGp379T3M56GYd7d) | [Levitation](https://open.spotify.com/album/0Ltp40tI7gWvTdYctwlvTB) | 3:34 | 2025-05-28 |  |
 | [Evening Glow](https://open.spotify.com/track/1Yuua9AnSRDl0taHxpVNzM) | [Dayangsung](https://open.spotify.com/artist/3nVkLQWe6gkgmqia9kl89z) | [A World Full Of Paper Planes & Balloons](https://open.spotify.com/album/5QlrdfNsruHMELFrb9xEDd) | 3:41 | 2025-05-28 |  |
 | [Fall](https://open.spotify.com/track/4WSspOeyMTKFuWvmzG2B22) | [Soumbalgwang](https://open.spotify.com/artist/5DcbkrdjQzNrjzSYLa6QL4) | [Happiness, Flower](https://open.spotify.com/album/47nnlXVeYPYRItco2324py) | 3:51 | 2025-05-28 |  |
@@ -43,8 +44,9 @@
 | [It Rains](https://open.spotify.com/track/6gRKUHkcccyZi7442aPme9) | [Seoul Electric Band](https://open.spotify.com/artist/2rdg9jLI2WN0bAsrPWdRo1) | [It Rains](https://open.spotify.com/album/59W9Ohv3Y6hlenBBk5whDn) | 5:22 | 2025-05-28 |  |
 | [Know You Did](https://open.spotify.com/track/62n4Fv2LF86hDkJyeb5NZf) | [bongjeingan](https://open.spotify.com/artist/3zyq3DzSd4aue9Q7s1qMVu) | [Know You Did / Say Yes](https://open.spotify.com/album/3B6D95jRuk3UfNeKSmdlLo) | 4:45 | 2025-05-28 |  |
 | [Last Day](https://open.spotify.com/track/12cQzyeSvhbxjFRlBhwwav) | [TOUCHED](https://open.spotify.com/artist/5jgIm8tZ4hqLeoHTo9wJIV) | [Last Day](https://open.spotify.com/album/74gJ4H9gwHOGIu3KSOiuHP) | 5:36 | 2025-05-28 |  |
-| [Leave](https://open.spotify.com/track/7GCyLh9De79wwOs9bSaExP) | [Beck](https://open.spotify.com/artist/43rF0ezbI0BApStNet2EWk) | [Leave](https://open.spotify.com/album/6N4XyuPypA225gnYgz58pw) | 3:28 | 2025-05-28 |  |
+| [Leave](https://open.spotify.com/track/7GCyLh9De79wwOs9bSaExP) | [Beck](https://open.spotify.com/artist/43rF0ezbI0BApStNet2EWk) | [Leave](https://open.spotify.com/album/6N4XyuPypA225gnYgz58pw) | 3:28 | 2025-05-28 | 2025-05-30 |
 | [Let Me Love My Youth](https://open.spotify.com/track/4KA9VMFIKUUMjEcnwiylr1) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [Let Me Love My Youth](https://open.spotify.com/album/7bRI9NhWadLpdKCWvzsuWJ) | 4:08 | 2025-05-28 |  |
+| [Loser](https://open.spotify.com/track/5PntSbMHC1ud6Vvl8x56qd) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Mellow Gold](https://open.spotify.com/album/0iIGP4Sxw3KR4OCFv2yvz8) | 3:55 | 2025-05-29 |  |
 | [Lost in Time](https://open.spotify.com/track/1RksBldsrlIgOXfgsoSb1S) | [Far East Asian Tigers](https://open.spotify.com/artist/6GUWxio3LfJjV8DyH6RXEM) | [Lost in Time](https://open.spotify.com/album/4sabXmxRNgSfnuFZjrn9df) | 3:02 | 2025-05-28 |  |
 | [Magnolia](https://open.spotify.com/track/5zITiikxJP51591PPTd0pU) | [Deafheaven](https://open.spotify.com/artist/4XpPveeg7RuYS3CgLo75t9) | [Lonely People With Power](https://open.spotify.com/album/5Eh3xMVdGFAUiYwuoPOzXc) | 4:14 | 2025-05-28 |  |
 | [Mikael](https://open.spotify.com/track/0c2DTzgfJ1MV08drqsRwlU) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [Angel interview](https://open.spotify.com/album/71nETOcHFhXdn9gp8bZsjT) | 4:24 | 2025-05-28 |  |

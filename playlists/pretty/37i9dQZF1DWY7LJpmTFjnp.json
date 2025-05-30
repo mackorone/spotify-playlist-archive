@@ -1,6 +1,6 @@
 {
   "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano. El Harag\u00e1n y Compa\u00f1\u00eda en portada. ",
-  "num_followers": 1001139,
+  "num_followers": 1001071,
   "original_name": "La + Chingona",
   "owner": {
     "name": "Spotify",
@@ -983,6 +983,22 @@
     {
       "added_at": "2025-05-02 06:00:24",
       "album": {
+        "name": "Restaurant",
+        "url": "https://open.spotify.com/album/5zU7tsXAkoLAdc1Un5j96c"
+      },
+      "artists": [
+        {
+          "name": "Jumbo",
+          "url": "https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB"
+        }
+      ],
+      "duration_ms": 209040,
+      "name": "Siento Que...",
+      "url": "https://open.spotify.com/track/1VtBjpwh6xdRPDy20Uln3W"
+    },
+    {
+      "added_at": "2025-05-02 06:00:24",
+      "album": {
         "name": "Golpes en el Coraz\u00f3n",
         "url": "https://open.spotify.com/album/1v2sXZ3GCmKSwGOM24VSiZ"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 211268,
       "name": "Golpes en el Coraz\u00f3n",
       "url": "https://open.spotify.com/track/5fXk93H1gUgNtZrDGiNLR4"
-    },
-    {
-      "added_at": "2025-05-02 06:00:24",
-      "album": {
-        "name": "Restaurant",
-        "url": "https://open.spotify.com/album/5zU7tsXAkoLAdc1Un5j96c"
-      },
-      "artists": [
-        {
-          "name": "Jumbo",
-          "url": "https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB"
-        }
-      ],
-      "duration_ms": 209040,
-      "name": "Siento Que...",
-      "url": "https://open.spotify.com/track/1VtBjpwh6xdRPDy20Uln3W"
     },
     {
       "added_at": "2025-05-02 06:00:24",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2025-05-02 06:00:24",
       "album": {
-        "name": "Y Ca\u00edste",
-        "url": "https://open.spotify.com/album/1mRK52YC5AHfqLV2AizYyD"
-      },
-      "artists": [
-        {
-          "name": "Caifanes",
-          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
-        }
-      ],
-      "duration_ms": 292846,
-      "name": "Y Ca\u00edste",
-      "url": "https://open.spotify.com/track/6WgxkxlKYel9tbcXGJ2EcG"
-    },
-    {
-      "added_at": "2025-05-02 06:00:24",
-      "album": {
         "name": "Reluciente, Rechinante y Aterciopelado",
         "url": "https://open.spotify.com/album/3vy5S1DPa0WFL3bRBmxXpg"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 291666,
       "name": "Maligno (feat. Le\u00f3n Larregui)",
       "url": "https://open.spotify.com/track/4JbaHnHxPaMXQG1NFT1Nem"
+    },
+    {
+      "added_at": "2025-05-02 06:00:24",
+      "album": {
+        "name": "Y Ca\u00edste",
+        "url": "https://open.spotify.com/album/1mRK52YC5AHfqLV2AizYyD"
+      },
+      "artists": [
+        {
+          "name": "Caifanes",
+          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
+        }
+      ],
+      "duration_ms": 292846,
+      "name": "Y Ca\u00edste",
+      "url": "https://open.spotify.com/track/6WgxkxlKYel9tbcXGJ2EcG"
     },
     {
       "added_at": "2025-05-02 06:00:24",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2025-05-02 06:00:24",
       "album": {
-        "name": "Serpiente",
-        "url": "https://open.spotify.com/album/106YhJVPkWUSYd3H6ImjDZ"
-      },
-      "artists": [
-        {
-          "name": "Bunbury",
-          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
-        }
-      ],
-      "duration_ms": 267258,
-      "name": "Serpiente",
-      "url": "https://open.spotify.com/track/663UMoGtYJxHXbfDhhojL7"
-    },
-    {
-      "added_at": "2025-05-02 06:00:24",
-      "album": {
         "name": "No Olvidamos",
         "url": "https://open.spotify.com/album/26kvfgqmq2SoSBw1Kh1x76"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 274991,
       "name": "No Olvidamos",
       "url": "https://open.spotify.com/track/5RBuyILfyRzNEQecmDVweI"
+    },
+    {
+      "added_at": "2025-05-02 06:00:24",
+      "album": {
+        "name": "Serpiente",
+        "url": "https://open.spotify.com/album/106YhJVPkWUSYd3H6ImjDZ"
+      },
+      "artists": [
+        {
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+        }
+      ],
+      "duration_ms": 267258,
+      "name": "Serpiente",
+      "url": "https://open.spotify.com/track/663UMoGtYJxHXbfDhhojL7"
     },
     {
       "added_at": "2025-05-02 06:00:24",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2025-05-02 06:00:24",
       "album": {
+        "name": "Sweet & Sour - Hot & Spicy",
+        "url": "https://open.spotify.com/album/0MpryzsjWVwyYfb5YyAJG7"
+      },
+      "artists": [
+        {
+          "name": "Ely Guerra",
+          "url": "https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ"
+        }
+      ],
+      "duration_ms": 262066,
+      "name": "Ojos Claros, Labios Rosas",
+      "url": "https://open.spotify.com/track/34tCEtUZP9JaPZ6KqFUHvh"
+    },
+    {
+      "added_at": "2025-05-02 06:00:24",
+      "album": {
         "name": "Bier & Ska",
         "url": "https://open.spotify.com/album/4pxMygdzZTAmzRSqmeb6sn"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 233807,
       "name": "Para llegar hasta aqu\u00ed",
       "url": "https://open.spotify.com/track/538EBNYTHPk4NL8yrTatX4"
-    },
-    {
-      "added_at": "2025-05-02 06:00:24",
-      "album": {
-        "name": "Sweet & Sour - Hot & Spicy",
-        "url": "https://open.spotify.com/album/0MpryzsjWVwyYfb5YyAJG7"
-      },
-      "artists": [
-        {
-          "name": "Ely Guerra",
-          "url": "https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ"
-        }
-      ],
-      "duration_ms": 262066,
-      "name": "Ojos Claros, Labios Rosas",
-      "url": "https://open.spotify.com/track/34tCEtUZP9JaPZ6KqFUHvh"
     },
     {
       "added_at": "2025-05-02 06:00:24",
@@ -1487,6 +1487,26 @@
     {
       "added_at": "2025-05-02 06:00:24",
       "album": {
+        "name": "Hoy Flasheaba",
+        "url": "https://open.spotify.com/album/2jXPBhLSWnQs5VcJZjp6If"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        },
+        {
+          "name": "Benjam\u00edn Amadeo",
+          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
+        }
+      ],
+      "duration_ms": 213446,
+      "name": "Hoy Flasheaba",
+      "url": "https://open.spotify.com/track/0CpwIGTDy6zBNe68QNtdou"
+    },
+    {
+      "added_at": "2025-05-02 06:00:24",
+      "album": {
         "name": "SONIDERO",
         "url": "https://open.spotify.com/album/7esSMUEhSbr30LElTZY63Z"
       },
@@ -1507,26 +1527,6 @@
       "duration_ms": 206605,
       "name": "SONIDERO",
       "url": "https://open.spotify.com/track/4yiSoPgXRTtMeGaoN7QTMP"
-    },
-    {
-      "added_at": "2025-05-02 06:00:24",
-      "album": {
-        "name": "Hoy Flasheaba",
-        "url": "https://open.spotify.com/album/2jXPBhLSWnQs5VcJZjp6If"
-      },
-      "artists": [
-        {
-          "name": "Los Caligaris",
-          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
-        },
-        {
-          "name": "Benjam\u00edn Amadeo",
-          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
-        }
-      ],
-      "duration_ms": 213446,
-      "name": "Hoy Flasheaba",
-      "url": "https://open.spotify.com/track/0CpwIGTDy6zBNe68QNtdou"
     },
     {
       "added_at": "2025-05-02 06:00:24",
@@ -1663,22 +1663,22 @@
     {
       "added_at": "2025-05-02 06:00:24",
       "album": {
-        "name": "El Mono Relojero",
-        "url": "https://open.spotify.com/album/63ojLoOQjXGp08py677RLb"
+        "name": "No Puede Parar De So\u00f1ar",
+        "url": "https://open.spotify.com/album/5BmtSXjM8FVLNGVWGz63z8"
       },
       "artists": [
         {
-          "name": "Kapanga",
-          "url": "https://open.spotify.com/artist/2MLiASzGQHVMyORIApRGsp"
+          "name": "Nunca Jamas",
+          "url": "https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7"
         },
         {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+          "name": "DLD",
+          "url": "https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S"
         }
       ],
-      "duration_ms": 201031,
-      "name": "El Mono Relojero",
-      "url": "https://open.spotify.com/track/5iDMweitSvV612I1UDPHZn"
+      "duration_ms": 197801,
+      "name": "No Puede Parar De So\u00f1ar",
+      "url": "https://open.spotify.com/track/7ujRdKjA7G7QvFkq0YV0dO"
     },
     {
       "added_at": "2025-05-02 06:00:24",

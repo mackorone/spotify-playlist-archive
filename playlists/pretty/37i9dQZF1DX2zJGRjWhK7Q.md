@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zJGRjWhK7Q.md) - [plain]
 
 > Lo mejor de los '70\. Foto: Ismael Rivera
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,148 likes - 50 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,207 likes - 50 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zJGRjWhK7Q.md) - [plain]
 | 39 | [Agua De Clavelito](https://open.spotify.com/track/7I9d2fIkGK7r4Wjv4p2EJW) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Hector Casanova](https://open.spotify.com/artist/1xAyYU2KQcA4QaNvVqVdu4) | [Los Amigos](https://open.spotify.com/album/79pbn3RdGDpThPwyZ6PB7g) | 6:22 |
 | 40 | [El Cantante](https://open.spotify.com/track/1uRXl9FJPkommfTTqXkhRo) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Comedia](https://open.spotify.com/album/3TZvhtRWCC83hHykgTmu6G) | 10:26 |
 | 41 | [El Pito \(I'll Never Go Back to Georgia\)](https://open.spotify.com/track/123DhY52I0k5RVbJyGUwt9) | [Joe Cuba](https://open.spotify.com/artist/5MlfccEEOw6kihsT8eQtbh) | [We Must Be Doing Something Right](https://open.spotify.com/album/0e6r15KH883uqbc8iWqpyC) | 5:33 |
-| 42 | [Comedia](https://open.spotify.com/track/2HEtouKKbiZSOnZJmYj1h0) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Comedia](https://open.spotify.com/album/3TZvhtRWCC83hHykgTmu6G) | 3:31 |
-| 43 | [Popurri Navideño / Estrellas De Oriente \(De Tierras Lejanas\) / Noche De Paz / La Virgen Maria / La Tierra Mia](https://open.spotify.com/track/7nmQRUWNptOVlHlxDAYMWE) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Asalto Navideño Deluxe Edition](https://open.spotify.com/album/5anrfHL63mx1v31grZcTbo) | 3:36 |
-| 44 | [Mala Suerte](https://open.spotify.com/track/0K3LgduOVcSi9Z75bcbihT) | [Lebrón Brothers](https://open.spotify.com/artist/3MeSOWo9ZSTe5Esf66uXam) | [Psychedelic Goes Latin](https://open.spotify.com/album/4p88woLM8wg52uaMXCWc8j) | 3:10 |
-| 45 | [Quítate Tú](https://open.spotify.com/track/2KOiIR272UwNz61tWNhouU) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u) | [Fania All Stars Campeones](https://open.spotify.com/album/2OY2VLc3Bt8HjtHaIg2hyH) | 5:31 |
-| 46 | [Cucala](https://open.spotify.com/track/068Vh4J8cy4k5YyIBXRfwK) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o) | [Viva la Reina de la Salsa](https://open.spotify.com/album/39MP5U6g9wL90ieQzXWAb7) | 3:49 |
-| 47 | [El Watusi](https://open.spotify.com/track/3eBkq0Q62N2CXuJzoC0ZyE) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [The Latin Soul Man](https://open.spotify.com/album/5eJb5vJaEkFhyYYnPeIltG) | 2:39 |
-| 48 | [Siempre Alegre](https://open.spotify.com/track/6otJXrhINqJosHnDwFtGj2) | [Raphy Leavitt](https://open.spotify.com/artist/0MEfUKKTbD1V0312mx08JR) | [The Greatest Salsa Ever](https://open.spotify.com/album/4tYWoynGUNW2Hsz1Q2jC9Q) | 5:18 |
-| 49 | [El Nazareno](https://open.spotify.com/track/062vOe8esScYEDw4cPvBxs) | [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [La Herencia](https://open.spotify.com/album/7C94KIrL1IS3hHQwQ9BbGr) | 5:36 |
-| 50 | [Ojala Te Vaya Bonito](https://open.spotify.com/track/44vubYg1sbgD5Sn8qzeHOH) | [Willie Rosario](https://open.spotify.com/artist/24qSVomYxpfAFwzBnKCc8J) | [From The Depth Of My Brain](https://open.spotify.com/album/5BksQA5f2rlGWZWOne9Kav) | 6:27 |
+| 42 | [Popurri Navideño / Estrellas De Oriente \(De Tierras Lejanas\) / Noche De Paz / La Virgen Maria / La Tierra Mia](https://open.spotify.com/track/7nmQRUWNptOVlHlxDAYMWE) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Asalto Navideño Deluxe Edition](https://open.spotify.com/album/5anrfHL63mx1v31grZcTbo) | 3:36 |
+| 43 | [Mala Suerte](https://open.spotify.com/track/0K3LgduOVcSi9Z75bcbihT) | [Lebrón Brothers](https://open.spotify.com/artist/3MeSOWo9ZSTe5Esf66uXam) | [Psychedelic Goes Latin](https://open.spotify.com/album/4p88woLM8wg52uaMXCWc8j) | 3:10 |
+| 44 | [Quítate Tú](https://open.spotify.com/track/2KOiIR272UwNz61tWNhouU) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u) | [Fania All Stars Campeones](https://open.spotify.com/album/2OY2VLc3Bt8HjtHaIg2hyH) | 5:31 |
+| 45 | [Cucala](https://open.spotify.com/track/068Vh4J8cy4k5YyIBXRfwK) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o) | [Viva la Reina de la Salsa](https://open.spotify.com/album/39MP5U6g9wL90ieQzXWAb7) | 3:49 |
+| 46 | [El Watusi](https://open.spotify.com/track/3eBkq0Q62N2CXuJzoC0ZyE) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [The Latin Soul Man](https://open.spotify.com/album/5eJb5vJaEkFhyYYnPeIltG) | 2:39 |
+| 47 | [Siempre Alegre](https://open.spotify.com/track/6otJXrhINqJosHnDwFtGj2) | [Raphy Leavitt](https://open.spotify.com/artist/0MEfUKKTbD1V0312mx08JR) | [The Greatest Salsa Ever](https://open.spotify.com/album/4tYWoynGUNW2Hsz1Q2jC9Q) | 5:18 |
+| 48 | [El Nazareno](https://open.spotify.com/track/062vOe8esScYEDw4cPvBxs) | [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [La Herencia](https://open.spotify.com/album/7C94KIrL1IS3hHQwQ9BbGr) | 5:36 |
+| 49 | [Ojala Te Vaya Bonito](https://open.spotify.com/track/44vubYg1sbgD5Sn8qzeHOH) | [Willie Rosario](https://open.spotify.com/artist/24qSVomYxpfAFwzBnKCc8J) | [From The Depth Of My Brain](https://open.spotify.com/album/5BksQA5f2rlGWZWOne9Kav) | 6:27 |
+| 50 | [Comedia](https://open.spotify.com/track/2HEtouKKbiZSOnZJmYj1h0) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Comedia](https://open.spotify.com/album/3TZvhtRWCC83hHykgTmu6G) | 3:31 |
 
 Snapshot ID: `ZvMhWAAAAADuJw0rrZ/Ubj344fUwK+lP`

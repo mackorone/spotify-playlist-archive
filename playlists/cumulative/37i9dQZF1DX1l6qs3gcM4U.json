@@ -827,6 +827,28 @@
     },
     {
       "album": {
+        "name": "Azar",
+        "url": "https://open.spotify.com/album/0PMcYuhwxEXoLQg5FLpEos"
+      },
+      "artists": [
+        {
+          "name": "Nice Life",
+          "url": "https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ"
+        },
+        {
+          "name": "Cleyton David",
+          "url": "https://open.spotify.com/artist/6SjhlmHzqfTKSChQ1k8lzq"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178600,
+      "name": "Azar",
+      "url": "https://open.spotify.com/track/6SfTMSSabiF60w3XBpWbyX"
+    },
+    {
+      "album": {
         "name": "Babe",
         "url": "https://open.spotify.com/album/2bkpENCLszFR5ZFu86zZEo"
       },
@@ -918,7 +940,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 185014,
       "name": "Bailando",
       "url": "https://open.spotify.com/track/5WZ85kq4TG0RwWAeUq7Y6c"
@@ -2626,7 +2648,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 176708,
       "name": "Disisti",
       "url": "https://open.spotify.com/track/6z7TwtbPiTUmzoAMIghoG2"
@@ -3122,7 +3144,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-07",
+      "date_removed": null,
       "duration_ms": 173858,
       "name": "Estou a Ficar Maluco",
       "url": "https://open.spotify.com/track/3U031aTlvrvNQxGTJxAp5O"
@@ -3674,7 +3696,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-16",
+      "date_removed": null,
       "duration_ms": 152410,
       "name": "F\u00e9",
       "url": "https://open.spotify.com/track/6bp9ivNIHLHqHFPIaqC40u"
@@ -5070,7 +5092,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 157500,
       "name": "Malibu",
       "url": "https://open.spotify.com/track/11bu6O03dBehX5jVTYk7Qo"
@@ -9832,7 +9854,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 176000,
       "name": "Vai Chamar A M\u00e3e Dela",
       "url": "https://open.spotify.com/track/4P3ihy3K9aH4Z01YevyHG1"
@@ -10424,7 +10446,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-19",
+      "date_removed": null,
       "duration_ms": 197241,
       "name": "Wassup",
       "url": "https://open.spotify.com/track/7F5hgqfJH0P6ZcoYHqFmzE"

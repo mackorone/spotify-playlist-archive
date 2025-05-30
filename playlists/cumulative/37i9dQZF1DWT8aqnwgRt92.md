@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-1,979 songs - 5 day 3 hr 5 min
+1,980 songs - 5 day 3 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Alive](https://open.spotify.com/track/4HkMETY0zKUblZVAX22YUD) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Alive](https://open.spotify.com/album/7IBqowr22LfhlV1GL6fQmF) | 4:18 | 2022-11-08 | 2023-01-13 |
 | [ALIVE \- LycoReco Version](https://open.spotify.com/track/6d1bY43yAlhHwxJAuUYsll) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ALIVE \(LycoReco Version\)](https://open.spotify.com/album/2wfi1Oar57Qp9wAm4pwSY4) | 2:46 | 2022-10-11 | 2022-11-25 |
 | [ALIVE \-season 03\-](https://open.spotify.com/track/7jXP5zbMmeiIJ6JTkA1dff) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ALIVE \-season 03\-](https://open.spotify.com/album/3dgLQWzjYuMUnCZplwXMir) | 3:37 | 2025-04-15 | 2025-05-21 |
-| [All I Want \(T\_001\)](https://open.spotify.com/track/3kvDdcw3onrlVgCmHtZwKf) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX), [Orika Okachi](https://open.spotify.com/artist/64MR9WRpiytWnGv4fWfryX) | [All I Want \(T\_001\)](https://open.spotify.com/album/3dvsu8OIVbNZYt7ztkQMcw) | 2:55 | 2025-05-13 |  |
+| [All I Want \(T\_001\)](https://open.spotify.com/track/3kvDdcw3onrlVgCmHtZwKf) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX), [Orika Okachi](https://open.spotify.com/artist/64MR9WRpiytWnGv4fWfryX) | [All I Want \(T\_001\)](https://open.spotify.com/album/3dvsu8OIVbNZYt7ztkQMcw) | 2:55 | 2025-05-13 | 2025-05-30 |
 | [ALL MY PARTS](https://open.spotify.com/track/2HF1AgI2r4asyj938aL02q) | [GYROAXIA](https://open.spotify.com/artist/28PDBS1Y9qIwKlne2T8hm0) | [ALL MY PARTS](https://open.spotify.com/album/7ky0Wlz0NAtVqwS2KOJM7A) | 4:18 | 2023-09-07 | 2023-10-04 |
 | [Alright!!!](https://open.spotify.com/track/3tPk1doXdKGzwHP3HsghPg) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [Alright!!!](https://open.spotify.com/album/2LAtZAVqBu5mwWOXuvecxs) | 3:39 | 2025-04-05 |  |
 | [Alter Echo](https://open.spotify.com/track/7iibMoDEQN4S3xaGz5vm4S) | [Haruka Tomatsu](https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra) | [Alter Echo](https://open.spotify.com/album/1u2So6XMuU1DAKnNZvevQF) | 3:31 | 2023-05-16 | 2023-07-27 |
@@ -1961,6 +1961,7 @@
 | [青100色](https://open.spotify.com/track/6tP2bYIUMcDFn9Zfs9ZAE4) | [伊藤美来](https://open.spotify.com/artist/4IcWgtz5hpMVQ8ZFEXUSAD) | [青100色 \(TVアニメ「古見さんは、コミュ症です。」オープニング・テーマ\)](https://open.spotify.com/album/3SpGjj6yNjbv5OvObTrPNy) | 3:56 | 2022-05-28 | 2022-07-06 |
 | [青く、青く](https://open.spotify.com/track/4x8y91an0erARwUUTifXWP) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [青く、青く](https://open.spotify.com/album/0gnXedu8kjG7R8XPdDpREc) | 4:32 | 2024-01-04 | 2024-04-05 |
 | [青のすみか](https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [青のすみか](https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS) | 3:16 | 2023-07-06 | 2024-04-11 |
+| [青のすみか \(Acoustic ver.\)](https://open.spotify.com/track/2vB0EKXrPcYIshTXZFtQVP) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [青のすみか \(Acoustic ver.\)](https://open.spotify.com/album/1KUQXjdwhIHQGiV40UkILg) | 3:23 | 2025-05-29 |  |
 | [青へ](https://open.spotify.com/track/6xPfqwBUBY0NQDFL2w4tXm) | [LIP×LIP](https://open.spotify.com/artist/5LtKPfXlcnoOvks1fj2c3b), [勇次郎 \(CV:内山昂輝\)](https://open.spotify.com/artist/6zcLeTGwFoddrcExg57vI4), [愛蔵 \(CV:島﨑信長\)](https://open.spotify.com/artist/1iOh71mDLOpHEdKPvDYKoc) | [青へ](https://open.spotify.com/album/5Kf18BtPqIGAAhFJmYinZY) | 4:08 | 2022-06-02 | 2022-07-01 |
 | [青春コンプレックス](https://open.spotify.com/track/0jpP8AlQLVtaMwA3vQYpYB) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [青春コンプレックス](https://open.spotify.com/album/3yiMrbhmz7rqjTW3AgmG9W) | 3:25 | 2022-10-08 | 2023-01-27 |
 | [青春切符](https://open.spotify.com/track/5lZbYGHSJPnnvMDjyqLnms) | [Mafumafu](https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ) | [青春切符](https://open.spotify.com/album/6JjbcI0T2ATnzl0sLF6I6C) | 4:04 | 2022-10-25 | 2022-10-27 |

@@ -4,7 +4,7 @@
 
 > Pegue seu café, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.
 
-199 songs - 11 hr 59 min
+200 songs - 12 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,9 +86,10 @@
 | [Hello](https://open.spotify.com/track/3pla8YL6bz8rURpyZhyEKD) | [Zé Ibarra](https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U) | [Marquês, 256.](https://open.spotify.com/album/1qJlWTgyyZhrF0jxWnDE9I) | 1:47 | 2023-06-02 | 2023-06-17 |
 | [I Don't Want To Talk About It](https://open.spotify.com/track/79hHaRraMY1E8t8U2TS7jK) | [Fernanda Takai](https://open.spotify.com/artist/62Yab84ZgQW4k4nOUPqIxE) | [Na Medida do Impossível Ao Vivo No Inhotim \(álbum Comentado\)](https://open.spotify.com/album/6duND4qwkaiUAyVFsoJUfB) | 3:27 | 2022-08-19 |  |
 | [Insensatez](https://open.spotify.com/track/6EEJ80jZ2VTdAEDh7oWjBv) | [Maria Luiza Jobim](https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM), [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Insensatez](https://open.spotify.com/album/3WLkBpELNdh4EWwVviDWt2) | 3:12 | 2024-10-25 | 2024-11-09 |
-| [Iroko](https://open.spotify.com/track/59ntX56WnGYW24wXanrsMC) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7) | [Gira Mundo](https://open.spotify.com/album/5oh1vYj0UR3CT80XPQOPKJ) | 2:24 | 2025-05-23 |  |
+| [Iroko](https://open.spotify.com/track/59ntX56WnGYW24wXanrsMC) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7) | [Gira Mundo](https://open.spotify.com/album/5oh1vYj0UR3CT80XPQOPKJ) | 2:24 | 2025-05-23 | 2025-05-30 |
 | [Isabel Tchau](https://open.spotify.com/track/0cwA5Ho2uI1i1d6U9tVU58) | [Arthur Verocai](https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ), [Sanny Alves](https://open.spotify.com/artist/6jso82wQxVIBAV8VRieChM) | [Saudade Demais](https://open.spotify.com/album/48iKN8MJAJq3j5G8Zw1INt) | 4:24 | 2024-10-22 | 2024-10-26 |
 | [Janta](https://open.spotify.com/track/4utoXvhzZBIrsDKOEtApSl) | [Marcelo Camelo](https://open.spotify.com/artist/2HubQ6TEbD7HknCNrBsqhR) | [Sou](https://open.spotify.com/album/329FECZuSWB3DSS73KAT3A) | 3:24 | 2023-06-16 | 2023-08-08 |
+| [Jóia](https://open.spotify.com/track/5PJZbd8I7PrQDDDcehVU6M) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Luiz Melodia](https://open.spotify.com/artist/1zZjt7cDeeJSLWZYK34r7W), [Isaiah Sharkey](https://open.spotify.com/artist/0kp0swievR0bFFY3zRoETY) | [Um Mar Pra Cada Um,](https://open.spotify.com/album/7s4sDqfWp9bbkWgU185WVh) | 3:16 | 2025-05-26 |  |
 | [Lança Perfume](https://open.spotify.com/track/3cijWAljXxxJDco4N2aLQl) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1) | [Rita Lee](https://open.spotify.com/album/77whDq0J0bYLftDVMKAlK7) | 5:10 | 2022-08-19 | 2024-04-19 |
 | [Lança Perfume](https://open.spotify.com/track/3RCoY39kzmHdnvCvHeGh3K) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1) | [Lanca Perfume E Outras Manias](https://open.spotify.com/album/4XLbkcXDkeCPrCInaG9bvS) | 5:14 | 2024-04-05 | 2025-02-15 |
 | [Laços](https://open.spotify.com/track/67TkwLw4MU99lmHtUYo340) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Reconstrução](https://open.spotify.com/album/4MaXnFPKQXHK7voqrWGEPn) | 3:24 | 2022-08-19 |  |

@@ -4,7 +4,7 @@
 
 > The ultimate chilled soundtrack to bring your day to a close.
 
-219 songs - 16 hr 15 min
+220 songs - 16 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,7 @@
 | [On My Mind](https://open.spotify.com/track/0Ret48IIcgcQdB54orjZKS) | [Tom Everett](https://open.spotify.com/artist/3cqEzT9Vye9tH2wlY2pAZK) | [On My Mind](https://open.spotify.com/album/7G1JFppuNI2Q0kSe2W2AkB) | 3:26 | 2021-10-15 | 2022-07-29 |
 | [One Last Call](https://open.spotify.com/track/30nygP64gBZqbLoWC72vNq) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Felix Raphael](https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z) | [One Last Call](https://open.spotify.com/album/4P5fu99YdeoP7K29RyOvyy) | 4:16 | 2023-10-13 |  |
 | [One Last Time](https://open.spotify.com/track/3Rxehh3XVSFaKtLscJd3SM) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [All Visible Objects](https://open.spotify.com/album/7lYli0df1ql7AZCWNnUJuM) | 5:33 | 2021-10-15 | 2022-07-29 |
-| [Pasarla](https://open.spotify.com/track/1iPlvNB8uJyKrUfTDaeku4) | [Jamy Nox](https://open.spotify.com/artist/2VdnGtTNKt8Bm6hS5Pgra3) | [Pasarla](https://open.spotify.com/album/0wHgRHuGgrowONsvu0gERk) | 2:56 | 2025-05-01 |  |
+| [Pasarla](https://open.spotify.com/track/1iPlvNB8uJyKrUfTDaeku4) | [Jamy Nox](https://open.spotify.com/artist/2VdnGtTNKt8Bm6hS5Pgra3) | [Pasarla](https://open.spotify.com/album/0wHgRHuGgrowONsvu0gERk) | 2:56 | 2025-05-01 | 2025-05-30 |
 | [Pastoral](https://open.spotify.com/track/19vWDttuR4ZVBzUfQFsfPS) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Pastoral](https://open.spotify.com/album/7e79YQn5tWC0LL9M2SFtde) | 3:40 | 2022-07-20 |  |
 | [Patadas de Ahogado / LATÍN MAFIA, HUMBE \- Rework](https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [Patadas de Ahogado / LATÍN MAFIA, HUMBE \(Rework\)](https://open.spotify.com/album/4XNpw8KZFcml3E0wz4ZyYx) | 3:06 | 2024-03-27 |  |
 | [Peace And Noise \(feat\. Suli Breaks\)](https://open.spotify.com/track/628gLpI2vWS9a13FS1KJtP) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE), [Suli Breaks](https://open.spotify.com/artist/5XnwG6JFrOMlVGOZfy54ck) | [Peace And Noise \(feat\. Suli Breaks\)](https://open.spotify.com/album/073GkWUvivIh0EzJg2vImY) | 3:00 | 2025-05-01 | 2025-05-05 |
@@ -191,6 +191,7 @@
 | [Stars Above](https://open.spotify.com/track/36vtpWkQyA2wTxkH8taIHg) | [Swoosh](https://open.spotify.com/artist/2WCrtPixyggICoueTKsjjG), [bad tuner](https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm) | [Stars Above](https://open.spotify.com/album/2fg5mQkGQRT3ELk0KZeu6B) | 3:10 | 2025-05-01 |  |
 | [Summer In The Ends](https://open.spotify.com/track/3ttIBQv2qjIWXbHeoCnoVm) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [George The Poet](https://open.spotify.com/artist/7v8N36cC4msGrIM2YT4LNC) | [Sounds of My World](https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH) | 4:47 | 2021-10-15 | 2024-03-28 |
 | [Sundown](https://open.spotify.com/track/1wk4sL0DMj0A46MktCZIW5) | [Duke Boara](https://open.spotify.com/artist/6EL8x2zkCRGzb32jvrSI56) | [Sundown](https://open.spotify.com/album/1gqekghNnOZ3uzJDJOAYba) | 4:34 | 2021-10-15 | 2022-07-29 |
+| [Sunrise](https://open.spotify.com/track/3bS6JKgmnvg6mjQLCZi7JW) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Sunrise](https://open.spotify.com/album/2c7CmLUHiHGi5n0uhHf22P) | 5:28 | 2025-05-29 |  |
 | [Suzuki](https://open.spotify.com/track/7DBBuzCuZQaWNRix9ys6UB) | [Tosca](https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn) | [Suzuki](https://open.spotify.com/album/3mMCQiZaRbwPhn1I3vdFRP) | 6:04 | 2022-07-20 | 2023-11-17 |
 | [Take Me Back](https://open.spotify.com/track/77XWWoOmIporiyZw7WYtiq) | [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Take Me Back](https://open.spotify.com/album/6R0hNupGSqL55IzZYdU9ps) | 2:55 | 2024-07-05 | 2024-09-27 |
 | [Take Me There](https://open.spotify.com/track/4AjynDSkuGn4EZXjy5YYL4) | [Dejector](https://open.spotify.com/artist/0WwAYiS9iUf3VNUqRniJsi) | [Take Me There](https://open.spotify.com/album/5BBKnHnAIuhup9rSQE3bYW) | 3:15 | 2021-10-15 | 2022-07-29 |

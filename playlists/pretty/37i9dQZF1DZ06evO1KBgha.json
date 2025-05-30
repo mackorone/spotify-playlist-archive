@@ -1,12 +1,12 @@
 {
   "description": "This is Kenia Os. The essential tracks, all in one playlist.",
-  "num_followers": 363184,
+  "num_followers": 363205,
   "original_name": "This Is Kenia Os",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDUAgAAAAABPW+DnRNXse4eRlQzy4AUv",
+  "snapshot_id": "aDZSAAAAAADigu4QD8NAUd9Sd5yClJNj",
   "tracks": [
     {
       "added_at": null,
@@ -35,26 +35,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Una Nada M\u00e1s",
-        "url": "https://open.spotify.com/album/3BThJjhquxcjlV2umvw1ve"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        },
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 169640,
-      "name": "Una Nada M\u00e1s",
-      "url": "https://open.spotify.com/track/42QSyOOPV5ZoV7xST6X4jn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En 4",
         "url": "https://open.spotify.com/album/6IdEHZU1avInt4NeuACdRt"
       },
@@ -71,6 +51,26 @@
       "duration_ms": 186382,
       "name": "En 4",
       "url": "https://open.spotify.com/track/2hVKtXecIaFlWRRDgZgLlf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Una Nada M\u00e1s",
+        "url": "https://open.spotify.com/album/3BThJjhquxcjlV2umvw1ve"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 169640,
+      "name": "Una Nada M\u00e1s",
+      "url": "https://open.spotify.com/track/42QSyOOPV5ZoV7xST6X4jn"
     },
     {
       "added_at": null,
@@ -260,13 +260,17 @@
           "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
         },
         {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+          "name": "Yeri Mua",
+          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
+        },
+        {
+          "name": "Ghetto Kids",
+          "url": "https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq"
         }
       ],
-      "duration_ms": 158518,
-      "name": "Kitty",
-      "url": "https://open.spotify.com/track/5N7MQvvccl5Hu01j9dUtPe"
+      "duration_ms": 178581,
+      "name": "Mamita Rica",
+      "url": "https://open.spotify.com/track/7vWCNYFkxVmQM2PfegA9YE"
     },
     {
       "added_at": null,
@@ -332,17 +336,13 @@
           "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
         },
         {
-          "name": "Yeri Mua",
-          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
-        },
-        {
-          "name": "Ghetto Kids",
-          "url": "https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq"
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
         }
       ],
-      "duration_ms": 178581,
-      "name": "Mamita Rica",
-      "url": "https://open.spotify.com/track/7vWCNYFkxVmQM2PfegA9YE"
+      "duration_ms": 158518,
+      "name": "Kitty",
+      "url": "https://open.spotify.com/track/5N7MQvvccl5Hu01j9dUtPe"
     },
     {
       "added_at": null,

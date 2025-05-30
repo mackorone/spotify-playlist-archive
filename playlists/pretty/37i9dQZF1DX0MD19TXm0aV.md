@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MD19TXm0aV.md) - [plain]
 
 > Switzerland's biggest hits right now\. Cover: Mariana Froes
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,188 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,183 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MD19TXm0aV.md) - [plain]
 | 49 | [Shabab\(e\)s im VIP](https://open.spotify.com/track/1JjHQ4lfAjbDq7wmOmH9wM) | [Pashanim](https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg), [Ceren](https://open.spotify.com/artist/6sgeY4vovk7KfxVwiu2V9E) | [grünewürfelflow](https://open.spotify.com/album/4abdDHSZaiXkvPBlFD5cnv) | 1:55 |
 | 50 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 |
 
-Snapshot ID: `AAAAAOxp3C/QjRUBw0aV2eBULgnr8wPa`
+Snapshot ID: `aDcQHgAAAADYcVWyv1mucXXz/sC7/hYL`

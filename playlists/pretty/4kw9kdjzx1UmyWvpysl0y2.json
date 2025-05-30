@@ -6,8 +6,28 @@
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUInxS0HqZTY5QtjdIz/Ux94j0oZLK",
+  "snapshot_id": "AAAUJKrwtg2y/rQQNvKt7yWfqCWdq/Cv",
   "tracks": [
+    {
+      "added_at": "2025-05-29 14:40:21",
+      "album": {
+        "name": "Never Enough",
+        "url": "https://open.spotify.com/album/26zQ04wUXh78JLnR0xAI9t"
+      },
+      "artists": [
+        {
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        },
+        {
+          "name": "Dynamick",
+          "url": "https://open.spotify.com/artist/5a7fjnssojVKbMnLJ7VUsa"
+        }
+      ],
+      "duration_ms": 181818,
+      "name": "Never Enough",
+      "url": "https://open.spotify.com/track/1rgfcr124GjfgOVG6iL5vb"
+    },
     {
       "added_at": "2025-05-28 16:00:30",
       "album": {
@@ -1127,86 +1147,6 @@
       "duration_ms": 162068,
       "name": "Old School",
       "url": "https://open.spotify.com/track/4PJ2d3KGZ0goovJMHOpxwr"
-    },
-    {
-      "added_at": "2025-03-07 14:49:09",
-      "album": {
-        "name": "Erased",
-        "url": "https://open.spotify.com/album/0Pd0xUoBSx6MsRMNJmmKPs"
-      },
-      "artists": [
-        {
-          "name": "WHIPPED CREAM",
-          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
-        },
-        {
-          "name": "Andrea Botez",
-          "url": "https://open.spotify.com/artist/2Csf1qoijHi5nMt2mMJcjd"
-        }
-      ],
-      "duration_ms": 182222,
-      "name": "Erased",
-      "url": "https://open.spotify.com/track/3ug5IXh3CC4keJp0zNEWrq"
-    },
-    {
-      "added_at": "2025-03-06 16:01:44",
-      "album": {
-        "name": "Losing Focus",
-        "url": "https://open.spotify.com/album/4nucN1upeEldBT4JaeEA8V"
-      },
-      "artists": [
-        {
-          "name": "No Mana",
-          "url": "https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg"
-        },
-        {
-          "name": "Kuspe",
-          "url": "https://open.spotify.com/artist/24FZmnUz58ndENxFnSAAC7"
-        },
-        {
-          "name": "Bertie Scott",
-          "url": "https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro"
-        }
-      ],
-      "duration_ms": 235652,
-      "name": "Losing Focus",
-      "url": "https://open.spotify.com/track/6hsfRPIYAbTBl0sF9GM4sn"
-    },
-    {
-      "added_at": "2025-03-05 15:24:20",
-      "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/0mbxkLiiUPXgvNNP0FNjeE"
-      },
-      "artists": [
-        {
-          "name": "CHYL",
-          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
-        },
-        {
-          "name": "Staarz",
-          "url": "https://open.spotify.com/artist/0bb1EZkY7SlcGKU9e5T9DL"
-        }
-      ],
-      "duration_ms": 206200,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/4nrkuhPnpgAd4NFm908YoW"
-    },
-    {
-      "added_at": "2025-03-04 15:25:12",
-      "album": {
-        "name": "The Echoes",
-        "url": "https://open.spotify.com/album/4zuc562d2SdvSujmyiYBIY"
-      },
-      "artists": [
-        {
-          "name": "Mark Novas",
-          "url": "https://open.spotify.com/artist/2iRVKO828lhfFL0RGyS7Ya"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "The Echoes",
-      "url": "https://open.spotify.com/track/586dTNuHAqUlNV3Y1UMgV0"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

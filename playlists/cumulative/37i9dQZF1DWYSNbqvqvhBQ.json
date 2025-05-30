@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "De mooiste liedjes van het moment. Cover: Ben L'Oncle Soul",
+  "description": "De mooiste liedjes van het moment. Cover: Lola Young",
   "name": "Blijf Luisteren",
   "tracks": [
     {
@@ -4669,6 +4669,28 @@
     },
     {
       "album": {
+        "name": "Hysteria",
+        "url": "https://open.spotify.com/album/6jJl8kPbUFjl8A0I5ED7sN"
+      },
+      "artists": [
+        {
+          "name": "Bertolf",
+          "url": "https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty"
+        },
+        {
+          "name": "Nomden",
+          "url": "https://open.spotify.com/artist/3gcuehaPKk7YQiNG19k4fX"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207253,
+      "name": "Hysteria",
+      "url": "https://open.spotify.com/track/0pAaHg5fct7HBQm9k0Mwfc"
+    },
+    {
+      "album": {
         "name": "I Ain't Comin' Back",
         "url": "https://open.spotify.com/album/7mY1h0bOuFvMBAyRJ6fxHB"
       },
@@ -4742,6 +4764,24 @@
       "duration_ms": 216519,
       "name": "I Believe In Life",
       "url": "https://open.spotify.com/track/5LtkWfkTVBjHpss1mSJwXW"
+    },
+    {
+      "album": {
+        "name": "I Could Be Wrong",
+        "url": "https://open.spotify.com/album/3ujt1l1rq1UnLM3KXHYPEx"
+      },
+      "artists": [
+        {
+          "name": "Ed Struijlaart",
+          "url": "https://open.spotify.com/artist/08cpwYrPWo8Xkxl9qdiDP2"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186139,
+      "name": "I Could Be Wrong",
+      "url": "https://open.spotify.com/track/1PkvInIcaxRagzStMGVAi5"
     },
     {
       "album": {
@@ -5038,6 +5078,24 @@
       "duration_ms": 239040,
       "name": "I'm A Ram",
       "url": "https://open.spotify.com/track/2dETiUOY9D2SrD7Buqt6oQ"
+    },
+    {
+      "album": {
+        "name": "I'm In Heaven",
+        "url": "https://open.spotify.com/album/4g68SKo4DiuPYlpRdblVme"
+      },
+      "artists": [
+        {
+          "name": "Goldkimono",
+          "url": "https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205671,
+      "name": "I'm In Heaven",
+      "url": "https://open.spotify.com/track/5Ycw4NgU1nxx2aFZbX1ULW"
     },
     {
       "album": {
@@ -5453,6 +5511,24 @@
     },
     {
       "album": {
+        "name": "Joking",
+        "url": "https://open.spotify.com/album/1lSICe6rIoZ3OOf4HGTfZU"
+      },
+      "artists": [
+        {
+          "name": "Lusaint",
+          "url": "https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158637,
+      "name": "Joking",
+      "url": "https://open.spotify.com/track/2NeHJnXA3fsCmfKRnCJIQq"
+    },
+    {
+      "album": {
         "name": "Mahashmashana",
         "url": "https://open.spotify.com/album/2oJHtuXrCJ0KMH5GrC6Qdw"
       },
@@ -5854,7 +5930,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 256578,
       "name": "Lifetime",
       "url": "https://open.spotify.com/track/4Lij0Sql38bVQRS8nRE0yp"
@@ -6870,7 +6946,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 298071,
       "name": "New Year's Resolution",
       "url": "https://open.spotify.com/track/2FBZLmrJSji9dZzFeuidCY"
@@ -7090,6 +7166,24 @@
       "duration_ms": 184396,
       "name": "Nothing To Lose",
       "url": "https://open.spotify.com/track/4FhKH5QIbjGnha0ZNAyYVt"
+    },
+    {
+      "album": {
+        "name": "Nothing's Forever",
+        "url": "https://open.spotify.com/album/4djcdC5dHLEe2xUex2gvNt"
+      },
+      "artists": [
+        {
+          "name": "Plume",
+          "url": "https://open.spotify.com/artist/5mwcMzXAn2fReGFjXeGGsJ"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170604,
+      "name": "Nothing's Forever",
+      "url": "https://open.spotify.com/track/4uEi9ko1zKiadHF3o1mgEp"
     },
     {
       "album": {
@@ -8355,6 +8449,24 @@
     },
     {
       "album": {
+        "name": "Send It Back",
+        "url": "https://open.spotify.com/album/1w88Rkop980Vu2KBZQbPM6"
+      },
+      "artists": [
+        {
+          "name": "DON WEST",
+          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173112,
+      "name": "Send It Back",
+      "url": "https://open.spotify.com/track/6FDYvTpaGaGjXqsnNhUPXm"
+    },
+    {
+      "album": {
         "name": "Set This Thing On Fire",
         "url": "https://open.spotify.com/album/3J36Bj1uPCFyoeL08DMbnV"
       },
@@ -9440,7 +9552,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 387244,
       "name": "Switchblade - Live in Amsterdam",
       "url": "https://open.spotify.com/track/4m8fzOki8WHxrWWJcLeuAq"
@@ -9870,6 +9982,24 @@
       "duration_ms": 212648,
       "name": "The Door",
       "url": "https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon"
+    },
+    {
+      "album": {
+        "name": "FUNNY little FEARS",
+        "url": "https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa"
+      },
+      "artists": [
+        {
+          "name": "Damiano David",
+          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218266,
+      "name": "The First Time",
+      "url": "https://open.spotify.com/track/7ETIZFr7163zFcz3RxKk5O"
     },
     {
       "album": {
@@ -10600,6 +10730,24 @@
       "duration_ms": 228397,
       "name": "Trade it for the Night - Single Version",
       "url": "https://open.spotify.com/track/2cuxy7AW3bLGFfEK0ugD6L"
+    },
+    {
+      "album": {
+        "name": "Trash",
+        "url": "https://open.spotify.com/album/0V9hG58IyxvnVIuiv00JVL"
+      },
+      "artists": [
+        {
+          "name": "MELL VF",
+          "url": "https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178606,
+      "name": "Trash",
+      "url": "https://open.spotify.com/track/4I6suhvOGM371QWu2syteT"
     },
     {
       "album": {

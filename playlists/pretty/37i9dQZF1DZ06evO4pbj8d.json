@@ -1,12 +1,12 @@
 {
   "description": "This is Joy Oladokun. The essential tracks, all in one playlist.",
-  "num_followers": 10218,
+  "num_followers": 10223,
   "original_name": "This Is Joy Oladokun",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDUAgAAAAADLKXAVXXe3H3oLS/+ojIHe",
+  "snapshot_id": "aDZSAAAAAABFUrhR9pBt7fZaaz+gvNTF",
   "tracks": [
     {
       "added_at": null,
@@ -683,18 +683,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sober",
-        "url": "https://open.spotify.com/album/2LAq8CGSyEPEWDadcMmMRs"
+        "name": "Fortune Favors The Bold",
+        "url": "https://open.spotify.com/album/6Z4nwjLYejRAzZo1HeyyPy"
       },
       "artists": [
         {
           "name": "Joy Oladokun",
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        },
+        {
+          "name": "Tim Gent",
+          "url": "https://open.spotify.com/artist/3zt7KD1sd6pwQ3PgWPZiln"
         }
       ],
-      "duration_ms": 201856,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/0VTJh1k8GwxCOdSHpcDe9s"
+      "duration_ms": 218164,
+      "name": "Fortune Favors The Bold",
+      "url": "https://open.spotify.com/track/3pfibYzsaexMHmLnmQ8iMH"
     },
     {
       "added_at": null,
@@ -715,22 +719,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fortune Favors The Bold",
-        "url": "https://open.spotify.com/album/6Z4nwjLYejRAzZo1HeyyPy"
+        "name": "Sober",
+        "url": "https://open.spotify.com/album/2LAq8CGSyEPEWDadcMmMRs"
       },
       "artists": [
         {
           "name": "Joy Oladokun",
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        },
-        {
-          "name": "Tim Gent",
-          "url": "https://open.spotify.com/artist/3zt7KD1sd6pwQ3PgWPZiln"
         }
       ],
-      "duration_ms": 218164,
-      "name": "Fortune Favors The Bold",
-      "url": "https://open.spotify.com/track/3pfibYzsaexMHmLnmQ8iMH"
+      "duration_ms": 201856,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/0VTJh1k8GwxCOdSHpcDe9s"
     },
     {
       "added_at": null,

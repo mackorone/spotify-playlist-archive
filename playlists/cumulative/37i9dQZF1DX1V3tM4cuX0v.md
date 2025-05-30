@@ -2,7 +2,7 @@
 
 ### [Hot Hits Україна](https://open.spotify.com/playlist/37i9dQZF1DX1V3tM4cuX0v)
 
-> Найпопулярніші пісні сьогодення\. Обкладинка: Jerry Heil
+> Найпопулярніші пісні сьогодення\. Обкладинка: Drevo
 
 127 songs - 6 hr 17 min
 

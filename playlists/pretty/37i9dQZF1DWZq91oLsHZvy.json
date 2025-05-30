@@ -1,6 +1,6 @@
 {
   "description": "Let's go! \ud83d\udc5f",
-  "num_followers": 738818,
+  "num_followers": 739071,
   "original_name": "Indie Running",
   "owner": {
     "name": "Spotify",
@@ -595,22 +595,6 @@
     {
       "added_at": "2025-01-08 15:41:24",
       "album": {
-        "name": "The Balance",
-        "url": "https://open.spotify.com/album/0eELSmJrZpzOKfdO80nJ9r"
-      },
-      "artists": [
-        {
-          "name": "Catfish and the Bottlemen",
-          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
-        }
-      ],
-      "duration_ms": 232960,
-      "name": "Longshot",
-      "url": "https://open.spotify.com/track/2VcS3oKcOPkubN9LVzZ96l"
-    },
-    {
-      "added_at": "2025-01-08 15:41:24",
-      "album": {
         "name": "Junk Of The Heart",
         "url": "https://open.spotify.com/album/2HfdqVaLccOvzfsHej9A8g"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 187253,
       "name": "Junk Of The Heart (Happy)",
       "url": "https://open.spotify.com/track/2jZgzSxNSg1hTCq0ewWHGJ"
+    },
+    {
+      "added_at": "2025-01-08 15:41:24",
+      "album": {
+        "name": "The Balance",
+        "url": "https://open.spotify.com/album/0eELSmJrZpzOKfdO80nJ9r"
+      },
+      "artists": [
+        {
+          "name": "Catfish and the Bottlemen",
+          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
+        }
+      ],
+      "duration_ms": 232960,
+      "name": "Longshot",
+      "url": "https://open.spotify.com/track/2VcS3oKcOPkubN9LVzZ96l"
     },
     {
       "added_at": "2025-01-08 15:41:24",

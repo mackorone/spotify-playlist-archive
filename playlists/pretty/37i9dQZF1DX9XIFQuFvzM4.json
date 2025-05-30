@@ -1,6 +1,6 @@
 {
   "description": "Feel good with this positively timeless playlist!",
-  "num_followers": 3657581,
+  "num_followers": 3657538,
   "original_name": "Feelin' Good",
   "owner": {
     "name": "Spotify",
@@ -429,22 +429,6 @@
       "url": "https://open.spotify.com/track/2DccHqTquzubziHAPZRdct"
     },
     {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "The Man Who Invented Soul",
-        "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 125440,
-      "name": "(What A) Wonderful World",
-      "url": "https://open.spotify.com/track/2g2GkH3vZHk4lWzBjgQ6nY"
-    },
-    {
       "added_at": "2025-03-25 15:28:45",
       "album": {
         "name": "Come Around and Love Me",
@@ -459,6 +443,22 @@
       "duration_ms": 189706,
       "name": "Just Like You Used To",
       "url": "https://open.spotify.com/track/0KNKtfE0jOcGBeu7Y5pL7h"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "The Man Who Invented Soul",
+        "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 125440,
+      "name": "(What A) Wonderful World",
+      "url": "https://open.spotify.com/track/2g2GkH3vZHk4lWzBjgQ6nY"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -755,22 +755,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "What'd I Say",
-        "url": "https://open.spotify.com/album/4tfWxufmH725XmTcQFAuXn"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 307053,
-      "name": "What'd I Say, Pt. 1 & 2",
-      "url": "https://open.spotify.com/track/5yQ9iMZXGcr5rlO4hoLsP4"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "Rockin' With Robin",
         "url": "https://open.spotify.com/album/4T6nhb9QQpGzLiWkC6bG7y"
       },
@@ -787,18 +771,18 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "In the Midnight Hour",
-        "url": "https://open.spotify.com/album/1L6fHKTQAogglo3coyo8yU"
+        "name": "What'd I Say",
+        "url": "https://open.spotify.com/album/4tfWxufmH725XmTcQFAuXn"
       },
       "artists": [
         {
-          "name": "Wilson Pickett",
-          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
         }
       ],
-      "duration_ms": 157160,
-      "name": "In the Midnight Hour",
-      "url": "https://open.spotify.com/track/4NRQwaks9r58tTDvr4iEyv"
+      "duration_ms": 307053,
+      "name": "What'd I Say, Pt. 1 & 2",
+      "url": "https://open.spotify.com/track/5yQ9iMZXGcr5rlO4hoLsP4"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -815,6 +799,22 @@
       "duration_ms": 177706,
       "name": "You've Really Got A Hold On Me",
       "url": "https://open.spotify.com/track/7wLRmjiDYI6flIVzboUqSV"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "In the Midnight Hour",
+        "url": "https://open.spotify.com/album/1L6fHKTQAogglo3coyo8yU"
+      },
+      "artists": [
+        {
+          "name": "Wilson Pickett",
+          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
+        }
+      ],
+      "duration_ms": 157160,
+      "name": "In the Midnight Hour",
+      "url": "https://open.spotify.com/track/4NRQwaks9r58tTDvr4iEyv"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -851,8 +851,8 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Superfly: Deluxe 25th Anniversary Edition",
-        "url": "https://open.spotify.com/album/5QuvlU7nCUZZJauMvhlWR4"
+        "name": "Superfly (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5ljIGCRRvS48V4ADzPGav2"
       },
       "artists": [
         {
@@ -860,9 +860,9 @@
           "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
         }
       ],
-      "duration_ms": 300693,
-      "name": "Pusherman",
-      "url": "https://open.spotify.com/track/7zrPswSV1yxrill5OyCuaU"
+      "duration_ms": 233600,
+      "name": "Superfly",
+      "url": "https://open.spotify.com/track/4XsH9zBWPOCdXoH9ZDdS8r"
     },
     {
       "added_at": "2022-03-28 18:28:56",
@@ -899,22 +899,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "The Chiffons Absolutely The Best!",
-        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
-      },
-      "artists": [
-        {
-          "name": "The Chiffons",
-          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
-        }
-      ],
-      "duration_ms": 128199,
-      "name": "One Fine Day",
-      "url": "https://open.spotify.com/track/6vcG9EgeqJUSmmF65lxUm6"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "Natalie Cole Anthology",
         "url": "https://open.spotify.com/album/64J3qlh1WF6x8DnrB8chqb"
       },
@@ -931,8 +915,24 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Superfly (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/5ljIGCRRvS48V4ADzPGav2"
+        "name": "The Chiffons Absolutely The Best!",
+        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
+      },
+      "artists": [
+        {
+          "name": "The Chiffons",
+          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
+        }
+      ],
+      "duration_ms": 128199,
+      "name": "One Fine Day",
+      "url": "https://open.spotify.com/track/6vcG9EgeqJUSmmF65lxUm6"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Superfly: Deluxe 25th Anniversary Edition",
+        "url": "https://open.spotify.com/album/5QuvlU7nCUZZJauMvhlWR4"
       },
       "artists": [
         {
@@ -940,9 +940,9 @@
           "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
         }
       ],
-      "duration_ms": 233600,
-      "name": "Superfly",
-      "url": "https://open.spotify.com/track/4XsH9zBWPOCdXoH9ZDdS8r"
+      "duration_ms": 300693,
+      "name": "Pusherman",
+      "url": "https://open.spotify.com/track/7zrPswSV1yxrill5OyCuaU"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1333,22 +1333,6 @@
       "url": "https://open.spotify.com/track/7N3UAu6FkwdBg9J7OONBBP"
     },
     {
-      "added_at": "2024-02-23 05:01:00",
-      "album": {
-        "name": "Illusions",
-        "url": "https://open.spotify.com/album/7G5uHjRAwBYcot5JH79iNz"
-      },
-      "artists": [
-        {
-          "name": "Jalen Ngonda",
-          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
-        }
-      ],
-      "duration_ms": 216573,
-      "name": "Illusions",
-      "url": "https://open.spotify.com/track/0FdvQVBKMN5Vc2SiN7bU0Z"
-    },
-    {
       "added_at": "2021-10-19 21:36:21",
       "album": {
         "name": "The Very Best Of The Velvelettes",
@@ -1363,6 +1347,22 @@
       "duration_ms": 149866,
       "name": "Needle In A Haystack",
       "url": "https://open.spotify.com/track/26fSgIa539TCK3KV76chHU"
+    },
+    {
+      "added_at": "2024-02-23 05:01:00",
+      "album": {
+        "name": "Illusions",
+        "url": "https://open.spotify.com/album/7G5uHjRAwBYcot5JH79iNz"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "duration_ms": 216573,
+      "name": "Illusions",
+      "url": "https://open.spotify.com/track/0FdvQVBKMN5Vc2SiN7bU0Z"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Forever: The Complete Motown Albums, Volume 1",
-        "url": "https://open.spotify.com/album/1Jn2ZCQiEgVNt3arbJBewA"
-      },
-      "artists": [
-        {
-          "name": "The Marvelettes",
-          "url": "https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH"
-        }
-      ],
-      "duration_ms": 149400,
-      "name": "Please Mr. Postman",
-      "url": "https://open.spotify.com/track/5fNDP3NTdE69szQHUl4fFr"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "Wilson Pickett: A Man and a Half",
         "url": "https://open.spotify.com/album/3ZBs6g81ZySWcc7XXzLQLB"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 187826,
       "name": "Mustang Sally",
       "url": "https://open.spotify.com/track/7mRak6wBx9OGKXr3zStoHW"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Forever: The Complete Motown Albums, Volume 1",
+        "url": "https://open.spotify.com/album/1Jn2ZCQiEgVNt3arbJBewA"
+      },
+      "artists": [
+        {
+          "name": "The Marvelettes",
+          "url": "https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH"
+        }
+      ],
+      "duration_ms": 149400,
+      "name": "Please Mr. Postman",
+      "url": "https://open.spotify.com/track/5fNDP3NTdE69szQHUl4fFr"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "It's Your Thing: The Story Of The Isley Brothers",
-        "url": "https://open.spotify.com/album/21O10zQ7YrFOTgfyRmopHs"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 334333,
-      "name": "That Lady - Pt. 1 & 2",
-      "url": "https://open.spotify.com/track/5hTyIlRYTc0sNHk5wDk6Xl"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "Hitsville: The Making Of Motown (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1VaXJtVbXlGmLareWesXfl"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 156306,
       "name": "Heaven Must Have Sent You",
       "url": "https://open.spotify.com/track/6cy84k8xqRXe2II7DQ1XVj"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "It's Your Thing: The Story Of The Isley Brothers",
+        "url": "https://open.spotify.com/album/21O10zQ7YrFOTgfyRmopHs"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 334333,
+      "name": "That Lady - Pt. 1 & 2",
+      "url": "https://open.spotify.com/track/5hTyIlRYTc0sNHk5wDk6Xl"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -2243,22 +2243,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "I Put A Spell On You",
-        "url": "https://open.spotify.com/album/13jolTb1DQl8IVPczYtQJ3"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Feeling Good",
-      "url": "https://open.spotify.com/track/61S0mEfdRtJ62Fc7fPqx0U"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "The Very Best Of Marvin Gaye",
         "url": "https://open.spotify.com/album/113AzyLAbshZITpkRK4Gud"
       },
@@ -2275,6 +2259,22 @@
       "duration_ms": 146160,
       "name": "Ain't No Mountain High Enough - Stereo Version",
       "url": "https://open.spotify.com/track/28wGX1hoLCRbBZbEqITvE3"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "I Put A Spell On You",
+        "url": "https://open.spotify.com/album/13jolTb1DQl8IVPczYtQJ3"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Feeling Good",
+      "url": "https://open.spotify.com/track/61S0mEfdRtJ62Fc7fPqx0U"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -2343,22 +2343,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "20 All-Time Greatest Hits!",
-        "url": "https://open.spotify.com/album/6MjOv3BeIjmht2ymtRih3s"
-      },
-      "artists": [
-        {
-          "name": "James Brown",
-          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
-        }
-      ],
-      "duration_ms": 250200,
-      "name": "Get Up Offa That Thing",
-      "url": "https://open.spotify.com/track/0nyrltZrQGAJMBZc1bYvuQ"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "Build Me Up Buttercup",
         "url": "https://open.spotify.com/album/0AFXSZYiYyggIkcYW5GK0x"
       },
@@ -2371,6 +2355,22 @@
       "duration_ms": 178533,
       "name": "Build Me Up Buttercup",
       "url": "https://open.spotify.com/track/3XcuLPQb1LG13ZJEEa6wUI"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "20 All-Time Greatest Hits!",
+        "url": "https://open.spotify.com/album/6MjOv3BeIjmht2ymtRih3s"
+      },
+      "artists": [
+        {
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        }
+      ],
+      "duration_ms": 250200,
+      "name": "Get Up Offa That Thing",
+      "url": "https://open.spotify.com/track/0nyrltZrQGAJMBZc1bYvuQ"
     },
     {
       "added_at": "2021-10-19 21:36:21",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ol3L2udO6N.md) - [plain]
 
 > スローバックTHURSDAY一覧は<a href="spotify:genre:0JQ5DAqbMKFCEGYtBLwgyM">こちら</a>から。Cover: 久保田利伸 ■ アムラー出現 ■たまごっちヒット ■女子高生の援助交際が社会問題化 ■「自分で自分をほめたい」（有森裕子）■「メークドラマ」（長嶋茂雄）■「チョベリバ / チョベリグ」■渡辺淳一『失楽園』ベストセラー
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,266 likes - 97 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,268 likes - 97 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ol3L2udO6N.md) - [plain]
 | 2 | [LA･LA･LA LOVE SONG](https://open.spotify.com/track/5dEojWGT3junlaa989hzGL) | [Toshinobu Kubota](https://open.spotify.com/artist/45JvI0rkPkFFL14Cj0eput), [Naomi Campbell](https://open.spotify.com/artist/4IKQKM9T5OIshijgLD8ZyK) | [LA・LA・LA LOVE SONG](https://open.spotify.com/album/5dDhL47qf8l91GaW5BNajP) | 4:49 |
 | 3 | [名もなき詩](https://open.spotify.com/track/60ba7YZ3yqbCDGAkPNXzBh) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [深海](https://open.spotify.com/album/0URMrYr4RiKdPVfM5vWxUp) | 5:28 |
 | 4 | [DEPARTURES \- RADIO EDIT](https://open.spotify.com/track/2ggw0Py9eptisSvB1xkgkc) | [globe](https://open.spotify.com/artist/5O6t6gb6MeNqzOBAq1oLad) | [DEPARTURES](https://open.spotify.com/album/6ymfTp0luNNkygX04Ljy2E) | 5:15 |
-| 5 | [I'm proud \(Radio Edit\)](https://open.spotify.com/track/6yxwKzzNE07zmGSuEWEexc) | [Tomomi Kahara](https://open.spotify.com/artist/44ABnS2hBJ3womOeTqx5jp) | [I'm proud](https://open.spotify.com/album/35hQ5CEQGk2RMTzWKDlhEA) | 4:33 |
+| 5 | [I'm proud \(Radio Edit\)](https://open.spotify.com/track/6yxwKzzNE07zmGSuEWEexc) | [KAHALA TOMOMI](https://open.spotify.com/artist/44ABnS2hBJ3womOeTqx5jp) | [I'm proud](https://open.spotify.com/album/35hQ5CEQGk2RMTzWKDlhEA) | 4:33 |
 | 6 | [愛の言霊 ～Spiritual Message～](https://open.spotify.com/track/18x4YOIMUZObF4jUpUaqt6) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [愛の言霊\(ことだま\) ～Spiritual Message～](https://open.spotify.com/album/2pPcAhyH2N61kZD5r3bmtU) | 5:42 |
 | 7 | [Virtual Insanity \- Remastered 2013](https://open.spotify.com/track/2Bxt2qamL6iu0XN0Td484J) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Travelling Without Moving \(Remastered\)](https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER) | 5:40 |
 | 8 | [Macarena \- Bayside Boys Remix](https://open.spotify.com/track/2df5QsXucx4VLiHNGusXD5) | [Los Del Rio](https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk) | [Alegria Y Cosabuena](https://open.spotify.com/album/1Q9ij11CdNvogM0IPG1KNc) | 4:13 |

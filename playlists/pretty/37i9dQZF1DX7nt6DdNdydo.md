@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nt6DdNdydo.md) - [plain]
 
 > Where swing meets blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,785 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,794 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nt6DdNdydo.md) - [plain]
 | 42 | [Big Fat Mama](https://open.spotify.com/track/03DRiEEHelUfdyDW2Z5y9e) | [Roy Milton](https://open.spotify.com/artist/02tMtF5FVucqAJW2TQB9ig) | [Information Blues](https://open.spotify.com/album/5a43mcGKhwab4Ns4MJ0cAJ) | 2:44 |
 | 43 | [Ain't Nobody Here but Us Chickens](https://open.spotify.com/track/25F0nPXUD6si9DalVWNp6m) | [Louis Jordan](https://open.spotify.com/artist/2nRbxpnBMMbtMBWH5QdqH2) | [Jack, You're Dead: The Essential Blue Archive](https://open.spotify.com/album/2s0dl1Uf59BlayS3m47FDy) | 3:05 |
 | 44 | [Bloodshot Eyes](https://open.spotify.com/track/3T4py44BDlu7wO3pqrxWl9) | [Wynonie Harris](https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn) | [Greatest Hits](https://open.spotify.com/album/0Dwycst55CZdI6R6kXhN8c) | 2:42 |
-| 45 | [Oh Babe!](https://open.spotify.com/track/5rjGP2an1PW03auZnOexz0) | [Roy Milton](https://open.spotify.com/artist/02tMtF5FVucqAJW2TQB9ig) | [Boogie Woogie! Legends Of Jump Blues](https://open.spotify.com/album/5K0TKBc20U2Wc4Wu2cgRMZ) | 2:30 |
-| 46 | [Real Fine Daddy](https://open.spotify.com/track/1IEjfCPwrQU942xOp8Wa6B) | [Helen Humes](https://open.spotify.com/artist/5xcai2yBVdyRXXYfpaKdyD) | [Dootone Rock 'n' Rhythm & Blues](https://open.spotify.com/album/0qt4mC8NS8SOZGjsJoXulh) | 2:16 |
-| 47 | [All Night Long](https://open.spotify.com/track/6fNlsbMIQh1794kBZ4bavY) | [Joe Houston Orchestra](https://open.spotify.com/artist/7dhUARf3tXiAm57gKqhi2o) | [Great R&B Instrumentals](https://open.spotify.com/album/0zq9zlmuv2FcOOwmNqh7cL) | 2:39 |
-| 48 | [Cadillac Boogie](https://open.spotify.com/track/6eYWirDI4Dxrl8wOzz1b4P) | [Jimmy Liggins](https://open.spotify.com/artist/5vBfHviQ6oBuIJw4yZ1NNF) | [Cadillac Songs](https://open.spotify.com/album/7kOOaH8l9HT6009jqUEDms) | 2:37 |
-| 49 | [Teenage Baby](https://open.spotify.com/track/0W3NQBKaw2ncqUefnqCq8a) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [The Complete Imperial Recordings: 1950\-1954](https://open.spotify.com/album/2aFmMoshdIDguX9ds0mMe2) | 2:04 |
-| 50 | [450 Pound Woman](https://open.spotify.com/track/66v57SIfLYJYGYu2WkWiSJ) | [Floyd Dixon](https://open.spotify.com/artist/5UCUtfCh50agObTTt2ma1M) | [Wake Up And Live!](https://open.spotify.com/album/3g1sF0zm03qghoAmMlGcpt) | 2:19 |
+| 45 | [Real Fine Daddy](https://open.spotify.com/track/1IEjfCPwrQU942xOp8Wa6B) | [Helen Humes](https://open.spotify.com/artist/5xcai2yBVdyRXXYfpaKdyD) | [Dootone Rock 'n' Rhythm & Blues](https://open.spotify.com/album/0qt4mC8NS8SOZGjsJoXulh) | 2:16 |
+| 46 | [All Night Long](https://open.spotify.com/track/6fNlsbMIQh1794kBZ4bavY) | [Joe Houston Orchestra](https://open.spotify.com/artist/7dhUARf3tXiAm57gKqhi2o) | [Great R&B Instrumentals](https://open.spotify.com/album/0zq9zlmuv2FcOOwmNqh7cL) | 2:39 |
+| 47 | [Oh Babe!](https://open.spotify.com/track/5rjGP2an1PW03auZnOexz0) | [Roy Milton](https://open.spotify.com/artist/02tMtF5FVucqAJW2TQB9ig) | [Boogie Woogie! Legends Of Jump Blues](https://open.spotify.com/album/5K0TKBc20U2Wc4Wu2cgRMZ) | 2:30 |
+| 48 | [Teenage Baby](https://open.spotify.com/track/0W3NQBKaw2ncqUefnqCq8a) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [The Complete Imperial Recordings: 1950\-1954](https://open.spotify.com/album/2aFmMoshdIDguX9ds0mMe2) | 2:04 |
+| 49 | [450 Pound Woman](https://open.spotify.com/track/66v57SIfLYJYGYu2WkWiSJ) | [Floyd Dixon](https://open.spotify.com/artist/5UCUtfCh50agObTTt2ma1M) | [Wake Up And Live!](https://open.spotify.com/album/3g1sF0zm03qghoAmMlGcpt) | 2:19 |
+| 50 | [Cadillac Boogie](https://open.spotify.com/track/6eYWirDI4Dxrl8wOzz1b4P) | [Jimmy Liggins](https://open.spotify.com/artist/5vBfHviQ6oBuIJw4yZ1NNF) | [Cadillac Songs](https://open.spotify.com/album/7kOOaH8l9HT6009jqUEDms) | 2:37 |
 
 Snapshot ID: `ZgG6BQAAAAB1SvXB8EJDqNDYedjCHLce`

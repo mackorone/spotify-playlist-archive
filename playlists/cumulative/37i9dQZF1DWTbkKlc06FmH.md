@@ -4,7 +4,7 @@
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-1,023 songs - 2 day 12 hr 28 min
+1,024 songs - 2 day 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,7 +204,7 @@
 | [Don't Stop the Beat](https://open.spotify.com/track/1syWFA2x8MpsOzG5jHupPa) | [Otomodatchi](https://open.spotify.com/artist/1YtYMJNUVAW60TKtwu6PQj), [Chocoholic](https://open.spotify.com/artist/4UohSp9DAmnCA9mgWqj8d1) | [Don't Stop the Beat](https://open.spotify.com/album/6zbqyfVcKKb4piUQWlocx1) | 2:43 | 2025-02-12 | 2025-02-21 |
 | [Dong, Nan, Xi, Bei](https://open.spotify.com/track/3YdY8kv4ShsMrDfYKXE8v7) | [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [Lonely Ghost](https://open.spotify.com/album/07TLVVuZNzC2N9jn9Ltv6x) | 4:09 | 2024-12-17 | 2025-01-08 |
 | [Double Fantasy \(with Future\) \- Radio Edit](https://open.spotify.com/track/0vuiKizDyUXdIge9npkEKn) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Double Fantasy](https://open.spotify.com/album/0Ct52rooGyvjv6qXrBPNzm) | 3:55 | 2023-04-20 | 2024-02-22 |
-| [DOUBT IT](https://open.spotify.com/track/7kud2YsUIgEO6L41B98Cih) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [DOUBT IT](https://open.spotify.com/album/4bahK8kuVwjBkqFUgmLmVD) | 3:28 | 2024-09-25 |  |
+| [DOUBT IT](https://open.spotify.com/track/7kud2YsUIgEO6L41B98Cih) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [DOUBT IT](https://open.spotify.com/album/4bahK8kuVwjBkqFUgmLmVD) | 3:28 | 2024-09-25 | 2025-05-30 |
 | [DOWN TOWN](https://open.spotify.com/track/3MXCCaSni8I1FSvHeMQIGV) | [Yu Sakai](https://open.spotify.com/artist/2rgC29v3ZYaGgbzPGh3d9Y), [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv), [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb), [Hiro\-a\-key](https://open.spotify.com/artist/3xST4IdzibYK6K3IAtcaVe), [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [DOWN TOWN](https://open.spotify.com/album/3yY408DUkgwhfZkouMRK0i) | 4:50 | 2023-03-14 | 2023-03-22 |
 | [Drafts](https://open.spotify.com/track/4WW8l54gcW7KQX5S61v5iQ) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [Drafts](https://open.spotify.com/album/42pvAnLAdBcTkPPqxxJKWN) | 3:01 | 2022-10-20 | 2022-11-30 |
 | [DRAMA](https://open.spotify.com/track/1PIZfCbPbv4bQZkM9x81ET) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [PRIVATE](https://open.spotify.com/album/4iEtXGDpfraVH7Srme6iqD) | 3:25 | 2023-05-09 | 2023-05-11 |
@@ -899,6 +899,7 @@
 | [Wrap Myself Up In Your Love](https://open.spotify.com/track/53uuN1KijkIKhfrpUVBpq8) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Wrap Myself Up In Your Love](https://open.spotify.com/album/0qayVTT1CWohnsxDtjUT6Y) | 3:25 | 2022-11-15 | 2022-11-30 |
 | [Yesterday](https://open.spotify.com/track/53ATHsuT0gcejL7QvnDmWi) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Yesterday](https://open.spotify.com/album/4JiS0YEEcnxDITajHXvtBS) | 2:53 | 2022-11-29 | 2022-12-08 |
 | [yonaki](https://open.spotify.com/track/6K49hJ87qPnbK56389k5lJ) | [BREIMEN](https://open.spotify.com/artist/3SasVdv6zvCEY29rst8PBU) | [yonaki](https://open.spotify.com/album/4FNlB69LR1b8kvfRiC1EwR) | 3:50 | 2023-05-16 | 2023-07-07 |
+| [yoru to tomoni](https://open.spotify.com/track/5RYyO38E24rDsPSpiZxiai) | [Kaoruko](https://open.spotify.com/artist/4p8Qi7wNCoyMNEF7dX8qUl) | [yoru to tomoni](https://open.spotify.com/album/5l3FA3oGZy5b2Ri2jDoSnO) | 2:49 | 2025-05-27 |  |
 | [You](https://open.spotify.com/track/7lv0grRnvqhmnERdn320PX) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [You](https://open.spotify.com/album/4LzXjuPhXe5FxeP31CCbkb) | 2:52 | 2025-04-02 |  |
 | [YOU](https://open.spotify.com/track/2Y27Z57KII6aZFhZKQj6s8) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [HEAVY](https://open.spotify.com/album/26678sDHO3Xg8g6q3Fo1WX) | 3:31 | 2024-03-26 | 2024-08-09 |
 | [You & I](https://open.spotify.com/track/72ssNVSfuvYH39CLVDGh3F) | [Emerald](https://open.spotify.com/artist/1d7tus0MFvl8SEin6MIRAs) | [You & I](https://open.spotify.com/album/45N5Sz0eCAuU90MYKF61Xl) | 4:30 | 2023-11-07 | 2023-11-16 |

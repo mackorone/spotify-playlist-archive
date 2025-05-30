@@ -4,7 +4,7 @@
 
 > Enjoy music and podcast from Jujutsu Kaisen!
 
-249 songs - 1 day 0 hr 17 min
+250 songs - 1 day 0 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Jujutsu Sorcerer Megumi Fushiguro](https://open.spotify.com/track/7JkakKNpZ1iPgisu6mXEwP) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | [Jujutsu Kaisen \(Original Television Soundtrack\)](https://open.spotify.com/album/5QYGsl05fLEEE4fUjz4rkt) | 3:34 | 2022-03-07 | 2024-04-19 |
 | [Kaikai Kitan](https://open.spotify.com/track/5RpCdEgSjTVIyziY4Ln8Ju) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Kaikai Kitan](https://open.spotify.com/album/20avoisFInptrZfBRFdCP3) | 3:39 | 2022-03-07 | 2022-11-13 |
 | [Kaikai Kitan](https://open.spotify.com/track/6y4GYuZszeXNOXuBFsJlos) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Kaikai Kitan / Ao No Waltz](https://open.spotify.com/album/6BZjN6j79mjz7PJfGmvCR1) | 3:41 | 2022-03-07 | 2024-04-19 |
-| [King Gnuからのボイスコメント](https://open.spotify.com/track/66leDOjVa7T4cbGW6lS1oJ) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [呪術廻戦 King Gnuからのボイスコメント](https://open.spotify.com/album/53SooXx8XtIPd91BbGl0nD) | 1:12 | 2023-09-20 |  |
+| [King Gnuからのボイスコメント](https://open.spotify.com/track/66leDOjVa7T4cbGW6lS1oJ) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [呪術廻戦 King Gnuからのボイスコメント](https://open.spotify.com/album/53SooXx8XtIPd91BbGl0nD) | 1:12 | 2023-09-20 | 2025-05-30 |
 | [Life wasn't so bad](https://open.spotify.com/track/4lz8YXIEH2TJMwxUfkw1qL) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | [Jujutsu Kaisen Hidden Inventory/Premature Death, The Shibuya Incident Original Soundtrack](https://open.spotify.com/album/4QYMuzcdWP6xCtGT72XO0O) | 2:32 | 2024-01-23 | 2024-04-19 |
 | [Limitless Cursed Technique](https://open.spotify.com/track/2z2Km9SCsCU9EeQWqvRsiE) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | [Jujutsu Kaisen Hidden Inventory/Premature Death \- Original Soundtrack](https://open.spotify.com/album/424VbV36QwCVDqvv8nERO4) | 2:19 | 2023-08-04 | 2024-04-19 |
 | [Little Hand](https://open.spotify.com/track/4Py3SBp06RH9pKafLgVNaW) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | [「呪術廻戦 懐玉・玉折」オリジナル・サウンドトラック](https://open.spotify.com/album/7f9fFeVpTYK7Uy59Hqxf20) | 1:56 | 2023-08-04 | 2023-08-06 |
@@ -243,7 +243,7 @@
 | [第7回 虎杖＆東堂 編 「ついてこいブラザー！全力で導く！」](https://open.spotify.com/episode/3X7eJilDGRCy8Yev2d7TAZ) | [呪術廻戦 じゅじゅとーく ＋ オーディオコメンタリー](https://open.spotify.com/show/24s1gq2QNlYGwGLpGYYDuS) | [呪術廻戦 じゅじゅとーく ＋ オーディオコメンタリー](https://open.spotify.com/show/24s1gq2QNlYGwGLpGYYDuS) | 24:23 | 2022-03-07 | 2023-01-20 |
 | [第8回 ゲスト「Who\-ya Extended」＆「Cö shu Nie」編](https://open.spotify.com/episode/6cDslSFaxQllS74lyWEzrc) | [呪術廻戦 じゅじゅとーく ＋ オーディオコメンタリー](https://open.spotify.com/show/24s1gq2QNlYGwGLpGYYDuS) | [呪術廻戦 じゅじゅとーく ＋ オーディオコメンタリー](https://open.spotify.com/show/24s1gq2QNlYGwGLpGYYDuS) | 45:33 | 2022-03-07 | 2023-01-20 |
 | [第9回 伏黒恵役 内田雄馬さん「さすがバランサー」編](https://open.spotify.com/episode/5mtaz8NNgd6dqfyIKowG1s) | [呪術廻戦 じゅじゅとーく ＋ オーディオコメンタリー](https://open.spotify.com/show/24s1gq2QNlYGwGLpGYYDuS) | [呪術廻戦 じゅじゅとーく ＋ オーディオコメンタリー](https://open.spotify.com/show/24s1gq2QNlYGwGLpGYYDuS) | 32:06 | 2022-03-07 | 2023-01-20 |
-| [羊文学からのボイスコメント](https://open.spotify.com/track/0xT6pQdVBZeRjSc2eAhWAe) | [羊文学](https://open.spotify.com/artist/02bFzKSPYdIQCxTUCKWCOs) | [呪術廻戦 羊文学からのボイスコメント](https://open.spotify.com/album/3wB0HoU1lIFyHnquWWRRuz) | 0:46 | 2023-09-20 |  |
+| [羊文学からのボイスコメント](https://open.spotify.com/track/0xT6pQdVBZeRjSc2eAhWAe) | [羊文学](https://open.spotify.com/artist/02bFzKSPYdIQCxTUCKWCOs) | [呪術廻戦 羊文学からのボイスコメント](https://open.spotify.com/album/3wB0HoU1lIFyHnquWWRRuz) | 0:46 | 2023-09-20 | 2025-05-30 |
 | [自閉円頓裹](https://open.spotify.com/track/1YUQYvNoFuOqqGY0ucr0vI) | [Alisa Okehazama](https://open.spotify.com/artist/6VMGyvtQPQ1uPvkaSm73aR) | [TVアニメ『呪術廻戦』オリジナル･サウンドトラック](https://open.spotify.com/album/05gFeqUdYwzsNKNzvqGv8g) | 1:52 | 2022-03-07 |  |
 | [芻霊呪法「共鳴り」](https://open.spotify.com/track/72wEjk5XFsXsw2hHzBY5BZ) | [RIN](https://open.spotify.com/artist/7AHSWTjUw8mzUDwXM3uwwP) | [TVアニメ『呪術廻戦』オリジナル･サウンドトラック](https://open.spotify.com/album/05gFeqUdYwzsNKNzvqGv8g) | 1:35 | 2022-03-07 |  |
 | [虚式「茈」](https://open.spotify.com/track/1BO2xCMHbWzjNrLXM8V7zv) | [Alisa Okehazama](https://open.spotify.com/artist/6VMGyvtQPQ1uPvkaSm73aR) | [TVアニメ『呪術廻戦』オリジナル･サウンドトラック](https://open.spotify.com/album/05gFeqUdYwzsNKNzvqGv8g) | 3:52 | 2022-03-07 |  |
@@ -256,6 +256,7 @@
 | [鈍刀](https://open.spotify.com/track/6kKT6yE11anI6gn9vPXjVu) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | [呪術廻戦 懐玉・玉折 / 渋谷事変 ORIGINAL SOUNDTRACK](https://open.spotify.com/album/0qypgV8wXEhhZyW5AExUUR) | 3:11 | 2024-01-23 |  |
 | [霹靂](https://open.spotify.com/track/37uckgKhZ4agf4JfRbXbzZ) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | [呪術廻戦 懐玉・玉折 / 渋谷事変 ORIGINAL SOUNDTRACK](https://open.spotify.com/album/0qypgV8wXEhhZyW5AExUUR) | 3:37 | 2024-01-23 |  |
 | [青のすみか](https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [青のすみか](https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS) | 3:16 | 2023-07-06 |  |
+| [青のすみか \(Acoustic ver.\)](https://open.spotify.com/track/2vB0EKXrPcYIshTXZFtQVP) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [青のすみか \(Acoustic ver.\)](https://open.spotify.com/album/1KUQXjdwhIHQGiV40UkILg) | 3:23 | 2025-05-29 |  |
 | [領域展開](https://open.spotify.com/track/79QWnjeDw0kzA8gc4Bi1KQ) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | [呪術廻戦 懐玉・玉折 / 渋谷事変 ORIGINAL SOUNDTRACK](https://open.spotify.com/album/0qypgV8wXEhhZyW5AExUUR) | 1:59 | 2024-01-23 |  |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

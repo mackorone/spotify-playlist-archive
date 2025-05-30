@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1i8qVD.md) - [plain]
 
 > This is Buddy Guy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,800 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,812 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1i8qVD.md) - [plain]
 | 49 | [Miss Ida B](https://open.spotify.com/track/0BX4XzYSTD4HBz2BzcQ8Iu) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Can't Quit The Blues](https://open.spotify.com/album/5CIK2RIt6REWTwC7p44yst) | 6:24 |
 | 50 | [Good Morning Schoolgirl](https://open.spotify.com/track/0jcggWMJbg0VfBsuiWb57T) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Hoodoo Man Blues](https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4) | 3:56 |
 
-Snapshot ID: `aDUAgAAAAABiKqJvpwj3dB3CyuqsGXlB`
+Snapshot ID: `aDZSAAAAAADe8B7oUcz2RwqIvcrdeNnJ`

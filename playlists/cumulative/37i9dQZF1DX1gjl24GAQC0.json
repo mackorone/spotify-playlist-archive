@@ -3355,6 +3355,24 @@
     },
     {
       "album": {
+        "name": "Everlasting",
+        "url": "https://open.spotify.com/album/2JAijBbqdC7WGqqcpTE17D"
+      },
+      "artists": [
+        {
+          "name": "N.Flying",
+          "url": "https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb"
+        }
+      ],
+      "date_added": "2025-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257173,
+      "name": "Everlasting",
+      "url": "https://open.spotify.com/track/2WBN1JHsM6jVzEqRGsjz1z"
+    },
+    {
+      "album": {
         "name": "History Of Kingdom : Part\u2160. Arthur",
         "url": "https://open.spotify.com/album/1Vf3hY3aLfTVhPLiXU8HR7"
       },
@@ -4660,7 +4678,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 207921,
       "name": "Guerrilla",
       "url": "https://open.spotify.com/track/0tYZo2UhV1lrUez5CA0Iyw"

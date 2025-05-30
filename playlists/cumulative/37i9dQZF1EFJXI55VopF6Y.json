@@ -435,6 +435,28 @@
     },
     {
       "album": {
+        "name": "Konfetti",
+        "url": "https://open.spotify.com/album/4aWHBRPvgHpM39DUrvCMTR"
+      },
+      "artists": [
+        {
+          "name": "Molly Sand\u00e9n",
+          "url": "https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY"
+        },
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194425,
+      "name": "Konfetti",
+      "url": "https://open.spotify.com/track/57ilwMdNXbsbVaP8GtfEIB"
+    },
+    {
+      "album": {
         "name": "My Man",
         "url": "https://open.spotify.com/album/6WVs3cfYvBdZVRYqZjfNmg"
       },

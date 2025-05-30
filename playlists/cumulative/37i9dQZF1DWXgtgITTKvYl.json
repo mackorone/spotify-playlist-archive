@@ -837,6 +837,24 @@
     },
     {
       "album": {
+        "name": "Build And Destroy",
+        "url": "https://open.spotify.com/album/5pftDdyVIpfChLLsaGpJ8N"
+      },
+      "artists": [
+        {
+          "name": "Styx",
+          "url": "https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232010,
+      "name": "Build And Destroy",
+      "url": "https://open.spotify.com/track/37lctHJGpnrzHPluCe48S8"
+    },
+    {
+      "album": {
         "name": "Burning Both Edges",
         "url": "https://open.spotify.com/album/77lrTTR9fRldDz1HmFZ2uv"
       },
@@ -4606,7 +4624,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 507693,
       "name": "Sempiternal Beings - Live in London 2024",
       "url": "https://open.spotify.com/track/4XqKhTrkh84VgEO9tfBo4z"
@@ -4850,7 +4868,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 122892,
       "name": "Sky Full of Stars",
       "url": "https://open.spotify.com/track/0Bn8emT0B8qMSB3BMOq05H"
@@ -5224,7 +5242,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 212210,
       "name": "Stormlight",
       "url": "https://open.spotify.com/track/1b9UV6eQlb32Fb4RFCrt5i"
@@ -5340,6 +5358,24 @@
       "duration_ms": 551436,
       "name": "Synaesthesia",
       "url": "https://open.spotify.com/track/7ffadND3ZiB9jgKjI11SEr"
+    },
+    {
+      "album": {
+        "name": "Take Me Home",
+        "url": "https://open.spotify.com/album/3799H4k83i35dlB9FUZaAd"
+      },
+      "artists": [
+        {
+          "name": "The Black Noodle Project",
+          "url": "https://open.spotify.com/artist/3zjeJfz2x1AdAMWorg9NQj"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415250,
+      "name": "Take Me Home",
+      "url": "https://open.spotify.com/track/3imvrGGS0TLozgZJ7xG3WE"
     },
     {
       "album": {
@@ -6274,6 +6310,24 @@
       "duration_ms": 519911,
       "name": "Tyranny",
       "url": "https://open.spotify.com/track/2mz6JLo0HtACeHmghEexMT"
+    },
+    {
+      "album": {
+        "name": "Live in THE WORLD - South America",
+        "url": "https://open.spotify.com/album/0PBvhU9Fum3pCb2xVEGckT"
+      },
+      "artists": [
+        {
+          "name": "Elephant Gym",
+          "url": "https://open.spotify.com/artist/2rqNUPgkBgbhcRabUQ5C9g"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "Underwater - Live in Santiago, Chile",
+      "url": "https://open.spotify.com/track/19X0Y39YDec0UD548aWdEo"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds in hip\-hop, coming out of Canada\. Cover: The Weeknd
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,098 likes - 75 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,129 likes - 75 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 12 | [In Due Time](https://open.spotify.com/track/2DZejweCkto2IEvu7rstXd) | [Akintoye](https://open.spotify.com/artist/1EgCxqT8GgE5oXX3PkeGhq) | [In Due Time](https://open.spotify.com/album/32YcXgF636mj8WyEvlzJ7T) | 3:26 |
 | 13 | [Lollipop \(feat\. Enima\)](https://open.spotify.com/track/4aSoTgQe3XjILsJyQQUtQN) | [gapman](https://open.spotify.com/artist/51ZBNSPS2WAuR4PzPRO8Ry), [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [Scam Industry](https://open.spotify.com/album/0v7bEm9wTXYgkTTmUlsmwV) | 3:00 |
 | 14 | [French River](https://open.spotify.com/track/6BWBQSCduklNO4A7zXyFeI) | [Daniel Son](https://open.spotify.com/artist/6Hrq57am01Bxyp89bUWqFF), [Futurewave](https://open.spotify.com/artist/4i9PacC5mAjVi8DzWcpmxz) | [French River](https://open.spotify.com/album/4kEeJ5rWgwlX3iJZyFXveP) | 1:45 |
-| 15 | [SpitShineFreestyle\(04.23.2022\)](https://open.spotify.com/track/5Q8C3D1YiM1UZt23zNk9ez) | [KOTO?](https://open.spotify.com/artist/1N7v8ztld41DN69kQvp0We), [Thelonious](https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI) | [SpitShineFreestyle\(04.23.2022\)](https://open.spotify.com/album/1GklecXNAPYU5epr3FVuUc) | 1:44 |
+| 15 | [SpitShineFreestyle](https://open.spotify.com/track/5Q8C3D1YiM1UZt23zNk9ez) | [KOTO?](https://open.spotify.com/artist/1N7v8ztld41DN69kQvp0We), [Thelonious](https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI) | [SpitShineFreestyle](https://open.spotify.com/album/1GklecXNAPYU5epr3FVuUc) | 1:44 |
 | 16 | [Tough Decisions](https://open.spotify.com/track/2OvJXYQQHWQ9dR4QC5EuTU) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy) | [Tough Decisions](https://open.spotify.com/album/7DOfTEbA1yGjnZMDGksenB) | 2:13 |
 | 17 | [Latest Trends](https://open.spotify.com/track/3zLUUT99RnhVZ3pPCxSYor) | [Quintana Mills](https://open.spotify.com/artist/0QfS6MisIhAy4LgjlAbWMz), [NorthSideBenji](https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d) | [Latest Trends](https://open.spotify.com/album/1JaXBni1SNhcEz5LiWI98D) | 1:49 |
 | 18 | [MICK FOLEY](https://open.spotify.com/track/055KQUm2YzxMCfTffVbpkd) | [Teddy Franchize](https://open.spotify.com/artist/4J3t2gDHwxRxDYqvZ7xf5s) | [MICK FOLEY](https://open.spotify.com/album/3wjQaQyFcLm70xNws6jVLE) | 2:49 |

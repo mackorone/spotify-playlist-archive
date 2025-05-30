@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1S2VXZ4bIj.md) - [plain]
 
 > เพลงใหม่มาแรง เพลงฮิตล่าสุด ที่นี่เลย\. ศิลปิน: Three Man Down
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,752 likes - 99 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,822 likes - 99 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1S2VXZ4bIj.md) - [plain]
 | 4 | [I Just Wanna Know](https://open.spotify.com/track/2hmelRMnKJLo5toNZ5yqZ7) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [I Just Wanna Know](https://open.spotify.com/album/58D3a05FTQi0Eo20WgYWWO) | 3:46 |
 | 5 | [รักรักรักรักรักรักรัก \(Talk Less\)](https://open.spotify.com/track/1LV7y6Foa5JFMOUc0qyj4b) | [D Gerrard](https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg) | [รักรักรักรักรักรักรัก \(Talk Less\)](https://open.spotify.com/album/0NYeQR4Q9C7FBnpbO7Pp0C) | 4:04 |
 | 6 | [พบรัก](https://open.spotify.com/track/2LJerOY5jSwO5K6OF9Cyuz) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [พบรัก](https://open.spotify.com/album/3C1L1CgjEjjHoyAPZwePgs) | 3:54 |
-| 7 | [ศัตรูหัวใจ](https://open.spotify.com/track/1QeihgIm5rv63E2hl4n6Vh) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [ศัตรูหัวใจ](https://open.spotify.com/album/1fjJUG6rKppH8yi7TpQuHd) | 3:54 |
+| 7 | [ศัตรูหัวใจ \(Your Worst Enemy!\)](https://open.spotify.com/track/1QeihgIm5rv63E2hl4n6Vh) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [ศัตรูหัวใจ \(Your Worst Enemy!\)](https://open.spotify.com/album/1fjJUG6rKppH8yi7TpQuHd) | 3:54 |
 | 8 | [I love you a latte](https://open.spotify.com/track/59wHlNG8GyEBWlXKGCOnuV) | [the ge](https://open.spotify.com/artist/1h0iQlfKHiBlQsUsdzJ9l7) | [I love you a latte](https://open.spotify.com/album/5sNeJA74iuvnlSXaCBM1EI) | 3:53 |
 | 9 | [When I'm With You \(feat\. Tyla\)](https://open.spotify.com/track/4JxY3pNkxMKHjrPiOGQqcQ) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Alter Ego](https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm) | 2:52 |
 | 10 | [วันที่นาฬิกาของเราหมุนไปพร้อมกัน](https://open.spotify.com/track/6JtHYZAi56uJEBc8iihR7j) | [No One Else](https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ) | [วันที่นาฬิกาของเราหมุนไปพร้อมกัน](https://open.spotify.com/album/0KihRWW2XLQgBILidE9sVK) | 3:43 |

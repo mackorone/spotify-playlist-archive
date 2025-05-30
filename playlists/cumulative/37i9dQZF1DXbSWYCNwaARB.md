@@ -4,7 +4,7 @@
 
 > All your girl crushes\(걸크러쉬\) in one place\. \(Cover: IRENE&SEULGI \(아이린&슬기\)\)
 
-544 songs - 1 day 4 hr 26 min
+545 songs - 1 day 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [+REWIND170205+](https://open.spotify.com/track/1W3X1WWJEC0alMW7nqYLTh) | [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [In The Name Of Love 1](https://open.spotify.com/album/1GpTYZNg9VrcKoM9Mb0xM0) | 2:36 | 2021-02-26 | 2021-02-27 |
 | [1, 2](https://open.spotify.com/track/5L2dStRrWW1jXst2aBPSa5) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [CHOI HYUN SUK of TREASURE](https://open.spotify.com/artist/3HO4QMpAs7tVHeBaGnmZKa) | [24℃](https://open.spotify.com/album/47gO1PsZBE4DdS9ipfiHti) | 3:22 | 2021-02-28 | 2022-04-14 |
 | [1718: Psycho \(feat\. Vincent Blue\)](https://open.spotify.com/track/7HTIJkpEYLeQksqtU0vv8E) | [KittiB](https://open.spotify.com/artist/3inqDrxKHZeWUvf8RHbJ6t), [Vincent Blue](https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ) | [1718: Psycho \(feat\. Vincent Blue\)](https://open.spotify.com/album/3B94qRDTNFY4OJVGUT2EFF) | 4:31 | 2021-02-26 | 2022-04-16 |
+| [2 Months](https://open.spotify.com/track/1ayDPLiUj3blLqVkVufY0X) | [UAU](https://open.spotify.com/artist/3zfokQW0XScTuGtTQkl682) | [Playlist \#You Are You](https://open.spotify.com/album/0Z9CrKIgLP09vWer1NGZBJ) | 2:27 | 2025-05-28 |  |
 | [A.I TROOPER](https://open.spotify.com/track/33xJsKmNqrm8909NnjbguA) | [AleXa](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU) | [A.I TROOPER](https://open.spotify.com/album/4EgzPL3u6phqVolLWJhQw6) | 2:02 | 2020-10-13\* | 2022-04-21 |
 | [ABCD](https://open.spotify.com/track/0V2passWyAXnON67kfAj7y) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [NA](https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7) | 2:42 | 2024-06-14 |  |
 | [Abracadabra](https://open.spotify.com/track/3OL3ZJ6YEJpTTxFENVK3L8) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Abracadabra \[THE SEASONS: Red Carpet with Lee Hyo Ri\]](https://open.spotify.com/album/7a81w6Jk4mMnDC6NL36zao) | 3:02 | 2024-03-11 | 2024-04-03 |
@@ -292,7 +293,7 @@
 | [Lonely](https://open.spotify.com/track/4oZfm9BPohSYNM3dMpV2KQ) | [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [Sailing](https://open.spotify.com/album/7uXqFtzEZggg75Kpb1Eyya) | 3:17 | 2023-09-26 | 2023-10-05 |
 | [LOOP \(feat\. Lil Cherry\)](https://open.spotify.com/track/1JNsKjaCFgTxjP3EkKfYZo) | [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce), [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4) | [LOOP](https://open.spotify.com/album/1j8kzYnKuztDWliT8V8Qto) | 2:43 | 2024-05-30 | 2024-06-04 |
 | [LOUDER](https://open.spotify.com/track/26VaMq8RwiHtuLEaNGxBB0) | [Rocket Punch](https://open.spotify.com/artist/4hozqATxbpy9TwKWRT8QVO) | [YELLOW PUNCH](https://open.spotify.com/album/6L2VwLPHfm5cCdTF1erFrN) | 3:18 | 2022-03-07 | 2022-04-20 |
-| [LOVE DIVE](https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LOVE DIVE](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) | 2:57 | 2022-08-08 |  |
+| [LOVE DIVE](https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LOVE DIVE](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) | 2:57 | 2022-08-08 | 2025-05-30 |
 | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/album/3awd1TKrdd3emCecvza61j) | 3:00 | 2025-02-03 |  |
 | [Love War \(Feat\. BE'O\)](https://open.spotify.com/track/1UjN1QVbHnzJiqjkqzWmZK) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [Love War](https://open.spotify.com/album/3gWIe0cTPYqrI8xIYHjten) | 3:08 | 2023-01-16 | 2023-01-27 |
 | [Lucky](https://open.spotify.com/track/0rRyLHOtUa9NyHun1jansJ) | [Kim Wan\-sun](https://open.spotify.com/artist/3e0aTvNjIG93ye2YlL90UF), [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [Lucky](https://open.spotify.com/album/0n7QHDeVGKA3yelZgTE54U) | 3:06 | 2025-01-15 | 2025-01-22 |

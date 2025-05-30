@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a href="https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ?si=nXDyADFFR5Cd\_waLOSAXrA">Panda Bear</a>
 
-1,359 songs - 3 day 20 hr 41 min
+1,360 songs - 3 day 20 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -435,6 +435,7 @@
 | [Fruits Of Labour \- Harvey Sutherland Remix](https://open.spotify.com/track/76x1mEPdwqlPsjmUgiIW6k) | [Party Dozen](https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm), [Harvey Sutherland](https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf) | [Fruits Of Labour \(Harvey Sutherland Remix\)](https://open.spotify.com/album/1eobMd1WqmlVo37YgC0Vwv) | 5:54 | 2022-12-07 | 2023-02-02 |
 | [Fucking Mega](https://open.spotify.com/track/6tqvEXCweWY131rD6EeD4D) | [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa) | [Come In Out Of The Rain](https://open.spotify.com/album/6jZhhKMNsN5C6LpypG7SdO) | 4:51 | 2025-04-07 | 2025-05-22 |
 | [Fugue \(Bin Song\)](https://open.spotify.com/track/3SLy3jHtaGsaGqpGaqtYGc) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Fugue \(Bin Song\)](https://open.spotify.com/album/5jQUB8BUJk3LdtLt626xyL) | 5:22 | 2024-01-24 | 2024-03-07 |
+| [Full Circle \- From The Vaults 10 Year Mix](https://open.spotify.com/track/5oCbF5DKvz3AhgXrKLrbTL) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t), [Boxed In](https://open.spotify.com/artist/6bxYUbMVzrPTOmzwey8Hgh) | [Full Circle \(10 Year Anniversary\)](https://open.spotify.com/album/0tqfmMB8bR2k2B5epIY2bd) | 4:43 | 2025-05-29 |  |
 | [Fulton Park](https://open.spotify.com/track/6vbBJu0Tsx3nqrgVGydxKB) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [Deep in View](https://open.spotify.com/album/0IOqHCZa9ietWmQgyKIwUF) | 2:41 | 2022-06-08 | 2022-06-30 |
 | [Funeral for Justice](https://open.spotify.com/track/6jRkPX7aziy9qweRaBloXF) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Funeral for Justice](https://open.spotify.com/album/2TEqu1Bvm8jFijAybw6S38) | 3:08 | 2024-02-29 | 2024-04-19 |
 | [Funeral for Justice \- Injustice Version](https://open.spotify.com/track/7MXFGo3Eelb8RegCAC5WQX) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Funeral for Justice \(Injustice Version\)](https://open.spotify.com/album/3fYga5PA5HrnbPFH4pWc8F) | 5:45 | 2025-02-26 | 2025-04-10 |

@@ -4,7 +4,7 @@
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-354 songs - 21 hr 22 min
+355 songs - 21 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Faster](https://open.spotify.com/track/6clUgF41q59lyD2MYx3B74) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [Woods](https://open.spotify.com/album/20f0ocH7TUh6Lv2cuLbjlN) | 3:27 | 2025-03-06 |  |
 | [Fear/Hope](https://open.spotify.com/track/3hswSBDeVf5DNk9oUKtqlX) | [Malin Pettersen](https://open.spotify.com/artist/3kVhFap6wa2EN5yrMZIupm) | [Fear/Hope](https://open.spotify.com/album/2J0y7VtslUf4QRh3IVtr1n) | 2:55 | 2024-11-07 |  |
 | [Feathers](https://open.spotify.com/track/60XII1rND3K4yE3ffwbl4W) | [Days of August](https://open.spotify.com/artist/0yWSMZXHERES9DFEqgwYGf) | [Feathers](https://open.spotify.com/album/3zLx4WOTS1tZXZuNWWdwPD) | 3:46 | 2023-11-23 | 2023-12-05 |
+| [Feels like That](https://open.spotify.com/track/6odNsNmG4RJbxIkNBe9otp) | [Victor Lundberg](https://open.spotify.com/artist/3aPt0ITiKD1r1GXV3RvOUh) | [Feels like That](https://open.spotify.com/album/74iE9zshOGQsSLWsAtmPlq) | 3:36 | 2025-05-29 |  |
 | [Fehu \- First Flight of the White Raven LIVE](https://open.spotify.com/track/4JEFld1zyKtbLaKMwdRmTh) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Fehu \(First Flight of the White Raven LIVE\)](https://open.spotify.com/album/23ghp02cykc1CY2BWn74RR) | 5:28 | 2024-06-20 | 2024-09-06 |
 | [Fehu \- First Flight of the White Raven LIVE](https://open.spotify.com/track/6maBoD5dTSlChuGblBLc8E) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Kvitravn \- First Flight of the White Raven](https://open.spotify.com/album/7rMCly66gjyiT6KFNNAuTB) | 5:28 | 2022-07-14 | 2022-11-09 |
 | [Find A Home Out There](https://open.spotify.com/track/1itf9PY59hFYaMVcOXv7l9) | [Alberta Cross](https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq), [L'aupaire](https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE) | [Find A Home Out There](https://open.spotify.com/album/0wrBAVUj6e43iJ0x62h0zp) | 3:26 | 2025-05-22 |  |
@@ -235,7 +236,7 @@
 | [Peaceful Easy Feeling](https://open.spotify.com/track/2G48AXcYCzTPM7WMCoAKJy) | [Birds are better](https://open.spotify.com/artist/0ZYJwHf0cMQ2FTg9IMlpIZ) | [Peaceful Easy Feeling](https://open.spotify.com/album/2uxvMTMKp8jS3icJPSqIhL) | 2:51 | 2024-09-05 | 2024-10-13 |
 | [Pixie's Parasol](https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Pixie's Parasol](https://open.spotify.com/album/4giKFINYxPLvnV0fBsv4Vw) | 3:02 | 2021-12-02 |  |
 | [Poor Symmetry](https://open.spotify.com/track/4FAiqzB4VQSckzurMJ5wSX) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [Poor Symmetry / Cities](https://open.spotify.com/album/624PNGP795hhIwigo5ixXg) | 2:01 | 2024-04-11 | 2024-07-19 |
-| [Raining Over Fire](https://open.spotify.com/track/7Ivhfxnqx1n3eP5o5WManb) | [Júníus Meyvant](https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26) | [Raining Over Fire](https://open.spotify.com/album/27r8xw72gazKL2zdTTYMmB) | 2:58 | 2025-02-27 |  |
+| [Raining Over Fire](https://open.spotify.com/track/7Ivhfxnqx1n3eP5o5WManb) | [Júníus Meyvant](https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26) | [Raining Over Fire](https://open.spotify.com/album/27r8xw72gazKL2zdTTYMmB) | 2:58 | 2025-02-27 | 2025-05-30 |
 | [Riding by my side](https://open.spotify.com/track/3EjWS9Jnn7SJSwkiQNlfOB) | [Blind Molly](https://open.spotify.com/artist/3XPVCbkmaBGNWEb4UANfov) | [Riding by my side](https://open.spotify.com/album/1Ul251Hlo9fFN3Or838rYt) | 3:04 | 2025-05-08 |  |
 | [Right as Rain](https://open.spotify.com/track/5IgCnPZUVKe5PeIZfuwfSK) | [Marianne Sveen](https://open.spotify.com/artist/5kXWa36lvxl2qHX4dGEMJD) | [Right as Rain](https://open.spotify.com/album/5zeC7hP1L3tLcTdrxkXur2) | 4:38 | 2021-12-02 | 2022-07-29 |
 | [River \- Live](https://open.spotify.com/track/5gXUVnYtalAWVScaiw3Vmq) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [Live 2020](https://open.spotify.com/album/3MfrdryGGjczqK1NalPSks) | 4:18 | 2021-12-02 | 2022-07-29 |

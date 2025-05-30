@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7NKZc0ARlk.md) - [plain]
 
 > Los éxitos del pop suenan mejor en vivo\. Foto: Thalia
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,851 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,947 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7NKZc0ARlk.md) - [plain]
 | 43 | [El Próximo Viernes \- Live Version](https://open.spotify.com/track/3ug4KguxOFtVOpq2zDY6uh) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Thalia En Primera Fila](https://open.spotify.com/album/1gquXke1WKYRz3VSxlZDxa) | 4:09 |
 | 44 | [Si La Ves \(feat\. Noel Schajris & Leonel García\)](https://open.spotify.com/track/2HBo8LhUxBJBsxWaP6ePL3) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu), [Noel Schajris](https://open.spotify.com/artist/2uEjXyVi0SA1HPpj3zquXh), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Franco De Vita En Primera Fila](https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX) | 4:15 |
 | 45 | [Vamos A Darnos Tiempo \- Live At El Lunario En La Ciudad De México/2010](https://open.spotify.com/track/6DnpQbM6kELQYZ3jXCayo3) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Dos Mundos Revolución En Vivo \(Live At El Lunario En La Ciudad De México/2010\)](https://open.spotify.com/album/00toeVbLBW5ZFWTzKZfQ9n) | 4:17 |
-| 46 | [María \(with Natalia Lafourcade\) \- Directo Primera Fila](https://open.spotify.com/track/0xiI5ZeP6mUbem9onslgtK) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Primera Fila](https://open.spotify.com/album/7pC1BMjl8x5Yr60xX2tyZh) | 4:01 |
-| 47 | [Quién \(feat\. Alejandro Sanz\) \- En directo](https://open.spotify.com/track/6a46HjzJUcpUGEsbwvEh9E) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Tour Terral \(Tres noches en Las Ventas\)](https://open.spotify.com/album/3b2X7VxxfTCFRJQkShaJhc) | 4:57 |
+| 46 | [Quién \(feat\. Alejandro Sanz\) \- En directo](https://open.spotify.com/track/6a46HjzJUcpUGEsbwvEh9E) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Tour Terral \(Tres noches en Las Ventas\)](https://open.spotify.com/album/3b2X7VxxfTCFRJQkShaJhc) | 4:57 |
+| 47 | [María \(with Natalia Lafourcade\) \- Directo Primera Fila](https://open.spotify.com/track/0xiI5ZeP6mUbem9onslgtK) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Primera Fila](https://open.spotify.com/album/7pC1BMjl8x5Yr60xX2tyZh) | 4:01 |
 | 48 | [Las Mil y una Noches \- Primera Fila Flans \(En Vivo\)](https://open.spotify.com/track/3V47MeZFqKMxBlxaF3wqRq) | [Ilse, Ivonne y Mimi](https://open.spotify.com/artist/3d79GDviyp0nkS5hPDlBKX) | [Primera Fila Flans](https://open.spotify.com/album/3Q2ojWYIEh9ASuJevLr64C) | 4:14 |
 | 49 | [Cada Beso \- Primera Fila](https://open.spotify.com/track/7LXoq0tHtpL3szSsqagc7K) | [Sasha, Benny y Erik](https://open.spotify.com/artist/03FiyT61gVIy08oxFm6xZC) | [Primera Fila Sasha Benny Erik](https://open.spotify.com/album/0DB9SvuVNpmScrd8InA3jv) | 3:33 |
 | 50 | [Ya No Vives en Mí \(Primera Fila\) \(feat\. Carlos Rivera\) \- En Vivo](https://open.spotify.com/track/0Ac7gnJokivhO4ZKNVib7r) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx), [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Primera Fila \(En Vivo\)](https://open.spotify.com/album/19FjT2Eq5zuZqscnwhjNFH) | 4:21 |

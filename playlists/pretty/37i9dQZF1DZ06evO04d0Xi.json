@@ -1,12 +1,12 @@
 {
   "description": "This is Fernanda Brum. The essential tracks, all in one playlist.",
-  "num_followers": 73366,
+  "num_followers": 73362,
   "original_name": "This Is Fernanda Brum",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDUAgAAAAAB7yiQuhAZ6axXEulKml2Y9",
+  "snapshot_id": "aDZSAAAAAAAIYZi8i/mJxtIWPg7A24/3",
   "tracks": [
     {
       "added_at": null,
@@ -539,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Da Eternidade",
+        "url": "https://open.spotify.com/album/0Djnza7Nqw27F8YqJL0R64"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 259227,
+      "name": "Deus Est\u00e1 me Construindo",
+      "url": "https://open.spotify.com/track/43HJMNRjdq4XHHlWvsWNHd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rastros de Amor (ao Vivo)",
         "url": "https://open.spotify.com/album/1V7TNa8BKB71Bh07oIeEzF"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 262053,
       "name": "Alto Pre\u00e7o - Ao Vivo",
       "url": "https://open.spotify.com/track/0hBqI20YJBtrQvAUUh3CMI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Da Eternidade",
-        "url": "https://open.spotify.com/album/0Djnza7Nqw27F8YqJL0R64"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 259227,
-      "name": "Deus Est\u00e1 me Construindo",
-      "url": "https://open.spotify.com/track/43HJMNRjdq4XHHlWvsWNHd"
     },
     {
       "added_at": null,
@@ -631,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Milagre",
-        "url": "https://open.spotify.com/album/6vicwHRbESYCvpVtqem1Ur"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 280766,
-      "name": "Tua Presen\u00e7a",
-      "url": "https://open.spotify.com/track/60SpsytvLacA0rVAPeMdYs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sonhos",
         "url": "https://open.spotify.com/album/1sUvDkBy5POHFyvSuuKmBC"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 217849,
       "name": "Meu Bem Maior",
       "url": "https://open.spotify.com/track/2L45wEZfgukdZIixbyZVA4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Milagre",
+        "url": "https://open.spotify.com/album/6vicwHRbESYCvpVtqem1Ur"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 280766,
+      "name": "Tua Presen\u00e7a",
+      "url": "https://open.spotify.com/track/60SpsytvLacA0rVAPeMdYs"
     },
     {
       "added_at": null,
@@ -799,18 +799,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Milagre",
-        "url": "https://open.spotify.com/album/6vicwHRbESYCvpVtqem1Ur"
+        "name": "Profetizando \u00e0s Na\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/7KI7DRHKZjdoWvHhP39j3T"
       },
       "artists": [
         {
           "name": "Fernanda Brum",
           "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        },
+        {
+          "name": "Arianne",
+          "url": "https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1"
         }
       ],
-      "duration_ms": 245119,
-      "name": "Tua Face",
-      "url": "https://open.spotify.com/track/20ULhBcBQ0WYvTRNXUdNrt"
+      "duration_ms": 416194,
+      "name": "Jesus, Meu Primeiro Amor",
+      "url": "https://open.spotify.com/track/4DiKminQ3591BMQpmWgZvj"
     },
     {
       "added_at": null,
@@ -831,22 +835,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Profetizando \u00e0s Na\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/7KI7DRHKZjdoWvHhP39j3T"
+        "name": "Milagre",
+        "url": "https://open.spotify.com/album/6vicwHRbESYCvpVtqem1Ur"
       },
       "artists": [
         {
           "name": "Fernanda Brum",
           "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        },
-        {
-          "name": "Arianne",
-          "url": "https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1"
         }
       ],
-      "duration_ms": 416194,
-      "name": "Jesus, Meu Primeiro Amor",
-      "url": "https://open.spotify.com/track/4DiKminQ3591BMQpmWgZvj"
+      "duration_ms": 245119,
+      "name": "Tua Face",
+      "url": "https://open.spotify.com/track/20ULhBcBQ0WYvTRNXUdNrt"
     },
     {
       "added_at": null,
@@ -1023,22 +1023,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Milagre",
-        "url": "https://open.spotify.com/album/6vicwHRbESYCvpVtqem1Ur"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 317803,
-      "name": "O Nardo",
-      "url": "https://open.spotify.com/track/7ddTiqaXRrMrQkw3Hg0Ak1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gl\u00f3ria",
         "url": "https://open.spotify.com/album/5CUs5dQYJ3TpPBWVuvh5vZ"
       },
@@ -1055,8 +1039,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Da Eternidade",
-        "url": "https://open.spotify.com/album/0Djnza7Nqw27F8YqJL0R64"
+        "name": "Milagre",
+        "url": "https://open.spotify.com/album/6vicwHRbESYCvpVtqem1Ur"
       },
       "artists": [
         {
@@ -1064,9 +1048,9 @@
           "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
         }
       ],
-      "duration_ms": 284026,
-      "name": "Santo (Holy)",
-      "url": "https://open.spotify.com/track/4l90mbIMuolQaY84Y07Y2G"
+      "duration_ms": 317803,
+      "name": "O Nardo",
+      "url": "https://open.spotify.com/track/7ddTiqaXRrMrQkw3Hg0Ak1"
     },
     {
       "added_at": null,
@@ -1083,6 +1067,22 @@
       "duration_ms": 248628,
       "name": "Lamparina",
       "url": "https://open.spotify.com/track/7wZbA2Bjl6zBHCOViGF2To"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Da Eternidade",
+        "url": "https://open.spotify.com/album/0Djnza7Nqw27F8YqJL0R64"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 284026,
+      "name": "Santo (Holy)",
+      "url": "https://open.spotify.com/track/4l90mbIMuolQaY84Y07Y2G"
     }
   ],
   "unique_name": "This Is Fernanda Brum",

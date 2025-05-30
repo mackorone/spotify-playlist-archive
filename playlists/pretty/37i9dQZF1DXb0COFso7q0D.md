@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0COFso7q0D.md) - [plain]
 
 > The playlist sin fronteras elevando a la Música Mexicana\. Cover: Gabito Ballesteros
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,373,210 likes - 71 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,373,104 likes - 71 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0COFso7q0D.md) - [plain]
 | 70 | [Como Duele El Amor](https://open.spotify.com/track/3lCxAT7Q8VOxL39y3H62hF) | [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [Como Duele El Amor](https://open.spotify.com/album/78rP9LuwmD8RzpwjOmxFRP) | 3:42 |
 | 71 | [HOLANDA](https://open.spotify.com/track/6pk6CETZHI9brjnFNCxrhC) | [Linea Personal](https://open.spotify.com/artist/5Bb18koIu6bYuvZWzYKkLJ) | [HOLANDA](https://open.spotify.com/album/3fraryfOzqI9c3tsODdmb0) | 2:31 |
 
-Snapshot ID: `AAAAAKNdiW/Y71dwq4S7YSMLQ0w31VzB`
+Snapshot ID: `aC/y4wAAAAAierjv1kw29lu9B/LO6RzL`

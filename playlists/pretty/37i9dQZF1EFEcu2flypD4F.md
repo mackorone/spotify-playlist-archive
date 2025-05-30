@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0nWt7RisY0ovBXztrbCyiV">Sia</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,251 likes - 338 songs - 21 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,253 likes - 338 songs - 21 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -137,8 +137,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 127 | [Making The Most Of The Night](https://open.spotify.com/track/7iOBDRFkpSSZ1SXiA07RlU) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Emotion \(Deluxe Expanded Edition\)](https://open.spotify.com/album/2oj3FG6fos7zAQJxLQGzou) | 3:58 |
 | 128 | [You've Changed](https://open.spotify.com/track/4cGNEByoQ3adGfq9rFGH2t) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [We Are Born](https://open.spotify.com/album/2sefE1XYR7ox1JTKCPerSI) | 3:11 |
 | 129 | [Somersault](https://open.spotify.com/track/6CgIaRVXNmpUgeVuHmA4a2) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [When It Falls](https://open.spotify.com/album/2pTVmzJ3y3H2TI9dDQMvl7) | 6:56 |
-| 130 | [The Whisperer \(feat\. Sia\)](https://open.spotify.com/track/4J1DXVKlC7h5wSgeuULPYh) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Listen](https://open.spotify.com/album/77UW17CZFyCaRLHdHeofZu) | 3:54 |
-| 131 | [Wild Ones \(Club Mix\)](https://open.spotify.com/track/3D2Oe2TxIUqP8FFm1yKaXF) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Wild Ones \(Club Mix\)](https://open.spotify.com/album/7FntTAsGpLUJl0eSZkXh6E) | 3:26 |
+| 130 | [Wild Ones \(Club Mix\)](https://open.spotify.com/track/3D2Oe2TxIUqP8FFm1yKaXF) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Wild Ones \(Club Mix\)](https://open.spotify.com/album/7FntTAsGpLUJl0eSZkXh6E) | 3:26 |
+| 131 | [The Whisperer \(feat\. Sia\)](https://open.spotify.com/track/4J1DXVKlC7h5wSgeuULPYh) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Listen](https://open.spotify.com/album/77UW17CZFyCaRLHdHeofZu) | 3:54 |
 | 132 | [Lying Down](https://open.spotify.com/track/3RcmQ6DdLqwp38tFsWx0mj) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Courage \(Deluxe Edition\)](https://open.spotify.com/album/0mqNgHFh1NYaxmlMS5IeGc) | 3:58 |
 | 133 | [Midnight Decisions](https://open.spotify.com/track/5rVElqSBdfsDALQfc7z2ZQ) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting \(Deluxe Version\)](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) | 3:42 |
 | 134 | [Knock You Out](https://open.spotify.com/track/1iNPlFDLDGjnJZbt11SU1e) | [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK) | [Knock You Out](https://open.spotify.com/album/3yD752ODQgnGdaVNcMSrwo) | 2:50 |
@@ -326,8 +326,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 316 | [Crush Me With Your Love](https://open.spotify.com/track/3YJvOg1AqvtUqAiTHmBxWZ) | [Kate Pierson](https://open.spotify.com/artist/3qE0gnM1Y16ZdniN0nkLgD) | [Guitars and Microphones](https://open.spotify.com/album/6hQa2Rryj0F0QrsmqmhCYe) | 3:19 |
 | 317 | [Anthem](https://open.spotify.com/track/3pA0YN34JkVK2oR4hE5byb) | [Scott Walker](https://open.spotify.com/artist/04tBaW21jyUfeP5iqiKBVq) | [Vox Lux \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0gUQpFwlWfvGD8HTUZenEL) | 1:22 |
 | 318 | [Matrix](https://open.spotify.com/track/1b0PJgINRReqrrmCAv6OLL) | [Kate Pierson](https://open.spotify.com/artist/3qE0gnM1Y16ZdniN0nkLgD) | [Guitars and Microphones](https://open.spotify.com/album/6hQa2Rryj0F0QrsmqmhCYe) | 4:36 |
-| 319 | [Oh Boy](https://open.spotify.com/track/2LZEddxkwZC8gYf6PxDOZT) | [Kayliah](https://open.spotify.com/artist/5vUkpDxDVZIggZLIdDKTNN) | [On A Tous Besoin De Croire](https://open.spotify.com/album/6hJWXCcdDF0GF5jn5FuPwh) | 3:10 |
-| 320 | [Firefly](https://open.spotify.com/track/67hjL0408LCGQGvcgxh2UW) | [Barney McAll](https://open.spotify.com/artist/1FC0psUheo5L2kUtj53MF9), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Invenio Choir](https://open.spotify.com/artist/1iq3UGbxfOvSlEEfDH3qlT) | [Graft](https://open.spotify.com/album/7mKSCnRfLedDXONasya39G) | 4:37 |
+| 319 | [Firefly](https://open.spotify.com/track/67hjL0408LCGQGvcgxh2UW) | [Barney McAll](https://open.spotify.com/artist/1FC0psUheo5L2kUtj53MF9), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Invenio Choir](https://open.spotify.com/artist/1iq3UGbxfOvSlEEfDH3qlT) | [Graft](https://open.spotify.com/album/7mKSCnRfLedDXONasya39G) | 4:37 |
+| 320 | [Oh Boy](https://open.spotify.com/track/2LZEddxkwZC8gYf6PxDOZT) | [Kayliah](https://open.spotify.com/artist/5vUkpDxDVZIggZLIdDKTNN) | [On A Tous Besoin De Croire](https://open.spotify.com/album/6hJWXCcdDF0GF5jn5FuPwh) | 3:10 |
 | 321 | [Sweet One](https://open.spotify.com/track/70yw1mWJ1dr9M0A2cDDWF5) | [Katie Noonan](https://open.spotify.com/artist/4ch5DvHFpBlRtZAERVcfHr) | [Songbook](https://open.spotify.com/album/00MGlaDFwsnlyhILi6MIke) | 4:48 |
 | 322 | [Pulls You Under](https://open.spotify.com/track/6HSfAaihnNvfIzqHsSfd2I) | [Kate Pierson](https://open.spotify.com/artist/3qE0gnM1Y16ZdniN0nkLgD) | [Guitars and Microphones](https://open.spotify.com/album/6hQa2Rryj0F0QrsmqmhCYe) | 3:24 |
 | 323 | [Jungle](https://open.spotify.com/track/6c7I2E1KYkOqeHOi5SMJ77) | [Twonot](https://open.spotify.com/artist/1iNEd69hq7KnjEEgW8bz26) | [4 DJ: UnDiscovered Weekly \#66](https://open.spotify.com/album/4SF2wQiemO3IBBefwyxaEX) | 5:52 |
@@ -347,4 +347,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 337 | [Cut To The Chase](https://open.spotify.com/track/5Ci2h6Xg4Z6WULbttzd6VB) | [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2aBT9pL5XZXmGB5gR9QQUo) | 2:52 |
 | 338 | [Out There](https://open.spotify.com/track/3Te7kICU7pmlx86QzNyb23) | [Mariana Coello](https://open.spotify.com/artist/2v8BIa5qKGdUZXfRQk9206) | [Out There](https://open.spotify.com/album/6q00fYGRYBkaVG3ujARmNF) | 2:50 |
 
-Snapshot ID: `Abyp8gAAAAAG+mUv2PQD/bW7qyVfwjeJ`
+Snapshot ID: `AbyvfgAAAAApfF8RCXW4tdbMwoDF2Nat`

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Buen provecho!",
-  "num_followers": 232504,
+  "num_followers": 232493,
   "original_name": "Hora de la Comida",
   "owner": {
     "name": "Spotify",
@@ -253,7 +253,7 @@
         },
         {
           "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/5oB1wEHTAjHd36usglhnRv"
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
         }
       ],
       "duration_ms": 230811,
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-05-05 15:49:38",
       "album": {
-        "name": "Un Momento Solos",
-        "url": "https://open.spotify.com/album/2jh79l3cHLJ1lRoMCpFtSA"
-      },
-      "artists": [
-        {
-          "name": "Kaia Lana",
-          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
-        }
-      ],
-      "duration_ms": 220197,
-      "name": "Un Momento Solos",
-      "url": "https://open.spotify.com/track/4zvqaIIlCDD2gNdbgvSZBC"
-    },
-    {
-      "added_at": "2023-05-05 15:49:38",
-      "album": {
         "name": "Manuscrito en Invierno",
         "url": "https://open.spotify.com/album/0eat9QP15I071fjbI3aKn8"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 216893,
       "name": "Manuscrito en Invierno",
       "url": "https://open.spotify.com/track/1hIdE1y2rspPS6V31nxtUb"
+    },
+    {
+      "added_at": "2023-05-05 15:49:38",
+      "album": {
+        "name": "Un Momento Solos",
+        "url": "https://open.spotify.com/album/2jh79l3cHLJ1lRoMCpFtSA"
+      },
+      "artists": [
+        {
+          "name": "Kaia Lana",
+          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
+        }
+      ],
+      "duration_ms": 220197,
+      "name": "Un Momento Solos",
+      "url": "https://open.spotify.com/track/4zvqaIIlCDD2gNdbgvSZBC"
     },
     {
       "added_at": "2023-05-05 15:49:38",

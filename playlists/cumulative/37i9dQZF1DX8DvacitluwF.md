@@ -2,9 +2,9 @@
 
 ### [R&Beats](https://open.spotify.com/playlist/37i9dQZF1DX8DvacitluwF)
 
-> The best in South African and international R&B\. Cover: <a href="https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb?si=gmJBL\-MmTzm0J\_kHtB\_Dug"> Naomi Sharon</a>
+> The best in South African and international R&B\. Cover: <a href="https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG?si=WH4L48NXQWOyGS7jC0ymXA"> Lady Donli</a>
 
-513 songs - 1 day 3 hr 32 min
+517 songs - 1 day 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [Glacier](https://open.spotify.com/track/0wume6ldVXgvM2UXEqmuq5) | [Nalu](https://open.spotify.com/artist/591xpLmcojVwIHCiMVQ3dq), [Maloon TheBoom](https://open.spotify.com/artist/66xnl7wTIoeKdJV2YblQp4) | [Glacier](https://open.spotify.com/album/0FjTADewP64C74FmQ3vfwM) | 3:58 | 2024-09-02 | 2024-09-12 |
 | [Go Baby](https://open.spotify.com/track/3NiL2JcFIncyshy4KOKA73) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 3:56 | 2023-10-12 | 2024-01-26 |
 | [Go Girlfriend](https://open.spotify.com/track/7sDsbFNNQmG2UmRjHtO7fW) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [11:11 \(Deluxe\)](https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz) | 2:55 | 2024-04-12 | 2024-08-31 |
+| [Gold](https://open.spotify.com/track/1CpxYmxDzQ2toDyf7THXnt) | [Gemma Griffiths](https://open.spotify.com/artist/1ho07fAwkrMIMAJId6DbCG) | [Gold](https://open.spotify.com/album/7Calum7vbuq3WXiXMYhIdi) | 2:52 | 2025-05-29 |  |
 | [Good Girls Finish Last](https://open.spotify.com/track/3j8hlB1QSlKvWgDAym77x4) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98) | [Good Girls Finish Last](https://open.spotify.com/album/7q4DF1pfa9zlm77xg9uJg1) | 3:02 | 2024-09-11 | 2024-11-29 |
 | [Good Time](https://open.spotify.com/track/0btvV1jKl5TdPWHOvwP5Tt) | [Yashna](https://open.spotify.com/artist/7tUJZBp4pit6GbiSI1kZzH) | [Good Time](https://open.spotify.com/album/6f30WX67H8igtjmtcPmAs9) | 1:53 | 2024-07-25 | 2024-09-03 |
 | [Goody](https://open.spotify.com/track/00OdPTXuEQhk0d8qvp2JNQ) | [Hunter Rose](https://open.spotify.com/artist/2G6bNldbTZU1viUkX5Myuq), [Loop Schrauber](https://open.spotify.com/artist/03q0QEJ2aWKMa5NlOfQX32), [Clap Cotton](https://open.spotify.com/artist/1ruRdyWeMcnliO3CPJ2gtA) | [Slow Summer](https://open.spotify.com/album/3PCSI1vcMZ4av5S2Uwjeli) | 2:26 | 2024-09-02 | 2024-09-12 |
@@ -246,6 +247,7 @@
 | [Just The Start](https://open.spotify.com/track/683EhjBwGmcv23ezqCM22h) | [Tshego](https://open.spotify.com/artist/2I1KI8uFju21FNrL4zdeqY) | [Just The Start](https://open.spotify.com/album/6CPhshx8dpeoUO3BZXImCx) | 2:04 | 2023-10-12 | 2024-01-26 |
 | [KARMA](https://open.spotify.com/track/5gc1YUM7XMyvzjJtNLXprG) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [KARMA](https://open.spotify.com/album/0ahMBglX3zpyTxcD3NwZR5) | 3:07 | 2024-02-26 | 2024-06-28 |
 | [Keep Going \(Aaaaahhhhh\)](https://open.spotify.com/track/1Gyltewwv25s0qhYT8NFdN) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Glad You Came](https://open.spotify.com/album/6CmStg5HcRCi7mJyThSbIR) | 2:48 | 2024-12-13 |  |
+| [Keep On Loving Me \(Biko Biko\)](https://open.spotify.com/track/6P6NBxeNQTQIu1ZGpoTwks) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Keep On Loving Me \(Biko Biko\)](https://open.spotify.com/album/2uRLG0A0JXYaXfe0zLCbrR) | 2:14 | 2025-05-29 |  |
 | [King.](https://open.spotify.com/track/2p764iXYTC6DjmN4Go8OCF) | [Mikhalé Jones](https://open.spotify.com/artist/7wVeyV9zIt2SBQlJ9DPuwf) | [King.](https://open.spotify.com/album/3M9HZFxTf9xR7fMHhg5u6U) | 2:37 | 2023-10-12 | 2024-01-26 |
 | [Know Each Other](https://open.spotify.com/track/7CeXK938f5kEdkIUDl7nHP) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Stone Cold Heart](https://open.spotify.com/album/5Tt1C3F4r6awYC7mHmRszf) | 4:14 | 2025-02-13 | 2025-03-01 |
 | [Know Me](https://open.spotify.com/track/7vkRrTEyZZ71DAPk6ItG2M) | [Mars Baby](https://open.spotify.com/artist/05GmksAMb6rILtaA7JBuri), [Roho](https://open.spotify.com/artist/2Rej3KxSUUiNplmlnfNdUd) | [Know Me](https://open.spotify.com/album/0rSAPCKrf4mzerV2m3mJAK) | 2:40 | 2024-02-08 | 2024-05-17 |
@@ -257,6 +259,7 @@
 | [Little Things](https://open.spotify.com/track/2HA4tNLIXY1dGvDVCLeslk) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [3](https://open.spotify.com/album/19TUU6Y9OEYm8W1zBYakWq) | 2:52 | 2024-11-07 |  |
 | [LOCATION](https://open.spotify.com/track/5kgeRCTZk6TpdYKcwiqQL8) | [RGRSNW](https://open.spotify.com/artist/0iXnQiDftxiAJTqoeJ2noD) | [RESET](https://open.spotify.com/album/1BvmIZHYOmntr3eBrLwuQ4) | 3:24 | 2024-05-03 | 2024-07-27 |
 | [lon3ly](https://open.spotify.com/track/1qIZ86h51bpBHpg6eFTDkf) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [By Any Minz](https://open.spotify.com/album/48nHgN9M9JO1ic95yWLhJP) | 2:44 | 2024-10-03 | 2025-02-07 |
+| [London Summers](https://open.spotify.com/track/1vCnTZE7PVUakwkqCnIhrn) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [London Summers](https://open.spotify.com/album/6L0fjCZSfZxhavSOOh4ohF) | 3:37 | 2025-05-29 |  |
 | [Lonely? \(Come Along\)](https://open.spotify.com/track/4Uo9L4l5evGRj8GB3Sddos) | [Th&o.](https://open.spotify.com/artist/0RYKFLXXxrpiF7e1zmCZLT) | [Lonely? \(Come Along\)](https://open.spotify.com/album/1LsqoJNFx5lsQF9JdMayxA) | 3:44 | 2024-07-18 | 2024-09-03 |
 | [Looking Good](https://open.spotify.com/track/5xzmxRIdBaPGp1y6kJa7Hh) | [Crunchy Sweater](https://open.spotify.com/artist/2D3HVUBLvAhDjdTwXQhNQY) | [Looking Good](https://open.spotify.com/album/6Dd965EGQECoAvxXS7phpI) | 2:33 | 2023-10-12 | 2023-10-27 |
 | [Lose My Focus](https://open.spotify.com/track/6JIQgoFRn5JI2Kxc1B0QzY) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS), [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Where the Butterflies Go in the Rain \(Deluxe\)](https://open.spotify.com/album/46niQnejkKyyKyFIt8isDA) | 3:37 | 2025-02-28 | 2025-04-25 |
@@ -496,6 +499,7 @@
 | [Wake Up \(feat\. Chris Brown\)](https://open.spotify.com/track/6pMHL7A5CEPzHHKDRAAMEM) | [Skylar Blatt](https://open.spotify.com/artist/5B0hUg80AXXuTKryq9mFs1), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Wake Up \(feat\. Chris Brown\)](https://open.spotify.com/album/6GxAhYaeBYubxjZn0KkpZY) | 2:53 | 2024-04-25 | 2024-07-27 |
 | [WAR](https://open.spotify.com/track/2ufWMNpHTdnKrOrWRpCtQh) | [Nnashe](https://open.spotify.com/artist/5o0lTomGzanpzoNLZg7mDu), [Jiggy Stapes](https://open.spotify.com/artist/1AALbjlavmdWKN8J1CLsMF), [S\-Que](https://open.spotify.com/artist/0vQFWM1zpxvMVOwTdvtWjP) | [WAR](https://open.spotify.com/album/7ySISELUXcFfxceYtsxnrV) | 3:22 | 2025-01-24 | 2025-04-25 |
 | [Warmth](https://open.spotify.com/track/2x3u6tY8LnKrZ1EDpJybn1) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Monifé](https://open.spotify.com/artist/3RJBneQVluxOpfJLEtlNQ0) | [Warmth](https://open.spotify.com/album/4gHQLmvwo9AVpTCEwBsIw5) | 3:03 | 2023-10-12 | 2024-01-26 |
+| [WASTE OF TIME](https://open.spotify.com/track/5FgFlKREwwVlppejvZdXMJ) | [Oxii Moron](https://open.spotify.com/artist/1eMXbPuLhjzGuW8I2p2XXX), [Fentse.](https://open.spotify.com/artist/4ze7a3Hlh8YVc31qs0EHHc) | [WASTE OF TIME](https://open.spotify.com/album/2vYpBZm6ORYZPtaDvVXUB6) | 2:53 | 2025-05-29 |  |
 | [Water](https://open.spotify.com/track/6J3rA77AWZ5POPCqAIWCrr) | [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88), [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB) | [Testament](https://open.spotify.com/album/06klV2isRMZbEofIvOunPM) | 2:45 | 2023-11-23 | 2024-03-22 |
 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 | 2023-10-12 | 2024-03-22 |
 | [We Move](https://open.spotify.com/track/5dAyf2VGTc958EhSH5t3eD) | [Malachi](https://open.spotify.com/artist/6DEiQRPzn93sZ3SS0PgiaS) | [Wicked Romance](https://open.spotify.com/album/3rDwc0o1njNmI1EuDLuKfc) | 3:12 | 2024-09-02 | 2024-09-12 |

@@ -2245,6 +2245,28 @@
     },
     {
       "album": {
+        "name": "Night Night",
+        "url": "https://open.spotify.com/album/0SAHNSSJcJeVyFI7lRX46f"
+      },
+      "artists": [
+        {
+          "name": "Hollie Cook",
+          "url": "https://open.spotify.com/artist/1fwuUuFbqXJx3B17PUhFCE"
+        },
+        {
+          "name": "Horseman",
+          "url": "https://open.spotify.com/artist/6072oVyIFCVwPcftVNWF1z"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188712,
+      "name": "Night Night",
+      "url": "https://open.spotify.com/track/0skNFEVeT49k1oCeuRqT2k"
+    },
+    {
+      "album": {
         "name": "Nothing's Gonna Change My Love For You",
         "url": "https://open.spotify.com/album/0MA3O2ckEGEDTmaXcpjh9M"
       },
@@ -3198,6 +3220,36 @@
       "duration_ms": 139166,
       "name": "Still the One",
       "url": "https://open.spotify.com/track/5kt8ukMn43YK7eMYeD2tP8"
+    },
+    {
+      "album": {
+        "name": "Summer Breeze",
+        "url": "https://open.spotify.com/album/1BMwIdCw9HWnuWS0Kc2fL9"
+      },
+      "artists": [
+        {
+          "name": "The Mighty Rootsmen",
+          "url": "https://open.spotify.com/artist/3HZNJxRu48Cxt6dlPcIhnH"
+        },
+        {
+          "name": "Toots & The Maytals",
+          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
+        },
+        {
+          "name": "Gregory Isaacs",
+          "url": "https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc"
+        },
+        {
+          "name": "Mykal Rose",
+          "url": "https://open.spotify.com/artist/5wdQ2IkL8WASlcyt0x2s8Q"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207915,
+      "name": "Summer Breeze",
+      "url": "https://open.spotify.com/track/1QvnAn3bRO9OHvcVcGdgJX"
     },
     {
       "album": {

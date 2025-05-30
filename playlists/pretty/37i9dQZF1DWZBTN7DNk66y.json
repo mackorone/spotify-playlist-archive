@@ -1,6 +1,6 @@
 {
   "description": "El nuevo sonido de la canci\u00f3n sudamericana de la mano de Sof\u00eda \u00c1lvez.",
-  "num_followers": 27049,
+  "num_followers": 27050,
   "original_name": "Voces del Sur",
   "owner": {
     "name": "Spotify",
@@ -955,26 +955,6 @@
     {
       "added_at": "2025-04-11 03:00:08",
       "album": {
-        "name": "Recuerdos de Ypacara\u00ed",
-        "url": "https://open.spotify.com/album/3JFlzUbyftC2j34IoK4cyG"
-      },
-      "artists": [
-        {
-          "name": "Luna Sujatovich",
-          "url": "https://open.spotify.com/artist/0RsjZIEbaxBvwvoEfnEs2G"
-        },
-        {
-          "name": "An Espil",
-          "url": "https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt"
-        }
-      ],
-      "duration_ms": 267523,
-      "name": "Recuerdos de Ypacara\u00ed",
-      "url": "https://open.spotify.com/track/5sHhACecsUVICpq4Geeejj"
-    },
-    {
-      "added_at": "2025-04-11 03:00:08",
-      "album": {
         "name": "Hunde",
         "url": "https://open.spotify.com/album/2wzVHWdzz15E9nuZ63ZtKJ"
       },
@@ -995,6 +975,26 @@
     {
       "added_at": "2025-04-11 03:00:08",
       "album": {
+        "name": "Recuerdos de Ypacara\u00ed",
+        "url": "https://open.spotify.com/album/3JFlzUbyftC2j34IoK4cyG"
+      },
+      "artists": [
+        {
+          "name": "Luna Sujatovich",
+          "url": "https://open.spotify.com/artist/0RsjZIEbaxBvwvoEfnEs2G"
+        },
+        {
+          "name": "An Espil",
+          "url": "https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt"
+        }
+      ],
+      "duration_ms": 267523,
+      "name": "Recuerdos de Ypacara\u00ed",
+      "url": "https://open.spotify.com/track/5sHhACecsUVICpq4Geeejj"
+    },
+    {
+      "added_at": "2025-04-11 03:00:08",
+      "album": {
         "name": "Arrullito",
         "url": "https://open.spotify.com/album/4kASZ1hMeBCDM1bE61NQLz"
       },
@@ -1011,6 +1011,42 @@
       "duration_ms": 228271,
       "name": "Arrullito",
       "url": "https://open.spotify.com/track/3UQhsG1P4KM2cueYmYMWRi"
+    },
+    {
+      "added_at": "2025-04-11 03:00:08",
+      "album": {
+        "name": "Comida China",
+        "url": "https://open.spotify.com/album/5C7cBSWs7ANBAjCdPuv4x5"
+      },
+      "artists": [
+        {
+          "name": "Yorka",
+          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
+        },
+        {
+          "name": "Diego Lorenzini",
+          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
+        }
+      ],
+      "duration_ms": 162993,
+      "name": "Comida China",
+      "url": "https://open.spotify.com/track/5oWz29Lp0mLiA9d0wPJNsG"
+    },
+    {
+      "added_at": "2025-04-11 03:00:08",
+      "album": {
+        "name": "Esperarte",
+        "url": "https://open.spotify.com/album/5I0dw9jdaRbYmEPV63nNMT"
+      },
+      "artists": [
+        {
+          "name": "Tomi Lago",
+          "url": "https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug"
+        }
+      ],
+      "duration_ms": 205266,
+      "name": "Esperarte",
+      "url": "https://open.spotify.com/track/1zAoX7MQEhFn1hXJqCUAmJ"
     },
     {
       "added_at": "2025-04-11 03:00:08",
@@ -1039,42 +1075,6 @@
       "duration_ms": 161875,
       "name": "Luna Llena de Fuego",
       "url": "https://open.spotify.com/track/22AoaRhyEfGwxGYc951ZLM"
-    },
-    {
-      "added_at": "2025-04-11 03:00:08",
-      "album": {
-        "name": "Esperarte",
-        "url": "https://open.spotify.com/album/5I0dw9jdaRbYmEPV63nNMT"
-      },
-      "artists": [
-        {
-          "name": "Tomi Lago",
-          "url": "https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug"
-        }
-      ],
-      "duration_ms": 205266,
-      "name": "Esperarte",
-      "url": "https://open.spotify.com/track/1zAoX7MQEhFn1hXJqCUAmJ"
-    },
-    {
-      "added_at": "2025-04-11 03:00:08",
-      "album": {
-        "name": "Comida China",
-        "url": "https://open.spotify.com/album/5C7cBSWs7ANBAjCdPuv4x5"
-      },
-      "artists": [
-        {
-          "name": "Yorka",
-          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
-        },
-        {
-          "name": "Diego Lorenzini",
-          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
-        }
-      ],
-      "duration_ms": 162993,
-      "name": "Comida China",
-      "url": "https://open.spotify.com/track/5oWz29Lp0mLiA9d0wPJNsG"
     },
     {
       "added_at": "2025-04-11 03:00:08",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2025-04-11 03:00:08",
       "album": {
-        "name": "Vida (Set 1, en vivo)",
-        "url": "https://open.spotify.com/album/3Y6URwZJ3B8wYozOttRk6m"
-      },
-      "artists": [
-        {
-          "name": "Lisandro Aristimu\u00f1o",
-          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
-        }
-      ],
-      "duration_ms": 191843,
-      "name": "Vida - Set 1, en vivo",
-      "url": "https://open.spotify.com/track/2zIgYoO5tc0ldjwpbZtJLz"
-    },
-    {
-      "added_at": "2025-04-11 03:00:08",
-      "album": {
         "name": "Cenital",
         "url": "https://open.spotify.com/album/0QvnKhLge7VNaO29hCOAFK"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 209917,
       "name": "Cenital",
       "url": "https://open.spotify.com/track/60yhtT4KG6a07BMov9LZKr"
+    },
+    {
+      "added_at": "2025-04-11 03:00:08",
+      "album": {
+        "name": "Vida (Set 1, en vivo)",
+        "url": "https://open.spotify.com/album/3Y6URwZJ3B8wYozOttRk6m"
+      },
+      "artists": [
+        {
+          "name": "Lisandro Aristimu\u00f1o",
+          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
+        }
+      ],
+      "duration_ms": 191843,
+      "name": "Vida - Set 1, en vivo",
+      "url": "https://open.spotify.com/track/2zIgYoO5tc0ldjwpbZtJLz"
     },
     {
       "added_at": "2025-04-11 03:00:08",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2025-04-11 03:00:08",
       "album": {
-        "name": "Odio despertar",
-        "url": "https://open.spotify.com/album/4CIBXHoCuxl1Pbr4OjwWoS"
-      },
-      "artists": [
-        {
-          "name": "Miau Tr\u00edo",
-          "url": "https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL"
-        }
-      ],
-      "duration_ms": 267941,
-      "name": "Odio despertar",
-      "url": "https://open.spotify.com/track/5iHpMjibIkqUNAIw6jYWs1"
-    },
-    {
-      "added_at": "2025-04-11 03:00:08",
-      "album": {
         "name": "Yo te nombro libertad (Banda Sonora Original de \"El don absoluto\")",
         "url": "https://open.spotify.com/album/2wFi5fSoYU4R7Nj15jwa33"
       },
@@ -1411,6 +1395,22 @@
     {
       "added_at": "2025-04-11 03:00:08",
       "album": {
+        "name": "Odio despertar",
+        "url": "https://open.spotify.com/album/4CIBXHoCuxl1Pbr4OjwWoS"
+      },
+      "artists": [
+        {
+          "name": "Miau Tr\u00edo",
+          "url": "https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL"
+        }
+      ],
+      "duration_ms": 267941,
+      "name": "Odio despertar",
+      "url": "https://open.spotify.com/track/5iHpMjibIkqUNAIw6jYWs1"
+    },
+    {
+      "added_at": "2025-04-11 03:00:08",
+      "album": {
         "name": "Eufemismos",
         "url": "https://open.spotify.com/album/4kn8e8zAEn2BYX50GAvBNF"
       },
@@ -1431,26 +1431,6 @@
     {
       "added_at": "2025-04-11 03:00:08",
       "album": {
-        "name": "\u00bfQU\u00c9 VES?",
-        "url": "https://open.spotify.com/album/4q51LFiTNCS7zV1FMSSQVF"
-      },
-      "artists": [
-        {
-          "name": "Yacar\u00e9 Manso",
-          "url": "https://open.spotify.com/artist/0G6VQf773ZIIYkKs8QnW1V"
-        },
-        {
-          "name": "Vieto Sound System",
-          "url": "https://open.spotify.com/artist/2TQQUkzXXK2JfkKl2Vxkys"
-        }
-      ],
-      "duration_ms": 306776,
-      "name": "\u00bfQU\u00c9 VES?",
-      "url": "https://open.spotify.com/track/7s47ONrsw6af0bSgjgNzB1"
-    },
-    {
-      "added_at": "2025-04-11 03:00:08",
-      "album": {
         "name": "Sampa",
         "url": "https://open.spotify.com/album/1koawHnVGULixrX3oMtJxf"
       },
@@ -1467,6 +1447,26 @@
       "duration_ms": 269540,
       "name": "Sampa",
       "url": "https://open.spotify.com/track/4Hlo0rzrgIOCcj84LFDa8n"
+    },
+    {
+      "added_at": "2025-04-11 03:00:08",
+      "album": {
+        "name": "\u00bfQU\u00c9 VES?",
+        "url": "https://open.spotify.com/album/4q51LFiTNCS7zV1FMSSQVF"
+      },
+      "artists": [
+        {
+          "name": "Yacar\u00e9 Manso",
+          "url": "https://open.spotify.com/artist/0G6VQf773ZIIYkKs8QnW1V"
+        },
+        {
+          "name": "Vieto Sound System",
+          "url": "https://open.spotify.com/artist/2TQQUkzXXK2JfkKl2Vxkys"
+        }
+      ],
+      "duration_ms": 306776,
+      "name": "\u00bfQU\u00c9 VES?",
+      "url": "https://open.spotify.com/track/7s47ONrsw6af0bSgjgNzB1"
     },
     {
       "added_at": "2025-04-11 03:00:08",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2025-04-11 03:00:08",
       "album": {
+        "name": "EUCALIPTO",
+        "url": "https://open.spotify.com/album/1cr1LtMh5mwohEogHuqQe7"
+      },
+      "artists": [
+        {
+          "name": "Yacar\u00e9 Manso",
+          "url": "https://open.spotify.com/artist/0G6VQf773ZIIYkKs8QnW1V"
+        }
+      ],
+      "duration_ms": 84997,
+      "name": "Alguien",
+      "url": "https://open.spotify.com/track/6wieV3krzP6veSHdwAkOAL"
+    },
+    {
+      "added_at": "2025-04-11 03:00:08",
+      "album": {
         "name": "Po\u00e9tica Bailable Vol. 1",
         "url": "https://open.spotify.com/album/0WX90YTp6QsEVOHG5Qij3e"
       },
@@ -1603,26 +1619,6 @@
     {
       "added_at": "2025-04-11 03:00:08",
       "album": {
-        "name": "Que siga el baile",
-        "url": "https://open.spotify.com/album/46oKQE0htUjsQfXXQmLskb"
-      },
-      "artists": [
-        {
-          "name": "Seba Ulivi",
-          "url": "https://open.spotify.com/artist/2UUndQ8hpbGQCHnfpYvpKl"
-        },
-        {
-          "name": "Sof\u00eda Alvez",
-          "url": "https://open.spotify.com/artist/2mOfSQosQk4GNspOTIPx7a"
-        }
-      ],
-      "duration_ms": 165059,
-      "name": "Que siga el baile",
-      "url": "https://open.spotify.com/track/21BrwLt1MgeHJpxhvvr7J5"
-    },
-    {
-      "added_at": "2025-04-11 03:00:08",
-      "album": {
         "name": "Llamando",
         "url": "https://open.spotify.com/album/1gS7zOKufSC1rj29Q9eBPD"
       },
@@ -1643,18 +1639,42 @@
     {
       "added_at": "2025-04-11 03:00:08",
       "album": {
-        "name": "EUCALIPTO",
-        "url": "https://open.spotify.com/album/1cr1LtMh5mwohEogHuqQe7"
+        "name": "Que siga el baile",
+        "url": "https://open.spotify.com/album/46oKQE0htUjsQfXXQmLskb"
       },
       "artists": [
         {
-          "name": "Yacar\u00e9 Manso",
-          "url": "https://open.spotify.com/artist/0G6VQf773ZIIYkKs8QnW1V"
+          "name": "Seba Ulivi",
+          "url": "https://open.spotify.com/artist/2UUndQ8hpbGQCHnfpYvpKl"
+        },
+        {
+          "name": "Sof\u00eda Alvez",
+          "url": "https://open.spotify.com/artist/2mOfSQosQk4GNspOTIPx7a"
         }
       ],
-      "duration_ms": 84997,
-      "name": "Alguien",
-      "url": "https://open.spotify.com/track/6wieV3krzP6veSHdwAkOAL"
+      "duration_ms": 165059,
+      "name": "Que siga el baile",
+      "url": "https://open.spotify.com/track/21BrwLt1MgeHJpxhvvr7J5"
+    },
+    {
+      "added_at": "2025-04-11 03:00:08",
+      "album": {
+        "name": "OTRX",
+        "url": "https://open.spotify.com/album/5CM33ITU9p94NVDDMEMLAh"
+      },
+      "artists": [
+        {
+          "name": "Valen Bonetto",
+          "url": "https://open.spotify.com/artist/7vPbPjEVJEWQ63omiimVpd"
+        },
+        {
+          "name": "Brenda Martin",
+          "url": "https://open.spotify.com/artist/54NJYwYXv1Y6HoIW5MxdqI"
+        }
+      ],
+      "duration_ms": 216645,
+      "name": "Ahora",
+      "url": "https://open.spotify.com/track/6E2AxABlhC0dR1qHM550wU"
     },
     {
       "added_at": "2025-04-11 03:00:08",
@@ -1691,26 +1711,6 @@
     {
       "added_at": "2025-04-11 03:00:08",
       "album": {
-        "name": "OTRX",
-        "url": "https://open.spotify.com/album/5CM33ITU9p94NVDDMEMLAh"
-      },
-      "artists": [
-        {
-          "name": "Valen Bonetto",
-          "url": "https://open.spotify.com/artist/7vPbPjEVJEWQ63omiimVpd"
-        },
-        {
-          "name": "Brenda Martin",
-          "url": "https://open.spotify.com/artist/54NJYwYXv1Y6HoIW5MxdqI"
-        }
-      ],
-      "duration_ms": 216645,
-      "name": "Ahora",
-      "url": "https://open.spotify.com/track/6E2AxABlhC0dR1qHM550wU"
-    },
-    {
-      "added_at": "2025-04-11 03:00:08",
-      "album": {
         "name": "Miel",
         "url": "https://open.spotify.com/album/1kOml1kbVw1MjzEFPKCPjP"
       },
@@ -1731,6 +1731,38 @@
     {
       "added_at": "2025-04-11 03:00:08",
       "album": {
+        "name": "SOL",
+        "url": "https://open.spotify.com/album/3Pw6e83RiUyQUy1RS8kHKp"
+      },
+      "artists": [
+        {
+          "name": "Fernando Milagros",
+          "url": "https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN"
+        }
+      ],
+      "duration_ms": 274748,
+      "name": "Puzzle",
+      "url": "https://open.spotify.com/track/2jQQD23o4uQMCNVLwjKlCU"
+    },
+    {
+      "added_at": "2025-04-11 03:00:08",
+      "album": {
+        "name": "Las palabras que no sientes",
+        "url": "https://open.spotify.com/album/4lZuwyxexe4p1YPxtgUmuR"
+      },
+      "artists": [
+        {
+          "name": "Mora Lucay",
+          "url": "https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L"
+        }
+      ],
+      "duration_ms": 148339,
+      "name": "Las palabras que no sientes",
+      "url": "https://open.spotify.com/track/0L35bVS6euGPgrVPPYW8wW"
+    },
+    {
+      "added_at": "2025-04-11 03:00:08",
+      "album": {
         "name": "Sexo y Sushi",
         "url": "https://open.spotify.com/album/6KkeJ1xofRxxvVkTpuG1hu"
       },
@@ -1747,22 +1779,6 @@
       "duration_ms": 172842,
       "name": "Sexo y Sushi",
       "url": "https://open.spotify.com/track/1mqRD9uR38rWpCUtg8jf7W"
-    },
-    {
-      "added_at": "2025-04-11 03:00:08",
-      "album": {
-        "name": "SOL",
-        "url": "https://open.spotify.com/album/3Pw6e83RiUyQUy1RS8kHKp"
-      },
-      "artists": [
-        {
-          "name": "Fernando Milagros",
-          "url": "https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN"
-        }
-      ],
-      "duration_ms": 274748,
-      "name": "Puzzle",
-      "url": "https://open.spotify.com/track/2jQQD23o4uQMCNVLwjKlCU"
     },
     {
       "added_at": "2025-04-11 03:00:08",
@@ -1799,42 +1815,6 @@
     {
       "added_at": "2025-04-11 03:00:08",
       "album": {
-        "name": "La Mariposa",
-        "url": "https://open.spotify.com/album/0c6di7PysBHM3aaqyhC5BO"
-      },
-      "artists": [
-        {
-          "name": "Pascuala Ilabaca y Fauna",
-          "url": "https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA"
-        },
-        {
-          "name": "Mora Lucay",
-          "url": "https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L"
-        }
-      ],
-      "duration_ms": 109962,
-      "name": "La Mariposa",
-      "url": "https://open.spotify.com/track/3k8diAty8oozYqQV8j7v0R"
-    },
-    {
-      "added_at": "2025-04-11 03:00:08",
-      "album": {
-        "name": "Las palabras que no sientes",
-        "url": "https://open.spotify.com/album/4lZuwyxexe4p1YPxtgUmuR"
-      },
-      "artists": [
-        {
-          "name": "Mora Lucay",
-          "url": "https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L"
-        }
-      ],
-      "duration_ms": 148339,
-      "name": "Las palabras que no sientes",
-      "url": "https://open.spotify.com/track/0L35bVS6euGPgrVPPYW8wW"
-    },
-    {
-      "added_at": "2025-04-11 03:00:08",
-      "album": {
         "name": "Del otro lado de la vidriera",
         "url": "https://open.spotify.com/album/36b4FRKLtMv0Z75NCtoOZP"
       },
@@ -1855,6 +1835,26 @@
     {
       "added_at": "2025-04-11 03:00:08",
       "album": {
+        "name": "La Mariposa",
+        "url": "https://open.spotify.com/album/0c6di7PysBHM3aaqyhC5BO"
+      },
+      "artists": [
+        {
+          "name": "Pascuala Ilabaca y Fauna",
+          "url": "https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA"
+        },
+        {
+          "name": "Mora Lucay",
+          "url": "https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L"
+        }
+      ],
+      "duration_ms": 109962,
+      "name": "La Mariposa",
+      "url": "https://open.spotify.com/track/3k8diAty8oozYqQV8j7v0R"
+    },
+    {
+      "added_at": "2025-04-11 03:00:08",
+      "album": {
         "name": "Esperanza/ Nunca te vayas",
         "url": "https://open.spotify.com/album/0RN51pSdZYAHMKCxmNnUao"
       },
@@ -1871,26 +1871,18 @@
     {
       "added_at": "2025-04-11 03:00:08",
       "album": {
-        "name": "Me Late",
-        "url": "https://open.spotify.com/album/0Mkxb8rknAgLlrwqv9XdFv"
+        "name": "El rey del yuyal",
+        "url": "https://open.spotify.com/album/3YmKNf3CiCG381ZvxJwkCk"
       },
       "artists": [
         {
-          "name": "laia",
-          "url": "https://open.spotify.com/artist/1eFDWuVJ8q3nSbmG2MArz5"
-        },
-        {
-          "name": "Camil\u00fa",
-          "url": "https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF"
-        },
-        {
-          "name": "La Mare",
-          "url": "https://open.spotify.com/artist/1Gfli7cnJl5WUShQAG6oja"
+          "name": "Pens\u00e9 que era viernes",
+          "url": "https://open.spotify.com/artist/4ItV8u3CWrnoo4D8JEHXk1"
         }
       ],
-      "duration_ms": 206737,
-      "name": "Me Late",
-      "url": "https://open.spotify.com/track/4bJb1IiYdxU8tQLlRdnqtu"
+      "duration_ms": 174857,
+      "name": "El rey del yuyal",
+      "url": "https://open.spotify.com/track/37q1oUFGyp0Uh8L8kArkym"
     }
   ],
   "unique_name": "Voces del Sur",

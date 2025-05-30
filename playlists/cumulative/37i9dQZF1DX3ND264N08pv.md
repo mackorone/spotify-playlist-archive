@@ -4,7 +4,7 @@
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-334 songs - 18 hr 15 min
+335 songs - 18 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Enemy](https://open.spotify.com/track/7wDCo18UPwxRkkMxd9VxBL) | [Vandal!sm](https://open.spotify.com/artist/34gGWxDix1DnDFwFWg4tn4), [TukkerTempo](https://open.spotify.com/artist/1hP1BT3aK40lWagFTrvLLN), [Darkside Unleashed](https://open.spotify.com/artist/0L6VAL1gjaX0qWC3MD8OVl) | [Enemy](https://open.spotify.com/album/4bMvupucD3bY4SIEZ9pBE7) | 3:21 | 2023-09-01 | 2024-08-29 |
 | [Enemy Contact](https://open.spotify.com/track/5oJdYr7cuIWUENpb0CD0J8) | [Unresolved](https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr) | [Enemy Contact](https://open.spotify.com/album/7fUZMLkFdZpwSHtleZQkDu) | 3:40 | 2023-06-01 | 2023-09-01 |
 | [Energy 1996](https://open.spotify.com/track/3ngAQDc6SRdDaM9RbaSZ2H) | [Dj Mad Dog](https://open.spotify.com/artist/7oX7rzli18XsB2WFd88oW4) | [Downtempo EP II](https://open.spotify.com/album/1TMyUd1APaQ3RCO2jWmCAE) | 4:18 | 2022-12-08 | 2023-04-14 |
+| [Energy Drink](https://open.spotify.com/track/6j9EHvNLI3VzqG2rPTS8Bf) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [BOMBSQUAD](https://open.spotify.com/artist/7fyZZzdEhPZmZWrqrYS0tl), [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [Energy Drink](https://open.spotify.com/album/4iUaYfLtsBjPBniim0eQ0S) | 2:53 | 2025-05-29 |  |
 | [Enter The Dome \- Official Thunderdome 2022 Anthem](https://open.spotify.com/track/5wvfLTKIewrRfrZJRs3Qqf) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3) | [Enter The Dome \(Official Thunderdome 2022 Anthem\)](https://open.spotify.com/album/11f7M6Iutpt2PDvvxWdRuM) | 3:51 | 2022-12-08 | 2024-09-18 |
 | [Everybody Move](https://open.spotify.com/track/3vodvhteZsq3Wydz9Y0kbX) | [F\. Noize](https://open.spotify.com/artist/0mdmNdny2m37Hb1DIdQkG7) | [Everybody Move](https://open.spotify.com/album/5g9ZPYUnWl79HQWchAwoce) | 2:51 | 2024-03-11 | 2024-06-28 |
 | [F\#ck The Haters](https://open.spotify.com/track/2MkEOJ1yZ1wBk1Sx022OTo) | [Mutilator](https://open.spotify.com/artist/3AkGIMk9xwDj4A5ttNBPiN) | [F\#ck The Haters](https://open.spotify.com/album/3EgcPoSBiZCFK8QhKU6buM) | 2:27 | 2022-12-08 | 2023-12-22 |
@@ -299,7 +300,7 @@
 | [The Future](https://open.spotify.com/track/4bdtUZWlQTi22F4TLu9NVV) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [Da Mouth of Madness](https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv) | [The Future](https://open.spotify.com/album/2fV64H3NI4XvL05XVdhoip) | 4:59 | 2025-01-10 | 2025-02-28 |
 | [The Gospel \- Geck\-o's Gabber Confession Remix](https://open.spotify.com/track/1aj0Wx51HvxGj1dnDFNEnm) | [Audiofreq](https://open.spotify.com/artist/0hHKtZEXHNsXfgrNgU7Zkl), [Geck\-O](https://open.spotify.com/artist/5TfuDjIGoKIDy1c7l0DBsB) | [The Gospel \(Geck\-o's Gabber Confession Remix\)](https://open.spotify.com/album/0dkaXxnzrtl4qbG53b8nKo) | 3:51 | 2023-09-14 | 2024-03-05 |
 | [The Hood](https://open.spotify.com/track/2fHSUYkVn1dBWeqE2fY3rQ) | [Nosferatu](https://open.spotify.com/artist/0S6b11xqvO6XOWZSukSjiY) | [The Hood](https://open.spotify.com/album/35NlVrFFOodmyJ9EWrCL94) | 3:13 | 2022-12-08 | 2022-12-22 |
-| [The Light \(Defqon.1 2024 BLACK OST\)](https://open.spotify.com/track/3YbYr7EkUAHk4W2nyIuFiS) | [Spitnoise](https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl), [E\-Life](https://open.spotify.com/artist/4EnzLaY6syM2lVhfMRolW2) | [The Light \(Defqon.1 2024 BLACK OST\)](https://open.spotify.com/album/3U9BcVgKxlElsk8pmLy11e) | 3:35 | 2024-06-21 |  |
+| [The Light \(Defqon.1 2024 BLACK OST\)](https://open.spotify.com/track/3YbYr7EkUAHk4W2nyIuFiS) | [Spitnoise](https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl), [E\-Life](https://open.spotify.com/artist/4EnzLaY6syM2lVhfMRolW2) | [The Light \(Defqon.1 2024 BLACK OST\)](https://open.spotify.com/album/3U9BcVgKxlElsk8pmLy11e) | 3:35 | 2024-06-21 | 2025-05-30 |
 | [The Mind](https://open.spotify.com/track/2SBih0WVTPSjkvcya5Uwan) | [Furyan](https://open.spotify.com/artist/7KAMvC5fpPMWUgZYu3mEYJ) | [The Mind](https://open.spotify.com/album/48aEQD8boTPPi3jylW9XGc) | 2:49 | 2022-12-08 | 2023-04-14 |
 | [The Next Level](https://open.spotify.com/track/52Da7df3ErcDwprCRADkgS) | [Act of Rage](https://open.spotify.com/artist/5eHs2hHfUzGizdnrLjc3CW), [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3) | [The Next Level](https://open.spotify.com/album/4BIBYeZSRT3z0om94NPXut) | 3:15 | 2022-12-08 | 2023-06-02 |
 | [The Oni Retribution](https://open.spotify.com/track/6QfKWeXzKVcbAhuPLyj9fP) | [Nosferatu](https://open.spotify.com/artist/0S6b11xqvO6XOWZSukSjiY) | [The Oni Retribution](https://open.spotify.com/album/18Wbb2JIGpMv6KAxcg7Cxb) | 4:25 | 2024-02-15 | 2025-02-28 |

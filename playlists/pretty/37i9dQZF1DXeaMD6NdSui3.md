@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaMD6NdSui3.md) - [plain]
 
 > Texas Blues at its best.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,056 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,105 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaMD6NdSui3.md) - [plain]
 | 22 | [Gotta Serve Somebody](https://open.spotify.com/track/5XErREyoO37cJdsXAJVu1J) | [Denny Freeman](https://open.spotify.com/artist/2sCGPaXs1se0qKtGeXAgcv) | [Diggin' On Dylan](https://open.spotify.com/album/1sOAiVbChDBc1SyQf1rCIh) | 4:48 |
 | 23 | [Whiskey Drinkin' Blues](https://open.spotify.com/track/51Us3goc25GZypfvfLQ3PT) | [Andrew "Jr Boy" Jones](https://open.spotify.com/artist/7bAJqc9QEfRjLeSEVuWf6c) | [I Know What It's Like](https://open.spotify.com/album/3a2lnTskswyUvsYNcxoqMV) | 4:33 |
 | 24 | [Bluesman for Life \- Remastered](https://open.spotify.com/track/7tD3yMdZrZ2uHPyj0WvupF) | [Roy Gaines](https://open.spotify.com/artist/3MGM5t6OR7ZxudoWw53LMr) | [Bluesman for Life](https://open.spotify.com/album/3BVB2KaAsRhni4UtRzvAmh) | 5:10 |
-| 25 | [Wait On Time](https://open.spotify.com/track/71ptjbbVkrMPebtE3CgBZS) | [The Fabulous Thunderbirds](https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT) | [The Fabulous Thunderbirds](https://open.spotify.com/album/0eukg8bhyBLRYCPoDpPBgs) | 3:03 |
-| 26 | [88 Answers](https://open.spotify.com/track/6JtIMcTWy29xpiTmhMOpnY) | [Ezra Charles](https://open.spotify.com/artist/5TIgW7vGG3wjwmhg7ESxxa) | [Return Of The Radio Avengers](https://open.spotify.com/album/3xkv0QNIZTbz5Z4FIFM6op) | 3:19 |
+| 25 | [88 Answers](https://open.spotify.com/track/6JtIMcTWy29xpiTmhMOpnY) | [Ezra Charles](https://open.spotify.com/artist/5TIgW7vGG3wjwmhg7ESxxa) | [Return Of The Radio Avengers](https://open.spotify.com/album/3xkv0QNIZTbz5Z4FIFM6op) | 3:19 |
+| 26 | [Wait On Time](https://open.spotify.com/track/71ptjbbVkrMPebtE3CgBZS) | [The Fabulous Thunderbirds](https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT) | [The Fabulous Thunderbirds](https://open.spotify.com/album/0eukg8bhyBLRYCPoDpPBgs) | 3:03 |
 | 27 | [Sunny Day Friends](https://open.spotify.com/track/0uLlDxqX6uatonJwjodv2Q) | [Diunna Greenleaf](https://open.spotify.com/artist/22laryZFr71CbB5WtXIMzb) | [Trying to Hold On](https://open.spotify.com/album/4eYqi12IL2UvjNbnrZYP5s) | 3:40 |
 | 28 | [Starting All Over](https://open.spotify.com/track/3T1iXyK8LzxE4QYbU30z2N) | [Tutu Jones](https://open.spotify.com/artist/2YJ9frh2VN2BXKVtEjiV2L) | [Inside Out](https://open.spotify.com/album/1SNeILyRS6UHWV0zlRbmLb) | 4:06 |
 | 29 | [Part Time Love](https://open.spotify.com/track/3ZH4DOwTuTyLciokW7bPSe) | [Texas Bluesmen](https://open.spotify.com/artist/0zxAYpfMkRAisf8HCOWzY1), [Robert Ealey](https://open.spotify.com/artist/1LUaCz87zXDOg9abUxidOd) | [Texas Bluesmen](https://open.spotify.com/album/45O218hUcFN5yPA9rnOj7m) | 6:25 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaMD6NdSui3.md) - [plain]
 | 41 | [Life by the Drop](https://open.spotify.com/track/5jrq9La3ynS3B9aizefueu) | [Doyle Bramhall](https://open.spotify.com/artist/2ewLmeOezmY0HqMR21anX4) | [Fitchburg Street](https://open.spotify.com/album/4SB602UH3CT37jiy1mZzlu) | 3:05 |
 | 42 | [Honey, Hush aka Talking Woman Blues](https://open.spotify.com/track/6Aqdo2NI0hsoom3UpEWuLT) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Ice Pickin'](https://open.spotify.com/album/5iFF3KWzukkaBLA6bDGoGw) | 4:28 |
 | 43 | [Have Blues, Will Travel](https://open.spotify.com/track/5uQmSlxgnr19AMo2D5rBqX) | [Smokin' Joe Kubek & Bnois King](https://open.spotify.com/artist/0nMA4cLQjSiZspsoI70aut) | [Have Blues, Will Travel](https://open.spotify.com/album/1aIpCxCpnB70PClhPolZhj) | 4:07 |
-| 44 | [Whiskey Drinkin' Blues](https://open.spotify.com/track/6CsdPQAmXxGozOfUK4TJWp) | [Andrew "Jr Boy" Jones](https://open.spotify.com/artist/7bAJqc9QEfRjLeSEVuWf6c) | [I Know What It's Like](https://open.spotify.com/album/2wq278LKG3XbveOToSzqVA) | 4:33 |
-| 45 | [My Texas Home](https://open.spotify.com/track/78smBCdkaExMyjg81o3qh5) | [W.C\. Clark](https://open.spotify.com/artist/2eJojpx2Dv1QL3WBjJQXWi) | [Deep In The Heart](https://open.spotify.com/album/4xZ46S0lPn8bNRRRpkRvD2) | 4:53 |
-| 46 | [We The People](https://open.spotify.com/track/3v4UHYq9uKonBnNZai2N8j) | [Guitar Shorty](https://open.spotify.com/artist/3A01qH4VCBkDXcDc2luyNc) | [We The People](https://open.spotify.com/album/7nKZ9Ih62eEDbWEIoODwzN) | 4:20 |
-| 47 | [Don't Lose My Number](https://open.spotify.com/track/4t7Nh53jliIn7NoFN36qJG) | [Smokin' Joe Kubek](https://open.spotify.com/artist/5XkftMVm7vxTLcj05etN6B), [Bnois King](https://open.spotify.com/artist/17jKRJyvcPLKu8GrxAwff1) | [Blood Brothers](https://open.spotify.com/album/7bg12LvkHlAWqijVlczS4I) | 3:33 |
-| 48 | [Crazy Love](https://open.spotify.com/track/5iJoZZBSFpVtRPUWdERzeb) | [Long John Hunter](https://open.spotify.com/artist/7z5ixtgDexP9ffmFvFoRlW) | [Ride With Me](https://open.spotify.com/album/0l5L2aVeZ9IVE31mmERdvy) | 5:41 |
-| 49 | [Pay the Band](https://open.spotify.com/track/2PWSSJM09LYjt7o2sgyRsr) | [Buddy Whittington](https://open.spotify.com/artist/7vjDp4O4hkJGI6VRV5zUWS) | [Buddy Whittington](https://open.spotify.com/album/4xiFspY41nO24W9c3UqyLn) | 4:33 |
-| 50 | [Mojo Boogie](https://open.spotify.com/track/0tsKu0o04uNgkXpP8mP6tQ) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [3rd Degree](https://open.spotify.com/album/6dVzmBcjw1033jfE8erIH4) | 4:53 |
+| 44 | [My Texas Home](https://open.spotify.com/track/78smBCdkaExMyjg81o3qh5) | [W.C\. Clark](https://open.spotify.com/artist/2eJojpx2Dv1QL3WBjJQXWi) | [Deep In The Heart](https://open.spotify.com/album/4xZ46S0lPn8bNRRRpkRvD2) | 4:53 |
+| 45 | [We The People](https://open.spotify.com/track/3v4UHYq9uKonBnNZai2N8j) | [Guitar Shorty](https://open.spotify.com/artist/3A01qH4VCBkDXcDc2luyNc) | [We The People](https://open.spotify.com/album/7nKZ9Ih62eEDbWEIoODwzN) | 4:20 |
+| 46 | [Don't Lose My Number](https://open.spotify.com/track/4t7Nh53jliIn7NoFN36qJG) | [Smokin' Joe Kubek](https://open.spotify.com/artist/5XkftMVm7vxTLcj05etN6B), [Bnois King](https://open.spotify.com/artist/17jKRJyvcPLKu8GrxAwff1) | [Blood Brothers](https://open.spotify.com/album/7bg12LvkHlAWqijVlczS4I) | 3:33 |
+| 47 | [Crazy Love](https://open.spotify.com/track/5iJoZZBSFpVtRPUWdERzeb) | [Long John Hunter](https://open.spotify.com/artist/7z5ixtgDexP9ffmFvFoRlW) | [Ride With Me](https://open.spotify.com/album/0l5L2aVeZ9IVE31mmERdvy) | 5:41 |
+| 48 | [Pay the Band](https://open.spotify.com/track/2PWSSJM09LYjt7o2sgyRsr) | [Buddy Whittington](https://open.spotify.com/artist/7vjDp4O4hkJGI6VRV5zUWS) | [Buddy Whittington](https://open.spotify.com/album/4xiFspY41nO24W9c3UqyLn) | 4:33 |
+| 49 | [Mojo Boogie](https://open.spotify.com/track/0tsKu0o04uNgkXpP8mP6tQ) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [3rd Degree](https://open.spotify.com/album/6dVzmBcjw1033jfE8erIH4) | 4:53 |
+| 50 | [Whiskey Drinkin' Blues](https://open.spotify.com/track/6CsdPQAmXxGozOfUK4TJWp) | [Andrew "Jr Boy" Jones](https://open.spotify.com/artist/7bAJqc9QEfRjLeSEVuWf6c) | [I Know What It's Like](https://open.spotify.com/album/2wq278LKG3XbveOToSzqVA) | 4:33 |
 
 Snapshot ID: `Zow10QAAAACeZ6E5YhgQtl49rJZiCWIP`

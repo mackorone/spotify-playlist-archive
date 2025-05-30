@@ -1,6 +1,6 @@
 {
   "description": "Tem Sertanejo! Tem Funk! Tem Pagode! A melhor trilha pra embalar o seu churrasco.",
-  "num_followers": 842722,
+  "num_followers": 842840,
   "original_name": "Sol e Churrasco",
   "owner": {
     "name": "Spotify",
@@ -511,6 +511,26 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
+        "name": "Open House (Ao Vivo)",
+        "url": "https://open.spotify.com/album/69BEwRfwBeIpoene374tX2"
+      },
+      "artists": [
+        {
+          "name": "Dilsinho",
+          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+        },
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+        }
+      ],
+      "duration_ms": 177067,
+      "name": "Sogra - Ao Vivo",
+      "url": "https://open.spotify.com/track/4zsiMjB0794HztyqUkD3Zi"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
         "name": "Hit Contagiante",
         "url": "https://open.spotify.com/album/5da8Quq01mGKZvEpBRfFZh"
       },
@@ -535,26 +555,6 @@
       "duration_ms": 137125,
       "name": "Hit Contagiante",
       "url": "https://open.spotify.com/track/5dKesZwp6deuhEeW8F1UEi"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
-        "name": "Open House (Ao Vivo)",
-        "url": "https://open.spotify.com/album/69BEwRfwBeIpoene374tX2"
-      },
-      "artists": [
-        {
-          "name": "Dilsinho",
-          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
-        },
-        {
-          "name": "Henrique & Juliano",
-          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
-        }
-      ],
-      "duration_ms": 177067,
-      "name": "Sogra - Ao Vivo",
-      "url": "https://open.spotify.com/track/4zsiMjB0794HztyqUkD3Zi"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -1007,26 +1007,6 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
-        "name": "SORRIA",
-        "url": "https://open.spotify.com/album/2zGGywHWKqNShqjjpbA3fs"
-      },
-      "artists": [
-        {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
-        },
-        {
-          "name": "Mc Don Juan",
-          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
-        }
-      ],
-      "duration_ms": 181122,
-      "name": "SORRIA",
-      "url": "https://open.spotify.com/track/4cKn3YjlRNowwNQi5LuZkk"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
         "name": "Aonde Quer Chegar",
         "url": "https://open.spotify.com/album/4OgqLEkwazzYv1snqUOQlo"
       },
@@ -1043,6 +1023,26 @@
       "duration_ms": 191641,
       "name": "Aonde Quer Chegar",
       "url": "https://open.spotify.com/track/6bcvIgM2W5kaMozN2L9e0k"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
+        "name": "SORRIA",
+        "url": "https://open.spotify.com/album/2zGGywHWKqNShqjjpbA3fs"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        }
+      ],
+      "duration_ms": 181122,
+      "name": "SORRIA",
+      "url": "https://open.spotify.com/track/4cKn3YjlRNowwNQi5LuZkk"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
+        "name": "ASSIM NASCE UM B\u00caBADO",
+        "url": "https://open.spotify.com/album/4eSeT6FOFd9VmN4tCyyQc3"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        }
+      ],
+      "duration_ms": 223374,
+      "name": "ASSIM NASCE UM B\u00caBADO",
+      "url": "https://open.spotify.com/track/3p3iOpzsKOGMeNBaexBXXR"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
         "name": "\u00daltimo Beijo",
         "url": "https://open.spotify.com/album/6AW51ww4T6cgKSxfj9PybR"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 181279,
       "name": "\u00daltimo Beijo",
       "url": "https://open.spotify.com/track/2pBEAodCImE4LgbKAG4bfz"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
-        "name": "ASSIM NASCE UM B\u00caBADO",
-        "url": "https://open.spotify.com/album/4eSeT6FOFd9VmN4tCyyQc3"
-      },
-      "artists": [
-        {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
-        }
-      ],
-      "duration_ms": 223374,
-      "name": "ASSIM NASCE UM B\u00caBADO",
-      "url": "https://open.spotify.com/track/3p3iOpzsKOGMeNBaexBXXR"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
-        "name": "Bebi Minha Bicicleta (Cora\u00e7\u00e3o Falido) (ao Vivo)",
-        "url": "https://open.spotify.com/album/5Qn8laDtOhTweODnPud3KP"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
-        }
-      ],
-      "duration_ms": 179099,
-      "name": "Bebi Minha Bicicleta (Cora\u00e7\u00e3o Falido) - Ao Vivo",
-      "url": "https://open.spotify.com/track/5qMnAsvgTfHMd5KQpzpnA1"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
         "name": "LUAN CITY (Ao Vivo)",
         "url": "https://open.spotify.com/album/7z4PSl2TK6FVUlTjyVyRRX"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 173560,
       "name": "SEU DOUTOR - Ao Vivo",
       "url": "https://open.spotify.com/track/0WnraiegaS9uZbBi3J0UUB"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
+        "name": "Bebi Minha Bicicleta (Cora\u00e7\u00e3o Falido) (ao Vivo)",
+        "url": "https://open.spotify.com/album/5Qn8laDtOhTweODnPud3KP"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "duration_ms": 179099,
+      "name": "Bebi Minha Bicicleta (Cora\u00e7\u00e3o Falido) - Ao Vivo",
+      "url": "https://open.spotify.com/track/5qMnAsvgTfHMd5KQpzpnA1"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
-        "name": "Zeca Pagodinho Naturalmente",
-        "url": "https://open.spotify.com/album/4cuDnqSKvOov32t49dDSVv"
-      },
-      "artists": [
-        {
-          "name": "Zeca Pagodinho",
-          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
-        }
-      ],
-      "duration_ms": 275466,
-      "name": "Deixa A Vida Me Levar",
-      "url": "https://open.spotify.com/track/0lozAj904nKA5sb3C6aAPu"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
         "name": "Manifesto Musical (Ao Vivo)",
         "url": "https://open.spotify.com/album/44apM3pC4x6oLt5ULbtV3j"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 195039,
       "name": "Gaiola - Ao Vivo",
       "url": "https://open.spotify.com/track/7qQPvdV9ussEfEZ6nfhbqr"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
+        "name": "Zeca Pagodinho Naturalmente",
+        "url": "https://open.spotify.com/album/4cuDnqSKvOov32t49dDSVv"
+      },
+      "artists": [
+        {
+          "name": "Zeca Pagodinho",
+          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
+        }
+      ],
+      "duration_ms": 275466,
+      "name": "Deixa A Vida Me Levar",
+      "url": "https://open.spotify.com/track/0lozAj904nKA5sb3C6aAPu"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
+        "name": "Manifesto Musical (Ao Vivo)",
+        "url": "https://open.spotify.com/album/44apM3pC4x6oLt5ULbtV3j"
+      },
+      "artists": [
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+        }
+      ],
+      "duration_ms": 162158,
+      "name": "De Garrafa A Pior - Ao Vivo",
+      "url": "https://open.spotify.com/track/359Cwd8UJFsF8qM9zJjaCz"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
         "name": "Numanice (Ao vivo)",
         "url": "https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 172750,
       "name": "T\u00f4 de Boa - Ao vivo",
       "url": "https://open.spotify.com/track/19u7ucz8tazDZL1daf5y23"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
-        "name": "Manifesto Musical (Ao Vivo)",
-        "url": "https://open.spotify.com/album/44apM3pC4x6oLt5ULbtV3j"
-      },
-      "artists": [
-        {
-          "name": "Henrique & Juliano",
-          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
-        }
-      ],
-      "duration_ms": 162158,
-      "name": "De Garrafa A Pior - Ao Vivo",
-      "url": "https://open.spotify.com/track/359Cwd8UJFsF8qM9zJjaCz"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -1663,38 +1663,18 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
-        "name": "Ferrugem em Casa 2 (Bloco 2) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/4iLrvvqO8xUqZIglV27RM7"
+        "name": "LUAN CITY (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7z4PSl2TK6FVUlTjyVyRRX"
       },
       "artists": [
         {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
-        },
-        {
-          "name": "Tierry",
-          "url": "https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8"
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
         }
       ],
-      "duration_ms": 235351,
-      "name": "Cachorrinho (feat. Tierry) - Ao Vivo",
-      "url": "https://open.spotify.com/track/0prr6bXHmFqmLyRJgbUVK7"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
-        "name": "Infinito 2021, Vol.2",
-        "url": "https://open.spotify.com/album/2N8l2cxeIlx0LKzQGUGQjy"
-      },
-      "artists": [
-        {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
-        }
-      ],
-      "duration_ms": 382050,
-      "name": "Pot-Pourri: Teu Segredo / J\u00e1 Tentei",
-      "url": "https://open.spotify.com/track/03kadiWfqWgnmjlDEhfN8k"
+      "duration_ms": 158074,
+      "name": "ME USA - Ao Vivo",
+      "url": "https://open.spotify.com/track/16kELcGATL5IWb5RylAxBI"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -1715,6 +1695,26 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
+        "name": "Ferrugem em Casa 2 (Bloco 2) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/4iLrvvqO8xUqZIglV27RM7"
+      },
+      "artists": [
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        },
+        {
+          "name": "Tierry",
+          "url": "https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8"
+        }
+      ],
+      "duration_ms": 235351,
+      "name": "Cachorrinho (feat. Tierry) - Ao Vivo",
+      "url": "https://open.spotify.com/track/0prr6bXHmFqmLyRJgbUVK7"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
         "name": "Conquistas (Ao Vivo)",
         "url": "https://open.spotify.com/album/1GAEkzl2H1mXS5byOsrc5f"
       },
@@ -1731,18 +1731,18 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
-        "name": "LUAN CITY (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7z4PSl2TK6FVUlTjyVyRRX"
+        "name": "Infinito 2021, Vol.2",
+        "url": "https://open.spotify.com/album/2N8l2cxeIlx0LKzQGUGQjy"
       },
       "artists": [
         {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
         }
       ],
-      "duration_ms": 158074,
-      "name": "ME USA - Ao Vivo",
-      "url": "https://open.spotify.com/track/16kELcGATL5IWb5RylAxBI"
+      "duration_ms": 382050,
+      "name": "Pot-Pourri: Teu Segredo / J\u00e1 Tentei",
+      "url": "https://open.spotify.com/track/03kadiWfqWgnmjlDEhfN8k"
     },
     {
       "added_at": "2024-07-09 12:43:17",

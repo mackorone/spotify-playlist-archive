@@ -4,7 +4,7 @@
 
 > Celebrating 10 years of <a href="https://open.spotify.com/genre/0JQ5DAqbMKFImHYGo3eTSg">independent artist discovery</a>\. Cover: Laufey
 
-150 songs - 7 hr 53 min
+151 songs - 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [bao tiền một mớ bình yên?](https://open.spotify.com/track/7kgzRBNkBRArtTPkYjWLYT) | [14 Casper](https://open.spotify.com/artist/0zo8kCJVktn7oPnzpkbC2p), [Bon Nghiêm](https://open.spotify.com/artist/6hnfLIkvDl6pjlAe1YRGXY) | [SỐ KHÔNG](https://open.spotify.com/album/2W8HAPjn7tl7pHXGZ8WZIe) | 5:00 | 2025-05-19 |  |
 | [BE FREE](https://open.spotify.com/track/4exp12So2KjvsPwmN2L7r8) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [PDF/BE FREE](https://open.spotify.com/album/3JXY3hqrj0r0dOTJjem5p1) | 3:23 | 2025-05-19 |  |
 | [Beanie](https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Beanie](https://open.spotify.com/album/3sgTZuoyovg4bR5iTgQoo3) | 2:12 | 2025-05-19 |  |
+| [Bed on Fire](https://open.spotify.com/track/5O5ExR5u69CclV8lb24WmV) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bed on Fire](https://open.spotify.com/album/6wSN7NkylN8rRm6Z4QqFTg) | 3:48 | 2025-05-29 |  |
 | [Before My Eyes](https://open.spotify.com/track/52UomKxHMuyhmkjgU82hdS) | [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec), [Dancing on Lego](https://open.spotify.com/artist/7srXfOyKg6eNopdl2VDyj5) | [Before My Eyes](https://open.spotify.com/album/6zjdCWAStwBTlwQaN3sJbx) | 3:47 | 2025-05-19 |  |
 | [Big Dreams](https://open.spotify.com/track/6q1nZrQOBplr60zI4Kku4a) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Badkid](https://open.spotify.com/album/2QaQGxQuEV9hZYMhpS6Zax) | 2:33 | 2025-05-19 |  |
 | [Blue](https://open.spotify.com/track/5XOmmOQZFpzeHnWcsFAEiX) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Blue](https://open.spotify.com/album/6yO5bLMCpNJAlIjkL59KE6) | 3:18 | 2025-05-19 |  |
@@ -135,7 +136,7 @@
 | [Soy El Unico](https://open.spotify.com/track/4pKhxDtzoLPVy4GzW1ibAz) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed \(Deluxe\)](https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq) | 3:33 | 2025-05-19 |  |
 | [Stay Alive](https://open.spotify.com/track/4MUvy2JhahEbfpWuGvhqlz) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Stay Alive](https://open.spotify.com/album/7fddgN7eLxI79dLIk9qlLh) | 3:01 | 2025-05-19 |  |
 | [Summer Song](https://open.spotify.com/track/0pwIbDtddJhPSyLaWecP9j) | [Remy Bond](https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo) | [Summer Song](https://open.spotify.com/album/32CejEs2rOmbJcTXy1Nuzy) | 4:05 | 2025-05-19 |  |
-| [Sweet \(feat\. Landon Sears\)](https://open.spotify.com/track/3IPBftcOHWxzLFyH5svvnY) | [Bren Joy](https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp), [Landon Sears](https://open.spotify.com/artist/3IKbh0wq6dhJduifP0yPi3) | [Twenties](https://open.spotify.com/album/4PMJ1YwlsWRJYCxr1S8LX9) | 3:46 | 2025-05-19 |  |
+| [Sweet \(feat\. Landon Sears\)](https://open.spotify.com/track/3IPBftcOHWxzLFyH5svvnY) | [Bren Joy](https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp), [Landon Sears](https://open.spotify.com/artist/3IKbh0wq6dhJduifP0yPi3) | [Twenties](https://open.spotify.com/album/4PMJ1YwlsWRJYCxr1S8LX9) | 3:46 | 2025-05-19 | 2025-05-30 |
 | [Tangled dreams](https://open.spotify.com/track/5PCoCu7jl8FJTm6rKAmFDZ) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Tangled dreams](https://open.spotify.com/album/0KqPbrTMjCC8Hu4BKUM2LG) | 4:22 | 2025-05-19 |  |
 | [Tennessee Orange](https://open.spotify.com/track/3fl4zil6HJ0N1FL3YIRwdC) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Tennessee Orange](https://open.spotify.com/album/1cdfMISICAlFDByLA2PYe3) | 3:43 | 2025-05-19 |  |
 | [The Actor](https://open.spotify.com/track/3BnXwrGZwJ2kDtACt4TOIX) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [The Actor](https://open.spotify.com/album/4cuqUw4Z17ym8fvzgkrOOm) | 2:50 | 2025-05-19 |  |

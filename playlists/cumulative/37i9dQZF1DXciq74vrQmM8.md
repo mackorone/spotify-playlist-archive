@@ -2,9 +2,9 @@
 
 ### [misfits 2.0](https://open.spotify.com/playlist/37i9dQZF1DXciq74vrQmM8)
 
-> welcome to our universe ft\. Julia Wolf
+> welcome to our universe ft\. yeule
 
-1,130 songs - 2 day 7 hr 14 min
+1,133 songs - 2 day 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Basement Superstar](https://open.spotify.com/track/3zN7XaUqoJcpKk70QdBNiK) | [London Mars](https://open.spotify.com/artist/2R765Ip6o2SEw6HfxkxD2y) | [Basement Superstar](https://open.spotify.com/album/4gR3bkt2iYBDhG4n8xmWwB) | 2:50 | 2022-03-31 | 2022-08-19 |
 | [Battery Acid](https://open.spotify.com/track/0zpHZpndsCilIDv73NbA1r) | [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [Battery Acid](https://open.spotify.com/album/7vxAadu513Cj4xqDEsApDo) | 5:19 | 2022-07-28 | 2022-10-15 |
 | [Battery Acid](https://open.spotify.com/track/4PmaAXwZN8DrgnnJgyiiY3) | [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [Battery Acid](https://open.spotify.com/album/0zNko192Ppxps4hr8bcyXy) | 5:19 | 2022-10-13 | 2023-03-03 |
+| [BE NO BODY](https://open.spotify.com/track/7bnY7wVOCVIv6BhTB94Ice) | [Alissic](https://open.spotify.com/artist/0xl41ilVNOin4ycHsggk7u) | [ARC 01: MAIDEN](https://open.spotify.com/album/6q1ncuiWIxsrR6tFZJ3pHn) | 3:25 | 2025-05-29 |  |
 | [be no one](https://open.spotify.com/track/0fVNG78xrpckyKseNP5XBv) | [Sepha.](https://open.spotify.com/artist/094ug46k28Q0tdaGPm3WNA) | [be no one](https://open.spotify.com/album/0ibbUkk4eihYg6X9qZdwNv) | 4:21 | 2021-12-27 | 2022-01-19 |
 | [Be Quiet and Drive \(Far Away\) – Spotify Singles](https://open.spotify.com/track/2SprbOeFdglaLgZoCcytuu) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [Be Quiet and Drive \(Far Away\) – Spotify Singles](https://open.spotify.com/album/6jAdEVjL2cnwhhywkdmIzr) | 3:07 | 2024-02-16 | 2024-08-09 |
 | [Be With Me](https://open.spotify.com/track/4iBBoNJKbayT7kko0cquWf) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [Be With Me](https://open.spotify.com/album/2mI0gv3S6ANVDmEbaMf5Wa) | 2:03 | 2024-01-26 | 2024-05-17 |
@@ -149,12 +150,12 @@
 | [bugfood](https://open.spotify.com/track/3s5ztgTkbaWTYuiLCgf3SY) | [Alissic](https://open.spotify.com/artist/0xl41ilVNOin4ycHsggk7u) | [bugfood](https://open.spotify.com/album/52xufJVqlIC2itNpk3Hc8r) | 3:26 | 2022-08-25 | 2022-12-09 |
 | [Bull](https://open.spotify.com/track/1HdovCicIl6icinsOlrpqz) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF), [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W) | [Bull](https://open.spotify.com/album/1Zf1hkjwXERIjI2585j7jl) | 3:11 | 2022-11-18 | 2023-04-14 |
 | [BULLET MAN](https://open.spotify.com/track/1xscJ2dRvxgJhB8V10EqZn) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [BULLET MAN](https://open.spotify.com/album/1B9eLnJh3huaPRziWXWliK) | 2:58 | 2023-07-06 | 2023-10-06 |
-| [BURN IT ALL DOWN](https://open.spotify.com/track/5TUUbvbahnHSIGJvC0MI2a) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [Hopeless Romantic](https://open.spotify.com/album/4Z4rhz7JguH07EMCycMtsu) | 2:36 | 2024-11-22 |  |
+| [BURN IT ALL DOWN](https://open.spotify.com/track/5TUUbvbahnHSIGJvC0MI2a) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [Hopeless Romantic](https://open.spotify.com/album/4Z4rhz7JguH07EMCycMtsu) | 2:36 | 2024-11-22 | 2025-05-30 |
 | [Burn The Witch](https://open.spotify.com/track/4Ne4UbfqgXcBdIsYHjvR6y) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b), [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [Burn The Witch](https://open.spotify.com/album/1pZGazPWeMdbQFBdEQUXm0) | 2:55 | 2024-02-16 | 2024-09-06 |
 | [Butterflies](https://open.spotify.com/track/7yF8jMKIjgHRcwduu0fzWc) | [July Jones](https://open.spotify.com/artist/0sFyRdif7dRPjq9uHmsJlp), [Suzi Wu](https://open.spotify.com/artist/0AZ01mYEHgw7ZwKIbgEjBi), [GIRLI](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [Butterflies](https://open.spotify.com/album/4ob92gI2nIurZosVJqttdA) | 3:43 | 2022-02-18 | 2022-04-01 |
 | [BUTTERFLY KISSES](https://open.spotify.com/track/1KmKoRxR8R3vrTWLXeNnbY) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [BUTTERFLY KISSES](https://open.spotify.com/album/7nwFdtgRxzCJJZIzAVqwuM) | 2:02 | 2025-05-01 |  |
 | [buzz](https://open.spotify.com/track/1AH3MVzJ5N6WyPyXirqqti) | [girl\_irl](https://open.spotify.com/artist/0JVxdYzBWXOjkjt2e5r76D), [Crosstalk](https://open.spotify.com/artist/6xS8ncgjhNBXYqKDgOLKBq) | [buzz](https://open.spotify.com/album/70BRZpzEcIsiYl4Em2GaUy) | 2:08 | 2024-05-23 | 2024-07-12 |
-| [Buzz Trip](https://open.spotify.com/track/5Co7cwovS7MXabSrm9577O) | [Crae Wolf](https://open.spotify.com/artist/0sLk8jQFM8gu9omVj2JGT9) | [Buzz Trip](https://open.spotify.com/album/4QjbSdlj6V5seRuHcDNhlL) | 2:00 | 2025-04-17 |  |
+| [Buzz Trip](https://open.spotify.com/track/5Co7cwovS7MXabSrm9577O) | [Crae Wolf](https://open.spotify.com/artist/0sLk8jQFM8gu9omVj2JGT9) | [Buzz Trip](https://open.spotify.com/album/4QjbSdlj6V5seRuHcDNhlL) | 2:00 | 2025-04-17 | 2025-05-30 |
 | [Calverley](https://open.spotify.com/track/13HSuJkVMEQ8Ji95Y4pzIn) | [PEZZHEAD](https://open.spotify.com/artist/6aVSDYGiTFnafE19XhK3PI) | [BLUE Turtle Dove](https://open.spotify.com/album/5ScSiAnW7tI9kjZ3cmS6d1) | 3:42 | 2023-12-22 | 2024-01-19 |
 | [Can't Let Go](https://open.spotify.com/track/2wX9CK19EnFzWUwxcQN54n) | [Kamiyada+](https://open.spotify.com/artist/7cB6KjTm98hhNE9eeyhcnF), [Tim Randolph](https://open.spotify.com/artist/5uVOiAmUu3bAnxORJDOFbs) | [Can't Let Go](https://open.spotify.com/album/30VYWmoettEwWALvhzaUUw) | 2:18 | 2023-04-13 | 2023-06-30 |
 | [Caramel](https://open.spotify.com/track/3AdXwuFn7j21HNiFMXvZXt) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Caramel](https://open.spotify.com/album/22QZTpIU424yzyhqXnFi3m) | 4:50 | 2025-04-03 |  |
@@ -318,6 +319,7 @@
 | [engravings](https://open.spotify.com/track/4u5CfuAGAHNYDIHSSW7BiY) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [engravings](https://open.spotify.com/album/2SbLcM1nwlKO76evmEuX6w) | 3:00 | 2022-08-04 | 2022-10-14 |
 | [escape 2nite](https://open.spotify.com/track/4AijasxFX4OxpAUO1HMZEi) | [Dexndre](https://open.spotify.com/artist/4XKKBVUhrdcD62Qrhpf9U7) | [escape 2nite](https://open.spotify.com/album/2Jk8ZhfJpCmMqEFNwqhnRc) | 2:18 | 2024-09-05 | 2024-11-15 |
 | [Eternal December](https://open.spotify.com/track/39ejkjUIw8yzIJ1WP4mj83) | [Lake Malice](https://open.spotify.com/artist/4zoN3D2RviWzWeHvkT3wWO) | [Eternal December](https://open.spotify.com/album/0NSRVjbWJXMr0X2cv54szI) | 3:49 | 2024-03-01 | 2024-06-14 |
+| [Euphoria](https://open.spotify.com/track/6OX0qDykYQe5Ih0DdOcVUS) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Euphoria](https://open.spotify.com/album/0lnwJGOJJnCn0xFlDQYdhJ) | 3:03 | 2025-05-29 |  |
 | [EURO CUT](https://open.spotify.com/track/5YinEwPw568hqnzVLdm6mh) | [OC Saint](https://open.spotify.com/artist/1W80xMiJWGfGsymfrjCCLa) | [EURO CUT](https://open.spotify.com/album/1JwpViTCZKPeFArFi8RN9I) | 4:24 | 2024-11-08 | 2025-01-31 |
 | [Evangelic Girl is a Gun](https://open.spotify.com/track/426pPi8cBCE38QO4h6YC6V) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Evangelic Girl is a Gun](https://open.spotify.com/album/3grkRzNvSjVrwCLg6fSlLR) | 3:03 | 2025-04-10 |  |
 | [EVERY MAN FOR HIMSELF](https://open.spotify.com/track/6tKEneUBTaGvoHeSxpJltb) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [EVERY MAN FOR HIMSELF](https://open.spotify.com/album/70KXLvjv7CIssBvNh9AbTB) | 1:57 | 2024-03-01 | 2024-05-24 |
@@ -911,7 +913,7 @@
 | [Sirens](https://open.spotify.com/track/0oqY7ABQ72awkOkn7odf5X) | [joe unknown](https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ) | [Sirens](https://open.spotify.com/album/3V9jj4WpTyl4N4hc5o3DO4) | 2:15 | 2023-06-01 | 2023-06-30 |
 | [Skin and Bones](https://open.spotify.com/track/5kk73lsTd1oJfS4AFPQA40) | [Owen](https://open.spotify.com/artist/4PJbP0dXALttfo1PFPY1Pt) | [\(The EP\)](https://open.spotify.com/album/3jzZC33ThEsALO8vK4NZPL) | 4:40 | 2024-05-28 | 2024-06-07 |
 | [Skitz](https://open.spotify.com/track/2ziUaTw3sQHI9FHCVk6ob3) | [Yinyang](https://open.spotify.com/artist/5WesO65aRpHO5Cqjg8IMvA) | [Skitz](https://open.spotify.com/album/5zyNyDGWEAw2OnIGomFxCd) | 2:58 | 2021-12-27 | 2022-02-18 |
-| [Skullcrusher](https://open.spotify.com/track/1j8JWDMamXR6VCzcGDqHRm) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Skullcrusher](https://open.spotify.com/album/48aMSR076f1DZ74DjJf9zi) | 2:07 | 2025-03-07 |  |
+| [Skullcrusher](https://open.spotify.com/track/1j8JWDMamXR6VCzcGDqHRm) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Skullcrusher](https://open.spotify.com/album/48aMSR076f1DZ74DjJf9zi) | 2:07 | 2025-03-07 | 2025-05-30 |
 | [Skullflower](https://open.spotify.com/track/5yEg8DS2WhVvX3kLQo1cA9) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Las Ruinas](https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO) | 2:21 | 2022-07-21 | 2024-03-09 |
 | [Slaughterhouse](https://open.spotify.com/track/2ihOfzUITCgdd5Q3GGrkHB) | [Harpy](https://open.spotify.com/artist/0fLFfyc0914STFxEyQHZhX) | [Slaughterhouse](https://open.spotify.com/album/7lL4zgnKOC8Ip2C0Y00NZ8) | 2:44 | 2024-04-05 | 2024-07-12 |
 | [Sleep](https://open.spotify.com/track/5fbZVhEcjSma29ifhegrdR) | [AILSHA](https://open.spotify.com/artist/3OL5LLdKpy2xb9P1lepdgH) | [Sleep](https://open.spotify.com/album/1teDDY70sVGEWaipW00Tiq) | 3:13 | 2023-04-20 | 2023-08-04 |
@@ -1086,6 +1088,7 @@
 | [what the fuck is an e\-girl?](https://open.spotify.com/track/48ygGqboHA5p3I3sPK1R3a) | [infinityghxst](https://open.spotify.com/artist/4ApE9Yxa0DapeSgil3EevH) | [what the fuck is an e\-girl?](https://open.spotify.com/album/0YSoy8rBzCp6DCSnIhxLz9) | 1:24 | 2022-05-19 | 2022-08-05 |
 | [What Would You Do?](https://open.spotify.com/track/5v2lHIHssGvhW1vcJuLrLq) | [Daisy Brain](https://open.spotify.com/artist/5WuDKeWph4EKsyy9e56Mz4) | [What Would You Do?](https://open.spotify.com/album/039EIWZALzu9b9Yy5W6x9p) | 2:21 | 2022-02-18 | 2022-03-19 |
 | [WHAT'S WRONG?](https://open.spotify.com/track/1iU6wiNG5YY7AaL2rfAqZf) | [UGLY CLUB](https://open.spotify.com/artist/5s7VdvEojBKMO8vu2EbGmY) | [WHAT'S WRONG?](https://open.spotify.com/album/2y775AKJXrpQ9e38wfRXKT) | 2:47 | 2023-11-10 | 2024-01-26 |
+| [What3vr](https://open.spotify.com/track/5jqRZna4pjmgETTNo349Rk) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Evangelic Girl is a Gun](https://open.spotify.com/album/0YYPOxN7WrWD3ygAP5KB50) | 2:47 | 2025-05-29 |  |
 | [When She Told Me](https://open.spotify.com/track/1uRF3CIh24PY17wR5v5k6Q) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [When She Told Me](https://open.spotify.com/album/6r3emSLfF17MpkJAXzd5Tt) | 4:41 | 2024-03-22 | 2024-05-24 |
 | [When The Devil Speaks…](https://open.spotify.com/track/2FKnNu9PmgcUSXXBgR2phR) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [When The Devil Speaks…](https://open.spotify.com/album/3sQh8PifUrBSJCg0x5YZLG) | 3:02 | 2023-12-08 | 2024-05-29 |
 | [When We Die \(Can We Still Get High?\) \(feat\. Lil Yachty\)](https://open.spotify.com/track/08uWHOhYijA1DXxhHSDBDH) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [When We Die \(Can We Still Get High?\) \(feat\. Lil Yachty\)](https://open.spotify.com/album/3pgq59bj7H3zljjzgXvs6A) | 5:00 | 2024-01-26 | 2024-05-24 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "New music off the beaten track. Cover: Parcels",
+  "description": "New music off the beaten track. Cover: Yuksek",
   "name": "OFF POP",
   "tracks": [
     {
@@ -710,6 +710,28 @@
       "duration_ms": 233397,
       "name": "All Night",
       "url": "https://open.spotify.com/track/2VHlTLNsbMuhxiTasirOIn"
+    },
+    {
+      "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/1tt9FEGMULl1oKllYC7oM4"
+      },
+      "artists": [
+        {
+          "name": "Yuksek",
+          "url": "https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf"
+        },
+        {
+          "name": "M.I.L.K",
+          "url": "https://open.spotify.com/artist/4cnVHpFiP8c9eHa0SUhjCB"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210350,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/4JmiovRPJomax0zPo8pKAM"
     },
     {
       "album": {
@@ -3568,6 +3590,28 @@
     {
       "album": {
         "name": "Control",
+        "url": "https://open.spotify.com/album/0I1kGd5ir00A4OCr1JAthz"
+      },
+      "artists": [
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        },
+        {
+          "name": "Seint Monet",
+          "url": "https://open.spotify.com/artist/36FUrbueTAg6yUYcJuAkAh"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222814,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/6khIJyIvuoJNFMoOgWuu5G"
+    },
+    {
+      "album": {
+        "name": "Control",
         "url": "https://open.spotify.com/album/0ZD1iNiEoNbj0Yw63TvGrq"
       },
       "artists": [
@@ -4838,6 +4882,28 @@
       "duration_ms": 177120,
       "name": "Don't Go Calling Me A Liar",
       "url": "https://open.spotify.com/track/5bqA8hx1UlYaQ6UdePvq6M"
+    },
+    {
+      "album": {
+        "name": "DON'T LEAVE ME (IN THE SUNSHINE) [French Braids Remix]",
+        "url": "https://open.spotify.com/album/4sPGzuUFdDzws27o2lbfHq"
+      },
+      "artists": [
+        {
+          "name": "Miami Horror",
+          "url": "https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37"
+        },
+        {
+          "name": "French Braids",
+          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261818,
+      "name": "DON'T LEAVE ME (IN THE SUNSHINE) - French Braids Remix",
+      "url": "https://open.spotify.com/track/3f9jU6VoqLrGvM2dEDGMhJ"
     },
     {
       "album": {
@@ -6498,7 +6564,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 145384,
       "name": "Feels Right - Edit",
       "url": "https://open.spotify.com/track/0ULAXPoHzAuMZzDhnjXFkl"
@@ -11231,6 +11297,24 @@
     },
     {
       "album": {
+        "name": "Last Night Was a Mistake",
+        "url": "https://open.spotify.com/album/5wp6XcHgTGX7KxPVpX4p5g"
+      },
+      "artists": [
+        {
+          "name": "Sohodolls",
+          "url": "https://open.spotify.com/artist/1KNXft7nnRQj82sENi7WGN"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191625,
+      "name": "Last Night Was a Mistake",
+      "url": "https://open.spotify.com/track/456AhcnmKByGbjM2H4X62H"
+    },
+    {
+      "album": {
         "name": "Padi Mixtape",
         "url": "https://open.spotify.com/album/7pnO1zRdcjf0XnmYlp1ogJ"
       },
@@ -12168,6 +12252,24 @@
       "duration_ms": 473240,
       "name": "Love Is You - A Tom Moulton Mix",
       "url": "https://open.spotify.com/track/4YjD6Gd0IjMIchfTOOPEgS"
+    },
+    {
+      "album": {
+        "name": "Love Kills",
+        "url": "https://open.spotify.com/album/5p7oguC1O1w5ME53c8EQLj"
+      },
+      "artists": [
+        {
+          "name": "CRIMER",
+          "url": "https://open.spotify.com/artist/6ALv0kb1WQfQbDOna5fLcX"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204418,
+      "name": "Love Kills",
+      "url": "https://open.spotify.com/track/3Y1mR1hiY2L7idvanOmrM3"
     },
     {
       "album": {
@@ -16231,6 +16333,28 @@
     },
     {
       "album": {
+        "name": "Rewind",
+        "url": "https://open.spotify.com/album/00dOnSyqmuNccxCH7rXiMd"
+      },
+      "artists": [
+        {
+          "name": "49th & Main",
+          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
+        },
+        {
+          "name": "mustbejohn",
+          "url": "https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111217,
+      "name": "Rewind - Edit",
+      "url": "https://open.spotify.com/track/7EFAqxkts36d4XcPUxgylZ"
+    },
+    {
+      "album": {
         "name": "Ride",
         "url": "https://open.spotify.com/album/1tO5U3gxthqjIPvvqDOIXn"
       },
@@ -16855,6 +16979,40 @@
     },
     {
       "album": {
+        "name": "Satellite",
+        "url": "https://open.spotify.com/album/6Yl7EPUb6JzmtFrKODskn9"
+      },
+      "artists": [
+        {
+          "name": "HAAi",
+          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
+        },
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        },
+        {
+          "name": "Obi Franky",
+          "url": "https://open.spotify.com/artist/7wcA5gBY4GRUDwcfyoj0p0"
+        },
+        {
+          "name": "IL\u0100",
+          "url": "https://open.spotify.com/artist/2vHCmNtVE5TAEgVn024QTF"
+        },
+        {
+          "name": "Trans Voices",
+          "url": "https://open.spotify.com/artist/6WOjBUzx8rMrwCdVtU4WVN"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264591,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/3G1RtodEV0bvOHjlct2Ein"
+    },
+    {
+      "album": {
         "name": "Saturnine",
         "url": "https://open.spotify.com/album/6oz2tEohOFkesZAkr6jgeE"
       },
@@ -17368,7 +17526,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 215131,
       "name": "She's Mine",
       "url": "https://open.spotify.com/track/6TBOR2XStkWY6sjjp1QIYb"
@@ -19229,6 +19387,50 @@
     },
     {
       "album": {
+        "name": "Take Me Home",
+        "url": "https://open.spotify.com/album/2V4riUyELekYW4yYGBm2ti"
+      },
+      "artists": [
+        {
+          "name": "Bearcubs",
+          "url": "https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "Take Me Home",
+      "url": "https://open.spotify.com/track/4sEmzYN4u5TqD5fAUrlSb5"
+    },
+    {
+      "album": {
+        "name": "take me home",
+        "url": "https://open.spotify.com/album/1xk1Ig6m5wYUsQpvh5QazQ"
+      },
+      "artists": [
+        {
+          "name": "MXGPU",
+          "url": "https://open.spotify.com/artist/7LHpDayfzUPdd5DGAJIrko"
+        },
+        {
+          "name": "Moullinex",
+          "url": "https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr"
+        },
+        {
+          "name": "GPU Panic",
+          "url": "https://open.spotify.com/artist/1kClYC29n6M4YTALilSyY3"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187475,
+      "name": "take me home",
+      "url": "https://open.spotify.com/track/52ih1rEvlGRPheDVzQooA5"
+    },
+    {
+      "album": {
         "name": "Take Me to the Bridge / Jumpin' (Get Hot, Hit the Spot)",
         "url": "https://open.spotify.com/album/3lXdkMownWe2ZcAw4DB5Hx"
       },
@@ -19652,7 +19854,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 199948,
       "name": "the fall",
       "url": "https://open.spotify.com/track/5VZO8fljE2R1XeC1xJSO7x"
@@ -21340,7 +21542,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 446294,
       "name": "Visions Of Pain - Tim Goldsworthy Remix",
       "url": "https://open.spotify.com/track/0vE2ANol5kgvLeGgy2rF9v"

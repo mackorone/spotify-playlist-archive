@@ -1,6 +1,6 @@
 {
   "description": "Fusion music for the soul.  Cover- Rishab Rikhiram Sharma",
-  "num_followers": 77837,
+  "num_followers": 77880,
   "original_name": "Fusion Finds",
   "owner": {
     "name": "Spotify",
@@ -643,18 +643,22 @@
     {
       "added_at": "2025-04-22 04:30:00",
       "album": {
-        "name": "Coke Studio Season 7",
-        "url": "https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv"
+        "name": "Coke Studio Season 10: Episode 3",
+        "url": "https://open.spotify.com/album/7c2Ujt133945maCr0SQncw"
       },
       "artists": [
         {
           "name": "Sajjad Ali",
           "url": "https://open.spotify.com/artist/5THsb9SGB89ZN6mj7ZYVSD"
+        },
+        {
+          "name": "Zaw Ali",
+          "url": "https://open.spotify.com/artist/19LdEP3vvsc2BJ4Vj7IRLI"
         }
       ],
-      "duration_ms": 355441,
-      "name": "Tum Naraz Ho",
-      "url": "https://open.spotify.com/track/7od22pmztVH9YfpzZ0205R"
+      "duration_ms": 339226,
+      "name": "Ronay Na Diya",
+      "url": "https://open.spotify.com/track/0bzQYS1Fv0CjF5o7Sb0dmc"
     },
     {
       "added_at": "2025-04-22 04:30:00",
@@ -731,22 +735,18 @@
     {
       "added_at": "2025-04-22 04:30:00",
       "album": {
-        "name": "Coke Studio Season 10: Episode 3",
-        "url": "https://open.spotify.com/album/7c2Ujt133945maCr0SQncw"
+        "name": "Coke Studio Season 7",
+        "url": "https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv"
       },
       "artists": [
         {
           "name": "Sajjad Ali",
           "url": "https://open.spotify.com/artist/5THsb9SGB89ZN6mj7ZYVSD"
-        },
-        {
-          "name": "Zaw Ali",
-          "url": "https://open.spotify.com/artist/19LdEP3vvsc2BJ4Vj7IRLI"
         }
       ],
-      "duration_ms": 339226,
-      "name": "Ronay Na Diya",
-      "url": "https://open.spotify.com/track/0bzQYS1Fv0CjF5o7Sb0dmc"
+      "duration_ms": 355441,
+      "name": "Tum Naraz Ho",
+      "url": "https://open.spotify.com/track/7od22pmztVH9YfpzZ0205R"
     },
     {
       "added_at": "2025-04-22 04:30:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2025-04-22 04:30:00",
       "album": {
-        "name": "Bewajah",
-        "url": "https://open.spotify.com/album/66tyn64P5HxSybbJcyGbYI"
-      },
-      "artists": [
-        {
-          "name": "Nabeel Shaukat Ali",
-          "url": "https://open.spotify.com/artist/1NkQbSzN7LhkURNg2ChZMp"
-        }
-      ],
-      "duration_ms": 352334,
-      "name": "Bewajah - Coke Studio Season 8",
-      "url": "https://open.spotify.com/track/3EzqUvtr993ok47KHLveON"
-    },
-    {
-      "added_at": "2025-04-22 04:30:00",
-      "album": {
         "name": "Shafqat with Shafqat (Lakh Jatan / Khamaj)",
         "url": "https://open.spotify.com/album/1a87DOMOSxUy66pUYGfx5S"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 440999,
       "name": "Shafqat with Shafqat (Lakh Jatan / Khamaj)",
       "url": "https://open.spotify.com/track/4oFTEI6Dmnca8HbpwdXQCL"
+    },
+    {
+      "added_at": "2025-04-22 04:30:00",
+      "album": {
+        "name": "Classical Unwind",
+        "url": "https://open.spotify.com/album/3hcXAorBQYX3IALCKfYOi8"
+      },
+      "artists": [
+        {
+          "name": "Ankita Joshi",
+          "url": "https://open.spotify.com/artist/2jjXeSGZCkdF4FYmQ9bnvo"
+        }
+      ],
+      "duration_ms": 239813,
+      "name": "Lat Ulajhi",
+      "url": "https://open.spotify.com/track/7pbF3jhnwASjMxeItgHP1S"
     }
   ],
   "unique_name": "Fusion Finds",

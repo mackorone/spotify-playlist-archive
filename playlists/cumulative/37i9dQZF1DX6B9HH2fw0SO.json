@@ -356,6 +356,24 @@
     {
       "album": {
         "name": "I Love You, Honeybear",
+        "url": "https://open.spotify.com/album/2A8IKX257C4hJaYUHMhLP7"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170826,
+      "name": "Chateau Lobby #4 (in C for Two Virgins)",
+      "url": "https://open.spotify.com/track/2eg2gvPXuwZ9FyrPaLgrXi"
+    },
+    {
+      "album": {
+        "name": "I Love You, Honeybear",
         "url": "https://open.spotify.com/album/4vTEFCLgDEgKIQXTrsmS6F"
       },
       "artists": [
@@ -2920,7 +2938,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 233247,
       "name": "Tilted",
       "url": "https://open.spotify.com/track/0mQnLhHH5WwRc5gtnzLtK6"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise. Photo: Bertrand Belin",
+  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise. Photo: Juliette Armanet",
   "name": "Exception Fran\u00e7aise",
   "tracks": [
     {
@@ -400,7 +400,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 201905,
       "name": "Contre-c\u0153ur",
       "url": "https://open.spotify.com/track/4gE1HeO2U1UmnnF6angfva"
@@ -754,7 +754,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 160706,
       "name": "Fille lacrymale",
       "url": "https://open.spotify.com/track/2322KewAGzg6Zj5Oxw21vO"
@@ -996,6 +996,24 @@
       "duration_ms": 174405,
       "name": "Insolation",
       "url": "https://open.spotify.com/track/6nq8djOsXo8wr8vl1eKeIH"
+    },
+    {
+      "album": {
+        "name": "J'ai grandi",
+        "url": "https://open.spotify.com/album/1nE1MnSNJN7K6HnoKodMJl"
+      },
+      "artists": [
+        {
+          "name": "Tessa B. ",
+          "url": "https://open.spotify.com/artist/2zHuN04qyNnz890Y2R0Nkr"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142691,
+      "name": "J'ai grandi",
+      "url": "https://open.spotify.com/track/1rXroIXLQcLA6dADmkJGgw"
     },
     {
       "album": {
@@ -1342,6 +1360,24 @@
       "duration_ms": 206906,
       "name": "La musique \u00e0 fond",
       "url": "https://open.spotify.com/track/7jVGaMb1XA9u88tWlouB4t"
+    },
+    {
+      "album": {
+        "name": "LA NUIT (La Venue de l\u2019avenir - musique originale)",
+        "url": "https://open.spotify.com/album/6FEqYXlwRZfx9ro7cXNZru"
+      },
+      "artists": [
+        {
+          "name": "Pomme",
+          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192240,
+      "name": "LA NUIT",
+      "url": "https://open.spotify.com/track/4cc2PUXzaw7hgUsbYScfFd"
     },
     {
       "album": {
@@ -2148,6 +2184,24 @@
       "duration_ms": 195746,
       "name": "Manquer \u00e0 quelqu'un quelque part",
       "url": "https://open.spotify.com/track/3ziKYDEXy8qG50W0mvYtAs"
+    },
+    {
+      "album": {
+        "name": "Manteau chagrin",
+        "url": "https://open.spotify.com/album/70Gb0hozJ6iIx6gOZxxchY"
+      },
+      "artists": [
+        {
+          "name": "Coline Rio",
+          "url": "https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253000,
+      "name": "Manteau chagrin",
+      "url": "https://open.spotify.com/track/5QLlufXqdXZEcvrAmtqFvR"
     },
     {
       "album": {
@@ -3198,7 +3252,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 191333,
       "name": "vivre sobrement",
       "url": "https://open.spotify.com/track/28x80OgMDIuoEN1Fxg05wy"

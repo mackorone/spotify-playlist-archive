@@ -663,6 +663,28 @@
     },
     {
       "album": {
+        "name": "Asor",
+        "url": "https://open.spotify.com/album/6tyX6CWvTE1bVyYRERMGbi"
+      },
+      "artists": [
+        {
+          "name": "Amerado",
+          "url": "https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew"
+        },
+        {
+          "name": "JZyNo",
+          "url": "https://open.spotify.com/artist/3gYUwwn7FiiBMKHe36OUaQ"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186923,
+      "name": "Asor",
+      "url": "https://open.spotify.com/track/1au4kwJno8TJB5tR4ocQnZ"
+    },
+    {
+      "album": {
         "name": "Avana (Deluxe)",
         "url": "https://open.spotify.com/album/0Y6z5zNbCGEiD6dHeEUtgV"
       },
@@ -7108,7 +7130,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 153802,
       "name": "Titanium (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/5xZ4y9EgfmpogFKf1607lP"
@@ -7556,7 +7578,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 140852,
       "name": "Wells Fargo",
       "url": "https://open.spotify.com/track/3pjLIMho53zy3VJuAgWFoN"
@@ -7866,6 +7888,24 @@
       "duration_ms": 166666,
       "name": "YOUR BODY",
       "url": "https://open.spotify.com/track/2E5YFuY3aRD7oZr7GKfgCQ"
+    },
+    {
+      "album": {
+        "name": "Your Ghost / Ayekoo",
+        "url": "https://open.spotify.com/album/6OwmHKMoOpPX9N8l35xX3B"
+      },
+      "artists": [
+        {
+          "name": "Camidoh",
+          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162352,
+      "name": "Your Ghost",
+      "url": "https://open.spotify.com/track/4jWDJjKkwzMDjou8X7V0Ml"
     },
     {
       "album": {

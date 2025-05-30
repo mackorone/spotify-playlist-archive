@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fwYfqYEDWu9UNfljA4NID">OZ</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-140 songs - 7 hr 44 min
+141 songs - 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [18K \(feat\. Juicy J\)](https://open.spotify.com/track/6AccToiKhDvl8AH0gRJSlt) | [lilbootycall](https://open.spotify.com/artist/4EPyKMgsR7JDuW9tL0AYZP), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Jesus Said Run It Back](https://open.spotify.com/album/5re3HEZOWB9F7QaHnKOgvA) | 3:01 | 2024-01-29 |  |
 | [24/7 \(feat\. Ella Mai\)](https://open.spotify.com/track/6irE4Fbjbry3czv7mTxVSB) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Championships](https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE) | 3:41 | 2024-01-29 |  |
 | [3AM on Glenwood](https://open.spotify.com/track/1MTXYvJ9TSqg9x6WPCDx2n) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 2:58 | 2024-01-29 |  |
-| [5 TO 10](https://open.spotify.com/track/1zTGRPGqfZP0cfyTmoQP0V) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 3:13 | 2025-01-09 | 2025-04-12 |
+| [5 TO 10](https://open.spotify.com/track/1zTGRPGqfZP0cfyTmoQP0V) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 3:13 | 2025-01-09 |  |
 | [A.L.L.T.Y\. 3 \(feat\. Baby Goth\)](https://open.spotify.com/track/5pEp4XIoJminFDCAfmqdY5) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Baby Goth](https://open.spotify.com/artist/0ECSmon1BUiFnB33X24eLI) | [A Love Letter To You 3](https://open.spotify.com/album/1fFwMXuTJ8J3KXo14Vvsna) | 3:00 | 2024-01-29 |  |
 | [All Facts \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/7F8HytQB1qAku7ZXTIhcYe) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [B\-Sides](https://open.spotify.com/album/2C6M7W3XuPMko8hacm8Ibo) | 3:00 | 2024-01-29 |  |
 | [All of Mine \(feat\. DRAM\)](https://open.spotify.com/track/4gqRjOdPwt6tFFZHFzywtE) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g), [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Thinking Out Loud](https://open.spotify.com/album/3jNB3NFlcze1sc2BuK4Rlj) | 4:02 | 2025-01-09 | 2025-04-12 |
@@ -69,6 +69,7 @@
 | [I Have a Dream](https://open.spotify.com/track/4wTBoTjp7S73BrKOM54WMd) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Big Baby DRAM \(Deluxe Version\)](https://open.spotify.com/album/2NTDsRS6J2OF8qZwHWQjFV) | 1:56 | 2024-01-29 |  |
 | [I KNOW ?](https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:31 | 2024-01-29 |  |
 | [Ice Attack](https://open.spotify.com/track/70ToiXlzl8N1EgfC07ZcZE) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 3:19 | 2025-01-09 | 2025-04-12 |
+| [INSIDE \(FEAT\. TRAVIS SCOTT\)](https://open.spotify.com/track/24p1C9WueGBQLURpKc3oO8) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 4:10 | 2025-05-29 |  |
 | [Intro](https://open.spotify.com/track/5VuknTowfF9Ho1jxsRZM9M) | [Nazar](https://open.spotify.com/artist/1hMzMy5THp7jWnMRC0rU36) | [Fakker Lifestyle \(Special Version\)](https://open.spotify.com/album/1BAxhUqy15dEizKBEs26Uv) | 1:27 | 2025-03-02 | 2025-03-05 |
 | [Intro](https://open.spotify.com/track/3Ld8l8yfzZYGtpAno7cfnw) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L) | [Zukunft](https://open.spotify.com/album/6CDah77jRcgFZPgaYd7j14) | 1:45 | 2025-03-04 | 2025-04-12 |
 | [JEALOUSY \(feat\. Cardi B\)](https://open.spotify.com/track/52lJC8UndX32dECyJlRGSJ) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [SET IT OFF](https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E) | 2:54 | 2024-02-24 |  |

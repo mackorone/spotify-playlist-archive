@@ -4,7 +4,7 @@
 
 > explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: Smerz
 
-110 songs - 6 hr 8 min
+114 songs - 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Green Edge](https://open.spotify.com/track/2VFnC7z1CCX0iWQZyAbOB9) | [Colle](https://open.spotify.com/artist/1Ntmc8ccjS54sdx3ZVqqPI) | [Montalvo](https://open.spotify.com/album/5hb0lF7BfVsxwkTP8W7Agr) | 3:32 | 2025-03-13 |  |
 | [Guess It's Wrecked](https://open.spotify.com/track/1m8hRVS4d1naBsHNZDKV33) | [Moin](https://open.spotify.com/artist/3HKbW1X4Aj2RZU6ruh3a0e), [Olan Monk](https://open.spotify.com/artist/3BBWf8gJdcOI5EwrptKGSM) | [You Never End](https://open.spotify.com/album/06IJJi2iZOfJvHWFM8lRI9) | 2:09 | 2025-03-13 |  |
 | [Gums](https://open.spotify.com/track/1SPkDEDUnOZqMfcRPPMYgu) | [Blue Mena](https://open.spotify.com/artist/0OVCaaj4RxjhMe7vHsPPCa) | [gums](https://open.spotify.com/album/5WIoze1Mah2RAPGwWefQOa) | 3:38 | 2025-04-24 |  |
+| [Harsh Love](https://open.spotify.com/track/6kdHY97UbXDdxfExPF45su) | [Blue Foundation](https://open.spotify.com/artist/1FWybrAwiSa0zKibdLfZZr), [Helena Gao](https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h) | [Close To The Knife](https://open.spotify.com/album/3av2n4bZhUwbSL54kdV0th) | 3:29 | 2025-05-29 |  |
 | [Hello Universe](https://open.spotify.com/track/4pmAO0JC3xwsTNlxGWfhde) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Hello Universe](https://open.spotify.com/album/2jXsMO8q6Yfn2s0Uvve0Di) | 3:03 | 2025-04-24 |  |
 | [Hey Girl](https://open.spotify.com/track/3ah6jpEqfBhcdGpLKHZbvu) | [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [Corpus](https://open.spotify.com/album/3eX3zbQQylwOS1mX7Wp2ZO) | 4:01 | 2025-03-13 |  |
 | [Honey Scented Soul](https://open.spotify.com/track/4ssAszgrSRjF7MuWXGVEnD) | [YULLOLA](https://open.spotify.com/artist/6vABHl7aPLdJwk0BU9cilg) | [Strange Serenity](https://open.spotify.com/album/5R3GB55ibs9mZzBFfUnjLy) | 2:58 | 2025-05-01 |  |
@@ -99,9 +100,11 @@
 | [Spring](https://open.spotify.com/track/5FKYSEhkz7sBzlkyLOAXKl) | [Maria Somerville](https://open.spotify.com/artist/5JjgffJf4s4KF29xdEaAQd) | [Luster](https://open.spotify.com/album/6vRCwr31pNFnURP8mj53KP) | 3:34 | 2025-04-30 | 2025-05-02 |
 | [Star](https://open.spotify.com/track/1rB4MaZhxbxuaIqvbs9nLc) | [Good Sad Happy Bad](https://open.spotify.com/artist/3FPFQDA4cYbvO3O7O5rVWr) | [Shades](https://open.spotify.com/album/4AyXcaqnBjy2J5kHCRLzEA) | 2:32 | 2025-04-10 |  |
 | [Stay](https://open.spotify.com/track/01hSEJ4ymUJzj1jpgXkfGx) | [Raisa K](https://open.spotify.com/artist/11H2kC5a9Jk0IJ0gPUrZl9), [Coby Sey](https://open.spotify.com/artist/0d0XAaRW0dxgAtvZ1clgLX) | [Stay](https://open.spotify.com/album/0cFmJ71HYR4QUFmg2XLLEi) | 4:05 | 2025-03-13 |  |
+| [Stranglers](https://open.spotify.com/track/4VnMFlkMkhNa821NMvkTjE) | [Miynt](https://open.spotify.com/artist/4grFkvUAEj8IWdGDEJ2F4b) | [Rain Money Dogs](https://open.spotify.com/album/79USiXeKEd2sgnEzStvmFj) | 3:35 | 2025-05-29 |  |
 | [Sweet Anecdote](https://open.spotify.com/track/068KPJISmxyjh0pdetMKdP) | [Sea Lemon](https://open.spotify.com/artist/6Oy4STraI9APdMoCO5te6w) | [Sweet Anecdote](https://open.spotify.com/album/4xRY5qShEwYdF3QwB33Q6C) | 3:36 | 2025-03-13 |  |
 | [Talk About It](https://open.spotify.com/track/0CMB8RuAsWGJ27KGI11ssZ) | [Acopia](https://open.spotify.com/artist/276EHqxzrJ8QJKoluzYjFr) | [Talk About It](https://open.spotify.com/album/4JmfHt2VTxhIPVXompKDoN) | 3:57 | 2025-05-15 |  |
 | [The artist is absent \- 89 seconds rewrite](https://open.spotify.com/track/2ukYn5UsXjyaTskqf8x9Xe) | [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7) | [The artist is absent](https://open.spotify.com/album/7egg349kHYANI2fdTjQXSk) | 2:35 | 2025-04-03 |  |
+| [the end or the beginning idk \- trentemøller Remix](https://open.spotify.com/track/6NZZTbordbLZy1HuKd3hLv) | [Sakura](https://open.spotify.com/artist/3lZQq9C8VzgwrQDnw7GZWT), [trentemøller](https://open.spotify.com/artist/4O71i7ke5iIBX6RNSFoZbS) | [the end or the beginning idk \(trentemøller Remix\)](https://open.spotify.com/album/5JducM3eb5EBHlofPuyhBv) | 3:38 | 2025-05-29 |  |
 | [The Future](https://open.spotify.com/track/1aaGeVnP4r66IgNvVoyL6T) | [Ragnhild og](https://open.spotify.com/artist/48WSqLS1CDGcKE7NUwdHNt) | [The Future](https://open.spotify.com/album/5VGi3079D9C2xp1bggAujV) | 4:13 | 2025-04-24 |  |
 | [The One in Front of the Sun](https://open.spotify.com/track/2axEsEvh4uIfPNgPrhxew5) | [Spivak](https://open.spotify.com/artist/4V7mPDwAcAguZIa2PGeEcx) | [Violences](https://open.spotify.com/album/50fGBMmPLU994MXKGDUQN1) | 4:47 | 2025-03-13 |  |
 | [The Turning Ground](https://open.spotify.com/track/6F7j171ZkccR3gA57cLqRR) | [Tara Clerkin Trio](https://open.spotify.com/artist/0fSThWbCstAGqxZFUftX1F) | [On The Turning Ground](https://open.spotify.com/album/7GAK47rAg2VuMb47HOXdK2) | 4:25 | 2025-05-08 |  |
@@ -111,6 +114,7 @@
 | [U Projected 2](https://open.spotify.com/track/0ZMfvxORfTTH4IVITqsQoh) | [Voice Actor](https://open.spotify.com/artist/6PsuUa5ijopH2T8rVzHSZc), [Yarrow.co](https://open.spotify.com/artist/3NB9lrY3lN3V8xxk4DrXRw) | [Sent From My Telephone](https://open.spotify.com/album/0l5WnDIdqIofDQaVhzOkyl) | 2:06 | 2025-03-13 |  |
 | [UGLY TATTOO](https://open.spotify.com/track/1o2RsAdLVDq1cy89dtic7r) | [garbagepink](https://open.spotify.com/artist/67JJQ1bAsztm9QUq9OTr1z) | [UGLY TATTOO](https://open.spotify.com/album/5E1ZbueYYRd0qTo04buhS1) | 2:55 | 2025-03-13 |  |
 | [under your spell](https://open.spotify.com/track/7rC4bw9lF0zMF0BOJxPYsH) | [mikey](https://open.spotify.com/artist/2ftTkWEgbZL8ziKDBRI9nr) | [under your spell](https://open.spotify.com/album/4sWgv3Wjp4DxmtnQAtqfJg) | 3:47 | 2025-04-10 |  |
+| [Until June](https://open.spotify.com/track/4reIkCla73IpG17FZel0Hf) | [effe](https://open.spotify.com/artist/2QHeMiKzNUpV7tFFqudKEX) | [Until June](https://open.spotify.com/album/7xlOzPNL2DyzVzwNoAvFJC) | 3:48 | 2025-05-29 |  |
 | [Who are you?](https://open.spotify.com/track/4fY3eujPNFdOrrCzVPCsoQ) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [Who are you?](https://open.spotify.com/album/0qSnoidTmCP0hQC89oMS7S) | 2:31 | 2025-03-13 |  |
 | [Woman Lake](https://open.spotify.com/track/6qSt1UvGaxHUzzV244HpmO) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Woman Lake](https://open.spotify.com/album/5FTfV5xtWhRbcQ3K1H97Q6) | 2:44 | 2025-04-17 |  |
 | [X.U.Y.](https://open.spotify.com/track/7D1UX739Xu5b9ZbjqodwWT) | [Moin](https://open.spotify.com/artist/3HKbW1X4Aj2RZU6ruh3a0e) | [See / X.U.Y.](https://open.spotify.com/album/5LDnunPgPjbR973c1NStVV) | 3:48 | 2025-04-17 |  |

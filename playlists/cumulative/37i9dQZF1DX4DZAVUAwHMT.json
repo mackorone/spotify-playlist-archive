@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The UK's biggest rock playlist. Cover: Nova Twins",
+  "description": "The UK's biggest rock playlist. Cover: YUNGBLUD",
   "name": "The Rock List",
   "tracks": [
     {
@@ -438,7 +438,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 160080,
       "name": "A Distant Life",
       "url": "https://open.spotify.com/track/33jgfdPpvJSlj1hBGMzoEt"
@@ -456,7 +456,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 266350,
       "name": "A Drop In The Ocean",
       "url": "https://open.spotify.com/track/4Kp6PKl4GKxtIvcrD3S9cJ"
@@ -2442,6 +2442,24 @@
       "duration_ms": 155294,
       "name": "BRAINDEAD",
       "url": "https://open.spotify.com/track/6mwoR5rKAOHfGlFhXUDbzl"
+    },
+    {
+      "album": {
+        "name": "BRAINROT",
+        "url": "https://open.spotify.com/album/3aKGl3V5rCiCMFqLSpxOz2"
+      },
+      "artists": [
+        {
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164722,
+      "name": "BRAINROT",
+      "url": "https://open.spotify.com/track/10xlm1z0JiePh1Z6eGecCo"
     },
     {
       "album": {
@@ -4595,6 +4613,24 @@
     },
     {
       "album": {
+        "name": "rebirth // renaissance",
+        "url": "https://open.spotify.com/album/2HtSLBvwOWI6klIbdglALL"
+      },
+      "artists": [
+        {
+          "name": "KennyHoopla",
+          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172509,
+      "name": "even as if never//",
+      "url": "https://open.spotify.com/track/2nNhgnteeWCDPYM4Q9RxHX"
+    },
+    {
+      "album": {
         "name": "Even If It Kills Me",
         "url": "https://open.spotify.com/album/5xkM5c1gLbEp8UgIx4WV0x"
       },
@@ -5309,6 +5345,24 @@
     },
     {
       "album": {
+        "name": "Flowers & Dirt",
+        "url": "https://open.spotify.com/album/6dwzFHYwgGP9vL9Aod6U8P"
+      },
+      "artists": [
+        {
+          "name": "ALEXSUCKS",
+          "url": "https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127211,
+      "name": "Flowers & Dirt",
+      "url": "https://open.spotify.com/track/0mnUcuIMHiKQyHkkNNeKRr"
+    },
+    {
+      "album": {
         "name": "Flowers For The Grave",
         "url": "https://open.spotify.com/album/3zPoeWuvwtFwlXbvSBNGyI"
       },
@@ -5410,7 +5464,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 197000,
       "name": "For The Plot",
       "url": "https://open.spotify.com/track/5cTsAVfMDQxjL6qt7k9ijR"
@@ -5428,7 +5482,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 140666,
       "name": "forever",
       "url": "https://open.spotify.com/track/4uKPYoDkFqrCbN9vCseMoH"
@@ -5778,7 +5832,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 276501,
       "name": "Get Out My Face AKA Bad Kitty",
       "url": "https://open.spotify.com/track/1MWtB95XxXM3rlhH058YsD"
@@ -7407,6 +7461,24 @@
     },
     {
       "album": {
+        "name": "I Want It All",
+        "url": "https://open.spotify.com/album/5ePyRQrVvJWE3YJ8t9FQcw"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186052,
+      "name": "I Want It All",
+      "url": "https://open.spotify.com/track/6nUv1TbOMwOYzESvJCVbF7"
+    },
+    {
+      "album": {
         "name": "Welcome to My Blue Sky",
         "url": "https://open.spotify.com/album/014qKZpu8VekYsTceOSbiQ"
       },
@@ -8774,7 +8846,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 257825,
       "name": "Levitate",
       "url": "https://open.spotify.com/track/6MjjgYcSrBFeRmdnC47A27"
@@ -8958,7 +9030,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 234560,
       "name": "Little Bit Closer",
       "url": "https://open.spotify.com/track/3y6DzVmGrnOEftEgBKb3fq"
@@ -9052,6 +9124,24 @@
       "duration_ms": 206605,
       "name": "Long Way",
       "url": "https://open.spotify.com/track/2q8zC3kA9AYPKsreJ1BoFM"
+    },
+    {
+      "album": {
+        "name": "LOOK OUT FOR ME",
+        "url": "https://open.spotify.com/album/0BUO6QDa4EBoVuMumIaAza"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403520,
+      "name": "LOOK OUT FOR ME",
+      "url": "https://open.spotify.com/track/3gX1APRlWGUJF9DIYdD1gx"
     },
     {
       "album": {
@@ -9334,7 +9424,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 175134,
       "name": "Lovesick Lullaby",
       "url": "https://open.spotify.com/track/2LRSQhv3Vi8SkEllnvUhEK"
@@ -10700,7 +10790,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 280065,
       "name": "NORTHERN LIGHTS//",
       "url": "https://open.spotify.com/track/3sC1NBKIjCtkR7tIOzdFSj"
@@ -12311,6 +12401,24 @@
     },
     {
       "album": {
+        "name": "Let All That We Imagine Be The Light",
+        "url": "https://open.spotify.com/album/3SVwtqCeeVLPdnxipKxgIj"
+      },
+      "artists": [
+        {
+          "name": "Garbage",
+          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219691,
+      "name": "R U Happy Now",
+      "url": "https://open.spotify.com/track/4XGNzQ0JdnV27LPXVPvHWV"
+    },
+    {
+      "album": {
         "name": "Baku's Revenge",
         "url": "https://open.spotify.com/album/07wQSjTds9132XAwuYzBWF"
       },
@@ -12914,7 +13022,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 133639,
       "name": "safeword",
       "url": "https://open.spotify.com/track/0rgwADAHd21s1OE7RPFwPN"
@@ -12954,6 +13062,24 @@
       "duration_ms": 214093,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/0tY6cjuSG8vLZBfO7NSdKG"
+    },
+    {
+      "album": {
+        "name": "Save The Cat",
+        "url": "https://open.spotify.com/album/3lF11dYBA2aml6FwhXBh5k"
+      },
+      "artists": [
+        {
+          "name": "Pendulum",
+          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172404,
+      "name": "Save The Cat",
+      "url": "https://open.spotify.com/track/0L0DVRuUZ0lJIyq8oNQtF9"
     },
     {
       "album": {
@@ -14908,6 +15034,24 @@
       "duration_ms": 219111,
       "name": "Television Promises",
       "url": "https://open.spotify.com/track/4naPdZuEidyk9rOC3WVxi5"
+    },
+    {
+      "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/1Ex50jOTZLtAO6zABhU9Fa"
+      },
+      "artists": [
+        {
+          "name": "crysometimes",
+          "url": "https://open.spotify.com/artist/152LeNynRSX8ddAcx8OH3V"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167534,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/6IChUv8zQHDHFUJndu3i21"
     },
     {
       "album": {
@@ -16883,6 +17027,24 @@
     },
     {
       "album": {
+        "name": "Evangelic Girl is a Gun",
+        "url": "https://open.spotify.com/album/0YYPOxN7WrWD3ygAP5KB50"
+      },
+      "artists": [
+        {
+          "name": "yeule",
+          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167692,
+      "name": "What3vr",
+      "url": "https://open.spotify.com/track/5jqRZna4pjmgETTNo349Rk"
+    },
+    {
+      "album": {
         "name": "When She Told Me",
         "url": "https://open.spotify.com/album/6r3emSLfF17MpkJAXzd5Tt"
       },
@@ -17642,6 +17804,24 @@
       "duration_ms": 118878,
       "name": "ZOMBIE",
       "url": "https://open.spotify.com/track/5xBX9Wx8eU9ZBHzKyBVWQZ"
+    },
+    {
+      "album": {
+        "name": "Zombie",
+        "url": "https://open.spotify.com/album/2VjTqSwV1IY3a4kFdurCVv"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246946,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/7DQotDUGnJkXgNJv363GXF"
     },
     {
       "album": {

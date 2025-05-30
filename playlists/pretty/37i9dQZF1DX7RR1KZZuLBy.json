@@ -1,12 +1,12 @@
 {
   "description": "Listen to your favourite tunes for inspiration and upliftment.",
-  "num_followers": 61238,
+  "num_followers": 61256,
   "original_name": "Gospel Greatness",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aC+64AAAAAAJiaF4XAjiCVk5iynR+uvr",
+  "snapshot_id": "aDj1XAAAAAAqWECKhw+KRP7U0E0e/LmS",
   "tracks": [
     {
       "added_at": "2023-12-01 00:01:00",
@@ -837,26 +837,6 @@
       "url": "https://open.spotify.com/track/5IelW2v32KZHJKwsoJsAwN"
     },
     {
-      "added_at": "2024-08-16 00:01:00",
-      "album": {
-        "name": "Best Days",
-        "url": "https://open.spotify.com/album/16Ljgzu7nBDSjTXJkCgBaJ"
-      },
-      "artists": [
-        {
-          "name": "Tamela Mann",
-          "url": "https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt"
-        },
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 287573,
-      "name": "Take Me to the King (feat. Kirk Franklin)",
-      "url": "https://open.spotify.com/track/6fG46PUotZMTgcAzAtFLOk"
-    },
-    {
       "added_at": "2023-12-01 00:01:00",
       "album": {
         "name": "Spirit of Praise, Vol. 8 (Live)",
@@ -875,6 +855,26 @@
       "duration_ms": 475664,
       "name": "Thath'Indawo (Live)",
       "url": "https://open.spotify.com/track/7wcjeveluiW5djtxLCxNSx"
+    },
+    {
+      "added_at": "2024-08-16 00:01:00",
+      "album": {
+        "name": "Best Days",
+        "url": "https://open.spotify.com/album/16Ljgzu7nBDSjTXJkCgBaJ"
+      },
+      "artists": [
+        {
+          "name": "Tamela Mann",
+          "url": "https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 287573,
+      "name": "Take Me to the King (feat. Kirk Franklin)",
+      "url": "https://open.spotify.com/track/6fG46PUotZMTgcAzAtFLOk"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -929,22 +929,6 @@
       "url": "https://open.spotify.com/track/4OK1XrubP6GJs4f6czk8Jg"
     },
     {
-      "added_at": "2024-08-16 00:01:00",
-      "album": {
-        "name": "Joyous Celebration 25 - Still We Rise: Live At The Joburg Theatre",
-        "url": "https://open.spotify.com/album/3XpdHJykK5cila2uzcNAxz"
-      },
-      "artists": [
-        {
-          "name": "Joyous Celebration",
-          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
-        }
-      ],
-      "duration_ms": 388866,
-      "name": "Ndenzel' Uncedo Hymn 377 - Live",
-      "url": "https://open.spotify.com/track/3BTszrSLAt9f11eWeHNTTc"
-    },
-    {
       "added_at": "2024-01-26 00:01:00",
       "album": {
         "name": "Spirit Of Praise, Vol. 9 (Live)",
@@ -967,6 +951,22 @@
       "duration_ms": 556346,
       "name": "Bamba Mzalwane (Live)",
       "url": "https://open.spotify.com/track/7EK0Se77nYoRndoAJXUWHq"
+    },
+    {
+      "added_at": "2024-08-16 00:01:00",
+      "album": {
+        "name": "Joyous Celebration 25 - Still We Rise: Live At The Joburg Theatre",
+        "url": "https://open.spotify.com/album/3XpdHJykK5cila2uzcNAxz"
+      },
+      "artists": [
+        {
+          "name": "Joyous Celebration",
+          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
+        }
+      ],
+      "duration_ms": 388866,
+      "name": "Ndenzel' Uncedo Hymn 377 - Live",
+      "url": "https://open.spotify.com/track/3BTszrSLAt9f11eWeHNTTc"
     },
     {
       "added_at": "2024-08-16 00:01:00",

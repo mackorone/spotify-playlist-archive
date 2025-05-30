@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Todo lo nuevo en música tropical 📸 Eugenia Quevedo, Valentino Merlo & Emanero.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,122 likes - 101 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,156 likes - 101 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 100 | [Hay Fuegos](https://open.spotify.com/track/6D824612PUJh6TbxwtirhL) | [Sanluis](https://open.spotify.com/artist/3b2zi4PtiILG4Iyswyk4LW), [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77) | [Hay Fuegos](https://open.spotify.com/album/4nQZHhHT7TBODUfVEfXkCQ) | 3:31 |
 | 101 | [La Guerra](https://open.spotify.com/track/4qdch3FXFL4IEoDwAgswKV) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID) | [La Guerra](https://open.spotify.com/album/2krMcCgoXgCWVUVF5F2VNk) | 2:01 |
 
-Snapshot ID: `aDC4TAAAAAAfbVu+jsEhFqjIkVrkgBdm`
+Snapshot ID: `aDC4TAAAAACQ3LziTL73U+FVAzzwPYFf`

@@ -276,7 +276,7 @@
       ],
       "date_added": "2025-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 247600,
       "name": "Blue",
       "url": "https://open.spotify.com/track/0PSliKcrngN9atHRe9sy8s"
@@ -2840,6 +2840,32 @@
       "duration_ms": 232000,
       "name": "You Said I'd Feel It All Again",
       "url": "https://open.spotify.com/track/0cuXTNMJypoaqDbJZVZu2H"
+    },
+    {
+      "album": {
+        "name": "Yvonne",
+        "url": "https://open.spotify.com/album/3pFLJO0siLPq3r89fuJVk7"
+      },
+      "artists": [
+        {
+          "name": "Foxwarren",
+          "url": "https://open.spotify.com/artist/2dPIBvg7mU59dCTGjhPylV"
+        },
+        {
+          "name": "Andy Shauf",
+          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
+        },
+        {
+          "name": "Darryl Kissick",
+          "url": "https://open.spotify.com/artist/1VbP2VbyU1Ht1wtIAMn4Gc"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132801,
+      "name": "Yvonne",
+      "url": "https://open.spotify.com/track/4fPaBqB8bWftagOHy2xtDF"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWZLcGGC0HJbc"

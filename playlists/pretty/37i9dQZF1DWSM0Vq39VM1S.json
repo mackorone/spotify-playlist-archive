@@ -1,6 +1,6 @@
 {
   "description": "C'est parti pour une bonne journ\u00e9e.",
-  "num_followers": 197517,
+  "num_followers": 197554,
   "original_name": "R\u00e9veil en douceur",
   "owner": {
     "name": "Spotify",
@@ -527,6 +527,22 @@
     {
       "added_at": "2025-05-22 22:00:40",
       "album": {
+        "name": "That's What I Love",
+        "url": "https://open.spotify.com/album/4AO7lU5M0Zj4aWOaZFCj93"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 226440,
+      "name": "That's What I Love",
+      "url": "https://open.spotify.com/track/6qxPXbJammkI5JkjVctXED"
+    },
+    {
+      "added_at": "2025-05-22 22:00:40",
+      "album": {
         "name": "Double Shifts",
         "url": "https://open.spotify.com/album/1UT0X66HAow7RWwlx7Jlwb"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 135866,
       "name": "Welcome to the Mood",
       "url": "https://open.spotify.com/track/1zaVcXWNLLL4sgLg8q9uvD"
-    },
-    {
-      "added_at": "2025-05-22 22:00:40",
-      "album": {
-        "name": "That's What I Love",
-        "url": "https://open.spotify.com/album/4AO7lU5M0Zj4aWOaZFCj93"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 226440,
-      "name": "That's What I Love",
-      "url": "https://open.spotify.com/track/6qxPXbJammkI5JkjVctXED"
     },
     {
       "added_at": "2025-05-22 22:00:40",
@@ -703,26 +703,6 @@
     {
       "added_at": "2025-05-22 22:00:40",
       "album": {
-        "name": "Make It Work",
-        "url": "https://open.spotify.com/album/4VC97qyEvXilPylVXxhcCB"
-      },
-      "artists": [
-        {
-          "name": "Papooz",
-          "url": "https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm"
-        },
-        {
-          "name": "Erlend \u00d8ye",
-          "url": "https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs"
-        }
-      ],
-      "duration_ms": 255877,
-      "name": "Make It Work",
-      "url": "https://open.spotify.com/track/7AgPGHkeXpj8yETLvBn3Kb"
-    },
-    {
-      "added_at": "2025-05-22 22:00:40",
-      "album": {
         "name": "On the Road",
         "url": "https://open.spotify.com/album/1jT4VO02QoRVb1IDubFm2d"
       },
@@ -739,18 +719,22 @@
     {
       "added_at": "2025-05-22 22:00:40",
       "album": {
-        "name": "Good Company",
-        "url": "https://open.spotify.com/album/1Sh6wJdwNxKzgnYsMpVBW3"
+        "name": "Make It Work",
+        "url": "https://open.spotify.com/album/4VC97qyEvXilPylVXxhcCB"
       },
       "artists": [
         {
-          "name": "The Walters",
-          "url": "https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8"
+          "name": "Papooz",
+          "url": "https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm"
+        },
+        {
+          "name": "Erlend \u00d8ye",
+          "url": "https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs"
         }
       ],
-      "duration_ms": 205598,
-      "name": "Good Company",
-      "url": "https://open.spotify.com/track/4gsWaXmgcuOpqUA1tR7FXN"
+      "duration_ms": 255877,
+      "name": "Make It Work",
+      "url": "https://open.spotify.com/track/7AgPGHkeXpj8yETLvBn3Kb"
     },
     {
       "added_at": "2025-05-22 22:00:40",
@@ -775,18 +759,18 @@
     {
       "added_at": "2025-05-22 22:00:40",
       "album": {
-        "name": "The Seize",
-        "url": "https://open.spotify.com/album/4pfXByIKcM1TyS1fFNqgw3"
+        "name": "Good Company",
+        "url": "https://open.spotify.com/album/1Sh6wJdwNxKzgnYsMpVBW3"
       },
       "artists": [
         {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+          "name": "The Walters",
+          "url": "https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8"
         }
       ],
-      "duration_ms": 214401,
-      "name": "The Seize",
-      "url": "https://open.spotify.com/track/00opIKNQBtGqhfVOYIvaDj"
+      "duration_ms": 205598,
+      "name": "Good Company",
+      "url": "https://open.spotify.com/track/4gsWaXmgcuOpqUA1tR7FXN"
     },
     {
       "added_at": "2025-05-22 22:00:40",
@@ -807,18 +791,34 @@
     {
       "added_at": "2025-05-22 22:00:40",
       "album": {
-        "name": "Grateful For",
-        "url": "https://open.spotify.com/album/78y8zxdtwe1dIuMkPED0Wc"
+        "name": "The Seize",
+        "url": "https://open.spotify.com/album/4pfXByIKcM1TyS1fFNqgw3"
       },
       "artists": [
         {
-          "name": "B\u00d8RNS",
-          "url": "https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo"
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
         }
       ],
-      "duration_ms": 219779,
-      "name": "Grateful For",
-      "url": "https://open.spotify.com/track/5cE0uS4VSGwOGYc1K6joDH"
+      "duration_ms": 214401,
+      "name": "The Seize",
+      "url": "https://open.spotify.com/track/00opIKNQBtGqhfVOYIvaDj"
+    },
+    {
+      "added_at": "2025-05-22 22:00:40",
+      "album": {
+        "name": "Learning to Live",
+        "url": "https://open.spotify.com/album/74g5xcLgklxM0bu3UxBCCs"
+      },
+      "artists": [
+        {
+          "name": "Octave Lissner",
+          "url": "https://open.spotify.com/artist/0EzrGrgoaRfFelIQgRBIt7"
+        }
+      ],
+      "duration_ms": 185344,
+      "name": "My Whole Life",
+      "url": "https://open.spotify.com/track/34GAk6onUPTSyOsISSQY3L"
     },
     {
       "added_at": "2025-05-22 22:00:40",
@@ -839,18 +839,18 @@
     {
       "added_at": "2025-05-22 22:00:40",
       "album": {
-        "name": "Learning to Live",
-        "url": "https://open.spotify.com/album/74g5xcLgklxM0bu3UxBCCs"
+        "name": "Grateful For",
+        "url": "https://open.spotify.com/album/78y8zxdtwe1dIuMkPED0Wc"
       },
       "artists": [
         {
-          "name": "Octave Lissner",
-          "url": "https://open.spotify.com/artist/0EzrGrgoaRfFelIQgRBIt7"
+          "name": "B\u00d8RNS",
+          "url": "https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo"
         }
       ],
-      "duration_ms": 185344,
-      "name": "My Whole Life",
-      "url": "https://open.spotify.com/track/34GAk6onUPTSyOsISSQY3L"
+      "duration_ms": 219779,
+      "name": "Grateful For",
+      "url": "https://open.spotify.com/track/5cE0uS4VSGwOGYc1K6joDH"
     },
     {
       "added_at": "2025-05-22 22:00:40",

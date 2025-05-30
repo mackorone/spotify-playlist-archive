@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists from UK&IE. Cover: Georgie & Joe",
+  "description": "Discover your new favourite artists from UK&IE. Cover: Cliffords",
   "name": "RADAR UK & Ireland",
   "tracks": [
     {
@@ -3266,6 +3266,24 @@
       "duration_ms": 157029,
       "name": "My Drummer's Girlfriend",
       "url": "https://open.spotify.com/track/2lMrk3IrLeWRV9UT3DlWDp"
+    },
+    {
+      "album": {
+        "name": "My Favourite Monster",
+        "url": "https://open.spotify.com/album/3HcqPbTSgSh7CDAbOVU3zu"
+      },
+      "artists": [
+        {
+          "name": "Cliffords",
+          "url": "https://open.spotify.com/artist/2JIXE3g9E0kfeFWhpKPIja"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238533,
+      "name": "My Favourite Monster",
+      "url": "https://open.spotify.com/track/3Stk5Oa5Pc2ertfAP5tRUZ"
     },
     {
       "album": {

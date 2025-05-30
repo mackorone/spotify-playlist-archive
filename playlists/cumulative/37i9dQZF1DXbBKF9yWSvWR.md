@@ -2,9 +2,9 @@
 
 ### [Indie Update](https://open.spotify.com/playlist/37i9dQZF1DXbBKF9yWSvWR)
 
-> Weekly update for Indie releases\. Cover: Lézard
+> Weekly update for Indie releases\. Cover: <a href="spotify:playlist:37i9dQZF1DXaxwXKCsImRe">RADAR</a>\-artist Hiqpy
 
-442 songs - 1 day 1 hr 33 min
+443 songs - 1 day 1 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -323,6 +323,7 @@
 | [Real Love \- soft version](https://open.spotify.com/track/64ozqpB6L2aB7tqWXxTtu5) | [Francis of Delirium](https://open.spotify.com/artist/0qrCon6GmV92JY5vNALLif) | [Real Love \(soft version\)](https://open.spotify.com/album/3duy8w1ktRY8AhwptiPfz0) | 3:02 | 2024-11-22 | 2025-02-18 |
 | [Reasoning](https://open.spotify.com/track/6nWfN0Rff9pl2w2T4IiaTL) | [Ashley Morgan](https://open.spotify.com/artist/3SvaZoKvmYQVIkvnVIRgHz) | [Reasoning](https://open.spotify.com/album/76y1W3YbynZzWKibNMHp66) | 3:02 | 2025-04-25 | 2025-05-17 |
 | [Red Eyes](https://open.spotify.com/track/2b25lG96mQscG7TGIcvCxO) | [Loki Project](https://open.spotify.com/artist/7ig2Btg4Z1sESTkwmJzrAs) | [Game of Life](https://open.spotify.com/album/2TwEsshbSGfCgTKyfgjToT) | 3:15 | 2025-04-25 |  |
+| [Red Flag Magician](https://open.spotify.com/track/2Or2qg4qhw5RXDbyCTGIdb) | [Hiqpy](https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq) | [Red Flag Magician](https://open.spotify.com/album/1gRciLdgJ2GetUgTSher9p) | 5:28 | 2025-05-29 |  |
 | [Relationships](https://open.spotify.com/track/22Ui43i51sAALwtapObKmQ) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Relationships](https://open.spotify.com/album/4IveZaLBOjYALIg00gMVEK) | 3:22 | 2025-03-13 | 2025-05-27 |
 | [remains](https://open.spotify.com/track/2pGHd3wRM244IOFAC34FrX) | [Naaz](https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8) | [remains](https://open.spotify.com/album/30wR8ockAAhNsBx57ocssO) | 3:16 | 2025-02-27 | 2025-04-18 |
 | [Reverie](https://open.spotify.com/track/7AGwmaQgwIYITu97XNnpUz) | [CHARLOT](https://open.spotify.com/artist/4jwyHfEELByxcUm6JEP5yC) | [Reverie](https://open.spotify.com/album/1hTfFDEIzx7RPFs3acGT45) | 3:42 | 2024-08-01 | 2024-11-07 |

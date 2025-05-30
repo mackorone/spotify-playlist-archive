@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : Thug Life
 
-1,809 songs - 4 day 13 hr 36 min
+1,810 songs - 4 day 13 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1440,6 +1440,7 @@
 | [Swagathaanjali \(From "Chandramukhi 2"\)](https://open.spotify.com/track/1lx5Cp1At5h0yDsd2G2nQH) | [M\. M\. Keeravani](https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR), [Sreenidhi Tirumala](https://open.spotify.com/artist/3WQP57VLN9YqWay34tiADB) | [Swagathaanjali \(From "Chandramukhi 2"\)](https://open.spotify.com/album/0rI3ReaoMcE2yLUPhJgfpN) | 3:48 | 2023-08-11 | 2023-09-06 |
 | [Swasamae \- From "O2"](https://open.spotify.com/track/4HcfZtzCyUpSHiFSab9oU2) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [Brindha Sivakumar](https://open.spotify.com/artist/42MC6ZLRdw8SMju7FrATvL) | [Swasamae \(From "O2"\)](https://open.spotify.com/album/6EYqxEZHoBXFtrtAzavzyJ) | 2:55 | 2022-05-27 | 2022-06-10 |
 | [Ta Takkara \(Complex Song\) \(From "Kalki 2898 AD"\) \(Tamil\)](https://open.spotify.com/track/1Hs1mvZUiJZSoBNAD2fQfr) | [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Ta Takkara \(Complex Song\) \(From "Kalki 2898 AD"\) \(Tamil\)](https://open.spotify.com/album/78u1zC9ov6ZslEmhxiysAD) | 3:27 | 2024-07-01 | 2024-10-10 |
+| [Taara Taara \(From "Hari Hara Veera Mallu"\) \[Tamil\]](https://open.spotify.com/track/6UL6vpUekKPfBBvAVsjhOR) | [Maragadhamani](https://open.spotify.com/artist/1bRcW8SnU3AKrhzxnbdR64), [Lipsika Bhashyam](https://open.spotify.com/artist/21dhDPAGZuoa1M2S60hFK1), [Aditya Iyengar](https://open.spotify.com/artist/47DIrvE03m9rQzgFXu9eJo), [Pa\. Vijay](https://open.spotify.com/artist/1dg4azP3LshEhi3moXgJQv) | [Taara Taara \(From "Hari Hara Veera Mallu"\) \[Tamil\]](https://open.spotify.com/album/3dRTxNrxoCCAdJlDa8GMHp) | 3:57 | 2025-05-29 |  |
 | [Tappasu \(From "Hitler"\)](https://open.spotify.com/track/5ZixNmjdLf38EpNhoqpJbz) | [Vijay Antony](https://open.spotify.com/artist/6CtYzQvENTdGq5LPPsePdV), [Junior Nithya](https://open.spotify.com/artist/40ZhJCJheQU4Vgv544SLV3), [Vivek \- Mervin](https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW), [Ku Karthik](https://open.spotify.com/artist/7L5BLP9ezpFtEOas3AR0Ny) | [Tappasu \(From "Hitler"\)](https://open.spotify.com/album/5TunDtbKVbjZDaJ6P8LWXF) | 2:58 | 2024-01-29 | 2024-02-29 |
 | [Tappasu Neram](https://open.spotify.com/track/5sBO9sft4twmiwoUZUD6DD) | [Krishna.K](https://open.spotify.com/artist/7lUEi4XSbnhAdm2cTf0QJU), [Gana Guna](https://open.spotify.com/artist/3xaAlrhQIwIUzoim09APaW) | [Joshua Imai Pol Kaakha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0HghAZBUP2HIHjYBg9PowE) | 3:24 | 2024-03-01 | 2024-04-10 |
 | [Tata Tata \[From "Dinosaurs \(DieNoSirs\)"\]](https://open.spotify.com/track/2XElT5AtNY1U7GonW39MSz) | [Bobo Sasii](https://open.spotify.com/artist/4qyItosGZOjxZc6OsA2o7G) | [Tata Tata \[From "Dinosaurs \(DieNoSirs\)"\] \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/1FHipndBYK3W50mEOH9o5h) | 4:44 | 2023-08-01 | 2023-08-08 |

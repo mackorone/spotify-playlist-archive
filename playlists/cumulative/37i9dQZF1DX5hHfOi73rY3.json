@@ -262,7 +262,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 222000,
       "name": "Bass Tool - Radio Edit",
       "url": "https://open.spotify.com/track/6OXVILGyLRDDv0y0oRYErc"
@@ -3174,7 +3174,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 227625,
       "name": "Ready (feat. Art School Girlfriend)",
       "url": "https://open.spotify.com/track/2V1lVlC950jaMioIm24jIj"
@@ -4343,6 +4343,24 @@
     },
     {
       "album": {
+        "name": "Where You Need To Be",
+        "url": "https://open.spotify.com/album/5zuAaJ9wg60dc7UOVHVgRz"
+      },
+      "artists": [
+        {
+          "name": "Skin On Skin",
+          "url": "https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253478,
+      "name": "Where You Need To Be",
+      "url": "https://open.spotify.com/track/5wAxcO9N89pLKRo68vMqJL"
+    },
+    {
+      "album": {
         "name": "The Singles",
         "url": "https://open.spotify.com/album/0BnvB1gVzTiJM6nd9kpvTY"
       },
@@ -4504,6 +4522,24 @@
       "duration_ms": 235680,
       "name": "You Know It",
       "url": "https://open.spotify.com/track/64Kw68jjKqqYK5hQrCkrVT"
+    },
+    {
+      "album": {
+        "name": "You're Not a Popstar",
+        "url": "https://open.spotify.com/album/4rs98cVa5lL5pyBprgNQMW"
+      },
+      "artists": [
+        {
+          "name": "X CLUB.",
+          "url": "https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224958,
+      "name": "You're Not a Popstar",
+      "url": "https://open.spotify.com/track/1gQgCVN31mBVPemIEeSLTA"
     },
     {
       "album": {

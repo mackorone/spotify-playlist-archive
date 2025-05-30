@@ -2,9 +2,9 @@
 
 ### [Hip\-Life Hits](https://open.spotify.com/playlist/37i9dQZF1DX9Y4P09E4dNP)
 
-> The big Hip\-Life hits rn\. Cover: AratheJay and Bella Shmurda
+> The big Hip\-Life hits rn\. Cover: Amerado
 
-266 songs - 16 hr 59 min
+267 songs - 17 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Araba Lawson \(feat\. All4real\)](https://open.spotify.com/track/0GFjf8ABto37t2pbGm5JfL) | [C\-Zar](https://open.spotify.com/artist/0Fj9MPOAPKlcNZqVFrNWYx), [All4Real](https://open.spotify.com/artist/4iG1ZHRDz0xTngBW1hHtRe) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 5:31 | 2020-02-20 | 2022-07-28 |
 | [Aseda](https://open.spotify.com/track/6oNuASyQEzd7Z6VsF1hKNG) | [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT) | [Aseda](https://open.spotify.com/album/5uw6BvKCIK8nlIlQFOP5v9) | 3:00 | 2024-04-03 |  |
 | [Asew](https://open.spotify.com/track/7xujnLnBsxgby94GzXdPVi) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc), [Mic Flammez](https://open.spotify.com/artist/1EUY08IMbLAtjiyBxsgueI) | [Highlife Konnect](https://open.spotify.com/album/72NulXFtskbFG6htwcte2C) | 3:25 | 2020-02-20 | 2024-03-05 |
+| [Asor](https://open.spotify.com/track/1au4kwJno8TJB5tR4ocQnZ) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew), [JZyNo](https://open.spotify.com/artist/3gYUwwn7FiiBMKHe36OUaQ) | [Asor](https://open.spotify.com/album/6tyX6CWvTE1bVyYRERMGbi) | 3:06 | 2025-05-30 |  |
 | [Asylum](https://open.spotify.com/track/1Cek6PV24GtEk4GDWqFbCk) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Avana \(Deluxe\)](https://open.spotify.com/album/0Y6z5zNbCGEiD6dHeEUtgV) | 3:02 | 2024-03-04 | 2025-04-12 |
 | [Atadwe](https://open.spotify.com/track/7xMqJPXwR4daIGNNz8BIjc) | [Papa Shee](https://open.spotify.com/artist/7uBklHGcjfKcyKHGzXS0NC) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 6:03 | 2020-02-20 | 2022-07-26 |
 | [Atadwe](https://open.spotify.com/track/77szM9v9r3cQLb753RcRjW) | [Papa Sheee](https://open.spotify.com/artist/0ktHlUz0hzcpJnnAJ7KDPw) | [Atadwe](https://open.spotify.com/album/1RmAEbz2aviWvoa4YwUQNk) | 6:00 | 2020-02-20 | 2024-03-04 |
@@ -58,7 +59,7 @@
 | [Been A Fool For You](https://open.spotify.com/track/0zNAOKNUzpposhZ5fa2n4d) | [Amakye Dede](https://open.spotify.com/artist/64kcBAG5ToQkhbefHzdlsj), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Been A Fool For You](https://open.spotify.com/album/3Xz3fQysuw2jI6OBGgZz0a) | 4:28 | 2023-12-01 | 2024-03-05 |
 | [Bend Your Knees \(Igbo\)](https://open.spotify.com/track/2IPlPMYHB9EKXbbnXEvZBx) | [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Bend Your Knees \(Igbo\)](https://open.spotify.com/album/5lesINCDo6wYpEbxyS7AiJ) | 3:47 | 2024-08-25 | 2024-09-20 |
 | [Berima Nsu](https://open.spotify.com/track/40mekD2MNFTdijf7T7loG3) | [Akwaboah](https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y) | [Berima Nsu](https://open.spotify.com/album/1qdpKiWu9xvhzVPWmo6F76) | 2:44 | 2024-06-14 | 2024-07-19 |
-| [Bless Me](https://open.spotify.com/track/2gdDfmkJ4UiEK3cJndPaod) | [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Bless Me](https://open.spotify.com/album/0lXhV0ckcu9Uu0LFW7uinP) | 4:51 | 2024-03-04 |  |
+| [Bless Me](https://open.spotify.com/track/2gdDfmkJ4UiEK3cJndPaod) | [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Bless Me](https://open.spotify.com/album/0lXhV0ckcu9Uu0LFW7uinP) | 4:51 | 2024-03-04 | 2025-05-30 |
 | [BOA ME](https://open.spotify.com/track/2KBo8mUTnN4RzB88CCoZE2) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [HOPE PACK](https://open.spotify.com/album/0H8MXFqWkeKnPIWuB3qR1B) | 2:48 | 2024-07-19 | 2024-08-31 |
 | [Boom Boom](https://open.spotify.com/track/0c6cJ10SmaO6Ev4XVWIi5Z) | [Omar Sterling](https://open.spotify.com/artist/3hvJvURxBzOmRYDDEEIr7T), [Reggie](https://open.spotify.com/artist/2h3HiGNHcAvAY1PbORnvKr), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Boom Boom](https://open.spotify.com/album/4qQVzUUzfPh10muObt1Wzp) | 2:44 | 2024-03-07 | 2024-03-29 |
 | [Broken Heart \(feat\. Kuami Eugene\)](https://open.spotify.com/track/3CTLElO2jgzX3pUU571Nfk) | [DJ Vyrusky](https://open.spotify.com/artist/20uZPZ6EXItffkdLevoEdV), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Broken Heart \(feat\. Kuami Eugene\)](https://open.spotify.com/album/2wP11FwHQj4zg9x9XBo1r4) | 2:58 | 2024-03-04 | 2025-02-22 |

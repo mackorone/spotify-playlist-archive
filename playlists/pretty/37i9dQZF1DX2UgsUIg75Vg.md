@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chill r&b\. Cover: Jack Dine
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,383,277 likes - 175 songs - 9 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,383,049 likes - 175 songs - 9 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

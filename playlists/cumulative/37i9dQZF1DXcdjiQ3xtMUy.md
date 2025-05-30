@@ -2,9 +2,9 @@
 
 ### [Greek Pop](https://open.spotify.com/playlist/37i9dQZF1DXcdjiQ3xtMUy)
 
-> Τα καλύτερα της ελληνικής ποπ σκηνής αυτή τη στιγμή\. Εξώφυλλο: LILA
+> Τα καλύτερα της ελληνικής ποπ σκηνής αυτή τη στιγμή\. Εξώφυλλο: ZAF
 
-166 songs - 8 hr 35 min
+168 songs - 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Allo](https://open.spotify.com/track/1iTNgKcDKw0b2mRA1rMSJ5) | [Anastasia](https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP), [Enisa](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6) | [Allo](https://open.spotify.com/album/13TWhaKSz5HPkVg7gVCKav) | 3:33 | 2024-06-27 | 2025-02-07 |
 | [Amartolo](https://open.spotify.com/track/7n7zKCCkzYHBlh9ZrDuytS) | [Elena Tsagrinou](https://open.spotify.com/artist/4TgsxeFPNtkZ5lneq9AceU), [Nore Pierre](https://open.spotify.com/artist/5T1jkoAvwvd4ybx9f5VhVp) | [Amartolo](https://open.spotify.com/album/0fo8Q6whl8LOWKB8ukPLJ1) | 2:14 | 2024-07-25 | 2025-03-28 |
 | [Amen](https://open.spotify.com/track/24fOgjgY2y4FLJxFUYaxHv) | [Kalomira](https://open.spotify.com/artist/5duetVmlUhQnoJ3dhqChFH) | [Amen](https://open.spotify.com/album/2bDleEMkP1PpGDGk1Tbcts) | 3:13 | 2024-06-27 | 2024-07-05 |
+| [AN](https://open.spotify.com/track/1bJkO9a9TtPsac9HwYYcM3) | [ZAF](https://open.spotify.com/artist/0vC9IaLo87ruiqkOXmPvPO) | [AN](https://open.spotify.com/album/4owPdFivPHH2hE7iTzOoAJ) | 3:27 | 2025-05-29 |  |
 | [An Apopse Figo \- Night Rider Edit](https://open.spotify.com/track/72jtB2gdVoUhvSWrqfpP27) | [Marseaux](https://open.spotify.com/artist/6hyFvbMnKrLVujJZnovsWz), [dPans](https://open.spotify.com/artist/3wz93gsh1Vj23McptGxzTm) | [An Apopse Figo \(Night Rider Edit\)](https://open.spotify.com/album/7rIkPoaqArCsOWmPqv3z0w) | 1:07 | 2024-09-26 | 2025-05-09 |
 | [An Ikseres](https://open.spotify.com/track/5gzfPm5fNesR6080H18zBW) | [Nikos Vertis](https://open.spotify.com/artist/6BOprAXvUTWZjImX2dFdEa) | [An Ikseres](https://open.spotify.com/album/2ekZxLSD9qz2AjEAMirKBc) | 3:09 | 2024-06-27 | 2024-11-22 |
 | [ANAKATA](https://open.spotify.com/track/4xDgsAMNLvb3sgsHze2lrI) | [Tamta](https://open.spotify.com/artist/0VGybH10ziMPo99SYOwMoQ) | [THE VILLAIN](https://open.spotify.com/album/5UvzxCTzhWRIoUT8wR85Ek) | 3:23 | 2024-11-28 | 2025-05-09 |
@@ -50,7 +51,7 @@
 | [COSMOS](https://open.spotify.com/track/3zHFS2L68Tj5JOJaw6ssso) | [Oge](https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9), [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ) | [STATUS 2](https://open.spotify.com/album/6ZokZMbIKjE2hhw3u0oySc) | 2:27 | 2025-04-10 |  |
 | [Dame Fuego](https://open.spotify.com/track/0dvNH2vkKm6hPzgy9Puz89) | [Marseaux](https://open.spotify.com/artist/6hyFvbMnKrLVujJZnovsWz) | [Dame Fuego](https://open.spotify.com/album/2kiAmoZTGNPOWW57lR7ovY) | 3:00 | 2024-07-11 | 2025-05-09 |
 | [DEN PERNAEI](https://open.spotify.com/track/4Lcl5RNUF5jlMcrPBbxK3b) | [KG](https://open.spotify.com/artist/2k3a4Z4pyDriJYozauuCYj), [Teo Tzimas](https://open.spotify.com/artist/7CkEq9a4CwfkweA1tRgxgh) | [DEN PERNAEI](https://open.spotify.com/album/75CkPkXxgv6NWqzwj0OThQ) | 3:01 | 2024-10-10 | 2024-10-25 |
-| [Den Yparxei \- 2025 Edition](https://open.spotify.com/track/1GY4WYWJSi6Ylmjyx4tAON) | [Ilias Vrettos](https://open.spotify.com/artist/0bBYQsnSex82PNb1HkJZt1) | [7](https://open.spotify.com/album/3bNTq5F18iOH311qc1A1dG) | 3:32 | 2025-05-08 |  |
+| [Den Yparxei \- 2025 Edition](https://open.spotify.com/track/1GY4WYWJSi6Ylmjyx4tAON) | [Ilias Vrettos](https://open.spotify.com/artist/0bBYQsnSex82PNb1HkJZt1) | [7](https://open.spotify.com/album/3bNTq5F18iOH311qc1A1dG) | 3:32 | 2025-05-08 | 2025-05-30 |
 | [Diafanis](https://open.spotify.com/track/0cJQO2o81NwOtjlJOJiEGV) | [Demy](https://open.spotify.com/artist/12muvykhaMY3RlVrJQ2ApM), [Theo Evan](https://open.spotify.com/artist/0jzej24m4tFBjGwKwsoYvj) | [Diafanis](https://open.spotify.com/album/3s9yB9xtjDn6NGLHpwpEvS) | 2:55 | 2025-04-10 |  |
 | [Disco\-Tech](https://open.spotify.com/track/2pbc9HOxka0qUSE2oIW5Tc) | [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2), [ARCADE](https://open.spotify.com/artist/565UjtVObRIa1hdNFUJajr) | [Disco\-Tech](https://open.spotify.com/album/0gcIvBjFvumZy9ecqGUA3x) | 3:19 | 2025-05-22 |  |
 | [Ecstasy](https://open.spotify.com/track/5QpbBaOztQcDlZbbufzz9S) | [Foxy Lee](https://open.spotify.com/artist/1TMRlzzQQpXLTPF77gB22i), [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2), [ARCADE](https://open.spotify.com/artist/565UjtVObRIa1hdNFUJajr) | [Ecstasy](https://open.spotify.com/album/2aUkvJT4z7smuD01aiJMZx) | 2:04 | 2024-12-19 |  |
@@ -79,6 +80,7 @@
 | [Glossa Tou Mualou](https://open.spotify.com/track/54SLiEQDM6d7stFqB1OF04) | [Demy](https://open.spotify.com/artist/12muvykhaMY3RlVrJQ2ApM) | [DELTA](https://open.spotify.com/album/6BjCsULcWjZDbDcUmTlxfj) | 3:23 | 2025-05-15 |  |
 | [Gyrismos](https://open.spotify.com/track/4LQd54eTyzSTld755Ke7yY) | [Christos Mastoras](https://open.spotify.com/artist/1XlTr7C0vwBmlpnsN8OMhu), [Melisses](https://open.spotify.com/artist/2ra3quFhImLyv0c9XTnWFl) | [Gyrismos](https://open.spotify.com/album/1dAWCzUopvEyjmSg7py5Cp) | 3:32 | 2024-11-14 |  |
 | [Halima](https://open.spotify.com/track/51IOc0jl3D1jzh9gxmYB0n) | [KONY](https://open.spotify.com/artist/0uf238oeLAQXNuy8WNKgce), [Joanne](https://open.spotify.com/artist/75z1OhYtUgB075L3zyMfFH) | [Halima](https://open.spotify.com/album/2Zt6kRIh2TjWqEW1G4y8b7) | 2:49 | 2024-06-27 | 2024-09-13 |
+| [HASA](https://open.spotify.com/track/4Q9yLvIpt6JL7eFx1MHXc0) | [Yianna Terzi](https://open.spotify.com/artist/6jyr8jHac3RvXIltjYqVJi), [Billie Kark](https://open.spotify.com/artist/6hDmweft2NBTVSnCPJ5pMc) | [SIMADIA](https://open.spotify.com/album/0CAvn2OV8DW0vLWuC53qTn) | 3:33 | 2025-05-29 |  |
 | [Heartbreaker](https://open.spotify.com/track/4PcUMCVKU27h5l9jBXvUOJ) | [Kalomira](https://open.spotify.com/artist/5duetVmlUhQnoJ3dhqChFH) | [Heartbreaker](https://open.spotify.com/album/26ih0j76ltsP8nt5n2TDGv) | 3:00 | 2025-02-20 | 2025-03-14 |
 | [I Mousiki Tou Anemou](https://open.spotify.com/track/4WSuUElxvZyFqr6Go2WGvl) | [Anna Vissi](https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl) | [50 Years \(Live at Odeon of Herodes Atticus\)](https://open.spotify.com/album/31Er5ZZpjPKHNQx1z8IPeC) | 4:59 | 2024-12-05 | 2025-01-24 |
 | [Iliggos](https://open.spotify.com/track/2UPMkklYJv15deUPc0a7YZ) | [Antonis Remos](https://open.spotify.com/artist/6s26Q38Zqc4hY3xe7jrEBG) | [Iliggos](https://open.spotify.com/album/4GKz0pYvJiFWpdTlVaO8so) | 3:48 | 2024-06-27 | 2024-12-20 |
@@ -110,7 +112,7 @@
 | [Misi Kardia](https://open.spotify.com/track/4uJ0CGPSVrGvJQOIxxOA9C) | [DJ Stephan](https://open.spotify.com/artist/0fxvzvlu3VQV3wDIhAxBmn), [Elena Tsagrinou](https://open.spotify.com/artist/4TgsxeFPNtkZ5lneq9AceU) | [Misi Kardia](https://open.spotify.com/album/27vjoREultOZefvf0GwvHD) | 3:58 | 2024-06-27 | 2024-08-16 |
 | [Monadiki](https://open.spotify.com/track/1fmfblkNCFnGoarXOduqLb) | [Konstantinos Nazis](https://open.spotify.com/artist/1ou8OtMKGI4xKvD0OHiP8X), [Ortiz](https://open.spotify.com/artist/6nidPawoE1wPgAtFmeyXyR) | [Monadiki](https://open.spotify.com/album/4WDKc0NZEWEcaE3mJz4ja9) | 2:24 | 2024-06-27 | 2024-07-12 |
 | [Monaxiki Kardia](https://open.spotify.com/track/46aH7ZYbc2P5qQno3G49OH) | [Melisses](https://open.spotify.com/artist/2ra3quFhImLyv0c9XTnWFl) | [Monaxiki Kardia](https://open.spotify.com/album/2QSe5EEkKfKX9CGyVRkesC) | 2:32 | 2024-06-27 | 2024-11-29 |
-| [MONOTONIA](https://open.spotify.com/track/19ADuEN97q85XJ5Ngsjm3m) | [Tamta](https://open.spotify.com/artist/0VGybH10ziMPo99SYOwMoQ), [LILA](https://open.spotify.com/artist/69EosSfMcqIxCMw7VeVPVC) | [THE HEROINE](https://open.spotify.com/album/5AQDDV0a6VrIRsuDdRz3UY) | 2:53 | 2025-04-03 |  |
+| [MONOTONIA](https://open.spotify.com/track/19ADuEN97q85XJ5Ngsjm3m) | [Tamta](https://open.spotify.com/artist/0VGybH10ziMPo99SYOwMoQ), [LILA](https://open.spotify.com/artist/69EosSfMcqIxCMw7VeVPVC) | [THE HEROINE](https://open.spotify.com/album/5AQDDV0a6VrIRsuDdRz3UY) | 2:53 | 2025-04-03 | 2025-05-30 |
 | [Mykonos](https://open.spotify.com/track/3hVdZlwpU35m5vtPxmv7OI) | [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK) | [Mykonos](https://open.spotify.com/album/1WhXSHBpgNQkfVFzmqJaH1) | 2:13 | 2024-06-27 | 2024-07-19 |
 | [Mykonos \- Afro House Remix](https://open.spotify.com/track/6ojWvKOZz9V2dESo6KBotL) | [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK), [Michael Tsaousopoulos](https://open.spotify.com/artist/5PqeqrwrU93NISsOPbYPHN) | [Mykonos \(Afro House Remix\)](https://open.spotify.com/album/3TPCyqLmLEa1i1ANxmHGpd) | 2:28 | 2024-07-18 | 2024-10-25 |
 | [Mythos](https://open.spotify.com/track/0fSun9srR8uNjfSMYkxVn5) | [Josephine](https://open.spotify.com/artist/1fAotS2jUxpI8bnIxd5cIR) | [Mythos](https://open.spotify.com/album/58ot8gXv5rkCoHrsPKRENm) | 2:54 | 2024-09-12 | 2025-05-09 |

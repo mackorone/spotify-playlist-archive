@@ -219,6 +219,28 @@
     },
     {
       "album": {
+        "name": "Santos Grifos, Vol. 1",
+        "url": "https://open.spotify.com/album/1vJm0PP19mjHS2BQfzZP3H"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        },
+        {
+          "name": "GH",
+          "url": "https://open.spotify.com/artist/6Jd5jcAPjhgYNQFCcZmK5M"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293900,
+      "name": "Cagapalos",
+      "url": "https://open.spotify.com/track/45baYHBlvniOn4TTm9tIkZ"
+    },
+    {
+      "album": {
         "name": "Estilo Fino",
         "url": "https://open.spotify.com/album/4yblA3RA4p10vG7lZ45hHh"
       },
@@ -610,7 +632,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 330161,
       "name": "Las Chidas Pal Cuarto",
       "url": "https://open.spotify.com/track/0crzECUaFwVsvR2Ew6dYpX"

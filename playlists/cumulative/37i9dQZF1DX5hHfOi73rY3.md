@@ -4,7 +4,7 @@
 
 > Dance anthems from the club to your ears!
 
-224 songs - 15 hr 38 min
+226 songs - 15 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Au Seve](https://open.spotify.com/track/2IZRKyfNf5wkUxz89DSCgV) | [Julio Bashmore](https://open.spotify.com/artist/0WAZJYudbUpl0EOjvdrnRG) | [Au Seve](https://open.spotify.com/album/4B7suN0MtI45BxJCDleJ8r) | 6:33 | 2020-11-06 | 2022-08-17 |
 | [Au Seve](https://open.spotify.com/track/7w0W6W9dz5lVH3M3IWgwIT) | [Julio Bashmore](https://open.spotify.com/artist/0WAZJYudbUpl0EOjvdrnRG) | [Au Seve](https://open.spotify.com/album/2khQnnhKRdljReqsaYuk3N) | 6:33 | 2024-01-12 | 2025-05-17 |
 | [Back It Up](https://open.spotify.com/track/5bdKaYnig6IqBsQQqBUjHm) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6), [Omar+](https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc) | [Back It Up](https://open.spotify.com/album/3zmA0CrYMwFY92X9DkK2fY) | 2:36 | 2025-03-28 |  |
-| [Bass Tool \- Radio Edit](https://open.spotify.com/track/6OXVILGyLRDDv0y0oRYErc) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW), [Alex Culross](https://open.spotify.com/artist/10mUhPf4y20AdcI5AwrNdD) | [Bass Tool \(Radio Edit\)](https://open.spotify.com/album/003Bk58h37JXh5Pyl6EIvy) | 3:42 | 2025-05-01 |  |
+| [Bass Tool \- Radio Edit](https://open.spotify.com/track/6OXVILGyLRDDv0y0oRYErc) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW), [Alex Culross](https://open.spotify.com/artist/10mUhPf4y20AdcI5AwrNdD) | [Bass Tool \(Radio Edit\)](https://open.spotify.com/album/003Bk58h37JXh5Pyl6EIvy) | 3:42 | 2025-05-01 | 2025-05-30 |
 | [Bass Up To The Top](https://open.spotify.com/track/0Z5iboHxPmyilWJQFnHZaY) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6) | [Bass Up To The Top](https://open.spotify.com/album/0dPApl3iIct0S2T9lEtxSV) | 3:16 | 2024-09-27 |  |
 | [Bax](https://open.spotify.com/track/4x0WzGuKSqZkDKi0N69CLd) | [Mosca](https://open.spotify.com/artist/09w4rprrROhfc0yevxXCGg) | [Done Me Wrong / Bax](https://open.spotify.com/album/30mWh7iOWxTJTLExLXCS1t) | 5:33 | 2020-11-06 | 2022-07-19 |
 | [Be Sharp Say Nowt](https://open.spotify.com/track/6TvYtabYoc5plSB9kJpgOs) | [Patrick Topping](https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa) | [Be Sharp Say Nowt](https://open.spotify.com/album/1Wx6VPrYYhN56cBE99izlc) | 3:48 | 2020-11-06 | 2023-11-05 |
@@ -165,7 +165,7 @@
 | [Pool Party Music](https://open.spotify.com/track/0PPpehRoJCBZYmZSUEJcot) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Pool Party Music](https://open.spotify.com/album/6D0804q8EoEHqWUH3wGGxF) | 6:07 | 2020-11-06 | 2022-06-14 |
 | [Pool Party Music](https://open.spotify.com/track/1A7FhWZWfLx07aVnRHczx9) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [2015 \- 2017](https://open.spotify.com/album/0s3h9M4OYxzJ1JSCfbg1yE) | 6:07 | 2020-11-06 | 2022-08-19 |
 | [Promises](https://open.spotify.com/track/2LCCxYQ5dw1dz3Pu6APEUH) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD) | [Welcome Reality +](https://open.spotify.com/album/1hMXqmEdtxYenRDVm4hEgu) | 4:17 | 2020-11-06 | 2024-03-04 |
-| [Ready \(feat\. Art School Girlfriend\)](https://open.spotify.com/track/2V1lVlC950jaMioIm24jIj) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh), [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [Ready \(feat\. Art School Girlfriend\)](https://open.spotify.com/album/08YZCza6AHI7EThW8xyX8L) | 3:47 | 2024-07-12 |  |
+| [Ready \(feat\. Art School Girlfriend\)](https://open.spotify.com/track/2V1lVlC950jaMioIm24jIj) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh), [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [Ready \(feat\. Art School Girlfriend\)](https://open.spotify.com/album/08YZCza6AHI7EThW8xyX8L) | 3:47 | 2024-07-12 | 2025-05-30 |
 | [Ready To Go \(My Addiction\)](https://open.spotify.com/track/38WaKuEd7hiWFsT0kbCwFn) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Alex Guesta](https://open.spotify.com/artist/1oXk9MOvrFIybs5GMosvh3) | [Ready To Go \(My Addiction\)](https://open.spotify.com/album/7iyKDcE1bonqByVb0anyKo) | 2:24 | 2024-01-26 |  |
 | [Real Life](https://open.spotify.com/track/6jz9EMWHffNKVlZQVXOLoz) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [NAATIONS](https://open.spotify.com/artist/6mpxgK8EZh8VDoe6trGF0f) | [Real Life](https://open.spotify.com/album/55pLHOPxFKEi82Z15IeHxq) | 3:25 | 2020-11-06 | 2024-01-13 |
 | [Remind Me](https://open.spotify.com/track/7dFJsQQMwSlelur7tPuwnr) | [High Contrast](https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT) | [Night Gallery](https://open.spotify.com/album/4hzruXvXyUg5hJwP37CJrF) | 4:01 | 2020-11-06 | 2024-03-01 |
@@ -223,6 +223,7 @@
 | [What I Might Do](https://open.spotify.com/track/5ea9yZi9Dv6MuJa8V2kpUq) | [Ben Pearce](https://open.spotify.com/artist/0mnlHIcYkz3TQQ07xiFwuz) | [What I Might Do \(Radio Edit\)](https://open.spotify.com/album/4SdrC7w58BEVFdaOhbWbBG) | 3:15 | 2020-11-06 | 2025-05-17 |
 | [What They Say](https://open.spotify.com/track/5S7Y5HgQ2HPqiCVkKylT2r) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [What They Say EP](https://open.spotify.com/album/0DECxh5mdTBhB2Rw9qE7UI) | 6:40 | 2020-11-06 | 2024-04-19 |
 | [What They Say](https://open.spotify.com/track/7HlvFIJDmcQRRn45aRd46t) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [What They Say EP](https://open.spotify.com/album/3c2dnQRrresDwsCPLLdmB7) | 6:40 | 2020-11-06 | 2025-05-02 |
+| [Where You Need To Be](https://open.spotify.com/track/5wAxcO9N89pLKRo68vMqJL) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [Where You Need To Be](https://open.spotify.com/album/5zuAaJ9wg60dc7UOVHVgRz) | 4:13 | 2025-05-29 |  |
 | [White Noise](https://open.spotify.com/track/17tf2acTqe7iWvZ4H1fvkE) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [The Singles](https://open.spotify.com/album/0BnvB1gVzTiJM6nd9kpvTY) | 5:40 | 2020-11-06 | 2024-01-13 |
 | [White Noise](https://open.spotify.com/track/1j29DJ3SWu4fAtOeoPSYBL) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [Deep House 2020](https://open.spotify.com/album/29HYXKZgizMLBuVOdI7oI7) | 5:40 | 2020-11-06 | 2022-11-13 |
 | [White Noise](https://open.spotify.com/track/3nOMGGeQppHhfrkQ65VLVQ) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [White Noise](https://open.spotify.com/album/1c1OQBsCs2F4kRY8CXauuo) | 5:40 | 2020-11-06 | 2022-07-29 |
@@ -231,6 +232,7 @@
 | [Ya Kidding](https://open.spotify.com/track/3fDgxdcf0jeJgGiZJGUmyK) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Ya Kidding](https://open.spotify.com/album/3asXE8koS98nGPVDSPKe5e) | 3:58 | 2020-11-06 | 2023-10-16 |
 | [Yosemite](https://open.spotify.com/track/00aaxjGeWqhsDSqPIVf3AK) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Gotta Have It](https://open.spotify.com/album/5NovyjdqAKa8Sj2ck8BAka) | 4:26 | 2025-05-01 |  |
 | [You Know It](https://open.spotify.com/track/64Kw68jjKqqYK5hQrCkrVT) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [You Know It](https://open.spotify.com/album/1pQyujwr8WMM8nXV21a5tY) | 3:55 | 2024-03-01 | 2024-07-05 |
+| [You're Not a Popstar](https://open.spotify.com/track/1gQgCVN31mBVPemIEeSLTA) | [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ) | [You're Not a Popstar](https://open.spotify.com/album/4rs98cVa5lL5pyBprgNQMW) | 3:44 | 2025-05-29 |  |
 | [Young World](https://open.spotify.com/track/6TJB8afxUyE6AXdWtmhPng) | [A.D.O.R.](https://open.spotify.com/artist/5dniQPRxD0LDjCqMI4rvrM), [Smokey Bubblin' B](https://open.spotify.com/artist/1iXq8vdKgJp43m1vhiAmUM) | [Young World](https://open.spotify.com/album/09zDHAHu0oYlk5gQoOy1um) | 2:57 | 2024-07-05 |  |
 
 \*This playlist was first scraped on 2022-01-18. Prior content cannot be recovered.

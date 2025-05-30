@@ -4,7 +4,7 @@
 
 > sexy afrobeats
 
-137 songs - 6 hr 58 min
+138 songs - 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Judas](https://open.spotify.com/track/6nEBCXcL5Bh4g2fhZclX5c) | [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88) | [Testament](https://open.spotify.com/album/06klV2isRMZbEofIvOunPM) | 2:08 | 2024-02-09 | 2024-04-19 |
 | [Keep Going \(Aaaaahhhhh\)](https://open.spotify.com/track/1Gyltewwv25s0qhYT8NFdN) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Glad You Came](https://open.spotify.com/album/6CmStg5HcRCi7mJyThSbIR) | 2:48 | 2024-12-16 |  |
 | [KEEPS](https://open.spotify.com/track/6YtJ7qXFloHoIKS0GpFzIh) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [GEMINI](https://open.spotify.com/album/6Vj6WP5MosdtM023SqTAul) | 2:56 | 2024-02-09 | 2024-04-19 |
+| [Ladida](https://open.spotify.com/track/0UewHkoEkSW2cbpNbLPI4F) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [Ladida](https://open.spotify.com/album/5H10ukTXc6mnzTe7leaQPJ) | 2:11 | 2025-05-30 |  |
 | [Let Me](https://open.spotify.com/track/7jbR0coXoqygIfc6OFW8ly) | [NNAVY](https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Hendrick Sam](https://open.spotify.com/artist/3JCq2a0rntSwS9gtnhfNO9) | [CLOSER](https://open.spotify.com/album/4cSCZXFa68eNFY1pEeIzcW) | 3:48 | 2024-04-26 | 2024-06-01 |
 | [Lost](https://open.spotify.com/track/3zRzwveWZimcIXck96oqcr) | [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [Lost](https://open.spotify.com/album/2bKhMLrApxroMa3x8ry236) | 2:55 | 2025-02-28 |  |
 | [Love](https://open.spotify.com/track/2eCdZl32tNYS2rPFIwKR8R) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Medea](https://open.spotify.com/album/3WCA7wBg79hLEMANiMGuWM) | 2:36 | 2024-04-05 |  |
@@ -90,7 +91,7 @@
 | [PARADIGM](https://open.spotify.com/track/6oDWFKFA0XZGCc5fm8te31) | [Avara](https://open.spotify.com/artist/63PeJBCkvzMDtyfc0krQyd), [Deb Fan](https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m) | [PARADIGM](https://open.spotify.com/album/6qTkzqGS5T1oeoqWcuKQGQ) | 3:15 | 2024-10-04 | 2025-03-22 |
 | [PAST MYSELF](https://open.spotify.com/track/7dHrE8omPpvgst2M9ZEQmf) | [Filah Lah Lah](https://open.spotify.com/artist/0xACKjkY8pqrot7s6da1Sw) | [PAST MYSELF](https://open.spotify.com/album/0ZXOuk6KcYEGrYoXTlh3y2) | 2:40 | 2024-03-08 |  |
 | [Patience](https://open.spotify.com/track/4dNzOobux32dS9pHkJMZgV) | [Ahki](https://open.spotify.com/artist/5875m9R9PmEl5MLJv8Bm56) | [Patience](https://open.spotify.com/album/4UMBCdetMsuG56lwioYP2R) | 1:42 | 2024-03-29 | 2024-06-21 |
-| [Pressure](https://open.spotify.com/track/40koVJVPscwPtadljPKMjq) | [nezsa](https://open.spotify.com/artist/5yIW4jgRpDB1ytNFHSq8XM) | [Soul Searching](https://open.spotify.com/album/4NspnWD3q3ji5ufaeTy7Lq) | 2:54 | 2024-04-19 |  |
+| [Pressure](https://open.spotify.com/track/40koVJVPscwPtadljPKMjq) | [nezsa](https://open.spotify.com/artist/5yIW4jgRpDB1ytNFHSq8XM) | [Soul Searching](https://open.spotify.com/album/4NspnWD3q3ji5ufaeTy7Lq) | 2:54 | 2024-04-19 | 2025-05-30 |
 | [project \- A COLORS SHOW](https://open.spotify.com/track/0ZgroOYQAUzfcQYS6wibf9) | [Zowie Kengocha](https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci) | [project \- A COLORS SHOW](https://open.spotify.com/album/5tHWyhdLYInrDivcSPWpnC) | 3:28 | 2024-02-09 | 2024-09-28 |
 | [Promise](https://open.spotify.com/track/0XiqUgSUvwPCyi6iyEES6N) | [A\-swxg](https://open.spotify.com/artist/4WLrRRtBJv9WV3A5KVClPg) | [Promise](https://open.spotify.com/album/6wdW7MEbcMGqrsFKDVB21x) | 2:47 | 2024-02-09 | 2024-10-19 |
 | [Pull up](https://open.spotify.com/track/1JvqN0vUrSfB01bQoGexLn) | [Naka](https://open.spotify.com/artist/52DXXortL8zEG5MqscRQmn) | [VIBEST4R EP](https://open.spotify.com/album/7rCXMRr1MrMVijZaUDuYjd) | 2:38 | 2025-05-16 |  |

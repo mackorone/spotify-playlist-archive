@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall, shatta & bouyon du moment. Photo : Genezio x Kalash",
+  "description": "Les hits dancehall, shatta & bouyon du moment. Photo : Says'z",
   "name": "Dancehall Station",
   "tracks": [
     {
@@ -558,7 +558,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 144489,
       "name": "Ba Ba Bad",
       "url": "https://open.spotify.com/track/4jW4qcZrYF0uy0WwGi9Fwt"
@@ -988,7 +988,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 163086,
       "name": "Barbe \u00e0 papa",
       "url": "https://open.spotify.com/track/2L4TCE9ejbMa5agBBFvOVp"
@@ -1344,7 +1344,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 151384,
       "name": "Bend Your Back",
       "url": "https://open.spotify.com/track/5UWTTey8whhTjzPQWHgz3a"
@@ -2091,6 +2091,32 @@
     },
     {
       "album": {
+        "name": "Buss a Whine",
+        "url": "https://open.spotify.com/album/2O7NFz737LgCjAmqWdswst"
+      },
+      "artists": [
+        {
+          "name": "Kybba",
+          "url": "https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA"
+        },
+        {
+          "name": "Leftside",
+          "url": "https://open.spotify.com/artist/187qoiisjzqvj3wsBWLotr"
+        },
+        {
+          "name": "Bamby",
+          "url": "https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147878,
+      "name": "Buss a Whine",
+      "url": "https://open.spotify.com/track/6UQLhEkY7ZfpMbctfg490g"
+    },
+    {
+      "album": {
         "name": "Buss Out",
         "url": "https://open.spotify.com/album/5EDfw383RolFVbzUXCAVSm"
       },
@@ -2413,6 +2439,28 @@
     },
     {
       "album": {
+        "name": "Chill (feat. Maureen) [Remix]",
+        "url": "https://open.spotify.com/album/7bzwfHvf59erhAqWReqF78"
+      },
+      "artists": [
+        {
+          "name": "Youka",
+          "url": "https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6"
+        },
+        {
+          "name": "Maureen",
+          "url": "https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103553,
+      "name": "Chill (feat. Maureen) - Remix",
+      "url": "https://open.spotify.com/track/75YwVh5EVyULLpHdgSQzVz"
+    },
+    {
+      "album": {
         "name": "CHO CHO",
         "url": "https://open.spotify.com/album/5K7bJMLFHssW9nhlXQLEuN"
       },
@@ -2534,7 +2582,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 136470,
       "name": "Clean",
       "url": "https://open.spotify.com/track/7tyHwcv9QHq6Wjv3kdSoCB"
@@ -2778,6 +2826,24 @@
       "duration_ms": 132310,
       "name": "Count Your Blessings",
       "url": "https://open.spotify.com/track/2SWBD2z2Hmh0VLirGrM7vM"
+    },
+    {
+      "album": {
+        "name": "First Step",
+        "url": "https://open.spotify.com/album/1omcxreR1hXHYp6ohxfB0U"
+      },
+      "artists": [
+        {
+          "name": "Poplane",
+          "url": "https://open.spotify.com/artist/3eWPmecL05k40mZuIJ1MIo"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140699,
+      "name": "Criminel",
+      "url": "https://open.spotify.com/track/0HjQPxuUC6MDGLFR8shVGx"
     },
     {
       "album": {
@@ -3604,7 +3670,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 114407,
       "name": "ESMERALDA",
       "url": "https://open.spotify.com/track/6ConL2W4eA29qy66IPAm0U"
@@ -4080,6 +4146,32 @@
       "duration_ms": 140797,
       "name": "Fury II",
       "url": "https://open.spotify.com/track/7nOSXDhago61WGGPaLACJq"
+    },
+    {
+      "album": {
+        "name": "Fyah Bun Dem",
+        "url": "https://open.spotify.com/album/3XkzDjqSo0VuyRttQCsbw6"
+      },
+      "artists": [
+        {
+          "name": "Tribal Kush",
+          "url": "https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD"
+        },
+        {
+          "name": "Kalibwoy",
+          "url": "https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x"
+        },
+        {
+          "name": "Travon John",
+          "url": "https://open.spotify.com/artist/2VM6HZlcBPRoyj8O2N233m"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149387,
+      "name": "Fyah Bun Dem",
+      "url": "https://open.spotify.com/track/2OyMfnMRIime36z9iFbioI"
     },
     {
       "album": {
@@ -5864,7 +5956,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 164234,
       "name": "KONGOLESE SOUS BBL",
       "url": "https://open.spotify.com/track/5dBRz6giSIBDkXOhOD80KF"
@@ -6508,6 +6600,28 @@
       "duration_ms": 168303,
       "name": "MA JOLIE",
       "url": "https://open.spotify.com/track/44poH5uwgwcfhprLBBt9a6"
+    },
+    {
+      "album": {
+        "name": "Madame",
+        "url": "https://open.spotify.com/album/2yWrOGBkZTBesVnY5kt42m"
+      },
+      "artists": [
+        {
+          "name": "X-Man",
+          "url": "https://open.spotify.com/artist/4VYr2jD1AzhmEyT2L8xTg4"
+        },
+        {
+          "name": "Young Chang MC",
+          "url": "https://open.spotify.com/artist/0Y4XPAlixU89K3Z6oRziZ1"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182970,
+      "name": "Madame",
+      "url": "https://open.spotify.com/track/71L0HR1alA33gkb2MRy6EC"
     },
     {
       "album": {
@@ -7500,6 +7614,24 @@
       "duration_ms": 129593,
       "name": "Narcos",
       "url": "https://open.spotify.com/track/310uX0CtnHdFhbTAjADKBs"
+    },
+    {
+      "album": {
+        "name": "MOSA\u00cfQUE",
+        "url": "https://open.spotify.com/album/1x2v9tCJZfJim0MK8XsjLa"
+      },
+      "artists": [
+        {
+          "name": "Says'z",
+          "url": "https://open.spotify.com/artist/2vCOfKQ7WFyWmuHbTz7OgG"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133866,
+      "name": "NATHALIE",
+      "url": "https://open.spotify.com/track/11F43N5iKagRM8g5EZ3CuW"
     },
     {
       "album": {
@@ -9672,7 +9804,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 134400,
       "name": "Senb\u00f2t",
       "url": "https://open.spotify.com/track/2qbcOoBBiQpGC2icOTefYM"
@@ -11992,6 +12124,24 @@
       "duration_ms": 210989,
       "name": "Whine",
       "url": "https://open.spotify.com/track/036joKTnTtJfJVifnRhOqj"
+    },
+    {
+      "album": {
+        "name": "Whine",
+        "url": "https://open.spotify.com/album/4T7ESVSUoJqjoMIubvcZdB"
+      },
+      "artists": [
+        {
+          "name": "TKS 2G",
+          "url": "https://open.spotify.com/artist/26ZKmgHKJWQdnSKUZCVEKa"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164600,
+      "name": "Whine",
+      "url": "https://open.spotify.com/track/46vaBmVDzufp98VPJCwtAU"
     },
     {
       "album": {

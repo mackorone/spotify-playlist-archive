@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "Go hard or go home. Cover: Georgie Riot",
+  "description": "Go hard or go home. Cover: skantia",
   "name": "Jump Up!",
   "tracks": [
     {
@@ -1718,7 +1718,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 249658,
       "name": "Drop It",
       "url": "https://open.spotify.com/track/4I9vO5QOgxfGCOo3iwyW6v"
@@ -2181,6 +2181,32 @@
     },
     {
       "album": {
+        "name": "Good Times (feat. ellen lynch)",
+        "url": "https://open.spotify.com/album/53fbG8wV8ADsa1iIc2ZeAu"
+      },
+      "artists": [
+        {
+          "name": "Tsuki",
+          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
+        },
+        {
+          "name": "Sub Zero",
+          "url": "https://open.spotify.com/artist/3kMQ0Gx56mVysMT3fqyneR"
+        },
+        {
+          "name": "ellen lynch",
+          "url": "https://open.spotify.com/artist/4l2D4sguBSSAKbLk68ACGi"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201603,
+      "name": "Good Times (feat. ellen lynch)",
+      "url": "https://open.spotify.com/track/5YrrUGwh8YgQCnj2sMRMEf"
+    },
+    {
+      "album": {
         "name": "Goose Chase",
         "url": "https://open.spotify.com/album/4YTqjAUHJ3vqQk9uNJeGbX"
       },
@@ -2403,6 +2429,28 @@
     },
     {
       "album": {
+        "name": "Hijack",
+        "url": "https://open.spotify.com/album/4Tzxhm1EfOEUu6VelOuS3h"
+      },
+      "artists": [
+        {
+          "name": "1991",
+          "url": "https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy"
+        },
+        {
+          "name": "Rova",
+          "url": "https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155913,
+      "name": "Hijack",
+      "url": "https://open.spotify.com/track/0GHfI7rdYSibiQTR8D1lTl"
+    },
+    {
+      "album": {
         "name": "Home Run / The Inspector",
         "url": "https://open.spotify.com/album/4PB7CBFGjWQ6pLvRXVkB5e"
       },
@@ -2414,7 +2462,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 224914,
       "name": "Home Run",
       "url": "https://open.spotify.com/track/3Viz3RJtlaQcML3N9FwM1K"
@@ -2502,7 +2550,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 200228,
       "name": "I See You",
       "url": "https://open.spotify.com/track/1h9CeTtiXEJ6aPf3CwTb0s"
@@ -2554,6 +2602,28 @@
       "duration_ms": 193643,
       "name": "IFTK - Vibe Chemistry Remix",
       "url": "https://open.spotify.com/track/7lXkhek4aKD6v01Rq8fotO"
+    },
+    {
+      "album": {
+        "name": "Immortal",
+        "url": "https://open.spotify.com/album/4O5lcsCUGhjRHsTtuAn3rX"
+      },
+      "artists": [
+        {
+          "name": "Annix",
+          "url": "https://open.spotify.com/artist/0llNeW8Q52i2sxV7DsFASR"
+        },
+        {
+          "name": "Enei",
+          "url": "https://open.spotify.com/artist/6X3QjCYg5HcTwO5FPVQj0J"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197485,
+      "name": "Immortal",
+      "url": "https://open.spotify.com/track/65N1APSZgR83n1AP8SNj2v"
     },
     {
       "album": {
@@ -3046,7 +3116,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-23",
+      "date_removed": null,
       "duration_ms": 200914,
       "name": "Light Up",
       "url": "https://open.spotify.com/track/76nEx8wI5dCH3RKM2v0c2y"
@@ -3108,7 +3178,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 265089,
       "name": "Listen",
       "url": "https://open.spotify.com/track/05D17BU7wl5D6LdAYiKZvn"
@@ -5218,7 +5288,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 160589,
       "name": "Take Off",
       "url": "https://open.spotify.com/track/79qQRlz62gtNL7pkOhKupN"
@@ -6000,6 +6070,36 @@
       "duration_ms": 216257,
       "name": "WORRY",
       "url": "https://open.spotify.com/track/3KHU0pDA9mI0sd5klcXDzJ"
+    },
+    {
+      "album": {
+        "name": "Yapa Yapa (Shut It Pls) [Serum Remix]",
+        "url": "https://open.spotify.com/album/3nxtYIeazKAFjJncFCPrAs"
+      },
+      "artists": [
+        {
+          "name": "Badger",
+          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
+        },
+        {
+          "name": "Big Shaq",
+          "url": "https://open.spotify.com/artist/7mnAzEmgquhrVtGob81SmO"
+        },
+        {
+          "name": "Dr Ofori",
+          "url": "https://open.spotify.com/artist/4jsOeCZLQG1ygXCF2pMqvp"
+        },
+        {
+          "name": "Serum",
+          "url": "https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198857,
+      "name": "Yapa Yapa (Shut It Pls) - Serum Remix",
+      "url": "https://open.spotify.com/track/2eUomHlhqjWsSEJiYS9dJk"
     },
     {
       "album": {

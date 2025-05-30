@@ -4,7 +4,7 @@
 
 > Music from "Idle Master SideM"\. アTHE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-211 songs - 15 hr 30 min
+212 songs - 15 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [DRIVE A LIVE](https://open.spotify.com/track/1i0sbVK0aQfTymcCzmw08e) | [Jupiter](https://open.spotify.com/artist/7yIZvf93cvym5UEV2IGd8D) | [THE IDOLM@STER SideM ST@RTING LINE\-01 Jupiter](https://open.spotify.com/album/22IQ39FuyEE3gXT8wAW9n1) | 4:42 | 2022-12-01 | 2025-04-02 |
 | [DRIVE A LIVE](https://open.spotify.com/track/3kw7baqUGEt2tgpb82X4R9) | [S.E.M](https://open.spotify.com/artist/16f65kX5QJikhy2xfRMHq1) | [THE IDOLM@STER SideM ST@RTING LINE\-06 S.E.M](https://open.spotify.com/album/21ZxRoS0gEeQVaxHuIreOH) | 4:42 | 2022-12-01 | 2022-12-03 |
 | [DRIVE A LIVE](https://open.spotify.com/track/5kNSHAXZVgcDDLYbIJ3p9d) | [神速一魂](https://open.spotify.com/artist/4XqIzb0wMoHGuRN6c8Slrd) | [THE IDOLM@STER SideM ST@RTING LINE\-09 神速一魂](https://open.spotify.com/album/0V7ZKaIhX9xTlWvhiOJ5qk) | 4:41 | 2022-12-01 | 2022-12-03 |
+| [Echoes My Note](https://open.spotify.com/track/0aAoE7GsF884YSSXAMEt23) | [神楽 麗 \(CV.永野由祐\)](https://open.spotify.com/artist/362D8P2T3DvFL9bU2Zs3jo) | [THE IDOLM@STER SideM ORIGIN@L PIECES 02](https://open.spotify.com/album/7vKuKjUjsikdlFhOXbX4Ld) | 4:53 | 2025-01-14 |  |
 | [Eclipse of the Heart](https://open.spotify.com/track/20syCwJ89I5UpsHfYKzkS2) | [Legenders](https://open.spotify.com/artist/4iG460lxCJz1J6UYEbYxTR) | [THE IDOLM@STER SideM 49 ELEMENTS \-11 Legenders](https://open.spotify.com/album/2rp14XeiuA5mYCZoO5D1Jw) | 4:20 | 2024-02-13 |  |
 | [Eternal Fantasia](https://open.spotify.com/track/4gojkZt9thXg4o2wGEF5zq) | [Café Parade](https://open.spotify.com/artist/1uTDh4CLd762oal0htQQXe), [Altessimo](https://open.spotify.com/artist/2viMthZdiHQywTnV7zxUh8), [Legenders](https://open.spotify.com/artist/3nF9VBtBAC5Bi3vkIV1Ce6) | [THE IDOLM@STER SideM 3rd ANNIVERSARY 01](https://open.spotify.com/album/0pKniFFDpwItfygikcY5BG) | 4:36 | 2024-03-05 |  |
 | [EVOLUTION](https://open.spotify.com/track/0gUSRpLutcxzLYewLc7leg) | [S.E.M](https://open.spotify.com/artist/6z50vl34UBNvRB2CQGhDbj) | [THE IDOLM@STER SideM 5th ANNIVERSARY 04](https://open.spotify.com/album/5Yet8gOB7zDw4ao5hA0WNS) | 4:46 | 2022-12-01 | 2023-01-15 |
@@ -53,7 +54,7 @@
 | [Fun! Fun! Festa!](https://open.spotify.com/track/6lEsKbmCYQftBozkzK2QP4) | [Beit](https://open.spotify.com/artist/1AZCEPWgL4qpqfc86wi9Ah) | [THE IDOLM@STER SideM 2nd ANNIVERSARY 02](https://open.spotify.com/album/0lRIL8bWRWlOpSZGOmkgSF) | 4:52 | 2022-12-01 |  |
 | [Genesis Contact](https://open.spotify.com/track/11siJxjQ7hd0WAwdUnXu7m) | [冬美 旬 \(CV.永塚拓馬\)](https://open.spotify.com/artist/5sax8TYbIWIh8oAOxTBIOb), [天ヶ瀬冬馬 \(CV.寺島拓篤\)](https://open.spotify.com/artist/4zXriNQJamN0PnIh2htWGZ), [都築 圭 \(CV.土岐隼一\)](https://open.spotify.com/artist/4uLjWMjKIIfL9EIjR6vnQx), [東雲荘一郎 \(CV.天﨑滉平\)](https://open.spotify.com/artist/7Fag7eFJZILyzgp3Y7TFn2), [華村翔真 \(CV.バレッタ裕\)](https://open.spotify.com/artist/2eGwnPZ5MnK9A5XTEoOW3l) | [Genesis Contact](https://open.spotify.com/album/0xSFCJ8rDhy7K1WTY5kBKv) | 4:42 | 2022-12-01 | 2025-02-25 |
 | [Genuine feelings](https://open.spotify.com/track/4B3Hjgv7A2PT20NbafOmJn) | [冬美 旬 \(CV.永塚拓馬\)](https://open.spotify.com/artist/5sax8TYbIWIh8oAOxTBIOb) | [THE IDOLM@STER SideM ORIGIN@L PIECES 08](https://open.spotify.com/album/6QEUejxA2SoviwNNtk66rh) | 4:41 | 2022-12-01 |  |
-| [GIVE ME FUSION](https://open.spotify.com/track/2u88brqMvhPCrtFqSzxO61) | [卯月巻緒 \(CV.児玉卓也\)](https://open.spotify.com/artist/33NFAXM9xKkQrPmFvb6omi) | [THE IDOLM@STER SideM 49 ELEMENTS \-08 Café Parade](https://open.spotify.com/album/00vbT7zTPrbtgaaAQom31L) | 3:40 | 2023-03-07 |  |
+| [GIVE ME FUSION](https://open.spotify.com/track/2u88brqMvhPCrtFqSzxO61) | [卯月巻緒 \(CV.児玉卓也\)](https://open.spotify.com/artist/33NFAXM9xKkQrPmFvb6omi) | [THE IDOLM@STER SideM 49 ELEMENTS \-08 Café Parade](https://open.spotify.com/album/00vbT7zTPrbtgaaAQom31L) | 3:40 | 2023-03-07 | 2025-05-30 |
 | [GLORIA MOMENT](https://open.spotify.com/track/53c6D3TlwsFp2qfyOjLUOz) | [Jupiter](https://open.spotify.com/artist/7yIZvf93cvym5UEV2IGd8D) | [THE IDOLM@STER SideM 2nd ANNIVERSARY 03](https://open.spotify.com/album/0f7ipGixpoqOH09KNBGAUk) | 4:35 | 2024-12-10 |  |
 | [GO AHEAD SMILE!](https://open.spotify.com/track/5QXLhbfvw1bVcYmvNjxl6l) | [信玄誠司 \(CV.増元拓也\)](https://open.spotify.com/artist/3IiD34ikp0g9XnQkHyjrAf) | [THE IDOLM@STER SideM ORIGIN@L PIECES 06](https://open.spotify.com/album/1Jq5Y3rsVLxZ5taREc1AeB) | 4:35 | 2024-03-05 | 2025-05-16 |
 | [GOLD ～No.79～](https://open.spotify.com/track/7Iiphl7su3tJcxtby6XZoN) | [山下次郎 \(CV.中島ヨシキ\)](https://open.spotify.com/artist/3td7wBhA42i9AzLcbIzd0k) | [THE IDOLM@STER SideM ORIGIN@L PIECES 01](https://open.spotify.com/album/4wZuTqLrABThBNX1C7LZNC) | 4:22 | 2022-12-01 | 2025-01-10 |

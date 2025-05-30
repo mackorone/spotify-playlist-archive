@@ -1083,6 +1083,24 @@
     },
     {
       "album": {
+        "name": "A Minute, A Moment...",
+        "url": "https://open.spotify.com/album/02Im7TTPFgjVmXc3HpIkUj"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/3hZo9UznjcWfJ9vkOho6Ea"
+    },
+    {
+      "album": {
         "name": "Good Riddance",
         "url": "https://open.spotify.com/album/6jkkWXtKtdAxip4kYJMaJL"
       },
@@ -2638,7 +2656,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-30",
       "duration_ms": 187173,
       "name": "Part Of The Story",
       "url": "https://open.spotify.com/track/6jS0yEHw2vNXyCbY1DJJU4"

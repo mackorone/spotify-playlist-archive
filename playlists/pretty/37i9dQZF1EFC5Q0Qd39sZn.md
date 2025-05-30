@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,972 likes - 569 songs - 1 day 15 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,977 likes - 569 songs - 1 day 15 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -162,10 +162,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 152 | [Sweetest Sin](https://open.spotify.com/track/3YumK1QacSUMKO7KdGvMVP) | [Jessica Simpson](https://open.spotify.com/artist/2tFN9ubMXEhdAQvdQxcsma) | [In This Skin \(Deluxe Edition\)](https://open.spotify.com/album/1tCJPKhKa3j1OBgz0MhBUV) | 3:12 |
 | 153 | [Call the Shots \- From the Motion Picture "Miss Bala"](https://open.spotify.com/track/0omgsCxtyJoNhm0e5h9yPv) | [Leslie Grace](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc) | [Call the Shots \(From the Motion Picture "Miss Bala"\)](https://open.spotify.com/album/4IpwdybMmuiddQze9ul20w) | 3:31 |
 | 154 | [We All Fall Down](https://open.spotify.com/track/6eckoL4HX101w6fFqSSaRM) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Music From Another Dimension! \(Expanded Edition\)](https://open.spotify.com/album/39kme3iLwVpllmUCxrkcPn) | 5:14 |
-| 155 | [Wrap U Around Me](https://open.spotify.com/track/7yaSV1A46vEcTM27dpd8EC) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr) | [Tomorrow](https://open.spotify.com/album/33YSJfsBkjN3yqcq18bdRi) | 3:22 |
-| 156 | [I'm Still Breathing](https://open.spotify.com/track/7r3ZDv5CoIvWH0fDWMizJQ) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [The Heat](https://open.spotify.com/album/0UZsKcXzOehMvFWTiBlwMi) | 4:15 |
-| 157 | [You Knew Me When](https://open.spotify.com/track/0pW7lNBM7and8vGVQ6jMxo) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [I Am \(Deluxe\)](https://open.spotify.com/album/6rhUimbVJnPEmsmOBa5i2Y) | 3:40 |
-| 158 | [ANSWER YOUR PHONE](https://open.spotify.com/track/1exVyJr8vy1zslg9cFYmEs) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 4:01 |
+| 155 | [I'm Still Breathing](https://open.spotify.com/track/7r3ZDv5CoIvWH0fDWMizJQ) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [The Heat](https://open.spotify.com/album/0UZsKcXzOehMvFWTiBlwMi) | 4:15 |
+| 156 | [Wrap U Around Me](https://open.spotify.com/track/7yaSV1A46vEcTM27dpd8EC) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr) | [Tomorrow](https://open.spotify.com/album/33YSJfsBkjN3yqcq18bdRi) | 3:22 |
+| 157 | [ANSWER YOUR PHONE](https://open.spotify.com/track/1exVyJr8vy1zslg9cFYmEs) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 4:01 |
+| 158 | [You Knew Me When](https://open.spotify.com/track/0pW7lNBM7and8vGVQ6jMxo) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [I Am \(Deluxe\)](https://open.spotify.com/album/6rhUimbVJnPEmsmOBa5i2Y) | 3:40 |
 | 159 | [You Were Loved](https://open.spotify.com/track/5NGVnEhrimV9vYwPRxsM3i) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Preacher's Wife](https://open.spotify.com/album/4GtmXlzXsP67AKOVT8LWKK) | 4:10 |
 | 160 | [La Luna Hizo Esto](https://open.spotify.com/track/7gYRMOKThN8mxf18dR7vTO) | [Il Volo](https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t) | [Il Volo](https://open.spotify.com/album/1PgN8duH3bxGnO4MILfOt2) | 3:28 |
 | 161 | [Takin' Back My Heart](https://open.spotify.com/track/2ROJCBdOLQNp01eRXjsPG8) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Believe](https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth) | 4:32 |
@@ -578,4 +578,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 568 | [I'm Getting Used to You](https://open.spotify.com/track/4EM9yHufAESQ8eYSJy1rv1) | [Heaven is Shining](https://open.spotify.com/artist/6n2WzXV5xPZH3Iet8mKtd9) | [Dreaming of You](https://open.spotify.com/album/0OLKaGwn8zKJhrxHkUP6mR) | 4:05 |
 | 569 | [Christmas Through Your Eyes](https://open.spotify.com/track/0InukWZwlDhnSq4QokvV8u) | [Dj Christmas](https://open.spotify.com/artist/42JvsMIE5eb8lBvIZ4zfIl) | [CHRISTMAS PARTY \(PERFECT BEST MIX!\)](https://open.spotify.com/album/2S48s85SJZHOnmsBRVqikw) | 0:53 |
 
-Snapshot ID: `Abyp8gAAAABu9Va9N1e6yerS1eMsGIB3`
+Snapshot ID: `AbyvdAAAAABeCBNNmRTjzGVcJde5qmhz`

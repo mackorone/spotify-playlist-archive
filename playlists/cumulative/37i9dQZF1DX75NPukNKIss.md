@@ -2,9 +2,9 @@
 
 ### [Sexy Drill](https://open.spotify.com/playlist/37i9dQZF1DX75NPukNKIss)
 
-> Way 2 Slizzy\. Click into the feed to learn all about the movement\. Cover: Playboi Carti
+> Way 2 Slizzy\. Click into the feed to learn all about the movement\. Cover: Don Toliver
 
-122 songs - 5 hr 40 min
+123 songs - 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [COLD](https://open.spotify.com/track/2MlypFtQksknMDF1lTWd8g) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [COLD](https://open.spotify.com/album/79Hg45abjVAL52VXhjfXXG) | 2:23 | 2025-03-07 |  |
 | [Come Outside \(So Sick\)](https://open.spotify.com/track/6ueIEZa5Gbu6n9jLdFUyh9) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Richey Rich](https://open.spotify.com/album/2P2kHr1m4bZUN9fNn7eyYB) | 2:40 | 2024-11-08 |  |
 | [Confession](https://open.spotify.com/track/1YQrPTJGpJBX11sGdPHFJn) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Confession](https://open.spotify.com/album/0rzh6xdUO0raP6H7FmZHss) | 2:52 | 2024-10-25 |  |
+| [CONFETTI!](https://open.spotify.com/track/6fOIaML1pxZ1sZkLM7Al51) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d), [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [REAL RAW!](https://open.spotify.com/album/3iY0PNNnetAbPmKMWWDkKk) | 1:49 | 2025-05-30 |  |
 | [copy my drip](https://open.spotify.com/track/7bHIWlVy5WLS6RMRfwO0nv) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [copy my drip](https://open.spotify.com/album/65RYCA2Ve7EKew5hk3qiU6) | 2:18 | 2024-10-25 | 2025-02-08 |
 | [Cutesy](https://open.spotify.com/track/04Np3EvsIBgaDLriPvfxQn) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Cutesy](https://open.spotify.com/album/2fhVt4ZypAk6u1S4nMxDp6) | 3:01 | 2025-05-09 |  |
 | [Dallas](https://open.spotify.com/track/0ZC12m6kUhU0gWGXD5VkVs) | [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Dallas](https://open.spotify.com/album/2ett4tFMejclvi2k8in5J4) | 2:56 | 2024-11-06 |  |
@@ -52,7 +53,7 @@
 | [finsta](https://open.spotify.com/track/6NTMbHwbNGst9dlSIMTL9J) | [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [finsta / bia](https://open.spotify.com/album/38qPytt8dq096j0s9M6l7Q) | 2:40 | 2024-11-06 |  |
 | [Fisherrr \- Remix](https://open.spotify.com/track/1rrV4ymf3Tp3xuLgB4zCRN) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap) | [Fisherrr \(Remix\)](https://open.spotify.com/album/12MvGwLQqtkCUCMw0IsAyz) | 3:55 | 2024-10-25 |  |
 | [For Us](https://open.spotify.com/track/4PZInlAe9norwHBqjZGZTV) | [Vontee the Singer](https://open.spotify.com/artist/0f2wqzUtXEyqDUHwLxc57a) | [Lovers & Friends \(Deluxe\)](https://open.spotify.com/album/0giPLwNlEMmok6u3QWcjBW) | 2:50 | 2024-10-25 |  |
-| [Forever love](https://open.spotify.com/track/705Ksz4KCVOQe4LHDjbJfq) | [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp) | [All Original Parts: Volume 1](https://open.spotify.com/album/7pftecTamYxal4HIYJLCNl) | 3:04 | 2025-02-22 |  |
+| [Forever love](https://open.spotify.com/track/705Ksz4KCVOQe4LHDjbJfq) | [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp) | [All Original Parts: Volume 1](https://open.spotify.com/album/7pftecTamYxal4HIYJLCNl) | 3:04 | 2025-02-22 | 2025-05-30 |
 | [Freaky Attitude](https://open.spotify.com/track/1fz2te96VCjYjGhUCi0IsH) | [J.P.](https://open.spotify.com/artist/6ygDlIilHZqielxxkvmIVH), [Baby Osamaa](https://open.spotify.com/artist/3HzHfusJQBmpNKkTzqqC2N) | [School Dance](https://open.spotify.com/album/5s7s0DlvA7zSx1W67StPa9) | 3:20 | 2024-11-13 |  |
 | [Get You Back \(feat\. Cash Cobain\)](https://open.spotify.com/track/14o4OozkcWqwSYUDG8Kae4) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Better Me Than You](https://open.spotify.com/album/4Re8JSuo0lUxYCMjDnafvd) | 4:01 | 2024-10-25 |  |
 | [GLOCK](https://open.spotify.com/track/29sbEEB0w4aAY3FofzzEjy) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 3:48 | 2024-10-25 |  |
@@ -74,7 +75,7 @@
 | [Lifted](https://open.spotify.com/track/0zMzOp7GY9yBrTFB8ZKtpK) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [PICASSO: SLUFFIN SZN X SLUT SZN](https://open.spotify.com/album/5XKf4jhGXPuxuUcv32bxe8) | 3:50 | 2024-12-26 |  |
 | [Like This \(Remix\) \[feat\. Bay Swag and wolfacejoeyy\]](https://open.spotify.com/track/09VSVEnGU1QDktP3WBRQRF) | [Sugarhill Ddot](https://open.spotify.com/artist/63X7mnpy2kfkDtltarrWD1), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap), [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [2 Sides of the Story \(Deluxe\)](https://open.spotify.com/album/4448e2jWEMcHjOQJKQk2u9) | 3:10 | 2024-12-13 | 2025-01-18 |
 | [Loopy](https://open.spotify.com/track/1FQ4gFzY4SAsvVtqqzBcOW) | [Jay Critch](https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4) | [Loopy](https://open.spotify.com/album/6HzhPQQ81iZ8wMLhmDBjGS) | 2:21 | 2024-10-25 |  |
-| [LUV U](https://open.spotify.com/track/5RLKu8UORU150aRLREflOK) | [Straffitti](https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB), [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [LUV U](https://open.spotify.com/album/7eQ7lfwB8uHZMs1KpOKsWx) | 2:15 | 2025-04-18 |  |
+| [LUV U](https://open.spotify.com/track/5RLKu8UORU150aRLREflOK) | [Straffitti](https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB), [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [LUV U](https://open.spotify.com/album/7eQ7lfwB8uHZMs1KpOKsWx) | 2:15 | 2025-04-18 | 2025-05-30 |
 | [MADE4ME](https://open.spotify.com/track/5kSWLljjrkAdtUsuKbYUwS) | [R2R MOE](https://open.spotify.com/artist/6wNPY2m52IiyyVZXR339D9) | [MADE4ME](https://open.spotify.com/album/0BlWxkm0UGzwkLfdI7LvGT) | 1:37 | 2024-10-25 |  |
 | [Make It](https://open.spotify.com/track/5Kruw5nxEp8kP9PSENCs2j) | [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap) | [Make It](https://open.spotify.com/album/2ALakB56cdxPOLT3jByPcn) | 3:00 | 2024-11-22 | 2024-11-30 |
 | [Masterpiece](https://open.spotify.com/track/6tnpw5No4aPQaYvh53AiPJ) | [R2R MOE](https://open.spotify.com/artist/6wNPY2m52IiyyVZXR339D9) | [MR\. R2R](https://open.spotify.com/album/3wayBXXQkgzlcK2LDVsJlv) | 2:27 | 2024-10-25 | 2024-12-27 |
