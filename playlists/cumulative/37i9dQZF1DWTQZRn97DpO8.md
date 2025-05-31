@@ -4,7 +4,7 @@
 
 > 🍯🍯🍯\. Photo : Maud Elka
 
-365 songs - 17 hr 55 min
+366 songs - 17 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -327,6 +327,7 @@
 | [Sublimation](https://open.spotify.com/track/3ovzms5fWVT3cayO5fGZN4) | [Legendes Industries](https://open.spotify.com/artist/0DJutzzjro4AISmIYnzQKZ), [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Sublimation](https://open.spotify.com/album/6dA3Y7WIjixKFCqflFgkFk) | 2:54 | 2024-10-24 | 2025-04-18 |
 | [Sugar 2](https://open.spotify.com/track/2huuZfXgnyxgrZrUFHuDzH) | [LÜZLO](https://open.spotify.com/artist/019ufnK32dBUQLEHa8CUv5) | [Sugar 2](https://open.spotify.com/album/3McG36RSWgyihTrCjs2xIq) | 2:49 | 2025-04-17 | 2025-05-23 |
 | [Sur la rive](https://open.spotify.com/track/01EU33zjVyNNaBK46wfD2X) | [Ehla](https://open.spotify.com/artist/5KXt8UHaa6JBSYltw052Cp), [Hedges](https://open.spotify.com/artist/4wIqXlUU7ManNDpURytYbJ) | [Pause](https://open.spotify.com/album/4LydZSdKsiddSZKUSAII46) | 3:11 | 2023-09-28 | 2024-01-19 |
+| [Sur mon mind](https://open.spotify.com/track/654OEnSg5uvz7t9tl1hzG2) | [Blynk](https://open.spotify.com/artist/5QudGDXQi1yGCjENRjMNeQ) | [Sur mon mind](https://open.spotify.com/album/6sbBp80z1a92DzqJ7EgRd2) | 2:21 | 2025-05-30 |  |
 | [Surface](https://open.spotify.com/track/6q1V1oYiZsRtenvhdghdgz) | [Ayelya](https://open.spotify.com/artist/0ivvGPySFFiWS9fpWJzc6c) | [Surface](https://open.spotify.com/album/3QAs5l9UklqFIkqTQdbx2l) | 2:59 | 2024-02-29 | 2024-03-29 |
 | [Sweet & Sour](https://open.spotify.com/track/5T7CniQD3QkuW4dYYnXgWN) | [Nu Linh](https://open.spotify.com/artist/3R0sHWu5AWsvgzjbPqovK1), [Gee](https://open.spotify.com/artist/0f6GblrD0ZFUiFJob9f2kx) | [Chick & Dips 2 : The Draft](https://open.spotify.com/album/3QxixShx2IuHif11uiim9y) | 3:46 | 2024-09-19 | 2024-11-29 |
 | [Sweet Chili \(2ème service\)](https://open.spotify.com/track/73clO0iIYPGQhA5zDfRzTn) | [Nu Linh](https://open.spotify.com/artist/3R0sHWu5AWsvgzjbPqovK1) | [Chick & Dips 4](https://open.spotify.com/album/5aGu92N8hnz773lierwn0T) | 3:32 | 2025-02-13 | 2025-04-04 |

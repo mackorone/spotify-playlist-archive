@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Det er fredag! Ny musik fra Gobs, Miley Cyrus, Tate McRae og mange flere 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,425 likes - 104 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,526 likes - 104 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 34 | [PRIDE](https://open.spotify.com/track/7DFBKsaJieWr5DgWezzlOO) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [PRIDE](https://open.spotify.com/album/7Cve4BzHjBQx7JdXURxpaN) | 2:38 |
 | 35 | [Øjenlåg](https://open.spotify.com/track/5Oqoga7ggUcNDmZZnqWB6m) | [JEFF3](https://open.spotify.com/artist/07hSeMihvB08l7F5ojpPkW) | [Øjenlåg](https://open.spotify.com/album/11u2uQVnmFEQFHISL1Xb9h) | 2:40 |
 | 36 | [What's Up](https://open.spotify.com/track/3IOoiTz41A9HSwTiv3wp4F) | [Leslie](https://open.spotify.com/artist/1CccUOUGZJCo8X8Q5AfS37) | [What's Up](https://open.spotify.com/album/1GHKb350TKcRVLxqL06GJ3) | 2:37 |
-| 37 | [Me Myself and The Night](https://open.spotify.com/track/7mKy65CyVCmawYMw3JJGPQ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Me Myself and The Night](https://open.spotify.com/album/7bSQts9CfkAh6MNQ7BkBjy) | 4:11 |
+| 37 | [Me, Myself and The Night](https://open.spotify.com/track/7mKy65CyVCmawYMw3JJGPQ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Me, Myself and The Night](https://open.spotify.com/album/7bSQts9CfkAh6MNQ7BkBjy) | 4:11 |
 | 38 | [Vissen Blomst](https://open.spotify.com/track/2XtZV6aSCGbzKXSqB9fn0S) | [hun\_sagde](https://open.spotify.com/artist/0zMmcG54r60Jk7aiLb4DlB) | [Vissen Blomst](https://open.spotify.com/album/1DCHDbwVFp86zxB6EnCptd) | 2:03 |
 | 39 | [Undulat](https://open.spotify.com/track/2jEAebBMOKW9HnaS7kVHL1) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [Undulat](https://open.spotify.com/album/2N9IUwQWBsqpeQdM5yoqww) | 1:55 |
 | 40 | [All My Life](https://open.spotify.com/track/2pTii4tBijcsczNsmeBcSY) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [All My Life](https://open.spotify.com/album/0dHxrUuzYnUMgkulehzveD) | 2:07 |
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 83 | [Catch Me If You Can](https://open.spotify.com/track/08xkny1wm9GWKnnzGRv3Xv) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z) | [Catch Me If You Can / So Far Away](https://open.spotify.com/album/2Vhdv7qbPOsqSCw6F6EA6E) | 2:47 |
 | 84 | [The Dream Is Over](https://open.spotify.com/track/14TaOx6s12JuJ3DhJCrj8P) | [Vilhelm Buchaus](https://open.spotify.com/artist/1WqdwYhwSMzVexRFkOtcwl) | [Shades of Blue](https://open.spotify.com/album/7IzlLkqdAibLpnesmvwknW) | 3:22 |
 | 85 | [Fight Another Day](https://open.spotify.com/track/5Yz5uJTvZtYcblSvTgzhBG) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Fight Another Day](https://open.spotify.com/album/3cMI3AA8VJ0kpooAY6v4ga) | 3:51 |
-| 86 | [Oh Lala](https://open.spotify.com/track/7lbHonrDmzduOTFLO3wLKD) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ) | [Oh Lala](https://open.spotify.com/album/57oOFLMwpyDg74EkJ0odnW) | 3:50 |
+| 86 | [Oh Lala](https://open.spotify.com/track/7lbHonrDmzduOTFLO3wLKD) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Oh Lala](https://open.spotify.com/album/57oOFLMwpyDg74EkJ0odnW) | 3:50 |
 | 87 | [Ferien Er Startet](https://open.spotify.com/track/1Vyc1qdo8DK9yXh1z7T8Xk) | [Rasmus Nøhr](https://open.spotify.com/artist/2AE5DinlTXCV7JeVKKQEgk) | [Ferien Er Startet](https://open.spotify.com/album/3wJNV8g6Dbl7UdL8HQuoeT) | 4:04 |
 | 88 | [Diana/Polina](https://open.spotify.com/track/62Qn37rrA4GpYy2wpwBGUj) | [Spawner](https://open.spotify.com/artist/7hZffu4iOY88iCnkRKDcrK) | [Diana/Polina](https://open.spotify.com/album/3NixElIGBui9kiviHrfFGU) | 3:26 |
 | 89 | [Did I Say Too Much](https://open.spotify.com/track/4f8dJP5n2xlwMYLWVuLsfS) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Did I Say Too Much](https://open.spotify.com/album/2xn4IEQqM44vDqisznRvZn) | 3:08 |

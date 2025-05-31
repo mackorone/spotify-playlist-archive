@@ -4,7 +4,7 @@
 
 > This is Gustavo Santaolalla\. The essential tracks, all in one playlist.
 
-97 songs - 3 hr 58 min
+98 songs - 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Coyita](https://open.spotify.com/track/016vA5iOfrn9LdFWpoIYr3) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Ronroco](https://open.spotify.com/album/2wXkcCpf4OwYvPDVkswpV9) | 3:19 | 2023-08-31 | 2024-01-12 |
 | [Coyita \- 2024 Remaster](https://open.spotify.com/track/5OoBxmDWyEezJJlU3BEJsC) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Ronroco \(2024 Remaster\)](https://open.spotify.com/album/7F6NXrhiawGgkkRrItLOxB) | 3:19 | 2024-04-14 | 2024-10-23 |
 | [Creep](https://open.spotify.com/track/6Hrdertyam29E9LcljtfmW) | [Albert Hammond](https://open.spotify.com/artist/34E3csCxpXunPGEkOVVX2g), [Michael Hazlewood](https://open.spotify.com/artist/66SJTRUL592V4rIDdooRLI), [Colin Greenwood](https://open.spotify.com/artist/6bdotkIeFswBydfQqzHnKS), [Jonathan Greenwood](https://open.spotify.com/artist/4MXwPoGvThdwdlgErk9ZW9), [Philip Selway](https://open.spotify.com/artist/2A59wav3PGiJij2rK7HQYH), [Thomas Yorke](https://open.spotify.com/artist/7HrWtyO4zAClpj774sDYDO), [Ed O'Brien](https://open.spotify.com/artist/3E7aH1Yv84NoaP9JWcrMpE), [Diego Luna](https://open.spotify.com/artist/5rSlhtcAytdvAnlZXcKLjE), [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Book of Life \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7f0cdftcxwu61TCHkwVrs0) | 1:20 | 2023-08-31 |  |
+| [Daybreak](https://open.spotify.com/track/3DZYJqpvikOhbDilr351TU) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Juan Luqui](https://open.spotify.com/artist/6lt8CZydFV47oahQc38LL5) | [The Last of Us: Season 2 \(Soundtrack from the HBO Original Series\)](https://open.spotify.com/album/6Wxzdufl0XfxujiYcW0NOv) | 2:15 | 2025-05-31 |  |
 | [De Ushuaia a la Quiaca](https://open.spotify.com/track/1GaqUDpOrQvU9i2OF6jH9n) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Qhapaq Ñan](https://open.spotify.com/album/7z2o3Kb9hCVB416isvUIce) | 2:12 | 2024-10-23 | 2025-04-11 |
 | [De Ushuaia a la Quiaca](https://open.spotify.com/track/1iqYC125PBJt4MoDO5sMV9) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Qhapaq Ñan](https://open.spotify.com/album/5rFwK0uMpzhZh4l1RWrhjw) | 2:12 | 2025-04-11 |  |
 | [De Ushuaia a La Quiaca](https://open.spotify.com/track/1pdz8zR8gb1qfEBi64H1fa) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Ronroco](https://open.spotify.com/album/2wXkcCpf4OwYvPDVkswpV9) | 2:54 | 2023-08-31 | 2024-02-27 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Dark, hard hitting pop. Cover: Neoni",
+  "description": "Dark, hard hitting pop. Cover: Banshee",
   "name": "SALT",
   "tracks": [
     {
@@ -842,7 +842,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 160175,
       "name": "babydoll",
       "url": "https://open.spotify.com/track/0tdTGvI5viFA9KAYXxsJ4o"
@@ -1228,6 +1228,24 @@
       "duration_ms": 197040,
       "name": "Barely on My Mind",
       "url": "https://open.spotify.com/track/7LigIDzs63Y4uFlZvNzCZq"
+    },
+    {
+      "album": {
+        "name": "ARC 01: MAIDEN",
+        "url": "https://open.spotify.com/album/6q1ncuiWIxsrR6tFZJ3pHn"
+      },
+      "artists": [
+        {
+          "name": "Alissic",
+          "url": "https://open.spotify.com/artist/0xl41ilVNOin4ycHsggk7u"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "BE NO BODY",
+      "url": "https://open.spotify.com/track/7bnY7wVOCVIv6BhTB94Ice"
     },
     {
       "album": {
@@ -2614,7 +2632,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 165996,
       "name": "Carry Me Home",
       "url": "https://open.spotify.com/track/48ccwX9wv8bSSOdb2nKRBK"
@@ -3684,7 +3702,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 246353,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/3snIkQbCpnVgHurT0rMYpQ"
@@ -4586,6 +4604,28 @@
       "duration_ms": 148965,
       "name": "Erupt (ft. AViVA)",
       "url": "https://open.spotify.com/track/71jmcCezag5sUPPMLpD2Mh"
+    },
+    {
+      "album": {
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/0lnwJGOJJnCn0xFlDQYdhJ"
+      },
+      "artists": [
+        {
+          "name": "Royal & the Serpent",
+          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
+        },
+        {
+          "name": "Joseph H Gilmore Jr.",
+          "url": "https://open.spotify.com/artist/6Z5rka6DaBjeczNd7IIJbQ"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183726,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/6OX0qDykYQe5Ih0DdOcVUS"
     },
     {
       "album": {
@@ -6324,7 +6364,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 161559,
       "name": "hate it",
       "url": "https://open.spotify.com/track/4IAC77ptCrH5wHXckzeEJU"
@@ -14961,6 +15001,24 @@
     },
     {
       "album": {
+        "name": "in my head",
+        "url": "https://open.spotify.com/album/7xVHnGKfYZNGwng4S59neP"
+      },
+      "artists": [
+        {
+          "name": "Ally Bakst",
+          "url": "https://open.spotify.com/artist/2KvrULKGb5VQs6eZysNU11"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "trying to forget",
+      "url": "https://open.spotify.com/track/1GHdmBcOxQSIVDJkqRuZIy"
+    },
+    {
+      "album": {
         "name": "Twinkle Twinkle Little Bitch",
         "url": "https://open.spotify.com/album/1ybrTFXVkVuSmFdS0twHzb"
       },
@@ -16546,6 +16604,24 @@
       "duration_ms": 183680,
       "name": "You're Not A God",
       "url": "https://open.spotify.com/track/6Ljsg7wOFnxT5YevmHxJUT"
+    },
+    {
+      "album": {
+        "name": "You're the only one I trust",
+        "url": "https://open.spotify.com/album/1og1NwWveeYLy9dZq5HdcL"
+      },
+      "artists": [
+        {
+          "name": "Banshee",
+          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186728,
+      "name": "You're the only one I trust",
+      "url": "https://open.spotify.com/track/3BN2hEZ2TxqjzYVpAVLTzV"
     },
     {
       "album": {

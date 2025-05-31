@@ -104,7 +104,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-17",
+      "date_removed": null,
       "duration_ms": 39145,
       "name": "... an Interlude",
       "url": "https://open.spotify.com/track/0ZisrQEomfaJiUnHnjjVjU"
@@ -467,6 +467,24 @@
     },
     {
       "album": {
+        "name": "AJUTOARE",
+        "url": "https://open.spotify.com/album/27Xmvr5b3CwXaifhcvEeXb"
+      },
+      "artists": [
+        {
+          "name": "MiniMih",
+          "url": "https://open.spotify.com/artist/2E2bBR2JFqVnrgE9mB4y0p"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198755,
+      "name": "AJUTOARE",
+      "url": "https://open.spotify.com/track/6KJaDciaw4weCvUABxndIH"
+    },
+    {
+      "album": {
         "name": "Jesus Christ Bearer Superstar",
         "url": "https://open.spotify.com/album/7KUV3WFVIlapxtV09KBYOp"
       },
@@ -590,7 +608,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-17",
+      "date_removed": null,
       "duration_ms": 111453,
       "name": "Always There (When I Need Her)",
       "url": "https://open.spotify.com/track/7F0Z2aHCxiPktCa7qXdHbX"
@@ -720,7 +738,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-17",
+      "date_removed": null,
       "duration_ms": 165302,
       "name": "AYN",
       "url": "https://open.spotify.com/track/2tQkTPj8kXXXZ9cAAAh3aP"
@@ -1270,7 +1288,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-19",
+      "date_removed": null,
       "duration_ms": 308297,
       "name": "Black Magic",
       "url": "https://open.spotify.com/track/0pTmH1pcEnoP2DJpYDWYEL"
@@ -1516,7 +1534,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-17",
+      "date_removed": null,
       "duration_ms": 229537,
       "name": "Break My Heart",
       "url": "https://open.spotify.com/track/7Bbg2pR6QsOe5TRmZaJeD5"
@@ -1886,7 +1904,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-17",
+      "date_removed": null,
       "duration_ms": 196806,
       "name": "Change",
       "url": "https://open.spotify.com/track/5bZtIKa5r2cbfnFQTwQzqp"
@@ -2034,7 +2052,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 177460,
       "name": "COMO SEA",
       "url": "https://open.spotify.com/track/4qa5XvzmVuyYHqOzKLiluA"
@@ -2726,7 +2744,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-17",
+      "date_removed": null,
       "duration_ms": 305266,
       "name": "Don't F**k Wit Us",
       "url": "https://open.spotify.com/track/7lLVbMrxd8lRogUlKv4IZ8"
@@ -2870,7 +2888,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 115391,
       "name": "D\u00e9fil\u00e9",
       "url": "https://open.spotify.com/track/26kuCZ0aMF5Uo31voS07TK"
@@ -3146,6 +3164,28 @@
       "duration_ms": 113631,
       "name": "ENDORS-TOI !",
       "url": "https://open.spotify.com/track/5kxso8i5n2xJgcAFU47vZB"
+    },
+    {
+      "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/1A7LGxPJdockenmsIvKR81"
+      },
+      "artists": [
+        {
+          "name": "Tish Hyman",
+          "url": "https://open.spotify.com/artist/6WzffCtFJ1iDsAwEV35h6K"
+        },
+        {
+          "name": "Minus Gravity",
+          "url": "https://open.spotify.com/artist/7wzoIcJPKI8YKRYbqjCdwX"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342857,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/0szyootmNHZeYFlUS032rx"
     },
     {
       "album": {
@@ -3788,7 +3828,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 190432,
       "name": "Garley (Move)",
       "url": "https://open.spotify.com/track/55MqIZHmox9UsPVEaMN9mZ"
@@ -3976,7 +4016,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 160000,
       "name": "Going Bad",
       "url": "https://open.spotify.com/track/3xghf6VOUQRQmwXSsUEbwG"
@@ -4088,7 +4128,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-17",
+      "date_removed": null,
       "duration_ms": 161906,
       "name": "Grace",
       "url": "https://open.spotify.com/track/1Lbk2D1067QeJL0Vxg3LxX"
@@ -5476,7 +5516,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-17",
+      "date_removed": null,
       "duration_ms": 245200,
       "name": "King Life",
       "url": "https://open.spotify.com/track/2OrUMzP1iHrkrUJ0Y7Sf6h"
@@ -5512,7 +5552,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 130847,
       "name": "Kiss the Sky",
       "url": "https://open.spotify.com/track/6yYi2D80jEZqi6fREhxMc5"
@@ -6126,7 +6166,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 158223,
       "name": "Love the Way We Shine",
       "url": "https://open.spotify.com/track/1zuEF9YSX37w0ncps9Fqln"
@@ -6924,7 +6964,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-03",
+      "date_removed": null,
       "duration_ms": 143819,
       "name": "MOTH",
       "url": "https://open.spotify.com/track/2vXk9cgccmIOS1qdFLF8wF"
@@ -7500,7 +7540,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-17",
+      "date_removed": null,
       "duration_ms": 138149,
       "name": "OH CRAZY",
       "url": "https://open.spotify.com/track/2IVQe8Hyuux2nMMadtr9ta"
@@ -7652,7 +7692,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 209303,
       "name": "On them",
       "url": "https://open.spotify.com/track/11v4njemAXDVcqBIMdPJld"
@@ -8050,7 +8090,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 114602,
       "name": "PORTALE",
       "url": "https://open.spotify.com/track/3MgSnBAgNoZvLfpZYeGv53"
@@ -9314,7 +9354,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 163440,
       "name": "Stand On Ten",
       "url": "https://open.spotify.com/track/0lYg77o3sSCwLCQpAuDsdK"
@@ -9706,7 +9746,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 242123,
       "name": "Tant de Bien",
       "url": "https://open.spotify.com/track/3PuCd4S1E7wQCQy8jAGZSr"
@@ -9742,7 +9782,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 173905,
       "name": "Taxi",
       "url": "https://open.spotify.com/track/3aIZ995PbrPwePJJoojt8E"
@@ -10254,7 +10294,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-03",
+      "date_removed": null,
       "duration_ms": 197720,
       "name": "Todo Tiene Su Final",
       "url": "https://open.spotify.com/track/10LLgIh9GyQBq5sTDSJwzw"
@@ -10308,7 +10348,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 239939,
       "name": "Topline \u00ab Furious Fanfare \u00bb",
       "url": "https://open.spotify.com/track/7JLfnzfbEasDKq6hTgKRI4"
@@ -10918,7 +10958,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 194625,
       "name": "Viva La Loca",
       "url": "https://open.spotify.com/track/3v06dDyo609EfODSIQGMgt"
@@ -11008,7 +11048,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 184293,
       "name": "Wassup",
       "url": "https://open.spotify.com/track/3NwRd42H3xGcK7oww2tHkz"
@@ -11386,7 +11426,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 219813,
       "name": "Witches Brew",
       "url": "https://open.spotify.com/track/5id5I3Kvmb9QIVdDBpNiO1"

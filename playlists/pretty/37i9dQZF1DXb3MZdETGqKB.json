@@ -1,13 +1,49 @@
 {
   "description": "All new, all blues. Cover: Sonny Gullage",
-  "num_followers": 154137,
+  "num_followers": 154162,
   "original_name": "Nu-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+Ye4AAAAAAp/d4NH2uliBWRcNoEsLIC",
+  "snapshot_id": "aDktUgAAAAAbYO68neNVYpskUn4Dg+F3",
   "tracks": [
+    {
+      "added_at": "2025-05-30 04:00:18",
+      "album": {
+        "name": "When Will The Love Rain Down",
+        "url": "https://open.spotify.com/album/4W8Z1xjbtA2UsqrSHdOZ3d"
+      },
+      "artists": [
+        {
+          "name": "Robert Randolph",
+          "url": "https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx"
+        },
+        {
+          "name": "Judith Hill",
+          "url": "https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t"
+        }
+      ],
+      "duration_ms": 343146,
+      "name": "When Will The Love Rain Down",
+      "url": "https://open.spotify.com/track/5RZC6hR11cilAHjsNMu1gI"
+    },
+    {
+      "added_at": "2025-05-30 04:00:18",
+      "album": {
+        "name": "Stained",
+        "url": "https://open.spotify.com/album/1egulPm1dhjjElWYJIhjuW"
+      },
+      "artists": [
+        {
+          "name": "Brittany Broski",
+          "url": "https://open.spotify.com/artist/4bvnxCtWPHufMtiQQuT8nW"
+        }
+      ],
+      "duration_ms": 171561,
+      "name": "Stained",
+      "url": "https://open.spotify.com/track/0lLvGzQhd7hADAeC2hUHB0"
+    },
     {
       "added_at": "2025-02-14 05:00:11",
       "album": {
@@ -1673,34 +1709,6 @@
       "url": "https://open.spotify.com/track/33bBjkRiZIkHdoAZlBb9KR"
     },
     {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
-        "name": "World on Fire (Warrior Remix)",
-        "url": "https://open.spotify.com/album/272hzAwKezSFfwYcH0uazk"
-      },
-      "artists": [
-        {
-          "name": "Micki Free",
-          "url": "https://open.spotify.com/artist/5aH6fiMaVOktSbo2CBcK5l"
-        },
-        {
-          "name": "Karl Perazzo",
-          "url": "https://open.spotify.com/artist/6YOWrQBPl6xB6yA73jqUny"
-        },
-        {
-          "name": "Andy Vargas",
-          "url": "https://open.spotify.com/artist/3oqXjhbfHHAkNaZLsP8qZH"
-        },
-        {
-          "name": "Cindy Blackman Santana",
-          "url": "https://open.spotify.com/artist/0sJ3AmpElEzlg5WjOHQYBF"
-        }
-      ],
-      "duration_ms": 313326,
-      "name": "World on Fire - Warrior Remix",
-      "url": "https://open.spotify.com/track/3CzTG4duyqR9YXXDK9k4pc"
-    },
-    {
       "added_at": "2023-02-24 05:01:00",
       "album": {
         "name": "Mansplaining",
@@ -1747,22 +1755,6 @@
       "duration_ms": 178000,
       "name": "Two Plus Two Is Five",
       "url": "https://open.spotify.com/track/5IUlrVdOqBxaNbMgFFTgMC"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Strike Gold",
-        "url": "https://open.spotify.com/album/5YPy3q0MV7e5fJHFYNutjV"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 200858,
-      "name": "Strike Gold",
-      "url": "https://open.spotify.com/track/3eFCcD8aZJIc2wRmJm6Vyx"
     },
     {
       "added_at": "2023-03-10 05:01:00",

@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "21st Century Suffragette",
+        "url": "https://open.spotify.com/album/2C2ISiaMskaxrMTnAQUd1z"
+      },
+      "artists": [
+        {
+          "name": "GIRLBAND!",
+          "url": "https://open.spotify.com/artist/3QSwq9CQMjqe01RtbKqz0F"
+        }
+      ],
+      "date_added": "2025-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146651,
+      "name": "21st Century Suffragette",
+      "url": "https://open.spotify.com/track/1g2T1BUfAh6U7aOioCiRIX"
+    },
+    {
+      "album": {
         "name": "24 Hours In A&E",
         "url": "https://open.spotify.com/album/2KpGbl9FZaaRkOdNpG7ddI"
       },
@@ -3726,7 +3744,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 206810,
       "name": "Lady Messiah",
       "url": "https://open.spotify.com/track/0hYP2EZeqbq9Kh0AHY0JWB"

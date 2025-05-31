@@ -4,7 +4,7 @@
 
 > Damso, Miley Cyrus et Zaz au top des nouveautés de la semaine !
 
-4,897 songs - 10 day 14 hr 42 min
+4,898 songs - 10 day 14 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2805,7 +2805,7 @@
 | [Me Before You](https://open.spotify.com/track/1S4sLPFxkgMTOui1W4GN72) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Plested](https://open.spotify.com/artist/2nJYGgfTf2846LtVB3AES8) | [Me Before You](https://open.spotify.com/album/4hElKzCyDVbddwxZe4f9jb) | 3:35 | 2024-06-13 | 2024-06-21 |
 | [Me Enamore](https://open.spotify.com/track/0fltq9Zz9JUWU3NMqRXFY0) | [RIDSA](https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es) | [Me Enamore](https://open.spotify.com/album/7EltiVo6H28swJEH6lZ3Uv) | 3:09 | 2025-02-07 | 2025-02-14 |
 | [Me Haces Llorar](https://open.spotify.com/track/4ViVgdb7lE6vdfrwyVzH7I) | [Davy One](https://open.spotify.com/artist/3QCQdyKtg9Yx1rYYnMb7pz) | [Me Haces Llorar](https://open.spotify.com/album/00uO5to31hghk38CvgapIT) | 2:37 | 2025-05-29 |  |
-| [Me Myself and The Night](https://open.spotify.com/track/7mKy65CyVCmawYMw3JJGPQ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Me Myself and The Night](https://open.spotify.com/album/7bSQts9CfkAh6MNQ7BkBjy) | 4:11 | 2025-05-29 |  |
+| [Me, Myself and The Night](https://open.spotify.com/track/7mKy65CyVCmawYMw3JJGPQ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Me, Myself and The Night](https://open.spotify.com/album/7bSQts9CfkAh6MNQ7BkBjy) | 4:11 | 2025-05-29 |  |
 | [Mea Culpa \(Ah! Ça ira!\)](https://open.spotify.com/track/4AFjPeecGnS3999PV5iOSK) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt), [Marina Viotti](https://open.spotify.com/artist/79i3gkVE8U1ff8X4TRX7y4), [Victor Le Masne](https://open.spotify.com/artist/73HYvBYbBoXKmDEzsM27RI) | [Mea Culpa \(Ah! Ça ira!\)](https://open.spotify.com/album/4k6UKb3mWQcQ5yEiyi43DT) | 2:53 | 2024-08-29 | 2024-09-06 |
 | [Meditations](https://open.spotify.com/track/2XaZcy1CBRqfEpvy4JuJLr) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Meditations](https://open.spotify.com/album/2BRSukoWknGgMermHbSVt6) | 3:04 | 2024-10-24 | 2024-11-01 |
 | [Mega Circuit](https://open.spotify.com/track/0z2nwqxnRjLUlnp1jI8zmn) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Mega Circuit](https://open.spotify.com/album/1hWuBWREfpHifHWl73XraS) | 3:04 | 2025-02-13 | 2025-02-21 |
@@ -4139,6 +4139,7 @@
 | [Supernova](https://open.spotify.com/track/0ga5vX42pHZ7KSwaZhriSB) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh) | [Supernova](https://open.spotify.com/album/6l8MpmPfGRirtOSzUeflMB) | 2:45 | 2024-09-05 | 2024-09-13 |
 | [Superplayer](https://open.spotify.com/track/03Z5aikKbRb2LpjXu9D28X) | [Storm Orchestra](https://open.spotify.com/artist/5Zl04O5XJOu7kGrAosCPfR) | [Superplayer](https://open.spotify.com/album/23va1N5Haa74Pls2Q0OZET) | 2:48 | 2025-01-30 | 2025-02-07 |
 | [Superwoman](https://open.spotify.com/track/0pim1RV3QzkZQWo8QmKoCh) | [Blanche Bailly](https://open.spotify.com/artist/5AarOoNQR7sJVijD42GeFQ), [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq) | [Superwoman](https://open.spotify.com/album/4QEfxuq5zIDoY7kumRDLA5) | 3:01 | 2024-08-08 | 2024-08-16 |
+| [Sur mon mind](https://open.spotify.com/track/654OEnSg5uvz7t9tl1hzG2) | [Blynk](https://open.spotify.com/artist/5QudGDXQi1yGCjENRjMNeQ) | [Sur mon mind](https://open.spotify.com/album/6sbBp80z1a92DzqJ7EgRd2) | 2:21 | 2025-05-30 |  |
 | [Surf](https://open.spotify.com/track/2JCnq2ehglXJklyxd7zVCp) | [Cocoon](https://open.spotify.com/artist/15h5B5quwDm2C1rhbtvUPD) | [Surf](https://open.spotify.com/album/6A9GRBUVGnmCEP6c54JjJh) | 2:29 | 2025-01-02 | 2025-01-10 |
 | [Surrender](https://open.spotify.com/track/2HJu1bxkubHZEXC8r6snXY) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Surrender](https://open.spotify.com/album/5uIjazA5fZ88us2oc1zbBd) | 2:24 | 2025-04-03 | 2025-04-11 |
 | [SURVIE](https://open.spotify.com/track/7yz9tcPQngQ19yAmRfQG7U) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [SURVIE](https://open.spotify.com/album/3QcMENeZLihP7vxPkieCLr) | 2:54 | 2024-05-23 | 2024-06-01 |

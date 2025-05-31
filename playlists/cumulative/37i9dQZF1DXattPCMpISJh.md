@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Billy Porter
 
-311 songs - 19 hr 13 min
+312 songs - 19 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,7 @@
 | [Missing You \- Michael Gray Remix](https://open.spotify.com/track/0siT9iz6YIO3GlQbvzZEet) | [Artful](https://open.spotify.com/artist/1VFA40Lt5TiFr0qWoWNQfw), [Ridney](https://open.spotify.com/artist/5UmoeWk7RM3v9w1DUL4XUD), [Terri Walker](https://open.spotify.com/artist/0x8TJV6fy1BwsZUpHJC13S), [Michael Gray](https://open.spotify.com/artist/2aM5jpQ0WTcQDeHsil8Ihz) | [Missing You \(Michael Gray Remix\)](https://open.spotify.com/album/10SDSrrDUmK3dDpmMXa1Gi) | 2:59 | 2023-03-31 | 2025-04-26 |
 | [Move](https://open.spotify.com/track/1mEen9l4C0Kq6gYBGARXoS) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [Drama Queen](https://open.spotify.com/album/0kMmfTz3OwAh73dSCN3FpW) | 2:44 | 2023-05-12 | 2024-04-19 |
 | [Move](https://open.spotify.com/track/6RemYyY2mxu0N8qjjrShnQ) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [Move](https://open.spotify.com/album/4nMAiQTGaqm3fKz1e2Vw7p) | 2:44 | 2023-05-12 |  |
-| [Move Me](https://open.spotify.com/track/7mNrHt87k4uLY6rtODEAvO) | [T\-Groove](https://open.spotify.com/artist/2Ky7DbgmIlA47OpDx5KzNt), [Maddam Mya](https://open.spotify.com/artist/2xnvBakwGdgZ548S7RCPYP) | [Move Me](https://open.spotify.com/album/3uzf0QnjYIXsb0jqIe1VCI) | 5:28 | 2023-04-07 |  |
+| [Move Me](https://open.spotify.com/track/7mNrHt87k4uLY6rtODEAvO) | [T\-Groove](https://open.spotify.com/artist/2Ky7DbgmIlA47OpDx5KzNt), [Maddam Mya](https://open.spotify.com/artist/2xnvBakwGdgZ548S7RCPYP) | [Move Me](https://open.spotify.com/album/3uzf0QnjYIXsb0jqIe1VCI) | 5:28 | 2023-04-07 | 2025-05-31 |
 | [Muscle Memory \(feat\. Nile Rodgers\)](https://open.spotify.com/track/2Yc4A9Ds0Y4TwX2wQc4FVl) | [kamille](https://open.spotify.com/artist/0XSz7OqyhKBKRq4ZU8WpAo), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Muscle Memory \(feat\. Nile Rodgers\)](https://open.spotify.com/album/3F9BiYMpa8CzpaEf8gAByj) | 3:31 | 2023-05-12 |  |
 | [My Lovin'](https://open.spotify.com/track/1wo0s1LhR2Hkzkn6cwMzi6) | [Dr Packer](https://open.spotify.com/artist/46hILKsILU34lUxKKftyVm), [Elektrik Disko](https://open.spotify.com/artist/4Gi9MmIJNSFVf2TZWnFpeG) | [My Lovin'](https://open.spotify.com/album/66CQRrLh4jLEGjJxe16tF6) | 3:14 | 2024-03-22 |  |
 | [My Only](https://open.spotify.com/track/69yyZiAS9G6MvS7cke8zMh) | [The Supermen Lovers](https://open.spotify.com/artist/08dJ0NJ9jMf8qdLmdhQ2yA), [Ashley Slater](https://open.spotify.com/artist/77ZyDi3WOcyp4Yxa9HFV62) | [My Only](https://open.spotify.com/album/0dVEwkb9LU5hqtXVy7I0D8) | 3:06 | 2022-05-13 | 2023-07-29 |
@@ -234,6 +234,7 @@
 | [Right To Rhythm](https://open.spotify.com/track/4ZmVyNyhSdUZL1aXflrFAb) | [Fulton Lee](https://open.spotify.com/artist/5CAvR9koH16JpcoTxUoeyS) | [Right To Rhythm](https://open.spotify.com/album/0GJQBqDAIRx4w9XBSf8RGx) | 3:12 | 2025-04-25 |  |
 | [Riviera](https://open.spotify.com/track/6XCKim7nYMo1JeSn6RrE8j) | [La Felix](https://open.spotify.com/artist/3PoWaGWGbWmC3DrCOyGXOj), [Saint Rock](https://open.spotify.com/artist/6C6t0KhFTcGHV7nUlPdjrK) | [Riviera](https://open.spotify.com/album/2oOkCQpBeEPRwdsbU7ILa7) | 2:49 | 2023-03-10 | 2023-07-01 |
 | [Rock With Me](https://open.spotify.com/track/18fazLrZ3SjUVNaaAOjlSU) | [Sparkee](https://open.spotify.com/artist/0DgTGEWTk0pHJ3SB0tDzzf), [Liinks](https://open.spotify.com/artist/3tTrvuZL6yAhHb1x2iWlBY) | [Rock With Me](https://open.spotify.com/album/18fw42lq4tGTUVaZtC48NM) | 2:44 | 2022-07-08 | 2024-04-19 |
+| [Rosmarina](https://open.spotify.com/track/5LWU3ZLXYjIu3gUwgtQt86) | [Rosmarina](https://open.spotify.com/artist/5BdM3QBz38QQZwZ2cbl5ly), [Moorea Masa & the Mood](https://open.spotify.com/artist/4Hs0J7IFJzXGJLhnytbCfR), [Swatkins](https://open.spotify.com/artist/0HnF3y5xRlNr6eGQmFZgjP), [Tommaso Cappellato](https://open.spotify.com/artist/5xu6nwws5Wrbd5TayescJ2) | [Rosmarina](https://open.spotify.com/album/1FrS6nPPguHWk6K6OAYEv6) | 4:19 | 2025-05-30 |  |
 | [San Frandiscothèque](https://open.spotify.com/track/08ke1gT4ktBBYfOhjlyISp) | [Wu Am I](https://open.spotify.com/artist/4EDxGYZZDNlYg4z7Y5HfyV), [Freddie](https://open.spotify.com/artist/6AiidoqL85n3AcQhXvrkoK) | [San Frandiscothèque](https://open.spotify.com/album/5yjijjmDH8REk56oT5WsCk) | 3:48 | 2021-07-30 | 2022-09-03 |
 | [Say Something \- Extended Mix](https://open.spotify.com/track/6W2ECdBNRoqVfHLRAPo71h) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [DISCO \(Extended Mixes\)](https://open.spotify.com/album/29SeXSOfJNZetqkzF7stl9) | 5:20 | 2021-12-10 | 2022-11-19 |
 | [Say You Will](https://open.spotify.com/track/4z0dNvWLgIurGazB5SIQOw) | [EASY FREAK](https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S) | [Be Mine EP](https://open.spotify.com/album/5WuwrJvqloEq5dfRnSj9Ro) | 4:13 | 2022-03-25 | 2023-04-09 |

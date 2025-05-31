@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "M\u00fasica brasileira fora da curva. Foto: Selvagens \u00e0 Procura de Lei",
+  "description": "M\u00fasica brasileira fora da curva. Foto: Superafim",
   "name": "alt BR",
   "tracks": [
     {
@@ -6972,7 +6972,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 163902,
       "name": "Luz Azul",
       "url": "https://open.spotify.com/track/0JoEgv8yOXiDycYJwKRGOH"
@@ -7891,6 +7891,24 @@
     },
     {
       "album": {
+        "name": "MOUTH (Deluxe)",
+        "url": "https://open.spotify.com/album/4YWAoQwnaNZoCdIY6JD8d4"
+      },
+      "artists": [
+        {
+          "name": "Superafim",
+          "url": "https://open.spotify.com/artist/7973fubcBVTwBHgPeco1UV"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214925,
+      "name": "Meu Querido Rafael - bonus track",
+      "url": "https://open.spotify.com/track/7jvaGdBC73hRtsRDGn5Pzh"
+    },
+    {
+      "album": {
         "name": "meus passos",
         "url": "https://open.spotify.com/album/4wYWkcqsNGqnTqvhPRY8WQ"
       },
@@ -8088,7 +8106,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 149013,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/6uQKpZhRqmAXRcrIc203OZ"
@@ -11270,6 +11288,32 @@
       "duration_ms": 168200,
       "name": "rede social",
       "url": "https://open.spotify.com/track/7zBYk65FqoHdpsQGXaPWF0"
+    },
+    {
+      "album": {
+        "name": "Reden\u00e7\u00e3o (Tr\u00eas Gatos e um Cachorro)",
+        "url": "https://open.spotify.com/album/2U1lPahfqRqMwLF2y1VSCz"
+      },
+      "artists": [
+        {
+          "name": "Lupe De Lupe",
+          "url": "https://open.spotify.com/artist/6yz8H2Aks1bHaKNiHCutaR"
+        },
+        {
+          "name": "Renan Benini",
+          "url": "https://open.spotify.com/artist/10gcx0ieH5QKHttxqRujeD"
+        },
+        {
+          "name": "Felipe Pacheco Ventura",
+          "url": "https://open.spotify.com/artist/4wzBTy6pV1lVE7LJMuh36I"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 587536,
+      "name": "Reden\u00e7\u00e3o (Tr\u00eas Gatos e um Cachorro)",
+      "url": "https://open.spotify.com/track/52P75ZWt74UHLh5OFhWNUo"
     },
     {
       "album": {

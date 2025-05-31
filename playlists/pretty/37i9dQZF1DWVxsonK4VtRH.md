@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxsonK4VtRH.md) - [plain]
 
 > A dark new chapter begins...Listen to the music from and inspired by Call of Duty, featuring music from Modern Warfare III.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,811 likes - 66 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,893 likes - 66 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxsonK4VtRH.md) - [plain]
 | 25 | [Paint It, Black](https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Aftermath](https://open.spotify.com/album/72qrnM4yUNMDDlWiqKc8iY) | 3:22 |
 | 26 | [Space Oddity \- 2015 Remaster](https://open.spotify.com/track/72Z17vmmeQKAg8bptWvpVG) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [David Bowie \(aka Space Oddity\) \[2015 Remaster\]](https://open.spotify.com/album/1ay9Z4R5ZYI2TY7WiDhNYQ) | 5:18 |
 | 27 | [The Day Is My Enemy](https://open.spotify.com/track/2GPoj9AFNBHkCPCK69OlaA) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [The Day Is My Enemy](https://open.spotify.com/album/38wNbhb705u4rNxAEAD7h3) | 4:25 |
-| 28 | [Relax](https://open.spotify.com/track/2K22nUTdyr48JDwI5t906t) | [Frankie Goes To Hollywood](https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY) | [Welcome To The Pleasuredome](https://open.spotify.com/album/0FU4Eo42Oyg1We3eRrOf4m) | 3:56 |
+| 28 | [Relax \(Come Fighting\)](https://open.spotify.com/track/2K22nUTdyr48JDwI5t906t) | [Frankie Goes To Hollywood](https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY) | [Welcome To The Pleasuredome](https://open.spotify.com/album/0FU4Eo42Oyg1We3eRrOf4m) | 3:56 |
 | 29 | [One Shot One Kill](https://open.spotify.com/track/34jHDKV7cNwRLl2NU1zPJq) | [Jon Connor](https://open.spotify.com/artist/1F5zdoXcwIB9XSNfitdo7x), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Compton](https://open.spotify.com/album/6ZnMFVV5HDv2xmHG7bn7et) | 3:25 |
 | 30 | [Zombie feat\. Panther](https://open.spotify.com/track/6Ytdv9pEdBWdVfo1my1Ud8) | [Black Tiger Sex Machine](https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC), [Panther](https://open.spotify.com/artist/6erKRB3tCD5A61URnS7nvI) | [New Worlds](https://open.spotify.com/album/1Ehazm9UasBXNWB9e5kOJC) | 3:20 |
 | 31 | [Don't Fear The Reaper](https://open.spotify.com/track/1h8Syu78oC2GcUtWFoJpeP) | [Tom Rhodes](https://open.spotify.com/artist/4lsAzbWcYZblSVl1zhT9bc) | [Don't Fear The Reaper](https://open.spotify.com/album/4cmA2zPY7N2lBGub3ZPM7f) | 4:07 |

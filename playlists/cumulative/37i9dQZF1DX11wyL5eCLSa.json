@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-22",
-  "description": "Sangre fresca en las escenas del indie y el rock. Raimundos en Portada. ",
+  "description": "Sangre fresca en las escenas del indie y el rock. Camilo S\u00e9ptimo en Portada. ",
   "name": "EL ROCK NO HA MUERTO",
   "tracks": [
     {
@@ -1056,7 +1056,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 146370,
       "name": "BANDO",
       "url": "https://open.spotify.com/track/2JEFRpSj148d2y5TnVHsxM"
@@ -4987,6 +4987,24 @@
     },
     {
       "album": {
+        "name": "El Club de la Pelea I",
+        "url": "https://open.spotify.com/album/2tS4bTMTcGhnQSFp4rmflf"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229503,
+      "name": "Irme Lejos",
+      "url": "https://open.spotify.com/track/6s4DqpmFSFBx1pKrh4TgkO"
+    },
+    {
+      "album": {
         "name": "Jaula de Oro",
         "url": "https://open.spotify.com/album/7o5gng8f0q586Laakp4Ilv"
       },
@@ -6161,6 +6179,24 @@
     },
     {
       "album": {
+        "name": "Luna Roja",
+        "url": "https://open.spotify.com/album/4Zilg70sudnxtv6nXRMx63"
+      },
+      "artists": [
+        {
+          "name": "Camilo S\u00e9ptimo",
+          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255546,
+      "name": "Luna Roja",
+      "url": "https://open.spotify.com/track/28UtFz9X15GSU5TE5jOCpe"
+    },
+    {
+      "album": {
         "name": "Eva",
         "url": "https://open.spotify.com/album/2zb3I1hIU1kUHfoejnKOB6"
       },
@@ -7004,6 +7040,24 @@
       "duration_ms": 225226,
       "name": "Mi Vida",
       "url": "https://open.spotify.com/track/3zJbNvdlb8WXtpEPVZcN5q"
+    },
+    {
+      "album": {
+        "name": "Michael Scott Hubiera Entendido Exactamente C\u00f3mo Me Siento En Este Momento",
+        "url": "https://open.spotify.com/album/2OAjGoxV48ezoPgFjJCjM5"
+      },
+      "artists": [
+        {
+          "name": "San Venus",
+          "url": "https://open.spotify.com/artist/0I1DNEdOBX3s6eL8UlaskZ"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Michael Scott Hubiera Entendido Exactamente C\u00f3mo Me Siento En Este Momento",
+      "url": "https://open.spotify.com/track/76VKsZAL0YhWMNcOnwh0iv"
     },
     {
       "album": {
@@ -9616,7 +9670,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-08",
+      "date_removed": null,
       "duration_ms": 172818,
       "name": "Sed De La Mala",
       "url": "https://open.spotify.com/track/6XcI07Xih3lRq25M0zP9VJ"
@@ -11046,7 +11100,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 140604,
       "name": "Tsunami Mami",
       "url": "https://open.spotify.com/track/0LRlR9AxUqKb0xvBrIqFC1"
@@ -11264,7 +11318,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 118032,
       "name": "Ultramodos Sexuales",
       "url": "https://open.spotify.com/track/7qdUdWScBYaZBmmzk4ccxQ"

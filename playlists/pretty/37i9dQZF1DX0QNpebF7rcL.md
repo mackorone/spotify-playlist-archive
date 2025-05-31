@@ -2,21 +2,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 
 ### [Got Blues](https://open.spotify.com/playlist/37i9dQZF1DX0QNpebF7rcL)
 
-> The best in blues right now\. Cover: D.K\. Harrell
+> The best in blues right now\. Cover: Robert Randolph
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,603 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,612 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Drive By The Exit Sign](https://open.spotify.com/track/3bDiDVYhu3pa2B6vO7uNuH) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Drive By The Exit Sign](https://open.spotify.com/album/5OIdB1EF1zWV52qAbOCt3v) | 4:19 |
-| 2 | [Crossroads](https://open.spotify.com/track/1rLcJO2vaUNPEW8ByunN0o) | [Playing For Change](https://open.spotify.com/artist/645m90txZTycwJGdZTWscc), [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX), [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F), [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB) | [Crossroads](https://open.spotify.com/album/16r3kluiUqc070LB2fpGQR) | 4:31 |
-| 3 | [Bright Side](https://open.spotify.com/track/5oHGHrJmppz7Ds15ryz3Qt) | [Larry McCray](https://open.spotify.com/artist/24NDm7vTLocVLStlgkKjJc) | [Bright Side](https://open.spotify.com/album/6fMHg8HaBULw3F6dgaLxVv) | 5:37 |
-| 4 | [Truth Is](https://open.spotify.com/track/7b3PpkkxulPnCRidyktINg) | [Carolyn Wonderland](https://open.spotify.com/artist/0XhsEmCqMW2k9yMl4o8t4n) | [Truth Is](https://open.spotify.com/album/611yxBCQhq0G6ZkJHgmioi) | 3:38 |
-| 5 | [Hip Shakin' Mama](https://open.spotify.com/track/1PTg48QsBJFh17XpaEmeqP) | [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Look Out Highway](https://open.spotify.com/album/36pdaKKpZFNyc7zoJ8OKux) | 3:05 |
-| 6 | [Hard Times](https://open.spotify.com/track/0iwCmwNw208SJPWr2ffvfn) | [Nathan East](https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ), [Noah East](https://open.spotify.com/artist/0vAR5oDr4QsiUWm8aTFuB6), [Billy Valentine](https://open.spotify.com/artist/4AYoCwXHaaxeaM8DtzP3zg), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [FATHER SON](https://open.spotify.com/album/4eLAsdyOfNsiuczW6Iyc24) | 4:04 |
-| 7 | [Grown Now](https://open.spotify.com/track/1G4QXkxFkadwNDEJSDWnfl) | [D.K\. Harrell](https://open.spotify.com/artist/33YoCLWWu9T6IdrXxCHsyx) | [Grown Now](https://open.spotify.com/album/0WU81ML0nzuJwgxRTgSdBk) | 3:52 |
-| 8 | [Long Is The Road](https://open.spotify.com/track/5XQOSllj9gEysxv5qxIqtv) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Family](https://open.spotify.com/album/0IMJyZewJS5Lj2WHBG23J3) | 3:07 |
-| 9 | [Big Women](https://open.spotify.com/track/2besC8P5XlSgrfx3WlAODD) | [Robert Randolph](https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx) | [Big Women](https://open.spotify.com/album/3odHHsOy9iCoYouoOrH8Gt) | 4:59 |
+| 1 | [When Will The Love Rain Down](https://open.spotify.com/track/5RZC6hR11cilAHjsNMu1gI) | [Robert Randolph](https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx), [Judith Hill](https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t) | [When Will The Love Rain Down](https://open.spotify.com/album/4W8Z1xjbtA2UsqrSHdOZ3d) | 5:43 |
+| 2 | [Drive By The Exit Sign](https://open.spotify.com/track/3bDiDVYhu3pa2B6vO7uNuH) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Drive By The Exit Sign](https://open.spotify.com/album/5OIdB1EF1zWV52qAbOCt3v) | 4:19 |
+| 3 | [Crossroads](https://open.spotify.com/track/1rLcJO2vaUNPEW8ByunN0o) | [Playing For Change](https://open.spotify.com/artist/645m90txZTycwJGdZTWscc), [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX), [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F), [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB) | [Crossroads](https://open.spotify.com/album/16r3kluiUqc070LB2fpGQR) | 4:31 |
+| 4 | [Bright Side](https://open.spotify.com/track/5oHGHrJmppz7Ds15ryz3Qt) | [Larry McCray](https://open.spotify.com/artist/24NDm7vTLocVLStlgkKjJc) | [Bright Side](https://open.spotify.com/album/6fMHg8HaBULw3F6dgaLxVv) | 5:37 |
+| 5 | [Truth Is](https://open.spotify.com/track/7b3PpkkxulPnCRidyktINg) | [Carolyn Wonderland](https://open.spotify.com/artist/0XhsEmCqMW2k9yMl4o8t4n) | [Truth Is](https://open.spotify.com/album/611yxBCQhq0G6ZkJHgmioi) | 3:38 |
+| 6 | [Hip Shakin' Mama](https://open.spotify.com/track/1PTg48QsBJFh17XpaEmeqP) | [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Look Out Highway](https://open.spotify.com/album/36pdaKKpZFNyc7zoJ8OKux) | 3:05 |
+| 7 | [Hard Times](https://open.spotify.com/track/0iwCmwNw208SJPWr2ffvfn) | [Nathan East](https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ), [Noah East](https://open.spotify.com/artist/0vAR5oDr4QsiUWm8aTFuB6), [Billy Valentine](https://open.spotify.com/artist/4AYoCwXHaaxeaM8DtzP3zg), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [FATHER SON](https://open.spotify.com/album/4eLAsdyOfNsiuczW6Iyc24) | 4:04 |
+| 8 | [Grown Now](https://open.spotify.com/track/1G4QXkxFkadwNDEJSDWnfl) | [D.K\. Harrell](https://open.spotify.com/artist/33YoCLWWu9T6IdrXxCHsyx) | [Grown Now](https://open.spotify.com/album/0WU81ML0nzuJwgxRTgSdBk) | 3:52 |
+| 9 | [Long Is The Road](https://open.spotify.com/track/5XQOSllj9gEysxv5qxIqtv) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Family](https://open.spotify.com/album/0IMJyZewJS5Lj2WHBG23J3) | 3:07 |
 | 10 | [You So Fine](https://open.spotify.com/track/2lXtNjYs5zZb36wT2uMl1G) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p), [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [Young Fashioned Ways](https://open.spotify.com/album/7mOQINgLEPn6qh11ICNhWp) | 3:45 |
 | 11 | [Look What I’ve Become](https://open.spotify.com/track/2YjMliKzi6Ywcj1DhtPmxM) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Look What I’ve Become](https://open.spotify.com/album/6Q7E6gda7FzxvuzRV63kAR) | 5:16 |
 | 12 | [Hurting Side of Love](https://open.spotify.com/track/1LVigiHRdDlXSXXShqsTIz) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Hurting Side of Love](https://open.spotify.com/album/1BzRU0zclhY552eafqdMbF) | 4:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 | 99 | [Daughter Of Zion \[Feat\. Joe Walsh\]](https://open.spotify.com/track/27S3ILmMMln0kQjmxLghjA) | [Glenn Schwartz](https://open.spotify.com/artist/5LZLhHjT5eCyy2kMaFPSqc), [Joe Walsh](https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK) | [Daughter Of Zion \[Feat\. Joe Walsh\]](https://open.spotify.com/album/73hDokQXIjjMe6AqzG5PuI) | 4:36 |
 | 100 | [The Squirrel Juice Blues](https://open.spotify.com/track/221lZ6bk3a8w3JyAztN0KW) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Soft Spot \(Deluxe\)](https://open.spotify.com/album/2smg61fQVg6eoY05xZLDu5) | 3:38 |
 
-Snapshot ID: `aC/y5AAAAADybdW0WWGILWAJAvYdBVHC`
+Snapshot ID: `aDktUwAAAAAymhIcc5k/RMaUfwqnvgyQ`

@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-375 songs - 21 hr 37 min
+376 songs - 21 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [Jag behöver dig](https://open.spotify.com/track/4pL2Mg4Av6frPodx5GzYXM) | [Lisa Miskovsky](https://open.spotify.com/artist/5J0dXmqEYctfFsmcakqZFH) | [Jag behöver dig](https://open.spotify.com/album/06YF9B4vYaA6kDD6Wjf3NW) | 4:46 | 2024-10-03 | 2024-10-16 |
 | [Jag gör allt som man inte får](https://open.spotify.com/track/7MyUU3mlh2g4FtSjPUItXL) | [Rolf Wikström](https://open.spotify.com/artist/6JnHX2U0qF3EcoAHta5V3r) | [Jag gör allt som man inte får](https://open.spotify.com/album/26AjUi95V3BArfHFPfBcWz) | 3:04 | 2024-06-27 | 2024-09-06 |
 | [Jag hör också rösterna](https://open.spotify.com/track/5R2BEPAaK1X8XShxbH42H6) | [Terra ](https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1) | [Jag hör också rösterna](https://open.spotify.com/album/72jvBIYYhGQxAi5fAvHENi) | 4:05 | 2025-01-23 | 2025-05-30 |
+| [Jag vill drömma](https://open.spotify.com/track/2lWBXbSIVtzGFq3egd7al4) | [Herreys](https://open.spotify.com/artist/2uS8ryCr9KuXzh7Y4xowle) | [Jag vill drömma](https://open.spotify.com/album/18dsriIndUm1FaelXGnzF8) | 3:24 | 2025-05-29 |  |
 | [Jag Vill Inte Va Med](https://open.spotify.com/track/4XcVFMu1a1DMVxriUSSqps) | [Avantgardet](https://open.spotify.com/artist/7eX1F6FIRszrebMLdM1BpQ) | [Noof Belfast – Nybro City](https://open.spotify.com/album/5WstAcClR0wOb8M18QSEKz) | 4:04 | 2024-10-24 | 2024-11-08 |
 | [Jag vill stanna här](https://open.spotify.com/track/1UZ6xtJ0O1t7FggXjILBfR) | [Staffan Hellstrand](https://open.spotify.com/artist/0smhbmfhr1L1vFZskdZIsl) | [Jag vill stanna här](https://open.spotify.com/album/4dyngznUL3t27C2W2kasOB) | 3:23 | 2024-06-27 | 2024-08-09 |
 | [Jag vill tacka livet](https://open.spotify.com/track/7bgXaQmsifJMTDk80rNd5U) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Så mycket bättre 2024 \(Tolkningarna\)](https://open.spotify.com/album/5MW11hiXsVTNA6gGekn8Dq) | 3:57 | 2024-10-24 | 2025-05-02 |
@@ -303,7 +304,7 @@
 | [Sommarens famn](https://open.spotify.com/track/5xLNxhh0HZ1KrV0fV4A27u) | [Shirley Clamp](https://open.spotify.com/artist/09AdawDC7B5zcphs18nRB7) | [Sommarens famn](https://open.spotify.com/album/7ssgVuGc19hQ6nDgQQNi9f) | 2:54 | 2024-06-27 | 2024-09-15 |
 | [Sommartider](https://open.spotify.com/track/3jGs9Nt1ZoxJou5gVEEech) | [CISSI](https://open.spotify.com/artist/4UoHgzMFm9BAVddtfwLrlk) | [Sommartider](https://open.spotify.com/album/4WEMP3mTVAWogpn0Dfpnll) | 2:40 | 2024-06-27 | 2024-08-23 |
 | [Spacer \(Reimagined\)](https://open.spotify.com/track/5OY3iMYgsGcqDfxbcxZ7PK) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Spacer \(Reimagined\)](https://open.spotify.com/album/52oKQNPiIAmYOFTBSIny5q) | 3:08 | 2024-06-27 | 2024-08-16 |
-| [Spartas Svarta Hjärta](https://open.spotify.com/track/3Ezo5xeahAV0s0JBiHlEey) | [Jonathan Johansson](https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe) | [Vita Skelett](https://open.spotify.com/album/3DSky97p2svAX6gNnyqUOl) | 3:03 | 2025-03-25 |  |
+| [Spartas Svarta Hjärta](https://open.spotify.com/track/3Ezo5xeahAV0s0JBiHlEey) | [Jonathan Johansson](https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe) | [Vita Skelett](https://open.spotify.com/album/3DSky97p2svAX6gNnyqUOl) | 3:03 | 2025-03-25 | 2025-05-31 |
 | [Sparvöga](https://open.spotify.com/track/7Ad48doEcyyr91oRgTg2sz) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Sparvöga / I skydd av mörkret](https://open.spotify.com/album/3fmuDEVEgtEIYqEYEaDF1f) | 3:20 | 2025-01-23 | 2025-05-30 |
 | [Spin The Bottle](https://open.spotify.com/track/1W0AJZWfVldNrgNDoaqRkY) | [Robin Bengtsson](https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS) | [Spin The Bottle](https://open.spotify.com/album/2PhwRImFoeE9HvSMsyrjfz) | 3:06 | 2025-05-01 |  |
 | [Stjärnorna](https://open.spotify.com/track/3LMOtdKFkGrz3rHycZntPm) | [Daniel Lemma](https://open.spotify.com/artist/14ch8ZI4tN3IlWAAchEKeS) | [Stjärnorna](https://open.spotify.com/album/4MyRVj71HgtDonhDzJyFq3) | 4:14 | 2024-12-05 | 2025-01-03 |

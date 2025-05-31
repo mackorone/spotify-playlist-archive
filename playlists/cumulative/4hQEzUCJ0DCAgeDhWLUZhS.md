@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Green Day
 
-472 songs - 1 day 3 hr 39 min
+474 songs - 1 day 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Asphalt Meadows](https://open.spotify.com/track/7xjbn0bhs7zx7E1s0lCqT3) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Asphalt Meadows](https://open.spotify.com/album/2PIWPTOIxbaVSjTnc30vXS) | 4:05 | 2022-09-16 |  |
 | [Assume Your Ultimate Form](https://open.spotify.com/track/3AV4Hwma9jsmY6RR2B1cmK) | [Iron Mind](https://open.spotify.com/artist/4FM1JEy3ztOTABIpQulaxF) | [Assume Your Ultimate Form](https://open.spotify.com/album/0OROBjp8G7dQw9icpzhWtE) | 2:43 | 2023-09-13 |  |
 | [BACK2YOU \(feat\. blackbear\)](https://open.spotify.com/track/0Ih5m31aOTcaTL4PnvGgYS) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [BLOODLUST](https://open.spotify.com/album/78LoEWcpdvgRImtnfTZe0q) | 2:32 | 2020-10-10\* | 2021-02-25 |
+| [Backseat](https://open.spotify.com/track/7yT4NJt5rgmVoMJMGPULcj) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Backseat](https://open.spotify.com/album/4SnYbgZqKOxc2eCRdMS3xu) | 6:23 | 2025-05-30 |  |
 | [Banks](https://open.spotify.com/track/4zQVafVtpPQMVfe96ES3CS) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Banks](https://open.spotify.com/album/506L9syhCW4JNuMHjwtZ5D) | 4:00 | 2020-10-10\* | 2022-03-18 |
 | [Barbaric](https://open.spotify.com/track/71o2pLB6Xu62uVjqpwmiS9) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Ballad of Darren](https://open.spotify.com/album/0gIZSG9WUDO3TK0B5y7UtU) | 4:08 | 2023-07-20 |  |
 | [Beautiful James](https://open.spotify.com/track/1ntKR7JwE12hKJNjupLzhG) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Beautiful James](https://open.spotify.com/album/6JCSXagVYDarxrUZ18dw6b) | 4:08 | 2021-09-18 | 2025-05-28 |
@@ -386,6 +387,7 @@
 | [Stupid Is As Stupid Does \(feat\. K.Flay\)](https://open.spotify.com/track/7gpftvWH71HcwbYPe4CgMB) | [Dune Rats](https://open.spotify.com/artist/0KtaCKmTMIQZsxlOgyNa04), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Hurry Up And Wait](https://open.spotify.com/album/42pD3Dn7Oa7L3XLEzWYvDz) | 3:00 | 2020-10-10\* | 2021-05-13 |
 | [Sugar Shack](https://open.spotify.com/track/2znRvlKPf9UWTLM6H3N0JQ) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Sugar Shack](https://open.spotify.com/album/0TUHKmsD9J2d0vVepO3jqP) | 3:58 | 2020-10-10\* | 2021-02-25 |
 | [Summertime Voodoo](https://open.spotify.com/track/5BnqgwkMSUp9gDYy9gHxYF) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [Summertime Voodoo](https://open.spotify.com/album/0ZnQYSd99bPzYRMCKd3B6P) | 6:28 | 2024-05-16 |  |
+| [Sunset Psalm](https://open.spotify.com/track/5wnKqpNO2h39M44TMQk3cC) | [Brad Cox](https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM) | [Sunset Psalm](https://open.spotify.com/album/6kB1iLsUqM30kw5d8Fgg31) | 4:09 | 2025-05-30 |  |
 | [SUPERSTAR](https://open.spotify.com/track/6Fu8XQBoFjNP4zcoYMAOcF) | [Matilda Pearl](https://open.spotify.com/artist/4UwWCi0aYGKsyVgCKf20tw), [Hey! Astro](https://open.spotify.com/artist/1kqvSaPRrMEjWr4wEi9pfl) | [SUPERSTAR](https://open.spotify.com/album/4HWScXOs4y1fUrwGzrlgzg) | 3:03 | 2023-12-01 | 2025-05-28 |
 | [Surrounded By Spies](https://open.spotify.com/track/5LXezNuUE2SRJhoqiwTs3P) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Surrounded By Spies](https://open.spotify.com/album/1oXC9xTnpHTqZ4zupV54Md) | 5:14 | 2021-11-12 | 2025-05-28 |
 | [T.M.I](https://open.spotify.com/track/3Gmzz9nQJHhtDSqLZhBgrt) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Past // Present // Future](https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve) | 2:45 | 2023-03-13 |  |

@@ -4,7 +4,7 @@
 
 > The biggest Dancehall playlist in the world\. Cover: Kardinal Offishall
 
-521 songs - 1 day 1 hr 28 min
+522 songs - 1 day 1 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Everything Fi Hold Him](https://open.spotify.com/track/7v2IaYqhKoMndOWt6Krsgd) | [Gaza Slim](https://open.spotify.com/artist/7mPRzTE0BI6QMFmWhevSog) | [Girl Boss \- The Realest Girl](https://open.spotify.com/album/3m2CNO9jD3BKz8vusgkDYE) | 3:46 | 2023-07-10 | 2023-08-08 |
 | [Ex Boyfriend](https://open.spotify.com/track/7n3wqMgEQVIKdM791haDBG) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Ex Boyfriend](https://open.spotify.com/album/3dWgaQ4prMrZcPYN08zoTh) | 3:22 | 2024-08-05 | 2025-05-30 |
 | [Exam](https://open.spotify.com/track/1vvOSbbwy2BEGgY2UTXe8t) | [Cashh](https://open.spotify.com/artist/1CTdJErNqnCWNwtxJmleua), [Pablo YG](https://open.spotify.com/artist/0JFNiVq6LHCFEJk9ilmh9K) | [Exam](https://open.spotify.com/album/7hsjztvmT9RWGxodTB9cWO) | 2:41 | 2025-05-16 |  |
+| [Exhale](https://open.spotify.com/track/7jBFwgg6VuouRO3O6aO3lS) | [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N), [9MR](https://open.spotify.com/artist/1hBmokyEMieW8SaOVyxp8l), [Big Hitz](https://open.spotify.com/artist/0k70OJzzwD4pPqMf0jptlG) | [Exhale](https://open.spotify.com/album/3mMjZKdGRvmPXIYarX6aQb) | 2:33 | 2025-05-29 |  |
 | [Expensive](https://open.spotify.com/track/1y6bjh1s2Y1FG7CnSZnHqq) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti) | [Expensive](https://open.spotify.com/album/0aqdTmcfIcrn3pEin6JvtR) | 3:55 | 2023-04-21 | 2024-04-26 |
 | [Extra Lesson](https://open.spotify.com/track/3cZVPn99tKQBMM5f2bjy6O) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Extra Lesson](https://open.spotify.com/album/4nQA6Tou22zA2nwpgPDzNh) | 3:35 | 2023-07-10 | 2023-08-08 |
 | [Fada Fada \- Raw](https://open.spotify.com/track/7pFMykzlOUeIQiCUH0GuGF) | [Pablo YG](https://open.spotify.com/artist/0JFNiVq6LHCFEJk9ilmh9K) | [Fada Fada](https://open.spotify.com/album/5vSDTxOsDh2EqTH967QpQt) | 2:26 | 2023-11-17 | 2024-04-26 |

@@ -4,7 +4,7 @@
 
 > Everyday should be a happy day when you listen to this fun K\-Pop playlist.
 
-438 songs - 23 hr 54 min
+439 songs - 23 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -361,7 +361,7 @@
 | [Supernova](https://open.spotify.com/track/351KkakA2YtGEXqSEIIasy) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Supernova](https://open.spotify.com/album/0tlwyPgqwZrymr04EfFyry) | 2:58 | 2024-06-21 | 2024-10-29 |
 | [Superwoman](https://open.spotify.com/track/0dCnDWWk79rSoYxcVDpuEc) | [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY) | [Superwoman](https://open.spotify.com/album/2TE6FMZoC19KLaUNb89ChV) | 3:19 | 2022-02-16 | 2022-07-25 |
 | [SUPERWOMAN](https://open.spotify.com/track/4NZZdFybgGq1Xwx4wq2BdB) | [UNIS](https://open.spotify.com/artist/48xyu8QHo1IhsQZGlgNGYZ) | [The 1st Mini Album 'WE UNIS'](https://open.spotify.com/album/3pix2U5QbFUSwOeF1M9Eim) | 3:08 | 2024-03-27 | 2024-06-22 |
-| [SWICY](https://open.spotify.com/track/3owGQ1rmtKXpvwHmF0S2CZ) | [UNIS](https://open.spotify.com/artist/48xyu8QHo1IhsQZGlgNGYZ) | [The 2nd Mini Album 'SWICY'](https://open.spotify.com/album/3S4N457QDAQonUfQU2ACj9) | 3:03 | 2025-05-02 |  |
+| [SWICY](https://open.spotify.com/track/3owGQ1rmtKXpvwHmF0S2CZ) | [UNIS](https://open.spotify.com/artist/48xyu8QHo1IhsQZGlgNGYZ) | [The 2nd Mini Album 'SWICY'](https://open.spotify.com/album/3S4N457QDAQonUfQU2ACj9) | 3:03 | 2025-05-02 | 2025-05-31 |
 | [Switch](https://open.spotify.com/track/2muZNT1f0eVDC6qbCto2Ma) | [KIM WOO SEOK](https://open.spotify.com/artist/4k2MyP64uZ78mvjKd1Ciq2) | [3RD DESIRE \[Reve\]](https://open.spotify.com/album/0wos6TVDS8fbc7WzUgITFY) | 3:23 | 2022-03-10 | 2022-04-19 |
 | [TAKE](https://open.spotify.com/track/0wX7DQSE4BDyng6kpF2uPq) | [Jus2](https://open.spotify.com/artist/1pXX6uuufA0Zrk4Ksuh4nv) | [HE IS PSYCHOMETRIC \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/64X5eTosvyBfgG2gXamatJ) | 3:12 | 2022-03-23 | 2022-04-21 |
 | [Take care \(Prod\. L\-like\)](https://open.spotify.com/track/2dvX7Chy092P8yDgvcIESa) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [TAKE CARE with KozyPop](https://open.spotify.com/album/7cOGNxKyZAEizqDhsDCbIy) | 3:46 | 2022-03-23 | 2022-04-19 |
@@ -382,6 +382,7 @@
 | [The View](https://open.spotify.com/track/78k3g85Ud3Xo5NeX6VimHD) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [NOEASY](https://open.spotify.com/album/5fNA1Hs2ddXrf8CWJk1Ww7) | 3:21 | 2021-12-06 | 2022-07-28 |
 | [Think Of You](https://open.spotify.com/track/5Hvi3XSS00txHgZB6UZhFl) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Never Gonna Dance Again : Act 2 \- The 3rd Album](https://open.spotify.com/album/3xgFGYUOVxGp7pZywdf7AC) | 3:18 | 2021-12-06 | 2022-07-29 |
 | [Throw \(Feat\. Jayci Yucca, Mirani\)](https://open.spotify.com/track/22UCPW2RO81TQl4sMApDlj) | [Minit](https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m), [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM), [미란이 \(Mirani\)](https://open.spotify.com/artist/453XhIUlEOGaL8KpQk7OQh) | [BLUE](https://open.spotify.com/album/7EEfx1xcQctDkuLnsr4ygD) | 2:41 | 2022-02-07 | 2022-04-14 |
+| [THUNDER](https://open.spotify.com/track/0qkYuCno3SoU8vxkCdx0iJ) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 5th Album 'HAPPY BURSTDAY'](https://open.spotify.com/album/0xlyof8BowaJtYPsxWYmkN) | 2:44 | 2025-05-30 |  |
 | [Time Of Love](https://open.spotify.com/track/7CXXE0TJeCjsVIKnnATvmJ) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.2](https://open.spotify.com/album/1JMc8IZ1Jbax6m5OvswmAB) | 2:56 | 2021-12-28 | 2022-07-09 |
 | [TIPSY](https://open.spotify.com/track/7BkIro1hHRs2pczrk0qKqs) | [Llwyd](https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0) | [Luminous](https://open.spotify.com/album/3sgBQ8EZ1HZ9Ti11gjzvip) | 2:55 | 2022-04-19 | 2022-05-04 |
 | [Today's Weather \(From "Spring Is Gone" \[Original Soundtrack\]\)](https://open.spotify.com/track/6oK4qRi5kCaWpo0bwhBbRl) | [Yu Seung Woo](https://open.spotify.com/artist/5ZSPRYslMYdwfwkKNcmBJf) | [Today's Weather \(From "Spring Is Gone" \[Original Soundtrack\]\)](https://open.spotify.com/album/6RCjA02nGoEqphsjT6ZQGZ) | 3:40 | 2022-04-04 | 2022-04-20 |

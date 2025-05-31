@@ -4,7 +4,7 @@
 
 > A new shade of Country\. Cover: Sam Barber
 
-625 songs - 1 day 14 hr 10 min
+626 songs - 1 day 14 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Caught Me at a Good Time](https://open.spotify.com/track/1d8vNPCq2S9pIpVuqliraI) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Country Coming Down](https://open.spotify.com/album/3hYtvhC4TBoNfoWgtioNMR) | 2:49 | 2022-04-01 | 2023-03-25 |
 | [Celebrants](https://open.spotify.com/track/2oiIZsx8TsmnKF5TvY42aq) | [Nickel Creek](https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ) | [Celebrants](https://open.spotify.com/album/2ruZGj3O7oL91f9re3BXLq) | 3:23 | 2023-03-24 | 2024-03-23 |
 | [Certainty](https://open.spotify.com/track/10DoOnXIHg8Zn3Iucy8Tmu) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Certainty](https://open.spotify.com/album/5VoX2zqhcLicZDikIF5zlw) | 3:07 | 2021-12-17 | 2022-01-15 |
+| [Chainsmokin Memories](https://open.spotify.com/track/7wOSFDy8zijPSlA3y064Oz) | [Thelma & James](https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE) | [Chainsmokin Memories](https://open.spotify.com/album/3rt7VMQTX8Iw19AuWgTzOz) | 2:57 | 2025-05-30 |  |
 | [Change Of Heart](https://open.spotify.com/track/68DSsSVGCUwfEMeZI6xhxW) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Change Of Heart](https://open.spotify.com/album/35XgdqqbXM9OBWuApaiPJ3) | 4:03 | 2022-09-23 | 2023-02-04 |
 | [Change Of Heart](https://open.spotify.com/track/1t4mMKc8eqxWwfYD8YtuT2) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Change Of Heart](https://open.spotify.com/album/6UrqZ5ZhjJRBA2LcyaXxOc) | 3:43 | 2023-03-17 | 2024-08-17 |
 | [Change Of Heart \[Feat\. Sierra Ferrell\]](https://open.spotify.com/track/3RMBqywLJEMrNIcFeasnme) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Change Of Heart \[Feat\. Sierra Ferrell\]](https://open.spotify.com/album/230BtBKWaVO3EkDhfyk3MB) | 3:43 | 2023-03-24 | 2024-04-19 |

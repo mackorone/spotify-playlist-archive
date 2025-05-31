@@ -2,9 +2,9 @@
 
 ### [Québécois Contemporain](https://open.spotify.com/playlist/37i9dQZF1DX8X9gjW0N3D7)
 
-> De la musique québécoise pour tous les goûts\. Photo: Mario Pelchat, Isabelle Boulay
+> De la musique québécoise pour tous les goûts\. Photo: Gab Bouchard
 
-161 songs - 8 hr 42 min
+162 songs - 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Le reste du temps](https://open.spotify.com/track/3W5N7Yzq14iQ3Zxy1gJPM7) | [Andréanne A\. Malette](https://open.spotify.com/artist/7Cm84tcv4znPwVFtFyIdBB) | [Le reste du temps](https://open.spotify.com/album/6mQG6GKJVdB70oYwl60Yzw) | 3:28 | 2024-06-28 | 2025-04-05 |
 | [Le Roy, la Rose et le Lou\[p\] \- Chanson thème](https://open.spotify.com/track/6SOvfUrHfJZz4GXsJPeIkV) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt), [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt), [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [Le Roy, la Rose et le Lou\[p\] \(Chanson thème\)](https://open.spotify.com/album/15whtpDeiswR48UotutzI4) | 2:23 | 2024-06-28 | 2024-09-28 |
 | [Le secret](https://open.spotify.com/track/1iLTV03L1kSo2M5AN0z3BE) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Le secret](https://open.spotify.com/album/2pkqJCNYaXmJdHNOKN66Zq) | 3:05 | 2024-09-20 | 2024-10-19 |
+| [Le soleil se lève à chaque matin](https://open.spotify.com/track/5WG33RZwr6ISdiOv5YpxVw) | [Dany Placard](https://open.spotify.com/artist/5sjde1NFxsXN9EjZyMbhHp) | [Le soleil se lève à chaque matin](https://open.spotify.com/album/68BYMaZ4D1mzxuaWlCbmue) | 2:36 | 2025-05-30 |  |
 | [Le stade](https://open.spotify.com/track/4CLliCkjzI04eoHKXMI68H) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Demain il fera beau](https://open.spotify.com/album/74gQAViAPXnavitK5BTOmv) | 2:23 | 2024-06-28 | 2025-04-19 |
 | [Les chemins de travers](https://open.spotify.com/track/48I7QLC2SNkoLIF5mEqO1j) | [Tire Le Coyote](https://open.spotify.com/artist/0IC1NWkemYHVzpF7gISLku) | [Dynastie](https://open.spotify.com/album/7iQA80BCQhFCWe0In1PRp0) | 5:00 | 2024-10-04 |  |
 | [Les entêté.e.s](https://open.spotify.com/track/4e8lef1lBidiTu7WlUWJ5N) | [Ian Kelly](https://open.spotify.com/artist/7ojsy2hVaM5udoJQEVVLow) | [Les entêté.e.s](https://open.spotify.com/album/5KQpJr1SouixdnYo6iH02L) | 3:26 | 2024-06-28 | 2024-09-28 |
@@ -163,7 +164,7 @@
 | [Uummati Attanarsimat \(Heart of Glass\)](https://open.spotify.com/track/4GgQWuxZL8qbZUHHA0wWuI) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Inuktitut](https://open.spotify.com/album/6Kw9owtgtKeyx9LSM1CEzP) | 3:58 | 2024-06-28 | 2025-04-12 |
 | [Vol à l'étalage](https://open.spotify.com/track/6g7nJF5VdDBAO2yAT4KN4V) | [Les Trois Accords](https://open.spotify.com/artist/2Xoi1HPP0Wa6nyNSYyHxgI) | [Présence d'esprit](https://open.spotify.com/album/2l642fbBnGoi2872LHn9Yl) | 3:28 | 2024-06-28 | 2025-02-15 |
 | [Voler](https://open.spotify.com/track/3eXDWw4syMm0zpacdBW8E6) | [Alfa Rococo](https://open.spotify.com/artist/6nG2T7gGBQilOJXPWw0F0n) | [Voler](https://open.spotify.com/album/1m2dG1nPEixPOa8kAnPhEU) | 3:50 | 2024-08-30 | 2024-10-05 |
-| [À l'envers](https://open.spotify.com/track/0f3acPxu7bt8ukIWqUZJAE) | [Sophie Grenier](https://open.spotify.com/artist/3JMrRREEeixveAxloDEuNS) | [À l'envers](https://open.spotify.com/album/4jMPq40oVFbvtZIl5GWoRT) | 2:44 | 2024-06-28 |  |
+| [À l'envers](https://open.spotify.com/track/0f3acPxu7bt8ukIWqUZJAE) | [Sophie Grenier](https://open.spotify.com/artist/3JMrRREEeixveAxloDEuNS) | [À l'envers](https://open.spotify.com/album/4jMPq40oVFbvtZIl5GWoRT) | 2:44 | 2024-06-28 | 2025-05-31 |
 | [À la bonne place au bon moment](https://open.spotify.com/track/2kEcw9Ek5Knk1qL8iyypqL) | [Yann Perreau](https://open.spotify.com/artist/0Fk3xExGqwbRwLyWUjUl8V) | [Perro del amor](https://open.spotify.com/album/458c5LdX8nbbNR3qtyQzBc) | 2:53 | 2024-11-08 |  |
 | [À quand les vacances](https://open.spotify.com/track/0TAzgVxTwP1cCPzkzyNsUU) | [Jeanne Côté](https://open.spotify.com/artist/2dNYXvbpBSHNjYc8eAvQB7) | [À quand les vacances](https://open.spotify.com/album/6DqlBT724KRL48bCsabY5y) | 3:16 | 2025-01-24 |  |
 | [Élégante solitude](https://open.spotify.com/track/0loARlB8O9A4pzg11S9HcA) | [Bobby Bazini](https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth) | [Élégante solitude](https://open.spotify.com/album/2B5BVIG8wV5t0KBxSeMyem) | 4:20 | 2025-03-14 | 2025-05-17 |

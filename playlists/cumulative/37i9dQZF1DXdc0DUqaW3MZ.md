@@ -4,7 +4,7 @@
 
 > 
 
-445 songs - 1 day 2 hr 12 min
+446 songs - 1 day 2 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Consent](https://open.spotify.com/track/4sZrit6cIRnRDVTRdbAm5M) | [Treasure Bloom](https://open.spotify.com/artist/6iGEAcDw1wO4jk35r89Rft) | [Consent](https://open.spotify.com/album/3QkuIUcbIRQHsl9LQDNREe) | 3:06 | 2022-05-06 | 2022-05-08 |
 | [Contortions](https://open.spotify.com/track/6jg4fIQ34KPE57pJ1hxuE7) | [David Marston](https://open.spotify.com/artist/38vIH7ZszEshcDGZIMgEYl), [Life on Planets](https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO), [Hannah Noelle](https://open.spotify.com/artist/1lE36WexHt1gmXkxRt6DYC), [Dan Izco](https://open.spotify.com/artist/5pnOf48CGxTEcDL7d61Xfh) | [Contortions](https://open.spotify.com/album/6QNiYndJJPIqP2CgvCQqX4) | 3:20 | 2021-12-07 | 2022-04-17 |
 | [Cosmos \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/1E5y9PZLIAngpD0L699Ul9) | [Paul Epworth](https://open.spotify.com/artist/04ouBKIoUizgF9j6v6TWR8), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Voyager](https://open.spotify.com/album/6inskjOXMnEFnxt0QUFFYu) | 3:49 | 2021-12-07 | 2022-07-27 |
+| [Crave](https://open.spotify.com/track/75ZvCtDorLfeaaTKyX7s1z) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Crave](https://open.spotify.com/album/6bC4wS1VnIVFhlks2Wx0XX) | 3:26 | 2025-05-29 |  |
 | [Cruisin](https://open.spotify.com/track/6k72w5n6bjf3gSgNId74sS) | [Gemma Dunleavy](https://open.spotify.com/artist/4RdnMFmYii89p8VnyvPHKr) | [UP DE FLATS](https://open.spotify.com/album/2esDA3iMpjo3Svojw12GXZ) | 4:24 | 2021-12-07 | 2022-07-21 |
 | [Cruisin \- Swing Ting Remix](https://open.spotify.com/track/3wsKu0v64U1SIesr9oLcnW) | [Gemma Dunleavy](https://open.spotify.com/artist/4RdnMFmYii89p8VnyvPHKr), [Swing Ting](https://open.spotify.com/artist/6fvaKKPtpStFRXRTMmnYMX) | [Cruisin \(Swing Ting Remix\)](https://open.spotify.com/album/4USanuoufCMpzHgz9n5alY) | 4:14 | 2021-12-07 | 2022-07-17 |
 | [Cut Me](https://open.spotify.com/track/1A2BT8JYVRjsKdswwvWXG6) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [græ](https://open.spotify.com/album/1iYsYnkc0Bccy66X4GQ2tm) | 4:10 | 2022-06-20 | 2024-04-19 |
@@ -103,7 +104,7 @@
 | [Dancing on my Own](https://open.spotify.com/track/2AFGJ4Ul9oTOADze6ovYNb) | [Bone Slim](https://open.spotify.com/artist/5VoreVetRqMEFui6KpGdt2), [Subculture](https://open.spotify.com/artist/45CiOVzqS9wkh8pX59IOfx) | [Dancing on my Own](https://open.spotify.com/album/6IjF7arrtlqcYJDdW0KhSc) | 3:22 | 2022-04-11 | 2022-04-21 |
 | [Dark Days](https://open.spotify.com/track/7uVs1CPR9XUU68NvGlOVeS) | [glue70](https://open.spotify.com/artist/3AsWxxZTFPoCFxM1s8Lg1J) | [Dark Days](https://open.spotify.com/album/23kL4YG4eeiHyG0cYiEOg3) | 2:42 | 2021-12-07 | 2022-04-20 |
 | [DARLING DRIVE](https://open.spotify.com/track/3JhpAudiaS7sjVGnL09fx2) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL), [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [DARLING DRIVE](https://open.spotify.com/album/6Mu1C7bpcOqWBvniV7OFRm) | 3:19 | 2024-01-12 |  |
-| [DAY&NITE](https://open.spotify.com/track/0SPsbPw8Vmv1dgjgN86UgV) | [Wilfy D](https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR) | [DAY&NITE](https://open.spotify.com/album/10hFZkOt9rGav70EtYdVuB) | 3:25 | 2024-10-25 |  |
+| [DAY&NITE](https://open.spotify.com/track/0SPsbPw8Vmv1dgjgN86UgV) | [Wilfy D](https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR) | [DAY&NITE](https://open.spotify.com/album/10hFZkOt9rGav70EtYdVuB) | 3:25 | 2024-10-25 | 2025-05-31 |
 | [Daydreaming \- Sgt Slick Remix](https://open.spotify.com/track/1FCBtlxyee0yiZn0EnxtTk) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l), [Sgt Slick](https://open.spotify.com/artist/64rqoVt9ShRtUCU0bPKQll) | [Daydreaming \(Sgt Slick Remix\)](https://open.spotify.com/album/0pb2S4bdo6TTYa1cYGSsT6) | 3:04 | 2023-11-17 | 2025-05-30 |
 | [Deafened \(feat\. Family Habits\)](https://open.spotify.com/track/1uQGRe4JpJqKqYvMRkeOtV) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [Family Habits](https://open.spotify.com/artist/7yxQ5wpTnQNvwNHYOplK0Y) | [Deafened \(feat\. Family Habits\)](https://open.spotify.com/album/6M7RWJ6fmwKh8AqoAb5SYy) | 3:21 | 2024-04-04 |  |
 | [Debold](https://open.spotify.com/track/249L7XvMpl08wN5vhivz1j) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [Only Diamonds Cut Diamonds](https://open.spotify.com/album/3UlMZUzswHGJKzPigY936g) | 2:43 | 2022-06-20 | 2023-12-14 |

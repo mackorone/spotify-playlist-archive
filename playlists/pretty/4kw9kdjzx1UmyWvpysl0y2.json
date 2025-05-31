@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125292,
+  "num_followers": 125289,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUJKrwtg2y/rQQNvKt7yWfqCWdq/Cv",
+  "snapshot_id": "AAAUJT4dtbWrAIcGmi2WxYzzC6t03i0j",
   "tracks": [
+    {
+      "added_at": "2025-05-30 15:05:55",
+      "album": {
+        "name": "FACTORY RESET",
+        "url": "https://open.spotify.com/album/7dFJFqT1GREbgvxDt1kOqs"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Machine",
+          "url": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
+        }
+      ],
+      "duration_ms": 180400,
+      "name": "MVP",
+      "url": "https://open.spotify.com/track/2MElEaMO50OWgkRZx7pgwa"
+    },
     {
       "added_at": "2025-05-29 14:40:21",
       "album": {
@@ -24,7 +40,7 @@
           "url": "https://open.spotify.com/artist/5a7fjnssojVKbMnLJ7VUsa"
         }
       ],
-      "duration_ms": 181818,
+      "duration_ms": 143636,
       "name": "Never Enough",
       "url": "https://open.spotify.com/track/1rgfcr124GjfgOVG6iL5vb"
     },

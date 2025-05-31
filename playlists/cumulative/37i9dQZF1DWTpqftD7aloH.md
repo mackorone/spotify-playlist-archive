@@ -4,7 +4,7 @@
 
 > No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.
 
-452 songs - 1 day 19 hr 56 min
+453 songs - 1 day 20 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Atenção \- Ao Vivo](https://open.spotify.com/track/3SS018aCGCgHI1Hcn0fAYS) | [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom), [Silas Simões](https://open.spotify.com/artist/0o1MH6PBeBMiZOcbxsNj8r) | [Atenção \(Ao Vivo\)](https://open.spotify.com/album/3RSielfFcEPyj7XiFN8H87) | 3:18 | 2024-08-16 | 2024-11-23 |
 | [Autor da Vida](https://open.spotify.com/track/2iCrDCZRIiqXkoRY6eDviQ) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Autor da Vida](https://open.spotify.com/album/4gHZbXybaO7k9sQducvAeN) | 4:55 | 2023-09-01 | 2023-09-17 |
 | [Auê \(A Fé Ganhou\)](https://open.spotify.com/track/50W1rtz1xOmrqbL0HPg7Ro) | [Marco Telles](https://open.spotify.com/artist/1i2hM139lmyTdukYTJKHsJ), [Coletivo Candiero](https://open.spotify.com/artist/2WoLRZ8lSMvx4BWJGNblqV), [Filipe da Guia](https://open.spotify.com/artist/7evpKIZ6v0ctYR24lIeQ4a), [Ana Heloysa](https://open.spotify.com/artist/57AZPoFXiEjFDMGRt5uTG4) | [O Grande Banquete](https://open.spotify.com/album/1q6vwW5Cz3X9UdQW6BZwBw) | 5:15 | 2025-02-21 |  |
-| [Avenida do Arrependimento](https://open.spotify.com/track/6gFSzsRAZOG9tRPcnWwkdT) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1), [Jorge](https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ) | [Avenida do Arrependimento](https://open.spotify.com/album/2ttxcuefm67xcXkS8JZLzs) | 6:30 | 2025-05-02 |  |
+| [Avenida do Arrependimento](https://open.spotify.com/track/6gFSzsRAZOG9tRPcnWwkdT) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1), [Jorge](https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ) | [Avenida do Arrependimento](https://open.spotify.com/album/2ttxcuefm67xcXkS8JZLzs) | 6:30 | 2025-05-02 | 2025-05-31 |
 | [Aviva\-nos \(Ao Vivo\)](https://open.spotify.com/track/03mpdr8HJfKqihrPDl9F14) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Aviva\-nos \(Ao Vivo\)](https://open.spotify.com/album/0WvYxMgrxjbcpSlLexrjRT) | 6:02 | 2023-03-17 | 2023-10-07 |
 | [Azeite \(Ao Vivo\)](https://open.spotify.com/track/6pVm1C9RyzEZJI0o643h74) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Azeite \(Ao Vivo\)](https://open.spotify.com/album/7GnXwS8TebApYSBsIeRRnf) | 4:32 | 2024-04-19 | 2024-09-07 |
 | [Basta Uma Palavra \- Ao Vivo](https://open.spotify.com/track/0U2benhYuZh2HbHGqIRdJc) | [Gabi Sampaio](https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ) | [Basta Uma Palavra \(Ao Vivo\)](https://open.spotify.com/album/0riGIG04pA2LMpwno955Nd) | 9:22 | 2024-08-16 | 2025-05-03 |
@@ -432,6 +432,7 @@
 | [Vento Impetuoso](https://open.spotify.com/track/7rV0gKsZndQeQ3OhXxoAGM) | [Ministério Atitude](https://open.spotify.com/artist/0pbx4jJ7KkygStvqKplUV4), [Filipe Bitencourt](https://open.spotify.com/artist/12eLZflwp21B3NNLVlKKsR) | [Vento Impetuoso \(ao vivo\)](https://open.spotify.com/album/0Hh7iFFwGykH9FaPiA5MRJ) | 6:38 | 2024-06-28 | 2024-07-19 |
 | [Verdadeira Adoração \- Ao Vivo](https://open.spotify.com/track/6NiC5J44xmSx5khpYTs0pE) | [Vitória Lima](https://open.spotify.com/artist/3gLt37xxZ7gMhLeoymcJeW) | [Verdadeira Adoração \(Ao Vivo\)](https://open.spotify.com/album/4mll9sU4DycQsglDjkOwek) | 6:07 | 2025-01-31 |  |
 | [Vida \- Ao Vivo](https://open.spotify.com/track/5BRY9EOYsV2TtB8qm43GHf) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V), [Alexandre Pires](https://open.spotify.com/artist/0Rrl4hJQjRAbGtiEwAqS5N) | [Vida \(Ao Vivo\)](https://open.spotify.com/album/2EgB2hkSzkIb1hl6ukjXgA) | 4:18 | 2023-09-25 | 2023-10-20 |
+| [Vitorioso És \- Ao Vivo](https://open.spotify.com/track/6e0Ajhx9XtGEzc5d4KxUp8) | [Felipe Rodrigues](https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS) | [Vitorioso És \(Ao Vivo\)](https://open.spotify.com/album/2ENY4tt90kuPHAzdlMbLtT) | 6:15 | 2025-05-30 |  |
 | [Você Não Imagina \(Ao Vivo\)](https://open.spotify.com/track/4t8uyZ19ZtBSEgebcJeJsE) | [Paulo Neto](https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko), [Maria Marçal](https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk) | [Você Não Imagina \(Ao Vivo\)](https://open.spotify.com/album/1XokzozHWzgFRLjlYviT7K) | 6:13 | 2023-07-21 | 2023-08-27 |
 | [Você Não Vai Parar \(Ao Vivo\)](https://open.spotify.com/track/2chAXWVbGV6kgirxLbxsQu) | [Samuel Messias](https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ) | [Você Não Vai Parar \(Ao Vivo\)](https://open.spotify.com/album/43JgTgcJ0OZP4Em9ZlkFYs) | 4:20 | 2022-10-24 | 2025-05-03 |
 | [Volte a Sonhar](https://open.spotify.com/track/6KQq9CDKPTJ9wn6x4kGq9R) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Rompendo](https://open.spotify.com/album/0L9ZMTBc8ZuSL8ExboD92L) | 3:53 | 2022-12-09 | 2023-09-02 |

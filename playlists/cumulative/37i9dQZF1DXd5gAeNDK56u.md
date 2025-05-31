@@ -4,7 +4,7 @@
 
 > Mic check, 1, 2.
 
-134 songs - 5 hr 55 min
+135 songs - 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Frozen](https://open.spotify.com/track/0RJD9vHqbcBG9VX8ml9nL2) | [Dr\. J](https://open.spotify.com/artist/62Pdb8hMXfv0pthw4P7kWi), [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Frozen](https://open.spotify.com/album/23dKuFmFNnE6Te4UfjDews) | 3:09 | 2023-03-27 | 2025-05-10 |
 | [Frozen](https://open.spotify.com/track/6PuJovR9z3hph9MDCiIVgS) | [Dr\. J](https://open.spotify.com/artist/62Pdb8hMXfv0pthw4P7kWi), [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Frozen](https://open.spotify.com/album/0GRRcND8BPMGmFakvmwqWf) | 3:09 | 2023-03-27 | 2024-04-19 |
 | [GAMETIME](https://open.spotify.com/track/13YCzEIXsoBWLEXSyaTeAe) | [SLVG](https://open.spotify.com/artist/779QJkvhTmrxtUGaMo8QbK), [TUNDRAMANE](https://open.spotify.com/artist/3ucTA7IrKCwHk3EvnfRVOu) | [GAMETIME](https://open.spotify.com/album/5WMNiz7h7MoUSYHK1R2s6t) | 1:55 | 2023-03-27 | 2024-02-23 |
+| [Golden Sun](https://open.spotify.com/track/2JSpdiaLcUQPLuroKkBVq0) | [Lucas & Marvin](https://open.spotify.com/artist/2IotGdcet3KtZlvrBjPKjv) | [Golden Sun](https://open.spotify.com/album/49oIt9JSEuril9WSCKQJ95) | 2:59 | 2025-05-30 |  |
 | [Green Tea](https://open.spotify.com/track/5J6kPJitwCWunE3EjHWIHh) | [Crate Diggers](https://open.spotify.com/artist/0WOGvsLAjAft28z7O3QHQ8) | [Green Tea](https://open.spotify.com/album/5m6LyuH74ie0sDQi4MiXqv) | 1:45 | 2023-03-27 | 2024-02-23 |
 | [Hades Sorrow](https://open.spotify.com/track/5EkiYgbK2NaJkdhgBAdLUc) | [No Man In Sight](https://open.spotify.com/artist/2KhyX2WaqJ4hsyymTFKbcL) | [Hades Sorrow](https://open.spotify.com/album/29YdMxQRDsYU7ZGMWlV7kZ) | 2:11 | 2025-03-07 |  |
 | [Heirloom](https://open.spotify.com/track/0mAIE7c7GNYhMffrKAX8cq) | [Demon Hyde](https://open.spotify.com/artist/1uNOwLCW6VYqcymgPCLZE6) | [Heirloom](https://open.spotify.com/album/0iZ9k0l0Rbjuz9GUaFtHrE) | 1:56 | 2024-04-09 |  |

@@ -4,7 +4,7 @@
 
 > The best new electronic music\. Cover: Nilhil Young, Ashkan Dian, Unseen.
 
-5,406 songs - 19 day 0 hr 11 min
+5,407 songs - 19 day 0 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1906,7 +1906,7 @@
 | [Gilgamesh](https://open.spotify.com/track/7vmXmhia1MFqu8t3IAYOkP) | [Spartaque](https://open.spotify.com/artist/2OpUrUeIF1sqWHwSbMPNkB), [Fabio Neural](https://open.spotify.com/artist/18gG21ZrYo2Iq6jeobmdRj) | [Gilgamesh](https://open.spotify.com/album/5vjiZbJumXYEWM9d9Qouol) | 4:44 | 2022-09-01 | 2022-09-17 |
 | [Gimaba](https://open.spotify.com/track/4bNtR2rJGGysUHtppOdxuZ) | [Ron Flatter](https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq) | [Gimaba](https://open.spotify.com/album/5gvrb4YapA2bN44bveaRHz) | 6:43 | 2023-06-01 | 2023-06-23 |
 | [Gimme Love](https://open.spotify.com/track/0TVuBFP53J6m5xfBHzwsMS) | [Crouwel](https://open.spotify.com/artist/1VeS9qe7asGQH9s5J5fjZE) | [Gimme Love](https://open.spotify.com/album/6jsHm6E6CZtQsm3X83fPoO) | 3:40 | 2022-08-25 | 2022-09-17 |
-| [Gimme Now](https://open.spotify.com/track/3z7YTmfbcrZU1ZSC0oFXST) | [Deckert](https://open.spotify.com/artist/6p6VbQGtr0chGqPhRH2aOd) | [Gimme Now](https://open.spotify.com/album/0reN2DMcD1uxtUDLt4LDIj) | 5:01 | 2025-05-22 |  |
+| [Gimme Now](https://open.spotify.com/track/3z7YTmfbcrZU1ZSC0oFXST) | [Deckert](https://open.spotify.com/artist/6p6VbQGtr0chGqPhRH2aOd) | [Gimme Now](https://open.spotify.com/album/0reN2DMcD1uxtUDLt4LDIj) | 5:01 | 2025-05-22 | 2025-05-31 |
 | [Gimme The Word](https://open.spotify.com/track/11uG66DBgeXl3P6vqm4wYC) | [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive), [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Gimme The Word](https://open.spotify.com/album/1CHneZHLHZ5CfWNJT4kSBb) | 2:59 | 2024-05-02 | 2024-05-24 |
 | [Gino Is Alive](https://open.spotify.com/track/0dzBSjQIeOiMmzYxQRW5ZN) | [Flug](https://open.spotify.com/artist/3sMtPWvoIoTE1IR3Ehdf5m), [Marco Faraone](https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3) | [Gino Is Alive EP](https://open.spotify.com/album/5ah9mo87qGgfUWgRmqlAfW) | 6:05 | 2023-04-13 | 2023-04-20 |
 | [Gino Is Alive](https://open.spotify.com/track/7LetQoaD3iaXRMZOwNA4jQ) | [Marco Faraone](https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3), [Flug](https://open.spotify.com/artist/3sMtPWvoIoTE1IR3Ehdf5m) | [Gino Is Alive EP](https://open.spotify.com/album/2N5jzjpKcS2hLQypojjj2Z) | 6:05 | 2023-04-19 | 2023-04-28 |
@@ -3004,6 +3004,7 @@
 | [Matuinï](https://open.spotify.com/track/1oX6ObWf4c68fa6KXhw4CK) | [WITH U](https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV) | [Matuinï](https://open.spotify.com/album/5aSaGG03WIqT1hgur7la7A) | 4:57 | 2024-10-24 | 2024-11-15 |
 | [Maureen](https://open.spotify.com/track/5B2bn35ZDtFlY2a4P0eDH4) | [Verboten Berlin](https://open.spotify.com/artist/6RNhl0w2Lfem0Xjy3l0LKX) | [Maureen](https://open.spotify.com/album/4I7YyCtw3sQmPKd1crdOM6) | 4:21 | 2023-09-21 | 2023-10-06 |
 | [Max Bubble Orchestra](https://open.spotify.com/track/3beXCXbcGFHkxyaVZDid2s) | [Sven Tasnadi](https://open.spotify.com/artist/5s05VygMShUXGXitSYkeyo) | [Max Bubble Orchestra](https://open.spotify.com/album/7xecLe5TOVNWV5eO55B5ZP) | 6:54 | 2023-06-30 | 2023-07-14 |
+| [Maxed Out](https://open.spotify.com/track/2g168jCE2KtGOqNBdsYMew) | [A.D.H.S.](https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl) | [Maxed Out](https://open.spotify.com/album/6OHBHRoeKEkWBfxTl8KFqx) | 4:40 | 2025-05-30 |  |
 | [Maximum](https://open.spotify.com/track/52d7hMqDso3KSzTKT9c0tl) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Maximum](https://open.spotify.com/album/0HljOn1QoHyjlZHqjPHgm0) | 3:25 | 2024-07-25 | 2024-08-09 |
 | [Maya \- Aera Remix](https://open.spotify.com/track/2QL0SeA44IEr5UZLj4l4Bz) | [Nico Morano](https://open.spotify.com/artist/4tgKBxZIclHP0c2Tp8yyyz), [Mewhy](https://open.spotify.com/artist/2haudpnLQ5Kjt6fplURp31), [Aera](https://open.spotify.com/artist/3Pj0WcDp7Df123RzhrTohk) | [Maya \(Aera Remix\)](https://open.spotify.com/album/1DaR5eeGRmEWQh0jqOL6sk) | 5:23 | 2024-02-15 | 2024-03-08 |
 | [Maya Said](https://open.spotify.com/track/0wY785Vr2t5jLrg8KvKRYD) | [Jaymie Silk](https://open.spotify.com/artist/3OvgRSozWRb0Tu1yqblOfr) | [Ghetto Carnival](https://open.spotify.com/album/2S0QSL0J60zQOKPoGg4dz5) | 4:17 | 2023-07-20 | 2023-08-04 |

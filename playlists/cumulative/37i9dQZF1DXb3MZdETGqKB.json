@@ -4903,6 +4903,24 @@
     },
     {
       "album": {
+        "name": "Stained",
+        "url": "https://open.spotify.com/album/1egulPm1dhjjElWYJIhjuW"
+      },
+      "artists": [
+        {
+          "name": "Brittany Broski",
+          "url": "https://open.spotify.com/artist/4bvnxCtWPHufMtiQQuT8nW"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171561,
+      "name": "Stained",
+      "url": "https://open.spotify.com/track/0lLvGzQhd7hADAeC2hUHB0"
+    },
+    {
+      "album": {
         "name": "State of Mind",
         "url": "https://open.spotify.com/album/5VbKTiwTdqTSRsHGlY8lyO"
       },
@@ -5040,7 +5058,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 200858,
       "name": "Strike Gold",
       "url": "https://open.spotify.com/track/3eFCcD8aZJIc2wRmJm6Vyx"
@@ -6143,6 +6161,28 @@
     },
     {
       "album": {
+        "name": "When Will The Love Rain Down",
+        "url": "https://open.spotify.com/album/4W8Z1xjbtA2UsqrSHdOZ3d"
+      },
+      "artists": [
+        {
+          "name": "Robert Randolph",
+          "url": "https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx"
+        },
+        {
+          "name": "Judith Hill",
+          "url": "https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343146,
+      "name": "When Will The Love Rain Down",
+      "url": "https://open.spotify.com/track/5RZC6hR11cilAHjsNMu1gI"
+    },
+    {
+      "album": {
         "name": "Wherever You Are",
         "url": "https://open.spotify.com/album/6KVYtePHIPuCE6L8WmS3Fi"
       },
@@ -6434,7 +6474,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 313326,
       "name": "World on Fire - Warrior Remix",
       "url": "https://open.spotify.com/track/3CzTG4duyqR9YXXDK9k4pc"

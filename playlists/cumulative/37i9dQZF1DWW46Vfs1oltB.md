@@ -2,7 +2,7 @@
 
 ### [KrOWN](https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB)
 
-> The fresh & hottest K\-Hip hop tracks\. \(Cover:<br/>박재범 \(Jay Park\)\)
+> The fresh & hottest K\-Hip hop tracks\. \(Cover:<br/>Dabin\(홍다빈\)\)
 
 1,534 songs - 3 day 10 hr 52 min
 

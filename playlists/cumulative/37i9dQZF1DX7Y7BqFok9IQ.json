@@ -2375,6 +2375,24 @@
     },
     {
       "album": {
+        "name": "HIGH/LOW",
+        "url": "https://open.spotify.com/album/1PdFSe3SjJoJzy7gl8Dpf8"
+      },
+      "artists": [
+        {
+          "name": "Leilani Kilgore",
+          "url": "https://open.spotify.com/artist/2Muoy1Aup07JwrgVDf5XJe"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233488,
+      "name": "HIGH/LOW",
+      "url": "https://open.spotify.com/track/6Y7tVRFyWGq2XT1sSWW5b6"
+    },
+    {
+      "album": {
         "name": "Higher Power",
         "url": "https://open.spotify.com/album/1IUvobngXGOyJ4BdtlYILD"
       },
@@ -3094,7 +3112,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 240484,
       "name": "Karma",
       "url": "https://open.spotify.com/track/6ALXjAfjb7cZkNYvmbf419"
@@ -4133,6 +4151,24 @@
     },
     {
       "album": {
+        "name": "Nowheresville",
+        "url": "https://open.spotify.com/album/3bu3QdzH2FgrNTFrmjy3UE"
+      },
+      "artists": [
+        {
+          "name": "RMB",
+          "url": "https://open.spotify.com/artist/6VkGjMJuoZnn4Yz1xXBouh"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270736,
+      "name": "Nowheresville",
+      "url": "https://open.spotify.com/track/5ge6Um0eo4aQ9CmgYRCS3B"
+    },
+    {
+      "album": {
         "name": "Give It Back To You",
         "url": "https://open.spotify.com/album/2Rqva9thIdrhXv0VKSvgt3"
       },
@@ -5094,7 +5130,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 262040,
       "name": "Snake In The Tall Grass",
       "url": "https://open.spotify.com/track/3Fbjies9Gw62vZCrRpQCSj"

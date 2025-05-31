@@ -4,7 +4,7 @@
 
 > Playlist
 
-593 songs - 1 day 11 hr 9 min
+594 songs - 1 day 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | [Hole](https://open.spotify.com/track/73p5gQZ9kxHmLaqBf7P06u) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Santolina](https://open.spotify.com/album/3xXpKIMBsUbVv8RwYE5Ibz) | 2:54 | 2023-10-25 |  |
 | [Homebody](https://open.spotify.com/track/67a4dHkPPmLBdQN7XA1mzp) | [RALPH TV](https://open.spotify.com/artist/4ClXiGv8w47iekyGEmtAyy) | [Homebody](https://open.spotify.com/album/5qWNc3Pd8CwTnDOp0E0OJl) | 3:28 | 2023-10-25 |  |
 | [Honestly](https://open.spotify.com/track/1xvxR2EWqdHg9eSU8dlm2r) | [Sebastian Roca](https://open.spotify.com/artist/4axhTQXDTfbRk7FZe2tsTF) | [Parkview Demos](https://open.spotify.com/album/3Vgnh06FtxYOsr1zkFwVu2) | 3:53 | 2023-10-25 |  |
+| [Honey](https://open.spotify.com/track/752BS2kpBhOU6PGxRYXT0C) | [Boy Deco](https://open.spotify.com/artist/2ToFHcW8xlcnx73z5Jzzu7), [Quantum Keys](https://open.spotify.com/artist/5lw9kgX2il5YmYfqoSh3ve) | [Honey](https://open.spotify.com/album/2KpcZDIIAbqiAGf0a7Wzpt) | 3:04 | 2025-05-30 |  |
 | [Honey](https://open.spotify.com/track/2QQThdEoUDeat6nqYXS64D) | [Sebastian Roca](https://open.spotify.com/artist/4axhTQXDTfbRk7FZe2tsTF) | [Honey](https://open.spotify.com/album/0WAUyoTN7ZeEKVRacDFE1X) | 3:23 | 2023-10-25 |  |
 | [Honey](https://open.spotify.com/track/5fZvanKBRYTYshL48wGFg8) | [Sebastian Roca](https://open.spotify.com/artist/4axhTQXDTfbRk7FZe2tsTF) | [Parkview Demos](https://open.spotify.com/album/3Vgnh06FtxYOsr1zkFwVu2) | 3:23 | 2023-10-25 |  |
 | [Honey Honey](https://open.spotify.com/track/1rKhKhQtmLmYd6FiaBP4q8) | [RALPH TV](https://open.spotify.com/artist/4ClXiGv8w47iekyGEmtAyy), [Nice Guys](https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN) | [RALPH TV](https://open.spotify.com/album/52Qd94rprAOizb5ocH7Vx4) | 3:05 | 2023-10-25 |  |

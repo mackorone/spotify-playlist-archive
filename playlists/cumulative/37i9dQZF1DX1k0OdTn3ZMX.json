@@ -800,7 +800,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 175578,
       "name": "Criminal",
       "url": "https://open.spotify.com/track/0OoWd8aynOJkAn3QCyAhhe"
@@ -3135,6 +3135,24 @@
     },
     {
       "album": {
+        "name": "Out Of My Hands",
+        "url": "https://open.spotify.com/album/7qeM2xCuKqRzlI1XjVUjzG"
+      },
+      "artists": [
+        {
+          "name": "Earshot",
+          "url": "https://open.spotify.com/artist/6eeYhqOX2cpsiHY6gVuvPA"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200789,
+      "name": "Out Of My Hands",
+      "url": "https://open.spotify.com/track/2kXZtvoyK5AZTRajyxu7ZJ"
+    },
+    {
+      "album": {
         "name": "STILL SUCKS",
         "url": "https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ"
       },
@@ -3238,6 +3256,24 @@
       "duration_ms": 192337,
       "name": "Paralyzed",
       "url": "https://open.spotify.com/track/1NSgXmZrP7qhCNl2fB57HB"
+    },
+    {
+      "album": {
+        "name": "Parasite",
+        "url": "https://open.spotify.com/album/0lNMiKTRk6If56xgUN4fMG"
+      },
+      "artists": [
+        {
+          "name": "Daedra",
+          "url": "https://open.spotify.com/artist/4Bl3FXav6VIDmSpaHLwpon"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206655,
+      "name": "Parasite",
+      "url": "https://open.spotify.com/track/30K7aglIX7OcAN8AOtUtdi"
     },
     {
       "album": {
@@ -4275,6 +4311,24 @@
     },
     {
       "album": {
+        "name": "the deconstruction of everything",
+        "url": "https://open.spotify.com/album/2mo5DpEjQ9ilEcstya4eW3"
+      },
+      "artists": [
+        {
+          "name": "Mad Kelly",
+          "url": "https://open.spotify.com/artist/6ztTQK1luCxwidQqZuFhJj"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201882,
+      "name": "thank god",
+      "url": "https://open.spotify.com/track/2KLFqdTAaqCm4eFZP2TXeo"
+    },
+    {
+      "album": {
         "name": "The Emptiness Machine",
         "url": "https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ"
       },
@@ -5216,6 +5270,28 @@
       "duration_ms": 159771,
       "name": "Would you be my therapy?",
       "url": "https://open.spotify.com/track/4SvmosYwOAV0ILTxT0XvcP"
+    },
+    {
+      "album": {
+        "name": "Would you be my therapy? (feat. Windwaker) [Redux]",
+        "url": "https://open.spotify.com/album/4c20dxhBHoHSqpFyeuvOgA"
+      },
+      "artists": [
+        {
+          "name": "TSS",
+          "url": "https://open.spotify.com/artist/0hTsRy6iJPc0fgkxhEHzmT"
+        },
+        {
+          "name": "Windwaker",
+          "url": "https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159771,
+      "name": "Would you be my therapy? (feat. Windwaker) - Redux",
+      "url": "https://open.spotify.com/track/3p78XD0O2ihOpKcjjkF06O"
     },
     {
       "album": {

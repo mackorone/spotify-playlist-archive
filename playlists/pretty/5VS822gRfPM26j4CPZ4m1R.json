@@ -1,13 +1,33 @@
 {
   "description": "Playlist",
-  "num_followers": 17637,
+  "num_followers": 17640,
   "original_name": "Nice Guys | 24/7 Radio",
   "owner": {
     "name": "Nice Guys",
     "url": "https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc"
   },
-  "snapshot_id": "AAAL2o4TFZ93LH2yPyYYk19Ca/et2vRM",
+  "snapshot_id": "AAAL3EMIVqZtyD0D9MvWoZkb5fmVTuYl",
   "tracks": [
+    {
+      "added_at": "2025-05-30 08:54:06",
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/2KpcZDIIAbqiAGf0a7Wzpt"
+      },
+      "artists": [
+        {
+          "name": "Boy Deco",
+          "url": "https://open.spotify.com/artist/2ToFHcW8xlcnx73z5Jzzu7"
+        },
+        {
+          "name": "Quantum Keys",
+          "url": "https://open.spotify.com/artist/5lw9kgX2il5YmYfqoSh3ve"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/752BS2kpBhOU6PGxRYXT0C"
+    },
     {
       "added_at": "2025-05-19 09:23:07",
       "album": {

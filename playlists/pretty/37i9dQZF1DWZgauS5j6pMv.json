@@ -1,13 +1,29 @@
 {
   "description": "The best of today's funk. Cover: MonoNeon",
-  "num_followers": 343105,
+  "num_followers": 343129,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCa4VgAAAAD9kN3edcj6hS6noSLVlyA/",
+  "snapshot_id": "aDktUwAAAAAc+RNh2KbXxrvZT4Z1h3Jv",
   "tracks": [
+    {
+      "added_at": "2025-05-30 04:00:19",
+      "album": {
+        "name": "Sleepwalking",
+        "url": "https://open.spotify.com/album/0Bf1QKo9KdzPtpLY3pRPEO"
+      },
+      "artists": [
+        {
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+        }
+      ],
+      "duration_ms": 162051,
+      "name": "Sleepwalking",
+      "url": "https://open.spotify.com/track/33AhUMkQqyaRGJi0U9hXxt"
+    },
     {
       "added_at": "2025-05-16 04:00:22",
       "album": {
@@ -1099,22 +1115,6 @@
       "duration_ms": 240000,
       "name": "Hit Man",
       "url": "https://open.spotify.com/track/72w7lsGmb61HaFkXahpwGo"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "Touch My Soul",
-        "url": "https://open.spotify.com/album/08N9IgrPVylNF3EANm2M2p"
-      },
-      "artists": [
-        {
-          "name": "Ivan Neville",
-          "url": "https://open.spotify.com/artist/0xHoBLKrp48wAlwpy54lRv"
-        }
-      ],
-      "duration_ms": 298734,
-      "name": "This Must Be The Place",
-      "url": "https://open.spotify.com/track/0recPimKvrGzvi3Fr6x1fj"
     },
     {
       "added_at": "2024-03-15 04:01:00",

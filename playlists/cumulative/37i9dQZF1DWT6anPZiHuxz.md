@@ -2,7 +2,7 @@
 
 ### [Running Club](https://open.spotify.com/playlist/37i9dQZF1DWT6anPZiHuxz)
 
-> Chasing that runner's high
+> Chasing that runner's high\. Countdown to Global Running Day 🏃‍♀️🏃
 
 296 songs - 16 hr 6 min
 

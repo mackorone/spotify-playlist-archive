@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: 名誉伝説
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,528 likes - 80 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,537 likes - 80 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [おやすみハニー](https://open.spotify.com/track/6LwrBgx1d7X9ClHR7uL2jN) | [中島涼之介](https://open.spotify.com/artist/5NJRHASQHwwrH2gYQHbBwx) | [おやすみハニー](https://open.spotify.com/album/12emcClkUAB5KkvJBr7yY0) | 1:31 |
 | 80 | [舞踏会](https://open.spotify.com/track/1ENSlLqRD1iKNkUsvs1PjY) | [水咲加奈](https://open.spotify.com/artist/3QdsgFNAYkVSIdqVwecmL8) | [immersive](https://open.spotify.com/album/5ooidsx91uQvHem7lR5TSa) | 4:36 |
 
-Snapshot ID: `aDT1RwAAAACoW3uHMBYAdeDUMtS4sQI5`
+Snapshot ID: `AAAAANFftJUtmE1sKuYCyNo7g6NO2YeV`

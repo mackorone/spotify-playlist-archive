@@ -797,6 +797,36 @@
     },
     {
       "album": {
+        "name": "FUORI MEN\u00d9",
+        "url": "https://open.spotify.com/album/0CVCnkzMA5oMiAiwgaIY5k"
+      },
+      "artists": [
+        {
+          "name": "Golden Years",
+          "url": "https://open.spotify.com/artist/4x13f8mnFaaoUdFd5PPSgH"
+        },
+        {
+          "name": "Frah Quintale",
+          "url": "https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN"
+        },
+        {
+          "name": "nayt",
+          "url": "https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD"
+        },
+        {
+          "name": "prima stanza a destra",
+          "url": "https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147587,
+      "name": "Anche Se Ti Amo (con Frah Quintale, nayt & prima stanza a destra)",
+      "url": "https://open.spotify.com/track/0yzZJ1wNec8GihbRZ5FGyL"
+    },
+    {
+      "album": {
         "name": "ancora",
         "url": "https://open.spotify.com/album/6j0zCgkS5LhYgUL6YkeY4i"
       },

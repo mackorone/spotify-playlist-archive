@@ -4,7 +4,7 @@
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Banda Mix & Eugenia Quevedo.
 
-562 songs - 1 day 10 hr 14 min
+563 songs - 1 day 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -462,6 +462,7 @@
 | [Solo Contigo / Solterita / La Cabecita / El Negro / El Garronero / Borracha y Sin Bombacha](https://open.spotify.com/track/2QZUrLB3AFBKQra0WXpYnr) | [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [Solo Contigo / Solterita / La Cabecita / El Negro / El Garronero / Borracha y Sin Bombacha](https://open.spotify.com/album/0AXAILZSsnjcscvtIXOljT) | 9:12 | 2022-02-11 | 2022-06-13 |
 | [Solo En La Ciudad](https://open.spotify.com/track/0aGQxUZzXcooMe89iRKEdv) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [Solo En La Ciudad](https://open.spotify.com/album/4OGxvJkOxSPl4jpig6oGs6) | 2:45 | 2025-04-11 | 2025-05-27 |
 | [Solo Pa' Mi](https://open.spotify.com/track/5YOFztPHWNBUhbz4rH2ILb) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Solo Pa' Mi](https://open.spotify.com/album/2CTFEimc0mKk6koJJUbvuj) | 2:28 | 2024-09-27 |  |
+| [Solo por Maldad / Aventurera / El negro Cuartetero /Taki TakiI / Mar de Emociones \- En Vivo](https://open.spotify.com/track/2iWTLwvFfXgsyuiWoODEVR) | [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H) | [Trula 40 Años \(Primera Parte \- En Vivo\)](https://open.spotify.com/album/36BKtnAjC8MgiiNmzkJ6BN) | 7:38 | 2025-05-30 |  |
 | [Solo Soy / Es Mi Mujer](https://open.spotify.com/track/0yHDPf8tshlzOMv3GxRzq7) | [Claudio Toledo](https://open.spotify.com/artist/2irvIOnNBtm2lPHz9PyUVh), [Marcos Bainotti](https://open.spotify.com/artist/1yQtgTKkfePDMJKAY3a3Qc) | [Solo Soy / Es Mi Mujer](https://open.spotify.com/album/0SqmAluqs45m8JR3URXlbi) | 5:02 | 2022-02-04 | 2022-04-02 |
 | [Soltera](https://open.spotify.com/track/2w0ZWwBc68MGDyPUZlxpxF) | [Magui Olave](https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE) | [Soltera](https://open.spotify.com/album/4KCiZLOFu8x9G5k9Womlcs) | 1:53 | 2024-11-29 | 2025-03-08 |
 | [Somos lo Que Fuimos \- Remix](https://open.spotify.com/track/1NMLQOcIXPRwYXh9P8BycF) | [Axel](https://open.spotify.com/artist/32x1uogH2zajP85pzZAtuE), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Somos lo Que Fuimos \(Remix\)](https://open.spotify.com/album/3qqA25D7Ml4EywTyEJMVCx) | 3:53 | 2022-08-05 | 2025-02-16 |
@@ -538,7 +539,7 @@
 | [Usted Se Me Llevo la Vida](https://open.spotify.com/track/3ajlYGiNWnpEEybhpylwrz) | [Banda Registrada](https://open.spotify.com/artist/5b8ySdgbXw0H8TPKUse1QA) | [Ni Lo Pienses](https://open.spotify.com/album/2sgpaLhrBRMD7k404Hcz3Y) | 4:14 | 2021-12-24 |  |
 | [Uwaie](https://open.spotify.com/track/629I9IsT8BpM1gZor9lmLZ) | [Magui Olave](https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE), [El Show De La Monada](https://open.spotify.com/artist/2EJWHHDrYDTb1xyB098FaH), [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [Magui Olave / El Show De La Monada Musical \#5](https://open.spotify.com/album/2lmK6H6S0VyFj0HvPpOu69) | 2:33 | 2025-02-28 | 2025-04-12 |
 | [Ven](https://open.spotify.com/track/3axliHUavA0Qj6AIywW7Da) | [La Zurda Cuartetera](https://open.spotify.com/artist/6EXCBQQwljseAZdJOoW54H) | [Ven](https://open.spotify.com/album/3gsz5gaSjXtEaKzmmLkMbO) | 3:27 | 2022-01-14 | 2022-04-19 |
-| [Vengo De Engañarte](https://open.spotify.com/track/4IbiDl3a7dW6MCbXgA3u48) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [Vengo De Engañarte](https://open.spotify.com/album/5VGEiVMdwQfS9RlXVDR7wT) | 2:51 | 2025-02-07 |  |
+| [Vengo De Engañarte](https://open.spotify.com/track/4IbiDl3a7dW6MCbXgA3u48) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [Vengo De Engañarte](https://open.spotify.com/album/5VGEiVMdwQfS9RlXVDR7wT) | 2:51 | 2025-02-07 | 2025-05-31 |
 | [Vicio](https://open.spotify.com/track/4avWPQJolmD6y5FvgGvMfK) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Vicio](https://open.spotify.com/album/25XUWGcDwEpHZQWVclRWTK) | 3:07 | 2022-10-07 | 2022-10-29 |
 | [Violeta \- En Vivo](https://open.spotify.com/track/1P9e8yl4rjXHOXbKisiQnk) | [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [Homenaje al Cuarteto \(En Vivo\)](https://open.spotify.com/album/1pUilOVG5oNszWZ0KiXgEC) | 1:08 | 2022-06-17 | 2023-01-06 |
 | [Violeta \- En Vivo](https://open.spotify.com/track/7p2AoA6h2D8Cfgzau5DDTo) | [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [Arriba las Palmas \(En Vivo\)](https://open.spotify.com/album/0VpKJA0JWIwIReM53ay6hs) | 1:08 | 2023-01-18 | 2023-04-09 |

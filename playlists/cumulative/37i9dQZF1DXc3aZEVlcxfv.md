@@ -4,7 +4,7 @@
 
 > I am blessed!
 
-293 songs - 20 hr 25 min
+294 songs - 20 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Chinedum](https://open.spotify.com/track/0P6btDXk8iWODw20M0HOXi) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Chinedum](https://open.spotify.com/album/4skimrKjsbmfTqSObdQ6sF) | 4:40 | 2024-09-30 | 2025-01-31 |
 | [Close to your heart](https://open.spotify.com/track/39FHha4rtCHneBKKPXTWW2) | [Kole Light](https://open.spotify.com/artist/7eskjtqf8pezcuh4oCfhui), [Jvson](https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F) | [Close to your heart](https://open.spotify.com/album/105k38qJ7nB810q8kvsBRy) | 2:33 | 2024-10-11 | 2025-02-07 |
 | [Come & See](https://open.spotify.com/track/08LgmPa7dOIZwyYopfpODG) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Come & See](https://open.spotify.com/album/6I9cZjzDQxgFeo4W41HOgw) | 3:15 | 2025-01-31 | 2025-04-11 |
+| [Comforter](https://open.spotify.com/track/3EX5x2fUpczvsg2U65E8Fe) | [Sammy Hart](https://open.spotify.com/artist/7uj5a4BDtYb5oI4EfypnNv) | [Comforter](https://open.spotify.com/album/7gHCoqTQze2noRt7RUt4wx) | 3:00 | 2025-05-30 |  |
 | [Congratulations](https://open.spotify.com/track/5qKd8h7Mv5DeJE2UTEr6EQ) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt), [Buchi](https://open.spotify.com/artist/2acXp50dMwFs1JGzQUxyiS) | [Born of God](https://open.spotify.com/album/27grzoIl35MGO7EpQFkZZA) | 4:54 | 2024-09-27 |  |
 | [Congratulations](https://open.spotify.com/track/3TDZqc9qz9Z3XrZAxtVX94) | [Peterson Okopi](https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz) | [Congratulations](https://open.spotify.com/album/74DoilGMKBzMtq3c5qDwDR) | 4:34 | 2024-12-27 | 2025-02-21 |
 | [Controller](https://open.spotify.com/track/6I38Il7uZyXN35rm1aqRri) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H), [Ada Betsabe](https://open.spotify.com/artist/7uNB59gDx8XVl1rTJDL1KT), [Macjosh](https://open.spotify.com/artist/4BqqI6vV1XdB5UbH2qhXak), [Nicole Mawugunzi](https://open.spotify.com/artist/01VymGxQXUJXRfmNnRRcOS) | [Controller](https://open.spotify.com/album/2f8L078klwods1pvFV7MTJ) | 3:12 | 2025-05-30 |  |

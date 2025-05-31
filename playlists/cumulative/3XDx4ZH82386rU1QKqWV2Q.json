@@ -5155,6 +5155,24 @@
     },
     {
       "album": {
+        "name": "GigaPump",
+        "url": "https://open.spotify.com/album/72bhKot3n9kXSJHHJXFUaN"
+      },
+      "artists": [
+        {
+          "name": "g3ox_em",
+          "url": "https://open.spotify.com/artist/0Zw2ivPEDptvMHwCXjhdRs"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157611,
+      "name": "GigaPump",
+      "url": "https://open.spotify.com/track/26g3zWpkUdZuZvHm14Thy5"
+    },
+    {
+      "album": {
         "name": "GIMMI SOME",
         "url": "https://open.spotify.com/album/3NyS4ECm7qeCV7cfPAbEoQ"
       },

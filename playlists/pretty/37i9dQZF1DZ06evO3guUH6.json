@@ -1,12 +1,12 @@
 {
   "description": "This is Alfredo Olivas. The essential tracks, all in one playlist.",
-  "num_followers": 1030651,
+  "num_followers": 1030925,
   "original_name": "This Is Alfredo Olivas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDZSAAAAAAARj8fgxcJ5O3ItkDV2ThvL",
+  "snapshot_id": "aDejgAAAAADoJGn+w8RWtcSdheyeXoP+",
   "tracks": [
     {
       "added_at": null,
@@ -287,6 +287,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u00bfQui\u00e9n + Como Yo?",
+        "url": "https://open.spotify.com/album/0k8MDpK0kbBXTb5DcLhded"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        },
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 159111,
+      "name": "Se Vienen D\u00edas Tristes",
+      "url": "https://open.spotify.com/track/4wDqICPvF45vx9utsNg4FB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El D\u00eda De Los Muertos",
         "url": "https://open.spotify.com/album/7pxn1oyPyy1nOFQQhoHJKX"
       },
@@ -331,26 +351,6 @@
       "duration_ms": 239013,
       "name": "Con La Novedad",
       "url": "https://open.spotify.com/track/4BkRkW91EvxeW9VhzVatqi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u00bfQui\u00e9n + Como Yo?",
-        "url": "https://open.spotify.com/album/0k8MDpK0kbBXTb5DcLhded"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        },
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 159111,
-      "name": "Se Vienen D\u00edas Tristes",
-      "url": "https://open.spotify.com/track/4wDqICPvF45vx9utsNg4FB"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Volver\u00e1",
-        "url": "https://open.spotify.com/album/1FT4Db2R3qA0zzqQFkSUAr"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 172600,
-      "name": "Volver\u00e1",
-      "url": "https://open.spotify.com/track/1lLCXEoNCObfoSFWG9FxdC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Rueda De La Fortuna",
         "url": "https://open.spotify.com/album/1YDVn5KeQ7ZzX7TPmSLTKd"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 234013,
       "name": "Todo O Nada",
       "url": "https://open.spotify.com/track/0snAM2wzhyQkT1zQmFliLG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Volver\u00e1",
+        "url": "https://open.spotify.com/album/1FT4Db2R3qA0zzqQFkSUAr"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 172600,
+      "name": "Volver\u00e1",
+      "url": "https://open.spotify.com/track/1lLCXEoNCObfoSFWG9FxdC"
     },
     {
       "added_at": null,
@@ -767,22 +767,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Amor Es M\u00edo",
-        "url": "https://open.spotify.com/album/1DjlUNCpNxYHHA6wU1a1Q4"
+        "name": "Puede",
+        "url": "https://open.spotify.com/album/1pKrXwqTJy4a71vnxbVc6A"
       },
       "artists": [
         {
           "name": "Alfredo Olivas",
           "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        },
-        {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
         }
       ],
-      "duration_ms": 250434,
-      "name": "Tu Amor Es M\u00edo",
-      "url": "https://open.spotify.com/track/69yi8lHc0rjIkzaCYU3xTX"
+      "duration_ms": 202378,
+      "name": "Puede",
+      "url": "https://open.spotify.com/track/776TH7RwOwvwHAFOydiECI"
     },
     {
       "added_at": null,
@@ -819,22 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puede",
-        "url": "https://open.spotify.com/album/1pKrXwqTJy4a71vnxbVc6A"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 202378,
-      "name": "Puede",
-      "url": "https://open.spotify.com/track/776TH7RwOwvwHAFOydiECI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Con Los Pies en La Tierra",
         "url": "https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 250368,
       "name": "Otro Perdedor",
       "url": "https://open.spotify.com/track/5CXAHV4mt5tuIP7oI4ldeH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "As\u00ed Es Esto",
+        "url": "https://open.spotify.com/album/5t3QwyKSV5oww8T0eB26mB"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        },
+        {
+          "name": "Los Nuevos Rebeldes",
+          "url": "https://open.spotify.com/artist/3OFZZxPrO2uYjDVglqTwEr"
+        }
+      ],
+      "duration_ms": 209040,
+      "name": "Tres Tiros",
+      "url": "https://open.spotify.com/track/2emeqNzdm71GXY2aADYGHJ"
     }
   ],
   "unique_name": "This Is Alfredo Olivas",

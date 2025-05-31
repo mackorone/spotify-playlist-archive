@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-19",
-  "description": "El nuevo sonido argentino lo encontr\u00e1s ac\u00e1. Foto: Mica Sotera & Hipn\u00f3tica.",
+  "description": "El nuevo sonido argentino lo encontr\u00e1s ac\u00e1. Foto: NOTA",
   "name": "Indie Argentina",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 246737,
       "name": "10 A\u00f1os",
       "url": "https://open.spotify.com/track/0dKZAIpHSAPirj4XlH1kbE"
@@ -214,7 +214,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 194077,
       "name": "Adolescer",
       "url": "https://open.spotify.com/track/5CDvD0HVdQibxeuQwAVWaq"
@@ -316,6 +316,28 @@
       "duration_ms": 252021,
       "name": "Al Rev\u00e9s",
       "url": "https://open.spotify.com/track/5r8tolaXEEWIRyabeqDZZs"
+    },
+    {
+      "album": {
+        "name": "Alas Rosadas",
+        "url": "https://open.spotify.com/album/1bCAxxDnO6FLiXoIUs9DGH"
+      },
+      "artists": [
+        {
+          "name": "Julia Arb\u00f3s",
+          "url": "https://open.spotify.com/artist/1B5s6KerZjNiMjZAzRULyp"
+        },
+        {
+          "name": "Mar\u00eda Pien",
+          "url": "https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240320,
+      "name": "Alas Rosadas",
+      "url": "https://open.spotify.com/track/14YNYZiyT5QrKgLXSGxDpP"
     },
     {
       "album": {
@@ -580,7 +602,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 201386,
       "name": "Avistaje",
       "url": "https://open.spotify.com/track/0n2d6pc9NFZeIg6qQAKc8g"
@@ -1050,7 +1072,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 178577,
       "name": "Carta para no llorar",
       "url": "https://open.spotify.com/track/3PdR3n0YudDEp44YmS9xs2"
@@ -1272,7 +1294,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 228186,
       "name": "Comando Juntar",
       "url": "https://open.spotify.com/track/0OUzVgwTdNmSsC3QyDFijv"
@@ -1672,7 +1694,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 234866,
       "name": "Departamento",
       "url": "https://open.spotify.com/track/0L7UzdYmOkLhHoDLEcUa8f"
@@ -2247,6 +2269,24 @@
     },
     {
       "album": {
+        "name": "El franc\u00e9s",
+        "url": "https://open.spotify.com/album/05tthCC0TInn6fzqT0C2QA"
+      },
+      "artists": [
+        {
+          "name": "NOTA",
+          "url": "https://open.spotify.com/artist/3diz4968GyTG9QV0xVv9lf"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137523,
+      "name": "El franc\u00e9s",
+      "url": "https://open.spotify.com/track/61dysVMtaRdzZTWe2S4q7Q"
+    },
+    {
+      "album": {
         "name": "Como Bailan los Dem\u00e1s",
         "url": "https://open.spotify.com/album/4wz7oHddJ7WT2MwROywUQF"
       },
@@ -2338,7 +2378,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 201661,
       "name": "El Momento Perfecto",
       "url": "https://open.spotify.com/track/7LUepo06YjPnIoDVmiwYlJ"
@@ -3423,6 +3463,28 @@
     },
     {
       "album": {
+        "name": "La Ranchera",
+        "url": "https://open.spotify.com/album/50hZdC9tlwFWeHMLVqI1ue"
+      },
+      "artists": [
+        {
+          "name": "Facundo Grand\u00edo",
+          "url": "https://open.spotify.com/artist/4Wkm55LBgLyt4MQh78QqJK"
+        },
+        {
+          "name": "Mica Sotera",
+          "url": "https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166541,
+      "name": "La Ranchera",
+      "url": "https://open.spotify.com/track/57ghtDy5WJewLL0ggGG8E4"
+    },
+    {
+      "album": {
         "name": "LA SE\u00d1AL",
         "url": "https://open.spotify.com/album/3z1oVqrUyQdwpGeDvTHGM9"
       },
@@ -3915,6 +3977,24 @@
     },
     {
       "album": {
+        "name": "Malboro y te",
+        "url": "https://open.spotify.com/album/4tCxu92814kkjmutDBdmGA"
+      },
+      "artists": [
+        {
+          "name": "La Chica del Cumplea\u00f1os",
+          "url": "https://open.spotify.com/artist/7uzpdZFWUYCLQnqpq0MP1V"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182787,
+      "name": "Malboro y te",
+      "url": "https://open.spotify.com/track/1lOy0VRxdpOp95efy25WWz"
+    },
+    {
+      "album": {
         "name": "Mam\u00e1 Mona",
         "url": "https://open.spotify.com/album/3zuOYlQdS9t5vyyQKtyI5n"
       },
@@ -4024,7 +4104,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 169813,
       "name": "me hace bien",
       "url": "https://open.spotify.com/track/3YvPDFVcqKRYI0orNE6zIK"
@@ -4122,10 +4202,32 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 192880,
       "name": "Mi Fiesta",
       "url": "https://open.spotify.com/track/1h1ryRXPpMLgXeYdq9qylK"
+    },
+    {
+      "album": {
+        "name": "Mi Lugar",
+        "url": "https://open.spotify.com/album/4XOnC4wVmLdw0KVz5JzTD6"
+      },
+      "artists": [
+        {
+          "name": "Color Sirena",
+          "url": "https://open.spotify.com/artist/4qLRfV3rrNJNBgIGHexhUk"
+        },
+        {
+          "name": "Eve Calletti",
+          "url": "https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228689,
+      "name": "Mi Lugar",
+      "url": "https://open.spotify.com/track/7mlc7O41mRyBRNG44fafi7"
     },
     {
       "album": {
@@ -4466,7 +4568,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 187786,
       "name": "No hay m\u00e1s tiempo",
       "url": "https://open.spotify.com/track/0PWr5qLY1jBYrD9oERVLwf"
@@ -5031,6 +5133,24 @@
     },
     {
       "album": {
+        "name": "Pasti",
+        "url": "https://open.spotify.com/album/1tYRBD0qTk4XWApdPFAT3Z"
+      },
+      "artists": [
+        {
+          "name": "Bicicletas",
+          "url": "https://open.spotify.com/artist/1JwKBAe8O6J3z8knUBBIM1"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240760,
+      "name": "Pasti",
+      "url": "https://open.spotify.com/track/6EOVJcUvPBtrgNWtUuBrnb"
+    },
+    {
+      "album": {
         "name": "Qu\u00e9 Nos Mantiene Despiertos",
         "url": "https://open.spotify.com/album/376DNPl0ELW1rNHzR2faxY"
       },
@@ -5256,6 +5376,24 @@
       "duration_ms": 171612,
       "name": "Playita",
       "url": "https://open.spotify.com/track/3zUBGvGynrXKx1sKzTre98"
+    },
+    {
+      "album": {
+        "name": "podr\u00edamos haber hecho todo de una forma tan diferente...",
+        "url": "https://open.spotify.com/album/4Xolq0qRLScxwQzgtjeC2U"
+      },
+      "artists": [
+        {
+          "name": "LICHY",
+          "url": "https://open.spotify.com/artist/2rhKI3T4T93HZUmR8uF569"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90265,
+      "name": "podr\u00edamos haber hecho todo de una forma tan diferente...",
+      "url": "https://open.spotify.com/track/0twSO6QsLPhpzOF7h4AlMq"
     },
     {
       "album": {
@@ -5622,7 +5760,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 222000,
       "name": "Revelaci\u00f3n II",
       "url": "https://open.spotify.com/track/3wQ7k5JnWMGBaYtQUKP1Kg"
@@ -6146,7 +6284,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 246613,
       "name": "Te Lo Voy a Decir",
       "url": "https://open.spotify.com/track/3WDMlT5t2UWDnkre7CrZbU"
@@ -6520,7 +6658,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 213147,
       "name": "Tu soledad y la m\u00eda",
       "url": "https://open.spotify.com/track/5VhJQupZlIHHpHpySvDeKq"
@@ -7054,7 +7192,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 209426,
       "name": "\u00c9ramos lo m\u00e1s",
       "url": "https://open.spotify.com/track/7u2DT6k6Wwdb0e8qKiAdNs"

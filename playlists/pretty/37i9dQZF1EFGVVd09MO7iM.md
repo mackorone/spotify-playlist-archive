@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGVVd09MO7iM.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4wmgHQAAzg3gbnQWSyoMZp">Pharrell Williams</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,059 likes - 662 songs - 1 day 18 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,060 likes - 662 songs - 1 day 18 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -671,4 +671,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGVVd09MO7iM.md) - [plain]
 | 661 | [They Don't Know You](https://open.spotify.com/track/2pNR2kkGnKCJ638cVuIN3S) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [They Don't Know You](https://open.spotify.com/album/15YPOSzo9pWnCGjHHl1668) | 4:05 |
 | 662 | [Candy](https://open.spotify.com/track/31tp6dG3by6hyHfICBsqG9) | [Claudia Valentina](https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I) | [Candy](https://open.spotify.com/album/78GUla8L6F8rT4K1UOYayc) | 1:58 |
 
-Snapshot ID: `AbyvYAAAAAC1NLRAwboiwznY8XuNosO6`
+Snapshot ID: `Aby1MgAAAADOQYxIhq2d2DdpAQDE60Vh`

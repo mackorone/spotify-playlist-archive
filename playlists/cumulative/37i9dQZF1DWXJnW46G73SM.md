@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف: نبيل
 
-1,478 songs - 3 day 10 hr 36 min
+1,479 songs - 3 day 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1135,6 +1135,7 @@
 | [حالته صعبة](https://open.spotify.com/track/2rz6i8B0kvYVar1GIza4O7) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [حالته صعبة](https://open.spotify.com/album/12J0QVom1KE7d8GaQjbI5x) | 4:52 | 2024-08-15 | 2024-10-18 |
 | [حب حياتي \(feat\. Menna Shalaby\)](https://open.spotify.com/track/4SJwiMWbTn3QMkJ7w5V7Zn) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7), [Menna Shalaby](https://open.spotify.com/artist/5XhIGSVTyNhZAzla5j0JKY) | [حب حياتي \(feat\. Menna Shalaby\)](https://open.spotify.com/album/31nlWb5PMcd6OrOsgBFwWM) | 3:14 | 2024-12-19 | 2025-03-04 |
 | [حبايبنا](https://open.spotify.com/track/6fM4O75eAUoRxUdsbI0vc3) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [حبايبنا](https://open.spotify.com/album/6FOVMHlP4eAAeX1B3NASpW) | 3:26 | 2023-06-27 | 2023-07-29 |
+| [حبيبي تقلان \- من البوم لينا معاد](https://open.spotify.com/track/3HfqXS24PojHutwphaDfYK) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy), [Aly Fathalla](https://open.spotify.com/artist/1U9pDbOQmuQ1vHzAF2Bmxp) | [حبيبي تقلان \(من البوم لينا معاد\)](https://open.spotify.com/album/5U1LItO0bzIdNKM08a5nl7) | 3:36 | 2025-05-30 |  |
 | [حبيبي منفضلي](https://open.spotify.com/track/2Jm57ZlLTIIRQhy4fOrrZr) | [Bebo](https://open.spotify.com/artist/5i0PtsHtfpmMw1HoU5GNOX) | [حبيبي منفضلي](https://open.spotify.com/album/2sQ4NQO0NBsEGa2hnDbQsm) | 2:52 | 2024-09-12 | 2024-11-15 |
 | [حبيبي وابن حبيبي \- من مسلسل كامل العدد ++](https://open.spotify.com/track/5OcVGQFVNvHt25O5ko22tF) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [حبيبي وابن حبيبي \(من مسلسل كامل العدد ++\)](https://open.spotify.com/album/67zii02wzTY1Zq4ExpGAUy) | 3:16 | 2025-03-12 |  |
 | [حبيبي وانت بعيد \- واعرف منين](https://open.spotify.com/track/4gXEaqasBfwVycffLybBVT) | [Asma Nour](https://open.spotify.com/artist/124XssaocuYccXwQzZpIXE) | [حبيبي وانت بعيد \- واعرف منين](https://open.spotify.com/album/3BjvRlUg2TEw4oIgfkHKKG) | 2:07 | 2024-12-26 | 2025-01-31 |

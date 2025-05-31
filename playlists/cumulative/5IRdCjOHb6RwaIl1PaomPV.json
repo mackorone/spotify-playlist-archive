@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "The latest tracks from Mad Decent &amp; friends. Featuring new music from Varg2TM &amp; Dj Smokey, plus the latest cuts from MIKE DEAN, Devon Again, and more.",
+  "description": "The latest tracks from Mad Decent and friends. Featuring new music from Kito and DJ_Dave, plus the latest cuts from inter alia, and Varg2TM &amp; DJ Smokey.",
   "name": "Mad Decent Weekly",
   "tracks": [
     {
@@ -3137,6 +3137,28 @@
     },
     {
       "album": {
+        "name": "Cycles",
+        "url": "https://open.spotify.com/album/41XZK1SenTa6PnsNoaUVOH"
+      },
+      "artists": [
+        {
+          "name": "DJ_Dave",
+          "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme"
+        },
+        {
+          "name": "Switch Angel",
+          "url": "https://open.spotify.com/artist/1cEgg3zg0YIwPn8Us2Uxmj"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218482,
+      "name": "Cycles",
+      "url": "https://open.spotify.com/track/0suotaNKCJeJGC7FFRLxED"
+    },
+    {
+      "album": {
         "name": "Daddy Vaquero",
         "url": "https://open.spotify.com/album/6EoyMk8z51wYOSjr43DqNp"
       },
@@ -3380,6 +3402,28 @@
       "duration_ms": 163655,
       "name": "destroy me",
       "url": "https://open.spotify.com/track/2GhvoJajHIXxWK4vtPWkqN"
+    },
+    {
+      "album": {
+        "name": "DEYA",
+        "url": "https://open.spotify.com/album/6DrhGVMKEswgZdbmlsL7ga"
+      },
+      "artists": [
+        {
+          "name": "Kito",
+          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
+        },
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176387,
+      "name": "DEYA",
+      "url": "https://open.spotify.com/track/5Irlkjy18pG847hcN3pJtR"
     },
     {
       "album": {
@@ -4494,7 +4538,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 96284,
       "name": "Face to Face",
       "url": "https://open.spotify.com/track/4u3Aajaq6TYC9tElKr3p6C"
@@ -4556,6 +4600,24 @@
       "duration_ms": 165400,
       "name": "Falling",
       "url": "https://open.spotify.com/track/2sLUiG5BYqth0WL0zMl25y"
+    },
+    {
+      "album": {
+        "name": "Fame is a Gun",
+        "url": "https://open.spotify.com/album/3SbgH2k3eJ6dPqAhbTBFzm"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183237,
+      "name": "Fame is a Gun",
+      "url": "https://open.spotify.com/track/1c2AFg2WpURtpsOTMr6ZBX"
     },
     {
       "album": {
@@ -5844,7 +5906,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 224000,
       "name": "He Needs Me",
       "url": "https://open.spotify.com/track/3aVX2Yh7Nshwzl1oh0AVru"
@@ -6244,7 +6306,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 202105,
       "name": "Home",
       "url": "https://open.spotify.com/track/7pqVlBqqjyXGTK2xmdbjsj"
@@ -8572,6 +8634,24 @@
       "duration_ms": 212713,
       "name": "Malas Palabras",
       "url": "https://open.spotify.com/track/37uKPNLcQkC9SErEQSqc6r"
+    },
+    {
+      "album": {
+        "name": "Man Of The Year",
+        "url": "https://open.spotify.com/album/1QSIGmlbg2zqpGbWXJNJeW"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180433,
+      "name": "Man Of The Year",
+      "url": "https://open.spotify.com/track/1hoeP1oPYlhcv6iRCtB7pT"
     },
     {
       "album": {
@@ -12169,6 +12249,24 @@
     },
     {
       "album": {
+        "name": "Paradise Music",
+        "url": "https://open.spotify.com/album/2NmMu3Q5VwntqO9OuF0w71"
+      },
+      "artists": [
+        {
+          "name": "inter alia",
+          "url": "https://open.spotify.com/artist/4XxygEqjEzswVq93XqGv77"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314000,
+      "name": "Silver String Symphony",
+      "url": "https://open.spotify.com/track/56JLZ9teSWvAZNd8GfCORj"
+    },
+    {
+      "album": {
         "name": "Simple Times",
         "url": "https://open.spotify.com/album/5keWYf9jGTOgS4AjKYgq13"
       },
@@ -12352,7 +12450,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 168749,
       "name": "Smoke break",
       "url": "https://open.spotify.com/track/4oK7CIGPowSJgTJVQ9R9uB"
@@ -14950,7 +15048,7 @@
       ],
       "date_added": "2024-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 152770,
       "name": "Winter Baby / New Jersey Blues",
       "url": "https://open.spotify.com/track/2vIgX0J99CKudcJwfKThhI"

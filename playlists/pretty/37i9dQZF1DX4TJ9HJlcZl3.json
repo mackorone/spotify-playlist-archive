@@ -1,13 +1,33 @@
 {
   "description": "Still yachting. Cover: Yacht Rock Revue",
-  "num_followers": 18251,
+  "num_followers": 18258,
   "original_name": "Yacht Rock Revival",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDYAcQAAAADdFmR1M9gM3U02ExuD4gEu",
+  "snapshot_id": "aDktVQAAAAButfBd8nbcYXacW82dpIOi",
   "tracks": [
+    {
+      "added_at": "2025-05-30 04:00:21",
+      "album": {
+        "name": "Real Thing",
+        "url": "https://open.spotify.com/album/1yx1ve9BzAO7hLIzcStCJv"
+      },
+      "artists": [
+        {
+          "name": "Drugdealer",
+          "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
+        },
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "duration_ms": 205146,
+      "name": "Real Thing",
+      "url": "https://open.spotify.com/track/7z5wTQlgqpCm3kvhn6s9Xh"
+    },
     {
       "added_at": "2025-05-27 18:12:01",
       "album": {
@@ -623,22 +643,6 @@
       "duration_ms": 236992,
       "name": "Who You Are",
       "url": "https://open.spotify.com/track/7olFqYuOkisFHqudWw4pVZ"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Hiding in Plain Sight",
-        "url": "https://open.spotify.com/album/5fUZ0iHwxTT4nYyDPiiTEj"
-      },
-      "artists": [
-        {
-          "name": "Drugdealer",
-          "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
-        }
-      ],
-      "duration_ms": 200480,
-      "name": "New Fascination",
-      "url": "https://open.spotify.com/track/5auSIzYp6kfcROMlApuji6"
     },
     {
       "added_at": "2023-09-01 04:00:00",

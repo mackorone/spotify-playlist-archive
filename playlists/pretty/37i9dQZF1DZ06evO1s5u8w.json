@@ -1,13 +1,29 @@
 {
   "description": "This is Talking Heads. The essential tracks, all in one playlist.",
-  "num_followers": 194871,
+  "num_followers": 194890,
   "original_name": "This Is Talking Heads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDZSAAAAAADmFkgHSEA4dbrn8F9mnht1",
+  "snapshot_id": "aDejgAAAAAAKBqnV0te0lPYC1t6UbUAS",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Found a Job (Alternate Version) [2025 Remaster]",
+        "url": "https://open.spotify.com/album/2Kb9fPzuyHVVU0TDBDOKTa"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 321597,
+      "name": "Found a Job (Alternate Version) - 2025 Remaster",
+      "url": "https://open.spotify.com/track/0a3iqciobez5QNODXBaBeI"
+    },
     {
       "added_at": null,
       "album": {
@@ -475,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stop Making Sense (Live)",
-        "url": "https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 195373,
-      "name": "Found a Job - Live",
-      "url": "https://open.spotify.com/track/7rWq4710VbhYigwobjNwni"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Talking Heads '77 (Deluxe Version)",
         "url": "https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN"
       },
@@ -503,6 +503,22 @@
       "duration_ms": 177826,
       "name": "Love \u2192 Building on Fire - 2005 Remaster",
       "url": "https://open.spotify.com/track/6hfsIlwOxJ0cX8v2SNntBQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stop Making Sense (Live)",
+        "url": "https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 360640,
+      "name": "What a Day That Was - Live; Edit",
+      "url": "https://open.spotify.com/track/1qRbIDeJnmfnglzlJI8kOK"
     },
     {
       "added_at": null,
@@ -539,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stop Making Sense (Live)",
-        "url": "https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 360640,
-      "name": "What a Day That Was - Live; Edit",
-      "url": "https://open.spotify.com/track/1qRbIDeJnmfnglzlJI8kOK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Talking Heads '77 (Deluxe Version)",
         "url": "https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN"
       },
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Little Creatures (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1ErneCyxOnZ1KTiEcNmnjw"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 267333,
-      "name": "Perfect World - 2005 Remaster",
-      "url": "https://open.spotify.com/track/6S2pKjLlCpH5Fv5TQX2IBa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stop Making Sense (Live)",
         "url": "https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 270800,
       "name": "Genius of Love (Tom Tom Club) - Live",
       "url": "https://open.spotify.com/track/1Z0jkAvtK78wrDc5odDtdX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Little Creatures (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1ErneCyxOnZ1KTiEcNmnjw"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 267333,
+      "name": "Perfect World - 2005 Remaster",
+      "url": "https://open.spotify.com/track/6S2pKjLlCpH5Fv5TQX2IBa"
     },
     {
       "added_at": null,

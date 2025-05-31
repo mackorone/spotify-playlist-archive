@@ -4,7 +4,7 @@
 
 > Big rooms and big sounds\. Cover: Blasterjaxx
 
-594 songs - 1 day 6 hr 20 min
+595 songs - 1 day 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -536,10 +536,11 @@
 | [The Passenger \(LaLaLa\) \[feat\. MOKABY\] \- Gabry Ponte Festival Mix](https://open.spotify.com/track/0LpWBNqyyn81WnoILV9mxV) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [D.T.E](https://open.spotify.com/artist/72HNCRVjK93J4ZnCY8rb1q), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [MOKABY](https://open.spotify.com/artist/3AXI2Qfty5IVrmtQzi8weo) | [The Passenger \(LaLaLa\) \[feat\. MOKABY\] \[Gabry Ponte Festival Mix\]](https://open.spotify.com/album/4FzZTh4CGJ6WJhR84F2T2o) | 2:42 | 2022-04-14 | 2022-07-29 |
 | [The Phoenix](https://open.spotify.com/track/3FQ7o0hI7lM1j9DfLKl7RJ) | [REVLIN](https://open.spotify.com/artist/3pScnrwwm1UK3sczkyDq33) | [The Phoenix](https://open.spotify.com/album/13GDnb6X5qI16ZyNbuHPDr) | 3:52 | 2022-04-14 | 2022-04-21 |
 | [The Playground](https://open.spotify.com/track/6otJQ1BMqoWjOXZb2KtgaQ) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [The Playground](https://open.spotify.com/album/6tEEZtViXnvNeS5pFcY9fz) | 3:02 | 2023-09-21 | 2023-10-19 |
+| [The Power Of Love](https://open.spotify.com/track/6XW6hJhSEqp9Jev6UbcLTk) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD) | [The Power Of Love](https://open.spotify.com/album/6ubj7wuCUQ2GQ7qLN4vMtZ) | 2:19 | 2025-05-29 |  |
 | [The Sky Is Rumbling](https://open.spotify.com/track/3HzRDfyGpiQvuiBp4L9IEG) | [Dr Phunk](https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk), [AVAO](https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw) | [The Sky Is Rumbling](https://open.spotify.com/album/44KkOQN7C0UfgoHmjmJ0Tv) | 2:55 | 2024-10-21 | 2025-01-04 |
 | [The Soulcatcher](https://open.spotify.com/track/3Q4CHVn8Gln5uhTFiPuTnn) | [AXMO](https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc), [Sandro Silva](https://open.spotify.com/artist/53UXMZxwzQyV4j7tZaVF58) | [The Soulcatcher](https://open.spotify.com/album/6PtttpAoiPsQClj2V58ZKx) | 2:48 | 2022-11-28 | 2023-02-06 |
 | [The Ultimate](https://open.spotify.com/track/7tipU0ULOdEhC0jysICP7p) | [Dannic](https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc), [Roy Orion](https://open.spotify.com/artist/5vDWsMvaFghBZj9e6y8qSk) | [The Ultimate](https://open.spotify.com/album/5tRV5lieNWmXyZl0JqktVW) | 2:59 | 2023-12-08 | 2024-01-30 |
-| [The Underground](https://open.spotify.com/track/1Tc3d5Dy9W3dlZ6yi22Aph) | [Dannic](https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc), [Ryos](https://open.spotify.com/artist/7us9kFadl2fztbHSvlNk6M) | [The Underground](https://open.spotify.com/album/6T9qtE0RP4nPe6eZsGMMu7) | 2:27 | 2025-03-27 |  |
+| [The Underground](https://open.spotify.com/track/1Tc3d5Dy9W3dlZ6yi22Aph) | [Dannic](https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc), [Ryos](https://open.spotify.com/artist/7us9kFadl2fztbHSvlNk6M) | [The Underground](https://open.spotify.com/album/6T9qtE0RP4nPe6eZsGMMu7) | 2:27 | 2025-03-27 | 2025-05-31 |
 | [The Underground](https://open.spotify.com/track/0RzqiT9MYfetkgcd7XUk7b) | [Mark Sixma](https://open.spotify.com/artist/3ePCIHipMKD4n8IBXBYWSm) | [The Underground](https://open.spotify.com/album/4SJ0E9aLzO5uSdfbQTer1R) | 2:34 | 2024-03-21 | 2024-06-05 |
 | [The Underground](https://open.spotify.com/track/3IvclwTmYRjCIVjECepbBQ) | [NIVIRO](https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T), [Wyko](https://open.spotify.com/artist/01lJ7aW7Z1NAZxIPc50x7N), [SixCap](https://open.spotify.com/artist/1Q4td6MS7PJuJeNyjzmh8s) | [The Underground](https://open.spotify.com/album/4RhJ8QBrmgS1PeWrtknt2b) | 2:35 | 2024-11-06 | 2024-12-04 |
 | [The Wave \- Legacy Edit](https://open.spotify.com/track/5zcJw3n3pJKhTIf4Pr7VgF) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8), [X\-TOF](https://open.spotify.com/artist/04XgEt5RkgdF4EM9lZyKCE) | [The Wave \(Legacy Edit\)](https://open.spotify.com/album/4FueCgISobfwBlgXwsOBQy) | 3:05 | 2023-10-05 | 2023-12-02 |

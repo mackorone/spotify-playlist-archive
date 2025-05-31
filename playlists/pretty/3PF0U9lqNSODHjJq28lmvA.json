@@ -1,292 +1,264 @@
 {
   "description": "This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday \ud83d\ude0e",
-  "num_followers": 2503,
+  "num_followers": 2504,
   "original_name": "Independent Music Friday",
   "owner": {
     "name": "Record Union",
     "url": "https://open.spotify.com/user/recordunion"
   },
-  "snapshot_id": "AAAEKKfLqT7lfBcB1x3tyVpTTL7TqAWX",
+  "snapshot_id": "AAAEKh51k/OvkhIxpexf8aSqY5MOfm6N",
   "tracks": [
     {
-      "added_at": "2025-05-23 12:56:38",
+      "added_at": "2025-05-30 10:50:11",
       "album": {
-        "name": "Soulmate",
-        "url": "https://open.spotify.com/album/6YHlx3fvi7wCXrpzQx862c"
+        "name": "Death Dreams",
+        "url": "https://open.spotify.com/album/0halqVdErEBsSxrVir07Ab"
       },
       "artists": [
         {
-          "name": "Rachid Kasmi",
-          "url": "https://open.spotify.com/artist/36wD11p3VIwHH25Glcn2ut"
+          "name": "heavy wild",
+          "url": "https://open.spotify.com/artist/6dxRf5XUwYZ12ecawKxuJ0"
         }
       ],
-      "duration_ms": 210285,
-      "name": "Soulmate",
-      "url": "https://open.spotify.com/track/37RwpBlgV6lbrbZUvywOwZ"
+      "duration_ms": 196549,
+      "name": "Creeper",
+      "url": "https://open.spotify.com/track/2N7NgNdsEy0605JoSUVQwg"
     },
     {
-      "added_at": "2025-05-23 12:56:38",
+      "added_at": "2025-05-30 10:50:11",
       "album": {
-        "name": "Plagiera",
-        "url": "https://open.spotify.com/album/4l9hZexUPm7DXzuhvGv4Ro"
+        "name": "Me lennettiin kohti aamua",
+        "url": "https://open.spotify.com/album/631JYwJ828LQYMeLuknpyH"
       },
       "artists": [
         {
-          "name": "Blondini",
-          "url": "https://open.spotify.com/artist/0l5Z38yckkLZE55rEUZtVK"
+          "name": "Flippipuisto",
+          "url": "https://open.spotify.com/artist/3IWc5MkkGRWeLMZercb9Q1"
+        }
+      ],
+      "duration_ms": 188091,
+      "name": "Me lennettiin kohti aamua",
+      "url": "https://open.spotify.com/track/16oUMrsZTOpmKKylMMwT6D"
+    },
+    {
+      "added_at": "2025-05-30 10:50:11",
+      "album": {
+        "name": "The Flow of Time And Age",
+        "url": "https://open.spotify.com/album/01PogVp1gRZ6VdFsvTTR0u"
+      },
+      "artists": [
+        {
+          "name": "Craneium",
+          "url": "https://open.spotify.com/artist/7fRtbrVBXuRjfpdyEiOBRK"
+        }
+      ],
+      "duration_ms": 283945,
+      "name": "The Flow of Time And Age",
+      "url": "https://open.spotify.com/track/22XFE3xEbsACGFZXpgERnT"
+    },
+    {
+      "added_at": "2025-05-30 10:50:11",
+      "album": {
+        "name": "WHORESHIP",
+        "url": "https://open.spotify.com/album/0YjV9073hOIYgxZ7I0hhcr"
+      },
+      "artists": [
+        {
+          "name": "IDLEYES",
+          "url": "https://open.spotify.com/artist/1Zzx3Sl3sPUVtKW9iHCe1k"
+        }
+      ],
+      "duration_ms": 255627,
+      "name": "DERELICT",
+      "url": "https://open.spotify.com/track/4qRDcniLINPLyMl73lPQl1"
+    },
+    {
+      "added_at": "2025-05-30 10:50:11",
+      "album": {
+        "name": "Ser n\u00e5nting st\u00f6rre",
+        "url": "https://open.spotify.com/album/6THDv7PcSZMM46p7lAImdv"
+      },
+      "artists": [
+        {
+          "name": "Jeanette \u00c5kerlund",
+          "url": "https://open.spotify.com/artist/0DWMclpbqAwwZqNoIkJaqY"
+        }
+      ],
+      "duration_ms": 251590,
+      "name": "Ser n\u00e5nting st\u00f6rre",
+      "url": "https://open.spotify.com/track/3hVL9uxgsW0hAQbPwFdWno"
+    },
+    {
+      "added_at": "2025-05-30 10:50:11",
+      "album": {
+        "name": "We Are Rock'N'Roll",
+        "url": "https://open.spotify.com/album/1pHcuOnXs4wcH0iOyFv35u"
+      },
+      "artists": [
+        {
+          "name": "COBRA CULT",
+          "url": "https://open.spotify.com/artist/77IxDTDqG6nzVeemvWGpjG"
+        }
+      ],
+      "duration_ms": 225112,
+      "name": "We Are Rock'N'Roll",
+      "url": "https://open.spotify.com/track/7E7FjKtQua64m2VBwAxAiL"
+    },
+    {
+      "added_at": "2025-05-30 10:50:11",
+      "album": {
+        "name": "LUMINA",
+        "url": "https://open.spotify.com/album/6Ud4WOYmJ0ZrUbRBhQnz7w"
+      },
+      "artists": [
+        {
+          "name": "Isora",
+          "url": "https://open.spotify.com/artist/40EcSPTTFtco37f3Ys9kCH"
         },
         {
-          "name": "Str\u00f6g1",
-          "url": "https://open.spotify.com/artist/4b86UHGZJ59ZjOZWZeT9zF"
+          "name": "Hana Beshie",
+          "url": "https://open.spotify.com/artist/0gb8IJ7o9cjg8ufGaSYY1Y"
+        }
+      ],
+      "duration_ms": 167538,
+      "name": "Rampa (Ramp It Up)",
+      "url": "https://open.spotify.com/track/5EGhHhWJF2l3aBeGyuLtmg"
+    },
+    {
+      "added_at": "2025-05-30 10:50:11",
+      "album": {
+        "name": "Waiting for you",
+        "url": "https://open.spotify.com/album/32pgN3w87nxwnEhrUQoVBn"
+      },
+      "artists": [
+        {
+          "name": "Yeah Oh!",
+          "url": "https://open.spotify.com/artist/3aiKvxaLxWXN7uOaA4nxmp"
+        }
+      ],
+      "duration_ms": 150540,
+      "name": "Waiting for you",
+      "url": "https://open.spotify.com/track/6y9INjYLAvk7WpacFJuN39"
+    },
+    {
+      "added_at": "2025-05-30 10:50:11",
+      "album": {
+        "name": "Vi ville se ett norrsken",
+        "url": "https://open.spotify.com/album/5wdjFLazua8d2fMpYUCYvp"
+      },
+      "artists": [
+        {
+          "name": "Dark Sven",
+          "url": "https://open.spotify.com/artist/5rXtti22zmqOaYMCsTgbgv"
         },
         {
-          "name": "Gasmus",
-          "url": "https://open.spotify.com/artist/5ZoKlfcVlK5XjvgQ9upcn5"
+          "name": "\u00c5ke Nyke",
+          "url": "https://open.spotify.com/artist/25YL9ZHgYeaqN87fAobuK7"
         }
       ],
-      "duration_ms": 102524,
-      "name": "Plagiera",
-      "url": "https://open.spotify.com/track/2z7fYtIWvWW2Ib7e1ViSOq"
+      "duration_ms": 230500,
+      "name": "Tr\u00e4lhavet",
+      "url": "https://open.spotify.com/track/6iKGWZYH3j9CWwGZWkWhaU"
     },
     {
-      "added_at": "2025-05-23 12:56:38",
+      "added_at": "2025-05-30 10:50:11",
       "album": {
-        "name": "when the time feels right",
-        "url": "https://open.spotify.com/album/4PU5vigCnheFIr4LO1dFQj"
+        "name": "Dance To The Rhythm",
+        "url": "https://open.spotify.com/album/42QC6WdHRJawpFWmobTtAs"
       },
       "artists": [
         {
-          "name": "Feyesal",
-          "url": "https://open.spotify.com/artist/6frffJSfCnyExIFDQEHnyf"
-        }
-      ],
-      "duration_ms": 123789,
-      "name": "when the time feels right",
-      "url": "https://open.spotify.com/track/0TUHBBb4FyqLQuSFU0JAK2"
-    },
-    {
-      "added_at": "2025-05-23 12:56:38",
-      "album": {
-        "name": "Light As A Feather",
-        "url": "https://open.spotify.com/album/1sJ43ULVK5XmY3rxncSDlJ"
-      },
-      "artists": [
-        {
-          "name": "Planet Boelex",
-          "url": "https://open.spotify.com/artist/608KQSfwArpLzk9jFzfjeg"
+          "name": "Chris Ward",
+          "url": "https://open.spotify.com/artist/6IEciYFAtFyDFIghn29gTv"
         },
         {
-          "name": "Rumirr",
-          "url": "https://open.spotify.com/artist/3u2UkrtOieDcDWxLsGUz2l"
+          "name": "Trishauna",
+          "url": "https://open.spotify.com/artist/7zwmREaO4J0MzYXn5sKAvU"
         }
       ],
-      "duration_ms": 273149,
-      "name": "Light As A Feather",
-      "url": "https://open.spotify.com/track/5ks67flF3YxjY9in9vWbzg"
+      "duration_ms": 181846,
+      "name": "Dance To The Rhythm",
+      "url": "https://open.spotify.com/track/2bEyquRDBJ9Z8e780q2eXk"
     },
     {
-      "added_at": "2025-05-23 12:56:38",
+      "added_at": "2025-05-30 10:50:11",
       "album": {
-        "name": "The Rot Beneath",
-        "url": "https://open.spotify.com/album/3iYVPlT4fLlfglFs6zu3G4"
+        "name": "N\u00e5n s\u00e5n som du",
+        "url": "https://open.spotify.com/album/5hv5bMqwYjwjRHAYWnMbzQ"
       },
       "artists": [
         {
-          "name": "Grand Cadaver",
-          "url": "https://open.spotify.com/artist/6K520oxrZlHZC5MSALzFZC"
+          "name": "Magnus Almgren",
+          "url": "https://open.spotify.com/artist/3iZO3QjCSlfkvP7NufkqX2"
         }
       ],
-      "duration_ms": 206552,
-      "name": "The Rot Beneath",
-      "url": "https://open.spotify.com/track/0YmfIbsibGgF6oTTMuHazx"
+      "duration_ms": 230000,
+      "name": "N\u00e5n s\u00e5n som du",
+      "url": "https://open.spotify.com/track/1OCEjLr548g1KIrRaXCXxf"
     },
     {
-      "added_at": "2025-05-23 12:56:38",
+      "added_at": "2025-05-30 10:50:11",
       "album": {
-        "name": "Yellow Fleet",
-        "url": "https://open.spotify.com/album/4n9hLdevsaey8rFSkcVFYu"
+        "name": "Satisfied",
+        "url": "https://open.spotify.com/album/1EzNiNmbrFm05KjhwBxVsn"
       },
       "artists": [
         {
-          "name": "The Night Parrots",
-          "url": "https://open.spotify.com/artist/1F9tpDnuGk3WaYe4AQyILo"
-        },
-        {
-          "name": "Ella Hooper",
-          "url": "https://open.spotify.com/artist/0Fkkpc8GhsqoaSNoWC8XWc"
+          "name": "Occupation:Baby",
+          "url": "https://open.spotify.com/artist/64fWwXwteuqwLPnNw1q9a4"
         }
       ],
-      "duration_ms": 244491,
-      "name": "Yellow Fleet",
-      "url": "https://open.spotify.com/track/6v95zFv05J75HA2UvIiBrF"
+      "duration_ms": 198690,
+      "name": "Satisfied",
+      "url": "https://open.spotify.com/track/4UGbAqtwPXxpgBiNGozDQr"
     },
     {
-      "added_at": "2025-05-23 12:56:38",
+      "added_at": "2025-05-30 10:50:11",
       "album": {
-        "name": "Sorg och saknad",
-        "url": "https://open.spotify.com/album/7G3ydMQI5s4n6jdlTrm3iT"
+        "name": "Till dig",
+        "url": "https://open.spotify.com/album/62GcsjM2lUWsDsmLwBYXPf"
       },
       "artists": [
         {
-          "name": "Valentina Orioli",
-          "url": "https://open.spotify.com/artist/5ggane1JKezyai0SK21HPm"
+          "name": "Josefine Wassler",
+          "url": "https://open.spotify.com/artist/5FRDbDNwQ1p1GqXt9QOfUx"
         }
       ],
-      "duration_ms": 252826,
-      "name": "Sorg och saknad",
-      "url": "https://open.spotify.com/track/6iMj4Bt98IMojpCYoYXvrf"
+      "duration_ms": 162986,
+      "name": "Underbart \u00e4r kort",
+      "url": "https://open.spotify.com/track/2zi8F6xT6AYbllVgAsQ56Z"
     },
     {
-      "added_at": "2025-05-23 12:56:38",
+      "added_at": "2025-05-30 10:50:11",
       "album": {
-        "name": "Maybe It's Time",
-        "url": "https://open.spotify.com/album/5UcGWbRSw4nh3WMhlHzf9u"
+        "name": "L\u00e5t det va s\u00e5 h\u00e4r i himmelen",
+        "url": "https://open.spotify.com/album/1UEYrlzfaKPw28dQ59FQB5"
       },
       "artists": [
         {
-          "name": "Oliver Bentley",
-          "url": "https://open.spotify.com/artist/7pHfsCiXrweMrhWcW3jxoM"
+          "name": "Markus Ernerot",
+          "url": "https://open.spotify.com/artist/0hSSczUq3cqlkWJuqQx2bX"
         }
       ],
-      "duration_ms": 207891,
-      "name": "Maybe It's Time",
-      "url": "https://open.spotify.com/track/0W8zQQJb8i7EZ6HUlJ9qlv"
+      "duration_ms": 253252,
+      "name": "L\u00e5t det va s\u00e5 h\u00e4r i himmelen",
+      "url": "https://open.spotify.com/track/6fHzqhPbyX2aaS2cyXJ8U4"
     },
     {
-      "added_at": "2025-05-23 12:56:38",
+      "added_at": "2025-05-30 10:50:11",
       "album": {
-        "name": "Make it hot",
-        "url": "https://open.spotify.com/album/0UEeaA04Cdk5TuankmVBBL"
+        "name": "Happy end",
+        "url": "https://open.spotify.com/album/3R4GHZoom4zyV6Njzb7SyH"
       },
       "artists": [
         {
-          "name": "DARLA",
-          "url": "https://open.spotify.com/artist/1NVyF5orXTXOXkOJDE5VPi"
+          "name": "Flow Up!",
+          "url": "https://open.spotify.com/artist/0xtJPlMJMYlb9IoPdhqrky"
         }
       ],
-      "duration_ms": 163962,
-      "name": "Choke On Me",
-      "url": "https://open.spotify.com/track/4bDNHYtaBUguuiAM2BT21p"
-    },
-    {
-      "added_at": "2025-05-23 12:56:38",
-      "album": {
-        "name": "Tallgrass",
-        "url": "https://open.spotify.com/album/7J88A0yEePEFqTaTcWuibu"
-      },
-      "artists": [
-        {
-          "name": "Beth Watts Nelson",
-          "url": "https://open.spotify.com/artist/4BXyJ3PYN5qcZPKnVx0idg"
-        },
-        {
-          "name": "Betse Ellis",
-          "url": "https://open.spotify.com/artist/6bi2p6CFT1Lz2dTDyCP9QG"
-        }
-      ],
-      "duration_ms": 236225,
-      "name": "Tallgrass",
-      "url": "https://open.spotify.com/track/46ZOvmOTk8isRmvHW6JAmU"
-    },
-    {
-      "added_at": "2025-05-23 12:56:38",
-      "album": {
-        "name": "Devilclaimed",
-        "url": "https://open.spotify.com/album/53Mfr9rDC6hGG2pn3qgMWL"
-      },
-      "artists": [
-        {
-          "name": "Tryin' Within",
-          "url": "https://open.spotify.com/artist/7EjB3LoSndwIDrVYzAttUE"
-        }
-      ],
-      "duration_ms": 255913,
-      "name": "Devilclaimed",
-      "url": "https://open.spotify.com/track/0GrlYXEDtQhu8HaovAAWT5"
-    },
-    {
-      "added_at": "2025-05-23 12:56:38",
-      "album": {
-        "name": "skindeep",
-        "url": "https://open.spotify.com/album/7zvHAly1LXVaPd2gXx7P30"
-      },
-      "artists": [
-        {
-          "name": "D. Inver",
-          "url": "https://open.spotify.com/artist/1tXn1rBYhxJNuMFUw5Aq61"
-        }
-      ],
-      "duration_ms": 194783,
-      "name": "skindeep",
-      "url": "https://open.spotify.com/track/2yjQy9NgC3L8lduARFB9lt"
-    },
-    {
-      "added_at": "2025-05-23 12:56:38",
-      "album": {
-        "name": "Raha Pilas Rakkauden",
-        "url": "https://open.spotify.com/album/1BpDmsvmi6QBQDHcoxlqiA"
-      },
-      "artists": [
-        {
-          "name": "Antique",
-          "url": "https://open.spotify.com/artist/7zeop1CZx7LkEKTrhiEVjY"
-        }
-      ],
-      "duration_ms": 157487,
-      "name": "Raha Pilas Rakkauden",
-      "url": "https://open.spotify.com/track/0HlDYSRea7VLCXc2X5Zvi9"
-    },
-    {
-      "added_at": "2025-05-23 12:56:38",
-      "album": {
-        "name": "Tusen Versioner Om",
-        "url": "https://open.spotify.com/album/7ov9oel5hsuGtXABowYtWv"
-      },
-      "artists": [
-        {
-          "name": "Tracy Irve",
-          "url": "https://open.spotify.com/artist/47eYIpNYpouTNbJnYz7cdb"
-        }
-      ],
-      "duration_ms": 188817,
-      "name": "Tusen Versioner Om",
-      "url": "https://open.spotify.com/track/3UQAcHM5qEnxQ8LQPDzTGG"
-    },
-    {
-      "added_at": "2025-05-23 12:56:38",
-      "album": {
-        "name": "Extrapris",
-        "url": "https://open.spotify.com/album/1uFu8YuSsPfhln4Qo0PUFn"
-      },
-      "artists": [
-        {
-          "name": "Aldri Strax",
-          "url": "https://open.spotify.com/artist/44lf9AuvGc99uQqP7Kilmg"
-        }
-      ],
-      "duration_ms": 224578,
-      "name": "Extrapris",
-      "url": "https://open.spotify.com/track/6LQ0KHtHGap2TCVYAqDbXh"
-    },
-    {
-      "added_at": "2025-05-23 12:56:38",
-      "album": {
-        "name": "Rebound",
-        "url": "https://open.spotify.com/album/1IdMG51AErkDEN44mjnWVy"
-      },
-      "artists": [
-        {
-          "name": "Too Hard To Spell",
-          "url": "https://open.spotify.com/artist/2EQcck7DUz4tBSp2zRKC55"
-        },
-        {
-          "name": "Impulse Live",
-          "url": "https://open.spotify.com/artist/3ya89iitoloda0ReL0JLSM"
-        }
-      ],
-      "duration_ms": 218181,
-      "name": "Rebound",
-      "url": "https://open.spotify.com/track/1sio2eKLApecN82tz57xVa"
+      "duration_ms": 173662,
+      "name": "Happy end",
+      "url": "https://open.spotify.com/track/0a0VYQkNOyqF9TM6Bo1nzM"
     }
   ],
   "unique_name": "Independent Music Friday",

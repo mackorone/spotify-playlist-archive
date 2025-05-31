@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SEFZskKvKB.md) - [plain]
 
 > Ambient and percussion to move the body and heal the soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,413 likes - 108 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,465 likes - 108 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,6 +115,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SEFZskKvKB.md) - [plain]
 | 105 | [Secrets of Silver Sand](https://open.spotify.com/track/3a6fUC6DXs6ZalBRDYX2Lm) | [Tribal Drums Ambient](https://open.spotify.com/artist/43sPSu5S998ea5L4wtaZCV) | [African Zen \- Spiritual Experience, Harmony & Balance, Healing Meditation, Tribal Soul, Relaxing Ethnic Music](https://open.spotify.com/album/69dYZP5IHROiw5tAhxMOzs) | 3:44 |
 | 106 | [Useful Wisdom](https://open.spotify.com/track/1vpZOt4glHPLzTnt5TVnIM) | [Saphileaum](https://open.spotify.com/artist/0DGuM1iZlGWfdDqAIrQCfU) | [Intrapersonal Experience](https://open.spotify.com/album/7Lwmz636F3Oa6ezXspUzBg) | 4:48 |
 | 107 | [Hypnotic](https://open.spotify.com/track/4DwOcPUyAMVDtQCBEXFGOj) | [Nimah Chantis](https://open.spotify.com/artist/1PAnkrGfJrFbB7wT1SuDHY) | [Shamanic Drums \(Meditation & Sacred Dance\)](https://open.spotify.com/album/1XS9JY9mSUo78ellvdiQo5) | 3:45 |
-| 108 | [Healing Drums](https://open.spotify.com/track/1JnMcSLVT3QlZYuovCk8dL) | [African Music Drums Collection](https://open.spotify.com/artist/1VZg5g46KNbpD7CsIxPrKo) | [Worship African Experience: Shamanic Serenity, Relaxing Drums, Tribal Meditation](https://open.spotify.com/album/1YasVpcLqeQPWSFDsHHOOt) | 4:24 |
+| 108 | [Healing Drums](https://open.spotify.com/track/1JnMcSLVT3QlZYuovCk8dL) | [Frank South](https://open.spotify.com/artist/0SyhhQd2NKLkOj9M7dBTCi) | [Worship African Experience](https://open.spotify.com/album/1YasVpcLqeQPWSFDsHHOOt) | 4:24 |
 
 Snapshot ID: `aBDTvwAAAADYxQ/kPoTr97tMJA/XUQcu`

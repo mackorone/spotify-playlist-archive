@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 
 > Weekly update for Indie releases\. Cover: <a href="spotify:playlist:37i9dQZF1DXaxwXKCsImRe">RADAR</a>\-artist Hiqpy
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,011 likes - 101 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,061 likes - 101 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

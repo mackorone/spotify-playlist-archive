@@ -1,12 +1,12 @@
 {
   "description": "This is Black Eyed Peas. The essential tracks, all in one playlist.",
-  "num_followers": 519567,
+  "num_followers": 519693,
   "original_name": "This Is Black Eyed Peas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDZSAAAAAABe+0MnPdfgJaAm+478DxUz",
+  "snapshot_id": "aDejgAAAAABclkyV9VfqDYdKvQHu5M8P",
   "tracks": [
     {
       "added_at": null,
@@ -778,6 +778,10 @@
         {
           "name": "Black Eyed Peas",
           "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        },
+        {
+          "name": "Travis Barker",
+          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
         }
       ],
       "duration_ms": 216026,
@@ -911,8 +915,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "GUARANTEE (feat. J. Rey Soul) [SUMMER MIX]",
-        "url": "https://open.spotify.com/album/78g17CAmtDlt0ngIiZ8gGH"
+        "name": "TRANSLATION",
+        "url": "https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc"
       },
       "artists": [
         {
@@ -920,13 +924,13 @@
           "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
         },
         {
-          "name": "J. Rey Soul",
-          "url": "https://open.spotify.com/artist/1OB278sOZVSFx5vXqYha83"
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
         }
       ],
-      "duration_ms": 211875,
-      "name": "GUARANTEE (feat. J. Rey Soul) - SUMMER MIX",
-      "url": "https://open.spotify.com/track/1awobyPJIqyw2mgdjaFvoz"
+      "duration_ms": 221694,
+      "name": "NO MA\u00d1ANA",
+      "url": "https://open.spotify.com/track/1clKJlcPmm4BY9TkXKQxso"
     }
   ],
   "unique_name": "This Is Black Eyed Peas",

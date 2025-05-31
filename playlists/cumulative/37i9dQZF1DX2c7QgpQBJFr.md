@@ -4,7 +4,7 @@
 
 > Al MI AMI Mimì ci ha incantato con il suo nuovo pop 🇮🇹 foto di Agnese Carbone
 
-636 songs - 1 day 6 hr 5 min
+637 songs - 1 day 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [AMORETABACCO](https://open.spotify.com/track/0Fackdwwbq8lbJMeFAEeD1) | [Still Charles](https://open.spotify.com/artist/2KFv9jOFkybE6VjzZ4Ishe) | [AMORETABACCO](https://open.spotify.com/album/3QbyWWAQ1K4oZvIfvaYGx6) | 2:34 | 2024-12-12 | 2025-02-12 |
 | [AMÆMI](https://open.spotify.com/track/6CJgwONrMS6GgHYRmXUPFP) | [ELASI](https://open.spotify.com/artist/3C8AlXFIhzxJ4BCKxNQJJ6) | [AMÆMI](https://open.spotify.com/album/69BFuZENYFnX8ruSdVtYPF) | 2:48 | 2024-11-28 | 2025-02-12 |
 | [Amélie](https://open.spotify.com/track/6D65BBGrs7uuHptiwfNpIS) | [soap](https://open.spotify.com/artist/1HHQ5Lz44duNiQmpzKU0jd) | [Amélie](https://open.spotify.com/album/3SK4X4pGo8xa620tGmyIng) | 2:25 | 2025-01-30 | 2025-05-02 |
+| [Anche Se Ti Amo \(con Frah Quintale, nayt & prima stanza a destra\)](https://open.spotify.com/track/0yzZJ1wNec8GihbRZ5FGyL) | [Golden Years](https://open.spotify.com/artist/4x13f8mnFaaoUdFd5PPSgH), [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN), [nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD), [prima stanza a destra](https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5) | [FUORI MENÙ](https://open.spotify.com/album/0CVCnkzMA5oMiAiwgaIY5k) | 2:27 | 2025-05-30 |  |
 | [ancora](https://open.spotify.com/track/31FieNBJupbKsWKW76SM9t) | [Luca Re](https://open.spotify.com/artist/2TvgTSCaWT7JFeVYggKeu8) | [ancora](https://open.spotify.com/album/6j0zCgkS5LhYgUL6YkeY4i) | 2:45 | 2024-09-19 | 2024-11-08 |
 | [Ancora](https://open.spotify.com/track/6vW57S8SKU1AfZb7DeeFEW) | [Mediterraneo](https://open.spotify.com/artist/0OW26IfAPpYzsymfad0489) | [Ancora](https://open.spotify.com/album/5fOa7FsXk0hiyJAP8uLr3v) | 2:59 | 2024-10-24 | 2024-12-06 |
 | [Angelo caduto dal cielo](https://open.spotify.com/track/5rF41LLbySWof8wfh47Upu) | [Sincero](https://open.spotify.com/artist/7mky6cJG3EGEUbXwRQCOrQ) | [Angelo caduto dal cielo](https://open.spotify.com/album/472BpTyF2Ev3Mx4UhxkSFO) | 3:18 | 2025-04-17 | 2025-05-09 |

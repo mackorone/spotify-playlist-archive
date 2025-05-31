@@ -1,13 +1,33 @@
 {
   "description": "Jazz, but make it funky. Cover: Skinny Hightower",
-  "num_followers": 384948,
+  "num_followers": 385063,
   "original_name": "Jazz-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aB192QAAAAAGGS42+R1Lsboij93pFzIE",
+  "snapshot_id": "aDktTgAAAACdjPx5vV1tAqNTR3hZwzud",
   "tracks": [
+    {
+      "added_at": "2025-05-30 04:00:14",
+      "album": {
+        "name": "DJ-Kicks: Quantic",
+        "url": "https://open.spotify.com/album/2GgclfMMPdemb5gQHvtHiL"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        },
+        {
+          "name": "Sly5thAve",
+          "url": "https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi"
+        }
+      ],
+      "duration_ms": 229906,
+      "name": "Twang",
+      "url": "https://open.spotify.com/track/5W50Z9xVwrr0zPzZKXhEJp"
+    },
     {
       "added_at": "2025-05-09 04:00:25",
       "album": {
@@ -583,22 +603,6 @@
       "duration_ms": 260867,
       "name": "Le Temps",
       "url": "https://open.spotify.com/track/3Dj70LxvP07JwexR0mTGN4"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
-        "name": "Liberation",
-        "url": "https://open.spotify.com/album/0VzsYDmj3gbUrc9u0BYsRo"
-      },
-      "artists": [
-        {
-          "name": "Sly5thAve",
-          "url": "https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi"
-        }
-      ],
-      "duration_ms": 314481,
-      "name": "Liberation",
-      "url": "https://open.spotify.com/track/1gZe7qEONCZdRFn2A7UhdJ"
     },
     {
       "added_at": "2024-04-12 04:01:00",

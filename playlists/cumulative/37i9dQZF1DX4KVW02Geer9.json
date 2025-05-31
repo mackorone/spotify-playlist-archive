@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u30af\u30ed\u30b9\u30aa\u30fc\u30d0\u30fc\u30fb\u30b8\u30e3\u30ba\u306e\u5148\u99c6\u8005\u3001\u66f4\u306b\u6b21\u4e16\u4ee3\u306e\u30b7\u30fc\u30f3\u306e\u6700\u5148\u7aef\u306b\u7acb\u3064\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u66f2\u3092\u3001\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: Tom Misch",
+  "description": "\u30af\u30ed\u30b9\u30aa\u30fc\u30d0\u30fc\u30fb\u30b8\u30e3\u30ba\u306e\u5148\u99c6\u8005\u3001\u66f4\u306b\u6b21\u4e16\u4ee3\u306e\u30b7\u30fc\u30f3\u306e\u6700\u5148\u7aef\u306b\u7acb\u3064\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u66f2\u3092\u3001\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: Joe Armon-Jones",
   "name": "X-Over \u30b8\u30e3\u30ba!",
   "tracks": [
+    {
+      "album": {
+        "name": "Music for 17 Musicians",
+        "url": "https://open.spotify.com/album/33Jl97Rlutsk5fMB7dqpPO"
+      },
+      "artists": [
+        {
+          "name": "Jameszoo",
+          "url": "https://open.spotify.com/artist/5qvYokMeJUfBYTqaUnegE8"
+        },
+        {
+          "name": "Asko Sch\u00f6nberg",
+          "url": "https://open.spotify.com/artist/6GZd77DzqLGmwfWuygyd6n"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224021,
+      "name": "(Bugatti)",
+      "url": "https://open.spotify.com/track/29WERsxlybpjjyepLfeVGF"
+    },
     {
       "album": {
         "name": "Spaven's 5ive",
@@ -660,6 +682,24 @@
       "duration_ms": 252026,
       "name": "Black Hole (feat. Reggie Watts)",
       "url": "https://open.spotify.com/track/4PnekQ16RE2bFx4e9dYOsx"
+    },
+    {
+      "album": {
+        "name": "Blaze Out",
+        "url": "https://open.spotify.com/album/2mjB70s5Dj9DbSoJyjC74E"
+      },
+      "artists": [
+        {
+          "name": "Still Caravan",
+          "url": "https://open.spotify.com/artist/4oRIYEDeg0IEgU8I8FwMXJ"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "Blaze Out",
+      "url": "https://open.spotify.com/track/19SmTjEStlSHnH8o2eLRIN"
     },
     {
       "album": {
@@ -1698,6 +1738,24 @@
       "duration_ms": 246853,
       "name": "Falling For You",
       "url": "https://open.spotify.com/track/2q6InS8x7JMSj9A4aWR0VJ"
+    },
+    {
+      "album": {
+        "name": "WHEN THE FLOWERS BLOOM",
+        "url": "https://open.spotify.com/album/2Y6dP2OI1FsVczD54VynY6"
+      },
+      "artists": [
+        {
+          "name": "Lionmilk",
+          "url": "https://open.spotify.com/artist/0ssDUMMQsAhDLqKwBqEnGZ"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151836,
+      "name": "fantasy",
+      "url": "https://open.spotify.com/track/1HIGAiiWwU1l6ZeRaSobu8"
     },
     {
       "album": {
@@ -3319,6 +3377,24 @@
     },
     {
       "album": {
+        "name": "Love Theme from Spartacus",
+        "url": "https://open.spotify.com/album/6hP7lyRCB4janjkcSguJfv"
+      },
+      "artists": [
+        {
+          "name": "Takahiro Izumikawa",
+          "url": "https://open.spotify.com/artist/4CJAJc3P508XZPuIOi1c8D"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179597,
+      "name": "Love Theme from Spartacus",
+      "url": "https://open.spotify.com/track/57vCXyHbCxi4iIozQdepuy"
+    },
+    {
+      "album": {
         "name": "Gen",
         "url": "https://open.spotify.com/album/68o6ZyxXi2hvjV0J3MwfDs"
       },
@@ -4035,6 +4111,28 @@
     },
     {
       "album": {
+        "name": "One Way Traffic (feat. Yazmin Lacey)",
+        "url": "https://open.spotify.com/album/6LU9POssYAsRwuybobVBHO"
+      },
+      "artists": [
+        {
+          "name": "Joe Armon-Jones",
+          "url": "https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5"
+        },
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420760,
+      "name": "One Way Traffic - feat. Yazmin Lacey",
+      "url": "https://open.spotify.com/track/4cQqUQtjCU7DfwAMnSUAHh"
+    },
+    {
+      "album": {
         "name": "OTODOKENIAGARIMASHITA",
         "url": "https://open.spotify.com/album/4EvClGWhfcynBZk3Rq9nDr"
       },
@@ -4476,6 +4574,32 @@
       "duration_ms": 412626,
       "name": "Rumba Roy",
       "url": "https://open.spotify.com/track/1eVXW0c6PT1iwP0HDN7vVF"
+    },
+    {
+      "album": {
+        "name": "2",
+        "url": "https://open.spotify.com/album/6kZzlZDhlsuaHjTtKUPsNH"
+      },
+      "artists": [
+        {
+          "name": "ZAKINO",
+          "url": "https://open.spotify.com/artist/6DFJacprZITt6mRXR6KGnI"
+        },
+        {
+          "name": "miffrino",
+          "url": "https://open.spotify.com/artist/0Nkjj09OavnMp7iah0YtRT"
+        },
+        {
+          "name": "NAGAN SERVER",
+          "url": "https://open.spotify.com/artist/0pY8tTGXwN1CvSlIcmNHKx"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228776,
+      "name": "Rumination",
+      "url": "https://open.spotify.com/track/4Hcgda1Xfhh9g5LpzEcvdw"
     },
     {
       "album": {
@@ -5772,6 +5896,24 @@
       "duration_ms": 215168,
       "name": "What Are You About?",
       "url": "https://open.spotify.com/track/0wjqeLd0hcvSF2D7rKoVjh"
+    },
+    {
+      "album": {
+        "name": "What hummingbirds teach us about flying",
+        "url": "https://open.spotify.com/album/2GdtjdIIi9Pa1plK5YkoQn"
+      },
+      "artists": [
+        {
+          "name": "\u6851\u539f\u3042\u3044",
+          "url": "https://open.spotify.com/artist/6ATrUDyyYVTcuJPnlafenR"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327200,
+      "name": "What hummingbirds teach us about flying",
+      "url": "https://open.spotify.com/track/63A5iao38RysFoJepVv63Y"
     },
     {
       "album": {

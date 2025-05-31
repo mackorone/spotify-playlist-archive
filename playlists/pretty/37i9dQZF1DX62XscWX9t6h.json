@@ -1,6 +1,6 @@
 {
   "description": "21st Century nomadic expressions interwoven into a very unexpected patchwork.",
-  "num_followers": 203704,
+  "num_followers": 203761,
   "original_name": "Folk Fabrique",
   "owner": {
     "name": "Spotify",
@@ -411,22 +411,6 @@
     {
       "added_at": "2025-05-06 15:20:59",
       "album": {
-        "name": "Nuova Napoli",
-        "url": "https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD"
-      },
-      "artists": [
-        {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
-        }
-      ],
-      "duration_ms": 273058,
-      "name": "Parev' Ajere",
-      "url": "https://open.spotify.com/track/6nPnAYsGwE8HDGxdNvSaex"
-    },
-    {
-      "added_at": "2025-05-06 15:20:59",
-      "album": {
         "name": "Aman Iman: Water Is Life",
         "url": "https://open.spotify.com/album/2kV0ipibYRkAjrcxCd1Co0"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 267533,
       "name": "Cler Achel",
       "url": "https://open.spotify.com/track/1sXLitmQULzwiWR8D38Ekw"
+    },
+    {
+      "added_at": "2025-05-06 15:20:59",
+      "album": {
+        "name": "Nuova Napoli",
+        "url": "https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD"
+      },
+      "artists": [
+        {
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+        }
+      ],
+      "duration_ms": 273058,
+      "name": "Parev' Ajere",
+      "url": "https://open.spotify.com/track/6nPnAYsGwE8HDGxdNvSaex"
     },
     {
       "added_at": "2025-05-06 15:20:59",
@@ -547,6 +547,22 @@
     {
       "added_at": "2025-05-06 15:20:59",
       "album": {
+        "name": "\u015einanay / French Disko (Lagniappe Session)",
+        "url": "https://open.spotify.com/album/3SVe0JgNmBLHgyFLhKOwoH"
+      },
+      "artists": [
+        {
+          "name": "Kit Sebastian",
+          "url": "https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY"
+        }
+      ],
+      "duration_ms": 236578,
+      "name": "\u015einanay",
+      "url": "https://open.spotify.com/track/2fXrL66WMT93qlrqreWXqa"
+    },
+    {
+      "added_at": "2025-05-06 15:20:59",
+      "album": {
         "name": "Amatssou",
         "url": "https://open.spotify.com/album/6midUauH9WLxQllqEAvqhM"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 211533,
       "name": "Kek Alghalm",
       "url": "https://open.spotify.com/track/6a2lsRBLR68z0azpNyFrzr"
-    },
-    {
-      "added_at": "2025-05-06 15:20:59",
-      "album": {
-        "name": "\u015einanay / French Disko (Lagniappe Session)",
-        "url": "https://open.spotify.com/album/3SVe0JgNmBLHgyFLhKOwoH"
-      },
-      "artists": [
-        {
-          "name": "Kit Sebastian",
-          "url": "https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY"
-        }
-      ],
-      "duration_ms": 236578,
-      "name": "\u015einanay",
-      "url": "https://open.spotify.com/track/2fXrL66WMT93qlrqreWXqa"
     },
     {
       "added_at": "2025-05-06 15:20:59",
@@ -647,6 +647,58 @@
     {
       "added_at": "2025-05-06 15:20:59",
       "album": {
+        "name": "Afrique Victime",
+        "url": "https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2"
+      },
+      "artists": [
+        {
+          "name": "Mdou Moctar",
+          "url": "https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94"
+        }
+      ],
+      "duration_ms": 298969,
+      "name": "Chismiten",
+      "url": "https://open.spotify.com/track/5RHN9R3BqScU4Jzu84U7pZ"
+    },
+    {
+      "added_at": "2025-05-06 15:20:59",
+      "album": {
+        "name": "Clandestino (feat. Calypso Rose)",
+        "url": "https://open.spotify.com/album/0dcSYLzXomtLihJSTfyk0T"
+      },
+      "artists": [
+        {
+          "name": "Manu Chao",
+          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+        },
+        {
+          "name": "Calypso Rose",
+          "url": "https://open.spotify.com/artist/56QlZ0AFfkaaHyANLVkg5h"
+        }
+      ],
+      "duration_ms": 158714,
+      "name": "Clandestino (feat. Calypso Rose)",
+      "url": "https://open.spotify.com/track/0XeSTQIu2LqnAKdOigQUtT"
+    },
+    {
+      "added_at": "2025-05-06 15:20:59",
+      "album": {
+        "name": "False Lankum",
+        "url": "https://open.spotify.com/album/2lu7c86G1ptjMJVL9upG1H"
+      },
+      "artists": [
+        {
+          "name": "Lankum",
+          "url": "https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z"
+        }
+      ],
+      "duration_ms": 518745,
+      "name": "Go Dig My Grave",
+      "url": "https://open.spotify.com/track/21gCYJP9C9GUNI4jCZhheZ"
+    },
+    {
+      "added_at": "2025-05-06 15:20:59",
+      "album": {
         "name": "THE FUTURE IS ANCESTRAL",
         "url": "https://open.spotify.com/album/6pmFJ5VC7URN6Q7xI0SYt3"
       },
@@ -679,58 +731,6 @@
       "duration_ms": 266000,
       "name": "Long Pond Lily",
       "url": "https://open.spotify.com/track/6Ra5CZCY5n706HnbJCS2FN"
-    },
-    {
-      "added_at": "2025-05-06 15:20:59",
-      "album": {
-        "name": "False Lankum",
-        "url": "https://open.spotify.com/album/2lu7c86G1ptjMJVL9upG1H"
-      },
-      "artists": [
-        {
-          "name": "Lankum",
-          "url": "https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z"
-        }
-      ],
-      "duration_ms": 518745,
-      "name": "Go Dig My Grave",
-      "url": "https://open.spotify.com/track/21gCYJP9C9GUNI4jCZhheZ"
-    },
-    {
-      "added_at": "2025-05-06 15:20:59",
-      "album": {
-        "name": "Clandestino (feat. Calypso Rose)",
-        "url": "https://open.spotify.com/album/0dcSYLzXomtLihJSTfyk0T"
-      },
-      "artists": [
-        {
-          "name": "Manu Chao",
-          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
-        },
-        {
-          "name": "Calypso Rose",
-          "url": "https://open.spotify.com/artist/56QlZ0AFfkaaHyANLVkg5h"
-        }
-      ],
-      "duration_ms": 158714,
-      "name": "Clandestino (feat. Calypso Rose)",
-      "url": "https://open.spotify.com/track/0XeSTQIu2LqnAKdOigQUtT"
-    },
-    {
-      "added_at": "2025-05-06 15:20:59",
-      "album": {
-        "name": "Afrique Victime",
-        "url": "https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2"
-      },
-      "artists": [
-        {
-          "name": "Mdou Moctar",
-          "url": "https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94"
-        }
-      ],
-      "duration_ms": 298969,
-      "name": "Chismiten",
-      "url": "https://open.spotify.com/track/5RHN9R3BqScU4Jzu84U7pZ"
     },
     {
       "added_at": "2025-05-06 15:20:59",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2025-05-06 15:20:59",
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/27SOPYyLOq2RWnzPx6pW4d"
-      },
-      "artists": [
-        {
-          "name": "XIXA",
-          "url": "https://open.spotify.com/artist/00TFWY9PfTDEgsptXLrl1e"
-        }
-      ],
-      "duration_ms": 206430,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/52Ntzc7mUEEH5ilCz7MYpF"
-    },
-    {
-      "added_at": "2025-05-06 15:20:59",
-      "album": {
         "name": "Solst\u00edcio",
         "url": "https://open.spotify.com/album/7I3I6jxYh64keGLmZFGP4R"
       },
@@ -1095,6 +1079,58 @@
       "duration_ms": 265600,
       "name": "Solst\u00edcio",
       "url": "https://open.spotify.com/track/1OvgFEAdvQp7va0C68UaiW"
+    },
+    {
+      "added_at": "2025-05-06 15:20:59",
+      "album": {
+        "name": "Cera Perdida",
+        "url": "https://open.spotify.com/album/4G4lWdQ2QmExgywdumu7Fh"
+      },
+      "artists": [
+        {
+          "name": "Frente Cumbiero",
+          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
+        }
+      ],
+      "duration_ms": 189892,
+      "name": "Jaley Jaley",
+      "url": "https://open.spotify.com/track/5Q2kmykzh6TUFBBqskiHjK"
+    },
+    {
+      "added_at": "2025-05-06 15:20:59",
+      "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/27SOPYyLOq2RWnzPx6pW4d"
+      },
+      "artists": [
+        {
+          "name": "XIXA",
+          "url": "https://open.spotify.com/artist/00TFWY9PfTDEgsptXLrl1e"
+        }
+      ],
+      "duration_ms": 206430,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/52Ntzc7mUEEH5ilCz7MYpF"
+    },
+    {
+      "added_at": "2025-05-06 15:20:59",
+      "album": {
+        "name": "Batuco",
+        "url": "https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX"
+      },
+      "artists": [
+        {
+          "name": "Son Rompe Pera",
+          "url": "https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V"
+        },
+        {
+          "name": "Macha",
+          "url": "https://open.spotify.com/artist/4nlcyHlvzjmpjOJ09k2nb9"
+        }
+      ],
+      "duration_ms": 192893,
+      "name": "Los Chucos Suaves (featuring Macha)",
+      "url": "https://open.spotify.com/track/71JT61x0b1jpIdjMG2B7u7"
     },
     {
       "added_at": "2025-05-06 15:20:59",
@@ -1123,42 +1159,6 @@
       "duration_ms": 237000,
       "name": "Vaiv\u00e9n",
       "url": "https://open.spotify.com/track/1g1kzzTZN4AIabY9e1WolT"
-    },
-    {
-      "added_at": "2025-05-06 15:20:59",
-      "album": {
-        "name": "Batuco",
-        "url": "https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX"
-      },
-      "artists": [
-        {
-          "name": "Son Rompe Pera",
-          "url": "https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V"
-        },
-        {
-          "name": "Macha",
-          "url": "https://open.spotify.com/artist/4nlcyHlvzjmpjOJ09k2nb9"
-        }
-      ],
-      "duration_ms": 192893,
-      "name": "Los Chucos Suaves (featuring Macha)",
-      "url": "https://open.spotify.com/track/71JT61x0b1jpIdjMG2B7u7"
-    },
-    {
-      "added_at": "2025-05-06 15:20:59",
-      "album": {
-        "name": "Cera Perdida",
-        "url": "https://open.spotify.com/album/4G4lWdQ2QmExgywdumu7Fh"
-      },
-      "artists": [
-        {
-          "name": "Frente Cumbiero",
-          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
-        }
-      ],
-      "duration_ms": 189892,
-      "name": "Jaley Jaley",
-      "url": "https://open.spotify.com/track/5Q2kmykzh6TUFBBqskiHjK"
     },
     {
       "added_at": "2025-05-06 15:20:59",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2025-05-06 15:20:59",
       "album": {
-        "name": "Deixem O Morto Morrer",
-        "url": "https://open.spotify.com/album/5wKkGiZHktujl5sgIUStlK"
-      },
-      "artists": [
-        {
-          "name": "Ana Lua Caiano",
-          "url": "https://open.spotify.com/artist/6TeD6DGSCfviinhl40SvYF"
-        }
-      ],
-      "duration_ms": 169504,
-      "name": "Deixem O Morto Morrer",
-      "url": "https://open.spotify.com/track/2tZdXtAjgCIzgGwSFafmc6"
-    },
-    {
-      "added_at": "2025-05-06 15:20:59",
-      "album": {
         "name": "Junchuch",
         "url": "https://open.spotify.com/album/5RYTRBOAJE7KlDb1cJ0bBY"
       },
@@ -1335,18 +1319,18 @@
     {
       "added_at": "2025-05-06 15:20:59",
       "album": {
-        "name": "East of Any Place (Habibi Funk 025)",
-        "url": "https://open.spotify.com/album/7sTew04rtXKxlXg87MgS6e"
+        "name": "Deixem O Morto Morrer",
+        "url": "https://open.spotify.com/album/5wKkGiZHktujl5sgIUStlK"
       },
       "artists": [
         {
-          "name": "Rog\u00e9r Fakhr",
-          "url": "https://open.spotify.com/artist/6UFqtFCNxhYqsQ1QRF6HRd"
+          "name": "Ana Lua Caiano",
+          "url": "https://open.spotify.com/artist/6TeD6DGSCfviinhl40SvYF"
         }
       ],
-      "duration_ms": 130399,
-      "name": "East Of Any Place",
-      "url": "https://open.spotify.com/track/68M4djLGRDlVPD53Dgiwnz"
+      "duration_ms": 169504,
+      "name": "Deixem O Morto Morrer",
+      "url": "https://open.spotify.com/track/2tZdXtAjgCIzgGwSFafmc6"
     },
     {
       "added_at": "2025-05-06 15:20:59",
@@ -1363,6 +1347,22 @@
       "duration_ms": 373893,
       "name": "Calling England Home",
       "url": "https://open.spotify.com/track/6jd5uWEpV3zdgnR0obsXZ2"
+    },
+    {
+      "added_at": "2025-05-06 15:20:59",
+      "album": {
+        "name": "East of Any Place (Habibi Funk 025)",
+        "url": "https://open.spotify.com/album/7sTew04rtXKxlXg87MgS6e"
+      },
+      "artists": [
+        {
+          "name": "Rog\u00e9r Fakhr",
+          "url": "https://open.spotify.com/artist/6UFqtFCNxhYqsQ1QRF6HRd"
+        }
+      ],
+      "duration_ms": 130399,
+      "name": "East Of Any Place",
+      "url": "https://open.spotify.com/track/68M4djLGRDlVPD53Dgiwnz"
     },
     {
       "added_at": "2025-05-06 15:20:59",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2025-05-06 15:20:59",
       "album": {
-        "name": "Gur\u00fa",
-        "url": "https://open.spotify.com/album/4oLp2nNArfwJ0JsMT3eHMq"
-      },
-      "artists": [
-        {
-          "name": "Pony Bravo",
-          "url": "https://open.spotify.com/artist/2e1wMFU6VpZkcLil2g7MrF"
-        }
-      ],
-      "duration_ms": 218360,
-      "name": "Totomami",
-      "url": "https://open.spotify.com/track/1H5TTRStrhzQW3w0LpqhVU"
-    },
-    {
-      "added_at": "2025-05-06 15:20:59",
-      "album": {
         "name": "M\u00e3o na M\u00e3o",
         "url": "https://open.spotify.com/album/3BYLGQ48u9Gv2Hra4Zl513"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 223063,
       "name": "M\u00e3o na M\u00e3o",
       "url": "https://open.spotify.com/track/1Zv6mhftaA2CRYjiPHZnhB"
+    },
+    {
+      "added_at": "2025-05-06 15:20:59",
+      "album": {
+        "name": "Gur\u00fa",
+        "url": "https://open.spotify.com/album/4oLp2nNArfwJ0JsMT3eHMq"
+      },
+      "artists": [
+        {
+          "name": "Pony Bravo",
+          "url": "https://open.spotify.com/artist/2e1wMFU6VpZkcLil2g7MrF"
+        }
+      ],
+      "duration_ms": 218360,
+      "name": "Totomami",
+      "url": "https://open.spotify.com/track/1H5TTRStrhzQW3w0LpqhVU"
     },
     {
       "added_at": "2025-05-06 15:20:59",

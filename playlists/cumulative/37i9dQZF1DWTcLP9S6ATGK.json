@@ -702,7 +702,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 259354,
       "name": "Bahagiaku - From \"Assalamualaikum Beijing 2: Lost In Ningxia\"",
       "url": "https://open.spotify.com/track/4976OmIyKDbKVqe4PKuIE5"
@@ -2826,7 +2826,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 210579,
       "name": "Hati Yang Luka",
       "url": "https://open.spotify.com/track/4XWGnSW1kPeegCBzL9lq8U"
@@ -4254,7 +4254,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 285037,
       "name": "Lebih Indah Berpisah",
       "url": "https://open.spotify.com/track/6EtXpBUmPm7fyhUGnca7hr"
@@ -4428,6 +4428,28 @@
       "duration_ms": 199764,
       "name": "Luka Yang Kusengaja",
       "url": "https://open.spotify.com/track/5pzndYkzTrj6iyX07dubxn"
+    },
+    {
+      "album": {
+        "name": "Maaf",
+        "url": "https://open.spotify.com/album/62JvN3XSNyBG2UvMKbRXv3"
+      },
+      "artists": [
+        {
+          "name": "Baim",
+          "url": "https://open.spotify.com/artist/1xtClintZXLr9RrzKzwBeM"
+        },
+        {
+          "name": "Pongki Barata",
+          "url": "https://open.spotify.com/artist/4FTaeFBX07JxJ5hIFFvack"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317514,
+      "name": "Maaf",
+      "url": "https://open.spotify.com/track/01eiagOArcPnOEMBYbV4VS"
     },
     {
       "album": {
@@ -4916,6 +4938,28 @@
       "duration_ms": 228125,
       "name": "Mengenal Lebih Jauh",
       "url": "https://open.spotify.com/track/3SnTh7hIYJzB4J6zyJ17OA"
+    },
+    {
+      "album": {
+        "name": "Mengenangmu Secukupnya",
+        "url": "https://open.spotify.com/album/3AUrDhb1RBwtuFwPk1Pgsr"
+      },
+      "artists": [
+        {
+          "name": "Tya Subiakto",
+          "url": "https://open.spotify.com/artist/76gVDaj7ndXjcexm4tTlPo"
+        },
+        {
+          "name": "Alex Kuple",
+          "url": "https://open.spotify.com/artist/1GFIKiUipgbe82QEs0tvg9"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233600,
+      "name": "Mengenangmu Secukupnya",
+      "url": "https://open.spotify.com/track/5NyjphGJt121Dej1JWupPJ"
     },
     {
       "album": {
@@ -8502,6 +8546,24 @@
       "duration_ms": 250690,
       "name": "Terbawa Suasana",
       "url": "https://open.spotify.com/track/2MgcfN4Sp8ougHmasK8EXB"
+    },
+    {
+      "album": {
+        "name": "Tercipta Untukmu",
+        "url": "https://open.spotify.com/album/60S6BVDoaAFJ5wrDBNqgsU"
+      },
+      "artists": [
+        {
+          "name": "NINEBALL",
+          "url": "https://open.spotify.com/artist/1qAwDrmiiBt6JjepLcjXdp"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Tercipta Untukmu",
+      "url": "https://open.spotify.com/track/7y2wNnNXT3NMgJ07DL5TKZ"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [RADAR SG & MY](https://open.spotify.com/playlist/37i9dQZF1DX8tjzQw0If3c)
 
-> Listen to the future\. Cover: karan
+> Listen to the future\. Cover: Dominic Chin
 
 183 songs - 9 hr 57 min
 

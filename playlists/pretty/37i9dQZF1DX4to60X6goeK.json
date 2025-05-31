@@ -1,6 +1,6 @@
 {
   "description": "Go hard or go home. Cover: skantia",
-  "num_followers": 70521,
+  "num_followers": 70534,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,26 @@
   },
   "snapshot_id": "aDjm+wAAAAB7M6Jr149wxGU8uefsYPh5",
   "tracks": [
+    {
+      "added_at": "2025-05-29 23:00:11",
+      "album": {
+        "name": "I've Got Feelings",
+        "url": "https://open.spotify.com/album/1S8uNZtJU3lJojsXXb7jFK"
+      },
+      "artists": [
+        {
+          "name": "Basstripper",
+          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
+        },
+        {
+          "name": "skantia",
+          "url": "https://open.spotify.com/artist/0FZS1HlJfonbMpQGzTrh0M"
+        }
+      ],
+      "duration_ms": 157714,
+      "name": "I've Got Feelings",
+      "url": "https://open.spotify.com/track/63OmWSc19gAlsObR0H8RjK"
+    },
     {
       "added_at": "2025-05-29 23:00:11",
       "album": {
@@ -23,30 +43,6 @@
       "duration_ms": 201847,
       "name": "Feel The Vibration",
       "url": "https://open.spotify.com/track/3dcWKFefG4Otjdb6ykBVcY"
-    },
-    {
-      "added_at": "2025-05-29 23:00:11",
-      "album": {
-        "name": "Liquor & Cigarettes (feat. ArrDee)",
-        "url": "https://open.spotify.com/album/7w1n03aRWJeZw1AVPDHpFC"
-      },
-      "artists": [
-        {
-          "name": "Chase & Status",
-          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
-        },
-        {
-          "name": "Hedex",
-          "url": "https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t"
-        },
-        {
-          "name": "ArrDee",
-          "url": "https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk"
-        }
-      ],
-      "duration_ms": 189257,
-      "name": "Liquor & Cigarettes (feat. ArrDee)",
-      "url": "https://open.spotify.com/track/15BDY6GKFfk02WaoyytP9g"
     },
     {
       "added_at": "2025-05-29 23:00:11",
@@ -75,26 +71,26 @@
     {
       "added_at": "2025-05-29 23:00:11",
       "album": {
-        "name": "Move Your Body (Hedex Remix)",
-        "url": "https://open.spotify.com/album/09nJrAnPgQU8dLEBj1o1lo"
+        "name": "Liquor & Cigarettes (feat. ArrDee)",
+        "url": "https://open.spotify.com/album/7w1n03aRWJeZw1AVPDHpFC"
       },
       "artists": [
         {
-          "name": "\u00d6wnboss",
-          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
-        },
-        {
-          "name": "Sevek",
-          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
         },
         {
           "name": "Hedex",
           "url": "https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t"
+        },
+        {
+          "name": "ArrDee",
+          "url": "https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk"
         }
       ],
-      "duration_ms": 200239,
-      "name": "Move Your Body - Hedex Remix",
-      "url": "https://open.spotify.com/track/6FgthnS6GYgLuELf7uRdDz"
+      "duration_ms": 189257,
+      "name": "Liquor & Cigarettes (feat. ArrDee)",
+      "url": "https://open.spotify.com/track/15BDY6GKFfk02WaoyytP9g"
     },
     {
       "added_at": "2025-05-29 23:00:11",
@@ -119,6 +115,30 @@
     {
       "added_at": "2025-05-29 23:00:11",
       "album": {
+        "name": "Move Your Body (Hedex Remix)",
+        "url": "https://open.spotify.com/album/09nJrAnPgQU8dLEBj1o1lo"
+      },
+      "artists": [
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "Sevek",
+          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
+        },
+        {
+          "name": "Hedex",
+          "url": "https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t"
+        }
+      ],
+      "duration_ms": 200239,
+      "name": "Move Your Body - Hedex Remix",
+      "url": "https://open.spotify.com/track/6FgthnS6GYgLuELf7uRdDz"
+    },
+    {
+      "added_at": "2025-05-29 23:00:11",
+      "album": {
         "name": "Hijack",
         "url": "https://open.spotify.com/album/4Tzxhm1EfOEUu6VelOuS3h"
       },
@@ -135,22 +155,6 @@
       "duration_ms": 155913,
       "name": "Hijack",
       "url": "https://open.spotify.com/track/0GHfI7rdYSibiQTR8D1lTl"
-    },
-    {
-      "added_at": "2025-05-29 23:00:11",
-      "album": {
-        "name": "Don't Stop",
-        "url": "https://open.spotify.com/album/0PPTQ6w442u34twxct76hc"
-      },
-      "artists": [
-        {
-          "name": "MUZZ",
-          "url": "https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg"
-        }
-      ],
-      "duration_ms": 176914,
-      "name": "Don't Stop",
-      "url": "https://open.spotify.com/track/77Dn9E3WFNMzZGq7K1J6rR"
     },
     {
       "added_at": "2025-05-29 23:00:11",
@@ -175,22 +179,18 @@
     {
       "added_at": "2025-05-29 23:00:11",
       "album": {
-        "name": "F*ck Jump Up (feat. B Live)",
-        "url": "https://open.spotify.com/album/1MPpDGXMybp6qXjA41frqh"
+        "name": "Don't Stop",
+        "url": "https://open.spotify.com/album/0PPTQ6w442u34twxct76hc"
       },
       "artists": [
         {
-          "name": "Bou",
-          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
-        },
-        {
-          "name": "B Live",
-          "url": "https://open.spotify.com/artist/5Dyi0c3gAWXi520W10rX1U"
+          "name": "MUZZ",
+          "url": "https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg"
         }
       ],
-      "duration_ms": 224914,
-      "name": "F*ck Jump Up (feat. B Live)",
-      "url": "https://open.spotify.com/track/0XaKIs5sTAhmhUfwsqTKiB"
+      "duration_ms": 176914,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/77Dn9E3WFNMzZGq7K1J6rR"
     },
     {
       "added_at": "2025-05-29 23:00:11",
@@ -211,22 +211,22 @@
     {
       "added_at": "2025-05-29 23:00:11",
       "album": {
-        "name": "Get Outta Here",
-        "url": "https://open.spotify.com/album/21HJSnokIUBrff02ohoMGh"
+        "name": "F*ck Jump Up (feat. B Live)",
+        "url": "https://open.spotify.com/album/1MPpDGXMybp6qXjA41frqh"
       },
       "artists": [
         {
-          "name": "Mozey",
-          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
+          "name": "Bou",
+          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
         },
         {
-          "name": "Basslayerz",
-          "url": "https://open.spotify.com/artist/3jBkpEV3zrHLO6r2iKZeew"
+          "name": "B Live",
+          "url": "https://open.spotify.com/artist/5Dyi0c3gAWXi520W10rX1U"
         }
       ],
-      "duration_ms": 158400,
-      "name": "Get Outta Here",
-      "url": "https://open.spotify.com/track/495Wq1TcHmzEfDOym4BqCr"
+      "duration_ms": 224914,
+      "name": "F*ck Jump Up (feat. B Live)",
+      "url": "https://open.spotify.com/track/0XaKIs5sTAhmhUfwsqTKiB"
     },
     {
       "added_at": "2025-05-29 23:00:11",
@@ -251,6 +251,26 @@
     {
       "added_at": "2025-05-29 23:00:11",
       "album": {
+        "name": "Get Outta Here",
+        "url": "https://open.spotify.com/album/21HJSnokIUBrff02ohoMGh"
+      },
+      "artists": [
+        {
+          "name": "Mozey",
+          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
+        },
+        {
+          "name": "Basslayerz",
+          "url": "https://open.spotify.com/artist/3jBkpEV3zrHLO6r2iKZeew"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "Get Outta Here",
+      "url": "https://open.spotify.com/track/495Wq1TcHmzEfDOym4BqCr"
+    },
+    {
+      "added_at": "2025-05-29 23:00:11",
+      "album": {
         "name": "MHITR (Semi-Automatic) [feat. Eksman]",
         "url": "https://open.spotify.com/album/0mXlKN5XvrL9olOdYSrTio"
       },
@@ -271,26 +291,6 @@
     {
       "added_at": "2025-05-29 23:00:11",
       "album": {
-        "name": "Nan Slapper",
-        "url": "https://open.spotify.com/album/0w3qxx32q76Rmx5UK58bEH"
-      },
-      "artists": [
-        {
-          "name": "Bou",
-          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
-        },
-        {
-          "name": "B Live",
-          "url": "https://open.spotify.com/artist/5Dyi0c3gAWXi520W10rX1U"
-        }
-      ],
-      "duration_ms": 263314,
-      "name": "Nan Slapper",
-      "url": "https://open.spotify.com/track/3119sJaLXEShGT5e8frnMj"
-    },
-    {
-      "added_at": "2025-05-29 23:00:11",
-      "album": {
         "name": "Immortal",
         "url": "https://open.spotify.com/album/4O5lcsCUGhjRHsTtuAn3rX"
       },
@@ -307,6 +307,26 @@
       "duration_ms": 197485,
       "name": "Immortal",
       "url": "https://open.spotify.com/track/65N1APSZgR83n1AP8SNj2v"
+    },
+    {
+      "added_at": "2025-05-29 23:00:11",
+      "album": {
+        "name": "Nan Slapper",
+        "url": "https://open.spotify.com/album/0w3qxx32q76Rmx5UK58bEH"
+      },
+      "artists": [
+        {
+          "name": "Bou",
+          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
+        },
+        {
+          "name": "B Live",
+          "url": "https://open.spotify.com/artist/5Dyi0c3gAWXi520W10rX1U"
+        }
+      ],
+      "duration_ms": 263314,
+      "name": "Nan Slapper",
+      "url": "https://open.spotify.com/track/3119sJaLXEShGT5e8frnMj"
     },
     {
       "added_at": "2025-05-29 23:00:11",
@@ -347,22 +367,6 @@
     {
       "added_at": "2025-05-29 23:00:11",
       "album": {
-        "name": "Chant",
-        "url": "https://open.spotify.com/album/1W9a0pnDZti59LWh8e1Tiu"
-      },
-      "artists": [
-        {
-          "name": "1991",
-          "url": "https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy"
-        }
-      ],
-      "duration_ms": 224775,
-      "name": "Chant",
-      "url": "https://open.spotify.com/track/65SsbtgsqPYv1p4Rq93fC9"
-    },
-    {
-      "added_at": "2025-05-29 23:00:11",
-      "album": {
         "name": "Do U Feel It Now?",
         "url": "https://open.spotify.com/album/7va8M0Y0BPQTDR93pJw5GL"
       },
@@ -375,6 +379,22 @@
       "duration_ms": 231724,
       "name": "Do U Feel It Now?",
       "url": "https://open.spotify.com/track/6y83sQah0y3Zgc6XyHCjma"
+    },
+    {
+      "added_at": "2025-05-29 23:00:11",
+      "album": {
+        "name": "Chant",
+        "url": "https://open.spotify.com/album/1W9a0pnDZti59LWh8e1Tiu"
+      },
+      "artists": [
+        {
+          "name": "1991",
+          "url": "https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy"
+        }
+      ],
+      "duration_ms": 224775,
+      "name": "Chant",
+      "url": "https://open.spotify.com/track/65SsbtgsqPYv1p4Rq93fC9"
     },
     {
       "added_at": "2025-05-29 23:00:11",
@@ -395,26 +415,6 @@
       "duration_ms": 135085,
       "name": "Run (Part 1)",
       "url": "https://open.spotify.com/track/4YWZse32ILPANRnB9EVyIm"
-    },
-    {
-      "added_at": "2025-05-29 23:00:11",
-      "album": {
-        "name": "Outlaw",
-        "url": "https://open.spotify.com/album/1CmpfvkAdZF2M3X25bwsWQ"
-      },
-      "artists": [
-        {
-          "name": "Flowidus",
-          "url": "https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC"
-        },
-        {
-          "name": "Frisco",
-          "url": "https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw"
-        }
-      ],
-      "duration_ms": 177136,
-      "name": "Outlaw",
-      "url": "https://open.spotify.com/track/1dgTcXVMLvp0aeiBFPtW9a"
     },
     {
       "added_at": "2025-05-29 23:00:11",
@@ -443,6 +443,26 @@
       "duration_ms": 198857,
       "name": "Yapa Yapa (Shut It Pls) - Serum Remix",
       "url": "https://open.spotify.com/track/2eUomHlhqjWsSEJiYS9dJk"
+    },
+    {
+      "added_at": "2025-05-29 23:00:11",
+      "album": {
+        "name": "Outlaw",
+        "url": "https://open.spotify.com/album/1CmpfvkAdZF2M3X25bwsWQ"
+      },
+      "artists": [
+        {
+          "name": "Flowidus",
+          "url": "https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC"
+        },
+        {
+          "name": "Frisco",
+          "url": "https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw"
+        }
+      ],
+      "duration_ms": 177136,
+      "name": "Outlaw",
+      "url": "https://open.spotify.com/track/1dgTcXVMLvp0aeiBFPtW9a"
     },
     {
       "added_at": "2025-05-29 23:00:11",
@@ -691,22 +711,22 @@
     {
       "added_at": "2025-05-29 23:00:11",
       "album": {
-        "name": "Come Around",
-        "url": "https://open.spotify.com/album/2B81YZsWzPSLdgzSR3gF8O"
+        "name": "PURPOSE",
+        "url": "https://open.spotify.com/album/0gXmfiCDIV0DRnHakUxXjU"
       },
       "artists": [
         {
-          "name": "Subsonic",
-          "url": "https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j"
+          "name": "Blooom",
+          "url": "https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS"
         },
         {
-          "name": "Flowidus",
-          "url": "https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC"
+          "name": "Maksim MC",
+          "url": "https://open.spotify.com/artist/6iwQ21ctUhnKozPAQx6zyC"
         }
       ],
-      "duration_ms": 228706,
-      "name": "Come Around",
-      "url": "https://open.spotify.com/track/2EK2hR0X1XYrPnfLCgCIXl"
+      "duration_ms": 167314,
+      "name": "PURPOSE",
+      "url": "https://open.spotify.com/track/35mele207P8xoKXOsTh52L"
     },
     {
       "added_at": "2025-05-29 23:00:11",
@@ -731,6 +751,26 @@
     {
       "added_at": "2025-05-29 23:00:11",
       "album": {
+        "name": "Come Around",
+        "url": "https://open.spotify.com/album/2B81YZsWzPSLdgzSR3gF8O"
+      },
+      "artists": [
+        {
+          "name": "Subsonic",
+          "url": "https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j"
+        },
+        {
+          "name": "Flowidus",
+          "url": "https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC"
+        }
+      ],
+      "duration_ms": 228706,
+      "name": "Come Around",
+      "url": "https://open.spotify.com/track/2EK2hR0X1XYrPnfLCgCIXl"
+    },
+    {
+      "added_at": "2025-05-29 23:00:11",
+      "album": {
         "name": "Ghosting Your Love",
         "url": "https://open.spotify.com/album/0vGtSVO4QjFAOU0ojOYsJD"
       },
@@ -743,26 +783,6 @@
       "duration_ms": 199728,
       "name": "Ghosting Your Love",
       "url": "https://open.spotify.com/track/08zuBTzQbwfmpLAfuEIV6R"
-    },
-    {
-      "added_at": "2025-05-29 23:00:11",
-      "album": {
-        "name": "PURPOSE",
-        "url": "https://open.spotify.com/album/0gXmfiCDIV0DRnHakUxXjU"
-      },
-      "artists": [
-        {
-          "name": "Blooom",
-          "url": "https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS"
-        },
-        {
-          "name": "Maksim MC",
-          "url": "https://open.spotify.com/artist/6iwQ21ctUhnKozPAQx6zyC"
-        }
-      ],
-      "duration_ms": 167314,
-      "name": "PURPOSE",
-      "url": "https://open.spotify.com/track/35mele207P8xoKXOsTh52L"
     },
     {
       "added_at": "2025-05-29 23:00:11",
@@ -807,22 +827,6 @@
     {
       "added_at": "2025-05-29 23:00:11",
       "album": {
-        "name": "There In 10",
-        "url": "https://open.spotify.com/album/5LMpeaTYk1hxd4lTFd0lEm"
-      },
-      "artists": [
-        {
-          "name": "A.M.C",
-          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
-        }
-      ],
-      "duration_ms": 246896,
-      "name": "There In 10",
-      "url": "https://open.spotify.com/track/37I6Fw5ZYnzfAXPBwITT3t"
-    },
-    {
-      "added_at": "2025-05-29 23:00:11",
-      "album": {
         "name": "Bad Boy Horns",
         "url": "https://open.spotify.com/album/3W8GgxqEIZyiE4sOdGbCCt"
       },
@@ -847,6 +851,22 @@
     {
       "added_at": "2025-05-29 23:00:11",
       "album": {
+        "name": "There In 10",
+        "url": "https://open.spotify.com/album/5LMpeaTYk1hxd4lTFd0lEm"
+      },
+      "artists": [
+        {
+          "name": "A.M.C",
+          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
+        }
+      ],
+      "duration_ms": 246896,
+      "name": "There In 10",
+      "url": "https://open.spotify.com/track/37I6Fw5ZYnzfAXPBwITT3t"
+    },
+    {
+      "added_at": "2025-05-29 23:00:11",
+      "album": {
         "name": "Hazmat / Deserted",
         "url": "https://open.spotify.com/album/6RodXXydXIJ7ExfVqmhsB6"
       },
@@ -859,26 +879,6 @@
       "duration_ms": 201517,
       "name": "Deserted",
       "url": "https://open.spotify.com/track/6ztA5JezwcOt3SkGYqAE96"
-    },
-    {
-      "added_at": "2025-05-29 23:00:11",
-      "album": {
-        "name": "Dopamine Hits",
-        "url": "https://open.spotify.com/album/0repDZaNnjgoPqa38JDjST"
-      },
-      "artists": [
-        {
-          "name": "Mefjus",
-          "url": "https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj"
-        },
-        {
-          "name": "Maksim MC",
-          "url": "https://open.spotify.com/artist/6iwQ21ctUhnKozPAQx6zyC"
-        }
-      ],
-      "duration_ms": 189767,
-      "name": "Dopamine Hits",
-      "url": "https://open.spotify.com/track/2QNhQiUiQcqjqv1AXYDCBZ"
     },
     {
       "added_at": "2025-05-29 23:00:11",
@@ -903,18 +903,22 @@
     {
       "added_at": "2025-05-29 23:00:11",
       "album": {
-        "name": "X12",
-        "url": "https://open.spotify.com/album/4f1MB3TwIBkzUixeNncZIw"
+        "name": "Dopamine Hits",
+        "url": "https://open.spotify.com/album/0repDZaNnjgoPqa38JDjST"
       },
       "artists": [
         {
-          "name": "A.M.C",
-          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
+          "name": "Mefjus",
+          "url": "https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj"
+        },
+        {
+          "name": "Maksim MC",
+          "url": "https://open.spotify.com/artist/6iwQ21ctUhnKozPAQx6zyC"
         }
       ],
-      "duration_ms": 180689,
-      "name": "Liftoff",
-      "url": "https://open.spotify.com/track/4yI74bdkCfRmhr3BzMTLwU"
+      "duration_ms": 189767,
+      "name": "Dopamine Hits",
+      "url": "https://open.spotify.com/track/2QNhQiUiQcqjqv1AXYDCBZ"
     },
     {
       "added_at": "2025-05-29 23:00:11",
@@ -935,6 +939,22 @@
       "duration_ms": 128279,
       "name": "Mosh Pit",
       "url": "https://open.spotify.com/track/7ub3gsFkHrnkS38HOTyATJ"
+    },
+    {
+      "added_at": "2025-05-29 23:00:11",
+      "album": {
+        "name": "X12",
+        "url": "https://open.spotify.com/album/4f1MB3TwIBkzUixeNncZIw"
+      },
+      "artists": [
+        {
+          "name": "A.M.C",
+          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
+        }
+      ],
+      "duration_ms": 180689,
+      "name": "Liftoff",
+      "url": "https://open.spotify.com/track/4yI74bdkCfRmhr3BzMTLwU"
     },
     {
       "added_at": "2025-05-29 23:00:11",
@@ -1079,30 +1099,6 @@
       "duration_ms": 268800,
       "name": "Behemoth",
       "url": "https://open.spotify.com/track/6ZVgnqRsYGRwSYrdmUGkF8"
-    },
-    {
-      "added_at": "2025-05-29 23:00:11",
-      "album": {
-        "name": "Bomb Squad (Bou Remix)",
-        "url": "https://open.spotify.com/album/1WLCIFIAjIJ6klq4kHGuWk"
-      },
-      "artists": [
-        {
-          "name": "Dominator",
-          "url": "https://open.spotify.com/artist/4ma9HJkRMW53TV4aRQy6Mn"
-        },
-        {
-          "name": "Turno",
-          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
-        },
-        {
-          "name": "Bou",
-          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
-        }
-      ],
-      "duration_ms": 288052,
-      "name": "Bomb Squad - Bou Remix",
-      "url": "https://open.spotify.com/track/6jGU17l4TnPAB3I97tCdD3"
     }
   ],
   "unique_name": "Jump Up!",

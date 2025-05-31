@@ -4,25 +4,24 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 
 > This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday 😎
 
-[Record Union](https://open.spotify.com/user/recordunion) - 2,503 likes - 16 songs - 54 min 21 sec
+[Record Union](https://open.spotify.com/user/recordunion) - 2,504 likes - 15 songs - 52 min 29 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Soulmate](https://open.spotify.com/track/37RwpBlgV6lbrbZUvywOwZ) | [Rachid Kasmi](https://open.spotify.com/artist/36wD11p3VIwHH25Glcn2ut) | [Soulmate](https://open.spotify.com/album/6YHlx3fvi7wCXrpzQx862c) | 3:30 |
-| 2 | [Plagiera](https://open.spotify.com/track/2z7fYtIWvWW2Ib7e1ViSOq) | [Blondini](https://open.spotify.com/artist/0l5Z38yckkLZE55rEUZtVK), [Strög1](https://open.spotify.com/artist/4b86UHGZJ59ZjOZWZeT9zF), [Gasmus](https://open.spotify.com/artist/5ZoKlfcVlK5XjvgQ9upcn5) | [Plagiera](https://open.spotify.com/album/4l9hZexUPm7DXzuhvGv4Ro) | 1:42 |
-| 3 | [when the time feels right](https://open.spotify.com/track/0TUHBBb4FyqLQuSFU0JAK2) | [Feyesal](https://open.spotify.com/artist/6frffJSfCnyExIFDQEHnyf) | [when the time feels right](https://open.spotify.com/album/4PU5vigCnheFIr4LO1dFQj) | 2:03 |
-| 4 | [Light As A Feather](https://open.spotify.com/track/5ks67flF3YxjY9in9vWbzg) | [Planet Boelex](https://open.spotify.com/artist/608KQSfwArpLzk9jFzfjeg), [Rumirr](https://open.spotify.com/artist/3u2UkrtOieDcDWxLsGUz2l) | [Light As A Feather](https://open.spotify.com/album/1sJ43ULVK5XmY3rxncSDlJ) | 4:33 |
-| 5 | [The Rot Beneath](https://open.spotify.com/track/0YmfIbsibGgF6oTTMuHazx) | [Grand Cadaver](https://open.spotify.com/artist/6K520oxrZlHZC5MSALzFZC) | [The Rot Beneath](https://open.spotify.com/album/3iYVPlT4fLlfglFs6zu3G4) | 3:26 |
-| 6 | [Yellow Fleet](https://open.spotify.com/track/6v95zFv05J75HA2UvIiBrF) | [The Night Parrots](https://open.spotify.com/artist/1F9tpDnuGk3WaYe4AQyILo), [Ella Hooper](https://open.spotify.com/artist/0Fkkpc8GhsqoaSNoWC8XWc) | [Yellow Fleet](https://open.spotify.com/album/4n9hLdevsaey8rFSkcVFYu) | 4:04 |
-| 7 | [Sorg och saknad](https://open.spotify.com/track/6iMj4Bt98IMojpCYoYXvrf) | [Valentina Orioli](https://open.spotify.com/artist/5ggane1JKezyai0SK21HPm) | [Sorg och saknad](https://open.spotify.com/album/7G3ydMQI5s4n6jdlTrm3iT) | 4:12 |
-| 8 | [Maybe It's Time](https://open.spotify.com/track/0W8zQQJb8i7EZ6HUlJ9qlv) | [Oliver Bentley](https://open.spotify.com/artist/7pHfsCiXrweMrhWcW3jxoM) | [Maybe It's Time](https://open.spotify.com/album/5UcGWbRSw4nh3WMhlHzf9u) | 3:27 |
-| 9 | [Choke On Me](https://open.spotify.com/track/4bDNHYtaBUguuiAM2BT21p) | [DARLA](https://open.spotify.com/artist/1NVyF5orXTXOXkOJDE5VPi) | [Make it hot](https://open.spotify.com/album/0UEeaA04Cdk5TuankmVBBL) | 2:43 |
-| 10 | [Tallgrass](https://open.spotify.com/track/46ZOvmOTk8isRmvHW6JAmU) | [Beth Watts Nelson](https://open.spotify.com/artist/4BXyJ3PYN5qcZPKnVx0idg), [Betse Ellis](https://open.spotify.com/artist/6bi2p6CFT1Lz2dTDyCP9QG) | [Tallgrass](https://open.spotify.com/album/7J88A0yEePEFqTaTcWuibu) | 3:56 |
-| 11 | [Devilclaimed](https://open.spotify.com/track/0GrlYXEDtQhu8HaovAAWT5) | [Tryin' Within](https://open.spotify.com/artist/7EjB3LoSndwIDrVYzAttUE) | [Devilclaimed](https://open.spotify.com/album/53Mfr9rDC6hGG2pn3qgMWL) | 4:15 |
-| 12 | [skindeep](https://open.spotify.com/track/2yjQy9NgC3L8lduARFB9lt) | [D\. Inver](https://open.spotify.com/artist/1tXn1rBYhxJNuMFUw5Aq61) | [skindeep](https://open.spotify.com/album/7zvHAly1LXVaPd2gXx7P30) | 3:14 |
-| 13 | [Raha Pilas Rakkauden](https://open.spotify.com/track/0HlDYSRea7VLCXc2X5Zvi9) | [Antique](https://open.spotify.com/artist/7zeop1CZx7LkEKTrhiEVjY) | [Raha Pilas Rakkauden](https://open.spotify.com/album/1BpDmsvmi6QBQDHcoxlqiA) | 2:37 |
-| 14 | [Tusen Versioner Om](https://open.spotify.com/track/3UQAcHM5qEnxQ8LQPDzTGG) | [Tracy Irve](https://open.spotify.com/artist/47eYIpNYpouTNbJnYz7cdb) | [Tusen Versioner Om](https://open.spotify.com/album/7ov9oel5hsuGtXABowYtWv) | 3:08 |
-| 15 | [Extrapris](https://open.spotify.com/track/6LQ0KHtHGap2TCVYAqDbXh) | [Aldri Strax](https://open.spotify.com/artist/44lf9AuvGc99uQqP7Kilmg) | [Extrapris](https://open.spotify.com/album/1uFu8YuSsPfhln4Qo0PUFn) | 3:44 |
-| 16 | [Rebound](https://open.spotify.com/track/1sio2eKLApecN82tz57xVa) | [Too Hard To Spell](https://open.spotify.com/artist/2EQcck7DUz4tBSp2zRKC55), [Impulse Live](https://open.spotify.com/artist/3ya89iitoloda0ReL0JLSM) | [Rebound](https://open.spotify.com/album/1IdMG51AErkDEN44mjnWVy) | 3:38 |
+| 1 | [Creeper](https://open.spotify.com/track/2N7NgNdsEy0605JoSUVQwg) | [heavy wild](https://open.spotify.com/artist/6dxRf5XUwYZ12ecawKxuJ0) | [Death Dreams](https://open.spotify.com/album/0halqVdErEBsSxrVir07Ab) | 3:16 |
+| 2 | [Me lennettiin kohti aamua](https://open.spotify.com/track/16oUMrsZTOpmKKylMMwT6D) | [Flippipuisto](https://open.spotify.com/artist/3IWc5MkkGRWeLMZercb9Q1) | [Me lennettiin kohti aamua](https://open.spotify.com/album/631JYwJ828LQYMeLuknpyH) | 3:08 |
+| 3 | [The Flow of Time And Age](https://open.spotify.com/track/22XFE3xEbsACGFZXpgERnT) | [Craneium](https://open.spotify.com/artist/7fRtbrVBXuRjfpdyEiOBRK) | [The Flow of Time And Age](https://open.spotify.com/album/01PogVp1gRZ6VdFsvTTR0u) | 4:43 |
+| 4 | [DERELICT](https://open.spotify.com/track/4qRDcniLINPLyMl73lPQl1) | [IDLEYES](https://open.spotify.com/artist/1Zzx3Sl3sPUVtKW9iHCe1k) | [WHORESHIP](https://open.spotify.com/album/0YjV9073hOIYgxZ7I0hhcr) | 4:15 |
+| 5 | [Ser nånting större](https://open.spotify.com/track/3hVL9uxgsW0hAQbPwFdWno) | [Jeanette Åkerlund](https://open.spotify.com/artist/0DWMclpbqAwwZqNoIkJaqY) | [Ser nånting större](https://open.spotify.com/album/6THDv7PcSZMM46p7lAImdv) | 4:11 |
+| 6 | [We Are Rock'N'Roll](https://open.spotify.com/track/7E7FjKtQua64m2VBwAxAiL) | [COBRA CULT](https://open.spotify.com/artist/77IxDTDqG6nzVeemvWGpjG) | [We Are Rock'N'Roll](https://open.spotify.com/album/1pHcuOnXs4wcH0iOyFv35u) | 3:45 |
+| 7 | [Rampa \(Ramp It Up\)](https://open.spotify.com/track/5EGhHhWJF2l3aBeGyuLtmg) | [Isora](https://open.spotify.com/artist/40EcSPTTFtco37f3Ys9kCH), [Hana Beshie](https://open.spotify.com/artist/0gb8IJ7o9cjg8ufGaSYY1Y) | [LUMINA](https://open.spotify.com/album/6Ud4WOYmJ0ZrUbRBhQnz7w) | 2:47 |
+| 8 | [Waiting for you](https://open.spotify.com/track/6y9INjYLAvk7WpacFJuN39) | [Yeah Oh!](https://open.spotify.com/artist/3aiKvxaLxWXN7uOaA4nxmp) | [Waiting for you](https://open.spotify.com/album/32pgN3w87nxwnEhrUQoVBn) | 2:30 |
+| 9 | [Trälhavet](https://open.spotify.com/track/6iKGWZYH3j9CWwGZWkWhaU) | [Dark Sven](https://open.spotify.com/artist/5rXtti22zmqOaYMCsTgbgv), [Åke Nyke](https://open.spotify.com/artist/25YL9ZHgYeaqN87fAobuK7) | [Vi ville se ett norrsken](https://open.spotify.com/album/5wdjFLazua8d2fMpYUCYvp) | 3:50 |
+| 10 | [Dance To The Rhythm](https://open.spotify.com/track/2bEyquRDBJ9Z8e780q2eXk) | [Chris Ward](https://open.spotify.com/artist/6IEciYFAtFyDFIghn29gTv), [Trishauna](https://open.spotify.com/artist/7zwmREaO4J0MzYXn5sKAvU) | [Dance To The Rhythm](https://open.spotify.com/album/42QC6WdHRJawpFWmobTtAs) | 3:01 |
+| 11 | [Nån sån som du](https://open.spotify.com/track/1OCEjLr548g1KIrRaXCXxf) | [Magnus Almgren](https://open.spotify.com/artist/3iZO3QjCSlfkvP7NufkqX2) | [Nån sån som du](https://open.spotify.com/album/5hv5bMqwYjwjRHAYWnMbzQ) | 3:50 |
+| 12 | [Satisfied](https://open.spotify.com/track/4UGbAqtwPXxpgBiNGozDQr) | [Occupation:Baby](https://open.spotify.com/artist/64fWwXwteuqwLPnNw1q9a4) | [Satisfied](https://open.spotify.com/album/1EzNiNmbrFm05KjhwBxVsn) | 3:18 |
+| 13 | [Underbart är kort](https://open.spotify.com/track/2zi8F6xT6AYbllVgAsQ56Z) | [Josefine Wassler](https://open.spotify.com/artist/5FRDbDNwQ1p1GqXt9QOfUx) | [Till dig](https://open.spotify.com/album/62GcsjM2lUWsDsmLwBYXPf) | 2:42 |
+| 14 | [Låt det va så här i himmelen](https://open.spotify.com/track/6fHzqhPbyX2aaS2cyXJ8U4) | [Markus Ernerot](https://open.spotify.com/artist/0hSSczUq3cqlkWJuqQx2bX) | [Låt det va så här i himmelen](https://open.spotify.com/album/1UEYrlzfaKPw28dQ59FQB5) | 4:13 |
+| 15 | [Happy end](https://open.spotify.com/track/0a0VYQkNOyqF9TM6Bo1nzM) | [Flow Up!](https://open.spotify.com/artist/0xtJPlMJMYlb9IoPdhqrky) | [Happy end](https://open.spotify.com/album/3R4GHZoom4zyV6Njzb7SyH) | 2:53 |
 
-Snapshot ID: `AAAEKKfLqT7lfBcB1x3tyVpTTL7TqAWX`
+Snapshot ID: `AAAEKh51k/OvkhIxpexf8aSqY5MOfm6N`

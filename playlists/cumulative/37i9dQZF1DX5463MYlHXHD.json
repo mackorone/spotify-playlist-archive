@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-28",
-  "description": "Vieja escuela y de ahora \ud83d\udcf8 Los Turros.",
+  "description": "Vieja escuela y de ahora \ud83d\udcf8 El Polaco & ECKO.",
   "name": "Cumbia villera",
   "tracks": [
     {
@@ -3728,7 +3728,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 157080,
       "name": "Mata",
       "url": "https://open.spotify.com/track/6h8rrNrOCdBbz37IhcvApT"
@@ -4231,6 +4231,28 @@
     },
     {
       "album": {
+        "name": "No Me Vuelvo a Enamorar",
+        "url": "https://open.spotify.com/album/1QBVHmd2fBcOdwmNnFyPZ6"
+      },
+      "artists": [
+        {
+          "name": "Repiola",
+          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
+        },
+        {
+          "name": "Suena Cabr\u00f3n",
+          "url": "https://open.spotify.com/artist/7tiSMmDMypYbYiCG2nxJ7Z"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "No Me Vuelvo a Enamorar",
+      "url": "https://open.spotify.com/track/0cAIz4TDTuYuAfpwowTjcP"
+    },
+    {
+      "album": {
         "name": "No Me Vuelvo a Enamorar (Remix)",
         "url": "https://open.spotify.com/album/76XGHb95o1OiR8mBqLKnD9"
       },
@@ -4424,7 +4446,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 266475,
       "name": "Padre Ejemplar",
       "url": "https://open.spotify.com/track/5qqe7ydFECpDN17CDcMSOw"
@@ -6764,6 +6786,28 @@
       "duration_ms": 125600,
       "name": "YA FUE",
       "url": "https://open.spotify.com/track/1Vd2kfgMMq7hsd1tPQYpl7"
+    },
+    {
+      "album": {
+        "name": "Ya No Se Enamora",
+        "url": "https://open.spotify.com/album/15ri7uHGSxGVcLPv1zqB99"
+      },
+      "artists": [
+        {
+          "name": "El Polaco",
+          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+        },
+        {
+          "name": "ECKO",
+          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197642,
+      "name": "Ya No Se Enamora",
+      "url": "https://open.spotify.com/track/1gzKgjSbfgQIcpbdV6UaCK"
     },
     {
       "album": {

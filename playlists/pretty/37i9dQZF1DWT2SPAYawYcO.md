@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from Lorde, Miley Cyrus, Dean Lewis, Balu Brigada, Young Franco + more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 409,441 likes - 93 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 409,970 likes - 93 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 14 | [Sunset Psalm](https://open.spotify.com/track/5wnKqpNO2h39M44TMQk3cC) | [Brad Cox](https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM) | [Sunset Psalm](https://open.spotify.com/album/6kB1iLsUqM30kw5d8Fgg31) | 4:09 |
 | 15 | [Save The Cat](https://open.spotify.com/track/78RMLi8fjTWLU72Rf2hn1W) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B) | [Save The Cat](https://open.spotify.com/album/38LrCfC06ZgBAQfHjeA7AU) | 2:52 |
 | 16 | [Take me back](https://open.spotify.com/track/3CkBVxtfny3epwPhQfw9t8) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Take me back](https://open.spotify.com/album/2lNf4UcthxACQ1Ks8BUw98) | 3:45 |
-| 17 | [MONEY CALLIN](https://open.spotify.com/track/5ndrJDMYHj2ZNO5M3cnvCm) | [MELODOWNZ](https://open.spotify.com/artist/0tkEKBrgdMZXjZylYRoN7H), [Halfsing](https://open.spotify.com/artist/2N9LXayJ8gJPbgpehVKMAZ) | [MONEY CALLIN](https://open.spotify.com/album/4F48UjmhCkQ7oQGmhtDquo) | 2:51 |
+| 17 | [MONEY CALLIN \(feat\. Halfsing\)](https://open.spotify.com/track/5ndrJDMYHj2ZNO5M3cnvCm) | [MELODOWNZ](https://open.spotify.com/artist/0tkEKBrgdMZXjZylYRoN7H), [Halfsing](https://open.spotify.com/artist/2N9LXayJ8gJPbgpehVKMAZ) | [MONEY CALLIN \(feat\. Halfsing\)](https://open.spotify.com/album/4F48UjmhCkQ7oQGmhtDquo) | 2:51 |
 | 18 | [Maybe I'm Just a Freak](https://open.spotify.com/track/3g2Fe6UmB8PJ06gchjavHK) | [The Rions](https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y) | [Maybe I’m Just a Freak](https://open.spotify.com/album/1xeKCdfejurpPoQsi20TuS) | 4:12 |
 | 19 | [Hemingway](https://open.spotify.com/track/1BBVsOxgQ2soUs87ypiMZH) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Hemingway](https://open.spotify.com/album/3JKMx86ymxWRpnBhmbBAus) | 3:16 |
 | 20 | [Cops & Robbers](https://open.spotify.com/track/5pa2ZyJ3dIEmxRDW74msQi) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Cops & Robbers](https://open.spotify.com/album/6ISsvqjVEeShpIhZir687U) | 2:41 |
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 24 | [Blister](https://open.spotify.com/track/3InSQjWvh4fKQx1BBiA4Nl) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Blister](https://open.spotify.com/album/1j6EOOgb7OtwaTPu1aA0gi) | 2:59 |
 | 25 | [3rd Time Lucky](https://open.spotify.com/track/1sjLRTex9n9UyOobQSnHTw) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [3rd Time Lucky](https://open.spotify.com/album/2DMa5MfMxs8kdAzwcYA540) | 2:40 |
 | 26 | [One Sugar](https://open.spotify.com/track/0i3h0cgoRs6klKV7jXEPty) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh) | [One Sugar](https://open.spotify.com/album/0FMYfjQBq1OL899N3tphBc) | 2:22 |
-| 27 | [Slow Burner](https://open.spotify.com/track/1Siu5Bnrt90vtjUddXeTUg) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [Original Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Slow Burner](https://open.spotify.com/album/6j4ffFjnsHqYexblnGJwdB) | 3:32 |
+| 27 | [Slow Burner \(feat\. Original Koffee\)](https://open.spotify.com/track/1Siu5Bnrt90vtjUddXeTUg) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [Original Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Slow Burner \(feat\. Original Koffee\)](https://open.spotify.com/album/6j4ffFjnsHqYexblnGJwdB) | 3:32 |
 | 28 | [I LUV ALL THE OPPS](https://open.spotify.com/track/0BVj9ApUY6kyEVX4c6RQQh) | [AB](https://open.spotify.com/artist/6xzx0OH7BkbmJaBbCCzuMq), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [I LUV ALL THE OPPS](https://open.spotify.com/album/0vxBC5UAwJ7vnjmNXFwBxP) | 3:07 |
 | 29 | [In The Middle](https://open.spotify.com/track/3nmvNpobyMN4Ggw7tYcqSF) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI), [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Hope We Have Fun](https://open.spotify.com/album/3r5ik8QohUa56zacmEyAdb) | 2:59 |
 | 30 | [That's What You Do For Love](https://open.spotify.com/track/1Vt0rDoC3lqKOqdQtexxyo) | [Jimmy Barnes](https://open.spotify.com/artist/1k5aZWIOUbUfKcnMxtEivJ) | [That's What You Do For Love](https://open.spotify.com/album/1eJIgChtTpPU9PruenGRNo) | 5:24 |

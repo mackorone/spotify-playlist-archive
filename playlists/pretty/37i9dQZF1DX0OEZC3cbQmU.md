@@ -2,21 +2,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0OEZC3cbQmU.md) - [plain]
 
 ### [Sucessos Gospel](https://open.spotify.com/playlist/37i9dQZF1DX0OEZC3cbQmU)
 
-> A palavra do Senhor na voz de grandes adoradores do Brasil\. Foto: Julliany Souza
+> A palavra do Senhor na voz de grandes adoradores do Brasil\. Foto: Israel Salazar
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,265,679 likes - 75 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,265,848 likes - 75 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Quem É Esse?](https://open.spotify.com/track/7JtJjh9WfxUOpjFhurxVRW) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Quem É Esse?](https://open.spotify.com/album/4ysHV53D57phSxmT72HZXx) | 7:48 |
-| 2 | [Eu Te Entrego o Meu Dia](https://open.spotify.com/track/4bridq05nWYVVn9tGkBHeU) | [Israel Salazar](https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC) | [Eu Te Entrego o Meu Dia](https://open.spotify.com/album/4BHgauOFV4ubkrynteDF3p) | 3:19 |
-| 3 | [Eu Tenho Você \(Ao Vivo\)](https://open.spotify.com/track/2FG6DJRP9URLUHWn8GDYex) | [Incendiários](https://open.spotify.com/artist/2jEIa3BLL1ZFailXlZGm0x), [Marcelo Markes](https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2) | [Eu Tenho Você \(Ao Vivo\)](https://open.spotify.com/album/28YHRkBPCjYKUx3Yn7G00T) | 7:51 |
+| 1 | [Eu Te Entrego o Meu Dia](https://open.spotify.com/track/4bridq05nWYVVn9tGkBHeU) | [Israel Salazar](https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC) | [Eu Te Entrego o Meu Dia](https://open.spotify.com/album/4BHgauOFV4ubkrynteDF3p) | 3:19 |
+| 2 | [Eu Tenho Você \(Ao Vivo\)](https://open.spotify.com/track/2FG6DJRP9URLUHWn8GDYex) | [Incendiários](https://open.spotify.com/artist/2jEIa3BLL1ZFailXlZGm0x), [Marcelo Markes](https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2) | [Eu Tenho Você \(Ao Vivo\)](https://open.spotify.com/album/28YHRkBPCjYKUx3Yn7G00T) | 7:51 |
+| 3 | [Quem É Esse?](https://open.spotify.com/track/7JtJjh9WfxUOpjFhurxVRW) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Quem É Esse?](https://open.spotify.com/album/4ysHV53D57phSxmT72HZXx) | 7:48 |
 | 4 | [João 20 + pra Sempre \- Ao Vivo](https://open.spotify.com/track/1S9fKs0sAdZPlL8ViOARnS) | [Vitor Santana](https://open.spotify.com/artist/4XWwdp5t6DPloruDrgyRmZ) | [João 20 + pra Sempre \- Ao Vivo](https://open.spotify.com/album/3adHglUeEVq6ETuiGOwz3w) | 4:49 |
-| 5 | [Avenida do Arrependimento](https://open.spotify.com/track/6gFSzsRAZOG9tRPcnWwkdT) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1), [Jorge](https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ) | [Avenida do Arrependimento](https://open.spotify.com/album/2ttxcuefm67xcXkS8JZLzs) | 6:30 |
-| 6 | [Escape / Nunca Pare de Lutar](https://open.spotify.com/track/2EDMmkfZgZQ8OyjuQNmhu9) | [Jadson Moreno](https://open.spotify.com/artist/0al9OSYU79AxFJ1fVg8b23) | [Escape / Nunca Pare de Lutar](https://open.spotify.com/album/4TbHIqNcUNuIYN9Btkcc4q) | 9:25 |
-| 7 | [O Fogo Arderá \- Ao Vivo](https://open.spotify.com/track/6ATNNv8tZF61fa7VwDH89j) | [Alexsander Lucio](https://open.spotify.com/artist/2xX3xodC7zA5u2xygCWzuP) | [O Fogo Arderá \(Ao Vivo\)](https://open.spotify.com/album/4rd6xVSZfkwaltIFTmZWNe) | 10:24 |
-| 8 | [Faz Morada](https://open.spotify.com/track/0br0GQIyOtenBfD2UzHYw9) | [Mc João Igor](https://open.spotify.com/artist/6MXfTn1naOMaOEWxZjXGuO), [Jean braguioly](https://open.spotify.com/artist/3T3n3sfgiPDU9PZpnlKw1l) | [Faz Morada](https://open.spotify.com/album/0SBPdda9oATGKKjMjhgMEa) | 4:48 |
-| 9 | [Santo Pra Sempre \- Ao Vivo no Mineirão](https://open.spotify.com/track/4fkunTJ8AogdrUHzEtzjCY) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Santo Pra Sempre \(Ao Vivo no Mineirão\)](https://open.spotify.com/album/3hji0VKEnN3DUK2Zydyr0i) | 6:49 |
+| 5 | [Escape / Nunca Pare de Lutar](https://open.spotify.com/track/2EDMmkfZgZQ8OyjuQNmhu9) | [Jadson Moreno](https://open.spotify.com/artist/0al9OSYU79AxFJ1fVg8b23) | [Escape / Nunca Pare de Lutar](https://open.spotify.com/album/4TbHIqNcUNuIYN9Btkcc4q) | 9:25 |
+| 6 | [O Fogo Arderá \- Ao Vivo](https://open.spotify.com/track/6ATNNv8tZF61fa7VwDH89j) | [Alexsander Lucio](https://open.spotify.com/artist/2xX3xodC7zA5u2xygCWzuP) | [O Fogo Arderá \(Ao Vivo\)](https://open.spotify.com/album/4rd6xVSZfkwaltIFTmZWNe) | 10:24 |
+| 7 | [Faz Morada](https://open.spotify.com/track/0br0GQIyOtenBfD2UzHYw9) | [Mc João Igor](https://open.spotify.com/artist/6MXfTn1naOMaOEWxZjXGuO), [Jean braguioly](https://open.spotify.com/artist/3T3n3sfgiPDU9PZpnlKw1l) | [Faz Morada](https://open.spotify.com/album/0SBPdda9oATGKKjMjhgMEa) | 4:48 |
+| 8 | [Santo Pra Sempre \- Ao Vivo no Mineirão](https://open.spotify.com/track/4fkunTJ8AogdrUHzEtzjCY) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Santo Pra Sempre \(Ao Vivo no Mineirão\)](https://open.spotify.com/album/3hji0VKEnN3DUK2Zydyr0i) | 6:49 |
+| 9 | [O Poder da Oração \(Ao Vivo\)](https://open.spotify.com/track/2sJPK9cbeZ6ScCA3R8MvgB) | [Sarah Farias](https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK), [Kailane Frauches](https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD) | [O Poder da Oração \(Ao Vivo\)](https://open.spotify.com/album/3tXpZLOyWPrNxIaiccqr6Y) | 4:47 |
 | 10 | [Deus Está Aqui \(Medley\)](https://open.spotify.com/track/3jbkfF5kFYJiEN1XnCLKcN) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Deus Está Aqui \(Medley\)](https://open.spotify.com/album/4JKl5GeTte3fPKg4sRzO0G) | 4:43 |
 | 11 | [Lindo Momento \- Ao Vivo](https://open.spotify.com/track/6QxaJjXCxZSGKq98arP8Nw) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Lindo Momento](https://open.spotify.com/album/1aVMRmkdrJe3UXprRvPZqV) | 14:53 |
 | 12 | [Ovelhinha \(Ao Vivo\)](https://open.spotify.com/track/2lKiWWoeqOHhXwyZT8flw6) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Ovelhinha \(Ao Vivo\)](https://open.spotify.com/album/7mSTc7HSnNJ4mu41Vvmo3y) | 4:36 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0OEZC3cbQmU.md) - [plain]
 | 74 | [A Glória Desta Última Casa \(Ao Vivo\)](https://open.spotify.com/track/74EFSXhkUmwwWFZZdk9U56) | [Samuel Messias](https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ) | [A Glória Desta Última Casa \(Ao Vivo\)](https://open.spotify.com/album/1VcoQzbEkRobO2YUvol2HK) | 7:11 |
 | 75 | [O Nome \- Ao Vivo](https://open.spotify.com/track/6Obssly2gJlPrrj2lNzwLZ) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE), [Luma Elpidio](https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR) | [O Nome \(Ao Vivo\)](https://open.spotify.com/album/2kDTQ8tUm9mVESWnyVGXgk) | 7:06 |
 
-Snapshot ID: `aC/lBgAAAACjFrl46nb3j9u306oIWHrG`
+Snapshot ID: `aDkfgQAAAACd0HjWRUKoCG1l/3R1c0sJ`

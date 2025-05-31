@@ -3326,7 +3326,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 247000,
       "name": "deep swim",
       "url": "https://open.spotify.com/track/34GgOWtvEh28eFmPaKo9CT"
@@ -5092,7 +5092,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 158181,
       "name": "free",
       "url": "https://open.spotify.com/track/0O4dDUo1KGQ8xUHHUM91lL"
@@ -6839,6 +6839,24 @@
     },
     {
       "album": {
+        "name": "Jakarta",
+        "url": "https://open.spotify.com/album/5FFDcsove02cfXvOLKF7qp"
+      },
+      "artists": [
+        {
+          "name": "rigii",
+          "url": "https://open.spotify.com/artist/7mKI3t5igUWeoSgBNCdQIU"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169170,
+      "name": "Jakarta",
+      "url": "https://open.spotify.com/track/6zcmfPO4V2htLg9bF9ZWon"
+    },
+    {
+      "album": {
         "name": "Jazz Street Cafe",
         "url": "https://open.spotify.com/album/4WiO413zQJmeLa1eYPAOp7"
       },
@@ -7559,6 +7577,24 @@
     },
     {
       "album": {
+        "name": "Liberation",
+        "url": "https://open.spotify.com/album/4LVH4sPDtqUQiqffdU7QuQ"
+      },
+      "artists": [
+        {
+          "name": "Aneto",
+          "url": "https://open.spotify.com/artist/2NN1Bm3UcCgDZEjXPt3ACs"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135929,
+      "name": "Liberation",
+      "url": "https://open.spotify.com/track/3ZbtMwxCbNLiAm84ZR3H0Z"
+    },
+    {
+      "album": {
         "name": "Life Is So Beautiful",
         "url": "https://open.spotify.com/album/5TDlvVG8byo9mRv80j9Zsg"
       },
@@ -7898,6 +7934,24 @@
       "duration_ms": 218000,
       "name": "Lost In Space",
       "url": "https://open.spotify.com/track/6xUE9l0MaDYW4NrL8fuL40"
+    },
+    {
+      "album": {
+        "name": "Lost in the Beat",
+        "url": "https://open.spotify.com/album/79yXZfm86PaxXgrcmlYA2J"
+      },
+      "artists": [
+        {
+          "name": "Rick Groove",
+          "url": "https://open.spotify.com/artist/7q2GXu2JA5LLVbNw8YnaQv"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126111,
+      "name": "Lost in the Beat",
+      "url": "https://open.spotify.com/track/07tzvzSvJh4DPi5aPXTmaI"
     },
     {
       "album": {
@@ -10276,6 +10330,24 @@
       "duration_ms": 212652,
       "name": "Phase Off",
       "url": "https://open.spotify.com/track/4jnuEF4AKcTnJg0bpiVsKQ"
+    },
+    {
+      "album": {
+        "name": "Phases",
+        "url": "https://open.spotify.com/album/49tS1lTdOd6KS2X5iOgNxD"
+      },
+      "artists": [
+        {
+          "name": "Astrovox",
+          "url": "https://open.spotify.com/artist/1zDQ4Lyy4QK1MKFaysBLqx"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122000,
+      "name": "Phases",
+      "url": "https://open.spotify.com/track/2yIhzbIcSxJF2CCgqU0Ay2"
     },
     {
       "album": {
@@ -12700,7 +12772,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 188242,
       "name": "Smiling Falsifier",
       "url": "https://open.spotify.com/track/1yubV3KvZpkFXQWm5C7i5S"
@@ -14991,6 +15063,24 @@
     },
     {
       "album": {
+        "name": "Tres Leches",
+        "url": "https://open.spotify.com/album/2XYLhl1i8Um97t9voIckHW"
+      },
+      "artists": [
+        {
+          "name": "Colton Jefferson",
+          "url": "https://open.spotify.com/artist/4dB5DX9CCgOE5LIOciYR7n"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171696,
+      "name": "Tres Leches",
+      "url": "https://open.spotify.com/track/5PYoYOksfiqMkEwO91PHeh"
+    },
+    {
+      "album": {
         "name": "Triscar",
         "url": "https://open.spotify.com/album/1Wmf9U8HQonW8fglilo3eN"
       },
@@ -15414,6 +15504,24 @@
       "duration_ms": 193468,
       "name": "Vibe Ticket",
       "url": "https://open.spotify.com/track/653lRpnjayYZIcxrNqdUDN"
+    },
+    {
+      "album": {
+        "name": "Vilt",
+        "url": "https://open.spotify.com/album/0C2F1rwIPka00gIbi2KlRE"
+      },
+      "artists": [
+        {
+          "name": "Chill Motion",
+          "url": "https://open.spotify.com/artist/7uxTNkHkgq1ZLC9tNCxgde"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178363,
+      "name": "Vilt",
+      "url": "https://open.spotify.com/track/2grom1VkzViZwJ1y2e0qAB"
     },
     {
       "album": {

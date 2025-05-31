@@ -4,7 +4,7 @@
 
 > Spread the Good News with the best Gospel songs of the moment\. Cover: Jovonta Patton
 
-672 songs - 2 day 9 hr 36 min
+673 songs - 2 day 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [He's Been Good](https://open.spotify.com/track/5zII4AnJPKRC3GapwhRzJL) | [Kenny Lewis & One Voice](https://open.spotify.com/artist/7jWXyzgbVBqDzi3YszuL3O), [Charles Jenkins & Fellowship Chicago](https://open.spotify.com/artist/2jqLJvBYhbA8qNe37kbSaU), [Bridgette Hurt](https://open.spotify.com/artist/1v92wNIIJpBDhpaqfGLjcU), [Lemmie Battles](https://open.spotify.com/artist/4y4PZAbayaMhs7KrWGsZ7K) | [Undefeated](https://open.spotify.com/album/4ZIfnU7baeUIAk96Msv67S) | 7:22 | 2022-02-18 | 2022-03-26 |
 | [He's My Rock \(Radio Version\) \- Live](https://open.spotify.com/track/2zcDzWyMwfSBcvc8slTTHq) | [Bri Babineaux](https://open.spotify.com/artist/6YedxQjw8pGzw9B8owaEnF) | [He's My Rock \(Live\)](https://open.spotify.com/album/3hxvmLeeKCXNK2ubRyp2Y0) | 4:25 | 2022-02-18 | 2022-09-24 |
 | [He's Never Failed Me Yet](https://open.spotify.com/track/7znHKuvo7xhsYad2fyUnzp) | [Melvin Crispell III](https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK) | [He's Never Failed Me Yet](https://open.spotify.com/album/5icrciEcTVBbQf4ZFuo3w2) | 4:17 | 2024-02-16 | 2024-03-30 |
+| [Heal](https://open.spotify.com/track/7F8PxTQf6eTnpSKuZ7IDZU) | [Jamal Roberts](https://open.spotify.com/artist/6R8EfqK9LdyvvWAjbjnkdg) | [Heal](https://open.spotify.com/album/3zQvObWa6jN6OwN99lKdsl) | 3:23 | 2025-05-30 |  |
 | [Healing](https://open.spotify.com/track/3W1pqFKzE6Boihiw2MIk63) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Village\-Music](https://open.spotify.com/artist/6J0dVnO9dYcyQkVjVI8KFV), [Jalen Seawright](https://open.spotify.com/artist/5puI4C97ehRfRMIYD1jmdY), [Ashlee Moss](https://open.spotify.com/artist/3L3MS4nggDhaUZqXSjBnvJ), [Alina Oliver Emeribe](https://open.spotify.com/artist/58ESnXSGitotN6hVfgUVTK) | [Healing](https://open.spotify.com/album/5HKYJ8Lavx1XLP0NQ98NgY) | 4:33 | 2022-10-07 | 2023-03-11 |
 | [Healing](https://open.spotify.com/track/2XBO1WycGB40uSfzLrBtiF) | [Mo'Lola](https://open.spotify.com/artist/2ejOctEUrvGWrMuTwZPdaO), [Naomi Classik](https://open.spotify.com/artist/6UvgdnOto2BWiiK8ycagqW) | [Healing](https://open.spotify.com/album/7fwc5Uzs0eMap2GsrniD6L) | 4:13 | 2023-04-21 | 2023-04-29 |
 | [Hear My Voice](https://open.spotify.com/track/2yAtTMvXjhdGbztgOopyE2) | [John P\. Kee](https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl) | [Hear My Voice](https://open.spotify.com/album/4HAmAeJal4N8dZVvUCxjc5) | 5:37 | 2024-03-22 | 2025-02-01 |

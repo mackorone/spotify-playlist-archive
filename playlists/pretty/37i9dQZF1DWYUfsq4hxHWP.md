@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Celebrating 10 years of the best new country music from independent artists\. Cover: Emily Ann Roberts, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,803 likes - 206 songs - 10 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,854 likes - 206 songs - 10 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 4 | [So Far So Good](https://open.spotify.com/track/3tDV5l64dIVPLIbkYflTJx) | [Dalton Davis](https://open.spotify.com/artist/6J9RN4Pef3aGhMaIPt4d6B) | [So Far So Good](https://open.spotify.com/album/0q1qlhjNtHty7gOyyuJtTb) | 2:58 |
 | 5 | [Concrete Cowboy](https://open.spotify.com/track/1lHcqILwMcqby0k7aUUPQO) | [Lanie Gardner](https://open.spotify.com/artist/5lhCycgJCjQIMpWNk4DycY) | [Concrete Cowboy](https://open.spotify.com/album/38gfC5aYAdL6L9iLh8cZB7) | 2:27 |
 | 6 | [Make Me Wonder](https://open.spotify.com/track/13Qkq1y340lfSEfmRMOOnz) | [Solon Holt](https://open.spotify.com/artist/6gcXckLQicjC4KJQi00EMz) | [Make Me Wonder](https://open.spotify.com/album/694J7HuwM1KLhaLVm2THZY) | 3:45 |
-| 7 | [Good Hearted Woman \(feat\. Madalynn Rose\)](https://open.spotify.com/track/1eFhjDECEcx9Iot5JQzXW5) | [Scott Wolverton](https://open.spotify.com/artist/6oClxjKHw0mac570Gx7Tw3), [Madalynn Rose](https://open.spotify.com/artist/2jPSS6EGsEFk6x4xmftizF) | [Good Hearted Woman \(feat\. Madalynn Rose\)](https://open.spotify.com/album/7K9EbC9nNDgFMsxNaXi4ZW) | 3:55 |
+| 7 | [Good Hearted Woman](https://open.spotify.com/track/1eFhjDECEcx9Iot5JQzXW5) | [Scott Wolverton](https://open.spotify.com/artist/6oClxjKHw0mac570Gx7Tw3), [Madalynn Rose](https://open.spotify.com/artist/2jPSS6EGsEFk6x4xmftizF) | [Good Hearted Woman](https://open.spotify.com/album/7K9EbC9nNDgFMsxNaXi4ZW) | 3:55 |
 | 8 | [Asking for a Friend](https://open.spotify.com/track/0lIvPn66NoM8GKvhlBOj5B) | [Brendan Walter](https://open.spotify.com/artist/4iaoMQUDk7KmWj6XUFgGat) | [Asking for a Friend](https://open.spotify.com/album/2rQI4GLHSjBOOj1lm7Fnjn) | 3:28 |
 | 9 | [Trailer Treasure](https://open.spotify.com/track/3wKRcWAoH4jtZO63L5gj2q) | [Elizabeth Nichols](https://open.spotify.com/artist/06cAJQBSPkt3bG7uMoWfmA) | [Trailer Treasure](https://open.spotify.com/album/5zQ5X1H2KbFjyg1slbq9aQ) | 2:28 |
 | 10 | [Golden](https://open.spotify.com/track/3OKTdbtlkg3d0JEtCTFbI7) | [Angie K](https://open.spotify.com/artist/7tk53T02nvDYOvWz5T9qZL) | [Golden](https://open.spotify.com/album/52vdGFL6YG3nDtwgKPY99H) | 3:25 |

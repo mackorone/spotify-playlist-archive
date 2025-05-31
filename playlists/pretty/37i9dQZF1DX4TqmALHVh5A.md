@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 
 > La scène francophone branchée sur courant alternatif\. Photo : Sam Sauvage
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,202 likes - 49 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,239 likes - 49 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 | 48 | [zombi](https://open.spotify.com/track/5gxrevOrqNW1IPPtZaKJZt) | [Pierre Pleure](https://open.spotify.com/artist/4LdNhzvsIrPK2c7QPhYw6h) | [zombi](https://open.spotify.com/album/7dBhWvpu5RbV60WZPOGArl) | 2:21 |
 | 49 | [Hey Joe](https://open.spotify.com/track/57hKJDzT86Hb4XEvFKcSqZ) | [Odezenne](https://open.spotify.com/artist/1FiWBzw15KbR9amOb1Xnxp) | [Hey Joe](https://open.spotify.com/album/4X9EzY8mrxWMRfSU88ehaM) | 3:12 |
 
-Snapshot ID: `aDjY9wAAAAD3y9/pvIAUg/6+2LnoMJ0s`
+Snapshot ID: `aDjY9wAAAACupgomageXd7hvs4hZFr0U`

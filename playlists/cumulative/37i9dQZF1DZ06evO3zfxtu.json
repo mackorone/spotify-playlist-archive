@@ -762,32 +762,6 @@
     {
       "album": {
         "name": "High (feat. Shaggy & Demarco) [Festival Mix]",
-        "url": "https://open.spotify.com/album/2DPtK24Dn3vRTJjtO17oxJ"
-      },
-      "artists": [
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        },
-        {
-          "name": "Shaggy",
-          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
-        },
-        {
-          "name": "Demarco",
-          "url": "https://open.spotify.com/artist/0af5VM6xubf8EXKvoG35x6"
-        }
-      ],
-      "date_added": "2024-08-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 245446,
-      "name": "High (feat. Shaggy & Demarco) - Festival Mix",
-      "url": "https://open.spotify.com/track/2HG2N7seRmTPK0NXkxg3ki"
-    },
-    {
-      "album": {
-        "name": "High (feat. Shaggy & Demarco) [Festival Mix]",
         "url": "https://open.spotify.com/album/3DPZ1DV6Acvuc6QEqW9nuh"
       },
       "artists": [
@@ -810,6 +784,32 @@
       "duration_ms": 245446,
       "name": "High (feat. Shaggy & Demarco) - Festival Mix",
       "url": "https://open.spotify.com/track/4HYbW9oHQjEz3U0XMopuYI"
+    },
+    {
+      "album": {
+        "name": "High (Festival Mix)",
+        "url": "https://open.spotify.com/album/2DPtK24Dn3vRTJjtO17oxJ"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "Shaggy",
+          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+        },
+        {
+          "name": "Demarco",
+          "url": "https://open.spotify.com/artist/0af5VM6xubf8EXKvoG35x6"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245446,
+      "name": "High - Festival Mix",
+      "url": "https://open.spotify.com/track/2HG2N7seRmTPK0NXkxg3ki"
     },
     {
       "album": {
@@ -1556,32 +1556,6 @@
     {
       "album": {
         "name": "Rise N Shine (feat. Poo Bear) [Justice Skolnik Remix]",
-        "url": "https://open.spotify.com/album/6MxcAkHetEdAyUotamFHKL"
-      },
-      "artists": [
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        },
-        {
-          "name": "Justice Skolnik",
-          "url": "https://open.spotify.com/artist/18bof4dt1gOAe3NGWRTamw"
-        },
-        {
-          "name": "Poo Bear",
-          "url": "https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX"
-        }
-      ],
-      "date_added": "2024-07-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 187571,
-      "name": "Rise N Shine (feat. Poo Bear) - Justice Skolnik Remix",
-      "url": "https://open.spotify.com/track/51LoRvhylfb9PTccAmYVQT"
-    },
-    {
-      "album": {
-        "name": "Rise N Shine (feat. Poo Bear) [Justice Skolnik Remix]",
         "url": "https://open.spotify.com/album/1xQtIDxHbsIo36hVfPd9uc"
       },
       "artists": [
@@ -1604,6 +1578,32 @@
       "duration_ms": 187571,
       "name": "Rise N Shine (feat. Poo Bear) - Justice Skolnik Remix",
       "url": "https://open.spotify.com/track/7IRQUCarlAan7Wnmm6zpTS"
+    },
+    {
+      "album": {
+        "name": "Rise N Shine (Justice Skolnik Remix)",
+        "url": "https://open.spotify.com/album/6MxcAkHetEdAyUotamFHKL"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "Justice Skolnik",
+          "url": "https://open.spotify.com/artist/18bof4dt1gOAe3NGWRTamw"
+        },
+        {
+          "name": "Poo Bear",
+          "url": "https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187571,
+      "name": "Rise N Shine - Justice Skolnik Remix",
+      "url": "https://open.spotify.com/track/51LoRvhylfb9PTccAmYVQT"
     },
     {
       "album": {

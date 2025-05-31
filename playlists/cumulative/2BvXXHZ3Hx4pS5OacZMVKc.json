@@ -1119,6 +1119,24 @@
     },
     {
       "album": {
+        "name": "Can't Heal You",
+        "url": "https://open.spotify.com/album/1VYJf6H97llhC98jNrbdkT"
+      },
+      "artists": [
+        {
+          "name": "Bad Computer",
+          "url": "https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "Can't Heal You",
+      "url": "https://open.spotify.com/track/4nOrzKUogxxtpy1Rel3Nl5"
+    },
+    {
+      "album": {
         "name": "Can't You Feel It",
         "url": "https://open.spotify.com/album/1mdT842jxLeARBJpahEw6f"
       },

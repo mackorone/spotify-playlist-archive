@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-17",
-  "description": "Stormy en t\u00eate d'affiche de la playlist num\u00e9ro 1 du rap marocain.",
+  "description": "Cover: Tagne",
   "name": "ABAT\u2211RA",
   "tracks": [
     {
@@ -5729,6 +5729,24 @@
     },
     {
       "album": {
+        "name": "Sabr",
+        "url": "https://open.spotify.com/album/6FE54tQmjre1sibfbuMkSz"
+      },
+      "artists": [
+        {
+          "name": "Tagne",
+          "url": "https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172208,
+      "name": "Saddam",
+      "url": "https://open.spotify.com/track/4UfFQWGpDV9fUmYwGqaWC0"
+    },
+    {
+      "album": {
         "name": "OMEGA",
         "url": "https://open.spotify.com/album/2WOuni1EwCyGVYIeN0LXXt"
       },
@@ -5816,6 +5834,24 @@
       "duration_ms": 204350,
       "name": "San Siro",
       "url": "https://open.spotify.com/track/20CeXYgWoJdheBiI89QgcK"
+    },
+    {
+      "album": {
+        "name": "Beatophile Vol.3",
+        "url": "https://open.spotify.com/album/2oVDC7GmniT13KleeofSCi"
+      },
+      "artists": [
+        {
+          "name": "Lquinze",
+          "url": "https://open.spotify.com/artist/1kt2pBsYE0qljlM6CqnQtd"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178283,
+      "name": "Schillaci",
+      "url": "https://open.spotify.com/track/4zlAIU4yZDer0WQnPZ77cw"
     },
     {
       "album": {
@@ -6720,7 +6756,7 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 215000,
       "name": "TRAUMA",
       "url": "https://open.spotify.com/track/4c3wYPl65eHyt3oicxlJqJ"

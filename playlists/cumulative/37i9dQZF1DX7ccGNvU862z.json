@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: T!NE",
+  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: $LUTTYP",
   "name": "\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. ",
   "tracks": [
     {
@@ -46,7 +46,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 164071,
       "name": "1 in my Heart",
       "url": "https://open.spotify.com/track/5JIaheSSdr9cmIHJqdgceR"
@@ -948,7 +948,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 168476,
       "name": "Chi Mi",
       "url": "https://open.spotify.com/track/7FYBz12pHDBPsSXsm3pH7a"
@@ -4403,6 +4403,28 @@
     },
     {
       "album": {
+        "name": "PERFECT SMILE",
+        "url": "https://open.spotify.com/album/3iPHH38xoLso2RKcX8KyoY"
+      },
+      "artists": [
+        {
+          "name": "P6ICK",
+          "url": "https://open.spotify.com/artist/52IxFzldfmZmsLcF078dnY"
+        },
+        {
+          "name": "JayQ",
+          "url": "https://open.spotify.com/artist/5SLXYrzObBv7IrLzo4I4S6"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222089,
+      "name": "PERFECT SMILE",
+      "url": "https://open.spotify.com/track/2rxJBamQWjZ1vQ25Vbonnn"
+    },
+    {
+      "album": {
         "name": "PERKO",
         "url": "https://open.spotify.com/album/55pbpNIX1yowv3FttWWXwd"
       },
@@ -7182,7 +7204,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 279201,
       "name": "\u0e04\u0e19\u0e43\u0e19\u0e40\u0e1e\u0e25\u0e07",
       "url": "https://open.spotify.com/track/1B8SFaWvTDI1RPyuG0a5fT"
@@ -7204,7 +7226,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 165031,
       "name": "\u0e04\u0e23\u0e31\u0e1a\u0e1e\u0e35\u0e48",
       "url": "https://open.spotify.com/track/7eGjEuouVhaYMGflcYDgkN"
@@ -7222,7 +7244,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 194594,
       "name": "\u0e04\u0e23\u0e31\u0e49\u0e07\u0e04\u0e23\u0e32\u0e27 - Badman",
       "url": "https://open.spotify.com/track/0ELVdeRK2UGYRQ5i6pgohl"
@@ -7928,6 +7950,28 @@
       "duration_ms": 248454,
       "name": "\u0e0a\u0e31\u0e49\u0e19\u0e2b\u0e01",
       "url": "https://open.spotify.com/track/32KRXnLHWxMT0YJ9tvGdoQ"
+    },
+    {
+      "album": {
+        "name": "\u0e0a\u0e32\u0e22\u0e02\u0e35\u0e49\u0e40\u0e21\u0e32",
+        "url": "https://open.spotify.com/album/1sdXhbbtcEZRuhSZDl9qDO"
+      },
+      "artists": [
+        {
+          "name": "OZEEOOS",
+          "url": "https://open.spotify.com/artist/4hjAFpLZlqKZEJSCHhnWLc"
+        },
+        {
+          "name": "WHALJAY",
+          "url": "https://open.spotify.com/artist/00DQn2x4PUykmPHF8EVpYy"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "\u0e0a\u0e32\u0e22\u0e02\u0e35\u0e49\u0e40\u0e21\u0e32",
+      "url": "https://open.spotify.com/track/7peQKo51VFHXTpF1tv592T"
     },
     {
       "album": {
@@ -8860,6 +8904,24 @@
       "duration_ms": 264960,
       "name": "\u0e1a\u0e17\u0e2a\u0e23\u0e38\u0e1b\u0e2a\u0e38\u0e14\u0e17\u0e49\u0e32\u0e22",
       "url": "https://open.spotify.com/track/0gpFtSxhDc1gC7kYJ927fJ"
+    },
+    {
+      "album": {
+        "name": "\u0e1a\u0e2d\u0e01\u0e01\u0e31\u0e19\u0e21\u0e32\u0e40\u0e25\u0e22",
+        "url": "https://open.spotify.com/album/1iPka0k20TEbvZ7NfJbPsC"
+      },
+      "artists": [
+        {
+          "name": "T!NE",
+          "url": "https://open.spotify.com/artist/325C5PNmvA8luRIOYy1dmQ"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193288,
+      "name": "\u0e1a\u0e2d\u0e01\u0e01\u0e31\u0e19\u0e21\u0e32\u0e40\u0e25\u0e22",
+      "url": "https://open.spotify.com/track/62n5b9J9KvpOGQeha0Z12I"
     },
     {
       "album": {
@@ -10944,7 +11006,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 191812,
       "name": "\u0e2b\u0e21\u0e35\u0e02\u0e31\u0e49\u0e27\u0e42\u0e25\u0e01 (Polar Bear)",
       "url": "https://open.spotify.com/track/3AJMEPpRSY9yv4WD4NaquP"
@@ -11024,7 +11086,7 @@
       ],
       "date_added": "2025-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-19",
+      "date_removed": null,
       "duration_ms": 148500,
       "name": "\u0e2b\u0e49\u0e2d\u0e07\u0e1b\u0e01\u0e04\u0e23\u0e2d\u0e07",
       "url": "https://open.spotify.com/track/4GK5seU6Fyi1Kstn4QZ5vU"
@@ -11050,6 +11112,24 @@
       "duration_ms": 173333,
       "name": "\u0e2d\u0e19\u0e32\u0e04\u0e2d\u0e19\u0e14\u0e49\u0e32",
       "url": "https://open.spotify.com/track/4YL3JwgWt0FhnJBcLFhxI7"
+    },
+    {
+      "album": {
+        "name": "\u0e2d\u0e22\u0e32\u0e01\u0e08\u0e30\u0e01\u0e2d\u0e14\u0e40\u0e18\u0e2d\u0e19\u0e32\u0e19 \u0e46 (HAVE A GOOD TIME)",
+        "url": "https://open.spotify.com/album/51gTzozCry8vsoOpJikdqL"
+      },
+      "artists": [
+        {
+          "name": "BLVCKHEART",
+          "url": "https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219428,
+      "name": "\u0e2d\u0e22\u0e32\u0e01\u0e08\u0e30\u0e01\u0e2d\u0e14\u0e40\u0e18\u0e2d\u0e19\u0e32\u0e19 \u0e46 (HAVE A GOOD TIME)",
+      "url": "https://open.spotify.com/track/63oA4hG0SqvsUFfaEhgqVX"
     },
     {
       "album": {
@@ -12944,6 +13024,32 @@
       "duration_ms": 163625,
       "name": "\u0e42\u0e15\u0e49\u0e23\u0e38\u0e48\u0e07",
       "url": "https://open.spotify.com/track/5MwxcNLYCMRP5XNwGaOEc3"
+    },
+    {
+      "album": {
+        "name": "\u0e42\u0e25\u0e01\u0e41\u0e2b\u0e48\u0e07\u0e04\u0e27\u0e32\u0e21\u0e1d\u0e31\u0e19",
+        "url": "https://open.spotify.com/album/1HNSNYUF7fQX2gMklOtfTC"
+      },
+      "artists": [
+        {
+          "name": "Rifle",
+          "url": "https://open.spotify.com/artist/3Kyev97NB5IuMYwMP1Ea2D"
+        },
+        {
+          "name": "Z9",
+          "url": "https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP"
+        },
+        {
+          "name": "Sexski",
+          "url": "https://open.spotify.com/artist/6QeYcD1n2YcWygCScfLhRE"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231428,
+      "name": "\u0e42\u0e25\u0e01\u0e41\u0e2b\u0e48\u0e07\u0e04\u0e27\u0e32\u0e21\u0e1d\u0e31\u0e19",
+      "url": "https://open.spotify.com/track/0tyYfrsTTiqK04TipBrIrg"
     },
     {
       "album": {

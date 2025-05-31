@@ -4,7 +4,7 @@
 
 > Country music making waves\. Cover: Sacha
 
-226 songs - 11 hr 42 min
+227 songs - 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,5 +234,6 @@
 | [You Got a Small Town](https://open.spotify.com/track/0uxbkVqzKkxeVszRa0LFnb) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [You Got a Small Town](https://open.spotify.com/album/2dRiCtzyR2XKR4mwwU370t) | 2:58 | 2021-12-03 | 2024-04-23 |
 | [You Got a Small Town](https://open.spotify.com/track/1F7UVBrslkA96RCiXxIhQ3) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [You Got a Small Town](https://open.spotify.com/album/3VbfZpES3qxhElY7c3DTVk) | 2:58 | 2022-09-16 | 2023-09-25 |
 | [You Got a Small Town](https://open.spotify.com/track/4XETfjmA6u9yy3CSfh1oFL) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Never Giving Up On That](https://open.spotify.com/album/34AyKaRR2hTQOHTmaxUeDD) | 2:59 | 2023-09-15 | 2024-04-19 |
+| [Yours Truly](https://open.spotify.com/track/0QsFO7oKijgRsUxxed0YBo) | [Trae Taylor](https://open.spotify.com/artist/2pT7KoajeJudQMhB5rNGl4) | [Yours Truly](https://open.spotify.com/album/2Bl5AaN9W965u8KeaSDpoW) | 2:39 | 2025-05-30 |  |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

@@ -5799,6 +5799,28 @@
     },
     {
       "album": {
+        "name": "Madison Ave",
+        "url": "https://open.spotify.com/album/53cqYja9il9TQu7k0CjP5y"
+      },
+      "artists": [
+        {
+          "name": "No Spirit",
+          "url": "https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX"
+        },
+        {
+          "name": "Casiio",
+          "url": "https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101647,
+      "name": "Madison Ave",
+      "url": "https://open.spotify.com/track/24YKoKaxshhfg5LWY9uFau"
+    },
+    {
+      "album": {
         "name": "Madrugada",
         "url": "https://open.spotify.com/album/0f8hU4BFgSR8pxjF6TfCs2"
       },
@@ -10218,7 +10240,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 107624,
       "name": "Through The Jazz",
       "url": "https://open.spotify.com/track/1hukNvf5AI3iWXnxMd15CD"

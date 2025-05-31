@@ -2425,6 +2425,24 @@
     },
     {
       "album": {
+        "name": "TILT - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/706xdC5SJBOk85HoJSFJeq"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet - IRENE & SEULGI",
+          "url": "https://open.spotify.com/artist/6bwp9ObI8FWvMPCIWVBmhl"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184013,
+      "name": "TILT",
+      "url": "https://open.spotify.com/track/1etiDVN61JMXErlRMia2oR"
+    },
+    {
+      "album": {
         "name": "The Red - The 1st Album",
         "url": "https://open.spotify.com/album/56L226pRT1sHo2vgoJy5IB"
       },

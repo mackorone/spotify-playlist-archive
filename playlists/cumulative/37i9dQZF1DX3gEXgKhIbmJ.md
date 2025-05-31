@@ -4,7 +4,7 @@
 
 > pra entrar e ficar na onda
 
-265 songs - 10 hr 46 min
+266 songs - 10 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Eu F\*\*\*\*](https://open.spotify.com/track/2YuI8qfqcUrDDB4paHRqtg) | [Delatorvi](https://open.spotify.com/artist/0pgqFvc1hc1r35fbl1TFvu), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE), [HATZ](https://open.spotify.com/artist/5xTgBjp7sMoQ7Wrgm7ETf5) | [Eu F\*\*\*\*](https://open.spotify.com/album/1cIyyJlT64BkOWtwBJdFBQ) | 2:30 | 2024-09-07 | 2024-11-30 |
 | [Ex Filha da Puta](https://open.spotify.com/track/2Q7p5ggGDwI7ZMP3p8iIQT) | [Mc Morena](https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE), [Kil](https://open.spotify.com/artist/2CArMydvTpgVI7lzBphw0D) | [Ex Filha da Puta](https://open.spotify.com/album/1g2qNARjN38m4Erv6DOTM7) | 1:30 | 2023-11-10 | 2024-01-20 |
 | [FAKE](https://open.spotify.com/track/2iKl5tbhlajZzQFkokwp9C) | [Pizzol](https://open.spotify.com/artist/1LvxqCO8GOAKkDzDOXfrAK), [Smile](https://open.spotify.com/artist/5qnRxQly5FwObKQHVRHRGD) | [FAKE](https://open.spotify.com/album/7q2Zl84qhSTcjSPnLq1mtC) | 2:28 | 2024-10-18 | 2024-11-30 |
+| [FALADOR \- Freestyle](https://open.spotify.com/track/4cErznY085FaB3LxoJigmV) | [RodY 011](https://open.spotify.com/artist/7MMeyE1XDciazG1p4jF6nv), [G$](https://open.spotify.com/artist/7luv45bIC9slJ6BnXCWw6Y) | [FALADOR \(Freestyle\)](https://open.spotify.com/album/4bEzme1BRZPLT68u6A5U2e) | 2:12 | 2025-05-30 |  |
 | [Fanfic](https://open.spotify.com/track/16Ir3dL5UWiWZLoHLteDGu) | [Iza Sabino](https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3), [Laura Sette](https://open.spotify.com/artist/0MAXbFqd77wekpgo1nNUYc), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [Fanfic](https://open.spotify.com/album/3NkH1qv483kYFZRTilS6IC) | 2:44 | 2024-01-26 | 2024-04-06 |
 | [Fases.](https://open.spotify.com/track/58zoE4LPTTiALxHndmSv99) | [guigui7](https://open.spotify.com/artist/3LRv65NCfA7mkqwPj1FJCx) | [Fases.](https://open.spotify.com/album/6DymhQeLm09JQ1na3UwfqL) | 2:44 | 2025-01-03 |  |
 | [Faturamento](https://open.spotify.com/track/0zeBg5Gcp2wNqPgtCln8JY) | [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [Leal](https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs), [Rizzi Get Busy](https://open.spotify.com/artist/4VlgWkOGAvRh8Ke38UvqgO) | [Faturamento](https://open.spotify.com/album/47uTCzzTGI8R1LyhfRjcds) | 2:44 | 2023-10-06 | 2023-10-14 |
@@ -124,7 +125,7 @@
 | [Hellcomeback](https://open.spotify.com/track/2J3YB0R6vjN0zSPNAai4Dk) | [Laranjha](https://open.spotify.com/artist/4hNHDJQM130Pg4Gt7Cjhgr), [BEAT do MESAN](https://open.spotify.com/artist/5QTAgLr0ITnA48LCcgtCKx) | [Hellcomeback](https://open.spotify.com/album/36PRWwupqcebYfnToj5Mxb) | 2:29 | 2023-09-15 | 2023-09-30 |
 | [HIGHBALL PAPI\. \(Speed Jersey\)](https://open.spotify.com/track/6SNNUaB4swasE4hHLdGhu9) | [Marcão Baixada](https://open.spotify.com/artist/02Xp0I7fq1yPQa9980WCYJ), [EricBeatz](https://open.spotify.com/artist/6sPErN4KkLfCtU7vsybzG3) | [HIGHBALL PAPI\. \(Speed Jersey\)](https://open.spotify.com/album/6Wd9AGxjhW4zDegTwSQP2F) | 2:06 | 2023-09-15 | 2023-11-25 |
 | [Hoje Tem](https://open.spotify.com/track/3oYoiNfrAg2qFOwyKAixBI) | [Mc Lucy](https://open.spotify.com/artist/44bzWn6GQs6zVXvnYtqIMa), [YUME](https://open.spotify.com/artist/77tpF7p8S4v2mtATCRJzHa) | [Hoje Tem](https://open.spotify.com/album/3m1fZdOy8G4j621NmOzyDa) | 1:50 | 2025-02-28 | 2025-04-20 |
-| [i need u \(speed up\)](https://open.spotify.com/track/4UpZ4AhKVbVGjzwAeakpas) | [Tundra](https://open.spotify.com/artist/3yp94c77snS18Wq51ys4tI) | [i need u](https://open.spotify.com/album/0NvJTntFzJc3TiEZeKgPH6) | 3:03 | 2025-04-01 |  |
+| [i need u \(speed up\)](https://open.spotify.com/track/4UpZ4AhKVbVGjzwAeakpas) | [Tundra](https://open.spotify.com/artist/3yp94c77snS18Wq51ys4tI) | [i need u](https://open.spotify.com/album/0NvJTntFzJc3TiEZeKgPH6) | 3:03 | 2025-04-01 | 2025-05-31 |
 | [I Wanna Fuck You](https://open.spotify.com/track/5CEIGCQRG7z3769FIGIOlF) | [Cozzta](https://open.spotify.com/artist/2uzwP4j6VbbpOW9n4piVIK) | [I Wanna Fuck You](https://open.spotify.com/album/4XbnIFquUuavfhpqgh5wXC) | 2:09 | 2025-02-14 | 2025-04-20 |
 | [IMAGINEI TANTAS COISAS COM VOCÊ](https://open.spotify.com/track/1HYy3x0akcUcwN4Mc6WZ0M) | [W11](https://open.spotify.com/artist/0WP0IRhU9ee3zZ9Q0l8Eon), [Carluz](https://open.spotify.com/artist/6vF4hdayoLWw2cST3oqJHM) | [BACK THEN CYCLE](https://open.spotify.com/album/5CFZdYlnQe5Ece931I0w8R) | 1:28 | 2024-01-26 | 2024-02-03 |
 | [In London](https://open.spotify.com/track/6FcxmLkDOPFDCca4bIZ0AQ) | [D38](https://open.spotify.com/artist/0x1B0bD5jSY4Py6VWB66Fe), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e) | [In London](https://open.spotify.com/album/0U6Pbs30wHu5uqctCvdAFG) | 2:22 | 2024-09-07 | 2024-11-30 |

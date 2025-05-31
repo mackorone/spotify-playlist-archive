@@ -4,7 +4,7 @@
 
 > This is Manu Dibango\. The essential tracks, all in one playlist.
 
-151 songs - 11 hr 30 min
+152 songs - 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Ami Xintadu](https://open.spotify.com/track/3PXt08foKsvC84vcTc34Oo) | [Mário Lúcio](https://open.spotify.com/artist/0l0E5CN1nDzWU8hwwareoI), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Independance](https://open.spotify.com/album/35E7iZTJC9CBJ4tG4Rg5kT) | 4:49 | 2025-02-02 | 2025-05-07 |
 | [Anbessa](https://open.spotify.com/track/4Ic3yQiH5UmyyevTsp08tY) | [Akalé Wubé](https://open.spotify.com/artist/2jjVw1rNPydSwqfJc5uSdn), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Sost](https://open.spotify.com/album/1ihecQme2FVkhoSGh5BpMI) | 3:41 | 2022-09-10 |  |
 | [Angola](https://open.spotify.com/track/0Oqm0L0kG0TIQ5ncBMGDyP) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Manu 76](https://open.spotify.com/album/0Dw4vJzTx70RTxa8d7NXiJ) | 4:26 | 2022-02-19 | 2022-02-21 |
+| [Aphrodite Shake](https://open.spotify.com/track/28gRP80rUqoyu8PnL89mdC) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [African Voodoo](https://open.spotify.com/album/7MBGe4Yu7W0TTAgm8bzah1) | 3:24 | 2025-05-31 |  |
 | [Ashiko Oumba](https://open.spotify.com/track/7jXhx41keYxGSQHFUcfqAq) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Dibango 82 – In Marseille Dec 82](https://open.spotify.com/album/3sFpm1dzLfedjW4oOkqyXG) | 9:52 | 2025-04-28 | 2025-04-29 |
 | [Ba\-Kuba](https://open.spotify.com/track/0F7SrgvWE55PgFxxsUe96v) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [African Voodoo](https://open.spotify.com/album/7MBGe4Yu7W0TTAgm8bzah1) | 3:53 | 2021-12-28 | 2022-11-27 |
 | [Baobab Sunset](https://open.spotify.com/track/4TDKAGpQ975zwKU6U75oX5) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Manu Dibango Anthology](https://open.spotify.com/album/4WDsHhoLJTSGVAt7ydCoPN) | 6:55 | 2021-12-28 | 2022-10-13 |
@@ -73,7 +74,7 @@
 | [I Got You \(I Feel Good\)](https://open.spotify.com/track/6d8lg3RO1m0ea3yx32zJOB) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [LOUNGE](https://open.spotify.com/album/6k3gNZBHBjwPeVlyeW85eB) | 2:43 | 2022-11-02 | 2025-01-22 |
 | [I got you \(I feel good\)](https://open.spotify.com/track/5MSLdKsDzO5pkPfBJxtyAE) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Ballad Emotion](https://open.spotify.com/album/5skkHyAMGBCKyfwZGcSVRX) | 2:44 | 2022-08-03 | 2022-10-22 |
 | [In the midnight hour](https://open.spotify.com/track/7nHddSyD2K6DBxiIyrEM30) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Ballad Emotion](https://open.spotify.com/album/5skkHyAMGBCKyfwZGcSVRX) | 3:38 | 2022-04-18 | 2022-11-18 |
-| [Iron Wood](https://open.spotify.com/track/3VxngfqlyODulPhX80UuzG) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [African Voodoo](https://open.spotify.com/album/7MBGe4Yu7W0TTAgm8bzah1) | 2:43 | 2022-07-24 |  |
+| [Iron Wood](https://open.spotify.com/track/3VxngfqlyODulPhX80UuzG) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [African Voodoo](https://open.spotify.com/album/7MBGe4Yu7W0TTAgm8bzah1) | 2:43 | 2022-07-24 | 2025-05-31 |
 | [Je suis chez moi \(feat\. Amadou & Mariam & Manu Dibango\) \- African Remix](https://open.spotify.com/track/1gEiLNgV0aVwCk1I3EIXcf) | [Black M](https://open.spotify.com/artist/7lMgpN1tEBQKpRoUMKB8iw), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Éternel insatisfait](https://open.spotify.com/album/0fBcGOxa5aFx5MAOYaQ4XU) | 3:28 | 2021-12-28 | 2024-01-13 |
 | [Jingo \- Luke Una's Dancing in Outer Space Edit](https://open.spotify.com/track/35kByP99DJWycx7QDb8TjI) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW), [King Sunny Ade](https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1), [Luke Una](https://open.spotify.com/artist/3E259vurvPuB8DEbZN7bDI) | [Luke Una Presents É Soul Edits](https://open.spotify.com/album/0shSgyhjdCTBul5KdnFtHO) | 5:50 | 2025-05-13 |  |
 | [Jungle Riders](https://open.spotify.com/track/1j8XUIPtQI1DIC8dMALW2F) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [African Voodoo](https://open.spotify.com/album/7MBGe4Yu7W0TTAgm8bzah1) | 2:59 | 2022-10-06 | 2024-08-31 |

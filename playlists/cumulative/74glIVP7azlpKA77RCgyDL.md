@@ -2,9 +2,9 @@
 
 ### [Best New Songs Right Now](https://open.spotify.com/playlist/74glIVP7azlpKA77RCgyDL)
 
-> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: I Prevail.
+> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: HANABIE.
 
-999 songs - 2 day 14 hr 35 min
+1,005 songs - 2 day 14 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Behavioral Health](https://open.spotify.com/track/3Q97IaeG9q7gi31e66OIxL) | [Ameonna](https://open.spotify.com/artist/4ZmEpcMFWAfiL6jLLEPkbO) | [Behavioral Health](https://open.spotify.com/album/22K06LWqdTmYxstH8YUaRF) | 3:15 | 2024-01-12 | 2025-04-11 |
 | [Behelit](https://open.spotify.com/track/6SShrkXpvyKEMslHdCbqJI) | [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m) | [Behelit](https://open.spotify.com/album/2oj7HNRNdIZgIwCZl4I7Mu) | 4:08 | 2024-10-18 | 2025-04-11 |
 | [Behind Closed Doors](https://open.spotify.com/track/40bblUc6CcCwM8jaZ9r9Rf) | [Wormrot](https://open.spotify.com/artist/3vMnvW7u5207ATyxTQIxNz) | [Behind Closed Doors](https://open.spotify.com/album/57hOF9F8e7ww6Q5PJyWes6) | 1:27 | 2022-03-18 | 2023-07-15 |
+| [Beneath A Lightless Star](https://open.spotify.com/track/6SFaNYwzDMCNGPIjXvtoth) | [Holy Fawn](https://open.spotify.com/artist/13rS3lCWshTVt6HsCNjvBI) | [Beneath A Lightless Star](https://open.spotify.com/album/2IOEZbMDjDzI6Kn6H1qsYL) | 5:10 | 2025-05-30 |  |
 | [Best Before: Death](https://open.spotify.com/track/2uTahQV0g3RtBUysdYdXLZ) | [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [Best Before: Death](https://open.spotify.com/album/5SQIF1zQZk1kmiReGa3Kh7) | 3:33 | 2023-03-03 | 2024-02-03 |
 | [Betrayal](https://open.spotify.com/track/5BDcGkq3HoyvgvbMDnzCN5) | [Russian Circles](https://open.spotify.com/artist/0AZ3VR0YbFcS0Kgei7L2QF) | [Betrayal](https://open.spotify.com/album/0EYPOzgnCNRp2Z95AZtyMf) | 5:19 | 2022-07-15 | 2023-07-15 |
 | [Better Written Villain](https://open.spotify.com/track/0lJFKP46fC1Dtfmf1XeFc2) | [156/Silence](https://open.spotify.com/artist/2qXHYRTtZytxMMfO9pW1V9) | [Better Written Villain](https://open.spotify.com/album/3sjkhgON2mP7sU0AKAT8v6) | 3:43 | 2024-07-12 | 2025-04-11 |
@@ -132,6 +133,7 @@
 | [Camera Eats First](https://open.spotify.com/track/4T5Oe1GIz1dmhCXZE2mvLa) | [Ithaca](https://open.spotify.com/artist/7HIvrtPrTTxXrBeJkiRj8x) | [Camera Eats First](https://open.spotify.com/album/2UnGJcKW9UAsWbiTHkdV5N) | 4:53 | 2022-06-03 | 2023-07-15 |
 | [Can't Help but Hate](https://open.spotify.com/track/1fHI0w8RN6LyJJyK73HYdH) | [Terror](https://open.spotify.com/artist/1GVRgPtEC6sZFqvItIk3eg), [Corpsegrinder](https://open.spotify.com/artist/2W2H6mzoE0HqDLM7ux6FbO) | [Can't Help but Hate](https://open.spotify.com/album/4YabiXOQ78hhNLxhq8OAmA) | 1:26 | 2022-03-11 | 2023-07-15 |
 | [Can't Stand No One](https://open.spotify.com/track/5d4Zhtc2EXIDp0Hi5cAfLq) | [DoFlame](https://open.spotify.com/artist/4Ev5FYfYGBslgMqAqi2uNc) | [Can't Stand No One](https://open.spotify.com/album/3dLRTX5OG8U2dfvNC94t9d) | 2:22 | 2024-07-26 | 2025-04-11 |
+| [Captain Goat](https://open.spotify.com/track/4qWhupNTHvRUkY47f6HP4d) | [Avatar](https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs) | [Captain Goat](https://open.spotify.com/album/6k401HU0tFAKeOwEb5OMMi) | 4:29 | 2025-05-30 |  |
 | [Caramel](https://open.spotify.com/track/3AdXwuFn7j21HNiFMXvZXt) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Caramel](https://open.spotify.com/album/22QZTpIU424yzyhqXnFi3m) | 4:50 | 2025-04-04 |  |
 | [Carmine \(Fills the Hollow\)](https://open.spotify.com/track/3j72SnayBIS9YYVCqTEScw) | [Heriot](https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4) | [Profound Morality](https://open.spotify.com/album/5LDm7EQU04NgEHiLF2beaB) | 1:42 | 2022-04-29 | 2023-07-15 |
 | [Carousel](https://open.spotify.com/track/1sF9L9uoQG2gRKa2FqxiWu) | [Wiegedood](https://open.spotify.com/artist/1JjP30v8j95bAMZN3ws8Kb) | [Carousel](https://open.spotify.com/album/6uFjCz8NabOELB10fDSfep) | 4:51 | 2022-01-07 | 2023-07-15 |
@@ -205,6 +207,7 @@
 | [Death Is The Beginning](https://open.spotify.com/track/6Z9I47gF0XIqgZpVZ7fakB) | [Somnuri](https://open.spotify.com/artist/0lTd1p9wnZHsZvZJgrgqvN) | [Death Is The Beginning](https://open.spotify.com/album/3Nv9xXoF8VcDnIEEN0d8Cf) | 5:07 | 2023-06-02 | 2024-02-03 |
 | [Death Ov Circumstance](https://open.spotify.com/track/4aMw1McEiSKcwVzW2qwt2c) | [Ov Sulfur](https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC) | [Death Ov Circumstance](https://open.spotify.com/album/6lXJ45JATRhRieaySjLApg) | 4:33 | 2022-12-02 | 2023-07-15 |
 | [Death Shall Have No Dominion](https://open.spotify.com/track/1GIyLChtekB5A7o2zNtQdC) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [Death Shall Have No Dominion](https://open.spotify.com/album/3iTGGhdy2wjqk4T4aP9g58) | 4:48 | 2025-02-07 |  |
+| [Death to the Crown](https://open.spotify.com/track/3hbdv07FRFwZyX5FeTCI5Z) | [The Haunted](https://open.spotify.com/artist/2WLmgv66Uq4vt2i36vwkAq) | [Songs Of Last Resort](https://open.spotify.com/album/4gGvvykDoDctKKSznfUJ0g) | 2:56 | 2025-05-30 |  |
 | [Death Trip](https://open.spotify.com/track/4Qru5HnqM2zCChnrUVtFnp) | [AAWKS](https://open.spotify.com/artist/6APXsZmC9JDy6xkLoZtlaS) | [Death Trip](https://open.spotify.com/album/2pXAnDxyItczWtONAaYS8l) | 5:16 | 2024-12-20 | 2025-04-11 |
 | [Death Won't Stop Me](https://open.spotify.com/track/6KfuErlMswYM7E1vfgfPfu) | [Spirit Adrift](https://open.spotify.com/artist/5sW5eR9g4kNibasfrlw4EN) | [Death Won't Stop Me](https://open.spotify.com/album/4zpaNtcVAhRuRmOOs4G774) | 4:26 | 2023-03-24 | 2024-02-03 |
 | [DEATHWESTERN](https://open.spotify.com/track/70Uqyz7UjUfmCFQSQN9p6w) | [Spiritworld](https://open.spotify.com/artist/3nKWlekyskH6bAM2Vat1hE) | [DEATHWESTERN](https://open.spotify.com/album/5yH2KEa6tVTfI9zTgwtVF1) | 3:26 | 2022-09-23 | 2023-07-15 |
@@ -477,6 +480,7 @@
 | [Lilac](https://open.spotify.com/track/6qevKIIxFnwZuhk93LZ1BX) | [Monasteries](https://open.spotify.com/artist/2EaeVm1MjlVtsUV0ebT0vB) | [Lilac](https://open.spotify.com/album/2cpSxn3vfj4aRwbI7XaLdC) | 4:03 | 2022-04-22 | 2023-07-15 |
 | [liMOusIne \(feat\. AURORA\)](https://open.spotify.com/track/6tVahG14lCjexVQnYWKgwF) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [POST HUMAN: NeX GEn](https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD) | 4:11 | 2024-05-24 | 2025-04-11 |
 | [Little Lord Fentanyl \(feat\. Puscifer\)](https://open.spotify.com/track/3jiZarLb1Jed79qbKNURVq) | [Primus](https://open.spotify.com/artist/64mPnRMMeudAet0E62ypkx), [Puscifer](https://open.spotify.com/artist/2pAajGWerK3ghwToNWFENS) | [Little Lord Fentanyl \(feat\. Puscifer\)](https://open.spotify.com/album/5HdJul7RnNldHxZc4DFz2h) | 3:44 | 2025-05-02 |  |
+| [Lonely God](https://open.spotify.com/track/5cNupHw6WZMRfFHTqsoACU) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [Lonely God](https://open.spotify.com/album/4WHoqXOY0kPwtiHK9Xcg19) | 3:17 | 2025-05-30 |  |
 | [Long Gone](https://open.spotify.com/track/1JqovbqNQa5deYzyNsy7nR) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Long Gone](https://open.spotify.com/album/7IyWrMFgNHZjbtSJhNn9cc) | 3:31 | 2024-11-15 | 2025-04-11 |
 | [LOOK OUT FOR ME](https://open.spotify.com/track/3gX1APRlWGUJF9DIYdD1gx) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [LOOK OUT FOR ME](https://open.spotify.com/album/0BUO6QDa4EBoVuMumIaAza) | 6:43 | 2025-05-23 |  |
 | [Loose Talk](https://open.spotify.com/track/11UO9AIzYPQfn91N093MTo) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB) | [Loose Talk](https://open.spotify.com/album/3HUFKFc1c2yA0KZq5VyORJ) | 3:26 | 2022-07-15 | 2023-07-15 |
@@ -723,6 +727,7 @@
 | [SHINMON](https://open.spotify.com/track/6cBjhYuDdctvdvaJzTvs3t) | [Knosis](https://open.spotify.com/artist/5o1BN92ZEG8TucPzj6czCh) | [SHINMON](https://open.spotify.com/album/4auOoqjhmOEJmQr85sHgu4) | 3:12 | 2025-04-11 |  |
 | [Shot Down](https://open.spotify.com/track/6rvlbf5Rle9exopdtBY3cL) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Shot Down](https://open.spotify.com/album/25RwbMetO9mwESyZvfIRAB) | 1:49 | 2023-03-03 | 2024-02-03 |
 | [Shroud of Gnarled Tongues](https://open.spotify.com/track/2VQEOgF0v5eNcvmKsX89pA) | [Serration](https://open.spotify.com/artist/5y0AgqzUHo3RjOYVCTmyRD) | [Shroud of Gnarled Tongues](https://open.spotify.com/album/3WIsfcmJPmhu4ovDl4MLzD) | 1:46 | 2023-07-28 | 2024-02-03 |
+| [SHUDDER](https://open.spotify.com/track/31hQASL6SxvvMExTQTbqBs) | [VOWWS](https://open.spotify.com/artist/7pBR5RoBlOm3oehKuFCxeb), [Josh Freese](https://open.spotify.com/artist/7EMrFlPVSDGQKOgtHKH28L), [James 'Munky' Shaffer](https://open.spotify.com/artist/4RsU9InU1hbPHzOFLh8eqI) | [SHUDDER](https://open.spotify.com/album/3Yhe1UC0HeYBX9EBi6H3qq) | 3:27 | 2025-05-30 |  |
 | [Sicarus](https://open.spotify.com/track/0LhOyuMZBY5GSlMVElIA3k) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Aghori Mhori Mei](https://open.spotify.com/album/2BoDjxlw4rrLUOaoVtarU1) | 4:15 | 2024-08-02 | 2025-04-11 |
 | [Sidewinder](https://open.spotify.com/track/4nfPatBDfuyGIiEulsNxf3) | [Volumes](https://open.spotify.com/artist/1DgmdsnwOexqTH8ohPCFAU) | [Sidewinder](https://open.spotify.com/album/3T8MDwZkCfPGGw5SByI38o) | 3:59 | 2025-03-28 |  |
 | [Siege Lord](https://open.spotify.com/track/4vmT3Rruzg7N0SCKJTI96u) | [Heriot](https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4) | [Siege Lord](https://open.spotify.com/album/3O1MrlUbcvMZgXlwbZKEuP) | 3:25 | 2024-05-03 | 2025-04-11 |
@@ -754,6 +759,7 @@
 | [Special](https://open.spotify.com/track/62camXiL7evu87vDZ7EKSH) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Special](https://open.spotify.com/album/6vnJda9u77ADNQED3jjI6r) | 2:57 | 2024-10-11 | 2025-04-11 |
 | [Spectral Forge](https://open.spotify.com/track/0nf5AK5juSdYHzeShAHKT5) | [Spinebreaker](https://open.spotify.com/artist/7riHR2ykMbIJW94DD69wAq) | [Spectral Forge](https://open.spotify.com/album/3KCmt7Caefq1d6KncnG4ex) | 4:44 | 2023-04-07 | 2024-02-03 |
 | [Spheres Of Virulence](https://open.spotify.com/track/1BtCMcJP1C27RmpWtjSVoh) | [Fugitive](https://open.spotify.com/artist/5Gn20zEvjiNUyQUIaItAlL) | [Spheres Of Virulence](https://open.spotify.com/album/6MbyB0Exv3oLpsoyOFiPFq) | 4:07 | 2025-05-16 |  |
+| [Spicy Queen](https://open.spotify.com/track/6UtV1xntPbEgbbY8Dh2tQn) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [Spicy Queen](https://open.spotify.com/album/6g6RUAmiCQbW9H8nq324XK) | 3:49 | 2025-05-30 |  |
 | [Spider Lilly](https://open.spotify.com/track/3oElmGvpqVbknoVioijD4v) | [King Diamond](https://open.spotify.com/artist/5i0ph60TnwTlIGrOZAmcZa) | [Spider Lilly](https://open.spotify.com/album/0PQ6bjvXCXtLHgDxNGwBxK) | 4:34 | 2024-12-20 | 2025-04-11 |
 | [Spineless](https://open.spotify.com/track/3DyZADMXRYg3fiJfNKEIVH) | [No/Más](https://open.spotify.com/artist/2MdtQasDIeUoPKbes49HCK) | [Spineless](https://open.spotify.com/album/6maK5nFaCDVU0mo0LyO0Wq) | 2:10 | 2023-11-03 | 2024-02-03 |
 | [Spineless](https://open.spotify.com/track/3humBBFUJMmniae4NmtNE6) | [Terminal Sleep](https://open.spotify.com/artist/4ahzetH2uUpYI8of4wDnaN) | [Spineless](https://open.spotify.com/album/1wc9aoueFnudq6b1HqvLvt) | 3:59 | 2024-05-31 | 2025-04-11 |

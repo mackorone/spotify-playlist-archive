@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "La sc\u00e8ne musicale montr\u00e9alaise au premier plan. Photo: Men I Trust",
+  "description": "La sc\u00e8ne musicale montr\u00e9alaise au premier plan. Photo: TOPS",
   "name": "Montr\u00e9al Chill",
   "tracks": [
     {
@@ -86,7 +86,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 300786,
       "name": "1.25",
       "url": "https://open.spotify.com/track/2DzAvXj0WgBFd65vcC9RNN"
@@ -1845,6 +1845,24 @@
     },
     {
       "album": {
+        "name": "Chlorine",
+        "url": "https://open.spotify.com/album/6XwXtVaQxXNBD9G6wihYp1"
+      },
+      "artists": [
+        {
+          "name": "TOPS",
+          "url": "https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161429,
+      "name": "Chlorine",
+      "url": "https://open.spotify.com/track/3p8G6cIqs5sinWIZ4MtlxN"
+    },
+    {
+      "album": {
         "name": "Choker",
         "url": "https://open.spotify.com/album/795cwI0M8cjrFb86T2dcqf"
       },
@@ -2646,6 +2664,24 @@
       "duration_ms": 149209,
       "name": "Digital Damage",
       "url": "https://open.spotify.com/track/6ysriWddMJP3xo4qElbQu7"
+    },
+    {
+      "album": {
+        "name": "Dire je t'aime au t\u00e9l\u00e9phone",
+        "url": "https://open.spotify.com/album/5KOJp5dEp5W2UYCoi6VFGn"
+      },
+      "artists": [
+        {
+          "name": "Frais Dispo",
+          "url": "https://open.spotify.com/artist/6TDKketvd7bXUsKVcMKMb9"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201474,
+      "name": "Dire je t'aime au t\u00e9l\u00e9phone",
+      "url": "https://open.spotify.com/track/5FDXAxzvWOAUwzy1f1Yk78"
     },
     {
       "album": {
@@ -3930,6 +3966,24 @@
       "duration_ms": 234454,
       "name": "Gordon in the Willows",
       "url": "https://open.spotify.com/track/5s4K20MHbY6jkjL1ISNDtq"
+    },
+    {
+      "album": {
+        "name": "Grand \u00e9cart",
+        "url": "https://open.spotify.com/album/7tmu5BrkgUXznUutObGBbx"
+      },
+      "artists": [
+        {
+          "name": "San James",
+          "url": "https://open.spotify.com/artist/0hIJpbVV7O5vBBhTQ4tXiH"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153226,
+      "name": "Grand \u00e9cart",
+      "url": "https://open.spotify.com/track/0fe8kIyWGG0g40DQ01iMAb"
     },
     {
       "album": {
@@ -7976,7 +8030,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 185133,
       "name": "Poup\u00e9e de cire",
       "url": "https://open.spotify.com/track/05F1uVYV1wpiACboQEQXQG"
@@ -9634,7 +9688,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 146486,
       "name": "Sunday Morning",
       "url": "https://open.spotify.com/track/2kV2gzrfWhoxXBumKCeh01"

@@ -4,7 +4,7 @@
 
 > Celebrating 10 years of fresh releases from your future favorite artists\. Cover: Kim Leo Artwork: Isu Kim
 
-3,265 songs - 7 day 23 hr 34 min
+3,266 songs - 7 day 23 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | ['Keep On Holding On Pt\. 2](https://open.spotify.com/track/1C9PNh3vxPy51yEOx5gLnm) | [Jace Roque](https://open.spotify.com/artist/6QA5BsEeCZuG2urVzZLCrk) | [Paradiso](https://open.spotify.com/album/52gOefu9YjgjJahyVqECMI) | 3:01 | 2024-05-23 | 2024-06-21 |
 | ['Lam Mong Wasak!](https://open.spotify.com/track/5np0AbtU6amknviWyhRkPx) | [Kenji The Plague](https://open.spotify.com/artist/7xPWLmOfBpEW4mCHMwnfLx) | ['Lam Mong Wasak!](https://open.spotify.com/album/3cfbuiHISZYHNDGkkguZgs) | 2:36 | 2023-05-25 | 2023-06-09 |
 | ['TIL THE DAYLIGHT](https://open.spotify.com/track/5wb2sOGuo0NyCIGJuJu0Cr) | [ACE$](https://open.spotify.com/artist/4JJnEFAIo6EiPMfmDVeQtS), [Shane](https://open.spotify.com/artist/1z72nMFtolqEV4KXotyigR) | ['TIL THE DAYLIGHT](https://open.spotify.com/album/14oKoPCchlmdAhEeHJuHl2) | 3:36 | 2022-03-03 | 2022-04-01 |
-| [\(D.I.Y\) DO IT YOURS](https://open.spotify.com/track/0hnDL2kwaTyeHenzh9MjfS) | [Icetizy](https://open.spotify.com/artist/29HItbAuiAW54evQC60jOh), [BABY P.](https://open.spotify.com/artist/7HYJVAHw6q3EO1XzKZILqf), [FULLY LOADED](https://open.spotify.com/artist/1Gut210BB6BEtrhamu5F75), [GOLDSOME](https://open.spotify.com/artist/5tbFoKM16HEWyR0Dllt3Oe), [T\-JAY](https://open.spotify.com/artist/57pcQtB8BmZAmEwgXgcjz7) | [\(D.I.Y\) DO IT YOURS](https://open.spotify.com/album/1nkCx9YFOC5RHYL6bajvj6) | 3:13 | 2025-05-22 |  |
+| [\(D.I.Y\) DO IT YOURS](https://open.spotify.com/track/0hnDL2kwaTyeHenzh9MjfS) | [Icetizy](https://open.spotify.com/artist/29HItbAuiAW54evQC60jOh), [BABY P.](https://open.spotify.com/artist/7HYJVAHw6q3EO1XzKZILqf), [FULLY LOADED](https://open.spotify.com/artist/1Gut210BB6BEtrhamu5F75), [GOLDSOME](https://open.spotify.com/artist/5tbFoKM16HEWyR0Dllt3Oe), [T\-Jay](https://open.spotify.com/artist/7nbukoPSPju3vc02a4mgLy) | [\(D.I.Y\) DO IT YOURS](https://open.spotify.com/album/1nkCx9YFOC5RHYL6bajvj6) | 3:13 | 2025-05-22 |  |
 | [\(I'm So\) Into You](https://open.spotify.com/track/5B2gvzruSHxFbADMNSlTHT) | [Will Mikhael](https://open.spotify.com/artist/13dw9nAz9MLBNwWVOsxHWP) | [\(I'm So\) Into You](https://open.spotify.com/album/2E9QRp6RyeH9uzSqeq3bzc) | 3:46 | 2023-11-02 | 2023-12-09 |
 | [\(Life in Parenthesis\)](https://open.spotify.com/track/0T85vwx6wCLth3TO21uCXw) | [Stephanie Zubiri](https://open.spotify.com/artist/7hYTGQTPWe83vCza935TDi) | [\(Life in Parenthesis\)](https://open.spotify.com/album/3r9HrEIROYMknOZ56XWSw4) | 3:51 | 2025-03-13 | 2025-04-25 |
 | [040412](https://open.spotify.com/track/5JzMweDMqHqkxYGDLEoH8A) | [OG Presko](https://open.spotify.com/artist/3JfCT6OJ0gBsOw0VbKKOJd) | [040412](https://open.spotify.com/album/7Ew9iMLetRzKWfS7aVtPiV) | 1:51 | 2024-11-29 | 2024-12-05 |
@@ -2139,7 +2139,7 @@
 | [Over And Over](https://open.spotify.com/track/2LUCDDBfLg5ynr1XsV21F1) | [Mcjeam Ariexs](https://open.spotify.com/artist/5MEV8S8Wdd7wcXi4YCYDrp) | [Over And Over](https://open.spotify.com/album/1sUjRKm057sfx3WuhYl1Gp) | 3:35 | 2023-04-20 | 2023-05-12 |
 | [Over Time \(for you, my heart\)](https://open.spotify.com/track/02v8Dlb1prgEh9V2Hr5Fp9) | [Calvin Keith](https://open.spotify.com/artist/42pNpv8jLdLIBfjJu43S87) | [Over Time \(for you, my heart\)](https://open.spotify.com/album/28Os7MpFW7yEeVux1zkeak) | 3:14 | 2023-06-22 | 2023-07-14 |
 | [Over You](https://open.spotify.com/track/7EKmY5t7XITgFH8Nthiq31) | [Maverickk](https://open.spotify.com/artist/5D83ftIklnCC45NmNLQmJS) | [Over You](https://open.spotify.com/album/1p9zU5SIGnELnr1cxdb2Ch) | 1:56 | 2024-02-22 | 2024-03-22 |
-| [Overdrive](https://open.spotify.com/track/6lEk6ZqmKPFoJIedW9bB91) | [JUICEBOX \(JCBX\)](https://open.spotify.com/artist/4EtHTOFl2Iw8ZuTtnb4WzN) | [Overdrive](https://open.spotify.com/album/031ocU98zrKhbDam7fYCm6) | 3:56 | 2025-05-30 |  |
+| [Overdrive](https://open.spotify.com/track/6lEk6ZqmKPFoJIedW9bB91) | [JUICEBOX](https://open.spotify.com/artist/7Ejg2q3UxsFljve1PCaRdi) | [Overdrive](https://open.spotify.com/album/031ocU98zrKhbDam7fYCm6) | 3:56 | 2025-05-30 |  |
 | [overpour](https://open.spotify.com/track/0baj7qfpm4JPLtOK5rvX3q) | [Annie Lux](https://open.spotify.com/artist/54vSGePBrdJojNSXh13DwN) | [overpour](https://open.spotify.com/album/4eKPpMcTekzgvIOFB3cjN8) | 2:36 | 2023-10-12 | 2023-11-11 |
 | [Overtime](https://open.spotify.com/track/3Kw4LwmkY3gPcCCiDldBn7) | [Monne Liera](https://open.spotify.com/artist/4otbq3fbjmPI60TDrb2pcK) | [Overtime](https://open.spotify.com/album/5BRhOXAxZdHx7FDwvQc8PK) | 3:15 | 2022-09-08 | 2023-01-13 |
 | [Overused Old Skools](https://open.spotify.com/track/1TTKVGYFSKqCRKyfrFTGWs) | [Dispatcher](https://open.spotify.com/artist/2dvpIzflxrYv35grTMTAYd), [Yoshi the Spirit](https://open.spotify.com/artist/6zcjTldNZ90HxNQzaJBO8p) | [Overused Old Skools](https://open.spotify.com/album/0ECHfsHVANSzx3CXDexjSa) | 3:16 | 2024-01-11 | 2024-02-09 |
@@ -2683,6 +2683,7 @@
 | [Sky Rocket](https://open.spotify.com/track/0YBw27KSYugy0YRdIM9yYo) | [boblenn.art](https://open.spotify.com/artist/29BpMIBmPdUrBPTIULrbCa) | [Sky Rocket](https://open.spotify.com/album/5Tm6p4o9CA28NKuGDoKeRw) | 3:21 | 2022-01-27 | 2022-02-11 |
 | [Skyline](https://open.spotify.com/track/6qNVW7gJgXro8ucStDf44W) | [Rafael Jacoba](https://open.spotify.com/artist/2B2UW6jlWymHG8mbb0Hnpz) | [Skyline](https://open.spotify.com/album/7p0VfoTB04mh1ANgDvMZFQ) | 4:20 | 2025-01-31 | 2025-03-21 |
 | [Skyway](https://open.spotify.com/track/3JPMsdlZ35sEMrwuTtNXGv) | [Val](https://open.spotify.com/artist/5FLeLeGDXmKKjEuCHVW5kL) | [Skyway](https://open.spotify.com/album/0DnRtogn4CCwk0jEiM9BOt) | 2:34 | 2025-04-03 | 2025-05-09 |
+| [Slide](https://open.spotify.com/track/6vCKHY4seKpETYzycjIy26) | [Eloy](https://open.spotify.com/artist/2PRONdEFScNIwqtVvrorTy), [CIL](https://open.spotify.com/artist/2B34iovLmmTJwhTrJmayso) | [Slide](https://open.spotify.com/album/4olJGBFFm8VZS90eDaDZ0U) | 2:26 | 2025-05-30 |  |
 | [Slide](https://open.spotify.com/track/5ef4XfUXwO4TXfXxyGvhiC) | [Notkyle](https://open.spotify.com/artist/6NbOllM9XjgO44JQyhUv6D) | [Slide](https://open.spotify.com/album/3TB56jpGZ7chXbkfCZ7TGq) | 2:52 | 2023-11-09 | 2023-12-09 |
 | [SLIDE THRU](https://open.spotify.com/track/6T7Pdk1iHsGDbJyYsvOzg7) | [CoassideLazy](https://open.spotify.com/artist/6YCE8Cccbdqk1dmI3DjT2m), [OG Presko](https://open.spotify.com/artist/3JfCT6OJ0gBsOw0VbKKOJd) | [SLIDE THRU](https://open.spotify.com/album/2KPlSUh2Cr77XUbd3AzlG5) | 4:12 | 2025-03-13 | 2025-04-25 |
 | [Slo Mo](https://open.spotify.com/track/3QyJtxk48w994tMAfeQX1n) | [GundamFunk](https://open.spotify.com/artist/0CaK3E9k5vm6FUdodiRhWi) | [Slo Mo](https://open.spotify.com/album/3oLzEJIGp1DycGdR3FHN9X) | 4:06 | 2025-05-30 |  |

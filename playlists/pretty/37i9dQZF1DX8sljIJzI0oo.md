@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > 🔥 A new mixtape drop every Thursday 🔥 Lemuell is bringing the heat this week!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,931,176 likes - 20 songs - 1 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,931,219 likes - 20 songs - 1 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [No Signal](https://open.spotify.com/track/6xHIG58E2FngeHZ2t33wg3) | [Lemuell](https://open.spotify.com/artist/1K24hVea1ECJAvdH8fuqSB), [Sanchz](https://open.spotify.com/artist/0G35WrrhXWCv2Un6ImamhF) | [No Signal](https://open.spotify.com/album/6gKMRTOL56AOoLwxzzZo4U) | 2:41 |
 | 2 | [WOAHH \(feat\. Clarent\)](https://open.spotify.com/track/7MNGE2R8drq3d04vH5Ahlm) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY) | [WOAHH \(feat\. Clarent\)](https://open.spotify.com/album/0gbMkiBhxKylsgLDimcb0M) | 4:19 |
 | 3 | [MÁS QUE ALGO](https://open.spotify.com/track/3Ob9NJaBlOGDvndnG6G2PW) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [LO MISMO DE SIEMPRE](https://open.spotify.com/album/3beZ5DRcWVTpXaU3ViLIF6) | 4:02 |
-| 4 | [UNA NOCHE DE LOCURA](https://open.spotify.com/track/3L5V6BpgH5g9V5sMR24MWg) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [UNA NOCHE DE LOCURA](https://open.spotify.com/album/7oyUvM6kWg2uedggrMM21Y) | 2:44 |
+| 4 | [UNA NOCHE DE LOCURA](https://open.spotify.com/track/3L5V6BpgH5g9V5sMR24MWg) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Tayson Kryss](https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7), [Joseph Ren](https://open.spotify.com/artist/0TG7p0ATDDBfhBjl9EBvIb), [Sebastian Ledher](https://open.spotify.com/artist/6KUSLPXO8e94sZWVksv4nn) | [UNA NOCHE DE LOCURA](https://open.spotify.com/album/7oyUvM6kWg2uedggrMM21Y) | 2:44 |
 | 5 | [QLOO\*](https://open.spotify.com/track/2mdrVnxEnPR6iFijakkxQS) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Kreamly](https://open.spotify.com/artist/3g9MKjIP9xrMTY5Pbwr6Nk) | [QLOO\*](https://open.spotify.com/album/2GgT2TLwb9WzzYcUuspH5L) | 2:28 |
 | 6 | [OH WOW](https://open.spotify.com/track/2CVQ3jo9g4SfLv1jXburFL) | [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY) | [OH WOW](https://open.spotify.com/album/3bxnH77ofJYkCpBq97YVAg) | 3:46 |
 | 7 | [ANDO XXIL](https://open.spotify.com/track/0LxKI4Y1yMuJZzdJKcttU0) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [ANDO XXIL](https://open.spotify.com/album/2VlUUrcJ3eXaSZmU4djR3P) | 2:50 |
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 | 19 | [LOKiTA](https://open.spotify.com/track/2a4xiwEChjGcdbRbeaDAmG) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [111XPANTIA \(Deluxe\)](https://open.spotify.com/album/5h9OPxhByc4FaeqeNM6rCT) | 3:29 |
 | 20 | [Te Colaboro \- Remix](https://open.spotify.com/track/0OqrGVB6yyf3Sr7mow7X59) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ) | [Te Colaboro \(Remix\)](https://open.spotify.com/album/2Jazbm8VqHsSXpmSipgCON) | 5:21 |
 
-Snapshot ID: `aDfb1QAAAABY/Ig0mMFYhfABEtcPZsay`
+Snapshot ID: `aDfb1QAAAADqUg3tQU0JMMVUnloWfQKc`

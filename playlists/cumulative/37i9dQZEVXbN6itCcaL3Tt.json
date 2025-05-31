@@ -5506,7 +5506,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 158709,
       "name": "Blackjack",
       "url": "https://open.spotify.com/track/7hDHLBBjdjF7N6sjx7S6VL"
@@ -6284,7 +6284,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 145210,
       "name": "BRAND NEW SQ8",
       "url": "https://open.spotify.com/track/6Sn6v4Q8JrDVySRamxPXeX"
@@ -13370,7 +13370,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-29",
+      "date_removed": null,
       "duration_ms": 173746,
       "name": "Espresso Macchiato",
       "url": "https://open.spotify.com/track/3gWBWLw3J3XTy3QTo36GqJ"
@@ -13388,7 +13388,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 173746,
       "name": "Espresso Macchiato",
       "url": "https://open.spotify.com/track/4zpNfuWJA3K4d9TS4qnOIB"
@@ -30882,7 +30882,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-25",
+      "date_removed": null,
       "duration_ms": 178893,
       "name": "O Pani!",
       "url": "https://open.spotify.com/track/12BwVTLEvpQREU9mmb8H3C"
@@ -34727,6 +34727,32 @@
     },
     {
       "album": {
+        "name": "Po mojemu albo po mnie - Nowe Rozdanie | S1",
+        "url": "https://open.spotify.com/album/5KRR9HaoYayCsd9x7yd066"
+      },
+      "artists": [
+        {
+          "name": "Zippy Ogar",
+          "url": "https://open.spotify.com/artist/4Gtcjb9mBxQhQMIoktLSkU"
+        },
+        {
+          "name": "@atutowy",
+          "url": "https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a"
+        },
+        {
+          "name": "Nowe Rozdanie",
+          "url": "https://open.spotify.com/artist/0M7n5Rct99GLcaEoD5wPt8"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168965,
+      "name": "Po mojemu albo po mnie - Nowe Rozdanie | S1",
+      "url": "https://open.spotify.com/track/13rD30ryASvBVoq1xdptne"
+    },
+    {
+      "album": {
         "name": "A nie m\u00f3wi\u0142em?",
         "url": "https://open.spotify.com/album/3NJuag7R7RxVnIF2g29xPe"
       },
@@ -35464,6 +35490,32 @@
       "duration_ms": 242181,
       "name": "Postanowienia noworoczne",
       "url": "https://open.spotify.com/track/1Ask5pIOHe3khrx2hYVYcX"
+    },
+    {
+      "album": {
+        "name": "Potwory i sp\u00f3\u0142ka - Nowe Rozdanie | S1",
+        "url": "https://open.spotify.com/album/43ZA7IFUkCrijWTFEcZXIj"
+      },
+      "artists": [
+        {
+          "name": "po prostu Kajtek",
+          "url": "https://open.spotify.com/artist/2kk3YwIOrWbZHk9O3HKNY3"
+        },
+        {
+          "name": "Kubi Producent",
+          "url": "https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht"
+        },
+        {
+          "name": "Nowe Rozdanie",
+          "url": "https://open.spotify.com/artist/0M7n5Rct99GLcaEoD5wPt8"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187176,
+      "name": "Potwory i sp\u00f3\u0142ka - Nowe Rozdanie | S1",
+      "url": "https://open.spotify.com/track/2ZBrW0kxfB4vctMPJ03wqI"
     },
     {
       "album": {
@@ -45580,7 +45632,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 190975,
       "name": "up! up! up!",
       "url": "https://open.spotify.com/track/1PlysCdOuMYvE8imkyvHLx"

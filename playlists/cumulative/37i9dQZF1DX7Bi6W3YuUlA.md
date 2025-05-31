@@ -4,7 +4,7 @@
 
 > Inspirational hip\-hop\. Cover: Miles Minnick and Lecrae
 
-509 songs - 1 day 1 hr 25 min
+510 songs - 1 day 1 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Black Is Beautiful \(feat\. Sampa The Great\) \[Remix\]](https://open.spotify.com/track/55GeshMMHbwsZcqkk2FX0D) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [Black Is Beautiful \(feat\. Sampa The Great\) \[Remix\]](https://open.spotify.com/album/0p55YuC0svGxNXuCeFS96v) | 3:42 | 2022-03-25 | 2022-04-21 |
 | [Bless Me](https://open.spotify.com/track/0WMYu6uFAfj9FBcKD2N5BF) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce), [Jordan May](https://open.spotify.com/artist/0lx6baQe1oEBLm8jkDWI8v) | [Fission](https://open.spotify.com/album/0o0XNg5iRRUBd1LSArLMvr) | 3:34 | 2024-06-25 |  |
 | [Blessed \(with Tyga\)](https://open.spotify.com/track/4TkKMTIQtdkVEUK8g2xfx8) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Blessed \(with Tyga\)](https://open.spotify.com/album/3odJtXeQYxre2eGW2iNJ03) | 2:28 | 2022-03-25 | 2022-04-20 |
+| [Blessing](https://open.spotify.com/track/0TmGVDYgQa9gk4vou7metV) | [22Gz](https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz), [iZZE](https://open.spotify.com/artist/7gCDtSxLZtsjRtrY2h7x0I), [Dubba\-AA](https://open.spotify.com/artist/0imTTiC5dn6qy1VNS9Ituf) | [Blessing](https://open.spotify.com/album/2kPjQ65imOUlNibmus814I) | 3:15 | 2025-05-30 |  |
 | [Blessings](https://open.spotify.com/track/1gIqqNWgQMdjzOsBedM2Ph) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Lost In Melody](https://open.spotify.com/album/5T3IUCaNX06cTAk38oZlIj) | 2:25 | 2024-06-25 | 2025-03-01 |
 | [BLESSINGS](https://open.spotify.com/track/4mvgPHLTLG2sOfPXgzpQmN) | [MTM Isaiah](https://open.spotify.com/artist/3cPHYFWU14POI3ky9F4mNy) | [BLESSINGS](https://open.spotify.com/album/6ow7uliwOAfoz3q7c95zd6) | 2:52 | 2022-11-18 | 2024-06-26 |
 | [Blessings from You](https://open.spotify.com/track/6nSwLd1Bfw7P2U0wKa8skc) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y) | [Blessings from You](https://open.spotify.com/album/33zun5PDGGOUHjtJ6lD11c) | 3:26 | 2024-08-26 |  |
@@ -176,7 +177,7 @@
 | [Great Is He](https://open.spotify.com/track/7baxiYAhAx9MHum5NhtOML) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Great Is He](https://open.spotify.com/album/0F2g2Lr7ejLUJkLKToHRSf) | 3:21 | 2023-02-18 | 2024-11-25 |
 | [Grind \(feat\. Kaleb Mitchell\)](https://open.spotify.com/track/3EVYGJMre02KMtDbnvBLI8) | [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU), [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq), [Kaleb Mitchell](https://open.spotify.com/artist/2h3jxkJKn7aBCd9WimAJiq) | [Grind \(feat\. Kaleb Mitchell\)](https://open.spotify.com/album/23zxLb7w5htCeR3xTolpFk) | 3:06 | 2022-11-18 |  |
 | [Hands on Me](https://open.spotify.com/track/4fJPzIrLQPeHl9ONB4bPCD) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7), [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [Hands on Me](https://open.spotify.com/album/0biyWpaRqrmazzLwt0pqts) | 2:16 | 2024-08-26 |  |
-| [Hard Times \(Smile\) \[feat\. Teyana Taylor\]](https://open.spotify.com/track/1dg2Fieia98ysgTLRueLiY) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx), [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [Based on a True Story](https://open.spotify.com/album/4iLHF8zxDXeBowudrI2KtT) | 3:31 | 2025-03-28 |  |
+| [Hard Times \(Smile\) \[feat\. Teyana Taylor\]](https://open.spotify.com/track/1dg2Fieia98ysgTLRueLiY) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx), [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [Based on a True Story](https://open.spotify.com/album/4iLHF8zxDXeBowudrI2KtT) | 3:31 | 2025-03-28 | 2025-05-31 |
 | [Have Me](https://open.spotify.com/track/6Z1f1hRzEp9ysuprxhNdc5) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [Have Me](https://open.spotify.com/album/07aeUxGzUanC8MPZ5Syw7k) | 2:48 | 2022-11-18 | 2024-06-26 |
 | [HEAD TO HADES](https://open.spotify.com/track/58sGcIFRdGOQ7bUi62HBes) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Foggieraw](https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM), [Royce Da 5'9"](https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns) | [moMINTs](https://open.spotify.com/album/2w6rI5vijQ6SnOyH0UN4S2) | 2:55 | 2023-02-18 | 2024-08-27 |
 | [Heart Of Stone](https://open.spotify.com/track/6lvpoTzcmKZ1j0GceiPvdz) | [Jordan May](https://open.spotify.com/artist/0lx6baQe1oEBLm8jkDWI8v) | [Heart Of Stone](https://open.spotify.com/album/2Byl93qpgHvXUwDOjWQ6sf) | 4:15 | 2024-06-25 |  |

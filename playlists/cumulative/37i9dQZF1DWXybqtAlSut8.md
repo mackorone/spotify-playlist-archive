@@ -4,7 +4,7 @@
 
 > Christian instrumental worship for moments of calm, relaxation and reflection.
 
-97 songs - 4 hr 9 min
+98 songs - 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Sweet Hour Of Prayer](https://open.spotify.com/track/0kxftcnP8dnDJmU38gG5dc) | [Eric Sebastian](https://open.spotify.com/artist/5jVvCMHfdjbTVXntiqRhKp) | [Sweet Hour Of Prayer](https://open.spotify.com/album/4wD93qlTwPBFDhtMC0DOY1) | 3:26 | 2024-03-20 |  |
 | [The Creation Praise You Pt.2](https://open.spotify.com/track/0pcRN3rMp4HP0EAZ3nEVd3) | [Alexander Sundstrom](https://open.spotify.com/artist/4LnkZVv27mMYZ7lVYJvu1b) | [Eternal Moments](https://open.spotify.com/album/2G2YBVIdKF3rYcnLeP8tJD) | 1:10 | 2024-03-20 |  |
 | [The Light Upon Me](https://open.spotify.com/track/6YghDmxhRBWyWFNyG8P150) | [George Agate](https://open.spotify.com/artist/6ttrQpo8aOzfGeIBUAwEAO) | [The Light Upon Me](https://open.spotify.com/album/2j594o5l0dNGk1GPIKKftA) | 2:09 | 2025-03-11 |  |
+| [The right path](https://open.spotify.com/track/4UsFbn0zAvTMTZtsj0aXPo) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [The right path](https://open.spotify.com/album/0IiJjP8eyTGhokoQoUigfs) | 2:41 | 2025-05-30 |  |
 | [The Seventh Day](https://open.spotify.com/track/0dYD6NBg0Bgou3kY3Ko3V7) | [Joel Carrington](https://open.spotify.com/artist/09DPxIQWwKpQSRHsn5CNcf) | [The Seventh Day](https://open.spotify.com/album/4Gtm11NXJxrPveqKrS9AUA) | 2:11 | 2025-04-29 |  |
 | [The Valley](https://open.spotify.com/track/37Y8uCJeXBbIl6cpK3j76K) | [Bernard Svejk](https://open.spotify.com/artist/7dZPIvRoTwhm9GRf77h2n5) | [The Valley](https://open.spotify.com/album/5s6K2oITckimGYikjGR5yX) | 2:26 | 2024-11-19 | 2024-11-30 |
 | [This Is How I Thank The Lord](https://open.spotify.com/track/2R2cs5oc2cWfv6GqYyu84M) | [Piano Praises](https://open.spotify.com/artist/7e4xD2CTQeYKxWxKNG6XVn) | [Burn Bright: Instrumental Worship](https://open.spotify.com/album/46m3UsnSj8ldBmuLOr5cTR) | 3:08 | 2024-03-20 | 2025-03-05 |

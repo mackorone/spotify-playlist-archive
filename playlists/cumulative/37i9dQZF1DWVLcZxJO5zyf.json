@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Ou\u00e7a todas as novidades e hits do pop br aqui e agora! Foto: Ana Laura Lopes",
+  "description": "Ou\u00e7a todas as novidades e hits do pop br aqui e agora! Foto: Lagum",
   "name": "Pop Brasil",
   "tracks": [
     {
@@ -138,6 +138,24 @@
       "duration_ms": 168000,
       "name": "7AM 00s",
       "url": "https://open.spotify.com/track/2WkVq24b888EIce8HOWofB"
+    },
+    {
+      "album": {
+        "name": "As Cores, as Curvas e as Dores do Mundo",
+        "url": "https://open.spotify.com/album/7LHPGpPZV2duyGmI2KthiX"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163185,
+      "name": "A Cidade",
+      "url": "https://open.spotify.com/track/6chCkT8RkDC0kM66HKfPQb"
     },
     {
       "album": {
@@ -1079,6 +1097,28 @@
     },
     {
       "album": {
+        "name": "FRAGMENTADO",
+        "url": "https://open.spotify.com/album/00EpdnJTbeKfWrc7FI7Q2H"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Nansy Silvvz",
+          "url": "https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194782,
+      "name": "BASQUIAT",
+      "url": "https://open.spotify.com/track/0gXPalg35be7z7TONlqJl0"
+    },
+    {
+      "album": {
         "name": "belo horizonte (metade de mim)",
         "url": "https://open.spotify.com/album/0G8JkUOLgYOf5XfgL8Fw2N"
       },
@@ -1992,7 +2032,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 306281,
       "name": "DEIXA ESTAR",
       "url": "https://open.spotify.com/track/1h1uyRSbfQYgckDfb9EeyQ"
@@ -3642,6 +3682,24 @@
       "duration_ms": 160480,
       "name": "LolOLove (feat. Pabllo Vittar)",
       "url": "https://open.spotify.com/track/2ZGXvRgRgUBpMTdflzPEOy"
+    },
+    {
+      "album": {
+        "name": "IRADOH",
+        "url": "https://open.spotify.com/album/4WgX6CsBHsZ8D3QzQEYFdS"
+      },
+      "artists": [
+        {
+          "name": "HODARI",
+          "url": "https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169484,
+      "name": "Longe De Mim",
+      "url": "https://open.spotify.com/track/1vA8qPRhgd9pv2egwvwPjW"
     },
     {
       "album": {
@@ -6838,7 +6896,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 238656,
       "name": "Senhorita XX",
       "url": "https://open.spotify.com/track/6vQJTFZI2ZEuWxfkY1f9aH"
@@ -8174,7 +8232,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 150094,
       "name": "Vibe",
       "url": "https://open.spotify.com/track/4xr8PBYkzEAbgTuuPF1YMF"

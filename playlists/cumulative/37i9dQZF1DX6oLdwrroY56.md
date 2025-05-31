@@ -4,7 +4,7 @@
 
 > pinoy alternative music \. Cover: ena mori
 
-180 songs - 11 hr 33 min
+182 songs - 11 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [\_enero \(feat\. Rreyo Obero\)](https://open.spotify.com/track/2XeqHpVslF6YNPWy5pQRk7) | [Luke April](https://open.spotify.com/artist/4HzeCMhywzJSG6uixss0rJ), [Rreyo Obero](https://open.spotify.com/artist/55mghnwb99ICUylLaN3uBs) | [\_enero](https://open.spotify.com/album/6XhmoEnRzbCUEv2Flb6OoG) | 3:35 | 2024-04-26 | 2025-02-06 |
 | [A Way Out](https://open.spotify.com/track/7Cey4kxrNuZfFz07mFsPPE) | [Eliza Marie](https://open.spotify.com/artist/2J15J7lLY74L3uG6mvPVnc) | [A Way Out](https://open.spotify.com/album/7JRPFxQUKZGQJAmwq5FT0w) | 3:00 | 2023-10-13 | 2023-10-28 |
 | [Accidents](https://open.spotify.com/track/7lMWnmbFWP1Rg0cSICKmjx) | [Cheats](https://open.spotify.com/artist/4XUJ1FQti6aKrUrZTCBFKz) | [Cheats](https://open.spotify.com/album/7fy9ViwHRwWAEmG4upZLn9) | 3:55 | 2024-11-06 |  |
+| [AKIN](https://open.spotify.com/track/5MT8VS94CftuX3KdPZdBUn) | [LUMI](https://open.spotify.com/artist/0ih2mQrqesmfugYZ2WNLJZ) | [AKIN](https://open.spotify.com/album/4KKSk2igvtrIzzb2AtoxJX) | 3:04 | 2025-05-30 |  |
 | [Aking Araw, Araw\-Araw](https://open.spotify.com/track/4ZHwzYR9RBQN5AZhilFJUp) | [Tema](https://open.spotify.com/artist/0JHGjAEXAEzNH9nEv6Q3TB) | [Aking Araw, Araw\-Araw](https://open.spotify.com/album/013JCUPCrH1lYZZTyDWy2m) | 4:56 | 2024-06-21 | 2024-10-19 |
 | [Alitan](https://open.spotify.com/track/2Gv2G2MVmS2jejPj10SeRE) | [12th Street](https://open.spotify.com/artist/1WzkRNh7qkdpJIIuJ0ZWWG) | [Alitan](https://open.spotify.com/album/3fcCX9wgldCwjoP3WfXgtf) | 4:12 | 2024-10-18 |  |
 | [all along \(you were right there\)](https://open.spotify.com/track/1s5kvzPk0EeandHdA4qb7g) | [Wiji Kun](https://open.spotify.com/artist/1X3KbP5esRXH95jVlTi1R6) | [all along \(you were right there\)](https://open.spotify.com/album/49ZZqRW6PNEGYNRP90523b) | 2:53 | 2025-02-12 |  |
@@ -167,6 +168,7 @@
 | [Superhuman](https://open.spotify.com/track/6M99IQOuFJ5cVdROxsBfRW) | [Doughbaby](https://open.spotify.com/artist/2R7aG4RRGoFpgMAf8Iuz4T), [Rees Gonzales](https://open.spotify.com/artist/7CRciD57UzAgDaHo8CfJWd) | [Superhuman](https://open.spotify.com/album/0asDwjulJNbXs4j0dt3dVX) | 4:15 | 2023-10-27 | 2025-01-17 |
 | [Superhuman](https://open.spotify.com/track/1HeGR9Pi3TCVDl4jrHZv2j) | [Rees Gonzales](https://open.spotify.com/artist/7CRciD57UzAgDaHo8CfJWd), [Doughbaby](https://open.spotify.com/artist/2R7aG4RRGoFpgMAf8Iuz4T) | [Superhuman](https://open.spotify.com/album/1zLtYbdACs3Y823URmquVY) | 4:15 | 2023-10-13 | 2024-06-22 |
 | [Suya\-suyo](https://open.spotify.com/track/7fa1TUj6YM3qLrEIQAVONY) | [Frisbee](https://open.spotify.com/artist/1VBkwOEyc2ccSel29Pcimq) | [Suya\-suyo](https://open.spotify.com/album/7zr5HjJ3uH9Gkx5qiKzaSC) | 3:06 | 2025-02-05 |  |
+| [Sweet Like Sunshine](https://open.spotify.com/track/4S6bmWdDRNCwfE19faLxln) | [AEUNA](https://open.spotify.com/artist/1w922m1J6GxqQsH7IdLO1Y), [Martinightz](https://open.spotify.com/artist/3LJkjwvkOVLkVF2lMKO9vu), [Kief Kionisala](https://open.spotify.com/artist/1hCM6QcqM7ONnhBLyNDm1a) | [Sweet Like Sunshine](https://open.spotify.com/album/62NMYMEy00pQJCI5527L8u) | 2:54 | 2025-05-30 |  |
 | [Sy](https://open.spotify.com/track/4ckqv8nO8cvqdCXe1pJKTG) | [Joshua Khaled](https://open.spotify.com/artist/6keXdTyN2lpda6B1XmVM6v) | [Sy](https://open.spotify.com/album/18KzzEHs4LZxkMOgZEpO9v) | 5:24 | 2023-10-13 | 2023-11-19 |
 | [Tagsilaw \(Pinilit Ko Man\)](https://open.spotify.com/track/5qCbzsd69aS34UN3WcxzZU) | [HNT](https://open.spotify.com/artist/7aL6rI1bHOBUAtmLPCxfNR) | [Tagsilaw \(Pinilit Ko Man\)](https://open.spotify.com/album/0NN6egJCbuG4WrmCLRqvv1) | 3:42 | 2023-10-13 | 2025-01-17 |
 | [Tayo \(ating istorya\)](https://open.spotify.com/track/2gOUaFafMr7UXmPHhlu1wm) | [JEL REY](https://open.spotify.com/artist/78BjejowI3HzCblRlIj5Jd) | [TERAPEWTIKA](https://open.spotify.com/album/4vdu6ZL5oS601mrZj5uYQN) | 5:21 | 2023-11-10 | 2025-01-17 |

@@ -2,9 +2,9 @@
 
 ### [soda](https://open.spotify.com/playlist/37i9dQZF1DXaK0O81Xtkis)
 
-> a little indie, a little pop\.  Cover: Alessi Rose
+> a little indie, a little pop\.  Cover: Eli
 
-1,339 songs - 2 day 18 hr 39 min
+1,344 songs - 2 day 18 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -663,6 +663,7 @@
 | [karma](https://open.spotify.com/track/5SCBS0esfqeL54ZCw6Revb) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [karma](https://open.spotify.com/album/5tuUCB6Pgaf8BbS7rPquSJ) | 2:48 | 2022-10-28 | 2023-03-04 |
 | [kassidy](https://open.spotify.com/track/5jrwsc97zyaJrO3I7C2bHQ) | [dempsey hope](https://open.spotify.com/artist/6ZzYOQMKYTj2lJeAitjSl7) | [kassidy](https://open.spotify.com/album/70dj45RyTwssfdSSg9qAUL) | 2:21 | 2022-09-02 | 2022-09-24 |
 | [Keep It Up](https://open.spotify.com/track/3B7cm8w1IAfOfgQHFvAsft) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Keep It Up](https://open.spotify.com/album/2BfzJ8ozCGDPTD9TXNPGrL) | 2:36 | 2024-04-05 | 2024-06-01 |
+| [Keeping Score](https://open.spotify.com/track/0rfOB4iAlPa5bSluHxZfTf) | [SUM SUN](https://open.spotify.com/artist/3Rkl3UpmEVgW3vEoISzJUT) | [Keeping Score](https://open.spotify.com/album/5schDejMf0DBdtxhSgp63Q) | 3:06 | 2025-05-30 |  |
 | [Kick in the Teeth](https://open.spotify.com/track/09IAjxegM08998hgb6ZScZ) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Kick in the Teeth](https://open.spotify.com/album/7zeuAUF8ieCxZ5P9wUxOBB) | 2:47 | 2023-02-24 | 2023-04-22 |
 | [Kids](https://open.spotify.com/track/6EmYpFjAcFMF5dt2krHSSt) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Kids](https://open.spotify.com/album/3A7lw3LCydkMHdvFS7nv1K) | 2:58 | 2024-05-03 | 2024-07-06 |
 | [Kids in America \(From the Netflix Film "Do Revenge"\)](https://open.spotify.com/track/1JN2dN2AVW0EfJMhXniTLi) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Kids in America \(From the Netflix Film "Do Revenge"\)](https://open.spotify.com/album/1EBYX0KRDEmZLFjoSQabzT) | 3:14 | 2022-09-16 | 2022-12-03 |
@@ -718,6 +719,7 @@
 | [Like the Holidays](https://open.spotify.com/track/0BfItkSeBQM1qXUXT1EJ06) | [The Astronomers](https://open.spotify.com/artist/3jx7HGyoa2APekVbiXZvFh) | [Like the Holidays](https://open.spotify.com/album/2duFauhPjyHqN05fpWfD61) | 2:59 | 2022-07-08 | 2022-08-27 |
 | [LIMBO](https://open.spotify.com/track/0vgsQOziTKE4oaSu8TkGs7) | [Josie Dunne](https://open.spotify.com/artist/2KgFtUjEtayfuximKppSAq) | [MARCO!](https://open.spotify.com/album/012M45feGa1rFDG0iiywJA) | 2:14 | 2023-06-30 | 2023-07-29 |
 | [Limelight](https://open.spotify.com/track/4xIRhtPC9MbM2YTHYIzw32) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Limelight](https://open.spotify.com/album/6OszKA7UjG2z5xc8c36sId) | 3:00 | 2023-07-14 | 2024-01-05 |
+| [lips](https://open.spotify.com/track/2wQ7cDLALd9OlYMEkhtgwx) | [Haiden Henderson](https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p) | [lips](https://open.spotify.com/album/4E8mMaltzJAmoAPciU7S3b) | 2:38 | 2025-05-30 |  |
 | [Little Acts Of Violence](https://open.spotify.com/track/3GTLg27Ds17WYPaie2JRBG) | [Ray Bull](https://open.spotify.com/artist/3P4jnIuA9z5WsvkbsoqkTu) | [Little Acts Of Violence](https://open.spotify.com/album/1CYW6Tlvv7S4Bqfss4H4yX) | 2:50 | 2024-12-13 | 2025-02-15 |
 | [Little Dance](https://open.spotify.com/track/3ZqUF40oZLspAMaygqY6L9) | [Neon Dreams](https://open.spotify.com/artist/2UQ6mFkiLYy5VHRJnajQYT) | [Little Dance](https://open.spotify.com/album/055AC8EnLHj4BCuQZfKaQU) | 4:04 | 2022-02-25 | 2022-04-29 |
 | [Live For You, Die With You](https://open.spotify.com/track/6AK6tQ5MZUbA7MI8tcq606) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ) | [Silver Crane \(Deluxe\)](https://open.spotify.com/album/5JOOOZyK4GYTkxWgZbn0o9) | 3:26 | 2022-02-11 | 2022-04-09 |
@@ -768,6 +770,7 @@
 | [Making Diamonds](https://open.spotify.com/track/6gxb1PNLlRWs2F8QFw4lbX) | [ZEE MACHINE](https://open.spotify.com/artist/3v7HInx1B5wGtG90l8OgLg) | [Making Diamonds](https://open.spotify.com/album/4vTpspvnRsiGe66saR77sG) | 3:20 | 2023-08-18 | 2023-09-09 |
 | [Malibu](https://open.spotify.com/track/3b3mKCoZCKZjzO2n6M5fmy) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Malibu](https://open.spotify.com/album/2W2HMbkDditbqRjfFkUuhk) | 3:12 | 2023-05-12 | 2023-07-29 |
 | [Mama's Boy](https://open.spotify.com/track/65leXqfkdViSssEVN23uYL) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Mama's Boy](https://open.spotify.com/album/6dgC3pUWlaKFLbm1sIQxGA) | 2:35 | 2023-09-15 | 2024-02-17 |
+| [Marianne](https://open.spotify.com/track/0SE3l5jJOpGxqXqvT3fkhS) | [Eli](https://open.spotify.com/artist/3z4L3novn4XHxQiHUsoCqP) | [Marianne](https://open.spotify.com/album/0ucvu4XHxscTNmujLfQTQs) | 3:10 | 2025-05-30 |  |
 | [Married Young](https://open.spotify.com/track/5VpScSThzAjVghCEDOcXS2) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Married Young](https://open.spotify.com/album/2fQf4Fsxi4n7hcOzpy4ldx) | 3:05 | 2023-05-19 | 2023-07-29 |
 | [MASOCHIST](https://open.spotify.com/track/1fDGlJAUBDeCgWYqhna9jN) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [MASOCHIST](https://open.spotify.com/album/2NM15uX3nFGvD6nnJUCuPK) | 2:44 | 2023-04-21 | 2023-07-29 |
 | [Maybe](https://open.spotify.com/track/0iUC5CRjpV3Kayoz0oNvE6) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Maybe](https://open.spotify.com/album/1S34M64cH8Q95LwKvFKLpq) | 2:47 | 2023-10-06 | 2023-11-25 |
@@ -822,6 +825,7 @@
 | [my girl](https://open.spotify.com/track/7zgkmSJe6oVuMpZzE7pGlM) | [anees](https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h) | [HOMEsick](https://open.spotify.com/album/69KjgUNpD2ASxN0J0mgbIt) | 2:44 | 2025-04-11 |  |
 | [My Heart Can't Take Anymore](https://open.spotify.com/track/2vNhHqak5COmtfAiVYyl1n) | [NEW CITY](https://open.spotify.com/artist/4X5U7EjHMofqX4mUAkJm23) | [My Heart Can't Take Anymore](https://open.spotify.com/album/7FJxThX7Dl99iA1Wro5x1m) | 3:05 | 2022-07-29 | 2022-08-27 |
 | [My Mouth \(la la la\)](https://open.spotify.com/track/7kuF2t0nCCcDw1L7o1NwzY) | [ISHAN](https://open.spotify.com/artist/4bOSK7fslWnqp8M4YQRBzm) | [My Mouth \(la la la\)](https://open.spotify.com/album/41JIT907XyLYcUYlyXWAj7) | 3:11 | 2024-03-22 | 2024-06-01 |
+| [my simple life](https://open.spotify.com/track/1FpUKD9oPAKA9jv1BH6jEl) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [my simple life](https://open.spotify.com/album/1xAkst526OTH0FQNrApHrj) | 2:51 | 2025-05-30 |  |
 | [My Stupid Heart](https://open.spotify.com/track/3UZDl7g2r84o1b5marUjfK) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [My Stupid Heart](https://open.spotify.com/album/5csTYfCTB01hnZ3tT1yI39) | 2:40 | 2023-01-27 | 2023-07-01 |
 | [My Wife & 2 Dogs](https://open.spotify.com/track/5Ofdnu8hv625HP7OXoE2nj) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Change of Scenery II](https://open.spotify.com/album/6B3LAqHoBKmSN9HLbyy0Ro) | 2:18 | 2022-04-01 | 2022-04-09 |
 | [Mystical Magical](https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Mystical Magical](https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK) | 2:45 | 2025-05-02 |  |
@@ -1074,6 +1078,7 @@
 | [stacy's song](https://open.spotify.com/track/2612sZ6C1AhcvasbJlQCjC) | [Jiwon](https://open.spotify.com/artist/4LyqJpHI1a45aZHIkVRBSQ), [Wett Brain](https://open.spotify.com/artist/5rRR4a0u50S9JNZtL4OB5K) | [stacy's song](https://open.spotify.com/album/29LFtpTS5iYd1KZvhRwmpT) | 2:22 | 2024-11-25 | 2025-01-25 |
 | [star tripping](https://open.spotify.com/track/1ozWhltP7jnU01qOMWYBXH) | [Kevin Atwater](https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6) | [star tripping](https://open.spotify.com/album/4hohZtRQRa3Iz76pJPwJwR) | 2:34 | 2022-10-07 | 2023-03-04 |
 | [Stargirl](https://open.spotify.com/track/4aG9dDt76InHPsbv55xz1w) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [Stargirl](https://open.spotify.com/album/61RHJE3TKzvkgRtozvA9oE) | 2:53 | 2023-04-21 | 2023-07-22 |
+| [Starry Eyed \(with Chelsea Cutler\)](https://open.spotify.com/track/4qPEcB7tDrrGu0eheFa6H4) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Starry Eyed \(with Chelsea Cutler\)](https://open.spotify.com/album/2DWfZUkKHwa4IA9bqUnjIj) | 2:16 | 2025-05-30 |  |
 | [Stars](https://open.spotify.com/track/6XmeTmOZx0PPXG5tvVIUou) | [New Hope Club](https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez) | [Stars](https://open.spotify.com/album/0vhRqCFFvypHxqaRgwsENo) | 3:02 | 2024-12-13 | 2025-01-25 |
 | [stars](https://open.spotify.com/track/329gBJ1hkINrrjFZNtk03H) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [stars](https://open.spotify.com/album/0NmQRqXaqB2ZMycDkWQYUk) | 2:31 | 2023-07-07 | 2023-08-12 |
 | [start again](https://open.spotify.com/track/3pkacg4CSnP4i0K907SODj) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [leave me where you found me](https://open.spotify.com/album/5ErAWZUiPinYqoryslUsFy) | 2:51 | 2023-04-21 | 2023-07-22 |

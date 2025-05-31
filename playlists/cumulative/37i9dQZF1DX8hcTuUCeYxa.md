@@ -4,7 +4,7 @@
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Mt\. Joy
 
-1,465 songs - 3 day 11 hr 59 min
+1,466 songs - 3 day 12 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1228,6 +1228,7 @@
 | [T&A](https://open.spotify.com/track/3FnEDWy3YuQh7EHekPsQfn) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [T&A](https://open.spotify.com/album/2VbHxRWhhYbWNAFIwjL4zw) | 3:45 | 2025-01-09 | 2025-01-24 |
 | [Tailored by Design](https://open.spotify.com/track/671jBUKxQUrRSQcbjAN4Sm) | [Isak Benjamin](https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C) | [Tailored by Design](https://open.spotify.com/album/7gmYvVntAFEqRsBr8OVgnE) | 3:31 | 2024-10-10 | 2024-10-25 |
 | [Take It Or Leave It](https://open.spotify.com/track/3mzu44Z2o4zM9fHyMihdyg) | [overpass](https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8) | [Take It Or Leave It](https://open.spotify.com/album/7j1b0BbsRttqjK1cDwx9Le) | 2:45 | 2025-01-16 | 2025-02-14 |
+| [Take me back](https://open.spotify.com/track/3CkBVxtfny3epwPhQfw9t8) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Take me back](https://open.spotify.com/album/2lNf4UcthxACQ1Ks8BUw98) | 3:45 | 2025-05-30 |  |
 | [Take Me with You](https://open.spotify.com/track/0KIhaQSQT3Eq5K3UHsUNgm) | [OK Go](https://open.spotify.com/artist/3hozsZ9hqNq7CoBGYNlFTz) | [This Is How It Ends](https://open.spotify.com/album/11MLXwJbukdrDxcKcLtlOj) | 4:17 | 2025-03-13 | 2025-04-04 |
 | [Taken](https://open.spotify.com/track/52i9pBpGkz9cGN5qqn8FjC) | [Kakkmaddafakka](https://open.spotify.com/artist/4HV7yKF3SRpY6I0gxu7hm9) | [Taken](https://open.spotify.com/album/7byS1BbfZKyvjAdpRCcYfa) | 4:25 | 2025-03-27 | 2025-04-11 |
 | [Takes Me Back Home](https://open.spotify.com/track/5SBzve5oEsGhZSE8uZ8tjc) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Takes Me Back Home](https://open.spotify.com/album/6CJPML4dEb9v01jaLeoXZ1) | 3:13 | 2024-07-11 | 2024-07-27 |

@@ -1,13 +1,101 @@
 {
-  "description": "The latest tracks from Mad Decent &amp; friends. Featuring new music from Varg2TM &amp; Dj Smokey, plus the latest cuts from MIKE DEAN, Devon Again, and more.",
-  "num_followers": 50929,
+  "description": "The latest tracks from Mad Decent and friends. Featuring new music from Kito and DJ_Dave, plus the latest cuts from inter alia, and Varg2TM &amp; DJ Smokey.",
+  "num_followers": 50927,
   "original_name": "Mad Decent Weekly",
   "owner": {
     "name": "Mad Decent",
     "url": "https://open.spotify.com/user/maddecent"
   },
-  "snapshot_id": "AAAcvIU1OwDmeoLnuhMN6jWxrRCMbX3W",
+  "snapshot_id": "AAAcx1Yo6nbfGi0K8BPQ52NRKQwgqBff",
   "tracks": [
+    {
+      "added_at": "2025-05-30 19:22:19",
+      "album": {
+        "name": "DEYA",
+        "url": "https://open.spotify.com/album/6DrhGVMKEswgZdbmlsL7ga"
+      },
+      "artists": [
+        {
+          "name": "Kito",
+          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
+        },
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "duration_ms": 176387,
+      "name": "DEYA",
+      "url": "https://open.spotify.com/track/5Irlkjy18pG847hcN3pJtR"
+    },
+    {
+      "added_at": "2025-05-30 19:22:19",
+      "album": {
+        "name": "Cycles",
+        "url": "https://open.spotify.com/album/41XZK1SenTa6PnsNoaUVOH"
+      },
+      "artists": [
+        {
+          "name": "DJ_Dave",
+          "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme"
+        },
+        {
+          "name": "Switch Angel",
+          "url": "https://open.spotify.com/artist/1cEgg3zg0YIwPn8Us2Uxmj"
+        }
+      ],
+      "duration_ms": 218482,
+      "name": "Cycles",
+      "url": "https://open.spotify.com/track/0suotaNKCJeJGC7FFRLxED"
+    },
+    {
+      "added_at": "2025-05-30 19:22:19",
+      "album": {
+        "name": "Fame is a Gun",
+        "url": "https://open.spotify.com/album/3SbgH2k3eJ6dPqAhbTBFzm"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        }
+      ],
+      "duration_ms": 183237,
+      "name": "Fame is a Gun",
+      "url": "https://open.spotify.com/track/1c2AFg2WpURtpsOTMr6ZBX"
+    },
+    {
+      "added_at": "2025-05-30 19:22:19",
+      "album": {
+        "name": "Man Of The Year",
+        "url": "https://open.spotify.com/album/1QSIGmlbg2zqpGbWXJNJeW"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 180433,
+      "name": "Man Of The Year",
+      "url": "https://open.spotify.com/track/1hoeP1oPYlhcv6iRCtB7pT"
+    },
+    {
+      "added_at": "2025-05-30 19:22:19",
+      "album": {
+        "name": "Paradise Music",
+        "url": "https://open.spotify.com/album/2NmMu3Q5VwntqO9OuF0w71"
+      },
+      "artists": [
+        {
+          "name": "inter alia",
+          "url": "https://open.spotify.com/artist/4XxygEqjEzswVq93XqGv77"
+        }
+      ],
+      "duration_ms": 314000,
+      "name": "Silver String Symphony",
+      "url": "https://open.spotify.com/track/56JLZ9teSWvAZNd8GfCORj"
+    },
     {
       "added_at": "2025-05-16 21:25:54",
       "album": {
@@ -993,22 +1081,6 @@
       "url": "https://open.spotify.com/track/7BXzX7t2vrro8vxnzUI0b0"
     },
     {
-      "added_at": "2025-03-07 22:45:30",
-      "album": {
-        "name": "Smoke break",
-        "url": "https://open.spotify.com/album/1i3Rpr69B7rVaMMB37McmT"
-      },
-      "artists": [
-        {
-          "name": "Sam Austins",
-          "url": "https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V"
-        }
-      ],
-      "duration_ms": 168749,
-      "name": "Smoke break",
-      "url": "https://open.spotify.com/track/4oK7CIGPowSJgTJVQ9R9uB"
-    },
-    {
       "added_at": "2025-03-07 22:45:33",
       "album": {
         "name": "MAYHEM",
@@ -1057,22 +1129,6 @@
       "url": "https://open.spotify.com/track/4mwswlM0HATHu9SabiiXiY"
     },
     {
-      "added_at": "2025-03-07 22:48:17",
-      "album": {
-        "name": "Face to Face",
-        "url": "https://open.spotify.com/album/4TTBTNzNSNirHge7QCjhIl"
-      },
-      "artists": [
-        {
-          "name": "fakemink",
-          "url": "https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi"
-        }
-      ],
-      "duration_ms": 96284,
-      "name": "Face to Face",
-      "url": "https://open.spotify.com/track/4u3Aajaq6TYC9tElKr3p6C"
-    },
-    {
       "added_at": "2025-03-07 22:46:40",
       "album": {
         "name": "The Hurtless",
@@ -1111,22 +1167,6 @@
       "duration_ms": 141163,
       "name": "LomeLaval",
       "url": "https://open.spotify.com/track/2Q7CpbLeZhE8Rq8YPSiOhf"
-    },
-    {
-      "added_at": "2025-02-14 16:30:47",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/2Ol1BUBqVyX0e20HgocWp8"
-      },
-      "artists": [
-        {
-          "name": "John Glacier",
-          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
-        }
-      ],
-      "duration_ms": 202105,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/7pqVlBqqjyXGTK2xmdbjsj"
     },
     {
       "added_at": "2025-02-14 16:30:13",
@@ -1219,22 +1259,6 @@
       "duration_ms": 141156,
       "name": "Elipropperr Remix",
       "url": "https://open.spotify.com/track/5HJZZppvk6AbnBCMfbWihJ"
-    },
-    {
-      "added_at": "2025-02-14 16:22:59",
-      "album": {
-        "name": "He Needs Me",
-        "url": "https://open.spotify.com/album/1mYuz5sGD07dHeLyq4dM0Y"
-      },
-      "artists": [
-        {
-          "name": "The Femcels",
-          "url": "https://open.spotify.com/artist/6IEfd4F10D3zvJ9N6DNmvK"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "He Needs Me",
-      "url": "https://open.spotify.com/track/3aVX2Yh7Nshwzl1oh0AVru"
     },
     {
       "added_at": "2025-02-14 16:36:49",
@@ -1703,22 +1727,6 @@
       "duration_ms": 197866,
       "name": "Windows XP",
       "url": "https://open.spotify.com/track/3nY2nR1WRkADdHponmQhjK"
-    },
-    {
-      "added_at": "2024-11-27 17:15:11",
-      "album": {
-        "name": "Petrichor",
-        "url": "https://open.spotify.com/album/6y3Qwq2Cfba06BoiqtLd7E"
-      },
-      "artists": [
-        {
-          "name": "070 Shake",
-          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
-        }
-      ],
-      "duration_ms": 152770,
-      "name": "Winter Baby / New Jersey Blues",
-      "url": "https://open.spotify.com/track/2vIgX0J99CKudcJwfKThhI"
     },
     {
       "added_at": "2024-11-27 17:15:13",

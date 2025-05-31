@@ -1,6 +1,6 @@
 {
   "description": "\ub2f9\uc2e0\uc758 \ud558\ub8e8. \uc624\ub298\ub3c4 \uc798\ud558\uace0 \uc788\uc5b4\uc694. (Listen to K-Pop comforting songs)",
-  "num_followers": 49611,
+  "num_followers": 49613,
   "original_name": "\uc798\ud588\uc5b4 \uc624\ub298\ub3c4 (You Did Well.)",
   "owner": {
     "name": "Spotify",
@@ -795,22 +795,6 @@
     {
       "added_at": "2025-05-26 08:58:11",
       "album": {
-        "name": "PAGE",
-        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
-      },
-      "artists": [
-        {
-          "name": "Kang Seung Yoon",
-          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
-        }
-      ],
-      "duration_ms": 225861,
-      "name": "IYAH",
-      "url": "https://open.spotify.com/track/3EC9jQuk4yPP3IhKOJvbPw"
-    },
-    {
-      "added_at": "2025-05-26 08:58:11",
-      "album": {
         "name": "I Mean",
         "url": "https://open.spotify.com/album/2SSsz0XFUeTYZfGWRLFswR"
       },
@@ -827,18 +811,38 @@
     {
       "added_at": "2025-05-26 08:58:11",
       "album": {
-        "name": "Journey",
-        "url": "https://open.spotify.com/album/2ZiNV3uCWEno9JIDtCaSaP"
+        "name": "PAGE",
+        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
       },
       "artists": [
         {
-          "name": "Choi Yu Ree",
-          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
+          "name": "Kang Seung Yoon",
+          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
         }
       ],
-      "duration_ms": 223933,
-      "name": "Life goes on",
-      "url": "https://open.spotify.com/track/2svtm7O8mhNGflEdsxsZtt"
+      "duration_ms": 225861,
+      "name": "IYAH",
+      "url": "https://open.spotify.com/track/3EC9jQuk4yPP3IhKOJvbPw"
+    },
+    {
+      "added_at": "2025-05-26 08:58:11",
+      "album": {
+        "name": "Workaholic (feat. ASH ISLAND)",
+        "url": "https://open.spotify.com/album/5Rxn1cnJLLf8qgYJzB4KLu"
+      },
+      "artists": [
+        {
+          "name": "h3hyeon",
+          "url": "https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz"
+        },
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        }
+      ],
+      "duration_ms": 193986,
+      "name": "Workaholic (feat. ASH ISLAND)",
+      "url": "https://open.spotify.com/track/5arR24jdVitzSURvv5hwIq"
     }
   ],
   "unique_name": "\uc798\ud588\uc5b4 \uc624\ub298\ub3c4 (You Did Well.)",

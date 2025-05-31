@@ -483,6 +483,24 @@
     },
     {
       "album": {
+        "name": "Backseat",
+        "url": "https://open.spotify.com/album/4SnYbgZqKOxc2eCRdMS3xu"
+      },
+      "artists": [
+        {
+          "name": "Balu Brigada",
+          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383400,
+      "name": "Backseat",
+      "url": "https://open.spotify.com/track/7yT4NJt5rgmVoMJMGPULcj"
+    },
+    {
+      "album": {
         "name": "Banks",
         "url": "https://open.spotify.com/album/506L9syhCW4JNuMHjwtZ5D"
       },
@@ -6982,6 +7000,24 @@
       "duration_ms": 388382,
       "name": "Summertime Voodoo",
       "url": "https://open.spotify.com/track/5BnqgwkMSUp9gDYy9gHxYF"
+    },
+    {
+      "album": {
+        "name": "Sunset Psalm",
+        "url": "https://open.spotify.com/album/6kB1iLsUqM30kw5d8Fgg31"
+      },
+      "artists": [
+        {
+          "name": "Brad Cox",
+          "url": "https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249977,
+      "name": "Sunset Psalm",
+      "url": "https://open.spotify.com/track/5wnKqpNO2h39M44TMQk3cC"
     },
     {
       "album": {

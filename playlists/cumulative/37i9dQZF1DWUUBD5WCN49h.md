@@ -4,7 +4,7 @@
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: Braye
 
-1,277 songs - 2 day 13 hr 25 min
+1,278 songs - 2 day 13 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -640,7 +640,7 @@
 | [Loner](https://open.spotify.com/track/3RPgxXb9RopRs3OoQN6cN6) | [VAR1](https://open.spotify.com/artist/05TqhaJ6y6uMmhzX8TDikY), [K0NYE](https://open.spotify.com/artist/0hyEwDiCc3bp1NVMGi8PMZ), [Hargoi](https://open.spotify.com/artist/5EKMO9ebgUrSybptTbz4TD) | [Loner](https://open.spotify.com/album/6VIQgfoeJCFDQgsbeTaWPB) | 3:13 | 2024-04-19 | 2024-06-01 |
 | [Lorvu](https://open.spotify.com/track/0NmHYBrSQDGO5xdHiC3lFM) | [Chisim](https://open.spotify.com/artist/0ZXxpFOyjQPBEDYj6BXPfL) | [Deep Expression](https://open.spotify.com/album/3X76zxmvbTIPPSBwDJoCgD) | 3:06 | 2025-03-21 | 2025-05-17 |
 | [Lose My Mind](https://open.spotify.com/track/1QLqOORXtH6mdXI5lEEjg3) | [Brown Joel](https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM) | [Lose My Mind](https://open.spotify.com/album/2TRDihrw7kDXw7Gu5mrJ7E) | 3:31 | 2025-01-31 |  |
-| [Lose My Mind \- A COLORS SHOW](https://open.spotify.com/track/3YnaqBaUzBzqTl0UB4DQJi) | [Brown Joel](https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Lose My Mind \- A COLORS SHOW](https://open.spotify.com/album/78ifkKkoXwrREDN28GeIez) | 3:30 | 2025-01-17 |  |
+| [Lose My Mind \- A COLORS SHOW](https://open.spotify.com/track/3YnaqBaUzBzqTl0UB4DQJi) | [Brown Joel](https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Lose My Mind \- A COLORS SHOW](https://open.spotify.com/album/78ifkKkoXwrREDN28GeIez) | 3:30 | 2025-01-17 | 2025-05-31 |
 | [Lost](https://open.spotify.com/track/3zRzwveWZimcIXck96oqcr) | [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [Lost](https://open.spotify.com/album/2bKhMLrApxroMa3x8ry236) | 2:55 | 2025-02-28 |  |
 | [Lost in Green](https://open.spotify.com/track/78rmpYUKEJBdqTGjuk5fOI) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Nawekulo](https://open.spotify.com/artist/65e3J8lxvSLAQ3RJ5RGjes) | [Lost in Green](https://open.spotify.com/album/1sj5kA9fThHG41VuacQDEX) | 2:59 | 2023-06-15 | 2023-07-14 |
 | [Lost Love](https://open.spotify.com/track/42mgtZfLBQDVOlxewhvXfF) | [Akwasi Sage](https://open.spotify.com/artist/1ZLtiMNMicBULG1CNl25Je) | [Lost Love](https://open.spotify.com/album/6KqTfBjmJYeiJPapWjzmHd) | 2:43 | 2024-07-26 | 2024-08-30 |
@@ -926,6 +926,7 @@
 | [PWLS](https://open.spotify.com/track/3snfKn7tvDgoSGnXHrN3DT) | [Baka Dabri](https://open.spotify.com/artist/5IQli8jQ2jyzTTLKLZ6dbM) | [Hear Me Out](https://open.spotify.com/album/2BiOrkLwTCbCbwQICUz4i3) | 3:01 | 2023-02-23 | 2023-03-18 |
 | [Père](https://open.spotify.com/track/4yRZ3SAszB7vbemF24sZgM) | [Mo'Believe](https://open.spotify.com/artist/2JZT6fRSlCQFOnSvkwJ8PW) | [Père](https://open.spotify.com/album/4dgdV8g7x1fAhCO4Iax0yo) | 2:47 | 2022-08-25 | 2022-12-02 |
 | [Que Sera](https://open.spotify.com/track/0JT39TP99M3D2sA1SdRmdK) | [Yartti](https://open.spotify.com/artist/0LIv7IHdHv0BDOmwSJvHa1), [Juma Mufasa](https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs) | [Que Sera](https://open.spotify.com/album/09vJd4nTEvLwwhgpOKnbAl) | 2:35 | 2024-06-07 | 2024-09-20 |
+| [Question](https://open.spotify.com/track/2dxn5GRHaqH35Xpt0SyFvB) | [Wademix](https://open.spotify.com/artist/0bXGq88PdstXaKPeLLDg3q), [Amakah](https://open.spotify.com/artist/0xo6Apny9RYCv2mg59KmxL) | [The First Tape](https://open.spotify.com/album/4W6ZHq5fGlS2jH9NpHGpTC) | 2:36 | 2025-05-30 |  |
 | [Quick Question](https://open.spotify.com/track/34iCDXDpWVR6ET2aBRiAqb) | [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX) | [Quick Question](https://open.spotify.com/album/2syIcbjNfLGDh7HV9jr7N5) | 2:41 | 2023-06-22 | 2024-02-02 |
 | [R U FREE?](https://open.spotify.com/track/3VJFbpyVz051wnMStG7juC) | [Keziah Mallam](https://open.spotify.com/artist/4mzTknGC25KKZ5zq8vSxAs), [Beezyx](https://open.spotify.com/artist/0r6sAkbsRJkBbmxYlh4cso) | [R U FREE?](https://open.spotify.com/album/1QA1xNM1pHFfhrrmI9H8E2) | 2:37 | 2023-10-27 | 2023-11-24 |
 | [R\-, Pt\. 2](https://open.spotify.com/track/0PjiYBQk9Q96ZKGWedkvbW) | [OSO](https://open.spotify.com/artist/62fPxmuEy5IX40T8omAeB2), [Amoit](https://open.spotify.com/artist/1EO9IOTaipIYiA0K8AnBuA), [Phoebe Thestor](https://open.spotify.com/artist/14Pns33TGKYoRZlxi2sN1I) | [R\-](https://open.spotify.com/album/1agqNObDp49ordF3HmYAqw) | 3:12 | 2022-07-07 | 2022-11-05 |

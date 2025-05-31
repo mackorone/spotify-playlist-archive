@@ -963,6 +963,24 @@
     },
     {
       "album": {
+        "name": "Golden Sun",
+        "url": "https://open.spotify.com/album/49oIt9JSEuril9WSCKQJ95"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Marvin",
+          "url": "https://open.spotify.com/artist/2IotGdcet3KtZlvrBjPKjv"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179992,
+      "name": "Golden Sun",
+      "url": "https://open.spotify.com/track/2JSpdiaLcUQPLuroKkBVq0"
+    },
+    {
+      "album": {
         "name": "Green Tea",
         "url": "https://open.spotify.com/album/5m6LyuH74ie0sDQi4MiXqv"
       },

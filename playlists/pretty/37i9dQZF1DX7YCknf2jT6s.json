@@ -1,13 +1,117 @@
 {
-  "description": "New jazz for open minds. Cover: Hamilton De Holanda",
-  "num_followers": 952126,
+  "description": "New jazz for open minds. Cover: Danny Grissett",
+  "num_followers": 952146,
   "original_name": "State of Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aC/y1QAAAADtwX5Z92XC0vIcqA1PzlpQ",
+  "snapshot_id": "AAAAAFFbXEl0lQOd3L1zHQqNPQz3XK44",
   "tracks": [
+    {
+      "added_at": "2025-05-30 04:00:22",
+      "album": {
+        "name": "Travelogue",
+        "url": "https://open.spotify.com/album/1xAFpcdQsxhGyHNZykWWV3"
+      },
+      "artists": [
+        {
+          "name": "Danny Grissett",
+          "url": "https://open.spotify.com/artist/4cePuNhFNRCjCzpM1VierQ"
+        }
+      ],
+      "duration_ms": 383146,
+      "name": "Spin Cycle",
+      "url": "https://open.spotify.com/track/6uaAr5hBKINpgPL2b3batd"
+    },
+    {
+      "added_at": "2025-05-30 04:06:51",
+      "album": {
+        "name": "Ones & Twos (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0mCg5NLbnyao8s6bTmbg9c"
+      },
+      "artists": [
+        {
+          "name": "Gerald Clayton",
+          "url": "https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8"
+        }
+      ],
+      "duration_ms": 235779,
+      "name": "Angels Speak / Lovingly",
+      "url": "https://open.spotify.com/track/71ZgM4CqEVI0pG8fLdBL6L"
+    },
+    {
+      "added_at": "2025-05-30 04:00:22",
+      "album": {
+        "name": "Forgive the Damages (feat. Daudi Matsiko)",
+        "url": "https://open.spotify.com/album/6hfOwRTlt7QNBSdUVhr3Mb"
+      },
+      "artists": [
+        {
+          "name": "GoGo Penguin",
+          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
+        },
+        {
+          "name": "Daudi Matsiko",
+          "url": "https://open.spotify.com/artist/41QVnDFGdU4ALpM7zCe9CL"
+        }
+      ],
+      "duration_ms": 250426,
+      "name": "Forgive the Damages (feat. Daudi Matsiko)",
+      "url": "https://open.spotify.com/track/3D2hY0e8WbdJZxkWIgBfZP"
+    },
+    {
+      "added_at": "2025-05-30 04:00:22",
+      "album": {
+        "name": "Borrowed Eyes",
+        "url": "https://open.spotify.com/album/2KiYGwR4EB4rqfWieNWJqS"
+      },
+      "artists": [
+        {
+          "name": "Joshua Redman",
+          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
+        }
+      ],
+      "duration_ms": 351581,
+      "name": "Borrowed Eyes",
+      "url": "https://open.spotify.com/track/5TOkkMmXaifXBz46FYpNn8"
+    },
+    {
+      "added_at": "2025-05-30 04:00:22",
+      "album": {
+        "name": "One Way Traffic (feat. Yazmin Lacey)",
+        "url": "https://open.spotify.com/album/6LU9POssYAsRwuybobVBHO"
+      },
+      "artists": [
+        {
+          "name": "Joe Armon-Jones",
+          "url": "https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5"
+        },
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "duration_ms": 420760,
+      "name": "One Way Traffic - feat. Yazmin Lacey",
+      "url": "https://open.spotify.com/track/4cQqUQtjCU7DfwAMnSUAHh"
+    },
+    {
+      "added_at": "2025-05-30 04:00:22",
+      "album": {
+        "name": "MINDRUM",
+        "url": "https://open.spotify.com/album/037bkOWUIHZpZqUgwilw2e"
+      },
+      "artists": [
+        {
+          "name": "40 Winks",
+          "url": "https://open.spotify.com/artist/1Sayx62gnPCTawjndMhbnb"
+        }
+      ],
+      "duration_ms": 162289,
+      "name": "MINDRUM",
+      "url": "https://open.spotify.com/track/3ZWu8J5rjhOZ6QM6FHUSJV"
+    },
     {
       "added_at": "2025-05-23 04:00:21",
       "album": {
@@ -191,22 +295,6 @@
     {
       "added_at": "2025-05-16 04:00:24",
       "album": {
-        "name": "Glass Half Warm / Glass Half Cool",
-        "url": "https://open.spotify.com/album/4iMcE1esTI2ZosXkn4KqRp"
-      },
-      "artists": [
-        {
-          "name": "Gerald Clayton",
-          "url": "https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8"
-        }
-      ],
-      "duration_ms": 301387,
-      "name": "Glass Half Warm / Glass Half Cool",
-      "url": "https://open.spotify.com/track/6YVQKmXHeHUsGOJ8gn1FEX"
-    },
-    {
-      "added_at": "2025-05-16 04:00:24",
-      "album": {
         "name": "Out Late",
         "url": "https://open.spotify.com/album/1XGB8a1AizLa9i0Dg9l0Y4"
       },
@@ -239,22 +327,6 @@
       "duration_ms": 275634,
       "name": "For Roy 2.0",
       "url": "https://open.spotify.com/track/14zlS6eVyZdV8kbcMv46xb"
-    },
-    {
-      "added_at": "2025-05-09 04:00:03",
-      "album": {
-        "name": "So It Goes",
-        "url": "https://open.spotify.com/album/2Jz2qv2edgViBUvpiNHwCR"
-      },
-      "artists": [
-        {
-          "name": "Joshua Redman",
-          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
-        }
-      ],
-      "duration_ms": 419478,
-      "name": "So It Goes",
-      "url": "https://open.spotify.com/track/6NlDnhn61geWuWSUHhOTN9"
     },
     {
       "added_at": "2025-05-09 04:00:03",
@@ -439,30 +511,6 @@
       "duration_ms": 350171,
       "name": "Hey Lock!",
       "url": "https://open.spotify.com/track/6uSb7uaHwOHFhao4Tr3Baq"
-    },
-    {
-      "added_at": "2025-04-25 04:00:55",
-      "album": {
-        "name": "Another Place (feat. Greentea Peng & Wu-Lu)",
-        "url": "https://open.spotify.com/album/16d9GYvZjejijFjzelydzg"
-      },
-      "artists": [
-        {
-          "name": "Joe Armon-Jones",
-          "url": "https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5"
-        },
-        {
-          "name": "Greentea Peng",
-          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
-        },
-        {
-          "name": "Wu-Lu",
-          "url": "https://open.spotify.com/artist/5yRolHpTcDas7KX7KiH6Wd"
-        }
-      ],
-      "duration_ms": 383506,
-      "name": "Another Place - feat. Greentea Peng & Wu-Lu",
-      "url": "https://open.spotify.com/track/5iCYvkgXKa0v9BEjoRAfTy"
     },
     {
       "added_at": "2025-05-02 04:00:27",
@@ -701,22 +749,6 @@
       "url": "https://open.spotify.com/track/0Lhn7waaGGpN6z7ygN2olt"
     },
     {
-      "added_at": "2025-04-18 04:00:41",
-      "album": {
-        "name": "Fallowfield Loops",
-        "url": "https://open.spotify.com/album/4dZMmEqbmyjtt4IQ0iMXZ7"
-      },
-      "artists": [
-        {
-          "name": "GoGo Penguin",
-          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
-        }
-      ],
-      "duration_ms": 284100,
-      "name": "Fallowfield Loops",
-      "url": "https://open.spotify.com/track/0ou7H1bBfXWh4UXifGKMoj"
-    },
-    {
       "added_at": "2025-04-11 04:00:21",
       "album": {
         "name": "Sweetie",
@@ -937,22 +969,6 @@
       "url": "https://open.spotify.com/track/0ftvZIxENBCdDWEeaSOFva"
     },
     {
-      "added_at": "2025-03-21 04:00:40",
-      "album": {
-        "name": "Top Hat",
-        "url": "https://open.spotify.com/album/1pOcLoMfumoqUpzhpnh2TA"
-      },
-      "artists": [
-        {
-          "name": "Kneebody",
-          "url": "https://open.spotify.com/artist/0rS1Y2DkDJhLiaR0MyJyCg"
-        }
-      ],
-      "duration_ms": 310280,
-      "name": "Top Hat",
-      "url": "https://open.spotify.com/track/0M2L9I6Twe9CzjzHMafMBN"
-    },
-    {
       "added_at": "2025-04-04 04:00:20",
       "album": {
         "name": "OTODOKENIAGARIMASHITA",
@@ -1007,30 +1023,6 @@
       "duration_ms": 228245,
       "name": "Song for Hannah",
       "url": "https://open.spotify.com/track/2jhqhlkzSMX0hZcm6E0JE4"
-    },
-    {
-      "added_at": "2025-04-04 04:00:20",
-      "album": {
-        "name": "Mardi Gras with Jazz Mafia - Live at the Guild Theatre",
-        "url": "https://open.spotify.com/album/2WTIq9cKisUlKd7cURKlJw"
-      },
-      "artists": [
-        {
-          "name": "Jazz Mafia",
-          "url": "https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved"
-        },
-        {
-          "name": "Adam Theis",
-          "url": "https://open.spotify.com/artist/7F0GE9aWnuNcFG5Vxi1AtZ"
-        },
-        {
-          "name": "Brass Mafia",
-          "url": "https://open.spotify.com/artist/5AUthOkaQS0S3cYfgA66N1"
-        }
-      ],
-      "duration_ms": 102767,
-      "name": "Buck It Like a Horse",
-      "url": "https://open.spotify.com/track/5R5MuNxqcKMYGtWb36f8Ek"
     },
     {
       "added_at": "2025-03-14 04:00:22",

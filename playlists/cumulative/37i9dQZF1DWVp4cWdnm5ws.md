@@ -2,9 +2,9 @@
 
 ### [RADAR Philippines](https://open.spotify.com/playlist/37i9dQZF1DWVp4cWdnm5ws)
 
-> Discover new artists on the horizon this 2025\. Cover: JERGE
+> Discover new artists on the horizon this 2025\. Cover: ALLMO$T
 
-265 songs - 15 hr 52 min
+267 songs - 15 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Awitin Mo, Isasayaw Ko](https://open.spotify.com/track/5BWvcOgDDQdGEkxKpsojNc) | [Jason Dhakal](https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp) | [Awitin Mo, Isasayaw Ko](https://open.spotify.com/album/786KRmYsG0vWZJBNMdeeoi) | 4:57 | 2024-06-07 | 2025-03-28 |
 | [Ayoko Pa](https://open.spotify.com/track/6WauTGPc48jOCF4HfQU9DU) | [Alex Bruce](https://open.spotify.com/artist/65896yX3ZMa0af70HRYNVX), [Cursebox](https://open.spotify.com/artist/52REqNdtIQAapIZ4WEwBVg) | [Ayoko Pa](https://open.spotify.com/album/0Ke3mRgrGs6GM7Q8FQJdLZ) | 3:14 | 2022-09-08 | 2022-12-01 |
 | [B.A.D.](https://open.spotify.com/track/14YZcGhRR05BTYajt8f9u9) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [B.A.D.](https://open.spotify.com/album/6FsUUmtn9CrZhfRqaz9EcM) | 2:50 | 2024-04-02 | 2025-03-28 |
+| [Baby Girl](https://open.spotify.com/track/7IA3kgXFupu6eke77kd93n) | [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz) | [Baby Girl](https://open.spotify.com/album/3P0dIqUcznPkh3KXtIZioC) | 2:57 | 2025-05-30 |  |
 | [Bahaghari](https://open.spotify.com/track/2Ozk14un4Py5pZoVygGUPB) | [Elle Sebastian](https://open.spotify.com/artist/3tZLOm9eJAxX6Q0xkEGjWo) | [Bahaghari](https://open.spotify.com/album/2vYvsfDQ30Akm7KvEtMapf) | 6:03 | 2021-11-25 | 2022-03-25 |
 | [Bahala Na](https://open.spotify.com/track/0kDeE8TezXDY1QadpjAQQq) | [Kenaniah](https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS) | [Bahala Na](https://open.spotify.com/album/38K1I3Ij268DtPqJqYcY6U) | 3:48 | 2023-04-13 | 2024-04-03 |
 | [Bahala Na](https://open.spotify.com/track/3FsDo7jplRKAkFzxZ4vbZu) | [Kenaniah](https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS) | [Kenaniah](https://open.spotify.com/album/50ZqQAS4Cp2ATe9w1MUHB7) | 3:48 | 2023-11-29 | 2024-01-12 |
@@ -48,6 +49,7 @@
 | [Call You](https://open.spotify.com/track/68k3V1OBcNslacVbU1HNXA) | [allen&elle](https://open.spotify.com/artist/2bJTpGmXD18Or3c10omzOe) | [Call You](https://open.spotify.com/album/4gwvRkM54QFDjeOXFAL2CX) | 3:03 | 2021-11-25 | 2022-03-25 |
 | [can't get enough](https://open.spotify.com/track/2RmQWlkPigl7R15u7Mm0fr) | [Jason Dhakal](https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp) | [BEING](https://open.spotify.com/album/1kFYiskcStEnrfLZXqF7Kv) | 3:38 | 2024-04-02 | 2025-03-28 |
 | [Cherry On Top](https://open.spotify.com/track/6EpoDm2IoOkTfcPkNwhf07) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Cherry On Top](https://open.spotify.com/album/3ZIjUhwlei1sT2yetvypvJ) | 2:55 | 2024-07-15 | 2025-03-28 |
+| [Cutterpillow](https://open.spotify.com/track/49jaaNDXs4MtSB385rYBmG) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [Cutterpillow](https://open.spotify.com/album/4UWQh3BN66Ba2Q8FHFEujq) | 2:17 | 2025-05-30 |  |
 | [CZ](https://open.spotify.com/track/4uEKedIjpb557HA3kNBJRC) | [BRGR](https://open.spotify.com/artist/44vb4XsoBQRJlLGflZQfkv), [Costa Cashman](https://open.spotify.com/artist/5JSTkYzbFkLcx1vDw1RYxI) | [CZ](https://open.spotify.com/album/3k4ioa4ED2uWgbLuSBISom) | 1:47 | 2025-03-27 |  |
 | [DADA](https://open.spotify.com/track/34GGrpp24dGP5boVzfC7kS) | [Nobrvnd](https://open.spotify.com/artist/44ddWVfxC8kq46MqQgIoJf) | [DADA](https://open.spotify.com/album/6Axji6cH6HTfoWPzVZjVwV) | 3:26 | 2021-11-25 | 2022-03-25 |
 | [Dagundong](https://open.spotify.com/track/3cAcIiIJ7VJeKjTqeTzjMf) | [Alamat](https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW) | [IsaPuso](https://open.spotify.com/album/48SFmU4Nkq63p7Oxy6PAzl) | 2:30 | 2023-11-17 | 2024-04-03 |

@@ -4,7 +4,7 @@
 
 > Neue Musik von Nina Chuba, Ski Aggu, Miley Cyrus und mehr!
 
-4,963 songs - 10 day 3 hr 18 min
+4,966 songs - 10 day 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -317,6 +317,7 @@
 | [Ask & You Shall Receive](https://open.spotify.com/track/4zB5pU3cwGiC6Fcz5qtfUe) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Ask & You Shall Receive](https://open.spotify.com/album/5htBDYVAOjfBHgquMxExL8) | 3:19 | 2024-05-30 | 2024-06-07 |
 | [Asozialer Araber](https://open.spotify.com/track/4wFPHWGdWkwdxW2MsTY5X6) | [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0) | [Asozialer Araber](https://open.spotify.com/album/38crIc99VYoJiEjnftGcj8) | 2:32 | 2025-04-03 | 2025-04-11 |
 | [Aspirin](https://open.spotify.com/track/69AbPl1W9V24hO9TcFgcMI) | [Yung Yury](https://open.spotify.com/artist/7tzELpzPjTq26pa5FT9ykz), [Edo Saiya](https://open.spotify.com/artist/0PVPI2jOWDJtWpOxrXnT6F), [Damn Yury](https://open.spotify.com/artist/7oxHYIVHNg4JQdKnUe1HiQ) | [Aspirin](https://open.spotify.com/album/2wyRhdZeCn7dCWJU5flkzx) | 2:42 | 2024-08-29 | 2024-09-06 |
+| [Assassina](https://open.spotify.com/track/6KCctAEpNGNHNesWG3W2xL) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [Assassina](https://open.spotify.com/album/2Wke4H4SqCO4ndfaaSAKht) | 2:50 | 2025-05-30 |  |
 | [Asshole](https://open.spotify.com/track/6ZrwhNlrmg63J21UDdNcnH) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Automatic](https://open.spotify.com/album/5WMQEzS5EBCPU5IYKSY7BM) | 3:03 | 2025-02-13 | 2025-02-21 |
 | [Astronaut](https://open.spotify.com/track/3EEVlTTv6uztXaUpL4biKy) | [ELEHA](https://open.spotify.com/artist/56mSZjn1q0tcYyC1N2c7TT) | [Astronaut](https://open.spotify.com/album/7mmFCey4MF9O8yxbJqAZ0e) | 2:07 | 2024-06-27 | 2024-07-05 |
 | [ASUNASA \- HOLD YOUR WAIST](https://open.spotify.com/track/0SJCnl4d1Imajh0hm0AaN4) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [OFA \(Oxlade From Africa\)](https://open.spotify.com/album/1QCCsP9vKzAFLklbRwvTC5) | 3:05 | 2024-09-19 | 2024-09-27 |
@@ -2859,7 +2860,7 @@
 | [Me & You](https://open.spotify.com/track/4mSfyqUcjl0Zwb2YWYohyO) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Me & You](https://open.spotify.com/album/4wTcGH918lQogI7Tyz7hEx) | 2:47 | 2025-05-15 | 2025-05-23 |
 | [me & you](https://open.spotify.com/track/2qX5NeJHw3LGR2cNoY8qbK) | [YAKARY](https://open.spotify.com/artist/6cpOyiEibAAlRlUF4Kk3vI) | [me & you](https://open.spotify.com/album/2KbDjW2XjpgFC6VTfwkTYu) | 2:18 | 2025-02-27 | 2025-03-07 |
 | [Me Before You](https://open.spotify.com/track/1S4sLPFxkgMTOui1W4GN72) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Plested](https://open.spotify.com/artist/2nJYGgfTf2846LtVB3AES8) | [Me Before You](https://open.spotify.com/album/4hElKzCyDVbddwxZe4f9jb) | 3:35 | 2024-06-13 | 2024-06-21 |
-| [Me Myself and The Night](https://open.spotify.com/track/7mKy65CyVCmawYMw3JJGPQ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Me Myself and The Night](https://open.spotify.com/album/7bSQts9CfkAh6MNQ7BkBjy) | 4:11 | 2025-05-29 |  |
+| [Me, Myself and The Night](https://open.spotify.com/track/7mKy65CyVCmawYMw3JJGPQ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Me, Myself and The Night](https://open.spotify.com/album/7bSQts9CfkAh6MNQ7BkBjy) | 4:11 | 2025-05-29 |  |
 | [Meant To Be](https://open.spotify.com/track/3pngSkv9Q6PhzKZttKmCqc) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Zorb](https://open.spotify.com/album/6kWMa5wuK9Jw1gtlHJaXRz) | 2:28 | 2024-08-22 | 2024-08-30 |
 | [Meer](https://open.spotify.com/track/1CfXReZpkv5l10m1Zc1mGn) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Meer](https://open.spotify.com/album/1FJOvb5Be9ntGSps0DeNBs) | 3:46 | 2024-09-05 | 2024-09-13 |
 | [megaman](https://open.spotify.com/track/7rbt19kiQ2k7XjYKUcIhkY) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [14 minutes](https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9) | 1:17 | 2024-05-03 | 2024-05-10 |
@@ -2921,6 +2922,7 @@
 | [Mind Reader \(with Meghan Trainor\)](https://open.spotify.com/track/7oN7VcpfjpSyuzScL3930l) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Mind Reader \(with Meghan Trainor\)](https://open.spotify.com/album/4t4REL6KQpg2leApBEG23W) | 2:31 | 2025-05-01 | 2025-05-10 |
 | [Mine For The Night](https://open.spotify.com/track/5HJr6r6NdRpNnpUOxeXTjK) | [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Mine For The Night](https://open.spotify.com/album/3xHZvCFIIqqqEH6l24CRJX) | 4:14 | 2024-06-13 | 2024-06-21 |
 | [Minibar Moralia](https://open.spotify.com/track/0jz37JXmZaapzxDWrCHm8U) | [Frittenbude](https://open.spotify.com/artist/7jy0nL3F5ehHJxXYMBImkk), [Captain Gips](https://open.spotify.com/artist/5HK21vFGCSj9b81nLOP9Cr) | [Tyrannosaurus Rave](https://open.spotify.com/album/6XZK0WsUnmTGUWRDKigP2S) | 2:22 | 2025-01-09 | 2025-01-17 |
+| [Mint](https://open.spotify.com/track/2KHCWfzscQH15hCiLMpaCi) | [Drumfish](https://open.spotify.com/artist/2K1niaGIMquSzoja4NOr9s) | [Mint](https://open.spotify.com/album/05HKFvTsatEAM8DUtF62H6) | 4:17 | 2025-05-30 |  |
 | [Miss Flower](https://open.spotify.com/track/1hJExI3j1IxCX3oF4vSrT0) | [Emilíana Torrini](https://open.spotify.com/artist/08j69Ndyx1P7RLO3Janb5P) | [Miss Flower](https://open.spotify.com/album/0thghuU7dVgp6zmfvLJp0q) | 4:03 | 2024-04-26 | 2024-05-03 |
 | [Miss Independent](https://open.spotify.com/track/3cJYabIZeTxKGoqJcGrfZz) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [R2R MOE](https://open.spotify.com/artist/6wNPY2m52IiyyVZXR339D9) | [Miss Independent](https://open.spotify.com/album/0nqnSOBfk40E7PKulHrK8Z) | 3:05 | 2024-06-27 | 2024-07-05 |
 | [Miss It \(At All\)](https://open.spotify.com/track/2nzuxOVjKggQgQG23AlwBu) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [Tokio Hotel](https://open.spotify.com/artist/46aNfN89JrOQTCy97GoCHa) | [Miss It \(At All\)](https://open.spotify.com/album/1PpIp6eVoghdTRyTD20gdu) | 2:07 | 2025-01-30 | 2025-02-07 |
@@ -4056,6 +4058,7 @@
 | [Still Life](https://open.spotify.com/track/3Rmo63pS3ZAM03dJ9lVErM) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Miracle](https://open.spotify.com/album/7DkhdPN2rSpYG0tXqDljIh) | 3:44 | 2024-04-26 | 2024-05-03 |
 | [Still The Same](https://open.spotify.com/track/1ALggh912tizrjndhRLY63) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Still The Same](https://open.spotify.com/album/3bGZJDlp1lBNJYrcdGR1F4) | 3:14 | 2024-09-20 | 2024-09-27 |
 | [Stille Kämpfer](https://open.spotify.com/track/5UO3CCD2ShqhLJFQG5Mh3R) | [Florian Künstler](https://open.spotify.com/artist/50ZzowkYhUZZ2uGZSXqJbE) | [Stille Kämpfer](https://open.spotify.com/album/2tzv9zalwGDyGolp1de6Ly) | 2:34 | 2024-08-29 | 2024-09-06 |
+| [Stille Wasser](https://open.spotify.com/track/1iBkEJnVxoUND51ElRlJja) | [Sierra Kidd](https://open.spotify.com/artist/0U7ti3mwGrBNlKNE4YlbfT) | [Stille Wasser](https://open.spotify.com/album/3ZXXz3FHwcjbLIPIvRT24S) | 2:50 | 2025-05-30 |  |
 | [STORES](https://open.spotify.com/track/7ci4fjACoT3LS3wHOydlfS) | [BILLA JOE](https://open.spotify.com/artist/72y6W9pGy97xTM44dwy3F6), [Faroon](https://open.spotify.com/artist/697ZbUKLJSEWWhtayAGxBY) | [STRICTLY BUSINESS](https://open.spotify.com/album/4FbPtg44KSV3bm8913iuDa) | 2:55 | 2024-06-06 | 2024-06-14 |
 | [Story](https://open.spotify.com/track/4GlUBqfPOLCPirtduhOkwz) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Take A Daytrip](https://open.spotify.com/artist/3StB6ddX8vfwCGVD9HlNUw) | [Story](https://open.spotify.com/album/2IgwHozPjSJEPYzqs2vTS8) | 3:06 | 2025-04-24 | 2025-05-02 |
 | [Straight Rhymez 2](https://open.spotify.com/track/5srEoh3bdB2tGTPpbSKqcP) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Straight Rhymez 2](https://open.spotify.com/album/0YQucn2zCE4iugBcCtA9kH) | 2:43 | 2025-03-06 | 2025-03-14 |

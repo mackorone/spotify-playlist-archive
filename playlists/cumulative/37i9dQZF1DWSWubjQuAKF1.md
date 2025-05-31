@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: pszona
 
-468 songs - 22 hr 42 min
+470 songs - 22 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [Do widzenia](https://open.spotify.com/track/00rhQ7q9oJoVnyKCnh4XkO) | [Kingska](https://open.spotify.com/artist/4ljnkCys9QaDstkxb54Z8N) | [Do widzenia](https://open.spotify.com/album/7wJEkhd5SuRwCwRSNBkfft) | 2:32 | 2025-01-09 | 2025-01-24 |
 | [Dom](https://open.spotify.com/track/7fSOxNZk4L5pY6dFri7BRA) | [PHERO](https://open.spotify.com/artist/0rCwkT0lVZHeA8qek9DAhM) | [Dom](https://open.spotify.com/album/1VwPmTAsUEOtfJ8hUhNdKF) | 3:04 | 2024-11-07 | 2025-01-24 |
 | [Droga na szczyt](https://open.spotify.com/track/22BWCcf3TRftAfP71zauxf) | [Roxi](https://open.spotify.com/artist/6ow2wx3HMUNE74wndNKUyw) | [Droga na szczyt](https://open.spotify.com/album/2CtcBO4momVTAkA3cP3cGF) | 2:45 | 2024-08-30 | 2024-09-20 |
-| [Duch](https://open.spotify.com/track/6rWIDZ3kqUuGYPvR68wuER) | [Zuzanna Malisz](https://open.spotify.com/artist/4jsgm84uldfJKyy0lSOF3A) | [Pomiędzy](https://open.spotify.com/album/6CXy0mzT8UGklAJXykNtHY) | 3:00 | 2025-04-03 |  |
+| [Duch](https://open.spotify.com/track/6rWIDZ3kqUuGYPvR68wuER) | [Zuzanna Malisz](https://open.spotify.com/artist/4jsgm84uldfJKyy0lSOF3A) | [Pomiędzy](https://open.spotify.com/album/6CXy0mzT8UGklAJXykNtHY) | 3:00 | 2025-04-03 | 2025-05-31 |
 | [Dwa Tygodnie](https://open.spotify.com/track/3JmQQfMfhJdQEeMp3T8Txd) | [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5) | [Instalacja I](https://open.spotify.com/album/3HB7pBioWew0y3VogkkUVw) | 2:45 | 2024-07-18 | 2024-11-08 |
 | [Działasz na mnie jak](https://open.spotify.com/track/7humurIbO0Dwd790y0SQ4b) | [Elena](https://open.spotify.com/artist/27cGum5CmUlUoCKxaiKqnn) | [Działasz na mnie jak](https://open.spotify.com/album/4DVzebGjBJ6lZEAI93927m) | 2:09 | 2025-02-13 | 2025-02-28 |
 | [DZIEWCZYNA Z PLAKATU](https://open.spotify.com/track/76oBCUbZ0Pi2Zie2HzJzYM) | [Cyrko](https://open.spotify.com/artist/5CbbOjtGnLPHyQj6ml7WLL) | [DZIEWCZYNA Z PLAKATU](https://open.spotify.com/album/6fdEQop9ZUjRZNNLI2Cchv) | 2:39 | 2024-10-11 | 2025-01-24 |
@@ -157,7 +157,7 @@
 | [I że czuje się sam](https://open.spotify.com/track/66J5TPZdbpAl9V3VLrZF4N) | [Julia Rocka](https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN), [Michał Szczygieł](https://open.spotify.com/artist/3LnV4Ef0wfc2ATFF4IAW5z) | [I że czuje się sam](https://open.spotify.com/album/0q1hihxl4GD0e0vY9bext6) | 3:04 | 2024-06-28 | 2024-07-12 |
 | [I'm in love](https://open.spotify.com/track/2xIGo3LOGsqqJ7gdl4amM1) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [I'm in love](https://open.spotify.com/album/7v6ybJ0OVTGWyjHdSKeffm) | 2:46 | 2025-01-23 | 2025-03-21 |
 | [if jesus saw what we did last night](https://open.spotify.com/track/4a65gfI09BeAqNaIcAgYmL) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [if jesus saw what we did last night](https://open.spotify.com/album/6y8XFE6QYJidrA9I89pZRV) | 2:48 | 2025-02-20 | 2025-04-25 |
-| [in the woods](https://open.spotify.com/track/03lBsuElyuMhHK3Za6D8OC) | [shama](https://open.spotify.com/artist/1HhRfvC2bS9XeeiR5I5UmI) | [in the woods](https://open.spotify.com/album/3ITa8cc3RszOtg0VwgxBpK) | 2:26 | 2025-04-24 |  |
+| [in the woods](https://open.spotify.com/track/03lBsuElyuMhHK3Za6D8OC) | [shama](https://open.spotify.com/artist/1HhRfvC2bS9XeeiR5I5UmI) | [in the woods](https://open.spotify.com/album/3ITa8cc3RszOtg0VwgxBpK) | 2:26 | 2025-04-24 | 2025-05-31 |
 | [IPhone 6s](https://open.spotify.com/track/1NT8bf6kXaGfwp0iz4A48d) | [Mlecze](https://open.spotify.com/artist/5lCEddkyXfytjFWsUlviEo) | [IPhone 6s](https://open.spotify.com/album/5OR6o7nR3fT2peyT2uamY2) | 3:22 | 2025-05-01 |  |
 | [it's not my fault](https://open.spotify.com/track/4fNGwDst4WIJZw0a9cjCnh) | [Klaudia](https://open.spotify.com/artist/3dWkm8gaXw4aS2fKk36z2o) | [it's not my fault](https://open.spotify.com/album/0LSPBdQLwv31qZNBuENUgZ) | 2:59 | 2024-11-07 | 2025-01-24 |
 | [I’ve seen ur ex](https://open.spotify.com/track/5NsCrja8hjnneu6sqQld2j) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [I’ve seen ur ex](https://open.spotify.com/album/5zumfHJnOknVV1xNWhUF54) | 3:27 | 2025-03-13 |  |
@@ -223,6 +223,7 @@
 | [Metro i pałac](https://open.spotify.com/track/1JF7UKCVrFaXZBA7UTMWXG) | [SaMa](https://open.spotify.com/artist/4xEYSiX0oZb4EkmDnu60Tt) | [Metro i pałac](https://open.spotify.com/album/2sgmkk8GKcXxz10fb8cnvI) | 3:12 | 2024-06-28 | 2024-08-02 |
 | [MIAMI VICE](https://open.spotify.com/track/6cvLck4RJ9yABjPuSQrx6w) | [NEL](https://open.spotify.com/artist/3gC2pjwYVTQdMuHUucgODF) | [MIAMI VICE](https://open.spotify.com/album/5XBFcO4GD7rNxenfYE5ZoU) | 2:14 | 2024-06-28 | 2024-11-22 |
 | [Miałeś być](https://open.spotify.com/track/6VZZhPyAo9U7ZTBRXduWBH) | [Wiktor Waligóra](https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL), [Piotr Odoszewski](https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk), [Kajetan Wolas](https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj), [PROJEKT WOW](https://open.spotify.com/artist/5PMVw2BdUOLVhFe0Hibkms) | [Miałeś być](https://open.spotify.com/album/3CBHukc8YI5PSfaurN9JCS) | 2:57 | 2024-06-28 | 2024-09-14 |
+| [miejsce dla 2](https://open.spotify.com/track/5bOKRpuTYZDzXuTW2Vm8Yt) | [pszona](https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq) | [miejsce dla 2](https://open.spotify.com/album/7DuNGKkIAJLNx6tf6gxCJB) | 2:52 | 2025-05-29 |  |
 | [milczysz](https://open.spotify.com/track/2REKOuFQwvWRfycJB1Hfn1) | [Magda Drejka](https://open.spotify.com/artist/0pUTemal7XM7uGxiyphELo) | [milczysz](https://open.spotify.com/album/0q3TtiHKHnQvnDXhDRfRYI) | 2:17 | 2024-08-22 | 2025-01-24 |
 | [MILION](https://open.spotify.com/track/5F3tMkclVSZ3sYyhU9knBx) | [LIJA](https://open.spotify.com/artist/46Ke0Gji5QAaMGvsTgBEj5) | [MILION](https://open.spotify.com/album/2uMYW6xYTT6yQeCZorgoaD) | 2:57 | 2024-09-13 | 2025-01-24 |
 | [Miliony monet \(feat\. Wiktor Waligóra, Piotr Odoszewski & Kajetan Wolas\)](https://open.spotify.com/track/3u7NG0qKoxZPbdLiz2G6lp) | [PROJEKT WOW](https://open.spotify.com/artist/5PMVw2BdUOLVhFe0Hibkms), [Wiktor Waligóra](https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL), [Piotr Odoszewski](https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk), [Kajetan Wolas](https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj) | [Miliony monet \(feat\. Wiktor Waligóra, Piotr Odoszewski & Kajetan Wolas\)](https://open.spotify.com/album/3ZrD1SPVM3EUSqbUM9AgW0) | 2:52 | 2024-07-25 | 2024-11-08 |
@@ -256,6 +257,7 @@
 | [Najdłuższy Dzień w Tym Roku](https://open.spotify.com/track/2p9Lo0e233bxNmbeJMA9Ey) | [Paula Biskup](https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2) | [Najdłuższy Dzień w Tym Roku](https://open.spotify.com/album/7Ci8l4QkTaj941tg4gqw8Z) | 2:54 | 2024-06-28 | 2024-07-19 |
 | [Narkotyk](https://open.spotify.com/track/5AO9dmRl4XCb0iW6ZP3fQb) | [PHERO](https://open.spotify.com/artist/0rCwkT0lVZHeA8qek9DAhM) | [Narkotyk](https://open.spotify.com/album/1eVrFxiHAjO66n5JsXF7CQ) | 2:07 | 2024-10-18 | 2025-01-24 |
 | [Nasze lato](https://open.spotify.com/track/5F0ljs66WoL6VGL8vtcYlz) | [Aria Martelle](https://open.spotify.com/artist/4eD0JcSnBvEtyvY3QF2U0K) | [Nasze lato](https://open.spotify.com/album/0ZZVov08lHKPGzGqGFUeYu) | 2:19 | 2024-08-01 | 2024-10-05 |
+| [Need 2](https://open.spotify.com/track/2XOTQLxng9rBeHw2jHNqDY) | [Jan Marczewski](https://open.spotify.com/artist/0JIgW2OFhm0hH8UdCMU5SU) | [Need 2](https://open.spotify.com/album/65LTuhV9Kiufno0XuD6OsN) | 2:40 | 2025-05-29 |  |
 | [Nic ci nie powiem](https://open.spotify.com/track/6sDsmLE2BicdfXfLhCl6nW) | [Magda Kluz](https://open.spotify.com/artist/0yKPpbp3T6JTB9ApDMv9SZ) | [Nic ci nie powiem](https://open.spotify.com/album/7IRrnnHBTRQQ0mzyzNruBu) | 3:08 | 2025-04-10 | 2025-05-04 |
 | [nic\(i\)](https://open.spotify.com/track/3A1JBCrP4dlR4ZT0pK3jtt) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [z papieru](https://open.spotify.com/album/7uQvbQsog1LioDPDODHOqx) | 2:18 | 2025-01-23 | 2025-03-07 |
 | [nic\(i\)](https://open.spotify.com/track/7CYz7FGYsxJWeF94lqsbFc) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [nic\(i\)](https://open.spotify.com/album/6x9tlX5hDXDCWQchmqSgt4) | 2:18 | 2024-06-28 | 2024-08-31 |

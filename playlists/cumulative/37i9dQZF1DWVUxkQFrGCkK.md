@@ -4,7 +4,7 @@
 
 > IBZ season is officially here!!
 
-951 songs - 2 day 18 hr 38 min
+952 songs - 2 day 18 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -731,6 +731,7 @@
 | [See This Through \- George Fitzgerald Remix](https://open.spotify.com/track/6lGy5cphcbocAN4X4gVVjr) | [Alex Metric](https://open.spotify.com/artist/6RDNTAgm2s6ae71nXWGnJD), [Dot Major](https://open.spotify.com/artist/02KPkbCJoF0txgF3MN7KIh), [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [See This Through \(George FitzGerald Remix\)](https://open.spotify.com/album/23EZlHdMqPutEYNt7uTguV) | 4:42 | 2023-08-01 | 2023-08-25 |
 | [See You There](https://open.spotify.com/track/4S0F00VeLl8ykdb9CRaESp) | [Castelle](https://open.spotify.com/artist/4EDL1aHoT46jRLUjubeVNM), [Keiynan](https://open.spotify.com/artist/0tkkz8CmkHga4YZgSHEDVl) | [See You There](https://open.spotify.com/album/6eoY9OsT3DnT4AGjONbjog) | 3:43 | 2023-06-29 | 2024-01-05 |
 | [Sense of Future](https://open.spotify.com/track/5Kq0Jib7ExaLawQnkW5ygj) | [Across Boundaries](https://open.spotify.com/artist/05LFLggIBdr1eWwonERbmT), [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So), [Locklead](https://open.spotify.com/artist/14X4Rn0s4EuGtizL0l8IIw) | [Sense of Future](https://open.spotify.com/album/1KcKv5A34ehM9aqPuVoDfH) | 6:15 | 2023-08-01 | 2023-08-25 |
+| [Sentimental \- Sombras](https://open.spotify.com/track/5rl7bbc4BX52AqIhKI2PK1) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb) | [Sentimental \(Sombras\)](https://open.spotify.com/album/3PuKobf2zMiYe686HFaQiy) | 3:33 | 2025-05-29 |  |
 | [set me free](https://open.spotify.com/track/2C3oAqU1XpVO2a7MssURkk) | [Aaron Hibell](https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj), [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT) | [set me free](https://open.spotify.com/album/004HrUsnT6v50zlNn2g153) | 3:38 | 2024-09-26 |  |
 | [set me free \- Maxi Meraki Remix](https://open.spotify.com/track/4Q8Gycs0QvvGmI9OnQuzzu) | [Aaron Hibell](https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj), [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT), [MAXI MERAKI](https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm) | [set me free \(Maxi Meraki Remix\)](https://open.spotify.com/album/4TXcf9Pq5uVaesFeW3kTXm) | 6:00 | 2025-03-27 |  |
 | [Seve 2.0 \- Luch Rework](https://open.spotify.com/track/0Z2DaVumQ6gfmFngXl7XUb) | [Tez Cadey](https://open.spotify.com/artist/5cBeFQv3kBVP8o15CmPTKb), [Luch](https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp) | [Seve 2.0 \(Luch Rework\)](https://open.spotify.com/album/46AW75spYWrIPCA2KiK82s) | 6:36 | 2024-08-01 |  |

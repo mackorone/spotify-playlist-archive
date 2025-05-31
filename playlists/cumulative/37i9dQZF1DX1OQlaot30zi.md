@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Guè e Rasty, Fibra, Faneto, Slings e tanti altri.
 
-5,560 songs - 10 day 7 hr 59 min
+5,561 songs - 10 day 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1172,6 +1172,7 @@
 | [Com Força](https://open.spotify.com/track/2x5bWtNU2l9ZgIhNx480uG) | [JUICY&RYZZO](https://open.spotify.com/artist/5iXBPEA1HCOt7JcaL6yNkK) | [Com Força](https://open.spotify.com/album/70r4iqvJFfNO8wV5XdyTfo) | 2:19 | 2024-02-08 | 2024-02-16 |
 | [Combo](https://open.spotify.com/track/3ss7ooXnqwesHCyMLNcviq) | [35 GANG](https://open.spotify.com/artist/2byoQaX4ELyfhZihPEtRTI), [CHA CHA](https://open.spotify.com/artist/1WAaVzkzuU1InRBcl5KGOi), [BOLLA](https://open.spotify.com/artist/4Z79SLpbG0M0a8WFfzj82W), [KURO](https://open.spotify.com/artist/0DBZ3h71HbOVEPFvJlq2lC) | [Combo](https://open.spotify.com/album/0QkKKLxR6NENkjNsix9OrW) | 2:23 | 2024-11-28 | 2024-12-13 |
 | [Come a Dakar](https://open.spotify.com/track/6a9yidr8DpQwO8qNY29x5B) | [MBOSS](https://open.spotify.com/artist/5IHqA6YzPMGrf9CDjly4az), [Low Kidd](https://open.spotify.com/artist/5WBincqAirIREkG5sXqeyq) | [Come a Dakar](https://open.spotify.com/album/20jMLLeQuGTntObzVBXyzW) | 2:05 | 2023-12-07 | 2024-01-05 |
+| [Come dici prego?](https://open.spotify.com/track/6SEfGfafXRpGSwTFOrg01A) | [Don Said](https://open.spotify.com/artist/2I5bwg7ZUD8JiM12xMMGYO) | [Come dici prego?](https://open.spotify.com/album/5WgOFE63fcO7ElQXNtxVKm) | 2:35 | 2025-05-30 |  |
 | [COME FANNO](https://open.spotify.com/track/29CqjSgueQYgqG227LyQ87) | [LILCR](https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S) | [LONDON TAPE](https://open.spotify.com/album/6jw0TkCbdgpcRtJnFTEvyC) | 1:59 | 2024-08-01 | 2024-09-13 |
 | [COME GIRA.](https://open.spotify.com/track/0d76Nrl1SoFBJucIkiobwN) | [DANTE](https://open.spotify.com/artist/24wf3HIkBrQyXagDgNSeTj), [Cripo](https://open.spotify.com/artist/4gStQ4qUXS6NLN8N7GThb0) | [COME GIRA.](https://open.spotify.com/album/44hoTXdsItkwALq351twH2) | 2:20 | 2023-04-20 | 2023-04-28 |
 | [COME GODO \(feat\. Jake La Furia\)](https://open.spotify.com/track/5SYZS459Yx5ka9unJgNZB0) | [Articolo 31](https://open.spotify.com/artist/1Ij5ZIGlPTkoZibay58zHe), [Jake La Furia](https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH) | [PROTOMARANZA](https://open.spotify.com/album/7974d9vxiVh64fS6m4k0J6) | 2:12 | 2024-05-09 | 2024-05-24 |
@@ -5294,7 +5295,7 @@
 | [VERDE BOTTEGA \(Pray For Me\)](https://open.spotify.com/track/5DiBxH21Xv3MxYq6ntGfJd) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [VERDE BOTTEGA \(Pray For Me\)](https://open.spotify.com/album/5VMTH9MijJwieAvxoZg3na) | 2:41 | 2025-01-17 | 2025-02-07 |
 | [verdeacqua](https://open.spotify.com/track/6kY4EZVQTRCgX09GtRRBFl) | [Trill Ventuno](https://open.spotify.com/artist/1V1WPbJFdq3YTDIQ9iVj7l) | [verdeacqua](https://open.spotify.com/album/7bKLBgPEAkaLz7FK1QmGrz) | 2:24 | 2022-06-23 | 2022-07-01 |
 | [VERGINE MARIA](https://open.spotify.com/track/4QxvX0QHRWK10WfuOUiuMp) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [VERGINE MARIA](https://open.spotify.com/album/67iNHtyQUxt4eWZJBlbrVa) | 2:32 | 2024-11-14 | 2024-11-29 |
-| [VERI AMICI](https://open.spotify.com/track/09yO1DfmFTYJgvWYrF54xe) | [Titien](https://open.spotify.com/artist/4T3Uc7PdFGOqmKxVP8lWSN), [Pretty Solero](https://open.spotify.com/artist/3kgjDFMkBBMlr7DXoBYDA0), [Tropic Thunder](https://open.spotify.com/artist/6uvs1fRGySw5xUeAOrdyWm) | [VANGELO FELLAS](https://open.spotify.com/album/2Ot3dUPXX6urYcmKwADCq6) | 2:27 | 2025-05-22 |  |
+| [VERI AMICI \(Prod\. Carl Brave\)](https://open.spotify.com/track/09yO1DfmFTYJgvWYrF54xe) | [Titien](https://open.spotify.com/artist/4T3Uc7PdFGOqmKxVP8lWSN), [Pretty Solero](https://open.spotify.com/artist/3kgjDFMkBBMlr7DXoBYDA0), [Tropic Thunder](https://open.spotify.com/artist/6uvs1fRGySw5xUeAOrdyWm) | [VANGELO FELLAS](https://open.spotify.com/album/2Ot3dUPXX6urYcmKwADCq6) | 2:27 | 2025-05-22 |  |
 | [verità](https://open.spotify.com/track/3H29QrkGloKtf7Qmsr6872) | [Tredici Pietro](https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC) | [verità](https://open.spotify.com/album/4iNmAbukMrlsz3ibl4CT6k) | 2:55 | 2025-03-06 | 2025-04-04 |
 | [VERO](https://open.spotify.com/track/49rmkEnXeaRV7rFihoN2hZ) | [L'Elfo](https://open.spotify.com/artist/3QJjzLwRMgdGoFwzmVodxJ) | [VERO](https://open.spotify.com/album/0FJvBs2fyP6S9tUCeVf57R) | 2:40 | 2024-10-10 | 2024-11-08 |
 | [Vero \(feat\. 8blevrai & Swan\)](https://open.spotify.com/track/16fa0zXHJZfTMjtsbfXCvB) | [Real Talk](https://open.spotify.com/artist/7MeFbKQT6w9iBMLuHmzVVW), [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D), [Swan](https://open.spotify.com/artist/5vjkHRMoB3hWGn3BvNqGcj) | [EP 5/2 \(feat\. 8blevrai\)](https://open.spotify.com/album/1MjbO2LyNAOeYlE4NlfIb1) | 1:52 | 2023-06-01 | 2023-06-30 |

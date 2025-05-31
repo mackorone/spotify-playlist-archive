@@ -107,6 +107,28 @@
     },
     {
       "album": {
+        "name": "All Talk",
+        "url": "https://open.spotify.com/album/0rs1UsgxCAo1cuUQ79OQDU"
+      },
+      "artists": [
+        {
+          "name": "Qlank",
+          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
+        },
+        {
+          "name": "Isenberg",
+          "url": "https://open.spotify.com/artist/753xxcDfgqoyWJTs55HCal"
+        }
+      ],
+      "date_added": "2025-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256976,
+      "name": "All Talk",
+      "url": "https://open.spotify.com/track/2syDBxdUUcHtPjNSl1WRLS"
+    },
+    {
+      "album": {
         "name": "B2TF (feat. JC Stormz)",
         "url": "https://open.spotify.com/album/4952qWUyIqIZopeUc9MK2p"
       },
@@ -174,7 +196,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 244761,
       "name": "Bad Girl",
       "url": "https://open.spotify.com/track/6neubvtqUejjgg8i0oupR8"

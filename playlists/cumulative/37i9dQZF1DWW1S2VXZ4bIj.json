@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Three Man Down",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: PONCHET",
   "name": "\u0e2e\u0e34\u0e15\u0e15\u0e34\u0e14\u0e01\u0e23\u0e30\u0e41\u0e2a",
   "tracks": [
     {
@@ -418,7 +418,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 214357,
       "name": "blue",
       "url": "https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG"
@@ -760,7 +760,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 180716,
       "name": "Don\u2019t Say You Love Me",
       "url": "https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ"
@@ -1458,7 +1458,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 124577,
       "name": "Like You",
       "url": "https://open.spotify.com/track/1iBYMUTBFJDkAW8zQQWGNl"
@@ -1701,6 +1701,24 @@
     },
     {
       "album": {
+        "name": "MENACE",
+        "url": "https://open.spotify.com/album/1myy2Uyu72ydZYlXydekjN"
+      },
+      "artists": [
+        {
+          "name": "MILLI",
+          "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154577,
+      "name": "MENACE",
+      "url": "https://open.spotify.com/track/3h0AyBKSA7fHWanQzv00Nb"
+    },
+    {
+      "album": {
         "name": "Messy",
         "url": "https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh"
       },
@@ -1734,7 +1752,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 179055,
       "name": "Messy (From F1\u00ae The Movie)",
       "url": "https://open.spotify.com/track/6Wobsw9uZ0D0xkfOjxXSq9"
@@ -4625,6 +4643,28 @@
     },
     {
       "album": {
+        "name": "\u0e16\u0e49\u0e32\u0e27\u0e31\u0e19\u0e19\u0e31\u0e49\u0e19(IF I)",
+        "url": "https://open.spotify.com/album/2Bndzg0qhSKhR875VH7fqH"
+      },
+      "artists": [
+        {
+          "name": "URBOYTJ",
+          "url": "https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg"
+        },
+        {
+          "name": "\u0e40\u0e25\u0e47\u0e01 \u0e23\u0e31\u0e0a\u0e40\u0e21\u0e28\u0e10\u0e4c",
+          "url": "https://open.spotify.com/artist/4zqN3dav6iuwb2djzhhtSz"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245753,
+      "name": "\u0e16\u0e49\u0e32\u0e27\u0e31\u0e19\u0e19\u0e31\u0e49\u0e19(IF I)",
+      "url": "https://open.spotify.com/track/7naq7gYikvPN8RTsLhyUNM"
+    },
+    {
+      "album": {
         "name": "\u0e16\u0e49\u0e32\u0e2b\u0e32\u0e01\u0e09\u0e31\u0e19\u0e23\u0e39\u0e49\u0e27\u0e48\u0e32\u0e21\u0e31\u0e19\u0e08\u0e30\u0e40\u0e08\u0e47\u0e1a (ALT. ENDING)",
         "url": "https://open.spotify.com/album/1NF8GzDpRk4Mhhhz5IlP6b"
       },
@@ -5230,7 +5270,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 209142,
       "name": "\u0e1e\u0e37\u0e49\u0e19\u0e17\u0e35\u0e48\u0e04\u0e19\u0e23\u0e2d (The Waiting Room)",
       "url": "https://open.spotify.com/track/1VxFGBCNt01AjpE6ut3Zff"
@@ -5604,6 +5644,24 @@
       "duration_ms": 232941,
       "name": "\u0e23\u0e2d\u0e2d\u0e22\u0e39\u0e48\u0e2d\u0e22\u0e48\u0e32\u0e07\u0e19\u0e31\u0e49\u0e19",
       "url": "https://open.spotify.com/track/24wXz2WuaF02y0mrKNPMsN"
+    },
+    {
+      "album": {
+        "name": "\u0e23\u0e31\u0e01\u0e19\u0e30\u0e40\u0e14\u0e47\u0e01\u0e42\u0e07\u0e48 (Stupid Girl)",
+        "url": "https://open.spotify.com/album/69XUkxFFdCf0VyLQg8uUQP"
+      },
+      "artists": [
+        {
+          "name": "PONCHET",
+          "url": "https://open.spotify.com/artist/0BRKLnTK2MmWWQ2RXJAHQr"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241134,
+      "name": "\u0e23\u0e31\u0e01\u0e19\u0e30\u0e40\u0e14\u0e47\u0e01\u0e42\u0e07\u0e48 (Stupid Girl)",
+      "url": "https://open.spotify.com/track/78rFoVaLAUsvURP8SrdNCH"
     },
     {
       "album": {
@@ -6357,6 +6415,24 @@
     },
     {
       "album": {
+        "name": "\u0e2d\u0e22\u0e32\u0e01\u0e08\u0e30\u0e01\u0e2d\u0e14\u0e40\u0e18\u0e2d\u0e19\u0e32\u0e19 \u0e46 (HAVE A GOOD TIME)",
+        "url": "https://open.spotify.com/album/51gTzozCry8vsoOpJikdqL"
+      },
+      "artists": [
+        {
+          "name": "BLVCKHEART",
+          "url": "https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219428,
+      "name": "\u0e2d\u0e22\u0e32\u0e01\u0e08\u0e30\u0e01\u0e2d\u0e14\u0e40\u0e18\u0e2d\u0e19\u0e32\u0e19 \u0e46 (HAVE A GOOD TIME)",
+      "url": "https://open.spotify.com/track/63oA4hG0SqvsUFfaEhgqVX"
+    },
+    {
+      "album": {
         "name": "\u0e2d\u0e22\u0e39\u0e48\u0e04\u0e19\u0e40\u0e14\u0e35\u0e22\u0e27\u0e01\u0e31\u0e1a\u0e40\u0e02\u0e32",
         "url": "https://open.spotify.com/album/2Pm2Btrcqr3bhyOLPXRolY"
       },
@@ -7011,6 +7087,24 @@
     },
     {
       "album": {
+        "name": "\u0e40\u0e21\u0e49\u0e19\u0e2b\u0e22\u0e2d\u0e01\u0e46 (Comment)",
+        "url": "https://open.spotify.com/album/6l408RTEZpuoijgcEgDlxF"
+      },
+      "artists": [
+        {
+          "name": "PERSES",
+          "url": "https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "\u0e40\u0e21\u0e49\u0e19\u0e2b\u0e22\u0e2d\u0e01\u0e46 (Comment)",
+      "url": "https://open.spotify.com/track/7soLL3HJ0wmOtIC6Sxse5a"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e23\u0e34\u0e48\u0e21\u0e01\u0e48\u0e2d\u0e19 (If I Could)",
         "url": "https://open.spotify.com/album/6JJAfcGaQtsY0pkdpmNWEZ"
       },
@@ -7062,6 +7156,28 @@
       "duration_ms": 227000,
       "name": "\u0e40\u0e27\u0e25\u0e32\u0e40\u0e18\u0e2d\u0e22\u0e34\u0e49\u0e21 (You Had Me At Hello)",
       "url": "https://open.spotify.com/track/06DPpk0hUJEgpzl5cuWNI6"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e08\u0e08\u0e19\u0e15\u0e32\u0e22 (FOREVER REGRET) [feat. Violette Wautier]",
+        "url": "https://open.spotify.com/album/1A7Edhpyb6GrDSYf5UT8gs"
+      },
+      "artists": [
+        {
+          "name": "Retrospect",
+          "url": "https://open.spotify.com/artist/5WMTLWYhybOr4SExHQiu1q"
+        },
+        {
+          "name": "Violette Wautier",
+          "url": "https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269250,
+      "name": "\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e08\u0e08\u0e19\u0e15\u0e32\u0e22 (FOREVER REGRET) [feat. Violette Wautier]",
+      "url": "https://open.spotify.com/track/6vLc3r0S8VS15QdZAdAbFZ"
     },
     {
       "album": {
@@ -7397,6 +7513,32 @@
     },
     {
       "album": {
+        "name": "\u0e42\u0e25\u0e01\u0e41\u0e2b\u0e48\u0e07\u0e04\u0e27\u0e32\u0e21\u0e1d\u0e31\u0e19",
+        "url": "https://open.spotify.com/album/1HNSNYUF7fQX2gMklOtfTC"
+      },
+      "artists": [
+        {
+          "name": "Rifle",
+          "url": "https://open.spotify.com/artist/3Kyev97NB5IuMYwMP1Ea2D"
+        },
+        {
+          "name": "Z9",
+          "url": "https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP"
+        },
+        {
+          "name": "Sexski",
+          "url": "https://open.spotify.com/artist/6QeYcD1n2YcWygCScfLhRE"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231428,
+      "name": "\u0e42\u0e25\u0e01\u0e41\u0e2b\u0e48\u0e07\u0e04\u0e27\u0e32\u0e21\u0e1d\u0e31\u0e19",
+      "url": "https://open.spotify.com/track/0tyYfrsTTiqK04TipBrIrg"
+    },
+    {
+      "album": {
         "name": "\u0e42\u0e2b\u0e25\u0e22\u0e42\u0e17\u0e48\u0e22 (Poor Boy)",
         "url": "https://open.spotify.com/album/0kcSrOXptP3PBv9T8r22Qc"
       },
@@ -7556,7 +7698,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 284389,
       "name": "\u0e44\u0e01\u0e25\u0e01\u0e27\u0e48\u0e32\u0e14\u0e32\u0e27 (Million Light-Years)",
       "url": "https://open.spotify.com/track/70pOmngGTSMHPjgIqVRFsI"

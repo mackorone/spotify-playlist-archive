@@ -1397,6 +1397,28 @@
     },
     {
       "album": {
+        "name": "Fok Met Dai",
+        "url": "https://open.spotify.com/album/6e2PTGA2w6l1dQNTxy8hAa"
+      },
+      "artists": [
+        {
+          "name": "KerwieG",
+          "url": "https://open.spotify.com/artist/3qmde6mfMcO7FWniYjoob5"
+        },
+        {
+          "name": "Fyetjiebobblehead",
+          "url": "https://open.spotify.com/artist/5Xb5rv3r1OAyfCImS7oePm"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169846,
+      "name": "Fok Met Dai",
+      "url": "https://open.spotify.com/track/28YkdmliCy3x8HsTq5zb5b"
+    },
+    {
+      "album": {
         "name": "2K25",
         "url": "https://open.spotify.com/album/5r1pEHnPXsqzsO7KCirgmr"
       },
@@ -1420,7 +1442,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 201351,
       "name": "Fok Met Hai",
       "url": "https://open.spotify.com/track/69zAtt5IgW7xixqCrlrhYi"
@@ -2411,6 +2433,24 @@
     },
     {
       "album": {
+        "name": "Massive",
+        "url": "https://open.spotify.com/album/1kLvAMqMrqd1KbPamJfxah"
+      },
+      "artists": [
+        {
+          "name": "Chesrae Megan",
+          "url": "https://open.spotify.com/artist/1qeAB2QeA049zZIJomTUxf"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177972,
+      "name": "Massive",
+      "url": "https://open.spotify.com/track/5T9YoFqvvLDBMvjRw71WSx"
+    },
+    {
+      "album": {
         "name": "Master",
         "url": "https://open.spotify.com/album/1VBh6aNJi2dcXprXcczPYT"
       },
@@ -3206,7 +3246,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 249945,
       "name": "Praat meer bollie",
       "url": "https://open.spotify.com/track/0mO8vuAiK6ZzHvHMxzEfW4"

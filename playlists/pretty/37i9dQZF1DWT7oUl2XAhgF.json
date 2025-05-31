@@ -1,13 +1,33 @@
 {
   "description": "A new take on a classic sound. Cover: Thee Sacred Souls",
-  "num_followers": 364328,
+  "num_followers": 364397,
   "original_name": "Retro Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aC/y6QAAAAB9k+Z8peeYs1EvYZtHbyvy",
+  "snapshot_id": "aDktUwAAAADNRsBDOTovkBRkkDEWXqay",
   "tracks": [
+    {
+      "added_at": "2025-05-30 04:00:19",
+      "album": {
+        "name": "Lovers' Holiday",
+        "url": "https://open.spotify.com/album/5K1exgNYjlugtrUPutVgBM"
+      },
+      "artists": [
+        {
+          "name": "Durand Jones & The Indications",
+          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
+        },
+        {
+          "name": "Durand Jones",
+          "url": "https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs"
+        }
+      ],
+      "duration_ms": 205666,
+      "name": "Lovers' Holiday",
+      "url": "https://open.spotify.com/track/6yGBX0IefuwQfBRYaaXpcV"
+    },
     {
       "added_at": "2025-05-16 04:00:18",
       "album": {
@@ -23,6 +43,22 @@
       "duration_ms": 166436,
       "name": "We Don't Have to Be Alone",
       "url": "https://open.spotify.com/track/6hRESIERR8gWu6CERwi2Zm"
+    },
+    {
+      "added_at": "2025-05-30 04:00:19",
+      "album": {
+        "name": "Send It Back",
+        "url": "https://open.spotify.com/album/1w88Rkop980Vu2KBZQbPM6"
+      },
+      "artists": [
+        {
+          "name": "DON WEST",
+          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
+        }
+      ],
+      "duration_ms": 173112,
+      "name": "Send It Back",
+      "url": "https://open.spotify.com/track/6FDYvTpaGaGjXqsnNhUPXm"
     },
     {
       "added_at": "2025-05-16 04:00:18",
@@ -77,24 +113,24 @@
       "url": "https://open.spotify.com/track/7bWe4daPY3z357WjP6Xu7p"
     },
     {
-      "added_at": "2025-04-25 04:00:41",
+      "added_at": "2025-05-30 04:00:19",
       "album": {
-        "name": "Flower Moon",
-        "url": "https://open.spotify.com/album/7GzYgcJWzgwKQI9BkcATYh"
+        "name": "If We Try",
+        "url": "https://open.spotify.com/album/2IbIbmF3m122JX9Gkh3Dhw"
       },
       "artists": [
         {
-          "name": "Durand Jones & The Indications",
-          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
+          "name": "Thee Sinseers",
+          "url": "https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS"
         },
         {
-          "name": "Aaron Frazer",
-          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
+          "name": "Joey Quinones",
+          "url": "https://open.spotify.com/artist/0I2oicRXKxaqqjpHKlyTpP"
         }
       ],
-      "duration_ms": 296080,
-      "name": "Flower Moon",
-      "url": "https://open.spotify.com/track/42ff9QhhQJM5StZgnHNAe9"
+      "duration_ms": 224360,
+      "name": "If We Try",
+      "url": "https://open.spotify.com/track/7oyYeHq2tz7f80DSl9nknN"
     },
     {
       "added_at": "2025-03-14 04:00:08",
@@ -595,26 +631,6 @@
       "duration_ms": 170000,
       "name": "It's Time",
       "url": "https://open.spotify.com/track/0J682N2n8YoOFq3z02ItvK"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Can't Call Me Baby / Take A Chance",
-        "url": "https://open.spotify.com/album/2QGqQ0lPmPyiTTFW3pUZHG"
-      },
-      "artists": [
-        {
-          "name": "Thee Sinseers",
-          "url": "https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS"
-        },
-        {
-          "name": "Joey Quinones",
-          "url": "https://open.spotify.com/artist/0I2oicRXKxaqqjpHKlyTpP"
-        }
-      ],
-      "duration_ms": 227920,
-      "name": "Take A Chance",
-      "url": "https://open.spotify.com/track/0iWw7j4fBQ95Q4SpPLkrAL"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1651,22 +1667,6 @@
       "duration_ms": 225312,
       "name": "By Design [Evel Knievel]",
       "url": "https://open.spotify.com/track/0aPyEWSjHKCTcq6celJPY6"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Envy",
-        "url": "https://open.spotify.com/album/6rGn9CWP5MHpGCh3muc5ax"
-      },
-      "artists": [
-        {
-          "name": "Ogi",
-          "url": "https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu"
-        }
-      ],
-      "duration_ms": 247133,
-      "name": "Envy",
-      "url": "https://open.spotify.com/track/1r5Wy0mdNNjrQ4ZDsfeluz"
     },
     {
       "added_at": "2023-09-29 04:01:00",

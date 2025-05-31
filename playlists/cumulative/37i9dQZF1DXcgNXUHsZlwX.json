@@ -727,6 +727,28 @@
     },
     {
       "album": {
+        "name": "Bras solaires",
+        "url": "https://open.spotify.com/album/6YRzehbBP1Pv1DU2XpRz6o"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ron",
+          "url": "https://open.spotify.com/artist/0994SGXLrE9OcemW3Q1S5F"
+        },
+        {
+          "name": "Kanen",
+          "url": "https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223663,
+      "name": "Bras solaires",
+      "url": "https://open.spotify.com/track/6Wn4vLDWj71DD5l5ZjIH4p"
+    },
+    {
+      "album": {
         "name": "Bridge Back to Me (Acoustic)",
         "url": "https://open.spotify.com/album/0TVdCyrVFP1Iyu8n7od5u4"
       },
@@ -3798,7 +3820,7 @@
       ],
       "date_added": "2021-01-03",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 234593,
       "name": "La flamme",
       "url": "https://open.spotify.com/track/2ZGHA6poKjdYF53JdhJfMl"

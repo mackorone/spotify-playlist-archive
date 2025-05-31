@@ -4,7 +4,7 @@
 
 > Hit the floor with these hot new tracks and dance remixes of your favorite country songs! Cover: Brandi Cyrus
 
-219 songs - 11 hr 43 min
+220 songs - 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [hole in the bottle \(with Shania Twain\)](https://open.spotify.com/track/2bV4NwncWMnVvcWyU2yxwB) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [hole in the bottle \(with Shania Twain\)](https://open.spotify.com/album/16by1M7adOE6AeoyLzQZVc) | 2:36 | 2021-12-10 |  |
 | [Homesick \(feat\. J.W\. Cortés, Sal Gonzalez & Generald Wilson\) \- Veterans Version](https://open.spotify.com/track/3kwbmRgIbQ25wdoYUaWMI4) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [J.W\. Cortés](https://open.spotify.com/artist/4sh8PhjVnidVXL5Mynqqza), [Sal Gonzalez](https://open.spotify.com/artist/410PGdIHKf2ctqlinG6urc), [Generald Wilson](https://open.spotify.com/artist/72i1f2XGnwomm23yrnz3ed) | [Homesick \(feat\. J.W\. Cortés, Sal Gonzalez & Generald Wilson\) \[Veterans Version\]](https://open.spotify.com/album/5CGmqswjSmYl9ACq7gfjvl) | 3:24 | 2021-12-10 |  |
 | [Hometown \(feat\. Zac Brown & Danielle Bradbery\)](https://open.spotify.com/track/20aV0OvYWuGjgDh6aQxUFC) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Zac Brown](https://open.spotify.com/artist/6tKJaNOY6oNVWcegnMMEtt), [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Diplo Presents Thomas Wesley: Chapter 1 \- Snake Oil](https://open.spotify.com/album/24EiVoJXLPY9a6a7AqZNDg) | 3:35 | 2021-12-10 |  |
+| [HONKY TONK BADONKADONK](https://open.spotify.com/track/5uHA52m0cZ2l8JeUwVx8wI) | [MOONLGHT](https://open.spotify.com/artist/0b9SpFqsoxkyoTbZqLlzSs), [Country Night](https://open.spotify.com/artist/5Q520C8g8SdHdWVjw4SEU3), [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [HONKY TONK BADONKADONK](https://open.spotify.com/album/1OzaeXfWl2R0ncz727BPQs) | 1:54 | 2025-05-30 |  |
 | [Hot Honey](https://open.spotify.com/track/7fZtgiJSNJ2QarKKKSssBp) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [Hot Honey](https://open.spotify.com/album/2OB4KiVHmAuD7CGpMmiqC5) | 2:47 | 2024-07-26 |  |
 | [Hot Sauce](https://open.spotify.com/track/31kPsiy1Lwo81YqOensCZh) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [BRELAND EP](https://open.spotify.com/album/61oSbcEqPRT4bTnP4YCQvt) | 2:24 | 2021-12-10 |  |
 | [Hotdamalama \(Dee Jay Silver Remix\)](https://open.spotify.com/track/1IrCyobKLM2ewWS4p6gEKz) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I), [Dee Jay Silver](https://open.spotify.com/artist/3aWIb5E8TRdxHNotOt6XE8) | [Hotdamalama \(The Remixes\)](https://open.spotify.com/album/2JPsjQCnPkWLo9eUaZRQcX) | 3:15 | 2023-09-15 | 2024-04-19 |

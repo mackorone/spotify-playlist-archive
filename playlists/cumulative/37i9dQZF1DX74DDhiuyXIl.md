@@ -4,7 +4,7 @@
 
 > 回家的路上，有好聽的歌曲陪伴，會讓人暫時忘了疲倦。
 
-636 songs - 1 day 20 hr 44 min
+637 songs - 1 day 20 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -436,6 +436,7 @@
 | [會找到我](https://open.spotify.com/track/1xclVAVV2GqqIyMB9JAZAf) | [Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy) | [會找到我](https://open.spotify.com/album/2R2RBaPMBLThbU5YZlA6cc) | 3:48 | 2023-07-17 | 2023-09-16 |
 | [會記得我出現](https://open.spotify.com/track/6faPHyHWpPs2b3JQRLkNtu) | [Evangeline Wong](https://open.spotify.com/artist/7sEIHkZXRzGa3OBUCCxzU5) | [會記得我出現](https://open.spotify.com/album/7dxC2cd9koDEdHKmsIJRQC) | 3:33 | 2024-05-03 | 2024-05-21 |
 | [月上歌 \(《藏海传》电视剧空灵骊歌\)](https://open.spotify.com/track/5cUZRDNyRuBzyHWOYol69K) | [單依純](https://open.spotify.com/artist/7rXM91kSsqGzvYANukdQJD) | [月上歌 \(《藏海传》电视剧空灵骊歌\)](https://open.spotify.com/album/5bcywx43Lx4xCYAagN5Gvd) | 3:40 | 2025-05-29 |  |
+| [月光下的人](https://open.spotify.com/track/68JeY6qiYwjI0bSoPS8iWr) | [Ariel Tsai](https://open.spotify.com/artist/5dS7yN8gXQcQNxuuVOABIk) | [月光下的人](https://open.spotify.com/album/5zYApG5IjxYScl6moMtBP4) | 3:33 | 2025-05-29 |  |
 | [月心說](https://open.spotify.com/track/4jAVdVZUiPUQQKeKBDxedz) | [Xian Zi](https://open.spotify.com/artist/2CBuGdj5Nmgx1VfrgLnGoJ) | [月心說](https://open.spotify.com/album/0tX5D7Kj42NQCLDXk5kiAy) | 3:51 | 2023-03-21 | 2023-03-28 |
 | [有一種悲傷 \- 電影《比悲傷更悲傷的故事》主題曲](https://open.spotify.com/track/3ayrHkyorPEpeOBvZ76SwG) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [有一種悲傷 \(電影《比悲傷更悲傷的故事》主題曲\)](https://open.spotify.com/album/68NAOLFISOsBsyMLA2fUPf) | 3:57 | 2022-07-11 |  |
 | [有你在的地方 \- 電視劇《時光正好》插曲](https://open.spotify.com/track/66Z2YOLY7ROWKON3ApFyK6) | [刘明湘](https://open.spotify.com/artist/6oXNY998rSG8EQL1GDfLJJ) | [電視劇《時光正好》影視原聲帶](https://open.spotify.com/album/4SC8cj2SpG8ZR3whZJEEUc) | 4:35 | 2024-06-13 | 2024-06-21 |
@@ -594,7 +595,7 @@
 | [逃 \(電視劇《想見你》插曲\)](https://open.spotify.com/track/4E9CvUttBudC0bGR0E0qFl) | [Shi Shi](https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi) | [逃 \(電視劇《想見你》插曲\)](https://open.spotify.com/album/7BN5yIYKXtaWbx9rtqSeUd) | 4:55 | 2022-06-20 | 2022-06-26 |
 | [逆光](https://open.spotify.com/track/4NGSzMAklZOJVIB12J3Rup) | [Kimberley Chen](https://open.spotify.com/artist/1dVbVQZjRGDjQmHD8oiS8k) | [逆光](https://open.spotify.com/album/3cbTQvK8kvMWbFKqgxb6lS) | 3:15 | 2022-06-06 | 2022-07-27 |
 | [逆著人群奔向你 Running to You](https://open.spotify.com/track/0Yq0v7Ftw5wbacdFAM3ECV) | [Angela Zhang](https://open.spotify.com/artist/41OhK05E6lmycgJyaOwHDz) | [你微笑時很美 Falling Into Your Smile OST](https://open.spotify.com/album/7GcUs9FQMCUatmstpSeDZZ) | 4:38 | 2022-07-25 | 2022-07-27 |
-| [這麼多年 \- 電影《我想和你在一起》插曲](https://open.spotify.com/track/5NykvdFrH8mejmohWZvIWo) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [這麼多年 \- 電影《我想和你在一起》插曲](https://open.spotify.com/album/2FNcaYMCTEtkEOugvt8PtG) | 4:12 | 2024-06-07 |  |
+| [這麼多年 \- 電影《我想和你在一起》插曲](https://open.spotify.com/track/5NykvdFrH8mejmohWZvIWo) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [這麼多年 \- 電影《我想和你在一起》插曲](https://open.spotify.com/album/2FNcaYMCTEtkEOugvt8PtG) | 4:12 | 2024-06-07 | 2025-05-31 |
 | [連輸入法都記得你 \- 《HIStory5\-遇見未來的你》LINE TV片尾曲](https://open.spotify.com/track/1cvXawBqcyifKuKD2IdQpS) | [Andrew Tan](https://open.spotify.com/artist/5AhK8gDgOZT7lE1UlbyF1c) | [連輸入法都記得你 \(《HIStory5\-遇見未來的你》LINE TV片尾曲\)](https://open.spotify.com/album/16J1o95ybTeJSgMGHN4PTz) | 4:27 | 2023-01-09 | 2024-12-03 |
 | [逾時以後](https://open.spotify.com/track/0grMNsmSDEgMg9SMuZ74qH) | [Xian Zi](https://open.spotify.com/artist/2CBuGdj5Nmgx1VfrgLnGoJ) | [逾時以後](https://open.spotify.com/album/4RVLtYHcdOz5xqzdyY6uff) | 3:34 | 2023-05-01 | 2023-05-21 |
 | [遇見你之後](https://open.spotify.com/track/1jNHAMRtftqT5gV34pHlVO) | [王頌](https://open.spotify.com/artist/67FpPT50rLVx1MYoQHNqY7) | [張狂的佔慾,未明的偏執](https://open.spotify.com/album/6HtVHObTlCfLjkdQDShWdf) | 4:20 | 2022-11-29 | 2022-12-06 |

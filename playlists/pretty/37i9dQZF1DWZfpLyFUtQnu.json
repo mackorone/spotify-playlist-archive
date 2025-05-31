@@ -1,6 +1,6 @@
 {
   "description": "Les plus belles ballades de la chanson fran\u00e7aise d'hier et d'aujourd'hui.",
-  "num_followers": 101700,
+  "num_followers": 101734,
   "original_name": "Douce France",
   "owner": {
     "name": "Spotify",
@@ -647,6 +647,22 @@
     {
       "added_at": "2024-10-03 14:22:43",
       "album": {
+        "name": "Bleu Blanc Vert",
+        "url": "https://open.spotify.com/album/71TJjFA83jtKIrV6n37FCE"
+      },
+      "artists": [
+        {
+          "name": "Jean-Louis Aubert",
+          "url": "https://open.spotify.com/artist/1NCrHXp9R3ogv8ezWWHFNs"
+        }
+      ],
+      "duration_ms": 308666,
+      "name": "Voil\u00e0 c'est fini",
+      "url": "https://open.spotify.com/track/3KCLtcuYgPLLRJmQNXTvWR"
+    },
+    {
+      "added_at": "2024-10-03 14:22:43",
+      "album": {
         "name": "C\u0153ur",
         "url": "https://open.spotify.com/album/690kSW79qcdrg4cN03cBbC"
       },
@@ -667,18 +683,18 @@
     {
       "added_at": "2024-10-03 14:22:43",
       "album": {
-        "name": "Bleu Blanc Vert",
-        "url": "https://open.spotify.com/album/71TJjFA83jtKIrV6n37FCE"
+        "name": "Le coeur grenadine",
+        "url": "https://open.spotify.com/album/1Rk16GLTOxgDyfJkUDWFot"
       },
       "artists": [
         {
-          "name": "Jean-Louis Aubert",
-          "url": "https://open.spotify.com/artist/1NCrHXp9R3ogv8ezWWHFNs"
+          "name": "Laurent Voulzy",
+          "url": "https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z"
         }
       ],
-      "duration_ms": 308666,
-      "name": "Voil\u00e0 c'est fini",
-      "url": "https://open.spotify.com/track/3KCLtcuYgPLLRJmQNXTvWR"
+      "duration_ms": 347520,
+      "name": "Le coeur grenadine",
+      "url": "https://open.spotify.com/track/2OWUD3BSV3yyuYYSpDBhwb"
     },
     {
       "added_at": "2024-10-03 14:22:43",
@@ -695,22 +711,6 @@
       "duration_ms": 264720,
       "name": "Immortels",
       "url": "https://open.spotify.com/track/64XJOksESduPbepHxmW2rT"
-    },
-    {
-      "added_at": "2024-10-03 14:22:43",
-      "album": {
-        "name": "Le coeur grenadine",
-        "url": "https://open.spotify.com/album/1Rk16GLTOxgDyfJkUDWFot"
-      },
-      "artists": [
-        {
-          "name": "Laurent Voulzy",
-          "url": "https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z"
-        }
-      ],
-      "duration_ms": 347520,
-      "name": "Le coeur grenadine",
-      "url": "https://open.spotify.com/track/2OWUD3BSV3yyuYYSpDBhwb"
     },
     {
       "added_at": "2024-10-03 14:22:43",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-10-03 14:22:43",
       "album": {
-        "name": "D'o\u00f9 venez-vous ?",
-        "url": "https://open.spotify.com/album/397PJkwZTSa8abMLaQwf88"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Peyrac",
-          "url": "https://open.spotify.com/artist/5OGPLZXdTrhI3RMBjGi1rl"
-        }
-      ],
-      "duration_ms": 252533,
-      "name": "So Far Away from L.A.",
-      "url": "https://open.spotify.com/track/4OnWd9bQcVfjo5U63SLTXQ"
-    },
-    {
-      "added_at": "2024-10-03 14:22:43",
-      "album": {
         "name": "Belle Ile En Mer",
         "url": "https://open.spotify.com/album/3t7Px1E95fR5PXNt4GtIRl"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 211613,
       "name": "Belle-\u00cele-en-Mer, Marie-Galante",
       "url": "https://open.spotify.com/track/5EvgjXjbPxzDf2dzIB4Xbm"
+    },
+    {
+      "added_at": "2024-10-03 14:22:43",
+      "album": {
+        "name": "D'o\u00f9 venez-vous ?",
+        "url": "https://open.spotify.com/album/397PJkwZTSa8abMLaQwf88"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Peyrac",
+          "url": "https://open.spotify.com/artist/5OGPLZXdTrhI3RMBjGi1rl"
+        }
+      ],
+      "duration_ms": 252533,
+      "name": "So Far Away from L.A.",
+      "url": "https://open.spotify.com/track/4OnWd9bQcVfjo5U63SLTXQ"
     },
     {
       "added_at": "2024-10-03 14:22:43",

@@ -4,7 +4,7 @@
 
 > most popular tiktok phonk \- best phonk 2025 \-  viral phonk \- viral sigma \- best sigma male \- sigma workout \- sad sigma songs
 
-739 songs - 1 day 8 hr 23 min
+740 songs - 1 day 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,6 +265,7 @@
 | [Getaway](https://open.spotify.com/track/2xXFRaEhRImdmCYLI5Hyxn) | [HAIKU](https://open.spotify.com/artist/25c4vcdOlW45YrXxTCBipR) | [Getaway](https://open.spotify.com/album/6pvTTEGv6lb87816EOwr02) | 2:42 | 2024-10-07 | 2024-11-12 |
 | [Ghost](https://open.spotify.com/track/22BJGIPyuFsYutaBKnGoi7) | [Kalan](https://open.spotify.com/artist/7lqqUECLiWd1mDiG9cvQte) | [Ghost](https://open.spotify.com/album/37oRrR794wsX5gVGpP4Sgq) | 2:48 | 2023-12-08 | 2024-01-14 |
 | [GigaChad Theme \- Phonk House Version](https://open.spotify.com/track/7mLWNwcvwRdEviz6SfYp8A) | [g3ox\_em](https://open.spotify.com/artist/0Zw2ivPEDptvMHwCXjhdRs) | [GigaChad Theme \(Phonk House Version\)](https://open.spotify.com/album/6XMRvZrrp6KDqYO4tDutwr) | 2:26 | 2023-06-12 |  |
+| [GigaPump](https://open.spotify.com/track/26g3zWpkUdZuZvHm14Thy5) | [g3ox\_em](https://open.spotify.com/artist/0Zw2ivPEDptvMHwCXjhdRs) | [GigaPump](https://open.spotify.com/album/72bhKot3n9kXSJHHJXFUaN) | 2:37 | 2025-05-30 |  |
 | [GIMMI SOME](https://open.spotify.com/track/2kbBZrTnlCFUvhgmIRE5Ru) | [RAIZHELL](https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq) | [GIMMI SOME](https://open.spotify.com/album/3NyS4ECm7qeCV7cfPAbEoQ) | 2:22 | 2023-12-08 | 2024-03-09 |
 | [Glisten](https://open.spotify.com/track/3M7gaIifomr1c0BBLgyGXP) | [Pseudo](https://open.spotify.com/artist/1wFUwnJhCYwRe6eC0DlMkd) | [Glisten](https://open.spotify.com/album/7lPXIfQlIEqk2j1muZuMcJ) | 2:43 | 2023-08-05 | 2023-09-26 |
 | [GLITCHED](https://open.spotify.com/track/04f5LcobDx5WR66deShA2r) | [D4C](https://open.spotify.com/artist/03dgMbqosvNOQzxyfqALkq), [KIIXSHI](https://open.spotify.com/artist/3nLZDVpDU6RrQ9k98yHTKh) | [GLITCHED](https://open.spotify.com/album/25v5fjve2j2SGl1v8PBRj2) | 2:17 | 2023-08-05 | 2023-09-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TRdW1ekdvM.md) - [plain]
 
 > Theta waves: Your key to perfect sleep\. Science says so\. Try it!
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,573 likes - 107 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,577 likes - 107 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TRdW1ekdvM.md) - [plain]
 | 9 | [4 Hz Theta Drone](https://open.spotify.com/track/5zz6lTmT0vq9CU5aukUYYW) | [Theta Max](https://open.spotify.com/artist/2O2jPUqRbUz01bfmZcGPRf) | [4\-8 Hz Theta Drones](https://open.spotify.com/album/5YWRca6jb91Eg44iFmf5hx) | 3:34 |
 | 10 | [Rem Sleep](https://open.spotify.com/track/3EAIBjcbpwO8sqVyup77tA) | [Hypnosis Therapy](https://open.spotify.com/artist/4BqilCCtLl5MiIEZVVYPmn) | [Deep Sleep Healing for Relaxation & Recovery](https://open.spotify.com/album/5ScwFTI720yP2dzQKEtK1d) | 2:40 |
 | 11 | [Calmer \(4 Hz Theta Binaural Beat\)](https://open.spotify.com/track/0F45YceUR0XowNHuo9PcQG) | [Naturalis](https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB) | [Forest Meditation](https://open.spotify.com/album/0tWi31iHKcQQJZSiQMwCVZ) | 3:15 |
-| 12 | [REM Sleep](https://open.spotify.com/track/2FY2VwL8I3LoVxwbYhYL7L) | [Trouble Sleeping Music Universe](https://open.spotify.com/artist/3lVN6tETt20mSc640VeNHf), [Sleep & Dream Academy](https://open.spotify.com/artist/2jJKqXVwB8FR2JmiS7iMIa), [Deep REM Sleep](https://open.spotify.com/artist/7JNxESgxdYnySfGV9VC1vr) | [Beautiful Instrumental Sleep Music: Close Your Tired Eyes, Sleep Deeply Through The Night and Wake Up Feling Fresh As A Daisy](https://open.spotify.com/album/3oe7lselSNi8FFViApkrKg) | 4:27 |
+| 12 | [REM Sleep](https://open.spotify.com/track/2FY2VwL8I3LoVxwbYhYL7L) | [Ana Silencio](https://open.spotify.com/artist/4SMwfpLC7GzOdL29dyKe7f), [Simon's Sleep Lullabies](https://open.spotify.com/artist/4YAeAYquJqXSfzamRwYVff), [Mila Ray](https://open.spotify.com/artist/6d4cFYkaxu05u3XFGgdQqV) | [Beautiful Instrumental Nap Clouds](https://open.spotify.com/album/3oe7lselSNi8FFViApkrKg) | 4:27 |
 | 13 | [Dreamcatcher \(2 Hz Delta Wave\)](https://open.spotify.com/track/2L5q7IAB6u8Lw73GD6CKhk) | [Shaman](https://open.spotify.com/artist/35P36DZtjEMEP2KOO9759M) | [Binarual Beats for Deep Sleep](https://open.spotify.com/album/4H44LCZHobBg6KIHGFX8Up) | 4:51 |
 | 14 | [Paths \(Binaural Theta\)](https://open.spotify.com/track/4lXOw3cCWy37emgUP8Tmya) | [Oliver Skye](https://open.spotify.com/artist/28gpguwwTDk8q4dFMzGc1H) | [Paths \(Binaural Theta\)](https://open.spotify.com/album/1yItgMWSMIictnmmsR0mYZ) | 3:22 |
 | 15 | [Home \(Binaural Theta\)](https://open.spotify.com/track/7vrZTpqy24GXaYyrjOUStw) | [Aurora Axis](https://open.spotify.com/artist/3RRxaE5sKbE6P7UdrSdGOM) | [Home \(Binaural Theta\)](https://open.spotify.com/album/728rKdoWSERPwegGuwKWqV) | 3:17 |
@@ -114,6 +114,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TRdW1ekdvM.md) - [plain]
 | 104 | [Pure Theta waves binaural beats relaxing sound atmospheres ambient music and chilling sound effects](https://open.spotify.com/track/0AiJ6kUC6VMLoLWHPSNAQU) | [Dr\. Head](https://open.spotify.com/artist/4EuUPZd7dd77wALPA6vaqm) | [Theta Waves \- Binaural Beats](https://open.spotify.com/album/2IVCkRwDrtVDVehzGDzwiN) | 10:00 |
 | 105 | [Rem Sleep Plane Sounds to Relax \(White Noise\)](https://open.spotify.com/track/3qeudxZEPotUjwSQ9Qi2dn) | [SleepTherapy](https://open.spotify.com/artist/6lmrCOEWctZj9LghJ9wxuv) | [Airplane, Train, Car, & Travel White Noise Sounds to Sleep, Relax, and De\-Stress](https://open.spotify.com/album/1U0Gv7OZhrqO3LzTUJZMvr) | 6:34 |
 | 106 | [7.8 Hz Drone](https://open.spotify.com/track/29dNoIQv0NwNfzsx4k5rsC) | [Brainwave Binaural Systems](https://open.spotify.com/artist/0wUzLDsBbnqu7Mqzg8fhWP) | [Superdrone Progressive Relaxation](https://open.spotify.com/album/0Pl4VLTPJRQbQj4DOd8UvU) | 1:00 |
-| 107 | [REM Sleep](https://open.spotify.com/track/4DRjPZnK5p3RvaJyVcwQfQ) | [Deep Sleep System](https://open.spotify.com/artist/2yTl4Z3C6ridSOpqDJQKJ5), [Deep Dreams](https://open.spotify.com/artist/2FvoE645Zbx2jMO2Bf9POg), [Functional Music](https://open.spotify.com/artist/6x3iZBJHQbDTFh1lGccJLS) | [Fast Asleep 💤 \(Sleep Deeply All Night Long Listening To Relaxing Melodies In Bed Just Before Bedtime\)](https://open.spotify.com/album/4Q5ggnIAUrVAMNDKbirpsw) | 4:27 |
+| 107 | [REM Sleep](https://open.spotify.com/track/4DRjPZnK5p3RvaJyVcwQfQ) | [Jardim Zen](https://open.spotify.com/artist/7chlUvSubjJ7objJy2ccCu), [Mathieu Age](https://open.spotify.com/artist/3Tpl85KNhzEMzSqoeajHY5), [Alice Greenwood](https://open.spotify.com/artist/4z0E6tp6hqbAUKz8UhoLkT) | [Fast Asleep 💤](https://open.spotify.com/album/4Q5ggnIAUrVAMNDKbirpsw) | 4:27 |
 
 Snapshot ID: `aAiFZQAAAACNpGWEqz3CpIP0GEzYC7rA`

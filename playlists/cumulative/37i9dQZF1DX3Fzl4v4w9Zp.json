@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Keep your finger on the pulse of Americana. Cover: I'm With Her",
+  "description": "Keep your finger on the pulse of Americana. Cover: Watchhouse",
   "name": "The Pulse of Americana",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 215744,
       "name": "$10 Cowboy",
       "url": "https://open.spotify.com/track/0wkAesjWf52ubUT4ZK8VN0"
@@ -1111,6 +1111,24 @@
     },
     {
       "album": {
+        "name": "Worthy",
+        "url": "https://open.spotify.com/album/44vFyRJigBm9JXGehz88Kp"
+      },
+      "artists": [
+        {
+          "name": "Anderson East",
+          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215020,
+      "name": "Before It Gets Better",
+      "url": "https://open.spotify.com/track/3V0zkS0BEI3I0hTSpHfZGe"
+    },
+    {
+      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo"
       },
@@ -1202,6 +1220,24 @@
       "duration_ms": 206228,
       "name": "Better Than Any Drug",
       "url": "https://open.spotify.com/track/5edBufh2zNLX1RBQd2Krtz"
+    },
+    {
+      "album": {
+        "name": "Rituals",
+        "url": "https://open.spotify.com/album/2Z8Kl2uftVIRnbLUy8qgaK"
+      },
+      "artists": [
+        {
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237360,
+      "name": "Beyond Meaning",
+      "url": "https://open.spotify.com/track/6HEINDDQ7xXqOaIefO5Gde"
     },
     {
       "album": {
@@ -1516,6 +1552,24 @@
       "duration_ms": 161080,
       "name": "Bombs Away",
       "url": "https://open.spotify.com/track/3m7OlAdnoIs3UaAqYkljov"
+    },
+    {
+      "album": {
+        "name": "Born Runnin' Outta Time",
+        "url": "https://open.spotify.com/album/5kVp9uAuPRJYtKDh0aZSlS"
+      },
+      "artists": [
+        {
+          "name": "Lukas Nelson",
+          "url": "https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198906,
+      "name": "Born Runnin' Outta Time",
+      "url": "https://open.spotify.com/track/3xlrRVGRVRyLFTcRX3pQxt"
     },
     {
       "album": {
@@ -2799,6 +2853,24 @@
     },
     {
       "album": {
+        "name": "Curtain",
+        "url": "https://open.spotify.com/album/6BZL9Ul27UzvTdWJJsofQj"
+      },
+      "artists": [
+        {
+          "name": "Greg Freeman",
+          "url": "https://open.spotify.com/artist/7naOvlP3zuvwVn7hiSeGwJ"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399057,
+      "name": "Curtain",
+      "url": "https://open.spotify.com/track/5SwjH71I6kb2ylx1skmvmU"
+    },
+    {
+      "album": {
         "name": "Pagan Church",
         "url": "https://open.spotify.com/album/0oTreVJnC1akvkKpYxj9Ak"
       },
@@ -3366,6 +3438,24 @@
       "duration_ms": 294974,
       "name": "Dreamer",
       "url": "https://open.spotify.com/track/3ZKCzPpeAm1EbwDkVMvYE7"
+    },
+    {
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/1sTCDGQTUL5yLcFYxoS1Ud"
+      },
+      "artists": [
+        {
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222365,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/2SbCeAa11fMv2YrgkSAqkf"
     },
     {
       "album": {
@@ -4534,6 +4624,28 @@
       "duration_ms": 214747,
       "name": "Get It \u2018Fore It\u2019s Gone",
       "url": "https://open.spotify.com/track/0yEK6lJ4hZw1mx2nIQ5i66"
+    },
+    {
+      "album": {
+        "name": "Get Still",
+        "url": "https://open.spotify.com/album/2a8rL59qOtH84iY4pyMSY0"
+      },
+      "artists": [
+        {
+          "name": "Alan Sparhawk",
+          "url": "https://open.spotify.com/artist/7ljTofQBh5fR5SYfGHRYs8"
+        },
+        {
+          "name": "Trampled by Turtles",
+          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221691,
+      "name": "Get Still",
+      "url": "https://open.spotify.com/track/64GHNSEKQWkNSWwopZh5nN"
     },
     {
       "album": {
@@ -5708,6 +5820,24 @@
       "duration_ms": 176800,
       "name": "Hide Anymore",
       "url": "https://open.spotify.com/track/4NnB7VmI9XiJVgDUAg3Fnn"
+    },
+    {
+      "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/2WttDJijVpJ4cXHlLeOGq7"
+      },
+      "artists": [
+        {
+          "name": "Hayes Carll",
+          "url": "https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274810,
+      "name": "High",
+      "url": "https://open.spotify.com/track/7jVrFtpUOUtbTksDu4SQd8"
     },
     {
       "album": {
@@ -9148,7 +9278,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 219396,
       "name": "One More Night",
       "url": "https://open.spotify.com/track/4ntBW1e9yOMvXLWYfXbCTw"
@@ -9166,7 +9296,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 198533,
       "name": "Only So Much You Can Do",
       "url": "https://open.spotify.com/track/19a2wE63XeHzz0rWdY7fQW"
@@ -10548,7 +10678,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 195680,
       "name": "Roulette On The Heart",
       "url": "https://open.spotify.com/track/5g4ARvINyjjLoiDX4roM8m"
@@ -10732,7 +10862,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 260036,
       "name": "Same Water",
       "url": "https://open.spotify.com/track/5cP4ZjWFGgimzGJOKRwB9g"
@@ -12542,7 +12672,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 254791,
       "name": "The Illinois River Song",
       "url": "https://open.spotify.com/track/4S0WTLDl3ECJnfhEVIZqtQ"
@@ -13178,7 +13308,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 212201,
       "name": "Tide of Love",
       "url": "https://open.spotify.com/track/2o349jiFKT0rfdYMHoC96f"
@@ -13278,7 +13408,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 286826,
-      "name": "To the Country (feat. Abigail Peyton)",
+      "name": "To the Country",
       "url": "https://open.spotify.com/track/4v8oUP3hxjfhy0nSSf03tl"
     },
     {

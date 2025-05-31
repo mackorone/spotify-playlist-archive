@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > Celebrating 10 years of the best new indie music from independent artists\. Cover: Mother Soki
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,442 likes - 130 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,504 likes - 130 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 129 | [it's nice to see you, stranger](https://open.spotify.com/track/4GyxvCkRn9sS7pgWmt1r8D) | [thistle.](https://open.spotify.com/artist/4dPHAp5JXnj8HkY71hWVj5) | [it's nice to see you, stranger](https://open.spotify.com/album/6RdLtRKb5anSmRQxmHI4ZE) | 3:02 |
 | 130 | [300 dreams](https://open.spotify.com/track/3gkVuPHTyp4rHH5YrczzOL) | [After](https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li) | [300 dreams](https://open.spotify.com/album/3IgDyLUkygCEyfG7CsZyzB) | 3:08 |
 
-Snapshot ID: `aDaKTQAAAABK08Ioc1BVku4SQo3K4oOl`
+Snapshot ID: `aDaKTQAAAACuA7Iamh13/Pw7++vfRL75`

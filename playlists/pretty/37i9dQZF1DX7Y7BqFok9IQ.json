@@ -1,13 +1,29 @@
 {
   "description": "The best of modern blues rock. Cover: Joe Bonamassa",
-  "num_followers": 237025,
+  "num_followers": 237097,
   "original_name": "Modern Blues Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aC/y5AAAAACzLREfEeajW9gSTGjp7UuS",
+  "snapshot_id": "aDktTwAAAAAUJqurQTWDDXRP0qGP8+hK",
   "tracks": [
+    {
+      "added_at": "2025-05-30 04:00:15",
+      "album": {
+        "name": "HIGH/LOW",
+        "url": "https://open.spotify.com/album/1PdFSe3SjJoJzy7gl8Dpf8"
+      },
+      "artists": [
+        {
+          "name": "Leilani Kilgore",
+          "url": "https://open.spotify.com/artist/2Muoy1Aup07JwrgVDf5XJe"
+        }
+      ],
+      "duration_ms": 233488,
+      "name": "HIGH/LOW",
+      "url": "https://open.spotify.com/track/6Y7tVRFyWGq2XT1sSWW5b6"
+    },
     {
       "added_at": "2025-05-23 04:00:36",
       "album": {
@@ -85,6 +101,22 @@
       "url": "https://open.spotify.com/track/686bz1ogUnhlYoJikZ3hs0"
     },
     {
+      "added_at": "2025-05-30 04:00:15",
+      "album": {
+        "name": "Nowheresville",
+        "url": "https://open.spotify.com/album/3bu3QdzH2FgrNTFrmjy3UE"
+      },
+      "artists": [
+        {
+          "name": "RMB",
+          "url": "https://open.spotify.com/artist/6VkGjMJuoZnn4Yz1xXBouh"
+        }
+      ],
+      "duration_ms": 270736,
+      "name": "Nowheresville",
+      "url": "https://open.spotify.com/track/5ge6Um0eo4aQ9CmgYRCS3B"
+    },
+    {
       "added_at": "2025-04-25 04:00:41",
       "album": {
         "name": "Paper Doll",
@@ -159,22 +191,6 @@
       "duration_ms": 227675,
       "name": "Brown Liquor",
       "url": "https://open.spotify.com/track/42noe9MfFLBjYkWoc8pPQn"
-    },
-    {
-      "added_at": "2025-03-14 04:00:06",
-      "album": {
-        "name": "Snake In The Tall Grass",
-        "url": "https://open.spotify.com/album/0jBB09fd0COyMvmq3vvGr4"
-      },
-      "artists": [
-        {
-          "name": "Leilani Kilgore",
-          "url": "https://open.spotify.com/artist/2Muoy1Aup07JwrgVDf5XJe"
-        }
-      ],
-      "duration_ms": 262040,
-      "name": "Snake In The Tall Grass",
-      "url": "https://open.spotify.com/track/3Fbjies9Gw62vZCrRpQCSj"
     },
     {
       "added_at": "2025-03-28 04:00:31",
@@ -2379,22 +2395,6 @@
       "duration_ms": 262426,
       "name": "Got Love - Made In Muscle Shoals",
       "url": "https://open.spotify.com/track/4TN7nQty1SvMEwNxOaug0b"
-    },
-    {
-      "added_at": "2020-10-16 04:02:00",
-      "album": {
-        "name": "Karma",
-        "url": "https://open.spotify.com/album/6x0l7ialjgA1jwJ1OvEDan"
-      },
-      "artists": [
-        {
-          "name": "The Main Squeeze",
-          "url": "https://open.spotify.com/artist/5I6ni4YWY0WJUs6rFqufxT"
-        }
-      ],
-      "duration_ms": 240484,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/6ALXjAfjb7cZkNYvmbf419"
     },
     {
       "added_at": "2020-10-16 04:02:00",

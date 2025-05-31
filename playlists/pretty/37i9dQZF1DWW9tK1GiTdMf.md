@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > musica per stare così ༼ ༎ຶ ෴ ༎ຶ༽ Yungblud in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,422 likes - 101 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,440 likes - 101 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 100 | [SCENATA \(eh.noz\)](https://open.spotify.com/track/06qKTGT9fSHOvzG3e53DCL) | [Post Nebbia](https://open.spotify.com/artist/0BdiTIT0f1quCjphcLrwKZ), [Deepho](https://open.spotify.com/artist/3ixYsE9GB9UnuYDIYdswxi) | [SCENATA \(eh.noz\)](https://open.spotify.com/album/4XVAFLcq2j5tNWYgz8DpZJ) | 2:42 |
 | 101 | [Piano e Forte](https://open.spotify.com/track/74NKUib7jQciADIreMyNJZ) | [Shama24k](https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm), [Gheb](https://open.spotify.com/artist/5KigfHb4XxYevzO2hAVPAw) | [Piano e Forte](https://open.spotify.com/album/2u8d07uzF2uLgwCnxioRv2) | 2:38 |
 
-Snapshot ID: `AAAAAAhAF8ty8SQobY2lTtNMwASBEp9g`
+Snapshot ID: `aDjZLgAAAAAmwPUdna+E9Ku1zZWhKaHm`

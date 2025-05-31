@@ -740,7 +740,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 243147,
       "name": "Guitarra Mexicana - En Vivo",
       "url": "https://open.spotify.com/track/5pJ65vYTKT3PDJK6bGCE8y"
@@ -812,7 +812,7 @@
       ],
       "date_added": "2024-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-30",
+      "date_removed": null,
       "duration_ms": 281360,
       "name": "La Niebla",
       "url": "https://open.spotify.com/track/7eK5IAzMYqfsVB4BMK5S4Y"
@@ -1036,10 +1036,28 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 199862,
       "name": "Pancho Panchito",
       "url": "https://open.spotify.com/track/3lPSwEQpAwvg5JMdDw0ZWW"
+    },
+    {
+      "album": {
+        "name": "Tex Tex 3",
+        "url": "https://open.spotify.com/album/5BuYyEm2Snig5UeVJZpX0H"
+      },
+      "artists": [
+        {
+          "name": "Tex Tex",
+          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
+        }
+      ],
+      "date_added": "2025-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199862,
+      "name": "Pancho Panchito",
+      "url": "https://open.spotify.com/track/6C6d8o2Hh5wxaYPr76bhMC"
     },
     {
       "album": {

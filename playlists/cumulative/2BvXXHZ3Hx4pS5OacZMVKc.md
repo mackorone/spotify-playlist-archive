@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-389 songs - 20 hr 17 min
+390 songs - 20 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Call On Me](https://open.spotify.com/track/6IZBXIuMsIuVYL6MI5IW50) | [Thorne](https://open.spotify.com/artist/03SaLEDbLBTYkO0sSyN791) | [Call On Me](https://open.spotify.com/album/1LfH2dTHBSEuUqfqjxFP5e) | 3:05 | 2022-09-21 | 2023-08-11 |
 | [Calling Out](https://open.spotify.com/track/1XhtyPGOGR7Hk2QZPBo5gV) | [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB) | [Calling Out](https://open.spotify.com/album/5rnsg03WBzzwHsgQICocX4) | 2:08 | 2022-08-02 | 2023-08-11 |
 | [Can't Break Me Down](https://open.spotify.com/track/4RW5Yf1FlsxHZfIiy7hwdT) | [PHI NIX](https://open.spotify.com/artist/5eAD22qkgKXFfoP2Z58lU6) | [Can't Break Me Down](https://open.spotify.com/album/3eAKTpoqXitMmo7E7PPZqw) | 3:00 | 2023-03-10 | 2023-04-05 |
+| [Can't Heal You](https://open.spotify.com/track/4nOrzKUogxxtpy1Rel3Nl5) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk) | [Can't Heal You](https://open.spotify.com/album/1VYJf6H97llhC98jNrbdkT) | 3:22 | 2025-05-30 |  |
 | [Can't You Feel It](https://open.spotify.com/track/7qw1FDLaNC5LA6kifisldI) | [MIDNIGHT CVLT](https://open.spotify.com/artist/6fT08N8EN9rPdbeWxXkNdX), [Wiguez](https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU) | [Can't You Feel It](https://open.spotify.com/album/1mdT842jxLeARBJpahEw6f) | 3:43 | 2022-09-20 | 2023-08-11 |
 | [Capsized](https://open.spotify.com/track/2LtLVmev6gw15F1fmeIFsB) | [Tollef](https://open.spotify.com/artist/59cdswWEaEGEbeDOiCKazv) | [Capsized](https://open.spotify.com/album/2cUgd3L6zpTmr90b2t29Xy) | 3:38 | 2022-02-03 | 2022-07-12 |
 | [Champion](https://open.spotify.com/track/5OpxV19WN2rkZf6C2cAFK9) | [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN) | [Champion](https://open.spotify.com/album/2cEvSMNPmlpODdf2NKQTTd) | 3:33 | 2023-08-10 |  |

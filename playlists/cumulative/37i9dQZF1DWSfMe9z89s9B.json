@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The new school - Alternative R&B. Cover: low.bo",
+  "description": "The new school - Alternative R&B. Cover: Khamari",
   "name": "Vanguard",
   "tracks": [
     {
@@ -10945,6 +10945,24 @@
     },
     {
       "album": {
+        "name": "Paradise Now",
+        "url": "https://open.spotify.com/album/6Yzu9wAkkxRUpEGyVpun81"
+      },
+      "artists": [
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149624,
+      "name": "Holy Mountain",
+      "url": "https://open.spotify.com/track/0TNwifdG6mUwAWK1psAMlG"
+    },
+    {
+      "album": {
         "name": "Home Maker",
         "url": "https://open.spotify.com/album/65DXmlrnWyJwqelAyE4JrU"
       },
@@ -12677,7 +12695,7 @@
         },
         {
           "name": "LEE.",
-          "url": "https://open.spotify.com/artist/7yCq8eEVEcwkYJbIBqbz19"
+          "url": "https://open.spotify.com/artist/5hKBEuzwAfFqH7ZZ167NeG"
         }
       ],
       "date_added": "2025-05-23",
@@ -22724,7 +22742,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 219861,
       "name": "Sweet Like",
       "url": "https://open.spotify.com/track/6Hj7gXUzQreDfSozI4QwbQ"

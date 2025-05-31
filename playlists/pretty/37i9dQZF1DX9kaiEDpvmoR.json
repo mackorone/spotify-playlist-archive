@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 93363,
+  "num_followers": 93387,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -135,22 +135,6 @@
     {
       "added_at": "2025-05-29 22:00:27",
       "album": {
-        "name": "Livet, d\u00f6den, skiten d\u00e4remellan",
-        "url": "https://open.spotify.com/album/1yCaTHv9EDvzA8hIDKIAB9"
-      },
-      "artists": [
-        {
-          "name": "Miss Li",
-          "url": "https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7"
-        }
-      ],
-      "duration_ms": 178118,
-      "name": "P\u00e5 M\u00e5ndag",
-      "url": "https://open.spotify.com/track/4TnoZMlHYaYVCVB8BXMVj9"
-    },
-    {
-      "added_at": "2025-05-29 22:00:27",
-      "album": {
         "name": "Rocket",
         "url": "https://open.spotify.com/album/41ttBc7j535fXQkAUbRZzB"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 166432,
       "name": "Rocket",
       "url": "https://open.spotify.com/track/1LmOToT3RH1OEZsQ6Q4Jfb"
+    },
+    {
+      "added_at": "2025-05-29 22:00:27",
+      "album": {
+        "name": "Livet, d\u00f6den, skiten d\u00e4remellan",
+        "url": "https://open.spotify.com/album/1yCaTHv9EDvzA8hIDKIAB9"
+      },
+      "artists": [
+        {
+          "name": "Miss Li",
+          "url": "https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7"
+        }
+      ],
+      "duration_ms": 178118,
+      "name": "P\u00e5 M\u00e5ndag",
+      "url": "https://open.spotify.com/track/4TnoZMlHYaYVCVB8BXMVj9"
     },
     {
       "added_at": "2025-05-29 22:00:27",
@@ -671,6 +671,22 @@
     {
       "added_at": "2025-05-29 22:00:27",
       "album": {
+        "name": "While you got me",
+        "url": "https://open.spotify.com/album/0sbOXyjXYj46ROvkWKLHkQ"
+      },
+      "artists": [
+        {
+          "name": "Jill Johnson",
+          "url": "https://open.spotify.com/artist/2aaGbpl5Y2ykZsNFZM6ofw"
+        }
+      ],
+      "duration_ms": 211920,
+      "name": "While you got me",
+      "url": "https://open.spotify.com/track/5PdQumvviy93cyBdHBWDX6"
+    },
+    {
+      "added_at": "2025-05-29 22:00:27",
+      "album": {
         "name": "F\u00f6rloraren",
         "url": "https://open.spotify.com/album/0F1nRV5CzvtwTFRQi5BgWo"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 279303,
       "name": "K\u00e4nner ni igen er",
       "url": "https://open.spotify.com/track/7CfHRQgFH52hn9gcj5d8Wq"
-    },
-    {
-      "added_at": "2025-05-29 22:00:27",
-      "album": {
-        "name": "While you got me",
-        "url": "https://open.spotify.com/album/0sbOXyjXYj46ROvkWKLHkQ"
-      },
-      "artists": [
-        {
-          "name": "Jill Johnson",
-          "url": "https://open.spotify.com/artist/2aaGbpl5Y2ykZsNFZM6ofw"
-        }
-      ],
-      "duration_ms": 211920,
-      "name": "While you got me",
-      "url": "https://open.spotify.com/track/5PdQumvviy93cyBdHBWDX6"
     },
     {
       "added_at": "2025-05-29 22:00:27",
@@ -831,22 +831,6 @@
     {
       "added_at": "2025-05-29 22:00:27",
       "album": {
-        "name": "Fyllda Av Sommar",
-        "url": "https://open.spotify.com/album/2FtJL13iiO1Q0ScHVGzbo3"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Johansson",
-          "url": "https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe"
-        }
-      ],
-      "duration_ms": 204287,
-      "name": "Fyllda Av Sommar",
-      "url": "https://open.spotify.com/track/71wPC97jGByPg8Nk6zof9S"
-    },
-    {
-      "added_at": "2025-05-29 22:00:27",
-      "album": {
         "name": "Uteblivna vi",
         "url": "https://open.spotify.com/album/5Pmc8qBwYvrmKBV0Q41zUH"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 362920,
       "name": "Uteblivna vi",
       "url": "https://open.spotify.com/track/6qzJ3QiNBVd23wlliDyVRu"
+    },
+    {
+      "added_at": "2025-05-29 22:00:27",
+      "album": {
+        "name": "Fyllda Av Sommar",
+        "url": "https://open.spotify.com/album/2FtJL13iiO1Q0ScHVGzbo3"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Johansson",
+          "url": "https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe"
+        }
+      ],
+      "duration_ms": 204287,
+      "name": "Fyllda Av Sommar",
+      "url": "https://open.spotify.com/track/71wPC97jGByPg8Nk6zof9S"
     },
     {
       "added_at": "2025-05-29 22:00:27",
@@ -931,18 +931,18 @@
     {
       "added_at": "2025-05-29 22:00:27",
       "album": {
-        "name": "Silverregn / \u00c5terv\u00e4nd till mig",
-        "url": "https://open.spotify.com/album/3bjCpMeIMjPV9t4twZoa95"
+        "name": "BRA",
+        "url": "https://open.spotify.com/album/0LeXjerovBNmqNvqTgBTWf"
       },
       "artists": [
         {
-          "name": "Lisa Nilsson",
-          "url": "https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG"
+          "name": "Di Leva",
+          "url": "https://open.spotify.com/artist/4L82oD5L2XQPwkHWOAJSad"
         }
       ],
-      "duration_ms": 354600,
-      "name": "Silverregn",
-      "url": "https://open.spotify.com/track/11CMU3PNUeEEgcQHhPEY1R"
+      "duration_ms": 163005,
+      "name": "BRA",
+      "url": "https://open.spotify.com/track/3HStj5Zz9zuRNCMnQZDQIE"
     },
     {
       "added_at": "2025-05-29 22:00:27",
@@ -963,22 +963,6 @@
     {
       "added_at": "2025-05-29 22:00:27",
       "album": {
-        "name": "BRA",
-        "url": "https://open.spotify.com/album/0LeXjerovBNmqNvqTgBTWf"
-      },
-      "artists": [
-        {
-          "name": "Di Leva",
-          "url": "https://open.spotify.com/artist/4L82oD5L2XQPwkHWOAJSad"
-        }
-      ],
-      "duration_ms": 163005,
-      "name": "BRA",
-      "url": "https://open.spotify.com/track/3HStj5Zz9zuRNCMnQZDQIE"
-    },
-    {
-      "added_at": "2025-05-29 22:00:27",
-      "album": {
         "name": "Via Dolorosa, Maria Magdalenas k\u00e4rlek",
         "url": "https://open.spotify.com/album/2jQQCQDZUQu6VS2G658Ts0"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 251200,
       "name": "Han lever (Himmelsf\u00e4rden)",
       "url": "https://open.spotify.com/track/4NFx0vyHFKhGKXT99ecdNq"
+    },
+    {
+      "added_at": "2025-05-29 22:00:27",
+      "album": {
+        "name": "Silverregn / \u00c5terv\u00e4nd till mig",
+        "url": "https://open.spotify.com/album/3bjCpMeIMjPV9t4twZoa95"
+      },
+      "artists": [
+        {
+          "name": "Lisa Nilsson",
+          "url": "https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG"
+        }
+      ],
+      "duration_ms": 354600,
+      "name": "Silverregn",
+      "url": "https://open.spotify.com/track/11CMU3PNUeEEgcQHhPEY1R"
     },
     {
       "added_at": "2025-05-29 22:00:27",
@@ -1099,6 +1099,30 @@
     {
       "added_at": "2025-05-29 22:00:27",
       "album": {
+        "name": "Til the music starts again",
+        "url": "https://open.spotify.com/album/5F7JWDPml2qSmPhLRAOtuK"
+      },
+      "artists": [
+        {
+          "name": "Banna Sona Band",
+          "url": "https://open.spotify.com/artist/2VzA8vhIIS0wa7Jw1eemPL"
+        },
+        {
+          "name": "Frida \u00d6hrn",
+          "url": "https://open.spotify.com/artist/29QsRvznF9E1oeAZFrhTfq"
+        },
+        {
+          "name": "Kalle Moraeus",
+          "url": "https://open.spotify.com/artist/1NDYAcgpsX4ony5CD0QIxW"
+        }
+      ],
+      "duration_ms": 208571,
+      "name": "Til the music starts again",
+      "url": "https://open.spotify.com/track/68hnuOkBpjcx2p1nJqbYR1"
+    },
+    {
+      "added_at": "2025-05-29 22:00:27",
+      "album": {
         "name": "Have I Told You Lately (feat. \u00c5sa Jinder)",
         "url": "https://open.spotify.com/album/7AhjmPkywXQujJM22JO9GB"
       },
@@ -1147,22 +1171,6 @@
     {
       "added_at": "2025-05-29 22:00:27",
       "album": {
-        "name": "Country Tack Vare Er",
-        "url": "https://open.spotify.com/album/2sXz2Jq8DLIO07jujbXavD"
-      },
-      "artists": [
-        {
-          "name": "Erika Jonsson",
-          "url": "https://open.spotify.com/artist/3hmxqVdRQUfpPNDpV5VqLx"
-        }
-      ],
-      "duration_ms": 207184,
-      "name": "Country Tack Vare Er",
-      "url": "https://open.spotify.com/track/0WjdxPtgxzlHrOCil5b1DL"
-    },
-    {
-      "added_at": "2025-05-29 22:00:27",
-      "album": {
         "name": "Seven Days Of Heaven",
         "url": "https://open.spotify.com/album/1xfkNCZQmq4sGKRxTpOFe9"
       },
@@ -1179,26 +1187,18 @@
     {
       "added_at": "2025-05-29 22:00:27",
       "album": {
-        "name": "Til the music starts again",
-        "url": "https://open.spotify.com/album/5F7JWDPml2qSmPhLRAOtuK"
+        "name": "Country Tack Vare Er",
+        "url": "https://open.spotify.com/album/2sXz2Jq8DLIO07jujbXavD"
       },
       "artists": [
         {
-          "name": "Banna Sona Band",
-          "url": "https://open.spotify.com/artist/2VzA8vhIIS0wa7Jw1eemPL"
-        },
-        {
-          "name": "Frida \u00d6hrn",
-          "url": "https://open.spotify.com/artist/29QsRvznF9E1oeAZFrhTfq"
-        },
-        {
-          "name": "Kalle Moraeus",
-          "url": "https://open.spotify.com/artist/1NDYAcgpsX4ony5CD0QIxW"
+          "name": "Erika Jonsson",
+          "url": "https://open.spotify.com/artist/3hmxqVdRQUfpPNDpV5VqLx"
         }
       ],
-      "duration_ms": 208571,
-      "name": "Til the music starts again",
-      "url": "https://open.spotify.com/track/68hnuOkBpjcx2p1nJqbYR1"
+      "duration_ms": 207184,
+      "name": "Country Tack Vare Er",
+      "url": "https://open.spotify.com/track/0WjdxPtgxzlHrOCil5b1DL"
     },
     {
       "added_at": "2025-05-29 22:00:27",
@@ -1491,18 +1491,18 @@
     {
       "added_at": "2025-05-29 22:00:27",
       "album": {
-        "name": "Vita Skelett",
-        "url": "https://open.spotify.com/album/3DSky97p2svAX6gNnyqUOl"
+        "name": "Jag vill dr\u00f6mma",
+        "url": "https://open.spotify.com/album/18dsriIndUm1FaelXGnzF8"
       },
       "artists": [
         {
-          "name": "Jonathan Johansson",
-          "url": "https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe"
+          "name": "Herreys",
+          "url": "https://open.spotify.com/artist/2uS8ryCr9KuXzh7Y4xowle"
         }
       ],
-      "duration_ms": 183086,
-      "name": "Spartas Svarta Hj\u00e4rta",
-      "url": "https://open.spotify.com/track/3Ezo5xeahAV0s0JBiHlEey"
+      "duration_ms": 204370,
+      "name": "Jag vill dr\u00f6mma",
+      "url": "https://open.spotify.com/track/2lWBXbSIVtzGFq3egd7al4"
     }
   ],
   "unique_name": "Aktuellt",

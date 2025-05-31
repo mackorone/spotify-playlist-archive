@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: CATTO",
+  "description": "Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Nasi",
   "name": "Rock Leve",
   "tracks": [
     {
@@ -56,6 +56,24 @@
       "duration_ms": 177397,
       "name": "4AM",
       "url": "https://open.spotify.com/track/4VfrfzD3LTqhsnUbw6SYWy"
+    },
+    {
+      "album": {
+        "name": "As Cores, as Curvas e as Dores do Mundo",
+        "url": "https://open.spotify.com/album/7LHPGpPZV2duyGmI2KthiX"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163185,
+      "name": "A Cidade",
+      "url": "https://open.spotify.com/track/6chCkT8RkDC0kM66HKfPQb"
     },
     {
       "album": {
@@ -930,7 +948,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 180351,
       "name": "Diz que me ama (Lua)",
       "url": "https://open.spotify.com/track/62mknPDv8tCAbcnCJPc25e"
@@ -1230,6 +1248,24 @@
       "duration_ms": 135405,
       "name": "ex.ploda",
       "url": "https://open.spotify.com/track/7p1RZjnWapwed6oS2eRp6j"
+    },
+    {
+      "album": {
+        "name": "Solo Ma Non Troppo",
+        "url": "https://open.spotify.com/album/4biydG5xVHKEYFCySAtrjV"
+      },
+      "artists": [
+        {
+          "name": "Nasi",
+          "url": "https://open.spotify.com/artist/7HJkYWzMCiXIJEHserfc0Z"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212024,
+      "name": "Feedback - Ao Vivo",
+      "url": "https://open.spotify.com/track/0952QhP5pydDsBxgIxvZFg"
     },
     {
       "album": {
@@ -2113,6 +2149,24 @@
     },
     {
       "album": {
+        "name": "WRLD",
+        "url": "https://open.spotify.com/album/3TCF95qK3XaMBjmEuXwQHQ"
+      },
+      "artists": [
+        {
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282053,
+      "name": "O",
+      "url": "https://open.spotify.com/track/3znyY1uJaVlB8DBypreIhP"
+    },
+    {
+      "album": {
         "name": "o mundo j\u00e1 ta bom sem mim",
         "url": "https://open.spotify.com/album/0H5jXYPHwDnaeTxQPICpZC"
       },
@@ -2454,7 +2508,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 166615,
       "name": "Proposta",
       "url": "https://open.spotify.com/track/5YNikQYqgUZIVhDJC0Q3TO"
@@ -3202,7 +3256,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 169514,
       "name": "Te procurando (Saturno)",
       "url": "https://open.spotify.com/track/0d2hvijCjozSP5sZQtkFJg"

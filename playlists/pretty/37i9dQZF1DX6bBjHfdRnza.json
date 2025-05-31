@@ -1,13 +1,49 @@
 {
   "description": "Celebrating 10 years of the best new dance music by independent artists and labels, featuring Matsu. Artwork by Rewina Beshue.",
-  "num_followers": 200680,
+  "num_followers": 200739,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDdQowAAAACKI4tWPTRRIrP8i5rPYugb",
+  "snapshot_id": "aDnNpgAAAACeGldqph+Mf/mBH4KYWn8U",
   "tracks": [
+    {
+      "added_at": "2025-05-27 14:39:37",
+      "album": {
+        "name": "Hit the Ground",
+        "url": "https://open.spotify.com/album/7yD02x73angL1C9H4dfjCV"
+      },
+      "artists": [
+        {
+          "name": "Texture",
+          "url": "https://open.spotify.com/artist/1K3a2VWnyszfzzdnT8iu0e"
+        }
+      ],
+      "duration_ms": 145696,
+      "name": "Hit the Ground",
+      "url": "https://open.spotify.com/track/7wAuksvJErTLz0OHTDJPIa"
+    },
+    {
+      "added_at": "2025-05-30 15:24:22",
+      "album": {
+        "name": "legitimate dj behaviour",
+        "url": "https://open.spotify.com/album/6DDSY0wf9AfisUw79jKTiz"
+      },
+      "artists": [
+        {
+          "name": "HARLEY GIRL",
+          "url": "https://open.spotify.com/artist/6ldTQRA9rON2kgBPGyhNao"
+        },
+        {
+          "name": "Hey Baby",
+          "url": "https://open.spotify.com/artist/04yeLehSl0kPL2mXyio7oU"
+        }
+      ],
+      "duration_ms": 158694,
+      "name": "in the city",
+      "url": "https://open.spotify.com/track/2lxxRy7IAA1wwMTqXJIFx9"
+    },
     {
       "added_at": "2025-05-14 16:55:36",
       "album": {
@@ -23,22 +59,6 @@
       "duration_ms": 342790,
       "name": "spontaneous combustion!",
       "url": "https://open.spotify.com/track/04wjT0XvCvQjNZtazFMnxX"
-    },
-    {
-      "added_at": "2025-05-28 18:06:27",
-      "album": {
-        "name": "Bring It",
-        "url": "https://open.spotify.com/album/0hkqVRSURhdOcWuR8KJmVr"
-      },
-      "artists": [
-        {
-          "name": "AUR3LIAN",
-          "url": "https://open.spotify.com/artist/1GFCL0OfSJDR8FmlTsSaFH"
-        }
-      ],
-      "duration_ms": 175839,
-      "name": "Bring It",
-      "url": "https://open.spotify.com/track/19n8BQOK11Zy1PYJw6sO4W"
     },
     {
       "added_at": "2025-05-21 20:01:17",
@@ -73,6 +93,122 @@
       "url": "https://open.spotify.com/track/2hrChmfPMrA0751rZnWwTj"
     },
     {
+      "added_at": "2025-05-21 20:01:17",
+      "album": {
+        "name": "Pentada",
+        "url": "https://open.spotify.com/album/3fqIO8GZL63sY1hKnAEG7X"
+      },
+      "artists": [
+        {
+          "name": "Sielo",
+          "url": "https://open.spotify.com/artist/7rBQBBTn511KRvBeWSOJbP"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "Pentada",
+      "url": "https://open.spotify.com/track/7Acm765MVRdPYtf3HLByO1"
+    },
+    {
+      "added_at": "2025-05-30 15:24:22",
+      "album": {
+        "name": "The Ground",
+        "url": "https://open.spotify.com/album/0aNedog5mRYozK9HmnIGcX"
+      },
+      "artists": [
+        {
+          "name": "devin",
+          "url": "https://open.spotify.com/artist/1nTDIsZa79wLRMZDfuVG3h"
+        },
+        {
+          "name": "DJ Carpenter",
+          "url": "https://open.spotify.com/artist/3HT9KuqyBAFyWgw4xMLPUi"
+        }
+      ],
+      "duration_ms": 198917,
+      "name": "The Ground",
+      "url": "https://open.spotify.com/track/6JpYFzsPAHfi6kD5OMTs0R"
+    },
+    {
+      "added_at": "2025-05-28 18:06:27",
+      "album": {
+        "name": "Bring It",
+        "url": "https://open.spotify.com/album/0hkqVRSURhdOcWuR8KJmVr"
+      },
+      "artists": [
+        {
+          "name": "AUR3LIAN",
+          "url": "https://open.spotify.com/artist/1GFCL0OfSJDR8FmlTsSaFH"
+        }
+      ],
+      "duration_ms": 175839,
+      "name": "Bring It",
+      "url": "https://open.spotify.com/track/19n8BQOK11Zy1PYJw6sO4W"
+    },
+    {
+      "added_at": "2025-05-28 18:06:27",
+      "album": {
+        "name": "Go Deep",
+        "url": "https://open.spotify.com/album/4fOAYr5e4SUFaLViHEHFHO"
+      },
+      "artists": [
+        {
+          "name": "chriz javey",
+          "url": "https://open.spotify.com/artist/4n545NeyanWohXT6Ku1Br8"
+        }
+      ],
+      "duration_ms": 181818,
+      "name": "Go Deep",
+      "url": "https://open.spotify.com/track/0hLzf0q564LTotzXMrVIbu"
+    },
+    {
+      "added_at": "2025-05-30 15:24:22",
+      "album": {
+        "name": "TANK IT",
+        "url": "https://open.spotify.com/album/081KqR46idkIxhnf5TgQLD"
+      },
+      "artists": [
+        {
+          "name": "Sentimento",
+          "url": "https://open.spotify.com/artist/3jCZxcHy73RLlHU5WWZDqa"
+        }
+      ],
+      "duration_ms": 157570,
+      "name": "TANK IT",
+      "url": "https://open.spotify.com/track/4ubO4kObhIGP6kHN1QPE3r"
+    },
+    {
+      "added_at": "2025-04-09 17:39:45",
+      "album": {
+        "name": "ON MY MIND",
+        "url": "https://open.spotify.com/album/5SKTcJXX90jtoBy0FD78oQ"
+      },
+      "artists": [
+        {
+          "name": "Dera Meelan",
+          "url": "https://open.spotify.com/artist/3R1Rrzk35Rhldipx3IiKpp"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "ON MY MIND",
+      "url": "https://open.spotify.com/track/2OqZZYaBBprhRor4wqKXa8"
+    },
+    {
+      "added_at": "2025-05-14 16:55:36",
+      "album": {
+        "name": "NYC",
+        "url": "https://open.spotify.com/album/0GhydGBqymdnwKofdoVmMQ"
+      },
+      "artists": [
+        {
+          "name": "Quliano",
+          "url": "https://open.spotify.com/artist/495Jh5g6cOR6DjXQd18323"
+        }
+      ],
+      "duration_ms": 182325,
+      "name": "NYC",
+      "url": "https://open.spotify.com/track/01xOb3gjIGLHsdKnL5QTi4"
+    },
+    {
       "added_at": "2025-05-07 22:20:21",
       "album": {
         "name": "Bring The Funk Back EP",
@@ -105,40 +241,20 @@
       "url": "https://open.spotify.com/track/2owLPIwjxHpyWVqvAdXMLK"
     },
     {
-      "added_at": "2025-05-27 14:39:37",
+      "added_at": "2025-05-30 15:24:22",
       "album": {
-        "name": "Hit the Ground",
-        "url": "https://open.spotify.com/album/7yD02x73angL1C9H4dfjCV"
+        "name": "Thinking About",
+        "url": "https://open.spotify.com/album/0NSrTnbJD6zooobjncEonX"
       },
       "artists": [
         {
-          "name": "Texture",
-          "url": "https://open.spotify.com/artist/1K3a2VWnyszfzzdnT8iu0e"
+          "name": "V. Christie",
+          "url": "https://open.spotify.com/artist/63sAE1NYTAlj2Oi77mMDmm"
         }
       ],
-      "duration_ms": 145696,
-      "name": "Hit the Ground",
-      "url": "https://open.spotify.com/track/7wAuksvJErTLz0OHTDJPIa"
-    },
-    {
-      "added_at": "2025-05-28 18:06:27",
-      "album": {
-        "name": "The Driving Towards The Sunset Tapes II",
-        "url": "https://open.spotify.com/album/7hNpwNMZkrsnrovoUAZgGS"
-      },
-      "artists": [
-        {
-          "name": "Stuzzi",
-          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
-        },
-        {
-          "name": "Joshua Idehen",
-          "url": "https://open.spotify.com/artist/3PubLnxnO5N2Avr3UvG1Vc"
-        }
-      ],
-      "duration_ms": 251958,
-      "name": "santa helena",
-      "url": "https://open.spotify.com/track/4R5lfSl5GRCcUID8Exl69S"
+      "duration_ms": 236690,
+      "name": "Thinking About",
+      "url": "https://open.spotify.com/track/4iRrxvOMyxohtr6lHi3iIC"
     },
     {
       "added_at": "2025-05-09 14:42:33",
@@ -183,18 +299,54 @@
     {
       "added_at": "2025-05-28 18:06:27",
       "album": {
-        "name": "Go Deep",
-        "url": "https://open.spotify.com/album/4fOAYr5e4SUFaLViHEHFHO"
+        "name": "The Driving Towards The Sunset Tapes II",
+        "url": "https://open.spotify.com/album/7hNpwNMZkrsnrovoUAZgGS"
       },
       "artists": [
         {
-          "name": "chriz javey",
-          "url": "https://open.spotify.com/artist/4n545NeyanWohXT6Ku1Br8"
+          "name": "Stuzzi",
+          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
+        },
+        {
+          "name": "Joshua Idehen",
+          "url": "https://open.spotify.com/artist/3PubLnxnO5N2Avr3UvG1Vc"
         }
       ],
-      "duration_ms": 181818,
-      "name": "Go Deep",
-      "url": "https://open.spotify.com/track/0hLzf0q564LTotzXMrVIbu"
+      "duration_ms": 251958,
+      "name": "santa helena",
+      "url": "https://open.spotify.com/track/4R5lfSl5GRCcUID8Exl69S"
+    },
+    {
+      "added_at": "2025-05-30 15:24:22",
+      "album": {
+        "name": "Her (Never Like This)",
+        "url": "https://open.spotify.com/album/67PHWWXqPg7eKB8kUodhw5"
+      },
+      "artists": [
+        {
+          "name": "Florian Hope",
+          "url": "https://open.spotify.com/artist/4ugVS3CJ6GIxUX24WXXrcN"
+        }
+      ],
+      "duration_ms": 160970,
+      "name": "Her (Never Like This)",
+      "url": "https://open.spotify.com/track/6YnsAiMmdM4KwlcAF2ynyw"
+    },
+    {
+      "added_at": "2025-04-04 19:00:45",
+      "album": {
+        "name": "groove that never stops",
+        "url": "https://open.spotify.com/album/6Wtw2L9uDfz1h60LOFDtaZ"
+      },
+      "artists": [
+        {
+          "name": "Jake Antonio",
+          "url": "https://open.spotify.com/artist/5jpgPXIFQ0RzKw2IHyS8JC"
+        }
+      ],
+      "duration_ms": 247384,
+      "name": "groove that never stops",
+      "url": "https://open.spotify.com/track/2WCEzJ2pXmk5Wf6uZEk4ds"
     },
     {
       "added_at": "2025-05-23 04:00:47",
@@ -213,6 +365,38 @@
       "url": "https://open.spotify.com/track/5mebLF9PWEkLl9CsgNabEY"
     },
     {
+      "added_at": "2025-05-30 15:24:22",
+      "album": {
+        "name": "Beachfront Avenue EP",
+        "url": "https://open.spotify.com/album/2duV8faGujoAbW9zEUDqRa"
+      },
+      "artists": [
+        {
+          "name": "DAETOR",
+          "url": "https://open.spotify.com/artist/0PivHDlqdfJmNugJ2TLXlt"
+        }
+      ],
+      "duration_ms": 234503,
+      "name": "Beachfront Avenue - Radio Edit",
+      "url": "https://open.spotify.com/track/0rmmK4ZwBTzFoBc3Nzod05"
+    },
+    {
+      "added_at": "2025-05-21 20:01:17",
+      "album": {
+        "name": "The Party / bodyonbody",
+        "url": "https://open.spotify.com/album/24H2vR5CJqxeWiV0LPxMvc"
+      },
+      "artists": [
+        {
+          "name": "GUI2IN",
+          "url": "https://open.spotify.com/artist/65U4lJ60s7ip5O2gXCxbql"
+        }
+      ],
+      "duration_ms": 225230,
+      "name": "The Party",
+      "url": "https://open.spotify.com/track/6yXR8x2kz9CwJig3vCXVZl"
+    },
+    {
       "added_at": "2025-05-23 04:00:47",
       "album": {
         "name": "Get Ready",
@@ -229,36 +413,20 @@
       "url": "https://open.spotify.com/track/6N7rEkg5KTB17SHetef4nT"
     },
     {
-      "added_at": "2025-05-21 20:01:17",
+      "added_at": "2025-05-30 15:24:22",
       "album": {
-        "name": "Pentada",
-        "url": "https://open.spotify.com/album/3fqIO8GZL63sY1hKnAEG7X"
+        "name": "Come Closer",
+        "url": "https://open.spotify.com/album/63jcO42jHH2WxOn1BjpRHS"
       },
       "artists": [
         {
-          "name": "Sielo",
-          "url": "https://open.spotify.com/artist/7rBQBBTn511KRvBeWSOJbP"
+          "name": "FENCHVRCH",
+          "url": "https://open.spotify.com/artist/5c5py4J4rEULVOPJosUkTt"
         }
       ],
-      "duration_ms": 191250,
-      "name": "Pentada",
-      "url": "https://open.spotify.com/track/7Acm765MVRdPYtf3HLByO1"
-    },
-    {
-      "added_at": "2025-05-14 16:55:36",
-      "album": {
-        "name": "NYC",
-        "url": "https://open.spotify.com/album/0GhydGBqymdnwKofdoVmMQ"
-      },
-      "artists": [
-        {
-          "name": "Quliano",
-          "url": "https://open.spotify.com/artist/495Jh5g6cOR6DjXQd18323"
-        }
-      ],
-      "duration_ms": 182325,
-      "name": "NYC",
-      "url": "https://open.spotify.com/track/01xOb3gjIGLHsdKnL5QTi4"
+      "duration_ms": 158385,
+      "name": "Come Closer",
+      "url": "https://open.spotify.com/track/0Tq7TFuDgq2PykzxqK9Hmm"
     },
     {
       "added_at": "2025-05-23 04:00:47",
@@ -275,6 +443,22 @@
       "duration_ms": 186461,
       "name": "Strike 2",
       "url": "https://open.spotify.com/track/1rMXTi7RO7yboMQdyBFt0u"
+    },
+    {
+      "added_at": "2025-05-30 15:24:22",
+      "album": {
+        "name": "Into My Arms",
+        "url": "https://open.spotify.com/album/30tQC6U06l6ZGrWqNW0yT4"
+      },
+      "artists": [
+        {
+          "name": "Familiar Faces",
+          "url": "https://open.spotify.com/artist/2faJegxkyWRI7AMI9pyWZo"
+        }
+      ],
+      "duration_ms": 235530,
+      "name": "Into My Arms",
+      "url": "https://open.spotify.com/track/0s8JXlvyjyEPTGEzh7eW74"
     },
     {
       "added_at": "2025-05-14 16:55:36",
@@ -313,6 +497,22 @@
       "url": "https://open.spotify.com/track/5EVNhsNZSpnUawaB0AKSyB"
     },
     {
+      "added_at": "2025-05-30 15:24:22",
+      "album": {
+        "name": "Bells",
+        "url": "https://open.spotify.com/album/4xk6jkBP0QWXwjTU8n3sip"
+      },
+      "artists": [
+        {
+          "name": "ELOQ",
+          "url": "https://open.spotify.com/artist/36mHwYa65L0WZbAXY2iSGw"
+        }
+      ],
+      "duration_ms": 278833,
+      "name": "Bells",
+      "url": "https://open.spotify.com/track/0d4rIzVuhivUv4Z0gdsDJH"
+    },
+    {
       "added_at": "2025-05-28 18:06:27",
       "album": {
         "name": "Redwood",
@@ -333,38 +533,6 @@
       "url": "https://open.spotify.com/track/2hiOk80EMdBDRyxalorCKL"
     },
     {
-      "added_at": "2025-05-21 20:01:17",
-      "album": {
-        "name": "The Party / bodyonbody",
-        "url": "https://open.spotify.com/album/24H2vR5CJqxeWiV0LPxMvc"
-      },
-      "artists": [
-        {
-          "name": "GUI2IN",
-          "url": "https://open.spotify.com/artist/65U4lJ60s7ip5O2gXCxbql"
-        }
-      ],
-      "duration_ms": 225230,
-      "name": "The Party",
-      "url": "https://open.spotify.com/track/6yXR8x2kz9CwJig3vCXVZl"
-    },
-    {
-      "added_at": "2025-04-09 17:39:45",
-      "album": {
-        "name": "ON MY MIND",
-        "url": "https://open.spotify.com/album/5SKTcJXX90jtoBy0FD78oQ"
-      },
-      "artists": [
-        {
-          "name": "Dera Meelan",
-          "url": "https://open.spotify.com/artist/3R1Rrzk35Rhldipx3IiKpp"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "ON MY MIND",
-      "url": "https://open.spotify.com/track/2OqZZYaBBprhRor4wqKXa8"
-    },
-    {
       "added_at": "2025-05-23 04:00:47",
       "album": {
         "name": "SOLD MY SOUL",
@@ -379,6 +547,22 @@
       "duration_ms": 199550,
       "name": "SOLD MY SOUL",
       "url": "https://open.spotify.com/track/2GxSge6HAH6nt64yT83zmA"
+    },
+    {
+      "added_at": "2025-05-30 15:24:22",
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/7taT0lwqC1v44rJOcij0Jw"
+      },
+      "artists": [
+        {
+          "name": "Out of_",
+          "url": "https://open.spotify.com/artist/5jJictcua4HAXhz2voFh2C"
+        }
+      ],
+      "duration_ms": 248888,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/1QFi6hkBaDoGwcdFAeGThY"
     },
     {
       "added_at": "2025-04-23 18:13:10",
@@ -575,6 +759,22 @@
       "duration_ms": 181860,
       "name": "Your Number",
       "url": "https://open.spotify.com/track/76dczlC6Owr273cCpKPnxS"
+    },
+    {
+      "added_at": "2025-05-30 15:24:22",
+      "album": {
+        "name": "bangkok",
+        "url": "https://open.spotify.com/album/1bQHeNB92r6AoePrRc2v7u"
+      },
+      "artists": [
+        {
+          "name": "After Wes",
+          "url": "https://open.spotify.com/artist/5hz6UPteQqCf9fHD88njIy"
+        }
+      ],
+      "duration_ms": 166790,
+      "name": "bangkok",
+      "url": "https://open.spotify.com/track/31LnSnqFhLFLD4HtIJt4te"
     },
     {
       "added_at": "2025-05-14 16:55:36",
@@ -1125,22 +1325,6 @@
       "url": "https://open.spotify.com/track/2bicTvHQXudRYQQSQcYRsS"
     },
     {
-      "added_at": "2025-05-09 14:42:33",
-      "album": {
-        "name": "Thinkin Bout U",
-        "url": "https://open.spotify.com/album/2HVNMn1fJwwZGu9BI35WAi"
-      },
-      "artists": [
-        {
-          "name": "apollo",
-          "url": "https://open.spotify.com/artist/2ekHvCLauJLvGmyiGPuSSM"
-        }
-      ],
-      "duration_ms": 179130,
-      "name": "Thinkin Bout U",
-      "url": "https://open.spotify.com/track/0GOAYvuxuSYyTxPfXlfFlt"
-    },
-    {
       "added_at": "2025-05-07 22:20:21",
       "album": {
         "name": "Alencon",
@@ -1177,22 +1361,6 @@
       "url": "https://open.spotify.com/track/0eiuxRLtuTVZZI0UQcGzAa"
     },
     {
-      "added_at": "2025-04-04 19:00:45",
-      "album": {
-        "name": "groove that never stops",
-        "url": "https://open.spotify.com/album/6Wtw2L9uDfz1h60LOFDtaZ"
-      },
-      "artists": [
-        {
-          "name": "Jake Antonio",
-          "url": "https://open.spotify.com/artist/5jpgPXIFQ0RzKw2IHyS8JC"
-        }
-      ],
-      "duration_ms": 247384,
-      "name": "groove that never stops",
-      "url": "https://open.spotify.com/track/2WCEzJ2pXmk5Wf6uZEk4ds"
-    },
-    {
       "added_at": "2025-05-07 22:20:21",
       "album": {
         "name": "Take Your Pants Off",
@@ -1207,22 +1375,6 @@
       "duration_ms": 211874,
       "name": "Take Your Pants Off",
       "url": "https://open.spotify.com/track/4nZ9EgYqbkInGTNTJZJRuB"
-    },
-    {
-      "added_at": "2025-05-02 04:00:40",
-      "album": {
-        "name": "Bring The Funk Back EP",
-        "url": "https://open.spotify.com/album/4uuvhkwgrUOsV5zAVHN7jM"
-      },
-      "artists": [
-        {
-          "name": "Nigel Hey",
-          "url": "https://open.spotify.com/artist/1cPQM2gu0JiwizeLoo9Edt"
-        }
-      ],
-      "duration_ms": 208526,
-      "name": "Can You Feel It",
-      "url": "https://open.spotify.com/track/033gpiu2QP14Yjrov1fwiY"
     },
     {
       "added_at": "2025-05-07 22:20:21",
@@ -1281,22 +1433,6 @@
       "url": "https://open.spotify.com/track/4QJDHXA9TKrVxbW91gGcaK"
     },
     {
-      "added_at": "2025-04-30 16:10:18",
-      "album": {
-        "name": "lost & found",
-        "url": "https://open.spotify.com/album/0ocEo2YNCWRsUPKzlbt1ux"
-      },
-      "artists": [
-        {
-          "name": "abelon",
-          "url": "https://open.spotify.com/artist/6RknJW6TTU6TQfTZDptOui"
-        }
-      ],
-      "duration_ms": 155076,
-      "name": "lost & found",
-      "url": "https://open.spotify.com/track/5XjEi4MxmR57A2DQvTJwWL"
-    },
-    {
       "added_at": "2025-04-23 18:13:10",
       "album": {
         "name": "The Fall",
@@ -1317,26 +1453,6 @@
       "url": "https://open.spotify.com/track/5gV08IdTyWZhfbyOo2guSY"
     },
     {
-      "added_at": "2025-05-02 04:00:40",
-      "album": {
-        "name": "CARTFISH",
-        "url": "https://open.spotify.com/album/5tzqzDJhJ9bKuDY5xMUkLj"
-      },
-      "artists": [
-        {
-          "name": "CARTFISH",
-          "url": "https://open.spotify.com/artist/3w1wNgMXNtM48xdYNCXWgC"
-        },
-        {
-          "name": "Lizwi",
-          "url": "https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X"
-        }
-      ],
-      "duration_ms": 231147,
-      "name": "I Am Free",
-      "url": "https://open.spotify.com/track/6iHFanVnZvK8g9OJlbkkkD"
-    },
-    {
       "added_at": "2025-04-23 18:13:10",
       "album": {
         "name": "LET'S GO B$NG!/FICOU BRABA",
@@ -1351,62 +1467,6 @@
       "duration_ms": 213011,
       "name": "LET'S GO B$NG!",
       "url": "https://open.spotify.com/track/7GogUHBpHyJ3OH6uIAYtp1"
-    },
-    {
-      "added_at": "2025-04-30 16:10:18",
-      "album": {
-        "name": "CTX",
-        "url": "https://open.spotify.com/album/0s2SmN5DC2ryPgNvbPQbIr"
-      },
-      "artists": [
-        {
-          "name": "Fonzo",
-          "url": "https://open.spotify.com/artist/0LEJPVIfO00yDQiUI7d88h"
-        },
-        {
-          "name": "Roaming Data",
-          "url": "https://open.spotify.com/artist/086siaYv8GRd8gvRPnLqIz"
-        }
-      ],
-      "duration_ms": 320087,
-      "name": "CTX",
-      "url": "https://open.spotify.com/track/6JWlIiYcEgYGNF8oNaMpZP"
-    },
-    {
-      "added_at": "2025-04-25 18:58:50",
-      "album": {
-        "name": "What\u2019s The Time?",
-        "url": "https://open.spotify.com/album/2mHaeLDA0V0OACGwCB4UvP"
-      },
-      "artists": [
-        {
-          "name": "8181 Enzo",
-          "url": "https://open.spotify.com/artist/3yqVGerYiH2wXdwajUy8vR"
-        }
-      ],
-      "duration_ms": 146575,
-      "name": "What\u2019s The Time?",
-      "url": "https://open.spotify.com/track/6MPbKYHzzsckli9qZ5S3Kk"
-    },
-    {
-      "added_at": "2025-04-25 18:58:50",
-      "album": {
-        "name": "Global Vision",
-        "url": "https://open.spotify.com/album/05M9Jt6WSAJvKcpQopQKlT"
-      },
-      "artists": [
-        {
-          "name": "Amour Propre",
-          "url": "https://open.spotify.com/artist/1QjNphqwn88rGaLekI0fQQ"
-        },
-        {
-          "name": "Ramyen",
-          "url": "https://open.spotify.com/artist/6qro4zFLmWn0Vsu4XOX8I2"
-        }
-      ],
-      "duration_ms": 292279,
-      "name": "Global Vision",
-      "url": "https://open.spotify.com/track/0KaANauI3OAZDjake6TAJU"
     },
     {
       "added_at": "2025-05-02 04:00:40",
@@ -1439,26 +1499,6 @@
       "duration_ms": 210466,
       "name": "The Whistle",
       "url": "https://open.spotify.com/track/3TRXeDAZOatRruDIqPom6u"
-    },
-    {
-      "added_at": "2025-04-30 16:10:18",
-      "album": {
-        "name": "Dancefloor (feat. efan)",
-        "url": "https://open.spotify.com/album/12LDQUojoGmz2U51jTEcpV"
-      },
-      "artists": [
-        {
-          "name": "INDI",
-          "url": "https://open.spotify.com/artist/6T2L2KzWTtlOO4DvTe2vo9"
-        },
-        {
-          "name": "efan",
-          "url": "https://open.spotify.com/artist/6JSLs55qHQEcyp0uFGDmAT"
-        }
-      ],
-      "duration_ms": 150209,
-      "name": "Dancefloor (feat. efan)",
-      "url": "https://open.spotify.com/track/14nCGStlD6HdA7ozTDv14y"
     },
     {
       "added_at": "2025-04-18 05:11:16",
@@ -1561,22 +1601,6 @@
       "url": "https://open.spotify.com/track/2P7fnktG0n0P0UN9wUgas9"
     },
     {
-      "added_at": "2025-04-16 18:48:21",
-      "album": {
-        "name": "Silly Flow",
-        "url": "https://open.spotify.com/album/7DrapDpR5jck47dO3Zj0Pj"
-      },
-      "artists": [
-        {
-          "name": "Baxter The Kidd",
-          "url": "https://open.spotify.com/artist/0bxEYJGZXDQIhiVG9yWIzY"
-        }
-      ],
-      "duration_ms": 213521,
-      "name": "Silly Flow",
-      "url": "https://open.spotify.com/track/5st3ybOfKZgsW4LavOnhCd"
-    },
-    {
       "added_at": "2025-03-05 19:21:56",
       "album": {
         "name": "just a feeling",
@@ -1641,22 +1665,6 @@
       "url": "https://open.spotify.com/track/6CipQEf67sBUWvr7bG4r09"
     },
     {
-      "added_at": "2025-04-09 17:39:45",
-      "album": {
-        "name": "ZERO SUGAR",
-        "url": "https://open.spotify.com/album/7d8b1OMYV9eVI3kLxhSLt3"
-      },
-      "artists": [
-        {
-          "name": "icykof",
-          "url": "https://open.spotify.com/artist/7isHtMg4cN52S0IkHBIX7j"
-        }
-      ],
-      "duration_ms": 316842,
-      "name": "What She Told Me",
-      "url": "https://open.spotify.com/track/1sWc1cC9hDWPjDJFAVftEV"
-    },
-    {
       "added_at": "2025-04-11 04:00:35",
       "album": {
         "name": "Forever Sanne",
@@ -1671,22 +1679,6 @@
       "duration_ms": 221718,
       "name": "Forever Sanne",
       "url": "https://open.spotify.com/track/3e4PI5dcm6gLu2D8DsWYIw"
-    },
-    {
-      "added_at": "2025-04-04 19:00:45",
-      "album": {
-        "name": "Keep Guessing",
-        "url": "https://open.spotify.com/album/5nbpDe59zRpRwRVAxAaPhj"
-      },
-      "artists": [
-        {
-          "name": "Sven Lochenhoer",
-          "url": "https://open.spotify.com/artist/2APmJd80WsbJQoMwnL1buU"
-        }
-      ],
-      "duration_ms": 189419,
-      "name": "Keep Guessing",
-      "url": "https://open.spotify.com/track/5hp0bM5zmmhuPskJmNuLw7"
     },
     {
       "added_at": "2025-03-21 15:54:40",

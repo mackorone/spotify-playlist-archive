@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 
 > Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Dinda Ghania
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,693 likes - 95 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,705 likes - 95 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 | 5 | [blink](https://open.spotify.com/track/6o3T8kFESS80zxTKDdyiGd) | [Alex Teh](https://open.spotify.com/artist/0RO08FqySaEmUQMwVC5N36) | [blink](https://open.spotify.com/album/6pNW8tHqgSdymA56BVKtwr) | 4:05 |
 | 6 | [1ntertwined](https://open.spotify.com/track/20UlcFBqYcGpzhPiK4bzP9) | [Heiakim](https://open.spotify.com/artist/7CSdLmKke7VFyb0ZJfl3W1) | [1ntertwined](https://open.spotify.com/album/5hMYyPUVItISMOFTyMWGBG) | 3:08 |
 | 7 | [something about you](https://open.spotify.com/track/15YMi1fS4AFTME9bKD9MzZ) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM), [RIMALDI](https://open.spotify.com/artist/4HONrrOQf6N5rP9ukyBLFg) | [something about you](https://open.spotify.com/album/1BAfEPPiyIrzglzOqdtPra) | 4:17 |
-| 8 | [CVX \- HENSHIN](https://open.spotify.com/track/1mmS6KmwxjQPpDdwBoHBsI) | [CVX](https://open.spotify.com/artist/3YDAdiXuKjmL0SsiCr1eyz) | [CVX \- HENSHIN](https://open.spotify.com/album/3NULzkAB2M5zCFCABYe19s) | 3:09 |
+| 8 | [HENSHIN](https://open.spotify.com/track/1mmS6KmwxjQPpDdwBoHBsI) | [CVX](https://open.spotify.com/artist/3YDAdiXuKjmL0SsiCr1eyz) | [HENSHIN](https://open.spotify.com/album/3NULzkAB2M5zCFCABYe19s) | 3:09 |
 | 9 | [if only...](https://open.spotify.com/track/3bP8ZYJTjTdy1o9bUt0js3) | [Skyline](https://open.spotify.com/artist/3jFq99M5yrKG1yihywpcnf) | [if only...](https://open.spotify.com/album/6GOpBfDK3f8H0gSi3eeGq1) | 3:35 |
 | 10 | [All of Our Friends](https://open.spotify.com/track/5n04xhk5uLiRODhnms3eow) | [Melisa Lestira](https://open.spotify.com/artist/5TAIXdOUxvx8CK65DG00KV) | [All of Our Friends](https://open.spotify.com/album/50ZCoF9liqAOOS5Q41Sdhc) | 4:17 |
 | 11 | [I’LL BE YOUR PAIN](https://open.spotify.com/track/4muyJ5JfkGoc7CPjuYf8y1) | [XANDEGA](https://open.spotify.com/artist/344sZKVzlNX1OQmSDFwxzr) | [I’LL BE YOUR PAIN](https://open.spotify.com/album/4dQ6dOXgZjN4B0YaclfOOf) | 3:52 |
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 | 52 | [World On Fire](https://open.spotify.com/track/3F3ZI125ELpWlJTSGV7rOy) | [Nicole Kyra](https://open.spotify.com/artist/65iMWFv4pQ3IaJbmIjkVt4) | [World On Fire](https://open.spotify.com/album/1TK3S2rxCh4XgMdBJ7IRYq) | 3:25 |
 | 53 | [NO!](https://open.spotify.com/track/32UQufujepBZNvoRFRzmz9) | [Delorians](https://open.spotify.com/artist/3veLkV7PryzEQXJnFxDhON) | [NO!](https://open.spotify.com/album/2zlrD0QwyKJq63bYvRLbHl) | 3:22 |
 | 54 | [In A Room Full Of Blaze](https://open.spotify.com/track/17UdU1yiNW1WSJL5TAfu22) | [nomaden](https://open.spotify.com/artist/4JS4vfelrFOXDfBIezjmW3) | [In A Room Full Of Blaze](https://open.spotify.com/album/5NuEUyHppdEfnVpeO5xpTp) | 3:39 |
-| 55 | [Let Me Be Your Man](https://open.spotify.com/track/4cm2ZdTcIwNhn0ZnEnkf8s) | [Voxxes](https://open.spotify.com/artist/0GgS2KBIslAgdZu0XYzSTG) | [Let Me Be Your Man](https://open.spotify.com/album/2zhlUYDJZuHyZVaqjrgYjB) | 3:37 |
+| 55 | [Let Me Be Your Man](https://open.spotify.com/track/4cm2ZdTcIwNhn0ZnEnkf8s) | [Voxxes](https://open.spotify.com/artist/0GgS2KBIslAgdZu0XYzSTG) | [Let Me Be Your Man](https://open.spotify.com/album/2zhlUYDJZuHyZVaqjrgYjB) | 3:38 |
 | 56 | [Where the Wind Takes Me](https://open.spotify.com/track/1p7SGM0ojsAVGuWtXkgeTa) | [Shania Yan](https://open.spotify.com/artist/1bycmYZBIFs1GndFBYtlSX) | [Where the Wind Takes Me](https://open.spotify.com/album/6tpOkpi2e1pYqXGkZa6neQ) | 3:50 |
 | 57 | [Books Of Life](https://open.spotify.com/track/2QwTLcdMlccj1uapY7yn1i) | [Tarasinta](https://open.spotify.com/artist/4Cz3KvYnvRJhCwloD3t1TL) | [Books Of Life](https://open.spotify.com/album/6A9exPt2uTUaXcdHcav4YG) | 3:46 |
 | 58 | [Precious Time](https://open.spotify.com/track/6QCf3ZUBc5oIUjtxR4NPmm) | [Showbiz](https://open.spotify.com/artist/1qrWyeykFOOSGikuDQA9eC) | [Precious Time](https://open.spotify.com/album/4snPevQGPMdd0nsSX6q45M) | 3:23 |

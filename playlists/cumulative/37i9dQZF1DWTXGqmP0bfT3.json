@@ -810,7 +810,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 200800,
       "name": "Blackhole",
       "url": "https://open.spotify.com/track/2qcXDpEzi89CMgxPXAiiI8"
@@ -1838,6 +1838,24 @@
       "duration_ms": 197357,
       "name": "Erase Me",
       "url": "https://open.spotify.com/track/06om1aJnEjWpJev4Z70GYW"
+    },
+    {
+      "album": {
+        "name": "Eyes Above",
+        "url": "https://open.spotify.com/album/1Kr1QMlJz1cTjg64SApE74"
+      },
+      "artists": [
+        {
+          "name": "The Word Alive",
+          "url": "https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261000,
+      "name": "Eyes Above",
+      "url": "https://open.spotify.com/track/2XB2Hp4JtKMUAqRHh6DNZc"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 367225,
+  "num_followers": 367269,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -135,22 +135,18 @@
     {
       "added_at": "2025-05-29 23:00:12",
       "album": {
-        "name": "Back on 74 (Full Crate Remix)",
-        "url": "https://open.spotify.com/album/4kGBuWZI5kpjt60cqWewXD"
+        "name": "Crave",
+        "url": "https://open.spotify.com/album/6bC4wS1VnIVFhlks2Wx0XX"
       },
       "artists": [
         {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        },
-        {
-          "name": "Full Crate",
-          "url": "https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g"
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
         }
       ],
-      "duration_ms": 174233,
-      "name": "Back On 74 - Full Crate Remix",
-      "url": "https://open.spotify.com/track/0eBAg5wJBu2Acv6o72iY4c"
+      "duration_ms": 206360,
+      "name": "Crave",
+      "url": "https://open.spotify.com/track/75ZvCtDorLfeaaTKyX7s1z"
     },
     {
       "added_at": "2025-05-29 23:00:12",
@@ -219,6 +215,26 @@
     {
       "added_at": "2025-05-29 23:00:12",
       "album": {
+        "name": "Back on 74 (Full Crate Remix)",
+        "url": "https://open.spotify.com/album/4kGBuWZI5kpjt60cqWewXD"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        },
+        {
+          "name": "Full Crate",
+          "url": "https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g"
+        }
+      ],
+      "duration_ms": 174233,
+      "name": "Back On 74 - Full Crate Remix",
+      "url": "https://open.spotify.com/track/0eBAg5wJBu2Acv6o72iY4c"
+    },
+    {
+      "added_at": "2025-05-29 23:00:12",
+      "album": {
         "name": "Black Magic Woman",
         "url": "https://open.spotify.com/album/4tWsyDsJaSDp0Z0PTa0vLP"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 218625,
       "name": "Black Magic Woman",
       "url": "https://open.spotify.com/track/6Y1szSzgBTj39XorUpxGXV"
-    },
-    {
-      "added_at": "2025-05-29 23:00:12",
-      "album": {
-        "name": "Lifetime",
-        "url": "https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z"
-      },
-      "artists": [
-        {
-          "name": "Erika de Casier",
-          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
-        }
-      ],
-      "duration_ms": 147413,
-      "name": "Delusional",
-      "url": "https://open.spotify.com/track/6M5Y8sn5cXePK58bH1WKon"
     },
     {
       "added_at": "2025-05-29 23:00:12",
@@ -279,22 +279,18 @@
     {
       "added_at": "2025-05-29 23:00:12",
       "album": {
-        "name": "Money",
-        "url": "https://open.spotify.com/album/5qmEF78Uq9CjwIgvKQe7WG"
+        "name": "Lifetime",
+        "url": "https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z"
       },
       "artists": [
         {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        },
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+          "name": "Erika de Casier",
+          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
         }
       ],
-      "duration_ms": 291568,
-      "name": "Money (with Tom Misch)",
-      "url": "https://open.spotify.com/track/2LUTN2pDXUplYlc7WjE1Mm"
+      "duration_ms": 147413,
+      "name": "Delusional",
+      "url": "https://open.spotify.com/track/6M5Y8sn5cXePK58bH1WKon"
     },
     {
       "added_at": "2025-05-29 23:00:12",
@@ -359,6 +355,26 @@
     {
       "added_at": "2025-05-29 23:00:12",
       "album": {
+        "name": "Money",
+        "url": "https://open.spotify.com/album/5qmEF78Uq9CjwIgvKQe7WG"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        },
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 291568,
+      "name": "Money (with Tom Misch)",
+      "url": "https://open.spotify.com/track/2LUTN2pDXUplYlc7WjE1Mm"
+    },
+    {
+      "added_at": "2025-05-29 23:00:12",
+      "album": {
         "name": "All that Glitters is not Gold",
         "url": "https://open.spotify.com/album/21cKRCwQth5UGjCV6DkhGn"
       },
@@ -383,26 +399,6 @@
     {
       "added_at": "2025-05-29 23:00:12",
       "album": {
-        "name": "Deja Vu",
-        "url": "https://open.spotify.com/album/5UcjmnionWq0WqmpxXmfjD"
-      },
-      "artists": [
-        {
-          "name": "dublon",
-          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
-        },
-        {
-          "name": "Con Cook",
-          "url": "https://open.spotify.com/artist/6akmHflFVzgeDWJtP98n7v"
-        }
-      ],
-      "duration_ms": 125084,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/13LojN5HDhICPdgLz6QmIG"
-    },
-    {
-      "added_at": "2025-05-29 23:00:12",
-      "album": {
         "name": "Looking Up",
         "url": "https://open.spotify.com/album/2YIUPe9KlTnLbTMblca0o0"
       },
@@ -419,6 +415,26 @@
       "duration_ms": 148106,
       "name": "Looking Up",
       "url": "https://open.spotify.com/track/4z4sZuWyEtvrVoQYQJXlwX"
+    },
+    {
+      "added_at": "2025-05-29 23:00:12",
+      "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/5UcjmnionWq0WqmpxXmfjD"
+      },
+      "artists": [
+        {
+          "name": "dublon",
+          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
+        },
+        {
+          "name": "Con Cook",
+          "url": "https://open.spotify.com/artist/6akmHflFVzgeDWJtP98n7v"
+        }
+      ],
+      "duration_ms": 125084,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/13LojN5HDhICPdgLz6QmIG"
     },
     {
       "added_at": "2025-05-29 23:00:12",
@@ -827,22 +843,6 @@
     {
       "added_at": "2025-05-29 23:00:12",
       "album": {
-        "name": "Everything\u2019s Beautiful",
-        "url": "https://open.spotify.com/album/0rjW3BdMJdjfKhDVKLkJjt"
-      },
-      "artists": [
-        {
-          "name": "Hiatus Kaiyote",
-          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
-        }
-      ],
-      "duration_ms": 170479,
-      "name": "Everything\u2019s Beautiful",
-      "url": "https://open.spotify.com/track/3HkLJLoUHQbKwjn3krWvpg"
-    },
-    {
-      "added_at": "2025-05-29 23:00:12",
-      "album": {
         "name": "Sounds of My World",
         "url": "https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH"
       },
@@ -867,22 +867,18 @@
     {
       "added_at": "2025-05-29 23:00:12",
       "album": {
-        "name": "ILLUSIONS Pt. II",
-        "url": "https://open.spotify.com/album/2oRN202MZsHOTJacPOYeZv"
+        "name": "Everything\u2019s Beautiful",
+        "url": "https://open.spotify.com/album/0rjW3BdMJdjfKhDVKLkJjt"
       },
       "artists": [
         {
-          "name": "Yellow Days",
-          "url": "https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY"
-        },
-        {
-          "name": "Ric Wilson",
-          "url": "https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR"
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
         }
       ],
-      "duration_ms": 183053,
-      "name": "ILLUSIONS Pt. II",
-      "url": "https://open.spotify.com/track/6ro3scqAcujWPUd13k590j"
+      "duration_ms": 170479,
+      "name": "Everything\u2019s Beautiful",
+      "url": "https://open.spotify.com/track/3HkLJLoUHQbKwjn3krWvpg"
     },
     {
       "added_at": "2025-05-29 23:00:12",
@@ -899,6 +895,26 @@
       "duration_ms": 232000,
       "name": "IDKW",
       "url": "https://open.spotify.com/track/67Nrz0HAa2MUrO2zbekGfs"
+    },
+    {
+      "added_at": "2025-05-29 23:00:12",
+      "album": {
+        "name": "ILLUSIONS Pt. II",
+        "url": "https://open.spotify.com/album/2oRN202MZsHOTJacPOYeZv"
+      },
+      "artists": [
+        {
+          "name": "Yellow Days",
+          "url": "https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY"
+        },
+        {
+          "name": "Ric Wilson",
+          "url": "https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR"
+        }
+      ],
+      "duration_ms": 183053,
+      "name": "ILLUSIONS Pt. II",
+      "url": "https://open.spotify.com/track/6ro3scqAcujWPUd13k590j"
     },
     {
       "added_at": "2025-05-29 23:00:12",
@@ -1167,6 +1183,22 @@
     {
       "added_at": "2025-05-29 23:00:12",
       "album": {
+        "name": "Cactus Water",
+        "url": "https://open.spotify.com/album/0Hig8AAHnlRhJx6yIKdbQR"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 204240,
+      "name": "Cactus Water",
+      "url": "https://open.spotify.com/track/4mSnIJwKtvmhZHRzBItBQ6"
+    },
+    {
+      "added_at": "2025-05-29 23:00:12",
+      "album": {
         "name": "Heatwave",
         "url": "https://open.spotify.com/album/3y5RpzFIsdyO5N9svU35Hv"
       },
@@ -1183,22 +1215,6 @@
       "duration_ms": 154735,
       "name": "Heatwave",
       "url": "https://open.spotify.com/track/3CXnsjKzy287gQ7WPtp3fF"
-    },
-    {
-      "added_at": "2025-05-29 23:00:12",
-      "album": {
-        "name": "Cactus Water",
-        "url": "https://open.spotify.com/album/0Hig8AAHnlRhJx6yIKdbQR"
-      },
-      "artists": [
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 204240,
-      "name": "Cactus Water",
-      "url": "https://open.spotify.com/track/4mSnIJwKtvmhZHRzBItBQ6"
     },
     {
       "added_at": "2025-05-29 23:00:12",
@@ -1263,22 +1279,6 @@
     {
       "added_at": "2025-05-29 23:00:12",
       "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/3ZG8qMgSzv43JppXxgfB26"
-      },
-      "artists": [
-        {
-          "name": "Klyne",
-          "url": "https://open.spotify.com/artist/3q4qbeWVDpN7LcwU6db2a7"
-        }
-      ],
-      "duration_ms": 116603,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/2KSp8PdIUklpvIcpC688wT"
-    },
-    {
-      "added_at": "2025-05-29 23:00:12",
-      "album": {
         "name": "Walked In The Room",
         "url": "https://open.spotify.com/album/3E3MIDOQnIcy9wUdIXQAsM"
       },
@@ -1291,6 +1291,22 @@
       "duration_ms": 198306,
       "name": "Walked In The Room",
       "url": "https://open.spotify.com/track/4tPHsS7lFxBCe6zRAOWMSR"
+    },
+    {
+      "added_at": "2025-05-29 23:00:12",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/3ZG8qMgSzv43JppXxgfB26"
+      },
+      "artists": [
+        {
+          "name": "Klyne",
+          "url": "https://open.spotify.com/artist/3q4qbeWVDpN7LcwU6db2a7"
+        }
+      ],
+      "duration_ms": 116603,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/2KSp8PdIUklpvIcpC688wT"
     },
     {
       "added_at": "2025-05-29 23:00:12",
@@ -1387,22 +1403,6 @@
       "duration_ms": 241961,
       "name": "Enchant\u00e9 - Remix",
       "url": "https://open.spotify.com/track/3x7ro52yzcFqlUicJhGFM0"
-    },
-    {
-      "added_at": "2025-05-29 23:00:12",
-      "album": {
-        "name": "DAY&NITE",
-        "url": "https://open.spotify.com/album/10hFZkOt9rGav70EtYdVuB"
-      },
-      "artists": [
-        {
-          "name": "Wilfy D",
-          "url": "https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "DAY&NITE",
-      "url": "https://open.spotify.com/track/0SPsbPw8Vmv1dgjgN86UgV"
     }
   ],
   "unique_name": "Soultronic",

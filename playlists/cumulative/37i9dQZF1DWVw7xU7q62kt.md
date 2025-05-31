@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-538 songs - 1 day 0 hr 33 min
+539 songs - 1 day 0 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -283,6 +283,7 @@
 | [Lunar](https://open.spotify.com/track/75XyOPZx7izKlAx3t7Z9eH) | [Notation](https://open.spotify.com/artist/6Ez42bOoRelk95xv7GBMhx), [Dubillard](https://open.spotify.com/artist/2UNd8V88DmE0Fa2FVIX4h8), [Estoric](https://open.spotify.com/artist/6N4Dpg7qAykAxA95NaYKLX), [Dinis](https://open.spotify.com/artist/6jlKK6jwCQOcdsNlNfKlMq) | [Lunar](https://open.spotify.com/album/40w2cyLw0AFHejLi6BqqWr) | 2:06 | 2024-11-08 |  |
 | [Lunar Glow in the Lagoon](https://open.spotify.com/track/31spGWzzc3AQIq7jRgxIMv) | [Julien Daïan](https://open.spotify.com/artist/1sbU4PhV0rilFBoBUcGMqa) | [Suppose It Is Butter](https://open.spotify.com/album/7dqdPkW3LyElXKTO2qUdLQ) | 6:28 | 2024-11-22 | 2024-12-07 |
 | [Machete](https://open.spotify.com/track/4zvnyytJN2uLj0poWhVMZb) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Mendeville](https://open.spotify.com/artist/3oul9NF2i2QuhpMzxEWoHD) | [Machete](https://open.spotify.com/album/0YYgsm9xC9bKeg7BmNCOuO) | 2:45 | 2023-08-22 | 2024-11-21 |
+| [Madison Ave](https://open.spotify.com/track/24YKoKaxshhfg5LWY9uFau) | [No Spirit](https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX), [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a) | [Madison Ave](https://open.spotify.com/album/53cqYja9il9TQu7k0CjP5y) | 1:41 | 2025-05-23 |  |
 | [Madrugada](https://open.spotify.com/track/3ub8PrQqfYvPyLbzACDoGB) | [Gabiga](https://open.spotify.com/artist/7KmiBNHemPsEwpLvRXHvQg) | [Madrugada](https://open.spotify.com/album/0f8hU4BFgSR8pxjF6TfCs2) | 2:24 | 2024-08-23 |  |
 | [Mamba Nova](https://open.spotify.com/track/0BCf4fAcPfqstZ6SwsOWa8) | [TWYN](https://open.spotify.com/artist/0HDWVwgRhsuFXpFq1m1HXm) | [Mamba Nova](https://open.spotify.com/album/7uFblvP8914EgohyDVGfcv) | 3:55 | 2024-06-04 | 2024-08-24 |
 | [Mantras](https://open.spotify.com/track/5JBhE0SFiEJqfevwqO69AJ) | [Two Scents](https://open.spotify.com/artist/7sRau6OFIdLc2jMdzZRt81) | [Mantras](https://open.spotify.com/album/4vcHSgvMEozchsFpfqbpVq) | 2:24 | 2024-09-06 | 2024-12-22 |
@@ -491,7 +492,7 @@
 | [The Winds Of Change](https://open.spotify.com/track/6PjuBpVOA9n1xJEoQzhT8O) | [Dreamfield](https://open.spotify.com/artist/0Z1g78JEjg1BhRNw6hToVm), [BƱBBLE](https://open.spotify.com/artist/2wWyy4LUiILXOvvCF0RSQk) | [The Winds Of Change](https://open.spotify.com/album/6eZYiqVq6c8FhlScZMpNZi) | 2:42 | 2024-12-13 |  |
 | [This Was Once Out of Shape](https://open.spotify.com/track/3qhJWC50lNxxiBcB35SyaA) | [Trap Rabbit](https://open.spotify.com/artist/66PSCfmOi8qw6DUFrfdDM8), [Maxfield Gast](https://open.spotify.com/artist/2H7TnI00EbxkXJ39wENiTo) | [This Was Once Out of Shape](https://open.spotify.com/album/2vC0VZmlbWEEC46w06CWvp) | 3:47 | 2024-03-20 | 2024-05-06 |
 | [This Was Once Out of Shape](https://open.spotify.com/track/4pce4kuGacGxXi8PA9QJcr) | [Trap Rabbit](https://open.spotify.com/artist/66PSCfmOi8qw6DUFrfdDM8), [Maxfield Gast](https://open.spotify.com/artist/2H7TnI00EbxkXJ39wENiTo) | [This Was Once Out of Shape](https://open.spotify.com/album/1wBwauk7beuBQDseEBcjU2) | 3:47 | 2023-08-22 | 2024-04-19 |
-| [Through The Jazz](https://open.spotify.com/track/1hukNvf5AI3iWXnxMd15CD) | [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw) | [Through The Jazz](https://open.spotify.com/album/2gfERflPDROJNimeKVbLR4) | 1:47 | 2025-05-09 |  |
+| [Through The Jazz](https://open.spotify.com/track/1hukNvf5AI3iWXnxMd15CD) | [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw) | [Through The Jazz](https://open.spotify.com/album/2gfERflPDROJNimeKVbLR4) | 1:47 | 2025-05-09 | 2025-05-31 |
 | [Tightrope Walker](https://open.spotify.com/track/1dFLvdBAp6OfDb9hiPzZsI) | [Nicolas Kluzek](https://open.spotify.com/artist/0fUtDbK1RDdscZGRHqCHCs) | [Tightrope Walker](https://open.spotify.com/album/07EXafwIFuzr0OXJDYRbbg) | 2:15 | 2025-03-28 | 2025-05-04 |
 | [Time 4 Time](https://open.spotify.com/track/4exkfJ2JVCz6cFjXQixprk) | [Unwind Project](https://open.spotify.com/artist/1pKbeFgKBZ7fk5UVIxo6mf), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O) | [Time 4 Time](https://open.spotify.com/album/0Y02xvTaA13bMCnJezR4f7) | 2:44 | 2025-05-16 |  |
 | [Treetwine](https://open.spotify.com/track/0HvgzeL7sVkKpxbKgCAVlY) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [tenkousei.](https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N), [Beats for Trees](https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y) | [Treetwine](https://open.spotify.com/album/2WyvgjCkFqNic1mq68FzAa) | 2:03 | 2025-03-22 |  |

@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tjzQw0If3c.md) - [plain]
 
 ### [RADAR SG & MY](https://open.spotify.com/playlist/37i9dQZF1DX8tjzQw0If3c)
 
-> Listen to the future\. Cover: karan
+> Listen to the future\. Cover: Dominic Chin
 
 [Spotify](https://open.spotify.com/user/spotify) - 11,114 likes - 62 songs - 3 hr 21 min
 
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tjzQw0If3c.md) - [plain]
 | 61 | [Udara \(From Astro Originals "FRAMED"\)](https://open.spotify.com/track/6657DgGU1WPHIopNQ6O4B8) | [Nadeera](https://open.spotify.com/artist/4KMw2UKyEd9miV1F3uRQXB) | [Udara \(From Astro Originals "FRAMED"\)](https://open.spotify.com/album/4Zxcug5c4qmcsYg52BH2yM) | 3:28 |
 | 62 | [what would it take?](https://open.spotify.com/track/3T9l0r98QH8BPVsqDvCH1f) | [lovlaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx) | [lovlaine](https://open.spotify.com/album/76rmi2rvV6BTLeuRj9HMQY) | 4:10 |
 
-Snapshot ID: `aDiElgAAAADqA6oBVkHy9W2snls38S+t`
+Snapshot ID: `aDm7UQAAAAB/ewjy9rwXfbLe3+cQ87P/`

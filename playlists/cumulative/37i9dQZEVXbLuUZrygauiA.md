@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Mexico.
 
-2,938 songs - 6 day 14 hr 50 min
+2,939 songs - 6 day 14 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -339,7 +339,7 @@
 | [Black Sheep \- Brie Larson Vocal Version](https://open.spotify.com/track/60TThBDrPpek5k520l0W0L) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl), [Brie Larson](https://open.spotify.com/artist/7g77hiv179GYIwhfCgETGy) | [Black Sheep \(Brie Larson Vocal Version\)](https://open.spotify.com/album/3blvQlrV0IeDBOWqDz2yYd) | 4:54 | 2023-11-26 | 2023-12-05 |
 | [Blame It on the Rain](https://open.spotify.com/track/5ReqKJslVMTo52XRUaVcRq) | [Milli Vanilli](https://open.spotify.com/artist/3vRclCt9VnNhYIxFMQCxuM) | [Blame It On The Rain \(Sped Up\)](https://open.spotify.com/album/3UbNhgAdGn4wAXSbhvzacp) | 4:08 | 2024-10-07 | 2024-10-18 |
 | [Blamegame](https://open.spotify.com/track/3dSplmMF8Dyw5R8NL5fb5c) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu), [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [ATP](https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe) | 3:25 | 2024-09-03 | 2024-09-25 |
-| [Blessings](https://open.spotify.com/track/78nx0HDJIFD5xDq2L5420Z) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Blessings](https://open.spotify.com/album/5awEnPUdqgYwqsc33hPk52) | 3:39 | 2025-05-27 |  |
+| [Blessings](https://open.spotify.com/track/78nx0HDJIFD5xDq2L5420Z) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Blessings](https://open.spotify.com/album/5awEnPUdqgYwqsc33hPk52) | 3:39 | 2025-05-27 | 2025-05-31 |
 | [Bling Bling](https://open.spotify.com/track/5B8FWDSKUT5Ui1CsCfopWh) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp) | [Bling Bling](https://open.spotify.com/album/4LxiVBlQPYvmhx6UR4CIWy) | 2:42 | 2023-12-19 | 2024-01-03 |
 | [Bling Bling](https://open.spotify.com/track/5vZIcIcFVO4MqSY9Ue0n2M) | [Omar Estrada](https://open.spotify.com/artist/6onnXFcolKcGYTLpxx2IMC), [Uriel Cabrera](https://open.spotify.com/artist/31BXTMf3VH2s6TE9IDhaZ9) | [Bling Bling](https://open.spotify.com/album/6GnpfLqyKCSEYduuuPkZHQ) | 4:02 | 2023-11-20 | 2023-12-10 |
 | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6) | 2:48 | 2024-01-23 | 2024-04-10 |
@@ -671,6 +671,7 @@
 | [DEMONS IN MY SOUL](https://open.spotify.com/track/72iyEnh9p6PoyJoEnAJDjO) | [SCXR SOUL](https://open.spotify.com/artist/6yxKWJK7XtaOMK2j9FXqSC), [Sx1nxwy](https://open.spotify.com/artist/0vX16aPLB5IGeyzFDHBm6T) | [DEMONS IN MY SOUL](https://open.spotify.com/album/5EDnWffEsv2TTRyMPMufl7) | 2:00 | 2022-11-24 | 2022-11-30 |
 | [DENIAL IS A RIVER](https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:39 | 2025-01-09 | 2025-03-16 |
 | [Derecho y Chueco](https://open.spotify.com/track/0DBs6MtftX1ywn0wYVtQ5S) | [Los Caimanes De Sinaloa](https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN) | [Derecho y Chueco](https://open.spotify.com/album/3H5SrSng3ifF6Yd7664mNm) | 2:37 | 2024-01-07 | 2024-02-07 |
+| [Desamarte](https://open.spotify.com/track/09kH8gWpooPEwYWvAMslxR) | [Luis Cortés](https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Corazón Negro](https://open.spotify.com/album/5uJr5IrKoOphSjsqZHtXtA) | 3:06 | 2025-05-30 |  |
 | [Desconexión Emocional](https://open.spotify.com/track/4LACz4bIpxxsTDX1bNSwjg) | [Missa Sinfonia](https://open.spotify.com/artist/7Ip8SqItaKjJtgtKUNCShb) | [Desconexión Emocional](https://open.spotify.com/album/0VxJTxJdSmtMfk1nvv8wR3) | 3:06 | 2025-05-13 | 2025-05-15 |
 | [Desde El Cielo](https://open.spotify.com/track/1PUuX8zxsfUKvOW5T1EDE7) | [Los Barranqueños](https://open.spotify.com/artist/5frWs2mXrde6utBHv5uxfu) | [Para Ti Virgencita De Guadalupe](https://open.spotify.com/album/6i99Mtinvq4gEg776Ge7Jw) | 3:30 | 2023-12-13 | 2023-12-21 |
 | [Desde La Prisión 19](https://open.spotify.com/track/5WKa58Z9qiOYdOwKw52KUg) | [Grupo Cartel](https://open.spotify.com/artist/5wa3UkofRgI0jl6fKB6q4J) | [Desde La Prisión 19](https://open.spotify.com/album/1kdG9DtGQoZGHAEFd4lLQj) | 2:55 | 2024-04-30 | 2024-05-04 |

@@ -1,6 +1,6 @@
 {
   "description": "Die Klassiker des Schweizer Hip-Hop.",
-  "num_followers": 12680,
+  "num_followers": 12684,
   "original_name": "Alte Schule",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "Z1bebQAAAADHywHaGHvtQbGTS09lqVyJ",
   "tracks": [
+    {
+      "added_at": "2024-12-09 12:11:25",
+      "album": {
+        "name": "0816 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5xY03mntZ8UYzw9JyhVovX"
+      },
+      "artists": [
+        {
+          "name": "Bligg",
+          "url": "https://open.spotify.com/artist/1q4LHoD7IzquqGQR4YZRQr"
+        }
+      ],
+      "duration_ms": 202933,
+      "name": "Musigg i d\u00e4 Schwiiz",
+      "url": "https://open.spotify.com/track/3rrXQC7hEBynPo3qmHWNDA"
+    },
     {
       "added_at": "2024-12-09 12:11:25",
       "album": {
@@ -943,26 +959,6 @@
       "duration_ms": 220013,
       "name": "Die Grundregeln",
       "url": "https://open.spotify.com/track/45mo0hGu4G9aN0P9uTHpui"
-    },
-    {
-      "added_at": "2024-12-09 12:11:25",
-      "album": {
-        "name": "Link Up (Remix) / Extra",
-        "url": "https://open.spotify.com/album/4azTTTDQOh91aouGjgbRnm"
-      },
-      "artists": [
-        {
-          "name": "Manillio",
-          "url": "https://open.spotify.com/artist/7uxtLjuqkJ3cnjQQuW6Cul"
-        },
-        {
-          "name": "Nativ",
-          "url": "https://open.spotify.com/artist/3D9JUF3jSyhMh88bYb4wJX"
-        }
-      ],
-      "duration_ms": 193768,
-      "name": "Extra",
-      "url": "https://open.spotify.com/track/3JEV20qAKdhQ9opRo2eP1m"
     }
   ],
   "unique_name": "Alte Schule",

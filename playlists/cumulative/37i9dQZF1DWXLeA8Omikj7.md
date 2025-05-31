@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-1,075 songs - 3 day 5 hr 37 min
+1,076 songs - 3 day 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -487,6 +487,7 @@
 | [Jasmine Oceans](https://open.spotify.com/track/3XkUCBouaD0NOAjfbi5D95) | [Julien Mier](https://open.spotify.com/artist/5paAp4hjtSahENm3QTNsiP) | [Stirring Child Spirits](https://open.spotify.com/album/6Tzb4NzPuV87nJ5mfWx0EB) | 3:05 | 2019-06-19\* | 2022-04-21 |
 | [Jazzy Mums](https://open.spotify.com/track/5boPxQ6Eu3jEK94mMe5X1r) | [Little Birds](https://open.spotify.com/artist/2LrHbZ8yfV2lV53wbrYXw1) | [Filter Label Presents the Best of 2016](https://open.spotify.com/album/2TIANhqNKV7n2eLsGx2DV2) | 3:27 | 2019-06-23 | 2022-04-18 |
 | [Jin Dou Yun](https://open.spotify.com/track/7vjL2ZTSGbh77iA2YnsvIx) | [Polygonia](https://open.spotify.com/artist/1bvMkEwyURFPl2eDGZieUm) | [Da Nao Tian Gong](https://open.spotify.com/album/2ypIUJpjOomXeyZndnEcG9) | 7:42 | 2024-02-16 | 2024-03-29 |
+| [Jupiter](https://open.spotify.com/track/17XWNxJmaPZbHjJ48aCmwm) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Jupiter](https://open.spotify.com/album/3GwfZuYLP7X8d0FBOZGyHt) | 4:05 | 2025-05-30 |  |
 | [Just Saying](https://open.spotify.com/track/6wYROkv6ZrZJiS8utsY8P6) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [In Colour](https://open.spotify.com/album/0AVPusXNzK1jWwefBiPJ5I) | 1:23 | 2020-08-26 | 2021-03-06 |
 | [Just Sine Waves](https://open.spotify.com/track/7J8NbJZXIbR3JLOUk5BITV) | [Martin Roth](https://open.spotify.com/artist/4LoSbPey3kklzX5f2KEks1) | [Mono No Aware](https://open.spotify.com/album/70hyp5k7zuvuI52UZvWBKx) | 2:46 | 2025-05-19 |  |
 | [Karl](https://open.spotify.com/track/6XmHQPPaoZIAy2N9ENvjRL) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Knife + Heart \(Official Soundtrack\)](https://open.spotify.com/album/0RUjgQppW67OIBTkRv8fdt) | 2:19 | 2019-06-19\* | 2020-10-22 |
@@ -551,7 +552,7 @@
 | [Loom \(feat\. Bonobo\)](https://open.spotify.com/track/3Yagxg6rtkwN01AYzA862i) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Loom](https://open.spotify.com/album/2kfPunUS5HqupNVAueFmgM) | 3:46 | 2020-10-22 |  |
 | [Loon E](https://open.spotify.com/track/27WhNUMC7jvvQ6m2zF3FW0) | [Purelink](https://open.spotify.com/artist/2kUrBcfh7PVIivyYGAVjrQ) | [Club Moss](https://open.spotify.com/album/2XpWP3eKFkMNlISF1ApaMm) | 5:51 | 2024-03-15 | 2024-05-01 |
 | [Looped](https://open.spotify.com/track/2bB6iDVgm25WkYv0yBz1BD) | [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD) | [Kiasmos](https://open.spotify.com/album/7pBDu7nc2KaMsh0SfZMc2d) | 6:00 | 2023-03-24 | 2023-05-04 |
-| [Love](https://open.spotify.com/track/1DPQO6QuHJEVNO1ukVKVdX) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [Love](https://open.spotify.com/album/6OenbU5SkncCjUpzRIQ4Zo) | 4:38 | 2020-10-19 |  |
+| [Love](https://open.spotify.com/track/1DPQO6QuHJEVNO1ukVKVdX) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [Love](https://open.spotify.com/album/6OenbU5SkncCjUpzRIQ4Zo) | 4:38 | 2020-10-19 | 2025-05-31 |
 | [Love](https://open.spotify.com/track/3VsAxQh5ke9D3UCg7ZnPq2) | [vesky](https://open.spotify.com/artist/2zIECsUpk7rCi0zhXBvF7L) | [Love](https://open.spotify.com/album/6w32IwyhOZUgoU8sEUt3Rq) | 3:56 | 2025-02-12 |  |
 | [Loved](https://open.spotify.com/track/6fUo4GlD0FbvXNTylA4o68) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Loved](https://open.spotify.com/album/7z0gdOZRbERZSAq50rassb) | 4:03 | 2024-01-19 | 2024-02-23 |
 | [Loyalty](https://open.spotify.com/track/4zyYWKv2hYVdAzeVBHeJAv) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq), [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg) | [Loyalty](https://open.spotify.com/album/3JB13d1xqzarAyIUD9BKbV) | 3:18 | 2024-05-24 | 2024-06-14 |

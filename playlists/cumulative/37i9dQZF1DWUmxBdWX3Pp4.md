@@ -4,7 +4,7 @@
 
 > Exitos de Trap Latino 📸 Young Miko.
 
-534 songs - 1 day 5 hr 51 min
+536 songs - 1 day 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [Glizzy](https://open.spotify.com/track/5CIRCz2npiu1N57wTPp0rM) | [Tunechikidd](https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd) | [Glizzy](https://open.spotify.com/album/3t0PHupmoyPbOp7e1oEZWf) | 2:59 | 2023-05-05 | 2023-06-17 |
 | [GLOCK](https://open.spotify.com/track/2n90r0iNEEKNd5DMf3n1oH) | [Love Ghost](https://open.spotify.com/artist/7oYWWttOyiltgT19mfoUWi), [Dan García](https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy) | [GLOCK](https://open.spotify.com/album/6szXrRHR88tVUbHBZMBH0S) | 1:57 | 2023-08-11 | 2023-09-30 |
 | [GO GO GO](https://open.spotify.com/track/0BJCI9tfhMrpELzRiDzdiR) | [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z), [Fenix The Producer](https://open.spotify.com/artist/7EutZWNXh33tAPObZ45ba6) | [La Crema](https://open.spotify.com/album/1LliLGMCamo6OZ0SQBGINc) | 2:57 | 2023-08-25 | 2023-10-14 |
+| [Golfista](https://open.spotify.com/track/0mmWol32PnowJQf0rZx5ab) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Golfista](https://open.spotify.com/album/0lTUD8YJxWaETCcV5sLPJH) | 2:38 | 2025-05-30 |  |
 | [Goteo](https://open.spotify.com/track/57kdZIOAaolxAjB67d2yU3) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Súper Sangre Joven](https://open.spotify.com/album/1SbMoaKFJWo8u1tb2dAgHt) | 2:44 | 2022-06-03 |  |
 | [Gracias A Dios](https://open.spotify.com/track/79cdKPrpDCOjiyKpAQwxOU) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [NataKong](https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L) | 3:02 | 2022-05-06 | 2022-06-18 |
 | [Gracias X Nada](https://open.spotify.com/track/6qSxJv4uImd95kezpLreq2) | [Leebrian](https://open.spotify.com/artist/40lro6xpFS9TxV2uC7yvs4), [Misael Beatz](https://open.spotify.com/artist/0tvAMN2CoNeuMdIiDaeiOw) | [Gracias X Nada](https://open.spotify.com/album/5yVNjAl6CCJk87tupQ5fYE) | 1:59 | 2022-03-11 | 2022-06-04 |
@@ -414,6 +415,7 @@
 | [Quien Soy?](https://open.spotify.com/track/2WJ648KGSA8bhvJe0T9N4p) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Chris Wandell](https://open.spotify.com/artist/1jsB2W4c9zTq9ilGXegrDM) | [Quien Soy?](https://open.spotify.com/album/1I9cP54N1kFGnrDsmsILFY) | 3:21 | 2022-07-22 | 2022-10-15 |
 | [Quien Va a Frontiar](https://open.spotify.com/track/3ilZY9fbri982eVkRywGrK) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Quien Va a Frontiar](https://open.spotify.com/album/148Yvodb2BSJVVUzFBy8xf) | 2:54 | 2023-01-20 | 2023-05-13 |
 | [Quiere Que Llame](https://open.spotify.com/track/22MC8VbKP6Qedbar74WkzU) | [Feloman](https://open.spotify.com/artist/28VWxxfmtShKO6W1qYvnw8), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1) | [Quiere Que Llame](https://open.spotify.com/album/2L6SuPwlXXHm3puWVEULxU) | 3:09 | 2022-12-09 | 2023-06-10 |
+| [Quién Contra Mi](https://open.spotify.com/track/5NYGkj0VAt7HwhcdQKY5W2) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Quién Contra Mi](https://open.spotify.com/album/57pRw9QImYTJmwdXZxvmTF) | 2:10 | 2025-05-30 |  |
 | [R.I.C.O](https://open.spotify.com/track/5zMwqE48oeMWUOzdmSd6Od) | [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [CULTO](https://open.spotify.com/album/1tcNhqApgkYeWauEew4d4Y) | 3:05 | 2024-11-29 | 2025-03-08 |
 | [Rangos](https://open.spotify.com/track/0ZeQFWUwICisBLXNFtlsAY) | [Pekeño 77](https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD) | [Rangos](https://open.spotify.com/album/1cLqKrL2fed5ARiR8qJF3x) | 2:08 | 2022-09-02 | 2022-11-12 |
 | [Rangos](https://open.spotify.com/track/3YS9LsXzgK7cAtrOPkZawe) | [Pekeño 77](https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD) | [Rangos](https://open.spotify.com/album/0kStFMG9fptojUUifWVUCK) | 2:08 | 2022-06-03 | 2022-09-10 |

@@ -673,6 +673,24 @@
     },
     {
       "album": {
+        "name": "Lasso",
+        "url": "https://open.spotify.com/album/1KBnCThd8WNhM6KBUxQ4Yc"
+      },
+      "artists": [
+        {
+          "name": "Jake Banfield",
+          "url": "https://open.spotify.com/artist/2x25aNM4XzVKgrmZw5xcrb"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129860,
+      "name": "Lasso",
+      "url": "https://open.spotify.com/track/3avjQYeEgR9ko93lnMy2m9"
+    },
+    {
+      "album": {
         "name": "Cars (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3Xiz5kq12VOzTw9Kun7m0f"
       },

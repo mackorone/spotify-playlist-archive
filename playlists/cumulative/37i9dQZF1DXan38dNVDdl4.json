@@ -2817,6 +2817,32 @@
     },
     {
       "album": {
+        "name": "Exhale",
+        "url": "https://open.spotify.com/album/3mMjZKdGRvmPXIYarX6aQb"
+      },
+      "artists": [
+        {
+          "name": "Projexx",
+          "url": "https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N"
+        },
+        {
+          "name": "9MR",
+          "url": "https://open.spotify.com/artist/1hBmokyEMieW8SaOVyxp8l"
+        },
+        {
+          "name": "Big Hitz",
+          "url": "https://open.spotify.com/artist/0k70OJzzwD4pPqMf0jptlG"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153571,
+      "name": "Exhale",
+      "url": "https://open.spotify.com/track/7jBFwgg6VuouRO3O6aO3lS"
+    },
+    {
+      "album": {
         "name": "Expensive",
         "url": "https://open.spotify.com/album/0aqdTmcfIcrn3pEin6JvtR"
       },

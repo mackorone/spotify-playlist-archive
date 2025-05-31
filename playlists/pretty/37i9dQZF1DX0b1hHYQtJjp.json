@@ -1,13 +1,29 @@
 {
-  "description": "Recent hits and new songs from your fave artists. Cover: Joe Jonas",
-  "num_followers": 939893,
+  "description": "Recent hits and new songs from your fave artists. Cover: Damiano David",
+  "num_followers": 939951,
   "original_name": "Just Good Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aC/y6QAAAAAM0cvTXfzvb9VzjQEB6878",
+  "snapshot_id": "aDktZQAAAAB1ch1IuEj1jUbD58eIORNm",
   "tracks": [
+    {
+      "added_at": "2025-05-30 04:00:37",
+      "album": {
+        "name": "FUNNY little FEARS",
+        "url": "https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa"
+      },
+      "artists": [
+        {
+          "name": "Damiano David",
+          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
+        }
+      ],
+      "duration_ms": 218266,
+      "name": "The First Time",
+      "url": "https://open.spotify.com/track/7ETIZFr7163zFcz3RxKk5O"
+    },
     {
       "added_at": "2025-04-25 04:00:38",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 190754,
       "name": "Heart By Heart",
       "url": "https://open.spotify.com/track/6NUoW7RwcO1jcrSvJ2V6od"
+    },
+    {
+      "added_at": "2025-05-16 04:00:10",
+      "album": {
+        "name": "weren't for the wind",
+        "url": "https://open.spotify.com/album/2EaHnwT7NSSG207GN94pfN"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "duration_ms": 193666,
+      "name": "weren't for the wind",
+      "url": "https://open.spotify.com/track/4v9alNvEjLjvqo4LNWwswl"
     },
     {
       "added_at": "2025-05-23 04:00:41",
@@ -61,20 +93,52 @@
       "url": "https://open.spotify.com/track/0qmhTHMVxnXRmT5N92wTD9"
     },
     {
-      "added_at": "2025-05-16 04:00:10",
+      "added_at": "2025-05-30 04:00:37",
       "album": {
-        "name": "weren't for the wind",
-        "url": "https://open.spotify.com/album/2EaHnwT7NSSG207GN94pfN"
+        "name": "Nice To Each Other",
+        "url": "https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV"
       },
       "artists": [
         {
-          "name": "Ella Langley",
-          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
         }
       ],
-      "duration_ms": 193666,
-      "name": "weren't for the wind",
-      "url": "https://open.spotify.com/track/4v9alNvEjLjvqo4LNWwswl"
+      "duration_ms": 209000,
+      "name": "Nice To Each Other",
+      "url": "https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l"
+    },
+    {
+      "added_at": "2025-05-09 04:00:01",
+      "album": {
+        "name": "Dawn of a Misfit",
+        "url": "https://open.spotify.com/album/4yAcfYYfi03HIp0aG0MkSb"
+      },
+      "artists": [
+        {
+          "name": "Kevin Olusola",
+          "url": "https://open.spotify.com/artist/4RPUSziPHrjcBUEfIUcb2I"
+        }
+      ],
+      "duration_ms": 175240,
+      "name": "Hallelujah (I Don't Think About You)",
+      "url": "https://open.spotify.com/track/0vM4LQCV9TsBH8hvTWsow9"
+    },
+    {
+      "added_at": "2025-04-04 07:47:17",
+      "album": {
+        "name": "Gucci Mane",
+        "url": "https://open.spotify.com/album/6ixnfAvvM9Wdjb0hEPIUIW"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 166955,
+      "name": "Gucci Mane",
+      "url": "https://open.spotify.com/track/4uK4BCS6H19pOAknY1qj0K"
     },
     {
       "added_at": "2025-05-16 04:00:10",
@@ -115,6 +179,38 @@
     {
       "added_at": "2025-05-02 04:00:30",
       "album": {
+        "name": "Where Have You Been",
+        "url": "https://open.spotify.com/album/6Kpy8J83AQc61i8f1RHL3y"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 237906,
+      "name": "Where Have You Been",
+      "url": "https://open.spotify.com/track/4rvgToT6t8w9Vm9MbqjNHa"
+    },
+    {
+      "added_at": "2025-02-28 05:00:40",
+      "album": {
+        "name": "Ordinary",
+        "url": "https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 186964,
+      "name": "Ordinary",
+      "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
+    },
+    {
+      "added_at": "2025-05-02 04:00:30",
+      "album": {
         "name": "Show Me Love (with Tyla)",
         "url": "https://open.spotify.com/album/2JJn1NNlaGZ0iWtjVep9Ti"
       },
@@ -137,22 +233,6 @@
       "url": "https://open.spotify.com/track/22YkP95GjCfXkWKyU5k1zZ"
     },
     {
-      "added_at": "2025-04-04 07:47:17",
-      "album": {
-        "name": "Gucci Mane",
-        "url": "https://open.spotify.com/album/6ixnfAvvM9Wdjb0hEPIUIW"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        }
-      ],
-      "duration_ms": 166955,
-      "name": "Gucci Mane",
-      "url": "https://open.spotify.com/track/4uK4BCS6H19pOAknY1qj0K"
-    },
-    {
       "added_at": "2025-02-14 05:00:39",
       "album": {
         "name": "Nice To Meet You (feat. Lainey Wilson)",
@@ -173,6 +253,22 @@
       "url": "https://open.spotify.com/track/2tQSuufhS5XHz0E8EBi55M"
     },
     {
+      "added_at": "2025-05-30 04:00:37",
+      "album": {
+        "name": "I Can't",
+        "url": "https://open.spotify.com/album/5SKjyFXFWguGPtmHlD99gs"
+      },
+      "artists": [
+        {
+          "name": "Goldie Boutilier",
+          "url": "https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5"
+        }
+      ],
+      "duration_ms": 193028,
+      "name": "I Can't",
+      "url": "https://open.spotify.com/track/5oUnDltSLWS7fJHbg6w3Yk"
+    },
+    {
       "added_at": "2025-05-23 04:00:41",
       "album": {
         "name": "Who Knew Dancing Was A Sin",
@@ -187,22 +283,6 @@
       "duration_ms": 194920,
       "name": "Who Knew Dancing Was A Sin",
       "url": "https://open.spotify.com/track/09qCrdsapK16DbhzFBzvMA"
-    },
-    {
-      "added_at": "2025-05-02 04:00:30",
-      "album": {
-        "name": "Where Have You Been",
-        "url": "https://open.spotify.com/album/6Kpy8J83AQc61i8f1RHL3y"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 237906,
-      "name": "Where Have You Been",
-      "url": "https://open.spotify.com/track/4rvgToT6t8w9Vm9MbqjNHa"
     },
     {
       "added_at": "2025-05-23 04:00:41",
@@ -235,26 +315,6 @@
       "duration_ms": 165746,
       "name": "Mystical Magical",
       "url": "https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT"
-    },
-    {
-      "added_at": "2025-05-02 04:00:30",
-      "album": {
-        "name": "Priceless (feat. LISA)",
-        "url": "https://open.spotify.com/album/0JfWflwFS8yOSELbH7bDbQ"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        },
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        }
-      ],
-      "duration_ms": 163352,
-      "name": "Priceless (feat. LISA)",
-      "url": "https://open.spotify.com/track/5MI9rnOsAayuxi7pKVydNg"
     },
     {
       "added_at": "2025-05-16 04:00:10",
@@ -321,6 +381,22 @@
       "url": "https://open.spotify.com/track/79mpJRScxPAmlIXqGhb70I"
     },
     {
+      "added_at": "2025-05-30 04:00:37",
+      "album": {
+        "name": "Stained",
+        "url": "https://open.spotify.com/album/1egulPm1dhjjElWYJIhjuW"
+      },
+      "artists": [
+        {
+          "name": "Brittany Broski",
+          "url": "https://open.spotify.com/artist/4bvnxCtWPHufMtiQQuT8nW"
+        }
+      ],
+      "duration_ms": 171561,
+      "name": "Stained",
+      "url": "https://open.spotify.com/track/0lLvGzQhd7hADAeC2hUHB0"
+    },
+    {
       "added_at": "2025-04-04 07:47:17",
       "album": {
         "name": "back to friends",
@@ -337,6 +413,38 @@
       "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
     },
     {
+      "added_at": "2025-04-04 07:47:17",
+      "album": {
+        "name": "Azizam",
+        "url": "https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 162029,
+      "name": "Azizam",
+      "url": "https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc"
+    },
+    {
+      "added_at": "2025-05-16 04:00:10",
+      "album": {
+        "name": "Me & You",
+        "url": "https://open.spotify.com/album/4wTcGH918lQogI7Tyz7hEx"
+      },
+      "artists": [
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        }
+      ],
+      "duration_ms": 167508,
+      "name": "Me & You",
+      "url": "https://open.spotify.com/track/4mSfyqUcjl0Zwb2YWYohyO"
+    },
+    {
       "added_at": "2025-05-23 04:00:41",
       "album": {
         "name": "A Minute, A Moment...",
@@ -351,22 +459,6 @@
       "duration_ms": 164000,
       "name": "Gold",
       "url": "https://open.spotify.com/track/3hZo9UznjcWfJ9vkOho6Ea"
-    },
-    {
-      "added_at": "2025-02-28 05:00:40",
-      "album": {
-        "name": "Ordinary",
-        "url": "https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 186964,
-      "name": "Ordinary",
-      "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
     },
     {
       "added_at": "2025-05-16 04:00:10",
@@ -489,22 +581,6 @@
       "url": "https://open.spotify.com/track/4A2jbfMjTwAbqf5rJ0BTLh"
     },
     {
-      "added_at": "2025-04-04 07:47:17",
-      "album": {
-        "name": "Azizam",
-        "url": "https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 162029,
-      "name": "Azizam",
-      "url": "https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc"
-    },
-    {
       "added_at": "2025-05-16 04:00:10",
       "album": {
         "name": "Chemical Reaction",
@@ -519,22 +595,6 @@
       "duration_ms": 198778,
       "name": "Chemical Reaction",
       "url": "https://open.spotify.com/track/7AAcT7MunkAjHyk9Abg774"
-    },
-    {
-      "added_at": "2025-05-16 04:00:10",
-      "album": {
-        "name": "Me & You",
-        "url": "https://open.spotify.com/album/4wTcGH918lQogI7Tyz7hEx"
-      },
-      "artists": [
-        {
-          "name": "Ella Henderson",
-          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
-        }
-      ],
-      "duration_ms": 167508,
-      "name": "Me & You",
-      "url": "https://open.spotify.com/track/4mSfyqUcjl0Zwb2YWYohyO"
     },
     {
       "added_at": "2025-04-25 04:00:38",
@@ -677,22 +737,6 @@
       "url": "https://open.spotify.com/track/7oN7VcpfjpSyuzScL3930l"
     },
     {
-      "added_at": "2025-05-02 04:00:30",
-      "album": {
-        "name": "Voices",
-        "url": "https://open.spotify.com/album/52Dzsy8FeJLPEsT3lqPZ2r"
-      },
-      "artists": [
-        {
-          "name": "Damiano David",
-          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
-        }
-      ],
-      "duration_ms": 212487,
-      "name": "Voices",
-      "url": "https://open.spotify.com/track/2qMDLvoWC6qZMjNhGc9V8j"
-    },
-    {
       "added_at": "2025-05-09 04:00:01",
       "album": {
         "name": "Bliss",
@@ -741,22 +785,6 @@
       "url": "https://open.spotify.com/track/54TGWoEvjukuZSE2CyRssB"
     },
     {
-      "added_at": "2025-05-09 04:00:01",
-      "album": {
-        "name": "Milagros",
-        "url": "https://open.spotify.com/album/3k0FgbH2hF3R59J1Fwzd66"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 235026,
-      "name": "Milagros",
-      "url": "https://open.spotify.com/track/1B1maIpcMpPDZ8GT0WHT0V"
-    },
-    {
       "added_at": "2025-04-11 04:00:27",
       "album": {
         "name": "Gloria",
@@ -791,38 +819,6 @@
       "duration_ms": 181518,
       "name": "Backup Plan (feat. Luke Combs)",
       "url": "https://open.spotify.com/track/58is1MxJ0mafkdwalyYanU"
-    },
-    {
-      "added_at": "2025-05-23 04:00:41",
-      "album": {
-        "name": "Take Back Goodbye / Can't Be Alone Tonight",
-        "url": "https://open.spotify.com/album/60TeXojlfTM83z0pNunvTQ"
-      },
-      "artists": [
-        {
-          "name": "Charles Kelley",
-          "url": "https://open.spotify.com/artist/2Hbxyk7qJ22i8wFEqgM3vC"
-        }
-      ],
-      "duration_ms": 198136,
-      "name": "Take Back Goodbye",
-      "url": "https://open.spotify.com/track/3vxmsAct5YAGQz4PCZR2rs"
-    },
-    {
-      "added_at": "2025-05-09 04:00:01",
-      "album": {
-        "name": "Dawn of a Misfit",
-        "url": "https://open.spotify.com/album/4yAcfYYfi03HIp0aG0MkSb"
-      },
-      "artists": [
-        {
-          "name": "Kevin Olusola",
-          "url": "https://open.spotify.com/artist/4RPUSziPHrjcBUEfIUcb2I"
-        }
-      ],
-      "duration_ms": 175240,
-      "name": "Hallelujah (I Don't Think About You)",
-      "url": "https://open.spotify.com/track/0vM4LQCV9TsBH8hvTWsow9"
     },
     {
       "added_at": "2025-03-21 04:01:01",

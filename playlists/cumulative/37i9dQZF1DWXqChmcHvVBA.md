@@ -2,9 +2,9 @@
 
 ### [RKT  & Turreo](https://open.spotify.com/playlist/37i9dQZF1DWXqChmcHvVBA)
 
-> 📸 Teo LB & L\-Gante.
+> 📸 Alejo Isaak & El Turko.
 
-263 songs - 12 hr 7 min
+266 songs - 12 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,8 @@
 | [BM \| Mission 18](https://open.spotify.com/track/2UIiJWTPP2BLPZKHbe4nhP) | [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [BM \| Mission 18](https://open.spotify.com/album/16jEh2XoL253AFYGCjzN16) | 2:57 | 2023-12-15 | 2024-05-11 |
 | [Bombona](https://open.spotify.com/track/6vqO2NWRSUBEFMXDeUoztc) | [Ponte Perro](https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5), [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L) | [Bombona](https://open.spotify.com/album/0UYtU4ZOz3i5CywsZDcZwB) | 2:26 | 2024-11-01 | 2024-12-21 |
 | [BOXI TURRITO \- DJ ALEX, EZEQUIEL MATTHYSSE \| E19](https://open.spotify.com/track/3PImFIyzSVtBaD8oZzE4va) | [DJ Alex](https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI), [Ezequiel Matthysse](https://open.spotify.com/artist/4VnyKPWMg841xC0ekoYDmk) | [BOXI TURRITO \- DJ ALEX, EZEQUIEL MATTHYSSE \| E19](https://open.spotify.com/album/48AUHPHQomebe5Is6SLMlZ) | 2:40 | 2025-04-25 |  |
+| [Boxindanga](https://open.spotify.com/track/5XqQ0bBcWXSk2LhJArzrFh) | [El Jarra](https://open.spotify.com/artist/3o42Mj5a6vwbelxOjuWq9e) | [Boxindanga](https://open.spotify.com/album/6XvtSo2YPPTmFzy26X5HFO) | 2:32 | 2025-05-30 |  |
+| [Brinca](https://open.spotify.com/track/5dzilCH9qjO2HkhDimO41O) | [Alejo Isakk](https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ), [El Turko](https://open.spotify.com/artist/7aqaIr9F3tHP7BMsmfAL8Z), [Mandale Flow](https://open.spotify.com/artist/2mrlK4Ow9Fb9U50qbkRMZd) | [Brinca](https://open.spotify.com/album/5o1BOVmM0mmIpsuDvnwlnl) | 2:26 | 2025-05-30 |  |
 | [Butakera](https://open.spotify.com/track/60DHrnRAhNJMy4WeEf23NH) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [EL NOBA](https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav) | [Butakera](https://open.spotify.com/album/0LmZsaUKBzNRmVt9vC4Rv3) | 2:23 | 2023-12-15 | 2024-02-17 |
 | [C PEGÓ](https://open.spotify.com/track/2byHacxKl365e5VfwTVUr0) | [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG), [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036), [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L) | [C PEGÓ](https://open.spotify.com/album/43Y21ZkWMQo93MSFIZXBsz) | 2:19 | 2024-11-22 |  |
 | [CALLEJERO FINO \| DJ TAO Turreo Sessions \#723](https://open.spotify.com/track/3fUZbg31mIJKIxuv8nUcGg) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr) | [CALLEJERO FINO \| DJ TAO Turreo Sessions \#723](https://open.spotify.com/album/3QH6xfxFEoQNVUdtlyHpup) | 2:43 | 2023-12-15 |  |
@@ -131,6 +133,7 @@
 | [MESITA \| Mission 05](https://open.spotify.com/track/4WaopyDgvKQP6T852K9boe) | [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6) | [MESITA \| Mission 05](https://open.spotify.com/album/4qEsa8G94vXAr6IFwgPkk8) | 2:16 | 2024-04-19 |  |
 | [Mi Nena Facebook \- Remix](https://open.spotify.com/track/1SoKoPOWHJDUn8uw2AdKzL) | [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4), [Luam](https://open.spotify.com/artist/0p5lNivYQ06xMqR6wN4GI3) | [Mi Nena Facebook \(Remix\)](https://open.spotify.com/album/1PUqSLjwp0KQsI4e9QtSKS) | 2:46 | 2024-08-02 |  |
 | [Mi santo \- A COLORS SHOW](https://open.spotify.com/track/6rKOEyg05nKSRRErDmBWjy) | [Ponte Perro](https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Mi santo \- A COLORS SHOW](https://open.spotify.com/album/4HAviQUTdLO4jUFXmYgegX) | 2:13 | 2024-08-30 |  |
+| [Momento Justo](https://open.spotify.com/track/13M9BE3mO75dJ7qo18e2oP) | [Luz Eluney](https://open.spotify.com/artist/4BnDpIPclX4yzei6j1C1Dr) | [Momento Justo](https://open.spotify.com/album/7EnBZu1YNoHOz4bOA8I0M7) | 2:02 | 2025-05-30 |  |
 | [Mueve los Cachetes](https://open.spotify.com/track/4up6VDTUFiHNkwYC7MLVj3) | [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [Mueve los Cachetes](https://open.spotify.com/album/0nvSc0w1MQtzvfoTOApU9M) | 3:23 | 2024-04-19 | 2024-07-27 |
 | [Muevelo Mami \- Remix](https://open.spotify.com/track/73itkW7DQhxIvUTYzddQPY) | [Iacho](https://open.spotify.com/artist/6ybOB74nYTUpM6VGiP1egr), [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r), [Lolo OG](https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU), [QuixSmell](https://open.spotify.com/artist/0MrBxgZbiw0uUO3NUqWFKp) | [Muevelo Mami \(Remix\)](https://open.spotify.com/album/6hmkDW3u5cUYmZWlGY5K9a) | 3:43 | 2024-01-19 | 2024-05-03 |
 | [Mujeres Solteras](https://open.spotify.com/track/4cBH6zRhKisaqlnGQKs8aD) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Mujeres Solteras](https://open.spotify.com/album/2PYydyybGTqdno9Mk1apmS) | 1:35 | 2024-07-12 | 2024-10-26 |

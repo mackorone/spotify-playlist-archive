@@ -4,7 +4,7 @@
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Calema, Dilsinho
 
-517 songs - 1 day 6 hr 6 min
+518 songs - 1 day 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Como Antes](https://open.spotify.com/track/0dAZ5dCofHy6rquqU6YG29) | [Matias Damásio](https://open.spotify.com/artist/0E0XPqa6BzxSkhmhvzA3k2) | [Como Antes](https://open.spotify.com/album/5Ja0yJ2hIVxWq5lOtGQ6Ih) | 3:44 | 2022-03-25 |  |
 | [Como Eu Demorei](https://open.spotify.com/track/7ivYLq5fAATS4rEqsAl3Xu) | [Tamyris Moiane](https://open.spotify.com/artist/0DcdMBubONMXpTlmcWui2g), [Button Rose](https://open.spotify.com/artist/6K2uG6jS3G38wI9ue1ifiD) | [Como Eu Demorei](https://open.spotify.com/album/6m4MPS4u7nJIqNfo7SbX26) | 3:45 | 2025-02-21 |  |
 | [Companhia](https://open.spotify.com/track/7AD5BM9mGIlaZq6yO6QDMy) | [Labo Music](https://open.spotify.com/artist/4lpDn6K0BLYyCJExpa9diL), [J Levy](https://open.spotify.com/artist/4dqiY8fEeGgJQmypUXYTcZ) | [Lobo da Labo](https://open.spotify.com/album/2ZFqRM7JIZZWT1awS0NQZ9) | 3:24 | 2024-10-24 |  |
+| [Conheci o Amor](https://open.spotify.com/track/33My8GyioKzo0iy4ozDUN5) | [Mylson](https://open.spotify.com/artist/6aJR2QPqDVcIcBtVSFIb9Y) | [Conheci o Amor](https://open.spotify.com/album/3b7FhBYepOsYUtwo2CHOQc) | 3:16 | 2025-05-29 |  |
 | [Contigo](https://open.spotify.com/track/2OTVKuQcr2PnW2O1b99WJL) | [Badoxa](https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW), [Noninho Navarro](https://open.spotify.com/artist/4Upsc5DYZ209aRDVIAgbrm) | [Contigo](https://open.spotify.com/album/2Y3M8GGPlGUR6zT0Rm8Fkr) | 3:19 | 2025-05-22 |  |
 | [Contra Probabilidades](https://open.spotify.com/track/5nYYQ85x9DwEiEpETQNlNC) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Contra Probabilidades](https://open.spotify.com/album/2w1V6Gjc1HVZ6TGYMlzqT8) | 3:23 | 2024-06-20 | 2024-07-02 |
 | [Control](https://open.spotify.com/track/3WQxc2F2C57eqs57YJgEcZ) | [Black Spygo](https://open.spotify.com/artist/2A0VfJYVYzMd2EzexuHvjY), [Chelsea Dinorath](https://open.spotify.com/artist/0iFUMxC62joHJMxZwMZvzp), [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo), [Black Vision](https://open.spotify.com/artist/3nFAsihkHwUHm2fckVtTjJ) | [Control](https://open.spotify.com/album/6xxYj7XEsGGquc3DSbUf7L) | 3:27 | 2023-09-21 |  |
@@ -513,7 +514,7 @@
 | [Vou Ter Saudades](https://open.spotify.com/track/3LV7JsBzte182GK1p6wOUX) | [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao) | [Vou Ter Saudades](https://open.spotify.com/album/66lpG91jKZ7VUHNQRqD9Ks) | 3:11 | 2022-03-25 | 2022-04-21 |
 | [Vão Agir](https://open.spotify.com/track/6Kem1bDJlVER1Y3O9GWR6N) | [Messias Maricoa](https://open.spotify.com/artist/2nGm3BYzGAxkIuptvhRD99) | [Vão Agir](https://open.spotify.com/album/6czFg9ZX5yp0FvJwMv08xb) | 3:56 | 2025-02-07 | 2025-02-21 |
 | [Waridu \- LBEATZ Sessions \#1](https://open.spotify.com/track/6D1rnxTxNfHCtD3KlXcy4m) | [LBEATZ](https://open.spotify.com/artist/5KxNau7gSEhC7NhCNLjJBi), [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Waridu \(LBEATZ Sessions \#1\)](https://open.spotify.com/album/2QBRALabDdpMzrE0Jd7gRT) | 3:10 | 2023-07-13 | 2023-08-04 |
-| [Wassup](https://open.spotify.com/track/7F5hgqfJH0P6ZcoYHqFmzE) | [Felishia](https://open.spotify.com/artist/2VQJ9qBV0mzZAVkDYt1gCm) | [Wassup](https://open.spotify.com/album/0IoANTDvb73CEoXOuWOaW5) | 3:17 | 2024-08-01 |  |
+| [Wassup](https://open.spotify.com/track/7F5hgqfJH0P6ZcoYHqFmzE) | [Felishia](https://open.spotify.com/artist/2VQJ9qBV0mzZAVkDYt1gCm) | [Wassup](https://open.spotify.com/album/0IoANTDvb73CEoXOuWOaW5) | 3:17 | 2024-08-01 | 2025-05-31 |
 | [Water](https://open.spotify.com/track/2YGCbj4HPFKc40ow5Ica9X) | [Derick Banks](https://open.spotify.com/artist/6i82JFbfMvOi01V8M937aK), [P\. Lowe](https://open.spotify.com/artist/5iwOutOAetaUm6Yg14BRTu), [Archie & Sizzle](https://open.spotify.com/artist/6GYBds9JOCUmcooVni808I) | [Water](https://open.spotify.com/album/0iP0x5PfiePxWk18TMjoGf) | 4:21 | 2021-12-10 | 2022-12-17 |
 | [We Good](https://open.spotify.com/track/6io1fSL5CzJzMJl0yGuZ6q) | [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr), [Monsta](https://open.spotify.com/artist/1UYLvmudFl1ERXDnAPj5WS) | [We Good](https://open.spotify.com/album/6aWHLkqbbcJu3qEbrYiZr8) | 2:49 | 2024-07-25 |  |
 | [Welele](https://open.spotify.com/track/3rtNpMHpCLjiq4ig8pk2vB) | [Bal00n Beats](https://open.spotify.com/artist/3leYW5KDg6Pelw1yNUqVUN), [The Nitrox](https://open.spotify.com/artist/1QHmQj5zO28KW6Af9MQ8xj) | [Welele](https://open.spotify.com/album/6O39ZqVfMt0GC2JILSc5U8) | 3:19 | 2024-11-29 | 2025-01-30 |

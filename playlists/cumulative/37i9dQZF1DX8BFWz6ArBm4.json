@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "7 Lepta",
+        "url": "https://open.spotify.com/album/5f2TOHCBTX9vLp7R4eXuhL"
+      },
+      "artists": [
+        {
+          "name": "Paola",
+          "url": "https://open.spotify.com/artist/7m0YMvg7P6lnhSa2Ttu5TF"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171666,
+      "name": "7 Lepta",
+      "url": "https://open.spotify.com/track/5Y94M6vQo2d3aUyYZREddU"
+    },
+    {
+      "album": {
         "name": "7/7",
         "url": "https://open.spotify.com/album/12VCx1n6ZMk1vl2ONqzhuv"
       },
@@ -238,7 +256,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 283520,
       "name": "Anasa",
       "url": "https://open.spotify.com/track/6QraIKM78nFy6sVIedXVOs"

@@ -559,6 +559,24 @@
     },
     {
       "album": {
+        "name": "Boom EP",
+        "url": "https://open.spotify.com/album/71VKHr0GKzUueluzBMVqwX"
+      },
+      "artists": [
+        {
+          "name": "Baltra",
+          "url": "https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180983,
+      "name": "Boom",
+      "url": "https://open.spotify.com/track/28OL1J1hQcsSk6vNGZGIuo"
+    },
+    {
+      "album": {
         "name": "The Moth and the Dove (Remixes)",
         "url": "https://open.spotify.com/album/6X7irKtFH1RRD8xOuhzESd"
       },
@@ -802,6 +820,44 @@
       "duration_ms": 275409,
       "name": "Corpo e Can\u00e7\u00e3o - Club Mix",
       "url": "https://open.spotify.com/track/0fdnuaaMLkAJb3czxnwKxh"
+    },
+    {
+      "album": {
+        "name": "Crazy For It",
+        "url": "https://open.spotify.com/album/6tJOG1udVUwqseZoo2dXut"
+      },
+      "artists": [
+        {
+          "name": "Rampa",
+          "url": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
+        },
+        {
+          "name": "Adam Port",
+          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
+        },
+        {
+          "name": "&ME",
+          "url": "https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z"
+        },
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        },
+        {
+          "name": "Vinson",
+          "url": "https://open.spotify.com/artist/1ER9vmM8lqAB19a30WwA0b"
+        },
+        {
+          "name": "Keinemusik",
+          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250578,
+      "name": "Crazy For It",
+      "url": "https://open.spotify.com/track/7cPPX2zkjtYWEhKxcwhr4v"
     },
     {
       "album": {
@@ -1202,7 +1258,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 241780,
       "name": "Fade Into Black (Acoustic Version)",
       "url": "https://open.spotify.com/track/6Dfl3X4P0HqpLauVPNnaq1"
@@ -1256,7 +1312,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 389186,
       "name": "Faith in Strangers",
       "url": "https://open.spotify.com/track/4wSMi5urWxpBPbnWqfI1Ht"
@@ -1402,7 +1458,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 188117,
       "name": "Get Goofy",
       "url": "https://open.spotify.com/track/4cjxlrzzn8hSMEfRzJypFg"
@@ -2586,6 +2642,28 @@
       "duration_ms": 240508,
       "name": "My Tribe",
       "url": "https://open.spotify.com/track/1WcMDn7EQwsLS0xBOmh7OB"
+    },
+    {
+      "album": {
+        "name": "MZ (Mano Le Tough Remix)",
+        "url": "https://open.spotify.com/album/5yx0Vp9iWOHKwIemulaJnc"
+      },
+      "artists": [
+        {
+          "name": "Sascha Funke",
+          "url": "https://open.spotify.com/artist/1dDTkRz9WVOQr63enjJ1Yd"
+        },
+        {
+          "name": "Mano Le Tough",
+          "url": "https://open.spotify.com/artist/04KmByEP6icXVY0PvJaMMp"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295668,
+      "name": "MZ - Mano Le Tough Remix",
+      "url": "https://open.spotify.com/track/5SGrfIAGnRnQSkw0hjTyox"
     },
     {
       "album": {
@@ -4340,7 +4418,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 535694,
       "name": "Y Dah",
       "url": "https://open.spotify.com/track/5MKYwFNGNHrMwboLSvl6lO"

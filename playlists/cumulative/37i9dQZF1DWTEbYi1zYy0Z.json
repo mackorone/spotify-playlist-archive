@@ -2057,6 +2057,24 @@
     },
     {
       "album": {
+        "name": "De Nada",
+        "url": "https://open.spotify.com/album/68cTBOeTm9HU9JPz1pVwid"
+      },
+      "artists": [
+        {
+          "name": "Roberto Restuccia",
+          "url": "https://open.spotify.com/artist/1XoDy200dmpFG0iG3tU3a6"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247693,
+      "name": "De Nada",
+      "url": "https://open.spotify.com/track/6RUMVhyaDTPf2SdiUIu4r1"
+    },
+    {
+      "album": {
         "name": "Deep Dive",
         "url": "https://open.spotify.com/album/3afqxp4kQVjyBkS05sCKf2"
       },
@@ -9446,7 +9464,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 304039,
       "name": "Ubuntu",
       "url": "https://open.spotify.com/track/2zUN9GrY3kNkt1WNk0wtPZ"

@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Yuki Chiba\)
 
-2,824 songs - 5 day 22 hr 43 min
+2,825 songs - 5 day 22 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2695,6 +2695,7 @@
 | [Where's Dexter](https://open.spotify.com/track/0w3eAG8vNPSulwDOR1Th9F) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Famous Dex](https://open.spotify.com/artist/0WOxhx4hikIsyF3CRPLC8W), [Jay Critch](https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4) | [Where's Dexter](https://open.spotify.com/album/2huut23qggNR8NlsTpmn5q) | 2:19 | 2023-01-19 | 2023-03-18 |
 | [Where's The Daddy?](https://open.spotify.com/track/6qhCrOuJSKn2yqXuRyPIPL) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Where's The Daddy?](https://open.spotify.com/album/2m4Dup07tsQ28K3qWylAw0) | 2:52 | 2024-11-07 | 2025-01-10 |
 | [Wherever You Are \(with Tory Lanez\)](https://open.spotify.com/track/4LXJV0RmbhV7yZ1zwmeoxv) | [Rarri](https://open.spotify.com/artist/4P2n49979tST2XdOxYcM6h), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Wherever You Are \(with Tory Lanez\)](https://open.spotify.com/album/0Wu5eTN14KgYAT0KxgIeQN) | 3:21 | 2022-07-14 | 2022-08-05 |
+| [WHIM WHAMIEE \(feat\. Sexyy Red\) \[Remix\]](https://open.spotify.com/track/7pvrkNvlIQMY0hfGcdCr5m) | [PLUTO](https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [WHIM WHAMIEE \(feat\. Sexyy Red\) \[Remix\]](https://open.spotify.com/album/1Du7xMoICzbJV9qYy1EUWB) | 2:27 | 2025-05-29 |  |
 | [WHIP! \- Spotify Singles](https://open.spotify.com/track/0tW9Scup0VRKGlwD3Qvn4r) | [sokodomo](https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ), [Don Mills](https://open.spotify.com/artist/6bIsFWNkjQvSm5P4rqlxKn), [viceversa](https://open.spotify.com/artist/5M6uaTVVZuyAkdr60oWKrJ), [SMUGGLERS](https://open.spotify.com/artist/0brXIqiS2RuhcFnwLqMx9p) | [Spotify Singles](https://open.spotify.com/album/2UF4tunNCYC2VYyjkAk8ex) | 2:32 | 2023-03-12 | 2023-04-28 |
 | [WHISKEY WHISKEY \(feat\. Morgan Wallen\)](https://open.spotify.com/track/7hRLuo4QnzCsjICXUOhTE6) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [SPEAK NOW](https://open.spotify.com/album/55Rk02ZSULPUfrW41zjWx9) | 2:41 | 2024-06-20 | 2024-08-02 |
 | [White Night \(Feat\. Loco\)](https://open.spotify.com/track/6Z3YqTeAPKrptw70GpHJiO) | [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [White Night](https://open.spotify.com/album/3ShhhBVOyC5AZ54NJdijYq) | 3:51 | 2022-01-20 | 2022-02-04 |

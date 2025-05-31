@@ -1103,6 +1103,32 @@
     },
     {
       "album": {
+        "name": "Yours Truly",
+        "url": "https://open.spotify.com/album/5U4ZWKgrnmAdWNyLBG7DAU"
+      },
+      "artists": [
+        {
+          "name": "KR$NA",
+          "url": "https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t"
+        },
+        {
+          "name": "Raftaar",
+          "url": "https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36"
+        },
+        {
+          "name": "Phenom",
+          "url": "https://open.spotify.com/artist/03hG7s3MUquIZwa4OvtLD7"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184800,
+      "name": "Buss Down",
+      "url": "https://open.spotify.com/track/6iimPfgGSNCtpSs0oALaX5"
+    },
+    {
+      "album": {
         "name": "SIDEWALK 2 STARDOM",
         "url": "https://open.spotify.com/album/0620zH84qFZSX8moLhPCuo"
       },
@@ -1152,7 +1178,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 237134,
       "name": "Capital Rap",
       "url": "https://open.spotify.com/track/3HlnDsfP4g2pRpzZrueI4F"
@@ -2491,6 +2517,28 @@
     },
     {
       "album": {
+        "name": "Holiday - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/1dZMt7jaoSorJUUyFejkGR"
+      },
+      "artists": [
+        {
+          "name": "Hanumankind",
+          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178956,
+      "name": "Holiday - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/2tAiZZyBxokqPnzpT21KW8"
+    },
+    {
+      "album": {
         "name": "Hood Life",
         "url": "https://open.spotify.com/album/0dccjW1yvarOZfmhiI91XU"
       },
@@ -3082,7 +3130,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 182867,
       "name": "Killer On The Loose - From \"Rifle Club\"",
       "url": "https://open.spotify.com/track/1zENh0Y83ZWiXXsKIFCvky"
@@ -3122,6 +3170,24 @@
       "duration_ms": 226933,
       "name": "King Shit",
       "url": "https://open.spotify.com/track/1BpvuKIG7jK5EiTp2tv5z8"
+    },
+    {
+      "album": {
+        "name": "KL42",
+        "url": "https://open.spotify.com/album/7jp8mlpnbba5T3Mjj0A49w"
+      },
+      "artists": [
+        {
+          "name": "GABRI",
+          "url": "https://open.spotify.com/artist/4NPVKDDjJUl4qJX0soxyng"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159118,
+      "name": "KL42",
+      "url": "https://open.spotify.com/track/2akQaKSgo8XjKj5eqccOV4"
     },
     {
       "album": {
@@ -3470,6 +3536,28 @@
       "duration_ms": 170625,
       "name": "Legends (B Side)",
       "url": "https://open.spotify.com/track/6aj5MGcyqkkz1hopeKxrMR"
+    },
+    {
+      "album": {
+        "name": "Thug Life (Tamil)",
+        "url": "https://open.spotify.com/album/31TRIxu0k1xA4rn4JCwlMb"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Thoughtsfornow",
+          "url": "https://open.spotify.com/artist/6UZh26X3rn1LVK5lLn4FoG"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159212,
+      "name": "Let's Play",
+      "url": "https://open.spotify.com/track/329hLnLm3VVSPr0kNCsjLn"
     },
     {
       "album": {
@@ -4086,7 +4174,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 234428,
       "name": "Munthirichar",
       "url": "https://open.spotify.com/track/0133cEuPQ9SQcqHqjgFtbS"
@@ -4252,7 +4340,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 200470,
       "name": "Nothing to Prove",
       "url": "https://open.spotify.com/track/1YCQAPP5mmtZWEiL6Wxbjv"
@@ -4274,6 +4362,28 @@
       "duration_ms": 220000,
       "name": "Nusta Paisa",
       "url": "https://open.spotify.com/track/4PzwnV2M9498W9sqH7qin3"
+    },
+    {
+      "album": {
+        "name": "Thug Life (Original Motion Picture Soundtrack) (Tamil Version)",
+        "url": "https://open.spotify.com/album/4mtJ8fAvA3D9oNLkeOM4ST"
+      },
+      "artists": [
+        {
+          "name": "Paal Dabba",
+          "url": "https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx"
+        },
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180039,
+      "name": "O Maara",
+      "url": "https://open.spotify.com/track/1ITjI93dSk97kr6kx4qCU7"
     },
     {
       "album": {
@@ -4390,7 +4500,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 155400,
       "name": "Paiya Dei - From \"Think Indie\"",
       "url": "https://open.spotify.com/track/5zgalMo7LWrUPbnv9tgupN"
@@ -4416,7 +4526,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 162461,
       "name": "Pancake",
       "url": "https://open.spotify.com/track/2r9O7yHHhqC18UTu6dYjr1"
@@ -4886,7 +4996,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-26",
+      "date_removed": null,
       "duration_ms": 166666,
       "name": "Regions",
       "url": "https://open.spotify.com/track/41rBgLENFkfdMRT7ZyZKQC"

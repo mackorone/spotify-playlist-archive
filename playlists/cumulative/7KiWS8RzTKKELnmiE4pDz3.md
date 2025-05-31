@@ -4,7 +4,7 @@
 
 > 
 
-1,010 songs - 2 day 2 hr 12 min
+1,012 songs - 2 day 2 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -349,6 +349,7 @@
 | [Goyard](https://open.spotify.com/track/5nBBdfEP8RYglPxTClmvW7) | [Baby Smoove](https://open.spotify.com/artist/15oLsNy8mZYaIukh4eDhXy) | [Im Still Serious](https://open.spotify.com/album/6vAdaRFZy95JxZqmt9q0wk) | 2:18 | 2022-12-25 | 2023-12-14 |
 | [Grab Da Door!](https://open.spotify.com/track/3CVy14A3kKJpS0VnrygIQr) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [Snotty World \(Deluxe\)](https://open.spotify.com/album/5Fy36L5DnmGWWmAQsq4Ido) | 1:29 | 2023-12-27 | 2024-03-05 |
 | [Great](https://open.spotify.com/track/1LPiF0OU0DcQpkXmFgrfG5) | [Jerm](https://open.spotify.com/artist/5JSpdSi1RHQ3KgNovJBJhF), [D Savage 3900](https://open.spotify.com/artist/3oGynnWhEGK08xqXbhyYmZ) | [Ultraviolet.](https://open.spotify.com/album/2BTEr1ARUMwQG4Bdu6wmW2) | 1:31 | 2022-07-22 | 2023-04-12 |
+| [Green Earrings](https://open.spotify.com/track/34C3UVHdq8Uay5EzUHvJqH) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [The Royal Scam](https://open.spotify.com/album/1Sur33x6g7tvdd9GQnHhhu) | 4:05 | 2025-05-31 |  |
 | [Groovy](https://open.spotify.com/track/5hfWeNk22cqpcwXMUnrlgz) | [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [City On My Back](https://open.spotify.com/album/4dmycXSxh1F9LGAVgB1plB) | 2:21 | 2025-05-14 |  |
 | [Groovy](https://open.spotify.com/track/6lO1vt2ipUxh1bmxK8cR2s) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Groovy](https://open.spotify.com/album/2OeKQdJREBGjuX94QL0MfY) | 3:10 | 2023-01-05 | 2023-05-09 |
 | [Guillotine](https://open.spotify.com/track/7491l7CnemDkYH0jsoLvYr) | [Pi’erre Bourne](https://open.spotify.com/artist/3x3jSlhyv5CiCZDZlaTq0M) | [The Life Of Pi'erre 4](https://open.spotify.com/album/0agALBMd2a8cnpbpukTg03) | 2:59 | 2023-03-06 | 2023-05-09 |
@@ -591,6 +592,7 @@
 | [NEVEREVER](https://open.spotify.com/track/610gzNqwaSz89u6YIpDlyZ) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [NS+ \(ULTRA\)](https://open.spotify.com/album/20NEJgF7RPooqJ1dW0JZM1) | 2:24 | 2022-11-18 | 2023-05-09 |
 | [New Drank](https://open.spotify.com/track/3icILkEkTKNPaPQ5usTbsw) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [New Drank](https://open.spotify.com/album/0tQDck9jmRmZNuXh1j3wJI) | 1:28 | 2022-09-01 | 2023-05-09 |
 | [New Friends \(feat\. Eem Triplin\)](https://open.spotify.com/track/0shO1fRNWJusvfEId0OfsR) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz), [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [New Friends \(feat\. Eem Triplin\)](https://open.spotify.com/album/2A4pe5mwhAjBx2gas0HsWM) | 2:10 | 2024-02-26 | 2024-11-06 |
+| [New Seal](https://open.spotify.com/track/5w5EkYQ3pxcFiQPw3SGdDl) | [Kankan](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [WAY2GEEKED](https://open.spotify.com/album/0NVK13Q93Egu6zMj858l8W) | 2:33 | 2025-05-30 |  |
 | [New Semi](https://open.spotify.com/track/6ekOd6GLZJ3PZwyMmbZVGY) | [Slimesito](https://open.spotify.com/artist/1qIl64lvKUWBbNRuUOImVh) | [New Semi](https://open.spotify.com/album/3gEdxJx0fDwv40orvc784Y) | 2:19 | 2023-01-07 | 2023-05-09 |
 | [New X](https://open.spotify.com/track/0oQpl483Gv7eaHRGCrOpaD) | [dyingoutlay](https://open.spotify.com/artist/23iXJEufmtnarRpaAUL2pi) | [New X](https://open.spotify.com/album/4Uexof7Pt88YnxmXGibdi5) | 2:12 | 2025-05-16 |  |
 | [News or Something](https://open.spotify.com/track/3BzlZAqfnZDjv1F5CLlpHx) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Purple Reign](https://open.spotify.com/album/76G83osdQ4whezYjnYwwq2) | 3:33 | 2023-03-06 | 2023-12-14 |

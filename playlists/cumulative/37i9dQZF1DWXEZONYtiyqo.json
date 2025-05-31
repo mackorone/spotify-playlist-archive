@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: Andia",
+  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: Nicole Cherry",
   "name": "Hiturile de azi",
   "tracks": [
     {
@@ -653,6 +653,28 @@
     },
     {
       "album": {
+        "name": "Bun\u0103 diminea\u021ba",
+        "url": "https://open.spotify.com/album/4va8t9H1ZuCHavT7KnQR1C"
+      },
+      "artists": [
+        {
+          "name": "Liviu Teodorescu",
+          "url": "https://open.spotify.com/artist/7Ml36YHsejaW7jVjJAhW4a"
+        },
+        {
+          "name": "MIRA",
+          "url": "https://open.spotify.com/artist/2nMFC7hWK0haX8ilvRpb59"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153333,
+      "name": "Bun\u0103 diminea\u021ba",
+      "url": "https://open.spotify.com/track/3aNOsGWuGG6rE82xK0pjpe"
+    },
+    {
+      "album": {
         "name": "Burning Love (Roton 3.0 Sessions)",
         "url": "https://open.spotify.com/album/7ER3S7FN1mKpX3sLIHW8gv"
       },
@@ -1161,6 +1183,28 @@
     },
     {
       "album": {
+        "name": "De la cer la p\u0103m\u00e2nt",
+        "url": "https://open.spotify.com/album/6lwycmufhXCRznVmYSyTsK"
+      },
+      "artists": [
+        {
+          "name": "Andrei Banuta",
+          "url": "https://open.spotify.com/artist/7rtpTWA4CYQOAvg9GD2Xr2"
+        },
+        {
+          "name": "Gya",
+          "url": "https://open.spotify.com/artist/17JCMZusNXS0iOLaForWrm"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179520,
+      "name": "De la cer la p\u0103m\u00e2nt",
+      "url": "https://open.spotify.com/track/3H6Tg6xtH17pra1yLKTTAz"
+    },
+    {
+      "album": {
         "name": "De la dela",
         "url": "https://open.spotify.com/album/6pba5ksDHtVywuKyhlpzmy"
       },
@@ -1216,7 +1260,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 176949,
       "name": "De neuitat",
       "url": "https://open.spotify.com/track/72uTsW5DnOjxNI6hjKLwPv"
@@ -1808,7 +1852,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 138285,
       "name": "Fraiere",
       "url": "https://open.spotify.com/track/0te77uk0Eb44ZlSzAWJYcX"
@@ -2404,7 +2448,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 169846,
       "name": "Locul t\u0103u",
       "url": "https://open.spotify.com/track/1S0ueboEfjDivQFB1uPveo"
@@ -3146,6 +3190,24 @@
       "duration_ms": 182430,
       "name": "Nu \u0218tii",
       "url": "https://open.spotify.com/track/6pIzd6GX9dJtx73xeHcxPR"
+    },
+    {
+      "album": {
+        "name": "Numai una",
+        "url": "https://open.spotify.com/album/1rA1kXCUIW5DSQyrYSKv3b"
+      },
+      "artists": [
+        {
+          "name": "Nicole Cherry",
+          "url": "https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172653,
+      "name": "Numai una",
+      "url": "https://open.spotify.com/track/0OEKRaMZgxBfwdHZdFW8il"
     },
     {
       "album": {
@@ -3947,6 +4009,24 @@
     },
     {
       "album": {
+        "name": "Scris \u00een stele",
+        "url": "https://open.spotify.com/album/2pvWo09OCqmqySpWSwb4vG"
+      },
+      "artists": [
+        {
+          "name": "Delia",
+          "url": "https://open.spotify.com/artist/6YomcUxZXNftP5OyuHoVmB"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141600,
+      "name": "Scris \u00een stele",
+      "url": "https://open.spotify.com/track/56CKQUh86vfUceC4yiodIJ"
+    },
+    {
+      "album": {
         "name": "She Cries",
         "url": "https://open.spotify.com/album/10ElgZGmH6P9jbisDfoUaz"
       },
@@ -4198,7 +4278,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 160000,
       "name": "S\u0103 nu te mai aud",
       "url": "https://open.spotify.com/track/1R0yOSpeeD7lGj2nEuTJeC"

@@ -10959,6 +10959,24 @@
     },
     {
       "album": {
+        "name": "Look At Me",
+        "url": "https://open.spotify.com/album/0ThHEj3uBQKpzXXjxkNYJz"
+      },
+      "artists": [
+        {
+          "name": "Elliot",
+          "url": "https://open.spotify.com/artist/13HlSDWIZ8CBSq1ruAZxAe"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198386,
+      "name": "Look At Me",
+      "url": "https://open.spotify.com/track/5fCFcvq313ZNgHAqFZTN51"
+    },
+    {
+      "album": {
         "name": "Look For Love",
         "url": "https://open.spotify.com/album/23BcJBvnSbbpKXoF0de9Hi"
       },

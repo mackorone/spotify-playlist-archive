@@ -4,7 +4,7 @@
 
 > Vibraciones rastafari en español\. Foto: Pure Negga
 
-403 songs - 1 day 2 hr 26 min
+404 songs - 1 day 2 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [All Night Long \- \(Feat\. Winter\)](https://open.spotify.com/track/3SLNuRB8CPWqROnNSrMyIX) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l), [Winter](https://open.spotify.com/artist/1AvMKhiMKsVD8zLJ9kWBQg) | [All Night Long](https://open.spotify.com/album/1BRO6M2xb5cW63PfoIRbzS) | 4:20 | 2022-03-11 | 2022-04-29 |
 | [Alucinando](https://open.spotify.com/track/15Fm8P03dEoOvDnRaK10Bx) | [Surco Pando](https://open.spotify.com/artist/6QLmWuLP0FV8gMTpVDai9a) | [Alucinando](https://open.spotify.com/album/3Z21WX0UmirXTGlIeGFNec) | 4:03 | 2023-08-18 | 2023-09-09 |
 | [Amares](https://open.spotify.com/track/0hM3wjGKeVuc8p20YNyNWv) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Amares](https://open.spotify.com/album/6q5zjSBR2FNNJpD78AFMjJ) | 3:31 | 2023-09-22 | 2023-10-28 |
+| [Amores Sinceros](https://open.spotify.com/track/6pbpRmaYJGqo5H8UYEtOvQ) | [La Tribu Royale](https://open.spotify.com/artist/1bcfJhvSlyCZpBtsmXyNoV) | [Amores Sinceros](https://open.spotify.com/album/56hVh07qSD07uXyjuI3dEw) | 4:05 | 2025-05-29 |  |
 | [Andei Só](https://open.spotify.com/track/3SfD0MD4vj9vRRqxbmvhLI) | [Francisco, el Hombre](https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg), [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [Andei Só](https://open.spotify.com/album/6HJf6QbEk7IR6zpDRiHMMd) | 5:57 | 2024-01-26 | 2024-07-03 |
 | [Antonia](https://open.spotify.com/track/5EHhnNnk7amaXgx9OnG2v0) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Gondwana En Vivo En Buenos Aires](https://open.spotify.com/album/5gF3S3q98Noxe5ECtnUN9K) | 4:14 | 2021-12-10 |  |
 | [Apagar La Luz](https://open.spotify.com/track/3eR9XcBDfh0OptPk1FQkk6) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [JUAN PABLO VEGA](https://open.spotify.com/album/3EKzsn6lugXcs8C7qj7jpR) | 3:55 | 2021-12-10 | 2022-07-29 |
@@ -80,7 +81,7 @@
 | [Cocomango](https://open.spotify.com/track/1v1WSCFVUyCYQe0g9zdBlY) | [Sie7e](https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz), [The Islanauts](https://open.spotify.com/artist/3Fes3iYQgBEocYeRIFOwqx) | [Gaia](https://open.spotify.com/album/4PYQYYOE41VWrnr9OqqYYY) | 3:15 | 2021-12-10 | 2024-08-31 |
 | [Colores](https://open.spotify.com/track/1PFMEnmRjhPUF1LPBxz9WW) | [Rastrillos](https://open.spotify.com/artist/7oVQXVtyLC8b7pxGefZX50) | [Colores](https://open.spotify.com/album/3L5hveSQyFpRcSza9aCG5a) | 4:32 | 2023-01-20 | 2023-02-03 |
 | [Colores](https://open.spotify.com/track/4I8gb9fya6GgNCh5Bdm2pA) | [Rastrillos](https://open.spotify.com/artist/7oVQXVtyLC8b7pxGefZX50) | [Luces](https://open.spotify.com/album/6ly1Y9KawTXwqLzT93xMDG) | 4:40 | 2021-12-10 | 2022-07-28 |
-| [Como Un Volcán](https://open.spotify.com/track/7pN9P2xuvVS9l08w88Abhi) | [Iseo & Dodosound](https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc) | [Como Un Volcán](https://open.spotify.com/album/1ThXyFQMc4fIwGRMSCwOBL) | 3:47 | 2024-01-26 |  |
+| [Como Un Volcán](https://open.spotify.com/track/7pN9P2xuvVS9l08w88Abhi) | [Iseo & Dodosound](https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc) | [Como Un Volcán](https://open.spotify.com/album/1ThXyFQMc4fIwGRMSCwOBL) | 3:47 | 2024-01-26 | 2025-05-31 |
 | [Con el Sol de la Mañana](https://open.spotify.com/track/0X8FKQkmmxoZFwgUajjn0s) | [Son de Aquí](https://open.spotify.com/artist/1LY5S6drcTyXaGRQSuv3mJ) | [De Aquí Son](https://open.spotify.com/album/260g05EqAq0W9HZZTDDD3K) | 4:22 | 2021-12-10 | 2022-07-29 |
 | [Con Vos](https://open.spotify.com/track/5CzQMJyFotsCo0ZHZeSRCR) | [Kameleba](https://open.spotify.com/artist/2oSUm3Sv4yNsTLaYuROuST) | [Vibra Sound](https://open.spotify.com/album/7ddnRdS833NXAVvmi0ehKD) | 5:16 | 2021-12-10 | 2022-07-29 |
 | [Con Vos](https://open.spotify.com/track/0UYtcbHyTJYuWLTHBx9GGe) | [Kameleba](https://open.spotify.com/artist/2oSUm3Sv4yNsTLaYuROuST) | [Vibrasound](https://open.spotify.com/album/1x5SELdr0eqHfNDMsMJnv6) | 5:16 | 2022-07-08 | 2024-04-19 |

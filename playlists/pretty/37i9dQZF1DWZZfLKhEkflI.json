@@ -1,6 +1,6 @@
 {
   "description": "Funky Jazz from the mid 1950s to the early 1960s. Cover: Art Blakey",
-  "num_followers": 85034,
+  "num_followers": 85051,
   "original_name": "Hard Bop Classics",
   "owner": {
     "name": "Spotify",
@@ -895,6 +895,22 @@
     {
       "added_at": "2024-09-03 09:38:03",
       "album": {
+        "name": "A New Sound - A New Star, Vol. 2",
+        "url": "https://open.spotify.com/album/0YbnuLEO8V39shvuHTDI5k"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Smith",
+          "url": "https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6"
+        }
+      ],
+      "duration_ms": 519360,
+      "name": "The Champ",
+      "url": "https://open.spotify.com/track/2LabSli3Hawqd8hq4N7IHp"
+    },
+    {
+      "added_at": "2024-09-03 09:38:03",
+      "album": {
         "name": "That's Where It's At",
         "url": "https://open.spotify.com/album/6wRyPYTtDhRpC1O4ICM1Lt"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 294893,
       "name": "Sundu - Remastered 1999 / Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/5tSD3SWFAbQxM9RL5Mxx3A"
-    },
-    {
-      "added_at": "2024-09-03 09:38:03",
-      "album": {
-        "name": "A New Sound - A New Star, Vol. 2",
-        "url": "https://open.spotify.com/album/0YbnuLEO8V39shvuHTDI5k"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Smith",
-          "url": "https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6"
-        }
-      ],
-      "duration_ms": 519360,
-      "name": "The Champ",
-      "url": "https://open.spotify.com/track/2LabSli3Hawqd8hq4N7IHp"
     },
     {
       "added_at": "2024-09-03 09:38:03",

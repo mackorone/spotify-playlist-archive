@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover:  ELEVATION RHYTHM",
+  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover:  SEU Worship",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -2275,6 +2275,32 @@
     },
     {
       "album": {
+        "name": "Cathedral (Live)",
+        "url": "https://open.spotify.com/album/7fROF1qFAmHeUvzAhVfkJj"
+      },
+      "artists": [
+        {
+          "name": "Jonathan David Helser",
+          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
+        },
+        {
+          "name": "Melissa Helser",
+          "url": "https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r"
+        },
+        {
+          "name": "Cageless Birds",
+          "url": "https://open.spotify.com/artist/4rZuQD42ETklGQfWmgvqBR"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356938,
+      "name": "Cathedral - Live",
+      "url": "https://open.spotify.com/track/7giKwleQHQ0rDMZnypzWej"
+    },
+    {
+      "album": {
         "name": "Center (Live)",
         "url": "https://open.spotify.com/album/14twTxZEfFwCDuKXmajio1"
       },
@@ -2512,7 +2538,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 314427,
       "name": "Clean Heart",
       "url": "https://open.spotify.com/track/5qwztsDLBLKRqcd3pgWeGb"
@@ -3373,6 +3399,28 @@
     },
     {
       "album": {
+        "name": "Dwell",
+        "url": "https://open.spotify.com/album/2KqpntXs36LLr188Bo31Tc"
+      },
+      "artists": [
+        {
+          "name": "SEU Worship",
+          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
+        },
+        {
+          "name": "Sydney James",
+          "url": "https://open.spotify.com/artist/0Hv0lVzc1FOqtBajPTUOVQ"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347362,
+      "name": "Dwell",
+      "url": "https://open.spotify.com/track/33G7XMjL3uKBJwlaamaUsa"
+    },
+    {
+      "album": {
         "name": "Growing Pains",
         "url": "https://open.spotify.com/album/2t6iyhcrH9dDuPzCSjnxFG"
       },
@@ -4214,7 +4262,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 228731,
       "name": "Fruit Takes Time",
       "url": "https://open.spotify.com/track/0wljFigxwGXT2juoxYPNbi"
@@ -5602,7 +5650,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 441746,
       "name": "Highest One - Live",
       "url": "https://open.spotify.com/track/0pvbLvGMwQwgVJCo3J8Eza"
@@ -7323,6 +7371,36 @@
     },
     {
       "album": {
+        "name": "Inhabit (Live)",
+        "url": "https://open.spotify.com/album/7JKsu4MIWFQd1SSakrv41q"
+      },
+      "artists": [
+        {
+          "name": "Austin Johnson",
+          "url": "https://open.spotify.com/artist/2BPfjNofqF1uBvxJ3kUTbO"
+        },
+        {
+          "name": "Kory Miller",
+          "url": "https://open.spotify.com/artist/0QCjdltvL9ZrRhayylw97h"
+        },
+        {
+          "name": "Hannah Waters",
+          "url": "https://open.spotify.com/artist/4ikD0yzW2w4xoY6xBla98L"
+        },
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 577170,
+      "name": "Inhabit - Live",
+      "url": "https://open.spotify.com/track/7uV23diPvoJDAtiCUehgdn"
+    },
+    {
+      "album": {
         "name": "Oh How Worthy (Live)",
         "url": "https://open.spotify.com/album/3SimJVri4arEFQqEAbZdmx"
       },
@@ -8076,6 +8154,24 @@
       "duration_ms": 384293,
       "name": "Just One Drop - Live From New Orleans",
       "url": "https://open.spotify.com/track/21zNU75QW1NfvPZ8lQVb24"
+    },
+    {
+      "album": {
+        "name": "No Fear",
+        "url": "https://open.spotify.com/album/0gDdrITVEHF5puxOo0ma1o"
+      },
+      "artists": [
+        {
+          "name": "Jon Reddick",
+          "url": "https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217614,
+      "name": "Just That Good",
+      "url": "https://open.spotify.com/track/41Z1kDTRyaclKHmXkR0vn7"
     },
     {
       "album": {
@@ -10446,7 +10542,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 367914,
       "name": "Now Until Forever",
       "url": "https://open.spotify.com/track/3EA4msZn5hJ0RTpUsRBRTl"
@@ -16662,7 +16758,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 319499,
       "name": "Worthy Of It All + Nothing But The Blood (Live)",
       "url": "https://open.spotify.com/track/673DfckxPqLXZnkGqspIhm"
@@ -16926,7 +17022,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 241544,
       "name": "Yield",
       "url": "https://open.spotify.com/track/4W7PAKB9E09thAedKXcPyd"

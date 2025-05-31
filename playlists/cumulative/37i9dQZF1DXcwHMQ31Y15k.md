@@ -2,9 +2,9 @@
 
 ### [Boso Jowo](https://open.spotify.com/playlist/37i9dQZF1DXcwHMQ31Y15k)
 
-> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Lavora
+> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Esa Risty
 
-479 songs - 1 day 16 hr 2 min
+483 songs - 1 day 16 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Full Senyum Sayang](https://open.spotify.com/track/5iJjv9LgIpgZglbfT7RvGS) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Full Senyum Sayang](https://open.spotify.com/album/3djAwAaADJz4EVGZCJghLc) | 4:06 | 2022-07-01 |  |
 | [Full Senyum Sayang](https://open.spotify.com/track/6Vhst432fSvsduUkqFruiq) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Full Senyum Sayang](https://open.spotify.com/album/6qYd6W2PyMVSjDCs5VEh6g) | 4:06 | 2023-12-08 | 2024-04-19 |
 | [Full Senyum Sayang](https://open.spotify.com/track/7k2TwP9u83aABMkNoQuBnn) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Full Senyum Sayang](https://open.spotify.com/album/3wy9IbCarGhOSaY3WY731C) | 4:06 | 2023-02-16 | 2023-12-09 |
+| [GADHUNGMLATHI \- Live](https://open.spotify.com/track/02zbuASKp6u90zzhpQeN9v) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc), [dike sabrina](https://open.spotify.com/artist/0vhFLxTbKdPwp4sB66ctRY) | [GADHUNGMLATHI \(Live\)](https://open.spotify.com/album/2ahYjf5Nd5vakmYTUuzlll) | 6:30 | 2025-05-30 |  |
 | [Gagal](https://open.spotify.com/track/4fbtXxvWw1fePAZiasahDn) | [NGATMOMBILUNG](https://open.spotify.com/artist/2QTbC45lx9ANi4Cm2hx09c) | [Gagal](https://open.spotify.com/album/3oIXEWuLvVE1NGunIupPFV) | 5:04 | 2024-07-02 | 2025-01-11 |
 | [Gali Prapatan](https://open.spotify.com/track/5a0RI1DJDKqLhGyTRyVIa8) | [Pendhoza](https://open.spotify.com/artist/7pv4pK2Q3iHVi0cfT1xlSQ) | [Gali Prapatan](https://open.spotify.com/album/3pkrZtfEYuCfIOWQMV0Y10) | 2:57 | 2023-08-03 | 2023-10-08 |
 | [Gampil](https://open.spotify.com/track/3RvL8OtF2e9OMxeFk5JYZS) | [Bravesboy](https://open.spotify.com/artist/2PUWReihDs70AzwDeGEoG1) | [Gampil](https://open.spotify.com/album/5Tj6s9XnqD5acllIrUCGU2) | 4:08 | 2024-01-19 | 2024-04-26 |
@@ -139,6 +140,7 @@
 | [Jejantunging Kalbu](https://open.spotify.com/track/378sjjoEHRfAjFBlBCNdoI) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc), [Wahyu F Giri](https://open.spotify.com/artist/6jKHCA8ghB0C8y9Yb2mz53) | [Jejantunging Kalbu](https://open.spotify.com/album/424Gy6dFu4JBKBxGqEt12i) | 5:18 | 2024-10-18 |  |
 | [Jejantunging Kalbu](https://open.spotify.com/track/3ZnKGBeVyJrs4gFVtsEJmD) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Jejantunging Kalbu](https://open.spotify.com/album/2ynImb4jWZArEaeN5MbM1Y) | 4:29 | 2024-08-09 | 2024-12-27 |
 | [Juragan Empang](https://open.spotify.com/track/4oukOCxXwfaRx4Rqait0OE) | [Lala Widy](https://open.spotify.com/artist/39oBUORQAdXhOUCSABsmQK) | [Juragan Empang](https://open.spotify.com/album/0EYQcmzHvpQt38ztwlhjQr) | 3:50 | 2024-01-25 | 2024-05-17 |
+| [Kabagyan](https://open.spotify.com/track/7p4g03E3yh1ovkMlvj9mwO) | [Sadewok](https://open.spotify.com/artist/5EkOo7TpmDN9Uz5wvxDyGe) | [Kabagyan](https://open.spotify.com/album/6ZX8XgoC6eGPAJHDzlQZ27) | 4:18 | 2025-05-30 |  |
 | [Kabeh Nggo Koe](https://open.spotify.com/track/209P8tFH0UxWDP3MZ3Sbfg) | [Vadesta](https://open.spotify.com/artist/7vAiI188SHEmVcvPgqnzYO) | [Kabeh Nggo Koe](https://open.spotify.com/album/3f42ksw5ZefYGVfMjuF41D) | 5:12 | 2024-03-29 | 2024-07-27 |
 | [Kabur Kanginan](https://open.spotify.com/track/6DRBeuRymM6gRvAn1WgU0S) | [OMWAWES](https://open.spotify.com/artist/4SsvQOTuKik8GmK6GtB21A) | [Kabur Kanginan](https://open.spotify.com/album/5QQa65NbHXXMZSVCbdiWYP) | 4:34 | 2022-05-26 | 2022-08-26 |
 | [Kalah](https://open.spotify.com/track/6w7wnRZVLdVQGpvAnpI7Wf) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL), [Restianade](https://open.spotify.com/artist/2snngeuArUgVK4TxAWwe9a) | [Kalah](https://open.spotify.com/album/3sOqpgD6n7tYmN75GdUGYx) | 6:38 | 2023-11-09 |  |
@@ -161,6 +163,7 @@
 | [Kau Yang Memilih Aku](https://open.spotify.com/track/0nlyeo8k3egwp0BPagXSgi) | [Cantika Davinca](https://open.spotify.com/artist/0bjubqi4GobeZDopJU6vjN) | [Kau Yang Memilih Aku](https://open.spotify.com/album/3av8xh4YstrMX7wD95ZhiW) | 4:56 | 2024-11-21 | 2025-02-28 |
 | [Kawanen Saur](https://open.spotify.com/track/1Rofr286SKNgf4Ns7RDiRp) | [Sela Good](https://open.spotify.com/artist/1mS5KkfEKjRdYti1qYfszu) | [Kawanen Saur](https://open.spotify.com/album/3h19n32YsqZJb4XjWCDH7U) | 3:17 | 2024-03-29 | 2024-06-14 |
 | [Kawitaning Sinawang](https://open.spotify.com/track/6GR3uDM9hWSbaGQ97KrpMc) | [Safira Inema](https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY) | [Kawitaning Sinawang](https://open.spotify.com/album/75CwU627eV9RhtPNLxnm2d) | 5:00 | 2025-04-17 |  |
+| [KAWITANING SINAWANG](https://open.spotify.com/track/3EPFbJPrZXSgr2Wqk4KEVS) | [Sasya Arkhisna](https://open.spotify.com/artist/7lI4C2dx9SKfc3DD4zzkXA) | [KAWITANING SINAWANG](https://open.spotify.com/album/28xHCBbw0lfWN4E0S1TRlT) | 5:21 | 2025-05-30 |  |
 | [KDRT \(Kadung Duwe Roso Tresno\)](https://open.spotify.com/track/4vWgNqMHIo6TU8tNkUFEOj) | [Damara De](https://open.spotify.com/artist/0ZrpjSmeaK6iY14eZFx5dF) | [KDRT \(Kadung Duwe Roso Tresno\)](https://open.spotify.com/album/0CGFvfgMFN7IdVwOGnuJMm) | 6:12 | 2024-10-24 |  |
 | [Kebacut Nyaman](https://open.spotify.com/track/3kEUi3er4c6aNdX0spyUZM) | [Damara De](https://open.spotify.com/artist/0ZrpjSmeaK6iY14eZFx5dF) | [Kebacut Nyaman](https://open.spotify.com/album/5WMqMj79VLVJp6YG42WwrL) | 5:05 | 2023-08-11 | 2024-04-26 |
 | [Kecelik](https://open.spotify.com/track/136vKucQWIKVj8Zjg2JVyQ) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Kecelik](https://open.spotify.com/album/2Ts1yFQxdRcpf1BD8OqG1I) | 5:49 | 2024-08-29 | 2024-12-13 |
@@ -321,6 +324,7 @@
 | [Pelanggaran](https://open.spotify.com/track/40NnuwNYIX54KjRDfSto9t) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc) | [Pelanggaran](https://open.spotify.com/album/2jC6opHmZglaccSmacSWom) | 5:54 | 2023-11-09 | 2024-05-17 |
 | [Pelanggaran](https://open.spotify.com/track/7tkOXJNeDNCeX9Jz3K1M3l) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Pelanggaran](https://open.spotify.com/album/74dbmkxOoWQE3h4RlXfPIK) | 4:57 | 2023-08-24 |  |
 | [Pelanggaran](https://open.spotify.com/track/3AUka3Lyitpc8HHZBD8quf) | [Safira Inema](https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY) | [Pelanggaran](https://open.spotify.com/album/0CoWdmbvAH6iZnznHLnPdl) | 4:55 | 2023-09-22 | 2024-03-15 |
+| [Pemain ahli](https://open.spotify.com/track/6mdbTxN8rzpozyXzR0KfnR) | [Gildcoustic](https://open.spotify.com/artist/2SivWeAIGXKPlaW2YdxKZU) | [Pemain ahli](https://open.spotify.com/album/6AmqaJQyEWPXH25qW036O6) | 5:03 | 2025-05-30 |  |
 | [Pengangguran Yo Lumayan](https://open.spotify.com/track/6p8N18UzPaCugzW4C5XzSo) | [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa), [Kathul](https://open.spotify.com/artist/7JyZ5v5vVHpdl5pS1JrCLA) | [Pengangguran Yo Lumayan](https://open.spotify.com/album/2T43tjtvE6n0UJeG11MrX4) | 4:26 | 2022-05-26 | 2023-05-06 |
 | [Pengangguran Yo Lumayan \- Keroncong](https://open.spotify.com/track/77XmujDpcFtBeBMXzqNjls) | [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa) | [Pengangguran Yo Lumayan \(Keroncong\)](https://open.spotify.com/album/0twUn01gTREHP0tPtX2bnA) | 4:16 | 2023-07-13 | 2023-09-16 |
 | [PENGAREPAN \- Acoustic](https://open.spotify.com/track/7gkTAMKGIMKWNE8y1He7jU) | [Syahiba Saufa](https://open.spotify.com/artist/1a8EV67v0WSk7czvboxGYz) | [PENGAREPAN \(Acoustic\)](https://open.spotify.com/album/5a7o5ybj528aaw61UrNOtw) | 4:51 | 2024-12-13 | 2025-03-28 |

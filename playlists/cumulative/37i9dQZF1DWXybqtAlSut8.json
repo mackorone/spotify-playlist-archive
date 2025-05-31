@@ -1467,6 +1467,24 @@
     },
     {
       "album": {
+        "name": "The right path",
+        "url": "https://open.spotify.com/album/0IiJjP8eyTGhokoQoUigfs"
+      },
+      "artists": [
+        {
+          "name": "Christian Janssen",
+          "url": "https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161326,
+      "name": "The right path",
+      "url": "https://open.spotify.com/track/4UsFbn0zAvTMTZtsj0aXPo"
+    },
+    {
+      "album": {
         "name": "The Seventh Day",
         "url": "https://open.spotify.com/album/4Gtm11NXJxrPveqKrS9AUA"
       },

@@ -2,9 +2,9 @@
 
 ### [Folk & Friends](https://open.spotify.com/playlist/37i9dQZF1DWWv6MSZULLBi)
 
-> A laid\-back trip in the folk scene\. Cover: Dan Mangan
+> A laid\-back trip in the folk scene\. Cover: Amble
 
-1,173 songs - 2 day 22 hr 34 min
+1,174 songs - 2 day 22 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -738,6 +738,7 @@
 | [october](https://open.spotify.com/track/4KxTFhm8qUWga2uB6NKuLy) | [La Force](https://open.spotify.com/artist/6Wt2zqLZOrA36sooqmAvFH) | [october](https://open.spotify.com/album/0HEqMMj4JU99fqyDAk112t) | 4:32 | 2023-07-14 | 2023-08-26 |
 | [October Birds](https://open.spotify.com/track/23WVcYeTP5SUoOB7oXb32j) | [Flower Face](https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz) | [October Birds](https://open.spotify.com/album/2ttBuqxGYwwTHIK9XWUbtr) | 3:01 | 2022-05-13 | 2022-11-19 |
 | [October Moon](https://open.spotify.com/track/3YsdzICwd73j0iZZB3l4z9) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [October Moon](https://open.spotify.com/album/330v2AkPhkpww8XyWcllyp) | 4:06 | 2024-10-11 | 2025-04-22 |
+| [Of Amber](https://open.spotify.com/track/022C1o8aZqq4JDhXY9b7Ml) | [Jacob Alon](https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH) | [In Limerence](https://open.spotify.com/album/1UJb5PdzFT9C7f9fc1QxLO) | 2:39 | 2025-05-30 |  |
 | [Oh No! \- Edit](https://open.spotify.com/track/6WNz0P5M39PYy06ujl54Ku) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Oh No! \(Edit\)](https://open.spotify.com/album/1bRxGv1rHtNJmVb6pOXHkv) | 3:26 | 2025-05-23 |  |
 | [Oh Vibrant Sky](https://open.spotify.com/track/6CBD4N091Oa27UxAt9ache) | [Wyatt C\. Louis](https://open.spotify.com/artist/0U2aokEQQSzyTcQdpC6DsB), [Wild Pink](https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ) | [Oh Vibrant Sky](https://open.spotify.com/album/0f20QPMxFp4bGctmw8Fxns) | 3:39 | 2024-04-12 | 2024-05-25 |
 | [Ohio](https://open.spotify.com/track/1OtDzhNCSiQsbihPA1SOni) | [Kieran Campbell](https://open.spotify.com/artist/0x1TEBrFldjKRcch1M7mjK) | [Ohio](https://open.spotify.com/album/3YoKNEBFmFbirIYtdKeUCw) | 2:41 | 2024-11-29 | 2025-05-10 |
@@ -909,7 +910,7 @@
 | [So You Are Tired](https://open.spotify.com/track/0BjU4kaYvJPjRIQqdxtNom) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Will Anybody Ever Love Me?](https://open.spotify.com/album/0k9E8vq5iYJUNO40E2G6U1) | 4:49 | 2023-09-15 | 2023-10-07 |
 | [So You Are Tired](https://open.spotify.com/track/6LbFM8wbTe7XZwbm7C5qZ5) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [So You Are Tired](https://open.spotify.com/album/4lEHaKYeQFwCR9fpbcjVzB) | 4:49 | 2023-08-18 | 2023-09-21 |
 | [Soft Eyes](https://open.spotify.com/track/4GtWzciJC8Wni7VjI0dUS8) | [Jordan Hart](https://open.spotify.com/artist/2NuHJNDBd9Vq4k09qrXibo) | [Soft Eyes](https://open.spotify.com/album/7hxlEQ9BaxpORRqoHpoiEu) | 2:45 | 2024-09-20 | 2024-10-19 |
-| [soft light](https://open.spotify.com/track/2BgBE2sl7r2vcLeC6vxCfl) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [soft light](https://open.spotify.com/album/5yRJS7SXnpMUjoysxWII4x) | 2:35 | 2025-01-10 |  |
+| [soft light](https://open.spotify.com/track/2BgBE2sl7r2vcLeC6vxCfl) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [soft light](https://open.spotify.com/album/5yRJS7SXnpMUjoysxWII4x) | 2:35 | 2025-01-10 | 2025-05-31 |
 | [Soldier](https://open.spotify.com/track/3oye3VyqKTfffB8D3KdkGb) | [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Pink Magnolia \(Deluxe\)](https://open.spotify.com/album/34gCWRw6h4xYIqzKctIx8x) | 2:53 | 2024-06-28 | 2024-09-14 |
 | [Solitude](https://open.spotify.com/track/2FLk5bJKrv6t2CY8XqjNVs) | [Alysha Brilla](https://open.spotify.com/artist/72McluarQZqpzSS95goQ0Q) | [Circle](https://open.spotify.com/album/1jbLEvkxMMJ8MfU3EHLdYR) | 4:50 | 2022-09-16 | 2023-03-18 |
 | [Solstice Song](https://open.spotify.com/track/72SXpHeJWgA926pdouhSKW) | [Taylor Jackson](https://open.spotify.com/artist/7nGtZvEYXujS2JZVlgxCif) | [Solstice Song](https://open.spotify.com/album/4QNoLiRg84fdLhSHWvBGEF) | 3:08 | 2024-07-05 | 2024-07-19 |

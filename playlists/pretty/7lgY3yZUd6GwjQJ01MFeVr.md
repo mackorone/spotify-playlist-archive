@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7lgY3yZUd6GwjQJ01MFeVr.md) - [plain]
 
 > Today's top country music!
 
-[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 35,139 likes - 105 songs - 5 hr 35 min
+[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 35,138 likes - 105 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/7lgY3yZUd6GwjQJ01MFeVr.md) - [plain]
 | 104 | [GRAVE](https://open.spotify.com/track/2YvricIxdfPXF8ztbHPcpP) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [let go letters](https://open.spotify.com/album/0u2pxDH76QyAKifAdQykXg) | 3:11 |
 | 105 | [House Again \(with Miranda Lambert\)](https://open.spotify.com/track/1jR5heh1OlXAvkP35M8Utx) | [Hudson Westbrook](https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [House Again \(with Miranda Lambert\) / The House That Built Me](https://open.spotify.com/album/6L0PTevCRfWXL5E4XqdaIs) | 3:23 |
 
-Snapshot ID: `AAAbh4V6zR7/EHjWsS9lS2oibYHWJVfF`
+Snapshot ID: `AAAbikUVQDasBWoEGcdGLPiQhyOu51qf`

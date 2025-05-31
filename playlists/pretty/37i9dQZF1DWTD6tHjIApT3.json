@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: \u4e43\u7d2b",
-  "num_followers": 126632,
+  "num_followers": 126859,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2025-05-27 17:25:03",
       "album": {
-        "name": "Orbital Period",
-        "url": "https://open.spotify.com/album/2IWdcEFn0nnzGoNlQ0BdoN"
-      },
-      "artists": [
-        {
-          "name": "Hoshimachi Suisei",
-          "url": "https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX"
-        }
-      ],
-      "duration_ms": 251833,
-      "name": "Orbital Period",
-      "url": "https://open.spotify.com/track/6zG5U3wCnQfYKrMSWWmbD2"
-    },
-    {
-      "added_at": "2025-05-27 17:25:03",
-      "album": {
         "name": "\u8a31\u5a5a\u3063\u304d\u3085\u3093",
         "url": "https://open.spotify.com/album/0CGQLcexvxE3lWTG4q0VOO"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 180233,
       "name": "\u8a31\u5a5a\u3063\u304d\u3085\u3093",
       "url": "https://open.spotify.com/track/6YLjq21cq39MrEGtGGQ7DU"
+    },
+    {
+      "added_at": "2025-05-27 17:25:03",
+      "album": {
+        "name": "Orbital Period",
+        "url": "https://open.spotify.com/album/2IWdcEFn0nnzGoNlQ0BdoN"
+      },
+      "artists": [
+        {
+          "name": "Hoshimachi Suisei",
+          "url": "https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX"
+        }
+      ],
+      "duration_ms": 251833,
+      "name": "Orbital Period",
+      "url": "https://open.spotify.com/track/6zG5U3wCnQfYKrMSWWmbD2"
     },
     {
       "added_at": "2025-05-27 17:25:03",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2025-05-27 17:25:03",
       "album": {
+        "name": "\u30a6\u30ef\u30b5\u306e\u3042\u306e\u5b50",
+        "url": "https://open.spotify.com/album/4f5zQzbqzu69iAhNsRU0hI"
+      },
+      "artists": [
+        {
+          "name": "\u7d2b \u4eca",
+          "url": "https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY"
+        }
+      ],
+      "duration_ms": 193301,
+      "name": "\u30a6\u30ef\u30b5\u306e\u3042\u306e\u5b50",
+      "url": "https://open.spotify.com/track/44LBQojtOWIv0mgiaOlp0u"
+    },
+    {
+      "added_at": "2025-05-27 17:25:03",
+      "album": {
         "name": "\u865a\u4eee\u306e\u4e00\u5ff5\u6d77\u99ac\u306b\u8a17\u3059",
         "url": "https://open.spotify.com/album/6qnciuGKSc0nl1C5BHZwCr"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 235466,
       "name": "\u30af\u30ba\u30ea\u5ff5",
       "url": "https://open.spotify.com/track/7t79PIxAZwn6RtJzAKoKTI"
-    },
-    {
-      "added_at": "2025-05-27 17:25:03",
-      "album": {
-        "name": "\u9b54\u6027\u306e\u5973A",
-        "url": "https://open.spotify.com/album/5G0oUO9nPLkRRxU4mBWYgn"
-      },
-      "artists": [
-        {
-          "name": "\u7d2b \u4eca",
-          "url": "https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY"
-        }
-      ],
-      "duration_ms": 220833,
-      "name": "\u9b54\u6027\u306e\u5973A",
-      "url": "https://open.spotify.com/track/5HxH3gGdJx18CUuCFg61Lg"
     },
     {
       "added_at": "2025-05-27 17:25:03",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2025-05-27 17:25:03",
       "album": {
-        "name": "SCOPE",
-        "url": "https://open.spotify.com/album/4En3BPOgBrfh5pZgN58fnp"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 175022,
-      "name": "SCOPE",
-      "url": "https://open.spotify.com/track/3Jo4XDtnSvgky2gC40gEwX"
-    },
-    {
-      "added_at": "2025-05-27 17:25:03",
-      "album": {
         "name": "20 +",
         "url": "https://open.spotify.com/album/03g7NI2Dzsu9TycWPQlev5"
       },
@@ -1495,6 +1479,38 @@
     {
       "added_at": "2025-05-27 17:25:03",
       "album": {
+        "name": "SCOPE",
+        "url": "https://open.spotify.com/album/4En3BPOgBrfh5pZgN58fnp"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 175022,
+      "name": "SCOPE",
+      "url": "https://open.spotify.com/track/3Jo4XDtnSvgky2gC40gEwX"
+    },
+    {
+      "added_at": "2025-05-27 17:25:03",
+      "album": {
+        "name": "\u9b54\u6027\u306e\u5973A",
+        "url": "https://open.spotify.com/album/5G0oUO9nPLkRRxU4mBWYgn"
+      },
+      "artists": [
+        {
+          "name": "\u7d2b \u4eca",
+          "url": "https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY"
+        }
+      ],
+      "duration_ms": 220833,
+      "name": "\u9b54\u6027\u306e\u5973A",
+      "url": "https://open.spotify.com/track/5HxH3gGdJx18CUuCFg61Lg"
+    },
+    {
+      "added_at": "2025-05-27 17:25:03",
+      "album": {
         "name": "\u6625 \uff5eDestiny\uff5e",
         "url": "https://open.spotify.com/album/1Ixw2H8GfTJyqA4g9zdgOn"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 232586,
       "name": "\u6625 \uff5eDestiny\uff5e",
       "url": "https://open.spotify.com/track/7cMrvt5hkI2rxDb1HpZAOL"
-    },
-    {
-      "added_at": "2025-05-27 17:25:03",
-      "album": {
-        "name": "\u30a6\u30ef\u30b5\u306e\u3042\u306e\u5b50",
-        "url": "https://open.spotify.com/album/4f5zQzbqzu69iAhNsRU0hI"
-      },
-      "artists": [
-        {
-          "name": "\u7d2b \u4eca",
-          "url": "https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY"
-        }
-      ],
-      "duration_ms": 193301,
-      "name": "\u30a6\u30ef\u30b5\u306e\u3042\u306e\u5b50",
-      "url": "https://open.spotify.com/track/44LBQojtOWIv0mgiaOlp0u"
     },
     {
       "added_at": "2025-05-27 17:25:03",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2025-05-27 17:25:03",
       "album": {
-        "name": "\u8ecc\u8de1",
-        "url": "https://open.spotify.com/album/2jrw0Q9e37b3IlK3UAIYRt"
-      },
-      "artists": [
-        {
-          "name": "Riria.",
-          "url": "https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS"
-        }
-      ],
-      "duration_ms": 229222,
-      "name": "\u5e78\u305b\u306a\u7d04\u675f\u3002",
-      "url": "https://open.spotify.com/track/4aCVgRxtJhMacAjskNQCWe"
-    },
-    {
-      "added_at": "2025-05-27 17:25:03",
-      "album": {
         "name": "Aria",
         "url": "https://open.spotify.com/album/6v19AL49KRqhe26ChlJH08"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 218506,
       "name": "Aria",
       "url": "https://open.spotify.com/track/5YqACM8RWUfAIVkOmtB2Mo"
+    },
+    {
+      "added_at": "2025-05-27 17:25:03",
+      "album": {
+        "name": "\u8ecc\u8de1",
+        "url": "https://open.spotify.com/album/2jrw0Q9e37b3IlK3UAIYRt"
+      },
+      "artists": [
+        {
+          "name": "Riria.",
+          "url": "https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS"
+        }
+      ],
+      "duration_ms": 229222,
+      "name": "\u5e78\u305b\u306a\u7d04\u675f\u3002",
+      "url": "https://open.spotify.com/track/4aCVgRxtJhMacAjskNQCWe"
     },
     {
       "added_at": "2025-05-27 17:25:03",

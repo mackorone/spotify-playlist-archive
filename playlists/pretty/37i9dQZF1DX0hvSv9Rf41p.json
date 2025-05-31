@@ -1,48 +1,36 @@
 {
-  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a>  \ud83d\ude80\ud83d\ude80 with DJ Snake & Space Laces",
-  "num_followers": 984959,
+  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a>  \ud83d\ude80\ud83d\ude80 with Seven Lions, YDG & Bella Renee",
+  "num_followers": 984971,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDJ3RwAAAADGN3hyI+nmbQY2r9JjDtoR",
+  "snapshot_id": "aDk4QgAAAACiDiMYf8/yXse924DzufSY",
   "tracks": [
     {
-      "added_at": "2025-05-23 04:02:10",
+      "added_at": "2025-05-30 04:10:57",
       "album": {
-        "name": "RELOADED",
-        "url": "https://open.spotify.com/album/4Nva0ALH9eQw7jwWRi8Z6k"
+        "name": "Man Down",
+        "url": "https://open.spotify.com/album/5vTTef4Ykw2yHCeKRZCNe7"
       },
       "artists": [
         {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+          "name": "Seven Lions",
+          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
         },
         {
-          "name": "Space Laces",
-          "url": "https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP"
-        }
-      ],
-      "duration_ms": 228804,
-      "name": "RELOADED",
-      "url": "https://open.spotify.com/track/3wecO1VIkqi4pznzPh1BWz"
-    },
-    {
-      "added_at": "2025-05-09 04:00:25",
-      "album": {
-        "name": "Duel of the Fates",
-        "url": "https://open.spotify.com/album/5S9MaLGpGVqKqzGcct4Fxa"
-      },
-      "artists": [
+          "name": "YDG",
+          "url": "https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4"
+        },
         {
-          "name": "Apashe",
-          "url": "https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN"
+          "name": "Bella Renee",
+          "url": "https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa"
         }
       ],
-      "duration_ms": 202449,
-      "name": "Duel of the Fates",
-      "url": "https://open.spotify.com/track/03oLnmuFIM4ABv68TAcizp"
+      "duration_ms": 212571,
+      "name": "Man Down",
+      "url": "https://open.spotify.com/track/2q15bW4gvbCDVMKIa6sGzX"
     },
     {
       "added_at": "2025-04-18 04:00:56",
@@ -77,24 +65,60 @@
       "url": "https://open.spotify.com/track/3ekLXHhFW8qI6FZDE6Xx9l"
     },
     {
-      "added_at": "2025-05-02 04:20:21",
+      "added_at": "2025-05-30 04:10:57",
       "album": {
-        "name": "Hunter (feat. Flowdan)",
-        "url": "https://open.spotify.com/album/18o4PXxr70SwQ1VPAh98pq"
+        "name": "Chaos Theory",
+        "url": "https://open.spotify.com/album/6XCOMsUfSGmRnQZBYIL48z"
       },
       "artists": [
         {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
         },
         {
-          "name": "Flowdan",
-          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+          "name": "Wooli",
+          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
         }
       ],
-      "duration_ms": 220137,
-      "name": "Hunter (feat. Flowdan)",
-      "url": "https://open.spotify.com/track/48GP8MO8zVxnfr4ydZ99Wl"
+      "duration_ms": 157714,
+      "name": "Chaos Theory",
+      "url": "https://open.spotify.com/track/2gOrSnyYKsJWMrOH9giTkT"
+    },
+    {
+      "added_at": "2025-05-09 04:00:25",
+      "album": {
+        "name": "Duel of the Fates",
+        "url": "https://open.spotify.com/album/5S9MaLGpGVqKqzGcct4Fxa"
+      },
+      "artists": [
+        {
+          "name": "Apashe",
+          "url": "https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN"
+        }
+      ],
+      "duration_ms": 202449,
+      "name": "Duel of the Fates",
+      "url": "https://open.spotify.com/track/03oLnmuFIM4ABv68TAcizp"
+    },
+    {
+      "added_at": "2025-05-23 04:02:10",
+      "album": {
+        "name": "RELOADED",
+        "url": "https://open.spotify.com/album/4Nva0ALH9eQw7jwWRi8Z6k"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Space Laces",
+          "url": "https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP"
+        }
+      ],
+      "duration_ms": 228804,
+      "name": "RELOADED",
+      "url": "https://open.spotify.com/track/3wecO1VIkqi4pznzPh1BWz"
     },
     {
       "added_at": "2025-05-16 04:09:11",
@@ -111,6 +135,22 @@
       "duration_ms": 215481,
       "name": "Bodybag",
       "url": "https://open.spotify.com/track/7vEGUcKdEVNM7kbm8bnPF7"
+    },
+    {
+      "added_at": "2025-05-30 04:10:57",
+      "album": {
+        "name": "AN INTRODUCTION TO WHOLESOME RIDDIM",
+        "url": "https://open.spotify.com/album/0qA6V5utPUk1KG48JHDdwY"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        }
+      ],
+      "duration_ms": 208965,
+      "name": "CLOSE YOUR EYES",
+      "url": "https://open.spotify.com/track/7ml6mms5SS6qahrXMYWSVw"
     },
     {
       "added_at": "2025-05-23 04:02:10",
@@ -137,6 +177,38 @@
       "url": "https://open.spotify.com/track/69kk00cqircAGyCr4VhSGf"
     },
     {
+      "added_at": "2025-05-09 04:00:25",
+      "album": {
+        "name": "BLUNT SONG",
+        "url": "https://open.spotify.com/album/7zJ33XAlQAOCWMkx2nfKaS"
+      },
+      "artists": [
+        {
+          "name": "Cyclops",
+          "url": "https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN"
+        }
+      ],
+      "duration_ms": 151285,
+      "name": "BLUNT SONG",
+      "url": "https://open.spotify.com/track/4DtU9Pd6aqxfwFhQRaERIL"
+    },
+    {
+      "added_at": "2025-05-30 04:10:57",
+      "album": {
+        "name": "SKRILLA",
+        "url": "https://open.spotify.com/album/61kuIsEkUDIqoGAnIjrrdq"
+      },
+      "artists": [
+        {
+          "name": "TOXATE",
+          "url": "https://open.spotify.com/artist/6Y9akO7SMmoS78aqNvCx6N"
+        }
+      ],
+      "duration_ms": 204706,
+      "name": "SKRILLA",
+      "url": "https://open.spotify.com/track/6IS8vtWDH9qsLE9tM5TsK6"
+    },
+    {
       "added_at": "2025-04-25 04:02:02",
       "album": {
         "name": "Contorted",
@@ -151,6 +223,30 @@
       "duration_ms": 199200,
       "name": "Contorted",
       "url": "https://open.spotify.com/track/21XpgQiTcs2oeWimVY5f84"
+    },
+    {
+      "added_at": "2025-05-30 04:10:57",
+      "album": {
+        "name": "TERRANOVA",
+        "url": "https://open.spotify.com/album/3VAGJEglKmueo1XLBWiDdv"
+      },
+      "artists": [
+        {
+          "name": "PhaseOne",
+          "url": "https://open.spotify.com/artist/0mO3Yf5XIPHfAbHh8yWLFk"
+        },
+        {
+          "name": "Flowidus",
+          "url": "https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC"
+        },
+        {
+          "name": "Dread MC",
+          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
+        }
+      ],
+      "duration_ms": 199253,
+      "name": "RESET",
+      "url": "https://open.spotify.com/track/1nKr3EwkWaADQfNRyMZ3pj"
     },
     {
       "added_at": "2025-05-23 04:02:10",
@@ -173,20 +269,80 @@
       "url": "https://open.spotify.com/track/339mdwpecqoBHQEOWGOLnh"
     },
     {
-      "added_at": "2025-05-09 04:00:25",
+      "added_at": "2025-05-16 04:09:11",
       "album": {
-        "name": "BLUNT SONG",
-        "url": "https://open.spotify.com/album/7zJ33XAlQAOCWMkx2nfKaS"
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/0rVtUNGCE2q1b0CFaMIaLb"
       },
       "artists": [
         {
-          "name": "Cyclops",
-          "url": "https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN"
+          "name": "RIOT",
+          "url": "https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY"
         }
       ],
-      "duration_ms": 151285,
-      "name": "BLUNT SONG",
-      "url": "https://open.spotify.com/track/4DtU9Pd6aqxfwFhQRaERIL"
+      "duration_ms": 243500,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/4TGYYaUgukkUeDojVaytip"
+    },
+    {
+      "added_at": "2025-05-02 04:20:21",
+      "album": {
+        "name": "Hunter (feat. Flowdan)",
+        "url": "https://open.spotify.com/album/18o4PXxr70SwQ1VPAh98pq"
+      },
+      "artists": [
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        }
+      ],
+      "duration_ms": 220137,
+      "name": "Hunter (feat. Flowdan)",
+      "url": "https://open.spotify.com/track/48GP8MO8zVxnfr4ydZ99Wl"
+    },
+    {
+      "added_at": "2025-05-30 04:46:58",
+      "album": {
+        "name": "AHORA",
+        "url": "https://open.spotify.com/album/4JcvArkgyQyq8C7gAETGgu"
+      },
+      "artists": [
+        {
+          "name": "Jon Casey",
+          "url": "https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr"
+        },
+        {
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        }
+      ],
+      "duration_ms": 145655,
+      "name": "AHORA",
+      "url": "https://open.spotify.com/track/1Re81w8xdZjUNuRu1AUSoL"
+    },
+    {
+      "added_at": "2025-04-11 04:01:02",
+      "album": {
+        "name": "Like This",
+        "url": "https://open.spotify.com/album/4Y59xcMEyR5gPt6CNIXsHe"
+      },
+      "artists": [
+        {
+          "name": "Levity",
+          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
+        },
+        {
+          "name": "NITTI",
+          "url": "https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk"
+        }
+      ],
+      "duration_ms": 133615,
+      "name": "Like This",
+      "url": "https://open.spotify.com/track/4ih71VL7RWG0RbRbVTGxS8"
     },
     {
       "added_at": "2025-04-18 04:00:56",
@@ -213,56 +369,24 @@
       "url": "https://open.spotify.com/track/0rNXZeS4pASoPK2VRCargk"
     },
     {
-      "added_at": "2025-05-16 04:09:11",
+      "added_at": "2025-05-30 04:10:57",
       "album": {
-        "name": "Hurricane",
-        "url": "https://open.spotify.com/album/0rVtUNGCE2q1b0CFaMIaLb"
+        "name": "CHAOS (Flux Pavilion Remix)",
+        "url": "https://open.spotify.com/album/5AvYQ8dqOgkLcJ6ShFniBo"
       },
       "artists": [
         {
-          "name": "RIOT",
-          "url": "https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY"
-        }
-      ],
-      "duration_ms": 243500,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/4TGYYaUgukkUeDojVaytip"
-    },
-    {
-      "added_at": "2025-05-23 04:02:10",
-      "album": {
-        "name": "RELIC",
-        "url": "https://open.spotify.com/album/78TemQFA5d8qKy6MCCAp5p"
-      },
-      "artists": [
-        {
-          "name": "INFEKT",
-          "url": "https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "RELIC",
-      "url": "https://open.spotify.com/track/4IxYVV46tSKMPiLT4w76F8"
-    },
-    {
-      "added_at": "2025-04-11 04:01:02",
-      "album": {
-        "name": "Like This",
-        "url": "https://open.spotify.com/album/4Y59xcMEyR5gPt6CNIXsHe"
-      },
-      "artists": [
-        {
-          "name": "Levity",
-          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
+          "name": "MUST DIE!",
+          "url": "https://open.spotify.com/artist/4aBx7mA6lUOVhEsjokZrXb"
         },
         {
-          "name": "NITTI",
-          "url": "https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk"
+          "name": "Flux Pavilion",
+          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
         }
       ],
-      "duration_ms": 133615,
-      "name": "Like This",
-      "url": "https://open.spotify.com/track/4ih71VL7RWG0RbRbVTGxS8"
+      "duration_ms": 210206,
+      "name": "CHAOS - Flux Pavilion Remix",
+      "url": "https://open.spotify.com/track/5OkBX1LOenfqijPdGrsN38"
     },
     {
       "added_at": "2025-05-16 15:44:13",
@@ -305,6 +429,22 @@
       "url": "https://open.spotify.com/track/6dHCJ5bhTbXx32URGkBFri"
     },
     {
+      "added_at": "2025-05-30 04:10:57",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/6hTCumZvktpOG3pBioL9jS"
+      },
+      "artists": [
+        {
+          "name": "Whales",
+          "url": "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR"
+        }
+      ],
+      "duration_ms": 184597,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/5aeLvCuSjxatz9NyoXOrOK"
+    },
+    {
       "added_at": "2025-05-02 04:20:21",
       "album": {
         "name": "Snakebite",
@@ -319,6 +459,22 @@
       "duration_ms": 192000,
       "name": "Snakebite",
       "url": "https://open.spotify.com/track/10JLvDywZi3agozIA9tCRy"
+    },
+    {
+      "added_at": "2025-05-30 04:10:57",
+      "album": {
+        "name": "TANK IT",
+        "url": "https://open.spotify.com/album/081KqR46idkIxhnf5TgQLD"
+      },
+      "artists": [
+        {
+          "name": "Sentimento",
+          "url": "https://open.spotify.com/artist/3jCZxcHy73RLlHU5WWZDqa"
+        }
+      ],
+      "duration_ms": 157570,
+      "name": "TANK IT",
+      "url": "https://open.spotify.com/track/4ubO4kObhIGP6kHN1QPE3r"
     },
     {
       "added_at": "2025-05-23 04:02:10",
@@ -381,6 +537,26 @@
       "url": "https://open.spotify.com/track/7v11L9CN3sL9BDdiNrmpRe"
     },
     {
+      "added_at": "2025-03-14 04:00:26",
+      "album": {
+        "name": "Whiplash",
+        "url": "https://open.spotify.com/album/3JYuC5TTDbobgRCKo38xW9"
+      },
+      "artists": [
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        },
+        {
+          "name": "SOFI",
+          "url": "https://open.spotify.com/artist/5JQzXeT8vXc1N4Y6tGenCb"
+        }
+      ],
+      "duration_ms": 195114,
+      "name": "Whiplash",
+      "url": "https://open.spotify.com/track/2K1Grx3at2GH9ErGX1o9NV"
+    },
+    {
       "added_at": "2025-05-23 04:02:10",
       "album": {
         "name": "Yapa Yapa (Shut It Pls) [Serum Remix]",
@@ -409,24 +585,20 @@
       "url": "https://open.spotify.com/track/2eUomHlhqjWsSEJiYS9dJk"
     },
     {
-      "added_at": "2025-03-14 04:00:26",
+      "added_at": "2025-05-30 04:10:57",
       "album": {
-        "name": "Whiplash",
-        "url": "https://open.spotify.com/album/3JYuC5TTDbobgRCKo38xW9"
+        "name": "FIX ME UP",
+        "url": "https://open.spotify.com/album/5kAgsu2Yqtc15bjtfNvsXX"
       },
       "artists": [
         {
-          "name": "Crankdat",
-          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
-        },
-        {
-          "name": "SOFI",
-          "url": "https://open.spotify.com/artist/5JQzXeT8vXc1N4Y6tGenCb"
+          "name": "Borgore",
+          "url": "https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz"
         }
       ],
-      "duration_ms": 195114,
-      "name": "Whiplash",
-      "url": "https://open.spotify.com/track/2K1Grx3at2GH9ErGX1o9NV"
+      "duration_ms": 135750,
+      "name": "FIX ME UP",
+      "url": "https://open.spotify.com/track/5ZMTsepLQto8YblpbgyG5I"
     },
     {
       "added_at": "2025-05-09 04:00:25",
@@ -461,6 +633,42 @@
       "url": "https://open.spotify.com/track/1gekrB8xKkeuGpoHS8dtyI"
     },
     {
+      "added_at": "2025-05-23 04:02:10",
+      "album": {
+        "name": "RELIC",
+        "url": "https://open.spotify.com/album/78TemQFA5d8qKy6MCCAp5p"
+      },
+      "artists": [
+        {
+          "name": "INFEKT",
+          "url": "https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "RELIC",
+      "url": "https://open.spotify.com/track/4IxYVV46tSKMPiLT4w76F8"
+    },
+    {
+      "added_at": "2025-05-30 04:10:57",
+      "album": {
+        "name": "This Is The Sound",
+        "url": "https://open.spotify.com/album/33X3UinKL4FIQLGtTDMmDj"
+      },
+      "artists": [
+        {
+          "name": "The Funk Hunters",
+          "url": "https://open.spotify.com/artist/5xwd7lKJeb2opUvYZnXFut"
+        },
+        {
+          "name": "K Theory",
+          "url": "https://open.spotify.com/artist/4N4XqUMMv5KXtLvCBYEIOt"
+        }
+      ],
+      "duration_ms": 201379,
+      "name": "This Is The Sound",
+      "url": "https://open.spotify.com/track/3vD5inPdop9dIUcKaEEXCi"
+    },
+    {
       "added_at": "2025-04-04 04:00:34",
       "album": {
         "name": "California Dreamin'",
@@ -475,6 +683,30 @@
       "duration_ms": 170057,
       "name": "California Dreamin'",
       "url": "https://open.spotify.com/track/1kq7feGMFG3NPRwm5XR5fs"
+    },
+    {
+      "added_at": "2025-05-30 04:10:57",
+      "album": {
+        "name": "The End Of Genesys",
+        "url": "https://open.spotify.com/album/5S4MqmLI8xaLzLBH0wgxEu"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "fknsyd",
+          "url": "https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd"
+        }
+      ],
+      "duration_ms": 184242,
+      "name": "Entropy (feat. fknsyd)",
+      "url": "https://open.spotify.com/track/5qzyfGzhUm5YoruJeQRtiI"
     },
     {
       "added_at": "2025-05-02 04:20:21",
@@ -561,50 +793,6 @@
       "url": "https://open.spotify.com/track/56NpnKfIG8O0sxTbxXcsMS"
     },
     {
-      "added_at": "2025-04-04 15:13:05",
-      "album": {
-        "name": "Fibonacci Pt 1: Oblivion",
-        "url": "https://open.spotify.com/album/4Ou53cCMdT8DPtVqcAHd7k"
-      },
-      "artists": [
-        {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
-        },
-        {
-          "name": "A Little Sound",
-          "url": "https://open.spotify.com/artist/1Jv2F8VFJsSr2XKte0vpbQ"
-        }
-      ],
-      "duration_ms": 229028,
-      "name": "Final Breath (feat. A Little Sound)",
-      "url": "https://open.spotify.com/track/6MsRiMOUU8GDu0ln6MGD0F"
-    },
-    {
-      "added_at": "2025-04-25 04:02:02",
-      "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/5spUK0bAHyshCeLig1DnK7"
-      },
-      "artists": [
-        {
-          "name": "Seven Lions",
-          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
-        },
-        {
-          "name": "Wooli",
-          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
-        },
-        {
-          "name": "VARGEN",
-          "url": "https://open.spotify.com/artist/0L3cTKutNivypmL0Gsbu4i"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/1AavLJdHNs4ZduRV0YLXmu"
-    },
-    {
       "added_at": "2025-05-23 04:02:10",
       "album": {
         "name": "PUT IT DOWN (Jkyl & Hyde Remix)",
@@ -669,6 +857,22 @@
       "url": "https://open.spotify.com/track/1QTva42stCxhbcRXc3TQVl"
     },
     {
+      "added_at": "2025-05-30 04:10:57",
+      "album": {
+        "name": "Holding On",
+        "url": "https://open.spotify.com/album/07NjHtjc0UHs5QLnjHssWG"
+      },
+      "artists": [
+        {
+          "name": "Darkzy",
+          "url": "https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry"
+        }
+      ],
+      "duration_ms": 142285,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/2Cl8GByc3DRTPz8EEDzvuK"
+    },
+    {
       "added_at": "2025-05-23 04:02:10",
       "album": {
         "name": "proxy",
@@ -699,30 +903,6 @@
       "duration_ms": 176514,
       "name": "Get Started",
       "url": "https://open.spotify.com/track/6tmMB2iCCxzzpMrQtvZU4c"
-    },
-    {
-      "added_at": "2025-05-09 04:00:25",
-      "album": {
-        "name": "Entangled",
-        "url": "https://open.spotify.com/album/1QEb39IfozGparLKKYjPel"
-      },
-      "artists": [
-        {
-          "name": "IMANU",
-          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
-        },
-        {
-          "name": "Flux Pavilion",
-          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
-        },
-        {
-          "name": "Tasha Baxter",
-          "url": "https://open.spotify.com/artist/7sLv4bED064cYa2XhF85og"
-        }
-      ],
-      "duration_ms": 160941,
-      "name": "Kintsugi",
-      "url": "https://open.spotify.com/track/7IKTp0RWkrNgrdyIZ5Egk4"
     },
     {
       "added_at": "2025-05-16 04:09:11",
@@ -953,26 +1133,6 @@
       "url": "https://open.spotify.com/track/6Go977kCWKDYumXJwAikNl"
     },
     {
-      "added_at": "2025-04-25 04:02:02",
-      "album": {
-        "name": "tell you straight (Louis The Child\u2019s version)",
-        "url": "https://open.spotify.com/album/1zGrBJhYNgJwHGh8ApwDi5"
-      },
-      "artists": [
-        {
-          "name": "jigitz",
-          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
-        },
-        {
-          "name": "Louis The Child",
-          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
-        }
-      ],
-      "duration_ms": 169568,
-      "name": "tell you straight (Louis The Child\u2019s version)",
-      "url": "https://open.spotify.com/track/3dgAEgBOp9GbvQPLnvXi77"
-    },
-    {
       "added_at": "2025-03-14 04:00:26",
       "album": {
         "name": "On & On",
@@ -1045,46 +1205,6 @@
       "url": "https://open.spotify.com/track/63DGoc1OKnj38fMirECPmA"
     },
     {
-      "added_at": "2025-05-02 04:20:21",
-      "album": {
-        "name": "Threats",
-        "url": "https://open.spotify.com/album/3v3GWfZZoZyJqDjQ9TijDS"
-      },
-      "artists": [
-        {
-          "name": "Riot Ten",
-          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
-        },
-        {
-          "name": "Versa",
-          "url": "https://open.spotify.com/artist/7lm6PfYsdEvxXIqA5LaCA3"
-        }
-      ],
-      "duration_ms": 171857,
-      "name": "Threats",
-      "url": "https://open.spotify.com/track/4J9A0BRmF6Blem0EdnqS8e"
-    },
-    {
-      "added_at": "2025-05-02 04:20:21",
-      "album": {
-        "name": "RAVE NEW WORLD",
-        "url": "https://open.spotify.com/album/6tXrMP8Hr736a5A04ReBBU"
-      },
-      "artists": [
-        {
-          "name": "Jessica Audiffred",
-          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
-        },
-        {
-          "name": "Nostalgix",
-          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
-        }
-      ],
-      "duration_ms": 217765,
-      "name": "Afterparty",
-      "url": "https://open.spotify.com/track/5gVPqdngU2zcwiNqokAE4v"
-    },
-    {
       "added_at": "2025-04-25 04:02:02",
       "album": {
         "name": "MOMENT",
@@ -1155,26 +1275,6 @@
       "duration_ms": 217297,
       "name": "Take Me Home",
       "url": "https://open.spotify.com/track/5UkSfJevaLbQ8UAVQQmXO3"
-    },
-    {
-      "added_at": "2025-05-02 04:20:21",
-      "album": {
-        "name": "Ghost In The Wall",
-        "url": "https://open.spotify.com/album/3wvgkQafH7J6Ekb5uMg786"
-      },
-      "artists": [
-        {
-          "name": "Whales",
-          "url": "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR"
-        },
-        {
-          "name": "Gaash",
-          "url": "https://open.spotify.com/artist/6GB2Qfxc1dqkStjzIdJtg2"
-        }
-      ],
-      "duration_ms": 203720,
-      "name": "Ghost In The Wall",
-      "url": "https://open.spotify.com/track/5pHfVokEQi99RAUGiazHj0"
     },
     {
       "added_at": "2025-04-11 04:01:02",
@@ -1287,26 +1387,6 @@
       "duration_ms": 218482,
       "name": "STRANGERS",
       "url": "https://open.spotify.com/track/5CNKAURJl6Z6RdiJxg5xYm"
-    },
-    {
-      "added_at": "2025-04-02 12:09:21",
-      "album": {
-        "name": "F*CK U SKRILLEX YOU THINK UR ANDY WARHOL BUT UR NOT!! <3",
-        "url": "https://open.spotify.com/album/784znju28Nz5zSuRuthPcO"
-      },
-      "artists": [
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "Space Laces",
-          "url": "https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP"
-        }
-      ],
-      "duration_ms": 70400,
-      "name": "RECOVERY",
-      "url": "https://open.spotify.com/track/0WWejIIgnkDUi90GOzwZWr"
     },
     {
       "added_at": "2025-04-18 04:00:56",
@@ -1517,26 +1597,6 @@
       "url": "https://open.spotify.com/track/4d9PS5dlzlRd3oGhNLxPCb"
     },
     {
-      "added_at": "2025-03-28 04:00:50",
-      "album": {
-        "name": "Doctor P & Flux Pavilion",
-        "url": "https://open.spotify.com/album/3EJlixmzm4hZd4OyUD5xm1"
-      },
-      "artists": [
-        {
-          "name": "Doctor P",
-          "url": "https://open.spotify.com/artist/0tgjwsn1Lpjj8kKEvWm0KQ"
-        },
-        {
-          "name": "Flux Pavilion",
-          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Flashback",
-      "url": "https://open.spotify.com/track/63ZSvQjMKRnk8Gea15vymN"
-    },
-    {
       "added_at": "2025-03-21 04:01:01",
       "album": {
         "name": "LAUGHING STOCK",
@@ -1555,26 +1615,6 @@
       "duration_ms": 166400,
       "name": "TRUGANGSTA",
       "url": "https://open.spotify.com/track/2NPFZGRyFK7NZDD5drCT6N"
-    },
-    {
-      "added_at": "2025-04-11 04:01:02",
-      "album": {
-        "name": "Jaded",
-        "url": "https://open.spotify.com/album/4Ul1F6G9olr9Rnf19m1B4e"
-      },
-      "artists": [
-        {
-          "name": "NXSTY",
-          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
-        },
-        {
-          "name": "7KY",
-          "url": "https://open.spotify.com/artist/4Ro5nyci5mmWSB5ot6YtIj"
-        }
-      ],
-      "duration_ms": 172472,
-      "name": "Jaded",
-      "url": "https://open.spotify.com/track/3w0Or7H4a8jz0NEHJRTotj"
     },
     {
       "added_at": "2025-01-24 05:00:57",
@@ -1609,30 +1649,6 @@
       "url": "https://open.spotify.com/track/1n6bdCMqokxlX0f0SduzF3"
     },
     {
-      "added_at": "2025-02-07 05:00:47",
-      "album": {
-        "name": "Damage",
-        "url": "https://open.spotify.com/album/1nYaZZovs0DuMxyYn79XP9"
-      },
-      "artists": [
-        {
-          "name": "Virtual Riot",
-          "url": "https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1"
-        },
-        {
-          "name": "DJ DIESEL",
-          "url": "https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u"
-        },
-        {
-          "name": "Shaquille O'Neal",
-          "url": "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
-        }
-      ],
-      "duration_ms": 195200,
-      "name": "Damage",
-      "url": "https://open.spotify.com/track/4uwscfpPs3qMpswueaKISw"
-    },
-    {
       "added_at": "2025-01-24 05:00:57",
       "album": {
         "name": "Raving In The Studio",
@@ -1651,26 +1667,6 @@
       "duration_ms": 183771,
       "name": "Raving In The Studio",
       "url": "https://open.spotify.com/track/6TAbRIua9JOTmqGMjGWe4d"
-    },
-    {
-      "added_at": "2025-02-07 05:00:47",
-      "album": {
-        "name": "Out Of Control",
-        "url": "https://open.spotify.com/album/5Fzg5JxyGtVdt10KoyHwYc"
-      },
-      "artists": [
-        {
-          "name": "Taiki Nulight",
-          "url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
-        },
-        {
-          "name": "borne",
-          "url": "https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Out of Control",
-      "url": "https://open.spotify.com/track/6QPmvFHUfdCMg2ubBjZdFh"
     },
     {
       "added_at": "2025-02-14 05:00:49",
@@ -1883,22 +1879,6 @@
       "duration_ms": 108669,
       "name": "No Brakes",
       "url": "https://open.spotify.com/track/7t47Clhjv0tivc9lPCV61Q"
-    },
-    {
-      "added_at": "2024-10-11 14:09:12",
-      "album": {
-        "name": "Brotha Eww",
-        "url": "https://open.spotify.com/album/514pQurKzmSVwbm2skRShQ"
-      },
-      "artists": [
-        {
-          "name": "VLCN",
-          "url": "https://open.spotify.com/artist/4jTgru4XsqeKA1L9xB9AzW"
-        }
-      ],
-      "duration_ms": 127500,
-      "name": "Brotha Eww",
-      "url": "https://open.spotify.com/track/6JLvSUXKFnCrJDgeIP3OjN"
     },
     {
       "added_at": "2024-06-21 07:35:38",

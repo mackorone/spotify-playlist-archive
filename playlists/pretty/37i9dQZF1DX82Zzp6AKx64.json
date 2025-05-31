@@ -1,6 +1,6 @@
 {
   "description": "Emotional and powerful - let your feelings out with these rock power ballads. Cover: Tina Turner",
-  "num_followers": 1205949,
+  "num_followers": 1206020,
   "original_name": "Rock Power Ballads",
   "owner": {
     "name": "Spotify",
@@ -395,6 +395,22 @@
     {
       "added_at": "2024-06-26 02:22:53",
       "album": {
+        "name": "Hold Your Fire",
+        "url": "https://open.spotify.com/album/5XUrP0lz9D0I8qkly4uvQy"
+      },
+      "artists": [
+        {
+          "name": "Firehouse",
+          "url": "https://open.spotify.com/artist/28pS8WVbFstY0o1SrqCf8I"
+        }
+      ],
+      "duration_ms": 239866,
+      "name": "When I Look Into Your Eyes",
+      "url": "https://open.spotify.com/track/1yJWqYYDQge60nZKdLyiZU"
+    },
+    {
+      "added_at": "2024-06-26 02:22:53",
+      "album": {
         "name": "Bad English",
         "url": "https://open.spotify.com/album/0oNZnqsNbKKMKedFNNRs69"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 256200,
       "name": "Amanda",
       "url": "https://open.spotify.com/track/4gpext9x0CbdD9NWaa4nDj"
-    },
-    {
-      "added_at": "2024-06-26 02:22:53",
-      "album": {
-        "name": "Hold Your Fire",
-        "url": "https://open.spotify.com/album/5XUrP0lz9D0I8qkly4uvQy"
-      },
-      "artists": [
-        {
-          "name": "Firehouse",
-          "url": "https://open.spotify.com/artist/28pS8WVbFstY0o1SrqCf8I"
-        }
-      ],
-      "duration_ms": 239866,
-      "name": "When I Look Into Your Eyes",
-      "url": "https://open.spotify.com/track/1yJWqYYDQge60nZKdLyiZU"
     },
     {
       "added_at": "2024-06-26 02:22:53",
@@ -475,6 +475,22 @@
     {
       "added_at": "2024-06-26 02:22:53",
       "album": {
+        "name": "Good Acoustics",
+        "url": "https://open.spotify.com/album/58YDbRSyKuN0hUAPBS7Ywv"
+      },
+      "artists": [
+        {
+          "name": "Firehouse",
+          "url": "https://open.spotify.com/artist/28pS8WVbFstY0o1SrqCf8I"
+        }
+      ],
+      "duration_ms": 261906,
+      "name": "I Live My Life for You",
+      "url": "https://open.spotify.com/track/47RAxX2yfiZWmsNKLvjQON"
+    },
+    {
+      "added_at": "2024-06-26 02:22:53",
+      "album": {
         "name": "Empire - 20th Anniversary Edition",
         "url": "https://open.spotify.com/album/6jmesEKzKTLAa3oI96jWow"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 208560,
       "name": "Wild World",
       "url": "https://open.spotify.com/track/2kj5f1eRhUFhW6K0qUwoD8"
-    },
-    {
-      "added_at": "2024-06-26 02:22:53",
-      "album": {
-        "name": "Good Acoustics",
-        "url": "https://open.spotify.com/album/58YDbRSyKuN0hUAPBS7Ywv"
-      },
-      "artists": [
-        {
-          "name": "Firehouse",
-          "url": "https://open.spotify.com/artist/28pS8WVbFstY0o1SrqCf8I"
-        }
-      ],
-      "duration_ms": 261906,
-      "name": "I Live My Life for You",
-      "url": "https://open.spotify.com/track/47RAxX2yfiZWmsNKLvjQON"
     },
     {
       "added_at": "2024-06-26 02:22:53",
@@ -555,18 +555,18 @@
     {
       "added_at": "2024-06-26 02:22:53",
       "album": {
-        "name": "Damn Yankees",
-        "url": "https://open.spotify.com/album/2GSZ2kruaBmA5hR9xngeBX"
+        "name": "Firehouse (2024 Remaster)",
+        "url": "https://open.spotify.com/album/1qO6xwjpMSZ5qLexoXs43T"
       },
       "artists": [
         {
-          "name": "Damn Yankees",
-          "url": "https://open.spotify.com/artist/7ihLzUpuNecU5VBkvOUDNq"
+          "name": "Firehouse",
+          "url": "https://open.spotify.com/artist/28pS8WVbFstY0o1SrqCf8I"
         }
       ],
-      "duration_ms": 287320,
-      "name": "High Enough",
-      "url": "https://open.spotify.com/track/5t5rCnsgRBtcKqTB7SbD1Q"
+      "duration_ms": 285937,
+      "name": "Love of a Lifetime (2024 Remaster)",
+      "url": "https://open.spotify.com/track/2kDH08boXJyhKMl5hnZbrE"
     },
     {
       "added_at": "2024-06-26 02:22:53",
@@ -587,18 +587,18 @@
     {
       "added_at": "2024-06-26 02:22:53",
       "album": {
-        "name": "Firehouse (2024 Remaster)",
-        "url": "https://open.spotify.com/album/1qO6xwjpMSZ5qLexoXs43T"
+        "name": "Damn Yankees",
+        "url": "https://open.spotify.com/album/2GSZ2kruaBmA5hR9xngeBX"
       },
       "artists": [
         {
-          "name": "Firehouse",
-          "url": "https://open.spotify.com/artist/28pS8WVbFstY0o1SrqCf8I"
+          "name": "Damn Yankees",
+          "url": "https://open.spotify.com/artist/7ihLzUpuNecU5VBkvOUDNq"
         }
       ],
-      "duration_ms": 285937,
-      "name": "Love of a Lifetime (2024 Remaster)",
-      "url": "https://open.spotify.com/track/2kDH08boXJyhKMl5hnZbrE"
+      "duration_ms": 287320,
+      "name": "High Enough",
+      "url": "https://open.spotify.com/track/5t5rCnsgRBtcKqTB7SbD1Q"
     },
     {
       "added_at": "2024-06-26 02:22:53",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-06-26 02:22:53",
       "album": {
-        "name": "New Jersey",
-        "url": "https://open.spotify.com/album/7CNtnpBoG1lsUBWwpnJjwv"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 346586,
-      "name": "I'll Be There For You",
-      "url": "https://open.spotify.com/track/67YIAxlMlfSNmbnt83zGKh"
-    },
-    {
-      "added_at": "2024-06-26 02:22:53",
-      "album": {
         "name": "Holy Water",
         "url": "https://open.spotify.com/album/30ts0TMRhxu4usurOw99cE"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 261000,
       "name": "If You Needed Somebody",
       "url": "https://open.spotify.com/track/6GaFUMG9opnMytdc0lwnQw"
+    },
+    {
+      "added_at": "2024-06-26 02:22:53",
+      "album": {
+        "name": "New Jersey",
+        "url": "https://open.spotify.com/album/7CNtnpBoG1lsUBWwpnJjwv"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 346586,
+      "name": "I'll Be There For You",
+      "url": "https://open.spotify.com/track/67YIAxlMlfSNmbnt83zGKh"
     },
     {
       "added_at": "2024-06-26 02:22:53",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-06-26 02:22:53",
       "album": {
-        "name": "Prisoners In Paradise",
-        "url": "https://open.spotify.com/album/6bjLeNJ4eSTiEwMxqWeFYp"
-      },
-      "artists": [
-        {
-          "name": "Europe",
-          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
-        }
-      ],
-      "duration_ms": 321266,
-      "name": "I'll Cry For You",
-      "url": "https://open.spotify.com/track/5fPIx4t5vomPE9cWnTL6gv"
-    },
-    {
-      "added_at": "2024-06-26 02:22:53",
-      "album": {
         "name": "The Essential Survivor",
         "url": "https://open.spotify.com/album/0SPJ2DOCEtX6l3MkLA2fbQ"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 230413,
       "name": "Burning Heart - From \"Rocky IV\" Soundtrack",
       "url": "https://open.spotify.com/track/2hjQWuAy9fsSykGerWU8Wi"
+    },
+    {
+      "added_at": "2024-06-26 02:22:53",
+      "album": {
+        "name": "Prisoners In Paradise",
+        "url": "https://open.spotify.com/album/6bjLeNJ4eSTiEwMxqWeFYp"
+      },
+      "artists": [
+        {
+          "name": "Europe",
+          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
+        }
+      ],
+      "duration_ms": 321266,
+      "name": "I'll Cry For You",
+      "url": "https://open.spotify.com/track/5fPIx4t5vomPE9cWnTL6gv"
     },
     {
       "added_at": "2024-06-26 02:22:53",
@@ -1535,8 +1535,8 @@
     {
       "added_at": "2024-06-26 02:22:53",
       "album": {
-        "name": "Hungry",
-        "url": "https://open.spotify.com/album/6ehiAquVebqoHhN4VXTEQ1"
+        "name": "XYZ",
+        "url": "https://open.spotify.com/album/0lqnYDP3PMremkTQyG2F65"
       },
       "artists": [
         {
@@ -1544,9 +1544,9 @@
           "url": "https://open.spotify.com/artist/7M26B2dpKVQ30MPUYvzWXk"
         }
       ],
-      "duration_ms": 257133,
-      "name": "When I Find Love",
-      "url": "https://open.spotify.com/track/5jFJ4uD1C5IKc1zmLmp0TO"
+      "duration_ms": 282772,
+      "name": "What Keeps Me Loving You",
+      "url": "https://open.spotify.com/track/01w2LL7wrPyb4B3D6KhlIi"
     },
     {
       "added_at": "2024-06-26 02:22:53",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2024-06-26 02:22:53",
       "album": {
-        "name": "Black Rain (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6wiS0vTk9GfsiUKJEOav8Z"
+        "name": "New Religion",
+        "url": "https://open.spotify.com/album/4hdK3YjlI5JFKqwuKsPscx"
       },
       "artists": [
         {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+          "name": "Crazy Lixx",
+          "url": "https://open.spotify.com/artist/24k1UCsJJHHU9ohk7YIvzC"
         }
       ],
-      "duration_ms": 277400,
-      "name": "Here for You",
-      "url": "https://open.spotify.com/track/3PcdvDVTHoRd46A3vPrRG2"
+      "duration_ms": 245573,
+      "name": "Blame It On Love",
+      "url": "https://open.spotify.com/track/0MF8I8OUo8kytiOo8aSHYq"
     }
   ],
   "unique_name": "Rock Power Ballads",

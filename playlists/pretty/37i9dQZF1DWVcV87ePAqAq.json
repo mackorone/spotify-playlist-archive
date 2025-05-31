@@ -1,6 +1,6 @@
 {
   "description": "Flaket kommer studsa!",
-  "num_followers": 356305,
+  "num_followers": 356284,
   "original_name": "Studentfest!",
   "owner": {
     "name": "Spotify",
@@ -599,6 +599,26 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "Din tid kommer (Otto Knows Remix)",
+        "url": "https://open.spotify.com/album/1L25xMsuDCuBcb0rJnggWr"
+      },
+      "artists": [
+        {
+          "name": "H\u00e5kan Hellstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
+        },
+        {
+          "name": "Otto Knows",
+          "url": "https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8"
+        }
+      ],
+      "duration_ms": 286875,
+      "name": "Din tid kommer - Otto Knows Remix",
+      "url": "https://open.spotify.com/track/04LHuPqOMSpnHFaziPq1qO"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "PATT (Party All The Time) [Adam Beyer, Layton Giordani & Green Velvet Remix]",
         "url": "https://open.spotify.com/album/5GqWIHTVjceZXGpzIc1a2J"
       },
@@ -623,26 +643,6 @@
       "duration_ms": 183157,
       "name": "PATT (Party All The Time) - Adam Beyer, Layton Giordani & Green Velvet Remix",
       "url": "https://open.spotify.com/track/6DFHSmlrZLDZnXV5kTTMF6"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Din tid kommer (Otto Knows Remix)",
-        "url": "https://open.spotify.com/album/1L25xMsuDCuBcb0rJnggWr"
-      },
-      "artists": [
-        {
-          "name": "H\u00e5kan Hellstr\u00f6m",
-          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
-        },
-        {
-          "name": "Otto Knows",
-          "url": "https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8"
-        }
-      ],
-      "duration_ms": 286875,
-      "name": "Din tid kommer - Otto Knows Remix",
-      "url": "https://open.spotify.com/track/04LHuPqOMSpnHFaziPq1qO"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -867,26 +867,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "When I Wake Up",
-        "url": "https://open.spotify.com/album/5pTuebKZdnDlMTRhUidinz"
-      },
-      "artists": [
-        {
-          "name": "Lucas & Steve",
-          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
-        },
-        {
-          "name": "Skinny Days",
-          "url": "https://open.spotify.com/artist/4Q8IIlsZsXY1BgPzaz4DYq"
-        }
-      ],
-      "duration_ms": 143100,
-      "name": "When I Wake Up",
-      "url": "https://open.spotify.com/track/3YDjGm8NogZVxOp9aHA4MZ"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "Summer Dreaming",
         "url": "https://open.spotify.com/album/1utYmp79N55k5BY0X3tv4R"
       },
@@ -907,6 +887,26 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "When I Wake Up",
+        "url": "https://open.spotify.com/album/5pTuebKZdnDlMTRhUidinz"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        },
+        {
+          "name": "Skinny Days",
+          "url": "https://open.spotify.com/artist/4Q8IIlsZsXY1BgPzaz4DYq"
+        }
+      ],
+      "duration_ms": 143100,
+      "name": "When I Wake Up",
+      "url": "https://open.spotify.com/track/3YDjGm8NogZVxOp9aHA4MZ"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "\u00c4lskade \u00e4ngel",
         "url": "https://open.spotify.com/album/6c5kxwjde7x9yPzQlBrw1b"
       },
@@ -919,46 +919,6 @@
       "duration_ms": 151500,
       "name": "\u00c4lskade \u00e4ngel",
       "url": "https://open.spotify.com/track/7xIPafRGjjnaarcgYXGwAp"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Soffa fr\u00e5n IKEA",
-        "url": "https://open.spotify.com/album/3PlZa86ePY7OisgM0jWjoa"
-      },
-      "artists": [
-        {
-          "name": "Ringnes-Ronny",
-          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
-        },
-        {
-          "name": "Elov & Beny",
-          "url": "https://open.spotify.com/artist/4uAXlCewJdAu44uAHehKfd"
-        }
-      ],
-      "duration_ms": 149499,
-      "name": "Soffa fr\u00e5n IKEA",
-      "url": "https://open.spotify.com/track/31hIfKm7C5TroLqa2Lubap"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "VOI TILL MIN FUCKBOI",
-        "url": "https://open.spotify.com/album/2CuUNP6q3OohkEEUw2orgT"
-      },
-      "artists": [
-        {
-          "name": "FR\u00d6KEN SNUSK",
-          "url": "https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt"
-        },
-        {
-          "name": "Rasmus Gozzi",
-          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
-        }
-      ],
-      "duration_ms": 142304,
-      "name": "VOI TILL MIN FUCKBOI",
-      "url": "https://open.spotify.com/track/7MVDhCrcjzdEdZbOkZa2XV"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -987,6 +947,46 @@
       "duration_ms": 227283,
       "name": "Honey Boy (feat. Nile Rodgers & Shenseea)",
       "url": "https://open.spotify.com/track/1xIhiVVntsudPMTRFoODyo"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "VOI TILL MIN FUCKBOI",
+        "url": "https://open.spotify.com/album/2CuUNP6q3OohkEEUw2orgT"
+      },
+      "artists": [
+        {
+          "name": "FR\u00d6KEN SNUSK",
+          "url": "https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt"
+        },
+        {
+          "name": "Rasmus Gozzi",
+          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
+        }
+      ],
+      "duration_ms": 142304,
+      "name": "VOI TILL MIN FUCKBOI",
+      "url": "https://open.spotify.com/track/7MVDhCrcjzdEdZbOkZa2XV"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Soffa fr\u00e5n IKEA",
+        "url": "https://open.spotify.com/album/3PlZa86ePY7OisgM0jWjoa"
+      },
+      "artists": [
+        {
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        },
+        {
+          "name": "Elov & Beny",
+          "url": "https://open.spotify.com/artist/4uAXlCewJdAu44uAHehKfd"
+        }
+      ],
+      "duration_ms": 149499,
+      "name": "Soffa fr\u00e5n IKEA",
+      "url": "https://open.spotify.com/track/31hIfKm7C5TroLqa2Lubap"
     },
     {
       "added_at": "2024-06-13 22:00:00",

@@ -854,7 +854,7 @@
       ],
       "date_added": "2024-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-30",
+      "date_removed": null,
       "duration_ms": 214915,
       "name": "Ahu",
       "url": "https://open.spotify.com/track/5dIFM4dkwEjMnFppbHTsEA"
@@ -1749,6 +1749,24 @@
     },
     {
       "album": {
+        "name": "Festival",
+        "url": "https://open.spotify.com/album/6IsCf9WYDZrS0lQkFnwmCi"
+      },
+      "artists": [
+        {
+          "name": "Kenan Do\u011fulu",
+          "url": "https://open.spotify.com/artist/2RQ8NtUmg5y6tfbvCwX8jI"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279799,
+      "name": "Ara Beni L\u00fctfen",
+      "url": "https://open.spotify.com/track/6wW7ZgvYwgOKCRLeqYEM6y"
+    },
+    {
+      "album": {
         "name": "ARABA",
         "url": "https://open.spotify.com/album/6qk5ajwfXB8QplASyF7lXH"
       },
@@ -2230,7 +2248,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 184968,
       "name": "A\u011fla",
       "url": "https://open.spotify.com/track/2fnTOxrBmArhS5SZSE20zM"
@@ -2248,7 +2266,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-26",
+      "date_removed": null,
       "duration_ms": 184968,
       "name": "A\u011fla",
       "url": "https://open.spotify.com/track/6UJu0bCXSi91whMUJJOct5"
@@ -4160,7 +4178,7 @@
       ],
       "date_added": "2025-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 208493,
       "name": "Bir Dudaktan",
       "url": "https://open.spotify.com/track/12vJUYMaIzuozhvi3WJsXu"
@@ -5512,7 +5530,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 136009,
       "name": "CISTAK",
       "url": "https://open.spotify.com/track/0bvgWq2ZUhwwjLR1AMcQDs"
@@ -7518,6 +7536,24 @@
       "duration_ms": 194823,
       "name": "Ecel",
       "url": "https://open.spotify.com/track/1JHXef0dGiPJbxgIc3C2Jh"
+    },
+    {
+      "album": {
+        "name": "GASSAL (2. Sezon Soundtrack)",
+        "url": "https://open.spotify.com/album/3Xp3DqpbV34eIrvDLT2zmu"
+      },
+      "artists": [
+        {
+          "name": "Bayhan",
+          "url": "https://open.spotify.com/artist/7yiLonxrJVgZKSbjo0gh6V"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187285,
+      "name": "Efendim \u0130\u015fitmedim - 2. Sezon Soundtrack",
+      "url": "https://open.spotify.com/track/0M2Iwnbm8vp0c5YDdUX3Pu"
     },
     {
       "album": {
@@ -15974,7 +16010,7 @@
       ],
       "date_added": "2025-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-26",
+      "date_removed": null,
       "duration_ms": 151290,
       "name": "NEON",
       "url": "https://open.spotify.com/track/4DPjZs1Jjw5mQ41w0xt9KA"
@@ -18870,7 +18906,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 271210,
       "name": "Sayg\u0131mdan",
       "url": "https://open.spotify.com/track/4E10qEzOmTIVmrg6Wz2RHj"
@@ -19882,7 +19918,7 @@
       ],
       "date_added": "2025-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-29",
+      "date_removed": null,
       "duration_ms": 236888,
       "name": "Son Bir Rica",
       "url": "https://open.spotify.com/track/5mJPC56kBRnB9rLGLs85rr"
@@ -22036,7 +22072,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 265964,
       "name": "Yank\u0131",
       "url": "https://open.spotify.com/track/4y3QBJf9E8yDJCEFbRK8xk"
@@ -22076,7 +22112,7 @@
       ],
       "date_added": "2025-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 126000,
       "name": "Yanl\u0131\u015flarla Kar\u015f\u0131la\u015ft\u0131m",
       "url": "https://open.spotify.com/track/1AL39PMHvgw979PFKiEOhb"

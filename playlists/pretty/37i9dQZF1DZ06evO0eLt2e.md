@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eLt2e.md) - [plain]
 
 > This is Kris Kristofferson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,538 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,542 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eLt2e.md) - [plain]
 | 49 | [Thank You for a Life](https://open.spotify.com/track/3WGn1HhbtON4FIYVin8IEU) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [This Old Road](https://open.spotify.com/album/7sLlrcE7ECO5LEHfrBrxU8) | 3:44 |
 | 50 | [Sweet Susannah](https://open.spotify.com/track/2m8tfuW4uAlZDMGB6O0hQG) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX), [Rita Coolidge](https://open.spotify.com/artist/1vnIL4DMlivP55ioM6KitW) | [Breakaway](https://open.spotify.com/album/5E2qk8NPadk7IY7yXiOXtB) | 2:32 |
 
-Snapshot ID: `aDZSAAAAAADViJoqu5HaXB+gUqj9qMFq`
+Snapshot ID: `aDejgAAAAADn3fLyQMyp1Ny1mkgzpfkO`

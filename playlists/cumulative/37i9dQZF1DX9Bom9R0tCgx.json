@@ -325,6 +325,24 @@
     },
     {
       "album": {
+        "name": "All the Words",
+        "url": "https://open.spotify.com/album/6TeBQio4FdgJal8lUyL1Sx"
+      },
+      "artists": [
+        {
+          "name": "Quickdrop",
+          "url": "https://open.spotify.com/artist/5zwFj25Ky9akUZjQHuaDDa"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212003,
+      "name": "All the Words",
+      "url": "https://open.spotify.com/track/4R6VbbLXRnWG4ew0coDC27"
+    },
+    {
+      "album": {
         "name": "ALONE (HYPERTECHNO)",
         "url": "https://open.spotify.com/album/6oxP7oaH3KeE5lvZQuBgl9"
       },
@@ -1527,6 +1545,28 @@
     },
     {
       "album": {
+        "name": "Bumpin",
+        "url": "https://open.spotify.com/album/43Bw4HDVogVZKCmfNbbtS4"
+      },
+      "artists": [
+        {
+          "name": "Faustix",
+          "url": "https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd"
+        },
+        {
+          "name": "Gelida",
+          "url": "https://open.spotify.com/artist/3zlRoYmaLR1ogMVyJxfjag"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167500,
+      "name": "Bumpin'",
+      "url": "https://open.spotify.com/track/6xTksdQ0Fi0iF1qpURXI5E"
+    },
+    {
+      "album": {
         "name": "Burn",
         "url": "https://open.spotify.com/album/7ioeb14iIitWm03e7K9eXq"
       },
@@ -2032,7 +2072,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 172800,
       "name": "Dance All Night",
       "url": "https://open.spotify.com/track/3OJENYg8GhnZnEQ5yEABB3"
@@ -6728,7 +6768,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 160024,
       "name": "My Body (feat. Y&M)",
       "url": "https://open.spotify.com/track/2SrEtVmJxuhLTshjg6tYpZ"
@@ -8942,7 +8982,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 205116,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/3tHCG0ISOA0pXscIdNrJml"
@@ -10232,6 +10272,28 @@
       "duration_ms": 241636,
       "name": "Superpower - Stonebank Remix",
       "url": "https://open.spotify.com/track/37xLtEF5Ewn0U1PFHyTjoK"
+    },
+    {
+      "album": {
+        "name": "Supersized",
+        "url": "https://open.spotify.com/album/0nKhzwfhFpXtnvGprkUWhH"
+      },
+      "artists": [
+        {
+          "name": "DJSM",
+          "url": "https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx"
+        },
+        {
+          "name": "Notelle",
+          "url": "https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144330,
+      "name": "Supersized",
+      "url": "https://open.spotify.com/track/2i1ZT6tuBF4YNj8nkEx5n1"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > La casa del trap chileno al mando de AQUA VS.
 
-274 songs - 14 hr 6 min
+276 songs - 14 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Diabla Llorens](https://open.spotify.com/track/3ZKCz9ugdd2Tk5Ji7m7RLA) | [Bby Sowl](https://open.spotify.com/artist/2d0aBDmcK49NFCgnMI6BIR), [Tito Heiz](https://open.spotify.com/artist/4tZ34WhdturpNq5tUNUwe6) | [Diabla Llorens](https://open.spotify.com/album/12V54VE5FmoOcq2QWLv9Jn) | 2:58 | 2024-04-19 | 2024-08-24 |
 | [Digame Usted](https://open.spotify.com/track/5ePqRYI7zlRq7xCDfO3cJ7) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Digame Usted](https://open.spotify.com/album/4Vg4wY0Q2AbagHXRzfRENF) | 2:21 | 2022-01-20 |  |
 | [Dinero](https://open.spotify.com/track/0rYe2Q8YgxMYJU0K0P5ZCY) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz) | [Dinero](https://open.spotify.com/album/78pA1wKO2gtUy6oEpil36j) | 2:51 | 2023-08-11 | 2023-12-09 |
+| [Dior](https://open.spotify.com/track/5YKUu6prKi5EnU4DTtDbjT) | [Tommy Boysen](https://open.spotify.com/artist/0wWmUneAuhQn9L3qibj5UO) | [Dior](https://open.spotify.com/album/0DvBOmw9z0EBxLrg1a2iRD) | 2:18 | 2025-05-30 |  |
 | [Drama](https://open.spotify.com/track/4ornlDArKwc3lubymSdCPt) | [Droow](https://open.spotify.com/artist/54U7OiU7yC2eB4Ij71sqlW) | [Drama](https://open.spotify.com/album/74I5QkFGAkIPBaXFCPwU6H) | 3:41 | 2023-09-08 | 2024-03-01 |
 | [DÍGITOS](https://open.spotify.com/track/0SUjxi6zWnsZtXyyGlABT9) | [DIGITAL KINGZ](https://open.spotify.com/artist/57KTCkLFeUtf1TdKiRMGnG), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul) | [DÍGITOS](https://open.spotify.com/album/5PYMBq2SnHpPVG6QkYvjHc) | 3:09 | 2022-01-20 | 2022-05-28 |
 | [El Extendo](https://open.spotify.com/track/13dOCMI6S2yLVvmC3CgDW5) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [Keylon](https://open.spotify.com/artist/2GxzgycJFZivGAteZpqUe5), [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [No Saen](https://open.spotify.com/album/0oBbkkIclDNAUd69NzIyys) | 2:54 | 2022-01-20 | 2024-02-03 |
@@ -220,6 +221,7 @@
 | [Shorty](https://open.spotify.com/track/7M5nHfXQazRlUm1FIzQhgd) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy), [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL), [Chesckv Liz](https://open.spotify.com/artist/6nms8fUOJpFa8C5IbPzzT5) | [Mami Trap](https://open.spotify.com/album/1rBnUQFkExXRLnVaYJzyhh) | 3:40 | 2023-07-21 | 2023-07-29 |
 | [Shorty](https://open.spotify.com/track/7qKc4liOypG0CwDYQBYa9X) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy), [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL), [Cheskv Liz](https://open.spotify.com/artist/5K9EtnARaTKRXF4d7onHBv) | [Mami Trap](https://open.spotify.com/album/6WGQyk4qU39c8CUx07IzSc) | 3:40 | 2023-02-24 | 2023-07-28 |
 | [Shupano \(feat\. Young Cister, Bryartz & Shisosa\)](https://open.spotify.com/track/2CIx7kjDwTdNNyMuC7sDFM) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Bryartz](https://open.spotify.com/artist/7kvnG7JhX0ycVMVb8SP8EL), [Shisosa](https://open.spotify.com/artist/5RsDsSAjkrjeEekDmtbJKJ) | [El Duende Verde](https://open.spotify.com/album/0IofEJkMDwGzX6Azp11wxl) | 2:40 | 2023-03-30 |  |
+| [Si Mañana Me Muero](https://open.spotify.com/track/5xkWldT1xIwnEDi1qMAzjj) | [Piromano El Del Flow Gitano](https://open.spotify.com/artist/2tXI6NDbDCXr0mlN1kJIl0) | [Si Mañana Me Muero](https://open.spotify.com/album/2qrHvaUpDqR3OBQXWR3hat) | 2:40 | 2025-05-30 |  |
 | [Siciliano](https://open.spotify.com/track/6z1LXHyx2AwwQGXoMUjjbV) | [Balbi El Chamako](https://open.spotify.com/artist/3k090bKo2iSqNdowffKHrt), [Piero 47](https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB) | [Siciliano](https://open.spotify.com/album/3cYJzm7oqoJXyw3VX3Ohkp) | 3:13 | 2023-09-01 |  |
 | [Silent Hill \(feat\. Flor De Rap\)](https://open.spotify.com/track/63ri7MQ6AxvUXHoBOuzccg) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7) | [El Duende Verde](https://open.spotify.com/album/0IofEJkMDwGzX6Azp11wxl) | 3:44 | 2023-03-30 |  |
 | [Sin Bajarle](https://open.spotify.com/track/62CE9w9aL3LnDy9PShDUsy) | [Kadel](https://open.spotify.com/artist/5ODTiBesp5HiX746gyAkbF) | [Sin Bajarle](https://open.spotify.com/album/36KGaj6QlQhnsoxkqorJQX) | 1:52 | 2022-01-20 | 2022-05-28 |

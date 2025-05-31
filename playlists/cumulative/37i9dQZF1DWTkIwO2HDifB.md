@@ -2,7 +2,7 @@
 
 ### [Funk Hits](https://open.spotify.com/playlist/37i9dQZF1DWTkIwO2HDifB)
 
-> Os funks mais 🔑 do Brasil / Foto: MCJacaré
+> Os funks mais 🔑 do Brasil / Foto: Mc Jacaré
 
 357 songs - 21 hr 15 min
 

@@ -2,9 +2,9 @@
 
 ### [AULAS](https://open.spotify.com/playlist/37i9dQZF1DWSIvbYYt1Dvi)
 
-> stefanie metendo marcha e AULAS \- maat tb é porque eu rimo pt2
+> é o patrono te dando AULAS de vivência, anota
 
-426 songs - 23 hr 29 min
+428 songs - 23 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [God Bless](https://open.spotify.com/track/6R5HTxqW0yOl7UUYqnhJmm) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Fúria](https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS) | [Zulu: Quarta Parede, Vol.3](https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ) | 3:48 | 2023-07-28 | 2023-10-14 |
 | [Groupies](https://open.spotify.com/track/3ua3rqwBNmeGeQfcKnA3bT) | [Doode](https://open.spotify.com/artist/3Ns5FA1ANQOzsHLWspsrC6), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo), [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [Groupies](https://open.spotify.com/album/6GyknQiPJF4HKS85cxB5Wi) | 2:44 | 2022-01-14 | 2022-03-18 |
 | [GRÉCIA](https://open.spotify.com/track/66WeFkFXdWoDaKgk8SrnBs) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [MAIOR QUE O TEMPO](https://open.spotify.com/album/3Cjn6aliQrVp6MPiU4oAdw) | 3:42 | 2025-04-14 |  |
+| [GTA](https://open.spotify.com/track/4rq7f9LzEu2fqtkUj1anFX) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [GTA](https://open.spotify.com/artist/1d2nSDIlSzl93ajFcmVO2w) | [FRAGMENTADO](https://open.spotify.com/album/00EpdnJTbeKfWrc7FI7Q2H) | 3:22 | 2025-05-30 |  |
 | [Hannibal](https://open.spotify.com/track/7uklXzt9Rea9jF2WrlvLCB) | [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS), [Chiocki](https://open.spotify.com/artist/0UFcxMt1Cv90Y1qKpVDT5Z), [Choji](https://open.spotify.com/artist/2gx1zKYcIAUboisufcHkjB) | [Hannibal](https://open.spotify.com/album/76OIyrsvPCUMfYUn7nwYJn) | 2:17 | 2024-01-19 | 2024-08-09 |
 | [HERMÈS](https://open.spotify.com/track/65YQv0Ulsp2ZnL0Uv4l6Nu) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [LeodoKick](https://open.spotify.com/artist/1WZNkLRhjvZKzZlSKL7FxX), [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs) | [HERMÈS](https://open.spotify.com/album/1T8ofDIXhsAiB6jN9cxtcG) | 2:51 | 2022-01-14 | 2022-08-13 |
 | [Imprevisto](https://open.spotify.com/track/0oZrvoCYEbKGCsU7cQqNnw) | [Yago Oproprio](https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497), [Rô Rosa](https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B), [Skeeter Beats](https://open.spotify.com/artist/42xf1iqSOZluDWJ8RW2B9H) | [Imprevisto](https://open.spotify.com/album/4KbiGCm9vDI0dLXwGGXktY) | 2:19 | 2022-09-02 | 2024-09-14 |
@@ -234,6 +235,7 @@
 | [Menorzão](https://open.spotify.com/track/54cMvqyAt0IbPaPHoIW1dc) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Derxan](https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt), [Pior Versão de Mim](https://open.spotify.com/artist/3VI6PCewAVll6K4cYoNWt7), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0) | [MIXTAPE EU MERMO](https://open.spotify.com/album/7vRgYe1RGL5md2vIZQadmW) | 2:58 | 2023-10-27 | 2024-01-27 |
 | [Mensagem 2](https://open.spotify.com/track/3iZEhKaTMWl2W9IPh8mITL) | [Mc Kevin](https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa), [DJ Negret](https://open.spotify.com/artist/2QjuiqjrRDISMbPYSNKRna) | [Mensagem 2](https://open.spotify.com/album/1Onvt9GCYQ46aruicT8QLM) | 2:31 | 2022-05-06 | 2023-04-09 |
 | [Mente Engatilhada](https://open.spotify.com/track/71p3WUGRSiztUpOeAzVWTe) | [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [Ashira](https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa), [Xis](https://open.spotify.com/artist/1y8yhK12XTLCbWDs4aLgc1) | [A Mensagem](https://open.spotify.com/album/2VuAaT3eTjX109FTmDlIf9) | 4:36 | 2024-10-25 | 2024-12-14 |
+| [Mente Pensante \- Bonus Track](https://open.spotify.com/track/0sdoMuL7ZIHl6Apq2WUhzJ) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy) | [DOIS Quebrada Inteligente](https://open.spotify.com/album/00pkLBvnhBT2avjAwmcSwY) | 3:49 | 2025-05-30 |  |
 | [Meu Problema](https://open.spotify.com/track/7x9ZGBLZKTPplZIApLJ3Rz) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [Sexto Sentido](https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf) | 2:16 | 2024-10-11 |  |
 | [Michael B\. Jordan na fila do CAT](https://open.spotify.com/track/5QkftwgZtCYXwgHNxKyGQY) | [Jota Ghetto](https://open.spotify.com/artist/37HzB0soiShqHGooeDTEQ4) | [Recolhimento](https://open.spotify.com/album/7z9EQQRt1tACIbOVftwVRg) | 2:54 | 2024-04-12 | 2024-05-03 |
 | [Mil Motivos](https://open.spotify.com/track/46107kkgYPfPy8sC1WTJ6q) | [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [Mil Motivos](https://open.spotify.com/album/3qTDI8YeiQAZjQVxxkILim) | 3:08 | 2022-12-02 | 2024-07-27 |

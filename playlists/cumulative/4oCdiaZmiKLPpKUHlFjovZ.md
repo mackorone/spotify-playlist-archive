@@ -2,9 +2,9 @@
 
 ### [All The Way Up](https://open.spotify.com/playlist/4oCdiaZmiKLPpKUHlFjovZ)
 
-> Turn this playlist all the way up! Money Man, Rio Da Yung Og,  Peezy &amp; Tyga.
+> Turn this playlist all the way up! XXXTENTACION, Money Man, Rio Da Yung Og,  Peezy &amp; Tyga.
 
-150 songs - 6 hr 29 min
+153 songs - 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Crash Dummy](https://open.spotify.com/track/2CIBj8sa8gdqKWNvfVqp1o) | [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [RIO FREE \(Something Happen\)](https://open.spotify.com/album/7AjqeviBfyH4re7CWXuvtE) | 2:47 | 2025-02-11 |  |
 | [DAT BOY DEN](https://open.spotify.com/track/25uHS9sdrhZecYFfSRnz1k) | [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb) | [DAT BOY DEN](https://open.spotify.com/album/20AweIUmetnWYC7YdxCmir) | 2:24 | 2023-08-11 | 2025-03-05 |
 | [Demons In The Dark](https://open.spotify.com/track/7ePN9wgTZtse3drcVI4YD4) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Demons In The Dark](https://open.spotify.com/album/2b9zu0KdTmeLAdtNSNcvZw) | 2:36 | 2024-10-10 |  |
+| [Diamond Stitching](https://open.spotify.com/track/1cVDuG58Cj3RGe8ySKwY6i) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [Diamond Stitching](https://open.spotify.com/album/1SLHvtzblS30JZW9anryTE) | 2:29 | 2025-05-30 |  |
 | [Don't Play That](https://open.spotify.com/track/3IPGG5Niex4hGlXFOYWzp9) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [What It Means To Be King](https://open.spotify.com/album/3nrdCjP7QGBqMEutGTtT1B) | 2:13 | 2024-01-19 |  |
 | [Dreams](https://open.spotify.com/track/7yZB6fEE2uQdo1TSTCLAtj) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Dreams](https://open.spotify.com/album/3HT15k21n0cZ9T2MPVmt7I) | 2:27 | 2024-06-14 | 2025-03-05 |
 | [Drink Don't Need No Mix \(feat\. BigXthaPlug\)](https://open.spotify.com/track/1WhCAd5sv7rIO78kVgFxIt) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Where I've Been, Isn't Where I'm Going](https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3) | 2:13 | 2024-06-18 |  |
@@ -142,6 +143,7 @@
 | [The Warm Up](https://open.spotify.com/track/6bLLiQAShrb742zp2sdoai) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs) | [The Warm Up](https://open.spotify.com/album/3k8we0dTMGtINphGLPNNQe) | 2:35 | 2024-05-20 | 2025-03-05 |
 | [THUGGIN NOT CLUBBIN](https://open.spotify.com/track/5XKykbx4PClLewzOvlb2JX) | [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC), [AZ Chike](https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw) | [THUGGIN NOT CLUBBIN](https://open.spotify.com/album/6XKQ5hbDwFImvujXhPwpKZ) | 2:29 | 2025-05-14 |  |
 | [Tidal Wave](https://open.spotify.com/track/0yquoP4Aa49aT2n460pbYU) | [MO3](https://open.spotify.com/artist/44JEJiBvti7NiEhAfzWstv) | [Tidal Wave](https://open.spotify.com/album/2ltqTkAvRX2n5xfbC6s7ct) | 3:18 | 2024-05-15 | 2025-03-05 |
+| [Titi](https://open.spotify.com/track/56lGvDVasowdpufZnBJbuB) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [Uncle K: Lemon Chase](https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF) | 3:01 | 2025-05-30 |  |
 | [TOO BAD](https://open.spotify.com/track/0GOqhXyouUxqPEw9ypTOLm) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Übermensch](https://open.spotify.com/album/4FviRd7FubuuGNVt2qME1G) | 2:33 | 2025-03-04 |  |
 | [Took Her To The O](https://open.spotify.com/track/7fEoXCZTZFosUFvFQg1BmW) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp) | [Levon James](https://open.spotify.com/album/1ZRAeQ6zsPJ5W1K3DvpRpP) | 3:16 | 2024-01-19 |  |
 | [TRAPPii](https://open.spotify.com/track/1NnWem6HonEiI378MLLOH8) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [TRAPPii](https://open.spotify.com/album/7iF9xB4XpjpAUK1K3gQk7v) | 2:57 | 2023-09-28 | 2025-03-05 |
@@ -156,6 +158,7 @@
 | [Wave](https://open.spotify.com/track/780BUxpCmW9vOVYZsqdLLE) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Wave](https://open.spotify.com/album/65dLAih8fOf5UUkplKRvdR) | 3:25 | 2024-09-23 |  |
 | [Way Bigga](https://open.spotify.com/track/5JAUQsLfN5WJ0qL8KJan8l) | [Trigga500k](https://open.spotify.com/artist/3sKEcXiXfFmjp7qOo44qfx) | [Trimmer Den Ever](https://open.spotify.com/album/5XOuzRTrs00lsfbH1zXrIn) | 2:01 | 2023-11-03 | 2025-02-01 |
 | [West Coast Weekend](https://open.spotify.com/track/3qnznOzVFYuDWjidDAxEV4) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [West Coast Weekend](https://open.spotify.com/album/0JGkeI57qkg0jZbqPzzc25) | 3:19 | 2023-06-09 |  |
+| [whoa \(mind in awe\) \- Remix](https://open.spotify.com/track/4lkpfY2wfmHj958Fr32kHS) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [whoa \(mind in awe\) \[Remix\]](https://open.spotify.com/album/55lzDv6LGUMY1CdxWGAtic) | 3:16 | 2025-05-30 |  |
 | [Won't Be Lonely](https://open.spotify.com/track/1IV5X8CiOr1dfbQcmP2AWO) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv) | [The Big Bang](https://open.spotify.com/album/20pOEJXUCejxsAp14Uuc2e) | 3:50 | 2025-05-28 |  |
 | [Yea Freestyle](https://open.spotify.com/track/1tNIrPGSAhs4wquxihb01G) | [Cash Kidd](https://open.spotify.com/artist/26qmuJTgE3g67pPClBQ3Iu), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [No Socks 3](https://open.spotify.com/album/0TuZ9izuLgcVvN7dKyqRRb) | 3:06 | 2023-09-29 | 2024-01-20 |
 

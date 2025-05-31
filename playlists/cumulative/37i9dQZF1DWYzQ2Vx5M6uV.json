@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Heat that will make you sweat \ud83e\udd75 Cover: Be\u00e9le",
+  "description": "Heat that will make you sweat \ud83e\udd75 Cover: Myke Towers & Quevedo",
   "name": "Afro Ritmo",
   "tracks": [
     {
@@ -38,7 +38,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 148834,
       "name": "24Hrs",
       "url": "https://open.spotify.com/track/2ezaZrLBCkPJXHOaKPBH6p"
@@ -328,7 +328,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 289539,
       "name": "Ananipenda (feat. Soge Culebra, Marioo) - Remix",
       "url": "https://open.spotify.com/track/2SCK9dHI52spNQDwUCedD0"
@@ -1497,6 +1497,24 @@
     },
     {
       "album": {
+        "name": "El Problema (2020)",
+        "url": "https://open.spotify.com/album/7A7fxgXTMgJ0qGnMIzj0YG"
+      },
+      "artists": [
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150865,
+      "name": "El Problema (2020)",
+      "url": "https://open.spotify.com/track/5C5MyN6NWwcvcJNud1bkEp"
+    },
+    {
+      "album": {
         "name": "EMDDMV",
         "url": "https://open.spotify.com/album/6ziWmkk7khSe5U5QstUNtV"
       },
@@ -2112,7 +2130,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 221213,
       "name": "Intimidad",
       "url": "https://open.spotify.com/track/6SVb45xBP6v9EIliGDzWiF"
@@ -2762,7 +2780,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 194666,
       "name": "Madrid",
       "url": "https://open.spotify.com/track/6IYJaB2xU1tqIzAIF6pHxk"
@@ -3421,6 +3439,24 @@
     },
     {
       "album": {
+        "name": "NoNoNo",
+        "url": "https://open.spotify.com/album/3cVp5DmksK8HNLRn8gPGyh"
+      },
+      "artists": [
+        {
+          "name": "Ysa C",
+          "url": "https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "NoNoNo",
+      "url": "https://open.spotify.com/track/2nHLeUWCPePxL12o5JbHzZ"
+    },
+    {
+      "album": {
         "name": "Normal",
         "url": "https://open.spotify.com/album/0NfyRwPqxtCqpbxgMDBSuZ"
       },
@@ -3472,7 +3508,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 136615,
       "name": "Obsesi\u00f3n",
       "url": "https://open.spotify.com/track/7sllDb8lSLGnubFanPcU1h"
@@ -4663,6 +4699,28 @@
     },
     {
       "album": {
+        "name": "SOLEAO",
+        "url": "https://open.spotify.com/album/1UMdrgq8ZuZRrJv7ZLvjpP"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218305,
+      "name": "SOLEAO",
+      "url": "https://open.spotify.com/track/3jAshemiRYWukWLtT3Ivrb"
+    },
+    {
+      "album": {
         "name": "AFRICAN LOVER",
         "url": "https://open.spotify.com/album/5uty7nPyWOesMiYlgyRMgC"
       },
@@ -5234,7 +5292,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 169146,
       "name": "Tu Luz",
       "url": "https://open.spotify.com/track/4lEtb16YCHqT3NTxuZ1rzk"
@@ -5605,6 +5663,28 @@
     },
     {
       "album": {
+        "name": "Volver a Verte",
+        "url": "https://open.spotify.com/album/6xn0R7Iv47dIgId3xv9zaw"
+      },
+      "artists": [
+        {
+          "name": "Goyo",
+          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
+        },
+        {
+          "name": "Zaider",
+          "url": "https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183286,
+      "name": "Volver a Verte",
+      "url": "https://open.spotify.com/track/5tQSwzIY7MUXsGD2pVrpCB"
+    },
+    {
+      "album": {
         "name": "Vuelve",
         "url": "https://open.spotify.com/album/22YKWWUjZorWKzYWb0CcKJ"
       },
@@ -5646,6 +5726,24 @@
       "duration_ms": 121142,
       "name": "V\u00e1monos",
       "url": "https://open.spotify.com/track/2PkLYoUAu7a4Aa6Tek3htO"
+    },
+    {
+      "album": {
+        "name": "Wapa",
+        "url": "https://open.spotify.com/album/1wJB6OXKXyK6l0JYPNrEVq"
+      },
+      "artists": [
+        {
+          "name": "Jerry Di",
+          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159776,
+      "name": "Wapa",
+      "url": "https://open.spotify.com/track/3pKQxo7IgfYkT2BmU4yr4w"
     },
     {
       "album": {
@@ -5712,6 +5810,24 @@
       "duration_ms": 230967,
       "name": "YA LLORARE(MOS)",
       "url": "https://open.spotify.com/track/1FM64gZzMzOxLKbv93SDws"
+    },
+    {
+      "album": {
+        "name": "SEND\u00c9",
+        "url": "https://open.spotify.com/album/31y7z1FuIhCugObdlkkN0c"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "yo viendo",
+      "url": "https://open.spotify.com/track/13YKsJInLyGiJdEZEqqnzt"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > the beat of your drift
 
-818 songs - 1 day 5 hr 58 min
+819 songs - 1 day 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,6 +206,7 @@
 | [Devil Ride](https://open.spotify.com/track/1HR0lYFetVM22vVwRETZiF) | [Razihel](https://open.spotify.com/artist/5RKCVcnmcgyhFf85I4Ry9O), [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [Devil Ride](https://open.spotify.com/album/2VAYxDkiPWql7J52mhQX1X) | 2:15 | 2021-12-03 | 2022-09-10 |
 | [DEVIL SOUL](https://open.spotify.com/track/7t0OaHwReZjPuEBImsRwvX) | [Phonk Killer](https://open.spotify.com/artist/4Xpfcr6PHXIPeoCBlXNwtC) | [DEVIL SOUL](https://open.spotify.com/album/0aK4cmOqiaYYr52r3hlRqu) | 1:53 | 2022-05-20 | 2022-11-26 |
 | [Devotion](https://open.spotify.com/track/3pjF0yaD3us8IHwBfy6Liu) | [OGNEYAR](https://open.spotify.com/artist/5VNFlLgFFTUOLOVNAkIJdc), [DJ KUSH SMOKAH](https://open.spotify.com/artist/4O6y1sCtgMpEvsWQKfCpL3) | [Devotion](https://open.spotify.com/album/35BZNsv8zvpe2pQy0O1nB6) | 2:06 | 2021-11-12 | 2022-06-11 |
+| [DIA DELÍCIA](https://open.spotify.com/track/5WCC5w7bTsAOv1g1W1fU7A) | [Nakama](https://open.spotify.com/artist/1kd6WqngBvP0Vthu1sGI0j), [Mc Staff](https://open.spotify.com/artist/3awueWqdp1OZudPelsEIgx), [ΣP](https://open.spotify.com/artist/2Q3xviVw2VXFRXtsF2gpR1) | [DIA DELÍCIA](https://open.spotify.com/album/6bKskOvtdva3ul5sCUAiV5) | 1:15 | 2025-05-30 |  |
 | [Diamond Drift](https://open.spotify.com/track/39JwMiZTMfb9tMRBZl7wxA) | [XANAKIN SKYWOK](https://open.spotify.com/artist/2YHPVKeJcX02OyeNneU5v3), [ssjishmael](https://open.spotify.com/artist/5kRwMwCO1hEylO9tYV9mkC), [gelowler](https://open.spotify.com/artist/2KOltraKOgOrYb9o4ctyJO) | [Diamond Drift](https://open.spotify.com/album/5VyIU7SbhV84fyOYsIT8KD) | 2:00 | 2022-11-18 | 2023-03-25 |
 | [Die Again](https://open.spotify.com/track/1md3OQwPC88FQBNTrIKB31) | [SLEEPYHΞAD](https://open.spotify.com/artist/4cRpx4JMz6PqudYnDpPbiK) | [Die Again](https://open.spotify.com/album/3whvtTaQeb1MfZwJfbL3TQ) | 2:20 | 2022-06-17 | 2022-08-27 |
 | [Die Again](https://open.spotify.com/track/39OLf8IufGFTmYc9xNOHzN) | [SLEEPYHΞAD](https://open.spotify.com/artist/4cRpx4JMz6PqudYnDpPbiK) | [Die Again](https://open.spotify.com/album/2Y6NfUtku5IZJXyPwTXGB7) | 2:20 | 2022-06-10 | 2022-06-18 |
@@ -251,7 +252,7 @@
 | [ERROR](https://open.spotify.com/track/29K9XCDx9IDpyGpKmoM5VJ) | [ROMANTICA](https://open.spotify.com/artist/3Z2tyxT1pjQnZtkwGQngi6) | [ERROR](https://open.spotify.com/album/6DrhF7XGUjRODusNQoOkhi) | 2:42 | 2023-05-05 | 2023-08-12 |
 | [Escape](https://open.spotify.com/track/2LC9pdrPbX0c87YjT9S87F) | [V21](https://open.spotify.com/artist/67ALWf0iCYJTWxLJEvUJwk) | [Escape](https://open.spotify.com/album/5YYiTsoKhnP2kyQ7PcHxZY) | 1:34 | 2021-11-12 | 2022-07-02 |
 | [ESCORT](https://open.spotify.com/track/52oUDxzoJlMcSx2mIQ7JnJ) | [Nikitata](https://open.spotify.com/artist/6w5qVRuob9t7rfBj9vQfJl), [FindMyName](https://open.spotify.com/artist/0TkciLiDPBbrwTrOG5Kvj2) | [LXVE SXMPLES](https://open.spotify.com/album/5WGLpfFp5AaADZXblBKGRL) | 2:10 | 2022-11-04 | 2022-12-10 |
-| [ESPAÇO LIMINAL](https://open.spotify.com/track/1lZgzc4Ns8bO67s0IRoGHg) | [NXGHT!](https://open.spotify.com/artist/7lAaAGxYxk2GH8cMbTEwAL), [Scythermane](https://open.spotify.com/artist/5dDNNq04RjKXFOADdHd6VX), [MC Caja](https://open.spotify.com/artist/0zyPMXUsjcvUvgWmaRt0bY) | [ESPAÇO LIMINAL](https://open.spotify.com/album/0toWBzELaOEmaPWfreu7Te) | 1:55 | 2025-04-11 |  |
+| [ESPAÇO LIMINAL](https://open.spotify.com/track/1lZgzc4Ns8bO67s0IRoGHg) | [NXGHT!](https://open.spotify.com/artist/7lAaAGxYxk2GH8cMbTEwAL), [Scythermane](https://open.spotify.com/artist/5dDNNq04RjKXFOADdHd6VX), [MC Caja](https://open.spotify.com/artist/0zyPMXUsjcvUvgWmaRt0bY), [KGJ](https://open.spotify.com/artist/23zmS2d4hkOtvBlJ6T5dqM) | [ESPAÇO LIMINAL](https://open.spotify.com/album/0toWBzELaOEmaPWfreu7Te) | 1:55 | 2025-04-11 |  |
 | [ESSENCE](https://open.spotify.com/track/0zELPgAgAhm1Eyfa4FLMvP) | [Ryder Spot](https://open.spotify.com/artist/5vcZnjpJXSwYQGi8PlMS3B) | [ESSENCE](https://open.spotify.com/album/1Xr7Mt5FmlruuM42h2onLb) | 3:43 | 2021-10-25 | 2022-04-05 |
 | [ETERNAL NIGHT](https://open.spotify.com/track/1yAZgqemZMdzkxFsETP2Wr) | [SXULCVTCHER](https://open.spotify.com/artist/3oIuooXd50rxLlHD9KVqrx), [$MXLE](https://open.spotify.com/artist/0FkgYUwGU04XcTxAjdV6U9) | [ETERNAL NIGHT](https://open.spotify.com/album/4eOMX4BbOwomJLsFWY4YlJ) | 1:58 | 2022-06-17 | 2022-09-17 |
 | [Eu Sento Gabu!](https://open.spotify.com/track/24WBge8e53iDTeXOtVB02s) | [PXLWYSE](https://open.spotify.com/artist/6OwbqUSj4XbZdjexPsKkdH) | [Eu Sento Gabu!](https://open.spotify.com/album/51F5iHYpECc8dd9Wjqv15o) | 1:23 | 2024-05-17 |  |

@@ -1,6 +1,6 @@
 {
   "description": "\u305f\u3063\u305f\u72ec\u308a\u3067\u30e1\u30ed\u30c7\u30a3\u30fc\u3068\u8a00\u8449\u3092\u7d21\u3050\u30b7\u30f3\u30ac\u30fc\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc\u3002Cover: \u5927\u68ee\u5143\u8cb4",
-  "num_followers": 61938,
+  "num_followers": 62053,
   "original_name": "\u30d6\u30eb\u30fc\u306b\u3053\u3093\u304c\u3089\u304c\u3063\u3066",
   "owner": {
     "name": "Spotify",
@@ -891,22 +891,6 @@
     {
       "added_at": "2025-05-27 17:00:30",
       "album": {
-        "name": "\u6b8b\u50cf\u306e\u611b\u3057\u65b9",
-        "url": "https://open.spotify.com/album/579rttj1Eu1EtPbLZBbgpO"
-      },
-      "artists": [
-        {
-          "name": "Tele",
-          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
-        }
-      ],
-      "duration_ms": 277119,
-      "name": "\u6b8b\u50cf\u306e\u611b\u3057\u65b9",
-      "url": "https://open.spotify.com/track/6QbOl4gx6PZyOZWW9A5bDt"
-    },
-    {
-      "added_at": "2025-05-27 17:00:30",
-      "album": {
         "name": "\u304b\u3051\u8db3\u65cf",
         "url": "https://open.spotify.com/album/51HCqHLyaE6sAsZ5QhJKzn"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 224767,
       "name": "\u304b\u3051\u8db3\u65cf",
       "url": "https://open.spotify.com/track/0EwMvWJ6fLhdLL9g8inLVd"
+    },
+    {
+      "added_at": "2025-05-27 17:00:30",
+      "album": {
+        "name": "\u6b8b\u50cf\u306e\u611b\u3057\u65b9",
+        "url": "https://open.spotify.com/album/579rttj1Eu1EtPbLZBbgpO"
+      },
+      "artists": [
+        {
+          "name": "Tele",
+          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
+        }
+      ],
+      "duration_ms": 277119,
+      "name": "\u6b8b\u50cf\u306e\u611b\u3057\u65b9",
+      "url": "https://open.spotify.com/track/6QbOl4gx6PZyOZWW9A5bDt"
     },
     {
       "added_at": "2025-05-27 17:00:30",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2025-05-27 17:00:30",
       "album": {
-        "name": "\u6de1\u8272\u306e\u5e78\u305b",
-        "url": "https://open.spotify.com/album/0s7qVBb38s7Hx9UFP4EAGG"
-      },
-      "artists": [
-        {
-          "name": "\u308c\u3093",
-          "url": "https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m"
-        }
-      ],
-      "duration_ms": 185001,
-      "name": "\u6de1\u8272\u306e\u5e78\u305b",
-      "url": "https://open.spotify.com/track/5jSRMO6rx1Glgi1gGkmZb2"
-    },
-    {
-      "added_at": "2025-05-27 17:00:30",
-      "album": {
         "name": "\u305a\u3063\u3068\u4f5c\u308a\u304b\u3051\u306e\u30e9\u30d6\u30bd\u30f3\u30b0",
         "url": "https://open.spotify.com/album/6rf24Fc6PJ5oBbcmwxWfY1"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 297640,
       "name": "\u305a\u3063\u3068\u4f5c\u308a\u304b\u3051\u306e\u30e9\u30d6\u30bd\u30f3\u30b0",
       "url": "https://open.spotify.com/track/03V7l3oKPFHtdLeHdIZVba"
+    },
+    {
+      "added_at": "2025-05-27 17:00:30",
+      "album": {
+        "name": "\u6de1\u8272\u306e\u5e78\u305b",
+        "url": "https://open.spotify.com/album/0s7qVBb38s7Hx9UFP4EAGG"
+      },
+      "artists": [
+        {
+          "name": "\u308c\u3093",
+          "url": "https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m"
+        }
+      ],
+      "duration_ms": 185001,
+      "name": "\u6de1\u8272\u306e\u5e78\u305b",
+      "url": "https://open.spotify.com/track/5jSRMO6rx1Glgi1gGkmZb2"
     },
     {
       "added_at": "2025-05-27 17:00:30",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2025-05-27 17:00:30",
       "album": {
-        "name": "DNA",
-        "url": "https://open.spotify.com/album/5eaoO38FXRWLcrxwrtaNlW"
-      },
-      "artists": [
-        {
-          "name": "Tele",
-          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
-        }
-      ],
-      "duration_ms": 228197,
-      "name": "DNA",
-      "url": "https://open.spotify.com/track/4oym4UJGVd6l70PXHeMcha"
-    },
-    {
-      "added_at": "2025-05-27 17:00:30",
-      "album": {
         "name": "Pick you up",
         "url": "https://open.spotify.com/album/5ec6P46lMezGX5zBzpHRvy"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 218839,
       "name": "Pick you up",
       "url": "https://open.spotify.com/track/7lEamS5mWLjjnxYDHS3Z5R"
+    },
+    {
+      "added_at": "2025-05-27 17:00:30",
+      "album": {
+        "name": "DNA",
+        "url": "https://open.spotify.com/album/5eaoO38FXRWLcrxwrtaNlW"
+      },
+      "artists": [
+        {
+          "name": "Tele",
+          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
+        }
+      ],
+      "duration_ms": 228197,
+      "name": "DNA",
+      "url": "https://open.spotify.com/track/4oym4UJGVd6l70PXHeMcha"
     },
     {
       "added_at": "2025-05-27 17:00:30",
@@ -1383,18 +1383,18 @@
     {
       "added_at": "2025-05-27 17:00:30",
       "album": {
-        "name": "\u30d5\u30a9\u30fc\u30b2\u30c3\u30c8\u30d0\u30fc\u30b9\u30c7\u30fc",
-        "url": "https://open.spotify.com/album/07lTq3CeioPSJr1niBzHjd"
+        "name": "Retronym of Love",
+        "url": "https://open.spotify.com/album/6p7DsExj89s7AeEZ8jzFJO"
       },
       "artists": [
         {
-          "name": "\u548c\u306c\u304b",
-          "url": "https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI"
+          "name": "mekakushe",
+          "url": "https://open.spotify.com/artist/0CWyD7hgBLQ7dIUGEDkAWz"
         }
       ],
-      "duration_ms": 237000,
-      "name": "\u30d5\u30a9\u30fc\u30b2\u30c3\u30c8\u30d0\u30fc\u30b9\u30c7\u30fc",
-      "url": "https://open.spotify.com/track/3Q8wbSyUf2KqvmSeSPnT4O"
+      "duration_ms": 227929,
+      "name": "Retronym of Love",
+      "url": "https://open.spotify.com/track/53PpGA76EXKIzLwzRibwYd"
     },
     {
       "added_at": "2025-05-27 17:00:30",
@@ -1415,18 +1415,18 @@
     {
       "added_at": "2025-05-27 17:00:30",
       "album": {
-        "name": "Retronym of Love",
-        "url": "https://open.spotify.com/album/6p7DsExj89s7AeEZ8jzFJO"
+        "name": "\u30d5\u30a9\u30fc\u30b2\u30c3\u30c8\u30d0\u30fc\u30b9\u30c7\u30fc",
+        "url": "https://open.spotify.com/album/07lTq3CeioPSJr1niBzHjd"
       },
       "artists": [
         {
-          "name": "mekakushe",
-          "url": "https://open.spotify.com/artist/0CWyD7hgBLQ7dIUGEDkAWz"
+          "name": "\u548c\u306c\u304b",
+          "url": "https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI"
         }
       ],
-      "duration_ms": 227929,
-      "name": "Retronym of Love",
-      "url": "https://open.spotify.com/track/53PpGA76EXKIzLwzRibwYd"
+      "duration_ms": 237000,
+      "name": "\u30d5\u30a9\u30fc\u30b2\u30c3\u30c8\u30d0\u30fc\u30b9\u30c7\u30fc",
+      "url": "https://open.spotify.com/track/3Q8wbSyUf2KqvmSeSPnT4O"
     },
     {
       "added_at": "2025-05-27 17:00:30",
@@ -1443,22 +1443,6 @@
       "duration_ms": 224286,
       "name": "\u7f8e\u3057\u304d\u65e5\u3005",
       "url": "https://open.spotify.com/track/45jH0DMrWTPT74ugV2TOEx"
-    },
-    {
-      "added_at": "2025-05-27 17:00:30",
-      "album": {
-        "name": "INSOMNIA",
-        "url": "https://open.spotify.com/album/6HcP5DlLCM8vEagkSE1Uhu"
-      },
-      "artists": [
-        {
-          "name": "Kiro Akiyama",
-          "url": "https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty"
-        }
-      ],
-      "duration_ms": 243520,
-      "name": "INSOMNIA",
-      "url": "https://open.spotify.com/track/0L0nrPEHffucQqfWusbmrb"
     },
     {
       "added_at": "2025-05-27 17:00:30",
@@ -1491,6 +1475,22 @@
       "duration_ms": 222842,
       "name": "Hope",
       "url": "https://open.spotify.com/track/6TAbxQCvmh1pufM8WZm9ze"
+    },
+    {
+      "added_at": "2025-05-27 17:00:30",
+      "album": {
+        "name": "INSOMNIA",
+        "url": "https://open.spotify.com/album/6HcP5DlLCM8vEagkSE1Uhu"
+      },
+      "artists": [
+        {
+          "name": "Kiro Akiyama",
+          "url": "https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty"
+        }
+      ],
+      "duration_ms": 243520,
+      "name": "INSOMNIA",
+      "url": "https://open.spotify.com/track/0L0nrPEHffucQqfWusbmrb"
     },
     {
       "added_at": "2025-05-27 17:00:30",

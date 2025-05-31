@@ -4,7 +4,7 @@
 
 > Our streets, our way\. Listen to music from The Chi, now streaming on Paramount+ with Showtime.
 
-324 songs - 19 hr 12 min
+328 songs - 19 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Doin it Again \(As Heard in the Chi\)](https://open.spotify.com/track/2RpXSLDQMtB5P9pO1oONYC) | [Royce](https://open.spotify.com/artist/1eNOuUkpb8Cg0kgMtRRs0H) | [Doin It Again \(As Heard in The Chi\)](https://open.spotify.com/album/5GWKwVAf2OGzoYfC5B3DSA) | 2:50 | 2023-10-18 |  |
 | [Don't Want It \(feat\. Sayyi\) \- Austin Millz Remix](https://open.spotify.com/track/0U22HqyJPN6YqCL6Ip9Npd) | [Brenmar](https://open.spotify.com/artist/713RoDl16muftBPRdCXGAX), [Sayyi](https://open.spotify.com/artist/0koQe6pSkkxw5ZjaXubPJe), [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k) | [Award Remixes](https://open.spotify.com/album/2dYhhbSHiMwtqj2JPtkrxo) | 3:41 | 2023-10-18 |  |
 | [Dreamin](https://open.spotify.com/track/1UhO134ZoLZCTkOnl5of1E) | [Alonda Rich](https://open.spotify.com/artist/7jRa28pxwziRbZYA63V0Mf) | [Dreamin](https://open.spotify.com/album/5d7K2YnySTDJ5kOofk74k7) | 4:20 | 2024-06-21 |  |
+| [DRIVE THRU](https://open.spotify.com/track/2rNG0VakhV4UGU68VyLwnr) | [Tamae](https://open.spotify.com/artist/6W32hq7OVgrNXNCEU4RgfD), [Lyric Le'son](https://open.spotify.com/artist/3RfyPYLcpVW3LovpJ3pxse) | [DRIVE THRU: REIMAGINED](https://open.spotify.com/album/3WAPTmwhoEGJGsPb85lvYC) | 2:36 | 2025-05-30 |  |
 | [Dry My Tears](https://open.spotify.com/track/2ETE9nWRaDGgFP7Kz1EOQf) | [Travon Potts](https://open.spotify.com/artist/1K94SS1EfDnT3ODAbpVbRi), [Keli Lewis](https://open.spotify.com/artist/2KpdYXMxt9CZHAWGKLH6n6) | [Dry My Tears](https://open.spotify.com/album/5m0eshNXLk5aOMgPDtFx9w) | 2:13 | 2023-10-18 |  |
 | [Endless Love \(with Mariah Carey\)](https://open.spotify.com/track/6D4vhXwVrO2OCgZvqEjsuA) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Essential Luther Vandross](https://open.spotify.com/album/0JzmsNDLZ6NCc6Mc3J2UgN) | 4:19 | 2023-10-18 |  |
 | [Everyday Christmas](https://open.spotify.com/track/3Go0G6c39xLOLANIUT7EBf) | [Trinity](https://open.spotify.com/artist/40s0JQqVmgaEOdLcQpaD27) | [Everyday Christmas](https://open.spotify.com/album/3gZIkWhcQlEqFbfHRtFFlj) | 3:49 | 2023-10-18 |  |
@@ -97,6 +98,7 @@
 | [Fall](https://open.spotify.com/track/6INqijEvx76YGUVYYRCyPE) | [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [Illustrations](https://open.spotify.com/album/00pFZrH0XRIXJGo86PQSYW) | 6:40 | 2023-10-18 |  |
 | [Father Figure](https://open.spotify.com/track/5Hz3dloL9YRi8dkRZNqy78) | [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX) | [Father Figure](https://open.spotify.com/album/2syXzOLo0YjFbR7x7Ul9wi) | 2:38 | 2025-05-16 |  |
 | [Feelings](https://open.spotify.com/track/0uVoPJDA7uOuNHry5G7Ckp) | [Josiah Bell](https://open.spotify.com/artist/4IemglBvZymbgCFgbUBSm4) | [Feelings](https://open.spotify.com/album/2JtzK8PlSM4SQlXlO3saKa) | 3:19 | 2023-10-18 |  |
+| [Feels Like This](https://open.spotify.com/track/2EVFdKkPctaHfsaiNipvIk) | [Marlon Coles](https://open.spotify.com/artist/5jyN9Szb2yuvv2ladW4vLQ) | [Feels Like This](https://open.spotify.com/album/4545NKSQbWzVZHTpIxguQH) | 1:52 | 2025-05-30 |  |
 | [Fefe On The Block](https://open.spotify.com/track/1s9hBKw37JvYV9KYiR9oef) | [Stunt Taylor](https://open.spotify.com/artist/6OlcRxdAiJfOY2SiexBMej) | [Stunt'n On Turbo](https://open.spotify.com/album/5c0SkmE80ufogBAVzgmcA5) | 2:53 | 2023-10-18 |  |
 | [Flex](https://open.spotify.com/track/6Jun9cqvycnlZVeeSIy0k4) | [Piff Marti](https://open.spotify.com/artist/4yJPiziKjwvjKUnsnsOixM) | [Flex](https://open.spotify.com/album/59AVuo3BYKxeL1d17gpQfn) | 2:27 | 2024-06-07 |  |
 | [Follow Me \- Club Mix](https://open.spotify.com/track/547iG5F16pTdim4XlMlGEU) | [Aly\-Us](https://open.spotify.com/artist/4MnBfIdylI5EASiTCsNA7r) | [Follow Me](https://open.spotify.com/album/7lHBZXxijgIaXDpKeDQs9O) | 6:24 | 2023-10-18 |  |
@@ -185,6 +187,7 @@
 | [Love Your Space](https://open.spotify.com/track/2P5tIKRtFoHL13X5zUMeYf) | [Mickey Shiloh](https://open.spotify.com/artist/2ZI5SpSI3z4jWeaFXr0WlC) | [Love Your Space](https://open.spotify.com/album/55TdNIMbofgh7zWFkF9ZQH) | 2:26 | 2023-10-18 |  |
 | [Make Love](https://open.spotify.com/track/1ijcAhdBvAx2iTh8vrUZi8) | [Davion Farris](https://open.spotify.com/artist/1fs8ZTl4T9HJ6ZHuDyU5bI) | [With Pleasure](https://open.spotify.com/album/5e68IXpPhwiqxRaAToST3s) | 4:31 | 2023-10-18 |  |
 | [Mama](https://open.spotify.com/track/1gIWWFzxdxWZmCFXV4IhpC) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Ch\. 1 Vs\. 1](https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De) | 3:47 | 2023-10-18 |  |
+| [Man Down](https://open.spotify.com/track/1Mzf63ecHw1iZNS2Zhp6ac) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ), [Constantine](https://open.spotify.com/artist/1rmiX6UWOQHQaAMeIqkHZB), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [In My Mind](https://open.spotify.com/album/15iSR05cslUeYgf2kuWDhu) | 3:29 | 2025-05-30 |  |
 | [Memoirs Of The Realist](https://open.spotify.com/track/6W59dfaZYoGMtfhbgtdkaW) | [Love Pulse Music](https://open.spotify.com/artist/7fC7wiRwJKnHzM5J5xC1F4), [Z\. Rich](https://open.spotify.com/artist/5OTBCTqjCzTVlc5UJO7K8Z) | [Infinite Cue Vol\. 1](https://open.spotify.com/album/4iiDcxVsYAFYNxka5sfJvu) | 3:02 | 2023-10-18 |  |
 | [Midnight Marauders \- Live In Munich](https://open.spotify.com/track/1YvkBrRavN6rBZwaGul0b4) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS) | [Live In Munich](https://open.spotify.com/album/5t7qDT6mW9t6DBftMA8wp0) | 10:25 | 2023-10-18 |  |
 | [Mighty, Mighty Lover](https://open.spotify.com/track/6eKzWZufHpAv4FKxxcGfOx) | [Little Ben & The Cheers](https://open.spotify.com/artist/5HajwsKLeeh2Ksa2zcH8wf) | [Eccentric Soul: The Nickel and Penny Labels](https://open.spotify.com/album/2DrEA3bDVMWuRkaLTR1D5M) | 2:41 | 2023-10-18 |  |
@@ -213,6 +216,7 @@
 | [On My Way Home](https://open.spotify.com/track/2RXKv6DAvqY15cNjw6lxaf) | [Maurice Brown](https://open.spotify.com/artist/2eHu2a3osPU7tSMnCw5cgQ) | [The Mood](https://open.spotify.com/album/5sezxOLhknFC9eJVeIyj2g) | 7:16 | 2023-10-18 |  |
 | [Only One](https://open.spotify.com/track/4Q7BJDvdNXSkKkq5xNfa3W) | [Kiara Lanier](https://open.spotify.com/artist/0Z5elzfzIvsRf0PIPq0PL7) | [Tongues and Teaspoons](https://open.spotify.com/album/5sGut568EZmzbzuKu9zTpf) | 3:17 | 2023-10-18 |  |
 | [Only the Beginning \(feat\. Noname\)](https://open.spotify.com/track/3mCoYQGYakjouR3FLlhLQm) | [theMIND](https://open.spotify.com/artist/5ZK5YGazICLXEXlaNnEBqP), [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Summer Camp](https://open.spotify.com/album/6c6hz80UAdFUHq4y6krwz6) | 4:50 | 2023-10-18 |  |
+| [Optimistic](https://open.spotify.com/track/7Mb7jOst43wPQELas93ARE) | [Sounds Of Blackness](https://open.spotify.com/artist/0a0l3QVhfMwQNAO4wPAmP9) | [Evolution Of Gospel](https://open.spotify.com/album/3Nadyd2d91SwdnSNPEWLTp) | 5:18 | 2025-05-30 |  |
 | [Our World](https://open.spotify.com/track/6ZSgKQs6wEXP8sY3KuL2xy) | [Campfire](https://open.spotify.com/artist/54iFlEyl0Ns7oVIoee11W4) | [Our World](https://open.spotify.com/album/2jaJZJYKqSuzyCsX2AO7dG) | 3:28 | 2023-10-18 |  |
 | [Outsiders](https://open.spotify.com/track/53jBUTpH07JOQcrFxOMf2u) | [YSN Hazel](https://open.spotify.com/artist/5iJD1eR7hFp5keAR8lqRME) | [You Know the Vibes](https://open.spotify.com/album/5DmIGyk9VKXx8aLYr2QtKv) | 2:45 | 2023-10-18 |  |
 | [Overnight Celebrity \(feat\. Miri Ben\-Ari\)](https://open.spotify.com/track/2tOZtdbkAMQASWokLvSlzj) | [Twista](https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS), [Miri Ben\-Ari](https://open.spotify.com/artist/7i0Z1tzWVamskO8eLnZ3Kx) | [Kamikaze](https://open.spotify.com/album/7tbgPQub8dUigxMdkYDfOb) | 3:53 | 2023-10-18 |  |

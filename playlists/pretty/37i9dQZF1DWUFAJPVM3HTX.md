@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > Celebrating 10 years of  the best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/5DP3h81xD3klfn0M47GZlK?si=oYSYzsfNRsSn7In5zvFsew"> threetwenty</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,869 likes - 461 songs - 23 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,899 likes - 461 songs - 23 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 8 | [SPIRIT](https://open.spotify.com/track/04ZYynet3V6KeQ0zQWDYeO) | [Brandon Banks](https://open.spotify.com/artist/66eJQM6S5JsDe0CdUXnwST) | [SPIRIT](https://open.spotify.com/album/6bOIwtaShFFJ9JQ373VihG) | 3:20 |
 | 9 | [Pajamas](https://open.spotify.com/track/3svAabqImjfGaLARJDuFg0) | [AKIA](https://open.spotify.com/artist/4TiHWoAwePhDOFuPpcls06) | [Pajamas](https://open.spotify.com/album/3KqPQgeeJyuWSl5naBFh1o) | 2:36 |
 | 10 | [Running After You](https://open.spotify.com/track/046DtjhSHWFzb6kAClsrK5) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI) | [Running After You](https://open.spotify.com/album/1jKEvKakAr9suOpHXVN7Hc) | 2:10 |
-| 11 | [JIGGY](https://open.spotify.com/track/3bwSYqsCf1FLQ3bZN8zepl) | [cikho](https://open.spotify.com/artist/3K5lshiZhzx2bvme3n4hTz), [LEE.](https://open.spotify.com/artist/7yCq8eEVEcwkYJbIBqbz19) | [JIGGY](https://open.spotify.com/album/6ufPPtJ4nLKEc1wAZI8IOe) | 2:21 |
+| 11 | [JIGGY](https://open.spotify.com/track/3bwSYqsCf1FLQ3bZN8zepl) | [cikho](https://open.spotify.com/artist/3K5lshiZhzx2bvme3n4hTz), [LEE.](https://open.spotify.com/artist/5hKBEuzwAfFqH7ZZ167NeG) | [JIGGY](https://open.spotify.com/album/6ufPPtJ4nLKEc1wAZI8IOe) | 2:21 |
 | 12 | [Anywhere](https://open.spotify.com/track/62uoKWHWnKh7VSRWnHpXUm) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7), [Gaptoof](https://open.spotify.com/artist/4I6A3EOnjIx9tjVHwDSJzZ) | [Anywhere](https://open.spotify.com/album/1N13pnjvDsVWLFW9gpalx2) | 2:47 |
 | 13 | [source](https://open.spotify.com/track/5Z2vamE8JL3MR9af9ZD6vw) | [Samwyse](https://open.spotify.com/artist/6HM4BW3z7SCMg0hxUx5Pz3), [Ronday](https://open.spotify.com/artist/5GaxCXUbEbeFzWEVk9r3sC) | [source](https://open.spotify.com/album/0XIT5XHyzwTdyP9SucfBGG) | 3:32 |
 | 14 | [Where Have You Been](https://open.spotify.com/track/7ysT3gH5JWj5imHMghOD6E) | [Joe Leone](https://open.spotify.com/artist/641Je4lEYQI0NWz8VclwMF) | [Where Have You Been](https://open.spotify.com/album/1TT7JkrCaD8206lXkaxXIt) | 2:55 |

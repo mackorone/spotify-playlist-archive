@@ -4,7 +4,7 @@
 
 > Listen to Selena's latest releases, plus all her essential hits.
 
-80 songs - 4 hr 23 min
+81 songs - 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Ojos Tristes \(with The Marías\)](https://open.spotify.com/track/1DFmBjoeQN9DpOVTEewyx0) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [I Said I Love You First](https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR) | 3:21 | 2025-03-25 |  |
 | [Only You](https://open.spotify.com/track/1hCowBAyytVNFhdZeQWU9M) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [13 Reasons Why \(A Netflix Original Series Score\)](https://open.spotify.com/album/6PZD4RSi2hlcg5YV86luib) | 3:04 | 2024-02-28 | 2025-03-26 |
 | [Only You](https://open.spotify.com/track/6OKKfwf75kQ4veyLktYV7F) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [13 Reasons Why \(A Netflix Original Series Score\)](https://open.spotify.com/album/3v0MbklWCM2hljImBwy7bA) | 3:04 | 2022-11-04 | 2024-04-19 |
-| [Past Life \(with Selena Gomez\)](https://open.spotify.com/track/4P6IttK2PRBjyr3fm0pP7t) | [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Past Life \(with Selena Gomez\)](https://open.spotify.com/album/6stMulZek1Sha1ggxWhQNr) | 3:06 | 2024-02-28 |  |
+| [Past Life \(with Selena Gomez\)](https://open.spotify.com/track/4P6IttK2PRBjyr3fm0pP7t) | [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Past Life \(with Selena Gomez\)](https://open.spotify.com/album/6stMulZek1Sha1ggxWhQNr) | 3:06 | 2024-02-28 | 2025-05-31 |
 | [Past Life \(with Selena Gomez\)](https://open.spotify.com/track/7MN8RYSofZsFROBlEOAzXq) | [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Past Life \(with Selena Gomez\)](https://open.spotify.com/album/0VNOVfFWUXhUx8l3RNas8F) | 3:06 | 2022-11-04 | 2024-04-19 |
 | [People You Know](https://open.spotify.com/track/5UqZDGclEuq7g3sgUFad0J) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare \(Deluxe\)](https://open.spotify.com/album/5obQ9rPASQW2mLxYM8Ko6Z) | 3:14 | 2022-11-04 |  |
 | [Perfect](https://open.spotify.com/track/0z8u1VqXUYPBMIoF91JIWE) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Revival \(Deluxe\)](https://open.spotify.com/album/7lDBDk8OQarV5dBMu3qrdz) | 4:02 | 2022-11-04 |  |
@@ -75,6 +75,7 @@
 | [Souvenir](https://open.spotify.com/track/3ZCBSFcZSRM9Z48ew28Zrf) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare \(Deluxe\)](https://open.spotify.com/album/5obQ9rPASQW2mLxYM8Ko6Z) | 2:41 | 2022-11-04 |  |
 | [Sunset Blvd](https://open.spotify.com/track/2kpUNuingcchFIhLrbWxIO) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Sunset Blvd](https://open.spotify.com/album/4JCaqlPDBeT9kizAc3PGwL) | 2:47 | 2025-03-16 |  |
 | [Taki Taki \(with Selena Gomez, Ozuna & Cardi B\)](https://open.spotify.com/track/4w8niZpiMy6qz1mntFA5uM) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Taki Taki \(with Selena Gomez, Ozuna & Cardi B\)](https://open.spotify.com/album/0ZHyvPke0EcVt6rYA8Ins3) | 3:32 | 2022-11-04 |  |
+| [Talk](https://open.spotify.com/track/2TuxpGjF4fPTNLMXP28xYb) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [I Said I Love You First..\. And You Said It Back](https://open.spotify.com/album/5Gb94494MtenpCCWoNX0e5) | 2:12 | 2025-05-30 |  |
 | [Tell Me Something I Don't Know](https://open.spotify.com/track/08kCck8nAJJEmxg0gXaJot) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Tell Me Something I Don't Know](https://open.spotify.com/album/6fWrq66qKnmTA2p6HplXge) | 3:21 | 2024-02-28 | 2025-03-26 |
 | [Tell Me Something I Don't Know \- Soundtrack](https://open.spotify.com/track/1UXBbmjIrxjckrbv5EfSVT) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Another Cinderella Story \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Jv7Yo0ihit4JyxvjQLUhb) | 3:21 | 2022-11-04 | 2024-04-19 |
 | [The Heart Wants What It Wants](https://open.spotify.com/track/7pJgjBf82BrUQ3z7HdQvW1) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [For You](https://open.spotify.com/album/3NkZqXMTPlFgbgvifgrhLN) | 3:47 | 2024-02-28 |  |

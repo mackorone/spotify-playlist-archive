@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd4LoztuhuiY.md) - [plain]
 
 > Enjoy the soundtrack of My Liberation Notes! \(드라마 나의 해방일지의 사운드트랙을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,555 likes - 54 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,553 likes - 54 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,18 +30,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd4LoztuhuiY.md) - [plain]
 | 20 | [Diamond \(Inst.\)](https://open.spotify.com/track/6OIfJrlxajf9JPMyCafnCh) | [9duck](https://open.spotify.com/artist/5qGrtWZ90pILRYjvawmTro) | [My Liberation Notes OST Part 8](https://open.spotify.com/album/4TPylqoJdF8ELf8IwTrquV) | 3:04 |
 | 21 | [I Think I Know \(Inst.\)](https://open.spotify.com/track/6Lu75sdDi17emdR55GleLL) | [Isaac Hong](https://open.spotify.com/artist/4bST03NJ0YEysocK5AV1wB) | [My Liberation Notes OST Part 10](https://open.spotify.com/album/294GsETEHK2D4pm8O9KcnP) | 3:24 |
 | 22 | [Here We Are \(Inst.\)](https://open.spotify.com/track/6tcpKxDjXsUXypRzxPQYre) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [My Liberation Notes OST Part 11](https://open.spotify.com/album/44bjY6dv0qG7OghlaiGQ0A) | 4:19 |
-| 23 | [Kind Of Confession \(Female Ver.\) \(Inst.\)](https://open.spotify.com/track/4QKysMfaQEXXUVZXkMFcuH) | [HEN](https://open.spotify.com/artist/3Cit2bKhLzwUJPmP6jnXDC) | [My Liberation Notes OST](https://open.spotify.com/album/41DOBN48kjQv9eDJj7C9xw) | 2:58 |
-| 24 | [Kind Of Confession \(Male Ver.\) \(Inst.\)](https://open.spotify.com/track/0w3NqeBrtrZ0afIrgG5y5u) | [Kwak jineon](https://open.spotify.com/artist/5NBDM7OpuuyUNtlLLxTYWD) | [My Liberation Notes OST](https://open.spotify.com/album/41DOBN48kjQv9eDJj7C9xw) | 3:56 |
-| 25 | [My Liberation Notes](https://open.spotify.com/track/1zADRXiR2KlqzdLsAtKi6s) | [Choi Jung In](https://open.spotify.com/artist/6VwjJA0ZHVAJNQuQxrE9NR) | [My Liberation Notes OST](https://open.spotify.com/album/41DOBN48kjQv9eDJj7C9xw) | 3:28 |
+| 23 | [Kind Of Confession \- Female Version \(Inst.\)](https://open.spotify.com/track/4QKysMfaQEXXUVZXkMFcuH) | [HEN](https://open.spotify.com/artist/3Cit2bKhLzwUJPmP6jnXDC) | [My Liberation Notes OST](https://open.spotify.com/album/41DOBN48kjQv9eDJj7C9xw) | 2:58 |
+| 24 | [Kind Of Confession \- Male Version \(Inst.\)](https://open.spotify.com/track/0w3NqeBrtrZ0afIrgG5y5u) | [Kwak jineon](https://open.spotify.com/artist/5NBDM7OpuuyUNtlLLxTYWD) | [My Liberation Notes OST](https://open.spotify.com/album/41DOBN48kjQv9eDJj7C9xw) | 3:56 |
+| 25 | [My Liberation Notes](https://open.spotify.com/track/1zADRXiR2KlqzdLsAtKi6s) | [Choe Jeong In](https://open.spotify.com/artist/3F6cVxPjYxxinah6vnYOWK) | [My Liberation Notes OST](https://open.spotify.com/album/41DOBN48kjQv9eDJj7C9xw) | 3:28 |
 | 26 | [No Problem](https://open.spotify.com/track/3EucDVLOQMHbIMcpqkYb3q) | [Park Jung Eun](https://open.spotify.com/artist/6bZGVdgaRYOCpBdS8S6BMP) | [My Liberation Notes OST](https://open.spotify.com/album/41DOBN48kjQv9eDJj7C9xw) | 2:36 |
 | 27 | [Nostalgia](https://open.spotify.com/track/5TpRoq71FEFJow6bs5rObS) | [옹성은](https://open.spotify.com/artist/4Lrfu5mYixpaBOQH1MwkQW) | [My Liberation Notes OST](https://open.spotify.com/album/41DOBN48kjQv9eDJj7C9xw) | 3:14 |
 | 28 | [No One](https://open.spotify.com/track/3M4LF7w5wwI1vRbLBkDTgI) | [KIM YEON JEONG](https://open.spotify.com/artist/0ROyBtDdk14K7j5JK9YcZi) | [My Liberation Notes OST](https://open.spotify.com/album/41DOBN48kjQv9eDJj7C9xw) | 1:57 |
 | 29 | [1234!](https://open.spotify.com/track/1Jdcmtk0DPneFAv8BuK07T) | [Park Jung Eun](https://open.spotify.com/artist/6bZGVdgaRYOCpBdS8S6BMP) | [My Liberation Notes OST](https://open.spotify.com/album/41DOBN48kjQv9eDJj7C9xw) | 2:22 |
 | 30 | [Wind Blows](https://open.spotify.com/track/1XoVEuLjhpAO5osz1W558m) | [LIM MI HYUN](https://open.spotify.com/artist/3QkXZgt4386a2iwFcyO11R) | [My Liberation Notes OST](https://open.spotify.com/album/41DOBN48kjQv9eDJj7C9xw) | 3:31 |
-| 31 | [Someone](https://open.spotify.com/track/3PwfHCw4bExubpejZtWjq2) | [Choi Jung In](https://open.spotify.com/artist/6VwjJA0ZHVAJNQuQxrE9NR) | [My Liberation Notes OST](https://open.spotify.com/album/41DOBN48kjQv9eDJj7C9xw) | 2:41 |
+| 31 | [Someone](https://open.spotify.com/track/3PwfHCw4bExubpejZtWjq2) | [Choe Jeong In](https://open.spotify.com/artist/3F6cVxPjYxxinah6vnYOWK) | [My Liberation Notes OST](https://open.spotify.com/album/41DOBN48kjQv9eDJj7C9xw) | 2:41 |
 | 32 | [Run Away](https://open.spotify.com/track/1K30RaOANLwcPjwzBOpLo7) | [옹성은](https://open.spotify.com/artist/4Lrfu5mYixpaBOQH1MwkQW) | [My Liberation Notes OST](https://open.spotify.com/album/41DOBN48kjQv9eDJj7C9xw) | 3:31 |
 | 33 | [A Pastoral Song](https://open.spotify.com/track/3VUBY1wqMF0GVcjfXJ81tH) | [KIM YEON JEONG](https://open.spotify.com/artist/0ROyBtDdk14K7j5JK9YcZi) | [My Liberation Notes OST](https://open.spotify.com/album/41DOBN48kjQv9eDJj7C9xw) | 2:57 |
-| 34 | [Not a Thing](https://open.spotify.com/track/4lcaKVTxXU410f5JZUM5ZB) | [Choi Jung In](https://open.spotify.com/artist/6VwjJA0ZHVAJNQuQxrE9NR) | [My Liberation Notes OST](https://open.spotify.com/album/41DOBN48kjQv9eDJj7C9xw) | 2:27 |
+| 34 | [Not a Thing](https://open.spotify.com/track/4lcaKVTxXU410f5JZUM5ZB) | [Choe Jeong In](https://open.spotify.com/artist/3F6cVxPjYxxinah6vnYOWK) | [My Liberation Notes OST](https://open.spotify.com/album/41DOBN48kjQv9eDJj7C9xw) | 2:27 |
 | 35 | [Sorrow](https://open.spotify.com/track/0ZPpgtakaqbmW4NDf3HnSW) | [LIM MI HYUN](https://open.spotify.com/artist/3QkXZgt4386a2iwFcyO11R) | [My Liberation Notes OST](https://open.spotify.com/album/41DOBN48kjQv9eDJj7C9xw) | 3:14 |
 | 36 | [The Liberation Club](https://open.spotify.com/track/3lhocbXIipaIj73gw62eU9) | [옹성은](https://open.spotify.com/artist/4Lrfu5mYixpaBOQH1MwkQW) | [My Liberation Notes OST](https://open.spotify.com/album/41DOBN48kjQv9eDJj7C9xw) | 2:25 |
 | 37 | [I Got A Feeling](https://open.spotify.com/track/1vzi3faEszdqmSLTqyUDPT) | [SHIN HYUN PILL](https://open.spotify.com/artist/4YCwdmKppgtDkrS0c5rPE2) | [My Liberation Notes OST](https://open.spotify.com/album/41DOBN48kjQv9eDJj7C9xw) | 1:56 |
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd4LoztuhuiY.md) - [plain]
 | 39 | [Timing](https://open.spotify.com/track/5W1ljocELoZb6aHXYySZE2) | [Park Jung Eun](https://open.spotify.com/artist/6bZGVdgaRYOCpBdS8S6BMP) | [My Liberation Notes OST](https://open.spotify.com/album/41DOBN48kjQv9eDJj7C9xw) | 2:15 |
 | 40 | [Fake A Smile](https://open.spotify.com/track/10DlY6fnhTaWxdHf7rIFKA) | [옹성은](https://open.spotify.com/artist/4Lrfu5mYixpaBOQH1MwkQW) | [My Liberation Notes OST](https://open.spotify.com/album/41DOBN48kjQv9eDJj7C9xw) | 3:47 |
 | 41 | [Border](https://open.spotify.com/track/56P7I6iY9mKsVKdCMBabay) | [YOON CHAE YOUNG](https://open.spotify.com/artist/0smXYOAMSbrVwZlZzL4PHi) | [My Liberation Notes OST](https://open.spotify.com/album/41DOBN48kjQv9eDJj7C9xw) | 3:01 |
-| 42 | [I Hope](https://open.spotify.com/track/525mC5gAtNtdIc3kVPIeKB) | [Choi Jung In](https://open.spotify.com/artist/6VwjJA0ZHVAJNQuQxrE9NR) | [My Liberation Notes OST](https://open.spotify.com/album/41DOBN48kjQv9eDJj7C9xw) | 3:01 |
+| 42 | [I Hope](https://open.spotify.com/track/525mC5gAtNtdIc3kVPIeKB) | [Choe Jeong In](https://open.spotify.com/artist/3F6cVxPjYxxinah6vnYOWK) | [My Liberation Notes OST](https://open.spotify.com/album/41DOBN48kjQv9eDJj7C9xw) | 3:01 |
 | 43 | [Go Back](https://open.spotify.com/track/3phEdscTqute4yrqRwl0nd) | [Park Jung Eun](https://open.spotify.com/artist/6bZGVdgaRYOCpBdS8S6BMP) | [My Liberation Notes OST](https://open.spotify.com/album/41DOBN48kjQv9eDJj7C9xw) | 3:03 |
 | 44 | [Sunshiny](https://open.spotify.com/track/1yM3BSV25rbO7eoZa0Qqcq) | [LIM MI HYUN](https://open.spotify.com/artist/3QkXZgt4386a2iwFcyO11R) | [My Liberation Notes OST](https://open.spotify.com/album/41DOBN48kjQv9eDJj7C9xw) | 3:12 |
 | 45 | [Default](https://open.spotify.com/track/1SWeAbtTPT3cAFrV14oc5H) | [옹성은](https://open.spotify.com/artist/4Lrfu5mYixpaBOQH1MwkQW) | [My Liberation Notes OST](https://open.spotify.com/album/41DOBN48kjQv9eDJj7C9xw) | 2:19 |

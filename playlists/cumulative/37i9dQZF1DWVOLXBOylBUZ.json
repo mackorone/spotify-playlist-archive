@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "Latinoam\u00e9rica baila al ritmo de Nicky Jam y Be\u00e9le",
+  "description": "Latinoam\u00e9rica baila al ritmo de Myke Towers y Quevedo",
   "name": "El Ritmo",
   "tracks": [
     {
@@ -2058,7 +2058,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 150000,
       "name": "Apolo",
       "url": "https://open.spotify.com/track/3sOGMTwbLJMORZRRuVt8Nz"
@@ -13128,7 +13128,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 153473,
       "name": "La Raz\u00f3n",
       "url": "https://open.spotify.com/track/3aTYbgbMKgwDMmpe0xxCK7"
@@ -19963,6 +19963,32 @@
     },
     {
       "album": {
+        "name": "Piden Perreito",
+        "url": "https://open.spotify.com/album/62q0CYeatBTBeIMrRMRLKo"
+      },
+      "artists": [
+        {
+          "name": "Pablito Mix",
+          "url": "https://open.spotify.com/artist/6YnCbY5kHjyJcMEUjoeyX3"
+        },
+        {
+          "name": "Alnz G",
+          "url": "https://open.spotify.com/artist/6jr7HGYltyHEEolCbaDKIf"
+        },
+        {
+          "name": "Monster Kid Mx",
+          "url": "https://open.spotify.com/artist/2j4mfH8yDIfMLFbowolxpq"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155151,
+      "name": "Piden Perreito",
+      "url": "https://open.spotify.com/track/6fOjW2zVTHhyghuJsCFbqL"
+    },
+    {
+      "album": {
         "name": "Piensas En Mi",
         "url": "https://open.spotify.com/album/48bOYyl6R4Osu0luA0RWoS"
       },
@@ -23050,6 +23076,28 @@
       "duration_ms": 144000,
       "name": "Solcito",
       "url": "https://open.spotify.com/track/2BE1Q5N4Enl1eRrM82uzsu"
+    },
+    {
+      "album": {
+        "name": "SOLEAO",
+        "url": "https://open.spotify.com/album/1UMdrgq8ZuZRrJv7ZLvjpP"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218305,
+      "name": "SOLEAO",
+      "url": "https://open.spotify.com/track/3jAshemiRYWukWLtT3Ivrb"
     },
     {
       "album": {

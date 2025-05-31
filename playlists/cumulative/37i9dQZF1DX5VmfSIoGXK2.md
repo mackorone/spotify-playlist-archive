@@ -4,7 +4,7 @@
 
 > Jazz house is our love language  🌳  with  Chaos In The CBD
 
-112 songs - 7 hr 46 min
+117 songs - 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,11 +15,13 @@
 | [Acidjazzacid](https://open.spotify.com/track/5HTwniqm9szfs9Cib1p1cF) | [Milan93](https://open.spotify.com/artist/5FPtZ4IXvHYp8MsjAevEWg) | [Acidjazzacid](https://open.spotify.com/album/3EUyOXYHvggj5xkFoss5A6) | 2:08 | 2025-03-07 |  |
 | [As If](https://open.spotify.com/track/3QiPB7sjCdwBFbI24ewr5s) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD) | [As If](https://open.spotify.com/album/70l9yOwA3Hrycu1Ls3Zp8k) | 2:23 | 2025-02-21 |  |
 | [at first](https://open.spotify.com/track/6ySPRb4en9GqyBJSNgxHDn) | [mango heist](https://open.spotify.com/artist/0oYE6kpwZgMzyOj7zIebWs), [Koresma](https://open.spotify.com/artist/14EybDMySlkntyuxgm1pek) | [at first](https://open.spotify.com/album/7xtmLluiM3xIaAGY3fBXe0) | 2:31 | 2025-02-21 |  |
+| [Autumn in Amsterdam](https://open.spotify.com/track/0zk9uvElUeSGpeP2Emhugt) | [Jazzwaves](https://open.spotify.com/artist/0Ts3DgksvL8dbF6mUAPFNC) | [Autumn in Amsterdam](https://open.spotify.com/album/4LMnyTKVoP6gOw4dWsKlFl) | 2:45 | 2025-05-30 |  |
 | [AWA \- Atjazz Love Soul Mix](https://open.spotify.com/track/5Nwn75vYZCEtTf0bFNT6AT) | [Ralf Gum](https://open.spotify.com/artist/2XE7Kskh4TLEcxIyNSoCwN), [Monica Blaire](https://open.spotify.com/artist/0u7CF9gJzMB7pyzJkW22eK), [Atjazz](https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH) | [AWA \(Atjazz Remixes\)](https://open.spotify.com/album/1zm4B9mSGH4yLyymTZtYin) | 6:32 | 2025-02-21 | 2025-05-10 |
 | [Azura](https://open.spotify.com/track/43XuQmyHVzWJkY1AJEnlrX) | [Edmondson](https://open.spotify.com/artist/0Z21z5mCbDZhKD8kOXfo28), [Mahyar Rahmantalab Vaghei](https://open.spotify.com/artist/40pPjLvgdPbPkuOdcgDOIp) | [Azura](https://open.spotify.com/album/6wsH192UPSVkxNC7wqbmLM) | 5:46 | 2025-05-16 |  |
 | [Barcode](https://open.spotify.com/track/4f88T1UG83f1pd3fvSssHw) | [Bård Berg](https://open.spotify.com/artist/6cj0DfbcgWVo53BtyTEH6r) | [Barcode](https://open.spotify.com/album/6J8ZbmGKSEQdknktSqrzrC) | 4:48 | 2025-04-04 |  |
 | [Belle](https://open.spotify.com/track/19MuwU5fHAmlSjqXSfILhR) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD) | [Belle](https://open.spotify.com/album/6405dSaBJmxm2tMEDaeBbz) | 2:25 | 2025-02-21 | 2025-05-03 |
 | [Ben Days](https://open.spotify.com/track/67hs9rQxAVvq9mfyTOhPQj) | [TABLE](https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy) | [Ben Days](https://open.spotify.com/album/4JSUbHlKDPlHJlu5CxWq8J) | 3:20 | 2025-04-04 |  |
+| [bianca](https://open.spotify.com/track/6220GDztdVktDOvs48Rw0d) | [Gaston](https://open.spotify.com/artist/5PV5HJ0ndL74ZdqKA1PqAr), [the wine is ok](https://open.spotify.com/artist/5Ojm75z0EwHqk2e4W90bak) | [bianca](https://open.spotify.com/album/0ClcyQk8ZXFRwPQyNnKQZI) | 2:35 | 2025-05-30 |  |
 | [Blanc](https://open.spotify.com/track/06BAAawbsllT2PAhsqIsiJ) | [Holo](https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX) | [Blanc](https://open.spotify.com/album/5klbjenisysJ9KqsgLm4r1) | 6:18 | 2025-02-21 |  |
 | [Blowfish](https://open.spotify.com/track/7GwwEpaKaIaOptVWDVjyKX) | [Tar Blanche](https://open.spotify.com/artist/7bEipnF8YKYRRIga66A6Xl) | [Blowfish](https://open.spotify.com/album/0RQXcwL88odlEhRiT7S6Kn) | 3:48 | 2025-03-14 |  |
 | [Boat Party](https://open.spotify.com/track/76LSTQnzVbqkJ8oC0L8sF1) | [Ajmw](https://open.spotify.com/artist/64StAk1W7veJKQ9x0rlE2R), [Blanc](https://open.spotify.com/artist/6V9LzOosiqNwijdIFjDzYw) | [Boat Party](https://open.spotify.com/album/50LTrS38kEhwzD2Gbszn9V) | 2:55 | 2025-02-21 |  |
@@ -40,6 +42,7 @@
 | [Emotional Intelligence](https://open.spotify.com/track/3yMYs3jJdAPxMgqb0CYZUG) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy), [Nathan Haines](https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy), [Dave Koor](https://open.spotify.com/artist/7bWbTT6EfOWbzRmBCSGUhq) | [Chaos In The CBD & Friends](https://open.spotify.com/album/52gDijfKDkvRQiqtSmWiq8) | 6:20 | 2025-02-21 |  |
 | [Evolution](https://open.spotify.com/track/28P3hD5604xr8ZD2cpSqqV) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [Deza](https://open.spotify.com/artist/2HoaVzOMwwXNauX5cjdXwg) | [Evolution](https://open.spotify.com/album/0WvP86fINZdLQX9d2VYuo3) | 1:58 | 2025-02-21 |  |
 | [Faux Départ](https://open.spotify.com/track/6he02h6WNseMS0VidRjBFT) | [DJ Psychiatre](https://open.spotify.com/artist/3roL1q2jZoQt3yZqbCb1DR) | [Faux Départ](https://open.spotify.com/album/2x3aYh9DTmqKvYjcHxl1o8) | 4:37 | 2025-02-21 |  |
+| [fiesta jazz](https://open.spotify.com/track/10vXmDQbYD0EtwwdNXwcKU) | [Mack Walker](https://open.spotify.com/artist/1pdJH1yIymKtEcpperdsEx) | [fiesta jazz](https://open.spotify.com/album/78nm9fNZtgUmzlhXTuF19g) | 1:55 | 2025-05-30 |  |
 | [fifth element](https://open.spotify.com/track/70wy9Kh0umg2TYGmIh05oc) | [Koresma](https://open.spotify.com/artist/14EybDMySlkntyuxgm1pek), [mango heist](https://open.spotify.com/artist/0oYE6kpwZgMzyOj7zIebWs), [Gina Sobel](https://open.spotify.com/artist/1J4zEWSsVL27NBNRgKiKr0) | [lounge lizard](https://open.spotify.com/album/5WUzH9R8AOGWqlXUtusmYz) | 3:31 | 2025-04-18 |  |
 | [Fleur de Sucre](https://open.spotify.com/track/09wDfwbHmyUFi9SKbJ0APT) | [Sable Blanc](https://open.spotify.com/artist/6kP2m716w4dZmIBQ1PCiGD) | [New Places](https://open.spotify.com/album/2AfjakN5fWOqGkAMnq82me) | 5:06 | 2025-03-14 |  |
 | [Flipper](https://open.spotify.com/track/01SOrIQHZcGl5y6NlkYb7J) | [Holo](https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX) | [Pink Wax](https://open.spotify.com/album/37GXXsZcOfyb3WEptLIird) | 4:05 | 2025-03-14 |  |
@@ -58,6 +61,8 @@
 | [I'M SORRY](https://open.spotify.com/track/17PF2BxCI4klUDl3JgbIIt) | [Your friend daao](https://open.spotify.com/artist/1YK6LlpClehFPoCkFttVdw) | [I'M SORRY](https://open.spotify.com/album/00iQTzEuuPwCFlQGaJb9ub) | 3:53 | 2025-02-28 | 2025-03-22 |
 | [If You Can't Trust Your Heart](https://open.spotify.com/track/5ls3ZBVoHvImuSA6S971sv) | [Tar Blanche](https://open.spotify.com/artist/7bEipnF8YKYRRIga66A6Xl) | [If You Can't Trust Your Heart](https://open.spotify.com/album/2HsJVqCOokqKz6sNgFRMVr) | 2:58 | 2025-02-21 |  |
 | [In The House of Waterfalls](https://open.spotify.com/track/3AhnJRinzJNzvTVIJqCBD3) | [Tar Blanche](https://open.spotify.com/artist/7bEipnF8YKYRRIga66A6Xl) | [In The House of Waterfalls](https://open.spotify.com/album/48afQIVKyqdTdu7DrKId9m) | 5:07 | 2025-02-21 |  |
+| [In the shade.](https://open.spotify.com/track/7qkVjJLBZH64MlwtY2oAxu) | [Bolden.](https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5) | [In the shade.](https://open.spotify.com/album/2F9PeLfWzyBQBuH6tmeZng) | 2:42 | 2025-05-30 |  |
+| [Inner Light](https://open.spotify.com/track/4qRRX6SWTlmNVN8DKTHJqP) | [WheelUP](https://open.spotify.com/artist/5azPv1y5kPJljpHQmy5K32) | [Inner Light](https://open.spotify.com/album/0XobeWnTuxWo9mDeVuQ5Cx) | 4:00 | 2025-05-30 |  |
 | [Jazz Feel](https://open.spotify.com/track/3wBbSVC0FmbcQ0zlkBrNdC) | [Godblesscomputers](https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT) | [Jazz Feel](https://open.spotify.com/album/5Son32jRjljMaKwXfjmgRp) | 2:34 | 2025-03-28 |  |
 | [jazz is for ordinary people](https://open.spotify.com/track/12BaQt9aYdTlEtKreqB5V4) | [berlioz](https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141) | [jazz is for ordinary people](https://open.spotify.com/album/0EZTn2obuqMf9AbBG2PUKp) | 2:44 | 2025-02-21 |  |
 | [Jazz Piece 2](https://open.spotify.com/track/3fOyW8hSiOpCaXmQP4zpQH) | [DJ Aakmael](https://open.spotify.com/artist/4i2Ey9xknZmz8QQXtLzAN7) | [Jus' Tracks](https://open.spotify.com/album/2fRww4IqAwrNEEyt5P6ww8) | 7:00 | 2025-02-21 |  |

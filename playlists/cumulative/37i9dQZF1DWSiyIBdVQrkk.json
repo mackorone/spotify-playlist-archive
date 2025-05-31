@@ -644,7 +644,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 158784,
       "name": "Believe",
       "url": "https://open.spotify.com/track/4lelv8PEcOEpSxZGsYZWil"
@@ -1742,6 +1742,28 @@
       "duration_ms": 198440,
       "name": "Don't Give Up",
       "url": "https://open.spotify.com/track/4VC6Ihh1epJiQPiiMpJXDE"
+    },
+    {
+      "album": {
+        "name": "Don't Show Off",
+        "url": "https://open.spotify.com/album/7iQGwbsoke1zy9TXtXrWhm"
+      },
+      "artists": [
+        {
+          "name": "Willi Williams",
+          "url": "https://open.spotify.com/artist/2ZC3u6r4u6ELXjiAjI6qNe"
+        },
+        {
+          "name": "Lone Ark",
+          "url": "https://open.spotify.com/artist/2MimuJqP7xKW9t8YtoIA8p"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240309,
+      "name": "Don't Show Off",
+      "url": "https://open.spotify.com/track/6g1OFTxXHuWE1kJQ8qlXhH"
     },
     {
       "album": {

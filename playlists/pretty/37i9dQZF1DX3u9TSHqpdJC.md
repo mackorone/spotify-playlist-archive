@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best new pop music from new, independent artists\.  Cover: no na\. Artwork by Paola Saliby
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,393 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,437 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 26 | [Boys](https://open.spotify.com/track/2PODSkB110NvZg50k2pj8a) | [Just For Fun](https://open.spotify.com/artist/5jCHlaCfuvJlyn5a4yap3t) | [Boys](https://open.spotify.com/album/3aUoM464DNR5Z6bjweulfC) | 2:10 |
 | 27 | [Pacemaker](https://open.spotify.com/track/3KkoTGEnBJY07r1atEBxbe) | [Georgie & Joe](https://open.spotify.com/artist/4Uee7Zpi0edS5rCn8fKbtH) | [Pacemaker](https://open.spotify.com/album/620asHETGznhXwYUUFP3TB) | 3:09 |
 | 28 | [Wednesday's Child](https://open.spotify.com/track/0LAly6VAyxOtoVAj34oYFp) | [EMMMA](https://open.spotify.com/artist/69BpHcuizlrHOsWhQoIPMd) | [Wednesday's Child](https://open.spotify.com/album/3S7MP5Msk1fyjsJoiH3RdX) | 3:16 |
-| 29 | [Harder To Reach Than God](https://open.spotify.com/track/0qwXn6abuWsTT3lSqDkEaq) | [Avalon](https://open.spotify.com/artist/5qLjCUKw1qrmVyeVAqKOub) | [Harder To Reach Than God](https://open.spotify.com/album/6M7FmoochZnpEhbwJ0ruaG) | 2:53 |
+| 29 | [Harder To Reach Than God](https://open.spotify.com/track/0qwXn6abuWsTT3lSqDkEaq) | [Avalon](https://open.spotify.com/artist/5qLjCUKw1qrmVyeVAqKOub) | [harder to reach than god](https://open.spotify.com/album/6M7FmoochZnpEhbwJ0ruaG) | 2:53 |
 | 30 | [a green light](https://open.spotify.com/track/2QlTtHM87EDM5E1H8RqiYQ) | [yergurl](https://open.spotify.com/artist/256Y9onrKClLcW4xSDtbwo) | [a green light](https://open.spotify.com/album/0aFdRy0kEmY8rOKrU5pzbI) | 2:38 |
 | 31 | [Stubborn](https://open.spotify.com/track/4mJlf9bj5cgskTnHCV0xcW) | [Anna Kornis](https://open.spotify.com/artist/7agKvt4n9o9aKwgs9Zce3n) | [Stubborn](https://open.spotify.com/album/3kauZetUUHb6umQ400nKe8) | 3:10 |
 | 32 | [Next to You](https://open.spotify.com/track/1gqPIp3IpI2suAFp5ZN67J) | [ilja](https://open.spotify.com/artist/25Uh2RQ8ApyPxubF1r3UJO) | [Next to You](https://open.spotify.com/album/1QI3ly2a5v2KB47IMpWutG) | 2:44 |

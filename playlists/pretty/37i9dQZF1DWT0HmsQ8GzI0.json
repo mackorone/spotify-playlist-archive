@@ -1,6 +1,6 @@
 {
   "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: Saya No\u00e9",
-  "num_followers": 14802,
+  "num_followers": 14812,
   "original_name": "Nemazapop",
   "owner": {
     "name": "Spotify",
@@ -191,38 +191,6 @@
     {
       "added_at": "2025-04-18 09:29:48",
       "album": {
-        "name": "Magam sem tudom",
-        "url": "https://open.spotify.com/album/6k6hfT293PG9NduWzLC55r"
-      },
-      "artists": [
-        {
-          "name": "Bohemian Betyars",
-          "url": "https://open.spotify.com/artist/2ezYPSKWBfnFTobN9puCow"
-        }
-      ],
-      "duration_ms": 190335,
-      "name": "Magam sem tudom",
-      "url": "https://open.spotify.com/track/22xCahAMd6iR2r7AsVqnvk"
-    },
-    {
-      "added_at": "2025-04-18 09:29:48",
-      "album": {
-        "name": "Channeling codes",
-        "url": "https://open.spotify.com/album/4wAvLx9vFOtCBwz3V18yFT"
-      },
-      "artists": [
-        {
-          "name": "Musspell",
-          "url": "https://open.spotify.com/artist/0Lpgi7wyIavnWFEqgUVczz"
-        }
-      ],
-      "duration_ms": 249795,
-      "name": "Channeling codes",
-      "url": "https://open.spotify.com/track/3AVfmyHn1XwkupZXPZ0Odg"
-    },
-    {
-      "added_at": "2025-04-18 09:29:48",
-      "album": {
         "name": "MO\u00cbT",
         "url": "https://open.spotify.com/album/1FzkwYit74bPdGuHVO0I7E"
       },
@@ -243,6 +211,38 @@
       "duration_ms": 226567,
       "name": "MO\u00cbT",
       "url": "https://open.spotify.com/track/3kXWlf3stIllRX3QZfqKqU"
+    },
+    {
+      "added_at": "2025-04-18 09:29:48",
+      "album": {
+        "name": "Channeling codes",
+        "url": "https://open.spotify.com/album/4wAvLx9vFOtCBwz3V18yFT"
+      },
+      "artists": [
+        {
+          "name": "Musspell",
+          "url": "https://open.spotify.com/artist/0Lpgi7wyIavnWFEqgUVczz"
+        }
+      ],
+      "duration_ms": 249795,
+      "name": "Channeling codes",
+      "url": "https://open.spotify.com/track/3AVfmyHn1XwkupZXPZ0Odg"
+    },
+    {
+      "added_at": "2025-04-18 09:29:48",
+      "album": {
+        "name": "Magam sem tudom",
+        "url": "https://open.spotify.com/album/6k6hfT293PG9NduWzLC55r"
+      },
+      "artists": [
+        {
+          "name": "Bohemian Betyars",
+          "url": "https://open.spotify.com/artist/2ezYPSKWBfnFTobN9puCow"
+        }
+      ],
+      "duration_ms": 190335,
+      "name": "Magam sem tudom",
+      "url": "https://open.spotify.com/track/22xCahAMd6iR2r7AsVqnvk"
     },
     {
       "added_at": "2025-04-18 09:29:48",
@@ -475,26 +475,6 @@
     {
       "added_at": "2025-04-18 09:29:48",
       "album": {
-        "name": "LENN\u00c9K M\u00c1S...",
-        "url": "https://open.spotify.com/album/74iLGHuQP5hzyqOqNXCTfK"
-      },
-      "artists": [
-        {
-          "name": "4ma",
-          "url": "https://open.spotify.com/artist/61NzhhZc18XgC6318Da9dX"
-        },
-        {
-          "name": "FRANKO",
-          "url": "https://open.spotify.com/artist/4z7BpuAzNBJCtnkNjYNgKb"
-        }
-      ],
-      "duration_ms": 168199,
-      "name": "Gordon",
-      "url": "https://open.spotify.com/track/6hm7Ey0MHSWcAZBWTRCl6r"
-    },
-    {
-      "added_at": "2025-04-18 09:29:48",
-      "album": {
         "name": "Sehovaval\u00f3",
         "url": "https://open.spotify.com/album/59MgYQgY8TPlQLIZ5UwZu4"
       },
@@ -511,6 +491,26 @@
       "duration_ms": 174529,
       "name": "Sehovaval\u00f3",
       "url": "https://open.spotify.com/track/40H2mLXeC2gxJuQPzpyWhT"
+    },
+    {
+      "added_at": "2025-04-18 09:29:48",
+      "album": {
+        "name": "LENN\u00c9K M\u00c1S...",
+        "url": "https://open.spotify.com/album/74iLGHuQP5hzyqOqNXCTfK"
+      },
+      "artists": [
+        {
+          "name": "4ma",
+          "url": "https://open.spotify.com/artist/61NzhhZc18XgC6318Da9dX"
+        },
+        {
+          "name": "FRANKO",
+          "url": "https://open.spotify.com/artist/4z7BpuAzNBJCtnkNjYNgKb"
+        }
+      ],
+      "duration_ms": 168199,
+      "name": "Gordon",
+      "url": "https://open.spotify.com/track/6hm7Ey0MHSWcAZBWTRCl6r"
     },
     {
       "added_at": "2025-04-18 09:29:48",
@@ -647,6 +647,22 @@
     {
       "added_at": "2025-04-18 09:29:48",
       "album": {
+        "name": "Ugyanitt v\u00e1rlak",
+        "url": "https://open.spotify.com/album/3K0RrtPlf7DttkxvCrrVKj"
+      },
+      "artists": [
+        {
+          "name": "Margaret Island",
+          "url": "https://open.spotify.com/artist/02jCP5QSPYrmuZVMwSJweB"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "Ugyanitt v\u00e1rlak",
+      "url": "https://open.spotify.com/track/1b6DV0wJ8YWBzFINSUNRFO"
+    },
+    {
+      "added_at": "2025-04-18 09:29:48",
+      "album": {
         "name": "B\u00e1ty\u00e1m, Dod\u00f3 - A Film",
         "url": "https://open.spotify.com/album/4FBHvAtwqpEwojA6dDlvg5"
       },
@@ -667,22 +683,6 @@
     {
       "added_at": "2025-04-18 09:29:48",
       "album": {
-        "name": "Ugyanitt v\u00e1rlak",
-        "url": "https://open.spotify.com/album/3K0RrtPlf7DttkxvCrrVKj"
-      },
-      "artists": [
-        {
-          "name": "Margaret Island",
-          "url": "https://open.spotify.com/artist/02jCP5QSPYrmuZVMwSJweB"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "Ugyanitt v\u00e1rlak",
-      "url": "https://open.spotify.com/track/1b6DV0wJ8YWBzFINSUNRFO"
-    },
-    {
-      "added_at": "2025-04-18 09:29:48",
-      "album": {
         "name": "Menj",
         "url": "https://open.spotify.com/album/3eiwFheSvjaecLq4PpNsB9"
       },
@@ -695,22 +695,6 @@
       "duration_ms": 227391,
       "name": "Menj",
       "url": "https://open.spotify.com/track/7kk5ouFxBgw5e2TZitUsZ9"
-    },
-    {
-      "added_at": "2025-04-18 09:29:48",
-      "album": {
-        "name": "Dancer",
-        "url": "https://open.spotify.com/album/3flCGlR7kuf0lXQaly9I1w"
-      },
-      "artists": [
-        {
-          "name": "Ivan & The Parazol",
-          "url": "https://open.spotify.com/artist/0arW2wuAryC7RMZpjpw3N8"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Dancer",
-      "url": "https://open.spotify.com/track/6OGUMF9e9yLyIYCwu3jAC5"
     },
     {
       "added_at": "2025-04-18 09:29:48",
@@ -731,6 +715,22 @@
       "duration_ms": 213333,
       "name": "Nekedval\u00f3s\u00e1g",
       "url": "https://open.spotify.com/track/7Imx5CtDuBNwGsE0Hdxuyi"
+    },
+    {
+      "added_at": "2025-04-18 09:29:48",
+      "album": {
+        "name": "Dancer",
+        "url": "https://open.spotify.com/album/3flCGlR7kuf0lXQaly9I1w"
+      },
+      "artists": [
+        {
+          "name": "Ivan & The Parazol",
+          "url": "https://open.spotify.com/artist/0arW2wuAryC7RMZpjpw3N8"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Dancer",
+      "url": "https://open.spotify.com/track/6OGUMF9e9yLyIYCwu3jAC5"
     },
     {
       "added_at": "2025-04-18 09:29:48",
@@ -931,22 +931,6 @@
     {
       "added_at": "2025-04-18 09:29:48",
       "album": {
-        "name": "Breeze",
-        "url": "https://open.spotify.com/album/71HEKq46kF8Vs99DKjw35Q"
-      },
-      "artists": [
-        {
-          "name": "Ivan & The Parazol",
-          "url": "https://open.spotify.com/artist/0arW2wuAryC7RMZpjpw3N8"
-        }
-      ],
-      "duration_ms": 155500,
-      "name": "Breeze",
-      "url": "https://open.spotify.com/track/0Z6ebZcUPndOJcCPcvoMqE"
-    },
-    {
-      "added_at": "2025-04-18 09:29:48",
-      "album": {
         "name": "Ahogy szeretn\u00e9m",
         "url": "https://open.spotify.com/album/47j1yyZE2sG0zA3e8acnBX"
       },
@@ -963,18 +947,18 @@
     {
       "added_at": "2025-04-18 09:29:48",
       "album": {
-        "name": "Lil' After",
-        "url": "https://open.spotify.com/album/3hdYh2rOHJZJhlkUqvbrjD"
+        "name": "Breeze",
+        "url": "https://open.spotify.com/album/71HEKq46kF8Vs99DKjw35Q"
       },
       "artists": [
         {
-          "name": "The Qualitons",
-          "url": "https://open.spotify.com/artist/2dBVJ1yiXq49MiaC7uUP9D"
+          "name": "Ivan & The Parazol",
+          "url": "https://open.spotify.com/artist/0arW2wuAryC7RMZpjpw3N8"
         }
       ],
-      "duration_ms": 138333,
-      "name": "Lil' After",
-      "url": "https://open.spotify.com/track/1Q0WRrC3KoOawRLOTqrpcj"
+      "duration_ms": 155500,
+      "name": "Breeze",
+      "url": "https://open.spotify.com/track/0Z6ebZcUPndOJcCPcvoMqE"
     },
     {
       "added_at": "2025-04-18 09:29:48",
@@ -995,22 +979,6 @@
     {
       "added_at": "2025-04-18 09:29:48",
       "album": {
-        "name": "S\u00f6t\u00e9t vill\u00e1m",
-        "url": "https://open.spotify.com/album/2mPqC3mjQDITg2jTkpw34T"
-      },
-      "artists": [
-        {
-          "name": "Blahalouisiana",
-          "url": "https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Nem volt \u00fagy m\u00e9g",
-      "url": "https://open.spotify.com/track/6HlVMdhrNsjWbWYn0erUlq"
-    },
-    {
-      "added_at": "2025-04-18 09:29:48",
-      "album": {
         "name": "Quatre Grapes",
         "url": "https://open.spotify.com/album/166W34UydwJ0pZlsNbrRKN"
       },
@@ -1027,6 +995,38 @@
       "duration_ms": 210400,
       "name": "Quatre Grapes",
       "url": "https://open.spotify.com/track/4a8KAMlAAhdTuBxGnjS6Zc"
+    },
+    {
+      "added_at": "2025-04-18 09:29:48",
+      "album": {
+        "name": "S\u00f6t\u00e9t vill\u00e1m",
+        "url": "https://open.spotify.com/album/2mPqC3mjQDITg2jTkpw34T"
+      },
+      "artists": [
+        {
+          "name": "Blahalouisiana",
+          "url": "https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Nem volt \u00fagy m\u00e9g",
+      "url": "https://open.spotify.com/track/6HlVMdhrNsjWbWYn0erUlq"
+    },
+    {
+      "added_at": "2025-04-18 09:29:48",
+      "album": {
+        "name": "Lil' After",
+        "url": "https://open.spotify.com/album/3hdYh2rOHJZJhlkUqvbrjD"
+      },
+      "artists": [
+        {
+          "name": "The Qualitons",
+          "url": "https://open.spotify.com/artist/2dBVJ1yiXq49MiaC7uUP9D"
+        }
+      ],
+      "duration_ms": 138333,
+      "name": "Lil' After",
+      "url": "https://open.spotify.com/track/1Q0WRrC3KoOawRLOTqrpcj"
     },
     {
       "added_at": "2025-04-18 09:29:48",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2025-04-18 09:29:48",
       "album": {
-        "name": "Ezen a hegyen",
-        "url": "https://open.spotify.com/album/5S4OtjWJng2qoheMCwepX6"
-      },
-      "artists": [
-        {
-          "name": "Platon Karataev",
-          "url": "https://open.spotify.com/artist/1ekcGfPOk3wgHb4viyPQab"
-        }
-      ],
-      "duration_ms": 336800,
-      "name": "Ezen a hegyen",
-      "url": "https://open.spotify.com/track/1mfHxJ6OHEbtLgJrFSODp3"
-    },
-    {
-      "added_at": "2025-04-18 09:29:48",
-      "album": {
         "name": "X",
         "url": "https://open.spotify.com/album/32wzMd5KnDN0BkArhepXqH"
       },
@@ -1115,6 +1099,22 @@
     {
       "added_at": "2025-04-18 09:29:48",
       "album": {
+        "name": "Ezen a hegyen",
+        "url": "https://open.spotify.com/album/5S4OtjWJng2qoheMCwepX6"
+      },
+      "artists": [
+        {
+          "name": "Platon Karataev",
+          "url": "https://open.spotify.com/artist/1ekcGfPOk3wgHb4viyPQab"
+        }
+      ],
+      "duration_ms": 336800,
+      "name": "Ezen a hegyen",
+      "url": "https://open.spotify.com/track/1mfHxJ6OHEbtLgJrFSODp3"
+    },
+    {
+      "added_at": "2025-04-18 09:29:48",
+      "album": {
         "name": "Szob\u00e1k felett",
         "url": "https://open.spotify.com/album/5LiXOFGCIm4rXVEclWrsmB"
       },
@@ -1127,38 +1127,6 @@
       "duration_ms": 232293,
       "name": "Alb\u00e9rlet",
       "url": "https://open.spotify.com/track/0LxmBrcAbrGY9Z1kNZChic"
-    },
-    {
-      "added_at": "2025-04-18 09:29:48",
-      "album": {
-        "name": "GARABONCI\u00c1S",
-        "url": "https://open.spotify.com/album/66RwvU22PP0bq7PR51UHdJ"
-      },
-      "artists": [
-        {
-          "name": "HIPERKARMA",
-          "url": "https://open.spotify.com/artist/3I4YFS0OzOA9yDOu0hcGqs"
-        }
-      ],
-      "duration_ms": 184475,
-      "name": "GARABONCI\u00c1S",
-      "url": "https://open.spotify.com/track/1YlpMrbPxmgJ9URKVabR0q"
-    },
-    {
-      "added_at": "2025-04-18 09:29:48",
-      "album": {
-        "name": "Oda\u00e9r",
-        "url": "https://open.spotify.com/album/5l13P64Dc9SGxkCZZGdeha"
-      },
-      "artists": [
-        {
-          "name": "Platon Karataev",
-          "url": "https://open.spotify.com/artist/1ekcGfPOk3wgHb4viyPQab"
-        }
-      ],
-      "duration_ms": 266142,
-      "name": "Oda\u00e9r",
-      "url": "https://open.spotify.com/track/0bLpbIu0ZE1yTCQB7cayiv"
     },
     {
       "added_at": "2025-04-18 09:29:48",
@@ -1187,6 +1155,22 @@
     {
       "added_at": "2025-04-18 09:29:48",
       "album": {
+        "name": "GARABONCI\u00c1S",
+        "url": "https://open.spotify.com/album/66RwvU22PP0bq7PR51UHdJ"
+      },
+      "artists": [
+        {
+          "name": "HIPERKARMA",
+          "url": "https://open.spotify.com/artist/3I4YFS0OzOA9yDOu0hcGqs"
+        }
+      ],
+      "duration_ms": 184475,
+      "name": "GARABONCI\u00c1S",
+      "url": "https://open.spotify.com/track/1YlpMrbPxmgJ9URKVabR0q"
+    },
+    {
+      "added_at": "2025-04-18 09:29:48",
+      "album": {
         "name": "kurvanagy ???",
         "url": "https://open.spotify.com/album/5rtV49XeYdexhaF7uk0N5W"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 151500,
       "name": "kurvanagy ???",
       "url": "https://open.spotify.com/track/5BwHgUkJOPriDnrH5RNEwc"
+    },
+    {
+      "added_at": "2025-04-18 09:29:48",
+      "album": {
+        "name": "Oda\u00e9r",
+        "url": "https://open.spotify.com/album/5l13P64Dc9SGxkCZZGdeha"
+      },
+      "artists": [
+        {
+          "name": "Platon Karataev",
+          "url": "https://open.spotify.com/artist/1ekcGfPOk3wgHb4viyPQab"
+        }
+      ],
+      "duration_ms": 266142,
+      "name": "Oda\u00e9r",
+      "url": "https://open.spotify.com/track/0bLpbIu0ZE1yTCQB7cayiv"
     },
     {
       "added_at": "2025-04-18 09:29:48",
@@ -1271,6 +1271,30 @@
     {
       "added_at": "2025-04-18 09:29:48",
       "album": {
+        "name": "N\u00e1rcisz",
+        "url": "https://open.spotify.com/album/2Ds2rjH6PrfQ5c6VTqUqLK"
+      },
+      "artists": [
+        {
+          "name": "Indigo",
+          "url": "https://open.spotify.com/artist/7JpalwREu08h1nkdkmh2ZA"
+        },
+        {
+          "name": "Blaize",
+          "url": "https://open.spotify.com/artist/2yc8L4CBEwRcc5hwxcRAzD"
+        },
+        {
+          "name": "OB",
+          "url": "https://open.spotify.com/artist/04DZtaXcurMKKFIdV4FNvt"
+        }
+      ],
+      "duration_ms": 179045,
+      "name": "Groteszk",
+      "url": "https://open.spotify.com/track/7DEz8GHB8LxhYNgamY9zXa"
+    },
+    {
+      "added_at": "2025-04-18 09:29:48",
+      "album": {
         "name": "Kicsi a vil\u00e1g (Dalfut\u00e1r10)",
         "url": "https://open.spotify.com/album/3sBnNLnlXqlQBqAvRAn6qr"
       },
@@ -1303,26 +1327,18 @@
     {
       "added_at": "2025-04-18 09:29:48",
       "album": {
-        "name": "N\u00e1rcisz",
-        "url": "https://open.spotify.com/album/2Ds2rjH6PrfQ5c6VTqUqLK"
+        "name": "Megyek ut\u00e1nad",
+        "url": "https://open.spotify.com/album/4OfqKnxBfuu372UHrve3oS"
       },
       "artists": [
         {
-          "name": "Indigo",
-          "url": "https://open.spotify.com/artist/7JpalwREu08h1nkdkmh2ZA"
-        },
-        {
-          "name": "Blaize",
-          "url": "https://open.spotify.com/artist/2yc8L4CBEwRcc5hwxcRAzD"
-        },
-        {
-          "name": "OB",
-          "url": "https://open.spotify.com/artist/04DZtaXcurMKKFIdV4FNvt"
+          "name": "laurie.",
+          "url": "https://open.spotify.com/artist/6RNq4wuvQfF7WbDtBkiuET"
         }
       ],
-      "duration_ms": 179045,
-      "name": "Groteszk",
-      "url": "https://open.spotify.com/track/7DEz8GHB8LxhYNgamY9zXa"
+      "duration_ms": 131986,
+      "name": "Megyek ut\u00e1nad",
+      "url": "https://open.spotify.com/track/7zFTSuwz7CAHhWByjBhmB4"
     },
     {
       "added_at": "2025-04-18 09:29:48",
@@ -1339,22 +1355,6 @@
       "duration_ms": 284368,
       "name": "Elment\u00e9l",
       "url": "https://open.spotify.com/track/1o4NsoVgFIl7CjHLDT9mBM"
-    },
-    {
-      "added_at": "2025-04-18 09:29:48",
-      "album": {
-        "name": "Megyek ut\u00e1nad",
-        "url": "https://open.spotify.com/album/4OfqKnxBfuu372UHrve3oS"
-      },
-      "artists": [
-        {
-          "name": "laurie.",
-          "url": "https://open.spotify.com/artist/6RNq4wuvQfF7WbDtBkiuET"
-        }
-      ],
-      "duration_ms": 131986,
-      "name": "Megyek ut\u00e1nad",
-      "url": "https://open.spotify.com/track/7zFTSuwz7CAHhWByjBhmB4"
     },
     {
       "added_at": "2025-04-18 09:29:48",

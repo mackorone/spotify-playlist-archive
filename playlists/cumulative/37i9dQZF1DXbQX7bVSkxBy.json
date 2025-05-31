@@ -1353,6 +1353,36 @@
     },
     {
       "album": {
+        "name": "Controller",
+        "url": "https://open.spotify.com/album/2f8L078klwods1pvFV7MTJ"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Rue",
+          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
+        },
+        {
+          "name": "Ada Betsabe",
+          "url": "https://open.spotify.com/artist/7uNB59gDx8XVl1rTJDL1KT"
+        },
+        {
+          "name": "Macjosh",
+          "url": "https://open.spotify.com/artist/4BqqI6vV1XdB5UbH2qhXak"
+        },
+        {
+          "name": "Nicole Mawugunzi",
+          "url": "https://open.spotify.com/artist/01VymGxQXUJXRfmNnRRcOS"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Controller",
+      "url": "https://open.spotify.com/track/6I38Il7uZyXN35rm1aqRri"
+    },
+    {
+      "album": {
         "name": "Life After Death",
         "url": "https://open.spotify.com/album/1WImPglJycAdHQ79c8yRH8"
       },
@@ -1668,7 +1698,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 324572,
       "name": "Dansaki",
       "url": "https://open.spotify.com/track/7pW8qktBmU1SLIDeiVb8PP"
@@ -3327,6 +3357,24 @@
     },
     {
       "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/3yOxLm70FSd2aCA9MtO3NR"
+      },
+      "artists": [
+        {
+          "name": "Tamar\u00e1",
+          "url": "https://open.spotify.com/artist/5yWup2QHnXNBHR418cQl0m"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256523,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/5edBgYe6nAPm24nNmitptV"
+    },
+    {
+      "album": {
         "name": "Hallelujah (feat. Sini Dagana) [Gyration Version]",
         "url": "https://open.spotify.com/album/2anNLVL6hppIExTm0C9IYm"
       },
@@ -3690,7 +3738,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 546156,
       "name": "I Get Backing",
       "url": "https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW"
@@ -4046,6 +4094,28 @@
       "duration_ms": 319346,
       "name": "Imela",
       "url": "https://open.spotify.com/track/6cyYQWOwUORc8K1oBVqEvW"
+    },
+    {
+      "album": {
+        "name": "Imela",
+        "url": "https://open.spotify.com/album/5O5ASDteTamA9ceHyDExRY"
+      },
+      "artists": [
+        {
+          "name": "TFC Gold",
+          "url": "https://open.spotify.com/artist/0tUXkhXZq28ovlMTUHTyg1"
+        },
+        {
+          "name": "TESTIMONY JAGA",
+          "url": "https://open.spotify.com/artist/0RuEx08C8sVTmomMsW9N3h"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202057,
+      "name": "Imela",
+      "url": "https://open.spotify.com/track/3WSjY8Z9vCKX8X3sc1pQwb"
     },
     {
       "album": {
@@ -6100,7 +6170,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 380040,
       "name": "Out Of My Belly",
       "url": "https://open.spotify.com/track/19OhFys7Cga8g5sHHSY7hE"
@@ -7005,6 +7075,32 @@
     },
     {
       "album": {
+        "name": "Testify",
+        "url": "https://open.spotify.com/album/0YnszxnoNksutwA8iVijVt"
+      },
+      "artists": [
+        {
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        },
+        {
+          "name": "Jvson",
+          "url": "https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F"
+        },
+        {
+          "name": "Lekan Salamii",
+          "url": "https://open.spotify.com/artist/2S8pBLSlvmEiRPl2SMPfPB"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154124,
+      "name": "Testify",
+      "url": "https://open.spotify.com/track/03B6wjiG0kuJlWCv3neYcg"
+    },
+    {
+      "album": {
         "name": "Testimony",
         "url": "https://open.spotify.com/album/1wnLB7bZsBb1LZvp0YYCmZ"
       },
@@ -7532,7 +7628,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 230505,
       "name": "Victory",
       "url": "https://open.spotify.com/track/6GL0fX7lcTWiWqdCocOLk7"

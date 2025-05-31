@@ -2,9 +2,9 @@
 
 ### [Rock Now](https://open.spotify.com/playlist/37i9dQZF1DX8jpyvTAre41)
 
-> The best rock songs of the moment\. Cover: EKKSTACY
+> The best rock songs of the moment\. Cover: YUNGBLUD
 
-1,237 songs - 2 day 21 hr 37 min
+1,241 songs - 2 day 21 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [Boyfeel](https://open.spotify.com/track/6RCB34D4Z3LKpOuIUTdp13) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Boyfeel](https://open.spotify.com/album/2D58g8d3MD0UKNgch1IDKp) | 2:29 | 2024-06-07 | 2024-08-10 |
 | [Boyfriend](https://open.spotify.com/track/2pCUsphV4bFzpyt1zvzTPD) | [T\. Thomason](https://open.spotify.com/artist/4qW3B9lAaefCiA5m5fUAZg) | [Boyfriend](https://open.spotify.com/album/5QxIPDXX56fHgGWeERwozc) | 2:35 | 2024-10-04 | 2024-10-12 |
 | [Boys Will Be Boys](https://open.spotify.com/track/4WJspkXNat2ntN7jJhW0jw) | [Fleur de Peau](https://open.spotify.com/artist/6EoKem2HNXbpL23782Daoi) | [Contre\-sens](https://open.spotify.com/album/5MAMi2WRJ9ILrs5JeWPqOX) | 3:53 | 2024-06-14 | 2024-11-02 |
+| [BRAINROT](https://open.spotify.com/track/10xlm1z0JiePh1Z6eGecCo) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [BRAINROT](https://open.spotify.com/album/3aKGl3V5rCiCMFqLSpxOz2) | 2:44 | 2025-05-30 |  |
 | [BRAINWASHED](https://open.spotify.com/track/5rt1XJbhuC5NRqmdKMDscI) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm) | 2:44 | 2023-04-14 | 2024-05-18 |
 | [Break The Habit](https://open.spotify.com/track/5jl8iC4QC8GFFUR0Uae1tN) | [Manafest](https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL) | [I Run With Wolves](https://open.spotify.com/album/68FghP1QWbbmmmVcIKYKNM) | 3:01 | 2022-05-06 | 2022-08-06 |
 | [breakdown.](https://open.spotify.com/track/3a4PdwwaddhYbZnp0lxqyz) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [breakdown.](https://open.spotify.com/album/7EDOy8ue9MwE27BRwBT1fd) | 2:43 | 2024-06-21 | 2024-11-09 |
@@ -232,6 +233,7 @@
 | [Conversation](https://open.spotify.com/track/0YeiQy33chHyND3OfwruRW) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Churches](https://open.spotify.com/album/3sq0aNl4kqJSDD5YM3v6ZG) | 4:46 | 2021-12-31 | 2022-01-15 |
 | [Cowboys Don’t Cry](https://open.spotify.com/track/04WxFTgT3bEvX1WOYzT5Ky) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Cowboy Tears](https://open.spotify.com/album/1ETtnOFdO0JSOy0SRLAmTC) | 3:09 | 2022-02-18 | 2022-02-26 |
 | [Cowboys Don’t Cry](https://open.spotify.com/track/13plTOJUDmgBrTEd7yzTgq) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Cowboys Don’t Cry](https://open.spotify.com/album/3vAAKKBTjbIAKcJDprhhEQ) | 3:09 | 2022-01-14 | 2022-02-19 |
+| [CPR](https://open.spotify.com/track/4shJVGH4xRWChBSkHHamxv) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [CPR](https://open.spotify.com/album/74nethFnPNZe86ksfRl0gh) | 2:50 | 2025-05-30 |  |
 | [Crack In The Glass](https://open.spotify.com/track/1QGUDtsMHFg97XK533cotm) | [Stuck On Planet Earth](https://open.spotify.com/artist/1SFdaY4s5BAQMk2X7YIhAS) | [Crack In The Glass](https://open.spotify.com/album/6SD6bl4EOazDhZfGgLO5Mx) | 2:57 | 2023-03-17 | 2024-02-24 |
 | [Cruel](https://open.spotify.com/track/1QQsgLecQ0pakWP3vBdQnf) | [BRKN LOVE](https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp) | [The Program](https://open.spotify.com/album/42XlvIgpTYlQMexFQcXbHl) | 3:39 | 2025-03-28 |  |
 | [CRUISING TO SELF SOOTHE](https://open.spotify.com/track/43YEV5eMkQYdkk27WV1Bkv) | [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [CRUISING TO SELF SOOTHE](https://open.spotify.com/album/1wHdmayr1a37PamCdZ5VqA) | 2:32 | 2025-03-14 |  |
@@ -388,7 +390,7 @@
 | [Forever](https://open.spotify.com/track/0sZamd0b0tAaRe7WGZXYmh) | [Beach Season](https://open.spotify.com/artist/44hIVkpzLPUGJGUa04H3jw) | [Forever](https://open.spotify.com/album/5sOesRaU6GxHYLy5zZ0dmv) | 3:11 | 2024-08-09 | 2024-09-14 |
 | [forever](https://open.spotify.com/track/4uKPYoDkFqrCbN9vCseMoH) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [forever](https://open.spotify.com/album/5oSy3KuBuLVlZkb6vA5BA9) | 2:20 | 2025-03-21 | 2025-05-17 |
 | [Forever's Enough](https://open.spotify.com/track/5BUvQtKdYrWJtdYaSoyFfG) | [BRKN LOVE](https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp) | [Forever's Enough](https://open.spotify.com/album/1QnJkCunpWFPbdCElBs03p) | 3:02 | 2022-08-05 | 2022-09-10 |
-| [Forget Yer Name](https://open.spotify.com/track/6J8zAJNk5DZXORHLDt6xB4) | [Peter Dreams](https://open.spotify.com/artist/55zmcbCA9XmEOPDGfvkxmv) | [Forget Yer Name](https://open.spotify.com/album/2QR0efpsZf7mtAV9uOZ4iZ) | 3:32 | 2025-01-10 |  |
+| [Forget Yer Name](https://open.spotify.com/track/6J8zAJNk5DZXORHLDt6xB4) | [Peter Dreams](https://open.spotify.com/artist/55zmcbCA9XmEOPDGfvkxmv) | [Forget Yer Name](https://open.spotify.com/album/2QR0efpsZf7mtAV9uOZ4iZ) | 3:32 | 2025-01-10 | 2025-05-31 |
 | [Forgotten](https://open.spotify.com/track/4TWHdkXfyu7gLpAUSyU1X8) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Forgotten](https://open.spotify.com/album/155RnIndCn3TFeiPV6bo2E) | 3:17 | 2022-01-14 | 2022-01-29 |
 | [Fortune Cookies](https://open.spotify.com/track/2tSuIw7VLESHDHga6iX9Oy) | [Rare Americans](https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt) | [Fortune Cookies](https://open.spotify.com/album/6w9DwZPwaibIt76j31JcWa) | 2:08 | 2024-05-03 | 2024-05-25 |
 | [Francesca](https://open.spotify.com/track/4LmOmWpjCQbC1VZvUuwPQu) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Francesca](https://open.spotify.com/album/2GS1K0RZ5SjtuT8bsX0xyv) | 4:30 | 2023-05-19 | 2023-08-21 |
@@ -517,7 +519,7 @@
 | [IF IT DOESN'T HURT](https://open.spotify.com/track/1ve6FiKnpfXt8vUxhndH7p) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [CARNAL](https://open.spotify.com/album/0ivYaIK4SxXpiSiKXTNvtF) | 2:59 | 2025-01-17 |  |
 | [If You Were Me](https://open.spotify.com/track/2MCwBbYNrpT0RTDIrOPHoE) | [Deanna Petcoff](https://open.spotify.com/artist/40wJiyTgK3egckAlDOp1ea) | [If You Were Me](https://open.spotify.com/album/7MmxPEfTJp1ZiHkbjVcLCR) | 3:45 | 2022-03-18 | 2022-04-09 |
 | [In The Modern World](https://open.spotify.com/track/7ht9gaFe8hSIp5R795x87h) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [In The Modern World](https://open.spotify.com/album/52hEWkt7HEi8WZLXDwg7R0) | 4:26 | 2024-08-23 | 2024-10-12 |
-| [In Your Head](https://open.spotify.com/track/1ib6xwfqPhHZnxZlinxiyn) | [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [In Your Head](https://open.spotify.com/album/64DKyYtO5tU7MCxJOgJQNv) | 2:28 | 2025-01-10 |  |
+| [In Your Head](https://open.spotify.com/track/1ib6xwfqPhHZnxZlinxiyn) | [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [In Your Head](https://open.spotify.com/album/64DKyYtO5tU7MCxJOgJQNv) | 2:28 | 2025-01-10 | 2025-05-31 |
 | [Insane](https://open.spotify.com/track/3Exir4RkVCbkr9svN3Z2gW) | [Texas King](https://open.spotify.com/artist/55GkrWxCOER93qGLMiX2cj) | [Ultraviolet \(Deluxe\)](https://open.spotify.com/album/1svlVQJdugrqaWyCuSJpB0) | 3:04 | 2025-05-09 |  |
 | [Invincible](https://open.spotify.com/track/6NTaNlVIeigg3ERXef5wjM) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Earthling](https://open.spotify.com/album/7woWmF7vNQwAVNymD0UkbY) | 4:46 | 2022-02-11 | 2022-04-02 |
 | [Is There A Way Out?](https://open.spotify.com/track/6rf4bVvre0irREvjoCeWMC) | [Rare Americans](https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt) | [\(S\)KiDS](https://open.spotify.com/album/3gRaegdXON3OTLuzDFRmdy) | 2:09 | 2025-04-11 |  |
@@ -902,6 +904,7 @@
 | [Satanized](https://open.spotify.com/track/5yt7aRlPMFdsLulfqBYDsc) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Satanized](https://open.spotify.com/album/1iIObYoApKb4DE2rr8PdBX) | 3:56 | 2025-03-14 |  |
 | [Save Me](https://open.spotify.com/track/6A6rtRemncYRWtxjXaIPfw) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Talk to Me](https://open.spotify.com/album/01wqtcP9Kxgor1VDxTs0D1) | 3:22 | 2021-12-31 | 2022-01-29 |
 | [Save My Life](https://open.spotify.com/track/0P2M5EYNWRhK66aaeZDD5F) | [Hawksley Workman](https://open.spotify.com/artist/6TXT0xgAes45U8vyHeCIZJ) | [Save My Life](https://open.spotify.com/album/5614yeoZ72Qs036Ioeh1Qf) | 3:00 | 2025-02-21 | 2025-05-10 |
+| [Save The Cat](https://open.spotify.com/track/0L0DVRuUZ0lJIyq8oNQtF9) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B) | [Save The Cat](https://open.spotify.com/album/3lF11dYBA2aml6FwhXBh5k) | 2:52 | 2025-05-30 |  |
 | [Save Yourself](https://open.spotify.com/track/6jZp2rNTYVlKwt20aMIcot) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Save Yourself](https://open.spotify.com/album/1xs19Gxdqwyb3jfNQlEOUo) | 3:17 | 2022-07-22 | 2023-04-11 |
 | [Scarborough Street Fight](https://open.spotify.com/track/0gIfFHoACeI7VTp9FmHz9M) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [Outta Sight](https://open.spotify.com/album/7bTPEsKhpCQbM36uZLA40j) | 4:30 | 2022-06-03 | 2022-06-11 |
 | [Scarborough Street Fight](https://open.spotify.com/track/7EPpQ2FZRoIIB7CRhRUwbH) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [Scarborough Street Fight](https://open.spotify.com/album/2yWkANFYshG5s3byrY9DKk) | 4:30 | 2022-05-13 | 2022-06-04 |
@@ -945,7 +948,7 @@
 | [SKODEN](https://open.spotify.com/track/3ssxyKEYJgkZxPjrmniL5w) | [Digging Roots](https://open.spotify.com/artist/6jXRPYI1uhTRJKuetXMRpj) | [SKODEN](https://open.spotify.com/album/4bQcsJ1UJGeyg1PPjA3I3i) | 3:33 | 2022-01-28 | 2023-01-21 |
 | [slapshot!](https://open.spotify.com/track/2wb1Inhx2cU3OaZUjvZtB2) | [Noble Son](https://open.spotify.com/artist/7MZIDz9tE0iPbZHmA1XaJ8) | [slapshot!](https://open.spotify.com/album/649wRF7ACBd1JjA6BiC7yj) | 2:37 | 2024-07-26 | 2024-08-10 |
 | [Sleep Now In The Fire \- Spotify Singles](https://open.spotify.com/track/5mMjqL7JI1BQQWBVFevFsN) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Spotify Singles](https://open.spotify.com/album/37mPOJFmLSgqIE90CdAsT6) | 3:20 | 2025-03-28 |  |
-| [SLEEP WHEN I'M DEAD](https://open.spotify.com/track/1SgrtfTB9QmIihcmj4NRNO) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [DEADBEAT!](https://open.spotify.com/album/3Gj628skEWhuPGYdm4hcEi) | 2:26 | 2024-12-13 |  |
+| [SLEEP WHEN I'M DEAD](https://open.spotify.com/track/1SgrtfTB9QmIihcmj4NRNO) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [DEADBEAT!](https://open.spotify.com/album/3Gj628skEWhuPGYdm4hcEi) | 2:26 | 2024-12-13 | 2025-05-31 |
 | [Sleepwalking](https://open.spotify.com/track/4SOtTsuFYYlkOOvXMbroUv) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Sleepwalking](https://open.spotify.com/album/4bI5LF5zauGsBIL9z8mLyl) | 3:07 | 2022-12-23 | 2023-03-18 |
 | [Slip](https://open.spotify.com/track/7rKmdNlYcVJZ0OFPmXZ5li) | [Ellevator](https://open.spotify.com/artist/617IdGJR4ElBnDD2cXiBUt) | [Slip](https://open.spotify.com/album/1jNfYTMnromITdfUbvtwfu) | 3:26 | 2022-02-11 | 2022-03-12 |
 | [Small Talk](https://open.spotify.com/track/2VSDgY45ztAF4R4TJHKVOu) | [Dear Rouge](https://open.spotify.com/artist/0YkjOpIntNmlG1PNF2dqSy) | [Small Talk](https://open.spotify.com/album/4Ha96DYTUm4ln6dnTqMVkf) | 2:32 | 2022-01-28 | 2022-04-09 |
@@ -1242,8 +1245,9 @@
 | [Zick Zack](https://open.spotify.com/track/2w7Ca8DNYXBCgA6Bht7o0N) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/75OE7M0wduJyffbffehHuR) | 4:04 | 2022-04-29 | 2022-06-11 |
 | [Ziibi](https://open.spotify.com/track/1EmCKDZ0pSNaAlmFO2xWTL) | [OMBIIGIZI](https://open.spotify.com/artist/6M9etLgzbkyne0y9cvxGAG) | [Ziibi](https://open.spotify.com/album/2FeiGRihkGi8wig02L7FRr) | 3:47 | 2024-07-12 | 2024-07-19 |
 | [ZOMBIE](https://open.spotify.com/track/5xBX9Wx8eU9ZBHzKyBVWQZ) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [ZOMBIE](https://open.spotify.com/album/6FJ3tswJyG8KFyKcILyy99) | 1:58 | 2024-09-06 | 2025-03-01 |
+| [Zombie](https://open.spotify.com/track/7DQotDUGnJkXgNJv363GXF) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Zombie](https://open.spotify.com/album/2VjTqSwV1IY3a4kFdurCVv) | 4:06 | 2025-05-30 |  |
 | [ZOMBIFIED](https://open.spotify.com/track/2ib8fuTavdc48X6MjhE4Ft) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [ZOMBIFIED](https://open.spotify.com/album/7nYa3AJUXbBrRLPXtneIEX) | 3:38 | 2022-01-07 | 2022-02-05 |
-| [‘It's A Good Life If You Don't Weaken’ \- Live From ‘No Dress Rehearsal’](https://open.spotify.com/track/3e3n50pd0H0E0JsvDgSeqQ) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0), [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [‘It's A Good Life If You Don't Weaken’ \(Live From ‘No Dress Rehearsal’\)](https://open.spotify.com/album/33V5tVXf7kOU6kzFtIYRAJ) | 4:20 | 2024-12-13 |  |
+| [‘It's A Good Life If You Don't Weaken’ \- Live From ‘No Dress Rehearsal’](https://open.spotify.com/track/3e3n50pd0H0E0JsvDgSeqQ) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0), [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [‘It's A Good Life If You Don't Weaken’ \(Live From ‘No Dress Rehearsal’\)](https://open.spotify.com/album/33V5tVXf7kOU6kzFtIYRAJ) | 4:20 | 2024-12-13 | 2025-05-31 |
 | [﻿Garden Path](https://open.spotify.com/track/3EUm3GbXgkEOS38GleJjWN) | [Laughing](https://open.spotify.com/artist/02wBeDenxYGyaUy9H49nt6) | [Because It’s True](https://open.spotify.com/album/1E1ncAUiHSyXacOPCSYxSK) | 4:36 | 2024-07-05 | 2024-10-05 |
 
 \*This playlist was first scraped on 2022-01-01. Prior content cannot be recovered.

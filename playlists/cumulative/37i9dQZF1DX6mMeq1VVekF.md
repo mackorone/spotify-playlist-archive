@@ -4,7 +4,7 @@
 
 > No tags, no labels \- just free form\. Cover: Obongjayar
 
-499 songs - 1 day 1 hr 45 min
+500 songs - 1 day 1 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [Higher Life](https://open.spotify.com/track/45hcfulMM8BGDKFj6MnZv6) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S), [Chronic Law](https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w) | [Higher Life](https://open.spotify.com/album/3lhwBOftasfbBakMOQOAzX) | 3:18 | 2024-04-26 | 2025-01-18 |
 | [Hold Me](https://open.spotify.com/track/2FyKNGjjdGFY26MODQcR8s) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Hold Me](https://open.spotify.com/album/1lPP40l172ZtM0JK0wrfbC) | 3:34 | 2022-06-24 | 2022-07-28 |
 | [Hold You Down](https://open.spotify.com/track/1UAv2FU9jslNl8AHsoUBjY) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Hold You Down](https://open.spotify.com/album/2GYVBRo8ElxaGoBtKbNVG0) | 2:38 | 2024-04-26 | 2025-01-18 |
+| [Holy Mountain](https://open.spotify.com/track/0TNwifdG6mUwAWK1psAMlG) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Paradise Now](https://open.spotify.com/album/6Yzu9wAkkxRUpEGyVpun81) | 2:29 | 2025-05-29 |  |
 | [homeless.](https://open.spotify.com/track/2xY65Y5wm6HSaSB4DGdYM7) | [LZee](https://open.spotify.com/artist/3HnjTikMlwQmZt88pd5ONe), [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m) | [homeless.](https://open.spotify.com/album/4BoetyCzn8DbKqVKLvLC38) | 2:47 | 2025-01-17 | 2025-04-25 |
 | [Hoodies & Hats](https://open.spotify.com/track/4zasvlOCwY0hmcULW733Or) | [Everyone You Know](https://open.spotify.com/artist/4UAnAM35NDxEWd5WXKv7jM) | [Hoodies & Hats](https://open.spotify.com/album/1Jvf5XfnUMoGf7EOD9UY1R) | 3:13 | 2024-10-03 | 2024-11-01 |
 | [Hope](https://open.spotify.com/track/6m5g6mY0EqyPW6Snc6n749) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Hope](https://open.spotify.com/album/2cqVLSrisNHPR6Q1Q4HsBp) | 4:30 | 2023-11-24 | 2024-04-26 |
@@ -345,7 +346,7 @@
 | [pay ur bills](https://open.spotify.com/track/1G3onwb5hFsUifaJQIXb8e) | [Ragz Originale](https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW) | [pay ur bills](https://open.spotify.com/album/4IvIJ10ma2QkfCpqxNPrXp) | 2:02 | 2023-06-16 | 2023-08-19 |
 | [Peng Black Girls](https://open.spotify.com/track/4pRaCcnpz979CNaMiOS1tS) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL), [Amia Brave](https://open.spotify.com/artist/3Sjv0t3F7FMsQrkWVZcOuW) | [Peng Black Girls](https://open.spotify.com/album/2bflMoQjvDfL59NRUMHylP) | 3:30 | 2022-06-24 | 2022-07-25 |
 | [Personal](https://open.spotify.com/track/4eEI8eLVGvvvqPL07bgyB6) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260) | [Personal](https://open.spotify.com/album/7gGfsO0o0JcxvgTpVB5sQf) | 2:42 | 2024-06-27 | 2025-01-18 |
-| [Pinky Promise](https://open.spotify.com/track/5SAbFkCiJUEnQDVW50Nrkp) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [Pinky Promise](https://open.spotify.com/album/2TBkA7A7TVxLPSQuGGtIAN) | 3:51 | 2025-04-04 |  |
+| [Pinky Promise](https://open.spotify.com/track/5SAbFkCiJUEnQDVW50Nrkp) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [Pinky Promise](https://open.spotify.com/album/2TBkA7A7TVxLPSQuGGtIAN) | 3:51 | 2025-04-04 | 2025-05-31 |
 | [Platonic](https://open.spotify.com/track/7MpWkFfg0wLMCvo53ChsPF) | [kadiata](https://open.spotify.com/artist/3fRPt5kKn2lETY48z6kigv) | [Platonic](https://open.spotify.com/album/6fBFIDG05ozVbtZYoMx1Bu) | 2:18 | 2025-01-17 | 2025-01-22 |
 | [PNE](https://open.spotify.com/track/583BT5xWjMlnyJm6MuzK8h) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [PNE](https://open.spotify.com/album/5Pukj80wQycC1be8WTuLl4) | 3:11 | 2022-06-24 | 2022-07-27 |
 | [pocket](https://open.spotify.com/track/1fbLUwk34YPUrcxITkuF6V) | [Moko](https://open.spotify.com/artist/1SNK64zmUMbnh5bVIVYARH) | [Good Friday 2](https://open.spotify.com/album/1tEix482Jwi92KYAmq9d1D) | 2:05 | 2024-04-26 | 2024-06-28 |

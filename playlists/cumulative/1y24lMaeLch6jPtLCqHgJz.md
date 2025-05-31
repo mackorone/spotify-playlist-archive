@@ -4,7 +4,7 @@
 
 > best festival music \- summer festival \- best festivals \- festival summer \- mainstage music \- tomorrowland festival \- awakenings festival \- zomer festivals \- festival vibes
 
-407 songs - 20 hr 35 min
+408 songs - 20 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -309,7 +309,7 @@
 | [Run It Up](https://open.spotify.com/track/4YujIh7PVMnNHjBQoqzqw3) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [BIGMOO](https://open.spotify.com/artist/6kibRmkPunppTddl6kgvNe) | [Run It Up](https://open.spotify.com/album/73Gxbtmp88NmzlFLIRyIyk) | 1:51 | 2023-10-04 | 2024-01-10 |
 | [Run With Me](https://open.spotify.com/track/2x0RRQ1lmdqrCFywGAOwYK) | [Meikle](https://open.spotify.com/artist/6um9ebhW2OZFKdx89X3w07), [Riley James](https://open.spotify.com/artist/5jRgxHYG8ayHyuBTSQjiGg), [Alessa](https://open.spotify.com/artist/5HkbMgVDW1phozbJsLvVVk) | [Run With Me](https://open.spotify.com/album/7IghrCqj9oyUEaOPla8VRL) | 3:14 | 2023-04-28 | 2024-03-27 |
 | [Safe In Sound](https://open.spotify.com/track/3qBZ0NEEOd1FGrbVTJtSEE) | [ELYX](https://open.spotify.com/artist/0yHnhg6YZHrFZ0Dg1LRe7w), [GYMBRO](https://open.spotify.com/artist/1dVQrgVgad6dhS9ATZGy9D) | [Safe In Sound](https://open.spotify.com/album/1GXcFgiRqkkGOKxryy2fBs) | 2:00 | 2024-03-15 | 2024-05-18 |
-| [Sally](https://open.spotify.com/track/5Ph7rbBvW3MZrP4xp1a2uc) | [ZYNØX](https://open.spotify.com/artist/3Nc1RtEZe9VXTAjR8yZVdY), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Sally](https://open.spotify.com/album/0QG1rYChZFp2aB9JgMvbuD) | 3:12 | 2023-08-31 |  |
+| [Sally](https://open.spotify.com/track/5Ph7rbBvW3MZrP4xp1a2uc) | [ZYNØX](https://open.spotify.com/artist/3Nc1RtEZe9VXTAjR8yZVdY), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Sally](https://open.spotify.com/album/0QG1rYChZFp2aB9JgMvbuD) | 3:12 | 2023-08-31 | 2025-05-31 |
 | [Satellite](https://open.spotify.com/track/0LclEzidZbH3ZHInpUHjvF) | [DANÊL](https://open.spotify.com/artist/26MIVWfxQSZ80SjQBbwJ6o), [LUX](https://open.spotify.com/artist/1xNeaOaf8khvhnxCU4TWcJ) | [Satellite](https://open.spotify.com/album/5M27nB3jfyVIpkoYEuvkEB) | 2:18 | 2022-11-18 | 2023-02-11 |
 | [Satisfaction \- Hardwell & Maddix Remix](https://open.spotify.com/track/6L5xbckRDXIf5K1pwTaGkD) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Satisfaction \(Hardwell & Maddix Remix\)](https://open.spotify.com/album/417ZcOYyUtIXFpjygXHKSX) | 3:24 | 2023-06-02 |  |
 | [Savage](https://open.spotify.com/track/5OA5McDQjDbDvHVWONhVgH) | [Aurelios](https://open.spotify.com/artist/3hYxIpjaE52Bn3EZ8hDSxa) | [Savage](https://open.spotify.com/album/3woE6NOcQe3NAFPbHRSzqS) | 2:16 | 2023-08-10 | 2024-06-22 |
@@ -353,6 +353,7 @@
 | [The Awakening](https://open.spotify.com/track/7576QEEGENWbga7Y6tsz6v) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR) | [The Awakening](https://open.spotify.com/album/1PADBFxzO1PmZk8OQK0AOx) | 3:28 | 2022-07-29 | 2023-08-05 |
 | [The Darkness](https://open.spotify.com/track/4tR8fRaxfqK8cbBTGUW4CV) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [The Darkness](https://open.spotify.com/album/1XWG1uWWEu4ojBEPSNakYK) | 3:01 | 2023-11-23 | 2024-03-22 |
 | [The Deal](https://open.spotify.com/track/3WVwBe9JdXuetcnjkcs9oQ) | [Achilles](https://open.spotify.com/artist/1BgLi10FdtjQtMigV9Ddka), [Afterfab](https://open.spotify.com/artist/48VdMxJ3HAgAMmjPoXc28i) | [The Deal](https://open.spotify.com/album/2m1rt9ckFcIfeAMUJwewMF) | 2:53 | 2023-07-07 | 2023-12-09 |
+| [The Final Countdown 2025](https://open.spotify.com/track/21bk4m2BIbuHZ6GKiPqFsG) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7), [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [The Final Countdown 2025](https://open.spotify.com/album/6zFqyTMIN7FIz15ajOZPlC) | 3:02 | 2025-05-30 |  |
 | [The Moment \(Living Like It's Golden\)](https://open.spotify.com/track/0ZSiQQeGZp2ct1qupFtYSw) | [XYNTHESIZE](https://open.spotify.com/artist/5J9yQhiZO5jfcrRJYUiO2d), [KVELL](https://open.spotify.com/artist/5pL9g2lZ8YpZNmoD1zcIL1) | [The Moment \(Living Like It's Golden\)](https://open.spotify.com/album/2Q8Aq4ZZcfoU4dzJbSmdl6) | 3:31 | 2022-12-23 | 2023-02-18 |
 | [The Neon City](https://open.spotify.com/track/4oRgXJJQ81F6WbPPXvM2IM) | [VIVID](https://open.spotify.com/artist/3VcAPpkjFtd3Sj5fmqPQd1), [Qwerty](https://open.spotify.com/artist/1zy8SA3oy5HdFvPkckW5bW) | [The Neon City](https://open.spotify.com/album/4O5SB8XnQm6kXNlAJobBU0) | 2:54 | 2024-06-13 | 2024-11-30 |
 | [The Nights](https://open.spotify.com/track/0ct6r3EGTcMLPtrXHDvVjc) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [The Days / Nights](https://open.spotify.com/album/0h2knr6qpiAq0tV5ri5JMF) | 2:56 | 2023-12-08 |  |

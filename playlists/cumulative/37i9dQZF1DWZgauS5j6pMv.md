@@ -4,7 +4,7 @@
 
 > The best of today's funk\. Cover: MonoNeon
 
-478 songs - 1 day 4 hr 0 min
+479 songs - 1 day 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -373,6 +373,7 @@
 | [Skate with Me](https://open.spotify.com/track/2qy4Rc8zGRRc73hbkPNJ5U) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc), [Mike Nasa](https://open.spotify.com/artist/7dA0IZAV5Wr4SjKCnI7Gx3) | [Weekend Love](https://open.spotify.com/album/7KPUDwWlavclOS3ttpCuUG) | 1:53 | 2021-08-06 | 2022-10-14 |
 | [Slay](https://open.spotify.com/track/3c0N0LOdtvf2OTj6QHn2J0) | [Kossisko](https://open.spotify.com/artist/3TmVOBZL0RYrAAF3f2QSGq) | [Slay](https://open.spotify.com/album/6tPbp0tT4v9nJ1uBvPWKeW) | 4:01 | 2023-09-08 | 2023-12-09 |
 | [Sleeping On My Dreams](https://open.spotify.com/track/1hVogn7kHppd5WkaWvFHIK) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [Djesse Vol\. 3](https://open.spotify.com/album/6CmeXEt3IOROBw4E1U7APN) | 4:16 | 2020-11-20 | 2022-04-09 |
+| [Sleepwalking](https://open.spotify.com/track/33AhUMkQqyaRGJi0U9hXxt) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Sleepwalking](https://open.spotify.com/album/0Bf1QKo9KdzPtpLY3pRPEO) | 2:42 | 2025-05-30 |  |
 | [Slings and Arrows](https://open.spotify.com/track/4SelDlGzpaSB9i31ZqzQgS) | [Jazz Mafia](https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved), [Trance Thompson](https://open.spotify.com/artist/4BTloNqFLLzwrLSrmCEqfJ), [Adam Theis](https://open.spotify.com/artist/7F0GE9aWnuNcFG5Vxi1AtZ) | [Slings and Arrows](https://open.spotify.com/album/1qeNTwz5GBpN7itlDaV31o) | 5:23 | 2022-11-25 | 2023-04-01 |
 | [Smoke](https://open.spotify.com/track/3ksB5r2RBez5pI8ze6weIz) | [AJ McLean](https://open.spotify.com/artist/5RFf1gyPc9lMOtCq2k6tLl) | [Smoke](https://open.spotify.com/album/14X6uVSMTSRi5k0SPTTkhw) | 1:58 | 2022-07-15 | 2024-02-17 |
 | [Smoke and Mirrors](https://open.spotify.com/track/1WUwrMCXTFxuOdxf3ltVVN) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Smoke and Mirrors](https://open.spotify.com/album/3PJV7f6A5BtV8eiYCSZdJH) | 3:19 | 2024-05-03 |  |
@@ -418,7 +419,7 @@
 | [Thing for You](https://open.spotify.com/track/2OLD64kN8JzvNn3Aar7O26) | [Viceroy](https://open.spotify.com/artist/5PzC9pOeviQlNF6iGlUF5C), [The Main Squeeze](https://open.spotify.com/artist/5I6ni4YWY0WJUs6rFqufxT), [Demrick](https://open.spotify.com/artist/3hEgzEeaZ0hb3UXx1U1JRR) | [Summer Solstice: The Mixtape](https://open.spotify.com/album/1mxyxZOLzdnG2TMu1jxFs1) | 3:12 | 2020-11-20 | 2022-04-09 |
 | [This Is 4 You](https://open.spotify.com/track/7wEvo5UWrMLBUSnVEfGq4T) | [Tuxedo](https://open.spotify.com/artist/0CCqHvxGgfjJzwzQzmPlEr) | [Tuxedo IV](https://open.spotify.com/album/5OjssA9yeAUq2llLdZcVDG) | 2:31 | 2024-11-01 |  |
 | [This is It \(feat\. Cory Wong\)](https://open.spotify.com/track/09iwuUrPrk4O1ogWhbe35x) | [TORA DAA](https://open.spotify.com/artist/5IpA1DlNpyxdxx5Qwcndey), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [Seventeen](https://open.spotify.com/album/6MjtsP8KTYhasnb1sdrUkZ) | 3:05 | 2022-09-23 | 2024-06-15 |
-| [This Must Be The Place](https://open.spotify.com/track/0recPimKvrGzvi3Fr6x1fj) | [Ivan Neville](https://open.spotify.com/artist/0xHoBLKrp48wAlwpy54lRv) | [Touch My Soul](https://open.spotify.com/album/08N9IgrPVylNF3EANm2M2p) | 4:58 | 2023-04-28 |  |
+| [This Must Be The Place](https://open.spotify.com/track/0recPimKvrGzvi3Fr6x1fj) | [Ivan Neville](https://open.spotify.com/artist/0xHoBLKrp48wAlwpy54lRv) | [Touch My Soul](https://open.spotify.com/album/08N9IgrPVylNF3EANm2M2p) | 4:58 | 2023-04-28 | 2025-05-31 |
 | [This Vibe](https://open.spotify.com/track/1Y9z7IqlSnet2A5raxs22e) | [Johnny Burgos](https://open.spotify.com/artist/1dmBfZXCP98HFGOl5zgOWe) | [This Vibe](https://open.spotify.com/album/46gXRt1zGMf89qJPSI9cje) | 4:12 | 2022-08-19 | 2024-01-20 |
 | [Thousand Knives \- Thundercat Remodel](https://open.spotify.com/track/3yJ57qr7LOU4cauQQwe50N) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Thousand Knives \- Thundercat Remodel](https://open.spotify.com/album/2QiROj647TO8FCCoKoojnA) | 5:26 | 2022-10-07 | 2023-02-18 |
 | [Thumpahlenah \- Radio Edit](https://open.spotify.com/track/01prSP4l0I3Gf1WCfC9jTI) | [Nik West](https://open.spotify.com/artist/5yrmwjhscVmbinBG3hx86i), [Larry Graham](https://open.spotify.com/artist/6lUcc15t11bnaPr2qOuFs2) | [Thumpahlenah \(Radio Edit\)](https://open.spotify.com/album/2VbzGgntgJu0oHLGHOjq3E) | 3:22 | 2023-05-26 | 2025-03-22 |

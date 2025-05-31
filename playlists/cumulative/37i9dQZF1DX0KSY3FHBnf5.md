@@ -4,7 +4,7 @@
 
 > Dreamy Ambient in a chilled, dark aesthetic
 
-267 songs - 11 hr 20 min
+269 songs - 11 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [could u stay \(slowed + reverb\)](https://open.spotify.com/track/5PK4eWWXuqMNfCu1pi8J0M) | [leapyear](https://open.spotify.com/artist/6daNUvi9Bp2w8C1HoZBVIR) | [could u stay \(slowed + reverb\)](https://open.spotify.com/album/0BdiSQEyN7ibjVOWe1FZf4) | 2:03 | 2023-09-01 | 2025-02-01 |
 | [Dandelions](https://open.spotify.com/track/6IFQFMp1sazAG1ZA6bIA57) | [Amanita Phalloides](https://open.spotify.com/artist/7dipuZgipLo3oDsGhl6dQL), [Heavenchord](https://open.spotify.com/artist/0N1G1lizxkv4jmvMkg0n5X) | [Hope Never Dies](https://open.spotify.com/album/7o9JDarAd1qKHN5mTVI6P4) | 3:44 | 2023-09-29 | 2024-07-27 |
 | [Dark & blue](https://open.spotify.com/track/1ExCXsHQca6ZTrHDxLuYIL) | [Zamaro](https://open.spotify.com/artist/4WkV190e0fmD9erTWrDpuX) | [Dark & blue](https://open.spotify.com/album/5ZdUEDpMTbRYGYeJGuZyfc) | 3:09 | 2025-02-14 |  |
+| [ddd](https://open.spotify.com/track/0YNuQ7YY3RwzzvH0bPGa2Y) | [Other Nothing](https://open.spotify.com/artist/4DXOz58gkpdeCcsW4Xjxgd) | [Lr](https://open.spotify.com/album/4bwYbLg4MiolGFVV46fqgP) | 1:46 | 2025-05-30 |  |
 | [deep forest](https://open.spotify.com/track/5TRpcfSUxrqtKv2LNLQhrP) | [widx.](https://open.spotify.com/artist/0coIXI6j3BgwYiTxbhu5Un) | [deep forest](https://open.spotify.com/album/2lWZuL1oXM9gfp4Mw0PQfH) | 2:11 | 2025-02-28 |  |
 | [deep thoughts](https://open.spotify.com/track/6STKFhN6HrHE9nCWdsidRJ) | [inside of my head.](https://open.spotify.com/artist/6F1GS2DD776dXGpo7nzElq) | [deep thoughts](https://open.spotify.com/album/3VmmwqFLCElKvDnFMxHFS9) | 2:17 | 2025-02-07 |  |
 | [deja vu \- slowed](https://open.spotify.com/track/7eBHqNPHWbCNX3zXpQ4GOY) | [goated.](https://open.spotify.com/artist/736ac0Aw0btA1C6objGqku) | [deja vu \(slowed\)](https://open.spotify.com/album/0VdXEw6vwRWFaH8FUUjlWr) | 1:16 | 2023-08-14 | 2025-02-08 |
@@ -189,6 +190,7 @@
 | [our love in june](https://open.spotify.com/track/5ZeYOV8DRW4oZKU7QTPjbw) | [leapyear](https://open.spotify.com/artist/6daNUvi9Bp2w8C1HoZBVIR) | [our love in june](https://open.spotify.com/album/5Q1JbteXTu3SJs01My04wr) | 2:18 | 2023-11-17 |  |
 | [outside of nowhere](https://open.spotify.com/track/4n5G3HaDjRig4EueqRDtMT) | [anębu](https://open.spotify.com/artist/0NwRrmuxl1zetoERsUrEDE), [seeyouthere](https://open.spotify.com/artist/3aspJpj1ZByvp1P16mFeRC) | [hear what I hear](https://open.spotify.com/album/31sJ3ycfZdcDHNDAxxFTv4) | 1:43 | 2025-01-31 |  |
 | [overthinking \- slowed + reverb](https://open.spotify.com/track/55ksh3dybC2OPCILeeGaIg) | [coldlakes](https://open.spotify.com/artist/3jxJQ1JkYdqHNGnvIoW0nI) | [overthinking \(slowed + reverb\)](https://open.spotify.com/album/5OGZhclLbyQXjGs8y9v2Ei) | 2:51 | 2023-08-14 | 2024-12-13 |
+| [overtime rain](https://open.spotify.com/track/5cdzJkCn5d1EjHOlMxqgJk) | [ihatemyjob](https://open.spotify.com/artist/56FljFqP7tSmnd0jx4lpzO), [Jay Karin](https://open.spotify.com/artist/1MaQRDI7QUo8lm9vwWrBfL) | [overtime rain](https://open.spotify.com/album/1dvSOBCWn20NMMdqwyKIiF) | 1:39 | 2025-05-30 |  |
 | [paradox](https://open.spotify.com/track/4GbOIpoNo5zhsAd6ksrQ4p) | [Headphone Activist](https://open.spotify.com/artist/6kN7AbeUV4yRewiVUToouk) | [paradox](https://open.spotify.com/album/2k9DkBdiToaatxmdfl9HkF) | 2:14 | 2023-08-14 | 2023-09-08 |
 | [peaceful silence](https://open.spotify.com/track/2D1lEjMYTWSMzuclNyLKDq) | [pxlse.](https://open.spotify.com/artist/1cGyguqPQY22oUd4fKglFS) | [peaceful silence](https://open.spotify.com/album/5RtfQnpJOg163dJBGm0ALH) | 1:40 | 2023-08-18 | 2025-03-01 |
 | [pulsar](https://open.spotify.com/track/33cXVAoxpOHTHkt2KdqC9c) | [comet](https://open.spotify.com/artist/7hUqDEJnvDAU7TuYlC74cy) | [breath](https://open.spotify.com/album/5NQz9MuiwmMU9seqxfB4O2) | 1:48 | 2023-08-14 | 2025-02-08 |

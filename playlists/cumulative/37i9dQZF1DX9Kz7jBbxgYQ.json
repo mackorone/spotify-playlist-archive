@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Home to the best of South Asian Indie scene. Cover: Yawar Abdal",
+  "description": "Home to the best of South Asian Indie scene. Cover: Aditya Rikhari",
   "name": "Desi Indie",
   "tracks": [
     {
@@ -834,7 +834,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 134000,
       "name": "Beqaabu",
       "url": "https://open.spotify.com/track/4bRyiA3wRWx3rnbCxNDete"
@@ -1050,7 +1050,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 145263,
       "name": "Chai and Sunshine",
       "url": "https://open.spotify.com/track/4MU0QH6w1HZ64ZPFXh3qg4"
@@ -1778,7 +1778,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 149508,
       "name": "Don\u2019t Wanna Love",
       "url": "https://open.spotify.com/track/5lRru9LwvZnd2tVXRfDZZG"
@@ -2486,7 +2486,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 187096,
       "name": "Hua Asar Tera",
       "url": "https://open.spotify.com/track/2pfxlloUY1qL5zPCgI6r5N"
@@ -2766,10 +2766,36 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 192000,
       "name": "Jaadugar",
       "url": "https://open.spotify.com/track/4ujToRFWb3C8tdPkmVPwu2"
+    },
+    {
+      "album": {
+        "name": "Jaan Se Zyada",
+        "url": "https://open.spotify.com/album/7zFdhMVq9hnCkIbV1qyWd1"
+      },
+      "artists": [
+        {
+          "name": "maahi",
+          "url": "https://open.spotify.com/artist/59cXfBldx8F2Fpq86R4MVV"
+        },
+        {
+          "name": "Zain - Sam",
+          "url": "https://open.spotify.com/artist/0Zj3IsE2VmUjbL70EQKXHL"
+        },
+        {
+          "name": "Rashmi Virag",
+          "url": "https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173597,
+      "name": "Jaan Se Zyada",
+      "url": "https://open.spotify.com/track/4MuqA3HaelY0K7OfUHQEOP"
     },
     {
       "album": {
@@ -2926,7 +2952,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 158000,
       "name": "Jogan",
       "url": "https://open.spotify.com/track/0Szj0LBTvfXmxgIXFGqg4H"
@@ -3374,7 +3400,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 250500,
       "name": "Khata",
       "url": "https://open.spotify.com/track/1yLEjCfSSO1UXAxgXg48d5"
@@ -3845,6 +3871,24 @@
     },
     {
       "album": {
+        "name": "Maan Jao",
+        "url": "https://open.spotify.com/album/44wT6D3aZMj90IkzsftFRF"
+      },
+      "artists": [
+        {
+          "name": "Utsavi Jha",
+          "url": "https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154616,
+      "name": "Maan Jao",
+      "url": "https://open.spotify.com/track/5HzQLl5EyKpaE2dwgSaK4C"
+    },
+    {
+      "album": {
         "name": "Safar",
         "url": "https://open.spotify.com/album/3M8j6IwEcqDnf0V3y3ZI3C"
       },
@@ -3894,6 +3938,24 @@
       "duration_ms": 172901,
       "name": "Mai Ni Meriye",
       "url": "https://open.spotify.com/track/0zFcYzwaLbJAhg7bvSVavv"
+    },
+    {
+      "album": {
+        "name": "Main Heer Teri",
+        "url": "https://open.spotify.com/album/4vtES0Tr90HiRlgdXmeMY7"
+      },
+      "artists": [
+        {
+          "name": "Zanai Bhosle",
+          "url": "https://open.spotify.com/artist/1KXshKZ6e6JsZ6boHGgkXX"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206285,
+      "name": "Main Heer Teri",
+      "url": "https://open.spotify.com/track/3BAmJqcRP0Mf11YAungMFq"
     },
     {
       "album": {
@@ -4084,7 +4146,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 237529,
       "name": "Mera Ishq",
       "url": "https://open.spotify.com/track/0mIpoTx5eetKSdr6YEbu3H"
@@ -4937,6 +4999,24 @@
     },
     {
       "album": {
+        "name": "Raatein Guzaari",
+        "url": "https://open.spotify.com/album/60trf9nIrCQdiU7CcoUyK6"
+      },
+      "artists": [
+        {
+          "name": "Aditya Rikhari",
+          "url": "https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177963,
+      "name": "Raatein Guzaari",
+      "url": "https://open.spotify.com/track/0ZnBHVFiUAnVTF38LUVDpR"
+    },
+    {
+      "album": {
         "name": "Raaz Tera Mera",
         "url": "https://open.spotify.com/album/600DUfcwqsdjfnTK15RogK"
       },
@@ -5182,7 +5262,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 166346,
       "name": "S.O.T.I. (Strangers On The Internet)",
       "url": "https://open.spotify.com/track/06sNozukABz39ZsUtJuCj5"
@@ -5382,7 +5462,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 220206,
       "name": "Sajda Karaan",
       "url": "https://open.spotify.com/track/25yA3k7cBNDqejRJUun4Qe"
@@ -5536,7 +5616,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 177499,
       "name": "savera",
       "url": "https://open.spotify.com/track/57wyw9LmTBrbg0r8ruF8zV"
@@ -6150,6 +6230,24 @@
       "duration_ms": 167000,
       "name": "Tera Nishaan",
       "url": "https://open.spotify.com/track/23gBGYYQcA8ivnVDj2eZxD"
+    },
+    {
+      "album": {
+        "name": "TERA PATA",
+        "url": "https://open.spotify.com/album/0k7htvhIMVL4pz8Q8wRt4Z"
+      },
+      "artists": [
+        {
+          "name": "Saahel",
+          "url": "https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "TERA PATA",
+      "url": "https://open.spotify.com/track/59qNfZ80CLERS1InhnasGU"
     },
     {
       "album": {
@@ -6912,7 +7010,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 152074,
       "name": "Yaad hai?",
       "url": "https://open.spotify.com/track/1EosQq2rAflF6CPRAuGTI2"
@@ -7054,7 +7152,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 221666,
       "name": "Zakir",
       "url": "https://open.spotify.com/track/6RtnuC14DOUrvpRgS6WMQX"

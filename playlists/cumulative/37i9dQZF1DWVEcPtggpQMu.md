@@ -4,7 +4,7 @@
 
 > Only the hottest South African rap from the streets\. <br/>Cover: <a href="https://open.spotify.com/artist/1Hq5fqbb6DloZnrHnsPubz?si=sTYNlMztQc2xwbJ491mn\-A">Dandi Noxx</a>
 
-964 songs - 2 day 3 hr 20 min
+966 songs - 2 day 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [2 Headed Goat \(feat\. Maglera Doe Boy\)](https://open.spotify.com/track/7CLjQObdlzcRIagWpxxLEX) | [25K](https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L) | [2 Headed Goat \(feat\. Maglera Doe Boy\)](https://open.spotify.com/album/5Oqq3iTaCUByEo7O1edk3l) | 3:14 | 2024-07-25 | 2025-05-02 |
 | [2022!](https://open.spotify.com/track/5JSTBF0PYzZLRdkJno6J6U) | [BabyDaiz](https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s) | [EHHPY NYE](https://open.spotify.com/album/5J0dJWa4XdEUAhoRw3W3Ym) | 1:54 | 2022-12-12 | 2022-12-16 |
 | [24](https://open.spotify.com/track/5VEoBjV9IcpDHuMix5TjUA) | [Flash Ikumkani](https://open.spotify.com/artist/2XK36sugVIN5x79ytKdd6X) | [24](https://open.spotify.com/album/1Cf6z5tkRbjezqcih4TSaO) | 2:37 | 2022-03-24 | 2022-04-23 |
+| [30 SUMIN](https://open.spotify.com/track/1nHEpugvOEg8juZ3U2CDyu) | [Stilo Magolide](https://open.spotify.com/artist/77zNkBGPeehKXAXAXfUfnA) | [30 SUMIN](https://open.spotify.com/album/72ZMBP07rX9aBLZuX4rh4A) | 2:32 | 2025-05-30 |  |
 | [30minutes to Soweto](https://open.spotify.com/track/4GPJZenDEqaF9FXVCM39fX) | [Priddy Ugly](https://open.spotify.com/artist/04bckYvJEXGoKmBWW9leSz) | [MUD](https://open.spotify.com/album/39PUlolgMi1D3k4SNgzsHZ) | 4:06 | 2022-12-12 | 2023-02-01 |
 | [30minutes to Soweto](https://open.spotify.com/track/6jfdGlzKaFgaSZESel9EQy) | [Priddy Ugly](https://open.spotify.com/artist/04bckYvJEXGoKmBWW9leSz) | [30minutes to Soweto](https://open.spotify.com/album/1eb8a1HGutT2c8EkJB92Oo) | 4:06 | 2022-07-28 | 2022-12-13 |
 | [3am eMonti](https://open.spotify.com/track/5X8lwgSoyFgRSR4e26kXtU) | [DotCom](https://open.spotify.com/artist/4wubtoEd7WKza6V8rpG3bl) | [Mdantsane Interlude](https://open.spotify.com/album/1YcwMprDEXggNQE0cdK3E0) | 4:14 | 2021-12-09 | 2022-02-11 |
@@ -558,6 +559,7 @@
 | [Never Leave](https://open.spotify.com/track/76UE0LjH2n4bHnYTLv3JAT) | [Nadia Nakai](https://open.spotify.com/artist/4J1EvxzABwLaJP4NmOqV8r), [Kashcpt](https://open.spotify.com/artist/2QRB0fbCA9ZCwe67h96PNs) | [Never Leave](https://open.spotify.com/album/2thmsOHH8ATk2KAU0VqfiG) | 2:49 | 2024-01-25 | 2024-05-10 |
 | [NEVER RIDE](https://open.spotify.com/track/3DFw8WqtxcGtUP8X1o4Yti) | [MashBeatz](https://open.spotify.com/artist/4NJo7JbXHgcLiitBFtWras), [Thato Saul](https://open.spotify.com/artist/0R6GDPZ2Hrn2lF4svYJRkn), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L) | [NEVER RIDE](https://open.spotify.com/album/17BYlFgYEGoqNwJsiM4B4k) | 2:26 | 2022-05-12 | 2023-10-21 |
 | [Next.](https://open.spotify.com/track/3LjWJMHEZ1vX1suuLxBHil) | [Angie Santana](https://open.spotify.com/artist/3gh6VwtLkdkaWCPUV4L6yT) | [Next.](https://open.spotify.com/album/2ncuXjvusmRBKIHbGjuDBt) | 3:20 | 2022-05-19 | 2022-06-28 |
+| [NGALA \(feat\. Dusse Wavy & Risky\-T\)](https://open.spotify.com/track/0IG2c60PVOQQgYsIXNdeA1) | [Nelz](https://open.spotify.com/artist/1nYQzmyKri9MijJSG4jKbb), [Dusse wavy](https://open.spotify.com/artist/2RE980wJCfjFzi4G31x4WZ), [Risky\-T](https://open.spotify.com/artist/55iuJKVn2LzJuoJ1WaTKk3) | [NGALA \(feat\. Dusse Wavy & Risky\-T\)](https://open.spotify.com/album/5qHhlrJVVWUxcvWZW1FzkW) | 3:46 | 2025-05-30 |  |
 | [Ngeke](https://open.spotify.com/track/3mvasND4ydLSPC5GZxiDj9) | [031Choppa](https://open.spotify.com/artist/2bGBeEA63lBcVdS9PpmESJ), [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Kwamashu To Ejozi](https://open.spotify.com/album/540rP4UbYPCPRDJ0x6Xg2k) | 2:30 | 2021-09-30 | 2022-02-18 |
 | [Ngeke](https://open.spotify.com/track/74tEosyCxNM64SenyBN06f) | [Tony Dayimane](https://open.spotify.com/artist/61JGKpmRAgud7VaFpgesxi), [Mochen](https://open.spotify.com/artist/7DkwT8IpIAjcquKnCwyFRg) | [Ngeke](https://open.spotify.com/album/3BMqo5cBcQ49eJh1b7zWoA) | 2:42 | 2024-03-28 | 2024-10-25 |
 | [ngisebhishi](https://open.spotify.com/track/0VC17bHNBtsoMd0krLHnJf) | [NanguEnvy](https://open.spotify.com/artist/3gGgR9no3Hm97T35j6HF2K) | [ngisebhishi](https://open.spotify.com/album/1ge9EVVEj81VnPR29XETRb) | 2:01 | 2024-08-16 | 2024-11-08 |

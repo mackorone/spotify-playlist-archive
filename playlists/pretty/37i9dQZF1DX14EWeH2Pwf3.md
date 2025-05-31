@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > Salmo in cover della playlist urban più grande in Italia 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,012,208 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,012,285 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 49 | [Stellina](https://open.spotify.com/track/59ToSWwKmlwI6TIgZkw60M) | [Melons](https://open.spotify.com/artist/1LGeIi5WWtxGRavjH50STe), [Ddusi](https://open.spotify.com/artist/5VTNrKBvvSe0NdWMW8qTwa) | [Stellina](https://open.spotify.com/album/5IKV5k9xXPyN1siJYoX3ku) | 3:02 |
 | 50 | [Dopo la festa](https://open.spotify.com/track/5tAEhUSnGWITaeYGEk7eYS) | [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n) | [Dopo la festa](https://open.spotify.com/album/2UtqLbRI8uE95DbF06Jy3J) | 2:21 |
 
-Snapshot ID: `aDjZLwAAAADg7bEPmL/dh2hACif1AEfy`
+Snapshot ID: `AAAAAL39Zfn5nojTG+uF2J9DXC356MlW`

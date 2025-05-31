@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1st Noel](https://open.spotify.com/track/0DeRa19ZWpZoz69pb8GMT2) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Christmas With You](https://open.spotify.com/album/55wRPgoziUFScNgNghfhDR) | 4:00 | 2021-12-15 |  |
+| [1st Noel](https://open.spotify.com/track/0DeRa19ZWpZoz69pb8GMT2) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Christmas With You](https://open.spotify.com/album/55wRPgoziUFScNgNghfhDR) | 4:00 | 2021-12-15 | 2025-05-31 |
 | [8 Days of Christmas](https://open.spotify.com/track/7o4HtESXicUqk3oRqngIsS) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [8 Days Of Christmas](https://open.spotify.com/album/0MnAbxbwU1Rjg8hbGzKjYZ) | 3:29 | 2022-11-25 |  |
 | [A Timeless Christmas](https://open.spotify.com/track/39UYaCYN5NtZQjWsdsWsqF) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [A Timeless Christmas](https://open.spotify.com/album/5IBq0A7yHPkYX9xf6tAEsi) | 3:35 | 2023-12-08 |  |
 | [All I Want for Christmas Is You](https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:01 | 2022-11-25 |  |
@@ -127,7 +127,7 @@
 | [Santa Is Me](https://open.spotify.com/track/20to0dedvjOlBchbCvfBQD) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Coco By The Fireplace](https://open.spotify.com/album/6R4q2iVfJ66EUKIBxiKvZL) | 2:41 | 2024-11-22 |  |
 | [Secret Santa](https://open.spotify.com/track/47V1W4jo5cKR0bLEY3f9ET) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Secret Santa](https://open.spotify.com/album/1fJejxgB7258DWBWlqXCNk) | 2:59 | 2024-12-20 |  |
 | [Silent Night](https://open.spotify.com/track/2Zd76A2BuP2CIufE63RkdA) | [Love Renaissance \(LVRN\)](https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf), [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [Silent Night](https://open.spotify.com/album/6SP5GiU7Sl9ATWsNPr9Pwg) | 3:10 | 2022-12-02 | 2023-10-03 |
-| [Silent Night](https://open.spotify.com/track/36NhKGzYlB5kWuZ87WdOBV) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Give Love At Christmas](https://open.spotify.com/album/1EVbBd8S7bwmogZX3y6GVp) | 6:04 | 2021-12-15 | 2025-05-28 |
+| [Silent Night](https://open.spotify.com/track/36NhKGzYlB5kWuZ87WdOBV) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Give Love At Christmas](https://open.spotify.com/album/1EVbBd8S7bwmogZX3y6GVp) | 6:04 | 2021-12-15 |  |
 | [Silent Night](https://open.spotify.com/track/29pkrZLRrWK6TMw9egQC1y) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [First Christmas](https://open.spotify.com/album/50UK1YSUTD2zvXKLa3rsBD) | 6:05 | 2021-12-15 | 2022-11-14 |
 | [Silent Night](https://open.spotify.com/track/2mtm0aF6c7Yd66sFaE3ipu) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Give Love At Christmas](https://open.spotify.com/album/40nc0tA9KcJHexXijyqHSP) | 6:05 | 2021-12-15 | 2024-04-19 |
 | [Silent Night](https://open.spotify.com/track/5P2cn4Xn6XX9QXS9HGMJ38) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [A Motown Holiday](https://open.spotify.com/album/2UQr1aieOS6AkM82LCU9JB) | 4:01 | 2021-12-15 | 2022-07-26 |

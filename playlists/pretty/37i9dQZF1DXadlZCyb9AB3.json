@@ -1,6 +1,6 @@
 {
   "description": "Defining songs of the riot grrrl era and the artists keeping its spirit alive\n",
-  "num_followers": 198036,
+  "num_followers": 198075,
   "original_name": "Riot Grrrl",
   "owner": {
     "name": "Spotify",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "All at Once",
-        "url": "https://open.spotify.com/album/1AamkKRYew16QStHIhgY1A"
-      },
-      "artists": [
-        {
-          "name": "Screaming Females",
-          "url": "https://open.spotify.com/artist/3pZ666b6CyO1KGpVYirY0t"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Glass House",
-      "url": "https://open.spotify.com/track/1luXZ3wGajUSfwMs24Izvp"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
         "name": "Feel Your Feelings Fool!",
         "url": "https://open.spotify.com/album/3AWvlkLV6Wmys6G85zwz98"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 157933,
       "name": "A Living Human Girl",
       "url": "https://open.spotify.com/track/1K0F79D6b7XGDM667RpnsW"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
+        "name": "All at Once",
+        "url": "https://open.spotify.com/album/1AamkKRYew16QStHIhgY1A"
+      },
+      "artists": [
+        {
+          "name": "Screaming Females",
+          "url": "https://open.spotify.com/artist/3pZ666b6CyO1KGpVYirY0t"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Glass House",
+      "url": "https://open.spotify.com/track/1luXZ3wGajUSfwMs24Izvp"
     },
     {
       "added_at": "2024-10-07 20:36:39",

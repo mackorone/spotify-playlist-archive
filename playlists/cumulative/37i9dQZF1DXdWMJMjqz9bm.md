@@ -4,7 +4,7 @@
 
 > A little bit of pop, a little bit of rap, a little bit of country? Cover: mgk
 
-719 songs - 1 day 8 hr 51 min
+720 songs - 1 day 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [500lbs](https://open.spotify.com/track/6rjuKpPydT2SxN15TZpV7r) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [TEC](https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE) | 2:24 | 2024-05-31 | 2025-05-17 |
 | [95 DEGREES](https://open.spotify.com/track/55BJoJzQuogFLeqihumlm9) | [Ryan Hall](https://open.spotify.com/artist/22bvUzi8MgkpSKBWGB2vTJ) | [95 DEGREES](https://open.spotify.com/album/3RyBiLA0PeYZvz8IGU5ffO) | 3:02 | 2022-09-09 | 2022-10-15 |
 | [a letter from Anxiety](https://open.spotify.com/track/53pDouQQTGlSr4xYXoly6b) | [PmBata](https://open.spotify.com/artist/3jeXY6LJU0ZiKhXoXa9rRw) | [a letter from Anxiety](https://open.spotify.com/album/2aERHl2AJm4ODYswrJ9KR1) | 2:41 | 2022-10-21 | 2022-12-24 |
+| [Accusations](https://open.spotify.com/track/1f2lZUBaJBb0zlOCoqXfoB) | [Anella](https://open.spotify.com/artist/0aRXmCsqGxwpaBqY7WQOsN) | [831: The Series](https://open.spotify.com/album/46pKds8x2maGzkFGlcZncY) | 2:59 | 2025-05-30 |  |
 | [act right](https://open.spotify.com/track/1Xwhdmv9VnPjYL4hAwLQjn) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [act right](https://open.spotify.com/album/66kLoEXcmlSRFkyEwjjpZW) | 3:26 | 2022-07-22 | 2023-04-05 |
 | [ACTIN UP](https://open.spotify.com/track/2qORdVolXx9UlNfCUD5aHd) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [ACTIN UP WITH SEXYY RED](https://open.spotify.com/album/3MQUPgltYMpQ2hmVNZZdKv) | 2:13 | 2025-04-29 |  |
 | [AdaLINE](https://open.spotify.com/track/2As91j4G5GKRbx4In7ClyV) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [AdaLINE](https://open.spotify.com/album/6cEOgTZp3T7lxaUSNCCeN1) | 2:45 | 2022-12-16 | 2023-04-09 |
@@ -664,7 +665,7 @@
 | [Tucson](https://open.spotify.com/track/5mn1QrLBhEUI5XGmcn9HKT) | [Willy P](https://open.spotify.com/artist/18jVuRF2PcWQX3BWLUoIIP), [Peter Kuli](https://open.spotify.com/artist/5lVUEGHUyXz8X6h58fuEwV) | [Tucson](https://open.spotify.com/album/36hJeUhSYbDSkdz2Kx2828) | 2:27 | 2022-07-01 | 2022-09-28 |
 | [Tuesday](https://open.spotify.com/track/7tNHLrbkBhU6xh0GL0gTtQ) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw), [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L) | [Till Next Time](https://open.spotify.com/album/4II5QvivVfEYgeuZf0kYfT) | 2:08 | 2023-06-23 | 2023-11-11 |
 | [Turn It Up](https://open.spotify.com/track/3tLxUfISaz59RTcJIAPqDJ) | [JayXander](https://open.spotify.com/artist/20mG4NVCankcytn70YIplV) | [Turn It Up](https://open.spotify.com/album/5iHuuoKsqdlwbQM2ANFbCN) | 2:12 | 2023-04-21 | 2024-01-23 |
-| [tv off \(feat\. lefty gunplay\)](https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 3:40 | 2025-04-29 |  |
+| [tv off \(feat\. lefty gunplay\)](https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 3:40 | 2025-04-29 | 2025-05-31 |
 | [Tweaker](https://open.spotify.com/track/5nk6BxN9bM5rLNkA3pMOzn) | [G3 GELO](https://open.spotify.com/artist/6Pfep8fkqFHQ87DjvWu54J) | [Tweaker](https://open.spotify.com/album/3xB16GTlwKloB2Ip22N2an) | 3:09 | 2025-01-07 |  |
 | [twice](https://open.spotify.com/track/3VV8J6Zy11zsU4yBGroexd) | [lilspirit](https://open.spotify.com/artist/3VWII9MTZSfIdOXr1DafzL) | [twice](https://open.spotify.com/album/6BXAJhLPQTUjOi45aoiE7t) | 1:54 | 2022-09-02 | 2022-10-01 |
 | [two](https://open.spotify.com/track/18ENCZw5lQc10UwwFiH1QK) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [two](https://open.spotify.com/album/1ooRAUPQgUixYyS8yHLirr) | 2:15 | 2025-01-07 |  |

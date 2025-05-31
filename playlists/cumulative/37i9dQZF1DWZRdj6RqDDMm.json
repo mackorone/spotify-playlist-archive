@@ -1709,6 +1709,24 @@
     },
     {
       "album": {
+        "name": "Comforter",
+        "url": "https://open.spotify.com/album/7gHCoqTQze2noRt7RUt4wx"
+      },
+      "artists": [
+        {
+          "name": "Sammy Hart",
+          "url": "https://open.spotify.com/artist/7uj5a4BDtYb5oI4EfypnNv"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180305,
+      "name": "Comforter",
+      "url": "https://open.spotify.com/track/3EX5x2fUpczvsg2U65E8Fe"
+    },
+    {
+      "album": {
         "name": "Confidence",
         "url": "https://open.spotify.com/album/0fJaLIpMiumMavCQtcvYx6"
       },

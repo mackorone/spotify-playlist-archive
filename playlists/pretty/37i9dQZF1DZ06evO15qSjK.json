@@ -1,12 +1,12 @@
 {
   "description": "This is Kidz Bop Kids. The essential tracks, all in one playlist.",
-  "num_followers": 173190,
+  "num_followers": 173203,
   "original_name": "This Is Kidz Bop Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDZSAAAAAAAfd+cVmeS769udyUFU3Hix",
+  "snapshot_id": "aDejgAAAAAC+F9V2kSHuEFw8tvNCSS0e",
   "tracks": [
     {
       "added_at": null,
@@ -23,22 +23,6 @@
       "duration_ms": 162607,
       "name": "APT.",
       "url": "https://open.spotify.com/track/6m58F8A3vrcKGHQMZGtCyl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pink Pony Club",
-        "url": "https://open.spotify.com/album/03A8d5KGOG3MEAoUueI8W7"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 232245,
-      "name": "Pink Pony Club",
-      "url": "https://open.spotify.com/track/5fy9MJv2mZ11FabsC5vv0x"
     },
     {
       "added_at": null,
@@ -411,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIDZ BOP 2024",
-        "url": "https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV"
+        "name": "Pink Pony Club",
+        "url": "https://open.spotify.com/album/03A8d5KGOG3MEAoUueI8W7"
       },
       "artists": [
         {
@@ -420,9 +404,9 @@
           "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
         }
       ],
-      "duration_ms": 220860,
-      "name": "Vampire",
-      "url": "https://open.spotify.com/track/6HU8lsYxZ7IiMwNJGVwHPO"
+      "duration_ms": 232245,
+      "name": "Pink Pony Club",
+      "url": "https://open.spotify.com/track/5fy9MJv2mZ11FabsC5vv0x"
     },
     {
       "added_at": null,
@@ -439,6 +423,22 @@
       "duration_ms": 168279,
       "name": "10,000 Hours",
       "url": "https://open.spotify.com/track/3swVZl6ayrUkNaujFC9XeS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KIDZ BOP 2024",
+        "url": "https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 220860,
+      "name": "Vampire",
+      "url": "https://open.spotify.com/track/6HU8lsYxZ7IiMwNJGVwHPO"
     },
     {
       "added_at": null,

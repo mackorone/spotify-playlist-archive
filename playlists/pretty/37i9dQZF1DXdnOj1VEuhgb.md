@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: Lvbel C5
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,394,394 likes - 50 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,394,529 likes - 50 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 4 | [İSTERSENİZ YANLIŞ ANLAYIN](https://open.spotify.com/track/3FCR2WssX44IKdJVhTD4Zl) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [SPORTBOYS](https://open.spotify.com/album/61SCyfCHewv1q4Ot9PG4En) | 1:54 |
 | 5 | [Mosmor Perde](https://open.spotify.com/track/2qBH9hL1iMU9kpz44dLtcj) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [Mosmor Perde](https://open.spotify.com/album/1nxsVfwr0XVMfQELSWjakK) | 2:36 |
 | 6 | [ZODIAC SIGN](https://open.spotify.com/track/3ibW9l8RK5LMVyZZ1FSZnF) | [Khontkar](https://open.spotify.com/artist/1iJrQKRh5aJnp6cG5lpITr), [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [PEMBE C SIDE](https://open.spotify.com/album/1f2T4HVpBHdACYyaf5Wth6) | 3:05 |
-| 7 | [SONBAHAR](https://open.spotify.com/track/1YrEoI9Cn6pmCXuiUGQ0Kf) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM), [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5), [SNOW](https://open.spotify.com/artist/58H98oCs7wfe6XZOgIaT0q) | [SONBAHAR](https://open.spotify.com/album/2KAvMXHNqyZbQnrwg5tavY) | 2:24 |
+| 7 | [SONBAHAR](https://open.spotify.com/track/1YrEoI9Cn6pmCXuiUGQ0Kf) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM), [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5), [SNOW](https://open.spotify.com/artist/58H98oCs7wfe6XZOgIaT0q) | [SONBAHAR](https://open.spotify.com/album/2KAvMXHNqyZbQnrwg5tavY) | 2:30 |
 | 8 | [Introvert](https://open.spotify.com/track/5KVnzbHXkH5W1JwsjIujt4) | [Ceg](https://open.spotify.com/artist/2QDHxmDObOuv9MCeBYiFtq) | [Introvert](https://open.spotify.com/album/1HEhCpDkBkr9BC5slicbGq) | 2:15 |
 | 9 | [kum saati](https://open.spotify.com/track/18BJaXD2ss3mP9o0qMOp8P) | [EGE!](https://open.spotify.com/artist/5chlGLYjNChbXjDbojObt5), [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [kum saati](https://open.spotify.com/album/3R3uDxPQ4tHfhW6mGEQawV) | 2:19 |
 | 10 | [SLM](https://open.spotify.com/track/60dQTZdnDvTWZf45yBLIQJ) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2), [DJEZJA](https://open.spotify.com/artist/6bJ0SXA2VXkqXpJBR2SQkf) | [SLM](https://open.spotify.com/album/3gAaOb2aKH7VuS4yDUmFqR) | 1:54 |

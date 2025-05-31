@@ -4,12 +4,13 @@
 
 > ☀️ Γιατί δεν νοείται καλοκαίρι χωρίς τις αγαπημένες σου λαΙκές φωνές ☀️Εξώφυλλοr: Paola
 
-169 songs - 9 hr 33 min
+170 songs - 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [100\-0](https://open.spotify.com/track/3kHAFKhphL6kPq5VLPQqFK) | [Christos Cholidis](https://open.spotify.com/artist/5FkkhJ6aAg3uG4n68Nvia2) | [100\-0](https://open.spotify.com/album/6DK0omqa0yZHzfiEcgaKrp) | 3:24 | 2024-07-18 | 2024-08-02 |
 | [24 Ores](https://open.spotify.com/track/0RBmHE4f7BaUuYEFDSWgHX) | [Thodoris Ferris](https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT) | [24 Ores](https://open.spotify.com/album/1s2vwzk7gVBssZNHJR8844) | 3:17 | 2024-06-27 | 2025-03-08 |
+| [7 Lepta](https://open.spotify.com/track/5Y94M6vQo2d3aUyYZREddU) | [Paola](https://open.spotify.com/artist/7m0YMvg7P6lnhSa2Ttu5TF) | [7 Lepta](https://open.spotify.com/album/5f2TOHCBTX9vLp7R4eXuhL) | 2:51 | 2025-05-29 |  |
 | [7/7](https://open.spotify.com/track/5e8JV9r2vKrbebUQMRpBCy) | [Ioulia Kallimani](https://open.spotify.com/artist/6HsM9NbNIunWMEFLOk4d9p), [Michael Touratzidis](https://open.spotify.com/artist/5dwadtCk3MY582FXpBAHwz) | [7/7](https://open.spotify.com/album/12VCx1n6ZMk1vl2ONqzhuv) | 2:51 | 2024-06-27 | 2025-03-28 |
 | [Agapi Mou Me Dioxneis](https://open.spotify.com/track/4u4kVeDK1ru1ekntEKL7OA) | [Anastasia](https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP) | [Agapi Mou Me Dioxneis](https://open.spotify.com/album/5WlF9YZekzepjqsncoD8LR) | 2:50 | 2024-10-10 | 2025-05-16 |
 | [Akou Logia](https://open.spotify.com/track/7k37XdNywAXfhJwYXtB2Lf) | [Andromache](https://open.spotify.com/artist/0dn2Cwr75Rl4bh7yTwTorv) | [Akou Logia](https://open.spotify.com/album/6rfoexNN003NgQmQG9iSpN) | 3:12 | 2024-06-27 | 2024-07-12 |
@@ -19,7 +20,7 @@
 | [An Anoikso Tin Kardia Mou](https://open.spotify.com/track/5mixbsUmgisXypyUeWLbZ4) | [Zafeiris Melas](https://open.spotify.com/artist/2poZNBfEMf8mVK7qZZDFeE) | [An Anoikso Tin Kardia Mou](https://open.spotify.com/album/4N3tc26QpZqmeYSrZEihnc) | 3:21 | 2024-12-12 | 2024-12-20 |
 | [An Ikseres](https://open.spotify.com/track/5gzfPm5fNesR6080H18zBW) | [Nikos Vertis](https://open.spotify.com/artist/6BOprAXvUTWZjImX2dFdEa) | [An Ikseres](https://open.spotify.com/album/2ekZxLSD9qz2AjEAMirKBc) | 3:09 | 2024-06-27 | 2025-02-04 |
 | [An Me Agapas Deiks' To](https://open.spotify.com/track/60smzoXUyrEJnNahFxE4Ox) | [Katy Garbi](https://open.spotify.com/artist/6EdXBTjIDwu5aYv4U3K8TI) | [An Me Agapas Deiks' To](https://open.spotify.com/album/3VTtb3b5nGLNcFlZZtfm9W) | 3:02 | 2025-02-13 | 2025-02-28 |
-| [Anasa](https://open.spotify.com/track/6QraIKM78nFy6sVIedXVOs) | [Giorgos Mazonakis](https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK) | [Anasa](https://open.spotify.com/album/1cff2Mbs7o9xKdBxPmXgBD) | 4:43 | 2025-02-27 |  |
+| [Anasa](https://open.spotify.com/track/6QraIKM78nFy6sVIedXVOs) | [Giorgos Mazonakis](https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK) | [Anasa](https://open.spotify.com/album/1cff2Mbs7o9xKdBxPmXgBD) | 4:43 | 2025-02-27 | 2025-05-31 |
 | [Anexartiti](https://open.spotify.com/track/16pWLcflcWh4CNviOI9URy) | [Ioulia Kallimani](https://open.spotify.com/artist/6HsM9NbNIunWMEFLOk4d9p), [Michael Touratzidis](https://open.spotify.com/artist/5dwadtCk3MY582FXpBAHwz) | [Anexartiti](https://open.spotify.com/album/7bgNFF9fzMFrSkzdDwUBa8) | 2:41 | 2024-12-12 |  |
 | [Anexartiti \- Live Version](https://open.spotify.com/track/0pb6PxjqUzjiPKSuY5l4GT) | [Ioulia Kallimani](https://open.spotify.com/artist/6HsM9NbNIunWMEFLOk4d9p), [Michael Touratzidis](https://open.spotify.com/artist/5dwadtCk3MY582FXpBAHwz) | [Parea Me Tin Ioulia](https://open.spotify.com/album/45Eqx4JgN9XscVcEhI1LLQ) | 2:49 | 2024-11-21 |  |
 | [Apopse Thelo](https://open.spotify.com/track/5qMrZ7AN6LveKKAr16d5rr) | [Petros Iakovidis](https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5) | [Kalispera \(Aroma Elladas Edition\)](https://open.spotify.com/album/47rB6fuVlzNXXfEjC8vYws) | 3:32 | 2024-06-27 | 2024-08-24 |

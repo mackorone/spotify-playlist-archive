@@ -1,6 +1,6 @@
 {
   "description": "Crusin' is not a crime, it's a lifestyle! ",
-  "num_followers": 111422,
+  "num_followers": 111500,
   "original_name": "Lowrider Crusin'",
   "owner": {
     "name": "Spotify",
@@ -699,6 +699,22 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
+        "name": "With Love",
+        "url": "https://open.spotify.com/album/6tusv1rVUc9eH5XbeXfFud"
+      },
+      "artists": [
+        {
+          "name": "Ralfi Pagan",
+          "url": "https://open.spotify.com/artist/5Wq4oFrEbsAvYqQ1cc6vLz"
+        }
+      ],
+      "duration_ms": 285098,
+      "name": "Make It With You",
+      "url": "https://open.spotify.com/track/1MTjPvCioj81IsSX66IB2a"
+    },
+    {
+      "added_at": "2025-05-23 07:54:59",
+      "album": {
         "name": "Street Songs (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 437933,
       "name": "Fire And Desire",
       "url": "https://open.spotify.com/track/6XJdmdiLRvvQXRLMenQmjx"
-    },
-    {
-      "added_at": "2025-05-23 07:54:59",
-      "album": {
-        "name": "With Love",
-        "url": "https://open.spotify.com/album/6tusv1rVUc9eH5XbeXfFud"
-      },
-      "artists": [
-        {
-          "name": "Ralfi Pagan",
-          "url": "https://open.spotify.com/artist/5Wq4oFrEbsAvYqQ1cc6vLz"
-        }
-      ],
-      "duration_ms": 285098,
-      "name": "Make It With You",
-      "url": "https://open.spotify.com/track/1MTjPvCioj81IsSX66IB2a"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
+        "name": "The Best Of The Animals",
+        "url": "https://open.spotify.com/album/0h5qS8o0dAoPfj6bLg3z3Y"
+      },
+      "artists": [
+        {
+          "name": "The Animals",
+          "url": "https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP"
+        }
+      ],
+      "duration_ms": 148346,
+      "name": "Don't Let Me Be Misunderstood",
+      "url": "https://open.spotify.com/track/1jHnZTRWg5xRHV4SeyUiQz"
+    },
+    {
+      "added_at": "2025-05-23 07:54:59",
+      "album": {
         "name": "Pure Intentions",
         "url": "https://open.spotify.com/album/3rIYdmlRAN8JIvD2B1hvaP"
       },
@@ -1491,22 +1507,6 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
-        "name": "The Best Of The Animals",
-        "url": "https://open.spotify.com/album/0h5qS8o0dAoPfj6bLg3z3Y"
-      },
-      "artists": [
-        {
-          "name": "The Animals",
-          "url": "https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP"
-        }
-      ],
-      "duration_ms": 148346,
-      "name": "Don't Let Me Be Misunderstood",
-      "url": "https://open.spotify.com/track/1jHnZTRWg5xRHV4SeyUiQz"
-    },
-    {
-      "added_at": "2025-05-23 07:54:59",
-      "album": {
         "name": "Cameo Parkway Pop And Soul Gems Of 1966 Vol. 4",
         "url": "https://open.spotify.com/album/4tC2jbwoK0pWAysK4W8Xt8"
       },
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
-        "name": "Two Lovers",
-        "url": "https://open.spotify.com/album/4dfP6ztb54XjPNDMOQ1MSL"
-      },
-      "artists": [
-        {
-          "name": "Mary Wells",
-          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
-        }
-      ],
-      "duration_ms": 170439,
-      "name": "Laughing Boy",
-      "url": "https://open.spotify.com/track/3jnxnBVwaRUMYuQQmts6YR"
-    },
-    {
-      "added_at": "2025-05-23 07:54:59",
-      "album": {
         "name": "I Do Love You",
         "url": "https://open.spotify.com/album/46qsxPOOdmWwTrfhvcqKlU"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 133693,
       "name": "Strange Feeling",
       "url": "https://open.spotify.com/track/5nEr8XUI4oWHD4VLZ8ec3c"
+    },
+    {
+      "added_at": "2025-05-23 07:54:59",
+      "album": {
+        "name": "Two Lovers",
+        "url": "https://open.spotify.com/album/4dfP6ztb54XjPNDMOQ1MSL"
+      },
+      "artists": [
+        {
+          "name": "Mary Wells",
+          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
+        }
+      ],
+      "duration_ms": 170439,
+      "name": "Laughing Boy",
+      "url": "https://open.spotify.com/track/3jnxnBVwaRUMYuQQmts6YR"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
-        "name": "Looking Back 1961-1964",
-        "url": "https://open.spotify.com/album/3b9B5jlDpGSwzMVMYKkDGX"
-      },
-      "artists": [
-        {
-          "name": "Mary Wells",
-          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
-        }
-      ],
-      "duration_ms": 177333,
-      "name": "What Love Has Joined Together - Single Version",
-      "url": "https://open.spotify.com/track/1mEToiltl9clpWzTfVHyCd"
-    },
-    {
-      "added_at": "2025-05-23 07:54:59",
-      "album": {
         "name": "Daddy's Home: The Very Best Of Shep & The Limelites",
         "url": "https://open.spotify.com/album/5D69CVCyBJCbOk4xS1x3Yr"
       },
@@ -1643,22 +1627,18 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
-        "name": "Your Love Is Gold",
-        "url": "https://open.spotify.com/album/1hdrd60db3gn54TC9KiJi1"
+        "name": "Looking Back 1961-1964",
+        "url": "https://open.spotify.com/album/3b9B5jlDpGSwzMVMYKkDGX"
       },
       "artists": [
         {
-          "name": "Baby Bash",
-          "url": "https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7"
-        },
-        {
-          "name": "Louie TheSinger",
-          "url": "https://open.spotify.com/artist/0Ht6v1kud5bXl4mp8eaDjj"
+          "name": "Mary Wells",
+          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
         }
       ],
-      "duration_ms": 166842,
-      "name": "Your Love Is Gold",
-      "url": "https://open.spotify.com/track/0weEYABcqaO5feEQRlD9HW"
+      "duration_ms": 177333,
+      "name": "What Love Has Joined Together - Single Version",
+      "url": "https://open.spotify.com/track/1mEToiltl9clpWzTfVHyCd"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -1675,6 +1655,26 @@
       "duration_ms": 172560,
       "name": "The Bells",
       "url": "https://open.spotify.com/track/2kLrFBgVs9BsyNQ6EDc5LH"
+    },
+    {
+      "added_at": "2025-05-23 07:54:59",
+      "album": {
+        "name": "Your Love Is Gold",
+        "url": "https://open.spotify.com/album/1hdrd60db3gn54TC9KiJi1"
+      },
+      "artists": [
+        {
+          "name": "Baby Bash",
+          "url": "https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7"
+        },
+        {
+          "name": "Louie TheSinger",
+          "url": "https://open.spotify.com/artist/0Ht6v1kud5bXl4mp8eaDjj"
+        }
+      ],
+      "duration_ms": 166842,
+      "name": "Your Love Is Gold",
+      "url": "https://open.spotify.com/track/0weEYABcqaO5feEQRlD9HW"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
-        "name": "Let's Fall In Love",
-        "url": "https://open.spotify.com/album/49nlhVLzVXtBFUyeQt67NU"
-      },
-      "artists": [
-        {
-          "name": "Peaches & Herb",
-          "url": "https://open.spotify.com/artist/6qI4LTzMRpTxRzMZPvv2C6"
-        }
-      ],
-      "duration_ms": 154706,
-      "name": "Close Your Eyes",
-      "url": "https://open.spotify.com/track/774ZoGBhlMSZd7nI2zojbc"
-    },
-    {
-      "added_at": "2025-05-23 07:54:59",
-      "album": {
         "name": "Songs from La Mission (Original Motion Soundtrack)",
         "url": "https://open.spotify.com/album/7ynAgX8j9lBMzF7oiVZnNJ"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 251964,
       "name": "Porque Te Quiero",
       "url": "https://open.spotify.com/track/7FAA8FEuRTmHlIT3dP9zSo"
+    },
+    {
+      "added_at": "2025-05-23 07:54:59",
+      "album": {
+        "name": "Let's Fall In Love",
+        "url": "https://open.spotify.com/album/49nlhVLzVXtBFUyeQt67NU"
+      },
+      "artists": [
+        {
+          "name": "Peaches & Herb",
+          "url": "https://open.spotify.com/artist/6qI4LTzMRpTxRzMZPvv2C6"
+        }
+      ],
+      "duration_ms": 154706,
+      "name": "Close Your Eyes",
+      "url": "https://open.spotify.com/track/774ZoGBhlMSZd7nI2zojbc"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -1987,6 +1987,22 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
+        "name": "The Essential Delfonics",
+        "url": "https://open.spotify.com/album/0yBRZK5b6TmZGJ7sCm23jQ"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "duration_ms": 125386,
+      "name": "Going Out of My Head - Remastered",
+      "url": "https://open.spotify.com/track/4KNR8w9Y16CoJh7ZEbiMAh"
+    },
+    {
+      "added_at": "2025-05-23 07:54:59",
+      "album": {
         "name": "Truth & Soul presents Lee Fields (The 45 Mixes)",
         "url": "https://open.spotify.com/album/2h3yXwznsQpZjcT8nTXtZg"
       },
@@ -2003,22 +2019,6 @@
       "duration_ms": 200600,
       "name": "Honey Dove (OG Version)",
       "url": "https://open.spotify.com/track/4sqdUr8Jc9soAIcMNE7DEW"
-    },
-    {
-      "added_at": "2025-05-23 07:54:59",
-      "album": {
-        "name": "The Essential Delfonics",
-        "url": "https://open.spotify.com/album/0yBRZK5b6TmZGJ7sCm23jQ"
-      },
-      "artists": [
-        {
-          "name": "The Delfonics",
-          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
-        }
-      ],
-      "duration_ms": 125386,
-      "name": "Going Out of My Head - Remastered",
-      "url": "https://open.spotify.com/track/4KNR8w9Y16CoJh7ZEbiMAh"
     },
     {
       "added_at": "2025-05-23 07:54:59",

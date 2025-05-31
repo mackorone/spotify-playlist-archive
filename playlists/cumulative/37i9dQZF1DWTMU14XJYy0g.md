@@ -2,9 +2,9 @@
 
 ### [Rock Argentino](https://open.spotify.com/playlist/37i9dQZF1DWTMU14XJYy0g)
 
-> Más vivo que nunca, más nuestro que siempre 📸 Marilina Bertoldi
+> Más vivo que nunca, más nuestro que siempre 📸 Airbag.
 
-391 songs - 1 day 0 hr 15 min
+393 songs - 1 day 0 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,9 +123,10 @@
 | [EL GORDO](https://open.spotify.com/track/500kQAqm0AVQIPXIe6o1Ie) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [PARA QUIEN TRABAJAS Vol\. I](https://open.spotify.com/album/40Nq78LYEHEtCKd0tuOmy2) | 3:36 | 2025-05-23 |  |
 | [El Hit](https://open.spotify.com/track/0gt0wTEOGBNxooOdDKbKmm) | [Dum Chica](https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX) | [El Hit](https://open.spotify.com/album/289DmDK5Hnq2Eh0d05HdI7) | 3:13 | 2024-06-25 | 2025-03-08 |
 | [El Hombre Puerco](https://open.spotify.com/track/2qczuYk56imj9ZFPz3JTwg) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [El Hombre Puerco](https://open.spotify.com/album/1rYJ6npG9IpXCxNDqPzkg1) | 3:12 | 2025-05-16 |  |
-| [el mundo no es solo para mi](https://open.spotify.com/track/78QdT3eHCpgXOaHKgv99Ob) | [El Club Audiovisual](https://open.spotify.com/artist/1YZnktJjGKEbhQBcpQQjQ7) | [el mundo no es solo para mi](https://open.spotify.com/album/52rxJlFl1VLjLjo7EwAqdy) | 4:10 | 2025-05-16 |  |
+| [el mundo no es solo para mi](https://open.spotify.com/track/78QdT3eHCpgXOaHKgv99Ob) | [El Club Audiovisual](https://open.spotify.com/artist/1YZnktJjGKEbhQBcpQQjQ7) | [el mundo no es solo para mi](https://open.spotify.com/album/52rxJlFl1VLjLjo7EwAqdy) | 4:10 | 2025-05-16 | 2025-05-31 |
 | [El Negro](https://open.spotify.com/track/09FGzfEnIn0BY009Ni7tzN) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca), [EMI](https://open.spotify.com/artist/6ITLgutvUhAIXVBbdr7FB1) | [El Negro](https://open.spotify.com/album/6q9iams2yWgUlFo4hG2gO3) | 4:29 | 2024-10-18 |  |
 | [El Ritmo](https://open.spotify.com/track/13VigTJf6awaWDBVbpcNmw) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [El Ritmo](https://open.spotify.com/album/3e0Im6f2QeMtz5ERCDynX3) | 5:08 | 2025-02-07 |  |
+| [El Sueño de los Locos](https://open.spotify.com/track/2fcBVR9gcRPp5btcakrJQ8) | [Los Gardelitos](https://open.spotify.com/artist/1WXAndtMSMymA6qMXyvoXV) | [El Sueño de los Locos](https://open.spotify.com/album/7KWRBOljkXo9ntkQLgZLXS) | 3:33 | 2025-05-30 |  |
 | [El Universo](https://open.spotify.com/track/2JMbzzP96kNdlqTkC0AH1H) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [El Universo](https://open.spotify.com/album/1el0RylfiPTbyyQaafzNEy) | 2:16 | 2023-06-09 | 2023-07-10 |
 | [El Universo](https://open.spotify.com/track/3c9QxMLyZu53C2PBoanbyV) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Súper Terror](https://open.spotify.com/album/7iOJ8uRQ1mylHA2ndpzYkS) | 2:16 | 2023-07-07 | 2024-02-16 |
 | [Ella](https://open.spotify.com/track/03rP1rTGhyN1ilrkipznem) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [Ella](https://open.spotify.com/album/0o29eImdlk0jJDyXGtjVhm) | 4:14 | 2024-10-24 |  |
@@ -182,6 +183,7 @@
 | [Intoxicarme](https://open.spotify.com/track/6d519FJTrTbeaTlG5pXWM9) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Intoxicarme](https://open.spotify.com/album/2pZiZAe9HInht6L56YwIif) | 3:01 | 2022-06-24 | 2023-09-27 |
 | [Inventario](https://open.spotify.com/track/5b4nQSv5xOqdkpt1e3N0sq) | [Skay Beilinson](https://open.spotify.com/artist/4K8Mrjr9IvA8QU0Vjj4BED) | [Inventario](https://open.spotify.com/album/5V8oEK9q3A3xVVy2zZS2QU) | 2:42 | 2022-12-09 | 2023-06-10 |
 | [INVESTIDO](https://open.spotify.com/track/0gX9K4YtmMaODBFtPTU4mI) | [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [INVESTIDO](https://open.spotify.com/album/1YfLcIRbHLHVqz3cTxm7cB) | 3:23 | 2023-09-22 | 2024-04-27 |
+| [Irme Lejos](https://open.spotify.com/track/6s4DqpmFSFBx1pKrh4TgkO) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [El Club de la Pelea I](https://open.spotify.com/album/2tS4bTMTcGhnQSFp4rmflf) | 3:49 | 2025-05-30 |  |
 | [Irreal](https://open.spotify.com/track/1TuKZVqyNu0wrbgEghVNSh) | [El Bordo](https://open.spotify.com/artist/6U5QPaU2JpWfzInyd2g9zg) | [Irreal](https://open.spotify.com/album/3wokQb5YsTwB6pGVcrCoZu) | 3:59 | 2023-09-08 | 2024-06-01 |
 | [JAZMINES](https://open.spotify.com/track/5stOSNyy1mDr9VKGM3Nsds) | [Terapia](https://open.spotify.com/artist/5sIea266s3izLKCqmH1SRk) | [JAZMINES](https://open.spotify.com/album/5AaX07apcNQnIlouDBRJmK) | 4:21 | 2024-08-02 | 2025-04-05 |
 | [Josefina](https://open.spotify.com/track/1EmLmTBlskZfF4X2XkEn3P) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Luz](https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o) | 2:40 | 2022-06-24 | 2023-09-27 |
@@ -383,7 +385,7 @@
 | [Vida de Topos](https://open.spotify.com/track/3lL9MHVJizb451IfV7h6pj) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Experiencia 432 \(Bulín Finoli\)](https://open.spotify.com/album/6giDhT2UzrxXWmDDALFskA) | 4:09 | 2022-06-24 | 2023-09-27 |
 | [Vino Tinto](https://open.spotify.com/track/5c4lchIbTBbrn3J6WBNH2z) | [Jóvenes Pordioseros](https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4) | [Vino Tinto](https://open.spotify.com/album/4mfzTGo7zQpJ51ZxpGsISt) | 4:15 | 2023-09-29 | 2023-12-02 |
 | [VOID](https://open.spotify.com/track/7ezLEpE3Q50zpVARzgA00f) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Tripolar](https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS) | 3:19 | 2023-06-02 | 2023-12-02 |
-| [VOLARTE](https://open.spotify.com/track/3QA1SyAH2S9L4mHCfnSJra) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [VOLARTE](https://open.spotify.com/album/3w8lu7ivYH9MrfYRADNuoR) | 4:45 | 2025-04-25 |  |
+| [VOLARTE](https://open.spotify.com/track/3QA1SyAH2S9L4mHCfnSJra) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [VOLARTE](https://open.spotify.com/album/3w8lu7ivYH9MrfYRADNuoR) | 4:45 | 2025-04-25 | 2025-05-31 |
 | [Volver a casa](https://open.spotify.com/track/05195FLjI1KmJDB8MxHU1U) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir), [Cuatro Pesos de Propina](https://open.spotify.com/artist/0ChnnP8vWVXGxmfUfFYeND) | [Volver a casa](https://open.spotify.com/album/55SkNTTfJRbCtnFTKvDMMd) | 3:51 | 2025-02-07 |  |
 | [Volver a Nacer](https://open.spotify.com/track/2IzKyyYTVmh5h6shdsawT1) | [Corvex](https://open.spotify.com/artist/2E94EJ7lzS7wlcvpYMelWy) | [Volver a Nacer](https://open.spotify.com/album/3b4LialsppSQBwax8zMLVz) | 4:24 | 2022-06-24 | 2022-07-02 |
 | [Vuelos](https://open.spotify.com/track/4UCKDmolB8SrPVGNAdeSTk) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO), [Shinova](https://open.spotify.com/artist/6rRTrEHzGSDqhmFJQrNFMO) | [Vuelos](https://open.spotify.com/album/6Iq6olWskzadve5s35Sdiq) | 5:46 | 2023-03-31 | 2023-06-03 |

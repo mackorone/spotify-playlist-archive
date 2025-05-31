@@ -4,7 +4,7 @@
 
 > Discover new christian and gospel music\. Cover: kingdmusic & Luma Elpidio
 
-5,363 songs - 16 day 8 hr 39 min
+5,365 songs - 16 day 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -797,6 +797,7 @@
 | [Comforter](https://open.spotify.com/track/5UDIzNWBVJHTAJ53fxCmIz) | [Dabo Williams](https://open.spotify.com/artist/2b1gzVa6dmkHEXKPCLOCHY), [Saladeen Zaquex](https://open.spotify.com/artist/1aVJWbCyDjTvT7SqEGYyz1) | [Comforter](https://open.spotify.com/album/0LyLMfUFWZxtmHci9MfY4n) | 2:33 | 2024-07-12 | 2024-07-27 |
 | [Comforter](https://open.spotify.com/track/5Ammc0BznxFdYJ9VXioZUz) | [JoeKings](https://open.spotify.com/artist/5nMmEYNTGHolTC9ViHFbAR), [Ealle](https://open.spotify.com/artist/6JtxhjUJpk5f3RShUHxWU5) | [Comforter](https://open.spotify.com/album/3MrIE1Ryy1cVhKwYVmypVf) | 2:42 | 2023-12-29 | 2024-01-12 |
 | [Comforter](https://open.spotify.com/track/5yjRr0pERUUWydmRbdpo0R) | [Quiz Tha Great](https://open.spotify.com/artist/7nFhhSgJh6V2fvLGByut8v), [Dreamhowz Music](https://open.spotify.com/artist/5JRAAuNkBUZ9uHNC65veJU) | [Comforter](https://open.spotify.com/album/0SKMTo6zwLHRZTUgwnQ4vx) | 3:13 | 2023-11-10 | 2023-11-24 |
+| [Comforter](https://open.spotify.com/track/3EX5x2fUpczvsg2U65E8Fe) | [Sammy Hart](https://open.spotify.com/artist/7uj5a4BDtYb5oI4EfypnNv) | [Comforter](https://open.spotify.com/album/7gHCoqTQze2noRt7RUt4wx) | 3:00 | 2025-05-30 |  |
 | [Coming Home](https://open.spotify.com/track/5NA1YR3OCgftzZPKqyHUfv) | [Sketchy Bongo](https://open.spotify.com/artist/6da0IfHaN561OqJxQ3JyKh) | [Coming Home](https://open.spotify.com/album/5RQXMBUL8DirQD8sWKO3xd) | 3:19 | 2023-06-16 | 2023-06-23 |
 | [Comma](https://open.spotify.com/track/3R2NzmOCiMWyKM4v2KSyXz) | [Lilmizzy](https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy), [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X), [Gospel hints](https://open.spotify.com/artist/2MrSx4lzfedSt9CycfCvvc) | [Comma](https://open.spotify.com/album/16YlnmkAdcfpt3NQPhr1J3) | 3:10 | 2025-05-30 |  |
 | [Commando](https://open.spotify.com/track/7xXuJDOPMq2oIWryexZQ5A) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Oyije](https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Commando](https://open.spotify.com/album/2pyYdLMR85a4xogAD5ikcn) | 2:33 | 2023-08-18 | 2023-09-01 |
@@ -1091,6 +1092,7 @@
 | [Ekujuleni \(Live at Goshen City Church 2023\)](https://open.spotify.com/track/639batqvLenaQp4sh5Jov7) | [SbuNoah](https://open.spotify.com/artist/6Hmj1Zk3LCAFn8xvujto6O) | [Heavenly Psalms \- Level 1 \(Live at Goshen City Church 2023\)](https://open.spotify.com/album/00uO5FuLCGQsuA2ZKJLK1C) | 10:35 | 2024-05-17 | 2024-06-01 |
 | [Ekwueme \(In Your Class\)](https://open.spotify.com/track/4VaTVRelsQw9HZDmg45GDs) | [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa) | [Ekwueme \(In Your Class\)](https://open.spotify.com/album/4aKFnqCvKz4ZDo2apxay1I) | 12:53 | 2024-08-23 | 2024-09-06 |
 | [El Elyon \(God Most High\)](https://open.spotify.com/track/1i9Klie1zsse8w030g51is) | [Depths of Worship](https://open.spotify.com/artist/3TIsFycbG1A7hLXusMmmcI) | [El Elyon \(God Most High\)](https://open.spotify.com/album/10ckHhXNuHOPIa2YiDxIcc) | 2:00:49 | 2023-05-19 | 2023-06-02 |
+| [El Gibbor](https://open.spotify.com/track/3d69r1PnxvAudzVduo5sVm) | [De Joe Quarcoo](https://open.spotify.com/artist/63GKWd8lgKIQE6IZmTY6Ba) | [El Gibbor](https://open.spotify.com/album/2HocAw3vJd7vfuKTWHL3v1) | 3:00 | 2025-05-30 |  |
 | [EL GIBOR](https://open.spotify.com/track/6FfG8FIsrsDqMjvFY9bTno) | [Nuelzo](https://open.spotify.com/artist/6CPuXxiR9CqQ0d2irmAlnR), [Echow Clay](https://open.spotify.com/artist/6L3FtVc42qiH1J9PUtdUDu) | [EL GIBOR](https://open.spotify.com/album/03vsdpnVy3jTMRcduHDMEh) | 2:19 | 2024-03-22 | 2024-03-29 |
 | [El Roi](https://open.spotify.com/track/73slZeHzp4jRUt3hwXoagJ) | [Eno Michael](https://open.spotify.com/artist/4gG4TRziJfH2Tjo5fUqqdk) | [El Roi](https://open.spotify.com/album/2cn25qvHogjamZNBt9q5i2) | 7:54 | 2025-03-28 | 2025-04-04 |
 | [El Roi](https://open.spotify.com/track/7Asby5UHS9Abm4M4UtSEF9) | [Kushim](https://open.spotify.com/artist/7ySTyvAPMU1SaCLo7fRvHX) | [El Roi](https://open.spotify.com/album/35GGIjcUikr8SU0fZUGIEm) | 2:10 | 2024-08-09 | 2024-08-23 |

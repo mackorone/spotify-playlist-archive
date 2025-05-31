@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-14",
-  "description": "the best of the deep end. cover: Reek0",
+  "description": "the best of the deep end. cover: Saint\u00e9",
   "name": "lofi rap",
   "tracks": [
     {
@@ -406,6 +406,24 @@
       "duration_ms": 181333,
       "name": "Angels Fly High",
       "url": "https://open.spotify.com/track/2HKtJCinY7r5wnqXMvtDHW"
+    },
+    {
+      "album": {
+        "name": "Bait",
+        "url": "https://open.spotify.com/album/5DqnYPAj92aFItb4q4jc22"
+      },
+      "artists": [
+        {
+          "name": "Jordeaux",
+          "url": "https://open.spotify.com/artist/0L5fGGag32mZi2G91oUoPz"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133293,
+      "name": "Bait",
+      "url": "https://open.spotify.com/track/1oQ6nzW5K2z2BLOugUOZKZ"
     },
     {
       "album": {
@@ -1209,6 +1227,24 @@
     },
     {
       "album": {
+        "name": "Dora",
+        "url": "https://open.spotify.com/album/2thGNofxFRG95ZbwObRXT6"
+      },
+      "artists": [
+        {
+          "name": "Saint\u00e9",
+          "url": "https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174883,
+      "name": "Dora",
+      "url": "https://open.spotify.com/track/5J8qRGndsol8SHNKFTaAB7"
+    },
+    {
+      "album": {
         "name": "DPMO",
         "url": "https://open.spotify.com/album/0a6VY1IPF1Gv77FeCXp7XY"
       },
@@ -1598,6 +1634,24 @@
       "duration_ms": 219759,
       "name": "Grow",
       "url": "https://open.spotify.com/track/2RhaAsK4IYDmE20Vk96T9K"
+    },
+    {
+      "album": {
+        "name": "Hairclips",
+        "url": "https://open.spotify.com/album/4YzrFnPfeFs63RrQXOThyx"
+      },
+      "artists": [
+        {
+          "name": "Niko B",
+          "url": "https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184997,
+      "name": "Hairclips",
+      "url": "https://open.spotify.com/track/3PYNyyyvqbiLbjBj5SNzBI"
     },
     {
       "album": {
@@ -2904,7 +2958,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 153045,
       "name": "My Girl (Gemini)",
       "url": "https://open.spotify.com/track/5rRWBRjLeIv9BwKgpeLrQb"
@@ -3002,7 +3056,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 168751,
       "name": "No Emotions",
       "url": "https://open.spotify.com/track/1qSTiAFlGJY9aJVgreRF8D"
@@ -3164,7 +3218,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 192000,
       "name": "Novacane",
       "url": "https://open.spotify.com/track/6RmKXyV7UPKye1lMX9memT"

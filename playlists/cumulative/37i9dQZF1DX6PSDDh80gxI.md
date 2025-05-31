@@ -4,7 +4,7 @@
 
 > Il concerto di Joan Thiele al MI AMI è stato bellissimo, e quindi l'abbiamo messo su Indie Italia 🌻 \(foto di kimberley ross\)
 
-308 songs - 16 hr 18 min
+309 songs - 16 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Amici stretti](https://open.spotify.com/track/0QWtK5weG5oox2YwIHZnx7) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h) | [Scarabocchi](https://open.spotify.com/album/4mVj0l7BupieXgxrXzTJ72) | 2:09 | 2025-04-17 |  |
 | [Ammore Pe Na Sera](https://open.spotify.com/track/5DsuqCkFb3V2PNN1qAzHGN) | [TROPICO](https://open.spotify.com/artist/11wRTRhOoRE8kcDgtAmuJW) | [Ammore Pe Na Sera](https://open.spotify.com/album/01mSfOLM1Wm0eAZWxfg3kD) | 3:30 | 2024-06-27 | 2024-07-27 |
 | [Amore mio](https://open.spotify.com/track/346nT9OEHKXyc0RA5JzVYT) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h) | [Amore mio](https://open.spotify.com/album/6zGqsAq8vDt2t8wO12oF71) | 3:29 | 2025-01-23 | 2025-02-28 |
+| [Anche Se Ti Amo \(con Frah Quintale, nayt & prima stanza a destra\)](https://open.spotify.com/track/0yzZJ1wNec8GihbRZ5FGyL) | [Golden Years](https://open.spotify.com/artist/4x13f8mnFaaoUdFd5PPSgH), [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN), [nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD), [prima stanza a destra](https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5) | [FUORI MENÙ](https://open.spotify.com/album/0CVCnkzMA5oMiAiwgaIY5k) | 2:27 | 2025-05-30 |  |
 | [Appeso](https://open.spotify.com/track/7oQ5HBhVM1u5qsoyPkenGh) | [tellynonpiangere](https://open.spotify.com/artist/2n8rCH14DAnaBWMdkfj9hv) | [Appeso](https://open.spotify.com/album/3NcnHCFnHCbZcUO6bglpqn) | 2:05 | 2024-06-27 | 2024-07-27 |
 | [Aqaba](https://open.spotify.com/track/07beED77Z5oF7NyIN9HZ7f) | [Dutch Nazari](https://open.spotify.com/artist/2mHrcXHBgPciUOYh3JHISu) | [Aqaba](https://open.spotify.com/album/0ZVpRPD70kqEAAQrlXfduI) | 3:12 | 2024-06-27 | 2024-07-05 |
 | [Ascoltare gli alberi](https://open.spotify.com/track/0gQ7KxkgClrDXvD4MrfAQT) | [Vasco Brondi](https://open.spotify.com/artist/6SZXiHJt5lhwBQ4OVTGC6S) | [Ascoltare gli alberi](https://open.spotify.com/album/5PkdD1nN3vygejhLOh4l4p) | 3:18 | 2024-10-24 | 2024-11-08 |

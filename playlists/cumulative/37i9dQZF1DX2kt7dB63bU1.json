@@ -5811,6 +5811,28 @@
     },
     {
       "album": {
+        "name": "I Can't Give You Anything but Love",
+        "url": "https://open.spotify.com/album/77y4DzQG4z0BQxjsPTN6lF"
+      },
+      "artists": [
+        {
+          "name": "Tony DeSare",
+          "url": "https://open.spotify.com/artist/6JooBP4BtY7tY6YPJnSYhI"
+        },
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196500,
+      "name": "I Can't Give You Anything but Love",
+      "url": "https://open.spotify.com/track/5W9A9tWBv4Hud2PXg9biDA"
+    },
+    {
+      "album": {
         "name": "I Can't Help It",
         "url": "https://open.spotify.com/album/7wALZWZ9gYukW7hI37hGaM"
       },
@@ -9454,7 +9476,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 181298,
       "name": "Lover Man",
       "url": "https://open.spotify.com/track/5npntgfKIAlEyAdIJCKrHX"

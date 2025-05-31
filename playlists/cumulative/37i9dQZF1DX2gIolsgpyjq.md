@@ -4,7 +4,7 @@
 
 > Celebrating 10 years of Fresh Finds! The best new music by independent artists in the Nordics\. Cover: Dione
 
-1,105 songs - 2 day 10 hr 10 min
+1,106 songs - 2 day 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -593,6 +593,7 @@
 | [Lonely Crowd](https://open.spotify.com/track/48KycotUHUnYcl4aUSqVDT) | [Argenti](https://open.spotify.com/artist/2vYCPMnzzNCODn2GK2xdm3), [Oskar Byggeth](https://open.spotify.com/artist/5mAbmh3sYSrvjY2ekoIvAA), [Ellen K](https://open.spotify.com/artist/5csH1t9m18XNiM8IDEwoAA) | [Lonely Crowd](https://open.spotify.com/album/2OkMyaT7KmgxhBzGGGEcWK) | 2:38 | 2024-08-01 | 2024-09-20 |
 | [longest day on the beach](https://open.spotify.com/track/2Yhf2mOGeU0YDE4LapXmWE) | [Jaycov](https://open.spotify.com/artist/6kbM2bCTPewpVWA4jXP7UV) | [longest day on the beach](https://open.spotify.com/album/0yrDVStpgEO9ZM3By7REEP) | 4:11 | 2025-03-27 | 2025-05-23 |
 | [Longin](https://open.spotify.com/track/13ffA0P734eqHxuF74ULCl) | [LUJAIN](https://open.spotify.com/artist/6gkdUNajvm1NZbynggJN1G) | [Longin](https://open.spotify.com/album/0Zb8G04uGeMRMY1OTNWYsx) | 2:54 | 2025-01-02 | 2025-03-21 |
+| [Look At Me](https://open.spotify.com/track/5fCFcvq313ZNgHAqFZTN51) | [Elliot](https://open.spotify.com/artist/13HlSDWIZ8CBSq1ruAZxAe) | [Look At Me](https://open.spotify.com/album/0ThHEj3uBQKpzXXjxkNYJz) | 3:18 | 2025-05-30 |  |
 | [Look For Love](https://open.spotify.com/track/1RpGmrWD4JGKgfitDJW8k8) | [Poetically](https://open.spotify.com/artist/1LLGwmjGWuH8rqw48p7kkx) | [Look For Love](https://open.spotify.com/album/23BcJBvnSbbpKXoF0de9Hi) | 3:08 | 2025-04-03 | 2025-05-09 |
 | [Look The Other Way](https://open.spotify.com/track/5oEJg0qBp6gdAxQdplBZqL) | [LUMI](https://open.spotify.com/artist/2GhZq7k05EWdvb4cS2RQG5) | [Look The Other Way](https://open.spotify.com/album/0zPcVDVk6uPmGPOFWHtLAW) | 3:33 | 2024-02-22 | 2024-03-15 |
 | [Look The Other Way](https://open.spotify.com/track/5x9tTch2LsMNPReORReT7I) | [LUMI](https://open.spotify.com/artist/2GhZq7k05EWdvb4cS2RQG5) | [Look The Other Way](https://open.spotify.com/album/3gqQjbbgkdbKUeBYtXeHdI) | 3:33 | 2024-02-08 | 2024-02-24 |

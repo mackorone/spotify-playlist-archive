@@ -4,7 +4,7 @@
 
 > Топові новинки української та світової поп\-музики\. Обкладинка: Miley Cyrus
 
-357 songs - 17 hr 52 min
+358 songs - 17 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,7 @@
 | [Silverlines \- prod\. Labrinth](https://open.spotify.com/track/1BK1d7b9bhlbKpQPbYGsol) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Silverlines \- prod\. Labrinth](https://open.spotify.com/album/6xLihtKzCsFZm7nQrAcbF4) | 3:17 | 2024-09-27 | 2025-05-16 |
 | [Siren sounds \(bonus\)](https://open.spotify.com/track/181yGUB8xEh4LfK8KhC4Wa) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/6KaEpgeZQF6ZVVAmSoZUrb) | 3:03 | 2025-02-27 |  |
 | [Slow It Down](https://open.spotify.com/track/6WO7IDGLakjO38lsvI2gHB) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Slow It Down](https://open.spotify.com/album/5UI2uTwSWoS6NmlxurwElQ) | 2:41 | 2024-06-27 | 2024-12-20 |
-| [Smoking Cherry](https://open.spotify.com/track/5hmQADC08TeCTQaeKhltnY) | [Carpetman](https://open.spotify.com/artist/3zzOs4npAwsNSmwFYDzdHx) | [Smoking Cherry](https://open.spotify.com/album/7hMpzKT3n8J30U8aClUan8) | 4:40 | 2025-01-23 |  |
+| [Smoking Cherry](https://open.spotify.com/track/5hmQADC08TeCTQaeKhltnY) | [Carpetman](https://open.spotify.com/artist/3zzOs4npAwsNSmwFYDzdHx) | [Smoking Cherry](https://open.spotify.com/album/7hMpzKT3n8J30U8aClUan8) | 4:40 | 2025-01-23 | 2025-05-31 |
 | [Someone New](https://open.spotify.com/track/5pyo1cM0fR2EDJwHLkdOSh) | [MAX BARSKIH](https://open.spotify.com/artist/5zXGVPJHUzQPUXKA7AlTi5) | [Someone New](https://open.spotify.com/album/7dWmQYs2iC5U2UOF0EI5zk) | 2:35 | 2025-04-17 | 2025-05-23 |
 | [Sorry I'm Here For Someone Else](https://open.spotify.com/track/3x3K1RP3Zfi2qeMR8kyrNO) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Sorry I'm Here For Someone Else](https://open.spotify.com/album/38PKSUSFXnO4mbUhLC4ELZ) | 2:36 | 2025-02-27 |  |
 | [southbound](https://open.spotify.com/track/4jiwz2tQZo21Z4NQwz4zUt) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [southbound / test drive](https://open.spotify.com/album/4Uh9XOh5hmX0Cw7JREc0AU) | 2:17 | 2025-03-21 |  |
@@ -267,6 +267,7 @@
 | [Культура](https://open.spotify.com/track/0qOzXCWeUPx84YfByQ00xt) | [FIЇNKA](https://open.spotify.com/artist/13NAXNT9stnvGPXbkj7d9u) | [Культура](https://open.spotify.com/album/52fvr5WiLVPz9ToXBtC2QV) | 2:57 | 2025-01-16 | 2025-02-21 |
 | [Кінець Світу](https://open.spotify.com/track/33PwqeBkIeTuEBZlGBjnUU) | [Мія Рамарі](https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y) | [Кінець Світу](https://open.spotify.com/album/0RYgX5ufehbFe1Z4DherOL) | 3:30 | 2025-01-30 | 2025-02-07 |
 | [ЛИПЕНЬ](https://open.spotify.com/track/7KdEKTL1KxWpQ28NK3xLTp) | [TUMAZAR](https://open.spotify.com/artist/0sxk44sG1eS4XAnbGd3fjK) | [ЛИПЕНЬ](https://open.spotify.com/album/1Yzj5Ne7KizKH3q3KYzSWH) | 3:38 | 2024-07-12 | 2024-07-20 |
+| [Лунає](https://open.spotify.com/track/1eD2eY8EOi8pOGm7toAfQF) | [Phil It](https://open.spotify.com/artist/0mJGrzOVeAMwrtlQZaNyUe) | [AMARA](https://open.spotify.com/album/4PG7HcZnnk0aIqkvQPLiZR) | 2:34 | 2025-05-30 |  |
 | [Люди](https://open.spotify.com/track/5Nl4kEjbmDKQH2SiBUTnt4) | [Shmiska](https://open.spotify.com/artist/0896FugzPOpBDwYEfhMAVY) | [Люди](https://open.spotify.com/album/25Z5k4vKlp1POV2vfWZZJw) | 2:52 | 2025-03-28 | 2025-04-04 |
 | [Ліза](https://open.spotify.com/track/0L5gNlkXbKJNgKXM7Futrf) | [BRYKULETS](https://open.spotify.com/artist/7JThbRHgQpaRM87SKqPqoB) | [Ліза](https://open.spotify.com/album/2DOtrd6CqfbupbI319TzDy) | 3:01 | 2025-05-01 | 2025-05-16 |
 | [лікую](https://open.spotify.com/track/5nm5ctbjUoTRQkztMaTckL) | [NANA](https://open.spotify.com/artist/5nqfEPmgH1HtrcPJeIt51G) | [лікую](https://open.spotify.com/album/4r026BckhTLJBXMcCnl7e2) | 2:56 | 2024-08-30 | 2024-11-22 |

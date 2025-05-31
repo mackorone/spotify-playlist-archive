@@ -4,7 +4,7 @@
 
 > welcome to our universe ft\. yeule
 
-1,133 songs - 2 day 7 hr 23 min
+1,134 songs - 2 day 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -319,7 +319,7 @@
 | [engravings](https://open.spotify.com/track/4u5CfuAGAHNYDIHSSW7BiY) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [engravings](https://open.spotify.com/album/2SbLcM1nwlKO76evmEuX6w) | 3:00 | 2022-08-04 | 2022-10-14 |
 | [escape 2nite](https://open.spotify.com/track/4AijasxFX4OxpAUO1HMZEi) | [Dexndre](https://open.spotify.com/artist/4XKKBVUhrdcD62Qrhpf9U7) | [escape 2nite](https://open.spotify.com/album/2Jk8ZhfJpCmMqEFNwqhnRc) | 2:18 | 2024-09-05 | 2024-11-15 |
 | [Eternal December](https://open.spotify.com/track/39ejkjUIw8yzIJ1WP4mj83) | [Lake Malice](https://open.spotify.com/artist/4zoN3D2RviWzWeHvkT3wWO) | [Eternal December](https://open.spotify.com/album/0NSRVjbWJXMr0X2cv54szI) | 3:49 | 2024-03-01 | 2024-06-14 |
-| [Euphoria](https://open.spotify.com/track/6OX0qDykYQe5Ih0DdOcVUS) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Euphoria](https://open.spotify.com/album/0lnwJGOJJnCn0xFlDQYdhJ) | 3:03 | 2025-05-29 |  |
+| [Euphoria](https://open.spotify.com/track/6OX0qDykYQe5Ih0DdOcVUS) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0), [Joseph H Gilmore Jr.](https://open.spotify.com/artist/6Z5rka6DaBjeczNd7IIJbQ) | [Euphoria](https://open.spotify.com/album/0lnwJGOJJnCn0xFlDQYdhJ) | 3:03 | 2025-05-29 |  |
 | [EURO CUT](https://open.spotify.com/track/5YinEwPw568hqnzVLdm6mh) | [OC Saint](https://open.spotify.com/artist/1W80xMiJWGfGsymfrjCCLa) | [EURO CUT](https://open.spotify.com/album/1JwpViTCZKPeFArFi8RN9I) | 4:24 | 2024-11-08 | 2025-01-31 |
 | [Evangelic Girl is a Gun](https://open.spotify.com/track/426pPi8cBCE38QO4h6YC6V) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Evangelic Girl is a Gun](https://open.spotify.com/album/3grkRzNvSjVrwCLg6fSlLR) | 3:03 | 2025-04-10 |  |
 | [EVERY MAN FOR HIMSELF](https://open.spotify.com/track/6tKEneUBTaGvoHeSxpJltb) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [EVERY MAN FOR HIMSELF](https://open.spotify.com/album/70KXLvjv7CIssBvNh9AbTB) | 1:57 | 2024-03-01 | 2024-05-24 |
@@ -619,6 +619,7 @@
 | [LET IT GO](https://open.spotify.com/track/3EsHPsCsmjav3XcqBibcMM) | [Laurel Smith](https://open.spotify.com/artist/39V5jPcGZJGgjB8VoBW5BT) | [LET IT GO](https://open.spotify.com/album/0pyPK2kPiSxG4KrBmWsGQt) | 2:07 | 2023-01-16 | 2023-05-19 |
 | [Let Me Speak](https://open.spotify.com/track/0lZz6LCbnGLe47YzXpxKiZ) | [ZLUTZ](https://open.spotify.com/artist/01hsOOUCeEFoGZZ0YjTJxh) | [Inferno](https://open.spotify.com/album/5DZ1ibBuyjMqbAWuCCDfUn) | 3:43 | 2022-08-18 | 2022-10-19 |
 | [Let Me Speak](https://open.spotify.com/track/238baqXmB5xRxuyaz6Nr6r) | [ZLUTZ](https://open.spotify.com/artist/01hsOOUCeEFoGZZ0YjTJxh) | [Inferno](https://open.spotify.com/album/5vBbMzRTrlu3qxu244QGmc) | 3:43 | 2022-10-13 | 2022-11-11 |
+| [LET THE MUSIC TALK](https://open.spotify.com/track/4LWqyLie60yP3iMaKc8rYR) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [TURN UP MUSIC VOL\. 1](https://open.spotify.com/album/4jnbc69ZnYJtUogth2x4re) | 2:07 | 2025-05-30 |  |
 | [Lethal](https://open.spotify.com/track/5m1fdy2KdBEqpPCAZQZ2fX) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [Lethal](https://open.spotify.com/album/5zkwlC9Kh1XyBIpXPNYsyV) | 4:10 | 2023-09-21 | 2023-10-13 |
 | [Letters To You](https://open.spotify.com/track/5ViK71JwQMOnWxzw4yHZYh) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [What It Is To Burn](https://open.spotify.com/album/7mEAwKVcYuMOKOCFQI6kfi) | 3:19 | 2024-05-28 | 2024-06-07 |
 | [Liar Liar Pants on Fire](https://open.spotify.com/track/0stL6n1ajb4Fm7wtDAM6A9) | [racecarbed](https://open.spotify.com/artist/5u7mnQsIPpSlEKMUCkR465) | [Liar Liar Pants on Fire](https://open.spotify.com/album/5zIUuLN9yrnfHn8k5InQfk) | 3:48 | 2024-08-15 | 2024-09-06 |

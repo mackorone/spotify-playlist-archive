@@ -4,7 +4,7 @@
 
 > Country rap hits of today and tomorrow\. Cover: Bailey Zimmerman and BigXthaPlug
 
-157 songs - 8 hr 24 min
+158 songs - 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Country Boy Swag](https://open.spotify.com/track/3rbRSCT3RPBl5J1o1ihANo) | [Cypress Spring](https://open.spotify.com/artist/23PFGrmuqJvklNT9ikqXaC) | [Denim](https://open.spotify.com/album/3gTeJEis7kNTvgExDq4GVT) | 3:30 | 2023-04-21 | 2024-04-19 |
 | [Country Boy Swag](https://open.spotify.com/track/6c0IDzUOmZnDJOiHFu7q4F) | [Cypress Spring](https://open.spotify.com/artist/23PFGrmuqJvklNT9ikqXaC) | [Denim](https://open.spotify.com/album/577oexFxcnZcntdo1TBIjo) | 3:30 | 2023-03-17 |  |
 | [Country Folks \(feat\. Colt Ford & Danny Boone\)](https://open.spotify.com/track/1BsvAobGiVCaqRAixv22CW) | [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P), [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx), [Danny Boone](https://open.spotify.com/artist/6hbruWbLY9C6Id2335jVF8) | [Pain Management](https://open.spotify.com/album/0q3foQ56tQjePzX6SXCdTK) | 3:33 | 2023-03-17 |  |
-| [COUNTRY GRIPPIN \(feat\. Demun Jones\)](https://open.spotify.com/track/78cht5chnXRJwouQNouAfr) | [Charlie Farley](https://open.spotify.com/artist/7c9KnWYDsZgK8k5QiCi9wk), [Demun Jones](https://open.spotify.com/artist/1LkLu8Wywk1qLvWUYAQiZR) | [COUNTRY GRIPPIN \(feat\. Demun Jones\)](https://open.spotify.com/album/6ZsqzXvIif4OsRBIDUutJs) | 2:56 | 2025-05-02 |  |
+| [COUNTRY GRIPPIN](https://open.spotify.com/track/78cht5chnXRJwouQNouAfr) | [Charlie Farley](https://open.spotify.com/artist/7c9KnWYDsZgK8k5QiCi9wk), [Demun Jones](https://open.spotify.com/artist/1LkLu8Wywk1qLvWUYAQiZR) | [COUNTRY GRIPPIN](https://open.spotify.com/album/6ZsqzXvIif4OsRBIDUutJs) | 2:56 | 2025-05-02 |  |
 | [Country Hustlas](https://open.spotify.com/track/6zTa0edMoxQoTvyCxVU9Rs) | [Bezz Believe](https://open.spotify.com/artist/0J7ABQoXv0zSACmQXz8nqq), [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx) | [Country Hustlas](https://open.spotify.com/album/62NS1EdORVN8R347I5nJIW) | 3:06 | 2023-03-31 |  |
 | [Country Made](https://open.spotify.com/track/0kvkHlDvoALmZU8pzkXTur) | [Lenny Cooper](https://open.spotify.com/artist/4GhUchfx0YFPsDaXZRJp8v), [Young Gunner](https://open.spotify.com/artist/5U4zQH57FFSIBvYigOk7G1), [J Rosevelt](https://open.spotify.com/artist/49o8zl9XztPTeGDc5D0xaj) | [Still The King](https://open.spotify.com/album/203wsuneFV8jM0aYimR0TR) | 3:29 | 2023-04-21 | 2024-04-19 |
 | [Country Made](https://open.spotify.com/track/2dzQTTYxfcKpH8PncC3SkE) | [Lenny Cooper](https://open.spotify.com/artist/4GhUchfx0YFPsDaXZRJp8v), [Young Gunner](https://open.spotify.com/artist/5U4zQH57FFSIBvYigOk7G1), [J Rosevelt](https://open.spotify.com/artist/49o8zl9XztPTeGDc5D0xaj) | [Still The King](https://open.spotify.com/album/58yc5Wx0ShmeAsJjParire) | 3:29 | 2023-03-17 |  |
@@ -122,6 +122,7 @@
 | [PROBLEM SOLVER \(feat\. Boosie Badazz\)](https://open.spotify.com/track/1B2BxeaI10RhzDwfJvbV7k) | [Jamie Ray](https://open.spotify.com/artist/08sIoHx2vZUsqaWtoVHHo2), [Boosie Badazz](https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg) | [PROBLEM SOLVER \(feat\. Boosie Badazz\)](https://open.spotify.com/album/6pVcnrOSDmOgABZvzKOfxC) | 2:36 | 2023-08-18 |  |
 | [Raised On It](https://open.spotify.com/track/5A9yQ6iMNyWomSolE0Txme) | [Jesslee](https://open.spotify.com/artist/7Bve7xtrpHJaFvwn4XIJV1), [Seth Anthony](https://open.spotify.com/artist/69fyBUeaP6u5zUKxhJi2wo) | [Raised On It](https://open.spotify.com/album/5cege1fUUvELehDKVy8kF3) | 3:02 | 2023-03-17 | 2025-05-03 |
 | [Red, White & Boozed](https://open.spotify.com/track/6csDpdNhk1TUqqgBeBFwnb) | [Moonshine Bandits](https://open.spotify.com/artist/7DBsiQxsZAKC5lHoRCdOFG), [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx) | [Fire](https://open.spotify.com/album/6OrAtQd8lAdUhn7KzmQCaP) | 2:35 | 2023-03-17 |  |
+| [Ricky Bobby](https://open.spotify.com/track/6mDhojEqX05l1fhelRS4zW) | [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM) | [Ricky Bobby \(White Trash Freestyle\)](https://open.spotify.com/album/0r7R3jeUunqkp9RyRH6LsG) | 2:12 | 2025-05-30 |  |
 | [Ride \(feat\. CRUCIFIX\)](https://open.spotify.com/track/0nyA6JFmmF1d1WBb5OHolX) | [Wade B](https://open.spotify.com/artist/6SRngj3jZv4ZH2HDHWMrdQ), [CRUCIFIX](https://open.spotify.com/artist/3TZlqrpMAxc0nR7jKggeyh) | [When It's Real](https://open.spotify.com/album/2Bit7fuwbKJr2BG4b8nPUy) | 3:54 | 2023-03-17 |  |
 | [Ride 4 Me](https://open.spotify.com/track/6zx3qdGDRyogH9WlM7lGGH) | [Austin Tolliver](https://open.spotify.com/artist/3mJzTRR6NlyNWYkZ946WgC) | [Ride 4 Me](https://open.spotify.com/album/2hkUv5Lqfj0pVgTYanPNw2) | 3:12 | 2023-04-21 | 2024-04-19 |
 | [Ride 4 Me](https://open.spotify.com/track/7yyEXTDz5p8BrN60dmYOJ3) | [Austin Tolliver](https://open.spotify.com/artist/3mJzTRR6NlyNWYkZ946WgC) | [Ride 4 Me](https://open.spotify.com/album/0GikiFDQpTLKZ6ytl4zms0) | 3:12 | 2023-03-17 |  |

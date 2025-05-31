@@ -1293,6 +1293,24 @@
     },
     {
       "album": {
+        "name": "In The Stillness",
+        "url": "https://open.spotify.com/album/2wanBHLCktlor7jPK5mGnK"
+      },
+      "artists": [
+        {
+          "name": "Ruben Galloway",
+          "url": "https://open.spotify.com/artist/1xmy0B8MRON38t6ujvnivX"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186595,
+      "name": "In the Stillness",
+      "url": "https://open.spotify.com/track/3chX0o1istmZdfm53dCksb"
+    },
+    {
+      "album": {
         "name": "The Sacred Self",
         "url": "https://open.spotify.com/album/65DCR1ubmwGmG5u0ijqPbm"
       },
@@ -3028,7 +3046,7 @@
       ],
       "date_added": "2023-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 149156,
       "name": "Wish of the Progeny",
       "url": "https://open.spotify.com/track/1Lz6DNlm1D9T1qc2JbAwit"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "the best new metalcore. where brutality and technicality collide. Cover: Of Mice & Men",
+  "description": "the best new metalcore. where brutality and technicality collide. Cover: We Came As Romans",
   "name": "The Core",
   "tracks": [
     {
@@ -3028,7 +3028,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 165500,
       "name": "Blood For Blood",
       "url": "https://open.spotify.com/track/6Eswy1mOFIbBOsFrmDoxVE"
@@ -5410,7 +5410,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 254250,
       "name": "DEATH CLOCK",
       "url": "https://open.spotify.com/track/5dZvCU36j5QDmAt3Pb5IVr"
@@ -6074,7 +6074,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 218813,
       "name": "Disclosure",
       "url": "https://open.spotify.com/track/6o56ET8RCtfQTczMrUsCzQ"
@@ -9094,7 +9094,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 245853,
       "name": "God Complex",
       "url": "https://open.spotify.com/track/1JearbDMqLCkKDBBxUGw5p"
@@ -12254,6 +12254,24 @@
       "duration_ms": 221746,
       "name": "Lockdown",
       "url": "https://open.spotify.com/track/1sRlEiwjCS0swVrNVnPNd0"
+    },
+    {
+      "album": {
+        "name": "Lonely God",
+        "url": "https://open.spotify.com/album/4WHoqXOY0kPwtiHK9Xcg19"
+      },
+      "artists": [
+        {
+          "name": "Fit For A King",
+          "url": "https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197576,
+      "name": "Lonely God",
+      "url": "https://open.spotify.com/track/5cNupHw6WZMRfFHTqsoACU"
     },
     {
       "album": {
@@ -18099,6 +18117,24 @@
     },
     {
       "album": {
+        "name": "Wasteland",
+        "url": "https://open.spotify.com/album/3DoK95Nd0E2FLRE4uUNzsW"
+      },
+      "artists": [
+        {
+          "name": "Wolves At The Gate",
+          "url": "https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234621,
+      "name": "SMOKE (False Devils)",
+      "url": "https://open.spotify.com/track/2sfNKIhE7P1sLQWjKE9WLF"
+    },
+    {
+      "album": {
         "name": "Smoke Signals",
         "url": "https://open.spotify.com/album/6LlnpYow87yXNdi9TtTUiv"
       },
@@ -18374,6 +18410,28 @@
       "duration_ms": 219767,
       "name": "Something In The Way",
       "url": "https://open.spotify.com/track/3V28Eb87Y8du002uxsxUDn"
+    },
+    {
+      "album": {
+        "name": "Song 3",
+        "url": "https://open.spotify.com/album/0Cxa2LwLEBIpVglPWwiias"
+      },
+      "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        },
+        {
+          "name": "Slaughter to Prevail",
+          "url": "https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214193,
+      "name": "Song 3",
+      "url": "https://open.spotify.com/track/7eDUTBIo76AMC5UYqkkzDL"
     },
     {
       "album": {
@@ -18836,6 +18894,24 @@
       "duration_ms": 203290,
       "name": "Suffer",
       "url": "https://open.spotify.com/track/66ZM0tKioRCiW5TyPUdfpl"
+    },
+    {
+      "album": {
+        "name": "HIDE FROM THE LIGHT",
+        "url": "https://open.spotify.com/album/2AeR1fwv8q6ocY1FAjShdB"
+      },
+      "artists": [
+        {
+          "name": "DIESECT",
+          "url": "https://open.spotify.com/artist/3omvraIGd4KYyb89eeordB"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185777,
+      "name": "SUFFER IN THE DARK",
+      "url": "https://open.spotify.com/track/72tbts7CGQ7PWmnfCGvrPp"
     },
     {
       "album": {
@@ -21491,6 +21567,24 @@
     },
     {
       "album": {
+        "name": "Unbind Me",
+        "url": "https://open.spotify.com/album/7MVhd3QnjRM5MQJpJuCzwa"
+      },
+      "artists": [
+        {
+          "name": "The Narrator",
+          "url": "https://open.spotify.com/artist/7d1ZGbsel9lq6hwvWhPFgk"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267651,
+      "name": "Unbind Me",
+      "url": "https://open.spotify.com/track/7dBsbOD7MXkvTW7NmE2K1W"
+    },
+    {
+      "album": {
         "name": "Unconquered",
         "url": "https://open.spotify.com/album/0zx4zzB4EheppuadoyXLN0"
       },
@@ -22536,7 +22630,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 233127,
       "name": "What A Time",
       "url": "https://open.spotify.com/track/2mwccIl24NkxUzUyGJJbxA"

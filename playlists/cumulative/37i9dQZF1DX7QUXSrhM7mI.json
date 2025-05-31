@@ -709,6 +709,24 @@
     },
     {
       "album": {
+        "name": "Blue Lagoon",
+        "url": "https://open.spotify.com/album/7FiwcveyjTrUFk4chU2aFf"
+      },
+      "artists": [
+        {
+          "name": "PAWWS",
+          "url": "https://open.spotify.com/artist/7oTof0LWYf6S0mGq8K02CT"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177025,
+      "name": "Blue Lagoon",
+      "url": "https://open.spotify.com/track/3t5nTLIDZqxsNi1wAeLvFy"
+    },
+    {
+      "album": {
         "name": "Wildcard",
         "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
       },
@@ -4756,7 +4774,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 170390,
       "name": "Try Me",
       "url": "https://open.spotify.com/track/6IDx8fFhFIEU7xT3GBvbMf"
@@ -4947,6 +4965,24 @@
     },
     {
       "album": {
+        "name": "weren't for the wind",
+        "url": "https://open.spotify.com/album/2EaHnwT7NSSG207GN94pfN"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193666,
+      "name": "weren't for the wind",
+      "url": "https://open.spotify.com/track/4v9alNvEjLjvqo4LNWwswl"
+    },
+    {
+      "album": {
         "name": "Western Wind",
         "url": "https://open.spotify.com/album/5WCdg2iITZNONNV8Wp5P7M"
       },
@@ -4976,7 +5012,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 170704,
       "name": "What's Wrong",
       "url": "https://open.spotify.com/track/6iMWLGjbxa79HgMEMsx7ay"

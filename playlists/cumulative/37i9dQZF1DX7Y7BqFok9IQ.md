@@ -4,7 +4,7 @@
 
 > The best of modern blues rock\. Cover: Joe Bonamassa
 
-371 songs - 1 day 0 hr 7 min
+373 songs - 1 day 0 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Heaven Help Me](https://open.spotify.com/track/0hqFW37pMx89xTCQ0lwho6) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Heaven Help Me](https://open.spotify.com/album/0xBgohteXtPrS9CSpOgowo) | 4:01 | 2022-05-06 |  |
 | [Heaven Help Me](https://open.spotify.com/track/3YwxGSSl5AhI1FbAAPJXLi) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Old Habits](https://open.spotify.com/album/4YXrI2ePBrOXvATQ8qLd8y) | 4:01 | 2022-05-06 | 2024-04-19 |
 | [Hell Of A Good Time](https://open.spotify.com/track/2RqZuqdOJ0FzEQ6Y3a6yJ1) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Hell Of A Good Time](https://open.spotify.com/album/1LoEvdKPBmDoDDKv8ot4G3) | 4:07 | 2025-02-14 |  |
+| [HIGH/LOW](https://open.spotify.com/track/6Y7tVRFyWGq2XT1sSWW5b6) | [Leilani Kilgore](https://open.spotify.com/artist/2Muoy1Aup07JwrgVDf5XJe) | [HIGH/LOW](https://open.spotify.com/album/1PdFSe3SjJoJzy7gl8Dpf8) | 3:53 | 2025-05-30 |  |
 | [Higher Power](https://open.spotify.com/track/0u70IdyL5XsnryWI99Haqr) | [Cody Jasper](https://open.spotify.com/artist/5TUeTFpidqbyGqXeOj5I1H) | [Higher Power](https://open.spotify.com/album/1IUvobngXGOyJ4BdtlYILD) | 4:14 | 2022-02-25 | 2023-07-15 |
 | [Highway 61 Revisited \- Live in California \- September 1975](https://open.spotify.com/track/0MLny1eMrEO76xLNlw2yTs) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [White Hot Blues](https://open.spotify.com/album/7MDS6yp7pHvXcuLIcjO8xY) | 5:03 | 2024-05-24 | 2024-07-06 |
 | [Hippies On Acid](https://open.spotify.com/track/0WMUGMUTLVK6beba2ZkPu1) | [7Horse](https://open.spotify.com/artist/3P5NW1wQjcWpR0VsT1m0xr) | [Hippies On Acid](https://open.spotify.com/album/3rsV38yQiVfMuHbUnwK0Ms) | 3:45 | 2022-07-15 |  |
@@ -175,7 +176,7 @@
 | [Just Takes Time](https://open.spotify.com/track/4NfUTIqcPzLTcL7Owbezt7) | [Simon McBride](https://open.spotify.com/artist/4S2kddUZy77NYpLH50f3qC) | [The Fighter](https://open.spotify.com/album/52jRQHJzlln2SkAfYQnLQC) | 3:09 | 2022-06-03 | 2024-04-19 |
 | [Just Takes Time](https://open.spotify.com/track/6L72riHp7EkFg2KauN3yqY) | [Simon McBride](https://open.spotify.com/artist/4S2kddUZy77NYpLH50f3qC) | [The Fighter](https://open.spotify.com/album/0locPix5B1BTCUuIO5b172) | 3:09 | 2022-06-03 |  |
 | [Karma](https://open.spotify.com/track/3VIwNFzZScES4Mp1DLLE3X) | [Katie O'Malley](https://open.spotify.com/artist/6okmBH0CynrW1oDQCaGjSQ) | [Karma](https://open.spotify.com/album/52kgNqpBJ9HaXsB1EeZ8G7) | 4:14 | 2023-03-31 | 2023-08-05 |
-| [Karma](https://open.spotify.com/track/6ALXjAfjb7cZkNYvmbf419) | [The Main Squeeze](https://open.spotify.com/artist/5I6ni4YWY0WJUs6rFqufxT) | [Karma](https://open.spotify.com/album/6x0l7ialjgA1jwJ1OvEDan) | 4:00 | 2020-10-16 |  |
+| [Karma](https://open.spotify.com/track/6ALXjAfjb7cZkNYvmbf419) | [The Main Squeeze](https://open.spotify.com/artist/5I6ni4YWY0WJUs6rFqufxT) | [Karma](https://open.spotify.com/album/6x0l7ialjgA1jwJ1OvEDan) | 4:00 | 2020-10-16 | 2025-05-31 |
 | [Karma](https://open.spotify.com/track/6wFtwvkZ0j0ldpQkc1RvRn) | [The Main Squeeze](https://open.spotify.com/artist/5I6ni4YWY0WJUs6rFqufxT) | [Karma](https://open.spotify.com/album/07FCM8eqY33fC2pXikSD3Y) | 4:00 | 2020-10-16 | 2024-04-19 |
 | [Keep On Running](https://open.spotify.com/track/0sh3WNOdK56aUd7uUR8qTk) | [Cardinal Black](https://open.spotify.com/artist/39oKFGoKzTEZlc8PMP7kQ3) | [Keep On Running](https://open.spotify.com/album/59kaQqnsanvIhkcIAehVLz) | 3:02 | 2025-03-14 |  |
 | [Keep Up](https://open.spotify.com/track/3k1GpN1mzkzpXsJun3T5br) | [Ryan Kinder](https://open.spotify.com/artist/0GAapPTQR8KFJxrNZOKksy), [Robert Randolph](https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx) | [Keep Up](https://open.spotify.com/album/15lRMZm1okutfln1ZBX2GG) | 3:32 | 2021-04-09 | 2024-04-19 |
@@ -232,6 +233,7 @@
 | [Nothing But The Blues](https://open.spotify.com/track/148hZ6RBHxZbJGRGtlWSGQ) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Nothing But The Blues](https://open.spotify.com/album/15ZVxuwdilZbGUIHpGXfxL) | 3:21 | 2022-08-26 | 2023-08-04 |
 | [Nothing But The Blues](https://open.spotify.com/track/6e9xUtsYzhChw0x7hfmxPd) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Voices](https://open.spotify.com/album/5h9lVJST3IV5he4zCQJCBt) | 3:21 | 2022-09-02 | 2023-09-16 |
 | [Nothing Left To Lose](https://open.spotify.com/track/20jcu0GEUol1uArAwIZDvX) | [LoveSick Radio](https://open.spotify.com/artist/7zca83vBdFEDg0119J8thJ) | [Nothing Left To Lose](https://open.spotify.com/album/3iCNJpwYv9jKHkL3VOpn2x) | 3:24 | 2021-04-09 |  |
+| [Nowheresville](https://open.spotify.com/track/5ge6Um0eo4aQ9CmgYRCS3B) | [RMB](https://open.spotify.com/artist/6VkGjMJuoZnn4Yz1xXBouh) | [Nowheresville](https://open.spotify.com/album/3bu3QdzH2FgrNTFrmjy3UE) | 4:30 | 2025-05-30 |  |
 | [Off The Ground](https://open.spotify.com/track/3xRzUblYGZhVs52fMjii7R) | [The Record Company](https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX) | [Give It Back To You](https://open.spotify.com/album/2Rqva9thIdrhXv0VKSvgt3) | 4:13 | 2020-10-16 |  |
 | [Off the Shelf](https://open.spotify.com/track/7KGqf7g0G2tY67oczknrUN) | [little hurricane](https://open.spotify.com/artist/5VLQQzAkJrzG7QggE4DVg2) | [Love Luck](https://open.spotify.com/album/2Rohycq7EGBbuJbYp3Z0G5) | 3:28 | 2020-10-16 | 2025-02-08 |
 | [Oh Well \(feat\. Chris Stapleton\)](https://open.spotify.com/track/6iX3H2Gxm2F0YFLm5UuG1U) | [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Oh Well](https://open.spotify.com/album/3DDmCdqJLOiK1ak8Ks8axQ) | 4:33 | 2024-04-12 | 2024-05-25 |
@@ -283,7 +285,7 @@
 | [Silver Paper](https://open.spotify.com/track/06eRzfVeA1wW3P7ZuJGSuh) | [Leslie West](https://open.spotify.com/artist/0ks4E3VJXDIRABtxz2IiBE), [Charlie Starr](https://open.spotify.com/artist/2Oeaf5Pn9WzmxUIIsjs939) | [Silver Paper](https://open.spotify.com/album/6Y6nPjdXZd0p7qAMiM3A9z) | 3:26 | 2022-03-04 |  |
 | [Silver Paper](https://open.spotify.com/track/66trObVQ3KylhIFgHEv27g) | [Leslie West](https://open.spotify.com/artist/0ks4E3VJXDIRABtxz2IiBE), [Charlie Starr](https://open.spotify.com/artist/2Oeaf5Pn9WzmxUIIsjs939) | [Legacy: A Tribute to Leslie West](https://open.spotify.com/album/2fHUmGoULVaRNzb0cPPzzL) | 3:26 | 2022-03-11 | 2024-04-19 |
 | [Skin 'n Bone](https://open.spotify.com/track/6natqkD9pmwdr8Xr1VFliA) | [Jared James Nichols](https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g) | [Skin 'n Bone](https://open.spotify.com/album/2ZWSn4DgPq9jFuIj1wywPF) | 3:23 | 2021-06-11 | 2022-07-02 |
-| [Snake In The Tall Grass](https://open.spotify.com/track/3Fbjies9Gw62vZCrRpQCSj) | [Leilani Kilgore](https://open.spotify.com/artist/2Muoy1Aup07JwrgVDf5XJe) | [Snake In The Tall Grass](https://open.spotify.com/album/0jBB09fd0COyMvmq3vvGr4) | 4:22 | 2025-03-14 |  |
+| [Snake In The Tall Grass](https://open.spotify.com/track/3Fbjies9Gw62vZCrRpQCSj) | [Leilani Kilgore](https://open.spotify.com/artist/2Muoy1Aup07JwrgVDf5XJe) | [Snake In The Tall Grass](https://open.spotify.com/album/0jBB09fd0COyMvmq3vvGr4) | 4:22 | 2025-03-14 | 2025-05-31 |
 | [So Long](https://open.spotify.com/track/0wjNy6Y2S0tZkykclifcRE) | [Laura Cox](https://open.spotify.com/artist/1Olw3LDdz2RWOLV491bG75) | [Head Above Water](https://open.spotify.com/album/43wOARGtAmtXQV41znk4Lj) | 3:01 | 2022-12-09 | 2023-05-13 |
 | [So Long](https://open.spotify.com/track/34np7qi7qKvOsvqptdBUnq) | [Laura Cox](https://open.spotify.com/artist/1Olw3LDdz2RWOLV491bG75) | [So Long](https://open.spotify.com/album/74ERRFXX47XBkVarTGWixm) | 3:01 | 2022-12-09 | 2023-01-24 |
 | [Solar Fire](https://open.spotify.com/track/65gFWCRdKZD19F32AHhtmK) | [Smith/Kotzen](https://open.spotify.com/artist/5DE14yhJCkOYGtBVFnrtK5), [Adrian Smith](https://open.spotify.com/artist/6PdIfS6g7piReOMxEsdiiK), [Richie Kotzen](https://open.spotify.com/artist/6nYo7m5cO64bANRvilwVBb) | [Smith/Kotzen](https://open.spotify.com/album/4fuwMAMhY0LC4Qu1KXdgK5) | 4:29 | 2021-03-26 | 2024-07-13 |

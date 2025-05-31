@@ -1,12 +1,12 @@
 {
   "description": "This is Bastille. The essential tracks, all in one playlist.",
-  "num_followers": 217636,
+  "num_followers": 217642,
   "original_name": "This Is Bastille",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDZSAAAAAABCPIwyvlIibt7UoIQ/YMqR",
+  "snapshot_id": "aDejgAAAAAAjaYI4i0TwJM9DdVlQUrhi",
   "tracks": [
     {
       "added_at": null,
@@ -791,26 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spiralling (Feat. Bastille)",
-        "url": "https://open.spotify.com/album/4SLemDV2VHFDedyrro0UnH"
-      },
-      "artists": [
-        {
-          "name": "To Kill A King",
-          "url": "https://open.spotify.com/artist/7yHBGaYHPXkJSVUtHiM816"
-        },
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 226401,
-      "name": "Spiralling (Feat. Bastille)",
-      "url": "https://open.spotify.com/track/7gCjzW0xJKKfcC0T4IMCxY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Distorted Light Beam",
         "url": "https://open.spotify.com/album/5FnEu6Hpo6dZ8qIp3BX5Bz"
       },
@@ -823,22 +803,6 @@
       "duration_ms": 177221,
       "name": "Distorted Light Beam",
       "url": "https://open.spotify.com/track/7bREivF1RTm0vOYB2wi7nE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wild World (Complete Edition)",
-        "url": "https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 229627,
-      "name": "Warmth",
-      "url": "https://open.spotify.com/track/4hVJIlulH29qKVYGCT6cky"
     },
     {
       "added_at": null,
@@ -867,6 +831,42 @@
       "duration_ms": 309629,
       "name": "Planet Earth III Suite - From \"Planet Earth III\"",
       "url": "https://open.spotify.com/track/3ZjR1n11TRs4sk55D1CxXo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wild World (Complete Edition)",
+        "url": "https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 229627,
+      "name": "Warmth",
+      "url": "https://open.spotify.com/track/4hVJIlulH29qKVYGCT6cky"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spiralling (Feat. Bastille)",
+        "url": "https://open.spotify.com/album/4SLemDV2VHFDedyrro0UnH"
+      },
+      "artists": [
+        {
+          "name": "To Kill A King",
+          "url": "https://open.spotify.com/artist/7yHBGaYHPXkJSVUtHiM816"
+        },
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 226401,
+      "name": "Spiralling (Feat. Bastille)",
+      "url": "https://open.spotify.com/track/7gCjzW0xJKKfcC0T4IMCxY"
     },
     {
       "added_at": null,

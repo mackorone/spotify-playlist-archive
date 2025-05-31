@@ -3962,6 +3962,28 @@
     {
       "album": {
         "name": "Honey",
+        "url": "https://open.spotify.com/album/2KpcZDIIAbqiAGf0a7Wzpt"
+      },
+      "artists": [
+        {
+          "name": "Boy Deco",
+          "url": "https://open.spotify.com/artist/2ToFHcW8xlcnx73z5Jzzu7"
+        },
+        {
+          "name": "Quantum Keys",
+          "url": "https://open.spotify.com/artist/5lw9kgX2il5YmYfqoSh3ve"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/752BS2kpBhOU6PGxRYXT0C"
+    },
+    {
+      "album": {
+        "name": "Honey",
         "url": "https://open.spotify.com/album/0WAUyoTN7ZeEKVRacDFE1X"
       },
       "artists": [

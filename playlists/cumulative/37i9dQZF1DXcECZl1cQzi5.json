@@ -365,6 +365,24 @@
     },
     {
       "album": {
+        "name": "Blue Dreams",
+        "url": "https://open.spotify.com/album/6b6Lkkp7RpGB6fevcuc62j"
+      },
+      "artists": [
+        {
+          "name": "Peaceful Island",
+          "url": "https://open.spotify.com/artist/0s2PIIFX28PHshwhsbFjJh"
+        }
+      ],
+      "date_added": "2025-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Blue Dreams",
+      "url": "https://open.spotify.com/track/0neR03vzECIMYkD4nPDXum"
+    },
+    {
+      "album": {
         "name": "Blue Horizon",
         "url": "https://open.spotify.com/album/7KegJt2prSkUbrssnCdJfz"
       },
@@ -2040,7 +2058,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 173499,
       "name": "Ondas",
       "url": "https://open.spotify.com/track/3i0W1TEUsp7Q2pBYO7exbV"

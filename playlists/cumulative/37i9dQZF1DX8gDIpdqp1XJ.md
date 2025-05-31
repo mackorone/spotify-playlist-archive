@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock, neo\-psychedelic, and psychedelic indie.
 
-991 songs - 2 day 16 hr 39 min
+992 songs - 2 day 16 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Broken](https://open.spotify.com/track/0obfu9ZrPGt59RnD8Wiai2) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Freakout/Release](https://open.spotify.com/album/1GWWErA3u49ANQoGygvziN) | 3:24 | 2022-08-19 | 2022-10-26 |
 | [Broken Boy \(feat\. Iggy Pop\)](https://open.spotify.com/track/1j717HdHFPFwbBEAk2kwJQ) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Broken Boy \(feat\. Iggy Pop\)](https://open.spotify.com/album/4jCLZy0GRmWrOCiIpj3Gbt) | 2:43 | 2021-04-02 | 2022-04-17 |
 | [Bubblegum Dog](https://open.spotify.com/track/5MHNVfob6U5PBe8y15A4MG) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Bubblegum Dog](https://open.spotify.com/album/6CWVALzNFLjaPvr8HW5S9Z) | 4:21 | 2024-01-02 |  |
+| [Buildings](https://open.spotify.com/track/76OFo5N9D8SHaHzGnISea5) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Possession](https://open.spotify.com/album/3ZxMlJq7ztw1jd5mDEaNkl) | 4:11 | 2025-05-30 |  |
 | [Buttons](https://open.spotify.com/track/4CzLJ2wsrk1QdhXXuT16gx) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 3:04 | 2023-06-23 |  |
 | [Bye Bye](https://open.spotify.com/track/4U3KyPSnGam6zjAgG1JDUM) | [Brainstory](https://open.spotify.com/artist/0EqBE2VOwsHgSOrjsQCs5j) | [Ripe](https://open.spotify.com/album/6lzMFHsL3YcFKKasZacA9u) | 2:25 | 2022-04-20 | 2023-03-07 |
 | [Bye Bye Land](https://open.spotify.com/track/6qbs3gNsGUg34bw86mP2yD) | [Hooded Fang](https://open.spotify.com/artist/4Qz9OgdlxVjgUPFHT2oGzR) | [Gravez](https://open.spotify.com/album/1qM0hEgx191TPgBM7aZuog) | 3:19 | 2021-04-02 | 2022-04-18 |

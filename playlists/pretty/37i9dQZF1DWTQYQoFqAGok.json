@@ -1,6 +1,6 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico \ud83c\udfb7\ud83c\udfb9\ud83c\udfb6\ud83c\uddf2\ud83c\uddfd",
-  "num_followers": 63212,
+  "num_followers": 63218,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -603,6 +603,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "Mezcal",
+        "url": "https://open.spotify.com/album/0siHdOQxgRjJBawzzQqksX"
+      },
+      "artists": [
+        {
+          "name": "Adri\u00e1n Oropeza Tr\u00edo",
+          "url": "https://open.spotify.com/artist/3kSQteccOICAnocbnba3yl"
+        }
+      ],
+      "duration_ms": 393786,
+      "name": "La Cigarra",
+      "url": "https://open.spotify.com/track/5VoLcv7J5mAwcRANKImy4R"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "Cuenta Conmigo (feat. Oscar Stagnaro)",
         "url": "https://open.spotify.com/album/7zMYmzZ13y8t7aNnBsf9nz"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 316023,
       "name": "Let It Play",
       "url": "https://open.spotify.com/track/1Czyel4ty0L3Jhsw6jQTKl"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Mezcal",
-        "url": "https://open.spotify.com/album/0siHdOQxgRjJBawzzQqksX"
-      },
-      "artists": [
-        {
-          "name": "Adri\u00e1n Oropeza Tr\u00edo",
-          "url": "https://open.spotify.com/artist/3kSQteccOICAnocbnba3yl"
-        }
-      ],
-      "duration_ms": 393786,
-      "name": "La Cigarra",
-      "url": "https://open.spotify.com/track/5VoLcv7J5mAwcRANKImy4R"
     },
     {
       "added_at": "2024-08-29 03:09:23",
@@ -721,58 +721,6 @@
       "url": "https://open.spotify.com/track/1f6XivE4RhqNR3EBLz1QU4"
     },
     {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Orquesta Moderna",
-        "url": "https://open.spotify.com/album/60KHICOjM4zeffZYe3hk3i"
-      },
-      "artists": [
-        {
-          "name": "Rosino Serrano",
-          "url": "https://open.spotify.com/artist/1sTsepStQrm8ZVVL3z6VFJ"
-        },
-        {
-          "name": "Orquesta Moderna",
-          "url": "https://open.spotify.com/artist/7hsk7R2qwQOJAdmpUH63ob"
-        },
-        {
-          "name": "Gianluca Littera",
-          "url": "https://open.spotify.com/artist/3FQJWyPvR00JAfEL8TAsFo"
-        },
-        {
-          "name": "Alex Mercado",
-          "url": "https://open.spotify.com/artist/7oVhQ1IHY6U2VfSqJl5cu1"
-        }
-      ],
-      "duration_ms": 285508,
-      "name": "Guapanguito",
-      "url": "https://open.spotify.com/track/276aMT3jt0qKDT216Thn3c"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Sacbe: Sacbe (Complete)",
-        "url": "https://open.spotify.com/album/3LhbAvlKoxmYCbagKUajAP"
-      },
-      "artists": [
-        {
-          "name": "Arturo Cipriano",
-          "url": "https://open.spotify.com/artist/5MagvaL80lMCb6ZTiNHW0u"
-        },
-        {
-          "name": "Gerardo Batiz",
-          "url": "https://open.spotify.com/artist/6xBEVM1pgWPp5v93sBVcm3"
-        },
-        {
-          "name": "Sacbe",
-          "url": "https://open.spotify.com/artist/2UA1zpDaD5s3Uy5R7JzzOh"
-        }
-      ],
-      "duration_ms": 404666,
-      "name": "Las Pulgas Freeway",
-      "url": "https://open.spotify.com/track/5AFlumcmhChuLqzrkPzj0M"
-    },
-    {
       "added_at": "2023-04-13 19:45:15",
       "album": {
         "name": "Calladito Te Ves Mejor",
@@ -807,6 +755,58 @@
       "duration_ms": 266866,
       "name": "La Cocola",
       "url": "https://open.spotify.com/track/2XxyE2LiLidlNXuoYpczZA"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Sacbe: Sacbe (Complete)",
+        "url": "https://open.spotify.com/album/3LhbAvlKoxmYCbagKUajAP"
+      },
+      "artists": [
+        {
+          "name": "Arturo Cipriano",
+          "url": "https://open.spotify.com/artist/5MagvaL80lMCb6ZTiNHW0u"
+        },
+        {
+          "name": "Gerardo Batiz",
+          "url": "https://open.spotify.com/artist/6xBEVM1pgWPp5v93sBVcm3"
+        },
+        {
+          "name": "Sacbe",
+          "url": "https://open.spotify.com/artist/2UA1zpDaD5s3Uy5R7JzzOh"
+        }
+      ],
+      "duration_ms": 404666,
+      "name": "Las Pulgas Freeway",
+      "url": "https://open.spotify.com/track/5AFlumcmhChuLqzrkPzj0M"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Orquesta Moderna",
+        "url": "https://open.spotify.com/album/60KHICOjM4zeffZYe3hk3i"
+      },
+      "artists": [
+        {
+          "name": "Rosino Serrano",
+          "url": "https://open.spotify.com/artist/1sTsepStQrm8ZVVL3z6VFJ"
+        },
+        {
+          "name": "Orquesta Moderna",
+          "url": "https://open.spotify.com/artist/7hsk7R2qwQOJAdmpUH63ob"
+        },
+        {
+          "name": "Gianluca Littera",
+          "url": "https://open.spotify.com/artist/3FQJWyPvR00JAfEL8TAsFo"
+        },
+        {
+          "name": "Alex Mercado",
+          "url": "https://open.spotify.com/artist/7oVhQ1IHY6U2VfSqJl5cu1"
+        }
+      ],
+      "duration_ms": 285508,
+      "name": "Guapanguito",
+      "url": "https://open.spotify.com/track/276aMT3jt0qKDT216Thn3c"
     },
     {
       "added_at": "2021-07-28 16:44:28",

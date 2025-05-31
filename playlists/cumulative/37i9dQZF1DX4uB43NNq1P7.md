@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4uB43NNq1P7.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4uB43NNq1P7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4uB43NNq1P7)
 
-### [Rainy Day Piano](https://open.spotify.com/playlist/37i9dQZF1DX4uB43NNq1P7)
+### [rainy day piano](https://open.spotify.com/playlist/37i9dQZF1DX4uB43NNq1P7)
 
 > The sounds of rain outside, while you're cozy inside with some relaxing piano music in the background.
 
-132 songs - 5 hr 57 min
+133 songs - 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Faces of Life](https://open.spotify.com/track/3OaoIj3nXqvoc43J9HPaQT) | [Sean Drake](https://open.spotify.com/artist/6JQ6Ivh7N5lXkLz2DqKS4E) | [Faces of Life](https://open.spotify.com/album/0AQkzszLcwT3psDzAQ6CEz) | 3:04 | 2023-08-02 |  |
 | [Fairy Dust in the Rain](https://open.spotify.com/track/1MU9fy4hMLoaLUc2bv8gtM) | [Sylvia McArther](https://open.spotify.com/artist/33hLKr1EfUrc14GnznVB21) | [Forest Crystals](https://open.spotify.com/album/5zFlNgmr3bSv5cxCAUE43h) | 2:56 | 2023-08-02 | 2024-01-10 |
 | [Filtered Light \(Rain\)](https://open.spotify.com/track/1LojjBNeJIcAvAiBcmVlV3) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Filtered Light \(Rain\)](https://open.spotify.com/album/49nE3LTRvdivTulr4oenOs) | 3:02 | 2023-03-13 |  |
+| [For a Moment](https://open.spotify.com/track/3LpE4XPSmS6PoyVbnPb1xh) | [Matthew L\. Fisher](https://open.spotify.com/artist/2ih4rjK8ZgiEpVu3BJ6sUb) | [For a Moment](https://open.spotify.com/album/6w8sZ0dY0c8lnkDpIKRCzq) | 2:25 | 2025-05-30 |  |
 | [For Georgia](https://open.spotify.com/track/2wa7MUTd3VRGAnMoII9Tap) | [Drifreda](https://open.spotify.com/artist/6KvPFVsqQeAyZxp9MUUGTW) | [For Georgia](https://open.spotify.com/album/1rY7O5ayBPF7O1b3WfjeYi) | 2:30 | 2025-04-23 |  |
 | [Forest Crystals](https://open.spotify.com/track/4mxhnZ0n3B4nw4ei4BiAIM) | [Sylvia McArther](https://open.spotify.com/artist/33hLKr1EfUrc14GnznVB21) | [Forest Crystals](https://open.spotify.com/album/5zFlNgmr3bSv5cxCAUE43h) | 2:53 | 2023-08-02 |  |
 | [Forever](https://open.spotify.com/track/4SgbKHpKU7lTvYxO6sWIrx) | [Massimo Corciani](https://open.spotify.com/artist/0YeuG8IbzLJfqplMuNTxGI) | [Forever](https://open.spotify.com/album/3C8QFAmtEJsjJOA3CaVClA) | 2:22 | 2023-07-06 |  |

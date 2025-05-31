@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,270 songs - 18 day 21 hr 25 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,277 songs - 18 day 21 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -7278,5 +7278,12 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 7268 | [Be Yourself Or Die Dreaming](https://open.spotify.com/track/38Ag3lftAiZfCxe5W7Psnp) | [Nouvelle Story](https://open.spotify.com/artist/2eq1D9x8jRZQa3vAVn5wHi) | [Be Yourself Or Die Dreaming](https://open.spotify.com/album/6Nb0x0r4HJF47eKVksLx1f) | 3:52 |
 | 7269 | [テレフォン・ナンバー](https://open.spotify.com/track/49vIvmsneQwxyFTdmCQzmV) | [Junko Ohashi](https://open.spotify.com/artist/7rGbODPTIVjzn3CTR6RCzE) | [MAGICAL 大橋純子の世界 III](https://open.spotify.com/album/7Ifqra0zOrAwf5NWe5UvNu) | 3:59 |
 | 7270 | [F L Y](https://open.spotify.com/track/7BInSwH3Ha2YMEEezQLz95) | [Spectrum](https://open.spotify.com/artist/4iKc9dfbcUzxOL6S31zjXF) | [Optical Sunrise/Spectrum2](https://open.spotify.com/album/1TQ3TvPc16aJ9n2HM5fY6w) | 3:30 |
+| 7271 | [Weak](https://open.spotify.com/track/2sVcBaVtBPM9vIFk1Jnbw8) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [The Click](https://open.spotify.com/album/1nOOYWt0s8RGKgKDTMA77h) | 3:21 |
+| 7272 | [her](https://open.spotify.com/track/6G9YlbU3ByPJQvOFDRdwyM) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [her](https://open.spotify.com/album/6cUhnbhBBTFNb6z2w7llGx) | 2:51 |
+| 7273 | [Feel It](https://open.spotify.com/track/0auX6W6oLjO9cHmx4UTaNj) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WITHERED](https://open.spotify.com/album/00xSzSrckgOgVAqZUIcrxf) | 2:37 |
+| 7274 | [Sleep Well](https://open.spotify.com/track/5ye1TParxcolbnNsOXO8qE) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:55 |
+| 7275 | [Astronaut In The Ocean](https://open.spotify.com/track/6E90gq0KO6FYZVOXx8kCcC) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Astronomical](https://open.spotify.com/album/6qNMYsx5OUFDXWAoct9Pge) | 2:12 |
+| 7276 | [30 For 30 \(with Kendrick Lamar\)](https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 4:38 |
+| 7277 | [From God's Perspective](https://open.spotify.com/track/496hK2hCnPhgT6JuC3ubNZ) | [Bo Burnham](https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo) | [What.](https://open.spotify.com/album/4zL56l798hLfl3VP2eGIHY) | 4:21 |
 
-Snapshot ID: `AAAG8ufpY1+T072UXVnVaILw+ZCALjph`
+Snapshot ID: `AAAG+YEH9jjtlIFOB1ItlSlSUXg7aBBy`

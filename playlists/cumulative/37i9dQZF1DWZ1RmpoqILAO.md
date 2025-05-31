@@ -2,7 +2,7 @@
 
 ### [Indie Twang](https://open.spotify.com/playlist/37i9dQZF1DWZ1RmpoqILAO)
 
-> indie tunes w/ country experimentation feat\. music from Greg Freeman 🌟🌟🌟
+> clocking in for elderberry wine summer 🍇
 
 296 songs - 18 hr 58 min
 

@@ -2,23 +2,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 ### [KrOWN](https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB)
 
-> The fresh & hottest K\-Hip hop tracks\. \(Cover:<br/>박재범 \(Jay Park\)\)
+> The fresh & hottest K\-Hip hop tracks\. \(Cover:<br/>Dabin\(홍다빈\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 565,880 likes - 101 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 565,983 likes - 101 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [KrOWN\_Jay Park](https://open.spotify.com/track/4eag7riq6HCiMUNX3B8jL4) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [KrOWN Audio liner](https://open.spotify.com/album/54srm6JygaJuyQDCfiYFbm) | 0:01 |
 | 2 | [See Through](https://open.spotify.com/track/2EVEdzxtyiDD7vB8h4tXzx) | [Dabin](https://open.spotify.com/artist/5xyPRB5a4OkeJrj4vLXKvi) | [senseS](https://open.spotify.com/album/0lngMKgjFwq61YlgI8aQz0) | 2:20 |
-| 3 | [Keep It Sexy \(MOMMAE 2\) \(Feat\. JEON SOMI\)](https://open.spotify.com/track/349vRUzitG48j0mYch7Ega) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [Keep It Sexy \(MOMMAE 2\)](https://open.spotify.com/album/74Xun3jkHLajFFz2ymcsRs) | 2:32 |
-| 4 | [ZOOTED \(Feat\. HAON\)](https://open.spotify.com/track/2PFKiEI0nstr1Jm05Ynjez) | [Wuuslime](https://open.spotify.com/artist/2HW5pB8BOn42simtS907Sm), [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9) | [WUUSLIME](https://open.spotify.com/album/5F5uZoZ8wKFBiKFcWepkNd) | 2:33 |
-| 5 | [Stop The Rain \(TABLO X RM\)](https://open.spotify.com/track/7kb6IV0z8Nd7vejSdAq0YN) | [TABLO](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Stop The Rain \(TABLO X RM\)](https://open.spotify.com/album/0PXh6bcvZpbJfEzjCEgSvI) | 3:10 |
-| 6 | [Show Must Go On](https://open.spotify.com/track/0pBbICsYvshPFa69K8TpsC) | [Bryan Chase](https://open.spotify.com/artist/0qOcjTObT75YJLbDBfSgXw), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [Show Must Go On](https://open.spotify.com/album/7ltbcQigXrafN9CNgi3AdC) | 2:46 |
-| 7 | [.KR](https://open.spotify.com/track/40cPWUDvjyTSgcwTLAji09) | [Dabin](https://open.spotify.com/artist/5xyPRB5a4OkeJrj4vLXKvi) | [.KR](https://open.spotify.com/album/3j6kVLZP66qsQ5DOH3FGpG) | 4:35 |
-| 8 | [Losing Senses](https://open.spotify.com/track/6g9ZD2BPovxhjPB98v8DZu) | [Nosun](https://open.spotify.com/artist/0BHYZCuuyLl53LVgeC3pUa) | [Exit Wounds](https://open.spotify.com/album/5U2gLisF6YBhdDhK9uJ1Re) | 2:09 |
-| 9 | [random summer night \(feat\. Jordan Ward\)](https://open.spotify.com/track/1NherpHznnJP7b9gTgSuaM) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [random summer night \(feat\. Jordan Ward\)](https://open.spotify.com/album/3nq9zLPsaY9KlOyCbqImuX) | 2:48 |
-| 10 | [KK](https://open.spotify.com/track/1jVbNXrlLVZZujWHKmRUNG) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [KK](https://open.spotify.com/album/5J6YNvgqim7ak40ndVo78v) | 2:08 |
-| 11 | [INDEPENDENCE DAY \(Feat\. Sik\-K\)](https://open.spotify.com/track/1QQymqrhheYVUYSrDyF8lt) | [Wuuslime](https://open.spotify.com/artist/2HW5pB8BOn42simtS907Sm), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [WUUSLIME](https://open.spotify.com/album/5F5uZoZ8wKFBiKFcWepkNd) | 3:00 |
+| 3 | [ZOOTED \(Feat\. HAON\)](https://open.spotify.com/track/2PFKiEI0nstr1Jm05Ynjez) | [Wuuslime](https://open.spotify.com/artist/2HW5pB8BOn42simtS907Sm), [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9) | [WUUSLIME](https://open.spotify.com/album/5F5uZoZ8wKFBiKFcWepkNd) | 2:33 |
+| 4 | [Stop The Rain \(TABLO X RM\)](https://open.spotify.com/track/7kb6IV0z8Nd7vejSdAq0YN) | [TABLO](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Stop The Rain \(TABLO X RM\)](https://open.spotify.com/album/0PXh6bcvZpbJfEzjCEgSvI) | 3:10 |
+| 5 | [Show Must Go On](https://open.spotify.com/track/0pBbICsYvshPFa69K8TpsC) | [Bryan Chase](https://open.spotify.com/artist/0qOcjTObT75YJLbDBfSgXw), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [Show Must Go On](https://open.spotify.com/album/7ltbcQigXrafN9CNgi3AdC) | 2:46 |
+| 6 | [.KR](https://open.spotify.com/track/40cPWUDvjyTSgcwTLAji09) | [Dabin](https://open.spotify.com/artist/5xyPRB5a4OkeJrj4vLXKvi) | [.KR](https://open.spotify.com/album/3j6kVLZP66qsQ5DOH3FGpG) | 4:35 |
+| 7 | [Losing Senses](https://open.spotify.com/track/6g9ZD2BPovxhjPB98v8DZu) | [Nosun](https://open.spotify.com/artist/0BHYZCuuyLl53LVgeC3pUa) | [Exit Wounds](https://open.spotify.com/album/5U2gLisF6YBhdDhK9uJ1Re) | 2:09 |
+| 8 | [random summer night \(feat\. Jordan Ward\)](https://open.spotify.com/track/1NherpHznnJP7b9gTgSuaM) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [random summer night \(feat\. Jordan Ward\)](https://open.spotify.com/album/3nq9zLPsaY9KlOyCbqImuX) | 2:48 |
+| 9 | [KK](https://open.spotify.com/track/1jVbNXrlLVZZujWHKmRUNG) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [KK](https://open.spotify.com/album/5J6YNvgqim7ak40ndVo78v) | 2:08 |
+| 10 | [INDEPENDENCE DAY \(Feat\. Sik\-K\)](https://open.spotify.com/track/1QQymqrhheYVUYSrDyF8lt) | [Wuuslime](https://open.spotify.com/artist/2HW5pB8BOn42simtS907Sm), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [WUUSLIME](https://open.spotify.com/album/5F5uZoZ8wKFBiKFcWepkNd) | 3:00 |
+| 11 | [Keep It Sexy \(MOMMAE 2\) \(Feat\. JEON SOMI\)](https://open.spotify.com/track/349vRUzitG48j0mYch7Ega) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [Keep It Sexy \(MOMMAE 2\)](https://open.spotify.com/album/74Xun3jkHLajFFz2ymcsRs) | 2:32 |
 | 12 | [HOLDUP](https://open.spotify.com/track/0LTHPJ73f8hDGJXiAeGOIQ) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Op.1](https://open.spotify.com/album/2QVMdof1Ou4jlfZ6dXsthA) | 2:28 |
 | 13 | [Shut Up \(Feat\. ZICO\)](https://open.spotify.com/track/3hOXFLGpLZpWrI8kJdcwmb) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [UPSET](https://open.spotify.com/album/1mUapSqiPxRoH3d2bF0Y0L) | 2:21 |
 | 14 | [LOV3 \(Feat\. Bryan Chase, Okasian\)](https://open.spotify.com/track/1QC4Ztt2GlFWpdSMLwt5ol) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Lil Moshpit](https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy), [Bryan Chase](https://open.spotify.com/artist/0qOcjTObT75YJLbDBfSgXw), [Okasian](https://open.spotify.com/artist/5XdnR0kqQUWzeTDdsJNulO) | [K\-FLIP+](https://open.spotify.com/album/4EPIlAjXbTNQTracKmYnI6) | 3:56 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 | 100 | [Life Is A Movie \(Feat\. Jung Zi So\)](https://open.spotify.com/track/7BOY8ltVPRVYnUNARDfobY) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Jung Zi So](https://open.spotify.com/artist/3kCYP8G1kFTV2YCIo4Yjti) | [HANDS](https://open.spotify.com/album/7b9QwpzU17mMaI2xQPsTDU) | 3:10 |
 | 101 | [KrOWN\_Loco](https://open.spotify.com/track/1o73PCNhaz5VhjNxnrBzef) | [AOMG](https://open.spotify.com/artist/2bWTeElstVp9PUGLyIU8Uk) | [KrOWN audio liner](https://open.spotify.com/album/4PeZZanfBretefNw6BAbvn) | 0:01 |
 
-Snapshot ID: `aDgDFwAAAADlqoFo4hqf8ays2VqQDvii`
+Snapshot ID: `aDkf7AAAAADPLW6t6wVyO7HBzMhskcfw`

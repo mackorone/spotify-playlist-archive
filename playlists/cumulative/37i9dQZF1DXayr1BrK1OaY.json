@@ -268,7 +268,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 241998,
       "name": "After",
       "url": "https://open.spotify.com/track/4Durwjt1E9NXXrpC29GPj6"
@@ -408,7 +408,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 153043,
       "name": "all i ever wanted",
       "url": "https://open.spotify.com/track/7vPV3Eo1hjIxkPthWwVpHT"
@@ -444,7 +444,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 143695,
       "name": "Alone",
       "url": "https://open.spotify.com/track/0jm7Tf1K33MNKCuPltkgYX"
@@ -1264,7 +1264,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-24",
+      "date_removed": null,
       "duration_ms": 198451,
       "name": "Broken",
       "url": "https://open.spotify.com/track/68Pr1RFCmybF7eK7m99a1n"
@@ -2246,7 +2246,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 156097,
       "name": "Don't Cry",
       "url": "https://open.spotify.com/track/5R4PIEDx3L2Gdif8QKAHa2"
@@ -2322,7 +2322,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 150220,
       "name": "Don't Wanna Dance",
       "url": "https://open.spotify.com/track/54qNqs0YSeVbzNBAipZCSf"
@@ -2548,7 +2548,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 217994,
       "name": "Fade Away",
       "url": "https://open.spotify.com/track/2nFtzZRtmKZ6rouEuWmrri"
@@ -2770,7 +2770,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-12",
+      "date_removed": null,
       "duration_ms": 217036,
       "name": "Felt A Little Like",
       "url": "https://open.spotify.com/track/59UH0rSIE50SCvvj2FNGKv"
@@ -2956,7 +2956,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-10",
+      "date_removed": null,
       "duration_ms": 128307,
       "name": "froze",
       "url": "https://open.spotify.com/track/7tbkC2GGXFgpf3yM7wmVMr"
@@ -3441,6 +3441,24 @@
     },
     {
       "album": {
+        "name": "Heartaches",
+        "url": "https://open.spotify.com/album/3hGLUa9ihrzYqqm6N5KwPz"
+      },
+      "artists": [
+        {
+          "name": "Lumia",
+          "url": "https://open.spotify.com/artist/7nxfxSbNTXNc0v5TG4ObSh"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210461,
+      "name": "Heartaches",
+      "url": "https://open.spotify.com/track/5NTdCCpZPXkP1d3JMfQq8K"
+    },
+    {
+      "album": {
         "name": "Heartbeat",
         "url": "https://open.spotify.com/album/2G7zzLh2lfpvvGlGdomPx7"
       },
@@ -3818,7 +3836,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 208315,
       "name": "Homesick",
       "url": "https://open.spotify.com/track/6xGqHddDBOXwD7U9oL2oAA"
@@ -3902,7 +3920,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 149154,
       "name": "how do i let go",
       "url": "https://open.spotify.com/track/3wo2G0KNvd0E9PVO1JTeI8"
@@ -4000,7 +4018,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-24",
+      "date_removed": null,
       "duration_ms": 188983,
       "name": "I DON'T WANT TO FALL IN LOVE",
       "url": "https://open.spotify.com/track/2nfCQnzvjapzfLlv5Efdku"
@@ -4212,6 +4230,28 @@
       "duration_ms": 273485,
       "name": "I Won't Forget",
       "url": "https://open.spotify.com/track/0GNDtlr5gUvO8SfjIkj3bP"
+    },
+    {
+      "album": {
+        "name": "I Won't Sleep",
+        "url": "https://open.spotify.com/album/2Cv3X0S014FgbbBahaEQLh"
+      },
+      "artists": [
+        {
+          "name": "XANDRA",
+          "url": "https://open.spotify.com/artist/0R7QDPXqFaQ9F0FdTZUeca"
+        },
+        {
+          "name": "Jordan Shaw",
+          "url": "https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135428,
+      "name": "I Won't Sleep",
+      "url": "https://open.spotify.com/track/0mi2jX9EjiMcG0lRqV2gPB"
     },
     {
       "album": {
@@ -4908,7 +4948,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 195692,
       "name": "Let Me Go",
       "url": "https://open.spotify.com/track/59oDANVAarSf2H2ndTSG47"
@@ -5293,6 +5333,24 @@
     },
     {
       "album": {
+        "name": "lost in paris",
+        "url": "https://open.spotify.com/album/5J1zNVEO5PC4CZYvxpOoJq"
+      },
+      "artists": [
+        {
+          "name": "Midnight Dance Party",
+          "url": "https://open.spotify.com/artist/27CcPFsy79qUbXjqWSDkjj"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "lost in paris",
+      "url": "https://open.spotify.com/track/1UZGx4VsQXjvWLCKYJAYFW"
+    },
+    {
+      "album": {
         "name": "In Colour",
         "url": "https://open.spotify.com/album/4gaNWHu5Caj3ItkYZ5i6uh"
       },
@@ -5548,7 +5606,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 133482,
       "name": "Meet Me at the Bottom",
       "url": "https://open.spotify.com/track/11qe0DyXUBbs8uQR16u4dG"
@@ -5618,7 +5676,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 291461,
       "name": "Metropolis (feat. NATURE)",
       "url": "https://open.spotify.com/track/2eisqIatF58br1F2BA6b3N"
@@ -5914,7 +5972,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-19",
+      "date_removed": null,
       "duration_ms": 186263,
       "name": "Never Alone",
       "url": "https://open.spotify.com/track/5LQezGj5lw0iivFOtVchxw"
@@ -6324,7 +6382,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 138187,
       "name": "Nowhere Left to Run",
       "url": "https://open.spotify.com/track/6w18Tgm9Yf7MScG1s8zmFx"
@@ -7162,7 +7220,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-24",
+      "date_removed": null,
       "duration_ms": 227625,
       "name": "Ready (feat. Art School Girlfriend)",
       "url": "https://open.spotify.com/track/2V1lVlC950jaMioIm24jIj"
@@ -8414,7 +8472,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 233666,
       "name": "stuck",
       "url": "https://open.spotify.com/track/3HHtiOrUIt5S7vFeIMP5WS"
@@ -8858,7 +8916,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-10",
+      "date_removed": null,
       "duration_ms": 185909,
       "name": "The Forest",
       "url": "https://open.spotify.com/track/5qUCFZ89gAvJlIj6zB5HUc"
@@ -8924,7 +8982,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-10",
+      "date_removed": null,
       "duration_ms": 221793,
       "name": "The Love We Had",
       "url": "https://open.spotify.com/track/5bpOpaxov9usdnLLNLOtMd"
@@ -9320,7 +9378,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 156444,
       "name": "U&ME",
       "url": "https://open.spotify.com/track/25ZR15mdsTb5fubAu1dbZc"
@@ -9338,7 +9396,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-19",
+      "date_removed": null,
       "duration_ms": 167691,
       "name": "Underwater",
       "url": "https://open.spotify.com/track/05VS9ifTEUpV6RiajKLxxW"
@@ -9538,7 +9596,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-11",
+      "date_removed": null,
       "duration_ms": 238506,
       "name": "Want You",
       "url": "https://open.spotify.com/track/0RmSH4q2Sf3BJsijHanCgj"
@@ -9776,7 +9834,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 190922,
       "name": "When She Was Your Soldier",
       "url": "https://open.spotify.com/track/78eQEMgFcJfd6KFid2N8fb"
@@ -9838,10 +9896,28 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-05",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "Where did you go",
       "url": "https://open.spotify.com/track/0CUR9GVPMJmzz9r887N4UV"
+    },
+    {
+      "album": {
+        "name": "where did you go?",
+        "url": "https://open.spotify.com/album/4a0Eae4CM0QQAFwjOz7ea2"
+      },
+      "artists": [
+        {
+          "name": "Jake Neumar",
+          "url": "https://open.spotify.com/artist/69weKTfYYEBofMntV36KPG"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206222,
+      "name": "where did you go?",
+      "url": "https://open.spotify.com/track/5zXH0K9DAsQ0r5mazmqD0U"
     },
     {
       "album": {

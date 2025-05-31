@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 
 > Inspirational hip\-hop\. Cover: Miles Minnick and Lecrae
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,971 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,994 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,11 +15,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 | 5 | [Glory To The Lord](https://open.spotify.com/track/2vR6N7Zd4SkVQtdvgOJzfl) | [Jered Sanders](https://open.spotify.com/artist/4kjg5xFLFVfWJFus3mwV5e) | [Glory To The Lord](https://open.spotify.com/album/5J1amY47Ds99rNlLUCOCBQ) | 2:32 |
 | 6 | [Spirit Rich](https://open.spotify.com/track/2c299IzzVhir4EsPswCJyz) | [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg), [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Spirit Rich](https://open.spotify.com/album/4jDaCHNKQHoHUO905d9Wvl) | 2:39 |
 | 7 | [Proud Of Me \(feat\. Meek Mill\)](https://open.spotify.com/track/1c3q6ie3uWznQ8hgcQrtYb) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Some Days I’m Good, Some Days I’m Not](https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG) | 3:50 |
-| 8 | [Heaven Sent](https://open.spotify.com/track/3oRjAEpFOlbXltuQklNVhE) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr) | [Heaven Sent](https://open.spotify.com/album/58Nvt6xXv8XCuIqRWNTumw) | 2:05 |
-| 9 | [NEVER GOING BACK](https://open.spotify.com/track/7cBufOFCMzMgOJ0YdZRpWz) | [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4), [Kato On The Track](https://open.spotify.com/artist/2P6teom3YQ7h8DFxR1JlQB), [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc) | [NEVER GOING BACK](https://open.spotify.com/album/2j5Kbe1G5jQUcEMAhmytq9) | 2:32 |
-| 10 | [Right Where I'm Supposed to Be](https://open.spotify.com/track/0EJgN1QHZ7aIWT2ggqZL5C) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [I'm Him 2](https://open.spotify.com/album/4qcdBStuMPfHMYOUzqBjbp) | 2:12 |
-| 11 | [War](https://open.spotify.com/track/0KFBeOOgwCtOgn8yucRy1X) | [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [War](https://open.spotify.com/album/5yiHTjdshcqtHKlmiJ5I6Y) | 2:50 |
-| 12 | [Hard Times \(Smile\) \[feat\. Teyana Taylor\]](https://open.spotify.com/track/1dg2Fieia98ysgTLRueLiY) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx), [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [Based on a True Story](https://open.spotify.com/album/4iLHF8zxDXeBowudrI2KtT) | 3:31 |
+| 8 | [Blessing](https://open.spotify.com/track/0TmGVDYgQa9gk4vou7metV) | [22Gz](https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz), [iZZE](https://open.spotify.com/artist/7gCDtSxLZtsjRtrY2h7x0I), [Dubba\-AA](https://open.spotify.com/artist/0imTTiC5dn6qy1VNS9Ituf) | [Blessing](https://open.spotify.com/album/2kPjQ65imOUlNibmus814I) | 3:15 |
+| 9 | [Heaven Sent](https://open.spotify.com/track/3oRjAEpFOlbXltuQklNVhE) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr) | [Heaven Sent](https://open.spotify.com/album/58Nvt6xXv8XCuIqRWNTumw) | 2:05 |
+| 10 | [NEVER GOING BACK](https://open.spotify.com/track/7cBufOFCMzMgOJ0YdZRpWz) | [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4), [Kato On The Track](https://open.spotify.com/artist/2P6teom3YQ7h8DFxR1JlQB), [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc) | [NEVER GOING BACK](https://open.spotify.com/album/2j5Kbe1G5jQUcEMAhmytq9) | 2:32 |
+| 11 | [Right Where I'm Supposed to Be](https://open.spotify.com/track/0EJgN1QHZ7aIWT2ggqZL5C) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [I'm Him 2](https://open.spotify.com/album/4qcdBStuMPfHMYOUzqBjbp) | 2:12 |
+| 12 | [War](https://open.spotify.com/track/0KFBeOOgwCtOgn8yucRy1X) | [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [War](https://open.spotify.com/album/5yiHTjdshcqtHKlmiJ5I6Y) | 2:50 |
 | 13 | [Woke Up This Morning](https://open.spotify.com/track/0T22HzueBkYKi1whnS1YiN) | [Nathan Davis Jr](https://open.spotify.com/artist/24p0hSTqoxNsy89rKNrSDj) | [Woke Up This Morning](https://open.spotify.com/album/1s3ijlyu1aRrxHy8ELBZyb) | 2:12 |
 | 14 | [My Enemies](https://open.spotify.com/track/6QUjDyRtxbX4e5X87hDuHh) | [Dee\-1](https://open.spotify.com/artist/5qEZVKHzNjB8k5tAT41Iox), [B.G.](https://open.spotify.com/artist/36HvjE9pV91jEjO1qBRidS) | [My Enemies](https://open.spotify.com/album/6omnvGQhlFfXHc07X5jbHx) | 2:59 |
 | 15 | [I Need Help](https://open.spotify.com/track/2wZ6SbRGqB20wbWh4f25q0) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Taylor Hill](https://open.spotify.com/artist/5enXh7VYtH8x63M7coq9tJ), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Nick Day](https://open.spotify.com/artist/3qk6ZVoPsbOxEvOdXaoeaz) | [I Need Help](https://open.spotify.com/album/2aaMNz3MYoI1pnJUvqqkC2) | 2:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 | 99 | [Get Ready \(feat\. Kodak Black\)](https://open.spotify.com/track/04EHa1ZzBl8OPvcnddph4p) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [SoulFly \(Deluxe Version\)](https://open.spotify.com/album/15BnishwaiZhh0ZY3fnxMN) | 3:51 |
 | 100 | [THANKFUL \(feat\. Lil Wayne & Jeremih\)](https://open.spotify.com/track/5suOUHDyRxvWDYF5GA6dly) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [KHALED KHALED](https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf) | 5:38 |
 
-Snapshot ID: `AAAAAKpJJ3uBpfHu/jpDRMFipoKO/TFb`
+Snapshot ID: `aDktUQAAAADT3NnalLRHdWfAiyd9J/jy`

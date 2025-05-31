@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts. Photo: Mario Pelchat, Isabelle Boulay",
+  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts. Photo: Gab Bouchard",
   "name": "Qu\u00e9b\u00e9cois Contemporain",
   "tracks": [
     {
@@ -1673,6 +1673,24 @@
     },
     {
       "album": {
+        "name": "Le soleil se l\u00e8ve \u00e0 chaque matin",
+        "url": "https://open.spotify.com/album/68BYMaZ4D1mzxuaWlCbmue"
+      },
+      "artists": [
+        {
+          "name": "Dany Placard",
+          "url": "https://open.spotify.com/artist/5sjde1NFxsXN9EjZyMbhHp"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156998,
+      "name": "Le soleil se l\u00e8ve \u00e0 chaque matin",
+      "url": "https://open.spotify.com/track/5WG33RZwr6ISdiOv5YpxVw"
+    },
+    {
+      "album": {
         "name": "Demain il fera beau",
         "url": "https://open.spotify.com/album/74gQAViAPXnavitK5BTOmv"
       },
@@ -2922,7 +2940,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 164503,
       "name": "\u00c0 l'envers",
       "url": "https://open.spotify.com/track/0f3acPxu7bt8ukIWqUZJAE"

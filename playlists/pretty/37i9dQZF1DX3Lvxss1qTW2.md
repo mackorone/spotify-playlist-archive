@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 
 > The future hits of today\. <br/>Cover:  Bloody Civilian
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,780 likes - 80 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,828 likes - 80 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 | 24 | [Zaza \(feat\. ODUMODUBLVCK\)](https://open.spotify.com/track/53BtrOyMr2ETb8Mtk7qruJ) | [KOHDEE](https://open.spotify.com/artist/4VAE2wGIfC4WMTh6N3mm7M), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Zaza \(feat\. ODUMODUBLVCK\)](https://open.spotify.com/album/1jRnWoU55hKmRllDJsTvvU) | 2:07 |
 | 25 | [Halelu \(feat\. Niniola & DJ Rosco\)](https://open.spotify.com/track/4hFxfeTWAKx6u1YQk33uxv) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL), [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ), [DJ Rosco](https://open.spotify.com/artist/2rggJGUHFnNPiNQPIUaFK5) | [Nobody Like Zaza](https://open.spotify.com/album/1GZzCbpn9eoIOP39O5dqbh) | 3:09 |
 | 26 | [OMN](https://open.spotify.com/track/0CAUa9kxePlhXkBTQ9nBGz) | [Rose May Alaba](https://open.spotify.com/artist/2ZMK00G23KPZRXv5uETA5s), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [ROZEY](https://open.spotify.com/album/02boWZX3nExhtEQlXP0eA4) | 2:40 |
-| 27 | [Roma](https://open.spotify.com/track/0tYVKrdMhSACnQTlCBzKAi) | [Runda](https://open.spotify.com/artist/1ECPisHdyXxJzBSPaHCk0x), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [Behind Closed Doors](https://open.spotify.com/album/7IcAWl0SNTImQwHcG8w98o) | 2:45 |
+| 27 | [Roma](https://open.spotify.com/track/0tYVKrdMhSACnQTlCBzKAi) | [Runda](https://open.spotify.com/artist/1ECPisHdyXxJzBSPaHCk0x) | [Behind Closed Doors](https://open.spotify.com/album/7IcAWl0SNTImQwHcG8w98o) | 2:28 |
 | 28 | [Despasito](https://open.spotify.com/track/2r8Ji4hSbuPlQojrxY7Tyg) | [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X) | [Virtuoso](https://open.spotify.com/album/0C4DFElYdLiT6SsMnbb3a2) | 3:10 |
 | 29 | [Fake Love](https://open.spotify.com/track/4B0tAnf7rBUdb2lvCKJpoU) | [JoulesDaKid](https://open.spotify.com/artist/5NjVO0pGKBzb10hwlfFBWV), [Major AJ](https://open.spotify.com/artist/5PLTdezWnkHzUBGqQ2P6cT) | [Fake Love](https://open.spotify.com/album/01KJ2GfbTmEQlZtbv8a7y2) | 3:40 |
 | 30 | [Alhaji](https://open.spotify.com/track/1fl2s61uhH6Ob4bU6f8TMT) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Alhaji](https://open.spotify.com/album/2x89WyCjViUviC7YjEZlxm) | 2:23 |

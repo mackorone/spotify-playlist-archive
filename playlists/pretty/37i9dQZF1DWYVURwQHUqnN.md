@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 
 > Photo : GIMS
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,144,182 likes - 40 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,144,414 likes - 40 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 | 27 | [Pêche passion](https://open.spotify.com/track/0DuK0nxqmds0pOjEMj8Ga9) | [VEN1](https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL) | [Pêche passion](https://open.spotify.com/album/4F2byFbowOMCRnzq0kP7u5) | 2:50 |
 | 28 | [Mon amour](https://open.spotify.com/track/1reRAKrwnfUmbNCrTUGLdn) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Et si j'échoue ?](https://open.spotify.com/album/2GdJaFHImgt0XXk8eIukxI) | 2:40 |
 | 29 | [C'est Quoi Ton Délire](https://open.spotify.com/track/6JqtSOUhtLysi29twfAigk) | [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM), [D2](https://open.spotify.com/artist/0aQ1OtlRCKfVQuMczDIcgS), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [Nés Pour Briller : Book II](https://open.spotify.com/album/6wOtWRGN4pYSsLbVbLTWwh) | 2:54 |
-| 30 | [BOTTEGA](https://open.spotify.com/track/4DNTHdu4F7eTNuhyLQvEzG) | [Bello&Dallas](https://open.spotify.com/artist/2zW6nGPGBEaGNENvqaw9lo) | [BOTTEGA](https://open.spotify.com/album/7bhBG3c39CJvnXiDiHzvPt) | 2:59 |
+| 30 | [Bottega](https://open.spotify.com/track/4DNTHdu4F7eTNuhyLQvEzG) | [Bello&Dallas](https://open.spotify.com/artist/2zW6nGPGBEaGNENvqaw9lo) | [Bottega](https://open.spotify.com/album/7bhBG3c39CJvnXiDiHzvPt) | 2:59 |
 | 31 | [CARRÉ OK](https://open.spotify.com/track/338wPdNyvOPGZddfk81EKA) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [CARRÉ OK](https://open.spotify.com/album/1RKX8Ub8154NCWzAuxjTHw) | 2:40 |
 | 32 | [Bêtise](https://open.spotify.com/track/4s95iMSAxoMLN0PUpJ2I2L) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Bêtise](https://open.spotify.com/album/7qa5bQNZ7lfxPJwRY82D0Y) | 2:45 |
 | 33 | [Shine](https://open.spotify.com/track/3ymAkyG6LfREJmfEXEaSbk) | [Kim](https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW), [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Shine](https://open.spotify.com/album/0GQMw7o7HQXdDhteOWC4bc) | 2:59 |

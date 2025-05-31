@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Miley Cyrus, Rose Villain e Tony Effe, Serena Brancale e Alessandra Amoroso, Alfa, Lorde e tanti altri!
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,517 likes - 94 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,106 likes - 95 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 43 | [Ragazzi della baia](https://open.spotify.com/track/26lCXDLbYI8CrLzRsRd9UL) | [Barkee Bay](https://open.spotify.com/artist/72KRmtW8IrP6D8FwG8Boi8) | [Backpackers](https://open.spotify.com/album/5cxMUQCVThjx7xrXWNu5xW) | 3:28 |
 | 44 | [Piselli](https://open.spotify.com/track/2jtVYlmCmwrJ5LaGDbrMr0) | [Matteo Alieno](https://open.spotify.com/artist/0HFD1kS1lUZkZaGX0702QM) | [Piselli](https://open.spotify.com/album/4jclPDay6yO3bJPr8x71vI) | 3:17 |
 | 45 | [Cops & Robbers](https://open.spotify.com/track/5pa2ZyJ3dIEmxRDW74msQi) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Cops & Robbers](https://open.spotify.com/album/6ISsvqjVEeShpIhZir687U) | 2:41 |
-| 46 | [Slow Burner](https://open.spotify.com/track/1Siu5Bnrt90vtjUddXeTUg) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [Original Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Slow Burner](https://open.spotify.com/album/6j4ffFjnsHqYexblnGJwdB) | 3:32 |
+| 46 | [Slow Burner \(feat\. Original Koffee\)](https://open.spotify.com/track/1Siu5Bnrt90vtjUddXeTUg) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [Original Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Slow Burner \(feat\. Original Koffee\)](https://open.spotify.com/album/6j4ffFjnsHqYexblnGJwdB) | 3:32 |
 | 47 | [Amen](https://open.spotify.com/track/7pnRnAslrs3aDype0ZfOBq) | [JELECROIS](https://open.spotify.com/artist/2kZAbjn3zWasP4zuwk0QAP), [Sau27](https://open.spotify.com/artist/1KZF3e9QB6eO3h6Nt5pA4P) | [Amen](https://open.spotify.com/album/6WPFLiWImRXK22OqMBOTpE) | 2:17 |
 | 48 | [Superficiali \(feat\. Néza, Boro\)](https://open.spotify.com/track/0nbKp2u7ZP2jJBD4X2xlHD) | [Kres](https://open.spotify.com/artist/3Ek4gPnmrwsHtyQQWCdHsw), [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO), [Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu) | [Diventare 2](https://open.spotify.com/album/1mXCiFmVHjxCVItfp3eMgv) | 2:18 |
 | 49 | [ARIA](https://open.spotify.com/track/1c79uierwzEU9o7HibOoQA) | [Kid Gamma](https://open.spotify.com/artist/6JXpaIS9QQQlZSWfbWDWx1) | [ARIA](https://open.spotify.com/album/2g7nUY5jPl3LQEbyRQXhKV) | 2:45 |
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 53 | [cinquesette](https://open.spotify.com/track/3JuC2nI7leohduYexveATC) | [Amalfitano](https://open.spotify.com/artist/6etd8FRodAwSq5dBetjTHJ) | [cinquesette](https://open.spotify.com/album/4s5yJwlS8qYNZIXZa8Vv2K) | 2:42 |
 | 54 | [URLAMI](https://open.spotify.com/track/1ZyOP4INoz4Gs8cyMp7Ipr) | [genn butch](https://open.spotify.com/artist/0dqR6YWgjpc6gHnwfXEEOs), [Ensi](https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP) | [URLAMI](https://open.spotify.com/album/5aXym1ZTc7Uz901r7DBaOT) | 3:01 |
 | 55 | [B3](https://open.spotify.com/track/2yVeUXSlgKSngMIqwB1aYx) | [Cecile](https://open.spotify.com/artist/2V71DNcQsRW0Vp8vCOy9Vw), [bhadmari](https://open.spotify.com/artist/22byg3Xzd14XU81AgdRvOG) | [B3](https://open.spotify.com/album/1OVZFGB5IoA9U8YmeXaYkq) | 3:10 |
-| 56 | [Me Myself and The Night](https://open.spotify.com/track/7mKy65CyVCmawYMw3JJGPQ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Me Myself and The Night](https://open.spotify.com/album/7bSQts9CfkAh6MNQ7BkBjy) | 4:11 |
+| 56 | [Me, Myself and The Night](https://open.spotify.com/track/7mKy65CyVCmawYMw3JJGPQ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Me, Myself and The Night](https://open.spotify.com/album/7bSQts9CfkAh6MNQ7BkBjy) | 4:11 |
 | 57 | [All My Life](https://open.spotify.com/track/2pTii4tBijcsczNsmeBcSY) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [All My Life](https://open.spotify.com/album/0dHxrUuzYnUMgkulehzveD) | 2:07 |
 | 58 | [Rendezvous](https://open.spotify.com/track/1ENR9Zzy5GlPjUsaZW48jF) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [Rendezvous](https://open.spotify.com/album/0FposarJ84MZOTuYbmykCv) | 3:28 |
 | 59 | [Nello Nelle Casse](https://open.spotify.com/track/0vZHPk0EDDrTDtGh1DaT9i) | [Nello Taver](https://open.spotify.com/artist/6JV9OrfLS1nkVkAYl0naok), [Power Francers](https://open.spotify.com/artist/3B8ep8Kwm8WQXK7e6B7ZH1), [Riccardo Marchi](https://open.spotify.com/artist/5GQ1hE4jvmdOAo1lufVMnM) | [Nello Nelle Casse](https://open.spotify.com/album/7vIwzHBGi6Un9CJp9r7PeT) | 2:31 |
@@ -101,6 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 91 | [Marì](https://open.spotify.com/track/36azgURiWZ2VgIdCns22Ms) | [Hadha](https://open.spotify.com/artist/2J4QePEQziRRRcN64KkA46) | [Marì](https://open.spotify.com/album/0us6ZuURD2bWtqBmpdrHro) | 2:54 |
 | 92 | [DISPERATO](https://open.spotify.com/track/7a6Fxkl0hXfeNrnZQWeaKc) | [Vergo](https://open.spotify.com/artist/7fsXUIISzDuylzbl7ogr9y) | [DISPERATO](https://open.spotify.com/album/0idO0JeMrQrs8NB2SGLRme) | 2:53 |
 | 93 | [CAMPARI NOIA](https://open.spotify.com/track/3uyzA6mvWop8poqlPjHDqk) | [LAGUNA BOLLENTE](https://open.spotify.com/artist/63TkepjSwqWuleTIdydrL7) | [FANTA SBOCCO](https://open.spotify.com/album/0htYi8bzIk5tG08JD0qLYz) | 2:39 |
-| 94 | [Brutti Ricordi](https://open.spotify.com/track/75yCAWXlJt7Arla2I18B2E) | [YAMI](https://open.spotify.com/artist/2xbuMk1mfI2YFs5bSrLz1J), [IsÆia](https://open.spotify.com/artist/7hdQgyz5TDbH8Pug8ARlOQ) | [Brutti Ricordi](https://open.spotify.com/album/4n5FsKulGjt5ImCUjjft0w) | 3:05 |
+| 94 | [caffè](https://open.spotify.com/track/6iInfKrLxmpg9t801MuBA0) | [Ilaria Kappler](https://open.spotify.com/artist/03s1E1AnbOI5jsZ8CywUBh) | [caffè](https://open.spotify.com/album/0v1CiCpL59gIHeWo1148TH) | 2:32 |
+| 95 | [Brutti Ricordi](https://open.spotify.com/track/75yCAWXlJt7Arla2I18B2E) | [YAMI](https://open.spotify.com/artist/2xbuMk1mfI2YFs5bSrLz1J), [IsÆia](https://open.spotify.com/artist/7hdQgyz5TDbH8Pug8ARlOQ) | [Brutti Ricordi](https://open.spotify.com/album/4n5FsKulGjt5ImCUjjft0w) | 3:05 |
 
-Snapshot ID: `aDjZLgAAAAB5ZExa+Q4rx2XNDvIzylIx`
+Snapshot ID: `aDlsdQAAAADc3fh+tEsv8ctx1UST7WNi`

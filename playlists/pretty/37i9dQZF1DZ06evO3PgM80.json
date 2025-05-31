@@ -1,12 +1,12 @@
 {
   "description": "This is Julia Vit\u00f3ria. The essential tracks, all in one playlist.",
-  "num_followers": 20689,
+  "num_followers": 20693,
   "original_name": "This Is Julia Vit\u00f3ria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDZSAAAAAADvlO3edH07g/bh+rTfh0fh",
+  "snapshot_id": "aDejgAAAAADIi+QGLIp+0JiIQ8alq/2H",
   "tracks": [
     {
       "added_at": null,
@@ -199,26 +199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu \u00e9s Bom",
-        "url": "https://open.spotify.com/album/5Iiv24LKFHRT0oeHGNGRcV"
-      },
-      "artists": [
-        {
-          "name": "DJ PV",
-          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
-        },
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Tu \u00e9s Bom",
-      "url": "https://open.spotify.com/track/4n5XNuCNdlv1olMLYDwpcn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ele Vem / A Cidade Santa (Ao Vivo)",
         "url": "https://open.spotify.com/album/0QYG11SWkllPiFFnq5pxgQ"
       },
@@ -239,6 +219,26 @@
       "duration_ms": 329586,
       "name": "Ele Vem / A Cidade Santa - Ao Vivo",
       "url": "https://open.spotify.com/track/3ITvJ8pM7FVFsqXwBepr0C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tu \u00e9s Bom",
+        "url": "https://open.spotify.com/album/5Iiv24LKFHRT0oeHGNGRcV"
+      },
+      "artists": [
+        {
+          "name": "DJ PV",
+          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
+        },
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Tu \u00e9s Bom",
+      "url": "https://open.spotify.com/track/4n5XNuCNdlv1olMLYDwpcn"
     },
     {
       "added_at": null,
@@ -439,6 +439,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Outra Vez",
+        "url": "https://open.spotify.com/album/7ACwaHel0Oo9kV0fDcG2H8"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 304400,
+      "name": "Outra Vez",
+      "url": "https://open.spotify.com/track/4tjvxMkJlHPPJ2hRDU2jYg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Meu Abrigo (Ao Vivo)",
         "url": "https://open.spotify.com/album/6ZycqdebG7YEeX2LiVZEuW"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 299746,
       "name": "Meu Abrigo - Ao Vivo",
       "url": "https://open.spotify.com/track/4KDyhuFpO8CYyoz8TsHc7S"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Outra Vez",
-        "url": "https://open.spotify.com/album/7ACwaHel0Oo9kV0fDcG2H8"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 304400,
-      "name": "Outra Vez",
-      "url": "https://open.spotify.com/track/4tjvxMkJlHPPJ2hRDU2jYg"
     },
     {
       "added_at": null,
@@ -631,18 +631,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vem",
-        "url": "https://open.spotify.com/album/4w9Ym45CNTgnyTNaMXsJ1w"
+        "name": "Perto Eu Quero Estar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4YJCr4MpR5LE6WBMMcBT4x"
       },
       "artists": [
+        {
+          "name": "Thaiane Seghetto",
+          "url": "https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG"
+        },
         {
           "name": "Julia Vit\u00f3ria",
           "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
         }
       ],
-      "duration_ms": 382880,
-      "name": "Vem",
-      "url": "https://open.spotify.com/track/3Yop3QUpr2wfe2MObnpZ2b"
+      "duration_ms": 252866,
+      "name": "Perto Eu Quero Estar - Ao Vivo",
+      "url": "https://open.spotify.com/track/0qcVbrMV3FW3BnKOadt3Xw"
     },
     {
       "added_at": null,
@@ -667,22 +671,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perto Eu Quero Estar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4YJCr4MpR5LE6WBMMcBT4x"
+        "name": "Vem",
+        "url": "https://open.spotify.com/album/4w9Ym45CNTgnyTNaMXsJ1w"
       },
       "artists": [
-        {
-          "name": "Thaiane Seghetto",
-          "url": "https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG"
-        },
         {
           "name": "Julia Vit\u00f3ria",
           "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
         }
       ],
-      "duration_ms": 252866,
-      "name": "Perto Eu Quero Estar - Ao Vivo",
-      "url": "https://open.spotify.com/track/0qcVbrMV3FW3BnKOadt3Xw"
+      "duration_ms": 382880,
+      "name": "Vem",
+      "url": "https://open.spotify.com/track/3Yop3QUpr2wfe2MObnpZ2b"
     },
     {
       "added_at": null,
@@ -855,30 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ess\u00eancia Da Adora\u00e7\u00e3o (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4eHRqZGfau4CfUQ7oWF6t3"
-      },
-      "artists": [
-        {
-          "name": "Hananiel Eduardo",
-          "url": "https://open.spotify.com/artist/6jcaFu5t6OajYlT3inEMkM"
-        },
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        },
-        {
-          "name": "BRAVE",
-          "url": "https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h"
-        }
-      ],
-      "duration_ms": 317360,
-      "name": "Ess\u00eancia Da Adora\u00e7\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/5zKbPk3SYmPAGM0yxoIo1C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "REVERE: Unscripted Portuguese",
         "url": "https://open.spotify.com/album/1tK5DcDjcCNGYVQTFLitIX"
       },
@@ -907,6 +883,30 @@
       "duration_ms": 554498,
       "name": "Cantarei (Meu Salvador) / Risen Savior (Sing My Soul)",
       "url": "https://open.spotify.com/track/2ixomu6Vcz6vFVuH5K9bpj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ess\u00eancia Da Adora\u00e7\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4eHRqZGfau4CfUQ7oWF6t3"
+      },
+      "artists": [
+        {
+          "name": "Hananiel Eduardo",
+          "url": "https://open.spotify.com/artist/6jcaFu5t6OajYlT3inEMkM"
+        },
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        },
+        {
+          "name": "BRAVE",
+          "url": "https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h"
+        }
+      ],
+      "duration_ms": 317360,
+      "name": "Ess\u00eancia Da Adora\u00e7\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/5zKbPk3SYmPAGM0yxoIo1C"
     },
     {
       "added_at": null,

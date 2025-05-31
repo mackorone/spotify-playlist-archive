@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-1,879 songs - 3 day 15 hr 15 min
+1,880 songs - 3 day 15 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -680,7 +680,7 @@
 | [NIX](https://open.spotify.com/track/7yMIq1tKgoRqtHAgjkjHyD) | [0 похвал 9 репортов](https://open.spotify.com/artist/7DiNxCEdFLUdzwpx186QoF) | [NIX](https://open.spotify.com/album/61vUbCHTN0thzysoiqg9gP) | 1:38 | 2023-05-06 | 2023-05-08 |
 | [No Child Left Behind](https://open.spotify.com/track/3onYsG7nB3FwEVHYYWCrIM) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 2:58 | 2021-09-01 | 2021-09-02 |
 | [No Friends In The Industry](https://open.spotify.com/track/2tUL6dZf1mywCj5WvCPZw6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:24 | 2021-09-05 | 2021-09-09 |
-| [No Gletcher Gang 2](https://open.spotify.com/track/0nXNsOS6gKYKS6pdoTBeHR) | [FRIENDLY THUG 52 NGG](https://open.spotify.com/artist/5xtbUYHaOycg6HIi10EZdV) | [Graf Monte\-Cristo / Most Valuable Pirate](https://open.spotify.com/album/61ps9wdfl2bgjaKOPQ9zCb) | 1:56 | 2025-04-26 |  |
+| [No Gletcher Gang 2](https://open.spotify.com/track/0nXNsOS6gKYKS6pdoTBeHR) | [FRIENDLY THUG 52 NGG](https://open.spotify.com/artist/5xtbUYHaOycg6HIi10EZdV) | [Graf Monte\-Cristo / Most Valuable Pirate](https://open.spotify.com/album/61ps9wdfl2bgjaKOPQ9zCb) | 1:56 | 2025-04-26 | 2025-05-31 |
 | [No Love](https://open.spotify.com/track/03TPcM9vWUmc8y6LkJAzwJ) | [АДЛИН](https://open.spotify.com/artist/3vw4wtxW7yv7yJSDqkIuUz) | [No Love](https://open.spotify.com/album/6BhuzJJCEd2pU1szzJ4ekU) | 2:07 | 2021-09-24 | 2022-07-16 |
 | [NO MO LUV](https://open.spotify.com/track/4ZZrdvMrb28wnELuJmks9W) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [MILLION DOLLAR: HAPPINESS](https://open.spotify.com/album/1gy6IjmdOtzqJ2BtLDb7HQ) | 2:18 | 2021-05-22 | 2021-05-30 |
 | [No morë talk](https://open.spotify.com/track/7qPiAhk71D2RqLRtnjDL76) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [AftërLyfe](https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM) | 3:58 | 2023-02-25 | 2023-02-27 |
@@ -1243,7 +1243,7 @@
 | [Два](https://open.spotify.com/track/25pKz1rhWO7kYoCZKxNlPQ) | [Scally Milano](https://open.spotify.com/artist/1nnaE1FllcW0TlDdPVmdPg), [163ONMYNECK](https://open.spotify.com/artist/0ne2rg2JwZmIy7X1aVNq7y), [FEARMUCH](https://open.spotify.com/artist/0dYPNZqAPGnHiFTTy7qMxL) | [Really Rich](https://open.spotify.com/album/1wX4RtVeoehdxVEOJCGjkB) | 2:49 | 2022-12-17 | 2022-12-19 |
 | [Два вікна](https://open.spotify.com/track/3gwHKlGINfCgBwBeEJ101L) | [The Hardkiss](https://open.spotify.com/artist/4IJcztNtY5L7G3qK4yu1qt) | [Два вікна](https://open.spotify.com/album/09uyLA93UT6CxShEcLz6ZI) | 3:09 | 2023-03-10 | 2023-03-20 |
 | [Двигай Жопой](https://open.spotify.com/track/0mMhLFrpgvnMRbKaBJpuJk) | [Scally Milano](https://open.spotify.com/artist/1nnaE1FllcW0TlDdPVmdPg) | [Really Rich](https://open.spotify.com/album/1wX4RtVeoehdxVEOJCGjkB) | 2:11 | 2022-12-17 | 2022-12-19 |
-| [Де би де би](https://open.spotify.com/track/0HcAqtveWI1vLCefAqy6Db) | [Drevo](https://open.spotify.com/artist/2FbcO51yLIYdfqIQXocwVg) | [Перший тайм](https://open.spotify.com/album/2pRUpo4xoCDnCRejQJQ6gl) | 2:49 | 2025-05-25 | 2025-05-27 |
+| [Де би де би](https://open.spotify.com/track/0HcAqtveWI1vLCefAqy6Db) | [Drevo](https://open.spotify.com/artist/2FbcO51yLIYdfqIQXocwVg) | [Перший тайм](https://open.spotify.com/album/2pRUpo4xoCDnCRejQJQ6gl) | 2:49 | 2025-05-25 |  |
 | [Де би ти не була](https://open.spotify.com/track/5XAFSSfpPOf7kc2DUOWOEy) | [Parfeniuk](https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C) | [Де би ти не була](https://open.spotify.com/album/7KVJCcIbpY8YoxBDKscXDm) | 2:29 | 2024-11-16 | 2024-11-18 |
 | [ДЕД РОЕТ](https://open.spotify.com/track/6U29j3KiYLwUz8iXuOOKRh) | [Egor Kreed](https://open.spotify.com/artist/2KoLmBXwsgMkfAvoPBlPmb) | [PUSSY BOY](https://open.spotify.com/album/43RGWSAgcUh3ytWu26mdGH) | 2:11 | 2021-07-18 | 2021-07-21 |
 | [Дежавю](https://open.spotify.com/track/1GOiMxQXZUzjzH0Sxpck0B) | [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz) | [Karmageddon](https://open.spotify.com/album/5ForRoVEwhqUlu6jcbgdaa) | 2:53 | 2021-03-27\* | 2022-07-04 |
@@ -1357,6 +1357,7 @@
 | [Карманы](https://open.spotify.com/track/4VMD5B8Om6Oo7fFhMOcyGg) | [Max Korzh](https://open.spotify.com/artist/5meD8C7oGK5yUEY2T7ZZ7W) | [Психи попадают в топ](https://open.spotify.com/album/1P6SeYoLzFyj0tBhSxK3t1) | 5:12 | 2021-12-18 | 2021-12-19 |
 | [Карусель](https://open.spotify.com/track/7hTEDmot0y3DilKQZid6Q9) | [Markul](https://open.spotify.com/artist/3Vfd5HJnhjnvdyuQYHtYa2) | [Sense Of Human](https://open.spotify.com/album/1cV2HrhbAAlW4F348o8Bxm) | 2:28 | 2021-10-17 | 2021-10-23 |
 | [Касета](https://open.spotify.com/track/4MQmxIxM5CXKjdq4IrCWhd) | [SadSvit](https://open.spotify.com/artist/2ojY7fXJxZQhg8Rx5e8h9G) | [Cassette](https://open.spotify.com/album/0Wn5sHYtC7vPPX0n2AVJmF) | 2:24 | 2022-04-20 |  |
+| [Катюха](https://open.spotify.com/track/3Fdo0fNzj2QnPU1SgsNHcV) | [whitek3d](https://open.spotify.com/artist/3IWgGXUSjXN8Lc2fJkAMsP) | [Катюха](https://open.spotify.com/album/1SfskVJm321ZlEFV3YFrVM) | 1:17 | 2025-05-30 |  |
 | [Квіти](https://open.spotify.com/track/1BBXxqH8gdhsic0GeKD11U) | [SadSvit](https://open.spotify.com/artist/2ojY7fXJxZQhg8Rx5e8h9G) | [Квіти](https://open.spotify.com/album/7oSD0T1aolSFWD1nYwM4YQ) | 2:01 | 2023-06-17 | 2023-06-19 |
 | [Киллер \(Prod\. by malenkiyyarche x kayyo\)](https://open.spotify.com/track/3d67iioYf1Hvt2b7ncDzZv) | [MAYOT](https://open.spotify.com/artist/3KtiWEUyKC5lgHedcN6y6C) | [ЗАПРАВКА КИД 2](https://open.spotify.com/album/2Fw2CNrwvmKKoEIgtnaara) | 1:08 | 2021-03-27 | 2021-03-29 |
 | [Кис Кис Кис](https://open.spotify.com/track/062l4eq0DRJ28ZeobzF0Lz) | [Monetochka](https://open.spotify.com/artist/0yp6xP5xe1qarfugfTixOK) | [Молитвы\. Анекдоты\. Тосты.](https://open.spotify.com/album/1eE8tgJvckpa4qYLp2L9ox) | 2:42 | 2024-06-06 | 2024-06-30 |
@@ -1620,7 +1621,7 @@
 | [Райские цветы](https://open.spotify.com/track/1DSCMhnFgL4BVI6D8fJJ8a) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [Грустная девчонка с глазами как у собаки](https://open.spotify.com/album/4cRqvcjfnQDxwCTGP2UAUV) | 2:18 | 2024-09-05 | 2024-09-15 |
 | [Рамок нет](https://open.spotify.com/track/5hxp2TrctRjKSvu9LDhjsS) | [Skryptonite](https://open.spotify.com/artist/3vvLuXEEf7sl3izJcw0GIn), [FEDUK](https://open.spotify.com/artist/3EsjO0y0DE1GC453Sgyr7Z) | [Свистки и бумажки](https://open.spotify.com/album/6Y0flenCeLFFmVocXSd10n) | 4:50 | 2021-04-29 | 2021-05-03 |
 | [Рана](https://open.spotify.com/track/4GNVBarJ82ABAYZyPYwinT) | [CHEEV](https://open.spotify.com/artist/0PWfuxCvPtyeCLLWjf4EzJ) | [Рана](https://open.spotify.com/album/1bfoR7QMS6sbBQ3H6EWW1H) | 2:01 | 2024-10-01 |  |
-| [распять](https://open.spotify.com/track/3pUbDaO5cBfRCZHxSCVMh8) | [greyrock](https://open.spotify.com/artist/3Z2TLso4pM7QrgMgkKVPZB), [tewiq](https://open.spotify.com/artist/48nrvNpJ4gcgWyvheEGg0L), [madk1d](https://open.spotify.com/artist/1Q5COYHgA7ch0y3HqCNgwt) | [распять](https://open.spotify.com/album/3hzcccGZBceumBuBtCNP6P) | 1:59 | 2025-03-29 |  |
+| [распять](https://open.spotify.com/track/3pUbDaO5cBfRCZHxSCVMh8) | [greyrock](https://open.spotify.com/artist/3Z2TLso4pM7QrgMgkKVPZB), [tewiq](https://open.spotify.com/artist/48nrvNpJ4gcgWyvheEGg0L), [madk1d](https://open.spotify.com/artist/1Q5COYHgA7ch0y3HqCNgwt) | [распять](https://open.spotify.com/album/3hzcccGZBceumBuBtCNP6P) | 1:59 | 2025-03-29 | 2025-05-31 |
 | [Рассвет](https://open.spotify.com/track/0VGLb6IeeG5ZqonN5EavDu) | [Какая Разница](https://open.spotify.com/artist/1QljgLVnBEZge237LSpemA) | [Рассвет](https://open.spotify.com/album/7MNBXNVJoXx5TiSrk2YJp9) | 2:04 | 2022-01-08 | 2025-03-09 |
 | [Расстояние](https://open.spotify.com/track/10sZQtPs0nGSQOl8usFePV) | [FACE](https://open.spotify.com/artist/2z20q6EEfm6w6PiIKsgtb3) | [Искренний](https://open.spotify.com/album/4LWHMwwy0m51ZfIFwJziYJ) | 3:05 | 2021-04-10 | 2021-04-11 |
 | [Рашн Роуд Рейдж](https://open.spotify.com/track/0zkmYBCfhQQ4GObqz2HQG3) | [Oxxxymiron](https://open.spotify.com/artist/1gCOYbJNUa1LBVO5rlx0jB) | [Красота и Уродство](https://open.spotify.com/album/37GqOfeuzBtpj32ZG28SqH) | 2:38 | 2021-12-03 | 2021-12-06 |

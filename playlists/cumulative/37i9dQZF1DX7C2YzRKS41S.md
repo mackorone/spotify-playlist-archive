@@ -4,7 +4,7 @@
 
 > Um pouco de folk, jazz e MPB para acordar com o pé na estrada.
 
-457 songs - 1 day 2 hr 56 min
+458 songs - 1 day 2 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,7 +203,7 @@
 | [I Went Hunting](https://open.spotify.com/track/6CUts1EBhKu60Z7Q5qoT6S) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid](https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z) | 3:45 | 2022-11-25 | 2023-08-05 |
 | [Ilustração](https://open.spotify.com/track/67gKjKI5PMBgUWTYmXa2Yf) | [Jaffar Bambirra](https://open.spotify.com/artist/7fKgOWFmEK3tIokXoTaXV5) | [Ilustração](https://open.spotify.com/album/4b9bgPJYL0keoE67LGYv1g) | 3:47 | 2021-12-24 | 2022-07-28 |
 | [Imaginário](https://open.spotify.com/track/5RsjEJZda5J49PKRxnAi4t) | [zebidart](https://open.spotify.com/artist/6MXfdmayzycpV03KZAfBBw) | [Imaginário](https://open.spotify.com/album/6NRYZW2NSJbzycvCi9YKGH) | 3:14 | 2022-03-25 | 2022-04-21 |
-| [In Time](https://open.spotify.com/track/5EAtZRQPWrt2OtkJjMdLH2) | [Rodrigo Amarante](https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg) | [His Three Daughters \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5kvN1zypOQo0IsMxBAEEfO) | 3:30 | 2024-09-20 |  |
+| [In Time](https://open.spotify.com/track/5EAtZRQPWrt2OtkJjMdLH2) | [Rodrigo Amarante](https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg) | [His Three Daughters \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5kvN1zypOQo0IsMxBAEEfO) | 3:30 | 2024-09-20 | 2025-05-31 |
 | [INCONSCIENTEMENTE](https://open.spotify.com/track/5KMi5R3gNyYFID5OzHA4iG) | [João Mar](https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy) | [INCONSCIENTEMENTE](https://open.spotify.com/album/20zy3AllALKXGUvrosORrE) | 2:22 | 2022-04-29 | 2022-07-28 |
 | [itajaí](https://open.spotify.com/track/1YORvtFKmOyLdDkr3BE1w8) | [Simão](https://open.spotify.com/artist/2wkEw9j9xteOnF00DqUI34) | [itajaí](https://open.spotify.com/album/3AYHSnmSBTiVmrx0aSAOwF) | 2:32 | 2021-12-24 |  |
 | [Japão](https://open.spotify.com/track/2AK1IHG1OarphQqcCp2CXI) | [Lucas Guido](https://open.spotify.com/artist/5pJkGvrkBHgUADZ2f44jP1) | [Japão](https://open.spotify.com/album/3AakEFLFU3Fau6LTraQ2G1) | 3:00 | 2022-03-25 | 2022-04-25 |
@@ -245,6 +245,7 @@
 | [Medo de Amar](https://open.spotify.com/track/3cPclQoSPNYPijnxuMd52l) | [Léo Vieira](https://open.spotify.com/artist/0XxePJXaakWSiVVyITL408) | [Partilha & Solidão](https://open.spotify.com/album/0YNKtgcZTBTLPrCB5vLAog) | 3:22 | 2021-12-24 | 2022-06-03 |
 | [Medo de Avião](https://open.spotify.com/track/6NNHvJiNoWUOB6QthRA7S1) | [Ana Cañas](https://open.spotify.com/artist/4v1mao101nIWvxzotCSKyz) | [Ana Cañas Canta Belchior](https://open.spotify.com/album/6KStzeWw0tLQgBmW3UTB8K) | 4:33 | 2022-02-11 | 2022-07-21 |
 | [Melhor Sem Mim](https://open.spotify.com/track/1hUzkO738a6LoYIBhMCR0r) | [Dody](https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs), [IVYSON](https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu) | [Melhor Sem Mim](https://open.spotify.com/album/088K4X8hrYw2RTyxs6q77A) | 3:06 | 2022-01-21 | 2022-04-17 |
+| [Menino de Papel](https://open.spotify.com/track/2iiZsYIyb2MUANhTkNjtIy) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Hungria](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq) | [Menino de Papel](https://open.spotify.com/album/1ykcByGySTdMT3veccKEXT) | 2:56 | 2025-05-30 |  |
 | [Mesma Sensação](https://open.spotify.com/track/7agqUicjzuTmStccvAwG1f) | [Georgia Castro](https://open.spotify.com/artist/4GmmLOQ77hMmworAzCj2xJ) | [Mesma Sensação](https://open.spotify.com/album/1ese8tfg7dYxhWnWhAp500) | 3:14 | 2025-02-22 | 2025-05-04 |
 | [Meu Amor É Seu](https://open.spotify.com/track/4kc7hKuZFE3XYd2xMVvdxS) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Só Conheço o Mar](https://open.spotify.com/album/2C3fZsdvNDv3qYQSdTZTQk) | 2:55 | 2021-12-24 | 2022-07-29 |
 | [Meu Bem](https://open.spotify.com/track/08tHtVcWkD5rcxkguScfUY) | [Felipe Câmara](https://open.spotify.com/artist/7nMcdHn8XjZDOzCn1x83f0) | [Meu Bem](https://open.spotify.com/album/6kRSgZALUlqIKnISQC6L7F) | 3:51 | 2021-12-24 | 2022-06-28 |

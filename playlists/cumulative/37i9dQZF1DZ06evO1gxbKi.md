@@ -4,7 +4,7 @@
 
 > This is Sister Rosetta Tharpe\. The essential tracks, all in one playlist.
 
-142 songs - 7 hr 4 min
+143 songs - 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Oh, The Joy That Came To Me](https://open.spotify.com/track/6HiEL8sTTAfhSNibOkghyd) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Spirituals In Rhythm](https://open.spotify.com/album/0m04XubMVnvu8oKgGSgTT9) | 1:25 | 2024-06-10 | 2024-07-11 |
 | [Peace In The Valley](https://open.spotify.com/track/2eJgsexdt03ESg86cMONv5) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Precious Memories](https://open.spotify.com/album/1YHahOzmBm2OgsIx0P3fU8) | 4:21 | 2022-11-16 |  |
 | [Peace in the Valley](https://open.spotify.com/track/4IkBfxdaaAULEsdaJcXUMw) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Authorized Sister Rosetta Tharpe Collection](https://open.spotify.com/album/0QKuuYbckrnqy7qaL9zsRr) | 5:32 | 2022-05-25 | 2022-10-13 |
+| [Precious Lord \(Take My Hand\)](https://open.spotify.com/track/3BL8WaeivP3arLT7JfwALf) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Best Of Sister Rosetta Tharpe](https://open.spotify.com/album/0JxBYG03IPDAcCdNEtQq7x) | 4:59 | 2025-05-31 |  |
 | [Precious Lord Hold My Hand](https://open.spotify.com/track/7FOyFwDBFQPw2wMtbRLknA) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [First Great Star of Gospel Music](https://open.spotify.com/album/1XStey6fjHNAB9WqriW4Lm) | 3:05 | 2024-11-08 | 2024-12-23 |
 | [Precious Lord Take My Hand](https://open.spotify.com/track/0h64MC2GRtFMXbvjkjxEke) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Precious Memories](https://open.spotify.com/album/1YHahOzmBm2OgsIx0P3fU8) | 5:04 | 2022-05-25 | 2023-10-02 |
 | [Precious Lord, Hold My Hand](https://open.spotify.com/track/5FiOMcaMhGiZApmkU9pDSj) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Let's Ride This Train!](https://open.spotify.com/album/2PJGPi5cdUwhHqokoJWPqf) | 2:59 | 2025-03-22 |  |
@@ -141,7 +142,7 @@
 | [Up Above My Head I Hear Music In The Air](https://open.spotify.com/track/020Jue4CBDS0qn9gXVeouQ) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Up Above My Head](https://open.spotify.com/album/4I8sQwxcyWI979ZcYGPMf5) | 2:32 | 2022-05-25 | 2022-08-09 |
 | [Up Above My Head I Hear Music in the Air](https://open.spotify.com/track/2GogRVDdUrZIPf2etethre) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Presenting Sister Rosetta Tharpe](https://open.spotify.com/album/5lti5m4J6SvKRyW9r4f1Sm) | 2:33 | 2022-08-13 | 2023-10-05 |
 | [Up Above My Head I Hear Music In The Air](https://open.spotify.com/track/6m9ZNpkKCQZVmXzC0R9iDd) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7), [Marie Knight](https://open.spotify.com/artist/5SQDx1d1tEpptg9je4XGYS), [Sam Price Trio](https://open.spotify.com/artist/2RWOiWqyH0TkExmKSjZ9sd) | [Gospel Train \(Expanded Edition\)](https://open.spotify.com/album/0d2kYndpc9gJafJgyEVwYk) | 2:29 | 2022-08-12 |  |
-| [Walking Up The King's Highway](https://open.spotify.com/track/6RRbT45pMJ54g3ewa9nOHP) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Best Of Sister Rosetta Tharpe](https://open.spotify.com/album/0JxBYG03IPDAcCdNEtQq7x) | 3:49 | 2025-02-10 | 2025-02-12 |
+| [Walking Up The King's Highway](https://open.spotify.com/track/6RRbT45pMJ54g3ewa9nOHP) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Best Of Sister Rosetta Tharpe](https://open.spotify.com/album/0JxBYG03IPDAcCdNEtQq7x) | 3:49 | 2025-02-10 |  |
 | [Were You There When They Crucified My Lord?](https://open.spotify.com/track/5ezKCpPjLd7m6aS2hZFRie) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Gospel Train \(Expanded Edition\)](https://open.spotify.com/album/0d2kYndpc9gJafJgyEVwYk) | 3:16 | 2022-05-25 | 2024-07-24 |
 | [What Have I Done \- Remastered](https://open.spotify.com/track/3TqsHhRYY9uLcnPHccHhlH) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Anthology: The Deluxe Collection \(Remastered\)](https://open.spotify.com/album/29YtW2554LjHMRYR8ZPTQp) | 2:55 | 2022-05-25 | 2023-11-11 |
 | [What Have I Done?](https://open.spotify.com/track/1cqaPGJvAWWzHmb0gUxktT) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Rock Me](https://open.spotify.com/album/0e5wVllhThB1d91oUItDG0) | 2:55 | 2023-12-16 |  |

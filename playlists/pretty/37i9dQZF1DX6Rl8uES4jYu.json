@@ -1,13 +1,57 @@
 {
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
-  "num_followers": 241363,
+  "num_followers": 241323,
   "original_name": "Ready for the Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCa4VgAAAAB8pfDnizwUIvn3EhwvZUa3",
+  "snapshot_id": "aDktVAAAAAAf3HrM2zMzFUMWTsRLnWHx",
   "tracks": [
+    {
+      "added_at": "2025-05-30 04:00:20",
+      "album": {
+        "name": "Miss Black Cat",
+        "url": "https://open.spotify.com/album/3Y0wzYeZKEiYBM1UPbujTz"
+      },
+      "artists": [
+        {
+          "name": "Gabe Costa",
+          "url": "https://open.spotify.com/artist/6LMyfO4lGSYAkJg3Yc06ZR"
+        },
+        {
+          "name": "Ana Pshokina",
+          "url": "https://open.spotify.com/artist/3BIkBUBo9Ojb2QVaAkDdn6"
+        },
+        {
+          "name": "Giovanni Ghioldi",
+          "url": "https://open.spotify.com/artist/4shS3E4SYPpSHf76AiBNK8"
+        }
+      ],
+      "duration_ms": 170997,
+      "name": "Miss Black Cat",
+      "url": "https://open.spotify.com/track/6vWYswXyrk0eZlpFMzQHOM"
+    },
+    {
+      "added_at": "2025-05-30 04:00:20",
+      "album": {
+        "name": "Something New",
+        "url": "https://open.spotify.com/album/5Lu8ASQ4x4b4u9yQCDreAb"
+      },
+      "artists": [
+        {
+          "name": "Isyana Sarasvati",
+          "url": "https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu"
+        },
+        {
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+        }
+      ],
+      "duration_ms": 158291,
+      "name": "Something New (feat. Afgan)",
+      "url": "https://open.spotify.com/track/3lZXsYZgaXodwSALy5cR6B"
+    },
     {
       "added_at": "2025-05-16 04:00:22",
       "album": {
@@ -1693,22 +1737,6 @@
       "url": "https://open.spotify.com/track/7kHLAtftH3ECHNBdH0le3l"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "Good Day",
-        "url": "https://open.spotify.com/album/1HSgWrfiiWkMNUr8abCu1c"
-      },
-      "artists": [
-        {
-          "name": "Jake Scott",
-          "url": "https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV"
-        }
-      ],
-      "duration_ms": 173983,
-      "name": "Good Day",
-      "url": "https://open.spotify.com/track/0FEXQUgIG0X2rhdT3nuQ3M"
-    },
-    {
       "added_at": "2022-08-19 04:02:00",
       "album": {
         "name": "My Tribe",
@@ -1803,22 +1831,6 @@
       "duration_ms": 144588,
       "name": "Earworm",
       "url": "https://open.spotify.com/track/6rp0Q5ptNjERiSPe4yATSl"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "Cruiserweight",
-        "url": "https://open.spotify.com/album/50Yah9QKupPNZNyvbwb5pI"
-      },
-      "artists": [
-        {
-          "name": "The Jack Moves",
-          "url": "https://open.spotify.com/artist/6QR60hk0TiNHphDexqZ6Pp"
-        }
-      ],
-      "duration_ms": 267240,
-      "name": "Lionel Richie",
-      "url": "https://open.spotify.com/track/1EfF2gJNuksJeHXLevKoFf"
     },
     {
       "added_at": "2022-10-28 04:01:00",

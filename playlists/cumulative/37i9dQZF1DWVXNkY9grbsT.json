@@ -1230,7 +1230,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 344493,
       "name": "Au couchant",
       "url": "https://open.spotify.com/track/7DozGDrYgAFPULqQNU7RMM"
@@ -2211,6 +2211,24 @@
     },
     {
       "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/5RmDGrwanJ17BWonobvZ5Q"
+      },
+      "artists": [
+        {
+          "name": "Emika",
+          "url": "https://open.spotify.com/artist/50Gx1SNB4vH2V7peIiYD4S"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/5sfe15oQuTlwOR0NkLmSOp"
+    },
+    {
+      "album": {
         "name": "Natural Wonder Beauty Concept",
         "url": "https://open.spotify.com/album/5laVAiCfglBYJqfqxyx8az"
       },
@@ -3024,7 +3042,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 120000,
       "name": "Dogtooth",
       "url": "https://open.spotify.com/track/0uTTMTQdkZjmacsiSMQ71s"
@@ -3664,6 +3682,24 @@
       "duration_ms": 228146,
       "name": "Films That Start with Rain",
       "url": "https://open.spotify.com/track/1yLPif0JrbY8fzGGUoTUlH"
+    },
+    {
+      "album": {
+        "name": "Endling",
+        "url": "https://open.spotify.com/album/3i26oAnvfsqgFFo19IVlQV"
+      },
+      "artists": [
+        {
+          "name": "Qasim Naqvi",
+          "url": "https://open.spotify.com/artist/3HMjcIM1vwBifTgdYZlv6D"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220740,
+      "name": "Fires",
+      "url": "https://open.spotify.com/track/70gYrcaIKVDtKkwiDEzMwW"
     },
     {
       "album": {

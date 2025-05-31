@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZBIhSC4FGF.md) - [plain]
 
 > Relax to some gentle percussion from all corners of the globe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,197 likes - 109 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,320 likes - 109 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZBIhSC4FGF.md) - [plain]
 | 41 | [Morning Light](https://open.spotify.com/track/6TWtWLKQ4uFVbQiNt3S6mD) | [Rand Obaso](https://open.spotify.com/artist/4llVuklNBhZLZsMwifLrIb) | [Ambient Motion](https://open.spotify.com/album/7IYI6B0YtAV5kXpuyIOwTK) | 3:09 |
 | 42 | [Marimba Lullaby](https://open.spotify.com/track/1HZmRFqDEYJ8ZqkuuOUsjv) | [Relaxing Music For You](https://open.spotify.com/artist/2fP54afZ3OtygUaN5gMqfj) | [Music for Yoga, Peacefull Sleep & Meditation](https://open.spotify.com/album/4Fr5gABEOtExJANRud9T0N) | 3:12 |
 | 43 | [Fantasy of Love \(Improvisation Marimba Solo\)](https://open.spotify.com/track/5GUUdEDHbJ4J9YnSwtrOag) | [Ludwig Albert](https://open.spotify.com/artist/11wv8tw7tNfTWnjAiCxcZL) | [The Best Of](https://open.spotify.com/album/09szSOR5bIOJQj5yKQkcV9) | 5:17 |
-| 44 | [Being in Trance](https://open.spotify.com/track/2uHnWZRjPrjmKg5UKu3h1H) | [Spiritual Power Control](https://open.spotify.com/artist/0S2L6cMzog6TyuZsNhK20s), [Emotional Healing Intrumental Academy](https://open.spotify.com/artist/62HQ6hBQ9kqrjRyvoGHst6) | [Tongue Drum Healing Sounds \- Calm Your Negative Emotions and Relax with the Gentle Sounds of Instruments, Reiki Music, Meditation, Yoga](https://open.spotify.com/album/3mlaOHaA232Kv4kJD07Btz) | 2:59 |
+| 44 | [Being in Trance](https://open.spotify.com/track/2uHnWZRjPrjmKg5UKu3h1H) | [Jonathan Segue](https://open.spotify.com/artist/3UvaHXLXdC7WJiYmg6aJU9), [Ali Dhyana](https://open.spotify.com/artist/13LUMk9iNDZa4myFEIMXnt) | [Tongue Drum Healing Sounds](https://open.spotify.com/album/3mlaOHaA232Kv4kJD07Btz) | 2:59 |
 | 45 | [Cosmic Wind](https://open.spotify.com/track/7M6Oo8FUfnOzmv9QlINuOb) | [Eon Weaver](https://open.spotify.com/artist/0HI0efkGlLzkrq0z3l2k2c) | [Cosmic Wind](https://open.spotify.com/album/7Ekok52CQNbNCsyU6LDdUq) | 2:31 |
 | 46 | [Song of the Morning](https://open.spotify.com/track/4fqfpPg6umah8ZSgCJtXtT) | [Jeremy Arndt](https://open.spotify.com/artist/7KZzcubMLbaEJMPIHw9Q1T) | [Journeys: Handpan Solo](https://open.spotify.com/album/32VPq59sHG028ot4awVMUW) | 3:56 |
 | 47 | [Alma](https://open.spotify.com/track/4adQ8bwjgVTuMbI7s9Ic4A) | [Ravid](https://open.spotify.com/artist/0skRhVJnuKDMGoLkqr1MAL) | [Calm Upon You](https://open.spotify.com/album/3f3ArCl4eIdzCSsyvyBlep) | 3:33 |
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZBIhSC4FGF.md) - [plain]
 | 108 | [Ethnic Spirit](https://open.spotify.com/track/5F2sIZrGyOOdu1pnLRMcHb) | [Natural Healing Music Zone](https://open.spotify.com/artist/7yrrBoat3imi8RJTlmYXfz) | [African Healing Dance Therapy \- Tribal Trip, Ethno Lullaby, Vital Trance, Shamanic Serenity, Safari Sunrise](https://open.spotify.com/album/2BamWXOnKROZeTh0VW775W) | 3:22 |
 | 109 | [Orange Crush](https://open.spotify.com/track/6oyq0dO8TRMJlSV1UrUW0o) | [Meh Met](https://open.spotify.com/artist/215AS9kH8CZt63FZwq8hln) | [Elway](https://open.spotify.com/album/02EZpBqivdZyL5feXvH0bg) | 2:42 |
 
-Snapshot ID: `aDcgqgAAAAClL7A+ShaRkdaWKztyg7Iy`
+Snapshot ID: `aDcgqgAAAADEkFVE1yih0SRulQiyDwWU`

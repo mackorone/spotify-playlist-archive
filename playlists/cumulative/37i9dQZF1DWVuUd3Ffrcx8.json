@@ -3757,6 +3757,24 @@
     },
     {
       "album": {
+        "name": "High As You",
+        "url": "https://open.spotify.com/album/20wR6ZaGJNysR8vG0IYQiP"
+      },
+      "artists": [
+        {
+          "name": "Mark Tuan",
+          "url": "https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171481,
+      "name": "High As You",
+      "url": "https://open.spotify.com/track/2OzmmSS0rI5o9eLeBKyVI3"
+    },
+    {
+      "album": {
         "name": "Holidays",
         "url": "https://open.spotify.com/album/2ThtBfqXl82TjNx76GYqK2"
       },
@@ -5140,10 +5158,28 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 176214,
       "name": "Lovin Myself",
       "url": "https://open.spotify.com/track/2ttIodvY52FYgod5qrcQHN"
+    },
+    {
+      "album": {
+        "name": "Lovin Myself",
+        "url": "https://open.spotify.com/album/46imvgcmQp7PSY6CNi44FJ"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176214,
+      "name": "Lovin Myself",
+      "url": "https://open.spotify.com/track/5B8rhn2xLCe4RZVfbCLHKg"
     },
     {
       "album": {
@@ -9992,6 +10028,28 @@
       "duration_ms": 254842,
       "name": "\u540d\u524d\u306e\u306a\u3044\u65e5\u3005",
       "url": "https://open.spotify.com/track/78rUMtPs1p2zFebeMcmCZB"
+    },
+    {
+      "album": {
+        "name": "\u6587\u901a",
+        "url": "https://open.spotify.com/album/72AKPZX0qZbQGvulknFOpo"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        },
+        {
+          "name": "Yumi Matsutoya",
+          "url": "https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226760,
+      "name": "\u6587\u901a",
+      "url": "https://open.spotify.com/track/1MhkgWuOIiwYaKbTnOgtBW"
     },
     {
       "album": {

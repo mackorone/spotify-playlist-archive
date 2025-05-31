@@ -155,6 +155,28 @@
     },
     {
       "album": {
+        "name": "Alone (Four Tet Remix)",
+        "url": "https://open.spotify.com/album/4NeAALY2Y5w5UnEaVmqjgp"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        },
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376279,
+      "name": "Alone - Four Tet Remix",
+      "url": "https://open.spotify.com/track/33gpxTp8FlcGTyj9ksswGe"
+    },
+    {
+      "album": {
         "name": "Along Came Polly (Konstantin Sibold, ZAC, CARMEE Remix)",
         "url": "https://open.spotify.com/album/7md037HhJVbNKMR6V2y4JE"
       },
@@ -248,10 +270,36 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 199335,
       "name": "Angel In The Dark",
       "url": "https://open.spotify.com/track/1omZLqRQ0nyXJwwYw94GPb"
+    },
+    {
+      "album": {
+        "name": "The End Of Genesys",
+        "url": "https://open.spotify.com/album/5S4MqmLI8xaLzLBH0wgxEu"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Massano",
+          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
+        },
+        {
+          "name": "Nathan Nicholson",
+          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199335,
+      "name": "Angel In The Dark",
+      "url": "https://open.spotify.com/track/5GRJ5mXnz8dalhWY14HZcV"
     },
     {
       "album": {
@@ -266,7 +314,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 342626,
       "name": "Aran",
       "url": "https://open.spotify.com/track/1smaJguPb8Psb3t4Jkds9X"
@@ -416,6 +464,28 @@
       "duration_ms": 426773,
       "name": "At Your Gamut",
       "url": "https://open.spotify.com/track/2uJJfL2Yp7dcXTh2zdVQkN"
+    },
+    {
+      "album": {
+        "name": "The End Of Genesys",
+        "url": "https://open.spotify.com/album/5S4MqmLI8xaLzLBH0wgxEu"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Chris Avantgarde",
+          "url": "https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223242,
+      "name": "Atmosphere",
+      "url": "https://open.spotify.com/track/2RKcBKql2uxI11EvC2uMi3"
     },
     {
       "album": {
@@ -858,7 +928,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 255710,
       "name": "Chronic",
       "url": "https://open.spotify.com/track/12r1B8oljdg4HyC5YKI2rZ"
@@ -1040,7 +1110,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 240495,
       "name": "Colossal",
       "url": "https://open.spotify.com/track/3so70hAlmiYsFhAcbLjIfc"
@@ -1269,6 +1339,28 @@
     },
     {
       "album": {
+        "name": "Day 'N' Night",
+        "url": "https://open.spotify.com/album/4d0wAKNT8j7yA81BxRHQXm"
+      },
+      "artists": [
+        {
+          "name": "Konstantin Sibold",
+          "url": "https://open.spotify.com/artist/5Ls75umF4lBOQVp3pJAlbW"
+        },
+        {
+          "name": "Adam Sellouk",
+          "url": "https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216190,
+      "name": "Day 'N' Night",
+      "url": "https://open.spotify.com/track/1zwRpZQb4XA0ARgodmAGL2"
+    },
+    {
+      "album": {
         "name": "Deep Space",
         "url": "https://open.spotify.com/album/2FoPae81NmFY9puNcEcsSk"
       },
@@ -1284,7 +1376,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 181209,
       "name": "Deep Space",
       "url": "https://open.spotify.com/track/41HQKuY6idlPq9W7MeiNbS"
@@ -1423,6 +1515,24 @@
     },
     {
       "album": {
+        "name": "Do For Your Love",
+        "url": "https://open.spotify.com/album/3bXzAamzshpdQlDn3ijyCT"
+      },
+      "artists": [
+        {
+          "name": "Notre Dame",
+          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245211,
+      "name": "Do For Your Love",
+      "url": "https://open.spotify.com/track/3kg6XwcUY1eRJ3ntWvZeSY"
+    },
+    {
+      "album": {
         "name": "Dolce veleno",
         "url": "https://open.spotify.com/album/24oAypfV3Y8Cvy1AmAJDQG"
       },
@@ -1493,6 +1603,24 @@
     },
     {
       "album": {
+        "name": "Dreamachine",
+        "url": "https://open.spotify.com/album/2KJ8G7agmKdJK89xPrcrMN"
+      },
+      "artists": [
+        {
+          "name": "Hiver",
+          "url": "https://open.spotify.com/artist/5bbog2TKLmx1kqzNER54ZI"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306093,
+      "name": "Dreamachine",
+      "url": "https://open.spotify.com/track/2OJbaIqQgRaqe4qxN41AJV"
+    },
+    {
+      "album": {
         "name": "Dreamcatcher",
         "url": "https://open.spotify.com/album/3fjsQVB2BQ9yGDe35IpmuQ"
       },
@@ -1552,7 +1680,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 261903,
       "name": "Dreamstates",
       "url": "https://open.spotify.com/track/6psagJHn3ApMiiMCWR0CAV"
@@ -1570,7 +1698,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 209523,
       "name": "Dun Dun",
       "url": "https://open.spotify.com/track/48XuAKxSzr3nJBeU1yf0KM"
@@ -1614,6 +1742,32 @@
       "duration_ms": 317382,
       "name": "Endeavour - Yubik Remix",
       "url": "https://open.spotify.com/track/2vzJKatRMtJnP2oBeu4f6x"
+    },
+    {
+      "album": {
+        "name": "The End Of Genesys",
+        "url": "https://open.spotify.com/album/5S4MqmLI8xaLzLBH0wgxEu"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "fknsyd",
+          "url": "https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184242,
+      "name": "Entropy (feat. fknsyd)",
+      "url": "https://open.spotify.com/track/5qzyfGzhUm5YoruJeQRtiI"
     },
     {
       "album": {
@@ -2055,6 +2209,28 @@
     },
     {
       "album": {
+        "name": "The End Of Genesys",
+        "url": "https://open.spotify.com/album/5S4MqmLI8xaLzLBH0wgxEu"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Sevdaliza",
+          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159375,
+      "name": "Fortuna (feat. Sevdaliza)",
+      "url": "https://open.spotify.com/track/5pAmSfN53jyhPTDA0pvoCO"
+    },
+    {
+      "album": {
         "name": "fabric presents Mind Against: Exclusives",
         "url": "https://open.spotify.com/album/0ATO1xXlH9Y6g6TyqA46ZS"
       },
@@ -2332,10 +2508,28 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 229744,
       "name": "Hear Me Now",
       "url": "https://open.spotify.com/track/1IPZfbfenyYPTg45HcNxgS"
+    },
+    {
+      "album": {
+        "name": "Heat",
+        "url": "https://open.spotify.com/album/2H3i9gfwWUxDVJKkKsvanf"
+      },
+      "artists": [
+        {
+          "name": "JUNO ( DE )",
+          "url": "https://open.spotify.com/artist/6H0Lbuc95DxzpDkKdwnYQ3"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267768,
+      "name": "Heat",
+      "url": "https://open.spotify.com/track/6pkR3IU8zXngIXbUjV2gVe"
     },
     {
       "album": {
@@ -2354,6 +2548,28 @@
       "duration_ms": 205440,
       "name": "Hera - Radio Edit",
       "url": "https://open.spotify.com/track/0jKXCKiiW0HBsWVJSrg713"
+    },
+    {
+      "album": {
+        "name": "High Street Remixes EP",
+        "url": "https://open.spotify.com/album/4PaScJ9nWTATvbOHpYYMRQ"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        },
+        {
+          "name": "Astrix",
+          "url": "https://open.spotify.com/artist/3dUltShd2gJQc98Kc7Syit"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 504347,
+      "name": "High Street - Astrix Remix",
+      "url": "https://open.spotify.com/track/2aXisW2ZScuxitKImCxk3A"
     },
     {
       "album": {
@@ -2453,6 +2669,28 @@
     },
     {
       "album": {
+        "name": "The End Of Genesys",
+        "url": "https://open.spotify.com/album/5S4MqmLI8xaLzLBH0wgxEu"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Luke Steele",
+          "url": "https://open.spotify.com/artist/0CliOhi161ZCRIVw60prp0"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190726,
+      "name": "Human Now (feat. Luke Steele)",
+      "url": "https://open.spotify.com/track/3Ta75DXRTpZ0XieWHuhjE4"
+    },
+    {
+      "album": {
         "name": "Hypnotized",
         "url": "https://open.spotify.com/album/4k0x8hi3zxwSKNxkcYX67J"
       },
@@ -2468,10 +2706,32 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 180540,
       "name": "Hypnotized (feat. Ellie Goulding)",
       "url": "https://open.spotify.com/track/16qhKHGz2mDlFrxvNLYeHW"
+    },
+    {
+      "album": {
+        "name": "The End Of Genesys",
+        "url": "https://open.spotify.com/album/5S4MqmLI8xaLzLBH0wgxEu"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180540,
+      "name": "Hypnotized (feat. Ellie Goulding)",
+      "url": "https://open.spotify.com/track/6mAIXsvt8eEIKSskw3YPth"
     },
     {
       "album": {
@@ -2594,6 +2854,28 @@
       "duration_ms": 266056,
       "name": "In Mindibu (Rival Consoles Remix)",
       "url": "https://open.spotify.com/track/7nhWztlK9Vz43i1qNTziIP"
+    },
+    {
+      "album": {
+        "name": "The End Of Genesys",
+        "url": "https://open.spotify.com/album/5S4MqmLI8xaLzLBH0wgxEu"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "SCRIPT",
+          "url": "https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210453,
+      "name": "In My Mind",
+      "url": "https://open.spotify.com/track/5kGNghKaOm4WCTNFAdmnDX"
     },
     {
       "album": {
@@ -2740,6 +3022,28 @@
       "duration_ms": 339346,
       "name": "Jai",
       "url": "https://open.spotify.com/track/6HDoLdhrVeqJhyPZdXjwqG"
+    },
+    {
+      "album": {
+        "name": "The End Of Genesys",
+        "url": "https://open.spotify.com/album/5S4MqmLI8xaLzLBH0wgxEu"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260250,
+      "name": "Joke\u2019s On You (feat. 070 Shake)",
+      "url": "https://open.spotify.com/track/1Ye0KbfTJJWJRrzukWGfeo"
     },
     {
       "album": {
@@ -2915,6 +3219,28 @@
     },
     {
       "album": {
+        "name": "The End Of Genesys",
+        "url": "https://open.spotify.com/album/5S4MqmLI8xaLzLBH0wgxEu"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "MAGNUS",
+          "url": "https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255966,
+      "name": "Leave A Mark",
+      "url": "https://open.spotify.com/track/2b6nVetZ3mWPUf6qjwDJJB"
+    },
+    {
+      "album": {
         "name": "Leaving Earth",
         "url": "https://open.spotify.com/album/751Dn5vH2f5uLyjUB5cYje"
       },
@@ -2982,6 +3308,24 @@
       "duration_ms": 203225,
       "name": "Look At You",
       "url": "https://open.spotify.com/track/1OBa351gDcE1HWUsfaTCCy"
+    },
+    {
+      "album": {
+        "name": "The End Of Genesys",
+        "url": "https://open.spotify.com/album/5S4MqmLI8xaLzLBH0wgxEu"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113093,
+      "name": "Lucente",
+      "url": "https://open.spotify.com/track/7LXOit8joEZPT4WWyRymS9"
     },
     {
       "album": {
@@ -3389,6 +3733,28 @@
     },
     {
       "album": {
+        "name": "The End Of Genesys",
+        "url": "https://open.spotify.com/album/5S4MqmLI8xaLzLBH0wgxEu"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Baset",
+          "url": "https://open.spotify.com/artist/7ICFbeWRkxZ9JppxYRhtBl"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190371,
+      "name": "Neverland (From Japan)",
+      "url": "https://open.spotify.com/track/2rYwnWnBiy3ESNSp4hUJMo"
+    },
+    {
+      "album": {
         "name": "Neverland (From Japan)",
         "url": "https://open.spotify.com/album/4zPZDCB6p9Jv2YyqdCuhSH"
       },
@@ -3404,7 +3770,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 190371,
       "name": "Neverland (From Japan)",
       "url": "https://open.spotify.com/track/4GkGjg7uYvqcZvkTV4rrnu"
@@ -3434,6 +3800,32 @@
       "duration_ms": 418528,
       "name": "Night After Night - CamelPhat Remix",
       "url": "https://open.spotify.com/track/2Nq06gpBMrjYnBLpi0cNYy"
+    },
+    {
+      "album": {
+        "name": "No Enemies (feat. Namasenda)",
+        "url": "https://open.spotify.com/album/7pvzIp85EdrRsBMN1SDW5p"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Ingrosso",
+          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
+        },
+        {
+          "name": "Steve Angello",
+          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+        },
+        {
+          "name": "Namasenda",
+          "url": "https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160768,
+      "name": "No Enemies (feat. Namasenda)",
+      "url": "https://open.spotify.com/track/55gp7v87CYS1lxWQ5ho5nK"
     },
     {
       "album": {
@@ -3980,7 +4372,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 282247,
       "name": "Perception",
       "url": "https://open.spotify.com/track/1ekuYNPiJXmXqb92TORiPX"
@@ -4256,7 +4648,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 193700,
       "name": "RITMO",
       "url": "https://open.spotify.com/track/3ifvaAvaSYo1WDWXxAiv2A"
@@ -4300,7 +4692,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 336000,
       "name": "Saga",
       "url": "https://open.spotify.com/track/1uujki6DaepMXtCRv4ySKi"
@@ -4488,7 +4880,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 231201,
       "name": "Shut Down",
       "url": "https://open.spotify.com/track/523wSycZHBw4R3qjCZl9qM"
@@ -4510,7 +4902,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 201500,
       "name": "Sierra",
       "url": "https://open.spotify.com/track/5c4gtyaea8i7H1BqRyb2Xp"
@@ -4576,6 +4968,28 @@
       "duration_ms": 377419,
       "name": "Sixth Dimension - Original Mix",
       "url": "https://open.spotify.com/track/3XYeV9fGkgqRAP5itt4idN"
+    },
+    {
+      "album": {
+        "name": "So Good (GENESI Remix)",
+        "url": "https://open.spotify.com/album/7viGWiOQfiq8KXYlKgGQtu"
+      },
+      "artists": [
+        {
+          "name": "Nosi",
+          "url": "https://open.spotify.com/artist/4XECs6DHU3xRrr0uydWY2R"
+        },
+        {
+          "name": "GENESI",
+          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182178,
+      "name": "So Good (GENESI Remix)",
+      "url": "https://open.spotify.com/track/6Vmw2zW2cchWRSySsljAUo"
     },
     {
       "album": {
@@ -4758,7 +5172,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 192284,
       "name": "Syren - Adam Sellouk Remix",
       "url": "https://open.spotify.com/track/3xZp6ajHw5LLgA2LhA64XZ"
@@ -4812,10 +5226,32 @@
       ],
       "date_added": "2025-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 244590,
       "name": "Talking",
       "url": "https://open.spotify.com/track/53pGJNOTQbGhDSgETn8h1K"
+    },
+    {
+      "album": {
+        "name": "The End Of Genesys",
+        "url": "https://open.spotify.com/album/5S4MqmLI8xaLzLBH0wgxEu"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202440,
+      "name": "Taratata (with Grimes)",
+      "url": "https://open.spotify.com/track/3GiDTOsqG5WMjWTnmtbby2"
     },
     {
       "album": {
@@ -4907,6 +5343,28 @@
     },
     {
       "album": {
+        "name": "The End Of Genesys",
+        "url": "https://open.spotify.com/album/5S4MqmLI8xaLzLBH0wgxEu"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Y do I",
+          "url": "https://open.spotify.com/artist/4GVWch4tEmNGIx9gAWrnex"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201302,
+      "name": "The End Of Genesys",
+      "url": "https://open.spotify.com/track/5WJhBV5ZHOWaRtZwnfYurJ"
+    },
+    {
+      "album": {
         "name": "In My System EP",
         "url": "https://open.spotify.com/album/2qIcJiNHC3TOROP79PFEYm"
       },
@@ -4958,7 +5416,7 @@
       ],
       "date_added": "2025-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 263520,
       "name": "The Future Is Unknown",
       "url": "https://open.spotify.com/track/4CvvIoMzXxXTzvGPT9nBNO"
@@ -4976,7 +5434,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 215521,
       "name": "The Light",
       "url": "https://open.spotify.com/track/6qwC8vjpa2mzkkpdXgwC9U"
@@ -5034,7 +5492,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 213495,
       "name": "The Sign",
       "url": "https://open.spotify.com/track/0hjRzBuGh9qGGzcbW7xK12"
@@ -5199,6 +5657,24 @@
     },
     {
       "album": {
+        "name": "To Trajad\u00e3o",
+        "url": "https://open.spotify.com/album/3zXzIQOQTvQqOHOSNxz9OK"
+      },
+      "artists": [
+        {
+          "name": "Goom Gum",
+          "url": "https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240758,
+      "name": "To Trajad\u00e3o",
+      "url": "https://open.spotify.com/track/0E2vBJgiR305t4jQ5d8NFH"
+    },
+    {
+      "album": {
         "name": "Realm Of Consciousness Pt. VI",
         "url": "https://open.spotify.com/album/69XacGhPgd7BbJCfnhUhob"
       },
@@ -5214,7 +5690,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 359032,
       "name": "Tokyo Nights",
       "url": "https://open.spotify.com/track/1oJzfURANDsyf45jMrix5w"
@@ -5367,6 +5843,24 @@
     },
     {
       "album": {
+        "name": "Viento EP",
+        "url": "https://open.spotify.com/album/3hDDHGN0YNff3d31AkRGaV"
+      },
+      "artists": [
+        {
+          "name": "Funk Tribu",
+          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217840,
+      "name": "Viento",
+      "url": "https://open.spotify.com/track/1aLfpxEUwwrB2zItNq7wrd"
+    },
+    {
+      "album": {
         "name": "Realm Of Consciousness Pt. VI",
         "url": "https://open.spotify.com/album/69XacGhPgd7BbJCfnhUhob"
       },
@@ -5403,6 +5897,32 @@
     },
     {
       "album": {
+        "name": "The End Of Genesys",
+        "url": "https://open.spotify.com/album/5S4MqmLI8xaLzLBH0wgxEu"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+        },
+        {
+          "name": "Son of Son",
+          "url": "https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146308,
+      "name": "Voices In My Head",
+      "url": "https://open.spotify.com/track/05y9EYjVL7lcxesRLAKkvb"
+    },
+    {
+      "album": {
         "name": "Voices In My Head",
         "url": "https://open.spotify.com/album/3oqyPmPlaemFapxrymzwef"
       },
@@ -5422,7 +5942,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 146308,
       "name": "Voices In My Head",
       "url": "https://open.spotify.com/track/7pS1ts9rfwuSOMu2kZkBZ7"
@@ -5444,7 +5964,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 269062,
       "name": "Walking With A Ghost (feat. Delhia De France)",
       "url": "https://open.spotify.com/track/2LcaeVp0rTIhpS3cF8rlz2"
@@ -5606,7 +6126,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 202500,
       "name": "Where I'm From",
       "url": "https://open.spotify.com/track/0JFNTfRWLqQ09z9ZHldX8d"
@@ -5650,10 +6170,32 @@
       ],
       "date_added": "2025-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 174254,
       "name": "Work (feat. Yeat)",
       "url": "https://open.spotify.com/track/6Xl6w3XXqVCcUAfMPQbMMJ"
+    },
+    {
+      "album": {
+        "name": "The End Of Genesys",
+        "url": "https://open.spotify.com/album/5S4MqmLI8xaLzLBH0wgxEu"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174314,
+      "name": "Work (feat. Yeat)",
+      "url": "https://open.spotify.com/track/4KAhwWsczSfEaafQHl32hZ"
     },
     {
       "album": {

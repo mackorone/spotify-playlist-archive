@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: HODARI",
-  "num_followers": 371497,
+  "num_followers": 371487,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "aDkfPQAAAAC6RY4BAVVbP+i49qdEONjF",
   "tracks": [
+    {
+      "added_at": "2025-05-30 03:00:13",
+      "album": {
+        "name": "IRADOH",
+        "url": "https://open.spotify.com/album/4WgX6CsBHsZ8D3QzQEYFdS"
+      },
+      "artists": [
+        {
+          "name": "HODARI",
+          "url": "https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67"
+        }
+      ],
+      "duration_ms": 169484,
+      "name": "Longe De Mim",
+      "url": "https://open.spotify.com/track/1vA8qPRhgd9pv2egwvwPjW"
+    },
     {
       "added_at": "2025-05-30 03:00:13",
       "album": {
@@ -35,6 +51,22 @@
     {
       "added_at": "2025-05-30 03:00:13",
       "album": {
+        "name": "As Cores, as Curvas e as Dores do Mundo",
+        "url": "https://open.spotify.com/album/7LHPGpPZV2duyGmI2KthiX"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        }
+      ],
+      "duration_ms": 163185,
+      "name": "A Cidade",
+      "url": "https://open.spotify.com/track/6chCkT8RkDC0kM66HKfPQb"
+    },
+    {
+      "added_at": "2025-05-30 03:00:13",
+      "album": {
         "name": "Coisas Naturais",
         "url": "https://open.spotify.com/album/2PRDU8Oeb9f0lpgSjbaJXE"
       },
@@ -51,18 +83,22 @@
     {
       "added_at": "2025-05-30 03:00:13",
       "album": {
-        "name": "As Cores, as Curvas e as Dores do Mundo",
-        "url": "https://open.spotify.com/album/7LHPGpPZV2duyGmI2KthiX"
+        "name": "FRAGMENTADO",
+        "url": "https://open.spotify.com/album/00EpdnJTbeKfWrc7FI7Q2H"
       },
       "artists": [
         {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "DJ NB",
+          "url": "https://open.spotify.com/artist/2j7erOwXXlSE9yRzigo7wj"
         }
       ],
-      "duration_ms": 163185,
-      "name": "A Cidade",
-      "url": "https://open.spotify.com/track/6chCkT8RkDC0kM66HKfPQb"
+      "duration_ms": 182124,
+      "name": "COMPLEXO",
+      "url": "https://open.spotify.com/track/0Ra8z7O5XHfkVs3JtNzzys"
     },
     {
       "added_at": "2025-05-30 03:00:13",
@@ -107,26 +143,18 @@
     {
       "added_at": "2025-05-30 03:00:13",
       "album": {
-        "name": "Minha Arte",
-        "url": "https://open.spotify.com/album/7iccFIRTCqegLpHgfXPMVt"
+        "name": "No Escuro, Quem \u00c9 Voc\u00ea?",
+        "url": "https://open.spotify.com/album/5RibeqZd7ps8S6bhOVHuDk"
       },
       "artists": [
         {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Marcelo Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
         }
       ],
-      "duration_ms": 223912,
-      "name": "Minha Arte",
-      "url": "https://open.spotify.com/track/2INiIszCU5fQt8SFR3SBTQ"
+      "duration_ms": 148411,
+      "name": "Dilemas da vida moderna",
+      "url": "https://open.spotify.com/track/6TKBDgjEsyB2AGprNMpZyy"
     },
     {
       "added_at": "2025-05-30 03:00:13",
@@ -155,18 +183,26 @@
     {
       "added_at": "2025-05-30 03:00:13",
       "album": {
-        "name": "No Escuro, Quem \u00c9 Voc\u00ea?",
-        "url": "https://open.spotify.com/album/5RibeqZd7ps8S6bhOVHuDk"
+        "name": "Minha Arte",
+        "url": "https://open.spotify.com/album/7iccFIRTCqegLpHgfXPMVt"
       },
       "artists": [
         {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Marcelo Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
         }
       ],
-      "duration_ms": 148411,
-      "name": "Dilemas da vida moderna",
-      "url": "https://open.spotify.com/track/6TKBDgjEsyB2AGprNMpZyy"
+      "duration_ms": 223912,
+      "name": "Minha Arte",
+      "url": "https://open.spotify.com/track/2INiIszCU5fQt8SFR3SBTQ"
     },
     {
       "added_at": "2025-05-30 03:00:13",
@@ -299,6 +335,22 @@
     {
       "added_at": "2025-05-30 03:00:13",
       "album": {
+        "name": "Banquete",
+        "url": "https://open.spotify.com/album/5PlWUbus53nhgLsN0qDawN"
+      },
+      "artists": [
+        {
+          "name": "Vivi",
+          "url": "https://open.spotify.com/artist/4UhPHvXjn0st73ksfh8DjU"
+        }
+      ],
+      "duration_ms": 154500,
+      "name": "Banquete",
+      "url": "https://open.spotify.com/track/0ofvSx2IL3cPEqonyjBk85"
+    },
+    {
+      "added_at": "2025-05-30 03:00:13",
+      "album": {
         "name": "Onda",
         "url": "https://open.spotify.com/album/4Ktc4ceQqsUuy5MAFu8Xva"
       },
@@ -355,6 +407,22 @@
     {
       "added_at": "2025-05-30 03:00:13",
       "album": {
+        "name": "Meu endere\u00e7o",
+        "url": "https://open.spotify.com/album/082AP2oJ6S4FbSMl4GuFc0"
+      },
+      "artists": [
+        {
+          "name": "Ana Laura Lopes",
+          "url": "https://open.spotify.com/artist/0uGD30yANzeWbNUAQoiJF2"
+        }
+      ],
+      "duration_ms": 174836,
+      "name": "Andar de baixo",
+      "url": "https://open.spotify.com/track/1HOJwckCwJsHu7gXIXkb8F"
+    },
+    {
+      "added_at": "2025-05-30 03:00:13",
+      "album": {
         "name": "Depois de mim (Merc\u00fario)",
         "url": "https://open.spotify.com/album/12M32MKX2ZiYO0gThn1Wfd"
       },
@@ -375,22 +443,6 @@
     {
       "added_at": "2025-05-30 03:00:13",
       "album": {
-        "name": "Meu endere\u00e7o",
-        "url": "https://open.spotify.com/album/082AP2oJ6S4FbSMl4GuFc0"
-      },
-      "artists": [
-        {
-          "name": "Ana Laura Lopes",
-          "url": "https://open.spotify.com/artist/0uGD30yANzeWbNUAQoiJF2"
-        }
-      ],
-      "duration_ms": 174836,
-      "name": "Andar de baixo",
-      "url": "https://open.spotify.com/track/1HOJwckCwJsHu7gXIXkb8F"
-    },
-    {
-      "added_at": "2025-05-30 03:00:13",
-      "album": {
         "name": "Pode Sair / Pode Ficar",
         "url": "https://open.spotify.com/album/3DGdy9CvatHGlNjFSlsFiS"
       },
@@ -407,22 +459,6 @@
       "duration_ms": 173042,
       "name": "Pode Sair / Pode Ficar",
       "url": "https://open.spotify.com/track/7aDbe2Ga5ptrXhJ5oRReaR"
-    },
-    {
-      "added_at": "2025-05-30 03:00:13",
-      "album": {
-        "name": "Banquete",
-        "url": "https://open.spotify.com/album/5PlWUbus53nhgLsN0qDawN"
-      },
-      "artists": [
-        {
-          "name": "Vivi",
-          "url": "https://open.spotify.com/artist/4UhPHvXjn0st73ksfh8DjU"
-        }
-      ],
-      "duration_ms": 154500,
-      "name": "Banquete",
-      "url": "https://open.spotify.com/track/0ofvSx2IL3cPEqonyjBk85"
     },
     {
       "added_at": "2025-05-30 03:00:13",
@@ -527,22 +563,6 @@
     {
       "added_at": "2025-05-30 03:00:13",
       "album": {
-        "name": "furta-cor",
-        "url": "https://open.spotify.com/album/7qyluPOBlYd6xRLQBqjHgT"
-      },
-      "artists": [
-        {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "furta-cor",
-      "url": "https://open.spotify.com/track/28kKRjAddAbDwKgiZOlseB"
-    },
-    {
-      "added_at": "2025-05-30 03:00:13",
-      "album": {
         "name": "Amar\u00edssima V2 (Remix)",
         "url": "https://open.spotify.com/album/7neKB5LSdNnYiuEUlCqWgm"
       },
@@ -563,6 +583,22 @@
       "duration_ms": 144372,
       "name": "Derreter & Suar - Remix",
       "url": "https://open.spotify.com/track/7lK6SVY3JPTWvDj7G1C5DP"
+    },
+    {
+      "added_at": "2025-05-30 03:00:13",
+      "album": {
+        "name": "furta-cor",
+        "url": "https://open.spotify.com/album/7qyluPOBlYd6xRLQBqjHgT"
+      },
+      "artists": [
+        {
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "furta-cor",
+      "url": "https://open.spotify.com/track/28kKRjAddAbDwKgiZOlseB"
     },
     {
       "added_at": "2025-05-30 03:00:13",
@@ -695,6 +731,38 @@
     {
       "added_at": "2025-05-30 03:00:13",
       "album": {
+        "name": "POR QUE VOC\u00ca FOI EMBORA?",
+        "url": "https://open.spotify.com/album/0FZtyjxOUzRaGfIQoWaFMr"
+      },
+      "artists": [
+        {
+          "name": "Nanasai",
+          "url": "https://open.spotify.com/artist/67PBrqP0nECUumF2AQ8G6S"
+        }
+      ],
+      "duration_ms": 219567,
+      "name": "POR QUE VOC\u00ca FOI EMBORA?",
+      "url": "https://open.spotify.com/track/5ZWbAgMbFbhApQlHVZOFMy"
+    },
+    {
+      "added_at": "2025-05-30 03:00:13",
+      "album": {
+        "name": "Eu Sou O Baile (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3F2LzQJXEjQhgNaOlB7lN1"
+      },
+      "artists": [
+        {
+          "name": "Bianca",
+          "url": "https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg"
+        }
+      ],
+      "duration_ms": 173466,
+      "name": "Edredom - Ao Vivo",
+      "url": "https://open.spotify.com/track/0dU63Og12HTTrCHzFCK36o"
+    },
+    {
+      "added_at": "2025-05-30 03:00:13",
+      "album": {
         "name": "Trama",
         "url": "https://open.spotify.com/album/0cjiJLtUVvsUtxuDfWn2a7"
       },
@@ -723,38 +791,6 @@
     {
       "added_at": "2025-05-30 03:00:13",
       "album": {
-        "name": "Eu Sou O Baile (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3F2LzQJXEjQhgNaOlB7lN1"
-      },
-      "artists": [
-        {
-          "name": "Bianca",
-          "url": "https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg"
-        }
-      ],
-      "duration_ms": 173466,
-      "name": "Edredom - Ao Vivo",
-      "url": "https://open.spotify.com/track/0dU63Og12HTTrCHzFCK36o"
-    },
-    {
-      "added_at": "2025-05-30 03:00:13",
-      "album": {
-        "name": "Sintomas de Prazer - Live",
-        "url": "https://open.spotify.com/album/08eESUu8Nzhm255cuw74X4"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 151103,
-      "name": "Sintomas de Prazer - Live",
-      "url": "https://open.spotify.com/track/32RZ9zfGC4gvkkIm307Fpb"
-    },
-    {
-      "added_at": "2025-05-30 03:00:13",
-      "album": {
         "name": "solto (hist\u00f3rias de amor)",
         "url": "https://open.spotify.com/album/1W8WFozGDueySUZcTJ5eKp"
       },
@@ -771,6 +807,22 @@
       "duration_ms": 190834,
       "name": "solto (hist\u00f3rias de amor)",
       "url": "https://open.spotify.com/track/56RKGwqSeMhb8qSBJLOMSx"
+    },
+    {
+      "added_at": "2025-05-30 03:00:13",
+      "album": {
+        "name": "Sintomas de Prazer - Live",
+        "url": "https://open.spotify.com/album/08eESUu8Nzhm255cuw74X4"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 151103,
+      "name": "Sintomas de Prazer - Live",
+      "url": "https://open.spotify.com/track/32RZ9zfGC4gvkkIm307Fpb"
     },
     {
       "added_at": "2025-05-30 03:00:13",
@@ -831,30 +883,6 @@
     {
       "added_at": "2025-05-30 03:00:13",
       "album": {
-        "name": "Profundamente",
-        "url": "https://open.spotify.com/album/16QOVNFEKIzl4qnoRd2A7o"
-      },
-      "artists": [
-        {
-          "name": "Los Brasileros",
-          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
-        },
-        {
-          "name": "MC Kevin o Chris",
-          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
-        },
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-        }
-      ],
-      "duration_ms": 135319,
-      "name": "Profundamente",
-      "url": "https://open.spotify.com/track/0dQaxEGl5a8vtFxIgqeoDd"
-    },
-    {
-      "added_at": "2025-05-30 03:00:13",
-      "album": {
         "name": "sinto saudade",
         "url": "https://open.spotify.com/album/3uFcpiMyVsArsCE7rH6pvk"
       },
@@ -887,6 +915,30 @@
       "duration_ms": 171581,
       "name": "PROFANO",
       "url": "https://open.spotify.com/track/1ffK3Ja0USyT2MO33OZ9ar"
+    },
+    {
+      "added_at": "2025-05-30 03:00:13",
+      "album": {
+        "name": "Profundamente",
+        "url": "https://open.spotify.com/album/16QOVNFEKIzl4qnoRd2A7o"
+      },
+      "artists": [
+        {
+          "name": "Los Brasileros",
+          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
+        },
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        },
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        }
+      ],
+      "duration_ms": 135319,
+      "name": "Profundamente",
+      "url": "https://open.spotify.com/track/0dQaxEGl5a8vtFxIgqeoDd"
     },
     {
       "added_at": "2025-05-30 03:00:13",
@@ -935,26 +987,6 @@
     {
       "added_at": "2025-05-30 03:00:13",
       "album": {
-        "name": "Dinheiro (L'argent)",
-        "url": "https://open.spotify.com/album/58eoMKm3AAxw54irp5hQO8"
-      },
-      "artists": [
-        {
-          "name": "Hotelo",
-          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
-        },
-        {
-          "name": "Baby Sharon",
-          "url": "https://open.spotify.com/artist/7lJc0gnVuuUx6XBpvg1ZpF"
-        }
-      ],
-      "duration_ms": 145740,
-      "name": "Dinheiro (L'argent)",
-      "url": "https://open.spotify.com/track/2wKXpKApMHqnpd3kn8X1f0"
-    },
-    {
-      "added_at": "2025-05-30 03:00:13",
-      "album": {
         "name": "ANJO",
         "url": "https://open.spotify.com/album/6qHhupVEPR5We3gEM7tnng"
       },
@@ -975,6 +1007,26 @@
       "duration_ms": 167619,
       "name": "P\u00f3s Love",
       "url": "https://open.spotify.com/track/29irNwrelJMk8wublGdvXg"
+    },
+    {
+      "added_at": "2025-05-30 03:00:13",
+      "album": {
+        "name": "Dinheiro (L'argent)",
+        "url": "https://open.spotify.com/album/58eoMKm3AAxw54irp5hQO8"
+      },
+      "artists": [
+        {
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+        },
+        {
+          "name": "Baby Sharon",
+          "url": "https://open.spotify.com/artist/7lJc0gnVuuUx6XBpvg1ZpF"
+        }
+      ],
+      "duration_ms": 145740,
+      "name": "Dinheiro (L'argent)",
+      "url": "https://open.spotify.com/track/2wKXpKApMHqnpd3kn8X1f0"
     },
     {
       "added_at": "2025-05-30 03:00:13",
@@ -1015,22 +1067,6 @@
     {
       "added_at": "2025-05-30 03:00:13",
       "album": {
-        "name": "POR QUE VOC\u00ca FOI EMBORA?",
-        "url": "https://open.spotify.com/album/0FZtyjxOUzRaGfIQoWaFMr"
-      },
-      "artists": [
-        {
-          "name": "Nanasai",
-          "url": "https://open.spotify.com/artist/67PBrqP0nECUumF2AQ8G6S"
-        }
-      ],
-      "duration_ms": 219567,
-      "name": "POR QUE VOC\u00ca FOI EMBORA?",
-      "url": "https://open.spotify.com/track/5ZWbAgMbFbhApQlHVZOFMy"
-    },
-    {
-      "added_at": "2025-05-30 03:00:13",
-      "album": {
         "name": "C\u00edtrico",
         "url": "https://open.spotify.com/album/2QO820M8LgRuuc5XSnXO1P"
       },
@@ -1043,22 +1079,6 @@
       "duration_ms": 164508,
       "name": "C\u00edtrico",
       "url": "https://open.spotify.com/track/1clwNGtQGMLKjTRFjfkZxY"
-    },
-    {
-      "added_at": "2025-05-30 03:00:13",
-      "album": {
-        "name": "N\u00e3o Posso",
-        "url": "https://open.spotify.com/album/36h6bFDEj4yMrdbBTkaXIP"
-      },
-      "artists": [
-        {
-          "name": "Lucas Pretti",
-          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
-        }
-      ],
-      "duration_ms": 147015,
-      "name": "N\u00e3o Posso",
-      "url": "https://open.spotify.com/track/4csVDKebs4B1qjjQt2AoGV"
     },
     {
       "added_at": "2025-05-30 03:00:13",
@@ -1079,6 +1099,22 @@
       "duration_ms": 250742,
       "name": "Meu Talism\u00e3 - Ao Vivo",
       "url": "https://open.spotify.com/track/7vClBnWpfrYVie4vVgqTbR"
+    },
+    {
+      "added_at": "2025-05-30 03:00:13",
+      "album": {
+        "name": "N\u00e3o Posso",
+        "url": "https://open.spotify.com/album/36h6bFDEj4yMrdbBTkaXIP"
+      },
+      "artists": [
+        {
+          "name": "Lucas Pretti",
+          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
+        }
+      ],
+      "duration_ms": 147015,
+      "name": "N\u00e3o Posso",
+      "url": "https://open.spotify.com/track/4csVDKebs4B1qjjQt2AoGV"
     },
     {
       "added_at": "2025-05-30 03:00:13",
@@ -1187,22 +1223,6 @@
     {
       "added_at": "2025-05-30 03:00:13",
       "album": {
-        "name": "Amizade Ou O Que",
-        "url": "https://open.spotify.com/album/3xm2INgwkJcgNtMF0DyuiF"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Germano",
-          "url": "https://open.spotify.com/artist/7rT9dkimFVzgMF0IyIfiYy"
-        }
-      ],
-      "duration_ms": 130340,
-      "name": "Amizade Ou O Que",
-      "url": "https://open.spotify.com/track/6IMpbn04EbrMU34bNWQ3dT"
-    },
-    {
-      "added_at": "2025-05-30 03:00:13",
-      "album": {
         "name": "BAILA",
         "url": "https://open.spotify.com/album/5KwNkyLuja4FqqrQ9M8chO"
       },
@@ -1223,22 +1243,18 @@
     {
       "added_at": "2025-05-30 03:00:13",
       "album": {
-        "name": "Raro Veneno",
-        "url": "https://open.spotify.com/album/18Nne0ZS8Jbml04xfPMOOY"
+        "name": "Amizade Ou O Que",
+        "url": "https://open.spotify.com/album/3xm2INgwkJcgNtMF0DyuiF"
       },
       "artists": [
         {
-          "name": "Paradise Guerrilla",
-          "url": "https://open.spotify.com/artist/6Ln3eKTHXP2hFsHsjMv6fo"
-        },
-        {
-          "name": "Mvzza",
-          "url": "https://open.spotify.com/artist/2fkE2uxHML1rUsTu0h5LJf"
+          "name": "Nicolas Germano",
+          "url": "https://open.spotify.com/artist/7rT9dkimFVzgMF0IyIfiYy"
         }
       ],
-      "duration_ms": 178909,
-      "name": "Raro Veneno",
-      "url": "https://open.spotify.com/track/3p9bcUtb4FLdnKQnF0Elos"
+      "duration_ms": 130340,
+      "name": "Amizade Ou O Que",
+      "url": "https://open.spotify.com/track/6IMpbn04EbrMU34bNWQ3dT"
     },
     {
       "added_at": "2025-05-30 03:00:13",
@@ -1255,6 +1271,26 @@
       "duration_ms": 180000,
       "name": "Assome",
       "url": "https://open.spotify.com/track/0NZWoFnMcmLxEK1zENu1dR"
+    },
+    {
+      "added_at": "2025-05-30 03:00:13",
+      "album": {
+        "name": "Raro Veneno",
+        "url": "https://open.spotify.com/album/18Nne0ZS8Jbml04xfPMOOY"
+      },
+      "artists": [
+        {
+          "name": "Paradise Guerrilla",
+          "url": "https://open.spotify.com/artist/6Ln3eKTHXP2hFsHsjMv6fo"
+        },
+        {
+          "name": "Mvzza",
+          "url": "https://open.spotify.com/artist/2fkE2uxHML1rUsTu0h5LJf"
+        }
+      ],
+      "duration_ms": 178909,
+      "name": "Raro Veneno",
+      "url": "https://open.spotify.com/track/3p9bcUtb4FLdnKQnF0Elos"
     },
     {
       "added_at": "2025-05-30 03:00:13",
@@ -1319,6 +1355,42 @@
     {
       "added_at": "2025-05-30 03:00:13",
       "album": {
+        "name": "Mensagem",
+        "url": "https://open.spotify.com/album/3jrQ89guzyabS1ms7U8xXy"
+      },
+      "artists": [
+        {
+          "name": "MARCELA",
+          "url": "https://open.spotify.com/artist/3hFbbks3zwyoCO6GEBu3wt"
+        },
+        {
+          "name": "Zi",
+          "url": "https://open.spotify.com/artist/2w2sJNSGbGQysLUCATWMup"
+        }
+      ],
+      "duration_ms": 148037,
+      "name": "Mensagem",
+      "url": "https://open.spotify.com/track/3pIuEFpcEFLXjFU2PXZVab"
+    },
+    {
+      "added_at": "2025-05-30 03:00:13",
+      "album": {
+        "name": "Divino",
+        "url": "https://open.spotify.com/album/3YGyqU5paBMTvU89uNuwuu"
+      },
+      "artists": [
+        {
+          "name": "Amanda Coronha",
+          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
+        }
+      ],
+      "duration_ms": 168780,
+      "name": "Divino",
+      "url": "https://open.spotify.com/track/5msM5qpDYGHVN6SfSyS7Zy"
+    },
+    {
+      "added_at": "2025-05-30 03:00:13",
+      "album": {
         "name": "Bora pra praia",
         "url": "https://open.spotify.com/album/3p8V4ex0o4XreYjiCYtWPa"
       },
@@ -1343,22 +1415,6 @@
     {
       "added_at": "2025-05-30 03:00:13",
       "album": {
-        "name": "Divino",
-        "url": "https://open.spotify.com/album/3YGyqU5paBMTvU89uNuwuu"
-      },
-      "artists": [
-        {
-          "name": "Amanda Coronha",
-          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
-        }
-      ],
-      "duration_ms": 168780,
-      "name": "Divino",
-      "url": "https://open.spotify.com/track/5msM5qpDYGHVN6SfSyS7Zy"
-    },
-    {
-      "added_at": "2025-05-30 03:00:13",
-      "album": {
         "name": "LUA CHEIA",
         "url": "https://open.spotify.com/album/23Kztdt5FJmH3Jvm1k1wNp"
       },
@@ -1375,26 +1431,6 @@
       "duration_ms": 170089,
       "name": "LUA CHEIA",
       "url": "https://open.spotify.com/track/3Cip8Fq9C3HLtKIcmTPhQi"
-    },
-    {
-      "added_at": "2025-05-30 03:00:13",
-      "album": {
-        "name": "Mensagem",
-        "url": "https://open.spotify.com/album/3jrQ89guzyabS1ms7U8xXy"
-      },
-      "artists": [
-        {
-          "name": "MARCELA",
-          "url": "https://open.spotify.com/artist/3hFbbks3zwyoCO6GEBu3wt"
-        },
-        {
-          "name": "Zi",
-          "url": "https://open.spotify.com/artist/2w2sJNSGbGQysLUCATWMup"
-        }
-      ],
-      "duration_ms": 148037,
-      "name": "Mensagem",
-      "url": "https://open.spotify.com/track/3pIuEFpcEFLXjFU2PXZVab"
     },
     {
       "added_at": "2025-05-30 03:00:13",
@@ -1623,22 +1659,6 @@
     {
       "added_at": "2025-05-30 03:00:13",
       "album": {
-        "name": "IRADOH",
-        "url": "https://open.spotify.com/album/4WgX6CsBHsZ8D3QzQEYFdS"
-      },
-      "artists": [
-        {
-          "name": "HODARI",
-          "url": "https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67"
-        }
-      ],
-      "duration_ms": 169484,
-      "name": "Longe De Mim",
-      "url": "https://open.spotify.com/track/1vA8qPRhgd9pv2egwvwPjW"
-    },
-    {
-      "added_at": "2025-05-30 03:00:13",
-      "album": {
         "name": "Vis\u00f5es",
         "url": "https://open.spotify.com/album/1WKOJzsIGF9y2ZxWysT9R7"
       },
@@ -1671,22 +1691,6 @@
       "duration_ms": 132571,
       "name": "na minha mente",
       "url": "https://open.spotify.com/track/3d417Hpt0CvBjXhB1Gyh3u"
-    },
-    {
-      "added_at": "2025-05-30 03:00:13",
-      "album": {
-        "name": "FRAGMENTADO",
-        "url": "https://open.spotify.com/album/00EpdnJTbeKfWrc7FI7Q2H"
-      },
-      "artists": [
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        }
-      ],
-      "duration_ms": 182124,
-      "name": "COMPLEXO",
-      "url": "https://open.spotify.com/track/0Ra8z7O5XHfkVs3JtNzzys"
     }
   ],
   "unique_name": "Palco POP",

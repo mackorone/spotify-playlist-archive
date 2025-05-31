@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Fresh eclectic. Post-genre. Exceptional taste. Cover: Getdown Services",
+  "description": "Fresh eclectic. Post-genre. Exceptional taste. Cover: Cruel Sister",
   "name": "The Basement",
   "tracks": [
     {
@@ -168,6 +168,24 @@
       "duration_ms": 212202,
       "name": "ANOTHER DOMESTIC",
       "url": "https://open.spotify.com/track/34bpAWuXq9b0Fz5j0eyc6K"
+    },
+    {
+      "album": {
+        "name": "Anteater",
+        "url": "https://open.spotify.com/album/5I6jjgAkwMBqCTa6AvLElZ"
+      },
+      "artists": [
+        {
+          "name": "The Family Battenberg",
+          "url": "https://open.spotify.com/artist/769i8WlIx04arCTdFaIvbd"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197506,
+      "name": "Anteater",
+      "url": "https://open.spotify.com/track/3s2dg3OgwdKoz8CFhy8QqZ"
     },
     {
       "album": {
@@ -590,7 +608,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 184514,
       "name": "Can't Explain",
       "url": "https://open.spotify.com/track/6xtTUdt57taQU9LBu3MNPC"
@@ -713,6 +731,24 @@
     },
     {
       "album": {
+        "name": "Chrysalis",
+        "url": "https://open.spotify.com/album/5JUBmHorgabNcHUb8fbtxy"
+      },
+      "artists": [
+        {
+          "name": "Getdown Services",
+          "url": "https://open.spotify.com/artist/4OTD2AbOu5iBqSWk3NfwG5"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Chrysalis",
+      "url": "https://open.spotify.com/track/4j9tHe6pw1ljHc30IivKYT"
+    },
+    {
+      "album": {
         "name": "Church Music",
         "url": "https://open.spotify.com/album/5EQn4CO9cSBtqsa9rMCcDA"
       },
@@ -818,6 +854,24 @@
       "duration_ms": 148504,
       "name": "Cranium",
       "url": "https://open.spotify.com/track/749zlkeyfz7is44tqB7t1O"
+    },
+    {
+      "album": {
+        "name": "Crash Out",
+        "url": "https://open.spotify.com/album/1OgA2o8ej0Hw76zGVhNv23"
+      },
+      "artists": [
+        {
+          "name": "Sn\u00f5\u00f5per",
+          "url": "https://open.spotify.com/artist/197lTCdMFPariBJ2Xd1xNb"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169257,
+      "name": "Crash Out",
+      "url": "https://open.spotify.com/track/0FXh6XVV5BWtGrCfYSwNXH"
     },
     {
       "album": {
@@ -1077,6 +1131,24 @@
     },
     {
       "album": {
+        "name": "dot cotton",
+        "url": "https://open.spotify.com/album/6Q00BH7x0K1LZUrDIfdND6"
+      },
+      "artists": [
+        {
+          "name": "shortstraw.",
+          "url": "https://open.spotify.com/artist/3qlFWAsq8StLpupHiBDVND"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199241,
+      "name": "dot cotton",
+      "url": "https://open.spotify.com/track/5N86HWyYZhgNK3f1O0Sc6h"
+    },
+    {
+      "album": {
         "name": "Dream With You",
         "url": "https://open.spotify.com/album/0hOv3G09E7fOjFe1Q8Iedu"
       },
@@ -1154,7 +1226,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 233500,
       "name": "Eat Quiche, Sleep, Repeat",
       "url": "https://open.spotify.com/track/7fDiApidJ0QXtwH8cvozlj"
@@ -1395,6 +1467,24 @@
     },
     {
       "album": {
+        "name": "GREEN LIGHTS",
+        "url": "https://open.spotify.com/album/724Pv2WGqwzvmxahTaEtOn"
+      },
+      "artists": [
+        {
+          "name": "Sweets",
+          "url": "https://open.spotify.com/artist/55Fw9imZATr8gM4uzL12T3"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206511,
+      "name": "GREEN LIGHTS",
+      "url": "https://open.spotify.com/track/5qwmGKmnUfrxlI6PCeP03E"
+    },
+    {
+      "album": {
         "name": "grips",
         "url": "https://open.spotify.com/album/71uZd2dScWHUmpKLV3QyWX"
       },
@@ -1464,6 +1554,24 @@
       "duration_ms": 197395,
       "name": "Hate",
       "url": "https://open.spotify.com/track/16XyEgAXPMjdZB9xp6JbfL"
+    },
+    {
+      "album": {
+        "name": "Heaven Is Ours",
+        "url": "https://open.spotify.com/album/1l7CAWNvwzaT8K15MQKuqG"
+      },
+      "artists": [
+        {
+          "name": "Mitch Sanders",
+          "url": "https://open.spotify.com/artist/7HedZ72Eue9RBASoQXqQWf"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241874,
+      "name": "Heaven Is Ours",
+      "url": "https://open.spotify.com/track/16DTIYTIQ1oCOh2Pc9Mufi"
     },
     {
       "album": {
@@ -1673,6 +1781,24 @@
     },
     {
       "album": {
+        "name": "IRON PILLS",
+        "url": "https://open.spotify.com/album/6ZDdc3VxbvV2iun2T5RhcO"
+      },
+      "artists": [
+        {
+          "name": "Cruel Sister",
+          "url": "https://open.spotify.com/artist/3SZEdCibGdV5nwK99zdvs2"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198876,
+      "name": "IRON PILLS",
+      "url": "https://open.spotify.com/track/0H9EoYRfDNaLmG6qNybojS"
+    },
+    {
+      "album": {
         "name": "Jealousy",
         "url": "https://open.spotify.com/album/4JbBt99bWo8EdOKjivVUNu"
       },
@@ -1790,6 +1916,32 @@
       "duration_ms": 190358,
       "name": "Kind of Woman",
       "url": "https://open.spotify.com/track/6Z15SII2vu4TxSqL4Upaq7"
+    },
+    {
+      "album": {
+        "name": "Kinda Like That (ft. Kassie Krut)",
+        "url": "https://open.spotify.com/album/055fxq4sK7ncUqE9JyIOHI"
+      },
+      "artists": [
+        {
+          "name": "Surusinghe",
+          "url": "https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe"
+        },
+        {
+          "name": "Cameo Blush",
+          "url": "https://open.spotify.com/artist/2Lx2CAHHQ2IC1iXjS6Y70v"
+        },
+        {
+          "name": "Kassie Krut",
+          "url": "https://open.spotify.com/artist/7GblQfA1PogV6RMgys9a7X"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245687,
+      "name": "Kinda Like That (ft. Kassie Krut)",
+      "url": "https://open.spotify.com/track/4VIROWRp3bCbdFF6xpRpKD"
     },
     {
       "album": {
@@ -2020,7 +2172,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 136000,
       "name": "Loved You Then And Now Again",
       "url": "https://open.spotify.com/track/5qOj6ZoX3ZOgpbcYD3yZLl"
@@ -2373,6 +2525,42 @@
     },
     {
       "album": {
+        "name": "Obsolete",
+        "url": "https://open.spotify.com/album/7BrEEAvClSZ2oqhQvsbZOH"
+      },
+      "artists": [
+        {
+          "name": "The Sick Man Of Europe",
+          "url": "https://open.spotify.com/artist/4MfLAsjMG5jsbPxD4r5DuD"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364120,
+      "name": "Obsolete",
+      "url": "https://open.spotify.com/track/22l1nHIGYn48Enx5jaZW4d"
+    },
+    {
+      "album": {
+        "name": "Of The Sorrows",
+        "url": "https://open.spotify.com/album/74FsSXffJtdMdsUHmn9NBY"
+      },
+      "artists": [
+        {
+          "name": "For Those I Love",
+          "url": "https://open.spotify.com/artist/3X4mDEa1fff0zpbBp8wiOZ"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333669,
+      "name": "Of The Sorrows",
+      "url": "https://open.spotify.com/track/3liBzXCnXG0oserFPXFS8R"
+    },
+    {
+      "album": {
         "name": "IN MY BEDROOM",
         "url": "https://open.spotify.com/album/5Yq2hTPUeZMTFKhGb1cSNL"
       },
@@ -2499,6 +2687,24 @@
     },
     {
       "album": {
+        "name": "person A",
+        "url": "https://open.spotify.com/album/2xUL6uM2VXLESapcdVKEAJ"
+      },
+      "artists": [
+        {
+          "name": "Retail Drugs",
+          "url": "https://open.spotify.com/artist/20E1xPsDShhr1qcVPStW3v"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116866,
+      "name": "person A",
+      "url": "https://open.spotify.com/track/1eecXtLAUrZuan0sNiYPky"
+    },
+    {
+      "album": {
         "name": "PILL",
         "url": "https://open.spotify.com/album/1EEeffrc8nXeuiTxT1uOkE"
       },
@@ -2554,6 +2760,24 @@
       "duration_ms": 238480,
       "name": "please be ok",
       "url": "https://open.spotify.com/track/1kDF6EDCGnSTjbIhjcslwb"
+    },
+    {
+      "album": {
+        "name": "Please!",
+        "url": "https://open.spotify.com/album/3I7rWu0gMmsN2vST0zlufA"
+      },
+      "artists": [
+        {
+          "name": "Toni Sancho",
+          "url": "https://open.spotify.com/artist/4SpaShKE14x1P5jTruqwIK"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213926,
+      "name": "Please!",
+      "url": "https://open.spotify.com/track/7nv1rVjp4UV0yVwIVXyRN7"
     },
     {
       "album": {
@@ -2904,7 +3128,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 246196,
       "name": "Silent Corners",
       "url": "https://open.spotify.com/track/18jdrAHnog2uG5fxVhhvD0"
@@ -3263,6 +3487,24 @@
     },
     {
       "album": {
+        "name": "The View From Your Room",
+        "url": "https://open.spotify.com/album/75z3cXY8WYibWTxiyhLV0d"
+      },
+      "artists": [
+        {
+          "name": "Lightheaded",
+          "url": "https://open.spotify.com/artist/7oTLtwUXWjKQqJhHTDT3lF"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119005,
+      "name": "The View from Your Room",
+      "url": "https://open.spotify.com/track/4LEVfXWdjo8vqR0XBHU0Vl"
+    },
+    {
+      "album": {
         "name": "the warp // the weft",
         "url": "https://open.spotify.com/album/2KX2Tcl5Vz6UidHs0V1Oq4"
       },
@@ -3296,6 +3538,24 @@
       "duration_ms": 193853,
       "name": "too much tv",
       "url": "https://open.spotify.com/track/5ZhW39tJKPDZRphsTknUHR"
+    },
+    {
+      "album": {
+        "name": "Topiary",
+        "url": "https://open.spotify.com/album/0j92CNAQ4yqUzC13n9JqGA"
+      },
+      "artists": [
+        {
+          "name": "Bug Teeth",
+          "url": "https://open.spotify.com/artist/3b90Lpnlon3MrNSPo1a0VD"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163374,
+      "name": "Topiary",
+      "url": "https://open.spotify.com/track/7CyW05YK9CG8P5xqOtZbsR"
     },
     {
       "album": {

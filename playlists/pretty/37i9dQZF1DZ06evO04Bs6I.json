@@ -1,12 +1,12 @@
 {
   "description": "This is Isadora Pompeo. The essential tracks, all in one playlist.",
-  "num_followers": 114507,
+  "num_followers": 114511,
   "original_name": "This Is Isadora Pompeo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDZSAAAAAAA7ru7GANdbRxt0GBtU0I+0",
+  "snapshot_id": "aDejgAAAAAAm8Jrd1O+hcKj/OY/ACW+g",
   "tracks": [
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tranquilo",
-        "url": "https://open.spotify.com/album/6a6l1rcXkDIgEeXynqIrxy"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 240697,
-      "name": "Tranquilo",
-      "url": "https://open.spotify.com/track/6RknNslwpjiHMgO4nKBgsQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Processo",
         "url": "https://open.spotify.com/album/5gB7Il4JuXjNnmd2rtWslP"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 276080,
       "name": "Em Troca",
       "url": "https://open.spotify.com/track/0cYuoo4STj8htZVrh5w91U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tranquilo",
+        "url": "https://open.spotify.com/album/6a6l1rcXkDIgEeXynqIrxy"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 240697,
+      "name": "Tranquilo",
+      "url": "https://open.spotify.com/track/6RknNslwpjiHMgO4nKBgsQ"
     },
     {
       "added_at": null,
@@ -775,6 +775,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bem Perto (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2yBnldCguXVLd6kd78B4Xq"
+      },
+      "artists": [
+        {
+          "name": "Isaias Saad",
+          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+        },
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 426318,
+      "name": "Bem Perto - Ao Vivo",
+      "url": "https://open.spotify.com/track/4KE3EfxxvBZwoLVB3gHCc2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Meu Filho (Ao Vivo)",
         "url": "https://open.spotify.com/album/6ZxR3j2JnEtbfDXe8aA9qN"
       },
@@ -795,26 +815,6 @@
       "duration_ms": 402811,
       "name": "Meu Filho - Ao Vivo",
       "url": "https://open.spotify.com/track/5QOPKg8YWh3bF1hWjOTDwm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bem Perto (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2yBnldCguXVLd6kd78B4Xq"
-      },
-      "artists": [
-        {
-          "name": "Isaias Saad",
-          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
-        },
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 426318,
-      "name": "Bem Perto - Ao Vivo",
-      "url": "https://open.spotify.com/track/4KE3EfxxvBZwoLVB3gHCc2"
     },
     {
       "added_at": null,

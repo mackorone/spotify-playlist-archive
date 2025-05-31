@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "AKIN",
+        "url": "https://open.spotify.com/album/4KKSk2igvtrIzzb2AtoxJX"
+      },
+      "artists": [
+        {
+          "name": "LUMI",
+          "url": "https://open.spotify.com/artist/0ih2mQrqesmfugYZ2WNLJZ"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184500,
+      "name": "AKIN",
+      "url": "https://open.spotify.com/track/5MT8VS94CftuX3KdPZdBUn"
+    },
+    {
+      "album": {
         "name": "Aking Araw, Araw-Araw",
         "url": "https://open.spotify.com/album/013JCUPCrH1lYZZTyDWy2m"
       },
@@ -2948,6 +2966,32 @@
       "duration_ms": 186141,
       "name": "Suya-suyo",
       "url": "https://open.spotify.com/track/7fa1TUj6YM3qLrEIQAVONY"
+    },
+    {
+      "album": {
+        "name": "Sweet Like Sunshine",
+        "url": "https://open.spotify.com/album/62NMYMEy00pQJCI5527L8u"
+      },
+      "artists": [
+        {
+          "name": "AEUNA",
+          "url": "https://open.spotify.com/artist/1w922m1J6GxqQsH7IdLO1Y"
+        },
+        {
+          "name": "Martinightz",
+          "url": "https://open.spotify.com/artist/3LJkjwvkOVLkVF2lMKO9vu"
+        },
+        {
+          "name": "Kief Kionisala",
+          "url": "https://open.spotify.com/artist/1hCM6QcqM7ONnhBLyNDm1a"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174216,
+      "name": "Sweet Like Sunshine",
+      "url": "https://open.spotify.com/track/4S6bmWdDRNCwfE19faLxln"
     },
     {
       "album": {

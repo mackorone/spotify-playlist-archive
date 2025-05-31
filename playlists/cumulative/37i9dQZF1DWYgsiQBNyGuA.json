@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-08",
-  "description": "Soul to brighten up your day. Cover: Cleo Sol",
+  "description": "Soul to brighten up your day. Cover: Kyle Dion",
   "name": "Soulful Day",
   "tracks": [
     {
@@ -92,6 +92,24 @@
       "duration_ms": 267240,
       "name": "123 Days",
       "url": "https://open.spotify.com/track/3lmiIyoFomOOVErnkYVKEW"
+    },
+    {
+      "album": {
+        "name": "SOULAR",
+        "url": "https://open.spotify.com/album/55m4kudAkWKzza4HyHKnjA"
+      },
+      "artists": [
+        {
+          "name": "Kyle Dion",
+          "url": "https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190066,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/74GbGMrVTLemBAkcq1pIFD"
     },
     {
       "album": {
@@ -222,7 +240,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 200520,
       "name": "All I Want Is You [Feat. October London]",
       "url": "https://open.spotify.com/track/2YKgKQeaYc2sIZIGooyLw0"

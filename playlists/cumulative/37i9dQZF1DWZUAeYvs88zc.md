@@ -4,7 +4,7 @@
 
 > For all of us dancing on our own\. chloe moriondo on the cover.
 
-572 songs - 1 day 8 hr 4 min
+573 songs - 1 day 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Becky's So Hot](https://open.spotify.com/track/2vVLSYsOUNCfN66jTyJsMY) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Girl Of My Dreams](https://open.spotify.com/album/38aH4OObJSjtO48q2eNoA4) | 2:42 | 2024-01-26 | 2024-08-24 |
 | [Beginning of the End](https://open.spotify.com/track/04OQkYRHxHu4yrpjS1yl9V) | [Brynn Cartelli](https://open.spotify.com/artist/4NIPR04MgEH0K5uv8Gn7ek) | [OUT OF THE BLUE](https://open.spotify.com/album/5xTn1vKGNusolMoZ7NMwok) | 2:57 | 2024-03-01 |  |
 | [Believe](https://open.spotify.com/track/6MiNZJ178L6ypTnBt2G4BJ) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Believe \(Remixes\)](https://open.spotify.com/album/3oQ0sE7sd5xDkZlNDnZBEB) | 3:59 | 2019-07-27 | 2019-08-10 |
-| [bellyache](https://open.spotify.com/track/51NFxnQvaosfDDutk0tams) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Bellyache](https://open.spotify.com/album/25FGyvj0UnD6YYWLq0s9nl) | 2:59 | 2019-05-26\* |  |
+| [bellyache](https://open.spotify.com/track/51NFxnQvaosfDDutk0tams) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Bellyache](https://open.spotify.com/album/25FGyvj0UnD6YYWLq0s9nl) | 2:59 | 2019-05-26\* | 2025-05-31 |
 | [Best Friends](https://open.spotify.com/track/1E5Xu8dur0fAjSP1VpVhAZ) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 2:43 | 2022-03-25 | 2023-08-05 |
 | [Better](https://open.spotify.com/track/23eSs9NM5hSXN2SjN62xT8) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [Take Me When You Go \(Deluxe Version\)](https://open.spotify.com/album/429PrNZhn59C6djYU7caTn) | 3:48 | 2019-06-22 | 2021-08-05 |
 | [Better Days \(NEIKED x Mae Muller x Polo G\)](https://open.spotify.com/track/6f5ExP43esnvdKPddwKXJH) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Better Days \(NEIKED x Mae Muller x Polo G\)](https://open.spotify.com/album/2wcv0lHk5fUYyNGKugGa7q) | 2:40 | 2021-10-23 | 2024-08-24 |
@@ -529,6 +529,7 @@
 | [Tough Luck](https://open.spotify.com/track/6PLXJetycVoEZOr1f81XKI) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Tough Luck](https://open.spotify.com/album/4OYDfYtehc25QPb3ft8YoI) | 3:12 | 2025-05-27 |  |
 | [Trigger](https://open.spotify.com/track/0Z26mbSHJ1dkUu7g9DDgif) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Death Stranding: Timefall](https://open.spotify.com/artist/4rojTfP5nRkmYpdSbWQgV4), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Trigger](https://open.spotify.com/album/3Fcqa5sb0vVYEEDHzkiOA1) | 2:51 | 2019-11-18 | 2021-10-16 |
 | [Try Sleeping with a Broken Heart](https://open.spotify.com/track/1yK9LISg5uBOOW5bT2Wm0i) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Element Of Freedom](https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN) | 4:09 | 2019-08-02 | 2019-08-09 |
+| [trying to forget](https://open.spotify.com/track/1GHdmBcOxQSIVDJkqRuZIy) | [Ally Bakst](https://open.spotify.com/artist/2KvrULKGb5VQs6eZysNU11) | [in my head](https://open.spotify.com/album/7xVHnGKfYZNGwng4S59neP) | 3:00 | 2025-05-30 |  |
 | [Twice In A Lifetime](https://open.spotify.com/track/0RyFvkZdH7xRVOOZ3X4nyn) | [HYYTS](https://open.spotify.com/artist/14imaElr610tHxlaJpuQHq) | [Twice In A Lifetime](https://open.spotify.com/album/17JIffEHnTm3hqFRE3ZjUb) | 2:53 | 2022-03-25 | 2022-04-21 |
 | [U FUCKED IT 4 ME](https://open.spotify.com/track/2DCNgITKQB48qTqkAtgzzu) | [Munn](https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l) | [U FUCKED IT 4 ME](https://open.spotify.com/album/5WsSHPUWy18lHuTDaKWen2) | 2:46 | 2021-10-03 | 2021-10-21 |
 | [Underwater](https://open.spotify.com/track/04QZdz4g1qoDlPscXVXS1I) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Underwater](https://open.spotify.com/album/0KDYWXyVzqgZWRS1oZu91c) | 5:49 | 2019-05-26\* | 2019-08-09 |

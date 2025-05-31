@@ -2137,6 +2137,24 @@
     },
     {
       "album": {
+        "name": "Possession",
+        "url": "https://open.spotify.com/album/3ZxMlJq7ztw1jd5mDEaNkl"
+      },
+      "artists": [
+        {
+          "name": "Ty Segall",
+          "url": "https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251173,
+      "name": "Buildings",
+      "url": "https://open.spotify.com/track/76OFo5N9D8SHaHzGnISea5"
+    },
+    {
+      "album": {
         "name": "Gemini Rights",
         "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
       },

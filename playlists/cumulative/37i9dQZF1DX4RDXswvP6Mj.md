@@ -2,7 +2,7 @@
 
 ### [K\-Pop Dance Party](https://open.spotify.com/playlist/37i9dQZF1DX4RDXswvP6Mj)
 
-> Let's party & clubbing with your favorite K\-pop dance hits!! \(Cover: KATSEYE\) \[지금 가장 핫한 댄스곡들을 만나보세요.\]
+> Let's party & clubbing with your favorite K\-pop dance hits!! \(Cover: RIIZE\) \[지금 가장 핫한 댄스곡들을 만나보세요.\]
 
 773 songs - 1 day 17 hr 33 min
 

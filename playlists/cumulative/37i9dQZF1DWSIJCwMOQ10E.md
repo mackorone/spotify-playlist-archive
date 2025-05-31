@@ -4,7 +4,7 @@
 
 > No hay nada como una Rumba Colombiana\. ¡Hasta el amanecer! Foto: Karen Lizarazo
 
-225 songs - 15 hr 1 min
+226 songs - 15 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Estoy Enamorao](https://open.spotify.com/track/1DVAYuOMOaKn7Usi7j2TmR) | [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Estoy Enamorao](https://open.spotify.com/album/1Nmqx99fuiE1CPNmtLUJUu) | 3:05 | 2021-10-01 | 2023-02-15 |
 | [Fantasma](https://open.spotify.com/track/4Rxy0TpRlxtvIHq3GJxnQD) | [Son De Cali](https://open.spotify.com/artist/0QvQ1gLQme0zCO6riv6X2f) | [Cambiando La Historia](https://open.spotify.com/album/2NPMDmjo3g4qH9nnwN7e37) | 4:04 | 2023-10-27 | 2023-11-02 |
 | [Fiesta](https://open.spotify.com/track/1atYmd4arC3jqNuKyYWQ0t) | [Systema Solar](https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx), [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Fiesta](https://open.spotify.com/album/3kZvskU8KnmX8ZMJnSKJj4) | 3:54 | 2025-05-23 |  |
+| [Fruta Fresca \(feat\. Mariachi Sol De Mexico De Jose Hernandez\)](https://open.spotify.com/track/1uelwuPRO2zf1elevAh8FH) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng), [Mariachi Sol De Mexico De Jose Hernandez](https://open.spotify.com/artist/0MnQvecFg1VbNkiFcPnsaG) | [Vives con Mariachi](https://open.spotify.com/album/3KeDx7EbfQnyMEnlBqPABP) | 3:07 | 2025-05-30 |  |
 | [Gitana](https://open.spotify.com/track/4VTb5wB46sZDsfL8XgroGt) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Tiempo pa' Matar](https://open.spotify.com/album/12fkmxSR5zWnxJqCyxDIy5) | 6:54 | 2023-10-27 | 2023-11-02 |
 | [Gotas De Lluvia](https://open.spotify.com/track/6sna5KCgNbt1ciZtVJCjzx) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [20th Anniversary](https://open.spotify.com/album/6quTUa9H2vITjPy9TArBvW) | 5:54 | 2021-10-01 |  |
 | [Gracias](https://open.spotify.com/track/7KsoGh3SoKaBYdPBzcoAYT) | [Donny Caballero](https://open.spotify.com/artist/59KiJoJk4joMhDfJ037DDt) | [Gracias](https://open.spotify.com/album/7czjmqc9GFZnpJsgqaGm6K) | 2:50 | 2022-07-01 | 2023-02-15 |
@@ -135,7 +136,7 @@
 | [LUNA](https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq) | [FERXXOCALIPSIS](https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6) | 3:16 | 2024-12-20 |  |
 | [Lágrimas Negras](https://open.spotify.com/track/3r71UoGicsU90BSDylT9Mh) | [Carolina Gaitán \- La Gaita](https://open.spotify.com/artist/29PgYEggDV3cDP9QYTogwv) | [Vida, Porque Solo Hay Una \(Soundtrack Oficial\)](https://open.spotify.com/album/2yheBqj8Rgo6NyMzUX6KDW) | 2:40 | 2022-08-12 | 2023-02-15 |
 | [Mala](https://open.spotify.com/track/3Er6TBbH18r8V4b9eCj7Cm) | [Los Cumbia Stars](https://open.spotify.com/artist/3vK9K7420aB6FXJ32IDD9t), [Majida Issa](https://open.spotify.com/artist/3N4eiKlBhalVh3ezRXV99N) | [14 Cañonazos Bailables \(Vol\. 61\)](https://open.spotify.com/album/4bxAL7uUo6tZTQWS1BJ7fi) | 3:18 | 2021-10-01 | 2022-07-02 |
-| [Mala Memoria](https://open.spotify.com/track/2sw9rKvMG3fvLGYfMdO139) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Grandes Exitos](https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN) | 4:40 | 2021-10-01 |  |
+| [Mala Memoria](https://open.spotify.com/track/2sw9rKvMG3fvLGYfMdO139) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Grandes Exitos](https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN) | 4:40 | 2021-10-01 | 2025-05-31 |
 | [Materialista \(feat\. Nicky Jam\)](https://open.spotify.com/track/1zh3aQOBNovad73Frmb7MP) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Materialista \(feat\. Nicky Jam\)](https://open.spotify.com/album/74vZkYjOAFrBbwB9KMWzUu) | 3:10 | 2021-10-01 | 2024-12-21 |
 | [Materialista \(feat\. Nicky Jam\)](https://open.spotify.com/track/3jqSBJ8I20iUN0Bw8NA5xQ) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Gente Valiente](https://open.spotify.com/album/5kEnDeBQVa1V1YT485bMyF) | 3:11 | 2022-07-01 | 2024-04-19 |
 | [Me Gustan Los Hombres](https://open.spotify.com/track/4xAdTVNxTWHNMiS7k1Xdvs) | [Fanny Lu](https://open.spotify.com/artist/6GRC8segVAr34gm6pjfSoQ), [Ana del Castillo](https://open.spotify.com/artist/7uxS8IKq7xAVrLcpGPrdR7) | [Me Gustan Los Hombres](https://open.spotify.com/album/0U0SoItZGkL6F0JrUejXiP) | 3:21 | 2025-04-04 |  |

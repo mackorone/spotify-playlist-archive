@@ -4,7 +4,7 @@
 
 > Jazz voices of today\. Cover: Samara Joy
 
-831 songs - 2 day 9 hr 39 min
+832 songs - 2 day 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,6 +279,7 @@
 | [I Am What I Am](https://open.spotify.com/track/2yNAX7gJ7d8jInRnXtINEE) | [Veronica Swift](https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl) | [Veronica Swift](https://open.spotify.com/album/053XeiFx1CVMD0sU3gZ8f8) | 5:32 | 2023-07-14 | 2024-04-19 |
 | [I Am What I Am](https://open.spotify.com/track/78ixe4bEW1kmcLk9e0BAL8) | [Veronica Swift](https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl) | [I Am What I Am](https://open.spotify.com/album/6O07IvI0wU3MpzSRn3s4Xv) | 5:32 | 2023-07-14 | 2025-01-25 |
 | [I Can't Give You Anything But Love](https://open.spotify.com/track/5AdRursK0T21JEBHcZ92Vh) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [No Bounds](https://open.spotify.com/album/2PYZhybffUNK3dMUOu1NIC) | 5:45 | 2021-01-22 | 2022-07-28 |
+| [I Can't Give You Anything but Love](https://open.spotify.com/track/5W9A9tWBv4Hud2PXg9biDA) | [Tony DeSare](https://open.spotify.com/artist/6JooBP4BtY7tY6YPJnSYhI), [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [I Can't Give You Anything but Love](https://open.spotify.com/album/77y4DzQG4z0BQxjsPTN6lF) | 3:16 | 2025-05-30 |  |
 | [I Can't Help It](https://open.spotify.com/track/7md1zupNUTkv8Atxhu94CL) | [Crystal Lewis](https://open.spotify.com/artist/0jpeXX8CClo6hxCOAzyAKf), [Charles Jones](https://open.spotify.com/artist/54SLl07eCSMFL8u2H3MwKl) | [I Can't Help It](https://open.spotify.com/album/7wALZWZ9gYukW7hI37hGaM) | 4:31 | 2022-02-25 | 2022-04-21 |
 | [I Could Have Danced All Night](https://open.spotify.com/track/5Iez8g4aSgYDEqpcrqAiVu) | [Connie Lansberg](https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A), [Mark Fitzgibbon](https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB), [Ben Hanlon](https://open.spotify.com/artist/5wmOjwX4DBUnoS9Qz9A1WY), [Peter Hodges](https://open.spotify.com/artist/6R24JW8eOgeuOMGkehKfYh) | [I Could Have Danced All Night](https://open.spotify.com/album/56gYmyonwmKvjU8ZIX8R2A) | 2:54 | 2021-03-12 | 2022-01-17 |
 | [I Could Have Danced All Night](https://open.spotify.com/track/0V3lvoVH87NmnV0uG39dru) | [Stella Cole](https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR) | [Stella Cole \(Extended Version\)](https://open.spotify.com/album/2OvksIH5wPjzbQ8yDygT8w) | 2:40 | 2025-05-09 |  |
@@ -455,7 +456,7 @@
 | [Lovely Day](https://open.spotify.com/track/4hPTnzenfZExO1hKV3hVeA) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [Songs from Other Places \(Special Edition\)](https://open.spotify.com/album/44iqwz2NY8YScKkO8bNLMW) | 3:03 | 2021-01-22 | 2023-02-25 |
 | [Lovely Day \- Special Edition](https://open.spotify.com/track/0AdeVqrnbX2SeC9RGVgJWm) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib) | [Songs From Other Places \(Special Edition\)](https://open.spotify.com/album/4HZ7gRidkAp1iL8qDgtJy1) | 3:03 | 2021-01-22 | 2023-01-13 |
 | [Lover](https://open.spotify.com/track/1KSyemSUL2kyIzIK1rtOrY) | [Jeff Goldblum & The Mildred Snitzer Orchestra](https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu), [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Lover + Tattoo](https://open.spotify.com/album/6Le1QNBHfDZiDlZocTuuNV) | 4:46 | 2024-05-31 | 2025-01-18 |
-| [Lover Man](https://open.spotify.com/track/5npntgfKIAlEyAdIJCKrHX) | [Parry Ray](https://open.spotify.com/artist/6eWnjKdp3WMtFhIRFO3KRN) | [Lover Man](https://open.spotify.com/album/3q3kueYNUkOmsNh4rk20oy) | 3:01 | 2023-09-15 |  |
+| [Lover Man](https://open.spotify.com/track/5npntgfKIAlEyAdIJCKrHX) | [Parry Ray](https://open.spotify.com/artist/6eWnjKdp3WMtFhIRFO3KRN) | [Lover Man](https://open.spotify.com/album/3q3kueYNUkOmsNh4rk20oy) | 3:01 | 2023-09-15 | 2025-05-31 |
 | [Lover Man \(Oh, Where Can You Be?\)](https://open.spotify.com/track/0R5rHcEKfDpC47txuZrzCc) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Lover Man \(Oh, Where Can You Be?\)](https://open.spotify.com/album/5sLhFtPxR3dWgIFI7kPcIt) | 3:03 | 2021-08-27 | 2022-02-18 |
 | [Lumiére](https://open.spotify.com/track/18tXiBFeqeoNe3f8Ehwp2U) | [Emily Sage](https://open.spotify.com/artist/5VmTuE1qfSRDnjltjkNTWL) | [Lumiére](https://open.spotify.com/album/1DIbpgTuxkiAAvCU3cfY82) | 3:16 | 2022-02-18 | 2023-02-25 |
 | [Lush Life](https://open.spotify.com/track/05tPsJoIzQzsFkTCXADOTA) | [Seth MacFarlane](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW) | [Lush Life](https://open.spotify.com/album/4D7f5n6fbgNpqUWBSWmaDD) | 3:59 | 2025-04-25 | 2025-05-17 |

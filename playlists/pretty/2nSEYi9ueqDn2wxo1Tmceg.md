@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/2nSEYi9ueqDn2wxo1Tmceg.md) - [plain]
 
 ### [Domino Sound System](https://open.spotify.com/playlist/2nSEYi9ueqDn2wxo1Tmceg)
 
-> Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a href="https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ?si=nXDyADFFR5Cd\_waLOSAXrA">Panda Bear</a>
+> Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a href="https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t?si=zEuIA1S6SgW8IOr8GD0HFA">George FitzGerald</a>
 
-[Domino Recording Company](https://open.spotify.com/user/dominorecords) - 66,108 likes - 51 songs - 3 hr 19 min
+[Domino Recording Company](https://open.spotify.com/user/dominorecords) - 66,070 likes - 51 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/2nSEYi9ueqDn2wxo1Tmceg.md) - [plain]
 | 50 | [Earth 2](https://open.spotify.com/track/6QrfG0LVyIEkEN7QEAwSH0) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [IC\-02 Bogotá](https://open.spotify.com/album/2wE3etRJWItR6L3CN5SvP2) | 6:32 |
 | 51 | [Be a Man](https://open.spotify.com/track/2CDSRNLnEaDLHr1PFNeTuk) | [Demise Of Love](https://open.spotify.com/artist/1NXsFjzcDPUKz6fuB9Qq6R), [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Working Men's Club](https://open.spotify.com/artist/7cCi9XoRu8Y1SyJ9c94fhc), [Ghost Culture](https://open.spotify.com/artist/4M6Kt4GVjpLYpygyNOHwdt) | [Be a Man](https://open.spotify.com/album/5LFOUzcpGSV45eXcQszJzs) | 3:12 |
 
-Snapshot ID: `AAAQrnJh3pl+PFlo2fT1o6xJTUeWVJSm`
+Snapshot ID: `AAAQsBH7Cl1Wh31fA4Vf3CcOwHrxSFJ1`

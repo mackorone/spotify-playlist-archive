@@ -4,7 +4,7 @@
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: Theresa Phondo & Praise Umali
 
-505 songs - 1 day 4 hr 29 min
+506 songs - 1 day 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Come](https://open.spotify.com/track/0sqdvdLBjsP1T28PnNVkTb) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [Come](https://open.spotify.com/album/7zoGeEprSXQEAIrHxuMuJo) | 2:44 | 2023-10-20 |  |
 | [Come Thou Fount](https://open.spotify.com/track/2FSajE2kAaMr88P5q3ci5p) | [Phrv](https://open.spotify.com/artist/3VDmwdOKUkkNK5hrKv8ucq), [Jae Sekoya](https://open.spotify.com/artist/0kJwyMUjDs6cebm8YzOa69), [VonTrap](https://open.spotify.com/artist/5eIys7MbZc5zD0bzktmIZC), [Peer Pressure Mcs](https://open.spotify.com/artist/4M8NUKJUbmc9y0j0GRJcXS) | [Come Thou Fount](https://open.spotify.com/album/7gBRTwE247sdsBwKY9I1Tf) | 2:17 | 2024-12-13 | 2025-02-28 |
 | [Comfort me](https://open.spotify.com/track/3e35HnDENOkg77SBrmOhsa) | [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC), [Glochi](https://open.spotify.com/artist/5wk6FnZZR14Wg9eRzrSobY) | [Comfort me](https://open.spotify.com/album/2Ugn4YVHHiEgMQhcBAHPT5) | 2:22 | 2024-09-20 | 2024-10-25 |
+| [Comforter](https://open.spotify.com/track/3EX5x2fUpczvsg2U65E8Fe) | [Sammy Hart](https://open.spotify.com/artist/7uj5a4BDtYb5oI4EfypnNv) | [Comforter](https://open.spotify.com/album/7gHCoqTQze2noRt7RUt4wx) | 3:00 | 2025-05-30 |  |
 | [Confidence](https://open.spotify.com/track/4hyDPdiO14dwPmhPhlW8xE) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Confidence](https://open.spotify.com/album/0fJaLIpMiumMavCQtcvYx6) | 4:59 | 2023-10-20 |  |
 | [CONFIDENCE \(Part 1\)](https://open.spotify.com/track/7upI55mhDKvTglOMQ5Wj5N) | [Kelar Thrillz](https://open.spotify.com/artist/4G7gnjFEISCa9aKBdoUvMb), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz), [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X) | [CONFIDENCE \(Part 1\)](https://open.spotify.com/album/5xRpwUmnqamMVJErrTYZuj) | 2:28 | 2023-10-27 | 2024-01-26 |
 | [CORRECT](https://open.spotify.com/track/0akvZghvgczbBpV09jxu08) | [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [CORRECT](https://open.spotify.com/album/4KfMojNZjUJVJnq5eqXvf6) | 2:40 | 2023-11-03 |  |

@@ -4,7 +4,7 @@
 
 > Se eri al concerto di Sayf al MI AMI già sai 🎺 \(foto di silvia violante rouge\)
 
-1,820 songs - 3 day 5 hr 32 min
+1,821 songs - 3 day 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -383,6 +383,7 @@
 | [Colpa Mia](https://open.spotify.com/track/1O9UvXAnPwFXSccCqB9K2R) | [Gheba](https://open.spotify.com/artist/2SU1nwN4pyNj6cSVoOzcsc), [Pave](https://open.spotify.com/artist/5Dtz5w5xVlRscuRR9dIUtV) | [Colpa Mia](https://open.spotify.com/album/14hWXI41p18S5cmcOwMPHM) | 2:10 | 2025-04-17 | 2025-05-16 |
 | [Coltellate](https://open.spotify.com/track/4QpTk7Lx538p9EgpM0dBem) | [Bussø](https://open.spotify.com/artist/0E9ZZAfYoNvEO77tpnlHTi) | [YNG IS BACK](https://open.spotify.com/album/32vDlKh2toJvDlWDCMZDow) | 2:24 | 2025-05-22 |  |
 | [Come a Dakar](https://open.spotify.com/track/6a9yidr8DpQwO8qNY29x5B) | [MBOSS](https://open.spotify.com/artist/5IHqA6YzPMGrf9CDjly4az), [Low Kidd](https://open.spotify.com/artist/5WBincqAirIREkG5sXqeyq) | [Come a Dakar](https://open.spotify.com/album/20jMLLeQuGTntObzVBXyzW) | 2:05 | 2023-12-07 | 2023-12-22 |
+| [Come dici prego?](https://open.spotify.com/track/6SEfGfafXRpGSwTFOrg01A) | [Don Said](https://open.spotify.com/artist/2I5bwg7ZUD8JiM12xMMGYO) | [Come dici prego?](https://open.spotify.com/album/5WgOFE63fcO7ElQXNtxVKm) | 2:35 | 2025-05-30 |  |
 | [COME FANNO](https://open.spotify.com/track/29CqjSgueQYgqG227LyQ87) | [LILCR](https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S) | [LONDON TAPE](https://open.spotify.com/album/6jw0TkCbdgpcRtJnFTEvyC) | 1:59 | 2024-08-01 | 2024-09-07 |
 | [Come Mai](https://open.spotify.com/track/4KJCIFLJoAdl3SDLUEclIR) | [Baby Rich](https://open.spotify.com/artist/6nNm1ydguU7kzvUHidRxRN), [Nuto Jr](https://open.spotify.com/artist/35cHFPW5iuDM1df442BBt5) | [Come Mai](https://open.spotify.com/album/7Gvadg1kPZmybKgSZVqhmd) | 3:26 | 2022-10-27 | 2022-11-11 |
 | [Come me](https://open.spotify.com/track/4MiG1TZuUpqENK15yGk33j) | [Abby 6ix](https://open.spotify.com/artist/19nW3VjtThtO0ek8Ymmg9P) | [Come me](https://open.spotify.com/album/6pz1wJ1ASwhTrT13AsxnxC) | 2:43 | 2023-09-28 | 2023-11-03 |

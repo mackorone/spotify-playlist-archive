@@ -2,9 +2,9 @@
 
 ### [Jazzy Korea](https://open.spotify.com/playlist/37i9dQZF1DX3Cii9ioWjQP)
 
-> All about Korean Jazz hits & new \(Cover: Crush\) 새롭고 핫한 국내 재즈 음악들을 만나보세요.
+> All about Korean Jazz hits & new \(Cover: 박지은\) 새롭고 핫한 국내 재즈 음악들을 만나보세요.
 
-261 songs - 18 hr 21 min
+262 songs - 18 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Everyday Romance](https://open.spotify.com/track/4LOTrQr2GpvFMS62rKEo9M) | [SHUYA](https://open.spotify.com/artist/3Ss3Yg9vwMxwUZ0ViaJvFV) | [Things I Love](https://open.spotify.com/album/5e0bhqRkZW5ZOgQpUaF1me) | 3:32 | 2024-11-07 |  |
 | [Everything Happens To Me](https://open.spotify.com/track/0qfzJgrFePDWekyVSbFnxl) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Everything Happens To Me](https://open.spotify.com/album/2pMlrQthaDJoB2UqhJAgqQ) | 4:02 | 2025-05-09 |  |
 | [Falling In U](https://open.spotify.com/track/24b3VpnaRlYGWDgwPwOLBz) | [다해](https://open.spotify.com/artist/65jZwKXoHgYxbbc0mRCA0V) | [Falling In U](https://open.spotify.com/album/2ufBOd2lyvhlgJM4pFvvw6) | 3:00 | 2023-04-10 | 2024-11-07 |
+| [Fascination](https://open.spotify.com/track/3Cce15ZRmDB6p41GHiNEP4) | [Moon haewon](https://open.spotify.com/artist/51qFLjDgO3UGzJgTyjqhhW) | [Fascination](https://open.spotify.com/album/5bg9moPdC5rl4PEPykc2HU) | 3:25 | 2025-05-30 |  |
 | [Ferrari](https://open.spotify.com/track/0lOhyaAN0djmwroHqPhApn) | [40](https://open.spotify.com/artist/0XXy0YzgbA0CW9zDM8yxpD) | [Ferrari](https://open.spotify.com/album/5OWnu7q4KDcsotJRkIfqVE) | 3:16 | 2023-02-24 | 2024-11-07 |
 | [Finale \(feat\. Kihun Park\)](https://open.spotify.com/track/0Ak7SzhUqRFQDFzO6JlM21) | [Lee ye in](https://open.spotify.com/artist/0Srx88PZKu7nBtKNp1Bv0X), [Park Ki Hun](https://open.spotify.com/artist/1FfO76bIOpFkTpyCIjkDCR) | [Finale](https://open.spotify.com/album/6MdAxE4RRlHKNGzCN2fNLb) | 2:15 | 2022-05-03 | 2022-05-19 |
 | [Fine waltz](https://open.spotify.com/track/1tMb4mpIGMZV1uzvyiyWmT) | [U.BAR.E](https://open.spotify.com/artist/547Oa355hQl5ynq8QFfmb8) | [Fine waltz](https://open.spotify.com/album/4mVDoFaBRlGVTjw3V8fa99) | 3:14 | 2024-09-27 |  |
@@ -168,7 +169,7 @@
 | [Profile](https://open.spotify.com/track/2U8kKyjv3y0FZ6D1RL6AcR) | [Young Jin Kim](https://open.spotify.com/artist/2znNQLAUycEz4QYAx6wDlO) | [Full Bottle](https://open.spotify.com/album/2GekRFOa2tnNoszyCpZVmD) | 4:40 | 2022-11-11 | 2024-10-10 |
 | [Pronounce the Benediction + Messengers](https://open.spotify.com/track/45kvtggm9KeRXjovIvDLbS) | [Kim Seong Hwa Quartet](https://open.spotify.com/artist/5UvwNchXt1PcNIK7nKSe0Y) | [Individual Space Vol.4](https://open.spotify.com/album/3E5HGHHIDP8MC2oBDZrgft) | 14:01 | 2022-05-03 | 2022-05-19 |
 | [Puddle](https://open.spotify.com/track/1MWzNijjV5YR1TbFMfINhf) | [Suwon Yim](https://open.spotify.com/artist/3RRrPqeIvcA2z56DKl0wku), [Paride Pignotti](https://open.spotify.com/artist/13IZQ1OV0jN5it11NANQa2) | [Puddle](https://open.spotify.com/album/0a58Zw9w1uLXAEdiEi68yU) | 6:57 | 2024-08-29 | 2025-05-28 |
-| [Puddle](https://open.spotify.com/track/5YXm2b0UsA6Zz8aDzeIRnj) | [Suwon Yim](https://open.spotify.com/artist/3RRrPqeIvcA2z56DKl0wku), [Paride Pignotti](https://open.spotify.com/artist/13IZQ1OV0jN5it11NANQa2) | [Way Back Home](https://open.spotify.com/album/3KyZqznuaRnJk5yrZI3xag) | 6:57 | 2024-09-04 |  |
+| [Puddle](https://open.spotify.com/track/5YXm2b0UsA6Zz8aDzeIRnj) | [Suwon Yim](https://open.spotify.com/artist/3RRrPqeIvcA2z56DKl0wku), [Paride Pignotti](https://open.spotify.com/artist/13IZQ1OV0jN5it11NANQa2) | [Way Back Home](https://open.spotify.com/album/3KyZqznuaRnJk5yrZI3xag) | 6:57 | 2024-09-04 | 2025-05-31 |
 | [Purple Wave](https://open.spotify.com/track/34Shh5noYkuYyheOnzWs5g) | [1LEEY](https://open.spotify.com/artist/4Csb024B5ugIYGJViz9oOF) | [Rising](https://open.spotify.com/album/0KNNPQuVGnTdmyuka4re6q) | 4:09 | 2022-05-03 | 2024-08-11 |
 | [Rainy Thursday](https://open.spotify.com/track/6wjvmsgigf8lESXxCXmTNB) | [Moon haewon](https://open.spotify.com/artist/51qFLjDgO3UGzJgTyjqhhW) | [Rainy Thursday](https://open.spotify.com/album/0qZxEhG5MfWUsy9FNFhfNr) | 4:13 | 2025-04-03 |  |
 | [Regent's Park](https://open.spotify.com/track/0KH7NarCQrouOez7FRG9FJ) | [Hyunsoo Park](https://open.spotify.com/artist/5FFIobzpoENexOu1dXGd0s) | [Regent's Park](https://open.spotify.com/album/7jQEp2fOLeZlusxnLqQnfA) | 4:30 | 2022-05-03 | 2023-02-08 |

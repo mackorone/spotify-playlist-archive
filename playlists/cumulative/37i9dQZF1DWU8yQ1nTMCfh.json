@@ -497,6 +497,24 @@
     },
     {
       "album": {
+        "name": "Ausencia",
+        "url": "https://open.spotify.com/album/5oEwtDpBBekcD8hrouZSKM"
+      },
+      "artists": [
+        {
+          "name": "Viniloversus",
+          "url": "https://open.spotify.com/artist/2zwh4WnVBGZcfnllC7DUxt"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214265,
+      "name": "Ausencia",
+      "url": "https://open.spotify.com/track/5sndku2FDKQ9Rix3wx0A0q"
+    },
+    {
+      "album": {
         "name": "Bad Kiss",
         "url": "https://open.spotify.com/album/6k9wPtpVp9mfAOwp56g5LJ"
       },
@@ -2096,7 +2114,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 189586,
       "name": "Gris",
       "url": "https://open.spotify.com/track/5mhBRIDs3aNvg4WZnhRMYy"
@@ -4696,7 +4714,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-31",
       "duration_ms": 183441,
       "name": "Qu\u00e9date un Momento",
       "url": "https://open.spotify.com/track/4wP3CULcMp6YIWJnEw4SVA"
@@ -6028,6 +6046,28 @@
       "duration_ms": 203023,
       "name": "Vigilantes del Espejo",
       "url": "https://open.spotify.com/track/6NGziF7yJMzHdf0RTkOkzK"
+    },
+    {
+      "album": {
+        "name": "Noches De Cantina",
+        "url": "https://open.spotify.com/album/7s4iqJ8ygSoGZJuKm21v1g"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        },
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233306,
+      "name": "Vivir Sin Aire",
+      "url": "https://open.spotify.com/track/5cPfJH1aUu9kIZyvZS7Ps7"
     },
     {
       "album": {

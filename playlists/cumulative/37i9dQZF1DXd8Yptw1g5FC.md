@@ -4,7 +4,7 @@
 
 > Aleyna Tilki, Mabel Matiz ve haftanın en iyi çıkışları!
 
-1,443 songs - 3 day 1 hr 8 min
+1,444 songs - 3 day 1 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Acıma Hiç Canımı Yak](https://open.spotify.com/track/7EhxIFlbD6N5W8G8xMS6Kd) | [ALİFİRU](https://open.spotify.com/artist/2X5K0sTQ9NSIiCOOHv3S1k) | [Acıma Hiç Canımı Yak](https://open.spotify.com/album/3tjpbslA2TEcrfUTOPVOzi) | 3:04 | 2025-04-03 | 2025-04-11 |
 | [Acıyı Sevmek](https://open.spotify.com/track/6P5y4TM6i95THSWlAVLqaI) | [Cengiz İmren](https://open.spotify.com/artist/5s7jVGtl4ggIcrBEOgAfgP) | [Acıyı Sevmek](https://open.spotify.com/album/1QKWNSMOiwF8tIzkTEpFFo) | 3:29 | 2025-05-29 |  |
 | [Acıyı Seçemedim](https://open.spotify.com/track/4UFC8TeimQixiCu4xq6npc) | [Zeyd](https://open.spotify.com/artist/12MwQGIKtcERM3CNJhhq5T) | [Acıyı Seçemedim](https://open.spotify.com/album/6x5GupfYUYaBXXsDy7WQum) | 2:27 | 2025-05-08 | 2025-05-16 |
+| [Adada](https://open.spotify.com/track/3p1uB1JCsNLrrp0emWOwH4) | [islandman](https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4) | [Adada](https://open.spotify.com/album/6NahKzvjOBtVirZIVWdey4) | 5:30 | 2025-05-30 |  |
 | [ADIM XNX DEĞİL](https://open.spotify.com/track/2vwD8fjpBIK6axczdvGGrG) | [MERMI](https://open.spotify.com/artist/5l4WodS45CeKjb6ciK0X86) | [ADIM XNX DEĞİL](https://open.spotify.com/album/0LbALfapz9SUyIsNUPYbal) | 2:36 | 2025-05-15 | 2025-05-23 |
 | [Adımlar](https://open.spotify.com/track/2mdIOYYGUtQ0rj5IfzmtDP) | [TAI](https://open.spotify.com/artist/5dFeNfQoaHSqzgS8tyXVKR), [Azure Wrath](https://open.spotify.com/artist/4jkgIFWljOfnbcE1fkwcQX) | [Adımlar](https://open.spotify.com/album/1x1AsWKFvb7NhzgT6MaFKi) | 2:42 | 2025-05-15 | 2025-05-23 |
 | [Adını Sayıkladım](https://open.spotify.com/track/78wpZdUetgS3QmPjBkDdqI) | [Cairo](https://open.spotify.com/artist/7ecHMwo18VtgSVZRULWLId) | [Adını Sayıkladım](https://open.spotify.com/album/0FQPOprR8NnAYQnHBNgeg8) | 2:37 | 2025-04-03 | 2025-04-11 |
@@ -814,8 +815,8 @@
 | [MAYBACH](https://open.spotify.com/track/6iNwpgxyZCXkyybuwxr6wu) | [Bilici](https://open.spotify.com/artist/5282wFSMKx3QgLufnnaVLB) | [MAYBACH](https://open.spotify.com/album/7ygjIMmhiySWcH05XfhhAX) | 1:52 | 2025-03-13 | 2025-03-21 |
 | [Mayklar Konuşsun](https://open.spotify.com/track/2zFkBLMgogT60t9U0Ept6M) | [Fredo](https://open.spotify.com/artist/49h0OdRzNx53XMMIXoHMm6) | [Mayklar Konuşsun](https://open.spotify.com/album/56lchooHN0sj8oaHQvUefU) | 2:18 | 2025-03-20 | 2025-03-28 |
 | [Mazide](https://open.spotify.com/track/470IpPjOzbvgnQ8dFwuEdj) | [Rafet El Roman](https://open.spotify.com/artist/5gs9qloTR5m6dM0ScMty3H), [Su El Roman](https://open.spotify.com/artist/6Kvx121MepdDM6XxgxPvij) | [Mazide](https://open.spotify.com/album/4G3J8FNGmmzVCa9XzbkWn9) | 3:15 | 2025-05-29 |  |
-| [Me Myself and The Night](https://open.spotify.com/track/7mKy65CyVCmawYMw3JJGPQ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Me Myself and The Night](https://open.spotify.com/album/7bSQts9CfkAh6MNQ7BkBjy) | 4:11 | 2025-05-29 |  |
 | [Me Roh Amba](https://open.spotify.com/track/6rS57UDqUREfiMPJ2QXp8d) | [Ertunç Şenbay](https://open.spotify.com/artist/6LKUsrJFqUqufcbWn935FJ), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Me Roh Amba](https://open.spotify.com/album/7lNbCOZ2qpc6qyTTozzbYv) | 4:41 | 2025-03-13 | 2025-03-21 |
+| [Me, Myself and The Night](https://open.spotify.com/track/7mKy65CyVCmawYMw3JJGPQ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Me, Myself and The Night](https://open.spotify.com/album/7bSQts9CfkAh6MNQ7BkBjy) | 4:11 | 2025-05-29 |  |
 | [Mecalim](https://open.spotify.com/track/4oogjVNVhDTbHP2JaYqnvJ) | [Ozan Koçer](https://open.spotify.com/artist/22HxGT3v3lAMu1KWXN0BkL) | [Mecalim](https://open.spotify.com/album/79QfkSgc52tS1LGeySHwbR) | 2:30 | 2025-03-27 | 2025-04-04 |
 | [MECBURUM](https://open.spotify.com/track/3sAwWq40uK8QB5q1zKBHi5) | [Göksel İpekçi](https://open.spotify.com/artist/43lVodpMDfdEkkoowuyEkr) | [MECBURUM](https://open.spotify.com/album/5EVIcgxL3scIIUTvsZVUtj) | 2:48 | 2025-03-06 | 2025-03-14 |
 | [Melek V Şeytan](https://open.spotify.com/track/3JvsgRaETH09vy4zVbwFqr) | [Murda](https://open.spotify.com/artist/09WqkYnqWKUQAYSlEvaf6s) | [Melek V Şeytan](https://open.spotify.com/album/6p6Z1KBnco3DUWHrZ3q91g) | 2:53 | 2025-04-24 | 2025-05-02 |
@@ -1098,7 +1099,7 @@
 | [Son Söz](https://open.spotify.com/track/2D6cIfsa27rewToJ8zRl9E) | [Haluk Kurosman](https://open.spotify.com/artist/63XdtzUMPQOm0xqzBhJ1rm) | [Son Söz](https://open.spotify.com/album/6gqsxaZbJSQEBL5M5N7Qug) | 3:42 | 2025-04-03 | 2025-04-11 |
 | [Son Veda](https://open.spotify.com/track/5XlwvX3aAssN42bWsFDMpR) | [ARAS İdol](https://open.spotify.com/artist/4S55arVgMLWyaabu95NKIx) | [Son Veda](https://open.spotify.com/album/3enRrIUZgf2FBRnInGbyKO) | 4:08 | 2025-03-06 | 2025-03-14 |
 | [Son Zamanlar](https://open.spotify.com/track/405DNB1CE0iwRuGapGZf8y) | [Derin Mevzu](https://open.spotify.com/artist/72Q2kgEHumnBXH25PYPY3z) | [Son Zamanlar](https://open.spotify.com/album/7lQEa0DrDDTsI1PDsnj8sd) | 2:41 | 2025-05-22 | 2025-05-30 |
-| [SONBAHAR](https://open.spotify.com/track/1YrEoI9Cn6pmCXuiUGQ0Kf) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM), [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5), [SNOW](https://open.spotify.com/artist/58H98oCs7wfe6XZOgIaT0q) | [SONBAHAR](https://open.spotify.com/album/2KAvMXHNqyZbQnrwg5tavY) | 2:24 | 2025-05-29 |  |
+| [SONBAHAR](https://open.spotify.com/track/1YrEoI9Cn6pmCXuiUGQ0Kf) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM), [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5), [SNOW](https://open.spotify.com/artist/58H98oCs7wfe6XZOgIaT0q) | [SONBAHAR](https://open.spotify.com/album/2KAvMXHNqyZbQnrwg5tavY) | 2:30 | 2025-05-29 |  |
 | [SONUNDA KAYBOLMUŞ](https://open.spotify.com/track/1Z8WJAP3aAiiar4VR149yf) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [TEK KİŞİLİK MASA](https://open.spotify.com/album/1PNjEh6e0T28jszrn3Mwva) | 3:19 | 2025-05-15 | 2025-05-23 |
 | [SOPA](https://open.spotify.com/track/1dcpalUaL39X5kluBsfk3h) | [Parham A.G](https://open.spotify.com/artist/4O3SAIAWxsNuwl5TSxvuYx), [Emaskülatör](https://open.spotify.com/artist/689cz5DGYDKCK0KuEUXNV0) | [SOPA](https://open.spotify.com/album/70ZvN8iAm0X8kD5lrOI6uR) | 3:12 | 2025-04-24 | 2025-05-02 |
 | [Soramam](https://open.spotify.com/track/0j7J79VxIsfHGjte6FeTTB) | [Kenan](https://open.spotify.com/artist/720jWnlmqf0o6UgIAaWArU) | [Soramam](https://open.spotify.com/album/0u32HY4CYcwRv5wsFh93vP) | 3:09 | 2025-03-27 | 2025-04-04 |

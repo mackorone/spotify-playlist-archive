@@ -4,7 +4,7 @@
 
 > Ambient piano to help you stay focussed.
 
-390 songs - 15 hr 40 min
+392 songs - 15 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Acceptance](https://open.spotify.com/track/303e6fTCQ5d3ljcg1TQrkC) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Acceptance](https://open.spotify.com/album/5TifGwgK5S9VTApf5z4Qfx) | 2:54 | 2021-06-27 | 2023-05-16 |
 | [African Violet](https://open.spotify.com/track/2AS9ZM50B6JkihVq1KY6b6) | [Arden Forest](https://open.spotify.com/artist/3LUa5res2UmvZ04kvlPMc7) | [Dark Taupe](https://open.spotify.com/album/47AoMLS4iKE2Lx942HBIKY) | 3:02 | 2021-06-27 | 2022-07-29 |
 | [African Violet](https://open.spotify.com/track/5vIug0SecVlX2XcfsZnJ3B) | [Arden Forest](https://open.spotify.com/artist/3LUa5res2UmvZ04kvlPMc7) | [Dark Taupe](https://open.spotify.com/album/4jVtjvaOT1SppdADH8DfQK) | 3:02 | 2022-07-05 | 2023-05-16 |
+| [Aguachile](https://open.spotify.com/track/79JWsSXbAW3gisGFrLXafU) | [Alex Laude](https://open.spotify.com/artist/0MFzcJKiDZl0lPHraV0abV) | [Aguachile](https://open.spotify.com/album/6ugXuZjPxb6eUacXvSiPXZ) | 2:06 | 2025-05-30 |  |
 | [Aim For The Stars](https://open.spotify.com/track/0FFLm5zwx2r5lNEeCetS1n) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Aquatic Flow](https://open.spotify.com/album/2a7lLhWw43s2z0RDvLj2JD) | 2:22 | 2022-07-05 | 2023-05-16 |
 | [Aim For The Stars](https://open.spotify.com/track/3sT8aDoeiMZszGpDOiRoPo) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Aquatic Flow](https://open.spotify.com/album/5floaq0TzsFFMLAtnJ9cfM) | 2:22 | 2021-06-27 | 2022-07-29 |
 | [All I Hear Is Birds,](https://open.spotify.com/track/15hyn4FNUMbHexh7kLvb0e) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [All I Hear Is Birds,](https://open.spotify.com/album/0Bon3Uwy0rkElLuBz1YV71) | 2:47 | 2023-05-15 |  |
@@ -145,6 +146,7 @@
 | [Fold](https://open.spotify.com/track/6EXNTJth6I1yzujD81e5Ad) | [Bodi Lukasz](https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC) | [Fold](https://open.spotify.com/album/17uf0ZUUsLID6ICnx2wCfo) | 2:44 | 2025-05-02 |  |
 | [Footprints](https://open.spotify.com/track/6IGo9GEMwAUHmdMZeWHu45) | [Maree Docia](https://open.spotify.com/artist/2UjQMEOzrwt2v4L3dNrcqe) | [We Were Legends](https://open.spotify.com/album/0Rv82yRFV9inly8ChKaO72) | 2:18 | 2021-06-27 | 2022-07-29 |
 | [Footprints](https://open.spotify.com/track/3dxvqhGVXEkzBkLUapY1eW) | [Maree Docia](https://open.spotify.com/artist/2UjQMEOzrwt2v4L3dNrcqe) | [We Were Legends](https://open.spotify.com/album/07uVGssx4qgJDsJAgepdsO) | 2:19 | 2022-07-05 | 2023-05-16 |
+| [Forever Yours](https://open.spotify.com/track/2Fa4HWhnE7oiWdiHnjv3aD) | [Lyvia Northman](https://open.spotify.com/artist/5UlShaxI9lS8FdpD4esXvh) | [Forever Yours](https://open.spotify.com/album/373hZdOKeVNCwLsi7VZRJN) | 2:22 | 2025-05-30 |  |
 | [Fortune Teller](https://open.spotify.com/track/3V5W0NKk7JkGzBMoMOrOHb) | [Lihua Zhao](https://open.spotify.com/artist/7dsYrsCwrZat4t33c7RXPe) | [Fortune Teller](https://open.spotify.com/album/4tai0Aw4yNU9YuS37uqJoM) | 2:24 | 2024-04-17 |  |
 | [Forward](https://open.spotify.com/track/08pO7gmtNm6BQjzTIM1INY) | [Jon Albreit](https://open.spotify.com/artist/7HUDHULnPyXARDfZzsx5xc) | [Forward](https://open.spotify.com/album/23I3vOfNHDcGU9BDFkZWj7) | 2:32 | 2025-02-21 |  |
 | [Free Falling](https://open.spotify.com/track/6ruIYimg1WHbK2ciDt1hWv) | [Madelene Olsson](https://open.spotify.com/artist/32zdWfzzE8XBuoOPEzJcS3) | [Free Falling](https://open.spotify.com/album/1xX4HiqbN3j0R4F71pbLHe) | 3:19 | 2023-05-15 |  |
