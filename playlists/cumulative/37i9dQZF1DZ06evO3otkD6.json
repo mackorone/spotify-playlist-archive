@@ -709,6 +709,32 @@
     },
     {
       "album": {
+        "name": "El Me Minti\u00f3, Mentiras, Mentiras",
+        "url": "https://open.spotify.com/album/2bybT6eYlVyATbKkp7DF5Z"
+      },
+      "artists": [
+        {
+          "name": "Mentiras: La Serie",
+          "url": "https://open.spotify.com/artist/1Ju2DSDLHCKEfy6WfsOkzK"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Diana Bovio",
+          "url": "https://open.spotify.com/artist/62IAzVoIjzzHeBZ6Glodjp"
+        }
+      ],
+      "date_added": "2025-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147804,
+      "name": "El Me Minti\u00f3, Mentiras, Mentiras",
+      "url": "https://open.spotify.com/track/00Ff62DUnnKp5NICapdAVz"
+    },
+    {
+      "album": {
         "name": "Catarsis",
         "url": "https://open.spotify.com/album/7zOaF1rmHsRNkBd6QZd3Qg"
       },
@@ -1300,7 +1326,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-01",
       "duration_ms": 244600,
       "name": "No Entiendo - I Don't Understand You",
       "url": "https://open.spotify.com/track/1Rf4xWEQqgkB0pcUkKr8JK"

@@ -4,7 +4,7 @@
 
 > This is Akon\. The essential tracks, all in one playlist.
 
-122 songs - 7 hr 31 min
+123 songs - 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Dangerous](https://open.spotify.com/track/4NOZ35Dhucr6UlVyLOtktd) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Not 4 Sale](https://open.spotify.com/album/4mvT7q9PuuBWZcVyUnZP8e) | 4:06 | 2021-12-28 |  |
 | [Don't Matter](https://open.spotify.com/track/7I6DceMT3utDOHjcYCbrr4) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Konvicted](https://open.spotify.com/album/6kzoWb4UzvKYgbDfAwgaFq) | 4:53 | 2022-03-14 |  |
 | [Don't Matter](https://open.spotify.com/track/12yGwtB2h9NlzeOKYfVYTF) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Konvicted](https://open.spotify.com/album/13C2pc5O7ofZKd4p2VYO3S) | 4:53 | 2021-12-28 | 2022-03-15 |
+| [Drunk Right Now \(Na Na Na\) with Akon](https://open.spotify.com/track/3985LK4rWojPPqJVFzCy6e) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Drunk Right Now \(Na Na Na\) with Akon](https://open.spotify.com/album/2sAMTwbecMT8kpn4d6d6VV) | 3:18 | 2025-06-01 |  |
 | [Enjoy That](https://open.spotify.com/track/0siwM0v8NJkkKKtCT2r3Em) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Enjoy That](https://open.spotify.com/album/3pk4icDs1qwl90Q2ZYPMqT) | 3:03 | 2022-08-27 | 2022-10-18 |
 | [Enjoy That](https://open.spotify.com/track/0vzRLVEArgzEl2FUHj9xYA) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Enjoy That](https://open.spotify.com/album/1QOorpfl2WDbirKrMsXG5D) | 3:03 | 2024-01-12 | 2024-07-24 |
 | [Enjoy That](https://open.spotify.com/track/1r3YLVQ9Tdc8edwu5NtbX2) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Enjoy That](https://open.spotify.com/album/3y1EcdsfzSNGRDEKHQcagK) | 3:03 | 2022-10-17 | 2023-12-20 |
@@ -59,7 +60,7 @@
 | [Hold My Hand \(with Akon\)](https://open.spotify.com/track/1652voE1ZeLyehNC2kbHMb) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Michael](https://open.spotify.com/album/5S7ySBYbWKsZdVYQrNtrWf) | 3:32 | 2022-07-16 |  |
 | [Hold The Umbrella \(feat\. De la Ghetto\)](https://open.spotify.com/track/23KxmIClQ2tEOimS9KeSWF) | [Gary LeVox](https://open.spotify.com/artist/6daR4Ec3o6K4VJnRcPM6w6), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Hold The Umbrella \(feat\. De la Ghetto\)](https://open.spotify.com/album/7zQxTiz8rov8jrgSNF0nKV) | 3:05 | 2025-05-18 |  |
 | [Hypnotized \(feat\. Akon\)](https://open.spotify.com/track/3LN41NUdHkyNqQhi9gExMm) | [Plies](https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [The Real Testament](https://open.spotify.com/album/3NoUdjYUcUuRMpOzyapnYW) | 3:08 | 2021-12-28 |  |
-| [I Just Had Sex](https://open.spotify.com/track/5PEleSkK4p4E1sx3x7cOLt) | [The Lonely Island](https://open.spotify.com/artist/1f5GqyOPo0CkotzzRwviBu), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Turtleneck & Chain \(Explicit Version\)](https://open.spotify.com/album/4IMJWEfkidwtzLanLMAtLP) | 2:46 | 2021-12-28 |  |
+| [I Just Had Sex](https://open.spotify.com/track/5PEleSkK4p4E1sx3x7cOLt) | [The Lonely Island](https://open.spotify.com/artist/1f5GqyOPo0CkotzzRwviBu), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Turtleneck & Chain \(Explicit Version\)](https://open.spotify.com/album/4IMJWEfkidwtzLanLMAtLP) | 2:46 | 2021-12-28 | 2025-06-01 |
 | [I Tried](https://open.spotify.com/track/2elA6JLRaQ6iB7hxiuTKN4) | [Bone Thugs\-N\-Harmony](https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Strength & Loyalty](https://open.spotify.com/album/6fgFFyMpkmOZK038Ta3gQB) | 4:47 | 2021-12-28 |  |
 | [I Wanna Fuck You](https://open.spotify.com/track/1G93i9ga7ZPEOqpiNhM1mq) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Tha Blue Carpet Treatment](https://open.spotify.com/album/5EyEI8tm60S6y2YKbjE0xI) | 2:58 | 2021-12-28 |  |
 | [I Wanna Love You](https://open.spotify.com/track/0CXVjQI9wsqaGeIARkkpYc) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Konvicted](https://open.spotify.com/album/6kzoWb4UzvKYgbDfAwgaFq) | 4:07 | 2022-03-20 |  |

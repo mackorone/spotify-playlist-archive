@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,886 songs - 4 day 1 hr 53 min
+1,888 songs - 4 day 2 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [1/10](https://open.spotify.com/track/1hRQE2IySnBGZN4r6UgtQU) | [ABEL](https://open.spotify.com/artist/24s1thJhRUKrnGcnFDBi5E) | [1/10](https://open.spotify.com/album/7yoeSIv6kOavCix2HEF6Rk) | 2:30 | 2025-01-09 | 2025-01-17 |
 | [100 diagnoser](https://open.spotify.com/track/40Pl6gABGwEP0p93hFras1) | [TRENDEN](https://open.spotify.com/artist/6YuKFo9oa6f4KGcrDm982S) | [Nya TRENDEN](https://open.spotify.com/album/6Z2AdlMRgSdfbK5JwSd1Ny) | 3:20 | 2024-05-16 | 2024-06-14 |
 | [100 GÅNGER TILL](https://open.spotify.com/track/2eSvlPyGNqCOriM3ibovQF) | [Sebastian Walldén](https://open.spotify.com/artist/6nVppoLxZQC587nnLTQcKx) | [100 GÅNGER TILL](https://open.spotify.com/album/4llO7R9Fy8hzLQzNS7iKnP) | 3:21 | 2021-12-16 | 2022-01-03 |
-| [100 m](https://open.spotify.com/track/7ypXhGlc3KvaghLisybEz9) | [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe) | [100 m](https://open.spotify.com/album/4Hmb99zrLMh6mWw9W7Ojv6) | 2:52 | 2025-03-14 |  |
+| [100 m](https://open.spotify.com/track/7ypXhGlc3KvaghLisybEz9) | [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe) | [100 m](https://open.spotify.com/album/4Hmb99zrLMh6mWw9W7Ojv6) | 2:52 | 2025-03-14 | 2025-06-01 |
 | [112](https://open.spotify.com/track/2Mpbd4mtygXsLhnP4APlRn) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [112](https://open.spotify.com/album/1zml0unk1vmOVPhYlpExW7) | 3:16 | 2025-03-20 |  |
 | [180](https://open.spotify.com/track/3jxCt8bqqdFmsW8R2AlFb0) | [Lennixx](https://open.spotify.com/artist/0hdACQBYpPV7hL1VBEmHH6) | [180](https://open.spotify.com/album/1jkSQISZ1yztdQ9W412JMS) | 3:20 | 2024-04-18 | 2024-05-17 |
 | [2 Die 4](https://open.spotify.com/track/3QK2bbLCTGoFXFt64e5TBY) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [2 Die 4](https://open.spotify.com/album/6p4OKNrv71scAKjHZ16G5t) | 3:05 | 2022-07-28 | 2023-06-23 |
@@ -40,6 +40,7 @@
 | [A Bowl of Unripe Fruit](https://open.spotify.com/track/7KITXnfw8N8OKFJX1zZ7PD) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [A Bowl of Unripe Fruit](https://open.spotify.com/album/4fNncV3kbiDqfmJ6KBUR5d) | 3:22 | 2023-06-29 | 2023-11-12 |
 | [A Lover Like Me](https://open.spotify.com/track/3WfvvgQ2RJLJiCbFP67EbI) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [A Lover Like Me](https://open.spotify.com/album/6mQKBQMp9uISJB9HleU9QA) | 2:52 | 2023-02-02 | 2023-04-05 |
 | [A Power In Letting Go](https://open.spotify.com/track/4ApPQVXgiVTV17lmnC4Ld2) | [Vargas & Lagola](https://open.spotify.com/artist/2fVW2ix4ANKiofDZIsy1XR) | [A Power In Letting Go](https://open.spotify.com/album/5EHd9sZcjNMC0w2h2InKFT) | 2:52 | 2022-03-17 | 2022-07-29 |
+| [A Sky Full of Stars](https://open.spotify.com/track/46ugCVn6XqZKNDE2lLQzOm) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [A Sky Full of Stars](https://open.spotify.com/album/6rVuS8geDXgoTCaPMMFSJS) | 3:22 | 2025-05-29 |  |
 | [ABAJO](https://open.spotify.com/track/1GXd4kZSdrJEBo11WgQiDi) | [Alvaro Estrella](https://open.spotify.com/artist/6RYT3r4anXD8WAGOw6T8El) | [ABAJO](https://open.spotify.com/album/5dzPBGqHe0FOjEPxRWey2D) | 2:40 | 2022-01-27 | 2022-02-06 |
 | [about you](https://open.spotify.com/track/0Vzrki9UXx6emkXnhNKvG2) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [about you](https://open.spotify.com/album/1XEwApeQfsu29aMeXHHuYe) | 2:47 | 2022-03-10 | 2022-09-13 |
 | [Absolute Romance](https://open.spotify.com/track/4BRUTaXQsb1hWUV7tY6vei) | [Hanna Järver](https://open.spotify.com/artist/6JHabNWuD8rd3TQQtMf6Q5) | [Absolute Romance](https://open.spotify.com/album/5dqduEZyQ0G5E6wOf9HyQM) | 3:09 | 2025-02-27 | 2025-03-21 |
@@ -378,6 +379,7 @@
 | [Dränker mina tankar](https://open.spotify.com/track/22wxsQjzxWHm5LBGP2AM9Q) | [Eah Jé](https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc) | [Dränker mina tankar](https://open.spotify.com/album/46Z7Ia77aU9iT95eQjaewX) | 3:02 | 2022-04-01 | 2022-09-16 |
 | [Dröm vackra dröm](https://open.spotify.com/track/61ej0PBBMll6v1huilKpRV) | [Byz](https://open.spotify.com/artist/4edQilKMzaQG7GzgAMJDbf), [Benjamin Krantz](https://open.spotify.com/artist/0WC4tfwdMsfXUqaQT5hjP2), [Viktor Nordström](https://open.spotify.com/artist/6o6uQFrQob5ylTDifuX2hx) | [Dröm vackra dröm](https://open.spotify.com/album/5ltpwXNlX18QBllkQvviHc) | 3:20 | 2024-04-04 | 2024-04-22 |
 | [DRÖMFÅNGARE](https://open.spotify.com/track/6XOww2lzkjbOW7gCWD8jpO) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [DRÖMFÅNGARE](https://open.spotify.com/album/2jVfLZceQpyVa67SV4j0Wl) | 3:15 | 2024-04-11 | 2024-05-17 |
+| [Drömmare](https://open.spotify.com/track/3LhUaJOzQpcWTIuBxtr9fC) | [Jakob Hellman](https://open.spotify.com/artist/74terC9ol9zMo8rfzhSOiG), [Laleh](https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq) | [Drömmare](https://open.spotify.com/album/5gBifDZIcbwifi9TDVXzfS) | 3:26 | 2025-05-29 |  |
 | [Drömmare](https://open.spotify.com/track/2zEDpcn34OMwjC7SVPey4S) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Drömmare](https://open.spotify.com/album/7AEwJqMf2dlz3Qx659C6Xd) | 3:03 | 2021-12-16 | 2022-04-01 |
 | [Drömmer om andetag](https://open.spotify.com/track/1WKsFk6rFyrzzV0CdPDIBw) | [Den svenska björnstammen](https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G) | [Drömmer om andetag](https://open.spotify.com/album/3AK4IBdV1dWUcgLIUR8k3I) | 3:30 | 2021-12-16 | 2022-02-25 |
 | [Du](https://open.spotify.com/track/12QVxTflISIpZyLQcQdc3x) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Poetiska försök](https://open.spotify.com/album/0DYbe7sRI3D12rwIMqlyGu) | 4:22 | 2023-09-08 | 2023-10-20 |
@@ -801,7 +803,7 @@
 | [i'm tired](https://open.spotify.com/track/60JzQWgLHTNO68YTpS9YzJ) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [i'm tired](https://open.spotify.com/album/1ZkucnleyUxjL4kSkTzcps) | 2:46 | 2023-09-14 | 2024-01-19 |
 | [Iconic](https://open.spotify.com/track/4oVWH6Jo0vpDY3qusXMj5w) | [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [Iconic](https://open.spotify.com/album/2odTVHhrNcmaKYnoiQ46yP) | 2:28 | 2022-10-28 | 2023-02-01 |
 | [Idiot](https://open.spotify.com/track/1K60A6axKbeTgDMzaoOgri) | [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Alla gör slut \(pt\. 1\)](https://open.spotify.com/album/4ODsYIvXJVM9pvUA3HJUQo) | 2:58 | 2021-12-16 | 2022-01-04 |
-| [idiot now](https://open.spotify.com/track/7wSnWCccdLmbmk8NScY87s) | [garbagepink](https://open.spotify.com/artist/67JJQ1bAsztm9QUq9OTr1z) | [idiot now](https://open.spotify.com/album/08IiAx3EaLXF7HjA8pYZ74) | 3:03 | 2025-05-29 |  |
+| [idiot now](https://open.spotify.com/track/7wSnWCccdLmbmk8NScY87s) | [garbagepink](https://open.spotify.com/artist/67JJQ1bAsztm9QUq9OTr1z) | [idiot now](https://open.spotify.com/album/08IiAx3EaLXF7HjA8pYZ74) | 3:03 | 2025-05-29 | 2025-06-01 |
 | [Idioti](https://open.spotify.com/track/1Prntlz7zWyqTgouopKeGk) | [noll2](https://open.spotify.com/artist/6goq2OWu3ncHBnpFtCZGHR) | [Idioti](https://open.spotify.com/album/4unkmKhapPDaF8PPnBb6Oe) | 3:13 | 2024-06-13 | 2024-08-16 |
 | [Idén om oss](https://open.spotify.com/track/51KeFicZrswYfj2BxvOP3Z) | [Albin Johnsén](https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj) | [Idén om oss](https://open.spotify.com/album/0XBIH0lWaW3vHIrtQ2jx2L) | 2:38 | 2021-12-16 | 2022-03-11 |
 | [If I Were To Die](https://open.spotify.com/track/0nP4j2H2Iz2bGv3LWOWxbK) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [If I Were To Die](https://open.spotify.com/album/76XLa26ATLEq9IjDDw13PU) | 2:43 | 2024-02-08 | 2024-04-05 |

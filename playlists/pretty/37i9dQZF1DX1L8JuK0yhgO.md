@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,728 likes - 70 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,729 likes - 70 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 53 | [The Car](https://open.spotify.com/track/4c423d7lMR9YISv1Todo4C) | [sysmo](https://open.spotify.com/artist/0qSGNUDupbksAYO3fjanl9), [Cwondo](https://open.spotify.com/artist/4lX2EFNI67U8lCqy83W64Z) | [The Car](https://open.spotify.com/album/0O2CL2BxaqPkMgSVIiK5dv) | 2:59 |
 | 54 | [Outside \(Soto\) \- From THE FIRST TAKE](https://open.spotify.com/track/35SPwtAYcliPwJb57wTHlU) | [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi) | [Outside \(Soto\) \- From THE FIRST TAKE](https://open.spotify.com/album/5QgYOdnXiQO4R8HRPP4vQX) | 3:29 |
 | 55 | [LIAR?](https://open.spotify.com/track/6AOQxwQWLrsG6wBZuRF4K4) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [DAISY](https://open.spotify.com/album/0o1RGF3A02UN1aVAX1SLuQ) | 3:25 |
-| 56 | [Dunk or Donate](https://open.spotify.com/track/6QcduibVYrqCSeGRTZXCEp) | [WhoJiggi](https://open.spotify.com/artist/65ouxpwU5hVjZ4dJQycQeY), [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL), [Matthew Ali](https://open.spotify.com/artist/3P0ckFbRO6oAmgflWXmM1E) | [Dunk or Donate](https://open.spotify.com/album/35oVg1G1HCxsfxguoZn5Iw) | 2:14 |
+| 56 | [Dunk or Donate \(feat\. Chow Lee\)](https://open.spotify.com/track/6QcduibVYrqCSeGRTZXCEp) | [WhoJiggi](https://open.spotify.com/artist/65ouxpwU5hVjZ4dJQycQeY), [Matthew Ali](https://open.spotify.com/artist/3P0ckFbRO6oAmgflWXmM1E), [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [Dunk or Donate \(feat\. Chow Lee\)](https://open.spotify.com/album/35oVg1G1HCxsfxguoZn5Iw) | 2:14 |
 | 57 | [ITADAKIMASU](https://open.spotify.com/track/3zZStBbSgerUJoeV6Di6Zd) | [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci) | [FROM FLORIDA'S FINEST](https://open.spotify.com/album/4KUlLprpCrNpRDsXC4MOAV) | 2:14 |
 | 58 | [Jumpy \(feat\. Ski Mask The Slump God\)](https://open.spotify.com/track/49P2pxfkLZa4yfjCRLu0zS) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a), [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [Jumpy \(feat\. Ski Mask The Slump God\)](https://open.spotify.com/album/6fskhLyVR5TOU9yAEYtVXQ) | 2:36 |
 | 59 | [Uber Comfort](https://open.spotify.com/track/6CzYd5690HxPwdhxMdXPCm) | [Hans.](https://open.spotify.com/artist/41azuh0IUq4g2UPySoYp8A) | [Uber Comfort](https://open.spotify.com/album/7ygJyOV6uRim9po4OAffkn) | 2:21 |

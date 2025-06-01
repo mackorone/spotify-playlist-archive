@@ -4,7 +4,7 @@
 
 > This is Halestorm\. The essential tracks, all in one playlist.
 
-52 songs - 3 hr 13 min
+53 songs - 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Darkness Always Wins](https://open.spotify.com/track/7wBKXbleeJQuQDnfKlOOGe) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Darkness Always Wins](https://open.spotify.com/album/6WWNTFaiCuC8rQvDRVIQWr) | 4:50 | 2025-04-24 |  |
 | [Do Not Disturb](https://open.spotify.com/track/6oIjJi274wP86uqFxQRlKV) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Vicious](https://open.spotify.com/album/6hIMdrqgLXY73T9411Y7Ux) | 3:23 | 2025-03-08 |  |
 | [Don't Know How to Stop](https://open.spotify.com/track/28BfkJcbmfktoLkTbYhCbY) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Strange Case of..\. \(Deluxe\)](https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2) | 3:54 | 2025-03-08 | 2025-03-24 |
+| [Everest](https://open.spotify.com/track/5rZLkmdMY0T0PnUnmfUQoB) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Everest](https://open.spotify.com/album/4frviFPPh65QTlBHlEaNTQ) | 4:47 | 2025-06-01 |  |
 | [Familiar Taste of Poison](https://open.spotify.com/track/3mkNZA4Q0dYvZIn6OZEmOz) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Halestorm \(Deluxe\)](https://open.spotify.com/album/5iMlDARMRcsRn0hvFMgDfS) | 4:04 | 2025-03-08 |  |
 | [Freak Like Me](https://open.spotify.com/track/3Akw1yw6W6bQ7GXB0FCoe5) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Strange Case of..\. \(Deluxe\)](https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2) | 3:38 | 2025-03-08 |  |
 | [Get Lucky](https://open.spotify.com/track/66PgT7clBWAuQlMqoUL0YU) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [ReAniMate 2.0: The CoVeRs eP](https://open.spotify.com/album/2uCehLMuLbXVqEklFZzfZA) | 3:08 | 2025-03-08 |  |

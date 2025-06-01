@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 
 > Appreciate the many miracles around you with these songs of worship.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,012 likes - 75 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,070 likes - 75 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 | 28 | [Miracle](https://open.spotify.com/track/54rJa67IrktOcXKYw7wGTR) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Miracle](https://open.spotify.com/album/2xcM934KYzqGv2gQTtm5CH) | 4:56 |
 | 29 | [King Of Kings \- Live at Hillsong Conference](https://open.spotify.com/track/4rjkDg26WVRWMZ1XL02z8m) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [King Of Kings \(Live at Hillsong Conference\)](https://open.spotify.com/album/7qoQzOVmbXm4KXjbu7BJVU) | 4:51 |
 | 30 | [Forever Amen](https://open.spotify.com/track/3W2ft8jbBUuWiKwwkTlw7z) | [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [Forever Amen](https://open.spotify.com/album/4INKppNLM2RZwGmggvpMvY) | 4:30 |
-| 31 | [None But Jesus \- Live](https://open.spotify.com/track/5tgywPECreoxcE2m2DiPQm) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [United We Stand \(Live\)](https://open.spotify.com/album/50naWCBZJurPrqIL4p2V6f) | 5:29 |
-| 32 | [Heal Our Land](https://open.spotify.com/track/51RuKnh1Fec9pZtKOVbO28) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [The Garden](https://open.spotify.com/album/0VlrwygIqoI06z2BTCYuTq) | 5:00 |
+| 31 | [Heal Our Land](https://open.spotify.com/track/51RuKnh1Fec9pZtKOVbO28) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [The Garden](https://open.spotify.com/album/0VlrwygIqoI06z2BTCYuTq) | 5:00 |
+| 32 | [None But Jesus \- Live](https://open.spotify.com/track/5tgywPECreoxcE2m2DiPQm) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [United We Stand \(Live\)](https://open.spotify.com/album/50naWCBZJurPrqIL4p2V6f) | 5:29 |
 | 33 | [God That Saves \(feat\. Stephen McWhirter\) \(feat\. Stephen McWhirter\)](https://open.spotify.com/track/7Mz7SHTiO35YhJCixHoIqN) | [Iron Bell Music](https://open.spotify.com/artist/53D1D9DDZojMCL9XLsKCmK), [Stephen McWhirter](https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3) | [God That Saves \(feat\. Stephen McWhirter\) \(feat\. Stephen McWhirter\)](https://open.spotify.com/album/0bQNI1uTT20rFfRCscEOQE) | 5:15 |
 | 34 | [When My Heart Became Aware](https://open.spotify.com/track/0KitfgfQREza7nK9gkPouX) | [Sean Feucht](https://open.spotify.com/artist/3DJuBJtjHdjAXlpIZCltTR) | [The Things We Did at First](https://open.spotify.com/album/3VS7ZrBjKzBWB7rYca7ALh) | 3:58 |
 | 35 | [More Like Jesus \- Live](https://open.spotify.com/track/54o7m2sWPTagySKiaPPpT2) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [More Like Jesus \(Live\)](https://open.spotify.com/album/3VeJL4SEP3phMu7x7f0pNC) | 5:38 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 | 71 | [Lift My Eyes](https://open.spotify.com/track/528yeDtBCd7bv0emBJIin6) | [Alisa Turner](https://open.spotify.com/artist/02ysP9OjODcaMSXe6SHAre) | [Miracle or Not](https://open.spotify.com/album/5WTM5xqmH7aJYkDStZf7h4) | 4:39 |
 | 72 | [We Just Want to Worship \(Spontaneous\) \- Live](https://open.spotify.com/track/4NyBP8P9C6J6o1yxCeXhCB) | [LIFE Worship](https://open.spotify.com/artist/1ORYkhkN6flHlDSkWVsk4d), [Eby Corydon](https://open.spotify.com/artist/6EJe5fsw9zmyuJfYjCCezm) | [Speak to the Storm](https://open.spotify.com/album/3Dzff0jSwIghgeL33WEJn8) | 2:30 |
 | 73 | [All Hail King Jesus](https://open.spotify.com/track/0FRdprdBRrdo0jMxhK0hTy) | [Jeremy Riddle](https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi) | [More](https://open.spotify.com/album/2mGewKlkzqeAld4N3T1lfx) | 8:17 |
-| 74 | [House Of Miracles \- Live](https://open.spotify.com/track/2Td9w1ZBDw7VPvERVudmDw) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [House Of Miracles \(Live\)](https://open.spotify.com/album/6XwSI6fu7MRZulAaOqcbwI) | 7:33 |
-| 75 | [Surrounded \(Fight My Battles\) \[Live\]](https://open.spotify.com/track/4GlWqYw49fgrRiB0YzfyMO) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Elyssa Figueroa](https://open.spotify.com/artist/0u6BP0u3FLrJrlWU3XwC8l) | [Moments](https://open.spotify.com/album/4bKpeGX4y9MZmzSYNnU4KC) | 5:49 |
+| 74 | [Yeshua \(Spontaneous\) \- Live](https://open.spotify.com/track/07GcGWXI5TzXpW87pkzV78) | [Eleni Baker](https://open.spotify.com/artist/3T9neL3g52le9PKELcMHP3) | [Yeshua \(Spontaneous\) \[Live\]](https://open.spotify.com/album/5euI6yTA3skQd2vQiVepMj) | 6:57 |
+| 75 | [Wonder \(Spontaneous\) \- Live](https://open.spotify.com/track/69PJBGTRrZZQrwbH4TxnIQ) | [Bethel Music\|Amanda Lindsey Cook](https://open.spotify.com/artist/5ZXoFwpHZ0y0Try39IKAZ2) | [You Make Me Brave \(Live\)](https://open.spotify.com/album/0u5bqt44z6UQEcHV7MVFvM) | 6:31 |
 
 Snapshot ID: `Zq3mVAAAAADbi/ciHjsYLnYyJV2CbK/t`

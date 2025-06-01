@@ -963,6 +963,28 @@
     },
     {
       "album": {
+        "name": "Let It Ride Remixes, Pt. 2",
+        "url": "https://open.spotify.com/album/0tAicLuKd7VSZ65MH9NLBg"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        },
+        {
+          "name": "HoneyLuv",
+          "url": "https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl"
+        }
+      ],
+      "date_added": "2025-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211166,
+      "name": "Let It Ride - HoneyLuv Remix",
+      "url": "https://open.spotify.com/track/3Ch5p4bpm3E62yWj3lQn1Z"
+    },
+    {
+      "album": {
         "name": "Let It Ride (Jamie Jones Remix)",
         "url": "https://open.spotify.com/album/69huZFB3RkeoW4VNMd7BdY"
       },
@@ -978,7 +1000,7 @@
       ],
       "date_added": "2025-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-01",
       "duration_ms": 206785,
       "name": "Let It Ride - Jamie Jones Remix",
       "url": "https://open.spotify.com/track/4Qia8t2vNSY3qyMYe6zCU9"

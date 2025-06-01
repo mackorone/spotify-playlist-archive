@@ -1245,6 +1245,24 @@
     },
     {
       "album": {
+        "name": "FLOW THE MAX !!!",
+        "url": "https://open.spotify.com/album/1a2YLSyokgLs0QB6nnmk3A"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2025-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215813,
+      "name": "Red Hot Riot",
+      "url": "https://open.spotify.com/track/2xTGXtXO9UBBe6FwZy5p1k"
+    },
+    {
+      "album": {
         "name": "Golden Coast",
         "url": "https://open.spotify.com/album/4uxBcrKApgTExBfq07yulB"
       },
@@ -2154,7 +2172,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-01",
       "duration_ms": 242173,
       "name": "\u9065\u304b\u5f7c\u65b9",
       "url": "https://open.spotify.com/track/2IDmgPzLORjRMVnfiUtNax"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2JD1f2.md) - [plain]
 
 > This is EST Gee\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,680 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,693 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2JD1f2.md) - [plain]
 | 44 | [Morals](https://open.spotify.com/track/1rVsTdubD5s0PDz6gzLhTK) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Ion Feel Nun](https://open.spotify.com/album/5pn7HHtN1bupnOMXtWs0LL) | 1:46 |
 | 45 | [Free Z5](https://open.spotify.com/track/6mAzAx2H1vYWZm83OdsCQO) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I Aint Feeling You \(Bonus Edition\)](https://open.spotify.com/album/5fYuVzVAC9wS0m6rOEvwua) | 2:36 |
 | 46 | [Dirt McGerk \(feat\. EST Gee & Lil Crix\)](https://open.spotify.com/track/2fVsxlNzZlTDmj0xQzooOb) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Lil Crix](https://open.spotify.com/artist/1PVJd1GADq9I6pSa1rvEzk) | [Pistolz & Pearlz](https://open.spotify.com/album/5RHAybGQ8yuZHBd45DJ05b) | 3:53 |
-| 47 | [Free The Shiners](https://open.spotify.com/track/7f0jidOh8lBPZRZpANOEER) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Last Ones Left](https://open.spotify.com/album/1xwuoLGU6bjyiGArJAVYeH) | 2:05 |
-| 48 | [Scarface \(feat\. EST Gee\)](https://open.spotify.com/track/59JNRew95Gmn4wSfqdf1kR) | [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [SNOFALL](https://open.spotify.com/album/57KhbRYV5DpUmnn7nnJhbp) | 3:24 |
+| 47 | [Scarface \(feat\. EST Gee\)](https://open.spotify.com/track/59JNRew95Gmn4wSfqdf1kR) | [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [SNOFALL](https://open.spotify.com/album/57KhbRYV5DpUmnn7nnJhbp) | 3:24 |
+| 48 | [Free The Shiners](https://open.spotify.com/track/7f0jidOh8lBPZRZpANOEER) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Last Ones Left](https://open.spotify.com/album/1xwuoLGU6bjyiGArJAVYeH) | 2:05 |
 | 49 | [Free Leaf](https://open.spotify.com/track/0giQ1pVFNHkPqdwzlQlXfZ) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I Aint Feeling You \(Bonus Edition\)](https://open.spotify.com/album/5fYuVzVAC9wS0m6rOEvwua) | 1:27 |
 | 50 | [Capitol 1](https://open.spotify.com/track/2MI2Mm4Sfnvz41hJkKZEhK) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Bigger Than Life Or Death](https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku) | 2:21 |
 
-Snapshot ID: `aDejgAAAAAAAGkjTXRn+/7lWfQQPRcml`
+Snapshot ID: `aDj1AAAAAAC5J/cB77uaOraotmQK7XIo`

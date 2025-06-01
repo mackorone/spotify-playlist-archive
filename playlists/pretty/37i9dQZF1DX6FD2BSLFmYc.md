@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FD2BSLFmYc.md) - [plain]
 
 > Encuentra la paz interior con esencias y vibraciones místicas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,263 likes - 117 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,274 likes - 117 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FD2BSLFmYc.md) - [plain]
 | 66 | [My People Have Deep Roots](https://open.spotify.com/track/5taMzHf1NWTcjLxGAn3DhX) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ) | [My People Have Deep Roots](https://open.spotify.com/album/4zkFQ6mn79zECO6tQh3I5d) | 4:00 |
 | 67 | [Green Hills](https://open.spotify.com/track/7pbz8Dt8JM5mtQcx8wHdlm) | [Sonic Xaman](https://open.spotify.com/artist/13vgYRGlLirVXX6Yoxzm8c) | [Green Hills](https://open.spotify.com/album/274LQMUQAEYCzXgjDruWSz) | 4:30 |
 | 68 | [Winter Caves](https://open.spotify.com/track/5YfO9gZ8bYAjcur5lhZIQp) | [Sonic Xaman](https://open.spotify.com/artist/13vgYRGlLirVXX6Yoxzm8c) | [Winter Caves](https://open.spotify.com/album/0aWky0zg4V8R5MdpF5QGAq) | 3:50 |
-| 69 | [Música para la Meditación](https://open.spotify.com/track/17brV8ioEjTOxTS7xOdQT2) | [Nature Sound Series](https://open.spotify.com/artist/3AsV51V7gZis4KfroWFhIE) | [Sonidos de Agua Relajantes](https://open.spotify.com/album/5vlkWsUimB4NLWifc5ljyW) | 3:55 |
+| 69 | [Música para la Meditación](https://open.spotify.com/track/17brV8ioEjTOxTS7xOdQT2) | [Pat McKenneth](https://open.spotify.com/artist/1lsGd9LD0B8ta57AaoBm9P) | [Sonidos de Agua Relajantes](https://open.spotify.com/album/5vlkWsUimB4NLWifc5ljyW) | 3:55 |
 | 70 | [A State of Serenity](https://open.spotify.com/track/2X5ft2Wr7rKNWOIq95r4jN) | [Magnetic Dreams](https://open.spotify.com/artist/5DsqLNucfAOaAj3yEWefJc) | [A State of Serenity](https://open.spotify.com/album/4cRhOKD4JYSYT3m6rCoadt) | 2:18 |
 | 71 | [Equilibrio 432Hz](https://open.spotify.com/track/3ZhxpgqkIRpL0WkkL74olF) | [Invocaciones](https://open.spotify.com/artist/4MCeDRNQzklVuOcniBsXlJ) | [Equilibrio 432Hz](https://open.spotify.com/album/4VFrZ2KOUog0GkLM5ff6RF) | 2:30 |
 | 72 | [Tribal Tibble](https://open.spotify.com/track/6t6QdyCqUFIuIVbYVSK3zU) | [Lek\-Singh](https://open.spotify.com/artist/2xjXGjIknfLJXWsZ11MfvI) | [Tribal Tibble](https://open.spotify.com/album/1eBHxz3Ebe4CC8X7O3ytS3) | 3:58 |
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FD2BSLFmYc.md) - [plain]
 | 80 | [Tranquil Meditation](https://open.spotify.com/track/2lxg9bg6tLnomcsffKgcfv) | [Soothing Music Academy](https://open.spotify.com/artist/4Of9KJVw5YAsihGbnRONMH) | [Healing Music for Plants – Soothing Sounds for Deep Stimulation, Health & Strength, Ambient Serenity, Blooming Flowers](https://open.spotify.com/album/2WPReIZqUbSUThvlChFQIE) | 3:26 |
 | 81 | [Root Chakra \- Evolution \- regular](https://open.spotify.com/track/5YGKEzAvgp7CrbDR7ocU5B) | [Ben Scott](https://open.spotify.com/artist/6Wg54IsLeFHsxjRlhQnMXd), [Christa Michell](https://open.spotify.com/artist/7LsExUBUuJG7PbZyDkEqDU) | [Tibetan Chakra Meditations](https://open.spotify.com/album/0gvC6ZI3rJ3G6r5fB6qjzb) | 5:02 |
 | 82 | [संस्कृतम्](https://open.spotify.com/track/6EbrUXsMQwQbtPdW9uCDlC) | [Elof Sunflower](https://open.spotify.com/artist/6BncFvDvMh4Z9JZ04ujVpa) | [Mindful Meditation](https://open.spotify.com/album/14NggUSq5mr6Zyo8Wovpw6) | 3:34 |
-| 83 | [Sonidos Tibetanos](https://open.spotify.com/track/54jEoVMgvleXzJV0v4VyP9) | [Nature Sound Series](https://open.spotify.com/artist/3AsV51V7gZis4KfroWFhIE) | [Sonidos de Agua Relajantes](https://open.spotify.com/album/5vlkWsUimB4NLWifc5ljyW) | 4:13 |
+| 83 | [Sonidos Tibetanos](https://open.spotify.com/track/54jEoVMgvleXzJV0v4VyP9) | [Pat McKenneth](https://open.spotify.com/artist/1lsGd9LD0B8ta57AaoBm9P) | [Sonidos de Agua Relajantes](https://open.spotify.com/album/5vlkWsUimB4NLWifc5ljyW) | 4:13 |
 | 84 | [Ray](https://open.spotify.com/track/4DZZQbBwmrheEeiVqvkpEx) | [Blurstem](https://open.spotify.com/artist/0FXk0xKcMcLfLjkGduqGkn), [Andrew Tasselmyer](https://open.spotify.com/artist/3vwXyo09sUewtbKz6Bwkjx) | [Ray](https://open.spotify.com/album/0RFSLWfMPONtCdhxIRvCPL) | 4:56 |
 | 85 | [Is Not All One](https://open.spotify.com/track/1bqkk2hP7oUQiaSSAxKIPs) | [Tony Scott](https://open.spotify.com/artist/3wtfcI8iPGKBmnalt0013v) | [Music For Zen Meditation And Other Joys](https://open.spotify.com/album/2TU5pJrurQif5n0ADKdOyp) | 3:12 |
 | 86 | [Consideration](https://open.spotify.com/track/65lddH3h121XMhXaVkazVG) | [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX), [Anarekli](https://open.spotify.com/artist/0owGYDx2xWGY0t6Nelyf4N), [Iasamani](https://open.spotify.com/artist/6AdGVwkv68xlsPwV2KvEF8) | [Consideration](https://open.spotify.com/album/0ogzhXsphb7JCFdSg3dRc6) | 2:27 |

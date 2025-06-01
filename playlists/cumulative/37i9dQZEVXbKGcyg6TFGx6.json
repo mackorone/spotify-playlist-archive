@@ -3128,7 +3128,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-01",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -5092,7 +5092,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-01",
       "duration_ms": 159493,
       "name": "Baller",
       "url": "https://open.spotify.com/track/4kbkYbhWNiSJraySknB4hD"
@@ -7580,7 +7580,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-01",
       "duration_ms": 176751,
       "name": "Breakfast in Paris",
       "url": "https://open.spotify.com/track/4hn0dxEwlp1h4Bnq4vSTHA"
@@ -9010,7 +9010,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-01",
       "duration_ms": 258431,
       "name": "Can't Hold Us (feat. Ray Dalton)",
       "url": "https://open.spotify.com/track/22skzmqfdWrjJylampe0kt"
@@ -13002,7 +13002,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-01",
       "duration_ms": 179996,
       "name": "Deslocado",
       "url": "https://open.spotify.com/track/31CsSZ9KlQmEu0JvWSkM3j"
@@ -15790,7 +15790,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-01",
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz"
@@ -15826,7 +15826,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-24",
+      "date_removed": null,
       "duration_ms": 173746,
       "name": "Espresso Macchiato",
       "url": "https://open.spotify.com/track/3gWBWLw3J3XTy3QTo36GqJ"
@@ -15844,7 +15844,7 @@
       ],
       "date_added": "2025-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-01",
       "duration_ms": 173746,
       "name": "Espresso Macchiato",
       "url": "https://open.spotify.com/track/4zpNfuWJA3K4d9TS4qnOIB"
@@ -18548,6 +18548,24 @@
       "duration_ms": 208282,
       "name": "Frozen Tears",
       "url": "https://open.spotify.com/track/4yNNFapUZM7aTElXE2JveQ"
+    },
+    {
+      "album": {
+        "name": "B\u0112Y\u0100H",
+        "url": "https://open.spotify.com/album/6y0rmE7jkFS9cB03Gw0qKV"
+      },
+      "artists": [
+        {
+          "name": "Damso",
+          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
+        }
+      ],
+      "date_added": "2025-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165800,
+      "name": "Fr\u00e8re",
+      "url": "https://open.spotify.com/track/2gkgXcvs3tQvUecGcy3IFO"
     },
     {
       "album": {
@@ -23681,6 +23699,24 @@
     },
     {
       "album": {
+        "name": "B\u0112Y\u0100H",
+        "url": "https://open.spotify.com/album/6y0rmE7jkFS9cB03Gw0qKV"
+      },
+      "artists": [
+        {
+          "name": "Damso",
+          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
+        }
+      ],
+      "date_added": "2025-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190373,
+      "name": "Impardonnable",
+      "url": "https://open.spotify.com/track/6nkFbmDY84a9rejFSbIMdj"
+    },
+    {
+      "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
@@ -24691,6 +24727,24 @@
     },
     {
       "album": {
+        "name": "B\u0112Y\u0100H",
+        "url": "https://open.spotify.com/album/6y0rmE7jkFS9cB03Gw0qKV"
+      },
+      "artists": [
+        {
+          "name": "Damso",
+          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
+        }
+      ],
+      "date_added": "2025-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228573,
+      "name": "JCVDEMS",
+      "url": "https://open.spotify.com/track/1HCJ5RO87crtux9fWtXvDQ"
+    },
+    {
+      "album": {
         "name": "Je M'appelle",
         "url": "https://open.spotify.com/album/6T6uWGOSAUhvoZfLlIyDuJ"
       },
@@ -25132,6 +25186,28 @@
       "duration_ms": 122701,
       "name": "Just Apologize",
       "url": "https://open.spotify.com/track/6CGiuASOotpTQvS9765wQ4"
+    },
+    {
+      "album": {
+        "name": "Just Keep Watching (From F1\u00ae The Movie)",
+        "url": "https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        },
+        {
+          "name": "F1 The Album",
+          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
+        }
+      ],
+      "date_added": "2025-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142550,
+      "name": "Just Keep Watching (From F1\u00ae The Movie)",
+      "url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
     },
     {
       "album": {
@@ -27526,7 +27602,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-01",
       "duration_ms": 175853,
       "name": "Lighter",
       "url": "https://open.spotify.com/track/0AMoopn68aGAAaJ9qFXPnX"
@@ -28246,6 +28322,24 @@
       "duration_ms": 152380,
       "name": "love hotel",
       "url": "https://open.spotify.com/track/6IwmDRpswDujeciIBTiEOL"
+    },
+    {
+      "album": {
+        "name": "B\u0112Y\u0100H",
+        "url": "https://open.spotify.com/album/6y0rmE7jkFS9cB03Gw0qKV"
+      },
+      "artists": [
+        {
+          "name": "Damso",
+          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
+        }
+      ],
+      "date_added": "2025-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200706,
+      "name": "Love is blind",
+      "url": "https://open.spotify.com/track/7sGKXFxcDp0SD1hDk6rWH4"
     },
     {
       "album": {
@@ -29148,6 +29242,28 @@
       "duration_ms": 158826,
       "name": "Magic",
       "url": "https://open.spotify.com/track/6xukxpR18uEv9CpNQ0d0ll"
+    },
+    {
+      "album": {
+        "name": "B\u0112Y\u0100H",
+        "url": "https://open.spotify.com/album/6y0rmE7jkFS9cB03Gw0qKV"
+      },
+      "artists": [
+        {
+          "name": "Damso",
+          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
+        },
+        {
+          "name": "I.A.",
+          "url": "https://open.spotify.com/artist/1X3wBxJjbLALzN8QqaXIFZ"
+        }
+      ],
+      "date_added": "2025-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180360,
+      "name": "Magic (feat. I.A.)",
+      "url": "https://open.spotify.com/track/26AJYfDkqXUTOXLW7fYOZO"
     },
     {
       "album": {
@@ -33490,7 +33606,7 @@
       ],
       "date_added": "2025-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-01",
       "duration_ms": 176000,
       "name": "Nice To Meet You",
       "url": "https://open.spotify.com/track/6eWAWHm0cuOaPGDWhoLJ7s"
@@ -34520,7 +34636,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-01",
       "duration_ms": 183685,
       "name": "NUEVAYoL",
       "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
@@ -35917,6 +36033,28 @@
     },
     {
       "album": {
+        "name": "B\u0112Y\u0100H",
+        "url": "https://open.spotify.com/album/6y0rmE7jkFS9cB03Gw0qKV"
+      },
+      "artists": [
+        {
+          "name": "Damso",
+          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
+        },
+        {
+          "name": "SARAH SEY",
+          "url": "https://open.spotify.com/artist/3PSGIWWzhs6TnocrDnG2qs"
+        }
+      ],
+      "date_added": "2025-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215813,
+      "name": "Pa Pa Paw",
+      "url": "https://open.spotify.com/track/7heoPFrtuH6JU6AcfzjWHp"
+    },
+    {
+      "album": {
         "name": "Pacemaker",
         "url": "https://open.spotify.com/album/0ER87zofo8hRzN6Bl1Fbjw"
       },
@@ -36268,7 +36406,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-31",
+      "date_removed": null,
       "duration_ms": 172259,
       "name": "Paris",
       "url": "https://open.spotify.com/track/6ctcVdXaJKn5LVFDjMBqzc"
@@ -38650,6 +38788,24 @@
       "duration_ms": 198937,
       "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
       "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
+    },
+    {
+      "album": {
+        "name": "B\u0112Y\u0100H",
+        "url": "https://open.spotify.com/album/6y0rmE7jkFS9cB03Gw0qKV"
+      },
+      "artists": [
+        {
+          "name": "Damso",
+          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
+        }
+      ],
+      "date_added": "2025-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211893,
+      "name": "Qui m\u2019a demand\u00e9",
+      "url": "https://open.spotify.com/track/3RTNVjAZmNJ6dIwqP5vbOj"
     },
     {
       "album": {
@@ -44474,7 +44630,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-01",
       "duration_ms": 172533,
       "name": "Stargazing",
       "url": "https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10"
@@ -48964,7 +49120,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-01",
       "duration_ms": 180973,
       "name": "Tout Pour L'\u00e9quipe",
       "url": "https://open.spotify.com/track/2D2JZ8FHmkyGxcGrDpWGe4"
@@ -50750,7 +50906,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-30",
+      "date_removed": null,
       "duration_ms": 135131,
       "name": "Vaitimbora",
       "url": "https://open.spotify.com/track/0QAUgW2vTmlUWhbiNeSkWm"
@@ -50957,6 +51113,24 @@
     },
     {
       "album": {
+        "name": "B\u0112Y\u0100H",
+        "url": "https://open.spotify.com/album/6y0rmE7jkFS9cB03Gw0qKV"
+      },
+      "artists": [
+        {
+          "name": "Damso",
+          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
+        }
+      ],
+      "date_added": "2025-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166506,
+      "name": "VIE OLENCE",
+      "url": "https://open.spotify.com/track/5ovwVxjh6t6QFyIVUiTn4b"
+    },
+    {
+      "album": {
         "name": "Vielen Dank",
         "url": "https://open.spotify.com/album/2etLSDgqjXojLOpg7zZV3r"
       },
@@ -51078,7 +51252,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-01",
       "duration_ms": 242373,
       "name": "Viva La Vida",
       "url": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
@@ -51576,7 +51750,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-01",
       "duration_ms": 164998,
       "name": "Wasted Love",
       "url": "https://open.spotify.com/track/321yySUTzRXUbzkRTeTzDB"
@@ -52276,6 +52450,24 @@
       "duration_ms": 180893,
       "name": "WEMBY (feat. Offset)",
       "url": "https://open.spotify.com/track/6ggnoBwRtFo0jphM5sNJgr"
+    },
+    {
+      "album": {
+        "name": "Wenn das Liebe ist",
+        "url": "https://open.spotify.com/album/6YqNO9MXKvaazkweRM4xpY"
+      },
+      "artists": [
+        {
+          "name": "Nina Chuba",
+          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
+        }
+      ],
+      "date_added": "2025-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164991,
+      "name": "Wenn das Liebe ist",
+      "url": "https://open.spotify.com/track/1E7xmNFzqkkh1DMwBomBg3"
     },
     {
       "album": {
@@ -53208,6 +53400,24 @@
       "duration_ms": 161384,
       "name": "WITHOUT YOU (with Miley Cyrus)",
       "url": "https://open.spotify.com/track/1EHUQesfVKwbthtNcpBi9g"
+    },
+    {
+      "album": {
+        "name": "B\u0112Y\u0100H",
+        "url": "https://open.spotify.com/album/6y0rmE7jkFS9cB03Gw0qKV"
+      },
+      "artists": [
+        {
+          "name": "Damso",
+          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
+        }
+      ],
+      "date_added": "2025-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216373,
+      "name": "Wolof",
+      "url": "https://open.spotify.com/track/1iVRAi1hV7UVqlbCo6ES9g"
     },
     {
       "album": {

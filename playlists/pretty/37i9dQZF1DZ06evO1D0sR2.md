@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1D0sR2.md) - [plain]
 
 > This is JJ Hairston\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,991 likes - 50 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,992 likes - 50 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1D0sR2.md) - [plain]
 | 43 | [We Adore You \- Live](https://open.spotify.com/track/6X0MR8zGMm0HkrY0bbuOI3) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Melvin Crispell III](https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK), [Gathering Place Worship Choir](https://open.spotify.com/artist/6vTaIeXilOtVSuBJJacRfm) | [Joy Is Here \(Live\)](https://open.spotify.com/album/4Dp2qmQr1rgBYujOEgDWFB) | 8:19 |
 | 44 | [Oh Holy Lamb](https://open.spotify.com/track/3SBa0QkllF6IqeEdg9RPqk) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [Live: The Praise, the Worship](https://open.spotify.com/album/50hxoMiAYBD7ff6VoCfWwA) | 5:29 |
 | 45 | [Love Lifted Me](https://open.spotify.com/track/7HTM2vcGxRMqAXU5IbiZBO) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [After This](https://open.spotify.com/album/6YBye6EBEoIN9DNX0BTL4g) | 7:40 |
-| 46 | [Glory and Honor \- Live](https://open.spotify.com/track/3IMaPnkSJjgnnWgRdn89oF) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0) | [Exalted...Live In Baltimore \(Deluxe Edition\)](https://open.spotify.com/album/4RNPc3sQN0YMAWz0IWedDR) | 7:24 |
-| 47 | [Psalms 100 \(feat\. Greg Kirkland, Jr\. & Adrienne Lewis\-Freeman\)](https://open.spotify.com/track/54XPkGglHnDcW12yQoKSa3) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Greg Kirkland, Jr.](https://open.spotify.com/artist/2aPBhu0KFUmoRzz5ENVHrs), [Adrianne Lewis\-Freeman](https://open.spotify.com/artist/06BrEZsvWk0Be9gAccriY4) | [Believe Again, Vol\. II](https://open.spotify.com/album/4dWRh2fMDMGj4aM1tjf0ZL) | 5:18 |
+| 46 | [Jesus Reigns \- Live](https://open.spotify.com/track/6W32Quvo1qpHDFooIoeFEE) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0) | [Exalted...Live In Baltimore \(Deluxe Edition\)](https://open.spotify.com/album/4RNPc3sQN0YMAWz0IWedDR) | 6:13 |
+| 47 | [Report of the Lord](https://open.spotify.com/track/3GqDysrVRVYPVQbEZwoy3J) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [David Wilford](https://open.spotify.com/artist/4FCFuoO71C9UjF3czc4Blt) | [Not Holding Back](https://open.spotify.com/album/2seg4b0qgYJiVhbecjdHhk) | 7:52 |
 | 48 | [Praise to the Rock](https://open.spotify.com/track/1lnyOei5jVdv6zcUuAs0na) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [Live: The Praise, the Worship](https://open.spotify.com/album/50hxoMiAYBD7ff6VoCfWwA) | 5:11 |
-| 49 | [Report of the Lord](https://open.spotify.com/track/3GqDysrVRVYPVQbEZwoy3J) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [David Wilford](https://open.spotify.com/artist/4FCFuoO71C9UjF3czc4Blt) | [Not Holding Back](https://open.spotify.com/album/2seg4b0qgYJiVhbecjdHhk) | 7:52 |
-| 50 | [Jesus Reigns \- Live](https://open.spotify.com/track/6W32Quvo1qpHDFooIoeFEE) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0) | [Exalted...Live In Baltimore \(Deluxe Edition\)](https://open.spotify.com/album/4RNPc3sQN0YMAWz0IWedDR) | 6:13 |
+| 49 | [Psalms 100 \(feat\. Greg Kirkland, Jr\. & Adrienne Lewis\-Freeman\)](https://open.spotify.com/track/54XPkGglHnDcW12yQoKSa3) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Greg Kirkland, Jr.](https://open.spotify.com/artist/2aPBhu0KFUmoRzz5ENVHrs), [Adrianne Lewis\-Freeman](https://open.spotify.com/artist/06BrEZsvWk0Be9gAccriY4) | [Believe Again, Vol\. II](https://open.spotify.com/album/4dWRh2fMDMGj4aM1tjf0ZL) | 5:18 |
+| 50 | [Glory and Honor \- Live](https://open.spotify.com/track/3IMaPnkSJjgnnWgRdn89oF) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0) | [Exalted...Live In Baltimore \(Deluxe Edition\)](https://open.spotify.com/album/4RNPc3sQN0YMAWz0IWedDR) | 7:24 |
 
-Snapshot ID: `aDejgAAAAADd4ZFxiZafimSjqoAGrCJ3`
+Snapshot ID: `aDj1AAAAAABk46I6TBK3sGrG4I7+0Og9`

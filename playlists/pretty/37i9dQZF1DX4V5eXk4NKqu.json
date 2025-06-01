@@ -1,6 +1,6 @@
 {
   "description": "The best of Latin Indie today, featuring Buscabulla.",
-  "num_followers": 167801,
+  "num_followers": 167814,
   "original_name": "Top Latin Indie",
   "owner": {
     "name": "Spotify",
@@ -503,6 +503,22 @@
     {
       "added_at": "2025-05-30 04:00:30",
       "album": {
+        "name": "Te Fuiste",
+        "url": "https://open.spotify.com/album/3mdFbNYsiqHuP3iJNsLErq"
+      },
+      "artists": [
+        {
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+        }
+      ],
+      "duration_ms": 189360,
+      "name": "Te Fuiste",
+      "url": "https://open.spotify.com/track/4jBn233LyLyeAs7uOlRF9N"
+    },
+    {
+      "added_at": "2025-05-30 04:00:30",
+      "album": {
         "name": "Sof\u00eda Vald\u00e9s",
         "url": "https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 160312,
       "name": "Drogada de Emociones",
       "url": "https://open.spotify.com/track/7nUWS3PiYx9LmrLKInsLzM"
-    },
-    {
-      "added_at": "2025-05-30 04:00:30",
-      "album": {
-        "name": "Te Fuiste",
-        "url": "https://open.spotify.com/album/3mdFbNYsiqHuP3iJNsLErq"
-      },
-      "artists": [
-        {
-          "name": "Buscabulla",
-          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
-        }
-      ],
-      "duration_ms": 189360,
-      "name": "Te Fuiste",
-      "url": "https://open.spotify.com/track/4jBn233LyLyeAs7uOlRF9N"
     },
     {
       "added_at": "2025-05-30 04:00:30",
@@ -635,26 +635,6 @@
     {
       "added_at": "2025-05-30 04:00:30",
       "album": {
-        "name": "VISTO",
-        "url": "https://open.spotify.com/album/5cCKiC4c4S5wap5EbyjXHR"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        },
-        {
-          "name": "\u00c1lvaro De Luna",
-          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
-        }
-      ],
-      "duration_ms": 163026,
-      "name": "VISTO",
-      "url": "https://open.spotify.com/track/5atvafpwTItCJk0YVAZLzz"
-    },
-    {
-      "added_at": "2025-05-30 04:00:30",
-      "album": {
         "name": "Q.I.S",
         "url": "https://open.spotify.com/album/6bTKewCMHer6xH1SGu1CzH"
       },
@@ -711,6 +691,26 @@
     {
       "added_at": "2025-05-30 04:00:30",
       "album": {
+        "name": "VISTO",
+        "url": "https://open.spotify.com/album/5cCKiC4c4S5wap5EbyjXHR"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        },
+        {
+          "name": "\u00c1lvaro De Luna",
+          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
+        }
+      ],
+      "duration_ms": 163026,
+      "name": "VISTO",
+      "url": "https://open.spotify.com/track/5atvafpwTItCJk0YVAZLzz"
+    },
+    {
+      "added_at": "2025-05-30 04:00:30",
+      "album": {
         "name": "LUNA 18",
         "url": "https://open.spotify.com/album/2lkLkEzDpDpGjIUHH7kavU"
       },
@@ -763,22 +763,6 @@
       "duration_ms": 212160,
       "name": "Perdido",
       "url": "https://open.spotify.com/track/0iuj08Ku8Ab4uuGPUSJt8H"
-    },
-    {
-      "added_at": "2025-05-30 04:00:30",
-      "album": {
-        "name": "palacio <3",
-        "url": "https://open.spotify.com/album/03rNxNCqFn5f1jbQBIiR2I"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "palacio <3",
-      "url": "https://open.spotify.com/track/6YgwL3HZe5RZMqiXtSdYHo"
     },
     {
       "added_at": "2025-05-30 04:00:30",
@@ -859,22 +843,6 @@
     {
       "added_at": "2025-05-30 04:00:30",
       "album": {
-        "name": "ALGO ESPECIAL",
-        "url": "https://open.spotify.com/album/5BsLcTXZI2Ag1mbl7m2WH5"
-      },
-      "artists": [
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
-        }
-      ],
-      "duration_ms": 205067,
-      "name": "ALGO ESPECIAL",
-      "url": "https://open.spotify.com/track/3mXE8cYr7fvWOe1JCJz2yh"
-    },
-    {
-      "added_at": "2025-05-30 04:00:30",
-      "album": {
         "name": "11:11",
         "url": "https://open.spotify.com/album/7eqKwpQasPxFytq7NiUNtO"
       },
@@ -887,6 +855,38 @@
       "duration_ms": 208351,
       "name": "11:11",
       "url": "https://open.spotify.com/track/5hFzcSKV67yaLUZohMB8vq"
+    },
+    {
+      "added_at": "2025-05-30 04:00:30",
+      "album": {
+        "name": "palacio <3",
+        "url": "https://open.spotify.com/album/03rNxNCqFn5f1jbQBIiR2I"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "palacio <3",
+      "url": "https://open.spotify.com/track/6YgwL3HZe5RZMqiXtSdYHo"
+    },
+    {
+      "added_at": "2025-05-30 04:00:30",
+      "album": {
+        "name": "ALGO ESPECIAL",
+        "url": "https://open.spotify.com/album/5BsLcTXZI2Ag1mbl7m2WH5"
+      },
+      "artists": [
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "duration_ms": 205067,
+      "name": "ALGO ESPECIAL",
+      "url": "https://open.spotify.com/track/3mXE8cYr7fvWOe1JCJz2yh"
     },
     {
       "added_at": "2025-05-30 04:00:30",

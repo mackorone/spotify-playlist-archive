@@ -4,7 +4,7 @@
 
 > The best new electronic music\. Cover: Nilhil Young, Ashkan Dian, Unseen.
 
-5,407 songs - 19 day 0 hr 16 min
+5,407 songs - 19 day 0 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,7 +239,7 @@
 | [Altered Destiny \- Chill Mix](https://open.spotify.com/track/5fRI7dWkOSw6DNaPef9MVV) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Altered Destiny](https://open.spotify.com/album/71zAjLq6pfN8gRmESEU8Y5) | 3:05 | 2022-10-27 | 2022-11-11 |
 | [Altitude](https://open.spotify.com/track/59pO4qPwWF0l6bQYFaxiFo) | [Gorje Hewek](https://open.spotify.com/artist/0HBaoUIo3fXlnWz1dc4mro), [Polo \(AR\)](https://open.spotify.com/artist/6vCBysb7G1RD4bv0dtfhKb) | [Altitude](https://open.spotify.com/album/70viSOpXSw0U8iOIfIbzDS) | 5:34 | 2023-03-09 | 2023-03-25 |
 | [Altitude](https://open.spotify.com/track/0jfawsq3wQKUtvoBfQRlPK) | [Hidden Voices](https://open.spotify.com/artist/7nm1s5jeLUOtV654BErfeu) | [Altitude](https://open.spotify.com/album/7d2R3XGaesuYEhQWEKpjE0) | 4:14 | 2023-06-30 | 2023-07-14 |
-| [Alto](https://open.spotify.com/track/6W0JyLntjW5czCieDPSkui) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Alto](https://open.spotify.com/album/6CK5736RvBDi7w9wDjCYLf) | 3:08 | 2025-05-29 |  |
+| [Alto](https://open.spotify.com/track/6W0JyLntjW5czCieDPSkui) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Alto](https://open.spotify.com/album/6CK5736RvBDi7w9wDjCYLf) | 3:45 | 2025-05-29 |  |
 | [Alto Adige](https://open.spotify.com/track/11XOxp07FStWyaO3FQ98iL) | [Steve Bug](https://open.spotify.com/artist/4SoC2HfA0nGk3xCJ3hRG3J) | [Alto Adige](https://open.spotify.com/album/1PWgfYRjA5GL1Eia0i14aE) | 8:27 | 2023-04-27 | 2023-05-12 |
 | [ALUNA](https://open.spotify.com/track/6WuOTw1d5SRWfQMFk28TBZ) | [Psaiko.Dino](https://open.spotify.com/artist/4mfImR7GM7aMubah2rvlbB), [Maywa](https://open.spotify.com/artist/0dChoTLv7Af0baOzH5UZlt) | [ALUNA](https://open.spotify.com/album/0KuASIjnr64R08mkM88HvQ) | 2:52 | 2023-08-10 | 2023-08-25 |
 | [Always Ascending](https://open.spotify.com/track/3neH0qCEd7nNYPOJCoB7xr) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [KAM\-BU](https://open.spotify.com/artist/2FIE0at8itKGQVx1vfQ7JF) | [Always Ascending](https://open.spotify.com/album/75WREsbuQHGUUiW7sIddLm) | 5:51 | 2023-11-09 | 2023-12-01 |

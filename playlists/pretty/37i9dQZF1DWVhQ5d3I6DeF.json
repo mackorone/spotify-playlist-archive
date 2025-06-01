@@ -1,6 +1,6 @@
 {
   "description": "Catchy pop music to keep those legs going.",
-  "num_followers": 575502,
+  "num_followers": 575821,
   "original_name": "Fast Pop Run",
   "owner": {
     "name": "Spotify",
@@ -563,6 +563,22 @@
     {
       "added_at": "2023-01-03 14:50:49",
       "album": {
+        "name": "Doll Domination (Deluxe)",
+        "url": "https://open.spotify.com/album/7mDkWKTghwBDuHCJmH6qR5"
+      },
+      "artists": [
+        {
+          "name": "The Pussycat Dolls",
+          "url": "https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ"
+        }
+      ],
+      "duration_ms": 245680,
+      "name": "When I Grow Up",
+      "url": "https://open.spotify.com/track/21pySLskKIKrhDziCX5ojQ"
+    },
+    {
+      "added_at": "2023-01-03 14:50:49",
+      "album": {
         "name": "Hold Me Closer",
         "url": "https://open.spotify.com/album/4QQWpCEX4BxMXwRQmtkKY6"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 202245,
       "name": "Hold Me Closer",
       "url": "https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN"
-    },
-    {
-      "added_at": "2023-01-03 14:50:49",
-      "album": {
-        "name": "Doll Domination (Deluxe)",
-        "url": "https://open.spotify.com/album/7mDkWKTghwBDuHCJmH6qR5"
-      },
-      "artists": [
-        {
-          "name": "The Pussycat Dolls",
-          "url": "https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ"
-        }
-      ],
-      "duration_ms": 245680,
-      "name": "When I Grow Up",
-      "url": "https://open.spotify.com/track/21pySLskKIKrhDziCX5ojQ"
     },
     {
       "added_at": "2023-01-03 14:50:49",

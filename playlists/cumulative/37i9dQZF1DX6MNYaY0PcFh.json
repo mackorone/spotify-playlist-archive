@@ -3220,7 +3220,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-01",
       "duration_ms": 200930,
       "name": "My World",
       "url": "https://open.spotify.com/track/31BVToYJwvaDoA4SARM2ex"
@@ -3340,6 +3340,28 @@
       "duration_ms": 236307,
       "name": "nobody but u",
       "url": "https://open.spotify.com/track/0Mq7DQeSqhxaw8l4H42Wfw"
+    },
+    {
+      "album": {
+        "name": "Nobody Else But U",
+        "url": "https://open.spotify.com/album/6vNxyOKtUI4bpLKOtYlIkY"
+      },
+      "artists": [
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        },
+        {
+          "name": "Louis The Child",
+          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200804,
+      "name": "Nobody Else But U",
+      "url": "https://open.spotify.com/track/3iagcHosUvxs9876pJwZKI"
     },
     {
       "album": {

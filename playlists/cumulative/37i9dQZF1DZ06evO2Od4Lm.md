@@ -4,7 +4,7 @@
 
 > This is Sufjan Stevens\. The essential tracks, all in one playlist.
 
-56 songs - 3 hr 8 min
+58 songs - 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,17 +20,18 @@
 | [Concerning the UFO sighting near Highland, Illinois](https://open.spotify.com/track/2BjRhZ2IJmsO1GRquNldsP) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Illinois](https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To) | 2:08 | 2025-04-01 |  |
 | [Death with Dignity](https://open.spotify.com/track/73uJybGAhwGRD9MZYrOmTY) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS) | 3:59 | 2025-04-01 |  |
 | [Death with Dignity \- Demo](https://open.spotify.com/track/0JTyN48NOWQPDurLmdRamX) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Death With Dignity \(Demo\)](https://open.spotify.com/album/2kokDBIZdKZt75wWDwSTPt) | 4:02 | 2025-05-07 | 2025-05-30 |
-| [Drawn to the Blood](https://open.spotify.com/track/7tL59eSR3yM1iSr4PjmgyX) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS) | 3:18 | 2025-05-07 | 2025-05-30 |
-| [Eugene](https://open.spotify.com/track/7o3Zup0nTRFAFAPKBpS72G) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS) | 2:26 | 2025-04-01 |  |
+| [Drawn to the Blood](https://open.spotify.com/track/7tL59eSR3yM1iSr4PjmgyX) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS) | 3:18 | 2025-05-07 |  |
+| [Eugene](https://open.spotify.com/track/7o3Zup0nTRFAFAPKBpS72G) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS) | 2:26 | 2025-04-01 | 2025-06-01 |
+| [Eugene \- Demo](https://open.spotify.com/track/38Wby2Bx2q09iEr9p6N4RA) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell \(10th Anniversary Edition\)](https://open.spotify.com/album/0n7HLjx45Y2LD4WyHGDMf3) | 2:28 | 2025-06-01 |  |
 | [Flint \(For the Unemployed and Underpaid\)](https://open.spotify.com/track/3EuqrodGk0CdTcoHuY0ETx) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Michigan](https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk) | 3:43 | 2025-04-01 | 2025-05-08 |
 | [Focus Ring](https://open.spotify.com/track/0iEAcbaxs4v3HHnAWFoswA) | [Denison Witmer](https://open.spotify.com/artist/2sJ5Iicthbc9d8Sl1dpeSB), [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Focus Ring](https://open.spotify.com/album/1tQNXI0HKvZRNIGCwsY11u) | 2:27 | 2025-04-01 | 2025-04-06 |
 | [For the Widows in Paradise, For the Fatherless in Ypsilanti](https://open.spotify.com/track/1dkHo0hS9KnzlsRSbIjZzi) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Michigan](https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk) | 3:57 | 2025-04-01 |  |
 | [Fourth of July](https://open.spotify.com/track/5Qnrgqy1pAm9GyNQOgyVFz) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS) | 4:39 | 2025-04-01 |  |
 | [Futile Devices \(Doveman Remix\)](https://open.spotify.com/track/5vTSnZTmS1gMiWuA9kDE19) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Call Me By Your Name \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7K0x1O9gqMQlDwbMkyCCIM) | 2:15 | 2025-04-01 |  |
 | [Genuflecting Ghost](https://open.spotify.com/track/4Ysl0ybOaEiipH0Sb3A0qy) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Javelin](https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs) | 3:32 | 2025-04-01 |  |
-| [Heirloom](https://open.spotify.com/track/3bKXWcC7H2oBGVq73gK5yX) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [All Delighted People](https://open.spotify.com/album/1wnEAz2lDtNoUUZF0KStuo) | 2:55 | 2025-04-01 |  |
+| [Heirloom](https://open.spotify.com/track/3bKXWcC7H2oBGVq73gK5yX) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [All Delighted People](https://open.spotify.com/album/1wnEAz2lDtNoUUZF0KStuo) | 2:55 | 2025-04-01 | 2025-06-01 |
 | [Holland](https://open.spotify.com/track/5LeGT0ziFpK3Skvr6jwIgF) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Michigan](https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk) | 3:26 | 2025-04-01 |  |
-| [In the Devil's Territory](https://open.spotify.com/track/3NCddFMOQ32FuJQjqRIzQy) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Seven Swans \(Deluxe Edition\)](https://open.spotify.com/album/42lnsCNSZUkPBgFhvSOHwa) | 4:57 | 2025-04-06 |  |
+| [In the Devil's Territory](https://open.spotify.com/track/3NCddFMOQ32FuJQjqRIzQy) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Seven Swans \(Deluxe Edition\)](https://open.spotify.com/album/42lnsCNSZUkPBgFhvSOHwa) | 4:57 | 2025-04-06 | 2025-06-01 |
 | [In This Temple As in The Hearts of Man For Whom He Saved The Earth](https://open.spotify.com/track/4AXlxpofniQO0rJrXuc3U5) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Illinois](https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To) | 0:35 | 2025-04-01 | 2025-04-23 |
 | [It’s Your Own Body And Mind](https://open.spotify.com/track/6oNmSG8JbMa4jG5UQC5Fr2) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [A Beginner's Mind](https://open.spotify.com/album/7AS9VaIdnYSR13T3vkVtu9) | 2:27 | 2025-04-01 |  |
 | [Javelin \(To Have And To Hold\)](https://open.spotify.com/track/1GmMrLzrzfnxdvV4OiMU9s) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Javelin](https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs) | 1:52 | 2025-04-01 |  |
@@ -62,6 +63,7 @@
 | [To Be Alone With You](https://open.spotify.com/track/12homE4JpBey5cckgoepR7) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Seven Swans](https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA) | 2:48 | 2025-04-01 |  |
 | [Video Game](https://open.spotify.com/track/3Q8B1nnUBlJz0VTajyk1IS) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [The Ascension](https://open.spotify.com/album/2Bd6trS7kIZOXujYdVP8Xd) | 4:15 | 2025-04-01 |  |
 | [Visions of Gideon](https://open.spotify.com/track/0SUDiaR0qm30fXVGPjPvRp) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Call Me By Your Name \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7K0x1O9gqMQlDwbMkyCCIM) | 4:07 | 2025-04-01 |  |
+| [Wallowa Lake Monster \- Version 2](https://open.spotify.com/track/7JxVuQdS0aFUIMrja2KzyS) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell \(10th Anniversary Edition\)](https://open.spotify.com/album/0n7HLjx45Y2LD4WyHGDMf3) | 6:40 | 2025-06-01 |  |
 | [We Won't Need Legs To Stand](https://open.spotify.com/track/447cvPxyRThQdy0W9w4kkN) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Seven Swans \(Deluxe Edition\)](https://open.spotify.com/album/42lnsCNSZUkPBgFhvSOHwa) | 2:16 | 2025-04-01 |  |
 | [Will Anybody Ever Love Me?](https://open.spotify.com/track/7IAx9OvToHkT8C4ZlX9hwe) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Javelin](https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs) | 4:09 | 2025-04-01 |  |
 

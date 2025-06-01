@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Marca Registrada. The essential tracks, all in one playlist.",
-  "num_followers": 342556,
+  "num_followers": 342723,
   "original_name": "This Is Grupo Marca Registrada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDejgAAAAABR+VRl0dwjmSxUGxm+EqQF",
+  "snapshot_id": "aDj1AAAAAADnzQ/RWE+kQyf0sxSaZUML",
   "tracks": [
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Haciendo Magia",
-        "url": "https://open.spotify.com/album/0SJxiltxmAxmLb3R4A1PU5"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 167893,
-      "name": "As\u00ed Nac\u00ed",
-      "url": "https://open.spotify.com/track/30yaDgoJbR3wujuclohMaq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Don't Stop The Magic",
         "url": "https://open.spotify.com/album/5I5DtMQDh1PnflVUtTLMN7"
       },
@@ -783,22 +767,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somos Leyenda",
-        "url": "https://open.spotify.com/album/4YZvricm07RlfqSWbVKz4D"
+        "name": "Haciendo Magia",
+        "url": "https://open.spotify.com/album/0SJxiltxmAxmLb3R4A1PU5"
       },
       "artists": [
-        {
-          "name": "Grupo Maximo Grado",
-          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
-        },
         {
           "name": "Grupo Marca Registrada",
           "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
         }
       ],
-      "duration_ms": 170484,
-      "name": "El Postre",
-      "url": "https://open.spotify.com/track/2ARlaUXbKVrYcryoQLE9CZ"
+      "duration_ms": 167893,
+      "name": "As\u00ed Nac\u00ed",
+      "url": "https://open.spotify.com/track/30yaDgoJbR3wujuclohMaq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Money",
+        "url": "https://open.spotify.com/album/2Jj4mjzEDaXp9X3AHpo5Gu"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 208491,
+      "name": "Nada Es F\u00e1cil",
+      "url": "https://open.spotify.com/track/4T5qPCagVQnkJ7KyQki44L"
     },
     {
       "added_at": null,
@@ -823,18 +819,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Money",
-        "url": "https://open.spotify.com/album/2Jj4mjzEDaXp9X3AHpo5Gu"
+        "name": "Somos Leyenda",
+        "url": "https://open.spotify.com/album/4YZvricm07RlfqSWbVKz4D"
       },
       "artists": [
+        {
+          "name": "Grupo Maximo Grado",
+          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
+        },
         {
           "name": "Grupo Marca Registrada",
           "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
         }
       ],
-      "duration_ms": 208491,
-      "name": "Nada Es F\u00e1cil",
-      "url": "https://open.spotify.com/track/4T5qPCagVQnkJ7KyQki44L"
+      "duration_ms": 170484,
+      "name": "El Postre",
+      "url": "https://open.spotify.com/track/2ARlaUXbKVrYcryoQLE9CZ"
     },
     {
       "added_at": null,

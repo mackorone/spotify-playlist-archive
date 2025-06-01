@@ -1,6 +1,6 @@
 {
   "description": "I brani eseguiti durante la serata dei duetti e le interpretazioni uscite su Spotify \ud83c\udfa4",
-  "num_followers": 2509,
+  "num_followers": 2510,
   "original_name": "Sanremo: Le Cover",
   "owner": {
     "name": "Spotify",
@@ -275,6 +275,22 @@
     {
       "added_at": "2025-03-03 09:30:09",
       "album": {
+        "name": "Sounds Of Silence",
+        "url": "https://open.spotify.com/album/07RAGILF28QweYQSZasr5k"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 185253,
+      "name": "The Sound of Silence - Electric Version",
+      "url": "https://open.spotify.com/track/2YplrdHMBoRdnHgMeHEwHm"
+    },
+    {
+      "added_at": "2025-03-03 09:30:09",
+      "album": {
         "name": "Neffa E I Messaggeri Della Dopa",
         "url": "https://open.spotify.com/album/30VgvhYsrjnMiDmJ0ZLWRn"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 312000,
       "name": "Aspettando Il Sole",
       "url": "https://open.spotify.com/track/0HgSaG6pYR3Nlt45GQyrKp"
-    },
-    {
-      "added_at": "2025-03-03 09:30:09",
-      "album": {
-        "name": "Sounds Of Silence",
-        "url": "https://open.spotify.com/album/07RAGILF28QweYQSZasr5k"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 185253,
-      "name": "The Sound of Silence - Electric Version",
-      "url": "https://open.spotify.com/track/2YplrdHMBoRdnHgMeHEwHm"
     },
     {
       "added_at": "2025-03-03 09:30:09",

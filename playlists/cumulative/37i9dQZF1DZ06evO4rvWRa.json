@@ -1405,6 +1405,24 @@
     },
     {
       "album": {
+        "name": "Me, Myself and The Night",
+        "url": "https://open.spotify.com/album/7bSQts9CfkAh6MNQ7BkBjy"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "date_added": "2025-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251748,
+      "name": "Me, Myself and The Night",
+      "url": "https://open.spotify.com/track/7mKy65CyVCmawYMw3JJGPQ"
+    },
+    {
+      "album": {
         "name": "Mind Of A Warrior",
         "url": "https://open.spotify.com/album/2Bx51Mj90wGsPP2ZlcAIiN"
       },

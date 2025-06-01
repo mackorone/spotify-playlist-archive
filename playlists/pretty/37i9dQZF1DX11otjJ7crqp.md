@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > All this week's best new pop releases\. Cover: Conan Gray
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,739 likes - 170 songs - 8 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,615 likes - 170 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,7 +120,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 110 | [fridge](https://open.spotify.com/track/0RRvEc7KMzVnZpdC0LNpvI) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [fridge](https://open.spotify.com/album/51hdFeMT8hLrxoXuLY8lz4) | 2:36 |
 | 111 | [Lost You Again](https://open.spotify.com/track/1gg8yb0bUGrE58OyOg1WJa) | [Millie Turner](https://open.spotify.com/artist/53GC8IrnkJXGO7znOiv4tD) | [Lost You Again](https://open.spotify.com/album/1FncFecv4T6PmdXvLw7ZIB) | 3:06 |
 | 112 | [Stunner](https://open.spotify.com/track/55g2TpbGrXxLdekbyui2Sl) | [Carter Vail](https://open.spotify.com/artist/4Bu9DnBZ12oX7MiiaJy9hK) | [Stunner](https://open.spotify.com/album/7CdSPlqEI5a2yYlESsTIgG) | 2:15 |
-| 113 | [merry go round](https://open.spotify.com/track/6mfLyuVFGmvWJBAVj3x6ko) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [merry go round](https://open.spotify.com/album/19iDCxX7uLuKuFlkFi4ZQ5) | 2:23 |
+| 113 | [merry go round](https://open.spotify.com/track/6mfLyuVFGmvWJBAVj3x6ko) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [merry go round](https://open.spotify.com/album/19iDCxX7uLuKuFlkFi4ZQ5) | 2:24 |
 | 114 | [THE LOWS](https://open.spotify.com/track/79mpJRScxPAmlIXqGhb70I) | [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj) | [THE LOWS](https://open.spotify.com/album/1TrL87Zds3BQz7cnullLL1) | 3:10 |
 | 115 | [addicted](https://open.spotify.com/track/3UKFn5oN9irp3q27BwnfCK) | [Alessiah](https://open.spotify.com/artist/1EdD1RXOUNqPUJAqwtnHWw) | [addicted](https://open.spotify.com/album/70106lIC8nwyleCcCZQ6uR) | 3:13 |
 | 116 | [That's My Baby](https://open.spotify.com/track/1OvDmcFzppabpUGoXKVOhM) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [That’s My Baby](https://open.spotify.com/album/6DLGyKDjaWzC2vG4nXgDQX) | 3:33 |

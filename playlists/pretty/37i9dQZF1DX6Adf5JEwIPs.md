@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Ángela Aguilar
 
-[Spotify](https://open.spotify.com/user/spotify) - 704,016 likes - 60 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 704,078 likes - 60 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 26 | [Cuéntame \(En Vivo\)](https://open.spotify.com/track/0SPAv2CSwbGILkpjjFCzzk) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [Jorge Medina](https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf), [Josi Cuen](https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY) | [Cuéntame \(En Vivo\)](https://open.spotify.com/album/6bPEtlB3uOr4CYeLnYVeRF) | 3:50 |
 | 27 | [Bailar Contigo \(feat\. Mariachi Sol De Mexico De Jose Hernandez\)](https://open.spotify.com/track/4qkhHNpS8k5U5Oq2rFoRbB) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP), [Mariachi Sol De Mexico De Jose Hernandez](https://open.spotify.com/artist/0MnQvecFg1VbNkiFcPnsaG) | [Bailar Contigo \(feat\. Mariachi Sol De Mexico De Jose Hernandez\)](https://open.spotify.com/album/7FfsjZ8fUGczsKen6ThyDV) | 3:45 |
 | 28 | [No Traigo Nada](https://open.spotify.com/track/7rn36OWb4BOilSVDUXEWp3) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [No Traigo Nada](https://open.spotify.com/album/1pQOt5chE2v0Bcy77j49tS) | 2:44 |
-| 29 | [Parchaito](https://open.spotify.com/track/0zLwep7GCH62x7LUrOtyQT) | [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe) | [Descriterio](https://open.spotify.com/album/66Zehfpwnmx03XcjZmtm6p) | 2:23 |
+| 29 | [Parchaito](https://open.spotify.com/track/0zLwep7GCH62x7LUrOtyQT) | [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe), [The Stallionz](https://open.spotify.com/artist/4ukBKliKfm0Uxnws7yCr24) | [Descriterio](https://open.spotify.com/album/66Zehfpwnmx03XcjZmtm6p) | 2:23 |
 | 30 | [Bélicos X Moda](https://open.spotify.com/track/3u0THDzCSxbz64gFpbRXD8) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Bélicos X Moda](https://open.spotify.com/album/2EcZV1SamvQRRXlNiXcyom) | 2:37 |
 | 31 | [500 Veces](https://open.spotify.com/track/4dt7b6U5Zirt7UqxGsEw30) | [Cuitla Vega](https://open.spotify.com/artist/50eEhK6sfbvKaI75ZqD96I), [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [500 Veces](https://open.spotify.com/album/3Py8lswVF8RYLI4E4xkAWX) | 4:11 |
 | 32 | [CLVH \(with Julio Caesar\)](https://open.spotify.com/track/2QfbYP9hHRBPQNGxE8QoPJ) | [Saul Villarreal](https://open.spotify.com/artist/2x8UcZmAbP008alg57hI3K), [Julio Caesar](https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K) | [MEJOR SOLO </3](https://open.spotify.com/album/2ZtzyOFSMCOqV8yGCUBsD7) | 2:46 |

@@ -791,6 +791,28 @@
     },
     {
       "album": {
+        "name": "Non so chi ha creato il mondo ma so che era innamorato (Deluxe)",
+        "url": "https://open.spotify.com/album/3JfkXgTLhmdaikTlkHRFEV"
+      },
+      "artists": [
+        {
+          "name": "Alfa",
+          "url": "https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7"
+        },
+        {
+          "name": "Manu Chao",
+          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+        }
+      ],
+      "date_added": "2025-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140816,
+      "name": "a me mi piace (feat. Manu Chao)",
+      "url": "https://open.spotify.com/track/7oJtUqvumujVKarcXa1SPj"
+    },
+    {
+      "album": {
         "name": "A Sky Full of Stars",
         "url": "https://open.spotify.com/album/7sEcu5WPzy4L3qUz9DcbQ0"
       },
@@ -1492,7 +1514,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-01",
       "duration_ms": 150640,
       "name": "Alle Risse heilen",
       "url": "https://open.spotify.com/track/3Q3Infgim4rgSUslJojSED"
@@ -12238,7 +12260,7 @@
       ],
       "date_added": "2025-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-22",
+      "date_removed": null,
       "duration_ms": 145241,
       "name": "Gianna - Harris & Ford x BIG TIM Remix",
       "url": "https://open.spotify.com/track/52lF2brp2QBZRcIlB0GJe4"
@@ -25466,7 +25488,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 142520,
-      "name": "Pretty Little Baby - Stereo Mix",
+      "name": "Pretty Little Baby",
       "url": "https://open.spotify.com/track/5GQPBzoRBDxcAjwSSluQXD"
     },
     {
@@ -35784,7 +35806,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-01",
       "duration_ms": 184421,
       "name": "Zjerm",
       "url": "https://open.spotify.com/track/1MMfGAHowKNRithYDIRS1k"

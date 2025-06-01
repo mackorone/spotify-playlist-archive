@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8Ogms1X39p.md) - [plain]
 
 > Feel good songs yang bikin kamu happy
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,810 likes - 93 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,831 likes - 93 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/album/3awd1TKrdd3emCecvza61j) | 3:00 |
 | 2 | [Tunggu Apa Lagi](https://open.spotify.com/track/2LVnSeNPdiT9r95BtLhrAQ) | [Nyoman Paul](https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt) | [LUAP](https://open.spotify.com/album/4t1d7lp7cX2v1HnqhlPuXd) | 3:39 |
-| 3 | [Pretty Little Baby \- Stereo Mix](https://open.spotify.com/track/5GQPBzoRBDxcAjwSSluQXD) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Connie Francis Sings Second Hand Love & Other Hits](https://open.spotify.com/album/6CTiCTGft53NcVMsAxxgCQ) | 2:22 |
+| 3 | [Pretty Little Baby](https://open.spotify.com/track/5GQPBzoRBDxcAjwSSluQXD) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Connie Francis Sings Second Hand Love & Other Hits](https://open.spotify.com/album/6CTiCTGft53NcVMsAxxgCQ) | 2:22 |
 | 4 | [Abracadabra](https://open.spotify.com/track/2LHNTC9QZxsL3nWpt8iaSR) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:43 |
 | 5 | [VITAMIN U](https://open.spotify.com/track/74ZYK9G0ILDEJ00LfN9rmJ) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [VITAMIN U](https://open.spotify.com/album/0pO2flwlHFvDoyP0Ty0C1F) | 3:58 |
 | 6 | [MIA](https://open.spotify.com/track/09eXUhQEMNokUW7xqZT3YD) | [Tripov](https://open.spotify.com/artist/7EAQd1uHunanyGbZenLe6h) | [MIA](https://open.spotify.com/album/6Uz2Mo5S7QfjoGt4bgTXfD) | 2:49 |

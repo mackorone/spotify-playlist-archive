@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 
 > La banda sonora de tu orgullo\. Foto: María Peláe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,411 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,410 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 46 | [ARTIFICIAL REMIX](https://open.spotify.com/track/3jsN5AUIThFnZ6V30i8SAz) | [FADES](https://open.spotify.com/artist/2GbjEKkwENPIzGzGU4haSO), [Samantha Hudson](https://open.spotify.com/artist/3CsPDmTON8MWK0YXmaru92) | [ARTIFICIAL REMIX](https://open.spotify.com/album/3dA76HYyggLlh71ASxDhbW) | 2:49 |
 | 47 | [FANCY](https://open.spotify.com/track/6treInJPJ9kZ5DAZXpcfDU) | [La Cruz](https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ) | [FANCY](https://open.spotify.com/album/0gh2rvUwM99NWFabo9ELUH) | 2:23 |
 | 48 | [Liturgia](https://open.spotify.com/track/5PLusVGpEDbye2lHYq0cRd) | [Samantha Hudson](https://open.spotify.com/artist/3CsPDmTON8MWK0YXmaru92), [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu) | [Liturgia](https://open.spotify.com/album/24yYXtyoh3yVZzGPZkkjvT) | 3:53 |
-| 49 | [Me lo invento](https://open.spotify.com/track/2ZEgEmU37LwtUBmFF8hYxV) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [Me lo invento](https://open.spotify.com/album/5OCLobbyMjMBXJ8Iv1ASYj) | 3:15 |
+| 49 | [Fatty Fairy](https://open.spotify.com/track/7yZrh7dzQLjYrGZ4NdDTfN) | [Lapili](https://open.spotify.com/artist/2LLoV50BjWiUio4K2t4fGN) | [Fatty Fairy](https://open.spotify.com/album/06331uDlz3m9Uliot3gZmb) | 2:27 |
 | 50 | [Nublado](https://open.spotify.com/track/2Ys3pyscD3CEsgZyIoZs7R) | [Joanna Crass](https://open.spotify.com/artist/5NH7AZYpUjd9UL1vR3KMzD) | [Nublado](https://open.spotify.com/album/3PPfO3ZVMFyBZaISPsc5PF) | 2:48 |
 
 Snapshot ID: `aBqGhgAAAABhGF/tKBudaZWzwc6UzQou`

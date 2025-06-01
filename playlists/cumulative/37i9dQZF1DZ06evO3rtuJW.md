@@ -4,7 +4,7 @@
 
 > This is G Herbo\. The essential tracks, all in one playlist.
 
-171 songs - 8 hr 29 min
+172 songs - 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [idk that bitch \(feat\. G Herbo\)](https://open.spotify.com/track/0n56YWlnKfK1meIGHwMFWt) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [DS4EVER](https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx) | 3:30 | 2022-10-28 |  |
 | [In the A \(feat\. 21 Savage\)](https://open.spotify.com/track/0ltgsHBUPGRnFn8P4fNrTh) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Big Swerv](https://open.spotify.com/album/0E2aK1mNCG2c0AfMaRs3a4) | 3:53 | 2024-09-08 | 2025-02-25 |
 | [In The Air \(feat\. Lil Durk\)](https://open.spotify.com/track/231WYOehAI5i10vZ2XTGzk) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Big Swerv 2.0](https://open.spotify.com/album/3SmVWKCh3knpn7ZGBQWH4a) | 3:39 | 2024-10-30 | 2025-03-09 |
-| [In The Air \(feat\. Lil Durk\)](https://open.spotify.com/track/6CKqTFTUPGJqqqJqWg53eR) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Big Swerv 2.0](https://open.spotify.com/album/65h8c3viDOcBSZvrEZhygC) | 3:39 | 2025-04-16 |  |
+| [In The Air \(feat\. Lil Durk\)](https://open.spotify.com/track/6CKqTFTUPGJqqqJqWg53eR) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Big Swerv 2.0](https://open.spotify.com/album/65h8c3viDOcBSZvrEZhygC) | 3:39 | 2025-04-16 | 2025-06-01 |
 | [Influence](https://open.spotify.com/track/72nXS4EZQbF7TW9omZNro7) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Big Swerv](https://open.spotify.com/album/0E2aK1mNCG2c0AfMaRs3a4) | 2:56 | 2024-09-09 |  |
 | [It's Something In Me](https://open.spotify.com/track/6s3JnDyFFq4VX5yFDZL7je) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Survivor's Remorse: A Side & B Side](https://open.spotify.com/album/7i1M24FtpfeRmaztP15sDU) | 2:42 | 2022-11-13 | 2023-01-29 |
 | [KICK DOOR](https://open.spotify.com/track/3hrNmOrVieY0t27DijFfYH) | [SwaVay](https://open.spotify.com/artist/29gIYsdyccGoUc6qgkZeTK), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [ALMETHA’S SON](https://open.spotify.com/album/1xGuwE8Kx83IOZRPHnoUKA) | 3:22 | 2022-11-18 | 2022-12-13 |
@@ -150,6 +150,7 @@
 | [Subject](https://open.spotify.com/track/5ulhSfhwH8HJtYtYUTCTdg) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Subject](https://open.spotify.com/album/2URgWzMdduouoVGG0zSzPf) | 2:40 | 2024-03-30 | 2024-10-31 |
 | [Survivor's Outro](https://open.spotify.com/track/17WII2fbPxGhBLsAyhhzpP) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Survivor's Remorse: A Side & B Side](https://open.spotify.com/album/7i1M24FtpfeRmaztP15sDU) | 2:50 | 2022-12-04 | 2022-12-13 |
 | [Survivor's Outro](https://open.spotify.com/track/4XFHwsNr0CwsVLc7DLIGpX) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Survivor’s Remorse: A Side](https://open.spotify.com/album/11KPzNJd5GlFhb1R11cZVr) | 2:50 | 2022-10-28 | 2022-11-26 |
+| [Survivor’s Guilt \(feat\. G Herbo\)](https://open.spotify.com/track/3AwrGnwtXXKBFOFQCeJ1l0) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Survivor’s Guilt \(feat\. G Herbo\)](https://open.spotify.com/album/0Ioy4eE1w1dIKs8hMqeXqy) | 3:03 | 2025-06-01 |  |
 | [Survivor’s Guilt \(feat\. G Herbo\)](https://open.spotify.com/track/2CDnFIBP90FNiHhCFzoWHo) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Few Good Things](https://open.spotify.com/album/4dhK1XKetMnAilmo6CMID8) | 3:42 | 2023-01-07 | 2023-03-06 |
 | [Swerv \(feat\. G Herbo\)](https://open.spotify.com/track/6kkCJ8xk343HmHrdIbzw17) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Post Traumatic](https://open.spotify.com/album/3xdlCzNYHfEiXnUyWWyAVT) | 3:13 | 2024-10-07 | 2025-01-22 |
 | [Swerve \(feat\. G Herbo\)](https://open.spotify.com/track/27MFaiM3gYDvknS6FYEUVC) | [Skrilla](https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [UNDERWORLD](https://open.spotify.com/album/1G4tRpGjmTkmE3jSAtKkvV) | 3:01 | 2024-03-11 |  |

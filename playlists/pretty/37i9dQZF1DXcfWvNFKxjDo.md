@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Keinemusik
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,466 likes - 99 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,524 likes - 99 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 32 | [I'll Be Waiting](https://open.spotify.com/track/6XTU69FaoVOajBXBOP6WhG) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [I'll Be Waiting](https://open.spotify.com/album/3tBpgP3wphhWXwSI0Rxva0) | 2:03 |
 | 33 | [Country Roads](https://open.spotify.com/track/1ymdX49SbJzb9DH1YAH8W7) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [3 Are Legend](https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II) | [Country Roads](https://open.spotify.com/album/5sK3HgYCoqsTENWpG32hZV) | 3:10 |
 | 34 | [There She Goes](https://open.spotify.com/track/2aSjWonALEwE3wTpjYMvc7) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [MOONLGHT](https://open.spotify.com/artist/0b9SpFqsoxkyoTbZqLlzSs), [The La's](https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT) | [There She Goes](https://open.spotify.com/album/3gHDnPPOgXcueJrL1r03q2) | 2:01 |
-| 35 | [Alto](https://open.spotify.com/track/6W0JyLntjW5czCieDPSkui) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Alto](https://open.spotify.com/album/6CK5736RvBDi7w9wDjCYLf) | 3:08 |
+| 35 | [Alto](https://open.spotify.com/track/6W0JyLntjW5czCieDPSkui) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Alto](https://open.spotify.com/album/6CK5736RvBDi7w9wDjCYLf) | 3:45 |
 | 36 | [Staring Into The Sun](https://open.spotify.com/track/4ZyOjIxFyf6UWdERULkFKE) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [Staring Into The Sun](https://open.spotify.com/album/32fHr60Vpx6iUdl6UovJWH) | 3:16 |
 | 37 | [Sunshine](https://open.spotify.com/track/3lx9HS7No2pTJxPZRgdPdX) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [RAHH](https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX) | [Sunshine](https://open.spotify.com/album/4iVzhfADLoMgbTb4EIMPVF) | 2:57 |
 | 38 | [I Go](https://open.spotify.com/track/2SayPcTxxmMxX5OYnknzVE) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Shine TTW](https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn) | [The Roses EP](https://open.spotify.com/album/25TI5ziT5qLdW1rkMu2eoK) | 2:41 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 98 | [Om Shanti](https://open.spotify.com/track/078GLZxDHZ9uU8YZvwWtUr) | [Jilax](https://open.spotify.com/artist/4JivOD3AVVevayZVBLUk1B) | [Om Shanti](https://open.spotify.com/album/3adxvhgorYD9szqwxOasrK) | 3:48 |
 | 99 | [Ahah!](https://open.spotify.com/track/53aNQmy3X4JIkheITqePw4) | [DJ Caline](https://open.spotify.com/artist/1qKzCtsAGcfzWYbVufBvqG) | [I <3 Trance](https://open.spotify.com/album/40l37NcpvBAuZZhVLBAbWR) | 2:49 |
 
-Snapshot ID: `aDjZAgAAAACxF/4A017+RIj8wOwOA5mj`
+Snapshot ID: `aDjZAgAAAABFGbnWixskPLjMIBloNNAe`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 > Dark, hard hitting pop\. Cover: Banshee
 
-[Spotify](https://open.spotify.com/user/spotify) - 426,195 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 426,202 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,14 +14,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 4 | [BE NO BODY](https://open.spotify.com/track/7bnY7wVOCVIv6BhTB94Ice) | [Alissic](https://open.spotify.com/artist/0xl41ilVNOin4ycHsggk7u) | [ARC 01: MAIDEN](https://open.spotify.com/album/6q1ncuiWIxsrR6tFZJ3pHn) | 3:25 |
 | 5 | [House Of Nightmares](https://open.spotify.com/track/1oTN3bznxhDVCkD6uqPflK) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [The Death Of Daisies \(Deluxe\)](https://open.spotify.com/album/4laGu6PuFAP2GXzRChUoPD) | 2:46 |
 | 6 | [out of order](https://open.spotify.com/track/7vGYjU8uzwuImp1kT7M7IO) | [Ella Boh](https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11), [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [out of order](https://open.spotify.com/album/3QlWoxk7qPfUht297ah82S) | 3:22 |
-| 7 | [Euphoria](https://open.spotify.com/track/6OX0qDykYQe5Ih0DdOcVUS) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0), [Joseph H Gilmore Jr.](https://open.spotify.com/artist/6Z5rka6DaBjeczNd7IIJbQ) | [Euphoria](https://open.spotify.com/album/0lnwJGOJJnCn0xFlDQYdhJ) | 3:03 |
+| 7 | [Euphoria](https://open.spotify.com/track/6OX0qDykYQe5Ih0DdOcVUS) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Euphoria](https://open.spotify.com/album/0lnwJGOJJnCn0xFlDQYdhJ) | 3:03 |
 | 8 | [Life's a Bitch](https://open.spotify.com/track/6yvxyNehUgb4qCJKxr6ZkZ) | [DEZI](https://open.spotify.com/artist/3X9hlPTLBIZ9pEONCQnjTm) | [Life's a Bitch](https://open.spotify.com/album/2kQewJ6EaxftUOnBGLK38d) | 2:53 |
 | 9 | [U WON'T!](https://open.spotify.com/track/7iYyOqLQY46zCtfP3zW3bl) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [U WON'T!](https://open.spotify.com/album/3eSyIBoXNUuMRW3hH4KAJI) | 2:01 |
 | 10 | [Good Thing](https://open.spotify.com/track/3GFeuIIJQDgCpVHjsLkEgw) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [We are](https://open.spotify.com/album/1t6JFkzuqg7Wb7SzkHkheH) | 2:34 |
 | 11 | [BLAH](https://open.spotify.com/track/212qRRJMxvpN3FNkW6g3rH) | [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [BLAH](https://open.spotify.com/album/6PZzsTjoax4776aLr6U4jh) | 2:54 |
 | 12 | [The Hearse](https://open.spotify.com/track/65P2y7TYBecd8FEcuBUeDr) | [Lydia Night](https://open.spotify.com/artist/7zPPRI5YRGj8bPYBmtIy4l) | [The Hearse](https://open.spotify.com/album/1PbZ0tNaFtl4DVWgiK5OVg) | 2:55 |
 | 13 | [addicted](https://open.spotify.com/track/3UKFn5oN9irp3q27BwnfCK) | [Alessiah](https://open.spotify.com/artist/1EdD1RXOUNqPUJAqwtnHWw) | [addicted](https://open.spotify.com/album/70106lIC8nwyleCcCZQ6uR) | 3:13 |
-| 14 | [WHAT THE HELL?!](https://open.spotify.com/track/0tN4gLJOjeTawNuylOZwYI) | [Ella Isaacson](https://open.spotify.com/artist/69DKP6GuG0YiUc5K7tJ4an) | [WHAT THE HELL?!](https://open.spotify.com/album/3yvoDuV0dYkCRj4IMeH8QV) | 3:11 |
+| 14 | [WHAT THE HELL?!](https://open.spotify.com/track/0tN4gLJOjeTawNuylOZwYI) | [Ella Isaacson](https://open.spotify.com/artist/69DKP6GuG0YiUc5K7tJ4an) | [WHAT THE HELL?!](https://open.spotify.com/album/3yvoDuV0dYkCRj4IMeH8QV) | 3:09 |
 | 15 | [Boys](https://open.spotify.com/track/2PODSkB110NvZg50k2pj8a) | [Just For Fun](https://open.spotify.com/artist/5jCHlaCfuvJlyn5a4yap3t) | [Boys](https://open.spotify.com/album/3aUoM464DNR5Z6bjweulfC) | 2:10 |
 | 16 | [Like You](https://open.spotify.com/track/1iBYMUTBFJDkAW8zQQWGNl) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [Like You](https://open.spotify.com/album/7sb7JwqC9frJEdDinAVU0P) | 2:04 |
 | 17 | [if jesus saw what we did last night](https://open.spotify.com/track/4a65gfI09BeAqNaIcAgYmL) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [if jesus saw what we did last night](https://open.spotify.com/album/6y8XFE6QYJidrA9I89pZRV) | 2:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 49 | [Mortal Kombat](https://open.spotify.com/track/0bJR1UNUVlYLfFRUrAqKFn) | [SkyDxddy](https://open.spotify.com/artist/2xe5FZM6bB4k1KhfTZBBSx) | [Mortal Kombat](https://open.spotify.com/album/7tYTD9ApMBnfvxcL8kMVdC) | 1:59 |
 | 50 | [you're a liar \(you love me\)](https://open.spotify.com/track/1LI8rDhxrRe9iQLECjntwG) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [you're a liar \(you love me\)](https://open.spotify.com/album/3kpCZBJAjvZn4UihCRDdxi) | 2:54 |
 
-Snapshot ID: `aDktYwAAAABFEloetv2qpSg+saV6XKzw`
+Snapshot ID: `aDktYwAAAAB91EGM0SOu+sKS3tFB/dwJ`

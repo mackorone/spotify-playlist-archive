@@ -1435,6 +1435,24 @@
     },
     {
       "album": {
+        "name": "Coal Whispers",
+        "url": "https://open.spotify.com/album/6n96ZPOecgJMDFd7IDUwxK"
+      },
+      "artists": [
+        {
+          "name": "White Noise Android",
+          "url": "https://open.spotify.com/artist/11AY1VUDrlYvE0skhsjZQd"
+        }
+      ],
+      "date_added": "2025-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337761,
+      "name": "Coal Whispers",
+      "url": "https://open.spotify.com/track/2l3sVtG5YjEIVqCgU82Vcn"
+    },
+    {
+      "album": {
         "name": "Black Noise Relaxing Waves",
         "url": "https://open.spotify.com/album/1rLk5sduKeryCRMExWxmGZ"
       },
@@ -2942,7 +2960,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-01",
       "duration_ms": 178608,
       "name": "Sleepy Black Robo-Noise",
       "url": "https://open.spotify.com/track/5MutcU7kIiofO3HVbYPWBO"

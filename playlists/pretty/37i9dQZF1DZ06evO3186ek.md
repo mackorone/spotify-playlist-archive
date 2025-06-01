@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3186ek.md) - [plain]
 
 > This is Maverick City Music\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,857 likes - 50 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,898 likes - 50 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3186ek.md) - [plain]
 | 49 | [Thank You \(feat\. Steffany Gretzinger & Chandler Moore\)](https://open.spotify.com/track/0tI27jZrVAIKhpT5koEU7V) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Maverick City Music, Vol\. 3: Pt\. 1](https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq) | 7:29 |
 | 50 | [Questions \(feat\. Todd Galberth\)](https://open.spotify.com/track/1ZEaMn36IKUNFAaXPMYww8) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Song House](https://open.spotify.com/artist/4nGNf0VR9cA4lexGEflHwf), [Todd Galberth](https://open.spotify.com/artist/4EPtawsSClG1agy1MyVkMW) | [MAVHOUSE](https://open.spotify.com/album/5zsTw8kLaUnl9xkwxmW49g) | 3:25 |
 
-Snapshot ID: `aDejgAAAAACh623QEtDKOT8MB0DmfOIv`
+Snapshot ID: `aDj1AAAAAADbIRIEHW92JfF2db57pzbQ`

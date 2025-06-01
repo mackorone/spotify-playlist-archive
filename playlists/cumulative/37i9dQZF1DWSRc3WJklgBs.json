@@ -17613,6 +17613,28 @@
     },
     {
       "album": {
+        "name": "Me and You (feat. Vancouver Sleep Clinic)",
+        "url": "https://open.spotify.com/album/3I2DyDuoBgTndybTZM0W8B"
+      },
+      "artists": [
+        {
+          "name": "Forester",
+          "url": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
+        },
+        {
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266666,
+      "name": "Me and You (feat. Vancouver Sleep Clinic)",
+      "url": "https://open.spotify.com/track/115oxLXomzaH8T9ujFBuNP"
+    },
+    {
+      "album": {
         "name": "Me Gusta (AM\u00c9M\u00c9 Remix)",
         "url": "https://open.spotify.com/album/0qjrSdCW8LITJxRxAqkiE0"
       },
@@ -30144,7 +30166,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-01",
       "duration_ms": 207779,
       "name": "Would You Believe",
       "url": "https://open.spotify.com/track/4NWJ93NdSq9GGH0VyFtiGD"

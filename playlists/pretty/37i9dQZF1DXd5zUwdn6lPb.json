@@ -1,6 +1,6 @@
 {
   "description": "Enhance your focus with classical music.",
-  "num_followers": 369483,
+  "num_followers": 369518,
   "original_name": "Classical Focus",
   "owner": {
     "name": "Spotify",
@@ -395,6 +395,26 @@
     {
       "added_at": "2025-05-23 15:59:07",
       "album": {
+        "name": "Bach/Busoni; Mendelssohn; Schubert/Liszt - Songs Without Words",
+        "url": "https://open.spotify.com/album/0su0yxTZDCOxbdHNyfTKLt"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Murray Perahia",
+          "url": "https://open.spotify.com/artist/4EEQIAJoeN1V30MqFFtXxB"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Lieder ohne Worte, Op. 19, No. 1",
+      "url": "https://open.spotify.com/track/2ZoSiPSkWqz36Qqtl940zr"
+    },
+    {
+      "added_at": "2025-05-23 15:59:07",
+      "album": {
         "name": "Bewitched (Rework)",
         "url": "https://open.spotify.com/album/4gC9HHS8VYAlVUw1gqxUQB"
       },
@@ -427,26 +447,6 @@
       "duration_ms": 94586,
       "name": "Confesi\u00f3n - From \"A Cielo Abierto\" Soundtrack",
       "url": "https://open.spotify.com/track/04NpG3JzX18W94sxDMAt7L"
-    },
-    {
-      "added_at": "2025-05-23 15:59:07",
-      "album": {
-        "name": "Bach/Busoni; Mendelssohn; Schubert/Liszt - Songs Without Words",
-        "url": "https://open.spotify.com/album/0su0yxTZDCOxbdHNyfTKLt"
-      },
-      "artists": [
-        {
-          "name": "Felix Mendelssohn",
-          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
-        },
-        {
-          "name": "Murray Perahia",
-          "url": "https://open.spotify.com/artist/4EEQIAJoeN1V30MqFFtXxB"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Lieder ohne Worte, Op. 19, No. 1",
-      "url": "https://open.spotify.com/track/2ZoSiPSkWqz36Qqtl940zr"
     },
     {
       "added_at": "2025-05-23 15:59:07",
@@ -1075,6 +1075,26 @@
     {
       "added_at": "2025-05-23 15:59:07",
       "album": {
+        "name": "Air Piano Variation (From Orchestral Suite No. 3, BWV 1068, Arr. for Piano by Svetoslav Karparov)",
+        "url": "https://open.spotify.com/album/4eYyEdtwong1g17SQMvbww"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Gabriele Bagnati",
+          "url": "https://open.spotify.com/artist/0OG7Jsxh29ESIeAHlElBOj"
+        }
+      ],
+      "duration_ms": 151923,
+      "name": "Air Piano Variation (From Orchestral Suite No. 3, BWV 1068, Arr. for Piano by Svetoslav Karparov)",
+      "url": "https://open.spotify.com/track/4hgo2apb7EngXvnpQiYJBK"
+    },
+    {
+      "added_at": "2025-05-23 15:59:07",
+      "album": {
         "name": "Around The World",
         "url": "https://open.spotify.com/album/6a5OK0q8lpZW1hQgJn9fCm"
       },
@@ -1095,26 +1115,6 @@
       "duration_ms": 98320,
       "name": "Molino: Duo No. 3, Op. 16: I. Andantino",
       "url": "https://open.spotify.com/track/15ZcZqeTTpIy7RDs8P8DuH"
-    },
-    {
-      "added_at": "2025-05-23 15:59:07",
-      "album": {
-        "name": "Air Piano Variation (From Orchestral Suite No. 3, BWV 1068, Arr. for Piano by Svetoslav Karparov)",
-        "url": "https://open.spotify.com/album/4eYyEdtwong1g17SQMvbww"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Gabriele Bagnati",
-          "url": "https://open.spotify.com/artist/0OG7Jsxh29ESIeAHlElBOj"
-        }
-      ],
-      "duration_ms": 151923,
-      "name": "Air Piano Variation (From Orchestral Suite No. 3, BWV 1068, Arr. for Piano by Svetoslav Karparov)",
-      "url": "https://open.spotify.com/track/4hgo2apb7EngXvnpQiYJBK"
     },
     {
       "added_at": "2025-05-23 15:59:07",
@@ -1179,30 +1179,6 @@
     {
       "added_at": "2025-05-23 15:59:07",
       "album": {
-        "name": "Saint-Sa\u00ebns: Symphonic Poems",
-        "url": "https://open.spotify.com/album/20GQrDilCY1nkCfYQJ6jrD"
-      },
-      "artists": [
-        {
-          "name": "Camille Saint-Sa\u00ebns",
-          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
-        },
-        {
-          "name": "Orchestre National de Lille",
-          "url": "https://open.spotify.com/artist/4tf4qUbwCkHR28VYqcpaUf"
-        },
-        {
-          "name": "Jun Markl",
-          "url": "https://open.spotify.com/artist/69ZwC2PyjJXhXn3XJ86zgd"
-        }
-      ],
-      "duration_ms": 376560,
-      "name": "Sarabande et rigaudon, Op. 93: Sarabande",
-      "url": "https://open.spotify.com/track/5KwqOPqGO04tDkpppNklad"
-    },
-    {
-      "added_at": "2025-05-23 15:59:07",
-      "album": {
         "name": "Bach: Inventions & Sinfonias",
         "url": "https://open.spotify.com/album/1O53QRsMlkSId0cbp1mXCr"
       },
@@ -1223,26 +1199,26 @@
     {
       "added_at": "2025-05-23 15:59:07",
       "album": {
-        "name": "Early One Morning",
-        "url": "https://open.spotify.com/album/4fYC3U6IjW0DrxgR06hWqe"
+        "name": "Saint-Sa\u00ebns: Symphonic Poems",
+        "url": "https://open.spotify.com/album/20GQrDilCY1nkCfYQJ6jrD"
       },
       "artists": [
         {
-          "name": "Oskar Merikanto",
-          "url": "https://open.spotify.com/artist/79AE2ZiBtN7Qbcbr5dGIwd"
+          "name": "Camille Saint-Sa\u00ebns",
+          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
         },
         {
-          "name": "Jorma Panula",
-          "url": "https://open.spotify.com/artist/6F5qpnsKmlsYVbh8iB4TCi"
+          "name": "Orchestre National de Lille",
+          "url": "https://open.spotify.com/artist/4tf4qUbwCkHR28VYqcpaUf"
         },
         {
-          "name": "Turku Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/2yJX6ev7Io4KagCeNdXFBB"
+          "name": "Jun Markl",
+          "url": "https://open.spotify.com/artist/69ZwC2PyjJXhXn3XJ86zgd"
         }
       ],
-      "duration_ms": 180066,
-      "name": "Valse lente, Op. 33 (arr. for orchestra)",
-      "url": "https://open.spotify.com/track/6t2UFULQXc3N0oO0ujaK39"
+      "duration_ms": 376560,
+      "name": "Sarabande et rigaudon, Op. 93: Sarabande",
+      "url": "https://open.spotify.com/track/5KwqOPqGO04tDkpppNklad"
     },
     {
       "added_at": "2025-05-23 15:59:07",
@@ -1271,6 +1247,30 @@
     {
       "added_at": "2025-05-23 15:59:07",
       "album": {
+        "name": "Early One Morning",
+        "url": "https://open.spotify.com/album/4fYC3U6IjW0DrxgR06hWqe"
+      },
+      "artists": [
+        {
+          "name": "Oskar Merikanto",
+          "url": "https://open.spotify.com/artist/79AE2ZiBtN7Qbcbr5dGIwd"
+        },
+        {
+          "name": "Jorma Panula",
+          "url": "https://open.spotify.com/artist/6F5qpnsKmlsYVbh8iB4TCi"
+        },
+        {
+          "name": "Turku Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2yJX6ev7Io4KagCeNdXFBB"
+        }
+      ],
+      "duration_ms": 180066,
+      "name": "Valse lente, Op. 33 (arr. for orchestra)",
+      "url": "https://open.spotify.com/track/6t2UFULQXc3N0oO0ujaK39"
+    },
+    {
+      "added_at": "2025-05-23 15:59:07",
+      "album": {
         "name": "Musique fran\u00e7aise pour deux pianos et piano \u00e0 quatre mains: Debussy, Faur\u00e9, Milhaud & Ravel",
         "url": "https://open.spotify.com/album/0Q7atevAbLVN5ddczyOXxf"
       },
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2025-05-23 15:59:07",
       "album": {
-        "name": "Reverie",
-        "url": "https://open.spotify.com/album/60dptYAyv7EK6evaotqKwv"
-      },
-      "artists": [
-        {
-          "name": "Regn\u00f8r",
-          "url": "https://open.spotify.com/artist/2bmadkijrsqPPsROnqeXIq"
-        }
-      ],
-      "duration_ms": 144415,
-      "name": "Reverie",
-      "url": "https://open.spotify.com/track/4M5TBrCTxqTCzM4qDaI2sM"
-    },
-    {
-      "added_at": "2025-05-23 15:59:07",
-      "album": {
         "name": "Four Hands",
         "url": "https://open.spotify.com/album/2BA8KYF8Dm4TzpeV7B3iVa"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 140626,
       "name": "Bach, JS: Gottes Zeit ist die allerbeste Zeit, BWV 106 \"Actus tragicus\": No. 2, Ch\u00f6re, Arioso und Aria. \"Gottes Zeit ist die allerbeste Zeit\" (Arr. Kurt\u00e1g for Piano 4-Hands)",
       "url": "https://open.spotify.com/track/4wPU1i9XmAFixhrLeO5AVw"
+    },
+    {
+      "added_at": "2025-05-23 15:59:07",
+      "album": {
+        "name": "Reverie",
+        "url": "https://open.spotify.com/album/60dptYAyv7EK6evaotqKwv"
+      },
+      "artists": [
+        {
+          "name": "Regn\u00f8r",
+          "url": "https://open.spotify.com/artist/2bmadkijrsqPPsROnqeXIq"
+        }
+      ],
+      "duration_ms": 144415,
+      "name": "Reverie",
+      "url": "https://open.spotify.com/track/4M5TBrCTxqTCzM4qDaI2sM"
     },
     {
       "added_at": "2025-05-23 15:59:07",
@@ -1395,26 +1395,6 @@
     {
       "added_at": "2025-05-23 15:59:07",
       "album": {
-        "name": "Beethoven: Piano Sonatas, Vol. 7",
-        "url": "https://open.spotify.com/album/0Cquzn7E5wAEmCHjbPO0f6"
-      },
-      "artists": [
-        {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "Jonathan Biss",
-          "url": "https://open.spotify.com/artist/6leuX0SjB7cZZP8mFNJPMw"
-        }
-      ],
-      "duration_ms": 180200,
-      "name": "Piano Sonata No.20 in G Major, Op. 49 No.2: II. Tempo di Menuetto",
-      "url": "https://open.spotify.com/track/688T7aVGomCvoPqH4YL9yc"
-    },
-    {
-      "added_at": "2025-05-23 15:59:07",
-      "album": {
         "name": "Wachet auf, ruft uns die Stimme, BWV 645",
         "url": "https://open.spotify.com/album/3z1uXzSAmlVJPlExDMYkV4"
       },
@@ -1431,6 +1411,26 @@
       "duration_ms": 354560,
       "name": "Wachet auf, ruft uns die Stimme, BWV 645",
       "url": "https://open.spotify.com/track/5IWMAfQolGDofjvKTHpBsv"
+    },
+    {
+      "added_at": "2025-05-23 15:59:07",
+      "album": {
+        "name": "Beethoven: Piano Sonatas, Vol. 7",
+        "url": "https://open.spotify.com/album/0Cquzn7E5wAEmCHjbPO0f6"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Jonathan Biss",
+          "url": "https://open.spotify.com/artist/6leuX0SjB7cZZP8mFNJPMw"
+        }
+      ],
+      "duration_ms": 180200,
+      "name": "Piano Sonata No.20 in G Major, Op. 49 No.2: II. Tempo di Menuetto",
+      "url": "https://open.spotify.com/track/688T7aVGomCvoPqH4YL9yc"
     },
     {
       "added_at": "2025-05-23 15:59:07",
@@ -2067,8 +2067,8 @@
     {
       "added_at": "2025-05-23 15:59:07",
       "album": {
-        "name": "Telemann Collection",
-        "url": "https://open.spotify.com/album/0l9iRC7EpQREfuVLmn0UH1"
+        "name": "Telemann Edition, Vol. 1",
+        "url": "https://open.spotify.com/album/5cEqeaVOOShRNlsEe4ubLC"
       },
       "artists": [
         {
@@ -2080,13 +2080,13 @@
           "url": "https://open.spotify.com/artist/58WgXgh03rjIO1BkByxMgu"
         },
         {
-          "name": "Marc Peire",
-          "url": "https://open.spotify.com/artist/1W2a3r99zPaSl50jkBxhgz"
+          "name": "Patrick Peire",
+          "url": "https://open.spotify.com/artist/6tgPsm4ixxtFd7drCb8irg"
         }
       ],
-      "duration_ms": 77573,
-      "name": "Ouverture-Suite in D Minor, TWV 55:d2: VIII. Menuet II. Doucement",
-      "url": "https://open.spotify.com/track/2c8keEZtTmhetir5FfMRvT"
+      "duration_ms": 120813,
+      "name": "Overture-Suite in G Major, TWV 55:G10: \"Burlesque de Quixotte\": IV. Ses soupirs amoureux apr\u00e8s la princesse Dulcin\u00e9e",
+      "url": "https://open.spotify.com/track/5p2665rdi1sFIoCY5BFTy0"
     },
     {
       "added_at": "2025-05-23 15:59:07",

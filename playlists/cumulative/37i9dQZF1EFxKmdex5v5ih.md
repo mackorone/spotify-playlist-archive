@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4RSQdk2ty0YkO97WejZkdJ">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-499 songs - 1 day 3 hr 22 min
+504 songs - 1 day 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Devil You Don't](https://open.spotify.com/track/6FG2yJ3fTH9I5zwpgkPayq) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Devil You Don't](https://open.spotify.com/album/5g6Oc8ALFNEWtja8kFcz0i) | 3:06 | 2021-12-27 | 2022-10-14 |
 | [Diamonds & Dancefloors](https://open.spotify.com/track/4fVxlf4IxJNJl8OmPsQ2C1) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Diamonds & Dancefloors](https://open.spotify.com/album/5NgQit6EhPnx84bxgVVDRQ) | 2:35 | 2023-06-22 |  |
 | [Didn't I](https://open.spotify.com/track/7jhCqJlmx37u8o0xo2bjaj) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Meaning of Life](https://open.spotify.com/album/6GBu7GU6dztLYlZuUHiwA2) | 3:38 | 2021-12-27 | 2024-01-05 |
+| [Didn't I?](https://open.spotify.com/track/6McgYCZQifHoKNw9twZKw0) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now? \(Deluxe\)](https://open.spotify.com/album/1zK6DiSD46bOoBoXyG6Jzp) | 2:50 | 2025-05-31 |  |
 | [Different](https://open.spotify.com/track/0vJBL4Dx9aVFsHSqdApU3H) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Different](https://open.spotify.com/album/1ual1IVLCoseGtHPoTpE5D) | 3:13 | 2022-11-29 |  |
 | [Dinner and a Movie](https://open.spotify.com/track/5lxt3BSd1x6taFHuwbKmrm) | [Phish](https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz) | [Junta](https://open.spotify.com/album/11I9VPyaoJ3p0pMXpCMedY) | 3:42 | 2022-12-15 | 2023-12-14 |
 | [Dinner and a Movie \- Live in Brooklyn](https://open.spotify.com/track/6SfkvhDoA8IZ90zBoBaoOE) | [Phish](https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz) | [Live in Brooklyn](https://open.spotify.com/album/6s1HK0rSOZc4LHMu4JBC0r) | 3:55 | 2023-12-13 |  |
@@ -241,9 +242,12 @@
 | [Julia](https://open.spotify.com/track/4Gyo5XZzmZawnpqaRRedKu) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP) | 3:38 | 2021-12-27 | 2022-11-18 |
 | [Jump](https://open.spotify.com/track/1AFqdcUTszPXykl3UAOK3I) | [DJ Kantik](https://open.spotify.com/artist/3ojxLRDFTdWKXQDBewrCr4) | [Club Music & Electronic Dance Music Productions Hits](https://open.spotify.com/album/6Nie4qUM0eqstpZ1GEdiDw) | 4:40 | 2022-12-15 |  |
 | [Just Another Sunset](https://open.spotify.com/track/2NWo9thdl4q6gyHD9t4Tdz) | [Jfx Sound](https://open.spotify.com/artist/6qb9w31WPKfVVfpAYEY126) | [Out of Stress Zone with Yoga & Meditation: Ambient Streams, New Age Electronic Sounds](https://open.spotify.com/album/38YitoGriO1yHp5lP2hpER) | 9:59 | 2023-12-13 |  |
+| [Karma](https://open.spotify.com/track/7DncGzfPIRZRXQgwk86iRZ) | [Lonii](https://open.spotify.com/artist/3mGQF885vySzSwsf0kC1Hp), [Zayscotti](https://open.spotify.com/artist/2ytJWKyX7ZBZO4XrKUSnja), [Mali](https://open.spotify.com/artist/3YA5hefo7CfWstkT6N1FEA) | [Karma](https://open.spotify.com/album/2wxpHndkJd2QqqN70uZmfz) | 3:47 | 2025-05-31 |  |
 | [king of the world, pt\. 1](https://open.spotify.com/track/3gKYW1rcm3jgAtDPSUChEl) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 1:06 | 2023-06-22 |  |
 | [king of the world, pt\. 2](https://open.spotify.com/track/32GngpNLZ7VNxqF42UR4NW) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 1:24 | 2025-01-15 | 2025-04-12 |
+| [King of the World, pt\. 2 \(Cover\)](https://open.spotify.com/track/34JyxrQun9JN5wOHgQR24N) | [Skyline Blues](https://open.spotify.com/artist/4ySggu9Fy1iAX8IX924j1a) | [Flares and Fireworks](https://open.spotify.com/album/6qb4eGXaNv4l7O5BaQs8Wg) | 0:49 | 2025-05-31 |  |
 | [king of the world, pt\. 3](https://open.spotify.com/track/6fh9K3SyISdYR5DSs0BGwc) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 1:30 | 2023-06-22 | 2023-12-14 |
+| [King of the World, pt\. 3 \(Cover\)](https://open.spotify.com/track/7j62Innv57slmsngPcq8nr) | [Skyline Blues](https://open.spotify.com/artist/4ySggu9Fy1iAX8IX924j1a) | [Flares and Fireworks](https://open.spotify.com/album/6qb4eGXaNv4l7O5BaQs8Wg) | 1:42 | 2025-05-31 |  |
 | [Kiss the Sky \(from The Wild Robot\)](https://open.spotify.com/track/5TLe0pvHJ9M3aemysRpogS) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Kiss the Sky \(from The Wild Robot\)](https://open.spotify.com/album/1jVIOXL9M4U6T9B8KWW4TW) | 3:35 | 2024-09-04 |  |
 | [Lead Me On](https://open.spotify.com/track/0dXHRxaBl9mlrBh2XF3cIn) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Lead Me On](https://open.spotify.com/album/2sU1qbQCl9mUgnlciieWtb) | 2:53 | 2024-01-31 | 2024-03-25 |
 | [Lead Me On](https://open.spotify.com/track/4627b0SeGkBoYKejSG6XXJ) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [In Search Of The Antidote](https://open.spotify.com/album/1ZXvAPiGoqDXWsLHd3oZ8Q) | 2:53 | 2024-03-24 |  |
@@ -278,6 +282,7 @@
 | [Love On](https://open.spotify.com/track/2fB5YRuD88drKpCXQOAk03) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Love On](https://open.spotify.com/album/7I7rbWQoLZ7PrTMsRfocpL) | 3:01 | 2024-02-24 |  |
 | [Love The Hell Out Of You \- From The Motion Picture 'It Ends With Us'](https://open.spotify.com/track/2qyeAiFswWB2PmYhdeObTP) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:25 | 2023-05-23 |  |
 | [Love U Like That](https://open.spotify.com/track/3rmqiQbzPDx7A8p88IRFKg) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Love U Like That](https://open.spotify.com/album/4L1fTiCm419aQYUbfRJ3mA) | 3:31 | 2023-12-13 |  |
+| [Love U Like That \- Korean Version](https://open.spotify.com/track/1UlZonvtUSOVu9awdMe7UL) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Love U Like That \(Korean Version\)](https://open.spotify.com/album/3PqBpsYW12oNRbwiqCk2T3) | 3:31 | 2025-05-31 |  |
 | [Loving Nobody](https://open.spotify.com/track/4FnrwHQLcbOwhUjb983ifW) | [GALXARA](https://open.spotify.com/artist/0tu3jGW89NZZ8qrpd8c7xC) | [Loving Nobody](https://open.spotify.com/album/10uNdRKtd9wW6SlXRlRFyo) | 3:03 | 2023-06-22 |  |
 | [Low Key \- Dominican Remix](https://open.spotify.com/track/57XbHgOZaGu326GHFu4YCM) | [Deivi\-N](https://open.spotify.com/artist/26eQkZeNsJBzxrlcqUKJfi) | [Low Key \(Dominican Remix\)](https://open.spotify.com/album/3CU1TlhFf20U31J0vhOd1B) | 2:42 | 2023-12-13 |  |
 | [Magic](https://open.spotify.com/track/4q8ce3VGQzroZzwrRhRwKf) | [Olympic Ayres](https://open.spotify.com/artist/4Bz5TfMslds0eViTxhE6gK) | [Episode III](https://open.spotify.com/album/3x6SrAGgXvhKtbYo8MJaRC) | 4:00 | 2023-12-13 |  |

@@ -1587,6 +1587,24 @@
     },
     {
       "album": {
+        "name": "La Vida Que Nos Toco",
+        "url": "https://open.spotify.com/album/3hV0oQWIZ3ClLswRyHPXhp"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "date_added": "2025-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180676,
+      "name": "La Vida Que Nos Toco",
+      "url": "https://open.spotify.com/track/67VxfuanwY80y1BV4rmOqq"
+    },
+    {
+      "album": {
         "name": "Las Erres Gemelas",
         "url": "https://open.spotify.com/album/73q7EwOjaITTUQB7ajLmm6"
       },
@@ -2018,7 +2036,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-01",
       "duration_ms": 180250,
       "name": "Recuerdos del R",
       "url": "https://open.spotify.com/track/6JCyVBSbVg2YH1SlOhg0rz"

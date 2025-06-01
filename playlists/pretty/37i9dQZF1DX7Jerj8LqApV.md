@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Jerj8LqApV.md) - [plain]
 
 > Chill out and relax to the breeziest hits from the Philippines.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,808,775 likes - 40 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,808,864 likes - 40 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Jerj8LqApV.md) - [plain]
 | 5 | [Ediwag](https://open.spotify.com/track/2XinWhSXtDDgwPKR0cxjjE) | [JERGE](https://open.spotify.com/artist/220RvBKeVFbVEZf3YE2tKC) | [Ediwag](https://open.spotify.com/album/1qUvXmwbKYMLtrDXJ1qmBf) | 4:08 |
 | 6 | [Pikit Mata](https://open.spotify.com/track/7o4shGcqPhgiyzDoQup28j) | [Janine](https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ) | [Pikit Mata](https://open.spotify.com/album/5mlLdZNF4pLhgp7jIXsU2r) | 3:25 |
 | 7 | [Exclusively](https://open.spotify.com/track/6Vd4mP8MtKuWdzphUeDTaz) | [Fly Mama!](https://open.spotify.com/artist/79bsx38e5AAvAb8d0FEuQK) | [Exclusively](https://open.spotify.com/album/0zH2ZvnrqekbUsn7CWwm28) | 3:39 |
-| 8 | [Rosas](https://open.spotify.com/track/3kedvnPWaRcrshtiV6e6Z3) | [Jenzen Guino Official](https://open.spotify.com/artist/2tKfutC3pO6xm8iyRuGZgz) | [Rosas](https://open.spotify.com/album/6dAmnkJugmwr6Db7HLuqHr) | 3:23 |
+| 8 | [Rosas](https://open.spotify.com/track/3kedvnPWaRcrshtiV6e6Z3) | [Jenzen Guino](https://open.spotify.com/artist/3jkBa6etjIDCdf13YXJ0pS) | [Rosas](https://open.spotify.com/album/6dAmnkJugmwr6Db7HLuqHr) | 3:23 |
 | 9 | [Tibok](https://open.spotify.com/track/2Dhdu4YB3y5U3RiIcCJduv) | [Earl Agustin](https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm) | [Tibok](https://open.spotify.com/album/0adQix0U0hF4YN1xxbSgUU) | 5:26 |
 | 10 | [Palapit Sa Ü](https://open.spotify.com/track/1c82x61tkS3Piyt7l39Ouu) | [geiko](https://open.spotify.com/artist/6buyTec2V7K6LVmL74MLl2) | [Palapit Sa Ü](https://open.spotify.com/album/3YyLO6slRwlirN8KJkamTB) | 3:17 |
 | 11 | [Multo](https://open.spotify.com/track/4cBm8rv2B5BJWU2pDaHVbF) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Multo](https://open.spotify.com/album/7rBGkbCvrkAAgO9CKGxEuo) | 3:57 |

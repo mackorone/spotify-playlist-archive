@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Weekly new Hardstyle releases! Cover: Da Tweekaz & D\-Sturb
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,636 likes - 102 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,726 likes - 102 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 83 | [Beyond the Light \- Radio Edit](https://open.spotify.com/track/3M6e8XQzUEKZx8aChW6ip8) | [Dypression](https://open.spotify.com/artist/1VqAzNHvB2zNtXCgnEsTkJ), [Anklebreaker](https://open.spotify.com/artist/33SlSV9Phemrs59SmjA2QC) | [Beyond the Light \(Radio Edit\)](https://open.spotify.com/album/4OiJORPadJlFWm8NtZ2KhL) | 2:46 |
 | 84 | [Like A Bitch](https://open.spotify.com/track/38g2OfneomEog25tsXHDHX) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [DJane HouseKat](https://open.spotify.com/artist/64tnAMgE8bc2zTMBcBsLdx), [Pazoo](https://open.spotify.com/artist/6HU4BOe89xyKTjx5uPT3Gg) | [Like A Bitch](https://open.spotify.com/album/4GTbz3WgJvTzry8k4RvIlu) | 2:41 |
 | 85 | [Higher](https://open.spotify.com/track/0OimFKahMR1inr2Wl07T4P) | [Digital Madness](https://open.spotify.com/artist/5G1EFKlxqENrQJnQ1sWKzl) | [Higher](https://open.spotify.com/album/1RumGy0vd7wfgEc5LGd0Hs) | 2:43 |
-| 86 | [Neon Lights](https://open.spotify.com/track/1iTU4hiFF1wxV2Qq7zyZW8) | [Captain Curtis](https://open.spotify.com/artist/3uGJkMEEZ1kGFieLT5KytR), [Tatsunoshin](https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP), [SONJA](https://open.spotify.com/artist/6k04WEQYLa2ugo2pCYrd4s) | [Neon Lights](https://open.spotify.com/album/2PyWEgDZQDKnSu0JyKIfqg) | 2:58 |
+| 86 | [Neon Lights](https://open.spotify.com/track/1iTU4hiFF1wxV2Qq7zyZW8) | [Captain Curtis](https://open.spotify.com/artist/3uGJkMEEZ1kGFieLT5KytR), [Tatsunoshin](https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP), [Sonja](https://open.spotify.com/artist/2kUEcgQJdhP8QmIkYIN2Ax) | [Neon Lights](https://open.spotify.com/album/2PyWEgDZQDKnSu0JyKIfqg) | 2:58 |
 | 87 | [FEEL THAT SOUND](https://open.spotify.com/track/73Yqlqt6cSLsDdzOr47Ext) | [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl) | [FEEL THAT SOUND](https://open.spotify.com/album/6D9fZrKd5lExclQIVEzPvX) | 2:17 |
 | 88 | [Follow My Rules](https://open.spotify.com/track/19ruNXxtHxO5PSBBz3erYS) | [The Straikerz](https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l) | [Follow My Rules](https://open.spotify.com/album/5bnB5EVj5sNo30dLPwwDxB) | 2:15 |
 | 89 | [Cannonball](https://open.spotify.com/track/2IkP4TEDlJ3hGdT2vutCMl) | [Never Surrender](https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6), [Scarra](https://open.spotify.com/artist/75CWM6dvHUuLGsQj8fJyXr) | [Cannonball](https://open.spotify.com/album/7gKSJPfiLYhWfXJ4bwccR6) | 2:15 |

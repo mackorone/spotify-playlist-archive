@@ -1,6 +1,6 @@
 {
   "description": "\u8611\u83c7\u6fc3\u6e6f\u4f86\u4e86\uff01\u5feb\u9ede\u5feb\u9ede\u5feb\u9ede\u5466\uff01\u548c\u5bf6\u8c9d\u4e00\u8d77\u5feb\u6a02\u5531\u5531\u8df3\u8df3\u5427\uff01",
-  "num_followers": 9305,
+  "num_followers": 9312,
   "original_name": "\u5bf6\u5bf6\u5b9a\u795e\u66f2",
   "owner": {
     "name": "Spotify",
@@ -707,26 +707,18 @@
     {
       "added_at": "2025-05-29 16:00:19",
       "album": {
-        "name": "\u6700\u68d2\u7684\u8001\u7238",
-        "url": "https://open.spotify.com/album/0NAGd8EWtsL3hfl2Z1NqCJ"
+        "name": "\u7b11\u54aa\u54aa (\u5c0f\u516c\u8996\u611b\u5531\u6b4c\u7cfb\u5217__\u70ba\u5bf6\u8c9d\u5531\u4e00\u9996\u6b4c)",
+        "url": "https://open.spotify.com/album/6s1WAw8PLHI0CpbNZmnKlf"
       },
       "artists": [
         {
-          "name": "\u8c9d\u6a02\u864e",
-          "url": "https://open.spotify.com/artist/5ZdmFRkxym0oPSDwIBoYoQ"
-        },
-        {
-          "name": "\u571f\u8c46\u738b\u56fd\u5c0f\u4e50\u961f",
-          "url": "https://open.spotify.com/artist/6kevIHD0IeZoso5Pyt2r77"
-        },
-        {
-          "name": "\u5976\u7cd6\u6a02\u5718",
-          "url": "https://open.spotify.com/artist/2MOpXl9reUPQJldvt3XXbK"
+          "name": "Matzka",
+          "url": "https://open.spotify.com/artist/2UqJqFqLbXtMZKN5QAfing"
         }
       ],
-      "duration_ms": 193500,
-      "name": "\u6700\u68d2\u7684\u8001\u7238",
-      "url": "https://open.spotify.com/track/6oEoxzYIoBX8JDuHsdOppO"
+      "duration_ms": 178353,
+      "name": "\u7b11\u54aa\u54aa - \u5c0f\u516c\u8996\u611b\u5531\u6b4c\u7cfb\u5217__\u70ba\u5bf6\u8c9d\u5531\u4e00\u9996\u6b4c",
+      "url": "https://open.spotify.com/track/1HgebCH018bthgeMz2Jepo"
     },
     {
       "added_at": "2025-05-29 16:00:19",
@@ -767,18 +759,26 @@
     {
       "added_at": "2025-05-29 16:00:19",
       "album": {
-        "name": "\u7b11\u54aa\u54aa (\u5c0f\u516c\u8996\u611b\u5531\u6b4c\u7cfb\u5217__\u70ba\u5bf6\u8c9d\u5531\u4e00\u9996\u6b4c)",
-        "url": "https://open.spotify.com/album/6s1WAw8PLHI0CpbNZmnKlf"
+        "name": "\u6700\u68d2\u7684\u8001\u7238",
+        "url": "https://open.spotify.com/album/0NAGd8EWtsL3hfl2Z1NqCJ"
       },
       "artists": [
         {
-          "name": "Matzka",
-          "url": "https://open.spotify.com/artist/2UqJqFqLbXtMZKN5QAfing"
+          "name": "\u8c9d\u6a02\u864e",
+          "url": "https://open.spotify.com/artist/5ZdmFRkxym0oPSDwIBoYoQ"
+        },
+        {
+          "name": "\u571f\u8c46\u738b\u56fd\u5c0f\u4e50\u961f",
+          "url": "https://open.spotify.com/artist/6kevIHD0IeZoso5Pyt2r77"
+        },
+        {
+          "name": "\u5976\u7cd6\u6a02\u5718",
+          "url": "https://open.spotify.com/artist/2MOpXl9reUPQJldvt3XXbK"
         }
       ],
-      "duration_ms": 178353,
-      "name": "\u7b11\u54aa\u54aa - \u5c0f\u516c\u8996\u611b\u5531\u6b4c\u7cfb\u5217__\u70ba\u5bf6\u8c9d\u5531\u4e00\u9996\u6b4c",
-      "url": "https://open.spotify.com/track/1HgebCH018bthgeMz2Jepo"
+      "duration_ms": 193500,
+      "name": "\u6700\u68d2\u7684\u8001\u7238",
+      "url": "https://open.spotify.com/track/6oEoxzYIoBX8JDuHsdOppO"
     },
     {
       "added_at": "2025-05-29 16:00:19",

@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "Hemingway",
+        "url": "https://open.spotify.com/album/3JKMx86ymxWRpnBhmbBAus"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2025-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196697,
+      "name": "Hemingway",
+      "url": "https://open.spotify.com/track/1BBVsOxgQ2soUs87ypiMZH"
+    },
+    {
+      "album": {
         "name": "i need to be alone.",
         "url": "https://open.spotify.com/album/3UN8IYnBeUlkCjdb7B34EY"
       },

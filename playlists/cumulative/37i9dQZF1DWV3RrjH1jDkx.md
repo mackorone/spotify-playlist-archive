@@ -4,7 +4,7 @@
 
 > Ny musikk fra Ari Bajgora, Girl In Red og mange flere!🎵
 
-5,874 songs - 12 day 15 hr 16 min
+5,874 songs - 12 day 15 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,7 +272,7 @@
 | [Alt rett](https://open.spotify.com/track/7ggk6v1k0Omojs7u889OW8) | [Mats Dawg](https://open.spotify.com/artist/1odJWSxjMD4UofKX1WR5kr) | [Alt rett](https://open.spotify.com/album/7h9zsYWNwLJCkobhecNutU) | 2:37 | 2024-08-15 | 2024-08-23 |
 | [Alt som du vil ha](https://open.spotify.com/track/1rUJq8FD5TkdHNWH1LbJcV) | [Eva Weel Skram](https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3) | [Alt som du vil ha](https://open.spotify.com/album/5EACuXTWsGjC3jbNXDaUhu) | 4:24 | 2024-05-09 | 2024-05-17 |
 | [Alt som var bra](https://open.spotify.com/track/4Kp1TSLhyLzetL5aldRnyQ) | [Erlend Ropstad](https://open.spotify.com/artist/5DEpvCUOqEagldzoh25m1t) | [Alt som var bra](https://open.spotify.com/album/4xdzkwUxhqgwbyrHrlthhI) | 4:33 | 2024-05-23 | 2024-06-01 |
-| [Alto](https://open.spotify.com/track/6W0JyLntjW5czCieDPSkui) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Alto](https://open.spotify.com/album/6CK5736RvBDi7w9wDjCYLf) | 3:08 | 2025-05-29 |  |
+| [Alto](https://open.spotify.com/track/6W0JyLntjW5czCieDPSkui) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Alto](https://open.spotify.com/album/6CK5736RvBDi7w9wDjCYLf) | 3:45 | 2025-05-29 |  |
 | [Alvinas Trolldans](https://open.spotify.com/track/4CzjNGztcervN1boYTaZhM) | [Marie Klåpbakken](https://open.spotify.com/artist/2qHlT3DfJoJNI4I8IzQmky) | [Alvinas Trolldans](https://open.spotify.com/album/58LUibZ96LZxSuWIoG9SSy) | 2:27 | 2024-12-13 | 2024-12-20 |
 | [Always Be](https://open.spotify.com/track/0aohefgYGm6l5IZACPK8yu) | [Netrum](https://open.spotify.com/artist/4X76fYx1a6EmEvCqDudesG) | [Always Be](https://open.spotify.com/album/2VVvZpeYiH3cu7tVNyIOjq) | 2:50 | 2024-08-15 | 2024-08-23 |
 | [Always Forever](https://open.spotify.com/track/2kSeF6yZz3wLFchfnX0xfO) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Always Forever](https://open.spotify.com/album/65otcCeyfEPtdY4DZMgPtF) | 3:05 | 2024-05-31 | 2024-06-07 |

@@ -7609,6 +7609,24 @@
     },
     {
       "album": {
+        "name": "superstitious / falling in love",
+        "url": "https://open.spotify.com/album/1WevIdYWogV9E4pZcXdoel"
+      },
+      "artists": [
+        {
+          "name": "no na",
+          "url": "https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187235,
+      "name": "superstitious",
+      "url": "https://open.spotify.com/track/1HoRAFcgEZSUJesK23aRnZ"
+    },
+    {
+      "album": {
         "name": "Sure Thing (Sped Up)",
         "url": "https://open.spotify.com/album/0IrjdFRneYtHj0CwmAphDT"
       },
@@ -9060,7 +9078,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-01",
       "duration_ms": 151979,
       "name": "Who are you?",
       "url": "https://open.spotify.com/track/4fY3eujPNFdOrrCzVPCsoQ"

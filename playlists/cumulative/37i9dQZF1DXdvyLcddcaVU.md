@@ -2,7 +2,7 @@
 
 ### [t'as la ref ?](https://open.spotify.com/playlist/37i9dQZF1DXdvyLcddcaVU)
 
-> \#fyp
+> Paris c'est magique, c'est trop ma ville, ça bouge de tous les côtés \#fyp
 
 763 songs - 1 day 16 hr 6 min
 
@@ -585,7 +585,7 @@
 | [Pourtant](https://open.spotify.com/track/47wyFDQKlZ4ycYTHYqOelQ) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Enna](https://open.spotify.com/album/0IBVzjJxYn6o69T4FfXMLi) | 3:11 | 2023-10-20 | 2024-03-02 |
 | [Pourvu Qu'Elles M'Aiment](https://open.spotify.com/track/6Hr8Ek8a7r0aIdybhEx2T2) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [0.9](https://open.spotify.com/album/4kvVqavqTyVWqXURC0fRqF) | 4:00 | 2023-07-21 | 2024-01-03 |
 | [Praise Jah In The Moonlight](https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9) | [YG Marley](https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr) | [Praise Jah In The Moonlight](https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd) | 4:23 | 2024-01-26 | 2024-06-01 |
-| [Pretty Little Baby \- Stereo Mix](https://open.spotify.com/track/5GQPBzoRBDxcAjwSSluQXD) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Connie Francis Sings Second Hand Love & Other Hits](https://open.spotify.com/album/6CTiCTGft53NcVMsAxxgCQ) | 2:22 | 2025-05-22 |  |
+| [Pretty Little Baby](https://open.spotify.com/track/5GQPBzoRBDxcAjwSSluQXD) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Connie Francis Sings Second Hand Love & Other Hits](https://open.spotify.com/album/6CTiCTGft53NcVMsAxxgCQ) | 2:22 | 2025-05-22 |  |
 | [Price Tag](https://open.spotify.com/track/2fTsFCKRFQ5M0igJgabnLA) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou), [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT) | [Who You Are \(Platinum Edition\)](https://open.spotify.com/album/0BZbTNqpXFg6lxNv78X7Lp) | 3:43 | 2025-03-28 | 2025-04-26 |
 | [PROBLÈMES](https://open.spotify.com/track/3wRDJXLakoOT8ilNPOOhh9) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi) | [QUARTIERS NORD](https://open.spotify.com/album/4EGHU1v3qmjchplaPqRWBC) | 3:14 | 2023-08-04 | 2023-09-16 |
 | [Problèmes d'adultes](https://open.spotify.com/track/4IOWZmBVc0GqfuoQcAkirT) | [Sexion d'Assaut](https://open.spotify.com/artist/4vnmifnGOeRXfNTRtgd4Tj) | [L'Apogée](https://open.spotify.com/album/6b8P3pIe2bH7AO9EQOQwk9) | 3:58 | 2023-12-01 | 2024-02-10 |

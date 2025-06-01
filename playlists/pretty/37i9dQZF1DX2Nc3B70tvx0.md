@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 
 > The best of right now\. Cover: Matt Berninger
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,039,407 likes - 140 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,038,623 likes - 140 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 | 139 | [This Alive](https://open.spotify.com/track/5ZETN3H7ZSbWuYId7djFfz) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [This Alive](https://open.spotify.com/album/4tgz2Bilm2EE2mMHjoXV7I) | 3:45 |
 | 140 | [Idiot Box](https://open.spotify.com/track/33Wi8Etr6ljOsBViBOKWQ5) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Sharon Van Etten & The Attachment Theory](https://open.spotify.com/album/5aGKc7OL3d1aJodCG2747F) | 4:10 |
 
-Snapshot ID: `aDktZgAAAAC5QqRu8Gs5PSXTC1BVG2eI`
+Snapshot ID: `AAAAAHCikvV4TUACBcb1T1rmLeLPEvx9`

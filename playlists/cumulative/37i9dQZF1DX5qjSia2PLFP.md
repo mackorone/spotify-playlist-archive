@@ -4,7 +4,7 @@
 
 > They got next and now\. Cover: <a href="spotify:artist:79NDEw5QWlDC9KaIbogNhS">PlaqueBoyMax</a>
 
-1,213 songs - 2 day 8 hr 3 min
+1,214 songs - 2 day 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -856,7 +856,7 @@
 | [Private Room](https://open.spotify.com/track/35qWJOaWkfaGLuY9Ngn6VV) | [J.P.](https://open.spotify.com/artist/6ygDlIilHZqielxxkvmIVH) | [Coming Out Party](https://open.spotify.com/album/5vdKOSZqhHsEf9HEMqWidz) | 2:33 | 2024-07-05 | 2024-07-13 |
 | [problem](https://open.spotify.com/track/558OkRc07xtIAkKu9iXGQg) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [Laila!](https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t) | [problem](https://open.spotify.com/album/09pQWAWZPFuCz1CbccPx3y) | 7:39 | 2024-08-16 | 2024-08-24 |
 | [PROMISE](https://open.spotify.com/track/7Fs6E2JVl6LthzLgFcrx4r) | [DAMEDAME\*](https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11) | [PROMISE](https://open.spotify.com/album/7oWYUxwVjjoegzzbFGbLQV) | 3:43 | 2025-05-16 | 2025-05-24 |
-| [Proud Of Me \(ft\. Meek Mill\)](https://open.spotify.com/track/1ZEIchL5Gy4g5DYQaqEbzQ) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Proud Of Me](https://open.spotify.com/album/2wi2ZaPy1mGhZPaWMrmKpJ) | 3:50 | 2025-03-21 |  |
+| [Proud Of Me \(ft\. Meek Mill\)](https://open.spotify.com/track/1ZEIchL5Gy4g5DYQaqEbzQ) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Proud Of Me](https://open.spotify.com/album/2wi2ZaPy1mGhZPaWMrmKpJ) | 3:50 | 2025-03-21 | 2025-06-01 |
 | [Psalm 62](https://open.spotify.com/track/1Pai6r7aZUkrP57WoGNVtp) | [Foggieraw](https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM) | [The Foggie Pound 3](https://open.spotify.com/album/1ZzXYPLLalBAuHiy9JJgGr) | 2:51 | 2023-06-16 | 2023-10-07 |
 | [Pull Up\(s\)](https://open.spotify.com/track/5ycFHqi89RSSSC9kWNT3Zr) | [omniboi](https://open.spotify.com/artist/3I4kM4D2rNnlG8JwEH5bHx), [Ehiorobo](https://open.spotify.com/artist/5kZ3bLambJ4rBTQ7c2pmi5) | [Pull Up\(s\)](https://open.spotify.com/album/3YctpjaNzPkk8faA4Scemh) | 4:46 | 2023-09-15 | 2024-02-03 |
 | [Pump](https://open.spotify.com/track/5qM04CpPChSvuytbaYLbZ7) | [Lil Bigg](https://open.spotify.com/artist/0ZIn1YecXJzxyozsTrWlv7), [L5](https://open.spotify.com/artist/4z6YFfgSe8cIY9HxKUe531) | [0043](https://open.spotify.com/album/2CaqO7kYWReWYzSMyaDeDs) | 2:28 | 2024-02-02 | 2024-02-10 |
@@ -930,6 +930,7 @@
 | [Serious](https://open.spotify.com/track/03XuW0pZJg9K0sWlSKiwYE) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Serious](https://open.spotify.com/album/4KjhIgllM1P5D6Qe7P1Evs) | 2:04 | 2023-10-06 | 2024-02-03 |
 | [Set In Stone](https://open.spotify.com/track/3XontTnCJgSqiPiVHophJc) | [Zillionaire Doe](https://open.spotify.com/artist/1bKQ0QmmCQ2JJFMtypP0xm) | [Set In Stone](https://open.spotify.com/album/13mpgWtvQho6iYmSvjcJDC) | 3:47 | 2025-04-11 | 2025-05-17 |
 | [Set It Up](https://open.spotify.com/track/1k9bp6yzlRTOwqB4JB7RFF) | [Pote Baby](https://open.spotify.com/artist/1K2CImmhCW2QVfppHo4Nfj) | [Set It Up](https://open.spotify.com/album/1e3u8uTl5quNGWVIbpD9aF) | 3:37 | 2022-03-04 | 2022-08-27 |
+| [Sevan](https://open.spotify.com/track/4W4hhnxvRE0rRUK1vaGlsk) | [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [Five Forever](https://open.spotify.com/album/0zBzGId66SwQWCsPJgNLY1) | 2:41 | 2025-05-31 |  |
 | [Shake Dat Ass \(Twerk Song\)](https://open.spotify.com/track/1vkpe29DP5EvAxYnWVq5C1) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Too Slippery](https://open.spotify.com/album/3ESmtTRJZkIjPShkV48tdL) | 3:17 | 2024-07-05 | 2024-08-24 |
 | [Shake Dat Ass \(Twerk Song\) \(feat\. GloRilla\)](https://open.spotify.com/track/6s1O3pFjN8aDUnooppKDmP) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Dlow Curry](https://open.spotify.com/album/2KtiNduXFIrpZG2nQuboD4) | 3:49 | 2024-12-13 |  |
 | [Shake It Off](https://open.spotify.com/track/3b8C4yeise381XMGTvBeNn) | [1up Tee](https://open.spotify.com/artist/1yqmgJoPnWJO0pxbZvxvCX) | [Shake It Off](https://open.spotify.com/album/1YjPOtTOIRqKfHWaZGtRmf) | 1:47 | 2025-04-24 | 2025-05-03 |

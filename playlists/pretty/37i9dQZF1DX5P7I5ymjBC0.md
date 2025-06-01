@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 
 > Fusion music for the soul\.  Cover\- Rishab Rikhiram Sharma
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,913 likes - 50 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,948 likes - 50 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 | 16 | [Khamaaj](https://open.spotify.com/track/1yOzcnB0kIli8JttbJFMEK) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions: Season 2](https://open.spotify.com/album/1W9cr6LNkNTfX5YKBOGFMu) | 5:39 |
 | 17 | [Mitho Laage \- The Dewarists, Season 5](https://open.spotify.com/track/4mjjr1EeynuE236oOWeEMK) | [Dhruv Ghanekar](https://open.spotify.com/artist/716MYE0ks6nnA2oCJdK3Mb), [Mame Khan](https://open.spotify.com/artist/2K4pcxTMiwnKoVvdAr5pwD) | [Mitho Laage \(The Dewarists, Season 5\)](https://open.spotify.com/album/5f9rbgON0HgEoFlrNUiaJp) | 4:40 |
 | 18 | [Aaqa \- Coke Studio Season 9](https://open.spotify.com/track/7ullpqaNSeTxBObPH8djXd) | [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl), [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Aaqa \- Coke Studio Season 9](https://open.spotify.com/album/6A5WZRxOF5DGX7RRWADhYl) | 8:27 |
-| 19 | [Gulon Main Rang](https://open.spotify.com/track/7J4UCQmUq4T5vzMmvE2NAq) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Gulon Main Rang](https://open.spotify.com/album/0Rbfm35fV1a5uCjVK7pgjs) | 6:19 |
-| 20 | [Garaj Garaj Jugalbandi](https://open.spotify.com/track/1TOQb1AwnZLzrAu4VXZUIO) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Farid Hasan](https://open.spotify.com/artist/5VS1XKT1Og8hCqS5n7MyLZ), [Mohammed Aman](https://open.spotify.com/artist/1mfkISQy4OfXQjdV46x6Yf) | [Bandish Bandits \(Original Series Soundtrack\)](https://open.spotify.com/album/778BLlKdQHXXzKm6XEiqTz) | 5:30 |
+| 19 | [Garaj Garaj Jugalbandi](https://open.spotify.com/track/1TOQb1AwnZLzrAu4VXZUIO) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Farid Hasan](https://open.spotify.com/artist/5VS1XKT1Og8hCqS5n7MyLZ), [Mohammed Aman](https://open.spotify.com/artist/1mfkISQy4OfXQjdV46x6Yf) | [Bandish Bandits \(Original Series Soundtrack\)](https://open.spotify.com/album/778BLlKdQHXXzKm6XEiqTz) | 5:30 |
+| 20 | [Gulon Main Rang](https://open.spotify.com/track/7J4UCQmUq4T5vzMmvE2NAq) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Gulon Main Rang](https://open.spotify.com/album/0Rbfm35fV1a5uCjVK7pgjs) | 6:19 |
 | 21 | [Aakhon ke Sagar](https://open.spotify.com/track/6vwDylCMJ5yP26iG5oXlIC) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions: Season 2](https://open.spotify.com/album/1W9cr6LNkNTfX5YKBOGFMu) | 5:16 |
 | 22 | [Text me when you reach](https://open.spotify.com/track/4vAlFacTwAaeBJhij4jOZR) | [Rishab Rikhiram Sharma](https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu), [Raj](https://open.spotify.com/artist/5vlfXqlvWlApabRM1h97jF) | [Text me when you reach](https://open.spotify.com/album/4gJ2rVT40KEpJQb6yMJv2o) | 1:31 |
 | 23 | [Nirmohiya](https://open.spotify.com/track/09v5TgXyjMKYz7yEkkgMP5) | [Prithvi Gandharv](https://open.spotify.com/artist/5mXxFxVsphnPepnqhgBBhs), [Suvarna Tiwari](https://open.spotify.com/artist/1Uy4rDTdXHBBSAjDTOKoRC), [Mandy Gill](https://open.spotify.com/artist/7otohmxIFI9XGwdj1XWw5k) | [Bandish Bandits Season 2 \(Original Series Soundtrack\)](https://open.spotify.com/album/0Atz7wNsDiGgiPZ1qrq7bF) | 4:38 |

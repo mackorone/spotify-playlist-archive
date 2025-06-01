@@ -4,7 +4,7 @@
 
 > Warm indie dance vibes 🌞 the music you need at golden hour
 
-576 songs - 1 day 11 hr 52 min
+577 songs - 1 day 11 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [adore u](https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [adore u](https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL) | 3:40 | 2023-12-01 | 2024-01-27 |
 | [Agitations tropicales](https://open.spotify.com/track/2La21GqU4fKTQLcfLxTeoz) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Odyssée \- EP](https://open.spotify.com/album/346ZDnGgJudDau17EEyWWA) | 4:08 | 2021-02-13 |  |
 | [All for You](https://open.spotify.com/track/1aHiADbmDJi1ukmZghtvIn) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez), [WAYNE SNOW](https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC) | [All for You](https://open.spotify.com/album/7Ckd5Akndk0AC2HAhbQgdT) | 4:13 | 2024-02-02 |  |
-| [All I Need](https://open.spotify.com/track/3ZL9gPzeCnKG9l5SB1SlcZ) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [All I Need](https://open.spotify.com/album/7cynQpUNbqg7ZqYQu11Yng) | 3:47 | 2025-01-17 |  |
+| [All I Need](https://open.spotify.com/track/3ZL9gPzeCnKG9l5SB1SlcZ) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [All I Need](https://open.spotify.com/album/7cynQpUNbqg7ZqYQu11Yng) | 3:47 | 2025-01-17 | 2025-06-01 |
 | [All I Want](https://open.spotify.com/track/3ZGHAc7tq5CQzfK7HsobCa) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [All In All](https://open.spotify.com/album/2ROQYFuwNtresrGarebbjN) | 7:48 | 2020-12-22 | 2023-12-02 |
 | [All that Glitters is not Gold](https://open.spotify.com/track/45Exz93oyRbDvmM8FvpgYz) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [All that Glitters is not Gold](https://open.spotify.com/album/21cKRCwQth5UGjCV6DkhGn) | 2:51 | 2025-05-02 |  |
 | [All There Is To Know](https://open.spotify.com/track/7q0NUpOU9j2DZFyHxTEaN4) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [All There Is To Know](https://open.spotify.com/album/17bsFu3ODuF2kS5ux4ybYC) | 3:16 | 2025-05-16 |  |
@@ -123,6 +123,7 @@
 | [Disco Nap](https://open.spotify.com/track/3o7jpoacI4FX1SlSdsOT2g) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM), [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Disco Nap](https://open.spotify.com/album/5JKmDfJ8DFs5l3jqFyUOX7) | 3:13 | 2025-01-10 |  |
 | [DIVE IN](https://open.spotify.com/track/7j4PaT9seq1EcccFGBH99I) | [DLG.](https://open.spotify.com/artist/6OjbjDH6ZfL9NWdioYibGP) | [DIVE IN](https://open.spotify.com/album/0QljpTKemtgSDNU5rMweCw) | 2:39 | 2024-01-26 |  |
 | [Do U Want Me](https://open.spotify.com/track/2eTLxOZY8owibk7b2iETad) | [Giraffage](https://open.spotify.com/artist/4kubsO16bEfCADaVUyoYb6) | [Too Real](https://open.spotify.com/album/2i0WQgxSckOe7XEF1XtiCz) | 3:44 | 2020-12-22 | 2022-07-27 |
+| [DON'T LEAVE ME \(IN THE SUNSHINE\) \- French Braids Remix](https://open.spotify.com/track/3f9jU6VoqLrGvM2dEDGMhJ) | [Miami Horror](https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1) | [DON'T LEAVE ME \(IN THE SUNSHINE\) \[French Braids Remix\]](https://open.spotify.com/album/4sPGzuUFdDzws27o2lbfHq) | 4:21 | 2025-05-30 |  |
 | [Don't Shy Away \- Never Dull Remix](https://open.spotify.com/track/2cXXzozNWjZsmqZz66Kw2e) | [j\. pastel](https://open.spotify.com/artist/4e0F3Bqyp0BpE3VmNh4qKS), [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [Don't Shy Away](https://open.spotify.com/album/5uwObzYPsS1BBG44T3fg6G) | 3:16 | 2023-12-15 | 2023-12-30 |
 | [Don't Turn Around](https://open.spotify.com/track/1eYKJWV1eK85T5AZwvwOuH) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Don't Turn Around](https://open.spotify.com/album/1nJ6X5PejqyhbHpG9Ycf5N) | 2:51 | 2020-12-22 | 2024-02-03 |
 | [Don't Turn Around](https://open.spotify.com/track/6FzZMJGhI5JA5nDVM87s5w) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Don't Turn Around](https://open.spotify.com/album/4DJijRH1nTtLoQt8s8gUI3) | 2:51 | 2020-12-22 | 2022-04-17 |

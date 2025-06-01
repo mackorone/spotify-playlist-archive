@@ -1,12 +1,12 @@
 {
   "description": "This is Chalino Sanchez. The essential tracks, all in one playlist.",
-  "num_followers": 328164,
+  "num_followers": 328249,
   "original_name": "This Is Chalino Sanchez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDejgAAAAAAc/fWI/XqU/oHtaO9pxRQe",
+  "snapshot_id": "aDj1AAAAAAAnm5D/b7rH75fqzyqV6TIM",
   "tracks": [
     {
       "added_at": null,
@@ -619,22 +619,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos De Los F\u00e9lix Y Los Quintero",
-        "url": "https://open.spotify.com/album/0UoFhcatSN6tPV20Df2mrc"
+        "name": "Chalino S\u00e1nchez Con Mariachi",
+        "url": "https://open.spotify.com/album/5mH9ZEaAY0vYLm3WhN3v3e"
       },
       "artists": [
         {
           "name": "Chalino Sanchez",
           "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        },
-        {
-          "name": "Los Amables Del Norte",
-          "url": "https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K"
         }
       ],
-      "duration_ms": 225686,
-      "name": "Mart\u00edn F\u00e9lix",
-      "url": "https://open.spotify.com/track/3XNqQX6K1HiQDR5f6RgOyx"
+      "duration_ms": 242195,
+      "name": "Mar\u00eda De La Luz",
+      "url": "https://open.spotify.com/track/2rm2wBuQZU3rld8hNVOx73"
     },
     {
       "added_at": null,
@@ -655,6 +651,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Corridos De Los F\u00e9lix Y Los Quintero",
+        "url": "https://open.spotify.com/album/0UoFhcatSN6tPV20Df2mrc"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        },
+        {
+          "name": "Los Amables Del Norte",
+          "url": "https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K"
+        }
+      ],
+      "duration_ms": 225686,
+      "name": "Mart\u00edn F\u00e9lix",
+      "url": "https://open.spotify.com/track/3XNqQX6K1HiQDR5f6RgOyx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Los Inmortales",
         "url": "https://open.spotify.com/album/51akbQSZNbuRA3UHdoS8s5"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 163546,
       "name": "Que Me Entierren Cantando",
       "url": "https://open.spotify.com/track/7LgBi7LRxHxpK2tyPc5WUb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chalino S\u00e1nchez Con Mariachi",
-        "url": "https://open.spotify.com/album/5mH9ZEaAY0vYLm3WhN3v3e"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        }
-      ],
-      "duration_ms": 242195,
-      "name": "Mar\u00eda De La Luz",
-      "url": "https://open.spotify.com/track/2rm2wBuQZU3rld8hNVOx73"
     },
     {
       "added_at": null,

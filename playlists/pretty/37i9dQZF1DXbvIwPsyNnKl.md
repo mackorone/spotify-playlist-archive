@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvIwPsyNnKl.md) - [plain]
 
 > The place for the very best of Pinoy hip\-hop\. Kalye Natin 'To\. Cover: Realest Cram, Young Blood Neet
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,357,870 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,358,490 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

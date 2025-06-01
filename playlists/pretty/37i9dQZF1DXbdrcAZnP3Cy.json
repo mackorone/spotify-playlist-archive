@@ -1,6 +1,6 @@
 {
   "description": "Your favorite Mexican anthems to get the party started! ",
-  "num_followers": 189037,
+  "num_followers": 189152,
   "original_name": "Mexican Party Anthems",
   "owner": {
     "name": "Spotify",
@@ -823,6 +823,22 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
+        "name": "Arrempujala Arremangala",
+        "url": "https://open.spotify.com/album/7o3jw1zUej7NicDM4pNbzM"
+      },
+      "artists": [
+        {
+          "name": "Los Karkik's",
+          "url": "https://open.spotify.com/artist/2kRcNmtZoQUI7F0hoYCnCg"
+        }
+      ],
+      "duration_ms": 193306,
+      "name": "La Jaiba",
+      "url": "https://open.spotify.com/track/0BQ7uJTvZDZxH4k7cwrSQ1"
+    },
+    {
+      "added_at": "2024-08-30 08:25:49",
+      "album": {
         "name": "Esto S\u00ed Es Cumbia",
         "url": "https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 266213,
       "name": "Nunca Es Suficiente",
       "url": "https://open.spotify.com/track/63USmok1OioBzKuWGW9wAg"
-    },
-    {
-      "added_at": "2024-08-30 08:25:49",
-      "album": {
-        "name": "Arrempujala Arremangala",
-        "url": "https://open.spotify.com/album/7o3jw1zUej7NicDM4pNbzM"
-      },
-      "artists": [
-        {
-          "name": "Los Karkik's",
-          "url": "https://open.spotify.com/artist/2kRcNmtZoQUI7F0hoYCnCg"
-        }
-      ],
-      "duration_ms": 193306,
-      "name": "La Jaiba",
-      "url": "https://open.spotify.com/track/0BQ7uJTvZDZxH4k7cwrSQ1"
     },
     {
       "added_at": "2024-08-30 08:25:49",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
-        "name": "Grandes \u00c9xitos Remezclados Y Remasterizados",
-        "url": "https://open.spotify.com/album/5I7CydpUxGqOSgFzSlxOew"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        }
-      ],
-      "duration_ms": 267613,
-      "name": "C\u00f3mo Te Voy A Olvidar",
-      "url": "https://open.spotify.com/track/6ltYnjVswCQtRdxmRjCG35"
-    },
-    {
-      "added_at": "2024-08-30 08:25:49",
-      "album": {
         "name": "Arrempujala Arremangala",
         "url": "https://open.spotify.com/album/7o3jw1zUej7NicDM4pNbzM"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 197982,
       "name": "Arrempujala Arremangala",
       "url": "https://open.spotify.com/track/00xWJo63OSXjWyihycznbe"
+    },
+    {
+      "added_at": "2024-08-30 08:25:49",
+      "album": {
+        "name": "Grandes \u00c9xitos Remezclados Y Remasterizados",
+        "url": "https://open.spotify.com/album/5I7CydpUxGqOSgFzSlxOew"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        }
+      ],
+      "duration_ms": 267613,
+      "name": "C\u00f3mo Te Voy A Olvidar",
+      "url": "https://open.spotify.com/track/6ltYnjVswCQtRdxmRjCG35"
     },
     {
       "added_at": "2024-08-30 08:25:49",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
-        "name": "Estamos Locos",
-        "url": "https://open.spotify.com/album/58vEBu5rvv8ct4Pk158A8L"
-      },
-      "artists": [
-        {
-          "name": "Grupo G",
-          "url": "https://open.spotify.com/artist/4zKNSiS1LD7OT0z3hTqRE8"
-        }
-      ],
-      "duration_ms": 191333,
-      "name": "La Inconforme - Sonidera",
-      "url": "https://open.spotify.com/track/6sti0UCUQQzfmSfzCHHUXW"
-    },
-    {
-      "added_at": "2024-08-30 08:25:49",
-      "album": {
         "name": "Se Menea Se Menea",
         "url": "https://open.spotify.com/album/2E8WzqhyEL9SqioQ5Fgg8D"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 151875,
       "name": "Se Menea",
       "url": "https://open.spotify.com/track/6uhEqYTqhEkSH6Rlf3ILpj"
+    },
+    {
+      "added_at": "2024-08-30 08:25:49",
+      "album": {
+        "name": "Estamos Locos",
+        "url": "https://open.spotify.com/album/58vEBu5rvv8ct4Pk158A8L"
+      },
+      "artists": [
+        {
+          "name": "Grupo G",
+          "url": "https://open.spotify.com/artist/4zKNSiS1LD7OT0z3hTqRE8"
+        }
+      ],
+      "duration_ms": 191333,
+      "name": "La Inconforme - Sonidera",
+      "url": "https://open.spotify.com/track/6sti0UCUQQzfmSfzCHHUXW"
     },
     {
       "added_at": "2024-08-30 08:25:49",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
-        "name": "All My Hits: Todos Mis Exitos",
-        "url": "https://open.spotify.com/album/6ofanZuft02DovBm84Slkk"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 218293,
-      "name": "La Carcacha",
-      "url": "https://open.spotify.com/track/4ICNUqLxAZjHyyXnINFkp2"
-    },
-    {
-      "added_at": "2024-08-30 08:25:49",
-      "album": {
         "name": "Hoy M\u00e1s Fuerte",
         "url": "https://open.spotify.com/album/2OAr7CKU64w3VzHkSsdC46"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 151586,
       "name": "La Leona y el Mandil\u00f3n",
       "url": "https://open.spotify.com/track/72YKqem3dQrjdoMEH28AVH"
+    },
+    {
+      "added_at": "2024-08-30 08:25:49",
+      "album": {
+        "name": "All My Hits: Todos Mis Exitos",
+        "url": "https://open.spotify.com/album/6ofanZuft02DovBm84Slkk"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 218293,
+      "name": "La Carcacha",
+      "url": "https://open.spotify.com/track/4ICNUqLxAZjHyyXnINFkp2"
     },
     {
       "added_at": "2024-08-30 08:25:49",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
-        "name": "Ra\u00edces",
-        "url": "https://open.spotify.com/album/3P0x6Hb7bQmv3mAHZ3M4Pl"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 113306,
-      "name": "El Sinaloense",
-      "url": "https://open.spotify.com/track/57qATI59zt97GfYpac1FoS"
-    },
-    {
-      "added_at": "2024-08-30 08:25:49",
-      "album": {
         "name": "No Se Va (En Vivo)",
         "url": "https://open.spotify.com/album/700G54RNkWryfdCZdfyw7A"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 194019,
       "name": "No Se Va - En Vivo",
       "url": "https://open.spotify.com/track/5JhUm1v5AbI5Yu6jLKCPRO"
+    },
+    {
+      "added_at": "2024-08-30 08:25:49",
+      "album": {
+        "name": "Ra\u00edces",
+        "url": "https://open.spotify.com/album/3P0x6Hb7bQmv3mAHZ3M4Pl"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 113306,
+      "name": "El Sinaloense",
+      "url": "https://open.spotify.com/track/57qATI59zt97GfYpac1FoS"
     },
     {
       "added_at": "2024-08-30 08:25:49",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
-        "name": "18 Grandes Exitos Bailables",
-        "url": "https://open.spotify.com/album/1t4FvHx2Kv3232zHHmUueG"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 191200,
-      "name": "La Quebradora",
-      "url": "https://open.spotify.com/track/1KjOumAi1x92WucdWaDlqD"
-    },
-    {
-      "added_at": "2024-08-30 08:25:49",
-      "album": {
         "name": "Bonita",
         "url": "https://open.spotify.com/album/0GrIKHwtfk4TpzwwJh9QPu"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 201084,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/5CYjYxgqGkYVXP70iVasim"
+    },
+    {
+      "added_at": "2024-08-30 08:25:49",
+      "album": {
+        "name": "18 Grandes Exitos Bailables",
+        "url": "https://open.spotify.com/album/1t4FvHx2Kv3232zHHmUueG"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 191200,
+      "name": "La Quebradora",
+      "url": "https://open.spotify.com/track/1KjOumAi1x92WucdWaDlqD"
     },
     {
       "added_at": "2024-08-30 08:25:49",

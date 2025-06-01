@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Isadora Pompeo
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,718 likes - 50 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,780 likes - 50 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 18 | [Na Casa](https://open.spotify.com/track/6pWyvrJENOsQPV1XVUWhDN) | [Ariadne Ribeiro](https://open.spotify.com/artist/5DyHjAOCrYKz3mzFPYu6Fe), [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Salluz Collection](https://open.spotify.com/artist/3C6CIrpyiIrVL9pHjcdhpv), [Somos OCDI](https://open.spotify.com/artist/5O0ynKj86KJPX903gEth3b) | [Na Casa](https://open.spotify.com/album/6W83wHGMoJK8innkzbxqba) | 4:57 |
 | 19 | [Nada Além do Sangue / Pra Sempre / Oh Quão Lindo Esse Nome É \- Ao Vivo](https://open.spotify.com/track/003jGNfUU3I4mQFa8PKRMm) | [Theo Rubia](https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe) | [Nada Além do Sangue / Pra Sempre / Oh Quão Lindo Esse Nome É \(Ao Vivo\)](https://open.spotify.com/album/2RcXdFSW1e6frCS5DXhfSg) | 6:45 |
 | 20 | [Eu Tenho uma Promessa \- Ao Vivo](https://open.spotify.com/track/2M9yqk3MLhe1oYnWhxkOwY) | [Kailane Frauches](https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD) | [Eu Tenho uma Promessa \(Ao Vivo\)](https://open.spotify.com/album/4aqGlblyh993tK9y4juEa9) | 4:31 |
-| 21 | [Make Room](https://open.spotify.com/track/1iC4UmO5SakR0PXLsARCky) | [O Canto das Igrejas](https://open.spotify.com/artist/0wtv2hFP28opRib0L3wQjB), [Lucas & Evelyn Cortazio](https://open.spotify.com/artist/0IsZrX65y6CZ9TMbALhubp), [CHURCH SONGS](https://open.spotify.com/artist/2DjtXQwkzIKsIwURvMgDbi), [Somos OCDI](https://open.spotify.com/artist/5O0ynKj86KJPX903gEth3b) | [Make Room](https://open.spotify.com/album/5BKX2ikxRWcTurS8rLd7rh) | 7:10 |
+| 21 | [Make Room](https://open.spotify.com/track/1iC4UmO5SakR0PXLsARCky) | [CHURCH SONGS](https://open.spotify.com/artist/2DjtXQwkzIKsIwURvMgDbi), [Lucas & Evelyn Cortazio](https://open.spotify.com/artist/0IsZrX65y6CZ9TMbALhubp), [O Canto das Igrejas](https://open.spotify.com/artist/0wtv2hFP28opRib0L3wQjB), [Somos OCDI](https://open.spotify.com/artist/5O0ynKj86KJPX903gEth3b) | [Make Room](https://open.spotify.com/album/5BKX2ikxRWcTurS8rLd7rh) | 7:10 |
 | 22 | [Tua Mão Está Sobre Mim \- Ao Vivo](https://open.spotify.com/track/1S0Gbs0J331XmwJKpivdfX) | [ONE Service](https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP), [Diego Perensin](https://open.spotify.com/artist/0VStsoqltLrBxyeENqpD6d) | [Tua Mão Está Sobre Mim \(Ao Vivo\)](https://open.spotify.com/album/6rAroc4XV197VnX4gn4upU) | 8:40 |
 | 23 | [Falei pra Deus \- Ao Vivo](https://open.spotify.com/track/1OTRmMHTFi9JsRpEsOXnRZ) | [Alisson Santos](https://open.spotify.com/artist/4VPAtpxf7iOgmovzCrx6mJ) | [Falei pra Deus \(Ao Vivo\)](https://open.spotify.com/album/3PUY8reXBLBqn74BN6oAG3) | 4:48 |
 | 24 | [Só Tu És O Alfa](https://open.spotify.com/track/40cFaO7m8vOtMJ2Q5Z83tG) | [Sam Kardoso](https://open.spotify.com/artist/3A4aPNMiFX580mmKQKO4Cx), [Amanda Loyola](https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al) | [Só Tu És O Alfa](https://open.spotify.com/album/2B5cFVVFY8tDzfEsO6RqVk) | 8:19 |

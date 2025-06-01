@@ -4,7 +4,7 @@
 
 > This is Lenny Kravitz\. The essential tracks, all in one playlist.
 
-92 songs - 6 hr 39 min
+93 songs - 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [Johnny Cash](https://open.spotify.com/track/3OrWg1VRhAjy2n27ixedud) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Raise Vibration](https://open.spotify.com/album/6zXOZuDsPTGu4yEKaTXzlH) | 6:18 | 2023-08-09 | 2023-08-11 |
 | [Lady](https://open.spotify.com/track/4qM2h3xkzwGJiVv6GgL6w0) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Baptism](https://open.spotify.com/album/6LToEXs3jBCKIFgC3AWU5R) | 4:15 | 2023-07-28 |  |
 | [Let It Ride](https://open.spotify.com/track/1M0uguPWc1ncUhV6iZOoXS) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Blue Electric Light](https://open.spotify.com/album/33i9bBiL7PuwD5hEG9GoUi) | 3:35 | 2024-05-27 | 2024-07-04 |
-| [Let It Ride \- Jamie Jones Remix](https://open.spotify.com/track/4Qia8t2vNSY3qyMYe6zCU9) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7), [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [Let It Ride \(Jamie Jones Remix\)](https://open.spotify.com/album/69huZFB3RkeoW4VNMd7BdY) | 3:26 | 2025-04-06 |  |
+| [Let It Ride \- HoneyLuv Remix](https://open.spotify.com/track/3Ch5p4bpm3E62yWj3lQn1Z) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7), [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl) | [Let It Ride Remixes, Pt\. 2](https://open.spotify.com/album/0tAicLuKd7VSZ65MH9NLBg) | 3:31 | 2025-06-01 |  |
+| [Let It Ride \- Jamie Jones Remix](https://open.spotify.com/track/4Qia8t2vNSY3qyMYe6zCU9) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7), [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [Let It Ride \(Jamie Jones Remix\)](https://open.spotify.com/album/69huZFB3RkeoW4VNMd7BdY) | 3:26 | 2025-04-06 | 2025-06-01 |
 | [Let It Ride \- Junior Sanchez Remix](https://open.spotify.com/track/1D5U8ovfzzjmhwAPIhHios) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7), [Junior Sanchez](https://open.spotify.com/artist/31ZNfGVEEcI9CyicPVJQni) | [Let It Ride Remixes, Pt\. 1](https://open.spotify.com/album/0GLIxsnq8lrhofrLOGKbTt) | 3:37 | 2025-04-27 | 2025-05-25 |
 | [Let It Ride \- Kungs Remix](https://open.spotify.com/track/56gSHoj04xLIkTFU4ZD8pd) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7), [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Let It Ride \(Kungs Remix\)](https://open.spotify.com/album/7pcVa9N8A0TVlIXZYlAppA) | 3:42 | 2025-04-20 | 2025-05-18 |
 | [Let Love Rule](https://open.spotify.com/track/2pmN85k5m9nO1rWaCDdrNE) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Let Love Rule](https://open.spotify.com/album/70Vuh3jYUMO8LLP5BaqZMb) | 5:42 | 2023-07-28 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcgmlEJyzKw.md) - [plain]
 
 > Early explorations with recorded sounds as instruments \-  the groundwork for sampling as we know it today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,582 likes - 63 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,603 likes - 63 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcgmlEJyzKw.md) - [plain]
 | 24 | [I Am Sitting In A Room](https://open.spotify.com/track/69bEhv4y3OgGn7pZPnmqhH) | [Alvin Lucier](https://open.spotify.com/artist/0ARBCE8g4PI0TO7PEYMm0Z), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Source: Music of the Avant Garde](https://open.spotify.com/album/7i9X3oUY5wRYTThF69fZEA) | 15:19 |
 | 25 | [Gesang Der Junglinge](https://open.spotify.com/track/0Y9DYv05QW8Cs8UTrXnRnA) | [Karlheinz Stockhausen](https://open.spotify.com/artist/5PkKmEWhfJ9jHVHXbZl0Ks) | [A Young Person's Guide to the Avant\-Garde](https://open.spotify.com/album/3B4NWeTR5KQ8SItD6mz6x2) | 13:03 |
 | 26 | [Blanche](https://open.spotify.com/track/17839FXSP5VYjy33XbNlO5) | [Michel Chion](https://open.spotify.com/artist/2ozHdIM8I61aAYW7WlSno5) | [Musiques concrètes 1970\-71](https://open.spotify.com/album/4IozR37CeDTkuQL7dbpq8X) | 12:23 |
-| 27 | [Part I](https://open.spotify.com/track/0XjhKEJkLMygZlzXTbgFRP) | [İlhan Mimaroğlu](https://open.spotify.com/artist/7rM5G4gKtS2FN45XBljyu8) | [Tract: A Composition of Agitprop Music for Electromagnetic Tape by Ilhan Mimaroglu](https://open.spotify.com/album/3sqe1I0vscuEqV7gvU1KAd) | 18:47 |
+| 27 | [Part I](https://open.spotify.com/track/0XjhKEJkLMygZlzXTbgFRP) | [İlhan Mimaroğlu](https://open.spotify.com/artist/7rM5G4gKtS2FN45XBljyu8), [Tuly Sand](https://open.spotify.com/artist/5ZHq1xHgm7aN8gIezs4IiB) | [Tract: A Composition Of Agitprop Music For Electromagnetic Tape](https://open.spotify.com/album/3sqe1I0vscuEqV7gvU1KAd) | 18:47 |
 | 28 | [Eclats de voix](https://open.spotify.com/track/5llYBDvEsysCoto0hZQUBv) | [Robert Normandeau](https://open.spotify.com/artist/4mmZpFXE6WSLSPRJcKdpAp) | [Tangram](https://open.spotify.com/album/3gxulcCKgsxSjlctDhObRB) | 3:05 |
 | 29 | [Cinq etudes de bruits \- Etude aux chemins de fer](https://open.spotify.com/track/7ci9Uaau3XOCSzZB6x5Unj) | [Pierre Schaeffer](https://open.spotify.com/artist/47ypz2bndV4j06Xx8yPDZl) | [The French Avant\-Garde in the 20th Century](https://open.spotify.com/album/7bwmOoEpj4IhcviXUeRShT) | 2:52 |
 | 30 | [Cinq etudes de bruits \- Etude aux tourniquets](https://open.spotify.com/track/2OiHxXNRzhu654unoQfo9P) | [Pierre Schaeffer](https://open.spotify.com/artist/47ypz2bndV4j06Xx8yPDZl) | [The French Avant\-Garde in the 20th Century](https://open.spotify.com/album/7bwmOoEpj4IhcviXUeRShT) | 1:55 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 
 > feel the magic with the gems in r&b right now
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,470 likes - 88 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,468 likes - 88 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,18 +58,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 48 | [HIGHER](https://open.spotify.com/track/1PqvFkb8ui6dkMFXUky8Sv) | [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY), [Sedric Perry](https://open.spotify.com/artist/4Z6yPeF2Ytgp3tZATwf6Jw) | [HIGHER](https://open.spotify.com/album/1mAwkzV51N4Z9CbaIncD5T) | 3:01 |
 | 49 | [Options](https://open.spotify.com/track/5bikU6p8V41T1bkBAXbu6o) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Options](https://open.spotify.com/album/3U5R7PhkRZSx41ZUFjMQdn) | 2:18 |
 | 50 | [Good Day](https://open.spotify.com/track/6Go0mbl0KkPgQ5lCU4rT06) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Good Day](https://open.spotify.com/album/1dmyYsIIRVePvCLhFb7Dd1) | 4:35 |
-| 51 | [Fold](https://open.spotify.com/track/5PeH63iIPRhJ8PH1NYU7VP) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Fold](https://open.spotify.com/album/7G9J7ME1E89jnBT6Kyx3YG) | 2:37 |
-| 52 | [Never Return](https://open.spotify.com/track/26C5uk4xXownqyI03PtJs1) | [Asiah](https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX) | [Never Return](https://open.spotify.com/album/7L8IOBKMIKNFcaBAdV9ku3) | 2:52 |
+| 51 | [Never Return](https://open.spotify.com/track/26C5uk4xXownqyI03PtJs1) | [Asiah](https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX) | [Never Return](https://open.spotify.com/album/7L8IOBKMIKNFcaBAdV9ku3) | 2:52 |
+| 52 | [Fold](https://open.spotify.com/track/5PeH63iIPRhJ8PH1NYU7VP) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Fold](https://open.spotify.com/album/7G9J7ME1E89jnBT6Kyx3YG) | 2:37 |
 | 53 | [Heaven](https://open.spotify.com/track/3Wqossbsoiwknv6unRnPlK) | [Mnelia](https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec) | [Heaven](https://open.spotify.com/album/1WUmhAZpjr4WS7QwHfiyco) | 2:32 |
 | 54 | [Loving You](https://open.spotify.com/track/27nj0mfyXhW6OUru2vARIi) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Loving You / Don't Let Me Go](https://open.spotify.com/album/5TLHp7Q9XE0hYTo6qF4g3H) | 2:32 |
 | 55 | [Back Door](https://open.spotify.com/track/60VrrSJ1bdK7VJpM9hHBlJ) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF) | [Fuck A Friendzone 2](https://open.spotify.com/album/0MLdG6HlXagozTFyYQFsoj) | 2:25 |
-| 56 | [TUTU](https://open.spotify.com/track/3kcwpkgRypt5ioI6pDVGTm) | [Amadi Blue](https://open.spotify.com/artist/7vxkFc87aF2xfUZGjxX2If) | [TUTU](https://open.spotify.com/album/6Ma755dCSYqh8SE53yyUuZ) | 2:40 |
-| 57 | [Runaway](https://open.spotify.com/track/1V9Ez2GB6GKxJ8DcqsrWSA) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [Runaway](https://open.spotify.com/album/2trHkv6oFtPokMkQHfHoNH) | 3:22 |
+| 56 | [Runaway](https://open.spotify.com/track/1V9Ez2GB6GKxJ8DcqsrWSA) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [Runaway](https://open.spotify.com/album/2trHkv6oFtPokMkQHfHoNH) | 3:22 |
+| 57 | [TUTU](https://open.spotify.com/track/3kcwpkgRypt5ioI6pDVGTm) | [Amadi Blue](https://open.spotify.com/artist/7vxkFc87aF2xfUZGjxX2If) | [TUTU](https://open.spotify.com/album/6Ma755dCSYqh8SE53yyUuZ) | 2:40 |
 | 58 | [Space and Pussy](https://open.spotify.com/track/0uExujZlh2J2XxNRn6ZJBu) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Space and Pussy](https://open.spotify.com/album/03GodmV6v7GWeXW1vGEUHw) | 2:34 |
 | 59 | [Drip](https://open.spotify.com/track/1MtWF5FUDx8cZZIDUo7fbw) | [Tamara Mneney](https://open.spotify.com/artist/2UfHLDuOKojtDAWIvnK0yV) | [Drip](https://open.spotify.com/album/3tdrJYHelQjyttVmulOG8R) | 3:50 |
-| 60 | [Glad You Came](https://open.spotify.com/track/6kLEz38AjUXwYj9XUTiT5j) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Glad You Came](https://open.spotify.com/album/2RYVwOEFppOjw7TodiC5lV) | 2:25 |
-| 61 | [Fire](https://open.spotify.com/track/6X70MJKhqu5SvjQ7IYLZdJ) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [LOVE/HATE Pt\. 2](https://open.spotify.com/album/3xjdl27Ab0t5g8uMNHL4dG) | 3:12 |
-| 62 | [Find My Lover](https://open.spotify.com/track/6Q4odYdfamczWhVntWnYBH) | [Asiah](https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX) | [Find My Lover](https://open.spotify.com/album/2XVNA3BJlk6nDRQRC3amkA) | 2:09 |
+| 60 | [Find My Lover](https://open.spotify.com/track/6Q4odYdfamczWhVntWnYBH) | [Asiah](https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX) | [Find My Lover](https://open.spotify.com/album/2XVNA3BJlk6nDRQRC3amkA) | 2:09 |
+| 61 | [Glad You Came](https://open.spotify.com/track/6kLEz38AjUXwYj9XUTiT5j) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Glad You Came](https://open.spotify.com/album/2RYVwOEFppOjw7TodiC5lV) | 2:25 |
+| 62 | [Fire](https://open.spotify.com/track/6X70MJKhqu5SvjQ7IYLZdJ) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [LOVE/HATE Pt\. 2](https://open.spotify.com/album/3xjdl27Ab0t5g8uMNHL4dG) | 3:12 |
 | 63 | [Silky Feels](https://open.spotify.com/track/3MBF7eH1Qstob0DQGAGTjQ) | [Simona](https://open.spotify.com/artist/3vhX2s2sJN6iV0fbvgZAAB), [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI) | [Silky Feels](https://open.spotify.com/album/3BVIKzG5YaENmAUWuIqNzI) | 2:45 |
 | 64 | [Lying \(feat\. Dylan Sinclair\)](https://open.spotify.com/track/5ceDV9qcL7Ow4EyO1yPkQY) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm), [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Children Of The Night](https://open.spotify.com/album/2bZ7d2Aj1LAejFhA9UB9UY) | 4:41 |
 | 65 | [UPSET](https://open.spotify.com/track/3OvCdQoVIWmW4NUbayrBKD) | [Lavils](https://open.spotify.com/artist/21IzgxyClVgsRUoFtE13mX) | [i wish we didn't..](https://open.spotify.com/album/69ajOGCWOvtpvM2oSHuaoO) | 1:43 |

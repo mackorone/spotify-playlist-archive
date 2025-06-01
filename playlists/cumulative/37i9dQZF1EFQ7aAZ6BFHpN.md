@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6f8N8qe1L2qiB0f5U0sCp7">George Gershwin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-209 songs - 15 hr 52 min
+211 songs - 16 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,8 +176,10 @@
 | [Somebody Stole My Heart Away](https://open.spotify.com/track/2L6XkLZ8e6WzFBV5KlpCgb) | [Michael Feinstein](https://open.spotify.com/artist/2IcIec7ZxgwaWNJbZ0Sth7) | [Nice Work If You Can Get It](https://open.spotify.com/album/2WQiJXX9HQWgAfQaEqKLwW) | 4:51 | 2024-07-24 |  |
 | [Stand Up And Fight](https://open.spotify.com/track/1C3X9PRRCYDu8P9Ys5ZDsm) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4) | [Gershwin on Screen III: "Strike Up The Band", "Broadway Rhythm", "Ziegfeld Follies" and "The Shocking Miss Pilgrim"](https://open.spotify.com/album/0rM6Pjficon2DjTIqrajTx) | 1:49 | 2024-07-24 |  |
 | [Stiff Upper Lip](https://open.spotify.com/track/1JoKwbSqevXtrTlLaSqjIC) | [Kirby Ward](https://open.spotify.com/artist/3CP3fz5qpw93t4feU2qLoP), [Ruthie Henshall](https://open.spotify.com/artist/1X4vfxU2mYZ7ERr9LnJVpg), [Robert Austin](https://open.spotify.com/artist/77f5GAkrYfYoJ0tXi7n5Nw), [Pauls Tinker](https://open.spotify.com/artist/22doTZUc6nfFfH2ARmI1MH), [The "Crazy for You" Ensemble](https://open.spotify.com/artist/5rbdlumCELxmFfNwlTP1tO) | [Crazy For You \(Original London Cast Recording\)](https://open.spotify.com/album/2VSXE30vimrdGB8ELKfWLZ) | 2:44 | 2024-07-24 |  |
+| [Strike Up the Band: Overture \(arr\. D\. Rose for orchestra\)](https://open.spotify.com/track/5jCqqnrR9X6NwbS6q3jgRc) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Don Rose](https://open.spotify.com/artist/68I7vZsOjHhe5587Lk75WL), [Buffalo Philharmonic Orchestra](https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK), [Joann Falletta](https://open.spotify.com/artist/4XNYbiwP1fToWVyvNPTMMK) | [Gershwin: Rhapsody in Blue \- Strike Up the Band: Overture \- Promenade \- Catfish Row](https://open.spotify.com/album/7BGSTg6EXyPHTuaFiJgz1V) | 6:57 | 2025-05-31 |  |
 | [Sumartid](https://open.spotify.com/track/7n69jT21lZMfG0n4AcSebs) | [Gerd Michaelsen](https://open.spotify.com/artist/03Xqh5fw9mUwbR28LAQNNr) | [Stille Ballade](https://open.spotify.com/album/0hc2dN14KACxyXx2hQImjs) | 4:28 | 2024-07-24 |  |
 | [Summer Life \(feat\. YG\)](https://open.spotify.com/track/7FTI3GKtcp6hr1h6SFL93z) | [YULTRON](https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Skywalker](https://open.spotify.com/album/39z4dxWE6Kpl8NvMdY2L0t) | 3:55 | 2024-07-24 |  |
+| [Summertime](https://open.spotify.com/track/6cU4urQRUieTBH08yKHAqj) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [April In Paris: The Genius Of Charlie Parker \#2](https://open.spotify.com/album/7uifUApb0mUlqIxX5SkrVJ) | 2:47 | 2025-05-31 |  |
 | [Summertime](https://open.spotify.com/track/2gNjmvuQiEd2z9SqyYi8HH) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Porgy And Bess](https://open.spotify.com/album/1vvnTmmNWnGmqvVFjVIINf) | 4:58 | 2024-07-24 |  |
 | [Summertime](https://open.spotify.com/track/0EIVfSsMX5NNTLKJPqej7Y) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Wild](https://open.spotify.com/album/2CX7Bs0bl9Ic940Va4S0G0) | 5:33 | 2024-07-24 |  |
 | [Summertime](https://open.spotify.com/track/2bZ00g0QNNHnLkoEdR9IUk) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Sarah Vaughan Sings George Gershwin](https://open.spotify.com/album/3WNkR1jew5kfBxl1PhgwPa) | 2:54 | 2024-07-24 |  |

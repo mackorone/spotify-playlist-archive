@@ -4,7 +4,7 @@
 
 > Warm and cozy jazz vibes to get you in a positive mood.
 
-182 songs - 12 hr 17 min
+183 songs - 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Beyond the Sea](https://open.spotify.com/track/7qASTjWMSWivEoCaCUvvQW) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Beyond the Sea](https://open.spotify.com/album/6Z0LeTnPFEuKRDJHGBSouB) | 2:55 | 2024-09-27 |  |
 | [Blue Minor](https://open.spotify.com/track/6OBefdKL1eJNlHjfEfqVzf) | [Jeff Goldblum & The Mildred Snitzer Orchestra](https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu) | [Blue Minor](https://open.spotify.com/album/4v9oX1D9zVNwbf5xHXCmXZ) | 4:32 | 2025-03-28 |  |
 | [Blue Moon](https://open.spotify.com/track/1pZn8AX1WulW8IO338hE5D) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Solitude](https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp) | 3:27 | 2021-12-16 | 2023-04-14 |
-| [Blues Vaccine](https://open.spotify.com/track/4p1NcWez9GkjeLQAV7WOLP) | [Förnuft och Känsla](https://open.spotify.com/artist/4KSDoZH1HGkNnZp9Yjhlm0) | [Blues Vaccine](https://open.spotify.com/album/05VATUBjvBZ5HpwvnX0Tqx) | 6:00 | 2023-02-10 |  |
+| [Blues Vaccine](https://open.spotify.com/track/4p1NcWez9GkjeLQAV7WOLP) | [Förnuft och Känsla](https://open.spotify.com/artist/4KSDoZH1HGkNnZp9Yjhlm0) | [Blues Vaccine](https://open.spotify.com/album/05VATUBjvBZ5HpwvnX0Tqx) | 6:00 | 2023-02-10 | 2025-06-01 |
 | [C'est si bon](https://open.spotify.com/track/5yYJNiQ3oapwwxu2A7Ch0A) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Satchmo Serenades](https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc) | 3:03 | 2022-06-28 | 2024-03-07 |
 | [C'est si bon](https://open.spotify.com/track/3YrbJ9Y7SU0AIYFjYnXzIp) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [C'est Si Bon](https://open.spotify.com/album/6yKeev1MnyUbFjhNHWsFFK) | 3:07 | 2022-05-25 | 2022-07-29 |
 | [Ca\-Lee\-So \- Remastered 2007/Rudy Van Gelder Edition](https://open.spotify.com/track/5GmGwX7LtHc1eQEpwdzsxU) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Delightfulee](https://open.spotify.com/album/0B2DsJvIiZ9khche2rE4rI) | 5:34 | 2021-12-16 | 2025-02-09 |
@@ -95,6 +95,7 @@
 | [It's All Right With Me \- Remastered 2006/Rudy Van Gelder Edition](https://open.spotify.com/track/0fnMpSyjIY0PmtHlopoIow) | [Johnny Griffin](https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ) | [Introducing Johnny Griffin \(Rudy Van Gelder Edition / Remastered\)](https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd) | 5:00 | 2021-12-16 | 2024-09-01 |
 | [It's Crazy](https://open.spotify.com/track/6bgkRqGbBJJ9cnwj8S4CkC) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8), [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO) | [Sarah Vaughan](https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG) | 5:06 | 2021-12-16 |  |
 | [It's Only a Paper Moon](https://open.spotify.com/track/27Gqrcetxl6L6UOyhKrLwo) | [Lee Wiley](https://open.spotify.com/artist/1IRFfdGI95F5UTMST4udG3) | [Follow Your Heart](https://open.spotify.com/album/2KPizBplSDIJ16sDqjLFKT) | 3:12 | 2021-12-16 | 2025-03-02 |
+| [Jay Bird](https://open.spotify.com/track/0VmsUOVB4o995oUmSaUB6Y) | [Robert Edwards](https://open.spotify.com/artist/5DmkuH4UiV7WesTUXh8itQ) | [JAYBIRD100](https://open.spotify.com/album/3ohHwGF0jcgBsVRtB56u3B) | 4:58 | 2025-05-09 |  |
 | [Jazz \(Ain't Nothin' But Soul\)](https://open.spotify.com/track/5Q4JJ0pK8zEF0oWJxygGAm) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ) | [The Modern Sound Of Betty Carter](https://open.spotify.com/album/3ohFY3QjkPqVCq1X1jDBgS) | 1:56 | 2022-05-25 |  |
 | [Jeannie](https://open.spotify.com/track/2S16YRyDugzBKy2FglLBLz) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Sophisticated Swing](https://open.spotify.com/album/2HSXNwybsegzhAgASpZcHD) | 3:28 | 2021-12-16 | 2023-04-20 |
 | [John Hardy's Wife](https://open.spotify.com/track/5ZaLdSX0UJdLWkOJOVDyzK) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Oscar Peterson Plays The Duke Ellington Song Book](https://open.spotify.com/album/1pKJpLhilpDIcpVPtyxvMc) | 2:33 | 2021-12-16 |  |

@@ -1555,6 +1555,28 @@
     },
     {
       "album": {
+        "name": "Beauty in the Ruins",
+        "url": "https://open.spotify.com/album/12uDzwiFE1tdnFjyUEc67A"
+      },
+      "artists": [
+        {
+          "name": "Nogymx",
+          "url": "https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP"
+        },
+        {
+          "name": "Tenno",
+          "url": "https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157718,
+      "name": "Enchanting Lights",
+      "url": "https://open.spotify.com/track/30COvB6DZzh3waT3MQFV0R"
+    },
+    {
+      "album": {
         "name": "Oldschool Memories",
         "url": "https://open.spotify.com/album/4KVVvtVBpXWvKCeRAtP1Bq"
       },
@@ -2762,7 +2784,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-01",
       "duration_ms": 169714,
       "name": "Journey",
       "url": "https://open.spotify.com/track/2pAPo7r9woX5AwLDNzAgaV"
@@ -3752,7 +3774,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-24",
+      "date_removed": null,
       "duration_ms": 139384,
       "name": "Nature's Temple",
       "url": "https://open.spotify.com/track/3mIYJNmhjPSbJhS03sv3Ko"
@@ -4896,7 +4918,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-01",
       "duration_ms": 181714,
       "name": "Silver Lake",
       "url": "https://open.spotify.com/track/2d9U8zOWgpvXuogjw1j3e4"

@@ -1,12 +1,12 @@
 {
   "description": "This is Playboi Carti. The essential tracks, all in one playlist.",
-  "num_followers": 310177,
+  "num_followers": 310277,
   "original_name": "This Is Playboi Carti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDejgAAAAABkJl1kYfV777/DQvEN7Zgn",
+  "snapshot_id": "aDj1AAAAAAA2SJM3DlJECpYASZBovL61",
   "tracks": [
     {
       "added_at": null,
@@ -591,22 +591,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blick Sum (feat. Playboi Carti)",
-        "url": "https://open.spotify.com/album/3kP4QpDTvR9jCHnlQdsKFV"
+        "name": "Playboi Carti",
+        "url": "https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j"
       },
       "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
         {
           "name": "Playboi Carti",
           "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Blick Sum (feat. Playboi Carti)",
-      "url": "https://open.spotify.com/track/3PAvwFSVQ4K4hMo7yJLv0I"
+      "duration_ms": 165642,
+      "name": "Yah Mean",
+      "url": "https://open.spotify.com/track/5MUxrNd7Gr2HksLcAlB0IO"
     },
     {
       "added_at": null,
@@ -643,6 +639,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blick Sum (feat. Playboi Carti)",
+        "url": "https://open.spotify.com/album/3kP4QpDTvR9jCHnlQdsKFV"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Blick Sum (feat. Playboi Carti)",
+      "url": "https://open.spotify.com/track/3PAvwFSVQ4K4hMo7yJLv0I"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Playboi Carti",
         "url": "https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j"
       },
@@ -650,11 +666,15 @@
         {
           "name": "Playboi Carti",
           "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
         }
       ],
-      "duration_ms": 165642,
-      "name": "Yah Mean",
-      "url": "https://open.spotify.com/track/5MUxrNd7Gr2HksLcAlB0IO"
+      "duration_ms": 240459,
+      "name": "Flex",
+      "url": "https://open.spotify.com/track/2xyBvir9n474qfsOkxXMgx"
     },
     {
       "added_at": null,
@@ -679,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Whole Lotta Red",
+        "url": "https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 89741,
+      "name": "New Tank",
+      "url": "https://open.spotify.com/track/4txKMpsSfZRV6durPuHVq0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I LUV IT (feat. Playboi Carti)",
         "url": "https://open.spotify.com/album/32kJxu3atkwQVZ6iOjw7UB"
       },
@@ -699,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whole Lotta Red",
-        "url": "https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR"
-      },
-      "artists": [
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 89741,
-      "name": "New Tank",
-      "url": "https://open.spotify.com/track/4txKMpsSfZRV6durPuHVq0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Playboi Carti",
         "url": "https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j"
       },
@@ -722,15 +742,11 @@
         {
           "name": "Playboi Carti",
           "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        },
-        {
-          "name": "Leven Kali",
-          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
         }
       ],
-      "duration_ms": 240459,
-      "name": "Flex",
-      "url": "https://open.spotify.com/track/2xyBvir9n474qfsOkxXMgx"
+      "duration_ms": 150409,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/23QyE9GQpXsX9WgEDADMa6"
     },
     {
       "added_at": null,
@@ -763,22 +779,6 @@
       "duration_ms": 117239,
       "name": "Place",
       "url": "https://open.spotify.com/track/1Bg2CNZw6S4e9cGWPmi0uI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Playboi Carti",
-        "url": "https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j"
-      },
-      "artists": [
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 150409,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/23QyE9GQpXsX9WgEDADMa6"
     }
   ],
   "unique_name": "This Is Playboi Carti",

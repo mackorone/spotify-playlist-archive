@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmSEUe2qmDp.md) - [plain]
 
 > Conheça as novas vozes da música sertaneja! Foto: Abel e Benício
 
-[Spotify](https://open.spotify.com/user/spotify) - 476,299 likes - 70 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 476,290 likes - 70 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmSEUe2qmDp.md) - [plain]
 | 21 | [Sentimento Inédito](https://open.spotify.com/track/40d7jfb6zHKq74dG2KRYrR) | [Thayná Bitencourt](https://open.spotify.com/artist/2EiiEzyH31Lo2TLUctc2B9) | [Sentimento Inédito](https://open.spotify.com/album/4sog9K5dhU0E7ZmrOIcxok) | 2:31 |
 | 22 | [Mesa na Calçada \- Ao Vivo](https://open.spotify.com/track/0Br5Tsa1B5nDEUOXwHTlbJ) | [Zé Ricardo & Thiago](https://open.spotify.com/artist/4ZUahcHoVxr4lsrfdmhjhV), [Cleber & Cauan](https://open.spotify.com/artist/6Y8pfJkEdw4EAST4g9C026) | [Kabeceira III \(Ao Vivo\)](https://open.spotify.com/album/5TOJLdaBHMWMR9znHL9QRJ) | 2:46 |
 | 23 | [Orgulho Não Deixa](https://open.spotify.com/track/3CCAKD89JsyQBMePyZXuye) | [Zé Luccas](https://open.spotify.com/artist/3xJU4ACS8oS5o8nbTMeiWo) | [Orgulho Não Deixa](https://open.spotify.com/album/5Yaiov6LBof9hwf633N2Ad) | 2:32 |
-| 24 | [Luz de Velas \- Ao Vivo](https://open.spotify.com/track/75KywIpqhZ0cwZJcsvqrjv) | [Rick & Ricardo](https://open.spotify.com/artist/3jpnyQAV5PANKxiyoZQYOZ) | [Diferente \(Ao Vivo\)](https://open.spotify.com/album/0XeJvdQeLDLANq7HW5EMjq) | 3:01 |
+| 24 | [Luz de Velas \- Ao Vivo](https://open.spotify.com/track/75KywIpqhZ0cwZJcsvqrjv) | [Rick & Ricardo](https://open.spotify.com/artist/3jpnyQAV5PANKxiyoZQYOZ), [Rick & Nogueira](https://open.spotify.com/artist/0MZjTmgoSErzmMapfREhGv) | [Diferente \(Ao Vivo\)](https://open.spotify.com/album/0XeJvdQeLDLANq7HW5EMjq) | 3:01 |
 | 25 | [Ficou no Quase](https://open.spotify.com/track/5nm6X8YJ4il0KZvyeXeKRV) | [Duda Bertelli](https://open.spotify.com/artist/0Zuy8Df6xyPDVxstUOsHQO), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Ficou no Quase](https://open.spotify.com/album/5hIeuTqHqhw7h7sKrw1A4u) | 2:46 |
 | 26 | [Resenha Do Interior \(Ao Vivo\)](https://open.spotify.com/track/1zYdQv7Ee1fX0k1IwULBZS) | [Heitor](https://open.spotify.com/artist/2lsdgjL6txMw2GFNFJLzIW) | [Resenha Do Interior \(Ao Vivo\)](https://open.spotify.com/album/2KNtxYtVX0pK3h4z8hUSxh) | 2:18 |
 | 27 | [Lado Ruim](https://open.spotify.com/track/7rhyOxdEI6lBB8IeOFwQiT) | [Gabi Suarez](https://open.spotify.com/artist/2S54NC7x1kcKyzL3PS699V), [Juliana Marques](https://open.spotify.com/artist/0lQLEejtZqv5SydrKNiEhp) | [Lado Ruim](https://open.spotify.com/album/4FUTn5dOYJr0bJZgmSeOgq) | 2:43 |

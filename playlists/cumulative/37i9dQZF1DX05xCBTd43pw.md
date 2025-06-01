@@ -4,7 +4,7 @@
 
 > Grüezi! This is 100% made in Switzerland\.  Cover: Zoë Më
 
-354 songs - 18 hr 12 min
+355 songs - 18 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Don't Stop The Car](https://open.spotify.com/track/4TGFS6BL59tuRSjBByZ3A4) | [Nickless](https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea) | [Don't Stop The Car](https://open.spotify.com/album/0cWThtdC9EYUPQMGAivj7m) | 3:14 | 2024-06-27 |  |
 | [Don't You](https://open.spotify.com/track/4SCGx3pO13awv6gpHz1ebm) | [Marc Sway](https://open.spotify.com/artist/5czVIm17rZyNTdUdD6yY7w), [Naomi Ayleen](https://open.spotify.com/artist/7eHijIZEf09FGSZYcysqe9) | [Don't You](https://open.spotify.com/album/5cvlDr98frKNS47U2Antil) | 3:11 | 2024-12-07 | 2025-03-23 |
 | [Doomsday Kiss](https://open.spotify.com/track/0b6CfOTTJQGJhS4mliyjAV) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Doomsday Kiss](https://open.spotify.com/album/3nfIttcOYNsLZWtFXd7kGa) | 2:48 | 2025-05-22 |  |
+| [dormant plants](https://open.spotify.com/track/1rS3xMPOBLjS6Nm4MlYiN7) | [Elie Zoé](https://open.spotify.com/artist/2t7zzvR3tKMctlLIUkTvjc) | [dormant plants](https://open.spotify.com/album/5wLF3Uc5IDZqcXjhR7vIvm) | 4:15 | 2025-05-29 |  |
 | [Down To My Bones](https://open.spotify.com/track/634vnGPykpqsgpMJlW9XOj) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Down To My Bones](https://open.spotify.com/album/6qrZVY8wS9AiYjNaHTXreD) | 3:21 | 2024-11-01 |  |
 | [Drei Stunden](https://open.spotify.com/track/6L0Ii1AzM0W4ZAl8FPPN1b) | [jan SEVEN dettwyler](https://open.spotify.com/artist/0vzAclaaTGJDFQzdWxmTej) | [Drei Stunden](https://open.spotify.com/album/2XMofoZm4xZtaWWkuQEVON) | 2:29 | 2024-08-05 | 2024-08-30 |
 | [Du](https://open.spotify.com/track/0EM85Qj3526QtxCBOQL6rT) | [Nemo \(CH\)](https://open.spotify.com/artist/1KbDYbNErlTGfWPENELJgM) | [Du](https://open.spotify.com/album/3VDAjCOWVKdGVmnVFvTTUr) | 3:36 | 2025-05-08 | 2025-05-16 |
@@ -348,7 +349,7 @@
 | [Weekend](https://open.spotify.com/track/3XiLkVWxjafBq4YcvtCqq8) | [Arma Jackson](https://open.spotify.com/artist/22I8wvU1Zw6EMiOt4W98BN) | [Été sans fin](https://open.spotify.com/album/5ya3DUeWCWz2gtftAC3tLH) | 2:24 | 2025-04-24 | 2025-05-02 |
 | [Wenn Du Das Lied Ghörsch](https://open.spotify.com/track/4Iu56eMBRx5CN6l5m4M16o) | [Baschi](https://open.spotify.com/artist/6XzAV5lONpTgoSJDsF2Ubz) | [Fürs Volk](https://open.spotify.com/album/5LMk7KjAHAhOqEna4GNqZG) | 3:33 | 2025-05-01 | 2025-05-09 |
 | [Wer hats erfunden](https://open.spotify.com/track/0QDZw9cs0VnQzEol2DfGJh) | [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [Wer hats erfunden](https://open.spotify.com/album/52JBA7u2pkfcovbX91KTpm) | 2:12 | 2025-05-22 |  |
-| [What Went Wrong](https://open.spotify.com/track/09LPMQYwT0rv2OleNUJajK) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P) | [April](https://open.spotify.com/album/6g2f5WpDL8hYf8zvrXMiUW) | 2:08 | 2025-05-22 |  |
+| [What Went Wrong](https://open.spotify.com/track/09LPMQYwT0rv2OleNUJajK) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P) | [April](https://open.spotify.com/album/6g2f5WpDL8hYf8zvrXMiUW) | 2:08 | 2025-05-22 | 2025-06-01 |
 | [When We Get There We'll Know](https://open.spotify.com/track/4wXHE6HfR95WkzbAwWkMP3) | [Marius Bear](https://open.spotify.com/artist/6thEUEg4pJq0H4aLVqNMwb) | [When We Get There We'll Know](https://open.spotify.com/album/2uNlRP9wGl6kZnzAcO0piz) | 3:00 | 2025-05-22 |  |
 | [Where Were You](https://open.spotify.com/track/0wQX5IoDmttPaz7imkbrCQ) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [Where Were You](https://open.spotify.com/album/4gNbqvaLePlFJDme8TfKeG) | 2:42 | 2024-08-19 | 2025-03-15 |
 | [Will you read my mind?](https://open.spotify.com/track/5OAsL40eMUld36G5c6ankC) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [Will you read my mind?](https://open.spotify.com/album/107YlaWLAAp5qqvKy8F2BN) | 4:05 | 2025-05-22 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXmRdYIgq8J.md) - [plain]
 
 > Tropical tunes from the Indo\-Caribbean diaspora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,767 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,777 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,13 +37,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXmRdYIgq8J.md) - [plain]
 | 27 | [Cheers to Life](https://open.spotify.com/track/3y6b6RDAN3hTuKIFeDNVKT) | [Prince JP](https://open.spotify.com/artist/7aABRrarbHYwuDXabHm3l0) | [Cheers to Life](https://open.spotify.com/album/50sgMELadQIXAbAB0SC9Ba) | 3:18 |
 | 28 | [Sweet Music](https://open.spotify.com/track/0BoXb90LdGTpy4TmpOZygA) | [Savita Singh TT](https://open.spotify.com/artist/3xZQr5mvpbIl6CEAN0jU7i) | [Sweet Music](https://open.spotify.com/album/7LRXkjgTP0OLpo1UsxDoLa) | 3:07 |
 | 29 | [Naina Bandh](https://open.spotify.com/track/42oKkHNgUzqyTPR4yGwOrg) | [Sundar Popo](https://open.spotify.com/artist/5SdqBVV8986tZz1YkDRyOc) | [Sundar Popo Greatest Hits, Vol\. 2](https://open.spotify.com/album/4YnZLTUgthWyb5kxVHMNdH) | 5:23 |
-| 30 | [Pussur Pussur](https://open.spotify.com/track/4Z75gf4OJbcvIActA0F2vG) | [Anand Yankaran](https://open.spotify.com/artist/4gYBhFoqhQl4FJrfnNAFoy) | [Elements of Chutney](https://open.spotify.com/album/4AcRATTPdmUgLptdLfouO8) | 5:43 |
-| 31 | [TOO MUCH PAIN](https://open.spotify.com/track/48Sk7Bq3mJwQvFCSZfi035) | [Kenneth Salick](https://open.spotify.com/artist/4LSkHL3aVB8OFKYbXOwi6r) | [TOO MUCH PAIN](https://open.spotify.com/album/0uyGcygVKupEkXxSniQ0fR) | 5:07 |
+| 30 | [TOO MUCH PAIN](https://open.spotify.com/track/48Sk7Bq3mJwQvFCSZfi035) | [Kenneth Salick](https://open.spotify.com/artist/4LSkHL3aVB8OFKYbXOwi6r) | [TOO MUCH PAIN](https://open.spotify.com/album/0uyGcygVKupEkXxSniQ0fR) | 5:07 |
+| 31 | [Pussur Pussur](https://open.spotify.com/track/4Z75gf4OJbcvIActA0F2vG) | [Anand Yankaran](https://open.spotify.com/artist/4gYBhFoqhQl4FJrfnNAFoy) | [Elements of Chutney](https://open.spotify.com/album/4AcRATTPdmUgLptdLfouO8) | 5:43 |
 | 32 | [Bholo Bholo](https://open.spotify.com/track/6t4PpvS1hC2DD0v99WQjHN) | [Shelly G](https://open.spotify.com/artist/64uXi7R2MSQU7FStLJ1VLq), [Fojo](https://open.spotify.com/artist/1LOWdqg4PUzzIDEXagG4Ft), [Fiona Singh](https://open.spotify.com/artist/5Z02QXCya9wAsOd9qVUZMf) | [Chutney](https://open.spotify.com/album/5uWew2QJ2sDJwssXruyPmS) | 3:56 |
 | 33 | [Loota La](https://open.spotify.com/track/1eVCGigGerjHtN7AWquWWV) | [Sonny Man](https://open.spotify.com/artist/2SbrAYu0L4qMgLntFj5oE6) | [Chutney Party Mix](https://open.spotify.com/album/6W123r77NOcUmX0SVAk8FW) | 5:02 |
 | 34 | [Chal Kechal](https://open.spotify.com/track/2vh3NvmYn1a6KSqpD05sLz) | [Sundar Popo](https://open.spotify.com/artist/5SdqBVV8986tZz1YkDRyOc) | [Sundar Popo Greatest Hits, Vol\. 2](https://open.spotify.com/album/4YnZLTUgthWyb5kxVHMNdH) | 3:56 |
-| 35 | [Balama](https://open.spotify.com/track/3Zw2VFaqvZAkn1uMKX9jKe) | [Drupatee](https://open.spotify.com/artist/7d41HV53Mpqmn3DBacKaEd) | [Dekho Lawa](https://open.spotify.com/album/0NhPsvgyL8J66KKggFU2KR) | 4:21 |
-| 36 | [Ghunghat Gira Ke](https://open.spotify.com/track/1rrMTRjIFM1WagI90xACXm) | [Kem Chanlall](https://open.spotify.com/artist/02DRaDXadgSH5g0Zq1ZuWy) | [Ghunghat Gira Ke](https://open.spotify.com/album/37w3vdaNrfevzGU2rDnh1f) | 5:54 |
+| 35 | [Ghunghat Gira Ke](https://open.spotify.com/track/1rrMTRjIFM1WagI90xACXm) | [Kem Chanlall](https://open.spotify.com/artist/02DRaDXadgSH5g0Zq1ZuWy) | [Ghunghat Gira Ke](https://open.spotify.com/album/37w3vdaNrfevzGU2rDnh1f) | 5:54 |
+| 36 | [Balama](https://open.spotify.com/track/3Zw2VFaqvZAkn1uMKX9jKe) | [Drupatee](https://open.spotify.com/artist/7d41HV53Mpqmn3DBacKaEd) | [Dekho Lawa](https://open.spotify.com/album/0NhPsvgyL8J66KKggFU2KR) | 4:21 |
 | 37 | [This Gyal Claim](https://open.spotify.com/track/4tSEMmTIESmG5QmkvzIUlO) | [Shelly G](https://open.spotify.com/artist/64uXi7R2MSQU7FStLJ1VLq) | [Chutney](https://open.spotify.com/album/5uWew2QJ2sDJwssXruyPmS) | 3:31 |
 | 38 | [Bhalay Ki \- Sohar](https://open.spotify.com/track/5Nf9dZNAXTBZsEegeIfnxE) | [Drupatee Ramgoonai](https://open.spotify.com/artist/0b2BvPLwaxjE6lFfwhkpGs) | [Explosive Moods](https://open.spotify.com/album/6qq74brYwCHpXU0KaB74Ag) | 3:54 |
 | 39 | [Saiyan Toray](https://open.spotify.com/track/3gzcu3KSs6NvikMaUQP7e0) | [Sundar Popo](https://open.spotify.com/artist/5SdqBVV8986tZz1YkDRyOc) | [Sundar Soca](https://open.spotify.com/album/2a8UdL4RPbeJPBVyMZFMbX) | 3:52 |

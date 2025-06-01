@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RLBEieQdqD.md) - [plain]
 
 > ¡Popular, Mariachi, Vallenato y más pa' sentarse a beber! Foto: Luis Alfonso
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,895 likes - 75 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,947 likes - 75 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Parchaito](https://open.spotify.com/track/0zLwep7GCH62x7LUrOtyQT) | [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe) | [Descriterio](https://open.spotify.com/album/66Zehfpwnmx03XcjZmtm6p) | 2:23 |
+| 1 | [Parchaito](https://open.spotify.com/track/0zLwep7GCH62x7LUrOtyQT) | [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe), [The Stallionz](https://open.spotify.com/artist/4ukBKliKfm0Uxnws7yCr24) | [Descriterio](https://open.spotify.com/album/66Zehfpwnmx03XcjZmtm6p) | 2:23 |
 | 2 | [Entre Tres](https://open.spotify.com/track/30Hg8iU4qa3jF4bHWFuntU) | [Arelys Henao](https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC), [Francy](https://open.spotify.com/artist/5pAEGsouhZbgSqJMTmEXoT), [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Entre Tres](https://open.spotify.com/album/4wGZbVvcruRcSUkz7sO4Ys) | 3:05 |
 | 3 | [Volvamos a Ser Novios](https://open.spotify.com/track/3BzqVIUCqTOHjkNRtol9F3) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Juancho De La Espriella](https://open.spotify.com/artist/2jyCUmtPh36YRwhuhxzUZ3) | [El Último Baile](https://open.spotify.com/album/0ZoqHpiyTLn22Kw9uXa7si) | 3:57 |
 | 4 | [El Agropecuario](https://open.spotify.com/track/3Xq3SxdRD48Cz3i8L7P70r) | [Joaquin Guiller](https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c) | [El Agropecuario](https://open.spotify.com/album/033EobOjqzf4mRbJH5OxGZ) | 2:55 |

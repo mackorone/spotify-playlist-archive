@@ -1,12 +1,12 @@
 {
   "description": "This is Murda Beatz. The essential tracks, all in one playlist.",
-  "num_followers": 3208,
+  "num_followers": 3209,
   "original_name": "This Is Murda Beatz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDejgAAAAAB4fYn3/bSWq4zI7xv1W1yu",
+  "snapshot_id": "aDj1AAAAAABStbCKlj8RcgbSa/G0M9BQ",
   "tracks": [
     {
       "added_at": null,
@@ -323,22 +323,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Memory Lane",
-        "url": "https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp"
+        "name": "Maybach",
+        "url": "https://open.spotify.com/album/2UsXysLvyNlrGvcvG6KtyB"
       },
       "artists": [
         {
-          "name": "Shordie Shordie",
-          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
+          "name": "\u5343\u8449\u96c4\u559c",
+          "url": "https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu"
         },
         {
           "name": "Murda Beatz",
           "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
         }
       ],
-      "duration_ms": 138680,
-      "name": "Same Niggas",
-      "url": "https://open.spotify.com/track/5QKOme2dkvt6P3J0makF7b"
+      "duration_ms": 165311,
+      "name": "Maybach",
+      "url": "https://open.spotify.com/track/67WsbWbEI02qt27s5YcXso"
     },
     {
       "added_at": null,
@@ -363,6 +363,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Memory Lane",
+        "url": "https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp"
+      },
+      "artists": [
+        {
+          "name": "Shordie Shordie",
+          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "duration_ms": 138680,
+      "name": "Same Niggas",
+      "url": "https://open.spotify.com/track/5QKOme2dkvt6P3J0makF7b"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Damn Shame",
         "url": "https://open.spotify.com/album/4YYXAVoKwJoezmIh7KgYjG"
       },
@@ -383,26 +403,6 @@
       "duration_ms": 137938,
       "name": "Damn Shame",
       "url": "https://open.spotify.com/track/7ETKvvR97gJ28mAiOJoFD4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Maybach",
-        "url": "https://open.spotify.com/album/2UsXysLvyNlrGvcvG6KtyB"
-      },
-      "artists": [
-        {
-          "name": "\u5343\u8449\u96c4\u559c",
-          "url": "https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 165311,
-      "name": "Maybach",
-      "url": "https://open.spotify.com/track/67WsbWbEI02qt27s5YcXso"
     },
     {
       "added_at": null,
@@ -483,26 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Memory Lane",
-        "url": "https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp"
-      },
-      "artists": [
-        {
-          "name": "Shordie Shordie",
-          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 153546,
-      "name": "Seattle",
-      "url": "https://open.spotify.com/track/7CBmiFdp5vj83mstdl3Qmu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MHSTD",
         "url": "https://open.spotify.com/album/7BBWxe16ztpNQsT1s2aT7D"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 159970,
       "name": "MHSTD",
       "url": "https://open.spotify.com/track/1DSGtRk2T5beu0zoTtAwny"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Memory Lane",
+        "url": "https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp"
+      },
+      "artists": [
+        {
+          "name": "Shordie Shordie",
+          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "duration_ms": 153546,
+      "name": "Seattle",
+      "url": "https://open.spotify.com/track/7CBmiFdp5vj83mstdl3Qmu"
     },
     {
       "added_at": null,
@@ -567,26 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Memory Lane",
-        "url": "https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp"
-      },
-      "artists": [
-        {
-          "name": "Shordie Shordie",
-          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 156706,
-      "name": "No Jewelry",
-      "url": "https://open.spotify.com/track/6HOttKB0jFwrrcwdOIDXQc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beef",
         "url": "https://open.spotify.com/album/0e7ntcb8IOMnnHqJkxihR3"
       },
@@ -607,6 +587,26 @@
       "duration_ms": 181306,
       "name": "Beef",
       "url": "https://open.spotify.com/track/01MnJO1gfqVGACFAWMXNPU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Memory Lane",
+        "url": "https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp"
+      },
+      "artists": [
+        {
+          "name": "Shordie Shordie",
+          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "duration_ms": 156706,
+      "name": "No Jewelry",
+      "url": "https://open.spotify.com/track/6HOttKB0jFwrrcwdOIDXQc"
     },
     {
       "added_at": null,

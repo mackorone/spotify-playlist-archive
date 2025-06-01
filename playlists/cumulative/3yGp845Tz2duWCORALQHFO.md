@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-3,030 songs - 6 day 20 hr 34 min
+3,030 songs - 6 day 20 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,7 @@
 | [Alone](https://open.spotify.com/track/216jQRd3JzpWGWUBOEjGgW) | [Wavetraxx](https://open.spotify.com/artist/6lf34yUxPkqAQOSqJ0q06f), [Heatbeat](https://open.spotify.com/artist/4FuFFzlzYgn3Yu2rxLhvdN), [NELLY TGM](https://open.spotify.com/artist/0CcMmRLIvPFUg1AmCdsSSN) | [Alone](https://open.spotify.com/album/41BQsaMu8lrIaiTmvCnst0) | 3:05 | 2024-07-19 | 2024-07-27 |
 | [Alt Reality Clash](https://open.spotify.com/track/3q5LTG462HxQxbMj8i4mea) | [ECLYP](https://open.spotify.com/artist/4HChIBz1tnhUbJoYswBIn7) | [Alt Reality Clash](https://open.spotify.com/album/0M37Y0tWHXlKOg7u77Ousv) | 2:36 | 2025-03-19 | 2025-03-29 |
 | [Alternate Cosmos](https://open.spotify.com/track/28oGTzWV6i30NZPUT31eIt) | [Nick Havsen](https://open.spotify.com/artist/1MISHmlS06R8ba7RVsn0A3), [Greg Katona](https://open.spotify.com/artist/2JTgz2jDKiKBaq0TZsZwdo) | [Alternate Cosmos](https://open.spotify.com/album/3I7iKetoSXcGis4mldBLYI) | 2:29 | 2025-04-18 | 2025-04-25 |
-| [Alto](https://open.spotify.com/track/6W0JyLntjW5czCieDPSkui) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Alto](https://open.spotify.com/album/6CK5736RvBDi7w9wDjCYLf) | 3:08 | 2025-05-29 |  |
+| [Alto](https://open.spotify.com/track/6W0JyLntjW5czCieDPSkui) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Alto](https://open.spotify.com/album/6CK5736RvBDi7w9wDjCYLf) | 3:45 | 2025-05-29 |  |
 | [Aluminium](https://open.spotify.com/track/4IZJMZRC8xVOoosOlZQir8) | [Robert Nickson](https://open.spotify.com/artist/0dMK3g7XAApwIpLTyE7mqJ) | [Aluminium](https://open.spotify.com/album/0e6L5FIX261tG8AiIVanso) | 3:52 | 2024-10-11 | 2024-10-22 |
 | [Always Chase The Sun](https://open.spotify.com/track/0uXllbMGTvFVL1gP66q0Sr) | [Electric Cinema](https://open.spotify.com/artist/7HpqdvvEhsTi48z5DB6BOj) | [Always Chase The Sun](https://open.spotify.com/album/3rbz9OH2hUmkTChW5Kc5eL) | 4:48 | 2024-10-04 | 2024-10-12 |
 | [Always Watching \- Radio Edit](https://open.spotify.com/track/4UVqiDxKA7lUTmba4R8i19) | [Amo&Koall](https://open.spotify.com/artist/35mLT04Wn9HsBVGleLQWrH) | [Always Watching](https://open.spotify.com/album/732ZXAiLAgSorI9rec0nxt) | 2:55 | 2025-04-21 | 2025-04-25 |

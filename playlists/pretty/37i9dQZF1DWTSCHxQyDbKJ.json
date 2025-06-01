@@ -1,6 +1,6 @@
 {
   "description": "Necessities from LGBTQIA+ artists. Cover: Elton John",
-  "num_followers": 32994,
+  "num_followers": 32998,
   "original_name": "GLOW UK & Ireland ",
   "owner": {
     "name": "Spotify",
@@ -407,22 +407,6 @@
     {
       "added_at": "2025-05-29 23:00:09",
       "album": {
-        "name": "Dizzy",
-        "url": "https://open.spotify.com/album/7rzYlWpOSJKwcDOzW65qdY"
-      },
-      "artists": [
-        {
-          "name": "Olly Alexander (Years & Years)",
-          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
-        }
-      ],
-      "duration_ms": 172879,
-      "name": "Dizzy",
-      "url": "https://open.spotify.com/track/4GEmQTg7yfnfZoNhgpCg61"
-    },
-    {
-      "added_at": "2025-05-29 23:00:09",
-      "album": {
         "name": "WEEDKILLER",
         "url": "https://open.spotify.com/album/4xZP0Vuf4DNK7wsp3ZKbQ0"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 255875,
       "name": "Dying Star (feat. Ethel Cain)",
       "url": "https://open.spotify.com/track/55owCz7823hXvvTm3apoZ9"
+    },
+    {
+      "added_at": "2025-05-29 23:00:09",
+      "album": {
+        "name": "Dizzy",
+        "url": "https://open.spotify.com/album/7rzYlWpOSJKwcDOzW65qdY"
+      },
+      "artists": [
+        {
+          "name": "Olly Alexander (Years & Years)",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+        }
+      ],
+      "duration_ms": 172879,
+      "name": "Dizzy",
+      "url": "https://open.spotify.com/track/4GEmQTg7yfnfZoNhgpCg61"
     },
     {
       "added_at": "2025-05-29 23:00:09",
@@ -475,22 +475,6 @@
     {
       "added_at": "2025-05-29 23:00:09",
       "album": {
-        "name": "Guts",
-        "url": "https://open.spotify.com/album/5EbGb97EmI0PrYWH7rNFhi"
-      },
-      "artists": [
-        {
-          "name": "Ellie Dixon",
-          "url": "https://open.spotify.com/artist/4mvJltDSlBawXCZhq6NAso"
-        }
-      ],
-      "duration_ms": 126129,
-      "name": "Guts",
-      "url": "https://open.spotify.com/track/5cEgck20T0z74Ta9CZnGP3"
-    },
-    {
-      "added_at": "2025-05-29 23:00:09",
-      "album": {
         "name": "Head Start",
         "url": "https://open.spotify.com/album/1S16BibIWs8D4nhJUV8Mj8"
       },
@@ -507,18 +491,34 @@
     {
       "added_at": "2025-05-29 23:00:09",
       "album": {
-        "name": "Always Forever",
-        "url": "https://open.spotify.com/album/65otcCeyfEPtdY4DZMgPtF"
+        "name": "Guts",
+        "url": "https://open.spotify.com/album/5EbGb97EmI0PrYWH7rNFhi"
       },
       "artists": [
         {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+          "name": "Ellie Dixon",
+          "url": "https://open.spotify.com/artist/4mvJltDSlBawXCZhq6NAso"
         }
       ],
-      "duration_ms": 185160,
-      "name": "Always Forever",
-      "url": "https://open.spotify.com/track/2kSeF6yZz3wLFchfnX0xfO"
+      "duration_ms": 126129,
+      "name": "Guts",
+      "url": "https://open.spotify.com/track/5cEgck20T0z74Ta9CZnGP3"
+    },
+    {
+      "added_at": "2025-05-29 23:00:09",
+      "album": {
+        "name": "Worms",
+        "url": "https://open.spotify.com/album/1iMYhGsjfZIDKuiF73D6cI"
+      },
+      "artists": [
+        {
+          "name": "Ashnikko",
+          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
+        }
+      ],
+      "duration_ms": 148690,
+      "name": "Worms",
+      "url": "https://open.spotify.com/track/5PlGxNgE62io6OBc1BsIaq"
     },
     {
       "added_at": "2025-05-29 23:00:09",
@@ -543,18 +543,18 @@
     {
       "added_at": "2025-05-29 23:00:09",
       "album": {
-        "name": "Worms",
-        "url": "https://open.spotify.com/album/1iMYhGsjfZIDKuiF73D6cI"
+        "name": "Always Forever",
+        "url": "https://open.spotify.com/album/65otcCeyfEPtdY4DZMgPtF"
       },
       "artists": [
         {
-          "name": "Ashnikko",
-          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
         }
       ],
-      "duration_ms": 148690,
-      "name": "Worms",
-      "url": "https://open.spotify.com/track/5PlGxNgE62io6OBc1BsIaq"
+      "duration_ms": 185160,
+      "name": "Always Forever",
+      "url": "https://open.spotify.com/track/2kSeF6yZz3wLFchfnX0xfO"
     },
     {
       "added_at": "2025-05-29 23:00:09",
@@ -627,34 +627,18 @@
     {
       "added_at": "2025-05-29 23:00:09",
       "album": {
-        "name": "Enjoy Your Life",
-        "url": "https://open.spotify.com/album/7Kb95mdNRyzLjpXA7piX3N"
+        "name": "Itty Bitty",
+        "url": "https://open.spotify.com/album/643BQNY1GhGw8Z2KnFpK1J"
       },
       "artists": [
         {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+          "name": "Ashnikko",
+          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
         }
       ],
-      "duration_ms": 240053,
-      "name": "Enjoy Your Life",
-      "url": "https://open.spotify.com/track/0yM2YvOGR3cBIoWBeFdtmS"
-    },
-    {
-      "added_at": "2025-05-29 23:00:09",
-      "album": {
-        "name": "Statue In The Square",
-        "url": "https://open.spotify.com/album/6h6UEEPRimAPINCMxsJ5Pw"
-      },
-      "artists": [
-        {
-          "name": "Kae Tempest",
-          "url": "https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw"
-        }
-      ],
-      "duration_ms": 174233,
-      "name": "Statue In The Square",
-      "url": "https://open.spotify.com/track/6QF34NPhm7aNhhgf5HtNLE"
+      "duration_ms": 162000,
+      "name": "Itty Bitty",
+      "url": "https://open.spotify.com/track/4LRYOdTr96bLdmw3bEwbBi"
     },
     {
       "added_at": "2025-05-29 23:00:09",
@@ -675,34 +659,34 @@
     {
       "added_at": "2025-05-29 23:00:09",
       "album": {
-        "name": "Itty Bitty",
-        "url": "https://open.spotify.com/album/643BQNY1GhGw8Z2KnFpK1J"
+        "name": "Statue In The Square",
+        "url": "https://open.spotify.com/album/6h6UEEPRimAPINCMxsJ5Pw"
       },
       "artists": [
         {
-          "name": "Ashnikko",
-          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
+          "name": "Kae Tempest",
+          "url": "https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw"
         }
       ],
-      "duration_ms": 162000,
-      "name": "Itty Bitty",
-      "url": "https://open.spotify.com/track/4LRYOdTr96bLdmw3bEwbBi"
+      "duration_ms": 174233,
+      "name": "Statue In The Square",
+      "url": "https://open.spotify.com/track/6QF34NPhm7aNhhgf5HtNLE"
     },
     {
       "added_at": "2025-05-29 23:00:09",
       "album": {
-        "name": "Focus Is Power",
-        "url": "https://open.spotify.com/album/5fMeoQB68BWbz9gP2Y9WDg"
+        "name": "Enjoy Your Life",
+        "url": "https://open.spotify.com/album/7Kb95mdNRyzLjpXA7piX3N"
       },
       "artists": [
         {
-          "name": "Self Esteem",
-          "url": "https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe"
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
         }
       ],
-      "duration_ms": 186511,
-      "name": "Focus Is Power",
-      "url": "https://open.spotify.com/track/4GROaskNd81jnetKAkRYXI"
+      "duration_ms": 240053,
+      "name": "Enjoy Your Life",
+      "url": "https://open.spotify.com/track/0yM2YvOGR3cBIoWBeFdtmS"
     },
     {
       "added_at": "2025-05-29 23:00:09",
@@ -723,6 +707,22 @@
     {
       "added_at": "2025-05-29 23:00:09",
       "album": {
+        "name": "Focus Is Power",
+        "url": "https://open.spotify.com/album/5fMeoQB68BWbz9gP2Y9WDg"
+      },
+      "artists": [
+        {
+          "name": "Self Esteem",
+          "url": "https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe"
+        }
+      ],
+      "duration_ms": 186511,
+      "name": "Focus Is Power",
+      "url": "https://open.spotify.com/track/4GROaskNd81jnetKAkRYXI"
+    },
+    {
+      "added_at": "2025-05-29 23:00:09",
+      "album": {
         "name": "SAD B!TCH",
         "url": "https://open.spotify.com/album/1YKrir8bqPzZKr6RyL2GTZ"
       },
@@ -739,22 +739,6 @@
     {
       "added_at": "2025-05-29 23:00:09",
       "album": {
-        "name": "let them know they're on your mind",
-        "url": "https://open.spotify.com/album/7zqhZ5kzXNdsMCATAn99zp"
-      },
-      "artists": [
-        {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
-        }
-      ],
-      "duration_ms": 223653,
-      "name": "let them know they're on your mind",
-      "url": "https://open.spotify.com/track/5lhBGOeNrfMPDpPFDJcvSl"
-    },
-    {
-      "added_at": "2025-05-29 23:00:09",
-      "album": {
         "name": "Cheerleader",
         "url": "https://open.spotify.com/album/02TKqxmoLu0YMByukgmtlH"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 132818,
       "name": "Cheerleader",
       "url": "https://open.spotify.com/track/4Bgh6Uv9851EcAMH8IRirR"
+    },
+    {
+      "added_at": "2025-05-29 23:00:09",
+      "album": {
+        "name": "let them know they're on your mind",
+        "url": "https://open.spotify.com/album/7zqhZ5kzXNdsMCATAn99zp"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "duration_ms": 223653,
+      "name": "let them know they're on your mind",
+      "url": "https://open.spotify.com/track/5lhBGOeNrfMPDpPFDJcvSl"
     },
     {
       "added_at": "2025-05-29 23:00:09",
@@ -1027,6 +1027,38 @@
     {
       "added_at": "2025-05-29 23:00:09",
       "album": {
+        "name": "In Limerence",
+        "url": "https://open.spotify.com/album/1UJb5PdzFT9C7f9fc1QxLO"
+      },
+      "artists": [
+        {
+          "name": "Jacob Alon",
+          "url": "https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH"
+        }
+      ],
+      "duration_ms": 159066,
+      "name": "Of Amber",
+      "url": "https://open.spotify.com/track/022C1o8aZqq4JDhXY9b7Ml"
+    },
+    {
+      "added_at": "2025-05-29 23:00:09",
+      "album": {
+        "name": "I Got Too Sad For My Friends",
+        "url": "https://open.spotify.com/album/2PTF4EW8kJIeib3cQ87lJk"
+      },
+      "artists": [
+        {
+          "name": "Shura",
+          "url": "https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT"
+        }
+      ],
+      "duration_ms": 183480,
+      "name": "I Wanna Be Loved By You",
+      "url": "https://open.spotify.com/track/18gnbzwrQjunR6kpaTJp6F"
+    },
+    {
+      "added_at": "2025-05-29 23:00:09",
+      "album": {
         "name": "WILD!",
         "url": "https://open.spotify.com/album/4jSn0KXaUCI9m026jBPF3i"
       },
@@ -1043,6 +1075,38 @@
     {
       "added_at": "2025-05-29 23:00:09",
       "album": {
+        "name": "Satellite",
+        "url": "https://open.spotify.com/album/6Yl7EPUb6JzmtFrKODskn9"
+      },
+      "artists": [
+        {
+          "name": "HAAi",
+          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
+        },
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        },
+        {
+          "name": "Obi Franky",
+          "url": "https://open.spotify.com/artist/7wcA5gBY4GRUDwcfyoj0p0"
+        },
+        {
+          "name": "IL\u0100",
+          "url": "https://open.spotify.com/artist/2vHCmNtVE5TAEgVn024QTF"
+        },
+        {
+          "name": "Trans Voices",
+          "url": "https://open.spotify.com/artist/6WOjBUzx8rMrwCdVtU4WVN"
+        }
+      ],
+      "duration_ms": 264591,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/3G1RtodEV0bvOHjlct2Ein"
+    },
+    {
+      "added_at": "2025-05-29 23:00:09",
+      "album": {
         "name": "Quarter Life Crisis (Deluxe)",
         "url": "https://open.spotify.com/album/2OqDjO2moqMLtBEfFiu8OB"
       },
@@ -1055,6 +1119,26 @@
       "duration_ms": 199671,
       "name": "a letter to myself at 17",
       "url": "https://open.spotify.com/track/0kU2hNsMbTPHOMDD7qKQS8"
+    },
+    {
+      "added_at": "2025-05-29 23:00:09",
+      "album": {
+        "name": "My Soft Machine (Deluxe)",
+        "url": "https://open.spotify.com/album/3grTaYSw0sYx5HEaR2m8Tt"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        },
+        {
+          "name": "Lous and The Yakuza",
+          "url": "https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R"
+        }
+      ],
+      "duration_ms": 187282,
+      "name": "I'm Sorry (ft. Lous and The Yakuza)",
+      "url": "https://open.spotify.com/track/75Sj3dduOdCPSL6g2Cpkzu"
     },
     {
       "added_at": "2025-05-29 23:00:09",
@@ -1095,22 +1179,22 @@
     {
       "added_at": "2025-05-29 23:00:09",
       "album": {
-        "name": "My Soft Machine (Deluxe)",
-        "url": "https://open.spotify.com/album/3grTaYSw0sYx5HEaR2m8Tt"
+        "name": "No Point Pretending (Song For Tour)",
+        "url": "https://open.spotify.com/album/6gmVqEo4VshMfzvb27DmWp"
       },
       "artists": [
         {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+          "name": "NOAHFINNCE",
+          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
         },
         {
-          "name": "Lous and The Yakuza",
-          "url": "https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R"
+          "name": "Bears In Trees",
+          "url": "https://open.spotify.com/artist/4dAQ5VFw5nhwA6rTf3ENQ2"
         }
       ],
-      "duration_ms": 187282,
-      "name": "I'm Sorry (ft. Lous and The Yakuza)",
-      "url": "https://open.spotify.com/track/75Sj3dduOdCPSL6g2Cpkzu"
+      "duration_ms": 179250,
+      "name": "No Point Pretending (Song For Tour)",
+      "url": "https://open.spotify.com/track/4ii1EP51tte7qqIkqeK49C"
     },
     {
       "added_at": "2025-05-29 23:00:09",
@@ -1135,26 +1219,6 @@
       "duration_ms": 232374,
       "name": "Reason Why (feat. Kim Petras & BC Kingdom)",
       "url": "https://open.spotify.com/track/5PmpmP9Z7lxKhriEoafUNr"
-    },
-    {
-      "added_at": "2025-05-29 23:00:09",
-      "album": {
-        "name": "No Point Pretending (Song For Tour)",
-        "url": "https://open.spotify.com/album/6gmVqEo4VshMfzvb27DmWp"
-      },
-      "artists": [
-        {
-          "name": "NOAHFINNCE",
-          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
-        },
-        {
-          "name": "Bears In Trees",
-          "url": "https://open.spotify.com/artist/4dAQ5VFw5nhwA6rTf3ENQ2"
-        }
-      ],
-      "duration_ms": 179250,
-      "name": "No Point Pretending (Song For Tour)",
-      "url": "https://open.spotify.com/track/4ii1EP51tte7qqIkqeK49C"
     },
     {
       "added_at": "2025-05-29 23:00:09",
@@ -1255,38 +1319,6 @@
     {
       "added_at": "2025-05-29 23:00:09",
       "album": {
-        "name": "sulky baby",
-        "url": "https://open.spotify.com/album/3MvISUCBgt0rFXGhuxJ7IJ"
-      },
-      "artists": [
-        {
-          "name": "yeule",
-          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
-        }
-      ],
-      "duration_ms": 278998,
-      "name": "sulky baby",
-      "url": "https://open.spotify.com/track/3GnahtjoeFUWAu6vEYQnzH"
-    },
-    {
-      "added_at": "2025-05-29 23:00:09",
-      "album": {
-        "name": "Favourite Toy",
-        "url": "https://open.spotify.com/album/6BkAzEqhZ7E9R6QfBJnjha"
-      },
-      "artists": [
-        {
-          "name": "Jazmin Bean",
-          "url": "https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL"
-        }
-      ],
-      "duration_ms": 181847,
-      "name": "Favourite Toy",
-      "url": "https://open.spotify.com/track/7LwtKDNVK0s08ZoNkqlCzP"
-    },
-    {
-      "added_at": "2025-05-29 23:00:09",
-      "album": {
         "name": "Anything",
         "url": "https://open.spotify.com/album/0kCsEG4eJcywmJb1tewQwR"
       },
@@ -1299,6 +1331,22 @@
       "duration_ms": 205293,
       "name": "Anything",
       "url": "https://open.spotify.com/track/4C6A9i2wiawiFgnKLAruaW"
+    },
+    {
+      "added_at": "2025-05-29 23:00:09",
+      "album": {
+        "name": "sulky baby",
+        "url": "https://open.spotify.com/album/3MvISUCBgt0rFXGhuxJ7IJ"
+      },
+      "artists": [
+        {
+          "name": "yeule",
+          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
+        }
+      ],
+      "duration_ms": 278998,
+      "name": "sulky baby",
+      "url": "https://open.spotify.com/track/3GnahtjoeFUWAu6vEYQnzH"
     },
     {
       "added_at": "2025-05-29 23:00:09",
@@ -1331,6 +1379,38 @@
       "duration_ms": 163453,
       "name": "breakdown.",
       "url": "https://open.spotify.com/track/7JoooKqsYju9N1isa5FjFw"
+    },
+    {
+      "added_at": "2025-05-29 23:00:09",
+      "album": {
+        "name": "Love Second Music First",
+        "url": "https://open.spotify.com/album/0eqsGq1tUB41BqmKLsouDe"
+      },
+      "artists": [
+        {
+          "name": "Self Esteem",
+          "url": "https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe"
+        }
+      ],
+      "duration_ms": 245259,
+      "name": "Love Second Music First",
+      "url": "https://open.spotify.com/track/6RbR55jkG3YoK1SeRT5mTN"
+    },
+    {
+      "added_at": "2025-05-29 23:00:09",
+      "album": {
+        "name": "Favourite Toy",
+        "url": "https://open.spotify.com/album/6BkAzEqhZ7E9R6QfBJnjha"
+      },
+      "artists": [
+        {
+          "name": "Jazmin Bean",
+          "url": "https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL"
+        }
+      ],
+      "duration_ms": 181847,
+      "name": "Favourite Toy",
+      "url": "https://open.spotify.com/track/7LwtKDNVK0s08ZoNkqlCzP"
     },
     {
       "added_at": "2025-05-29 23:00:09",
@@ -1391,22 +1471,6 @@
     {
       "added_at": "2025-05-29 23:00:09",
       "album": {
-        "name": "Love Second Music First",
-        "url": "https://open.spotify.com/album/0eqsGq1tUB41BqmKLsouDe"
-      },
-      "artists": [
-        {
-          "name": "Self Esteem",
-          "url": "https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe"
-        }
-      ],
-      "duration_ms": 245259,
-      "name": "Love Second Music First",
-      "url": "https://open.spotify.com/track/6RbR55jkG3YoK1SeRT5mTN"
-    },
-    {
-      "added_at": "2025-05-29 23:00:09",
-      "album": {
         "name": "Babyface",
         "url": "https://open.spotify.com/album/6UIRVsGGnOOx2u2EsYTVWH"
       },
@@ -1443,22 +1507,6 @@
     {
       "added_at": "2025-05-29 23:00:09",
       "album": {
-        "name": "Piggie",
-        "url": "https://open.spotify.com/album/47Nwndy2RaIR3JjvGr9LOm"
-      },
-      "artists": [
-        {
-          "name": "Jazmin Bean",
-          "url": "https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL"
-        }
-      ],
-      "duration_ms": 178789,
-      "name": "Piggie",
-      "url": "https://open.spotify.com/track/1DVuD6ZWzdPf9PUeDAsOpS"
-    },
-    {
-      "added_at": "2025-05-29 23:00:09",
-      "album": {
         "name": "Late To The Party",
         "url": "https://open.spotify.com/album/08YMpMJXbaxpIEqM946JoY"
       },
@@ -1491,6 +1539,22 @@
       "duration_ms": 186910,
       "name": "SCUMBAG",
       "url": "https://open.spotify.com/track/0kYWQcuHGs0tqZHRTCfhR1"
+    },
+    {
+      "added_at": "2025-05-29 23:00:09",
+      "album": {
+        "name": "Piggie",
+        "url": "https://open.spotify.com/album/47Nwndy2RaIR3JjvGr9LOm"
+      },
+      "artists": [
+        {
+          "name": "Jazmin Bean",
+          "url": "https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL"
+        }
+      ],
+      "duration_ms": 178789,
+      "name": "Piggie",
+      "url": "https://open.spotify.com/track/1DVuD6ZWzdPf9PUeDAsOpS"
     },
     {
       "added_at": "2025-05-29 23:00:09",
@@ -1543,22 +1607,6 @@
     {
       "added_at": "2025-05-29 23:00:09",
       "album": {
-        "name": "Terrified",
-        "url": "https://open.spotify.com/album/4eCNNKkvJK9tXdMPaV8abd"
-      },
-      "artists": [
-        {
-          "name": "Jazmin Bean",
-          "url": "https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL"
-        }
-      ],
-      "duration_ms": 186071,
-      "name": "Terrified",
-      "url": "https://open.spotify.com/track/5S9opvHpOztqiShDAAusum"
-    },
-    {
-      "added_at": "2025-05-29 23:00:09",
-      "album": {
         "name": "Friends In Low Places",
         "url": "https://open.spotify.com/album/5JTErxsRMHNZypUwsLN6oP"
       },
@@ -1603,6 +1651,22 @@
       "duration_ms": 200061,
       "name": "Thank Goodness",
       "url": "https://open.spotify.com/track/2mb9wKJz6WMD5Y0baavuIQ"
+    },
+    {
+      "added_at": "2025-05-29 23:00:09",
+      "album": {
+        "name": "Terrified",
+        "url": "https://open.spotify.com/album/4eCNNKkvJK9tXdMPaV8abd"
+      },
+      "artists": [
+        {
+          "name": "Jazmin Bean",
+          "url": "https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL"
+        }
+      ],
+      "duration_ms": 186071,
+      "name": "Terrified",
+      "url": "https://open.spotify.com/track/5S9opvHpOztqiShDAAusum"
     },
     {
       "added_at": "2025-05-29 23:00:09",
@@ -1655,40 +1719,8 @@
     {
       "added_at": "2025-05-29 23:00:09",
       "album": {
-        "name": "You Know What You\u2019ve Done",
-        "url": "https://open.spotify.com/album/0uNeiIPK89sNKkleeuljRp"
-      },
-      "artists": [
-        {
-          "name": "Jazmin Bean",
-          "url": "https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL"
-        }
-      ],
-      "duration_ms": 191883,
-      "name": "You Know What You\u2019ve Done",
-      "url": "https://open.spotify.com/track/1QfSvXdSRc57B7eYGeYL3O"
-    },
-    {
-      "added_at": "2025-05-29 23:00:09",
-      "album": {
-        "name": "SUGAR RUSH",
-        "url": "https://open.spotify.com/album/1VpU4vyGJzRIHMYZj3Ax6L"
-      },
-      "artists": [
-        {
-          "name": "Tiberius b",
-          "url": "https://open.spotify.com/artist/0Kt443UQm5aqR2WCwqSMe0"
-        }
-      ],
-      "duration_ms": 182053,
-      "name": "SUGAR RUSH",
-      "url": "https://open.spotify.com/track/5nsUidvKeOy9JLzQI2QYVt"
-    },
-    {
-      "added_at": "2025-05-29 23:00:09",
-      "album": {
-        "name": "Over It",
-        "url": "https://open.spotify.com/album/52XmcASMvRBkCTuFIPxwPi"
+        "name": "Sad Girl Mixtape",
+        "url": "https://open.spotify.com/album/23yFRTbLS2jvXfFedgFDFM"
       },
       "artists": [
         {
@@ -1696,25 +1728,9 @@
           "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
         }
       ],
-      "duration_ms": 124760,
-      "name": "Over It",
-      "url": "https://open.spotify.com/track/0eArfQGTTeqPmBuj1Z58cv"
-    },
-    {
-      "added_at": "2025-05-29 23:00:09",
-      "album": {
-        "name": "i can't get my shit together",
-        "url": "https://open.spotify.com/album/4Q1JfWQoV1zWHLejdhpyey"
-      },
-      "artists": [
-        {
-          "name": "Baby Queen",
-          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
-        }
-      ],
-      "duration_ms": 173551,
-      "name": "i can't get my shit together",
-      "url": "https://open.spotify.com/track/5QQH0yRUbD4fYqNWKiPX9I"
+      "duration_ms": 193181,
+      "name": "Sad Girl Summer",
+      "url": "https://open.spotify.com/track/66xT802jNExU9nMii68YnZ"
     }
   ],
   "unique_name": "GLOW UK & Ireland ",

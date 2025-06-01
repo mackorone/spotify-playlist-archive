@@ -1,12 +1,12 @@
 {
   "description": "This is Jonas Blue. The essential tracks, all in one playlist.",
-  "num_followers": 87382,
+  "num_followers": 87387,
   "original_name": "This Is Jonas Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDejgAAAAABWlyY3iaeg+K1MQG9gFXdm",
+  "snapshot_id": "aDj1AAAAAAC2vqC3G5YVCaz6O/nuYgdE",
   "tracks": [
     {
       "added_at": null,
@@ -163,8 +163,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "What I Like About You (feat. Theresa Rex)",
-        "url": "https://open.spotify.com/album/6gPZmYBSipug1asf4zu9jh"
+        "name": "Perfect Melody",
+        "url": "https://open.spotify.com/album/5dnpfIyc6hbO2HO5bIaj6L"
       },
       "artists": [
         {
@@ -172,13 +172,13 @@
           "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
         },
         {
-          "name": "Theresa Rex",
-          "url": "https://open.spotify.com/artist/6t9tbRO9Lv6Oq6xtVwfdrn"
+          "name": "Julian Perretta",
+          "url": "https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG"
         }
       ],
-      "duration_ms": 220396,
-      "name": "What I Like About You (feat. Theresa Rex)",
-      "url": "https://open.spotify.com/track/4NSW0Km5ZG60L8FthUebPJ"
+      "duration_ms": 159850,
+      "name": "Perfect Melody",
+      "url": "https://open.spotify.com/track/17XwUcwd6SmoypiA3tIwHH"
     },
     {
       "added_at": null,
@@ -203,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perfect Melody",
-        "url": "https://open.spotify.com/album/5dnpfIyc6hbO2HO5bIaj6L"
+        "name": "What I Like About You (feat. Theresa Rex)",
+        "url": "https://open.spotify.com/album/6gPZmYBSipug1asf4zu9jh"
       },
       "artists": [
         {
@@ -212,13 +212,13 @@
           "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
         },
         {
-          "name": "Julian Perretta",
-          "url": "https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG"
+          "name": "Theresa Rex",
+          "url": "https://open.spotify.com/artist/6t9tbRO9Lv6Oq6xtVwfdrn"
         }
       ],
-      "duration_ms": 159850,
-      "name": "Perfect Melody",
-      "url": "https://open.spotify.com/track/17XwUcwd6SmoypiA3tIwHH"
+      "duration_ms": 220396,
+      "name": "What I Like About You (feat. Theresa Rex)",
+      "url": "https://open.spotify.com/track/4NSW0Km5ZG60L8FthUebPJ"
     },
     {
       "added_at": null,
@@ -639,26 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I See Love (From Hotel Transylvania 3)",
-        "url": "https://open.spotify.com/album/3aH4OEoC8UGnCyHhVZDJav"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Joe Jonas",
-          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
-        }
-      ],
-      "duration_ms": 173220,
-      "name": "I See Love - From Hotel Transylvania 3",
-      "url": "https://open.spotify.com/track/32UJH1F38AMSjZilQyBzOE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Finally",
         "url": "https://open.spotify.com/album/0mjru6iErl5h2amcxpMpg9"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 163356,
       "name": "In Your Arms Tonight",
       "url": "https://open.spotify.com/track/1frhPzQ2B7rM62INKyuLV7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I See Love (From Hotel Transylvania 3)",
+        "url": "https://open.spotify.com/album/3aH4OEoC8UGnCyHhVZDJav"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Joe Jonas",
+          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
+        }
+      ],
+      "duration_ms": 173220,
+      "name": "I See Love - From Hotel Transylvania 3",
+      "url": "https://open.spotify.com/track/32UJH1F38AMSjZilQyBzOE"
     },
     {
       "added_at": null,

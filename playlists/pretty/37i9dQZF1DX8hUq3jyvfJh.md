@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Escute Rachel Reis e mais mulheres incríveis no volume máximo! co\-curada por Rachel Reis.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,751 likes - 49 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,745 likes - 49 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Deixa Molhar](https://open.spotify.com/track/3xzwKkGHQp8USzDQtlnHQS) | [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Deixa Molhar](https://open.spotify.com/album/2RS2bespFSSmu2RQtn00at) | 3:01 |
 | 2 | [CAJU](https://open.spotify.com/track/7tmvvRmUqzCRjRx9ub8K7i) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [CAJU](https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj) | 4:26 |
-| 3 | [Anjo](https://open.spotify.com/track/0Z9L6VNvXpgsxnaWcdZgxa) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Coisas Naturais](https://open.spotify.com/album/2PRDU8Oeb9f0lpgSjbaJXE) | 3:47 |
-| 4 | [Não Me Deixe Só](https://open.spotify.com/track/2ukW9zOr51AYeLSmCtTVqW) | [Vanessa Da Mata](https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7) | [Vanessa da Mata](https://open.spotify.com/album/0nJlVbn9dl3amtTFETNX8j) | 3:09 |
+| 3 | [Não Me Deixe Só](https://open.spotify.com/track/2ukW9zOr51AYeLSmCtTVqW) | [Vanessa Da Mata](https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7) | [Vanessa da Mata](https://open.spotify.com/album/0nJlVbn9dl3amtTFETNX8j) | 3:09 |
+| 4 | [Anjo](https://open.spotify.com/track/0Z9L6VNvXpgsxnaWcdZgxa) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Coisas Naturais](https://open.spotify.com/album/2PRDU8Oeb9f0lpgSjbaJXE) | 3:47 |
 | 5 | [Infinito Particular](https://open.spotify.com/track/7ufO0ROFQ6BwSMPx5LuW4e) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Infinito Particular](https://open.spotify.com/album/4vJUBwgIaG2AD5rP32O730) | 4:11 |
 | 6 | [Ter o coração no chão](https://open.spotify.com/track/5FbcIkgUDNt6mZdDVFwVyE) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Esquinas](https://open.spotify.com/album/2DVwOWSHjIm1L6pOm0EGIl) | 3:14 |
 | 7 | [Não Sei Dançar](https://open.spotify.com/track/68WXIG8PyHuArBOOhSp6Wt) | [Marina Lima](https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol) | [Marina Lima](https://open.spotify.com/album/1CeZXXRcDz2Zci1M2ftSMj) | 5:05 |
-| 8 | [Ouro de Tolo](https://open.spotify.com/track/3JmULmAsT5nAEd9NrsJOLg) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Coisas Naturais](https://open.spotify.com/album/2PRDU8Oeb9f0lpgSjbaJXE) | 4:56 |
-| 9 | [POTE DE OURO](https://open.spotify.com/track/3f1lEgEorble8TWplM949r) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C), [Priscila Senna](https://open.spotify.com/artist/44F6hbmusaHQR96WFbo6Lv) | [CAJU](https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj) | 3:58 |
+| 8 | [POTE DE OURO](https://open.spotify.com/track/3f1lEgEorble8TWplM949r) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C), [Priscila Senna](https://open.spotify.com/artist/44F6hbmusaHQR96WFbo6Lv) | [CAJU](https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj) | 3:58 |
+| 9 | [Ouro de Tolo](https://open.spotify.com/track/3JmULmAsT5nAEd9NrsJOLg) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Coisas Naturais](https://open.spotify.com/album/2PRDU8Oeb9f0lpgSjbaJXE) | 4:56 |
 | 10 | [Reza](https://open.spotify.com/track/6ieSJJ8nVZO6V45Bm9GiYV) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1) | [Reza](https://open.spotify.com/album/1jG9jgOO0eKFgYMc3aed98) | 2:26 |
 | 11 | [Cara valente](https://open.spotify.com/track/1KlC2yGobg0mBMAIJ3OrX2) | [Maria Rita](https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI) | [Maria Rita](https://open.spotify.com/album/0xLGxMlF7mzPccjawvljuw) | 4:42 |
 | 12 | [He Can Only Hold Her](https://open.spotify.com/track/0sSdFMuYrn3N9moumV466B) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 2:44 |
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 34 | [CHUVA DE VERÃO](https://open.spotify.com/track/1tCtNyrOXNwB1fZbBwbbWn) | [GABI LINS](https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm) | [TRÓPICO 96 \(Edição de Verão\)](https://open.spotify.com/album/4VqaMQC992nJjlkOVDlmyJ) | 3:06 |
 | 35 | [GIGANTESCA](https://open.spotify.com/track/0FYOKGb3jeFC9rtQFZAGLA) | [Mariana Volker](https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq) | [GIGANTESCA](https://open.spotify.com/album/75tSrVAnqly6IAHjh9asTR) | 3:33 |
 | 36 | [Ensolarada](https://open.spotify.com/track/0LVKnNkJE3bL8ieVHps6Hd) | [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Ensolarada](https://open.spotify.com/album/1krAtwKNtJFqrwMUKREtS7) | 2:55 |
-| 37 | [ARRASTO](https://open.spotify.com/track/2BZWJTYN9UmGMcX2DGRIbK) | [Rubia Divino](https://open.spotify.com/artist/6TSE9aXOA9TkDntWFrQPlz), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [ARRASTO](https://open.spotify.com/album/0RiUWDzIc1A00rAH5cOQS7) | 3:06 |
+| 37 | [Depois do Fim](https://open.spotify.com/track/5P5nYlE4h5TRqRaJC4df1Y) | [Pilar](https://open.spotify.com/artist/73m22Pkj7wtATvxtsnuLhe) | [Depois do Fim](https://open.spotify.com/album/6W45TVlc0viuUGdLmBdNhc) | 2:04 |
 | 38 | [Deságua](https://open.spotify.com/track/5WlyHAKCMb1adzdPG0e1xp) | [Luiza Lian](https://open.spotify.com/artist/0mqrSBamArf14pPZE2Q9kW) | [7 Estrelas \| quem arrancou o céu?](https://open.spotify.com/album/5H0hV0QPHpbj1WQaz857Y7) | 3:34 |
-| 39 | [Depois do Fim](https://open.spotify.com/track/5P5nYlE4h5TRqRaJC4df1Y) | [Pilar](https://open.spotify.com/artist/73m22Pkj7wtATvxtsnuLhe) | [Depois do Fim](https://open.spotify.com/album/6W45TVlc0viuUGdLmBdNhc) | 2:04 |
+| 39 | [ARRASTO](https://open.spotify.com/track/2BZWJTYN9UmGMcX2DGRIbK) | [Rubia Divino](https://open.spotify.com/artist/6TSE9aXOA9TkDntWFrQPlz), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [ARRASTO](https://open.spotify.com/album/0RiUWDzIc1A00rAH5cOQS7) | 3:06 |
 | 40 | [Lenda](https://open.spotify.com/track/7AyUlE51WlFc2x8Z2ogCPP) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Céu](https://open.spotify.com/album/2ZGuZwHna0GJ8ApFJWoE9M) | 4:19 |
 | 41 | [Furtacor](https://open.spotify.com/track/0xxFNQDRu4E79cgbbJCKrB) | [Luísa e os Alquimistas](https://open.spotify.com/artist/4MavQ0I0q9aAXj0mErfkqC) | [Jaguatirica Print](https://open.spotify.com/album/0JkLQKEz5jnRohRSLIEewl) | 3:59 |
 | 42 | [Deguste](https://open.spotify.com/track/08LR6HWU5CfaVOAxjOYs5q) | [Paula Lima](https://open.spotify.com/artist/5oE0wKd9rFGBMQTNF1CTZW) | [Deguste](https://open.spotify.com/album/5Nujjbnz1PSAtvyiqhXhoM) | 3:46 |

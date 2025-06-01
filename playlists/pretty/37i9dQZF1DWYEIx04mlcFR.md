@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 
 > la nueva ola de artistas con NXNNI en portada\. 🌊✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,678 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,689 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 24 | [YNQNP](https://open.spotify.com/track/4MYfbMGI7KgUzkYDN1lpnD) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [YNQNP](https://open.spotify.com/album/6MHJtcjTccqn6F5fYKr7Sa) | 2:30 |
 | 25 | [Fancy](https://open.spotify.com/track/4krdhLJa1yHDmnNiH70cfM) | [NXNNI](https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK) | [Fancy](https://open.spotify.com/album/41yNYwf8sCplbz2u6CxkBE) | 2:13 |
 | 26 | [t escucho al pensar](https://open.spotify.com/track/3BeQURh2GJ9nQpxjxFPS2g) | [iza tkm](https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3) | [t escucho al pensar](https://open.spotify.com/album/5qicCmV7fgAeyEd4UizKNt) | 3:18 |
-| 27 | [adondevamos?? \(funnynoiseclub006\)](https://open.spotify.com/track/7137vD0rMEEK3Qoy3G9Sp7) | [urboi.](https://open.spotify.com/artist/6QhzVrbA9G5OZJ7u6Mq30L), [Chris Redd](https://open.spotify.com/artist/7crFZj2YKqQHpQZuTtt1C6), [matt](https://open.spotify.com/artist/6p5YTwc0ujpm6YXoy9Wgxy) | [adondevamos?? \(funnynoiseclub006\)](https://open.spotify.com/album/7F766sekcvwWXK5YVp7eJf) | 3:51 |
+| 27 | [adondevamos??](https://open.spotify.com/track/7137vD0rMEEK3Qoy3G9Sp7) | [urboi.](https://open.spotify.com/artist/6QhzVrbA9G5OZJ7u6Mq30L), [Chris Redd](https://open.spotify.com/artist/7crFZj2YKqQHpQZuTtt1C6), [matt](https://open.spotify.com/artist/6p5YTwc0ujpm6YXoy9Wgxy) | [adondevamos??](https://open.spotify.com/album/7F766sekcvwWXK5YVp7eJf) | 3:51 |
 | 28 | [antonio banderas](https://open.spotify.com/track/0f5OsrCA49IeHZS2omDSB5) | [babas tutsipop](https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv) | [antonio banderas](https://open.spotify.com/album/06qlB6sf07ldcmzoN9wGSh) | 4:08 |
 | 29 | [A 150](https://open.spotify.com/track/4uK3NcTfDQzePn8ixG6w8V) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [¿por qué corres? ya estamos ahí](https://open.spotify.com/album/73ab54wJUkMBlbJNJVDyiE) | 3:03 |
 | 30 | [Ciudad de México](https://open.spotify.com/track/23XJDQ3BhNMJZA3vl0PHNz) | [Eliangel](https://open.spotify.com/artist/2O6bkbT1rbraCDdRKT9nPA) | [Ciudad de México](https://open.spotify.com/album/2vWgcOzbutlMEmBMKDGXF3) | 2:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 49 | [SAMPLE](https://open.spotify.com/track/7BJnKDg5L76sozy9KPzJXN) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [SAMPLE](https://open.spotify.com/album/3O8Ne1bfLwW9ddFvltybCh) | 2:39 |
 | 50 | [me va a costar](https://open.spotify.com/track/0Y7NqQ9RNoHZHDTeDS4UnO) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [me va a costar](https://open.spotify.com/album/7MgPJ608fJvGMf7xCJlPq9) | 3:48 |
 
-Snapshot ID: `aDlJawAAAABFeSMpKdewut6Iz3R/QAgc`
+Snapshot ID: `aDlJawAAAADBNO5T87gKEYCtKW9yTCLb`

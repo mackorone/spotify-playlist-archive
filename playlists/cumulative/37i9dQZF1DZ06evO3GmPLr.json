@@ -1371,6 +1371,28 @@
     },
     {
       "album": {
+        "name": "Paradise Now",
+        "url": "https://open.spotify.com/album/6Yzu9wAkkxRUpEGyVpun81"
+      },
+      "artists": [
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        },
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2025-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161010,
+      "name": "Talk Olympics",
+      "url": "https://open.spotify.com/track/77S6m6lDEpHOUPUG8j9zQj"
+    },
+    {
+      "album": {
         "name": "Drop 7",
         "url": "https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP"
       },

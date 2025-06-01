@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2tl6tGvyHMK5cyDc38ZF7I">Fanny Hultman</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-121 songs - 6 hr 3 min
+123 songs - 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Higher Ground](https://open.spotify.com/track/6uASqrLgGRauoqzlGsq6Hj) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [The Other Side Of Waiting](https://open.spotify.com/album/3TqiXfpJ027fdRQFhEz9rz) | 3:08 | 2024-01-29 |  |
 | [Hold On](https://open.spotify.com/track/0lLBVkeTuZVfZRUC6MFfRf) | [George Alice](https://open.spotify.com/artist/2qmz9qPEFq5phZ8bscA2oL) | [Hold On](https://open.spotify.com/album/2HUFjJZI8gE43IxF3i5i9S) | 3:15 | 2024-01-29 |  |
 | [Hopelessly hopeless](https://open.spotify.com/track/64qDMtMORccb6NRgvtCYR0) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [Home](https://open.spotify.com/album/6H6uDM9YdkVdXDUzDpO0wZ) | 3:24 | 2024-01-29 |  |
+| [Håll käften](https://open.spotify.com/track/4R3XhLS8ozkyVPwaneQSkv) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Håll käften](https://open.spotify.com/album/6JxwMTYthxwIo7eVYow8uD) | 2:42 | 2025-05-31 |  |
 | [I Left My Heart](https://open.spotify.com/track/0ldEQfRPvKax4SIcF6br7g) | [Lucy Blue](https://open.spotify.com/artist/2bhd3BPOa3430RfyyB6moo) | [Unsent Letters](https://open.spotify.com/album/5SSlfIyW1noqLGrqiwTGR4) | 3:40 | 2024-01-29 |  |
 | [I Should Be a Bird](https://open.spotify.com/track/0ZRZeLNAKPHBwkalUqW1xz) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Älskar](https://open.spotify.com/album/7hnwD5fSafzPIxpkbbO8Dk) | 3:59 | 2024-01-29 |  |
 | [I Should Have Told You](https://open.spotify.com/track/7e6yzc8ipEp2sbasDMHjo4) | [LonelyTwin](https://open.spotify.com/artist/2Nf6fS8HByhmGlwDPPZhHM) | [I Should Have Told You](https://open.spotify.com/album/37hXIqnv6DJ7xZbcgaqE7O) | 3:26 | 2024-01-29 |  |
@@ -124,7 +125,8 @@
 | [What Are You Scared Of?](https://open.spotify.com/track/6ayFG1MWAlpobQFpQLaozq) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ), [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Mad Women](https://open.spotify.com/album/2b0ocQYRy5WEkmgqsPd7EP) | 3:09 | 2024-05-31 | 2024-07-25 |
 | [What Are You Scared Of?](https://open.spotify.com/track/6bQbqDiDlIExnHx5wncoYL) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ), [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Mad Women](https://open.spotify.com/album/53Fb80eoXfCbPF9DTaPXJk) | 3:09 | 2024-07-24 |  |
 | [When You Lose Someone](https://open.spotify.com/track/1CAZgVyNgA9pR4e6GHALhq) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Älskar](https://open.spotify.com/album/7hnwD5fSafzPIxpkbbO8Dk) | 3:21 | 2024-01-29 |  |
-| [White Horses \(feat\. Crooked Bangs\)](https://open.spotify.com/track/5un6PotHxYF298PlqoYqPI) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Crooked Bangs](https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu) | [ORIGIN](https://open.spotify.com/album/3WNr0X7Ke2gbAALJe7OluG) | 3:56 | 2024-05-31 |  |
+| [White Horses \(feat\. Crooked Bangs\)](https://open.spotify.com/track/5un6PotHxYF298PlqoYqPI) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Crooked Bangs](https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu) | [ORIGIN](https://open.spotify.com/album/3WNr0X7Ke2gbAALJe7OluG) | 3:56 | 2024-05-31 | 2025-06-01 |
+| [White Horses \- Ryos Remix](https://open.spotify.com/track/0tG1o2RLhw6kLma6EjWxIw) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Crooked Bangs](https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu), [Ryos](https://open.spotify.com/artist/7us9kFadl2fztbHSvlNk6M) | [ORIGIN \(The Remixes\)](https://open.spotify.com/album/6kxKaYy67SxASrkZ5E79Wn) | 3:02 | 2025-05-31 |  |
 | [Wicked Rhythm](https://open.spotify.com/track/4nqYQNGEozDAAHgr7mpdpD) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [The Other Side Of Waiting](https://open.spotify.com/album/3TqiXfpJ027fdRQFhEz9rz) | 3:00 | 2024-01-29 |  |
 | [wish I didn't know you](https://open.spotify.com/track/6AQx8XPDGpyS4EAuKx2wZH) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [late night thoughts](https://open.spotify.com/album/3NNyPYXwkHc4F8QffKQkui) | 2:53 | 2024-01-29 |  |
 | [Yellow](https://open.spotify.com/track/0jGUDxjgD4M8YTRzaehmHj) | [Oliver Nelson](https://open.spotify.com/artist/4QAp87iZerUP9PKxtLhmW1), [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL), [Liv Dawson](https://open.spotify.com/artist/7i8fq2gFSVgPdWVXOlDEx7) | [Yellow](https://open.spotify.com/album/05CVwLD4Y4g9QNrNebTn49) | 3:03 | 2024-09-20 |  |

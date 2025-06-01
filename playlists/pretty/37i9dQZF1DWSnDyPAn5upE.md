@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnDyPAn5upE.md) - [plain]
 
 > Otherworldly voices in the realms of ambient\. Cover: Laura Misch
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,733 likes - 100 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,756 likes - 100 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnDyPAn5upE.md) - [plain]
 | 89 | [Ode to the blue](https://open.spotify.com/track/4zJuP4wQuTFOazKrYTL7Vh) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Ode to the blue](https://open.spotify.com/album/5YdPZEQQuytQU25R7UikhO) | 2:53 |
 | 90 | [Morning Room I](https://open.spotify.com/track/4ilKTNUX2tnJFrFNHJcOHm) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Antonina Nowacka](https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR) | [Languoria](https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf) | 4:16 |
 | 91 | [18:00](https://open.spotify.com/track/43HQpVkQcHzvAKfSHMcH7X) | [Spivak](https://open.spotify.com/artist/4V7mPDwAcAguZIa2PGeEcx) | [Rare Backwards](https://open.spotify.com/album/0BXYF81nqahoaexb8nbJl8) | 3:39 |
-| 92 | [For You I Am Missing …](https://open.spotify.com/track/5rVeiG9p1XlvfC1ch2zqnp) | [Jonny Nash](https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde), [Ana Stamp](https://open.spotify.com/artist/43sN1WX3uVnjIWj4MohlDH) | [There Up, Behind The Moon](https://open.spotify.com/album/31SDMBuesvAQqIYRtcdE0m) | 3:18 |
+| 92 | [Epic Mirage](https://open.spotify.com/track/54M2YOXv7W5EDKTqbxRk4D) | [Hanna Lindgren](https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2) | [Grand Views](https://open.spotify.com/album/4oO7UiaBkjDeXtzOVnkYW1) | 5:06 |
 | 93 | [I Lost You When the Rain Sang a Song \- Original Mix](https://open.spotify.com/track/01CY7mMX7qFPg8t5bHPqB2) | [Seven24](https://open.spotify.com/artist/5IXYo9w7gGGHL9djeFyFi7), [Soty](https://open.spotify.com/artist/3yGtQC1LthTT17CCXb9adZ) | [Leave No Path Untaken](https://open.spotify.com/album/0aXI0wUIuX2yWN6zqvLuFU) | 2:40 |
-| 94 | [Epic Mirage](https://open.spotify.com/track/54M2YOXv7W5EDKTqbxRk4D) | [Hanna Lindgren](https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2) | [Grand Views](https://open.spotify.com/album/4oO7UiaBkjDeXtzOVnkYW1) | 5:06 |
-| 95 | [Haven't Left Home 4 4 Days](https://open.spotify.com/track/4zr9Uf1b0wIxfT1Zwwirhk) | [Perila](https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi) | [7.37/2.11](https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X) | 4:24 |
-| 96 | [Montjuïc](https://open.spotify.com/track/2kS4LEZDSABnCLo4U9yr5c) | [Gi Gi](https://open.spotify.com/artist/2X6qMx9wP4p6L7PU3kTh9r), [Mi Mi](https://open.spotify.com/artist/1vSXToWT1gtSQhwhz0g8jX) | [Lumino Pleco](https://open.spotify.com/album/5r3nWzm8O9f3pnd0yAWSta) | 8:11 |
-| 97 | [After its own death: Side A](https://open.spotify.com/track/0JJmrRoNITYVgeJfk063n3) | [Nivhek](https://open.spotify.com/artist/5igTNru2ENU1qwU1qvlmYl) | [After its own death / Walking in a spiral towards the house](https://open.spotify.com/album/3wjaDfCkbngdwxN2lloyCB) | 16:41 |
-| 98 | [Celeste Song](https://open.spotify.com/track/63o2pUoRLVel5Fr14GQy9c) | [CTM](https://open.spotify.com/artist/7yaj7l8QczhEsLttuFDaRz), [August Rosenbaum](https://open.spotify.com/artist/60jACvCiMkGWezYS8VZXQ4) | [Celeste](https://open.spotify.com/album/5KVMzzZ01MJxw5Sd9qvdCY) | 3:30 |
-| 99 | [Sospiro](https://open.spotify.com/track/1TJuEpWvqUgqCsHmuq8I6A) | [Drum & Lace](https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7) | [Frost](https://open.spotify.com/album/0AS6gymk1bJPNaxgcZXPes) | 10:50 |
+| 94 | [For You I Am Missing …](https://open.spotify.com/track/5rVeiG9p1XlvfC1ch2zqnp) | [Jonny Nash](https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde), [Ana Stamp](https://open.spotify.com/artist/43sN1WX3uVnjIWj4MohlDH) | [There Up, Behind The Moon](https://open.spotify.com/album/31SDMBuesvAQqIYRtcdE0m) | 3:18 |
+| 95 | [Celeste Song](https://open.spotify.com/track/63o2pUoRLVel5Fr14GQy9c) | [CTM](https://open.spotify.com/artist/7yaj7l8QczhEsLttuFDaRz), [August Rosenbaum](https://open.spotify.com/artist/60jACvCiMkGWezYS8VZXQ4) | [Celeste](https://open.spotify.com/album/5KVMzzZ01MJxw5Sd9qvdCY) | 3:30 |
+| 96 | [Haven't Left Home 4 4 Days](https://open.spotify.com/track/4zr9Uf1b0wIxfT1Zwwirhk) | [Perila](https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi) | [7.37/2.11](https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X) | 4:24 |
+| 97 | [Sospiro](https://open.spotify.com/track/1TJuEpWvqUgqCsHmuq8I6A) | [Drum & Lace](https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7) | [Frost](https://open.spotify.com/album/0AS6gymk1bJPNaxgcZXPes) | 10:50 |
+| 98 | [After its own death: Side A](https://open.spotify.com/track/0JJmrRoNITYVgeJfk063n3) | [Nivhek](https://open.spotify.com/artist/5igTNru2ENU1qwU1qvlmYl) | [After its own death / Walking in a spiral towards the house](https://open.spotify.com/album/3wjaDfCkbngdwxN2lloyCB) | 16:41 |
+| 99 | [Montjuïc](https://open.spotify.com/track/2kS4LEZDSABnCLo4U9yr5c) | [Gi Gi](https://open.spotify.com/artist/2X6qMx9wP4p6L7PU3kTh9r), [Mi Mi](https://open.spotify.com/artist/1vSXToWT1gtSQhwhz0g8jX) | [Lumino Pleco](https://open.spotify.com/album/5r3nWzm8O9f3pnd0yAWSta) | 8:11 |
 | 100 | [Lungs](https://open.spotify.com/track/3EVlY02e5TY6AMeH3NaqYD) | [anthéne](https://open.spotify.com/artist/760Zt0PM5aus5kfBCf4FpR), [IKSRE](https://open.spotify.com/artist/5oyUb8IC2vvoJeewltXQ7O) | [Seasons Shifting](https://open.spotify.com/album/7b1cqGqYbklLTaYu2Fw5oV) | 4:20 |
 
 Snapshot ID: `aAoEYAAAAAAI4DsJvR0+SU4xwH1mZfix`

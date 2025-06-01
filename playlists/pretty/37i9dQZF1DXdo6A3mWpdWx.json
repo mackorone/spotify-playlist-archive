@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1990s. Cover: Aqua.",
-  "num_followers": 1112588,
+  "num_followers": 1113359,
   "original_name": "90s Party",
   "owner": {
     "name": "Spotify",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Boombastic",
-        "url": "https://open.spotify.com/album/40rtksAqnwebfPKWzSL6Iv"
-      },
-      "artists": [
-        {
-          "name": "Shaggy",
-          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
-        }
-      ],
-      "duration_ms": 249933,
-      "name": "Boombastic",
-      "url": "https://open.spotify.com/track/4fxF8ljwryMZX5c9EKrLFE"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "Big Willie Style",
         "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 227933,
       "name": "Gettin' Jiggy Wit It",
       "url": "https://open.spotify.com/track/0weAUscowxeqDtpCgtbpgp"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Boombastic",
+        "url": "https://open.spotify.com/album/40rtksAqnwebfPKWzSL6Iv"
+      },
+      "artists": [
+        {
+          "name": "Shaggy",
+          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+        }
+      ],
+      "duration_ms": 249933,
+      "name": "Boombastic",
+      "url": "https://open.spotify.com/track/4fxF8ljwryMZX5c9EKrLFE"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Very Necessary",
-        "url": "https://open.spotify.com/album/2W2EmEpud13QHlhCFS9P8g"
-      },
-      "artists": [
-        {
-          "name": "Salt-N-Pepa",
-          "url": "https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ"
-        }
-      ],
-      "duration_ms": 248573,
-      "name": "Shoop",
-      "url": "https://open.spotify.com/track/0Pu71wxadDlB8fJXfjIjeJ"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "The Writing's On The Wall",
         "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 230200,
       "name": "Jumpin', Jumpin'",
       "url": "https://open.spotify.com/track/4pmc2AxSEq6g7hPVlJCPyP"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Very Necessary",
+        "url": "https://open.spotify.com/album/2W2EmEpud13QHlhCFS9P8g"
+      },
+      "artists": [
+        {
+          "name": "Salt-N-Pepa",
+          "url": "https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ"
+        }
+      ],
+      "duration_ms": 248573,
+      "name": "Shoop",
+      "url": "https://open.spotify.com/track/0Pu71wxadDlB8fJXfjIjeJ"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -803,26 +803,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/7wlnHCWKkBXBWtYgpaCaz7"
-      },
-      "artists": [
-        {
-          "name": "C & C Music Factory",
-          "url": "https://open.spotify.com/artist/7krx6UBDKLwE0q3s3fesqF"
-        },
-        {
-          "name": "Freedom Williams",
-          "url": "https://open.spotify.com/artist/08MVPakTEdRJimQNV61NFR"
-        }
-      ],
-      "duration_ms": 244093,
-      "name": "Gonna Make You Sweat (Everybody Dance Now) (feat. Freedom Williams)",
-      "url": "https://open.spotify.com/track/7eheoW4hxrH51ww2QePVwF"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "Supernatural (Remastered)",
         "url": "https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 294986,
       "name": "Smooth (feat. Rob Thomas)",
       "url": "https://open.spotify.com/track/0n2SEXB2qoRQg171q7XqeW"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/7wlnHCWKkBXBWtYgpaCaz7"
+      },
+      "artists": [
+        {
+          "name": "C & C Music Factory",
+          "url": "https://open.spotify.com/artist/7krx6UBDKLwE0q3s3fesqF"
+        },
+        {
+          "name": "Freedom Williams",
+          "url": "https://open.spotify.com/artist/08MVPakTEdRJimQNV61NFR"
+        }
+      ],
+      "duration_ms": 244093,
+      "name": "Gonna Make You Sweat (Everybody Dance Now) (feat. Freedom Williams)",
+      "url": "https://open.spotify.com/track/7eheoW4hxrH51ww2QePVwF"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "My Promise",
-        "url": "https://open.spotify.com/album/5CQHiljabLGvn72iQk0wsZ"
-      },
-      "artists": [
-        {
-          "name": "No Mercy",
-          "url": "https://open.spotify.com/artist/2tUGlReCZRMoRgl0IS79i3"
-        }
-      ],
-      "duration_ms": 272093,
-      "name": "Where Do You Go",
-      "url": "https://open.spotify.com/track/37tzoWY1ubBQKGXiWdO5Qv"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "Pieces Of A Dream",
         "url": "https://open.spotify.com/album/5sLISkyWFgcOCxIooPYfT4"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 245400,
       "name": "I'm Outta Love - Radio Edit",
       "url": "https://open.spotify.com/track/583xVl0Sbj93uU4ceixgU8"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "My Promise",
+        "url": "https://open.spotify.com/album/5CQHiljabLGvn72iQk0wsZ"
+      },
+      "artists": [
+        {
+          "name": "No Mercy",
+          "url": "https://open.spotify.com/artist/2tUGlReCZRMoRgl0IS79i3"
+        }
+      ],
+      "duration_ms": 272093,
+      "name": "Where Do You Go",
+      "url": "https://open.spotify.com/track/37tzoWY1ubBQKGXiWdO5Qv"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Finally",
-        "url": "https://open.spotify.com/album/3REpPYjJhtaeJc4Mo1v4Ip"
-      },
-      "artists": [
-        {
-          "name": "CeCe Peniston",
-          "url": "https://open.spotify.com/artist/5UoVLCWzOKMIJ9iioof9OD"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "Finally",
-      "url": "https://open.spotify.com/track/0uqvSVhGgQTIdj9G51vhvv"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "PopArt: The Hits",
         "url": "https://open.spotify.com/album/5IVJbSDDWbGjKbBczyifFl"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 304080,
       "name": "Go West - 2003 Remaster",
       "url": "https://open.spotify.com/track/5Klo65Y9uouLjNVDV3pqh7"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Finally",
+        "url": "https://open.spotify.com/album/3REpPYjJhtaeJc4Mo1v4Ip"
+      },
+      "artists": [
+        {
+          "name": "CeCe Peniston",
+          "url": "https://open.spotify.com/artist/5UoVLCWzOKMIJ9iioof9OD"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "Finally",
+      "url": "https://open.spotify.com/track/0uqvSVhGgQTIdj9G51vhvv"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "What's The 411?",
-        "url": "https://open.spotify.com/album/5Q3xLiKnY4ShDuQda7qfg2"
-      },
-      "artists": [
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        }
-      ],
-      "duration_ms": 269973,
-      "name": "Real Love",
-      "url": "https://open.spotify.com/track/3XG801WWhqC753dekEBkMt"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "'N Sync UK Version",
         "url": "https://open.spotify.com/album/7K5qlneuWF1CcY6ERzwkLB"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 200440,
       "name": "I Want You Back - Radio Edit",
       "url": "https://open.spotify.com/track/221LRlPHPuevgE1tuUlof9"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "What's The 411?",
+        "url": "https://open.spotify.com/album/5Q3xLiKnY4ShDuQda7qfg2"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "duration_ms": 269973,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/3XG801WWhqC753dekEBkMt"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -2359,22 +2359,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Aquarium (Special Edition)",
-        "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
-      },
-      "artists": [
-        {
-          "name": "Aqua",
-          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
-        }
-      ],
-      "duration_ms": 225933,
-      "name": "Roses Are Red - Original Version",
-      "url": "https://open.spotify.com/track/0tIqERCyX2ogv5Yn00kswb"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "Step One",
         "url": "https://open.spotify.com/album/0LLP9HeDd489SxAGAaRYIq"
       },
@@ -2387,6 +2371,22 @@
       "duration_ms": 202266,
       "name": "5, 6, 7, 8",
       "url": "https://open.spotify.com/track/3oWZwdnnwsCwMukQbPsEiy"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Aquarium (Special Edition)",
+        "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
+      },
+      "artists": [
+        {
+          "name": "Aqua",
+          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
+        }
+      ],
+      "duration_ms": 225933,
+      "name": "Roses Are Red - Original Version",
+      "url": "https://open.spotify.com/track/0tIqERCyX2ogv5Yn00kswb"
     },
     {
       "added_at": "2024-07-12 16:20:49",

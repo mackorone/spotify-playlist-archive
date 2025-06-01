@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 
 > lovely new music from Poté  🫂 it's all the best indie dance tracks of the moment
 
-[Spotify](https://open.spotify.com/user/spotify) - 889,692 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 889,661 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 | 89 | [Mr Rain \- Edit](https://open.spotify.com/track/6Y9PrIDynlhWv7a2wIcsY6) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Mr Rain](https://open.spotify.com/album/5yqR98yFe70XgYfBOe4iAg) | 2:01 |
 | 90 | [Feel Free](https://open.spotify.com/track/3pcnWOEq5ma8C1L3vR19Lt) | [KURT.](https://open.spotify.com/artist/3fuEM4uMji5Jt4aLtabj3F) | [Feel Free](https://open.spotify.com/album/6xwNQOnPKZfUVeSV9A8vVf) | 3:02 |
 | 91 | [Know You Love Me](https://open.spotify.com/track/0faiF7LFWA3ZArqE2dD0jh) | [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM) | [Know You Love Me](https://open.spotify.com/album/6KwQvGbg3Zg4fP7A1DX8aw) | 2:59 |
-| 92 | [Would You \(feat\. Mel Blue\)](https://open.spotify.com/track/1mAsZArwHOrkJ0qjS6iAQV) | [Set Mo](https://open.spotify.com/artist/2rv8IrcIQiFKkdvQAgUTZj) | [Would You \(feat\. Mel Blue\)](https://open.spotify.com/album/6yAPQKMXh3KWjaGw59mCBN) | 3:35 |
+| 92 | [Would You](https://open.spotify.com/track/1mAsZArwHOrkJ0qjS6iAQV) | [Set Mo](https://open.spotify.com/artist/2rv8IrcIQiFKkdvQAgUTZj) | [Would You](https://open.spotify.com/album/6yAPQKMXh3KWjaGw59mCBN) | 3:35 |
 | 93 | [Smalltown Boy \(feat\. Perfume Genius\)](https://open.spotify.com/track/32Wbkbc7qZQA1viqNboe0D) | [Bronski Beat](https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Smalltown Boy \(feat\. Perfume Genius\)](https://open.spotify.com/album/6UMQHq7ZFWQmbTYsKqancW) | 4:34 |
 | 94 | [Mirror](https://open.spotify.com/track/1pIPpS2d4wjQG3qtjbq7GF) | [Perel](https://open.spotify.com/artist/5cmqnZNaNDqgcsTOkQUmqB) | [Mirror](https://open.spotify.com/album/4hmXcfGg3N8YBZDLAB6wZz) | 3:12 |
 | 95 | [Sprout](https://open.spotify.com/track/3q9MsciynFSXY7bdrBrqOK) | [oqbqbo](https://open.spotify.com/artist/0sxuAo23kwvWKzFmJpLHmw), [Scandinavian Star](https://open.spotify.com/artist/0IHVd7aU0SzB7t0HDiCWsp) | [In This Together](https://open.spotify.com/album/6YFmSitE69TW9mDozCJ51A) | 3:24 |

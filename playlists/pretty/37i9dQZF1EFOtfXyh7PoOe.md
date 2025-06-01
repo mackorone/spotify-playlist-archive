@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOtfXyh7PoOe.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4VL4QRgUHPpilJ4CRhCW1I">Pablo Bowman Navarro</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 831 likes - 128 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 832 likes - 128 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,9 +98,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOtfXyh7PoOe.md) - [plain]
 | 88 | [you wore it better](https://open.spotify.com/track/487GiEQ1NhLnAVSMcEzfdu) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [Verbathim](https://open.spotify.com/album/6aLc5t3mdbmonoCZMAnZ7N) | 1:56 |
 | 89 | [Autopilot](https://open.spotify.com/track/5LnfaCLBIPBtf8qECZbBaR) | [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb) | [Hoppa \(pt\. 2\)](https://open.spotify.com/album/5fokZDlNCQwtgXtsths7AC) | 3:02 |
 | 90 | [Off Days](https://open.spotify.com/track/3cyTJ6e9s2JLuOgL3nY8Fb) | [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb) | [Off Days](https://open.spotify.com/album/3ExLiwDPx664c2RqWJbqNr) | 2:49 |
-| 91 | [Cold](https://open.spotify.com/track/0lOzZUQbBx45rOiFCxL2sP) | [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb) | [Hoppa \(pt\. 1\)](https://open.spotify.com/album/5AkqkeuP9dc0j8jl1z54rE) | 2:09 |
-| 92 | [Silence](https://open.spotify.com/track/60hmi2DksV0PYXBMoyiz88) | [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb), [July 7](https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA) | [Hoppa \(pt\. 1\)](https://open.spotify.com/album/5AkqkeuP9dc0j8jl1z54rE) | 1:57 |
-| 93 | [Mars](https://open.spotify.com/track/1B8TSjAMHXYvyVCfYQ3IAT) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [FUNNY little FEARS](https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa) | 5:00 |
+| 91 | [Mars](https://open.spotify.com/track/1B8TSjAMHXYvyVCfYQ3IAT) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [FUNNY little FEARS](https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa) | 5:00 |
+| 92 | [Cold](https://open.spotify.com/track/0lOzZUQbBx45rOiFCxL2sP) | [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb) | [Hoppa \(pt\. 1\)](https://open.spotify.com/album/5AkqkeuP9dc0j8jl1z54rE) | 2:09 |
+| 93 | [Silence](https://open.spotify.com/track/60hmi2DksV0PYXBMoyiz88) | [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb), [July 7](https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA) | [Hoppa \(pt\. 1\)](https://open.spotify.com/album/5AkqkeuP9dc0j8jl1z54rE) | 1:57 |
 | 94 | [100 Ways \- MK Remix](https://open.spotify.com/track/1NDFWFXR8Jctvpm6vxZRFJ) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [100 Ways \(MK Remix\)](https://open.spotify.com/album/5kHChDjJaFpPwedDPqkWJ6) | 3:51 |
 | 95 | [Not A Lot Left To Say](https://open.spotify.com/track/5eNSMklKlKJGwyc8ucG2fv) | [needanamebro](https://open.spotify.com/artist/4hjO4rBY3DJqEhvLvCeIRp), [Say Now](https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn) | [Not A Lot Left To Say](https://open.spotify.com/album/33gAqq0P3nggfOQoSK9YQJ) | 2:05 |
 | 96 | [Astigmat](https://open.spotify.com/track/5oud72cHdYaWQMm9dSDfSt) | [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb) | [Astigmat](https://open.spotify.com/album/1laJjbZByltQYDI5Ebz2LC) | 3:03 |
@@ -125,8 +125,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOtfXyh7PoOe.md) - [plain]
 | 115 | [Boring!](https://open.spotify.com/track/4gNq9nu09xtyJ0wzlBbbTN) | [Nicole Millar](https://open.spotify.com/artist/0lYzZ91QzokaPrRK1vq6tW) | [Boring!](https://open.spotify.com/album/3l08XOvlLr4osGTSXX8xeQ) | 2:38 |
 | 116 | [B Side](https://open.spotify.com/track/2XvH31W7YcpuucT8Whpysk) | [Eli Smart](https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb) | [B Side](https://open.spotify.com/album/3CzHO9MqBDnDPBBBtUfdYE) | 3:06 |
 | 117 | [Dear Future Lover](https://open.spotify.com/track/4jxRhpP155IQej01WSLBfa) | [William Chan](https://open.spotify.com/artist/0lTHF5hgNUeMetVJEBWwvx) | [Dear Future Lover](https://open.spotify.com/album/6OGO9961SlvI3k0uVdwEL2) | 2:46 |
-| 118 | [Alright For Now](https://open.spotify.com/track/1mtP0j7jW7ItT0ZgJz1313) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS) | [Hope](https://open.spotify.com/album/4JL6XFpgvWsFbmf7hqGatj) | 3:49 |
-| 119 | [1000 Suns](https://open.spotify.com/track/0RCPht2olSTB22MRujYR9t) | [R.I.Pablo](https://open.spotify.com/artist/7KGkYFExwTNpryurLNxdwb), [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb) | [1000 Suns](https://open.spotify.com/album/0GE43BJCb2bVzlM4s5jtoJ) | 3:24 |
+| 118 | [1000 Suns](https://open.spotify.com/track/0RCPht2olSTB22MRujYR9t) | [R.I.Pablo](https://open.spotify.com/artist/7KGkYFExwTNpryurLNxdwb), [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb) | [1000 Suns](https://open.spotify.com/album/0GE43BJCb2bVzlM4s5jtoJ) | 3:24 |
+| 119 | [Alright For Now](https://open.spotify.com/track/1mtP0j7jW7ItT0ZgJz1313) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS) | [Hope](https://open.spotify.com/album/4JL6XFpgvWsFbmf7hqGatj) | 3:49 |
 | 120 | [Flame Princess](https://open.spotify.com/track/4hMh7NnIllO5HxkTJtbIjG) | [kid ryan](https://open.spotify.com/artist/1ncjiTAfWX4ipmk1WMHeHL) | [Flame Princess](https://open.spotify.com/album/6VqvodNkoL0C6DNu0wENXh) | 2:33 |
 | 121 | [Hate Me](https://open.spotify.com/track/2deriq19UAVaOKlXxNbQtL) | [Jalle](https://open.spotify.com/artist/3NiL0OfaA5v0eK59rJgAvB) | [Hate Me](https://open.spotify.com/album/6yl7utPZCEZ59FmvkI8e8r) | 2:41 |
 | 122 | [Good Luck](https://open.spotify.com/track/3zkCJ7q1xabET6Q2GMi3ND) | [Oli Fox](https://open.spotify.com/artist/6L7tIdRpMMZb5l2tk42YLA) | [Good Luck](https://open.spotify.com/album/1bzhRkHXfFic3ZXK2W7h7n) | 2:45 |
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOtfXyh7PoOe.md) - [plain]
 | 127 | [The View](https://open.spotify.com/track/0038fnjL6UVsKq5jzV5QGm) | [R.I.Pablo](https://open.spotify.com/artist/7KGkYFExwTNpryurLNxdwb) | [The View](https://open.spotify.com/album/4y8f3Y73QLPyoqGTzAn9qG) | 2:59 |
 | 128 | [Season of Our Love](https://open.spotify.com/track/0lpJumwXtUE3xD8RP0oll4) | [R.I.Pablo](https://open.spotify.com/artist/7KGkYFExwTNpryurLNxdwb) | [Season of Our Love](https://open.spotify.com/album/4M15n8kQVAQkGrP6XoBhyi) | 2:08 |
 
-Snapshot ID: `Aby1AAAAAAAIj7G2pJA19NlB0SR9xK0Z`
+Snapshot ID: `Aby6vgAAAACeokxKpVsLT9yg+FOud2PG`

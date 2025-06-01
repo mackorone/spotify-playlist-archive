@@ -1,6 +1,6 @@
 {
   "description": "Uma sele\u00e7\u00e3o especial do jazz nacional. Foto: Hamilton De Holanda",
-  "num_followers": 163630,
+  "num_followers": 163638,
   "original_name": "Jazz Brasileiro",
   "owner": {
     "name": "Spotify",
@@ -399,6 +399,26 @@
     {
       "added_at": "2025-05-23 06:00:41",
       "album": {
+        "name": "Plural",
+        "url": "https://open.spotify.com/album/7yhJD2xhtcfAterNjKzUI5"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Grossi",
+          "url": "https://open.spotify.com/artist/4HNRaNTXCLtwCaTv5Qo5fc"
+        },
+        {
+          "name": "Anat Cohen",
+          "url": "https://open.spotify.com/artist/64uVMGwRMxvNbymPIveiZH"
+        }
+      ],
+      "duration_ms": 492946,
+      "name": "Paisagem",
+      "url": "https://open.spotify.com/track/2Q7LRFy26mBMhpMNjV3u31"
+    },
+    {
+      "added_at": "2025-05-23 06:00:41",
+      "album": {
         "name": "Doralice",
         "url": "https://open.spotify.com/album/0xXz4ehuh3vm7NDqPucrjY"
       },
@@ -423,26 +443,6 @@
       "duration_ms": 148506,
       "name": "Doralice - Live at Copenhagen Jazzhouse, 2001.",
       "url": "https://open.spotify.com/track/65YeHWDxAqeK1KcanRj2hH"
-    },
-    {
-      "added_at": "2025-05-23 06:00:41",
-      "album": {
-        "name": "Plural",
-        "url": "https://open.spotify.com/album/7yhJD2xhtcfAterNjKzUI5"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Grossi",
-          "url": "https://open.spotify.com/artist/4HNRaNTXCLtwCaTv5Qo5fc"
-        },
-        {
-          "name": "Anat Cohen",
-          "url": "https://open.spotify.com/artist/64uVMGwRMxvNbymPIveiZH"
-        }
-      ],
-      "duration_ms": 492946,
-      "name": "Paisagem",
-      "url": "https://open.spotify.com/track/2Q7LRFy26mBMhpMNjV3u31"
     },
     {
       "added_at": "2025-05-23 06:00:41",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2025-05-23 06:00:41",
       "album": {
-        "name": "Funktastic",
-        "url": "https://open.spotify.com/album/56R5wcChDUvvcZGwF56GS0"
-      },
-      "artists": [
-        {
-          "name": "Hammond Grooves",
-          "url": "https://open.spotify.com/artist/5m68N3CcLGw2VOzMrqlrhO"
-        }
-      ],
-      "duration_ms": 355961,
-      "name": "Funktastic",
-      "url": "https://open.spotify.com/track/1wpmyzpjVRNxEjShO5Aymz"
-    },
-    {
-      "added_at": "2025-05-23 06:00:41",
-      "album": {
         "name": "Espera",
         "url": "https://open.spotify.com/album/4IkJZkzG8MIb53basOfc8W"
       },
@@ -1607,6 +1591,22 @@
     {
       "added_at": "2025-05-23 06:00:41",
       "album": {
+        "name": "Funktastic",
+        "url": "https://open.spotify.com/album/56R5wcChDUvvcZGwF56GS0"
+      },
+      "artists": [
+        {
+          "name": "Hammond Grooves",
+          "url": "https://open.spotify.com/artist/5m68N3CcLGw2VOzMrqlrhO"
+        }
+      ],
+      "duration_ms": 355961,
+      "name": "Funktastic",
+      "url": "https://open.spotify.com/track/1wpmyzpjVRNxEjShO5Aymz"
+    },
+    {
+      "added_at": "2025-05-23 06:00:41",
+      "album": {
         "name": "AMF",
         "url": "https://open.spotify.com/album/3dB8a8vroSsE20RMZmJuBf"
       },
@@ -1627,6 +1627,34 @@
       "duration_ms": 334890,
       "name": "Serena",
       "url": "https://open.spotify.com/track/12pbppQGlnGQHd4cRxEYDO"
+    },
+    {
+      "added_at": "2025-05-23 06:00:41",
+      "album": {
+        "name": "EIN 002 - Debora Gurgel, Vanessa Ferreira, Vera Figueiredo",
+        "url": "https://open.spotify.com/album/2DmxRJXJkrxeX5Mon0hcJO"
+      },
+      "artists": [
+        {
+          "name": "EIN",
+          "url": "https://open.spotify.com/artist/5d2MOazh8u8fKATMLTUdSJ"
+        },
+        {
+          "name": "Debora Gurgel",
+          "url": "https://open.spotify.com/artist/4yMK2n4V4BuobNJfW6agFT"
+        },
+        {
+          "name": "Vanessa Ferreira",
+          "url": "https://open.spotify.com/artist/3atbA4m90glj10iQfVVA3K"
+        },
+        {
+          "name": "Vera Figueiredo",
+          "url": "https://open.spotify.com/artist/7q65lVFF3bh8TBzUwb9TmX"
+        }
+      ],
+      "duration_ms": 364822,
+      "name": "NUNCA SAI DE MODA",
+      "url": "https://open.spotify.com/track/2mMNQeblz797f79e1qe8Th"
     },
     {
       "added_at": "2025-05-23 06:00:41",
@@ -1827,34 +1855,6 @@
       "duration_ms": 261073,
       "name": "L\u00e2mina",
       "url": "https://open.spotify.com/track/78lwAylCLHLfhC21j96FGt"
-    },
-    {
-      "added_at": "2025-05-23 06:00:41",
-      "album": {
-        "name": "EIN 002 - Debora Gurgel, Vanessa Ferreira, Vera Figueiredo",
-        "url": "https://open.spotify.com/album/2DmxRJXJkrxeX5Mon0hcJO"
-      },
-      "artists": [
-        {
-          "name": "EIN",
-          "url": "https://open.spotify.com/artist/5d2MOazh8u8fKATMLTUdSJ"
-        },
-        {
-          "name": "Debora Gurgel",
-          "url": "https://open.spotify.com/artist/4yMK2n4V4BuobNJfW6agFT"
-        },
-        {
-          "name": "Vanessa Ferreira",
-          "url": "https://open.spotify.com/artist/3atbA4m90glj10iQfVVA3K"
-        },
-        {
-          "name": "Vera Figueiredo",
-          "url": "https://open.spotify.com/artist/7q65lVFF3bh8TBzUwb9TmX"
-        }
-      ],
-      "duration_ms": 364822,
-      "name": "NUNCA SAI DE MODA",
-      "url": "https://open.spotify.com/track/2mMNQeblz797f79e1qe8Th"
     },
     {
       "added_at": "2025-05-23 06:00:41",

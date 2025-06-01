@@ -1145,6 +1145,24 @@
     },
     {
       "album": {
+        "name": "Something Beautiful",
+        "url": "https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186639,
+      "name": "Easy Lover",
+      "url": "https://open.spotify.com/track/2OBzYCYMNsD6yhBZZSs0xg"
+    },
+    {
+      "album": {
         "name": "Ekko",
         "url": "https://open.spotify.com/album/1Pf5ozCbeVb0pAYcQu4FCA"
       },
@@ -3028,7 +3046,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-01",
       "duration_ms": 234560,
       "name": "Little Bit Closer",
       "url": "https://open.spotify.com/track/3y6DzVmGrnOEftEgBKb3fq"

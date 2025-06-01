@@ -4,7 +4,7 @@
 
 > A hand\-picked selection for an extraordinary palette\. Cover: Matt Berninger
 
-311 songs - 20 hr 17 min
+313 songs - 20 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [barefeet](https://open.spotify.com/track/3qnJMEAZ4FZr0YiHOfHSPa) | [Gal Go](https://open.spotify.com/artist/7n60wrmIBDkDk5MGXyZC0t), [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [C los lentos](https://open.spotify.com/album/3rJddPnSqEFGp3ajwYvwoJ) | 2:28 | 2025-05-08 |  |
 | [Bell](https://open.spotify.com/track/37DObnoiSDWEjH6Izh5mhQ) | [Kerala Dust](https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH) | [Bell](https://open.spotify.com/album/0qr1BVtDNgBGCHfMU0eko9) | 4:28 | 2025-03-21 |  |
 | [Bells and Whistles](https://open.spotify.com/track/5Y5FQ3HD5HD7pBMAzm7JKb) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [Bells and Whistles](https://open.spotify.com/album/7l20u6rZraVZuuh4C7vqPE) | 4:07 | 2024-07-11 | 2024-11-08 |
-| [Best Guess](https://open.spotify.com/track/0Cro5lQhsNqfcvgH6QI3nU) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Best Guess](https://open.spotify.com/album/3EpUHyj0ePoni6V4Y4tSSo) | 4:00 | 2025-03-21 |  |
+| [Best Guess](https://open.spotify.com/track/0Cro5lQhsNqfcvgH6QI3nU) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Best Guess](https://open.spotify.com/album/3EpUHyj0ePoni6V4Y4tSSo) | 4:00 | 2025-03-21 | 2025-06-01 |
 | [Besties](https://open.spotify.com/track/5Rb1SPunxB1aKDfaYQLwI7) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Besties](https://open.spotify.com/album/4vzxEXWrTCI4AZQJ3x8gy1) | 3:36 | 2025-01-31 |  |
 | [BLACK COUNTRY GOTHIC](https://open.spotify.com/track/4bdRkbM86QXBePsF6cswUV) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [POSTINDUSTRIAL HOMETOWN BLUES](https://open.spotify.com/album/7xzVWfraTTIu3HrdGrSOPN) | 2:57 | 2024-06-14 | 2025-01-17 |
 | [Black Poppies](https://open.spotify.com/track/3txBT43QunqzMHvsifpxrT) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [Black Poppies](https://open.spotify.com/album/5fCUtI8PdXP8uzxMLURH2n) | 2:52 | 2024-10-06 | 2024-11-23 |
@@ -74,6 +74,7 @@
 | [Cleopatras](https://open.spotify.com/track/5XLkv5fJhKrQNBZhITzoOQ) | [Warmduscher](https://open.spotify.com/artist/1CWwXncu9sk7EIdbvqcquR), [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [Cleopatras](https://open.spotify.com/album/1Y0wEbB4rboWUu78aGDJ2N) | 3:38 | 2024-10-17 | 2024-12-02 |
 | [Cold Dreaming](https://open.spotify.com/track/32gOXeiuZo01yiLeY8tHON) | [Doves](https://open.spotify.com/artist/0LVrQUinPUBFvVD5pLqmWY) | [Cold Dreaming](https://open.spotify.com/album/5D22FZEUtC73xui9g1iQqz) | 5:02 | 2025-01-17 | 2025-04-15 |
 | [Cold Heart](https://open.spotify.com/track/5WRdonm8caliL2JA6fT2fL) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Cold Heart](https://open.spotify.com/album/03BbCLJ40xtTP3NBNL5pYU) | 3:45 | 2025-05-08 |  |
+| [Coldplay cover](https://open.spotify.com/track/5NUFWIfrVVDl8max4A9Oc8) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA) | [Coldplay cover](https://open.spotify.com/album/3VblKLR0BXs2em5j30wKlo) | 4:16 | 2025-05-30 |  |
 | [Confession](https://open.spotify.com/track/17L0KdnNNbo0NJidlZCIRy) | [Jacob Alon](https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH) | [Confession](https://open.spotify.com/album/1Uy1ll941yX4mbbqW7Kyn8) | 4:32 | 2024-11-15 |  |
 | [Cro\-Magnon Man](https://open.spotify.com/track/1HrrotHTdlartBG4CdFCr1) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Cro\-Magnon Man](https://open.spotify.com/album/5VL1958b50wIWuafmVofL6) | 4:07 | 2025-02-07 | 2025-03-08 |
 | [Crossroads](https://open.spotify.com/track/3789vBg3jwebkGxaM8k8H5) | [Gizmo Varillas](https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj) | [Crossroads](https://open.spotify.com/album/4zic3xAKCM4gAcQMKHkt18) | 3:57 | 2024-10-06 | 2024-10-31 |
@@ -259,6 +260,7 @@
 | [Strange Little Consequence](https://open.spotify.com/track/5cRO8vypa1jd8UCiL1Nsbo) | [Demise Of Love](https://open.spotify.com/artist/1NXsFjzcDPUKz6fuB9Qq6R), [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Working Men's Club](https://open.spotify.com/artist/7cCi9XoRu8Y1SyJ9c94fhc), [Ghost Culture](https://open.spotify.com/artist/4M6Kt4GVjpLYpygyNOHwdt) | [Strange Little Consequence](https://open.spotify.com/album/2k376V4vbueVKx1YQDtuOd) | 3:44 | 2025-02-28 | 2025-03-28 |
 | [Suddenly](https://open.spotify.com/track/6q69wsnTERf5URBpPDP9eD) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Beatie Wolfe](https://open.spotify.com/artist/1idkfyhVRSuzopKxvrOzKI) | [Suddenly/Big Empty Country \(Edit\)](https://open.spotify.com/album/3SxbPAT5CXenRCX5HIUBA5) | 3:34 | 2025-05-08 |  |
 | [Switch Over](https://open.spotify.com/track/3T9TQAYyDUgIlnnOHRlWWm) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Switch Over](https://open.spotify.com/album/5wRB3TauoGZdAUg7PCV4mR) | 3:05 | 2025-01-17 | 2025-04-01 |
+| [Take me back](https://open.spotify.com/track/3CkBVxtfny3epwPhQfw9t8) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Take me back](https://open.spotify.com/album/2lNf4UcthxACQ1Ks8BUw98) | 3:45 | 2025-05-30 |  |
 | [Tambourine](https://open.spotify.com/track/0gOZ3G7IB5asVtRBnQgTSY) | [86TVs](https://open.spotify.com/artist/6jKNhOt3ygu1yvmEEVacTx) | [Tambourine](https://open.spotify.com/album/3HWlAxC2VYpfcmN04wquzp) | 1:58 | 2024-06-14 | 2024-07-12 |
 | [Taxi Man](https://open.spotify.com/track/2yyQJXCYvxndsR8UXmG5Ow) | [DITZ](https://open.spotify.com/artist/3oSKgWx1dqjhidhnhpGbfJ) | [Taxi Man](https://open.spotify.com/album/2tZAU1L7wW2jlRvimsZdNi) | 4:15 | 2025-01-31 | 2025-02-02 |
 | [teeth](https://open.spotify.com/track/5RVajwoNIYW0zPt8PqS71y) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [this old house](https://open.spotify.com/album/1QWJ3ijFhCMroSOOAR61Qf) | 5:04 | 2024-06-14 | 2024-07-20 |
@@ -310,7 +312,7 @@
 | [What Happened to You, Son?](https://open.spotify.com/track/7zVv9b6OHWjumvA4nZKXUR) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [What Happened to You, Son?](https://open.spotify.com/album/1ZMvxAEsE0m5dBGtNBELvO) | 3:42 | 2024-06-14 | 2024-10-07 |
 | [Whatcha Mean](https://open.spotify.com/track/4PMUCNKZptDE7RwuQazgAT) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [TELL DEM IT'S SUNNY](https://open.spotify.com/album/4XnYQphM4RxxVAFlzKjvAQ) | 2:38 | 2025-03-21 |  |
 | [White Whale](https://open.spotify.com/track/6CEIjm87xA5unfYc5Us3Le) | [junodream](https://open.spotify.com/artist/4jPWi4cSe5zK2dUCLWiBaN) | [White Whale](https://open.spotify.com/album/258egaEnfTB5i4d6o2jE9I) | 6:38 | 2024-11-15 | 2025-01-09 |
-| [Wild Fields](https://open.spotify.com/track/4hHEp3wA5T8sEJAkCSuRVF) | [These New Puritans](https://open.spotify.com/artist/7w0e6inAfRWIEb9tWVgB7a) | [Wild Fields](https://open.spotify.com/album/0PBFlh8JPVW5jHjGinKIKN) | 4:05 | 2025-05-23 |  |
+| [Wild Fields](https://open.spotify.com/track/4hHEp3wA5T8sEJAkCSuRVF) | [These New Puritans](https://open.spotify.com/artist/7w0e6inAfRWIEb9tWVgB7a) | [Wild Fields](https://open.spotify.com/album/0PBFlh8JPVW5jHjGinKIKN) | 4:05 | 2025-05-23 | 2025-06-01 |
 | [Will Anybody Ever Love Me?](https://open.spotify.com/track/4g37wGcNWcVCdY0UoRNPzu) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Will Anybody Ever Love Me?](https://open.spotify.com/album/0k9E8vq5iYJUNO40E2G6U1) | 4:09 | 2024-06-14 | 2025-02-08 |
 | [words fell out](https://open.spotify.com/track/3mcupBAKe2QJV7c4Z43IRo) | [Goat Girl](https://open.spotify.com/artist/1ukEEwzjucRtFTxiw2DrDZ) | [words fell out](https://open.spotify.com/album/4CQHKJVMCBxvBmJ077een7) | 3:01 | 2024-06-14 | 2024-08-28 |
 | [World on a String](https://open.spotify.com/track/2DrvOkDbR6GEzBdMTnYBqg) | [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [World on a String](https://open.spotify.com/album/6jA0g1Eoa6rRidu501dcJb) | 3:09 | 2024-06-14 | 2024-07-12 |

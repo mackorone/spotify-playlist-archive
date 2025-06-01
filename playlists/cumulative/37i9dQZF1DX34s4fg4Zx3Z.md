@@ -4,7 +4,7 @@
 
 > Những 🎶 từ những cái tên có thể bạn chưa biết\. Ảnh bìa: Phượng Vũ
 
-2,083 songs - 5 day 2 hr 4 min
+2,083 songs - 5 day 2 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -839,7 +839,7 @@
 | [khi mô về ?](https://open.spotify.com/track/0f1oOnlplaTkPVUwnW3b3p) | [Dfoxie37](https://open.spotify.com/artist/4zg9WrDAFl1dGh2eSWLnOG), [Daystrado](https://open.spotify.com/artist/1WfkdpygNjpQlg5czOjdjm) | [khi mô về ?](https://open.spotify.com/album/3JpkPAf2YbNeKKASEtmd1H) | 3:00 | 2024-03-22 | 2024-06-07 |
 | [Khi Mùa Mưa Đi Qua](https://open.spotify.com/track/5nY6Kkxnv7CVCFZbSPBgPZ) | [Haro](https://open.spotify.com/artist/6ONQpyORNnXnhfOPNcSYz2) | [Khi Mùa Mưa Đi Qua](https://open.spotify.com/album/6QBiN1m6Ppja5DtuIW4wJD) | 2:38 | 2022-03-02 | 2022-04-05 |
 | [Khi Nào Em Có Thể](https://open.spotify.com/track/0DsQGKfc4neTG60Ssz2zYG) | [Thiên Thanh Azura](https://open.spotify.com/artist/5JdusihgVMCGKFSzNMMgvT), [Czee](https://open.spotify.com/artist/66sk3xFjXQ2dTL9fl2npjd) | [Khi Nào Em Có Thể](https://open.spotify.com/album/0fOxEtZ1TJvZIC2bf6aXdH) | 3:46 | 2023-05-25 | 2024-06-01 |
-| [Khi Ta Yêu Nhau](https://open.spotify.com/track/1o7kaBHLbHXE0nY2FD4txh) | [Kiyoshi Phan](https://open.spotify.com/artist/68NSOMlOaNbs7eYe42qaAc), [Trần Nguyễn Bảo Hân](https://open.spotify.com/artist/31iBIGnueQPkK5VnxF9tQE) | [Khi Ta Yêu Nhau](https://open.spotify.com/album/1dtkliYrEqoOL27MkB8WCM) | 2:09 | 2025-05-15 |  |
+| [Khi Ta Yêu Nhau](https://open.spotify.com/track/1o7kaBHLbHXE0nY2FD4txh) | [Kiyoshi Phan](https://open.spotify.com/artist/68NSOMlOaNbs7eYe42qaAc), [Trần Nguyễn Bảo Hân](https://open.spotify.com/artist/31iBIGnueQPkK5VnxF9tQE) | [Khi Ta Yêu Nhau](https://open.spotify.com/album/1dtkliYrEqoOL27MkB8WCM) | 4:03 | 2025-05-15 |  |
 | [Khi Tôi 18](https://open.spotify.com/track/39Un13usiG104LzAezlkXG) | [Ngọc Đắc](https://open.spotify.com/artist/7g4wZfZd0bVoz5by4WXE2M), [O.lew](https://open.spotify.com/artist/4APrfmUo8KRrjCVuyoKvwY), [Rum](https://open.spotify.com/artist/2FzQt1F2hU6M2h0w9AZ6kT) | [Khi Tôi 18](https://open.spotify.com/album/78zandlIoqa8HOdbgBmIvD) | 4:50 | 2023-06-01 | 2023-08-04 |
 | [Khi you don't ở đêyy](https://open.spotify.com/track/3e4Lf0icGauXHwcxFgjMs2) | [tnglinh](https://open.spotify.com/artist/6ZXaSrHSpCyZlOjOhhFnOy) | [Khi you don't ở đêyy](https://open.spotify.com/album/4s25u2jVDP5OwfyMKt5jmr) | 2:46 | 2023-02-22 | 2023-04-16 |
 | [Khiêu Vũ Cùng Anh \(feat\. Harthier\)](https://open.spotify.com/track/3u0Ne0ZKViz26Lel4Yv4i8) | [Vang](https://open.spotify.com/artist/6bvMoywdm3JM1bmVvMngrW), [Harthier](https://open.spotify.com/artist/0txRoD6T3cSvmKaMhKiclV) | [Khiêu Vũ Cùng Anh \(feat\. Harthier\)](https://open.spotify.com/album/4HsAKjurK6vQgpXXABOXQy) | 4:27 | 2023-06-04 | 2023-07-21 |

@@ -1,6 +1,6 @@
 {
   "description": "\bTrendy & Chill Korean R&B music. (Cover: BIBI(\ube44\ube44))",
-  "num_followers": 1073086,
+  "num_followers": 1073018,
   "original_name": "TrenChill K-R&B",
   "owner": {
     "name": "Spotify",
@@ -643,22 +643,6 @@
     {
       "added_at": "2025-05-20 08:21:55",
       "album": {
-        "name": "Doctor! Doctor!",
-        "url": "https://open.spotify.com/album/3CNyLUNNW8lRWVHccyGokL"
-      },
-      "artists": [
-        {
-          "name": "ZEROBASEONE",
-          "url": "https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n"
-        }
-      ],
-      "duration_ms": 152137,
-      "name": "Doctor! Doctor!",
-      "url": "https://open.spotify.com/track/7en6ZODJ7STm2ocxqKoYZs"
-    },
-    {
-      "added_at": "2025-05-20 08:21:55",
-      "album": {
         "name": "IM NAYEON",
         "url": "https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 197613,
       "name": "LOVE COUNTDOWN (Feat. Wonstein)",
       "url": "https://open.spotify.com/track/0GnydTKmczMoKOEl1D4URI"
+    },
+    {
+      "added_at": "2025-05-20 08:21:55",
+      "album": {
+        "name": "Doctor! Doctor!",
+        "url": "https://open.spotify.com/album/3CNyLUNNW8lRWVHccyGokL"
+      },
+      "artists": [
+        {
+          "name": "ZEROBASEONE",
+          "url": "https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n"
+        }
+      ],
+      "duration_ms": 152137,
+      "name": "Doctor! Doctor!",
+      "url": "https://open.spotify.com/track/7en6ZODJ7STm2ocxqKoYZs"
     },
     {
       "added_at": "2025-05-20 08:21:55",
@@ -771,22 +771,6 @@
     {
       "added_at": "2025-05-20 08:21:55",
       "album": {
-        "name": "Hello, World - The 4th Mini Album",
-        "url": "https://open.spotify.com/album/6t6uh1uD01cnqef1Y7NVxA"
-      },
-      "artists": [
-        {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
-        }
-      ],
-      "duration_ms": 195946,
-      "name": "Pineapple Slice",
-      "url": "https://open.spotify.com/track/13U2hhhgeN57hffBCuaUcw"
-    },
-    {
-      "added_at": "2025-05-20 08:21:55",
-      "album": {
         "name": "Savage - The 1st Mini Album",
         "url": "https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 210560,
       "name": "Lucid Dream",
       "url": "https://open.spotify.com/track/285Bh5EkbxGGE76ge8JDbH"
+    },
+    {
+      "added_at": "2025-05-20 08:21:55",
+      "album": {
+        "name": "Hello, World - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/6t6uh1uD01cnqef1Y7NVxA"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "duration_ms": 195946,
+      "name": "Pineapple Slice",
+      "url": "https://open.spotify.com/track/13U2hhhgeN57hffBCuaUcw"
     },
     {
       "added_at": "2025-05-20 08:21:55",
@@ -943,18 +943,22 @@
     {
       "added_at": "2025-05-20 08:21:55",
       "album": {
-        "name": "love you twice",
-        "url": "https://open.spotify.com/album/03NnLJWmvbNiDAk8l8W3b4"
+        "name": "Rush Hour",
+        "url": "https://open.spotify.com/album/7egcy2gtlyoUUl1OlQrY3R"
       },
       "artists": [
         {
-          "name": "HUH YUNJIN",
-          "url": "https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy"
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
         }
       ],
-      "duration_ms": 172189,
-      "name": "love you twice",
-      "url": "https://open.spotify.com/track/0GLXQAdrh4tdvz0JLw8DX8"
+      "duration_ms": 177302,
+      "name": "Rush Hour (Feat. j-hope of BTS)",
+      "url": "https://open.spotify.com/track/5aucVLKiumD89mxVCB4zvS"
     },
     {
       "added_at": "2025-05-20 08:21:55",
@@ -1003,54 +1007,18 @@
     {
       "added_at": "2025-05-20 08:21:55",
       "album": {
-        "name": "Rush Hour",
-        "url": "https://open.spotify.com/album/7egcy2gtlyoUUl1OlQrY3R"
+        "name": "love you twice",
+        "url": "https://open.spotify.com/album/03NnLJWmvbNiDAk8l8W3b4"
       },
       "artists": [
         {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        },
-        {
-          "name": "j-hope",
-          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+          "name": "HUH YUNJIN",
+          "url": "https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy"
         }
       ],
-      "duration_ms": 177302,
-      "name": "Rush Hour (Feat. j-hope of BTS)",
-      "url": "https://open.spotify.com/track/5aucVLKiumD89mxVCB4zvS"
-    },
-    {
-      "added_at": "2025-05-20 08:21:55",
-      "album": {
-        "name": "R.E.M",
-        "url": "https://open.spotify.com/album/4xcIr0rkoIBPmoSPamCorO"
-      },
-      "artists": [
-        {
-          "name": "KISS OF LIFE",
-          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
-        }
-      ],
-      "duration_ms": 172773,
-      "name": "R.E.M",
-      "url": "https://open.spotify.com/track/7D2B5pj751b3MIaU4TwE6e"
-    },
-    {
-      "added_at": "2025-05-20 08:21:55",
-      "album": {
-        "name": "Moodswings In To Order",
-        "url": "https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ"
-      },
-      "artists": [
-        {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
-        }
-      ],
-      "duration_ms": 189946,
-      "name": "Ballroom Extravaganza",
-      "url": "https://open.spotify.com/track/4vJfBno2d0mTjMcYn5lEln"
+      "duration_ms": 172189,
+      "name": "love you twice",
+      "url": "https://open.spotify.com/track/0GLXQAdrh4tdvz0JLw8DX8"
     },
     {
       "added_at": "2025-05-20 08:21:55",
@@ -1071,18 +1039,34 @@
     {
       "added_at": "2025-05-20 08:21:55",
       "album": {
-        "name": "jellyfish",
-        "url": "https://open.spotify.com/album/78uS0bGMBDygZbdxE7kwPC"
+        "name": "Moodswings In To Order",
+        "url": "https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ"
       },
       "artists": [
         {
-          "name": "HUH YUNJIN",
-          "url": "https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy"
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
         }
       ],
-      "duration_ms": 157168,
-      "name": "jellyfish",
-      "url": "https://open.spotify.com/track/0zgiDnbDryMxEurtC0o5Ne"
+      "duration_ms": 189946,
+      "name": "Ballroom Extravaganza",
+      "url": "https://open.spotify.com/track/4vJfBno2d0mTjMcYn5lEln"
+    },
+    {
+      "added_at": "2025-05-20 08:21:55",
+      "album": {
+        "name": "R.E.M",
+        "url": "https://open.spotify.com/album/4xcIr0rkoIBPmoSPamCorO"
+      },
+      "artists": [
+        {
+          "name": "KISS OF LIFE",
+          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
+        }
+      ],
+      "duration_ms": 172773,
+      "name": "R.E.M",
+      "url": "https://open.spotify.com/track/7D2B5pj751b3MIaU4TwE6e"
     },
     {
       "added_at": "2025-05-20 08:21:55",
@@ -1155,22 +1139,6 @@
     {
       "added_at": "2025-05-20 08:21:55",
       "album": {
-        "name": "Moodswings In This Order",
-        "url": "https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA"
-      },
-      "artists": [
-        {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
-        }
-      ],
-      "duration_ms": 200373,
-      "name": "Dope Lovers",
-      "url": "https://open.spotify.com/track/6cvbvXaRbQcuv54SjYXP86"
-    },
-    {
-      "added_at": "2025-05-20 08:21:55",
-      "album": {
         "name": "NA",
         "url": "https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7"
       },
@@ -1187,6 +1155,38 @@
       "duration_ms": 206613,
       "name": "Magic (Feat. JULIE of KISS OF LIFE)",
       "url": "https://open.spotify.com/track/6pLYWcPnBdFJShuUARDIwj"
+    },
+    {
+      "added_at": "2025-05-20 08:21:55",
+      "album": {
+        "name": "Moodswings In This Order",
+        "url": "https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "duration_ms": 200373,
+      "name": "Dope Lovers",
+      "url": "https://open.spotify.com/track/6cvbvXaRbQcuv54SjYXP86"
+    },
+    {
+      "added_at": "2025-05-20 08:21:55",
+      "album": {
+        "name": "jellyfish",
+        "url": "https://open.spotify.com/album/78uS0bGMBDygZbdxE7kwPC"
+      },
+      "artists": [
+        {
+          "name": "HUH YUNJIN",
+          "url": "https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy"
+        }
+      ],
+      "duration_ms": 157168,
+      "name": "jellyfish",
+      "url": "https://open.spotify.com/track/0zgiDnbDryMxEurtC0o5Ne"
     },
     {
       "added_at": "2025-05-20 08:21:55",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2025-05-20 08:21:55",
       "album": {
-        "name": "Derre",
-        "url": "https://open.spotify.com/album/7dSovHX9P2wh3p8quX7EhL"
-      },
-      "artists": [
-        {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
-        }
-      ],
-      "duration_ms": 156474,
-      "name": "Derre",
-      "url": "https://open.spotify.com/track/02mGPF4589DiiSdoH0pu1d"
-    },
-    {
-      "added_at": "2025-05-20 08:21:55",
-      "album": {
         "name": "GANADARA",
         "url": "https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 203727,
       "name": "GANADARA (Feat. IU)",
       "url": "https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1"
+    },
+    {
+      "added_at": "2025-05-20 08:21:55",
+      "album": {
+        "name": "Derre",
+        "url": "https://open.spotify.com/album/7dSovHX9P2wh3p8quX7EhL"
+      },
+      "artists": [
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "duration_ms": 156474,
+      "name": "Derre",
+      "url": "https://open.spotify.com/track/02mGPF4589DiiSdoH0pu1d"
     }
   ],
   "unique_name": "TrenChill K-R&B",

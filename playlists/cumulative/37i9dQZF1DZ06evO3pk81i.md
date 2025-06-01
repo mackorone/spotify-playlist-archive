@@ -4,7 +4,7 @@
 
 > This is Los Primos del Este\. The essential tracks, all in one playlist.
 
-66 songs - 3 hr 23 min
+67 songs - 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Fue Mi Culpa](https://open.spotify.com/track/3s9tXoVLXkea4zI3ly3OHV) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Fue Mi Culpa](https://open.spotify.com/album/4ixj7UNFpQvZ4J0vRNlrI7) | 3:32 | 2024-08-08 |  |
 | [Hoy](https://open.spotify.com/track/6aQgAhpCebGWOqrMdY2VhP) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Grupo TMB](https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT) | [Me Ama Sin Temor](https://open.spotify.com/album/6hLommr7Wr5zxefGelqMT9) | 3:43 | 2024-08-08 |  |
 | [La Bella](https://open.spotify.com/track/3Eaz3p3w8eWm3UBiMW8RrE) | [Alfredo Manzo](https://open.spotify.com/artist/2bLVfd7SyWSloS4isXMazU), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [La Bella](https://open.spotify.com/album/14BQ2d4IWbtNctmhiyV3ur) | 3:58 | 2024-08-08 |  |
+| [La Fiesta De Mi Rancho \- Remix](https://open.spotify.com/track/74eHdWsJM0p448J9Hsa3oh) | [Monir Bautista](https://open.spotify.com/artist/3vsI26mTGeEkEdWxsibd7g), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [La Fiesta De Mi Rancho \(Remix\)](https://open.spotify.com/album/3K2Anv3vPh9KZ5jufd1tAg) | 2:38 | 2025-06-01 |  |
 | [Labios Rojos \(Version Norteña\)](https://open.spotify.com/track/3zeOGStcMvRNYhN0QY9S95) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [LDNE](https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ) | [Luna De Miel](https://open.spotify.com/album/0rNBpiw8fHCsqGb9fJXAUq) | 4:10 | 2025-02-02 |  |
 | [Lo Bueno Y Lo Malo](https://open.spotify.com/track/3max574PT1q80JWMAGkdUY) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Kane Rodriguez](https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e), [Julio Caesar](https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K) | [Lo Bueno Y Lo Malo](https://open.spotify.com/album/59RvfoVTOMJBng2ViEacq4) | 2:42 | 2024-11-25 |  |
 | [Loko](https://open.spotify.com/track/6MsbMIHQL3ZM6RUWb2F8tU) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Loko](https://open.spotify.com/album/59SSpxu6Lau67i21tUvswt) | 2:08 | 2024-08-08 |  |
@@ -52,7 +53,7 @@
 | [NTPD Recordar](https://open.spotify.com/track/6D8D4OY5Hp52frnZayENqQ) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3) | [Capítulo 1: El Regreso Del Dragon](https://open.spotify.com/album/6NbV4YCgoWwEUyjuN4WMT0) | 3:16 | 2024-08-08 |  |
 | [Nuestro Final](https://open.spotify.com/track/7p72E8Piay4uhAqaoPKfRu) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Poesías](https://open.spotify.com/album/67HdvBGwER7WCcFb1keYYg) | 2:05 | 2025-02-28 |  |
 | [Otra Ronda](https://open.spotify.com/track/7xyLViGH04SRJqVHZW6JRY) | [Los de FL](https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Otra Ronda](https://open.spotify.com/album/0hoRVMMaltcLmzxWfcx5Qu) | 3:45 | 2024-08-08 | 2025-03-30 |
-| [Pasos Firmes](https://open.spotify.com/track/3gluf5rb6ygO8CWo6HosQR) | [David Santos](https://open.spotify.com/artist/3sc9qeCcbKwYiiBspwVUzU), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Pasos Firmes](https://open.spotify.com/album/7Chr7fCCMXrGTaU6fiIZXG) | 2:53 | 2024-08-08 |  |
+| [Pasos Firmes](https://open.spotify.com/track/3gluf5rb6ygO8CWo6HosQR) | [David Santos](https://open.spotify.com/artist/3sc9qeCcbKwYiiBspwVUzU), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Pasos Firmes](https://open.spotify.com/album/7Chr7fCCMXrGTaU6fiIZXG) | 2:53 | 2024-08-08 | 2025-06-01 |
 | [Pleito Con Cupido](https://open.spotify.com/track/7zpwPasI1qZQnU5R1jvjlY) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Amor De Lejos](https://open.spotify.com/album/6yTpeJC36PW6nAflA8Njb7) | 3:05 | 2024-08-08 | 2025-04-13 |
 | [Poema](https://open.spotify.com/track/2UmIxJCmMOWSqua4YXG1o7) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Poesías](https://open.spotify.com/album/67HdvBGwER7WCcFb1keYYg) | 2:53 | 2024-08-08 |  |
 | [Prada](https://open.spotify.com/track/5IXU5eUPQJwhCGOmcOzc9k) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Poesías](https://open.spotify.com/album/67HdvBGwER7WCcFb1keYYg) | 2:39 | 2024-08-08 |  |

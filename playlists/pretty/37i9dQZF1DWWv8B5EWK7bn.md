@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv8B5EWK7bn.md) - [plain]
 
 > Oblique: Angular\. Asymmetrical\. Experimental.
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,399 likes - 100 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,426 likes - 100 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv8B5EWK7bn.md) - [plain]
 | 68 | [Big Appetite](https://open.spotify.com/track/4XPlKxzm2My7efFgFbsomR) | [Liars](https://open.spotify.com/artist/2z78AlkdwE2Ghj9EB50M6z) | [The Apple Drop](https://open.spotify.com/album/0jlrYQZy6lkuIN0mYgxLfS) | 5:16 |
 | 69 | [thieves](https://open.spotify.com/track/34ZXYNErf3WC4tgO0PAnUx) | [Astoria](https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6) | [thieves](https://open.spotify.com/album/0Xs1Xc5yUxPlYFOKyJ0UV7) | 2:58 |
 | 70 | [MERCY](https://open.spotify.com/track/1S5KEj2FV5TJAoHJaXHmC0) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW), [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl) | [MERCY](https://open.spotify.com/album/0kRucvv6YTD7EJ0jduNmD0) | 7:00 |
-| 71 | [I'VE BEEN EVIL](https://open.spotify.com/track/60cyilVfq8s2pkA2jv82Fq) | [SPIRIT OF THE BEEHIVE](https://open.spotify.com/artist/25CgccXK9hJBTuaMF44zeR) | [SOMETHING'S ENDING / I'VE BEEN EVIL](https://open.spotify.com/album/2s12W57AKBVgE05hxm1v6P) | 2:34 |
-| 72 | [Starved for Glamour](https://open.spotify.com/track/3O05FgZ3XcjoVkZm6YpIKZ) | [Marker Starling](https://open.spotify.com/artist/3ng4JmUTAES0oTSlDkF3if), [Laetitia Sadier](https://open.spotify.com/artist/5s8mrbpjYHWIuGYUzNTpEb) | [High January](https://open.spotify.com/album/3er7U7Xz3YFryjGaFnpKSE) | 4:26 |
+| 71 | [Starved for Glamour](https://open.spotify.com/track/3O05FgZ3XcjoVkZm6YpIKZ) | [Marker Starling](https://open.spotify.com/artist/3ng4JmUTAES0oTSlDkF3if), [Laetitia Sadier](https://open.spotify.com/artist/5s8mrbpjYHWIuGYUzNTpEb) | [High January](https://open.spotify.com/album/3er7U7Xz3YFryjGaFnpKSE) | 4:26 |
+| 72 | [I'VE BEEN EVIL](https://open.spotify.com/track/60cyilVfq8s2pkA2jv82Fq) | [SPIRIT OF THE BEEHIVE](https://open.spotify.com/artist/25CgccXK9hJBTuaMF44zeR) | [SOMETHING'S ENDING / I'VE BEEN EVIL](https://open.spotify.com/album/2s12W57AKBVgE05hxm1v6P) | 2:34 |
 | 73 | [Dividual Individual](https://open.spotify.com/track/0teitNswTb5fqi3eLlQzN0) | [Yama Warashi](https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C) | [Crispy Moon](https://open.spotify.com/album/1aQVe15zOQEamyYePKjtj2) | 5:00 |
 | 74 | [love is not the poison](https://open.spotify.com/track/030g6jETCVW8ax0ws9hk4x) | [Astoria](https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6) | [love is not the poison](https://open.spotify.com/album/0uX7knjn5E5BFaimIbGG2s) | 5:18 |
 | 75 | [La Roseraie](https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz) | [Lysandre](https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh) | [Sans oublier](https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c) | 2:50 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv8B5EWK7bn.md) - [plain]
 | 80 | [New World \- Edit](https://open.spotify.com/track/5HKUt7N1FUt4nF1mqFTF1o) | [Tindersticks](https://open.spotify.com/artist/3dmSPhg0tdao8ePj4pySJ5) | [Always a Stranger](https://open.spotify.com/album/08gxbHefdrUENqWpDZROlI) | 3:47 |
 | 81 | [Lovegaze](https://open.spotify.com/track/0Yeom3AwrwRsGKxzup2OjZ) | [Nailah Hunter](https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF) | [Lovegaze](https://open.spotify.com/album/5wZ1zvJhdu078W27V9mr5U) | 4:51 |
 | 82 | [True Luck](https://open.spotify.com/track/5OWX5oNVa0xfn3VAIPVfJl) | [Astoria](https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6) | [True Luck](https://open.spotify.com/album/4Gsf0hLHkHEGr5ooIVCsoJ) | 3:20 |
-| 83 | [Hay Veces](https://open.spotify.com/track/126s7WobIvhuZpoPpbokSe) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Hay Veces](https://open.spotify.com/album/2qZEJQ3dOSJeqGnH3EnTe7) | 3:06 |
-| 84 | [The Presence](https://open.spotify.com/track/4iiHscmntHnZmeLs4U9hSr) | [Emma Anderson](https://open.spotify.com/artist/3o2G6CrR8dJYHf69yoC8hL) | [Pearlies](https://open.spotify.com/album/45kExoTy2BTCKr3XjNDo1T) | 3:35 |
+| 83 | [The Presence](https://open.spotify.com/track/4iiHscmntHnZmeLs4U9hSr) | [Emma Anderson](https://open.spotify.com/artist/3o2G6CrR8dJYHf69yoC8hL) | [Pearlies](https://open.spotify.com/album/45kExoTy2BTCKr3XjNDo1T) | 3:35 |
+| 84 | [Hay Veces](https://open.spotify.com/track/126s7WobIvhuZpoPpbokSe) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Hay Veces](https://open.spotify.com/album/2qZEJQ3dOSJeqGnH3EnTe7) | 3:06 |
 | 85 | [Al Sur](https://open.spotify.com/track/6mrxKzfu4L3AcDxPwYPjUs) | [The Notwist](https://open.spotify.com/artist/1o4xLcugkCtDDOw7POAMha), [Juana Molina](https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3) | [Al Sur](https://open.spotify.com/album/73vbx7w0BGj1nBolIC4qqy) | 3:18 |
 | 86 | [Where To Put The Pain](https://open.spotify.com/track/0XTurmb33W1OnYZji8eIQe) | [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt) | [Where To Put The Pain](https://open.spotify.com/album/1CIYtcZozAhsnaZETJHmai) | 3:54 |
 | 87 | [Windows Open](https://open.spotify.com/track/6FodQMZJw91jvvDxI5xWhm) | [Maps](https://open.spotify.com/artist/3hImYGOkGn8Rsh9Vygcds2) | [Counter Melodies](https://open.spotify.com/album/0NXYRwTcPyqDiwBfNnnKcs) | 5:18 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv8B5EWK7bn.md) - [plain]
 | 96 | [Sur la terre](https://open.spotify.com/track/2A3NYCyctcRnCCy3UwngoH) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Sur La Terre](https://open.spotify.com/album/1jFrxgWjWDPXyPfWAc6Qbk) | 3:16 |
 | 97 | [Processional](https://open.spotify.com/track/3leOjmmcUGrjEwpkxVQn3R) | [@](https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3) | [Are You There God? It’s Me, @](https://open.spotify.com/album/3yH4aVY5yxzxaijksQOOJk) | 3:14 |
 | 98 | [Sekwar](https://open.spotify.com/track/52OBVPpbLif9YczNqUJUUd) | [Liars](https://open.spotify.com/artist/2z78AlkdwE2Ghj9EB50M6z) | [The Apple Drop](https://open.spotify.com/album/50WuzTucOcvfOPzldNVUXZ) | 4:34 |
-| 99 | [Pagano](https://open.spotify.com/track/0K8fmZNZFG2bCxamePeiFE) | [Siniestra Pandora](https://open.spotify.com/artist/1cuq3b3taULpho8MTTZD2U) | [Elegía](https://open.spotify.com/album/6EEkWd8f7a1zctFgoptqUj) | 3:47 |
-| 100 | [Stranidei](https://open.spotify.com/track/233ArIuVyP9GNBlfNavB4W) | [Bud Spencer Blues Explosion](https://open.spotify.com/artist/1bfWecjdxJOuN7f42oIH5S) | [Vandali / Stranidei](https://open.spotify.com/album/7mxKYjIXX1kGlV5RRDGvpI) | 4:05 |
+| 99 | [Dog's Life](https://open.spotify.com/track/2W7rrKEKlBGGYcYmTBHLCY) | [plantoid](https://open.spotify.com/artist/1vrdaOj47E8sKFcc1Ekoxd) | [Dog's Life](https://open.spotify.com/album/5gYTOwpIA1xyeS4olKWPPX) | 3:57 |
+| 100 | [Pagano](https://open.spotify.com/track/0K8fmZNZFG2bCxamePeiFE) | [Siniestra Pandora](https://open.spotify.com/artist/1cuq3b3taULpho8MTTZD2U) | [Elegía](https://open.spotify.com/album/6EEkWd8f7a1zctFgoptqUj) | 3:47 |
 
 Snapshot ID: `Z5MseQAAAABjhBpWC+wiQ8ohc4izEqMd`

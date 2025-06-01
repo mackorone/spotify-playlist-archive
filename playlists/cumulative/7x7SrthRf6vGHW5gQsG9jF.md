@@ -4,7 +4,7 @@
 
 > mostly rock
 
-904 songs - 2 day 9 hr 48 min
+905 songs - 2 day 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -623,6 +623,7 @@
 | [イントロは終わり](https://open.spotify.com/track/4ipbJYm3U1qnkCTmVmQrHc) | [水槽](https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq) | [夜天邂逅](https://open.spotify.com/album/6m70zkoxFXufdB4plRY327) | 2:59 | 2025-04-28 |  |
 | [エゴイスト](https://open.spotify.com/track/3ODoj5TFDy0DRBBtmuSpRZ) | [Parsley Onuma](https://open.spotify.com/artist/3NRa5cYPYh7cNGH6u3DN9N) | [ave](https://open.spotify.com/album/1TgxRoTeuBvgO5OEoQQlG8) | 3:39 | 2024-07-08 |  |
 | [エターナル](https://open.spotify.com/track/7EgoCOjSAYms7FMjRIIjCb) | [UNLIMITS](https://open.spotify.com/artist/79J1fd1c3x60MVdSkBMGoX) | [And Your Birds Can Sing](https://open.spotify.com/album/3bM2fHvKI8k4vT4GcrBdCM) | 3:15 | 2025-03-15 |  |
+| [エレクトロ・ワールド](https://open.spotify.com/track/1jIG6M4cM6kLwBidMICJMv) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [エレクトロ・ワールド](https://open.spotify.com/album/0zGXBoWJUYaH9BLXXuxrR3) | 3:52 | 2025-06-01 |  |
 | [エンドロール](https://open.spotify.com/track/1elZK8RLppUcvMxsNQB99G) | [Inu](https://open.spotify.com/artist/4M1kBNml6dd87qi8lXCNqv), [AssToro](https://open.spotify.com/artist/1XVnuN1WPe1VMw78MuYeic) | [Reminder](https://open.spotify.com/album/1tqWJSNIhX6ZNvwRwEDOzD) | 2:48 | 2024-04-29 |  |
 | [エヴァーグリーン](https://open.spotify.com/track/4j3fs4QcRrzxW18IkADrph) | [AprilBlue](https://open.spotify.com/artist/22596Y1hah6u7PlGUiJ7BZ) | [エヴァーグリーン](https://open.spotify.com/album/1Gvebu1jufoA5UVMzKTTYE) | 4:23 | 2024-05-18 |  |
 | [オトノケ \- Otonoke](https://open.spotify.com/track/6KYOlIwDHbrbeBbJEtQ0Fj) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [オトノケ \- Otonoke](https://open.spotify.com/album/7zI1wDJmkfHMBwZpbwJn8H) | 3:05 | 2024-10-20 |  |

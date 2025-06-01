@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2tipyZnSXT4rMixqUyVpz6">Jon Shave</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-242 songs - 13 hr 14 min
+243 songs - 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [Saturday](https://open.spotify.com/track/6kNERTseZtfhD6OiLiJs6D) | [Alex Gaudino](https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d), [Dopamine](https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN), [MazZz](https://open.spotify.com/artist/3SiNCwhDyYfsNMw5sEQ7FZ) | [Saturday](https://open.spotify.com/album/6yJqD0yIdmihsm12DWCLYq) | 2:39 | 2025-01-09 | 2025-04-12 |
 | [Saturday](https://open.spotify.com/track/5PKcv8T4xv1IbcW1s7lklP) | [RoZe](https://open.spotify.com/artist/3FnDrB5pRYfH6sN3FSw3L3) | [Greener Grass](https://open.spotify.com/album/6Rx9pQ9UbIDAPpNXvHPmGx) | 3:05 | 2024-07-06 |  |
 | [Save That Shit](https://open.spotify.com/track/3VZlCJimDGY0D7YEC7S351) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [Come Over When You're Sober, Pt\. 1](https://open.spotify.com/album/70LJ28NE9LV93xF2z6PiyN) | 3:51 | 2024-06-13 |  |
+| [Say No More \(feat\. Ellenor\)](https://open.spotify.com/track/4JbeTykkOPSKsFoqJLF4Iw) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [Ellenor](https://open.spotify.com/artist/0REqgP6J3j3gr32k7dn4VF) | [Say No More \(feat\. Ellenor\)](https://open.spotify.com/album/2k5DUuBioR17x2FaMBvg8g) | 2:26 | 2025-05-31 |  |
 | [Say You Do](https://open.spotify.com/track/74jDFju8j3sX1yQJeLdJ6O) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Imani Williams](https://open.spotify.com/artist/7bFuEkk1929rDOdLywT3rn), [DJ Fresh](https://open.spotify.com/artist/6r20qOqY7qDWI0PPTxVMlC) | [Brighter Days](https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11) | 3:22 | 2024-06-13 |  |
 | [September Rose](https://open.spotify.com/track/2RIE736kkO0hLZ4Y3auCL2) | [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [September Rose](https://open.spotify.com/album/5HaNyMxVqfJQHygG2bjIJr) | 3:41 | 2024-06-13 |  |
 | [Showgirl](https://open.spotify.com/track/5eYQZSQPlLHHc1bLL0UmO5) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Still Learning](https://open.spotify.com/album/0go1bLt3pqNbRLCOWEYlQh) | 2:46 | 2024-06-13 |  |

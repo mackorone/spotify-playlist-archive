@@ -2869,6 +2869,24 @@
     },
     {
       "album": {
+        "name": "\u6536\u653e\u81ea\u5982",
+        "url": "https://open.spotify.com/album/3Op0pkji5hAjXuyzOCvPP4"
+      },
+      "artists": [
+        {
+          "name": "Sam Lee",
+          "url": "https://open.spotify.com/artist/7ya3wFqG9X35S7L7XSrE2i"
+        }
+      ],
+      "date_added": "2025-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289693,
+      "name": "\u64e6\u80a9\u800c\u904e",
+      "url": "https://open.spotify.com/track/484E5ggbqCUi4wYO5SMfHD"
+    },
+    {
+      "album": {
         "name": "\u4e03\u91cc\u9999",
         "url": "https://open.spotify.com/album/6WdM1OfmVIPuQ56QPmaJIr"
       },
@@ -3078,7 +3096,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-01",
       "duration_ms": 243441,
       "name": "\u6700\u8fd1",
       "url": "https://open.spotify.com/track/57pUHpCltt09b5w1W6m9qb"

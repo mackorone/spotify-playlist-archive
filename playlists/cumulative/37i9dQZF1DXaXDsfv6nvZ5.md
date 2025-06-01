@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day\. Cover: Dayo Bello
 
-765 songs - 1 day 21 hr 49 min
+766 songs - 1 day 21 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -714,7 +714,7 @@
 | [Wait A Little Longer](https://open.spotify.com/track/2WSRSvjNO8wLxvFWQkeUhS) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Wait A Little Longer](https://open.spotify.com/album/3V7mjfuYQKZK13uH9rjPxv) | 3:28 | 2023-08-18 | 2024-09-28 |
 | [Waiting For You \(feat\. Naomi Sharon\)](https://open.spotify.com/track/6Dae6DNW72nLZ6KGyE7aeH) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Waiting For You \(feat\. Naomi Sharon\)](https://open.spotify.com/album/09l5EnCPP1AKIqaozUT6LQ) | 3:39 | 2023-09-16 |  |
 | [Waiting on the Right Time](https://open.spotify.com/track/7rqR6MqQX8x2eDlAmleCRl) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Waiting on the Right Time](https://open.spotify.com/album/50YUFgsiE11VbXB4QFKaP1) | 3:39 | 2024-09-13 | 2025-02-01 |
-| [Waiting On You](https://open.spotify.com/track/1lsX78ds0jYRhrDZeqRLvp) | [Jon B.](https://open.spotify.com/artist/3SRJWVa6lZnqRHOyAHmDrX), [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l) | [WAITING on YOU](https://open.spotify.com/album/0OtjbHExx0ZAYi6TptDujz) | 4:12 | 2025-03-21 |  |
+| [Waiting On You](https://open.spotify.com/track/1lsX78ds0jYRhrDZeqRLvp) | [Jon B.](https://open.spotify.com/artist/3SRJWVa6lZnqRHOyAHmDrX), [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l) | [WAITING on YOU](https://open.spotify.com/album/0OtjbHExx0ZAYi6TptDujz) | 4:12 | 2025-03-21 | 2025-06-01 |
 | [Waiting On You \(feat\. Tone Stith\)](https://open.spotify.com/track/7y69cuKflEEbXXZMX7EBKL) | [Camper](https://open.spotify.com/artist/6LRKiJQwBb8A9iukQsyglp), [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [Waiting On You \(feat\. Tone Stith\)](https://open.spotify.com/album/1fuINvuJbtiNvH3N6oNYhr) | 2:30 | 2024-11-22 |  |
 | [Wake Up \(feat\. Sa\-Roc\)](https://open.spotify.com/track/2YjUR0XRhaLa080fcd5r5t) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA), [Sa\-Roc](https://open.spotify.com/artist/2tjZzUU3KKhsxlmNjV3VZg) | [Wake Up \(feat\. Sa\-Roc\)](https://open.spotify.com/album/21gFrBvha5DfY41rFYRFoQ) | 5:04 | 2021-12-03 | 2022-06-17 |
 | [Wake Up Everybody \- From “Black History Always / Music For the Movement Vol\. 2"](https://open.spotify.com/track/0SXc07eEULCarnpq6pSrPD) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [Wake Up Everybody \(From “Black History Always / Music For the Movement Vol\. 2"\)](https://open.spotify.com/album/7tOdvzx7uCAsjdrKvkEZZL) | 3:47 | 2021-12-03 | 2022-07-29 |
@@ -739,6 +739,7 @@
 | [Whatcha Done Now](https://open.spotify.com/track/76x90uvlD8lQ9SRr2FeAKx) | [Leela James](https://open.spotify.com/artist/5sennRot4Ls82wfspEQuf2) | [Thought U Knew](https://open.spotify.com/album/21hotFpTsSBEofaYnbecMQ) | 3:31 | 2023-10-27 | 2024-02-12 |
 | [Whatcha Done Now \(feat\. Kenyon Dixon\)](https://open.spotify.com/track/7cXgHdkX97ix7NuIavCw0L) | [Leela James](https://open.spotify.com/artist/5sennRot4Ls82wfspEQuf2), [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [Whatcha Done Now \(feat\. Kenyon Dixon\)](https://open.spotify.com/album/1IWE4RBWTV3bV9WKgVPrWn) | 3:48 | 2024-08-16 | 2024-10-13 |
 | [Whatcha Know](https://open.spotify.com/track/50xfWsLVNNvXYdeLbdT0lz) | [Bobby Oroza](https://open.spotify.com/artist/7DIW7zcnjQFBTMxhK6V2VQ), [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc) | [Whatcha Know](https://open.spotify.com/album/0w7NTBLYYYWY5fabjAUyhZ) | 3:54 | 2023-06-16 | 2024-12-14 |
+| [When I Feel It](https://open.spotify.com/track/2Pz1LM9mjuGUscM4gk6GME) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation Of Mimi \(20th Anniversary Edition\)](https://open.spotify.com/album/0O4U8aVbBcWrq38ax0T6AO) | 3:09 | 2025-05-30 |  |
 | [When I'm in Your Arms](https://open.spotify.com/track/47s5hKfwGXliAAB8wKMiNo) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Rose in the Dark](https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9) | 5:35 | 2022-10-03 |  |
 | [When You Were Mine](https://open.spotify.com/track/3zSwFE91EdwhEwS6vnJohB) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7) | 3:23 | 2021-12-03 | 2023-04-01 |
 | [When You're Lonely](https://open.spotify.com/track/0cGzG9CFE3l6HygfUzr6Uo) | [Tyler Daley](https://open.spotify.com/artist/4RZ0xAhQmDexe49EAe28hr), [Children of Zeus](https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z) | [Son of Zeus](https://open.spotify.com/album/6GhXHLKieoeh9LHLsBrDeN) | 2:36 | 2024-03-08 | 2024-12-14 |

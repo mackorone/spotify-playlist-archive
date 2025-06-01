@@ -1258,7 +1258,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-01",
       "duration_ms": 167013,
       "name": "Bad Influence (Prod. by Pharrell Williams)",
       "url": "https://open.spotify.com/track/6uJlw4VHZulMvz6s3J2bO2"
@@ -3474,7 +3474,7 @@
       ],
       "date_added": "2024-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-30",
+      "date_removed": null,
       "duration_ms": 180845,
       "name": "DRIP",
       "url": "https://open.spotify.com/track/198zDKzyktXRG1PGpidY9h"
@@ -3492,7 +3492,7 @@
       ],
       "date_added": "2024-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-01",
       "duration_ms": 180845,
       "name": "DRIP",
       "url": "https://open.spotify.com/track/1MUZitHRpmng5NevrvNx4T"
@@ -5378,7 +5378,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-01",
       "duration_ms": 192467,
       "name": "HANDS UP",
       "url": "https://open.spotify.com/track/0wrppxeWurW1uRnxI6Ut9v"
@@ -5396,7 +5396,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-31",
+      "date_removed": null,
       "duration_ms": 192467,
       "name": "HANDS UP",
       "url": "https://open.spotify.com/track/2nopDUxom21JoMzFXj9wS0"
@@ -9464,7 +9464,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-31",
+      "date_removed": null,
       "duration_ms": 176126,
       "name": "Nothing Without Your Love",
       "url": "https://open.spotify.com/track/4H6s1mTZcjHAMU36ZF3Xoz"
@@ -14456,7 +14456,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-24",
+      "date_removed": null,
       "duration_ms": 183226,
       "name": "Whiplash",
       "url": "https://open.spotify.com/track/6uPnrBgweGOcwjFL4ItAvV"
@@ -14474,7 +14474,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-01",
       "duration_ms": 183226,
       "name": "Whiplash",
       "url": "https://open.spotify.com/track/7Cnpb1vBbC46RgVyyKLH7p"
@@ -17436,7 +17436,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-01",
       "duration_ms": 226028,
       "name": "\u5982\u679c\u6642\u9593\u4f86\u5230",
       "url": "https://open.spotify.com/track/31v9DOjbdzljEPiIcDYEtI"
@@ -17650,6 +17650,24 @@
       "duration_ms": 258088,
       "name": "\u5e74\u9752\u6709\u70ba",
       "url": "https://open.spotify.com/track/5dhzpjvwo4tkSuUS7otPoF"
+    },
+    {
+      "album": {
+        "name": "\u5e7c\u7a1a\u5b8c (\u5287\u96c6 \"\u96f7\u9706\u6383\u6bd2\" \u7247\u5c3e\u66f2)",
+        "url": "https://open.spotify.com/album/33xNSs4pcrasImQam0eUMa"
+      },
+      "artists": [
+        {
+          "name": "Raymond Lam",
+          "url": "https://open.spotify.com/artist/4KCnzC71azFAYCKmD1bJOK"
+        }
+      ],
+      "date_added": "2025-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268846,
+      "name": "\u5e7c\u7a1a\u5b8c - (\u5287\u96c6 \"\u96f7\u9706\u6383\u6bd2\" \u7247\u5c3e\u66f2)",
+      "url": "https://open.spotify.com/track/5b6PaNTGe3Iv2gg2RMy2Ms"
     },
     {
       "album": {
@@ -17898,7 +17916,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-01",
       "duration_ms": 230468,
       "name": "\u611b\u4e0d\u759a",
       "url": "https://open.spotify.com/track/44LLP8HiZBkfOzyC1PLXGo"
@@ -20136,7 +20154,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-29",
+      "date_removed": null,
       "duration_ms": 243017,
       "name": "\u73a9\u5076\u5947\u9047\u8a18",
       "url": "https://open.spotify.com/track/1hf26XBrWNvfKiOeXU2Vtk"

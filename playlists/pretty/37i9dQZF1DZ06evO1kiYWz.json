@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDejgAAAAACwIwWq3RojLmO6icyXsNWy",
+  "snapshot_id": "aDj1AAAAAAAk3eaHQq61wdFn2rAUkkJu",
   "tracks": [
     {
       "added_at": null,
@@ -75,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tardes Fr\u00edas De Verano",
-        "url": "https://open.spotify.com/album/5tonPEAm8YKi7ApwHzmccb"
-      },
-      "artists": [
-        {
-          "name": "Campo De Almas.",
-          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
-        }
-      ],
-      "duration_ms": 186333,
-      "name": "El Silencio",
-      "url": "https://open.spotify.com/track/1rQXWoYkKm4VjYETDC2Gdc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Olvido",
         "url": "https://open.spotify.com/album/2dUX8TcNTqu2q4PVvI65KM"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 267000,
       "name": "Cuenta Regresiva",
       "url": "https://open.spotify.com/track/4AyoqOvOBnIwSP627N4i86"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tardes Fr\u00edas De Verano",
+        "url": "https://open.spotify.com/album/5tonPEAm8YKi7ApwHzmccb"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "duration_ms": 186333,
+      "name": "El Silencio",
+      "url": "https://open.spotify.com/track/1rQXWoYkKm4VjYETDC2Gdc"
     },
     {
       "added_at": null,
@@ -139,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tardes Fr\u00edas De Verano",
-        "url": "https://open.spotify.com/album/5tonPEAm8YKi7ApwHzmccb"
-      },
-      "artists": [
-        {
-          "name": "Campo De Almas.",
-          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
-        }
-      ],
-      "duration_ms": 254506,
-      "name": "Las Piedras Y El Mar",
-      "url": "https://open.spotify.com/track/4okjSLPKtwsJZ8zDnbsbrI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Adicci\u00f3n",
         "url": "https://open.spotify.com/album/4OT78VlrNDMDDwMCnD1pbv"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 235333,
       "name": "Bolero",
       "url": "https://open.spotify.com/track/5F7YXLSiFYPuVKXdVTb0N5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tardes Fr\u00edas De Verano",
+        "url": "https://open.spotify.com/album/5tonPEAm8YKi7ApwHzmccb"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "duration_ms": 254506,
+      "name": "Las Piedras Y El Mar",
+      "url": "https://open.spotify.com/track/4okjSLPKtwsJZ8zDnbsbrI"
     },
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
         }
       ],
-      "duration_ms": 295946,
-      "name": "Oscuro",
-      "url": "https://open.spotify.com/track/7Bd0qgZWx0PZvF6nIypxaz"
+      "duration_ms": 256573,
+      "name": "Juro Que No Mor\u00ed",
+      "url": "https://open.spotify.com/track/6eiXpdDC7CzLtiglXi1SaF"
     },
     {
       "added_at": null,
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
         }
       ],
-      "duration_ms": 204000,
-      "name": "La Historia Entre Los Dos",
-      "url": "https://open.spotify.com/track/3O1AmaK3H3a9r2A1hUgxAS"
+      "duration_ms": 260480,
+      "name": "Plat\u00f3nica",
+      "url": "https://open.spotify.com/track/23Cf8htC7DSBhzOdqYyzkx"
     },
     {
       "added_at": null,
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
         }
       ],
-      "duration_ms": 256573,
-      "name": "Juro Que No Mor\u00ed",
-      "url": "https://open.spotify.com/track/6eiXpdDC7CzLtiglXi1SaF"
+      "duration_ms": 295946,
+      "name": "Oscuro",
+      "url": "https://open.spotify.com/track/7Bd0qgZWx0PZvF6nIypxaz"
     },
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
         }
       ],
-      "duration_ms": 260480,
-      "name": "Plat\u00f3nica",
-      "url": "https://open.spotify.com/track/23Cf8htC7DSBhzOdqYyzkx"
+      "duration_ms": 204000,
+      "name": "La Historia Entre Los Dos",
+      "url": "https://open.spotify.com/track/3O1AmaK3H3a9r2A1hUgxAS"
     },
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tardes Fr\u00edas De Verano",
-        "url": "https://open.spotify.com/album/5tonPEAm8YKi7ApwHzmccb"
-      },
-      "artists": [
-        {
-          "name": "Campo De Almas.",
-          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
-        }
-      ],
-      "duration_ms": 184333,
-      "name": "El Sue\u00f1o Acabo",
-      "url": "https://open.spotify.com/track/2zuFUTqPwwaTewxtOuiuQ3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Adicci\u00f3n",
         "url": "https://open.spotify.com/album/4OT78VlrNDMDDwMCnD1pbv"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 161853,
       "name": "Otra Tarde",
       "url": "https://open.spotify.com/track/0iLwRAM4YXI76Mtzwwg20t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tardes Fr\u00edas De Verano",
+        "url": "https://open.spotify.com/album/5tonPEAm8YKi7ApwHzmccb"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "duration_ms": 184333,
+      "name": "El Sue\u00f1o Acabo",
+      "url": "https://open.spotify.com/track/2zuFUTqPwwaTewxtOuiuQ3"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baladas",
-        "url": "https://open.spotify.com/album/5yp0cKV6jqbtjBZEgI5qQN"
-      },
-      "artists": [
-        {
-          "name": "Campo De Almas.",
-          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
-        }
-      ],
-      "duration_ms": 213231,
-      "name": "Solo Hoy D\u00eda",
-      "url": "https://open.spotify.com/track/3bJM7hNIC71HGDMlhA7ZWb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Adicci\u00f3n",
         "url": "https://open.spotify.com/album/4OT78VlrNDMDDwMCnD1pbv"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 224733,
       "name": "Oscura Ni\u00f1a",
       "url": "https://open.spotify.com/track/5BVI3hvrd4gU8ez6u9AqWE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Olvido",
+        "url": "https://open.spotify.com/album/2dUX8TcNTqu2q4PVvI65KM"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "duration_ms": 278480,
+      "name": "El Olvido",
+      "url": "https://open.spotify.com/track/2wCGjgOObAwJL9j3Fkil6s"
     },
     {
       "added_at": null,
@@ -671,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Olvido",
-        "url": "https://open.spotify.com/album/2dUX8TcNTqu2q4PVvI65KM"
+        "name": "Baladas",
+        "url": "https://open.spotify.com/album/5yp0cKV6jqbtjBZEgI5qQN"
       },
       "artists": [
         {
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
         }
       ],
-      "duration_ms": 278480,
-      "name": "El Olvido",
-      "url": "https://open.spotify.com/track/2wCGjgOObAwJL9j3Fkil6s"
+      "duration_ms": 213231,
+      "name": "Solo Hoy D\u00eda",
+      "url": "https://open.spotify.com/track/3bJM7hNIC71HGDMlhA7ZWb"
     },
     {
       "added_at": null,
@@ -767,38 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Siempre Estuviste Ah\u00ed",
-        "url": "https://open.spotify.com/album/0y40mqdz6q5YAcOZeUEV4R"
-      },
-      "artists": [
-        {
-          "name": "Campo De Almas.",
-          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
-        }
-      ],
-      "duration_ms": 247026,
-      "name": "Camino Claro ( En Vivo)",
-      "url": "https://open.spotify.com/track/7Gbao5b5qfspL3XCuGF0n6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Vivo Desde El Teatro Municipal De Lima",
-        "url": "https://open.spotify.com/album/3QktAMyoTkWBnZHJziEZUP"
-      },
-      "artists": [
-        {
-          "name": "Campo De Almas.",
-          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
-        }
-      ],
-      "duration_ms": 163404,
-      "name": "El Diablo (En Vivo)",
-      "url": "https://open.spotify.com/track/5JsWKLiaYIc0A7qKpyFc4x"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Que No Te Falte Ni Gloria",
         "url": "https://open.spotify.com/album/75GZUDTiCgxduw8Yvmtrec"
       },
@@ -811,6 +779,22 @@
       "duration_ms": 211470,
       "name": "Prohibido",
       "url": "https://open.spotify.com/track/6N8s1xbNJgiGXDox5laV1T"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Siempre Estuviste Ah\u00ed",
+        "url": "https://open.spotify.com/album/0y40mqdz6q5YAcOZeUEV4R"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "duration_ms": 247026,
+      "name": "Camino Claro ( En Vivo)",
+      "url": "https://open.spotify.com/track/7Gbao5b5qfspL3XCuGF0n6"
     }
   ],
   "unique_name": "This Is Campo De Almas.",

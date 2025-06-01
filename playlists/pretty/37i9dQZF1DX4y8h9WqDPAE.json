@@ -1,6 +1,6 @@
 {
   "description": "Where R&B meets Hip-Hop, Pop, Afrobeats and everything in between !  Cover: Justine Skye",
-  "num_followers": 1745666,
+  "num_followers": 1745626,
   "original_name": "Channel-X",
   "owner": {
     "name": "Spotify",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2025-03-14 06:07:30",
       "album": {
+        "name": "Heart Of A Woman",
+        "url": "https://open.spotify.com/album/2PluIFWJrbEgClMLJoFWzh"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Heart Of A Woman",
+      "url": "https://open.spotify.com/track/2oVVaVY0LkzwAYYcyzon6Z"
+    },
+    {
+      "added_at": "2025-03-14 06:07:30",
+      "album": {
         "name": "\u00dcbermensch",
         "url": "https://open.spotify.com/album/4FviRd7FubuuGNVt2qME1G"
       },
@@ -1387,18 +1403,22 @@
     {
       "added_at": "2025-03-14 06:07:30",
       "album": {
-        "name": "Heart Of A Woman",
-        "url": "https://open.spotify.com/album/2PluIFWJrbEgClMLJoFWzh"
+        "name": "Lungu Boy",
+        "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
       },
       "artists": [
         {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 171000,
-      "name": "Heart Of A Woman",
-      "url": "https://open.spotify.com/track/2oVVaVY0LkzwAYYcyzon6Z"
+      "duration_ms": 219628,
+      "name": "MMS",
+      "url": "https://open.spotify.com/track/13VXuHw3O8Yt7VwRIDqSo4"
     },
     {
       "added_at": "2025-03-14 06:07:30",
@@ -1419,26 +1439,6 @@
       "duration_ms": 187660,
       "name": "Crashing (with Kali Uchis)",
       "url": "https://open.spotify.com/track/44MnSCzK2nFWQvv0kjUvkW"
-    },
-    {
-      "added_at": "2025-03-14 06:07:30",
-      "album": {
-        "name": "Lungu Boy",
-        "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 219628,
-      "name": "MMS",
-      "url": "https://open.spotify.com/track/13VXuHw3O8Yt7VwRIDqSo4"
     },
     {
       "added_at": "2025-03-14 06:07:30",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2025-03-14 06:07:30",
       "album": {
-        "name": "Update",
-        "url": "https://open.spotify.com/album/4iPMVG9LtYQ2ENLIglSo7B"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 207865,
-      "name": "Update",
-      "url": "https://open.spotify.com/track/1ZedegcFMjMTyIngsQbXjb"
-    },
-    {
-      "added_at": "2025-03-14 06:07:30",
-      "album": {
         "name": "3",
         "url": "https://open.spotify.com/album/19TUU6Y9OEYm8W1zBYakWq"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 224597,
       "name": "One Of These",
       "url": "https://open.spotify.com/track/3SX7xiRjM8X2t5SmIU3aPQ"
+    },
+    {
+      "added_at": "2025-03-14 06:07:30",
+      "album": {
+        "name": "Update",
+        "url": "https://open.spotify.com/album/4iPMVG9LtYQ2ENLIglSo7B"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 207865,
+      "name": "Update",
+      "url": "https://open.spotify.com/track/1ZedegcFMjMTyIngsQbXjb"
     },
     {
       "added_at": "2025-03-14 06:07:30",
@@ -1845,46 +1845,6 @@
       "url": "https://open.spotify.com/track/29sbEEB0w4aAY3FofzzEjy"
     },
     {
-      "added_at": "2025-03-14 06:07:30",
-      "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Timeless (feat. Playboi Carti)",
-      "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
-    },
-    {
-      "added_at": "2025-03-14 06:07:30",
-      "album": {
-        "name": "Access All Areas",
-        "url": "https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR"
-      },
-      "artists": [
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 188348,
-      "name": "In My Bag (feat. GloRilla)",
-      "url": "https://open.spotify.com/track/4l9xe2rcwWctjrI43UFkgA"
-    },
-    {
       "added_at": "2025-05-16 04:09:36",
       "album": {
         "name": "Easier Done Than Said",
@@ -1907,22 +1867,42 @@
     {
       "added_at": "2025-03-14 06:07:30",
       "album": {
-        "name": "POOKIE\u2019S REQUIEM (feat. Summer Walker) [hehe look y'all I made it longer]",
-        "url": "https://open.spotify.com/album/5o7Wu7xeSeuey5Lwbn8Lv2"
+        "name": "Access All Areas",
+        "url": "https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR"
       },
       "artists": [
         {
-          "name": "SAILORR",
-          "url": "https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci"
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
         },
         {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
         }
       ],
-      "duration_ms": 173294,
-      "name": "POOKIE\u2019S REQUIEM (feat. Summer Walker) - hehe look y'all I made it longer",
-      "url": "https://open.spotify.com/track/2LIgTJnCCAtGbuPn0qN7Ny"
+      "duration_ms": 188348,
+      "name": "In My Bag (feat. GloRilla)",
+      "url": "https://open.spotify.com/track/4l9xe2rcwWctjrI43UFkgA"
+    },
+    {
+      "added_at": "2025-03-14 06:07:30",
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Timeless (feat. Playboi Carti)",
+      "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
     },
     {
       "added_at": "2025-05-23 05:03:47",
@@ -1943,6 +1923,26 @@
       "duration_ms": 245729,
       "name": "Ikigai (feat. Loonie)",
       "url": "https://open.spotify.com/track/521fDEPuyS2szREJ9NkMDs"
+    },
+    {
+      "added_at": "2025-03-14 06:07:30",
+      "album": {
+        "name": "POOKIE\u2019S REQUIEM (feat. Summer Walker) [hehe look y'all I made it longer]",
+        "url": "https://open.spotify.com/album/5o7Wu7xeSeuey5Lwbn8Lv2"
+      },
+      "artists": [
+        {
+          "name": "SAILORR",
+          "url": "https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 173294,
+      "name": "POOKIE\u2019S REQUIEM (feat. Summer Walker) - hehe look y'all I made it longer",
+      "url": "https://open.spotify.com/track/2LIgTJnCCAtGbuPn0qN7Ny"
     },
     {
       "added_at": "2025-03-14 06:07:30",
@@ -1997,6 +1997,22 @@
       "url": "https://open.spotify.com/track/7vAXxDFUHDPxWzSujxb8jB"
     },
     {
+      "added_at": "2025-03-14 06:07:30",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/7eSHhMZCCvJvubQ3plHlYZ"
+      },
+      "artists": [
+        {
+          "name": "Aqyila",
+          "url": "https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4"
+        }
+      ],
+      "duration_ms": 175057,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/5utUZ5nv6y6dR8irsnOQEj"
+    },
+    {
       "added_at": "2025-04-11 05:23:17",
       "album": {
         "name": "Don't Forget About Us (KAYTRANADA Remix)",
@@ -2015,22 +2031,6 @@
       "duration_ms": 243125,
       "name": "Don't Forget About Us - KAYTRANADA Remix",
       "url": "https://open.spotify.com/track/1NmC7qGL2jdqtFXzrrH3ui"
-    },
-    {
-      "added_at": "2025-03-14 06:07:30",
-      "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/7eSHhMZCCvJvubQ3plHlYZ"
-      },
-      "artists": [
-        {
-          "name": "Aqyila",
-          "url": "https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4"
-        }
-      ],
-      "duration_ms": 175057,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/5utUZ5nv6y6dR8irsnOQEj"
     },
     {
       "added_at": "2025-03-21 04:00:51",
@@ -2223,26 +2223,6 @@
     {
       "added_at": "2025-03-14 06:07:30",
       "album": {
-        "name": "MUTT",
-        "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 209182,
-      "name": "FEELINGS ON SILENT (feat. Wale)",
-      "url": "https://open.spotify.com/track/0XQFACvy0OCADmCIgHNtXJ"
-    },
-    {
-      "added_at": "2025-03-14 06:07:30",
-      "album": {
         "name": "JADED",
         "url": "https://open.spotify.com/album/1XcpYmfE4vYCKeLQYINlO7"
       },
@@ -2259,6 +2239,26 @@
       "duration_ms": 166954,
       "name": "I Do (feat. Muni Long)",
       "url": "https://open.spotify.com/track/5TbYIeYkGgGtYL7sms7m9N"
+    },
+    {
+      "added_at": "2025-03-14 06:07:30",
+      "album": {
+        "name": "MUTT",
+        "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 209182,
+      "name": "FEELINGS ON SILENT (feat. Wale)",
+      "url": "https://open.spotify.com/track/0XQFACvy0OCADmCIgHNtXJ"
     },
     {
       "added_at": "2025-03-14 06:07:30",
@@ -2507,22 +2507,6 @@
     {
       "added_at": "2025-03-14 06:07:30",
       "album": {
-        "name": "LOVE.JONES",
-        "url": "https://open.spotify.com/album/1xcouduCLDsvfyp3pltKqO"
-      },
-      "artists": [
-        {
-          "name": "THEY.",
-          "url": "https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx"
-        }
-      ],
-      "duration_ms": 215320,
-      "name": "Rotation",
-      "url": "https://open.spotify.com/track/7rc1HQlfKhsdhDri8eM5i4"
-    },
-    {
-      "added_at": "2025-03-14 06:07:30",
-      "album": {
         "name": "NGL",
         "url": "https://open.spotify.com/album/4veaG4MuOfmgfq0r45Y5Z3"
       },
@@ -2535,6 +2519,22 @@
       "duration_ms": 174053,
       "name": "Ready To Love",
       "url": "https://open.spotify.com/track/4172S3BC4ViI5biWFakPuO"
+    },
+    {
+      "added_at": "2025-03-14 06:07:30",
+      "album": {
+        "name": "LOVE.JONES",
+        "url": "https://open.spotify.com/album/1xcouduCLDsvfyp3pltKqO"
+      },
+      "artists": [
+        {
+          "name": "THEY.",
+          "url": "https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx"
+        }
+      ],
+      "duration_ms": 215320,
+      "name": "Rotation",
+      "url": "https://open.spotify.com/track/7rc1HQlfKhsdhDri8eM5i4"
     },
     {
       "added_at": "2025-03-14 06:07:30",
@@ -2611,26 +2611,6 @@
     {
       "added_at": "2025-03-14 06:07:30",
       "album": {
-        "name": "1:59 (feat. Gunna)",
-        "url": "https://open.spotify.com/album/4QTPH0500WkMREPzyNYp9d"
-      },
-      "artists": [
-        {
-          "name": "Normani",
-          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 192089,
-      "name": "1:59 (feat. Gunna)",
-      "url": "https://open.spotify.com/track/4nncvBrXyuKNg5jfBnJ1dR"
-    },
-    {
-      "added_at": "2025-03-14 06:07:30",
-      "album": {
         "name": "Sugar Honey Iced Tea",
         "url": "https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp"
       },
@@ -2647,6 +2627,26 @@
       "duration_ms": 178160,
       "name": "Look What You Did (feat. Mariah the Scientist)",
       "url": "https://open.spotify.com/track/0oVazidxG4n1IZXv1Mizux"
+    },
+    {
+      "added_at": "2025-03-14 06:07:30",
+      "album": {
+        "name": "1:59 (feat. Gunna)",
+        "url": "https://open.spotify.com/album/4QTPH0500WkMREPzyNYp9d"
+      },
+      "artists": [
+        {
+          "name": "Normani",
+          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 192089,
+      "name": "1:59 (feat. Gunna)",
+      "url": "https://open.spotify.com/track/4nncvBrXyuKNg5jfBnJ1dR"
     },
     {
       "added_at": "2025-03-14 06:07:30",

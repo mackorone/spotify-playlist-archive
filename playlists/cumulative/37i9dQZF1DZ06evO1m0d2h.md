@@ -4,7 +4,7 @@
 
 > This is Sleep Token\. The essential tracks, all in one playlist.
 
-43 songs - 3 hr 34 min
+44 songs - 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,10 +12,11 @@
 | [Aqua Regia](https://open.spotify.com/track/5ub6Cb5yKmgGGwjvqZM1gI) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Take Me Back To Eden](https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY) | 3:56 | 2025-03-21 |  |
 | [Atlantic](https://open.spotify.com/track/0asMwoxaKllA4Cm791LGOW) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [This Place Will Become Your Tomb](https://open.spotify.com/album/4SD2UxRO9OgeSCQK0PN7cC) | 4:53 | 2025-03-21 |  |
 | [Calcutta](https://open.spotify.com/track/55H5OIdnR0H5MTsWfTP63E) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Two](https://open.spotify.com/album/0uJFMTUwVP3tunKmWC8INs) | 6:53 | 2025-03-21 |  |
-| [Caramel](https://open.spotify.com/track/3AdXwuFn7j21HNiFMXvZXt) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Caramel](https://open.spotify.com/album/22QZTpIU424yzyhqXnFi3m) | 4:50 | 2025-04-06 |  |
+| [Caramel](https://open.spotify.com/track/1QrbZhFYlViXd60g130vw1) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Even In Arcadia](https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj) | 4:50 | 2025-06-01 |  |
+| [Caramel](https://open.spotify.com/track/3AdXwuFn7j21HNiFMXvZXt) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Caramel](https://open.spotify.com/album/22QZTpIU424yzyhqXnFi3m) | 4:50 | 2025-04-06 | 2025-06-01 |
 | [Chokehold](https://open.spotify.com/track/1Uifdytv882RtTn6Gr4xAA) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Take Me Back To Eden](https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY) | 5:04 | 2025-05-12 |  |
 | [Damocles](https://open.spotify.com/track/1ulH5PIntNj0ro2K69W4Fx) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Damocles](https://open.spotify.com/album/5ariqOmY9FYLTn2HmXcwAw) | 4:24 | 2025-04-27 | 2025-05-27 |
-| [Damocles](https://open.spotify.com/track/3enIFKYJKSVyjXVzmup28I) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Even In Arcadia](https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj) | 4:24 | 2025-05-27 |  |
+| [Damocles](https://open.spotify.com/track/3enIFKYJKSVyjXVzmup28I) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Even In Arcadia](https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj) | 4:24 | 2025-05-27 | 2025-06-01 |
 | [Dangerous](https://open.spotify.com/track/105Fwh9wijwT41rrfgSnrE) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Even In Arcadia](https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj) | 4:11 | 2025-05-11 |  |
 | [Dark Signs](https://open.spotify.com/track/39I8byKcHBzTQbtbxTBSM7) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Sundowning](https://open.spotify.com/album/5XWsBMTe4JPtH4qmvYUm86) | 4:28 | 2025-03-21 |  |
 | [Emergence](https://open.spotify.com/track/5NRpxJxtR6JkUhQS4F0um6) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Emergence](https://open.spotify.com/album/7y5CGrH0FgyOVKFtqhCzPH) | 6:26 | 2025-03-21 | 2025-05-27 |

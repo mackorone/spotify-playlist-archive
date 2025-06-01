@@ -5207,6 +5207,28 @@
     },
     {
       "album": {
+        "name": "Charge Me",
+        "url": "https://open.spotify.com/album/7zLgI1FCDo4HXaH2if4lpy"
+      },
+      "artists": [
+        {
+          "name": "Xelatto",
+          "url": "https://open.spotify.com/artist/1ErECAI9eglssdmQo3muII"
+        },
+        {
+          "name": "knivesysl",
+          "url": "https://open.spotify.com/artist/4HgDMcGZhCANiEiWNGE32j"
+        }
+      ],
+      "date_added": "2025-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212464,
+      "name": "Charge Me",
+      "url": "https://open.spotify.com/track/5FqtdQtRMnfqSqYtpQ8dlB"
+    },
+    {
+      "album": {
         "name": "VSQ Performs the Hits of 2016, Vol. 2",
         "url": "https://open.spotify.com/album/10WHTghh38mVQRKNlk4rx8"
       },
@@ -6020,7 +6042,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-01",
       "duration_ms": 151823,
       "name": "COUSINS",
       "url": "https://open.spotify.com/track/20fYUtTl5xpG8xXPZkU0yT"
@@ -13692,7 +13714,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-01",
       "duration_ms": 149666,
       "name": "Illegal",
       "url": "https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG"
@@ -15982,10 +16004,32 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-01",
       "duration_ms": 175853,
       "name": "Lighter",
       "url": "https://open.spotify.com/track/0AMoopn68aGAAaJ9qFXPnX"
+    },
+    {
+      "album": {
+        "name": "Lights",
+        "url": "https://open.spotify.com/album/58US0k9s4PeMLsiSEnghgG"
+      },
+      "artists": [
+        {
+          "name": "JOXION",
+          "url": "https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U"
+        },
+        {
+          "name": "Carlyn",
+          "url": "https://open.spotify.com/artist/12D87T2sauvafmdyGDhu87"
+        }
+      ],
+      "date_added": "2025-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149793,
+      "name": "Lights",
+      "url": "https://open.spotify.com/track/48Kgy7vzliRbcQ3GAOPbsD"
     },
     {
       "album": {
@@ -18028,6 +18072,28 @@
       "duration_ms": 74378,
       "name": "misses",
       "url": "https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs"
+    },
+    {
+      "album": {
+        "name": "Missing Me",
+        "url": "https://open.spotify.com/album/32yzYpiIm30BXRtxZeeL17"
+      },
+      "artists": [
+        {
+          "name": "Reiny",
+          "url": "https://open.spotify.com/artist/7h94PcS9flGlPpsM66SD24"
+        },
+        {
+          "name": "EZIA",
+          "url": "https://open.spotify.com/artist/0NlGvbM8SmFXmaBb6pu1qg"
+        }
+      ],
+      "date_added": "2025-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166990,
+      "name": "Missing Me",
+      "url": "https://open.spotify.com/track/1xBR2d1dyj0UzVvSVcQNl7"
     },
     {
       "album": {
@@ -21772,7 +21838,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 142520,
-      "name": "Pretty Little Baby - Stereo Mix",
+      "name": "Pretty Little Baby",
       "url": "https://open.spotify.com/track/5GQPBzoRBDxcAjwSSluQXD"
     },
     {
@@ -21868,7 +21934,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-01",
       "duration_ms": 365904,
       "name": "Provider",
       "url": "https://open.spotify.com/track/7JVAVLkkhpKOp8g4jX5Z12"
@@ -31348,7 +31414,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-31",
+      "date_removed": null,
       "duration_ms": 228099,
       "name": "Your Body",
       "url": "https://open.spotify.com/track/1NKjc6bRHutPoaVtYclFC3"

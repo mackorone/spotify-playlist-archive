@@ -4,7 +4,7 @@
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: We Came As Romans
 
-1,246 songs - 3 day 4 hr 26 min
+1,248 songs - 3 day 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Asymmetry](https://open.spotify.com/track/3DKSM1HppHmGgEztFS5q2T) | [Eradicate Me](https://open.spotify.com/artist/1PqHlQtpYfnuWGNoWhZB6l) | [Asymmetry](https://open.spotify.com/album/5ArIhP5EoNogavKjUzWg89) | 3:13 | 2022-07-13 | 2022-07-23 |
 | [Atonement](https://open.spotify.com/track/0Y2kTZlKmbcsLSTHnLETBj) | [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc) | [Atonement](https://open.spotify.com/album/1npVe7YgkCKgg0zMj9dATV) | 3:57 | 2022-03-25 | 2022-05-28 |
 | [Atonement \- feat\. Will Ramos](https://open.spotify.com/track/6WuWxcSMhQ6ntve4zT84RF) | [Employed To Serve](https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64), [Will Ramos](https://open.spotify.com/artist/0LQyNolD82BRJeXoEr4bwa) | [Atonement \(feat\. Will Ramos\)](https://open.spotify.com/album/0pKIUiz87ZuuqW98B2NRuf) | 3:52 | 2025-01-31 |  |
-| [Avoider](https://open.spotify.com/track/0UueExT2SgmL0ULtxIYEcJ) | [ACCVSED](https://open.spotify.com/artist/4GeOwEvBs2fJYEIjWrxvZS) | [Avoider](https://open.spotify.com/album/2y0ayE8q891cQmUUsxOL18) | 3:42 | 2024-11-22 |  |
+| [Avoider](https://open.spotify.com/track/0UueExT2SgmL0ULtxIYEcJ) | [ACCVSED](https://open.spotify.com/artist/4GeOwEvBs2fJYEIjWrxvZS) | [Avoider](https://open.spotify.com/album/2y0ayE8q891cQmUUsxOL18) | 3:42 | 2024-11-22 | 2025-06-01 |
 | [Awake](https://open.spotify.com/track/7B5rQr5b0wyfH108vtVMUI) | [Devil In Me](https://open.spotify.com/artist/4iJJYo1VWZPEvJzE8YxXqL) | [On The Grind](https://open.spotify.com/album/5I8Uwe1MtN6WWMKVHo1IDM) | 2:56 | 2022-01-14 | 2022-02-26 |
 | [away](https://open.spotify.com/track/4rNn6vx1vmzJfr894A5bM7) | [Maelføy](https://open.spotify.com/artist/70Xhx9yjoKm0t3VmTYkrPp) | [away](https://open.spotify.com/album/0TWnG9BOpdFeMZAKTWFVUT) | 4:22 | 2022-12-16 | 2023-12-16 |
 | [Ba'al's Trick](https://open.spotify.com/track/1nR4FLzgzue7ik6GVrIGMo) | [God Complex](https://open.spotify.com/artist/4Ase9pfG4FCMoiuyRduc8k) | [He Watches In Silence](https://open.spotify.com/album/6n5MpqHgKg7ykbBrTAscI6) | 3:09 | 2025-03-31 | 2025-04-26 |
@@ -189,7 +189,7 @@
 | [Breaking Teeth](https://open.spotify.com/track/5zKVTDKvqGYxM2iQ3vod6R) | [Hollow Front](https://open.spotify.com/artist/50YmW8f4U5IxTIwYI9mGAe) | [The Fear Of Letting Go](https://open.spotify.com/album/1pBnOofvJbc481QcJVMuGy) | 2:33 | 2023-10-27 | 2024-08-13 |
 | [Breaks Me Down](https://open.spotify.com/track/0g0OCn2UZortZbRPiK5wNO) | [Employed To Serve](https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64) | [Breaks Me Down](https://open.spotify.com/album/3LrghDuiwiYfjyrIRTJZiH) | 4:26 | 2025-03-31 | 2025-05-09 |
 | [Bring Back The Noise](https://open.spotify.com/track/0yr5ueBWdLrLj7fGQArbnd) | [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [Bring Back The Noise](https://open.spotify.com/album/7yaFrxjzkynJH2jQ45vJs4) | 2:10 | 2023-12-06 | 2024-02-10 |
-| [Broken](https://open.spotify.com/track/75MIRMjPWIY43XZTIFUjG0) | [Prospective](https://open.spotify.com/artist/0HV13XD3wrHiWmP0vnLeuS) | [Broken](https://open.spotify.com/album/01aC7sE5ND2VgB7k4Vh2YL) | 2:49 | 2025-04-25 |  |
+| [Broken](https://open.spotify.com/track/75MIRMjPWIY43XZTIFUjG0) | [Prospective](https://open.spotify.com/artist/0HV13XD3wrHiWmP0vnLeuS) | [Broken](https://open.spotify.com/album/01aC7sE5ND2VgB7k4Vh2YL) | 2:49 | 2025-04-25 | 2025-06-01 |
 | [Broken Bloodlines](https://open.spotify.com/track/66HeAsE4CABgtGJxE8Fyg6) | [Defects](https://open.spotify.com/artist/1GcIqiLEyWGgVdglxShjZ3) | [Broken Bloodlines](https://open.spotify.com/album/0osYFo3GUQBBXDNA6i7XxM) | 4:36 | 2023-11-27 | 2024-04-13 |
 | [Broken Home](https://open.spotify.com/track/4V00WAiMJlBBniPTOUIWPo) | [Awake the Dreamer](https://open.spotify.com/artist/4cJLd39creVGWHUNKEXm5I) | [Broken Home](https://open.spotify.com/album/4CSFgqGQPjNXRTRmTrsd81) | 3:05 | 2024-03-27 | 2024-06-05 |
 | [Broken Homes](https://open.spotify.com/track/5jYBHfcAfmES6eVx695YEJ) | [Rising Insane](https://open.spotify.com/artist/7InRNmmQuAi5KGBFtfOkrf) | [Afterglow](https://open.spotify.com/album/0Rzu3mifln0xaAZ2pAUnm5) | 3:16 | 2021-12-17 | 2022-07-23 |
@@ -413,6 +413,7 @@
 | [Exsanguination](https://open.spotify.com/track/5jeWsgseKRQDC4FfK0SZ07) | [CABAL](https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO) | [Exsanguination](https://open.spotify.com/album/7Ms7mUx32uRNso6HyA87y0) | 3:20 | 2022-07-13 | 2022-07-23 |
 | [Eye 4 An Eye](https://open.spotify.com/track/1oWqGjFASBKce5ck6IHq2y) | [Not Enough Space](https://open.spotify.com/artist/4juvzVAyR0hOSQ7YfVMijK), [Dark Divine](https://open.spotify.com/artist/3CMyREgx8ZErRUydXlmCDX) | [Eye 4 An Eye](https://open.spotify.com/album/44QoptHxk6HLEYjKMg64PE) | 3:10 | 2025-04-25 |  |
 | [EYE TO EYE](https://open.spotify.com/track/532PgIpf93c12uY9SAWheS) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a) | [EYE TO EYE](https://open.spotify.com/album/52Bi5Euib8FrdsJLA7LsT1) | 3:53 | 2022-04-15 | 2022-07-23 |
+| [Eyes Above](https://open.spotify.com/track/2XB2Hp4JtKMUAqRHh6DNZc) | [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk) | [Eyes Above](https://open.spotify.com/album/1Kr1QMlJz1cTjg64SApE74) | 4:21 | 2025-05-30 |  |
 | [F\(r\)iends](https://open.spotify.com/track/4zGp7dN9ei7nLtSVonXL8C) | [Foxblood](https://open.spotify.com/artist/17pjImdVvIja9Es8R436NP) | [F\(r\)iends](https://open.spotify.com/album/6xLvex7tzo5G88NIVd9vTa) | 4:02 | 2021-12-17 | 2022-01-28 |
 | [F.E.A.R.](https://open.spotify.com/track/6WTPZHBPKc5TPargwge0CG) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [F.E.A.R.](https://open.spotify.com/album/4nVkCZ2krbppx1bBPTIw4m) | 3:13 | 2022-03-18 | 2022-04-15 |
 | [face.](https://open.spotify.com/track/0zX4S0PU6BG9UxHtaAx2jA) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi) | [face.](https://open.spotify.com/album/1pWnfUxBMWhF3TgWarYieF) | 2:21 | 2025-04-25 |  |
@@ -817,6 +818,7 @@
 | [Pain Remains I: Dancing Like Flames](https://open.spotify.com/track/4KyPlGyV6lfxOPHfBQpPZm) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Pain Remains I: Dancing Like Flames](https://open.spotify.com/album/2HRhcuqmyel4Zn92eeE3Cg) | 5:52 | 2022-09-16 | 2022-12-17 |
 | [Pain Remains II: After All I've Done, I'll Disappear](https://open.spotify.com/track/3CLV93SK84UzGD5EHm3vsT) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Pain Remains II: After All I've Done, I'll Disappear](https://open.spotify.com/album/7s8v300WVzKUhsATpx692e) | 5:36 | 2022-09-30 | 2022-12-17 |
 | [Pain Remains III: In a Sea of Fire](https://open.spotify.com/track/6wgKN7mUq1CvQBnQKzjeKt) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Pain Remains](https://open.spotify.com/album/1WuqlDJb7Z2ipBhM6ww7QI) | 9:12 | 2022-10-28 | 2022-12-17 |
+| [Palace Of Dread](https://open.spotify.com/track/28qVrI7GRtl3ljXt25DRnw) | [Thousand Below](https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN) | [Palace Of Dread](https://open.spotify.com/album/7wy4FlaT1ZxX8lp6KBWDM7) | 3:36 | 2025-05-30 |  |
 | [Pale Iris](https://open.spotify.com/track/5c3CJeTQO5oZqKdKRAqkg3) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [Pale Iris](https://open.spotify.com/album/3XIN5O8ioMsCQwumlx7QUt) | 4:23 | 2023-08-18 | 2024-02-10 |
 | [Pale Moonlight](https://open.spotify.com/track/1IQA1li1Io3D5WY6RNekD6) | [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Pale Moonlight](https://open.spotify.com/album/5ad8oCDDBwNymZEBEBNDJs) | 3:40 | 2025-04-25 |  |
 | [Pale Tongue](https://open.spotify.com/track/0gZ3mkOOapnWMkmwefrDzc) | [The Oklahoma Kid](https://open.spotify.com/artist/02Y9YvfIFsX1nG4qPuBbW6) | [Pale Tongue](https://open.spotify.com/album/6pgxhNnusTdUnOOuhiJKEK) | 3:36 | 2021-12-17 | 2022-03-18 |

@@ -4,7 +4,7 @@
 
 > Heat that will make you sweat 🥵 Cover: Myke Towers & Quevedo
 
-266 songs - 13 hr 42 min
+267 songs - 13 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [Nightshift](https://open.spotify.com/track/0X48LLpHYxS1u4JcBeq9m3) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Breakfast n Vegas](https://open.spotify.com/artist/0iwRZ9bQya1TDUAk5qN5YX) | [Nightshift](https://open.spotify.com/album/4giogCe206BY2QoMoqS1Vw) | 2:58 | 2022-02-16 | 2024-06-08 |
 | [No Eres Para Mí](https://open.spotify.com/track/72Vber9fOVazt2HqIr1NdW) | [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j) | [No Eres Para Mí](https://open.spotify.com/album/4ONJClRXnrFuy8cVamg8jg) | 3:20 | 2025-01-31 | 2025-05-10 |
 | [No Se Dio](https://open.spotify.com/track/4WJlDctOtjnZXgW49DM1Bs) | [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk), [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX), [The Prodigiez](https://open.spotify.com/artist/0ITff7REwQrTAlu9HsiWQT) | [No Se Dio](https://open.spotify.com/album/7qkFiccMKg5MaeuaznXLJF) | 2:48 | 2024-11-22 |  |
+| [No Te Soltaré](https://open.spotify.com/track/2A0m04EDTwS2V5VXYGuX8t) | [Miguel Bueno](https://open.spotify.com/artist/3frx2nsVBAA3DvbKTE9JeT) | [No Te Soltaré](https://open.spotify.com/album/5VBD9gdyGCL81c1mkww9p6) | 2:37 | 2025-05-30 |  |
 | [no tiene sentido](https://open.spotify.com/track/1HEwEN64NjgTaHmo7LfkX8) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [BORONDO](https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4) | 2:38 | 2025-05-16 |  |
 | [No Wahala \- Latin Remix](https://open.spotify.com/track/2wzmZNutkmbhv0rNCHvPz4) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [No Wahala \(Latin Remix\)](https://open.spotify.com/album/4QGp54NmocX8ptDWOJrRTz) | 2:37 | 2022-04-28 | 2024-09-21 |
 | [NoNoNo](https://open.spotify.com/track/2nHLeUWCPePxL12o5JbHzZ) | [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk) | [NoNoNo](https://open.spotify.com/album/3cVp5DmksK8HNLRn8gPGyh) | 2:30 | 2025-05-30 |  |
@@ -191,7 +192,7 @@
 | [Pretty GIRL](https://open.spotify.com/track/2lW7JV6gBtF6vApavqbzGG) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4) | [a new star \(1 9 9 3\)](https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4) | 1:56 | 2024-10-11 |  |
 | [PROVENZA](https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [PROVENZA](https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y) | 3:30 | 2022-05-03 | 2022-09-07 |
 | [PUERTO ESCONDIDO](https://open.spotify.com/track/60v76pgmo7qSx0sgz0HzOc) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [PLANES DE MEDIANOCHE](https://open.spotify.com/album/5RWEssac5Dun4RvxolSjlX) | 3:28 | 2024-09-20 |  |
-| [QSV](https://open.spotify.com/track/73ZE0Dmy5FsfiMUECtehzG) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [QSV](https://open.spotify.com/album/07ouadyCgIvGlbHgJu7BE1) | 2:05 | 2025-02-28 |  |
+| [QSV](https://open.spotify.com/track/73ZE0Dmy5FsfiMUECtehzG) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [QSV](https://open.spotify.com/album/07ouadyCgIvGlbHgJu7BE1) | 2:05 | 2025-02-28 | 2025-06-01 |
 | [RD](https://open.spotify.com/track/5MVCWWnNKaWnVMaCvj6TKU) | [Alejandro Armes](https://open.spotify.com/artist/3J9eSTe3nQKjuMyoiO2XSi), [Soyneel](https://open.spotify.com/artist/1XwiLNR93MJwbV5Akl9lyQ), [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg) | [RD](https://open.spotify.com/album/1w9zzcVrDWAafs2358gIYN) | 2:46 | 2024-10-18 | 2025-03-08 |
 | [REAL GANGSTA LOVE](https://open.spotify.com/track/1pymWRCuZfCd0zdiBJo0Hj) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [EL ÚLTIMO BAILE](https://open.spotify.com/album/3EWJoKrG9XnCjvAPzkQZ88) | 2:25 | 2024-06-07 | 2024-11-02 |
 | [RIO](https://open.spotify.com/track/3FyLmihMU6uQ8DZ8haZWe0) | [BCA](https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf) | [RIO](https://open.spotify.com/album/1NT5O5w81WoYyOU233kn6i) | 2:47 | 2024-09-20 | 2025-02-08 |

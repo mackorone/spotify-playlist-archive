@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0iKz6qu5KoKo2vjBaqe8Z0">Julia Michaels</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-353 songs - 19 hr 27 min
+354 songs - 19 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,6 +295,7 @@
 | [Sports car](https://open.spotify.com/track/4il87YHqSV9UqbBkXM7z7m) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 2:45 | 2025-02-23 | 2025-03-20 |
 | [Sports car](https://open.spotify.com/track/5UJbgR4XF4y1DvbkxEqe8S) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/07V9HO6Djetw5j5lXPylLd) | 2:45 | 2025-03-19 |  |
 | [Stained](https://open.spotify.com/track/7xVjKU6399E5F3b68C0Mk2) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [I Said I Love You First...](https://open.spotify.com/album/6mfLgMAN1pZTa2o4LjVGjX) | 3:29 | 2025-04-19 |  |
+| [Strangers](https://open.spotify.com/track/701MqraZ3kyR5uXRyU6iN3) | [17 Memphis](https://open.spotify.com/artist/4vqV8IpWyagD7V8RjMO63g) | [17 MEMPHIS FOREVER](https://open.spotify.com/album/2XYynyaDxQk1h2d6vWv4iI) | 4:23 | 2025-05-31 |  |
 | [Surefire](https://open.spotify.com/track/34JBZjGLUZonoqFjtbC31v) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [DARKNESS AND LIGHT](https://open.spotify.com/album/7xMjYDrgPLp1ReFGAOyS1O) | 4:03 | 2025-01-09 | 2025-04-12 |
 | [Surrender](https://open.spotify.com/track/0bmB3nzQuHBfI6nM4SETVu) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF) | [Blood, Sweat & 3 Years](https://open.spotify.com/album/1TgJXcoFJ7BN0NiViN7wtx) | 3:28 | 2025-01-09 | 2025-04-12 |
 | [Sway](https://open.spotify.com/track/6yV9zIvGXvFzB964tdq65x) | [White Knight Instrumental](https://open.spotify.com/artist/46mFShagVGedAtk3aIxg4l) | [Instrumental Covers of the Pussycat Dolls](https://open.spotify.com/album/5uACZWBERupfGnOHQmuoxi) | 3:13 | 2023-12-30 |  |

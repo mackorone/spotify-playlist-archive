@@ -1,13 +1,29 @@
 {
-  "description": "#fyp\n",
-  "num_followers": 743565,
+  "description": "Paris c'est magique, c'est trop ma ville, \u00e7a bouge de tous les c\u00f4t\u00e9s #fyp\n",
+  "num_followers": 744620,
   "original_name": "t'as la ref ?",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDjZBQAAAADyPt1boUVyK9tINMx8DOCF",
+  "snapshot_id": "aDupbwAAAAA2faJFrB4LPKl/bOTiiglw",
   "tracks": [
+    {
+      "added_at": "2025-04-15 10:15:06",
+      "album": {
+        "name": "Paris",
+        "url": "https://open.spotify.com/album/6oA8BfOJmuXqrHNCb2JfeZ"
+      },
+      "artists": [
+        {
+          "name": "Nono La Grinta",
+          "url": "https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN"
+        }
+      ],
+      "duration_ms": 172259,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/6ctcVdXaJKn5LVFDjMBqzc"
+    },
     {
       "added_at": "2025-05-14 10:08:08",
       "album": {
@@ -75,22 +91,6 @@
       "duration_ms": 185693,
       "name": "Los Angeles",
       "url": "https://open.spotify.com/track/4GB4R2CJe5kLrjWTusDR8p"
-    },
-    {
-      "added_at": "2025-04-15 10:15:06",
-      "album": {
-        "name": "Paris",
-        "url": "https://open.spotify.com/album/6oA8BfOJmuXqrHNCb2JfeZ"
-      },
-      "artists": [
-        {
-          "name": "Nono La Grinta",
-          "url": "https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN"
-        }
-      ],
-      "duration_ms": 172259,
-      "name": "Paris",
-      "url": "https://open.spotify.com/track/6ctcVdXaJKn5LVFDjMBqzc"
     },
     {
       "added_at": "2025-03-28 11:40:53",
@@ -1001,7 +1001,7 @@
         }
       ],
       "duration_ms": 142520,
-      "name": "Pretty Little Baby - Stereo Mix",
+      "name": "Pretty Little Baby",
       "url": "https://open.spotify.com/track/5GQPBzoRBDxcAjwSSluQXD"
     },
     {

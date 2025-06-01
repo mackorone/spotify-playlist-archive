@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 
 > Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: Sami G, Badd G
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,101 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,116 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 | 44 | [Te văd în trecut](https://open.spotify.com/track/3kl91tdXeshmSSMFUNS6fd) | [Bvcovia](https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR), [Ian](https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om) | [Te văd în trecut](https://open.spotify.com/album/4BJUgkCCs9y1bswEb28zV0) | 3:52 |
 | 45 | [Poate](https://open.spotify.com/track/70WFlv0Amzke8MgjfM5MUu) | [Endru](https://open.spotify.com/artist/53fCgT8kcL8Wj6VJ7oyu0l), [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP) | [Blur](https://open.spotify.com/album/4nET5AKAwCz0ooYa7QdNmV) | 2:32 |
 | 46 | [Dernière Cigarette](https://open.spotify.com/track/4ULGWCPPadrpPvWdumBHG1) | [Francis On My Mind](https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc), [Killa Fonic](https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl) | [Dernière Cigarette](https://open.spotify.com/album/7rU1pJ3SlmgdVMBoyIeaDy) | 2:54 |
-| 47 | [BOSS](https://open.spotify.com/track/5EGtEaDy1AZnMxtymaqc3e) | [DZWS](https://open.spotify.com/artist/5ChWT8CfHjk2PnRG70ZgWV) | [BOSS](https://open.spotify.com/album/18IepYLuiT5JJHYymFiEw8) | 1:30 |
-| 48 | [SPARGEM](https://open.spotify.com/track/3pLP7SbHC2qatQduBdgEc4) | [Aerozen](https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9), [Killa Fonic](https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl) | [NOTSOZEN](https://open.spotify.com/album/0oAlEarGdHNBAUbkWwnhjK) | 2:56 |
+| 47 | [SPARGEM](https://open.spotify.com/track/3pLP7SbHC2qatQduBdgEc4) | [Aerozen](https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9), [Killa Fonic](https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl) | [NOTSOZEN](https://open.spotify.com/album/0oAlEarGdHNBAUbkWwnhjK) | 2:56 |
+| 48 | [BOSS](https://open.spotify.com/track/5EGtEaDy1AZnMxtymaqc3e) | [DZWS](https://open.spotify.com/artist/5ChWT8CfHjk2PnRG70ZgWV) | [BOSS](https://open.spotify.com/album/18IepYLuiT5JJHYymFiEw8) | 1:30 |
 | 49 | [Am Zis Ceva](https://open.spotify.com/track/2u52GXrozwZePQ6EIVgz8C) | [B.U.G\. Mafia](https://open.spotify.com/artist/4RAbHb0oHO62If4S7h18L0), [Lexi Cali](https://open.spotify.com/artist/7oqOWykH5AIFKctpogZEG8) | [Am Zis Ceva](https://open.spotify.com/album/3pwj7bk6zW9DCIlSPQYzDY) | 4:07 |
 | 50 | [POVESTEA NOASTRA](https://open.spotify.com/track/2IuPe40fG60s3MEV7JvpRN) | [RENVTØ](https://open.spotify.com/artist/6dOVLJkdeIanQ5atoUbwZR), [Calinacho](https://open.spotify.com/artist/050D4ZE1dXVfLSrQADtEu3) | [POVESTEA NOASTRA](https://open.spotify.com/album/0OyBGc5qeRRXiYJMweI4Kd) | 3:46 |
 

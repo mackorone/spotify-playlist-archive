@@ -4,7 +4,7 @@
 
 > Shake up your wake up with a selection of feel good songs that will get you bouncing out the door.
 
-1,501 songs - 3 day 13 hr 9 min
+1,502 songs - 3 day 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -601,7 +601,7 @@
 | [I Like Me Better](https://open.spotify.com/track/1wjzFQodRWrPcQ0AnYnvQ9) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I Like Me Better](https://open.spotify.com/album/7l6fTSFvlumnPFpOSrbnDV) | 3:17 | 2019-08-10 | 2022-04-07 |
 | [I Like Me Better](https://open.spotify.com/track/2P91MQbaiQOfbiz9VqhqKQ) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/7lqieLm717j9Z8JrG7POkS) | 3:17 | 2022-07-28 | 2022-11-02 |
 | [I Like The Way](https://open.spotify.com/track/5c8gnM9rNbdgLkeeQAZAKb) | [Tyron Hapi](https://open.spotify.com/artist/5aSBbBUbArJfyNKDg4KS1I), [Liam Ferrari](https://open.spotify.com/artist/3dkie6yywJJVPCTO4b5AP9) | [I Like The Way](https://open.spotify.com/album/5x5Dd6XXDMZj3xhc50fi9I) | 2:51 | 2019-08-04 | 2019-08-27 |
-| [I Like You \(A Happier Song\) \(with Doja Cat\)](https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 3:12 | 2022-07-28 |  |
+| [I Like You \(A Happier Song\) \(with Doja Cat\)](https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 3:12 | 2022-07-28 | 2025-06-01 |
 | [I Look to You \(feat\. Kimbra\)](https://open.spotify.com/track/3gbHGPcyp2j8MgfmcLt8KP) | [Miami Horror](https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [Illumination](https://open.spotify.com/album/3y1akfRVCV7LQGYfqJ9WV9) | 3:53 | 2019-08-04 | 2022-04-16 |
 | [I Love It](https://open.spotify.com/track/2Y91CHd6heFQ5mPUQgQtzv) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [I Love It](https://open.spotify.com/album/5elKTTPv5p7qc0aMcPWJjf) | 3:50 | 2020-10-23 | 2022-04-14 |
 | [I Love It \(feat\. Charli XCX\)](https://open.spotify.com/track/2U8NXPTXZWG2O0ye2sYRiH) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [THIS IS..\. ICONA POP](https://open.spotify.com/album/3qpAHoOLWeXRNTaGzeYf13) | 2:37 | 2021-05-20 |  |
@@ -1508,6 +1508,7 @@
 | [Young Hearts Run Free](https://open.spotify.com/track/3MFa9idQuY4iJLWsZl3tIQ) | [Candi Staton](https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et) | [Young Hearts Run Free \(US Internet Release\)](https://open.spotify.com/album/39ntuIhbcC8rsmRV2qXkmZ) | 4:08 | 2019-08-01 | 2022-04-18 |
 | [Younger](https://open.spotify.com/track/4D7ERaKgv8NAeck8RzUtRz) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [Younger](https://open.spotify.com/album/26IuzA897QHyOQVYBWXtTD) | 3:14 | 2019-09-16 | 2022-04-17 |
 | [Your Side Of The Bed](https://open.spotify.com/track/4foROzWuWa3fED6jc6BjK1) | [Loote](https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ) | [Your Side Of The Bed](https://open.spotify.com/album/1d5V2PHFCl12zR60fMIgAs) | 3:17 | 2021-05-13 | 2021-05-21 |
+| [Zombie Lady](https://open.spotify.com/track/1fUZ5sHQqV6AMCwV5KtbgV) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [FUNNY little FEARS](https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa) | 3:08 | 2025-05-26 |  |
 | [Zoom](https://open.spotify.com/track/6NbBnoVYvVlcz2UQc1Zb6d) | [Kota Banks](https://open.spotify.com/artist/6qjD8KqRe2dyNBsq1RcpaT) | [Zoom](https://open.spotify.com/album/54ACL5VRxFZ8R1MkKGjQL3) | 3:55 | 2019-08-06 | 2019-08-08 |
 
 \*This playlist was first scraped on 2019-07-29. Prior content cannot be recovered.

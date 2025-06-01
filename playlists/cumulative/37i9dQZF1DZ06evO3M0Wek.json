@@ -251,6 +251,24 @@
     },
     {
       "album": {
+        "name": "Everest",
+        "url": "https://open.spotify.com/album/4frviFPPh65QTlBHlEaNTQ"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "date_added": "2025-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287633,
+      "name": "Everest",
+      "url": "https://open.spotify.com/track/5rZLkmdMY0T0PnUnmfUQoB"
+    },
+    {
+      "album": {
         "name": "Halestorm (Deluxe)",
         "url": "https://open.spotify.com/album/5iMlDARMRcsRn0hvFMgDfS"
       },

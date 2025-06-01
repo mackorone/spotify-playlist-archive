@@ -1,6 +1,6 @@
 {
   "description": "Nacimos para rodar en el asfalto. ",
-  "num_followers": 165393,
+  "num_followers": 165515,
   "original_name": "Las Choppers",
   "owner": {
     "name": "Spotify",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2025-05-16 06:00:12",
       "album": {
-        "name": "By a Monster's Hand",
-        "url": "https://open.spotify.com/album/1UySfuZwFqzldyUFqvogi7"
-      },
-      "artists": [
-        {
-          "name": "Volbeat",
-          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
-        }
-      ],
-      "duration_ms": 222960,
-      "name": "By a Monster's Hand",
-      "url": "https://open.spotify.com/track/1h837MpNwbxLmbozm54JgE"
-    },
-    {
-      "added_at": "2025-05-16 06:00:12",
-      "album": {
         "name": "Call of the Road",
         "url": "https://open.spotify.com/album/6dpXsAdnOQ0bsoruJ3feOr"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 228729,
       "name": "Paso Del Norte",
       "url": "https://open.spotify.com/track/61Yf3loolg5aCeIiIlaPkv"
+    },
+    {
+      "added_at": "2025-05-16 06:00:12",
+      "album": {
+        "name": "By a Monster's Hand",
+        "url": "https://open.spotify.com/album/1UySfuZwFqzldyUFqvogi7"
+      },
+      "artists": [
+        {
+          "name": "Volbeat",
+          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+        }
+      ],
+      "duration_ms": 222960,
+      "name": "By a Monster's Hand",
+      "url": "https://open.spotify.com/track/1h837MpNwbxLmbozm54JgE"
     },
     {
       "added_at": "2025-05-16 06:00:12",

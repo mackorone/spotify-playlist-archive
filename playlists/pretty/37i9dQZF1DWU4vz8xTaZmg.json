@@ -1,6 +1,6 @@
 {
   "description": "Hacele honor al domingo y terminalo bien arriba.",
-  "num_followers": 73348,
+  "num_followers": 73355,
   "original_name": "Antidomingo",
   "owner": {
     "name": "Spotify",
@@ -159,6 +159,22 @@
     {
       "added_at": "2025-04-04 03:00:17",
       "album": {
+        "name": "Black Holes and Revelations",
+        "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 212439,
+      "name": "Supermassive Black Hole",
+      "url": "https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9"
+    },
+    {
+      "added_at": "2025-04-04 03:00:17",
+      "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 244444,
       "name": "Otro Atardecer",
       "url": "https://open.spotify.com/track/0E0DRHf5PfMeor0ZCwB3oT"
-    },
-    {
-      "added_at": "2025-04-04 03:00:17",
-      "album": {
-        "name": "Black Holes and Revelations",
-        "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 212439,
-      "name": "Supermassive Black Hole",
-      "url": "https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9"
     },
     {
       "added_at": "2025-04-04 03:00:17",
@@ -443,22 +443,6 @@
     {
       "added_at": "2025-04-04 03:00:17",
       "album": {
-        "name": "In Utero",
-        "url": "https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "duration_ms": 233173,
-      "name": "All Apologies",
-      "url": "https://open.spotify.com/track/1Ic9pKxGSJGM0LKeqf6lGe"
-    },
-    {
-      "added_at": "2025-04-04 03:00:17",
-      "album": {
         "name": "KIRK",
         "url": "https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 159714,
       "name": "BOP",
       "url": "https://open.spotify.com/track/6Ozh9Ok6h4Oi1wUSLtBseN"
+    },
+    {
+      "added_at": "2025-04-04 03:00:17",
+      "album": {
+        "name": "In Utero",
+        "url": "https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 233173,
+      "name": "All Apologies",
+      "url": "https://open.spotify.com/track/1Ic9pKxGSJGM0LKeqf6lGe"
     },
     {
       "added_at": "2025-04-04 03:00:17",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2025-04-04 03:00:17",
       "album": {
-        "name": "Bonus Trap",
-        "url": "https://open.spotify.com/album/7IAJrYDUHZhIGXY6pY1GPX"
-      },
-      "artists": [
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        }
-      ],
-      "duration_ms": 133880,
-      "name": "Bounce",
-      "url": "https://open.spotify.com/track/3EO0tGvdBCw6vdChaNvVlc"
-    },
-    {
-      "added_at": "2025-04-04 03:00:17",
-      "album": {
         "name": "Revenge Of The Dreamers III",
         "url": "https://open.spotify.com/album/2n3quCZ0anEa46j2IveacI"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 169146,
       "name": "Down Bad (feat. JID, Bas, J. Cole, EARTHGANG & Young Nudy)",
       "url": "https://open.spotify.com/track/36J0iaPDGbYGsHvYpaYs3k"
+    },
+    {
+      "added_at": "2025-04-04 03:00:17",
+      "album": {
+        "name": "Bonus Trap",
+        "url": "https://open.spotify.com/album/7IAJrYDUHZhIGXY6pY1GPX"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "duration_ms": 133880,
+      "name": "Bounce",
+      "url": "https://open.spotify.com/track/3EO0tGvdBCw6vdChaNvVlc"
     },
     {
       "added_at": "2025-04-04 03:00:17",
@@ -1299,30 +1299,6 @@
     {
       "added_at": "2025-04-04 03:00:17",
       "album": {
-        "name": "JACKBOYS",
-        "url": "https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 244873,
-      "name": "HIGHEST IN THE ROOM (feat. ROSAL\u00cdA & Lil Baby) - REMIX",
-      "url": "https://open.spotify.com/track/7h0d2h0fUmzbs7zeFigJPn"
-    },
-    {
-      "added_at": "2025-04-04 03:00:17",
-      "album": {
         "name": "Revenge Of The Dreamers III",
         "url": "https://open.spotify.com/album/2n3quCZ0anEa46j2IveacI"
       },
@@ -1371,6 +1347,30 @@
       "duration_ms": 217866,
       "name": "Costa Rica (with Bas & JID feat. Guapdad 4000, Reese LAFLARE, Jace, Mez, Smokepurpp, Buddy & Ski Mask The Slump God)",
       "url": "https://open.spotify.com/track/5WnfnSpuNEGXyEt78PBA6d"
+    },
+    {
+      "added_at": "2025-04-04 03:00:17",
+      "album": {
+        "name": "JACKBOYS",
+        "url": "https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 244873,
+      "name": "HIGHEST IN THE ROOM (feat. ROSAL\u00cdA & Lil Baby) - REMIX",
+      "url": "https://open.spotify.com/track/7h0d2h0fUmzbs7zeFigJPn"
     },
     {
       "added_at": "2025-04-04 03:00:17",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2025-04-04 03:00:17",
       "album": {
+        "name": "El Mal Querer",
+        "url": "https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 193767,
+      "name": "PIENSO EN TU MIR\u00c1 - Cap.3: Celos",
+      "url": "https://open.spotify.com/track/5r8mGKhCDIVWb3AG4hm0l0"
+    },
+    {
+      "added_at": "2025-04-04 03:00:17",
+      "album": {
         "name": "Cicuta (Remix)",
         "url": "https://open.spotify.com/album/5d10y3nytevf7kBa4xEHpi"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 169932,
       "name": "Cicuta - Remix",
       "url": "https://open.spotify.com/track/6qqeq1UoryAxgud2JfF76t"
-    },
-    {
-      "added_at": "2025-04-04 03:00:17",
-      "album": {
-        "name": "El Mal Querer",
-        "url": "https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 193767,
-      "name": "PIENSO EN TU MIR\u00c1 - Cap.3: Celos",
-      "url": "https://open.spotify.com/track/5r8mGKhCDIVWb3AG4hm0l0"
     },
     {
       "added_at": "2025-04-04 03:00:17",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2025-04-04 03:00:17",
       "album": {
-        "name": "A Trav\u00e9s del Mar de los Sargazos",
-        "url": "https://open.spotify.com/album/3eES9LlGLw5o7ZNbOfmscZ"
-      },
-      "artists": [
-        {
-          "name": "Skay Beilinson",
-          "url": "https://open.spotify.com/artist/4K8Mrjr9IvA8QU0Vjj4BED"
-        }
-      ],
-      "duration_ms": 272480,
-      "name": "Oda a la Sin Nombre",
-      "url": "https://open.spotify.com/track/5l6HQ03qnofn7Us7cADWQg"
-    },
-    {
-      "added_at": "2025-04-04 03:00:17",
-      "album": {
         "name": "It's Only Rock 'N' Roll (2009 Re-Mastered)",
         "url": "https://open.spotify.com/album/4jCpSNa8dV40aMrHOshRdv"
       },
@@ -1791,22 +1775,38 @@
     {
       "added_at": "2025-04-04 03:00:17",
       "album": {
-        "name": "OSCURO \u00c9XTASIS",
-        "url": "https://open.spotify.com/album/0fYhjxeRFdXp6s8R9hUXKt"
+        "name": "A Trav\u00e9s del Mar de los Sargazos",
+        "url": "https://open.spotify.com/album/3eES9LlGLw5o7ZNbOfmscZ"
       },
       "artists": [
         {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
-        },
-        {
-          "name": "Ricardo Mollo",
-          "url": "https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7"
+          "name": "Skay Beilinson",
+          "url": "https://open.spotify.com/artist/4K8Mrjr9IvA8QU0Vjj4BED"
         }
       ],
-      "duration_ms": 215717,
-      "name": "CULPA",
-      "url": "https://open.spotify.com/track/0BTJ7QpDRjinzAy8KQMAp8"
+      "duration_ms": 272480,
+      "name": "Oda a la Sin Nombre",
+      "url": "https://open.spotify.com/track/5l6HQ03qnofn7Us7cADWQg"
+    },
+    {
+      "added_at": "2025-04-04 03:00:17",
+      "album": {
+        "name": "Bad Habits (Deluxe)",
+        "url": "https://open.spotify.com/album/31lHUoHC3P6BRFzKYLyRJO"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        }
+      ],
+      "duration_ms": 148278,
+      "name": "Tap (feat. Meek Mill)",
+      "url": "https://open.spotify.com/track/5rU6kDNXZLXIinFezpbWbO"
     },
     {
       "added_at": "2025-04-04 03:00:17",
@@ -1831,22 +1831,22 @@
     {
       "added_at": "2025-04-04 03:00:17",
       "album": {
-        "name": "Bad Habits (Deluxe)",
-        "url": "https://open.spotify.com/album/31lHUoHC3P6BRFzKYLyRJO"
+        "name": "OSCURO \u00c9XTASIS",
+        "url": "https://open.spotify.com/album/0fYhjxeRFdXp6s8R9hUXKt"
       },
       "artists": [
         {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
         },
         {
-          "name": "Meek Mill",
-          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+          "name": "Ricardo Mollo",
+          "url": "https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7"
         }
       ],
-      "duration_ms": 148278,
-      "name": "Tap (feat. Meek Mill)",
-      "url": "https://open.spotify.com/track/5rU6kDNXZLXIinFezpbWbO"
+      "duration_ms": 215717,
+      "name": "CULPA",
+      "url": "https://open.spotify.com/track/0BTJ7QpDRjinzAy8KQMAp8"
     }
   ],
   "unique_name": "Antidomingo",

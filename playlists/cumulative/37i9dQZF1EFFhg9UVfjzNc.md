@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5JjUlPENcVZsqsYpaLmlDl">Hananiel Eduardo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-120 songs - 12 hr 30 min
+121 songs - 12 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Que O Incenso Suba](https://open.spotify.com/track/6jJPimdOkKWRSukmtRsBwi) | [Som Do Reino](https://open.spotify.com/artist/4Bei91U4XakJsOUQVxH2Cq), [Fernanda Ferro](https://open.spotify.com/artist/080EtCY2JWqzfNFmEJUW3x), [Brunão Morada](https://open.spotify.com/artist/2UYElmGKAPwNwfJw6i11Xm) | [Som Do Secreto Vol\. 2: Noite](https://open.spotify.com/album/3FhUryFU39lZCMX7JOB0qt) | 12:55 | 2022-06-04 | 2022-09-23 |
 | [Que Se Abram Os Portais](https://open.spotify.com/track/1R5utqC4ZIyIyjmmw52OuI) | [Fernanda Ferro](https://open.spotify.com/artist/080EtCY2JWqzfNFmEJUW3x) | [Céu na Terra](https://open.spotify.com/album/6um3WlqCMSWWT8auIqxtlG) | 4:54 | 2023-12-13 |  |
 | [Que Se Abram Os Portais](https://open.spotify.com/track/5gZnueD5I3JuMbEhKpUJkM) | [Fernanda Ferro](https://open.spotify.com/artist/080EtCY2JWqzfNFmEJUW3x) | [Céu na Terra](https://open.spotify.com/album/3bM19aM6LDYAOgltBjLdHK) | 4:54 | 2022-06-04 | 2023-12-14 |
+| [Quem é Ele \- Ao Vivo](https://open.spotify.com/track/7sbw0RaD6nxalNUtjAcKnB) | [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Quem é Ele \(Ao Vivo\)](https://open.spotify.com/album/7kWHlrt0U9mKj9cUzbFwqu) | 6:39 | 2025-05-31 |  |
 | [Quero Voltar](https://open.spotify.com/track/1xSjU3nI8pLdqjNQXzl7We) | [Heloisa Rosa](https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM) | [Quero Voltar](https://open.spotify.com/album/2rFKtCU44yhwgUmDxDqcGT) | 5:46 | 2022-09-22 |  |
 | [Quero Voltar Pra Casa \- Ao Vivo](https://open.spotify.com/track/1Tox82hir9fKOLRl70XeD3) | [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [Quero Voltar Pra Casa \(Ao Vivo\)](https://open.spotify.com/album/6FIiRvqyMBVUwM5M0H5Bh4) | 6:05 | 2022-09-22 |  |
 | [Rei da Glória \- Ao Vivo](https://open.spotify.com/track/5bkQg34pw8HgHEWIHVrR9a) | [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P), [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Noite de Adoração II \(Ao Vivo\)](https://open.spotify.com/album/2CeWFrnYgd41qj5qf7TXnp) | 8:33 | 2023-12-13 |  |

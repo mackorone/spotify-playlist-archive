@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Mexico.
 
-2,939 songs - 6 day 14 hr 53 min
+2,940 songs - 6 day 14 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [530](https://open.spotify.com/track/2tPNj9sUt3FbjEUqBzZazv) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 2](https://open.spotify.com/album/5RV2TNyjylqWJNxQyHBTeJ) | 4:49 | 2024-08-14 | 2024-08-17 |
 | [530](https://open.spotify.com/track/4hm8BZ7nLceFNZUexWTxx4) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 2](https://open.spotify.com/album/2LaSVrn1EJc9ouFyp69g4e) | 4:49 | 2024-08-05 | 2024-08-07 |
 | [6 A.M.](https://open.spotify.com/track/5axSTOstQDAbVdq4fUTJdP) | [princesa cereza](https://open.spotify.com/artist/607kbpXirULyTo1jdRtooo), [Kontax](https://open.spotify.com/artist/3Gm9VUAvppr5ROz0u73tMi) | [6 A.M.](https://open.spotify.com/album/0smv8Q6YbBf6takvymTyad) | 3:03 | 2023-04-15 | 2023-04-19 |
-| [6 DE FEBRERO](https://open.spotify.com/track/2TCUMmklsJTLWHnoU4mSQ4) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [6 DE FEBRERO](https://open.spotify.com/album/6sD0JDqmxDkCDs74Jy6wFu) | 2:55 | 2025-05-20 |  |
+| [6 DE FEBRERO](https://open.spotify.com/track/2TCUMmklsJTLWHnoU4mSQ4) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [6 DE FEBRERO](https://open.spotify.com/album/6sD0JDqmxDkCDs74Jy6wFu) | 2:55 | 2025-05-20 | 2025-06-01 |
+| [6 DE FEBRERO](https://open.spotify.com/track/6l18mUHOGVZRr5wTyITX0M) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [CUARTO AZUL](https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M) | 2:55 | 2025-05-31 |  |
 | [7 DIAS](https://open.spotify.com/track/5Z75FvRFiultmPFWHx5jQ7) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [7 DIAS](https://open.spotify.com/album/5BoeqKVMi7D4S6U38rWjS4) | 3:00 | 2025-02-18 | 2025-05-14 |
 | [7 Lágrimas \- Remix](https://open.spotify.com/track/3wlX0yg6NRMDPwOvdPmuLn) | [Soge Culebra](https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [GARABATTO](https://open.spotify.com/artist/6JaOGIlSvYswVLPmGUheOO) | [7 Lágrimas \(Remix\)](https://open.spotify.com/album/3SPDYewQ7iwqYuLVoDOTQl) | 3:22 | 2022-03-18 | 2022-04-17 |
 | [77 Angel Almaguer](https://open.spotify.com/track/79reQovbSmetBVuyVeSkM0) | [Mendivil Deluxe](https://open.spotify.com/artist/4Lm6nlrCSu6AGQ5GVpXXGV), [Medinabxgl](https://open.spotify.com/artist/5rHlcc8S7n4CJkYt0yVpY8), [Krimbgxl](https://open.spotify.com/artist/33jaQRu0w53XWIgj10gV2d) | [77 Angel Almaguer](https://open.spotify.com/album/0VmQOngfKltLZnLNVGfn75) | 2:19 | 2025-04-18 | 2025-04-19 |
@@ -2056,7 +2057,7 @@
 | [Presidente Maynez](https://open.spotify.com/track/6PtEhVBuy0MoA8atP89ayv) | [Moises Sala](https://open.spotify.com/artist/1sth04bKfg3QYDyJtDn0Pz) | [Presidente Maynez](https://open.spotify.com/album/23sk6rAZ1t7xBcCctNNFft) | 0:59 | 2024-04-12 | 2024-04-14 |
 | [Presidente Máynez](https://open.spotify.com/track/3Ho5XNmNpwGOKSH4HdZjvr) | [Yuawi](https://open.spotify.com/artist/66UIukhrbr70OyzyeDQ2sO) | [Presidente Máynez](https://open.spotify.com/album/5kGCZRrJfpnhfc1S8jjTz1) | 1:02 | 2024-04-08 | 2024-04-13 |
 | [Presidente Máynez](https://open.spotify.com/track/6cg23mlI5CaV7CmQ3R150q) | [Yuawi](https://open.spotify.com/artist/66UIukhrbr70OyzyeDQ2sO) | [Presidente Máynez](https://open.spotify.com/album/6eB1qedmb2LX2uF1O4ZiEW) | 1:02 | 2024-04-13 | 2024-06-11 |
-| [Pretty Little Baby \- Stereo Mix](https://open.spotify.com/track/5GQPBzoRBDxcAjwSSluQXD) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Connie Francis Sings Second Hand Love & Other Hits](https://open.spotify.com/album/6CTiCTGft53NcVMsAxxgCQ) | 2:22 | 2025-05-15 |  |
+| [Pretty Little Baby](https://open.spotify.com/track/5GQPBzoRBDxcAjwSSluQXD) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Connie Francis Sings Second Hand Love & Other Hits](https://open.spotify.com/album/6CTiCTGft53NcVMsAxxgCQ) | 2:22 | 2025-05-15 |  |
 | [Primera Cita](https://open.spotify.com/track/25OeKzcqakFPaJlXHPE5lm) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4) | 3:06 | 2023-05-20 | 2023-10-29 |
 | [Primera Cita](https://open.spotify.com/track/4mGrWfDISjNjgeQnH1B8IE) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Primera Cita](https://open.spotify.com/album/4BeF1IA1ufJtzgOgqx3a9Z) | 3:06 | 2023-05-16 | 2023-05-21 |
 | [PRIMO](https://open.spotify.com/track/1RkkjNnU8I4PDrzkZHECWf) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [PRIMO](https://open.spotify.com/album/1fazhvRXDXyxNJ1hIm1VBa) | 2:44 | 2024-07-23 | 2024-08-01 |

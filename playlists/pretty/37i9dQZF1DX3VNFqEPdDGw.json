@@ -1,6 +1,6 @@
 {
   "description": "Bhangra is our pride, Bhangra is our culture. Cover: Gurnam Bhullar &  Geet Goraya",
-  "num_followers": 214248,
+  "num_followers": 214297,
   "original_name": "Bhangra Bangers",
   "owner": {
     "name": "Spotify",
@@ -895,18 +895,22 @@
     {
       "added_at": "2025-05-30 18:14:32",
       "album": {
-        "name": "Dil Mangeya",
-        "url": "https://open.spotify.com/album/28ywZDkr21jPzMhLKmtars"
+        "name": "Love War",
+        "url": "https://open.spotify.com/album/7niG4VWSQ5H2E0GZbNBNuQ"
       },
       "artists": [
         {
-          "name": "Sajjan Adeeb",
-          "url": "https://open.spotify.com/artist/10cESI2qXWXWxfkeomFOON"
+          "name": "Jassa Dhillon",
+          "url": "https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd"
+        },
+        {
+          "name": "Gur Sidhu",
+          "url": "https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5"
         }
       ],
-      "duration_ms": 159049,
-      "name": "Dil Mangeya",
-      "url": "https://open.spotify.com/track/14gr2kwucVsBHtLYhzgYpj"
+      "duration_ms": 191253,
+      "name": "Alone Jatt",
+      "url": "https://open.spotify.com/track/7I9VVV5IfzvW6yIuxUtxKj"
     },
     {
       "added_at": "2025-05-30 18:14:32",
@@ -927,22 +931,18 @@
     {
       "added_at": "2025-05-30 18:14:32",
       "album": {
-        "name": "Love War",
-        "url": "https://open.spotify.com/album/7niG4VWSQ5H2E0GZbNBNuQ"
+        "name": "Dil Mangeya",
+        "url": "https://open.spotify.com/album/28ywZDkr21jPzMhLKmtars"
       },
       "artists": [
         {
-          "name": "Jassa Dhillon",
-          "url": "https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd"
-        },
-        {
-          "name": "Gur Sidhu",
-          "url": "https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5"
+          "name": "Sajjan Adeeb",
+          "url": "https://open.spotify.com/artist/10cESI2qXWXWxfkeomFOON"
         }
       ],
-      "duration_ms": 191253,
-      "name": "Alone Jatt",
-      "url": "https://open.spotify.com/track/7I9VVV5IfzvW6yIuxUtxKj"
+      "duration_ms": 159049,
+      "name": "Dil Mangeya",
+      "url": "https://open.spotify.com/track/14gr2kwucVsBHtLYhzgYpj"
     },
     {
       "added_at": "2025-05-30 18:14:32",
@@ -1179,6 +1179,30 @@
     {
       "added_at": "2025-05-30 18:14:32",
       "album": {
+        "name": "Badmashi (feat. Gurlez Akhtar)",
+        "url": "https://open.spotify.com/album/0N2q3zfrzjDL8xHKuoqir3"
+      },
+      "artists": [
+        {
+          "name": "Mankirt Aulakh",
+          "url": "https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr"
+        },
+        {
+          "name": "Desi Crew",
+          "url": "https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2"
+        },
+        {
+          "name": "Gurlez Akhtar",
+          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+        }
+      ],
+      "duration_ms": 158329,
+      "name": "Badmashi (feat. Gurlez Akhtar)",
+      "url": "https://open.spotify.com/track/23WL7wGsgqhINOShpCxdK5"
+    },
+    {
+      "added_at": "2025-05-30 18:14:32",
+      "album": {
         "name": "Taras",
         "url": "https://open.spotify.com/album/1EI0EvDSSGa1v6DPpNFEAx"
       },
@@ -1207,46 +1231,6 @@
     {
       "added_at": "2025-05-30 18:14:32",
       "album": {
-        "name": "Badmashi (feat. Gurlez Akhtar)",
-        "url": "https://open.spotify.com/album/0N2q3zfrzjDL8xHKuoqir3"
-      },
-      "artists": [
-        {
-          "name": "Mankirt Aulakh",
-          "url": "https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr"
-        },
-        {
-          "name": "Desi Crew",
-          "url": "https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2"
-        },
-        {
-          "name": "Gurlez Akhtar",
-          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
-        }
-      ],
-      "duration_ms": 158329,
-      "name": "Badmashi (feat. Gurlez Akhtar)",
-      "url": "https://open.spotify.com/track/23WL7wGsgqhINOShpCxdK5"
-    },
-    {
-      "added_at": "2025-05-30 18:14:32",
-      "album": {
-        "name": "Taseer",
-        "url": "https://open.spotify.com/album/0JIuAPqkhqfYn3GFeQ5KMu"
-      },
-      "artists": [
-        {
-          "name": "Jass Bajwa",
-          "url": "https://open.spotify.com/artist/4ziCsS6bX7D9e5cuCVRktx"
-        }
-      ],
-      "duration_ms": 162758,
-      "name": "Taseer",
-      "url": "https://open.spotify.com/track/6Av8FV73LpMQP4rPt8EhEu"
-    },
-    {
-      "added_at": "2025-05-30 18:14:32",
-      "album": {
         "name": "Munda Inj Da Nahi",
         "url": "https://open.spotify.com/album/64hOWWXcdDmcknzrlgH59u"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 168888,
       "name": "Munda Inj Da Nahi",
       "url": "https://open.spotify.com/track/2tcqtUZtO8ObxtTVMP5hqf"
+    },
+    {
+      "added_at": "2025-05-30 18:14:32",
+      "album": {
+        "name": "Taseer",
+        "url": "https://open.spotify.com/album/0JIuAPqkhqfYn3GFeQ5KMu"
+      },
+      "artists": [
+        {
+          "name": "Jass Bajwa",
+          "url": "https://open.spotify.com/artist/4ziCsS6bX7D9e5cuCVRktx"
+        }
+      ],
+      "duration_ms": 162758,
+      "name": "Taseer",
+      "url": "https://open.spotify.com/track/6Av8FV73LpMQP4rPt8EhEu"
     },
     {
       "added_at": "2025-05-30 18:14:32",
@@ -1615,30 +1615,22 @@
     {
       "added_at": "2025-05-30 18:14:32",
       "album": {
-        "name": "Mankirt Aulakh Vol. 1",
-        "url": "https://open.spotify.com/album/1LzjSBsrxFGlhHTjvTNtP8"
+        "name": "4 Mint",
+        "url": "https://open.spotify.com/album/7KNDPUiabecXfUPdLK29Ti"
       },
       "artists": [
         {
-          "name": "Mankirt Aulakh",
-          "url": "https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr"
+          "name": "Nawab",
+          "url": "https://open.spotify.com/artist/1fTMfqHcXtTa0G42Wu7qH5"
         },
         {
-          "name": "Avvy Sra",
-          "url": "https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN"
-        },
-        {
-          "name": "Preeta",
-          "url": "https://open.spotify.com/artist/2vReVSLJlBhhBjDfRTPXM8"
-        },
-        {
-          "name": "Jassi Lokha",
-          "url": "https://open.spotify.com/artist/7b3rjmmJDDL9bzJhLkdmdr"
+          "name": "Gurlez Akhtar",
+          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
         }
       ],
-      "duration_ms": 152093,
-      "name": "Khauf",
-      "url": "https://open.spotify.com/track/1siJv8irHMPacI36HR4TIG"
+      "duration_ms": 254537,
+      "name": "4 Mint",
+      "url": "https://open.spotify.com/track/6D9Eq8SmDpTAw3vlUhYrZ3"
     },
     {
       "added_at": "2025-05-30 18:14:32",
@@ -1691,22 +1683,30 @@
     {
       "added_at": "2025-05-30 18:14:32",
       "album": {
-        "name": "4 Mint",
-        "url": "https://open.spotify.com/album/7KNDPUiabecXfUPdLK29Ti"
+        "name": "Mankirt Aulakh Vol. 1",
+        "url": "https://open.spotify.com/album/1LzjSBsrxFGlhHTjvTNtP8"
       },
       "artists": [
         {
-          "name": "Nawab",
-          "url": "https://open.spotify.com/artist/1fTMfqHcXtTa0G42Wu7qH5"
+          "name": "Mankirt Aulakh",
+          "url": "https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr"
         },
         {
-          "name": "Gurlez Akhtar",
-          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+          "name": "Avvy Sra",
+          "url": "https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN"
+        },
+        {
+          "name": "Preeta",
+          "url": "https://open.spotify.com/artist/2vReVSLJlBhhBjDfRTPXM8"
+        },
+        {
+          "name": "Jassi Lokha",
+          "url": "https://open.spotify.com/artist/7b3rjmmJDDL9bzJhLkdmdr"
         }
       ],
-      "duration_ms": 254537,
-      "name": "4 Mint",
-      "url": "https://open.spotify.com/track/6D9Eq8SmDpTAw3vlUhYrZ3"
+      "duration_ms": 152093,
+      "name": "Khauf",
+      "url": "https://open.spotify.com/track/1siJv8irHMPacI36HR4TIG"
     },
     {
       "added_at": "2025-05-30 18:14:32",

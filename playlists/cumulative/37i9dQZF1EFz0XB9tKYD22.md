@@ -4,14 +4,14 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Co1jvHSQ9FFXOEY0TdPHQ">Hillary Lindsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-390 songs - 23 hr 7 min
+391 songs - 23 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(No One's Gonna\) Break Me Down](https://open.spotify.com/track/67xenxD9QjNqTN85yt6eU1) | [Wynonna](https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1) | [What The World Needs Now Is Love](https://open.spotify.com/album/3Jx9WXotFej9KE0AlOLPUN) | 3:16 | 2024-02-27 |  |
 | [1x1](https://open.spotify.com/track/3E25cZhRlHVWrmfstuc9H9) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [1x1](https://open.spotify.com/album/4bK3rdCDBq8D7VXtdtg3cR) | 3:12 | 2024-02-27 | 2024-07-12 |
 | [1x1](https://open.spotify.com/track/3WzkONrbRHl4h8lyQiEOj2) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [1x1](https://open.spotify.com/album/4tFhgNCbU19lXjYkIMFw8T) | 3:12 | 2024-07-11 |  |
-| [23 Degrees And South](https://open.spotify.com/track/3eKwcOjuBr5xKwuguvUIYE) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [We Are Tonight](https://open.spotify.com/album/1UrEMAvTDJdsJsZdsBux4h) | 4:00 | 2024-02-27 | 2025-05-28 |
+| [23 Degrees And South](https://open.spotify.com/track/3eKwcOjuBr5xKwuguvUIYE) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [We Are Tonight](https://open.spotify.com/album/1UrEMAvTDJdsJsZdsBux4h) | 4:00 | 2024-02-27 |  |
 | [538 Stars](https://open.spotify.com/track/0f87YpSjkrL5TkumwPW0kN) | [Tara Oram](https://open.spotify.com/artist/0XOiK5F7wta3jBwX7pNqd9) | [Chasing The Sun](https://open.spotify.com/album/5mnwATZQWZMX3ORKbm4gdH) | 3:41 | 2024-02-27 |  |
 | [A Beautiful Noise](https://open.spotify.com/track/4Z8DyhYIN47p8LgrPVOYeL) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 3:19 | 2024-02-27 |  |
 | [A\-YO](https://open.spotify.com/track/6Az2Ll2CPnWYQ2BgiHf4Di) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Joanne \(Deluxe\)](https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh) | 3:27 | 2024-02-27 |  |
@@ -52,7 +52,7 @@
 | [Broken Umbrella](https://open.spotify.com/track/5y9AGed2pNT9QwN26J1CwS) | [Jojo Mason](https://open.spotify.com/artist/4IXAxCHuarvDtv7K0NS6x6) | [Broken Umbrella](https://open.spotify.com/album/6cP0I03XgX7eE0NGRR6DVV) | 2:43 | 2024-11-29 |  |
 | [Built for Heartbreak](https://open.spotify.com/track/6QJsDO7ZyX7EwVWPSkQc4b) | [Jameson Rodgers](https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN) | [Built for Heartbreak](https://open.spotify.com/album/6XPnwkFbKwUntx4NQKUdt3) | 3:21 | 2024-02-27 |  |
 | [Burn](https://open.spotify.com/track/6vYx683y1hTyS8vCujGANA) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 3:10 | 2024-02-27 |  |
-| [Burn](https://open.spotify.com/track/235ocf9mxXmf8kCxRfFc7I) | [Janajana](https://open.spotify.com/artist/1PMgco8DXnVuk4Lr1cw1rR) | [Typical Girl](https://open.spotify.com/album/6zjIhOAyWgjOCHXwTVpzWo) | 3:29 | 2024-03-05 | 2025-05-30 |
+| [Burn](https://open.spotify.com/track/235ocf9mxXmf8kCxRfFc7I) | [Janajana](https://open.spotify.com/artist/1PMgco8DXnVuk4Lr1cw1rR) | [Typical Girl](https://open.spotify.com/album/6zjIhOAyWgjOCHXwTVpzWo) | 3:29 | 2024-03-05 |  |
 | [Burn It Down](https://open.spotify.com/track/09hVlIVHtEE1nLUv6YGZiW) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Never Enough](https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf) | 3:53 | 2024-02-27 |  |
 | [Buy My Own Drinks](https://open.spotify.com/track/6LhZAoMfux3P3DUxwOI7aG) | [Runaway June](https://open.spotify.com/artist/7yPbJOX7olhT3ynAyuj3Zl) | [Blue Roses](https://open.spotify.com/album/3HNVxd2fKr94wkdhyLH5nf) | 3:22 | 2024-02-27 |  |
 | [Can't Be Replaced](https://open.spotify.com/track/6A3zkf3PbkhibQTWcb5RFu) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Black](https://open.spotify.com/album/2GIrLP0PWskhZAJaHQtDux) | 5:40 | 2024-02-27 |  |
@@ -354,7 +354,8 @@
 | [tryin' to love you](https://open.spotify.com/track/3kvmNifP422VOXbXrAVoYR) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [shot in the dark](https://open.spotify.com/album/7H5STZn8rbg58X1Q69Rifk) | 2:57 | 2024-07-11 |  |
 | [Tumble And Fall](https://open.spotify.com/track/5yIhd010M1qEjc8AmkFcak) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Pain Killer](https://open.spotify.com/album/49lwR8y1i51wrQRnhw5C3H) | 4:41 | 2024-02-27 |  |
 | [Two Birds](https://open.spotify.com/track/4dXYpeXEDUAB9PONc1hT1A) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [The Balladeer](https://open.spotify.com/album/34xmomKNR5tpBWAseLhmgX) | 3:28 | 2024-02-27 |  |
-| [Unapologetic](https://open.spotify.com/track/5rAirKlcsH0bNbAkvegKmg) | [Tanya Stephens](https://open.spotify.com/artist/0vL0HKEtNHGobKmDNarMFQ) | [Guilty](https://open.spotify.com/album/3VFLjNPxe2cg7cUuXlhVGF) | 3:52 | 2024-02-27 |  |
+| [Unapologetic](https://open.spotify.com/track/2P4PAaEKtIjqW5tLFcWB8G) | [Tanya Stephens](https://open.spotify.com/artist/0vL0HKEtNHGobKmDNarMFQ) | [Guilty](https://open.spotify.com/album/5coEOP2NFVBU7rhPcPlutT) | 3:52 | 2025-05-31 |  |
+| [Unapologetic](https://open.spotify.com/track/5rAirKlcsH0bNbAkvegKmg) | [Tanya Stephens](https://open.spotify.com/artist/0vL0HKEtNHGobKmDNarMFQ) | [Guilty](https://open.spotify.com/album/3VFLjNPxe2cg7cUuXlhVGF) | 3:52 | 2024-02-27 | 2025-06-01 |
 | [Unapologetically](https://open.spotify.com/track/2qeMy5mI5ovLGG6rUYnjj7) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Unapologetically](https://open.spotify.com/album/76TPKafjzyzB1PjXOuvRtT) | 3:38 | 2024-02-27 |  |
 | [Velvet Heartbreak](https://open.spotify.com/track/2MvjNZWNBKX7VWkYUxRBTJ) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 3:03 | 2024-02-27 |  |
 | [Very Last Moment](https://open.spotify.com/track/1bBAJgx4JDLPYScXI5dT4w) | [Sarah](https://open.spotify.com/artist/1pXZuLeyr0RA7LbPseIyWb) | [Best Of](https://open.spotify.com/album/5uDE90KLWavZPTXJ5skm79) | 4:09 | 2025-01-09 | 2025-04-12 |

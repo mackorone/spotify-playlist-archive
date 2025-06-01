@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: Rise Against
 
-1,594 songs - 3 day 19 hr 48 min
+1,595 songs - 3 day 19 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [ANYTHING > HUMAN](https://open.spotify.com/track/7I50EtrBjzjZmHwLj7BeFl) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V), [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [CONCRETE JUNGLE \[THE OST\]](https://open.spotify.com/album/4syhGzikXsrKqlOUA9s9ld) | 3:55 | 2024-06-02 |  |
 | [Apologies](https://open.spotify.com/track/3iTgpxcDmPDMw0n9IJYG3S) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Apologies](https://open.spotify.com/album/2OXvqcP3PvhUs9PTd39AkY) | 3:06 | 2025-05-08 |  |
 | [Aren't We Ever Gonna Be More Than Friends?](https://open.spotify.com/track/2Sj1jnHcrphTjyuQ5KQwnC) | [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [Aren't We Ever Gonna Be More Than Friends?](https://open.spotify.com/album/5L1U7MJpibUUZkF9ndBdDL) | 2:49 | 2023-07-27 | 2023-08-04 |
-| [Arm's Length](https://open.spotify.com/track/5rrwj9g1c4kwnPSnsXP7g3) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Arm's Length](https://open.spotify.com/album/4RCqRkyKtCcOlBMaq12WFn) | 3:59 | 2025-01-23 |  |
+| [Arm's Length](https://open.spotify.com/track/5rrwj9g1c4kwnPSnsXP7g3) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Arm's Length](https://open.spotify.com/album/4RCqRkyKtCcOlBMaq12WFn) | 3:59 | 2025-01-23 | 2025-06-01 |
 | [Armageddon](https://open.spotify.com/track/2vGdoV7Cp8HcLTtFVaXkOw) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Armageddon](https://open.spotify.com/album/2upzE8LFUkusltO5v5SeTV) | 3:33 | 2023-05-18 | 2023-06-02 |
 | [Arrows](https://open.spotify.com/track/35r4qfODdAxAUuDl7VRE8C) | [Capstan](https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE), [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [nulla.](https://open.spotify.com/album/2w0oUtRdOjhPPS30TcJi4X) | 3:35 | 2023-12-14 | 2023-12-22 |
 | [Artefact \(feat\. León Larregui\)](https://open.spotify.com/track/2XvRfxK4qTbX9ZOloiomxv) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Artefact \(feat\. León Larregui\)](https://open.spotify.com/album/1xknqSH8BF4brwlQlDjk0L) | 3:21 | 2023-11-16 | 2023-12-15 |
@@ -1247,6 +1247,7 @@
 | [Sometimes, I Swear](https://open.spotify.com/track/0koN5ovIrxSXrO7QJXQB4Y) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Sometimes, I Swear](https://open.spotify.com/album/64PIFHc0VXzd9sbkbSJfeU) | 3:38 | 2023-10-12 | 2023-10-20 |
 | [Son of a Gun](https://open.spotify.com/track/1R7bF2Oyyprr6BkMJhk9Yw) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Son of a Gun \(feat\. K.Flay\) / Starting Over](https://open.spotify.com/album/3ASVlbTNAtaWwROK1pK4u2) | 3:13 | 2023-11-09 | 2023-11-24 |
 | [Song 2 \- 2012 Remaster](https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur \(Special Edition\)](https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q) | 2:01 | 2023-03-16 | 2023-05-19 |
+| [Song 3](https://open.spotify.com/track/7eDUTBIo76AMC5UYqkkzDL) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m) | [Song 3](https://open.spotify.com/album/0Cxa2LwLEBIpVglPWwiias) | 3:34 | 2025-05-29 |  |
 | [SONGS](https://open.spotify.com/track/0l93cYkJLTiSgHSBGful5p) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [Songs](https://open.spotify.com/album/5KCNofx4mr0Blk7WXGiPXU) | 2:47 | 2024-02-22 | 2024-03-01 |
 | [Sooner](https://open.spotify.com/track/2VKilJaIWvpUswtBiW3GfL) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [UGLY](https://open.spotify.com/album/0zKG6mYOsobBuhlBqgnGRs) | 2:54 | 2023-03-16 | 2023-04-14 |
 | [Sorry](https://open.spotify.com/track/3GE4nEO4GiELDyiE3gtkNH) | [Normandie](https://open.spotify.com/artist/1zsOttiR3VjZRnw4Iq8Zg6) | [Sorry](https://open.spotify.com/album/5VeQYezyQidkmtJhzog4SF) | 3:01 | 2024-01-04 | 2024-01-26 |

@@ -1,6 +1,6 @@
 {
   "description": "Alegra tu d\u00eda con lo m\u00e1s pop para la ma\u00f1ana.",
-  "num_followers": 1035539,
+  "num_followers": 1035542,
   "original_name": "Despierta y Sonr\u00ede",
   "owner": {
     "name": "Spotify",
@@ -251,6 +251,38 @@
     {
       "added_at": "2025-05-23 04:00:46",
       "album": {
+        "name": "BORONDO",
+        "url": "https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 158036,
+      "name": "no tiene sentido",
+      "url": "https://open.spotify.com/track/1HEwEN64NjgTaHmo7LfkX8"
+    },
+    {
+      "added_at": "2025-05-23 04:00:46",
+      "album": {
+        "name": "I Want It That Way",
+        "url": "https://open.spotify.com/album/4oDR12BRsPVfQznhclvUbs"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "duration_ms": 156500,
+      "name": "I Want It That Way",
+      "url": "https://open.spotify.com/track/7CSQp9T3JtkjQGPmpR1vTb"
+    },
+    {
+      "added_at": "2025-05-23 04:00:46",
+      "album": {
         "name": "Volver",
         "url": "https://open.spotify.com/album/6f8MqmZx3H4khLNI6YH69s"
       },
@@ -275,22 +307,6 @@
     {
       "added_at": "2025-05-23 04:00:46",
       "album": {
-        "name": "I Want It That Way",
-        "url": "https://open.spotify.com/album/4oDR12BRsPVfQznhclvUbs"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        }
-      ],
-      "duration_ms": 156500,
-      "name": "I Want It That Way",
-      "url": "https://open.spotify.com/track/7CSQp9T3JtkjQGPmpR1vTb"
-    },
-    {
-      "added_at": "2025-05-23 04:00:46",
-      "album": {
         "name": "Soltera",
         "url": "https://open.spotify.com/album/0VRb8B2ls0GDEfmKiL8FWJ"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 214642,
       "name": "Soltera",
       "url": "https://open.spotify.com/track/3OJDtCdYs8QJnui708tEU3"
-    },
-    {
-      "added_at": "2025-05-23 04:00:46",
-      "album": {
-        "name": "BORONDO",
-        "url": "https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4"
-      },
-      "artists": [
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 158036,
-      "name": "no tiene sentido",
-      "url": "https://open.spotify.com/track/1HEwEN64NjgTaHmo7LfkX8"
     },
     {
       "added_at": "2025-05-23 04:00:46",
@@ -679,26 +679,6 @@
     {
       "added_at": "2025-05-23 04:00:46",
       "album": {
-        "name": ".mp3",
-        "url": "https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        },
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 140625,
-      "name": "La_Original.mp3",
-      "url": "https://open.spotify.com/track/6Es8Sk3xe1HiJ2MXCfHHwR"
-    },
-    {
-      "added_at": "2025-05-23 04:00:46",
-      "album": {
         "name": "B\u00e9same",
         "url": "https://open.spotify.com/album/0jmILM3yDH04Forg1iU1Kl"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 202285,
       "name": "B\u00e9same",
       "url": "https://open.spotify.com/track/0TsqrYn4ta8Xkvez2oHx7B"
+    },
+    {
+      "added_at": "2025-05-23 04:00:46",
+      "album": {
+        "name": ".mp3",
+        "url": "https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 140625,
+      "name": "La_Original.mp3",
+      "url": "https://open.spotify.com/track/6Es8Sk3xe1HiJ2MXCfHHwR"
     },
     {
       "added_at": "2025-05-23 04:00:46",
@@ -771,6 +771,22 @@
     {
       "added_at": "2025-05-23 04:00:46",
       "album": {
+        "name": "Ya Es Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/3ImR4LsUQPbMKCa8FCuFYO"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 186581,
+      "name": "Vuelvo A Ti",
+      "url": "https://open.spotify.com/track/2WgzOFCUFCQbpINnhOAFjF"
+    },
+    {
+      "added_at": "2025-05-23 04:00:46",
+      "album": {
         "name": "Mi Reina",
         "url": "https://open.spotify.com/album/5XyQiU6uGEXoQqx9fjVXU9"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 183891,
       "name": "Mi Reina",
       "url": "https://open.spotify.com/track/2melyaF5DpV1MFCSiZHhNB"
-    },
-    {
-      "added_at": "2025-05-23 04:00:46",
-      "album": {
-        "name": "Ya Es Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/3ImR4LsUQPbMKCa8FCuFYO"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 186581,
-      "name": "Vuelvo A Ti",
-      "url": "https://open.spotify.com/track/2WgzOFCUFCQbpINnhOAFjF"
     },
     {
       "added_at": "2025-05-23 04:00:46",
@@ -835,6 +835,46 @@
       "duration_ms": 174369,
       "name": "Cupido",
       "url": "https://open.spotify.com/track/04ndZkbKGthTgYSv3xS7en"
+    },
+    {
+      "added_at": "2025-05-23 04:00:46",
+      "album": {
+        "name": "saman\u00e1",
+        "url": "https://open.spotify.com/album/1WlUsQsnYw5aANItfBxFRR"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        }
+      ],
+      "duration_ms": 160575,
+      "name": "saman\u00e1",
+      "url": "https://open.spotify.com/track/3JkqRmM1gWmIZajzcz6lhW"
+    },
+    {
+      "added_at": "2025-05-23 04:00:46",
+      "album": {
+        "name": "Faltas T\u00fa",
+        "url": "https://open.spotify.com/album/0ZNk0pIBMIIDgutlALp6ia"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 201836,
+      "name": "Faltas T\u00fa",
+      "url": "https://open.spotify.com/track/4mIc3AQWkqLb2LVjkVKv4K"
     },
     {
       "added_at": "2025-05-23 04:00:46",
@@ -903,22 +943,6 @@
     {
       "added_at": "2025-05-23 04:00:46",
       "album": {
-        "name": "Faltas T\u00fa",
-        "url": "https://open.spotify.com/album/0ZNk0pIBMIIDgutlALp6ia"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 201836,
-      "name": "Faltas T\u00fa",
-      "url": "https://open.spotify.com/track/4mIc3AQWkqLb2LVjkVKv4K"
-    },
-    {
-      "added_at": "2025-05-23 04:00:46",
-      "album": {
         "name": "\u00bfQui\u00e9n trae las cornetas?",
         "url": "https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3"
       },
@@ -935,30 +959,6 @@
       "duration_ms": 191825,
       "name": "Hora Loca",
       "url": "https://open.spotify.com/track/3lfjd8A0DkB84yrvjzkbry"
-    },
-    {
-      "added_at": "2025-05-23 04:00:46",
-      "album": {
-        "name": "saman\u00e1",
-        "url": "https://open.spotify.com/album/1WlUsQsnYw5aANItfBxFRR"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        },
-        {
-          "name": "Yorghaki",
-          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
-        }
-      ],
-      "duration_ms": 160575,
-      "name": "saman\u00e1",
-      "url": "https://open.spotify.com/track/3JkqRmM1gWmIZajzcz6lhW"
     },
     {
       "added_at": "2025-05-23 04:00:46",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2025-05-23 04:00:46",
       "album": {
-        "name": "LLYLM",
-        "url": "https://open.spotify.com/album/44mKxp7RB6x5O19VWqEXEm"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 174044,
-      "name": "LLYLM",
-      "url": "https://open.spotify.com/track/2SiAcexM2p1yX6joESbehd"
-    },
-    {
-      "added_at": "2025-05-23 04:00:46",
-      "album": {
         "name": "SAN BLAS",
         "url": "https://open.spotify.com/album/0FftKMxAvrnFuynmLCvjQ0"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 148906,
       "name": "san blaS",
       "url": "https://open.spotify.com/track/5I2MsBzDR7YmFG9W5SAWYg"
+    },
+    {
+      "added_at": "2025-05-23 04:00:46",
+      "album": {
+        "name": "LLYLM",
+        "url": "https://open.spotify.com/album/44mKxp7RB6x5O19VWqEXEm"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 174044,
+      "name": "LLYLM",
+      "url": "https://open.spotify.com/track/2SiAcexM2p1yX6joESbehd"
     },
     {
       "added_at": "2025-05-23 04:00:46",
@@ -1407,26 +1407,6 @@
     {
       "added_at": "2025-05-23 04:00:46",
       "album": {
-        "name": "Insomnio",
-        "url": "https://open.spotify.com/album/2zwuaAuKxwrYX0MXSJQQmB"
-      },
-      "artists": [
-        {
-          "name": "Abraham Mateo",
-          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 185546,
-      "name": "Bailarina",
-      "url": "https://open.spotify.com/track/3MTzCXM4r6yTOLhiuIaRfh"
-    },
-    {
-      "added_at": "2025-05-23 04:00:46",
-      "album": {
         "name": "Buenos D\u00edas",
         "url": "https://open.spotify.com/album/4bmS0E4xk96TPMC9MXc9Xv"
       },
@@ -1447,6 +1427,26 @@
       "duration_ms": 199826,
       "name": "Buenos D\u00edas",
       "url": "https://open.spotify.com/track/2MxHuZWC99rsELX9SrCW7K"
+    },
+    {
+      "added_at": "2025-05-23 04:00:46",
+      "album": {
+        "name": "Insomnio",
+        "url": "https://open.spotify.com/album/2zwuaAuKxwrYX0MXSJQQmB"
+      },
+      "artists": [
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 185546,
+      "name": "Bailarina",
+      "url": "https://open.spotify.com/track/3MTzCXM4r6yTOLhiuIaRfh"
     },
     {
       "added_at": "2025-05-23 04:00:46",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2025-05-23 04:00:46",
       "album": {
-        "name": "\u00bfEs En Serio?",
-        "url": "https://open.spotify.com/album/7rQ3fjpTE0HmW4VzvmH4M5"
-      },
-      "artists": [
-        {
-          "name": "Ela Taubert",
-          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
-        }
-      ],
-      "duration_ms": 193342,
-      "name": "\u00bfEs En Serio?",
-      "url": "https://open.spotify.com/track/3r07z9A7JX3Hb6btVCPisu"
-    },
-    {
-      "added_at": "2025-05-23 04:00:46",
-      "album": {
         "name": "ULALA (OOH LA LA)",
         "url": "https://open.spotify.com/album/2Q5KWXl6UAl8HLkJLXnEwP"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 130220,
       "name": "Tortura",
       "url": "https://open.spotify.com/track/675DR08jG1zTyPjNoSUTY7"
+    },
+    {
+      "added_at": "2025-05-23 04:00:46",
+      "album": {
+        "name": "\u00bfEs En Serio?",
+        "url": "https://open.spotify.com/album/7rQ3fjpTE0HmW4VzvmH4M5"
+      },
+      "artists": [
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+        }
+      ],
+      "duration_ms": 193342,
+      "name": "\u00bfEs En Serio?",
+      "url": "https://open.spotify.com/track/3r07z9A7JX3Hb6btVCPisu"
     },
     {
       "added_at": "2025-05-23 04:00:46",

@@ -1101,6 +1101,24 @@
     },
     {
       "album": {
+        "name": "H\u00e5ll k\u00e4ften",
+        "url": "https://open.spotify.com/album/6JxwMTYthxwIo7eVYow8uD"
+      },
+      "artists": [
+        {
+          "name": "Kerstin Ljungstr\u00f6m",
+          "url": "https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe"
+        }
+      ],
+      "date_added": "2025-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "H\u00e5ll k\u00e4ften",
+      "url": "https://open.spotify.com/track/4R3XhLS8ozkyVPwaneQSkv"
+    },
+    {
+      "album": {
         "name": "Unsent Letters",
         "url": "https://open.spotify.com/album/5SSlfIyW1noqLGrqiwTGR4"
       },
@@ -2200,10 +2218,36 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-01",
       "duration_ms": 236863,
       "name": "White Horses (feat. Crooked Bangs)",
       "url": "https://open.spotify.com/track/5un6PotHxYF298PlqoYqPI"
+    },
+    {
+      "album": {
+        "name": "ORIGIN (The Remixes)",
+        "url": "https://open.spotify.com/album/6kxKaYy67SxASrkZ5E79Wn"
+      },
+      "artists": [
+        {
+          "name": "Frank Walker",
+          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
+        },
+        {
+          "name": "Crooked Bangs",
+          "url": "https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu"
+        },
+        {
+          "name": "Ryos",
+          "url": "https://open.spotify.com/artist/7us9kFadl2fztbHSvlNk6M"
+        }
+      ],
+      "date_added": "2025-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182812,
+      "name": "White Horses - Ryos Remix",
+      "url": "https://open.spotify.com/track/0tG1o2RLhw6kLma6EjWxIw"
     },
     {
       "album": {

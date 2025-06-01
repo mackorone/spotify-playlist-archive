@@ -1,12 +1,12 @@
 {
   "description": "This is Edith M\u00e1rquez. The essential tracks, all in one playlist.",
-  "num_followers": 84220,
+  "num_followers": 84222,
   "original_name": "This Is Edith M\u00e1rquez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDejgAAAAABc2IrFR+bXQ5NB/oLntNYQ",
+  "snapshot_id": "aDj1AAAAAAAxYOyc2z8ClIxaEfzLLkCC",
   "tracks": [
     {
       "added_at": null,
@@ -23,22 +23,6 @@
       "duration_ms": 179013,
       "name": "T\u00fa Me Obligaste",
       "url": "https://open.spotify.com/track/2U5AymDbKKdUncaaGGi3Jt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Amor Eterno",
-        "url": "https://open.spotify.com/album/7grFNupMrSIfmdGd5WDBNW"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 286820,
-      "name": "Amor Eterno",
-      "url": "https://open.spotify.com/track/6zSAQtEQSxIOXOWQoUGW9e"
     },
     {
       "added_at": null,
@@ -575,8 +559,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emociones II",
-        "url": "https://open.spotify.com/album/4z0naC9oGW1YJC4gg4hwDE"
+        "name": "Amor Eterno",
+        "url": "https://open.spotify.com/album/7grFNupMrSIfmdGd5WDBNW"
       },
       "artists": [
         {
@@ -584,9 +568,9 @@
           "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
         }
       ],
-      "duration_ms": 218840,
-      "name": "Frente a Frente",
-      "url": "https://open.spotify.com/track/1B9RrYARiye3sMXDLIDW9z"
+      "duration_ms": 286820,
+      "name": "Amor Eterno",
+      "url": "https://open.spotify.com/track/6zSAQtEQSxIOXOWQoUGW9e"
     },
     {
       "added_at": null,
@@ -603,6 +587,22 @@
       "duration_ms": 226000,
       "name": "Todav\u00eda",
       "url": "https://open.spotify.com/track/6qhCzLPi0m17BpotgfSE2k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Emociones II",
+        "url": "https://open.spotify.com/album/4z0naC9oGW1YJC4gg4hwDE"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 218840,
+      "name": "Frente a Frente",
+      "url": "https://open.spotify.com/track/1B9RrYARiye3sMXDLIDW9z"
     },
     {
       "added_at": null,
@@ -639,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Emociones",
+        "url": "https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Sin \u00c9l",
+      "url": "https://open.spotify.com/track/7bdiuUevmV6VOoQl9A2CnU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Celebrando a una Leyenda (En Vivo)",
         "url": "https://open.spotify.com/album/2G5k2DVNBs6pUnMUIPn76h"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 220329,
       "name": "Llamarada (feat. Edith M\u00e1rquez) - En Vivo",
       "url": "https://open.spotify.com/track/6O64gFs1N5A4kkpdxpdHT2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Emociones",
-        "url": "https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Sin \u00c9l",
-      "url": "https://open.spotify.com/track/7bdiuUevmV6VOoQl9A2CnU"
     },
     {
       "added_at": null,
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Gustas Mucho",
-        "url": "https://open.spotify.com/album/24Ge3AMJsD5cp00yuCjdI5"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 177060,
-      "name": "Me Gustas Mucho",
-      "url": "https://open.spotify.com/track/4tZFURLYKJum3XY0WwbwEW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuando Yo Quiera Has De Volver",
         "url": "https://open.spotify.com/album/3mcq4piDeCm7V7ehaXf5nw"
       },
@@ -803,8 +787,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Extrav\u00edate",
-        "url": "https://open.spotify.com/album/75JrKLDJ5vzb6OUu9baNTb"
+        "name": "Me Gustas Mucho",
+        "url": "https://open.spotify.com/album/24Ge3AMJsD5cp00yuCjdI5"
       },
       "artists": [
         {
@@ -812,9 +796,9 @@
           "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
         }
       ],
-      "duration_ms": 262933,
-      "name": "Mi nombre",
-      "url": "https://open.spotify.com/track/6OE87tPl4AIuvRlrtuwrea"
+      "duration_ms": 177060,
+      "name": "Me Gustas Mucho",
+      "url": "https://open.spotify.com/track/4tZFURLYKJum3XY0WwbwEW"
     },
     {
       "added_at": null,
@@ -831,6 +815,22 @@
       "duration_ms": 207986,
       "name": "La Gata Bajo la Lluvia",
       "url": "https://open.spotify.com/track/2AFErQfld6eq7aAovPzzeV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Extrav\u00edate",
+        "url": "https://open.spotify.com/album/75JrKLDJ5vzb6OUu9baNTb"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 262933,
+      "name": "Mi nombre",
+      "url": "https://open.spotify.com/track/6OE87tPl4AIuvRlrtuwrea"
     },
     {
       "added_at": null,
@@ -871,22 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canciones de Amor y Sentimiento",
-        "url": "https://open.spotify.com/album/39mbS15BDr9xgth9egyADB"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 218920,
-      "name": "El primero, el \u00fanico, el \u00faltimo",
-      "url": "https://open.spotify.com/track/5GjqiHdSs9wWcFsd9Vddeg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Emociones II",
         "url": "https://open.spotify.com/album/4z0naC9oGW1YJC4gg4hwDE"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 254053,
       "name": "Adoro",
       "url": "https://open.spotify.com/track/6kD9AsQ2mdGUu5DWM7l48u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Canciones de Amor y Sentimiento",
+        "url": "https://open.spotify.com/album/39mbS15BDr9xgth9egyADB"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 218920,
+      "name": "El primero, el \u00fanico, el \u00faltimo",
+      "url": "https://open.spotify.com/track/5GjqiHdSs9wWcFsd9Vddeg"
     },
     {
       "added_at": null,

@@ -1213,6 +1213,28 @@
     },
     {
       "album": {
+        "name": "Meu Jeito de Ser",
+        "url": "https://open.spotify.com/album/3ZaDi5SgfZY6tJcQQVI61N"
+      },
+      "artists": [
+        {
+          "name": "Voraz",
+          "url": "https://open.spotify.com/artist/54emVun9PakI9opV4aT5Jb"
+        },
+        {
+          "name": "Planta E Raiz",
+          "url": "https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176470,
+      "name": "Meu Jeito de Ser",
+      "url": "https://open.spotify.com/track/6g29kMXoD1vkx7HE8B6kuK"
+    },
+    {
+      "album": {
         "name": "Minha Estrela",
         "url": "https://open.spotify.com/album/11FAjoRU8boQc3AMNlZbkP"
       },
@@ -1946,7 +1968,7 @@
       ],
       "date_added": "2025-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-01",
       "duration_ms": 223069,
       "name": "Quanto Pesa",
       "url": "https://open.spotify.com/track/7mu58r9s9WcL2uRvTqvUmk"

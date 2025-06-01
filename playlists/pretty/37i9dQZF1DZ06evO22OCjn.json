@@ -1,12 +1,12 @@
 {
   "description": "This is Burna Boy. The essential tracks, all in one playlist.",
-  "num_followers": 315197,
+  "num_followers": 315350,
   "original_name": "This Is Burna Boy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDejgAAAAADrfCyHFMDRFdRtqdoye71/",
+  "snapshot_id": "aDj1AAAAAABI0DzR7rVpNdOgONztX0bg",
   "tracks": [
     {
       "added_at": null,
@@ -51,22 +51,6 @@
       "duration_ms": 231338,
       "name": "just like me",
       "url": "https://open.spotify.com/track/5KI7I4mEtulXcv5VQJaV35"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sweet Love",
-        "url": "https://open.spotify.com/album/2MRt8KcILMU2PUuAzBpKwU"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 212716,
-      "name": "Sweet Love",
-      "url": "https://open.spotify.com/track/2Hj6NXHSAf2Iuhgme1jQto"
     },
     {
       "added_at": null,
@@ -167,22 +151,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/30v3HmAMMHUgEC8ux25PLr"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 137631,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/1N8G6PUj14v0VG8evbRSxp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Told Them...",
         "url": "https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc"
       },
@@ -195,6 +163,22 @@
       "duration_ms": 153346,
       "name": "City Boys",
       "url": "https://open.spotify.com/track/4RoKNqyZ9622tcAeNPNv5k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/30v3HmAMMHUgEC8ux25PLr"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 137631,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/1N8G6PUj14v0VG8evbRSxp"
     },
     {
       "added_at": null,
@@ -403,6 +387,22 @@
       "duration_ms": 207865,
       "name": "Update",
       "url": "https://open.spotify.com/track/1ZedegcFMjMTyIngsQbXjb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sweet Love",
+        "url": "https://open.spotify.com/album/2MRt8KcILMU2PUuAzBpKwU"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 212716,
+      "name": "Sweet Love",
+      "url": "https://open.spotify.com/track/2Hj6NXHSAf2Iuhgme1jQto"
     },
     {
       "added_at": null,
@@ -767,26 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Do I (Remix)",
-        "url": "https://open.spotify.com/album/5aVA4avxVgyg1S6iVQpx0m"
-      },
-      "artists": [
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 138069,
-      "name": "Do I - Remix",
-      "url": "https://open.spotify.com/track/7yKjDDd9w01nFEOD5adoHq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Twice As Tall",
         "url": "https://open.spotify.com/album/218CJKDCszsQQj7Amk7vIu"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 197933,
       "name": "Real Life (feat. Stormzy)",
       "url": "https://open.spotify.com/track/3qvZW1bLvAsJIUhYcuvf4F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Do I (Remix)",
+        "url": "https://open.spotify.com/album/5aVA4avxVgyg1S6iVQpx0m"
+      },
+      "artists": [
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 138069,
+      "name": "Do I - Remix",
+      "url": "https://open.spotify.com/track/7yKjDDd9w01nFEOD5adoHq"
     },
     {
       "added_at": null,

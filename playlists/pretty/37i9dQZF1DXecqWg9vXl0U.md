@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 
 > como en una nube\. Bedroom pop vibes featuring Valsian ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,006 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,014 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 | 19 | [Acapulco](https://open.spotify.com/track/6Fs98ySM5epAAUtD69jC1o) | [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4) | [Música Para Adultos](https://open.spotify.com/album/00ccg0F2r512qr09ahK46C) | 2:46 |
 | 20 | [En Otro Jardín X\(](https://open.spotify.com/track/2viqKpMbOfAH2lwHLsRYJG) | [El Verumcito](https://open.spotify.com/artist/0Xe3f3OUBfpL0WbRwAJXwY), [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [En Otro Jardín X\(](https://open.spotify.com/album/4Tw2RWDAoJQfHSB6iAK2Ao) | 2:17 |
 | 21 | [no pudimos ser </3](https://open.spotify.com/track/2Yovk3o959wt0HT5xxbuNM) | [Diana Meril](https://open.spotify.com/artist/2VzNlNyc9lEAKr7wjKnTlo), [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E) | [No pudimos ser </3](https://open.spotify.com/album/3wnMvuFOaI2BHv5NLy6WbF) | 3:08 |
-| 22 | [Confesión](https://open.spotify.com/track/1kKEfjhJNE3OKMu0GoqeU3) | [Wet Baes](https://open.spotify.com/artist/6mYovveNfg4PF4HnT8Lner) | [Confesión](https://open.spotify.com/album/4JhQbQL3qyhdgYep7YCOeI) | 3:58 |
-| 23 | [Idiota](https://open.spotify.com/track/3bHZsUnYWWjDgAbBK9KuKa) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH) | [Idiota](https://open.spotify.com/album/3LCaWH5lNjftW6IHgxV4sT) | 2:59 |
+| 22 | [Idiota](https://open.spotify.com/track/3bHZsUnYWWjDgAbBK9KuKa) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH) | [Idiota](https://open.spotify.com/album/3LCaWH5lNjftW6IHgxV4sT) | 2:59 |
+| 23 | [Confesión](https://open.spotify.com/track/1kKEfjhJNE3OKMu0GoqeU3) | [Wet Baes](https://open.spotify.com/artist/6mYovveNfg4PF4HnT8Lner) | [Confesión](https://open.spotify.com/album/4JhQbQL3qyhdgYep7YCOeI) | 3:58 |
 | 24 | [las cosas no son lo que parecen](https://open.spotify.com/track/0vZnu6jdjTA4QKhmJm3IQT) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [las cosas no son lo que parecen](https://open.spotify.com/album/6Zs6kAVDytdZAj7J3aaHRD) | 2:54 |
 | 25 | [Todo Lamento](https://open.spotify.com/track/3e8haeh6alXHp8bwLhk4Vc) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Todo Lamento](https://open.spotify.com/album/4dHpeoII8QA3LaOXTYnCgm) | 2:35 |
 | 26 | [Lucecita](https://open.spotify.com/track/1IRjqq6J32F79HUwYvwYHH) | [Pedrina](https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1) | [Lucecita](https://open.spotify.com/album/77X5kJMyiM5s1djOOXd2pX) | 2:45 |
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 | 39 | [Chill](https://open.spotify.com/track/2m0v4ZdHJQuSnmq5zWmVdf) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [Chill](https://open.spotify.com/album/7wa4ARFBWocpk28s1GA0v0) | 2:43 |
 | 40 | [Amores De Colores](https://open.spotify.com/track/6JiKdKOTGtgatt1obe5cIE) | [Alex Eugenio](https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR) | [Veraneras](https://open.spotify.com/album/3BcXlbfEI0L2Ll45yBzSMO) | 3:05 |
 | 41 | [Lagrimas derramadas](https://open.spotify.com/track/7FGduSCJxpdDSsDlJmXflr) | [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h), [HAT](https://open.spotify.com/artist/5TsAOFIiXfD0fTJF2wscJI), [Solo San](https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718) | [Lagrimas derramadas](https://open.spotify.com/album/396hukAGIHUkc06vZsoVdA) | 3:20 |
-| 42 | [La distancia se reduce](https://open.spotify.com/track/33RZJL7nkjOLtCch8VpJCS) | [Quemarlo Todo Por Error](https://open.spotify.com/artist/2uBBnvNK2YBWL8Q4f4W8GG) | [La distancia se reduce](https://open.spotify.com/album/4M09EtSfmbcwfeWcUDd80n) | 4:39 |
+| 42 | [Matarte](https://open.spotify.com/track/4VWrc4ef7OzTaebkQ97KqG) | [KINKY LOVER](https://open.spotify.com/artist/6atnQAeriB4Ql9r9MuVlIm) | [Matarte](https://open.spotify.com/album/5OyTh8zezlofXY4p5rq1Al) | 3:31 |
 | 43 | [amor universal](https://open.spotify.com/track/1H1Ktfqk2IFFDWwHhPbCKm) | [Bilbao](https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT), [Maddie Moon](https://open.spotify.com/artist/4Bpw0DO4ri8ngNl38rLkDS) | [amor universal](https://open.spotify.com/album/38kKwQfYwjWhqtJ079Z0BJ) | 3:43 |
-| 44 | [Matarte](https://open.spotify.com/track/4VWrc4ef7OzTaebkQ97KqG) | [KINKY LOVER](https://open.spotify.com/artist/6atnQAeriB4Ql9r9MuVlIm) | [Matarte](https://open.spotify.com/album/5OyTh8zezlofXY4p5rq1Al) | 3:31 |
+| 44 | [La distancia se reduce](https://open.spotify.com/track/33RZJL7nkjOLtCch8VpJCS) | [Quemarlo Todo Por Error](https://open.spotify.com/artist/2uBBnvNK2YBWL8Q4f4W8GG) | [La distancia se reduce](https://open.spotify.com/album/4M09EtSfmbcwfeWcUDd80n) | 4:39 |
 | 45 | [Constelación](https://open.spotify.com/track/012Hj5jY0izHIxW5PUshkO) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6) | [Constelación](https://open.spotify.com/album/0icWXRGdopPIamBatGerqU) | 4:09 |
 | 46 | [El After](https://open.spotify.com/track/1m2KS0EUn9XVzOg5i7gSa8) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [Lo Que Siento](https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM) | 3:19 |
 | 47 | [Horas Contigo](https://open.spotify.com/track/5LsqbIej8JeVAMCD5mZKCJ) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Horas Contigo](https://open.spotify.com/album/0M2juBtEpeh1WRg3VmaNfe) | 2:39 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 | 60 | [Fantasma](https://open.spotify.com/track/415oY7i4j1QVBVa5BM09nK) | [Azul Aimé](https://open.spotify.com/artist/2RK7ej33rvNMfEAqlWUqyY), [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Fantasma](https://open.spotify.com/album/3Gwfk6hLAx66DXTW8xqJjo) | 3:21 |
 | 61 | [100m](https://open.spotify.com/track/33QEJCjZdLkJEGILcGRndg) | [Caztro](https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW) | [100m](https://open.spotify.com/album/18xOhrxNNHE7MNVj6VNiyY) | 2:20 |
 | 62 | [Amanece Otra Vez](https://open.spotify.com/track/5RVe88SWd7GBzUycsYlTtk) | [Dawn Avenue](https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P) | [Amanece Otra Vez](https://open.spotify.com/album/2834mgGOvR33kmzW7qWeDo) | 4:07 |
-| 63 | [GARZA](https://open.spotify.com/track/26CbNWcJrCh6VX5MKU9ihD) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [GARZA](https://open.spotify.com/album/2eXBKS6GDiidtFKu10IFgJ) | 3:26 |
-| 64 | [Nostalgia](https://open.spotify.com/track/11n4UOH94ShxTVmlaW32lc) | [Planeta Tres](https://open.spotify.com/artist/2eATLFTN3YsqxXMa13faPq) | [Nostalgia](https://open.spotify.com/album/6UHRHe7c80O8jC2vPNS6Bu) | 2:54 |
+| 63 | [Nostalgia](https://open.spotify.com/track/11n4UOH94ShxTVmlaW32lc) | [Planeta Tres](https://open.spotify.com/artist/2eATLFTN3YsqxXMa13faPq) | [Nostalgia](https://open.spotify.com/album/6UHRHe7c80O8jC2vPNS6Bu) | 2:54 |
+| 64 | [GARZA](https://open.spotify.com/track/26CbNWcJrCh6VX5MKU9ihD) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [GARZA](https://open.spotify.com/album/2eXBKS6GDiidtFKu10IFgJ) | 3:26 |
 | 65 | [Te encontré](https://open.spotify.com/track/4RJQujeHok0h49MLNIrqS4) | [RNDN](https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn), [Sajiva](https://open.spotify.com/artist/2sa34IYwo3zKCyi6cZOpsF) | [Te encontré](https://open.spotify.com/album/6pDXj3YRssQQq8kOwzWZKg) | 2:40 |
 | 66 | [Último Intento](https://open.spotify.com/track/5wXBavPSFmy6ImZdeTxPAt) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH) | [Último Intento](https://open.spotify.com/album/6cLORSZVsdonI0tYVUEK0d) | 2:54 |
 | 67 | [Antes de Marcharte](https://open.spotify.com/track/1R2f7wi1RHp2sPnvtHj1LR) | [Dawn Avenue](https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P) | [Mareas](https://open.spotify.com/album/2i3WQcqW1wVG3PPlTJAlWP) | 4:02 |

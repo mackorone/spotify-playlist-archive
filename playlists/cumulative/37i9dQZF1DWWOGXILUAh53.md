@@ -4,7 +4,7 @@
 
 > The hottest new pop with all the drops\. Cover:  Lauv x Martin Garrix
 
-1,528 songs - 3 day 2 hr 32 min
+1,529 songs - 3 day 2 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -406,6 +406,7 @@
 | [Everything But You \(feat\. A7S\)](https://open.spotify.com/track/2wVQcA1YCuGL6EW0QbgVoV) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Everything But You \(feat\. A7S\)](https://open.spotify.com/album/0pRwjoHpYyvVuf6cF3shYg) | 3:18 | 2022-02-18 | 2022-06-18 |
 | [Everything Changes \(But I Won't\)](https://open.spotify.com/track/2WGOTUuDEW2NxuJVFWvmcB) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Louder, Please](https://open.spotify.com/album/79SqMfih2FN1NaLtZUcccG) | 3:51 | 2025-01-17 | 2025-03-22 |
 | [EX EX EX \(Whoops\)](https://open.spotify.com/track/2RzCQnxjPUTycRgUp1sZCm) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Saturn Return](https://open.spotify.com/album/3HhSAMFNWSx71lfinnXPFz) | 2:23 | 2023-10-20 | 2023-12-09 |
+| [Exhilarate](https://open.spotify.com/track/5SML37WZ12BWh7AmJBVCc0) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [Hanne Mjøen](https://open.spotify.com/artist/2xDZ8qyyE2Ti4wL1Ob1T7V) | [Exhilarate](https://open.spotify.com/album/4JDFe06NZ2VAdPdOPoar5F) | 3:11 | 2025-05-31 |  |
 | [Explosive](https://open.spotify.com/track/2eAekdkZ8Dbtkv1dmXWQWT) | [CuteBad](https://open.spotify.com/artist/09FEhj90tAtYK9WDdWfgeP) | [Explosive](https://open.spotify.com/album/3HDeUdqtFGF5NIkLZP4KWl) | 3:22 | 2022-07-01 | 2022-08-27 |
 | [Extremes](https://open.spotify.com/track/5nkkVqGi9YgFOwdbn4BYFM) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [Extremes](https://open.spotify.com/album/7h1PPe6YeLHGSu9gLRzQLj) | 2:29 | 2022-09-30 | 2022-12-24 |
 | [Eyes Closed \- Lost Frequencies Remix](https://open.spotify.com/track/5xJrqHHLIqJlaK6c05pwYB) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Eyes Closed \(Lost Frequencies Remix\)](https://open.spotify.com/album/3jRseYXGmX8RQ6ZTQ6tvsy) | 2:59 | 2023-05-19 | 2023-06-10 |
@@ -772,7 +773,7 @@
 | [Lighter](https://open.spotify.com/track/0Fnjp5rPXHGYnehRgnaEjr) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK) | [Lighter](https://open.spotify.com/album/5JAzBPWkz1a1GZJYsawDUX) | 2:46 | 2023-10-20 | 2023-12-09 |
 | [Lights Camera Action](https://open.spotify.com/track/1yICUJxGHVxxTXCUXxS78f) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Lights Camera Action](https://open.spotify.com/album/0vfm2JsJHRJLlTLpcuX5jf) | 2:42 | 2024-09-27 | 2024-11-30 |
 | [LIGHTS DOWN LOW \(feat\. Sly Jr.\)](https://open.spotify.com/track/72clwH22fwZF7utiFGJ9Ho) | [Angrybaby](https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr), [Sly Jr.](https://open.spotify.com/artist/4FUA8iAbHSy5nenK5nQzjB) | [LIGHTS DOWN LOW \(feat\. Sly Jr.\)](https://open.spotify.com/album/4ECs1lxBA9U5qbZdZX7a5e) | 3:14 | 2024-01-05 | 2024-01-20 |
-| [like JENNIE \- Peggy Gou Remix](https://open.spotify.com/track/41JiYRL2Ahnbjy0WRExDge) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [like JENNIE](https://open.spotify.com/album/2PxwTnSJW1mXpnb1HO2Tsf) | 3:28 | 2025-04-11 |  |
+| [like JENNIE \- Peggy Gou Remix](https://open.spotify.com/track/41JiYRL2Ahnbjy0WRExDge) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [like JENNIE](https://open.spotify.com/album/2PxwTnSJW1mXpnb1HO2Tsf) | 3:28 | 2025-04-11 | 2025-06-01 |
 | [Like Me](https://open.spotify.com/track/51NYFGDXYKS4FkRqkw98hx) | [Chase Icon](https://open.spotify.com/artist/5XPJP6zfXVlPJtO4QSsSmQ) | [Like Me](https://open.spotify.com/album/368nZKtIZTNUCRZPEsu7WU) | 1:58 | 2022-02-11 | 2022-05-20 |
 | [Like Sunshine](https://open.spotify.com/track/1Tfg0XYAGbUSvQiGWWBmXa) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [Like Sunshine](https://open.spotify.com/album/3L9LvzvCmv5qQr5wsDiEa1) | 2:43 | 2024-09-13 | 2024-11-30 |
 | [Lionheart \(Fearless\)](https://open.spotify.com/track/5vlzH0ps6WDyb158oFTAb3) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Lionheart \(Fearless\)](https://open.spotify.com/album/68U7caniDmdQHifJdnlYFT) | 3:06 | 2022-10-21 | 2023-02-25 |

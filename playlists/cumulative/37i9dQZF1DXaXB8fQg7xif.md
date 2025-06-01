@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance</a> to the rhythm and move your feet!
 
-1,231 songs - 2 day 17 hr 57 min
+1,232 songs - 2 day 18 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Anywhere](https://open.spotify.com/track/2t3GgWixC6sLrIaF8stlTO) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [Skyline Worldwide EP](https://open.spotify.com/album/19HlGZrqZOrlbSnxyZYcqM) | 2:56 | 2020-05-22\* | 2022-04-21 |
 | [Anywhere With You](https://open.spotify.com/track/3wfNiPBrzDwuanE75Ar6pS) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX) | [Anywhere With You](https://open.spotify.com/album/6kLYOTLTjIjADp2VfU9qGQ) | 2:38 | 2022-07-14 | 2023-04-15 |
 | [Anywhere With You](https://open.spotify.com/track/5MxKAr6Ui5hQ9TtjdnlmrR) | [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX) | [Anywhere With You](https://open.spotify.com/album/0JaOI27aTExNAnLHpKi2wl) | 2:38 | 2021-11-21 | 2022-07-29 |
+| [Appetite](https://open.spotify.com/track/6zldvnVMC25b4uliSKO9Lz) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [Appetite](https://open.spotify.com/album/2AJlggZjfH2vz79q6bSplo) | 3:47 | 2025-05-30 |  |
 | [Approaching Rainbow](https://open.spotify.com/track/2fdmMIdqXMkYTjoYtEOkAH) | [Lone](https://open.spotify.com/artist/5wZOrGWdg4hq7KIRMupJdI) | [Echolocations EP](https://open.spotify.com/album/3imtmFr6XIpYFp6IVVXJYj) | 6:02 | 2020-07-01 | 2020-12-12 |
 | [Armaghetton](https://open.spotify.com/track/5V55t8Ss6n1zU9ScKrdYwP) | [Marco Faraone](https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3), [Greeko](https://open.spotify.com/artist/2G60xU64nhrlgfBPxIE8JH) | [Armaghetton](https://open.spotify.com/album/71SzLDFLZHpBaLEhx3jNhz) | 4:01 | 2021-02-26 | 2021-12-21 |
 | [Armaghetton \- Aeroplane Remix](https://open.spotify.com/track/7K0NRDpluahVsxekmJ3ufu) | [Marco Faraone](https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3), [Greeko](https://open.spotify.com/artist/2G60xU64nhrlgfBPxIE8JH), [Aeroplane](https://open.spotify.com/artist/31CtLHmSL7Oa7TPU9YyBEu) | [Armaghetton \(Aeroplane Remix\)](https://open.spotify.com/album/1es3fJXc54eFu7uUZkSsrh) | 3:33 | 2020-12-27 | 2021-10-13 |
@@ -213,7 +214,7 @@
 | [Clouds](https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Clouds](https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj) | 2:38 | 2023-02-24 |  |
 | [Cola](https://open.spotify.com/track/7ir1tVqAtNjctvteJPw5MF) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Cola](https://open.spotify.com/album/06M4lDqeBSMxVTFsNE8Sxi) | 3:43 | 2020-05-22\* | 2021-12-21 |
 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Cold Heart \(PNAU Remix\)](https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6) | 3:22 | 2021-08-31 |  |
-| [COLLECT THE COMMAS](https://open.spotify.com/track/5e3NwBC0E6xjX9c1Uc8RHy) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [COLLECT THE COMMAS](https://open.spotify.com/album/6AVl6czEyN0v5GRaeCr4WY) | 3:41 | 2024-10-04 |  |
+| [COLLECT THE COMMAS](https://open.spotify.com/track/5e3NwBC0E6xjX9c1Uc8RHy) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [COLLECT THE COMMAS](https://open.spotify.com/album/6AVl6czEyN0v5GRaeCr4WY) | 3:41 | 2024-10-04 | 2025-06-01 |
 | [Colourblind](https://open.spotify.com/track/1ZNaOGKAZKaZh7V87zDs1i) | [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Colourblind](https://open.spotify.com/album/11GNGqeQLQTGUTn8AewzDy) | 3:05 | 2023-03-31 | 2023-08-13 |
 | [Colours](https://open.spotify.com/track/22y2mqIBERBviZF0fa86iw) | [Mat Zo](https://open.spotify.com/artist/2n7USVO8fO8FF8zq4kG2N1), [Olan](https://open.spotify.com/artist/1gMMbPTZtOb9W3IBYl6twO) | [Colours](https://open.spotify.com/album/2tZ2fRh85Fj4cf3HpeCpqs) | 4:28 | 2020-12-18 | 2021-05-26 |
 | [Coma Cat \- Purple Disco Machine Re\-Work](https://open.spotify.com/track/1BMFet4vUoOgpLYIl3kVMQ) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Coma Cat \(Purple Disco Machine Re\-Work\)](https://open.spotify.com/album/0xQYiQjTVXSJFEqgM7GgUC) | 3:28 | 2022-12-14 | 2023-07-29 |

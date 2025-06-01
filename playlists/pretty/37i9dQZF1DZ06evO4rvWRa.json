@@ -1,13 +1,29 @@
 {
   "description": "This is Alan Walker. The essential tracks, all in one playlist.",
-  "num_followers": 1642185,
+  "num_followers": 1642222,
   "original_name": "This Is Alan Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDejgAAAAADGIdOFdQboJ2WqRn+CJWPJ",
+  "snapshot_id": "aDj1AAAAAAC4oMfIsH487QoWt+aeP/Wr",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me, Myself and The Night",
+        "url": "https://open.spotify.com/album/7bSQts9CfkAh6MNQ7BkBjy"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "duration_ms": 251748,
+      "name": "Me, Myself and The Night",
+      "url": "https://open.spotify.com/track/7mKy65CyVCmawYMw3JJGPQ"
+    },
     {
       "added_at": null,
       "album": {

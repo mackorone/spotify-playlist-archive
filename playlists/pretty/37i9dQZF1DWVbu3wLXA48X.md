@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > yung kai handpicks first 20 tracks that resonate and fuel his creative journey alongside fresh indie cuts from Asia and beyond.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,762 likes - 82 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,823 likes - 82 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 28 | [Got to Have Love](https://open.spotify.com/track/4bhA5X3qMEcTycEoW6BvJ2) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [Got to Have Love](https://open.spotify.com/album/2bMabGrC1sdXbXykn6t0Ij) | 4:52 |
 | 29 | [See You Smile](https://open.spotify.com/track/5CxsvKa1ch2vtSoN8xPdZv) | [Triathalon](https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3) | [Funeral Music](https://open.spotify.com/album/0IPdncrWFW3bYYpxhZozIw) | 2:37 |
 | 30 | [Headlock \- Spotify Singles](https://open.spotify.com/track/0UzhHaqs5it354pkj2lSCG) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Headlock \- Spotify Singles](https://open.spotify.com/album/1QVdNa9UlOPBxv8WpGMtsG) | 3:40 |
-| 31 | [merry go round](https://open.spotify.com/track/6mfLyuVFGmvWJBAVj3x6ko) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [merry go round](https://open.spotify.com/album/19iDCxX7uLuKuFlkFi4ZQ5) | 2:23 |
+| 31 | [merry go round](https://open.spotify.com/track/6mfLyuVFGmvWJBAVj3x6ko) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [merry go round](https://open.spotify.com/album/19iDCxX7uLuKuFlkFi4ZQ5) | 2:24 |
 | 32 | [Someone I used to Love](https://open.spotify.com/track/0v7A2HuiQLRZtwPyLndMxb) | [Alpha](https://open.spotify.com/artist/3FKLqq9ByYJSPId24Es3vF) | [Someone I used to Love](https://open.spotify.com/album/1yjJMyMsVI5PI6W88tokNJ) | 4:08 |
 | 33 | [Glad](https://open.spotify.com/track/6XUwgXNhadNdLnHKY6Sly8) | [Saint Etienne](https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f) | [Glad](https://open.spotify.com/album/5D0EX0GGjJoD3LBb3dwhmu) | 3:11 |
 | 34 | [Take me back](https://open.spotify.com/track/2geitEQoW8c2utIeP48sbr) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Take me back](https://open.spotify.com/album/12AyzfBO32BITrDGji4aaN) | 3:45 |

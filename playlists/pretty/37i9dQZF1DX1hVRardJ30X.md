@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Ryan Castro, Myke Towers & Quevedo, Aitana, Ángela Aguilar and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 615,798 likes - 52 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 615,857 likes - 52 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 51 | [Quisiera Saber](https://open.spotify.com/track/0j8lNUjVM5tMCofwig8zHm) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [Quisiera Saber](https://open.spotify.com/album/4Fjt3hR9wLnAofCJ391vQE) | 2:44 |
 | 52 | [Timeless](https://open.spotify.com/track/4zW3MUUgJgQ9XpjvSq2Icn) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Timeless](https://open.spotify.com/album/7hBRPZOUGF4JYMHH5f0ZwN) | 3:22 |
 
-Snapshot ID: `aDnPrAAAAAC1AhQyeEMZ5A2RK28dgzem`
+Snapshot ID: `AAAAAI5G2OrPtlgFQIY0x7eqEjt2S9oo`

@@ -1,12 +1,12 @@
 {
   "description": "This is Belinda. The essential tracks, all in one playlist.",
-  "num_followers": 77708,
+  "num_followers": 77758,
   "original_name": "This Is Belinda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDejgAAAAACBBEHRhyiqjOat6MZdEWvi",
+  "snapshot_id": "aDj1AAAAAAA66v/Q44IP/K9hr0WiklB3",
   "tracks": [
     {
       "added_at": null,
@@ -659,26 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "boss rmx",
-        "url": "https://open.spotify.com/album/5XPntEYsj1XpHzDYwShoIf"
-      },
-      "artists": [
-        {
-          "name": "EMJAY",
-          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 212800,
-      "name": "boss rmx",
-      "url": "https://open.spotify.com/track/3F75fwqrPiNLkf3krSkYkQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blink Twice (Dos Veces Remix)",
         "url": "https://open.spotify.com/album/29rcLP1Uni7elTtxuiXF1J"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 154134,
       "name": "Blink Twice - Dos Veces Remix",
       "url": "https://open.spotify.com/track/6SNHfk6CipQOSALhblynof"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "boss rmx",
+        "url": "https://open.spotify.com/album/5XPntEYsj1XpHzDYwShoIf"
+      },
+      "artists": [
+        {
+          "name": "EMJAY",
+          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 212800,
+      "name": "boss rmx",
+      "url": "https://open.spotify.com/track/3F75fwqrPiNLkf3krSkYkQ"
     },
     {
       "added_at": null,
@@ -943,42 +943,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FINAL (Vol.2)",
-        "url": "https://open.spotify.com/album/5LHd4piJoHcz4CXhjsFKxx"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 164649,
-      "name": "Ll\u00f3rame Un R\u00edo",
-      "url": "https://open.spotify.com/track/3LmvPdmYvNEe9D7BTsonsX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Carpe Diem",
-        "url": "https://open.spotify.com/album/0md5nsl4Cm5gmdziP0zfMQ"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 206400,
-      "name": "Lolita",
-      "url": "https://open.spotify.com/track/5FVWs30Ce5zqcsVDfwfrJP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Prisma",
         "url": "https://open.spotify.com/album/7FVRWDkCucNcU8NNUit5xv"
       },
@@ -999,6 +963,42 @@
       "duration_ms": 260017,
       "name": "Sue\u00f1o de Ti",
       "url": "https://open.spotify.com/track/0lLygnowX78lFphF2235qe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Carpe Diem",
+        "url": "https://open.spotify.com/album/0md5nsl4Cm5gmdziP0zfMQ"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 206400,
+      "name": "Lolita",
+      "url": "https://open.spotify.com/track/5FVWs30Ce5zqcsVDfwfrJP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FINAL (Vol.2)",
+        "url": "https://open.spotify.com/album/5LHd4piJoHcz4CXhjsFKxx"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 164649,
+      "name": "Ll\u00f3rame Un R\u00edo",
+      "url": "https://open.spotify.com/track/3LmvPdmYvNEe9D7BTsonsX"
     },
     {
       "added_at": null,
@@ -1155,6 +1155,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Me Minti\u00f3, Mentiras, Mentiras",
+        "url": "https://open.spotify.com/album/2bybT6eYlVyATbKkp7DF5Z"
+      },
+      "artists": [
+        {
+          "name": "Mentiras: La Serie",
+          "url": "https://open.spotify.com/artist/1Ju2DSDLHCKEfy6WfsOkzK"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Diana Bovio",
+          "url": "https://open.spotify.com/artist/62IAzVoIjzzHeBZ6Glodjp"
+        }
+      ],
+      "duration_ms": 147804,
+      "name": "El Me Minti\u00f3, Mentiras, Mentiras",
+      "url": "https://open.spotify.com/track/00Ff62DUnnKp5NICapdAVz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Los D\u00fao 2",
         "url": "https://open.spotify.com/album/15SmxvmFr0a33i5c1f2T19"
       },
@@ -1171,22 +1195,6 @@
       "duration_ms": 238120,
       "name": "Te Sigo Amando",
       "url": "https://open.spotify.com/track/5QmjF6TMAAym2u3hb8o1ym"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Belinda",
-        "url": "https://open.spotify.com/album/572O2aMDzsHhr48257pOZM"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 244600,
-      "name": "No Entiendo - I Don't Understand You",
-      "url": "https://open.spotify.com/track/1Rf4xWEQqgkB0pcUkKr8JK"
     }
   ],
   "unique_name": "This Is Belinda",

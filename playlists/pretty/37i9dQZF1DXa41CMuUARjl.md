@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 
 > This week's handpicked new <a href="spotify:genre:edm\_dance">dance and electronic music</a>, featuring new music from Keinemusik
 
-[Spotify](https://open.spotify.com/user/spotify) - 529,938 likes - 125 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 530,083 likes - 125 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 | 21 | [Love’s A Game](https://open.spotify.com/track/0ytQmrJaRbb6Ogw1C55sV5) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Love’s A Game](https://open.spotify.com/album/0OuwtqtwwnHQRwwwJ2Kdcd) | 3:26 |
 | 22 | [Satellite](https://open.spotify.com/track/3G1RtodEV0bvOHjlct2Ein) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Obi Franky](https://open.spotify.com/artist/7wcA5gBY4GRUDwcfyoj0p0), [ILĀ](https://open.spotify.com/artist/2vHCmNtVE5TAEgVn024QTF), [Trans Voices](https://open.spotify.com/artist/6WOjBUzx8rMrwCdVtU4WVN) | [Satellite](https://open.spotify.com/album/6Yl7EPUb6JzmtFrKODskn9) | 4:24 |
 | 23 | [Man Down](https://open.spotify.com/track/2q15bW4gvbCDVMKIa6sGzX) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [YDG](https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4), [Bella Renee](https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa) | [Man Down](https://open.spotify.com/album/5vTTef4Ykw2yHCeKRZCNe7) | 3:32 |
-| 24 | [Alto](https://open.spotify.com/track/6W0JyLntjW5czCieDPSkui) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Alto](https://open.spotify.com/album/6CK5736RvBDi7w9wDjCYLf) | 3:08 |
+| 24 | [Alto](https://open.spotify.com/track/6W0JyLntjW5czCieDPSkui) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Alto](https://open.spotify.com/album/6CK5736RvBDi7w9wDjCYLf) | 3:45 |
 | 25 | [WOOP WOOP](https://open.spotify.com/track/1FFm13AYeb7253SEmjBjvP) | [Sidney Charles](https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH), [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [Let's Pardey EP](https://open.spotify.com/album/2t0mh1tAUXkpC1WOnkxhsi) | 2:50 |
 | 26 | [Raw Control](https://open.spotify.com/track/0JrEm4vEEzpHsdcxHlRJop) | [Discip](https://open.spotify.com/artist/6K16NRv0isbkftsv5lmlMT) | [Raw Control](https://open.spotify.com/album/1DwqsGfeJWh4P4cbd0AywD) | 2:30 |
 | 27 | [The Good Part](https://open.spotify.com/track/6kzR79ao3TNnigymnhJoGI) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [LORYN](https://open.spotify.com/artist/0ryyI8NGZJ4MLeRfwbkODZ) | [The Good Part](https://open.spotify.com/album/5b566QQbdtpFn1z7G6ONsL) | 3:11 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 | 124 | [Music Sounds Better With Me](https://open.spotify.com/track/0eRtOlUsMueyPH3jIjkZrX) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9), [BCBC](https://open.spotify.com/artist/0zz7GJ7SZyi4XV3TJsg3YN) | [it's Franky baby! \(Deluxe\)](https://open.spotify.com/album/6YJv1Ppcj1xKkkWPg1xmEq) | 2:41 |
 | 125 | [Memento Mori](https://open.spotify.com/track/3pVFR3uGFL1H2hALhv8Wip) | [Ciel](https://open.spotify.com/artist/1Rv2Pete1cFEKlDYk0hjWl) | [Memento Mori](https://open.spotify.com/album/1vqpFHw3VdTdFfnDCSkYP4) | 5:01 |
 
-Snapshot ID: `aDm8jgAAAAAmQtuIWtTumFfldXTALbyM`
+Snapshot ID: `aDm8jgAAAAAB61QqNaOLsXEJrhcJYvbX`

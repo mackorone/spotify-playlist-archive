@@ -1,12 +1,12 @@
 {
   "description": "This is Sia. The essential tracks, all in one playlist.",
-  "num_followers": 1428070,
+  "num_followers": 1428184,
   "original_name": "This Is Sia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDejgAAAAAC7sXasr10Ohw55XpAVibkn",
+  "snapshot_id": "aDj1AAAAAADl1eBQKz3q+LvLJMWYX5je",
   "tracks": [
     {
       "added_at": null,
@@ -439,6 +439,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Never Give Up (From \"Lion\" Soundtrack)",
+        "url": "https://open.spotify.com/album/3pOA3oohNOrloauSH9rd8n"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 221986,
+      "name": "Never Give Up (From \"Lion\" Soundtrack)",
+      "url": "https://open.spotify.com/track/1ssmjAYSU5PbmsjLq5yrNH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MTG DA SIA - ANGEL BY THE WINGS",
         "url": "https://open.spotify.com/album/7KYLDnvpL3yGcLLxRYgFfu"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 123187,
       "name": "MTG DA SIA - ANGEL BY THE WINGS",
       "url": "https://open.spotify.com/track/0K5Wbzan94w91ImAKQcjsw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Never Give Up (From \"Lion\" Soundtrack)",
-        "url": "https://open.spotify.com/album/3pOA3oohNOrloauSH9rd8n"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 221986,
-      "name": "Never Give Up (From \"Lion\" Soundtrack)",
-      "url": "https://open.spotify.com/track/1ssmjAYSU5PbmsjLq5yrNH"
     },
     {
       "added_at": null,
@@ -971,34 +971,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perfect",
-        "url": "https://open.spotify.com/album/4EgafMzPEdYTKsNuCiCfFg"
+        "name": "Dynamite",
+        "url": "https://open.spotify.com/album/50olq3HtK70p3MOSB9hNj8"
       },
       "artists": [
         {
-          "name": "Sam i",
-          "url": "https://open.spotify.com/artist/5AUTN6tMncnOnYgJK1VM6K"
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
         },
         {
           "name": "Sia",
           "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        },
-        {
-          "name": "Tropkillaz",
-          "url": "https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "Mc Pikachu",
-          "url": "https://open.spotify.com/artist/6qFbBE8ubS4NxtxVPytxG5"
         }
       ],
-      "duration_ms": 208885,
-      "name": "Perfect (with Sia)",
-      "url": "https://open.spotify.com/track/7gh6635LXixA4Cw9baMWKp"
+      "duration_ms": 212668,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/0fQfJFfngYfG26560HLMLN"
     }
   ],
   "unique_name": "This Is Sia",

@@ -1,12 +1,12 @@
 {
   "description": "This is Nat King Cole. The essential tracks, all in one playlist.",
-  "num_followers": 121051,
+  "num_followers": 121065,
   "original_name": "This Is Nat King Cole",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDejgAAAAAD1U+rkX4T27qsO1LAUYOKK",
+  "snapshot_id": "aDj1AAAAAAB6G98LI0WbCL9krpYGQnLJ",
   "tracks": [
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Nat King Cole Story",
-        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 202200,
-      "name": "Sweet Lorraine",
-      "url": "https://open.spotify.com/track/3RbkATWswzKeNDJUZZL2jL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sings For Two In Love",
         "url": "https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 218066,
       "name": "There Will Never Be Another You",
       "url": "https://open.spotify.com/track/6k8VkbcU1CrMM2jbWfRF6O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Nat King Cole Story",
+        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 202200,
+      "name": "Sweet Lorraine",
+      "url": "https://open.spotify.com/track/3RbkATWswzKeNDJUZZL2jL"
     },
     {
       "added_at": null,
@@ -607,26 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nat King Cole Sings George Shearing Plays",
-        "url": "https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        },
-        {
-          "name": "George Shearing",
-          "url": "https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn"
-        }
-      ],
-      "duration_ms": 209933,
-      "name": "I'm Lost",
-      "url": "https://open.spotify.com/track/4sWFAJNRxrkYlWC0UpYZXC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "This Is Nat King Cole",
         "url": "https://open.spotify.com/album/2ZCeZQGqdLN6zuhRVdLFaY"
       },
@@ -659,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sings For Two In Love",
-        "url": "https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 168520,
-      "name": "Let's Fall In Love",
-      "url": "https://open.spotify.com/track/6Zis3c4TSJHeBkivT2tMzY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love Songs",
         "url": "https://open.spotify.com/album/4BtCNXyLlIHevbEnbVJBXC"
       },
@@ -687,6 +651,42 @@
       "duration_ms": 163933,
       "name": "Love Letters - Remastered",
       "url": "https://open.spotify.com/track/13dUfyPZRCUA1V2JVGeYpm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nat King Cole Sings George Shearing Plays",
+        "url": "https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        },
+        {
+          "name": "George Shearing",
+          "url": "https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn"
+        }
+      ],
+      "duration_ms": 209933,
+      "name": "I'm Lost",
+      "url": "https://open.spotify.com/track/4sWFAJNRxrkYlWC0UpYZXC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sings For Two In Love",
+        "url": "https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 168520,
+      "name": "Let's Fall In Love",
+      "url": "https://open.spotify.com/track/6Zis3c4TSJHeBkivT2tMzY"
     },
     {
       "added_at": null,
@@ -823,8 +823,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "From The Capitol Vaults (Vol. 1)",
-        "url": "https://open.spotify.com/album/3pYZK02cKFCRUKZ2zemgzk"
+        "name": "The Touch Of Your Lips",
+        "url": "https://open.spotify.com/album/0ec54Pa8SjLsJT94qqK9TU"
       },
       "artists": [
         {
@@ -832,9 +832,9 @@
           "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 179510,
-      "name": "Easter Sunday Morning",
-      "url": "https://open.spotify.com/track/3LB8JR4c3rYEHfQT3Px4Iq"
+      "duration_ms": 286173,
+      "name": "A Nightingale Sang In Berkeley Square",
+      "url": "https://open.spotify.com/track/0XboALCVOmAxzi5JEZHytz"
     }
   ],
   "unique_name": "This Is Nat King Cole",

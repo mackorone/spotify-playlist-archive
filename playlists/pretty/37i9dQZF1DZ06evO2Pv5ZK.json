@@ -1,12 +1,12 @@
 {
   "description": "This is Vangelis. The essential tracks, all in one playlist.",
-  "num_followers": 109087,
+  "num_followers": 109098,
   "original_name": "This Is Vangelis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDejgAAAAABrFqLA0l7a0c7Yc/CQvZNb",
+  "snapshot_id": "aDj1AAAAAADNWHtamtZ9hj/k3ThtLn4X",
   "tracks": [
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oceanic",
-        "url": "https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 223866,
-      "name": "Aquatic Dance",
-      "url": "https://open.spotify.com/track/3FqkOf0gZvWbUmmAUA9Ao8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rosetta",
         "url": "https://open.spotify.com/album/6ROeoiTdZBO7N5C8gC2xix"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 302112,
       "name": "Rosetta",
       "url": "https://open.spotify.com/track/1O9rxgijWmS9jXksIXbxw8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oceanic",
+        "url": "https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 223866,
+      "name": "Aquatic Dance",
+      "url": "https://open.spotify.com/track/3FqkOf0gZvWbUmmAUA9Ao8"
     },
     {
       "added_at": null,
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oceanic",
-        "url": "https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 163333,
-      "name": "Dreams of Surf",
-      "url": "https://open.spotify.com/track/3PUufjfgnfjiDXj8nW77hq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spiral",
         "url": "https://open.spotify.com/album/6Tz3gRyPvHv8eDT5RZ2xXX"
       },
@@ -511,6 +495,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Oceanic",
+        "url": "https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 163333,
+      "name": "Dreams of Surf",
+      "url": "https://open.spotify.com/track/3PUufjfgnfjiDXj8nW77hq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "In the magic of Cosmos",
         "url": "https://open.spotify.com/album/4TAdRpNFxDNE2Y36OfPXS1"
       },
@@ -523,22 +523,6 @@
       "duration_ms": 127106,
       "name": "In the magic of Cosmos",
       "url": "https://open.spotify.com/track/6l6eGJDCe2d0sEsgJNi2cU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Voices",
-        "url": "https://open.spotify.com/album/5eQftRGnqOO9cp86ULqc8f"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 126093,
-      "name": "P.S.",
-      "url": "https://open.spotify.com/track/5RMXXGILiMtXMkZb8jxdZ9"
     },
     {
       "added_at": null,
@@ -571,6 +555,22 @@
       "duration_ms": 326653,
       "name": "Main Theme - From \"Chariots of Fire\"",
       "url": "https://open.spotify.com/track/48UwCtPwY0XMXEyMWXumK1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/5eQftRGnqOO9cp86ULqc8f"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 126093,
+      "name": "P.S.",
+      "url": "https://open.spotify.com/track/5RMXXGILiMtXMkZb8jxdZ9"
     },
     {
       "added_at": null,

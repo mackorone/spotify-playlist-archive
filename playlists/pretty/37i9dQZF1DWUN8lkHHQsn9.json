@@ -1,6 +1,6 @@
 {
   "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover: <a href=\"spotify:artist:2nIhOTkDDboRX6RsNMg8wg\">IKARVS</a>",
-  "num_followers": 42751,
+  "num_followers": 42748,
   "original_name": "GLOW Polska",
   "owner": {
     "name": "Spotify",
@@ -427,6 +427,22 @@
     {
       "added_at": "2025-05-12 22:00:20",
       "album": {
+        "name": "nie pow\u00f3d do p\u0142aczu",
+        "url": "https://open.spotify.com/album/3JOXWqsgFd02CfFsb1yStE"
+      },
+      "artists": [
+        {
+          "name": "color blue",
+          "url": "https://open.spotify.com/artist/4xnkAP7SRXVpNik1sc9Amd"
+        }
+      ],
+      "duration_ms": 209706,
+      "name": "dotkliwie",
+      "url": "https://open.spotify.com/track/3i8HGoWPINUw33Ig9Cu8eS"
+    },
+    {
+      "added_at": "2025-05-12 22:00:20",
+      "album": {
         "name": "Ether",
         "url": "https://open.spotify.com/album/0G9ue7SWMZ0xq2Lt4go0Lm"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 149009,
       "name": "Ether",
       "url": "https://open.spotify.com/track/6JmRdTQ3OA1abhU4b5FDN3"
-    },
-    {
-      "added_at": "2025-05-12 22:00:20",
-      "album": {
-        "name": "nie pow\u00f3d do p\u0142aczu",
-        "url": "https://open.spotify.com/album/3JOXWqsgFd02CfFsb1yStE"
-      },
-      "artists": [
-        {
-          "name": "color blue",
-          "url": "https://open.spotify.com/artist/4xnkAP7SRXVpNik1sc9Amd"
-        }
-      ],
-      "duration_ms": 209706,
-      "name": "dotkliwie",
-      "url": "https://open.spotify.com/track/3i8HGoWPINUw33Ig9Cu8eS"
     },
     {
       "added_at": "2025-05-12 22:00:20",
@@ -515,22 +515,6 @@
     {
       "added_at": "2025-05-12 22:00:20",
       "album": {
-        "name": "Oprawieni Idole",
-        "url": "https://open.spotify.com/album/3tzpTWcA4jLEOqzUNSaZdN"
-      },
-      "artists": [
-        {
-          "name": "Izabela Zabielska",
-          "url": "https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ"
-        }
-      ],
-      "duration_ms": 239000,
-      "name": "Oprawieni Idole",
-      "url": "https://open.spotify.com/track/0g05ozy4yvX3pMLSFMEctT"
-    },
-    {
-      "added_at": "2025-05-12 22:00:20",
-      "album": {
         "name": "maybe someday",
         "url": "https://open.spotify.com/album/1k4kqCQl0RAM8gMxpRDC7S"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 292000,
       "name": "maybe someday",
       "url": "https://open.spotify.com/track/54J49JuwN6GkJAm6K18Vjz"
+    },
+    {
+      "added_at": "2025-05-12 22:00:20",
+      "album": {
+        "name": "Oprawieni Idole",
+        "url": "https://open.spotify.com/album/3tzpTWcA4jLEOqzUNSaZdN"
+      },
+      "artists": [
+        {
+          "name": "Izabela Zabielska",
+          "url": "https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ"
+        }
+      ],
+      "duration_ms": 239000,
+      "name": "Oprawieni Idole",
+      "url": "https://open.spotify.com/track/0g05ozy4yvX3pMLSFMEctT"
     },
     {
       "added_at": "2025-05-12 22:00:20",
@@ -699,22 +699,6 @@
     {
       "added_at": "2025-05-12 22:00:20",
       "album": {
-        "name": "Nie m\u00f3j typ",
-        "url": "https://open.spotify.com/album/3dVeCcsSnCTQZsNHysUSme"
-      },
-      "artists": [
-        {
-          "name": "Stysio",
-          "url": "https://open.spotify.com/artist/4nZ1fSGL8lu414cuxphyhT"
-        }
-      ],
-      "duration_ms": 145370,
-      "name": "Nie m\u00f3j typ",
-      "url": "https://open.spotify.com/track/0R8CXA2R06LBzMSby2mz34"
-    },
-    {
-      "added_at": "2025-05-12 22:00:20",
-      "album": {
         "name": "bulletproof",
         "url": "https://open.spotify.com/album/5AnzlgR3wzsG7Yn4REMS5m"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 146181,
       "name": "bulletproof",
       "url": "https://open.spotify.com/track/4DRVf1eh2KhaxdfiQFk5NG"
+    },
+    {
+      "added_at": "2025-05-12 22:00:20",
+      "album": {
+        "name": "Nie m\u00f3j typ",
+        "url": "https://open.spotify.com/album/3dVeCcsSnCTQZsNHysUSme"
+      },
+      "artists": [
+        {
+          "name": "Stysio",
+          "url": "https://open.spotify.com/artist/4nZ1fSGL8lu414cuxphyhT"
+        }
+      ],
+      "duration_ms": 145370,
+      "name": "Nie m\u00f3j typ",
+      "url": "https://open.spotify.com/track/0R8CXA2R06LBzMSby2mz34"
     },
     {
       "added_at": "2025-05-12 22:00:20",
@@ -951,22 +951,6 @@
     {
       "added_at": "2025-05-12 22:00:20",
       "album": {
-        "name": "NIE ZNASZ JEJ",
-        "url": "https://open.spotify.com/album/5Lz3RAlx009Pp3PfYGMmb1"
-      },
-      "artists": [
-        {
-          "name": "Elena",
-          "url": "https://open.spotify.com/artist/27cGum5CmUlUoCKxaiKqnn"
-        }
-      ],
-      "duration_ms": 154698,
-      "name": "NIE ZNASZ JEJ",
-      "url": "https://open.spotify.com/track/6h3tQYd7SQ5R24y4BSNld8"
-    },
-    {
-      "added_at": "2025-05-12 22:00:20",
-      "album": {
         "name": "CO MAM ZROBI\u0106",
         "url": "https://open.spotify.com/album/6KzezuOKK12y86nWAbezNg"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 212508,
       "name": "CO MAM ZROBI\u0106",
       "url": "https://open.spotify.com/track/6JddAEkM0eTGKlWMlpFAn9"
+    },
+    {
+      "added_at": "2025-05-12 22:00:20",
+      "album": {
+        "name": "Milion szans",
+        "url": "https://open.spotify.com/album/1j8uRzoV7I8Rsxd5GdxFPx"
+      },
+      "artists": [
+        {
+          "name": "Elena",
+          "url": "https://open.spotify.com/artist/27cGum5CmUlUoCKxaiKqnn"
+        }
+      ],
+      "duration_ms": 164409,
+      "name": "Milion szans",
+      "url": "https://open.spotify.com/track/4L4sLQUDvbfLd8VKnvj7um"
     },
     {
       "added_at": "2025-05-12 22:00:20",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2025-05-12 22:00:20",
       "album": {
-        "name": "Milion szans",
-        "url": "https://open.spotify.com/album/1j8uRzoV7I8Rsxd5GdxFPx"
-      },
-      "artists": [
-        {
-          "name": "Elena",
-          "url": "https://open.spotify.com/artist/27cGum5CmUlUoCKxaiKqnn"
-        }
-      ],
-      "duration_ms": 164409,
-      "name": "Milion szans",
-      "url": "https://open.spotify.com/track/4L4sLQUDvbfLd8VKnvj7um"
-    },
-    {
-      "added_at": "2025-05-12 22:00:20",
-      "album": {
         "name": "Born Like That",
         "url": "https://open.spotify.com/album/722UKDfrfO8MTByuk9I2oE"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 153226,
       "name": "MVP",
       "url": "https://open.spotify.com/track/48Ar2VGFtVUglcn8UFkVM3"
+    },
+    {
+      "added_at": "2025-05-12 22:00:20",
+      "album": {
+        "name": "NIE ZNASZ JEJ",
+        "url": "https://open.spotify.com/album/5Lz3RAlx009Pp3PfYGMmb1"
+      },
+      "artists": [
+        {
+          "name": "Elena",
+          "url": "https://open.spotify.com/artist/27cGum5CmUlUoCKxaiKqnn"
+        }
+      ],
+      "duration_ms": 154698,
+      "name": "NIE ZNASZ JEJ",
+      "url": "https://open.spotify.com/track/6h3tQYd7SQ5R24y4BSNld8"
     },
     {
       "added_at": "2025-05-12 22:00:20",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2025-05-12 22:00:20",
       "album": {
-        "name": "DOM",
-        "url": "https://open.spotify.com/album/2PGFxvrz2d9GixdQRL8ziH"
+        "name": "Ta\u0144cz\u0119",
+        "url": "https://open.spotify.com/album/54lzrUtzRhLlfsWzzVLqtA"
       },
       "artists": [
         {
-          "name": "Kamil Kowalski",
-          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
+          "name": "Alan Cyprysiak",
+          "url": "https://open.spotify.com/artist/0gbd0sFWxT28CVsxZ6J6Ig"
         }
       ],
-      "duration_ms": 243979,
-      "name": "Cie\u0144",
-      "url": "https://open.spotify.com/track/7C7G5i9pHHjdPXGCu02oTJ"
+      "duration_ms": 210786,
+      "name": "Ta\u0144cz\u0119",
+      "url": "https://open.spotify.com/track/24ETPb54sx8KtyFV7mMRUI"
     },
     {
       "added_at": "2025-05-12 22:00:20",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2025-05-12 22:00:20",
       "album": {
-        "name": "Ta\u0144cz\u0119",
-        "url": "https://open.spotify.com/album/54lzrUtzRhLlfsWzzVLqtA"
+        "name": "DOM",
+        "url": "https://open.spotify.com/album/2PGFxvrz2d9GixdQRL8ziH"
       },
       "artists": [
         {
-          "name": "Alan Cyprysiak",
-          "url": "https://open.spotify.com/artist/0gbd0sFWxT28CVsxZ6J6Ig"
+          "name": "Kamil Kowalski",
+          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
         }
       ],
-      "duration_ms": 210786,
-      "name": "Ta\u0144cz\u0119",
-      "url": "https://open.spotify.com/track/24ETPb54sx8KtyFV7mMRUI"
+      "duration_ms": 243979,
+      "name": "Cie\u0144",
+      "url": "https://open.spotify.com/track/7C7G5i9pHHjdPXGCu02oTJ"
     },
     {
       "added_at": "2025-05-12 22:00:20",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2025-05-12 22:00:20",
       "album": {
-        "name": "romantyzuj\u0119 EP",
-        "url": "https://open.spotify.com/album/1npaNdX2BlFVJut1qvGzpR"
-      },
-      "artists": [
-        {
-          "name": "RAF",
-          "url": "https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk"
-        }
-      ],
-      "duration_ms": 142500,
-      "name": "deszcz",
-      "url": "https://open.spotify.com/track/3Po2TlXn1bcRsSujzbNkk2"
-    },
-    {
-      "added_at": "2025-05-12 22:00:20",
-      "album": {
         "name": "Straty",
         "url": "https://open.spotify.com/album/3nx2oHLmlr03XkXdJ71wBb"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 194250,
       "name": "Dok\u0105d biegn\u0119",
       "url": "https://open.spotify.com/track/72fif1k16rwOEMH8l8MLVM"
+    },
+    {
+      "added_at": "2025-05-12 22:00:20",
+      "album": {
+        "name": "romantyzuj\u0119 EP",
+        "url": "https://open.spotify.com/album/1npaNdX2BlFVJut1qvGzpR"
+      },
+      "artists": [
+        {
+          "name": "RAF",
+          "url": "https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk"
+        }
+      ],
+      "duration_ms": 142500,
+      "name": "deszcz",
+      "url": "https://open.spotify.com/track/3Po2TlXn1bcRsSujzbNkk2"
     },
     {
       "added_at": "2025-05-12 22:00:20",
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2025-05-12 22:00:20",
       "album": {
-        "name": "K\u00f3\u0142ko I Krzy\u017cyk",
-        "url": "https://open.spotify.com/album/1lTGKDGJZOFKBGwDKRU6ex"
+        "name": "Nie ma szans",
+        "url": "https://open.spotify.com/album/0gkHfzqnX6zc3eTEHAOhBN"
       },
       "artists": [
         {
-          "name": "Cudowne Lata",
-          "url": "https://open.spotify.com/artist/0e3JhHef9mrLSetLvdbJxf"
+          "name": "NIEB\u00d8",
+          "url": "https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es"
         }
       ],
-      "duration_ms": 169090,
-      "name": "Po Szkole",
-      "url": "https://open.spotify.com/track/1chndxFq6bSnakKnBO6UoU"
+      "duration_ms": 215629,
+      "name": "Nie ma szans",
+      "url": "https://open.spotify.com/track/6ugIQaWAeUcgfiUJItQiCb"
     },
     {
       "added_at": "2025-05-12 22:00:20",
@@ -1355,34 +1355,18 @@
     {
       "added_at": "2025-05-12 22:00:20",
       "album": {
-        "name": "IKONA",
-        "url": "https://open.spotify.com/album/37WqxMNlOurhOAEi9iPuDg"
+        "name": "K\u00f3\u0142ko I Krzy\u017cyk",
+        "url": "https://open.spotify.com/album/1lTGKDGJZOFKBGwDKRU6ex"
       },
       "artists": [
         {
-          "name": "Shady Lady",
-          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
+          "name": "Cudowne Lata",
+          "url": "https://open.spotify.com/artist/0e3JhHef9mrLSetLvdbJxf"
         }
       ],
-      "duration_ms": 180983,
-      "name": "IKONA",
-      "url": "https://open.spotify.com/track/6MqFb9iP01VR5dLZf2Bl5o"
-    },
-    {
-      "added_at": "2025-05-12 22:00:20",
-      "album": {
-        "name": "Nie ma szans",
-        "url": "https://open.spotify.com/album/0gkHfzqnX6zc3eTEHAOhBN"
-      },
-      "artists": [
-        {
-          "name": "NIEB\u00d8",
-          "url": "https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es"
-        }
-      ],
-      "duration_ms": 215629,
-      "name": "Nie ma szans",
-      "url": "https://open.spotify.com/track/6ugIQaWAeUcgfiUJItQiCb"
+      "duration_ms": 169090,
+      "name": "Po Szkole",
+      "url": "https://open.spotify.com/track/1chndxFq6bSnakKnBO6UoU"
     },
     {
       "added_at": "2025-05-12 22:00:20",
@@ -1403,18 +1387,18 @@
     {
       "added_at": "2025-05-12 22:00:20",
       "album": {
-        "name": "Priorytety",
-        "url": "https://open.spotify.com/album/2B46Wx88prs5gPWMnvFMVO"
+        "name": "IKONA",
+        "url": "https://open.spotify.com/album/37WqxMNlOurhOAEi9iPuDg"
       },
       "artists": [
         {
-          "name": "Alan Cyprysiak",
-          "url": "https://open.spotify.com/artist/0gbd0sFWxT28CVsxZ6J6Ig"
+          "name": "Shady Lady",
+          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
         }
       ],
-      "duration_ms": 267000,
-      "name": "Priorytety",
-      "url": "https://open.spotify.com/track/3Q3U0azD3REhtU7nLrhabj"
+      "duration_ms": 180983,
+      "name": "IKONA",
+      "url": "https://open.spotify.com/track/6MqFb9iP01VR5dLZf2Bl5o"
     },
     {
       "added_at": "2025-05-12 22:00:20",
@@ -1431,6 +1415,22 @@
       "duration_ms": 142975,
       "name": "Nawzajem",
       "url": "https://open.spotify.com/track/0co1lgFF2B3fimrK2PqHok"
+    },
+    {
+      "added_at": "2025-05-12 22:00:20",
+      "album": {
+        "name": "Priorytety",
+        "url": "https://open.spotify.com/album/2B46Wx88prs5gPWMnvFMVO"
+      },
+      "artists": [
+        {
+          "name": "Alan Cyprysiak",
+          "url": "https://open.spotify.com/artist/0gbd0sFWxT28CVsxZ6J6Ig"
+        }
+      ],
+      "duration_ms": 267000,
+      "name": "Priorytety",
+      "url": "https://open.spotify.com/track/3Q3U0azD3REhtU7nLrhabj"
     },
     {
       "added_at": "2025-05-12 22:00:20",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2025-05-12 22:00:20",
       "album": {
-        "name": "Rozkosz",
-        "url": "https://open.spotify.com/album/3qr5MOBJoaEnG0iic6jegX"
-      },
-      "artists": [
-        {
-          "name": "Zawadzki",
-          "url": "https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt"
-        }
-      ],
-      "duration_ms": 184218,
-      "name": "Rozkosz",
-      "url": "https://open.spotify.com/track/4bymysBJGx0jxLDb47dVYO"
-    },
-    {
-      "added_at": "2025-05-12 22:00:20",
-      "album": {
         "name": "Wi\u0119cej empatii (Muzyka z filmu \u201eNie jeste\u015b sama\u201d)",
         "url": "https://open.spotify.com/album/3bF6Pc10GocYSCiEMlOg3O"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 192631,
       "name": "Wi\u0119cej empatii (Muzyka z filmu \u201eNie jeste\u015b sama\u201d)",
       "url": "https://open.spotify.com/track/35lGRGuvZ4tSZNreJO6s75"
+    },
+    {
+      "added_at": "2025-05-12 22:00:20",
+      "album": {
+        "name": "Rozkosz",
+        "url": "https://open.spotify.com/album/3qr5MOBJoaEnG0iic6jegX"
+      },
+      "artists": [
+        {
+          "name": "Zawadzki",
+          "url": "https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt"
+        }
+      ],
+      "duration_ms": 184218,
+      "name": "Rozkosz",
+      "url": "https://open.spotify.com/track/4bymysBJGx0jxLDb47dVYO"
     }
   ],
   "unique_name": "GLOW Polska",

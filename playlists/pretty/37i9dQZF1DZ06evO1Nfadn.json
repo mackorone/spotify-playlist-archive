@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Maguey. The essential tracks, all in one playlist.",
-  "num_followers": 32851,
+  "num_followers": 32889,
   "original_name": "This Is Banda Maguey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDejgAAAAAAYGCqTTUEaRtBxHr0TIft4",
+  "snapshot_id": "aDj1AAAAAABQERqzn+rwL4S3l6MCsF9D",
   "tracks": [
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Toro Pinto",
-        "url": "https://open.spotify.com/album/7l2PClmsLcKhI0p3FDL65N"
+        "name": "Escorpion",
+        "url": "https://open.spotify.com/album/5e7wv748rJffgylHrbQR6L"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 211306,
-      "name": "El Toro Pinto",
-      "url": "https://open.spotify.com/track/1Bintm3VasQng30o97U9D3"
+      "duration_ms": 158306,
+      "name": "Qu\u00e9 Bonito Amor",
+      "url": "https://open.spotify.com/track/4IoTn7jGNkhZyfH2oLuU0I"
     },
     {
       "added_at": null,
@@ -331,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Escorpion",
-        "url": "https://open.spotify.com/album/5e7wv748rJffgylHrbQR6L"
+        "name": "El Toro Pinto",
+        "url": "https://open.spotify.com/album/7l2PClmsLcKhI0p3FDL65N"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 158306,
-      "name": "Qu\u00e9 Bonito Amor",
-      "url": "https://open.spotify.com/track/4IoTn7jGNkhZyfH2oLuU0I"
+      "duration_ms": 211306,
+      "name": "El Toro Pinto",
+      "url": "https://open.spotify.com/track/1Bintm3VasQng30o97U9D3"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Que Son las Cosas",
-        "url": "https://open.spotify.com/album/1ems7HK5yY95MtyNCDKKDi"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 194666,
-      "name": "Brinca Brita",
-      "url": "https://open.spotify.com/track/0PLFV9ddyrQ7josGKivRTi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tumbando Ca\u00f1a (Serie Cl\u00e1sica)",
         "url": "https://open.spotify.com/album/5JvV0kzyy2plXnHkMwVSkt"
       },
@@ -507,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Eterno Enamorado",
-        "url": "https://open.spotify.com/album/6rCAwHhGY5NUtmaEFG4nCH"
+        "name": "Lo Que Son las Cosas",
+        "url": "https://open.spotify.com/album/1ems7HK5yY95MtyNCDKKDi"
       },
       "artists": [
         {
@@ -516,9 +500,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 156706,
-      "name": "Baila Nena",
-      "url": "https://open.spotify.com/track/5Lq53c0cHdYcNxgH5JrE5t"
+      "duration_ms": 194666,
+      "name": "Brinca Brita",
+      "url": "https://open.spotify.com/track/0PLFV9ddyrQ7josGKivRTi"
     },
     {
       "added_at": null,
@@ -535,6 +519,22 @@
       "duration_ms": 153861,
       "name": "Bikini Azul",
       "url": "https://open.spotify.com/track/1YvqhFsIxpy9yEzn9sWb0X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tu Eterno Enamorado",
+        "url": "https://open.spotify.com/album/6rCAwHhGY5NUtmaEFG4nCH"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 156706,
+      "name": "Baila Nena",
+      "url": "https://open.spotify.com/track/5Lq53c0cHdYcNxgH5JrE5t"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Eterno Enamorado",
-        "url": "https://open.spotify.com/album/6rCAwHhGY5NUtmaEFG4nCH"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 142653,
-      "name": "Mujer Paseada",
-      "url": "https://open.spotify.com/track/7irQS7Wm2SsGFRkOOqZ0Hv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tesoros de Coleccion",
         "url": "https://open.spotify.com/album/32VXfWuobjTws2zbbs2rnM"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 170120,
       "name": "Si la Ven por Ah\u00ed",
       "url": "https://open.spotify.com/track/4UtzBoFkJe8yFF10yPKW9C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tu Eterno Enamorado",
+        "url": "https://open.spotify.com/album/6rCAwHhGY5NUtmaEFG4nCH"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 142653,
+      "name": "Mujer Paseada",
+      "url": "https://open.spotify.com/track/7irQS7Wm2SsGFRkOOqZ0Hv"
     },
     {
       "added_at": null,

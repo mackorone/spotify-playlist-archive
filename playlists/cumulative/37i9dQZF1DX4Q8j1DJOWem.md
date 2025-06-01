@@ -4,7 +4,7 @@
 
 > ค้นพบศิลปินรุ่นใหม่ที่น่าจับตามองแห่งปี 2025 ที่นี่เลย! ปก: guncharlie
 
-257 songs - 15 hr 59 min
+258 songs - 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [รอวันเธอลืมเขา](https://open.spotify.com/track/7IhbsxmWUQi7Q6PSR8Ecq5) | [The White Hair Cut](https://open.spotify.com/artist/2uL9cdYQwaJbvudGv4VxOc) | [รอวันเธอลืมเขา](https://open.spotify.com/album/5KYd61ZcqKn5TyYpIHeP3B) | 3:58 | 2022-11-23 | 2023-04-14 |
 | [รอเธอจนหายเปียกปอน](https://open.spotify.com/track/2Ovyq7vslMeRMiyQ3mhvwa) | [Newery](https://open.spotify.com/artist/2ztuZ95DKP7O7DDAxCKYen) | [รอเธอจนหายเปียกปอน](https://open.spotify.com/album/3ey3g3hudUsosGs4lHuS2j) | 4:33 | 2024-03-28 | 2025-03-28 |
 | [รักกันนานนาน \(นะค่ะ\)](https://open.spotify.com/track/26vpHHAU3Jg4r9hG9DnSTg) | [MONICA](https://open.spotify.com/artist/47KiQg20CB8KsTCAtF5aIc) | [รักกันนานนาน \(นะค่ะ\) \- Single](https://open.spotify.com/album/3yMx0TYzVsCkNotWofoRAu) | 3:18 | 2024-03-28 | 2024-04-12 |
+| [รักนะเด็กโง่ \(Stupid Girl\)](https://open.spotify.com/track/78rFoVaLAUsvURP8SrdNCH) | [PONCHET](https://open.spotify.com/artist/0BRKLnTK2MmWWQ2RXJAHQr) | [รักนะเด็กโง่ \(Stupid Girl\)](https://open.spotify.com/album/69XUkxFFdCf0VyLQg8uUQP) | 4:01 | 2025-05-31 |  |
 | [รักนาน ๆ](https://open.spotify.com/track/2pki5liIkzd6CCesJCeYgJ) | [marr team](https://open.spotify.com/artist/2EjPIddRMYQrUYfl5gRbIB), [sarah salola](https://open.spotify.com/artist/70ircOPIxsddNpd8Vgq23E) | [รักนาน ๆ](https://open.spotify.com/album/4VOJPi7NJStnxos3RhmFcx) | 2:44 | 2024-10-04 | 2025-03-28 |
 | [รักรออยู่ไม่ไกล](https://open.spotify.com/track/72UBnP9Be8bZFgGTfm5rwU) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [รักรออยู่ไม่ไกล](https://open.spotify.com/album/44X6txRQMIIwqW8tw0LTdm) | 4:19 | 2023-09-01 | 2024-03-29 |
 | [รักเธอใหม่ได้หรือเปล่า \(one more chance\)](https://open.spotify.com/track/1YLPPIsDfcmmJU92uYmtRU) | [MXFRUIT](https://open.spotify.com/artist/556NsleNBrQWCLjVHoPQ6G) | [รักเธอใหม่ได้หรือเปล่า \(one more chance\)](https://open.spotify.com/album/28jtQDJGCPVs1ftYQXNdVu) | 3:52 | 2025-02-17 | 2025-03-28 |

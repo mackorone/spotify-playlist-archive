@@ -4,7 +4,7 @@
 
 > 
 
-2,272 songs - 4 day 23 hr 35 min
+2,275 songs - 4 day 23 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -517,6 +517,7 @@
 | [Dilemma](https://open.spotify.com/track/7vh5125D0oF5SKmXtx0VXR) | [Inquisitive](https://open.spotify.com/artist/6K4XQXfV7Gill2ULeRu6fw) | [Dilemma](https://open.spotify.com/album/3Kdd6H9kLzlpdh0aQWeP9X) | 2:37 | 2024-09-24 |  |
 | [Dirty](https://open.spotify.com/track/7olgrYf7sLRHbGZsaOiSCk) | [Joey Riot](https://open.spotify.com/artist/3xKGhixeP24bKwHQ7yPyXF), [RT](https://open.spotify.com/artist/5NnM6a5nC1qejv3wbPxIjY), [Bonkers](https://open.spotify.com/artist/3pEPRYJ1ieg3fRnYd0YIyV) | [Dirty](https://open.spotify.com/album/5A71uOTP0byB4T0YNWEMuH) | 3:37 | 2024-09-28 |  |
 | [Dirty Beat](https://open.spotify.com/track/0wB3VjJrLLhilTdH1JhVN5) | [Bumloco](https://open.spotify.com/artist/7aHh1erN0CVFVwDd7oG26M) | [Dirty Beat](https://open.spotify.com/album/6kA8XdcJ8LYn5oiwjsUC5J) | 2:43 | 2024-09-13 |  |
+| [Disappear](https://open.spotify.com/track/5HIBw6fqB1coDlsaLL9zVM) | [Akimbo](https://open.spotify.com/artist/3oBAqPTxVZexp9MrfwhD3e), [Aalst](https://open.spotify.com/artist/3Zu76XPlKrtaPOJx9AlwtZ) | [Disappear](https://open.spotify.com/album/56dhriIvDUsbJVKmE52Cp5) | 2:35 | 2025-05-31 |  |
 | [Discolights \- Darren Styles VIP](https://open.spotify.com/track/4gQPTNz2THVAWM1UtnHXNZ) | [Ultrabeat](https://open.spotify.com/artist/596ByjVYnslGJIHxEBGjF8), [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm) | [Discolights \(Darren Styles VIP\)](https://open.spotify.com/album/2uNwBrYNAfogt0fhnbi7AD) | 3:00 | 2023-12-02 |  |
 | [DISCOVER THE MAYHEM \(Official REBiRTH Festival 2024 Anthem\)](https://open.spotify.com/track/1Wv5JiJLCJL8xZ5PNH1IEB) | [Sickmode](https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW), [Mish](https://open.spotify.com/artist/65kwwmTEJIlKRldGhmUM0b), [MC Livid](https://open.spotify.com/artist/3GvnEADrxf9LST8avbLuMe), [Mark Vayne](https://open.spotify.com/artist/0ISUKgiBjQ63VbyoIHfD3F) | [DISCOVER THE MAYHEM \(Official REBiRTH Festival 2024 Anthem\)](https://open.spotify.com/album/2KsPJDWa8KnaFlkQu4wnEN) | 3:58 | 2024-04-01 |  |
 | [Disrupt The Fight](https://open.spotify.com/track/14RnhHjFJ04AjHXar3hpUQ) | [GridKiller](https://open.spotify.com/artist/7njBiH1Uy0qNA8VvPPtEG7), [Restrained](https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV) | [Disrupt The Fight](https://open.spotify.com/album/0znZT0sbDHRDWglCjc3PBq) | 3:18 | 2023-06-24 |  |
@@ -561,6 +562,7 @@
 | [Dream \- Radio Edit](https://open.spotify.com/track/3IXcb2qb7vzw7jKXNCvjvD) | [The Sickest Squad](https://open.spotify.com/artist/1NGSmZz3W7RduM185NLWdk), [Billx](https://open.spotify.com/artist/0Ldjd0Z66CJ0rChWXx0jzB) | [Dream \(Radio Edit\)](https://open.spotify.com/album/44EzHdklZrj2cXIVa9RY4O) | 3:20 | 2024-11-03 |  |
 | [Dream Girl 2025](https://open.spotify.com/track/1fWKpE1xcfkh4Y9fxa3Iix) | [Dj Skyebox](https://open.spotify.com/artist/7u30ToRqptqpBuCr1Ab2Rh), [RiggL3](https://open.spotify.com/artist/4yPGJ87iuJ2VLN6MeZN2Hp), [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2) | [Dream Girl 2025](https://open.spotify.com/album/5zliXELyaDe3niGP513lOF) | 3:20 | 2025-04-18 |  |
 | [Dream Up \- kors k Remix](https://open.spotify.com/track/5j6dFGY2oVg47wLGwH72nZ) | [DJ Shimamura](https://open.spotify.com/artist/3w4XD20Uhwh95PA6Hjfd0M), [Mari\*F](https://open.spotify.com/artist/1B5gXWmWIPU0LKVIpYHJKx), [kors k](https://open.spotify.com/artist/667AP6niAXUnJkkum46TvZ) | [Dream Up \(feat\. Mari\*F\) \[kors k Remix\]](https://open.spotify.com/album/7zENTXepNOXr8bNEd1VRLB) | 4:43 | 2022-09-27 |  |
+| [Dreaming](https://open.spotify.com/track/7dfC1vMBS9eL7zb80bxIpS) | [Irradiate](https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I), [Noxiouz](https://open.spotify.com/artist/3a898qKIO2UeKsWMKH7R38) | [Dreaming](https://open.spotify.com/album/2mKRlyIgf12hOFITgELtjj) | 3:06 | 2025-05-31 |  |
 | [Dreaming](https://open.spotify.com/track/0ADD222IXEmtSXE2AuVVzS) | [Remzcore](https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp) | [Dreaming](https://open.spotify.com/album/5SEUUeBqYlKo41zlkGbHsB) | 3:05 | 2024-12-05 |  |
 | [Driftin'](https://open.spotify.com/track/7xJqmjHtPBKTIa18GXUog4) | [Namara](https://open.spotify.com/artist/50PTSnRJgyVGs9O6Kj9Jd1) | [Driftin'](https://open.spotify.com/album/6oZb1uwGF70X2TT3lrvD58) | 2:50 | 2024-07-17 |  |
 | [Drifting Away](https://open.spotify.com/track/28lyEHZrnmRJETHMrnyTjB) | [Matduke](https://open.spotify.com/artist/2iTdqBeEWz0QriMt81o9CN) | [Drifting Away](https://open.spotify.com/album/5aLrJHWb2OwLbNLpp7t4Ug) | 4:26 | 2023-05-06 |  |
@@ -1711,6 +1713,7 @@
 | [Role Play](https://open.spotify.com/track/4fOEpT48A7V1Z3O4zFulQs) | [The Braindrillerz](https://open.spotify.com/artist/6j9yYMSUzcSI8KGbhgmSKG) | [Role Play](https://open.spotify.com/album/1VhP9sS095BbaeHYh8iZOK) | 4:38 | 2022-11-29 |  |
 | [Roll Up](https://open.spotify.com/track/0a7aRMRFOc3a9jPMfD4aJp) | [Unproven](https://open.spotify.com/artist/5WPHwuzXyFyIheuZKM42lI), [Barber](https://open.spotify.com/artist/55yd56lRrN815OEFUOrC1W), [Manifest Destiny](https://open.spotify.com/artist/1XTpiNqD37eVQdS0xFqX3j) | [Thunderdome 2021](https://open.spotify.com/album/4W1vCGZ6arGZGQVMwMGWL5) | 3:39 | 2022-09-06 |  |
 | [ROLLIN' LOUD](https://open.spotify.com/track/4ke0LXdbM4c6CoL1yv4lI4) | [Anderex](https://open.spotify.com/artist/7wXBtpPB5GFddtz9OeBlPW), [Mutilator](https://open.spotify.com/artist/3AkGIMk9xwDj4A5ttNBPiN) | [I SEE THE FUTURE EP](https://open.spotify.com/album/2i2p1CfDwLdjkmemstHiWt) | 2:00 | 2024-04-24 |  |
+| [Round My Head](https://open.spotify.com/track/542YJaaKolRVtYswni3upP) | [Spiady](https://open.spotify.com/artist/49mf75hTY4Bjka8yxByfMs) | [Round My Head](https://open.spotify.com/album/0cbcXYIF7X4STj3zcHC9JO) | 1:41 | 2025-05-31 |  |
 | [ROXBOX](https://open.spotify.com/track/3SYKZZRN9r1Id3Fb54DODK) | [YUKIYANAGI](https://open.spotify.com/artist/5CxWZpW3bKbMiOC6jJ5r7i) | [minority room](https://open.spotify.com/album/6GwFoOMMZhVXtgkhO6fAKa) | 3:37 | 2022-02-22 |  |
 | [RUDE METHODS](https://open.spotify.com/track/25jlmlUJiDquYv8NIyPBTV) | [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7) | [RUDE METHODS](https://open.spotify.com/album/2dSW6exybjXs8rXYQ3utSd) | 3:08 | 2023-03-06 |  |
 | [Run Away](https://open.spotify.com/track/77IxOiVpFXzl9F1w9zz4Ra) | [Jiyagi](https://open.spotify.com/artist/1W62M2K9f0mwHdXhtywK4l) | [Run Away](https://open.spotify.com/album/05NaULJBc3q005BEtApZd3) | 2:28 | 2023-05-20 |  |

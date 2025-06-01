@@ -1,12 +1,12 @@
 {
   "description": "This is Paulo Londra. The essential tracks, all in one playlist.",
-  "num_followers": 1308134,
+  "num_followers": 1308202,
   "original_name": "This Is Paulo Londra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDejgAAAAAC6WRVkjUJJufQMf38CjVCb",
+  "snapshot_id": "aDj1AAAAAAD3pUY6GilsFIz2J4p5MjgM",
   "tracks": [
     {
       "added_at": null,
@@ -167,18 +167,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "C\u00e1mara Lenta",
-        "url": "https://open.spotify.com/album/30baudnBrCRWSuGJRoNLNm"
+        "name": "Flashbacks | CROSSOVER #9",
+        "url": "https://open.spotify.com/album/3RVunVsTpDf0UQ18IVVWBy"
       },
       "artists": [
+        {
+          "name": "Big One",
+          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
         {
           "name": "Paulo Londra",
           "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
         }
       ],
-      "duration_ms": 195709,
-      "name": "C\u00e1mara Lenta",
-      "url": "https://open.spotify.com/track/1OphvZqEV1jhzTGfCXSTWX"
+      "duration_ms": 182871,
+      "name": "Flashbacks | CROSSOVER #9",
+      "url": "https://open.spotify.com/track/73JFuGO9niMXXqmJ2WAMPU"
     },
     {
       "added_at": null,
@@ -215,6 +223,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "C\u00e1mara Lenta",
+        "url": "https://open.spotify.com/album/30baudnBrCRWSuGJRoNLNm"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 195709,
+      "name": "C\u00e1mara Lenta",
+      "url": "https://open.spotify.com/track/1OphvZqEV1jhzTGfCXSTWX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Reci\u00e9n Soltera",
         "url": "https://open.spotify.com/album/5cSGLKp6GpfyYBjtCp2T2D"
       },
@@ -227,30 +251,6 @@
       "duration_ms": 183856,
       "name": "Reci\u00e9n Soltera",
       "url": "https://open.spotify.com/track/62NnbMclYuQuF09B0ShIPV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Flashbacks | CROSSOVER #9",
-        "url": "https://open.spotify.com/album/3RVunVsTpDf0UQ18IVVWBy"
-      },
-      "artists": [
-        {
-          "name": "Big One",
-          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
-        },
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        },
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 182871,
-      "name": "Flashbacks | CROSSOVER #9",
-      "url": "https://open.spotify.com/track/73JFuGO9niMXXqmJ2WAMPU"
     },
     {
       "added_at": null,
@@ -383,6 +383,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Back To The Game",
+        "url": "https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 213120,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/3dRfUIZFlwHB2l8pWbgQzp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Homerun",
+        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 175028,
+      "name": "No Puedo",
+      "url": "https://open.spotify.com/track/6MbSMSXrSlvsyHf4kcaLQi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A200 (Remix)",
         "url": "https://open.spotify.com/album/3CNSRkEeO9QWGiyqX8Ozok"
       },
@@ -419,8 +451,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Homerun",
-        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
+        "name": "VERSUS",
+        "url": "https://open.spotify.com/album/3S9l1Zky8ysxa8dEI1Hy1E"
       },
       "artists": [
         {
@@ -428,9 +460,9 @@
           "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
         }
       ],
-      "duration_ms": 175028,
-      "name": "No Puedo",
-      "url": "https://open.spotify.com/track/6MbSMSXrSlvsyHf4kcaLQi"
+      "duration_ms": 141475,
+      "name": "GLAMPING",
+      "url": "https://open.spotify.com/track/2o9P96ZWhJ4qOnNdeg657H"
     },
     {
       "added_at": null,
@@ -444,25 +476,9 @@
           "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
         }
       ],
-      "duration_ms": 213120,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/3dRfUIZFlwHB2l8pWbgQzp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "VERSUS",
-        "url": "https://open.spotify.com/album/3S9l1Zky8ysxa8dEI1Hy1E"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 141475,
-      "name": "GLAMPING",
-      "url": "https://open.spotify.com/track/2o9P96ZWhJ4qOnNdeg657H"
+      "duration_ms": 165560,
+      "name": "Ojal\u00e1",
+      "url": "https://open.spotify.com/track/1IpzwwhCo2eoCyecfhDqt2"
     },
     {
       "added_at": null,
@@ -499,22 +515,6 @@
       "duration_ms": 243793,
       "name": "Itamambuca",
       "url": "https://open.spotify.com/track/2TWc1VLLfbDx9kaxPDx0vl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Back To The Game",
-        "url": "https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 165560,
-      "name": "Ojal\u00e1",
-      "url": "https://open.spotify.com/track/1IpzwwhCo2eoCyecfhDqt2"
     },
     {
       "added_at": null,
@@ -571,18 +571,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Posdata:",
-        "url": "https://open.spotify.com/album/0oBnKQ2chigdzlJkUuVBYk"
+        "name": "Back To The Game",
+        "url": "https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h"
       },
       "artists": [
         {
           "name": "Paulo Londra",
           "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 169162,
-      "name": "Posdata:",
-      "url": "https://open.spotify.com/track/1dqZaWGQf8CaHNIEi3e0D9"
+      "duration_ms": 191186,
+      "name": "A Veces (feat. Feid)",
+      "url": "https://open.spotify.com/track/1O9FJyTicBMSqIv0RLRy4i"
     },
     {
       "added_at": null,
@@ -603,22 +607,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back To The Game",
-        "url": "https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h"
+        "name": "Posdata:",
+        "url": "https://open.spotify.com/album/0oBnKQ2chigdzlJkUuVBYk"
       },
       "artists": [
         {
           "name": "Paulo Londra",
           "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 191186,
-      "name": "A Veces (feat. Feid)",
-      "url": "https://open.spotify.com/track/1O9FJyTicBMSqIv0RLRy4i"
+      "duration_ms": 169162,
+      "name": "Posdata:",
+      "url": "https://open.spotify.com/track/1dqZaWGQf8CaHNIEi3e0D9"
     },
     {
       "added_at": null,

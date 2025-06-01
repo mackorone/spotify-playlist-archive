@@ -2,17 +2,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 
 ### [t'as la ref ?](https://open.spotify.com/playlist/37i9dQZF1DXdvyLcddcaVU)
 
-> \#fyp
+> Paris c'est magique, c'est trop ma ville, ça bouge de tous les côtés \#fyp
 
-[Spotify](https://open.spotify.com/user/spotify) - 743,565 likes - 90 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 744,620 likes - 90 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [KYKY2BONDY](https://open.spotify.com/track/2t5LPLptBemV0W8IGLBLju) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [KYKY2BONDY](https://open.spotify.com/album/1v0PXbZWCDNie0zpY3rCVq) | 2:17 |
-| 2 | [Mia](https://open.spotify.com/track/6CRb7rnmx8Mqrb8cpixcVi) | [SEYSEY](https://open.spotify.com/artist/1vMCydfeqfc5BdxolssKxU), [BOLEMVN](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7) | [Mia](https://open.spotify.com/album/2F90J1QAOpPJPyhXoTULeB) | 2:59 |
-| 3 | [Mimi](https://open.spotify.com/track/3iqcqAwtnurPNJAcvwVIyt) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [D&P à vie](https://open.spotify.com/album/1REfaUH0Ic7VnohlnySdpF) | 3:39 |
-| 4 | [Los Angeles](https://open.spotify.com/track/4GB4R2CJe5kLrjWTusDR8p) | [Siaka](https://open.spotify.com/artist/7iXdTXVgCMV5v1c8DFAUoz) | [Los Angeles](https://open.spotify.com/album/0Kzc5Q79RKy9q77FO6v1hP) | 3:05 |
-| 5 | [Paris](https://open.spotify.com/track/6ctcVdXaJKn5LVFDjMBqzc) | [Nono La Grinta](https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN) | [Paris](https://open.spotify.com/album/6oA8BfOJmuXqrHNCb2JfeZ) | 2:52 |
+| 1 | [Paris](https://open.spotify.com/track/6ctcVdXaJKn5LVFDjMBqzc) | [Nono La Grinta](https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN) | [Paris](https://open.spotify.com/album/6oA8BfOJmuXqrHNCb2JfeZ) | 2:52 |
+| 2 | [KYKY2BONDY](https://open.spotify.com/track/2t5LPLptBemV0W8IGLBLju) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [KYKY2BONDY](https://open.spotify.com/album/1v0PXbZWCDNie0zpY3rCVq) | 2:17 |
+| 3 | [Mia](https://open.spotify.com/track/6CRb7rnmx8Mqrb8cpixcVi) | [SEYSEY](https://open.spotify.com/artist/1vMCydfeqfc5BdxolssKxU), [BOLEMVN](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7) | [Mia](https://open.spotify.com/album/2F90J1QAOpPJPyhXoTULeB) | 2:59 |
+| 4 | [Mimi](https://open.spotify.com/track/3iqcqAwtnurPNJAcvwVIyt) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [D&P à vie](https://open.spotify.com/album/1REfaUH0Ic7VnohlnySdpF) | 3:39 |
+| 5 | [Los Angeles](https://open.spotify.com/track/4GB4R2CJe5kLrjWTusDR8p) | [Siaka](https://open.spotify.com/artist/7iXdTXVgCMV5v1c8DFAUoz) | [Los Angeles](https://open.spotify.com/album/0Kzc5Q79RKy9q77FO6v1hP) | 3:05 |
 | 6 | [Celibataire Polygame](https://open.spotify.com/track/3UR6F2UJP6yClNugKXPOXH) | [TKS 2G](https://open.spotify.com/artist/26ZKmgHKJWQdnSKUZCVEKa) | [Celibataire Polygame](https://open.spotify.com/album/7ywV7kOvweiKhg0ntcEB3i) | 2:14 |
 | 7 | [Un Poco](https://open.spotify.com/track/3MVTefqbeNX5yHFOmnHy3X) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [M.I.L.S 2.0](https://open.spotify.com/album/0hl8Hs6SM4NfS5TOrkOfRU) | 3:08 |
 | 8 | [Bwo](https://open.spotify.com/track/4De1ry2yC79qVUR2So9to8) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Inspi d'ailleurs](https://open.spotify.com/album/4YuyQlJ6qQ3yBJgkj4RmvA) | 3:52 |
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 | 52 | [Balade](https://open.spotify.com/track/3PAkE2potAfVGgTocmrF89) | [1D1R](https://open.spotify.com/artist/4xTTjdhKC6SxsxKwPXMuKN), [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Balade](https://open.spotify.com/album/3nw79WxspBWa9V7r3KiFBT) | 3:13 |
 | 53 | [pas différent](https://open.spotify.com/track/5p0yASvfzEmGvFMB9M8R7I) | [MP404](https://open.spotify.com/artist/78H2pO7f0OzfsKvT5VqofA) | [pas différent](https://open.spotify.com/album/5WkpNZFiU82YeeqXqTJtcu) | 2:47 |
 | 54 | [Casque Roof](https://open.spotify.com/track/7x2QqC7orIpQEJyRdxuEfV) | [Rousnam](https://open.spotify.com/artist/2swYfXhkzkb8s8djG6UjSm) | [Casque Roof](https://open.spotify.com/album/3UfDwWSlI3HjNNHmSA4MX3) | 2:39 |
-| 55 | [Pretty Little Baby \- Stereo Mix](https://open.spotify.com/track/5GQPBzoRBDxcAjwSSluQXD) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Connie Francis Sings Second Hand Love & Other Hits](https://open.spotify.com/album/6CTiCTGft53NcVMsAxxgCQ) | 2:22 |
+| 55 | [Pretty Little Baby](https://open.spotify.com/track/5GQPBzoRBDxcAjwSSluQXD) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Connie Francis Sings Second Hand Love & Other Hits](https://open.spotify.com/album/6CTiCTGft53NcVMsAxxgCQ) | 2:22 |
 | 56 | [Tout gâché](https://open.spotify.com/track/2p7qT06zGjnvptWFPGgyLi) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Capitaine fait de l'art](https://open.spotify.com/album/05YqDGZ0w5GCfvLb7TMoKT) | 2:30 |
 | 57 | [Parle en sah](https://open.spotify.com/track/1xysbkgOGqOBgyVqNeSMla) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86), [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV) | [Focus](https://open.spotify.com/album/6ny3VhgjCxyIkGAJk7TjsK) | 2:41 |
 | 58 | [La Pluie](https://open.spotify.com/track/2PcRPX3wHqfNYCo7gmD4Zp) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [La Pluie](https://open.spotify.com/album/2OKLI9R3wAUhLghQ9u0FaZ) | 3:55 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 | 89 | [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 |
 | 90 | [Mec de la rue](https://open.spotify.com/track/65wLKpTngPpQ9zs8WBT3e8) | [Moubarak](https://open.spotify.com/artist/5E62kscxqQ6HRcRRsxm1n1) | [Mec de la rue](https://open.spotify.com/album/323w5jHskUoIN7ogHUqGu6) | 3:34 |
 
-Snapshot ID: `aDjZBQAAAADyPt1boUVyK9tINMx8DOCF`
+Snapshot ID: `aDupbwAAAAA2faJFrB4LPKl/bOTiiglw`

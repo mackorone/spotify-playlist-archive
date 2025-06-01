@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > They got next and now\. Cover: <a href="spotify:artist:79NDEw5QWlDC9KaIbogNhS">PlaqueBoyMax</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,148 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,199 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,17 +30,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 20 | [WHATCHU KNO ABOUT ME \(with Sexyy Red\)](https://open.spotify.com/track/4VI2Y5xg4gYynQqNQNQbTN) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [WHATCHU KNO ABOUT ME \(with Sexyy Red\)](https://open.spotify.com/album/2PzoiaGTcK3NfnMgHFd7QC) | 2:29 |
 | 21 | [So Sexyy \(with Sexyy Redd & YTB Fatt\)](https://open.spotify.com/track/208C0acBUn3Lzh4L5P5Kkw) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT) | [Let Me Fly](https://open.spotify.com/album/5bPJWz3z4NWjOaRYBRZBED) | 3:22 |
 | 22 | [The Largest](https://open.spotify.com/track/3neOwym9kfYsM1QWaR77C1) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [TAKE CARE](https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc) | 2:12 |
-| 23 | [Feel It \(From “Invincible”\)](https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Feel It \(From “Invincible”\)](https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2) | 2:37 |
-| 24 | [MUTT](https://open.spotify.com/track/2uvE4L5ZsYKpv8hbK4TIOt) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 3:12 |
-| 25 | [Pajamas](https://open.spotify.com/track/3svAabqImjfGaLARJDuFg0) | [AKIA](https://open.spotify.com/artist/4TiHWoAwePhDOFuPpcls06) | [Pajamas](https://open.spotify.com/album/3KqPQgeeJyuWSl5naBFh1o) | 2:36 |
-| 26 | [Burning Blue](https://open.spotify.com/track/0aWHb6ujnlXkmmOI1ltStc) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Burning Blue](https://open.spotify.com/album/02DSnnPzc0do4lZmfJjeeg) | 3:25 |
-| 27 | [London Summers](https://open.spotify.com/track/1vCnTZE7PVUakwkqCnIhrn) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [London Summers](https://open.spotify.com/album/6L0fjCZSfZxhavSOOh4ohF) | 3:37 |
-| 28 | [Head in a Jar](https://open.spotify.com/track/0y56rCLTldeTurCf3LugTZ) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [Head in a Jar](https://open.spotify.com/album/75JRyqkCNN6DQRdT5et7I3) | 3:16 |
-| 29 | [I Wish I Had More Time](https://open.spotify.com/track/5BQML4ZWArKHRCiQuQ4cDT) | [Braye](https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0) | [I Wish I Had More Time](https://open.spotify.com/album/3vmGWdWH4DkbiLWlb3s9kb) | 3:09 |
-| 30 | [For Me \(feat\. Brent Faiyaz\) \- Remix](https://open.spotify.com/track/2mo4wJKJJR2lQCZYnTaI4Y) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Nardy World](https://open.spotify.com/album/546FvdeuoSf9FA2o6RMpOy) | 3:23 |
-| 31 | [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/track/7eRJjg52FkSmQvmNQDYpMl) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/album/6tEqHl8uemF0Hmb0iGs6vJ) | 3:33 |
-| 32 | [Angel With An Attitude](https://open.spotify.com/track/2gUEB9jSU0HZhLJIYffeQn) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Last Lap](https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq) | 3:15 |
-| 33 | [Proud Of Me \(ft\. Meek Mill\)](https://open.spotify.com/track/1ZEIchL5Gy4g5DYQaqEbzQ) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Proud Of Me](https://open.spotify.com/album/2wi2ZaPy1mGhZPaWMrmKpJ) | 3:50 |
+| 23 | [Sevan](https://open.spotify.com/track/4W4hhnxvRE0rRUK1vaGlsk) | [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [Five Forever](https://open.spotify.com/album/0zBzGId66SwQWCsPJgNLY1) | 2:41 |
+| 24 | [Feel It \(From “Invincible”\)](https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Feel It \(From “Invincible”\)](https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2) | 2:37 |
+| 25 | [MUTT](https://open.spotify.com/track/2uvE4L5ZsYKpv8hbK4TIOt) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 3:12 |
+| 26 | [Pajamas](https://open.spotify.com/track/3svAabqImjfGaLARJDuFg0) | [AKIA](https://open.spotify.com/artist/4TiHWoAwePhDOFuPpcls06) | [Pajamas](https://open.spotify.com/album/3KqPQgeeJyuWSl5naBFh1o) | 2:36 |
+| 27 | [Burning Blue](https://open.spotify.com/track/0aWHb6ujnlXkmmOI1ltStc) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Burning Blue](https://open.spotify.com/album/02DSnnPzc0do4lZmfJjeeg) | 3:25 |
+| 28 | [London Summers](https://open.spotify.com/track/1vCnTZE7PVUakwkqCnIhrn) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [London Summers](https://open.spotify.com/album/6L0fjCZSfZxhavSOOh4ohF) | 3:37 |
+| 29 | [Head in a Jar](https://open.spotify.com/track/0y56rCLTldeTurCf3LugTZ) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [Head in a Jar](https://open.spotify.com/album/75JRyqkCNN6DQRdT5et7I3) | 3:16 |
+| 30 | [I Wish I Had More Time](https://open.spotify.com/track/5BQML4ZWArKHRCiQuQ4cDT) | [Braye](https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0) | [I Wish I Had More Time](https://open.spotify.com/album/3vmGWdWH4DkbiLWlb3s9kb) | 3:09 |
+| 31 | [For Me \(feat\. Brent Faiyaz\) \- Remix](https://open.spotify.com/track/2mo4wJKJJR2lQCZYnTaI4Y) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Nardy World](https://open.spotify.com/album/546FvdeuoSf9FA2o6RMpOy) | 3:23 |
+| 32 | [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/track/7eRJjg52FkSmQvmNQDYpMl) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/album/6tEqHl8uemF0Hmb0iGs6vJ) | 3:33 |
+| 33 | [Angel With An Attitude](https://open.spotify.com/track/2gUEB9jSU0HZhLJIYffeQn) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Last Lap](https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq) | 3:15 |
 | 34 | [Bad Bitty](https://open.spotify.com/track/3hDGP1FyivTChULeeVWkH6) | [J.P.](https://open.spotify.com/artist/6ygDlIilHZqielxxkvmIVH) | [Bad Bitty](https://open.spotify.com/album/2ACyT17aP97swSJO9wDjvd) | 1:42 |
 | 35 | [BUSS AT YOU](https://open.spotify.com/track/6p6lp6JZYcwQOqJEqupd8M) | [Saint Lamaar](https://open.spotify.com/artist/16AXQHqAloZDByAlQ99xNN) | [BUSS AT YOU](https://open.spotify.com/album/4MeUzTQYY3TVnRx668dIPz) | 2:14 |
 | 36 | [Help Me 2](https://open.spotify.com/track/325bXTasDEqqaDPge70SVn) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Go Richey](https://open.spotify.com/album/5WfJuFVSiRCc3TfoR1N2Gx) | 3:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 49 | [PUSH 2 START](https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA +](https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13) | 2:36 |
 | 50 | [My Darling](https://open.spotify.com/track/7mdvPu1ZAOIgMzr3sfpAqk) | [Chella](https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI) | [My Darling](https://open.spotify.com/album/5UOf3gDg4dnNBBaLi9qTK9) | 2:26 |
 
-Snapshot ID: `aDktYAAAAACn4USqKRF5DJDYvig6+RLr`
+Snapshot ID: `aDs+iAAAAADTegEhJ7p4Yg22b6WeHlNr`

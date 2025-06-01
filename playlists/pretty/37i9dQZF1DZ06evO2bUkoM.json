@@ -1,12 +1,12 @@
 {
   "description": "This is Hayley Kiyoko. The essential tracks, all in one playlist.",
-  "num_followers": 49503,
+  "num_followers": 49509,
   "original_name": "This Is Hayley Kiyoko",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDejgAAAAABIrTFnV2mpp8NJ6+SmnUJZ",
+  "snapshot_id": "aDj1AAAAAAAxACC2HsnItuAl/7qX3GTT",
   "tracks": [
     {
       "added_at": null,
@@ -499,18 +499,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "somewhere between the sand and the stardust",
-        "url": "https://open.spotify.com/album/1GffidSIS7j1j4cM5pX8hY"
+        "name": "Missed Calls (feat. Hayley Kiyoko)",
+        "url": "https://open.spotify.com/album/3tZEt4VTy1IzCDZpX5XXoI"
       },
       "artists": [
+        {
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+        },
         {
           "name": "Hayley Kiyoko",
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
         }
       ],
-      "duration_ms": 210918,
-      "name": "somewhere between the sand and the stardust",
-      "url": "https://open.spotify.com/track/3inSwrNUWkoCyCwzKezkwF"
+      "duration_ms": 154324,
+      "name": "Missed Calls (feat. Hayley Kiyoko)",
+      "url": "https://open.spotify.com/track/7oFpSsfjl8ElUesHJPT8Cv"
     },
     {
       "added_at": null,
@@ -531,22 +535,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Missed Calls (feat. Hayley Kiyoko)",
-        "url": "https://open.spotify.com/album/3tZEt4VTy1IzCDZpX5XXoI"
+        "name": "somewhere between the sand and the stardust",
+        "url": "https://open.spotify.com/album/1GffidSIS7j1j4cM5pX8hY"
       },
       "artists": [
-        {
-          "name": "MAX",
-          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
-        },
         {
           "name": "Hayley Kiyoko",
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
         }
       ],
-      "duration_ms": 154324,
-      "name": "Missed Calls (feat. Hayley Kiyoko)",
-      "url": "https://open.spotify.com/track/7oFpSsfjl8ElUesHJPT8Cv"
+      "duration_ms": 210918,
+      "name": "somewhere between the sand and the stardust",
+      "url": "https://open.spotify.com/track/3inSwrNUWkoCyCwzKezkwF"
     },
     {
       "added_at": null,

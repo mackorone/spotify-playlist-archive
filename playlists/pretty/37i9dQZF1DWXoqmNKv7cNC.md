@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 
 > ¡Mujeres mexicanas a todo volumen! Yeri Mua en portada 💚
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,307 likes - 65 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,306 likes - 65 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 | 35 | [31](https://open.spotify.com/track/6e9FG8qGTou5WZnExDRj9q) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [31](https://open.spotify.com/album/2fzX5NsXDEoN65sF7KCsP6) | 3:35 |
 | 36 | [Una Perra](https://open.spotify.com/track/2WRsyFyjDZMGLUWGsB2CLQ) | [Luisa Almaguer](https://open.spotify.com/artist/2EIoOPYbB27xL2XuvKmNEq) | [Weyes](https://open.spotify.com/album/4X8yo0vpzCLJtqYSlJXoEV) | 2:45 |
 | 37 | [Radio](https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Radio](https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR) | 3:08 |
-| 38 | [Diablísima](https://open.spotify.com/track/1g1vls6rprXbOa9ih6KVwB) | [Zemmoa](https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP) | [C'est Moi](https://open.spotify.com/album/3K2eG2XOyqW6FWiRL6X2ME) | 2:48 |
-| 39 | [Más de lo Que Te Imaginas](https://open.spotify.com/track/0boHL6Ep1Cb9IKFgpTqNE3) | [Herbolaria](https://open.spotify.com/artist/5DrflPAe5ZoSkw2FtxrnZW), [Elis Paprika](https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk) | [Más de lo Que Te Imaginas](https://open.spotify.com/album/08DLF0UmsLw2Ex85Cm1CNq) | 3:57 |
+| 38 | [Más de lo Que Te Imaginas](https://open.spotify.com/track/0boHL6Ep1Cb9IKFgpTqNE3) | [Herbolaria](https://open.spotify.com/artist/5DrflPAe5ZoSkw2FtxrnZW), [Elis Paprika](https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk) | [Más de lo Que Te Imaginas](https://open.spotify.com/album/08DLF0UmsLw2Ex85Cm1CNq) | 3:57 |
+| 39 | [Diablísima](https://open.spotify.com/track/1g1vls6rprXbOa9ih6KVwB) | [Zemmoa](https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP) | [C'est Moi](https://open.spotify.com/album/3K2eG2XOyqW6FWiRL6X2ME) | 2:48 |
 | 40 | [YASURIYAMILE](https://open.spotify.com/track/0bYXODFIIn4rMFxwdSmV2X) | [Chzter](https://open.spotify.com/artist/5aIzq2RvChAJtWFwOBNxDj), [Charly Gynn](https://open.spotify.com/artist/3ozO2Uj1PEP2h2SzFVTgYT), [Tzunami](https://open.spotify.com/artist/2cBbmcVOi87IB5bpl05Hv8) | [YASURIYAMILE](https://open.spotify.com/album/37qxNAE0G5xbukndHDld9q) | 2:40 |
 | 41 | [Hablar de Más](https://open.spotify.com/track/3NmM5cmYlgkFJyDg0zTC4z) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Hablar de Más](https://open.spotify.com/album/7sJ562pCwgxEBYhNkYqLOD) | 3:34 |
 | 42 | [No es el final](https://open.spotify.com/track/0qybqPqKipt9jlyeuo4ueq) | [Damaris Bojor](https://open.spotify.com/artist/611RCawF857UVjTN5ttzup) | [No es el final](https://open.spotify.com/album/1Z2rxyZayQaEMBojqzj53q) | 3:17 |
@@ -66,12 +66,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 | 56 | [NENA FINA](https://open.spotify.com/track/6pXXIesYJq1Tr5rt1H0sRG) | [GRTSCH](https://open.spotify.com/artist/0UuPYvwZmo6lXXvi1S5mLK) | [25 \(B\)](https://open.spotify.com/album/77swNZiaINOqmwrIFffpvi) | 3:49 |
 | 57 | [Veneno](https://open.spotify.com/track/7GPJwGLRZvt0MaQvuB7sv5) | [cKovi](https://open.spotify.com/artist/3sdVgczphtmF1sKTgPZrOO) | [SAGA](https://open.spotify.com/album/72NVbldrz1OwqbKUqv0kbq) | 2:50 |
 | 58 | [Vórtice 333](https://open.spotify.com/track/0XuyxnE04jvfOou9qiOoWw) | [ERRE TRES](https://open.spotify.com/artist/001VIQ8fbjmLj8vYm9AAsb), [Jose Macario](https://open.spotify.com/artist/7HiasoqcVt5qyJtcCbI2bM) | [SUEÑOS](https://open.spotify.com/album/7cuMNHqR2QsVrXv8QeEDBv) | 3:00 |
-| 59 | [Atravesar](https://open.spotify.com/track/4ZQayHfIOdtvi2jYPO90XC) | [sailawway](https://open.spotify.com/artist/7tg2hHygz0gM2dq5PrNH2q) | [Atravesar](https://open.spotify.com/album/5lDzwFabeBOxYtLIB2ZYIS) | 3:45 |
-| 60 | [K.O.S.](https://open.spotify.com/track/6jaQeKMc3YkRuRmqgClfig) | [Las Fokin Biches](https://open.spotify.com/artist/57PVit02jqmX3h5SL0XnHa) | [K.O.S.](https://open.spotify.com/album/31hsUj3XcDLtFEhMjsm8JM) | 2:43 |
+| 59 | [K.O.S.](https://open.spotify.com/track/6jaQeKMc3YkRuRmqgClfig) | [Las Fokin Biches](https://open.spotify.com/artist/57PVit02jqmX3h5SL0XnHa) | [K.O.S.](https://open.spotify.com/album/31hsUj3XcDLtFEhMjsm8JM) | 2:43 |
+| 60 | [Atravesar](https://open.spotify.com/track/4ZQayHfIOdtvi2jYPO90XC) | [sailawway](https://open.spotify.com/artist/7tg2hHygz0gM2dq5PrNH2q) | [Atravesar](https://open.spotify.com/album/5lDzwFabeBOxYtLIB2ZYIS) | 3:45 |
 | 61 | [Yugular](https://open.spotify.com/track/625BTeiei7heRnOqwwDysv) | [Cuauh](https://open.spotify.com/artist/3nVY2YFUkLFklG2qTfbPVc), [Joaquina Mertz](https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ) | [Yugular](https://open.spotify.com/album/6ZM0mrJlNSnvDKe1MS7TRm) | 3:35 |
 | 62 | [mentira </3](https://open.spotify.com/track/7wolOtNrxn9f2MU4NJ1tV2) | [Eliangel](https://open.spotify.com/artist/2O6bkbT1rbraCDdRKT9nPA) | [123 HYPE!!!](https://open.spotify.com/album/2wCOagrfilkWKnlzukDI9r) | 2:16 |
-| 63 | [Kafka](https://open.spotify.com/track/6ezPkvzuP86OFB32pCpNGK) | [Sofish](https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB) | [La Mina Que Domina](https://open.spotify.com/album/3fW8UK13AtOldylamq0CVf) | 2:33 |
-| 64 | [La Saga](https://open.spotify.com/track/0ao7cGrjRmABcZOfRjNetB) | [Ximbo](https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV), [La Cuervo](https://open.spotify.com/artist/2OZl4ZTJKKT7aSXfFGlEyZ), [Ana MC](https://open.spotify.com/artist/2EkkbCt71bH9XvmgZY5ZBX) | [La Saga](https://open.spotify.com/album/1IkNmSv4OaOKboGY6eIkXS) | 4:41 |
+| 63 | [La Saga](https://open.spotify.com/track/0ao7cGrjRmABcZOfRjNetB) | [Ximbo](https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV), [La Cuervo](https://open.spotify.com/artist/2OZl4ZTJKKT7aSXfFGlEyZ), [Ana MC](https://open.spotify.com/artist/2EkkbCt71bH9XvmgZY5ZBX) | [La Saga](https://open.spotify.com/album/1IkNmSv4OaOKboGY6eIkXS) | 4:41 |
+| 64 | [Kafka](https://open.spotify.com/track/6ezPkvzuP86OFB32pCpNGK) | [Sofish](https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB) | [La Mina Que Domina](https://open.spotify.com/album/3fW8UK13AtOldylamq0CVf) | 2:33 |
 | 65 | [Palíndromo](https://open.spotify.com/track/3MtGANVwvIF6muc6AqziDp) | [Fer Casillas](https://open.spotify.com/artist/1zl3p4VBfqqHGikw3Ad46R) | [Tropezar](https://open.spotify.com/album/5y39t1EugMgkZWHKJFqXvZ) | 2:36 |
 
 Snapshot ID: `aCtuugAAAAAMdRt6ulgh+Qm8ptc7d+oo`

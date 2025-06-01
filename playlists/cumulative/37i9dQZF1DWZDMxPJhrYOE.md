@@ -4,7 +4,7 @@
 
 > De stærkeste nye sange fra de seneste par måneder\. Så er du opdateret!
 
-561 songs - 1 day 4 hr 28 min
+562 songs - 1 day 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Fald Ned \(feat\. Mille\)](https://open.spotify.com/track/2xe4Zk82EJMOjonx4U5jEp) | [DeDerDrenge](https://open.spotify.com/artist/76iK1YKt3B6HvYKKl84Hml), [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [Fald Ned \(feat\. Mille\)](https://open.spotify.com/album/3TnLXjzFVfmy8qKZmrwPhx) | 2:08 | 2025-02-24 | 2025-02-28 |
 | [Fall At Your Feet \(with Dean Lewis\)](https://open.spotify.com/track/0M0a2E5H8pUmqDHs0A4931) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Fall At Your Feet \(with Dean Lewis\)](https://open.spotify.com/album/7msRig3mOdFp1MeUZPngiY) | 2:23 | 2024-07-18 | 2024-11-08 |
 | [Falling For You](https://open.spotify.com/track/2q6InS8x7JMSj9A4aWR0VJ) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Six Songs](https://open.spotify.com/album/7KpjUEdi4nOl1MUhTHDzYF) | 4:06 | 2025-01-10 | 2025-03-02 |
+| [Fame is a Gun](https://open.spotify.com/track/1c2AFg2WpURtpsOTMr6ZBX) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Fame is a Gun](https://open.spotify.com/album/3SbgH2k3eJ6dPqAhbTBFzm) | 3:03 | 2025-05-29 |  |
 | [fancy](https://open.spotify.com/track/7J5GcAbZ2rsWk2BzZDVog1) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [fancy / xvideos](https://open.spotify.com/album/073p1oabjQBPOYrAMWOrge) | 2:05 | 2024-12-19 | 2025-01-10 |
 | [Fat Juicy & Wet](https://open.spotify.com/track/5M2lX0ZAYSAzCs1xPPi9BX) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Fat Juicy & Wet](https://open.spotify.com/album/1y2OfMwyaRDmtbQNl0DnQa) | 2:21 | 2025-01-24 | 2025-04-01 |
 | [Favourite Girl \(with Rema\)](https://open.spotify.com/track/2irQkcW7o3v0tZoGZrtUsO) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Favourite Girl \(with Rema\)](https://open.spotify.com/album/4TFhO9eXlG7Xb4RzSz5tOU) | 3:04 | 2024-08-16 | 2024-11-08 |
@@ -425,7 +426,7 @@
 | [Risk](https://open.spotify.com/track/73c7iqH4lCVqu4tm66i0tY) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Risk](https://open.spotify.com/album/3oFBS1h6VV2eJl1Ynhq4Yw) | 3:11 | 2024-07-01 | 2024-08-17 |
 | [Rockstar](https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Rockstar](https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9) | 2:18 | 2024-07-01 | 2024-07-27 |
 | [Rush](https://open.spotify.com/track/0ppdjEVfuHUZQYK8t9uJ9Q) | [Saveus](https://open.spotify.com/artist/2rR0cafJvL0JVTC8E2qIqt) | [Rush](https://open.spotify.com/album/643BzXAzVnCV2YBxSCJfpe) | 2:32 | 2024-09-05 | 2024-12-06 |
-| [Ryggen Mod Muren](https://open.spotify.com/track/5kCbaKeAqsStnSE4QXsvTo) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [Hans Philip](https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C) | [Rene Hjerter Vinder Altid](https://open.spotify.com/album/4MPDu8E05I0dsGCi8A73oM) | 3:04 | 2025-05-29 |  |
+| [Ryggen Mod Muren](https://open.spotify.com/track/5kCbaKeAqsStnSE4QXsvTo) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [Hans Philip](https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C) | [Rene Hjerter Vinder Altid](https://open.spotify.com/album/4MPDu8E05I0dsGCi8A73oM) | 3:04 | 2025-05-29 | 2025-06-01 |
 | [Sad Boiii](https://open.spotify.com/track/5LOUGL5zAmtxRQIJBmuUay) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Sad Boiii](https://open.spotify.com/album/52WgEY29coP4ZokwAqmYbR) | 2:46 | 2024-09-19 | 2025-01-25 |
 | [Sad Boy Summer](https://open.spotify.com/track/2OT7ohLFHkAw1ACbPIjikC) | [Kind mod Kind](https://open.spotify.com/artist/0cc3y7owJCbx8MuYJZI6As) | [Sad Boy Summer](https://open.spotify.com/album/2lFl23O5NQXzBJgs6U0l9C) | 3:20 | 2025-05-29 |  |
 | [safeword](https://open.spotify.com/track/0rgwADAHd21s1OE7RPFwPN) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [safeword](https://open.spotify.com/album/7r2F9eu36wbjErxQYeM9lu) | 2:13 | 2025-02-27 | 2025-03-28 |

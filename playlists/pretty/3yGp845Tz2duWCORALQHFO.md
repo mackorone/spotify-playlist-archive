@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-[EDM Sauce](https://open.spotify.com/user/edmsauce) - 26,144 likes - 76 songs - 4 hr 9 min
+[EDM Sauce](https://open.spotify.com/user/edmsauce) - 26,147 likes - 76 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 | 9 | [Light Me Up \(feat\. Rêve\)](https://open.spotify.com/track/3muJ26OZrcdxYvpzLXqcgv) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [Flight School](https://open.spotify.com/artist/1fw6qimskalGQg0oSABmnX), [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Light Me Up \(feat\. Rêve\)](https://open.spotify.com/album/0JGmHfIjJ7OZWrPUtmZYyN) | 2:50 |
 | 10 | [Save The Cat](https://open.spotify.com/track/78RMLi8fjTWLU72Rf2hn1W) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B) | [Save The Cat](https://open.spotify.com/album/38LrCfC06ZgBAQfHjeA7AU) | 2:52 |
 | 11 | [Yeah Yeah](https://open.spotify.com/track/55v3ZvvhF6Y9oOyDC4Oms5) | [1991](https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy), [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV), [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9) | [Yeah Yeah](https://open.spotify.com/album/3Dw21S4F4nEQnblij6CtIN) | 3:24 |
-| 12 | [Alto](https://open.spotify.com/track/6W0JyLntjW5czCieDPSkui) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Alto](https://open.spotify.com/album/6CK5736RvBDi7w9wDjCYLf) | 3:08 |
+| 12 | [Alto](https://open.spotify.com/track/6W0JyLntjW5czCieDPSkui) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Alto](https://open.spotify.com/album/6CK5736RvBDi7w9wDjCYLf) | 3:45 |
 | 13 | [House Wife](https://open.spotify.com/track/2ei47Cmnr9hykUEczmvNgk) | [DoubleCrush](https://open.spotify.com/artist/5tfT7Z6aUL9IhKzdZwKo8j) | [House Wife](https://open.spotify.com/album/2b1AuRsK5IaWejbg1zKobB) | 2:33 |
 | 14 | [Whisper \- ReDub Remix](https://open.spotify.com/track/22oKbLZT0fzNiI2fHCEhiB) | [Adina Butar](https://open.spotify.com/artist/6WSsLAaJFBs3KgCDa8cWuL), [ReDub](https://open.spotify.com/artist/5NkCzwlwnkAjKeKqEitbcF) | [Whisper \(ReDub Remix\)](https://open.spotify.com/album/3n4dQ2irKOkbpDRpKteLyP) | 4:00 |
 | 15 | [Sunset](https://open.spotify.com/track/0P9gW5Dq1zwUMBkSgXrBYq) | [Marc Clark](https://open.spotify.com/artist/21LjXawaALUxX0K8M1UePu), [Will Greene](https://open.spotify.com/artist/3OOanDhg9AHGMvUTKTf27f) | [Sunset](https://open.spotify.com/album/0j9CTg976UUWE7MufwgRbn) | 5:50 |

@@ -4,7 +4,7 @@
 
 > Get ready for Ibiza season 2025\. See you on the dancefloor.
 
-404 songs - 1 day 0 hr 7 min
+405 songs - 1 day 0 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,6 +290,7 @@
 | [Relax My Eyes](https://open.spotify.com/track/1J3C8kdqUckBrTtgttm0AA) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [The Reset](https://open.spotify.com/album/37b8oZGEqxo6EUcOLnx9TG) | 3:11 | 2023-04-04 | 2024-04-20 |
 | [Relax My Eyes](https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [Relax My Eyes](https://open.spotify.com/album/2vIDF8BeMN3BcF0yOSMgmN) | 3:12 | 2023-04-04 | 2024-04-19 |
 | [Remember](https://open.spotify.com/track/4laAKIq9ZxBCwf99rauPYb) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Remember](https://open.spotify.com/album/6DHfD3rZapWFmEKX1FNNZF) | 2:40 | 2022-08-26 | 2023-07-13 |
+| [Rendezvous](https://open.spotify.com/track/1ENR9Zzy5GlPjUsaZW48jF) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [Rendezvous](https://open.spotify.com/album/0FposarJ84MZOTuYbmykCv) | 3:28 | 2025-05-29 |  |
 | [Rhyme Dust](https://open.spotify.com/track/59QDyqLww2pxyg9ijOPO7f) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Rhyme Dust](https://open.spotify.com/album/1vSO4N7cwo4pBywCSGF5BR) | 3:01 | 2023-10-19 | 2024-04-20 |
 | [Rhyme Dust](https://open.spotify.com/track/5mKiwDDrwG22qKKVL6JZqF) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Rhyme Dust](https://open.spotify.com/album/53MYxcczbSWNjO6KIG5DuG) | 3:01 | 2023-04-04 | 2024-04-19 |
 | [Rise Up](https://open.spotify.com/track/7Jdm5AztYoPpQXkAMccvGz) | [Nicole Moudaber](https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe), [London Community Gospel Choir](https://open.spotify.com/artist/5DhdFUvQCHgY2F9mVL8uoz) | [Rise Up](https://open.spotify.com/album/5sah70zPvQjxjPmwTdP2ju) | 2:45 | 2024-04-19 | 2024-06-14 |
@@ -374,7 +375,7 @@
 | [Turn On The Lights again.\. \(feat\. Future\)](https://open.spotify.com/track/6gdDu39yYqPcaTgCwYEW8i) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Turn On The Lights again.\. \(feat\. Future\)](https://open.spotify.com/album/2jiMeC1iUWVYmvXSIiO8ks) | 4:27 | 2022-08-26 | 2023-04-05 |
 | [Under My Feet](https://open.spotify.com/track/5iiYDUrzuEe4wO6nOGrD4y) | [Selena Faider](https://open.spotify.com/artist/7ewdymCL6FW9BNPFXFuNgd) | [Under My Feet](https://open.spotify.com/album/1FinzhacrzKAqNUQBMix1o) | 2:54 | 2024-04-19 | 2025-04-20 |
 | [Under The Sun](https://open.spotify.com/track/1eKSPMRzGdglxelX3kyrqc) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [Under The Sun](https://open.spotify.com/album/0nOe03llpGGQNH6Zjyj20Z) | 3:28 | 2022-08-26 | 2024-07-19 |
-| [Underground Ways](https://open.spotify.com/track/3gdGg8aoZ0rVStKAOSCPff) | [Josh Butler](https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX), [Chesster](https://open.spotify.com/artist/6YCbSjTwizmHBUBNjaqXlj), [RUZE](https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP) | [Underground Ways](https://open.spotify.com/album/2Ygx3tuwzLxSL5nWFZoIeI) | 3:17 | 2025-05-16 |  |
+| [Underground Ways](https://open.spotify.com/track/3gdGg8aoZ0rVStKAOSCPff) | [Josh Butler](https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX), [Chesster](https://open.spotify.com/artist/6YCbSjTwizmHBUBNjaqXlj), [RUZE](https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP) | [Underground Ways](https://open.spotify.com/album/2Ygx3tuwzLxSL5nWFZoIeI) | 3:17 | 2025-05-16 | 2025-06-01 |
 | [Universal Consciousness](https://open.spotify.com/track/6cKTcheUC3OHDMI8QMKp08) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Universal Consciousness EP](https://open.spotify.com/album/4hLx8gxka0a3rYc2sBN3fQ) | 6:40 | 2022-08-26 | 2023-05-20 |
 | [Up Down Round](https://open.spotify.com/track/4PtRhiFwkXQnMHmoKrgY5K) | [Sam Green](https://open.spotify.com/artist/4Dvxcj9zZyKbzuwRG4lzSR), [Campbell](https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK) | [Up Down Round](https://open.spotify.com/album/4oRSw9pKQWJyUo3Du2Dbog) | 2:24 | 2024-04-19 | 2025-03-20 |
 | [Up N Down](https://open.spotify.com/track/4BFoLiWDZusUKvEvXDpDAF) | [Kamino](https://open.spotify.com/artist/6XYhu7HPIJ47SY98bY1Hnx), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [Up N Down](https://open.spotify.com/album/66lG6q9LY1TV9pjbmlcllX) | 2:47 | 2025-04-17 |  |

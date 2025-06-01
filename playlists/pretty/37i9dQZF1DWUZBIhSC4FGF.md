@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZBIhSC4FGF.md) - [plain]
 
 > Relax to some gentle percussion from all corners of the globe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,320 likes - 109 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,474 likes - 109 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZBIhSC4FGF.md) - [plain]
 | 108 | [Ethnic Spirit](https://open.spotify.com/track/5F2sIZrGyOOdu1pnLRMcHb) | [Natural Healing Music Zone](https://open.spotify.com/artist/7yrrBoat3imi8RJTlmYXfz) | [African Healing Dance Therapy \- Tribal Trip, Ethno Lullaby, Vital Trance, Shamanic Serenity, Safari Sunrise](https://open.spotify.com/album/2BamWXOnKROZeTh0VW775W) | 3:22 |
 | 109 | [Orange Crush](https://open.spotify.com/track/6oyq0dO8TRMJlSV1UrUW0o) | [Meh Met](https://open.spotify.com/artist/215AS9kH8CZt63FZwq8hln) | [Elway](https://open.spotify.com/album/02EZpBqivdZyL5feXvH0bg) | 2:42 |
 
-Snapshot ID: `aDcgqgAAAADEkFVE1yih0SRulQiyDwWU`
+Snapshot ID: `aDcgqgAAAAClL7A+ShaRkdaWKztyg7Iy`

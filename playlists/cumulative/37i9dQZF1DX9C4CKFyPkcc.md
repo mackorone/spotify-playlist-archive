@@ -4,7 +4,7 @@
 
 > Enjoy the holidays with this fresh mix of new and classic Christmas songs!
 
-358 songs - 21 hr 2 min
+359 songs - 21 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Angels We Have Heard On High feat\. Jesse Ray Miller](https://open.spotify.com/track/0UinWNfK7eaaLrAQwkFGbT) | [Leon Timbo](https://open.spotify.com/artist/5sh0bpSEIvnWiJxZKFhJ8S), [Jesse Ray Miller](https://open.spotify.com/artist/1QNU5uAfpMnNSdFYsaiXfG) | [Angels We Have Heard On High](https://open.spotify.com/album/26vLrELVyFoClbMNH1QXbf) | 2:43 | 2024-07-29 | 2024-11-12 |
 | [Baby Boy](https://open.spotify.com/track/59bmTqt7AFMBGLssuhtkmK) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [We Need Emmanuel](https://open.spotify.com/album/1iagly9M3C91gzkNAJSWZz) | 3:50 | 2022-12-11 | 2024-04-19 |
 | [Baby Boy](https://open.spotify.com/track/4sSXzAOEYpSK5o5zFtDrnr) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [Baby Boy](https://open.spotify.com/album/28UIg788d1C0Q93xwZRDHP) | 3:50 | 2022-12-11 | 2024-10-27 |
-| [Back Home For Christmas](https://open.spotify.com/track/4Xng9dh4pebQMuPpEv8Vpe) | [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1) | [For Christmas](https://open.spotify.com/album/50ZqgHJTyMexdhWLWPP9kB) | 3:00 | 2024-07-29 |  |
+| [Back Home For Christmas](https://open.spotify.com/track/4Xng9dh4pebQMuPpEv8Vpe) | [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1) | [For Christmas](https://open.spotify.com/album/50ZqgHJTyMexdhWLWPP9kB) | 3:00 | 2024-07-29 | 2025-06-01 |
 | [Beautiful Christmas](https://open.spotify.com/track/4HGqkFupdoozBF91E1MRS0) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Infinite Christmas](https://open.spotify.com/album/3FEZGStis8kVGpnh54NF8h) | 4:25 | 2021-12-24 |  |
 | [Behold Messiah](https://open.spotify.com/track/40vLncM2rTQI22HOf7F6n5) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV) | [Behold Messiah](https://open.spotify.com/album/0b5akzs3AfLDsFiYLyJ48b) | 5:16 | 2023-11-03 |  |
 | [Being Home for Christmas](https://open.spotify.com/track/1XAYU9pdry0GU7Z5ga4UM5) | [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq) | [Miracle in a Manger](https://open.spotify.com/album/4lCduOiVpnPIA1CuGn8WgY) | 4:16 | 2021-12-24 | 2023-04-23 |
@@ -290,6 +290,7 @@
 | [So We Sing on Christmas Day](https://open.spotify.com/track/3JJFsY2EVqcJUW3bbxfxC3) | [Vian Izak](https://open.spotify.com/artist/46U5WmejGzsPqUiw3Uw0Xq), [Juniper Vale](https://open.spotify.com/artist/5ektKXWvSR9FjUExrpg1xK) | [Vian Izak & Juniper Vale Do Christmas, Vol\. 1](https://open.spotify.com/album/1DOUiwfFhAGBqgmD1LGTNt) | 2:14 | 2023-12-02 |  |
 | [Someday At Christmas](https://open.spotify.com/track/0pS8XbINFfYdlFo8W8Z41L) | [Brian Courtney Wilson](https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx) | [At Christmas](https://open.spotify.com/album/3jmX3MSnMgdVtr8Lni0Sdt) | 3:20 | 2022-12-11 |  |
 | [Sounding Joy](https://open.spotify.com/track/0kFk5LnjmluUFN6DSgjlzb) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Sounding Joy](https://open.spotify.com/album/1ZMsgcmv2PawjMSJti5okX) | 3:50 | 2022-11-26 |  |
+| [Special Christmas](https://open.spotify.com/track/519WoltRWrtfmHSlZaEtRt) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Oyije](https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa), [KobbySalm](https://open.spotify.com/artist/0O4MEIc9HB5MiTfQX5eKNB) | [Special Christmas](https://open.spotify.com/album/2KDTtl3gUi2XbIr6YSprg4) | 3:09 | 2024-12-13 |  |
 | [Still Can’t Sleep On Christmas Eve](https://open.spotify.com/track/5gNzVsZwxbt6vVPDgESKa1) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [A Family Christmas](https://open.spotify.com/album/486kM8hafi4CrDewCsSFs5) | 3:20 | 2021-12-24 |  |
 | [Thank You](https://open.spotify.com/track/7w3nVvNQ2bIgK2iQ84MyOs) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [We Need A Little Christmas](https://open.spotify.com/album/090o9kMZEhvkB5Vw211meV) | 3:53 | 2021-12-24 | 2024-07-30 |
 | [The Best Is Yet To Come \- A Song For The New Year](https://open.spotify.com/track/700BSt1v8IerFK91QUaSF4) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [The Best Is Yet To Come \(A Song For The New Year\)](https://open.spotify.com/album/4cvTdhtYabOff37JVeUF40) | 3:55 | 2021-12-24 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is NAV. The essential tracks, all in one playlist.",
-  "num_followers": 95838,
+  "num_followers": 95842,
   "original_name": "This Is NAV",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDejgAAAAAD8Nm4JEFni6AMu8tiScSHB",
+  "snapshot_id": "aDj1AAAAAACs+QtBpT/Fhw7afjFPRHYq",
   "tracks": [
     {
       "added_at": null,
@@ -23,22 +23,6 @@
       "duration_ms": 230533,
       "name": "Lately",
       "url": "https://open.spotify.com/track/46DB28jumopDyMuYhjoydV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "OMW2 REXDALE (DELUXE)",
-        "url": "https://open.spotify.com/album/5E7Q6PZEvJQIGMYADlFra9"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 138413,
-      "name": "LIFT SERVICE",
-      "url": "https://open.spotify.com/track/0LMKihVCUC6ZipHLX1HIb1"
     },
     {
       "added_at": null,
@@ -303,6 +287,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "OMW2 REXDALE (DELUXE)",
+        "url": "https://open.spotify.com/album/5E7Q6PZEvJQIGMYADlFra9"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 138413,
+      "name": "LIFT SERVICE",
+      "url": "https://open.spotify.com/track/0LMKihVCUC6ZipHLX1HIb1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Never Sleep",
         "url": "https://open.spotify.com/album/4DTaEd8bTR412zUcBqv2VN"
       },
@@ -327,26 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perfect Timing",
-        "url": "https://open.spotify.com/album/6VFETcEfjilkAng073KLt9"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        },
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        }
-      ],
-      "duration_ms": 215066,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/1xpXnpIpuvzpx9jz15baJF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "OMW2 REXDALE",
         "url": "https://open.spotify.com/album/1hDf16zDN5SjIoMuy6fzB8"
       },
@@ -363,6 +343,26 @@
       "duration_ms": 187213,
       "name": "REAL ME (WITH METRO BOOMIN)",
       "url": "https://open.spotify.com/track/2LYFCSYptjtZLVPzVJEUnm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Perfect Timing",
+        "url": "https://open.spotify.com/album/6VFETcEfjilkAng073KLt9"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        }
+      ],
+      "duration_ms": 215066,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/1xpXnpIpuvzpx9jz15baJF"
     },
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "OMW2 REXDALE (DELUXE)",
-        "url": "https://open.spotify.com/album/5E7Q6PZEvJQIGMYADlFra9"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 89621,
-      "name": "GLOBE",
-      "url": "https://open.spotify.com/track/1dnXDVBhHOc6lji5N8nviK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "OMW2 REXDALE",
         "url": "https://open.spotify.com/album/1hDf16zDN5SjIoMuy6fzB8"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 132213,
       "name": "U.N.I.",
       "url": "https://open.spotify.com/track/0JVapaUZm2Ax627wjKP8Xn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "OMW2 REXDALE (DELUXE)",
+        "url": "https://open.spotify.com/album/5E7Q6PZEvJQIGMYADlFra9"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 89621,
+      "name": "GLOBE",
+      "url": "https://open.spotify.com/track/1dnXDVBhHOc6lji5N8nviK"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rexdale",
-        "url": "https://open.spotify.com/album/7luxPo6uIc8GseoVfDBqB4"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 125093,
-      "name": "Rexdale",
-      "url": "https://open.spotify.com/track/1r9Sbh5cc4kC0g7eUPnscB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Perfect Timing",
         "url": "https://open.spotify.com/album/6VFETcEfjilkAng073KLt9"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 169786,
       "name": "Hit",
       "url": "https://open.spotify.com/track/0gHcxtyWQT0HrlGxaxP1KT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rexdale",
+        "url": "https://open.spotify.com/album/7luxPo6uIc8GseoVfDBqB4"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 125093,
+      "name": "Rexdale",
+      "url": "https://open.spotify.com/track/1r9Sbh5cc4kC0g7eUPnscB"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Sexyy Red. The essential tracks, all in one playlist.",
-  "num_followers": 26393,
+  "num_followers": 26410,
   "original_name": "This Is Sexyy Red",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDejgAAAAABlvJXF5OM1E5AluUg6EpLr",
+  "snapshot_id": "aDj1AAAAAADrlbJg9RcvmJZITSwLHLk7",
   "tracks": [
     {
       "added_at": null,
@@ -339,6 +339,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Let Me Fly",
+        "url": "https://open.spotify.com/album/5bPJWz3z4NWjOaRYBRZBED"
+      },
+      "artists": [
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "YTB Fatt",
+          "url": "https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT"
+        }
+      ],
+      "duration_ms": 202500,
+      "name": "So Sexyy (with Sexyy Redd & YTB Fatt)",
+      "url": "https://open.spotify.com/track/208C0acBUn3Lzh4L5P5Kkw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hood Hottest Princess",
         "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
       },
@@ -371,30 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let Me Fly",
-        "url": "https://open.spotify.com/album/5bPJWz3z4NWjOaRYBRZBED"
-      },
-      "artists": [
-        {
-          "name": "Rob49",
-          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        },
-        {
-          "name": "YTB Fatt",
-          "url": "https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT"
-        }
-      ],
-      "duration_ms": 202500,
-      "name": "So Sexyy (with Sexyy Redd & YTB Fatt)",
-      "url": "https://open.spotify.com/track/208C0acBUn3Lzh4L5P5Kkw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hoochie Coochie",
         "url": "https://open.spotify.com/album/3AGhrLfPdpOZQnI7s5GBjz"
       },
@@ -407,22 +407,6 @@
       "duration_ms": 147450,
       "name": "Hoochie Coochie",
       "url": "https://open.spotify.com/track/7ygjfxmmkgPN0nbyYOMD2T"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hood Hottest Princess",
-        "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 159291,
-      "name": "Mad at Me",
-      "url": "https://open.spotify.com/track/0b9i8FoZ7jU3tzC4zt3WXP"
     },
     {
       "added_at": null,
@@ -443,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hood Hottest Princess",
+        "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 159291,
+      "name": "Mad at Me",
+      "url": "https://open.spotify.com/track/0b9i8FoZ7jU3tzC4zt3WXP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hood Hottest Princess (Deluxe)",
         "url": "https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr"
       },
@@ -459,6 +459,26 @@
       "duration_ms": 157523,
       "name": "I Don't Wanna Be Saved (feat. Tay Keith)",
       "url": "https://open.spotify.com/track/20uBNCshRN9fKeE3dHRXST"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Somethin' (feat. Sexyy Red)",
+        "url": "https://open.spotify.com/album/0HkzOucR55zv6wQWIWOPBs"
+      },
+      "artists": [
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 149245,
+      "name": "Somethin' (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/3LdP8uDwQ1NVwNCrb8I32K"
     },
     {
       "added_at": null,
@@ -487,26 +507,6 @@
       "duration_ms": 239667,
       "name": "FTCU (feat. Travis Scott, Chris Brown & Sexyy Red) - SLEEZEMIX",
       "url": "https://open.spotify.com/track/2oTFuT1tKLHlTJsnBSJJiN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Somethin' (feat. Sexyy Red)",
-        "url": "https://open.spotify.com/album/0HkzOucR55zv6wQWIWOPBs"
-      },
-      "artists": [
-        {
-          "name": "Nardo Wick",
-          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 149245,
-      "name": "Somethin' (feat. Sexyy Red)",
-      "url": "https://open.spotify.com/track/3LdP8uDwQ1NVwNCrb8I32K"
     },
     {
       "added_at": null,
@@ -547,26 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hood Hottest Princess (Deluxe)",
-        "url": "https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        },
-        {
-          "name": "Sukihana",
-          "url": "https://open.spotify.com/artist/3EJmmU8C3pk268dP7IbOt7"
-        }
-      ],
-      "duration_ms": 175125,
-      "name": "Hood Rats (with Sukihana)",
-      "url": "https://open.spotify.com/track/7iSPXk5AFvZGhfOSQpisSQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hood Hottest Princess",
         "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
       },
@@ -591,6 +571,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hood Hottest Princess (Deluxe)",
+        "url": "https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Sukihana",
+          "url": "https://open.spotify.com/artist/3EJmmU8C3pk268dP7IbOt7"
+        }
+      ],
+      "duration_ms": 175125,
+      "name": "Hood Rats (with Sukihana)",
+      "url": "https://open.spotify.com/track/7iSPXk5AFvZGhfOSQpisSQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Peaches & Eggplants (feat. Latto & Sexyy Red)",
         "url": "https://open.spotify.com/album/3v9a1PtWXE5NopNCeaw1sj"
       },
@@ -611,6 +611,26 @@
       "duration_ms": 217213,
       "name": "Peaches & Eggplants (feat. Latto & Sexyy Red)",
       "url": "https://open.spotify.com/track/1BmI4EYdfzbg8DlV6pHYrY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WHIM WHAMIEE (feat. Sexyy Red) [Remix]",
+        "url": "https://open.spotify.com/album/1Du7xMoICzbJV9qYy1EUWB"
+      },
+      "artists": [
+        {
+          "name": "PLUTO",
+          "url": "https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 147600,
+      "name": "WHIM WHAMIEE (feat. Sexyy Red) [Remix]",
+      "url": "https://open.spotify.com/track/7pvrkNvlIQMY0hfGcdCr5m"
     },
     {
       "added_at": null,
@@ -991,30 +1011,6 @@
       "duration_ms": 180062,
       "name": "Sticky Icky (Roll Det)",
       "url": "https://open.spotify.com/track/7iffUVxZHOBwl2zUjyqRP0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shiesty (feat. Kaliii & Sexyy Red)",
-        "url": "https://open.spotify.com/album/5KAMwIkKnQW0GLJK2wm83T"
-      },
-      "artists": [
-        {
-          "name": "Finesse2tymes",
-          "url": "https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg"
-        },
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 216541,
-      "name": "Shiesty (feat. Kaliii & Sexyy Red)",
-      "url": "https://open.spotify.com/track/3erWnQRZiMmOzRqnVhHaox"
     }
   ],
   "unique_name": "This Is Sexyy Red",

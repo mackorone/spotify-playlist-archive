@@ -4,7 +4,7 @@
 
 > This week's handpicked new <a href="spotify:genre:edm\_dance">dance and electronic music</a>, featuring new music from Keinemusik
 
-28,839 songs - 73 day 9 hr 49 min
+28,839 songs - 73 day 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1114,7 +1114,7 @@
 | [Alter Ego](https://open.spotify.com/track/1YODPbD8rDZyjF36bqF25S) | [Pavel Khvaleev](https://open.spotify.com/artist/04mfb9WF2sttD7r6SWMYRk) | [Alter Ego](https://open.spotify.com/album/4syxA4Akn6mSsMrgtuIS3g) | 3:49 | 2022-10-21 | 2022-10-29 |
 | [Altered Destiny \- Chill Mix](https://open.spotify.com/track/5fRI7dWkOSw6DNaPef9MVV) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Altered Destiny](https://open.spotify.com/album/71zAjLq6pfN8gRmESEU8Y5) | 3:05 | 2022-10-28 | 2022-11-05 |
 | [Altitude](https://open.spotify.com/track/4UdctRbC0l82mVAO9Td7wJ) | [Life on Planets](https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO) | [Altitude](https://open.spotify.com/album/0rxkpJJMnURxL60zT3nrSf) | 3:24 | 2022-03-25 | 2022-04-02 |
-| [Alto](https://open.spotify.com/track/6W0JyLntjW5czCieDPSkui) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Alto](https://open.spotify.com/album/6CK5736RvBDi7w9wDjCYLf) | 3:08 | 2025-05-30 |  |
+| [Alto](https://open.spotify.com/track/6W0JyLntjW5czCieDPSkui) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Alto](https://open.spotify.com/album/6CK5736RvBDi7w9wDjCYLf) | 3:45 | 2025-05-30 |  |
 | [Always](https://open.spotify.com/track/7Lg4dEz9IVE5iUILPEdyUv) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [In Plain Sight](https://open.spotify.com/album/39H3aSkk8uCM25VoIx16y7) | 2:42 | 2023-02-24 | 2023-03-04 |
 | [Always](https://open.spotify.com/track/2dbdLBWBU02AFLGWNDuSa1) | [Cloverdale](https://open.spotify.com/artist/27RdRVoIwtB1CAhLwuPrbB), [Bassani](https://open.spotify.com/artist/47g7XpOmuBClZV47fdNvux), [Rise Of The JellyFish](https://open.spotify.com/artist/74u8W37qWfc4v3KINoc9wC) | [Always](https://open.spotify.com/album/4fNwWcgi5AwT3TC5rhT85k) | 4:31 | 2021-04-24 | 2021-04-30 |
 | [always](https://open.spotify.com/track/4x18rLsHPvkWkBPCULknfd) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl) | [always](https://open.spotify.com/album/0BINonSEu5AmCiLrhhfAMm) | 2:26 | 2023-09-15 | 2023-09-23 |

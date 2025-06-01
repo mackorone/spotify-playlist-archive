@@ -1,6 +1,6 @@
 {
   "description": "Appreciate the many miracles around you with these songs of worship.",
-  "num_followers": 225012,
+  "num_followers": 225070,
   "original_name": "Miracles",
   "owner": {
     "name": "Spotify",
@@ -571,6 +571,22 @@
     {
       "added_at": "2024-08-03 08:12:04",
       "album": {
+        "name": "The Garden",
+        "url": "https://open.spotify.com/album/0VlrwygIqoI06z2BTCYuTq"
+      },
+      "artists": [
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        }
+      ],
+      "duration_ms": 300933,
+      "name": "Heal Our Land",
+      "url": "https://open.spotify.com/track/51RuKnh1Fec9pZtKOVbO28"
+    },
+    {
+      "added_at": "2024-08-03 08:12:04",
+      "album": {
         "name": "United We Stand (Live)",
         "url": "https://open.spotify.com/album/50naWCBZJurPrqIL4p2V6f"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 329320,
       "name": "None But Jesus - Live",
       "url": "https://open.spotify.com/track/5tgywPECreoxcE2m2DiPQm"
-    },
-    {
-      "added_at": "2024-08-03 08:12:04",
-      "album": {
-        "name": "The Garden",
-        "url": "https://open.spotify.com/album/0VlrwygIqoI06z2BTCYuTq"
-      },
-      "artists": [
-        {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
-        }
-      ],
-      "duration_ms": 300933,
-      "name": "Heal Our Land",
-      "url": "https://open.spotify.com/track/51RuKnh1Fec9pZtKOVbO28"
     },
     {
       "added_at": "2024-08-03 08:12:04",
@@ -1347,38 +1347,34 @@
     {
       "added_at": "2024-08-03 08:12:04",
       "album": {
-        "name": "House Of Miracles (Live)",
-        "url": "https://open.spotify.com/album/6XwSI6fu7MRZulAaOqcbwI"
+        "name": "Yeshua (Spontaneous) [Live]",
+        "url": "https://open.spotify.com/album/5euI6yTA3skQd2vQiVepMj"
       },
       "artists": [
         {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+          "name": "Eleni Baker",
+          "url": "https://open.spotify.com/artist/3T9neL3g52le9PKELcMHP3"
         }
       ],
-      "duration_ms": 453980,
-      "name": "House Of Miracles - Live",
-      "url": "https://open.spotify.com/track/2Td9w1ZBDw7VPvERVudmDw"
+      "duration_ms": 417230,
+      "name": "Yeshua (Spontaneous) - Live",
+      "url": "https://open.spotify.com/track/07GcGWXI5TzXpW87pkzV78"
     },
     {
       "added_at": "2024-08-03 08:12:04",
       "album": {
-        "name": "Moments",
-        "url": "https://open.spotify.com/album/4bKpeGX4y9MZmzSYNnU4KC"
+        "name": "You Make Me Brave (Live)",
+        "url": "https://open.spotify.com/album/0u5bqt44z6UQEcHV7MVFvM"
       },
       "artists": [
         {
-          "name": "UPPERROOM",
-          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
-        },
-        {
-          "name": "Elyssa Figueroa",
-          "url": "https://open.spotify.com/artist/0u6BP0u3FLrJrlWU3XwC8l"
+          "name": "Bethel Music|Amanda Lindsey Cook",
+          "url": "https://open.spotify.com/artist/5ZXoFwpHZ0y0Try39IKAZ2"
         }
       ],
-      "duration_ms": 349525,
-      "name": "Surrounded (Fight My Battles) [Live]",
-      "url": "https://open.spotify.com/track/4GlWqYw49fgrRiB0YzfyMO"
+      "duration_ms": 391640,
+      "name": "Wonder (Spontaneous) - Live",
+      "url": "https://open.spotify.com/track/69PJBGTRrZZQrwbH4TxnIQ"
     }
   ],
   "unique_name": "Miracles",

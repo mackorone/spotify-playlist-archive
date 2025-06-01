@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Nilhil Young, Ashkan Dian, Unseen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 704,407 likes - 90 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 704,549 likes - 90 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 2 | [Waste my time](https://open.spotify.com/track/4xCLq4cUWXD5FZS7sRImSL) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Waste my time](https://open.spotify.com/album/3VsSZzexEbHqQu1hfDrpEY) | 4:28 |
 | 3 | [Avalanche \- Edit](https://open.spotify.com/track/3g0f1E9zlyauznccPZYaTn) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Avalanche](https://open.spotify.com/album/4iGkjP8sE9aRb50TeBtMMG) | 4:03 |
 | 4 | [Crazy For It](https://open.spotify.com/track/0nZUQdt97RJ429I0FuAO2r) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Vinson](https://open.spotify.com/artist/1ER9vmM8lqAB19a30WwA0b), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Crazy For It](https://open.spotify.com/album/6M1Ll5Gwpeyvpc0xYmhTT1) | 4:10 |
-| 5 | [Alto](https://open.spotify.com/track/6W0JyLntjW5czCieDPSkui) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Alto](https://open.spotify.com/album/6CK5736RvBDi7w9wDjCYLf) | 3:08 |
+| 5 | [Alto](https://open.spotify.com/track/6W0JyLntjW5czCieDPSkui) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Alto](https://open.spotify.com/album/6CK5736RvBDi7w9wDjCYLf) | 3:45 |
 | 6 | [No Division \(feat\. XSALT\)](https://open.spotify.com/track/0So4ciNFmHfZhawnplagFs) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [XSALT](https://open.spotify.com/artist/3kB5SoiItFAJjHRlcXGcUC) | [No Division](https://open.spotify.com/album/6pSk6j1v5FrWh74Rygv367) | 6:06 |
 | 7 | [You Had It All](https://open.spotify.com/track/5vqJgrR37UgfDvjYgIlSD8) | [Niconé](https://open.spotify.com/artist/70s3JhU9Ai0cIowagibjNI), [David Hasert](https://open.spotify.com/artist/5k3tGz3uryhQGnQryA2b6d) | [You Had It All](https://open.spotify.com/album/2urn2j08EPtOps5ulKLDQf) | 3:40 |
 | 8 | [Die Tonight](https://open.spotify.com/track/4y4NBmnV3QWygYpjLNDWOw) | [KUKO](https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU) | [Die Tonight](https://open.spotify.com/album/3dhdbBuZZrSShe1noV5TQF) | 3:47 |

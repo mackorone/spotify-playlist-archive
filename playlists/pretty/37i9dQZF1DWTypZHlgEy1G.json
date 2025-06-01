@@ -1,6 +1,6 @@
 {
   "description": "Le patrimoine de la chanson fran\u00e7aise. Photo : \u00c9dith Piaf",
-  "num_followers": 536701,
+  "num_followers": 536696,
   "original_name": "Standards de la Chanson Fran\u00e7aise",
   "owner": {
     "name": "Spotify",
@@ -943,6 +943,22 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
+        "name": "Fais Comme L'Oiseau",
+        "url": "https://open.spotify.com/album/6u9tEKSghovMOBy9rwTMLn"
+      },
+      "artists": [
+        {
+          "name": "Michel Fugain & Le Big Bazar",
+          "url": "https://open.spotify.com/artist/5KnLt0VENhwsfmQL3y2nsY"
+        }
+      ],
+      "duration_ms": 186693,
+      "name": "Fais comme l'oiseau",
+      "url": "https://open.spotify.com/track/5INFljqNxkfUkUajeXtBFh"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
         "name": "Best Of",
         "url": "https://open.spotify.com/album/4XvvwnuEOPWWOexWJDbeYf"
       },
@@ -959,6 +975,22 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
+        "name": "Platinum Charles Aznavour",
+        "url": "https://open.spotify.com/album/0rvCisxGedY59K1LrvjAfv"
+      },
+      "artists": [
+        {
+          "name": "Charles Aznavour",
+          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
+        }
+      ],
+      "duration_ms": 212200,
+      "name": "Emmenez Moi",
+      "url": "https://open.spotify.com/track/7A0piuknKPVbFtf9gxI6le"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
         "name": "In\u00e9dits 68-97",
         "url": "https://open.spotify.com/album/3NBgEG8mdN6GvIsrgC79si"
       },
@@ -971,38 +1003,6 @@
       "duration_ms": 224240,
       "name": "Laissons entrer le soleil",
       "url": "https://open.spotify.com/track/2IvsJEIjx8fWfkTWDCuEYm"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
-        "name": "Platinum Charles Aznavour",
-        "url": "https://open.spotify.com/album/0rvCisxGedY59K1LrvjAfv"
-      },
-      "artists": [
-        {
-          "name": "Charles Aznavour",
-          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
-        }
-      ],
-      "duration_ms": 140826,
-      "name": "Hier encore",
-      "url": "https://open.spotify.com/track/0DXyFek0JfbNE34s2u2bDD"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
-        "name": "Fais Comme L'Oiseau",
-        "url": "https://open.spotify.com/album/6u9tEKSghovMOBy9rwTMLn"
-      },
-      "artists": [
-        {
-          "name": "Michel Fugain & Le Big Bazar",
-          "url": "https://open.spotify.com/artist/5KnLt0VENhwsfmQL3y2nsY"
-        }
-      ],
-      "duration_ms": 186693,
-      "name": "Fais comme l'oiseau",
-      "url": "https://open.spotify.com/track/5INFljqNxkfUkUajeXtBFh"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -1064,9 +1064,9 @@
           "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
         }
       ],
-      "duration_ms": 212200,
-      "name": "Emmenez Moi",
-      "url": "https://open.spotify.com/track/7A0piuknKPVbFtf9gxI6le"
+      "duration_ms": 140826,
+      "name": "Hier encore",
+      "url": "https://open.spotify.com/track/0DXyFek0JfbNE34s2u2bDD"
     },
     {
       "added_at": "2024-07-25 13:22:22",

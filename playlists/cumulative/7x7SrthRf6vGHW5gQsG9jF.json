@@ -11431,6 +11431,24 @@
     },
     {
       "album": {
+        "name": "\u30a8\u30ec\u30af\u30c8\u30ed\u30fb\u30ef\u30fc\u30eb\u30c9",
+        "url": "https://open.spotify.com/album/0zGXBoWJUYaH9BLXXuxrR3"
+      },
+      "artists": [
+        {
+          "name": "Perfume",
+          "url": "https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr"
+        }
+      ],
+      "date_added": "2025-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232386,
+      "name": "\u30a8\u30ec\u30af\u30c8\u30ed\u30fb\u30ef\u30fc\u30eb\u30c9",
+      "url": "https://open.spotify.com/track/1jIG6M4cM6kLwBidMICJMv"
+    },
+    {
+      "album": {
         "name": "Reminder",
         "url": "https://open.spotify.com/album/1tqWJSNIhX6ZNvwRwEDOzD"
       },

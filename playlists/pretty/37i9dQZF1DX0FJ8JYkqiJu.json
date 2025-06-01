@@ -1,6 +1,6 @@
 {
   "description": "Tune in, bliss out",
-  "num_followers": 407075,
+  "num_followers": 407109,
   "original_name": "Just Chill",
   "owner": {
     "name": "Spotify",
@@ -487,6 +487,22 @@
     {
       "added_at": "2025-05-26 14:00:14",
       "album": {
+        "name": "Gotta Move",
+        "url": "https://open.spotify.com/album/0ateZxJtP3B6zMX0zpMa9x"
+      },
+      "artists": [
+        {
+          "name": "Bless You",
+          "url": "https://open.spotify.com/artist/0YFOK5sYNqbCJEgD0xOti9"
+        }
+      ],
+      "duration_ms": 179125,
+      "name": "Gotta Move",
+      "url": "https://open.spotify.com/track/1Q2d7NGkaxhwMnWQll7HL3"
+    },
+    {
+      "added_at": "2025-05-26 14:00:14",
+      "album": {
         "name": "Childish",
         "url": "https://open.spotify.com/album/2tj4SjIgpp92mAT2wtiDoZ"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 331935,
       "name": "The Deep",
       "url": "https://open.spotify.com/track/71RUnMMD5MX4ew96dMDCl4"
-    },
-    {
-      "added_at": "2025-05-26 14:00:14",
-      "album": {
-        "name": "Gotta Move",
-        "url": "https://open.spotify.com/album/0ateZxJtP3B6zMX0zpMa9x"
-      },
-      "artists": [
-        {
-          "name": "Bless You",
-          "url": "https://open.spotify.com/artist/0YFOK5sYNqbCJEgD0xOti9"
-        }
-      ],
-      "duration_ms": 179125,
-      "name": "Gotta Move",
-      "url": "https://open.spotify.com/track/1Q2d7NGkaxhwMnWQll7HL3"
     },
     {
       "added_at": "2025-05-26 14:00:14",
@@ -567,6 +567,26 @@
     {
       "added_at": "2025-05-26 14:00:14",
       "album": {
+        "name": "Midnight Sun",
+        "url": "https://open.spotify.com/album/7rsuL0QKTG0jAceR17H1uZ"
+      },
+      "artists": [
+        {
+          "name": "Jan Blomqvist",
+          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
+        },
+        {
+          "name": "Natascha Polk\u00e9",
+          "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
+        }
+      ],
+      "duration_ms": 204039,
+      "name": "Midnight Sun",
+      "url": "https://open.spotify.com/track/5H5wa2EQJyOkR0ghHZDcNI"
+    },
+    {
+      "added_at": "2025-05-26 14:00:14",
+      "album": {
         "name": "State Of Mind",
         "url": "https://open.spotify.com/album/3l1Cs2OVHkj5aLiFHyOlDg"
       },
@@ -611,26 +631,6 @@
       "duration_ms": 194380,
       "name": "Solfa (Tila)",
       "url": "https://open.spotify.com/track/0UjVEZKFVuWOiQwsrikOoP"
-    },
-    {
-      "added_at": "2025-05-26 14:00:14",
-      "album": {
-        "name": "Midnight Sun",
-        "url": "https://open.spotify.com/album/7rsuL0QKTG0jAceR17H1uZ"
-      },
-      "artists": [
-        {
-          "name": "Jan Blomqvist",
-          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
-        },
-        {
-          "name": "Natascha Polk\u00e9",
-          "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
-        }
-      ],
-      "duration_ms": 204039,
-      "name": "Midnight Sun",
-      "url": "https://open.spotify.com/track/5H5wa2EQJyOkR0ghHZDcNI"
     },
     {
       "added_at": "2025-05-26 14:00:14",
@@ -703,22 +703,6 @@
     {
       "added_at": "2025-05-26 14:00:14",
       "album": {
-        "name": "Luminary",
-        "url": "https://open.spotify.com/album/1Rp6be6Sf31WO6tNZY3eR9"
-      },
-      "artists": [
-        {
-          "name": "Joel Sunny",
-          "url": "https://open.spotify.com/artist/4WC54JUV6ewZOuz8Cl2Cym"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Luminary",
-      "url": "https://open.spotify.com/track/66pWxtaxTV8CxcGOvivZeT"
-    },
-    {
-      "added_at": "2025-05-26 14:00:14",
-      "album": {
         "name": "Rust",
         "url": "https://open.spotify.com/album/1C9LseEpWWuh9PhCkVT74D"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 275010,
       "name": "Rust",
       "url": "https://open.spotify.com/track/1c0gopa3ANBpKL59SKU3EZ"
+    },
+    {
+      "added_at": "2025-05-26 14:00:14",
+      "album": {
+        "name": "Luminary",
+        "url": "https://open.spotify.com/album/1Rp6be6Sf31WO6tNZY3eR9"
+      },
+      "artists": [
+        {
+          "name": "Joel Sunny",
+          "url": "https://open.spotify.com/artist/4WC54JUV6ewZOuz8Cl2Cym"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Luminary",
+      "url": "https://open.spotify.com/track/66pWxtaxTV8CxcGOvivZeT"
     },
     {
       "added_at": "2025-05-26 14:00:14",
@@ -803,26 +803,6 @@
     {
       "added_at": "2025-05-26 14:00:14",
       "album": {
-        "name": "sicklysweet (Tobiahs Remix)",
-        "url": "https://open.spotify.com/album/3hCHGxMG8nSjjdCdlEZtBh"
-      },
-      "artists": [
-        {
-          "name": "Jetta",
-          "url": "https://open.spotify.com/artist/51V0E9ipJyIj7yFDkaLx96"
-        },
-        {
-          "name": "Tobiahs",
-          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
-        }
-      ],
-      "duration_ms": 137888,
-      "name": "sicklysweet - Tobiahs Remix",
-      "url": "https://open.spotify.com/track/4Bl7u2Q9Tj3VQn89i3aNYm"
-    },
-    {
-      "added_at": "2025-05-26 14:00:14",
-      "album": {
         "name": "Telos",
         "url": "https://open.spotify.com/album/5V7WoYwRXtheRjhOjgUeR5"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 211313,
       "name": "No Gravity (feat. Bava)",
       "url": "https://open.spotify.com/track/6r4ual3l2rTXnxp6T8WM1g"
+    },
+    {
+      "added_at": "2025-05-26 14:00:14",
+      "album": {
+        "name": "sicklysweet (Tobiahs Remix)",
+        "url": "https://open.spotify.com/album/3hCHGxMG8nSjjdCdlEZtBh"
+      },
+      "artists": [
+        {
+          "name": "Jetta",
+          "url": "https://open.spotify.com/artist/51V0E9ipJyIj7yFDkaLx96"
+        },
+        {
+          "name": "Tobiahs",
+          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
+        }
+      ],
+      "duration_ms": 137888,
+      "name": "sicklysweet - Tobiahs Remix",
+      "url": "https://open.spotify.com/track/4Bl7u2Q9Tj3VQn89i3aNYm"
     },
     {
       "added_at": "2025-05-26 14:00:14",
@@ -935,26 +935,6 @@
     {
       "added_at": "2025-05-26 14:00:14",
       "album": {
-        "name": "Glad I Found You",
-        "url": "https://open.spotify.com/album/5zB2w539G0UD6sGpnevP07"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "George FitzGerald",
-          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
-        }
-      ],
-      "duration_ms": 211191,
-      "name": "Glad I Found You",
-      "url": "https://open.spotify.com/track/4D7WGniYHsapNrosDX8KDK"
-    },
-    {
-      "added_at": "2025-05-26 14:00:14",
-      "album": {
         "name": "Begin Again",
         "url": "https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 213507,
       "name": "Home",
       "url": "https://open.spotify.com/track/2FsUQgO3jopRHjW6rQ7jMc"
+    },
+    {
+      "added_at": "2025-05-26 14:00:14",
+      "album": {
+        "name": "Glad I Found You",
+        "url": "https://open.spotify.com/album/5zB2w539G0UD6sGpnevP07"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        }
+      ],
+      "duration_ms": 211191,
+      "name": "Glad I Found You",
+      "url": "https://open.spotify.com/track/4D7WGniYHsapNrosDX8KDK"
     },
     {
       "added_at": "2025-05-26 14:00:14",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2025-05-26 14:00:14",
       "album": {
-        "name": "Buschtaxi",
-        "url": "https://open.spotify.com/album/18mW0faz1AHDsTHNdtxAih"
-      },
-      "artists": [
-        {
-          "name": "DJ Koze",
-          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
-        }
-      ],
-      "duration_ms": 516815,
-      "name": "Buschtaxi",
-      "url": "https://open.spotify.com/track/6Z4AJ6GVRjdjmbm4TK1Wca"
-    },
-    {
-      "added_at": "2025-05-26 14:00:14",
-      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/0tdmeX1Dul9IyOVpVIy8Lt"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 230163,
       "name": "Alone",
       "url": "https://open.spotify.com/track/1dgmyjd5qciNDLQcVd1aln"
+    },
+    {
+      "added_at": "2025-05-26 14:00:14",
+      "album": {
+        "name": "Buschtaxi",
+        "url": "https://open.spotify.com/album/18mW0faz1AHDsTHNdtxAih"
+      },
+      "artists": [
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        }
+      ],
+      "duration_ms": 516815,
+      "name": "Buschtaxi",
+      "url": "https://open.spotify.com/track/6Z4AJ6GVRjdjmbm4TK1Wca"
     },
     {
       "added_at": "2025-05-26 14:00:14",
@@ -1275,18 +1275,22 @@
     {
       "added_at": "2025-05-26 14:00:14",
       "album": {
-        "name": "Feel It For You",
-        "url": "https://open.spotify.com/album/5JsQ0nnJ1jzG6QsjZyIh0F"
+        "name": "Wale Wale",
+        "url": "https://open.spotify.com/album/6ZKlN58OPBHwzAL8BBV6N1"
       },
       "artists": [
         {
-          "name": "PARISI",
-          "url": "https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT"
+          "name": "TRESOR",
+          "url": "https://open.spotify.com/artist/5tYaRVYbV1anmzyxqMVdHi"
+        },
+        {
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
         }
       ],
-      "duration_ms": 211409,
-      "name": "Feel It For You",
-      "url": "https://open.spotify.com/track/76vnxLIS70EvlISthDydnE"
+      "duration_ms": 317884,
+      "name": "Wale Wale",
+      "url": "https://open.spotify.com/track/5rwJB5FQDo1zRrxYmpwSPy"
     },
     {
       "added_at": "2025-05-26 14:00:14",
@@ -1311,22 +1315,18 @@
     {
       "added_at": "2025-05-26 14:00:14",
       "album": {
-        "name": "Wale Wale",
-        "url": "https://open.spotify.com/album/6ZKlN58OPBHwzAL8BBV6N1"
+        "name": "Feel It For You",
+        "url": "https://open.spotify.com/album/5JsQ0nnJ1jzG6QsjZyIh0F"
       },
       "artists": [
         {
-          "name": "TRESOR",
-          "url": "https://open.spotify.com/artist/5tYaRVYbV1anmzyxqMVdHi"
-        },
-        {
-          "name": "Sofiya Nzau",
-          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+          "name": "PARISI",
+          "url": "https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT"
         }
       ],
-      "duration_ms": 317884,
-      "name": "Wale Wale",
-      "url": "https://open.spotify.com/track/5rwJB5FQDo1zRrxYmpwSPy"
+      "duration_ms": 211409,
+      "name": "Feel It For You",
+      "url": "https://open.spotify.com/track/76vnxLIS70EvlISthDydnE"
     },
     {
       "added_at": "2025-05-26 14:00:14",

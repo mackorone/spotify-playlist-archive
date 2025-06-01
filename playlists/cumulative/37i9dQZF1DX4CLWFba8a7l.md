@@ -4,7 +4,7 @@
 
 > In this house we celebrate Australian music\. Cover: Vv Pete
 
-309 songs - 17 hr 21 min
+310 songs - 17 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,7 +182,7 @@
 | [Neverender](https://open.spotify.com/track/3aQ9MHkMeL7Yu7jpyF62xn) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Hyperdrama](https://open.spotify.com/album/6ooBxhsOVedpX4zPTCyL86) | 4:26 | 2024-05-31 |  |
 | [New Day](https://open.spotify.com/track/29QapPHFOLLGqhHiXoLcMz) | [Jimmy Barnes](https://open.spotify.com/artist/1k5aZWIOUbUfKcnMxtEivJ) | [New Day / Beyond the River Bend](https://open.spotify.com/album/6KxLLpqmWn3M7NjUCgu4kw) | 3:42 | 2025-03-04 | 2025-03-21 |
 | [Next Exit](https://open.spotify.com/track/0xkSfBYxRMTLgrinRJlzfz) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Next Exit](https://open.spotify.com/album/4UfayZRNyvNRmayWpf2z7H) | 3:21 | 2024-05-31 | 2025-02-14 |
-| [No Cure For Love](https://open.spotify.com/track/473PUp4n0CKUOpavKubWcV) | [Rowena Wise](https://open.spotify.com/artist/1cofMlotC1E8kMOfz1yhZC), [Didirri](https://open.spotify.com/artist/01lbqGTSuT9Jr3gMwiF3Xw) | [No Cure For Love](https://open.spotify.com/album/3stGOTd46n9pCg1Lj3INZV) | 3:52 | 2025-03-04 |  |
+| [No Cure For Love](https://open.spotify.com/track/473PUp4n0CKUOpavKubWcV) | [Rowena Wise](https://open.spotify.com/artist/1cofMlotC1E8kMOfz1yhZC), [Didirri](https://open.spotify.com/artist/01lbqGTSuT9Jr3gMwiF3Xw) | [No Cure For Love](https://open.spotify.com/album/3stGOTd46n9pCg1Lj3INZV) | 3:52 | 2025-03-04 | 2025-06-01 |
 | [No One Does It Like](https://open.spotify.com/track/3tX4wGJbMYgNGZC0Tr5V3t) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [No One Does It Like](https://open.spotify.com/album/2psgub3GgkiwG1AszLqWdQ) | 3:06 | 2025-04-08 |  |
 | [Nobody's Baby](https://open.spotify.com/track/1Hb6xEZ9eEmalnpNoPTwcc) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Nobody's Baby](https://open.spotify.com/album/6AyXzG3yU8Xm9IFYS15Fdu) | 2:35 | 2024-07-25 | 2024-09-15 |
 | [NOSE BLEED](https://open.spotify.com/track/2hXcTd2JwqQcB2BeP4pCmv) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [NOSE BLEED](https://open.spotify.com/album/772BcjyDWvoIxM5ASWds6j) | 3:15 | 2024-08-22 | 2025-01-10 |
@@ -291,6 +291,7 @@
 | [Touchy Subject](https://open.spotify.com/track/5oquffCDI8BAXP7jBewlll) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Touchy Subject](https://open.spotify.com/album/7E6LnPGLCbh5yZMb5sjWEk) | 3:47 | 2024-05-31 | 2024-11-26 |
 | [Train Left The Station](https://open.spotify.com/track/2MRxpNwr8fccjiRMpa9zFA) | [The Dreggs](https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1) | [Caught in a Reverie](https://open.spotify.com/album/57mCFDpG3DjTa7LeD89Dsr) | 4:15 | 2024-05-31 | 2025-01-10 |
 | [Trust](https://open.spotify.com/track/4i6YTuChfl0hMZWRiK3OF1) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [The Loop](https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO) | 3:26 | 2024-05-31 |  |
+| [Truth](https://open.spotify.com/track/4mSDOE2kImbodUtKFLmcqm) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Truth](https://open.spotify.com/album/1PoebRqjvlN71Tjdwg6I37) | 3:27 | 2025-05-29 |  |
 | [TUNDRA](https://open.spotify.com/track/1kX24LMs0Q1DxFpb10n6qr) | [DEVAURA](https://open.spotify.com/artist/7MPlrCtiMvRiqSuww4uSiX), [Hylander](https://open.spotify.com/artist/00JuW5c5vm2ztgv54DRqF4) | [Vol.1 Learning In Public](https://open.spotify.com/album/5GIiOmeOFqnAFT9SiOes6H) | 3:19 | 2025-04-08 | 2025-04-18 |
 | [U Always](https://open.spotify.com/track/5KqMPYaStD6h3wkVU1nVFV) | [Juno Mamba](https://open.spotify.com/artist/5RAHYRgJdI1D82IANP5yYL), [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm) | [U Always](https://open.spotify.com/album/2GL4MOHJDbEHFaJYFuQ2eu) | 4:18 | 2025-05-08 | 2025-05-16 |
 | [U Should Not Be Doing That](https://open.spotify.com/track/20H3uanVBm4oOZ27yHco3Y) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [U Should Not Be Doing That / Facts](https://open.spotify.com/album/7JAP54qpfq60TE8jgkujCs) | 3:26 | 2024-05-31 | 2025-01-23 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4xqbJOskQD.md) - [plain]
 
 > The Mills Brothers, The Andrews Sisters and other classic vocal groups.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,983 likes - 45 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,985 likes - 45 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4xqbJOskQD.md) - [plain]
 | 6 | [Sincerely](https://open.spotify.com/track/50AhgOXYVm9ASB6PlKdKk0) | [The McGuire Sisters](https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN) | [The Anthology](https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6) | 2:58 |
 | 7 | [Straighten Up And Fly Right \- Single Version](https://open.spotify.com/track/2FZZZ3L1wj9xTgQzMlQEed) | [The Andrews Sisters](https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM), [Vic Schoen & His Orchestra](https://open.spotify.com/artist/5wHn4S5C2d5fqXIPnJWe42) | [50th Anniversary Collection \(Vol\. 2\)](https://open.spotify.com/album/4ro3pENrSK5JrlsTr1RS7L) | 2:29 |
 | 8 | [Moments To Remember](https://open.spotify.com/track/3M6vVP9wlbGC10xZ654SDb) | [The Four Lads](https://open.spotify.com/artist/3stlWzoChlEtbdZAz6CNC3) | [16 Most Requested Songs](https://open.spotify.com/album/0PHOqv81FzFx8PSVqEa0NE) | 3:15 |
-| 9 | [Mairzy Doats](https://open.spotify.com/track/3jMP8VYsS7mt9ZeqLlnr3m) | [The Merry Macs](https://open.spotify.com/artist/1GdTErb29TNkiEGWrNGAeH) | [The Merry Macs Sing Mairzy Doats](https://open.spotify.com/album/2mDsfD127OI1Lem0XolFXr) | 2:44 |
-| 10 | [It's A Blue World](https://open.spotify.com/track/2iXNeaqJ1Ef3YZ3iEak8tU) | [The Four Freshmen](https://open.spotify.com/artist/7eAF64ZiDwK2rDPSrr97D9) | [Voices In Modern](https://open.spotify.com/album/6kckztjIdIEv1gLYa9Wyn8) | 2:58 |
+| 9 | [It's A Blue World](https://open.spotify.com/track/2iXNeaqJ1Ef3YZ3iEak8tU) | [The Four Freshmen](https://open.spotify.com/artist/7eAF64ZiDwK2rDPSrr97D9) | [Voices In Modern](https://open.spotify.com/album/6kckztjIdIEv1gLYa9Wyn8) | 2:58 |
+| 10 | [Mairzy Doats](https://open.spotify.com/track/3jMP8VYsS7mt9ZeqLlnr3m) | [The Merry Macs](https://open.spotify.com/artist/1GdTErb29TNkiEGWrNGAeH) | [The Merry Macs Sing Mairzy Doats](https://open.spotify.com/album/2mDsfD127OI1Lem0XolFXr) | 2:44 |
 | 11 | [Teach Me Tonight](https://open.spotify.com/track/2ARoWEBWZGyGSoHY1Clo1g) | [The McGuire Sisters](https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN) | [The Anthology](https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6) | 3:05 |
 | 12 | [Red Roses For A Blue lady](https://open.spotify.com/track/2DmaZOeu9YazJTYnG7Uadv) | [The Ray Conniff Singers](https://open.spotify.com/artist/6WtWmLPWn1imbcisSfmBvy) | [SOMEWHERE MY LOVE \(Love Theme from "Dr\. Zhivago"\) And Other Great Hits](https://open.spotify.com/album/69McWz1Og4ZOjEeupHfpw7) | 2:29 |
 | 13 | [Istanbul \(Not Constantinople\)](https://open.spotify.com/track/1HKcy2OX5u86O9M1AOCNDE) | [The Four Lads](https://open.spotify.com/artist/3stlWzoChlEtbdZAz6CNC3) | [16 Most Requested Songs Of The 1950s\. Volume One](https://open.spotify.com/album/1EwKI0RoZXgf8ETKYP4WXB) | 2:21 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4xqbJOskQD.md) - [plain]
 | 31 | [Early Autumn](https://open.spotify.com/track/5st46QqB3wCTdFPUso9lll) | [The King Sisters](https://open.spotify.com/artist/6Gsao94MioGNcDLFGFAlw7) | [Imagination](https://open.spotify.com/album/0N0IsbV6VEvnx6e6gmD9Qb) | 2:51 |
 | 32 | [My One Sin](https://open.spotify.com/track/0gWKRxc5ncnS3wxXF1E9jV) | [The Four Coins](https://open.spotify.com/artist/1XQXkciRULT2PXhRUtmmuH) | [Best Of The Four Coins](https://open.spotify.com/album/5QpanrSfnut4MbnbG8ryH9) | 2:19 |
 | 33 | [Lullaby of Birdland](https://open.spotify.com/track/4ZQebNut4njSuTIJe7l3UH) | [Kirby Stone Four](https://open.spotify.com/artist/2lxCXV18FLswPAuCO0OeR9) | [The Kirby Stone Touch](https://open.spotify.com/album/2BeXXbbvUL4qzsm8A6W9pA) | 2:09 |
-| 34 | [Love On A Greyhound Bus](https://open.spotify.com/track/4wam2im1dxbWFVU5TjxF8C) | [The Dinning Sisters](https://open.spotify.com/artist/7lGYu24LHAMZYqarrWHz8h) | [The Very Best Of](https://open.spotify.com/album/6t0ktrofZCI38hxO9c37Tz) | 2:53 |
-| 35 | [Underneath The Linden Tree](https://open.spotify.com/track/2rXUt201xsDplJW2BtBFXU) | [The Fontane Sisters](https://open.spotify.com/artist/1Ml4OuStDoympbREURAM15) | [The Singles Collection 1946\-60](https://open.spotify.com/album/75jzCtbYZGSEJgL7i9MhNN) | 2:41 |
+| 34 | [Underneath The Linden Tree](https://open.spotify.com/track/2rXUt201xsDplJW2BtBFXU) | [The Fontane Sisters](https://open.spotify.com/artist/1Ml4OuStDoympbREURAM15) | [The Singles Collection 1946\-60](https://open.spotify.com/album/75jzCtbYZGSEJgL7i9MhNN) | 2:41 |
+| 35 | [Love On A Greyhound Bus](https://open.spotify.com/track/4wam2im1dxbWFVU5TjxF8C) | [The Dinning Sisters](https://open.spotify.com/artist/7lGYu24LHAMZYqarrWHz8h) | [The Very Best Of](https://open.spotify.com/album/6t0ktrofZCI38hxO9c37Tz) | 2:53 |
 | 36 | [Dream](https://open.spotify.com/track/0AtVA7axXKVFnjQsN4xBIy) | [The Pied Pipers](https://open.spotify.com/artist/5o8E07TcYqIefZpDejymAd) | [What is This Thing Called Love?](https://open.spotify.com/album/0tn2qcrEjAcoBvWhZVZvjN) | 2:48 |
 | 37 | [Mr\. Sandman \- 1954 \#1 Billboard chart hit](https://open.spotify.com/track/3zopUGxKy1Uz4cKtDGjZry) | [The Chordettes](https://open.spotify.com/artist/62GnBjssWSXBlKvQohT2Bk) | ["They're Riding High" Says Archie](https://open.spotify.com/album/2fBVKQwJG7e5NvOizP3jCm) | 2:23 |
 | 38 | [Have You Heard](https://open.spotify.com/track/6mYzrb44QFhcNQKBKRJ4cl) | [The Duprees](https://open.spotify.com/artist/6nYTjfJFNic9m83TROYHUS) | [The Coed Singles](https://open.spotify.com/album/5QqmvqhSefdfFRn6MLfZGL) | 2:31 |

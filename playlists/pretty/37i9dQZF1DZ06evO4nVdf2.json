@@ -1,13 +1,33 @@
 {
   "description": "This is Ximena Sari\u00f1ana. The essential tracks, all in one playlist.",
-  "num_followers": 63660,
+  "num_followers": 63666,
   "original_name": "This Is Ximena Sari\u00f1ana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDejgAAAAAAmHm4XRpr5Bi6f/cVD+gU+",
+  "snapshot_id": "aDj1AAAAAAAV49tO6YjEOpPEwzmN5DEn",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "<3CDMX",
+        "url": "https://open.spotify.com/album/4GA4fEf2DfMVAoJ60eE151"
+      },
+      "artists": [
+        {
+          "name": "Zahara",
+          "url": "https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 184133,
+      "name": "<3CDMX",
+      "url": "https://open.spotify.com/track/3L8OZNmQMFGMDhigIRL1zR"
+    },
     {
       "added_at": null,
       "album": {
@@ -352,9 +372,9 @@
           "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
         }
       ],
-      "duration_ms": 193407,
-      "name": "Ma\u00f1ana No Es Hoy - Versi\u00f3n de Ximena",
-      "url": "https://open.spotify.com/track/5LPYvfHyqgFB5ZPNayhtUB"
+      "duration_ms": 224121,
+      "name": "Las Huellas - Versi\u00f3n de Ximena",
+      "url": "https://open.spotify.com/track/6Y6oC4hmqAHB7KDkOlSDT1"
     },
     {
       "added_at": null,
@@ -424,9 +444,9 @@
           "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
         }
       ],
-      "duration_ms": 224121,
-      "name": "Las Huellas - Versi\u00f3n de Ximena",
-      "url": "https://open.spotify.com/track/6Y6oC4hmqAHB7KDkOlSDT1"
+      "duration_ms": 193407,
+      "name": "Ma\u00f1ana No Es Hoy - Versi\u00f3n de Ximena",
+      "url": "https://open.spotify.com/track/5LPYvfHyqgFB5ZPNayhtUB"
     },
     {
       "added_at": null,
@@ -507,30 +527,6 @@
       "duration_ms": 209220,
       "name": "N.I.T.",
       "url": "https://open.spotify.com/track/6YkjeXjD4WHs2tVsoiDSwM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Conexi\u00f3n (En Vivo)",
-        "url": "https://open.spotify.com/album/5NxW0Aim29Q9jWXoqA2WYB"
-      },
-      "artists": [
-        {
-          "name": "Ana Torroja",
-          "url": "https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        },
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 287840,
-      "name": "Un A\u00f1o M\u00e1s - En Vivo",
-      "url": "https://open.spotify.com/track/2qz2TwDrWbDKK4rdHkV66V"
     },
     {
       "added_at": null,

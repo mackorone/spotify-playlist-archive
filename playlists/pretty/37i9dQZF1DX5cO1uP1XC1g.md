@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cO1uP1XC1g.md) - [plain]
 
 > The Hottest Arabic Music.<br/>Cover: Bessan Ismail
 
-[Spotify](https://open.spotify.com/user/spotify) - 558,017 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 558,132 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [خطية](https://open.spotify.com/track/3zhq4NoxePEjzojkAnVbOy) | [Bessan Ismail](https://open.spotify.com/artist/3D19Q7vcrQ8iCeSNcrQpAB), [Fouad Jned](https://open.spotify.com/artist/6HbYj8CX1iPNrY6ox5haJN) | [خطية](https://open.spotify.com/album/7yCSM2zx7WzqNghq7vB9QV) | 2:53 |
+| 1 | [خطية \| Khtaya](https://open.spotify.com/track/3zhq4NoxePEjzojkAnVbOy) | [Bessan Ismail](https://open.spotify.com/artist/3D19Q7vcrQ8iCeSNcrQpAB), [Fouad Jned](https://open.spotify.com/artist/6HbYj8CX1iPNrY6ox5haJN) | [خطية \| Khtaya](https://open.spotify.com/album/7yCSM2zx7WzqNghq7vB9QV) | 2:53 |
 | 2 | [KALAMANTINA / كلمنتينا](https://open.spotify.com/track/3vZ3ngEbunTiK4fOVKyzYD) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT), [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [Love Letters / رسائل حب](https://open.spotify.com/album/7CBui2zfZ08ZbpdVnBfpUr) | 3:26 |
 | 3 | [Asli Ana](https://open.spotify.com/track/0eqH5SceGkvfbxDXu7KaNZ) | [zeyne](https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf) | [7arrir 3aqlak / Asli Ana](https://open.spotify.com/album/1JDKhvGNRFZSPXm1uVzTME) | 2:51 |
 | 4 | [Ganeni](https://open.spotify.com/track/2qXSWquHZScT6OMJARM6Ql) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [WOLEDTO](https://open.spotify.com/album/3wCKwy1cHwBUCW4RQFvHHQ) | 2:57 |

@@ -4,7 +4,7 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-282 songs - 14 hr 28 min
+284 songs - 14 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,7 +184,7 @@
 | [Never Too Much \- Acoustic](https://open.spotify.com/track/1MVsvA4KgABP84K4yymwL1) | [Mateo Oxley](https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r) | [Never Too Much \(Acoustic\)](https://open.spotify.com/album/2vMJzstrV9NINEBu05fJMR) | 2:32 | 2022-07-02 | 2023-02-02 |
 | [New Rules \- Piano, Acoustic; Live](https://open.spotify.com/track/73B1hH8CzvGGq4hnEvmPTl) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Live Acoustic EP](https://open.spotify.com/album/7ahC3nVbClJ8pqASWOIhda) | 3:29 | 2019-10-13 |  |
 | [No Scrubs \- Acoustic](https://open.spotify.com/track/4SlvVeLLojqmRT3VpXGNVZ) | [Grace George](https://open.spotify.com/artist/5twhJoJJtAOsHl6KQjji8Z) | [No Scrubs \(Acoustic\)](https://open.spotify.com/album/2eTxGTbHIMKl8ZFzkbgQIT) | 3:11 | 2020-07-24 |  |
-| [Nothing's Gonna Stop Us Now \- Acoustic](https://open.spotify.com/track/24RPVHtPO71yC3TPPJlYBs) | [Callum J Wright](https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe) | [Nothing's Gonna Stop Us Now \(Acoustic\)](https://open.spotify.com/album/140HsR9epNAx6aHV2S936F) | 3:07 | 2025-03-29 |  |
+| [Nothing's Gonna Stop Us Now \- Acoustic](https://open.spotify.com/track/24RPVHtPO71yC3TPPJlYBs) | [Callum J Wright](https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe) | [Nothing's Gonna Stop Us Now \(Acoustic\)](https://open.spotify.com/album/140HsR9epNAx6aHV2S936F) | 3:07 | 2025-03-29 | 2025-06-01 |
 | [Only You \- Acoustic](https://open.spotify.com/track/1VhvvVUUsdvHOg03lGTARR) | [Laurence O’Brien](https://open.spotify.com/artist/71rzE2Y74EDwYYSf1J8osl) | [Only You \(Acoustic\)](https://open.spotify.com/album/6URklNb6ymA8wmm4J64WJ1) | 3:42 | 2022-01-13 | 2025-02-03 |
 | [Paradise \- Acoustic Version](https://open.spotify.com/track/5IaTbmfClU9YmW9vjZr86l) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Paradise \(Acoustic Version\)](https://open.spotify.com/album/4w20E4lMmjWmApwDb7Iie6) | 3:40 | 2019-10-13 |  |
 | [Perfect \- Acoustic](https://open.spotify.com/track/5T6bJp3XgwT0IaCfKMxmAu) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Perfect \(Acoustic\)](https://open.spotify.com/album/4uJ318DIOMiA4y9vg2dRwv) | 4:20 | 2019-10-13 |  |
@@ -242,6 +242,7 @@
 | [Time After Time \- Acoustic](https://open.spotify.com/track/6E5nFQmuLN1L8k5qSzCQzB) | [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf), [Kyson Facer](https://open.spotify.com/artist/0c6DUuMDIsuhBUUgYRGI30) | [Time After Time \(Acoustic\)](https://open.spotify.com/album/5uxvXq75wFr9uRKR1QVVKq) | 3:04 | 2025-01-10 |  |
 | [Too Good At Goodbyes \- Acoustic](https://open.spotify.com/track/7ejps6ztLxyZD74tHrTdEj) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Too Good At Goodbyes \(Acoustic\)](https://open.spotify.com/album/6yjWw8pTnhYM4y4jfbGSFY) | 3:40 | 2019-10-13 |  |
 | [Total Eclipse of the Heart \- Acoustic](https://open.spotify.com/track/3IkEaYtOxzAbRNtfM1bfiZ) | [Mysha Didi](https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI), [Mateo Oxley](https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r) | [Total Eclipse of the Heart \(Acoustic\)](https://open.spotify.com/album/2sS9ty7Uxew3M0AgpulZUw) | 2:40 | 2023-06-02 | 2023-12-14 |
+| [Treasure](https://open.spotify.com/track/31Ctlmul6mkj9MYrLwKuMU) | [Richard Watts](https://open.spotify.com/artist/3cGb8b9Zwvka0MWD5RyMDI) | [Treasure](https://open.spotify.com/album/1Bk8Z6dsSdL0KNBQCo4xtd) | 3:09 | 2025-05-31 |  |
 | [Treasure \- Acoustic](https://open.spotify.com/track/3HzIzYnG0DsW7qSmndarxS) | [Franklyn Jay](https://open.spotify.com/artist/6x84plwzEZTisIcJUFiNcr) | [Treasure \(Acoustic\)](https://open.spotify.com/album/5C8eQcdqEPF3cpLDp9IRWj) | 2:44 | 2023-09-17 | 2025-02-10 |
 | [True Colours](https://open.spotify.com/track/1rGxG6Y5OgmSwGPRPJv9Q4) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [True Colours](https://open.spotify.com/album/2KYcp0bkKyyGllYygfdtHX) | 2:23 | 2019-10-13 |  |
 | [True Colours \- Acoustic](https://open.spotify.com/track/5Yx9ReP3EazFEfqrPAwIos) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05), [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [True Colours \(Acoustic\)](https://open.spotify.com/album/2OEt8n5TKNKKaPV947Zr2O) | 3:06 | 2023-04-10 | 2024-03-04 |
@@ -281,6 +282,7 @@
 | [You Get What You Give \- Acoustic](https://open.spotify.com/track/3ZRRjUNc1OIGRBPz65VyxH) | [Plamina](https://open.spotify.com/artist/7x6A8huMVnPZ5wAzlw6HSp) | [You Get What You Give \(Acoustic\)](https://open.spotify.com/album/0QO3w3D9HNIrLR2y0rMltj) | 3:10 | 2023-09-10 |  |
 | [You Got It \- Acoustic](https://open.spotify.com/track/5a6e3orRKXQa8DKDpK1Rvk) | [Hannah's Yard](https://open.spotify.com/artist/08qkAEn1wetskAwcPrcOPf) | [You Got It \(Acoustic\)](https://open.spotify.com/album/7hfuFxdCaXDCJe0hFfqye7) | 3:24 | 2024-02-02 | 2025-02-10 |
 | [You Gotta Be \- Acoustic](https://open.spotify.com/track/4RlBEdL5DOSslHLSUhKJn6) | [Mateo Oxley](https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r) | [You Gotta Be \(Acoustic\)](https://open.spotify.com/album/3pR8DUQuR6uy44pYmFGw52) | 2:28 | 2019-10-13 | 2024-04-26 |
+| [You Make My Dreams \(Come True\)](https://open.spotify.com/track/2FXh77yuXHFlRdPugP51mV) | [Callum J Wright](https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe) | [You Make My Dreams \(Come True\)](https://open.spotify.com/album/7qYldplOdOMyQTWZIJwPXH) | 2:55 | 2025-05-31 |  |
 | [You Make My Dreams \(Come True\) \- Acoustic](https://open.spotify.com/track/5eVWuD9WNdT1ucIjoSgzNi) | [Hannah's Yard](https://open.spotify.com/artist/08qkAEn1wetskAwcPrcOPf) | [You Make My Dreams \(Come True\) \[Acoustic\]](https://open.spotify.com/album/5XoPbu9rDKMcqh5CYKm5ZI) | 2:30 | 2024-04-12 | 2024-11-10 |
 | [You Make My Dreams \- Acoustic](https://open.spotify.com/track/31nV3lkDVnJlfHntOkIhpD) | [Alex Francis](https://open.spotify.com/artist/0aJPoUxg99e5iOzIdWxpUa) | [Foundations Acoustic](https://open.spotify.com/album/0uSBXq04gTbVFm1WgFQrei) | 3:25 | 2019-10-13 | 2024-03-04 |
 | [You Make My Dreams \- Acoustic](https://open.spotify.com/track/0u9jiSe6t4MLdkpTvg3Kdv) | [Hailey Gardiner](https://open.spotify.com/artist/77bmDZbZ65uoGKVTIzKcEc) | [You Make My Dreams \(Acoustic\)](https://open.spotify.com/album/3rWfZ8M7iIGKFybwCIXZTk) | 2:34 | 2021-05-28 |  |

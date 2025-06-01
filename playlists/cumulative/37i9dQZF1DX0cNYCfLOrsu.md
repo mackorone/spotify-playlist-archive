@@ -4,7 +4,7 @@
 
 > The best in Dancehall for the gyaldem\. Cover: Shenseea
 
-205 songs - 10 hr 31 min
+206 songs - 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Bumpa](https://open.spotify.com/track/3tZEeX4uToXoW3xeUQWin8) | [Lisa Mercedez](https://open.spotify.com/artist/2uL8gbwzpTKZKSNcCTHm0p) | [Bumpa](https://open.spotify.com/album/3nccXj310EwGo2VYTjjpMU) | 2:02 | 2021-10-24 | 2022-06-29 |
 | [Bun Fi Bun \(Fast\)](https://open.spotify.com/track/4Ta2BdlUeRsSdQARipaDTq) | [IQ](https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Bun Fi Bun \(Fast\)](https://open.spotify.com/album/71ktd6XTxLmI4VoQ8q7w5Z) | 2:29 | 2023-05-15 |  |
 | [Bun Fi Bun \- Fast](https://open.spotify.com/track/4ZpTLINWb1RLoHluCLwkeT) | [IQ](https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Bun Fi Bun \(Fast\)](https://open.spotify.com/album/322pCqxSFt8u8938IUrFC3) | 2:29 | 2023-05-15 | 2024-04-19 |
+| [Buss a Whine](https://open.spotify.com/track/6UQLhEkY7ZfpMbctfg490g) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [Leftside](https://open.spotify.com/artist/187qoiisjzqvj3wsBWLotr), [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6) | [Buss a Whine](https://open.spotify.com/album/2O7NFz737LgCjAmqWdswst) | 2:27 | 2025-05-29 |  |
 | [Call Me \(feat\. Stefflon Don\)](https://open.spotify.com/track/7FtB2kYAJEUkcoELfZdOma) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Upside Down 2020](https://open.spotify.com/album/0gZau2nRsooGhfgul60N4l) | 3:50 | 2021-10-24 |  |
 | [Can't Anymore](https://open.spotify.com/track/6zrZ7mVcznNd2Q6qB0iBrq) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [ALPHA](https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq) | 2:35 | 2022-06-20 | 2022-08-19 |
 | [Can't Let You Go](https://open.spotify.com/track/5YmPSElBlLt0Yy1zPOUGqi) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Can't Let You Go](https://open.spotify.com/album/3x7XvqGzt8oR9Gm0x4r2wV) | 3:14 | 2021-10-24 |  |
@@ -93,7 +94,7 @@
 | [GPP](https://open.spotify.com/track/3rnMusaZSGqhvWJG63Li55) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG), [Di Genius](https://open.spotify.com/artist/08erObvNX7rs7d4pbuaRCQ) | [GPP](https://open.spotify.com/album/05JFI9UgHFBD6gvanViaTW) | 3:13 | 2022-08-18 | 2023-05-16 |
 | [Green Dreams](https://open.spotify.com/track/0fDkjehk7tnIvkjDwka5Fv) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Green Dreams](https://open.spotify.com/album/6EytlSwAFqSzsZHRZbPNkr) | 2:25 | 2021-10-24 | 2022-07-28 |
 | [Hands Up](https://open.spotify.com/track/2DqiAl1qCPnOkx6EHDt12R) | [Moyann](https://open.spotify.com/artist/5XV9d7Ee7IuJrday4LIpKc) | [Hands Up](https://open.spotify.com/album/2ddLiPnq33pYj3V7Kfmo9u) | 2:17 | 2023-05-15 | 2024-04-22 |
-| [Hard & Done](https://open.spotify.com/track/50ZQ13cDPuFaSXfWdPwa5n) | [Jugglerz](https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY), [Nyla](https://open.spotify.com/artist/4VZY0nxYMSNotbS7WjNVQy), [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [Hard & Done](https://open.spotify.com/album/2mdQ5xNL2QOBniNeHrhIDY) | 2:40 | 2021-10-24 |  |
+| [Hard & Done](https://open.spotify.com/track/50ZQ13cDPuFaSXfWdPwa5n) | [Jugglerz](https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY), [Nyla](https://open.spotify.com/artist/4VZY0nxYMSNotbS7WjNVQy), [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [Hard & Done](https://open.spotify.com/album/2mdQ5xNL2QOBniNeHrhIDY) | 2:40 | 2021-10-24 | 2025-06-01 |
 | [Hard Drive](https://open.spotify.com/track/4tw57jakL7TFEdZ4bUohP1) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Hard Drive](https://open.spotify.com/album/4y2mW0Vpyc897XhWl8K6B9) | 2:48 | 2021-10-24 |  |
 | [Heavy!](https://open.spotify.com/track/6QQb9IsS797WWbHWgsyiQf) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Heavy!](https://open.spotify.com/album/4fkjpMo0MufbdR6YyY4pQ9) | 2:45 | 2021-10-24 |  |
 | [Heavy! \(Vybz Kartel Remix\)](https://open.spotify.com/track/07XcuVPoyMogdiV4nBeCPt) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Dj Papis](https://open.spotify.com/artist/3a2dlVcm5z0ha2j9ihlQmP) | [Heavy! \(Vybz Kartel Remix\)](https://open.spotify.com/album/3pjBdUQ3B9zLWc4y7GmDSE) | 2:45 | 2021-10-24 |  |

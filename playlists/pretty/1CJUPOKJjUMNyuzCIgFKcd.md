@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/1CJUPOKJjUMNyuzCIgFKcd.md) - [plain]
 
 > The freshest Hip Hop and R&amp;B.
 
-[EMPIRE](https://open.spotify.com/user/empiredistribution) - 23,679 likes - 60 songs - 2 hr 45 min
+[EMPIRE](https://open.spotify.com/user/empiredistribution) - 23,677 likes - 60 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Diamond Stitching](https://open.spotify.com/track/1cVDuG58Cj3RGe8ySKwY6i) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [Diamond Stitching](https://open.spotify.com/album/1SLHvtzblS30JZW9anryTE) | 2:29 |
 | 2 | [whoa \(mind in awe\) \- Remix](https://open.spotify.com/track/4lkpfY2wfmHj958Fr32kHS) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [whoa \(mind in awe\) \[Remix\]](https://open.spotify.com/album/55lzDv6LGUMY1CdxWGAtic) | 3:16 |
 | 3 | [Rich Nigga Summer 2025](https://open.spotify.com/track/17ileKDuYYUYCruHtLpGmz) | [Damedot](https://open.spotify.com/artist/5OHfcsZ8fneKjS64QqFST0) | [Rich Nigga Summer 2025](https://open.spotify.com/album/72IAXwinN684dcwUZT8frx) | 3:11 |
-| 4 | [Kush \(feat\. Hokage Simon\)](https://open.spotify.com/track/1Wob9F034PWbvaLuvZAqsZ) | [DJ KenZo](https://open.spotify.com/artist/6gsuIJnIcsuDnU6Xu1YKAL), [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [MALACHI](https://open.spotify.com/artist/4BTzb2ExegPasbEDN424hb), [Shanté](https://open.spotify.com/artist/01LFHYk6xpMMbpzH8Gzoju), [Hokage Simon](https://open.spotify.com/artist/6khHZgajTqW6zMpXBH4O6R) | [Kushe \(feat\. Hokage Simon\)](https://open.spotify.com/album/1ogk8Cwo8Z6aQCIdy5B8Fj) | 3:41 |
+| 4 | [Kushe \(feat\. Hokage Simon\)](https://open.spotify.com/track/1Wob9F034PWbvaLuvZAqsZ) | [DJ KenZo](https://open.spotify.com/artist/6gsuIJnIcsuDnU6Xu1YKAL), [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [MALACHI](https://open.spotify.com/artist/4BTzb2ExegPasbEDN424hb), [Shanté](https://open.spotify.com/artist/01LFHYk6xpMMbpzH8Gzoju), [Hokage Simon](https://open.spotify.com/artist/6khHZgajTqW6zMpXBH4O6R) | [Kushe \(feat\. Hokage Simon\)](https://open.spotify.com/album/1ogk8Cwo8Z6aQCIdy5B8Fj) | 3:41 |
 | 5 | [Nubes \(feat\. Chequez\)](https://open.spotify.com/track/5tdQY52rr9X7CN9ZM5d2Ew) | [Baby Gas](https://open.spotify.com/artist/57JVa2arbT41WF9qmi7C5E), [Chequez](https://open.spotify.com/artist/66NPw31SskIZzaTEaolC20) | [Siempre Ghetto](https://open.spotify.com/album/2Ci414XPbTzD7Y9TZHrOkr) | 2:54 |
 | 6 | [Pressure](https://open.spotify.com/track/05lhFsOWPXRjfGA7xY7XJz) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Pressure](https://open.spotify.com/album/0O7179ieea0SQIwxyFaL68) | 2:39 |
 | 7 | [Baby](https://open.spotify.com/track/16XlQ75mVEp4wlfdTvGcnP) | [RJMrLA](https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN) | [Baby](https://open.spotify.com/album/6J1yejuu881CRYihj6PQCN) | 2:21 |

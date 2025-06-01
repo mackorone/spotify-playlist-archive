@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 162 songs - 8 hr 55 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 164 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -170,5 +170,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 160 | [Summer Love](https://open.spotify.com/track/1MBM7CyZbwJpVbbZJnHHRg) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [FutureSex/LoveSounds](https://open.spotify.com/album/2scB1uhcCI1TSf6b9TCZK3) | 4:12 |
 | 161 | [New Seal](https://open.spotify.com/track/5w5EkYQ3pxcFiQPw3SGdDl) | [Kankan](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [WAY2GEEKED](https://open.spotify.com/album/0NVK13Q93Egu6zMj858l8W) | 2:33 |
 | 162 | [Green Earrings](https://open.spotify.com/track/34C3UVHdq8Uay5EzUHvJqH) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [The Royal Scam](https://open.spotify.com/album/1Sur33x6g7tvdd9GQnHhhu) | 4:05 |
+| 163 | [Yacht](https://open.spotify.com/track/4BHwo6sEEYjtZyopn04gEJ) | [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [Five Forever](https://open.spotify.com/album/0zBzGId66SwQWCsPJgNLY1) | 2:33 |
+| 164 | [Nintendo \(feat\. Fluhkunxhkos\)](https://open.spotify.com/track/3ZrzJ9DZk4aKPylDwLYzDD) | [Slimesito](https://open.spotify.com/artist/1fqzcp3dzZD1YGQ2RT5pYs), [Fluhkunxhkos](https://open.spotify.com/artist/6pCLUSyfp5qxqjBW6hKjvU) | [GTA9](https://open.spotify.com/album/7M55Zy84Y3oEvb3DnLf8AX) | 2:17 |
 
-Snapshot ID: `AAAeaVntQiXDDxTX4174fROj0VNVdS2o`
+Snapshot ID: `AAAea48szBBnksZjXG+wBitpODlt7Jdr`

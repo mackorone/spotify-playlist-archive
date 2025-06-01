@@ -4,7 +4,7 @@
 
 > Актуальні хіти та проривні новинки незалежної місцевої музики\. Обкладинка: Крихітка, Qarpa, Юлія Лорд
 
-367 songs - 19 hr 9 min
+368 songs - 19 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -331,6 +331,7 @@
 | [Тривожність](https://open.spotify.com/track/4pIqgz9NlhC1R3absr2Cd7) | [PALMYRA](https://open.spotify.com/artist/1M4uTys4cgGmNVTGBqBzEj) | [Тривожність](https://open.spotify.com/album/5n3DVH56574zE16S2zufIk) | 3:26 | 2025-04-11 | 2025-04-25 |
 | [Тримай мене](https://open.spotify.com/track/33ve7gKEeUALVEIJPCV0zL) | [Тонка](https://open.spotify.com/artist/2ENRblmO6FgEs7MSj2AuWG) | [Акустичний альбом](https://open.spotify.com/album/48r9xUQrkf39dqp6QYlLAr) | 3:53 | 2024-09-13 | 2024-12-08 |
 | [Тримаєм посадку](https://open.spotify.com/track/1YHbwb0uyDM62d4SUNzmCc) | [Sasha Boole](https://open.spotify.com/artist/2s0YnA9mOGWt5DiDMoDjyy) | [Тримаєм посадку](https://open.spotify.com/album/62450IT2FoI0wMSxlzPu8h) | 2:43 | 2024-06-27 | 2025-03-18 |
+| [Тільки в Києві](https://open.spotify.com/track/3iyAfCTVpbomAFbZxretpr) | [Cepasa](https://open.spotify.com/artist/5fJEnhCIEvK6eevDCVJ1k1), [Artem Borodatiuk](https://open.spotify.com/artist/2y8mm7IQmQtr5ZpyY39fdK) | [Тільки в Києві](https://open.spotify.com/album/0HYJSAOFcv7yQuIrvYxCyU) | 3:19 | 2025-05-30 |  |
 | [Тільки не бреши](https://open.spotify.com/track/1nBKQvdtCQB6vt4x69qSL0) | [сервант](https://open.spotify.com/artist/21THXOs8Q1gAAS95grxylx) | [Тільки не бреши](https://open.spotify.com/album/6IqttDgQZHC05pcI1WTa3k) | 2:05 | 2025-04-11 |  |
 | [У пошуках вкраденого часу](https://open.spotify.com/track/4VmRZUhxz6Y9kF4PYWgCpR) | [Ivan Humoreska](https://open.spotify.com/artist/62Kegt7tdMiN6b4kTXoAQP) | [Великі закриття](https://open.spotify.com/album/0RsltfaquYlXyQlwQSq5I4) | 4:23 | 2024-12-06 | 2025-01-03 |
 | [Удвох](https://open.spotify.com/track/3N1wqE0ViblAo3XoyKH8Kg) | [Luna Rozza](https://open.spotify.com/artist/4w2yzPw0xWs7HtZIKLTDok) | [Удвох](https://open.spotify.com/album/01MnQhT99Ei1oTMXpWhzwd) | 2:01 | 2024-07-26 | 2024-08-24 |
@@ -365,7 +366,7 @@
 | [я не хочу бути один](https://open.spotify.com/track/1VnUzp7LvENTh1i18Sj0kU) | [Ігор Кайдаш](https://open.spotify.com/artist/1DBbudkd4BL8QyVK79E3qj) | [я не хочу бути один](https://open.spotify.com/album/3lgMxdmmYOfzfP7dqNHDIg) | 2:57 | 2024-09-13 | 2024-10-25 |
 | [Я сподіваюсь](https://open.spotify.com/track/1yTO4mmLprGq32ImfDk1Qb) | [Lely45](https://open.spotify.com/artist/3S2ZPs0ccEwknZLPQDbGSw) | [Я сподіваюсь](https://open.spotify.com/album/4F4tG7F0QmZQduDgQejL7a) | 2:31 | 2024-06-27 | 2025-03-04 |
 | [Я ще тут](https://open.spotify.com/track/5CguwUsbNl7N88jDUzc5Ws) | [Aspen Grove](https://open.spotify.com/artist/3PvkzQ5mrZ0EGltVg6SDPY) | [Я ще тут](https://open.spotify.com/album/5EigHrUJeiveGaVVe3vzLn) | 4:14 | 2024-12-06 | 2025-01-03 |
-| [я є рана / я є ніж](https://open.spotify.com/track/0RlHrI103DK2g6oI7YzE5O) | [The Soul Delusion](https://open.spotify.com/artist/4Zayd3BUGqyOQIhEZXbuUi) | [я є рана / я є ніж](https://open.spotify.com/album/1Xu46wHIEnQ86soI44DtmG) | 3:05 | 2024-08-23 |  |
+| [я є рана / я є ніж](https://open.spotify.com/track/0RlHrI103DK2g6oI7YzE5O) | [The Soul Delusion](https://open.spotify.com/artist/4Zayd3BUGqyOQIhEZXbuUi) | [я є рана / я є ніж](https://open.spotify.com/album/1Xu46wHIEnQ86soI44DtmG) | 3:05 | 2024-08-23 | 2025-06-01 |
 | [Яблучко](https://open.spotify.com/track/5i4GcoXoi0brjJRqfenfC5) | [Кажанна](https://open.spotify.com/artist/3OTyLjDNzzo72TGG8GwiDk) | [Рукокрила](https://open.spotify.com/album/1riuflPrPnY1MyPyxEeifl) | 2:36 | 2024-12-06 |  |
 | [Як же тобі там?](https://open.spotify.com/track/5sDurqXbFYuIW4rKwkPI07) | [Лівінстон](https://open.spotify.com/artist/6hdOzSe3EIQzPGqKtRX6q9) | [Як же тобі там?](https://open.spotify.com/album/43iMjqNTbopBrvGpvMZrBZ) | 4:04 | 2024-06-27 | 2025-03-18 |
 | [Як ми колись](https://open.spotify.com/track/6rtKzrmFxo0YmypAvO9nK2) | [Джозерс](https://open.spotify.com/artist/6vGzPITjy7QcOKdqfGGOpZ) | [Як ми колись](https://open.spotify.com/album/56vS6Q2ef80nRtPLCBt9pz) | 3:17 | 2024-10-04 | 2024-10-19 |

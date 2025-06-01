@@ -1,13 +1,45 @@
 {
   "description": "sparkling, shimmery synth pop \u2728",
-  "num_followers": 275881,
+  "num_followers": 275895,
   "original_name": "night pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCa4SwAAAAAi2+/QFTt5mZHAUqD7IiEf",
+  "snapshot_id": "aDsV2gAAAADOMNo12bnsFEC2LLat5YMv",
   "tracks": [
+    {
+      "added_at": "2025-05-31 14:44:42",
+      "album": {
+        "name": "Gimmicks",
+        "url": "https://open.spotify.com/album/3vfHStBRAhSVSSCK92TwfV"
+      },
+      "artists": [
+        {
+          "name": "GRACEY",
+          "url": "https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ"
+        }
+      ],
+      "duration_ms": 197239,
+      "name": "Gimmicks",
+      "url": "https://open.spotify.com/track/4bjE1oWu9t5C2IbGXVxmnU"
+    },
+    {
+      "added_at": "2025-05-31 14:44:42",
+      "album": {
+        "name": "Blue Lagoon",
+        "url": "https://open.spotify.com/album/7FiwcveyjTrUFk4chU2aFf"
+      },
+      "artists": [
+        {
+          "name": "PAWWS",
+          "url": "https://open.spotify.com/artist/7oTof0LWYf6S0mGq8K02CT"
+        }
+      ],
+      "duration_ms": 177025,
+      "name": "Blue Lagoon",
+      "url": "https://open.spotify.com/track/3t5nTLIDZqxsNi1wAeLvFy"
+    },
     {
       "added_at": "2025-05-16 04:00:11",
       "album": {
@@ -23,6 +55,38 @@
       "duration_ms": 182209,
       "name": "enough",
       "url": "https://open.spotify.com/track/5F5o8qBRbzpkK8yvrWkjPU"
+    },
+    {
+      "added_at": "2025-05-31 14:44:42",
+      "album": {
+        "name": "in my head",
+        "url": "https://open.spotify.com/album/7xVHnGKfYZNGwng4S59neP"
+      },
+      "artists": [
+        {
+          "name": "Ally Bakst",
+          "url": "https://open.spotify.com/artist/2KvrULKGb5VQs6eZysNU11"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "trying to forget",
+      "url": "https://open.spotify.com/track/1GHdmBcOxQSIVDJkqRuZIy"
+    },
+    {
+      "added_at": "2025-04-11 04:00:28",
+      "album": {
+        "name": "CUNTISSIMO",
+        "url": "https://open.spotify.com/album/0Y25OO4Whcw7FLJkhdJSKq"
+      },
+      "artists": [
+        {
+          "name": "MARINA",
+          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
+        }
+      ],
+      "duration_ms": 240963,
+      "name": "CUNTISSIMO",
+      "url": "https://open.spotify.com/track/3a9P1PqOV6gr4A9ywDZ7mg"
     },
     {
       "added_at": "2025-05-02 04:00:38",
@@ -59,6 +123,22 @@
       "duration_ms": 161862,
       "name": "Foolish Pleasure",
       "url": "https://open.spotify.com/track/1DT4gh8WdmLZuy3LmoS3hv"
+    },
+    {
+      "added_at": "2025-05-31 14:44:42",
+      "album": {
+        "name": "Infrared",
+        "url": "https://open.spotify.com/album/4l5W33e0zrHQqatQcAtvdX"
+      },
+      "artists": [
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "duration_ms": 198092,
+      "name": "Infrared",
+      "url": "https://open.spotify.com/track/0P07sqcEuYQZn5IMW8ifGr"
     },
     {
       "added_at": "2025-05-16 04:00:11",
@@ -115,22 +195,6 @@
       "duration_ms": 174996,
       "name": "Lose Yourself",
       "url": "https://open.spotify.com/track/5ROQZz09NH2V9uMA3nrTiK"
-    },
-    {
-      "added_at": "2025-04-11 04:00:28",
-      "album": {
-        "name": "CUNTISSIMO",
-        "url": "https://open.spotify.com/album/0Y25OO4Whcw7FLJkhdJSKq"
-      },
-      "artists": [
-        {
-          "name": "MARINA",
-          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
-        }
-      ],
-      "duration_ms": 240963,
-      "name": "CUNTISSIMO",
-      "url": "https://open.spotify.com/track/3a9P1PqOV6gr4A9ywDZ7mg"
     },
     {
       "added_at": "2025-03-28 04:00:35",
@@ -441,22 +505,6 @@
       "url": "https://open.spotify.com/track/1AJoCRk4TO9fMu4P045uLC"
     },
     {
-      "added_at": "2025-01-24 05:00:50",
-      "album": {
-        "name": "Recognise",
-        "url": "https://open.spotify.com/album/7r5bDeSSfTxgofHnEnnJyg"
-      },
-      "artists": [
-        {
-          "name": "Shura",
-          "url": "https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT"
-        }
-      ],
-      "duration_ms": 269280,
-      "name": "Recognise",
-      "url": "https://open.spotify.com/track/6jmobiz0KPfI8xdyevPS1h"
-    },
-    {
       "added_at": "2025-01-10 05:00:43",
       "album": {
         "name": "Disco Nap",
@@ -729,22 +777,6 @@
       "url": "https://open.spotify.com/track/3OUPzmzbkjLGcXRBB6aGB6"
     },
     {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Delirium",
-        "url": "https://open.spotify.com/album/0RRGB1JrVg84M72UL19BmT"
-      },
-      "artists": [
-        {
-          "name": "GRACEY",
-          "url": "https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ"
-        }
-      ],
-      "duration_ms": 166631,
-      "name": "Delirium",
-      "url": "https://open.spotify.com/track/4uDSbSTjuPL75gz5Z3ABHH"
-    },
-    {
       "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "Scantily Clad",
@@ -979,22 +1011,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Tunes For Late Spring",
-        "url": "https://open.spotify.com/album/0iNFxICphzHpMqus7PiS0U"
-      },
-      "artists": [
-        {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
-        }
-      ],
-      "duration_ms": 242768,
-      "name": "Everything She Wants",
-      "url": "https://open.spotify.com/track/1akuYztpg4VfZT8Lg4N1w9"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "The Age Of Consent",
         "url": "https://open.spotify.com/album/7sJwidjwY9gt44I1AioyKm"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 184009,
       "name": "No One Hurts Me Like I Hurt Myself",
       "url": "https://open.spotify.com/track/6ywGrUZvGy9ofSWeO5Ak3x"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Downtown",
-        "url": "https://open.spotify.com/album/1QRMi6OGmvL3PR7uctgSa7"
-      },
-      "artists": [
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        }
-      ],
-      "duration_ms": 131918,
-      "name": "Downtown",
-      "url": "https://open.spotify.com/track/1agzjKir1PVW91rkCbiXks"
     },
     {
       "added_at": "2024-08-30 04:00:00",

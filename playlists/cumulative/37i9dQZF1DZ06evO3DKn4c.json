@@ -999,6 +999,36 @@
     },
     {
       "album": {
+        "name": "FRAGMENTADO",
+        "url": "https://open.spotify.com/album/00EpdnJTbeKfWrc7FI7Q2H"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        },
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        },
+        {
+          "name": "Gustah",
+          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
+        }
+      ],
+      "date_added": "2025-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178948,
+      "name": "TOCA NO MORRO E NA PISTA",
+      "url": "https://open.spotify.com/track/67aY8ERS9wBSo8HmugaOsp"
+    },
+    {
+      "album": {
         "name": "Babylon by Gus Vol. 1 - O Ano do Macaco (Ao Vivo)",
         "url": "https://open.spotify.com/album/6N3dbZ1njWxuZSV3gQrVna"
       },

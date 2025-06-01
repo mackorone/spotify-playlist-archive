@@ -4,7 +4,7 @@
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Keinemusik
 
-3,883 songs - 7 day 14 hr 58 min
+3,883 songs - 7 day 14 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,7 +174,7 @@
 | [Already Gone](https://open.spotify.com/track/6sjAdwsuQXmKVQ7RWjUISI) | [Dallax](https://open.spotify.com/artist/2PedVvzZH5HdHSk9P0iDXY) | [Already Gone](https://open.spotify.com/album/2dAiYC1ScjDIjCfcIOyoAv) | 2:11 | 2025-03-27 | 2025-04-04 |
 | [Already Gone](https://open.spotify.com/track/0xXOTm0Rhbq5iSsBFhcNYV) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Peachy Pete](https://open.spotify.com/artist/0bsZ7TPFHa56cscyXwqfER), [Outliers](https://open.spotify.com/artist/49D9GLjnzBcsaKiUByAMQL) | [Already Gone](https://open.spotify.com/album/2BQtu0CGVHEJACDrdLJ7cM) | 2:41 | 2024-07-26 | 2024-08-02 |
 | [Alright](https://open.spotify.com/track/3lxLYA80tPMvpni048At5z) | [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Alright](https://open.spotify.com/album/6MNH5j7RV1tvYBIhPBR76x) | 2:23 | 2024-07-18 | 2024-07-27 |
-| [Alto](https://open.spotify.com/track/6W0JyLntjW5czCieDPSkui) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Alto](https://open.spotify.com/album/6CK5736RvBDi7w9wDjCYLf) | 3:08 | 2025-05-29 |  |
+| [Alto](https://open.spotify.com/track/6W0JyLntjW5czCieDPSkui) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Alto](https://open.spotify.com/album/6CK5736RvBDi7w9wDjCYLf) | 3:45 | 2025-05-29 |  |
 | [Always Love](https://open.spotify.com/track/3esb4GVLQ2uUdVSwIWTwWD) | [Joris Sava](https://open.spotify.com/artist/7M7NxBEoOEg35yqUyLRTgT), [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV), [Kush Kush](https://open.spotify.com/artist/5P4P6G0pubLi65R3zRnSCf) | [Always Love](https://open.spotify.com/album/0DCVDrAgMoOfL1ZCGG9lsa) | 2:31 | 2024-06-27 | 2024-07-05 |
 | [Always On My Mind](https://open.spotify.com/track/3tvlMJVpXT11bwB2OgHsj3) | [Kalte Liebe](https://open.spotify.com/artist/4V8AR3bBMhrLaWirYLKBEe), [CAIVA](https://open.spotify.com/artist/0VevbPTec9d8audiahBL3f) | [Always On My Mind](https://open.spotify.com/album/4YWRFcOxXtCfLEHB6bAeU5) | 4:15 | 2025-05-01 | 2025-05-16 |
 | [Always On My Mind](https://open.spotify.com/track/79KX6OlsRJILn2H6pxBQcd) | [VAMERO](https://open.spotify.com/artist/74GrV01oFcjJdLHCF9MWhr), [ZHIKO](https://open.spotify.com/artist/0zr2hUrgdQC7g7v2fpd166), [Hanno](https://open.spotify.com/artist/4y08hdBM8X8dh1Ik7eWZFg) | [Always On My Mind](https://open.spotify.com/album/0an0MDeKjLGU2eoSxi3OBI) | 2:23 | 2024-03-21 | 2024-04-05 |

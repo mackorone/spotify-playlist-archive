@@ -1,12 +1,12 @@
 {
   "description": "This is Los Tiranos Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 9924,
+  "num_followers": 9927,
   "original_name": "This Is Los Tiranos Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDejgAAAAACnAX66cOioD/Efb4EySlc2",
+  "snapshot_id": "aDj1AAAAAAADj6c7RYSnEJkV7zeNogqL",
   "tracks": [
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Sangre Nortena",
-        "url": "https://open.spotify.com/album/34hVlKjJ6JvQN9b7p1tTCr"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 181002,
-      "name": "Nada Contigo-La Banqueta",
-      "url": "https://open.spotify.com/track/1Iycx5kO4ncISwHfC46vnF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Por Siempre",
         "url": "https://open.spotify.com/album/6DrYJjF6s1khX4qntiY3ns"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 198520,
       "name": "MI Amiga,MI Amor",
       "url": "https://open.spotify.com/track/6OhVAKo5GdXlSiPsZYqCpZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Con Sangre Nortena",
+        "url": "https://open.spotify.com/album/34hVlKjJ6JvQN9b7p1tTCr"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 181002,
+      "name": "Nada Contigo-La Banqueta",
+      "url": "https://open.spotify.com/track/1Iycx5kO4ncISwHfC46vnF"
     },
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tiranos del Norte",
-        "url": "https://open.spotify.com/album/2N2PsW32lWDtPq1wM8EGKf"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 197825,
-      "name": "Matame a Besos",
-      "url": "https://open.spotify.com/track/0om9GXGwk5d7VNyp0nOSuW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Juego Peligroso",
         "url": "https://open.spotify.com/album/11dW5IqcLzDkruN3LtyQvN"
       },
@@ -495,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hermosa Tirana",
-        "url": "https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn"
+        "name": "Tiranos del Norte",
+        "url": "https://open.spotify.com/album/2N2PsW32lWDtPq1wM8EGKf"
       },
       "artists": [
         {
@@ -504,25 +488,9 @@
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 169116,
-      "name": "En Tu Dia Mi Amor",
-      "url": "https://open.spotify.com/track/7h6ulEngQG3YQqX8DPpZFH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Inolvidables",
-        "url": "https://open.spotify.com/album/4jBi66BbClFguTlMaPijcr"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 164728,
-      "name": "Tragos Amargos",
-      "url": "https://open.spotify.com/track/53qTj9XcdiKPwIuakXo5dv"
+      "duration_ms": 197825,
+      "name": "Matame a Besos",
+      "url": "https://open.spotify.com/track/0om9GXGwk5d7VNyp0nOSuW"
     },
     {
       "added_at": null,
@@ -543,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Invencibles",
-        "url": "https://open.spotify.com/album/12ECqvcpA6cSRdDN8sif7c"
+        "name": "Inolvidables",
+        "url": "https://open.spotify.com/album/4jBi66BbClFguTlMaPijcr"
       },
       "artists": [
         {
@@ -552,9 +520,9 @@
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 203373,
-      "name": "Que Se Junten Nuestros Brazos",
-      "url": "https://open.spotify.com/track/0WfrlRx7Uifvj3yDtJXMyH"
+      "duration_ms": 164728,
+      "name": "Tragos Amargos",
+      "url": "https://open.spotify.com/track/53qTj9XcdiKPwIuakXo5dv"
     },
     {
       "added_at": null,
@@ -568,9 +536,25 @@
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 205400,
-      "name": "Que Te Perdone Dios",
-      "url": "https://open.spotify.com/track/7tf3InyYrlyM1hVSbqUYmE"
+      "duration_ms": 169116,
+      "name": "En Tu Dia Mi Amor",
+      "url": "https://open.spotify.com/track/7h6ulEngQG3YQqX8DPpZFH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Invencibles",
+        "url": "https://open.spotify.com/album/12ECqvcpA6cSRdDN8sif7c"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 203373,
+      "name": "Que Se Junten Nuestros Brazos",
+      "url": "https://open.spotify.com/track/0WfrlRx7Uifvj3yDtJXMyH"
     },
     {
       "added_at": null,
@@ -611,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De la Tierra al Cielo VII",
-        "url": "https://open.spotify.com/album/3gEDDLBunavFzx7qenQPuh"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 176666,
-      "name": "Hay una Persona en Este Mundo",
-      "url": "https://open.spotify.com/track/73KDGz61qi7byZhoi0mX5p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hermosa Tirana",
         "url": "https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn"
       },
@@ -639,6 +607,22 @@
       "duration_ms": 187663,
       "name": "Cuando Sola Estes",
       "url": "https://open.spotify.com/track/67ZW7fVVWWhN2D9SQxOTxv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De la Tierra al Cielo VII",
+        "url": "https://open.spotify.com/album/3gEDDLBunavFzx7qenQPuh"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 176666,
+      "name": "Hay una Persona en Este Mundo",
+      "url": "https://open.spotify.com/track/73KDGz61qi7byZhoi0mX5p"
     },
     {
       "added_at": null,
@@ -679,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hermosa Tirana",
+        "url": "https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 205400,
+      "name": "Que Te Perdone Dios",
+      "url": "https://open.spotify.com/track/7tf3InyYrlyM1hVSbqUYmE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Para Mi Reina",
         "url": "https://open.spotify.com/album/1RhzfA1RNDKFwlwwP3XTeM"
       },
@@ -691,22 +691,6 @@
       "duration_ms": 200150,
       "name": "Para la Reina",
       "url": "https://open.spotify.com/track/5Ok9Oqj5HAvIfcbfMt6vPc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hermosa Tirana",
-        "url": "https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 177711,
-      "name": "De Su Vida Me Ire",
-      "url": "https://open.spotify.com/track/5CSN3xcAG1e8jpPKDaoj4w"
     },
     {
       "added_at": null,
@@ -743,8 +727,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Sangre Nortena",
-        "url": "https://open.spotify.com/album/34hVlKjJ6JvQN9b7p1tTCr"
+        "name": "Hermosa Tirana",
+        "url": "https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn"
       },
       "artists": [
         {
@@ -752,9 +736,9 @@
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 196075,
-      "name": "El Libro de los Dioses",
-      "url": "https://open.spotify.com/track/3whUtAF1vN1RGfMZ9QJ61P"
+      "duration_ms": 177711,
+      "name": "De Su Vida Me Ire",
+      "url": "https://open.spotify.com/track/5CSN3xcAG1e8jpPKDaoj4w"
     },
     {
       "added_at": null,
@@ -775,8 +759,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hermosa Tirana",
-        "url": "https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn"
+        "name": "Con Sangre Nortena",
+        "url": "https://open.spotify.com/album/34hVlKjJ6JvQN9b7p1tTCr"
       },
       "artists": [
         {
@@ -784,9 +768,9 @@
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 135862,
-      "name": "Tu Maldad",
-      "url": "https://open.spotify.com/track/5GHuhu0CHdccMRO1L6fNZa"
+      "duration_ms": 196075,
+      "name": "El Libro de los Dioses",
+      "url": "https://open.spotify.com/track/3whUtAF1vN1RGfMZ9QJ61P"
     },
     {
       "added_at": null,
@@ -807,6 +791,22 @@
       "duration_ms": 188500,
       "name": "Mi Amiga Mi Amor",
       "url": "https://open.spotify.com/track/4fg7ObW6dHJ2iDlKRehnwb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hermosa Tirana",
+        "url": "https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 135862,
+      "name": "Tu Maldad",
+      "url": "https://open.spotify.com/track/5GHuhu0CHdccMRO1L6fNZa"
     },
     {
       "added_at": null,

@@ -186,7 +186,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-01",
       "duration_ms": 257834,
       "name": "A-001",
       "url": "https://open.spotify.com/track/5NPFeVHOmUrgJhbwZU3Okk"
@@ -466,7 +466,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-01",
       "duration_ms": 200724,
       "name": "An Avalanche",
       "url": "https://open.spotify.com/track/0ZJCGdZQbnMabeAh7sR9Sl"
@@ -2937,6 +2937,24 @@
     },
     {
       "album": {
+        "name": "Green Lane",
+        "url": "https://open.spotify.com/album/54GK11ZT8B08WR9FSHSsBD"
+      },
+      "artists": [
+        {
+          "name": "Jonny Nash",
+          "url": "https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Green Lane",
+      "url": "https://open.spotify.com/track/2IuF5WeOCUy4iTkxjsZHwW"
+    },
+    {
+      "album": {
         "name": "greenery",
         "url": "https://open.spotify.com/album/4fXZgmm9p3wOM1myYysXt6"
       },
@@ -4279,6 +4297,24 @@
     },
     {
       "album": {
+        "name": "Makes Me Want You",
+        "url": "https://open.spotify.com/album/5p4gsvhpPQ9l8Issw2NtYd"
+      },
+      "artists": [
+        {
+          "name": "Jesper Ryom",
+          "url": "https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201457,
+      "name": "Makes Me Want You",
+      "url": "https://open.spotify.com/track/0O43NCt1jVsTfyuOQQN5LW"
+    },
+    {
+      "album": {
         "name": "FOREVERANDEVERNOMORE",
         "url": "https://open.spotify.com/album/1fsGRseH9xCUSiO1MDSB7W"
       },
@@ -5100,7 +5136,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-01",
       "duration_ms": 135250,
       "name": "Orbital",
       "url": "https://open.spotify.com/track/5IOaAcDTeliDDEa3QPGnAK"
@@ -5341,6 +5377,24 @@
     },
     {
       "album": {
+        "name": "Phosphorescence",
+        "url": "https://open.spotify.com/album/2KqLlm4MV26wfVYTxWMrV0"
+      },
+      "artists": [
+        {
+          "name": "Neighborhood Libraries",
+          "url": "https://open.spotify.com/artist/5eu335GvCPHQ1hTJiH0zJt"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235250,
+      "name": "Phosphorescence",
+      "url": "https://open.spotify.com/track/4BvbdE4bpuQtt9M5EqW8je"
+    },
+    {
+      "album": {
         "name": "Physics Project",
         "url": "https://open.spotify.com/album/5y4Bxkhyk9pLI7fTrL16JG"
       },
@@ -5504,7 +5558,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-01",
       "duration_ms": 268327,
       "name": "Que llueva ```",
       "url": "https://open.spotify.com/track/5xU3O8WUIoTkMWEg0AIjZ4"
@@ -7052,6 +7106,28 @@
       "duration_ms": 183999,
       "name": "The Apiary",
       "url": "https://open.spotify.com/track/1ksUGKzkQfB9FDGfIJPqTG"
+    },
+    {
+      "album": {
+        "name": "The Double Life Of A Seahorse",
+        "url": "https://open.spotify.com/album/4jkoHLwt4QrMGhYP3Xv95D"
+      },
+      "artists": [
+        {
+          "name": "Pan-American",
+          "url": "https://open.spotify.com/artist/7idm1Z2kk9ffIobkLlZ2Ds"
+        },
+        {
+          "name": "Kramer",
+          "url": "https://open.spotify.com/artist/1jacVtMSOup3dqdSEeegZg"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325737,
+      "name": "The Double Life Of A Seahorse",
+      "url": "https://open.spotify.com/track/3PTWXjyQiSYkkVAhPsVQ3G"
     },
     {
       "album": {

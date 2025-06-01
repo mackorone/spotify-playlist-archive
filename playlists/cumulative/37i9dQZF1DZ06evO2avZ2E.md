@@ -4,7 +4,7 @@
 
 > This is Vanessa Zamora\. The essential tracks, all in one playlist.
 
-62 songs - 3 hr 34 min
+63 songs - 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [OJO DE DIOS](https://open.spotify.com/track/71KjTsyGt8v43JMFtg82Aj) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC), [DAMALEONA](https://open.spotify.com/artist/47INoGlowmUlhVIsSTpsz8) | [DAMALEONA](https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL) | 1:31 | 2023-12-26 |  |
 | [OPTEMOS](https://open.spotify.com/track/1HIYdD0rhwRZUKMY93BzlR) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [OPTEMOS](https://open.spotify.com/album/4lx2E70Ba3zqrWgNph9FbR) | 2:58 | 2023-12-26 |  |
 | [OPUESTOS](https://open.spotify.com/track/1JrMzp8dK5VhGpfuQboqnh) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC), [DAMALEONA](https://open.spotify.com/artist/47INoGlowmUlhVIsSTpsz8) | [DAMALEONA](https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL) | 2:38 | 2023-12-26 |  |
-| [Out Cold \- Deluxe Version](https://open.spotify.com/track/4epzEda2tmq8xmEnAAeKUL) | [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Enchanté \(Deluxe\)](https://open.spotify.com/album/004mHpvzRDHFewA52MlMfe) | 4:00 | 2025-04-27 |  |
+| [Out Cold \- Deluxe Version](https://open.spotify.com/track/1sWBKj4C5KwSawtCNxLKFg) | [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Out Cold \(Deluxe Version\)](https://open.spotify.com/album/0qQ5zadXGyGteQKihv2hl7) | 4:00 | 2025-06-01 |  |
+| [Out Cold \- Deluxe Version](https://open.spotify.com/track/4epzEda2tmq8xmEnAAeKUL) | [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Enchanté \(Deluxe\)](https://open.spotify.com/album/004mHpvzRDHFewA52MlMfe) | 4:00 | 2025-04-27 | 2025-06-01 |
 | [Para Siempre](https://open.spotify.com/track/6PGLPvCkSt4RIFVPd4HZ61) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Hasta la Fantasía](https://open.spotify.com/album/5nMHmrmgXZoJNTYaJ8uRHl) | 3:08 | 2023-12-26 |  |
 | [presente](https://open.spotify.com/track/619ZqPO66ar2Eqfuo5Sy8F) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [música para una película que no existe](https://open.spotify.com/album/3h972ADORDAR4Dptn2koMd) | 1:34 | 2023-12-26 | 2025-05-10 |
 | [PSILOCIBINA](https://open.spotify.com/track/4Rkzfz7OJGa84NPSBja9XH) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [PSILOCIBINA](https://open.spotify.com/album/2WsGQdYOdoCAdTXyejllUm) | 3:17 | 2023-12-26 |  |

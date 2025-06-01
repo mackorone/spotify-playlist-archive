@@ -4,7 +4,7 @@
 
 > pearl of the week ✨Stuzzi✨
 
-1,878 songs - 4 day 5 hr 13 min
+1,879 songs - 4 day 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1194,6 +1194,7 @@
 | [Ode To T](https://open.spotify.com/track/21hzJoieDGFJtnelfEvWNF) | [Saint Precious](https://open.spotify.com/artist/7EtHe2rjA7F4wVXM1rxsy6) | [Ode To T](https://open.spotify.com/album/1KhPpYOXaFZbxRkDy1XExg) | 4:59 | 2023-06-29 | 2023-09-01 |
 | [Off Days](https://open.spotify.com/track/3cyTJ6e9s2JLuOgL3nY8Fb) | [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb) | [Off Days](https://open.spotify.com/album/3ExLiwDPx664c2RqWJbqNr) | 2:49 | 2022-12-01 | 2023-01-13 |
 | [OFF+ON](https://open.spotify.com/track/3PNrKIzVnDDGAsnekImbOI) | [veggi](https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v), [Ella Rosa](https://open.spotify.com/artist/1qHw9CyK6GsvipKuY7J70F) | [OFF+ON](https://open.spotify.com/album/2wg66fKfk9Hs30UwxJutM5) | 3:16 | 2023-07-20 | 2023-10-13 |
+| [Oh Lala](https://open.spotify.com/track/7lbHonrDmzduOTFLO3wLKD) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Oh Lala](https://open.spotify.com/album/57oOFLMwpyDg74EkJ0odnW) | 3:50 | 2025-05-31 |  |
 | [Ohio](https://open.spotify.com/track/0GgYACtOE5GNVjwAZmBr1p) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil), [Joshua Karpeh](https://open.spotify.com/artist/7Ld6G79PcddkizPC36ujEF) | [Ohio](https://open.spotify.com/album/4ZGtU7OLGX2SwD7QxcGwLI) | 2:50 | 2023-05-25 | 2023-06-02 |
 | [Old Life](https://open.spotify.com/track/1BCWmRqByLwKXQkf28aqWf) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Old Life](https://open.spotify.com/album/5ysYg2ph45lyD4OEpDLW6p) | 3:00 | 2024-08-29 | 2024-10-04 |
 | [Omelettes](https://open.spotify.com/track/6qO7UZjHLGo0pwOpG7T9bW) | [Caesar Omaka](https://open.spotify.com/artist/0mzIUAC5NKH15AIryf5n2j) | [Omelettes](https://open.spotify.com/album/7awu1fJS7gKoBIexLZZvZi) | 3:02 | 2025-05-01 |  |

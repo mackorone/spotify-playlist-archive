@@ -35,6 +35,24 @@
     },
     {
       "album": {
+        "name": "13579 (Composer Version)",
+        "url": "https://open.spotify.com/album/28LZyKNiXI5ZIvzfGapw3I"
+      },
+      "artists": [
+        {
+          "name": "HONG JIN YOUNG",
+          "url": "https://open.spotify.com/artist/5LwiBgLTllBUiqQGNiQ7jY"
+        }
+      ],
+      "date_added": "2025-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204925,
+      "name": "13579 (Composer Version)",
+      "url": "https://open.spotify.com/track/2QnkBnAAfuPPR2d8EPkpcf"
+    },
+    {
+      "album": {
         "name": "Battle of the Century AI vs Human",
         "url": "https://open.spotify.com/album/0uLqyCDKhEmnqYJYyjwOCH"
       },
@@ -15396,7 +15414,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-01",
       "duration_ms": 171413,
       "name": "Viva La Vida - Korean Version",
       "url": "https://open.spotify.com/track/243zY45l4DJVdwuEs57yDt"

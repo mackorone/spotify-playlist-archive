@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Xamã, Ana Castela, Papatinho, Matheus & Kauan, Luedji Luna e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,095,114 likes - 96 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,095,106 likes - 96 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 50 | [Tapa na Tattoo \- Ao Vivo](https://open.spotify.com/track/6Nd5qvRbP1znsSD5wgWRp2) | [Kevi Jonny](https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg), [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl) | [Tapa na Tattoo \(Ao Vivo\)](https://open.spotify.com/album/2HuMsJJQYa2cS29WafXfmF) | 2:26 |
 | 51 | [Sem Censura \- Ao Vivo](https://open.spotify.com/track/5JxKm65DQ3haCmMQMZkefj) | [Samyra Show](https://open.spotify.com/artist/4Tf3QqoMHY7pAeE51Ib8Il) | [Só As Melhores \(Ao Vivo\)](https://open.spotify.com/album/1dpP3kAsoAAPgZr5wgt7xA) | 3:03 |
 | 52 | [Carioca](https://open.spotify.com/track/3o4BERtAquRCu5RvYaEqjh) | [Guilherme e Manuel](https://open.spotify.com/artist/6yyVcN4nXYQZ0RdtQ5A8qj), [Fiduma & Jeca](https://open.spotify.com/artist/2h73KyGixa4A1xlhcxjpG1) | [Carioca](https://open.spotify.com/album/69V5hFmFuc9tC34V1491V4) | 2:55 |
-| 53 | [Luz de Velas \- Ao Vivo](https://open.spotify.com/track/75KywIpqhZ0cwZJcsvqrjv) | [Rick & Ricardo](https://open.spotify.com/artist/3jpnyQAV5PANKxiyoZQYOZ) | [Diferente \(Ao Vivo\)](https://open.spotify.com/album/0XeJvdQeLDLANq7HW5EMjq) | 3:01 |
+| 53 | [Luz de Velas \- Ao Vivo](https://open.spotify.com/track/75KywIpqhZ0cwZJcsvqrjv) | [Rick & Ricardo](https://open.spotify.com/artist/3jpnyQAV5PANKxiyoZQYOZ), [Rick & Nogueira](https://open.spotify.com/artist/0MZjTmgoSErzmMapfREhGv) | [Diferente \(Ao Vivo\)](https://open.spotify.com/album/0XeJvdQeLDLANq7HW5EMjq) | 3:01 |
 | 54 | [Pedaço De Mim](https://open.spotify.com/track/19IBkllqELLQFTmLETLuCo) | [Mauricio & Mauri](https://open.spotify.com/artist/4xSldt858RozwvB6iEhOij), [Zé Henrique & Gabriel](https://open.spotify.com/artist/5Dyg6H3QJHQV5c7ojyKWyv) | [Pedaço De Mim](https://open.spotify.com/album/2L0GTgAEWHDBjbgWugfE78) | 3:24 |
 | 55 | [Pra Quê?](https://open.spotify.com/track/72LPt2vbT19P7GXXfzr2gS) | [Gabriel Fava](https://open.spotify.com/artist/2rsn8MkxTWrYUgLYmhIh4w) | [Pra Quê?](https://open.spotify.com/album/5Alq7ae59MD1VcVadX79ud) | 2:46 |
 | 56 | [Where Did You Go? \- Bonus Track](https://open.spotify.com/track/6vLs1SrgbJkCclbn1Hqhyd) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WITHERED](https://open.spotify.com/album/2uPr7JseOfZGpsefGTaxLB) | 3:02 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 95 | [De Lua](https://open.spotify.com/track/2pnhhyzxoMArmMcsDUTIi8) | [Ryan Fidelis](https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm) | [De Lua](https://open.spotify.com/album/3MvCq8E1mKvvBr0fvjFmCY) | 3:12 |
 | 96 | [Filtro](https://open.spotify.com/track/3BY2s4naiOUnFXik6tJdgc) | [MC Erik](https://open.spotify.com/artist/0mCLY8Z5X5H9mNsu9pQ7mY), [Gubeatz](https://open.spotify.com/artist/3onpHCaIChS7saQn7fYncx) | [Filtro](https://open.spotify.com/album/75sp6da1jtciZvKae1MjFl) | 2:22 |
 
-Snapshot ID: `AAAAADg+UmtezqdigpjhAMtc8lBEIdkl`
+Snapshot ID: `aDooXAAAAAC70sL4FbRSm3ORkmcLwW6L`

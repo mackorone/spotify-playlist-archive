@@ -1,12 +1,12 @@
 {
   "description": "This is Julia Vit\u00f3ria. The essential tracks, all in one playlist.",
-  "num_followers": 20693,
+  "num_followers": 20694,
   "original_name": "This Is Julia Vit\u00f3ria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDejgAAAAADIi+QGLIp+0JiIQ8alq/2H",
+  "snapshot_id": "aDj1AAAAAAAz/XnhnQ3iE2bSq4bNNZH8",
   "tracks": [
     {
       "added_at": null,
@@ -631,22 +631,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perto Eu Quero Estar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4YJCr4MpR5LE6WBMMcBT4x"
+        "name": "Vem",
+        "url": "https://open.spotify.com/album/4w9Ym45CNTgnyTNaMXsJ1w"
       },
       "artists": [
-        {
-          "name": "Thaiane Seghetto",
-          "url": "https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG"
-        },
         {
           "name": "Julia Vit\u00f3ria",
           "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
         }
       ],
-      "duration_ms": 252866,
-      "name": "Perto Eu Quero Estar - Ao Vivo",
-      "url": "https://open.spotify.com/track/0qcVbrMV3FW3BnKOadt3Xw"
+      "duration_ms": 382880,
+      "name": "Vem",
+      "url": "https://open.spotify.com/track/3Yop3QUpr2wfe2MObnpZ2b"
     },
     {
       "added_at": null,
@@ -671,18 +667,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vem",
-        "url": "https://open.spotify.com/album/4w9Ym45CNTgnyTNaMXsJ1w"
+        "name": "Perto Eu Quero Estar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4YJCr4MpR5LE6WBMMcBT4x"
       },
       "artists": [
+        {
+          "name": "Thaiane Seghetto",
+          "url": "https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG"
+        },
         {
           "name": "Julia Vit\u00f3ria",
           "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
         }
       ],
-      "duration_ms": 382880,
-      "name": "Vem",
-      "url": "https://open.spotify.com/track/3Yop3QUpr2wfe2MObnpZ2b"
+      "duration_ms": 252866,
+      "name": "Perto Eu Quero Estar - Ao Vivo",
+      "url": "https://open.spotify.com/track/0qcVbrMV3FW3BnKOadt3Xw"
     },
     {
       "added_at": null,

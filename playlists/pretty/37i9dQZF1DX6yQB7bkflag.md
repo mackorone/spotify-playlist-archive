@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Aziz Hedra
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,283 likes - 132 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,279 likes - 132 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 | 85 | [Blessings](https://open.spotify.com/track/78nx0HDJIFD5xDq2L5420Z) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Blessings](https://open.spotify.com/album/5awEnPUdqgYwqsc33hPk52) | 3:39 |
 | 86 | [BOY CRAZY.](https://open.spotify.com/track/5CiPDLxXmUG7Fk5yjlNy9n) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [BOY CRAZY.](https://open.spotify.com/album/5vbKk8Ki7HxcDUCYh5EUZc) | 2:28 |
 | 87 | [Living My Best Life](https://open.spotify.com/track/4zSPRXPBgSRuNTrZT7Qdog) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Living My Best Life](https://open.spotify.com/album/6ZLHC89iebjZDtcMIXgRPn) | 2:57 |
-| 88 | [merry go round](https://open.spotify.com/track/6mfLyuVFGmvWJBAVj3x6ko) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [merry go round](https://open.spotify.com/album/19iDCxX7uLuKuFlkFi4ZQ5) | 2:23 |
+| 88 | [merry go round](https://open.spotify.com/track/6mfLyuVFGmvWJBAVj3x6ko) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [merry go round](https://open.spotify.com/album/19iDCxX7uLuKuFlkFi4ZQ5) | 2:24 |
 | 89 | [Jangan Cepat Tua](https://open.spotify.com/track/43eBFRxyPAAphGaFKznWHF) | [Mirabeth](https://open.spotify.com/artist/3Xpap1vsMoPjVutjOxevPc) | [Jangan Cepat Tua](https://open.spotify.com/album/4568SX5ckiLdN1oVb5ZV6r) | 3:20 |
 | 90 | [Layar \(Original Soundtrack From "Siapa Dia.."\)](https://open.spotify.com/track/0poKcus5D08d5vmb3siPy1) | [Titi DJ](https://open.spotify.com/artist/2XHFhl3jenckLAT8SWVegS), [Cakra Khan](https://open.spotify.com/artist/6pZzHAdfBLIEkQVRUhB8ps) | [Layar \(Original Soundtrack From "Siapa Dia.."\)](https://open.spotify.com/album/7dTXQd6N4jwcDnz6HJzjmf) | 4:31 |
 | 91 | [Let You Fade](https://open.spotify.com/track/3GZt2N9dSfNCL6ArCFDpOc) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [From Zero \(Deluxe Edition\)](https://open.spotify.com/album/5QfFvOMOJ0CrIDmu33RmSJ) | 3:28 |

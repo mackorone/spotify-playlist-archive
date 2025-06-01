@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuwe muziek van Miley Cyrus, Hiqpy, Mart Hoogkamer, Lijpe en meer...
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,266 likes - 101 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,292 likes - 101 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 88 | [Her Veî](https://open.spotify.com/track/0nkIstBNU2kEAYzhBfstC9) | [CHAMOS](https://open.spotify.com/artist/2HEwUTzrG0SLQLLSQQGBWi), [Nadjmadin Ghoulami](https://open.spotify.com/artist/0yyZASRC3e5JBOk6ZlOdLi) | [Her Veî](https://open.spotify.com/album/6PnoLo0B1tQjy9rCLPUMDM) | 2:59 |
 | 89 | [Open](https://open.spotify.com/track/4W4avlhWR1Wr5497wJ7766) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU), [SAMSON](https://open.spotify.com/artist/2I2FhyufVacXGtnLVt5mcp) | [Open](https://open.spotify.com/album/14LybCLgQLN86HTfDKK8rQ) | 2:41 |
 | 90 | [Shake 't](https://open.spotify.com/track/0ADNmIf8b6udQj14pq12F3) | [Kevcody](https://open.spotify.com/artist/3heGIV1KV0B4c4MW7H2mey) | [Shake 't](https://open.spotify.com/album/3jkvjAp14f5qsq3TNnPTYU) | 2:58 |
-| 91 | [Tra](https://open.spotify.com/track/5M2RXimSt8334s6eLz5ueo) | [Robin Roxette](https://open.spotify.com/artist/32S2vbxQ82ksNNaf5HMHa6), [Dj Fasta](https://open.spotify.com/artist/3J1MVADg8VwYQ6FFsqnTUV), [Karl Wine](https://open.spotify.com/artist/6vZKj9U4vIetFGznCpxVN5) | [Tra](https://open.spotify.com/album/0fnL0cfnJ47uSvKDFHTx9F) | 3:14 |
+| 91 | [Tra](https://open.spotify.com/track/5M2RXimSt8334s6eLz5ueo) | [Robin Roxette](https://open.spotify.com/artist/1brrW50XBilcXfvh02W8jV), [Dj Fasta](https://open.spotify.com/artist/3J1MVADg8VwYQ6FFsqnTUV), [Karl Wine](https://open.spotify.com/artist/6vZKj9U4vIetFGznCpxVN5) | [Tra](https://open.spotify.com/album/0fnL0cfnJ47uSvKDFHTx9F) | 3:14 |
 | 92 | [Ate Ta Bin](https://open.spotify.com/track/0Zq2IYn11N8L9AMwZTXhOe) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88) | [Ate Ta Bin](https://open.spotify.com/album/1Q1QhYc66msOSb4JKZgkjV) | 2:22 |
 | 93 | [CLOSE YOUR EYES](https://open.spotify.com/track/7ml6mms5SS6qahrXMYWSVw) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [AN INTRODUCTION TO WHOLESOME RIDDIM](https://open.spotify.com/album/0qA6V5utPUk1KG48JHDdwY) | 3:28 |
 | 94 | [Phantom Fibre](https://open.spotify.com/track/3cKrRYsNYRXITWAYHDMFnQ) | [Tsepo](https://open.spotify.com/artist/2gH0kSs7X35Iigni2wpxeB) | [Phantom Fibre](https://open.spotify.com/album/6zM3Cniazo75HBwMqhq8G7) | 4:53 |

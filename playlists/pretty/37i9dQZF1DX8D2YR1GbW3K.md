@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 
 > Nostalgic <a href="spotify:genre:edm\_dance">dance</a> festival favorites from the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,023 likes - 125 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,062 likes - 125 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 | 82 | [Ready For Your Love](https://open.spotify.com/track/5wGLQvq6JoxYZX7V3ymPS5) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Sirens](https://open.spotify.com/album/7MQaCAAj19jwc9WKNZTcJG) | 3:18 |
 | 83 | [You're Gonna Love Again](https://open.spotify.com/track/214tNSr4epshNjQ6W2PTLg) | [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK) | [Collateral](https://open.spotify.com/album/1CZnMTWdD8cApDRm2wLCZp) | 3:21 |
 | 84 | [Wakanda](https://open.spotify.com/track/7M2t0mMSjLJSweu8BwrY2R) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk) | [Wakanda](https://open.spotify.com/album/2OkTrq8G5BkqtFtO9oSRhq) | 4:59 |
-| 85 | [Wasted](https://open.spotify.com/track/1EavLSmwRWtmkKEmlCfFzT) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Matthew Koma](https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo) | [Wasted](https://open.spotify.com/album/584m4QL0kmpG69zSpMKvv8) | 3:08 |
-| 86 | [Take Me Home \(feat\. Bebe Rexha\)](https://open.spotify.com/track/7iT98FhZ7BAE8xdCxBlw55) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Take Me Home \(feat\. Bebe Rexha\)](https://open.spotify.com/album/0JtlJvtmyOR0z5uuFjeHm9) | 3:26 |
+| 85 | [Take Me Home \(feat\. Bebe Rexha\)](https://open.spotify.com/track/7iT98FhZ7BAE8xdCxBlw55) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Take Me Home \(feat\. Bebe Rexha\)](https://open.spotify.com/album/0JtlJvtmyOR0z5uuFjeHm9) | 3:26 |
+| 86 | [Wasted](https://open.spotify.com/track/1EavLSmwRWtmkKEmlCfFzT) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Matthew Koma](https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo) | [Wasted](https://open.spotify.com/album/584m4QL0kmpG69zSpMKvv8) | 3:08 |
 | 87 | [Higher](https://open.spotify.com/track/7lrTieknx0Rp6xcUXVjRQE) | [Just Blaze](https://open.spotify.com/artist/2gpPCu8rjzdobGqDZJpHiR), [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Higher](https://open.spotify.com/album/3zDrL6uXT0UIkIiAPqNpcy) | 3:49 |
 | 88 | [Like Home \- Radio Edit](https://open.spotify.com/track/5FV75TYvdP3UzXHzE2veFL) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK) | [Like Home](https://open.spotify.com/album/0ucms0CpXIm7QLiHAGDCuW) | 3:20 |
 | 89 | [Gecko](https://open.spotify.com/track/5ilkrJ2rvP1mZXchgkIEGP) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Gecko \(Radio Edit\)](https://open.spotify.com/album/5IuBZ11O0Y5vSkUCTJ1fju) | 2:46 |
@@ -131,7 +131,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 | 121 | [Deep Down Low](https://open.spotify.com/track/46rZgRYU1H5Xnv0n75OGis) | [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh) | [Deep Down Low](https://open.spotify.com/album/67bF4s11NHmoi7cnwJcEMM) | 3:10 |
 | 122 | [Higher Ground](https://open.spotify.com/track/0Js9hB2I66nJliPIJxzn2R) | [TNGHT](https://open.spotify.com/artist/40jiZfvsiAi1aIarh5Z3d3) | [TNGHT](https://open.spotify.com/album/4e0s9NinQo02X4exDDmW65) | 3:19 |
 | 123 | [Dum Dee Dum](https://open.spotify.com/track/4kT18i0w2ZYeLTFPdpkihT) | [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd) | [Dum Dee Dum](https://open.spotify.com/album/2flfiBDZEo70M2PBhqCzuB) | 3:12 |
-| 124 | [Apollo \- Radio Edit](https://open.spotify.com/track/5v54ZQ0glzbB9XUPTaX0cj) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Amba Shepherd](https://open.spotify.com/artist/4RTCIP5yp2tL1AtBCq7ukj) | [Apollo](https://open.spotify.com/album/4ajH0rrtQDiVCY3wKFei55) | 3:29 |
-| 125 | [Till The Sky Falls Down](https://open.spotify.com/track/0wZDzY0ITlFKYApsjunEDR) | [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri) | [Till The Sky Falls Down](https://open.spotify.com/album/6NQ8TKQpzWTQmhv7eUnMKD) | 3:50 |
+| 124 | [Till The Sky Falls Down](https://open.spotify.com/track/0wZDzY0ITlFKYApsjunEDR) | [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri) | [Till The Sky Falls Down](https://open.spotify.com/album/6NQ8TKQpzWTQmhv7eUnMKD) | 3:50 |
+| 125 | [Apollo \- Radio Edit](https://open.spotify.com/track/5v54ZQ0glzbB9XUPTaX0cj) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Amba Shepherd](https://open.spotify.com/artist/4RTCIP5yp2tL1AtBCq7ukj) | [Apollo](https://open.spotify.com/album/4ajH0rrtQDiVCY3wKFei55) | 3:29 |
 
 Snapshot ID: `Z67N6QAAAADpAAz/w1t2rcZJjOVsaecz`

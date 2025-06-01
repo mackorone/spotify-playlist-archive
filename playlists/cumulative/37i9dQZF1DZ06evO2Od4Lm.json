@@ -236,7 +236,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-30",
+      "date_removed": null,
       "duration_ms": 198478,
       "name": "Drawn to the Blood",
       "url": "https://open.spotify.com/track/7tL59eSR3yM1iSr4PjmgyX"
@@ -254,10 +254,28 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-01",
       "duration_ms": 146893,
       "name": "Eugene",
       "url": "https://open.spotify.com/track/7o3Zup0nTRFAFAPKBpS72G"
+    },
+    {
+      "album": {
+        "name": "Carrie & Lowell (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/0n7HLjx45Y2LD4WyHGDMf3"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "date_added": "2025-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148014,
+      "name": "Eugene - Demo",
+      "url": "https://open.spotify.com/track/38Wby2Bx2q09iEr9p6N4RA"
     },
     {
       "album": {
@@ -384,7 +402,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-01",
       "duration_ms": 175040,
       "name": "Heirloom",
       "url": "https://open.spotify.com/track/3bKXWcC7H2oBGVq73gK5yX"
@@ -420,7 +438,7 @@
       ],
       "date_added": "2025-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-01",
       "duration_ms": 297626,
       "name": "In the Devil's Territory",
       "url": "https://open.spotify.com/track/3NCddFMOQ32FuJQjqRIzQy"
@@ -1038,6 +1056,24 @@
       "duration_ms": 247808,
       "name": "Visions of Gideon",
       "url": "https://open.spotify.com/track/0SUDiaR0qm30fXVGPjPvRp"
+    },
+    {
+      "album": {
+        "name": "Carrie & Lowell (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/0n7HLjx45Y2LD4WyHGDMf3"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "date_added": "2025-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400661,
+      "name": "Wallowa Lake Monster - Version 2",
+      "url": "https://open.spotify.com/track/7JxVuQdS0aFUIMrja2KzyS"
     },
     {
       "album": {

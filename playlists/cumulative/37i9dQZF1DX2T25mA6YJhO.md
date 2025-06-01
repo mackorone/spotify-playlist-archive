@@ -4,7 +4,7 @@
 
 > Súbete a la nueva ola del rock español\. Foto: Tus Novias Indie.
 
-391 songs - 19 hr 58 min
+392 songs - 20 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [Las Victorias y Derrotas](https://open.spotify.com/track/0ZnNvpU4h5Se9bm301yOv0) | [Mujeres](https://open.spotify.com/artist/5vnfKgHNYLnKeuFA6c2jJO) | [Desde Flores y Entrañas](https://open.spotify.com/album/7wXKA4oPHORyBu6jTE2oQm) | 3:26 | 2024-06-27 | 2024-12-06 |
 | [Lento](https://open.spotify.com/track/0f1QC1Emch84pONpGMEQd4) | [Cala Vento](https://open.spotify.com/artist/6QpQ7WsYLIpTV3yRa0fJo1) | [Brindis](https://open.spotify.com/album/79YdnVubJaG6D8QDEgkm46) | 3:18 | 2025-01-16 |  |
 | [Lo de siempre](https://open.spotify.com/track/1wjRd9NhFtwSfGRaH4VFBB) | [Go Cactus](https://open.spotify.com/artist/73Xp0FH6ZuSdhEcq5kcXbE) | [Lo de siempre](https://open.spotify.com/album/4G8PtP2rLxt0JQhAbqV6Ac) | 3:31 | 2024-06-27 | 2025-05-23 |
+| [Lo Que Viste En Mí](https://open.spotify.com/track/5iVUmBJsDgXzDqkscvnOkA) | [Iguana Tango](https://open.spotify.com/artist/5P4gTu22GQje4EDwps9cht) | [Lo Que Viste En Mí](https://open.spotify.com/album/7kZTRyM0YjLXiArfHdQ70F) | 3:35 | 2025-05-29 |  |
 | [LOPE DE VEGA](https://open.spotify.com/track/5mbv9VI6wt8NqC6phjC10P) | [TRONKAS!](https://open.spotify.com/artist/1L0Cp9n72dvWPY66JC0dmt) | [LOPE DE VEGA](https://open.spotify.com/album/1ur0ogHivs329HXnYpGWF7) | 1:54 | 2025-04-24 | 2025-05-02 |
 | [Loros](https://open.spotify.com/track/0I8lFIqizsT49Az0ShbeFp) | [Camellos](https://open.spotify.com/artist/3uQgL10Dx1pMNIDfUiv8HW) | [Loros](https://open.spotify.com/album/1X5XYCsVtVR2VnrPKa03Qn) | 2:26 | 2024-06-27 |  |
 | [Los Chavales](https://open.spotify.com/track/0hnBLEpln0wSIsbvxeWQoO) | [Alcalá Norte](https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR) | [Alcalá Norte](https://open.spotify.com/album/7C2RrxAFNTX0qklJnrHXTj) | 3:28 | 2024-06-27 |  |
@@ -232,7 +233,7 @@
 | [Mírame](https://open.spotify.com/track/3P2qlbWc2nC3h9ixSJTwH8) | [Amor Líquido](https://open.spotify.com/artist/0A6HXmQiEaRB5bY5S4Fbtc) | [Mírame](https://open.spotify.com/album/6QCEg5wWbGF5cAzOh8lIv3) | 2:17 | 2024-06-27 |  |
 | [Mírame](https://open.spotify.com/track/2QAfRkVhetHCwKGXhtIBQo) | [Ultraligera](https://open.spotify.com/artist/5Vv5llyiK1nlME2UNDzPBB) | [Mírame](https://open.spotify.com/album/5QDvlYXI4uBI8101Yk4QYT) | 3:53 | 2025-02-06 | 2025-03-28 |
 | [música infinita](https://open.spotify.com/track/720CqaGLhexdPJpjUeO7pI) | [La Plata](https://open.spotify.com/artist/3oD0OVwOhvLSTvd2fOFCuS) | [música infinita](https://open.spotify.com/album/5eyLKFG2laZ2c3ly36uhbz) | 2:56 | 2025-02-13 | 2025-03-07 |
-| [Na'](https://open.spotify.com/track/5rYcUiQP1RVixCYzm0AEMw) | [Junio](https://open.spotify.com/artist/0dDocNwgvOhqIGYYO50Ew8) | [Na'](https://open.spotify.com/album/2e66NyNpzWMVN5xgcqUQPA) | 2:52 | 2025-05-01 |  |
+| [Na'](https://open.spotify.com/track/5rYcUiQP1RVixCYzm0AEMw) | [Junio](https://open.spotify.com/artist/0dDocNwgvOhqIGYYO50Ew8) | [Na'](https://open.spotify.com/album/2e66NyNpzWMVN5xgcqUQPA) | 2:52 | 2025-05-01 | 2025-06-01 |
 | [Nacho Fernández](https://open.spotify.com/track/1zCYOQTuQE48x5vcXkmi6k) | [piti y me voy](https://open.spotify.com/artist/334ZIJVugvR3DZxCXNnusx) | [Nacho Fernández](https://open.spotify.com/album/47aaiQ9Idp7Luvp5ryErjD) | 2:17 | 2024-07-04 | 2024-07-12 |
 | [Nadie Se Muere De Amor](https://open.spotify.com/track/6sScHl2Ors7Uq88gHeTgV8) | [Talleres Molina](https://open.spotify.com/artist/3EJWrAjVZj9kfic7cVF3M2) | [Nadie Se Muere De Amor](https://open.spotify.com/album/335ITgrhO2tHwMoxCmkvVO) | 2:46 | 2025-01-09 | 2025-02-28 |
 | [Nena, no estás](https://open.spotify.com/track/0008pgN5Z0F4pXYYsbb2mm) | [Sobrezero](https://open.spotify.com/artist/5shINgHUmPMcJFG3MivRZr) | [Nena, no estás](https://open.spotify.com/album/7pwjXZKNYOqhKBRTJwDmTZ) | 2:36 | 2025-02-27 |  |
@@ -298,7 +299,7 @@
 | [Regla y purpurina](https://open.spotify.com/track/5vZx86TYr9NSY8IRjng270) | [Tus Novias Indie](https://open.spotify.com/artist/0BQVp2t7lt53icmZAagYXl) | [Aún no sé nada del amor](https://open.spotify.com/album/5t7rzhHnSjbEtTQeBGKQHb) | 3:14 | 2025-05-22 |  |
 | [Reventarme](https://open.spotify.com/track/637HLsAIU5NCKr4mMssOj1) | [trashi](https://open.spotify.com/artist/4NCT7ucfttKL0FUmd3zllQ) | [Reventarme](https://open.spotify.com/album/5uPGlDtsU8HOG5wktQdJjX) | 3:06 | 2024-06-27 | 2024-07-27 |
 | [Rob Gordon](https://open.spotify.com/track/40O5fHVDXbesbgnNOyJdy7) | [Becarios](https://open.spotify.com/artist/5SqIWRE4qf5c0FmmePSGiU) | [Rob Gordon](https://open.spotify.com/album/18I9Tqw9GfujPFUP3zZ2CR) | 2:03 | 2024-08-29 |  |
-| [Romance Extremo](https://open.spotify.com/track/2MA3xS8Jeyg4TRqTESwEwp) | [Casero](https://open.spotify.com/artist/6RXmHX7FgxZz6ycoC6IgPy) | [Romance Extremo](https://open.spotify.com/album/1kN9S9rysBtLdkh9sdzHj5) | 2:24 | 2024-09-26 | 2025-05-30 |
+| [Romance Extremo](https://open.spotify.com/track/2MA3xS8Jeyg4TRqTESwEwp) | [Casero](https://open.spotify.com/artist/6RXmHX7FgxZz6ycoC6IgPy) | [Romance Extremo](https://open.spotify.com/album/1kN9S9rysBtLdkh9sdzHj5) | 2:24 | 2024-09-26 |  |
 | [ROMANTICÓMANA](https://open.spotify.com/track/4u27In1Np7ZXGK6XL7nRfE) | [arrecí0](https://open.spotify.com/artist/7q8u6C6inUWxNOA4ZPPxHT) | [ROMANTICÓMANA](https://open.spotify.com/album/0BfL4OgoGJ19ZCZYJqD3F9) | 2:13 | 2025-03-13 | 2025-04-04 |
 | [Rosquilla de canela](https://open.spotify.com/track/5W7u9wTj93pOYcxea9orOF) | [Marta Movidas](https://open.spotify.com/artist/59NswlApCpxmZbKSNQg0i5) | [Rosquilla de canela](https://open.spotify.com/album/5j3euieoInLiYr65q5nEgh) | 3:37 | 2024-06-27 | 2024-08-02 |
 | [Ruido Blanco](https://open.spotify.com/track/3EraDTviXLjFiv4lCqqVR5) | [La Plata](https://open.spotify.com/artist/3oD0OVwOhvLSTvd2fOFCuS) | [Ruido Blanco](https://open.spotify.com/album/6vHK4Aw6Do2slwN7DXtGSz) | 2:18 | 2024-10-17 | 2024-10-25 |
@@ -373,7 +374,7 @@
 | [Vino el Amor](https://open.spotify.com/track/7LWvckYxoIoPb1QW6OnrEb) | [Venturi](https://open.spotify.com/artist/2f1pksYZS7c56itOgksEeE) | [Esta historia ya no está disponible](https://open.spotify.com/album/1nzm7XdIQU2Tg5XBWHew1O) | 2:36 | 2024-06-27 | 2024-12-06 |
 | [Vivo En Las Nubes](https://open.spotify.com/track/6VO74FC18dbxuAYFUV6G4p) | [Joven Dolores](https://open.spotify.com/artist/6SNJAvWSF0KZJbt3T162RH) | [Vivo En Las Nubes](https://open.spotify.com/album/3YVZJjd2b52xDJkyIfQgJ5) | 3:12 | 2025-01-09 |  |
 | [Vou pa Arzúa](https://open.spotify.com/track/73hDech6uOsguf43udLL5V) | [Grande Amore](https://open.spotify.com/artist/1FVM2KsOjbVwhAYApEhSzQ) | [III](https://open.spotify.com/album/29dxEpPkvFugW3lQbkAB8G) | 3:02 | 2025-03-06 | 2025-03-28 |
-| [Voy a morir sola](https://open.spotify.com/track/6ownCsTpWLOoNPgdGACLC5) | [Tus Novias Indie](https://open.spotify.com/artist/0BQVp2t7lt53icmZAagYXl) | [Voy a morir sola](https://open.spotify.com/album/3mnBvJfovNnvl5m1Hk7Y6Z) | 3:19 | 2025-04-24 |  |
+| [Voy a morir sola](https://open.spotify.com/track/6ownCsTpWLOoNPgdGACLC5) | [Tus Novias Indie](https://open.spotify.com/artist/0BQVp2t7lt53icmZAagYXl) | [Voy a morir sola](https://open.spotify.com/album/3mnBvJfovNnvl5m1Hk7Y6Z) | 3:19 | 2025-04-24 | 2025-06-01 |
 | [Voy a provocar un incendio](https://open.spotify.com/track/0BGUfim41jqMZwR1tjkAmQ) | [The Killer Barbies](https://open.spotify.com/artist/56yLECeTwcGv8OoIS9ycwP) | [El pop se autodestruira en 4, 3, 2, 1...](https://open.spotify.com/album/0zE2gv7KEPGNO7LMBTLPHc) | 2:17 | 2025-05-08 | 2025-05-16 |
 | [Vuelta a casa](https://open.spotify.com/track/73PqBVASCSI1uVM94jTymu) | [La Paloma](https://open.spotify.com/artist/6poevqCIGOy8886WKNTHkv) | [Vuelta a casa](https://open.spotify.com/album/4LT0Mq5MYcTyuo7Sivh0kH) | 3:27 | 2024-06-27 | 2024-08-02 |
 | [Vámonos](https://open.spotify.com/track/1ZD4PRGZC7HyPLxncinlt4) | [levitants](https://open.spotify.com/artist/5Ed1kJRHN0Uj0BhGbRNutV) | [Vámonos](https://open.spotify.com/album/26m3HonKZaNY2mr5dyfpDz) | 4:08 | 2024-06-27 | 2024-08-16 |

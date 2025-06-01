@@ -4,7 +4,7 @@
 
 > Dark, hard hitting pop\. Cover: Banshee
 
-908 songs - 1 day 17 hr 54 min
+908 songs - 1 day 17 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,7 +259,7 @@
 | [engravings](https://open.spotify.com/track/4u5CfuAGAHNYDIHSSW7BiY) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [engravings](https://open.spotify.com/album/2SbLcM1nwlKO76evmEuX6w) | 3:00 | 2022-07-01 | 2022-10-01 |
 | [Eras Of Us](https://open.spotify.com/track/3rhwM4lLOCrtx1Sk62QjKi) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Eras Of Us](https://open.spotify.com/album/1pDZPFcXoRyVxRsIgziIVX) | 2:48 | 2023-12-08 | 2024-03-23 |
 | [Erupt \(ft\. AViVA\)](https://open.spotify.com/track/71jmcCezag5sUPPMLpD2Mh) | [Stileto](https://open.spotify.com/artist/2iwUUr9Udu8z6L2ZJcYr6i), [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [Erupt \(ft\. AViVA\)](https://open.spotify.com/album/3TH9ULOKAb15buW9MIHPN6) | 2:28 | 2023-11-10 | 2024-01-13 |
-| [Euphoria](https://open.spotify.com/track/6OX0qDykYQe5Ih0DdOcVUS) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0), [Joseph H Gilmore Jr.](https://open.spotify.com/artist/6Z5rka6DaBjeczNd7IIJbQ) | [Euphoria](https://open.spotify.com/album/0lnwJGOJJnCn0xFlDQYdhJ) | 3:03 | 2025-05-30 |  |
+| [Euphoria](https://open.spotify.com/track/6OX0qDykYQe5Ih0DdOcVUS) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Euphoria](https://open.spotify.com/album/0lnwJGOJJnCn0xFlDQYdhJ) | 3:03 | 2025-05-30 |  |
 | [Eve](https://open.spotify.com/track/4VWJqXO2lnHTPrDze7zeQe) | [Precious Pepala](https://open.spotify.com/artist/2i6GoBzXmwxdD44bUM26M1) | [Eve](https://open.spotify.com/album/1WcyjfjfTXfv1LaqLtJGqZ) | 3:21 | 2023-09-22 | 2024-06-08 |
 | [ever fallen?](https://open.spotify.com/track/2sGCU9QbPOaHkavcFJdtCu) | [Kate Peytavin](https://open.spotify.com/artist/6PnD7O3Er35tK4TeFyndOS) | [ever fallen?](https://open.spotify.com/album/76MqqEKkr3PqvDuZv5BlVo) | 2:48 | 2022-12-23 | 2023-07-15 |
 | [EVERYBODY'S GONNA DIE!](https://open.spotify.com/track/3YG44aJtUMUtT1OB85s4LK) | [Zia Victoria](https://open.spotify.com/artist/2nbcrlus9x9MaFzxi8nhNE) | [EVERYBODY'S GONNA DIE!](https://open.spotify.com/album/23ZAsoQQ5Bjnxihm4sAsBm) | 2:25 | 2022-09-09 | 2022-12-24 |
@@ -873,7 +873,7 @@
 | [What If You're The Love of My Life?](https://open.spotify.com/track/2rNp14nmgJc4IK0FajIzGn) | [Chloe Adams](https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u) | [What If You're The Love of My Life?](https://open.spotify.com/album/3gHdoNyalsBcrZ4QSJAmuc) | 2:08 | 2024-05-31 | 2024-07-27 |
 | [WHAT IS MY LIFE?](https://open.spotify.com/track/1jIST0E07yOGirz773STTZ) | [Kat Leon](https://open.spotify.com/artist/6YC0XXr4qPMwz3lCpRhWzF) | [WHAT IS MY LIFE?](https://open.spotify.com/album/4st3CiDbPegVzLop0gXYlI) | 2:44 | 2024-02-02 | 2024-03-23 |
 | [what it means to be a girl](https://open.spotify.com/track/6H6M3RdPVYAURu9oCimO2z) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [what it means to be a girl / this is how i learn to say no](https://open.spotify.com/album/5Ty9rTy9cD0NEJVJsDRTiA) | 2:48 | 2021-12-03 | 2022-04-02 |
-| [WHAT THE HELL?!](https://open.spotify.com/track/0tN4gLJOjeTawNuylOZwYI) | [Ella Isaacson](https://open.spotify.com/artist/69DKP6GuG0YiUc5K7tJ4an) | [WHAT THE HELL?!](https://open.spotify.com/album/3yvoDuV0dYkCRj4IMeH8QV) | 3:11 | 2025-05-16 |  |
+| [WHAT THE HELL?!](https://open.spotify.com/track/0tN4gLJOjeTawNuylOZwYI) | [Ella Isaacson](https://open.spotify.com/artist/69DKP6GuG0YiUc5K7tJ4an) | [WHAT THE HELL?!](https://open.spotify.com/album/3yvoDuV0dYkCRj4IMeH8QV) | 3:09 | 2025-05-16 |  |
 | [what would you do?](https://open.spotify.com/track/3I1Smy5zhzNEc9grpjwY1s) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [what would you do?](https://open.spotify.com/album/4sXo7bmCebWfskbUktuQbs) | 2:46 | 2022-05-13 | 2023-02-18 |
 | [What You Need](https://open.spotify.com/track/0IvlCZFHDCgeHqZJHO7ghW) | [Ashley Sienna](https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi) | [What You Need](https://open.spotify.com/album/2YWW63Kn9RPJehvYaXEUJV) | 3:16 | 2023-01-06 | 2023-04-29 |
 | [What's My Name \(Red Version\) \- From "Descendants: The Rise of Red"/Soundtrack Version](https://open.spotify.com/track/1duJTDSFuK3sB0NwNr0QRg) | [China Anne McClain](https://open.spotify.com/artist/6SvFyXN6qzhw95Bj4HoevV), [Kylie Cantrall](https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [What's My Name \(Red Version\) \[From "Descendants: The Rise of Red"/Soundtrack Version\]](https://open.spotify.com/album/2UGytdqtYVoyPeBa5UTP7u) | 2:26 | 2024-04-26 | 2024-06-08 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Juice WRLD. The essential tracks, all in one playlist.",
-  "num_followers": 1644668,
+  "num_followers": 1644877,
   "original_name": "This Is Juice WRLD",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDejgAAAAACaqRs2G5EDMVtQWPOdS35Y",
+  "snapshot_id": "aDj1AAAAAABXKlIN43H9uo6JDtsmmjdY",
   "tracks": [
     {
       "added_at": null,
@@ -891,22 +891,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Pre-Party (Extended)",
-        "url": "https://open.spotify.com/album/51ojViy1d9Siz28EF08d49"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 152183,
-      "name": "Cavalier",
-      "url": "https://open.spotify.com/track/3GqB3q2lYK3qsvhghx92rS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fighting Demons (Deluxe)",
         "url": "https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 259672,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/3i6sCTU7ENlnHpHvrHUitW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Pre-Party (Extended)",
+        "url": "https://open.spotify.com/album/51ojViy1d9Siz28EF08d49"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 152183,
+      "name": "Cavalier",
+      "url": "https://open.spotify.com/track/3GqB3q2lYK3qsvhghx92rS"
     }
   ],
   "unique_name": "This Is Juice WRLD",

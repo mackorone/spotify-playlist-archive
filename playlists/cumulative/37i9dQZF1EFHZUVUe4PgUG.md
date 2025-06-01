@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5nEbufTK1GscqQUw0AL6wp">JonTheProducer</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-178 songs - 9 hr 22 min
+179 songs - 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [Miami](https://open.spotify.com/track/2aucJuYeU78veki8dBqzzW) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Miami](https://open.spotify.com/album/1OuQBKfqgazuDJ4X5QRPR2) | 2:10 | 2023-02-23 | 2023-03-11 |
 | [Miami](https://open.spotify.com/track/5uO69Tc4ogrDtdWl5j5Rvm) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Miami](https://open.spotify.com/album/0OzJRx52dulFpcA3Wb397m) | 2:10 | 2023-03-10 | 2023-07-24 |
 | [Miami](https://open.spotify.com/track/7g403qSRotCCt01wrDqW0s) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [DESGENERADOS MIXTAPE](https://open.spotify.com/album/0YcR2HiDBoW60Alu3CZu2R) | 2:10 | 2023-07-23 |  |
-| [Mía Mía](https://open.spotify.com/track/5frA4yUrm67JdmgrJOjJgg) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [K23](https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6) | 2:10 | 2023-06-22 | 2023-12-14 |
+| [Mía Mía](https://open.spotify.com/track/5frA4yUrm67JdmgrJOjJgg) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [K23](https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6) | 2:10 | 2023-06-22 |  |
 | [Mía Mía](https://open.spotify.com/track/52iTqzrVpyC0McCO1iAmxM) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Mía Mía \(Video Oficial\)](https://open.spotify.com/album/6nYaZYtHYVAER8H5LEC4uv) | 2:37 | 2023-12-13 | 2024-02-02 |
 | [Na' de Ti](https://open.spotify.com/track/6I7kybtYA6uWdWPyiZgyhK) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Oliva](https://open.spotify.com/artist/1gBHZ6j8W5Xs3t9gmvedJw) | [Trap Cake, Vol\. 1](https://open.spotify.com/album/37rUi63O4koMFvrSC1EMam) | 3:07 | 2022-06-04 |  |
 | [Naturaleza](https://open.spotify.com/track/2OlxJKrbyLmzAO14EgV53K) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [De Adentro Pa Afuera](https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2) | 2:42 | 2023-06-30 |  |
@@ -178,6 +178,7 @@
 | [Tuyo](https://open.spotify.com/track/47fI0SEnE2jJZdGvQ62EZB) | [Vida Abundante](https://open.spotify.com/artist/6vwwprxTPQ4zrRm7I4I1mC) | [Testigos](https://open.spotify.com/album/61oQCeDKkwtnnUIYSs6X5B) | 5:23 | 2022-12-15 | 2023-12-14 |
 | [Un Poquito](https://open.spotify.com/track/3aWCkmStzGLDDmlwxJtQrU) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Atlántico a Pie](https://open.spotify.com/album/3c1RJNoi4jd3hosC9lbZM3) | 3:06 | 2022-06-04 |  |
 | [Un Poquito](https://open.spotify.com/track/016PgM2tBnXkKfoaXg0WBA) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Un Poquito \(Official Video\)](https://open.spotify.com/album/1w4FdlnuXI7wsvECwn98Yh) | 3:19 | 2023-12-14 | 2024-02-02 |
+| [VIP](https://open.spotify.com/track/62hsumOu5s9hUJ3yQK40R7) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Pink Aura](https://open.spotify.com/album/1a08d11kkHSjdTLCUnYXad) | 3:07 | 2025-05-31 |  |
 | [Vivir Sin Ti \(con CNCO\)](https://open.spotify.com/track/4zKgBYhLafD8xszGCAiThg) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [DESGENERADOS MIXTAPE](https://open.spotify.com/album/0YcR2HiDBoW60Alu3CZu2R) | 3:24 | 2024-03-26 |  |
 | [Voy Que Quemo](https://open.spotify.com/track/68tXCWJ06ZEjplNEx3f4Mq) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Voy Que Quemo](https://open.spotify.com/album/4zwZZCDVj36cdl3ibTAAJf) | 3:38 | 2022-06-04 |  |
 | [Wow](https://open.spotify.com/track/60Y5s3JmVhfORq1ATJpfSS) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Hotel Caracas](https://open.spotify.com/album/5ZH7IdEga8gne83NYz8nsS) | 2:47 | 2024-07-06 |  |

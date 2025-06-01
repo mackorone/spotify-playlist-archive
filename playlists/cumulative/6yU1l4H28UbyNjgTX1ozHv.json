@@ -3292,7 +3292,7 @@
       ],
       "date_added": "2025-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-01",
       "duration_ms": 187519,
       "name": "Nothing's Gonna Stop Us Now - Acoustic",
       "url": "https://open.spotify.com/track/24RPVHtPO71yC3TPPJlYBs"
@@ -4357,6 +4357,24 @@
     },
     {
       "album": {
+        "name": "Treasure",
+        "url": "https://open.spotify.com/album/1Bk8Z6dsSdL0KNBQCo4xtd"
+      },
+      "artists": [
+        {
+          "name": "Richard Watts",
+          "url": "https://open.spotify.com/artist/3cGb8b9Zwvka0MWD5RyMDI"
+        }
+      ],
+      "date_added": "2025-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189782,
+      "name": "Treasure",
+      "url": "https://open.spotify.com/track/31Ctlmul6mkj9MYrLwKuMU"
+    },
+    {
+      "album": {
         "name": "Treasure (Acoustic)",
         "url": "https://open.spotify.com/album/5C8eQcdqEPF3cpLDp9IRWj"
       },
@@ -5080,6 +5098,24 @@
       "duration_ms": 148867,
       "name": "You Gotta Be - Acoustic",
       "url": "https://open.spotify.com/track/4RlBEdL5DOSslHLSUhKJn6"
+    },
+    {
+      "album": {
+        "name": "You Make My Dreams (Come True)",
+        "url": "https://open.spotify.com/album/7qYldplOdOMyQTWZIJwPXH"
+      },
+      "artists": [
+        {
+          "name": "Callum J Wright",
+          "url": "https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe"
+        }
+      ],
+      "date_added": "2025-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175209,
+      "name": "You Make My Dreams (Come True)",
+      "url": "https://open.spotify.com/track/2FXh77yuXHFlRdPugP51mV"
     },
     {
       "album": {

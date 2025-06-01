@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Korea](https://open.spotify.com/playlist/37i9dQZF1DX7vZYLzFGQXc)
 
-> 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: 미티 \(Mitty\)\) \(Meet the emerging talents of Korea!\)
+> 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: 김뮤즈 \(Kimmuse\)\) \(Meet the emerging talents of Korea!\)
 
 1,549 songs - 3 day 15 hr 7 min
 

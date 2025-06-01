@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1253lWxXfmfZeT2vRLhBUq">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-658 songs - 1 day 21 hr 50 min
+659 songs - 1 day 21 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,6 +287,7 @@
 | [I've Seen The Saucers \- Remastered 1995](https://open.spotify.com/track/15FemTRww0eSTvhcAH2Lu3) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Caribou \(Remastered 1995\)](https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC) | 4:48 | 2022-09-08 |  |
 | [Ich will jetzt gleich König sein](https://open.spotify.com/track/3TMJAzf14sLrPUNfJqkCTB) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Frank Lenart](https://open.spotify.com/artist/5QPbyemwjGhHWgM9fj7Gly), [Tim Rice](https://open.spotify.com/artist/3KDpcZPHxvsaVk5PReoGqh), [Original Ensemble vom "Broadway Musical im Hamburger Hafen"](https://open.spotify.com/artist/4RPg2LA6cDNQe5GLRAvwip) | [Der König der Löwen \(Dt\. Version\) \[Soundtrack\]](https://open.spotify.com/album/5FUKQAJlSG2ogyTmKtRF3s) | 3:04 | 2022-09-08 |  |
 | [Idol \- Live](https://open.spotify.com/track/1Gv3XEaqzTleOjmbHXGjDh) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Symphonica \(Deluxe Version\)](https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO) | 4:29 | 2022-09-08 |  |
+| [Iets Van Een Wonder](https://open.spotify.com/track/4i4lhv7KBdc0UpBy7jYi9x) | [Rob De Nijs](https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K) | [Iets Van Een Wonder \(Expanded Edition\)](https://open.spotify.com/album/27IQSYoYfhWpsHQUaTiP10) | 5:05 | 2025-05-31 |  |
 | [If I Asked You \- Band Demo](https://open.spotify.com/track/40s6hEiWqkrengoovMq63x) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 2:51 | 2023-05-26 |  |
 | [If The River Can Bend](https://open.spotify.com/track/1ZjjErIZeYuwsy6GzdVttX) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Big Picture](https://open.spotify.com/album/7ndxdHA40ZLx0jH0V6fjz9) | 5:21 | 2022-09-08 |  |
 | [If There's A God In Heaven \(What's He Waiting For?\)](https://open.spotify.com/track/0jfP8jD5xZBWXUJ0H36UKz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Blue Moves](https://open.spotify.com/album/0XsM7TdicJh19osmKPUoR2) | 4:25 | 2022-09-08 |  |

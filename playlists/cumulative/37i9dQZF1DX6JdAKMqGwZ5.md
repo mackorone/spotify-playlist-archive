@@ -4,7 +4,7 @@
 
 > Descubre los temas emergentes del mundo indie\. Foto: San Tosielo.
 
-454 songs - 23 hr 39 min
+455 songs - 23 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [El verano de Elia y Elizabeth](https://open.spotify.com/track/3wlU3uK3OyFOaRuCahFvhI) | [Wild Honey](https://open.spotify.com/artist/1RLwfTeuQPUkU6z1JQiE4P) | [El verano de Elia y Elizabeth](https://open.spotify.com/album/5WHIyPeWNJEmEeUxS2RhsA) | 2:50 | 2024-06-27 | 2024-08-02 |
 | [El Árbol \[2007\]](https://open.spotify.com/track/15tf0pP4EbDeAEkFUlvUVg) | [MERINO](https://open.spotify.com/artist/6oUhPlreIDCXfoUSUcXOam) | [El Árbol \[2007\]](https://open.spotify.com/album/2phzFk3T28u6PPq7oIONNe) | 3:34 | 2025-02-27 | 2025-05-31 |
 | [El último rumor](https://open.spotify.com/track/0IEoSXu72fqQGM932uNXXQ) | [Espanto](https://open.spotify.com/artist/4m2iq2WEoxSFvOZd130HIQ) | [El último rumor](https://open.spotify.com/album/3Qf1nutq0p7tAfOYDLnjcG) | 2:39 | 2024-07-04 | 2024-08-02 |
-| [Elizabeth](https://open.spotify.com/track/1RZcXkyB8Ex8RAGJWX4K7g) | [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9) | [Elizabeth](https://open.spotify.com/album/0wO9kY8dteHnjYaTwT8wRP) | 3:00 | 2025-01-23 |  |
+| [Elizabeth](https://open.spotify.com/track/1RZcXkyB8Ex8RAGJWX4K7g) | [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9) | [Elizabeth](https://open.spotify.com/album/0wO9kY8dteHnjYaTwT8wRP) | 3:00 | 2025-01-23 | 2025-06-01 |
 | [ella brilla](https://open.spotify.com/track/4xadguhD6ztFKReVXwLTEt) | [RIZA](https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1), [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ella brilla](https://open.spotify.com/album/4SUUGxQ9wjP323SAc6VAuD) | 4:23 | 2024-08-29 | 2024-09-13 |
 | [En memoria de las cicatrices](https://open.spotify.com/track/5lP1pNkWObsnmBsRY7qT1W) | [Safree](https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL) | [En memoria de las cicatrices](https://open.spotify.com/album/6yELhK7UiNQWI4oKrCclva) | 2:48 | 2024-07-25 | 2024-08-23 |
 | [Enamorado de tu reverb](https://open.spotify.com/track/5vL5TRZdmuP7OGY93zaFRs) | [Joe Crepúsculo](https://open.spotify.com/artist/34SgyDEDqVlahIQRDttgCn) | [Enamorado de tu reverb](https://open.spotify.com/album/273Bae4idLgIuVnJFuLYQz) | 4:02 | 2024-10-31 | 2024-11-15 |
@@ -144,7 +144,7 @@
 | [Escudo](https://open.spotify.com/track/13z5gkVyAKUUWb0Enb0tDQ) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO), [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7) | [Escudo](https://open.spotify.com/album/3rCucNvlPnzPoUThvAbY8j) | 2:51 | 2024-10-10 | 2024-12-06 |
 | [Especial](https://open.spotify.com/track/0becwxEO40AxKIDQto7CLD) | [ARON](https://open.spotify.com/artist/79ehGac6casNGvc5n8XL7J) | [Especial](https://open.spotify.com/album/6oEcAncUpwIrzxNDnmOabF) | 3:27 | 2024-08-08 | 2024-09-06 |
 | [Espera](https://open.spotify.com/track/1UqwvHN3GzqQ8E1JRQZ5w6) | [Carmen 113](https://open.spotify.com/artist/3wcfgYTtdxmXrhuUuq3kEe), [Modelo](https://open.spotify.com/artist/3xcGSLQmwbzsQMHqjmJlht) | [Espera](https://open.spotify.com/album/7HSbL3TYnAZnOSNGHHs4IT) | 3:33 | 2024-06-27 |  |
-| [Espina](https://open.spotify.com/track/2rHjLXPpOmu5rKHPaUa8Qb) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl) | [Espina](https://open.spotify.com/album/5xB3QxKQ5uiNL3YH6aOLtu) | 3:03 | 2024-09-12 | 2025-05-27 |
+| [Espina](https://open.spotify.com/track/2rHjLXPpOmu5rKHPaUa8Qb) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl) | [Espina](https://open.spotify.com/album/5xB3QxKQ5uiNL3YH6aOLtu) | 3:03 | 2024-09-12 |  |
 | [Espíritu Olímpico](https://open.spotify.com/track/6h0YQ6hAfOgpEz32vij8DI) | [Cora Yako](https://open.spotify.com/artist/09un4iSHi0vAwjGBwvWiDm), [Nadie Patín](https://open.spotify.com/artist/1EVcueF5J7XTuYH0nTGJsB) | [Espíritu Olímpico](https://open.spotify.com/album/5KhojvYi9mOuTkQQcbuXLh) | 3:19 | 2024-06-27 | 2024-08-30 |
 | [Esto no es el cielo](https://open.spotify.com/track/5IG6ux0mJM0H0Jti7ecz54) | [Sienna](https://open.spotify.com/artist/4PSNWFX3rYscMdKRp59uYA) | [Esto no es el cielo](https://open.spotify.com/album/1oSd0iudeLKkSTjkWF3lpp) | 2:59 | 2024-06-27 | 2024-12-13 |
 | [ESTO QUE ME DAS](https://open.spotify.com/track/6oHtM5GvM2PgetC4LbXxT6) | [Confeti de Odio](https://open.spotify.com/artist/3C1CPJ9K2aeHuj1x22B0qJ) | [ESTO QUE ME DAS](https://open.spotify.com/album/49pZCKohU7FrOXRxwuLvrk) | 2:55 | 2025-02-27 | 2025-03-14 |
@@ -217,6 +217,7 @@
 | [La Plaza](https://open.spotify.com/track/6jLHr0PQiEXs0hjltWBkKj) | [Rufus T\. Firefly](https://open.spotify.com/artist/51Hx65ymA6pNWu8cTTXET1) | [La Plaza](https://open.spotify.com/album/1s45Afazi1jmO46HBNlfmu) | 3:24 | 2025-03-27 |  |
 | [La Plaza del Carmen](https://open.spotify.com/track/1KngaoX2kdZM5RnKZrQhpS) | [Ale Acosta](https://open.spotify.com/artist/1tqvdpL1WYZ7js010M2AJx) | [La Plaza del Carmen](https://open.spotify.com/album/37TtAqZC3UPRSH0hDxxsaw) | 3:45 | 2025-03-13 | 2025-04-04 |
 | [la soledad](https://open.spotify.com/track/3RsCYC4k3HlyQulMTFwtaW) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [la soledad](https://open.spotify.com/album/0KTVuOKvUVG3J83PWmRCM8) | 3:19 | 2024-11-28 |  |
+| [La Suerte Que Tengo](https://open.spotify.com/track/37DfAS4yfIzdP7TgzrHk8b) | [Lemot](https://open.spotify.com/artist/6RN9D7QhoLVcy7yo4AuQ9A) | [La Suerte Que Tengo](https://open.spotify.com/album/49xKBRtBI08F8CugcupAlC) | 2:43 | 2025-05-29 |  |
 | [La Tarara](https://open.spotify.com/track/5BIaKkjMyMCf9rp0LXDNUE) | [Janire](https://open.spotify.com/artist/4sD4ggYulUsZmOxGyQK0Sj) | [La Tarara](https://open.spotify.com/album/7laLBHAJ8nurKQ28dXCDWr) | 2:29 | 2025-05-01 | 2025-05-09 |
 | [La Toscana](https://open.spotify.com/track/39kOGcaNQZm9Ig1FDngq9c) | [Veintiuno](https://open.spotify.com/artist/2k60o7SVpOKmzpuTEAG3L8) | [La Toscana](https://open.spotify.com/album/1LKtA0XNFWT7W6ksG5R9GR) | 3:20 | 2024-06-27 | 2024-08-16 |
 | [La Vida Cañón](https://open.spotify.com/track/6ou443eT6aXOCxcX9Jrnee) | [Alcalá Norte](https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR) | [Alcalá Norte](https://open.spotify.com/album/7C2RrxAFNTX0qklJnrHXTj) | 2:32 | 2024-06-27 |  |
@@ -237,7 +238,7 @@
 | [Lo Que Me Pasa](https://open.spotify.com/track/3GBWdd8w6zqMM6mUsmfcRR) | [Maria Rodés](https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf), [Albert Cases](https://open.spotify.com/artist/61llloTcQIbaT4ojaBOJbS) | [Lo Que Me Pasa](https://open.spotify.com/album/3bjFlNdShEBcKmQVd7KvZm) | 2:52 | 2025-03-21 |  |
 | [Lo que Queda Tras el Apagón](https://open.spotify.com/track/2Xfu3HBvqt29dTjuVQmDDs) | [mafalda](https://open.spotify.com/artist/7zyZ33s4LRFS3S0r7eKBZs) | [Lo que Queda Tras el Apagón](https://open.spotify.com/album/1xqtJXfhS8gMSnNkDqi7HO) | 4:08 | 2024-06-27 | 2024-07-05 |
 | [Lo que yo te he querido](https://open.spotify.com/track/6uVKzyquFqdEOcwDKVpeSF) | [Niña Polaca](https://open.spotify.com/artist/7wItEsGHPEaFKnb1iJhbmW), [CARLANGAS](https://open.spotify.com/artist/3R86hCl02kzzvB48oIyEVs) | [Lo que yo te he querido](https://open.spotify.com/album/6qC0JcKUO8kNEftI6iXxlF) | 3:23 | 2025-03-20 |  |
-| [Loba](https://open.spotify.com/track/0Ng1Xrd0pl4yi0Yrk4tYMF) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl) | [Loba](https://open.spotify.com/album/2tPRqJJ9coHfIpoNATYe2H) | 3:13 | 2024-10-17 |  |
+| [Loba](https://open.spotify.com/track/0Ng1Xrd0pl4yi0Yrk4tYMF) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl) | [Loba](https://open.spotify.com/album/2tPRqJJ9coHfIpoNATYe2H) | 3:13 | 2024-10-17 | 2025-06-01 |
 | [LOCOS POR EL SURF](https://open.spotify.com/track/3UjfIiw59usBg7nhf6m6qS) | [Jaguayano](https://open.spotify.com/artist/0XVsHyF9ofcEFttyOHXPYG) | [BOTAS DE AGUACATE](https://open.spotify.com/album/3ROKs7Ej1DMWsIXscUV6l8) | 2:13 | 2025-05-08 | 2025-05-23 |
 | [Loros](https://open.spotify.com/track/0I8lFIqizsT49Az0ShbeFp) | [Camellos](https://open.spotify.com/artist/3uQgL10Dx1pMNIDfUiv8HW) | [Loros](https://open.spotify.com/album/1X5XYCsVtVR2VnrPKa03Qn) | 2:26 | 2024-06-27 |  |
 | [los cables de una máquina infalible son la imitación perfecta de las plumas de un ángel incorruptible.](https://open.spotify.com/track/71puBzNXW6UP0IhiH42xYT) | [9ckles](https://open.spotify.com/artist/1DfbSaxJu1kOKS0uOLcKYR) | [La Bestia que Gritaba Amor en el Corazón del Universo](https://open.spotify.com/album/3wVilni5q5zqQwccJwXVUJ) | 1:44 | 2025-01-02 | 2025-02-14 |

@@ -4,7 +4,7 @@
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-226 songs - 12 hr 12 min
+227 songs - 12 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,7 +187,7 @@
 | [Rosas Rositas](https://open.spotify.com/track/6guxeipY9PFAQdCcJRqKFg) | [Incógnito](https://open.spotify.com/artist/3J60BaFbuCbU1XTzLv1at8) | [Rosas Rositas](https://open.spotify.com/album/5eX7MhfxlDUmN94GuJVFVt) | 5:09 | 2021-11-12 | 2025-02-02 |
 | [Rosé](https://open.spotify.com/track/2VjdWetFejyZ1NI95u12Zy) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [Inverno](https://open.spotify.com/album/6duBR0e38IcnyqdcTYBbCj) | 3:32 | 2022-06-24 | 2024-04-19 |
 | [Rosé](https://open.spotify.com/track/3P4UaGYj01Sg0eajkM6jne) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [Inverno](https://open.spotify.com/album/6MqxgbPunGcsyH5AkEhD5Y) | 3:32 | 2021-11-12 | 2022-07-29 |
-| [Sabe Qual É](https://open.spotify.com/track/3mctWBqWWKZn7rsyjWVtDe) | [Nathan](https://open.spotify.com/artist/2ZBQCf1PXTCH95h3msgluA) | [Sabe Qual É](https://open.spotify.com/album/0pOetxYIZaNrd3Xdewp9Fd) | 2:30 | 2021-11-12 |  |
+| [Sabe Qual É](https://open.spotify.com/track/3mctWBqWWKZn7rsyjWVtDe) | [Nathan](https://open.spotify.com/artist/2ZBQCf1PXTCH95h3msgluA) | [Sabe Qual É](https://open.spotify.com/album/0pOetxYIZaNrd3Xdewp9Fd) | 2:30 | 2021-11-12 | 2025-06-01 |
 | [Sabor Cereja](https://open.spotify.com/track/5momT3wRuYsg2s4hHZVHML) | [26:15](https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv) | [Sabor Cereja](https://open.spotify.com/album/7yUdixa2zBINA6XiIz3PyM) | 2:55 | 2021-11-12 | 2023-08-19 |
 | [Santa Catarina](https://open.spotify.com/track/0AQWxcKYGsjuarEkpeiYwR) | [PK Delas](https://open.spotify.com/artist/6gqBZ0kAjgVLsZQKkHcaB3), [Tiél](https://open.spotify.com/artist/6KyHLY2nxKSNDugeKpldQ4) | [Santa Catarina](https://open.spotify.com/album/4DFsz1To8t0Bwu29ExBBJX) | 1:35 | 2024-02-09 | 2024-06-07 |
 | [Saturno](https://open.spotify.com/track/68cPbG7hJnwDW9nPX1uQcX) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Saturno](https://open.spotify.com/album/54lVKhg9g9xAzZjMU46ay7) | 3:06 | 2021-11-12 | 2024-11-23 |
@@ -214,6 +214,7 @@
 | [Tira, Coloca De Volta](https://open.spotify.com/track/78GL1D7ZMN0LA0g02GsqGV) | [Giana Mello](https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi), [LKAHH](https://open.spotify.com/artist/4btsBxPXtPIdiCvajntmMw) | [Tira, Coloca De Volta](https://open.spotify.com/album/7279dbuQMxbyWBysyJXbQE) | 2:24 | 2025-03-24 |  |
 | [Tirando Onda](https://open.spotify.com/track/50FnFhL9vKRMifYnUwoZio) | [Cave](https://open.spotify.com/artist/3TKi2ihPsE1ViCKxLKxQm7) | [Tirando Onda](https://open.spotify.com/album/5FzdmybYAw1vQNwjSNxJWL) | 2:32 | 2023-09-01 | 2023-09-30 |
 | [Toca o Refrão](https://open.spotify.com/track/0ulbmMA9GvEMUmV5wonqWp) | [Txéllo](https://open.spotify.com/artist/4VS0ojdhDJZt9DDTyjZDKU) | [De Peito Aberto, Pt\. 2](https://open.spotify.com/album/615VkUkY99vE5bbbteUFi2) | 2:07 | 2024-09-27 | 2025-01-30 |
+| [Toda Linda \(feat\. Caslu\)](https://open.spotify.com/track/2NyTRP7BbxiiCdH3V48oyd) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE), [DoisP](https://open.spotify.com/artist/4xcFNIVM3qTAXKmGRcBxx2), [Junior Lord](https://open.spotify.com/artist/6rFkZxhheU9l1nODgZm4SP), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0), [Caslu](https://open.spotify.com/artist/1FrO6hhB0YyDvFJMonSY9T) | [Modo Avião](https://open.spotify.com/album/1GZPzZKe37xeQqxi1gXASH) | 2:48 | 2025-05-31 |  |
 | [Todas as Cidades](https://open.spotify.com/track/2XQQNpvvGwIVWei7Deg9o9) | [Dody](https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs) | [Todas as Cidades](https://open.spotify.com/album/12zQoI9qCsnBo6t9Qe176A) | 2:15 | 2021-11-12 | 2023-08-05 |
 | [Tudo Começou](https://open.spotify.com/track/3YxDUy8pxY8vs7mZcn0TK1) | [NALAH](https://open.spotify.com/artist/6ETEPWJAjX1ZwlvkcRX5t8), [Diego Thug](https://open.spotify.com/artist/4XJyjyOJnsvtZEi5isgKSw) | [Tudo Começou](https://open.spotify.com/album/3ZYVUaDhyt9BvqTdmq4Cwi) | 2:25 | 2024-02-02 | 2024-11-23 |
 | [Tudo de bom](https://open.spotify.com/track/3YqLyRFwjGuPBT7EHoyQH7) | [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Tudo de bom](https://open.spotify.com/album/7bZLDpIUpjrHPehJUqRXyO) | 2:44 | 2021-11-12 | 2023-11-18 |

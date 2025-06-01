@@ -4,7 +4,7 @@
 
 > Um pouco de reggae pra acompanhar a brisa do mar.
 
-149 songs - 8 hr 25 min
+150 songs - 8 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Me Leva](https://open.spotify.com/track/5NeGYCOfojjoFdgYf3zupx) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Me Leva](https://open.spotify.com/album/2l1uiUn0H6RV7ULkzj5jPv) | 2:28 | 2024-08-14 | 2025-04-06 |
 | [Melhor Assunto \- Bus Live Session](https://open.spotify.com/track/7xva0maR5No7LbH70UEj5M) | [Nossa Toca](https://open.spotify.com/artist/5o00VSNNjsdSmZ0YJwUSxi), [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0) | [Melhor Assunto \(Bus Live Session\)](https://open.spotify.com/album/5kNBIykzFFamaBRteogvJG) | 2:43 | 2023-07-03 | 2023-08-05 |
 | [Meu Destino é o Litoral](https://open.spotify.com/track/6nvvhe2emrtQsoCmO1dxNg) | [MENSANA](https://open.spotify.com/artist/3xgO1ucAJJWnEHjh0zyHdL) | [Meu Destino é o Litoral](https://open.spotify.com/album/6dmHQknnJsKsaoZ9Ow44Mh) | 3:10 | 2024-05-31 |  |
+| [Meu Jeito de Ser](https://open.spotify.com/track/6g29kMXoD1vkx7HE8B6kuK) | [Voraz](https://open.spotify.com/artist/54emVun9PakI9opV4aT5Jb), [Planta E Raiz](https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO) | [Meu Jeito de Ser](https://open.spotify.com/album/3ZaDi5SgfZY6tJcQQVI61N) | 2:56 | 2025-05-30 |  |
 | [Minha Estrela](https://open.spotify.com/track/21W4h17bilDOuYBcv9857o) | [AôA](https://open.spotify.com/artist/1m9TbzfSHdHp25ZFwy0WLl) | [Minha Estrela](https://open.spotify.com/album/11FAjoRU8boQc3AMNlZbkP) | 2:37 | 2024-03-08 | 2024-04-27 |
 | [Minha Ilha](https://open.spotify.com/track/3pqg2vWR8mZ9OGxZ8Kxi8v) | [Gabriel Oliveira](https://open.spotify.com/artist/5tvMRnrx7V0hJc4XhbqEtr) | [Minha Ilha](https://open.spotify.com/album/0sOnQvXTfgv9zyrf1Mi7Zj) | 3:43 | 2023-07-03 |  |
 | [Místico](https://open.spotify.com/track/0AZJ2bWZwvgLH59jaxJScv) | [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0) | [Místico](https://open.spotify.com/album/7DhXujQxCEiiTMpfkrnUzX) | 3:07 | 2025-04-05 |  |
@@ -103,7 +104,7 @@
 | [Pé na Areia](https://open.spotify.com/track/0rjLArKWivN8Yr92shllXF) | [MaLu](https://open.spotify.com/artist/5UAjN5x2sXD7mf8W0ehJAC) | [Café da MaLu, Vol\. 04](https://open.spotify.com/album/2QlHzW201MuSYycjwacPzD) | 2:43 | 2024-07-05 |  |
 | [Péssimo Negócio \- Ao Vivo](https://open.spotify.com/track/1OgawoylbWhKEbEOS9rdvt) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb), [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec) | [Péssimo Negócio \(Ao Vivo\)](https://open.spotify.com/album/7KQm2twpmcGLTVzBDgnLuG) | 3:24 | 2024-04-12 | 2024-06-22 |
 | [Pôr do Sol](https://open.spotify.com/track/14OvMZKORBzPf16ZWwQtUL) | [Noel Ferrari](https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux) | [Pôr do Sol](https://open.spotify.com/album/5vdy3biDY8tZP2OzcHiC0w) | 3:48 | 2023-07-03 |  |
-| [Quanto Pesa](https://open.spotify.com/track/7mu58r9s9WcL2uRvTqvUmk) | [DJ Hum](https://open.spotify.com/artist/37hCu82ZWZlLCf6gs1H8Gf), [Dow Raiz](https://open.spotify.com/artist/73rvzBoed3qMm7yNNBtWfu), [Jhayam](https://open.spotify.com/artist/4Ekm84CINBTMHbhVJXh16I) | [Quanto Pesa](https://open.spotify.com/album/7CPzJ1j9napqwK1g5hRgei) | 3:43 | 2025-03-23 |  |
+| [Quanto Pesa](https://open.spotify.com/track/7mu58r9s9WcL2uRvTqvUmk) | [DJ Hum](https://open.spotify.com/artist/37hCu82ZWZlLCf6gs1H8Gf), [Dow Raiz](https://open.spotify.com/artist/73rvzBoed3qMm7yNNBtWfu), [Jhayam](https://open.spotify.com/artist/4Ekm84CINBTMHbhVJXh16I) | [Quanto Pesa](https://open.spotify.com/album/7CPzJ1j9napqwK1g5hRgei) | 3:43 | 2025-03-23 | 2025-06-01 |
 | [Que Seja de Alegria](https://open.spotify.com/track/1xJI23nZnGvXV7irhcdJQP) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Que Seja de Alegria](https://open.spotify.com/album/3ADcKDdPwqiHZrkDRtH4Ma) | 2:54 | 2025-03-17 |  |
 | [Que Vem Do Mar](https://open.spotify.com/track/0HnnjltageT1ZwKjVeG1u8) | [Angatu](https://open.spotify.com/artist/6y4sd9nPIx1gPjsnJDkqym), [Dasplanta](https://open.spotify.com/artist/2I3K4rd8YZHLYk6kXeSkKP), [Krabah](https://open.spotify.com/artist/1hfD9VGvCUYoQiB43vsHZB) | [Que Vem Do Mar](https://open.spotify.com/album/6aXTdntsgmdS6VLhVumua0) | 4:00 | 2024-02-02 | 2024-04-19 |
 | [Que Vem do Mar](https://open.spotify.com/track/3XNjsb2GWwT9lU3aT4Bnmj) | [Angatu](https://open.spotify.com/artist/6y4sd9nPIx1gPjsnJDkqym), [Dasplanta](https://open.spotify.com/artist/2I3K4rd8YZHLYk6kXeSkKP), [Krabah](https://open.spotify.com/artist/1hfD9VGvCUYoQiB43vsHZB) | [Que Vem do Mar](https://open.spotify.com/album/2KoifypEyKpsQw7wrOJZph) | 4:00 | 2023-07-03 | 2023-08-18 |

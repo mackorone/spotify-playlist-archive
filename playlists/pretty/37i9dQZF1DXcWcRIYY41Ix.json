@@ -1,6 +1,6 @@
 {
   "description": "La nueva ola de trovadores del siglo XXI. En portada: Silvana Estrada.",
-  "num_followers": 129658,
+  "num_followers": 129685,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
@@ -735,6 +735,22 @@
     {
       "added_at": "2025-05-30 06:00:11",
       "album": {
+        "name": "Me mudo de casa",
+        "url": "https://open.spotify.com/album/6rHXpK2WXv57QQEiHfMVf3"
+      },
+      "artists": [
+        {
+          "name": "GUADA",
+          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
+        }
+      ],
+      "duration_ms": 244636,
+      "name": "Me mudo de casa",
+      "url": "https://open.spotify.com/track/6PC9XV4mfwsYRNVBgbFJIC"
+    },
+    {
+      "added_at": "2025-05-30 06:00:11",
+      "album": {
         "name": "LA CONSTANCIA",
         "url": "https://open.spotify.com/album/7dE81OdWeZphh6dPHE7WHW"
       },
@@ -755,18 +771,18 @@
     {
       "added_at": "2025-05-30 06:00:11",
       "album": {
-        "name": "Me mudo de casa",
-        "url": "https://open.spotify.com/album/6rHXpK2WXv57QQEiHfMVf3"
+        "name": "Cara de tonta",
+        "url": "https://open.spotify.com/album/2SjMbXS5MmWrwIDJ5LzbC7"
       },
       "artists": [
         {
-          "name": "GUADA",
-          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
+          "name": "GREX",
+          "url": "https://open.spotify.com/artist/0DP0R1lYEzsfg3xkTEyunt"
         }
       ],
-      "duration_ms": 244636,
-      "name": "Me mudo de casa",
-      "url": "https://open.spotify.com/track/6PC9XV4mfwsYRNVBgbFJIC"
+      "duration_ms": 126650,
+      "name": "Cara de tonta",
+      "url": "https://open.spotify.com/track/3c6llTjaecWdHx3EDl1Fop"
     },
     {
       "added_at": "2025-05-30 06:00:11",
@@ -787,22 +803,6 @@
       "duration_ms": 262239,
       "name": "Temple Bar (en directo)",
       "url": "https://open.spotify.com/track/6bDf8vOFYO6hqFYuWIoZpN"
-    },
-    {
-      "added_at": "2025-05-30 06:00:11",
-      "album": {
-        "name": "Cara de tonta",
-        "url": "https://open.spotify.com/album/2SjMbXS5MmWrwIDJ5LzbC7"
-      },
-      "artists": [
-        {
-          "name": "GREX",
-          "url": "https://open.spotify.com/artist/0DP0R1lYEzsfg3xkTEyunt"
-        }
-      ],
-      "duration_ms": 126650,
-      "name": "Cara de tonta",
-      "url": "https://open.spotify.com/track/3c6llTjaecWdHx3EDl1Fop"
     },
     {
       "added_at": "2025-05-30 06:00:11",
@@ -919,6 +919,22 @@
     {
       "added_at": "2025-05-30 06:00:11",
       "album": {
+        "name": "Un poco m\u00e1s",
+        "url": "https://open.spotify.com/album/5e4oYrUK3XdyUHLi26md7X"
+      },
+      "artists": [
+        {
+          "name": "GREX",
+          "url": "https://open.spotify.com/artist/0DP0R1lYEzsfg3xkTEyunt"
+        }
+      ],
+      "duration_ms": 160576,
+      "name": "Un poco m\u00e1s",
+      "url": "https://open.spotify.com/track/7sr4IbjV6IxVUktNk86wf6"
+    },
+    {
+      "added_at": "2025-05-30 06:00:11",
+      "album": {
         "name": "Vuelve",
         "url": "https://open.spotify.com/album/523A7IjwBmOfIAk0xh3DUx"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 322242,
       "name": "Carta Aberta",
       "url": "https://open.spotify.com/track/16V20qvMFMPof1Ed6O6RvO"
-    },
-    {
-      "added_at": "2025-05-30 06:00:11",
-      "album": {
-        "name": "Un poco m\u00e1s",
-        "url": "https://open.spotify.com/album/5e4oYrUK3XdyUHLi26md7X"
-      },
-      "artists": [
-        {
-          "name": "GREX",
-          "url": "https://open.spotify.com/artist/0DP0R1lYEzsfg3xkTEyunt"
-        }
-      ],
-      "duration_ms": 160576,
-      "name": "Un poco m\u00e1s",
-      "url": "https://open.spotify.com/track/7sr4IbjV6IxVUktNk86wf6"
     },
     {
       "added_at": "2025-05-30 06:00:11",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2025-05-30 06:00:11",
       "album": {
+        "name": "Una carta con tu nombre",
+        "url": "https://open.spotify.com/album/3IZWZ0sMl8VMLUwd9e8vBa"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Mart\u00edn",
+          "url": "https://open.spotify.com/artist/61Yep7VEr8FU4XEY2aUIMN"
+        }
+      ],
+      "duration_ms": 235075,
+      "name": "Una carta con tu nombre",
+      "url": "https://open.spotify.com/track/5rgb2Vl3iWofqOURoCELoq"
+    },
+    {
+      "added_at": "2025-05-30 06:00:11",
+      "album": {
         "name": "Fins a maig no revisc",
         "url": "https://open.spotify.com/album/0nfAMwME4AZNOSaYuBVdWu"
       },
@@ -1083,18 +1099,26 @@
     {
       "added_at": "2025-05-30 06:00:11",
       "album": {
-        "name": "Una carta con tu nombre",
-        "url": "https://open.spotify.com/album/3IZWZ0sMl8VMLUwd9e8vBa"
+        "name": "Un Hogar",
+        "url": "https://open.spotify.com/album/2jRu9kgYQ7PDPEF31ztpYr"
       },
       "artists": [
         {
-          "name": "V\u00edctor Mart\u00edn",
-          "url": "https://open.spotify.com/artist/61Yep7VEr8FU4XEY2aUIMN"
+          "name": "Las Nietas del Charli",
+          "url": "https://open.spotify.com/artist/7qUIkRxw27ibYFxuzEm9rS"
+        },
+        {
+          "name": "Pedro Pastor",
+          "url": "https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP"
+        },
+        {
+          "name": "Marta G\u00f3mez",
+          "url": "https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY"
         }
       ],
-      "duration_ms": 235075,
-      "name": "Una carta con tu nombre",
-      "url": "https://open.spotify.com/track/5rgb2Vl3iWofqOURoCELoq"
+      "duration_ms": 132189,
+      "name": "Un Hogar",
+      "url": "https://open.spotify.com/track/2swtKrgHN16HxDxNtF2rAc"
     },
     {
       "added_at": "2025-05-30 06:00:11",
@@ -1135,30 +1159,6 @@
       "duration_ms": 218028,
       "name": "La Despedida (feat. Valeria Castro)",
       "url": "https://open.spotify.com/track/2THnHHYUmXLKgI3AzLV053"
-    },
-    {
-      "added_at": "2025-05-30 06:00:11",
-      "album": {
-        "name": "Un Hogar",
-        "url": "https://open.spotify.com/album/2jRu9kgYQ7PDPEF31ztpYr"
-      },
-      "artists": [
-        {
-          "name": "Las Nietas del Charli",
-          "url": "https://open.spotify.com/artist/7qUIkRxw27ibYFxuzEm9rS"
-        },
-        {
-          "name": "Pedro Pastor",
-          "url": "https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP"
-        },
-        {
-          "name": "Marta G\u00f3mez",
-          "url": "https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY"
-        }
-      ],
-      "duration_ms": 132189,
-      "name": "Un Hogar",
-      "url": "https://open.spotify.com/track/2swtKrgHN16HxDxNtF2rAc"
     },
     {
       "added_at": "2025-05-30 06:00:11",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2025-05-30 06:00:11",
       "album": {
-        "name": "Eltiempoesunacosa",
-        "url": "https://open.spotify.com/album/4EgKK1cLZf2G2LSw5JXRNj"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Vidanauta",
-          "url": "https://open.spotify.com/artist/2f2xsmfNoZhf5FiX0gcRtQ"
-        }
-      ],
-      "duration_ms": 146949,
-      "name": "Eltiempoesunacosa",
-      "url": "https://open.spotify.com/track/1ixPVKwUsibdEkROEqZyFK"
-    },
-    {
-      "added_at": "2025-05-30 06:00:11",
-      "album": {
         "name": "As vidas caladas",
         "url": "https://open.spotify.com/album/13khQGThr8cw5jaKqlIipO"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 175905,
       "name": "Siempre sale el sol en Barcelona - Live Session Chez Xefo Art Gallery",
       "url": "https://open.spotify.com/track/6WPgSIwrJG8gSbkGEYQWo8"
+    },
+    {
+      "added_at": "2025-05-30 06:00:11",
+      "album": {
+        "name": "Eltiempoesunacosa",
+        "url": "https://open.spotify.com/album/4EgKK1cLZf2G2LSw5JXRNj"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Vidanauta",
+          "url": "https://open.spotify.com/artist/2f2xsmfNoZhf5FiX0gcRtQ"
+        }
+      ],
+      "duration_ms": 146949,
+      "name": "Eltiempoesunacosa",
+      "url": "https://open.spotify.com/track/1ixPVKwUsibdEkROEqZyFK"
     },
     {
       "added_at": "2025-05-30 06:00:11",
@@ -1411,6 +1411,26 @@
     {
       "added_at": "2025-05-30 06:00:11",
       "album": {
+        "name": "Todas Las Banderas (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/3k4BeOYCwnx0Y843y0P3mF"
+      },
+      "artists": [
+        {
+          "name": "Carla Collado",
+          "url": "https://open.spotify.com/artist/4Fh3faF6TO5bKFMGChmE9S"
+        },
+        {
+          "name": "Pedro Pastor",
+          "url": "https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP"
+        }
+      ],
+      "duration_ms": 180250,
+      "name": "Todas Las Banderas (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/0GE2jclS5RVs3SDV5MZJK3"
+    },
+    {
+      "added_at": "2025-05-30 06:00:11",
+      "album": {
         "name": "Mareas",
         "url": "https://open.spotify.com/album/3kPLwdeutDLV0Kv9kkkNzj"
       },
@@ -1447,26 +1467,6 @@
     {
       "added_at": "2025-05-30 06:00:11",
       "album": {
-        "name": "Todas Las Banderas (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/3k4BeOYCwnx0Y843y0P3mF"
-      },
-      "artists": [
-        {
-          "name": "Carla Collado",
-          "url": "https://open.spotify.com/artist/4Fh3faF6TO5bKFMGChmE9S"
-        },
-        {
-          "name": "Pedro Pastor",
-          "url": "https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP"
-        }
-      ],
-      "duration_ms": 180250,
-      "name": "Todas Las Banderas (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/0GE2jclS5RVs3SDV5MZJK3"
-    },
-    {
-      "added_at": "2025-05-30 06:00:11",
-      "album": {
         "name": "Migas",
         "url": "https://open.spotify.com/album/0z8Py2L5re037O71sy22q9"
       },
@@ -1479,6 +1479,26 @@
       "duration_ms": 333409,
       "name": "Migas",
       "url": "https://open.spotify.com/track/3LzLD8MNdZ2IpLO2aKiQj6"
+    },
+    {
+      "added_at": "2025-05-30 06:00:11",
+      "album": {
+        "name": "Sonqollay",
+        "url": "https://open.spotify.com/album/0qGOGf0NK6bqgBcFLuZcDN"
+      },
+      "artists": [
+        {
+          "name": "GUADA",
+          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
+        },
+        {
+          "name": "SUR",
+          "url": "https://open.spotify.com/artist/4x7XUhdTBF3PAdULV0v0Yo"
+        }
+      ],
+      "duration_ms": 225462,
+      "name": "Sonqollay",
+      "url": "https://open.spotify.com/track/3zZQgQ9JeMZqUBPJYeKPtZ"
     },
     {
       "added_at": "2025-05-30 06:00:11",
@@ -1503,22 +1523,22 @@
     {
       "added_at": "2025-05-30 06:00:11",
       "album": {
-        "name": "Sonqollay",
-        "url": "https://open.spotify.com/album/0qGOGf0NK6bqgBcFLuZcDN"
+        "name": "Verdad Amarga",
+        "url": "https://open.spotify.com/album/49pwd1jZNm46A9cmnW6wJ6"
       },
       "artists": [
         {
-          "name": "GUADA",
-          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
+          "name": "Elif Sanchez",
+          "url": "https://open.spotify.com/artist/74v3N39tiIzpUsDLpHGz2B"
         },
         {
-          "name": "SUR",
-          "url": "https://open.spotify.com/artist/4x7XUhdTBF3PAdULV0v0Yo"
+          "name": "Rycardo Moreno",
+          "url": "https://open.spotify.com/artist/4SVkLbzIYhXV74QmNUePl3"
         }
       ],
-      "duration_ms": 225462,
-      "name": "Sonqollay",
-      "url": "https://open.spotify.com/track/3zZQgQ9JeMZqUBPJYeKPtZ"
+      "duration_ms": 266842,
+      "name": "Verdad Amarga",
+      "url": "https://open.spotify.com/track/1K7h603LAp9yRbrFfU4ReO"
     },
     {
       "added_at": "2025-05-30 06:00:11",
@@ -1611,26 +1631,6 @@
     {
       "added_at": "2025-05-30 06:00:11",
       "album": {
-        "name": "Verdad Amarga",
-        "url": "https://open.spotify.com/album/49pwd1jZNm46A9cmnW6wJ6"
-      },
-      "artists": [
-        {
-          "name": "Elif Sanchez",
-          "url": "https://open.spotify.com/artist/74v3N39tiIzpUsDLpHGz2B"
-        },
-        {
-          "name": "Rycardo Moreno",
-          "url": "https://open.spotify.com/artist/4SVkLbzIYhXV74QmNUePl3"
-        }
-      ],
-      "duration_ms": 266842,
-      "name": "Verdad Amarga",
-      "url": "https://open.spotify.com/track/1K7h603LAp9yRbrFfU4ReO"
-    },
-    {
-      "added_at": "2025-05-30 06:00:11",
-      "album": {
         "name": "El Estallido",
         "url": "https://open.spotify.com/album/4P98v55Jw2OQtU0TO62MW8"
       },
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2025-05-30 06:00:11",
       "album": {
-        "name": "C\u00f3ndor",
-        "url": "https://open.spotify.com/album/4L85zc8uuAPKnCBxJfJ7Lr"
-      },
-      "artists": [
-        {
-          "name": "Jard\u00edn L\u00e1ser",
-          "url": "https://open.spotify.com/artist/6rcAmfGF8SWFmqzZlwGTXz"
-        }
-      ],
-      "duration_ms": 230921,
-      "name": "C\u00f3ndor",
-      "url": "https://open.spotify.com/track/50RP5Exy718OXAQzjzMcVF"
-    },
-    {
-      "added_at": "2025-05-30 06:00:11",
-      "album": {
         "name": "Palomita de Mar",
         "url": "https://open.spotify.com/album/1KFZYysIFA9G1Ej0yVxVMR"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 257586,
       "name": "Palomita de Mar",
       "url": "https://open.spotify.com/track/1iPYMSh2ck9HfTsHVCP89k"
+    },
+    {
+      "added_at": "2025-05-30 06:00:11",
+      "album": {
+        "name": "C\u00f3ndor",
+        "url": "https://open.spotify.com/album/4L85zc8uuAPKnCBxJfJ7Lr"
+      },
+      "artists": [
+        {
+          "name": "Jard\u00edn L\u00e1ser",
+          "url": "https://open.spotify.com/artist/6rcAmfGF8SWFmqzZlwGTXz"
+        }
+      ],
+      "duration_ms": 230921,
+      "name": "C\u00f3ndor",
+      "url": "https://open.spotify.com/track/50RP5Exy718OXAQzjzMcVF"
     },
     {
       "added_at": "2025-05-30 06:00:11",

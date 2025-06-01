@@ -1,6 +1,6 @@
 {
   "description": "una lloradita y a seguirle \ud83e\udd72",
-  "num_followers": 141004,
+  "num_followers": 141078,
   "original_name": "pa llorar",
   "owner": {
     "name": "Spotify",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2025-05-23 06:00:33",
       "album": {
+        "name": "00:00",
+        "url": "https://open.spotify.com/album/371qTqzTdc0reynwwfM2Bt"
+      },
+      "artists": [
+        {
+          "name": "Siddhartha",
+          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+        }
+      ],
+      "duration_ms": 215251,
+      "name": "00:00",
+      "url": "https://open.spotify.com/track/7l4cSfrED7RrtT0t5CSOzv"
+    },
+    {
+      "added_at": "2025-05-23 06:00:33",
+      "album": {
         "name": "Abr\u00e1zame",
         "url": "https://open.spotify.com/album/2YZnqChmcKcsTS6tTg0fuL"
       },
@@ -1223,34 +1239,18 @@
     {
       "added_at": "2025-05-23 06:00:33",
       "album": {
-        "name": "00:00",
-        "url": "https://open.spotify.com/album/371qTqzTdc0reynwwfM2Bt"
+        "name": "Corridos Pa Mis Compas Y Rolitas Pa Mi Ex",
+        "url": "https://open.spotify.com/album/24VJ6GN4qzkMVqwNif5HeU"
       },
       "artists": [
         {
-          "name": "Siddhartha",
-          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 215251,
-      "name": "00:00",
-      "url": "https://open.spotify.com/track/7l4cSfrED7RrtT0t5CSOzv"
-    },
-    {
-      "added_at": "2025-05-23 06:00:33",
-      "album": {
-        "name": "Un Besito M\u00e1s",
-        "url": "https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3"
-      },
-      "artists": [
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        }
-      ],
-      "duration_ms": 215112,
-      "name": "Ecos De Amor",
-      "url": "https://open.spotify.com/track/3lI5dscCDez8cF6LF3Me7F"
+      "duration_ms": 158545,
+      "name": "Lo Que Hay X Aqu\u00ed",
+      "url": "https://open.spotify.com/track/7oJ3N7oVSwoa5sdpg6NCE6"
     },
     {
       "added_at": "2025-05-23 06:00:33",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2025-05-23 06:00:33",
       "album": {
-        "name": "Corridos Pa Mis Compas Y Rolitas Pa Mi Ex",
-        "url": "https://open.spotify.com/album/24VJ6GN4qzkMVqwNif5HeU"
+        "name": "Un Besito M\u00e1s",
+        "url": "https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3"
       },
       "artists": [
         {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
         }
       ],
-      "duration_ms": 158545,
-      "name": "Lo Que Hay X Aqu\u00ed",
-      "url": "https://open.spotify.com/track/7oJ3N7oVSwoa5sdpg6NCE6"
+      "duration_ms": 215112,
+      "name": "Ecos De Amor",
+      "url": "https://open.spotify.com/track/3lI5dscCDez8cF6LF3Me7F"
     },
     {
       "added_at": "2025-05-23 06:00:33",
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2025-05-23 06:00:33",
       "album": {
-        "name": "Si Volviera A Nacer",
-        "url": "https://open.spotify.com/album/0rc8MShj37cLImmPbUt8Pq"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        },
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        }
-      ],
-      "duration_ms": 219720,
-      "name": "Te Alejas M\u00e1s De M\u00ed",
-      "url": "https://open.spotify.com/track/62xokumU0wMqOSsBuefhmB"
-    },
-    {
-      "added_at": "2025-05-23 06:00:33",
-      "album": {
         "name": "DUE\u00d1O DE TI",
         "url": "https://open.spotify.com/album/0h4n1Mx0fmZQYm27TfS7xR"
       },
@@ -1447,6 +1427,26 @@
       "duration_ms": 212222,
       "name": "DUE\u00d1O DE TI",
       "url": "https://open.spotify.com/track/3fVoK5VLXYksHYMDf16RIT"
+    },
+    {
+      "added_at": "2025-05-23 06:00:33",
+      "album": {
+        "name": "Si Volviera A Nacer",
+        "url": "https://open.spotify.com/album/0rc8MShj37cLImmPbUt8Pq"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "duration_ms": 219720,
+      "name": "Te Alejas M\u00e1s De M\u00ed",
+      "url": "https://open.spotify.com/track/62xokumU0wMqOSsBuefhmB"
     },
     {
       "added_at": "2025-05-23 06:00:33",

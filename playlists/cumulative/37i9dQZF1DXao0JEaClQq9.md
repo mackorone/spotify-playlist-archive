@@ -4,7 +4,7 @@
 
 > Modern heavenly sounds\. Cover: caroline x Caroline Polachek
 
-704 songs - 1 day 20 hr 19 min
+705 songs - 1 day 20 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,7 +214,7 @@
 | [Entertnmnt](https://open.spotify.com/track/5aavkoG5D3zRmeLQdHn8cb) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Entertnmnt](https://open.spotify.com/album/02fYzuPRdFf1ur1A4ORWgU) | 3:14 | 2021-06-03 | 2022-07-28 |
 | [Eso Que Tú Llamas Amor](https://open.spotify.com/track/66qnFSBNzTAeOgVsadRkKi) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ), [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Eso Que Tú Llamas Amor](https://open.spotify.com/album/3o0rSyy7XEtDcFSiGvX8jI) | 2:55 | 2025-02-07 |  |
 | [Esrever Ni Rehtaf \- Edit](https://open.spotify.com/track/5yC407MtN8N1DFkn7FSHUY) | [The Vernon Spring](https://open.spotify.com/artist/2gzcB4vMIStEDZiQlvywGm), [aden](https://open.spotify.com/artist/2TmLX0MEiGgzQfkuiunbHD) | [Esrever Ni Rehtaf](https://open.spotify.com/album/5PAjJjJfSJgcgylapyfnYx) | 4:20 | 2025-05-02 |  |
-| [Eusexua](https://open.spotify.com/track/7FdDBpqrdpWtdAromLpv4V) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [Eusexua](https://open.spotify.com/album/79TS6ylaLCH8VRFSLhvLvj) | 4:23 | 2024-09-13 |  |
+| [Eusexua](https://open.spotify.com/track/7FdDBpqrdpWtdAromLpv4V) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [Eusexua](https://open.spotify.com/album/79TS6ylaLCH8VRFSLhvLvj) | 4:23 | 2024-09-13 | 2025-06-01 |
 | [Even If It Hurts](https://open.spotify.com/track/4CwchvMNlpQSpQGKEK3sAw) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [La Linda](https://open.spotify.com/album/05ZdcQ2F8wSobCk3ypo15O) | 4:11 | 2021-06-03 | 2022-07-29 |
 | [Evergreen](https://open.spotify.com/track/6YtylNU7D1S5SeO529q2AN) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Dreaming of David](https://open.spotify.com/album/1pnXY39h7XjEYGmS6PeKUZ) | 3:44 | 2021-06-03 | 2023-04-01 |
 | [Everything Is Going To Be Alright](https://open.spotify.com/track/1yvtCuX0Zd6b5xs4DWwGon) | [Princess Chelsea](https://open.spotify.com/artist/6SrA4711bML5NvPO13Tr6t) | [Everything Is Going To Be Alright](https://open.spotify.com/album/2tNbPHuZTwMTQqUrGwESGm) | 3:50 | 2022-03-07 | 2022-07-15 |
@@ -436,6 +436,7 @@
 | [Movies](https://open.spotify.com/track/6f4itfvWzS59Qu7JWorhxn) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Titanic Rising](https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk) | 5:53 | 2021-06-03 |  |
 | [Multiply](https://open.spotify.com/track/0snbwXpGlnIFHbUogLZUsP) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Multiply](https://open.spotify.com/album/4RFqKxDDXCOukzy2RzTmDZ) | 2:16 | 2021-06-03 | 2022-04-23 |
 | [Multiply](https://open.spotify.com/track/7epHw01JrUjS1kKdxdENTE) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Digital Meadow](https://open.spotify.com/album/1Hs5SAioUMz5JA1qw8zrmZ) | 2:16 | 2022-06-03 | 2022-07-29 |
+| [Muse](https://open.spotify.com/track/1AUsxFlpISJH7EJ8uNksye) | [SOFIA ISELLA](https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2) | [I'm camera .](https://open.spotify.com/album/4dZSsJjwlpKl8PY77rSS16) | 4:46 | 2025-05-23 |  |
 | [My Everything](https://open.spotify.com/track/7AnKq274KBoXdauPkKqKBk) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Two Lives](https://open.spotify.com/album/2iRVSj9OgvwzDVPGoYoG2U) | 3:21 | 2025-04-04 | 2025-05-28 |
 | [My Friend](https://open.spotify.com/track/1HaiuKlLZqB1J1od7sqGhc) | [kelz](https://open.spotify.com/artist/5hb3nmzCwPz0GRlLQuAJJw) | [5am and I Can't Sleep](https://open.spotify.com/album/6J6UNR6FsyzDamCimQC9W6) | 5:27 | 2022-05-20 | 2022-06-19 |
 | [My Friend](https://open.spotify.com/track/3EA40Yw2x2iyCvoLi3C2mN) | [kelz](https://open.spotify.com/artist/5hb3nmzCwPz0GRlLQuAJJw) | [My Friend](https://open.spotify.com/album/75z4yrptTNziP4iKQzzBQ9) | 5:27 | 2022-04-08 | 2022-05-30 |

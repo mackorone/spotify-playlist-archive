@@ -1,13 +1,29 @@
 {
   "description": "This is Lil Tecca. The essential tracks, all in one playlist.",
-  "num_followers": 93405,
+  "num_followers": 93523,
   "original_name": "This Is Lil Tecca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDejgAAAAAD53mjNQhvMs0j9ytQmlsnQ",
+  "snapshot_id": "aDj1AAAAAAAMtmVtZbkO4h7hum9qykey",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "OWA OWA",
+        "url": "https://open.spotify.com/album/4Yhp37rgKSp0FZwEdwW0S7"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 132380,
+      "name": "OWA OWA",
+      "url": "https://open.spotify.com/track/5E3XPRJVgYnxhMAFI7nZ7N"
+    },
     {
       "added_at": null,
       "album": {
@@ -899,30 +915,6 @@
       "duration_ms": 241655,
       "name": "CHOPPA SHOOT THE LOUDEST (with Chief Keef, feat.Trippie Redd)",
       "url": "https://open.spotify.com/track/2MyQK6cKu9IAzNXiBm7TD0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "She Want Some More (feat. Ken Carson)",
-        "url": "https://open.spotify.com/album/2MNgdTVRIyedTK7n3Ej46C"
-      },
-      "artists": [
-        {
-          "name": "Internet Money",
-          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
-        },
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        },
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/6BURJsrwD35kYYZlpMw2Xs"
-        }
-      ],
-      "duration_ms": 184614,
-      "name": "She Want Some More (feat. Ken Carson)",
-      "url": "https://open.spotify.com/track/6MXlAZuSUsbKAN68ErtWj5"
     }
   ],
   "unique_name": "This Is Lil Tecca",

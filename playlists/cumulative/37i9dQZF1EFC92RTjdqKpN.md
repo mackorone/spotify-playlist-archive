@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1D1lDfaOy483s8BIQRjBSS">JHart</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-217 songs - 11 hr 49 min
+219 songs - 11 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,8 @@
 | [Good Thing](https://open.spotify.com/track/5PPOHLJQdAudYf2bu4owjZ) | [Jake Miller](https://open.spotify.com/artist/3gggmBN0erstm3YJvEGe3t) | [Overnight](https://open.spotify.com/album/00lWTbQ4MQezqzl0S8M37D) | 3:57 | 2024-02-27 |  |
 | [Good Things Fall Apart \(with Jon Bellion\)](https://open.spotify.com/track/3LxG9HkMMFP0MZuiw3O2rF) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [ASCEND](https://open.spotify.com/album/60xcVwuQJAOyu11xf9mObS) | 3:36 | 2024-02-27 |  |
 | [Good Things Fall Apart vs\. Sad Songs \(With Said The Sky feat\. Annika Wells\)](https://open.spotify.com/track/2DqhE7xzpGNsKYbptqblJg) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Annika Wells](https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ) | [ASCEND \(Tour Edits\)](https://open.spotify.com/album/6KICcLGlQnS7908qVzbhP6) | 6:06 | 2024-02-27 |  |
-| [Good Time \(feat\. Pitbull\)](https://open.spotify.com/track/3423M2NvBCY9yvmrsGqQpA) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Party Never Ends](https://open.spotify.com/album/07hKp30OfkSekfN5IsmShA) | 3:23 | 2024-02-27 |  |
+| [Good Time \(feat\. Pitbull\)](https://open.spotify.com/track/1bLVsavnUruupOI0Pxdm6I) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Good Time \(feat\. Pitbull\)](https://open.spotify.com/album/1MiqNzBTyRXLH4QMbJRkj9) | 3:23 | 2025-05-31 |  |
+| [Good Time \(feat\. Pitbull\)](https://open.spotify.com/track/3423M2NvBCY9yvmrsGqQpA) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Party Never Ends](https://open.spotify.com/album/07hKp30OfkSekfN5IsmShA) | 3:23 | 2024-02-27 | 2025-06-01 |
 | [Grip](https://open.spotify.com/track/1SUpeDDpc0z3lpru5ON1hC) | [Alec Bailey](https://open.spotify.com/artist/0Y660vMBkPvMxMV9QTg11v) | [Grip](https://open.spotify.com/album/2K5GlCR05UcqeQmnE2B6qP) | 2:48 | 2024-02-27 |  |
 | [Happy](https://open.spotify.com/track/6jbvtCxnmDhqIMb36AE94R) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Super Over](https://open.spotify.com/album/0iOqQkGiycHp33vWKGdyqf) | 2:44 | 2024-02-27 |  |
 | [Happy And You Know It](https://open.spotify.com/track/4h2WUyIHeiaJSLk7xnReBT) | [Samantha Harvey](https://open.spotify.com/artist/78c7nvjh7AbOgTNV7QKMxZ) | [Happy And You Know It](https://open.spotify.com/album/2ASwd53DqWKNtHVKoGoUP2) | 3:12 | 2024-02-27 |  |
@@ -175,7 +176,8 @@
 | [Summer](https://open.spotify.com/track/6s5i9piq629tK2Sfb9duiL) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Summer](https://open.spotify.com/album/04MBUojWMVW7DIYsgNcxzk) | 2:54 | 2024-02-27 |  |
 | [Super Over](https://open.spotify.com/track/1H1aXt2S07OeZ0wDJo3KMz) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Super Over](https://open.spotify.com/album/0iOqQkGiycHp33vWKGdyqf) | 2:44 | 2024-02-27 |  |
 | [Surrender \(feat\. J Hart\) \- Protoculture Radio Edit](https://open.spotify.com/track/1mlNZa1rAwSt8fG9jUDwoj) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [J Hart](https://open.spotify.com/artist/0CwAIKaq06Ep8gtTJ6zy0d) | [25 Years Of Perfecto Records \(Mixed by Paul Oakenfold\)](https://open.spotify.com/album/6AWPUXVvcxoh2aR3GMrXFL) | 3:32 | 2024-02-27 |  |
-| [Take Me Higher](https://open.spotify.com/track/1SH0feHEZ3qny9JIZPsq4P) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Party Never Ends](https://open.spotify.com/album/07hKp30OfkSekfN5IsmShA) | 3:00 | 2024-02-27 |  |
+| [Take Me Higher](https://open.spotify.com/track/1SH0feHEZ3qny9JIZPsq4P) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Party Never Ends](https://open.spotify.com/album/07hKp30OfkSekfN5IsmShA) | 3:00 | 2024-02-27 | 2025-06-01 |
+| [Take Me Higher](https://open.spotify.com/track/1x2nB4SHNWlp0aqtvBBvzu) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Take Me Higher](https://open.spotify.com/album/0LmEG3bIDEk1cpW0ckMOIn) | 3:00 | 2025-05-31 |  |
 | [Take You](https://open.spotify.com/track/4PXOSe2WbmFhmJDiqrDw6W) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Believe](https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN) | 3:40 | 2024-02-27 |  |
 | [Taking Me Back](https://open.spotify.com/track/6A9mMKHYdeUJGvQDKChC0C) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Malibu Nights](https://open.spotify.com/album/6SWmGozzQDUaczHXMuE8Za) | 3:14 | 2024-02-27 |  |
 | [Taste](https://open.spotify.com/track/7MeoVQJEZjI9WDFEm0VJ4U) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [Betty](https://open.spotify.com/album/1HZ53O7uBXyyYCaD7jY8I6) | 3:22 | 2024-02-27 | 2024-07-06 |

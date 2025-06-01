@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8shr5OgBdbQ.md) - [plain]
 
 > centuries\-old sailor songs gone viral \- it's sea shanty season, baby.
 
-[Spotify](https://open.spotify.com/user/spotify) - 550,518 likes - 70 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 550,650 likes - 70 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8shr5OgBdbQ.md) - [plain]
 | 51 | [The Forester](https://open.spotify.com/track/5umBVyJjhaz4ECIyFhUFsq) | [Ellen Cohn](https://open.spotify.com/artist/35WtfEvSZ2J9LXBE7WnVcu) | [Sea Chanties and Forecastle Songs at Mystic Seaport](https://open.spotify.com/album/5xf3FzJxt39U0zqGuPmIgP) | 0:43 |
 | 52 | [Wellerman](https://open.spotify.com/track/3oUuRNgyIuiqVTWLCChp3s) | [The Longest Johns](https://open.spotify.com/artist/5k979N1TnPncUyqlXlaRSv) | [Between Wind and Water](https://open.spotify.com/album/00B1vpnbtfEPYWOBL5jp6h) | 2:18 |
 | 53 | [Bully in the Alley](https://open.spotify.com/track/2EHYO5t2AtWVgCuwk8N5Uq) | [Kimber's Men](https://open.spotify.com/artist/1cwHLCOp0xUtjZjSMycdNa) | [See You When the Sun Goes Down](https://open.spotify.com/album/4B6jXXXQEgEOUacD8yWJbz) | 3:41 |
-| 54 | [All For Me Grog](https://open.spotify.com/track/3qLrwfaXYmMj1k3qD8CRFN) | [The X\-Seamen's Institute](https://open.spotify.com/artist/749MWOmKbd9KMbVuLZztYX) | [Sing at the South Street Seaport](https://open.spotify.com/album/2vD7zxJHiATVa9aGBKL3b0) | 2:58 |
+| 54 | [All For Me Grog](https://open.spotify.com/track/3qLrwfaXYmMj1k3qD8CRFN) | [The X\-Seamen's Institute](https://open.spotify.com/artist/749MWOmKbd9KMbVuLZztYX) | [Sings at the South Street Seaport](https://open.spotify.com/album/2vD7zxJHiATVa9aGBKL3b0) | 2:58 |
 | 55 | [Randy Dandy Oh](https://open.spotify.com/track/6Fv0O8eHNcWO1DmF0EMrRc) | [Sean Dagher](https://open.spotify.com/artist/5JgxqXmh1TrVDZn7gAgqLw), [Nils Brown](https://open.spotify.com/artist/42cM14lDAB0KzoBWQ86TWu), [Michiel Schrey](https://open.spotify.com/artist/2KgIhGBEJK4W6Uw5WVeoaV), [Assassin's Creed](https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC) | [Assassin's Creed 4: Black Flag \(Sea Shanty Edition\) \[Original Game Soundtrack\]](https://open.spotify.com/album/2lMgz2BBwwzkc9ZfNB9zYi) | 1:35 |
 | 56 | [The Voyage of the James Caird](https://open.spotify.com/track/5wVeEIDipWe8qH8uPkAAEv) | [Graeme James](https://open.spotify.com/artist/09b4q9Vfmuvxb8LuOrhp7W) | [The Weight of Many Winters](https://open.spotify.com/album/66ohN6TdRvK9opK3FT4uZ1) | 4:50 |
 | 57 | [Pump Shanty](https://open.spotify.com/track/7EJGWpYxtTOrJSEA09ihGZ) | [The Sheringham Shantymen](https://open.spotify.com/artist/06bi895n8wIOUi35sk65gJ) | [Songs For Seafarers](https://open.spotify.com/album/4PEk6CidXOxiJOPrKPOuEg) | 3:02 |

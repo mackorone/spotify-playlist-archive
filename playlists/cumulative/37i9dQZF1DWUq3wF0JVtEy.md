@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-531 songs - 1 day 1 hr 53 min
+532 songs - 1 day 1 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Afterbloom \(feat\. Deza\)](https://open.spotify.com/track/6DploCSZVf5gvIP7WBBU6S) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [Gustavo Dotch](https://open.spotify.com/artist/4BVrKqgmtI33WIxB6aabYZ), [Deza](https://open.spotify.com/artist/2HoaVzOMwwXNauX5cjdXwg) | [Afterbloom \(feat\. Deza\)](https://open.spotify.com/album/4VHGQcaaY2tPDJnSzt6IEm) | 2:34 | 2021-10-29 | 2022-12-17 |
 | [Afterparty](https://open.spotify.com/track/1P8mmV6llhUuj8sz3By1q1) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Hook N Sling](https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D) | [Afterparty](https://open.spotify.com/album/3EzveG4GtcBRVCdsIYmZgp) | 2:40 | 2025-04-11 |  |
 | [Afterparty](https://open.spotify.com/track/4j5UF24fwzvkw6QtNH5YtK) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Hook N Sling](https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D) | [Afterparty](https://open.spotify.com/album/18wJD20Y5chJ424ffBdwV6) | 2:40 | 2022-12-16 | 2024-04-19 |
+| [All Night](https://open.spotify.com/track/6wpIGFUcDUSg2l75npKFdU) | [Mesto](https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9), [Vluarr](https://open.spotify.com/artist/0ClkclGbzsEY0aBtqq8MrB) | [All Night & Gemini](https://open.spotify.com/album/7hmuaX4utQQELTvPIovNUn) | 2:31 | 2025-05-30 |  |
 | [All That You Need](https://open.spotify.com/track/2tPecaIFLCxPWRjZkoqJoQ) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [All That You Need](https://open.spotify.com/album/75s5BUC7M1SCw8ORUjkbxD) | 2:40 | 2022-09-09 | 2022-09-12 |
 | [All That You Need](https://open.spotify.com/track/7K8B2mdPHwZKhyShkl55Bh) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [All That You Need](https://open.spotify.com/album/1e5Rj4woY91M2jw7lNUMBt) | 2:40 | 2022-09-09 | 2024-04-19 |
 | [Alone](https://open.spotify.com/track/05u2bMqTUNgD5CnxM7pEcU) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady) | [Alone](https://open.spotify.com/album/2VXvzPE7jTOol7ALzyTAfL) | 2:29 | 2021-10-29 | 2022-07-29 |
@@ -103,7 +104,7 @@
 | [Combo](https://open.spotify.com/track/6nAWXxK1jWkYWzExetkboS) | [Karma Child](https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7) | [Combo](https://open.spotify.com/album/6stJfQJm5ooEJJoufO41Mn) | 2:41 | 2023-12-08 | 2024-09-16 |
 | [Come Together](https://open.spotify.com/track/33FAo8SU8bu8o5o2RMvQuZ) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [DJ Glen](https://open.spotify.com/artist/7FhUEuhPe1odyNav1iHfvd) | [Come Together](https://open.spotify.com/album/0Z4NciZWgkICzAsdchEWep) | 3:39 | 2023-03-24 | 2023-06-03 |
 | [Concentrate](https://open.spotify.com/track/3BmJBrQVekUXuUZbaGHjzU) | [MAKJ](https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C), [TJR](https://open.spotify.com/artist/2L8yW8GIoirHEdeW4bWQXq) | [Concentrate](https://open.spotify.com/album/7JXGN7gAAXh8FGr04Y8qn3) | 2:48 | 2023-12-15 | 2024-01-27 |
-| [Crazy](https://open.spotify.com/track/4ij2abVupX0NTWG5TuKe02) | [Rnbstylerz](https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg) | [Crazy](https://open.spotify.com/album/2gZzx7A5qnSbcO7OmTPAja) | 2:46 | 2023-10-06 |  |
+| [Crazy](https://open.spotify.com/track/4ij2abVupX0NTWG5TuKe02) | [Rnbstylerz](https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg) | [Crazy](https://open.spotify.com/album/2gZzx7A5qnSbcO7OmTPAja) | 2:46 | 2023-10-06 | 2025-06-01 |
 | [Crying Rainbows](https://open.spotify.com/track/4OGZ1wSoJFi84gxk2kflAc) | [Thomas Gold](https://open.spotify.com/artist/1XLjkBxFokuDTlHt0mQkRe), [Lucas Butler](https://open.spotify.com/artist/50rD5iXXJY35zmuYs2POjk), [Some](https://open.spotify.com/artist/21Sh5EcNtL9tl8YeT7t81M) | [Crying Rainbows](https://open.spotify.com/album/2phQvsZHBah8uJ9R8M6OQc) | 2:54 | 2024-08-30 | 2025-03-08 |
 | [Crystallise](https://open.spotify.com/track/7jJfACKhaxK3kF3bda6AVS) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Crystallise](https://open.spotify.com/album/11faQiUnyNFKWJYpj1HXsK) | 3:02 | 2021-10-29 | 2022-11-12 |
 | [Cum Check This](https://open.spotify.com/track/7H5SIexFiXI5Li5qyV2TID) | [FETISH](https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o) | [Cum Check This](https://open.spotify.com/album/3b7bk20U1R74sAi7xKHQxJ) | 3:11 | 2021-10-29 | 2022-06-07 |

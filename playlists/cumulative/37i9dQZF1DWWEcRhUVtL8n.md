@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: girl in red
 
-2,125 songs - 4 day 16 hr 29 min
+2,126 songs - 4 day 16 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -896,7 +896,7 @@
 | [I Can't Get My Head Around You](https://open.spotify.com/track/66Ew9TmVnxjg8HTjsFoSts) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Drop Cherries](https://open.spotify.com/album/7asv9hl6KprOE0AR0kubiL) | 3:26 | 2023-03-24 | 2024-02-09 |
 | [I Can't Get My Head Around You](https://open.spotify.com/track/6lLYb9KBshbR8Wp5hoWmUW) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [I Can't Get My Head Around You](https://open.spotify.com/album/7yyWIkHQjDMsH8ij1Nuj6e) | 3:26 | 2023-03-24 | 2023-04-10 |
 | [I Can't Handle Change](https://open.spotify.com/track/0I1eFRytp4XRhLCjT6tZm7) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I Can't Handle Change](https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d) | 3:18 | 2021-03-19 | 2021-05-05 |
-| [i cant tell \(love my money\)](https://open.spotify.com/track/0oZ4efjL1w7SQPAo6ud5lI) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [dj gummy bear](https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw) | [i cant tell \(love my money\)](https://open.spotify.com/album/0Y2zQQCPC9PGa24Jku0rle) | 2:43 | 2024-11-22 |  |
+| [i cant tell \(love my money\)](https://open.spotify.com/track/0oZ4efjL1w7SQPAo6ud5lI) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [dj gummy bear](https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw) | [i cant tell \(love my money\)](https://open.spotify.com/album/0Y2zQQCPC9PGa24Jku0rle) | 2:43 | 2024-11-22 | 2025-06-01 |
 | [I Can’t Grow Up](https://open.spotify.com/track/5b2teiHzEXQQJJfa0btYpF) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [I Can't Grow Up](https://open.spotify.com/album/0yQuEAGDMu7hJKLWfX11Vm) | 3:20 | 2022-10-21 | 2022-11-12 |
 | [i could die](https://open.spotify.com/track/3M94jcrpYyJpMDkvoriPYC) | [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [i could die](https://open.spotify.com/album/4qZnP5lDjnUhm9p8doZJBo) | 2:35 | 2022-05-06 | 2022-05-14 |
 | [i deserve 2 b alone](https://open.spotify.com/track/2NKvrozwURLPXnj3chhnfD) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR) | 2:45 | 2021-05-26 | 2022-04-11 |
@@ -1330,6 +1330,7 @@
 | [Next to Normal](https://open.spotify.com/track/7pXCcvUJSPQ0lFj4BhETmW) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Next to Normal](https://open.spotify.com/album/1fGzhjJQBQ7c3hhJY77gUJ) | 3:10 | 2022-01-14 | 2022-04-20 |
 | [NICE GUY](https://open.spotify.com/track/6SohMUgNaV6fcoTjBvmQSo) | [Yxngxr1](https://open.spotify.com/artist/2jwRHcdgkRhelYEMqndDKe), [Morgan Reese](https://open.spotify.com/artist/4Ro2elWptpQoQOLV1F2JoR) | [NICE GUY](https://open.spotify.com/album/33MTo6GqRVWk7y9wPIO7PU) | 2:18 | 2022-04-15 | 2022-05-07 |
 | [nice pup](https://open.spotify.com/track/44ZzrQnqhQt3bAOOJ9iQbE) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [puppy luv](https://open.spotify.com/album/24MK23qVssP0WYEeb6lbYq) | 2:43 | 2022-04-15 | 2022-07-29 |
+| [Nice To Each Other](https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Nice To Each Other](https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV) | 3:29 | 2025-05-30 |  |
 | [Nicer](https://open.spotify.com/track/3mL3jFNJ2irVn02EdkYBu2) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Nicer](https://open.spotify.com/album/51HQqGdM5M4BBvSHEKaffN) | 3:22 | 2021-09-24 | 2022-04-16 |
 | [Night Garden \(feat\. Kenny Beats & Bakar\)](https://open.spotify.com/track/1aFL6FVclpfPafOGekKkna) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC), [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Night Garden \(feat\. Kenny Beats & Bakar\)](https://open.spotify.com/album/3mUlJParu9HRpG7KH4QxHZ) | 3:41 | 2021-01-21 | 2021-10-14 |
 | [Night Vision](https://open.spotify.com/track/1vZ0a1HcvtsiJf7Erf6q3h) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [Night Vision](https://open.spotify.com/album/1pCV7Zbvq3eQn7Jotv7fTb) | 1:58 | 2022-04-15 | 2022-04-21 |

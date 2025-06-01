@@ -1,6 +1,6 @@
 {
   "description": "Go hard or go home. Cover: skantia",
-  "num_followers": 70534,
+  "num_followers": 70559,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
@@ -595,46 +595,6 @@
     {
       "added_at": "2025-05-29 23:00:11",
       "album": {
-        "name": "Satellite (SOTA Remix)",
-        "url": "https://open.spotify.com/album/3PHykqDZ7hobh7byOyh0HZ"
-      },
-      "artists": [
-        {
-          "name": "Dimension",
-          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
-        },
-        {
-          "name": "Alison Wonderland",
-          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
-        },
-        {
-          "name": "SOTA",
-          "url": "https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP"
-        }
-      ],
-      "duration_ms": 177931,
-      "name": "Satellite - SOTA Remix",
-      "url": "https://open.spotify.com/track/1whhLeg6WV3LiQne0adJW4"
-    },
-    {
-      "added_at": "2025-05-29 23:00:11",
-      "album": {
-        "name": "High Energy",
-        "url": "https://open.spotify.com/album/1V56p7Zy759zwU8DCHZRD4"
-      },
-      "artists": [
-        {
-          "name": "Mozey",
-          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
-        }
-      ],
-      "duration_ms": 183085,
-      "name": "High Energy",
-      "url": "https://open.spotify.com/track/1RKSSo63jM1JVH6aZ8MU30"
-    },
-    {
-      "added_at": "2025-05-29 23:00:11",
-      "album": {
         "name": "Sientelo (Sota & Circadian Remix)",
         "url": "https://open.spotify.com/album/3nRCHcfRdwHgKkYyYYYj4h"
       },
@@ -659,6 +619,46 @@
       "duration_ms": 237257,
       "name": "Sientelo - Sota & Circadian Remix",
       "url": "https://open.spotify.com/track/2G1ePysdwwjtoxB0qSacjd"
+    },
+    {
+      "added_at": "2025-05-29 23:00:11",
+      "album": {
+        "name": "High Energy",
+        "url": "https://open.spotify.com/album/1V56p7Zy759zwU8DCHZRD4"
+      },
+      "artists": [
+        {
+          "name": "Mozey",
+          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
+        }
+      ],
+      "duration_ms": 183085,
+      "name": "High Energy",
+      "url": "https://open.spotify.com/track/1RKSSo63jM1JVH6aZ8MU30"
+    },
+    {
+      "added_at": "2025-05-29 23:00:11",
+      "album": {
+        "name": "Satellite (SOTA Remix)",
+        "url": "https://open.spotify.com/album/3PHykqDZ7hobh7byOyh0HZ"
+      },
+      "artists": [
+        {
+          "name": "Dimension",
+          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
+        },
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        },
+        {
+          "name": "SOTA",
+          "url": "https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP"
+        }
+      ],
+      "duration_ms": 177931,
+      "name": "Satellite - SOTA Remix",
+      "url": "https://open.spotify.com/track/1whhLeg6WV3LiQne0adJW4"
     },
     {
       "added_at": "2025-05-29 23:00:11",
@@ -691,26 +691,6 @@
     {
       "added_at": "2025-05-29 23:00:11",
       "album": {
-        "name": "Eat $hit",
-        "url": "https://open.spotify.com/album/6vPFYzc1O68UsQVaM28k03"
-      },
-      "artists": [
-        {
-          "name": "Macky Gee",
-          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
-        },
-        {
-          "name": "AIRGLO",
-          "url": "https://open.spotify.com/artist/6J9iVHqjoo2ZCXq4kVgm4Z"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Eat $hit",
-      "url": "https://open.spotify.com/track/2RwD63NEvCaJPiNOM0knae"
-    },
-    {
-      "added_at": "2025-05-29 23:00:11",
-      "album": {
         "name": "PURPOSE",
         "url": "https://open.spotify.com/album/0gXmfiCDIV0DRnHakUxXjU"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 167314,
       "name": "PURPOSE",
       "url": "https://open.spotify.com/track/35mele207P8xoKXOsTh52L"
+    },
+    {
+      "added_at": "2025-05-29 23:00:11",
+      "album": {
+        "name": "Eat $hit",
+        "url": "https://open.spotify.com/album/6vPFYzc1O68UsQVaM28k03"
+      },
+      "artists": [
+        {
+          "name": "Macky Gee",
+          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
+        },
+        {
+          "name": "AIRGLO",
+          "url": "https://open.spotify.com/artist/6J9iVHqjoo2ZCXq4kVgm4Z"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Eat $hit",
+      "url": "https://open.spotify.com/track/2RwD63NEvCaJPiNOM0knae"
     },
     {
       "added_at": "2025-05-29 23:00:11",

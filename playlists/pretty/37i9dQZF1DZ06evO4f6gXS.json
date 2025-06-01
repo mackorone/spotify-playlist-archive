@@ -1,12 +1,12 @@
 {
   "description": "This is The Jones Girls. The essential tracks, all in one playlist.",
-  "num_followers": 3384,
+  "num_followers": 3385,
   "original_name": "This Is The Jones Girls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDejgAAAAABIp0aUKDQtPWXSjlSYa+KL",
+  "snapshot_id": "aDj1AAAAAABp7GV0D4RzXk/iaLbWhy3C",
   "tracks": [
     {
       "added_at": null,
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 344000,
-      "name": "What a Fool",
-      "url": "https://open.spotify.com/track/5h1Xn0K0ke0E7fey2kXWtW"
+      "duration_ms": 254533,
+      "name": "Baby I'm Yours",
+      "url": "https://open.spotify.com/track/2WZH1nBAsdKIcaN73w1e4v"
     },
     {
       "added_at": null,
@@ -860,25 +860,9 @@
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 254533,
-      "name": "Baby I'm Yours",
-      "url": "https://open.spotify.com/track/2WZH1nBAsdKIcaN73w1e4v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Luxury Soul 2018",
-        "url": "https://open.spotify.com/album/3wGtvC2F8Bw7ztDIl3ly3L"
-      },
-      "artists": [
-        {
-          "name": "The Jones Girls",
-          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
-        }
-      ],
-      "duration_ms": 157133,
-      "name": "If You Don't Start Nothing",
-      "url": "https://open.spotify.com/track/3TdBD4lD7gylpWdNsRHx8P"
+      "duration_ms": 344000,
+      "name": "What a Fool",
+      "url": "https://open.spotify.com/track/5h1Xn0K0ke0E7fey2kXWtW"
     },
     {
       "added_at": null,
@@ -915,13 +899,29 @@
     {
       "added_at": null,
       "album": {
+        "name": "Luxury Soul 2018",
+        "url": "https://open.spotify.com/album/3wGtvC2F8Bw7ztDIl3ly3L"
+      },
+      "artists": [
+        {
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+        }
+      ],
+      "duration_ms": 157133,
+      "name": "If You Don't Start Nothing",
+      "url": "https://open.spotify.com/track/3TdBD4lD7gylpWdNsRHx8P"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Soul Central, Vol. 1",
         "url": "https://open.spotify.com/album/4oXW0hCOrPBqaKPFAViRya"
       },
       "artists": [
         {
-          "name": "Anthony Drakes",
-          "url": "https://open.spotify.com/artist/7scqOO2KeUpRRATOM9Fiza"
+          "name": "Richard Anthony Davis",
+          "url": "https://open.spotify.com/artist/57GGn7SfCgpiKA9mabkPsL"
         },
         {
           "name": "Emmanuel",
@@ -940,21 +940,21 @@
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         },
         {
+          "name": "Anthony Drakes",
+          "url": "https://open.spotify.com/artist/7scqOO2KeUpRRATOM9Fiza"
+        },
+        {
           "name": "Julianne",
           "url": "https://open.spotify.com/artist/0ZEOoQA1tnEAnEbObq8YIR"
         },
         {
           "name": "The Sound Principle",
           "url": "https://open.spotify.com/artist/6vBm0kFy8xndqPZRY8zpYw"
-        },
-        {
-          "name": "Richard Anthony Davis",
-          "url": "https://open.spotify.com/artist/57GGn7SfCgpiKA9mabkPsL"
         }
       ],
-      "duration_ms": 301000,
-      "name": "Is It True?",
-      "url": "https://open.spotify.com/track/2P3rUI2tEIlBo5YXcGrOuf"
+      "duration_ms": 271120,
+      "name": "The More I Get To Know You",
+      "url": "https://open.spotify.com/track/69VxpJEzI5FQnsMi9oKx4Y"
     }
   ],
   "unique_name": "This Is The Jones Girls",

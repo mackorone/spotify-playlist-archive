@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,277 songs - 18 day 21 hr 48 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,283 songs - 18 day 22 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -7285,5 +7285,11 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 7275 | [Astronaut In The Ocean](https://open.spotify.com/track/6E90gq0KO6FYZVOXx8kCcC) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Astronomical](https://open.spotify.com/album/6qNMYsx5OUFDXWAoct9Pge) | 2:12 |
 | 7276 | [30 For 30 \(with Kendrick Lamar\)](https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 4:38 |
 | 7277 | [From God's Perspective](https://open.spotify.com/track/496hK2hCnPhgT6JuC3ubNZ) | [Bo Burnham](https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo) | [What.](https://open.spotify.com/album/4zL56l798hLfl3VP2eGIHY) | 4:21 |
+| 7278 | [Cosmic](https://open.spotify.com/track/2H7euNHOF7uADN6dfsWoZa) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Cosmic](https://open.spotify.com/album/5lHtH6O6mCnVx1MNuPPBQK) | 3:45 |
+| 7279 | [Walking On A Dream](https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(10th Anniversary Edition\)](https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh) | 3:18 |
+| 7280 | [Rocketeer](https://open.spotify.com/track/45sDIKapDyxPl307QpEAwl) | [Far East Movement](https://open.spotify.com/artist/698hF4vcwHwPy8ltmXermq), [Ryan Tedder](https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI), [Ruff Loaderz](https://open.spotify.com/artist/5JOIrGvup0vD5VjodB62Ui) | [Free Wired](https://open.spotify.com/album/1TuKgkCGIxiIns9Bc5XKRC) | 3:31 |
+| 7281 | [Love Me Again](https://open.spotify.com/track/5TbzAWWc5eJaANpA9kfGCd) | [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [Tribute](https://open.spotify.com/album/2Bgfdyrywv3KEe0WwZdb0V) | 3:59 |
+| 7282 | [Jerk It Out](https://open.spotify.com/track/0O8XCrGlVsaKnErfcTSSFU) | [Caesars](https://open.spotify.com/artist/4rGrN4XDYhP6dUAZMvcuHr) | [39 Minutes of Bliss \(In An Otherwise Meaningless World\)](https://open.spotify.com/album/6KdlSMMpezbfNKZYd4JTbM) | 3:15 |
+| 7283 | [Send Them Off!](https://open.spotify.com/track/5AAU5Ov1CEesKwWS2uzQji) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Send Them Off!](https://open.spotify.com/album/0sm6aqm1zr6rkROVIKICJd) | 3:20 |
 
-Snapshot ID: `AAAG+YEH9jjtlIFOB1ItlSlSUXg7aBBy`
+Snapshot ID: `AAAG/y1swVVJ3njyXYDs4txTHG+/0ZK+`

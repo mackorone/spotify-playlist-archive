@@ -1,6 +1,6 @@
 {
   "description": "r\u00f8lp og s\u00e5nt",
-  "num_followers": 114478,
+  "num_followers": 114508,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
@@ -399,26 +399,6 @@
     {
       "added_at": "2025-05-22 22:00:40",
       "album": {
-        "name": "Hopp inn i kjerra",
-        "url": "https://open.spotify.com/album/59YVxgU733VrTRqO1BdDtH"
-      },
-      "artists": [
-        {
-          "name": "Hagle",
-          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
-        },
-        {
-          "name": "Sandra Lyng",
-          "url": "https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf"
-        }
-      ],
-      "duration_ms": 140940,
-      "name": "Hopp inn i kjerra",
-      "url": "https://open.spotify.com/track/5uiNyDWemQiCYynsfqKWlO"
-    },
-    {
-      "added_at": "2025-05-22 22:00:40",
-      "album": {
         "name": "Polisen",
         "url": "https://open.spotify.com/album/79Psas2Jq5BRug1JdJjXBj"
       },
@@ -447,6 +427,26 @@
       "duration_ms": 186453,
       "name": "K\u00e6m Tok Ho Me S\u00e6",
       "url": "https://open.spotify.com/track/6h5hwJ9ZfFZ81JqBjhgLwe"
+    },
+    {
+      "added_at": "2025-05-22 22:00:40",
+      "album": {
+        "name": "Hopp inn i kjerra",
+        "url": "https://open.spotify.com/album/59YVxgU733VrTRqO1BdDtH"
+      },
+      "artists": [
+        {
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+        },
+        {
+          "name": "Sandra Lyng",
+          "url": "https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf"
+        }
+      ],
+      "duration_ms": 140940,
+      "name": "Hopp inn i kjerra",
+      "url": "https://open.spotify.com/track/5uiNyDWemQiCYynsfqKWlO"
     },
     {
       "added_at": "2025-05-22 22:00:40",
@@ -647,22 +647,6 @@
     {
       "added_at": "2025-05-22 22:00:40",
       "album": {
-        "name": "Stj\u00e6lt fr\u00e5 ei countryl\u00e5t",
-        "url": "https://open.spotify.com/album/0ZvZl05t7ErPHF3uifasCG"
-      },
-      "artists": [
-        {
-          "name": "Spelloppmaker",
-          "url": "https://open.spotify.com/artist/6hA33Zcv5XlydUzUFEAgmi"
-        }
-      ],
-      "duration_ms": 188788,
-      "name": "Stj\u00e6lt fr\u00e5 ei countryl\u00e5t",
-      "url": "https://open.spotify.com/track/0gpnzHtnXiZWQemi2XvUZq"
-    },
-    {
-      "added_at": "2025-05-22 22:00:40",
-      "album": {
         "name": "Tro",
         "url": "https://open.spotify.com/album/688QJHvwDmWMfILIRPq4rY"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 170526,
       "name": "N\u00e5 er det freda'n igjen",
       "url": "https://open.spotify.com/track/096d1z40MQXAEZALorCnC4"
+    },
+    {
+      "added_at": "2025-05-22 22:00:40",
+      "album": {
+        "name": "Stj\u00e6lt fr\u00e5 ei countryl\u00e5t",
+        "url": "https://open.spotify.com/album/0ZvZl05t7ErPHF3uifasCG"
+      },
+      "artists": [
+        {
+          "name": "Spelloppmaker",
+          "url": "https://open.spotify.com/artist/6hA33Zcv5XlydUzUFEAgmi"
+        }
+      ],
+      "duration_ms": 188788,
+      "name": "Stj\u00e6lt fr\u00e5 ei countryl\u00e5t",
+      "url": "https://open.spotify.com/track/0gpnzHtnXiZWQemi2XvUZq"
     },
     {
       "added_at": "2025-05-22 22:00:40",
@@ -695,18 +695,22 @@
     {
       "added_at": "2025-05-22 22:00:40",
       "album": {
-        "name": "Aleine over fjell",
-        "url": "https://open.spotify.com/album/6ghHjXoE6aZUBNa8xRp6QL"
+        "name": "\u00c4r det k\u00e4rlek du beh\u00f6ver (EPA Remixes)",
+        "url": "https://open.spotify.com/album/1iIvpW6StpS5bwdYl5hbjp"
       },
       "artists": [
         {
-          "name": "Br\u00e5tabrann",
-          "url": "https://open.spotify.com/artist/1bD5LkNlc55CxV32PopG71"
+          "name": "Lasse Stefanz",
+          "url": "https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu"
+        },
+        {
+          "name": "N!NE",
+          "url": "https://open.spotify.com/artist/0RF3teBjUzbf1SDpnuR8Ro"
         }
       ],
-      "duration_ms": 173289,
-      "name": "Aleine over fjell",
-      "url": "https://open.spotify.com/track/3hTueanE6FImv3heUnvow8"
+      "duration_ms": 173986,
+      "name": "\u00c4r det k\u00e4rlek du beh\u00f6ver - N!NE EPA Bass Boosted Remix",
+      "url": "https://open.spotify.com/track/45MJ4bysE50sOo2AXrk3tj"
     },
     {
       "added_at": "2025-05-22 22:00:40",
@@ -727,22 +731,18 @@
     {
       "added_at": "2025-05-22 22:00:40",
       "album": {
-        "name": "\u00c4r det k\u00e4rlek du beh\u00f6ver (EPA Remixes)",
-        "url": "https://open.spotify.com/album/1iIvpW6StpS5bwdYl5hbjp"
+        "name": "Aleine over fjell",
+        "url": "https://open.spotify.com/album/6ghHjXoE6aZUBNa8xRp6QL"
       },
       "artists": [
         {
-          "name": "Lasse Stefanz",
-          "url": "https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu"
-        },
-        {
-          "name": "N!NE",
-          "url": "https://open.spotify.com/artist/0RF3teBjUzbf1SDpnuR8Ro"
+          "name": "Br\u00e5tabrann",
+          "url": "https://open.spotify.com/artist/1bD5LkNlc55CxV32PopG71"
         }
       ],
-      "duration_ms": 173986,
-      "name": "\u00c4r det k\u00e4rlek du beh\u00f6ver - N!NE EPA Bass Boosted Remix",
-      "url": "https://open.spotify.com/track/45MJ4bysE50sOo2AXrk3tj"
+      "duration_ms": 173289,
+      "name": "Aleine over fjell",
+      "url": "https://open.spotify.com/track/3hTueanE6FImv3heUnvow8"
     },
     {
       "added_at": "2025-05-22 22:00:40",
@@ -871,18 +871,18 @@
     {
       "added_at": "2025-05-22 22:00:40",
       "album": {
-        "name": "Til deg som alltid er overstadig berusa og aldri kommer inn p\u00e5 konsert (det f\u00e5r'n aldri se)",
-        "url": "https://open.spotify.com/album/2FLzX94cTeOyzdWqMrYfsm"
+        "name": "Sv\u00e6re Pupper",
+        "url": "https://open.spotify.com/album/17bmLiibdB9L5lrwi3EY1h"
       },
       "artists": [
         {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+          "name": "KOKKOS",
+          "url": "https://open.spotify.com/artist/6EnV0svWRA9J0T3ALASlkk"
         }
       ],
-      "duration_ms": 167229,
-      "name": "Til deg som alltid er overstadig berusa og aldri kommer inn p\u00e5 konsert - det f\u00e5r'n aldri se",
-      "url": "https://open.spotify.com/track/27oP2aiSv0U4ych4m6jIkN"
+      "duration_ms": 138947,
+      "name": "Sv\u00e6re Pupper",
+      "url": "https://open.spotify.com/track/77WdMakzs7lQvUagvlz4fD"
     },
     {
       "added_at": "2025-05-22 22:00:40",
@@ -907,18 +907,18 @@
     {
       "added_at": "2025-05-22 22:00:40",
       "album": {
-        "name": "Sv\u00e6re Pupper",
-        "url": "https://open.spotify.com/album/17bmLiibdB9L5lrwi3EY1h"
+        "name": "Til deg som alltid er overstadig berusa og aldri kommer inn p\u00e5 konsert (det f\u00e5r'n aldri se)",
+        "url": "https://open.spotify.com/album/2FLzX94cTeOyzdWqMrYfsm"
       },
       "artists": [
         {
-          "name": "KOKKOS",
-          "url": "https://open.spotify.com/artist/6EnV0svWRA9J0T3ALASlkk"
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
         }
       ],
-      "duration_ms": 138947,
-      "name": "Sv\u00e6re Pupper",
-      "url": "https://open.spotify.com/track/77WdMakzs7lQvUagvlz4fD"
+      "duration_ms": 167229,
+      "name": "Til deg som alltid er overstadig berusa og aldri kommer inn p\u00e5 konsert - det f\u00e5r'n aldri se",
+      "url": "https://open.spotify.com/track/27oP2aiSv0U4ych4m6jIkN"
     },
     {
       "added_at": "2025-05-22 22:00:40",

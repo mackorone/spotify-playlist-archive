@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: GreenWoodz",
-  "num_followers": 44938,
+  "num_followers": 44950,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -379,6 +379,22 @@
     {
       "added_at": "2025-05-30 04:00:24",
       "album": {
+        "name": "On va",
+        "url": "https://open.spotify.com/album/4jPE2GLs3aCmeY4C6RyuaW"
+      },
+      "artists": [
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        }
+      ],
+      "duration_ms": 144022,
+      "name": "On va",
+      "url": "https://open.spotify.com/track/4rnXUIUfYWCvjPZczSL0a9"
+    },
+    {
+      "added_at": "2025-05-30 04:00:24",
+      "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/2nXBEQRSzoVOqXtP5cdlJY"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 235666,
       "name": "La Pluie",
       "url": "https://open.spotify.com/track/6iHRvE6NMx3cAuJMNnsfo5"
-    },
-    {
-      "added_at": "2025-05-30 04:00:24",
-      "album": {
-        "name": "On va",
-        "url": "https://open.spotify.com/album/4jPE2GLs3aCmeY4C6RyuaW"
-      },
-      "artists": [
-        {
-          "name": "Naza",
-          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
-        }
-      ],
-      "duration_ms": 144022,
-      "name": "On va",
-      "url": "https://open.spotify.com/track/4rnXUIUfYWCvjPZczSL0a9"
     },
     {
       "added_at": "2025-05-30 04:00:24",
@@ -543,6 +543,26 @@
     {
       "added_at": "2025-05-30 04:00:24",
       "album": {
+        "name": "J'ai ce qu'il faut",
+        "url": "https://open.spotify.com/album/19tjQ0TPFX7z1h6eKM6qre"
+      },
+      "artists": [
+        {
+          "name": "Warren Saada",
+          "url": "https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM"
+        },
+        {
+          "name": "Dadju",
+          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
+        }
+      ],
+      "duration_ms": 201786,
+      "name": "J'ai ce qu'il faut",
+      "url": "https://open.spotify.com/track/5Z15WSSa7fvaPJZRI4OgDS"
+    },
+    {
+      "added_at": "2025-05-30 04:00:24",
+      "album": {
         "name": "MASTERCLASS",
         "url": "https://open.spotify.com/album/30a1XGrL7yszb4sGs7jFQF"
       },
@@ -575,26 +595,6 @@
       "duration_ms": 163145,
       "name": "Promets-le moi",
       "url": "https://open.spotify.com/track/1R7yYdJULFqxC4L8PDXvRS"
-    },
-    {
-      "added_at": "2025-05-30 04:00:24",
-      "album": {
-        "name": "J'ai ce qu'il faut",
-        "url": "https://open.spotify.com/album/19tjQ0TPFX7z1h6eKM6qre"
-      },
-      "artists": [
-        {
-          "name": "Warren Saada",
-          "url": "https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM"
-        },
-        {
-          "name": "Dadju",
-          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
-        }
-      ],
-      "duration_ms": 201786,
-      "name": "J'ai ce qu'il faut",
-      "url": "https://open.spotify.com/track/5Z15WSSa7fvaPJZRI4OgDS"
     },
     {
       "added_at": "2025-05-30 04:00:24",
@@ -751,22 +751,6 @@
     {
       "added_at": "2025-05-30 04:00:24",
       "album": {
-        "name": "WANTA",
-        "url": "https://open.spotify.com/album/2DFOHurgO6DZOMKGL64aUo"
-      },
-      "artists": [
-        {
-          "name": "Naza",
-          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "WANTA",
-      "url": "https://open.spotify.com/track/4o5T3A2O4k9bF6CMOr7DaN"
-    },
-    {
-      "added_at": "2025-05-30 04:00:24",
-      "album": {
         "name": "LA MEILLEURE",
         "url": "https://open.spotify.com/album/2xEKZQHGihbX8MY1kfJARS"
       },
@@ -787,6 +771,22 @@
     {
       "added_at": "2025-05-30 04:00:24",
       "album": {
+        "name": "WANTA",
+        "url": "https://open.spotify.com/album/2DFOHurgO6DZOMKGL64aUo"
+      },
+      "artists": [
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "WANTA",
+      "url": "https://open.spotify.com/track/4o5T3A2O4k9bF6CMOr7DaN"
+    },
+    {
+      "added_at": "2025-05-30 04:00:24",
+      "album": {
         "name": "Try Try Try - A COLORS SHOW",
         "url": "https://open.spotify.com/album/5h0jmRk4qlXohRlFiFXjxO"
       },
@@ -803,6 +803,30 @@
       "duration_ms": 178632,
       "name": "Try Try Try - A COLORS SHOW",
       "url": "https://open.spotify.com/track/0frABA1e4eX0HKmEFxtkEC"
+    },
+    {
+      "added_at": "2025-05-30 04:00:24",
+      "album": {
+        "name": "LDC",
+        "url": "https://open.spotify.com/album/0QvUH3eAOC3FCK0xXmlJIN"
+      },
+      "artists": [
+        {
+          "name": "No Limit",
+          "url": "https://open.spotify.com/artist/2Ns3GuAU2LYllDr7z20d0e"
+        },
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        },
+        {
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+        }
+      ],
+      "duration_ms": 181874,
+      "name": "LDC",
+      "url": "https://open.spotify.com/track/79GsCcSo4Fm4xVwFw7gkgs"
     },
     {
       "added_at": "2025-05-30 04:00:24",
@@ -839,6 +863,26 @@
     {
       "added_at": "2025-05-30 04:00:24",
       "album": {
+        "name": "Tout donner",
+        "url": "https://open.spotify.com/album/2JX4Z6eoaQWk0AizkGIPBC"
+      },
+      "artists": [
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        },
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "duration_ms": 145512,
+      "name": "Tout donner",
+      "url": "https://open.spotify.com/track/3Xta6s5k5IwdTfjLwYMa7O"
+    },
+    {
+      "added_at": "2025-05-30 04:00:24",
+      "album": {
         "name": "Confession",
         "url": "https://open.spotify.com/album/4iSFg0cxwRdN0e3k7lAZFw"
       },
@@ -855,22 +899,6 @@
     {
       "added_at": "2025-05-30 04:00:24",
       "album": {
-        "name": "Ensay",
-        "url": "https://open.spotify.com/album/3FXPwcGyoHMfqur3X6twlx"
-      },
-      "artists": [
-        {
-          "name": "Nej",
-          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
-        }
-      ],
-      "duration_ms": 181500,
-      "name": "Ensay",
-      "url": "https://open.spotify.com/track/66Kb1uA4cIUeUbEL3SR2Rs"
-    },
-    {
-      "added_at": "2025-05-30 04:00:24",
-      "album": {
         "name": "Tant qu'on est toi et moi",
         "url": "https://open.spotify.com/album/47o5BMJH50I9HhdkliL57T"
       },
@@ -883,22 +911,6 @@
       "duration_ms": 169842,
       "name": "Tant qu'on est toi et moi",
       "url": "https://open.spotify.com/track/4BalTIdao8I2XZzbMIMJDg"
-    },
-    {
-      "added_at": "2025-05-30 04:00:24",
-      "album": {
-        "name": "Renaissance",
-        "url": "https://open.spotify.com/album/5AhSxVn64fh0jERnQaJIRL"
-      },
-      "artists": [
-        {
-          "name": "Soprano",
-          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
-        }
-      ],
-      "duration_ms": 198133,
-      "name": "Quoi qu'il arrive \u00e7a va aller",
-      "url": "https://open.spotify.com/track/1QtzVGTyzvH521grsSwODc"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

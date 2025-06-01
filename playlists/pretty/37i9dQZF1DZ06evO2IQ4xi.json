@@ -1,12 +1,12 @@
 {
   "description": "This is Doechii. The essential tracks, all in one playlist.",
-  "num_followers": 90929,
+  "num_followers": 91076,
   "original_name": "This Is Doechii",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDejgAAAAABXUct7iNuP5vhTFMv4Tbmx",
+  "snapshot_id": "aDj1AAAAAACS3YA7TqsrsPUcKlqDt3fO",
   "tracks": [
     {
       "added_at": null,
@@ -299,38 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oh The Places You\u2019ll Go",
-        "url": "https://open.spotify.com/album/0VV963BfZvQmjzZ14ai7Gu"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 275526,
-      "name": "Yucky Blucky Fruitcake",
-      "url": "https://open.spotify.com/track/1j3SdMJfeRJXycCp50boYE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alligator Bites Never Heal",
-        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 184894,
-      "name": "WAIT",
-      "url": "https://open.spotify.com/track/3bnEbEdttscDToE3I8yOZD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The House Is Burning",
         "url": "https://open.spotify.com/album/6TQ8nqw43uUOWu7Yqp58ko"
       },
@@ -355,6 +323,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Alligator Bites Never Heal",
+        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 184894,
+      "name": "WAIT",
+      "url": "https://open.spotify.com/track/3bnEbEdttscDToE3I8yOZD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oh The Places You\u2019ll Go",
+        "url": "https://open.spotify.com/album/0VV963BfZvQmjzZ14ai7Gu"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 275526,
+      "name": "Yucky Blucky Fruitcake",
+      "url": "https://open.spotify.com/track/1j3SdMJfeRJXycCp50boYE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ROCKET",
         "url": "https://open.spotify.com/album/6AJH32yVIKjKu93tSgn0El"
       },
@@ -371,8 +371,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oh The Places You\u2019ll Go",
-        "url": "https://open.spotify.com/album/0VV963BfZvQmjzZ14ai7Gu"
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/2a8cs4ziDk29KUAdUhHwQB"
       },
       "artists": [
         {
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         }
       ],
-      "duration_ms": 220472,
-      "name": "Black Girl Memoir",
-      "url": "https://open.spotify.com/track/6TmMjGz6kN1gHq1TCzkL6Z"
+      "duration_ms": 134116,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/2b1MCbfwRZ1teOX1vSm4Xt"
     },
     {
       "added_at": null,
@@ -403,8 +403,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/2a8cs4ziDk29KUAdUhHwQB"
+        "name": "Oh The Places You\u2019ll Go",
+        "url": "https://open.spotify.com/album/0VV963BfZvQmjzZ14ai7Gu"
       },
       "artists": [
         {
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         }
       ],
-      "duration_ms": 134116,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/2b1MCbfwRZ1teOX1vSm4Xt"
+      "duration_ms": 220472,
+      "name": "Black Girl Memoir",
+      "url": "https://open.spotify.com/track/6TmMjGz6kN1gHq1TCzkL6Z"
     },
     {
       "added_at": null,

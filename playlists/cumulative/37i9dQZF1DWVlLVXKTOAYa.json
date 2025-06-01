@@ -410,7 +410,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-01",
       "duration_ms": 230260,
       "name": "5 More Minutes",
       "url": "https://open.spotify.com/track/5wAWTCv7wjkB3lNzGmIPcd"
@@ -20728,6 +20728,24 @@
       "duration_ms": 164288,
       "name": "This One's On Me",
       "url": "https://open.spotify.com/track/02DVff4QKx4mZvcWKMbZx3"
+    },
+    {
+      "album": {
+        "name": "This Song",
+        "url": "https://open.spotify.com/album/5PawlLnqcZnrqiAEDLwH2G"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213895,
+      "name": "This Song",
+      "url": "https://open.spotify.com/track/2k6FKrR0wDIs6xCtU51GZ7"
     },
     {
       "album": {

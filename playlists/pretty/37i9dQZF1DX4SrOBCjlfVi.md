@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Clipse, Lil Tecca, PLUTO & Sexyy Red and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,807 likes - 49 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,958 likes - 49 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 48 | [Know It's Me](https://open.spotify.com/track/4HbIsaX57pfhkQVmN20PuV) | [SCY Jimm](https://open.spotify.com/artist/5vhUGtJ92TFdOlyZMDCXyT) | [Know It's Me](https://open.spotify.com/album/4VQ0I1uixfozuZj3Yyw3TY) | 2:13 |
 | 49 | [123 \(feat\. Lefty Gunplay\)](https://open.spotify.com/track/3MiL0b0FmUZu2jeUXQIhB5) | [hoodtrophy bino](https://open.spotify.com/artist/3YmsAPif4mx4mSugYt1n4c), [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV) | [123 \(feat\. Lefty Gunplay\)](https://open.spotify.com/album/2JdrS4JyfnUuThEygSZbmN) | 1:35 |
 
-Snapshot ID: `AAAAAD2rvCdKi74oZeYr2AWuKx9QnDBC`
+Snapshot ID: `aDktXQAAAADbiw405jVGEoYPys3lYWJy`

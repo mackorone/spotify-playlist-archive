@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0iFfuXuP4Pm.md) - [plain]
 
 > Mga nangunguna sa mundo ng OPM\. Cover: Rob Deniel
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,067,410 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,067,471 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0iFfuXuP4Pm.md) - [plain]
 | 22 | [Ano Ba Talaga Tayo?](https://open.spotify.com/track/2u8JwugJPL5Gv56l3asQj0) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [Ano Ba Talaga Tayo?](https://open.spotify.com/album/3ZglfO9QkXmNlZGgcjtEbX) | 3:56 |
 | 23 | [A Little Bit](https://open.spotify.com/track/4Mk2hfT0oXkuwX8bd5jln0) | [Earl Agustin](https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm) | [SWABE](https://open.spotify.com/album/3wTW9AjJkex9PbIEQbmF5L) | 4:37 |
 | 24 | [Kilala](https://open.spotify.com/track/2wzn9QDSMkZHuxXi7xzHr0) | [Ace Banzuelo](https://open.spotify.com/artist/3f0X043zSojego7Qn4Yi6U) | [Kilala](https://open.spotify.com/album/2wN4WXC3zWNOmwBygIzxiN) | 4:31 |
-| 25 | [Rosas](https://open.spotify.com/track/3kedvnPWaRcrshtiV6e6Z3) | [Jenzen Guino Official](https://open.spotify.com/artist/2tKfutC3pO6xm8iyRuGZgz) | [Rosas](https://open.spotify.com/album/6dAmnkJugmwr6Db7HLuqHr) | 3:23 |
+| 25 | [Rosas](https://open.spotify.com/track/3kedvnPWaRcrshtiV6e6Z3) | [Jenzen Guino](https://open.spotify.com/artist/3jkBa6etjIDCdf13YXJ0pS) | [Rosas](https://open.spotify.com/album/6dAmnkJugmwr6Db7HLuqHr) | 3:23 |
 | 26 | [ikaw, ikaw, ikaw](https://open.spotify.com/track/4RmKeqmqtYIl0tbeTnLyXi) | [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK), [Eliza Maturan](https://open.spotify.com/artist/3C1ER0cuXc8dLtaI8RvLI6) | [ikaw, ikaw, ikaw](https://open.spotify.com/album/7FxiQz4Hk6ihjr7ypYnEtP) | 2:54 |
 | 27 | [Nicotine](https://open.spotify.com/track/62etNFfOoyyiFcMRUjFMiI) | [SAJKA](https://open.spotify.com/artist/4oGMjYFfUBJlMIhrDdJhyL) | [Weed&Melodies](https://open.spotify.com/album/2IrxgetYn3rrxtQWrNOpRI) | 2:00 |
 | 28 | [KABANATA](https://open.spotify.com/track/0XAd307ZQhPFVtnVrqwUsd) | [JAO](https://open.spotify.com/artist/6Bc3V3kVnWpY5kqQN6nio5) | [KABANATA](https://open.spotify.com/album/4ORFzQtMyd3xR7SnLFnod9) | 3:48 |

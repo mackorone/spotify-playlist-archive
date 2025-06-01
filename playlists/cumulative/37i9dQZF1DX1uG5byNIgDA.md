@@ -4,7 +4,7 @@
 
 > Everyday should be a happy day when you listen to this fun K\-Pop playlist.
 
-439 songs - 23 hr 56 min
+440 songs - 23 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [5 in the morning](https://open.spotify.com/track/4YQN70aa8969if12I9dKDb) | [WOO JEE WON](https://open.spotify.com/artist/073SnC1tmMizW8NO0qbCLU) | [Just Dream](https://open.spotify.com/album/6MgV3YkvyVKip90eLKZGuN) | 3:35 | 2021-12-06 | 2022-07-27 |
 | [908](https://open.spotify.com/track/5v4l1NU3qXQSdAk9cnXlfo) | [Keumbee](https://open.spotify.com/artist/1NwyafFmvijU7E9b1PjgQm) | [I can't believe it's not butter!](https://open.spotify.com/album/5uEHa8xxNTOAovSEx0dmz5) | 3:23 | 2022-03-23 | 2022-04-19 |
 | [ABCD](https://open.spotify.com/track/0V2passWyAXnON67kfAj7y) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [NA](https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7) | 2:42 | 2024-06-21 |  |
-| [Adult Swim](https://open.spotify.com/track/2DaEOAKYadUMO7x0CsobRU) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Adult Swim](https://open.spotify.com/album/7fu5l1nHlSGSBbaMjl7fye) | 2:24 | 2025-04-18 |  |
+| [Adult Swim](https://open.spotify.com/track/2DaEOAKYadUMO7x0CsobRU) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Adult Swim](https://open.spotify.com/album/7fu5l1nHlSGSBbaMjl7fye) | 2:24 | 2025-04-18 | 2025-06-01 |
 | [After LIKE](https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [After LIKE](https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da) | 2:56 | 2022-08-24 |  |
 | [Again](https://open.spotify.com/track/3obitKwgSPRoPGqmWcHD13) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [The Best Album ‘Needle & Bubble’](https://open.spotify.com/album/5O8z5SrdPPz3gP2TS6viUu) | 3:26 | 2022-03-23 | 2022-07-29 |
 | [Ahead Of Time \- Edit](https://open.spotify.com/track/0ZW7hTNZJTipdzfN7Qf9hC) | [Baltra](https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC), [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1) | [Ahead Of Time](https://open.spotify.com/album/2TcMsU5q8BRbONX55U9ZX0) | 4:04 | 2022-03-23 | 2022-04-14 |
@@ -383,6 +383,7 @@
 | [Think Of You](https://open.spotify.com/track/5Hvi3XSS00txHgZB6UZhFl) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Never Gonna Dance Again : Act 2 \- The 3rd Album](https://open.spotify.com/album/3xgFGYUOVxGp7pZywdf7AC) | 3:18 | 2021-12-06 | 2022-07-29 |
 | [Throw \(Feat\. Jayci Yucca, Mirani\)](https://open.spotify.com/track/22UCPW2RO81TQl4sMApDlj) | [Minit](https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m), [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM), [미란이 \(Mirani\)](https://open.spotify.com/artist/453XhIUlEOGaL8KpQk7OQh) | [BLUE](https://open.spotify.com/album/7EEfx1xcQctDkuLnsr4ygD) | 2:41 | 2022-02-07 | 2022-04-14 |
 | [THUNDER](https://open.spotify.com/track/0qkYuCno3SoU8vxkCdx0iJ) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 5th Album 'HAPPY BURSTDAY'](https://open.spotify.com/album/0xlyof8BowaJtYPsxWYmkN) | 2:44 | 2025-05-30 |  |
+| [TILT](https://open.spotify.com/track/1etiDVN61JMXErlRMia2oR) | [Red Velvet \- IRENE & SEULGI](https://open.spotify.com/artist/6bwp9ObI8FWvMPCIWVBmhl) | [TILT \- The 2nd Mini Album](https://open.spotify.com/album/706xdC5SJBOk85HoJSFJeq) | 3:04 | 2025-05-30 |  |
 | [Time Of Love](https://open.spotify.com/track/7CXXE0TJeCjsVIKnnATvmJ) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.2](https://open.spotify.com/album/1JMc8IZ1Jbax6m5OvswmAB) | 2:56 | 2021-12-28 | 2022-07-09 |
 | [TIPSY](https://open.spotify.com/track/7BkIro1hHRs2pczrk0qKqs) | [Llwyd](https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0) | [Luminous](https://open.spotify.com/album/3sgBQ8EZ1HZ9Ti11gjzvip) | 2:55 | 2022-04-19 | 2022-05-04 |
 | [Today's Weather \(From "Spring Is Gone" \[Original Soundtrack\]\)](https://open.spotify.com/track/6oK4qRi5kCaWpo0bwhBbRl) | [Yu Seung Woo](https://open.spotify.com/artist/5ZSPRYslMYdwfwkKNcmBJf) | [Today's Weather \(From "Spring Is Gone" \[Original Soundtrack\]\)](https://open.spotify.com/album/6RCjA02nGoEqphsjT6ZQGZ) | 3:40 | 2022-04-04 | 2022-04-20 |

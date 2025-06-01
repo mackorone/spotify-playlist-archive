@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Tate McRae, Miley Cyrus, Lil Tecca, Lorde, Leon Thomas, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,384,096 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,384,718 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [special](https://open.spotify.com/track/06pGjykKy9y55C5o9Unk0p) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [special](https://open.spotify.com/album/18xLIvrq9zSmW3UljQgxKj) | 2:18 |
 | 100 | [Peter Pan](https://open.spotify.com/track/5rJoqSZx6c9GfJ6cVZ1fhF) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Peter Pan](https://open.spotify.com/album/01GJbBtJUeuyGVbgq5lvqh) | 3:09 |
 
-Snapshot ID: `aDku+gAAAAAVJEweQdmsDEo5JK6V4Q0q`
+Snapshot ID: `aDku+gAAAADCFvmg3JqsuyF+D4jQl8vV`

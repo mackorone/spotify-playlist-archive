@@ -1,12 +1,12 @@
 {
   "description": "This is Perdidos De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 53609,
+  "num_followers": 53625,
   "original_name": "This Is Perdidos De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDejgAAAAADklRGVeW+IdDUsyUwuhUCi",
+  "snapshot_id": "aDj1AAAAAABgzWA1fiQiplBHC67xwK6N",
   "tracks": [
     {
       "added_at": null,
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Me Voy O Te Vas (En Vivo)",
-        "url": "https://open.spotify.com/album/0nuXdDMOIDHxiddTlmBXGF"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 237013,
-      "name": "O Me Voy O Te Vas (En Vivo)",
-      "url": "https://open.spotify.com/track/2Jz2lb2VQe3wsGE7Q5jGrP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dariel El Sabroso",
         "url": "https://open.spotify.com/album/198hT0bzo8KylJ1j20RS2T"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 202120,
       "name": "Dariel El Sabroso",
       "url": "https://open.spotify.com/track/3sZeAyxQOsVADzKDRnuvDb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Me Voy O Te Vas (En Vivo)",
+        "url": "https://open.spotify.com/album/3SVQlmPakKoEPIesi3JSsn"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 237013,
+      "name": "O Me Voy O Te Vas (En Vivo)",
+      "url": "https://open.spotify.com/track/34hnVfPdIKq09lnPUVD588"
     },
     {
       "added_at": null,
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
         }
       ],
-      "duration_ms": 272939,
-      "name": "Voy A Pintar Mi Raya - En Vivo",
-      "url": "https://open.spotify.com/track/7L7xj3X9mFJmfmdaTyZm3K"
+      "duration_ms": 142849,
+      "name": "Misa De Cuerpo Presente",
+      "url": "https://open.spotify.com/track/3bxCgdxcVwlUTiyu64tdyu"
     },
     {
       "added_at": null,
@@ -655,26 +655,6 @@
       "duration_ms": 184348,
       "name": "Ya Duele Menos",
       "url": "https://open.spotify.com/track/6JeHDdT9XS85PUhpylH2eJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dariel Party, Vol. 1",
-        "url": "https://open.spotify.com/album/7q7VCZFD7JAVKztbMysdk3"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        },
-        {
-          "name": "La Adixi\u00f3n",
-          "url": "https://open.spotify.com/artist/6PWUhjINVJmwMsKGDokBH9"
-        }
-      ],
-      "duration_ms": 243885,
-      "name": "Conv\u00e9nceme (En Vivo)",
-      "url": "https://open.spotify.com/track/3U4yzfEaeIMTHrPx9vQhWO"
     },
     {
       "added_at": null,
@@ -699,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 142849,
-      "name": "Misa De Cuerpo Presente",
-      "url": "https://open.spotify.com/track/3bxCgdxcVwlUTiyu64tdyu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tres Botes",
         "url": "https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK"
       },
@@ -727,6 +691,22 @@
       "duration_ms": 131285,
       "name": "Siempre Trabajando",
       "url": "https://open.spotify.com/track/7nK9RJn7XNg5RaRE6v2eQm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 272939,
+      "name": "Voy A Pintar Mi Raya - En Vivo",
+      "url": "https://open.spotify.com/track/7L7xj3X9mFJmfmdaTyZm3K"
     },
     {
       "added_at": null,
@@ -747,22 +727,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dariel Party, Vol. 1",
-        "url": "https://open.spotify.com/album/7q7VCZFD7JAVKztbMysdk3"
+        "name": "Medias Negras",
+        "url": "https://open.spotify.com/album/47un1dVrmVaaNT1PGvEU2d"
       },
       "artists": [
         {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+          "name": "Miguel Y Miguel",
+          "url": "https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm"
         },
         {
-          "name": "Nueva Marca",
-          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
         }
       ],
-      "duration_ms": 192086,
-      "name": "Siempre A Tu Lado (En Vivo)",
-      "url": "https://open.spotify.com/track/4NXCEypmOHuVu5F0r9eUZE"
+      "duration_ms": 187324,
+      "name": "Medias Negras",
+      "url": "https://open.spotify.com/track/36aWKc0gB1dt2bh9YLlUD6"
     },
     {
       "added_at": null,
@@ -783,26 +763,6 @@
       "duration_ms": 174911,
       "name": "Dar\u00eda Todo Por Ti",
       "url": "https://open.spotify.com/track/1LRLWF1pMWCboN4u4xIBOv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Medias Negras",
-        "url": "https://open.spotify.com/album/47un1dVrmVaaNT1PGvEU2d"
-      },
-      "artists": [
-        {
-          "name": "Miguel Y Miguel",
-          "url": "https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm"
-        },
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 187324,
-      "name": "Medias Negras",
-      "url": "https://open.spotify.com/track/36aWKc0gB1dt2bh9YLlUD6"
     },
     {
       "added_at": null,
@@ -875,24 +835,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuando Se Ama a Una Mujer",
-        "url": "https://open.spotify.com/album/6Hgro2Y0AyPo8NJc9hPxiw"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 216372,
-      "name": "Cuando Se Ama a Una Mujer",
-      "url": "https://open.spotify.com/track/0sQYmLOa5trLFpUWbHxpZ9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Bruta (En Vivo)",
-        "url": "https://open.spotify.com/album/583SjEIDcYrSXrOYWa0V3Z"
+        "name": "Dariel Party, Vol 1.",
+        "url": "https://open.spotify.com/album/7JAN9DcCWJ1JEOmRi34YPQ"
       },
       "artists": [
         {
@@ -900,13 +844,13 @@
           "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
         },
         {
-          "name": "Chicho Castro y Sus Alia2",
-          "url": "https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC"
+          "name": "Nueva Marca",
+          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
         }
       ],
-      "duration_ms": 256000,
-      "name": "La Bruta (En Vivo)",
-      "url": "https://open.spotify.com/track/7IVjHkw0xPgHsswmRDUDLD"
+      "duration_ms": 192086,
+      "name": "Siempre A Tu Lado (En Vivo)",
+      "url": "https://open.spotify.com/track/2uSVCaGxiQzjL9jeFulzi6"
     },
     {
       "added_at": null,
@@ -923,6 +867,58 @@
       "duration_ms": 249789,
       "name": "El Signo Libra",
       "url": "https://open.spotify.com/track/7mUF4SXvY2KvQhcZ1LPIy7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Luchon",
+        "url": "https://open.spotify.com/album/7yE5a3kEdg2Vw1WpnDcgfz"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 163893,
+      "name": "Luchon",
+      "url": "https://open.spotify.com/track/3SbiPpfN0l8BmeQZOFKUWu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cuando Se Ama A Una Mujer",
+        "url": "https://open.spotify.com/album/5XGayQjKmHFSHvkwaP5zYq"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 216372,
+      "name": "Cuando Se Ama A Una Mujer",
+      "url": "https://open.spotify.com/track/3aYRQn9tW2WSAddn0ZDo8j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dariel Party, Vol 1.",
+        "url": "https://open.spotify.com/album/7JAN9DcCWJ1JEOmRi34YPQ"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        },
+        {
+          "name": "La Adixi\u00f3n",
+          "url": "https://open.spotify.com/artist/6PWUhjINVJmwMsKGDokBH9"
+        }
+      ],
+      "duration_ms": 243885,
+      "name": "Conv\u00e9nceme (En Vivo)",
+      "url": "https://open.spotify.com/track/4rrY9i7GRZrBi4bcBaC2BU"
     }
   ],
   "unique_name": "This Is Perdidos De Sinaloa",

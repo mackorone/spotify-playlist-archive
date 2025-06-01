@@ -4,7 +4,7 @@
 
 > This is CeCe Winans\. The essential tracks, all in one playlist.
 
-99 songs - 7 hr 49 min
+101 songs - 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [I Promise \(Wedding Song\)](https://open.spotify.com/track/3pTA6tD4Xv25EJrAeCjBp6) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Purified](https://open.spotify.com/album/6FfAauX1EP2zHgPoOnwWZ8) | 4:59 | 2022-09-14 | 2022-10-13 |
 | [I Surrender All](https://open.spotify.com/track/61PM6e4ZKNyk0cliMB2oNv) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Alone In His Presence](https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ) | 5:29 | 2022-09-14 |  |
 | [I've Got Joy](https://open.spotify.com/track/6tbDvXVbqENripiP4beZpj) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Believe For It \(Deluxe Edition\)](https://open.spotify.com/album/40svdUPxmIoge1BkDNWSDw) | 3:38 | 2022-09-14 |  |
-| [Is He Worthy?](https://open.spotify.com/track/7gx4IXabnni9Xx1XoPgMgf) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [More Than This](https://open.spotify.com/album/0zvZ25UkgLXQDZLQDxpwPw) | 5:07 | 2025-04-27 |  |
+| [Is He Worthy?](https://open.spotify.com/track/77y50GoCnEr3ckdfp5dFT4) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [More Than This](https://open.spotify.com/album/2lsb6BmwfbVswn64kaLgcy) | 5:07 | 2025-06-01 |  |
+| [Is He Worthy?](https://open.spotify.com/track/7gx4IXabnni9Xx1XoPgMgf) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [More Than This](https://open.spotify.com/album/0zvZ25UkgLXQDZLQDxpwPw) | 5:07 | 2025-04-27 | 2025-06-01 |
 | [It Wasn't Easy](https://open.spotify.com/track/2ZxY2iNJs1rPWw1PrzHmKy) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Alabaster Box](https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK) | 4:48 | 2022-09-14 |  |
 | [It's Christmas](https://open.spotify.com/track/205rj1MyclvbP8T2ppLhBx) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Joy To The World // It's Christmas](https://open.spotify.com/album/2Cvwzmfbf8VnhhXLvdsNT2) | 4:55 | 2024-09-29 | 2024-10-27 |
 | [It's Gonna Get Better](https://open.spotify.com/track/1n3itjgPe6tuPf8hbr1jsn) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [CeCe Winans](https://open.spotify.com/album/0rJg3QtLoMmkkK91BOH69P) | 4:01 | 2023-06-29 | 2023-08-31 |
@@ -78,9 +79,10 @@
 | [No Greater \- Live](https://open.spotify.com/track/5PcQV7HNDr2c1mpSoRirgt) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Believe For It](https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor) | 8:42 | 2022-09-19 | 2022-10-13 |
 | [No One](https://open.spotify.com/track/2bpk4L2kxnIJRY8dPfkpZ3) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [CeCe Winans](https://open.spotify.com/album/0rJg3QtLoMmkkK91BOH69P) | 4:20 | 2022-09-14 |  |
 | [Nobody But You](https://open.spotify.com/track/1IISFIfZSTgB9bz5OQedyp) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [CeCe Winans Presents Pure Worship](https://open.spotify.com/album/30KEIO6pQIvgHF3bpvhj6f) | 1:51 | 2023-07-17 | 2025-05-31 |
+| [Oh My Soul \(Psalm 103\) \(with Cece Winans\)](https://open.spotify.com/track/1MU67Dpv5XcjfMkEyFMtSv) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Oh My Soul \(Psalm 103\) \(with Cece Winans\)](https://open.spotify.com/album/5KuMeQiOo5QsYsKdUxoYaW) | 3:44 | 2025-06-01 |  |
 | [Oh The Blood Of Jesus](https://open.spotify.com/track/13FlWWsk7VyhZVG33D2rT4) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [More Than This](https://open.spotify.com/album/2lsb6BmwfbVswn64kaLgcy) | 1:23 | 2024-07-06 | 2025-04-13 |
 | [Oh The Blood Of Jesus](https://open.spotify.com/track/6omRhMoKDTQT0o2NOg0M8V) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [More Than This](https://open.spotify.com/album/0zvZ25UkgLXQDZLQDxpwPw) | 1:23 | 2024-05-01 | 2025-04-18 |
-| [Peace From God](https://open.spotify.com/track/6ZLthgSfzHPRIIVhkMeIhW) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Let Them Fall In Love](https://open.spotify.com/album/6QGnENkJFVu2QBRCCdKpcz) | 3:46 | 2025-04-10 |  |
+| [Peace From God](https://open.spotify.com/track/6ZLthgSfzHPRIIVhkMeIhW) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Let Them Fall In Love](https://open.spotify.com/album/6QGnENkJFVu2QBRCCdKpcz) | 3:46 | 2025-04-10 | 2025-06-01 |
 | [Pray](https://open.spotify.com/track/0gbglUQi9q4cQmaNu8N3t9) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Purified](https://open.spotify.com/album/6FfAauX1EP2zHgPoOnwWZ8) | 3:30 | 2024-05-19 |  |
 | [Pray](https://open.spotify.com/track/0Q04tlIgmRYHgvKNceIsAn) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [For Always: The Best Of CeCe Winans](https://open.spotify.com/album/5iQZGEROiqR4wlhHhCC6hv) | 3:31 | 2022-09-14 | 2024-05-14 |
 | [Sanctuary](https://open.spotify.com/track/0DmZniSKzuFKN9Qn3eFaMJ) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [More Than This](https://open.spotify.com/album/2lsb6BmwfbVswn64kaLgcy) | 1:19 | 2024-06-09 | 2025-03-24 |

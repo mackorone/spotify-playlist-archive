@@ -1,12 +1,12 @@
 {
   "description": "This is Bruce Springsteen. The essential tracks, all in one playlist.",
-  "num_followers": 642039,
+  "num_followers": 642182,
   "original_name": "This Is Bruce Springsteen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDejgAAAAACkrBrtvWXnXR6Nqf+Ct3DG",
+  "snapshot_id": "aDj1AAAAAAAUQrNY50WSHSvXxymWBE1b",
   "tracks": [
     {
       "added_at": null,
@@ -39,6 +39,22 @@
       "duration_ms": 447583,
       "name": "Land of Hope and Dreams - Live in Manchester, May 14, 2025",
       "url": "https://open.spotify.com/track/6WAp3KTjx6741b4K9ygzL5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Adelita",
+        "url": "https://open.spotify.com/album/6q5Rn9TfFBYqvknRmyNlHQ"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 277546,
+      "name": "Adelita",
+      "url": "https://open.spotify.com/track/5LCRHTTI17T53OcGEamGwJ"
     },
     {
       "added_at": null,
@@ -515,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Rising",
-        "url": "https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 245360,
-      "name": "Lonesome Day",
-      "url": "https://open.spotify.com/track/0R9q3imnid244T1ty47MGs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Magic",
         "url": "https://open.spotify.com/album/7A830iYFt7vb0n0aMLyj5Z"
       },
@@ -543,6 +543,22 @@
       "duration_ms": 199066,
       "name": "Radio Nowhere",
       "url": "https://open.spotify.com/track/7zrHnJ87htwgS20PzFmgTr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Rising",
+        "url": "https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 245360,
+      "name": "Lonesome Day",
+      "url": "https://open.spotify.com/track/0R9q3imnid244T1ty47MGs"
     },
     {
       "added_at": null,
@@ -643,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faithless",
-        "url": "https://open.spotify.com/album/0d8swHQ9ch1mzuwKUHOBjj"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 231880,
-      "name": "Faithless",
-      "url": "https://open.spotify.com/track/6UuDamBC3Jd5786vcXUPr4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tracks",
         "url": "https://open.spotify.com/album/13pZUSPWE87x40BorpgLx2"
       },
@@ -671,6 +671,22 @@
       "duration_ms": 213066,
       "name": "Pink Cadillac - Single B-Side - 1984",
       "url": "https://open.spotify.com/track/3zG1YiTu53KCt8W56psgs2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Faithless",
+        "url": "https://open.spotify.com/album/0d8swHQ9ch1mzuwKUHOBjj"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 231880,
+      "name": "Faithless",
+      "url": "https://open.spotify.com/track/6UuDamBC3Jd5786vcXUPr4"
     },
     {
       "added_at": null,
@@ -803,22 +819,6 @@
       "duration_ms": 410937,
       "name": "My City of Ruins - Live in Manchester, May 14, 2025",
       "url": "https://open.spotify.com/track/5suxhWHmTHj73KFTTa72N5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tunnel Of Love",
-        "url": "https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 309760,
-      "name": "Tunnel of Love",
-      "url": "https://open.spotify.com/track/2rUHBIfbMBB92n1gSfSqwF"
     }
   ],
   "unique_name": "This Is Bruce Springsteen",

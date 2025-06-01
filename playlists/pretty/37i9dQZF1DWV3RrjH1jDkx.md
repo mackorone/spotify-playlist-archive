@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Ny musikk fra Ari Bajgora, Girl In Red og mange flere!🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,260 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,296 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 92 | [Förstå mig](https://open.spotify.com/track/3j0HI048DJuzpG7oTugkBF) | [Y4ska](https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Y4](https://open.spotify.com/album/1Hmubk9vXxysBNC3qv9iGe) | 1:50 |
 | 93 | [All My Life](https://open.spotify.com/track/2pTii4tBijcsczNsmeBcSY) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [All My Life](https://open.spotify.com/album/0dHxrUuzYnUMgkulehzveD) | 2:07 |
 | 94 | [Time Will Heal](https://open.spotify.com/track/3C8X7PC4W4m53X5d1JIy0F) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Time Will Heal](https://open.spotify.com/album/1mr05IUQRaVE911V1uru3g) | 4:45 |
-| 95 | [Alto](https://open.spotify.com/track/6W0JyLntjW5czCieDPSkui) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Alto](https://open.spotify.com/album/6CK5736RvBDi7w9wDjCYLf) | 3:08 |
+| 95 | [Alto](https://open.spotify.com/track/6W0JyLntjW5czCieDPSkui) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Alto](https://open.spotify.com/album/6CK5736RvBDi7w9wDjCYLf) | 3:45 |
 | 96 | [Loved Me](https://open.spotify.com/track/7dnVfGh769TA8qyrvIakjK) | [ANGELICA](https://open.spotify.com/artist/7yHxpT7YSJOHtVnCYnoC27) | [Loved Me](https://open.spotify.com/album/7N3lZwz5MhVJh3AlBMDFsN) | 3:00 |
 | 97 | [I Want It All](https://open.spotify.com/track/6nUv1TbOMwOYzESvJCVbF7) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [I Want It All](https://open.spotify.com/album/5ePyRQrVvJWE3YJ8t9FQcw) | 3:06 |
 | 98 | [ICON](https://open.spotify.com/track/6VQwZzDH4PzkdVnxJdDxFK) | [CELIIN](https://open.spotify.com/artist/4Mu60J5C8EwNOYKcSOHxoP) | [ICON](https://open.spotify.com/album/1DM8WPppNYRqyB5p0iKrIO) | 3:15 |

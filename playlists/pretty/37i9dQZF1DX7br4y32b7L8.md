@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7br4y32b7L8.md) - [plain]
 
 > songs voor je playlist! \#fyp
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,440 likes - 76 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,459 likes - 76 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7br4y32b7L8.md) - [plain]
 | 19 | [Lotje](https://open.spotify.com/track/2wu9tmhmdwIk0IcCHPndhI) | [Lustrum U.V.S.V./N.V.V.S.U.](https://open.spotify.com/artist/2VZGqt6DSeA7Z5103qtYRK), [Jopke van Dobbenburgh](https://open.spotify.com/artist/2JA0qfHxIxKrjOj1YCuh9D), [Roeland Beelen](https://open.spotify.com/artist/3AO2szj8eZ8MSTw0hghw3M) | [Lotje](https://open.spotify.com/album/0YJfvsHFmJBpI7sj4SbWq2) | 2:47 |
 | 20 | [Drink Niet Meer](https://open.spotify.com/track/5ao2Yb1Ec7YbY1gHqtZAV5) | [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2), [De Jeugd Van Tegenwoordig](https://open.spotify.com/artist/1u7uShzlA1tXJeox3jMFPq) | [Nachtvlinder 2](https://open.spotify.com/album/0bQsTCXR5uOP4C8vD9sC3r) | 3:09 |
 | 21 | [Altijd Vrijgezel](https://open.spotify.com/track/3AbyKaiTknW5Db0wpens5Y) | [Gerard Joling](https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG) | [Altijd Vrijgezel](https://open.spotify.com/album/4OgdH30iQ4Bh2mBNNgiyFM) | 3:14 |
-| 22 | [Pretty Little Baby \- Stereo Mix](https://open.spotify.com/track/5GQPBzoRBDxcAjwSSluQXD) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Connie Francis Sings Second Hand Love & Other Hits](https://open.spotify.com/album/6CTiCTGft53NcVMsAxxgCQ) | 2:22 |
+| 22 | [Pretty Little Baby](https://open.spotify.com/track/5GQPBzoRBDxcAjwSSluQXD) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Connie Francis Sings Second Hand Love & Other Hits](https://open.spotify.com/album/6CTiCTGft53NcVMsAxxgCQ) | 2:22 |
 | 23 | [Lady Killers II \(Christoph Andersson Remix\)](https://open.spotify.com/track/0QRhtV1MwywpkLTvCdMaWq) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Christoph Andersson](https://open.spotify.com/artist/2dTGHCFyCD8uj6tAM9q8ED) | [Lady Killers II \(Christoph Andersson Remix\)](https://open.spotify.com/album/1tmjsiIUIlF0Zyaj2J5vI1) | 4:57 |
 | 24 | [anything](https://open.spotify.com/track/4PwWESSlTwzvw9B7bmtTLS) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 3:22 |
 | 25 | [The Glen](https://open.spotify.com/track/0ZIxdZXPHnjUT3PdBKRziQ) | [Beluga Lagoon](https://open.spotify.com/artist/0RYoM8xN6lU16c9YGrBuLC) | [The Caledonian Fig Tree](https://open.spotify.com/album/61sSD9oG2awgIu3FRCgrP0) | 4:10 |

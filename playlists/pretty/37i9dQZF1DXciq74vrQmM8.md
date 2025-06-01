@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our universe ft\. yeule
 
-[Spotify](https://open.spotify.com/user/spotify) - 816,095 likes - 81 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 816,089 likes - 81 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 35 | [Grindhouse](https://open.spotify.com/track/3EN9EFQHqDSLoNXAOkJzlJ) | [Machine Girl](https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0) | [MG Ultra](https://open.spotify.com/album/3598AkUpAY95SA2t4JrotL) | 4:03 |
 | 36 | [LANDMiNE](https://open.spotify.com/track/0RzO5E7JWg3t9Z4PmtmEKz) | [Skuzland](https://open.spotify.com/artist/5ns0Xn1DwaUW1O0EazjHnp), [Lillith](https://open.spotify.com/artist/4FnA6I5jN6hjo8aXvGcwrW) | [LANDMiNE](https://open.spotify.com/album/24Hcjuqesd2VcB73Vb9ACr) | 3:15 |
 | 37 | [Hex So Heavy](https://open.spotify.com/track/7mH4bjq5xH7V154h2wOwwb) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC) | [Hex So Heavy](https://open.spotify.com/album/4lMUdnfOb3Aq0wIHoxhHy4) | 3:05 |
-| 38 | [Euphoria](https://open.spotify.com/track/6OX0qDykYQe5Ih0DdOcVUS) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0), [Joseph H Gilmore Jr.](https://open.spotify.com/artist/6Z5rka6DaBjeczNd7IIJbQ) | [Euphoria](https://open.spotify.com/album/0lnwJGOJJnCn0xFlDQYdhJ) | 3:03 |
+| 38 | [Euphoria](https://open.spotify.com/track/6OX0qDykYQe5Ih0DdOcVUS) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Euphoria](https://open.spotify.com/album/0lnwJGOJJnCn0xFlDQYdhJ) | 3:03 |
 | 39 | [PRINCELESS PRINCESS](https://open.spotify.com/track/3ov9X8yrGi3jKX9ua8T2qq) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve) | [PRINCELESS PRINCESS](https://open.spotify.com/album/28RnLQk5KA7XWhaWoijuH1) | 3:43 |
 | 40 | [Dog's Dinner](https://open.spotify.com/track/6pVOmtY7MYzOdV5KwVEvDQ) | [SOFIA ISELLA](https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2) | [Dog's Dinner](https://open.spotify.com/album/29eup3dxdGR1TSGL2NIzS1) | 3:45 |
 | 41 | [Paint The Town Blue \- From The Series "Arcane League of Legends"](https://open.spotify.com/track/2c0cYM1BbZRLprDJUCsH6Q) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Paint The Town Blue \(from the series Arcane League of Legends\)](https://open.spotify.com/album/1Khhjk3sDULsnEGLUVwRwU) | 1:54 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 80 | [TEETHSUCKER \(YEA3x\)](https://open.spotify.com/track/36gQ2Hyr8ErtuxmssOYEOX) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [TEETHSUCKER \(YEA3x\)](https://open.spotify.com/album/3pS5fcf4omfdgFP14wvmqJ) | 2:18 |
 | 81 | [PROCESS](https://open.spotify.com/track/3x6lOFML8ac5n3YXx8SFD0) | [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W) | [PROCESS](https://open.spotify.com/album/49gnJfMCTEctGmp4B6AeU5) | 2:38 |
 
-Snapshot ID: `aDmITQAAAAC+x6e7rtsBrZCpvoN52tzx`
+Snapshot ID: `aDmITQAAAAAnpeKwoH0wBL6427mLBu+F`

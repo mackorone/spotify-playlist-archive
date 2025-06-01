@@ -1,29 +1,13 @@
 {
   "description": "This is Green Day. The essential tracks, all in one playlist.",
-  "num_followers": 1109778,
+  "num_followers": 1110058,
   "original_name": "This Is Green Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDejgAAAAAD34iH36A1ybXd5ikD51xve",
+  "snapshot_id": "aDj1AAAAAAC2FYzT58d+HI3Yf17qfhIj",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ballyhoo",
-        "url": "https://open.spotify.com/album/4YgpNAv2LjHEcPX2L4rtV3"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 165974,
-      "name": "Ballyhoo",
-      "url": "https://open.spotify.com/track/6Gfxs9YRSHZH6g53mcsHRZ"
-    },
     {
       "added_at": null,
       "album": {
@@ -299,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Smash It Like Belushi",
-        "url": "https://open.spotify.com/album/6UsVWmVhrnbaeHxeZKZhoU"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 168554,
-      "name": "Smash It Like Belushi",
-      "url": "https://open.spotify.com/track/5VJNF9RdCPN99IDCbmMchz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Warning",
         "url": "https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB"
       },
@@ -331,6 +299,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Smash It Like Belushi",
+        "url": "https://open.spotify.com/album/6UsVWmVhrnbaeHxeZKZhoU"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 168554,
+      "name": "Smash It Like Belushi",
+      "url": "https://open.spotify.com/track/5VJNF9RdCPN99IDCbmMchz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dookie",
         "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 233240,
       "name": "Longview",
       "url": "https://open.spotify.com/track/3LRJbFT9rKoKv4aW7PuBJC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ballyhoo",
+        "url": "https://open.spotify.com/album/4YgpNAv2LjHEcPX2L4rtV3"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 165974,
+      "name": "Ballyhoo",
+      "url": "https://open.spotify.com/track/6Gfxs9YRSHZH6g53mcsHRZ"
     },
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nimrod",
-        "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 171466,
-      "name": "Hitchin' a Ride",
-      "url": "https://open.spotify.com/track/6WlmA3HPHuNIR2mxI8LkZF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dookie",
         "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 127533,
       "name": "Burnout",
       "url": "https://open.spotify.com/track/7dVDWf0wud70V4PgYfKnaG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nimrod",
+        "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 171466,
+      "name": "Hitchin' a Ride",
+      "url": "https://open.spotify.com/track/6WlmA3HPHuNIR2mxI8LkZF"
     },
     {
       "added_at": null,

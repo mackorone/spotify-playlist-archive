@@ -1,12 +1,12 @@
 {
   "description": "This is EARTHGANG. The essential tracks, all in one playlist.",
-  "num_followers": 22179,
+  "num_followers": 22182,
   "original_name": "This Is EARTHGANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDejgAAAAAAxsBpVrzrAlawl2S/kGUuq",
+  "snapshot_id": "aDj1AAAAAAA+2emNPynjd6rWs8UuRFgw",
   "tracks": [
     {
       "added_at": null,
@@ -631,26 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revenge Of The Dreamers III",
-        "url": "https://open.spotify.com/album/2n3quCZ0anEa46j2IveacI"
-      },
-      "artists": [
-        {
-          "name": "Dreamville",
-          "url": "https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 194613,
-      "name": "Swivel (with EARTHGANG) - From The Album \"Mirrorland\"",
-      "url": "https://open.spotify.com/track/03XfngWwNfhEjrnEga73Rg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spilligion",
         "url": "https://open.spotify.com/album/2L13Kv0sx6GPAHo7QTZLAy"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 260086,
       "name": "Shiva (with JID & EARTHGANG feat. Benji. & Jurdan Bryant)",
       "url": "https://open.spotify.com/track/6NszDAUWi40uiQhXRT9p09"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revenge Of The Dreamers III",
+        "url": "https://open.spotify.com/album/2n3quCZ0anEa46j2IveacI"
+      },
+      "artists": [
+        {
+          "name": "Dreamville",
+          "url": "https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "duration_ms": 194613,
+      "name": "Swivel (with EARTHGANG) - From The Album \"Mirrorland\"",
+      "url": "https://open.spotify.com/track/03XfngWwNfhEjrnEga73Rg"
     },
     {
       "added_at": null,
@@ -723,26 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Song Machine, Season One: Strange Timez (Deluxe)",
-        "url": "https://open.spotify.com/album/5I9K0u8r52jp4Y2bF8mOaz"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 410801,
-      "name": "Opium (feat. EARTHGANG)",
-      "url": "https://open.spotify.com/track/4jNs9cJBsFTiahZAe3iuwV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spilligion",
         "url": "https://open.spotify.com/album/2L13Kv0sx6GPAHo7QTZLAy"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 333328,
       "name": "End Of Daze (with EARTHGANG & JID feat. Jurdan Bryant, Mereba & Hollywood JB)",
       "url": "https://open.spotify.com/track/7KwGV5HUzjLIk1yFCYAfMn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Song Machine, Season One: Strange Timez (Deluxe)",
+        "url": "https://open.spotify.com/album/5I9K0u8r52jp4Y2bF8mOaz"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "duration_ms": 410801,
+      "name": "Opium (feat. EARTHGANG)",
+      "url": "https://open.spotify.com/track/4jNs9cJBsFTiahZAe3iuwV"
     },
     {
       "added_at": null,
@@ -1003,6 +1003,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Spilligion",
+        "url": "https://open.spotify.com/album/2L13Kv0sx6GPAHo7QTZLAy"
+      },
+      "artists": [
+        {
+          "name": "Spillage Village",
+          "url": "https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "duration_ms": 290035,
+      "name": "Mecca (with JID & EARTHGANG)",
+      "url": "https://open.spotify.com/track/7f6CWizFGRfpyOstAbyxy1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Anger Management",
         "url": "https://open.spotify.com/album/5JbeU5WL1WAGxy1u5fsOmf"
       },
@@ -1027,30 +1051,6 @@
       "duration_ms": 172240,
       "name": "Big Titties (feat. Baauer and EarthGang)",
       "url": "https://open.spotify.com/track/77lHSh6eoMiKWRxczAPQ1k"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Spilligion",
-        "url": "https://open.spotify.com/album/2L13Kv0sx6GPAHo7QTZLAy"
-      },
-      "artists": [
-        {
-          "name": "Spillage Village",
-          "url": "https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf"
-        },
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 290035,
-      "name": "Mecca (with JID & EARTHGANG)",
-      "url": "https://open.spotify.com/track/7f6CWizFGRfpyOstAbyxy1"
     },
     {
       "added_at": null,

@@ -1864,10 +1864,40 @@
       ],
       "date_added": "2024-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-01",
       "duration_ms": 199280,
       "name": "On Sum",
       "url": "https://open.spotify.com/track/4VqhoxedyPnVv0lnNoP9q6"
+    },
+    {
+      "album": {
+        "name": "On Sum (MPH Remix)",
+        "url": "https://open.spotify.com/album/2GG04Ana1NWA4pScy2s0RO"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Rae Khalil",
+          "url": "https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq"
+        }
+      ],
+      "date_added": "2025-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232848,
+      "name": "On Sum - MPH Remix",
+      "url": "https://open.spotify.com/track/56McsSccOr6K5Pm8q2HZCP"
     },
     {
       "album": {

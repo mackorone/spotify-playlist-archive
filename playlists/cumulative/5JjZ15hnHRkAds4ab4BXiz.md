@@ -4,7 +4,7 @@
 
 > 
 
-544 songs - 1 day 10 hr 25 min
+546 songs - 1 day 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,7 @@
 | [Dope Nose](https://open.spotify.com/track/741oLronOsunwlx4MSZ6YY) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Maladroit](https://open.spotify.com/album/274YHaMmctXWht39Olh8ub) | 2:17 | 2024-04-09 |  |
 | [Drag Queen](https://open.spotify.com/track/6k9mEHQUBi2IgFWkutnXaN) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Future Present Past](https://open.spotify.com/album/1SQjs5LxCj7J5WIZYg3h1D) | 4:33 | 2024-06-29 |  |
 | [Dream \(Bonus Track\)](https://open.spotify.com/track/1rZjND3XQhSDIrGi78aWmZ) | [Tally Hall](https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL) | [Marvin's Marvelous Mechanical Museum](https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5) | 1:49 | 2024-05-22 |  |
-| [Dress Up For You](https://open.spotify.com/track/6RQSNldulpDXbyvAANcaEy) | [The Technicolors](https://open.spotify.com/artist/6hQS54VPpxunuwR0W7usuo) | [Cinema Sublimina](https://open.spotify.com/album/0ywqrwzSXOdWbICsAuICdt) | 3:43 | 2024-07-31 |  |
+| [Dress Up For You](https://open.spotify.com/track/6RQSNldulpDXbyvAANcaEy) | [The Technicolors](https://open.spotify.com/artist/6hQS54VPpxunuwR0W7usuo) | [Cinema Sublimina](https://open.spotify.com/album/0ywqrwzSXOdWbICsAuICdt) | 3:43 | 2024-07-31 | 2025-06-01 |
 | [Drink With A Friend](https://open.spotify.com/track/7KARCE6ooKxr6660NWaoaW) | [Mustard Service](https://open.spotify.com/artist/7kAZYW5e5hQHYGQ0XHYhns) | [Drink With A Friend](https://open.spotify.com/album/6NoGQhTsy0GGRTEyTtaZqy) | 1:51 | 2024-12-31 |  |
 | [Drive](https://open.spotify.com/track/0lrYqe4ICHQEEn0K4eQ7d9) | [Kolektivo](https://open.spotify.com/artist/49KPk2yG5dFFH0Tnmob13T) | [Drive](https://open.spotify.com/album/2C0TUEdw7XJyNGcbO9Y4wZ) | 2:04 | 2024-01-18 | 2024-06-11 |
 | [Drugs & Alcohol](https://open.spotify.com/track/0EFcQAlxVQzYbraMi4KFvh) | [Mustard Service](https://open.spotify.com/artist/7kAZYW5e5hQHYGQ0XHYhns) | [Fiddle Lake](https://open.spotify.com/album/6aeO2gNhNcKSZ0Tc2ID8ss) | 3:20 | 2024-12-31 |  |
@@ -183,6 +183,7 @@
 | [Heaven](https://open.spotify.com/track/3WUetIYOqcHBqRIQqyUTCN) | [benches](https://open.spotify.com/artist/62U36LEen0wpm8L5q68iVu) | [Wishful Thinking \(At Its Best\)](https://open.spotify.com/album/3s8ye09tTmZjV0qbT9bloP) | 2:53 | 2025-02-15 |  |
 | [Heaven Knows I'm Miserable Now \- 2011 Remaster](https://open.spotify.com/track/1xaTREM89RbIxkcjlpf4Uw) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Hatful of Hollow](https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv) | 3:35 | 2024-03-27 |  |
 | [Helicopter](https://open.spotify.com/track/7vjzFWG4neQ9YYMN9yZ9hr) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm](https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t) | 3:40 | 2024-12-29 |  |
+| [Here Come The Bitter Tears](https://open.spotify.com/track/3sx96rFWBPAqIV3GktURnX) | [benches](https://open.spotify.com/artist/62U36LEen0wpm8L5q68iVu) | [Kill The Lights](https://open.spotify.com/album/07YRYrOVpy3S6kTnd3A2zO) | 3:58 | 2025-05-31 |  |
 | [Here We Are \(For W\. Cullen Hart\)](https://open.spotify.com/track/6M1I7wG0zhA2WihCdBd2tt) | [Neutral Milk Hotel](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) | [Everything Is](https://open.spotify.com/album/1bJ7SFKnVcexGafRpKmLKO) | 2:33 | 2024-04-20 |  |
 | [Heroin](https://open.spotify.com/track/5by3w3NXvwDpV9FBSOR35u) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC), [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [The Velvet Underground & Nico 45th Anniversary](https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV) | 7:13 | 2024-07-10 |  |
 | [Hidden In the Sand](https://open.spotify.com/track/0RjG5JmdOWXAR68dGlKBA5) | [Tally Hall](https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL) | [Marvin's Marvelous Mechanical Museum](https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5) | 1:52 | 2024-04-30 |  |
@@ -370,6 +371,7 @@
 | [QYURRYUS](https://open.spotify.com/track/6pMRk6Tr05wmZSSINOqzE3) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Virtue](https://open.spotify.com/album/2dMmcXlG8xtRJNlsjIrPWe) | 2:52 | 2024-06-06 |  |
 | [Rapp Snitch Knishes](https://open.spotify.com/track/5KUNwkaNf8l5A9sXZhiCgI) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [Mr\. Fantastik](https://open.spotify.com/artist/7hpzx6fecRavN1B1YMxpOb) | [MM..FOOD](https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N) | 2:52 | 2023-11-14 |  |
 | [Razorblade](https://open.spotify.com/track/4UF1eupXP9Zz5GpYepyOxI) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [First Impressions Of Earth](https://open.spotify.com/album/1HQ61my1h3VWp2EBWKlp0n) | 3:28 | 2024-06-10 |  |
+| [Reach](https://open.spotify.com/track/1xUwUFgcNIN5PjroCkkOol) | [benches](https://open.spotify.com/artist/62U36LEen0wpm8L5q68iVu) | [Kill The Lights](https://open.spotify.com/album/07YRYrOVpy3S6kTnd3A2zO) | 2:55 | 2025-05-31 |  |
 | [Reality In Motion](https://open.spotify.com/track/3I7OmVsk4Hm5LBbs2GmhlD) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 4:12 | 2024-01-17 |  |
 | [Red Handed](https://open.spotify.com/track/3RMHMBCKv4mgw5cyA9Pgqt) | [benches](https://open.spotify.com/artist/62U36LEen0wpm8L5q68iVu) | [Vandalism](https://open.spotify.com/album/6Fq5QneS9DLl88xcQGug00) | 2:58 | 2024-07-31 |  |
 | [Red Light](https://open.spotify.com/track/6KXuDNOwiNR0q7KLGXs3Bo) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [First Impressions Of Earth](https://open.spotify.com/album/1HQ61my1h3VWp2EBWKlp0n) | 3:11 | 2024-04-19 |  |

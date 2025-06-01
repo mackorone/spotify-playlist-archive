@@ -2,9 +2,9 @@
 
 ### [Gospel Classics](https://open.spotify.com/playlist/37i9dQZF1DXcuQS7VQhd6f)
 
-> All the Gospel classics you, your mama, and your mama's mama love, in one encouraging playlist!  Cover: Marvin Sapp
+> All the Gospel classics you, your mama, and your mama's mama love, in one encouraging playlist!  Cover: Isreal Houghton
 
-150 songs - 14 hr 15 min
+151 songs - 14 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Great Is Your Mercy \- Live](https://open.spotify.com/track/62DNye6dXRsmZNVJaXZYc5) | [Donnie McClurkin](https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra) | [Live in London and More ..](https://open.spotify.com/album/6A55aHMWgoZgzjLfsTJU6v) | 8:04 | 2024-12-02 |  |
 | [He Wants It All](https://open.spotify.com/track/1A3Hqv4qJd1RBJMq4au7GS) | [Forever Jones](https://open.spotify.com/artist/4s9LVgzhn2WH4gFlN3am1Q) | [Get Ready](https://open.spotify.com/album/6NkYBmhWU3LERnRJg4sgu6) | 3:27 | 2024-12-02 |  |
 | [He Was There All The Time](https://open.spotify.com/track/6z99aOBhgoK5cbeawSP6Es) | [Rev\. James Moore](https://open.spotify.com/artist/2r7fA3DrMO5JXl3uoOLkaN) | [The Very Best Of Rev\. James Moore](https://open.spotify.com/album/4TO8y1sZBFttg6CHVkRZGh) | 7:15 | 2024-12-02 |  |
-| [He's Able \- Live](https://open.spotify.com/track/537bauuRZw1QMo3Ya4vZrz) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Kirk Franklin and the Family](https://open.spotify.com/album/4b1c7FWhyhIZ6OYINCx107) | 4:05 | 2024-12-02 |  |
+| [He's Able \- Live](https://open.spotify.com/track/537bauuRZw1QMo3Ya4vZrz) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Kirk Franklin and the Family](https://open.spotify.com/album/4b1c7FWhyhIZ6OYINCx107) | 4:05 | 2024-12-02 | 2025-06-01 |
 | [He's An On Time God](https://open.spotify.com/track/0FeRIc9264zC1Uo9PdZVf3) | [Dottie Peoples & The Peoples Choice Chorale](https://open.spotify.com/artist/1NqEdHZu5o9r4I37uGUNHI) | [On Time God](https://open.spotify.com/album/0dxumKdj4uqdUsJCivUuTv) | 5:52 | 2024-12-02 |  |
 | [Here I Am To Worship](https://open.spotify.com/track/7BZ17guc4xS23ZVJ1s89Kj) | [William McDowell](https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN) | [As We Worship Live](https://open.spotify.com/album/0ejgR3hHi3voRjeBex95cx) | 3:41 | 2024-12-02 |  |
 | [His Eye Is On the Sparrow](https://open.spotify.com/track/5XDOwqC7uOz4yVlXxml85M) | [Mahalia Jackson](https://open.spotify.com/artist/6QBUIuGCAJSAtefEY1EEdB) | [Gospels, Spirituals, & Hymns](https://open.spotify.com/album/3HLro5JgcU0df3rnJ4FXlV) | 4:21 | 2024-12-02 |  |
@@ -124,6 +124,7 @@
 | [Take Me to the King \(feat\. Kirk Franklin\)](https://open.spotify.com/track/6fG46PUotZMTgcAzAtFLOk) | [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Best Days](https://open.spotify.com/album/16Ljgzu7nBDSjTXJkCgBaJ) | 4:47 | 2024-12-02 |  |
 | [Take My Hand Precious Lord](https://open.spotify.com/track/5rTeB5roClzItVdGeYDDla) | [Mahalia Jackson](https://open.spotify.com/artist/6QBUIuGCAJSAtefEY1EEdB) | [Sings the Best\-Loved Hymns of Dr\. Martin Luther King, Jr.](https://open.spotify.com/album/7vbdNHLadnywl3ofFp0nIE) | 4:17 | 2024-12-02 |  |
 | [Take My Life \(Holiness\) Live](https://open.spotify.com/track/2ujX1PmAdMh3gwF0bCh9Ks) | [Micah Stampley](https://open.spotify.com/artist/32HUki1MDatCzJlahnhjqK) | [The Songbook of Micah](https://open.spotify.com/album/0PFzNqqZ2olUeRnkPIkvOJ) | 6:10 | 2024-12-02 |  |
+| [Take My Life \- Live](https://open.spotify.com/track/6Xbj9AtRjYPcozeSDFVF2z) | [Micah Stampley](https://open.spotify.com/artist/32HUki1MDatCzJlahnhjqK) | [The Songbook Of Micah \(Live\)](https://open.spotify.com/album/1H02658dewlx1vuL4MmGQz) | 6:06 | 2025-05-31 |  |
 | [Testimony](https://open.spotify.com/track/37PMWc1U9QTGRSh9cKzvDj) | [Anthony Brown & group therAPy](https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w), [Group Therapy](https://open.spotify.com/artist/0f7eDR1n3XZwch1xXwEsYW) | [Anthony Brown & group therAPy](https://open.spotify.com/album/1oavdXITKhu6Mgb1YlIOoN) | 4:17 | 2024-12-02 |  |
 | [Thank You](https://open.spotify.com/track/3mhfZz57Xbt7rBuTcxSR3p) | [Walter Hawkins](https://open.spotify.com/artist/12pzJohM40StvAPzI1t3Tb) | [Love Alive IV](https://open.spotify.com/album/54D2RsYSwVIS6QIpKclaOd) | 10:42 | 2024-12-02 |  |
 | [The Battle Is the Lord's](https://open.spotify.com/track/2XVRlYilsT0FEMetvDI0UA) | [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [Save The World](https://open.spotify.com/album/2id38Vd87tLJiKOHfWRqLH) | 4:24 | 2024-12-02 |  |

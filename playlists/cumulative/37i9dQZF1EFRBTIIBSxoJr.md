@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7zjIlRz0yNsZwtpV07KLBI">RuthAnne Cunningham</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-140 songs - 7 hr 56 min
+141 songs - 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [For the One I Love](https://open.spotify.com/track/7ppWqAMqilpFlu85s2x11H) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 3:21 | 2024-03-01 |  |
 | [Four Letters](https://open.spotify.com/track/1SujOS52KWiUrFbhGSSv0T) | [Lawson](https://open.spotify.com/artist/2Ah7S4oLgEBYRbz2V0cZzU) | [Hell Yeah](https://open.spotify.com/album/4uX8OvNcCFkOr1WRVgLKO6) | 3:18 | 2024-03-01 |  |
 | [Freedom](https://open.spotify.com/track/1Y7PcAoFbvlTWGX75kzyf5) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Elijah Blake](https://open.spotify.com/artist/65OtBLtkrifQrdTlKI90IR) | [Jesus Piece \(Deluxe\)](https://open.spotify.com/album/5IBNSiR9VYaGIxOfcOJ2LB) | 5:46 | 2024-03-01 |  |
-| [Freedom \(feat\. Jussie Smollett\)](https://open.spotify.com/track/3K21eqPSN8Fb4SxEnKfEOo) | [Empire Cast](https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA), [Jussie Smollett](https://open.spotify.com/artist/120Hnh6hOWiIpfL4WDo7nm) | [Empire: Original Soundtrack, Season 2 Volume 2 \(Deluxe\)](https://open.spotify.com/album/5F63FnyDVZcFljjvVRdPd8) | 3:05 | 2024-03-01 |  |
+| [Freedom \(feat\. Jussie Smollett\)](https://open.spotify.com/track/3K21eqPSN8Fb4SxEnKfEOo) | [Empire Cast](https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA), [Jussie Smollett](https://open.spotify.com/artist/120Hnh6hOWiIpfL4WDo7nm) | [Empire: Original Soundtrack, Season 2 Volume 2 \(Deluxe\)](https://open.spotify.com/album/5F63FnyDVZcFljjvVRdPd8) | 3:05 | 2024-03-01 | 2025-06-01 |
 | [G Train](https://open.spotify.com/track/0vYIpioP94c4gwxOyopklE) | [Thirdstory](https://open.spotify.com/artist/7GJbWH8vhhuW22707B8HsW) | [Searching](https://open.spotify.com/album/7pjWbCevZabqDKwm26ggKd) | 3:35 | 2024-03-01 |  |
 | [Gatekeeper](https://open.spotify.com/track/02T6r1FheCaKwnJUwNJ04I) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE), [Ally Brooke](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) | [Gatekeeper](https://open.spotify.com/album/7qEf07O8bfCTYzxrUmhkgq) | 2:30 | 2024-03-01 |  |
 | [Ghosted \- Zac Samuel Remix](https://open.spotify.com/track/1DCSbC1KGolxOh2jBKhBUC) | [Lost + Found](https://open.spotify.com/artist/5mRE8kKA1XzOkZpPSiF5yv), [Zac Samuel](https://open.spotify.com/artist/3imlibJrwqYv8gqII7u4r0) | [Ghosted \(Remixes\)](https://open.spotify.com/album/2s0Zp40uEuirxptvvuKtLQ) | 3:27 | 2024-03-01 |  |
@@ -131,8 +131,9 @@
 | [Together at Christmas](https://open.spotify.com/track/4Y0KsTh7z3u5iCwFQUeR7L) | [Irish Women In Harmony](https://open.spotify.com/artist/3OVmFlXlOUDDxOxnV59M9D) | [Together at Christmas](https://open.spotify.com/album/4oYP3y50gnOTMe7l3jF3K9) | 3:37 | 2025-01-23 |  |
 | [Together at Christmas](https://open.spotify.com/track/6D4jcmHdZImJpF7dSQsOKq) | [Irish Women In Harmony](https://open.spotify.com/artist/3OVmFlXlOUDDxOxnV59M9D) | [Together at Christmas](https://open.spotify.com/album/0ZfBk0onUOJHhplkIxoM98) | 3:37 | 2024-03-01 | 2025-01-24 |
 | [Too Far Too Fast](https://open.spotify.com/track/7AjeT5L26HUrxYTPT4W4MI) | [Brasstracks](https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr), [Thirdstory](https://open.spotify.com/artist/7GJbWH8vhhuW22707B8HsW) | [For Those Who Know \(Deluxe\)](https://open.spotify.com/album/0fxgKBBV8CakW0ZSgLaHd3) | 3:28 | 2024-03-01 |  |
+| [Too Little Too Late](https://open.spotify.com/track/2H5YDS0csmS7gEuruC6LQt) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [The High Road](https://open.spotify.com/album/2GJW4wI7cQ0BWkY24Fv5eZ) | 3:41 | 2025-05-31 |  |
 | [Too Little Too Late](https://open.spotify.com/track/4T4NLIMypdmyUwK54jECk4) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [The High Road](https://open.spotify.com/album/3ym3JtyhWmVIJzEzTCCsHa) | 3:41 | 2024-03-01 | 2024-10-20 |
-| [Too Little Too Late](https://open.spotify.com/track/6BxGP8hwjuKKka0J7vvtEd) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [The High Road](https://open.spotify.com/album/1hpKnksIsZKzFlfJa94SEF) | 3:41 | 2024-10-19 |  |
+| [Too Little Too Late](https://open.spotify.com/track/6BxGP8hwjuKKka0J7vvtEd) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [The High Road](https://open.spotify.com/album/1hpKnksIsZKzFlfJa94SEF) | 3:41 | 2024-10-19 | 2025-06-01 |
 | [Too Young](https://open.spotify.com/track/1dBwVbRLGAZzkRAt5RbS1I) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 3:19 | 2024-03-01 |  |
 | [Trust Myself \(feat\. Gallant\)](https://open.spotify.com/track/4toChdeQFhnq2hngxaOKvm) | [TIA RAY](https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL), [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [Trust Myself \(feat\. Gallant\)](https://open.spotify.com/album/1GVE8WmZmTLYLmawzSmeWv) | 3:37 | 2024-03-01 |  |
 | [Turn It Up](https://open.spotify.com/track/19j14tCOxrcR655XaodsBB) | [Pixie Lott](https://open.spotify.com/artist/3EBRANWwnViQuBrImN61Z1) | [Turn It Up](https://open.spotify.com/album/4S2rMIWiGeYCe5pxZxycyN) | 3:16 | 2024-03-01 |  |

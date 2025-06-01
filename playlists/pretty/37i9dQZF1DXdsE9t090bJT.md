@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsE9t090bJT.md) - [plain]
 
 > Súbete a la troca ❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,917 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,938 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,13 +96,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsE9t090bJT.md) - [plain]
 | 86 | [Tu Belleza](https://open.spotify.com/track/7J9QvKA6f5BhZtRbWnL7tI) | [Christian Lara](https://open.spotify.com/artist/0eptefgBKrNB6UAZvrX9c5), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Tu Belleza](https://open.spotify.com/album/3wzeBIxedazMhG0oiSryZ8) | 3:20 |
 | 87 | [Cartas](https://open.spotify.com/track/6mi1TWZQeYnK5BmSDC3q5N) | [whathedgar](https://open.spotify.com/artist/5tO4Hf0EVv8MRtvJHgANcB), [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Cartas](https://open.spotify.com/album/6WZShqo7ZujFuNJS7Aeoa1) | 2:33 |
 | 88 | [Ganas De Ti](https://open.spotify.com/track/6HmqcVpzZrbvec4Tdpn7LB) | [Ismael CM](https://open.spotify.com/artist/3HU9m7qsanEKWC9kwxWsRR), [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac), [Yahir Tarin](https://open.spotify.com/artist/2YUtlNyQTom6uTK0wV0HMQ) | [Ganas De Ti](https://open.spotify.com/album/3oOyMmhpVUQ0r8BdP1y5ox) | 3:11 |
-| 89 | [ME TODO](https://open.spotify.com/track/3txgvzWrRcSBSp70btzMmG) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6) | [ME TODO](https://open.spotify.com/album/56HJIyM6FmOn1xEEDoJzz6) | 2:33 |
-| 90 | [Subete A Mi Troca](https://open.spotify.com/track/31i2tCtppcIKZgEQx5qdHc) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Aunque Digan](https://open.spotify.com/album/29b00fvXr3hwLz02dQb3ng) | 2:22 |
+| 89 | [Subete A Mi Troca](https://open.spotify.com/track/31i2tCtppcIKZgEQx5qdHc) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Aunque Digan](https://open.spotify.com/album/29b00fvXr3hwLz02dQb3ng) | 2:22 |
+| 90 | [ME TODO](https://open.spotify.com/track/3txgvzWrRcSBSp70btzMmG) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6) | [ME TODO](https://open.spotify.com/album/56HJIyM6FmOn1xEEDoJzz6) | 2:33 |
 | 91 | [No Soy Como Tu \(Remix\)](https://open.spotify.com/track/0vvpgtDt8kckk9v8NZ7d6U) | [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac), [Los Caliz](https://open.spotify.com/artist/4S7g1b3zVElT70kZGKkXiz) | [No Soy Como Tu \(Remix\)](https://open.spotify.com/album/621GOUcHAH1mlNtrH0BFbs) | 3:09 |
 | 92 | [Me Dejaste Sin Saber](https://open.spotify.com/track/0OGNDibw65fpEaWaKE7lLv) | [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Me Dejaste Sin Saber](https://open.spotify.com/album/1uOq3hUUxrryq8vgUBIESQ) | 2:31 |
 | 93 | [Feliz Cumpleaños Ferxxo](https://open.spotify.com/track/0dyggYGK7keiyhNaxo1XLy) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Feliz Cumpleaños Ferxxo](https://open.spotify.com/album/7yyvOT1nCkOMoCAsr2Rid0) | 2:50 |
-| 94 | [CHULA](https://open.spotify.com/track/3X39TEP3dMfJzvYJrp18UH) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6), [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp) | [CHULA](https://open.spotify.com/album/4KblreEPyinh0NwO6TjTSa) | 2:48 |
-| 95 | [No Está Funcionando](https://open.spotify.com/track/3fh2N8IxMdIBCX1rN7XrZG) | [Zulia](https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp), [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz) | [No Está Funcionando](https://open.spotify.com/album/1K6oFJMQ8v17VVGWA8AALU) | 2:41 |
+| 94 | [No Está Funcionando](https://open.spotify.com/track/3fh2N8IxMdIBCX1rN7XrZG) | [Zulia](https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp), [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz) | [No Está Funcionando](https://open.spotify.com/album/1K6oFJMQ8v17VVGWA8AALU) | 2:41 |
+| 95 | [CHULA](https://open.spotify.com/track/3X39TEP3dMfJzvYJrp18UH) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6), [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp) | [CHULA](https://open.spotify.com/album/4KblreEPyinh0NwO6TjTSa) | 2:48 |
 | 96 | [Nuestras Vidas](https://open.spotify.com/track/2Hi7EbQELE4aJHLbP05v1P) | [Christian Lara](https://open.spotify.com/artist/0eptefgBKrNB6UAZvrX9c5), [Omar Rodriguez](https://open.spotify.com/artist/49rfzquok2HChfbpCvvHKD) | [Nuestras Vidas](https://open.spotify.com/album/50sHLZrA8kqPy9Xw5bbj8C) | 3:03 |
 | 97 | [Ando Free](https://open.spotify.com/track/4d3hhn6sEfrxEv11zGVJC7) | [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp), [Doble Cara](https://open.spotify.com/artist/3lecORpfeJJC7LhvZBBPYf) | [Ando Free](https://open.spotify.com/album/0NoQPCukAasKcHUePQhFDv) | 2:04 |
 | 98 | [Modo Cherry](https://open.spotify.com/track/2NFeRpqiuM24sqMCSCvbDK) | [Gustavo Palafox](https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM) | [Modo Cherry](https://open.spotify.com/album/1HtYRBV05f66fx89bQbSaO) | 2:51 |

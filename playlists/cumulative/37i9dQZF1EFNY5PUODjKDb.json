@@ -3137,6 +3137,24 @@
     },
     {
       "album": {
+        "name": "Les 100 plus belles m\u00e9lodies",
+        "url": "https://open.spotify.com/album/73zAfoOXPBgvDAj3HNqVGg"
+      },
+      "artists": [
+        {
+          "name": "Richard Clayderman",
+          "url": "https://open.spotify.com/artist/0h885xmyK9xHfhyXQr37L6"
+        }
+      ],
+      "date_added": "2025-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215573,
+      "name": "Don't Cry For Me Argentina",
+      "url": "https://open.spotify.com/track/36ij3x9EDTdH22QvYsnj0M"
+    },
+    {
+      "album": {
         "name": "The Love Collection",
         "url": "https://open.spotify.com/album/5b92s9UWoiRLasCAxeMEbR"
       },
@@ -3148,7 +3166,7 @@
       ],
       "date_added": "2025-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-01",
       "duration_ms": 216933,
       "name": "Don't Cry for Me Argentina",
       "url": "https://open.spotify.com/track/7jup0fSS8K38GhvqrAcDuJ"
@@ -3818,7 +3836,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-01",
       "duration_ms": 22426,
       "name": "Fanfare",
       "url": "https://open.spotify.com/track/6oTi6XIHGDKEstJxEEOcQo"
@@ -13168,10 +13186,48 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-01",
       "duration_ms": 316066,
       "name": "The Old Gumbie Cat",
       "url": "https://open.spotify.com/track/0N46LXTVUQyd249H1oKbDv"
+    },
+    {
+      "album": {
+        "name": "Cats (Original Broadway Cast Recording / 1983)",
+        "url": "https://open.spotify.com/album/7dIID5jd8V3fR2NXkonyD3"
+      },
+      "artists": [
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        },
+        {
+          "name": "\"Cats\" 1983 Broadway Cast",
+          "url": "https://open.spotify.com/artist/2cez574BwRD00PGEbNl4SH"
+        },
+        {
+          "name": "Anna Mcneely",
+          "url": "https://open.spotify.com/artist/4cChjyuJwhQnmMNBwArk7W"
+        },
+        {
+          "name": "Rene Ceballos",
+          "url": "https://open.spotify.com/artist/3pQvTs1fxkOC26LuG2bkDi"
+        },
+        {
+          "name": "Donna King",
+          "url": "https://open.spotify.com/artist/4BlarH2Qbfhc3DR4LhHrqp"
+        },
+        {
+          "name": "Bonnie Simmons",
+          "url": "https://open.spotify.com/artist/2oCNLji08Oiqt9uF1FpDZR"
+        }
+      ],
+      "date_added": "2025-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228680,
+      "name": "The Old Gumbie Cat",
+      "url": "https://open.spotify.com/track/6tmZXet9nYltm4z5XPIe01"
     },
     {
       "album": {

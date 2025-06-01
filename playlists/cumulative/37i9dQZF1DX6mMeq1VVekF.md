@@ -4,7 +4,7 @@
 
 > No tags, no labels \- just free form\. Cover: Obongjayar
 
-500 songs - 1 day 1 hr 48 min
+501 songs - 1 day 1 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,7 +266,7 @@
 | [Make a W \(feat\. Skrillex, AJ Tracey & BEAM\)](https://open.spotify.com/track/1TvL9bTK09XpG2NtAkD4nq) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [The Last One](https://open.spotify.com/album/26PpclJsqvQlP50d5XcLWp) | 2:57 | 2024-06-27 | 2025-01-18 |
 | [Make U Go](https://open.spotify.com/track/5V6TcpbAtz5Q0HC0G6XJhF) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Make U Go](https://open.spotify.com/album/4lppAXoOGn4goUQZXs4xPn) | 3:34 | 2022-06-24 | 2022-07-27 |
 | [Malicious Intentions](https://open.spotify.com/track/6scm1j3DHw8v3fQruA9q47) | [Pozer](https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J) | [Malicious Intentions](https://open.spotify.com/album/08yh5bvPQmWiBlLhFmk3ht) | 2:28 | 2024-04-26 | 2025-01-18 |
-| [Man](https://open.spotify.com/track/6CTgTVfaklG9mu9MmrPBzg) | [MRCY](https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh) | [Man](https://open.spotify.com/album/0bzXKj3s2yc7QSrk6YfvwH) | 3:27 | 2025-03-07 |  |
+| [Man](https://open.spotify.com/track/6CTgTVfaklG9mu9MmrPBzg) | [MRCY](https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh) | [Man](https://open.spotify.com/album/0bzXKj3s2yc7QSrk6YfvwH) | 3:27 | 2025-03-07 | 2025-06-01 |
 | [maradona](https://open.spotify.com/track/4INCIqgzproTB7jZXFFFSQ) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp), [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd) | [sand bebé](https://open.spotify.com/album/0MhHU4Blaj1SY1BKnxFBrS) | 2:56 | 2023-08-04 | 2023-08-19 |
 | [Mare](https://open.spotify.com/track/3maTgl5AL7QJoCsQA9odoW) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Sounds of My World](https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH) | 3:29 | 2022-06-24 | 2022-07-29 |
 | [Marley Flow](https://open.spotify.com/track/7KhqcuwBgF2myOiucn5w2R) | [Jords](https://open.spotify.com/artist/7lhD6ETR0JNlpJWYycy3jx) | [Marley Flow](https://open.spotify.com/album/1dMnuVDSbgwh6EHyJsfeqM) | 3:10 | 2024-04-26 | 2024-10-24 |
@@ -297,6 +297,7 @@
 | [More Light \(feat\. Princess Nokia\)](https://open.spotify.com/track/3i6GcEPDKsyChS4mkLFj1z) | [Divine Earth](https://open.spotify.com/artist/3Sjvp3uM9DWVg54ZhdfmO3), [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [More Light \(feat\. Princess Nokia\)](https://open.spotify.com/album/53xHbnROiHwbXgea0I5qW8) | 3:32 | 2025-05-15 |  |
 | [my bad bro](https://open.spotify.com/track/4jpDSTxE9Z890BiWh5KpIy) | [Fimiguerrero](https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du) | [my bad bro](https://open.spotify.com/album/4v5Qe0knp4UtrNsB3PMfWm) | 1:14 | 2025-03-21 |  |
 | [My Bella](https://open.spotify.com/track/0OuGcaERH4qPtFrWOaaNYK) | [BenjiFlow](https://open.spotify.com/artist/3NRpcByltnHx7oZxWbg8Lt), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [My Bella](https://open.spotify.com/album/7uHcYf4zEWTUGm3r4RStlZ) | 2:39 | 2022-06-24 | 2022-07-22 |
+| [My Girl](https://open.spotify.com/track/3plqhYuTPtqtdYNkW419pp) | [Ama](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [My Girl](https://open.spotify.com/album/7twy0Kqh0tnxrZKMUORn09) | 2:58 | 2025-05-29 |  |
 | [my way \(w/ Rico Nasty & Kanii\)](https://open.spotify.com/track/0MIJyhl23TYo8HBVcLxx0Y) | [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW) | [my way \(w/ Rico Nasty & Kanii\)](https://open.spotify.com/album/4CmTdaHt5vFyOQQjjmcruR) | 2:57 | 2024-10-21 | 2025-03-21 |
 | [Nah It Ain't The Same](https://open.spotify.com/track/3KKOxkUPWhKQssiMCSJxqO) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Nah It Ain't The Same](https://open.spotify.com/album/27QNFuoSpcwEYnMJhwHhiP) | 4:11 | 2022-06-24 | 2022-07-29 |
 | [Near Life Experience](https://open.spotify.com/track/5NvkeXRumat4XN88E1psIX) | [Ocean Wisdom](https://open.spotify.com/artist/0D9N9NxMbXKjmoRI1JVdz8) | [Near Life Experience](https://open.spotify.com/album/3Xeg29uWoIOMemK10WNpN1) | 3:42 | 2024-10-03 | 2024-10-11 |

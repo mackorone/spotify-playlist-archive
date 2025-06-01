@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/48Q13iE86Fuum0tHaLrfoq">Joel Little</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,562 likes - 173 songs - 9 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,564 likes - 173 songs - 9 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 | 55 | [Better](https://open.spotify.com/track/0vZhOON6GYVBxv6ZeeHyZ0) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 2:50 |
 | 56 | [Imaginary Friend](https://open.spotify.com/track/79NqxckK3lcOV0DTVXPuEE) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Lady Wood](https://open.spotify.com/album/1tuekzsMZQOuiMejKP6t2Y) | 4:12 |
 | 57 | [JEKYLL & HIDE](https://open.spotify.com/track/3UmBgQiJhbNMmyPVceuH4d) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [CHAMPION](https://open.spotify.com/album/10XDik8bnbbPTfpO05tjwx) | 3:16 |
-| 58 | [Come Down](https://open.spotify.com/track/4QjtXlzepoVp3YXMvwxyyr) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Come Down](https://open.spotify.com/album/4eRfLOEHV8z0HZN7gg8UYh) | 2:59 |
-| 59 | [If You Leave Me](https://open.spotify.com/track/4tTb7uAXFqI84T3ZIDBhxf) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 2:59 |
+| 58 | [If You Leave Me](https://open.spotify.com/track/4tTb7uAXFqI84T3ZIDBhxf) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 2:59 |
+| 59 | [Come Down](https://open.spotify.com/track/4QjtXlzepoVp3YXMvwxyyr) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Come Down](https://open.spotify.com/album/4eRfLOEHV8z0HZN7gg8UYh) | 2:59 |
 | 60 | [Wishful Thinking](https://open.spotify.com/track/1vJKO2Phq0XB5MoZ6iMx8x) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 2:40 |
 | 61 | [Happy When I'm Sad](https://open.spotify.com/track/6DibqiBTKMob2SjBwKqRfS) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 2:38 |
 | 62 | [You Could Start A Cult](https://open.spotify.com/track/3iVmzeoFR0AZrn8EYFnEsB) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 3:20 |
@@ -125,8 +125,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 | 115 | [Apartment Song](https://open.spotify.com/track/0h6ymtVt32j6qKZzzMs8aV) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [In The Meantime](https://open.spotify.com/album/5reEg9or7xqpXy6XLVIoTE) | 3:41 |
 | 116 | [Moment](https://open.spotify.com/track/1FbZA1NUgt5VwTcLF2VlDw) | [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [FAME](https://open.spotify.com/album/3pF80DknR77Qb9gyd1CXM9) | 3:13 |
 | 117 | [High](https://open.spotify.com/track/7oNh0H3emjOKRpouhUxRdp) | [Jarryd James](https://open.spotify.com/artist/23IZADrJHPStZ6aMxJVq3s) | [Thirty One](https://open.spotify.com/album/4kZKz4ZQCnuKWV6MqOR2H2) | 4:41 |
-| 118 | [Taunting The Cat](https://open.spotify.com/track/3giDeoZ22HmFOLPJXzT6va) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Hunger Games: Mockingjay Pt\. 1 \(Original Motion Picture Score\)](https://open.spotify.com/album/44qAUS0siEj2plisdS25xw) | 2:09 |
-| 119 | [too good](https://open.spotify.com/track/72pEJrNzZkImzQYeGXerzP) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [D R E A M S I C L E](https://open.spotify.com/album/5KE34iOewqgS2DNW3fHyih) | 2:40 |
+| 118 | [too good](https://open.spotify.com/track/72pEJrNzZkImzQYeGXerzP) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [D R E A M S I C L E](https://open.spotify.com/album/5KE34iOewqgS2DNW3fHyih) | 2:40 |
+| 119 | [Taunting The Cat](https://open.spotify.com/track/3giDeoZ22HmFOLPJXzT6va) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Hunger Games: Mockingjay Pt\. 1 \(Original Motion Picture Score\)](https://open.spotify.com/album/44qAUS0siEj2plisdS25xw) | 2:09 |
 | 120 | [Late Night Drive](https://open.spotify.com/track/2M6x4V5ckoyyrtUsrhOFi8) | [Daniel Johns](https://open.spotify.com/artist/52sbFniPptK6lNYHmuoPpz) | [Aerial Love](https://open.spotify.com/album/3D2NCHaFWyCnQy6eNwErtt) | 3:05 |
 | 121 | [My Only \- Australian Version](https://open.spotify.com/track/01VFBMQLUpPQNToSqz2eIW) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Always and Never](https://open.spotify.com/album/4p71f2M9TBAKbJC6F2eVu0) | 2:32 |
 | 122 | [Miracles](https://open.spotify.com/track/4PHMdyklCcSlTCOvW4sJN5) | [Jarryd James](https://open.spotify.com/artist/23IZADrJHPStZ6aMxJVq3s) | [P.M.](https://open.spotify.com/album/6EgGNPLYyZQ8PgqBykq5M3) | 3:24 |
@@ -182,4 +182,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 | 172 | [Suffocating Slow](https://open.spotify.com/track/31NFESnhQMw2XQMt41EJ1Q) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Always and Never](https://open.spotify.com/album/3x3lrvuEZeyt6ocLp4XTOT) | 3:08 |
 | 173 | [The Way I Are \(Dance with Somebody\)](https://open.spotify.com/track/4JlnIhyQLH7733f8AH4OhZ) | [Layla Evans](https://open.spotify.com/artist/62f3DqAKO4ub6FtBchPUsI), [Mario Best](https://open.spotify.com/artist/1WycnPFicBoKKr7wWpDTns) | [Best of Pop Hits Today](https://open.spotify.com/album/1l629hKJwRUOlVP7MtqHDE) | 3:11 |
 
-Snapshot ID: `Aby1MgAAAABrYxUCYFv0knDtWMsxnayd`
+Snapshot ID: `Aby60wAAAAB6/RmXqYj3Wcb9Pen6DdMJ`

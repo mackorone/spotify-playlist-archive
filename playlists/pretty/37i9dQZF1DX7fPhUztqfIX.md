@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 
 > All new Worship songs on the rise! Cover: TEMITOPE
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,300 likes - 80 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,341 likes - 80 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 | 79 | [All Things New](https://open.spotify.com/track/5YZjEJH4AoDgFwPWAvqccr) | [Brother Hamm](https://open.spotify.com/artist/52knD2OLkz6oIjppQwD7Jd), [Ocean Beams](https://open.spotify.com/artist/5DxcERrYo2NEdaAHSHE7vt), [TCAT Collective](https://open.spotify.com/artist/3sq0FMynqRQy05zPZiSgah) | [All Things New](https://open.spotify.com/album/6F557PeBXTghQ67gMZks44) | 4:56 |
 | 80 | [We Bow Low \- Studio Version](https://open.spotify.com/track/5gb9Jqn1WZErWWD5yV2m68) | [MVMNT Music](https://open.spotify.com/artist/6hqd7tuxGE8xQkIH9GZY4z) | [Things Of Heaven](https://open.spotify.com/album/2773dqfopUODXvsX1T5N3J) | 4:32 |
 
-Snapshot ID: `AAAAAG+mKQ7sAuBnes9SnWwWBXyb3qZ+`
+Snapshot ID: `aCf51gAAAAB9CTPVNPhlhUBMJMBAEIz1`

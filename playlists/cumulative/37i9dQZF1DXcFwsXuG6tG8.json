@@ -225,6 +225,28 @@
     },
     {
       "album": {
+        "name": "Se me pas\u00f3 llamarte, mam\u00e1",
+        "url": "https://open.spotify.com/album/0ObHHR5E2kkgosKn6eIXLm"
+      },
+      "artists": [
+        {
+          "name": "Vera GRV",
+          "url": "https://open.spotify.com/artist/03ibrSvByQ6WCX79oFaORa"
+        },
+        {
+          "name": "Toni Anzis",
+          "url": "https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110963,
+      "name": "AUSENCIA",
+      "url": "https://open.spotify.com/track/3Itdr4lEbPt7GK04M5Jr0P"
+    },
+    {
+      "album": {
         "name": "azul",
         "url": "https://open.spotify.com/album/4OapkPqaM7mbksJL8WjinK"
       },
@@ -1852,7 +1874,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-01",
       "duration_ms": 219786,
       "name": "quise quererte",
       "url": "https://open.spotify.com/track/6VE5ysTVC4BkeOrLWkud3N"

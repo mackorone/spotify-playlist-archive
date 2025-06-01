@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Lo & Leduc, Miley Cyrus, Nina Chuba, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,950 likes - 120 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,959 likes - 120 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 25 | [MAD](https://open.spotify.com/track/6vM1GSndPtQk7AmqEmNAPH) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [MAD](https://open.spotify.com/album/6e3hxK9NnMP08e6GBC1WIV) | 3:19 |
 | 26 | [trust](https://open.spotify.com/track/4SndEIto30sJF6BHSKWSJS) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [trust](https://open.spotify.com/album/35Q6lntIxcVehDFrWB3JXq) | 2:37 |
 | 27 | [THE LOVER](https://open.spotify.com/track/51IMjTw9T8BliGgPMSFqEr) | [Kae](https://open.spotify.com/artist/1fSG1RjY50eGpdvtHECCRm) | [XAOS](https://open.spotify.com/album/5GYm9Ud8aGdBB86V5PDU1g) | 2:20 |
-| 28 | [Berliner Märchen](https://open.spotify.com/track/3bYhenwN32LvYsvFHSia3T) | [Ion Miles](https://open.spotify.com/artist/1OJvqVmekd5OPxlTeHmlBl), [SIRA](https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA) | [Berliner Märchen](https://open.spotify.com/album/3y53YXvqCKWayNDWxyIa7Q) | 2:03 |
+| 28 | [Berliner Märchen](https://open.spotify.com/track/3bYhenwN32LvYsvFHSia3T) | [Ion Miles](https://open.spotify.com/artist/1OJvqVmekd5OPxlTeHmlBl), [SIRA](https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA), [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC) | [Berliner Märchen](https://open.spotify.com/album/3y53YXvqCKWayNDWxyIa7Q) | 2:03 |
 | 29 | [Summer Nights](https://open.spotify.com/track/03sfZuHY4SFlPaWoC5vLup) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [myne](https://open.spotify.com/artist/34WPfL387QxZ5t8epiRnTL) | [Summer Nights](https://open.spotify.com/album/0fhDL3ImX8l2gI0qpIG5Ql) | 2:42 |
 | 30 | [Low Tide](https://open.spotify.com/track/44LdsGW3nKLfkp0WeInuEC) | [DANA](https://open.spotify.com/artist/3rQLVRDmnGhPhFBp4Q35Rr) | [Low Tide](https://open.spotify.com/album/1jmxE0EMixooHHrPMwLGeM) | 2:41 |
 | 31 | [wenn's am schönsten ist](https://open.spotify.com/track/4fZYJSpK32o3CeWPByulUj) | [Esther Graf](https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID) | [wenn's am schönsten ist](https://open.spotify.com/album/1O9pMaZ82BwU6cb7nCO9WG) | 2:16 |

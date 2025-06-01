@@ -4,7 +4,7 @@
 
 > This is El Fantasma\. The essential tracks, all in one playlist.
 
-84 songs - 4 hr 0 min
+85 songs - 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [El 40 \(Durango\)](https://open.spotify.com/track/190XkXskGUN2G7lVuetvYB) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Carteles Vol.II](https://open.spotify.com/album/4hQbl2LAy1TsgZSKU6RRWz) | 3:43 | 2024-10-26 | 2024-12-10 |
 | [El ABL](https://open.spotify.com/track/2f0ZbdqyOgH4AqdDDNFCUc) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El ABL](https://open.spotify.com/album/56MTChSy899m0jYs8fwX2f) | 2:33 | 2023-08-08 | 2023-11-11 |
 | [El Bélico](https://open.spotify.com/track/50pkO56KXHoH53sVPRSbZ3) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Carteles](https://open.spotify.com/album/1c53AOH8tvbZb1mY3jpAHq) | 2:05 | 2023-08-08 |  |
+| [El Ceja Levantada](https://open.spotify.com/track/6QdZj30JB1Va41Pn75Km1B) | [Alemi Bustos](https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Ceja Levantada](https://open.spotify.com/album/3N9aY6oiHHrSYmXO8ccJvr) | 2:54 | 2025-06-01 |  |
 | [El Chavo](https://open.spotify.com/track/4BBQZ0tRBZPlP5ornyo3di) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Chavo](https://open.spotify.com/album/5f3DQfWQRC3he3Cx6sFUGb) | 3:46 | 2023-08-08 | 2025-02-03 |
 | [El Circo](https://open.spotify.com/track/66SvxvblhUIEL6awyLMGL2) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Circo](https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq) | 2:17 | 2023-08-08 |  |
 | [El Exitoso](https://open.spotify.com/track/0TaPRY3f4Iw1zhZ8aedti2) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Exitoso](https://open.spotify.com/album/66gKx66gYItGzihEKkNnQh) | 3:42 | 2023-12-25 | 2025-04-07 |
@@ -90,7 +91,7 @@
 | [Una Caguama en la Banqueta](https://open.spotify.com/track/6Mf2vSoRoDMOLmAHFXUI8h) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Tony Montoya](https://open.spotify.com/artist/3odecFgtCNACfFLUlRR8QB) | [Una Caguama en la Banqueta](https://open.spotify.com/album/5gIq0WRmSQVFK96UVOJ4pt) | 2:46 | 2025-03-05 |  |
 | [Una Enorme Distancia](https://open.spotify.com/track/0lOCeRlDcp66rN0chuRIoU) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Hay pa' Toro](https://open.spotify.com/album/1sFW62xlG5S3d5PrM0H7Cp) | 1:50 | 2023-08-08 | 2023-10-11 |
 | [Vengo a Aclarar](https://open.spotify.com/track/4bPE4HBnxSDST0bwf1V1pn) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Vengo a Aclarar](https://open.spotify.com/album/7sRRTaXHXFn3h9gJK82rwR) | 2:30 | 2023-08-08 |  |
-| [Ya Me Vale Madre](https://open.spotify.com/track/3Ytm1qyCVZm69f2rOWo0Rd) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Ya Me Vale Madre](https://open.spotify.com/album/1YOskBDF79sYzGT1ZsgCJS) | 2:28 | 2025-04-19 |  |
+| [Ya Me Vale Madre](https://open.spotify.com/track/3Ytm1qyCVZm69f2rOWo0Rd) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Ya Me Vale Madre](https://open.spotify.com/album/1YOskBDF79sYzGT1ZsgCJS) | 2:28 | 2025-04-19 | 2025-06-01 |
 | [Yo Nací Pa' Ser Jefe](https://open.spotify.com/track/7p4N0DpozMSO7InGOGLO4x) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3), [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp) | [Yo Nací Pa' Ser Jefe](https://open.spotify.com/album/7q7BpDLt0lsEQIv6MyGqsa) | 2:48 | 2025-05-15 |  |
 
 \*This playlist was first scraped on 2023-08-09. Prior content cannot be recovered.

@@ -1635,6 +1635,24 @@
     },
     {
       "album": {
+        "name": "dormant plants",
+        "url": "https://open.spotify.com/album/5wLF3Uc5IDZqcXjhR7vIvm"
+      },
+      "artists": [
+        {
+          "name": "Elie Zo\u00e9",
+          "url": "https://open.spotify.com/artist/2t7zzvR3tKMctlLIUkTvjc"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255375,
+      "name": "dormant plants",
+      "url": "https://open.spotify.com/track/1rS3xMPOBLjS6Nm4MlYiN7"
+    },
+    {
+      "album": {
         "name": "Down To My Bones",
         "url": "https://open.spotify.com/album/6qrZVY8wS9AiYjNaHTXreD"
       },
@@ -6348,7 +6366,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-01",
       "duration_ms": 128901,
       "name": "What Went Wrong",
       "url": "https://open.spotify.com/track/09LPMQYwT0rv2OleNUJajK"

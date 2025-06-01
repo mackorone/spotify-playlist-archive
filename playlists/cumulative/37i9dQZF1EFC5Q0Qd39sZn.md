@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-645 songs - 1 day 20 hr 38 min
+646 songs - 1 day 20 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,8 +142,9 @@
 | [Every Road Leads Back to You](https://open.spotify.com/track/2Rqjs2uSnjmbpAMG4T4G64) | [Bette Midler](https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W) | [For the Boys \(Music from the Motion Picture\)](https://open.spotify.com/album/478uzZcKkV2fmQx6hmNYIv) | 3:47 | 2023-12-30 |  |
 | [Every Time You Walk Away](https://open.spotify.com/track/0tUYkDafsrHR12unxfFQ5D) | [D.A\. Wallach](https://open.spotify.com/artist/0NrYD7GlHbFixu0iknQ2xn) | [Time Machine](https://open.spotify.com/album/2Dobv4jeXllRUhEb8Ite5e) | 3:13 | 2023-12-30 |  |
 | [Everything Changes](https://open.spotify.com/track/378MBhAXwx1OexsqBZMBGa) | [Kathy Troccoli](https://open.spotify.com/artist/73CmW7Heo8CxnYXydAs6qc) | [Pure Attraction](https://open.spotify.com/album/7h3SdzikWQl9rvM4N86lLi) | 4:24 | 2023-12-30 |  |
-| [Exceptional](https://open.spotify.com/track/6ChgijH1gsOopTqGNB1EDU) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [The High Road](https://open.spotify.com/album/1hpKnksIsZKzFlfJa94SEF) | 3:43 | 2024-10-19 |  |
+| [Exceptional](https://open.spotify.com/track/6ChgijH1gsOopTqGNB1EDU) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [The High Road](https://open.spotify.com/album/1hpKnksIsZKzFlfJa94SEF) | 3:43 | 2024-10-19 | 2025-06-01 |
 | [Exceptional](https://open.spotify.com/track/7nqKm8Nj4GXmvknMjjc9vf) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [The High Road](https://open.spotify.com/album/3ym3JtyhWmVIJzEzTCCsHa) | 3:43 | 2023-12-30 | 2024-10-20 |
+| [Exceptional](https://open.spotify.com/track/7vh28AcL9CMorf5FsaSka3) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [The High Road](https://open.spotify.com/album/2GJW4wI7cQ0BWkY24Fv5eZ) | 3:43 | 2025-05-31 |  |
 | [Explain It to My Heart](https://open.spotify.com/track/6K53W25evEQTm6GvHINJLp) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Twenty 1 \(Expanded Edition\)](https://open.spotify.com/album/73qc0AZ2o6EjPLL0c1pOFU) | 4:08 | 2023-12-30 | 2024-07-11 |
 | [Explain It to My Heart \- 2009 Remaster](https://open.spotify.com/track/6wpw0KbDjLRjAG0Gp0AGxX) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Twenty 1 \(Expanded Edition\)](https://open.spotify.com/album/73qc0AZ2o6EjPLL0c1pOFU) | 4:47 | 2024-07-10 |  |
 | [Eyes Of A Fool](https://open.spotify.com/track/3lAAQmO8XbaNHXTUIPOcZT) | [Jon Secada](https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW) | [Heart, Soul & A Voice](https://open.spotify.com/album/5XUP2uXNuwU04iC02ViO3A) | 4:08 | 2023-12-30 |  |

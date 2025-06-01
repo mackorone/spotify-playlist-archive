@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 
 > as gigas da net
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,535,647 likes - 65 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,535,826 likes - 65 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 | 13 | [a última dança](https://open.spotify.com/track/096gZM7wp5GKHBwtWY3d0z) | [Link do Zap](https://open.spotify.com/artist/69HZc0P77aI7VUFx4GAdQm), [pluglip](https://open.spotify.com/artist/2U0pxQZXxuKh6zKZ9t4uXV) | [a última dança](https://open.spotify.com/album/2eooZYrJukknYGymvXdl5E) | 2:06 |
 | 14 | [OUTRA](https://open.spotify.com/track/2LzXPUzL9sgeRl9a5miHMA) | [tarisiix](https://open.spotify.com/artist/4b5I4xEeXjnhiWqMFQU3Si) | [OUTRA](https://open.spotify.com/album/0eTwgY32XuAf076DHI34Pz) | 2:08 |
 | 15 | [Lembrei de Nós](https://open.spotify.com/track/3MZasYL4eB4Tm2U2LZ58tj) | [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S), [Mestrinho](https://open.spotify.com/artist/2yAXXiCbFgXSaKcYNioFBx), [Jota.pê](https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN) | [Dominguinho](https://open.spotify.com/album/6laUDBtyfu4ngRbOsblhfS) | 3:16 |
-| 16 | [Pretty Little Baby \- Stereo Mix](https://open.spotify.com/track/5GQPBzoRBDxcAjwSSluQXD) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Connie Francis Sings Second Hand Love & Other Hits](https://open.spotify.com/album/6CTiCTGft53NcVMsAxxgCQ) | 2:22 |
+| 16 | [Pretty Little Baby](https://open.spotify.com/track/5GQPBzoRBDxcAjwSSluQXD) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Connie Francis Sings Second Hand Love & Other Hits](https://open.spotify.com/album/6CTiCTGft53NcVMsAxxgCQ) | 2:22 |
 | 17 | [Olha pra Cara de Quem Te...](https://open.spotify.com/track/1VpOT1TfTivUmFjSGSRt1U) | [MC LUUKY](https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7), [MC Jvila](https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO), [DJ Dael](https://open.spotify.com/artist/2A3i7OnSUdZB3FXX5Qv3Wp) | [Olha pra Cara de Quem Te...](https://open.spotify.com/album/4IYivmehBNGJVG2S9q8V41) | 2:00 |
 | 18 | [Médio Versalico](https://open.spotify.com/track/207HLdUVIdZEUMRX15BIwD) | [DJ OLIVEIRA ORIGINAL](https://open.spotify.com/artist/1cCYuIofJkQf9YN1FZo5A4), [MC Nito](https://open.spotify.com/artist/0EOOwVUWdPElrXOJyKOiBw) | [Médio Versalico](https://open.spotify.com/album/68in7bmnv2YgoEFyx6hpD7) | 1:43 |
 | 19 | [Hit the Ground](https://open.spotify.com/track/7wAuksvJErTLz0OHTDJPIa) | [Texture](https://open.spotify.com/artist/1K3a2VWnyszfzzdnT8iu0e) | [Hit the Ground](https://open.spotify.com/album/7yD02x73angL1C9H4dfjCV) | 2:25 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 | 64 | [Love Gostosinho \- Ao Vivo](https://open.spotify.com/track/2BlFIe0712LBUtTHxbqjme) | [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT), [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [O Fantástico Mundo De Nattan \(Ao Vivo\)](https://open.spotify.com/album/3MsdSA7cGEb95F2IMQUGGJ) | 2:43 |
 | 65 | [Fode Bem](https://open.spotify.com/track/3Zgs8GjLi5hArtyLQhZ06Y) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U), [Mc Mika](https://open.spotify.com/artist/6exBFuevXZvHrbP3oKtfWe) | [Cadê o After? Pt\. 1](https://open.spotify.com/album/4Vy1Rn4htx3L0ojjaeePww) | 2:16 |
 
-Snapshot ID: `aDDU1QAAAADAW9bmRXxXeA0w6jxR/TRy`
+Snapshot ID: `aDDU1QAAAADZucpv6qO3bnGzqFq7+heG`

@@ -95,6 +95,28 @@
     },
     {
       "album": {
+        "name": "In The Middle",
+        "url": "https://open.spotify.com/album/0Mbg1FWqCSLumCIxpA3zmN"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        },
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        }
+      ],
+      "date_added": "2025-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179900,
+      "name": "In The Middle",
+      "url": "https://open.spotify.com/track/3aTtbSM7gX011qAtinh6nP"
+    },
+    {
+      "album": {
         "name": "How To Catch A Falling Knife",
         "url": "https://open.spotify.com/album/4y09e5XNcSik8Vfnam7Tj4"
       },

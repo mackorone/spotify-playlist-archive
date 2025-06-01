@@ -1,6 +1,6 @@
 {
   "description": "The very best acoustic songs from singer-songwriters making waves. Cover: I'm With Her",
-  "num_followers": 153415,
+  "num_followers": 153419,
   "original_name": "Women of Acoustic",
   "owner": {
     "name": "Spotify",
@@ -1399,26 +1399,6 @@
     {
       "added_at": "2025-05-02 17:53:50",
       "album": {
-        "name": "New Frontier",
-        "url": "https://open.spotify.com/album/6FU2w4wTADCGBJsYKkyz47"
-      },
-      "artists": [
-        {
-          "name": "Missy Raines",
-          "url": "https://open.spotify.com/artist/5puV4r3ntz4XyzN6QnBKep"
-        },
-        {
-          "name": "Missy Raines & the New Hip",
-          "url": "https://open.spotify.com/artist/3A9RsQhAsUFqIdTKJdK51d"
-        }
-      ],
-      "duration_ms": 199346,
-      "name": "American Crow",
-      "url": "https://open.spotify.com/track/1Z1Fo7DlxPhlbR7Q9hhgKg"
-    },
-    {
-      "added_at": "2025-05-02 17:53:50",
-      "album": {
         "name": "California Calling",
         "url": "https://open.spotify.com/album/1RR6o1mYDjmZDZZvE75KFi"
       },
@@ -1435,6 +1415,26 @@
       "duration_ms": 241373,
       "name": "The Low Hum",
       "url": "https://open.spotify.com/track/2VnR0EzbyFApMflT0xrcuD"
+    },
+    {
+      "added_at": "2025-05-02 17:53:50",
+      "album": {
+        "name": "New Frontier",
+        "url": "https://open.spotify.com/album/6FU2w4wTADCGBJsYKkyz47"
+      },
+      "artists": [
+        {
+          "name": "Missy Raines",
+          "url": "https://open.spotify.com/artist/5puV4r3ntz4XyzN6QnBKep"
+        },
+        {
+          "name": "Missy Raines & the New Hip",
+          "url": "https://open.spotify.com/artist/3A9RsQhAsUFqIdTKJdK51d"
+        }
+      ],
+      "duration_ms": 199346,
+      "name": "American Crow",
+      "url": "https://open.spotify.com/track/1Z1Fo7DlxPhlbR7Q9hhgKg"
     },
     {
       "added_at": "2025-05-02 17:53:50",

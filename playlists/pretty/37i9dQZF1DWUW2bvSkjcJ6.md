@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Nina Chuba, Ski Aggu, Miley Cyrus und mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 864,512 likes - 89 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 864,641 likes - 89 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 7 | [PALERMO](https://open.spotify.com/track/1AzhkL1zTo5NJ1oBOp0Hhe) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [PALERMO](https://open.spotify.com/album/3pVxSNFr5i2QyEdS8QvHOi) | 2:17 |
 | 8 | [trust](https://open.spotify.com/track/4SndEIto30sJF6BHSKWSJS) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [trust](https://open.spotify.com/album/35Q6lntIxcVehDFrWB3JXq) | 2:37 |
 | 9 | [Back In My Bed](https://open.spotify.com/track/5Ptt8Whisd1IwucwgXEyeT) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [MEYY](https://open.spotify.com/artist/6ovTUUvyWpxSigzDhtfVs5), [Y2J!](https://open.spotify.com/artist/4j9xWaq0mEloOvk8GW6aNb) | [Back In My Bed](https://open.spotify.com/album/5oKNITqLnzMlc1B0733IKd) | 2:23 |
-| 10 | [Berliner Märchen](https://open.spotify.com/track/3bYhenwN32LvYsvFHSia3T) | [Ion Miles](https://open.spotify.com/artist/1OJvqVmekd5OPxlTeHmlBl), [SIRA](https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA) | [Berliner Märchen](https://open.spotify.com/album/3y53YXvqCKWayNDWxyIa7Q) | 2:03 |
+| 10 | [Berliner Märchen](https://open.spotify.com/track/3bYhenwN32LvYsvFHSia3T) | [Ion Miles](https://open.spotify.com/artist/1OJvqVmekd5OPxlTeHmlBl), [SIRA](https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA), [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC) | [Berliner Märchen](https://open.spotify.com/album/3y53YXvqCKWayNDWxyIa7Q) | 2:03 |
 | 11 | [Lovin Myself](https://open.spotify.com/track/2ttIodvY52FYgod5qrcQHN) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Lovin Myself](https://open.spotify.com/album/5vWfr5gSeCbqFwutBK7sDp) | 2:56 |
 | 12 | [Vielleicht](https://open.spotify.com/track/7FuwizV4bAUFBhyNB5dCxm) | [Rowli](https://open.spotify.com/artist/062qvlhIYOrATqRTHet3D3) | [Vielleicht](https://open.spotify.com/album/1HvRFxbXa8AG6Hf0bD3vSL) | 2:27 |
 | 13 | [Summer Nights](https://open.spotify.com/track/03sfZuHY4SFlPaWoC5vLup) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [myne](https://open.spotify.com/artist/34WPfL387QxZ5t8epiRnTL) | [Summer Nights](https://open.spotify.com/album/0fhDL3ImX8l2gI0qpIG5Ql) | 2:42 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 88 | [Cops & Robbers](https://open.spotify.com/track/5pa2ZyJ3dIEmxRDW74msQi) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Cops & Robbers](https://open.spotify.com/album/6ISsvqjVEeShpIhZir687U) | 2:41 |
 | 89 | [Booted Up](https://open.spotify.com/track/7iYmPfTr3qpVKrEtCxIpZU) | [GELO](https://open.spotify.com/artist/5FZN8ElUU5zENi2IK7gMnu) | [Booted Up](https://open.spotify.com/album/2cxNVaMeyRzhSyEQblZcF0) | 2:42 |
 
-Snapshot ID: `AAAAADppDNsW2jvnA1yveUm2KgPOjE1t`
+Snapshot ID: `aDml5wAAAACDVKH7II56ihhvNbmTK6ra`

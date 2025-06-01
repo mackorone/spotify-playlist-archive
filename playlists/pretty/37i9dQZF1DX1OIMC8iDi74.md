@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 
 > The best of electronic trap 🏆 with Jon Casey & TroyBoi
 
-[Spotify](https://open.spotify.com/user/spotify) - 886,306 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 886,309 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 71 | [Forcefield](https://open.spotify.com/track/6KxayQc9tOaUAQQyThB5Tl) | [Eptic](https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ) | [Darkstar](https://open.spotify.com/album/1BFdYawImsAcojUrL3I9Km) | 3:52 |
 | 72 | [Blue Mile](https://open.spotify.com/track/5EIyuLTiZwAmmlsqxdLJC0) | [Of The Trees](https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c), [Barclay Crenshaw](https://open.spotify.com/artist/3uWK9g12Kh4IarZX052vJR), [Strategy](https://open.spotify.com/artist/0lFrpd2SX8SmwUr07I4GE3) | [Blue Mile](https://open.spotify.com/album/77I9ebOxX1nxDk8vlJNUH9) | 3:32 |
 | 73 | [Ambrosia \- Rival Remix](https://open.spotify.com/track/2StQdgJrt31eK1iFalj9p0) | [YMIR](https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD), [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz) | [Ambrosia \(Rival Remix\)](https://open.spotify.com/album/0YF9mrX7hWAiIxk7r496tY) | 4:05 |
-| 74 | [Rainbow Funk](https://open.spotify.com/track/4VwXCvFS1ogjSWKgClcHwa) | [AHEE](https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf), [ProbCause](https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY) | [Rainbow Funk](https://open.spotify.com/album/1eFn1sXC3rcCAoHPLlaaG1) | 2:40 |
-| 75 | [JUMP OUT](https://open.spotify.com/track/5U0uFS6xvx7UCskac6yUF0) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [JUMP OUT](https://open.spotify.com/album/6mpYRkvCqbmNkmYlEBOMhQ) | 2:25 |
+| 74 | [JUMP OUT](https://open.spotify.com/track/5U0uFS6xvx7UCskac6yUF0) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [JUMP OUT](https://open.spotify.com/album/6mpYRkvCqbmNkmYlEBOMhQ) | 2:25 |
+| 75 | [Rainbow Funk](https://open.spotify.com/track/4VwXCvFS1ogjSWKgClcHwa) | [AHEE](https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf), [ProbCause](https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY) | [Rainbow Funk](https://open.spotify.com/album/1eFn1sXC3rcCAoHPLlaaG1) | 2:40 |
 | 76 | [DNA \(Loving You\) \[feat\. Hannah Boleyn\] \[Levity Remix\]](https://open.spotify.com/track/2rAB0mDHnaOnfvFmaWUx0j) | [Billy Gillies](https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO), [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C), [Hannah Boleyn](https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR) | [DNA \(Loving You\) \[feat\. Hannah Boleyn\] \[Levity Remix\]](https://open.spotify.com/album/4dKYCpl0dDy01Lw2msVJBU) | 2:56 |
 | 77 | [party! \(dance alone\)](https://open.spotify.com/track/5Gyk61VF5P3eIJ1dZwI7nh) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8), [cade clair](https://open.spotify.com/artist/0647ep4AirMtU3Iq9YcBXm) | [nolimit](https://open.spotify.com/album/0m7RPdwNo1gte0nUSwh2yv) | 2:40 |
 | 78 | [YA BODY](https://open.spotify.com/track/07jKK0hViPo33S5Y35QyvB) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd) | [YA BODY](https://open.spotify.com/album/4wpE3IlFOM1T571dAN94xU) | 3:03 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 83 | [ready 2](https://open.spotify.com/track/1Ox9wm23PPkBUPLzKYekgY) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [nolimit](https://open.spotify.com/album/0m7RPdwNo1gte0nUSwh2yv) | 2:46 |
 | 84 | [DOPAMINE++](https://open.spotify.com/track/22ruxNj3CULTE2dAM1r9aw) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [DOPAMINE++](https://open.spotify.com/album/6eMsuTTLUDP2IyUpniYuqF) | 3:22 |
 | 85 | [holy ghost](https://open.spotify.com/track/5IcmUnL95u4YFo6hhIbPZV) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd) | [holy ghost](https://open.spotify.com/album/0H9k8NduBG5dcan4V1FJ6m) | 2:32 |
-| 86 | [Try Again](https://open.spotify.com/track/6iDOGlPGVC380H9ufZUQJb) | [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY) | [Try Again](https://open.spotify.com/album/6CxSfaeeQFlzmcn0uc4jSo) | 4:04 |
-| 87 | [Rise](https://open.spotify.com/track/2EfDJpX1h3fB2MLc2Uos4k) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR) | [Rise](https://open.spotify.com/album/25pCsAxUGaHglVh9cDRZL4) | 2:13 |
+| 86 | [Rise](https://open.spotify.com/track/2EfDJpX1h3fB2MLc2Uos4k) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR) | [Rise](https://open.spotify.com/album/25pCsAxUGaHglVh9cDRZL4) | 2:13 |
+| 87 | [Try Again](https://open.spotify.com/track/6iDOGlPGVC380H9ufZUQJb) | [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY) | [Try Again](https://open.spotify.com/album/6CxSfaeeQFlzmcn0uc4jSo) | 4:04 |
 | 88 | [Fired Up](https://open.spotify.com/track/69Wvx3nyfr7ggd2C3pCx1m) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg) | [Fired Up](https://open.spotify.com/album/7cZSWuOdlkrIdrEfsWgoQe) | 3:08 |
 | 89 | [EGO! \(TAKE IT BACK\)](https://open.spotify.com/track/0f2BL1gqLqHg3SGkBf7VoY) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [EGO! \(TAKE IT BACK\)](https://open.spotify.com/album/4pN2JLXN7tfiirnp2Ifl3X) | 3:29 |
 | 90 | [Keep It Moving](https://open.spotify.com/track/6S1N4cHzWrCcJ3SCkpOIft) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Keep It Moving](https://open.spotify.com/album/2UoLGeViU5qTIlKLMtxOag) | 2:40 |

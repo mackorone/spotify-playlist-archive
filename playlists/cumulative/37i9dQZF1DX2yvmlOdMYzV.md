@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-969 songs - 2 day 4 hr 51 min
+970 songs - 2 day 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,6 +196,7 @@
 | [DO 4 LOVE](https://open.spotify.com/track/3FImu2LpSuH6gDHBuFgIbS) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Spotify Singles](https://open.spotify.com/album/28wKxlJocWCrrxUgYC2zEQ) | 3:09 | 2022-06-30 | 2023-05-13 |
 | [Do I Ever Cross Your Mind](https://open.spotify.com/track/2Fr2iWzC3YSBUnkNKB7SZo) | [Josh Berkeley](https://open.spotify.com/artist/7MpeVbVrg6arHele8tcgSl) | [Do I Ever Cross Your Mind](https://open.spotify.com/album/2ZAejFshJcfP7R0ZDy9282) | 2:23 | 2024-12-20 | 2025-04-02 |
 | [Do It out of Love](https://open.spotify.com/track/0B6fMeNXW2Ug9R5u23cbb0) | [MALIA](https://open.spotify.com/artist/5o6oaYrumOkkzsOmwZXJv6) | [Do It out of Love](https://open.spotify.com/album/7nQpVw6tKZk4mieDLuhBMm) | 3:33 | 2024-06-21 | 2024-09-07 |
+| [Does He Know It](https://open.spotify.com/track/6T33o9WEmz3JvuYWGGnzH5) | [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [First Works](https://open.spotify.com/album/2rvks9tXdJp1hj8NY3wsAz) | 2:42 | 2025-05-30 |  |
 | [Don't Cry](https://open.spotify.com/track/6gAfcLmswaho2aqeKmoFS1) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260) | [Give Up The Fear](https://open.spotify.com/album/4PfN0s5linXQvTPlHpJ7De) | 3:16 | 2024-11-08 | 2025-02-15 |
 | [Don't Doubt It](https://open.spotify.com/track/0nomiSFgD9mDCcKBHD8qpv) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo) | [Don't Doubt It](https://open.spotify.com/album/3qWK8chhUiXLHAGSu585DG) | 3:02 | 2023-04-28 | 2024-04-19 |
 | [Don't Doubt It](https://open.spotify.com/track/28yYqgatnEJFxN8JOmvxUk) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo) | [Don't Doubt It](https://open.spotify.com/album/7misvvbAa72HkMvqBPNfRN) | 3:02 | 2023-04-28 | 2023-12-24 |
@@ -937,7 +938,7 @@
 | [What's Luv?](https://open.spotify.com/track/6ZVaa16xlSrloQhYPV63BW) | [Shaé Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [What's Luv?](https://open.spotify.com/album/6C2yR407il1fwIhy3P5iPp) | 2:46 | 2024-01-12 | 2024-04-21 |
 | [When I Close My Eyes](https://open.spotify.com/track/4EkDdsHltvCs1qVsF8XKNO) | [Kalisway](https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK) | [When I Close My Eyes](https://open.spotify.com/album/02uOI0VExcmWzc3R2Y4jjT) | 3:52 | 2025-03-07 |  |
 | [When I'm in Your Arms](https://open.spotify.com/track/47s5hKfwGXliAAB8wKMiNo) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Rose in the Dark](https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9) | 5:35 | 2023-01-27 | 2023-08-12 |
-| [When It Comes Together](https://open.spotify.com/track/2izmpN7vA1Xn8I5FBLls6n) | [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek), [\[ K S R \]](https://open.spotify.com/artist/7BWjWVat8puiUriWads4kk) | [When It Comes Together](https://open.spotify.com/album/7IL0Qmw3AzVtUSbXa6dGic) | 3:08 | 2024-06-28 |  |
+| [When It Comes Together](https://open.spotify.com/track/2izmpN7vA1Xn8I5FBLls6n) | [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek), [\[ K S R \]](https://open.spotify.com/artist/7BWjWVat8puiUriWads4kk) | [When It Comes Together](https://open.spotify.com/album/7IL0Qmw3AzVtUSbXa6dGic) | 3:08 | 2024-06-28 | 2025-06-01 |
 | [When Was It Over](https://open.spotify.com/track/5G3AAgHRIuoyQyjMKawD9X) | [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ) | [Beautiful Pain](https://open.spotify.com/album/1HDxgZHLsOFHHj7g6MT7lk) | 5:00 | 2024-08-30 | 2024-10-18 |
 | [When You're Around](https://open.spotify.com/track/32RZgcuKaGBZeSZFCjqekc) | [Lusanda](https://open.spotify.com/artist/3WcXJ1FwSFJU88zc7vV9rz), [Noxz](https://open.spotify.com/artist/4gQHI7uYzGmbD7BRBtFLO2) | [When You're Around](https://open.spotify.com/album/3RIGb42y1erPlKLH1qcSec) | 3:17 | 2024-09-06 |  |
 | [When You're Lonely](https://open.spotify.com/track/0cGzG9CFE3l6HygfUzr6Uo) | [Tyler Daley](https://open.spotify.com/artist/4RZ0xAhQmDexe49EAe28hr), [Children of Zeus](https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z) | [Son of Zeus](https://open.spotify.com/album/6GhXHLKieoeh9LHLsBrDeN) | 2:36 | 2024-03-08 | 2025-02-05 |

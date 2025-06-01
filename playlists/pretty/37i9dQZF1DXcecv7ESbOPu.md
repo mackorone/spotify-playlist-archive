@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Oskar Linnros, Lorde, Sarettii och Victor Leksell med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,186 likes - 97 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,190 likes - 97 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,6 +104,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 94 | [Forever Feels](https://open.spotify.com/track/22vjrhextrynaTozXuIPzI) | [Stefanos Yowhannes](https://open.spotify.com/artist/3DPvgiToOaxx6HKfs0S3IG) | [Stuck in Transit](https://open.spotify.com/album/5SqxHrJCOzSAfyVOu83lab) | 2:28 |
 | 95 | [Venom \(industry\)](https://open.spotify.com/track/66QutMqQ7Myjt2aplFduo5) | [BLADË](https://open.spotify.com/artist/2IU0KXU1L7fIfAqzG4VcgC) | [Venom \(Industry\)](https://open.spotify.com/album/21O879GXtvJtqiKS9pWh0M) | 4:35 |
 | 96 | [CONTROL](https://open.spotify.com/track/0xtZ8zIohJJoRGegv6xYSV) | [Martin Wave](https://open.spotify.com/artist/4edEKYyKxQBrI5InlgmcsN) | [CONTROL](https://open.spotify.com/album/2XHVG7UjUCLkFZN8RR4tqI) | 2:35 |
-| 97 | [Alto](https://open.spotify.com/track/6W0JyLntjW5czCieDPSkui) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Alto](https://open.spotify.com/album/6CK5736RvBDi7w9wDjCYLf) | 3:08 |
+| 97 | [Alto](https://open.spotify.com/track/6W0JyLntjW5czCieDPSkui) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Alto](https://open.spotify.com/album/6CK5736RvBDi7w9wDjCYLf) | 3:45 |
 
 Snapshot ID: `aDlg2QAAAACFm2eawQlg4idKrggfJsxs`

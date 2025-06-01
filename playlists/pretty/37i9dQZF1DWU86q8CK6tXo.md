@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover: Aly & AJ
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,683 likes - 56 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,700 likes - 56 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 8 | [Somebody](https://open.spotify.com/track/1GpslorH7Gi64x8uodyvfO) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Somebody](https://open.spotify.com/album/39jgucp2ZAo3pYpG3AcUY1) | 3:22 |
 | 9 | [Ran Out](https://open.spotify.com/track/6gR9K14ED3UuhVIu4t9LTk) | [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Ran Out](https://open.spotify.com/album/0ZGvj7akN44GAG6ZBigTIq) | 2:22 |
 | 10 | [Relationships](https://open.spotify.com/track/22Ui43i51sAALwtapObKmQ) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Relationships](https://open.spotify.com/album/4IveZaLBOjYALIg00gMVEK) | 3:22 |
-| 11 | [Im So ATL](https://open.spotify.com/track/6B3evHyQCMysT7Qa2gEu3A) | [Bankroll Ni](https://open.spotify.com/artist/6557ikOFsjiDmV7gjHYuiD) | [Im So ATL](https://open.spotify.com/album/4bcvWXBjMb02i99YXUJR4z) | 2:04 |
-| 12 | [ROMEO](https://open.spotify.com/track/5KloY4dqqARqRPavfyRmRE) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [ROMEO](https://open.spotify.com/album/7mRkuJO3wFrp1CKKVPsodh) | 3:10 |
-| 13 | [Somewhere Over Laredo](https://open.spotify.com/track/0aGIy8kll4HYDnNTDlf2vU) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Somewhere Over Laredo](https://open.spotify.com/album/7AM3OzfWrmxHJ5xkWSEEre) | 3:46 |
+| 11 | [Somewhere Over Laredo](https://open.spotify.com/track/0aGIy8kll4HYDnNTDlf2vU) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Somewhere Over Laredo](https://open.spotify.com/album/7AM3OzfWrmxHJ5xkWSEEre) | 3:46 |
+| 12 | [Im So ATL](https://open.spotify.com/track/6B3evHyQCMysT7Qa2gEu3A) | [Bankroll Ni](https://open.spotify.com/artist/6557ikOFsjiDmV7gjHYuiD) | [Im So ATL](https://open.spotify.com/album/4bcvWXBjMb02i99YXUJR4z) | 2:04 |
+| 13 | [ROMEO](https://open.spotify.com/track/5KloY4dqqARqRPavfyRmRE) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [ROMEO](https://open.spotify.com/album/7mRkuJO3wFrp1CKKVPsodh) | 3:10 |
 | 14 | [EROTIKA](https://open.spotify.com/track/5wMwgx90OnF7xNtvYcuxFR) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [EROTIKA](https://open.spotify.com/album/47lCWsxnSeMLoCZ67BYULU) | 2:45 |
 | 15 | [still love you \(todavía\)](https://open.spotify.com/track/4rYUOu5vQ8pjBCYZL24Gfx) | [The Tulips](https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50) | [still love you \(todavía\)](https://open.spotify.com/album/70DlKk4QDj2NdYnB1BL5P3) | 2:32 |
 | 16 | [Down to be wrong](https://open.spotify.com/track/2d18juMmmN1KwjFtfEj0FP) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Down to be wrong](https://open.spotify.com/album/4C5577NRnfQm2EpHvb17dW) | 4:09 |
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 22 | [too good](https://open.spotify.com/track/3Pdfbfi7mePacClkhzLt8J) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [D R E A M S I C L E](https://open.spotify.com/album/5joLpod4NFAHs4p1ORo8g2) | 2:40 |
 | 23 | [Give Me A Sign \(feat\. Caroline Kingsbury\)](https://open.spotify.com/track/3DrbSP3GR8cEqWcR6jf9yJ) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE), [Caroline Kingsbury](https://open.spotify.com/artist/0uE0bzpIfuZ9XVduu0byzg) | [Give Me A Sign \(feat\. Caroline Kingsbury\)](https://open.spotify.com/album/5xbuVE2oApu5EVIbJhLpEc) | 2:59 |
 | 24 | [Savannah](https://open.spotify.com/track/0tjnfbTtCONUoMqMJmY1vP) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Savannah](https://open.spotify.com/album/06RBvB1oS78HYZ6n0zRLwz) | 3:24 |
-| 25 | [Twist The Knife](https://open.spotify.com/track/5WeuKxVrefRC2P9XiI3GOg) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [SALVATION](https://open.spotify.com/album/7KeBfU7MZe7LFqgse8blI7) | 3:25 |
-| 26 | [Cowboy Sh!t](https://open.spotify.com/track/6JtXOrme67AbN3NAPNXpBs) | [Karley Scott Collins](https://open.spotify.com/artist/3bJlfqqO9pIrMvDuvvnGaF) | [Cowboy Sh!t](https://open.spotify.com/album/2OLie3YvtvLUleahxOyruz) | 2:34 |
+| 25 | [Cowboy Sh!t](https://open.spotify.com/track/6JtXOrme67AbN3NAPNXpBs) | [Karley Scott Collins](https://open.spotify.com/artist/3bJlfqqO9pIrMvDuvvnGaF) | [Cowboy Sh!t](https://open.spotify.com/album/2OLie3YvtvLUleahxOyruz) | 2:34 |
+| 26 | [Twist The Knife](https://open.spotify.com/track/5WeuKxVrefRC2P9XiI3GOg) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [SALVATION](https://open.spotify.com/album/7KeBfU7MZe7LFqgse8blI7) | 3:25 |
 | 27 | [I Look Good](https://open.spotify.com/track/2nO5YCEAQLPYKLbza7N64Z) | [Jackie Hollander](https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ), [Lizzy Land](https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux) | [I Look Good](https://open.spotify.com/album/538gE7qZ8YA2vZeYO8jO36) | 2:44 |
 | 28 | [The Fence](https://open.spotify.com/track/0Bv3eHVIbbkC5doyt7RKfP) | [Emily Ann Roberts](https://open.spotify.com/artist/4ZuggB1YawAAZOBL4pI9J8) | [The Fence](https://open.spotify.com/album/03jHOBiVvsum4Kjt4vKZXB) | 3:00 |
 | 29 | [Honest Conversation](https://open.spotify.com/track/3BntkfnX7RdZTJSc6E04mC) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC) | [Honest Conversation](https://open.spotify.com/album/1YDRExeN337XGyGfColhjx) | 3:55 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 50 | [Tears in the Kitchen](https://open.spotify.com/track/5oMoGqIQH0fgLo21cEKAvD) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Tears in the Kitchen](https://open.spotify.com/album/3rHx3MOvb2naZVaF4FO76p) | 2:54 |
 | 51 | [Ultrasound](https://open.spotify.com/track/2ON9MbXb85e3G5LoqtFjI1) | [Anike](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [Ultrasound](https://open.spotify.com/album/1AxBMhmxlukiSfW5TTRHja) | 2:35 |
 | 52 | [Flannel Cowboy](https://open.spotify.com/track/0fPRLK6Ge1G7qQS0ilFadd) | [Ken Pomeroy](https://open.spotify.com/artist/0iGCVyBwI59sh7Nejb8wrF) | [Flannel Cowboy](https://open.spotify.com/album/2ogi3slCsSYIHkxg8ofc5A) | 4:20 |
-| 53 | [There Goes My Baby](https://open.spotify.com/track/10E3rJTsVL3Xfop80TbUvo) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [There Goes My Baby](https://open.spotify.com/album/0z3Cp5HFJnuejenCK20v6Y) | 2:26 |
-| 54 | [Heal Sofie](https://open.spotify.com/track/3qcc6rVvMDfumoQPVpeyS9) | [SOFYKA](https://open.spotify.com/artist/0aOnfDbpLdvyWDnjZiIEBq) | [Heal Sofie](https://open.spotify.com/album/0Vsro0WynKaCp5rXvwCYpc) | 2:10 |
+| 53 | [Heal Sofie](https://open.spotify.com/track/3qcc6rVvMDfumoQPVpeyS9) | [SOFYKA](https://open.spotify.com/artist/0aOnfDbpLdvyWDnjZiIEBq) | [Heal Sofie](https://open.spotify.com/album/0Vsro0WynKaCp5rXvwCYpc) | 2:10 |
+| 54 | [There Goes My Baby](https://open.spotify.com/track/10E3rJTsVL3Xfop80TbUvo) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [There Goes My Baby](https://open.spotify.com/album/0z3Cp5HFJnuejenCK20v6Y) | 2:26 |
 | 55 | [FAJITAS](https://open.spotify.com/track/0ZQN1KuT5rPC0U4RqN7Tmd) | [CUZZOS](https://open.spotify.com/artist/0TY3Wab2Z1kmp5jZoxdPjZ), [Teaawhy](https://open.spotify.com/artist/7ikaWAiot7KxyQQx8LICbt), [Tony Shhnow](https://open.spotify.com/artist/3CUXLf0CXv5cUONz2Ep22p), [Milly Mo](https://open.spotify.com/artist/1FbNRjYXMW1sZGjlxaOO9u) | [FAJITAS](https://open.spotify.com/album/4yHtUMtFzyt7AYLEppogeH) | 2:52 |
 | 56 | [Find My Way to You](https://open.spotify.com/track/0tiAU9jA7mwaOZ6UEA888d) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [Standing on the Fault Line](https://open.spotify.com/album/2QRDinotGiaDwxV5aZ7e4I) | 3:20 |
 

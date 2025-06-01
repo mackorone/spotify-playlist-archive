@@ -203,6 +203,28 @@
     },
     {
       "album": {
+        "name": "All Night & Gemini",
+        "url": "https://open.spotify.com/album/7hmuaX4utQQELTvPIovNUn"
+      },
+      "artists": [
+        {
+          "name": "Mesto",
+          "url": "https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9"
+        },
+        {
+          "name": "Vluarr",
+          "url": "https://open.spotify.com/artist/0ClkclGbzsEY0aBtqq8MrB"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151384,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/6wpIGFUcDUSg2l75npKFdU"
+    },
+    {
+      "album": {
         "name": "All That You Need",
         "url": "https://open.spotify.com/album/75s5BUC7M1SCw8ORUjkbxD"
       },
@@ -2010,7 +2032,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-01",
       "duration_ms": 166954,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/4ij2abVupX0NTWG5TuKe02"

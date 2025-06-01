@@ -4,7 +4,7 @@
 
 > Äntligen fredag och ny musik från Oskar Linnros, Lorde, Sarettii och Victor Leksell med flera\. Happy New Music Friday!
 
-19,260 songs - 41 day 13 hr 58 min
+19,260 songs - 41 day 13 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -898,7 +898,7 @@
 | [Alrighter](https://open.spotify.com/track/5EjKXX2MhPDhc9ZAN4jb0v) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [Alrighter](https://open.spotify.com/album/77gIRxGo9KuhAy2zDEQjDW) | 2:18 | 2025-01-30 | 2025-02-07 |
 | [Alt På Rød](https://open.spotify.com/track/65C7dJuAI8JjOSA6vCfuK2) | [Mads Langer](https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x) | [Alt På Rød](https://open.spotify.com/album/24TMuhiWwpIBN2oPvuqwha) | 2:44 | 2025-05-22 | 2025-05-30 |
 | [Alter Ego \(with JT\)](https://open.spotify.com/track/2xaaJcmvMOmpDbTwlWnjFh) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Alter Ego \(with JT\)](https://open.spotify.com/album/3CvGbx2f7ZMoUZLz8ZjOQd) | 3:24 | 2024-03-28 | 2024-04-05 |
-| [Alto](https://open.spotify.com/track/6W0JyLntjW5czCieDPSkui) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Alto](https://open.spotify.com/album/6CK5736RvBDi7w9wDjCYLf) | 3:08 | 2025-05-29 |  |
+| [Alto](https://open.spotify.com/track/6W0JyLntjW5czCieDPSkui) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Alto](https://open.spotify.com/album/6CK5736RvBDi7w9wDjCYLf) | 3:45 | 2025-05-29 |  |
 | [Always](https://open.spotify.com/track/2LlOeW5rVcvl3QcPNPcDus) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH](https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y) | 3:45 | 2023-04-06 | 2023-04-14 |
 | [Always \(All The Time\)](https://open.spotify.com/track/7f1Cpde5MCGOSmRicevxIB) | [bob junior](https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne), [Bethany Cosentino](https://open.spotify.com/artist/22T82q6dMFYUMb287TzRoI) | [friends, vol\. 1](https://open.spotify.com/album/7C3OXCuJRJJfgaf1Jz5aAl) | 2:45 | 2024-03-14 | 2024-03-22 |
 | [Always Ballin](https://open.spotify.com/track/0gfF1aSUYR2CIZPuHaF2gm) | [Benji](https://open.spotify.com/artist/3neUCGkPr49wZFy3UXaYpg) | [Always Ballin](https://open.spotify.com/album/2XM2Yt2IqrxUgQ26uJ0vVL) | 3:15 | 2024-03-21 | 2024-03-29 |

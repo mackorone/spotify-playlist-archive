@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6Yyn4ntHauNSEpS4cnQALP">Alysa Vanderheym</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-98 songs - 5 hr 10 min
+102 songs - 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Blue Dream Baby](https://open.spotify.com/track/2cHjdUBcdnnCGdubhCmLbM) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Blue Dream Baby](https://open.spotify.com/album/2uTVxVa04MmJ9afai3a9cc) | 2:56 | 2024-04-03 |  |
 | [Bored](https://open.spotify.com/track/2In2EZDnS9jPScxdgx8axv) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF) | [Bored](https://open.spotify.com/album/1LmlKG7YUCj5lB7Ren2eOE) | 3:30 | 2024-04-03 |  |
 | [Born Again](https://open.spotify.com/track/7JcGS8KvdGXHkol58AroZ2) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 2:36 | 2024-10-13 |  |
+| [Breakfast in Bed \(feat\. Avenue Beat\)](https://open.spotify.com/track/2E6l2tlco2SpF2LC7pjFHN) | [Sophia Messa](https://open.spotify.com/artist/4EtJmdsecF1RlU8cOo6BBR), [Avenue Beat](https://open.spotify.com/artist/1htYtUdXVMwR6HCSs821Lc) | [Ice Cream & Cigarettes EP](https://open.spotify.com/album/1pjNf0VLIZl047irwTJT2a) | 2:21 | 2025-05-31 |  |
 | [butterfly \(feat\. Karen Fairchild\)](https://open.spotify.com/track/05aF35gAGVmmvsZp7wlgwf) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n), [Karen Fairchild](https://open.spotify.com/artist/3RXtieA0L2l22SWlOUMNca) | [butterfly \(feat\. Karen Fairchild\)](https://open.spotify.com/album/4MV40qreGLrt6Tsb1a4U0y) | 2:49 | 2024-04-03 |  |
 | [Come Here Cowboy](https://open.spotify.com/track/2hBzDI176FXjOyCiNuvifG) | [Bunnie Xo](https://open.spotify.com/artist/56Dw1CLlqjQuQkBLm25hHP) | [Come Here Cowboy](https://open.spotify.com/album/4xeFm14IBvxCjYdOZutcAA) | 2:04 | 2024-12-11 |  |
 | [Cowboys Cry Too](https://open.spotify.com/track/3jSN1UlLaeWYRjjIIeAJkd) | [Good Girls Inc.](https://open.spotify.com/artist/7lShJZDCaM15sDfIE3DOjA) | [Cowboys Cry Too](https://open.spotify.com/album/1Wc45qb892V3zVDdDdrHzl) | 2:58 | 2024-07-18 | 2024-08-13 |
@@ -28,6 +29,7 @@
 | [Cut Me Up](https://open.spotify.com/track/2Tm7QZxAqRy9CZb2067XsO) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS \(DELUXE\)](https://open.spotify.com/album/1RK0zPSMv6O78iP9M0irH8) | 2:35 | 2025-03-09 |  |
 | [Deep](https://open.spotify.com/track/3oYFqF7jwJp4sxZ0WQworY) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS Commentary Album](https://open.spotify.com/album/0Py8hbFZ9QhI2gPEqzbla1) | 2:22 | 2024-12-11 |  |
 | [Did You Make It Home? \(outro\)](https://open.spotify.com/track/2lwG3Zs3Pr5JJs9pnU4T9F) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS Commentary Album](https://open.spotify.com/album/0Py8hbFZ9QhI2gPEqzbla1) | 0:59 | 2024-12-11 |  |
+| [Didn't I?](https://open.spotify.com/track/6McgYCZQifHoKNw9twZKw0) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now? \(Deluxe\)](https://open.spotify.com/album/1zK6DiSD46bOoBoXyG6Jzp) | 2:50 | 2025-05-31 |  |
 | [dirt on 'em](https://open.spotify.com/track/5Gz4MqUn5CcgDWK0ES4650) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [shot in the dark](https://open.spotify.com/album/7H5STZn8rbg58X1Q69Rifk) | 2:49 | 2024-07-11 |  |
 | [dirt on 'em](https://open.spotify.com/track/7zVd1XxANwpZPL3mVJjkfW) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [shot in the dark](https://open.spotify.com/album/2mb9T1V9feTNeGUNvXycfJ) | 2:49 | 2024-04-03 | 2024-07-12 |
 | [DOIN' MY BEST](https://open.spotify.com/track/2XZ2iNsKb70iobqOYqcnpw) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 2:37 | 2024-04-03 |  |
@@ -102,7 +104,9 @@
 | [What Am I Missing?](https://open.spotify.com/track/61noMxtCbfnzewtJmUIQ13) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [The Dark](https://open.spotify.com/album/6S2FI6xzGq3INs2WnlB9ou) | 2:52 | 2024-04-03 |  |
 | [WHAT I HAVE](https://open.spotify.com/track/6NQRyB65XYawngq6Cq1uKm) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 2:58 | 2024-04-03 |  |
 | [What's Left of You](https://open.spotify.com/track/2gRKq9rIC5i1zuxp06zJWH) | [Chord Overstreet](https://open.spotify.com/artist/5D3muNJhYYunbRkh3FKgX0) | [What's Left of You](https://open.spotify.com/album/0YxGSwRTpQM2QB5yc7sG6f) | 2:58 | 2025-01-09 | 2025-04-12 |
+| [When The Drugs Don't Work \(with Ilsey\)](https://open.spotify.com/track/4MJik4CCxNQjP2irCUO1YM) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 3:23 | 2025-05-31 |  |
 | [Where There’s Smoke](https://open.spotify.com/track/4RPjAv4rV1xypsuBd7EiMi) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Come Get Your Memory](https://open.spotify.com/album/5p1dDu2h83DMOPi9ULbqts) | 2:42 | 2024-04-03 |  |
+| [Where There’s Smoke \- Hey World Sessions](https://open.spotify.com/track/5lwUxc3UOkQXaj2kkzinfD) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Hey World Sessions](https://open.spotify.com/album/1cukOALZABGxEuM4O28Iqy) | 2:41 | 2025-05-31 |  |
 | [Wide Open](https://open.spotify.com/track/4AkhBwuqQZQidZFkJICQsd) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Along The Way](https://open.spotify.com/album/1xfdHLXMtp4hAhRLoMdiRJ) | 3:09 | 2024-04-03 |  |
 | [Win Anyway](https://open.spotify.com/track/3ybYCEZBzVasEAHpix0ihF) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [Win Anyway](https://open.spotify.com/album/4JreOb3v50NkRrGyZxNRXC) | 2:56 | 2024-04-03 |  |
 | [You're Cool](https://open.spotify.com/track/2bWIYp9KRcClACWoQtytU1) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Not Afraid to Say Goodbye](https://open.spotify.com/album/76ahXbGodPCqMpKrTHWCpe) | 2:28 | 2024-04-03 |  |

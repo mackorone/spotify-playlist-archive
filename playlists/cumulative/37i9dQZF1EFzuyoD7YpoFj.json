@@ -465,6 +465,74 @@
     },
     {
       "album": {
+        "name": "Anything Goes - Porter",
+        "url": "https://open.spotify.com/album/4D60FSryWgisAVKEnGthGd"
+      },
+      "artists": [
+        {
+          "name": "Cole Porter",
+          "url": "https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS"
+        },
+        {
+          "name": "Bruce Hubbard",
+          "url": "https://open.spotify.com/artist/2iIdI49GPmDRQSKI88VxAH"
+        },
+        {
+          "name": "Ambrosian Chorus",
+          "url": "https://open.spotify.com/artist/2TRkTaY4XSQ5IUDltXCOpv"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "John McGlinn",
+          "url": "https://open.spotify.com/artist/7MLdWFrAVzSOm150RT4KFK"
+        }
+      ],
+      "date_added": "2025-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176106,
+      "name": "Anything Goes, Act II: Public Enemy Number One (Four Sailors, Passengers)",
+      "url": "https://open.spotify.com/track/6mPaBY5oFx5btEe6U2n0th"
+    },
+    {
+      "album": {
+        "name": "Anything Goes - Porter",
+        "url": "https://open.spotify.com/album/4D60FSryWgisAVKEnGthGd"
+      },
+      "artists": [
+        {
+          "name": "Cole Porter",
+          "url": "https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS"
+        },
+        {
+          "name": "Kim Criswell",
+          "url": "https://open.spotify.com/artist/0uusW198iXgIdooU7txyAw"
+        },
+        {
+          "name": "Ambrosian Chorus",
+          "url": "https://open.spotify.com/artist/2TRkTaY4XSQ5IUDltXCOpv"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "John McGlinn",
+          "url": "https://open.spotify.com/artist/7MLdWFrAVzSOm150RT4KFK"
+        }
+      ],
+      "date_added": "2025-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139600,
+      "name": "Anything Goes, Appendix: Kate The Great (Reno, Angels)",
+      "url": "https://open.spotify.com/track/33IXQ16lcAY9vvgOQZXWhA"
+    },
+    {
+      "album": {
         "name": "Can Can",
         "url": "https://open.spotify.com/album/3XMIuCx1rzLPeHQcusAv7Q"
       },
@@ -961,6 +1029,24 @@
     },
     {
       "album": {
+        "name": "I Want to Be Happy",
+        "url": "https://open.spotify.com/album/0I52fHQ0GcrlTVIuDWQHJf"
+      },
+      "artists": [
+        {
+          "name": "Marc Fosset Trio",
+          "url": "https://open.spotify.com/artist/2XJm4YgjpQdlnbVcj14I5L"
+        }
+      ],
+      "date_added": "2025-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224720,
+      "name": "C'est si facile de vous aimer (Easy to Love)",
+      "url": "https://open.spotify.com/track/6sPAZooZny9UycKZt7Vgkl"
+    },
+    {
+      "album": {
         "name": "Smile (The Audio Pearls Collection)",
         "url": "https://open.spotify.com/album/0xnn7tttg62ixAwEgjip57"
       },
@@ -1102,6 +1188,24 @@
       "duration_ms": 230795,
       "name": "Caught Up",
       "url": "https://open.spotify.com/track/7lqaw4hj1vy2YYkr6Fn7Lq"
+    },
+    {
+      "album": {
+        "name": "Evil Under The Sun - Music By Cole Porter",
+        "url": "https://open.spotify.com/album/5vaF9smmAAsU9HpImD7EzI"
+      },
+      "artists": [
+        {
+          "name": "Original Soundtrack",
+          "url": "https://open.spotify.com/artist/3huVQoEWdqUTvlYpFVUHcF"
+        }
+      ],
+      "date_added": "2025-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94733,
+      "name": "Check Out",
+      "url": "https://open.spotify.com/track/2Yjd3UjEh3vlKKHU9PiPge"
     },
     {
       "album": {
@@ -2031,6 +2135,24 @@
     },
     {
       "album": {
+        "name": "Anything Goes (New Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/6yH8LWqApBErvtBGSSwGzL"
+      },
+      "artists": [
+        {
+          "name": "Anything Goes New Broadway Company",
+          "url": "https://open.spotify.com/artist/7bxHjshxURe2o5SoRN2ojF"
+        }
+      ],
+      "date_added": "2025-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92440,
+      "name": "Finale",
+      "url": "https://open.spotify.com/track/0dgvAFAHF1XLIKQK8vKixd"
+    },
+    {
+      "album": {
         "name": "Silk Stockings (An Original Cast Recording)",
         "url": "https://open.spotify.com/album/210L9tzkhIuhQM2zSujX7t"
       },
@@ -2068,7 +2190,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-01",
       "duration_ms": 197991,
       "name": "Finale",
       "url": "https://open.spotify.com/track/0Q7Mtha6suv3ENtJFQRHrR"
@@ -2242,6 +2364,24 @@
       "duration_ms": 134733,
       "name": "Fujiyama Mama - Remastered",
       "url": "https://open.spotify.com/track/5GZKrlylsU8zoILY2aiDJz"
+    },
+    {
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/5iV6ZnQTbS8MzrVMiSAhcT"
+      },
+      "artists": [
+        {
+          "name": "Sergio Ortiz",
+          "url": "https://open.spotify.com/artist/1utVivrC7PRXJ65TMt0V4x"
+        }
+      ],
+      "date_added": "2025-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124853,
+      "name": "F\u00e1cil de Amar",
+      "url": "https://open.spotify.com/track/34exKFkA7VU93MaBMXtDNT"
     },
     {
       "album": {
@@ -2816,7 +2956,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-01",
       "duration_ms": 211426,
       "name": "I Am in Love",
       "url": "https://open.spotify.com/track/3ihUEHni4ACzTLQL9mUgJL"
@@ -3254,6 +3394,24 @@
       "duration_ms": 187010,
       "name": "I'm gettin' myself ready for you",
       "url": "https://open.spotify.com/track/3ks8teAYHndHIccgy0T2PV"
+    },
+    {
+      "album": {
+        "name": "Rare Funk & Disco 42",
+        "url": "https://open.spotify.com/album/5FCTng1W3Mu7QxS4XSxMcl"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lara",
+          "url": "https://open.spotify.com/artist/5GgX23TgqGxu7hCm6qVDo4"
+        }
+      ],
+      "date_added": "2025-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209118,
+      "name": "I'm In Love",
+      "url": "https://open.spotify.com/track/7LCD89We5JZALirKxgsGXM"
     },
     {
       "album": {
@@ -3864,7 +4022,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-01",
       "duration_ms": 209392,
       "name": "Kate the Great (feat. Tim Ouimette)",
       "url": "https://open.spotify.com/track/5QLX1taitpgXbLdrgOsi8p"
@@ -4300,6 +4458,24 @@
       "duration_ms": 731813,
       "name": "Love For Sale",
       "url": "https://open.spotify.com/track/3RJ2CnHGlmBLsoVqaMfAM0"
+    },
+    {
+      "album": {
+        "name": "Evil Under The Sun - Music By Cole Porter",
+        "url": "https://open.spotify.com/album/5vaF9smmAAsU9HpImD7EzI"
+      },
+      "artists": [
+        {
+          "name": "Original Soundtrack",
+          "url": "https://open.spotify.com/artist/3huVQoEWdqUTvlYpFVUHcF"
+        }
+      ],
+      "date_added": "2025-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176626,
+      "name": "Main Titles",
+      "url": "https://open.spotify.com/track/0EC669zWXQlHL4Sa6GR1Qh"
     },
     {
       "album": {
@@ -4882,10 +5058,28 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-01",
       "duration_ms": 206224,
       "name": "Noite e Dia",
       "url": "https://open.spotify.com/track/0GHM6p3dWeF42wfW6m0AeC"
+    },
+    {
+      "album": {
+        "name": "Joias Musicais",
+        "url": "https://open.spotify.com/album/2RY0Pvr4HX2Ap0dY24Khf0"
+      },
+      "artists": [
+        {
+          "name": "Nelson Gon\u00e7alves",
+          "url": "https://open.spotify.com/artist/2wi99swSP87YaFjVOI3zGJ"
+        }
+      ],
+      "date_added": "2025-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187800,
+      "name": "Noite e Dia (Night And Day)",
+      "url": "https://open.spotify.com/track/5m6TW4ENRkqaPSVcNOEWmb"
     },
     {
       "album": {
@@ -5426,12 +5620,64 @@
           "url": "https://open.spotify.com/artist/7MLdWFrAVzSOm150RT4KFK"
         }
       ],
-      "date_added": "2024-07-24",
+      "date_added": "2025-05-31",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 224093,
+      "name": "Porter / Orch. Klickmann, Spialek, Russell Bennett & De Paeckh: Fifty Million Frenchmen: Overture",
+      "url": "https://open.spotify.com/track/3anTizdPA3D58ynOdbEbzi"
+    },
+    {
+      "album": {
+        "name": "Porter: Overtures & Within the Quota",
+        "url": "https://open.spotify.com/album/453quw75TPiFDwhNYYg7oh"
+      },
+      "artists": [
+        {
+          "name": "Cole Porter",
+          "url": "https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS"
+        },
+        {
+          "name": "London Sinfonietta",
+          "url": "https://open.spotify.com/artist/68kuKZp7yrgzZpoh5m6dWA"
+        },
+        {
+          "name": "John McGlinn",
+          "url": "https://open.spotify.com/artist/7MLdWFrAVzSOm150RT4KFK"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": "2025-06-01",
       "duration_ms": 307466,
       "name": "Porter / Orch. Spialek & Russell Bennett: Gay Divorce: Overture",
       "url": "https://open.spotify.com/track/1tZKBo1pwcNnMZkMU9wnTu"
+    },
+    {
+      "album": {
+        "name": "Porter: Overtures & Within the Quota",
+        "url": "https://open.spotify.com/album/453quw75TPiFDwhNYYg7oh"
+      },
+      "artists": [
+        {
+          "name": "Cole Porter",
+          "url": "https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS"
+        },
+        {
+          "name": "London Sinfonietta",
+          "url": "https://open.spotify.com/artist/68kuKZp7yrgzZpoh5m6dWA"
+        },
+        {
+          "name": "John McGlinn",
+          "url": "https://open.spotify.com/artist/7MLdWFrAVzSOm150RT4KFK"
+        }
+      ],
+      "date_added": "2025-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325133,
+      "name": "Porter / Orch. Spialek: Gay Divorce: Night and Day",
+      "url": "https://open.spotify.com/track/2kdouU1hKeSFkYB4AtJLuY"
     },
     {
       "album": {
@@ -7421,6 +7667,24 @@
     },
     {
       "album": {
+        "name": "Veneno Para El Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/7tNKTunZlNnOx9gaUnOghX"
+      },
+      "artists": [
+        {
+          "name": "Ana Bel\u00e9n",
+          "url": "https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t"
+        }
+      ],
+      "date_added": "2025-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185306,
+      "name": "Veneno Para El Corazon - (It's The Lovely)",
+      "url": "https://open.spotify.com/track/2gxSxY8f3oesNXIngMtwjM"
+    },
+    {
+      "album": {
         "name": "Emociones",
         "url": "https://open.spotify.com/album/24vzu4AEvkGUmBYjleFPcD"
       },
@@ -7432,7 +7696,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-01",
       "duration_ms": 218066,
       "name": "Veneno para el Coraz\u00f3n",
       "url": "https://open.spotify.com/track/6EzYRxUF3dZfYb6TtF96i7"
@@ -7504,10 +7768,28 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-01",
       "duration_ms": 186734,
       "name": "Vous Faites Partie De Moi",
       "url": "https://open.spotify.com/track/5V86dw7gDcAhagp0i0y9av"
+    },
+    {
+      "album": {
+        "name": "A Woman's Journey",
+        "url": "https://open.spotify.com/album/4kW6pVi19ce9kZaiJQTRJp"
+      },
+      "artists": [
+        {
+          "name": "Madeleine & Salomon",
+          "url": "https://open.spotify.com/artist/3b3gzfoQXBnYjVZqVNQMSb"
+        }
+      ],
+      "date_added": "2025-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159051,
+      "name": "Vous faites partie de moi",
+      "url": "https://open.spotify.com/track/3iD6sQeWtFbU5sOXYabxv4"
     },
     {
       "album": {
@@ -8032,6 +8314,24 @@
       "duration_ms": 211733,
       "name": "Who Said Gay Paree?",
       "url": "https://open.spotify.com/track/6ZlC37ukvbBzVn3KFaFnUm"
+    },
+    {
+      "album": {
+        "name": "Gene Kelly: Collection Belle \u00c9poque, Vol. 1",
+        "url": "https://open.spotify.com/album/2DqryaFRKApyuA12IiC6to"
+      },
+      "artists": [
+        {
+          "name": "Gene Kelly",
+          "url": "https://open.spotify.com/artist/1mhlGWeiNrWnhJJc2EufYk"
+        }
+      ],
+      "date_added": "2025-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276349,
+      "name": "Why Am I So Gone",
+      "url": "https://open.spotify.com/track/6PYFmCNsu3UAvp753mWPxV"
     },
     {
       "album": {

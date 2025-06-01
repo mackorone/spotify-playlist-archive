@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aJqrYHYkGX.md) - [plain]
 
 > Gentle, relaxing music from around the globe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,925 likes - 106 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,955 likes - 106 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aJqrYHYkGX.md) - [plain]
 | 105 | [Through The Changes](https://open.spotify.com/track/101jUm7J6B3zxVOezYJofl) | [Uli Jons](https://open.spotify.com/artist/0K4PNBCw5wDm6lKZYil6cU) | [Through The Changes](https://open.spotify.com/album/515aroNRt3KAYBvyF9NIns) | 3:29 |
 | 106 | [Contra La Ceguera](https://open.spotify.com/track/6LhGHJlSy42wepu2KI1GcO) | [Ancestral Beats](https://open.spotify.com/artist/5s5I6gLsXrfTFt91nIznYb) | [Contra La Ceguera](https://open.spotify.com/album/21gkMkXE923CauWKURI1FF) | 3:22 |
 
-Snapshot ID: `AAAAACswXCbP06yMab0T88tVw9UGLk4u`
+Snapshot ID: `aBoRaAAAAACh3VHAA5wBpmBwMyeUW557`

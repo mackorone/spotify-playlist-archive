@@ -1760,7 +1760,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-01",
       "duration_ms": 279799,
       "name": "Ara Beni L\u00fctfen",
       "url": "https://open.spotify.com/track/6wW7ZgvYwgOKCRLeqYEM6y"
@@ -2248,7 +2248,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-31",
+      "date_removed": null,
       "duration_ms": 184968,
       "name": "A\u011fla",
       "url": "https://open.spotify.com/track/2fnTOxrBmArhS5SZSE20zM"
@@ -2266,7 +2266,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-01",
       "duration_ms": 184968,
       "name": "A\u011fla",
       "url": "https://open.spotify.com/track/6UJu0bCXSi91whMUJJOct5"
@@ -5530,7 +5530,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-31",
+      "date_removed": null,
       "duration_ms": 136009,
       "name": "CISTAK",
       "url": "https://open.spotify.com/track/0bvgWq2ZUhwwjLR1AMcQDs"
@@ -9984,10 +9984,32 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-01",
       "duration_ms": 102097,
       "name": "HA HA HA HA",
       "url": "https://open.spotify.com/track/46EVmz3fZglNWoo2uyRkMu"
+    },
+    {
+      "album": {
+        "name": "S\u00d6ZDE K\u0130MSELER SEVM\u0130YOR",
+        "url": "https://open.spotify.com/album/5ifZ1o8QqQVdtcXkuxrwhS"
+      },
+      "artists": [
+        {
+          "name": "Lvbel C5",
+          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+        },
+        {
+          "name": "AKDO",
+          "url": "https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0"
+        }
+      ],
+      "date_added": "2025-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102097,
+      "name": "HA HA HA HA",
+      "url": "https://open.spotify.com/track/4am1HRe1AbECdzyYfiwwW9"
     },
     {
       "album": {
@@ -13143,6 +13165,28 @@
     },
     {
       "album": {
+        "name": "Kayboldum Masal\u0131nda",
+        "url": "https://open.spotify.com/album/7M2QsyKsuRE2We8pTa2oEc"
+      },
+      "artists": [
+        {
+          "name": "Aleyna Tilki",
+          "url": "https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn"
+        },
+        {
+          "name": "Mabel Matiz",
+          "url": "https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku"
+        }
+      ],
+      "date_added": "2025-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255118,
+      "name": "Kayboldum Masal\u0131nda",
+      "url": "https://open.spotify.com/track/1BpEKaFPwQY2KtoDQawpt2"
+    },
+    {
+      "album": {
         "name": "Kaybolurum G\u00fcl\u00fc\u015f\u00fcnde",
         "url": "https://open.spotify.com/album/7ympkjgI6ge8PPZi16jK44"
       },
@@ -13682,6 +13726,28 @@
       "duration_ms": 266000,
       "name": "Kufi",
       "url": "https://open.spotify.com/track/4JqP7JwWNG8I7xY40E6IWh"
+    },
+    {
+      "album": {
+        "name": "kum saati",
+        "url": "https://open.spotify.com/album/3R3uDxPQ4tHfhW6mGEQawV"
+      },
+      "artists": [
+        {
+          "name": "EGE!",
+          "url": "https://open.spotify.com/artist/5chlGLYjNChbXjDbojObt5"
+        },
+        {
+          "name": "Wegh",
+          "url": "https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT"
+        }
+      ],
+      "date_added": "2025-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139534,
+      "name": "kum saati",
+      "url": "https://open.spotify.com/track/18BJaXD2ss3mP9o0qMOp8P"
     },
     {
       "album": {
@@ -15655,6 +15721,24 @@
     },
     {
       "album": {
+        "name": "Mosmor Perde",
+        "url": "https://open.spotify.com/album/1nxsVfwr0XVMfQELSWjakK"
+      },
+      "artists": [
+        {
+          "name": "BLOK3",
+          "url": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6"
+        }
+      ],
+      "date_added": "2025-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156774,
+      "name": "Mosmor Perde",
+      "url": "https://open.spotify.com/track/2qBH9hL1iMU9kpz44dLtcj"
+    },
+    {
+      "album": {
         "name": "Moth To A Flame",
         "url": "https://open.spotify.com/album/3udIvIqyBG1RrHxXrUZDoK"
       },
@@ -16010,7 +16094,7 @@
       ],
       "date_added": "2025-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-01",
       "duration_ms": 151290,
       "name": "NEON",
       "url": "https://open.spotify.com/track/4DPjZs1Jjw5mQ41w0xt9KA"
@@ -17976,7 +18060,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-01",
       "duration_ms": 152967,
       "name": "RanDuman",
       "url": "https://open.spotify.com/track/49lLBkUqdjCFuLAlDIteRF"
@@ -18604,7 +18688,7 @@
       ],
       "date_added": "2022-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-01",
       "duration_ms": 196800,
       "name": "Saklad\u0131\u011f\u0131n Bir \u015eeyler Var",
       "url": "https://open.spotify.com/track/6t18CcJVpnFAoWfcZxiZtk"
@@ -19849,6 +19933,24 @@
     },
     {
       "album": {
+        "name": "Snap",
+        "url": "https://open.spotify.com/album/4PJ5Iewz7PoUCRe7QKGHRq"
+      },
+      "artists": [
+        {
+          "name": "manifest",
+          "url": "https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf"
+        }
+      ],
+      "date_added": "2025-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149711,
+      "name": "Snap",
+      "url": "https://open.spotify.com/track/4EsRpVBBKiqOZ67DJj0QHF"
+    },
+    {
+      "album": {
         "name": "Midnights",
         "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
       },
@@ -19918,7 +20020,7 @@
       ],
       "date_added": "2025-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-01",
       "duration_ms": 236888,
       "name": "Son Bir Rica",
       "url": "https://open.spotify.com/track/5mJPC56kBRnB9rLGLs85rr"
@@ -19976,6 +20078,32 @@
       "duration_ms": 276413,
       "name": "Son Sesleni\u015fim",
       "url": "https://open.spotify.com/track/1Xn2GNoMUPxjgxweGjypQ8"
+    },
+    {
+      "album": {
+        "name": "SONBAHAR",
+        "url": "https://open.spotify.com/album/2KAvMXHNqyZbQnrwg5tavY"
+      },
+      "artists": [
+        {
+          "name": "Era7capone",
+          "url": "https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM"
+        },
+        {
+          "name": "Poizi",
+          "url": "https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5"
+        },
+        {
+          "name": "SNOW",
+          "url": "https://open.spotify.com/artist/58H98oCs7wfe6XZOgIaT0q"
+        }
+      ],
+      "date_added": "2025-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "SONBAHAR",
+      "url": "https://open.spotify.com/track/1YrEoI9Cn6pmCXuiUGQ0Kf"
     },
     {
       "album": {
@@ -22434,7 +22562,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-01",
       "duration_ms": 186000,
       "name": "Yasemin",
       "url": "https://open.spotify.com/track/1hdJwEj1tD0O5NiWM9U5VW"

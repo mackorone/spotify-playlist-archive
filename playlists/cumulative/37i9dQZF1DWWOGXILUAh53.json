@@ -8485,6 +8485,28 @@
     },
     {
       "album": {
+        "name": "Exhilarate",
+        "url": "https://open.spotify.com/album/4JDFe06NZ2VAdPdOPoar5F"
+      },
+      "artists": [
+        {
+          "name": "Matoma",
+          "url": "https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq"
+        },
+        {
+          "name": "Hanne Mj\u00f8en",
+          "url": "https://open.spotify.com/artist/2xDZ8qyyE2Ti4wL1Ob1T7V"
+        }
+      ],
+      "date_added": "2025-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191578,
+      "name": "Exhilarate",
+      "url": "https://open.spotify.com/track/5SML37WZ12BWh7AmJBVCc0"
+    },
+    {
+      "album": {
         "name": "Explosive",
         "url": "https://open.spotify.com/album/3HDeUdqtFGF5NIkLZP4KWl"
       },
@@ -16340,7 +16362,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-01",
       "duration_ms": 208375,
       "name": "like JENNIE - Peggy Gou Remix",
       "url": "https://open.spotify.com/track/41JiYRL2Ahnbjy0WRExDge"

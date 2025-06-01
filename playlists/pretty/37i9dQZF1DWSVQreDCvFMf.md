@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Arron Rebustes, JAO
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,139 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,168 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 | 9 | [Gently](https://open.spotify.com/track/4OGqCQKB2e867ucmL23qPf) | [Chezka](https://open.spotify.com/artist/09aWOipSJalkgLg7vOOUlY) | [Gently](https://open.spotify.com/album/2CNDVJNk6clHni9na9ceXt) | 2:58 |
 | 10 | [AKIN](https://open.spotify.com/track/5MT8VS94CftuX3KdPZdBUn) | [LUMI](https://open.spotify.com/artist/0ih2mQrqesmfugYZ2WNLJZ) | [AKIN](https://open.spotify.com/album/4KKSk2igvtrIzzb2AtoxJX) | 3:04 |
 | 11 | [Ikigai \(feat\. Loonie\)](https://open.spotify.com/track/521fDEPuyS2szREJ9NkMDs) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj), [Loonie](https://open.spotify.com/artist/552jNI1kUtB1FPRZFliQxc) | [Ikigai \(feat\. Loonie\)](https://open.spotify.com/album/4XkhhI9dq3Dr2IJGpiXpBf) | 4:05 |
-| 12 | [Rosas](https://open.spotify.com/track/3kedvnPWaRcrshtiV6e6Z3) | [Jenzen Guino Official](https://open.spotify.com/artist/2tKfutC3pO6xm8iyRuGZgz) | [Rosas](https://open.spotify.com/album/6dAmnkJugmwr6Db7HLuqHr) | 3:23 |
+| 12 | [Rosas](https://open.spotify.com/track/3kedvnPWaRcrshtiV6e6Z3) | [Jenzen Guino](https://open.spotify.com/artist/3jkBa6etjIDCdf13YXJ0pS) | [Rosas](https://open.spotify.com/album/6dAmnkJugmwr6Db7HLuqHr) | 3:23 |
 | 13 | [Kape](https://open.spotify.com/track/3GeVvV5HZGJh57wz9CS5ZF) | [Destiny Palisoc](https://open.spotify.com/artist/5pEHj8qSCc3G2S5mXZWoWj) | [Kape](https://open.spotify.com/album/6zxSfy6cYswUt1TpOcJ49e) | 3:19 |
 | 14 | [Huling Pag\-Ibig](https://open.spotify.com/track/11glrCyEw3LnLxf1M6KB34) | [Mark Carpio](https://open.spotify.com/artist/2JEIN1g27pZdm3hKB9EwE5) | [Huling Pag\-Ibig](https://open.spotify.com/album/57Af2Iv4CAwiJmpD4ClLbi) | 3:56 |
 | 15 | [fool me twice](https://open.spotify.com/track/2pTiZDWLDQjucMaCqiJnTW) | [Jess Connelly](https://open.spotify.com/artist/1XC87A3NVlw6xDW1kIB5FN) | [fool's gold](https://open.spotify.com/album/3h3J8rBM1fJmZasYyT9U2U) | 3:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 | 99 | [KABANATA](https://open.spotify.com/track/0XAd307ZQhPFVtnVrqwUsd) | [JAO](https://open.spotify.com/artist/6Bc3V3kVnWpY5kqQN6nio5) | [KABANATA](https://open.spotify.com/album/4ORFzQtMyd3xR7SnLFnod9) | 3:48 |
 | 100 | [Nang Tahimik](https://open.spotify.com/track/2ZvnsAhdcPO0P6pM4JWmKs) | [geiko](https://open.spotify.com/artist/6buyTec2V7K6LVmL74MLl2) | [Nang Tahimik](https://open.spotify.com/album/5gC6gRRQB40oSPOoyPMDdA) | 5:34 |
 
-Snapshot ID: `AAAAAEV7HA42JdHcEEt73hJpPCtWg6r3`
+Snapshot ID: `aDlZWwAAAAClFogORh1BihGeFzmTKzrS`

@@ -1,12 +1,12 @@
 {
   "description": "This is Five Finger Death Punch. The essential tracks, all in one playlist.",
-  "num_followers": 560995,
+  "num_followers": 561052,
   "original_name": "This Is Five Finger Death Punch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDejgAAAAABvrghuGKmuztfl6mfTdEim",
+  "snapshot_id": "aDj1AAAAAAChqkqTIzYwGKHEvC6+p4Vy",
   "tracks": [
     {
       "added_at": null,
@@ -179,6 +179,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Holy Water (feat. Ivan Moody of Five Finger Death Punch)",
+        "url": "https://open.spotify.com/album/2VO6HxN9o1v3s3zSKlLoiz"
+      },
+      "artists": [
+        {
+          "name": "The Funeral Portrait",
+          "url": "https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8"
+        },
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 181714,
+      "name": "Holy Water (feat. Ivan Moody of Five Finger Death Punch)",
+      "url": "https://open.spotify.com/track/1rcZspyKL7dhmV3gj8PT8p"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "And Justice for None",
         "url": "https://open.spotify.com/album/1hMjINqA3UZ1ITb47wizsC"
       },
@@ -207,26 +227,6 @@
       "duration_ms": 212493,
       "name": "Far From Home",
       "url": "https://open.spotify.com/track/3DjRp5TOyy29YsfKbCWK3f"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Holy Water (feat. Ivan Moody of Five Finger Death Punch)",
-        "url": "https://open.spotify.com/album/2VO6HxN9o1v3s3zSKlLoiz"
-      },
-      "artists": [
-        {
-          "name": "The Funeral Portrait",
-          "url": "https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8"
-        },
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 181714,
-      "name": "Holy Water (feat. Ivan Moody of Five Finger Death Punch)",
-      "url": "https://open.spotify.com/track/1rcZspyKL7dhmV3gj8PT8p"
     },
     {
       "added_at": null,
@@ -304,9 +304,9 @@
           "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
         }
       ],
-      "duration_ms": 202249,
-      "name": "Full Circle",
-      "url": "https://open.spotify.com/track/76CWLFHm3OFuE2P1dDMhi3"
+      "duration_ms": 281803,
+      "name": "Darkness Settles In",
+      "url": "https://open.spotify.com/track/6RksBSj5fFtPkUnL2EE0oe"
     },
     {
       "added_at": null,
@@ -368,9 +368,9 @@
           "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
         }
       ],
-      "duration_ms": 281803,
-      "name": "Darkness Settles In",
-      "url": "https://open.spotify.com/track/6RksBSj5fFtPkUnL2EE0oe"
+      "duration_ms": 202249,
+      "name": "Full Circle",
+      "url": "https://open.spotify.com/track/76CWLFHm3OFuE2P1dDMhi3"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Dark noise to keep you sharp and focused during your study session.
 
-194 songs - 8 hr 37 min
+195 songs - 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Calming Black Noise \(Remastered\)](https://open.spotify.com/track/0xXLoqrSDiUzfDOgt5WcUY) | [MKG Sound Library](https://open.spotify.com/artist/4w6WFLprJAqxXhKCWfxnHN) | [Black Noise For Focus](https://open.spotify.com/album/0ZeBeelX0WMyx58X4MnYJg) | 2:39 | 2023-04-21 | 2023-08-12 |
 | [Close Your Eyes To Black Noise](https://open.spotify.com/track/4WOtxDTW0KnW0t0QVFmi8F) | [BGVV](https://open.spotify.com/artist/2ZZmOU69olG4AWM3c3LX1T) | [Close Your Eyes To Black Noise](https://open.spotify.com/album/34NQgOeuoKjZKAhbnDihFe) | 1:56 | 2023-03-10 | 2023-06-20 |
 | [Coal Echoes](https://open.spotify.com/track/06CZdio4eDdkdTPEZeFfiZ) | [Dream Fuzz](https://open.spotify.com/artist/5g15r7gI0JATorLiQduRkF) | [Coal Echoes](https://open.spotify.com/album/2PZtXdEG5eM6FPA8Ztontj) | 4:47 | 2024-02-13 |  |
+| [Coal Whispers](https://open.spotify.com/track/2l3sVtG5YjEIVqCgU82Vcn) | [White Noise Android](https://open.spotify.com/artist/11AY1VUDrlYvE0skhsjZQd) | [Coal Whispers](https://open.spotify.com/album/6n96ZPOecgJMDFd7IDUwxK) | 5:37 | 2025-04-09 |  |
 | [Comforting Black Noise](https://open.spotify.com/track/7s44WtrdDiebaITSSgBDTD) | [Sleep Sauce](https://open.spotify.com/artist/7MfD7bqyg0WTkai8yuFtH9) | [Black Noise Relaxing Waves](https://open.spotify.com/album/1rLk5sduKeryCRMExWxmGZ) | 3:12 | 2023-03-31 |  |
 | [Controlled Black Noise](https://open.spotify.com/track/6iRwQfjkbm2FHrnv6XOM3w) | [Sleep Liquids](https://open.spotify.com/artist/5V9IfR9NEcllAjfEif5TBC) | [Black Noise EP 2](https://open.spotify.com/album/0jWyuo8KyPYsSIwHrf1lga) | 2:26 | 2023-06-01 |  |
 | [Cosy Black Noise](https://open.spotify.com/track/09ws3AFzlKocLXqU1i493W) | [Sleep Sauce](https://open.spotify.com/artist/7MfD7bqyg0WTkai8yuFtH9) | [Black Noise Relaxing Waves](https://open.spotify.com/album/1rLk5sduKeryCRMExWxmGZ) | 2:49 | 2023-03-31 |  |
@@ -167,7 +168,7 @@
 | [Sleeping To The Black Noise](https://open.spotify.com/track/3PCj5llCd5b3E0pPVF1vqf) | [Noises Of Life](https://open.spotify.com/artist/3Z3rY8ZEQwe3mgMoDzqTWi) | [Sleeping To The Black Noise](https://open.spotify.com/album/3bpnlO13XIwHQDBYCfEA9f) | 2:43 | 2023-03-10 | 2023-10-11 |
 | [Sleeposinic Black Noise](https://open.spotify.com/track/3yOzJnNeBmvWrQjNLesjES) | [Dinkotrons](https://open.spotify.com/artist/1IWnMTe9epcSbGmpBApk7B) | [Black Noise Flow](https://open.spotify.com/album/4aNzsxsepFfomWsCbpylAO) | 3:14 | 2023-03-31 |  |
 | [Sleepy Black Noise](https://open.spotify.com/track/4skhZxAdjEHQ8XCOhLuhQS) | [ATOM](https://open.spotify.com/artist/0K8XPZ3XL6B0m6Hpd234lQ) | [Calm Me Down Black Noise](https://open.spotify.com/album/2K98eaKEKPaVhAjDSFt2cu) | 2:22 | 2023-06-01 |  |
-| [Sleepy Black Robo\-Noise](https://open.spotify.com/track/5MutcU7kIiofO3HVbYPWBO) | [Utmost\-@mos](https://open.spotify.com/artist/2rTA4Aq0QblqZJ2AwY7R4n) | [Robots Treasure Black Noise](https://open.spotify.com/album/2zXVBLKJ324oHVsvdnB9S6) | 2:58 | 2023-03-31 |  |
+| [Sleepy Black Robo\-Noise](https://open.spotify.com/track/5MutcU7kIiofO3HVbYPWBO) | [Utmost\-@mos](https://open.spotify.com/artist/2rTA4Aq0QblqZJ2AwY7R4n) | [Robots Treasure Black Noise](https://open.spotify.com/album/2zXVBLKJ324oHVsvdnB9S6) | 2:58 | 2023-03-31 | 2025-06-01 |
 | [Slowly Falling In To Black Noise](https://open.spotify.com/track/4rmunOjRcnYpmbbhukCXRo) | [Sleepness Orchestra](https://open.spotify.com/artist/0sW4js5qCxePw9lLfKdRTv) | [Relaxing Black Noise Sounds](https://open.spotify.com/album/06EObZqoiaNp8MNG22dNnp) | 2:36 | 2023-03-10 | 2023-08-12 |
 | [Smoothed Black Noise](https://open.spotify.com/track/3hZsr9h85sL56M0RKWjlpq) | [Prompt Unlax](https://open.spotify.com/artist/50GmiI9vOP54gPjuaHe82U) | [Smoothed Black Noise](https://open.spotify.com/album/0nAxr67oWTfgKVhIzTxpNM) | 2:25 | 2023-04-21 |  |
 | [Snooze To Black Noise](https://open.spotify.com/track/3lnOw26XGomUsOwtCPluSE) | [FX Soundtrap](https://open.spotify.com/artist/0bTrplg3JcYsNhCSmSfEAo) | [Snooze To Black Noise](https://open.spotify.com/album/72XCOvMXL7Tanvivcn0E1Q) | 2:26 | 2023-03-10 |  |

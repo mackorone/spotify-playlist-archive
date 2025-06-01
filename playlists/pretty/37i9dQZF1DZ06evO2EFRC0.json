@@ -1,12 +1,12 @@
 {
   "description": "This is Marcos Witt. The essential tracks, all in one playlist.",
-  "num_followers": 95299,
+  "num_followers": 95319,
   "original_name": "This Is Marcos Witt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDejgAAAAAAdGAe9oVK+fuv7yZVWPgo9",
+  "snapshot_id": "aDj1AAAAAADINusTMh+7bU/qvYEFkWhX",
   "tracks": [
     {
       "added_at": null,
@@ -27,26 +27,6 @@
       "duration_ms": 234000,
       "name": "Tu Mirada / Hermoso Eres",
       "url": "https://open.spotify.com/track/4Btcq2CxjuYev1Gjesww8h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cu\u00e1n Bello Es El Se\u00f1or",
-        "url": "https://open.spotify.com/album/5oRGES0ivZDuRuBSPdbSpN"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        },
-        {
-          "name": "Sarai Rivera",
-          "url": "https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk"
-        }
-      ],
-      "duration_ms": 211589,
-      "name": "Cu\u00e1n Bello Es El Se\u00f1or",
-      "url": "https://open.spotify.com/track/5JDoXnmDmAFmZbkwQSBaCD"
     },
     {
       "added_at": null,
@@ -527,6 +507,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cu\u00e1n Bello Es El Se\u00f1or",
+        "url": "https://open.spotify.com/album/5oRGES0ivZDuRuBSPdbSpN"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        },
+        {
+          "name": "Sarai Rivera",
+          "url": "https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk"
+        }
+      ],
+      "duration_ms": 211589,
+      "name": "Cu\u00e1n Bello Es El Se\u00f1or",
+      "url": "https://open.spotify.com/track/5JDoXnmDmAFmZbkwQSBaCD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "25 Concierto Conmemorativo (En Vivo)",
         "url": "https://open.spotify.com/album/5O2UfFue2c9yfcbMPHHVSe"
       },
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Santo R\u00edo de Dios",
-        "url": "https://open.spotify.com/album/197HCxd1moPA2aHnlfPTPM"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 301958,
-      "name": "Santo R\u00edo de Dios",
-      "url": "https://open.spotify.com/track/0SzKBtMu75trcKWGXBsGb6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tu y Yo",
         "url": "https://open.spotify.com/album/69i6c6spdPMcm3NYCFmjnx"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 167758,
       "name": "Porque para Siempre",
       "url": "https://open.spotify.com/track/1snvuOpocJJRNXLVAR7QVI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Santo R\u00edo de Dios",
+        "url": "https://open.spotify.com/album/197HCxd1moPA2aHnlfPTPM"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 301958,
+      "name": "Santo R\u00edo de Dios",
+      "url": "https://open.spotify.com/track/0SzKBtMu75trcKWGXBsGb6"
     },
     {
       "added_at": null,
@@ -679,6 +679,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Legado",
+        "url": "https://open.spotify.com/album/5nRTZBd8Yrfs9FeIdy8MId"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        },
+        {
+          "name": "Indiomar",
+          "url": "https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM"
+        },
+        {
+          "name": "Dariana",
+          "url": "https://open.spotify.com/artist/1YFjpz13AtgmLfEo3CX8wv"
+        }
+      ],
+      "duration_ms": 298942,
+      "name": "Escucharte Hablar / Dios Ha Sido Bueno",
+      "url": "https://open.spotify.com/track/502fS8luNIQWgkvsBFu7a0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cuan Grande Es el",
         "url": "https://open.spotify.com/album/36XJXcA1jx5BZcZqlzjIxt"
       },
@@ -695,6 +719,22 @@
       "duration_ms": 284383,
       "name": "Cuan Grande Es el",
       "url": "https://open.spotify.com/track/41TDqLRP26inAFhyC1AIva"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Poderoso",
+        "url": "https://open.spotify.com/album/3ZpqmdCzScCDTslbgxPUkn"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 260022,
+      "name": "A Ti",
+      "url": "https://open.spotify.com/track/67ibn8cmXlzQtOjCprZ08w"
     },
     {
       "added_at": null,
@@ -727,6 +767,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Legado",
+        "url": "https://open.spotify.com/album/5nRTZBd8Yrfs9FeIdy8MId"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        },
+        {
+          "name": "Krystal Guerra Witt",
+          "url": "https://open.spotify.com/artist/1WCzAjMYQUbMR5CVZKfYkm"
+        },
+        {
+          "name": "Elena Witt-Guerra",
+          "url": "https://open.spotify.com/artist/4zESLvdxWtqZP4qbQIO6ka"
+        }
+      ],
+      "duration_ms": 227172,
+      "name": "Renu\u00e9vame / Tu Amor Por Mi",
+      "url": "https://open.spotify.com/track/0iV2iKb7xXppAHh0pDGkCR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lo Mejor de Instrumentales",
         "url": "https://open.spotify.com/album/2W84MBeBF9SHaNhUmfiS1Q"
       },
@@ -739,46 +803,6 @@
       "duration_ms": 222876,
       "name": "Renu\u00e9vame",
       "url": "https://open.spotify.com/track/0KLlY8Hfa4NtxfP7X1IHVL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Poderoso",
-        "url": "https://open.spotify.com/album/3ZpqmdCzScCDTslbgxPUkn"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 260022,
-      "name": "A Ti",
-      "url": "https://open.spotify.com/track/67ibn8cmXlzQtOjCprZ08w"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Legado",
-        "url": "https://open.spotify.com/album/5nRTZBd8Yrfs9FeIdy8MId"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        },
-        {
-          "name": "Indiomar",
-          "url": "https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM"
-        },
-        {
-          "name": "Dariana",
-          "url": "https://open.spotify.com/artist/1YFjpz13AtgmLfEo3CX8wv"
-        }
-      ],
-      "duration_ms": 298942,
-      "name": "Escucharte Hablar / Dios Ha Sido Bueno",
-      "url": "https://open.spotify.com/track/502fS8luNIQWgkvsBFu7a0"
     },
     {
       "added_at": null,
@@ -839,30 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Legado",
-        "url": "https://open.spotify.com/album/5nRTZBd8Yrfs9FeIdy8MId"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        },
-        {
-          "name": "Krystal Guerra Witt",
-          "url": "https://open.spotify.com/artist/1WCzAjMYQUbMR5CVZKfYkm"
-        },
-        {
-          "name": "Elena Witt-Guerra",
-          "url": "https://open.spotify.com/artist/4zESLvdxWtqZP4qbQIO6ka"
-        }
-      ],
-      "duration_ms": 227172,
-      "name": "Renu\u00e9vame / Tu Amor Por Mi",
-      "url": "https://open.spotify.com/track/0iV2iKb7xXppAHh0pDGkCR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sobrenatural",
         "url": "https://open.spotify.com/album/1EDofreiBInsrMtMbpt7hL"
       },
@@ -895,22 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Proyecto AA",
-        "url": "https://open.spotify.com/album/4Yn1oEGxhbwk8HhE0topvU"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 268565,
-      "name": "Quiero Levantar mis Manos",
-      "url": "https://open.spotify.com/track/3F3cpazSaWY0DCb6XjSBd9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vivir\u00e9",
         "url": "https://open.spotify.com/album/67uRZ3X95JEwhbxi7GP5gW"
       },
@@ -931,6 +915,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Proyecto AA",
+        "url": "https://open.spotify.com/album/4Yn1oEGxhbwk8HhE0topvU"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 268565,
+      "name": "Quiero Levantar mis Manos",
+      "url": "https://open.spotify.com/track/3F3cpazSaWY0DCb6XjSBd9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Poderoso",
         "url": "https://open.spotify.com/album/3ZpqmdCzScCDTslbgxPUkn"
       },
@@ -943,30 +943,6 @@
       "duration_ms": 306599,
       "name": "Cristo es Mi Se\u00f1or",
       "url": "https://open.spotify.com/track/2xPa83ocADIZydAdeB9M6G"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Poderoso",
-        "url": "https://open.spotify.com/album/2eDiKQMiFOxIHZenmaNNzh"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        },
-        {
-          "name": "Kike Pav\u00f3n",
-          "url": "https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0"
-        },
-        {
-          "name": "Factor de Cambio",
-          "url": "https://open.spotify.com/artist/4diJ4cXKwaaGZZn5L9G7cb"
-        }
-      ],
-      "duration_ms": 213229,
-      "name": "Poderoso",
-      "url": "https://open.spotify.com/track/0TppQPfqLVRZjdYFtRHtMp"
     },
     {
       "added_at": null,
@@ -1003,6 +979,30 @@
       "duration_ms": 412708,
       "name": "Sananos",
       "url": "https://open.spotify.com/track/3pf1Pa1b4Vd1KuilOA0CpH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Poderoso",
+        "url": "https://open.spotify.com/album/2eDiKQMiFOxIHZenmaNNzh"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        },
+        {
+          "name": "Kike Pav\u00f3n",
+          "url": "https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0"
+        },
+        {
+          "name": "Factor de Cambio",
+          "url": "https://open.spotify.com/artist/4diJ4cXKwaaGZZn5L9G7cb"
+        }
+      ],
+      "duration_ms": 213229,
+      "name": "Poderoso",
+      "url": "https://open.spotify.com/track/0TppQPfqLVRZjdYFtRHtMp"
     }
   ],
   "unique_name": "This Is Marcos Witt",

@@ -4,12 +4,13 @@
 
 > This is Bruce Springsteen\. The essential tracks, all in one playlist.
 
-123 songs - 8 hr 57 min
+124 songs - 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Adam Raised a Cain](https://open.spotify.com/track/39J5RXFJG6MCjHql3a0Hat) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Darkness On the Edge of Town](https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc) | 4:32 | 2022-01-28 | 2022-10-13 |
 | [Addicted to Romance \- from the film 'She Came to Me'](https://open.spotify.com/track/0SQ4VQXznjjfueQeMh0Ve1) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT), [Patti Scialfa](https://open.spotify.com/artist/6kZQOOVmBEdPxeWYe4xbDj) | [Addicted to Romance \(from the film 'She Came to Me'\)](https://open.spotify.com/album/1uV57fy7S2AH4DxfgmJDRd) | 3:05 | 2023-10-04 | 2023-12-31 |
+| [Adelita](https://open.spotify.com/track/5LCRHTTI17T53OcGEamGwJ) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Adelita](https://open.spotify.com/album/6q5Rn9TfFBYqvknRmyNlHQ) | 4:37 | 2025-06-01 |  |
 | [Any Other Way](https://open.spotify.com/track/2LRkPUjFJd4YNHZqAPxahC) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Only the Strong Survive](https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn) | 2:54 | 2022-11-13 | 2022-11-27 |
 | [Atlantic City](https://open.spotify.com/track/1Vp8U39YNsDfd6yVuaUq12) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Nebraska](https://open.spotify.com/album/6yskFQZNlLYhkchAxELHi6) | 3:56 | 2022-01-11 |  |
 | [Backstreets](https://open.spotify.com/track/4cKJsZuzbNBpdxeMC9pBQG) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born To Run](https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu) | 6:30 | 2022-01-11 |  |
@@ -118,7 +119,7 @@
 | [Tougher Than the Rest](https://open.spotify.com/track/7i0VrdLCDhvgWXfcT6EQJG) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Tunnel Of Love](https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq) | 4:33 | 2022-01-11 |  |
 | [Trapped \- Live at Meadowlands Arena, E\. Rutherford, NJ \- August 1984](https://open.spotify.com/track/5xYCSEP2FWHMkVun6GIyDk) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Essential Bruce Springsteen \(Bonus Tracks\)](https://open.spotify.com/album/0ckFRgB1okAecdcOhdkrZL) | 5:08 | 2022-01-11 | 2022-10-17 |
 | [Tumbling Dice \- Live](https://open.spotify.com/track/4mn5riACKGOZbADntB95wE) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [GRRR Live!](https://open.spotify.com/album/1OMuyzglvKUYkeYUnQm9x2) | 4:53 | 2023-02-18 | 2023-04-02 |
-| [Tunnel of Love](https://open.spotify.com/track/2rUHBIfbMBB92n1gSfSqwF) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Tunnel Of Love](https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq) | 5:09 | 2022-01-11 |  |
+| [Tunnel of Love](https://open.spotify.com/track/2rUHBIfbMBB92n1gSfSqwF) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Tunnel Of Love](https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq) | 5:09 | 2022-01-11 | 2025-06-01 |
 | [Turn Back the Hands of Time](https://open.spotify.com/track/1UqC0kvyqK0pk7f9MdjBZa) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Only the Strong Survive](https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn) | 3:07 | 2022-11-29 | 2024-03-19 |
 | [Two Hearts](https://open.spotify.com/track/50JK0hBaHMWYo20S7AvKbB) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The River](https://open.spotify.com/album/6YNIEeDWqC09YIWzhoSVLg) | 2:42 | 2024-06-23 | 2024-06-24 |
 | [Waitin' On A Sunny Day](https://open.spotify.com/track/7vIyudiO2Tr9hZ2yzfwQmx) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Rising](https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d) | 4:16 | 2022-01-11 |  |

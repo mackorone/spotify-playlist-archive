@@ -4,7 +4,7 @@
 
 > 
 
-1,012 songs - 2 day 2 hr 19 min
+1,014 songs - 2 day 2 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -600,6 +600,7 @@
 | [NIGHTCARE](https://open.spotify.com/track/6M3E2Zamd9yPqklfHqye8Y) | [K Suave](https://open.spotify.com/artist/04a6mc5vUtj2pMzteToeH7) | [Hit Me When You Land](https://open.spotify.com/album/5AZFefxiP690Wn5RapyUQ3) | 2:22 | 2023-03-11 | 2023-12-14 |
 | [NIMBUS](https://open.spotify.com/track/57Ncx9h7EhfEpdg5RCSkui) | [Thouxanbanfauni](https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr) | [8 ALBUM](https://open.spotify.com/album/3CbN0bwf9B6SwqLlLOtrri) | 3:05 | 2023-01-07 | 2023-04-24 |
 | [Nine Nine](https://open.spotify.com/track/6dIcZXPPB4shRDs0Wp7LGG) | [cwthegoat](https://open.spotify.com/artist/65AQe4TnExHTN7oLAuIMQu) | [Nine Nine](https://open.spotify.com/album/4ozndrtOgBu4ixCdF8PcWm) | 2:33 | 2023-07-25 | 2023-12-14 |
+| [Nintendo \(feat\. Fluhkunxhkos\)](https://open.spotify.com/track/3ZrzJ9DZk4aKPylDwLYzDD) | [Slimesito](https://open.spotify.com/artist/1fqzcp3dzZD1YGQ2RT5pYs), [Fluhkunxhkos](https://open.spotify.com/artist/6pCLUSyfp5qxqjBW6hKjvU) | [GTA9](https://open.spotify.com/album/7M55Zy84Y3oEvb3DnLf8AX) | 2:17 | 2025-05-31 |  |
 | [No Clout](https://open.spotify.com/track/4tZq0ffmq0i7fRth0CiYjI) | [SeptembersRich](https://open.spotify.com/artist/2AXsnwUyL9eMUy3y0ly2si) | [No Clout](https://open.spotify.com/album/0fWxUdkKbbEdzwm148Kxt8) | 2:24 | 2022-06-26 | 2023-05-09 |
 | [No Doubt](https://open.spotify.com/track/11tz24eBH29z4yPx01s2AY) | [Kankan Archived](https://open.spotify.com/artist/2ml1cn1EjsA321NEfWMblf) | [No Doubt](https://open.spotify.com/album/72QkBajuAgdgr6RWfcSDeX) | 1:12 | 2022-12-21 | 2023-05-09 |
 | [No GTA](https://open.spotify.com/track/2KWiF5QT2RmU14FY0OpSMs) | [Kyo's Archive](https://open.spotify.com/artist/2FpNF5iV8lJemYTag40891) | [No GTA](https://open.spotify.com/album/0l77TROiVAD8cVEzn0kSGn) | 2:15 | 2022-10-24 | 2023-05-09 |
@@ -1015,6 +1016,7 @@
 | [X n Oxy](https://open.spotify.com/track/6nK1Df8DkPjhoItmhGbq0f) | [Kankan Archived](https://open.spotify.com/artist/2ml1cn1EjsA321NEfWMblf), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [X n Oxy](https://open.spotify.com/album/5kHdP5vedcvCK430MYoN29) | 2:57 | 2022-06-30 | 2023-05-09 |
 | [x2](https://open.spotify.com/track/3a36nM6fPVA8K1vqq6d03o) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 3:54 | 2023-07-12 | 2023-12-14 |
 | [Y NOT?](https://open.spotify.com/track/6ELtGA64w8OWCchaj1UU4T) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [Y NOT?](https://open.spotify.com/album/5b6QPwWgYmrWbLeBTwRjSZ) | 2:28 | 2022-12-25 | 2023-05-09 |
+| [Yacht](https://open.spotify.com/track/4BHwo6sEEYjtZyopn04gEJ) | [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [Five Forever](https://open.spotify.com/album/0zBzGId66SwQWCsPJgNLY1) | 2:33 | 2025-05-31 |  |
 | [You > Them \(Hate It!\)](https://open.spotify.com/track/3XwNEmdMEmjf9CkZrDBpM9) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [You > Them \(Hate It!\)](https://open.spotify.com/album/1t3gqZG4owzK59lurQyRjl) | 2:15 | 2022-12-07 | 2024-04-24 |
 | [You Are The Sunshine Of My Life](https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Talking Book](https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw) | 2:58 | 2025-05-01 |  |
 | [Zaza \(feat\. Future\)](https://open.spotify.com/track/3j1WBK1zvZd0oosBisQoOp) | [Lil Keed](https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Trapped On Cleveland 3](https://open.spotify.com/album/6fEonnOwdMHNOlHTmQYPTM) | 3:41 | 2023-12-27 | 2024-03-05 |

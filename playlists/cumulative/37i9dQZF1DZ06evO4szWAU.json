@@ -945,6 +945,28 @@
     },
     {
       "album": {
+        "name": "Guisando: Doing A Job (Remastered 2025)",
+        "url": "https://open.spotify.com/album/43hcbyQ8jVEzgHY2pMPpJa"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "date_added": "2025-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 431857,
+      "name": "No Me Den Candela - Remastered 2025",
+      "url": "https://open.spotify.com/track/2B69mVmaUZqzL3XrklfgKT"
+    },
+    {
+      "album": {
         "name": "Doble Energ\u00eda",
         "url": "https://open.spotify.com/album/1t9CWp3ykgHF83aO4uYYmU"
       },
@@ -982,7 +1004,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-01",
       "duration_ms": 337680,
       "name": "No Me Llores M\u00e1s",
       "url": "https://open.spotify.com/track/74SLiN21pdSJEktbjyjO5I"

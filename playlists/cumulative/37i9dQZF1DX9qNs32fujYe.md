@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks\. Cover: King Diamond
 
-1,069 songs - 3 day 6 hr 2 min
+1,070 songs - 3 day 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,7 +180,7 @@
 | [Conflict](https://open.spotify.com/track/7cMIJjvNrSxkLBoo7SnAvw) | [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m) | [Conflict](https://open.spotify.com/album/4duvgcgX88O1QzeoGl0DuE) | 2:24 | 2024-03-08 |  |
 | [Construction of Souls](https://open.spotify.com/track/01tykAEjuZsAX5I1y0FLf8) | [Avatar](https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs) | [Construction of Souls](https://open.spotify.com/album/5i3zw5JKy4KhPWDbfUHmmk) | 4:52 | 2021-12-17 | 2024-05-03 |
 | [Cowboys from Hell](https://open.spotify.com/track/2SgbR6ttzoNlCRGQOKjrop) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Cowboys from Hell](https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe) | 4:03 | 2022-08-19 |  |
-| [Cradle To The Grave](https://open.spotify.com/track/0jVsMpF6RFUECMzYoiYiW7) | [Simone Simons](https://open.spotify.com/artist/5Mbm3otSC2eWtbfbwOBgw4), [Ayreon](https://open.spotify.com/artist/2RSApl0SXcVT8Yiy4UaPSt), [Alissa White\-Gluz](https://open.spotify.com/artist/0t9i2yNpYr4QGde2gz8YVg) | [Vermillion](https://open.spotify.com/album/18SzJd75guEOuFZ1KCNIz9) | 3:59 | 2024-08-23 |  |
+| [Cradle To The Grave](https://open.spotify.com/track/0jVsMpF6RFUECMzYoiYiW7) | [Simone Simons](https://open.spotify.com/artist/5Mbm3otSC2eWtbfbwOBgw4), [Ayreon](https://open.spotify.com/artist/2RSApl0SXcVT8Yiy4UaPSt), [Alissa White\-Gluz](https://open.spotify.com/artist/0t9i2yNpYr4QGde2gz8YVg) | [Vermillion](https://open.spotify.com/album/18SzJd75guEOuFZ1KCNIz9) | 3:59 | 2024-08-23 | 2025-06-01 |
 | [Crazy Train](https://open.spotify.com/track/7ACxUo21jtTHzy7ZEV56vU) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Blizzard Of Ozz \(40th Anniversary Expanded Edition\)](https://open.spotify.com/album/4qUMByJ3Pk94BFnCmGaUPS) | 4:53 | 2022-07-29 |  |
 | [Creatures of the Dark Realm](https://open.spotify.com/track/1fG6E0ydGzxpyyUcgkfspJ) | [Bloodbound](https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6) | [Creatures of the Dark Realm](https://open.spotify.com/album/6VF4wS35nDPKtBsqjbdTVC) | 4:08 | 2023-10-27 | 2024-04-19 |
 | [Creatures Of The Dark Realm](https://open.spotify.com/track/3pKt0cqu9kyUzftP41AXXh) | [Bloodbound](https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6) | [Creatures Of The Dark Realm \(Japan Edition\)](https://open.spotify.com/album/1yETM7Cx0FFPiDAAcSOeAQ) | 4:08 | 2021-12-17 | 2022-07-29 |
@@ -223,6 +223,7 @@
 | [Death by Design](https://open.spotify.com/track/6SvjyJTHQiE0hNtW8onMuR) | [Diamond Head](https://open.spotify.com/artist/3z3KnhKZObj216IgfHYGVf) | [Death by Design](https://open.spotify.com/album/4uaOVHeCyMjxq2nSKHVLV0) | 4:43 | 2021-12-17 | 2022-07-29 |
 | [Death Cult](https://open.spotify.com/track/1CN2mzJBqxVgPVRlzcxrhZ) | [Aborted](https://open.spotify.com/artist/1XRhUgCyzIdeT8d9KMfeDR), [Despised Icon](https://open.spotify.com/artist/3MjNMjqBpaQ0P8ebfbZjYn) | [Death Cult](https://open.spotify.com/album/62D0IksCdSnviilNJpWtws) | 3:40 | 2024-01-26 | 2024-03-09 |
 | [Death Row Center](https://open.spotify.com/track/3LKgNjQiASsfVpAbgzlRx1) | [Oceanhoarse](https://open.spotify.com/artist/6NNanF6LZJW0RWlyyUC1Ys) | [Death Row Center](https://open.spotify.com/album/2Vp71GuIcg2ro1Eh2b8Xw0) | 4:34 | 2022-02-11 | 2022-04-20 |
+| [Death to the Crown](https://open.spotify.com/track/3hbdv07FRFwZyX5FeTCI5Z) | [The Haunted](https://open.spotify.com/artist/2WLmgv66Uq4vt2i36vwkAq) | [Songs Of Last Resort](https://open.spotify.com/album/4gGvvykDoDctKKSznfUJ0g) | 2:56 | 2025-05-30 |  |
 | [Deceiver, Deceiver](https://open.spotify.com/track/3jpGc7gcoTyQsrlfQ332Ql) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Deceiver, Deceiver](https://open.spotify.com/album/66LMLbz48jA8tbc561zxOO) | 3:51 | 2021-12-17 | 2023-02-11 |
 | [Defence of Moscow](https://open.spotify.com/track/27q9ZWmSFwCqq7B2unoHRG) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [Defence of Moscow](https://open.spotify.com/album/6sJEfwnTIxQZC1boBo2aqY) | 4:08 | 2021-12-17 | 2022-01-08 |
 | [Degradation Rules \(feat\. Tony Iommi\)](https://open.spotify.com/track/0f8Pt4d2M5MVdrg5PWRAQW) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Tony Iommi](https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV) | [Degradation Rules \(feat\. Tony Iommi\)](https://open.spotify.com/album/7KlSuUcCKAJlrzWESm9jjq) | 4:10 | 2022-09-09 | 2025-04-26 |
