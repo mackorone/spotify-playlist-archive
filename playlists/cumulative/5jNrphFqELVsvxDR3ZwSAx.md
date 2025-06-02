@@ -4,7 +4,7 @@
 
 > Listen here for the ultimate list of original and synced songs from TV and Film\. TV Soundtrack \- Movie Soundtrack \- Hollywood Hits \- Film Score \- Movie \- TV \- Film \- Netflix \- Amazon Prime \- Disney + \- Hulu \- Max
 
-305 songs - 19 hr 41 min
+306 songs - 19 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Look for the Light \- From "Only Murders in the Building: Season 3"](https://open.spotify.com/track/0nqrVlkPbsRi5gnwNdUPu9) | [Only Murders in the Building – Cast](https://open.spotify.com/artist/43LwPk5OFrfvYI9zxDCsih), [Meryl Streep](https://open.spotify.com/artist/2HB65P72dFRiOKvbLLcil2), [Ashley Park](https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn) | [Look for the Light \(From "Only Murders in the Building: Season 3"\)](https://open.spotify.com/album/2R27J49gUYfWu6T7PGKeXW) | 2:30 | 2024-05-01 |  |
 | [Lose You To Love Me](https://open.spotify.com/track/4l0Mvzj72xxOpRrp6h8nHi) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare](https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx) | 3:26 | 2025-02-21 |  |
 | [Lose Yourself](https://open.spotify.com/track/5Z01UMMf7V1o0MzF86s6WJ) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Curtain Call: The Hits \(Deluxe Edition\)](https://open.spotify.com/album/5qENHeCSlwWpEzb25peRmQ) | 5:26 | 2024-05-01 |  |
+| [Love Is A Losing Game](https://open.spotify.com/track/570ZDO2Lmh6NQChOU5xPUL) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 2:34 | 2025-06-01 |  |
 | [Love Rollercoaster](https://open.spotify.com/track/1hRDHWWealh2Pk3fnpIe75) | [Ohio Players](https://open.spotify.com/artist/6m30rs1IQqnWqV5nKMpU7U) | [Honey](https://open.spotify.com/album/6cdbsUYFysGXOh5fqWpIuR) | 4:50 | 2025-03-28 |  |
 | [Lovefool](https://open.spotify.com/track/7aQjPecQdIuNd1sz3KCDhD) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [First Band On The Moon \(Remastered\)](https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ) | 3:13 | 2024-05-01 |  |
 | [Malinda](https://open.spotify.com/track/2i7jZvkinIpL9fbmrGZ99z) | [Bobby Taylor & The Vancouvers](https://open.spotify.com/artist/2yu275LOWOLmpD885w1MMy) | [The Complete Motown Singles \- Vol\. 8: 1968](https://open.spotify.com/album/0XAoUrM42zDYCc0wGsjRFv) | 2:39 | 2025-04-26 |  |

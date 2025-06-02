@@ -1,12 +1,12 @@
 {
   "description": "This is Kris Kristofferson. The essential tracks, all in one playlist.",
-  "num_followers": 30546,
+  "num_followers": 30556,
   "original_name": "This Is Kris Kristofferson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDj1AAAAAAARxP++JRPVbCgjACAcPnOI",
+  "snapshot_id": "aDpGgAAAAAB96RJU68J/73OLz0buSyjm",
   "tracks": [
     {
       "added_at": null,
@@ -1303,8 +1303,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Essential Kris Kristofferson",
-        "url": "https://open.spotify.com/album/0gGq5EiYpLZaJNYwEoPRY3"
+        "name": "Border Lord",
+        "url": "https://open.spotify.com/album/5WHCZzMjeIu4nFWoUhMEvO"
       },
       "artists": [
         {
@@ -1312,9 +1312,9 @@
           "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
         }
       ],
-      "duration_ms": 282640,
-      "name": "To Beat The Devil",
-      "url": "https://open.spotify.com/track/0m3cgYxMSWkAXH42DnabTq"
+      "duration_ms": 154013,
+      "name": "Gettin' By, High and Strange",
+      "url": "https://open.spotify.com/track/1GJDWrM6Z8YZzrLDeDSo7J"
     },
     {
       "added_at": null,
@@ -1335,8 +1335,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Border Lord",
-        "url": "https://open.spotify.com/album/5WHCZzMjeIu4nFWoUhMEvO"
+        "name": "The Essential Kris Kristofferson",
+        "url": "https://open.spotify.com/album/0gGq5EiYpLZaJNYwEoPRY3"
       },
       "artists": [
         {
@@ -1344,9 +1344,9 @@
           "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
         }
       ],
-      "duration_ms": 154013,
-      "name": "Gettin' By, High and Strange",
-      "url": "https://open.spotify.com/track/1GJDWrM6Z8YZzrLDeDSo7J"
+      "duration_ms": 282640,
+      "name": "To Beat The Devil",
+      "url": "https://open.spotify.com/track/0m3cgYxMSWkAXH42DnabTq"
     },
     {
       "added_at": null,

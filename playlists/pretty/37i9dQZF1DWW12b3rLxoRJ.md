@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW12b3rLxoRJ.md) - [plain]
 
 > Súbele el volumen a La Firma\. Escucha los hits de esta competencia de Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,972 likes - 75 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,950 likes - 75 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,22 +25,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW12b3rLxoRJ.md) - [plain]
 | 15 | [Siempre Tú](https://open.spotify.com/track/0PcwKctURiZcDTaUBkWxnc) | [Mosmo](https://open.spotify.com/artist/72VOLmKfTw3AbBg4Nc7Inr) | [RITMO GLOBAL](https://open.spotify.com/album/2Y262XwiPVL4WvKhbo6OKG) | 1:56 |
 | 16 | [Vuelo A Marte](https://open.spotify.com/track/7nIV3QBnfqfm1YWTdHIGR0) | [RMAND](https://open.spotify.com/artist/168fXFOgXniYN0j9XVMdOK) | [SÉ TÚ MISMO](https://open.spotify.com/album/2wp0LYoPXrDjxbZZyfJcOw) | 1:36 |
 | 17 | [300 Latidos](https://open.spotify.com/track/70gh5D4V88umWqsrCEvCHe) | [Mosmo](https://open.spotify.com/artist/72VOLmKfTw3AbBg4Nc7Inr) | [SÉ TÚ MISMO](https://open.spotify.com/album/2wp0LYoPXrDjxbZZyfJcOw) | 1:45 |
-| 18 | [Mejor Amiga](https://open.spotify.com/track/2c8DR5PSzNkHHxd8HkW9xg) | [Gigi Saldaña](https://open.spotify.com/artist/0EyHu2W0sQlu85nKWfuWVP), [Nashy\-Nashai](https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx) | [COLABORACIONES](https://open.spotify.com/album/6BvUu9MCrLMkeTQa5lDuyU) | 2:42 |
+| 18 | [Mejor Amiga](https://open.spotify.com/track/2c8DR5PSzNkHHxd8HkW9xg) | [GIGI SALDAÑA](https://open.spotify.com/artist/0EyHu2W0sQlu85nKWfuWVP), [Nashy\-Nashai](https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx) | [COLABORACIONES](https://open.spotify.com/album/6BvUu9MCrLMkeTQa5lDuyU) | 2:42 |
 | 19 | [Frío Que Quema](https://open.spotify.com/track/6Ux934DuivpRNBj6b9Aq1S) | [RMAND](https://open.spotify.com/artist/168fXFOgXniYN0j9XVMdOK) | [RITMO GLOBAL](https://open.spotify.com/album/2Y262XwiPVL4WvKhbo6OKG) | 1:47 |
-| 20 | [Alma Fría](https://open.spotify.com/track/1sRqMsTT4mThTgls8QMZGH) | [Gigi Saldaña](https://open.spotify.com/artist/0EyHu2W0sQlu85nKWfuWVP) | [SÉ TÚ MISMO](https://open.spotify.com/album/2wp0LYoPXrDjxbZZyfJcOw) | 1:34 |
+| 20 | [Alma Fría](https://open.spotify.com/track/1sRqMsTT4mThTgls8QMZGH) | [GIGI SALDAÑA](https://open.spotify.com/artist/0EyHu2W0sQlu85nKWfuWVP) | [SÉ TÚ MISMO](https://open.spotify.com/album/2wp0LYoPXrDjxbZZyfJcOw) | 1:34 |
 | 21 | [Crezco](https://open.spotify.com/track/5CYB2aYfeoVD64kXkimgxJ) | [Nashy\-Nashai](https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx) | [SÉ TÚ MISMO](https://open.spotify.com/album/2wp0LYoPXrDjxbZZyfJcOw) | 1:36 |
 | 22 | [Champaña](https://open.spotify.com/track/6oabOdwZZPRtpzZCAS6CoA) | [Mila](https://open.spotify.com/artist/3w1KTqetFroZp8sL55Mmrp) | [SÉ TÚ MISMO](https://open.spotify.com/album/2wp0LYoPXrDjxbZZyfJcOw) | 1:41 |
 | 23 | [La Misma Mujer](https://open.spotify.com/track/6f424CH1mjwlOLr8MevYp7) | [RMAND](https://open.spotify.com/artist/168fXFOgXniYN0j9XVMdOK), [Mosmo](https://open.spotify.com/artist/72VOLmKfTw3AbBg4Nc7Inr) | [COLABORACIONES](https://open.spotify.com/album/6BvUu9MCrLMkeTQa5lDuyU) | 2:27 |
 | 24 | [Soldado Del Guetto](https://open.spotify.com/track/0FwcuaGlQPAUXpfRyJdlhX) | [Diego Smith](https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6) | [SÉ TÚ MISMO](https://open.spotify.com/album/2wp0LYoPXrDjxbZZyfJcOw) | 1:36 |
 | 25 | [Complicated](https://open.spotify.com/track/26MAhZfRxjMn0UjZrnkKKx) | [WANDA ORIGINAL](https://open.spotify.com/artist/2H8Dwb3Tbgux2nJixSW6LD) | [RITMO GLOBAL](https://open.spotify.com/album/2Y262XwiPVL4WvKhbo6OKG) | 1:42 |
 | 26 | [Space Love](https://open.spotify.com/track/1YNrXQmAQWAZ38bJpvdhKE) | [Diego Smith](https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6) | [RITMO GLOBAL](https://open.spotify.com/album/2Y262XwiPVL4WvKhbo6OKG) | 2:04 |
-| 27 | [Party De Marquesina](https://open.spotify.com/track/13i8dEF5nrp2MZgFhE0aMu) | [Gigi Saldaña](https://open.spotify.com/artist/0EyHu2W0sQlu85nKWfuWVP) | [PA' LA CULTURA](https://open.spotify.com/album/2rTJC2lYUcP5iBUGzjgqde) | 1:31 |
+| 27 | [Party De Marquesina](https://open.spotify.com/track/13i8dEF5nrp2MZgFhE0aMu) | [GIGI SALDAÑA](https://open.spotify.com/artist/0EyHu2W0sQlu85nKWfuWVP) | [PA' LA CULTURA](https://open.spotify.com/album/2rTJC2lYUcP5iBUGzjgqde) | 1:31 |
 | 28 | [Querido Diario](https://open.spotify.com/track/3OEuBxl0Ofh3uB54pnGq1G) | [Nashy\-Nashai](https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx) | [PA' LA CULTURA](https://open.spotify.com/album/2rTJC2lYUcP5iBUGzjgqde) | 1:32 |
 | 29 | [De Donde Vengo](https://open.spotify.com/track/0EDNzuf97KScKug0Sov7Xu) | [Mila](https://open.spotify.com/artist/3w1KTqetFroZp8sL55Mmrp) | [PA' LA CULTURA](https://open.spotify.com/album/2rTJC2lYUcP5iBUGzjgqde) | 1:34 |
 | 30 | [Primavera](https://open.spotify.com/track/0rUYnGKCqlAcE36HkgPNVo) | [Nati Boulier](https://open.spotify.com/artist/2uBuga2RTo3KxodK6mO5W0) | [PA' LA CULTURA](https://open.spotify.com/album/2rTJC2lYUcP5iBUGzjgqde) | 1:40 |
 | 31 | [X Tu Casa](https://open.spotify.com/track/2w8mK5E51BICF0MCerzYkS) | [RMAND](https://open.spotify.com/artist/168fXFOgXniYN0j9XVMdOK) | [LA BÚSQUEDA](https://open.spotify.com/album/2FH6oshOadbZFFNHsdy1uE) | 1:43 |
 | 32 | [Vamos Pal Espacio](https://open.spotify.com/track/6VwH4mDDsCaiqVPPm9t0sy) | [WANDA ORIGINAL](https://open.spotify.com/artist/2H8Dwb3Tbgux2nJixSW6LD) | [LA BÚSQUEDA](https://open.spotify.com/album/2FH6oshOadbZFFNHsdy1uE) | 1:33 |
-| 33 | [Máquina Del Tiempo](https://open.spotify.com/track/0unMcfI4AF1Sd1zEC0Rt8h) | [Gigi Saldaña](https://open.spotify.com/artist/0EyHu2W0sQlu85nKWfuWVP) | [OTRA CANCIÓN DE AMOR](https://open.spotify.com/album/0jQHnHYaEr5VvhWV52TeBy) | 1:30 |
+| 33 | [Máquina Del Tiempo](https://open.spotify.com/track/0unMcfI4AF1Sd1zEC0Rt8h) | [GIGI SALDAÑA](https://open.spotify.com/artist/0EyHu2W0sQlu85nKWfuWVP) | [OTRA CANCIÓN DE AMOR](https://open.spotify.com/album/0jQHnHYaEr5VvhWV52TeBy) | 1:30 |
 | 34 | [Conexión](https://open.spotify.com/track/1uMAdCac9JadOEzDEsq6PI) | [Diego Smith](https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6) | [OTRA CANCIÓN DE AMOR](https://open.spotify.com/album/0jQHnHYaEr5VvhWV52TeBy) | 1:40 |
 | 35 | [Ilusionada](https://open.spotify.com/track/7zf1PxJNga3gfPXOFEpQLs) | [eydrey](https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4) | [OTRA CANCIÓN DE AMOR](https://open.spotify.com/album/0jQHnHYaEr5VvhWV52TeBy) | 1:41 |
 | 36 | [Mira Ma](https://open.spotify.com/track/3t7hYqeFKKlXsIc0q8eRLb) | [Nashy\-Nashai](https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx) | [LA BÚSQUEDA](https://open.spotify.com/album/2FH6oshOadbZFFNHsdy1uE) | 1:35 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW12b3rLxoRJ.md) - [plain]
 | 38 | [Malibú](https://open.spotify.com/track/2qOasu3wsh6kR5QW2YCXC4) | [RMAND](https://open.spotify.com/artist/168fXFOgXniYN0j9XVMdOK) | [OTRA CANCIÓN DE AMOR](https://open.spotify.com/album/0jQHnHYaEr5VvhWV52TeBy) | 1:41 |
 | 39 | [Muñequita](https://open.spotify.com/track/6jk8uwRPUVZw0dMWuJ4A6A) | [Mila](https://open.spotify.com/artist/3w1KTqetFroZp8sL55Mmrp) | [OTRA CANCIÓN DE AMOR](https://open.spotify.com/album/0jQHnHYaEr5VvhWV52TeBy) | 1:35 |
 | 40 | [Inevitable](https://open.spotify.com/track/6RSy7km5kxiakrSCs8WNyp) | [Stefano Toller](https://open.spotify.com/artist/3Wkk3DpqX2kSYjVay6Fjqn) | [LA BÚSQUEDA](https://open.spotify.com/album/2FH6oshOadbZFFNHsdy1uE) | 1:44 |
-| 41 | [Luna Llena](https://open.spotify.com/track/2O3daDiFh6eM5yw4q0CF1C) | [Gigi Saldaña](https://open.spotify.com/artist/0EyHu2W0sQlu85nKWfuWVP) | [LA BÚSQUEDA](https://open.spotify.com/album/2FH6oshOadbZFFNHsdy1uE) | 1:29 |
+| 41 | [Luna Llena](https://open.spotify.com/track/2O3daDiFh6eM5yw4q0CF1C) | [GIGI SALDAÑA](https://open.spotify.com/artist/0EyHu2W0sQlu85nKWfuWVP) | [LA BÚSQUEDA](https://open.spotify.com/album/2FH6oshOadbZFFNHsdy1uE) | 1:29 |
 | 42 | [Pa' Chile](https://open.spotify.com/track/5bnUz1930wxRBCIBv4gMCj) | [LA FIRMA](https://open.spotify.com/artist/72wklUFxQO6sCK8LFrMF9q), [Diego Smith](https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6) | [PA' LA CULTURA](https://open.spotify.com/album/4hRdAMX8tBRCWFhqRbD27k) | 1:39 |
 | 43 | [Cosas Por Decir](https://open.spotify.com/track/1MpE4mrrhYWAIzp87lM00i) | [Nashy\-Nashai](https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx) | [OTRA CANCIÓN DE AMOR](https://open.spotify.com/album/0jQHnHYaEr5VvhWV52TeBy) | 1:39 |
 | 44 | [HYPE](https://open.spotify.com/track/5JTM9QJNcq8FsuolDKM0RO) | [LA FIRMA](https://open.spotify.com/artist/72wklUFxQO6sCK8LFrMF9q), [WANDA ORIGINAL](https://open.spotify.com/artist/2H8Dwb3Tbgux2nJixSW6LD) | [PA' LA CULTURA](https://open.spotify.com/album/4hRdAMX8tBRCWFhqRbD27k) | 1:39 |

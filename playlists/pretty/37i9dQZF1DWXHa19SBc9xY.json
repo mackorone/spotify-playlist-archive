@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica brasileira e as cores de um p\u00f4r do sol para completar o seu dia.",
-  "num_followers": 111305,
+  "num_followers": 111333,
   "original_name": "P\u00f4r do sol na areia",
   "owner": {
     "name": "Spotify",
@@ -675,6 +675,42 @@
     {
       "added_at": "2025-05-23 06:06:46",
       "album": {
+        "name": "Gente",
+        "url": "https://open.spotify.com/album/3CDZRUJC4rCsKWuDsJli6Z"
+      },
+      "artists": [
+        {
+          "name": "Leo Middea",
+          "url": "https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG"
+        }
+      ],
+      "duration_ms": 196546,
+      "name": "Que Sorte",
+      "url": "https://open.spotify.com/track/1FQ3cnx1IURASKIdNsAV7z"
+    },
+    {
+      "added_at": "2025-05-23 06:06:46",
+      "album": {
+        "name": "N\u00f3s Dois Aqui",
+        "url": "https://open.spotify.com/album/4DddAUiTd1aqnc99kF2g3q"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        },
+        {
+          "name": "Illy",
+          "url": "https://open.spotify.com/artist/5gWFbdcQOMRYz1cdCuBxWO"
+        }
+      ],
+      "duration_ms": 241572,
+      "name": "N\u00f3s Dois Aqui",
+      "url": "https://open.spotify.com/track/3vt4GCCBVD9jIULux6DyRV"
+    },
+    {
+      "added_at": "2025-05-23 06:06:46",
+      "album": {
         "name": "ME TER",
         "url": "https://open.spotify.com/album/5F6qyDnWRJilSkIcb0VYLc"
       },
@@ -703,42 +739,6 @@
       "duration_ms": 166869,
       "name": "ME TER",
       "url": "https://open.spotify.com/track/0JNUvoyofX61tZzOiwLzWv"
-    },
-    {
-      "added_at": "2025-05-23 06:06:46",
-      "album": {
-        "name": "N\u00f3s Dois Aqui",
-        "url": "https://open.spotify.com/album/4DddAUiTd1aqnc99kF2g3q"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        },
-        {
-          "name": "Illy",
-          "url": "https://open.spotify.com/artist/5gWFbdcQOMRYz1cdCuBxWO"
-        }
-      ],
-      "duration_ms": 241572,
-      "name": "N\u00f3s Dois Aqui",
-      "url": "https://open.spotify.com/track/3vt4GCCBVD9jIULux6DyRV"
-    },
-    {
-      "added_at": "2025-05-23 06:06:46",
-      "album": {
-        "name": "Gente",
-        "url": "https://open.spotify.com/album/3CDZRUJC4rCsKWuDsJli6Z"
-      },
-      "artists": [
-        {
-          "name": "Leo Middea",
-          "url": "https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG"
-        }
-      ],
-      "duration_ms": 196546,
-      "name": "Que Sorte",
-      "url": "https://open.spotify.com/track/1FQ3cnx1IURASKIdNsAV7z"
     },
     {
       "added_at": "2025-05-23 06:06:46",

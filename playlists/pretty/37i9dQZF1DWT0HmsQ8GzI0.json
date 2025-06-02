@@ -683,22 +683,6 @@
     {
       "added_at": "2025-04-18 09:29:48",
       "album": {
-        "name": "Menj",
-        "url": "https://open.spotify.com/album/3eiwFheSvjaecLq4PpNsB9"
-      },
-      "artists": [
-        {
-          "name": "Aurevoir.",
-          "url": "https://open.spotify.com/artist/51BZWZTWqI7GjrgHw3Wvuw"
-        }
-      ],
-      "duration_ms": 227391,
-      "name": "Menj",
-      "url": "https://open.spotify.com/track/7kk5ouFxBgw5e2TZitUsZ9"
-    },
-    {
-      "added_at": "2025-04-18 09:29:48",
-      "album": {
         "name": "Nekedval\u00f3s\u00e1g",
         "url": "https://open.spotify.com/album/6LnlDFhGowcmBR0t2xaPjS"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 213333,
       "name": "Nekedval\u00f3s\u00e1g",
       "url": "https://open.spotify.com/track/7Imx5CtDuBNwGsE0Hdxuyi"
+    },
+    {
+      "added_at": "2025-04-18 09:29:48",
+      "album": {
+        "name": "Menj",
+        "url": "https://open.spotify.com/album/3eiwFheSvjaecLq4PpNsB9"
+      },
+      "artists": [
+        {
+          "name": "Aurevoir.",
+          "url": "https://open.spotify.com/artist/51BZWZTWqI7GjrgHw3Wvuw"
+        }
+      ],
+      "duration_ms": 227391,
+      "name": "Menj",
+      "url": "https://open.spotify.com/track/7kk5ouFxBgw5e2TZitUsZ9"
     },
     {
       "added_at": "2025-04-18 09:29:48",
@@ -751,22 +751,6 @@
     {
       "added_at": "2025-04-18 09:29:48",
       "album": {
-        "name": "Szeptember V\u00e9g\u00e9n",
-        "url": "https://open.spotify.com/album/3FTqXcCmloEXBywwx1YLC8"
-      },
-      "artists": [
-        {
-          "name": "Beretka \u00c1d\u00e1m",
-          "url": "https://open.spotify.com/artist/2pUosmQBulUMSAsOZ19jI6"
-        }
-      ],
-      "duration_ms": 153882,
-      "name": "Szeptember V\u00e9g\u00e9n",
-      "url": "https://open.spotify.com/track/6o1xgKQw1RMIJ64MdQ3yDC"
-    },
-    {
-      "added_at": "2025-04-18 09:29:48",
-      "album": {
         "name": "IM\u00c1G\u00d3",
         "url": "https://open.spotify.com/album/6a7Dw3UNp2o57zyLn2vFeQ"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 185142,
       "name": "\u00dcDV A KLUBBAN",
       "url": "https://open.spotify.com/track/6lqGo3OzCYhPGIX4IRZYDT"
+    },
+    {
+      "added_at": "2025-04-18 09:29:48",
+      "album": {
+        "name": "Szeptember V\u00e9g\u00e9n",
+        "url": "https://open.spotify.com/album/3FTqXcCmloEXBywwx1YLC8"
+      },
+      "artists": [
+        {
+          "name": "Beretka \u00c1d\u00e1m",
+          "url": "https://open.spotify.com/artist/2pUosmQBulUMSAsOZ19jI6"
+        }
+      ],
+      "duration_ms": 153882,
+      "name": "Szeptember V\u00e9g\u00e9n",
+      "url": "https://open.spotify.com/track/6o1xgKQw1RMIJ64MdQ3yDC"
     },
     {
       "added_at": "2025-04-18 09:29:48",
@@ -819,34 +819,18 @@
     {
       "added_at": "2025-04-18 09:29:48",
       "album": {
-        "name": "Utol\u00e9r",
-        "url": "https://open.spotify.com/album/7Ed9DjNWiZ4Tg915L7YIkU"
+        "name": "N\u00e9gyes-Hatos",
+        "url": "https://open.spotify.com/album/5xywbU931889LMT6JaCcWw"
       },
       "artists": [
         {
-          "name": "Filo",
-          "url": "https://open.spotify.com/artist/2pWeXE1GbI1qweHZHZi4Ee"
+          "name": "Bankrupt",
+          "url": "https://open.spotify.com/artist/2bIRzxO8MZcdBb3jiVFL3g"
         }
       ],
-      "duration_ms": 165584,
-      "name": "Utol\u00e9r",
-      "url": "https://open.spotify.com/track/3NkIgoNeVIaNTGoX07HeaJ"
-    },
-    {
-      "added_at": "2025-04-18 09:29:48",
-      "album": {
-        "name": "Legszebb Hib\u00e1nk",
-        "url": "https://open.spotify.com/album/3m9VNJ9qZMXhBHwmJ2ldi9"
-      },
-      "artists": [
-        {
-          "name": "Beretka \u00c1d\u00e1m",
-          "url": "https://open.spotify.com/artist/2pUosmQBulUMSAsOZ19jI6"
-        }
-      ],
-      "duration_ms": 164705,
-      "name": "Legszebb Hib\u00e1nk",
-      "url": "https://open.spotify.com/track/1aDekm12qg6Eu7cOwlAOBw"
+      "duration_ms": 162099,
+      "name": "N\u00e9gyes-Hatos",
+      "url": "https://open.spotify.com/track/53f8mvFLHGOny8RyF8qkrX"
     },
     {
       "added_at": "2025-04-18 09:29:48",
@@ -867,18 +851,34 @@
     {
       "added_at": "2025-04-18 09:29:48",
       "album": {
-        "name": "N\u00e9gyes-Hatos",
-        "url": "https://open.spotify.com/album/5xywbU931889LMT6JaCcWw"
+        "name": "Legszebb Hib\u00e1nk",
+        "url": "https://open.spotify.com/album/3m9VNJ9qZMXhBHwmJ2ldi9"
       },
       "artists": [
         {
-          "name": "Bankrupt",
-          "url": "https://open.spotify.com/artist/2bIRzxO8MZcdBb3jiVFL3g"
+          "name": "Beretka \u00c1d\u00e1m",
+          "url": "https://open.spotify.com/artist/2pUosmQBulUMSAsOZ19jI6"
         }
       ],
-      "duration_ms": 162099,
-      "name": "N\u00e9gyes-Hatos",
-      "url": "https://open.spotify.com/track/53f8mvFLHGOny8RyF8qkrX"
+      "duration_ms": 164705,
+      "name": "Legszebb Hib\u00e1nk",
+      "url": "https://open.spotify.com/track/1aDekm12qg6Eu7cOwlAOBw"
+    },
+    {
+      "added_at": "2025-04-18 09:29:48",
+      "album": {
+        "name": "Utol\u00e9r",
+        "url": "https://open.spotify.com/album/7Ed9DjNWiZ4Tg915L7YIkU"
+      },
+      "artists": [
+        {
+          "name": "Filo",
+          "url": "https://open.spotify.com/artist/2pWeXE1GbI1qweHZHZi4Ee"
+        }
+      ],
+      "duration_ms": 165584,
+      "name": "Utol\u00e9r",
+      "url": "https://open.spotify.com/track/3NkIgoNeVIaNTGoX07HeaJ"
     },
     {
       "added_at": "2025-04-18 09:29:48",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2025-04-18 09:29:48",
       "album": {
-        "name": "Lil' After",
-        "url": "https://open.spotify.com/album/3hdYh2rOHJZJhlkUqvbrjD"
-      },
-      "artists": [
-        {
-          "name": "The Qualitons",
-          "url": "https://open.spotify.com/artist/2dBVJ1yiXq49MiaC7uUP9D"
-        }
-      ],
-      "duration_ms": 138333,
-      "name": "Lil' After",
-      "url": "https://open.spotify.com/track/1Q0WRrC3KoOawRLOTqrpcj"
-    },
-    {
-      "added_at": "2025-04-18 09:29:48",
-      "album": {
         "name": "X",
         "url": "https://open.spotify.com/album/32wzMd5KnDN0BkArhepXqH"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 166000,
       "name": "kavicsok k\u00f6vek",
       "url": "https://open.spotify.com/track/0awKUATA6B9xzGvnLQn3k7"
+    },
+    {
+      "added_at": "2025-04-18 09:29:48",
+      "album": {
+        "name": "Lil' After",
+        "url": "https://open.spotify.com/album/3hdYh2rOHJZJhlkUqvbrjD"
+      },
+      "artists": [
+        {
+          "name": "The Qualitons",
+          "url": "https://open.spotify.com/artist/2dBVJ1yiXq49MiaC7uUP9D"
+        }
+      ],
+      "duration_ms": 138333,
+      "name": "Lil' After",
+      "url": "https://open.spotify.com/track/1Q0WRrC3KoOawRLOTqrpcj"
     },
     {
       "added_at": "2025-04-18 09:29:48",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2025-04-18 09:29:48",
       "album": {
-        "name": "Elment\u00e9l",
-        "url": "https://open.spotify.com/album/2WAes5Sxq4lx2GpnBBONKI"
-      },
-      "artists": [
-        {
-          "name": "Z\u00d3RA",
-          "url": "https://open.spotify.com/artist/5XRDlWq75VpsIeumX64ZDW"
-        }
-      ],
-      "duration_ms": 284368,
-      "name": "Elment\u00e9l",
-      "url": "https://open.spotify.com/track/1o4NsoVgFIl7CjHLDT9mBM"
-    },
-    {
-      "added_at": "2025-04-18 09:29:48",
-      "album": {
         "name": "Megyek ut\u00e1nad",
         "url": "https://open.spotify.com/album/4OfqKnxBfuu372UHrve3oS"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 131986,
       "name": "Megyek ut\u00e1nad",
       "url": "https://open.spotify.com/track/7zFTSuwz7CAHhWByjBhmB4"
+    },
+    {
+      "added_at": "2025-04-18 09:29:48",
+      "album": {
+        "name": "Elment\u00e9l",
+        "url": "https://open.spotify.com/album/2WAes5Sxq4lx2GpnBBONKI"
+      },
+      "artists": [
+        {
+          "name": "Z\u00d3RA",
+          "url": "https://open.spotify.com/artist/5XRDlWq75VpsIeumX64ZDW"
+        }
+      ],
+      "duration_ms": 284368,
+      "name": "Elment\u00e9l",
+      "url": "https://open.spotify.com/track/1o4NsoVgFIl7CjHLDT9mBM"
     },
     {
       "added_at": "2025-04-18 09:29:48",
@@ -1395,18 +1395,18 @@
     {
       "added_at": "2025-04-18 09:29:48",
       "album": {
-        "name": "Seasonal Depression",
-        "url": "https://open.spotify.com/album/5Ytwisk3UG3v4gwOJ1Hj4m"
+        "name": "\u00c9jszakai",
+        "url": "https://open.spotify.com/album/4ZRJI3QVp81F4KP20SsITO"
       },
       "artists": [
         {
-          "name": "som som",
-          "url": "https://open.spotify.com/artist/5QsyNOmpemZtsGIjTcufjN"
+          "name": "TELEHOLD",
+          "url": "https://open.spotify.com/artist/1NJkIQiWmJJFtrNFuMNrQ1"
         }
       ],
-      "duration_ms": 147200,
-      "name": "Seasonal Depression",
-      "url": "https://open.spotify.com/track/1iyRkjyCbqNtYOhfIF2zw7"
+      "duration_ms": 210285,
+      "name": "\u00c9n velem",
+      "url": "https://open.spotify.com/track/5Zvi5IKLByksDaExqIQxi0"
     }
   ],
   "unique_name": "Nemazapop",

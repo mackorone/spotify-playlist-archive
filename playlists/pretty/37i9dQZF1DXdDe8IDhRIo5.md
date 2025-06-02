@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDe8IDhRIo5.md) - [plain]
 
 > Django and beyond.
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,660 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,686 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDe8IDhRIo5.md) - [plain]
 | 74 | [Hungaria](https://open.spotify.com/track/3VtZ7NOQjp3ISCdUvaQvZQ) | [Biréli Lagrène Trio](https://open.spotify.com/artist/0zQ8ZslJkMxLY8xw3E6dp2) | [Move \(feat\. Diego Imbert, Hono Winterstein & Franck Wolf\)](https://open.spotify.com/album/6xTr2LFFbiLsPG5h6PFqGD) | 2:51 |
 | 75 | [For Brassens](https://open.spotify.com/track/0L9mejRz6i3CnI1mGxmeoM) | [Romane](https://open.spotify.com/artist/0ILn98RGLPZlVkgm3PUBoH), [Stochelo Rosenberg](https://open.spotify.com/artist/4pTgWOAUPDXSB5c5xwHVM5) | [Tribulations](https://open.spotify.com/album/0KnGsXBLPgociBCuG6DWhZ) | 4:18 |
 
-Snapshot ID: `ZowxzQAAAABYy5nAl/ClFYyP1+Qw1qqg`
+Snapshot ID: `ZowxzQAAAABKT+OS4vjClyx4zlZWSCfK`

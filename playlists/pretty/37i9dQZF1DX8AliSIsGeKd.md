@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Nilhil Young, Ashkan Dian, Unseen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 704,549 likes - 90 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 704,627 likes - 90 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 89 | [I Want You](https://open.spotify.com/track/3YgdZr9gAMFJkT1gFVjo0E) | [Cody Currie](https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx), [Kapote](https://open.spotify.com/artist/3sySIHNL0hqR7eOlm3LNTH) | [I Want You](https://open.spotify.com/album/2zpRcPaOdQf2iLUt5dZjf8) | 3:36 |
 | 90 | [Just Do It](https://open.spotify.com/track/68LYCLoultJSOpLG3G7Grn) | [Loco Dice](https://open.spotify.com/artist/4rbw4Z9Hjn6n9x5oYzZe7P), [Moxie Knox](https://open.spotify.com/artist/74CYFM6ycgObPCetlhgcbj) | [Purple Jam](https://open.spotify.com/album/5Map48ZqjJn7mloI1PLJ3H) | 3:13 |
 
-Snapshot ID: `aDmkhQAAAADuwab2FlhGoy21P7T0NkwZ`
+Snapshot ID: `aDmkhQAAAADzaqifL26BOUesLXpVDa/L`

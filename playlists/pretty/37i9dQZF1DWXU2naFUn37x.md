@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > Guè e Rasty Kilo in cover della playlist con il top dello street rap italiano ⛓️
 
-[Spotify](https://open.spotify.com/user/spotify) - 920,092 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 920,134 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 49 | [Da Dove Vengo Io \(feat\. 22simba, Sgribaz\)](https://open.spotify.com/track/4KN14z0emJfKgmG2rPpSJO) | [PRACI](https://open.spotify.com/artist/4mW1PRTVIA38Yv9ZDezrj5), [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7), [Sgribaz](https://open.spotify.com/artist/1nz1nHrmEwE28EGz4Z2fKi) | [The Blue Hour](https://open.spotify.com/album/5GIkMiuhOIC5sCE9gJ8UX6) | 3:24 |
 | 50 | [K\. West \(feat\. Macello\)](https://open.spotify.com/track/1e74sG9tLdqytqwuTVbUIp) | [18K](https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB), [Macello](https://open.spotify.com/artist/3DzlFEEKyk4jj7FuYnJSZZ), [Ed Mars](https://open.spotify.com/artist/26LV5lhRjmkGpyqoi2hVB3) | [K\. West \(feat\. Macello\)](https://open.spotify.com/album/6SeAviTQKnPTHwqIduF7Om) | 2:38 |
 
-Snapshot ID: `aDjnRQAAAADjAG2oS8o3T40nmNkx97nd`
+Snapshot ID: `aDjnRQAAAAAjcsN48IwGKmQxYQHrJBPo`

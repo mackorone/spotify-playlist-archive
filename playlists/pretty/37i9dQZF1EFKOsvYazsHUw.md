@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOsvYazsHUw.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4uT4afwoFqf5HupqMjErXX">Chiiild</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 527 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 527 likes - 101 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOsvYazsHUw.md) - [plain]
 | 48 | [Stronger](https://open.spotify.com/track/1nuxaVFCgDnqYHGVr4AglT) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Hard II Love](https://open.spotify.com/album/4HAuPn3A4uu9n7RYNk1dOz) | 4:00 |
 | 49 | [I Hope I Packed A Parachute \(feat\. Charlotte Cardin\)](https://open.spotify.com/track/2AB27ZGxzb8z2rwTvdCDif) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Better Luck In The Next Life](https://open.spotify.com/album/6ZBuUw48zAYn98M1YKACfH) | 3:37 |
 | 50 | [thinkin bout me \- from Grown\-ish](https://open.spotify.com/track/4CWp4i4SwWmBV3KOfs6Wdb) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [thinkin bout me \(from Grown\-ish\)](https://open.spotify.com/album/5NRBqL0ZxMfgg50YpAjz1b) | 3:19 |
-| 51 | [Me vs\. Us](https://open.spotify.com/track/1ZOZEC5MaEWsm6FkEUrYeI) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [We Need To Talk](https://open.spotify.com/album/1vzMWJ7kExSHOLcFal27oD) | 3:17 |
-| 52 | [Lies You Tell](https://open.spotify.com/track/1Wcd0zuqWuPsqT2etmO7Rr) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [STILL EMO](https://open.spotify.com/album/3CDhdWD9GZB7Sj0QNnZ78y) | 3:22 |
+| 51 | [Lies You Tell](https://open.spotify.com/track/1Wcd0zuqWuPsqT2etmO7Rr) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [STILL EMO](https://open.spotify.com/album/3CDhdWD9GZB7Sj0QNnZ78y) | 3:22 |
+| 52 | [Me vs\. Us](https://open.spotify.com/track/1ZOZEC5MaEWsm6FkEUrYeI) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [We Need To Talk](https://open.spotify.com/album/1vzMWJ7kExSHOLcFal27oD) | 3:17 |
 | 53 | [Tongue Tied](https://open.spotify.com/track/0PpYaJXaLa7CWeOWuz06bZ) | [wens](https://open.spotify.com/artist/0QcblRyHbgYTLOKlP5BE66) | [tongue tied \(at the dmv\)](https://open.spotify.com/album/2OvUzoi1blGPg0aAD1DWZY) | 3:31 |
 | 54 | [Sunday Morning](https://open.spotify.com/track/7qzcdcS65oCivPNXxvOT1o) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Synthetic Soul](https://open.spotify.com/album/6eMpxISabZ3Uyrc53CXQ2U) | 3:12 |
 | 55 | [Today](https://open.spotify.com/track/74SosJZWGn2yI3ZnrRJRtf) | [Troi Irons](https://open.spotify.com/artist/6jWwWbLoxKthbM8C6pi9cI) | [Turbulence](https://open.spotify.com/album/7wXpocSgedCQoIqSGHLBF5) | 2:56 |
@@ -108,5 +108,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOsvYazsHUw.md) - [plain]
 | 98 | [Numb](https://open.spotify.com/track/5gLBiHrm9NnOYUJQPf7alm) | [Karl Wolf](https://open.spotify.com/artist/1aVH8BgQhW8TT5hgNGwLc7) | [Nightlife](https://open.spotify.com/album/7gs3rS7OKAyqWia7njEy1K) | 4:03 |
 | 99 | [Daddy Issues](https://open.spotify.com/track/1BFk3zOw0TuMSDSE5b8X8e) | [Josephina](https://open.spotify.com/artist/4WyMWzN7gNNKIt3ZfGNU9F) | [Daddy Issues](https://open.spotify.com/album/2DUMBKY3GldHNTDMQnUBtM) | 2:14 |
 | 100 | [Murder](https://open.spotify.com/track/7Ev7Bb8tPrQFR2MvQzrfM9) | [Thes](https://open.spotify.com/artist/7nnzlSxfrZkifdVvMhKyGp) | [Young Giant](https://open.spotify.com/album/4j6RpYZk9y67ggu1gWO8QL) | 4:35 |
+| 101 | [PLAY \(In The Moment\)](https://open.spotify.com/track/4OuOAYCQPczAnRkapdhin7) | [TURBO NOUVEAUX](https://open.spotify.com/artist/1FhTzeHeuXnBs57wqsi3hY) | [PLAY \(In The Moment\)](https://open.spotify.com/album/10BG9DQTwq5Dgj33LcY2o0) | 2:26 |
 
-Snapshot ID: `Aby63AAAAACSZlSjY/cFmD873fdVaSbB`
+Snapshot ID: `AbzAcgAAAAColEx9f267/TYEEa02dMcP`

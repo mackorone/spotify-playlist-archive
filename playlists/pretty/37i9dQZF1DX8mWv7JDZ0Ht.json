@@ -1,6 +1,6 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto: Rebeca",
-  "num_followers": 437884,
+  "num_followers": 437862,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -295,26 +295,6 @@
     {
       "added_at": "2025-05-23 03:00:12",
       "album": {
-        "name": "Quem \u00c9 Voc\u00ea?",
-        "url": "https://open.spotify.com/album/1uYirHTJk4GYz1QpgDRLtk"
-      },
-      "artists": [
-        {
-          "name": "Whindersson Nunes",
-          "url": "https://open.spotify.com/artist/2emd6h8cx0U8QUAxDddXPF"
-        },
-        {
-          "name": "Lucas Lucco",
-          "url": "https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw"
-        }
-      ],
-      "duration_ms": 224500,
-      "name": "Quem \u00c9 Voc\u00ea?",
-      "url": "https://open.spotify.com/track/0fburSFYhNq39QBirzGILU"
-    },
-    {
-      "added_at": "2025-05-23 03:00:12",
-      "album": {
         "name": "Raio de Sol",
         "url": "https://open.spotify.com/album/4xMVNUJLNLtSnsmSRbWUxp"
       },
@@ -331,6 +311,26 @@
       "duration_ms": 206779,
       "name": "Raio de Sol",
       "url": "https://open.spotify.com/track/2mQRVgy18O2NlngYrBNfrP"
+    },
+    {
+      "added_at": "2025-05-23 03:00:12",
+      "album": {
+        "name": "Quem \u00c9 Voc\u00ea?",
+        "url": "https://open.spotify.com/album/1uYirHTJk4GYz1QpgDRLtk"
+      },
+      "artists": [
+        {
+          "name": "Whindersson Nunes",
+          "url": "https://open.spotify.com/artist/2emd6h8cx0U8QUAxDddXPF"
+        },
+        {
+          "name": "Lucas Lucco",
+          "url": "https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw"
+        }
+      ],
+      "duration_ms": 224500,
+      "name": "Quem \u00c9 Voc\u00ea?",
+      "url": "https://open.spotify.com/track/0fburSFYhNq39QBirzGILU"
     },
     {
       "added_at": "2025-05-23 03:00:12",
@@ -847,22 +847,18 @@
     {
       "added_at": "2025-05-23 03:00:12",
       "album": {
-        "name": "KINTSUGI",
-        "url": "https://open.spotify.com/album/1Fc9YzTUh4DfZlA3Raqe7t"
+        "name": "Ombro Amigo",
+        "url": "https://open.spotify.com/album/2Il8w4yHLl0VAm1u7EFz4H"
       },
       "artists": [
         {
-          "name": "Z\u00e9Vitor",
-          "url": "https://open.spotify.com/artist/1WNEynd3mjWx1DZByqbLq4"
-        },
-        {
-          "name": "Ant\u00eda Mu\u00ed\u00f1o",
-          "url": "https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1"
+          "name": "Zecca Gomes",
+          "url": "https://open.spotify.com/artist/1A0oFS7Q2ARtU0vQOQgoZZ"
         }
       ],
-      "duration_ms": 257521,
-      "name": "KINTSUGI",
-      "url": "https://open.spotify.com/track/6eAYHvfW8dFwsbJEypRwX7"
+      "duration_ms": 174817,
+      "name": "Poder Amar",
+      "url": "https://open.spotify.com/track/4kziItHb5Bm1u00TVspx1R"
     },
     {
       "added_at": "2025-05-23 03:00:12",
@@ -883,18 +879,22 @@
     {
       "added_at": "2025-05-23 03:00:12",
       "album": {
-        "name": "Ombro Amigo",
-        "url": "https://open.spotify.com/album/2Il8w4yHLl0VAm1u7EFz4H"
+        "name": "KINTSUGI",
+        "url": "https://open.spotify.com/album/1Fc9YzTUh4DfZlA3Raqe7t"
       },
       "artists": [
         {
-          "name": "Zecca Gomes",
-          "url": "https://open.spotify.com/artist/1A0oFS7Q2ARtU0vQOQgoZZ"
+          "name": "Z\u00e9Vitor",
+          "url": "https://open.spotify.com/artist/1WNEynd3mjWx1DZByqbLq4"
+        },
+        {
+          "name": "Ant\u00eda Mu\u00ed\u00f1o",
+          "url": "https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1"
         }
       ],
-      "duration_ms": 174817,
-      "name": "Poder Amar",
-      "url": "https://open.spotify.com/track/4kziItHb5Bm1u00TVspx1R"
+      "duration_ms": 257521,
+      "name": "KINTSUGI",
+      "url": "https://open.spotify.com/track/6eAYHvfW8dFwsbJEypRwX7"
     },
     {
       "added_at": "2025-05-23 03:00:12",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2025-05-23 03:00:12",
       "album": {
-        "name": "G\u00e9rbera + Na Proa da Saudade",
-        "url": "https://open.spotify.com/album/6qut4urm5eP9T9DxQO5cXH"
+        "name": "Nosso Carnaval",
+        "url": "https://open.spotify.com/album/0srVK7a9O1M6AthVTfiOHK"
       },
       "artists": [
         {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+          "name": "Brand\u00e3o",
+          "url": "https://open.spotify.com/artist/5Nwyqp8VllhGHPPQw6FH7U"
         }
       ],
-      "duration_ms": 216747,
-      "name": "Na Proa da Saudade",
-      "url": "https://open.spotify.com/track/0eEmUsHYbyPySM5jgTG7Ny"
+      "duration_ms": 165490,
+      "name": "Nosso Carnaval",
+      "url": "https://open.spotify.com/track/2K6gasvI6EdOlvqSxJDQf6"
     },
     {
       "added_at": "2025-05-23 03:00:12",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2025-05-23 03:00:12",
       "album": {
-        "name": "Nosso Carnaval",
-        "url": "https://open.spotify.com/album/0srVK7a9O1M6AthVTfiOHK"
+        "name": "G\u00e9rbera + Na Proa da Saudade",
+        "url": "https://open.spotify.com/album/6qut4urm5eP9T9DxQO5cXH"
       },
       "artists": [
         {
-          "name": "Brand\u00e3o",
-          "url": "https://open.spotify.com/artist/5Nwyqp8VllhGHPPQw6FH7U"
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
         }
       ],
-      "duration_ms": 165490,
-      "name": "Nosso Carnaval",
-      "url": "https://open.spotify.com/track/2K6gasvI6EdOlvqSxJDQf6"
+      "duration_ms": 216747,
+      "name": "Na Proa da Saudade",
+      "url": "https://open.spotify.com/track/0eEmUsHYbyPySM5jgTG7Ny"
     },
     {
       "added_at": "2025-05-23 03:00:12",

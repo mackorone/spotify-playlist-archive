@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XAs7CuJn4t.md) - [plain]
 
 > <a href="spotify:artist:1bNjWBFWsAAzZSR59lRdpR">Kabza De Small</a>'s favorite tracks\. Updated regularly\. Curated by Kabza De Small\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,153 likes - 49 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,277 likes - 49 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XAs7CuJn4t.md) - [plain]
 | 48 | [Amalanga \(feat\. TO Starquality, Chley & Kabza De Small\)](https://open.spotify.com/track/0nW9PrcihaknNnldmEx08O) | [Mas Musiq](https://open.spotify.com/artist/3fdFRgy3GmfiWQqeKbmFS8), [Lawd Weezy](https://open.spotify.com/artist/0aP1ZzvGhXjejlBmy1Gk6G), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [TO Starquality](https://open.spotify.com/artist/34RwSIfWKAwRdIq6cdYnZv), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR) | [Lane Yam](https://open.spotify.com/album/28AZxEOZc6Tk7nAzecfuaY) | 6:25 |
 | 49 | [Praise You \(feat\. Kabza De Small & Stakev\)](https://open.spotify.com/track/20ViaCg5GzOr9VPlGvJLaj) | [Artwork Sounds](https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [Stakev](https://open.spotify.com/artist/4jLJYvyzKcFdJORv6coLiw) | [Praise You \(feat\. Kabza De Small & Stakev\)](https://open.spotify.com/album/3t7igCI5G4TSbN4YUgOU7p) | 6:56 |
 
-Snapshot ID: `aCryVgAAAABtGFeMdzccq2UVNe4Nze2E`
+Snapshot ID: `aCryVgAAAADNrSCGYttJG7lvr39E5NY3`

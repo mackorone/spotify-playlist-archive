@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨Stuzzi✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,940 likes - 102 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,954 likes - 102 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 101 | [Mojo](https://open.spotify.com/track/1TUwu9RxQ8d7jbLBjow84b) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt) | [Mojo](https://open.spotify.com/album/2Hm8DVrE5D2jTdS19n9Q2d) | 3:18 |
 | 102 | [shortest day on the beach](https://open.spotify.com/track/3KbVZlInw4HU2TD3rl9vMh) | [Jaycov](https://open.spotify.com/artist/6kbM2bCTPewpVWA4jXP7UV), [re:treat](https://open.spotify.com/artist/4RpXImfXn7MswsilaMi8OF) | [longest day on the beach](https://open.spotify.com/album/0yrDVStpgEO9ZM3By7REEP) | 2:06 |
 
-Snapshot ID: `aDrHfwAAAAAfXYZ1wvEkNuVlZ8KbbMFo`
+Snapshot ID: `aDrHfwAAAACa8v/+qj+kWmOJ/AWgqUss`

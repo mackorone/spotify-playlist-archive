@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Celebrating 10 years of  unearthing your new favourite artists\. Cover: Amrita Soon\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,992 likes - 98 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,991 likes - 98 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

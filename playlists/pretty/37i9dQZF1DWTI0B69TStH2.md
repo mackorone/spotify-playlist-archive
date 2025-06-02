@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Świętujemy 10 lat najlepszych muzycznych odkryć od niezależnych artystów\. Cover: <a href="spotify:artist:4haIEVW7UmdASyascyUk3t">pawlack</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,134 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,129 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

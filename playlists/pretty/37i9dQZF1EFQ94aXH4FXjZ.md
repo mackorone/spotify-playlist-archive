@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ94aXH4FXjZ.md) - [plain]
 | 89 | [Killer Barracuda](https://open.spotify.com/track/0LYneQx7CEmZJseZ1MlVlT) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Shake Hands With The Devil](https://open.spotify.com/album/6AKIKI8Gpfe28g0j2Z4yc7) | 3:03 |
 | 90 | [The Prisoner](https://open.spotify.com/track/4ZqzUh3qVBgzDt7RhhxJKd) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Surreal Thing](https://open.spotify.com/album/5zzpsikgJ2uwAAEduiHG88) | 4:24 |
 | 91 | [Easy, Come On](https://open.spotify.com/track/2aJaPE28GJpFqWiREYBUgS) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Who's To Bless And Who's To Blame](https://open.spotify.com/album/1TDJNWGpmhpRUJJv4Siu3g) | 3:38 |
-| 92 | [Silver \(The Hunger\)](https://open.spotify.com/track/6iUe3sTIMgdX8BTAoLieP4) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Who's To Bless And Who's To Blame](https://open.spotify.com/album/1TDJNWGpmhpRUJJv4Siu3g) | 8:19 |
-| 93 | [Bad Love Story](https://open.spotify.com/track/354AkmAGVxobS8L3p5pErE) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Surreal Thing](https://open.spotify.com/album/5zzpsikgJ2uwAAEduiHG88) | 3:34 |
+| 92 | [Bad Love Story](https://open.spotify.com/track/354AkmAGVxobS8L3p5pErE) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Surreal Thing](https://open.spotify.com/album/5zzpsikgJ2uwAAEduiHG88) | 3:34 |
+| 93 | [Silver \(The Hunger\)](https://open.spotify.com/track/6iUe3sTIMgdX8BTAoLieP4) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Who's To Bless And Who's To Blame](https://open.spotify.com/album/1TDJNWGpmhpRUJJv4Siu3g) | 8:19 |
 | 94 | [Rocket to Stardom](https://open.spotify.com/track/5UgycYx6YgscHOG7ZbtO9E) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Who's To Bless And Who's To Blame](https://open.spotify.com/album/1TDJNWGpmhpRUJJv4Siu3g) | 3:35 |
 | 95 | [Easter Island](https://open.spotify.com/track/30nsh9vrxFqSA2uQlB0mYm) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Easter Island](https://open.spotify.com/album/4nQQlfcwuxo4POyvnzCds1) | 3:40 |
 | 96 | [The Fighter](https://open.spotify.com/track/3LlGTtxRZ9yLgGGJa5wspC) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Easter Island](https://open.spotify.com/album/4nQQlfcwuxo4POyvnzCds1) | 3:40 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ94aXH4FXjZ.md) - [plain]
 | 107 | [Delta Day \(No Time to Cry\)](https://open.spotify.com/track/6FxBOv9K8J9ECCZg3MqCZk) | [Bucky Wilkin](https://open.spotify.com/artist/6llhUrYZmi6uP5YqxJzrq4) | [The Complete Recordings \(1964\-1968\)](https://open.spotify.com/album/1fB1c8AYgdtENfKuaUfRVW) | 3:15 |
 | 108 | [Give It Time To Be Tender](https://open.spotify.com/track/19L9DxIRGPDhoOGcxiq27H) | [Dottie West](https://open.spotify.com/artist/2pvPkEAN9xSrDrIVUOxWMB) | [I'm Only a Woman](https://open.spotify.com/album/00XFRT1yVfeXgnyrJ8spCj) | 3:10 |
 
-Snapshot ID: `Aby63AAAAACozNVVbsnhS3+hOCyQ6k0H`
+Snapshot ID: `AbzAVAAAAADj3AaLThv0/6Ui/0mlzXh/`

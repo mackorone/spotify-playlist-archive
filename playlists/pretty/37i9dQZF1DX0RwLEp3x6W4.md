@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RwLEp3x6W4.md) - [plain]
 
 > Travel back to the start, tracing the roots of bluegrass through to early hits and gems\. Cover: Hazel Dickens and Alice Gerrard
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,791 likes - 66 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,801 likes - 66 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RwLEp3x6W4.md) - [plain]
 | 9 | [The East Virginia Blues](https://open.spotify.com/track/57j0NogTl3yHCXx8gGWkFY) | [The Carter Family](https://open.spotify.com/artist/0FRIWJYklnmsll5M6h4gUL) | [The Essential Carter Family](https://open.spotify.com/album/3beN6cqvzLYEbwerre1N6b) | 2:45 |
 | 10 | [She Left Me Standing On the Mountain](https://open.spotify.com/track/4hloQEApxIXnB66RSrdtXn) | [Jim & Jesse](https://open.spotify.com/artist/4lCaf25RGJ4ZPz2fsGUVcq) | [Y'all Come: The Essential Jim & Jesse](https://open.spotify.com/album/0L7k1GF5r8pNMv5xXJ4ptD) | 2:09 |
 | 11 | [Matterhorn](https://open.spotify.com/track/3Ip1Z02mNhxAKQUPfYefc2) | [The Country Gentlemen](https://open.spotify.com/artist/2quHEq7N5G0lU7keIHPJUd) | [Matterhorn](https://open.spotify.com/album/5JQcYPZdtvwPfjrEKGgXMs) | 2:54 |
-| 12 | [Bowling Green](https://open.spotify.com/track/4t1Sxqd7LPwmgmmqZYUC2X) | [The New Lost City Ramblers](https://open.spotify.com/artist/4fqd1tgX1D2YESwxzr2cvd), [Cousin Emmy](https://open.spotify.com/artist/7GcI4qqLnvVY1wlRdRixpx) | [New Lost City Ramblers with Cousin Emmy](https://open.spotify.com/album/0yLszzEelH2VYtBIJd96yY) | 1:50 |
+| 12 | [Bowling Green](https://open.spotify.com/track/4t1Sxqd7LPwmgmmqZYUC2X) | [The New Lost City Ramblers](https://open.spotify.com/artist/4fqd1tgX1D2YESwxzr2cvd), [Cousin Emmy](https://open.spotify.com/artist/7GcI4qqLnvVY1wlRdRixpx) | [The New Lost City Ramblers with Cousin Emmy](https://open.spotify.com/album/0yLszzEelH2VYtBIJd96yY) | 1:50 |
 | 13 | [Rabbit In the Log \(with The Virginia Boys\)](https://open.spotify.com/track/6ASifFs9LjXe5sPOiCMGkW) | [Jim & Jesse](https://open.spotify.com/artist/4lCaf25RGJ4ZPz2fsGUVcq), [The Virginia Boys](https://open.spotify.com/artist/0a7GoDJVPmN1ThQg8Kmh31) | [Y'all Come: The Essential Jim & Jesse](https://open.spotify.com/album/0L7k1GF5r8pNMv5xXJ4ptD) | 2:40 |
 | 14 | [I've Endured \- 1](https://open.spotify.com/track/79FJlPAvPAQFUAfz9eN4uO) | [Ola Belle Reed](https://open.spotify.com/artist/0jUzzv49Ke4m0qqcuudBsw) | [Rising Sun Melodies](https://open.spotify.com/album/1oAai33BPMT0OdEWNdJEHB) | 2:52 |
 | 15 | [Roll In My Sweet Baby's Arms](https://open.spotify.com/track/4E9r16yASQAAVq14J4GhGC) | [Flatt & Scruggs](https://open.spotify.com/artist/1iNNWK8bYjc5EK0waLk1J1) | [The Best Of Flatt and Scruggs](https://open.spotify.com/album/0CRyCufE06Z3RQEUmwKw2b) | 2:37 |

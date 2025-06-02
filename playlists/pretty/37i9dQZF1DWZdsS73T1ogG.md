@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: Young Cister
 
-[Spotify](https://open.spotify.com/user/spotify) - 535,853 likes - 148 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 535,831 likes - 148 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 147 | [Cómo Estás?](https://open.spotify.com/track/0211nQrNumFzPxsQKa5Eaj) | [Lautaro Lopez](https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz), [CLUB HATS](https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G), [Mozart Muzik](https://open.spotify.com/artist/2wCROATzLTy6FpYVkE9OH8) | [Cómo Estás?](https://open.spotify.com/album/10gjIC12PM1btFGJ5tkL8f) | 2:58 |
 | 148 | [Tú Tú](https://open.spotify.com/track/4NyE8AkSBPTL7z6OYWMFvp) | [BK](https://open.spotify.com/artist/43tXe0vO00OOt1EDDbF4Ux), [Franux BB](https://open.spotify.com/artist/1iblTHYdU8q8t8nH4sHl8A), [Reboll333](https://open.spotify.com/artist/2IhhVEifV7ntdvp2YmMIzg) | [Tú Tú](https://open.spotify.com/album/5uY0HTrw783WSMjO92qORk) | 2:46 |
 
-Snapshot ID: `AAAAAEbs3rGXrQu5uMEz2yN/EDFyuJO0`
+Snapshot ID: `aDktXAAAAACJ3gpMkkBu6de/mkFc6nif`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del 2025\. Hit shuffle for a mixed listening experience\. Cover: Trueno
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,063 likes - 246 songs - 13 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,068 likes - 246 songs - 13 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

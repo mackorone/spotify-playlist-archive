@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3DKn4c.md) - [plain]
 
 > This is Black Alien\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,209 likes - 45 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,222 likes - 45 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,14 +23,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3DKn4c.md) - [plain]
 | 13 | [Que Nem o Meu Cachorro](https://open.spotify.com/track/6EHOyqVSyd8JRmQniT721T) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Abaixo de Zero: Hello Hell](https://open.spotify.com/album/0d9km1VogLi6sN6S95ilyT) | 3:31 |
 | 14 | [Mister Niterói](https://open.spotify.com/track/6eQjwvQmfY4vBs4c9IKiuW) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Babylon By Gus Vol\. 1 \- o Ano do Macaco](https://open.spotify.com/album/0RnWcHck1zMA2xIPxDMNkH) | 3:57 |
 | 15 | [Motivos](https://open.spotify.com/track/4rjn5DygwQQXo1m24GqRM6) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Hip Hop Rare](https://open.spotify.com/album/6x8GefrlUjATHW7ynbVqHC) | 3:37 |
-| 16 | [Nunca Tenha Medo](https://open.spotify.com/track/3D0HjV2V8ZEYA2Vcq3Dbum) | [Gabriel O Pensador](https://open.spotify.com/artist/5BWqFYIPTnFx3OPWOoJvmD), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Antídoto Pra Todo Tipo de Veneno](https://open.spotify.com/album/5564Nl3uMeEUisl4Vz7JXK) | 4:25 |
+| 16 | [TOCA NO MORRO E NA PISTA](https://open.spotify.com/track/67aY8ERS9wBSo8HmugaOsp) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx), [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L) | [FRAGMENTADO](https://open.spotify.com/album/00EpdnJTbeKfWrc7FI7Q2H) | 2:58 |
 | 17 | [Carta Pra Amy](https://open.spotify.com/track/2fOzeW265HQxThDOrA66Mc) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Abaixo de Zero: Hello Hell](https://open.spotify.com/album/0d9km1VogLi6sN6S95ilyT) | 4:22 |
 | 18 | [Na Segunda Vinda](https://open.spotify.com/track/0xNIIXQrCQq49w0iRpW2bW) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Babylon By Gus Vol\. 1 \- o Ano do Macaco](https://open.spotify.com/album/0RnWcHck1zMA2xIPxDMNkH) | 4:28 |
-| 19 | [Pique Peaky Blinders](https://open.spotify.com/track/3PbWQTnOxpbZCyGjZuWUhk) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Pique Peaky Blinders](https://open.spotify.com/album/5PYCa2wn42rxBgKKdg8HhD) | 3:05 |
+| 19 | [Nunca Tenha Medo](https://open.spotify.com/track/3D0HjV2V8ZEYA2Vcq3Dbum) | [Gabriel O Pensador](https://open.spotify.com/artist/5BWqFYIPTnFx3OPWOoJvmD), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Antídoto Pra Todo Tipo de Veneno](https://open.spotify.com/album/5564Nl3uMeEUisl4Vz7JXK) | 4:25 |
 | 20 | [Falando do Meu Bem](https://open.spotify.com/track/2mAenBc4RyeokOVC19oqqa) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [No Princípio Era o Verbo \- Babylon by Gus, Vol\. II](https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN) | 4:04 |
 | 21 | [Au Revoir](https://open.spotify.com/track/3L3uxLbJUDqr2bM7CGlZVJ) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Abaixo de Zero: Hello Hell](https://open.spotify.com/album/0d9km1VogLi6sN6S95ilyT) | 3:27 |
 | 22 | [Caminhos do Destino](https://open.spotify.com/track/1ksjOvoeNah5VGK2sSoTQ3) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Babylon By Gus Vol\. 1 \- o Ano do Macaco](https://open.spotify.com/album/0RnWcHck1zMA2xIPxDMNkH) | 3:00 |
-| 23 | [TOCA NO MORRO E NA PISTA](https://open.spotify.com/track/67aY8ERS9wBSo8HmugaOsp) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx), [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L) | [FRAGMENTADO](https://open.spotify.com/album/00EpdnJTbeKfWrc7FI7Q2H) | 2:58 |
+| 23 | [Pique Peaky Blinders](https://open.spotify.com/track/3PbWQTnOxpbZCyGjZuWUhk) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Pique Peaky Blinders](https://open.spotify.com/album/5PYCa2wn42rxBgKKdg8HhD) | 3:05 |
 | 24 | [DEISDAZSEIS \- Ao Vivo](https://open.spotify.com/track/3IcmVwyD3LKYE23vsuoTU4) | [Planet Hemp](https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [BASEADO EM FATOS REAIS: 30 ANOS DE FUMAÇA \(Ao Vivo\)](https://open.spotify.com/album/7MFlfX1nH78XBjiSnHcTew) | 0:53 |
 | 25 | [Como Eu Te Quero \- Remix](https://open.spotify.com/track/028kyZPJ1bWNSDrtmj6CWM) | [Gabe](https://open.spotify.com/artist/0WoUrE9CjbROyWCMMdGMqu), [Viot](https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Como Eu Te Quero \(Remix\)](https://open.spotify.com/album/202XFQhcWaClPP1PbwDb5y) | 3:10 |
 | 26 | [From Hell do Céu](https://open.spotify.com/track/0uYM8AjQwRsVUCPWwZ9Oqb) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Babylon By Gus Vol\. 1 \- o Ano do Macaco](https://open.spotify.com/album/0RnWcHck1zMA2xIPxDMNkH) | 3:57 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3DKn4c.md) - [plain]
 | 44 | [Terra \- Acústico](https://open.spotify.com/track/2raY0UodsOKaKxV9pP8d5T) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Rael Convida: Black Alien \(Acústico\)](https://open.spotify.com/album/2vZQ7eD2GaHIuZYhiJOyHl) | 4:01 |
 | 45 | [1972 \(Intro\)](https://open.spotify.com/track/3qh1kOwaAbSswJVgNlXaHP) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [No Princípio Era o Verbo \- Babylon by Gus, Vol\. II](https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN) | 1:07 |
 
-Snapshot ID: `aDj1AAAAAABl1lckl7fw3eqG4dcNfbES`
+Snapshot ID: `aDpGgAAAAACaCXRiOIM3HvEx5KbCSAH6`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,284 likes - 110 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,271 likes - 110 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 109 | [STORSTAD](https://open.spotify.com/track/59LPXzVSMbC2QXixBJoMN5) | [Montana](https://open.spotify.com/artist/2RmwY9PuyhQF6SrNAZJwQG) | [STORSTAD](https://open.spotify.com/album/6aIHMKiQOKXcFlDLLZxM8D) | 2:01 |
 | 110 | [ord mot ord](https://open.spotify.com/track/5KqdQSnwZHvSkzjfBToKga) | [GG](https://open.spotify.com/artist/5NxuYq2W1QB6qpPxNYVumI) | [ord mot ord](https://open.spotify.com/album/57O0oZw1dXNehqQmLQdlwB) | 2:39 |
 
-Snapshot ID: `aDjY/gAAAACNcwC91imcD3apiqWSUjMs`
+Snapshot ID: `AAAAAFOW55y7rI4djK8vSFZLjvdH0H2R`

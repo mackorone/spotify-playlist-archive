@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVseajANOFG.md) - [plain]
 
 > Así suena la música urbana de Panamá hoy\. Foto: Boza
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,506 likes - 74 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,530 likes - 74 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -3375,6 +3375,28 @@
     },
     {
       "album": {
+        "name": "LIE TO ME",
+        "url": "https://open.spotify.com/album/56tTnBQQnqpSqftNMpfEOn"
+      },
+      "artists": [
+        {
+          "name": "DREAMDNVR",
+          "url": "https://open.spotify.com/artist/3ZyMt4ZzT5TWAFKvm0UxYb"
+        },
+        {
+          "name": "KELLYKKE",
+          "url": "https://open.spotify.com/artist/5y0FFrqoxEKeS7oINVQAxj"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169709,
+      "name": "LIE TO ME",
+      "url": "https://open.spotify.com/track/0TwwvWNpQySYUrK3XsR74m"
+    },
+    {
+      "album": {
         "name": "The Pre-Party",
         "url": "https://open.spotify.com/album/2rlWVKCWJo4vpOBl8RiYX4"
       },
@@ -5784,7 +5806,7 @@
       ],
       "date_added": "2025-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-02",
       "duration_ms": 148906,
       "name": "violet",
       "url": "https://open.spotify.com/track/636roEe0dWBQwgTLJoBr9j"

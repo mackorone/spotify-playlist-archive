@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-801 songs - 2 day 9 hr 6 min
+802 songs - 2 day 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [A Nambra](https://open.spotify.com/track/5VVM5EX9i5rDvbyHHogoYb) | [Mong Tong](https://open.spotify.com/artist/61QVaGjYK4UNd6uTz7Lzuo) | [Mystery 秘神](https://open.spotify.com/album/0iz5iVfY8aQiVDY6k3eefT) | 5:30 | 2021-10-06 | 2022-04-21 |
 | [Abyssinian Suite, Pt\. 4](https://open.spotify.com/track/3PBZeQmbywJVKdlRBzSg2C) | [The Shaolin Afronauts](https://open.spotify.com/artist/5zcJp5jvssOgZXcxI1wuWe) | [The Fundamental Nature of Being, Part One](https://open.spotify.com/album/2dQZmSuAqCRaVvcqJ4Robi) | 4:52 | 2022-09-30 | 2022-12-13 |
 | [Actions and Consequences](https://open.spotify.com/track/3JXrvGKhezDdBxGmz1KXy5) | [Chris Obehi](https://open.spotify.com/artist/34T24CJ5oXL7TMqxkdkDpI) | [Actions and Consequences](https://open.spotify.com/album/4TcfBR8Ns7hwJScmp9Pp43) | 4:56 | 2022-02-25 | 2022-07-24 |
+| [Adada](https://open.spotify.com/track/3p1uB1JCsNLrrp0emWOwH4) | [islandman](https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4) | [Adada](https://open.spotify.com/album/6NahKzvjOBtVirZIVWdey4) | 5:30 | 2025-05-30 |  |
 | [Adagio](https://open.spotify.com/track/1BOvtLCCUsAaObd94hdaS8) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Adagio](https://open.spotify.com/album/3qgAUF0EAfwmsGH6lFrZiO) | 2:56 | 2025-02-21 |  |
 | [Adará](https://open.spotify.com/track/3OGKGvLhd2rN04g2iaCXVs) | [Abayomy Afrobeat Orquestra](https://open.spotify.com/artist/4W4o1hLeSM7vPjsZtxkAnv), [Orlando Julius](https://open.spotify.com/artist/5nmP3vKUqynlECpm2ura7L) | [Adará](https://open.spotify.com/album/3OcEePOxppfqTeK0jmICgo) | 4:27 | 2021-10-06 | 2022-04-19 |
 | [Afande](https://open.spotify.com/track/43m8rKCOHn5WIFnPLorqdI) | [Skinshape](https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Afande](https://open.spotify.com/album/4vYCv3i9i3jSe0EyZDsy5F) | 5:23 | 2021-10-06 |  |
@@ -481,7 +482,7 @@
 | [Mirage](https://open.spotify.com/track/2oSurc3FKyPDaoVpdbb1N9) | [Glass Beams](https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF) | [Mirage](https://open.spotify.com/album/2QBoYsuINGsfFvp4BGk0SK) | 4:50 | 2021-10-06 |  |
 | [Miss Universe](https://open.spotify.com/track/2CPpN4N2VPOzNsahwsopZj) | [Kay Slice](https://open.spotify.com/artist/1mPNT5YwLcCKfjdTwOfSC8) | [UPRISE](https://open.spotify.com/album/4GjHhGjiJZTlctbH6DKp0E) | 4:15 | 2023-06-23 | 2025-05-03 |
 | [Mon Cheri](https://open.spotify.com/track/1Fu9QYiYh8izSKG0cqUXxn) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Mon Cheri](https://open.spotify.com/album/6PmUVTmxKzphzJPIqCZbMJ) | 4:08 | 2021-10-06 | 2023-08-08 |
-| [Money Face](https://open.spotify.com/track/7306M2GID0fmaOXmm4md7y) | [Sweatson Klank](https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT), [Kondi Band](https://open.spotify.com/artist/2IPZPCen311aH09425TKpF) | [Money Face](https://open.spotify.com/album/26iLCPPHW9vxAzRKRDLa2v) | 4:18 | 2024-06-27 |  |
+| [Money Face](https://open.spotify.com/track/7306M2GID0fmaOXmm4md7y) | [Sweatson Klank](https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT), [Kondi Band](https://open.spotify.com/artist/2IPZPCen311aH09425TKpF) | [Money Face](https://open.spotify.com/album/26iLCPPHW9vxAzRKRDLa2v) | 4:18 | 2024-06-27 | 2025-06-02 |
 | [Money Music](https://open.spotify.com/track/5AJQebZSTWvdcMlHCmMNhg) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [Money Music](https://open.spotify.com/album/77Ivo83GRiFoQckirVxPYM) | 2:49 | 2022-08-03 | 2022-11-04 |
 | [Money Music](https://open.spotify.com/track/5aJaL72YTZmsfEK1xWexyw) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [Education & Recreation](https://open.spotify.com/album/2x4fBy7xBQe7tsKx5nnCqZ) | 2:49 | 2022-08-03 | 2024-04-19 |
 | [Monte Carlo](https://open.spotify.com/track/2mWAdppQ2dTarvqwiV8xca) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Monte Carlo](https://open.spotify.com/album/0gWgIzow11rFcxJ4rnjxNE) | 3:15 | 2025-03-28 |  |

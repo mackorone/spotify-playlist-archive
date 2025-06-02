@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe1cC3XInKct.md) - [plain]
 
 > Downtempo and ambient electronic music\. Feel the undertones 🍃
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,877 likes - 80 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,875 likes - 80 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

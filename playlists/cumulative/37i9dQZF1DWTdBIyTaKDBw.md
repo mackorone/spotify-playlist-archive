@@ -4,7 +4,7 @@
 
 > Enjoy the lo\-fi beat with oriental colors.
 
-356 songs - 19 hr 46 min
+357 songs - 19 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Another Day](https://open.spotify.com/track/21qVapRmGwg0MKS0R6SaaF) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/1fOJ6SHLXOLnsuuwiLyzft) | 2:46 | 2022-05-03 | 2022-07-29 |
 | [Another Day](https://open.spotify.com/track/30YeoWowzWypZNSl6WNXAR) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo) | 2:46 | 2022-07-22 | 2024-06-22 |
 | [Another Day](https://open.spotify.com/track/6fsrtPKAPL1erRl4oeDnOf) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/0aERWcI2KYSCM4biUihB9X) | 2:46 | 2022-09-07 | 2022-11-13 |
-| [Answer Love](https://open.spotify.com/track/6bdZwWDYlzk7iXa8bWsAXc) | [Lilac](https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1) | [Answer Love](https://open.spotify.com/album/4zidnQ8OvxIzMmpcYNDie1) | 3:05 | 2024-07-02 |  |
+| [Answer Love](https://open.spotify.com/track/6bdZwWDYlzk7iXa8bWsAXc) | [Lilac](https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1) | [Answer Love](https://open.spotify.com/album/4zidnQ8OvxIzMmpcYNDie1) | 3:05 | 2024-07-02 | 2025-06-02 |
 | [Arisa](https://open.spotify.com/track/3yGVIzliF0fcy6pcjO02hS) | [DaniSogen](https://open.spotify.com/artist/7igN8kqLCyyGn6QoVmB6CO) | [Hanagasumi](https://open.spotify.com/album/56q8Tkk5130VkPysfMN8j8) | 2:40 | 2024-07-02 |  |
 | [Atlantis](https://open.spotify.com/track/2HMg3z3pueCvFqvr80ERQl) | [Chiccote's Beats](https://open.spotify.com/artist/0ETiNCZavTPXNnEJBF1JBA) | [Atlantis](https://open.spotify.com/album/1j7S6fCw5pm8ygZwuL7KoA) | 1:31 | 2024-07-02 | 2024-11-16 |
 | [Autumn Breeze](https://open.spotify.com/track/1e5qALs3pDrv203jX0XWAC) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [Autumn Breeze \(re;code Episode Ⅶ\)](https://open.spotify.com/album/5suwcs77vgb6DSRaqabylj) | 3:39 | 2022-05-03 | 2024-07-03 |
@@ -154,7 +154,7 @@
 | [It’s a different thing to love her and make her happy \(feat\. jeebanoff\)](https://open.spotify.com/track/16b6NsiIrMo33mr5Q3oZuS) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ), [jeebanoff](https://open.spotify.com/artist/6FK6uP46ntwU9gaQQxTlDV) | [It’s a different thing to love her and make her happy \(feat\. jeebanoff\)](https://open.spotify.com/album/2kUvVgrFAkMf3Uc0VFdvWY) | 4:56 | 2022-07-22 | 2024-06-22 |
 | [It’s a different thing to love her and make her happy 그녀를 사랑하는 것과 행복하게 해주는 것은 별개야 \(feat\. jeebanoff\)](https://open.spotify.com/track/6evTmpmB0QwV7jOfw8VMdD) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ), [jeebanoff](https://open.spotify.com/artist/6FK6uP46ntwU9gaQQxTlDV) | [It’s a different thing to love her and make her happy 그녀를 사랑하는 것과 행복하게 해주는 것은 별개야 \(feat\. jeebanoff\)](https://open.spotify.com/album/3ta3XOJmAbXFDzMFEYn6QR) | 4:56 | 2022-05-03 | 2022-07-29 |
 | [Jiraiya](https://open.spotify.com/track/5BE1V5eaSVKkNWxrGXoFME) | [NKOHA](https://open.spotify.com/artist/74yb8EAWGPAcIUo6CFxKIR) | [NKOHA 2K18](https://open.spotify.com/album/5mUzJJIOEmJqGFRCXSKRbB) | 2:58 | 2024-07-02 |  |
-| [Journey](https://open.spotify.com/track/2pAPo7r9woX5AwLDNzAgaV) | [Tenno](https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp) | [Journey](https://open.spotify.com/album/5NyRXPU0MbwycaSqq75IlV) | 2:49 | 2024-07-02 | 2025-06-01 |
+| [Journey](https://open.spotify.com/track/2pAPo7r9woX5AwLDNzAgaV) | [Tenno](https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp) | [Journey](https://open.spotify.com/album/5NyRXPU0MbwycaSqq75IlV) | 2:49 | 2024-07-02 |  |
 | [Kanashī](https://open.spotify.com/track/3C8THEDcmKmddbhzznTUbr) | [Yume.Play](https://open.spotify.com/artist/3ZEK7UZm6y7atorVFe86wE) | [Kanashī](https://open.spotify.com/album/7dKJrdXcKzoloyreDTxUDB) | 2:59 | 2024-07-02 |  |
 | [Kiss The Rain](https://open.spotify.com/track/00ZvMUjMundVCBeCGqhSf7) | [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [Tale of the Nine Tailed 1938, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5PYf2CJFr5WIatS4GQ2kmd) | 2:32 | 2023-07-17 | 2024-07-03 |
 | [Kodama](https://open.spotify.com/track/4Umx3U9NAiorxTL6DUoGY8) | [Nogymx](https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP) | [Kodama](https://open.spotify.com/album/4S9RRERSAdBcIi0QcTnZmG) | 3:06 | 2024-07-02 |  |
@@ -205,7 +205,7 @@
 | [Nap Time in Shibuya](https://open.spotify.com/track/2kR6OrgdSFOD6nNqZxenE2) | [Raimu](https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3) | [Kitsune To Take](https://open.spotify.com/album/6iZ92G0C1TY8F3nQIy4ZNf) | 3:04 | 2024-07-02 |  |
 | [Narrow Road](https://open.spotify.com/track/5yd8kwPtXxkKpqN9PSR1Eu) | [Tosso](https://open.spotify.com/artist/0pYbYmiGEC2nEe02Npg4bp), [Yotsugi](https://open.spotify.com/artist/3nHodZxQw99Ewvb9v9x48u) | [Narrow Road](https://open.spotify.com/album/4UNTRdYFqVCz2veOtIhALs) | 2:16 | 2024-07-02 | 2024-08-21 |
 | [Natsumi](https://open.spotify.com/track/2qjyjsCWMqcbjrh7FPr56m) | [JazzyCal](https://open.spotify.com/artist/2xJEE7AyFH4DwefFkWjcPd) | [Natsumi](https://open.spotify.com/album/6a1umpLyPbF6iWNl2WUS0V) | 3:05 | 2024-07-02 | 2025-04-25 |
-| [Nature's Temple](https://open.spotify.com/track/3mIYJNmhjPSbJhS03sv3Ko) | [Tenno](https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp) | [Mind Temple](https://open.spotify.com/album/7erfxu8pJ5KRvYHvIwEss5) | 2:19 | 2025-05-16 |  |
+| [Nature's Temple](https://open.spotify.com/track/3mIYJNmhjPSbJhS03sv3Ko) | [Tenno](https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp) | [Mind Temple](https://open.spotify.com/album/7erfxu8pJ5KRvYHvIwEss5) | 2:19 | 2025-05-16 | 2025-06-02 |
 | [New Beginnings](https://open.spotify.com/track/4vxItbZpDtTmH5ZRNPq63m) | [Osaki](https://open.spotify.com/artist/5mBv1P6ffkM2YlJvsBJlze), [Tibeauthetraveler](https://open.spotify.com/artist/1csp9v9FfSxU0LcBtfWFCb) | [New Beginnings](https://open.spotify.com/album/31VMZGfuUcn72p2Phw9reC) | 2:15 | 2024-07-02 |  |
 | [Night Drive](https://open.spotify.com/track/33kQJiqhOOSkfs7dz3SQ1O) | [Elijah Lee](https://open.spotify.com/artist/2ZVKeej6s975bMSdzxjIhu) | [Vanishing Journey](https://open.spotify.com/album/3oGLMzJCwhyBqy50CHoMwP) | 2:26 | 2024-07-02 |  |
 | [Nightingale](https://open.spotify.com/track/2Ne4JIzUtbBE2FupJc1zGF) | [Raimu](https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3), [Tenno](https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp) | [Nightingale](https://open.spotify.com/album/1g4MhZvlALeI44Qenem2kG) | 2:37 | 2024-07-02 | 2025-05-28 |
@@ -315,6 +315,7 @@
 | [Trippin' Time](https://open.spotify.com/track/2XCVJTZ9wyEb1YXr3Ir8cv) | [AshRock](https://open.spotify.com/artist/08AdANE6bANzhwZ5LB6KN8) | [Kenzasburg](https://open.spotify.com/album/3cXTLtoW54LGPtDk3Ylw07) | 3:44 | 2022-05-03 | 2022-07-28 |
 | [Tui and La](https://open.spotify.com/track/2ZCul1JdESVkNO8uAQwEYQ) | [Tophat Panda](https://open.spotify.com/artist/2WhnHknWvBgrC3pHYKDMSs) | [Temple Tales](https://open.spotify.com/album/5EbQRFu2JlmLql9Gy05MUr) | 2:33 | 2024-07-02 | 2024-10-11 |
 | [Turu\-Ima](https://open.spotify.com/track/0jBtrAzvFc1vnLI4rGtYvd) | [Naguro](https://open.spotify.com/artist/2sb7MQ0rQV3QZvrj6Ur4wf) | [Turu\-Ima](https://open.spotify.com/album/4uMh3lacLXG9av3GFkGM09) | 1:57 | 2024-07-02 |  |
+| [Umbrella](https://open.spotify.com/track/73O4WMI3CNFs6lK9SaBZpQ) | [Tsunenori](https://open.spotify.com/artist/52qynuMTYKuf4JtacGbQxh) | [FANTASTIC JOURNEY](https://open.spotify.com/album/6Lh0xGoCfTBb7sJNMDSi7N) | 3:24 | 2025-05-23 |  |
 | [Umbrella \(feat\. Ashley Alisha, Julian Rose\)](https://open.spotify.com/track/7jwfdA1tvjaqG3fi3HwHgm) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk), [Julian Rose](https://open.spotify.com/artist/328e3lxjZnC2YueEVt503o) | [In the Rain](https://open.spotify.com/album/5gfpmmyrpKjXeiVrd4ZQmH) | 3:08 | 2022-07-04 | 2022-09-09 |
 | [vacation](https://open.spotify.com/track/3czFLae2AYohB3q3edHKMr) | [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [vacation](https://open.spotify.com/album/1gUdka9FYmArCb6w1YLrBV) | 3:35 | 2022-05-03 | 2024-07-03 |
 | [Vibes](https://open.spotify.com/track/2IZzKwuk34ndrAHSTSHTsB) | [Misc.Inc](https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi) | [Vibes](https://open.spotify.com/album/2CDgkWRxarrpI449ZgYhLw) | 2:08 | 2024-07-02 | 2024-08-08 |

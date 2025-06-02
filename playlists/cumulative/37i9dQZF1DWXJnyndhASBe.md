@@ -2,7 +2,7 @@
 
 ### [RAP GENERACJA](https://open.spotify.com/playlist/37i9dQZF1DWXJnyndhASBe)
 
-> Największe rapowe kawałki w tej chwili\. Cover: White 2115 👶
+> Największe rapowe kawałki w tej chwili\. Cover: White 2115
 
 685 songs - 1 day 8 hr 13 min
 

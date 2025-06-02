@@ -4,7 +4,7 @@
 
 > 洋楽を中心に今週の新曲をチェック。 Miley Cyrus, ちゃんみな, d4vd, Lorde and more!
 
-9,722 songs - 22 day 15 hr 17 min
+9,723 songs - 22 day 15 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -6882,6 +6882,7 @@
 | [Sittin' On Top Of The World](https://open.spotify.com/track/4L4m2mgZDF8KIkJPdWWIAf) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Sittin' On Top Of The World](https://open.spotify.com/album/3QZxr89jANriqgMK02R9Bn) | 2:39 | 2023-06-01 | 2023-06-09 |
 | [Situationship](https://open.spotify.com/track/6h5U2llAthHj3i1O6YYc6c) | [Sheryl Sheinafia](https://open.spotify.com/artist/1lfMGY3PXMmj6qgwiPqp06) | [Situationship](https://open.spotify.com/album/2XSvU0IHifUIIClBBKEWx3) | 3:08 | 2023-03-09 | 2023-03-18 |
 | [Six Degrees](https://open.spotify.com/track/6tI4KMRvGThjCIJyxxMozt) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM), [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [Six Degrees](https://open.spotify.com/album/7w9LIYtTvYdySDGYwW2VPA) | 3:14 | 2025-01-09 | 2025-01-17 |
+| [SIXUNDRGROUND](https://open.spotify.com/track/7pFndiVnXlen6um84NYa3E) | [Mndsgn](https://open.spotify.com/artist/4GcpBLY8g8NrmimWbssM26) | [SIXUNDRGROUND](https://open.spotify.com/album/3qcrFIICFrLEa9CX2oGkzz) | 3:30 | 2025-05-30 |  |
 | [SKATEBOARD](https://open.spotify.com/track/6l73YRbkfTjBUtTm3DrkAu) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Delicious](https://open.spotify.com/album/0if8s53ZdbpKQnE2vH1Ggl) | 3:05 | 2023-06-15 | 2023-06-23 |
 | [SKED \[Feat\. Kenny Mason\]](https://open.spotify.com/track/57WwGbbzcKCG4tF4LdJjU5) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [SKED \[feat\. Kenny Mason\]](https://open.spotify.com/album/5aQJMDgrFgssrR5xS4p5MX) | 2:38 | 2023-09-14 | 2023-09-22 |
 | [Skeletonize!](https://open.spotify.com/track/3FmHdbRcYT0aOIGn7Sktkt) | [Straightener](https://open.spotify.com/artist/4q5fHrf0Q0R6imQ3etjXEG) | [Skeletonize!](https://open.spotify.com/album/4wZg8R9bytwp6KVtg7aSUx) | 3:40 | 2024-09-27 | 2024-10-04 |

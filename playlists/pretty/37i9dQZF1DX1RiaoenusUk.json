@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica groovera, for the true Funk Soldiers!",
-  "num_followers": 32123,
+  "num_followers": 32142,
   "original_name": "Nota Funk",
   "owner": {
     "name": "Spotify",
@@ -771,6 +771,22 @@
     {
       "added_at": "2025-05-30 16:07:10",
       "album": {
+        "name": "Xavier",
+        "url": "https://open.spotify.com/album/0cLfepUS1abhkviDy3UrQ4"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Horvilleur",
+          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
+        }
+      ],
+      "duration_ms": 212866,
+      "name": "Negra Monamour",
+      "url": "https://open.spotify.com/track/46cUT5yAe0DpGgFWgNhOjs"
+    },
+    {
+      "added_at": "2025-05-30 16:07:10",
+      "album": {
         "name": "Combustication",
         "url": "https://open.spotify.com/album/409EgDFqusiF1kmmm3NBzN"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 173112,
       "name": "Volverte a Ver",
       "url": "https://open.spotify.com/track/5eFwMCx6eYjMxMKIv0wYXL"
-    },
-    {
-      "added_at": "2025-05-30 16:07:10",
-      "album": {
-        "name": "Xavier",
-        "url": "https://open.spotify.com/album/0cLfepUS1abhkviDy3UrQ4"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel Horvilleur",
-          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
-        }
-      ],
-      "duration_ms": 212866,
-      "name": "Negra Monamour",
-      "url": "https://open.spotify.com/track/46cUT5yAe0DpGgFWgNhOjs"
     },
     {
       "added_at": "2025-05-30 16:07:10",
@@ -879,22 +879,6 @@
     {
       "added_at": "2025-05-30 16:07:10",
       "album": {
-        "name": "en m\u00ed",
-        "url": "https://open.spotify.com/album/37vwRCD6CDp518j2giijxd"
-      },
-      "artists": [
-        {
-          "name": "Lola Sanchez",
-          "url": "https://open.spotify.com/artist/0KxltikyByuV300CJVM5xO"
-        }
-      ],
-      "duration_ms": 246910,
-      "name": "en m\u00ed",
-      "url": "https://open.spotify.com/track/2U6ANiDunDYjHwFw8SY1Ff"
-    },
-    {
-      "added_at": "2025-05-30 16:07:10",
-      "album": {
         "name": "Sinestesia",
         "url": "https://open.spotify.com/album/7nV7O5zQXQeCCFRLyXI5JT"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 267705,
       "name": "Sinestesia",
       "url": "https://open.spotify.com/track/6zpSJygrnJU29m8caIL44a"
+    },
+    {
+      "added_at": "2025-05-30 16:07:10",
+      "album": {
+        "name": "en m\u00ed",
+        "url": "https://open.spotify.com/album/37vwRCD6CDp518j2giijxd"
+      },
+      "artists": [
+        {
+          "name": "Lola Sanchez",
+          "url": "https://open.spotify.com/artist/0KxltikyByuV300CJVM5xO"
+        }
+      ],
+      "duration_ms": 246910,
+      "name": "en m\u00ed",
+      "url": "https://open.spotify.com/track/2U6ANiDunDYjHwFw8SY1Ff"
     },
     {
       "added_at": "2025-05-30 16:07:10",
@@ -995,6 +995,22 @@
     {
       "added_at": "2025-05-30 16:07:10",
       "album": {
+        "name": "Tony 70",
+        "url": "https://open.spotify.com/album/6BKVskjcx78fG8bPWQ3Ypx"
+      },
+      "artists": [
+        {
+          "name": "Tony 70",
+          "url": "https://open.spotify.com/artist/1laEjxa14vAVGj1bkkkQUv"
+        }
+      ],
+      "duration_ms": 233373,
+      "name": "Simon Freak",
+      "url": "https://open.spotify.com/track/6mYRXQDxEpeVLMcDBi7zlr"
+    },
+    {
+      "added_at": "2025-05-30 16:07:10",
+      "album": {
         "name": "Myselfed",
         "url": "https://open.spotify.com/album/1gMhxgWFw8hCTKQH0B9Wvf"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 287639,
       "name": "Myselfed",
       "url": "https://open.spotify.com/track/5mp9xzoVJgpdHQTDkJz7r2"
-    },
-    {
-      "added_at": "2025-05-30 16:07:10",
-      "album": {
-        "name": "Tony 70",
-        "url": "https://open.spotify.com/album/6BKVskjcx78fG8bPWQ3Ypx"
-      },
-      "artists": [
-        {
-          "name": "Tony 70",
-          "url": "https://open.spotify.com/artist/1laEjxa14vAVGj1bkkkQUv"
-        }
-      ],
-      "duration_ms": 233373,
-      "name": "Simon Freak",
-      "url": "https://open.spotify.com/track/6mYRXQDxEpeVLMcDBi7zlr"
     },
     {
       "added_at": "2025-05-30 16:07:10",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2025-05-30 16:07:10",
       "album": {
-        "name": "NUEVA SANGRE",
-        "url": "https://open.spotify.com/album/2T5tZZuvVcTpBIVFxFPplr"
+        "name": "Chicas on Fire - Single",
+        "url": "https://open.spotify.com/album/19hyihRj65Z9jPhBAXaErH"
       },
       "artists": [
         {
-          "name": "Militantes del Climax",
-          "url": "https://open.spotify.com/artist/09BpCKSle4c7RbDtCuZXnv"
+          "name": "Shocklenders",
+          "url": "https://open.spotify.com/artist/45F0w3u4aSG89gClIx4QIR"
         }
       ],
-      "duration_ms": 196374,
-      "name": "CAFE NEGRO",
-      "url": "https://open.spotify.com/track/2tsyisOIKxVARnkZ4mMTjl"
+      "duration_ms": 240085,
+      "name": "Chicas on Fire",
+      "url": "https://open.spotify.com/track/1OJTHnR95k4N0mNfYYkoFB"
     },
     {
       "added_at": "2025-05-30 16:07:10",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2025-05-30 16:07:10",
       "album": {
-        "name": "Chicas on Fire - Single",
-        "url": "https://open.spotify.com/album/19hyihRj65Z9jPhBAXaErH"
+        "name": "NUEVA SANGRE",
+        "url": "https://open.spotify.com/album/2T5tZZuvVcTpBIVFxFPplr"
       },
       "artists": [
         {
-          "name": "Shocklenders",
-          "url": "https://open.spotify.com/artist/45F0w3u4aSG89gClIx4QIR"
+          "name": "Militantes del Climax",
+          "url": "https://open.spotify.com/artist/09BpCKSle4c7RbDtCuZXnv"
         }
       ],
-      "duration_ms": 240085,
-      "name": "Chicas on Fire",
-      "url": "https://open.spotify.com/track/1OJTHnR95k4N0mNfYYkoFB"
+      "duration_ms": 196374,
+      "name": "CAFE NEGRO",
+      "url": "https://open.spotify.com/track/2tsyisOIKxVARnkZ4mMTjl"
     },
     {
       "added_at": "2025-05-30 16:07:10",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2025-05-30 16:07:10",
       "album": {
-        "name": "Sr. A",
-        "url": "https://open.spotify.com/album/4BmsB5lLUuAGWhFJbTKiok"
-      },
-      "artists": [
-        {
-          "name": "Tapones de Punta",
-          "url": "https://open.spotify.com/artist/3rNJyHBopW8UJZwXTB7ysH"
-        }
-      ],
-      "duration_ms": 213267,
-      "name": "Sr. A",
-      "url": "https://open.spotify.com/track/5oUv3g3LeyyADj4jQMsMRr"
-    },
-    {
-      "added_at": "2025-05-30 16:07:10",
-      "album": {
         "name": "Super 8",
         "url": "https://open.spotify.com/album/6BRH0cYxNgjKLy9kronvWw"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 270706,
       "name": "Traffic (Groovin' de bondi)",
       "url": "https://open.spotify.com/track/3aMjSLWrgzlBsfHNXpNCSP"
+    },
+    {
+      "added_at": "2025-05-30 16:07:10",
+      "album": {
+        "name": "Sr. A",
+        "url": "https://open.spotify.com/album/4BmsB5lLUuAGWhFJbTKiok"
+      },
+      "artists": [
+        {
+          "name": "Tapones de Punta",
+          "url": "https://open.spotify.com/artist/3rNJyHBopW8UJZwXTB7ysH"
+        }
+      ],
+      "duration_ms": 213267,
+      "name": "Sr. A",
+      "url": "https://open.spotify.com/track/5oUv3g3LeyyADj4jQMsMRr"
     },
     {
       "added_at": "2025-05-30 16:07:10",
@@ -1423,26 +1423,6 @@
     {
       "added_at": "2025-05-30 16:07:10",
       "album": {
-        "name": "Picante",
-        "url": "https://open.spotify.com/album/5D5k6gpm85kIQJ5eumduv4"
-      },
-      "artists": [
-        {
-          "name": "Tapones de Punta",
-          "url": "https://open.spotify.com/artist/3rNJyHBopW8UJZwXTB7ysH"
-        },
-        {
-          "name": "San Juan Project",
-          "url": "https://open.spotify.com/artist/0OvRTd6sJc06xSW6ZkESFi"
-        }
-      ],
-      "duration_ms": 223289,
-      "name": "Picante",
-      "url": "https://open.spotify.com/track/1hhD04AfEtZWt1MG4IyhJw"
-    },
-    {
-      "added_at": "2025-05-30 16:07:10",
-      "album": {
         "name": "Nada Ser\u00eda Igual",
         "url": "https://open.spotify.com/album/7w5eoI6jwqmr4DfNM8B5zw"
       },
@@ -1475,6 +1455,26 @@
       "duration_ms": 272373,
       "name": "Todo Atr\u00e1s",
       "url": "https://open.spotify.com/track/7yCpBkWqPLQ3NfWNHgsvn8"
+    },
+    {
+      "added_at": "2025-05-30 16:07:10",
+      "album": {
+        "name": "Picante",
+        "url": "https://open.spotify.com/album/5D5k6gpm85kIQJ5eumduv4"
+      },
+      "artists": [
+        {
+          "name": "Tapones de Punta",
+          "url": "https://open.spotify.com/artist/3rNJyHBopW8UJZwXTB7ysH"
+        },
+        {
+          "name": "San Juan Project",
+          "url": "https://open.spotify.com/artist/0OvRTd6sJc06xSW6ZkESFi"
+        }
+      ],
+      "duration_ms": 223289,
+      "name": "Picante",
+      "url": "https://open.spotify.com/track/1hhD04AfEtZWt1MG4IyhJw"
     },
     {
       "added_at": "2025-05-30 16:07:10",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2025-05-30 16:07:10",
       "album": {
-        "name": "Crisis",
-        "url": "https://open.spotify.com/album/4vux7VUf8tpFUNa1dcHgRU"
-      },
-      "artists": [
-        {
-          "name": "Jvlian",
-          "url": "https://open.spotify.com/artist/1rdtWdewVAF99Rr8vqL6UT"
-        }
-      ],
-      "duration_ms": 161379,
-      "name": "Sujeto a Espacio",
-      "url": "https://open.spotify.com/track/1Q6cCRmlEmgqSEwdBsfbFb"
-    },
-    {
-      "added_at": "2025-05-30 16:07:10",
-      "album": {
         "name": "Therapy",
         "url": "https://open.spotify.com/album/5vtaMgXdhnI7HaiVBYmoJn"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 230250,
       "name": "Therapy",
       "url": "https://open.spotify.com/track/3PqP0GbtQpZy9cHvNFrhl9"
+    },
+    {
+      "added_at": "2025-05-30 16:07:10",
+      "album": {
+        "name": "Crisis",
+        "url": "https://open.spotify.com/album/4vux7VUf8tpFUNa1dcHgRU"
+      },
+      "artists": [
+        {
+          "name": "Jvlian",
+          "url": "https://open.spotify.com/artist/1rdtWdewVAF99Rr8vqL6UT"
+        }
+      ],
+      "duration_ms": 161379,
+      "name": "Sujeto a Espacio",
+      "url": "https://open.spotify.com/track/1Q6cCRmlEmgqSEwdBsfbFb"
     },
     {
       "added_at": "2025-05-30 16:07:10",

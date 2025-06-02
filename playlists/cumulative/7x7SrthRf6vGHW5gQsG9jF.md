@@ -4,7 +4,7 @@
 
 > mostly rock
 
-905 songs - 2 day 9 hr 52 min
+907 songs - 2 day 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -435,6 +435,7 @@
 | [Signal](https://open.spotify.com/track/3JTnUV0tSnqNakt1GdMQMI) | [Citrobal](https://open.spotify.com/artist/1IPPbWefxSAcgfWHztfaIT) | [My Caution Line](https://open.spotify.com/album/2KkCy2STwQzZUHtuKmH7bN) | 3:48 | 2024-07-14 |  |
 | [signal](https://open.spotify.com/track/41btRuMq5oBOGNajmh4oVa) | [sora tob sakana](https://open.spotify.com/artist/2dEKl1tM3JMwggawEuVISO) | [deep blue](https://open.spotify.com/album/70do9DIPCGOV9gcI3j1m0o) | 4:02 | 2025-02-10 |  |
 | [silver ring](https://open.spotify.com/track/3Tt6r80Ew8GP51yJWJdvbp) | [yeti let you notice](https://open.spotify.com/artist/7wRCWTgO2rFeFFk56AKCGA) | [bookmarks \(I can be \*\*\* with some chalky candys.\)](https://open.spotify.com/album/43ZRPyuX7FsWolN8XtMOyz) | 3:10 | 2024-04-25 |  |
+| [Sincerely](https://open.spotify.com/track/1UnlBvfKYZ22zCx0gbSsgX) | [TRUE](https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te) | [Sincerely](https://open.spotify.com/album/1iccE1950dpEuNrvCojhRn) | 4:35 | 2025-06-01 |  |
 | [sister](https://open.spotify.com/track/3tEYIqoMFxgtR2CZdnmbQq) | [ChoQMay](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [ginghamcheck](https://open.spotify.com/album/2f1VhVdYM7AtbF43B79cDZ) | 3:54 | 2024-08-18 |  |
 | [six](https://open.spotify.com/track/6U8Lgn5GifhLvhwyuyLWQ4) | [VELTPUNCH](https://open.spotify.com/artist/5pGkTQuHNVgzBgX4d9pFsc) | [GOLD ALBUM 1997\-2012](https://open.spotify.com/album/5rtMlhUkyKWl7OgrPBBEUb) | 3:17 | 2024-02-18 |  |
 | [skabetty](https://open.spotify.com/track/3g0TkEXBTto6sTt55apBgd) | [MASS OF THE FERMENTING DREGS](https://open.spotify.com/artist/14d5KCX9nprUcxnKIShrr1) | [kirametal](https://open.spotify.com/album/1C8uN2OHUV6UZmkEPu9rzv) | 4:45 | 2023-08-18 |  |
@@ -577,6 +578,7 @@
 | [いのち feat\. ラブリーサマーちゃん](https://open.spotify.com/track/2zxlsQL3NtKC9hO86wMJgT) | [Izumi Makura](https://open.spotify.com/artist/012ldd58H1N5UZLxjMzV29), [Lovely Summer Chan](https://open.spotify.com/artist/4nA0WP72lQ6494sT3xbips) | [いのち](https://open.spotify.com/album/1yJFrJquP3PLlfICfl0vS8) | 4:01 | 2024-07-31 |  |
 | [うつろう](https://open.spotify.com/track/0tHCmAAh5bwPAq4gVpdKsH) | [Stereo Type](https://open.spotify.com/artist/2J2ulUwLz2ItsDwB5V4LxU) | [Split](https://open.spotify.com/album/2eJ1ReCLvXlELGRRlCHpm5) | 4:17 | 2023-12-02 |  |
 | [おとずれ](https://open.spotify.com/track/6Fp4d4Rey4Pon8r4UxOKJ5) | [tricot](https://open.spotify.com/artist/5IKKS7LhpdlmMwqIagqf3f) | [おとずれ](https://open.spotify.com/album/64aKmnM6KUPMr3pgyYQFF5) | 3:48 | 2024-10-07 |  |
+| [かいか](https://open.spotify.com/track/6yP026Yrvqf1PGohQ9V0KY) | [廻花](https://open.spotify.com/artist/337i1DtQjGKjHrMMew9Neh) | [うまれるまえからきみをしってる](https://open.spotify.com/album/2gTtoc06I7kEQ3g8fpZM4L) | 5:02 | 2025-06-01 |  |
 | [かみつきたい](https://open.spotify.com/track/3t9K6UszXCVG1kRgO80iQM) | [カネコアヤノ](https://open.spotify.com/artist/4XKIIegkRbSJft0PmMv9NB) | [燦々](https://open.spotify.com/album/620Ktp4dDxkqTK24Ay85Fd) | 2:46 | 2023-12-12 |  |
 | [きさらぎ](https://open.spotify.com/track/75IZurzsQ2kARcYh0ru5Xw) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [袖の汀](https://open.spotify.com/album/0Rq3AhkgTk8m15vfDllorO) | 5:20 | 2024-05-05 |  |
 | [きゃない](https://open.spotify.com/track/7ecwMVFi6Z4Gaut6YATKGg) | [MIMiNARI](https://open.spotify.com/artist/4v0TaIftFJ7Mkx7j5Cvrzv), [麻婆豆腐](https://open.spotify.com/artist/4rDjKnJ4UDzfROtTs37kDT) | [きゃない](https://open.spotify.com/album/15ayIyFr2vlUiXodVp4OoO) | 3:03 | 2024-10-07 |  |

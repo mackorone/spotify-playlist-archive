@@ -1,6 +1,6 @@
 {
   "description": "Nothing but the classics, the best in Soca anthems from the Caribbean. Cover: Alison Hinds",
-  "num_followers": 126888,
+  "num_followers": 126924,
   "original_name": "Soca Classics",
   "owner": {
     "name": "Spotify",
@@ -527,26 +527,6 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Trini Gold",
-        "url": "https://open.spotify.com/album/1KtKr3L5IYMuF7ia8PFCji"
-      },
-      "artists": [
-        {
-          "name": "Superblue",
-          "url": "https://open.spotify.com/artist/5D6aDi6RQZm5nGCgM2jy8M"
-        },
-        {
-          "name": "Bunji",
-          "url": "https://open.spotify.com/artist/4PO2u9qHDO4ORynHyfbcD6"
-        }
-      ],
-      "duration_ms": 191440,
-      "name": "Party Start",
-      "url": "https://open.spotify.com/track/0aL5KresMZGVevr5xnPqoZ"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
         "name": "Soca Gold 2008",
         "url": "https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT"
       },
@@ -563,6 +543,26 @@
       "duration_ms": 221560,
       "name": "Gyal Farm",
       "url": "https://open.spotify.com/track/0YKJ3Hl6QbtoQ46sQtBd7Q"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "Trini Gold",
+        "url": "https://open.spotify.com/album/1KtKr3L5IYMuF7ia8PFCji"
+      },
+      "artists": [
+        {
+          "name": "Superblue",
+          "url": "https://open.spotify.com/artist/5D6aDi6RQZm5nGCgM2jy8M"
+        },
+        {
+          "name": "Bunji",
+          "url": "https://open.spotify.com/artist/4PO2u9qHDO4ORynHyfbcD6"
+        }
+      ],
+      "duration_ms": 191440,
+      "name": "Party Start",
+      "url": "https://open.spotify.com/track/0aL5KresMZGVevr5xnPqoZ"
     },
     {
       "added_at": "2024-08-06 01:00:53",

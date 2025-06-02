@@ -1,12 +1,12 @@
 {
   "description": "Your weekly update of the most played tracks right now - Argentina.",
-  "num_followers": 87601,
+  "num_followers": 87625,
   "original_name": "Top Songs - Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "L856AAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "L8/G0AAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
       "added_at": "2025-05-30 13:23:49",
@@ -546,6 +546,10 @@
         {
           "name": "Valen",
           "url": "https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz"
+        },
+        {
+          "name": "RAMKY EN LOS CONTROLES",
+          "url": "https://open.spotify.com/artist/6jXFmaC0CvsIRSzxapsnNd"
         }
       ],
       "duration_ms": 175059,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: Suchmos\*👉 <a href="https://spice.eplus.jp/articles/338097">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,634 likes - 92 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,643 likes - 92 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 91 | [Mayfly](https://open.spotify.com/track/0F97rI9eyqqVehbA68TZAJ) | [Some Life](https://open.spotify.com/artist/3cO9bp3Hqyrk2Icc9ONk0J) | [Mayfly](https://open.spotify.com/album/4xNsGBPFxFhpmqTXup0r9S) | 4:47 |
 | 92 | [追風2.0](https://open.spotify.com/track/7EnVYAg58UXcLo5SVgwIJZ) | [Jonah](https://open.spotify.com/artist/39GLou2UEVs7VFJL0Zn1eB) | [追風2.0](https://open.spotify.com/album/5PJcC9uKuaZezjWGc2HZbo) | 3:49 |
 
-Snapshot ID: `AAAAAApOexTUxbisOT4IwVjdZRj7rZa5`
+Snapshot ID: `aDcd9wAAAABW1n+dp9PoubLlEl2GI5ck`

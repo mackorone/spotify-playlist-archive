@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Lee Vasi
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,861 likes - 99 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,882 likes - 99 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Love Me Anyway](https://open.spotify.com/track/4FiC3pmU9BruZNna7YH84u) | [Lee Vasi](https://open.spotify.com/artist/4bkzAmMBYHBfpSIecicRhf) | [Love Me To Life](https://open.spotify.com/album/2u6oiZH2s25dZlhrJ2J8n9) | 2:30 |
 | 2 | [LET THE NEW BEGIN](https://open.spotify.com/track/2OkRuz1CKtE0YCBHQdoPAq) | [Kodoku](https://open.spotify.com/artist/2mDygmvuNzsZhLvMfEUfmu) | [LET THE NEW BEGIN](https://open.spotify.com/album/1StoVCNt8r8dhVdpe8rKQe) | 2:25 |
 | 3 | [At Your Feet](https://open.spotify.com/track/7JfW2UmhaMUyRQQdCmsl7x) | [CèJae](https://open.spotify.com/artist/15AlBadiR2gLPibtqELUH3) | [At Your Feet](https://open.spotify.com/album/5mQWaqWMIDfVfGTo1jKkRn) | 2:24 |
-| 4 | [Til' He Saves You](https://open.spotify.com/track/71XKgALicNGicApVpnPaEw) | [Reyne L.](https://open.spotify.com/artist/3HpGGXW3yN7H6t67UweHLe), [REYNE](https://open.spotify.com/artist/5Zb2vIUyfZbX15otYc072P) | [Til' He Saves You](https://open.spotify.com/album/66xSkCrcTHL7Yr0qf9YQRn) | 2:23 |
+| 4 | ['Til He Saves You](https://open.spotify.com/track/71XKgALicNGicApVpnPaEw) | [Reyne L.](https://open.spotify.com/artist/3HpGGXW3yN7H6t67UweHLe), [REYNE](https://open.spotify.com/artist/5Zb2vIUyfZbX15otYc072P) | ['Til He Saves You](https://open.spotify.com/album/66xSkCrcTHL7Yr0qf9YQRn) | 2:23 |
 | 5 | [Move](https://open.spotify.com/track/15OSHgzGNuewa6B2r8Rq1p) | [LIN D](https://open.spotify.com/artist/5LOZTJ6I1sTLRiK14eSWDr) | [Move](https://open.spotify.com/album/6fyi8DCZB1Co80bna25729) | 3:29 |
 | 6 | [Oluwa Ese](https://open.spotify.com/track/3l37qRJur9CW8b7UhrWCFg) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd) | [Oluwa Ese](https://open.spotify.com/album/1pbQNDcJZeMIOm6ios3Shk) | 2:10 |
 | 7 | [Testify](https://open.spotify.com/track/03B6wjiG0kuJlWCv3neYcg) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Jvson](https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F), [Lekan Salamii](https://open.spotify.com/artist/2S8pBLSlvmEiRPl2SMPfPB) | [Testify](https://open.spotify.com/album/0YnszxnoNksutwA8iVijVt) | 2:34 |

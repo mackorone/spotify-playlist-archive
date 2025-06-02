@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWP1khlx8yy.md) - [plain]
 
 > 劇場アニメ『ベルサイユのばら』の楽曲を1つのプレイリストで。Music from "The Rose of Versailles"!  ©池田理代子プロダクション／ベルサイユのばら製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,892 likes - 48 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,895 likes - 48 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWP1khlx8yy.md) - [plain]
 | 47 | [アンドレのすべて](https://open.spotify.com/track/0pCPVc7dq3z88JqsZsC6HO) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [The Rose of Versailles Original Soundtrack](https://open.spotify.com/album/3fd6Y1WGcHSB7NwMnyi4wi) | 3:18 |
 | 48 | [バスティーユへ](https://open.spotify.com/track/3JwEnnrQWzTafBe0qvz0dP) | [KOHTA YAMAMOTO](https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4) | [The Rose of Versailles Original Soundtrack](https://open.spotify.com/album/3fd6Y1WGcHSB7NwMnyi4wi) | 2:07 |
 
-Snapshot ID: `Z73bCAAAAABHgE7Xaye6XWcmhBT/IEAT`
+Snapshot ID: `Z73bCAAAAACdDwqVOw12X32SfVGQeOxi`

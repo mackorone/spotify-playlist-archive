@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 01 Jun 03:03 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 02 Jun 03:03 UTC.
 
-4,850 songs - 11 day 5 hr 58 min
+4,852 songs - 11 day 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2375,7 +2375,7 @@
 | [last night's mascara](https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [last night's mascara](https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk) | 2:57 | 2024-11-08 | 2024-11-13 |
 | [Last Time](https://open.spotify.com/track/1M7tElrrOSiGFwUIp7ztr6) | [Kississippi](https://open.spotify.com/artist/6t0a2t1BXxTQvAkxReClPm) | [Last Time](https://open.spotify.com/album/5aSf6hr6Ypdp8cmTCRkkir) | 3:35 | 2024-06-05 | 2024-06-07 |
 | [Last Time We Never Meet Again](https://open.spotify.com/track/4mKQ5jwuUvusHUVoLsOIHA) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Last Time We Never Meet Again](https://open.spotify.com/album/6obpscPPNZayw65IPFZSWE) | 3:10 | 2024-06-20 | 2024-06-22 |
-| [Late Night](https://open.spotify.com/track/1JOQk0prFCjdK6IDALpe5f) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [Late Night](https://open.spotify.com/album/7Hkc5W7dOVogQ2h2Jtv6Mq) | 2:52 | 2025-05-23 |  |
+| [Late Night](https://open.spotify.com/track/1JOQk0prFCjdK6IDALpe5f) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [Late Night](https://open.spotify.com/album/7Hkc5W7dOVogQ2h2Jtv6Mq) | 2:52 | 2025-05-23 | 2025-06-02 |
 | [Lately](https://open.spotify.com/track/6nqBOGRwYdwOOHTie3fx1K) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Lately](https://open.spotify.com/album/0GKovrT0pFuXb4FhM1Wf3O) | 4:09 | 2024-08-02 | 2024-08-08 |
 | [LATINA FOREVA](https://open.spotify.com/track/10MpBpx64MNixmUMNj7f6b) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [LATINA FOREVA](https://open.spotify.com/album/78F52tGWKs5rW8dzJWYjQT) | 2:39 | 2025-05-23 | 2025-05-31 |
 | [Latitude](https://open.spotify.com/track/031wCW0a0oFjzp4Emiq3tr) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [Latitude](https://open.spotify.com/album/1Bqp3SN1vFRQsDJE73mK3K) | 3:15 | 2024-11-01 | 2024-11-08 |
@@ -2429,7 +2429,7 @@
 | [Life Is Good](https://open.spotify.com/track/2Bf3YFKNl0w3nwkwPhHDW2) | [Transviolet](https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i) | [Life Is Good](https://open.spotify.com/album/7H7wjYLW3WRS06T22AwZwP) | 2:54 | 2024-08-30 | 2024-09-04 |
 | [Life Out There](https://open.spotify.com/track/0QMMF6BX8zMy5eY9HEODfL) | [SAYGRACE](https://open.spotify.com/artist/6y5amJcTjeDgLXIjtQLMst) | [Life Out There](https://open.spotify.com/album/7CRuXUFK6Gsr63CMfll1JH) | 3:47 | 2024-08-16 | 2024-08-20 |
 | [Life Saving Gun](https://open.spotify.com/track/1PXNw04oVf72tjThOQnBYu) | [Phish](https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz) | [Life Saving Gun](https://open.spotify.com/album/4Ht2oxseTL4IQ8CdFVhqNg) | 4:25 | 2024-07-09 | 2024-07-11 |
-| [Lifestyle Trainers](https://open.spotify.com/track/5g1sd6lfzLUUuReSCZYXqN) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [Lifestyle Trainers](https://open.spotify.com/album/75uXW8VeQNpuXRYOYjifSO) | 3:07 | 2025-05-28 |  |
+| [Lifestyle Trainers](https://open.spotify.com/track/5g1sd6lfzLUUuReSCZYXqN) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [Lifestyle Trainers](https://open.spotify.com/album/75uXW8VeQNpuXRYOYjifSO) | 3:07 | 2025-05-28 | 2025-06-02 |
 | [LIFETIMES](https://open.spotify.com/track/0K8sKuo6xLHZgySZmmw2rV) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [LIFETIMES](https://open.spotify.com/album/6UEGp3MQnsKoK9rwKcKBUo) | 3:12 | 2024-08-08 | 2024-08-10 |
 | [Lift Me Up](https://open.spotify.com/track/4xUDszyCWEhPuPirI5En4i) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [Lift Me Up](https://open.spotify.com/album/5GCKHk3cTg1rqLRyXWLDeE) | 3:30 | 2024-10-04 | 2024-10-10 |
 | [lift off!](https://open.spotify.com/track/1lsuQNbQXg0smdcAaRpmja) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [lift off!](https://open.spotify.com/album/5PCGG2ken65WpPN06uqa08) | 3:34 | 2024-07-11 | 2024-07-13 |
@@ -2909,6 +2909,7 @@
 | [next to you](https://open.spotify.com/track/1GmZgx9giHMoqXqYBqbtw7) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [next to you](https://open.spotify.com/album/1krJ5WnQuLKJhBK81PFVMW) | 2:34 | 2024-10-25 | 2024-10-31 |
 | [NG](https://open.spotify.com/track/12jwNYJiHCSnXwbCmOm8Up) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [NG](https://open.spotify.com/album/4eNwx9fVPUqrsKys2F5kqw) | 2:51 | 2024-08-09 | 2024-08-14 |
 | [Nice Knowing You](https://open.spotify.com/track/6eC5dOu4lykDLO39JbSGdK) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Nice Knowing You](https://open.spotify.com/album/4PSOVho7bvffFoVChOliKF) | 3:35 | 2024-12-04 | 2024-12-07 |
+| [Nice To Each Other](https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Nice To Each Other](https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV) | 3:29 | 2025-06-02 |  |
 | [NICE TRY](https://open.spotify.com/track/7orAJpdzHjVxKSjM0FWVnh) | [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [NICE TRY](https://open.spotify.com/album/66tbMj8UQhFXtFa0vztZPX) | 2:00 | 2025-05-09 | 2025-05-18 |
 | [Nicăieri](https://open.spotify.com/track/6HCFvryD9MxmuZ5X5HRn7A) | [Bitza](https://open.spotify.com/artist/38D4CP96Q3tn48qOGA6wbZ), [Freakadadisk](https://open.spotify.com/artist/1rnfP6tcCKHTO9zYlcixqk) | [Nicăieri](https://open.spotify.com/album/1SHAeGWis78jZIZY0b2Fkr) | 2:53 | 2024-05-27 | 2024-06-01 |
 | [Nie boję się jutra](https://open.spotify.com/track/5Bkm7m8Dp3Kwlx62P7EZVA) | [ReTo](https://open.spotify.com/artist/6QfFTZJHFSe9Xyes6DkAli), [4Money](https://open.spotify.com/artist/6EjCs0fSiq0HvAbCzIPeq1) | [Nie boję się jutra](https://open.spotify.com/album/1D8Nmaagv8C5GQROzsRicm) | 2:25 | 2024-12-12 | 2024-12-14 |
@@ -3858,6 +3859,7 @@
 | [Standalone](https://open.spotify.com/track/5H63aGGsjcpDvzuqBZTV1o) | [Fleshwater](https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF) | [Standalone+1](https://open.spotify.com/album/3AavCvQYJLFv7qmSgyLbHt) | 1:08 | 2024-12-28 | 2025-01-12 |
 | [Star](https://open.spotify.com/track/491IJw5T7r2a45NM7clcNk) | [Bryan Ferry](https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC) | [Retrospective: Star](https://open.spotify.com/album/4Nqu8TIwAYEeD1xbBLD9gB) | 3:00 | 2024-08-28 | 2024-08-31 |
 | [Star](https://open.spotify.com/track/6LM7O0ujf9VfPleIQA1bWm) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [Star](https://open.spotify.com/album/45U3g8nL4BlpuD93BmbIv5) | 2:04 | 2024-07-26 | 2024-07-30 |
+| [Star 69](https://open.spotify.com/track/6pSFh3VxiFzSrov1Se4Rql) | [Ayesha Erotica](https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco) | [Star 69](https://open.spotify.com/album/4RHqGETvVg3UTdiesKXo2m) | 2:56 | 2025-06-01 |  |
 | [Star Signs](https://open.spotify.com/track/21ZvC8aUTJIe5IBT34sLbG) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Star Signs](https://open.spotify.com/album/3V9OWu0finGlIhiPkf2XUv) | 2:40 | 2024-11-12 | 2024-11-26 |
 | [STARBLAZE](https://open.spotify.com/track/296UE3AygQKdzequJhUdGz) | [xaev](https://open.spotify.com/artist/10zsHcOcO047KmhOhi57iL) | [STARBLAZE](https://open.spotify.com/album/0WFn8xobTBPK5Zib09K6hc) | 3:06 | 2024-06-06 | 2024-06-09 |
 | [Starburned and Unkissed](https://open.spotify.com/track/12V0MwkaN60cghsLsglkIf) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Starburned and Unkissed](https://open.spotify.com/album/3mj7Bt7kMctCQdC9pqgdFc) | 3:40 | 2024-05-02 | 2024-05-04 |

@@ -1311,6 +1311,24 @@
     },
     {
       "album": {
+        "name": "Shalalala",
+        "url": "https://open.spotify.com/album/0uAuAGhh00zvB1SyomIzdu"
+      },
+      "artists": [
+        {
+          "name": "Cian Ducrot",
+          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
+        }
+      ],
+      "date_added": "2025-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246312,
+      "name": "Shalalala",
+      "url": "https://open.spotify.com/track/6tZsiAB6ZnXe5ZO6OJSUic"
+    },
+    {
+      "album": {
         "name": "Short Ride",
         "url": "https://open.spotify.com/album/5GTjzOsKk8R250oKqgvmEg"
       },

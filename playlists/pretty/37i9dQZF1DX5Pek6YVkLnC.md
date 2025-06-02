@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 
 > P fkn R\. Esto llega al choliiiii\. Cover: Rowma
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,609 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,618 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 | 3 | [No Signal](https://open.spotify.com/track/6xHIG58E2FngeHZ2t33wg3) | [Lemuell](https://open.spotify.com/artist/1K24hVea1ECJAvdH8fuqSB), [Sanchz](https://open.spotify.com/artist/0G35WrrhXWCv2Un6ImamhF) | [No Signal](https://open.spotify.com/album/6gKMRTOL56AOoLwxzzZo4U) | 2:41 |
 | 4 | [BBY FOREAL](https://open.spotify.com/track/1OufTYHViiK7cillahn3Ap) | [Remers](https://open.spotify.com/artist/5bVgn8ImAnQDIB1NjxfSvb) | [BBY FOREAL](https://open.spotify.com/album/5ImjngasGCUBHfPmd7YXMY) | 2:46 |
 | 5 | [PARANOIA.](https://open.spotify.com/track/4fbNiLNjjCTHZAIkcG5aIh) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [PARANOIA.](https://open.spotify.com/album/4S65UMxUGogJERqXWAdEXU) | 3:06 |
-| 6 | [VELAS](https://open.spotify.com/track/6QX56URnx8yhGm0Fk7LCQV) | [Bebo Dumont](https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe) | [Velas](https://open.spotify.com/album/15szwf7VUJMijWbQBMM9KZ) | 3:20 |
+| 6 | [VELAS](https://open.spotify.com/track/6QX56URnx8yhGm0Fk7LCQV) | [Bebo Dumont](https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe) | [VELAS](https://open.spotify.com/album/15szwf7VUJMijWbQBMM9KZ) | 3:20 |
 | 7 | [Seguimo a lo Under](https://open.spotify.com/track/2jfN0x37f1x3w0PNwLMnxZ) | [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Nico Canada](https://open.spotify.com/artist/0yqEvM2Huy4NWzhKK7hPFF) | [Seguimo a lo Under](https://open.spotify.com/album/7Bev0mIjfx6a9DKV6DHgsk) | 2:19 |
 | 8 | [2 Way Player](https://open.spotify.com/track/5592XOC3TGBse3fIdJz4Ox) | [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [2 Way Player](https://open.spotify.com/album/1rc2dgR1mblVYhP4xmX1M5) | 3:25 |
 | 9 | [Energia](https://open.spotify.com/track/2fzUgpyncVB5Ho3rcuYGJ5) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Joantony](https://open.spotify.com/artist/2wIkMnRcVvnqRDZe9z4aHM) | [Energia](https://open.spotify.com/album/0jP0scQfe1DUK59SRS4O4A) | 3:13 |

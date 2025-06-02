@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 
 > The latest and the greatest of CHH!  Cover: nobigdyl\. & Kato On The Track
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,181 likes - 240 songs - 10 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,213 likes - 240 songs - 10 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

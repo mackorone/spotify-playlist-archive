@@ -8853,6 +8853,24 @@
     },
     {
       "album": {
+        "name": "Speak Now (Deluxe Package)",
+        "url": "https://open.spotify.com/album/6S6JQWzUrJVcJLK4fi74Fw"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2025-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217173,
+      "name": "Better Than Revenge",
+      "url": "https://open.spotify.com/track/55mh9j2aB7xZ1Oh463gK8k"
+    },
+    {
+      "album": {
         "name": "Better Things",
         "url": "https://open.spotify.com/album/1SHLOv0DDdRecK60z86Lth"
       },
@@ -12883,6 +12901,28 @@
     },
     {
       "album": {
+        "name": "Nelson 70 - EP",
+        "url": "https://open.spotify.com/album/4JanEAXbEaq9rvtn9Zv1nR"
+      },
+      "artists": [
+        {
+          "name": "Lenine",
+          "url": "https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C"
+        },
+        {
+          "name": "Cristina Braga",
+          "url": "https://open.spotify.com/artist/7qdFnXlc8dCGHyLRjEVPof"
+        }
+      ],
+      "date_added": "2025-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170973,
+      "name": "Certas Coisas",
+      "url": "https://open.spotify.com/track/7JJyHYOP76GZ8Mlvvs2bCO"
+    },
+    {
+      "album": {
         "name": "LUAN AO VIVO NA LUA - NOVA",
         "url": "https://open.spotify.com/album/0SXQI9rQAxolmySULiXLi0"
       },
@@ -15628,7 +15668,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-19",
+      "date_removed": null,
       "duration_ms": 172613,
       "name": "Crina Negra",
       "url": "https://open.spotify.com/track/4W1PrnmuzeY1EmJZlDj5lt"
@@ -17042,7 +17082,7 @@
       ],
       "date_added": "2025-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-02",
       "duration_ms": 112907,
       "name": "Deixa Eu Mandar Meu Passinho",
       "url": "https://open.spotify.com/track/1uYHfa5rjM1oUpKgst7U8F"
@@ -55780,7 +55820,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-02",
       "duration_ms": 112615,
       "name": "Quero Dan\u00e7ar Com Voc\u00ea",
       "url": "https://open.spotify.com/track/1pLZVPqXa2pif5gzOuMg7q"
@@ -64390,7 +64430,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-02",
       "duration_ms": 459692,
       "name": "Ta Rico Os Menino Do Gueto \ud83c\udf40",
       "url": "https://open.spotify.com/track/7GNbFvEP3uKNASe3oaLl8U"

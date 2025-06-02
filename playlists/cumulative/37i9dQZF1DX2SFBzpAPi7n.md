@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: The Rose\(더 로즈\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-959 songs - 2 day 10 hr 34 min
+960 songs - 2 day 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [BOCA](https://open.spotify.com/track/2u7p3Bzkv8h0Yx7w7R370n) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Dystopia : Lose Myself\]](https://open.spotify.com/album/0cDPkovaIsxLcIghyT9LKz) | 3:09 | 2023-07-31 | 2024-11-07 |
 | [BOCA](https://open.spotify.com/track/37Ctz6MOHM2thzNIOMo7Z0) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [［Dystopia : Lose Myself］](https://open.spotify.com/album/4tKKN5LO7CcTOcsSV3OmMQ) | 3:09 | 2022-04-12 | 2023-08-02 |
 | [BONVOYAGE](https://open.spotify.com/track/3Jnwl9zlbFNEqKQjydxLxe) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : From us\]](https://open.spotify.com/album/7D2DrBRs922elDgsyNrqjA) | 3:33 | 2024-06-05 | 2024-11-07 |
+| [Bonvoyage](https://open.spotify.com/track/7qreGECwKa5YDEFbeFh1UV) | [Kim Daniel](https://open.spotify.com/artist/3lr26NDbIkMbrcgwWOTSAY), [1of1](https://open.spotify.com/artist/1sGk6wUBzohfkATUg1wDIt) | [Lost in Starlight \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/6q4sOzWDO7LuVIm3UkraRn) | 4:55 | 2025-06-02 |  |
 | [bow\-wow](https://open.spotify.com/track/6Dk2MbaVTSQZPj2ZIN5ZyS) | [Lacuna](https://open.spotify.com/artist/2FDl06nCrSYpA1n9PLZfen) | [bow\-wow](https://open.spotify.com/album/1tq9UiuOW8kT9h2fOSPMPA) | 3:17 | 2024-03-21 | 2024-05-10 |
 | [Boy Comics](https://open.spotify.com/track/50yqgMpBLVqqKJsSxcFfbE) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Open ♭eta v6.1](https://open.spotify.com/album/4ek8IhAOKX6AVDPVsV6jEh) | 3:14 | 2024-06-04 | 2024-08-11 |
 | [Break the Brake](https://open.spotify.com/track/35tFDNRthpr63bVGF7G8GB) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Livelock](https://open.spotify.com/album/6wRy2dydFytIzBlEqVa5sh) | 3:20 | 2023-10-11 | 2024-03-22 |
@@ -294,7 +295,7 @@
 | [Good for you](https://open.spotify.com/track/3AkesXd1KP7jPnoaY5Zkk6) | [IGWI](https://open.spotify.com/artist/4whp4PfaJKVotmQSuMlO4U) | [Good for you](https://open.spotify.com/album/1yG6xal9h8FZD9n0yD91Do) | 3:15 | 2024-03-21 | 2024-05-10 |
 | [good memories \(Feat\. ADORA\)](https://open.spotify.com/track/213w7ByCEFekKf7zHN3wM4) | [Millionboy](https://open.spotify.com/artist/0Wuo8gMMrvWCgOgIG6zToT), [ADORA](https://open.spotify.com/artist/3M1kgHOpPruu1uBymBHF3r) | [BROKEN](https://open.spotify.com/album/3xX3GaWNCoQ6HihmaWCxFg) | 3:15 | 2025-02-10 | 2025-03-18 |
 | [Good Morning](https://open.spotify.com/track/4zXbnTwqwQcRdDILZVKZSQ) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [GOOD MORNING](https://open.spotify.com/album/1kfvY0GjQJhhDNjTpy7xOs) | 3:04 | 2024-06-05 | 2024-06-09 |
-| [goodbye](https://open.spotify.com/track/4Y6JIaZmRUYJ1SziKAmt5Z) | [JEONG SEWOON](https://open.spotify.com/artist/2l9aF9jOgB7GI1uyNkx836) | [Brut](https://open.spotify.com/album/2JiPV8SXl4Rcvh4qOAacwy) | 3:25 | 2025-05-15 |  |
+| [goodbye](https://open.spotify.com/track/4Y6JIaZmRUYJ1SziKAmt5Z) | [JEONG SEWOON](https://open.spotify.com/artist/2l9aF9jOgB7GI1uyNkx836) | [Brut](https://open.spotify.com/album/2JiPV8SXl4Rcvh4qOAacwy) | 3:25 | 2025-05-15 | 2025-06-02 |
 | [Goodbye \(Feat\. Paul Blanco\)](https://open.spotify.com/track/7qlA2Y1zPNnQxUd1BWx19x) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [ROSE](https://open.spotify.com/album/1eAn8kJlH243L4OXipRqdr) | 2:45 | 2024-06-05 | 2024-10-23 |
 | [Gradation](https://open.spotify.com/track/775S83AMYbQc8SYteOktTL) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.3 \(Gradation\)](https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG) | 3:21 | 2022-07-08 | 2024-11-07 |
 | [Gradually](https://open.spotify.com/track/2wdMvcn0OfxBislSqVFy7b) | [KEN](https://open.spotify.com/artist/08fiOzXWHTizuWGyS1dWu6) | [PUZZLE](https://open.spotify.com/album/3IyCy5reObC7anLU5t1KjZ) | 3:07 | 2025-01-02 | 2025-03-07 |

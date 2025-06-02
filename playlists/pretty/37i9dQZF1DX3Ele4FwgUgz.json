@@ -1,6 +1,6 @@
 {
   "description": "Enjoy music from \"Nijigasaki High School Idol Club\". \u00a92022 \u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u30e9\u30d6\u30e9\u30a4\u30d6\uff01\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a\n",
-  "num_followers": 18078,
+  "num_followers": 18081,
   "original_name": "Love Live! Nijigasaki High School Idol Club",
   "owner": {
     "name": "Spotify",
@@ -155,22 +155,6 @@
     {
       "added_at": "2025-05-01 14:31:51",
       "album": {
-        "name": "Butterfly / Solitude Rain / VIVID WORLD (\u8fd1\u6c5f\u5f7c\u65b9\u76e4)",
-        "url": "https://open.spotify.com/album/5FT50eiC2wHEFWfTU1DxYR"
-      },
-      "artists": [
-        {
-          "name": "\u8fd1\u6c5f\u5f7c\u65b9 (CV.\u9b3c\u982d\u660e\u91cc)",
-          "url": "https://open.spotify.com/artist/2SX8w3DHQPTBtQPMnFw0QI"
-        }
-      ],
-      "duration_ms": 216306,
-      "name": "Butterfly",
-      "url": "https://open.spotify.com/track/0CmpgRM57Uq8KOQAzKOxrq"
-    },
-    {
-      "added_at": "2025-05-01 14:31:51",
-      "album": {
         "name": "Eternal Light",
         "url": "https://open.spotify.com/album/5zkPtKjefIE5nBluB7N9vm"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 246893,
       "name": "Eternal Light",
       "url": "https://open.spotify.com/track/3uG7brmuuZ3wvajMrOf6L2"
+    },
+    {
+      "added_at": "2025-05-01 14:31:51",
+      "album": {
+        "name": "Butterfly / Solitude Rain / VIVID WORLD (\u8fd1\u6c5f\u5f7c\u65b9\u76e4)",
+        "url": "https://open.spotify.com/album/5FT50eiC2wHEFWfTU1DxYR"
+      },
+      "artists": [
+        {
+          "name": "\u8fd1\u6c5f\u5f7c\u65b9 (CV.\u9b3c\u982d\u660e\u91cc)",
+          "url": "https://open.spotify.com/artist/2SX8w3DHQPTBtQPMnFw0QI"
+        }
+      ],
+      "duration_ms": 216306,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/0CmpgRM57Uq8KOQAzKOxrq"
     },
     {
       "added_at": "2025-05-01 14:31:51",
@@ -459,22 +459,6 @@
     {
       "added_at": "2025-05-01 14:31:51",
       "album": {
-        "name": "Butterfly / Solitude Rain / VIVID WORLD (\u671d\u9999\u679c\u6797\u76e4)",
-        "url": "https://open.spotify.com/album/1BnZQYgRgHc7FbMArnUCAm"
-      },
-      "artists": [
-        {
-          "name": "\u671d\u9999\u679c\u6797 (CV.\u4e45\u4fdd\u7530\u672a\u5922)",
-          "url": "https://open.spotify.com/artist/6mGi9UIrYgzUrcrgBGQFku"
-        }
-      ],
-      "duration_ms": 275706,
-      "name": "VIVID WORLD",
-      "url": "https://open.spotify.com/track/2nsE6Ebr959B30OaevvMJI"
-    },
-    {
-      "added_at": "2025-05-01 14:31:51",
-      "album": {
         "name": "Dream with You / Poppin' Up! / DIVE! (\u4e2d\u9808\u304b\u3059\u307f\u76e4)",
         "url": "https://open.spotify.com/album/3lChyBrPhbKYt1uEL0o0ar"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 258146,
       "name": "Poppin' Up!",
       "url": "https://open.spotify.com/track/0paCkEf09T6bhSrr5ZkIEe"
+    },
+    {
+      "added_at": "2025-05-01 14:31:51",
+      "album": {
+        "name": "Butterfly / Solitude Rain / VIVID WORLD (\u671d\u9999\u679c\u6797\u76e4)",
+        "url": "https://open.spotify.com/album/1BnZQYgRgHc7FbMArnUCAm"
+      },
+      "artists": [
+        {
+          "name": "\u671d\u9999\u679c\u6797 (CV.\u4e45\u4fdd\u7530\u672a\u5922)",
+          "url": "https://open.spotify.com/artist/6mGi9UIrYgzUrcrgBGQFku"
+        }
+      ],
+      "duration_ms": 275706,
+      "name": "VIVID WORLD",
+      "url": "https://open.spotify.com/track/2nsE6Ebr959B30OaevvMJI"
     },
     {
       "added_at": "2025-05-01 14:31:51",

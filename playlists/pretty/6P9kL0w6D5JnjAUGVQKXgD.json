@@ -1,12 +1,12 @@
 {
   "description": "EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net. With: Kriss Reeve, Jackson Wang, Galantis, MK",
-  "num_followers": 47286,
+  "num_followers": 47285,
   "original_name": "EDM Top 100",
   "owner": {
     "name": "EDM Charts",
     "url": "https://open.spotify.com/user/edmcharts.net"
   },
-  "snapshot_id": "AAAH+NTVJqs8Ds+0nBOIhQHslWpvTzf3",
+  "snapshot_id": "AAAH+cJm+gNy8Vh6Bqu2Nbb4IQS5ndM/",
   "tracks": [
     {
       "added_at": "2021-07-14 08:40:04",
@@ -1313,6 +1313,26 @@
       "url": "https://open.spotify.com/track/37NZqOoR0dw71kbDCRnsKc"
     },
     {
+      "added_at": "2023-06-12 09:23:03",
+      "album": {
+        "name": "Addict",
+        "url": "https://open.spotify.com/album/5dudS3F8bE4CgRo3PmaLJd"
+      },
+      "artists": [
+        {
+          "name": "Morgan Page",
+          "url": "https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b"
+        },
+        {
+          "name": "jeonghyeon",
+          "url": "https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq"
+        }
+      ],
+      "duration_ms": 165004,
+      "name": "Addict",
+      "url": "https://open.spotify.com/track/05RC1yOB6HMqq2Q3gQb3Kb"
+    },
+    {
       "added_at": "2025-05-09 00:41:05",
       "album": {
         "name": "Comes Down",
@@ -1353,74 +1373,6 @@
       "url": "https://open.spotify.com/track/2pHphXOJZdc6NWgenTkaXd"
     },
     {
-      "added_at": "2024-07-26 00:41:03",
-      "album": {
-        "name": "Another Day In Paradise",
-        "url": "https://open.spotify.com/album/46qdwgGcHUVjHFvGuq9Ld8"
-      },
-      "artists": [
-        {
-          "name": "House Arrest",
-          "url": "https://open.spotify.com/artist/5oggarLMIMIMhyOvjzj0a6"
-        },
-        {
-          "name": "Bikini Bandits",
-          "url": "https://open.spotify.com/artist/2UJZu7S4F22tWYZ2CdsJQr"
-        },
-        {
-          "name": "Lumin8",
-          "url": "https://open.spotify.com/artist/6sVfVaXwlrK0MPkrU8EOtp"
-        }
-      ],
-      "duration_ms": 127680,
-      "name": "Another Day In Paradise",
-      "url": "https://open.spotify.com/track/0HjogmklU56Soh2HNhbWer"
-    },
-    {
-      "added_at": "2023-06-12 09:23:03",
-      "album": {
-        "name": "Addict",
-        "url": "https://open.spotify.com/album/5dudS3F8bE4CgRo3PmaLJd"
-      },
-      "artists": [
-        {
-          "name": "Morgan Page",
-          "url": "https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b"
-        },
-        {
-          "name": "jeonghyeon",
-          "url": "https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq"
-        }
-      ],
-      "duration_ms": 165004,
-      "name": "Addict",
-      "url": "https://open.spotify.com/track/05RC1yOB6HMqq2Q3gQb3Kb"
-    },
-    {
-      "added_at": "2024-09-27 00:41:03",
-      "album": {
-        "name": "Torn",
-        "url": "https://open.spotify.com/album/6ufrnLeCiplvdCyV5oNLxl"
-      },
-      "artists": [
-        {
-          "name": "Bikini Bandits",
-          "url": "https://open.spotify.com/artist/2UJZu7S4F22tWYZ2CdsJQr"
-        },
-        {
-          "name": "Lumin8",
-          "url": "https://open.spotify.com/artist/6sVfVaXwlrK0MPkrU8EOtp"
-        },
-        {
-          "name": "Evan Cole",
-          "url": "https://open.spotify.com/artist/1xmWaOWc9DJRJYZvWPG6vO"
-        }
-      ],
-      "duration_ms": 130500,
-      "name": "Torn",
-      "url": "https://open.spotify.com/track/6IrZcWFFvMF0UzUKyeUpwn"
-    },
-    {
       "added_at": "2023-06-12 09:23:03",
       "album": {
         "name": "Voices (feat. TZAR)",
@@ -1445,6 +1397,30 @@
       "url": "https://open.spotify.com/track/7aAWrDRy3T52A95bDNfdlO"
     },
     {
+      "added_at": "2024-07-26 00:41:03",
+      "album": {
+        "name": "Another Day In Paradise",
+        "url": "https://open.spotify.com/album/46qdwgGcHUVjHFvGuq9Ld8"
+      },
+      "artists": [
+        {
+          "name": "House Arrest",
+          "url": "https://open.spotify.com/artist/5oggarLMIMIMhyOvjzj0a6"
+        },
+        {
+          "name": "Bikini Bandits",
+          "url": "https://open.spotify.com/artist/2UJZu7S4F22tWYZ2CdsJQr"
+        },
+        {
+          "name": "Lumin8",
+          "url": "https://open.spotify.com/artist/6sVfVaXwlrK0MPkrU8EOtp"
+        }
+      ],
+      "duration_ms": 127680,
+      "name": "Another Day In Paradise",
+      "url": "https://open.spotify.com/track/0HjogmklU56Soh2HNhbWer"
+    },
+    {
       "added_at": "2023-06-13 09:44:03",
       "album": {
         "name": "Tell It To My Heart",
@@ -1463,6 +1439,30 @@
       "duration_ms": 165524,
       "name": "Tell It To My Heart",
       "url": "https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA"
+    },
+    {
+      "added_at": "2024-09-27 00:41:03",
+      "album": {
+        "name": "Torn",
+        "url": "https://open.spotify.com/album/6ufrnLeCiplvdCyV5oNLxl"
+      },
+      "artists": [
+        {
+          "name": "Bikini Bandits",
+          "url": "https://open.spotify.com/artist/2UJZu7S4F22tWYZ2CdsJQr"
+        },
+        {
+          "name": "Lumin8",
+          "url": "https://open.spotify.com/artist/6sVfVaXwlrK0MPkrU8EOtp"
+        },
+        {
+          "name": "Evan Cole",
+          "url": "https://open.spotify.com/artist/1xmWaOWc9DJRJYZvWPG6vO"
+        }
+      ],
+      "duration_ms": 130500,
+      "name": "Torn",
+      "url": "https://open.spotify.com/track/6IrZcWFFvMF0UzUKyeUpwn"
     },
     {
       "added_at": "2023-06-13 09:44:03",
@@ -1541,26 +1541,6 @@
       "url": "https://open.spotify.com/track/7hSTXrC5oAMss4LTPbbkua"
     },
     {
-      "added_at": "2024-07-26 00:41:03",
-      "album": {
-        "name": "Jungle",
-        "url": "https://open.spotify.com/album/6mU3Tduq9a0Cd8ZIVXoeSg"
-      },
-      "artists": [
-        {
-          "name": "Dualh\u00ef",
-          "url": "https://open.spotify.com/artist/4HzQLZAdLvGvyqVhhJ5CW6"
-        },
-        {
-          "name": "JandB",
-          "url": "https://open.spotify.com/artist/4jN5GS2qlp50fhNUrrLrkA"
-        }
-      ],
-      "duration_ms": 150447,
-      "name": "Jungle",
-      "url": "https://open.spotify.com/track/0DqooBsYdHc3QajIX0c6op"
-    },
-    {
       "added_at": "2023-06-13 09:44:03",
       "album": {
         "name": "Looking For",
@@ -1601,20 +1581,24 @@
       "url": "https://open.spotify.com/track/6pCXsuImno3nrSrop3BPMd"
     },
     {
-      "added_at": "2025-03-21 00:41:04",
+      "added_at": "2024-07-26 00:41:03",
       "album": {
-        "name": "Be On Your Mind",
-        "url": "https://open.spotify.com/album/25nGGtZvIcDsOHllzw262i"
+        "name": "Jungle",
+        "url": "https://open.spotify.com/album/6mU3Tduq9a0Cd8ZIVXoeSg"
       },
       "artists": [
         {
-          "name": "Luis Elba",
-          "url": "https://open.spotify.com/artist/1DA4e1dx0O1N10b3bw18Le"
+          "name": "Dualh\u00ef",
+          "url": "https://open.spotify.com/artist/4HzQLZAdLvGvyqVhhJ5CW6"
+        },
+        {
+          "name": "JandB",
+          "url": "https://open.spotify.com/artist/4jN5GS2qlp50fhNUrrLrkA"
         }
       ],
-      "duration_ms": 195000,
-      "name": "Be On Your Mind",
-      "url": "https://open.spotify.com/track/4cNbpYE2fBcU0ZaO7Xlfu3"
+      "duration_ms": 150447,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/0DqooBsYdHc3QajIX0c6op"
     },
     {
       "added_at": "2023-06-13 09:44:03",
@@ -1635,30 +1619,6 @@
       "duration_ms": 244235,
       "name": "All That Really Matters",
       "url": "https://open.spotify.com/track/5zviMoAeuerK1Rd58qXASv"
-    },
-    {
-      "added_at": "2024-10-12 00:41:03",
-      "album": {
-        "name": "Forever Young",
-        "url": "https://open.spotify.com/album/6qDfGJiAVOqKaOJ8HIssmy"
-      },
-      "artists": [
-        {
-          "name": "Coral Reef",
-          "url": "https://open.spotify.com/artist/2Ia6l1oSkQazPGlu5AF8CT"
-        },
-        {
-          "name": "Emily Dawn",
-          "url": "https://open.spotify.com/artist/3szjlSC8nI6mZ5wOdeNmwc"
-        },
-        {
-          "name": "Alex Grey",
-          "url": "https://open.spotify.com/artist/1AAK1j4h0H8pdz4kzW2Bzf"
-        }
-      ],
-      "duration_ms": 173610,
-      "name": "Forever Young",
-      "url": "https://open.spotify.com/track/3bSQhzEakXK108UasRWP4t"
     },
     {
       "added_at": "2023-06-13 09:44:03",
@@ -1685,6 +1645,22 @@
       "url": "https://open.spotify.com/track/3HcKOzkBdZaOnmOJCFZ0gv"
     },
     {
+      "added_at": "2025-03-21 00:41:04",
+      "album": {
+        "name": "Be On Your Mind",
+        "url": "https://open.spotify.com/album/25nGGtZvIcDsOHllzw262i"
+      },
+      "artists": [
+        {
+          "name": "Luis Elba",
+          "url": "https://open.spotify.com/artist/1DA4e1dx0O1N10b3bw18Le"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Be On Your Mind",
+      "url": "https://open.spotify.com/track/4cNbpYE2fBcU0ZaO7Xlfu3"
+    },
+    {
       "added_at": "2023-06-12 09:23:03",
       "album": {
         "name": "Ready For You (feat. Celeste)",
@@ -1703,6 +1679,30 @@
       "duration_ms": 268886,
       "name": "Ready For You (feat. Celeste)",
       "url": "https://open.spotify.com/track/3xJMfoI7ApSNE2XYEsJ9z9"
+    },
+    {
+      "added_at": "2024-10-12 00:41:03",
+      "album": {
+        "name": "Forever Young",
+        "url": "https://open.spotify.com/album/6qDfGJiAVOqKaOJ8HIssmy"
+      },
+      "artists": [
+        {
+          "name": "Coral Reef",
+          "url": "https://open.spotify.com/artist/2Ia6l1oSkQazPGlu5AF8CT"
+        },
+        {
+          "name": "Emily Dawn",
+          "url": "https://open.spotify.com/artist/3szjlSC8nI6mZ5wOdeNmwc"
+        },
+        {
+          "name": "Alex Grey",
+          "url": "https://open.spotify.com/artist/1AAK1j4h0H8pdz4kzW2Bzf"
+        }
+      ],
+      "duration_ms": 173610,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/3bSQhzEakXK108UasRWP4t"
     },
     {
       "added_at": "2023-06-12 09:23:03",
@@ -1745,26 +1745,6 @@
       "url": "https://open.spotify.com/track/133YafRPaKLYCR28FSbN4M"
     },
     {
-      "added_at": "2024-05-31 00:41:04",
-      "album": {
-        "name": "Kaleidoscope",
-        "url": "https://open.spotify.com/album/4JwpOWvno7gw5ielxFne6P"
-      },
-      "artists": [
-        {
-          "name": "Deepend",
-          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
-        },
-        {
-          "name": "Simon Ward",
-          "url": "https://open.spotify.com/artist/2yi9c8OXkt7PrwbBFOMgjP"
-        }
-      ],
-      "duration_ms": 129229,
-      "name": "Kaleidoscope",
-      "url": "https://open.spotify.com/track/47ij2z59LpBuxx1ixMjcMW"
-    },
-    {
       "added_at": "2023-06-13 09:44:03",
       "album": {
         "name": "Stay the Night",
@@ -1805,24 +1785,24 @@
       "url": "https://open.spotify.com/track/3IXBadXz4oaYZCuJNwHDFD"
     },
     {
-      "added_at": "2025-01-25 00:40:06",
+      "added_at": "2024-05-31 00:41:04",
       "album": {
-        "name": "Sing For You",
-        "url": "https://open.spotify.com/album/0sdZF5VDA4eO5oaCqQKi5g"
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/4JwpOWvno7gw5ielxFne6P"
       },
       "artists": [
         {
-          "name": "DJ Vafa",
-          "url": "https://open.spotify.com/artist/3C4Io0FyQCso4sHefhmOjW"
+          "name": "Deepend",
+          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
         },
         {
-          "name": "SHERLY",
-          "url": "https://open.spotify.com/artist/1Gt4Tn65vh3YltkwDpdx5m"
+          "name": "Simon Ward",
+          "url": "https://open.spotify.com/artist/2yi9c8OXkt7PrwbBFOMgjP"
         }
       ],
-      "duration_ms": 145365,
-      "name": "Sing For You",
-      "url": "https://open.spotify.com/track/4lU2TAQPbbu2wg0QwgCRzk"
+      "duration_ms": 129229,
+      "name": "Kaleidoscope",
+      "url": "https://open.spotify.com/track/47ij2z59LpBuxx1ixMjcMW"
     },
     {
       "added_at": "2023-06-13 09:44:03",
@@ -1843,30 +1823,6 @@
       "duration_ms": 182400,
       "name": "2AM (feat. Carla Monroe)",
       "url": "https://open.spotify.com/track/2dh6Pnl5egc1FrQS6EsW4n"
-    },
-    {
-      "added_at": "2024-06-14 00:41:07",
-      "album": {
-        "name": "I Can\u2019t Dance",
-        "url": "https://open.spotify.com/album/5ks5YNCy4xt600DFGdwFtu"
-      },
-      "artists": [
-        {
-          "name": "Bikini Bandits",
-          "url": "https://open.spotify.com/artist/2UJZu7S4F22tWYZ2CdsJQr"
-        },
-        {
-          "name": "House Arrest",
-          "url": "https://open.spotify.com/artist/5oggarLMIMIMhyOvjzj0a6"
-        },
-        {
-          "name": "Lumin8",
-          "url": "https://open.spotify.com/artist/6sVfVaXwlrK0MPkrU8EOtp"
-        }
-      ],
-      "duration_ms": 138281,
-      "name": "I Can't Dance",
-      "url": "https://open.spotify.com/track/3Ra6eBlrI8mzpq3DP8cdZv"
     },
     {
       "added_at": "2023-06-13 09:44:03",
@@ -1893,6 +1849,26 @@
       "url": "https://open.spotify.com/track/2SHKnOAz5CbUYhyxipfWr9"
     },
     {
+      "added_at": "2025-01-25 00:40:06",
+      "album": {
+        "name": "Sing For You",
+        "url": "https://open.spotify.com/album/0sdZF5VDA4eO5oaCqQKi5g"
+      },
+      "artists": [
+        {
+          "name": "DJ Vafa",
+          "url": "https://open.spotify.com/artist/3C4Io0FyQCso4sHefhmOjW"
+        },
+        {
+          "name": "SHERLY",
+          "url": "https://open.spotify.com/artist/1Gt4Tn65vh3YltkwDpdx5m"
+        }
+      ],
+      "duration_ms": 145365,
+      "name": "Sing For You",
+      "url": "https://open.spotify.com/track/4lU2TAQPbbu2wg0QwgCRzk"
+    },
+    {
       "added_at": "2023-06-13 09:44:03",
       "album": {
         "name": "Turn Up This Song",
@@ -1907,6 +1883,30 @@
       "duration_ms": 176428,
       "name": "Turn Up This Song",
       "url": "https://open.spotify.com/track/1KqKhJwTqCyTAv96ON05mL"
+    },
+    {
+      "added_at": "2024-06-14 00:41:07",
+      "album": {
+        "name": "I Can\u2019t Dance",
+        "url": "https://open.spotify.com/album/5ks5YNCy4xt600DFGdwFtu"
+      },
+      "artists": [
+        {
+          "name": "Bikini Bandits",
+          "url": "https://open.spotify.com/artist/2UJZu7S4F22tWYZ2CdsJQr"
+        },
+        {
+          "name": "House Arrest",
+          "url": "https://open.spotify.com/artist/5oggarLMIMIMhyOvjzj0a6"
+        },
+        {
+          "name": "Lumin8",
+          "url": "https://open.spotify.com/artist/6sVfVaXwlrK0MPkrU8EOtp"
+        }
+      ],
+      "duration_ms": 138281,
+      "name": "I Can't Dance",
+      "url": "https://open.spotify.com/track/3Ra6eBlrI8mzpq3DP8cdZv"
     },
     {
       "added_at": "2024-11-01 00:41:04",
@@ -1949,26 +1949,6 @@
       "url": "https://open.spotify.com/track/3FWPoYBDserKdzcattMFGa"
     },
     {
-      "added_at": "2025-01-17 00:41:04",
-      "album": {
-        "name": "Desire",
-        "url": "https://open.spotify.com/album/6BCX7pbQj8KlErxVQhQnTN"
-      },
-      "artists": [
-        {
-          "name": "Dj Aaron Kennedy",
-          "url": "https://open.spotify.com/artist/0fqmjkXQOzhBaAQD5z7fYA"
-        },
-        {
-          "name": "Jake Price",
-          "url": "https://open.spotify.com/artist/6VCli4oQje8rj6MWLkuF24"
-        }
-      ],
-      "duration_ms": 150454,
-      "name": "Desire",
-      "url": "https://open.spotify.com/track/1E2NRaY9MvhHUVHnR3mwU4"
-    },
-    {
       "added_at": "2024-11-17 00:41:03",
       "album": {
         "name": "Heaven On My Mind (with Sigala)",
@@ -2007,6 +1987,26 @@
       "duration_ms": 173548,
       "name": "All My Friends - Eden Prince Remix",
       "url": "https://open.spotify.com/track/5WaXMQMlQpq8pwIdaFP43L"
+    },
+    {
+      "added_at": "2025-01-17 00:41:04",
+      "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/6BCX7pbQj8KlErxVQhQnTN"
+      },
+      "artists": [
+        {
+          "name": "Dj Aaron Kennedy",
+          "url": "https://open.spotify.com/artist/0fqmjkXQOzhBaAQD5z7fYA"
+        },
+        {
+          "name": "Jake Price",
+          "url": "https://open.spotify.com/artist/6VCli4oQje8rj6MWLkuF24"
+        }
+      ],
+      "duration_ms": 150454,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/1E2NRaY9MvhHUVHnR3mwU4"
     },
     {
       "added_at": "2024-11-25 00:44:03",

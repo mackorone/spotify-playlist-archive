@@ -2,7 +2,7 @@
 
 ### [Transcend](https://open.spotify.com/playlist/37i9dQZF1DWViyN2b86Qnu)
 
-> <a href="http://spotify.com/transvisibility">Take action to support the transgender community.</a> Cover: Beverly Glenn\-Copeland, Sam Smith
+> Incredible tracks from trans, non\-binary, and gender\-fluid artists\. Cover: Beverly Glenn\-Copeland, Sam Smith
 
 307 songs - 17 hr 26 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,647 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,686 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 10 | [Senta e Cala a Boca](https://open.spotify.com/track/2ZrC9CTs01XkbFPtLbpHzl) | [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW), [DJ JHOW BEATS](https://open.spotify.com/artist/4CpxOMOqIfPQmEet9UnWhe) | [Senta e Cala a Boca](https://open.spotify.com/album/4jVks4nygkGdhyMXI99dRG) | 2:27 |
 | 11 | [Saudade Proibida \- Ao Vivo](https://open.spotify.com/track/40WZQRA3T6WZFIgskIAAz7) | [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Saudade Proibida \(Ao Vivo\)](https://open.spotify.com/album/0dBMGKZldtmOrLaF2h5jSa) | 2:40 |
 | 12 | [Mãe Solteira](https://open.spotify.com/track/4Hk1gmBr2KVEXr3hHwSgUi) | [DG e Batidão Stronda](https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ), [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo), [J\. Eskine](https://open.spotify.com/artist/4gKSUeHW82tGBeJsJSB1JC), [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6) | [Mãe Solteira](https://open.spotify.com/album/0RENSklQU2BMSY42Qgok0y) | 2:24 |
-| 13 | [Pirocada Quente](https://open.spotify.com/track/2Z1DmmPWD3Lm0dWAxMfjxG) | [MC Jvila](https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO), [Mc Negão Original](https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP), [DJ Dael](https://open.spotify.com/artist/2A3i7OnSUdZB3FXX5Qv3Wp) | [Pirocada Quente](https://open.spotify.com/album/1KhJdFsGysry0ClG5S8t16) | 3:15 |
+| 13 | [Pirocada Quente](https://open.spotify.com/track/2Z1DmmPWD3Lm0dWAxMfjxG) | [MC Jvila](https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO), [Mc Negão Original](https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP), [DJ Dael](https://open.spotify.com/artist/2A3i7OnSUdZB3FXX5Qv3Wp), [DJ Guh Mix](https://open.spotify.com/artist/3zG4hHVlA4xIX5jwvOa2KD) | [Pirocada Quente](https://open.spotify.com/album/1KhJdFsGysry0ClG5S8t16) | 3:15 |
 | 14 | [FAMOSINHA](https://open.spotify.com/track/5Nj2UVsxXAvhfYNpcre3al) | [Dj Caio Vieira](https://open.spotify.com/artist/4Kv35Xnw1ODjO2nIHLhdBY), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC) | [FAMOSINHA](https://open.spotify.com/album/1hOcmOgX024gR2IkB7Xg26) | 2:12 |
 | 15 | [Cara da Serenata \- Live](https://open.spotify.com/track/3vpmGewnBcIfbm252E3Xx8) | [Luccas & Rodrigo](https://open.spotify.com/artist/76FeGERn9sCv607gktNjQh), [Vitor e Luan](https://open.spotify.com/artist/5hDZAExrfOVqKBLS8Ofyac) | [Cara da Serenata \(Live\)](https://open.spotify.com/album/1YqY9DLfFigKwnM8UCEoL9) | 2:14 |
 | 16 | [Saudade Burra \- Ao Vivo](https://open.spotify.com/track/3M4HJl7D77l86gL1QXGJHG) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Transcende \(Ao Vivo\)](https://open.spotify.com/album/7LgfD3r1bBvKvt3GFRlU6l) | 2:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [MTG NA IMAGINAÇÃO \- TOPO SESSIONS VOL\. 1](https://open.spotify.com/track/4jUZymsR3lkia9wkP0o9cX) | [DJ TOPO](https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP), [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3) | [MTG NA IMAGINAÇÃO \(TOPO SESSIONS VOL\. 1\)](https://open.spotify.com/album/0jMhgDRoYlzzqIM407XCPk) | 2:24 |
 | 50 | [Kamasutra \- Ao Vivo](https://open.spotify.com/track/48tyRFRqsKTYnViVA1XOk9) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Transcende \(Ao Vivo\)](https://open.spotify.com/album/7LgfD3r1bBvKvt3GFRlU6l) | 2:33 |
 
-Snapshot ID: `L856AAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L8/G0AAAAAAAAAAAAAAAAAAAAAAAAGVu`

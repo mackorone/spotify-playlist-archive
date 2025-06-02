@@ -1,6 +1,6 @@
 {
   "description": "The biggest rock artists in Japan right now!  Cover: HANABIE. \u82b1\u51b7\u3048\u3002",
-  "num_followers": 296938,
+  "num_followers": 296951,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2025-05-28 07:46:49",
       "album": {
-        "name": "\u30b7\u30a7\u30fc\u30c9\u306e\u57c3\u306f\u5ef6\u9577",
-        "url": "https://open.spotify.com/album/1O7CgTorM9nD4Uf9uqeffJ"
-      },
-      "artists": [
-        {
-          "name": "ZUTOMAYO",
-          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "\u30b7\u30a7\u30fc\u30c9\u306e\u57c3\u306f\u5ef6\u9577",
-      "url": "https://open.spotify.com/track/3fPilEQed9XCVEMHqvXsmg"
-    },
-    {
-      "added_at": "2025-05-28 07:46:49",
-      "album": {
         "name": "\u7f8e\u3057\u3044\u9c2d",
         "url": "https://open.spotify.com/album/5npmI7gA2KMh68DwRjNSj9"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 209777,
       "name": "\u7f8e\u3057\u3044\u9c2d",
       "url": "https://open.spotify.com/track/3RauRsiIxUOQTS8h9sVWcP"
+    },
+    {
+      "added_at": "2025-05-28 07:46:49",
+      "album": {
+        "name": "\u30b7\u30a7\u30fc\u30c9\u306e\u57c3\u306f\u5ef6\u9577",
+        "url": "https://open.spotify.com/album/1O7CgTorM9nD4Uf9uqeffJ"
+      },
+      "artists": [
+        {
+          "name": "ZUTOMAYO",
+          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "\u30b7\u30a7\u30fc\u30c9\u306e\u57c3\u306f\u5ef6\u9577",
+      "url": "https://open.spotify.com/track/3fPilEQed9XCVEMHqvXsmg"
     },
     {
       "added_at": "2025-05-28 07:46:49",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2025-05-28 07:46:49",
       "album": {
-        "name": "\u8d85\u3048\u308b",
-        "url": "https://open.spotify.com/album/1cxtxEcH2IIboiHWYYALoE"
-      },
-      "artists": [
-        {
-          "name": "[Alexandros]",
-          "url": "https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI"
-        }
-      ],
-      "duration_ms": 242433,
-      "name": "\u8d85\u3048\u308b",
-      "url": "https://open.spotify.com/track/1TH4Kmyu3QPe2J2BAe18FP"
-    },
-    {
-      "added_at": "2025-05-28 07:46:49",
-      "album": {
         "name": "\u7b2c\u30bc\u30ed\u611f",
         "url": "https://open.spotify.com/album/7hUGSAApToftQu366lqPVf"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 287991,
       "name": "\u7b2c\u30bc\u30ed\u611f",
       "url": "https://open.spotify.com/track/3GGOKTfxgyluPvAFnB30zE"
+    },
+    {
+      "added_at": "2025-05-28 07:46:49",
+      "album": {
+        "name": "\u8d85\u3048\u308b",
+        "url": "https://open.spotify.com/album/1cxtxEcH2IIboiHWYYALoE"
+      },
+      "artists": [
+        {
+          "name": "[Alexandros]",
+          "url": "https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI"
+        }
+      ],
+      "duration_ms": 242433,
+      "name": "\u8d85\u3048\u308b",
+      "url": "https://open.spotify.com/track/1TH4Kmyu3QPe2J2BAe18FP"
     },
     {
       "added_at": "2025-05-28 07:46:49",

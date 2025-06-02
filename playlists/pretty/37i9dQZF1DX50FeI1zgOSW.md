@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50FeI1zgOSW.md) - [plain]
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Bebhumika
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,092 likes - 71 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,096 likes - 71 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

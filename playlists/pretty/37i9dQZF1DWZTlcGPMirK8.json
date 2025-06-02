@@ -1,6 +1,6 @@
 {
   "description": "The biggest pop hits to come from the land down under.",
-  "num_followers": 70743,
+  "num_followers": 70746,
   "original_name": "Aussie Pop Classics",
   "owner": {
     "name": "Spotify",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Blue Planet Eyes",
-        "url": "https://open.spotify.com/album/3JxzIkZt1ttKx2Xr0J0w7l"
-      },
-      "artists": [
-        {
-          "name": "The Preatures",
-          "url": "https://open.spotify.com/artist/5gcDZA9xXCOspWgQilUYIu"
-        }
-      ],
-      "duration_ms": 214093,
-      "name": "Is This How You Feel?",
-      "url": "https://open.spotify.com/track/3OIKgKNUt87GHz8OmmHZop"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "Fresh",
         "url": "https://open.spotify.com/album/4wjFfawmUFFk9INKJnnn0o"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 203120,
       "name": "Ooh Aah...Just a Little Bit - Motiv8 Radio Edit",
       "url": "https://open.spotify.com/track/7kyMLaXepcGHIrsLqoiTB8"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "Blue Planet Eyes",
+        "url": "https://open.spotify.com/album/3JxzIkZt1ttKx2Xr0J0w7l"
+      },
+      "artists": [
+        {
+          "name": "The Preatures",
+          "url": "https://open.spotify.com/artist/5gcDZA9xXCOspWgQilUYIu"
+        }
+      ],
+      "duration_ms": 214093,
+      "name": "Is This How You Feel?",
+      "url": "https://open.spotify.com/track/3OIKgKNUt87GHz8OmmHZop"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Thirty One",
-        "url": "https://open.spotify.com/album/4kZKz4ZQCnuKWV6MqOR2H2"
-      },
-      "artists": [
-        {
-          "name": "Jarryd James",
-          "url": "https://open.spotify.com/artist/23IZADrJHPStZ6aMxJVq3s"
-        }
-      ],
-      "duration_ms": 234866,
-      "name": "Do You Remember",
-      "url": "https://open.spotify.com/track/5V53dAjgNInfXNlz2cryvd"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "Perennial",
         "url": "https://open.spotify.com/album/735RlBqveqycIrQgyld7JK"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 208146,
       "name": "Regular Touch",
       "url": "https://open.spotify.com/track/2qiYw6eNM2rwv2vgtzH5o5"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "Thirty One",
+        "url": "https://open.spotify.com/album/4kZKz4ZQCnuKWV6MqOR2H2"
+      },
+      "artists": [
+        {
+          "name": "Jarryd James",
+          "url": "https://open.spotify.com/artist/23IZADrJHPStZ6aMxJVq3s"
+        }
+      ],
+      "duration_ms": 234866,
+      "name": "Do You Remember",
+      "url": "https://open.spotify.com/track/5V53dAjgNInfXNlz2cryvd"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/6FTq1YhYJLetfJQrq02gdv"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 238266,
-      "name": "Love at First Sight",
-      "url": "https://open.spotify.com/track/26muNwMlZGvB2kEq41ZlDX"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "Whispering Jack",
         "url": "https://open.spotify.com/album/4cBfyeNYbJAmOq0sl3Hijd"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 184040,
       "name": "The Fighter",
       "url": "https://open.spotify.com/track/7EAFj7eJcMF5koWSRJVZcL"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/6FTq1YhYJLetfJQrq02gdv"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 238266,
+      "name": "Love at First Sight",
+      "url": "https://open.spotify.com/track/26muNwMlZGvB2kEq41ZlDX"
     }
   ],
   "unique_name": "Aussie Pop Classics",

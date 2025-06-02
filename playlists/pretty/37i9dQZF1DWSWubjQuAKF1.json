@@ -1,6 +1,6 @@
 {
   "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: pszona",
-  "num_followers": 23022,
+  "num_followers": 23021,
   "original_name": "up next",
   "owner": {
     "name": "Spotify",
@@ -175,22 +175,6 @@
     {
       "added_at": "2025-05-29 22:00:42",
       "album": {
-        "name": "a little bit",
-        "url": "https://open.spotify.com/album/23NFYz0ppzxQJCI67Hd08n"
-      },
-      "artists": [
-        {
-          "name": "Ella Boh",
-          "url": "https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11"
-        }
-      ],
-      "duration_ms": 165408,
-      "name": "a little bit",
-      "url": "https://open.spotify.com/track/1Hbyh9JfAmbA9WlleNAtz2"
-    },
-    {
-      "added_at": "2025-05-29 22:00:42",
-      "album": {
         "name": "Chemical Reaction",
         "url": "https://open.spotify.com/album/5aCO10dxpRi1HiMtSyMaDC"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 198778,
       "name": "Chemical Reaction",
       "url": "https://open.spotify.com/track/7AAcT7MunkAjHyk9Abg774"
+    },
+    {
+      "added_at": "2025-05-29 22:00:42",
+      "album": {
+        "name": "a little bit",
+        "url": "https://open.spotify.com/album/23NFYz0ppzxQJCI67Hd08n"
+      },
+      "artists": [
+        {
+          "name": "Ella Boh",
+          "url": "https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11"
+        }
+      ],
+      "duration_ms": 165408,
+      "name": "a little bit",
+      "url": "https://open.spotify.com/track/1Hbyh9JfAmbA9WlleNAtz2"
     },
     {
       "added_at": "2025-05-29 22:00:42",
@@ -239,22 +239,6 @@
     {
       "added_at": "2025-05-29 22:00:42",
       "album": {
-        "name": "I\u2019ve seen ur ex",
-        "url": "https://open.spotify.com/album/5zumfHJnOknVV1xNWhUF54"
-      },
-      "artists": [
-        {
-          "name": "flowerovlove",
-          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
-        }
-      ],
-      "duration_ms": 207874,
-      "name": "I\u2019ve seen ur ex",
-      "url": "https://open.spotify.com/track/5NsCrja8hjnneu6sqQld2j"
-    },
-    {
-      "added_at": "2025-05-29 22:00:42",
-      "album": {
         "name": "Daydreaming",
         "url": "https://open.spotify.com/album/42vQ4SVYUBt7MZN2j2ZB14"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 199357,
       "name": "Daydreaming",
       "url": "https://open.spotify.com/track/68P2Y5cUBxwDfneL8cFJJ4"
+    },
+    {
+      "added_at": "2025-05-29 22:00:42",
+      "album": {
+        "name": "I\u2019ve seen ur ex",
+        "url": "https://open.spotify.com/album/5zumfHJnOknVV1xNWhUF54"
+      },
+      "artists": [
+        {
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+        }
+      ],
+      "duration_ms": 207874,
+      "name": "I\u2019ve seen ur ex",
+      "url": "https://open.spotify.com/track/5NsCrja8hjnneu6sqQld2j"
     },
     {
       "added_at": "2025-05-29 22:00:42",
@@ -303,22 +303,6 @@
     {
       "added_at": "2025-05-29 22:00:42",
       "album": {
-        "name": "Gorset",
-        "url": "https://open.spotify.com/album/0qpw7taZ590do6gljRq0Zb"
-      },
-      "artists": [
-        {
-          "name": "Julia Rocka",
-          "url": "https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN"
-        }
-      ],
-      "duration_ms": 163013,
-      "name": "Siostra",
-      "url": "https://open.spotify.com/track/6tqLDvntpOCReWMz5iujGx"
-    },
-    {
-      "added_at": "2025-05-29 22:00:42",
-      "album": {
         "name": "Oj, dziewczyno!",
         "url": "https://open.spotify.com/album/2W9qJtY9eFjT5P2iJpbUqw"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 158268,
       "name": "Oj, dziewczyno!",
       "url": "https://open.spotify.com/track/4962ajMOnZSbhN80G0Ogk4"
+    },
+    {
+      "added_at": "2025-05-29 22:00:42",
+      "album": {
+        "name": "Gorset",
+        "url": "https://open.spotify.com/album/0qpw7taZ590do6gljRq0Zb"
+      },
+      "artists": [
+        {
+          "name": "Julia Rocka",
+          "url": "https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN"
+        }
+      ],
+      "duration_ms": 163013,
+      "name": "Siostra",
+      "url": "https://open.spotify.com/track/6tqLDvntpOCReWMz5iujGx"
     },
     {
       "added_at": "2025-05-29 22:00:42",
@@ -751,18 +751,18 @@
     {
       "added_at": "2025-05-29 22:00:42",
       "album": {
-        "name": "U Want Me Anyway",
-        "url": "https://open.spotify.com/album/1voy9mRdneNwKnaBgIjLh4"
+        "name": "Plot Twist",
+        "url": "https://open.spotify.com/album/4j88MgnY8SnxwQYncvsSOX"
       },
       "artists": [
         {
-          "name": "Dani Marchio",
-          "url": "https://open.spotify.com/artist/2lbntvM1QPq5hj4x3HO1dT"
+          "name": "dezydery",
+          "url": "https://open.spotify.com/artist/0fdWtNx0iazarVEaQ30VEE"
         }
       ],
-      "duration_ms": 200323,
-      "name": "U Want Me Anyway",
-      "url": "https://open.spotify.com/track/2NZpYLv014p6rfl2CYxDX6"
+      "duration_ms": 222222,
+      "name": "Plot Twist",
+      "url": "https://open.spotify.com/track/5LYMiqTgWew8ycVe0J6nCE"
     },
     {
       "added_at": "2025-05-29 22:00:42",
@@ -787,18 +787,18 @@
     {
       "added_at": "2025-05-29 22:00:42",
       "album": {
-        "name": "Plot Twist",
-        "url": "https://open.spotify.com/album/4j88MgnY8SnxwQYncvsSOX"
+        "name": "U Want Me Anyway",
+        "url": "https://open.spotify.com/album/1voy9mRdneNwKnaBgIjLh4"
       },
       "artists": [
         {
-          "name": "dezydery",
-          "url": "https://open.spotify.com/artist/0fdWtNx0iazarVEaQ30VEE"
+          "name": "Dani Marchio",
+          "url": "https://open.spotify.com/artist/2lbntvM1QPq5hj4x3HO1dT"
         }
       ],
-      "duration_ms": 222222,
-      "name": "Plot Twist",
-      "url": "https://open.spotify.com/track/5LYMiqTgWew8ycVe0J6nCE"
+      "duration_ms": 200323,
+      "name": "U Want Me Anyway",
+      "url": "https://open.spotify.com/track/2NZpYLv014p6rfl2CYxDX6"
     },
     {
       "added_at": "2025-05-29 22:00:42",
@@ -903,22 +903,6 @@
     {
       "added_at": "2025-05-29 22:00:42",
       "album": {
-        "name": "Udawaj do rana",
-        "url": "https://open.spotify.com/album/4exck6h9MiotcqH2gtfZdT"
-      },
-      "artists": [
-        {
-          "name": "Daliva",
-          "url": "https://open.spotify.com/artist/57IyKKJVTloFrwrTBnnqGA"
-        }
-      ],
-      "duration_ms": 198400,
-      "name": "Udawaj do rana",
-      "url": "https://open.spotify.com/track/45cgD7UmeKuW1mhwSQ8we6"
-    },
-    {
-      "added_at": "2025-05-29 22:00:42",
-      "album": {
         "name": "Pretty Woman",
         "url": "https://open.spotify.com/album/53ycyfvHxlw27C0dmfi2PW"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 166607,
       "name": "Pretty Woman",
       "url": "https://open.spotify.com/track/3lw7lnqS2cNgrMEZeEzQ7W"
+    },
+    {
+      "added_at": "2025-05-29 22:00:42",
+      "album": {
+        "name": "Udawaj do rana",
+        "url": "https://open.spotify.com/album/4exck6h9MiotcqH2gtfZdT"
+      },
+      "artists": [
+        {
+          "name": "Daliva",
+          "url": "https://open.spotify.com/artist/57IyKKJVTloFrwrTBnnqGA"
+        }
+      ],
+      "duration_ms": 198400,
+      "name": "Udawaj do rana",
+      "url": "https://open.spotify.com/track/45cgD7UmeKuW1mhwSQ8we6"
     },
     {
       "added_at": "2025-05-29 22:00:42",
@@ -1003,38 +1003,6 @@
     {
       "added_at": "2025-05-29 22:00:42",
       "album": {
-        "name": "pod kinem ars/krak\u00f3w",
-        "url": "https://open.spotify.com/album/4fFszLQ6PT9KjKAX22VKmP"
-      },
-      "artists": [
-        {
-          "name": "ada\u015b.",
-          "url": "https://open.spotify.com/artist/63Zfzws3zct6H4L21p9WBT"
-        }
-      ],
-      "duration_ms": 159529,
-      "name": "pod kinem ars",
-      "url": "https://open.spotify.com/track/34OjdDC2suHiBcou6MvCJ2"
-    },
-    {
-      "added_at": "2025-05-29 22:00:42",
-      "album": {
-        "name": "Minie jesie\u0144",
-        "url": "https://open.spotify.com/album/0WfjjNuG4XCydHH1VcWI74"
-      },
-      "artists": [
-        {
-          "name": "Mlecze",
-          "url": "https://open.spotify.com/artist/5lCEddkyXfytjFWsUlviEo"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Minie jesie\u0144",
-      "url": "https://open.spotify.com/track/53ieaetpKRfYklvJcGVnel"
-    },
-    {
-      "added_at": "2025-05-29 22:00:42",
-      "album": {
         "name": "Koszta",
         "url": "https://open.spotify.com/album/2P0Pu9V0kckJStlQsbPRM4"
       },
@@ -1059,6 +1027,22 @@
     {
       "added_at": "2025-05-29 22:00:42",
       "album": {
+        "name": "Minie jesie\u0144",
+        "url": "https://open.spotify.com/album/0WfjjNuG4XCydHH1VcWI74"
+      },
+      "artists": [
+        {
+          "name": "Mlecze",
+          "url": "https://open.spotify.com/artist/5lCEddkyXfytjFWsUlviEo"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Minie jesie\u0144",
+      "url": "https://open.spotify.com/track/53ieaetpKRfYklvJcGVnel"
+    },
+    {
+      "added_at": "2025-05-29 22:00:42",
+      "album": {
         "name": "Za p\u00f3\u017ano",
         "url": "https://open.spotify.com/album/17EBVVMzPBjUBBVj2KoX3T"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 173949,
       "name": "Za p\u00f3\u017ano",
       "url": "https://open.spotify.com/track/1Y2dOi6L9PGNzRTbX9HYtB"
+    },
+    {
+      "added_at": "2025-05-29 22:00:42",
+      "album": {
+        "name": "pod kinem ars/krak\u00f3w",
+        "url": "https://open.spotify.com/album/4fFszLQ6PT9KjKAX22VKmP"
+      },
+      "artists": [
+        {
+          "name": "ada\u015b.",
+          "url": "https://open.spotify.com/artist/63Zfzws3zct6H4L21p9WBT"
+        }
+      ],
+      "duration_ms": 159529,
+      "name": "pod kinem ars",
+      "url": "https://open.spotify.com/track/34OjdDC2suHiBcou6MvCJ2"
     },
     {
       "added_at": "2025-05-29 22:00:42",

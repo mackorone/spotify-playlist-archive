@@ -1438,6 +1438,24 @@
     {
       "album": {
         "name": "Solo Un Eco",
+        "url": "https://open.spotify.com/album/5UHNIjot3Su72sWvuuy0WH"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "date_added": "2025-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285117,
+      "name": "Solo Un Eco",
+      "url": "https://open.spotify.com/track/4SBZcKzK0Vhat4I6u1ogXh"
+    },
+    {
+      "album": {
+        "name": "Solo Un Eco",
         "url": "https://open.spotify.com/album/5gZfKeS7i3RaNBrjn5Dbl0"
       },
       "artists": [
@@ -1448,7 +1466,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-02",
       "duration_ms": 285117,
       "name": "Solo Un Eco",
       "url": "https://open.spotify.com/track/4hWmuhICX1vxZOL1y8vYe4"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Cvrlm.md) - [plain]
 
 > This is George Michael\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 586,820 likes - 50 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 586,891 likes - 50 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Cvrlm.md) - [plain]
 | 45 | [Fastlove, Pt\. 2](https://open.spotify.com/track/1hiD0mZuxn7gv4HpQVeO1w) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Older + Upper](https://open.spotify.com/album/0Vw6FmuN5pWZQbW5ztqOfk) | 4:55 |
 | 46 | [All You Need Is Love](https://open.spotify.com/track/11sPHLSUyGhyDMXjI25nwM) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H), [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Luciano Pavarotti](https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU), [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz), [Eurythmics](https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB), [Savage Garden](https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek), [Irene Grandi](https://open.spotify.com/artist/0Ob8qRZ9R1jhibRue9ap1H), [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo), [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF), [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP), [Zucchero](https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Ars Canto G\. Verdi](https://open.spotify.com/artist/2nlUKg0hGbfQkhUuyudOgE), [Cambodian And Tibetan Children's Choir](https://open.spotify.com/artist/5roVbMFPCz0wtqh7ffwzSd), [Orchestra Sinfonica Italiana](https://open.spotify.com/artist/2TLCdLafkMIbrLHYvh4U5P), [José Molina](https://open.spotify.com/artist/64sor8KhJsha9rn0LKiDGh) | [Spirito Italiano](https://open.spotify.com/album/5T4REe6LvQuo7hr3hcWrv8) | 4:15 |
 | 47 | [Through \- Live](https://open.spotify.com/track/6B8vO1gto58lY9cPVNLRee) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Symphonica \(Deluxe Version\)](https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO) | 5:09 |
-| 48 | [Secret Love](https://open.spotify.com/track/5DvAuonLamxQJUiY44tBiq) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Songs From The Last Century](https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u) | 2:39 |
+| 48 | [Brother Can You Spare a Dime?](https://open.spotify.com/track/64FUuN6B1v8W3a1hZd0j5m) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Songs From The Last Century](https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u) | 4:23 |
 | 49 | [John and Elvis Are Dead](https://open.spotify.com/track/0pavieu1tjZZvUkUDevy7k) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Patience](https://open.spotify.com/album/1Ys4joU6TESJ4eh00lvUoI) | 4:23 |
 | 50 | [If You Were My Woman](https://open.spotify.com/track/2mpPu9931WS9IDrhS6tE1x) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice / MTV Unplugged \(Deluxe\)](https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj) | 4:06 |
 
-Snapshot ID: `aDj1AAAAAAAo1pb/h7v4Ceb1RU2SBgce`
+Snapshot ID: `aDpGgAAAAABvAtdLftqyssl+nrH6jmRb`

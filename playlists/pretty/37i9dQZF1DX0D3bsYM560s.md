@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0D3bsYM560s.md) - [plain]
 
 > Celebrating the extraordinary women breaking boundaries and keeping tradition alive\. Cover: Sierra Hull
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,197 likes - 101 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,216 likes - 101 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0D3bsYM560s.md) - [plain]
 | 39 | [Mitchell Mullins](https://open.spotify.com/track/1PQGFvDU2ND9U7mGhJzQrI) | [Amanda Cook](https://open.spotify.com/artist/6BoGPE6HncyAwa1Ka8uQVn) | [Mitchell Mullins](https://open.spotify.com/album/7sdmtJhjRagaW6mQAtYcSr) | 2:54 |
 | 40 | [Girl's Breakdown](https://open.spotify.com/track/4EdzW4D2a6sTZgnP9w1hrt) | [Alison Brown](https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK) | [Fair Weather](https://open.spotify.com/album/2J7y2LLWkhZfAuETs1Ubtb) | 3:44 |
 | 41 | [Annie](https://open.spotify.com/track/3W1KJQqttLO6BzxFWJEyc9) | [Rachel Baiman](https://open.spotify.com/artist/2tT6zyEbGIc7bpJHMdOrEs), [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6) | [Common Nation Of Sorrow](https://open.spotify.com/album/2IhYLlwuRGpWIzUuqJgY43) | 2:53 |
-| 42 | [I Knew I Could Fly](https://open.spotify.com/track/1tLDBychkP96pHT664rJIY) | [Our Native Daughters](https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW), [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Songs of Our Native Daughters](https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A) | 3:41 |
+| 42 | [I Knew I Could Fly](https://open.spotify.com/track/1tLDBychkP96pHT664rJIY) | [Our Native Daughters](https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW) | [Songs of Our Native Daughters](https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A) | 3:41 |
 | 43 | [Darlin Corey](https://open.spotify.com/track/01US6qSOiVt2w94P3MbV2G) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Dig](https://open.spotify.com/album/1hUTpdHFjDm365Py5avBU7) | 4:16 |
 | 44 | [The Riveter](https://open.spotify.com/track/7d14MiXlkIdknKSfBUv2jq) | [Sami Braman](https://open.spotify.com/artist/3ESdsDgxcy5caRV6Ufcwre) | [Riveter](https://open.spotify.com/album/5meAQIac2yGj2ZzcdhHXlz) | 3:41 |
 | 45 | [Hazel Creek](https://open.spotify.com/track/7D0pkrivao3Xw2mCO4CoIA) | [Murphy Henry](https://open.spotify.com/artist/16IzVSn0eZSPErN7JMU3Q2) | [The Patuxent Banjo Project](https://open.spotify.com/album/1whIcsiopcQJcTnu7Pi80O) | 4:02 |
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0D3bsYM560s.md) - [plain]
 | 64 | [Fare Thee Well](https://open.spotify.com/track/5tknxbByvLw6Ocas5Zt37L) | [Lindley Creek](https://open.spotify.com/artist/6vIP2iHsvSVIJmdICjQxeB) | [Fare Thee Well](https://open.spotify.com/album/1czCHSqWNLh8BVLjJHJzya) | 3:06 |
 | 65 | [Something About a Train Sound](https://open.spotify.com/track/5e1MpiBHytMz82aHwVwluY) | [Irene Kelley](https://open.spotify.com/artist/23HcZ91h1agwBsyrwhrDvy) | [Benny's TV Repair](https://open.spotify.com/album/2xV2zAaSMgVNlVarxekgyZ) | 3:17 |
 | 66 | [When Fall Comes to New England](https://open.spotify.com/track/7AYIAitrvBny5yX251NfiC) | [Kristin Scott Benson](https://open.spotify.com/artist/7GmvUtieBmMajFTqGY7WVD), [Claire Lynch](https://open.spotify.com/artist/00eldNtAqcdLF9adKlyFZf) | [Stringworks](https://open.spotify.com/album/3LhkdwYvb0igZ3q2NxLh79) | 3:27 |
-| 67 | [Polly Ann's Hammer](https://open.spotify.com/track/0TW7CKQfR4Ps2mnjT2cmif) | [Our Native Daughters](https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW), [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl), [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [Songs of Our Native Daughters](https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A) | 2:59 |
+| 67 | [Polly Ann’s Hammer](https://open.spotify.com/track/0TW7CKQfR4Ps2mnjT2cmif) | [Our Native Daughters](https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW) | [Songs of Our Native Daughters](https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A) | 2:59 |
 | 68 | [Old Songs Never Die](https://open.spotify.com/track/3FKtWyA5l5mNGEGv0uRDSm) | [Rachel Baiman](https://open.spotify.com/artist/2tT6zyEbGIc7bpJHMdOrEs) | [Common Nation Of Sorrow](https://open.spotify.com/album/2IhYLlwuRGpWIzUuqJgY43) | 2:34 |
 | 69 | [We've Got Our Friends](https://open.spotify.com/track/2MZvn7wIeyt7ZUhThqJn5d) | [Maura Shawn Scanlin](https://open.spotify.com/artist/5iAjBykjzLrKshAue6nvwx) | [We've Got Our Friends](https://open.spotify.com/album/4x8luEIeoka9gyRFFVIo4y) | 4:10 |
 | 70 | [I'll Be Lost](https://open.spotify.com/track/5QR7BtYDsTKReZJNrqZ3Rn) | [Heather Sarona](https://open.spotify.com/artist/5cne7YJw2nterSfuPr16W0) | [I'll Be Lost](https://open.spotify.com/album/47YEllnKpleAJfm9PZ78uy) | 3:22 |

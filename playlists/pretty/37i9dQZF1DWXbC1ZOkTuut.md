@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 
 > Descubre los nuevos álbumes de música mexicana del 2025\. Hit shuffle for a mixed listening experience\. Cover: Los Aptos
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,658 likes - 152 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,665 likes - 152 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4wmgHQAAzg3gbnQWSyoMZp">Pharrell Williams</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-929 songs - 2 day 11 hr 11 min
+930 songs - 2 day 11 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -637,7 +637,8 @@
 | [Piece By Piece](https://open.spotify.com/track/2WAwqgBGJb4igeTF07n6OG) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Princess Anne High School Fabulous Marching Cavaliers](https://open.spotify.com/artist/5gFwLXV3kxr7yckCFOCzLP) | [Piece By Piece \- Music from the Motion Picture](https://open.spotify.com/album/210rAUA5H4xH6S9J0aHRLE) | 2:53 | 2024-10-13 |  |
 | [Piece By Piece](https://open.spotify.com/track/34Eq9XKbBktHSP17Yft9Xf) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Princess Anne High School Fabulous Marching Cavaliers](https://open.spotify.com/artist/5gFwLXV3kxr7yckCFOCzLP) | [Piece By Piece](https://open.spotify.com/album/3RNrlAvXWiF75OZgBqpbQc) | 2:53 | 2024-10-12 | 2024-10-14 |
 | [Pink + White](https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 3:04 | 2024-01-29 |  |
-| [PINK LIKE SUKI](https://open.spotify.com/track/75aKhlE0JTqaVuTsDDdtD3) | [Pebbles&TamTam](https://open.spotify.com/artist/2Bv1Fns7qP5fQrrGQRA3Of) | [PINK LIKE SUKI](https://open.spotify.com/album/1V25vUnBtkGB5EI0GqaMnB) | 2:30 | 2024-07-31 |  |
+| [PINK LIKE SUKI](https://open.spotify.com/track/1QewheGykZwYq3xY2bWsvV) | [Pebbles&TamTam](https://open.spotify.com/artist/2Bv1Fns7qP5fQrrGQRA3Of) | [Sleepover! the mixtape :P](https://open.spotify.com/album/1Pnytm0gNpMySvKJTDRM0e) | 2:30 | 2025-06-01 |  |
+| [PINK LIKE SUKI](https://open.spotify.com/track/75aKhlE0JTqaVuTsDDdtD3) | [Pebbles&TamTam](https://open.spotify.com/artist/2Bv1Fns7qP5fQrrGQRA3Of) | [PINK LIKE SUKI](https://open.spotify.com/album/1V25vUnBtkGB5EI0GqaMnB) | 2:30 | 2024-07-31 | 2025-06-02 |
 | [Play It Off \- Album Version / Explicit](https://open.spotify.com/track/02ORKNJXIhiLVUDpC6PfoH) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Suit](https://open.spotify.com/album/7xt2MWlSFHNP2NcHWE4W3b) | 3:48 | 2024-06-20 |  |
 | [Playa You Don't Know](https://open.spotify.com/track/7plc58WbKukGln1glwcZrp) | [Slim Thug](https://open.spotify.com/artist/0st5vgzw9XkH5ALJiUM1lE) | [Already Platinum](https://open.spotify.com/album/17Qo2HmJC5RtOVkJ9rxBlP) | 4:27 | 2024-06-20 |  |
 | [Please Don't Mind](https://open.spotify.com/track/3kUiht3ClxHdylTa9Cmfi6) | [Philly's Most Wanted](https://open.spotify.com/artist/2nmNj8czpBZkCVZSbx5W2i) | [Get Down Or Lay Down \(U.S\. Explicit\)](https://open.spotify.com/album/1jrJslDyJ6t59uGaEUChw0) | 3:59 | 2024-06-20 |  |

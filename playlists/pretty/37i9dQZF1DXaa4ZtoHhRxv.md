@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa4ZtoHhRxv.md) - [plain]
 
 > Keep the Spotify House party going on the Country Club Rooftop, hosted by Country Night!
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,655 likes - 83 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,700 likes - 83 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

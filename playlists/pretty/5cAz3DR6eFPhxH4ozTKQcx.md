@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5cAz3DR6eFPhxH4ozTKQcx.md) - [plain]
 
 > The perfect summer pop playlist.
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 18,117 likes - 67 songs - 4 hr 12 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 18,119 likes - 67 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

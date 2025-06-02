@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwsUp7D7wBj.md) - [plain]
 
 > Bad Bunny brings the vibrant sounds of plena and salsa to the forefront, and we want you to tap into the new wave of today's salsa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,846 likes - 20 songs - 1 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,867 likes - 20 songs - 1 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

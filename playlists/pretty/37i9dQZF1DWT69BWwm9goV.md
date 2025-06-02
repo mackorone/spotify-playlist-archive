@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT69BWwm9goV.md) - [plain]
 
 > A collection of songs from Spotify's original video series OUTSIDE.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,942 likes - 17 songs - 55 min 6 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,943 likes - 17 songs - 55 min 6 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

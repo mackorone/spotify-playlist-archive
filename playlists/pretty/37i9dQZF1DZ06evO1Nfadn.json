@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Maguey. The essential tracks, all in one playlist.",
-  "num_followers": 32889,
+  "num_followers": 32917,
   "original_name": "This Is Banda Maguey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDj1AAAAAABQERqzn+rwL4S3l6MCsF9D",
+  "snapshot_id": "aDpGgAAAAACdLI1Giu2L+dk2xB17aD9Q",
   "tracks": [
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 162400,
-      "name": "Los Hombres No Deben Llorar - Live Version",
-      "url": "https://open.spotify.com/track/1Sv7fAl93sicX5qsFjpOgg"
+      "duration_ms": 189880,
+      "name": "Tumbando Ca\u00f1a - Live Version",
+      "url": "https://open.spotify.com/track/6BiyJeUDaGQxAFLovnN8Za"
     },
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 189880,
-      "name": "Tumbando Ca\u00f1a - Live Version",
-      "url": "https://open.spotify.com/track/6BiyJeUDaGQxAFLovnN8Za"
+      "duration_ms": 162400,
+      "name": "Los Hombres No Deben Llorar - Live Version",
+      "url": "https://open.spotify.com/track/1Sv7fAl93sicX5qsFjpOgg"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Estrella De Los Bailes - Los \u00c9xitos",
-        "url": "https://open.spotify.com/album/5T9zkm1BMSNqlPvu911c0n"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 153861,
-      "name": "Bikini Azul",
-      "url": "https://open.spotify.com/track/1YvqhFsIxpy9yEzn9sWb0X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tu Eterno Enamorado",
         "url": "https://open.spotify.com/album/6rCAwHhGY5NUtmaEFG4nCH"
       },
@@ -539,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Estrella De Los Bailes - Los \u00c9xitos",
+        "url": "https://open.spotify.com/album/5T9zkm1BMSNqlPvu911c0n"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 153861,
+      "name": "Bikini Azul",
+      "url": "https://open.spotify.com/track/1YvqhFsIxpy9yEzn9sWb0X"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u00c9xitos de Oro",
         "url": "https://open.spotify.com/album/6IpONMMEs5dxZEhkA18Uyq"
       },
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 148188,
-      "name": "Ay Amigo",
-      "url": "https://open.spotify.com/track/199n62G0tdmv5LARvuPdPB"
+      "duration_ms": 186180,
+      "name": "Jacinto P\u00e9rez de la o",
+      "url": "https://open.spotify.com/track/4O7fT85AIDSjae3IGF7uIt"
     },
     {
       "added_at": null,
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 186180,
-      "name": "Jacinto P\u00e9rez de la o",
-      "url": "https://open.spotify.com/track/4O7fT85AIDSjae3IGF7uIt"
+      "duration_ms": 148188,
+      "name": "Ay Amigo",
+      "url": "https://open.spotify.com/track/199n62G0tdmv5LARvuPdPB"
     },
     {
       "added_at": null,

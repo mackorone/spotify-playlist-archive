@@ -1,6 +1,6 @@
 {
   "description": "Welcome to the Nordic queendom. ",
-  "num_followers": 7561,
+  "num_followers": 7563,
   "original_name": "GRL PWR",
   "owner": {
     "name": "Spotify",
@@ -159,22 +159,6 @@
     {
       "added_at": "2025-05-06 11:46:39",
       "album": {
-        "name": "Who are you?",
-        "url": "https://open.spotify.com/album/0qSnoidTmCP0hQC89oMS7S"
-      },
-      "artists": [
-        {
-          "name": "Saga Faye",
-          "url": "https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv"
-        }
-      ],
-      "duration_ms": 151979,
-      "name": "Who are you?",
-      "url": "https://open.spotify.com/track/4fY3eujPNFdOrrCzVPCsoQ"
-    },
-    {
-      "added_at": "2025-05-06 11:46:39",
-      "album": {
         "name": "Hush Hush",
         "url": "https://open.spotify.com/album/43VRsfHXsZh1BUxfNO0RZN"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 173973,
       "name": "Hush Hush",
       "url": "https://open.spotify.com/track/3kzhtJH4jrnKQmuE8ai8ob"
+    },
+    {
+      "added_at": "2025-05-06 11:46:39",
+      "album": {
+        "name": "Who are you?",
+        "url": "https://open.spotify.com/album/0qSnoidTmCP0hQC89oMS7S"
+      },
+      "artists": [
+        {
+          "name": "Saga Faye",
+          "url": "https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv"
+        }
+      ],
+      "duration_ms": 151979,
+      "name": "Who are you?",
+      "url": "https://open.spotify.com/track/4fY3eujPNFdOrrCzVPCsoQ"
     },
     {
       "added_at": "2025-05-06 11:46:39",
@@ -651,22 +651,6 @@
     {
       "added_at": "2025-05-06 11:46:39",
       "album": {
-        "name": "Marameo",
-        "url": "https://open.spotify.com/album/0sd73d4ExGo3LUahL0qsw7"
-      },
-      "artists": [
-        {
-          "name": "Alessandra",
-          "url": "https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Marameo",
-      "url": "https://open.spotify.com/track/29uL3fef86r156Qsy00WeY"
-    },
-    {
-      "added_at": "2025-05-06 11:46:39",
-      "album": {
         "name": "Never Give Up",
         "url": "https://open.spotify.com/album/13g0On9hQnYAQsVslilDhP"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 179893,
       "name": "Never Give Up",
       "url": "https://open.spotify.com/track/3Xov23KN1ztHZrLBnhFSc4"
+    },
+    {
+      "added_at": "2025-05-06 11:46:39",
+      "album": {
+        "name": "Marameo",
+        "url": "https://open.spotify.com/album/0sd73d4ExGo3LUahL0qsw7"
+      },
+      "artists": [
+        {
+          "name": "Alessandra",
+          "url": "https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Marameo",
+      "url": "https://open.spotify.com/track/29uL3fef86r156Qsy00WeY"
     },
     {
       "added_at": "2025-05-06 11:46:39",
@@ -731,22 +731,6 @@
     {
       "added_at": "2025-05-06 11:46:39",
       "album": {
-        "name": "Beautiful Woman",
-        "url": "https://open.spotify.com/album/6XH2lCmGJBs3yCUSglARXW"
-      },
-      "artists": [
-        {
-          "name": "Sarah Klang",
-          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
-        }
-      ],
-      "duration_ms": 213115,
-      "name": "Beautiful Woman",
-      "url": "https://open.spotify.com/track/3awrIDBFGaAgR1NVoUwNjs"
-    },
-    {
-      "added_at": "2025-05-06 11:46:39",
-      "album": {
         "name": "Portland",
         "url": "https://open.spotify.com/album/44HhRymrweWh8rKCHOpsWf"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 172872,
       "name": "Portland",
       "url": "https://open.spotify.com/track/43IbZJjKp3vo7t88TGjocB"
+    },
+    {
+      "added_at": "2025-05-06 11:46:39",
+      "album": {
+        "name": "Beautiful Woman",
+        "url": "https://open.spotify.com/album/6XH2lCmGJBs3yCUSglARXW"
+      },
+      "artists": [
+        {
+          "name": "Sarah Klang",
+          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
+        }
+      ],
+      "duration_ms": 213115,
+      "name": "Beautiful Woman",
+      "url": "https://open.spotify.com/track/3awrIDBFGaAgR1NVoUwNjs"
     },
     {
       "added_at": "2025-05-06 11:46:39",
@@ -795,22 +795,6 @@
     {
       "added_at": "2025-05-06 11:46:39",
       "album": {
-        "name": "Kamikaze Life",
-        "url": "https://open.spotify.com/album/4eB1ll3k2qLZVWrF2TNFjz"
-      },
-      "artists": [
-        {
-          "name": "Maja Ivarsson",
-          "url": "https://open.spotify.com/artist/7mZEi87Lf4Bxy4XQwIyOEK"
-        }
-      ],
-      "duration_ms": 181335,
-      "name": "Kamikaze Life",
-      "url": "https://open.spotify.com/track/7GD6wNULWTgFoNNZN2Q5Fk"
-    },
-    {
-      "added_at": "2025-05-06 11:46:39",
-      "album": {
         "name": "Habits (Stay High) - Spotify Singles",
         "url": "https://open.spotify.com/album/0M0MROPnqYuHEK5R16YCxk"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 211153,
       "name": "Habits (Stay High) - Spotify Singles",
       "url": "https://open.spotify.com/track/3NsqsLwmAxIhduuV9gK7SH"
+    },
+    {
+      "added_at": "2025-05-06 11:46:39",
+      "album": {
+        "name": "Kamikaze Life",
+        "url": "https://open.spotify.com/album/4eB1ll3k2qLZVWrF2TNFjz"
+      },
+      "artists": [
+        {
+          "name": "Maja Ivarsson",
+          "url": "https://open.spotify.com/artist/7mZEi87Lf4Bxy4XQwIyOEK"
+        }
+      ],
+      "duration_ms": 181335,
+      "name": "Kamikaze Life",
+      "url": "https://open.spotify.com/track/7GD6wNULWTgFoNNZN2Q5Fk"
     },
     {
       "added_at": "2025-05-06 11:46:39",
@@ -923,22 +923,6 @@
     {
       "added_at": "2025-05-06 11:46:39",
       "album": {
-        "name": "Salt",
-        "url": "https://open.spotify.com/album/2Qyj2igDUVDUsTiteIIrer"
-      },
-      "artists": [
-        {
-          "name": "Winona Oak",
-          "url": "https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1"
-        }
-      ],
-      "duration_ms": 160977,
-      "name": "It's Not My Fault",
-      "url": "https://open.spotify.com/track/759I7gXSRfrXFpXTqovwMa"
-    },
-    {
-      "added_at": "2025-05-06 11:46:39",
-      "album": {
         "name": "SHE-REX",
         "url": "https://open.spotify.com/album/0ioNHVLud9ieI0626t0RP9"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 232465,
       "name": "promise to pick up the phone",
       "url": "https://open.spotify.com/track/4OkHozB0MJuzeFiHRU2CFC"
+    },
+    {
+      "added_at": "2025-05-06 11:46:39",
+      "album": {
+        "name": "Salt",
+        "url": "https://open.spotify.com/album/2Qyj2igDUVDUsTiteIIrer"
+      },
+      "artists": [
+        {
+          "name": "Winona Oak",
+          "url": "https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1"
+        }
+      ],
+      "duration_ms": 160977,
+      "name": "It's Not My Fault",
+      "url": "https://open.spotify.com/track/759I7gXSRfrXFpXTqovwMa"
     },
     {
       "added_at": "2025-05-06 11:46:39",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2025-05-06 11:46:39",
       "album": {
-        "name": "Drip",
-        "url": "https://open.spotify.com/album/3tdrJYHelQjyttVmulOG8R"
-      },
-      "artists": [
-        {
-          "name": "Tamara Mneney",
-          "url": "https://open.spotify.com/artist/2UfHLDuOKojtDAWIvnK0yV"
-        }
-      ],
-      "duration_ms": 230276,
-      "name": "Drip",
-      "url": "https://open.spotify.com/track/1MtWF5FUDx8cZZIDUo7fbw"
-    },
-    {
-      "added_at": "2025-05-06 11:46:39",
-      "album": {
         "name": "Buffalo Stance",
         "url": "https://open.spotify.com/album/2PgI6x9bRitaXcU2Omh1HQ"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 307546,
       "name": "Buffalo Stance",
       "url": "https://open.spotify.com/track/1cz1jiZlsUlKbHAkJZ2Pec"
+    },
+    {
+      "added_at": "2025-05-06 11:46:39",
+      "album": {
+        "name": "Drip",
+        "url": "https://open.spotify.com/album/3tdrJYHelQjyttVmulOG8R"
+      },
+      "artists": [
+        {
+          "name": "Tamara Mneney",
+          "url": "https://open.spotify.com/artist/2UfHLDuOKojtDAWIvnK0yV"
+        }
+      ],
+      "duration_ms": 230276,
+      "name": "Drip",
+      "url": "https://open.spotify.com/track/1MtWF5FUDx8cZZIDUo7fbw"
     },
     {
       "added_at": "2025-05-06 11:46:39",

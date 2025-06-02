@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: YT K, Arab
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,362 likes - 61 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,366 likes - 61 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 | 60 | [FETIX](https://open.spotify.com/track/6pLi4EGcJvdOWBBQ9fDV0e) | [DIFF](https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK) | [FETIX](https://open.spotify.com/album/0MJLiwidFMsh0VrIujksn7) | 2:26 |
 | 61 | [KENTRO](https://open.spotify.com/track/1kZ2FL3WV1mAulSSrtpStg) | [Arab](https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a), [ASOK](https://open.spotify.com/artist/6Zx32XYdrM9A2rIt6jKVmm) | [KENTRO](https://open.spotify.com/album/2gMwgBh1Sw73mOataTZWfC) | 2:08 |
 
-Snapshot ID: `aDjK4AAAAACG8SkV4y+X8sQUE1KIkEaJ`
+Snapshot ID: `aDjK4AAAAACpLelrXTnpHuEIrYAkiaeQ`

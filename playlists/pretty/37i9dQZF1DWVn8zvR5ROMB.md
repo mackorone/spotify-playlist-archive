@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country songs in one playlist! Featuring Kameron Marlowe,  Dylan Scott, Josh Ross with Akon and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,948 likes - 107 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,064 likes - 107 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

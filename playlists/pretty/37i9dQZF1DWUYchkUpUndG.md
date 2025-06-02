@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: kingdmusic & Luma Elpidio
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,093 likes - 99 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,106 likes - 99 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

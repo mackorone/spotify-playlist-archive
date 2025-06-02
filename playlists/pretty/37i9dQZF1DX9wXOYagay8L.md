@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Proudly Southern African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/6HwxMgE895sejjGFin9Gvm?si=IELbCB0XQZW2Uuc3hkJzZw"> Samthing Soweto</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,329 likes - 78 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,415 likes - 78 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

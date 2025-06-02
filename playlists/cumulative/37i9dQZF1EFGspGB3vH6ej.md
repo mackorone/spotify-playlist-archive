@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/35JMHmpi0nT9626f9RW8f6">Mariah Carey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-274 songs - 18 hr 55 min
+275 songs - 18 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,8 @@
 | [Irresistible \(West Side Connection\)](https://open.spotify.com/track/5pEyJpB2PaUxoKOAizbofd) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Charmbracelet](https://open.spotify.com/album/16rTsMjlDt6DEbLRtxvcWu) | 5:03 | 2024-01-29 |  |
 | [It's A Wrap](https://open.spotify.com/track/34DQJ0YKBcExT2bFNMjGOe) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Memoirs of an imperfect Angel](https://open.spotify.com/album/2OLFvAidCY5f7tJYslvSuk) | 3:58 | 2024-01-29 |  |
 | [It's Like That](https://open.spotify.com/track/6qFEkCFsHB8rNerOBfY5Su) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Jermaine Dupri](https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6), [Fatman Scoop](https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6) | [The Emancipation of Mimi](https://open.spotify.com/album/6ek7Y68IlB6CoFkkc2gEQb) | 3:23 | 2024-01-29 |  |
-| [It's Like That Remix](https://open.spotify.com/track/6uUaCqy3R039qaoD4It6Qz) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6) | [We Belong Together](https://open.spotify.com/album/1abFqB4XypDqY4UCIBzJWj) | 3:31 | 2024-01-29 |  |
+| [It's Like That \- Scott Storch Remix](https://open.spotify.com/track/4AFvskSTdjU85xOicoQX7w) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Scott Storch](https://open.spotify.com/artist/4hadtPX6kKntrnA87Zdy01) | [The Emancipation Of Mimi \(20th Anniversary Edition\)](https://open.spotify.com/album/0O4U8aVbBcWrq38ax0T6AO) | 3:32 | 2025-06-01 |  |
+| [It's Like That Remix](https://open.spotify.com/track/6uUaCqy3R039qaoD4It6Qz) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6) | [We Belong Together](https://open.spotify.com/album/1abFqB4XypDqY4UCIBzJWj) | 3:31 | 2024-01-29 | 2025-06-02 |
 | [Jesus Born on This Day](https://open.spotify.com/track/6AoXseJVabZFmKEYjQCXPS) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 3:40 | 2024-01-29 |  |
 | [Jesus Oh What a Wonderful Child](https://open.spotify.com/track/7zAoR3Od28Xj97fTLgnaGi) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:26 | 2024-01-29 |  |
 | [Joy Ride](https://open.spotify.com/track/5foiGVwPq1L04BZEdjKtVn) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation of Mimi](https://open.spotify.com/album/6ek7Y68IlB6CoFkkc2gEQb) | 4:03 | 2024-01-29 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7EF8wVxBVhG.md) - [plain]
 
 > Enhance your concentration by traveling through different brainwave frequencies until you reach peak awareness in Gamma state.
 
-[Spotify](https://open.spotify.com/user/spotify) - 759,835 likes - 94 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 760,100 likes - 94 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7EF8wVxBVhG.md) - [plain]
 | 93 | [Deep Focus Alpha Sinus 92Hz \- 99Hz](https://open.spotify.com/track/2Bp0ZhtzZz4hz8DrF8L5Xo) | [Mission Venus](https://open.spotify.com/artist/6lCBvo1KvG3lzBqRCQFaDB) | [Deep Binaural](https://open.spotify.com/album/1e7LhfQ3uHCh3nJDqpQZ5v) | 3:17 |
 | 94 | [Galaxy](https://open.spotify.com/track/6ZuUNJiDAEmoDvbvw2B33O) | [The Binaural Monk](https://open.spotify.com/artist/5pvkT3ytMcvZhh1CqW2C6B) | [Galaxy](https://open.spotify.com/album/5cMuf5i2oCmzHFJF1Mrw5j) | 2:10 |
 
-Snapshot ID: `AAAAADhZtRkwuDMqckuFwITpn5VVkOcy`
+Snapshot ID: `aDcfZwAAAACBSEGQNIUuPdN8Sfey8NcY`

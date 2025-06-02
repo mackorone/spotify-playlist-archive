@@ -4,13 +4,14 @@
 
 > Music from "THE IDOLM@STER SHINY COLORS"\. THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-166 songs - 11 hr 37 min
+167 songs - 11 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [abyss of conflict \- 2023 Version](https://open.spotify.com/track/6b7GQPqweKWFErkjF3iCL4) | [アンティーカ](https://open.spotify.com/artist/6NpkNdWFWIvQpS1GLvdQrY) | [THE IDOLM@STER SHINY COLORS L@YERED WING 03 \(2023 Version\)](https://open.spotify.com/album/6H0pUpoITkHIMVePzUGiUF) | 4:09 | 2023-11-08 | 2025-03-16 |
 | [After Run](https://open.spotify.com/track/1q6Uhu5bhJ173RdpNpl6Lt) | [シーズ](https://open.spotify.com/artist/7HgWJK409CdFnu3OaK0NWZ) | [THE IDOLM@STER SHINY COLORS Song for Prism After Run / mellow mellow【アルストロメリア盤】](https://open.spotify.com/album/3YNKiPWjEw3iKQqZNCbRi1) | 4:02 | 2024-09-24 |  |
 | [Ambitious Eve \- 25 colors](https://open.spotify.com/track/6Zr3DzJBYhp71PZ0WbqW7j) | [シャイニーカラーズ](https://open.spotify.com/artist/7ApxPPvOHclelY9xkLZwBR) | [THE IDOLM@STER WING COLLECTION \-A side\-](https://open.spotify.com/album/5YyUeirmIV0Uo1cqf6Wi5x) | 3:53 | 2023-03-07 | 2023-11-08 |
+| [Anniversary](https://open.spotify.com/track/5AInollX0dijwKBVlMpmvc) | [アルストロメリア](https://open.spotify.com/artist/7cZwrPvoqWFiquYx5bfH2Q) | [THE IDOLM@STER SHINY COLORS GR@DATE WING 05](https://open.spotify.com/album/3T2sWCtFqk7ICZNbQDGs8D) | 5:58 | 2025-02-28 |  |
 | [Another Rampage](https://open.spotify.com/track/6xwI62HbyTfwIR4Et1HRHS) | [ストレイライト](https://open.spotify.com/artist/493MBQPclwtXx4zWgCalzd) | [THE IDOLM@STER SHINY COLORS L@YERED WING 06](https://open.spotify.com/album/0zgAxjnwrYfek0bxi2aISp) | 3:52 | 2024-09-24 | 2024-11-09 |
 | [Ashita mo Beautiful Day](https://open.spotify.com/track/2ATsPqprRxCYYxF0phmvNW) | [Alstroemeria](https://open.spotify.com/artist/2TUQrtf67sc2waXM4xrb0I) | [THE IDOLM@STER SHINY COLORS Song for Prism Ashita mo Beautiful Day / Hadashi ja Irarenai \(ALSTROEMERIA Version\)](https://open.spotify.com/album/26k6PevjW9PdtDT09ItuI8) | 4:24 | 2024-01-23 | 2024-04-19 |
 | [Black Reverie \- 2023 Version](https://open.spotify.com/track/2wpG1jlGLA1WFFRENepGV5) | [アンティーカ](https://open.spotify.com/artist/6NpkNdWFWIvQpS1GLvdQrY) | [THE IDOLM@STER SHINY COLORS GR@DATE WING 03 \(2023 Ver.\)](https://open.spotify.com/album/40mu9JZOicVhL9fW5xM08E) | 4:51 | 2023-03-07 | 2025-02-03 |
@@ -30,7 +31,7 @@
 | [Fly and Fly](https://open.spotify.com/track/3ENUIr1ITc6ozpXh0Kwj0j) | [シーズ](https://open.spotify.com/artist/0kBiJtv0WCJ5ZT2cR8IyNM) | [THE IDOLM@STER SHINY COLORS L@YERED WING 08](https://open.spotify.com/album/1Wd36SK5i0M9tCAwHQJBTv) | 4:05 | 2023-03-07 |  |
 | [Forward March!!!](https://open.spotify.com/track/6aA13qFJgbuL1vG006gEvl) | [イルミネーションスターズ](https://open.spotify.com/artist/3yKaJ0XB0Wikqntdst6vld) | [THE IDOLM@STER SHINY COLORS "CANVAS" 01](https://open.spotify.com/album/6sAK3pEDDuGfgUmQR1op0w) | 5:19 | 2023-11-07 |  |
 | [FUTURITY SMILE \- 25 colors](https://open.spotify.com/track/17xPuvISrXlEsDtrWYtFJX) | [シャイニーカラーズ](https://open.spotify.com/artist/7ApxPPvOHclelY9xkLZwBR) | [THE IDOLM@STER WING COLLECTION \-A side\-](https://open.spotify.com/album/5YyUeirmIV0Uo1cqf6Wi5x) | 4:48 | 2023-03-07 | 2024-12-03 |
-| [Give me some more...](https://open.spotify.com/track/1xPgiEVUAqnK8akH4rynmR) | [アルストロメリア](https://open.spotify.com/artist/7cZwrPvoqWFiquYx5bfH2Q) | [THE IDOLM@STER SHINY COLORS PANOR@MA WING 05](https://open.spotify.com/album/3UigZQb1RxyalZQMokQdNV) | 3:46 | 2022-11-29 |  |
+| [Give me some more...](https://open.spotify.com/track/1xPgiEVUAqnK8akH4rynmR) | [アルストロメリア](https://open.spotify.com/artist/7cZwrPvoqWFiquYx5bfH2Q) | [THE IDOLM@STER SHINY COLORS PANOR@MA WING 05](https://open.spotify.com/album/3UigZQb1RxyalZQMokQdNV) | 3:46 | 2022-11-29 | 2025-06-02 |
 | [Going my way](https://open.spotify.com/track/5G1AVhvz2r8E1LfX8Cexbm) | [和泉愛依 \(CV.北原沙弥香\)](https://open.spotify.com/artist/5EL1PeXHLhtARmaFhNeCTT) | [THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS \-Luna\- \(2022 Version\)](https://open.spotify.com/album/0PC9a1J3ae1N0yrTXJS2kT) | 4:38 | 2024-09-24 | 2024-12-11 |
 | [Hadashi ja Irarenai](https://open.spotify.com/track/3D4BcgYsmpTDDyxJKf0wbV) | [HO\-KA\-GO CLIMAX GIRLS](https://open.spotify.com/artist/2wLhH9ELWfeLtPWtAZOApl) | [THE IDOLM@STER SHINY COLORS Song for Prism Hadashi ja Irarenai / Ashita mo Beautiful Day \(HO\-KA\-GO CLIMAX GIRLS Version\)](https://open.spotify.com/album/3F8bO0WuL7eZx3dbHiEBq7) | 3:33 | 2024-01-23 | 2024-04-19 |
 | [Happier](https://open.spotify.com/track/1UmHTmrLrkCVCWL7Zd9qYH) | [シーズ](https://open.spotify.com/artist/7HgWJK409CdFnu3OaK0NWZ) | [THE IDOLM@STER SHINY COLORS Song for Prism Happier / 枕木の歌【イルミネーションスターズ盤】](https://open.spotify.com/album/4qzUoamkzsZmsD56UIBdZ4) | 3:49 | 2024-05-24 |  |

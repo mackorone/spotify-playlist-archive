@@ -1,6 +1,6 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 166085,
+  "num_followers": 166107,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
@@ -647,30 +647,6 @@
     {
       "added_at": "2025-05-19 02:01:27",
       "album": {
-        "name": "roundabout",
-        "url": "https://open.spotify.com/album/72JOBJj1vbLdTg0B2XVjwT"
-      },
-      "artists": [
-        {
-          "name": "fcj",
-          "url": "https://open.spotify.com/artist/1Nv875EklW8XLTduI6I3Js"
-        },
-        {
-          "name": "Ivoris",
-          "url": "https://open.spotify.com/artist/7wuKa2bUMTCPspwY00Erji"
-        },
-        {
-          "name": "Ryce",
-          "url": "https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v"
-        }
-      ],
-      "duration_ms": 132931,
-      "name": "roundabout",
-      "url": "https://open.spotify.com/track/4My5qxutluZnhCiSz4mY92"
-    },
-    {
-      "added_at": "2025-05-19 02:01:27",
-      "album": {
         "name": "It's Not This",
         "url": "https://open.spotify.com/album/5XbxaUEQQ7jTJ5zBa19pjY"
       },
@@ -691,6 +667,30 @@
       "duration_ms": 190769,
       "name": "It's Not This",
       "url": "https://open.spotify.com/track/12ZC7GrMQNo6xXJdN89d8P"
+    },
+    {
+      "added_at": "2025-05-19 02:01:27",
+      "album": {
+        "name": "roundabout",
+        "url": "https://open.spotify.com/album/72JOBJj1vbLdTg0B2XVjwT"
+      },
+      "artists": [
+        {
+          "name": "fcj",
+          "url": "https://open.spotify.com/artist/1Nv875EklW8XLTduI6I3Js"
+        },
+        {
+          "name": "Ivoris",
+          "url": "https://open.spotify.com/artist/7wuKa2bUMTCPspwY00Erji"
+        },
+        {
+          "name": "Ryce",
+          "url": "https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v"
+        }
+      ],
+      "duration_ms": 132931,
+      "name": "roundabout",
+      "url": "https://open.spotify.com/track/4My5qxutluZnhCiSz4mY92"
     },
     {
       "added_at": "2025-05-19 02:01:27",
@@ -815,6 +815,22 @@
     {
       "added_at": "2025-05-19 02:01:27",
       "album": {
+        "name": "Gone 2 Long",
+        "url": "https://open.spotify.com/album/7qMx6YrIMl5XjjZLRyR9OZ"
+      },
+      "artists": [
+        {
+          "name": "PRETTYMUCH",
+          "url": "https://open.spotify.com/artist/5Y8eJDj37KhaEeqbVO7Ag1"
+        }
+      ],
+      "duration_ms": 195013,
+      "name": "Gone 2 Long",
+      "url": "https://open.spotify.com/track/0V6p1at8MSW6WEhSp5EzVG"
+    },
+    {
+      "added_at": "2025-05-19 02:01:27",
+      "album": {
         "name": "Feels (feat. Khalid)",
         "url": "https://open.spotify.com/album/7zbaDQ3uGL5GyIyeUVkktz"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 221974,
       "name": "Feels (feat. Khalid)",
       "url": "https://open.spotify.com/track/6LZ9FO9UsGIcTKbShnfNsG"
-    },
-    {
-      "added_at": "2025-05-19 02:01:27",
-      "album": {
-        "name": "Gone 2 Long",
-        "url": "https://open.spotify.com/album/7qMx6YrIMl5XjjZLRyR9OZ"
-      },
-      "artists": [
-        {
-          "name": "PRETTYMUCH",
-          "url": "https://open.spotify.com/artist/5Y8eJDj37KhaEeqbVO7Ag1"
-        }
-      ],
-      "duration_ms": 195013,
-      "name": "Gone 2 Long",
-      "url": "https://open.spotify.com/track/0V6p1at8MSW6WEhSp5EzVG"
     },
     {
       "added_at": "2025-05-19 02:01:27",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2025-05-19 02:01:27",
       "album": {
+        "name": "Underground Vibes",
+        "url": "https://open.spotify.com/album/3KbEXCBCtDk1gUIJrQirIA"
+      },
+      "artists": [
+        {
+          "name": "DJ Cam",
+          "url": "https://open.spotify.com/artist/1hwAhXzyuEUjug2pyNVSvg"
+        }
+      ],
+      "duration_ms": 312413,
+      "name": "Mad Blunted Jazz",
+      "url": "https://open.spotify.com/track/11mUt9hPLDxt7EsoYB2Ujc"
+    },
+    {
+      "added_at": "2025-05-19 02:01:27",
+      "album": {
         "name": "Live on Ice",
         "url": "https://open.spotify.com/album/6K7SjlIebufubxXGf4uA7a"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 215999,
       "name": "Cheap Vacations (feat. Glassface)",
       "url": "https://open.spotify.com/track/7fGmx2dHgPwynQrfwPMemP"
-    },
-    {
-      "added_at": "2025-05-19 02:01:27",
-      "album": {
-        "name": "Underground Vibes",
-        "url": "https://open.spotify.com/album/3KbEXCBCtDk1gUIJrQirIA"
-      },
-      "artists": [
-        {
-          "name": "DJ Cam",
-          "url": "https://open.spotify.com/artist/1hwAhXzyuEUjug2pyNVSvg"
-        }
-      ],
-      "duration_ms": 312413,
-      "name": "Mad Blunted Jazz",
-      "url": "https://open.spotify.com/track/11mUt9hPLDxt7EsoYB2Ujc"
     },
     {
       "added_at": "2025-05-19 02:01:27",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2025-05-19 02:01:27",
       "album": {
+        "name": "Promises",
+        "url": "https://open.spotify.com/album/4H1ifuiljrSCXJn2LI3zLC"
+      },
+      "artists": [
+        {
+          "name": "Arabelle",
+          "url": "https://open.spotify.com/artist/7uU11RJKOt74chXI2s6eQf"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/5QJ40U3CynwRGa7wmFePDl"
+    },
+    {
+      "added_at": "2025-05-19 02:01:27",
+      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/4zhxQLpyqo7xnKpFHOgJvw"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 169687,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/0Qc117NULtyGJEovqVl5lx"
-    },
-    {
-      "added_at": "2025-05-19 02:01:27",
-      "album": {
-        "name": "Promises",
-        "url": "https://open.spotify.com/album/4H1ifuiljrSCXJn2LI3zLC"
-      },
-      "artists": [
-        {
-          "name": "Arabelle",
-          "url": "https://open.spotify.com/artist/7uU11RJKOt74chXI2s6eQf"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/5QJ40U3CynwRGa7wmFePDl"
     },
     {
       "added_at": "2025-05-19 02:01:27",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2025-05-19 02:01:27",
       "album": {
-        "name": "Wasting Away",
-        "url": "https://open.spotify.com/album/5HcEKDA1oqtglt9Llh69KD"
-      },
-      "artists": [
-        {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
-        }
-      ],
-      "duration_ms": 168956,
-      "name": "Out of My Mind",
-      "url": "https://open.spotify.com/track/5NfVKqJQhRIluNHXvgtWNK"
-    },
-    {
-      "added_at": "2025-05-19 02:01:27",
-      "album": {
         "name": "Acchordance",
         "url": "https://open.spotify.com/album/3adRFNS6sAgApn9uuKDXYF"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 276154,
       "name": "Lonely Road",
       "url": "https://open.spotify.com/track/22W2hL07wNFLxoAceaEJkt"
+    },
+    {
+      "added_at": "2025-05-19 02:01:27",
+      "album": {
+        "name": "Wasting Away",
+        "url": "https://open.spotify.com/album/5HcEKDA1oqtglt9Llh69KD"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "duration_ms": 168956,
+      "name": "Out of My Mind",
+      "url": "https://open.spotify.com/track/5NfVKqJQhRIluNHXvgtWNK"
     },
     {
       "added_at": "2025-05-19 02:01:27",
@@ -1675,6 +1675,22 @@
     {
       "added_at": "2025-05-19 02:01:27",
       "album": {
+        "name": "Drowning",
+        "url": "https://open.spotify.com/album/0Go0XvWfgTRs2I1ytu7TPy"
+      },
+      "artists": [
+        {
+          "name": "Mario",
+          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
+        }
+      ],
+      "duration_ms": 218627,
+      "name": "Drowning",
+      "url": "https://open.spotify.com/track/28YJsoMPLIiUxtZqxVigbU"
+    },
+    {
+      "added_at": "2025-05-19 02:01:27",
+      "album": {
         "name": "Mirror, Mirror on the Wall",
         "url": "https://open.spotify.com/album/4GxXqUC1qtV2i2Uy1lxoip"
       },
@@ -1707,22 +1723,6 @@
       "duration_ms": 164000,
       "name": "Light (with BENEE)",
       "url": "https://open.spotify.com/track/65ZaStHQImXcy15M9pGFwL"
-    },
-    {
-      "added_at": "2025-05-19 02:01:27",
-      "album": {
-        "name": "Drowning",
-        "url": "https://open.spotify.com/album/0Go0XvWfgTRs2I1ytu7TPy"
-      },
-      "artists": [
-        {
-          "name": "Mario",
-          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
-        }
-      ],
-      "duration_ms": 218627,
-      "name": "Drowning",
-      "url": "https://open.spotify.com/track/28YJsoMPLIiUxtZqxVigbU"
     },
     {
       "added_at": "2025-05-19 02:01:27",

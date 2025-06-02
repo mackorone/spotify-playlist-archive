@@ -2767,6 +2767,24 @@
     },
     {
       "album": {
+        "name": "Boom EP",
+        "url": "https://open.spotify.com/album/71VKHr0GKzUueluzBMVqwX"
+      },
+      "artists": [
+        {
+          "name": "Baltra",
+          "url": "https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180983,
+      "name": "Boom",
+      "url": "https://open.spotify.com/track/28OL1J1hQcsSk6vNGZGIuo"
+    },
+    {
+      "album": {
         "name": "Bordre",
         "url": "https://open.spotify.com/album/55YrflC6VcAHZmmZ1T5ks4"
       },
@@ -17724,7 +17742,7 @@
       ],
       "date_added": "2025-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-02",
       "duration_ms": 177250,
       "name": "The Underground - Edit",
       "url": "https://open.spotify.com/track/52fdxR7dhpUlqz5QhYGtQr"

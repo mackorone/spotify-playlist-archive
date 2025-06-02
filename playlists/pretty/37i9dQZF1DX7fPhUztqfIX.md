@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 
 > All new Worship songs on the rise! Cover: TEMITOPE
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,341 likes - 80 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,379 likes - 80 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 | 63 | [Exalted One](https://open.spotify.com/track/16iXH8dmXuVKTcS72VIaR8) | [Celebration Music](https://open.spotify.com/artist/06dC3YuX4L5gosp5z3P9cp), [Patrick Curry](https://open.spotify.com/artist/7Huh4wUZHE2TYedx8thAL8) | [Jesus Changes Everything / Exalted One](https://open.spotify.com/album/5FcJbpZQjeNmvKb3Kfvb84) | 3:28 |
 | 64 | [Oh How I Love Jesus](https://open.spotify.com/track/3pUGSCxF6h1MoUPlpu1SsY) | [Chad Graham](https://open.spotify.com/artist/4Pxdl89t4lmaURMT1Yakep), [Fallon Graham](https://open.spotify.com/artist/5j3s0l1jY44TmPB6jwKvOg) | [Oh How I Love Jesus](https://open.spotify.com/album/3xeNY7FyNVBJzJ9BQN78cI) | 2:42 |
 | 65 | [THE IMAGE](https://open.spotify.com/track/3DzFfyOOZ1CWoV0sL2TKWW) | [Gather Worship](https://open.spotify.com/artist/3BysBU9EuhkanB2yKDSG7L), [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [The Image](https://open.spotify.com/album/5lpuaMKwpRs2PvBsUcYUXf) | 5:10 |
-| 66 | [Doorkeeper](https://open.spotify.com/track/6puwefYQJscScbqwPO8hVP) | [CXMMXNS](https://open.spotify.com/artist/3jpqxQzzcSIyXgTb4i4CEa), [Kory Miller](https://open.spotify.com/artist/0QCjdltvL9ZrRhayylw97h), [Ben Fielding](https://open.spotify.com/artist/33u16EyDkCbsyvh66ujJiO) | [Doorkeeper](https://open.spotify.com/album/5o2WxWDy0XHdvKIfeeJAYN) | 6:08 |
+| 66 | [Doorkeeper](https://open.spotify.com/track/6puwefYQJscScbqwPO8hVP) | [CXMMXNS](https://open.spotify.com/artist/3jpqxQzzcSIyXgTb4i4CEa), [Kory Miller](https://open.spotify.com/artist/0QCjdltvL9ZrRhayylw97h) | [Doorkeeper](https://open.spotify.com/album/5o2WxWDy0XHdvKIfeeJAYN) | 6:08 |
 | 67 | [Hallelujah \(If Not For Your Love\)](https://open.spotify.com/track/3RARr0qocWgXFMAhBJs9jR) | [Aodhán King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf) | [Beyond Us \(Deluxe\)](https://open.spotify.com/album/2M55eh17kBBQURAGpGuDrA) | 3:11 |
 | 68 | [Where Can I Go That My Maker Won't Be?](https://open.spotify.com/track/1HoY6xu7Yj9kV6cFIcMWSB) | [Anchor Hymns](https://open.spotify.com/artist/4UuCCQRHiLAMzOWXkFtqSE), [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db), [Jason Houtsma](https://open.spotify.com/artist/3WN6wMNSkmz2hFt0KEKMiK), [Melanie Penn](https://open.spotify.com/artist/4WKIrizEfylpzQsdegJlfh) | [Where Can I Go That My Maker Won't Be?](https://open.spotify.com/album/7wotx4RjfDYMsn2dgrjAHs) | 5:12 |
 | 69 | [I Fear No Evil \- Live](https://open.spotify.com/track/4MOpbyLSlO3wAVE2fdgEni) | [ONE HOUSE](https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn), [Megan Parker](https://open.spotify.com/artist/2gAY6ZJtCTFhRtkO5v0f8b), [Whitney Wood](https://open.spotify.com/artist/1eWi8ImuZLYpsxfG2iWXSl) | [I Fear No Evil \(Live\)](https://open.spotify.com/album/5EGU4gtXBUo1Fdsv3BFaqd) | 6:01 |

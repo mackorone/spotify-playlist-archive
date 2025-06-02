@@ -1,12 +1,12 @@
 {
   "description": "This is Phil Wickham. The essential tracks, all in one playlist.",
-  "num_followers": 53903,
+  "num_followers": 53943,
   "original_name": "This Is Phil Wickham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDj1AAAAAACyc1E0uyBJnsSBoIe0VuVp",
+  "snapshot_id": "aDpGgAAAAABEhgAI3xyRtf3cffYKdJpe",
   "tracks": [
     {
       "added_at": null,
@@ -435,8 +435,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cannons",
-        "url": "https://open.spotify.com/album/6eRIt8uO4IgmXGFTN4b1rC"
+        "name": "Homesick For Heaven",
+        "url": "https://open.spotify.com/album/7u9KebbEd6OIu74RbeVLSX"
       },
       "artists": [
         {
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 293720,
-      "name": "Messiah / You're Beautiful",
-      "url": "https://open.spotify.com/track/6vLOjUphbNT9Q21euUuCSZ"
+      "duration_ms": 250000,
+      "name": "Homesick For Heaven",
+      "url": "https://open.spotify.com/track/4XKxQUkr1OW2DQD2geloRS"
     },
     {
       "added_at": null,
@@ -463,6 +463,22 @@
       "duration_ms": 258946,
       "name": "Isn't He Good",
       "url": "https://open.spotify.com/track/1nhxzfAFAw2ksi0Rajd693"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cannons",
+        "url": "https://open.spotify.com/album/6eRIt8uO4IgmXGFTN4b1rC"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 293720,
+      "name": "Messiah / You're Beautiful",
+      "url": "https://open.spotify.com/track/6vLOjUphbNT9Q21euUuCSZ"
     },
     {
       "added_at": null,
@@ -551,18 +567,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Homesick For Heaven",
-        "url": "https://open.spotify.com/album/7u9KebbEd6OIu74RbeVLSX"
+        "name": "Peace, Vol. II",
+        "url": "https://open.spotify.com/album/0RbdblzaMNGge5MqeFAX9N"
       },
       "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
         {
           "name": "Phil Wickham",
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 250000,
-      "name": "Homesick For Heaven",
-      "url": "https://open.spotify.com/track/4XKxQUkr1OW2DQD2geloRS"
+      "duration_ms": 382684,
+      "name": "Living Hope",
+      "url": "https://open.spotify.com/track/3Z9PzaSZbEPoQssPnQdbPx"
     },
     {
       "added_at": null,
@@ -615,26 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peace, Vol. II",
-        "url": "https://open.spotify.com/album/0RbdblzaMNGge5MqeFAX9N"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 382684,
-      "name": "Living Hope",
-      "url": "https://open.spotify.com/track/3Z9PzaSZbEPoQssPnQdbPx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Children of God",
         "url": "https://open.spotify.com/album/5Huo8k3PTFpQLlxNak5fMN"
       },
@@ -667,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Children of God Acoustic Sessions",
+        "url": "https://open.spotify.com/album/5AyRWQVQ69mjrdoxIhNanU"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 239973,
+      "name": "At the Foot of the Cross - Acoustic",
+      "url": "https://open.spotify.com/track/59dF79fypzaMFZYJCCPJbl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Living Hope",
         "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 231400,
       "name": "Song In My Soul (feat. Hollyn)",
       "url": "https://open.spotify.com/track/3T8WYztdZWL6mItjWc4F6v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Children of God Acoustic Sessions",
-        "url": "https://open.spotify.com/album/5AyRWQVQ69mjrdoxIhNanU"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 239973,
-      "name": "At the Foot of the Cross - Acoustic",
-      "url": "https://open.spotify.com/track/59dF79fypzaMFZYJCCPJbl"
     },
     {
       "added_at": null,
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I BELIEVE \u2022 HOMETOWN VERSION",
-        "url": "https://open.spotify.com/album/74CEbXFjHsZ6Bh4ZkTJxRO"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 236206,
-      "name": "THE JESUS WAY \u2022 HOMETOWN VERSION",
-      "url": "https://open.spotify.com/track/1Yt9v9tZJG9KtKraxcu5yd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Phil Wickham",
         "url": "https://open.spotify.com/album/6CXyOL41BnuvHMMhF8O9wv"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 298026,
       "name": "Divine Romance",
       "url": "https://open.spotify.com/track/7xUbUfwaCfaAlYxfkIIZnc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I BELIEVE \u2022 HOMETOWN VERSION",
+        "url": "https://open.spotify.com/album/74CEbXFjHsZ6Bh4ZkTJxRO"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 236206,
+      "name": "THE JESUS WAY \u2022 HOMETOWN VERSION",
+      "url": "https://open.spotify.com/track/1Yt9v9tZJG9KtKraxcu5yd"
     },
     {
       "added_at": null,
@@ -851,8 +851,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I BELIEVE \u2022 HOMETOWN VERSION",
-        "url": "https://open.spotify.com/album/74CEbXFjHsZ6Bh4ZkTJxRO"
+        "name": "Response",
+        "url": "https://open.spotify.com/album/1dYRi3bMHjgeW8Ac6DRwN0"
       },
       "artists": [
         {
@@ -860,9 +860,9 @@
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 227810,
-      "name": "ISN'T HE GOOD \u2022 HOMETOWN VERSION",
-      "url": "https://open.spotify.com/track/1GAFOmypjsOrqP95SXPKxc"
+      "duration_ms": 206280,
+      "name": "This Is the Day",
+      "url": "https://open.spotify.com/track/3Y7OpOyaKc3uMdFSm1Q2zU"
     }
   ],
   "unique_name": "This Is Phil Wickham",

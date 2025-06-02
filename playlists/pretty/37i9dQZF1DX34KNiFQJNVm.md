@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Xamã, Ana Castela, Papatinho, Matheus & Kauan, Luedji Luna e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,095,106 likes - 96 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,095,049 likes - 96 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 95 | [De Lua](https://open.spotify.com/track/2pnhhyzxoMArmMcsDUTIi8) | [Ryan Fidelis](https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm) | [De Lua](https://open.spotify.com/album/3MvCq8E1mKvvBr0fvjFmCY) | 3:12 |
 | 96 | [Filtro](https://open.spotify.com/track/3BY2s4naiOUnFXik6tJdgc) | [MC Erik](https://open.spotify.com/artist/0mCLY8Z5X5H9mNsu9pQ7mY), [Gubeatz](https://open.spotify.com/artist/3onpHCaIChS7saQn7fYncx) | [Filtro](https://open.spotify.com/album/75sp6da1jtciZvKae1MjFl) | 2:22 |
 
-Snapshot ID: `aDooXAAAAAC70sL4FbRSm3ORkmcLwW6L`
+Snapshot ID: `aDooXAAAAAB912JYRl6zid6iyr5MQy1o`

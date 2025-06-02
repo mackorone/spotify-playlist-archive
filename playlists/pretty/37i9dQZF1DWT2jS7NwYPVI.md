@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your cheat sheet for all that's on the rise in rock/alt \| Cover: Florence Road
 
-[Spotify](https://open.spotify.com/user/spotify) - 467,103 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 467,087 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 99 | [Gone West](https://open.spotify.com/track/6wO0FMzk3BWBBJKSJYFHFf) | [Sam Akpro](https://open.spotify.com/artist/0gs6n0OYGwA7j4L4HHqKV2) | [Evenfall](https://open.spotify.com/album/69uVEeoptmNxZJnPUdAeKb) | 2:58 |
 | 100 | [Motherfucker](https://open.spotify.com/track/6ritI8onfPPOqGzB4Q3wj0) | [Greet Death](https://open.spotify.com/artist/7CddNoU6nKEW7UpcIlJF9n) | [Motherfucker](https://open.spotify.com/album/2g5OqLForP81XfpRXvIPYf) | 5:11 |
 
-Snapshot ID: `aDktUQAAAAAL3qtTHCzLO4LkSTJr84fE`
+Snapshot ID: `aDktUQAAAAAlknYGoXTeaaMX9uJSY36W`

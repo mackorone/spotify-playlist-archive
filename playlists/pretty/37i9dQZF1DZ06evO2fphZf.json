@@ -1,12 +1,12 @@
 {
   "description": "This is th\u1ee7y. The essential tracks, all in one playlist.",
-  "num_followers": 12090,
+  "num_followers": 12094,
   "original_name": "This Is th\u1ee7y",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDj1AAAAAABniz2DEjyW8e3qVXGrhaXP",
+  "snapshot_id": "aDpGgAAAAACv4ELlCS5Fg8ie9beMZhQN",
   "tracks": [
     {
       "added_at": null,
@@ -219,26 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "hair down (with CHUNG HA)",
-        "url": "https://open.spotify.com/album/5pViClRtFnnMBoRwfGS2rh"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        },
-        {
-          "name": "CHUNG HA",
-          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
-        }
-      ],
-      "duration_ms": 209060,
-      "name": "hair down (with CHUNG HA)",
-      "url": "https://open.spotify.com/track/0J6uaKir7FzzTvnQcpg0MJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All Night Long",
         "url": "https://open.spotify.com/album/2RBCjQ1pAiQSSW9YdFAkqs"
       },
@@ -255,6 +235,26 @@
       "duration_ms": 214800,
       "name": "All Night Long",
       "url": "https://open.spotify.com/track/5DyBTivjORrpNhJkJj2Ao5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "hair down (with CHUNG HA)",
+        "url": "https://open.spotify.com/album/5pViClRtFnnMBoRwfGS2rh"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        },
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "duration_ms": 209060,
+      "name": "hair down (with CHUNG HA)",
+      "url": "https://open.spotify.com/track/0J6uaKir7FzzTvnQcpg0MJ"
     },
     {
       "added_at": null,
@@ -739,26 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "girls like me don't cry (deluxe)",
-        "url": "https://open.spotify.com/album/3tzL6SeVT3j5ux571sx1nu"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        },
-        {
-          "name": "Rexx Life Raj",
-          "url": "https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX"
-        }
-      ],
-      "duration_ms": 169143,
-      "name": "butterflies (feat. Rexx Life Raj)",
-      "url": "https://open.spotify.com/track/7GMm5RZY83ZUJZY0zjetB4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jentry Chau vs the Underworld (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/4P9WQMZEzV2J85acpvbJXO"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 192396,
       "name": "Sweetest Nothings",
       "url": "https://open.spotify.com/track/6FFxBcsIWatbD1f8BnziEr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "girls like me don't cry (deluxe)",
+        "url": "https://open.spotify.com/album/3tzL6SeVT3j5ux571sx1nu"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        },
+        {
+          "name": "Rexx Life Raj",
+          "url": "https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX"
+        }
+      ],
+      "duration_ms": 169143,
+      "name": "butterflies (feat. Rexx Life Raj)",
+      "url": "https://open.spotify.com/track/7GMm5RZY83ZUJZY0zjetB4"
     },
     {
       "added_at": null,

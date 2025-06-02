@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-932 songs - 3 day 7 hr 43 min
+933 songs - 3 day 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Bocat](https://open.spotify.com/track/4rS8pri7CQvOjWmfNBOm8B) | [Guy Gerber](https://open.spotify.com/artist/3bqBkAzdPwEDe1JUvb7ZeC), [Albertina](https://open.spotify.com/artist/5Xr5eX0ZFi76JHaRDGh8pq) | [Bocat](https://open.spotify.com/album/3U902JoOXXajnhsYNYk55B) | 6:25 | 2023-06-16 | 2023-07-12 |
 | [Body Language](https://open.spotify.com/track/4F37VC3DflPXQcwbrnoi0Y) | [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [Maz \(BR\)](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [Coach Harrison](https://open.spotify.com/artist/40DuSzxFswBymk0cjFnuqL) | [Body Language](https://open.spotify.com/album/2kjZNNrlthQ6IYg7wTFwRJ) | 4:45 | 2023-06-02 | 2023-11-08 |
 | [Body Test](https://open.spotify.com/track/0Il22rqYWjY4nDpQp3XpLP) | [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO) | [Body Test](https://open.spotify.com/album/3UWe1hWpXDXHLT7h6nTKex) | 6:53 | 2023-08-04 | 2023-08-31 |
+| [Boom](https://open.spotify.com/track/28OL1J1hQcsSk6vNGZGIuo) | [Baltra](https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC) | [Boom EP](https://open.spotify.com/album/71VKHr0GKzUueluzBMVqwX) | 3:00 | 2025-05-30 |  |
 | [Bordre](https://open.spotify.com/track/1WbMSCLAHjhrgmPTKjn9Cw) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy) | [Bordre](https://open.spotify.com/album/55YrflC6VcAHZmmZ1T5ks4) | 5:37 | 2021-04-21 | 2022-09-10 |
 | [Born In Blue](https://open.spotify.com/track/5iiQYaqVsZK8ROt0dfOyS9) | [Chambord](https://open.spotify.com/artist/5S5jGEkiJMWHt6XYasZOLJ), [Jaguar Jaguar](https://open.spotify.com/artist/2R8sfGkLsBHLRIrJVmR2t4) | [Born In Blue](https://open.spotify.com/album/1dCSXGLRWwfnBwWaadLv0v) | 4:50 | 2024-04-26 |  |
 | [Boy You Got Me](https://open.spotify.com/track/5x7uCstXGVFFgEokfdIRFG) | [Luch](https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp) | [Boy You Got Me](https://open.spotify.com/album/3JkftDHh7leHlfY1IEqZnG) | 3:27 | 2024-09-27 | 2025-03-30 |
@@ -826,7 +827,7 @@
 | [The Silence](https://open.spotify.com/track/5I2bl8yVsQ6F7CNnh2P9dc) | [Dwson](https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR), [Hyenah](https://open.spotify.com/artist/1YUlJfwsUoerJd3mCK6Ccu), [Apple Gule](https://open.spotify.com/artist/6qQiyy1hXfRttZvgHqdwM1) | [The Silence](https://open.spotify.com/album/6BiPBIh5lMuS0jdbxHD3Mn) | 7:31 | 2022-07-01 | 2022-07-04 |
 | [The Silence](https://open.spotify.com/track/0CE4CLlvJIiis5GrGWNjjN) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [The Silence](https://open.spotify.com/album/6q8vauldhdzx6900WmbYyL) | 4:23 | 2023-05-19 | 2024-04-13 |
 | [The Stars](https://open.spotify.com/track/6XZrEFdwo0cnbwy24llaLI) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m), [Meta\_](https://open.spotify.com/artist/4b2jMQx1533SIiypVXVJ8J) | [The Stars](https://open.spotify.com/album/1jIkwcwYO2x3bw4qlXJ5KT) | 5:48 | 2023-08-04 | 2023-08-26 |
-| [The Underground \- Edit](https://open.spotify.com/track/52fdxR7dhpUlqz5QhYGtQr) | [Celeda](https://open.spotify.com/artist/6eOBEYGx9M4t87osYMIakb), [Jesús Fernández](https://open.spotify.com/artist/6bZ11vzZLe2XZhvgLVcZum), [Karl8 & Andrea Monta](https://open.spotify.com/artist/4fMsgTeKWUFIthLdhpNEjC) | [The Underground](https://open.spotify.com/album/3URfbFDvjOYm15WjPrWe9D) | 2:57 | 2025-01-04 |  |
+| [The Underground \- Edit](https://open.spotify.com/track/52fdxR7dhpUlqz5QhYGtQr) | [Celeda](https://open.spotify.com/artist/6eOBEYGx9M4t87osYMIakb), [Jesús Fernández](https://open.spotify.com/artist/6bZ11vzZLe2XZhvgLVcZum), [Karl8 & Andrea Monta](https://open.spotify.com/artist/4fMsgTeKWUFIthLdhpNEjC) | [The Underground](https://open.spotify.com/album/3URfbFDvjOYm15WjPrWe9D) | 2:57 | 2025-01-04 | 2025-06-02 |
 | [The Veil](https://open.spotify.com/track/4sXNEwBs1f7scjkmwy5J0u) | [AWEN](https://open.spotify.com/artist/5uOaNXrr4qGx9YXbo9HaUl), [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m) | [The Veil](https://open.spotify.com/album/3q0jrW1dv7O5qSjrIr9mMS) | 4:11 | 2024-01-12 | 2024-05-25 |
 | [The Wildcard Rhapsody](https://open.spotify.com/track/7xIqFDhrWrDiwOibmIGl0o) | [Lee Burridge](https://open.spotify.com/artist/0334oJHhRSKJRHKpE9i62h), [Lost Desert](https://open.spotify.com/artist/6N2bCZFo999TqhtdPTnLyq) | [The Wildcard Rhapsody EP](https://open.spotify.com/album/35YTlMCyEgaKmiAOwfDLQx) | 8:17 | 2022-04-15 | 2022-08-22 |
 | [The Witness](https://open.spotify.com/track/5dna0ShfmtsCcgZfi8pEjl) | [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564), [KÁRYYN](https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI) | [The Witness](https://open.spotify.com/album/2agQCuwawKF5udp9i3wD9t) | 7:03 | 2022-07-01 | 2022-12-17 |

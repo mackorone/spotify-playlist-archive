@@ -1,12 +1,12 @@
 {
   "description": "This is Yandel. The essential tracks, all in one playlist.",
-  "num_followers": 172238,
+  "num_followers": 172253,
   "original_name": "This Is Yandel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDj1AAAAAAA2ia5zwsqTGJwW9enCGFPA",
+  "snapshot_id": "aDpGgAAAAADAweGDVoot0ajIP3ql/wIP",
   "tracks": [
     {
       "added_at": null,
@@ -763,26 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como Si El Mundo Se Fuera A Acabar",
-        "url": "https://open.spotify.com/album/5R2uiEyjovCRYvk3ITPORP"
-      },
-      "artists": [
-        {
-          "name": "Tito \"El Bambino\"",
-          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 187539,
-      "name": "Como Si El Mundo Se Fuera A Acabar",
-      "url": "https://open.spotify.com/track/648jEiRJvpIuUPlq3PN0ak"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quien Contra Mi",
         "url": "https://open.spotify.com/album/1xWGBUugmlHCwXH6AtpQCE"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 185973,
       "name": "La Calle Me Lo Pidio",
       "url": "https://open.spotify.com/track/2h2BxMOTXrYAApqWQ6ZqTy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Como Si El Mundo Se Fuera A Acabar",
+        "url": "https://open.spotify.com/album/5R2uiEyjovCRYvk3ITPORP"
+      },
+      "artists": [
+        {
+          "name": "Tito \"El Bambino\"",
+          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 187539,
+      "name": "Como Si El Mundo Se Fuera A Acabar",
+      "url": "https://open.spotify.com/track/648jEiRJvpIuUPlq3PN0ak"
     },
     {
       "added_at": null,
@@ -951,6 +951,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "SINF\u00d3NICO (En Vivo)",
+        "url": "https://open.spotify.com/album/6qBMMQeQLfUxEs47lK085F"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 145541,
+      "name": "Te Suelto El Pelo / Dembow Medley - Sinf\u00f3nico En Vivo",
+      "url": "https://open.spotify.com/track/2qZdmfOUoZpZElWroObqS5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 225786,
       "name": "Pa Janguiar",
       "url": "https://open.spotify.com/track/6M3Wbw9M57Kaw2wXSMyjyf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SINF\u00d3NICO (En Vivo)",
-        "url": "https://open.spotify.com/album/6qBMMQeQLfUxEs47lK085F"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 145541,
-      "name": "Te Suelto El Pelo / Dembow Medley - Sinf\u00f3nico En Vivo",
-      "url": "https://open.spotify.com/track/2qZdmfOUoZpZElWroObqS5"
     },
     {
       "added_at": null,
@@ -1139,26 +1139,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "SEX AND LOVE",
-        "url": "https://open.spotify.com/album/5eTnO99fDE0hr87EMSTi8w"
+        "name": "OCEAN",
+        "url": "https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK"
       },
       "artists": [
         {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         },
         {
           "name": "Yandel",
           "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Juan Mag\u00e1n",
-          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
         }
       ],
       "duration_ms": 222693,
-      "name": "Noche Y De Dia",
-      "url": "https://open.spotify.com/track/1lD3UtE3IVQGpSw7JL11BZ"
+      "name": "La Ocasi\u00f3n Perfecta",
+      "url": "https://open.spotify.com/track/0Y0QTT6W7zRVKv9hWdYkCg"
     }
   ],
   "unique_name": "This Is Yandel",

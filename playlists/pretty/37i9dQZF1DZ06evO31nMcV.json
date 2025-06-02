@@ -1,12 +1,12 @@
 {
   "description": "This is Alexis Ffrench. The essential tracks, all in one playlist.",
-  "num_followers": 23941,
+  "num_followers": 23952,
   "original_name": "This Is Alexis Ffrench",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDj1AAAAAAAd1x1f648NwF3eS8adpRY3",
+  "snapshot_id": "aDpGgAAAAACH1ROdPR7CrjZhPjuX4kj6",
   "tracks": [
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Evolution",
-        "url": "https://open.spotify.com/album/4N4dU9titX6FRpkHnjvAct"
+        "name": "The Piano Whisperer",
+        "url": "https://open.spotify.com/album/6YY3fbUoQYSacQglLohdQU"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 242295,
-      "name": "Where Worlds Collide",
-      "url": "https://open.spotify.com/track/04F2CVACUouSEWkaApQnmf"
+      "duration_ms": 237705,
+      "name": "September Song",
+      "url": "https://open.spotify.com/track/0KesN9hSEucAYpvwaGMfsb"
     },
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Piano Whisperer",
-        "url": "https://open.spotify.com/album/6YY3fbUoQYSacQglLohdQU"
+        "name": "Evolution",
+        "url": "https://open.spotify.com/album/4N4dU9titX6FRpkHnjvAct"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 237705,
-      "name": "September Song",
-      "url": "https://open.spotify.com/track/0KesN9hSEucAYpvwaGMfsb"
+      "duration_ms": 242295,
+      "name": "Where Worlds Collide",
+      "url": "https://open.spotify.com/track/04F2CVACUouSEWkaApQnmf"
     },
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dreamland",
-        "url": "https://open.spotify.com/album/4jb1RWCUm2HlhSNumh5bcm"
+        "name": "The Piano Whisperer",
+        "url": "https://open.spotify.com/album/6YY3fbUoQYSacQglLohdQU"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 216625,
-      "name": "Story of You",
-      "url": "https://open.spotify.com/track/3eAN6u0NIx1YkkDNppNQC8"
+      "duration_ms": 268613,
+      "name": "Music Box",
+      "url": "https://open.spotify.com/track/6sRMsgGmxXH8bawlSQtS3M"
     },
     {
       "added_at": null,
@@ -387,8 +387,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Piano Whisperer",
-        "url": "https://open.spotify.com/album/6YY3fbUoQYSacQglLohdQU"
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/4jb1RWCUm2HlhSNumh5bcm"
       },
       "artists": [
         {
@@ -396,25 +396,9 @@
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 268613,
-      "name": "Music Box",
-      "url": "https://open.spotify.com/track/6sRMsgGmxXH8bawlSQtS3M"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Evolution",
-        "url": "https://open.spotify.com/album/4N4dU9titX6FRpkHnjvAct"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 211819,
-      "name": "Reborn",
-      "url": "https://open.spotify.com/track/2zlfbhaKlYE45y5LyJawmh"
+      "duration_ms": 216625,
+      "name": "Story of You",
+      "url": "https://open.spotify.com/track/3eAN6u0NIx1YkkDNppNQC8"
     },
     {
       "added_at": null,
@@ -431,6 +415,22 @@
       "duration_ms": 133647,
       "name": "The Promise",
       "url": "https://open.spotify.com/track/0SaUNOXFFmziEOyn0Gyi9E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Evolution",
+        "url": "https://open.spotify.com/album/4N4dU9titX6FRpkHnjvAct"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 211819,
+      "name": "Reborn",
+      "url": "https://open.spotify.com/track/2zlfbhaKlYE45y5LyJawmh"
     },
     {
       "added_at": null,
@@ -467,6 +467,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Truth - The Solo Piano Collection",
+        "url": "https://open.spotify.com/album/5EMB8WAOcT4BqrRZFsW0aO"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 198897,
+      "name": "One Look - Solo Piano Version",
+      "url": "https://open.spotify.com/track/0K2gSCI8ehL7qkxzNmsqDZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Evolution",
         "url": "https://open.spotify.com/album/4N4dU9titX6FRpkHnjvAct"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 168115,
       "name": "Exhale",
       "url": "https://open.spotify.com/track/6bpsmIyYGFBkNYooj595ji"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Solo Piano Collection",
-        "url": "https://open.spotify.com/album/3xrOGtm0QQAX4VsWWKOgGK"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 190308,
-      "name": "Shine - Solo Piano Version",
-      "url": "https://open.spotify.com/track/0RSGM4UB0H4OfS7DqC06qi"
     },
     {
       "added_at": null,
@@ -515,8 +515,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Truth - The Solo Piano Collection",
-        "url": "https://open.spotify.com/album/5EMB8WAOcT4BqrRZFsW0aO"
+        "name": "The Solo Piano Collection",
+        "url": "https://open.spotify.com/album/3xrOGtm0QQAX4VsWWKOgGK"
       },
       "artists": [
         {
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 198897,
-      "name": "One Look - Solo Piano Version",
-      "url": "https://open.spotify.com/track/0K2gSCI8ehL7qkxzNmsqDZ"
+      "duration_ms": 190308,
+      "name": "Shine - Solo Piano Version",
+      "url": "https://open.spotify.com/track/0RSGM4UB0H4OfS7DqC06qi"
     },
     {
       "added_at": null,
@@ -563,6 +563,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Piano Whisperer",
+        "url": "https://open.spotify.com/album/6YY3fbUoQYSacQglLohdQU"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 129745,
+      "name": "Awakening",
+      "url": "https://open.spotify.com/track/6otr6vDkjx0vlEEJzbmjsa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Classical Soul Vol. 1 - The Solo Piano Collection",
         "url": "https://open.spotify.com/album/44CqQSIcCEc9wG8eeZnD4F"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 186170,
       "name": "Everything Changes (Solo Piano Version)",
       "url": "https://open.spotify.com/track/0P3yEaLcNqDU4tnVgkrnq5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Piano Whisperer",
-        "url": "https://open.spotify.com/album/6YY3fbUoQYSacQglLohdQU"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 238510,
-      "name": "Labyrinth",
-      "url": "https://open.spotify.com/track/4w8N32GjuYFBUZh2Z7CQBK"
     },
     {
       "added_at": null,
@@ -627,6 +627,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Piano Whisperer",
+        "url": "https://open.spotify.com/album/6YY3fbUoQYSacQglLohdQU"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 238510,
+      "name": "Labyrinth",
+      "url": "https://open.spotify.com/track/4w8N32GjuYFBUZh2Z7CQBK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stolen Lullabies",
         "url": "https://open.spotify.com/album/60I6ryl6K8EqSFnwQeLqWY"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 134040,
       "name": "The Journey",
       "url": "https://open.spotify.com/track/0GErrpZaCNudZ4tzImWndx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Piano Whisperer",
-        "url": "https://open.spotify.com/album/6YY3fbUoQYSacQglLohdQU"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 129745,
-      "name": "Awakening",
-      "url": "https://open.spotify.com/track/6otr6vDkjx0vlEEJzbmjsa"
     },
     {
       "added_at": null,

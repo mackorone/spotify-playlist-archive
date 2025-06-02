@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: MAJAN, $OHO BANI
 
-[Spotify](https://open.spotify.com/user/spotify) - 478,164 likes - 100 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 478,114 likes - 100 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Goldman Sachs](https://open.spotify.com/track/1Nk3zGtszA6KjOOQmb6VBg) | [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U), [$OHO BANI](https://open.spotify.com/artist/3KQylwDxYE7Vxli0BSuwaf) | [Wenn nichts von nichts kommt, woher komm' ich dann?](https://open.spotify.com/album/7tbvzRYaE8XFo3H8crvE8b) | 2:52 |
 | 2 | [Vaitimbora](https://open.spotify.com/track/0QAUgW2vTmlUWhbiNeSkWm) | [Mariana Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S), [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan) | [Vaitimbora](https://open.spotify.com/album/0cIKxynxh628Q7qOyamXLe) | 2:15 |
-| 3 | [iPhone 5s](https://open.spotify.com/track/1ptOsYm0MmBdUsGd1Ef2Qw) | [Ion Miles](https://open.spotify.com/artist/1OJvqVmekd5OPxlTeHmlBl), [SIRA](https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA) | [iPhone 5s](https://open.spotify.com/album/12j5qmxcRIDBrmoXGD7LPu) | 2:08 |
+| 3 | [iPhone 5s](https://open.spotify.com/track/1ptOsYm0MmBdUsGd1Ef2Qw) | [Ion Miles](https://open.spotify.com/artist/1OJvqVmekd5OPxlTeHmlBl), [SIRA](https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA), [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC) | [iPhone 5s](https://open.spotify.com/album/12j5qmxcRIDBrmoXGD7LPu) | 2:08 |
 | 4 | [Wenn das Liebe ist](https://open.spotify.com/track/1E7xmNFzqkkh1DMwBomBg3) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Wenn das Liebe ist](https://open.spotify.com/album/6YqNO9MXKvaazkweRM4xpY) | 2:44 |
 | 5 | [Als du gingst \- edit](https://open.spotify.com/track/1MDyUzZgyrdeQVmV1FU3WQ) | [Contec](https://open.spotify.com/artist/2BFFFDU8cOaMWt7i2BHLtX), [Lina Maly](https://open.spotify.com/artist/0VVKg6krYM45eGuevSlcRk) | [Als du gingst \(edit\)](https://open.spotify.com/album/24CMRdb9SWlm08gBNhWD3F) | 3:59 |
 | 6 | [good girls](https://open.spotify.com/track/0omoINYneUCby7DVJyiWuC) | [Josie Edwards](https://open.spotify.com/artist/70876OxjZoMWimkWA2Iduq) | [good girls](https://open.spotify.com/album/5mHSvBJh84qlI5f7qLSCyE) | 2:29 |

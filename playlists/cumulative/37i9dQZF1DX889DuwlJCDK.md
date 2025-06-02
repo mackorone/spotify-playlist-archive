@@ -4,7 +4,7 @@
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: Bocchi
 
-1,166 songs - 2 day 22 hr 25 min
+1,167 songs - 2 day 22 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -534,7 +534,7 @@
 | [いけないサンタ](https://open.spotify.com/track/0BpocnVyMNs8DWgnGQGcjs) | [Adult family](https://open.spotify.com/artist/7o35FqTWnBakLsDuwp3poA) | [いけないサンタ](https://open.spotify.com/album/2uFRmKBA9gh0d0yVxtsqxj) | 3:17 | 2024-12-17 | 2025-03-08 |
 | [いたいよ](https://open.spotify.com/track/5dUYOfnhH5cDfN5iNZ0UtQ) | [シベリアンハスキー](https://open.spotify.com/artist/1zzceGP0R3NcBlRqtXRr7M) | [いたいよ](https://open.spotify.com/album/7avaHR6oW99eWN9QHPBPJn) | 3:08 | 2024-03-12 | 2024-03-14 |
 | [いちぬけぴ](https://open.spotify.com/track/4pgEDnDAO9gr5fgWhDVoEq) | [ME\-GUMI](https://open.spotify.com/artist/4JymhH4RCu5eqaBqZQvxyb) | [いちぬけぴ](https://open.spotify.com/album/5DZLCLO9aAV2cdGVWEHZwW) | 2:16 | 2024-12-17 | 2025-01-08 |
-| [いつだってそんなもんだろ](https://open.spotify.com/track/603Bu8HzR7VjTFQvCV1tlj) | [TENSONG](https://open.spotify.com/artist/4gg2Eg18OeqjqzfWtsBTMG) | [いつだってそんなもんだろ](https://open.spotify.com/album/4Q7KK4b02fiMe74aBRZO7L) | 3:52 | 2025-02-04 |  |
+| [いつだってそんなもんだろ](https://open.spotify.com/track/603Bu8HzR7VjTFQvCV1tlj) | [TENSONG](https://open.spotify.com/artist/4gg2Eg18OeqjqzfWtsBTMG) | [いつだってそんなもんだろ](https://open.spotify.com/album/4Q7KK4b02fiMe74aBRZO7L) | 3:52 | 2025-02-04 | 2025-06-02 |
 | [おねがい神様](https://open.spotify.com/track/4e8RK5BFlWRuijK92Vm8AZ) | [パーカーズ](https://open.spotify.com/artist/6TVg7Kq9FSpdPLWMlHUhfW) | [心の中なら何度も言えるのにな](https://open.spotify.com/album/5r9TwQMzmKQneL6AXUTWKD) | 3:44 | 2023-12-19 | 2023-12-21 |
 | [おふろのうた](https://open.spotify.com/track/6vaDmfyF2rBqQfMWDEOpK4) | [DENIMS](https://open.spotify.com/artist/2pNPsyKj8HzdWN359wDrsq) | [おふろのうた](https://open.spotify.com/album/1xU7biDImPl58LslLofb8J) | 4:37 | 2023-10-24 | 2023-11-08 |
 | [おぼろげ](https://open.spotify.com/track/0lszvcMooYCboG7YKL0Ogz) | [Cloudy](https://open.spotify.com/artist/1ZNbVSp7OXMnTNXJ3MmGUH) | [おぼろげ](https://open.spotify.com/album/37ho1gzf1rk8Zjm3LL4RHe) | 4:58 | 2024-12-17 | 2024-12-27 |
@@ -616,6 +616,7 @@
 | [アンコモンセンス](https://open.spotify.com/track/3xzMrP8WhO4C1xy7mlUHJJ) | [harha](https://open.spotify.com/artist/5V4VtQwk2WtMZd93CdYxvh) | [アンコモンセンス](https://open.spotify.com/album/72uqkDcFbECJLQUIZhxduT) | 3:40 | 2025-01-21 | 2025-03-26 |
 | [アンコール](https://open.spotify.com/track/1aS1dMvoCZVt0IPUSVVg2u) | [こがれ](https://open.spotify.com/artist/4hpoOuqcdqKGiQ8f7HUKlr) | [聴こえる](https://open.spotify.com/album/2hl5A9DhzrizbpUywoHvZo) | 3:43 | 2025-01-21 | 2025-01-29 |
 | [アンダルシア](https://open.spotify.com/track/3VFPDaqVrGoY3B2HaQ05cF) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [NEW BORN GHOST](https://open.spotify.com/album/7I0gE5xwblR3qtvT3Z4uxc) | 3:54 | 2023-11-14 | 2023-12-06 |
+| [アーティスト \- Reproduced 2025](https://open.spotify.com/track/0evPEb81K3yp0R33pIB5aB) | [KAMI WA SAIKORO WO FURANAI](https://open.spotify.com/artist/2FqdskWqZqDdlSnAIo9BGA) | [アーティスト \(Reproduced 2025\)](https://open.spotify.com/album/3qbnAZagfEhj89YL5oz5jv) | 4:35 | 2025-05-27 |  |
 | [イエロー](https://open.spotify.com/track/7KsID2OzgAdWP4CL06pHAU) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [イエロー](https://open.spotify.com/album/0eHdWFvgTbDhrI0GImMGyA) | 5:19 | 2024-02-27 | 2024-04-19 |
 | [インスタントジョーク](https://open.spotify.com/track/4DLhoNZw9OR8s0ovueelH8) | [omeme tenten](https://open.spotify.com/artist/0uwxPKyoIIT8WIQLYpXSFC) | [インスタントジョーク / マイラブリー](https://open.spotify.com/album/6OYEgnr0XA0TcNsfmo1NDb) | 3:14 | 2024-01-16 | 2024-02-01 |
 | [イン・ザ・シティ](https://open.spotify.com/track/7DBfPZfz1FJcRy5E4Rbx0r) | [少年キッズボウイ](https://open.spotify.com/artist/4KYktd3fg1vqZbi5R7Eoa5) | [少年キッズボウイ 1](https://open.spotify.com/album/22BvMtpdnZSI73knLRrrP6) | 3:21 | 2023-10-24 | 2023-11-01 |

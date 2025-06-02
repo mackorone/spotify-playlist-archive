@@ -1,12 +1,12 @@
 {
   "description": "This is Lu\u00edsa Sonza. The essential tracks, all in one playlist.",
-  "num_followers": 261966,
+  "num_followers": 261977,
   "original_name": "This Is Lu\u00edsa Sonza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDj1AAAAAADS8jGjSjiOIQioJ2wXPhLT",
+  "snapshot_id": "aDpGgAAAAABjXZx4zAGsoMxNAjqPuf8R",
   "tracks": [
     {
       "added_at": null,
@@ -55,8 +55,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "MOTINHA 2.0 (Mete Marcha)",
-        "url": "https://open.spotify.com/album/15PHJFLeNIt2dfJIHtMP9F"
+        "name": "MOTINHA 2.0 (Mete Marcha) - Remix",
+        "url": "https://open.spotify.com/album/01b5HiUXkbiFUV3ogYrg0I"
       },
       "artists": [
         {
@@ -66,11 +66,15 @@
         {
           "name": "Lu\u00edsa Sonza",
           "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
         }
       ],
       "duration_ms": 118081,
-      "name": "MOTINHA 2.0 (Mete Marcha)",
-      "url": "https://open.spotify.com/track/456hxgSVUAJVgPV0UncG68"
+      "name": "MOTINHA 2.0 (Mete Marcha) - Remix",
+      "url": "https://open.spotify.com/track/2iDDnYmaz1HhedjI91fbmp"
     },
     {
       "added_at": null,
@@ -823,26 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tudo de bom",
-        "url": "https://open.spotify.com/album/7bZLDpIUpjrHPehJUqRXyO"
-      },
-      "artists": [
-        {
-          "name": "Pk",
-          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 164760,
-      "name": "Tudo de bom",
-      "url": "https://open.spotify.com/track/3YqLyRFwjGuPBT7EHoyQH7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "N\u00e3o Sirvo (Ao Vivo)",
         "url": "https://open.spotify.com/album/2ZcRV9LpoGmX7kgRTOD7VN"
       },
@@ -859,6 +843,26 @@
       "duration_ms": 161749,
       "name": "N\u00e3o Sirvo - Ao Vivo",
       "url": "https://open.spotify.com/track/6Er9jEdVvBzg7VQpcMtJYJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tudo de bom",
+        "url": "https://open.spotify.com/album/7bZLDpIUpjrHPehJUqRXyO"
+      },
+      "artists": [
+        {
+          "name": "Pk",
+          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 164760,
+      "name": "Tudo de bom",
+      "url": "https://open.spotify.com/track/3YqLyRFwjGuPBT7EHoyQH7"
     },
     {
       "added_at": null,

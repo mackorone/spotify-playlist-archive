@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: may\-june 2025 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,052 likes - 33 songs - 1 hr 59 min
+[margeaux](https://open.spotify.com/user/1220511975) - 23,049 likes - 34 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,5 +41,6 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 31 | [Open Up The Gate](https://open.spotify.com/track/3lTek1NhK7pHXt8VoiwDun) | [The Congos](https://open.spotify.com/artist/4vFvHM1qzuAj0bUGiZb0zC) | [Heart Of The Congos](https://open.spotify.com/album/0FqUTYrs4FtPbav2Ry2I1M) | 4:21 |
 | 32 | [Interlude](https://open.spotify.com/track/41JGT7LjNQoQzmocwGhMVv) | [Bochum Welt](https://open.spotify.com/artist/0DDFk56QBhetDQ1wwNf8oG) | [April](https://open.spotify.com/album/639FtWfkPci9mbsXp6rnIe) | 3:36 |
 | 33 | [Up Is a Nice Place to Be](https://open.spotify.com/track/39EfXbtmuJBuiVBOF7VdY0) | [Rosalie Sorrels](https://open.spotify.com/artist/4n3F5413y5LjhB9aWgB9Wh) | [If I Could Be the Rain](https://open.spotify.com/album/2ZoLgxIOfcBemgF2zR5bqb) | 2:50 |
+| 34 | [Afterlife](https://open.spotify.com/track/0yYQbFuqvXyZc46e2QEqI7) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Afterlife](https://open.spotify.com/album/0DnQhNQf6xRTkN1nVC4l1i) | 3:30 |
 
-Snapshot ID: `AAAMgZeX+3VpHWsXMrVwO3GYOJVy5VOg`
+Snapshot ID: `AAAMgjGxsvypBoMa3sDlh+eTw0oWrfGh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcb8m3Nt9YW.md) - [plain]
 
 > ¡Márquele sección! Los corridones tronando en vivo\. El Fantasma, Los Dos Carnales, GERARDO DÍAZ Y SU GERARQUÍA en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,694 likes - 85 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,821 likes - 85 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcb8m3Nt9YW.md) - [plain]
 | 84 | [Desde Topo Hasta La Sierra \- En vivo](https://open.spotify.com/track/3S9PY0y2pMioMEIMnmO6dj) | [Novillos de la Sierra](https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro), [Los Torrenciales de la Sierra](https://open.spotify.com/artist/1AR0atiSk7fk8C18cEyYNn) | [Desde Topo Hasta La Sierra \(En vivo\)](https://open.spotify.com/album/25w2zwI5cE8ZcTOE5XMj2F) | 3:38 |
 | 85 | [Las Pisteadas Del Vago](https://open.spotify.com/track/4reO4BbymoLHYJxrWw9ciu) | [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV), [Grupo X30](https://open.spotify.com/artist/3q5RR1RLDShDlGMYRr8t4B) | [Las Pisteadas Del Vago](https://open.spotify.com/album/2CeLM9SGWfd5CHi16qNRwl) | 4:45 |
 
-Snapshot ID: `Z5xm+QAAAAAA9n8QBtaGTmTee1GL4thy`
+Snapshot ID: `AAAAAGhU9EwavHBrdFkxAbYlvi1w0gUk`

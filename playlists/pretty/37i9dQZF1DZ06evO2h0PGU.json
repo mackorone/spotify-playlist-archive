@@ -1,12 +1,12 @@
 {
   "description": "This is Yeah Yeah Yeahs. The essential tracks, all in one playlist.",
-  "num_followers": 51302,
+  "num_followers": 51320,
   "original_name": "This Is Yeah Yeah Yeahs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDj1AAAAAABDL7y6Q/Jx//zp6YwzjX9g",
+  "snapshot_id": "aDpGgAAAAAA/OyLbfNGuFRAAM3UeGSAZ",
   "tracks": [
     {
       "added_at": null,
@@ -403,8 +403,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Is Is EP",
-        "url": "https://open.spotify.com/album/3I6TpzauRC5WzlNbrrdfqo"
+        "name": "IS IS",
+        "url": "https://open.spotify.com/album/6wt9UTlj4kyhYyyLlWDDSi"
       },
       "artists": [
         {
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
         }
       ],
-      "duration_ms": 233026,
+      "duration_ms": 232933,
       "name": "Down Boy",
-      "url": "https://open.spotify.com/track/60dhkkPtuzMGOdYgLJIpQD"
+      "url": "https://open.spotify.com/track/3rJKyc4VZJtIVXHoNnZA4d"
     },
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Show Your Bones",
-        "url": "https://open.spotify.com/album/3lgIiynXHTZYaSvS1ZrMxG"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 145666,
-      "name": "Honeybear",
-      "url": "https://open.spotify.com/track/2oDZprxAu0snrga1chXTdD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Let Me Know + Gold Lion (Diplo Remix) + Gold Lion (Nick Remix)",
         "url": "https://open.spotify.com/album/7mkTnMGmhZfNnEFwLLCv1k"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 210066,
       "name": "Let Me Know",
       "url": "https://open.spotify.com/track/4pIfmU3tWHcXHTHr9RaAzi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Show Your Bones",
+        "url": "https://open.spotify.com/album/3lgIiynXHTZYaSvS1ZrMxG"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 145666,
+      "name": "Honeybear",
+      "url": "https://open.spotify.com/track/2oDZprxAu0snrga1chXTdD"
     },
     {
       "added_at": null,
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
         }
       ],
-      "duration_ms": 224133,
-      "name": "10 x 10",
-      "url": "https://open.spotify.com/track/0xaSl0JwnQXUYPG0rtDCda"
+      "duration_ms": 240106,
+      "name": "Isis",
+      "url": "https://open.spotify.com/track/2NYq8NiOFp4k1b4UKgW2n1"
     },
     {
       "added_at": null,
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
         }
       ],
-      "duration_ms": 240106,
-      "name": "Isis",
-      "url": "https://open.spotify.com/track/2NYq8NiOFp4k1b4UKgW2n1"
+      "duration_ms": 224133,
+      "name": "10 x 10",
+      "url": "https://open.spotify.com/track/0xaSl0JwnQXUYPG0rtDCda"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "l\u00e5tarna som inte g\u00e5r att f\u00e5 nog av. ",
-  "num_followers": 59607,
+  "num_followers": 59606,
   "original_name": "p\u00e5 repeat",
   "owner": {
     "name": "Spotify",
@@ -295,22 +295,6 @@
     {
       "added_at": "2025-05-30 08:05:21",
       "album": {
-        "name": "All My Love",
-        "url": "https://open.spotify.com/album/5xnNLxIsj8uLXhC5BScEMI"
-      },
-      "artists": [
-        {
-          "name": "Vella",
-          "url": "https://open.spotify.com/artist/5YvpNhcfN0WZBg20nGItwH"
-        }
-      ],
-      "duration_ms": 187537,
-      "name": "All My Love",
-      "url": "https://open.spotify.com/track/31g1ilceVdtqj4OHUwafmR"
-    },
-    {
-      "added_at": "2025-05-30 08:05:21",
-      "album": {
         "name": "Andarna",
         "url": "https://open.spotify.com/album/7xzfbsn3XlOxsemWxzykqY"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 226124,
       "name": "Andarna",
       "url": "https://open.spotify.com/track/3LbU3hQgMSyRHqYcGXVFLx"
+    },
+    {
+      "added_at": "2025-05-30 08:05:21",
+      "album": {
+        "name": "All My Love",
+        "url": "https://open.spotify.com/album/5xnNLxIsj8uLXhC5BScEMI"
+      },
+      "artists": [
+        {
+          "name": "Vella",
+          "url": "https://open.spotify.com/artist/5YvpNhcfN0WZBg20nGItwH"
+        }
+      ],
+      "duration_ms": 187537,
+      "name": "All My Love",
+      "url": "https://open.spotify.com/track/31g1ilceVdtqj4OHUwafmR"
     },
     {
       "added_at": "2025-05-30 08:05:21",
@@ -379,22 +379,6 @@
     {
       "added_at": "2025-05-30 08:05:21",
       "album": {
-        "name": "02:30",
-        "url": "https://open.spotify.com/album/4a1vLUmOFdCWKRveif26Ja"
-      },
-      "artists": [
-        {
-          "name": "Rymdpojken",
-          "url": "https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "02:30",
-      "url": "https://open.spotify.com/track/1jpxVXKhTwvnBoAoEVOdE7"
-    },
-    {
-      "added_at": "2025-05-30 08:05:21",
-      "album": {
         "name": "Lampan t\u00e4nd f\u00f6r dig",
         "url": "https://open.spotify.com/album/3fceocYBrztJ0lL2kF2wBl"
       },
@@ -407,22 +391,6 @@
       "duration_ms": 153176,
       "name": "Lampan t\u00e4nd f\u00f6r dig",
       "url": "https://open.spotify.com/track/1c7tYETxbuAdYTrzgw3m66"
-    },
-    {
-      "added_at": "2025-05-30 08:05:21",
-      "album": {
-        "name": "Som i en dr\u00f6m",
-        "url": "https://open.spotify.com/album/2YDfyyMmwnKaGVHUBn08cM"
-      },
-      "artists": [
-        {
-          "name": "Herman Silow",
-          "url": "https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO"
-        }
-      ],
-      "duration_ms": 145568,
-      "name": "Fr\u00e5n & med nu",
-      "url": "https://open.spotify.com/track/4xpRrrshnyEM4UMiAOMOzG"
     },
     {
       "added_at": "2025-05-30 08:05:21",
@@ -447,6 +415,38 @@
     {
       "added_at": "2025-05-30 08:05:21",
       "album": {
+        "name": "Som i en dr\u00f6m",
+        "url": "https://open.spotify.com/album/2YDfyyMmwnKaGVHUBn08cM"
+      },
+      "artists": [
+        {
+          "name": "Herman Silow",
+          "url": "https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO"
+        }
+      ],
+      "duration_ms": 145568,
+      "name": "Fr\u00e5n & med nu",
+      "url": "https://open.spotify.com/track/4xpRrrshnyEM4UMiAOMOzG"
+    },
+    {
+      "added_at": "2025-05-30 08:05:21",
+      "album": {
+        "name": "02:30",
+        "url": "https://open.spotify.com/album/4a1vLUmOFdCWKRveif26Ja"
+      },
+      "artists": [
+        {
+          "name": "Rymdpojken",
+          "url": "https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "02:30",
+      "url": "https://open.spotify.com/track/1jpxVXKhTwvnBoAoEVOdE7"
+    },
+    {
+      "added_at": "2025-05-30 08:05:21",
+      "album": {
         "name": "G\u00e5 f\u00f6r glory",
         "url": "https://open.spotify.com/album/0O1Vm8GzLMmuaG73QKDq0a"
       },
@@ -459,6 +459,38 @@
       "duration_ms": 206373,
       "name": "G\u00e5 f\u00f6r glory",
       "url": "https://open.spotify.com/track/5JF5WXIyAvGAhMVI8Rn5AG"
+    },
+    {
+      "added_at": "2025-05-30 08:05:21",
+      "album": {
+        "name": "Dust",
+        "url": "https://open.spotify.com/album/5NfORohjlF3kjZJ2GaUtgD"
+      },
+      "artists": [
+        {
+          "name": "snuggle",
+          "url": "https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa"
+        }
+      ],
+      "duration_ms": 207312,
+      "name": "Dust",
+      "url": "https://open.spotify.com/track/6xq2ewiAEbFJt0PT8uharC"
+    },
+    {
+      "added_at": "2025-05-30 08:05:21",
+      "album": {
+        "name": "Storstads\u00e5ngest (jag beh\u00f6ver dig Sabrina)",
+        "url": "https://open.spotify.com/album/282V3114CXhdwxHdVDWpE3"
+      },
+      "artists": [
+        {
+          "name": "Ella Tiritiello",
+          "url": "https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp"
+        }
+      ],
+      "duration_ms": 172053,
+      "name": "Storstads\u00e5ngest (jag beh\u00f6ver dig Sabrina)",
+      "url": "https://open.spotify.com/track/0gEMFfHYQXxjRp1bVIllVa"
     },
     {
       "added_at": "2025-05-30 08:05:21",
@@ -483,22 +515,6 @@
     {
       "added_at": "2025-05-30 08:05:21",
       "album": {
-        "name": "Dust",
-        "url": "https://open.spotify.com/album/5NfORohjlF3kjZJ2GaUtgD"
-      },
-      "artists": [
-        {
-          "name": "snuggle",
-          "url": "https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa"
-        }
-      ],
-      "duration_ms": 207312,
-      "name": "Dust",
-      "url": "https://open.spotify.com/track/6xq2ewiAEbFJt0PT8uharC"
-    },
-    {
-      "added_at": "2025-05-30 08:05:21",
-      "album": {
         "name": "ELOISE",
         "url": "https://open.spotify.com/album/0uugVi9973DgE3eF9wfJ2S"
       },
@@ -519,18 +535,18 @@
     {
       "added_at": "2025-05-30 08:05:21",
       "album": {
-        "name": "Storstads\u00e5ngest (jag beh\u00f6ver dig Sabrina)",
-        "url": "https://open.spotify.com/album/282V3114CXhdwxHdVDWpE3"
+        "name": "Your Fantasy",
+        "url": "https://open.spotify.com/album/53Jqh6cjJL9jAVaN3alBDB"
       },
       "artists": [
         {
-          "name": "Ella Tiritiello",
-          "url": "https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp"
+          "name": "Girl Group",
+          "url": "https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4"
         }
       ],
-      "duration_ms": 172053,
-      "name": "Storstads\u00e5ngest (jag beh\u00f6ver dig Sabrina)",
-      "url": "https://open.spotify.com/track/0gEMFfHYQXxjRp1bVIllVa"
+      "duration_ms": 139444,
+      "name": "Your Fantasy",
+      "url": "https://open.spotify.com/track/2ShL2rVF4EPkcIVF03JFgM"
     },
     {
       "added_at": "2025-05-30 08:05:21",
@@ -547,22 +563,6 @@
       "duration_ms": 186900,
       "name": "Goldfish",
       "url": "https://open.spotify.com/track/1pLf4NG5vTnEUxYr9kZOpk"
-    },
-    {
-      "added_at": "2025-05-30 08:05:21",
-      "album": {
-        "name": "Your Fantasy",
-        "url": "https://open.spotify.com/album/53Jqh6cjJL9jAVaN3alBDB"
-      },
-      "artists": [
-        {
-          "name": "Girl Group",
-          "url": "https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4"
-        }
-      ],
-      "duration_ms": 139444,
-      "name": "Your Fantasy",
-      "url": "https://open.spotify.com/track/2ShL2rVF4EPkcIVF03JFgM"
     },
     {
       "added_at": "2025-05-30 08:05:21",
@@ -599,22 +599,6 @@
     {
       "added_at": "2025-05-30 08:05:21",
       "album": {
-        "name": "Dancing Around The Truth",
-        "url": "https://open.spotify.com/album/2OCDNEGYq55vhBAMwkIoVe"
-      },
-      "artists": [
-        {
-          "name": "Mina Okabe",
-          "url": "https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl"
-        }
-      ],
-      "duration_ms": 230670,
-      "name": "Dancing Around The Truth",
-      "url": "https://open.spotify.com/track/3WMPOfSgxjZY2jFZYCTQeP"
-    },
-    {
-      "added_at": "2025-05-30 08:05:21",
-      "album": {
         "name": "Stannar vi kvar h\u00e4r s\u00e5 d\u00f6r vi",
         "url": "https://open.spotify.com/album/1kyZ7ToGWJiXmJX3MjUdDT"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 180133,
       "name": "Stannar vi kvar h\u00e4r s\u00e5 d\u00f6r vi",
       "url": "https://open.spotify.com/track/1zHIvkE5jniT18H9IyHQzn"
+    },
+    {
+      "added_at": "2025-05-30 08:05:21",
+      "album": {
+        "name": "Dancing Around The Truth",
+        "url": "https://open.spotify.com/album/2OCDNEGYq55vhBAMwkIoVe"
+      },
+      "artists": [
+        {
+          "name": "Mina Okabe",
+          "url": "https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl"
+        }
+      ],
+      "duration_ms": 230670,
+      "name": "Dancing Around The Truth",
+      "url": "https://open.spotify.com/track/3WMPOfSgxjZY2jFZYCTQeP"
     },
     {
       "added_at": "2025-05-30 08:05:21",
@@ -971,6 +971,22 @@
     {
       "added_at": "2025-05-30 08:05:21",
       "album": {
+        "name": "Fortfarande du / Tills vi d\u00f6r ( Akustisk )",
+        "url": "https://open.spotify.com/album/4zQdRe8QnSmj0qHKoPZ4am"
+      },
+      "artists": [
+        {
+          "name": "lovad",
+          "url": "https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj"
+        }
+      ],
+      "duration_ms": 159773,
+      "name": "Fortfarande du",
+      "url": "https://open.spotify.com/track/5RhJlkD30z4QBbEoE8u8oH"
+    },
+    {
+      "added_at": "2025-05-30 08:05:21",
+      "album": {
         "name": "Var & N\u00e4r",
         "url": "https://open.spotify.com/album/7aJW0dQuPyvCWENSrtnOdo"
       },
@@ -991,18 +1007,18 @@
     {
       "added_at": "2025-05-30 08:05:21",
       "album": {
-        "name": "Fortfarande du / Tills vi d\u00f6r ( Akustisk )",
-        "url": "https://open.spotify.com/album/4zQdRe8QnSmj0qHKoPZ4am"
+        "name": "K\u00e4nner ni igen er",
+        "url": "https://open.spotify.com/album/5AOSs0BRjVjAZNvIshnVIj"
       },
       "artists": [
         {
-          "name": "lovad",
-          "url": "https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj"
+          "name": "Peder Stenberg",
+          "url": "https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2"
         }
       ],
-      "duration_ms": 159773,
-      "name": "Fortfarande du",
-      "url": "https://open.spotify.com/track/5RhJlkD30z4QBbEoE8u8oH"
+      "duration_ms": 279303,
+      "name": "K\u00e4nner ni igen er",
+      "url": "https://open.spotify.com/track/7CfHRQgFH52hn9gcj5d8Wq"
     },
     {
       "added_at": "2025-05-30 08:05:21",
@@ -1019,22 +1035,6 @@
       "duration_ms": 154971,
       "name": "PAUS",
       "url": "https://open.spotify.com/track/3o8OGngNtrVMigN3cMGnc4"
-    },
-    {
-      "added_at": "2025-05-30 08:05:21",
-      "album": {
-        "name": "K\u00e4nner ni igen er",
-        "url": "https://open.spotify.com/album/5AOSs0BRjVjAZNvIshnVIj"
-      },
-      "artists": [
-        {
-          "name": "Peder Stenberg",
-          "url": "https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2"
-        }
-      ],
-      "duration_ms": 279303,
-      "name": "K\u00e4nner ni igen er",
-      "url": "https://open.spotify.com/track/7CfHRQgFH52hn9gcj5d8Wq"
     },
     {
       "added_at": "2025-05-30 08:05:21",
@@ -1199,6 +1199,26 @@
     {
       "added_at": "2025-05-30 08:05:21",
       "album": {
+        "name": "LIE TO ME",
+        "url": "https://open.spotify.com/album/56tTnBQQnqpSqftNMpfEOn"
+      },
+      "artists": [
+        {
+          "name": "DREAMDNVR",
+          "url": "https://open.spotify.com/artist/3ZyMt4ZzT5TWAFKvm0UxYb"
+        },
+        {
+          "name": "KELLYKKE",
+          "url": "https://open.spotify.com/artist/5y0FFrqoxEKeS7oINVQAxj"
+        }
+      ],
+      "duration_ms": 169709,
+      "name": "LIE TO ME",
+      "url": "https://open.spotify.com/track/0TwwvWNpQySYUrK3XsR74m"
+    },
+    {
+      "added_at": "2025-05-30 08:05:21",
+      "album": {
         "name": "Dansa med mig sj\u00e4lv",
         "url": "https://open.spotify.com/album/2pwSqGf52N5kN8NdQ9sdmn"
       },
@@ -1231,6 +1251,22 @@
     {
       "added_at": "2025-05-30 08:05:21",
       "album": {
+        "name": "...Japanese pancakes",
+        "url": "https://open.spotify.com/album/3iypo05QDm3aB2ACqM8FS9"
+      },
+      "artists": [
+        {
+          "name": "Jackie Mere",
+          "url": "https://open.spotify.com/artist/4xA2Kp40KdqjdcFE6zik0p"
+        }
+      ],
+      "duration_ms": 133852,
+      "name": "...Japanese pancakes",
+      "url": "https://open.spotify.com/track/0a0EM7KSt1fHRSmfCN8stf"
+    },
+    {
+      "added_at": "2025-05-30 08:05:21",
+      "album": {
         "name": "Mormors Sommarvisa",
         "url": "https://open.spotify.com/album/1DB94nhmlINo21fAr3CzWJ"
       },
@@ -1259,22 +1295,6 @@
       "duration_ms": 168336,
       "name": "luften i maj",
       "url": "https://open.spotify.com/track/0lCZhCH8XT87T1zQDCeHsZ"
-    },
-    {
-      "added_at": "2025-05-30 08:05:21",
-      "album": {
-        "name": "...Japanese pancakes",
-        "url": "https://open.spotify.com/album/3iypo05QDm3aB2ACqM8FS9"
-      },
-      "artists": [
-        {
-          "name": "Jackie Mere",
-          "url": "https://open.spotify.com/artist/4xA2Kp40KdqjdcFE6zik0p"
-        }
-      ],
-      "duration_ms": 133852,
-      "name": "...Japanese pancakes",
-      "url": "https://open.spotify.com/track/0a0EM7KSt1fHRSmfCN8stf"
     },
     {
       "added_at": "2025-05-30 08:05:21",
@@ -1443,22 +1463,6 @@
     {
       "added_at": "2025-05-30 08:05:21",
       "album": {
-        "name": "Sista andetag",
-        "url": "https://open.spotify.com/album/35S5fdVvxyPYQm7Zs4LPd9"
-      },
-      "artists": [
-        {
-          "name": "KarreV",
-          "url": "https://open.spotify.com/artist/3U47KYSzkeq9AGPP5uYBuu"
-        }
-      ],
-      "duration_ms": 222307,
-      "name": "Sista andetag",
-      "url": "https://open.spotify.com/track/3Sdift3qjLtfOyXoKZFzcS"
-    },
-    {
-      "added_at": "2025-05-30 08:05:21",
-      "album": {
         "name": "Dance Alone",
         "url": "https://open.spotify.com/album/3Cv4PRHPdzt5A6BUpNnY0H"
       },
@@ -1475,18 +1479,18 @@
     {
       "added_at": "2025-05-30 08:05:21",
       "album": {
-        "name": "i guess this is me now?",
-        "url": "https://open.spotify.com/album/0fr8btLAWf5vRidQtFtVxc"
+        "name": "Sista andetag",
+        "url": "https://open.spotify.com/album/35S5fdVvxyPYQm7Zs4LPd9"
       },
       "artists": [
         {
-          "name": "ENVYYOU",
-          "url": "https://open.spotify.com/artist/3V8sGWr3KUanz1VJyaCngm"
+          "name": "KarreV",
+          "url": "https://open.spotify.com/artist/3U47KYSzkeq9AGPP5uYBuu"
         }
       ],
-      "duration_ms": 148906,
-      "name": "violet",
-      "url": "https://open.spotify.com/track/636roEe0dWBQwgTLJoBr9j"
+      "duration_ms": 222307,
+      "name": "Sista andetag",
+      "url": "https://open.spotify.com/track/3Sdift3qjLtfOyXoKZFzcS"
     }
   ],
   "unique_name": "p\u00e5 repeat",

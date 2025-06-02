@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 ### [Fresh Finds Korea](https://open.spotify.com/playlist/37i9dQZF1DX7vZYLzFGQXc)
 
-> 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: 김뮤즈 \(Kimmuse\)\) \(Meet the emerging talents of Korea!\)
+> 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: 김뮤즈 \(Kimmuse\)\) \(Celebrating 10 years of Fresh Finds! Meet the emerging talents of Korea!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,406 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,415 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 49 | [Creaminal \(feat\. Nah\)](https://open.spotify.com/track/258Np0aWF4TzwHRgh3y5Ki) | [OWALLOIL](https://open.spotify.com/artist/59THIwTnvgT7SeGFzocky2), [Nah](https://open.spotify.com/artist/7e5LW1fZXdujOwwKLIwn9Q) | [FRUTO](https://open.spotify.com/album/0Nm70H9uLXdftq0aqXZ2t3) | 3:00 |
 | 50 | [Burning slow \(feat\. Sik\-K, GGM LIL DRAGON\) \- Remix](https://open.spotify.com/track/5q7uQrUfdGIrTnspd8tYu6) | [Molly Yam](https://open.spotify.com/artist/52Rh1eNJIw4i8E3qZGTSHP), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [GGM LIL DRAGON](https://open.spotify.com/artist/41mlkzYR9tlZ8ZByH6yhCS) | [Burning slow \(feat\. Sik\-K, GGM LIL DRAGON\) \[Remix\]](https://open.spotify.com/album/7s2DOIB1K1zx8Lf0AF9Ivh) | 2:50 |
 
-Snapshot ID: `aDvCNAAAAACPlECYQpeE5PVaVGzn+Hrj`
+Snapshot ID: `aD0LcQAAAACcnhq7raSf8AfySex0KaHc`

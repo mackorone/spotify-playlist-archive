@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 
 > guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Armenta en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 962,334 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 962,454 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 | 74 | [rascacielos](https://open.spotify.com/track/0ThTNgSxaupZCipQWsOWph) | [Julio Caesar](https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K) | [Enero](https://open.spotify.com/album/6k0uGn4xDTNckdU9EDQ11y) | 2:57 |
 | 75 | [Soy El Unico](https://open.spotify.com/track/4pKhxDtzoLPVy4GzW1ibAz) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed \(Deluxe\)](https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq) | 3:33 |
 
-Snapshot ID: `AAAAABCQs4JmaLVYrViI1gb7p0lvjnSo`
+Snapshot ID: `aDktXgAAAADjm+hXgWqYDWwHtf/B+SyZ`

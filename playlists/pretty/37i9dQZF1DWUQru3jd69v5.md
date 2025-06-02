@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > Se eri al concerto di Sayf al MI AMI già sai 🎺 \(foto di silvia violante rouge\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,883 likes - 70 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,878 likes - 70 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

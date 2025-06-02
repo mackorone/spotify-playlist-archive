@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Tgh3tlyc3X.md) - [plain]
 
 > Enter an Alpha meditative state with mid\-range frequencies and then ease into a Theta brainwave state.
 
-[Spotify](https://open.spotify.com/user/spotify) - 323,615 likes - 163 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 323,645 likes - 163 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -172,4 +172,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Tgh3tlyc3X.md) - [plain]
 | 162 | [Binaural Theta Sinus 110Hz \- 115 Hz](https://open.spotify.com/track/5Dwt0CHY3QQm7AdZ2rnLJe) | [Sonic Whales](https://open.spotify.com/artist/64wCZb1sv0BBcay25AYmBH) | [The Art Of Meditation and Creativity](https://open.spotify.com/album/05OdJyl7TctTFyUlHgg8EX) | 3:34 |
 | 163 | [Arco Drone Theta 193Hz \- 199Hz](https://open.spotify.com/track/6CjH9tVjPF0gp8OEOsPvxp) | [Floating States](https://open.spotify.com/artist/6nw5vPqjIUusQlaEkCagcN) | [Violin Drones](https://open.spotify.com/album/61U6duTreheP36EenAHyVx) | 2:57 |
 
-Snapshot ID: `AAAAAJfySXAinFx2fjuXsZJb0VOIymC7`
+Snapshot ID: `aC3V2AAAAAAgU7SzoQA3H3UNOwyKKJnf`

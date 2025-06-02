@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Evan Craft
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,939 likes - 100 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,966 likes - 100 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 73 | [Fiesta en el Cielo](https://open.spotify.com/track/3LosnsL8GyZNKJT0ul0wD0) | [Somos Uno Worship](https://open.spotify.com/artist/68oB2vsT9Oy2gSZmIg7b7q), [Johan y Sofi](https://open.spotify.com/artist/4QPzngDflVr8Qq8vRgL4qT) | [Fiesta en el Cielo](https://open.spotify.com/album/4JoxIBIRM8c9age9oGeQE4) | 6:56 |
 | 74 | [está bien no estar bien :\): \- en vivo desde Conferencia PRISMA](https://open.spotify.com/track/5ssmvDGO8gnkZ8fT5RHd9p) | [PRISMA Más Vida](https://open.spotify.com/artist/2UHFb8SvTwloYRgoPz8umM), [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm), [Jared Spyker](https://open.spotify.com/artist/0bW5tLziQ59hA9iN0D8pnd), [Adeliz Spyker](https://open.spotify.com/artist/6DC7chZwDQay07EhXaQslH) | [está bien no estar bien :\): \(en vivo desde Conferencia PRISMA\)](https://open.spotify.com/album/6ywN7Cv8kTELAzEP6V0ILN) | 3:58 |
 | 75 | [Poderte Conocer](https://open.spotify.com/track/4d8vNfxeNuXgzvNhuPpFKs) | [Joel Rocco](https://open.spotify.com/artist/7sjNSERyTcSvuDsLk9xwpe), [Enoc Parra](https://open.spotify.com/artist/2dXm6Fjb3OP6YKDyaF09jM) | [Poderte Conocer](https://open.spotify.com/album/4uGPxcRoswCX8oFlusAgnr) | 7:18 |
-| 76 | [Gloria Prostrera](https://open.spotify.com/track/0wetURU3wx7xrSJuW0i5fz) | [Grupo Grace](https://open.spotify.com/artist/6toUclayfnCvKyLtLSmyqb), [Jordan Mateo](https://open.spotify.com/artist/2siiKhqUOAkKoEMA0IUi9W) | [Gloria Postrera](https://open.spotify.com/album/3uOuFYlRLsXhzfw38ROyQU) | 9:30 |
+| 76 | [Gloria Postrera](https://open.spotify.com/track/0wetURU3wx7xrSJuW0i5fz) | [Grupo Grace](https://open.spotify.com/artist/6toUclayfnCvKyLtLSmyqb), [Jordan Mateo](https://open.spotify.com/artist/2siiKhqUOAkKoEMA0IUi9W) | [Gloria Postrera](https://open.spotify.com/album/3uOuFYlRLsXhzfw38ROyQU) | 9:30 |
 | 77 | [Reina Inmaculada](https://open.spotify.com/track/2R9dK8NZVqrEcWX7AVROtO) | [Verónica Sanfilippo](https://open.spotify.com/artist/70jDa8sYqczy9YjrRCgftf) | [Reina Inmaculada](https://open.spotify.com/album/5lIepyyfzG5vKuWiI9yi0v) | 3:18 |
 | 78 | [JEMS](https://open.spotify.com/track/5eWekTGxL4hGtSmeJET6U8) | [Samu Robles](https://open.spotify.com/artist/2fvKekLjq0z3TzIljRraPl), [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH) | [PRESENCIA](https://open.spotify.com/album/54S7g8nmBdyCvIiPT6R1rZ) | 3:57 |
 | 79 | [Cuando Me Ves](https://open.spotify.com/track/0jRyIKI1afOiFsaOxwx63E) | [Junior Delgado Music](https://open.spotify.com/artist/0cVT6RdWUCUZIDu2PN1Brb), [Obedoyoque](https://open.spotify.com/artist/0ZV3RlJLxlSiCjiWO2WFXS), [l3tter](https://open.spotify.com/artist/3B0n8UdEg8Eo2OMUvhrlZt), [La Qadra Music](https://open.spotify.com/artist/2bTPXV9qqB8r1ujLb7K19m) | [Cuando Me Ves](https://open.spotify.com/album/2j0dWJIWZjxynM4uBnH2BO) | 2:39 |

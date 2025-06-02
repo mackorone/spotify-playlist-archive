@@ -1,6 +1,6 @@
 {
   "description": "Tuyo es el reino, Tuyo el poder y la gloria por siempre, Se\u00f1or.",
-  "num_followers": 220455,
+  "num_followers": 220517,
   "original_name": "Jes\u00fas Vive",
   "owner": {
     "name": "Spotify",
@@ -703,22 +703,6 @@
     {
       "added_at": "2025-04-06 05:33:25",
       "album": {
-        "name": "El Poder De Tu Amor",
-        "url": "https://open.spotify.com/album/48OdG91I1ZNnYmq8XSxBJW"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 269640,
-      "name": "Por Amor",
-      "url": "https://open.spotify.com/track/7j2pRAjkERWLyg4ULzxWTR"
-    },
-    {
-      "added_at": "2025-04-06 05:33:25",
-      "album": {
         "name": "Mi Jes\u00fas",
         "url": "https://open.spotify.com/album/7ac4ykr2GHuMYc29l6QzHx"
       },
@@ -759,22 +743,18 @@
     {
       "added_at": "2025-04-06 05:33:25",
       "album": {
-        "name": "En Esto Creo",
-        "url": "https://open.spotify.com/album/2bjV5XKKD0g4wDFnsWBVhi"
+        "name": "El Poder De Tu Amor",
+        "url": "https://open.spotify.com/album/48OdG91I1ZNnYmq8XSxBJW"
       },
       "artists": [
         {
-          "name": "Hillsong en Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
-        },
-        {
-          "name": "Reuben Morgan",
-          "url": "https://open.spotify.com/artist/1pSefalk3Yw0CblqfLvy05"
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
         }
       ],
-      "duration_ms": 252320,
-      "name": "Calvario",
-      "url": "https://open.spotify.com/track/3KyYP6N1HqfR00s9Locjzm"
+      "duration_ms": 269640,
+      "name": "Por Amor",
+      "url": "https://open.spotify.com/track/7j2pRAjkERWLyg4ULzxWTR"
     },
     {
       "added_at": "2025-04-06 05:33:25",
@@ -795,6 +775,26 @@
       "duration_ms": 339202,
       "name": "Nunca Fallas",
       "url": "https://open.spotify.com/track/5wC29DelLmDsXJpKmQlsnu"
+    },
+    {
+      "added_at": "2025-04-06 05:33:25",
+      "album": {
+        "name": "En Esto Creo",
+        "url": "https://open.spotify.com/album/2bjV5XKKD0g4wDFnsWBVhi"
+      },
+      "artists": [
+        {
+          "name": "Hillsong en Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
+        },
+        {
+          "name": "Reuben Morgan",
+          "url": "https://open.spotify.com/artist/1pSefalk3Yw0CblqfLvy05"
+        }
+      ],
+      "duration_ms": 252320,
+      "name": "Calvario",
+      "url": "https://open.spotify.com/track/3KyYP6N1HqfR00s9Locjzm"
     },
     {
       "added_at": "2025-04-06 05:33:25",
@@ -863,22 +863,6 @@
     {
       "added_at": "2025-04-06 05:33:25",
       "album": {
-        "name": "El Poder De Tu Amor",
-        "url": "https://open.spotify.com/album/48OdG91I1ZNnYmq8XSxBJW"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 291173,
-      "name": "Inmenso Amor",
-      "url": "https://open.spotify.com/track/4WlN1c3Paa7BeJWmjdcGgs"
-    },
-    {
-      "added_at": "2025-04-06 05:33:25",
-      "album": {
         "name": "Porque \u00c9l Vive",
         "url": "https://open.spotify.com/album/4xSQ0ZsJO1VezwxplS4Ivn"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 225493,
       "name": "Amor Imparable",
       "url": "https://open.spotify.com/track/3VkvPeQbdwEYNTs20CJq6U"
+    },
+    {
+      "added_at": "2025-04-06 05:33:25",
+      "album": {
+        "name": "El Poder De Tu Amor",
+        "url": "https://open.spotify.com/album/48OdG91I1ZNnYmq8XSxBJW"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 291173,
+      "name": "Inmenso Amor",
+      "url": "https://open.spotify.com/track/4WlN1c3Paa7BeJWmjdcGgs"
     },
     {
       "added_at": "2025-04-06 05:33:25",
@@ -1631,6 +1631,30 @@
     {
       "added_at": "2025-04-06 05:33:25",
       "album": {
+        "name": "Tu Reino Est\u00e1 Aqu\u00ed",
+        "url": "https://open.spotify.com/album/23WpengG8gPWQSRXQG5aoO"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Johan Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
+        },
+        {
+          "name": "Josu\u00e9 Su\u00e1rez",
+          "url": "https://open.spotify.com/artist/6Y8o0ezdvlydLWkm8pknxL"
+        }
+      ],
+      "duration_ms": 333893,
+      "name": "Tu Reino Est\u00e1 Aqu\u00ed",
+      "url": "https://open.spotify.com/track/0GcjwLuOdrvhJOuyHu2WB1"
+    },
+    {
+      "added_at": "2025-04-06 05:33:25",
+      "album": {
         "name": "Jesucristo Basta (Versi\u00f3n Ac\u00fastica)",
         "url": "https://open.spotify.com/album/7qYIGL8Zkxg0ItaAa5Ex96"
       },
@@ -1667,34 +1691,6 @@
       "duration_ms": 423173,
       "name": "Creo En Ti",
       "url": "https://open.spotify.com/track/0vaqXI37M1v9RfiP1BI0t7"
-    },
-    {
-      "added_at": "2025-04-06 05:33:25",
-      "album": {
-        "name": "Tu Reino Est\u00e1 Aqu\u00ed",
-        "url": "https://open.spotify.com/album/23WpengG8gPWQSRXQG5aoO"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Edward Rivera",
-          "url": "https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv"
-        },
-        {
-          "name": "Johan Manjarr\u00e9s",
-          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
-        },
-        {
-          "name": "Sof\u00eda Mancipe",
-          "url": "https://open.spotify.com/artist/13JxTQpXz8TBhXjOjYDioQ"
-        }
-      ],
-      "duration_ms": 623320,
-      "name": "Aleluya",
-      "url": "https://open.spotify.com/track/0NckqVt6yKJ783QiWWCDTb"
     },
     {
       "added_at": "2025-04-06 05:33:25",

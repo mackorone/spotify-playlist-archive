@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Todo lo nuevo en música tropical 📸 Gloria Estefan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,518 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,530 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 26 | [Me Mataron](https://open.spotify.com/track/7dyDDYCVEv4Lpj1IAQTg8N) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df), [El Blachy](https://open.spotify.com/artist/7eUSP77ZhnXleSue48JWiT) | [Me Mataron](https://open.spotify.com/album/2mc2AZk6kMwALztbrUETMN) | 3:33 |
 | 27 | [Estas Ganas](https://open.spotify.com/track/6axFk0R5Fm7BmnAle3CJ2T) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Estas Ganas](https://open.spotify.com/album/1JyeUyl21sY9G60Clzk7vO) | 2:46 |
 | 28 | [Fuiste Mala / Si Una Vez](https://open.spotify.com/track/5hFMovaf58nqk7WkMQ2PSi) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC), [Omega](https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK) | [Fuiste Mala / Si Una Vez](https://open.spotify.com/album/75tr89NLHOSlOK05XPSFqH) | 3:26 |
-| 29 | [Tu jardín con enanitos](https://open.spotify.com/track/6X8DTIJEgHUjZynuds0E2f) | [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN), [Max Carra](https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL), [Valen](https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz) | [Tu jardín con enanitos](https://open.spotify.com/album/0XpyqlltZS8gGkIrJtSfxk) | 2:55 |
+| 29 | [Tu jardín con enanitos](https://open.spotify.com/track/6X8DTIJEgHUjZynuds0E2f) | [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN), [Max Carra](https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL), [Valen](https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz), [RAMKY EN LOS CONTROLES](https://open.spotify.com/artist/6jXFmaC0CvsIRSzxapsnNd) | [Tu jardín con enanitos](https://open.spotify.com/album/0XpyqlltZS8gGkIrJtSfxk) | 2:55 |
 | 30 | [Amores Del Río](https://open.spotify.com/track/3Qov998au3X7w9jjG4FymG) | [Diana Burco](https://open.spotify.com/artist/5Ne3ltocafq0vUn1nlbr3i), [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [La De Las Cumbiecitas Elegantes](https://open.spotify.com/album/2i4Hl21JEAYzGJcCfJXNvi) | 4:28 |
 | 31 | [Las Carretas \- En Vivo Desde El Auditorio Nacional](https://open.spotify.com/track/4Hz6FtIWkBPbVdN9JmVLw4) | [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW), [Matute](https://open.spotify.com/artist/6z7mf1FeKhq3GFy73o6PvC) | [Las Carretas \(En Vivo Desde El Auditorio Nacional\)](https://open.spotify.com/album/1oqbcnm3iZVMzXA4mqCBwZ) | 5:33 |
 | 32 | [Señor Bendito](https://open.spotify.com/track/0R7rh9BOt2mkOcSruwHTim) | [Fanny Lu](https://open.spotify.com/artist/6GRC8segVAr34gm6pjfSoQ), [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Una Vida Bien Vivida](https://open.spotify.com/album/3kLFC9j6D67r3fyWIisf9O) | 2:57 |

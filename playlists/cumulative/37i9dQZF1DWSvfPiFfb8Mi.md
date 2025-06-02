@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-378 songs - 1 day 0 hr 56 min
+379 songs - 1 day 1 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,7 @@
 | [Girl](https://open.spotify.com/track/2n9p4ri8vpgioUfGDrzkM8) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU), [Faye Meana](https://open.spotify.com/artist/0IYLHzQ2biFwd5DNJUZ5yP) | [Girl](https://open.spotify.com/album/4IvMviHwBSrZ8yRf1DMIEa) | 3:24 | 2025-03-07 |  |
 | [girlgetdown](https://open.spotify.com/track/7w3apThciiYhZoSXnloZXE) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Vantage](https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2) | [girlgetdown](https://open.spotify.com/album/44N3y65SMG5JBz3WC4uUQV) | 2:07 | 2024-05-31 | 2024-08-19 |
 | [Give You Up](https://open.spotify.com/track/54mgp55eYtG2n1rClelVwy) | [Bantum](https://open.spotify.com/artist/3PcfymOgMHBSp3T5YvSDiS) | [New Leaf](https://open.spotify.com/album/1pFGvzLqXa50s6svabO6Wv) | 4:43 | 2021-07-24 | 2023-06-10 |
-| [Glitter Fonk](https://open.spotify.com/track/1ewaelTFQ4zyNetGxEcB2x) | [Dabeull](https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb), [HolyBrune](https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj) | [Cosmic Fonk](https://open.spotify.com/album/2hWZr2ZlvLVHbehlalUZbc) | 3:33 | 2023-05-19 |  |
+| [Glitter Fonk](https://open.spotify.com/track/1ewaelTFQ4zyNetGxEcB2x) | [Dabeull](https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb), [HolyBrune](https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj) | [Cosmic Fonk](https://open.spotify.com/album/2hWZr2ZlvLVHbehlalUZbc) | 3:33 | 2023-05-19 | 2025-06-02 |
 | [Golden Hour](https://open.spotify.com/track/64LvvzHnnNbPn47lUj9OOT) | [Moment in Time](https://open.spotify.com/artist/0aVjuD3sYwi6b7b9dq39Mq) | [Golden Hour](https://open.spotify.com/album/3RI0SpuwXeDZRoLERezb5O) | 2:20 | 2025-04-11 |  |
 | [Good Night](https://open.spotify.com/track/41LjtnwZM4J0tKXnqiNZPM) | [Bamily](https://open.spotify.com/artist/6oMh7pGcBIgfpdKKUHmJAy) | [Good Night](https://open.spotify.com/album/0O2Bokijinn4vODXGSb9ge) | 4:37 | 2023-05-19 | 2023-10-28 |
 | [Good Times](https://open.spotify.com/track/4ElhB6q5C4ugz6owedGbQZ) | [Mikey Lion](https://open.spotify.com/artist/50iz6mQhjUfbM0UjtZxWIp) | [Good Times](https://open.spotify.com/album/3ozbJ3UJy7n4rgD8yAMNmz) | 3:56 | 2025-04-25 |  |
@@ -299,6 +299,7 @@
 | [Set You Free \(feat\. Queen Rose\)](https://open.spotify.com/track/34cdkQW4SdWcX1K5v8G2FP) | [Oden & Fatzo](https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH), [THEOS](https://open.spotify.com/artist/1hfqK3rF48A3CDcV8SAiyM), [Queen Rose](https://open.spotify.com/artist/4ffLGz2xBwZ8DELkCT0T4h) | [RAW EP](https://open.spotify.com/album/1ZWwjrnhtz8V1QIScYEXEK) | 3:34 | 2023-10-27 | 2024-01-13 |
 | [Seventies](https://open.spotify.com/track/0HFUOO7GkVBUCYz1u2IcBM) | [Theo Kottis](https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO) | [Seventies](https://open.spotify.com/album/6snRQ9zw7mrK0l0vPyY8EJ) | 3:16 | 2021-07-24 | 2023-11-04 |
 | [Seventies](https://open.spotify.com/track/4k0vs6zgt0NYq6tmDum4nP) | [Theo Kottis](https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO) | [Seventies](https://open.spotify.com/album/5X6J5NTJIWPCJzcRwIKXmb) | 3:16 | 2023-11-24 | 2024-04-19 |
+| [Shante \- Dr Packer Mix](https://open.spotify.com/track/66PWmepoeUWr4yyfop9uCD) | [MDFC](https://open.spotify.com/artist/7uWqqgv6VPqAihzjh6JwNN), [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS), [Eric Powell](https://open.spotify.com/artist/5d24PwkuP6VQJd7LrRPOEo), [Dr Packer](https://open.spotify.com/artist/46hILKsILU34lUxKKftyVm), [Joe Roberts](https://open.spotify.com/artist/1bZ6A5GwXSCqs4dES87glX) | [Shante](https://open.spotify.com/album/3v5IRNqqyXjMDIeFIkWBaC) | 6:02 | 2025-05-23 |  |
 | [She's On My Mind](https://open.spotify.com/track/4heve4ydl1u6V3AD4moZq9) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Mid Air](https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE) | 3:01 | 2023-09-15 |  |
 | [Silky, Buttery, Smooth](https://open.spotify.com/track/1vX5qb6Y5KjneEpKBjIHo5) | [Kareem Ali](https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf) | [Silky, Buttery, Smooth](https://open.spotify.com/album/3kAlMLdXh5SJcN8B9WPAlJ) | 3:04 | 2025-04-25 |  |
 | [Sing It Back \(feat\. Dana Williams\)](https://open.spotify.com/track/6j8TmyhwPunLSpeNA4kVnI) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL), [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD) | [Sing It Back \(feat\. Dana Williams\)](https://open.spotify.com/album/6zAWHfeYvpUBY7hZ5TmnTp) | 3:13 | 2024-09-06 |  |

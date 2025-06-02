@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 
 > Il concerto di Joan Thiele al MI AMI è stato bellissimo, e quindi l'abbiamo messo su Indie Italia 🌻 \(foto di kimberley ross\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,229 likes - 76 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,238 likes - 76 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

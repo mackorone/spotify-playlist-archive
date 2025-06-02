@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: KebMo & Taj Mahal
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,841 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,892 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 | 99 | [Freedom Road](https://open.spotify.com/track/5zRlD6bPTJI0zBvqMJ2H95) | [Indra Rios\-Moore](https://open.spotify.com/artist/43WX6yWKK6qAqKCr2d3yw9) | [Freedom Road](https://open.spotify.com/album/3fN5DXHpo9ut4TmVAouTRG) | 3:43 |
 | 100 | [How Deep Is Your Love](https://open.spotify.com/track/5O7oXGr6wariuJbTNNX4oy) | [The Bros\. Landreth](https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL) | [How Deep Is Your Love](https://open.spotify.com/album/4p2PP3RIx6tghBjEJZurTh) | 4:08 |
 
-Snapshot ID: `aC/y5AAAAADQK4sESqDDFT8sK/Ic+LVe`
+Snapshot ID: `aC/y5AAAAAD/Z9+8MpEZrj/LhEZnMpxr`

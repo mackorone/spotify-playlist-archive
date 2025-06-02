@@ -4908,7 +4908,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-02",
       "duration_ms": 145554,
       "name": "Carita Triste",
       "url": "https://open.spotify.com/track/5etADEsDL50apt3Gn8WlYr"
@@ -9242,7 +9242,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-02",
       "duration_ms": 199093,
       "name": "EL \u00daLTIMO BESO",
       "url": "https://open.spotify.com/track/0iDvrlGtHMldrW0X85y8zf"
@@ -10588,7 +10588,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-01",
+      "date_removed": null,
       "duration_ms": 183958,
       "name": "FAVELA",
       "url": "https://open.spotify.com/track/71LrvCBBn4q500OuayF7OK"
@@ -28480,6 +28480,48 @@
       "duration_ms": 227680,
       "name": "Sugar Daddy",
       "url": "https://open.spotify.com/track/2GMod8qUwwOMpmY71Kfru3"
+    },
+    {
+      "album": {
+        "name": "Super Bowl",
+        "url": "https://open.spotify.com/album/2qxQtNMEfhjJFn38NtXdqY"
+      },
+      "artists": [
+        {
+          "name": "Don Pablo Mures",
+          "url": "https://open.spotify.com/artist/4YcotSTsnWhSSizEgJlH5k"
+        },
+        {
+          "name": "LH",
+          "url": "https://open.spotify.com/artist/4ebruhG8pei8qFQOfNxxLs"
+        },
+        {
+          "name": "JEYSON",
+          "url": "https://open.spotify.com/artist/0ghH5fsPlkf2XIALKJNSsb"
+        },
+        {
+          "name": "Yemil",
+          "url": "https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4"
+        },
+        {
+          "name": "Danny Yash",
+          "url": "https://open.spotify.com/artist/3tULsHfYJH7joHTmn5vLNn"
+        },
+        {
+          "name": "Quimico Ultra Mega",
+          "url": "https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX"
+        },
+        {
+          "name": "K4G",
+          "url": "https://open.spotify.com/artist/7iE1RkAmNySaonnYrV8lmU"
+        }
+      ],
+      "date_added": "2025-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264902,
+      "name": "Super Bowl",
+      "url": "https://open.spotify.com/track/5Ny4ZC20IKrNwlRdRK3cEi"
     },
     {
       "album": {

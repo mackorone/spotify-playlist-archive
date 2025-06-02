@@ -1,6 +1,6 @@
 {
   "description": "For those who like to party hard!",
-  "num_followers": 495678,
+  "num_followers": 495829,
   "original_name": "Party Hard",
   "owner": {
     "name": "Spotify",
@@ -763,22 +763,6 @@
     {
       "added_at": "2025-01-22 16:03:55",
       "album": {
-        "name": "System Of A Down (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3sSfjX4fhZonjyZ10x0l0f"
-      },
-      "artists": [
-        {
-          "name": "System Of A Down",
-          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
-        }
-      ],
-      "duration_ms": 151733,
-      "name": "Suite-Pee",
-      "url": "https://open.spotify.com/track/1qGmxIGEuBEkj7bft72Kh0"
-    },
-    {
-      "added_at": "2025-01-22 16:03:55",
-      "album": {
         "name": "Supremacy",
         "url": "https://open.spotify.com/album/3EYFN0Qx0TMeJwSVgWO1ky"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 209066,
       "name": "Destroy Everything",
       "url": "https://open.spotify.com/track/501CSzS4gwNOJnlWHuBt9r"
+    },
+    {
+      "added_at": "2025-01-22 16:03:55",
+      "album": {
+        "name": "System Of A Down (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3sSfjX4fhZonjyZ10x0l0f"
+      },
+      "artists": [
+        {
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+        }
+      ],
+      "duration_ms": 151733,
+      "name": "Suite-Pee",
+      "url": "https://open.spotify.com/track/1qGmxIGEuBEkj7bft72Kh0"
     },
     {
       "added_at": "2025-01-22 16:03:55",

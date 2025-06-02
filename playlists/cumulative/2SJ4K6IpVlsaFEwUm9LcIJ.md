@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: may\-june 2025 \(previous playlists archived on my profile\)
 
-592 songs - 1 day 10 hr 10 min
+593 songs - 1 day 10 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Above Your Head](https://open.spotify.com/track/3gMbaUdsgtdM0TX24Pdy5W) | [Memory Of Jane](https://open.spotify.com/artist/4sU782GTDIMkKacoc4EuxM) | [In The Double](https://open.spotify.com/album/6ArXQJGo5C2UbKEM2hbqEb) | 2:43 | 2024-09-18 | 2024-10-07 |
 | [Abstract Of Expression](https://open.spotify.com/track/779isqr6HQU4eGWvL8Lt59) | [The Durutti Column](https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe) | [Fidelity](https://open.spotify.com/album/05V4gFM4ZIkotmDJxAGLl9) | 7:20 | 2025-01-11 | 2025-03-02 |
 | [After the Farmer's Wife](https://open.spotify.com/track/3IAnFuQUscnMQdCwz0HS81) | [Benny Benji](https://open.spotify.com/artist/31Fp7TWqvWz0fnyCvOEfZP) | [Hitch Your Wagon to a Star](https://open.spotify.com/album/5UpLbFxtP5aWQhIfKZlvSQ) | 1:31 | 2024-03-20 | 2024-05-16 |
+| [Afterlife](https://open.spotify.com/track/0yYQbFuqvXyZc46e2QEqI7) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Afterlife](https://open.spotify.com/album/0DnQhNQf6xRTkN1nVC4l1i) | 3:30 | 2025-06-01 |  |
 | [Against All Odds \(Take a Look at Me Now\) \- 2016 Remaster](https://open.spotify.com/track/63CHa6rmamv9OsehkRD8oz) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [The Singles \(Expanded\)](https://open.spotify.com/album/7yZHLfxqiGPbSQLrVJljah) | 3:26 | 2024-03-26 | 2024-05-16 |
 | [Ain't That A Kick](https://open.spotify.com/track/5JzjcUEDpVtK6fnsoX2Pxu) | [Peter Ivers](https://open.spotify.com/artist/55tLEUlrzGNtACuMVJZHNf) | [Becoming Peter Ivers](https://open.spotify.com/album/5jhapSTmOa3IfQj4WShMpQ) | 2:25 | 2025-04-20 | 2025-05-09 |
 | [AIR BY BUS](https://open.spotify.com/track/1xiVKpE9xkNLCjQS9EttM8) | [DOOPEES](https://open.spotify.com/artist/6S7MhIZberHR1iHRE6obUf) | [DOOPEE TIME](https://open.spotify.com/album/4ZrrsbXBe0byye7R0Spx1x) | 1:30 | 2024-01-31 | 2024-03-10 |

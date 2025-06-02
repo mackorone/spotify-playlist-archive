@@ -1,12 +1,12 @@
 {
   "description": "This is N\u00edvea Soares. The essential tracks, all in one playlist.",
-  "num_followers": 62596,
+  "num_followers": 62610,
   "original_name": "This Is N\u00edvea Soares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDj1AAAAAABf2E/zclL1dW+eqodfyxr6",
+  "snapshot_id": "aDpGgAAAAADbY2oUWTbK5EG2zJCrtLx5",
   "tracks": [
     {
       "added_at": null,
@@ -247,6 +247,62 @@
     {
       "added_at": null,
       "album": {
+        "name": "Comunh\u00e3o e Adora\u00e7\u00e3o 6 (Ac\u00fastico Ao Vivo)",
+        "url": "https://open.spotify.com/album/2Y67rR3nVWYbRgt8pRQpoJ"
+      },
+      "artists": [
+        {
+          "name": "Adhemar De Campos",
+          "url": "https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP"
+        },
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 280880,
+      "name": "Grande \u00e9 o Senhor - Ac\u00fastico Ao Vivo",
+      "url": "https://open.spotify.com/track/1dIah1UaJi3n5pwOaOd5QV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pardal (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1g1EUJuOcJ0poZGVMQ8Z2G"
+      },
+      "artists": [
+        {
+          "name": "Drops INA",
+          "url": "https://open.spotify.com/artist/0KKcTiB0jc5ZWK1a0JfuUh"
+        },
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 415099,
+      "name": "Pardal - Ao Vivo",
+      "url": "https://open.spotify.com/track/3S3LO7mpg0vuMH9gfCwoHC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reino de Justi\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1w3UofqYh0InFfUymfhLCi"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 307533,
+      "name": "N\u00e3o Seremos Abalados - Ao Vivo",
+      "url": "https://open.spotify.com/track/2RrmHqUvREa3cBt5W854kw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mem\u00f3rias do Cora\u00e7\u00e3o - Deluxe (Ao Vivo)",
         "url": "https://open.spotify.com/album/76HKXyRoHi007rh7EISKFl"
       },
@@ -335,62 +391,6 @@
       "duration_ms": 384876,
       "name": "Preciso de Ti - Ao Vivo",
       "url": "https://open.spotify.com/track/3bYTEQ6PyFCJTq3FcohJYQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Comunh\u00e3o e Adora\u00e7\u00e3o 6 (Ac\u00fastico Ao Vivo)",
-        "url": "https://open.spotify.com/album/2Y67rR3nVWYbRgt8pRQpoJ"
-      },
-      "artists": [
-        {
-          "name": "Adhemar De Campos",
-          "url": "https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP"
-        },
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 280880,
-      "name": "Grande \u00e9 o Senhor - Ac\u00fastico Ao Vivo",
-      "url": "https://open.spotify.com/track/1dIah1UaJi3n5pwOaOd5QV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reino de Justi\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1w3UofqYh0InFfUymfhLCi"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 307533,
-      "name": "N\u00e3o Seremos Abalados - Ao Vivo",
-      "url": "https://open.spotify.com/track/2RrmHqUvREa3cBt5W854kw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pardal (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1g1EUJuOcJ0poZGVMQ8Z2G"
-      },
-      "artists": [
-        {
-          "name": "Drops INA",
-          "url": "https://open.spotify.com/artist/0KKcTiB0jc5ZWK1a0JfuUh"
-        },
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 415099,
-      "name": "Pardal - Ao Vivo",
-      "url": "https://open.spotify.com/track/3S3LO7mpg0vuMH9gfCwoHC"
     },
     {
       "added_at": null,

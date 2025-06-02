@@ -1,12 +1,12 @@
 {
   "description": "This is RAYE. The essential tracks, all in one playlist.",
-  "num_followers": 115001,
+  "num_followers": 115045,
   "original_name": "This Is RAYE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDj1AAAAAADNLiQgenM/xBpB7JAvc3L8",
+  "snapshot_id": "aDpGgAAAAADPi+Q0btD2P5eQgW4BPrMe",
   "tracks": [
     {
       "added_at": null,
@@ -411,22 +411,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stay (Don't Go Away) [feat. Raye]",
-        "url": "https://open.spotify.com/album/581MrXg5n979mmvZaC6AOE"
+        "name": "Love Me Again",
+        "url": "https://open.spotify.com/album/0Mz15UUJtdswzlTpPfhPfc"
       },
       "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
         {
           "name": "RAYE",
           "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         }
       ],
-      "duration_ms": 185942,
-      "name": "Stay (Don't Go Away) [feat. Raye]",
-      "url": "https://open.spotify.com/track/4YhN72dRYL2Z3MsaKyT7rS"
+      "duration_ms": 198133,
+      "name": "Love Me Again",
+      "url": "https://open.spotify.com/track/4QbX1M5JblYzGTVwdZTgfb"
     },
     {
       "added_at": null,
@@ -447,18 +443,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Me Again",
-        "url": "https://open.spotify.com/album/0Mz15UUJtdswzlTpPfhPfc"
+        "name": "Stay (Don't Go Away) [feat. Raye]",
+        "url": "https://open.spotify.com/album/581MrXg5n979mmvZaC6AOE"
       },
       "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
         {
           "name": "RAYE",
           "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         }
       ],
-      "duration_ms": 198133,
-      "name": "Love Me Again",
-      "url": "https://open.spotify.com/track/4QbX1M5JblYzGTVwdZTgfb"
+      "duration_ms": 185942,
+      "name": "Stay (Don't Go Away) [feat. Raye]",
+      "url": "https://open.spotify.com/track/4YhN72dRYL2Z3MsaKyT7rS"
     },
     {
       "added_at": null,
@@ -595,26 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Don't Know Me (Acoustic Version)",
-        "url": "https://open.spotify.com/album/3YHoJsSAzBoaDDPWzLc6iA"
-      },
-      "artists": [
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 224560,
-      "name": "You Don't Know Me - Acoustic Version",
-      "url": "https://open.spotify.com/track/1OJP62SC1v9V1AcQjBQF5q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BED (David Guetta Festival Mix)",
         "url": "https://open.spotify.com/album/25SO6nYRYrNwBngu5UwThd"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 235200,
       "name": "BED - David Guetta Festival Mix",
       "url": "https://open.spotify.com/track/7ft8GUKMIuFnH4lueyOTQi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Don't Know Me (Acoustic Version)",
+        "url": "https://open.spotify.com/album/3YHoJsSAzBoaDDPWzLc6iA"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 224560,
+      "name": "You Don't Know Me - Acoustic Version",
+      "url": "https://open.spotify.com/track/1OJP62SC1v9V1AcQjBQF5q"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Ryan Castro, Myke Towers & Quevedo, Aitana, Ángela Aguilar and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 615,857 likes - 52 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 615,897 likes - 52 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 36 | [Como Un Pájaro](https://open.spotify.com/track/4zVznkVDNdQNnXsj058THT) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Como Un Pájaro](https://open.spotify.com/album/1X8lMZJ1mkuU6C9cx8oEn8) | 3:28 |
 | 37 | [Nada es de Verdad](https://open.spotify.com/track/22ggoIN4pbhVlNbQDMhe1E) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Nada es de Verdad](https://open.spotify.com/album/0Zt1WkPcC3T9ViouFf1sGC) | 2:57 |
 | 38 | [BBY FOREAL](https://open.spotify.com/track/1OufTYHViiK7cillahn3Ap) | [Remers](https://open.spotify.com/artist/5bVgn8ImAnQDIB1NjxfSvb) | [BBY FOREAL](https://open.spotify.com/album/5ImjngasGCUBHfPmd7YXMY) | 2:46 |
-| 39 | [VELAS](https://open.spotify.com/track/6QX56URnx8yhGm0Fk7LCQV) | [Bebo Dumont](https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe) | [Velas](https://open.spotify.com/album/15szwf7VUJMijWbQBMM9KZ) | 3:20 |
+| 39 | [VELAS](https://open.spotify.com/track/6QX56URnx8yhGm0Fk7LCQV) | [Bebo Dumont](https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe) | [VELAS](https://open.spotify.com/album/15szwf7VUJMijWbQBMM9KZ) | 3:20 |
 | 40 | [NoNoNo](https://open.spotify.com/track/2nHLeUWCPePxL12o5JbHzZ) | [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk) | [NoNoNo](https://open.spotify.com/album/3cVp5DmksK8HNLRn8gPGyh) | 2:30 |
 | 41 | [CLVH \(with Julio Caesar\)](https://open.spotify.com/track/2QfbYP9hHRBPQNGxE8QoPJ) | [Saul Villarreal](https://open.spotify.com/artist/2x8UcZmAbP008alg57hI3K), [Julio Caesar](https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K) | [MEJOR SOLO </3](https://open.spotify.com/album/2ZtzyOFSMCOqV8yGCUBsD7) | 2:46 |
 | 42 | [COMO TÚ](https://open.spotify.com/track/0CvqywquA1KKut69KVSYF2) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [FORAJIDOS](https://open.spotify.com/album/5oRQWG2GplLWiMA7I1rDzb) | 2:36 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 51 | [Quisiera Saber](https://open.spotify.com/track/0j8lNUjVM5tMCofwig8zHm) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [Quisiera Saber](https://open.spotify.com/album/4Fjt3hR9wLnAofCJ391vQE) | 2:44 |
 | 52 | [Timeless](https://open.spotify.com/track/4zW3MUUgJgQ9XpjvSq2Icn) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Timeless](https://open.spotify.com/album/7hBRPZOUGF4JYMHH5f0ZwN) | 3:22 |
 
-Snapshot ID: `AAAAAI5G2OrPtlgFQIY0x7eqEjt2S9oo`
+Snapshot ID: `aDnPrAAAAAC1AhQyeEMZ5A2RK28dgzem`

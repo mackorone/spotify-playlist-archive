@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1pTbqkP3uq7DV5ytFGYR8N">Richard Rodgers \(of Rodgers & Hammerstein\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-351 songs - 20 hr 32 min
+352 songs - 20 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,8 @@
 | [Honey Bun](https://open.spotify.com/track/3XYEV3l6Dfm0skHyzknAGn) | [Nellie Forbush](https://open.spotify.com/artist/7hb3ZNPr7nR8AaSEw4Rf2S) | [South Pacific \(Original Soundtrack Recording\)](https://open.spotify.com/album/2WQ4A0NReQExTbR70sFLtN) | 1:45 | 2024-07-26 |  |
 | [How Can You Forget?](https://open.spotify.com/track/5nQEhCU0lgTS3zwqv7flj5) | [Bobby Short](https://open.spotify.com/artist/3EmBIe1qOt8cX3h3Oe91mk) | [Sing Me A Swing Song](https://open.spotify.com/album/0IPTjh7ZZB3jL8WWS78wqw) | 2:37 | 2024-07-26 |  |
 | [How Sad](https://open.spotify.com/track/1mRBrmEId8KVSQ6VlPWU3S) | [Richard Kiley](https://open.spotify.com/artist/29l80PEg44YRkDbCK0U5OB) | [No Strings \(Original Broadway Cast Recording\)](https://open.spotify.com/album/7rQ4Pl2ZPoBwluuOWiEPwn) | 2:35 | 2024-07-26 |  |
-| [How Was I to Know](https://open.spotify.com/track/5cNyOgzr09vpfYXZAaEowP) | [Andre Kostelanetz](https://open.spotify.com/artist/5o8VwH65WkP2WrKliKzACM), [André Kostelanetz Orchestra](https://open.spotify.com/artist/2bGYqwJAjJlq3OLlGUtcte) | [Kostelanetz Plays Richard Rodgers](https://open.spotify.com/album/776usvENKACM75MxyRMjWR) | 1:30 | 2024-07-26 |  |
+| [How Was I to Know](https://open.spotify.com/track/5cNyOgzr09vpfYXZAaEowP) | [Andre Kostelanetz](https://open.spotify.com/artist/5o8VwH65WkP2WrKliKzACM), [André Kostelanetz Orchestra](https://open.spotify.com/artist/2bGYqwJAjJlq3OLlGUtcte) | [Kostelanetz Plays Richard Rodgers](https://open.spotify.com/album/776usvENKACM75MxyRMjWR) | 1:30 | 2024-07-26 | 2025-06-02 |
+| [How Was I to Know \(From 'Richard Rodgers'\)](https://open.spotify.com/track/6IlCPZ6NgmbC9bX09RCwXN) | [Andre Kostelanetz](https://open.spotify.com/artist/5o8VwH65WkP2WrKliKzACM) | [ANDRE KOSTELANETZ \- FOREVER INSTRUMENTAL HITS 3](https://open.spotify.com/album/7LihG1bkdCk8kNtUF3KGch) | 1:30 | 2025-06-01 |  |
 | [I Cain’t Say No](https://open.spotify.com/track/3TKMuxhbBvGBeO8wyKAPzs) | [Ali Stroker](https://open.spotify.com/artist/6LLkLNo5r8jnaLB3IVTU2M) | [Oklahoma! \(2019 Broadway Cast Recording\)](https://open.spotify.com/album/3JctweW8WZzHbU8gw0J8NP) | 3:58 | 2024-07-26 |  |
 | [I Can Do Wonders with You](https://open.spotify.com/track/4K5mjacswcVXXu7EQcnWD3) | [Harold "Scrappy" Lambert](https://open.spotify.com/artist/4Ia4tLsFNJlCd9y2Gv1fhD) | [Top 100 Classics \- The Very Best of Harold 'Scrappy'Lambert](https://open.spotify.com/album/4PkdJTJNLUMn3HyIdUQ0GH) | 2:38 | 2024-07-26 |  |
 | [I Could Write a Book](https://open.spotify.com/track/3sZ8WzywEfy4quuQ05rOT3) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [Music From The Motion Picture When Harry Met Sally...](https://open.spotify.com/album/1cBOynPpxPBybMSsy62AT1) | 2:27 | 2024-07-26 |  |

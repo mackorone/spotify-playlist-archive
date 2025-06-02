@@ -6,7 +6,7 @@
     "name": "dio",
     "url": "https://open.spotify.com/user/1ph1ewkwxtpfwzf6jygqxad1i"
   },
-  "snapshot_id": "AAAFLOBLDBjcEcYNMFm5tCVxeuxWD0TZ",
+  "snapshot_id": "AAAFLjYcutrrh05508RQOSclMtUV6+By",
   "tracks": [
     {
       "added_at": "2023-10-19 14:38:14",
@@ -14811,6 +14811,38 @@
       "duration_ms": 232386,
       "name": "\u30a8\u30ec\u30af\u30c8\u30ed\u30fb\u30ef\u30fc\u30eb\u30c9",
       "url": "https://open.spotify.com/track/1jIG6M4cM6kLwBidMICJMv"
+    },
+    {
+      "added_at": "2025-06-01 15:27:17",
+      "album": {
+        "name": "Sincerely",
+        "url": "https://open.spotify.com/album/1iccE1950dpEuNrvCojhRn"
+      },
+      "artists": [
+        {
+          "name": "TRUE",
+          "url": "https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te"
+        }
+      ],
+      "duration_ms": 275080,
+      "name": "Sincerely",
+      "url": "https://open.spotify.com/track/1UnlBvfKYZ22zCx0gbSsgX"
+    },
+    {
+      "added_at": "2025-06-01 17:35:50",
+      "album": {
+        "name": "\u3046\u307e\u308c\u308b\u307e\u3048\u304b\u3089\u304d\u307f\u3092\u3057\u3063\u3066\u308b",
+        "url": "https://open.spotify.com/album/2gTtoc06I7kEQ3g8fpZM4L"
+      },
+      "artists": [
+        {
+          "name": "\u5efb\u82b1",
+          "url": "https://open.spotify.com/artist/337i1DtQjGKjHrMMew9Neh"
+        }
+      ],
+      "duration_ms": 302066,
+      "name": "\u304b\u3044\u304b",
+      "url": "https://open.spotify.com/track/6yP026Yrvqf1PGohQ9V0KY"
     }
   ],
   "unique_name": "japan",

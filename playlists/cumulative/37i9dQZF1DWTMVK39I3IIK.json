@@ -247,6 +247,24 @@
     },
     {
       "album": {
+        "name": "Bed\u00f8vende",
+        "url": "https://open.spotify.com/album/5bKpoipS6WMBCYf8v7f5IO"
+      },
+      "artists": [
+        {
+          "name": "Josef",
+          "url": "https://open.spotify.com/artist/3NpkkvYFWSFAazQIF7NYbB"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144700,
+      "name": "Bed\u00f8vende",
+      "url": "https://open.spotify.com/track/3oswKE6oPvZWvnfJRRUNdl"
+    },
+    {
+      "album": {
         "name": "Forfra Forbundet",
         "url": "https://open.spotify.com/album/0gq6IFI5AgEr5ygk1CjEMW"
       },
@@ -1176,7 +1194,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-02",
       "duration_ms": 137547,
       "name": "For Livet",
       "url": "https://open.spotify.com/track/6xD4xNZEsk83U2PdgOjEZm"

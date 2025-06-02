@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a as novidades e grandes louvores Pentecostais. Foto: Elaine Martins",
-  "num_followers": 175832,
+  "num_followers": 175879,
   "original_name": "Louvores Pentecostais",
   "owner": {
     "name": "Spotify",
@@ -203,6 +203,22 @@
     {
       "added_at": "2025-04-28 17:48:09",
       "album": {
+        "name": "Eu Sou Mist\u00e9rio",
+        "url": "https://open.spotify.com/album/4SpmYh0CjxUxtXzxXE32Is"
+      },
+      "artists": [
+        {
+          "name": "Can\u00e7\u00e3o & Louvor",
+          "url": "https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu"
+        }
+      ],
+      "duration_ms": 268510,
+      "name": "Eu Sou Mist\u00e9rio",
+      "url": "https://open.spotify.com/track/2rcELfYmKTFtit6Gv1ZEqF"
+    },
+    {
+      "added_at": "2025-04-28 17:48:09",
+      "album": {
         "name": "Se O Mar N\u00e3o Se Abrir (Ao Vivo)",
         "url": "https://open.spotify.com/album/0TbWFxlGqVWTbdUkG75tz7"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 358973,
       "name": "Se O Mar N\u00e3o Se Abrir / Cita\u00e7\u00e3o: Firme Nas Promessas (Ao Vivo)",
       "url": "https://open.spotify.com/track/2hJwuuV6Q9Zd6iWWLgGD0B"
-    },
-    {
-      "added_at": "2025-04-28 17:48:09",
-      "album": {
-        "name": "Eu Sou Mist\u00e9rio",
-        "url": "https://open.spotify.com/album/4SpmYh0CjxUxtXzxXE32Is"
-      },
-      "artists": [
-        {
-          "name": "Can\u00e7\u00e3o & Louvor",
-          "url": "https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu"
-        }
-      ],
-      "duration_ms": 268510,
-      "name": "Eu Sou Mist\u00e9rio",
-      "url": "https://open.spotify.com/track/2rcELfYmKTFtit6Gv1ZEqF"
     },
     {
       "added_at": "2025-04-28 17:48:09",
@@ -327,22 +327,6 @@
     {
       "added_at": "2025-04-28 17:48:09",
       "album": {
-        "name": "Tenha Paci\u00eancia",
-        "url": "https://open.spotify.com/album/7cRSXJv5T9rvK5VoMXjmsa"
-      },
-      "artists": [
-        {
-          "name": "Raquel Olliver",
-          "url": "https://open.spotify.com/artist/0CsY0kk9b1XBXwvytj42fx"
-        }
-      ],
-      "duration_ms": 286096,
-      "name": "Tenha Paci\u00eancia",
-      "url": "https://open.spotify.com/track/0KeALyJoGCqwFR78aguHix"
-    },
-    {
-      "added_at": "2025-04-28 17:48:09",
-      "album": {
         "name": "Volte a Orar (Ao Vivo)",
         "url": "https://open.spotify.com/album/3Ohbs1wMdZI79L2u4X4YkL"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 395864,
       "name": "Volte a Orar - Ao Vivo",
       "url": "https://open.spotify.com/track/5r8vpwFqXUu4T7sjXDWH3D"
+    },
+    {
+      "added_at": "2025-04-28 17:48:09",
+      "album": {
+        "name": "Tenha Paci\u00eancia",
+        "url": "https://open.spotify.com/album/7cRSXJv5T9rvK5VoMXjmsa"
+      },
+      "artists": [
+        {
+          "name": "Raquel Olliver",
+          "url": "https://open.spotify.com/artist/0CsY0kk9b1XBXwvytj42fx"
+        }
+      ],
+      "duration_ms": 286096,
+      "name": "Tenha Paci\u00eancia",
+      "url": "https://open.spotify.com/track/0KeALyJoGCqwFR78aguHix"
     },
     {
       "added_at": "2025-04-28 17:48:09",
@@ -423,26 +423,6 @@
     {
       "added_at": "2025-04-28 17:48:09",
       "album": {
-        "name": "Vai Remando",
-        "url": "https://open.spotify.com/album/18VzHuGUCwAROJwXE7VDnF"
-      },
-      "artists": [
-        {
-          "name": "Kailane Frauches",
-          "url": "https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
-        }
-      ],
-      "duration_ms": 299692,
-      "name": "Vai Remando",
-      "url": "https://open.spotify.com/track/6uh4TPpwdxOSiLyGkxE5L6"
-    },
-    {
-      "added_at": "2025-04-28 17:48:09",
-      "album": {
         "name": "Foi o Senhor (Ao Vivo)",
         "url": "https://open.spotify.com/album/3Ki8QBtCUxoit8bE0yj2Jq"
       },
@@ -459,6 +439,26 @@
       "duration_ms": 412703,
       "name": "Foi o Senhor - Ao Vivo",
       "url": "https://open.spotify.com/track/4CCJF8aNJehAJu8J3IISVq"
+    },
+    {
+      "added_at": "2025-04-28 17:48:09",
+      "album": {
+        "name": "Vai Remando",
+        "url": "https://open.spotify.com/album/18VzHuGUCwAROJwXE7VDnF"
+      },
+      "artists": [
+        {
+          "name": "Kailane Frauches",
+          "url": "https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "duration_ms": 299692,
+      "name": "Vai Remando",
+      "url": "https://open.spotify.com/track/6uh4TPpwdxOSiLyGkxE5L6"
     },
     {
       "added_at": "2025-04-28 17:48:09",
@@ -699,22 +699,6 @@
     {
       "added_at": "2025-04-28 17:48:09",
       "album": {
-        "name": "A Tenda (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0YhDcP0OUvrRiKn8mrUJA9"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 470263,
-      "name": "A Tenda (Ao Vivo)",
-      "url": "https://open.spotify.com/track/57y3IxaTKpfNGDEa4OnjGe"
-    },
-    {
-      "added_at": "2025-04-28 17:48:09",
-      "album": {
         "name": "Kemilly Santos ao Vivo em S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9"
       },
@@ -731,18 +715,18 @@
     {
       "added_at": "2025-04-28 17:48:09",
       "album": {
-        "name": "Eu Prefiro Adorar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1UF9qZN8a8U6PhAnEQPVVA"
+        "name": "A Tenda (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0YhDcP0OUvrRiKn8mrUJA9"
       },
       "artists": [
         {
-          "name": "Alisson Santos",
-          "url": "https://open.spotify.com/artist/4VPAtpxf7iOgmovzCrx6mJ"
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
         }
       ],
-      "duration_ms": 860996,
-      "name": "Eu Prefiro Adorar - Ao Vivo",
-      "url": "https://open.spotify.com/track/40t4AJChxxRTHMSoNIE8yY"
+      "duration_ms": 470263,
+      "name": "A Tenda (Ao Vivo)",
+      "url": "https://open.spotify.com/track/57y3IxaTKpfNGDEa4OnjGe"
     },
     {
       "added_at": "2025-04-28 17:48:09",
@@ -763,6 +747,22 @@
       "duration_ms": 340411,
       "name": "Voc\u00ea N\u00e3o Vai Parar",
       "url": "https://open.spotify.com/track/6xkJbkLpcamCTkFcXnwO6d"
+    },
+    {
+      "added_at": "2025-04-28 17:48:09",
+      "album": {
+        "name": "Eu Prefiro Adorar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1UF9qZN8a8U6PhAnEQPVVA"
+      },
+      "artists": [
+        {
+          "name": "Alisson Santos",
+          "url": "https://open.spotify.com/artist/4VPAtpxf7iOgmovzCrx6mJ"
+        }
+      ],
+      "duration_ms": 860996,
+      "name": "Eu Prefiro Adorar - Ao Vivo",
+      "url": "https://open.spotify.com/track/40t4AJChxxRTHMSoNIE8yY"
     },
     {
       "added_at": "2025-04-28 17:48:09",
@@ -983,6 +983,22 @@
     {
       "added_at": "2025-04-28 17:48:09",
       "album": {
+        "name": "Basta uma Palavra",
+        "url": "https://open.spotify.com/album/1GDrhQp5Q0xL0GrmNPPeCN"
+      },
+      "artists": [
+        {
+          "name": "Sandra Pires",
+          "url": "https://open.spotify.com/artist/2NHt4egawSl0pKxbF04Lhf"
+        }
+      ],
+      "duration_ms": 304938,
+      "name": "Basta uma Palavra",
+      "url": "https://open.spotify.com/track/0GaxofDWGJ4Gg8gbEMgn3R"
+    },
+    {
+      "added_at": "2025-04-28 17:48:09",
+      "album": {
         "name": "A Presen\u00e7a (43 Anos Louvor Eterno) [Ao Vivo, Curitiba, Teatro Positivo, 2025]",
         "url": "https://open.spotify.com/album/67wXgN3GtBrGBnIDFc2XxC"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 353770,
       "name": "A Presen\u00e7a",
       "url": "https://open.spotify.com/track/4oOWcwpwEuTU7Fewmna98p"
-    },
-    {
-      "added_at": "2025-04-28 17:48:09",
-      "album": {
-        "name": "Basta uma Palavra",
-        "url": "https://open.spotify.com/album/1GDrhQp5Q0xL0GrmNPPeCN"
-      },
-      "artists": [
-        {
-          "name": "Sandra Pires",
-          "url": "https://open.spotify.com/artist/2NHt4egawSl0pKxbF04Lhf"
-        }
-      ],
-      "duration_ms": 304938,
-      "name": "Basta uma Palavra",
-      "url": "https://open.spotify.com/track/0GaxofDWGJ4Gg8gbEMgn3R"
     },
     {
       "added_at": "2025-04-28 17:48:09",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2025-04-28 17:48:09",
       "album": {
+        "name": "Gerando Intimidade",
+        "url": "https://open.spotify.com/album/4v13qGktdhfiSc5dF1OUZ6"
+      },
+      "artists": [
+        {
+          "name": "Jana de Paula",
+          "url": "https://open.spotify.com/artist/3Lr6AuHiJDlxtvz42oAL3K"
+        }
+      ],
+      "duration_ms": 254754,
+      "name": "Gerando Intimidade",
+      "url": "https://open.spotify.com/track/2kJBqrsKRKeG6W3FH5azRU"
+    },
+    {
+      "added_at": "2025-04-28 17:48:09",
+      "album": {
         "name": "Eu e Deus - Ao Vivo em S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/57vqSYRocsA1oDOL37wyIj"
       },
@@ -1099,22 +1115,6 @@
     {
       "added_at": "2025-04-28 17:48:09",
       "album": {
-        "name": "Gerando Intimidade",
-        "url": "https://open.spotify.com/album/4v13qGktdhfiSc5dF1OUZ6"
-      },
-      "artists": [
-        {
-          "name": "Jana de Paula",
-          "url": "https://open.spotify.com/artist/3Lr6AuHiJDlxtvz42oAL3K"
-        }
-      ],
-      "duration_ms": 254754,
-      "name": "Gerando Intimidade",
-      "url": "https://open.spotify.com/track/2kJBqrsKRKeG6W3FH5azRU"
-    },
-    {
-      "added_at": "2025-04-28 17:48:09",
-      "album": {
         "name": "Deus Est\u00e1 Cuidando",
         "url": "https://open.spotify.com/album/6X9BxQYSamEcZrrigmRw6X"
       },
@@ -1127,22 +1127,6 @@
       "duration_ms": 242824,
       "name": "Deus Est\u00e1 Cuidando",
       "url": "https://open.spotify.com/track/2QYwV00xEXGE6fxnsCG9GO"
-    },
-    {
-      "added_at": "2025-04-28 17:48:09",
-      "album": {
-        "name": "Ex\u00e9rcito de Deus",
-        "url": "https://open.spotify.com/album/4n8JAe5vcKQLx3MFTijmHB"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 254186,
-      "name": "Ex\u00e9rcito de Deus",
-      "url": "https://open.spotify.com/track/13ra4AnUP0MWBHekx1TtzJ"
     },
     {
       "added_at": "2025-04-28 17:48:09",
@@ -1167,18 +1151,18 @@
     {
       "added_at": "2025-04-28 17:48:09",
       "album": {
-        "name": "No Deserto (Ao Vivo em S\u00e3o Paulo)",
-        "url": "https://open.spotify.com/album/3JxLykAFGGCmx1vOls2RTN"
+        "name": "Ex\u00e9rcito de Deus",
+        "url": "https://open.spotify.com/album/4n8JAe5vcKQLx3MFTijmHB"
       },
       "artists": [
         {
-          "name": "Eliane Fernandes",
-          "url": "https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH"
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
         }
       ],
-      "duration_ms": 383466,
-      "name": "No Deserto (Ao Vivo em S\u00e3o Paulo)",
-      "url": "https://open.spotify.com/track/7xKFol0XmSR5WyT06GSHyF"
+      "duration_ms": 254186,
+      "name": "Ex\u00e9rcito de Deus",
+      "url": "https://open.spotify.com/track/13ra4AnUP0MWBHekx1TtzJ"
     },
     {
       "added_at": "2025-04-28 17:48:09",
@@ -1199,6 +1183,22 @@
       "duration_ms": 294475,
       "name": "Profetiza",
       "url": "https://open.spotify.com/track/27XhnRnhyicK7dn2Ui8AeH"
+    },
+    {
+      "added_at": "2025-04-28 17:48:09",
+      "album": {
+        "name": "No Deserto (Ao Vivo em S\u00e3o Paulo)",
+        "url": "https://open.spotify.com/album/3JxLykAFGGCmx1vOls2RTN"
+      },
+      "artists": [
+        {
+          "name": "Eliane Fernandes",
+          "url": "https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH"
+        }
+      ],
+      "duration_ms": 383466,
+      "name": "No Deserto (Ao Vivo em S\u00e3o Paulo)",
+      "url": "https://open.spotify.com/track/7xKFol0XmSR5WyT06GSHyF"
     },
     {
       "added_at": "2025-04-28 17:48:09",
@@ -1471,8 +1471,8 @@
     {
       "added_at": "2025-04-28 17:48:09",
       "album": {
-        "name": "Improv\u00e1vel",
-        "url": "https://open.spotify.com/album/4PdlxBC3NjyjF7pCqKody9"
+        "name": "Apocalipse (43 Anos Louvor Eterno) [Ao Vivo, Curitiba, Teatro Positivo, 2025]",
+        "url": "https://open.spotify.com/album/2LDrK6Gh3zQuy02aYkcTuw"
       },
       "artists": [
         {
@@ -1480,13 +1480,17 @@
           "url": "https://open.spotify.com/artist/4bw52hHES9kCJ1T0ILDxPw"
         },
         {
+          "name": "Vanessa Cavalcante",
+          "url": "https://open.spotify.com/artist/3b9sDZuaG4AYqiLSK1H6Kc"
+        },
+        {
           "name": "Louvor Eterno",
           "url": "https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw"
         }
       ],
-      "duration_ms": 240554,
-      "name": "Improv\u00e1vel - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4Cl4SYJFpHYLN3pByHskVo"
+      "duration_ms": 376832,
+      "name": "Apocalipse - Ao Vivo",
+      "url": "https://open.spotify.com/track/7LPHrgdhNhECxxvHYI4y11"
     },
     {
       "added_at": "2025-04-28 17:48:09",
@@ -1523,8 +1527,8 @@
     {
       "added_at": "2025-04-28 17:48:09",
       "album": {
-        "name": "Apocalipse (43 Anos Louvor Eterno) [Ao Vivo, Curitiba, Teatro Positivo, 2025]",
-        "url": "https://open.spotify.com/album/2LDrK6Gh3zQuy02aYkcTuw"
+        "name": "Improv\u00e1vel",
+        "url": "https://open.spotify.com/album/4PdlxBC3NjyjF7pCqKody9"
       },
       "artists": [
         {
@@ -1532,17 +1536,13 @@
           "url": "https://open.spotify.com/artist/4bw52hHES9kCJ1T0ILDxPw"
         },
         {
-          "name": "Vanessa Cavalcante",
-          "url": "https://open.spotify.com/artist/3b9sDZuaG4AYqiLSK1H6Kc"
-        },
-        {
           "name": "Louvor Eterno",
           "url": "https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw"
         }
       ],
-      "duration_ms": 376832,
-      "name": "Apocalipse - Ao Vivo",
-      "url": "https://open.spotify.com/track/7LPHrgdhNhECxxvHYI4y11"
+      "duration_ms": 240554,
+      "name": "Improv\u00e1vel - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4Cl4SYJFpHYLN3pByHskVo"
     }
   ],
   "unique_name": "Louvores Pentecostais",

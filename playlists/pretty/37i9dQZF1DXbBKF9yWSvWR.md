@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 
 > Weekly update for Indie releases\. Cover: <a href="spotify:playlist:37i9dQZF1DXaxwXKCsImRe">RADAR</a>\-artist Hiqpy
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,076 likes - 101 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,083 likes - 101 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Red Flag Magician](https://open.spotify.com/track/2Or2qg4qhw5RXDbyCTGIdb) | [Hiqpy](https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq) | [Red Flag Magician](https://open.spotify.com/album/1gRciLdgJ2GetUgTSher9p) | 5:28 |
-| 2 | [Pop Pop Pop Pop Pop Pop Pop Stop](https://open.spotify.com/track/0wykjPfPa7YNXqohSzlsJ7) | [Lézard](https://open.spotify.com/artist/71OpeN8Riy5gGtmqlSYfVH) | [Pop Pop Pop Pop Pop Pop Pop Stop](https://open.spotify.com/album/3apSekdGAf1nGm25bTEUSA) | 2:59 |
-| 3 | [Transmuted Matter](https://open.spotify.com/track/7zURyQnzkBzFygOxIDdyTf) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Transmuted Matter](https://open.spotify.com/album/6QkrEzypKMm9yt90JpeY6U) | 4:16 |
-| 4 | [Unicorn](https://open.spotify.com/track/5CcWCddzMfT89UIpTSVvvT) | [RIO KOSTA](https://open.spotify.com/artist/4xU7M9wEvpnvkNOyPdVi5y) | [Unicorn](https://open.spotify.com/album/2lOkKWJrhy0Fyy5YDyx1wl) | 3:36 |
-| 5 | [Hedgehog](https://open.spotify.com/track/3osfNjmtev57CZjDAAgSIM) | [Fig Tape](https://open.spotify.com/artist/44kJG3Qy0qN3xmoogcJU2Z) | [Hedgehog](https://open.spotify.com/album/62LC3S1lmbe7JIuRryTOrs) | 2:59 |
-| 6 | [Changes](https://open.spotify.com/track/1aM4DIS4Jq3ELNEDVV0jrl) | [Aäron Koch](https://open.spotify.com/artist/5SJoC7NQtJbwyCOm8ebQ21) | [Changes](https://open.spotify.com/album/1KbUZSiTrNywKW298jFp4u) | 3:10 |
-| 7 | [Elderberry Wine](https://open.spotify.com/track/1FZXwhynIW71oSoo1u20L5) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Elderberry Wine](https://open.spotify.com/album/5qKmEm0NJ4OzvvUa1cruSV) | 3:35 |
-| 8 | [Ghost](https://open.spotify.com/track/6R7N4GhS0rm0bVDSJIiyrx) | [Moonloops](https://open.spotify.com/artist/2rXIqzzsMByBxUJhiZPXWo) | [Ghost](https://open.spotify.com/album/2CMA7Jmsi4F33ihCXJbymv) | 2:45 |
-| 9 | [Big city life](https://open.spotify.com/track/02DduZyB33c2EpkSx2Zr4C) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Big city life](https://open.spotify.com/album/6C14WjZp4TYn9AXkhdx5Qd) | 2:08 |
-| 10 | [I Don't Wanna](https://open.spotify.com/track/0rt5jpP3FPHUmmrthlUsL6) | [Romy Liz Rose](https://open.spotify.com/artist/688s4LELC5ay7yZAdZ7LrS) | [I Don't Wanna](https://open.spotify.com/album/6sDEM9Y2n39EFkqhjtCESe) | 4:46 |
-| 11 | [One Thing](https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [One Thing](https://open.spotify.com/album/2pIQ2uWPJUvfnmM917UC1I) | 3:28 |
+| 2 | [Unicorn](https://open.spotify.com/track/5CcWCddzMfT89UIpTSVvvT) | [RIO KOSTA](https://open.spotify.com/artist/4xU7M9wEvpnvkNOyPdVi5y) | [Unicorn](https://open.spotify.com/album/2lOkKWJrhy0Fyy5YDyx1wl) | 3:36 |
+| 3 | [Pop Pop Pop Pop Pop Pop Pop Stop](https://open.spotify.com/track/0wykjPfPa7YNXqohSzlsJ7) | [Lézard](https://open.spotify.com/artist/71OpeN8Riy5gGtmqlSYfVH) | [Pop Pop Pop Pop Pop Pop Pop Stop](https://open.spotify.com/album/3apSekdGAf1nGm25bTEUSA) | 2:59 |
+| 4 | [One Thing](https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [One Thing](https://open.spotify.com/album/2pIQ2uWPJUvfnmM917UC1I) | 3:28 |
+| 5 | [Transmuted Matter](https://open.spotify.com/track/7zURyQnzkBzFygOxIDdyTf) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Transmuted Matter](https://open.spotify.com/album/6QkrEzypKMm9yt90JpeY6U) | 4:16 |
+| 6 | [Hedgehog](https://open.spotify.com/track/3osfNjmtev57CZjDAAgSIM) | [Fig Tape](https://open.spotify.com/artist/44kJG3Qy0qN3xmoogcJU2Z) | [Hedgehog](https://open.spotify.com/album/62LC3S1lmbe7JIuRryTOrs) | 2:59 |
+| 7 | [Changes](https://open.spotify.com/track/1aM4DIS4Jq3ELNEDVV0jrl) | [Aäron Koch](https://open.spotify.com/artist/5SJoC7NQtJbwyCOm8ebQ21) | [Changes](https://open.spotify.com/album/1KbUZSiTrNywKW298jFp4u) | 3:10 |
+| 8 | [Elderberry Wine](https://open.spotify.com/track/1FZXwhynIW71oSoo1u20L5) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Elderberry Wine](https://open.spotify.com/album/5qKmEm0NJ4OzvvUa1cruSV) | 3:35 |
+| 9 | [Ghost](https://open.spotify.com/track/6R7N4GhS0rm0bVDSJIiyrx) | [Moonloops](https://open.spotify.com/artist/2rXIqzzsMByBxUJhiZPXWo) | [Ghost](https://open.spotify.com/album/2CMA7Jmsi4F33ihCXJbymv) | 2:45 |
+| 10 | [Big city life](https://open.spotify.com/track/02DduZyB33c2EpkSx2Zr4C) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Big city life](https://open.spotify.com/album/6C14WjZp4TYn9AXkhdx5Qd) | 2:08 |
+| 11 | [I Don't Wanna](https://open.spotify.com/track/0rt5jpP3FPHUmmrthlUsL6) | [Romy Liz Rose](https://open.spotify.com/artist/688s4LELC5ay7yZAdZ7LrS) | [I Don't Wanna](https://open.spotify.com/album/6sDEM9Y2n39EFkqhjtCESe) | 4:46 |
 | 12 | [Tomorrow is Perfect](https://open.spotify.com/track/3LY1CZhWdfHezDSmZSLfrC) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Tomorrow is Perfect](https://open.spotify.com/album/7gVnv19lJakKUMCTYZ7BXq) | 6:21 |
 | 13 | [Emo Song](https://open.spotify.com/track/1EAciAN6W2LWDqwonSKpZ6) | [The Haunted Youth](https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod) | [Emo Song](https://open.spotify.com/album/57eDLXzpt2x9Mu5uBZ0eFj) | 6:38 |
 | 14 | [Bloom Baby Bloom](https://open.spotify.com/track/3QJtQCtKVX5rLNYEsy4CWA) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Bloom Baby Bloom](https://open.spotify.com/album/5nOndkG5PT7mDiD0o6fte8) | 3:47 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 | 100 | [Starry Eyed](https://open.spotify.com/track/69iHQfZMuNshmrixkhWYBe) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Starry Eyed](https://open.spotify.com/album/2yByFS4ml3PMBBLhBPJIfN) | 2:16 |
 | 101 | [I Come With Mud](https://open.spotify.com/track/6U13ePayjjfmxzXHGGYbv5) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Equus Asinus](https://open.spotify.com/album/3DMcONcVrHi6yNLwL576GU) | 4:51 |
 
-Snapshot ID: `aDi1zwAAAACR9TEO0mmpgOfrE7qOlDdr`
+Snapshot ID: `aDzAYwAAAABadLdv19qqQJaQ6Bf+49r9`

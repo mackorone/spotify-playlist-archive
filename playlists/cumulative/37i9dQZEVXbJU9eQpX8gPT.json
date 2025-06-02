@@ -3048,7 +3048,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-31",
+      "date_removed": null,
       "duration_ms": 175390,
       "name": "Atiteha l'amour \u0639\u0637\u064a\u062a\u0647\u0627",
       "url": "https://open.spotify.com/track/0iQYnonGw7XG8m7N1tQdDz"
@@ -14560,7 +14560,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-02",
       "duration_ms": 228573,
       "name": "JCVDEMS",
       "url": "https://open.spotify.com/track/1HCJ5RO87crtux9fWtXvDQ"
@@ -17876,7 +17876,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-02",
       "duration_ms": 200706,
       "name": "Love is blind",
       "url": "https://open.spotify.com/track/7sGKXFxcDp0SD1hDk6rWH4"
@@ -17894,7 +17894,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-02",
       "duration_ms": 182293,
       "name": "Love Me Again",
       "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
@@ -18908,7 +18908,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-02",
       "duration_ms": 180360,
       "name": "Magic (feat. I.A.)",
       "url": "https://open.spotify.com/track/26AJYfDkqXUTOXLW7fYOZO"
@@ -23768,7 +23768,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-02",
       "duration_ms": 215813,
       "name": "Pa Pa Paw",
       "url": "https://open.spotify.com/track/7heoPFrtuH6JU6AcfzjWHp"
@@ -24868,7 +24868,7 @@
       ],
       "date_added": "2024-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-01",
+      "date_removed": null,
       "duration_ms": 191666,
       "name": "POPO",
       "url": "https://open.spotify.com/track/7B0k8YTfKzj9BGVaLYXtub"
@@ -29606,10 +29606,36 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-01",
+      "date_removed": null,
       "duration_ms": 199968,
       "name": "TABOUT",
       "url": "https://open.spotify.com/track/5J2Bor0WtYLy76D229gh8j"
+    },
+    {
+      "album": {
+        "name": "TAF TAF",
+        "url": "https://open.spotify.com/album/5Qw3MvNZK4lOrEHYxl8nYE"
+      },
+      "artists": [
+        {
+          "name": "OldyGotTheSound",
+          "url": "https://open.spotify.com/artist/5J1oH9bIdN8XDWOQuTZEIn"
+        },
+        {
+          "name": "Anys",
+          "url": "https://open.spotify.com/artist/1YjFEw5PirL57vHDoCMkhw"
+        },
+        {
+          "name": "Shaw",
+          "url": "https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1"
+        }
+      ],
+      "date_added": "2025-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138461,
+      "name": "TAF TAF",
+      "url": "https://open.spotify.com/track/6dTXGkUrNYmR8kSfr5MxmW"
     },
     {
       "album": {
@@ -34000,7 +34026,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2025-06-01",
+      "date_removed": null,
       "duration_ms": 200599,
       "name": "Zahri",
       "url": "https://open.spotify.com/track/7tbdg8jBXvkdqo1LiuKZ2l"

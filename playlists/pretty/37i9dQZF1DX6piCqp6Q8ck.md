@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 
 > Uplifting and happy jazz christmas classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,025 likes - 70 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,012 likes - 70 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 | 12 | [White Christmas](https://open.spotify.com/track/14QJl6TD0xnKl26NkTVez2) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Ultimate Christmas](https://open.spotify.com/album/1gCLWt3kXk5kNTZdsx6P8a) | 2:38 |
 | 13 | [The Happiest Christmas Tree](https://open.spotify.com/track/5aJP0MZjb8LtPAT5WicCZm) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 1:43 |
 | 14 | [Warm In December \- Edit](https://open.spotify.com/track/4iZUPqpbdr4cI8OOzlKKqR) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Warm In December \(Edit\)](https://open.spotify.com/album/5RYN71suwnCCydI7oVfVYM) | 2:41 |
-| 15 | [A December to Remember](https://open.spotify.com/track/311LJn3hzR1L2fNYlVCYCT) | [Season's Greetings](https://open.spotify.com/artist/5wLLNDMOPzzbKjRGOWymEf) | [A December to Remember](https://open.spotify.com/album/3KcrL0tebR066rsCoG9Rge) | 3:39 |
-| 16 | [All I Want For Christmas Is You](https://open.spotify.com/track/78buvo4nEf1G7ir4QubyuN) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [The Song Society Playlist](https://open.spotify.com/album/2FrMkEgtQ6uITrWSoO07zX) | 4:13 |
+| 15 | [All I Want For Christmas Is You](https://open.spotify.com/track/78buvo4nEf1G7ir4QubyuN) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [The Song Society Playlist](https://open.spotify.com/album/2FrMkEgtQ6uITrWSoO07zX) | 4:13 |
+| 16 | [A December to Remember](https://open.spotify.com/track/311LJn3hzR1L2fNYlVCYCT) | [Season's Greetings](https://open.spotify.com/artist/5wLLNDMOPzzbKjRGOWymEf) | [A December to Remember](https://open.spotify.com/album/3KcrL0tebR066rsCoG9Rge) | 3:39 |
 | 17 | [Santa's Sleighbell Song](https://open.spotify.com/track/0bBZ8ISzCYpOtiaykMl7lg) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [Santa's Sleighbell Song](https://open.spotify.com/album/5hZW8lqvODmNGu3x7nwXOJ) | 2:29 |
 | 18 | [I'll Be Home for Christmas](https://open.spotify.com/track/5PCS7feLWXvEsp5s5fSpXe) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [The Dean Martin Christmas Album](https://open.spotify.com/album/4Kd6niUoyuNkcLRVmThm0H) | 2:28 |
 | 19 | [You Make It Feel Like Christmas](https://open.spotify.com/track/4pVaGj9XeDTBebZyzTjizI) | [Berliner Luft Quartet](https://open.spotify.com/artist/1Vm18CZL9fZi0Bk6byWBOl) | [You Make It Feel Like Christmas](https://open.spotify.com/album/1z43uGwDhi8JxpPZwwdYh8) | 2:19 |

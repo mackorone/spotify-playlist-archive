@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3OzSuY.md) - [plain]
 
 > This is Zendaya\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,641 likes - 35 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,647 likes - 35 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3OzSuY.md) - [plain]
 | 20 | [Too Much](https://open.spotify.com/track/1cqudsA6yOqEUwGX5mrCeW) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Too Much \(From “Zapped”\)](https://open.spotify.com/album/73XdslsbaoIRZworqNAgJ2) | 3:07 |
 | 21 | [Fireflies](https://open.spotify.com/track/6GjGwc7oCLRSo6pcTCjGab) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Zendaya](https://open.spotify.com/album/7hCAU57zY6snnRSHXqAWUl) | 4:13 |
 | 22 | [Fashion Is My Kryptonite \(from "Shake It Up: Made In Japan"\)](https://open.spotify.com/track/7H9vfjM5tu6TX2ClilT3u7) | [Bella Thorne](https://open.spotify.com/artist/58AqJv0sDFPFnnBcLT8eeX), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Fashion Is My Kryptonite \(from "Shake It Up: Made In Japan"\)](https://open.spotify.com/album/0KeTEWCMTNGLKvgS4mj8C9) | 2:44 |
-| 23 | [My Jam](https://open.spotify.com/track/02DaqClSJTt95OvsiroP5j) | [Bobby Brackins](https://open.spotify.com/artist/72rsQfzxNVLPpbzQzXVJSc), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [To Live For](https://open.spotify.com/album/3gioCmiIcOvqNRWBpMYrr5) | 3:50 |
-| 24 | [Remember Me \- From "Shake It Up"](https://open.spotify.com/track/7g9OZaQlRGfIA9M1kNEtUK) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Disney Channel Play It Loud](https://open.spotify.com/album/3cLSwFnXjZGfgM62w7BCuT) | 3:03 |
+| 23 | [Remember Me \- From "Shake It Up"](https://open.spotify.com/track/7g9OZaQlRGfIA9M1kNEtUK) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Disney Channel Play It Loud](https://open.spotify.com/album/3cLSwFnXjZGfgM62w7BCuT) | 3:03 |
+| 24 | [My Jam](https://open.spotify.com/track/02DaqClSJTt95OvsiroP5j) | [Bobby Brackins](https://open.spotify.com/artist/72rsQfzxNVLPpbzQzXVJSc), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [To Live For](https://open.spotify.com/album/3gioCmiIcOvqNRWBpMYrr5) | 3:50 |
 | 25 | [Scared](https://open.spotify.com/track/4zKqkvPSeOa2918BlJJkKH) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Zendaya](https://open.spotify.com/album/7hCAU57zY6snnRSHXqAWUl) | 2:57 |
 | 26 | [Contagious Love](https://open.spotify.com/track/1twMlAUezt1FcoXcK0Wydf) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs), [Bella Thorne](https://open.spotify.com/artist/58AqJv0sDFPFnnBcLT8eeX) | [A Todo Ritmo: I <3 Dance \(Music From the TV Series\)](https://open.spotify.com/album/5bTbeUe1dHjvpr6m2nN834) | 2:15 |
 | 27 | [Beat Of My Drum](https://open.spotify.com/track/3kQof6BTRSz9eo0e8E0mSU) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Shake It Up: I <3 Dance](https://open.spotify.com/album/1eYsH5gyuJJaHdNg5inMff) | 3:16 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3OzSuY.md) - [plain]
 | 34 | [I'm Back](https://open.spotify.com/track/0kAHwYhGSsDYhJDvqqFFEj) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Shake It Up: I <3 Dance](https://open.spotify.com/album/57Cd64D2RrJf4NOVlwgn4O) | 2:26 |
 | 35 | [My Jam \- Track Commentary](https://open.spotify.com/track/6iYBqmCFPD5HzWq9Bfyiab) | [Bobby Brackins](https://open.spotify.com/artist/72rsQfzxNVLPpbzQzXVJSc), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [My Jam \- Track Commentary](https://open.spotify.com/album/2J9D3akwEAUR4kfYHQvtww) | 2:24 |
 
-Snapshot ID: `aDj1AAAAAAC81f/zsA21a685xPxpHGki`
+Snapshot ID: `aDpGgAAAAACBe5LljU+pSjR3czSqB4xv`

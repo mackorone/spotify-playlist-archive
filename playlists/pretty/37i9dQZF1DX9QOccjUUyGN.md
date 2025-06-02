@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > trap 🤝 piseiro\. Foto: Arthurzim
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,025 likes - 36 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,023 likes - 36 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,6 +43,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 33 | [1 Carro Por Mês](https://open.spotify.com/track/5blbXhDaRRuepTvD5WNTTD) | [Tillmann](https://open.spotify.com/artist/4ozkb2MvrszWeLI6moQi8h), [Doode](https://open.spotify.com/artist/3Ns5FA1ANQOzsHLWspsrC6) | [PRODÍGIO](https://open.spotify.com/album/2nOhblCsrKSO9ImIQn1Zsa) | 3:13 |
 | 34 | [Hall of Fame](https://open.spotify.com/track/7JC9ynn2BbxmrTCcmpw1s8) | [Rapadura](https://open.spotify.com/artist/4A1cX2TiUVTIaJMdWgpm4j) | [Hall of Fame](https://open.spotify.com/album/18X9sD5ytDAEo9Qw0LSMYm) | 3:27 |
 | 35 | [Zero Zero](https://open.spotify.com/track/0FnWtGORbAVaJ6VMfRuymK) | [Brenu](https://open.spotify.com/artist/5MiTkJ4H1ELFFLNSU149Uv), [Relikia](https://open.spotify.com/artist/6W87gpXtGPtbgQer83mS2J), [Subsolo](https://open.spotify.com/artist/68u9LcXws8gMwc6BoPyJtm), [LEON PX](https://open.spotify.com/artist/4x6FtbtAEHbc2Tm5P8aDBD) | [Mixtape 2025'S](https://open.spotify.com/album/1Pi2QHOml84wIC7ADjfW4Z) | 3:16 |
-| 36 | [Guiada de Boiadeiro](https://open.spotify.com/track/2XUWkaURuH0EKWkRpe99X9) | [Afro Samurai](https://open.spotify.com/artist/7pLFfd6WJC25eliPolvKcO), [Omni Black](https://open.spotify.com/artist/37nUyHRnzUrO6oitekXEWU) | [Guiada de Boiadeiro](https://open.spotify.com/album/1E9SadqIKRUpfK1sAtmEey) | 2:12 |
+| 36 | [Guiada de Boiadeiro](https://open.spotify.com/track/2XUWkaURuH0EKWkRpe99X9) | [Afro Samurai](https://open.spotify.com/artist/7pLFfd6WJC25eliPolvKcO) | [Guiada de Boiadeiro](https://open.spotify.com/album/1E9SadqIKRUpfK1sAtmEey) | 2:12 |
 
 Snapshot ID: `aDm7cwAAAAAkHXvIKSm3URp12UWe3ku+`

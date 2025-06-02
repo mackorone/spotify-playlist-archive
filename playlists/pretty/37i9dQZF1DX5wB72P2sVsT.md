@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wB72P2sVsT.md) - [plain]
 
 > Dimitri Vegas & Like Mike, W&W, Marnik au top des bangers dance/electro du moment !
 
-[Spotify](https://open.spotify.com/user/spotify) - 426,035 likes - 40 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 426,037 likes - 40 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wB72P2sVsT.md) - [plain]
 | 39 | [Don't Wake Me Up](https://open.spotify.com/track/3sU1L9okYWbN61oHZNQTfh) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Don't Wake Me Up](https://open.spotify.com/album/3j5uOXYCe6ebHU86UcAMAg) | 2:34 |
 | 40 | [Everytime We Touch](https://open.spotify.com/track/14cxJ5uLXafpMWPAsJgEYt) | [Upsilone](https://open.spotify.com/artist/7795o3nUrbz3kl6KOqHEDA), [Astrid James](https://open.spotify.com/artist/5JCfpZxK6ir2Gj4X4pBKcJ) | [Everytime We Touch](https://open.spotify.com/album/10WpaZTGRFjzoDrA2iYztE) | 2:43 |
 
-Snapshot ID: `AAAAAKeBTnHczICGMDCcgtwINGQksrRg`
+Snapshot ID: `aDjY+AAAAAATw997qB0qwgHGs84IGaE8`

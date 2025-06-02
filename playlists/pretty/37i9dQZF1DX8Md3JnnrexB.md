@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 
 > Laid back soul music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,595 likes - 91 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,600 likes - 91 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 | 12 | [Now That We Found Love](https://open.spotify.com/track/0qOkHfSClduvkvGk6fCu8l) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Ship Ahoy \(Expanded Edition\)](https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8) | 4:41 |
 | 13 | [Sideshow](https://open.spotify.com/track/0fopVbPW7N5BK0sOybQCq2) | [Blue Magic](https://open.spotify.com/artist/7tLLSEaHMMJPbsYAz8MkEw) | [Blue Magic](https://open.spotify.com/album/3DU0VQcgElO1cBHWk669BE) | 4:11 |
 | 14 | [Where Is the Love](https://open.spotify.com/track/7l07ak5IWpISBsrUtwj4O4) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA), [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [A Donny Hathaway Collection](https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB) | 2:46 |
-| 15 | [Is It You](https://open.spotify.com/track/5eWTNSMTX5BxuYYuOU4vYq) | [Lee Ritenour](https://open.spotify.com/artist/1nDqTUspmq8IXhcEZT93iq) | [Rit, Vol\. 1](https://open.spotify.com/album/4La5Rv7uDtnbsgVQxGdwMR) | 4:29 |
-| 16 | [Until You Come Back to Me \(That's What I'm Gonna Do\)](https://open.spotify.com/track/3iX0BMs9dX9CsgrHhiB173) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Let Me In Your Life](https://open.spotify.com/album/6Buhu2InRlKvtGC63NU2fC) | 3:28 |
+| 15 | [Until You Come Back to Me \(That's What I'm Gonna Do\)](https://open.spotify.com/track/3iX0BMs9dX9CsgrHhiB173) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Let Me In Your Life](https://open.spotify.com/album/6Buhu2InRlKvtGC63NU2fC) | 3:28 |
+| 16 | [Is It You](https://open.spotify.com/track/5eWTNSMTX5BxuYYuOU4vYq) | [Lee Ritenour](https://open.spotify.com/artist/1nDqTUspmq8IXhcEZT93iq) | [Rit, Vol\. 1](https://open.spotify.com/album/4La5Rv7uDtnbsgVQxGdwMR) | 4:29 |
 | 17 | [A Warm Summer Night](https://open.spotify.com/track/55CJVnRVa2fHlwyKBVPJbZ) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [Risqué](https://open.spotify.com/album/1UFBJkKiBe3Lzjr307UhuU) | 6:04 |
 | 18 | [A Woman Needs Love \(Just Like You Do\)](https://open.spotify.com/track/0DEwNI2DgasX1eprqCivJk) | [Ray Parker Jr.](https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK), [Raydio](https://open.spotify.com/artist/1VQ7baxc9Okx2YuRnpKMMR) | [A Woman Needs Love \(Expanded Edition\)](https://open.spotify.com/album/38993ejU6at3J4b0fxIien) | 4:09 |
 | 19 | [Rainy Night in Georgia](https://open.spotify.com/track/0nkRN4ONop4KlrfABlq5gA) | [Randy Crawford](https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz) | [Secret Combination](https://open.spotify.com/album/4BEentLcVNeqzfyRN6TGDI) | 4:14 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 | 66 | [Lovin' you Is Easy](https://open.spotify.com/track/591hJcYCBItu3Io608n5fv) | [Maysa](https://open.spotify.com/artist/6XGfdDOtv4mLiHnHwrZhDC) | [Lovin' you Is Easy](https://open.spotify.com/album/79fVfipQ1lVzNCmbhBOiKa) | 4:05 |
 | 67 | [It's Something](https://open.spotify.com/track/0uRD7NAWhRL0mIB3oDh49u) | [Brenda Russell](https://open.spotify.com/artist/2O8VlquQPITO4tT3SWs95W) | [Two Eyes](https://open.spotify.com/album/4LdC7V7eneSdAgfFS4MCE3) | 3:31 |
 | 68 | [Valentine Love \(Slow Version\)](https://open.spotify.com/track/6YFG39GOXeyNleOaHBYoap) | [Michael Henderson](https://open.spotify.com/artist/6KzAnKswHOUCX8xiEudD7K) | [The Best of Michael Henderson](https://open.spotify.com/album/6feal3fAi2Mr3FURLMpTfZ) | 3:58 |
-| 69 | [A Song For You](https://open.spotify.com/track/1PRNgcg4CMQH0d8O8SCNsh) | [Simply Red](https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8) | [Song Book 1985\-2010](https://open.spotify.com/album/7rXUuTQzUE1S54HJ5Yqgod) | 4:08 |
-| 70 | [Just Don't Wanna Be Lonely](https://open.spotify.com/track/2d7XPNOWJ8HS0iSgJXRAJ9) | [Will Downing](https://open.spotify.com/artist/69k2JfIQxMpBbc1wtmHWZY) | [Sensual Journey](https://open.spotify.com/album/3BKn8cFKsgaUKmFAvYVnhK) | 4:02 |
+| 69 | [Just Don't Wanna Be Lonely](https://open.spotify.com/track/2d7XPNOWJ8HS0iSgJXRAJ9) | [Will Downing](https://open.spotify.com/artist/69k2JfIQxMpBbc1wtmHWZY) | [Sensual Journey](https://open.spotify.com/album/3BKn8cFKsgaUKmFAvYVnhK) | 4:02 |
+| 70 | [A Song For You](https://open.spotify.com/track/1PRNgcg4CMQH0d8O8SCNsh) | [Simply Red](https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8) | [Song Book 1985\-2010](https://open.spotify.com/album/7rXUuTQzUE1S54HJ5Yqgod) | 4:08 |
 | 71 | [Oceans Of Emotions](https://open.spotify.com/track/48GQiMwNxi0gIyQO147aq8) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Oceans Of Emotions](https://open.spotify.com/album/6pSJafRQHluTE8jM4hnEBt) | 3:53 |
 | 72 | [Say That You Will](https://open.spotify.com/track/6L83YiKa3WRx1Fti8eD2br) | [George Duke](https://open.spotify.com/artist/3EB0uKE2lGw6BB1UFJrONl) | [The Essential George Duke](https://open.spotify.com/album/0n0oFhwxTmphj7Et9awn3L) | 3:05 |
 | 73 | [So Close](https://open.spotify.com/track/7c51mPqkeaO44KJjVuBG5J) | [Dina Carroll](https://open.spotify.com/artist/6G7PZ5QfWCPDMxTJ48vYwG) | [So Close](https://open.spotify.com/album/1N6OwzFpqpAbm4tjhuxMDe) | 4:53 |

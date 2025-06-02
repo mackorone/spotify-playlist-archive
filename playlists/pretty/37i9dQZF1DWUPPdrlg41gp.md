@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPPdrlg41gp.md) - [plain]
 
 > Chase\. Ride\. Survive\. Listen to the music from Twister and Twisters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,406 likes - 43 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,405 likes - 43 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPPdrlg41gp.md) - [plain]
 | 42 | [Twisted](https://open.spotify.com/track/2S2IT5e9CcsClsBkaTnBwO) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz), [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Music From The Motion Picture Twister\-The Dark Side Of Nature](https://open.spotify.com/album/6nhPA9JUFlmBiFASeD3Esb) | 4:13 |
 | 43 | [Respect the Wind](https://open.spotify.com/track/1Uk3N1ayracgnAgw8jk7Zf) | [Eddie Van Halen](https://open.spotify.com/artist/1DlE1l0q1w0cE9cQVIsC7I), [Alex Van Halen](https://open.spotify.com/artist/3CmDSgt3JbEGKxvssuARPB) | [Music From The Motion Picture Twister\-The Dark Side Of Nature](https://open.spotify.com/album/6nhPA9JUFlmBiFASeD3Esb) | 5:46 |
 
-Snapshot ID: `Z+0mXQAAAACAVi7+X5xE7BAvlzOrcwVX`
+Snapshot ID: `AAAAAFqvBxKi7q3Feh/esyay12xhvHOo`

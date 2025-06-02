@@ -4,7 +4,7 @@
 
 > låtarna som inte går att få nog av.
 
-326 songs - 17 hr 50 min
+327 songs - 17 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,6 +191,7 @@
 | [Lasse & hunden](https://open.spotify.com/track/2ugliGsPZth0lK3QKinrRy) | [Herman Silow](https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO) | [Lasse & hunden](https://open.spotify.com/album/0SEyzhS1YHYQCsyTIlxzIG) | 2:44 | 2025-03-24 |  |
 | [Leave Me Alone](https://open.spotify.com/track/5asaMzNMI7NVR4QUMWjicy) | [Lucky Lou](https://open.spotify.com/artist/4RziIirVtTJrU8xMTrOgU2) | [Leave Me Alone](https://open.spotify.com/album/5w543mJbAupEInVlJC8V6V) | 3:03 | 2024-06-28 | 2024-08-30 |
 | [Leyla](https://open.spotify.com/track/4QIzYCGDTLJxue9HQe4xaY) | [Robin Kadir](https://open.spotify.com/artist/4juMqlCDk4p6TrM7JXfSw2), [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [Leyla](https://open.spotify.com/album/6pkRBjBGXdVF8b0AUCfuUl) | 2:26 | 2025-03-13 |  |
+| [LIE TO ME](https://open.spotify.com/track/0TwwvWNpQySYUrK3XsR74m) | [DREAMDNVR](https://open.spotify.com/artist/3ZyMt4ZzT5TWAFKvm0UxYb), [KELLYKKE](https://open.spotify.com/artist/5y0FFrqoxEKeS7oINVQAxj) | [LIE TO ME](https://open.spotify.com/album/56tTnBQQnqpSqftNMpfEOn) | 2:49 | 2025-05-30 |  |
 | [Lightyears \(with Young Thug\)](https://open.spotify.com/track/7D5JJXdw98saj80xQxukTQ) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [The Pre\-Party](https://open.spotify.com/album/2rlWVKCWJo4vpOBl8RiYX4) | 3:12 | 2024-09-13 | 2025-02-17 |
 | [Little Brother](https://open.spotify.com/track/50txkiS3lmOYM0pQqxnNa1) | [Sofia Monroy](https://open.spotify.com/artist/3EdzgrCDNF4fwzSBM63Q2o) | [Little Brother](https://open.spotify.com/album/6IMtHh5NCek4Lm3UiGJXGa) | 4:56 | 2025-02-27 | 2025-04-06 |
 | [Louder](https://open.spotify.com/track/42Obtr1XEYyJGymYW3MIEW) | [Sissy Ford](https://open.spotify.com/artist/2drBoMyirQqpeX80MebU7l) | [Louder](https://open.spotify.com/album/1bECZOtl5rXMMJutsWrf6M) | 2:19 | 2024-06-28 | 2024-08-16 |
@@ -320,7 +321,7 @@
 | [Vem?](https://open.spotify.com/track/5W90tHshx7hSbmHNIgsHYi) | [Jonathan Johansson](https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe) | [Vem?](https://open.spotify.com/album/1LMGKjmmL4rPAlGyy3tiy8) | 3:45 | 2024-06-28 | 2024-08-16 |
 | [Venter du](https://open.spotify.com/track/4MWldeK06AisUkSYARj8YD) | [Randi Oline](https://open.spotify.com/artist/5O7vw7DOXDVSqVWWc8FpYV), [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [Venter du](https://open.spotify.com/album/33rnPbG5uBGM1klUO46Arc) | 2:37 | 2025-02-27 |  |
 | [Vincent's Wife \(p.33\)](https://open.spotify.com/track/2YqjRiCr5WfH7VBd2ctHcX) | [Salty Licorice](https://open.spotify.com/artist/6ipya2KPF19iwpylWPCHZs) | [Vincent's Wife \(p.33\)](https://open.spotify.com/album/3aj4SLrcyZzswSqbfBflP9) | 4:33 | 2025-04-17 |  |
-| [violet](https://open.spotify.com/track/636roEe0dWBQwgTLJoBr9j) | [ENVYYOU](https://open.spotify.com/artist/3V8sGWr3KUanz1VJyaCngm) | [i guess this is me now?](https://open.spotify.com/album/0fr8btLAWf5vRidQtFtVxc) | 2:28 | 2025-02-24 |  |
+| [violet](https://open.spotify.com/track/636roEe0dWBQwgTLJoBr9j) | [ENVYYOU](https://open.spotify.com/artist/3V8sGWr3KUanz1VJyaCngm) | [i guess this is me now?](https://open.spotify.com/album/0fr8btLAWf5vRidQtFtVxc) | 2:28 | 2025-02-24 | 2025-06-02 |
 | [Världen är inte vacker \(men det är vi\)](https://open.spotify.com/track/4kpu0HVUbw1Ozb1pV1pXIX) | [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [Världen är inte vacker \(men det är vi\)](https://open.spotify.com/album/0G2qck3MgeAeBACj0q0dZR) | 3:08 | 2024-10-04 | 2025-02-20 |
 | [Wedding Present](https://open.spotify.com/track/0QhJXZjQpVfiApkmvjNlGi) | [OLSSON](https://open.spotify.com/artist/6InjDqElJC0wOI2rEy9ldH) | [Wedding Present](https://open.spotify.com/album/1LhDdfNuVURcfynS096kQs) | 4:05 | 2025-03-27 | 2025-04-22 |
 | [Weightless](https://open.spotify.com/track/5sLgL3nHvgZUbtYVAt5FxN) | [Amanda Cy](https://open.spotify.com/artist/7ocbmQfDODtTh1CFeK66wW) | [LOVEGRUNGE](https://open.spotify.com/album/6GgcxPxxsyPqAlIWkAGyjR) | 3:01 | 2025-04-03 | 2025-04-11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Celebrating 10 years of the best new country music from independent artists\. Cover: Emily Ann Roberts, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,902 likes - 206 songs - 10 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,943 likes - 206 songs - 10 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

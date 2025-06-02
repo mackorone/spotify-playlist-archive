@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Alex G
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,314,285 likes - 200 songs - 11 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,314,168 likes - 200 songs - 11 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 199 | [Diva](https://open.spotify.com/track/6ynQk8NlYeRv0KnrCU0ppi) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Diva](https://open.spotify.com/album/0JV0FSaxRPredegMlY1tYi) | 4:16 |
 | 200 | [Conversation Overtime](https://open.spotify.com/track/30UFEBDXv0Kgt9x0jrtKzG) | [Mustard Service](https://open.spotify.com/artist/7kAZYW5e5hQHYGQ0XHYhns) | [Conversation Overtime](https://open.spotify.com/album/15zkafkucFbEhJnG29EGTU) | 3:14 |
 
-Snapshot ID: `AAAAAND7yt15NNIMAHAuLTKXCZjayaGJ`
+Snapshot ID: `aDoo9AAAAABNUDwDRwWd6WUfkxSy6iXH`

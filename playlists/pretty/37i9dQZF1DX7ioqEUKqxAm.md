@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ioqEUKqxAm.md) - [plain]
 
 > 次世代のポッドキャストカルチャーを担う新進気鋭のクリエイター5組を特集 \(Cover: GOLDNRUSH PODCAST\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 418 likes - 18 songs - 15 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 419 likes - 18 songs - 15 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

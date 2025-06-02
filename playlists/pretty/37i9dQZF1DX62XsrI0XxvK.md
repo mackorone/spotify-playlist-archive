@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XsrI0XxvK.md) - [plain]
 
 > Irama R&B tanah air yang merasuk jiwa\. Cover: Assia Keva
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,732 likes - 81 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,737 likes - 81 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

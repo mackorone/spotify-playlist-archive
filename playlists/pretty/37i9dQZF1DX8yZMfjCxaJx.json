@@ -1,6 +1,6 @@
 {
   "description": "Las favoritas de los patrones. Luis Mexia, El Rabbanito en portada.",
-  "num_followers": 211550,
+  "num_followers": 211649,
   "original_name": "Corridos Chakalosos",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2025-03-28 18:15:05",
       "album": {
-        "name": "Mi Vida Mi Muerte",
-        "url": "https://open.spotify.com/album/338NDGMHtB4t5mp8RhMnh3"
-      },
-      "artists": [
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        }
-      ],
-      "duration_ms": 182896,
-      "name": "Delta",
-      "url": "https://open.spotify.com/track/0E3e4EZKheJbBbisNcSR1c"
-    },
-    {
-      "added_at": "2025-03-28 18:15:05",
-      "album": {
         "name": "El Hijo Mayor",
         "url": "https://open.spotify.com/album/5uNnU1f0N66Xkll4wRnjXL"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 196500,
       "name": "El Hijo Mayor",
       "url": "https://open.spotify.com/track/1RGlfmdvcfatN0ZLOmzanS"
+    },
+    {
+      "added_at": "2025-03-28 18:15:05",
+      "album": {
+        "name": "Mi Vida Mi Muerte",
+        "url": "https://open.spotify.com/album/338NDGMHtB4t5mp8RhMnh3"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "duration_ms": 182896,
+      "name": "Delta",
+      "url": "https://open.spotify.com/track/0E3e4EZKheJbBbisNcSR1c"
     },
     {
       "added_at": "2025-03-28 18:15:05",
@@ -235,26 +235,6 @@
     {
       "added_at": "2025-03-28 18:15:05",
       "album": {
-        "name": "Mi Vida Mi Muerte",
-        "url": "https://open.spotify.com/album/338NDGMHtB4t5mp8RhMnh3"
-      },
-      "artists": [
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 171322,
-      "name": "CDN",
-      "url": "https://open.spotify.com/track/7bD15mHXz7Ws9pMzHOqtkp"
-    },
-    {
-      "added_at": "2025-03-28 18:15:05",
-      "album": {
         "name": "INC\u00d3MODO",
         "url": "https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN"
       },
@@ -271,6 +251,26 @@
       "duration_ms": 174760,
       "name": "CHINO",
       "url": "https://open.spotify.com/track/6b6qi0ObycTK8hdrkgU21Y"
+    },
+    {
+      "added_at": "2025-03-28 18:15:05",
+      "album": {
+        "name": "Mi Vida Mi Muerte",
+        "url": "https://open.spotify.com/album/338NDGMHtB4t5mp8RhMnh3"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 171322,
+      "name": "CDN",
+      "url": "https://open.spotify.com/track/7bD15mHXz7Ws9pMzHOqtkp"
     },
     {
       "added_at": "2025-03-28 18:15:05",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2025-03-28 18:15:05",
       "album": {
-        "name": "Mono Verde",
-        "url": "https://open.spotify.com/album/7nRoaZeKMvG2qmIlKeiy5r"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 195223,
-      "name": "Mono Verde",
-      "url": "https://open.spotify.com/track/52Z2MDhr07lZuvnR5X47WO"
-    },
-    {
-      "added_at": "2025-03-28 18:15:05",
-      "album": {
         "name": "Punto Y Aparte",
         "url": "https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 189149,
       "name": "Seraf\u00edn",
       "url": "https://open.spotify.com/track/7s9pcSenofBwaNfI0vjisP"
+    },
+    {
+      "added_at": "2025-03-28 18:15:05",
+      "album": {
+        "name": "Mono Verde",
+        "url": "https://open.spotify.com/album/7nRoaZeKMvG2qmIlKeiy5r"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 195223,
+      "name": "Mono Verde",
+      "url": "https://open.spotify.com/track/52Z2MDhr07lZuvnR5X47WO"
     },
     {
       "added_at": "2025-03-28 18:15:05",
@@ -1415,6 +1415,26 @@
     {
       "added_at": "2025-03-28 18:15:05",
       "album": {
+        "name": "Alumno Y Maestro",
+        "url": "https://open.spotify.com/album/3G37quZRXG46KePSj4uMat"
+      },
+      "artists": [
+        {
+          "name": "Los Chavalitos",
+          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 179786,
+      "name": "Alumno Y Maestro",
+      "url": "https://open.spotify.com/track/5ZBHGCgLDISEHmhSZXIDMa"
+    },
+    {
+      "added_at": "2025-03-28 18:15:05",
+      "album": {
         "name": "Los Brothers (09/19)",
         "url": "https://open.spotify.com/album/0A5XLLKJ8Z7G6AM7uL4WzI"
       },
@@ -1435,26 +1455,6 @@
       "duration_ms": 216310,
       "name": "Los Brothers (09/19)",
       "url": "https://open.spotify.com/track/0c8WcRLJRUuQfQIdmXAzpA"
-    },
-    {
-      "added_at": "2025-03-28 18:15:05",
-      "album": {
-        "name": "Alumno Y Maestro",
-        "url": "https://open.spotify.com/album/3G37quZRXG46KePSj4uMat"
-      },
-      "artists": [
-        {
-          "name": "Los Chavalitos",
-          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
-        },
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 179786,
-      "name": "Alumno Y Maestro",
-      "url": "https://open.spotify.com/track/5ZBHGCgLDISEHmhSZXIDMa"
     },
     {
       "added_at": "2025-03-28 18:15:05",
@@ -1575,26 +1575,6 @@
     {
       "added_at": "2025-03-28 18:15:05",
       "album": {
-        "name": "La Belikada",
-        "url": "https://open.spotify.com/album/23fDudy0YVBpYwSFFcB0Jn"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        },
-        {
-          "name": "El Padrinito Toys",
-          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
-        }
-      ],
-      "duration_ms": 153106,
-      "name": "La Belikada",
-      "url": "https://open.spotify.com/track/53fbPJud2fcK12jzYIHqD6"
-    },
-    {
-      "added_at": "2025-03-28 18:15:05",
-      "album": {
         "name": "El Viejo Fino",
         "url": "https://open.spotify.com/album/01EPmgyUtq7RRLPFbwpwtG"
       },
@@ -1623,6 +1603,26 @@
       "duration_ms": 161733,
       "name": "El Mago Merl\u00edn",
       "url": "https://open.spotify.com/track/4dbH1Md7KseiHuzWAyE3Y3"
+    },
+    {
+      "added_at": "2025-03-28 18:15:05",
+      "album": {
+        "name": "La Belikada",
+        "url": "https://open.spotify.com/album/23fDudy0YVBpYwSFFcB0Jn"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        },
+        {
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+        }
+      ],
+      "duration_ms": 153106,
+      "name": "La Belikada",
+      "url": "https://open.spotify.com/track/53fbPJud2fcK12jzYIHqD6"
     },
     {
       "added_at": "2025-03-28 18:15:05",
@@ -1667,30 +1667,6 @@
     {
       "added_at": "2025-03-28 18:15:05",
       "album": {
-        "name": "La Cruda Deluxe (En Vivo)",
-        "url": "https://open.spotify.com/album/7FULQRQbO2j0c3uqpr4N5u"
-      },
-      "artists": [
-        {
-          "name": "La Ventaja",
-          "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
-        },
-        {
-          "name": "Enigma Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
-        },
-        {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
-        }
-      ],
-      "duration_ms": 157966,
-      "name": "El Panu (En Vivo)",
-      "url": "https://open.spotify.com/track/0W1ifaL01aXznVi6ZhMWir"
-    },
-    {
-      "added_at": "2025-03-28 18:15:05",
-      "album": {
         "name": "La Raza de Michoac\u00e1n",
         "url": "https://open.spotify.com/album/6LV5hKxJFgPPdsxPnua7fN"
       },
@@ -1719,6 +1695,30 @@
       "duration_ms": 153653,
       "name": "El Cabez\u00f3n (El Papas Fritas)",
       "url": "https://open.spotify.com/track/0dXQHB8h7HEGD95YYcj7HJ"
+    },
+    {
+      "added_at": "2025-03-28 18:15:05",
+      "album": {
+        "name": "La Cruda Deluxe (En Vivo)",
+        "url": "https://open.spotify.com/album/7FULQRQbO2j0c3uqpr4N5u"
+      },
+      "artists": [
+        {
+          "name": "La Ventaja",
+          "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
+        },
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        },
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        }
+      ],
+      "duration_ms": 157966,
+      "name": "El Panu (En Vivo)",
+      "url": "https://open.spotify.com/track/0W1ifaL01aXznVi6ZhMWir"
     },
     {
       "added_at": "2025-03-28 18:15:05",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina, con Xenia y Ganges en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,186 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,153 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 49 | [Pensando en la muerte](https://open.spotify.com/track/4Oqfe6upkCzpbGHEkN8Ty6) | [Ruto Neón](https://open.spotify.com/artist/327WgTZ4vsVGhVliK40k5T), [Vera Fauna](https://open.spotify.com/artist/6A1ptzbr3ljSMF01esP6G4) | [Pensando en la muerte](https://open.spotify.com/album/6NvGollOcVopjKiSeeAFEg) | 2:19 |
 | 50 | [Malboro y te](https://open.spotify.com/track/1lOy0VRxdpOp95efy25WWz) | [La Chica del Cumpleaños](https://open.spotify.com/artist/7uzpdZFWUYCLQnqpq0MP1V) | [Malboro y te](https://open.spotify.com/album/4tCxu92814kkjmutDBdmGA) | 3:02 |
 
-Snapshot ID: `aDkfOwAAAAA9MFSEcvy3wlUlLGjJeIuz`
+Snapshot ID: `aDkfOwAAAABkOt1CUabDGuXXHV16WTx9`

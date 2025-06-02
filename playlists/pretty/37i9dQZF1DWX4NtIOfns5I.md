@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > qunnie on the cover 🫧
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,741 likes - 120 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,795 likes - 120 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 | 119 | [Haunt Me](https://open.spotify.com/track/5zmLRdgheUjzeeL6697YK1) | [Yana](https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX) | [Haunt Me](https://open.spotify.com/album/4iVeKQ7C5DHranMwzbvCix) | 3:15 |
 | 120 | [Yoke \(with Julien Baker\)](https://open.spotify.com/track/58VHR19NNpBFrrL2PP06Wv) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Yoke \(with Julien Baker\)](https://open.spotify.com/album/3jC9qVXOLE53cU2eTm4RZW) | 3:53 |
 
-Snapshot ID: `aDktYQAAAAAUx0yQU3WuGEnZxCVofF3/`
+Snapshot ID: `aDktYQAAAAA7omRK615kIC/PrcaCx2wf`

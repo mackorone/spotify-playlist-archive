@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2i24iHGhL24.md) - [plain]
 
 > Reimagined pop covers of your favorite songs\.  Cover: Ed Sheeran
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,444 likes - 90 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,558 likes - 90 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2i24iHGhL24.md) - [plain]
 | 89 | [Fireflies](https://open.spotify.com/track/4BAlcJ34coNhGeUNfR2qop) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Fireflies](https://open.spotify.com/album/0xc75YODN0gYtngjMtAqkW) | 3:05 |
 | 90 | [Take On Me](https://open.spotify.com/track/7aW7NJWNPSNOMGRUCmIody) | [Thunder Jackson](https://open.spotify.com/artist/3o0xJMKswwtXz2PhrRCHhJ) | [Take On Me](https://open.spotify.com/album/15j2HxHLy1N90wLlCno4Uw) | 2:26 |
 
-Snapshot ID: `aDU0LQAAAACxvQKi1XBdSOwhaf956JIN`
+Snapshot ID: `AAAAAIEOpWAAGWqUBUV39VEUWoE33IHA`

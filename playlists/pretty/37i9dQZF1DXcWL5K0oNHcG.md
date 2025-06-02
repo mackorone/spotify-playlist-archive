@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Elle Shimada\. Artwork: Joy Yamusangie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,653 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,678 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 49 | [One Way Valet](https://open.spotify.com/track/49O3n997PT8zf289ByXchw) | [Low Poly Cactus](https://open.spotify.com/artist/4JCLFRwINNq1g4Je8mRod2), [PRNDL](https://open.spotify.com/artist/7lSHLl0pD4rZ1vrBZ0yVPU) | [One Way Valet](https://open.spotify.com/album/1Kipz6yvRad15LtPKjDeiI) | 6:13 |
 | 50 | [Juku Juku](https://open.spotify.com/track/1UJIZqmPknI5m6U7sCwDk3) | [Leif Maine](https://open.spotify.com/artist/7MBurgGNsSYdHWtMEMQu2l) | [Juku Juku](https://open.spotify.com/album/2Edy6LzUtKN25bRVlEkf13) | 2:35 |
 
-Snapshot ID: `AAAAANvOk+hBvOZwSp1RaCG981/ax65C`
+Snapshot ID: `aDcpNAAAAACT9EdZNOLTyoS5u8HAZuGG`

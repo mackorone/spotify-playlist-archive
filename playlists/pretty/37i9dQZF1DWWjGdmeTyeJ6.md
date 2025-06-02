@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > Celebrating 10 years of the best new music by independent artists and labels\. Cover: Olivia C\. Dacal
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,223,690 likes - 199 songs - 10 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,223,682 likes - 199 songs - 10 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -208,4 +208,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 198 | [A Cowboy Song](https://open.spotify.com/track/3Hdku7zeAZSuEFysqkZpLk) | [Kean Kavanagh](https://open.spotify.com/artist/7bSUVGOUQn87z2HRy0Ha3B) | [A Cowboy Song](https://open.spotify.com/album/1IgP1X3hrG6GenTiZCuWc1) | 3:34 |
 | 199 | [Diamond In A Rough](https://open.spotify.com/track/7vBhle6z99fqYCru2C8iIZ) | [heleenyum](https://open.spotify.com/artist/0dzM54fB848MRU4W7A5gIq), [Sxnctuary](https://open.spotify.com/artist/1ZNcRJM6QUWh7NKGb5gSOO) | [Diamond In A Rough](https://open.spotify.com/album/56nzWvR80EMuawkOYrhxyz) | 2:30 |
 
-Snapshot ID: `AAAAAM0YGculx5AOg12J3Zvd7XhZN0Iu`
+Snapshot ID: `aDfDmQAAAABvbQnM+nQ+bQVUHRRndEFL`

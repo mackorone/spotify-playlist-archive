@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 
 > The best in folk & acoustic today featuring music from  Whitney
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,796,527 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,796,124 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 | 99 | [Love's Changing](https://open.spotify.com/track/3iVCKpWyKO17f7FLpTle5e) | [Tasha](https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej) | [Love's Changing](https://open.spotify.com/album/3YLGKAVQGU3HoHTTGuAU7a) | 4:30 |
 | 100 | [S P E Y S I D E](https://open.spotify.com/track/6khKJVbTxzfhbGfHMtyOM8) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [S P E Y S I D E](https://open.spotify.com/album/5VFsihsTprFnqRHyrNxMPs) | 3:29 |
 
-Snapshot ID: `aDktXgAAAABpgJZqgCIKFLLghaHTtuCq`
+Snapshot ID: `aDktXgAAAAAxF9971zB1kUSdrjyOcDCb`

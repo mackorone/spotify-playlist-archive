@@ -1,12 +1,12 @@
 {
   "description": "This is El Harag\u00e1n y Compa\u00f1\u00eda. The essential tracks, all in one playlist.",
-  "num_followers": 35318,
+  "num_followers": 35323,
   "original_name": "This Is El Harag\u00e1n y Compa\u00f1\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDj1AAAAAACO3E73UwpbO5mGj5gk1NeA",
+  "snapshot_id": "aDpGgAAAAABCEdamc73NB6JL9w7uaEOX",
   "tracks": [
     {
       "added_at": null,
@@ -579,22 +579,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Barata y Descont\u00f3n",
-        "url": "https://open.spotify.com/album/0VugzwalsfV7TB8kJnrx5u"
+        "name": "Rock Que Se Comparte",
+        "url": "https://open.spotify.com/album/1YGn8RT3a96aeZWgZJr97Q"
       },
       "artists": [
-        {
-          "name": "Los Estramboticos",
-          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
-        },
         {
           "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
           "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
         }
       ],
-      "duration_ms": 250011,
-      "name": "Barata y Descont\u00f3n",
-      "url": "https://open.spotify.com/track/12zpKVqLAQ7x547zRwICeZ"
+      "duration_ms": 177911,
+      "name": "Por los Gluteos de Mi Novia",
+      "url": "https://open.spotify.com/track/7hcMjVJ5x1qVPQu39Szpqn"
     },
     {
       "added_at": null,
@@ -615,18 +611,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock Que Se Comparte",
-        "url": "https://open.spotify.com/album/1YGn8RT3a96aeZWgZJr97Q"
+        "name": "Barata y Descont\u00f3n",
+        "url": "https://open.spotify.com/album/0VugzwalsfV7TB8kJnrx5u"
       },
       "artists": [
+        {
+          "name": "Los Estramboticos",
+          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
+        },
         {
           "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
           "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
         }
       ],
-      "duration_ms": 177911,
-      "name": "Por los Gluteos de Mi Novia",
-      "url": "https://open.spotify.com/track/7hcMjVJ5x1qVPQu39Szpqn"
+      "duration_ms": 250011,
+      "name": "Barata y Descont\u00f3n",
+      "url": "https://open.spotify.com/track/12zpKVqLAQ7x547zRwICeZ"
     },
     {
       "added_at": null,
@@ -647,8 +647,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Mas Grande Homenaje A Los Tigres Del Norte (Reissue)",
-        "url": "https://open.spotify.com/album/2CV4KdKMJ4fNq29HLmGmri"
+        "name": "Rock Que Se Comparte",
+        "url": "https://open.spotify.com/album/1YGn8RT3a96aeZWgZJr97Q"
       },
       "artists": [
         {
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
         }
       ],
-      "duration_ms": 306293,
-      "name": "Un D\u00eda A La Vez",
-      "url": "https://open.spotify.com/track/0XW8HrbqM5zRQ0zUvwWdQu"
+      "duration_ms": 212601,
+      "name": "Tengo un Acoholico en Mi Casa",
+      "url": "https://open.spotify.com/track/6aSZWceWgE6cMlKRvLn6yL"
     },
     {
       "added_at": null,
@@ -672,15 +672,15 @@
           "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
         }
       ],
-      "duration_ms": 194676,
-      "name": "Saber Amar",
-      "url": "https://open.spotify.com/track/0bcTjLBR0N4AHAlkIIlVNM"
+      "duration_ms": 233964,
+      "name": "El Primer Destino",
+      "url": "https://open.spotify.com/track/6tKjGBp1J42BG0TkhB8nY1"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Rock Que Se Comparte",
-        "url": "https://open.spotify.com/album/1YGn8RT3a96aeZWgZJr97Q"
+        "name": "El Mas Grande Homenaje A Los Tigres Del Norte (Reissue)",
+        "url": "https://open.spotify.com/album/2CV4KdKMJ4fNq29HLmGmri"
       },
       "artists": [
         {
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
         }
       ],
-      "duration_ms": 212601,
-      "name": "Tengo un Acoholico en Mi Casa",
-      "url": "https://open.spotify.com/track/6aSZWceWgE6cMlKRvLn6yL"
+      "duration_ms": 306293,
+      "name": "Un D\u00eda A La Vez",
+      "url": "https://open.spotify.com/track/0XW8HrbqM5zRQ0zUvwWdQu"
     },
     {
       "added_at": null,
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
         }
       ],
-      "duration_ms": 233964,
-      "name": "El Primer Destino",
-      "url": "https://open.spotify.com/track/6tKjGBp1J42BG0TkhB8nY1"
+      "duration_ms": 194676,
+      "name": "Saber Amar",
+      "url": "https://open.spotify.com/track/0bcTjLBR0N4AHAlkIIlVNM"
     },
     {
       "added_at": null,

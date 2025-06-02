@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBH5YfEiy7g.md) - [plain]
 
 > Praise and Worship your way with the best South African Gospel music\.  Cover: <a href="https://open.spotify.com/artist/3jzpHftM6t86BxqayyUWiU?si=sRU1OrKVQSCERLXtcGk3hg">Brenden Praise</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,257 likes - 100 songs - 10 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,331 likes - 100 songs - 10 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBH5YfEiy7g.md) - [plain]
 | 99 | [Sefapanong \- Live](https://open.spotify.com/track/7D0TvTgatksJxLKdmFwEAV) | [TSHEPO LEBEPE](https://open.spotify.com/artist/06PQeyGH37N3e3SAxwJ3LG) | [Sefapanong \(Live\)](https://open.spotify.com/album/5GM3io5G7lqVaXuN1CLHJU) | 6:00 |
 | 100 | [Icebo Lami](https://open.spotify.com/track/3ZJK0p0svv1nahMZg2bVD4) | [Londiwe Sphe Nxumalo](https://open.spotify.com/artist/0T1PttE74glDfZNF0LA8yi) | [Sizovumelana Worship Encounter](https://open.spotify.com/album/6YUqBdgl5izBkNhwEkqQF9) | 4:58 |
 
-Snapshot ID: `AAAAAMn4yYtfizFbkmFovJACJZJJgRn0`
+Snapshot ID: `aDj1WwAAAACF+JHLUsFzzMHfQlJyuYbe`

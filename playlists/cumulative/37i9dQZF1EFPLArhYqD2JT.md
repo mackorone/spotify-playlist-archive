@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0xuf5cMMFZpfFUGH02Kuh8">Irving Berlin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-433 songs - 22 hr 0 min
+434 songs - 22 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,7 +318,8 @@
 | [Sunshine](https://open.spotify.com/track/1XQzFLT6rhCsT0rMJGpDjS) | [Tatiana Eva\-Marie](https://open.spotify.com/artist/3Nmm3IacxsC92dEP0kWL3z) | [Sunshine](https://open.spotify.com/album/4UpsA4LeAfEchjDBLRnQE1) | 3:51 | 2024-07-26 |  |
 | [Supper Time](https://open.spotify.com/track/0CmUB0X8pKJY1J9jBT46jm) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Paul Weston And His Orchestra](https://open.spotify.com/artist/3EVyH5tLgdq62aXTdKfzey) | [Ella Fitzgerald Sings The Irving Berlin Song Book](https://open.spotify.com/album/2hK70fCNOlYgTg0sQMzPbj) | 3:18 | 2024-07-26 |  |
 | [Swanee Shuffle](https://open.spotify.com/track/4BMSEZIxnz39inabGBmeTS) | [Duke Ellington Orchestra](https://open.spotify.com/artist/3W4GTSHxlqXfXjdmSNIbTB) | [Dance the 1920s, Vol\. 7](https://open.spotify.com/album/7bfIaeJcq3qAHAtJirXguL) | 3:21 | 2024-07-26 |  |
-| [Take A Little Tip From Father](https://open.spotify.com/track/4iHCmCGHTY3oTBPHcxHbx4) | [Deane Kincaide's Band](https://open.spotify.com/artist/6pXUOdEzSLS3NUPlbQtE4K) | [Classic Capitol Jazz Sessions](https://open.spotify.com/album/5l3qerysXgSt4nMnJ1iYTW) | 2:48 | 2024-07-26 |  |
+| [Take A Little Tip From Father](https://open.spotify.com/track/4iHCmCGHTY3oTBPHcxHbx4) | [Deane Kincaide's Band](https://open.spotify.com/artist/6pXUOdEzSLS3NUPlbQtE4K) | [Classic Capitol Jazz Sessions](https://open.spotify.com/album/5l3qerysXgSt4nMnJ1iYTW) | 2:48 | 2024-07-26 | 2025-06-02 |
+| [Take a Little Tip From Father](https://open.spotify.com/track/2tgPLKc4r9tmyzdBkQlcIB) | [Don Meehan](https://open.spotify.com/artist/1SRCwl9Ckg9tAZSwPsMgYI), [The Dave Carey Orchestra](https://open.spotify.com/artist/4herbzBTgEBfl5uDT0vvPl) | [Song and Dance Man: Popular American Song Hits of 1913\-1928](https://open.spotify.com/album/1AfkoFxHEGAPWnPVNXho1u) | 1:50 | 2025-06-01 |  |
 | [Take Off a Little Bit](https://open.spotify.com/track/5FfKlKCzmVV1d5SI46HiKR) | [Fay Compton and Chorus](https://open.spotify.com/artist/49N31UNnyiB2rJupozKVHJ) | [Music Hall Revue 1912\-1918](https://open.spotify.com/album/2WSRffipOotJeWqlQKuD8u) | 3:59 | 2024-07-26 |  |
 | [Tell Me a Bedtime Story](https://open.spotify.com/track/7aNxRJk1QPPUkGylONFQEg) | [Pieces Of A Dream](https://open.spotify.com/artist/70BRQ5tBte6kVqHviL3srE) | [Imagine This](https://open.spotify.com/album/2pdT816OGENvHCI3HxTrbv) | 3:55 | 2024-07-26 |  |
 | [Tell Me Little Gypsy](https://open.spotify.com/track/4A8iE9lHnr7FGPdDJqAJz0) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Bing Sings The Irving Berlin Songbook](https://open.spotify.com/album/2gFe0K8uKPllO0uxVc8dwD) | 1:42 | 2024-07-26 |  |
@@ -395,7 +396,7 @@
 | [When I Hear You Play That Piano, Bill!](https://open.spotify.com/track/1T9bD3utNfstgD6t0jXThX) | [Chloe Brooks](https://open.spotify.com/artist/5ZECtMbFr1zxGMUK5KbBnM) | [Chip Deffaa's Irving Berlin Ragtime Rarities](https://open.spotify.com/album/5EEm4YvkC2TQpqk5RJeJ8W) | 2:12 | 2024-07-26 |  |
 | [When I Leave The World Behind](https://open.spotify.com/track/6MIx7HfUGj30qAgevxEJgm) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Feels Good, Feels Right](https://open.spotify.com/album/1cqkLB1EWnoSqRY6MN1SbH) | 2:51 | 2024-07-26 |  |
 | [When I Lost You](https://open.spotify.com/track/0dHf2BlrhDydLgZwzCMIga) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [All Alone](https://open.spotify.com/album/6msngKGFNEXcVOPdnqtyIp) | 3:42 | 2024-07-26 |  |
-| [When My Baby Smiles](https://open.spotify.com/track/4LssPLlvQzHWrfDysjl1XU) | [Seth Sikes](https://open.spotify.com/artist/4mGIcFabwtRfonEslMiKuD) | [Chip Deffaa's Irving Berlin: Love Songs and Such](https://open.spotify.com/album/0bxORsYeZ3Ixz5qHm1hkt8) | 2:37 | 2024-07-31 | 2025-06-01 |
+| [When My Baby Smiles](https://open.spotify.com/track/4LssPLlvQzHWrfDysjl1XU) | [Seth Sikes](https://open.spotify.com/artist/4mGIcFabwtRfonEslMiKuD) | [Chip Deffaa's Irving Berlin: Love Songs and Such](https://open.spotify.com/album/0bxORsYeZ3Ixz5qHm1hkt8) | 2:37 | 2024-07-31 |  |
 | [When My Dreams Come True \(05\-03\-29\)](https://open.spotify.com/track/6nLAritD5uI0DW5OM2mXN2) | [Bix Beiderbecke with Paul Whiteman](https://open.spotify.com/artist/16ysRE1UahrtaTzqJaUFNV) | [Complete Jazz Series 1928 \- 1929](https://open.spotify.com/album/4pH9sUEiQ6SbiaK67DEs5j) | 3:07 | 2024-07-26 |  |
 | [When That Man Is Dead And Gone](https://open.spotify.com/track/3GDVRhZV7YRVlY50mA9I0l) | [Glenn Miller](https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc) | [The Complete Glenn Miller and His Orchestra](https://open.spotify.com/album/58rMb0yOYCIqwoDjdhwGlK) | 2:39 | 2024-07-26 |  |
 | [When the Curtain Falls](https://open.spotify.com/track/2zZxHwRpssaZ1tzlPFgamT) | [Jack Corbin](https://open.spotify.com/artist/2FPCxNPoRlkKYKx2KUOMjs), [Analise Scarpaci](https://open.spotify.com/artist/3x8IEkKbNzxJ25ekcKJir6) | [Chip Deffaa's the Irving Berlin Duets Album, Vol\. One](https://open.spotify.com/album/19ZhW9agrq42AZUWqd0rwG) | 3:31 | 2024-07-26 |  |

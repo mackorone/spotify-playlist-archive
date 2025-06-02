@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 
 ### [Polskie hity](https://open.spotify.com/playlist/37i9dQZF1DWTnbCPOmjbdB)
 
-> Najlepsze polskie piosenki na czasie\. Cover: Dawid Kwiatkowski 👶
+> Najlepsze polskie piosenki na czasie\. Cover: Dawid Kwiatkowski
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,590 likes - 60 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,697 likes - 60 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 | 59 | [Ostatni raz](https://open.spotify.com/track/53aFjzjZOlyPWepnZXzWxP) | [Michał Szczygieł](https://open.spotify.com/artist/3LnV4Ef0wfc2ATFF4IAW5z) | [Ostatni raz](https://open.spotify.com/album/3hgtsUKtRiJASyxhqNsaQD) | 2:26 |
 | 60 | [NA POTEM](https://open.spotify.com/track/6vCOaNGWzzZLhojaElBUYg) | [SARGIS](https://open.spotify.com/artist/114qvfOgYaQqBLv7Ta3WWL) | [NA POTEM](https://open.spotify.com/album/5BjUwH5Of0KZAcpGYkG5H6) | 2:52 |
 
-Snapshot ID: `aDt78gAAAAD/8EqVmz+9Ml1mMX67g2wQ`
+Snapshot ID: `aDzNeQAAAABcU7HDgaPgnXPrYrmyFt3o`

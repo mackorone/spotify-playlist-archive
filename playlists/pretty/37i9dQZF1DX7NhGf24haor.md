@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Weekly new Hardstyle releases! Cover: Da Tweekaz & D\-Sturb
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,726 likes - 102 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,777 likes - 102 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 101 | [Enemy](https://open.spotify.com/track/4ruJKoiS2VJf6EcrrhZm20) | [Odium](https://open.spotify.com/artist/6J2T1atTrazMhACALYdA5Q), [Eirik Næss](https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z) | [Enemy](https://open.spotify.com/album/3Ts026cKpvSc2Q73FgN8lP) | 2:35 |
 | 102 | [The World \- Frequencerz Remix](https://open.spotify.com/track/30nhc5HVKt6bB1uoZAkJmw) | [Philippe Rochard](https://open.spotify.com/artist/7ydmk6zGv7tetJSfMtuGHP), [Frequencerz](https://open.spotify.com/artist/5cPNMq5lKAoAKyv5kdpz9s) | [The World \(Frequencerz Remix\)](https://open.spotify.com/album/4M8Y3MjTr9gfbCUP5BwSPg) | 2:30 |
 
-Snapshot ID: `aDduJwAAAAB0kRVo1um80FA5iLNmQvuH`
+Snapshot ID: `aDduJwAAAACc8B/JyZyFJ9sAPqmxcYhH`

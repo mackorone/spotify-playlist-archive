@@ -1,12 +1,12 @@
 {
   "description": "This is Nicholas Craven. The essential tracks, all in one playlist.",
-  "num_followers": 597,
+  "num_followers": 599,
   "original_name": "This Is Nicholas Craven",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDj1AAAAAAA+VFOeJUCvnz8S3CP41ThX",
+  "snapshot_id": "aDpGgAAAAAAeUTzHSU06V/C0XSVLJvki",
   "tracks": [
     {
       "added_at": null,
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
         }
       ],
-      "duration_ms": 204497,
-      "name": "Scrabble",
-      "url": "https://open.spotify.com/track/63oUxKSMNovNJiLxgrSmWU"
+      "duration_ms": 194355,
+      "name": "You Ain't No Menace",
+      "url": "https://open.spotify.com/track/1CzgJLPQmVCnCxtprKmKgA"
     },
     {
       "added_at": null,
@@ -567,26 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fallen",
-        "url": "https://open.spotify.com/album/6E5Xxv3BekgDEtPhiGhQoM"
-      },
-      "artists": [
-        {
-          "name": "Jimmie D",
-          "url": "https://open.spotify.com/artist/1grzkPdyoi7RbrBTMIIxRU"
-        },
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        }
-      ],
-      "duration_ms": 139867,
-      "name": "Fallen",
-      "url": "https://open.spotify.com/track/6CEJ0mhZO62EdNo5YvycXG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Craven N 3",
         "url": "https://open.spotify.com/album/5wAlUyWNsX3qZo5Q58soad"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 222040,
       "name": "Opulence",
       "url": "https://open.spotify.com/track/0CQpw44VyarpOO0YPZm37A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fallen",
+        "url": "https://open.spotify.com/album/6E5Xxv3BekgDEtPhiGhQoM"
+      },
+      "artists": [
+        {
+          "name": "Jimmie D",
+          "url": "https://open.spotify.com/artist/1grzkPdyoi7RbrBTMIIxRU"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        }
+      ],
+      "duration_ms": 139867,
+      "name": "Fallen",
+      "url": "https://open.spotify.com/track/6CEJ0mhZO62EdNo5YvycXG"
     },
     {
       "added_at": null,
@@ -631,30 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "High Winds",
-        "url": "https://open.spotify.com/album/2sbm3v5x18dG7QoVHTzNUf"
-      },
-      "artists": [
-        {
-          "name": "Jimmie D",
-          "url": "https://open.spotify.com/artist/1grzkPdyoi7RbrBTMIIxRU"
-        },
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        },
-        {
-          "name": "Koncept Jack$on",
-          "url": "https://open.spotify.com/artist/2SHO0IPq0mfwPxwquNx8Qa"
-        }
-      ],
-      "duration_ms": 143685,
-      "name": "High Winds",
-      "url": "https://open.spotify.com/track/7HPDbITY0cS65MntSLdFue"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dump Gawd: Shot Clock King",
         "url": "https://open.spotify.com/album/36FjECbaQWxWg64KyjotOs"
       },
@@ -675,6 +651,30 @@
       "duration_ms": 150769,
       "name": "Dear Friend",
       "url": "https://open.spotify.com/track/4mIq67OpwFeAmXmGJfIVMQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "High Winds",
+        "url": "https://open.spotify.com/album/2sbm3v5x18dG7QoVHTzNUf"
+      },
+      "artists": [
+        {
+          "name": "Jimmie D",
+          "url": "https://open.spotify.com/artist/1grzkPdyoi7RbrBTMIIxRU"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Koncept Jack$on",
+          "url": "https://open.spotify.com/artist/2SHO0IPq0mfwPxwquNx8Qa"
+        }
+      ],
+      "duration_ms": 143685,
+      "name": "High Winds",
+      "url": "https://open.spotify.com/track/7HPDbITY0cS65MntSLdFue"
     },
     {
       "added_at": null,
@@ -803,6 +803,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "POTLUCK",
+        "url": "https://open.spotify.com/album/1WwIvrNfaFQdAu82XAs7Fh"
+      },
+      "artists": [
+        {
+          "name": "Bruiser Wolf",
+          "url": "https://open.spotify.com/artist/2WWAtobfGkojaSqMRN5V67"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Sir Michael Rocks",
+          "url": "https://open.spotify.com/artist/2F3zBRfrDfm2FyNT0YKyAx"
+        }
+      ],
+      "duration_ms": 181894,
+      "name": "Guns & Squares (feat. Sir Michael Rocks)",
+      "url": "https://open.spotify.com/track/7FYMev0zBA1tPFU1LXhobe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Deleted Scenes",
         "url": "https://open.spotify.com/album/0bSumc88UItdZGGWQwf3f5"
       },
@@ -843,26 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deleted Scenes 2",
-        "url": "https://open.spotify.com/album/6aDvhj7JY03sEqGQHxiJcQ"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        },
-        {
-          "name": "Ransom",
-          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
-        }
-      ],
-      "duration_ms": 143627,
-      "name": "American Made",
-      "url": "https://open.spotify.com/track/0InAsDsfTZ12eovy8l1itp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Good Music Hypnotizes",
         "url": "https://open.spotify.com/album/6gRt97VXKvCAti89oAI7LZ"
       },
@@ -879,6 +883,26 @@
       "duration_ms": 193448,
       "name": "Dead Cat Bounce",
       "url": "https://open.spotify.com/track/0fHTRoWVTWxhMgVDR9WPiv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deleted Scenes 2",
+        "url": "https://open.spotify.com/album/6aDvhj7JY03sEqGQHxiJcQ"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Ransom",
+          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
+        }
+      ],
+      "duration_ms": 143627,
+      "name": "American Made",
+      "url": "https://open.spotify.com/track/0InAsDsfTZ12eovy8l1itp"
     },
     {
       "added_at": null,

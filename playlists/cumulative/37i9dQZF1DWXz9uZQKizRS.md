@@ -2,7 +2,7 @@
 
 ### [Alternatywna Polska](https://open.spotify.com/playlist/37i9dQZF1DWXz9uZQKizRS)
 
-> Najlepsza świeża polska alternatywa\. Cover: shama 👶
+> Najlepsza świeża polska alternatywa\. Cover: shama
 
 845 songs - 1 day 23 hr 54 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wAe03Gabbq.md) - [plain]
 
 > Rock Rotation presents..\. Die besten Rock Songs aus 2024\. Cover: Linkin Park
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,442 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,441 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wAe03Gabbq.md) - [plain]
 | 49 | [Awaken](https://open.spotify.com/track/7hr0WyhqQxrK3SQ9ZQxjTu) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Awaken](https://open.spotify.com/album/1vmuokjeEWukuNChZWHC5Y) | 3:38 |
 | 50 | [Levitate](https://open.spotify.com/track/46CbksvfXtaM0LTSr6ETAI) | [Emil Bulls](https://open.spotify.com/artist/1scIUjz7Jbq1mOph50OLQO) | [Love Will Fix It](https://open.spotify.com/album/62ZtuStgYH85xAyUoc5I35) | 3:47 |
 
-Snapshot ID: `Z1BHxAAAAAANJ1BPHu4I7PAKOjDBjtOM`
+Snapshot ID: `AAAAABgu4H8KtmDSjPzhFyipM8ctLgEO`

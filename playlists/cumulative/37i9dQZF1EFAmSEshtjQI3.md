@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0ZY43VwD4Dvf0ZO9SwivN5">Valentina Rico</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-43 songs - 2 hr 13 min
+44 songs - 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [Tú Me Delatas](https://open.spotify.com/track/5SAED5EpG2omE0XIBLwKLi) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Tú Me Delatas](https://open.spotify.com/album/0xsTTmJKU8ii6x4pkTXtjT) | 3:17 | 2023-12-13 |  |
 | [Vaquero](https://open.spotify.com/track/3vsQUoMP10d67qWaKZvuNt) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Sincera](https://open.spotify.com/album/70uZwbL7dkxlCxuYhNmrSS) | 2:49 | 2023-12-13 |  |
 | [Volando Bajito](https://open.spotify.com/track/3W888aowJCl8Mwq9JMaJTc) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Volando Bajito](https://open.spotify.com/album/3nyLvPVZZJTumqzbGeVOhx) | 2:22 | 2023-12-13 |  |
-| [Vuela](https://open.spotify.com/track/5JOM3Q1tbLSx9xFqhrz5tp) | [Adri Torron](https://open.spotify.com/artist/4dpXYalt8qXd3R4yLPQE7E) | [Vuela](https://open.spotify.com/album/68SO1BrZ2nPzYo76nnY1Af) | 2:51 | 2023-12-13 |  |
+| [Vuela](https://open.spotify.com/track/5JOM3Q1tbLSx9xFqhrz5tp) | [Adri Torron](https://open.spotify.com/artist/4dpXYalt8qXd3R4yLPQE7E) | [Vuela](https://open.spotify.com/album/68SO1BrZ2nPzYo76nnY1Af) | 2:51 | 2023-12-13 | 2025-06-02 |
+| [Vuela](https://open.spotify.com/track/5wRl3UsaZBwrMJWchs0YDj) | [Adri Torron](https://open.spotify.com/artist/4dpXYalt8qXd3R4yLPQE7E) | [Vuela](https://open.spotify.com/album/20mcvOF4SDa21I471OjUig) | 2:51 | 2025-06-01 |  |
 | [Vuelve, Vuelve](https://open.spotify.com/track/7wNLoMwhGrGBsFozJrzUlg) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [20 Años Contigo](https://open.spotify.com/album/7j74PZNNtthH0JwMPSqIVw) | 2:46 | 2023-12-13 |  |
 | [What You Playin' For](https://open.spotify.com/track/0usRynwL4TvyLH59elVOWs) | [Cely](https://open.spotify.com/artist/5NJHJgWj1rmRrIM1EHkxsb) | [What You Playin' For](https://open.spotify.com/album/5IJf1oEu5eKvY5lozNJ8ke) | 2:25 | 2023-12-13 | 2024-12-14 |
 | [What You Playin' For](https://open.spotify.com/track/7EG6aNyx5lJpajQZ7uVySB) | [Cely](https://open.spotify.com/artist/5NJHJgWj1rmRrIM1EHkxsb) | [What You Playin' For](https://open.spotify.com/album/12jbSt7xlrWa4uahieFmZK) | 2:25 | 2024-12-13 |  |

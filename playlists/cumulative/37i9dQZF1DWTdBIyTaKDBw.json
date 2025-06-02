@@ -384,7 +384,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-02",
       "duration_ms": 185142,
       "name": "Answer Love",
       "url": "https://open.spotify.com/track/6bdZwWDYlzk7iXa8bWsAXc"
@@ -2784,7 +2784,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-01",
+      "date_removed": null,
       "duration_ms": 169714,
       "name": "Journey",
       "url": "https://open.spotify.com/track/2pAPo7r9woX5AwLDNzAgaV"
@@ -3774,7 +3774,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-02",
       "duration_ms": 139384,
       "name": "Nature's Temple",
       "url": "https://open.spotify.com/track/3mIYJNmhjPSbJhS03sv3Ko"
@@ -5856,6 +5856,24 @@
       "duration_ms": 117241,
       "name": "Turu-Ima",
       "url": "https://open.spotify.com/track/0jBtrAzvFc1vnLI4rGtYvd"
+    },
+    {
+      "album": {
+        "name": "FANTASTIC JOURNEY",
+        "url": "https://open.spotify.com/album/6Lh0xGoCfTBb7sJNMDSi7N"
+      },
+      "artists": [
+        {
+          "name": "Tsunenori",
+          "url": "https://open.spotify.com/artist/52qynuMTYKuf4JtacGbQxh"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Umbrella",
+      "url": "https://open.spotify.com/track/73O4WMI3CNFs6lK9SaBZpQ"
     },
     {
       "album": {

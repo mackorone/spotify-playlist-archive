@@ -3807,6 +3807,24 @@
     },
     {
       "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/2wlxAZhAdQXkDLRmuZk4G6"
+      },
+      "artists": [
+        {
+          "name": "Foramina Nigra",
+          "url": "https://open.spotify.com/artist/60DvyJ9hOPSC7lBgeSMb2T"
+        }
+      ],
+      "date_added": "2025-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146828,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/01VGmfU4QvSYaYA0TvWaL4"
+    },
+    {
+      "album": {
         "name": "Edenora",
         "url": "https://open.spotify.com/album/3UlTqukVhmL8tmMjFosnL9"
       },
@@ -3980,7 +3998,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-02",
       "duration_ms": 214166,
       "name": "Enacted",
       "url": "https://open.spotify.com/track/1eQ8RtqtzkigYMsL1PtVWq"

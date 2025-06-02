@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 > Dark, hard hitting pop\. Cover: Banshee
 
-[Spotify](https://open.spotify.com/user/spotify) - 426,202 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 426,204 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 11 | [BLAH](https://open.spotify.com/track/212qRRJMxvpN3FNkW6g3rH) | [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [BLAH](https://open.spotify.com/album/6PZzsTjoax4776aLr6U4jh) | 2:54 |
 | 12 | [The Hearse](https://open.spotify.com/track/65P2y7TYBecd8FEcuBUeDr) | [Lydia Night](https://open.spotify.com/artist/7zPPRI5YRGj8bPYBmtIy4l) | [The Hearse](https://open.spotify.com/album/1PbZ0tNaFtl4DVWgiK5OVg) | 2:55 |
 | 13 | [addicted](https://open.spotify.com/track/3UKFn5oN9irp3q27BwnfCK) | [Alessiah](https://open.spotify.com/artist/1EdD1RXOUNqPUJAqwtnHWw) | [addicted](https://open.spotify.com/album/70106lIC8nwyleCcCZQ6uR) | 3:13 |
-| 14 | [WHAT THE HELL?!](https://open.spotify.com/track/0tN4gLJOjeTawNuylOZwYI) | [Ella Isaacson](https://open.spotify.com/artist/69DKP6GuG0YiUc5K7tJ4an) | [WHAT THE HELL?!](https://open.spotify.com/album/3yvoDuV0dYkCRj4IMeH8QV) | 3:09 |
+| 14 | [WHAT THE HELL](https://open.spotify.com/track/0tN4gLJOjeTawNuylOZwYI) | [Ella Isaacson](https://open.spotify.com/artist/69DKP6GuG0YiUc5K7tJ4an) | [WHAT THE HELL](https://open.spotify.com/album/3yvoDuV0dYkCRj4IMeH8QV) | 3:09 |
 | 15 | [Boys](https://open.spotify.com/track/2PODSkB110NvZg50k2pj8a) | [Just For Fun](https://open.spotify.com/artist/5jCHlaCfuvJlyn5a4yap3t) | [Boys](https://open.spotify.com/album/3aUoM464DNR5Z6bjweulfC) | 2:10 |
 | 16 | [Like You](https://open.spotify.com/track/1iBYMUTBFJDkAW8zQQWGNl) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [Like You](https://open.spotify.com/album/7sb7JwqC9frJEdDinAVU0P) | 2:04 |
 | 17 | [if jesus saw what we did last night](https://open.spotify.com/track/4a65gfI09BeAqNaIcAgYmL) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [if jesus saw what we did last night](https://open.spotify.com/album/6y8XFE6QYJidrA9I89pZRV) | 2:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 49 | [Mortal Kombat](https://open.spotify.com/track/0bJR1UNUVlYLfFRUrAqKFn) | [SkyDxddy](https://open.spotify.com/artist/2xe5FZM6bB4k1KhfTZBBSx) | [Mortal Kombat](https://open.spotify.com/album/7tYTD9ApMBnfvxcL8kMVdC) | 1:59 |
 | 50 | [you're a liar \(you love me\)](https://open.spotify.com/track/1LI8rDhxrRe9iQLECjntwG) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [you're a liar \(you love me\)](https://open.spotify.com/album/3kpCZBJAjvZn4UihCRDdxi) | 2:54 |
 
-Snapshot ID: `aDktYwAAAAB91EGM0SOu+sKS3tFB/dwJ`
+Snapshot ID: `AAAAANj1gUBn576XMYK11GGzpks2fdsB`

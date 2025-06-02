@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > いよいよPOP YOURS開催! // J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。cover: Tohji
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,737 likes - 87 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,756 likes - 87 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

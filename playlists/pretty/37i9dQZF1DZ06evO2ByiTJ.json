@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDj1AAAAAADSCdzmPdDCHAlf4Fh60ivf",
+  "snapshot_id": "aDpGgAAAAACWCxixd4hsUyiuN0un+XqD",
   "tracks": [
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Templo Fit Remix",
-        "url": "https://open.spotify.com/album/3McxUX7L5Ve3j4dr9t2nYb"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 236266,
-      "name": "Volte a Sonhar Remix",
-      "url": "https://open.spotify.com/track/7ewX0gfQPo3wkAP9SrRQfb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jesus Voltar\u00e1",
         "url": "https://open.spotify.com/album/33IYZiBre2fcfD2AMmIKKy"
       },
@@ -395,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deus te Viu (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5N1lgeek97qwDze56UGdbT"
+        "name": "Templo Fit Remix",
+        "url": "https://open.spotify.com/album/3McxUX7L5Ve3j4dr9t2nYb"
       },
       "artists": [
         {
@@ -404,9 +388,9 @@
           "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
         }
       ],
-      "duration_ms": 230156,
-      "name": "Deus te Viu (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0Zr8LQ1A1vuHSQBm3H3Qnu"
+      "duration_ms": 236266,
+      "name": "Volte a Sonhar Remix",
+      "url": "https://open.spotify.com/track/7ewX0gfQPo3wkAP9SrRQfb"
     },
     {
       "added_at": null,
@@ -427,6 +411,22 @@
       "duration_ms": 217640,
       "name": "Alvar\u00e1 (Ao Vivo) (feat. Elaine Martins)",
       "url": "https://open.spotify.com/track/2XzJj6yWWBi5OXjfev5LAr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deus te Viu (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5N1lgeek97qwDze56UGdbT"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 230156,
+      "name": "Deus te Viu (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0Zr8LQ1A1vuHSQBm3H3Qnu"
     },
     {
       "added_at": null,
@@ -555,38 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "P\u00e1gina em Branco (Ao Vivo)",
-        "url": "https://open.spotify.com/album/075EOV324SMWzffd3uO7QX"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 309243,
-      "name": "P\u00e1gina em Branco (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0Gyk2A7L0fVsmoCzWnsFI8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Linda Flor",
-        "url": "https://open.spotify.com/album/0G9k6iDDBTHeqEUXyKnvGT"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 215899,
-      "name": "Linda Flor",
-      "url": "https://open.spotify.com/track/0V6Qq0UJRmB728V0WxK914"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mergulhar",
         "url": "https://open.spotify.com/album/1P27DbafnUApFpSxWQtVC3"
       },
@@ -619,22 +587,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cora\u00e7\u00e3o de Amor",
-        "url": "https://open.spotify.com/album/0UhkVBk40nVYUtAt7ELzuB"
+        "name": "Linda Flor",
+        "url": "https://open.spotify.com/album/0G9k6iDDBTHeqEUXyKnvGT"
       },
       "artists": [
-        {
-          "name": "Kleber Lucas",
-          "url": "https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N"
-        },
         {
           "name": "Elaine Martins",
           "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
         }
       ],
-      "duration_ms": 237586,
-      "name": "Cora\u00e7\u00e3o de Amor",
-      "url": "https://open.spotify.com/track/5mUJM4nc9shy1fvGp8NagS"
+      "duration_ms": 215899,
+      "name": "Linda Flor",
+      "url": "https://open.spotify.com/track/0V6Qq0UJRmB728V0WxK914"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "P\u00e1gina em Branco (Ao Vivo)",
+        "url": "https://open.spotify.com/album/075EOV324SMWzffd3uO7QX"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 309243,
+      "name": "P\u00e1gina em Branco (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0Gyk2A7L0fVsmoCzWnsFI8"
     },
     {
       "added_at": null,
@@ -655,18 +635,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Projeto \u00e9 Grande (Ao Vivo)",
-        "url": "https://open.spotify.com/album/64QoMsxBrtNxaFttO3t8ZC"
+        "name": "Cora\u00e7\u00e3o de Amor",
+        "url": "https://open.spotify.com/album/0UhkVBk40nVYUtAt7ELzuB"
       },
       "artists": [
+        {
+          "name": "Kleber Lucas",
+          "url": "https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N"
+        },
         {
           "name": "Elaine Martins",
           "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
         }
       ],
-      "duration_ms": 249786,
-      "name": "O Projeto \u00e9 Grande (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2XlkukouNE8qW5NbRqrK0o"
+      "duration_ms": 237586,
+      "name": "Cora\u00e7\u00e3o de Amor",
+      "url": "https://open.spotify.com/track/5mUJM4nc9shy1fvGp8NagS"
     },
     {
       "added_at": null,
@@ -683,6 +667,22 @@
       "duration_ms": 271534,
       "name": "Buscar Tua Face \u00e9 Preciso",
       "url": "https://open.spotify.com/track/3kgzeH8RBJJ0hvKbjrOWTU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Projeto \u00e9 Grande (Ao Vivo)",
+        "url": "https://open.spotify.com/album/64QoMsxBrtNxaFttO3t8ZC"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 249786,
+      "name": "O Projeto \u00e9 Grande (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2XlkukouNE8qW5NbRqrK0o"
     },
     {
       "added_at": null,
@@ -859,26 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Palavras L\u00edquidas",
-        "url": "https://open.spotify.com/album/633KAVSvTRywDez2dhipDp"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        },
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 267122,
-      "name": "Palavras L\u00edquidas",
-      "url": "https://open.spotify.com/track/4S7Kl8lfNb5UuMM1weoNHo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Humilde Rei",
         "url": "https://open.spotify.com/album/2eieGUaivlYodxrstfbLI6"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 331673,
       "name": "Humilde Rei",
       "url": "https://open.spotify.com/track/3ZhGcpxMziwd6ZLY7o3Xp9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Palavras L\u00edquidas",
+        "url": "https://open.spotify.com/album/633KAVSvTRywDez2dhipDp"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        },
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 267122,
+      "name": "Palavras L\u00edquidas",
+      "url": "https://open.spotify.com/track/4S7Kl8lfNb5UuMM1weoNHo"
     },
     {
       "added_at": null,

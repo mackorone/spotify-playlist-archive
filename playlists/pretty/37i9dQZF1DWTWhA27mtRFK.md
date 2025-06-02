@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWhA27mtRFK.md) - [plain]
 
 > Open your mind to these classics from the golden era of New Age music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,280 likes - 55 songs - 8 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,307 likes - 55 songs - 8 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,10 +37,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWhA27mtRFK.md) - [plain]
 | 27 | [Villages And Freeways](https://open.spotify.com/track/4ytzoQFoZB65pJkIK3xwZA) | [Michael Stearns](https://open.spotify.com/artist/5KbIofwaAvbvvkzG2zbmGD) | [Samsara](https://open.spotify.com/album/0CeRmOUkjPueI2q23j7zTv) | 5:47 |
 | 28 | [El\-Hadra](https://open.spotify.com/track/57Xvgypj0JSo0E5IvnKGgP) | [Klaus Wiese](https://open.spotify.com/artist/2uvdsw07VR5CuNk9NvQ1kr), [Ted De Jong](https://open.spotify.com/artist/4UEGXaYpVtqbZkhFEt0SAJ) | [Sacred Planet \(From women & man to gods & godnesses\)](https://open.spotify.com/album/5CFRiMivWeZdmlTtrAfk1f) | 3:57 |
 | 29 | [Fergana](https://open.spotify.com/track/3BqqN5jhO7H41ziAUGdIyr) | [Klaus Wiese](https://open.spotify.com/artist/2uvdsw07VR5CuNk9NvQ1kr) | [Samarkand](https://open.spotify.com/album/4uqo1AjPmDQFnhB4rNfvkd) | 5:16 |
-| 30 | [Clouds 1](https://open.spotify.com/track/0sBHVlBysBkOZPFecBTxCX) | [Norman Beede](https://open.spotify.com/artist/1QjdtCSzyQLBmtnoHyWmxn), [Kenny Sawhill](https://open.spotify.com/artist/1pxfFDVoeSLkqnlRkiCbHl), [Rolan Tripp](https://open.spotify.com/artist/6JYREywwsHIzxmSZ2Ie52Z), [Robert Mehren](https://open.spotify.com/artist/09y79wa9KKdBw96jCfRPIW), [Craig Kupka](https://open.spotify.com/artist/10BujleeZpW0oZ3fDeBRRR) | [Clouds: Music for Relaxation](https://open.spotify.com/album/0jaAga0dbHYrVUjPFnVf0p) | 22:53 |
+| 30 | [Clouds 1](https://open.spotify.com/track/0sBHVlBysBkOZPFecBTxCX) | [Craig Kupka](https://open.spotify.com/artist/10BujleeZpW0oZ3fDeBRRR) | [Clouds: New Music for Relaxation](https://open.spotify.com/album/0jaAga0dbHYrVUjPFnVf0p) | 22:53 |
 | 31 | [Eternally](https://open.spotify.com/track/65l7HLOExPxBtOI2gLOLU3) | [Steven Halpern](https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k) | [Comfort Zone](https://open.spotify.com/album/5dmtYNXYgS2gIq7J0nN7R4) | 3:34 |
 | 32 | [The Space Between](https://open.spotify.com/track/7FNpgKsAUFgt5ONasflWtc) | [Joanna Brouk](https://open.spotify.com/artist/3yITaOTDcBPYNnYxlxQuUt) | [The Space Between](https://open.spotify.com/album/7JO8XrLsnzmn6cBP5kyMUH) | 21:53 |
-| 33 | [Crystals](https://open.spotify.com/track/1oHsdvHWOYUz06YLNDWyzp) | [Bob Ose](https://open.spotify.com/artist/2KFktC8T24X7duh0peZZrg), [Norman Beede](https://open.spotify.com/artist/1QjdtCSzyQLBmtnoHyWmxn), [Craig Kupka](https://open.spotify.com/artist/10BujleeZpW0oZ3fDeBRRR) | [Crystals: New Music for Relaxation \# 2](https://open.spotify.com/album/2r8goCcnxJ2CcaeYqd2omy) | 21:18 |
+| 33 | [Crystals](https://open.spotify.com/track/1oHsdvHWOYUz06YLNDWyzp) | [Craig Kupka](https://open.spotify.com/artist/10BujleeZpW0oZ3fDeBRRR) | [Crystals: New Music for Relaxation 2](https://open.spotify.com/album/2r8goCcnxJ2CcaeYqd2omy) | 21:18 |
 | 34 | [Eternal Sanctuary](https://open.spotify.com/track/3XjLFQKxS3giCNrRz7tdQA) | [David Naegele](https://open.spotify.com/artist/5Nzwg655wLADsxvaAtfZ2C) | [Temple In The Forest](https://open.spotify.com/album/4CZZATqn4j166QuK2tR77T) | 21:32 |
 | 35 | [Spirit on the Wind](https://open.spotify.com/track/2JH4RHY09LArvLRfttqTbM) | [Tony O'Connor](https://open.spotify.com/artist/5f4UBNURyjjZJDqhLCCfmC) | [Seashore Sunrise](https://open.spotify.com/album/2h4Dm6JaQx93MWfKCsigGw) | 7:04 |
 | 36 | [Memories](https://open.spotify.com/track/5Fryu3Yxywb5F5y1UmiC8I) | [Tony O'Connor](https://open.spotify.com/artist/5f4UBNURyjjZJDqhLCCfmC) | [Rainforest Magic](https://open.spotify.com/album/4kSD8egAl0J8Ogyw0Srxgi) | 5:07 |

@@ -1,6 +1,6 @@
 {
   "description": "soffia, tasha & tracie, fazendo $ com a paciencia curta",
-  "num_followers": 67343,
+  "num_followers": 67372,
   "original_name": "Baby Hair",
   "owner": {
     "name": "Spotify",
@@ -703,6 +703,26 @@
     {
       "added_at": "2025-05-30 14:15:20",
       "album": {
+        "name": "Menor Quente do Rio",
+        "url": "https://open.spotify.com/album/0bPa6o1jZb73vrEsguw1JX"
+      },
+      "artists": [
+        {
+          "name": "Afreekassia",
+          "url": "https://open.spotify.com/artist/1wYviDrVOvFPtg3CFn3DHp"
+        },
+        {
+          "name": "G.a.B.o",
+          "url": "https://open.spotify.com/artist/1tbm8dDyvUKWMZPikJM7UR"
+        }
+      ],
+      "duration_ms": 145894,
+      "name": "Menor Quente do Rio",
+      "url": "https://open.spotify.com/track/6LK3ZCcCGXfXtZWE9bKOdW"
+    },
+    {
+      "added_at": "2025-05-30 14:15:20",
+      "album": {
         "name": "Minha Competi\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/5TyhogzIXyEWwxPyVzbQ3q"
       },
@@ -723,26 +743,6 @@
       "duration_ms": 130666,
       "name": "Minha Competi\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/4GIU6Qg6uQdy6XmBy70YJK"
-    },
-    {
-      "added_at": "2025-05-30 14:15:20",
-      "album": {
-        "name": "Menor Quente do Rio",
-        "url": "https://open.spotify.com/album/0bPa6o1jZb73vrEsguw1JX"
-      },
-      "artists": [
-        {
-          "name": "Afreekassia",
-          "url": "https://open.spotify.com/artist/1wYviDrVOvFPtg3CFn3DHp"
-        },
-        {
-          "name": "G.a.B.o",
-          "url": "https://open.spotify.com/artist/1tbm8dDyvUKWMZPikJM7UR"
-        }
-      ],
-      "duration_ms": 145894,
-      "name": "Menor Quente do Rio",
-      "url": "https://open.spotify.com/track/6LK3ZCcCGXfXtZWE9bKOdW"
     },
     {
       "added_at": "2025-05-30 14:15:20",

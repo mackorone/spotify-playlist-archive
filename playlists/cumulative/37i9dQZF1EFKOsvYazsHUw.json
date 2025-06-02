@@ -1767,6 +1767,24 @@
     },
     {
       "album": {
+        "name": "PLAY (In The Moment)",
+        "url": "https://open.spotify.com/album/10BG9DQTwq5Dgj33LcY2o0"
+      },
+      "artists": [
+        {
+          "name": "TURBO NOUVEAUX",
+          "url": "https://open.spotify.com/artist/1FhTzeHeuXnBs57wqsi3hY"
+        }
+      ],
+      "date_added": "2025-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146440,
+      "name": "PLAY (In The Moment)",
+      "url": "https://open.spotify.com/track/4OuOAYCQPczAnRkapdhin7"
+    },
+    {
+      "album": {
         "name": "I Thought It'd Be Different",
         "url": "https://open.spotify.com/album/1YA6dnUyaevjSC6hGQ9wmX"
       },

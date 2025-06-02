@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 
 > Fresh Latin Indie you should know\. Cover: Niko Rubio
 
-[Spotify](https://open.spotify.com/user/spotify) - 489,769 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 489,746 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 | 49 | [Salta](https://open.spotify.com/track/6HmZzrUWQRDubPYXuYQCPk) | [Colectivo Da Silva](https://open.spotify.com/artist/7h2HIXXVcZ6UPkqlCa2QZY) | [EL SOL](https://open.spotify.com/album/4uGpC7TUpqqMyRXoG3ZqF0) | 2:33 |
 | 50 | [Desastre Natural](https://open.spotify.com/track/21Zzjl9nQz720PRjY61npP) | [Sir Hope](https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Desastre Natural](https://open.spotify.com/album/402omCHlCLcoe6dtfeu9bM) | 3:10 |
 
-Snapshot ID: `aDktYAAAAABbaiMN14CZRrT1/zItwotp`
+Snapshot ID: `aDktYAAAAADXXWuNIRC1woRtNRIAXnAm`

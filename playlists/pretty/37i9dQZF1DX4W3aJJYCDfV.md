@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Miley Cyrus, Lorde, Olivia Dean and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 903,765 likes - 122 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 903,778 likes - 122 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

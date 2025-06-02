@@ -7733,6 +7733,24 @@
     },
     {
       "album": {
+        "name": "Lifetime Achievement Award",
+        "url": "https://open.spotify.com/album/40H2tssCMzDiCaksvwlA5b"
+      },
+      "artists": [
+        {
+          "name": "Wax",
+          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157133,
+      "name": "Cake",
+      "url": "https://open.spotify.com/track/3EEzxb1dGxaSK9GrSpELmC"
+    },
+    {
+      "album": {
         "name": "California",
         "url": "https://open.spotify.com/album/2LFtKHZpmGiB0u9KIHL7GY"
       },
@@ -24682,7 +24700,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-02",
       "duration_ms": 170799,
       "name": "It's You",
       "url": "https://open.spotify.com/track/0E3p4seaA9cvjzNAugYZ5r"

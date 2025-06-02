@@ -1,12 +1,12 @@
 {
   "description": "This is Stevie Nicks. The essential tracks, all in one playlist.",
-  "num_followers": 168141,
+  "num_followers": 168165,
   "original_name": "This Is Stevie Nicks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDj1AAAAAAAlypubObHo0HUMUbRNKRCs",
+  "snapshot_id": "aDpGgAAAAAB+poSnHWjTZNyqAxPGSJIX",
   "tracks": [
     {
       "added_at": null,
@@ -587,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "In Your Dreams",
+        "url": "https://open.spotify.com/album/1mJFn6QQYSHfArKZzvrNvj"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 195560,
+      "name": "Secret Love",
+      "url": "https://open.spotify.com/track/4ztowwWgYZtq0OOUxerZrv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Wild Heart (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0zuIUmEvxMf8tIYZ5wxJHI"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 291200,
       "name": "The Lighthouse",
       "url": "https://open.spotify.com/track/6KzCUv4TwlnFhej36ef5MR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In Your Dreams",
-        "url": "https://open.spotify.com/album/1mJFn6QQYSHfArKZzvrNvj"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 195560,
-      "name": "Secret Love",
-      "url": "https://open.spotify.com/track/4ztowwWgYZtq0OOUxerZrv"
     },
     {
       "added_at": null,
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bella Donna (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3S404OgKoVQSJ3xXrDVlp8"
+        "name": "Street Angel",
+        "url": "https://open.spotify.com/album/6zfkiTCfpCeQCokEMlpudS"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 280626,
-      "name": "Sleeping Angel (From Fast Times at Ridgemont High) - 2016 Remaster",
-      "url": "https://open.spotify.com/track/35I5lX6yE00YSu7PEgES54"
+      "duration_ms": 259066,
+      "name": "Maybe Love Will Change Your Mind",
+      "url": "https://open.spotify.com/track/3FmNXP5tWfjZAImUxzns74"
     },
     {
       "added_at": null,
@@ -827,8 +827,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Street Angel",
-        "url": "https://open.spotify.com/album/6zfkiTCfpCeQCokEMlpudS"
+        "name": "Bella Donna (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3S404OgKoVQSJ3xXrDVlp8"
       },
       "artists": [
         {
@@ -836,9 +836,9 @@
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 259066,
-      "name": "Maybe Love Will Change Your Mind",
-      "url": "https://open.spotify.com/track/3FmNXP5tWfjZAImUxzns74"
+      "duration_ms": 280626,
+      "name": "Sleeping Angel (From Fast Times at Ridgemont High) - 2016 Remaster",
+      "url": "https://open.spotify.com/track/35I5lX6yE00YSu7PEgES54"
     },
     {
       "added_at": null,

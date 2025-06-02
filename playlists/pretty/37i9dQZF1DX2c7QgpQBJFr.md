@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > Al MI AMI Mimì ci ha incantato con il suo nuovo pop 🇮🇹 foto di Agnese Carbone
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,261 likes - 123 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,266 likes - 123 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

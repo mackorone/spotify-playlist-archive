@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Celebrating 10 years of the best new rock & alternative music from independent artists\. Cover: xiao xiao
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,578 likes - 101 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,601 likes - 101 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 100 | [Always](https://open.spotify.com/track/6GHFsZS5gsDNswtTwl6Qs5) | [Daisy Park](https://open.spotify.com/artist/0lC6hpBK9gXtE2Q7kvV8Yf) | [Always](https://open.spotify.com/album/7lS4dG2CncgBkh8orqeNC3) | 4:00 |
 | 101 | [BE LIKE ME](https://open.spotify.com/track/0NX4n2dYa75lfWhjYLkXVq) | [Cosmorat](https://open.spotify.com/artist/7N3uZZGaea8CxH6SoFyCpr) | [BE LIKE ME](https://open.spotify.com/album/5GfXPmj4U1fTiI65Oo6net) | 3:17 |
 
-Snapshot ID: `aDiXtQAAAABCC+UTGwaFEVDWmeNnoIWS`
+Snapshot ID: `AAAAAF0L90fRBYCYSvuPmFQvqiHSTRa/`

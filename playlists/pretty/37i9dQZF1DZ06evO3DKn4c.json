@@ -1,12 +1,12 @@
 {
   "description": "This is Black Alien. The essential tracks, all in one playlist.",
-  "num_followers": 39209,
+  "num_followers": 39222,
   "original_name": "This Is Black Alien",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDj1AAAAAABl1lckl7fw3eqG4dcNfbES",
+  "snapshot_id": "aDpGgAAAAACaCXRiOIM3HvEx5KbCSAH6",
   "tracks": [
     {
       "added_at": null,
@@ -287,22 +287,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ant\u00eddoto Pra Todo Tipo de Veneno",
-        "url": "https://open.spotify.com/album/5564Nl3uMeEUisl4Vz7JXK"
+        "name": "FRAGMENTADO",
+        "url": "https://open.spotify.com/album/00EpdnJTbeKfWrc7FI7Q2H"
       },
       "artists": [
         {
-          "name": "Gabriel O Pensador",
-          "url": "https://open.spotify.com/artist/5BWqFYIPTnFx3OPWOoJvmD"
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
         },
         {
           "name": "Black Alien",
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        },
+        {
+          "name": "Gustah",
+          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
         }
       ],
-      "duration_ms": 265088,
-      "name": "Nunca Tenha Medo",
-      "url": "https://open.spotify.com/track/3D0HjV2V8ZEYA2Vcq3Dbum"
+      "duration_ms": 178948,
+      "name": "TOCA NO MORRO E NA PISTA",
+      "url": "https://open.spotify.com/track/67aY8ERS9wBSo8HmugaOsp"
     },
     {
       "added_at": null,
@@ -339,18 +347,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pique Peaky Blinders",
-        "url": "https://open.spotify.com/album/5PYCa2wn42rxBgKKdg8HhD"
+        "name": "Ant\u00eddoto Pra Todo Tipo de Veneno",
+        "url": "https://open.spotify.com/album/5564Nl3uMeEUisl4Vz7JXK"
       },
       "artists": [
+        {
+          "name": "Gabriel O Pensador",
+          "url": "https://open.spotify.com/artist/5BWqFYIPTnFx3OPWOoJvmD"
+        },
         {
           "name": "Black Alien",
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
         }
       ],
-      "duration_ms": 185604,
-      "name": "Pique Peaky Blinders",
-      "url": "https://open.spotify.com/track/3PbWQTnOxpbZCyGjZuWUhk"
+      "duration_ms": 265088,
+      "name": "Nunca Tenha Medo",
+      "url": "https://open.spotify.com/track/3D0HjV2V8ZEYA2Vcq3Dbum"
     },
     {
       "added_at": null,
@@ -403,30 +415,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "FRAGMENTADO",
-        "url": "https://open.spotify.com/album/00EpdnJTbeKfWrc7FI7Q2H"
+        "name": "Pique Peaky Blinders",
+        "url": "https://open.spotify.com/album/5PYCa2wn42rxBgKKdg8HhD"
       },
       "artists": [
         {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        },
-        {
           "name": "Black Alien",
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        },
-        {
-          "name": "Gustah",
-          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
         }
       ],
-      "duration_ms": 178948,
-      "name": "TOCA NO MORRO E NA PISTA",
-      "url": "https://open.spotify.com/track/67aY8ERS9wBSo8HmugaOsp"
+      "duration_ms": 185604,
+      "name": "Pique Peaky Blinders",
+      "url": "https://open.spotify.com/track/3PbWQTnOxpbZCyGjZuWUhk"
     },
     {
       "added_at": null,

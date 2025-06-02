@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: Balu Brigada
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,185,774 likes - 125 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,185,684 likes - 125 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 124 | [Psycho](https://open.spotify.com/track/3yTI3OvnXDJsTusEqkVaNt) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Psycho](https://open.spotify.com/album/6bqus3Y14ybl1sI3B49EOb) | 3:32 |
 | 125 | [Chewing Cheeks](https://open.spotify.com/track/6Df1juy0wxiJJsvRG3Ewo5) | [Evening Elephants](https://open.spotify.com/artist/4mvJqW3HQswIu7RmvcAQUy) | [Chewing Cheeks](https://open.spotify.com/album/2C7TVlupP3k6Pf14oaOEad) | 2:25 |
 
-Snapshot ID: `aDktUwAAAAAoPgPGlQj0kEwfaYCSAZxx`
+Snapshot ID: `AAAAAMSyDkLJSByVGbeSsjaQh+3NTYFH`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 
 > Nieuwe alternative & rock releases\. Cover: White Lies
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,060 likes - 107 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,064 likes - 107 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

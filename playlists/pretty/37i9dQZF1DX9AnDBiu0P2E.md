@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9AnDBiu0P2E.md) - [plain]
 
 > feel the wind in your hair with these rock favorites, new and old.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,968 likes - 60 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,032 likes - 60 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9AnDBiu0P2E.md) - [plain]
 | 59 | [Hot Dusty Roads](https://open.spotify.com/track/1wOxTOMMt5N7aw6kBItAW4) | [Buffalo Springfield](https://open.spotify.com/artist/3eskO5m0H4yiF64vRySBjr) | [Buffalo Springfield](https://open.spotify.com/album/3PkdGRruLnJ9zCtANiDrpB) | 2:51 |
 | 60 | [No Other](https://open.spotify.com/track/5neFHiejZX5OmTD5ZtJexC) | [Gene Clark](https://open.spotify.com/artist/040Bv6cZTRh30LyyYVXgJX) | [No Other](https://open.spotify.com/album/5pCs9qZgw8VCzahyfAgiio) | 5:08 |
 
-Snapshot ID: `Z6+4PgAAAAABFhk45IefiZEvqS2bvVKv`
+Snapshot ID: `Z6+4PgAAAADPEIXf6r8V0r8DLz+NT7nm`

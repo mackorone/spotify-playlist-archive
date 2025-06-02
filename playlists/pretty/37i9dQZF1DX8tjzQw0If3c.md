@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tjzQw0If3c.md) - [plain]
 
 > Listen to the future\. Cover: Dominic Chin
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,117 likes - 62 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,118 likes - 62 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

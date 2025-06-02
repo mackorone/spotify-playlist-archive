@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4uT4afwoFqf5HupqMjErXX">Chiiild</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-125 songs - 6 hr 57 min
+126 songs - 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Party Girls \(feat\. Buju Banton\)](https://open.spotify.com/track/5v7BIzhKuy8WzT7LyFYiiO) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [JAGUAR II](https://open.spotify.com/album/3NwHGaFneaad7RHBKboeUw) | 4:00 | 2024-04-02 |  |
 | [Pirouette](https://open.spotify.com/track/2sz6BchGGyA7QsUW2Gw8eb) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Synthetic Soul](https://open.spotify.com/album/6eMpxISabZ3Uyrc53CXQ2U) | 2:57 | 2023-06-11 |  |
 | [Pirouette](https://open.spotify.com/track/5BfvUt5ztFuAyhWjgWzjr1) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Synthetic Soul](https://open.spotify.com/album/3ZTUu9z3rxEC4MA9N4ZOzl) | 2:57 | 2022-11-11 | 2023-06-12 |
+| [PLAY \(In The Moment\)](https://open.spotify.com/track/4OuOAYCQPczAnRkapdhin7) | [TURBO NOUVEAUX](https://open.spotify.com/artist/1FhTzeHeuXnBs57wqsi3hY) | [PLAY \(In The Moment\)](https://open.spotify.com/album/10BG9DQTwq5Dgj33LcY2o0) | 2:26 | 2025-06-01 |  |
 | [Refill](https://open.spotify.com/track/2WJS688sN8yuzC4CDMeZRZ) | [Rory](https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9), [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Aáyanna](https://open.spotify.com/artist/4lL3E6bGEObeXcKHVy4D5P) | [I Thought It'd Be Different](https://open.spotify.com/album/1YA6dnUyaevjSC6hGQ9wmX) | 3:47 | 2024-04-02 | 2025-03-16 |
 | [Refill](https://open.spotify.com/track/4lo0Ji3cZP32UjEuxAh6OD) | [Rory](https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9), [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Aáyanna](https://open.spotify.com/artist/4lL3E6bGEObeXcKHVy4D5P) | [I Thought It'd Be Different](https://open.spotify.com/album/5pOw339jffG6207J1W0GRo) | 3:47 | 2025-03-15 |  |
 | [Revolution](https://open.spotify.com/track/45LbqIkc6xVfyOxBVU8efO) | [Catey Shaw](https://open.spotify.com/artist/5nfow6tv4Dtm6K4WHzczBI) | [Revolution](https://open.spotify.com/album/1R71BrJFADHwIWaqQ3UAzy) | 4:06 | 2022-11-11 |  |

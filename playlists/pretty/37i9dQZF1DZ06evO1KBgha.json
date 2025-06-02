@@ -1,12 +1,12 @@
 {
   "description": "This is Kenia Os. The essential tracks, all in one playlist.",
-  "num_followers": 363260,
+  "num_followers": 363279,
   "original_name": "This Is Kenia Os",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDj1AAAAAAArZeC6iHo1I/G+DP0kBRjs",
+  "snapshot_id": "aDpGgAAAAACQ9Mq2zLLFNymMufpiyTU4",
   "tracks": [
     {
       "added_at": null,
@@ -187,6 +187,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "CUARTO AZUL",
+        "url": "https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        },
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 181500,
+      "name": "EX EX EX",
+      "url": "https://open.spotify.com/track/0JblMDDZxhwEVAH65UeLBc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pink Aura",
         "url": "https://open.spotify.com/album/1a08d11kkHSjdTLCUnYXad"
       },
@@ -275,26 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CUARTO AZUL",
-        "url": "https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        },
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 181500,
-      "name": "EX EX EX",
-      "url": "https://open.spotify.com/track/0JblMDDZxhwEVAH65UeLBc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Siempre Que Lo Beso",
         "url": "https://open.spotify.com/album/6HZmLJi2vatI1IPmcJ6Y5s"
       },
@@ -311,6 +311,22 @@
       "duration_ms": 153674,
       "name": "Siempre Que Lo Beso",
       "url": "https://open.spotify.com/track/7uxUSeO7fa3gVn0mNg2SyR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/6qKPrh8dQ6jVqR3TiyMM8J"
+      },
+      "artists": [
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 166418,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/1jBxLoNgHtZnY3ykT9MDyl"
     },
     {
       "added_at": null,
@@ -351,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bonita",
-        "url": "https://open.spotify.com/album/6qKPrh8dQ6jVqR3TiyMM8J"
-      },
-      "artists": [
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 166418,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/1jBxLoNgHtZnY3ykT9MDyl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "QUE SED",
         "url": "https://open.spotify.com/album/2q6PAdBBf4L2Xpxqc3jd8b"
       },
@@ -383,6 +383,22 @@
       "duration_ms": 130784,
       "name": "ARRUINAME LA VIDA",
       "url": "https://open.spotify.com/track/0slYOI5BLJPxK7uBSywVLv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lovelove U",
+        "url": "https://open.spotify.com/album/7K4D7qSpRkKY2WqIAJo9Dv"
+      },
+      "artists": [
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 175479,
+      "name": "Lovelove U",
+      "url": "https://open.spotify.com/track/4ZPbxT1hVCdUBG4Tjmfs5B"
     },
     {
       "added_at": null,
@@ -419,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lovelove U",
-        "url": "https://open.spotify.com/album/7K4D7qSpRkKY2WqIAJo9Dv"
-      },
-      "artists": [
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 175479,
-      "name": "Lovelove U",
-      "url": "https://open.spotify.com/track/4ZPbxT1hVCdUBG4Tjmfs5B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rumores",
         "url": "https://open.spotify.com/album/1NK0ocpcz8JpZfsdzNYJid"
       },
@@ -451,6 +451,22 @@
       "duration_ms": 202594,
       "name": "Rumores",
       "url": "https://open.spotify.com/track/3OUkQJY3YQ00HwD5GPuk7A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mentiroso",
+        "url": "https://open.spotify.com/album/0NAINCWZldqYy5iY2CL4jq"
+      },
+      "artists": [
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 147766,
+      "name": "Mentiroso",
+      "url": "https://open.spotify.com/track/5iXCrcLT5iirF2UTmaa284"
     },
     {
       "added_at": null,
@@ -483,22 +499,6 @@
       "duration_ms": 130220,
       "name": "Tortura",
       "url": "https://open.spotify.com/track/675DR08jG1zTyPjNoSUTY7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mentiroso",
-        "url": "https://open.spotify.com/album/0NAINCWZldqYy5iY2CL4jq"
-      },
-      "artists": [
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 147766,
-      "name": "Mentiroso",
-      "url": "https://open.spotify.com/track/5iXCrcLT5iirF2UTmaa284"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pink Aura",
-        "url": "https://open.spotify.com/album/1a08d11kkHSjdTLCUnYXad"
-      },
-      "artists": [
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 182525,
-      "name": "OMG",
-      "url": "https://open.spotify.com/track/32Rd1yFRekKTkH21g0j1gH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Un Bezito",
         "url": "https://open.spotify.com/album/73ak0lB4a1hE6glj88jp9b"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 156734,
       "name": "Un Bezito",
       "url": "https://open.spotify.com/track/1SQfMaCmPULmazsql39NTb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pink Aura",
+        "url": "https://open.spotify.com/album/1a08d11kkHSjdTLCUnYXad"
+      },
+      "artists": [
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 182525,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/32Rd1yFRekKTkH21g0j1gH"
     },
     {
       "added_at": null,

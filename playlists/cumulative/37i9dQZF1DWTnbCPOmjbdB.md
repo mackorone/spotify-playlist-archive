@@ -2,7 +2,7 @@
 
 ### [Polskie hity](https://open.spotify.com/playlist/37i9dQZF1DWTnbCPOmjbdB)
 
-> Najlepsze polskie piosenki na czasie\. Cover: Dawid Kwiatkowski 👶
+> Najlepsze polskie piosenki na czasie\. Cover: Dawid Kwiatkowski
 
 494 songs - 1 day 0 hr 6 min
 

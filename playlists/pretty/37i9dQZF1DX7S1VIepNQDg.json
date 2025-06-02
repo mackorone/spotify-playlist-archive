@@ -335,26 +335,6 @@
     {
       "added_at": "2023-12-19 09:07:27",
       "album": {
-        "name": "Ms. Poli Sci",
-        "url": "https://open.spotify.com/album/7qypqH6zU0ZowehywC9395"
-      },
-      "artists": [
-        {
-          "name": "Paul Russell",
-          "url": "https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8"
-        },
-        {
-          "name": "Khary",
-          "url": "https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ"
-        }
-      ],
-      "duration_ms": 128703,
-      "name": "Ms. Poli Sci",
-      "url": "https://open.spotify.com/track/3imYkN34og7muZbkSZWLUW"
-    },
-    {
-      "added_at": "2023-12-19 09:07:27",
-      "album": {
         "name": "Sunburn",
         "url": "https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH"
       },
@@ -371,6 +351,26 @@
       "duration_ms": 222839,
       "name": "Think Fast (feat. Weezer)",
       "url": "https://open.spotify.com/track/4Z59a9hIn8EMsni3OiqGso"
+    },
+    {
+      "added_at": "2023-12-19 09:07:27",
+      "album": {
+        "name": "Ms. Poli Sci",
+        "url": "https://open.spotify.com/album/7qypqH6zU0ZowehywC9395"
+      },
+      "artists": [
+        {
+          "name": "Paul Russell",
+          "url": "https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8"
+        },
+        {
+          "name": "Khary",
+          "url": "https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ"
+        }
+      ],
+      "duration_ms": 128703,
+      "name": "Ms. Poli Sci",
+      "url": "https://open.spotify.com/track/3imYkN34og7muZbkSZWLUW"
     },
     {
       "added_at": "2023-12-19 09:07:27",
@@ -551,42 +551,6 @@
     {
       "added_at": "2023-12-19 09:07:27",
       "album": {
-        "name": "STILL EMO",
-        "url": "https://open.spotify.com/album/74LSOp5FSRJFoMMhLpltKz"
-      },
-      "artists": [
-        {
-          "name": "Emotional Oranges",
-          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
-        },
-        {
-          "name": "Tkay Maidza",
-          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
-        }
-      ],
-      "duration_ms": 141780,
-      "name": "Be Somebody (feat. Tkay Maidza)",
-      "url": "https://open.spotify.com/track/3gYy3nywL9QXjYWaMpeHFC"
-    },
-    {
-      "added_at": "2023-12-19 09:07:27",
-      "album": {
-        "name": "Right Here, For Now",
-        "url": "https://open.spotify.com/album/5eiR2EXJbe3N9QTzFJ4Jzi"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 180933,
-      "name": "Right Here, for Now",
-      "url": "https://open.spotify.com/track/2mMU463xwCEiBKJJTlA3tc"
-    },
-    {
-      "added_at": "2023-12-19 09:07:27",
-      "album": {
         "name": "Daydreaming",
         "url": "https://open.spotify.com/album/4kbNKlVp255OjdXPDii8Nz"
       },
@@ -603,6 +567,26 @@
       "duration_ms": 183377,
       "name": "Daydreaming",
       "url": "https://open.spotify.com/track/4vOXQM1c4M6CCASiWkR2n0"
+    },
+    {
+      "added_at": "2023-12-19 09:07:27",
+      "album": {
+        "name": "STILL EMO",
+        "url": "https://open.spotify.com/album/74LSOp5FSRJFoMMhLpltKz"
+      },
+      "artists": [
+        {
+          "name": "Emotional Oranges",
+          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
+        },
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        }
+      ],
+      "duration_ms": 141780,
+      "name": "Be Somebody (feat. Tkay Maidza)",
+      "url": "https://open.spotify.com/track/3gYy3nywL9QXjYWaMpeHFC"
     },
     {
       "added_at": "2023-12-19 09:07:27",
@@ -635,6 +619,22 @@
       "duration_ms": 142584,
       "name": "Still Have Room",
       "url": "https://open.spotify.com/track/1CqISEsTc9TDUDyfAtJNmc"
+    },
+    {
+      "added_at": "2023-12-19 09:07:27",
+      "album": {
+        "name": "Right Here, For Now",
+        "url": "https://open.spotify.com/album/5eiR2EXJbe3N9QTzFJ4Jzi"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 180933,
+      "name": "Right Here, for Now",
+      "url": "https://open.spotify.com/track/2mMU463xwCEiBKJJTlA3tc"
     },
     {
       "added_at": "2023-12-19 09:07:27",
@@ -923,6 +923,26 @@
     {
       "added_at": "2023-12-19 09:07:27",
       "album": {
+        "name": "Hot Sauce",
+        "url": "https://open.spotify.com/album/5ue0WkGZRaNZ3LlguPyzqy"
+      },
+      "artists": [
+        {
+          "name": "Thandi Phoenix",
+          "url": "https://open.spotify.com/artist/3PAjYEQ8KpL6u0fNDR0p1v"
+        },
+        {
+          "name": "Arona Mane",
+          "url": "https://open.spotify.com/artist/70yqFQVIWhHa89ELLSB69B"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Hot Sauce",
+      "url": "https://open.spotify.com/track/7hyb9nt5CLD1PzTEm8riBo"
+    },
+    {
+      "added_at": "2023-12-19 09:07:27",
+      "album": {
         "name": "KAYTRAMIN\u00c9",
         "url": "https://open.spotify.com/album/1plAqF2W8hwAhcpBAfGNsW"
       },
@@ -947,26 +967,6 @@
       "duration_ms": 190373,
       "name": "4EVA",
       "url": "https://open.spotify.com/track/2sUImfbz5cpAW50SiQla4h"
-    },
-    {
-      "added_at": "2023-12-19 09:07:27",
-      "album": {
-        "name": "Hot Sauce",
-        "url": "https://open.spotify.com/album/5ue0WkGZRaNZ3LlguPyzqy"
-      },
-      "artists": [
-        {
-          "name": "Thandi Phoenix",
-          "url": "https://open.spotify.com/artist/3PAjYEQ8KpL6u0fNDR0p1v"
-        },
-        {
-          "name": "Arona Mane",
-          "url": "https://open.spotify.com/artist/70yqFQVIWhHa89ELLSB69B"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Hot Sauce",
-      "url": "https://open.spotify.com/track/7hyb9nt5CLD1PzTEm8riBo"
     },
     {
       "added_at": "2023-12-19 09:07:27",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-12-19 09:07:27",
       "album": {
-        "name": "Moth Love",
-        "url": "https://open.spotify.com/album/3TmRBALTpwplqDDM4ZRPMr"
-      },
-      "artists": [
-        {
-          "name": "1tbsp",
-          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
-        }
-      ],
-      "duration_ms": 202391,
-      "name": "Moth Love",
-      "url": "https://open.spotify.com/track/0lP6dtgyfTtVcxJ1GVmIyA"
-    },
-    {
-      "added_at": "2023-12-19 09:07:27",
-      "album": {
         "name": "Endit (feat. Rromarin)",
         "url": "https://open.spotify.com/album/0vslTcnIU2dvfgOsP4tlJR"
       },
@@ -1143,6 +1127,22 @@
     {
       "added_at": "2023-12-19 09:07:27",
       "album": {
+        "name": "Moth Love",
+        "url": "https://open.spotify.com/album/3TmRBALTpwplqDDM4ZRPMr"
+      },
+      "artists": [
+        {
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+        }
+      ],
+      "duration_ms": 202391,
+      "name": "Moth Love",
+      "url": "https://open.spotify.com/track/0lP6dtgyfTtVcxJ1GVmIyA"
+    },
+    {
+      "added_at": "2023-12-19 09:07:27",
+      "album": {
         "name": "Cleave",
         "url": "https://open.spotify.com/album/195Un6jYy1ckMxggNTUsgV"
       },
@@ -1155,26 +1155,6 @@
       "duration_ms": 271493,
       "name": "On The Eve Of The Rush",
       "url": "https://open.spotify.com/track/4RZfv0PuRnLmbVJZhaGqTz"
-    },
-    {
-      "added_at": "2023-12-19 09:07:27",
-      "album": {
-        "name": "Self To Blame",
-        "url": "https://open.spotify.com/album/6NvDwBu9uM79wNI7ZzA5nY"
-      },
-      "artists": [
-        {
-          "name": "Logic1000",
-          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
-        },
-        {
-          "name": "Kayla Blackmon",
-          "url": "https://open.spotify.com/artist/46J5rGvJ6xnn5cCZguck6W"
-        }
-      ],
-      "duration_ms": 245360,
-      "name": "Self To Blame",
-      "url": "https://open.spotify.com/track/5KpCmDP66zOO4sjKuneMjQ"
     },
     {
       "added_at": "2023-12-19 09:07:27",
@@ -1199,6 +1179,26 @@
       "duration_ms": 222676,
       "name": "Those Tears",
       "url": "https://open.spotify.com/track/3YH2FpulAMIsnJjUcFUL9T"
+    },
+    {
+      "added_at": "2023-12-19 09:07:27",
+      "album": {
+        "name": "Self To Blame",
+        "url": "https://open.spotify.com/album/6NvDwBu9uM79wNI7ZzA5nY"
+      },
+      "artists": [
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        },
+        {
+          "name": "Kayla Blackmon",
+          "url": "https://open.spotify.com/artist/46J5rGvJ6xnn5cCZguck6W"
+        }
+      ],
+      "duration_ms": 245360,
+      "name": "Self To Blame",
+      "url": "https://open.spotify.com/track/5KpCmDP66zOO4sjKuneMjQ"
     },
     {
       "added_at": "2023-12-19 09:07:27",

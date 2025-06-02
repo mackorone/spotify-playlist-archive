@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcr2UzLGERUU.md) - [plain]
 
 > Wind down in moments of stress with these chilled songs for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 417,585 likes - 92 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 417,610 likes - 92 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcr2UzLGERUU.md) - [plain]
 | 91 | [Sea of Love](https://open.spotify.com/track/1J3w85cS3FEmoSKRu2dQJ8) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [The Covers Record](https://open.spotify.com/album/5FbcUqv44TZnt8Ox6bzzZT) | 2:19 |
 | 92 | [When You Wish Upon a Star](https://open.spotify.com/track/2qC4zeqyQ4qUPM3WoK8OYe) | [Diana Panton](https://open.spotify.com/artist/7iHXhGerkdpvUAIb67GCSj) | [I Believe in Little Things](https://open.spotify.com/album/1uinrEFIJaxI9mjybo0DFj) | 5:48 |
 
-Snapshot ID: `AAAAAFf0xbwjXHj35ec0ciLAlgjrtMhb`
+Snapshot ID: `aAHOaQAAAABUDivPHdVBIKP+IT6m2Y0Y`

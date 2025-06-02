@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZa8CSUr0hCY.md) - [plain]
 
 > Laissez\-vous porter par la playlist lo\-fi
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,683 likes - 150 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,688 likes - 150 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZa8CSUr0hCY.md) - [plain]
 | 149 | [Falling Stars](https://open.spotify.com/track/4mIgrbxrhfjvbbi8pSPYZl) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Falling Stars](https://open.spotify.com/album/3VPdb1H1lJCjUnQvJKxQFW) | 1:43 |
 | 150 | [Walk In The Park](https://open.spotify.com/track/3JMCLUsJ5TuvzsO0wU94u5) | [St\. Vrain](https://open.spotify.com/artist/5JhftUX2nAHcXC5xX7bStW) | [Walk In The Park](https://open.spotify.com/album/6XTyXwI6i0MWcAAscwcObg) | 2:11 |
 
-Snapshot ID: `AAAAACDG1DwlUXVOlX4CA1ScRaYZBlPd`
+Snapshot ID: `Z/kyewAAAABjzKZcVA0uhSX4NgDYPtk0`

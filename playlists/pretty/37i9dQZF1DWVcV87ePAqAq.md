@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcV87ePAqAq.md) - [plain]
 
 > Flaket kommer studsa!
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,265 likes - 73 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,239 likes - 73 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcV87ePAqAq.md) - [plain]
 | 40 | [ALARMA!](https://open.spotify.com/track/5ezKbpPGtVHwUzKo3rdywi) | [666](https://open.spotify.com/artist/76TM3QXivQvlLmZxdYxMZr) | [Paradoxx \(Platinum Edition\)](https://open.spotify.com/album/2hziJmkRyETKw5sGzrmm0R) | 3:25 |
 | 41 | [Heaven](https://open.spotify.com/track/70jAESz42ftg7bQsihU6hL) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Heaven](https://open.spotify.com/album/0wX0I9s2XCXV6IODVIwIkA) | 2:45 |
 | 42 | [UNGA & FRIA REMIX](https://open.spotify.com/track/1ahb93Op9pGIoAmtjMvPdT) | [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt), [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [UNGA & FRIA REMIX](https://open.spotify.com/album/2qy2vrpRkn1AAFHSEguCaX) | 3:04 |
-| 43 | [When I Wake Up](https://open.spotify.com/track/3YDjGm8NogZVxOp9aHA4MZ) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Skinny Days](https://open.spotify.com/artist/4Q8IIlsZsXY1BgPzaz4DYq) | [When I Wake Up](https://open.spotify.com/album/5pTuebKZdnDlMTRhUidinz) | 2:23 |
-| 44 | [Summer Dreaming](https://open.spotify.com/track/5tJjs0KFkVzMWCXZGu10G8) | [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK), [Pure Shores](https://open.spotify.com/artist/42CdKQR7lo8cgIyufa0DQr) | [Summer Dreaming](https://open.spotify.com/album/1utYmp79N55k5BY0X3tv4R) | 3:02 |
+| 43 | [Summer Dreaming](https://open.spotify.com/track/5tJjs0KFkVzMWCXZGu10G8) | [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK), [Pure Shores](https://open.spotify.com/artist/42CdKQR7lo8cgIyufa0DQr) | [Summer Dreaming](https://open.spotify.com/album/1utYmp79N55k5BY0X3tv4R) | 3:02 |
+| 44 | [When I Wake Up](https://open.spotify.com/track/3YDjGm8NogZVxOp9aHA4MZ) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Skinny Days](https://open.spotify.com/artist/4Q8IIlsZsXY1BgPzaz4DYq) | [When I Wake Up](https://open.spotify.com/album/5pTuebKZdnDlMTRhUidinz) | 2:23 |
 | 45 | [Älskade ängel](https://open.spotify.com/track/7xIPafRGjjnaarcgYXGwAp) | [Ooooklart](https://open.spotify.com/artist/2KCvKWnFqczghA5Q60Mrlb) | [Älskade ängel](https://open.spotify.com/album/6c5kxwjde7x9yPzQlBrw1b) | 2:31 |
 | 46 | [Soffa från IKEA](https://open.spotify.com/track/31hIfKm7C5TroLqa2Lubap) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL), [Elov & Beny](https://open.spotify.com/artist/4uAXlCewJdAu44uAHehKfd) | [Soffa från IKEA](https://open.spotify.com/album/3PlZa86ePY7OisgM0jWjoa) | 2:29 |
 | 47 | [VOI TILL MIN FUCKBOI](https://open.spotify.com/track/7MVDhCrcjzdEdZbOkZa2XV) | [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt), [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj) | [VOI TILL MIN FUCKBOI](https://open.spotify.com/album/2CuUNP6q3OohkEEUw2orgT) | 2:22 |

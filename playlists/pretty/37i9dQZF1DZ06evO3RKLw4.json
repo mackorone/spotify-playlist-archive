@@ -1,12 +1,12 @@
 {
   "description": "This is Rancid. The essential tracks, all in one playlist.",
-  "num_followers": 48964,
+  "num_followers": 48968,
   "original_name": "This Is Rancid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDj1AAAAAAAGi4DwgOqt0yif2dLvq4fB",
+  "snapshot_id": "aDpGgAAAAAAOA51LZXEzAcaNkNng9tRe",
   "tracks": [
     {
       "added_at": null,
@@ -287,22 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let The Dominoes Fall (Expanded Version)",
-        "url": "https://open.spotify.com/album/3YKr1OXFNxd2hWu106Ty93"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 125693,
-      "name": "East Bay Night",
-      "url": "https://open.spotify.com/track/6WVak6Y3Fyts2tYsNMujru"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rancid",
         "url": "https://open.spotify.com/album/0ELny42cJ5M3cjHAVeLVdr"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 174760,
       "name": "Hyena",
       "url": "https://open.spotify.com/track/20GxyDLGDLr4zgb5587Oue"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let The Dominoes Fall (Expanded Version)",
+        "url": "https://open.spotify.com/album/3YKr1OXFNxd2hWu106Ty93"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 125693,
+      "name": "East Bay Night",
+      "url": "https://open.spotify.com/track/6WVak6Y3Fyts2tYsNMujru"
     },
     {
       "added_at": null,
@@ -351,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let The Dominoes Fall (Expanded Version)",
-        "url": "https://open.spotify.com/album/3YKr1OXFNxd2hWu106Ty93"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 143600,
-      "name": "Last One To Die",
-      "url": "https://open.spotify.com/track/7Aulng5j4bWyRJ0emPhNGE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Life Won't Wait",
         "url": "https://open.spotify.com/album/410JU10vru3pFk7f7vA94E"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 152760,
       "name": "Hooligans",
       "url": "https://open.spotify.com/track/5uNrA98u8ZSoAaHaDSSmU4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let The Dominoes Fall (Expanded Version)",
+        "url": "https://open.spotify.com/album/3YKr1OXFNxd2hWu106Ty93"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 143600,
+      "name": "Last One To Die",
+      "url": "https://open.spotify.com/track/7Aulng5j4bWyRJ0emPhNGE"
     },
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let's Go",
-        "url": "https://open.spotify.com/album/44FRRbDmIqioUuIKjua6MT"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 86133,
-      "name": "Let's Go",
-      "url": "https://open.spotify.com/track/30zaM8Jc0whvFCW0iPgxZS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tomorrow Never Comes",
         "url": "https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 118618,
       "name": "Devil In Disguise",
       "url": "https://open.spotify.com/track/0r6Lwa3SvLeewLD1CzYIYP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let's Go",
+        "url": "https://open.spotify.com/album/44FRRbDmIqioUuIKjua6MT"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 86133,
+      "name": "Let's Go",
+      "url": "https://open.spotify.com/track/30zaM8Jc0whvFCW0iPgxZS"
     },
     {
       "added_at": null,
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 157643,
-      "name": "New American",
-      "url": "https://open.spotify.com/track/0puOfy2IqL1fRF3wIFV09t"
+      "duration_ms": 58371,
+      "name": "Don't Make Me Do It",
+      "url": "https://open.spotify.com/track/3HNI0dwTStPSThqfEJW48M"
     },
     {
       "added_at": null,
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 58371,
-      "name": "Don't Make Me Do It",
-      "url": "https://open.spotify.com/track/3HNI0dwTStPSThqfEJW48M"
+      "duration_ms": 157643,
+      "name": "New American",
+      "url": "https://open.spotify.com/track/0puOfy2IqL1fRF3wIFV09t"
     },
     {
       "added_at": null,

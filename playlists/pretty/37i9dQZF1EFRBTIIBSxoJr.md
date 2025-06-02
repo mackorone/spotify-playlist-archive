@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7zjIlRz0yNsZwtpV07KLBI">RuthAnne Cunningham</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 731 likes - 129 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 730 likes - 129 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 94 | [Ghosted \- Zac Samuel Remix](https://open.spotify.com/track/1DCSbC1KGolxOh2jBKhBUC) | [Lost + Found](https://open.spotify.com/artist/5mRE8kKA1XzOkZpPSiF5yv), [Zac Samuel](https://open.spotify.com/artist/3imlibJrwqYv8gqII7u4r0) | [Ghosted \(Remixes\)](https://open.spotify.com/album/2s0Zp40uEuirxptvvuKtLQ) | 3:27 |
 | 95 | [Nice To Meet Ya \- Live From Łódź](https://open.spotify.com/track/06tUtiMJXBPVsZtxUdgahX) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show: Live On Tour](https://open.spotify.com/album/64JEkvnwjoxGqdrrSVoqVQ) | 4:39 |
 | 96 | [Four Letters](https://open.spotify.com/track/1SujOS52KWiUrFbhGSSv0T) | [Lawson](https://open.spotify.com/artist/2Ah7S4oLgEBYRbz2V0cZzU) | [Hell Yeah](https://open.spotify.com/album/4uX8OvNcCFkOr1WRVgLKO6) | 3:18 |
-| 97 | [We Are Kings](https://open.spotify.com/track/1Q0ea4a6jwKYR03e2Hra4q) | [Lawson](https://open.spotify.com/artist/2Ah7S4oLgEBYRbz2V0cZzU) | [Lawson](https://open.spotify.com/album/7jwZbSVPKeoBtq02Jl9xii) | 3:57 |
-| 98 | [Alibi](https://open.spotify.com/track/6P8BTBt7jHhkQ1OnSytEZN) | [Manhart](https://open.spotify.com/artist/0ZSz1lehQ1CQU6OkKA32dd), [Medusa](https://open.spotify.com/artist/08Cmz2Whs8UYTPT4Th0c8w), [Repulse](https://open.spotify.com/artist/3s4jmS59dOZO763xw7oW9f) | [Alibi](https://open.spotify.com/album/5P1RQBpjFBCeVGOKCUYGpy) | 2:06 |
+| 97 | [Alibi](https://open.spotify.com/track/6P8BTBt7jHhkQ1OnSytEZN) | [Manhart](https://open.spotify.com/artist/0ZSz1lehQ1CQU6OkKA32dd), [Medusa](https://open.spotify.com/artist/08Cmz2Whs8UYTPT4Th0c8w), [Repulse](https://open.spotify.com/artist/3s4jmS59dOZO763xw7oW9f) | [Alibi](https://open.spotify.com/album/5P1RQBpjFBCeVGOKCUYGpy) | 2:06 |
+| 98 | [We Are Kings](https://open.spotify.com/track/1Q0ea4a6jwKYR03e2Hra4q) | [Lawson](https://open.spotify.com/artist/2Ah7S4oLgEBYRbz2V0cZzU) | [Lawson](https://open.spotify.com/album/7jwZbSVPKeoBtq02Jl9xii) | 3:57 |
 | 99 | [Take What I Can Get](https://open.spotify.com/track/0MdKAkg6jdQgWD5UG6B19R) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 3:34 |
 | 100 | [Unrequited](https://open.spotify.com/track/1catoeuz8jaOL6tALZ6ior) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 3:07 |
 | 101 | [Only a Woman](https://open.spotify.com/track/3Q4Lm3uuQco5pWXefzfEJ6) | [Irish Women In Harmony](https://open.spotify.com/artist/3OVmFlXlOUDDxOxnV59M9D), [Aimée](https://open.spotify.com/artist/6kiGJNxa3SvcQWfCrqL1sb), [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA), [Erica\-Cody](https://open.spotify.com/artist/6h9boYU490q7cRC64QsEBI), [Felispeaks](https://open.spotify.com/artist/0xww0TrRTlmakv8leCK4xu), [Eleanor McEvoy](https://open.spotify.com/artist/50SDcJ4wO9jS355IoJc7O9) | [Only a Woman](https://open.spotify.com/album/57qyFqBYCHmpqwqn9fztnI) | 3:37 |
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 128 | [Waiting Room](https://open.spotify.com/track/6WIjcI93x7ai2wHjIYbvkH) | [Sasha Lee](https://open.spotify.com/artist/3dT9AnyUKXdrXCzGsJjx7H) | [Sasha\-Lee](https://open.spotify.com/album/7jzpZmpkbzHMRB3YCTlYfC) | 3:31 |
 | 129 | [New World](https://open.spotify.com/track/3FDGiAjvt2DgrW59SPzz1C) | [Ruth\-Anne](https://open.spotify.com/artist/4LnlxzBp14IU8sJ0dmC9Au) | [New World](https://open.spotify.com/album/5XiSwbh3jsRJvGz8qRjch4) | 3:08 |
 
-Snapshot ID: `Aby60wAAAADCEEIsTsuNkZFYmDoFBZjg`
+Snapshot ID: `AbzAcgAAAAAWp5qNTLdij878twJu5CYX`

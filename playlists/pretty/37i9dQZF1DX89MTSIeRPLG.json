@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/funnymarco/\">Funny Marco</a>",
-  "num_followers": 21739,
+  "num_followers": 21751,
   "original_name": "Funny Marco's Taste",
   "owner": {
     "name": "Spotify",
@@ -575,6 +575,26 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
+        "name": "Sayless",
+        "url": "https://open.spotify.com/album/09cQYh4fbHWyUwRBYbg4nJ"
+      },
+      "artists": [
+        {
+          "name": "Seddy Hendrinx",
+          "url": "https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 182258,
+      "name": "RPS & Codeine (feat. Gunna)",
+      "url": "https://open.spotify.com/track/4ZUnCQ1wwsxIt2r43Mb2YY"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
         "name": "Survival",
         "url": "https://open.spotify.com/album/555WY4PFhQaqYEO0r65kBn"
       },
@@ -643,26 +663,6 @@
       "duration_ms": 178652,
       "name": "Rich Off Grass (Remix) [feat. Young Dolph]",
       "url": "https://open.spotify.com/track/6zCFXBYD4mZCCmDjk33gzb"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
-        "name": "Sayless",
-        "url": "https://open.spotify.com/album/09cQYh4fbHWyUwRBYbg4nJ"
-      },
-      "artists": [
-        {
-          "name": "Seddy Hendrinx",
-          "url": "https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 182258,
-      "name": "RPS & Codeine (feat. Gunna)",
-      "url": "https://open.spotify.com/track/4ZUnCQ1wwsxIt2r43Mb2YY"
     },
     {
       "added_at": "2022-10-01 20:31:11",
@@ -755,26 +755,6 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
-        "name": "Bounty",
-        "url": "https://open.spotify.com/album/6jiBo4BcX2JkH8SPGEmrrS"
-      },
-      "artists": [
-        {
-          "name": "Rexx Life Raj",
-          "url": "https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX"
-        },
-        {
-          "name": "!llmind",
-          "url": "https://open.spotify.com/artist/0bw7sLDsNQTScMpmsNFukJ"
-        }
-      ],
-      "duration_ms": 226292,
-      "name": "Bounty",
-      "url": "https://open.spotify.com/track/1q8rLyDciaRexy0AzNF0Eg"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
         "name": "Sayless",
         "url": "https://open.spotify.com/album/09cQYh4fbHWyUwRBYbg4nJ"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 155224,
       "name": "45 (feat. A Boogie Wit da Hoodie)",
       "url": "https://open.spotify.com/track/5DVo2XcdsgEbBsN4bdw5b7"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
+        "name": "Bounty",
+        "url": "https://open.spotify.com/album/6jiBo4BcX2JkH8SPGEmrrS"
+      },
+      "artists": [
+        {
+          "name": "Rexx Life Raj",
+          "url": "https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX"
+        },
+        {
+          "name": "!llmind",
+          "url": "https://open.spotify.com/artist/0bw7sLDsNQTScMpmsNFukJ"
+        }
+      ],
+      "duration_ms": 226292,
+      "name": "Bounty",
+      "url": "https://open.spotify.com/track/1q8rLyDciaRexy0AzNF0Eg"
     },
     {
       "added_at": "2022-10-01 20:31:11",
@@ -895,22 +895,6 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
-        "name": "Sayless",
-        "url": "https://open.spotify.com/album/09cQYh4fbHWyUwRBYbg4nJ"
-      },
-      "artists": [
-        {
-          "name": "Seddy Hendrinx",
-          "url": "https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4"
-        }
-      ],
-      "duration_ms": 143772,
-      "name": "Florida Nights",
-      "url": "https://open.spotify.com/track/7srw45c946Fxo8Ve8tbRGl"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
         "name": "SoulFly",
         "url": "https://open.spotify.com/album/3NNLR5rt9WpUqbRJqpV5zH"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 177648,
       "name": "Ok Cool",
       "url": "https://open.spotify.com/track/7kOU7qeq1PV6R2ZJcKUyIQ"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
+        "name": "Sayless",
+        "url": "https://open.spotify.com/album/09cQYh4fbHWyUwRBYbg4nJ"
+      },
+      "artists": [
+        {
+          "name": "Seddy Hendrinx",
+          "url": "https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4"
+        }
+      ],
+      "duration_ms": 143772,
+      "name": "Florida Nights",
+      "url": "https://open.spotify.com/track/7srw45c946Fxo8Ve8tbRGl"
     }
   ],
   "unique_name": "Funny Marco's Taste",

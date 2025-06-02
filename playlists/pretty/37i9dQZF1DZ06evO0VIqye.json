@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDj1AAAAAABL/erN6Y4Jjh/J7osyuINc",
+  "snapshot_id": "aDpGgAAAAAAnU5sgzQX/idjYFu8D/XVs",
   "tracks": [
     {
       "added_at": null,
@@ -531,6 +531,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Hit List",
+        "url": "https://open.spotify.com/album/2mIFpqxnoM71gHMBKlzZtM"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 141773,
+      "name": "Tush",
+      "url": "https://open.spotify.com/track/0uJZqWNEimvKRdh0Kf6wyO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Good Music",
         "url": "https://open.spotify.com/album/0fWUawe7KzToS4ayZmofOE"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 182413,
       "name": "School Days",
       "url": "https://open.spotify.com/track/15u5TiwDho7b2WK0R6PvAA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Hit List",
-        "url": "https://open.spotify.com/album/2mIFpqxnoM71gHMBKlzZtM"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 141773,
-      "name": "Tush",
-      "url": "https://open.spotify.com/track/0uJZqWNEimvKRdh0Kf6wyO"
     },
     {
       "added_at": null,

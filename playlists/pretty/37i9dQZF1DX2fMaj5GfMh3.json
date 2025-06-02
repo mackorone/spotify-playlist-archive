@@ -1,12 +1,12 @@
 {
   "description": "De nieuwste pop songs. Cover: Alex Warren & Jelly Roll",
-  "num_followers": 98175,
+  "num_followers": 98173,
   "original_name": "Fresh Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDjY/wAAAACWQrZRqxBMsBVdneZq0pbA",
+  "snapshot_id": "aDy+kAAAAAAD9Q+kwk1647vrvRnbIjBC",
   "tracks": [
     {
       "added_at": "2025-05-29 22:00:31",
@@ -23,6 +23,26 @@
       "duration_ms": 162922,
       "name": "Misfits",
       "url": "https://open.spotify.com/track/1YNKJeJImFDqyOtJD543uH"
+    },
+    {
+      "added_at": "2025-05-29 22:00:31",
+      "album": {
+        "name": "Just Keep Watching (From F1\u00ae The Movie)",
+        "url": "https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        },
+        {
+          "name": "F1 The Album",
+          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
+        }
+      ],
+      "duration_ms": 142550,
+      "name": "Just Keep Watching (From F1\u00ae The Movie)",
+      "url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
     },
     {
       "added_at": "2025-05-29 22:00:31",
@@ -175,26 +195,6 @@
       "duration_ms": 169627,
       "name": "your opinion",
       "url": "https://open.spotify.com/track/4ujzt2xbe6cqhE4wK9ImkR"
-    },
-    {
-      "added_at": "2025-05-29 22:00:31",
-      "album": {
-        "name": "Just Keep Watching (From F1\u00ae The Movie)",
-        "url": "https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        },
-        {
-          "name": "F1 The Album",
-          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
-        }
-      ],
-      "duration_ms": 142550,
-      "name": "Just Keep Watching (From F1\u00ae The Movie)",
-      "url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
     },
     {
       "added_at": "2025-05-29 22:00:31",

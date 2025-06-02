@@ -1,6 +1,6 @@
 {
   "description": "New & best K-Electronic music is here. (Cover: DPR CREAM & DPR ARTIC)",
-  "num_followers": 29268,
+  "num_followers": 29279,
   "original_name": "Electronii[K]",
   "owner": {
     "name": "Spotify",
@@ -491,6 +491,22 @@
     {
       "added_at": "2025-05-20 07:55:57",
       "album": {
+        "name": "Dynamite (DayTime Version)",
+        "url": "https://open.spotify.com/album/1Yo63a5AzPMyHiYMKYIrld"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 198939,
+      "name": "Dynamite (EDM Remix)",
+      "url": "https://open.spotify.com/track/0GIfKnZxlWAtX7P3b8PYyP"
+    },
+    {
+      "added_at": "2025-05-20 07:55:57",
+      "album": {
         "name": "3D (feat. Jack Harlow) (MK Remix)",
         "url": "https://open.spotify.com/album/5zmAW0z1LtRIkw4OHsV3tW"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 186241,
       "name": "3D (feat. Jack Harlow) (MK Remix)",
       "url": "https://open.spotify.com/track/1amaLBTe7l6zyWrWoq2Acy"
-    },
-    {
-      "added_at": "2025-05-20 07:55:57",
-      "album": {
-        "name": "Dynamite (DayTime Version)",
-        "url": "https://open.spotify.com/album/1Yo63a5AzPMyHiYMKYIrld"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 198939,
-      "name": "Dynamite (EDM Remix)",
-      "url": "https://open.spotify.com/track/0GIfKnZxlWAtX7P3b8PYyP"
     },
     {
       "added_at": "2025-05-20 07:55:57",
@@ -943,22 +943,6 @@
     {
       "added_at": "2025-05-20 07:55:57",
       "album": {
-        "name": "RIZZ",
-        "url": "https://open.spotify.com/album/2ceC2lixSUBa1IH7xbEr43"
-      },
-      "artists": [
-        {
-          "name": "GENRE",
-          "url": "https://open.spotify.com/artist/7xngEjHguzjoE5TNIaz7fi"
-        }
-      ],
-      "duration_ms": 163560,
-      "name": "RIZZ (Feat. Shiming)",
-      "url": "https://open.spotify.com/track/7cWC1q8f426vmtro2koJEW"
-    },
-    {
-      "added_at": "2025-05-20 07:55:57",
-      "album": {
         "name": "iScreaM Vol.14 : Peaches Remixes",
         "url": "https://open.spotify.com/album/2mrFSsDjOA6veZsbyMgMmI"
       },
@@ -1003,6 +987,22 @@
     {
       "added_at": "2025-05-20 07:55:57",
       "album": {
+        "name": "RIZZ",
+        "url": "https://open.spotify.com/album/2ceC2lixSUBa1IH7xbEr43"
+      },
+      "artists": [
+        {
+          "name": "GENRE",
+          "url": "https://open.spotify.com/artist/7xngEjHguzjoE5TNIaz7fi"
+        }
+      ],
+      "duration_ms": 163560,
+      "name": "RIZZ (Feat. Shiming)",
+      "url": "https://open.spotify.com/track/7cWC1q8f426vmtro2koJEW"
+    },
+    {
+      "added_at": "2025-05-20 07:55:57",
+      "album": {
         "name": "iScreaM Vol.12 : Bad Boy Remixes",
         "url": "https://open.spotify.com/album/46q4DrAttifm5PnrAtYqp2"
       },
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2025-05-20 07:55:57",
       "album": {
-        "name": "The Feels",
-        "url": "https://open.spotify.com/album/5kaDKzyrE5Cx9c4mLQZ6b1"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        },
-        {
-          "name": "Benny Benassi",
-          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
-        }
-      ],
-      "duration_ms": 185218,
-      "name": "The Feels (Benny Benassi Remix)",
-      "url": "https://open.spotify.com/track/2uIgQIrUIy57d1jngcOODC"
-    },
-    {
-      "added_at": "2025-05-20 07:55:57",
-      "album": {
         "name": "Re: searchlight",
         "url": "https://open.spotify.com/album/4OgPOKPx8KrrwDRrLImBgQ"
       },
@@ -1059,6 +1039,26 @@
       "duration_ms": 310952,
       "name": "Re: searchlight",
       "url": "https://open.spotify.com/track/7u7mFTVWBbWcAc3NQzOmgq"
+    },
+    {
+      "added_at": "2025-05-20 07:55:57",
+      "album": {
+        "name": "The Feels",
+        "url": "https://open.spotify.com/album/5kaDKzyrE5Cx9c4mLQZ6b1"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        },
+        {
+          "name": "Benny Benassi",
+          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
+        }
+      ],
+      "duration_ms": 185218,
+      "name": "The Feels (Benny Benassi Remix)",
+      "url": "https://open.spotify.com/track/2uIgQIrUIy57d1jngcOODC"
     },
     {
       "added_at": "2025-05-20 07:55:57",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2025-05-20 07:55:57",
       "album": {
+        "name": "11111101",
+        "url": "https://open.spotify.com/album/4PMQfe2LQME3EBJkKLBFCh"
+      },
+      "artists": [
+        {
+          "name": "IDIOTAPE",
+          "url": "https://open.spotify.com/artist/0OmQCkk1rR3DJ0Y2NRxp6Z"
+        }
+      ],
+      "duration_ms": 300771,
+      "name": "Melodie",
+      "url": "https://open.spotify.com/track/1dBK30swlPUpcE9DC9iAiy"
+    },
+    {
+      "added_at": "2025-05-20 07:55:57",
+      "album": {
         "name": "SET ME FREE (Remixes)",
         "url": "https://open.spotify.com/album/6lEtnxGk1CMv0ZbhI6i0eD"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 211573,
       "name": "SET ME FREE (Lindgren Remix)",
       "url": "https://open.spotify.com/track/5wNQXN45nL1BM6fuSZolVn"
-    },
-    {
-      "added_at": "2025-05-20 07:55:57",
-      "album": {
-        "name": "11111101",
-        "url": "https://open.spotify.com/album/4PMQfe2LQME3EBJkKLBFCh"
-      },
-      "artists": [
-        {
-          "name": "IDIOTAPE",
-          "url": "https://open.spotify.com/artist/0OmQCkk1rR3DJ0Y2NRxp6Z"
-        }
-      ],
-      "duration_ms": 300771,
-      "name": "Melodie",
-      "url": "https://open.spotify.com/track/1dBK30swlPUpcE9DC9iAiy"
     },
     {
       "added_at": "2025-05-20 07:55:57",

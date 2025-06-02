@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 
 ### [Alternatywna Polska](https://open.spotify.com/playlist/37i9dQZF1DWXz9uZQKizRS)
 
-> Najlepsza świeża polska alternatywa\. Cover: shama 👶
+> Najlepsza świeża polska alternatywa\. Cover: shama
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,918 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,930 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 | 99 | [Romantyczność to przekleństwo](https://open.spotify.com/track/2ufAbk1HsEMi9BjOqNkD9P) | [Mateusz Tomczak](https://open.spotify.com/artist/0o54rxa8ThqyrIhVrQ495r) | [Romantyczność to przekleństwo](https://open.spotify.com/album/0glo75fIyDjmeWg9yUxw5M) | 4:32 |
 | 100 | [Letarg](https://open.spotify.com/track/0RPAnDpVWgGzdnAcv2pl1Y) | [Karolina Charko](https://open.spotify.com/artist/41Vn3mPwudcXJZGgzmK53q) | [Letarg](https://open.spotify.com/album/7pTwMBSqtHisCoerRq6UN3) | 2:53 |
 
-Snapshot ID: `aDt78gAAAAC0bv9I5St6SJQ/6jChkwF4`
+Snapshot ID: `aDzNeQAAAAB1VJ5jLTpvrA6OnESYAe26`

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDj1AAAAAAAmU7+i6/Fdktpl80rET6Lm",
+  "snapshot_id": "aDpGgAAAAABdHP/QwSO+aedjUE8nTC2u",
   "tracks": [
     {
       "added_at": null,
@@ -343,22 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recompensa",
-        "url": "https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 232571,
-      "name": "Recompensa",
-      "url": "https://open.spotify.com/track/2jJrUywGnlCBziixCMf5JL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quem \u00e9 Ele (Ao Vivo)",
         "url": "https://open.spotify.com/album/7kWHlrt0U9mKj9cUzbFwqu"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 399386,
       "name": "Quem \u00e9 Ele - Ao Vivo",
       "url": "https://open.spotify.com/track/7sbw0RaD6nxalNUtjAcKnB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Recompensa",
+        "url": "https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 232571,
+      "name": "Recompensa",
+      "url": "https://open.spotify.com/track/2jJrUywGnlCBziixCMf5JL"
     },
     {
       "added_at": null,
@@ -427,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "O Segredo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5ThXMFiKFU63eaOK8nLDpd"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 306694,
+      "name": "O Segredo (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6p5TC1tF7kFAdWqw8s3rZO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Te Louvarei (Ao Vivo)",
         "url": "https://open.spotify.com/album/6bpeoNmfvSMxJ7WR8W4b1i"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 334656,
       "name": "Te Louvarei - Ao Vivo",
       "url": "https://open.spotify.com/track/2VdUf61z3Ul0CjqZKrbzfg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O Segredo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5ThXMFiKFU63eaOK8nLDpd"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 306694,
-      "name": "O Segredo (Ao Vivo)",
-      "url": "https://open.spotify.com/track/6p5TC1tF7kFAdWqw8s3rZO"
     },
     {
       "added_at": null,

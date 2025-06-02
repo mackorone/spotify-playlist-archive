@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16doZpno3Aw.md) - [plain]
 
 > All the best instrumentals & sounds from the internet gathered in one perfect chill out playlist 🫀
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,937 likes - 115 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,131 likes - 115 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16doZpno3Aw.md) - [plain]
 | 114 | [The End](https://open.spotify.com/track/4A4JPfwz2Wiym25sHSm63N) | [LLow](https://open.spotify.com/artist/4zwj4Z93k8LjJMwaCw5EDh) | [The End](https://open.spotify.com/album/3kuwABiln5LHd6eVoZUanF) | 2:05 |
 | 115 | [Dancing and Blood](https://open.spotify.com/track/23r92m2ABmBYCjQ55hncxY) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [Double Negative](https://open.spotify.com/album/0fWKkkVCj14CllpjPLjU9P) | 6:22 |
 
-Snapshot ID: `aDmU9gAAAAAkr4ePYZNVL0y/fosVdN12`
+Snapshot ID: `AAAAAEZD4A+DUSxc4ly9aNW+9ZpMeTRa`

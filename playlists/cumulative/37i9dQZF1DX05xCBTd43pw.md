@@ -4,7 +4,7 @@
 
 > Grüezi! This is 100% made in Switzerland\.  Cover: Zoë Më
 
-355 songs - 18 hr 17 min
+356 songs - 18 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Don't Stop The Car](https://open.spotify.com/track/4TGFS6BL59tuRSjBByZ3A4) | [Nickless](https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea) | [Don't Stop The Car](https://open.spotify.com/album/0cWThtdC9EYUPQMGAivj7m) | 3:14 | 2024-06-27 |  |
 | [Don't You](https://open.spotify.com/track/4SCGx3pO13awv6gpHz1ebm) | [Marc Sway](https://open.spotify.com/artist/5czVIm17rZyNTdUdD6yY7w), [Naomi Ayleen](https://open.spotify.com/artist/7eHijIZEf09FGSZYcysqe9) | [Don't You](https://open.spotify.com/album/5cvlDr98frKNS47U2Antil) | 3:11 | 2024-12-07 | 2025-03-23 |
 | [Doomsday Kiss](https://open.spotify.com/track/0b6CfOTTJQGJhS4mliyjAV) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Doomsday Kiss](https://open.spotify.com/album/3nfIttcOYNsLZWtFXd7kGa) | 2:48 | 2025-05-22 |  |
-| [dormant plants](https://open.spotify.com/track/1rS3xMPOBLjS6Nm4MlYiN7) | [Elie Zoé](https://open.spotify.com/artist/2t7zzvR3tKMctlLIUkTvjc) | [dormant plants](https://open.spotify.com/album/5wLF3Uc5IDZqcXjhR7vIvm) | 4:15 | 2025-05-29 |  |
+| [dormant plants](https://open.spotify.com/track/1rS3xMPOBLjS6Nm4MlYiN7) | [Elie Zoé](https://open.spotify.com/artist/2t7zzvR3tKMctlLIUkTvjc) | [dormant plants](https://open.spotify.com/album/5wLF3Uc5IDZqcXjhR7vIvm) | 4:15 | 2025-05-29 | 2025-06-02 |
 | [Down To My Bones](https://open.spotify.com/track/634vnGPykpqsgpMJlW9XOj) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Down To My Bones](https://open.spotify.com/album/6qrZVY8wS9AiYjNaHTXreD) | 3:21 | 2024-11-01 |  |
 | [Drei Stunden](https://open.spotify.com/track/6L0Ii1AzM0W4ZAl8FPPN1b) | [jan SEVEN dettwyler](https://open.spotify.com/artist/0vzAclaaTGJDFQzdWxmTej) | [Drei Stunden](https://open.spotify.com/album/2XMofoZm4xZtaWWkuQEVON) | 2:29 | 2024-08-05 | 2024-08-30 |
 | [Du](https://open.spotify.com/track/0EM85Qj3526QtxCBOQL6rT) | [Nemo \(CH\)](https://open.spotify.com/artist/1KbDYbNErlTGfWPENELJgM) | [Du](https://open.spotify.com/album/3VDAjCOWVKdGVmnVFvTTUr) | 3:36 | 2025-05-08 | 2025-05-16 |
@@ -218,6 +218,7 @@
 | [Maggie](https://open.spotify.com/track/71xZNB0u4MKxLKSo0vsIjk) | [Linda Elys](https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf) | [Maggie](https://open.spotify.com/album/527ETuK6j0NsH3ZlhdiUHp) | 2:59 | 2024-06-27 |  |
 | [Magma im Arm](https://open.spotify.com/track/0zceJ1WQOWLmdq2GwJlJ5X) | [Lo & Leduc](https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe) | [Zucker fürs Volk](https://open.spotify.com/album/0PGYKp7TN1R957UD1BSpnh) | 5:11 | 2025-05-15 | 2025-05-23 |
 | [MAMA LIEBT MI](https://open.spotify.com/track/0UwsF7FJ7FDX3iD5Vd5yHR) | [Manillio](https://open.spotify.com/artist/7uxtLjuqkJ3cnjQQuW6Cul) | [DEHEIM DEHEIM](https://open.spotify.com/album/2aOcAezQkKwNon8EbPsDCA) | 3:01 | 2025-04-24 | 2025-05-02 |
+| [match](https://open.spotify.com/track/4XvqwNxxXci3LBxjgbmjvj) | [Luuk](https://open.spotify.com/artist/0gmyQ8yVCO4u4QZgwTnw2P), [FAU$TINO](https://open.spotify.com/artist/41mWHdUrRkLbXOxtyAwRuF), [Manu913](https://open.spotify.com/artist/6m8KlKXrvvy0mXGf2dMoZW) | [match](https://open.spotify.com/album/6IoI2KhDtdIKA2drLdfHFu) | 3:13 | 2025-05-29 |  |
 | [Mathilda](https://open.spotify.com/track/0WDdn12hdqiLZ0z51XhIk3) | [Lost in Lona](https://open.spotify.com/artist/6GpX7OGPoZNG1GMbtbiOPD) | [Mathilda](https://open.spotify.com/album/62aBfUsSWYtxGhnmIv3RbN) | 4:02 | 2025-03-14 | 2025-04-06 |
 | [Mayhem](https://open.spotify.com/track/0bTNqfjULSzLvDiqO38K4w) | [Nola Kin](https://open.spotify.com/artist/4rr8k0k3ZojhAxZuz1fJ9w) | [Mayhem](https://open.spotify.com/album/4B9uvunHpnqxAuie42u8t1) | 4:28 | 2025-04-17 | 2025-04-25 |
 | [Melody](https://open.spotify.com/track/5wZOJaNBQbOR4adcp4BDNU) | [To Athena](https://open.spotify.com/artist/3sdOf3sXS7uXLIaPQL33fl) | [Aquatic Ballet](https://open.spotify.com/album/5J8qlAxbu3hczWlNi0CuY8) | 4:12 | 2025-05-01 | 2025-05-09 |

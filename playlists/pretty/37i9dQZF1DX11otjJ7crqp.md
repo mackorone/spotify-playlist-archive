@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > All this week's best new pop releases\. Cover: Conan Gray
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,615 likes - 170 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,945 likes - 170 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 169 | [DROP TOP](https://open.spotify.com/track/63gioPx2WipyXiigLMf1nB) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [MY EYES OPEN VVIDE](https://open.spotify.com/album/4n3pIffNB5CVVBmfhATTo8) | 3:15 |
 | 170 | [Candy](https://open.spotify.com/track/0msaU8EK13ajrXaF3SqoKy) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Off With Her Head \(Deluxe\)](https://open.spotify.com/album/4bcWoSYbchMcE9vz8SWAFU) | 2:43 |
 
-Snapshot ID: `aDktTwAAAACg+8/pRpKefd+ZIMYvMcee`
+Snapshot ID: `AAAAANU7rTqn3CGTz+ueEW+I5ubiXkFG`

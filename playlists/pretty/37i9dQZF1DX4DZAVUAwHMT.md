@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 
 > The UK's biggest rock playlist\. Cover: YUNGBLUD
 
-[Spotify](https://open.spotify.com/user/spotify) - 777,418 likes - 80 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 777,366 likes - 80 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 | 79 | [Sober](https://open.spotify.com/track/7i1n6BPGuSYiDaRUxKIStA) | [Elbow](https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk) | [Sober](https://open.spotify.com/album/52VNpXFgf7DENnJb4MXdkH) | 4:46 |
 | 80 | [Mausoleum](https://open.spotify.com/track/2yM2RQI7Kerax4ukmWgjzz) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9) | [Mausoleum](https://open.spotify.com/album/3yqowd0LkVIpOTonFuiup8) | 2:35 |
 
-Snapshot ID: `AAAAAHEkffUGhij1r7clv6ld2i5DH98r`
+Snapshot ID: `aDjm+gAAAAA5uCs7U+f14YO84r5g4w6i`

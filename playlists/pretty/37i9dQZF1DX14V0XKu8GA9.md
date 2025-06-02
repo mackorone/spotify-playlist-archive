@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 
 > The wave of Latinos representing Hip\-Hop in the U.S\. Cover: Peysoh
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,204 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,227 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 8 | [Lumbre](https://open.spotify.com/track/2axhW4wllSrMM9yRIRjGdE) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV) | [Lumbre](https://open.spotify.com/album/2HBkphAPdufNRv4DTpbCXi) | 2:50 |
 | 9 | [Loco \(feat\. Migos\) \- Remix](https://open.spotify.com/track/7CPBtVz4tgocTfTmgrBZ6M) | [Mr\. Capone\-E](https://open.spotify.com/artist/3BG9cpTxZQzQChcsp7ss9a), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Clumsybeatz](https://open.spotify.com/artist/7rxsnYqEYab8ANeijAGUKy) | [Loco \(feat\. Migos\) \[Remix\]](https://open.spotify.com/album/1B2pHhRl3P87uOq5ZE1n6Q) | 2:37 |
 | 10 | [I Survive](https://open.spotify.com/track/20yzZgZ0NNlQZscbu3cj1I) | [Krystall Poppin](https://open.spotify.com/artist/3DIquQWs6ZlFAKdahiPCwC), [Frankie J](https://open.spotify.com/artist/3sMYEBy0CZFxedcnm9i9hf) | [I Survive](https://open.spotify.com/album/18sK2pw49JU67Z3C8fgv2z) | 2:53 |
-| 11 | [Hate the Game Not the Player](https://open.spotify.com/track/11644M5yhhNE6kYC3nRlgL) | [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4), [Stella Standingbear](https://open.spotify.com/artist/5AyaQq63U3Zym36xcT7120), [Louden](https://open.spotify.com/artist/0fLUemlaYm4AL4TvWlYQB5) | [Hate the Game Not the Player](https://open.spotify.com/album/4rn148BB197jDByutTAyzr) | 2:42 |
+| 11 | [Hate the Game Not the Player](https://open.spotify.com/track/11644M5yhhNE6kYC3nRlgL) | [Louden](https://open.spotify.com/artist/0fLUemlaYm4AL4TvWlYQB5), [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4), [Stella Standingbear](https://open.spotify.com/artist/5AyaQq63U3Zym36xcT7120) | [Hate the Game Not the Player](https://open.spotify.com/album/4rn148BB197jDByutTAyzr) | 2:42 |
 | 12 | [Trap Bout it](https://open.spotify.com/track/3PnfLc41TAZJDdjnrArMuZ) | [J.I Bandz](https://open.spotify.com/artist/5uFHcYGhMBxkgjpBrWGpPK) | [Trap Bout it](https://open.spotify.com/album/4JR2wdoilfwZ08gGZj8qXU) | 2:45 |
 | 13 | [Drop Top Down](https://open.spotify.com/track/4MVuezmJ0vh071qLHWEeTO) | [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD), [Paul Wall](https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg), [Doeman](https://open.spotify.com/artist/3AtopDTFDEWifbVQOUWz5F) | [Drop Top Down](https://open.spotify.com/album/2EkJsPsm2ZgYQrTD2Tqvp1) | 3:57 |
 | 14 | [Re\-Up](https://open.spotify.com/track/3Ha1Kj4Kr7Jyt6iQKKQObo) | [Alexcis](https://open.spotify.com/artist/2tDA2vvMMRpi5GZL0hzqqj), [Cactus Boyz CBE](https://open.spotify.com/artist/7FGIrOzKTac5wU60Dj4Cyj), [TK RUN IT UP](https://open.spotify.com/artist/2nmXKh1URuUD1DaIoWJ9ww) | [Re\-Up](https://open.spotify.com/album/1OWZav2xsNGv7rMZNQoGSQ) | 2:53 |

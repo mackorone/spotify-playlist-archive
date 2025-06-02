@@ -4,7 +4,7 @@
 
 > Le canzoni d'amore italiane più romantiche di sempre ❤️
 
-252 songs - 16 hr 16 min
+253 songs - 16 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [Guardami amore](https://open.spotify.com/track/0UmmSFh7Kpk50unE55OdOm) | [Francesco Renga](https://open.spotify.com/artist/3TAYxk5QBcHunmb0qkeTn2) | [Scriverò il tuo nome \(Deluxe Edition\)](https://open.spotify.com/album/1z6nJ51MGl9ObiNBnW944Y) | 2:45 | 2021-09-26 | 2022-07-25 |
 | [Guasto D'Amore](https://open.spotify.com/track/4CQNELF3U3gyNcI6sLr6yK) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [Guasto D'Amore](https://open.spotify.com/album/1CUZTsdUtnhtirsffXGMX7) | 3:20 | 2023-02-07 |  |
 | [Ho messo via](https://open.spotify.com/track/4xyp77VPg90ezi7N1p99a5) | [Ligabue](https://open.spotify.com/artist/7H8ZC8uHJMPZGLMApRRNIz) | [Sopravvissuti e sopravviventi \(2009 Remaster\)](https://open.spotify.com/album/2Fyjpn0vYwNPS7PIsOPLrt) | 4:46 | 2021-09-26 |  |
-| [Hola \(I Say\) \(feat\. Tom Walker\)](https://open.spotify.com/track/42LrSpEHmXHfjEH8NeiQQi) | [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5), [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Atlantico](https://open.spotify.com/album/0evzDJW1g4vJvq6hc027HI) | 3:47 | 2021-09-26 |  |
+| [Hola \(I Say\) \(feat\. Tom Walker\)](https://open.spotify.com/track/42LrSpEHmXHfjEH8NeiQQi) | [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5), [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Atlantico](https://open.spotify.com/album/0evzDJW1g4vJvq6hc027HI) | 3:47 | 2021-09-26 | 2025-06-02 |
 | [I giardini di marzo \- Remastered](https://open.spotify.com/track/5odtVIhEujejNnxSJCgpCa) | [Lucio Battisti](https://open.spotify.com/artist/2caOYPej26UoQOyFnzXW3G) | [Umanamente uomo: il sogno](https://open.spotify.com/album/4eO6FJ1u3UkTlDJJGVOd1Z) | 5:32 | 2025-01-23 |  |
 | [I Tuoi Particolari](https://open.spotify.com/track/524euygKKFWurhvIdSrkg6) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [I Tuoi Particolari](https://open.spotify.com/album/6sbV5tigkQuCteprgk9pwd) | 3:39 | 2021-09-26 | 2022-06-04 |
 | [If Only](https://open.spotify.com/track/5ITi64nceMr4EgWfqmivd4) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Sì \(Deluxe\)](https://open.spotify.com/album/68ic1ZsRo0DIodoDYZXcM5) | 3:37 | 2024-02-13 | 2024-04-03 |
@@ -131,6 +131,7 @@
 | [La ragazza con il cuore di latta](https://open.spotify.com/track/0NmyHZZMfVBiUSOfDmz9Bf) | [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK) | [Giovani per sempre](https://open.spotify.com/album/3zV92qqfkqOO30bMkyoiKE) | 3:42 | 2024-02-13 |  |
 | [La stessa](https://open.spotify.com/track/0x7pHyBX8Ph2j4knBp1he9) | [Alessandra Amoroso](https://open.spotify.com/artist/2pjb5ffSoVTr5lRYQXlnPu) | [La stessa](https://open.spotify.com/album/6CSM8IX1E61Sfh9uX6J5iU) | 3:45 | 2021-09-26 | 2022-06-29 |
 | [La storia infinita](https://open.spotify.com/track/2r1SRt8bhtR6a9bMRR0AgV) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [AHIA!](https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa) | 3:27 | 2021-09-26 |  |
+| [La tua canzone](https://open.spotify.com/track/17ctLiAYSfZkL8ksjtSchO) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [È sempre bello](https://open.spotify.com/album/5IMzuX8ITydV8NBq10xG2T) | 3:12 | 2025-05-28 |  |
 | [La tua canzone](https://open.spotify.com/track/4Z43nMEiOiNeDrqu2BN0JD) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [È sempre bello](https://open.spotify.com/album/10qyDIB3pverR0MvhOFDVy) | 3:12 | 2021-09-26 | 2025-05-29 |
 | [Le luci della città](https://open.spotify.com/track/381VH1JFj9q08V1OMlPU5m) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Faccio un casino](https://open.spotify.com/album/3aKazjcDl544T21siS8lDp) | 2:57 | 2021-09-26 | 2025-01-29 |
 | [Le luci della città](https://open.spotify.com/track/2ovEk26S9eFIQJ8l7koWR9) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Faccio un casino](https://open.spotify.com/album/3s3ThjVMEWRqXV8b4H6sy4) | 2:59 | 2025-01-28 |  |

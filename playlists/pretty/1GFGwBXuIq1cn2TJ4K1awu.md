@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/1GFGwBXuIq1cn2TJ4K1awu.md) - [plain]
 
 > Ten or eleven songs a week\. Updated every Sunday\. Enjoy.
 
-[royva06](https://open.spotify.com/user/royva06) - 21 likes - 11 songs - 38 min 51 sec
+[royva06](https://open.spotify.com/user/royva06) - 21 likes - 11 songs - 41 min 22 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [North Star](https://open.spotify.com/track/6WEEhlQJKRnoWS9TyYT2Oe) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [The Far Field](https://open.spotify.com/album/37Xk4WSzbCfYBFTHUHgDYv) | 3:35 |
-| 2 | [Kimbie \- 2001 Remaster](https://open.spotify.com/track/2OsxyWsUUrd5lUqu9QhZAO) | [Jackson C\. Frank](https://open.spotify.com/artist/5TNmizItgJPfvCoPKXAMGz) | [Jackson C\. Frank \(2001 Remastered Version\)](https://open.spotify.com/album/07gXWexIqgcoBg01fFgU8Y) | 3:14 |
-| 3 | [Full Control](https://open.spotify.com/track/20TfGN3X3b2hP861CVfzci) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Lush](https://open.spotify.com/album/2e48GqjEwCi87gQJanb1bf) | 2:55 |
-| 4 | [Life Changes](https://open.spotify.com/track/1uh9AadCenlpEsGpl7Ywdb) | [Casey Veggies](https://open.spotify.com/artist/0uFc6StTmJBvdHPZFDkdJy) | [Life Changes](https://open.spotify.com/album/3TjVEm0h1dm9vscPPKxue9) | 3:55 |
-| 5 | [Continental Shelf](https://open.spotify.com/track/4yymT1AyUr5k6mSBIrg2qt) | [Preoccupations](https://open.spotify.com/artist/2bs3QE2ZMBjmb0QTqAjCj3) | [Viet Cong](https://open.spotify.com/album/4PwcSxLNXfiKzlCaOh6u5h) | 3:18 |
-| 6 | [Summertime](https://open.spotify.com/track/0kU0e1AyqsTsb1d0QJX5KN) | [Lucia & The Best Boys](https://open.spotify.com/artist/3hihvmS048d6bb8YlZaTU1) | [Summertime](https://open.spotify.com/album/3FEQJHf2qemv7DmqnYA3DT) | 2:58 |
-| 7 | [Everything Is New](https://open.spotify.com/track/3ykNd1cSvmyXStWl0STjBw) | [Slow Club](https://open.spotify.com/artist/75Kh0eqgzo9f43Dan1JzSV) | [Complete Surrender](https://open.spotify.com/album/5VKfS5xelWpc76avtJ7UvC) | 3:41 |
-| 8 | [yellow is the color of her eyes](https://open.spotify.com/track/5EDBVVqd2ogoG89XVQOvsn) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [color theory](https://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez) | 7:15 |
-| 9 | [Great Adventures](https://open.spotify.com/track/47FkzJm1bUaIc0OaGZvslL) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Super Tecmo Bo](https://open.spotify.com/album/5leBUcbk6qAb5cDHYuVwBO) | 1:47 |
-| 10 | [Scatman \(ski\-ba\-bop\-ba\-dop\-bop\)](https://open.spotify.com/track/623rRTKwGmgjH6sjE9uWLh) | [Scatman John](https://open.spotify.com/artist/4omQQTNN7ILiMsSB2k9eqX) | [Scatman's World](https://open.spotify.com/album/2MRWFajfjxfLAF3wwmdv5j) | 3:35 |
-| 11 | [Natch](https://open.spotify.com/track/5fYNlJssTFbMMbcQnUl2mP) | [Cornershop](https://open.spotify.com/artist/3Kf7VEIRWquxrNIuyJZnfF) | [Cornershop & The Double 'O' Groove Of](https://open.spotify.com/album/2xBCzmHtb0SuHcUmTYim64) | 2:34 |
+| 1 | [Benetton](https://open.spotify.com/track/48C3d8u3XuTRSUWwCUYR7E) | [Kurious](https://open.spotify.com/artist/2eDE3plOEiudDd9q1Ev3IQ), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [MC Serch](https://open.spotify.com/artist/40bZG5ihgjqtufTvy8dz2u), [Kadi](https://open.spotify.com/artist/373pBYKX51X7wOdFSvPnmR) | [II](https://open.spotify.com/album/5jKkk16jsM2RIhIZydacxj) | 3:55 |
+| 2 | [House Fire](https://open.spotify.com/track/6qPnHotmUk3Z4JPkwXBqJj) | [Someone Still Loves You Boris Yeltsin](https://open.spotify.com/artist/28V657x2IVJnSW3Srw6Ubd) | [Broom](https://open.spotify.com/album/3ZXNnZ17fD6rcoabtjoyGk) | 3:19 |
+| 3 | [That's Just What You Are](https://open.spotify.com/track/57MTxkAOX1jt4oZVu7mtOs) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [I'm With Stupid](https://open.spotify.com/album/0N3PbNuwko4aAMnJ19W3iM) | 4:25 |
+| 4 | [West Coast](https://open.spotify.com/track/5Y6nVaayzitvsD5F7nr3DV) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Ultraviolence \(Deluxe\)](https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F) | 4:16 |
+| 5 | [London Is Burning](https://open.spotify.com/track/6mlTmvwG2NqqARTyHzdAjE) | [Joe Strummer](https://open.spotify.com/artist/2A09V0kHlETOFfT8Hz8oba), [The Mescaleros](https://open.spotify.com/artist/6JCvjM8Q5vlsFLpF7H8Vs2) | [London Is Burning](https://open.spotify.com/album/3LmT4vcLiEbsCBa0YBgERe) | 3:14 |
+| 6 | [Triple Dog Dare](https://open.spotify.com/track/4syD7nYfrd11IFUZ9q4UvM) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Home Video](https://open.spotify.com/album/2nwfSapJ3YIq7Ofad4Vuh1) | 7:44 |
+| 7 | [Dim Lights, Thick Smoke](https://open.spotify.com/track/2j88s0LwGRiUur3XbmAtP1) | [Dwight Yoakam](https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW) | [3 Pears](https://open.spotify.com/album/66OcP5yT33lbGKI0emGsSf) | 3:42 |
+| 8 | [Look At Me](https://open.spotify.com/track/6kK3m2FiYERYrUF269y0Es) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Alfredo](https://open.spotify.com/album/3znl1qe13kyjQv7KcR685N) | 2:33 |
+| 9 | [The Hop](https://open.spotify.com/track/7f1UEGMBMuXfLBP5XANfrW) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa) | [Beats, Rhymes & Life](https://open.spotify.com/album/0EguP4tsJurU5I8ocCxdyb) | 3:27 |
+| 10 | [Powerful Man](https://open.spotify.com/track/6CHNlPWuSrXMpZPmB7gkFm) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Rocket](https://open.spotify.com/album/5Pq92omNLyQgGGrj2u4pur) | 3:39 |
+| 11 | [Nazi Punks Fuck Off](https://open.spotify.com/track/35iszqjgLhqZZ6Rk9TjIdf) | [Dead Kennedys](https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV) | [Plastic Surgery Disasters/In God We Trust, Inc.](https://open.spotify.com/album/2RJyh3Aw5mOxwkj0YO6OVS) | 1:03 |
 
-Snapshot ID: `AAAGO9hlmyXhtprk9bkhkWLVnRIK1IJx`
+Snapshot ID: `AAAGUWSChsPgKdOPKzVO1f9xcKDcBqpI`

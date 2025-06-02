@@ -861,6 +861,28 @@
     },
     {
       "album": {
+        "name": "\u6587\u901a",
+        "url": "https://open.spotify.com/album/72AKPZX0qZbQGvulknFOpo"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        },
+        {
+          "name": "Yumi Matsutoya",
+          "url": "https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU"
+        }
+      ],
+      "date_added": "2025-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226760,
+      "name": "\u6587\u901a",
+      "url": "https://open.spotify.com/track/1MhkgWuOIiwYaKbTnOgtBW"
+    },
+    {
+      "album": {
         "name": "\u8703\u6c17\u697c",
         "url": "https://open.spotify.com/album/4ry8r9J343HddtLeezD5rS"
       },

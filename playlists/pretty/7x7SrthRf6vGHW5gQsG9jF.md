@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7x7SrthRf6vGHW5gQsG9jF.md) - [plain]
 
 > mostly rock
 
-[dio](https://open.spotify.com/user/1ph1ewkwxtpfwzf6jygqxad1i) - 0 likes - 894 songs - 2 day 9 hr 5 min
+[dio](https://open.spotify.com/user/1ph1ewkwxtpfwzf6jygqxad1i) - 0 likes - 896 songs - 2 day 9 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -902,5 +902,7 @@ pretty - [cumulative](/playlists/cumulative/7x7SrthRf6vGHW5gQsG9jF.md) - [plain]
 | 892 | [Spica](https://open.spotify.com/track/1cek46u96NSWBTwqOTayTO) | [Rokudenashi](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [The Flower of Love](https://open.spotify.com/album/7n2ZUQwPFVI1duDelTWD3p) | 2:45 |
 | 893 | [Sheltered and Abandoned](https://open.spotify.com/track/7ngnlaHfPxFth0ZgIeAE3s) | [Luschka](https://open.spotify.com/artist/6Bm8Ot3hu2JLulRMUtqMuc) | [Sheltered and Abandoned](https://open.spotify.com/album/66sU4LIZmfAPKZJ7MgP7a4) | 4:33 |
 | 894 | [エレクトロ・ワールド](https://open.spotify.com/track/1jIG6M4cM6kLwBidMICJMv) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [エレクトロ・ワールド](https://open.spotify.com/album/0zGXBoWJUYaH9BLXXuxrR3) | 3:52 |
+| 895 | [Sincerely](https://open.spotify.com/track/1UnlBvfKYZ22zCx0gbSsgX) | [TRUE](https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te) | [Sincerely](https://open.spotify.com/album/1iccE1950dpEuNrvCojhRn) | 4:35 |
+| 896 | [かいか](https://open.spotify.com/track/6yP026Yrvqf1PGohQ9V0KY) | [廻花](https://open.spotify.com/artist/337i1DtQjGKjHrMMew9Neh) | [うまれるまえからきみをしってる](https://open.spotify.com/album/2gTtoc06I7kEQ3g8fpZM4L) | 5:02 |
 
-Snapshot ID: `AAAFLOBLDBjcEcYNMFm5tCVxeuxWD0TZ`
+Snapshot ID: `AAAFLjYcutrrh05508RQOSclMtUV6+By`

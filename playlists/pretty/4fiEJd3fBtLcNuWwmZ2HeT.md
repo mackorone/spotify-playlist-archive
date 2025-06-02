@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 300 songs - 16 hr 59 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 301 songs - 17 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -308,5 +308,6 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 298 | [koi \(feat\. 9Lana\)](https://open.spotify.com/track/3QhD3w9JDGsVm18ypnkHEP) | [Linmu](https://open.spotify.com/artist/7fDKKZH24LisRepejhv0iz), [9Lana](https://open.spotify.com/artist/4PiEaQDZq6WdVirde1aIq3) | [koi \(feat\. 9Lana\)](https://open.spotify.com/album/4RaGX5JF1XBkHCeysp0Rnn) | 2:42 |
 | 299 | [killer\-tune](https://open.spotify.com/track/7aFxDKk3jUfimCNX9mF36l) | [Lady Mellow.](https://open.spotify.com/artist/55qCSOkDiqf4njLqj0JSiD) | [Smoking hot](https://open.spotify.com/album/3YyoL3YnNQKkLAafWkzDix) | 3:12 |
 | 300 | [薄ら氷心中](https://open.spotify.com/track/1DxOabtnI3W4ouECc6AdyT) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [逆輸入 〜航空局〜](https://open.spotify.com/album/4IyZbkR6R4oIcuckwSrJQj) | 3:12 |
+| 301 | [''''''](https://open.spotify.com/track/2IdCKcMOO5FuAGvYqsZ6p3) | [x0o0x\_](https://open.spotify.com/artist/2QLccJ5Jtn9Cj5xcfB9ufz) | [''''''](https://open.spotify.com/album/5uhEQY2SM46YFVt0KTBqTu) | 2:32 |
 
-Snapshot ID: `AAAJE9rEw+OfF3RFNF+Zg4aZelxg3Mmr`
+Snapshot ID: `AAAJFP3o/1MuTP4GF6HuUDnPrI0PRLQn`

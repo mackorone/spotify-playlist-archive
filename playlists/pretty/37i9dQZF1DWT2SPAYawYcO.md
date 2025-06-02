@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from Lorde, Miley Cyrus, Dean Lewis, Balu Brigada, Young Franco + more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,005 likes - 93 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,025 likes - 93 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 92 | [Real Friends](https://open.spotify.com/track/1lKJEMqFbysfbfSfMefOf9) | [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL), [Pell](https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi) | [Real Friends](https://open.spotify.com/album/3AXOBPj5K5LNKOa7yQNfAa) | 3:29 |
 | 93 | [Yonder, Young Wonder](https://open.spotify.com/track/4f3ZK5cyixfV6OFMFcCZrU) | [Sunsick Daisy](https://open.spotify.com/artist/2lm7q6k1zAICmhLjKLCRo1) | [Yonder](https://open.spotify.com/album/2aQeUriQhEnlGMwKstzQUD) | 5:32 |
 
-Snapshot ID: `aDkD8QAAAAAuDWwuilkH7uROViHtuDN/`
+Snapshot ID: `aDznDwAAAAAe6BYwmGTDa4oVhIRLNiSy`

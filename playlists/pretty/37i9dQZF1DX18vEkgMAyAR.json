@@ -1,6 +1,6 @@
 {
   "description": "Your everyday pick-me-up playlist.",
-  "num_followers": 68626,
+  "num_followers": 68622,
   "original_name": "Feel Good Look Good",
   "owner": {
     "name": "Spotify",
@@ -1071,26 +1071,6 @@
     {
       "added_at": "2024-05-10 06:34:25",
       "album": {
-        "name": "Rest",
-        "url": "https://open.spotify.com/album/01XpquB06EvN30tEws20cv"
-      },
-      "artists": [
-        {
-          "name": "EASY FREAK",
-          "url": "https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S"
-        },
-        {
-          "name": "Phi11a",
-          "url": "https://open.spotify.com/artist/1QrAumNRmmekZeMDVTUfbS"
-        }
-      ],
-      "duration_ms": 282340,
-      "name": "Rest",
-      "url": "https://open.spotify.com/track/5NyWlLNaoz87Tym3lOGOte"
-    },
-    {
-      "added_at": "2024-05-10 06:34:25",
-      "album": {
         "name": "Watermelon Sugar",
         "url": "https://open.spotify.com/album/659e2eKbsMH0vYCs5qgFmy"
       },
@@ -1119,6 +1099,26 @@
       "duration_ms": 198448,
       "name": "Got Me Started",
       "url": "https://open.spotify.com/track/2Rn2ocU7jk8BqFoh6zwf1Y"
+    },
+    {
+      "added_at": "2024-05-10 06:34:25",
+      "album": {
+        "name": "Rest",
+        "url": "https://open.spotify.com/album/01XpquB06EvN30tEws20cv"
+      },
+      "artists": [
+        {
+          "name": "EASY FREAK",
+          "url": "https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S"
+        },
+        {
+          "name": "Phi11a",
+          "url": "https://open.spotify.com/artist/1QrAumNRmmekZeMDVTUfbS"
+        }
+      ],
+      "duration_ms": 282340,
+      "name": "Rest",
+      "url": "https://open.spotify.com/track/5NyWlLNaoz87Tym3lOGOte"
     },
     {
       "added_at": "2024-05-10 06:34:25",

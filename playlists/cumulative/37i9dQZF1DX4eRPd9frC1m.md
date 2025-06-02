@@ -4,7 +4,7 @@
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-419 songs - 22 hr 42 min
+420 songs - 22 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [2 The Brain](https://open.spotify.com/track/1sR0NZ42EGY6bW2lidiC45) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd) | [2 The Brain](https://open.spotify.com/album/7fVwQzo8mG4GlPAhHn5ElW) | 3:25 | 2021-11-19 | 2022-01-08 |
 | [ACID](https://open.spotify.com/track/24KFdeWtel3jLwZ399zwq2) | [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc), [SampliFire](https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa) | [ACID](https://open.spotify.com/album/3hObmnjaub2zwiSM73tQu9) | 2:58 | 2024-05-10 |  |
 | [AETHER \- Hex Cougar Remix](https://open.spotify.com/track/0JT6aP58HKQ80VrXSVD8cK) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv), [Hex Cougar](https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR) | [AETHER \(Hex Cougar Remix\)](https://open.spotify.com/album/6lEL2qnKiGsbpvDEtcc9lN) | 4:03 | 2021-11-19 | 2022-01-08 |
+| [AHORA](https://open.spotify.com/track/1Re81w8xdZjUNuRu1AUSoL) | [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr), [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [AHORA](https://open.spotify.com/album/4JcvArkgyQyq8C7gAETGgu) | 2:25 | 2025-05-30 |  |
 | [All Black](https://open.spotify.com/track/6aPdtRMLS4iF0zKTszorCB) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [INFEKT](https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl), [$teven Cannon](https://open.spotify.com/artist/5wK5IsvsDAGMxnPvKyLf2y) | [Feral](https://open.spotify.com/album/2zTTnQ876VSwgZ92uaN1JN) | 2:14 | 2024-08-02 | 2025-03-08 |
 | [All I Need \- VIP](https://open.spotify.com/track/7cpnqcFMN6Z7yiSOZyzGMU) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe) | [All I Need \(VIP\)](https://open.spotify.com/album/2tfC2UydNyC7Y0jz6FoEKv) | 3:15 | 2021-11-19 | 2023-04-29 |
 | [Angels Landing](https://open.spotify.com/track/7z8zdcW66DyZ931P6BjnX7) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [FrostTop](https://open.spotify.com/artist/6T9vLiLn2HpWHNaaEajGB4) | [Angels Landing](https://open.spotify.com/album/6HmjU8l5u5jmG8Mtrp6jRn) | 3:53 | 2022-09-09 |  |
@@ -180,7 +181,7 @@
 | [IMY \(feat\. Bella Renee\)](https://open.spotify.com/track/6oosMYrpIekDxg67SV60Va) | [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf), [Bella Renee](https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa) | [DISRUPTOR LP](https://open.spotify.com/album/1UXLEXcUYHLNouwidskiMa) | 2:46 | 2023-02-24 | 2024-04-19 |
 | [IN THE ALLEY](https://open.spotify.com/track/6rLZY5Jlr3PJVsMf9k6ixF) | [ALLEYCVT](https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1) | [IN THE ALLEY](https://open.spotify.com/album/1ULgYsHVDh6c1zn5UPIqGh) | 2:42 | 2024-06-28 | 2025-05-22 |
 | [In The Back \- Original Mix](https://open.spotify.com/track/60ujdXHloDnM7Dppefc2b2) | [DJ Fixx](https://open.spotify.com/artist/6x8SfgcTq31PTfe3SJrugo) | [In The Back](https://open.spotify.com/album/1wDlBASiT1YCFaZGyosFoi) | 3:36 | 2021-11-19 | 2022-01-08 |
-| [In The Place](https://open.spotify.com/track/64VyLST8MmGb2x5ilwNm2l) | [Space Laces](https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP) | [In The Place](https://open.spotify.com/album/37l2dXxlFFKBZFi5lG3IMc) | 3:50 | 2023-12-15 |  |
+| [In The Place](https://open.spotify.com/track/64VyLST8MmGb2x5ilwNm2l) | [Space Laces](https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP) | [In The Place](https://open.spotify.com/album/37l2dXxlFFKBZFi5lG3IMc) | 3:50 | 2023-12-15 | 2025-06-02 |
 | [IN THE ZONE](https://open.spotify.com/track/3EZT1GQldSjQALioFg3XEp) | [Ryan Nevis](https://open.spotify.com/artist/3lTv6FUrCLwLJqLkkqWRij) | [IN THE ZONE](https://open.spotify.com/album/0cSvYjnV5i1aU4Mpndu7FC) | 2:49 | 2024-08-09 | 2025-03-16 |
 | [Incantate](https://open.spotify.com/track/10lq0wRPNv7RVgIqDC89a9) | [Automhate](https://open.spotify.com/artist/6bWRCpJ69GQnmrL7gE4WHf), [SampliFire](https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa) | [Incantate](https://open.spotify.com/album/5q5lbHaktTz85S1sS2IOol) | 4:36 | 2023-08-18 | 2023-09-10 |
 | [Joker \(Gawm Remix\)](https://open.spotify.com/track/6MQjOwzFgivGZM7Ke30uhB) | [Gawm](https://open.spotify.com/artist/3bce1zPmITQ2MGdCxGaSvL), [Frequency Pusher](https://open.spotify.com/artist/3VCKNFd2r6bFaSK3DSyqUT), [Kurupt](https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz), [Daz Dillinger](https://open.spotify.com/artist/5Jz9kKRnCRLTodCH58MyB4), [Tha Dogg Pound](https://open.spotify.com/artist/60CFNa0ggWjV8OSDey8aGT), [Luvaboy Tj](https://open.spotify.com/artist/7gE5hIAnB7EXgQUMhjfb92) | [Joker \(Gawm Remix\)](https://open.spotify.com/album/6rA8lYRLd9b0i4CSlhsoBR) | 3:24 | 2022-03-11 | 2022-09-10 |

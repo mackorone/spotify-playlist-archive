@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/damsonidris/\">Damson Idris</a>",
-  "num_followers": 15712,
+  "num_followers": 15713,
   "original_name": "Damson Idris' Taste",
   "owner": {
     "name": "Spotify",
@@ -803,6 +803,26 @@
     {
       "added_at": "2022-10-01 16:57:49",
       "album": {
+        "name": "While The World Was Burning",
+        "url": "https://open.spotify.com/album/1OmWlObj9gAwNnTNgxBUmz"
+      },
+      "artists": [
+        {
+          "name": "SAINt JHN",
+          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "duration_ms": 234271,
+      "name": "Quarantine Wifey (feat. JID)",
+      "url": "https://open.spotify.com/track/6U2FHhnZNxZcgE1fTIgv3d"
+    },
+    {
+      "added_at": "2022-10-01 16:57:49",
+      "album": {
         "name": "Messiah",
         "url": "https://open.spotify.com/album/1dWwjV25uEwyCr2jVDntvP"
       },
@@ -831,26 +851,6 @@
       "duration_ms": 267384,
       "name": "THE NEWS",
       "url": "https://open.spotify.com/track/5A3TwAmhxbQ1qZCJ8N2H8C"
-    },
-    {
-      "added_at": "2022-10-01 16:57:49",
-      "album": {
-        "name": "While The World Was Burning",
-        "url": "https://open.spotify.com/album/1OmWlObj9gAwNnTNgxBUmz"
-      },
-      "artists": [
-        {
-          "name": "SAINt JHN",
-          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
-        },
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        }
-      ],
-      "duration_ms": 234271,
-      "name": "Quarantine Wifey (feat. JID)",
-      "url": "https://open.spotify.com/track/6U2FHhnZNxZcgE1fTIgv3d"
     },
     {
       "added_at": "2022-10-01 16:57:49",

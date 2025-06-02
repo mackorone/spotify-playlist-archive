@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Aleyna Tilki, Mabel Matiz ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,716 likes - 117 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,736 likes - 117 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

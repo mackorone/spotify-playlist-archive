@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAmSEshtjQI3.md) - [plain]
 | 34 | [Volando Bajito](https://open.spotify.com/track/3W888aowJCl8Mwq9JMaJTc) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Volando Bajito](https://open.spotify.com/album/3nyLvPVZZJTumqzbGeVOhx) | 2:22 |
 | 35 | [Euforia](https://open.spotify.com/track/0Wx46C3NgydTkr0yJrQ9sI) | [Chule](https://open.spotify.com/artist/09QoQi6E7GP5AePICzRcZe) | [TRIP](https://open.spotify.com/album/3nWqKWhGA2RhqakbVi1cRY) | 2:29 |
 | 36 | [Intro](https://open.spotify.com/track/2xS3eacJtsVF2mDRgqqk6R) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Sincera](https://open.spotify.com/album/70uZwbL7dkxlCxuYhNmrSS) | 0:30 |
-| 37 | [Vuela](https://open.spotify.com/track/5JOM3Q1tbLSx9xFqhrz5tp) | [Adri Torron](https://open.spotify.com/artist/4dpXYalt8qXd3R4yLPQE7E) | [Vuela](https://open.spotify.com/album/68SO1BrZ2nPzYo76nnY1Af) | 2:51 |
+| 37 | [Vuela](https://open.spotify.com/track/5wRl3UsaZBwrMJWchs0YDj) | [Adri Torron](https://open.spotify.com/artist/4dpXYalt8qXd3R4yLPQE7E) | [Vuela](https://open.spotify.com/album/20mcvOF4SDa21I471OjUig) | 2:51 |
 | 38 | [Mas De Lo Que Aposte](https://open.spotify.com/track/4X2ezaWpxfNSCVEJ9yFB9h) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Versions of Aitana](https://open.spotify.com/album/6UiWhpHVN9pgySpp8DCdyQ) | 6:40 |
 
-Snapshot ID: `Aby60wAAAABS9pavVnbwEH9vf1lqyL02`
+Snapshot ID: `AbzAcgAAAACilDSzx9EPUGK3OBuqmY50`

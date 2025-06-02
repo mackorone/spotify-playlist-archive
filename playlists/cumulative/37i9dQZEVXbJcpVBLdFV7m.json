@@ -2787,6 +2787,32 @@
     },
     {
       "album": {
+        "name": "Bivshite kontakti",
+        "url": "https://open.spotify.com/album/0YAhJC2oI1WJF3dGKR1KFA"
+      },
+      "artists": [
+        {
+          "name": "VAYA",
+          "url": "https://open.spotify.com/artist/4KYoUSnllfOfFWraainprN"
+        },
+        {
+          "name": "Kiara",
+          "url": "https://open.spotify.com/artist/3J4l3yj3cNs6TifveDvk9Z"
+        },
+        {
+          "name": "Ilian Boyd",
+          "url": "https://open.spotify.com/artist/1LLZb3EzxafwHumGvgwy5u"
+        }
+      ],
+      "date_added": "2025-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190485,
+      "name": "Bivshite kontakti",
+      "url": "https://open.spotify.com/track/6NuDj0W3Rpa95jkQqGeiXO"
+    },
+    {
+      "album": {
         "name": "BIZHU",
         "url": "https://open.spotify.com/album/2yKCmI5ZYaFrlmtnXf3E5P"
       },
@@ -8600,7 +8626,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-02",
       "duration_ms": 383400,
       "name": "Gethsemane",
       "url": "https://open.spotify.com/track/29JLgNBcOky7QB68OrvYxO"
@@ -9150,7 +9176,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-23",
+      "date_removed": null,
       "duration_ms": 192467,
       "name": "HANDS UP",
       "url": "https://open.spotify.com/track/0wrppxeWurW1uRnxI6Ut9v"
@@ -13836,7 +13862,7 @@
       ],
       "date_added": "2025-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-31",
+      "date_removed": null,
       "duration_ms": 216764,
       "name": "Maski Dolu",
       "url": "https://open.spotify.com/track/32AtsqkEW14KWxixNgoiMZ"
@@ -14386,7 +14412,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-02",
       "duration_ms": 165142,
       "name": "Milkyway",
       "url": "https://open.spotify.com/track/3dZvjnXX0kBOdsiF3lboNJ"
@@ -19276,7 +19302,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-21",
+      "date_removed": null,
       "duration_ms": 190774,
       "name": "Runway Walk (Bonus) (feat. Brevi)",
       "url": "https://open.spotify.com/track/49G3ExbNrPDgopoEwjhEsQ"
@@ -22292,7 +22318,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-02",
       "duration_ms": 103520,
       "name": "Super",
       "url": "https://open.spotify.com/track/4u5hMlAk0FpBsgReJ7Rpfy"
@@ -26434,7 +26460,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-02",
       "duration_ms": 104900,
       "name": "WW3",
       "url": "https://open.spotify.com/track/4uBbeKZTXNRRV4bMIcKx45"

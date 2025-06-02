@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Nada le gana a una comida hecha con buena salsa!",
-  "num_followers": 49373,
+  "num_followers": 49385,
   "original_name": "Cocina con Salsa",
   "owner": {
     "name": "Spotify",
@@ -1023,8 +1023,24 @@
     {
       "added_at": "2024-09-24 21:05:36",
       "album": {
-        "name": "Vigilante",
-        "url": "https://open.spotify.com/album/5qdPopJv8eoLb3WmCQXg70"
+        "name": "Old Love Dies Hard",
+        "url": "https://open.spotify.com/album/3TMmBldOjrRCwxJd2czJ1B"
+      },
+      "artists": [
+        {
+          "name": "Boogaloo Assassins",
+          "url": "https://open.spotify.com/artist/2k5tpM7WrvCytpVWO8XTjU"
+        }
+      ],
+      "duration_ms": 327360,
+      "name": "No No No",
+      "url": "https://open.spotify.com/track/7o7IBUZOUdmvd7rOhHuFiM"
+    },
+    {
+      "added_at": "2024-09-24 21:05:36",
+      "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/27RB4wbSSei1uyDJfrsxT2"
       },
       "artists": [
         {
@@ -1036,25 +1052,9 @@
           "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 456960,
-      "name": "Juanito Alimana",
-      "url": "https://open.spotify.com/track/1NzWhanWOZut3m97ugzhEG"
-    },
-    {
-      "added_at": "2024-09-24 21:05:36",
-      "album": {
-        "name": "La Pambel\u00e9",
-        "url": "https://open.spotify.com/album/7fJEer6X6zpSWW7Rbm2w7t"
-      },
-      "artists": [
-        {
-          "name": "La Pambel\u00e9",
-          "url": "https://open.spotify.com/artist/0CRVq33mNJl6sTcWvH6WzV"
-        }
-      ],
-      "duration_ms": 524667,
-      "name": "Elegua",
-      "url": "https://open.spotify.com/track/7821oQTHTcvw2zcgVDkqgy"
+      "duration_ms": 209240,
+      "name": "Ch\u00e9 Ch\u00e9 Col\u00e9",
+      "url": "https://open.spotify.com/track/0yE5Uqw60fj0pGpsvtDnDQ"
     },
     {
       "added_at": "2024-09-24 21:05:36",

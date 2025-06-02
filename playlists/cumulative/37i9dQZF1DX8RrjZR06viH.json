@@ -1803,6 +1803,24 @@
     },
     {
       "album": {
+        "name": "jeg vil ligge med deg",
+        "url": "https://open.spotify.com/album/7B5U8GPorGyO7pT8DmXGbA"
+      },
+      "artists": [
+        {
+          "name": "Vidar Villa",
+          "url": "https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172843,
+      "name": "jeg vil ligge med deg",
+      "url": "https://open.spotify.com/track/5o2xmURvl3LwBmLe34gEPj"
+    },
+    {
+      "album": {
         "name": "Josefin",
         "url": "https://open.spotify.com/album/1DcmCXOX7ww1z0joNzFgCk"
       },
@@ -1962,7 +1980,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-02",
       "duration_ms": 256217,
       "name": "Lay down",
       "url": "https://open.spotify.com/track/3gNKevE17xyH9yh7t3kyFO"
@@ -2918,7 +2936,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-01",
+      "date_removed": null,
       "duration_ms": 212258,
       "name": "Ringdans",
       "url": "https://open.spotify.com/track/20s9BT2BeSaA7qgnOLofzt"
@@ -2994,7 +3012,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-02",
       "duration_ms": 229079,
       "name": "Silver Heart",
       "url": "https://open.spotify.com/track/3VRl0Gv158qthcg30K3Hdy"

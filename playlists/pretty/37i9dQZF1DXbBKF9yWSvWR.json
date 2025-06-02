@@ -1,12 +1,12 @@
 {
   "description": "Weekly update for Indie releases. Cover: <a href=\"spotify:playlist:37i9dQZF1DXaxwXKCsImRe\">RADAR</a>-artist Hiqpy",
-  "num_followers": 103076,
+  "num_followers": 103083,
   "original_name": "Indie Update",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDi1zwAAAACR9TEO0mmpgOfrE7qOlDdr",
+  "snapshot_id": "aDzAYwAAAABadLdv19qqQJaQ6Bf+49r9",
   "tracks": [
     {
       "added_at": "2025-05-29 19:30:23",
@@ -27,6 +27,22 @@
     {
       "added_at": "2025-05-29 19:30:23",
       "album": {
+        "name": "Unicorn",
+        "url": "https://open.spotify.com/album/2lOkKWJrhy0Fyy5YDyx1wl"
+      },
+      "artists": [
+        {
+          "name": "RIO KOSTA",
+          "url": "https://open.spotify.com/artist/4xU7M9wEvpnvkNOyPdVi5y"
+        }
+      ],
+      "duration_ms": 216051,
+      "name": "Unicorn",
+      "url": "https://open.spotify.com/track/5CcWCddzMfT89UIpTSVvvT"
+    },
+    {
+      "added_at": "2025-05-29 19:30:23",
+      "album": {
         "name": "Pop Pop Pop Pop Pop Pop Pop Stop",
         "url": "https://open.spotify.com/album/3apSekdGAf1nGm25bTEUSA"
       },
@@ -43,6 +59,22 @@
     {
       "added_at": "2025-05-29 19:30:23",
       "album": {
+        "name": "One Thing",
+        "url": "https://open.spotify.com/album/2pIQ2uWPJUvfnmM917UC1I"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 208829,
+      "name": "One Thing",
+      "url": "https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U"
+    },
+    {
+      "added_at": "2025-05-29 19:30:23",
+      "album": {
         "name": "Transmuted Matter",
         "url": "https://open.spotify.com/album/6QkrEzypKMm9yt90JpeY6U"
       },
@@ -55,22 +87,6 @@
       "duration_ms": 256156,
       "name": "Transmuted Matter",
       "url": "https://open.spotify.com/track/7zURyQnzkBzFygOxIDdyTf"
-    },
-    {
-      "added_at": "2025-05-29 19:30:23",
-      "album": {
-        "name": "Unicorn",
-        "url": "https://open.spotify.com/album/2lOkKWJrhy0Fyy5YDyx1wl"
-      },
-      "artists": [
-        {
-          "name": "RIO KOSTA",
-          "url": "https://open.spotify.com/artist/4xU7M9wEvpnvkNOyPdVi5y"
-        }
-      ],
-      "duration_ms": 216051,
-      "name": "Unicorn",
-      "url": "https://open.spotify.com/track/5CcWCddzMfT89UIpTSVvvT"
     },
     {
       "added_at": "2025-05-29 19:30:23",
@@ -167,22 +183,6 @@
       "duration_ms": 286306,
       "name": "I Don't Wanna",
       "url": "https://open.spotify.com/track/0rt5jpP3FPHUmmrthlUsL6"
-    },
-    {
-      "added_at": "2025-05-29 19:30:23",
-      "album": {
-        "name": "One Thing",
-        "url": "https://open.spotify.com/album/2pIQ2uWPJUvfnmM917UC1I"
-      },
-      "artists": [
-        {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
-        }
-      ],
-      "duration_ms": 208829,
-      "name": "One Thing",
-      "url": "https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U"
     },
     {
       "added_at": "2025-05-29 19:30:23",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8xfQRRX1PDm.md) - [plain]
 
 > Party\-ready, the biggest Bollywood dance tracks\. Cover \- Stree 2
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,075,205 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,075,765 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8xfQRRX1PDm.md) - [plain]
 | 74 | [Slow Motion](https://open.spotify.com/track/7vnXEUbyvC5VAYLgpstOAQ) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB) | [Bharat](https://open.spotify.com/album/6Jl2MfI7pB2hWKvTUc5DbA) | 4:07 |
 | 75 | [Jai Jai Shivshankar](https://open.spotify.com/track/6IYS7wNZxRBvLpwMZDbcdP) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [War](https://open.spotify.com/album/0z7bJ6UpjUw8U4TATtc5Ku) | 3:50 |
 
-Snapshot ID: `AAAAACjAHOFJKlK18WiI4190Fw90nur7`
+Snapshot ID: `aC2ApgAAAADDkQL10nBoaEAm2oe2Kgfm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Clipse, Lil Tecca, PLUTO & Sexyy Red and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,958 likes - 49 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,052 likes - 49 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 16 | [Landgrab](https://open.spotify.com/track/3pLwsRkN3XblUXuUUqPqFR) | [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [Landgrab](https://open.spotify.com/album/6DiccF2KOwPAD1i1oFRNuq) | 1:28 |
 | 17 | [Erewhon](https://open.spotify.com/track/4rm5bfZeNypM7oxK4fkXmm) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [The Hics](https://open.spotify.com/artist/2XHJ36WzMJKpDk6fLl6lMo), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [Erewhon](https://open.spotify.com/album/7pYnBFrCuHYilDzXF5spKn) | 3:33 |
 | 18 | [there he go](https://open.spotify.com/track/0gT1bTwqCJcKjefNcy4X3Q) | [sosocamo](https://open.spotify.com/artist/6hpztnbgmaneFFGGnEOVjd) | [there he go](https://open.spotify.com/album/3ehxYp8sxdU3RmWIiWu4J9) | 2:36 |
-| 19 | [Blessing](https://open.spotify.com/track/0TmGVDYgQa9gk4vou7metV) | [22Gz](https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz), [iZZE](https://open.spotify.com/artist/7gCDtSxLZtsjRtrY2h7x0I), [Dubba\-AA](https://open.spotify.com/artist/0imTTiC5dn6qy1VNS9Ituf) | [Blessing](https://open.spotify.com/album/2kPjQ65imOUlNibmus814I) | 3:15 |
+| 19 | [Blessing](https://open.spotify.com/track/0TmGVDYgQa9gk4vou7metV) | [22Gz](https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz), [Dubba\-AA](https://open.spotify.com/artist/0imTTiC5dn6qy1VNS9Ituf) | [Blessing](https://open.spotify.com/album/2kPjQ65imOUlNibmus814I) | 3:15 |
 | 20 | [Bout Dat](https://open.spotify.com/track/2cNcYPFKLJbISghNaIxxS4) | [Jdot Breezy](https://open.spotify.com/artist/0VSM8D7ibtXjJgukfVR0eZ) | [Bout Dat](https://open.spotify.com/album/719gDqlYWNntPFzZCmuwbF) | 3:05 |
 | 21 | [Hellcats & Horses](https://open.spotify.com/track/06ZoQDSmiwYPoNHrB0FiiE) | [Yungeen Ace](https://open.spotify.com/artist/7hj7ffJe6UkF1gsMpuweSI) | [Hellcats & Horses](https://open.spotify.com/album/4gtQa9tzHsBIkwyEiySGNC) | 2:56 |
 | 22 | [BATMAN](https://open.spotify.com/track/1RoWbJpuhdMl9UI0KKmqhi) | [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw) | [BATMAN](https://open.spotify.com/album/4RoGZAQG6OgWDcRlmnSOyI) | 2:24 |

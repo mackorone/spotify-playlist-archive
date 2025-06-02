@@ -1,13 +1,29 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 01 Jun 03:03 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 02 Jun 03:03 UTC.",
   "num_followers": 94,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAASQAsvU8vo2vqNR9lIie5snwCRgmqs",
+  "snapshot_id": "AAASRHRXq3RdeGMHRbnE+bJdYj9SO0Ms",
   "tracks": [
+    {
+      "added_at": "2025-06-01 08:03:42",
+      "album": {
+        "name": "Star 69",
+        "url": "https://open.spotify.com/album/4RHqGETvVg3UTdiesKXo2m"
+      },
+      "artists": [
+        {
+          "name": "Ayesha Erotica",
+          "url": "https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco"
+        }
+      ],
+      "duration_ms": 176944,
+      "name": "Star 69",
+      "url": "https://open.spotify.com/track/6pSFh3VxiFzSrov1Se4Rql"
+    },
     {
       "added_at": "2025-05-30 18:03:27",
       "album": {
@@ -171,6 +187,22 @@
       "duration_ms": 183237,
       "name": "Fame is a Gun",
       "url": "https://open.spotify.com/track/1c2AFg2WpURtpsOTMr6ZBX"
+    },
+    {
+      "added_at": "2025-06-02 03:03:45",
+      "album": {
+        "name": "Nice To Each Other",
+        "url": "https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "Nice To Each Other",
+      "url": "https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l"
     },
     {
       "added_at": "2025-05-30 18:03:27",
@@ -799,38 +831,6 @@
       "duration_ms": 160687,
       "name": "Forgiving",
       "url": "https://open.spotify.com/track/4Suzf2e7cS5K1aj3tLiwGv"
-    },
-    {
-      "added_at": "2025-05-23 18:03:12",
-      "album": {
-        "name": "Late Night",
-        "url": "https://open.spotify.com/album/7Hkc5W7dOVogQ2h2Jtv6Mq"
-      },
-      "artists": [
-        {
-          "name": "Summrs",
-          "url": "https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN"
-        }
-      ],
-      "duration_ms": 172244,
-      "name": "Late Night",
-      "url": "https://open.spotify.com/track/1JOQk0prFCjdK6IDALpe5f"
-    },
-    {
-      "added_at": "2025-05-28 22:04:03",
-      "album": {
-        "name": "Lifestyle Trainers",
-        "url": "https://open.spotify.com/album/75uXW8VeQNpuXRYOYjifSO"
-      },
-      "artists": [
-        {
-          "name": "Panchiko",
-          "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
-        }
-      ],
-      "duration_ms": 187661,
-      "name": "Lifestyle Trainers",
-      "url": "https://open.spotify.com/track/5g1sd6lfzLUUuReSCZYXqN"
     }
   ],
   "unique_name": "New Singles Now",

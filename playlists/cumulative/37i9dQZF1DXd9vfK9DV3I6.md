@@ -4,7 +4,7 @@
 
 > Electronic music with Mediterranean and Eastern influences.
 
-313 songs - 22 hr 49 min
+314 songs - 22 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Give It To Me \(feat\. Ezgi Kosa\) \- Padé Remix](https://open.spotify.com/track/2fPOQTdBExhbsu9j1pOuv2) | [Murat Salman](https://open.spotify.com/artist/1eqldZfko4SRQltdC2GbTn), [Rednod](https://open.spotify.com/artist/5AiAZqe3QhCSrROQCAtWpE), [Ezgi Kosa](https://open.spotify.com/artist/6fuRfSBoGP6XYSQa0eY1Jz), [Padé](https://open.spotify.com/artist/6blWAoncmeneII62o38gdj) | [Give It To Me \(feat\. Ezgi Kosa\) \[Remixes\]](https://open.spotify.com/album/6Lk1ovuSfjEx28Bf6K8GLW) | 2:44 | 2021-04-24 | 2023-03-18 |
 | [Giza](https://open.spotify.com/track/13E7IeNnA8kgQ1Jcz1Cehf) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Giza](https://open.spotify.com/album/5X04fNVdcHNUNgqFFK1iPw) | 7:12 | 2020-11-06 | 2021-02-12 |
 | [Habibi](https://open.spotify.com/track/4MZytAHR3UT93DGooSwVcs) | [Havana](https://open.spotify.com/artist/3usZAPBaH3bub6atukdf7I), [Yaar](https://open.spotify.com/artist/34KdXwVrhwtbEQQ2aKk2ll) | [Habibi](https://open.spotify.com/album/6T0OA3rWZYVLj7ans9AIly) | 2:57 | 2025-05-19 |  |
+| [Habibi](https://open.spotify.com/track/7tqE0tpg1KCBnizHaX1B8A) | [Timor Jana](https://open.spotify.com/artist/0qCM62XoXR5Nj2Zyn50wL1), [AFRONOM](https://open.spotify.com/artist/05bZsDsrfQMnG83yks0Sg0), [ASLN](https://open.spotify.com/artist/58DPIUFMVBSQEy9xZNbKfU) | [Habibi](https://open.spotify.com/album/127hbAqCfPt7QNycY6bfeD) | 3:04 | 2025-05-30 |  |
 | [Hajaruni \(Suray Remix\)](https://open.spotify.com/track/4LDJ4Rj0rcskd9QywaGAac) | [Obeidmusic](https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks), [Suray](https://open.spotify.com/artist/1NdFnV1nlaAy3vP4AvyrVn), [Hossam wahab](https://open.spotify.com/artist/57XN19Qw07kzvBN9sHQq8C) | [Hajaruni \(Suray Remix\)](https://open.spotify.com/album/6573VJLCFt7RGLwiCVYziH) | 5:31 | 2024-05-17 |  |
 | [Hasat](https://open.spotify.com/track/2AozWD8d95Q39J740Ba070) | [Hey! Douglas](https://open.spotify.com/artist/72xb37kgUWGPVJqqBFhGKq) | [Hasat](https://open.spotify.com/album/192JWsGEt8HNOKHHzuh3ux) | 3:15 | 2023-09-29 | 2023-11-11 |
 | [Hatiralar](https://open.spotify.com/track/2qL4uCMnilvl0uIHcwYyWv) | [Buddha\-Bar](https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ), [Majnoon](https://open.spotify.com/artist/1eeh7aqCuDjuEvPXhQSF1h) | [Hatiralar](https://open.spotify.com/album/53OVidFRRrLBKb9avHiIBf) | 5:09 | 2025-01-17 |  |
@@ -192,7 +193,7 @@
 | [Mazrub](https://open.spotify.com/track/6LQ6389JtKwSYWLi0c5OAH) | [Ossova](https://open.spotify.com/artist/5BTNXZpP9Dhzzb4llFSMzJ), [Amorf](https://open.spotify.com/artist/235rIOpga6eYnAP03JD444) | [Mazrub](https://open.spotify.com/album/3ehMTWstecDQEghyK3JcGi) | 3:06 | 2021-02-23 | 2025-02-21 |
 | [Memories](https://open.spotify.com/track/79K265g8aRrl98igAjOE0L) | [Frauble](https://open.spotify.com/artist/3NLk43BYwIw4UnPFevn1r1) | [Memories](https://open.spotify.com/album/0Rjpw1MhWfGh1K9lyqakjY) | 3:28 | 2020-11-13 | 2022-07-29 |
 | [Memories](https://open.spotify.com/track/7oElCR8kjz4BX2uvwwtTTT) | [Frauble](https://open.spotify.com/artist/3NLk43BYwIw4UnPFevn1r1) | [Memories](https://open.spotify.com/album/60pdlSEWhFUir3fyCuqo0Y) | 3:28 | 2022-06-27 | 2023-03-18 |
-| [Mindreader](https://open.spotify.com/track/5P52da2sNatI3lgZEW5Prb) | [Malik](https://open.spotify.com/artist/4sEcx9wubbX4TLdaCQTqGI) | [Mindreader](https://open.spotify.com/album/2S6yN5zAZpFmCuBKSU8YSM) | 2:52 | 2020-10-18\* |  |
+| [Mindreader](https://open.spotify.com/track/5P52da2sNatI3lgZEW5Prb) | [Malik](https://open.spotify.com/artist/4sEcx9wubbX4TLdaCQTqGI) | [Mindreader](https://open.spotify.com/album/2S6yN5zAZpFmCuBKSU8YSM) | 2:52 | 2020-10-18\* | 2025-06-02 |
 | [Mirage \- Original](https://open.spotify.com/track/2fBOS1NT8dYFrypecpjoOS) | [Goldcap](https://open.spotify.com/artist/0uoaqsdWJ2Mbm9g0hjjZns) | [Visceral 048 \- Past Forward IV](https://open.spotify.com/album/5gwYVe3uLbE4kLIf1kSAF7) | 8:00 | 2020-10-18\* | 2023-03-13 |
 | [MIRAN](https://open.spotify.com/track/0BNNBoE8D33k7jjSExYbUI) | [Sinan Yalcin](https://open.spotify.com/artist/03ZkvOyphjIMDashA29QiW), [Roni Violinist](https://open.spotify.com/artist/0tRALyUvYQiXuvDEtBO2cf) | [MIRAN](https://open.spotify.com/album/34XaofZcShdwBM50sAHuHc) | 2:09 | 2023-09-21 |  |
 | [Mitad De La Noche \- Chris IDH Remix](https://open.spotify.com/track/00kPPdI7l3Cn3KKJowYQgW) | [Ephlum](https://open.spotify.com/artist/6joEcvciPG2LzFyWAiI8vN), [KXDR](https://open.spotify.com/artist/4oZkVBTLC3sbookJzyVoLX), [Chris IDH](https://open.spotify.com/artist/2z7bVSNugoW687HxM4eSa9) | [Mitad De La Noche](https://open.spotify.com/album/2UzOerh1n51ZpCj1Ycs8BS) | 5:58 | 2025-02-07 | 2025-05-05 |

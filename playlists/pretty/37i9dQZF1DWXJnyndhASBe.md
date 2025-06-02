@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 ### [RAP GENERACJA](https://open.spotify.com/playlist/37i9dQZF1DWXJnyndhASBe)
 
-> Największe rapowe kawałki w tej chwili\. Cover: White 2115 👶
+> Największe rapowe kawałki w tej chwili\. Cover: White 2115
 
-[Spotify](https://open.spotify.com/user/spotify) - 565,198 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 565,331 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [Ajaj](https://open.spotify.com/track/4WR95C02a5lmpeZRWlIWsl) | [Aleshen](https://open.spotify.com/artist/4lmMkf4tLyEKBslusiNZdu), [Kosior](https://open.spotify.com/artist/4kIRYVMcgUBEBaqdA0nLWX) | [ALESHEN II](https://open.spotify.com/album/0oTX7hZShhVYj8HQ6cwxvJ) | 2:54 |
 | 50 | [TOKSYNY](https://open.spotify.com/track/6MHeuJyoAdIzw7HphLeJ4p) | [Słoń](https://open.spotify.com/artist/0wm6v5GU6VbR1wtsm0YiTV), [The Returners](https://open.spotify.com/artist/4zO6WqG8mu49ek0ZDIptTk) | [TOKSYNY](https://open.spotify.com/album/5Ca5784hSTT8zf40Y2hWLS) | 4:11 |
 
-Snapshot ID: `aDt78QAAAAB7qL6hk6N7FgdtSdESllxH`
+Snapshot ID: `aDzNeQAAAAAhBayR9gp5ik6Kogtdvz77`

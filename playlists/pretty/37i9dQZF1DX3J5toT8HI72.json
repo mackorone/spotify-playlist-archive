@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 pros apaixonados",
-  "num_followers": 789323,
+  "num_followers": 789262,
   "original_name": "Amor I Love You",
   "owner": {
     "name": "Spotify",
@@ -1203,6 +1203,26 @@
     {
       "added_at": "2025-05-30 05:20:15",
       "album": {
+        "name": "FRAGMENTADO",
+        "url": "https://open.spotify.com/album/00EpdnJTbeKfWrc7FI7Q2H"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Ramon Calixto",
+          "url": "https://open.spotify.com/artist/57LISFynxucEx3WF6Iqxq8"
+        }
+      ],
+      "duration_ms": 193918,
+      "name": "VELHO FUSCA",
+      "url": "https://open.spotify.com/track/1IFicsz0Ii1BAOnpnAfd96"
+    },
+    {
+      "added_at": "2025-05-30 05:20:15",
+      "album": {
         "name": "Massagem nas Costas",
         "url": "https://open.spotify.com/album/19tU95QBl4RTYwM28LW9Dq"
       },
@@ -1283,26 +1303,6 @@
       "duration_ms": 224590,
       "name": "Se Eu N\u00e3o Te Amasse Tanto Assim - Ac\u00fastico Em Trancoso / Ao Vivo",
       "url": "https://open.spotify.com/track/5z9gmHdAMTFjxFOpuWzyYO"
-    },
-    {
-      "added_at": "2025-05-30 05:20:15",
-      "album": {
-        "name": "FRAGMENTADO",
-        "url": "https://open.spotify.com/album/00EpdnJTbeKfWrc7FI7Q2H"
-      },
-      "artists": [
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
-          "name": "Ramon Calixto",
-          "url": "https://open.spotify.com/artist/57LISFynxucEx3WF6Iqxq8"
-        }
-      ],
-      "duration_ms": 193918,
-      "name": "VELHO FUSCA",
-      "url": "https://open.spotify.com/track/1IFicsz0Ii1BAOnpnAfd96"
     },
     {
       "added_at": "2025-05-30 05:20:15",

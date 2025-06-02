@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXak4YJ5RJ6q4.md) - [plain]
 
 > A story about a first love that lingers forever\. Listen to the music from Forever, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,379 likes - 57 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,452 likes - 57 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXak4YJ5RJ6q4.md) - [plain]
 | 56 | [Voicemails](https://open.spotify.com/track/6Q1XAIxn9boFMLIEd9jJWg) | [Gary Gunn](https://open.spotify.com/artist/1YhB3AlXyKWd60QgbTBEL9) | [Forever \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/6ZC2vgRvXStvkhuwgi6heh) | 3:07 |
 | 57 | [Forever](https://open.spotify.com/track/6UD2J3qe7tiT5nPzPOcx9U) | [Gary Gunn](https://open.spotify.com/artist/1YhB3AlXyKWd60QgbTBEL9) | [Forever \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/6ZC2vgRvXStvkhuwgi6heh) | 1:29 |
 
-Snapshot ID: `AAAAAL0fqAZVcPc/jdFBOADZIyfm/Slk`
+Snapshot ID: `aB4KOQAAAAAuaf81FFPadkUI9CkQxQe6`

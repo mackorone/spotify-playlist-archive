@@ -1,12 +1,12 @@
 {
   "description": "This is Autechre. The essential tracks, all in one playlist.",
-  "num_followers": 7698,
+  "num_followers": 7696,
   "original_name": "This Is Autechre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDj1AAAAAAAFfhA85KwE8XVKuS1B3gC1",
+  "snapshot_id": "aDpGgAAAAADFNeoH+oaBP6j8vtEdt+Iv",
   "tracks": [
     {
       "added_at": null,
@@ -479,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Artificial Intelligence",
-        "url": "https://open.spotify.com/album/0P9O7BGwJrEGFj6BvpIphD"
+        "name": "SIGN",
+        "url": "https://open.spotify.com/album/6bZID6hhfiOoLYwAm3fliK"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 453693,
-      "name": "The Egg",
-      "url": "https://open.spotify.com/track/5Xqrp7EwQnmmVPGnjwfxC6"
+      "duration_ms": 360456,
+      "name": "Metaz form8",
+      "url": "https://open.spotify.com/track/0pvtBgXF0GosDiDwLgQdP6"
     },
     {
       "added_at": null,
@@ -511,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "EPs 1991 - 2002 (Part 2)",
-        "url": "https://open.spotify.com/album/4KGnNltIhKlNbeWzSAnOMz"
+        "name": "Artificial Intelligence",
+        "url": "https://open.spotify.com/album/0P9O7BGwJrEGFj6BvpIphD"
       },
       "artists": [
         {
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 191186,
-      "name": "Krib",
-      "url": "https://open.spotify.com/track/6iaABFW28kyH84OKufn5ha"
+      "duration_ms": 453693,
+      "name": "The Egg",
+      "url": "https://open.spotify.com/track/5Xqrp7EwQnmmVPGnjwfxC6"
     },
     {
       "added_at": null,
@@ -543,8 +543,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "SIGN",
-        "url": "https://open.spotify.com/album/6bZID6hhfiOoLYwAm3fliK"
+        "name": "EPs 1991 - 2002 (Part 2)",
+        "url": "https://open.spotify.com/album/4KGnNltIhKlNbeWzSAnOMz"
       },
       "artists": [
         {
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 360456,
-      "name": "Metaz form8",
-      "url": "https://open.spotify.com/track/0pvtBgXF0GosDiDwLgQdP6"
+      "duration_ms": 191186,
+      "name": "Krib",
+      "url": "https://open.spotify.com/track/6iaABFW28kyH84OKufn5ha"
     },
     {
       "added_at": null,
@@ -751,6 +751,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Artificial Intelligence II",
+        "url": "https://open.spotify.com/album/3fh4Vu48JvywRujURbLW1R"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "duration_ms": 456226,
+      "name": "Chatter",
+      "url": "https://open.spotify.com/track/3BL2l8agZkzkNIqv8fqlL7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Confield",
         "url": "https://open.spotify.com/album/7fMTyCtIeBoYck15biPRaQ"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 537263,
       "name": "Cipater",
       "url": "https://open.spotify.com/track/6A2rU9JC5r9eD4KQfY5Rc6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Artificial Intelligence II",
-        "url": "https://open.spotify.com/album/3fh4Vu48JvywRujURbLW1R"
-      },
-      "artists": [
-        {
-          "name": "Autechre",
-          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
-        }
-      ],
-      "duration_ms": 456226,
-      "name": "Chatter",
-      "url": "https://open.spotify.com/track/3BL2l8agZkzkNIqv8fqlL7"
     },
     {
       "added_at": null,

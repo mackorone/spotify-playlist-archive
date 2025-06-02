@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Damso, Guus Meeuwis/MAKSIM, Miley Cyrus and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,834 likes - 91 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,833 likes - 91 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

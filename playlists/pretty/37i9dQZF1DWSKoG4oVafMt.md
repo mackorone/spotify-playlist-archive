@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring Diljit Dosanjh and Neeru Bajwa
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,050 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,166 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 99 | [Dil Lagiyan](https://open.spotify.com/track/0QTmfANVAuSFANBxdqth6p) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1) | [Naveezy](https://open.spotify.com/album/197b84cjuJyHeDzGwzjXVn) | 4:09 |
 | 100 | [Akhian Nimanian \(From "Annhi Dea Mazaak Ae"\)](https://open.spotify.com/track/5zQ5FjF4FYWx6hBGQnhhSv) | [Amrinder Gill](https://open.spotify.com/artist/1x02ug1CLkx7mrQP9FRswh), [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Pari Pandher](https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA) | [Akhian Nimanian \(From "Annhi Dea Mazaak Ae"\)](https://open.spotify.com/album/3bg4t9VQgDSdxdzFNdkV3i) | 3:48 |
 
-Snapshot ID: `aDAwKgAAAAClYHsNYDsr0QdZmZc2y5Eu`
+Snapshot ID: `aDAwKgAAAAC/+dqmKMOIv4w7OtmipFjw`

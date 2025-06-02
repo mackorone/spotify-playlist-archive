@@ -1,6 +1,6 @@
 {
   "description": "Sue\u00f1a lindo, coraz\u00f3n... \ud83d\udc96\u2728 Macario Mart\u00ednez en portada.",
-  "num_followers": 192150,
+  "num_followers": 192141,
   "original_name": "Pop Folk",
   "owner": {
     "name": "Spotify",
@@ -591,22 +591,6 @@
     {
       "added_at": "2025-05-23 06:00:31",
       "album": {
-        "name": "Cancionera",
-        "url": "https://open.spotify.com/album/1cj7pNUyxvUhnVseDclg7q"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 336347,
-      "name": "Cancionera",
-      "url": "https://open.spotify.com/track/4omxAjV5OFVfh4vBeVUH60"
-    },
-    {
-      "added_at": "2025-05-23 06:00:31",
-      "album": {
         "name": "La Casa de Mis Pap\u00e1s",
         "url": "https://open.spotify.com/album/4fDVPUDYYSLk6g3WWoZUzG"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 176844,
       "name": "La Casa de Mis Pap\u00e1s",
       "url": "https://open.spotify.com/track/57uar5nkiQYNc97olkS1LJ"
+    },
+    {
+      "added_at": "2025-05-23 06:00:31",
+      "album": {
+        "name": "Cancionera",
+        "url": "https://open.spotify.com/album/1cj7pNUyxvUhnVseDclg7q"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 336347,
+      "name": "Cancionera",
+      "url": "https://open.spotify.com/track/4omxAjV5OFVfh4vBeVUH60"
     },
     {
       "added_at": "2025-05-23 06:00:31",
@@ -955,22 +955,6 @@
     {
       "added_at": "2025-05-23 06:00:31",
       "album": {
-        "name": "Buenos Aires",
-        "url": "https://open.spotify.com/album/2yVinEvqFnj39CdY8oRDl7"
-      },
-      "artists": [
-        {
-          "name": "Tony Mils",
-          "url": "https://open.spotify.com/artist/0CW3w1hfNiUhS5gnHN7twt"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Buenos Aires",
-      "url": "https://open.spotify.com/track/0rpDCKxlhQYbUbGVPi6JZL"
-    },
-    {
-      "added_at": "2025-05-23 06:00:31",
-      "album": {
         "name": "Cuanto antes (feat. Lali)",
         "url": "https://open.spotify.com/album/7tvTZlX7UOKrQnhKOy84UV"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 192612,
       "name": "L\u00edmite",
       "url": "https://open.spotify.com/track/2tRnLRsa95TerxZcp7TQw9"
+    },
+    {
+      "added_at": "2025-05-23 06:00:31",
+      "album": {
+        "name": "Buenos Aires",
+        "url": "https://open.spotify.com/album/2yVinEvqFnj39CdY8oRDl7"
+      },
+      "artists": [
+        {
+          "name": "Tony Mils",
+          "url": "https://open.spotify.com/artist/0CW3w1hfNiUhS5gnHN7twt"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Buenos Aires",
+      "url": "https://open.spotify.com/track/0rpDCKxlhQYbUbGVPi6JZL"
     },
     {
       "added_at": "2025-05-23 06:00:31",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2025-05-23 06:00:31",
       "album": {
-        "name": "Rinconcito en el Cielo",
-        "url": "https://open.spotify.com/album/6Lg4611g3RNYjn8oe9zcsL"
-      },
-      "artists": [
-        {
-          "name": "Soyiby",
-          "url": "https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn"
-        }
-      ],
-      "duration_ms": 222855,
-      "name": "Rinconcito en el Cielo",
-      "url": "https://open.spotify.com/track/0W3gf3txFJ6i5pzAzBVHVc"
-    },
-    {
-      "added_at": "2025-05-23 06:00:31",
-      "album": {
         "name": "BARRY",
         "url": "https://open.spotify.com/album/16EQNci1ENzfg8TvzoWTTf"
       },
@@ -1259,22 +1243,34 @@
     {
       "added_at": "2025-05-23 06:00:31",
       "album": {
-        "name": "Natalia Lafourcade Live at Carnegie Hall",
-        "url": "https://open.spotify.com/album/18JArdeamDNxXvj1SvtiiY"
+        "name": "Rinconcito en el Cielo",
+        "url": "https://open.spotify.com/album/6Lg4611g3RNYjn8oe9zcsL"
+      },
+      "artists": [
+        {
+          "name": "Soyiby",
+          "url": "https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn"
+        }
+      ],
+      "duration_ms": 222855,
+      "name": "Rinconcito en el Cielo",
+      "url": "https://open.spotify.com/track/0W3gf3txFJ6i5pzAzBVHVc"
+    },
+    {
+      "added_at": "2025-05-23 06:00:31",
+      "album": {
+        "name": "El lugar correcto (En Vivo [Live at Carnegie Hall])",
+        "url": "https://open.spotify.com/album/3ANUhdT7lKssCXcizHF3qN"
       },
       "artists": [
         {
           "name": "Natalia Lafourcade",
           "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        },
-        {
-          "name": "Omara Portuondo",
-          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
         }
       ],
-      "duration_ms": 252520,
-      "name": "Soledad y el Mar (feat. Omara Portuondo) - En Vivo [Live at Carnegie Hall]",
-      "url": "https://open.spotify.com/track/61VLdQkaL52sOlAk5TV54k"
+      "duration_ms": 210200,
+      "name": "El lugar correcto - En Vivo [Live at Carnegie Hall]",
+      "url": "https://open.spotify.com/track/7jqPeQkJNXDXQXtpgNDKGx"
     },
     {
       "added_at": "2025-05-23 06:00:31",
