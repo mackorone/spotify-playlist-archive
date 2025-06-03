@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 
 > The latest straight bars and Afro\-Trap\. Cover: Nasty C
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,143 likes - 70 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,190 likes - 70 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 62 | [Guy Man](https://open.spotify.com/track/6eE4ecWXq8Ijh8DYyJQ57s) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Guy Man](https://open.spotify.com/album/7Ef71u8NNLYzlRhKC6PwuD) | 2:46 |
 | 63 | [Bluff](https://open.spotify.com/track/20o16MJXk6Jib9dx2bOUR9) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6) | [To Whom It May Concern](https://open.spotify.com/album/4QlwqxdrSVolU2dcaHzfx9) | 3:05 |
 | 64 | [The Chant \(feat\. Dee Koala & Gemini Major\)](https://open.spotify.com/track/5OWCVOQ37ipOrHIAcPQyYJ) | [Riky Rick](https://open.spotify.com/artist/61ZRdppZ5sCtl9m5gfhoGO), [Dee Koala](https://open.spotify.com/artist/7gYT0XHEBgTgfgNK0566DT), [Gemini Major](https://open.spotify.com/artist/7CmcmdcG6g6XOXueKHgCaM) | [The Chant \(feat\. Dee Koala & Gemini Major\)](https://open.spotify.com/album/72WJTN1RzentaRuhB3aTRq) | 3:07 |
-| 65 | [Hayi Costa](https://open.spotify.com/track/5lAHj2Dgl2UaSlGxa0ImOE) | [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG), [Audio Addicts](https://open.spotify.com/artist/1tjAECvMdhkOPNEPYCNZol), [Champuru Makhenzo](https://open.spotify.com/artist/5opgK8q2QxKDdubvoUO0Cw), [2woshort](https://open.spotify.com/artist/2CsKNR9HBBs3bAswmPz825), [Stompiiey](https://open.spotify.com/artist/16IdDbuertDHTGF9Si2eCN), [SjijoSA](https://open.spotify.com/artist/1QTwrKvItKgBKEaVTm7gdc) | [Hayi Costa](https://open.spotify.com/album/5xUG3IiaEtaamCifbkG9Ar) | 5:11 |
-| 66 | [Accidentally \(feat\. Seyi Vibez\)](https://open.spotify.com/track/3ZfLSz6tcx19sjKMVCbccG) | [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Fire & Ice](https://open.spotify.com/album/3EZt8wq3KWXB7gVM9SuLWR) | 3:06 |
+| 65 | [Accidentally \(feat\. Seyi Vibez\)](https://open.spotify.com/track/3ZfLSz6tcx19sjKMVCbccG) | [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Fire & Ice](https://open.spotify.com/album/3EZt8wq3KWXB7gVM9SuLWR) | 3:06 |
+| 66 | [Hayi Costa](https://open.spotify.com/track/5lAHj2Dgl2UaSlGxa0ImOE) | [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG), [Audio Addicts](https://open.spotify.com/artist/1tjAECvMdhkOPNEPYCNZol), [Champuru Makhenzo](https://open.spotify.com/artist/5opgK8q2QxKDdubvoUO0Cw), [2woshort](https://open.spotify.com/artist/2CsKNR9HBBs3bAswmPz825), [Stompiiey](https://open.spotify.com/artist/16IdDbuertDHTGF9Si2eCN), [SjijoSA](https://open.spotify.com/artist/1QTwrKvItKgBKEaVTm7gdc) | [Hayi Costa](https://open.spotify.com/album/5xUG3IiaEtaamCifbkG9Ar) | 5:11 |
 | 67 | [the get back](https://open.spotify.com/track/4IQP1L4qKPamrOrfL7WdAZ) | [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP) | [Kill The King: the mixtape](https://open.spotify.com/album/5XxghpaGYOjMYfaggN0g0t) | 3:05 |
 | 68 | [coMPRess](https://open.spotify.com/track/6NXG22PY2M8tdRU5WNKGjn) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [coMPRess](https://open.spotify.com/album/14bqGESf16BESeYQaxQQOK) | 3:14 |
 | 69 | [show u luv](https://open.spotify.com/track/6AMKemHX5TjvWwVCQgkYJY) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [see u soon](https://open.spotify.com/album/4aYa2JkUWVkOXptMYZtdq5) | 2:40 |

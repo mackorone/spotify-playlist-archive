@@ -4,7 +4,7 @@
 
 > What&\#x27;s gonna be the song of the Summer 2025!?
 
-4,984 songs - 11 day 15 hr 8 min
+4,987 songs - 11 day 15 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1575,6 +1575,7 @@
 | [Free](https://open.spotify.com/track/05i0gnCc4Tj9Rshavrirfh) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Free](https://open.spotify.com/album/3HfZsOOCcsDXiqciichy9J) | 3:35 | 2025-05-20 |  |
 | [Free](https://open.spotify.com/track/4Hq5iUZtrN9X4oNXdbW1r7) | [NATIIVE](https://open.spotify.com/artist/7iHTJPF1k1e9SF1BwqbAe0), [FINLAY](https://open.spotify.com/artist/2pAjU5iA2LSqy1junlcA6P) | [Free](https://open.spotify.com/album/3cdUDA4EFVbD1mYSTDUFO5) | 2:38 | 2021-04-17 | 2021-05-23 |
 | [FREE \(Radio Edit\)](https://open.spotify.com/track/5t8muucoml6Y5oQoCA2gvl) | [Risa Kumon](https://open.spotify.com/artist/2vpmfKv5wAGVr8KCsLxnNO) | [FREE \(Radio Edit\)](https://open.spotify.com/album/6rx7UmUqwDn42ROxV2PaXI) | 4:26 | 2023-06-09 | 2023-06-30 |
+| [Free Annie](https://open.spotify.com/track/5wAQWx54RkKqtfNAIveqS4) | [The Tralala](https://open.spotify.com/artist/7091SfBujSoinDuHBVGyHQ) | [Free Annie](https://open.spotify.com/album/4uVYCtdo9kFSLclZdidbS3) | 4:40 | 2025-06-02 |  |
 | [Free Bird](https://open.spotify.com/track/6ohZJm6vyUwfqD7btyXq8T) | [Tukei](https://open.spotify.com/artist/5dSg4m1es4pzxJGVB9b9r0) | [About a Girl](https://open.spotify.com/album/36xBEgKZ6mrDYJZ27i4Ogs) | 2:49 | 2023-07-24 | 2023-08-20 |
 | [Free Fallin'](https://open.spotify.com/track/3lGlni5Gdr5iyRSIdWC7b7) | [Silk & Bloom](https://open.spotify.com/artist/56OYEJPaUapEZ5pxocqR9O) | [Free Fallin'](https://open.spotify.com/album/0cqmmBlh0pWcB5tthVZI2f) | 2:51 | 2024-09-28 | 2024-10-10 |
 | [Freedom](https://open.spotify.com/track/4S4QeGP0866I9oVyCyUMXa) | [AIS](https://open.spotify.com/artist/2R7laIbwkvPPud2g6Ia9Uz) | [Freedom](https://open.spotify.com/album/2qg46upRNBqRdQPicGbrBK) | 4:17 | 2021-11-27 | 2021-12-12 |
@@ -3333,6 +3334,7 @@
 | [PHOENIX](https://open.spotify.com/track/6sGN6tqNCCAgXQ2YHH0SIJ) | [MADNIK](https://open.spotify.com/artist/6Z0ZpfsNLeVU7c88gBa62V) | [PHOENIX](https://open.spotify.com/album/0LXiccMo5zmSnQexL3f2th) | 2:43 | 2023-04-18 | 2023-05-02 |
 | [Phoenixes](https://open.spotify.com/track/18Ig2DBGTHWBf7ScodwTE5) | [Michel Bellens](https://open.spotify.com/artist/3CbPz5ttjtr2SXHb3GmQkI) | [Phoenixes](https://open.spotify.com/album/7cjHmyBGen1jTgD4Nku45r) | 3:47 | 2025-03-20 | 2025-04-01 |
 | [Phone Static](https://open.spotify.com/track/5NZP8Sh5HsVVO83uxLfZkA) | [Ebony Loren](https://open.spotify.com/artist/17DzgGdVKwrEdKxc4sPMnY) | [Phone Static](https://open.spotify.com/album/411vVjpFLMiyash5GTxUxE) | 3:02 | 2022-03-22 | 2022-04-08 |
+| [photos i never deleted](https://open.spotify.com/track/6GhImmqGGOxvktt4L2zZ01) | [Marcel Vines](https://open.spotify.com/artist/3RWStmRNn1y7AnsHaXyfJK) | [photos i never deleted](https://open.spotify.com/album/2ld7n4ieyAGS7vAUJeLBBo) | 2:51 | 2025-06-02 |  |
 | [Pick My Pockets](https://open.spotify.com/track/4m8GEreu4bGUsUBJOcAiGD) | [Avry](https://open.spotify.com/artist/3SPEuHo0MHKNRYCZfPiij9) | [Fabrics](https://open.spotify.com/album/7buSjpIxgQ1zNvWtVdFoJ5) | 2:45 | 2024-11-14 | 2024-11-27 |
 | [Pick Up Your Feelings](https://open.spotify.com/track/2I7CJZLo2nDqGuzZJA1XlZ) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Heaux Tales](https://open.spotify.com/album/1btIckWsQDd7fAx0BBZF0n) | 3:49 | 2021-07-11 | 2024-04-21 |
 | [Picked Over](https://open.spotify.com/track/3GoNjF5RVMbtmd99SCx3YT) | [Amanda Esposito](https://open.spotify.com/artist/5bvDwGtuivCmvONIf7Y9iE) | [There You Go](https://open.spotify.com/album/4PiQZ0oK8svSZWmDRicxD3) | 4:22 | 2024-04-29 | 2024-05-14 |
@@ -3810,6 +3812,7 @@
 | [silence STArEs me down \(feat\. Cuco\)](https://open.spotify.com/track/78KntfAskv8cMLQSa0a5PR) | [1999 WRITE THE FUTURE](https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [hella \(˃̣̣̥╭╮˂̣̣̥\) ✧ ♡ ‧º·˚](https://open.spotify.com/album/7nAFPtoN75FBt8WA0CQoBQ) | 3:06 | 2024-03-12 | 2024-08-13 |
 | [silverlinings2](https://open.spotify.com/track/2gcXqU3ftfDY4s4ui7x1gC) | [Anderson Hao](https://open.spotify.com/artist/4ld59O2bX6oOVHoxVOCOpw) | [Mom I'm a Popstar!](https://open.spotify.com/album/6pZqVaSJQADnbmSugBnXif) | 2:10 | 2023-12-15 | 2024-01-06 |
 | [Silvio](https://open.spotify.com/track/42KZovoCaiMhxskWGA68gt) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Down In The Groove](https://open.spotify.com/album/1jqNoER2ibSB8I0DMm54Ac) | 3:05 | 2024-08-12 |  |
+| [Simon Says](https://open.spotify.com/track/5qvryamIbb3acLGsQ04nKa) | [Carbonara Collective](https://open.spotify.com/artist/0xQtEAccpoBnlgXdSf75f6), [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [Simon Says](https://open.spotify.com/album/1Qtkz1iDJobo4NNGCT7WXe) | 3:13 | 2025-06-02 |  |
 | [Simple](https://open.spotify.com/track/69tw7L2hMdaSQkzlxKJBu7) | [Maddi Jane](https://open.spotify.com/artist/6p0HFtE6QhdHNY1H4Nk0mo) | [Simple](https://open.spotify.com/album/79v6jLQmtk8iSbvDd32piX) | 2:59 | 2022-05-06 | 2022-05-22 |
 | [SIMPLE.](https://open.spotify.com/track/4FZcbtaK1im7dwwFXtiueL) | [Jason King](https://open.spotify.com/artist/24B1phNS2i8lriJnsS2IAW) | [SIMPLE.](https://open.spotify.com/album/4VYqMMjtCIgmsX2QYXqOBS) | 2:45 | 2023-03-03 | 2023-03-29 |
 | [Simpler Times](https://open.spotify.com/track/7f0bc0KdeDwRIvM4kHTRWS) | [CHAR](https://open.spotify.com/artist/2eoOPfVAXP5jraE3VEbWon) | [Simpler Times](https://open.spotify.com/album/3waWnha4uanTcOOWCGGuQx) | 4:02 | 2021-12-17 | 2022-01-07 |

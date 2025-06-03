@@ -1,6 +1,6 @@
 {
   "description": "Lasers, lights & euphoric beats - all your favorite trance anthems!",
-  "num_followers": 680300,
+  "num_followers": 680531,
   "original_name": "Trance Classics",
   "owner": {
     "name": "Spotify",
@@ -595,6 +595,22 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/7hMHlj0TgrV5hw7LwZeziu"
+      },
+      "artists": [
+        {
+          "name": "Airbase",
+          "url": "https://open.spotify.com/artist/3R3fc4fBMzzmJoSrRgVdKe"
+        }
+      ],
+      "duration_ms": 194946,
+      "name": "Escape - Radio Edit",
+      "url": "https://open.spotify.com/track/0gDfkQYmyiq0eZFLof6hbh"
+    },
+    {
+      "added_at": "2024-07-23 09:55:55",
+      "album": {
         "name": "Synaesthesia (Fly Away)",
         "url": "https://open.spotify.com/album/5VsjT0u49R46HG9kSYsHMz"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 229973,
       "name": "Synaesthesia (Fly Away)",
       "url": "https://open.spotify.com/track/5QdgpcfAw8EbsupH0B6BpI"
-    },
-    {
-      "added_at": "2024-07-23 09:55:55",
-      "album": {
-        "name": "Escape",
-        "url": "https://open.spotify.com/album/7hMHlj0TgrV5hw7LwZeziu"
-      },
-      "artists": [
-        {
-          "name": "Airbase",
-          "url": "https://open.spotify.com/artist/3R3fc4fBMzzmJoSrRgVdKe"
-        }
-      ],
-      "duration_ms": 194946,
-      "name": "Escape - Radio Edit",
-      "url": "https://open.spotify.com/track/0gDfkQYmyiq0eZFLof6hbh"
     },
     {
       "added_at": "2024-07-23 09:55:55",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
-        "name": "1998",
-        "url": "https://open.spotify.com/album/6yp67msJDZJIkki3TGzhmq"
-      },
-      "artists": [
-        {
-          "name": "Binary Finary",
-          "url": "https://open.spotify.com/artist/5suoHSdDiYsjikHNVdYYKe"
-        }
-      ],
-      "duration_ms": 233906,
-      "name": "1998",
-      "url": "https://open.spotify.com/track/0ZcJZSx8cZndVwZrudIFy9"
-    },
-    {
-      "added_at": "2024-07-23 09:55:55",
-      "album": {
         "name": "Not Over Yet '99",
         "url": "https://open.spotify.com/album/2P3GrMALjeCYAbFvuFFsFH"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 216066,
       "name": "Not Over Yet '99 (feat. Grace) - Radio Edit",
       "url": "https://open.spotify.com/track/3gYUvf0BzPsPky2y3oBf3d"
+    },
+    {
+      "added_at": "2024-07-23 09:55:55",
+      "album": {
+        "name": "1998",
+        "url": "https://open.spotify.com/album/6yp67msJDZJIkki3TGzhmq"
+      },
+      "artists": [
+        {
+          "name": "Binary Finary",
+          "url": "https://open.spotify.com/artist/5suoHSdDiYsjikHNVdYYKe"
+        }
+      ],
+      "duration_ms": 233906,
+      "name": "1998",
+      "url": "https://open.spotify.com/track/0ZcJZSx8cZndVwZrudIFy9"
     },
     {
       "added_at": "2024-07-23 09:55:55",

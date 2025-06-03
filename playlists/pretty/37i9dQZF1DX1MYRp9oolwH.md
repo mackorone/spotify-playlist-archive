@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 
 > Bringing out the best of latest love tracks<br/>Cover : Kingdom
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,397 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,419 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 | 49 | [Bachhalinti Kurradini \(From "Bachhala Malli"\)](https://open.spotify.com/track/7AAVfYyrQb19GCsg4cEXlz) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Tirupathi Jaavana](https://open.spotify.com/artist/44HiRAzRjzBOyGEiPGIsKJ) | [Bachhalinti Kurradini \(From "Bachhala Malli"\)](https://open.spotify.com/album/2HGei6MnfDplCw7KXoiIMx) | 2:22 |
 | 50 | [Aggipulle \(From "Dilruba"\)](https://open.spotify.com/track/3rGUDSHHLxAXjJcvpKFFzi) | [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa), [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Bhaskarabhatla](https://open.spotify.com/artist/1BuW9BEbBIhDu6F13TVxpu) | [Aggipulle \(From "Dilruba"\)](https://open.spotify.com/album/5U7V8TKws7HuEa90divqpw) | 3:16 |
 
-Snapshot ID: `aCNSEwAAAACatZpwID0XYZzjcjSynWRk`
+Snapshot ID: `AAAAAMkc0EDIKUBUGZ7P43ixQhXEw6al`

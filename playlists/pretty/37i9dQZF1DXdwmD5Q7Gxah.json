@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"https://loremandfriends.substack.com/p/put-me-on-a-porch-with-a-crispy-beverage\">Check out our May newsletter!</a> Cover: strongboi",
-  "num_followers": 1181396,
+  "num_followers": 1181390,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDktZgAAAAAQsDYr8wcD1wjvdj9BJaPM",
+  "snapshot_id": "aD47YwAAAACGmc0QZilMykD1TShg9IJ0",
   "tracks": [
     {
       "added_at": "2025-05-30 04:00:38",
@@ -41,6 +41,26 @@
       "url": "https://open.spotify.com/track/22Owv4nARWNLMrMOARWzo7"
     },
     {
+      "added_at": "2025-06-02 17:43:08",
+      "album": {
+        "name": "Anticipate",
+        "url": "https://open.spotify.com/album/1hy99Geeqk41ERKiyLz0b1"
+      },
+      "artists": [
+        {
+          "name": "El Michels Affair",
+          "url": "https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc"
+        },
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 189284,
+      "name": "Anticipate",
+      "url": "https://open.spotify.com/track/6MGDifi2vBHgHLpqCUmX16"
+    },
+    {
       "added_at": "2025-05-22 19:34:41",
       "album": {
         "name": "Elderberry Wine",
@@ -73,22 +93,6 @@
       "url": "https://open.spotify.com/track/5jqRZna4pjmgETTNo349Rk"
     },
     {
-      "added_at": "2025-05-30 04:00:38",
-      "album": {
-        "name": "bemused / due dilettante",
-        "url": "https://open.spotify.com/album/4WtnCpNN3rlUGfAeBDi0sI"
-      },
-      "artists": [
-        {
-          "name": "Double Virgo",
-          "url": "https://open.spotify.com/artist/6z7qEMTNZigz2k3qozRYw1"
-        }
-      ],
-      "duration_ms": 166744,
-      "name": "bemused",
-      "url": "https://open.spotify.com/track/018wrdyua60eGU0rNbOnGB"
-    },
-    {
       "added_at": "2025-03-13 17:25:37",
       "album": {
         "name": "Object Permanence (Deluxe Edition)",
@@ -103,6 +107,42 @@
       "duration_ms": 203093,
       "name": "I'll Take It",
       "url": "https://open.spotify.com/track/0FAlG6uOeaXWuRdDxaeIQY"
+    },
+    {
+      "added_at": "2025-06-02 17:40:17",
+      "album": {
+        "name": "Man Of The Year",
+        "url": "https://open.spotify.com/album/1QSIGmlbg2zqpGbWXJNJeW"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 180433,
+      "name": "Man Of The Year",
+      "url": "https://open.spotify.com/track/1hoeP1oPYlhcv6iRCtB7pT"
+    },
+    {
+      "added_at": "2025-06-02 17:40:17",
+      "album": {
+        "name": "Real Thing",
+        "url": "https://open.spotify.com/album/1yx1ve9BzAO7hLIzcStCJv"
+      },
+      "artists": [
+        {
+          "name": "Drugdealer",
+          "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
+        },
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "duration_ms": 205146,
+      "name": "Real Thing",
+      "url": "https://open.spotify.com/track/7z5wTQlgqpCm3kvhn6s9Xh"
     },
     {
       "added_at": "2025-05-22 19:27:26",
@@ -137,6 +177,54 @@
       "url": "https://open.spotify.com/track/0UzhHaqs5it354pkj2lSCG"
     },
     {
+      "added_at": "2025-06-03 00:01:39",
+      "album": {
+        "name": "Chlorine",
+        "url": "https://open.spotify.com/album/6XwXtVaQxXNBD9G6wihYp1"
+      },
+      "artists": [
+        {
+          "name": "TOPS",
+          "url": "https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9"
+        }
+      ],
+      "duration_ms": 161429,
+      "name": "Chlorine",
+      "url": "https://open.spotify.com/track/3p8G6cIqs5sinWIZ4MtlxN"
+    },
+    {
+      "added_at": "2025-04-18 04:00:55",
+      "album": {
+        "name": "Headphones On",
+        "url": "https://open.spotify.com/album/7f72kJL3HyP6q6wW7Zvayn"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        }
+      ],
+      "duration_ms": 240308,
+      "name": "Headphones On",
+      "url": "https://open.spotify.com/track/1efXUbx5gsLd2sqjszBtx1"
+    },
+    {
+      "added_at": "2025-06-02 17:40:17",
+      "album": {
+        "name": "summer's scorch",
+        "url": "https://open.spotify.com/album/7yKYH2ydvNc8TwDRTXCVYf"
+      },
+      "artists": [
+        {
+          "name": "Jahnah Camille",
+          "url": "https://open.spotify.com/artist/5GDXbZvMrkJk33BqFmeXqS"
+        }
+      ],
+      "duration_ms": 175386,
+      "name": "summer's scorch",
+      "url": "https://open.spotify.com/track/7GPixB0TmbVFLIPgWrgdvM"
+    },
+    {
       "added_at": "2025-05-30 04:00:38",
       "album": {
         "name": "Until June",
@@ -153,20 +241,20 @@
       "url": "https://open.spotify.com/track/4reIkCla73IpG17FZel0Hf"
     },
     {
-      "added_at": "2025-05-30 04:00:38",
+      "added_at": "2025-05-28 19:13:09",
       "album": {
-        "name": "ber3ft",
-        "url": "https://open.spotify.com/album/4Vls2ltBHw9qeDJzap7xCs"
+        "name": "Mietzee",
+        "url": "https://open.spotify.com/album/6aPaVG3tb0UAxgzgVnIdg1"
       },
       "artists": [
         {
-          "name": "The Crying Nudes",
-          "url": "https://open.spotify.com/artist/3tM7dj8ztmzKcugbIVMxy0"
+          "name": "Mietze Conte",
+          "url": "https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN"
         }
       ],
-      "duration_ms": 97000,
-      "name": "ber3ft",
-      "url": "https://open.spotify.com/track/5HiL7kT2F6vtzGuBEhxrQc"
+      "duration_ms": 105600,
+      "name": "2000",
+      "url": "https://open.spotify.com/track/50WmaN9G4RyEo6imS11gD5"
     },
     {
       "added_at": "2025-05-22 19:27:26",
@@ -201,6 +289,22 @@
       "url": "https://open.spotify.com/track/1IPRwv7FqZvdaawA2YWCcQ"
     },
     {
+      "added_at": "2025-06-02 17:40:17",
+      "album": {
+        "name": "Just Like A Flower",
+        "url": "https://open.spotify.com/album/4dp4SVWemA8NP8fCbIWT4S"
+      },
+      "artists": [
+        {
+          "name": "Winter",
+          "url": "https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Just Like A Flower",
+      "url": "https://open.spotify.com/track/2qFNGziFVYMGFs31OqMzrs"
+    },
+    {
       "added_at": "2025-05-16 04:00:33",
       "album": {
         "name": "EPHEMERA",
@@ -221,20 +325,52 @@
       "url": "https://open.spotify.com/track/7xHap3EOHq2Qn8OQhCpfgW"
     },
     {
-      "added_at": "2025-05-28 19:13:09",
+      "added_at": "2025-05-22 19:27:26",
       "album": {
-        "name": "Mietzee",
-        "url": "https://open.spotify.com/album/6aPaVG3tb0UAxgzgVnIdg1"
+        "name": "mistake",
+        "url": "https://open.spotify.com/album/6xgMu5oVnuyL4zIemZIX6f"
       },
       "artists": [
         {
-          "name": "Mietze Conte",
-          "url": "https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN"
+          "name": "lots of hands",
+          "url": "https://open.spotify.com/artist/6sNcyjEVdNlZ0dpgr7EcT9"
         }
       ],
-      "duration_ms": 105600,
-      "name": "2000",
-      "url": "https://open.spotify.com/track/50WmaN9G4RyEo6imS11gD5"
+      "duration_ms": 165415,
+      "name": "mistake",
+      "url": "https://open.spotify.com/track/6wjznpOUm54iCCCT6Rgt6R"
+    },
+    {
+      "added_at": "2025-06-02 17:40:17",
+      "album": {
+        "name": "paper doll",
+        "url": "https://open.spotify.com/album/10F8JH1StBCcOea8iSJwhS"
+      },
+      "artists": [
+        {
+          "name": "quinnie",
+          "url": "https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e"
+        }
+      ],
+      "duration_ms": 195452,
+      "name": "paper doll",
+      "url": "https://open.spotify.com/track/6bNg1NJzBC8HErlyiCJCYV"
+    },
+    {
+      "added_at": "2025-05-30 04:00:38",
+      "album": {
+        "name": "bemused / due dilettante",
+        "url": "https://open.spotify.com/album/4WtnCpNN3rlUGfAeBDi0sI"
+      },
+      "artists": [
+        {
+          "name": "Double Virgo",
+          "url": "https://open.spotify.com/artist/6z7qEMTNZigz2k3qozRYw1"
+        }
+      ],
+      "duration_ms": 166744,
+      "name": "bemused",
+      "url": "https://open.spotify.com/track/018wrdyua60eGU0rNbOnGB"
     },
     {
       "added_at": "2025-05-23 04:00:33",
@@ -267,6 +403,22 @@
       "duration_ms": 137633,
       "name": "Rivet Gun",
       "url": "https://open.spotify.com/track/5MAJGAdzKex0Z8Po7GwS4e"
+    },
+    {
+      "added_at": "2025-05-30 04:00:38",
+      "album": {
+        "name": "ber3ft",
+        "url": "https://open.spotify.com/album/4Vls2ltBHw9qeDJzap7xCs"
+      },
+      "artists": [
+        {
+          "name": "The Crying Nudes",
+          "url": "https://open.spotify.com/artist/3tM7dj8ztmzKcugbIVMxy0"
+        }
+      ],
+      "duration_ms": 97000,
+      "name": "ber3ft",
+      "url": "https://open.spotify.com/track/5HiL7kT2F6vtzGuBEhxrQc"
     },
     {
       "added_at": "2025-05-23 04:00:33",
@@ -367,22 +519,6 @@
       "duration_ms": 134436,
       "name": "Hot like you",
       "url": "https://open.spotify.com/track/48FUVeDwsngzzJqJx4MUoo"
-    },
-    {
-      "added_at": "2025-05-22 19:27:26",
-      "album": {
-        "name": "mistake",
-        "url": "https://open.spotify.com/album/6xgMu5oVnuyL4zIemZIX6f"
-      },
-      "artists": [
-        {
-          "name": "lots of hands",
-          "url": "https://open.spotify.com/artist/6sNcyjEVdNlZ0dpgr7EcT9"
-        }
-      ],
-      "duration_ms": 165415,
-      "name": "mistake",
-      "url": "https://open.spotify.com/track/6wjznpOUm54iCCCT6Rgt6R"
     },
     {
       "added_at": "2025-05-09 04:00:06",
@@ -507,6 +643,30 @@
     {
       "added_at": "2025-05-16 04:00:33",
       "album": {
+        "name": "MAKKA",
+        "url": "https://open.spotify.com/album/6HJ61LT8zJuNdv0Va9WRjB"
+      },
+      "artists": [
+        {
+          "name": "fakemink",
+          "url": "https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi"
+        },
+        {
+          "name": "Ecco2k",
+          "url": "https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX"
+        },
+        {
+          "name": "Mechatok",
+          "url": "https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "MAKKA",
+      "url": "https://open.spotify.com/track/4JxgNwic9PMF1c87TKWZOr"
+    },
+    {
+      "added_at": "2025-05-16 04:00:33",
+      "album": {
         "name": "Al\u0113",
         "url": "https://open.spotify.com/album/7LnzOfYsMn2euc6xuZoQup"
       },
@@ -599,30 +759,6 @@
       "duration_ms": 229000,
       "name": "Amiss",
       "url": "https://open.spotify.com/track/32MdMYrvkZR0UbipORYKYZ"
-    },
-    {
-      "added_at": "2025-05-16 04:00:33",
-      "album": {
-        "name": "MAKKA",
-        "url": "https://open.spotify.com/album/6HJ61LT8zJuNdv0Va9WRjB"
-      },
-      "artists": [
-        {
-          "name": "fakemink",
-          "url": "https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi"
-        },
-        {
-          "name": "Ecco2k",
-          "url": "https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX"
-        },
-        {
-          "name": "Mechatok",
-          "url": "https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "MAKKA",
-      "url": "https://open.spotify.com/track/4JxgNwic9PMF1c87TKWZOr"
     },
     {
       "added_at": "2025-04-24 04:00:31",
@@ -913,22 +1049,6 @@
       "url": "https://open.spotify.com/track/54Z2Nr6JA67vqyNAWVYlBD"
     },
     {
-      "added_at": "2025-04-25 14:40:29",
-      "album": {
-        "name": "Your Mother's Name",
-        "url": "https://open.spotify.com/album/0oTmJI1vJfW5D7zH9fGByM"
-      },
-      "artists": [
-        {
-          "name": "Susannah Joffe",
-          "url": "https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw"
-        }
-      ],
-      "duration_ms": 139086,
-      "name": "Die Your Daughter",
-      "url": "https://open.spotify.com/track/5Ey7icpjKCGpi5oJi7VLdu"
-    },
-    {
       "added_at": "2025-05-09 04:00:06",
       "album": {
         "name": "MiCHOU's DREAM",
@@ -1041,38 +1161,6 @@
       "url": "https://open.spotify.com/track/72CUf7pWNkykpZ5dUxdGlb"
     },
     {
-      "added_at": "2025-02-19 18:18:49",
-      "album": {
-        "name": "how i'm feeling now",
-        "url": "https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 296653,
-      "name": "party 4 u",
-      "url": "https://open.spotify.com/track/2RdEC8Ff83WkX7kDVCHseE"
-    },
-    {
-      "added_at": "2025-04-18 04:00:55",
-      "album": {
-        "name": "Headphones On",
-        "url": "https://open.spotify.com/album/7f72kJL3HyP6q6wW7Zvayn"
-      },
-      "artists": [
-        {
-          "name": "Addison Rae",
-          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
-        }
-      ],
-      "duration_ms": 240308,
-      "name": "Headphones On",
-      "url": "https://open.spotify.com/track/1efXUbx5gsLd2sqjszBtx1"
-    },
-    {
       "added_at": "2025-04-10 18:29:03",
       "album": {
         "name": "star",
@@ -1103,22 +1191,6 @@
       "duration_ms": 349693,
       "name": "oh baby",
       "url": "https://open.spotify.com/track/53PkA8aXiwH4ppa0V0iO7o"
-    },
-    {
-      "added_at": "2025-05-09 04:00:06",
-      "album": {
-        "name": "Carry",
-        "url": "https://open.spotify.com/album/4txYl62JMKbfebXkFSHyRh"
-      },
-      "artists": [
-        {
-          "name": "Dylan Thom",
-          "url": "https://open.spotify.com/artist/75hZOSuF07weHxVJkg60WW"
-        }
-      ],
-      "duration_ms": 193037,
-      "name": "Carry",
-      "url": "https://open.spotify.com/track/6YFvQyTMGJqH9rzcLFkwmb"
     },
     {
       "added_at": "2024-11-13 18:49:27",
@@ -1191,22 +1263,6 @@
       "duration_ms": 166666,
       "name": "pretty",
       "url": "https://open.spotify.com/track/154zZbZJdhfdxKMYhnQUvq"
-    },
-    {
-      "added_at": "2025-05-02 04:18:20",
-      "album": {
-        "name": "Beast",
-        "url": "https://open.spotify.com/album/4nZiCrW1ycZz1Av1EdpUFR"
-      },
-      "artists": [
-        {
-          "name": "Witch Post",
-          "url": "https://open.spotify.com/artist/4TBDzXf9NfvFpqLOAodNYQ"
-        }
-      ],
-      "duration_ms": 232602,
-      "name": "Spell",
-      "url": "https://open.spotify.com/track/1tUbPtGxCZT7zoH2dIAo4Z"
     },
     {
       "added_at": "2025-04-25 21:28:01",
@@ -1747,22 +1803,6 @@
       "duration_ms": 123962,
       "name": "I'm Not Them",
       "url": "https://open.spotify.com/track/79ddfmePpbSFnMgeY4vXhC"
-    },
-    {
-      "added_at": "2025-04-02 16:37:14",
-      "album": {
-        "name": "WRONG BALLOON",
-        "url": "https://open.spotify.com/album/15x3ySOZ2wxq5WsnlqPUZn"
-      },
-      "artists": [
-        {
-          "name": "Kellan Christopher Cragg",
-          "url": "https://open.spotify.com/artist/31ukhOt5qC5evJZZgopJuq"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "I REMEMBER WHEN I WOKE UP",
-      "url": "https://open.spotify.com/track/33QbyrTLRtBxgMzuNQsW5P"
     },
     {
       "added_at": "2025-04-01 17:09:16",

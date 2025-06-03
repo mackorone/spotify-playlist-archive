@@ -2,9 +2,9 @@
 
 ### [Hot Hits Česká republika](https://open.spotify.com/playlist/37i9dQZF1DX1kQODfnjf4u)
 
-> 50 nejžhavějších hitů v České republice\. Cover: Ben Cristovao, Sofian Medjmedj
+> 50 nejžhavějších hitů v České republice\. Cover: Ewa Farna
 
-127 songs - 6 hr 18 min
+128 songs - 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,12 +96,13 @@
 | [poslední song](https://open.spotify.com/track/074oGai805UftJ82oxSycM) | [Sofian Medjmedj](https://open.spotify.com/artist/2ZHJEckf6HJXMSuD2icSSW) | [poslední song](https://open.spotify.com/album/5HUS08gldCe19URgNHwlEF) | 3:24 | 2024-10-28 | 2024-12-17 |
 | [Prada](https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i) | [cassö](https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Prada](https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc) | 2:12 | 2024-07-01 | 2024-11-13 |
 | [Pro štěstí](https://open.spotify.com/track/6KrZjI3fqzqctnmO0MjC4d) | [Ektor](https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF) | [Pro štěstí](https://open.spotify.com/album/0PjQfJtve9FGWFyVwaGKL2) | 2:47 | 2024-11-04 |  |
+| [PTSD](https://open.spotify.com/track/3okMwMS8V4STgRha2KT4Kz) | [Ektor](https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF) | [PTSD](https://open.spotify.com/album/1bKLXiByaeLjSj8AjfMO75) | 2:36 | 2025-06-02 |  |
 | [Pussy Power \(feat\. Porsche Boy\)](https://open.spotify.com/track/7vdva8hlSprUQjNNuw0PJC) | [SIMILIVINLIFE](https://open.spotify.com/artist/1jHpBumJuu1B6LCJQVh49x), [Porsche Boy](https://open.spotify.com/artist/4aQh3DGBy4kwn7QnYTR4KH) | [DVOJBODKAHVIEZDIČKA](https://open.spotify.com/album/5ZO9skyaJfbTUwr6M0Fwt4) | 2:59 | 2024-07-01 | 2025-02-11 |
 | [Převlečená žízeň](https://open.spotify.com/track/71oYEUUlOT1ANUqHei1dKO) | [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [Impostor syndrom](https://open.spotify.com/album/6NjCnjFq87vgaBvE327NUy) | 2:53 | 2024-11-11 | 2025-01-28 |
 | [RATHER LIE \(with The Weeknd\)](https://open.spotify.com/track/68qeaZhtMZ6abrJCYt6nQn) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:29 | 2025-03-17 | 2025-04-01 |
 | [Rest In Piss](https://open.spotify.com/track/237OELq03CgubC3t7LwvUq) | [Dollar Prync](https://open.spotify.com/artist/3qoxj1cR3W3crV51Wg38Ux) | [Rest In Piss](https://open.spotify.com/album/24nAN0gQnSpP1nLz0mfH5I) | 2:31 | 2024-09-16 | 2025-05-06 |
 | [Safír](https://open.spotify.com/track/1tpWtFdAuY9chjl5YhzsTP) | [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd), [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [ROADTRIP](https://open.spotify.com/album/7urc9xduLqYClz4nNzQQhc) | 2:29 | 2024-07-01 | 2024-08-07 |
-| [Sailor Song](https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e) | 3:31 | 2024-10-07 |  |
+| [Sailor Song](https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e) | 3:31 | 2024-10-07 | 2025-06-03 |
 | [Sezóna](https://open.spotify.com/track/6xf7MCdEyF6idcpkrHzQgI) | [Robin Zoot](https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh), [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [Sezóna](https://open.spotify.com/album/5BRT0G9pSQVC36GDerQjzk) | 3:10 | 2025-05-29 |  |
 | [Show Me Love](https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Show Me Love](https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6) | 2:56 | 2025-05-05 |  |
 | [Silnej hlad](https://open.spotify.com/track/6pLvqvjAQG9kXpKgGCFbgd) | [Dorian](https://open.spotify.com/artist/2vMxLcwqHKxvVdBtKRpyUY), [Lboy Bsc](https://open.spotify.com/artist/7HjHXYRxGom5mjP1lHKHW2) | [Drive By](https://open.spotify.com/album/5VO7ksbvagitZYZArtxl33) | 2:47 | 2025-03-10 |  |

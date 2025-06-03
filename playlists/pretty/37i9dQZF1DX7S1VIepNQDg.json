@@ -1,6 +1,6 @@
 {
   "description": "Got that summertime feeling \ud83c\udf34",
-  "num_followers": 18,
+  "num_followers": 17,
   "original_name": "Pool Party",
   "owner": {
     "name": "Spotify",
@@ -571,6 +571,22 @@
     {
       "added_at": "2023-12-19 09:07:27",
       "album": {
+        "name": "DRUMMER",
+        "url": "https://open.spotify.com/album/09YYQq1yP55sRzmWosI10f"
+      },
+      "artists": [
+        {
+          "name": "G Flip",
+          "url": "https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU"
+        }
+      ],
+      "duration_ms": 182516,
+      "name": "Good Enough",
+      "url": "https://open.spotify.com/track/4ip14QnIGPERqjdiDqU6a0"
+    },
+    {
+      "added_at": "2023-12-19 09:07:27",
+      "album": {
         "name": "STILL EMO",
         "url": "https://open.spotify.com/album/74LSOp5FSRJFoMMhLpltKz"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 141780,
       "name": "Be Somebody (feat. Tkay Maidza)",
       "url": "https://open.spotify.com/track/3gYy3nywL9QXjYWaMpeHFC"
-    },
-    {
-      "added_at": "2023-12-19 09:07:27",
-      "album": {
-        "name": "DRUMMER",
-        "url": "https://open.spotify.com/album/09YYQq1yP55sRzmWosI10f"
-      },
-      "artists": [
-        {
-          "name": "G Flip",
-          "url": "https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU"
-        }
-      ],
-      "duration_ms": 182516,
-      "name": "Good Enough",
-      "url": "https://open.spotify.com/track/4ip14QnIGPERqjdiDqU6a0"
     },
     {
       "added_at": "2023-12-19 09:07:27",
@@ -1271,26 +1271,6 @@
     {
       "added_at": "2023-12-19 09:07:27",
       "album": {
-        "name": "Nostalgia (feat. Little Green)",
-        "url": "https://open.spotify.com/album/2XvL2rUofsY9xaXN2D4VwW"
-      },
-      "artists": [
-        {
-          "name": "SLUMBERJACK",
-          "url": "https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS"
-        },
-        {
-          "name": "Little Green",
-          "url": "https://open.spotify.com/artist/0Kcz7AMOkHHye7xhLJUWTy"
-        }
-      ],
-      "duration_ms": 163809,
-      "name": "Nostalgia (feat. Little Green)",
-      "url": "https://open.spotify.com/track/3VP9aycULSUnBqGN5ThCXT"
-    },
-    {
-      "added_at": "2023-12-19 09:07:27",
-      "album": {
         "name": "Coup De Gr\u00e2ce",
         "url": "https://open.spotify.com/album/4GvPcGCszmbP3xzIx0ENcx"
       },
@@ -1307,6 +1287,26 @@
       "duration_ms": 223908,
       "name": "Coup De Gr\u00e2ce",
       "url": "https://open.spotify.com/track/49taD9wqpnNwqy3dNab8m7"
+    },
+    {
+      "added_at": "2023-12-19 09:07:27",
+      "album": {
+        "name": "Nostalgia (feat. Little Green)",
+        "url": "https://open.spotify.com/album/2XvL2rUofsY9xaXN2D4VwW"
+      },
+      "artists": [
+        {
+          "name": "SLUMBERJACK",
+          "url": "https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS"
+        },
+        {
+          "name": "Little Green",
+          "url": "https://open.spotify.com/artist/0Kcz7AMOkHHye7xhLJUWTy"
+        }
+      ],
+      "duration_ms": 163809,
+      "name": "Nostalgia (feat. Little Green)",
+      "url": "https://open.spotify.com/track/3VP9aycULSUnBqGN5ThCXT"
     },
     {
       "added_at": "2023-12-19 09:07:27",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: 原子邦妮 \(Astro Bunny\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,815 likes - 126 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,817 likes - 126 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

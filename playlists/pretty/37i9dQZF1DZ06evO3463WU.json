@@ -1,12 +1,12 @@
 {
   "description": "This is Pancho Barraza. The essential tracks, all in one playlist.",
-  "num_followers": 153878,
+  "num_followers": 153898,
   "original_name": "This Is Pancho Barraza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDpGgAAAAADJQKHuLG88LGZYB1NecUtl",
+  "snapshot_id": "aDuYAAAAAACbKpJ/jJM7bFcpBlqIolm9",
   "tracks": [
     {
       "added_at": null,
@@ -775,18 +775,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vuelve Por Favor",
-        "url": "https://open.spotify.com/album/1yAwz5raSrm3gda3WIIyBC"
+        "name": "Pero La Recuerdo",
+        "url": "https://open.spotify.com/album/4DyzbrPk5fhYt9vqzCSDWG"
       },
       "artists": [
+        {
+          "name": "Super Lamas",
+          "url": "https://open.spotify.com/artist/0A8eZ8ou3msWR8xVkJOFXe"
+        },
         {
           "name": "Pancho Barraza",
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         }
       ],
-      "duration_ms": 157605,
-      "name": "Arr\u00e1ncame La Vida",
-      "url": "https://open.spotify.com/track/6xxPw0GEudMMCUKqmvdTCW"
+      "duration_ms": 225653,
+      "name": "Pero La Recuerdo",
+      "url": "https://open.spotify.com/track/7l2k7zrU50Xhc6yIps4Brq"
     },
     {
       "added_at": null,
@@ -811,22 +815,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pero La Recuerdo",
-        "url": "https://open.spotify.com/album/4DyzbrPk5fhYt9vqzCSDWG"
+        "name": "Vuelve Por Favor",
+        "url": "https://open.spotify.com/album/1yAwz5raSrm3gda3WIIyBC"
       },
       "artists": [
-        {
-          "name": "Super Lamas",
-          "url": "https://open.spotify.com/artist/0A8eZ8ou3msWR8xVkJOFXe"
-        },
         {
           "name": "Pancho Barraza",
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         }
       ],
-      "duration_ms": 225653,
-      "name": "Pero La Recuerdo",
-      "url": "https://open.spotify.com/track/7l2k7zrU50Xhc6yIps4Brq"
+      "duration_ms": 157605,
+      "name": "Arr\u00e1ncame La Vida",
+      "url": "https://open.spotify.com/track/6xxPw0GEudMMCUKqmvdTCW"
     },
     {
       "added_at": null,

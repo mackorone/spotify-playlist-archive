@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Nordics](https://open.spotify.com/playlist/37i9dQZF1DX2gIolsgpyjq)
 
-> Celebrating 10 years of Fresh Finds! The best new music by independent artists in the Nordics\. Cover: Dione
+> Fresh Finds Nordics x STHLMFW! See Dione perform at Space By on June 3rd!
 
 1,106 songs - 2 day 10 hr 13 min
 

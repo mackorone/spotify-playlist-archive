@@ -1,12 +1,12 @@
 {
   "description": "This is Manuel Medrano. The essential tracks, all in one playlist.",
-  "num_followers": 177905,
+  "num_followers": 178004,
   "original_name": "This Is Manuel Medrano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDpGgAAAAAA4b3Ww5ACZ53coM3GJr0S2",
+  "snapshot_id": "aDuYAAAAAAA8rZ5DeUnqXC0qPmJQgEoF",
   "tracks": [
     {
       "added_at": null,
@@ -847,6 +847,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mariposas En El Pecho",
+        "url": "https://open.spotify.com/album/4G7lZH7HqircGRaCDXwV0U"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Mariposas En El Pecho",
+      "url": "https://open.spotify.com/track/02VWAshhgMhK8gEqwbOWyy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Polvo De Estrellas",
         "url": "https://open.spotify.com/album/1yBh12xHy3FXpXvQvRwadu"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 303990,
       "name": "Bajo El Agua - En Vivo Desde El Auditorio Nacional",
       "url": "https://open.spotify.com/track/2TVT8FvCDThfpD4dW9cziC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mariposas En El Pecho",
-        "url": "https://open.spotify.com/album/4G7lZH7HqircGRaCDXwV0U"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Mariposas En El Pecho",
-      "url": "https://open.spotify.com/track/02VWAshhgMhK8gEqwbOWyy"
     },
     {
       "added_at": null,

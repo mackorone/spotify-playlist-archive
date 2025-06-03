@@ -45,6 +45,32 @@
     },
     {
       "album": {
+        "name": "FYI (For Your Information)",
+        "url": "https://open.spotify.com/album/5vIvwhpEXU5SeIFhNM9phf"
+      },
+      "artists": [
+        {
+          "name": "Jordan Sandhu",
+          "url": "https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv"
+        },
+        {
+          "name": "Gur Sidhu",
+          "url": "https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5"
+        },
+        {
+          "name": "Kaptaan",
+          "url": "https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb"
+        }
+      ],
+      "date_added": "2025-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "100k",
+      "url": "https://open.spotify.com/track/3l4nfzAvE5k2gmYKDCrZbI"
+    },
+    {
+      "album": {
         "name": "12 Bande",
         "url": "https://open.spotify.com/album/77Yf6yctxLgelDYlLk9k1u"
       },
@@ -4530,7 +4556,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 262247,
       "name": "The Last Ride",
       "url": "https://open.spotify.com/track/7B4uYqxTpTOS1sgxFB9Ann"
@@ -4556,6 +4582,32 @@
       "duration_ms": 127286,
       "name": "Thumke 100",
       "url": "https://open.spotify.com/track/6DC287c6vu72O9PeHSxqek"
+    },
+    {
+      "album": {
+        "name": "Time Is Money",
+        "url": "https://open.spotify.com/album/6kJgtWHygct1bH5kGEJPFQ"
+      },
+      "artists": [
+        {
+          "name": "Parmish Verma",
+          "url": "https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE"
+        },
+        {
+          "name": "Laddi Chahal",
+          "url": "https://open.spotify.com/artist/3lmszXxkp47K9kDCRRPU8p"
+        },
+        {
+          "name": "Black Virus",
+          "url": "https://open.spotify.com/artist/3baDngVJ6Eof0PzTWf42lU"
+        }
+      ],
+      "date_added": "2025-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126060,
+      "name": "Time Is Money",
+      "url": "https://open.spotify.com/track/2qfgB5I2DCpnFLUIcNPTNR"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 
 > Damso au top de la première playlist de rap français.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,576,115 likes - 40 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,576,412 likes - 40 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 | 39 | [02:00](https://open.spotify.com/track/62L3acprR92NoRib0zWigG) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [JVLIVS III : Ad Finem](https://open.spotify.com/album/6pWHaxvJmknxpUnWh6TcaJ) | 3:17 |
 | 40 | [Boîte noire](https://open.spotify.com/track/4JWfNhdM9tl2i7W866sS8x) | [Boîte noire](https://open.spotify.com/artist/1oFhTipr8Uv7k0NZsD4K91), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Boîte noire](https://open.spotify.com/album/7lFMxjgBEjILjtxBYLpiiT) | 2:12 |
 
-Snapshot ID: `AAAAADjvT39UoCMnycIekdmB0kF6rvRb`
+Snapshot ID: `aDjZLQAAAAARy8aUGNPRNNkaWeZvMtDw`

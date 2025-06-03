@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125286,
+  "num_followers": 125290,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUJT4dtbWrAIcGmi2WxYzzC6t03i0j",
+  "snapshot_id": "AAAUJs0Xo2XEqCxwkCzGxz9SW5gXEo/Z",
   "tracks": [
+    {
+      "added_at": "2025-06-02 14:38:51",
+      "album": {
+        "name": "Street Level / Listen Up",
+        "url": "https://open.spotify.com/album/2nX6zYHBUXbfDYAdBoaRLy"
+      },
+      "artists": [
+        {
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+        }
+      ],
+      "duration_ms": 179106,
+      "name": "Street Level",
+      "url": "https://open.spotify.com/track/38A8wAKWmyndvOHxdYh8lE"
+    },
     {
       "added_at": "2025-05-30 15:05:55",
       "album": {

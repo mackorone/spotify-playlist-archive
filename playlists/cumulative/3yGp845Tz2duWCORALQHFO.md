@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-3,033 songs - 6 day 20 hr 44 min
+3,034 songs - 6 day 20 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -876,6 +876,7 @@
 | [Feels Like a Dream](https://open.spotify.com/track/2849YkLvjJuUVlAhz5Zqf5) | [Synthian](https://open.spotify.com/artist/0izY7YCgRxlq1uxNaH3HwZ) | [Feels Like a Dream](https://open.spotify.com/album/0DeXejUkBCV4zEBUtmWQ9U) | 3:56 | 2024-07-19 | 2024-08-02 |
 | [Feels Like Home](https://open.spotify.com/track/0ayCxRghUvjzW7plaOKict) | [Mark Vox](https://open.spotify.com/artist/5MeDekmzOYzHmRJS1159YL) | [Feels Like Home](https://open.spotify.com/album/2a0mkYawDcl1S9qj73gdoE) | 2:46 | 2025-02-13 | 2025-03-01 |
 | [Feels Like Home](https://open.spotify.com/track/3O20jGSj87m5hSHoQHXfLv) | [Meck](https://open.spotify.com/artist/6CisEcpNg7X1sXXhLoMIp4), [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Feels Like Home](https://open.spotify.com/album/5Ial6y6kKXySRzUKBXOSGa) | 3:35 | 2024-12-13 | 2024-12-19 |
+| [Fight the Dark](https://open.spotify.com/track/61AMpQIi9N3WUueGcoESHg) | [H\-Tech](https://open.spotify.com/artist/7wt6rKGKpEdy9H5lYArhfG) | [Fight the Dark](https://open.spotify.com/album/4GTPSnuPGbC7x9DfMO5hCe) | 3:55 | 2025-06-02 |  |
 | [Final Breath \(feat\. A Little Sound\)](https://open.spotify.com/track/6MsRiMOUU8GDu0ln6MGD0F) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [A Little Sound](https://open.spotify.com/artist/1Jv2F8VFJsSr2XKte0vpbQ) | [Fibonacci Pt 1: Oblivion](https://open.spotify.com/album/4Ou53cCMdT8DPtVqcAHd7k) | 3:49 | 2025-04-08 | 2025-04-12 |
 | [Final Call](https://open.spotify.com/track/79OlaXxTge9eY0eizS7iyj) | [Sikdope](https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG) | [Final Call](https://open.spotify.com/album/0wHj1mBDEGQVFbkjD7lXnk) | 2:31 | 2025-02-06 | 2025-02-11 |
 | [Final Destination](https://open.spotify.com/track/38jyOQwBeuYFJnTVdhGu38) | [Tensteps](https://open.spotify.com/artist/7gIEIIwEUPxZmScP2JCkPU) | [Final Destination](https://open.spotify.com/album/6ls5ki48A277qGM8VJpO8F) | 2:32 | 2024-06-13 | 2024-06-17 |

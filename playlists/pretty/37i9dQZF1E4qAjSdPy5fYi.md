@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4qAjSdPy5fYi.md) - [plain]
 
 > With Joshua Lanuarii, glitterpop!, UrvTek and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 583 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 584 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4qAjSdPy5fYi.md) - [plain]
 | 49 | [mango girl](https://open.spotify.com/track/5ep9A7M2LHIQxMCngAO83H) | [Draffish](https://open.spotify.com/artist/0q2jrVdnsi8XIYgr532dSP), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [wish](https://open.spotify.com/album/1S9ik9FsIIsR0Ayt8lSAWg) | 1:27 |
 | 50 | [WAG UR TAIL 2 THIS! \(PAWS UP ON THE DANCEFLOOR!\)](https://open.spotify.com/track/27Ia129EFB9zrcp2VgaEs0) | [glitterpop!](https://open.spotify.com/artist/1QA3mUn9XkVeSoNgWdqZ40) | [GLITTER IN THE BIG CITY!](https://open.spotify.com/album/3caKl4lh0NPHT3YwOW5jT9) | 4:34 |
 
-Snapshot ID: `aD0a9gAAAADLMPwAnoHlhu2Umg+6ADnl`
+Snapshot ID: `aD5sCQAAAADL0Jz1djc8regFkjcYjCKy`

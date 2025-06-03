@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-05",
-  "description": "The exciting new music on our radar in the Middle East and North Africa.  Cover: Kawtar",
+  "description": "The exciting new music on our radar in the Middle East and North Africa.  Cover: Nasser",
   "name": "RADAR ARABIA",
   "tracks": [
     {
@@ -1376,6 +1376,32 @@
       "duration_ms": 160004,
       "name": "LEH",
       "url": "https://open.spotify.com/track/3S2UO7Oy97Zibylp8rMQuR"
+    },
+    {
+      "album": {
+        "name": "Limites",
+        "url": "https://open.spotify.com/album/1oLQ0QuxUPXkwDvgS54P8I"
+      },
+      "artists": [
+        {
+          "name": "ZAKLOOW",
+          "url": "https://open.spotify.com/artist/1YXtbOgnaz82aSuMnWSukx"
+        },
+        {
+          "name": "KALIL",
+          "url": "https://open.spotify.com/artist/2dvRuyAsoUIYUNKnP2miWR"
+        },
+        {
+          "name": "777YM",
+          "url": "https://open.spotify.com/artist/0RM7X5kb4RzuDItJhqy3A1"
+        }
+      ],
+      "date_added": "2025-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196030,
+      "name": "Limites",
+      "url": "https://open.spotify.com/track/6RpulWynN6H9WFZ43zYW70"
     },
     {
       "album": {

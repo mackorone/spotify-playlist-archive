@@ -4,7 +4,7 @@
 
 > Today's top country music!
 
-229 songs - 12 hr 23 min
+233 songs - 12 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,10 +34,12 @@
 | [Bigger Houses](https://open.spotify.com/track/021oE3KXSweagIO0HsgzcI) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Save Me The Trouble, Heartbreak On The Map, Bigger Houses](https://open.spotify.com/album/0k3Twwed7AzLrgaKywvQWF) | 3:17 | 2023-12-08 | 2024-11-02 |
 | [BLACKBIIRD](https://open.spotify.com/track/7eEr7lgWYudwEKEaWCPiPI) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8), [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3), [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1), [Reyna Roberts](https://open.spotify.com/artist/4jpqm8g4We93Uk6M9M4FDh) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 2:11 | 2024-06-05 | 2024-11-02 |
 | [BLAME](https://open.spotify.com/track/6krhdjLqzCefSnaGgUidUq) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1) | [BLAME](https://open.spotify.com/album/5oHs5oH2fx8YWh4JMgfNug) | 2:42 | 2024-09-14 |  |
+| [Bloodline \(with Jelly Roll\)](https://open.spotify.com/track/0qmhTHMVxnXRmT5N92wTD9) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Bloodline \(with Jelly Roll\)](https://open.spotify.com/album/2KoAn4MyptQWG1qBx7mu01) | 3:02 | 2025-06-02 |  |
 | [Blue Jean Baby](https://open.spotify.com/track/3yDi4w5cuQQEpQXrozMW2B) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Blue Jean Baby](https://open.spotify.com/album/0atPqRDsFXU3wDVsptJVIs) | 2:12 | 2025-02-04 |  |
 | [Blue Strips](https://open.spotify.com/track/7u7IqryLFAygWFz6bsEB7y) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Blue Strips](https://open.spotify.com/album/38Vd2K3RytxtNWLE5aU2VR) | 2:27 | 2025-05-05 |  |
 | [Boots Don't](https://open.spotify.com/track/0MZ7Qj5BoJNTsFYDLPufVt) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Twisters: The Album](https://open.spotify.com/album/2Z3lIfc06B7YV1ZN9oZCdS) | 2:28 | 2024-07-22 | 2024-11-02 |
 | [Born](https://open.spotify.com/track/4WqPljx2MjzICrxJjnuiZB) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Born](https://open.spotify.com/album/2Hg5u4WLNI85GHVISRXMna) | 4:12 | 2024-03-22 | 2025-05-06 |
+| [Bottom Of It](https://open.spotify.com/track/6q4TIe9sV117tVe9yIhMIK) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Bottom Of It](https://open.spotify.com/album/2EyPgamG50VNLOgAot4T95) | 2:54 | 2025-06-02 |  |
 | [Brunette](https://open.spotify.com/track/21T9HvQ0KUWFDum6P1Qc7i) | [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [What Not To](https://open.spotify.com/album/7IEXNrjznoPOllZ2TusbIl) | 2:19 | 2025-04-30 |  |
 | [Bulletproof](https://open.spotify.com/track/6VpH2prT3NGiK5pnpG2L3J) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Bulletproof](https://open.spotify.com/album/3ooWwlDKWfaVMx9kumptgg) | 3:03 | 2024-02-09 | 2024-07-23 |
 | [Bye Bye Bye](https://open.spotify.com/track/7Izl4h5dmmcfZiWp75nPeA) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now? \(Deluxe\)](https://open.spotify.com/album/1BLiY39zlAqsAOslJFUWn6) | 2:29 | 2024-09-14 |  |
@@ -74,6 +76,7 @@
 | [Fortune Teller](https://open.spotify.com/track/1TL5cJiLOfownWuk1zAaCZ) | [Rett Madison](https://open.spotify.com/artist/2uvAzG565dP2oXartAqh1F) | [Fortune Teller](https://open.spotify.com/album/565wVr2IzizcdAcnSjYRmK) | 3:33 | 2023-12-08 | 2024-01-13 |
 | [Friends](https://open.spotify.com/track/7yZxBR1o5HBbS40fV9KlWh) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [Friends](https://open.spotify.com/album/0Yp9phFkGNlasyazgx0EXo) | 3:26 | 2023-12-08 | 2024-02-03 |
 | [Friends Like That](https://open.spotify.com/track/1WFgLLJKxJMRHQk9qnwxaZ) | [John Morgan](https://open.spotify.com/artist/7FetIwKD9uIJFiUwdHfq6g) | [Friends Like That](https://open.spotify.com/album/182KWLgpOndmV1VwYvUbAF) | 3:06 | 2023-12-08 | 2024-03-02 |
+| [Gasoline & Matches](https://open.spotify.com/track/0xii687ClH6fEvkLJfFAgQ) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Gasoline & Matches](https://open.spotify.com/album/42vPgsTXxfdGBMO8uRu933) | 2:51 | 2025-06-02 |  |
 | [Girl In Green](https://open.spotify.com/track/3r5dLsCxsir9EIzl5NtMZB) | [Maddox Batson](https://open.spotify.com/artist/6vJSPd6G272bUvUAisTCvd) | [First Dance](https://open.spotify.com/album/7N11EFT1PaUGiaNrzFGezt) | 2:11 | 2025-03-25 |  |
 | [GOD & GUNS N’ ROSES](https://open.spotify.com/track/0ryWwDkI0VcjMYJBrN9Fir) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [GOD & GUNS N’ ROSES](https://open.spotify.com/album/5bnproodqEP0tHybDjDF72) | 3:36 | 2025-04-23 |  |
 | [Good News](https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Good News](https://open.spotify.com/album/7cBvtedB1E62VoOdnGx51w) | 3:19 | 2024-12-17 |  |
@@ -144,6 +147,7 @@
 | [Miss Summer](https://open.spotify.com/track/402L1iawY3D4ZQjPiHT38e) | [Redferrin](https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF) | [Miss Summer](https://open.spotify.com/album/5txjDzcOmllhkmG4KUjFYi) | 2:31 | 2023-12-08 | 2025-03-20 |
 | [More Like It](https://open.spotify.com/track/1Dq9cGDFTI8zmIe0DkvF4D) | [Savannah Jade](https://open.spotify.com/artist/26QKf6FL7JcSuAkoos1WW5) | [More Like It](https://open.spotify.com/album/4nodV56I3VWLryQGKJoN4A) | 3:02 | 2025-01-18 |  |
 | [MORE THAN A PRAYER](https://open.spotify.com/track/30hhkjL3FB3Y2BoWsn1oGo) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [MORE THAN A PRAYER](https://open.spotify.com/album/3REJ10imAC6BnIihUhwTyO) | 2:44 | 2024-07-22 |  |
+| [Morning Bail](https://open.spotify.com/track/6022l4GXAIdnm19XAY29Oq) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y) | [Morning Bail](https://open.spotify.com/album/1YlVSUkQkPwIhAzXG8o2TJ) | 2:54 | 2025-06-02 |  |
 | [Mr\. Predictable](https://open.spotify.com/track/4fpf5WsrRHR38hMgqGbqhG) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Mr\. Predictable](https://open.spotify.com/album/22v4TOSJFegBKWAWg3BtKv) | 3:21 | 2025-03-19 |  |
 | [Muddy Water Rockstar](https://open.spotify.com/track/0c7q7lZtMhZRorMojoxS5k) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Muddy Water Rockstar](https://open.spotify.com/album/0UPlIhD8KDe0cxT3J15OKT) | 2:32 | 2023-12-08 | 2024-01-20 |
 | [Need To](https://open.spotify.com/track/02JME7zoJ1EYMYBJAg4TMN) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y) | [Need To](https://open.spotify.com/album/2DiBmctgRw3Zds6c9lNF06) | 3:09 | 2025-03-19 |  |

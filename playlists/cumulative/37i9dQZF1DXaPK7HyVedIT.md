@@ -4,7 +4,7 @@
 
 > Eletrônico do momento para curtir onde estiver\. Foto: KVSH, Future Skies
 
-624 songs - 1 day 10 hr 26 min
+625 songs - 1 day 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -510,6 +510,7 @@
 | [Senta E Se Tranquiliza \(feat\. Yuri Redicopa\)](https://open.spotify.com/track/7an9cY15F91ocTE0BLIbxe) | [Malifoo](https://open.spotify.com/artist/6Mt8or6ZkKPJSSECpY7Pu5), [Yuri Redicopa](https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm) | [Senta E Se Tranquiliza \(feat\. Yuri Redicopa\)](https://open.spotify.com/album/16hemCAnmLLrxLRCXW2BjI) | 2:58 | 2023-12-08 | 2024-01-20 |
 | [SERENA](https://open.spotify.com/track/7CMbrJI8moL6TOzmad5SPj) | [RUBACK](https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg), [Amesens](https://open.spotify.com/artist/10fNI7PF4BbCeORkKdjRrN) | [SERENA](https://open.spotify.com/album/59B2uh9brmSmphZ9G1DZfC) | 4:25 | 2024-06-28 | 2024-10-12 |
 | [Set Me Free](https://open.spotify.com/track/7oFzMQrHRCHRh6FJrqWu1o) | [Santti](https://open.spotify.com/artist/7e6KqpXfInWHjdQufAnsyj) | [Set Me Free](https://open.spotify.com/album/0qqLMHnAKf0J8ezBVcMkh8) | 3:29 | 2024-12-13 | 2025-04-05 |
+| [Seu Axé \(feat\. Faustão\) \- Bernardo Pinheiro Remix](https://open.spotify.com/track/1iUPw9phLqKfZ8yfosPBX2) | [Processman](https://open.spotify.com/artist/3uxDCjxvaZzVs1BJQJk38I), [Faustão](https://open.spotify.com/artist/6MEbxSj9vMnCrXixLDRLu0), [Bernardo Pinheiro](https://open.spotify.com/artist/1RCa64QOSSkDgPq7aoPTmB) | [B Sides](https://open.spotify.com/album/4Z6NrLpGIKuBoaVtFybYZM) | 6:32 | 2025-06-02 |  |
 | [She Calls Me Love \- Steve Aoki Remix](https://open.spotify.com/track/0deDBJXbids6gfrg47mOLX) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Banda AL9](https://open.spotify.com/artist/1IbLVq7OjqcArp3TkgfaOX) | [Chama De Amor / She Calls Me Love](https://open.spotify.com/album/7xNlHZh0QVYpw5C2gY9u9b) | 2:52 | 2024-03-22 | 2024-04-06 |
 | [She The Last One](https://open.spotify.com/track/1OGikFMQXWG41hK6QWIGjK) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [She The Last One](https://open.spotify.com/album/1FCDz3JcIg62PMInMhubHQ) | 3:22 | 2025-01-17 | 2025-04-12 |
 | [Shingaling Shingaling](https://open.spotify.com/track/7mMgH7AulApCvRqiMtVuBS) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady) | [Shingaling Shingaling](https://open.spotify.com/album/2djHqWUscYXsPqrEugmx8w) | 2:52 | 2024-01-26 | 2024-02-03 |

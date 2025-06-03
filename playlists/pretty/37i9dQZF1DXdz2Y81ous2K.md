@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdz2Y81ous2K.md) - [plain]
 
 > The iconic anime composer shares his favorite tracks and musical inspirations ahead of the 2025 Anime Awards.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,947 likes - 25 songs - 1 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,965 likes - 25 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdz2Y81ous2K.md) - [plain]
 | 24 | [Lilith \(feat\. SUGA of BTS\) \(Diablo IV Anthem\)](https://open.spotify.com/track/3l6LBCOL9nPsSY29TUY2VE) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [Lilith \(feat\. SUGA of BTS\) \(Diablo IV Anthem\)](https://open.spotify.com/album/3jN1Hlw2BsZZJigsA2kgBA) | 3:00 |
 | 25 | [Fall On Me \- From Disney's "The Nutcracker And The Four Realms" / English Version](https://open.spotify.com/track/6eZepRfg201eTOlbire06i) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w) | [Fall On Me \(From Disney's "The Nutcracker And The Four Realms"\)](https://open.spotify.com/album/1uJ2clTZqBBtpINfeG5Yet) | 4:18 |
 
-Snapshot ID: `Z+GPnQAAAAAUhR+THNkgadCFgpZxHS2m`
+Snapshot ID: `Z+GPnQAAAAAfhceD54YxkuN7BhWJuBGf`

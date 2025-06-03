@@ -1835,6 +1835,24 @@
     },
     {
       "album": {
+        "name": "Ancients / It's Starting",
+        "url": "https://open.spotify.com/album/0Lom6x0ksjYsj2edO7rNHQ"
+      },
+      "artists": [
+        {
+          "name": "RIO KOSTA",
+          "url": "https://open.spotify.com/artist/4xU7M9wEvpnvkNOyPdVi5y"
+        }
+      ],
+      "date_added": "2025-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239214,
+      "name": "Ancients",
+      "url": "https://open.spotify.com/track/4iHdC0BfZKWGcynFUbY5YK"
+    },
+    {
+      "album": {
         "name": "Andere Stadt",
         "url": "https://open.spotify.com/album/0ZnscXjJpv6ADS5D23sTPB"
       },
@@ -5288,6 +5306,24 @@
       "duration_ms": 188572,
       "name": "Built To Be Bad (with Alex Sampson)",
       "url": "https://open.spotify.com/track/6tqSQ7LWVgmVyf41tFAqHV"
+    },
+    {
+      "album": {
+        "name": "Bullet to the Brain",
+        "url": "https://open.spotify.com/album/44nWFZjav1Y9eWAEnFZk35"
+      },
+      "artists": [
+        {
+          "name": "Lost Haven",
+          "url": "https://open.spotify.com/artist/7hqQRhl7RWqCcge9tzVKUq"
+        }
+      ],
+      "date_added": "2025-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206796,
+      "name": "Bullet to the Brain",
+      "url": "https://open.spotify.com/track/0hdSOJGYfWVBTQUcptQm2S"
     },
     {
       "album": {
@@ -9868,7 +9904,7 @@
       ],
       "date_added": "2025-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-31",
+      "date_removed": null,
       "duration_ms": 173746,
       "name": "Espresso Macchiato",
       "url": "https://open.spotify.com/track/3gWBWLw3J3XTy3QTo36GqJ"
@@ -9886,7 +9922,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 173746,
       "name": "Espresso Macchiato",
       "url": "https://open.spotify.com/track/4zpNfuWJA3K4d9TS4qnOIB"
@@ -9962,10 +9998,28 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 207870,
       "name": "EU-TAVA",
       "url": "https://open.spotify.com/track/5Fe2kIT6QEsZ53kTAdjrvD"
+    },
+    {
+      "album": {
+        "name": "EU-TAVA",
+        "url": "https://open.spotify.com/album/2gmymStlBGgTKTVrcbzhqZ"
+      },
+      "artists": [
+        {
+          "name": "olifuil",
+          "url": "https://open.spotify.com/artist/4OnxnszW4ydIvCazOM3ukQ"
+        }
+      ],
+      "date_added": "2025-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207870,
+      "name": "EU-TAVA",
+      "url": "https://open.spotify.com/track/6YEBw4jcZMv8bEKT1yZYVa"
     },
     {
       "album": {
@@ -17590,7 +17644,7 @@
       ],
       "date_added": "2025-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 137173,
       "name": "KYKY2BONDY",
       "url": "https://open.spotify.com/track/2t5LPLptBemV0W8IGLBLju"
@@ -17784,7 +17838,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-30",
+      "date_removed": null,
       "duration_ms": 178378,
       "name": "La poup\u00e9e monte le son",
       "url": "https://open.spotify.com/track/3dDWYjYzwvotCOvzFmiffU"
@@ -17820,7 +17874,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 178416,
       "name": "La poup\u00e9e monte le son",
       "url": "https://open.spotify.com/track/7eVLgAFXaEfX49BOeeah9O"
@@ -29346,10 +29400,32 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 280013,
       "name": "Soul Survivor",
       "url": "https://open.spotify.com/track/0Ss50OU9tCozI7JIywkv14"
+    },
+    {
+      "album": {
+        "name": "Let's Get It: Thug Motivation 101",
+        "url": "https://open.spotify.com/album/7q5LBgCP11FX8gYFVBMqi3"
+      },
+      "artists": [
+        {
+          "name": "Jeezy",
+          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2025-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280013,
+      "name": "Soul Survivor",
+      "url": "https://open.spotify.com/track/12bZjnzjuJoyRslVC4BmxU"
     },
     {
       "album": {
@@ -34596,7 +34672,7 @@
       ],
       "date_added": "2025-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 176866,
       "name": "What The Hell Just Happened?",
       "url": "https://open.spotify.com/track/39psNd97jsWTYIXrLOTco2"

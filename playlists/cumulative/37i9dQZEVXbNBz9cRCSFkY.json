@@ -1774,7 +1774,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-02",
+      "date_removed": null,
       "duration_ms": 163571,
       "name": "Balisong - Transformed",
       "url": "https://open.spotify.com/track/2s9DQB5ftRcdIRpj3n3pDR"
@@ -5514,10 +5514,28 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 436480,
       "name": "G Luv",
       "url": "https://open.spotify.com/track/2O9suqOFtahgIoIwLbWYpP"
+    },
+    {
+      "album": {
+        "name": "G Luv",
+        "url": "https://open.spotify.com/album/3yKtXAlEVZ3xLz55XcWJUl"
+      },
+      "artists": [
+        {
+          "name": "1550 Collective",
+          "url": "https://open.spotify.com/artist/6pFVpPXx3hu9oid9hLKWeI"
+        }
+      ],
+      "date_added": "2025-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 436498,
+      "name": "G Luv",
+      "url": "https://open.spotify.com/track/7rPCoHeFhATM6JiiNKw5fL"
     },
     {
       "album": {
@@ -6068,7 +6086,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 193846,
       "name": "Gusto Ko Sakin Ka Lang",
       "url": "https://open.spotify.com/track/58Q8R5gy4crydTdPgmncsU"
@@ -7546,7 +7564,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-30",
+      "date_removed": null,
       "duration_ms": 262068,
       "name": "Ikaw Pa Rin Ang Pipiliin Ko",
       "url": "https://open.spotify.com/track/3LvrJEPQ61Vvj1t3Edg20X"
@@ -10224,7 +10242,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 201951,
       "name": "Mahika",
       "url": "https://open.spotify.com/track/2nqlM3gNBMi5Zf9MDzp2Xi"
@@ -11172,7 +11190,7 @@
       ],
       "date_added": "2024-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 270400,
       "name": "Museo",
       "url": "https://open.spotify.com/track/2dMQ4FbQcrEWVFK6NIFjrl"
@@ -13206,7 +13224,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-02",
+      "date_removed": null,
       "duration_ms": 248342,
       "name": "PUFF ME UP",
       "url": "https://open.spotify.com/track/1cTSZdKCYJjfG8edyHFKbB"

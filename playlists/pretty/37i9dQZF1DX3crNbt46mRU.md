@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Lo & Leduc, Miley Cyrus, Nina Chuba, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,963 likes - 120 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,964 likes - 120 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 61 | [FRANCESCA](https://open.spotify.com/track/2ywWLlsgT68eJZ3FvFUcEj) | [Francesca Michielin](https://open.spotify.com/artist/4jFlmD92WULLlaRS8Cj6QS) | [FRANCESCA](https://open.spotify.com/album/5e6GLIP3PrDGcsvI1mPJvf) | 3:15 |
 | 62 | [gegengift](https://open.spotify.com/track/37wSsrdZXwlBAkWdKR25Gn) | [Cosima Kiby](https://open.spotify.com/artist/1hm4J3Mp8Yh2TDhOp6u7sM) | [gegengift](https://open.spotify.com/album/5neEPGUpUctNlt9xVO5rug) | 2:36 |
 | 63 | [The Call Of The Flow](https://open.spotify.com/track/0d3rgGVa0WAOrUg1vSR2oA) | [Asaf Avidan](https://open.spotify.com/artist/7t51dSX8ZkKC7VoKRd0lME) | [The Call Of The Flow](https://open.spotify.com/album/4IfBE388B8vhY2AUXBiJLc) | 3:56 |
-| 64 | [MEER](https://open.spotify.com/track/3NForanr1Ng8SAlzJdlFPK) | [ANRU](https://open.spotify.com/artist/0rjdeLu3o523OkDcAkY0Cu) | [MEER](https://open.spotify.com/album/4jnYcaATbnn0fJLNYi6N8L) | 2:03 |
+| 64 | [Meer](https://open.spotify.com/track/3NForanr1Ng8SAlzJdlFPK) | [ANRU](https://open.spotify.com/artist/0rjdeLu3o523OkDcAkY0Cu) | [Meer](https://open.spotify.com/album/4jnYcaATbnn0fJLNYi6N8L) | 2:03 |
 | 65 | [bisschen mehr als freunde](https://open.spotify.com/track/0rmR66jV29p23YWdMVUsni) | [Mo\-Torres](https://open.spotify.com/artist/0A8ObGbFDJOFc7SLwBqO3o), [KAYEF](https://open.spotify.com/artist/4hXT6A14n901v8DU5Of337) | [bisschen mehr als freunde](https://open.spotify.com/album/6e8UwCkcbcm4aisLDTjWkb) | 2:11 |
 | 66 | [Nice To Each Other](https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Nice To Each Other](https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV) | 3:29 |
 | 67 | [Hemingway](https://open.spotify.com/track/1BBVsOxgQ2soUs87ypiMZH) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Hemingway](https://open.spotify.com/album/3JKMx86ymxWRpnBhmbBAus) | 3:16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Nina Chuba, Ski Aggu, Miley Cyrus und mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 864,664 likes - 89 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 864,704 likes - 89 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 88 | [Cops & Robbers](https://open.spotify.com/track/5pa2ZyJ3dIEmxRDW74msQi) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Cops & Robbers](https://open.spotify.com/album/6ISsvqjVEeShpIhZir687U) | 2:41 |
 | 89 | [Booted Up](https://open.spotify.com/track/7iYmPfTr3qpVKrEtCxIpZU) | [GELO](https://open.spotify.com/artist/5FZN8ElUU5zENi2IK7gMnu) | [Booted Up](https://open.spotify.com/album/2cxNVaMeyRzhSyEQblZcF0) | 2:42 |
 
-Snapshot ID: `AAAAADppDNsW2jvnA1yveUm2KgPOjE1t`
+Snapshot ID: `aDml5wAAAACDVKH7II56ihhvNbmTK6ra`

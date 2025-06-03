@@ -4,7 +4,7 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-370 songs - 1 day 10 hr 46 min
+371 songs - 1 day 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Badra Chhaaye](https://open.spotify.com/track/0xaocSiKSgZdetM5onBTvz) | [Keshav Tyohar](https://open.spotify.com/artist/4K2l6pikW66DDwViUWSUpS) | [Badra Chhaaye](https://open.spotify.com/album/4Q4LYEVYMZZbOgEiksRxLa) | 2:50 | 2023-07-13 | 2024-04-19 |
 | [Badra Jhum](https://open.spotify.com/track/0yQOBmCtGInHcLxzgGw5La) | [Prasanta A Samadhar](https://open.spotify.com/artist/0WUykTmuOcYbFgu3L6lO0L) | [Badra Jhum](https://open.spotify.com/album/4QfO5s4jV7ybLfyefmGZNu) | 3:42 | 2023-10-09 | 2024-01-08 |
 | [Badra Jhum](https://open.spotify.com/track/3paWIcLemVopky4tYAjYnn) | [Prasanta A Samadhar](https://open.spotify.com/artist/0WUykTmuOcYbFgu3L6lO0L) | [Badra Jhum](https://open.spotify.com/album/6xzmXaik3FZtgmExS2Il4M) | 3:42 | 2023-12-15 | 2024-03-16 |
-| [Baiyaan](https://open.spotify.com/track/47Wwuu4jfq0nthcsnMr4kC) | [Aniket Kar](https://open.spotify.com/artist/165EyV5h6zZ2ml6ZJVEg7s), [Parul Mishra](https://open.spotify.com/artist/70706ST5lkFhPr9lgea7SU), [Aabhas Joshi](https://open.spotify.com/artist/59MBrXiDnBe2UHqpqUzuaI) | [Baiyaan](https://open.spotify.com/album/20AVkxpmGkjXeFupoukd3V) | 5:26 | 2023-09-26 |  |
+| [Baiyaan](https://open.spotify.com/track/47Wwuu4jfq0nthcsnMr4kC) | [Aniket Kar](https://open.spotify.com/artist/165EyV5h6zZ2ml6ZJVEg7s), [Parul Mishra](https://open.spotify.com/artist/70706ST5lkFhPr9lgea7SU), [Aabhas Joshi](https://open.spotify.com/artist/59MBrXiDnBe2UHqpqUzuaI) | [Baiyaan](https://open.spotify.com/album/20AVkxpmGkjXeFupoukd3V) | 5:26 | 2023-09-26 | 2025-06-03 |
 | [Baju Band](https://open.spotify.com/track/6pygtqf5cO7uiy9kgbY8KD) | [Sniti Mishra](https://open.spotify.com/artist/1N1zYh2GCcsgr0E4UfcRy2) | [Baju Band](https://open.spotify.com/album/5c80mJiH3c7rKKQ7HVp49f) | 4:18 | 2022-05-17 |  |
 | [Balma Roothe](https://open.spotify.com/track/5iwv6Hnc8qK2MMWAEPaxSy) | [Bhavya Pandit](https://open.spotify.com/artist/1hYkTNl6h28hwB6IZJ3nfB), [Avijeet Satapathy](https://open.spotify.com/artist/1Odsf0ejphk7o2GEViymZv) | [Balma Roothe](https://open.spotify.com/album/3H2bShG6rGWRWpB4zCB3i8) | 2:46 | 2025-02-12 | 2025-05-08 |
 | [Bandh Aankhein](https://open.spotify.com/track/5RDas0NITNlZ5auekdbHiP) | [Muhafiz](https://open.spotify.com/artist/6pwzflaMKjxNpkXFtaYZo9), [Sarthak Kalyani](https://open.spotify.com/artist/33ZaVn459vwF8UVDS6sWxh), [Siddharth Chopra](https://open.spotify.com/artist/0HIZoRSgTwczAwI7zTp7fx) | [Bandh Aankhein](https://open.spotify.com/album/7eSDGsefiMfGzzaRbnZgJG) | 3:24 | 2024-10-04 |  |
@@ -316,6 +316,7 @@
 | [Saanware](https://open.spotify.com/track/2RLpjKjWsT52aZ6VejuI1A) | [Santanu Ghatak](https://open.spotify.com/artist/0jlIoFaWiB1oBsWQ5ynbOF), [Aditi Paul](https://open.spotify.com/artist/0Es0q6Ck6CyyDjrWBqWkRc) | [Saanware](https://open.spotify.com/album/0hToTtwlTo3fbYCd1aE95L) | 3:48 | 2022-05-17 | 2023-07-14 |
 | [Saanware Aijaiyo](https://open.spotify.com/track/2uDeh0ImYtWkYSPjrX77gb) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Saanware Aijaiyo](https://open.spotify.com/album/5k7KeArB1J9JPCRC12Xz7j) | 3:54 | 2023-09-14 |  |
 | [Saavan Aayo Re](https://open.spotify.com/track/5JAeLLOKYJDRv8cmXMgrOb) | [Rashid Khan](https://open.spotify.com/artist/1cw8NspBF8JctQm5rpn3pv), [Sucheta Bhattacharjee](https://open.spotify.com/artist/5BCIB70Lj3ShanUt22DT9R) | [Saavan Aayo Re](https://open.spotify.com/album/5DTghGia9uBeNIe1VTPwK7) | 5:32 | 2024-09-09 | 2025-02-08 |
+| [Saawariya](https://open.spotify.com/track/1E5ZZQUZIgBMvv9Z3SIhHr) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Sreejith Edavana](https://open.spotify.com/artist/1m9rpvDVv7rftegCQDIESg), [Sooraj Santhosh](https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB) | [Saawariya](https://open.spotify.com/album/4GHnMO31n7emQbDf1bzuWT) | 3:35 | 2025-05-30 |  |
 | [Sab Laazmi Hai](https://open.spotify.com/track/3VgWGNiDiuCLjWCax3HiLS) | [Antara Ansuna](https://open.spotify.com/artist/0l9ZEXWJf65ojEUN4goWLq), [Yash Ahire](https://open.spotify.com/artist/415aWlv00qp45s6eEvKDkZ), [Manjeet Singh](https://open.spotify.com/artist/0704uOGt0Aft7Xq019VVAN) | [Sab Laazmi Hai](https://open.spotify.com/album/5r74qUGb4DwsuOP6fVrv9p) | 3:34 | 2025-03-28 |  |
 | [Sagariya](https://open.spotify.com/track/092NFcCnJaSbcZQd76IGSf) | [Bombay Bandook](https://open.spotify.com/artist/3VkYRrfqoEIhBfcHTvdYGs) | [Sagariya](https://open.spotify.com/album/1hDVhG2pylmO3ef4y15jD0) | 6:52 | 2022-05-17 | 2023-08-02 |
 | [Saiyaan Bina \(feat\. Anshuman Sharma\)](https://open.spotify.com/track/3JMz4MfpBq6OOv5kfltzgL) | [Avanti Patel](https://open.spotify.com/artist/4LPRI62WeBuYjw3MA4GTqf), [Anshuman Sharma](https://open.spotify.com/artist/3rNr8T39bUi3dYfiqffp8w) | [Saiyaan Bina \(feat\. Anshuman Sharma\)](https://open.spotify.com/album/5rrQPgEyjaB3CN527qAs9r) | 4:28 | 2022-05-17 | 2024-02-15 |

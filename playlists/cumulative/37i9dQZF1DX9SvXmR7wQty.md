@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: GreenWoodz
 
-3,325 songs - 7 day 8 hr 4 min
+3,326 songs - 7 day 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -609,7 +609,7 @@
 | [COMMERCE](https://open.spotify.com/track/1cdXXX76eqOFvCOOXSXF4w) | [Stavo](https://open.spotify.com/artist/2j93xBBtZnS9YJGJUcWHwg), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [Il était une fois](https://open.spotify.com/album/3yz6Lwcs083pVZkLstxDLL) | 2:05 | 2024-05-03 | 2024-06-15 |
 | [Commun maintenant \- Session live H2T](https://open.spotify.com/track/5cqlX4QK1VnaK0cT0d8vSL) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC) | [Commun maintenant \(Session Live H2T\)](https://open.spotify.com/album/7wgAYh8mujlxEtD8wtpQFQ) | 3:24 | 2022-05-27 | 2022-06-04 |
 | [Complémentaires](https://open.spotify.com/track/0Td2ZM1GoIj8SJ3IITcehD) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh) | [Complémentaires](https://open.spotify.com/album/5D06Ps9NI6YjURP8W81xde) | 3:12 | 2024-08-30 | 2024-10-26 |
-| [Confession](https://open.spotify.com/track/2iPA5FhF7sPOUibIVuNOgf) | [Mylène Farmer](https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD) | [Confession](https://open.spotify.com/album/4iSFg0cxwRdN0e3k7lAZFw) | 2:46 | 2025-05-15 |  |
+| [Confession](https://open.spotify.com/track/2iPA5FhF7sPOUibIVuNOgf) | [Mylène Farmer](https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD) | [Confession](https://open.spotify.com/album/4iSFg0cxwRdN0e3k7lAZFw) | 2:46 | 2025-05-15 | 2025-06-03 |
 | [Confetti \(VF\)](https://open.spotify.com/track/5Avs3gR4TlMVBZMp0YvsHN) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Confetti \(VF\)](https://open.spotify.com/album/4VJNLOXqF1aKhk2BIxMeuI) | 3:04 | 2023-05-05 | 2023-06-09 |
 | [confettis \(hey ho hey\)](https://open.spotify.com/track/6XqNQEPsnrRESrG75HJgDt) | [Fovelle](https://open.spotify.com/artist/6LoMfV6BitdhcaKkme41PS), [Ramon Chicharron](https://open.spotify.com/artist/5tRvJi08ALKPOojVS4ch5s), [TDH](https://open.spotify.com/artist/1pFYAdXD5dgTdJBa68uHfq) | [confettis \(hey ho hey\)](https://open.spotify.com/album/0Iil8DzHWziaanaWishAv5) | 2:16 | 2024-06-07 | 2024-06-15 |
 | [Confidences](https://open.spotify.com/track/3w3ccBSWumRfMn2lYEwZLi) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Confidences](https://open.spotify.com/album/4SU8HMrBkIDyCMXj552kNE) | 2:08 | 2024-05-10 | 2024-07-06 |
@@ -1120,6 +1120,7 @@
 | [Go Get It](https://open.spotify.com/track/0NLScgFk4MNJ1SSGtNUiZc) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Go Get It](https://open.spotify.com/album/5ornCn9likRC8UcYRgbUZV) | 2:21 | 2022-01-14 | 2022-01-29 |
 | [GO GO GO \(Feat\. Josman\)](https://open.spotify.com/track/1SXkflyNJkKKNHzkWuFIix) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [GO GO GO \(Feat\. Josman\)](https://open.spotify.com/album/4ZYdJg7f8B6aHFvQbu1Cwe) | 2:28 | 2024-03-22 | 2024-05-18 |
 | [Go Mode](https://open.spotify.com/track/7MX9uRrHcyORpE2JXJpfUa) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [Go Mode](https://open.spotify.com/album/3GekvJk4hGZw39M27jUcCc) | 3:44 | 2024-04-12 | 2024-04-19 |
+| [GO!](https://open.spotify.com/track/1qPSdLoRRMkOTRSJEHHnZX) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2), [Luidji](https://open.spotify.com/artist/3bRGJQd7b4lE3ZAEMfOXJp) | [MEGA BBL](https://open.spotify.com/album/5kULRFcbbkP6NHNBpi6T6p) | 2:27 | 2025-05-30 |  |
 | [GOD COMPLEX](https://open.spotify.com/track/7hKwyP2IULHzLwOildJdSo) | [Malko](https://open.spotify.com/artist/501Uzli8ksZoUEWZj8uKJI) | [GOD COMPLEX](https://open.spotify.com/album/3yeSTn4jXhZL7A27aZY4Eo) | 1:58 | 2023-11-10 | 2023-11-18 |
 | [Gold](https://open.spotify.com/track/7mM1vAl5QJ89pgu3LGNqAO) | [LOS LEO](https://open.spotify.com/artist/66JYtwqQMdDFgBgMP1NENW), [Eli Rose](https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h), [FVLCRVM](https://open.spotify.com/artist/7AjItKsRnEYRSiBt2OxK1y) | [Gold](https://open.spotify.com/album/6APpceKD3PgoHI4rRsWera) | 3:16 | 2022-08-12 | 2022-08-27 |
 | [Golden Hour](https://open.spotify.com/track/5NYZUSsgVjACxktniLsrEP) | [Cédrik St\-Onge](https://open.spotify.com/artist/2g0Adwuc91HneRGB8jbEq6) | [Osoyoos](https://open.spotify.com/album/2r6MzGblUSAmK3EAQuZqZj) | 3:55 | 2023-11-10 | 2024-01-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 
 > Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- Natasha Noorani, Adnan Dhool
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,862 likes - 70 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,873 likes - 70 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 | 24 | [Aadhey Adhoorey](https://open.spotify.com/track/6vjdxjLwPkIf8DQVeQgR8V) | [Aashir Wajahat](https://open.spotify.com/artist/4Kd6rJWBl4KpwRYct9PFMo), [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0) | [Aadhey Adhoorey](https://open.spotify.com/album/4LyJ3UBUTCmoZC8SVCYPqM) | 2:53 |
 | 25 | [Umeedon Ki](https://open.spotify.com/track/23Vg7dTsvIsja2PLeZ3awF) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Umeedon Ki](https://open.spotify.com/album/4odGDsUGaQx1CR62FmviWH) | 4:50 |
 | 26 | [Channa](https://open.spotify.com/track/7HwZ33ysa3zS00P7roQM2N) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Channa](https://open.spotify.com/album/2m2aMdLgZ9rsin4X22kB9t) | 3:27 |
-| 27 | [Memories](https://open.spotify.com/track/2O0sJTtjLKvMhd7cWyNdbe) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Justin Bibis](https://open.spotify.com/artist/0u8P1TS7Zyuq1MFQxTLAGy), [Shehryar Khan](https://open.spotify.com/artist/4vdNZHa1VmnLgFObceAzAi) | [Memories](https://open.spotify.com/album/1I8YUsgEIWFfVJXqngPBoL) | 2:38 |
+| 27 | [Memories](https://open.spotify.com/track/2O0sJTtjLKvMhd7cWyNdbe) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Justin Bibis](https://open.spotify.com/artist/3KYrINL7nZTQEVAu83bHw5), [Shehryar Khan](https://open.spotify.com/artist/4vdNZHa1VmnLgFObceAzAi) | [Memories](https://open.spotify.com/album/1I8YUsgEIWFfVJXqngPBoL) | 2:38 |
 | 28 | [Haal](https://open.spotify.com/track/5h2OHZjjp8lW29ySUaUnX6) | [TAHIR ABBAS](https://open.spotify.com/artist/4mBS6YbM7OV0XNIfwxaOpX) | [Haal](https://open.spotify.com/album/35XPrhJtEiQzb9kM3gHsfo) | 3:28 |
 | 29 | [Aankhein Teri](https://open.spotify.com/track/1OSEjH6I0K2DUUj5mUJXXI) | [Falak Shabbir](https://open.spotify.com/artist/0kmtdziYTHrKtoHlGElunM), [Saad Sultan](https://open.spotify.com/artist/1OBBbn5fM7Lj0zhlChlgi3) | [Aankhein Teri](https://open.spotify.com/album/0jQZywtGYVceym5gkuoK0R) | 3:16 |
 | 30 | [Wishful](https://open.spotify.com/track/2e7DgiuK7mCDvYHTmMZilD) | [Ali Raza](https://open.spotify.com/artist/2URzIJH7QfPgMAEPErd0cC), [Shajjar Hussain](https://open.spotify.com/artist/485dW6YyuxW3kpnWmuFnnv), [Ali & Shjr](https://open.spotify.com/artist/7GquqOIWZX7FNjsUYNjOKy) | [Lost Path](https://open.spotify.com/album/67clB5WzzIq1DOydWKGVIX) | 2:24 |

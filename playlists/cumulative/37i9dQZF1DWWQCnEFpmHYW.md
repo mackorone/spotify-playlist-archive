@@ -18,7 +18,7 @@
 | [Blue Rain](https://open.spotify.com/track/0KtkTIJkUzDrpCuloUxwpS) | [Kings Rain](https://open.spotify.com/artist/4r5tD2tk051ly22Q6eVura) | [Blue Rain](https://open.spotify.com/album/5De22XRwH7FGhcT20r4kJx) | 2:46 | 2022-11-21 |  |
 | [Breeze Rain](https://open.spotify.com/track/7DT43PWmrMGgPLYlP1CIey) | [Wet Rain 3AM](https://open.spotify.com/artist/4IdG84VRCzsDUbDTaLZT2d) | [More Rain](https://open.spotify.com/album/0Q1B0Feeqyc8rwoDQ6CVK9) | 3:15 | 2022-11-21 |  |
 | [Calmed By The Rain](https://open.spotify.com/track/1tYJSbl1q93xx9eQrrzsVF) | [naturae](https://open.spotify.com/artist/4paf9aJz5xldJSOCLfJKez) | [Calmed By The Rain](https://open.spotify.com/album/4M5R3F1Dl8bUL2jaVZAOmR) | 2:54 | 2022-11-21 |  |
-| [Calming Drizzle](https://open.spotify.com/track/02WdLBG087ZR478yCXy6o8) | [Rainy Windows](https://open.spotify.com/artist/32EhyFcKSpZ2akw9gwrnWo) | [Zen Drops](https://open.spotify.com/album/1qMAKKaFFshtUgg43sYNwn) | 2:42 | 2023-10-11 |  |
+| [Calming Drizzle](https://open.spotify.com/track/02WdLBG087ZR478yCXy6o8) | [Rainy Windows](https://open.spotify.com/artist/32EhyFcKSpZ2akw9gwrnWo) | [Zen Drops](https://open.spotify.com/album/1qMAKKaFFshtUgg43sYNwn) | 2:42 | 2023-10-11 | 2025-06-03 |
 | [Calming Rain Forest](https://open.spotify.com/track/6w5nfQXceDxyzCSC90Vate) | [Mind & Body](https://open.spotify.com/artist/6JYtJJDafQm9bjAm5zRxbz) | [Calming Rain Forest](https://open.spotify.com/album/3FONPWCDZuVg3n5izU4dXg) | 2:52 | 2023-10-11 |  |
 | [Calming Rain Harmony](https://open.spotify.com/track/6xKZISN8TVnIM0PRHs6Vqu) | [The Nature Soundscapes](https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG) | [Calming Rain Harmony](https://open.spotify.com/album/7DRdQShYrQikRl9Vyggemq) | 3:01 | 2023-10-11 |  |
 | [Chill Raindrops](https://open.spotify.com/track/3Z2WB90ojQshe0KTgykNWQ) | [Refreshing Rain](https://open.spotify.com/artist/41VEwpxNtWVa0GWB4RLH03) | [Spring Rain](https://open.spotify.com/album/2SLRx4y1nNLZ3eIn535nTA) | 3:01 | 2023-10-11 | 2025-04-28 |
@@ -167,6 +167,6 @@
 | [Window Siesta](https://open.spotify.com/track/3HGocuIF3wICVSbN3WC0NM) | [Raindog](https://open.spotify.com/artist/51pC69EE18vJkW3g4FrUiu) | [Peaceful Weekend](https://open.spotify.com/album/4FGn0wRLgoqt4OXPkvMywa) | 2:42 | 2023-06-16 |  |
 | [Wisby Way Rain](https://open.spotify.com/track/1Zf7zOrFr0HC0pbcAvxqbj) | [Atlantic Thunders](https://open.spotify.com/artist/4QR9di5dbNCSEyqyOOGRDL) | [Rain And Thunder \(Vol\. 3\)](https://open.spotify.com/album/2N0PHHdDBfmagAiEGMmpzl) | 2:33 | 2022-11-21 |  |
 | [Woodshed Rain](https://open.spotify.com/track/6kfiOzzsv9bPBsuh1Abl32) | [Stillheten](https://open.spotify.com/artist/2G0WSKy6gi5KNPbVVpze0W) | [Woodshed Rain](https://open.spotify.com/album/7n08BfUqHKJWYe6w5TzkdL) | 3:23 | 2024-03-11 |  |
-| [Zen Drops](https://open.spotify.com/track/7mq9wDIgw3sjJvCd89BSPU) | [Rainy Windows](https://open.spotify.com/artist/32EhyFcKSpZ2akw9gwrnWo) | [Zen Drops](https://open.spotify.com/album/1qMAKKaFFshtUgg43sYNwn) | 2:49 | 2023-10-11 | 2025-04-02 |
+| [Zen Drops](https://open.spotify.com/track/7mq9wDIgw3sjJvCd89BSPU) | [Rainy Windows](https://open.spotify.com/artist/32EhyFcKSpZ2akw9gwrnWo) | [Zen Drops](https://open.spotify.com/album/1qMAKKaFFshtUgg43sYNwn) | 2:49 | 2023-10-11 |  |
 
 \*This playlist was first scraped on 2022-12-08. Prior content cannot be recovered.

@@ -416,7 +416,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 258281,
       "name": "2AM",
       "url": "https://open.spotify.com/track/3DLtPObflLQBodZN8qGODT"
@@ -3144,7 +3144,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 227492,
       "name": "Bu\u00f4ng \u0110\u00f4i Tay Nhau Ra",
       "url": "https://open.spotify.com/track/3P3rcI48wwVEgxF5vPM6pG"
@@ -4312,7 +4312,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-02",
+      "date_removed": null,
       "duration_ms": 258000,
       "name": "CH\u00c2N TH\u00c0NH (feat. RHYDER, Captain, Quang H\u00f9ng MasterD, WEAN & Ali Ho\u00e0ng D\u01b0\u01a1ng)",
       "url": "https://open.spotify.com/track/26zqmmkqUK6mCc87XDzPym"
@@ -13348,7 +13348,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 191834,
       "name": "MOIEM",
       "url": "https://open.spotify.com/track/265hQASPY3HFmUH38zZrSK"
@@ -14557,6 +14557,32 @@
     },
     {
       "album": {
+        "name": "Ng\u00e0y Mai Em \u0110i",
+        "url": "https://open.spotify.com/album/6KM4FSh6nyjlZrQyNS1YQQ"
+      },
+      "artists": [
+        {
+          "name": "L\u00ea Hi\u1ebfu",
+          "url": "https://open.spotify.com/artist/4sOvsEM0ooH149joyEm7Wg"
+        },
+        {
+          "name": "SOOBIN",
+          "url": "https://open.spotify.com/artist/6CGGvCBHWqQ4HXtn5aLhbh"
+        },
+        {
+          "name": "Touliver",
+          "url": "https://open.spotify.com/artist/5UNWQJdUbO8Gbg9Qn3r52M"
+        }
+      ],
+      "date_added": "2025-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218400,
+      "name": "Ng\u00e0y Mai Em \u0110i",
+      "url": "https://open.spotify.com/track/0ZP4bO2ywAv44HiEzzHaq5"
+    },
+    {
+      "album": {
         "name": "Ca S\u0129 M\u1eb7t N\u1ea1 M\u00f9a 2 (The Masked Singer Vietnam) [T\u1eadp 2]",
         "url": "https://open.spotify.com/album/4fd8GyGy1540p2Wh1eHmwS"
       },
@@ -15142,7 +15168,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 214400,
       "name": "Nh\u1edb Ems",
       "url": "https://open.spotify.com/track/5q5411GrxghqJuBqIZklhJ"
@@ -18732,7 +18758,7 @@
       ],
       "date_added": "2021-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-01",
+      "date_removed": null,
       "duration_ms": 234168,
       "name": "Sinh Ra \u0110\u00e3 L\u00e0 Th\u1ee9 \u0110\u1ed1i L\u1eadp Nhau (feat. Badbies)",
       "url": "https://open.spotify.com/track/5BTzf3doGTigDIYUFtbkI9"
@@ -21068,7 +21094,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-01",
+      "date_removed": null,
       "duration_ms": 269021,
       "name": "Th\u1ee9c Gi\u1ea5c",
       "url": "https://open.spotify.com/track/1MiJk3dXC5jzhvLFP0dUM7"

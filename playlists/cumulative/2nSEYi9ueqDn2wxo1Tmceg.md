@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a href="https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t?si=zEuIA1S6SgW8IOr8GD0HFA">George FitzGerald</a>
 
-1,360 songs - 3 day 20 hr 46 min
+1,361 songs - 3 day 20 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1295,6 +1295,7 @@
 | [Victory Lap \- Edit](https://open.spotify.com/track/6VLmoYYs4WV7I4waJcs7Vr) | [BUFFEE](https://open.spotify.com/artist/375sZCoa1ojgt8tICkADmd) | [Victory Lap \(Edit\)](https://open.spotify.com/album/1dn55BQH9nrFPilYVtDPKg) | 3:32 | 2023-11-23 | 2024-01-18 |
 | [Villain](https://open.spotify.com/track/1U6zdjZowXrmoq7mutrCra) | [Annahstasia](https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE) | [Villain](https://open.spotify.com/album/5h89X4sxa7SXWZ7EbB5YAD) | 4:30 | 2025-05-07 |  |
 | [Violet \- DJ Python Remix](https://open.spotify.com/track/6JijA1sJukJFkEXlOnK9ZI) | [The Range](https://open.spotify.com/artist/5xsSdtWHooM9IL5WnDWTdD), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl) | [Mercury Remixes](https://open.spotify.com/album/4dgG6jfRwyZyDLtB8F2yVZ) | 3:27 | 2023-04-05 | 2023-05-11 |
+| [Virginia Tech](https://open.spotify.com/track/63RXrwFp8OlTvnr5JsXVY2) | [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [Defense / Virginia Tech](https://open.spotify.com/album/4loQm364AOexSa6uEMUpUo) | 4:27 | 2025-06-02 |  |
 | [Visions Of Pain \- Tim Goldsworthy Remix](https://open.spotify.com/track/0vE2ANol5kgvLeGgy2rF9v) | [Fat White Family](https://open.spotify.com/artist/5ztBFCBEL7OtjdAt98RnD4), [Tim Goldsworthy](https://open.spotify.com/artist/2uFlruav0o4m1tVv05Bvuc) | [Visions Of Pain \(Tim Goldsworthy Remix\)](https://open.spotify.com/album/1XUA6dEi6ydxqo52gqKcf5) | 7:26 | 2024-11-27 | 2025-01-30 |
 | [Vista](https://open.spotify.com/track/1RerULp9QIsCQbusc4Bl4U) | [the GOLDEN DREGS](https://open.spotify.com/artist/5HS4BCPnb2zYSwsmXunf8d) | [Vista](https://open.spotify.com/album/3s4PzF5GcMvVH7nftHiPaM) | 4:38 | 2023-02-08 | 2023-03-09 |
 | [Wagging Tongue \- Wet Leg Remix](https://open.spotify.com/track/5yxtxZ7IfGO18XHbRJxtkd) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wagging Tongue \(Remixes\)](https://open.spotify.com/album/3Oc7qOr81qHQIfNMjdEU1H) | 4:38 | 2023-07-12 | 2023-09-07 |

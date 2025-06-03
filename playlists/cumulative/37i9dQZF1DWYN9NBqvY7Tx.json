@@ -1973,6 +1973,28 @@
     },
     {
       "album": {
+        "name": "Chaos Theory",
+        "url": "https://open.spotify.com/album/6XCOMsUfSGmRnQZBYIL48z"
+      },
+      "artists": [
+        {
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+        },
+        {
+          "name": "Wooli",
+          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157714,
+      "name": "Chaos Theory",
+      "url": "https://open.spotify.com/track/2gOrSnyYKsJWMrOH9giTkT"
+    },
+    {
+      "album": {
         "name": "Cheerleader",
         "url": "https://open.spotify.com/album/0KdbNiljxzEMCwkVJS0wzI"
       },
@@ -10798,7 +10820,7 @@
       ],
       "date_added": "2025-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 196129,
       "name": "shake!the!city!",
       "url": "https://open.spotify.com/track/0AdQigPVEFZrgzdBGHEnuC"

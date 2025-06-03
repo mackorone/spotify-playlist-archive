@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1ht9f3cW7m.md) - [plain]
 
 > sweet and fresh emerging indie pop, featuring NoSo 🍑
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,029 likes - 80 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,034 likes - 80 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1ht9f3cW7m.md) - [plain]
 | 39 | [God Help Me Now](https://open.spotify.com/track/7s3r1vrkIKndzUmgugLO5J) | [Ellur](https://open.spotify.com/artist/4uG8VYp1GLQpZVokfG2Ui7) | [God Help Me Now](https://open.spotify.com/album/4rXoeb8zZTmH7YOriJWRZt) | 3:36 |
 | 40 | [terabyte](https://open.spotify.com/track/7v4pVIgKXUpDP5mbSQlQcJ) | [late night drive home](https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB) | [terabyte](https://open.spotify.com/album/6T1xqrGXUHVwsgRPTcNeUn) | 4:15 |
 | 41 | [russian doll \- smaller](https://open.spotify.com/track/00iPwEqAow8PUdV73vvIsu) | [dacelynn](https://open.spotify.com/artist/4HcCn0kCOvr5D6BItsWVFh) | [russian doll \(smaller\)](https://open.spotify.com/album/0YVvrkQ2UAKBI0svaDhXTe) | 1:01 |
-| 42 | [UnHinged](https://open.spotify.com/track/0tnqSQzffOCR3J0bnBUtJa) | [DellaXOZ](https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e) | [UnHinged](https://open.spotify.com/album/7A4oGPJzbB706sfR5AxZVz) | 2:48 |
-| 43 | [Seeing Angels](https://open.spotify.com/track/0K4Yy5aPLsojIWJnryTb3Z) | [Alex Amor](https://open.spotify.com/artist/5Zyv8W3WkYfo1PTbVBBHs0) | [Seeing Angels](https://open.spotify.com/album/5R6oNb4SKjejMOpzkJyfYw) | 3:33 |
+| 42 | [Seeing Angels](https://open.spotify.com/track/0K4Yy5aPLsojIWJnryTb3Z) | [Alex Amor](https://open.spotify.com/artist/5Zyv8W3WkYfo1PTbVBBHs0) | [Seeing Angels](https://open.spotify.com/album/5R6oNb4SKjejMOpzkJyfYw) | 3:33 |
+| 43 | [UnHinged](https://open.spotify.com/track/0tnqSQzffOCR3J0bnBUtJa) | [DellaXOZ](https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e) | [UnHinged](https://open.spotify.com/album/7A4oGPJzbB706sfR5AxZVz) | 2:48 |
 | 44 | [Dinosaur](https://open.spotify.com/track/6bJyGzdTAeUm5MUBJRQowK) | [Soft Launch](https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586) | [Dinosaur](https://open.spotify.com/album/6jWXZ0gJSVxUppa1zEsn6C) | 4:02 |
 | 45 | [missing everything](https://open.spotify.com/track/6vALwkIUxaGmXvV7DuXtb8) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [missing everything](https://open.spotify.com/album/7fU4363JFr3dxRGua9eZfT) | 3:06 |
 | 46 | [Recognise](https://open.spotify.com/track/6jmobiz0KPfI8xdyevPS1h) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [Recognise](https://open.spotify.com/album/7r5bDeSSfTxgofHnEnnJyg) | 4:29 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1ht9f3cW7m.md) - [plain]
 | 49 | [Pylonz \(feat\. SOFY\)](https://open.spotify.com/track/0Onrt3Z8Q1AKS1KbhtyD9I) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp), [SOFY](https://open.spotify.com/artist/34TRRbxNJYpDV7VJ7kBzQd) | [Pylonz \(feat\. SOFY\)](https://open.spotify.com/album/41DncHDKfjpnIUmbDMiFWb) | 3:45 |
 | 50 | [Killing the Game](https://open.spotify.com/track/4uKMuSSz5efdaVKZINX0Mi) | [IDER](https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0) | [Late to the World](https://open.spotify.com/album/52IVBszkmihtHkZ1QQqjki) | 4:01 |
 | 51 | [Snug as a Bug](https://open.spotify.com/track/3xSw2RvLeI4nh9NGDIUIUh) | [Bug Eyed](https://open.spotify.com/artist/3TXIv7fmIXavggO3n0AUtL) | [Snug as a Bug](https://open.spotify.com/album/4O6J7Ii7c31DrnOzg4tHHn) | 2:59 |
-| 52 | [Popstar of Your Dreams](https://open.spotify.com/track/2EXoykjKLC5A4RjKs9gpYx) | [Kai Bosch](https://open.spotify.com/artist/6NvsbUgzHkjZK3ZUEWui41) | [Popstar of Your Dreams](https://open.spotify.com/album/3ipC2tIuK15IhTbTPMuxl5) | 3:11 |
-| 53 | [Daisy](https://open.spotify.com/track/5kAH1wvro8j2S2GPczmGlI) | [Leona Rue](https://open.spotify.com/artist/7FrJbMXCyvdwO9WeALL1oe) | [Daisy](https://open.spotify.com/album/4ckNbXTzlhv3EE1xfOQGWv) | 3:15 |
+| 52 | [Daisy](https://open.spotify.com/track/5kAH1wvro8j2S2GPczmGlI) | [Leona Rue](https://open.spotify.com/artist/7FrJbMXCyvdwO9WeALL1oe) | [Daisy](https://open.spotify.com/album/4ckNbXTzlhv3EE1xfOQGWv) | 3:15 |
+| 53 | [Popstar of Your Dreams](https://open.spotify.com/track/2EXoykjKLC5A4RjKs9gpYx) | [Kai Bosch](https://open.spotify.com/artist/6NvsbUgzHkjZK3ZUEWui41) | [Popstar of Your Dreams](https://open.spotify.com/album/3ipC2tIuK15IhTbTPMuxl5) | 3:11 |
 | 54 | [COMING HOME 2 U](https://open.spotify.com/track/7cRBPefk7PJ1ARS0NRm4t6) | [Jo Hill](https://open.spotify.com/artist/1AbLfK2cwcwDcmiqyHQVF8) | [girlhood.](https://open.spotify.com/album/6pLO5gFGkmR3dUAx8EEtqS) | 4:08 |
 | 55 | [swimming in pity](https://open.spotify.com/track/2cBLY3kNAJ2IjygBLpRrli) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [swimming in pity](https://open.spotify.com/album/6ySG6aUUn6g8xujn2xKaM6) | 2:56 |
 | 56 | [Mega Circuit](https://open.spotify.com/track/0z2nwqxnRjLUlnp1jI8zmn) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Mega Circuit](https://open.spotify.com/album/1hWuBWREfpHifHWl73XraS) | 3:04 |
@@ -79,14 +79,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1ht9f3cW7m.md) - [plain]
 | 69 | [Imposter](https://open.spotify.com/track/1OYOObc7WZnhkhvNgfrB2M) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Love Me Please](https://open.spotify.com/album/66ZYTPi0jLZ6geTByqUiIv) | 2:33 |
 | 70 | [chamomile](https://open.spotify.com/track/7CH3DVWV2Qbyk583B1XrKH) | [brand new legs](https://open.spotify.com/artist/6Ufmc6jv705vKWqSkD9xSa) | [chamomile](https://open.spotify.com/album/10mmlgOJ3AC0sAVyEG3Ybd) | 2:39 |
 | 71 | [waiting on time](https://open.spotify.com/track/5fZ9ls5QMb0SpqgGsjq47M) | [better joy](https://open.spotify.com/artist/4ERGM46KkPIw35YncC6PGL) | [waiting on time](https://open.spotify.com/album/2lQ6Hw5q0iSeevnOTyppqL) | 3:06 |
-| 72 | [Againandagain](https://open.spotify.com/track/66r78CH8yH5CTxOCwnE3sL) | [Alfie Jukes](https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9) | [All Dressed Up For Nothing](https://open.spotify.com/album/1Q7uDb1cYSsmBSAYWel83m) | 2:52 |
-| 73 | [God Isn't Real](https://open.spotify.com/track/41VkkMHjk3hTHEemUhwePp) | [YES AND MAYBE](https://open.spotify.com/artist/3eeGgUP0pVi7bxVdNUbzc7) | [God Isn't Real](https://open.spotify.com/album/2aebxXPrkZTqvW6ssEijwT) | 3:56 |
+| 72 | [God Isn't Real](https://open.spotify.com/track/41VkkMHjk3hTHEemUhwePp) | [YES AND MAYBE](https://open.spotify.com/artist/3eeGgUP0pVi7bxVdNUbzc7) | [God Isn't Real](https://open.spotify.com/album/2aebxXPrkZTqvW6ssEijwT) | 3:56 |
+| 73 | [Praying Mantis](https://open.spotify.com/track/2kKEe3yPOh6ZdNbZnZnB3x) | [Fran Lusty](https://open.spotify.com/artist/6idlNQLvsjYJwQG4ojsmKK) | [Praying Mantis](https://open.spotify.com/album/2JLl4NMrwZKKrsnO2lxGWX) | 3:06 |
 | 74 | [STAY WITH ME!](https://open.spotify.com/track/1Dg4KP0l6sPH1IEbS7iRW6) | [Tiberius b](https://open.spotify.com/artist/0Kt443UQm5aqR2WCwqSMe0) | [STAY WITH ME!](https://open.spotify.com/album/1xfGHGxqx8MnPf6aRs2P0J) | 3:07 |
-| 75 | [Praying Mantis](https://open.spotify.com/track/2kKEe3yPOh6ZdNbZnZnB3x) | [Fran Lusty](https://open.spotify.com/artist/6idlNQLvsjYJwQG4ojsmKK) | [Praying Mantis](https://open.spotify.com/album/2JLl4NMrwZKKrsnO2lxGWX) | 3:06 |
+| 75 | [Againandagain](https://open.spotify.com/track/66r78CH8yH5CTxOCwnE3sL) | [Alfie Jukes](https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9) | [All Dressed Up For Nothing](https://open.spotify.com/album/1Q7uDb1cYSsmBSAYWel83m) | 2:52 |
 | 76 | [May I Have This Dance?](https://open.spotify.com/track/0pAcGeokyNP8jsxgJPvZLF) | [Freddie Lewis](https://open.spotify.com/artist/2Y08LH0PaXKiJNNuQQ827y) | [May I Have This Dance?](https://open.spotify.com/album/5ruqDtNkEKfArLkcIob3DC) | 3:03 |
 | 77 | [Work Song](https://open.spotify.com/track/3iHKxpf4KDJHXAOKwMwpTF) | [Housewife](https://open.spotify.com/artist/2IwSOO9bV4ZwvpnNk9f6lN) | [Work Song](https://open.spotify.com/album/7cyTW83kF7LJJHDdCkQSwO) | 2:19 |
 | 78 | [body to you](https://open.spotify.com/track/1xBQafV1iMGpZotqgAExHe) | [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [Avalanche](https://open.spotify.com/album/0j3KE6kVuo6mLoTpbc1acX) | 3:35 |
-| 79 | [Goddess of Orange County](https://open.spotify.com/track/2Y9gBBwbBY9xaKwy5R9flF) | [Stella Smyth](https://open.spotify.com/artist/73XgyFPPVBCDDSj1lp2Gmx) | [Goddess of Orange County](https://open.spotify.com/album/4KPopbGh67fe3g6S7MPKCx) | 2:54 |
-| 80 | [borderline](https://open.spotify.com/track/3cfG7BZUKJuHjXZTpfsjNK) | [Max Pope](https://open.spotify.com/artist/1pW42WHCsBicnNoBkcbD7i) | [borderline](https://open.spotify.com/album/0G2chJn3DFh0FSjdDG9iyT) | 3:25 |
+| 79 | [Easy on My Little Heart](https://open.spotify.com/track/3TR90HQoCo1riKefUOeBAv) | [Charlotte Clark](https://open.spotify.com/artist/2mp1tlha2UQUPY00PZZhI2) | [Easy on My Little Heart](https://open.spotify.com/album/6NAo4g4qh1iXDR9fNBUi3a) | 2:16 |
+| 80 | [Goddess of Orange County](https://open.spotify.com/track/2Y9gBBwbBY9xaKwy5R9flF) | [Stella Smyth](https://open.spotify.com/artist/73XgyFPPVBCDDSj1lp2Gmx) | [Goddess of Orange County](https://open.spotify.com/album/4KPopbGh67fe3g6S7MPKCx) | 2:54 |
 
 Snapshot ID: `aDjm/wAAAAB2eT20J4cTd1zP2oJwyXwE`

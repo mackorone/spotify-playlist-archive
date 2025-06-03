@@ -3373,6 +3373,28 @@
     },
     {
       "album": {
+        "name": "Fill The Room",
+        "url": "https://open.spotify.com/album/0j7zShoDhCDIveyQstr8o3"
+      },
+      "artists": [
+        {
+          "name": "Michael Bethany",
+          "url": "https://open.spotify.com/artist/6leYBoSGoXZllPhCTjKtQe"
+        },
+        {
+          "name": "Jonathan Traylor",
+          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
+        }
+      ],
+      "date_added": "2025-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346053,
+      "name": "Fill The Room",
+      "url": "https://open.spotify.com/track/1L4QH0PU87Pqg1tvcuj2xA"
+    },
+    {
+      "album": {
         "name": "Fill The Room (Live)",
         "url": "https://open.spotify.com/album/40QzUvVGbFbJEwLI49aTPl"
       },

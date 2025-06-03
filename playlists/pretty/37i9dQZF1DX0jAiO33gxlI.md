@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Negra Li
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,169 likes - 75 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,167 likes - 75 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 74 | [História Pra Contar](https://open.spotify.com/track/2relLa6XhBGunuJrnp8siv) | [Grone](https://open.spotify.com/artist/6obeWNZwOJv7P9EzIvu9zt), [RUXN](https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i) | [Neblina](https://open.spotify.com/album/3rw3Po8CC3hiw21daWMVNU) | 2:15 |
 | 75 | [ACORDA!](https://open.spotify.com/track/17Wmhkz0LNjqYSQAaNUpxO) | [Hermes MC](https://open.spotify.com/artist/1Hbs5vIF6Ry4xM3awFcb1h), [Nezq](https://open.spotify.com/artist/2cF1Y44kCR45YFK7bmXQ3D), [Freitera](https://open.spotify.com/artist/65nnKJaJx9MgbknLvQ6QHW) | [ACORDA!](https://open.spotify.com/album/2sDiJ8pFupGFmhWjMJNohv) | 0:45 |
 
-Snapshot ID: `aDkfggAAAABLomORj8sV8n8JLYN/p2/s`
+Snapshot ID: `aDkfggAAAAC9uMDl7b/lyCyPYgH0xd9W`

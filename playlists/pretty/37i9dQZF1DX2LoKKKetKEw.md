@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 
 > Jesus Music but make it pon pon\.  Get your fill of Afrobeats and Bible right here!  Cover: Kofi Dartey
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,858 likes - 100 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,870 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 | 99 | [Attention](https://open.spotify.com/track/70hTGmzthTjZAkNk3u00We) | [Delight Munachy](https://open.spotify.com/artist/4HHLYB6bM6IuVvr2uOKj3P), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu) | [Attention](https://open.spotify.com/album/5avBaOONeKnymdj5YseoC1) | 3:33 |
 | 100 | [BETTER DAYS \- Spanish Remix](https://open.spotify.com/track/0sYKKRfRcsB10DzItib1pd) | [Sir Vergo](https://open.spotify.com/artist/7qCqKyt406XUE37jDZq9Qc), [Vianca "The Grace"](https://open.spotify.com/artist/3Xekr22iZIFUAb6eMOPNxP) | [BETTER DAYS \(Spanish Remix\)](https://open.spotify.com/album/4K5m9W9u39Ba8ktEabtE02) | 2:38 |
 
-Snapshot ID: `aDqadwAAAAB420YmBES+hq/D695xoMvc`
+Snapshot ID: `aDqadwAAAACuZxneGj/Av+wxhD4kWLGx`

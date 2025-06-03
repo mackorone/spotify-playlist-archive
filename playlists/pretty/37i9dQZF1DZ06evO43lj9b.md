@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43lj9b.md) - [plain]
 
 > This is Roy Ayers\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,237 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,239 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43lj9b.md) - [plain]
 | 7 | [Gravity](https://open.spotify.com/track/3dJ97nSNxX3Ssxflmh7PoF) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Roy Ayers JID002](https://open.spotify.com/album/2rJ5B26dQwgxrjgg7WCE1G) | 3:26 |
 | 8 | [2000 Blacks Got to Be Free \(Edit\)](https://open.spotify.com/track/2n7yrYNPbpBAlFIJvlKfHk) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [2000 Blacks Got to Be Free](https://open.spotify.com/album/28XsGD0agBuKQn3RFKjczf) | 4:53 |
 | 9 | [Rise](https://open.spotify.com/track/0MaQuFkyOav01SbKFARhQF) | [Richard Earnshaw](https://open.spotify.com/artist/7g1UCyeUY5EDPlLLIu16ra), [Ursula Rucker](https://open.spotify.com/artist/3HVMTISidSkv0TNur6fmkj), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [In Time](https://open.spotify.com/album/5nnpSTWi4Uo92Tz1S1YJ9E) | 6:16 |
-| 10 | [Mystic Voyage](https://open.spotify.com/track/7jFpUEw5rRjSfoUBC6kwWw) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [The Best Of Roy Ayers](https://open.spotify.com/album/2FtG21lowfa5dnswLCmryp) | 3:42 |
-| 11 | [Mystic Voyage](https://open.spotify.com/track/6eGghCgGqV7xo7FrU0hjcB) | [Ronny Jordan](https://open.spotify.com/artist/32WK2OuP2PG4r7sH7bUfN9), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [A Brighter Day](https://open.spotify.com/album/6OPYx8TIsbGLZQAvCddKNh) | 4:13 |
+| 10 | [Mystic Voyage](https://open.spotify.com/track/6eGghCgGqV7xo7FrU0hjcB) | [Ronny Jordan](https://open.spotify.com/artist/32WK2OuP2PG4r7sH7bUfN9), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [A Brighter Day](https://open.spotify.com/album/6OPYx8TIsbGLZQAvCddKNh) | 4:13 |
+| 11 | [Mystic Voyage](https://open.spotify.com/track/7jFpUEw5rRjSfoUBC6kwWw) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [The Best Of Roy Ayers](https://open.spotify.com/album/2FtG21lowfa5dnswLCmryp) | 3:42 |
 | 12 | [Brawling Broads \- From The "Coffy" Soundtrack](https://open.spotify.com/track/2ZoZzG6PESuJ9taOuLevxk) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Coffy](https://open.spotify.com/album/6foq731YxdBce7fq3Qx3fA) | 2:46 |
 | 13 | [Hummin' In The Sun](https://open.spotify.com/track/2kL5xYzPEBw45eW9oBwlX7) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Ubiquity](https://open.spotify.com/album/5yzOqiGbl3VgoJQF2jk198) | 3:44 |
 | 14 | [Satisfaction](https://open.spotify.com/track/0rhUo9oEDGs822bVN8J0FR) | [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ), [FONVILLE](https://open.spotify.com/artist/4Pk1WAS0PpMDJb36CMbyfv), [Basile Petite](https://open.spotify.com/artist/64tGgvRz1IJm33LksJlsRE) | [Champagne Kisses](https://open.spotify.com/album/1BkhAWj2DJmsapEOd0OUUU) | 1:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43lj9b.md) - [plain]
 | 49 | [Don't Stop The Feeling](https://open.spotify.com/track/3ZDW6AElGDqEchxoMvFwQ4) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [The Best Of Roy Ayers](https://open.spotify.com/album/2FtG21lowfa5dnswLCmryp) | 8:15 |
 | 50 | [Slip n' Slide](https://open.spotify.com/track/2sHB1OW8jMGQm6dwCa7OvL) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [You Might Be Surprised \(Expanded Edition\)](https://open.spotify.com/album/20uA7TJUzufXZrYiZArpE6) | 4:29 |
 
-Snapshot ID: `aDpGgAAAAACviZdJ0/Lfit9XBU4o+4yW`
+Snapshot ID: `aDuYAAAAAAAvlHr7EukdCRiU1UkdnLGI`

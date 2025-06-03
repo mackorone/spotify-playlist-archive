@@ -1,6 +1,6 @@
 {
   "description": "Go hard or go home. Cover: skantia",
-  "num_followers": 70566,
+  "num_followers": 70594,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
@@ -331,6 +331,22 @@
     {
       "added_at": "2025-05-29 23:00:11",
       "album": {
+        "name": "Light It Up",
+        "url": "https://open.spotify.com/album/5VR6J9N4EqZHOnzs6lvGgU"
+      },
+      "artists": [
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        }
+      ],
+      "duration_ms": 221479,
+      "name": "Light It Up",
+      "url": "https://open.spotify.com/track/6eWgNJspumvHtUmx8pQlFM"
+    },
+    {
+      "added_at": "2025-05-29 23:00:11",
+      "album": {
         "name": "Evolve",
         "url": "https://open.spotify.com/album/6N2cAL092Va3dLV4wKWd6Y"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 187240,
       "name": "Alarm (feat. MC ID)",
       "url": "https://open.spotify.com/track/4lI38Kj91ahnFG48FwVSrS"
-    },
-    {
-      "added_at": "2025-05-29 23:00:11",
-      "album": {
-        "name": "Light It Up",
-        "url": "https://open.spotify.com/album/5VR6J9N4EqZHOnzs6lvGgU"
-      },
-      "artists": [
-        {
-          "name": "Kanine",
-          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
-        }
-      ],
-      "duration_ms": 221479,
-      "name": "Light It Up",
-      "url": "https://open.spotify.com/track/6eWgNJspumvHtUmx8pQlFM"
     },
     {
       "added_at": "2025-05-29 23:00:11",
@@ -399,26 +399,6 @@
     {
       "added_at": "2025-05-29 23:00:11",
       "album": {
-        "name": "Run (Part 1)",
-        "url": "https://open.spotify.com/album/1NqOxMj2QqMhgne014NwQs"
-      },
-      "artists": [
-        {
-          "name": "Mozey",
-          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
-        },
-        {
-          "name": "Sofia",
-          "url": "https://open.spotify.com/artist/2W9msU9MDgJo9BMgBdEqmb"
-        }
-      ],
-      "duration_ms": 135085,
-      "name": "Run (Part 1)",
-      "url": "https://open.spotify.com/track/4YWZse32ILPANRnB9EVyIm"
-    },
-    {
-      "added_at": "2025-05-29 23:00:11",
-      "album": {
         "name": "Yapa Yapa (Shut It Pls) [Serum Remix]",
         "url": "https://open.spotify.com/album/3nxtYIeazKAFjJncFCPrAs"
       },
@@ -443,6 +423,26 @@
       "duration_ms": 198857,
       "name": "Yapa Yapa (Shut It Pls) - Serum Remix",
       "url": "https://open.spotify.com/track/2eUomHlhqjWsSEJiYS9dJk"
+    },
+    {
+      "added_at": "2025-05-29 23:00:11",
+      "album": {
+        "name": "Run (Part 1)",
+        "url": "https://open.spotify.com/album/1NqOxMj2QqMhgne014NwQs"
+      },
+      "artists": [
+        {
+          "name": "Mozey",
+          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
+        },
+        {
+          "name": "Sofia",
+          "url": "https://open.spotify.com/artist/2W9msU9MDgJo9BMgBdEqmb"
+        }
+      ],
+      "duration_ms": 135085,
+      "name": "Run (Part 1)",
+      "url": "https://open.spotify.com/track/4YWZse32ILPANRnB9EVyIm"
     },
     {
       "added_at": "2025-05-29 23:00:11",
@@ -511,26 +511,6 @@
     {
       "added_at": "2025-05-29 23:00:11",
       "album": {
-        "name": "LOUDER",
-        "url": "https://open.spotify.com/album/4BlHJap7UWIyvT0ZdsrwoD"
-      },
-      "artists": [
-        {
-          "name": "Mozey",
-          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
-        },
-        {
-          "name": "Circadian",
-          "url": "https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE"
-        }
-      ],
-      "duration_ms": 222069,
-      "name": "LOUDER",
-      "url": "https://open.spotify.com/track/6yWCx32ltE7Kcoq6k4hJqX"
-    },
-    {
-      "added_at": "2025-05-29 23:00:11",
-      "album": {
         "name": "Round + Round",
         "url": "https://open.spotify.com/album/7gc1xnYMRQAuyc9Gnq2mr9"
       },
@@ -551,6 +531,26 @@
       "duration_ms": 158620,
       "name": "Round + Round",
       "url": "https://open.spotify.com/track/5EMKhf5HieDSJHbVuaucd4"
+    },
+    {
+      "added_at": "2025-05-29 23:00:11",
+      "album": {
+        "name": "LOUDER",
+        "url": "https://open.spotify.com/album/4BlHJap7UWIyvT0ZdsrwoD"
+      },
+      "artists": [
+        {
+          "name": "Mozey",
+          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
+        },
+        {
+          "name": "Circadian",
+          "url": "https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE"
+        }
+      ],
+      "duration_ms": 222069,
+      "name": "LOUDER",
+      "url": "https://open.spotify.com/track/6yWCx32ltE7Kcoq6k4hJqX"
     },
     {
       "added_at": "2025-05-29 23:00:11",
@@ -623,22 +623,6 @@
     {
       "added_at": "2025-05-29 23:00:11",
       "album": {
-        "name": "High Energy",
-        "url": "https://open.spotify.com/album/1V56p7Zy759zwU8DCHZRD4"
-      },
-      "artists": [
-        {
-          "name": "Mozey",
-          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
-        }
-      ],
-      "duration_ms": 183085,
-      "name": "High Energy",
-      "url": "https://open.spotify.com/track/1RKSSo63jM1JVH6aZ8MU30"
-    },
-    {
-      "added_at": "2025-05-29 23:00:11",
-      "album": {
         "name": "Satellite (SOTA Remix)",
         "url": "https://open.spotify.com/album/3PHykqDZ7hobh7byOyh0HZ"
       },
@@ -659,6 +643,42 @@
       "duration_ms": 177931,
       "name": "Satellite - SOTA Remix",
       "url": "https://open.spotify.com/track/1whhLeg6WV3LiQne0adJW4"
+    },
+    {
+      "added_at": "2025-05-29 23:00:11",
+      "album": {
+        "name": "High Energy",
+        "url": "https://open.spotify.com/album/1V56p7Zy759zwU8DCHZRD4"
+      },
+      "artists": [
+        {
+          "name": "Mozey",
+          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
+        }
+      ],
+      "duration_ms": 183085,
+      "name": "High Energy",
+      "url": "https://open.spotify.com/track/1RKSSo63jM1JVH6aZ8MU30"
+    },
+    {
+      "added_at": "2025-05-29 23:00:11",
+      "album": {
+        "name": "PURPOSE",
+        "url": "https://open.spotify.com/album/0gXmfiCDIV0DRnHakUxXjU"
+      },
+      "artists": [
+        {
+          "name": "Blooom",
+          "url": "https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS"
+        },
+        {
+          "name": "Maksim MC",
+          "url": "https://open.spotify.com/artist/6iwQ21ctUhnKozPAQx6zyC"
+        }
+      ],
+      "duration_ms": 167314,
+      "name": "PURPOSE",
+      "url": "https://open.spotify.com/track/35mele207P8xoKXOsTh52L"
     },
     {
       "added_at": "2025-05-29 23:00:11",
@@ -691,26 +711,6 @@
     {
       "added_at": "2025-05-29 23:00:11",
       "album": {
-        "name": "PURPOSE",
-        "url": "https://open.spotify.com/album/0gXmfiCDIV0DRnHakUxXjU"
-      },
-      "artists": [
-        {
-          "name": "Blooom",
-          "url": "https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS"
-        },
-        {
-          "name": "Maksim MC",
-          "url": "https://open.spotify.com/artist/6iwQ21ctUhnKozPAQx6zyC"
-        }
-      ],
-      "duration_ms": 167314,
-      "name": "PURPOSE",
-      "url": "https://open.spotify.com/track/35mele207P8xoKXOsTh52L"
-    },
-    {
-      "added_at": "2025-05-29 23:00:11",
-      "album": {
         "name": "Eat $hit",
         "url": "https://open.spotify.com/album/6vPFYzc1O68UsQVaM28k03"
       },
@@ -731,26 +731,6 @@
     {
       "added_at": "2025-05-29 23:00:11",
       "album": {
-        "name": "Ice Cold",
-        "url": "https://open.spotify.com/album/0ReTigKkyunpydPXYvBfKV"
-      },
-      "artists": [
-        {
-          "name": "Mozey",
-          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
-        },
-        {
-          "name": "Jman",
-          "url": "https://open.spotify.com/artist/4yBjkJ6MdQUxHdWBwTavEm"
-        }
-      ],
-      "duration_ms": 123428,
-      "name": "Ice Cold",
-      "url": "https://open.spotify.com/track/1WvguFKnrnscdMG0JISkWX"
-    },
-    {
-      "added_at": "2025-05-29 23:00:11",
-      "album": {
         "name": "Come Around",
         "url": "https://open.spotify.com/album/2B81YZsWzPSLdgzSR3gF8O"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 228706,
       "name": "Come Around",
       "url": "https://open.spotify.com/track/2EK2hR0X1XYrPnfLCgCIXl"
+    },
+    {
+      "added_at": "2025-05-29 23:00:11",
+      "album": {
+        "name": "Ice Cold",
+        "url": "https://open.spotify.com/album/0ReTigKkyunpydPXYvBfKV"
+      },
+      "artists": [
+        {
+          "name": "Mozey",
+          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
+        },
+        {
+          "name": "Jman",
+          "url": "https://open.spotify.com/artist/4yBjkJ6MdQUxHdWBwTavEm"
+        }
+      ],
+      "duration_ms": 123428,
+      "name": "Ice Cold",
+      "url": "https://open.spotify.com/track/1WvguFKnrnscdMG0JISkWX"
     },
     {
       "added_at": "2025-05-29 23:00:11",

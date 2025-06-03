@@ -7519,6 +7519,24 @@
     },
     {
       "album": {
+        "name": "Club Bizarre",
+        "url": "https://open.spotify.com/album/49CWPw9MGkEvc78gTjLnEe"
+      },
+      "artists": [
+        {
+          "name": "U96",
+          "url": "https://open.spotify.com/artist/0RhnKJThw36HFitqY6dYgd"
+        }
+      ],
+      "date_added": "2025-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300226,
+      "name": "Club Bizarre",
+      "url": "https://open.spotify.com/track/4fHug3zCanK33sdvticISi"
+    },
+    {
+      "album": {
         "name": "Club classics / B2b",
         "url": "https://open.spotify.com/album/1SVYaK0V3lULwQ0rtnrIy3"
       },
@@ -21584,14 +21602,6 @@
         {
           "name": "Moe Shop",
           "url": "https://open.spotify.com/artist/7cvljqLNhWNFMb8wP2NImJ"
-        },
-        {
-          "name": "Jamie Paige",
-          "url": "https://open.spotify.com/artist/790JtoMXsEVQqzkerV3xuf"
-        },
-        {
-          "name": "Shiki-TMNS",
-          "url": "https://open.spotify.com/artist/433MAtNbNMBD9ErZQBBnXb"
         }
       ],
       "date_added": "2022-06-10",

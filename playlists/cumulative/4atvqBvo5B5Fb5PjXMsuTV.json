@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 02 Jun 03:03 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 03 Jun 22:03 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -11040,6 +11040,24 @@
       "duration_ms": 176500,
       "name": "BOOOOOORING",
       "url": "https://open.spotify.com/track/70o4Z35wOgtzQEAxLZuPtc"
+    },
+    {
+      "album": {
+        "name": "Booted Up",
+        "url": "https://open.spotify.com/album/2cxNVaMeyRzhSyEQblZcF0"
+      },
+      "artists": [
+        {
+          "name": "GELO",
+          "url": "https://open.spotify.com/artist/5FZN8ElUU5zENi2IK7gMnu"
+        }
+      ],
+      "date_added": "2025-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162426,
+      "name": "Booted Up",
+      "url": "https://open.spotify.com/track/7iYmPfTr3qpVKrEtCxIpZU"
     },
     {
       "album": {
@@ -29444,7 +29462,7 @@
       ],
       "date_added": "2025-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 160687,
       "name": "Forgiving",
       "url": "https://open.spotify.com/track/4Suzf2e7cS5K1aj3tLiwGv"
@@ -34072,6 +34090,24 @@
       "duration_ms": 189428,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/78a91L74IHZVQNyh3wgE3d"
+    },
+    {
+      "album": {
+        "name": "HALLELUJAH",
+        "url": "https://open.spotify.com/album/3AVb7KzXBlB3eEeracWO8Z"
+      },
+      "artists": [
+        {
+          "name": "Ye",
+          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
+        }
+      ],
+      "date_added": "2025-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138216,
+      "name": "HALLELUJAH",
+      "url": "https://open.spotify.com/track/2l6UQIQwYpRF0GMfzyB2Xs"
     },
     {
       "album": {
@@ -65904,7 +65940,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 192911,
       "name": "Revery",
       "url": "https://open.spotify.com/track/0Vn099e0jlAgV0TE5sOre1"

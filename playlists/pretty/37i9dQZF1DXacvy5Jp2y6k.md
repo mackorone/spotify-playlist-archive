@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacvy5Jp2y6k.md) - [plain]
 
 > Songs that will make you fall in love without even seeing your date 👀 Meira and Oskar from Netflix series Love is Blind Sweden bless us with their best ❤️ songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,046 likes - 29 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,077 likes - 29 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacvy5Jp2y6k.md) - [plain]
 | 28 | [Lay All Your Love On Me](https://open.spotify.com/track/4euAGZTszWPrriggYK0HG9) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Super Trouper](https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf) | 4:34 |
 | 29 | [Soltane Ghalbha](https://open.spotify.com/track/1q4U2zOXyMAlVoA5stAN04) | [Aref](https://open.spotify.com/artist/1FEABcMZtFitRlvH8V0UJI) | [Aref Greatest Hits \- Persian Music](https://open.spotify.com/album/5Bvp4WQHji4HIdc1lMbNAW) | 4:39 |
 
-Snapshot ID: `ZcVdLAAAAAAU4xvkTWL4OjJJk9UJK3N0`
+Snapshot ID: `AAAAABvgxf2Atfe8EJeWru33wSGPR7jW`

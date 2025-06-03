@@ -1,13 +1,29 @@
 {
-  "description": "The best and latest rock and alternative. Cover: Big Wreck",
+  "description": "The best and latest rock and alternative. Cover: Rise Against",
   "num_followers": 9872,
   "original_name": "New Rock Music",
   "owner": {
     "name": "Digster Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAAcyVlgu81DEXRPgHf2HlX1WpJuA11K",
+  "snapshot_id": "AAAczE0GDyuB/PeKC2U2qNh/YnwT0GyH",
   "tracks": [
+    {
+      "added_at": "2025-06-02 15:03:50",
+      "album": {
+        "name": "I Want It All",
+        "url": "https://open.spotify.com/album/5ePyRQrVvJWE3YJ8t9FQcw"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 186052,
+      "name": "I Want It All",
+      "url": "https://open.spotify.com/track/6nUv1TbOMwOYzESvJCVbF7"
+    },
     {
       "added_at": "2025-05-23 16:38:03",
       "album": {

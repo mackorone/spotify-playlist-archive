@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: kingdmusic & Luma Elpidio
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,106 likes - 99 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,111 likes - 99 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 98 | [Ukhuphila Kwethu](https://open.spotify.com/track/5MQblyyQ4AdnWWZwZI2jvW) | [Reginald Jabu](https://open.spotify.com/artist/7JH7vnM5DFedm2lcpddAj4) | [Ukhuphila Kwethu](https://open.spotify.com/album/7IQECBtOUX5SF0lWG2SVSM) | 10:00 |
 | 99 | [Agunechemba Abatago \(Reloaded\)](https://open.spotify.com/track/6KefAs4cR2bYPMwlTPHqzJ) | [Minister Prudence](https://open.spotify.com/artist/1nyFNgSDFMVOez6h1v8Ya5) | [Agunechemba Abatago \(Reloaded\)](https://open.spotify.com/album/6VJPM3BfsCouMet7ChT7zY) | 4:50 |
 
-Snapshot ID: `aDj1WgAAAAArw7HMf8LSY4rY5pM67SSs`
+Snapshot ID: `AAAAAA8A34kSkuEJ/v9MqfCk1C7JAr7Y`

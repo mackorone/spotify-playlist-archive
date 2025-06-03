@@ -2,7 +2,7 @@
 
 ### [24K Magic Radio](https://open.spotify.com/playlist/37i9dQZF1E8LxY0mOH4jEX)
 
-> With Bruno Mars, Justin Timberlake, Pitbull and more
+> With Bruno Mars, Justin Timberlake, Katy Perry and more
 
 1,319 songs - 3 day 9 hr 19 min
 

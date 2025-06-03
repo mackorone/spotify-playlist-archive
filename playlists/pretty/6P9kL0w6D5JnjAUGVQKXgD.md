@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6P9kL0w6D5JnjAUGVQKXgD.md) - [plain]
 
 > EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net\. With: Kriss Reeve, Jackson Wang, Galantis, MK
 
-[EDM Charts](https://open.spotify.com/user/edmcharts.net) - 47,285 likes - 100 songs - 5 hr 5 min
+[EDM Charts](https://open.spotify.com/user/edmcharts.net) - 47,282 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,9 +73,9 @@ pretty - [cumulative](/playlists/cumulative/6P9kL0w6D5JnjAUGVQKXgD.md) - [plain]
 | 63 | [Pump The Brakes](https://open.spotify.com/track/553gYUFBUpXSQM8CSZcEhg) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Pump The Brakes](https://open.spotify.com/album/3uOsZZHVaqdfMaZBeGnbYZ) | 3:40 |
 | 64 | [Drank & Drugs](https://open.spotify.com/track/37NZqOoR0dw71kbDCRnsKc) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [New Wave](https://open.spotify.com/album/2qLSdUaLpqlk2JoEo5gilL) | 2:25 |
 | 65 | [Addict](https://open.spotify.com/track/05RC1yOB6HMqq2Q3gQb3Kb) | [Morgan Page](https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b), [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq) | [Addict](https://open.spotify.com/album/5dudS3F8bE4CgRo3PmaLJd) | 2:45 |
-| 66 | [Comes Down](https://open.spotify.com/track/2pHphXOJZdc6NWgenTkaXd) | [Avondzy](https://open.spotify.com/artist/6wBne3PTBbY53TRCAnAS5u), [BAF](https://open.spotify.com/artist/1mhpQdXVCnq31AwzgCPxK9) | [Comes Down](https://open.spotify.com/album/207g5xOP3R7qaSVBERdXqP) | 2:21 |
+| 66 | [Voices \(feat\. TZAR\)](https://open.spotify.com/track/7aAWrDRy3T52A95bDNfdlO) | [Brooks](https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e), [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Tzar](https://open.spotify.com/artist/6oMBHWDRue76zAGaT8Rxw0) | [Voices \(feat\. TZAR\)](https://open.spotify.com/album/11bZPXUTpZ8RsEpZMZOKKR) | 3:12 |
 | 67 | [Comes Down](https://open.spotify.com/track/2pHphXOJZdc6NWgenTkaXd) | [Avondzy](https://open.spotify.com/artist/6wBne3PTBbY53TRCAnAS5u), [BAF](https://open.spotify.com/artist/1mhpQdXVCnq31AwzgCPxK9) | [Comes Down](https://open.spotify.com/album/207g5xOP3R7qaSVBERdXqP) | 2:21 |
-| 68 | [Voices \(feat\. TZAR\)](https://open.spotify.com/track/7aAWrDRy3T52A95bDNfdlO) | [Brooks](https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e), [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Tzar](https://open.spotify.com/artist/6oMBHWDRue76zAGaT8Rxw0) | [Voices \(feat\. TZAR\)](https://open.spotify.com/album/11bZPXUTpZ8RsEpZMZOKKR) | 3:12 |
+| 68 | [Comes Down](https://open.spotify.com/track/2pHphXOJZdc6NWgenTkaXd) | [Avondzy](https://open.spotify.com/artist/6wBne3PTBbY53TRCAnAS5u), [BAF](https://open.spotify.com/artist/1mhpQdXVCnq31AwzgCPxK9) | [Comes Down](https://open.spotify.com/album/207g5xOP3R7qaSVBERdXqP) | 2:21 |
 | 69 | [Another Day In Paradise](https://open.spotify.com/track/0HjogmklU56Soh2HNhbWer) | [House Arrest](https://open.spotify.com/artist/5oggarLMIMIMhyOvjzj0a6), [Bikini Bandits](https://open.spotify.com/artist/2UJZu7S4F22tWYZ2CdsJQr), [Lumin8](https://open.spotify.com/artist/6sVfVaXwlrK0MPkrU8EOtp) | [Another Day In Paradise](https://open.spotify.com/album/46qdwgGcHUVjHFvGuq9Ld8) | 2:07 |
 | 70 | [Tell It To My Heart](https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Tell It To My Heart](https://open.spotify.com/album/27rVuwJ0g0eKRpnvEhQl3G) | 2:45 |
 | 71 | [Torn](https://open.spotify.com/track/6IrZcWFFvMF0UzUKyeUpwn) | [Bikini Bandits](https://open.spotify.com/artist/2UJZu7S4F22tWYZ2CdsJQr), [Lumin8](https://open.spotify.com/artist/6sVfVaXwlrK0MPkrU8EOtp), [Evan Cole](https://open.spotify.com/artist/1xmWaOWc9DJRJYZvWPG6vO) | [Torn](https://open.spotify.com/album/6ufrnLeCiplvdCyV5oNLxl) | 2:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/6P9kL0w6D5JnjAUGVQKXgD.md) - [plain]
 | 99 | [Hands Up](https://open.spotify.com/track/25qhCdtNV7jCiAbcxFxZgx) | [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R), [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Damien N\-Drix](https://open.spotify.com/artist/5728TFNG2bx7GzacEAz3yU) | [Hands Up](https://open.spotify.com/album/70wX919JuPiZprpB6qZYOs) | 2:50 |
 | 100 | [More Than Friends](https://open.spotify.com/track/53SnCRcGrB2UCqNGyYZhJD) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [More Than Friends](https://open.spotify.com/album/6A764hvsFQK48oNsYo7q9M) | 2:20 |
 
-Snapshot ID: `AAAH+cJm+gNy8Vh6Bqu2Nbb4IQS5ndM/`
+Snapshot ID: `AAAH+pBmWYsiC94aOH2tt7BdpAY9dAhL`

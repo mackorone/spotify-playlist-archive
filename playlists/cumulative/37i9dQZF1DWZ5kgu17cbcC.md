@@ -4,7 +4,7 @@
 
 > Music from shows and movies you love including Secret Lives of Mormon Wives, now streaming on Hulu.
 
-161 songs - 7 hr 49 min
+162 songs - 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Another Day in Paradise \- 2016 Remaster](https://open.spotify.com/track/1NCuYqMc8hKMb4cpNTcJbD) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [...But Seriously \(Deluxe Edition\)](https://open.spotify.com/album/2sS9l8uc3d3UsK9unJyrD8) | 5:22 | 2025-03-08 | 2025-04-08 |
 | [Arconia Elevator Theme](https://open.spotify.com/track/697B3xc7LF8PvL2SklAQAA) | [Siddhartha Khosla](https://open.spotify.com/artist/7o8qzsL7eTuGP4piR7XQiY) | [Only Murders in the Building \(Original Score\)](https://open.spotify.com/album/4i1XcUzN8GemQIA8JrGGJb) | 0:37 | 2024-01-05 |  |
 | [Athlete](https://open.spotify.com/track/2Jl2zvsB4WsDddcHnEVtmc) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Songs from "Love, Victor" \(Original Soundtrack\)](https://open.spotify.com/album/1Ne1Q5DkeiivL9qBtoFwAW) | 3:12 | 2024-01-05 | 2025-05-07 |
+| [Bad Advice \- From "Adults"](https://open.spotify.com/track/0aPMsJumGpUcwOMbpEjfkW) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [Bad Advice \(From "Adults"\)](https://open.spotify.com/album/1zAHQLX6f24q8QsYLLaOz3) | 2:30 | 2025-06-02 |  |
 | [Bad Publicity](https://open.spotify.com/track/7F32AiSVdwx18iMwsbNBah) | [Heidi Montag](https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG) | [Superficial 2: Heidiwood Edition](https://open.spotify.com/album/13LkxmSDyseBJd5GA8sDam) | 2:21 | 2025-05-28 |  |
 | [Be My Katie](https://open.spotify.com/track/6dIgh4bT4XuMsUazsO0ggx) | [Duvid Swirsky](https://open.spotify.com/artist/5DS12DhyJAGd63tENcyyfH) | [A Million Little Things: Season 1 \(Original Television Series Soundtrack\)](https://open.spotify.com/album/49xVXnOn5JDk8C4bCThLEd) | 4:15 | 2025-05-06 |  |
 | [BHM Jam Pt\. 1 \(Short Month, Still Stunt\)](https://open.spotify.com/track/772HPAEiBLvUIPn78SEN7c) | [Your Attention Please – Cast](https://open.spotify.com/artist/2eogim5GMTq7Rr7O4Sw3Jt) | [It's Time to Get Black Y'all \(From Hulu's "Your Attention Please" \- Original Soundtrack\)](https://open.spotify.com/album/669rsoEs2fB7d1OAwLLk7o) | 3:16 | 2024-01-05 |  |

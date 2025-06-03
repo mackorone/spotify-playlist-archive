@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-379 songs - 21 hr 51 min
+381 songs - 21 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Dagar utan slut](https://open.spotify.com/track/4lJ8etGLqabsSiJSmcHVWU) | [Andreas Weise](https://open.spotify.com/artist/0G74PWccc2UbEEHNKVVaKB) | [Dagar utan slut](https://open.spotify.com/album/11bnmwGiPmxTDtbnBPxSq3) | 2:42 | 2025-05-08 |  |
 | [Dandelion Kids](https://open.spotify.com/track/647xMrWbg68cS3q4Hb8mvJ) | [Maria Jane Smith](https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u) | [Dandelion Kids](https://open.spotify.com/album/7yHwznQ9AEl2qryn0oAx92) | 4:16 | 2024-11-07 | 2025-05-16 |
 | [Dansa i neon](https://open.spotify.com/track/3KyfoGVGB48ycd2fG1Boyt) | [Noice](https://open.spotify.com/artist/1TVoFA7SMYs6AG3u83FP69) | [Dansa i neon](https://open.spotify.com/album/7iAqElCjbYi83uxAuWDCZt) | 3:15 | 2025-02-20 |  |
+| [Dear Mr\. President](https://open.spotify.com/track/01jqIjPTEGfl1WszmcTofg) | [MÄKI](https://open.spotify.com/artist/12VNlem2IOoPA01BYFoWBa), [Anders Bagge](https://open.spotify.com/artist/7MgeBZ2pgnnkISLd8wsn0T) | [Dear Mr\. President](https://open.spotify.com/album/7aeMGFb5gjcRucCgWo0Edz) | 3:36 | 2025-05-29 |  |
 | [Dekadens](https://open.spotify.com/track/2APlxlSAGJ3KfhWzPbaiBI) | [Lustans Lakejer](https://open.spotify.com/artist/3oB3e3MPyQBX5NttDmNUNN) | [Dekadens](https://open.spotify.com/album/1cn8W6KWoiDuEnb2TYCyIJ) | 3:27 | 2024-06-27 | 2024-08-23 |
 | [Del av dig \- Edit](https://open.spotify.com/track/3E19KKWWG37jr09vU8VDlb) | [Gustaf Norén](https://open.spotify.com/artist/1zR67M6RSKhUxeHfjZ1TWf) | [Del av dig \(Edit\)](https://open.spotify.com/album/1XYWuLePZJFak970ii4pqh) | 3:41 | 2024-09-06 | 2024-12-08 |
 | [Den jag aldrig kunde va](https://open.spotify.com/track/5epuLjfS7X2LM5c0bGcBjJ) | [Jens Hult](https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu) | [Den jag aldrig kunde va](https://open.spotify.com/album/0EU5Ugb6KcCUiK3DuQ2Dum) | 2:49 | 2025-04-10 |  |
@@ -108,6 +109,7 @@
 | [Ett Glas Till](https://open.spotify.com/track/1KEbdZihYjyr8LvxGalGYR) | [Avantgardet](https://open.spotify.com/artist/7eX1F6FIRszrebMLdM1BpQ) | [Dom Sa – Ett glas till](https://open.spotify.com/album/5Useo9AgKrHlin0pSsEt74) | 4:25 | 2024-06-27 | 2024-08-16 |
 | [Europa](https://open.spotify.com/track/2jlj959NddsGSOCWG50UAv) | [David Ritschard](https://open.spotify.com/artist/2kVWsK53009cpZqfuA3TMf) | [Innan tystnaden tar vid](https://open.spotify.com/album/7IJJWqgkGGQSK3VdOH69wI) | 6:34 | 2024-08-29 | 2025-01-15 |
 | [Fading Like A Rose \(Original +2 bpm\)](https://open.spotify.com/track/3TbqYPh4PhmpP7zQYt8iRq) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [ROX RMX Vol\. 1 \(Remixes From The Roxette Vaults\)](https://open.spotify.com/album/5B7TvbVknCtZDOnv4NCG5S) | 3:59 | 2024-09-06 | 2024-12-24 |
+| [Fait Accompli](https://open.spotify.com/track/1UOcJZoRbbYwC874JFZo0f) | [Mariette](https://open.spotify.com/artist/76nW12AUcUVEiC8fwFoAns) | [Fait Accompli](https://open.spotify.com/album/4T8T9Kx1tC96ltSpDzeyYt) | 2:56 | 2025-05-29 |  |
 | [Faithless](https://open.spotify.com/track/6UuDamBC3Jd5786vcXUPr4) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Faithless](https://open.spotify.com/album/0d8swHQ9ch1mzuwKUHOBjj) | 3:51 | 2025-05-01 |  |
 | [Fan för dig](https://open.spotify.com/track/0oYRtSnrvzyVcPEFgRkhUg) | [Dom Första](https://open.spotify.com/artist/10uLT8GVnmWiYqegEwaO70), [Caroline](https://open.spotify.com/artist/0lAH0mtuoDPBLteml8XHKe) | [Fan för dig](https://open.spotify.com/album/32I93ksL4dC1ibI8mpYask) | 2:46 | 2024-10-24 | 2025-05-02 |
 | [FEAR OF WINNING](https://open.spotify.com/track/1eqUgrrDobS9cicwpm1aMx) | [Björn Dixgård](https://open.spotify.com/artist/13zLG8IHxqnaG2ijVbj6MT) | [FEAR OF WINNING](https://open.spotify.com/album/5tRqhksdFmuoBZws5eA9Uu) | 3:27 | 2024-10-24 | 2025-05-09 |
@@ -281,7 +283,7 @@
 | [Salta tårar](https://open.spotify.com/track/2d7JfqU2Vhe94bedlOJRNy) | [Magnus Carlsson](https://open.spotify.com/artist/12VIfmT1N5FGyCuuXGKuYB) | [Salta tårar](https://open.spotify.com/album/08BcoLD1gNU0NsDRZAdLit) | 3:23 | 2024-06-27 | 2024-08-16 |
 | [Samma saga](https://open.spotify.com/track/34EnASX8bW5xZTAUIynqoe) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Samma saga](https://open.spotify.com/album/1OnTBU1KrY0MvtpJlXO3NI) | 3:33 | 2024-10-10 | 2025-04-25 |
 | [Satanized](https://open.spotify.com/track/3UAQ7gQc2O3B40M4XrEgpT) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Satanized](https://open.spotify.com/album/47DIJNO8Fgzi9ptduzI7R2) | 3:56 | 2025-03-10 |  |
-| [Ser du månen där du är ikväll](https://open.spotify.com/track/6LDQVt0SBoqGSEkov9tD3q) | [Charlotte Perrelli](https://open.spotify.com/artist/39Waq6UmqYCBEuyv8M8kjl) | [Vaggvisor med Perrelli](https://open.spotify.com/album/6hdlcqRwVgoIjo5IFShQ70) | 4:17 | 2025-05-29 |  |
+| [Ser du månen där du är ikväll](https://open.spotify.com/track/6LDQVt0SBoqGSEkov9tD3q) | [Charlotte Perrelli](https://open.spotify.com/artist/39Waq6UmqYCBEuyv8M8kjl) | [Vaggvisor med Perrelli](https://open.spotify.com/album/6hdlcqRwVgoIjo5IFShQ70) | 4:17 | 2025-05-29 | 2025-06-03 |
 | [Seven Days Of Heaven](https://open.spotify.com/track/4FdVXLaBpWLNshAzXP4WAa) | [Andreas Aleman](https://open.spotify.com/artist/5ZHdPTW1cR0FD0HMBY0Zd3) | [Seven Days Of Heaven](https://open.spotify.com/album/1xfkNCZQmq4sGKRxTpOFe9) | 3:35 | 2025-05-08 |  |
 | [Show Me](https://open.spotify.com/track/23mymG8MR8H4oQ6uyJ40cQ) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Show Me](https://open.spotify.com/album/2iX8n3q3raSUgt3J1ejovV) | 3:38 | 2024-06-27 | 2024-08-09 |
 | [Sign](https://open.spotify.com/track/1HiMLlD5OBUqoKNMNBMgTV) | [Kleerup](https://open.spotify.com/artist/2YL0l5fnyHE9FEf1bwFGCc), [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [Sign](https://open.spotify.com/album/5WhLbhoV8ZB4P0SxceezKc) | 3:07 | 2024-12-05 | 2025-05-16 |
@@ -289,7 +291,7 @@
 | [Silverregn](https://open.spotify.com/track/11CMU3PNUeEEgcQHhPEY1R) | [Lisa Nilsson](https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG) | [Silverregn / Återvänd till mig](https://open.spotify.com/album/3bjCpMeIMjPV9t4twZoa95) | 5:54 | 2025-01-23 |  |
 | [Sirens](https://open.spotify.com/track/4onivzHQlMuwfCdXZ7zysn) | [Dotter](https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t) | [Sirens](https://open.spotify.com/album/7fQj6lwy2kSaqJv5xvH110) | 2:52 | 2025-01-16 | 2025-05-30 |
 | [Skin and Bones](https://open.spotify.com/track/7ix2pCDHtX8WZcmWWKJZOU) | [ORKID](https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG) | [Where Flowers Grow](https://open.spotify.com/album/0pO91Y2mnXavXzOjuJfSdm) | 3:18 | 2024-11-08 | 2025-05-16 |
-| [Slå upp dina fönster \(musik för sorgfyllda bröst\)](https://open.spotify.com/track/5puE0tlsaUSm5zxqBc8mkl) | [Sofia Karlsson](https://open.spotify.com/artist/2tKGISNf0bei0IxfLQGMEt) | [Slå upp dina fönster \(musik för sorgfyllda bröst\)](https://open.spotify.com/album/5g5O50A5IQhBppY1hcaIEe) | 4:31 | 2025-05-19 |  |
+| [Slå upp dina fönster \(musik för sorgfyllda bröst\)](https://open.spotify.com/track/5puE0tlsaUSm5zxqBc8mkl) | [Sofia Karlsson](https://open.spotify.com/artist/2tKGISNf0bei0IxfLQGMEt) | [Slå upp dina fönster \(musik för sorgfyllda bröst\)](https://open.spotify.com/album/5g5O50A5IQhBppY1hcaIEe) | 4:31 | 2025-05-19 | 2025-06-03 |
 | [Sol, vind och vatten](https://open.spotify.com/track/0Dl6aAece1roeWExwDV6Xs) | [Jakob Karlberg](https://open.spotify.com/artist/2wTNL2DgYACRKqxGb9oKO1) | [Sol, vind och vatten](https://open.spotify.com/album/2tKNEji5t3NPjriC1WXijr) | 3:16 | 2024-06-27 | 2024-08-09 |
 | [Sol, vind och vatten](https://open.spotify.com/track/5s3pTIa2lWnitF6x0pqWDu) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Sol, vind och vatten](https://open.spotify.com/album/6Fz2mcB9LBohD8iKu2uFrg) | 3:38 | 2024-06-27 | 2024-08-30 |
 | [Solen går aldrig ner](https://open.spotify.com/track/7sWi4kUiI1o0dmp72tfZpS) | [Tim Lidman](https://open.spotify.com/artist/5xkOv6R7zAoKN69OE2MKQq) | [Solen går aldrig ner](https://open.spotify.com/album/2y5tJvYtWXmNNXizFcF9LT) | 2:40 | 2024-06-27 | 2024-08-16 |

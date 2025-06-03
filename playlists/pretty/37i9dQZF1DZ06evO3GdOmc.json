@@ -1,12 +1,12 @@
 {
   "description": "This is Casting Crowns. The essential tracks, all in one playlist.",
-  "num_followers": 42169,
+  "num_followers": 42187,
   "original_name": "This Is Casting Crowns",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDpGgAAAAADaYVvYoj+KSLVZFeWC/+gG",
+  "snapshot_id": "aDuYAAAAAACUPm0uCymXj+GvyysqV/3v",
   "tracks": [
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lifesong",
-        "url": "https://open.spotify.com/album/2v95tknJRY8fBHvaNHm6Fc"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 268666,
-      "name": "Does Anybody Hear Her",
-      "url": "https://open.spotify.com/track/7pJB2CjZQUt4Ig1fdPQl5s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Glorious Day: Hymns of Faith",
         "url": "https://open.spotify.com/album/3hB7IALT7uaNMC6Ol0elbo"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 196933,
       "name": "'Tis So Sweet To Trust In Jesus",
       "url": "https://open.spotify.com/track/68QjFdBRwqWSgfxRnEu9SZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lifesong",
+        "url": "https://open.spotify.com/album/2v95tknJRY8fBHvaNHm6Fc"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 268666,
+      "name": "Does Anybody Hear Her",
+      "url": "https://open.spotify.com/track/7pJB2CjZQUt4Ig1fdPQl5s"
     },
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Live Worship Experience",
-        "url": "https://open.spotify.com/album/25mkgg56UiC6L5WoVoPteq"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 379213,
-      "name": "Good Good Father - Live",
-      "url": "https://open.spotify.com/track/7nLL5UrsXYHVWv2DnXBtud"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Thrive",
         "url": "https://open.spotify.com/album/3rdhHLp8c07rmDpN7lEARY"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 281426,
       "name": "Broken Together",
       "url": "https://open.spotify.com/track/2PuvIyN4e2w2i4GIjWCqsB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Live Worship Experience",
+        "url": "https://open.spotify.com/album/25mkgg56UiC6L5WoVoPteq"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 379213,
+      "name": "Good Good Father - Live",
+      "url": "https://open.spotify.com/track/7nLL5UrsXYHVWv2DnXBtud"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Healer",
-        "url": "https://open.spotify.com/album/7tUX8t3YsmIfYcykcSjwYw"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 191466,
-      "name": "Healer",
-      "url": "https://open.spotify.com/track/6rt4pxatKBWEK34ElopOmw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Thrive",
         "url": "https://open.spotify.com/album/3rdhHLp8c07rmDpN7lEARY"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 241746,
       "name": "All You've Ever Wanted",
       "url": "https://open.spotify.com/track/5lSVszuv0PGnfvh2HTWq1k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Healer",
+        "url": "https://open.spotify.com/album/7tUX8t3YsmIfYcykcSjwYw"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 191466,
+      "name": "Healer",
+      "url": "https://open.spotify.com/track/6rt4pxatKBWEK34ElopOmw"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Appreciate the many miracles around you with these songs of worship.",
-  "num_followers": 225142,
+  "num_followers": 225178,
   "original_name": "Miracles",
   "owner": {
     "name": "Spotify",
@@ -795,6 +795,22 @@
     {
       "added_at": "2024-08-03 08:12:04",
       "album": {
+        "name": "Here (Live)",
+        "url": "https://open.spotify.com/album/7sOLny4qMMkbLOxfvflwQ8"
+      },
+      "artists": [
+        {
+          "name": "Red Rocks Worship",
+          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
+        }
+      ],
+      "duration_ms": 442893,
+      "name": "Nobody Like You (Live)",
+      "url": "https://open.spotify.com/track/6D6VEYKOzqYU1pXeMg2ZeN"
+    },
+    {
+      "added_at": "2024-08-03 08:12:04",
+      "album": {
         "name": "Center of Your Love",
         "url": "https://open.spotify.com/album/01j8mx7lu1xopdogMNvelL"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 488800,
       "name": "Jesus, Come Be the Center (feat. Meredith Mauldin)",
       "url": "https://open.spotify.com/track/019bUsr4PoAECWZr49KaVJ"
-    },
-    {
-      "added_at": "2024-08-03 08:12:04",
-      "album": {
-        "name": "Here (Live)",
-        "url": "https://open.spotify.com/album/7sOLny4qMMkbLOxfvflwQ8"
-      },
-      "artists": [
-        {
-          "name": "Red Rocks Worship",
-          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
-        }
-      ],
-      "duration_ms": 442893,
-      "name": "Nobody Like You (Live)",
-      "url": "https://open.spotify.com/track/6D6VEYKOzqYU1pXeMg2ZeN"
     },
     {
       "added_at": "2024-08-03 08:12:04",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-08-03 08:12:04",
       "album": {
-        "name": "Hello Maker",
-        "url": "https://open.spotify.com/album/22pKUdahZtdO78K72hNK1j"
-      },
-      "artists": [
-        {
-          "name": "Bright City",
-          "url": "https://open.spotify.com/artist/5hYRBkg6k7yq787YZedMaR"
-        }
-      ],
-      "duration_ms": 300854,
-      "name": "Rock of Our Salvation",
-      "url": "https://open.spotify.com/track/0xIWuowu94DVPnePfM04uX"
-    },
-    {
-      "added_at": "2024-08-03 08:12:04",
-      "album": {
         "name": "Sons & Daughters (feat. Joel Gerdis) (feat. Joel Gerdis)",
         "url": "https://open.spotify.com/album/4WTT13R6XQ9LmrvKvoRUWY"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 336680,
       "name": "Sons & Daughters (feat. Joel Gerdis) (feat. Joel Gerdis)",
       "url": "https://open.spotify.com/track/11jWJHIPj97VsZlCk72KDF"
+    },
+    {
+      "added_at": "2024-08-03 08:12:04",
+      "album": {
+        "name": "Hello Maker",
+        "url": "https://open.spotify.com/album/22pKUdahZtdO78K72hNK1j"
+      },
+      "artists": [
+        {
+          "name": "Bright City",
+          "url": "https://open.spotify.com/artist/5hYRBkg6k7yq787YZedMaR"
+        }
+      ],
+      "duration_ms": 300854,
+      "name": "Rock of Our Salvation",
+      "url": "https://open.spotify.com/track/0xIWuowu94DVPnePfM04uX"
     },
     {
       "added_at": "2024-08-03 08:12:04",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-08-03 08:12:04",
       "album": {
-        "name": "Canvas And Clay (Live)",
-        "url": "https://open.spotify.com/album/3sD7R3Rj753B3w3DZsSeIV"
-      },
-      "artists": [
-        {
-          "name": "Pat Barrett",
-          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
-        }
-      ],
-      "duration_ms": 383560,
-      "name": "You're Making Something Beautiful - Spontaneous/Live",
-      "url": "https://open.spotify.com/track/7ygTUmAS6ZgoNVC5fEiFLr"
-    },
-    {
-      "added_at": "2024-08-03 08:12:04",
-      "album": {
         "name": "Never Going Back",
         "url": "https://open.spotify.com/album/4XuXyNQX9VnoxPMjQ0kk6H"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 260213,
       "name": "Oh The Wonder (feat. Mike Grayson)",
       "url": "https://open.spotify.com/track/3z0MhWhSeSiSyPUTfDr5zj"
+    },
+    {
+      "added_at": "2024-08-03 08:12:04",
+      "album": {
+        "name": "Canvas And Clay (Live)",
+        "url": "https://open.spotify.com/album/3sD7R3Rj753B3w3DZsSeIV"
+      },
+      "artists": [
+        {
+          "name": "Pat Barrett",
+          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
+        }
+      ],
+      "duration_ms": 383560,
+      "name": "You're Making Something Beautiful - Spontaneous/Live",
+      "url": "https://open.spotify.com/track/7ygTUmAS6ZgoNVC5fEiFLr"
     },
     {
       "added_at": "2024-08-03 08:12:04",

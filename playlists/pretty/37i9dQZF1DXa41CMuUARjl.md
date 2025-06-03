@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 
 > This week's handpicked new <a href="spotify:genre:edm\_dance">dance and electronic music</a>, featuring new music from Keinemusik
 
-[Spotify](https://open.spotify.com/user/spotify) - 530,206 likes - 125 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 530,356 likes - 125 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,7 +125,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 | 115 | [The Ground](https://open.spotify.com/track/6JpYFzsPAHfi6kD5OMTs0R) | [devin](https://open.spotify.com/artist/1nTDIsZa79wLRMZDfuVG3h), [DJ Carpenter](https://open.spotify.com/artist/3HT9KuqyBAFyWgw4xMLPUi) | [The Ground](https://open.spotify.com/album/0aNedog5mRYozK9HmnIGcX) | 3:18 |
 | 116 | [Her \(Never Like This\)](https://open.spotify.com/track/6YnsAiMmdM4KwlcAF2ynyw) | [Florian Hope](https://open.spotify.com/artist/4ugVS3CJ6GIxUX24WXXrcN) | [Her \(Never Like This\)](https://open.spotify.com/album/67PHWWXqPg7eKB8kUodhw5) | 2:40 |
 | 117 | [lost in paris](https://open.spotify.com/track/1UZGx4VsQXjvWLCKYJAYFW) | [Midnight Dance Party](https://open.spotify.com/artist/27CcPFsy79qUbXjqWSDkjj) | [lost in paris](https://open.spotify.com/album/5J1zNVEO5PC4CZYvxpOoJq) | 3:00 |
-| 118 | [Bella Vita](https://open.spotify.com/track/2rtY25y4dpI58ZZnD5RFhS) | [Thys](https://open.spotify.com/artist/6x8tZ30aFwdl50YjETAppR), [Simon Says!](https://open.spotify.com/artist/186v5tVeJT1K15be0J5vKe), [Elasi](https://open.spotify.com/artist/2IH3lriPtap4OENe2LXVgW) | [Bella Vita](https://open.spotify.com/album/77cc5OsaMAz80k0ySozcv5) | 4:00 |
+| 118 | [Bella Vita](https://open.spotify.com/track/2rtY25y4dpI58ZZnD5RFhS) | [Thys](https://open.spotify.com/artist/6x8tZ30aFwdl50YjETAppR), [Simon Says!](https://open.spotify.com/artist/186v5tVeJT1K15be0J5vKe), [ELASI](https://open.spotify.com/artist/3C8AlXFIhzxJ4BCKxNQJJ6) | [Bella Vita](https://open.spotify.com/album/77cc5OsaMAz80k0ySozcv5) | 4:00 |
 | 119 | [People Of Guidonia](https://open.spotify.com/track/2J601rdTUpBNHRfN77YwW9) | [Lorenzo\_BITW](https://open.spotify.com/artist/3Za28S9hIyeyGQmAk8d4FV), [BOVE](https://open.spotify.com/artist/32jhKmiFkHPmX4yzVKXIah), [Andrea Colicchia](https://open.spotify.com/artist/0S8KsRL2CK07lpobW38H9g), [Dark Carbonara](https://open.spotify.com/artist/6mpXVCtSOkFJabjkc5Dki7) | [People Of Guidonia](https://open.spotify.com/album/4brBUnQRXIf1kDXfRYCyzs) | 2:57 |
 | 120 | [Bruce Wayne \- Loek Remix](https://open.spotify.com/track/6RRKcbrq0F4vtfePmDvwrt) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki), [Loek](https://open.spotify.com/artist/2JOvOzmVfZf99AJBtjemm0) | [Bruce Wayne \(Loek Remix\)](https://open.spotify.com/album/2FtST95kCd9R6gFWaK2gEL) | 2:50 |
 | 121 | [All Night](https://open.spotify.com/track/6wpIGFUcDUSg2l75npKFdU) | [Mesto](https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9), [Vluarr](https://open.spotify.com/artist/0ClkclGbzsEY0aBtqq8MrB) | [All Night & Gemini](https://open.spotify.com/album/7hmuaX4utQQELTvPIovNUn) | 2:31 |

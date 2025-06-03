@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Lee Vasi
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,882 likes - 99 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,923 likes - 99 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 43 | [Free](https://open.spotify.com/track/41ibCK6uOdn7BUhKqvf09e) | [Jillian Warman](https://open.spotify.com/artist/1ADnGh2KezhGKJKtxvqIQs) | [Free](https://open.spotify.com/album/0H330u3155z0sVx9zRvwwm) | 3:40 |
 | 44 | [I’m Amazed](https://open.spotify.com/track/6rHWWNilB4xllwf3p9r79k) | [Jordan Family Band](https://open.spotify.com/artist/0F3HuI96IE7U2rQbaA2swn) | [Back to Life](https://open.spotify.com/album/15Qn5wzwTFsn1YYFLrJcrY) | 3:35 |
 | 45 | [Cathedral \- Live](https://open.spotify.com/track/7giKwleQHQ0rDMZnypzWej) | [Jonathan David Helser](https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp), [Melissa Helser](https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r), [Cageless Birds](https://open.spotify.com/artist/4rZuQD42ETklGQfWmgvqBR) | [Cathedral \(Live\)](https://open.spotify.com/album/7fROF1qFAmHeUvzAhVfkJj) | 5:56 |
-| 46 | [Inhabit \- Live](https://open.spotify.com/track/7uV23diPvoJDAtiCUehgdn) | [Austin Johnson](https://open.spotify.com/artist/2BPfjNofqF1uBvxJ3kUTbO), [Kory Miller](https://open.spotify.com/artist/0QCjdltvL9ZrRhayylw97h), [Hannah Waters](https://open.spotify.com/artist/4ikD0yzW2w4xoY6xBla98L), [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [Inhabit \(Live\)](https://open.spotify.com/album/7JKsu4MIWFQd1SSakrv41q) | 9:37 |
+| 46 | [Inhabit \- Live](https://open.spotify.com/track/7uV23diPvoJDAtiCUehgdn) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Austin Johnson](https://open.spotify.com/artist/2BPfjNofqF1uBvxJ3kUTbO), [Kory Miller](https://open.spotify.com/artist/0QCjdltvL9ZrRhayylw97h), [Hannah Waters](https://open.spotify.com/artist/4ikD0yzW2w4xoY6xBla98L) | [Inhabit \(Live\)](https://open.spotify.com/album/7JKsu4MIWFQd1SSakrv41q) | 9:37 |
 | 47 | [Dwell](https://open.spotify.com/track/33G7XMjL3uKBJwlaamaUsa) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [Sydney James](https://open.spotify.com/artist/0Hv0lVzc1FOqtBajPTUOVQ) | [Dwell](https://open.spotify.com/album/2KqpntXs36LLr188Bo31Tc) | 5:47 |
 | 48 | [Presence Of The Lord \- Acoustic](https://open.spotify.com/track/37edeKt0t1eByHsM98PIWe) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Derek Johnson](https://open.spotify.com/artist/3967KnQedbgX8KdNTXhm7y) | [Worthy Of Hallelujah \(Deluxe\)](https://open.spotify.com/album/3up4OmY7t0e96Jee3IXux9) | 5:24 |
 | 49 | [Holy Forever](https://open.spotify.com/track/0MKlcoQ8MF508sEMkHFnS2) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ) | [Holy Forever \(Acapella\)](https://open.spotify.com/album/5sZXvcTKMh9sNcRYaQlYGo) | 2:27 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 98 | [Lift My Eyes](https://open.spotify.com/track/5kg519nV965s3Mg5UcQuOV) | [Josh Wright](https://open.spotify.com/artist/0okSx9dxCq2J9CYuAQalp2) | [Lift My Eyes](https://open.spotify.com/album/5nKUFMFCT0WCg4iWvEDTmi) | 3:39 |
 | 99 | [SPRING](https://open.spotify.com/track/73OB35LFRhwA6mXkyAKjET) | [Citizen Way](https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4), [Ben Calhoun](https://open.spotify.com/artist/3DoB8IT5SRyA12rBhSqVkW), [Ava Calhoun](https://open.spotify.com/artist/1KzVqWVsYaIUlgtbGI09wx) | [SPRING](https://open.spotify.com/album/5bh73n2pSw0LujyHDzOZYP) | 3:51 |
 
-Snapshot ID: `aDllOwAAAABUeISW03AWUH0W4xs9m0kW`
+Snapshot ID: `aDllOwAAAABlegx8vrL05vCqId8IPtF0`

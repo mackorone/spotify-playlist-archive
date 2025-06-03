@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 
 > The latest tracks from Mad Decent and friends\. Featuring new music from Kito and DJ\_Dave, plus the latest cuts from inter alia, and Varg2TM &amp; DJ Smokey.
 
-[Mad Decent](https://open.spotify.com/user/maddecent) - 50,926 likes - 100 songs - 5 hr 28 min
+[Mad Decent](https://open.spotify.com/user/maddecent) - 50,922 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

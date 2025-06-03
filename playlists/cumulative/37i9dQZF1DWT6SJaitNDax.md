@@ -4,7 +4,7 @@
 
 > Afro sounds crossing borders\. Cover: Burna Boy and Travis Scott
 
-756 songs - 1 day 14 hr 56 min
+757 songs - 1 day 14 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [African Girl Bad](https://open.spotify.com/track/2iKM6R7hySTdy1QKh2WApo) | [Zoro](https://open.spotify.com/artist/6C5VcMDwD9dQqIOM8VePTM), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [African Girl Bad](https://open.spotify.com/album/5IWveJxAJWYsgNEP9b42fD) | 3:20 | 2021-09-10 | 2022-07-27 |
 | [After OT Bop](https://open.spotify.com/track/1lx47FNvLxy4adohBhod5N) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL) | [After OT Bop](https://open.spotify.com/album/1rl3iIA0JkW1A4VzlHrphf) | 3:41 | 2021-09-10 | 2022-05-17 |
 | [Akanchawa](https://open.spotify.com/track/2FNqnTDRS3BhrNIxMnEGIc) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Akanchawa](https://open.spotify.com/album/16Lcll0j1Re8Se1dGHunrQ) | 2:15 | 2025-01-10 | 2025-01-25 |
+| [Al\-Jannah](https://open.spotify.com/track/0mCxHKr5bp05PMdD7jU4rW) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Uncle K: Lemon Chase](https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF) | 2:18 | 2025-06-02 |  |
 | [Alchl](https://open.spotify.com/track/6s2Axyc8OgfFFlDMK3XtqZ) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [I Dream In Color](https://open.spotify.com/album/1f2GqjFMA3dTYF6CNVAQdh) | 2:40 | 2025-02-28 | 2025-03-08 |
 | [Alhaji](https://open.spotify.com/track/1fl2s61uhH6Ob4bU6f8TMT) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Alhaji](https://open.spotify.com/album/2x89WyCjViUviC7YjEZlxm) | 2:23 | 2025-05-23 | 2025-05-31 |
 | [Alien](https://open.spotify.com/track/1e0WFJG0AQjThwpvrlXtFY) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Alien](https://open.spotify.com/album/55Mv3VKNjpmBQLz6BE53W6) | 2:42 | 2022-03-25 | 2022-04-20 |
@@ -103,7 +104,7 @@
 | [Big Thug Boys](https://open.spotify.com/track/64f7mZuEkeNeKOuzSjrIGm) | [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX) | [Big Thug Boys](https://open.spotify.com/album/79PtaeN11NuACxUaeipBom) | 2:51 | 2022-07-25 | 2023-08-10 |
 | [Big Thug Boys \(Dj Yo! Remix\)](https://open.spotify.com/track/50OUQ4zH8PfuQzuDyZw2Of) | [AV](https://open.spotify.com/artist/4zSFP72igZmzWSRpK7AepF), [Dj Yo!](https://open.spotify.com/artist/7iTLGcddv1bOPirdYJjKVy) | [Big Thug Boys \(Dj Yo! Remix\)](https://open.spotify.com/album/325V7bs8JbRVesHY65GwjK) | 2:54 | 2022-04-08 | 2022-07-29 |
 | [Bitter](https://open.spotify.com/track/6RLK5Lu1uAQHk20UIKgdpj) | [Ogi](https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu) | [Monologues](https://open.spotify.com/album/6DCJRFuE8JFtrOdSKSweaE) | 3:03 | 2022-05-07 | 2022-05-20 |
-| [Black Girl Magic](https://open.spotify.com/track/6n6J0mZb0ltWlt2AqobHVd) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Uncle K: Lemon Chase](https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF) | 2:17 | 2025-05-30 |  |
+| [Black Girl Magic](https://open.spotify.com/track/6n6J0mZb0ltWlt2AqobHVd) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Uncle K: Lemon Chase](https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF) | 2:17 | 2025-05-30 | 2025-06-03 |
 | [Blessed \(feat\. Damian Marley\)](https://open.spotify.com/track/3QO1m6i0nsrp8aOnapvbkx) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:22 | 2021-09-10 | 2024-01-26 |
 | [Blessing](https://open.spotify.com/track/18aLGK4o5W41lc8T7jPMJ0) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [Blessing](https://open.spotify.com/album/1QQiHqjKzRU5Rd0Uo0cpzZ) | 3:48 | 2021-09-10 | 2022-07-03 |
 | [Blessings \(Alubarika\) \(feat\. Soundz\)](https://open.spotify.com/track/5UjiQgEQN9QODf8K3NQ8H5) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0) | [Blessings \(Alubarika\) \(feat\. Soundz\)](https://open.spotify.com/album/2G9y69aorCh1O6jfQATmfK) | 2:50 | 2025-01-31 | 2025-02-15 |

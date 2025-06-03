@@ -4,7 +4,7 @@
 
 > Grüezi! This is 100% made in Switzerland\.  Cover: Zoë Më
 
-356 songs - 18 hr 20 min
+357 songs - 18 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Coo Ca Choo](https://open.spotify.com/track/3zoU5ulfZ9SKSnqPwS1LCZ) | [Lovebugs](https://open.spotify.com/artist/6piYZXXQCn1uniYcHcwS89) | [Coo Ca Choo](https://open.spotify.com/album/2xL4LTdktNIGrYRnYq5cHU) | 3:36 | 2024-12-20 | 2025-02-15 |
 | [copypaste](https://open.spotify.com/track/7m9WgSEUPIgSxT6f7wL3U0) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [copypaste](https://open.spotify.com/album/5nv4OeXH8BGqmAYMnsqROB) | 3:20 | 2024-08-09 | 2024-08-24 |
 | [Corpse Bride](https://open.spotify.com/track/0bARGmIFiwDIp05EM3PIYt) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Corpse Bride](https://open.spotify.com/album/4LHyzaPhcYIfyyRfmdhHrs) | 3:07 | 2024-09-13 | 2024-10-19 |
-| [Counting Days](https://open.spotify.com/track/6ujzmWSyfa57nVtjNO54G0) | [Jared Lembo](https://open.spotify.com/artist/7m40p3LDka0BxsiX0tZT9g) | [Counting Days](https://open.spotify.com/album/61hyS4rmGow2ddAzSQkfr2) | 2:44 | 2024-06-27 |  |
+| [Counting Days](https://open.spotify.com/track/6ujzmWSyfa57nVtjNO54G0) | [Jared Lembo](https://open.spotify.com/artist/7m40p3LDka0BxsiX0tZT9g) | [Counting Days](https://open.spotify.com/album/61hyS4rmGow2ddAzSQkfr2) | 2:44 | 2024-06-27 | 2025-06-03 |
 | [cry no more](https://open.spotify.com/track/26gpBk4cVSD8RrgR3cyqo7) | [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp) | [cry no more](https://open.spotify.com/album/4IeTUCkFMlo2Dh0evzHFoh) | 3:16 | 2024-11-29 |  |
 | [Daredevil](https://open.spotify.com/track/1edoaqKUVDzWNs4flkvNPw) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [Daredevil](https://open.spotify.com/album/1eLoAa0EpSIq1QhDUeEgaa) | 2:33 | 2024-06-27 | 2024-08-04 |
 | [Dein Herz](https://open.spotify.com/track/5odFCd8J95sMRZUuvY4nQM) | [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [Dein Herz](https://open.spotify.com/album/6DqWKjXtC9zw3FM20jw9A5) | 2:48 | 2025-01-10 |  |
@@ -95,7 +95,7 @@
 | [Don't Stop The Car](https://open.spotify.com/track/4TGFS6BL59tuRSjBByZ3A4) | [Nickless](https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea) | [Don't Stop The Car](https://open.spotify.com/album/0cWThtdC9EYUPQMGAivj7m) | 3:14 | 2024-06-27 |  |
 | [Don't You](https://open.spotify.com/track/4SCGx3pO13awv6gpHz1ebm) | [Marc Sway](https://open.spotify.com/artist/5czVIm17rZyNTdUdD6yY7w), [Naomi Ayleen](https://open.spotify.com/artist/7eHijIZEf09FGSZYcysqe9) | [Don't You](https://open.spotify.com/album/5cvlDr98frKNS47U2Antil) | 3:11 | 2024-12-07 | 2025-03-23 |
 | [Doomsday Kiss](https://open.spotify.com/track/0b6CfOTTJQGJhS4mliyjAV) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Doomsday Kiss](https://open.spotify.com/album/3nfIttcOYNsLZWtFXd7kGa) | 2:48 | 2025-05-22 |  |
-| [dormant plants](https://open.spotify.com/track/1rS3xMPOBLjS6Nm4MlYiN7) | [Elie Zoé](https://open.spotify.com/artist/2t7zzvR3tKMctlLIUkTvjc) | [dormant plants](https://open.spotify.com/album/5wLF3Uc5IDZqcXjhR7vIvm) | 4:15 | 2025-05-29 | 2025-06-02 |
+| [dormant plants](https://open.spotify.com/track/1rS3xMPOBLjS6Nm4MlYiN7) | [Elie Zoé](https://open.spotify.com/artist/2t7zzvR3tKMctlLIUkTvjc) | [dormant plants](https://open.spotify.com/album/5wLF3Uc5IDZqcXjhR7vIvm) | 4:15 | 2025-05-29 |  |
 | [Down To My Bones](https://open.spotify.com/track/634vnGPykpqsgpMJlW9XOj) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Down To My Bones](https://open.spotify.com/album/6qrZVY8wS9AiYjNaHTXreD) | 3:21 | 2024-11-01 |  |
 | [Drei Stunden](https://open.spotify.com/track/6L0Ii1AzM0W4ZAl8FPPN1b) | [jan SEVEN dettwyler](https://open.spotify.com/artist/0vzAclaaTGJDFQzdWxmTej) | [Drei Stunden](https://open.spotify.com/album/2XMofoZm4xZtaWWkuQEVON) | 2:29 | 2024-08-05 | 2024-08-30 |
 | [Du](https://open.spotify.com/track/0EM85Qj3526QtxCBOQL6rT) | [Nemo \(CH\)](https://open.spotify.com/artist/1KbDYbNErlTGfWPENELJgM) | [Du](https://open.spotify.com/album/3VDAjCOWVKdGVmnVFvTTUr) | 3:36 | 2025-05-08 | 2025-05-16 |
@@ -105,7 +105,7 @@
 | [Ein bisschen Frieden](https://open.spotify.com/track/1NTjTztpbbrpbrkVLppj6c) | [San Silvan](https://open.spotify.com/artist/4MY0xfcyD9dLgbj27g59XT), [Steiner & Madlaina](https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg) | [Ein bisschen Frieden](https://open.spotify.com/album/7n5pZ8QBFhwjjft94495tQ) | 3:52 | 2024-12-20 | 2025-03-08 |
 | [Eisbär](https://open.spotify.com/track/6dO3t1e3pb7sxyDQbDyVNX) | [Grauzone](https://open.spotify.com/artist/2oNZUW4sR0AGXRyPExtFnW) | [Eisbär](https://open.spotify.com/album/6T7XaTroien9MaoWJZiUdE) | 4:48 | 2025-05-15 | 2025-05-23 |
 | [En Lea](https://open.spotify.com/track/2js5S4h0pIFeHX0WLDOxwW) | [Muddy Monk](https://open.spotify.com/artist/5rv6OYiDFLm0gQ8wbihOib) | [Longue Ride](https://open.spotify.com/album/0e64skKjTvndxBV6BOea3d) | 3:51 | 2025-05-15 |  |
-| [ENEMY](https://open.spotify.com/track/2ml2U1MZUnXfnHPghzQZ7q) | [L Loko](https://open.spotify.com/artist/6iI54kPtuDGxFe6T3eIR53), [Drini](https://open.spotify.com/artist/5tRlhg6J2lBxI7Qb4IfL00) | [ENEMY](https://open.spotify.com/album/4PhWAyBtcNjqKvuATjgYMc) | 2:32 | 2025-03-07 |  |
+| [ENEMY](https://open.spotify.com/track/2ml2U1MZUnXfnHPghzQZ7q) | [L Loko](https://open.spotify.com/artist/6iI54kPtuDGxFe6T3eIR53), [Drini](https://open.spotify.com/artist/5tRlhg6J2lBxI7Qb4IfL00) | [ENEMY](https://open.spotify.com/album/4PhWAyBtcNjqKvuATjgYMc) | 2:32 | 2025-03-07 | 2025-06-03 |
 | [Enough](https://open.spotify.com/track/0vgXEftdFm12zERrMkLqzH) | [Jared Lembo](https://open.spotify.com/artist/7m40p3LDka0BxsiX0tZT9g) | [Enough](https://open.spotify.com/album/40PbD4AUnhOJQD1y1qKlOh) | 2:40 | 2024-10-11 | 2024-12-08 |
 | [Enough](https://open.spotify.com/track/7pIhoo6Uhq6V4PEaovfL8R) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Enough](https://open.spotify.com/album/47lM2GIRs74NcP4lTAECvk) | 3:30 | 2024-07-15 | 2024-10-04 |
 | [Euphoria \(feat\. Mc Hero\)](https://open.spotify.com/track/4FhBT5uVKfoNbcHPy9Qg5B) | [LieVin](https://open.spotify.com/artist/4bCEw9lXrhxvEZQHxD8tJU), [Mc Hero](https://open.spotify.com/artist/2G7CDlBznNGyzKFpbngRMx) | [Baby Tape V2](https://open.spotify.com/album/4IJokeTG49W36VJ4WtksXw) | 3:23 | 2025-03-07 | 2025-04-07 |
@@ -316,6 +316,7 @@
 | [Telefone](https://open.spotify.com/track/71wA37ZBebeJG2ckJ9FsLv) | [Film 2](https://open.spotify.com/artist/7IVcyzxxgbupWxn6R2SFhZ) | [Telefone](https://open.spotify.com/album/2rzOpU8XegetRKR8Vstbrm) | 3:09 | 2025-04-24 | 2025-05-02 |
 | [that life](https://open.spotify.com/track/2h380v9zZM6kaarDPvijMk) | [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp) | [i always remember all of my dreams](https://open.spotify.com/album/5uul9EttWCRZtIkvxLwNwq) | 2:51 | 2024-07-19 |  |
 | [The Code](https://open.spotify.com/track/1EjIXKhNHI00ZLMRpS8iz8) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [The Code](https://open.spotify.com/album/30euLVaktPWmngBsGDUYdA) | 3:00 | 2024-06-27 | 2024-10-04 |
+| [THE LOVER](https://open.spotify.com/track/51IMjTw9T8BliGgPMSFqEr) | [Kae](https://open.spotify.com/artist/1fSG1RjY50eGpdvtHECCRm) | [XAOS](https://open.spotify.com/album/5GYm9Ud8aGdBB86V5PDU1g) | 2:20 | 2025-05-29 |  |
 | [The Right to Cry](https://open.spotify.com/track/5YzUTY6zW8TFGfGsknq9vQ) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [The Right to Cry](https://open.spotify.com/album/7rLRzdGMjn0kRQo6TRnMqc) | 3:09 | 2024-11-29 | 2025-03-08 |
 | [the way](https://open.spotify.com/track/5Qov55diS0eUnDwpU2AizD) | [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp) | [i always remember all of my dreams](https://open.spotify.com/album/5uul9EttWCRZtIkvxLwNwq) | 2:45 | 2025-04-17 | 2025-04-25 |
 | [theremin](https://open.spotify.com/track/0qqtydxO4KMSnhww9PlrqQ) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [theremin](https://open.spotify.com/album/7pYNdcVuPsnHE6KzsG33a1) | 2:41 | 2024-11-01 | 2025-01-12 |

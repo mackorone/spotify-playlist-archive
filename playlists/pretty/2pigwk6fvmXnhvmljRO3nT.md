@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,284 songs - 18 day 22 hr 13 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,290 songs - 18 day 22 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -7292,5 +7292,11 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 7282 | [Jerk It Out](https://open.spotify.com/track/0O8XCrGlVsaKnErfcTSSFU) | [Caesars](https://open.spotify.com/artist/4rGrN4XDYhP6dUAZMvcuHr) | [39 Minutes of Bliss \(In An Otherwise Meaningless World\)](https://open.spotify.com/album/6KdlSMMpezbfNKZYd4JTbM) | 3:15 |
 | 7283 | [Send Them Off!](https://open.spotify.com/track/5AAU5Ov1CEesKwWS2uzQji) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Send Them Off!](https://open.spotify.com/album/0sm6aqm1zr6rkROVIKICJd) | 3:20 |
 | 7284 | [Chest Pain \(I Love\)](https://open.spotify.com/track/2XUx8PCXGpP1XhZJMGiUol) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Malcolm Todd](https://open.spotify.com/album/6IkS2cDHxaYVkJueCPSdFs) | 3:20 |
+| 7285 | [街のドルフィン](https://open.spotify.com/track/5w6EvyvomUSWsF430iixmc) | [Kingo Hamada](https://open.spotify.com/artist/2FdiOm1d5IVBdLlobhzlTF) | [midnight cruisin'](https://open.spotify.com/album/30lgWjklkY1TOx7EdiGYlq) | 3:52 |
+| 7286 | [Shine A Light](https://open.spotify.com/track/1fDtoTPDyzkNOfFIRXxsC5) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Shine A Light](https://open.spotify.com/album/5dHZd6w1IlNc4W0JInztkG) | 3:45 |
+| 7287 | [Jerk It Out](https://open.spotify.com/track/1bx7OUl2UmAnA5oZkm9If7) | [Caesars](https://open.spotify.com/artist/4rGrN4XDYhP6dUAZMvcuHr) | [Jerk It Out](https://open.spotify.com/album/1D5ebxOCFrG8U6p98zZHCi) | 3:15 |
+| 7288 | [Love Can End It All](https://open.spotify.com/track/03e1GRUSLzgGppP7pQpQZB) | [Chris Vana](https://open.spotify.com/artist/4fghSGZcNc2zL07RwQQnmm) | [Love Can End It All](https://open.spotify.com/album/1yKedsVhcGbfRPGQgR1VLI) | 3:24 |
+| 7289 | [Love Natural](https://open.spotify.com/track/6wpx4u1PeQlXEvZMPQ49sU) | [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC) | [Cave Rave](https://open.spotify.com/album/68K5LJ1pOR3KcuVP8hw3RP) | 3:19 |
+| 7290 | [Move Me](https://open.spotify.com/track/4sel4I5PNR1yhZzcci7NIv) | [RIDGE RACER Series](https://open.spotify.com/artist/5vvfZNMJuvaJ53MEazgsWA), [Bandai Namco Game Music](https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98) | [PSP \- RIDGE RACER \(Original Soundtrack\)](https://open.spotify.com/album/7iLcVcs2VjntAzluFmDEag) | 4:41 |
 
-Snapshot ID: `AAAHACY/S4b2whgpveTZASSuTuAKBguZ`
+Snapshot ID: `AAAHBq5OBSYOuwMyFgTVrfw567Z/sv0r`

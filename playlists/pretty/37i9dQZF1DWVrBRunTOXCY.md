@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrBRunTOXCY.md) - [plain]
 
 > The sound of summer 2025! Cover: Jazzy, KILIMANJARO
 
-[Spotify](https://open.spotify.com/user/spotify) - 812,125 likes - 73 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 812,105 likes - 73 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

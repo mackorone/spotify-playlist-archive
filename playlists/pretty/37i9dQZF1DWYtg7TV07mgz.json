@@ -1,6 +1,6 @@
 {
   "description": "Floorfillers galore from the 90s and 00s.",
-  "num_followers": 1230875,
+  "num_followers": 1230893,
   "original_name": "Massive Dance Classics",
   "owner": {
     "name": "Spotify",
@@ -67,22 +67,6 @@
     {
       "added_at": "2024-07-12 09:13:15",
       "album": {
-        "name": "Levels",
-        "url": "https://open.spotify.com/album/1OEGfToF7QbjUgyxMAnGXg"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        }
-      ],
-      "duration_ms": 199906,
-      "name": "Levels - Radio Edit",
-      "url": "https://open.spotify.com/track/5UqCQaDshqbIk3pkhy4Pjg"
-    },
-    {
-      "added_at": "2024-07-12 09:13:15",
-      "album": {
         "name": "Discovery",
         "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
       },
@@ -95,6 +79,22 @@
       "duration_ms": 320357,
       "name": "One More Time",
       "url": "https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV"
+    },
+    {
+      "added_at": "2024-07-12 09:13:15",
+      "album": {
+        "name": "Levels",
+        "url": "https://open.spotify.com/album/1OEGfToF7QbjUgyxMAnGXg"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        }
+      ],
+      "duration_ms": 199906,
+      "name": "Levels - Radio Edit",
+      "url": "https://open.spotify.com/track/5UqCQaDshqbIk3pkhy4Pjg"
     },
     {
       "added_at": "2024-07-12 09:13:15",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-07-12 09:13:15",
       "album": {
-        "name": "Kernkraft 400 Single Mixes",
-        "url": "https://open.spotify.com/album/2qmrRoUZQemrKFr9PBMDHd"
-      },
-      "artists": [
-        {
-          "name": "Zombie Nation",
-          "url": "https://open.spotify.com/artist/7vFpNLbCXbBFs4kFBUlkSl"
-        }
-      ],
-      "duration_ms": 207266,
-      "name": "Kernkraft 400 - DJ Gius Mix, Radio Edit",
-      "url": "https://open.spotify.com/track/7g8cjrj0sXScNE727685JE"
-    },
-    {
-      "added_at": "2024-07-12 09:13:15",
-      "album": {
         "name": "Born Slippy (Nuxx) [Radio Edit]",
         "url": "https://open.spotify.com/album/6p7gQ5S39dLxMvyqqnP9Qd"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 264187,
       "name": "Born Slippy (Nuxx) - Radio Edit",
       "url": "https://open.spotify.com/track/3bUNyRrTFJDd4mqvUcb1Aa"
+    },
+    {
+      "added_at": "2024-07-12 09:13:15",
+      "album": {
+        "name": "Kernkraft 400 Single Mixes",
+        "url": "https://open.spotify.com/album/2qmrRoUZQemrKFr9PBMDHd"
+      },
+      "artists": [
+        {
+          "name": "Zombie Nation",
+          "url": "https://open.spotify.com/artist/7vFpNLbCXbBFs4kFBUlkSl"
+        }
+      ],
+      "duration_ms": 207266,
+      "name": "Kernkraft 400 - DJ Gius Mix, Radio Edit",
+      "url": "https://open.spotify.com/track/7g8cjrj0sXScNE727685JE"
     },
     {
       "added_at": "2024-07-12 09:13:15",
@@ -799,8 +799,8 @@
     {
       "added_at": "2024-07-12 09:13:15",
       "album": {
-        "name": "Pure... 90s Dance Party",
-        "url": "https://open.spotify.com/album/03awYMGLQWIlD1VyDwq1HF"
+        "name": "Forever Faithless - The Greatest Hits",
+        "url": "https://open.spotify.com/album/2Vcq2BbEjHFdfodZ8hlcZL"
       },
       "artists": [
         {
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
         }
       ],
-      "duration_ms": 215093,
-      "name": "Insomnia - Radio Edit",
-      "url": "https://open.spotify.com/track/3dX6WDwnHwYzB5t754oB4T"
+      "duration_ms": 208506,
+      "name": "God Is a DJ",
+      "url": "https://open.spotify.com/track/1pUFYb9peWkK8m1WCKNRjp"
     },
     {
       "added_at": "2024-07-12 09:13:15",
@@ -891,8 +891,8 @@
     {
       "added_at": "2024-07-12 09:13:15",
       "album": {
-        "name": "Forever Faithless - The Greatest Hits",
-        "url": "https://open.spotify.com/album/2Vcq2BbEjHFdfodZ8hlcZL"
+        "name": "Pure... 90s Dance Party",
+        "url": "https://open.spotify.com/album/03awYMGLQWIlD1VyDwq1HF"
       },
       "artists": [
         {
@@ -900,25 +900,25 @@
           "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
         }
       ],
-      "duration_ms": 208506,
-      "name": "God Is a DJ",
-      "url": "https://open.spotify.com/track/1pUFYb9peWkK8m1WCKNRjp"
+      "duration_ms": 215093,
+      "name": "Insomnia - Radio Edit",
+      "url": "https://open.spotify.com/track/3dX6WDwnHwYzB5t754oB4T"
     },
     {
       "added_at": "2024-07-12 09:13:15",
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/2CwxbRPETEraKmAKDNrEcs"
+        "name": "LCD Soundsystem",
+        "url": "https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL"
       },
       "artists": [
         {
-          "name": "Inner City",
-          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
+          "name": "LCD Soundsystem",
+          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
         }
       ],
-      "duration_ms": 244773,
-      "name": "Good Life",
-      "url": "https://open.spotify.com/track/5sJiLlgQKBL81QCTOkoLB5"
+      "duration_ms": 314556,
+      "name": "Daft Punk Is Playing at My House",
+      "url": "https://open.spotify.com/track/73mlvsfJM2qwlDUJxeaatI"
     }
   ],
   "unique_name": "Massive Dance Classics",

@@ -1,6 +1,6 @@
 {
   "description": "Solo hit da cantare (anche fuori dalla doccia).",
-  "num_followers": 358642,
+  "num_followers": 358657,
   "original_name": "Canta Sotto La Doccia",
   "owner": {
     "name": "Spotify",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2025-05-28 13:31:03",
       "album": {
+        "name": "Sotto una pioggia di parole",
+        "url": "https://open.spotify.com/album/2hym5VSeKDVm7TP2eAvVKr"
+      },
+      "artists": [
+        {
+          "name": "Zero Assoluto",
+          "url": "https://open.spotify.com/artist/3bf7Y2it29DeOjXpIibCOe"
+        }
+      ],
+      "duration_ms": 211360,
+      "name": "Per dimenticare",
+      "url": "https://open.spotify.com/track/6lrlFMu06aGPDH0phlCnct"
+    },
+    {
+      "added_at": "2025-05-28 13:31:03",
+      "album": {
         "name": "Guasto D'Amore",
         "url": "https://open.spotify.com/album/1CUZTsdUtnhtirsffXGMX7"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 200080,
       "name": "Guasto D'Amore",
       "url": "https://open.spotify.com/track/4CQNELF3U3gyNcI6sLr6yK"
-    },
-    {
-      "added_at": "2025-05-28 13:31:03",
-      "album": {
-        "name": "Sotto una pioggia di parole",
-        "url": "https://open.spotify.com/album/2hym5VSeKDVm7TP2eAvVKr"
-      },
-      "artists": [
-        {
-          "name": "Zero Assoluto",
-          "url": "https://open.spotify.com/artist/3bf7Y2it29DeOjXpIibCOe"
-        }
-      ],
-      "duration_ms": 211360,
-      "name": "Per dimenticare",
-      "url": "https://open.spotify.com/track/6lrlFMu06aGPDH0phlCnct"
     },
     {
       "added_at": "2025-05-28 13:31:03",
@@ -1699,54 +1699,6 @@
     {
       "added_at": "2025-05-28 13:31:03",
       "album": {
-        "name": "Tu No",
-        "url": "https://open.spotify.com/album/73tk3YTX5XnmuZtUwcIPED"
-      },
-      "artists": [
-        {
-          "name": "Irama",
-          "url": "https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK"
-        }
-      ],
-      "duration_ms": 215608,
-      "name": "Tu No",
-      "url": "https://open.spotify.com/track/5mQTzYTDDob48mOP3U9k7Q"
-    },
-    {
-      "added_at": "2025-05-28 13:31:03",
-      "album": {
-        "name": "Vivere a colori",
-        "url": "https://open.spotify.com/album/2FzUfgLqOyhfKw4sfhNcEG"
-      },
-      "artists": [
-        {
-          "name": "Alessandra Amoroso",
-          "url": "https://open.spotify.com/artist/2pjb5ffSoVTr5lRYQXlnPu"
-        }
-      ],
-      "duration_ms": 218733,
-      "name": "Comunque andare",
-      "url": "https://open.spotify.com/track/4vlmiFfNIgdfuQJcIgIYhk"
-    },
-    {
-      "added_at": "2025-05-28 13:31:03",
-      "album": {
-        "name": "Bellissima",
-        "url": "https://open.spotify.com/album/3I7EQQqrQ1kdZBoaNkCdY4"
-      },
-      "artists": [
-        {
-          "name": "Annalisa",
-          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
-        }
-      ],
-      "duration_ms": 201334,
-      "name": "Bellissima",
-      "url": "https://open.spotify.com/track/39jxR2xnmcBbkdPX9oNzsI"
-    },
-    {
-      "added_at": "2025-05-28 13:31:03",
-      "album": {
         "name": "1969 - Achille Idol Rebirth",
         "url": "https://open.spotify.com/album/0zMH1I8EZPPGYAzxZ9H0gU"
       },
@@ -1767,6 +1719,54 @@
       "duration_ms": 174638,
       "name": "Bam Bam Twist (feat. Gow Tribe, Frenetik&Orang3)",
       "url": "https://open.spotify.com/track/5i12eplaUT5pPE5iC6B2FZ"
+    },
+    {
+      "added_at": "2025-05-28 13:31:03",
+      "album": {
+        "name": "Vivere a colori",
+        "url": "https://open.spotify.com/album/2FzUfgLqOyhfKw4sfhNcEG"
+      },
+      "artists": [
+        {
+          "name": "Alessandra Amoroso",
+          "url": "https://open.spotify.com/artist/2pjb5ffSoVTr5lRYQXlnPu"
+        }
+      ],
+      "duration_ms": 218733,
+      "name": "Comunque andare",
+      "url": "https://open.spotify.com/track/4vlmiFfNIgdfuQJcIgIYhk"
+    },
+    {
+      "added_at": "2025-05-28 13:31:03",
+      "album": {
+        "name": "Tu No",
+        "url": "https://open.spotify.com/album/73tk3YTX5XnmuZtUwcIPED"
+      },
+      "artists": [
+        {
+          "name": "Irama",
+          "url": "https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK"
+        }
+      ],
+      "duration_ms": 215608,
+      "name": "Tu No",
+      "url": "https://open.spotify.com/track/5mQTzYTDDob48mOP3U9k7Q"
+    },
+    {
+      "added_at": "2025-05-28 13:31:03",
+      "album": {
+        "name": "Bellissima",
+        "url": "https://open.spotify.com/album/3I7EQQqrQ1kdZBoaNkCdY4"
+      },
+      "artists": [
+        {
+          "name": "Annalisa",
+          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
+        }
+      ],
+      "duration_ms": 201334,
+      "name": "Bellissima",
+      "url": "https://open.spotify.com/track/39jxR2xnmcBbkdPX9oNzsI"
     }
   ],
   "unique_name": "Canta Sotto La Doccia",

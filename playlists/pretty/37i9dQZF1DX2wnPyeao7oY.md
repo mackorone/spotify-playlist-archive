@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 
 > New music by the heaviest independent artists every Wednesday\. Cover: DIESECT
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,997 likes - 75 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,019 likes - 75 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 | 29 | [Contraband](https://open.spotify.com/track/6HXUFds0VgH7RqU3WP41gK) | [Vacuous](https://open.spotify.com/artist/6Aakz04B1cWFdcMNFch4QS) | [Contraband](https://open.spotify.com/album/6FOtJeuCbI5lddNLcWJinZ) | 3:13 |
 | 30 | [Dreamers](https://open.spotify.com/track/4oWEx37CIWFR77DOWNBRIs) | [Paradise Slaves](https://open.spotify.com/artist/1EuNDbf2DWqsa9cSgHT1Mm) | [Dreamers](https://open.spotify.com/album/1qHPriX7LHRbmHGipxiejc) | 3:40 |
 | 31 | [BITE THE BULLET](https://open.spotify.com/track/6b6ediN3fkEK7hknbGHvYB) | [MAIASAURA](https://open.spotify.com/artist/62mm8csnxeh1rBGa9fBrRX) | [BITE THE BULLET](https://open.spotify.com/album/2ejtbskNXljRRhQKKFnnsX) | 2:45 |
-| 32 | [DEAD2ME](https://open.spotify.com/track/2qdvOOVk8hcaWANWS52QO8) | [INDEVTH](https://open.spotify.com/artist/0RQ9D4OzdWzSbznNC9DUy6) | [DEAD2ME](https://open.spotify.com/album/52DmfjMDD9pUyne2VX5QCW) | 2:46 |
+| 32 | [DEAD2ME](https://open.spotify.com/track/2qdvOOVk8hcaWANWS52QO8) | [INDEATH](https://open.spotify.com/artist/0RQ9D4OzdWzSbznNC9DUy6) | [DEAD2ME](https://open.spotify.com/album/52DmfjMDD9pUyne2VX5QCW) | 2:46 |
 | 33 | [Lifeline](https://open.spotify.com/track/6dYRVP8CYMAaUpXprCY2BW) | [Block of Flats](https://open.spotify.com/artist/1Hr0GjUPxbMDrkRFhXA7p4) | [Lifeline](https://open.spotify.com/album/1Gmxq2ikim2BeBGda3bS9E) | 3:31 |
 | 34 | [Monsters](https://open.spotify.com/track/6BXP71KLW20n4BdW0Nnbjh) | [Seven Blood](https://open.spotify.com/artist/0WYN4z4Co3AceuxwU6mFLr) | [Monsters](https://open.spotify.com/album/0AauHfxhC66VYpa63tp2Qg) | 3:25 |
 | 35 | [Save Our Souls](https://open.spotify.com/track/3eypHwYEpopm5S6VNOCKBc) | [Balance Breach](https://open.spotify.com/artist/2sy77oZSFj4hGs76OQIsgK) | [Save Our Souls](https://open.spotify.com/album/621Q7c3Kb5nN0GR91myUw0) | 3:30 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 | 74 | [STAIN](https://open.spotify.com/track/6xcoa669YknFFOICTWrca1) | [Wither//Bloom](https://open.spotify.com/artist/2Zx7gOdSeToesLI2cDQnfd) | [STAIN](https://open.spotify.com/album/5SDokcHTkrn34sa3ljA2As) | 3:18 |
 | 75 | [Dying Wisdom](https://open.spotify.com/track/1HcrY7PKXdn7xGAAtByqff) | [Between The Lakes](https://open.spotify.com/artist/7uLa4LuYx19XT2ssR0zzEp) | [Dying Wisdom](https://open.spotify.com/album/1XPcgHjPblSz9ED1tLKANC) | 4:03 |
 
-Snapshot ID: `aDktUQAAAABCAvHQr0CptFKsjyjSMDmQ`
+Snapshot ID: `AAAAAAkriIyuU54G/+20vy3OJhut7j5F`

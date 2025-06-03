@@ -708,6 +708,24 @@
     {
       "album": {
         "name": "Don't Believe The Truth",
+        "url": "https://open.spotify.com/album/18ACIuiPrMJMkRPtNL9G7h"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2025-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345706,
+      "name": "Keep The Dream Alive",
+      "url": "https://open.spotify.com/track/2F8rL049y0MZu9Fy5O7seA"
+    },
+    {
+      "album": {
+        "name": "Don't Believe The Truth",
         "url": "https://open.spotify.com/album/56VuARmradZgJcSaVucTWn"
       },
       "artists": [
@@ -1474,7 +1492,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-15",
+      "date_removed": null,
       "duration_ms": 239240,
       "name": "Turn Up The Sun",
       "url": "https://open.spotify.com/track/3TYfwCR3kT7ijbiGTGc5kM"

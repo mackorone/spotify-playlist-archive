@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-08",
-  "description": "The best and latest rock and alternative. Cover: Big Wreck",
+  "description": "The best and latest rock and alternative. Cover: Rise Against",
   "name": "New Rock Music",
   "tracks": [
     {
@@ -1954,6 +1954,24 @@
       "duration_ms": 226386,
       "name": "I Don\u2019t Wanna Talk",
       "url": "https://open.spotify.com/track/0rpOR79X30vU5I9i0Jnusg"
+    },
+    {
+      "album": {
+        "name": "I Want It All",
+        "url": "https://open.spotify.com/album/5ePyRQrVvJWE3YJ8t9FQcw"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "date_added": "2025-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186052,
+      "name": "I Want It All",
+      "url": "https://open.spotify.com/track/6nUv1TbOMwOYzESvJCVbF7"
     },
     {
       "album": {

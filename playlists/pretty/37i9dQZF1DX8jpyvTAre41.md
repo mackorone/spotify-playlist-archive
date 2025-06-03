@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 
 > The best rock songs of the moment\. Cover: YUNGBLUD
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,670 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,675 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 | 99 | [IF IT DOESN'T HURT](https://open.spotify.com/track/1ve6FiKnpfXt8vUxhndH7p) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [CARNAL](https://open.spotify.com/album/0ivYaIK4SxXpiSiKXTNvtF) | 2:59 |
 | 100 | [Erase Me](https://open.spotify.com/track/0PcJ2m0cg6F00BB7mNnZva) | [Stuck On Planet Earth](https://open.spotify.com/artist/1SFdaY4s5BAQMk2X7YIhAS) | [Erase Me](https://open.spotify.com/album/6UlqctfJ9XGSKCV97wlPtz) | 3:00 |
 
-Snapshot ID: `AAAAAHuTeT5KVQt13FNOBCN0009O0NNn`
+Snapshot ID: `aDktWwAAAABBYykLYQNqtFafqtJiLmEL`

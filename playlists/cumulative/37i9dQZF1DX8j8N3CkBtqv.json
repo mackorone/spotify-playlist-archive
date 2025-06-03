@@ -417,6 +417,24 @@
     },
     {
       "album": {
+        "name": "Aahista",
+        "url": "https://open.spotify.com/album/3veutYP2aHnBgmSbtI61t1"
+      },
+      "artists": [
+        {
+          "name": "Savera",
+          "url": "https://open.spotify.com/artist/3CVXA5TAWpmfGPqyMqXpPb"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133090,
+      "name": "Aahista",
+      "url": "https://open.spotify.com/track/2zNh45mWOtcjqR7ngX5oTJ"
+    },
+    {
+      "album": {
         "name": "Aaj Kal",
         "url": "https://open.spotify.com/album/5Z3rCu6ZTbNCS8RacJ3JnJ"
       },
@@ -11364,7 +11382,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 199591,
       "name": "Kya Hi Hai",
       "url": "https://open.spotify.com/track/29SvIDiQWM8qoGaN0TvXRh"

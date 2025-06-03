@@ -1,6 +1,6 @@
 {
   "description": "A hand-picked selection for an extraordinary palette. Cover: Matt Berninger",
-  "num_followers": 93287,
+  "num_followers": 93291,
   "original_name": "The Listening Post",
   "owner": {
     "name": "Spotify",
@@ -395,22 +395,6 @@
     {
       "added_at": "2025-05-30 14:43:40",
       "album": {
-        "name": "Everybody's trying to figure me out",
-        "url": "https://open.spotify.com/album/7GQN5bFkpE2a9RFknshXuF"
-      },
-      "artists": [
-        {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
-        }
-      ],
-      "duration_ms": 233200,
-      "name": "Everybody's trying to figure me out",
-      "url": "https://open.spotify.com/track/1CsGxcyExQn3vt4SNq91d1"
-    },
-    {
-      "added_at": "2025-05-30 14:43:40",
-      "album": {
         "name": "SAYA",
         "url": "https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 252453,
       "name": "Emily and Me",
       "url": "https://open.spotify.com/track/67cpAwhrwj0MQoidTigHVX"
+    },
+    {
+      "added_at": "2025-05-30 14:43:40",
+      "album": {
+        "name": "Everybody's trying to figure me out",
+        "url": "https://open.spotify.com/album/7GQN5bFkpE2a9RFknshXuF"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "duration_ms": 233200,
+      "name": "Everybody's trying to figure me out",
+      "url": "https://open.spotify.com/track/1CsGxcyExQn3vt4SNq91d1"
     },
     {
       "added_at": "2025-05-30 14:43:40",
@@ -539,6 +539,22 @@
     {
       "added_at": "2025-05-30 14:43:40",
       "album": {
+        "name": "Take me back",
+        "url": "https://open.spotify.com/album/2lNf4UcthxACQ1Ks8BUw98"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "duration_ms": 225160,
+      "name": "Take me back",
+      "url": "https://open.spotify.com/track/3CkBVxtfny3epwPhQfw9t8"
+    },
+    {
+      "added_at": "2025-05-30 14:43:40",
+      "album": {
         "name": "Bright Lights",
         "url": "https://open.spotify.com/album/5tXjEtdOSXA0DHyt6doeJ4"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 257547,
       "name": "Goodbye (Don\u2019t Tell Me)",
       "url": "https://open.spotify.com/track/1HLdk3NtbqeTMFcVWbv2G0"
-    },
-    {
-      "added_at": "2025-05-30 14:43:40",
-      "album": {
-        "name": "Take me back",
-        "url": "https://open.spotify.com/album/2lNf4UcthxACQ1Ks8BUw98"
-      },
-      "artists": [
-        {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
-        }
-      ],
-      "duration_ms": 225160,
-      "name": "Take me back",
-      "url": "https://open.spotify.com/track/3CkBVxtfny3epwPhQfw9t8"
     },
     {
       "added_at": "2025-05-30 14:43:40",
@@ -707,22 +707,6 @@
     {
       "added_at": "2025-05-30 14:43:40",
       "album": {
-        "name": "You're All I Got / So Long",
-        "url": "https://open.spotify.com/album/6ZxZ4cvU5Fc3IYmA1k8XNz"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 202865,
-      "name": "You're All I Got",
-      "url": "https://open.spotify.com/track/44DEp6ZrAVlptrzOKBjO88"
-    },
-    {
-      "added_at": "2025-05-30 14:43:40",
-      "album": {
         "name": "Adagio",
         "url": "https://open.spotify.com/album/3TAhlJxvOBskHFd0J1YRmq"
       },
@@ -739,18 +723,18 @@
     {
       "added_at": "2025-05-30 14:43:40",
       "album": {
-        "name": "Sharon Van Etten & The Attachment Theory",
-        "url": "https://open.spotify.com/album/5aGKc7OL3d1aJodCG2747F"
+        "name": "You're All I Got / So Long",
+        "url": "https://open.spotify.com/album/6ZxZ4cvU5Fc3IYmA1k8XNz"
       },
       "artists": [
         {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
         }
       ],
-      "duration_ms": 250409,
-      "name": "Idiot Box",
-      "url": "https://open.spotify.com/track/33Wi8Etr6ljOsBViBOKWQ5"
+      "duration_ms": 202865,
+      "name": "You're All I Got",
+      "url": "https://open.spotify.com/track/44DEp6ZrAVlptrzOKBjO88"
     },
     {
       "added_at": "2025-05-30 14:43:40",
@@ -771,6 +755,22 @@
     {
       "added_at": "2025-05-30 14:43:40",
       "album": {
+        "name": "Sharon Van Etten & The Attachment Theory",
+        "url": "https://open.spotify.com/album/5aGKc7OL3d1aJodCG2747F"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "duration_ms": 250409,
+      "name": "Idiot Box",
+      "url": "https://open.spotify.com/track/33Wi8Etr6ljOsBViBOKWQ5"
+    },
+    {
+      "added_at": "2025-05-30 14:43:40",
+      "album": {
         "name": "Tomorrow is Perfect",
         "url": "https://open.spotify.com/album/7gVnv19lJakKUMCTYZ7BXq"
       },
@@ -783,6 +783,22 @@
       "duration_ms": 381560,
       "name": "Tomorrow is Perfect",
       "url": "https://open.spotify.com/track/3LY1CZhWdfHezDSmZSLfrC"
+    },
+    {
+      "added_at": "2025-05-30 14:43:40",
+      "album": {
+        "name": "Sober",
+        "url": "https://open.spotify.com/album/52VNpXFgf7DENnJb4MXdkH"
+      },
+      "artists": [
+        {
+          "name": "Elbow",
+          "url": "https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk"
+        }
+      ],
+      "duration_ms": 286435,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/7i1n6BPGuSYiDaRUxKIStA"
     },
     {
       "added_at": "2025-05-30 14:43:40",
@@ -819,18 +835,18 @@
     {
       "added_at": "2025-05-30 14:43:40",
       "album": {
-        "name": "Sober",
-        "url": "https://open.spotify.com/album/52VNpXFgf7DENnJb4MXdkH"
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1O9vAGeUFOerYsIC88NEvy"
       },
       "artists": [
         {
-          "name": "Elbow",
-          "url": "https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk"
+          "name": "Richard Ashcroft",
+          "url": "https://open.spotify.com/artist/1HGTHrRQkw0BtevSo1jucU"
         }
       ],
-      "duration_ms": 286435,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/7i1n6BPGuSYiDaRUxKIStA"
+      "duration_ms": 220509,
+      "name": "Lover",
+      "url": "https://open.spotify.com/track/7AWaNIEuvoBCS4koRVDfbH"
     },
     {
       "added_at": "2025-05-30 14:43:40",
@@ -851,18 +867,18 @@
     {
       "added_at": "2025-05-30 14:43:40",
       "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1O9vAGeUFOerYsIC88NEvy"
+        "name": "Dialing In",
+        "url": "https://open.spotify.com/album/3TCiNEzwse1s2hArQotFMK"
       },
       "artists": [
         {
-          "name": "Richard Ashcroft",
-          "url": "https://open.spotify.com/artist/1HGTHrRQkw0BtevSo1jucU"
+          "name": "Thom Yorke",
+          "url": "https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau"
         }
       ],
-      "duration_ms": 220509,
-      "name": "Lover",
-      "url": "https://open.spotify.com/track/7AWaNIEuvoBCS4koRVDfbH"
+      "duration_ms": 280968,
+      "name": "Dialing In",
+      "url": "https://open.spotify.com/track/7mCMTIXtBm2QxoULtEsSu7"
     },
     {
       "added_at": "2025-05-30 14:43:40",
@@ -879,22 +895,6 @@
       "duration_ms": 169610,
       "name": "Lotta Love",
       "url": "https://open.spotify.com/track/2n9y3UtCDmRUD94jlPTJCz"
-    },
-    {
-      "added_at": "2025-05-30 14:43:40",
-      "album": {
-        "name": "Dialing In",
-        "url": "https://open.spotify.com/album/3TCiNEzwse1s2hArQotFMK"
-      },
-      "artists": [
-        {
-          "name": "Thom Yorke",
-          "url": "https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau"
-        }
-      ],
-      "duration_ms": 280968,
-      "name": "Dialing In",
-      "url": "https://open.spotify.com/track/7mCMTIXtBm2QxoULtEsSu7"
     },
     {
       "added_at": "2025-05-30 14:43:40",
@@ -995,22 +995,6 @@
     {
       "added_at": "2025-05-30 14:43:40",
       "album": {
-        "name": "Lean Into The Wind",
-        "url": "https://open.spotify.com/album/46RHH83L7ShCUAhnYm23Tt"
-      },
-      "artists": [
-        {
-          "name": "Doves",
-          "url": "https://open.spotify.com/artist/0LVrQUinPUBFvVD5pLqmWY"
-        }
-      ],
-      "duration_ms": 227763,
-      "name": "Lean Into The Wind",
-      "url": "https://open.spotify.com/track/7khl86Ck9I8TD0Kj3PnfKB"
-    },
-    {
-      "added_at": "2025-05-30 14:43:40",
-      "album": {
         "name": "The Painful Truth",
         "url": "https://open.spotify.com/album/5jq8APA0WmCEaIeHoGciO3"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 246757,
       "name": "Shame",
       "url": "https://open.spotify.com/track/550fqOZMPaSRasqZhA32Kf"
+    },
+    {
+      "added_at": "2025-05-30 14:43:40",
+      "album": {
+        "name": "Lean Into The Wind",
+        "url": "https://open.spotify.com/album/46RHH83L7ShCUAhnYm23Tt"
+      },
+      "artists": [
+        {
+          "name": "Doves",
+          "url": "https://open.spotify.com/artist/0LVrQUinPUBFvVD5pLqmWY"
+        }
+      ],
+      "duration_ms": 227763,
+      "name": "Lean Into The Wind",
+      "url": "https://open.spotify.com/track/7khl86Ck9I8TD0Kj3PnfKB"
     },
     {
       "added_at": "2025-05-30 14:43:40",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2025-05-30 14:43:40",
       "album": {
-        "name": "Gethsemane",
-        "url": "https://open.spotify.com/album/0D8s2NeEe5eCNZZcrjZq5A"
-      },
-      "artists": [
-        {
-          "name": "Car Seat Headrest",
-          "url": "https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf"
-        }
-      ],
-      "duration_ms": 651992,
-      "name": "Gethsemane",
-      "url": "https://open.spotify.com/track/05Y0oBtriW2gf8zPj2VDov"
-    },
-    {
-      "added_at": "2025-05-30 14:43:40",
-      "album": {
         "name": "AMAMA",
         "url": "https://open.spotify.com/album/6V4aP2jvCLc1McVX6HPmdo"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 190413,
       "name": "AMAMA",
       "url": "https://open.spotify.com/track/2v0M1pCugLIImmFGZNkydS"
+    },
+    {
+      "added_at": "2025-05-30 14:43:40",
+      "album": {
+        "name": "Gethsemane",
+        "url": "https://open.spotify.com/album/0D8s2NeEe5eCNZZcrjZq5A"
+      },
+      "artists": [
+        {
+          "name": "Car Seat Headrest",
+          "url": "https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf"
+        }
+      ],
+      "duration_ms": 651992,
+      "name": "Gethsemane",
+      "url": "https://open.spotify.com/track/05Y0oBtriW2gf8zPj2VDov"
     },
     {
       "added_at": "2025-05-30 14:43:40",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2025-05-30 14:43:40",
       "album": {
-        "name": "Melodie Is A Wound",
-        "url": "https://open.spotify.com/album/5ygWNctbub9K5CBaM8USu5"
-      },
-      "artists": [
-        {
-          "name": "Stereolab",
-          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
-        }
-      ],
-      "duration_ms": 457063,
-      "name": "Melodie Is A Wound",
-      "url": "https://open.spotify.com/track/4tajrt0QHkRxOKJ5yYHrGz"
-    },
-    {
-      "added_at": "2025-05-30 14:43:40",
-      "album": {
         "name": "Every Dawn's a Mountain",
         "url": "https://open.spotify.com/album/0S3ocN5MLEY4mFMJWY0VG1"
       },
@@ -1235,6 +1219,38 @@
       "duration_ms": 279429,
       "name": "Hope",
       "url": "https://open.spotify.com/track/2hPZRSLyKFyJCYTotrmM1q"
+    },
+    {
+      "added_at": "2025-05-30 14:43:40",
+      "album": {
+        "name": "Melodie Is A Wound",
+        "url": "https://open.spotify.com/album/5ygWNctbub9K5CBaM8USu5"
+      },
+      "artists": [
+        {
+          "name": "Stereolab",
+          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
+        }
+      ],
+      "duration_ms": 457063,
+      "name": "Melodie Is A Wound",
+      "url": "https://open.spotify.com/track/4tajrt0QHkRxOKJ5yYHrGz"
+    },
+    {
+      "added_at": "2025-05-30 14:43:40",
+      "album": {
+        "name": "Coldplay cover",
+        "url": "https://open.spotify.com/album/3VblKLR0BXs2em5j30wKlo"
+      },
+      "artists": [
+        {
+          "name": "caroline",
+          "url": "https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA"
+        }
+      ],
+      "duration_ms": 256308,
+      "name": "Coldplay cover",
+      "url": "https://open.spotify.com/track/5NUFWIfrVVDl8max4A9Oc8"
     },
     {
       "added_at": "2025-05-30 14:43:40",
@@ -1319,22 +1335,6 @@
     {
       "added_at": "2025-05-30 14:43:40",
       "album": {
-        "name": "Tuanaki Atoll",
-        "url": "https://open.spotify.com/album/4Yru3A6vmgeiYwh1FkbudL"
-      },
-      "artists": [
-        {
-          "name": "Beirut",
-          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
-        }
-      ],
-      "duration_ms": 202636,
-      "name": "Tuanaki Atoll",
-      "url": "https://open.spotify.com/track/2305YqaLuOEJ9Opf8pGB7R"
-    },
-    {
-      "added_at": "2025-05-30 14:43:40",
-      "album": {
         "name": "Suddenly/Big Empty Country (Edit)",
         "url": "https://open.spotify.com/album/3SxbPAT5CXenRCX5HIUBA5"
       },
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2025-05-30 14:43:40",
       "album": {
-        "name": "Coldplay cover",
-        "url": "https://open.spotify.com/album/3VblKLR0BXs2em5j30wKlo"
+        "name": "Tuanaki Atoll",
+        "url": "https://open.spotify.com/album/4Yru3A6vmgeiYwh1FkbudL"
       },
       "artists": [
         {
-          "name": "caroline",
-          "url": "https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA"
+          "name": "Beirut",
+          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
         }
       ],
-      "duration_ms": 256308,
-      "name": "Coldplay cover",
-      "url": "https://open.spotify.com/track/5NUFWIfrVVDl8max4A9Oc8"
+      "duration_ms": 202636,
+      "name": "Tuanaki Atoll",
+      "url": "https://open.spotify.com/track/2305YqaLuOEJ9Opf8pGB7R"
     },
     {
       "added_at": "2025-05-30 14:43:40",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2025-05-30 14:43:40",
       "album": {
+        "name": "It's a Mirror",
+        "url": "https://open.spotify.com/album/1fy2JdEjjXymGJWtVE1ckz"
+      },
+      "artists": [
+        {
+          "name": "Perfume Genius",
+          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
+        }
+      ],
+      "duration_ms": 212320,
+      "name": "It's a Mirror",
+      "url": "https://open.spotify.com/track/3El9UdrncPt4ISzlv7v8ON"
+    },
+    {
+      "added_at": "2025-05-30 14:43:40",
+      "album": {
         "name": "C los lentos",
         "url": "https://open.spotify.com/album/3rJddPnSqEFGp3ajwYvwoJ"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 148726,
       "name": "barefeet",
       "url": "https://open.spotify.com/track/3qnJMEAZ4FZr0YiHOfHSPa"
-    },
-    {
-      "added_at": "2025-05-30 14:43:40",
-      "album": {
-        "name": "It's a Mirror",
-        "url": "https://open.spotify.com/album/1fy2JdEjjXymGJWtVE1ckz"
-      },
-      "artists": [
-        {
-          "name": "Perfume Genius",
-          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
-        }
-      ],
-      "duration_ms": 212320,
-      "name": "It's a Mirror",
-      "url": "https://open.spotify.com/track/3El9UdrncPt4ISzlv7v8ON"
     },
     {
       "added_at": "2025-05-30 14:43:40",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2025-05-30 14:43:40",
       "album": {
+        "name": "GERM",
+        "url": "https://open.spotify.com/album/0HP3FFeHsVIVeXkWZynFLm"
+      },
+      "artists": [
+        {
+          "name": "Kate Nash",
+          "url": "https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg"
+        }
+      ],
+      "duration_ms": 306009,
+      "name": "GERM",
+      "url": "https://open.spotify.com/track/3gylfpJh39G4WErX4QFV7y"
+    },
+    {
+      "added_at": "2025-05-30 14:43:40",
+      "album": {
         "name": "Pink",
         "url": "https://open.spotify.com/album/0utv7DeJSHoEHBYu0kol5R"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 198617,
       "name": "Pink",
       "url": "https://open.spotify.com/track/3q1uWf6BulnqldbYrDJ45U"
-    },
-    {
-      "added_at": "2025-05-30 14:43:40",
-      "album": {
-        "name": "Total euphoria",
-        "url": "https://open.spotify.com/album/4JDRogeVzmOCAaVtsdPpuv"
-      },
-      "artists": [
-        {
-          "name": "caroline",
-          "url": "https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA"
-        }
-      ],
-      "duration_ms": 270205,
-      "name": "Total euphoria",
-      "url": "https://open.spotify.com/track/3yp3Hp8OzYV2IoSjYaoqff"
     },
     {
       "added_at": "2025-05-30 14:43:40",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2025-05-30 14:43:40",
       "album": {
+        "name": "Total euphoria",
+        "url": "https://open.spotify.com/album/4JDRogeVzmOCAaVtsdPpuv"
+      },
+      "artists": [
+        {
+          "name": "caroline",
+          "url": "https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA"
+        }
+      ],
+      "duration_ms": 270205,
+      "name": "Total euphoria",
+      "url": "https://open.spotify.com/track/3yp3Hp8OzYV2IoSjYaoqff"
+    },
+    {
+      "added_at": "2025-05-30 14:43:40",
+      "album": {
         "name": "Power of the Moon",
         "url": "https://open.spotify.com/album/5N2qF4eDauBb9nscIfuEul"
       },
@@ -1599,38 +1615,6 @@
     {
       "added_at": "2025-05-30 14:43:40",
       "album": {
-        "name": "Ankles",
-        "url": "https://open.spotify.com/album/00Eyfj7pAuBtYzZrbxgC0P"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 191476,
-      "name": "Ankles",
-      "url": "https://open.spotify.com/track/5qKo0YSaAkYe6kgYz8Ac0Y"
-    },
-    {
-      "added_at": "2025-05-30 14:43:40",
-      "album": {
-        "name": "GERM",
-        "url": "https://open.spotify.com/album/0HP3FFeHsVIVeXkWZynFLm"
-      },
-      "artists": [
-        {
-          "name": "Kate Nash",
-          "url": "https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg"
-        }
-      ],
-      "duration_ms": 306009,
-      "name": "GERM",
-      "url": "https://open.spotify.com/track/3gylfpJh39G4WErX4QFV7y"
-    },
-    {
-      "added_at": "2025-05-30 14:43:40",
-      "album": {
         "name": "LIE DOWN..",
         "url": "https://open.spotify.com/album/1DnDYhwZ7K6gejLVulLNZf"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 309381,
       "name": "LIE DOWN..",
       "url": "https://open.spotify.com/track/68XQUzPx5J3irT3WzUpJRp"
+    },
+    {
+      "added_at": "2025-05-30 14:43:40",
+      "album": {
+        "name": "Ankles",
+        "url": "https://open.spotify.com/album/00Eyfj7pAuBtYzZrbxgC0P"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 191476,
+      "name": "Ankles",
+      "url": "https://open.spotify.com/track/5qKo0YSaAkYe6kgYz8Ac0Y"
     }
   ],
   "unique_name": "The Listening Post",

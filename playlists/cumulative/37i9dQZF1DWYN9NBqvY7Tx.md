@@ -4,7 +4,7 @@
 
 > Dance, bass, EDM, trap, phonk: the perfect gaming mix.
 
-654 songs - 1 day 9 hr 44 min
+655 songs - 1 day 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Catharsis](https://open.spotify.com/track/0YLqnkxAp7Bwbi9V1X93xL) | [Approaching Nirvana](https://open.spotify.com/artist/3sS2Q1UZuUXL7TZSbQumDI) | [Catharsis](https://open.spotify.com/album/0ymUAvf82F01N86FAksVzT) | 4:25 | 2022-05-06 | 2022-07-28 |
 | [Cha Cha Cha \- Alan Walker Remix](https://open.spotify.com/track/7wnrrEdwxQWZsDjW7rGZZc) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Cha Cha Cha \(Alan Walker Remix\)](https://open.spotify.com/album/130t4RQBSL7wRJC2JGTFNP) | 2:28 | 2023-06-09 | 2023-07-19 |
 | [Changes](https://open.spotify.com/track/0uv3BtICvv2Y4CWS3vIV28) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [Changes](https://open.spotify.com/album/55WbJrK5dCg3wRGo21JxRE) | 4:22 | 2023-08-01 | 2023-08-21 |
+| [Chaos Theory](https://open.spotify.com/track/2gOrSnyYKsJWMrOH9giTkT) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc) | [Chaos Theory](https://open.spotify.com/album/6XCOMsUfSGmRnQZBYIL48z) | 2:37 | 2025-05-30 |  |
 | [Cheerleader](https://open.spotify.com/track/779mhz1mAry946r91qzR1r) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Cheerleader](https://open.spotify.com/album/0KdbNiljxzEMCwkVJS0wzI) | 3:57 | 2024-03-29 | 2024-04-19 |
 | [Chemical Bond](https://open.spotify.com/track/5kn2FMZoBVClbA9CV7w3k5) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Deathpact](https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb) | [Chemical Bond](https://open.spotify.com/album/4HAEHinatEsoXSDd4rBQy6) | 2:22 | 2024-06-24 | 2024-08-17 |
 | [Chills \(LA Hills\)](https://open.spotify.com/track/1O8aHcA2gPhwDIJovDetN8) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Chills \(LA Hills\)](https://open.spotify.com/album/0redIUGhpUdCdlx3q7OLQK) | 3:03 | 2023-05-05 | 2023-07-19 |
@@ -499,7 +500,7 @@
 | [SHADOW](https://open.spotify.com/track/0wGbyS1tExQSwOYu6UceyE) | [ONIMXRU](https://open.spotify.com/artist/3ysIyoivMDpeqLg0VMRPQw), [SMITHMANE](https://open.spotify.com/artist/5WOke44Ea57bHmJ3X0qluG) | [SHADOW](https://open.spotify.com/album/4w0uRvtIjqipuoZ7ngqqcV) | 2:42 | 2022-09-02 |  |
 | [Shady Intentions \(feat\. Tori Levett\)](https://open.spotify.com/track/7zN7l6yep9kPdBJeevfPvY) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Tori Levett](https://open.spotify.com/artist/0VXSswAMDSlObSftPEkPqL) | [Shady Intentions \(feat\. Tori Levett\)](https://open.spotify.com/album/38FIOf6dJnWYBsFomLHgHU) | 3:05 | 2022-06-10 | 2022-07-21 |
 | [SHAKE THAT SHIT!](https://open.spotify.com/track/0zPlzJewGJ8iIxia2bEWDN) | [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh), [cade clair](https://open.spotify.com/artist/0647ep4AirMtU3Iq9YcBXm), [ProdByAbnormal](https://open.spotify.com/artist/7fc1beONoGaY0613kvQKWe) | [SHAKE THAT SHIT!](https://open.spotify.com/album/1Cw0Mri4i2zYXtQEd7qqOs) | 2:35 | 2024-01-19 | 2024-03-09 |
-| [shake!the!city!](https://open.spotify.com/track/0AdQigPVEFZrgzdBGHEnuC) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [Naliya](https://open.spotify.com/artist/6n4qDgsuoohAN5Q7HebLvU) | [nolimit](https://open.spotify.com/album/0m7RPdwNo1gte0nUSwh2yv) | 3:16 | 2025-01-18 |  |
+| [shake!the!city!](https://open.spotify.com/track/0AdQigPVEFZrgzdBGHEnuC) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [Naliya](https://open.spotify.com/artist/6n4qDgsuoohAN5Q7HebLvU) | [nolimit](https://open.spotify.com/album/0m7RPdwNo1gte0nUSwh2yv) | 3:16 | 2025-01-18 | 2025-06-03 |
 | [Shiawase](https://open.spotify.com/track/4hAb4pbqgfgwraiHongYZR) | [Dion Timmer](https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums) | [Shiawase](https://open.spotify.com/album/64SYVRoKKBGR1wmb6S1l7d) | 3:37 | 2022-05-06 | 2022-07-26 |
 | [Shiawase \- VIP](https://open.spotify.com/track/4mTLnLuHoGhA2xd595OMg1) | [Dion Timmer](https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums) | [Shiawase \(VIP\)](https://open.spotify.com/album/3kjZtcljgpKUuSpTPpNYoZ) | 3:01 | 2022-05-13 | 2022-07-03 |
 | [Shimmy Shake \(That Booty\)](https://open.spotify.com/track/2h113cdbuGT8CLmwppMVES) | [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ), [740 Boyz](https://open.spotify.com/artist/1gxehupXVKw95i03TQKppC) | [Shimmy Shake \(That Booty\)](https://open.spotify.com/album/0L3BHBCF1zCpgKY91PLtRK) | 1:57 | 2024-11-22 | 2024-12-12 |

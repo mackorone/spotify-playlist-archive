@@ -4,7 +4,7 @@
 
 > 
 
-2,162 songs - 4 day 20 hr 8 min
+2,163 songs - 4 day 20 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -405,6 +405,7 @@
 | [Closer To You](https://open.spotify.com/track/3r2TFFPynN97CgmzXKal5X) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:04 | 2021-08-05 |  |
 | [Closet](https://open.spotify.com/track/4hAPiyiwGAlIKP53qfmDuN) | [Fleshwater](https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF) | [We're Not Here to Be Loved](https://open.spotify.com/album/0hm7PiBu72tRliLqLfiKy1) | 2:02 | 2023-06-07 |  |
 | [Cloud99 \(As Above Mix\)](https://open.spotify.com/track/5FbJG8bTkeDjTWUEgsGzQG) | [Machine Girl](https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0) | [Gemini](https://open.spotify.com/album/4vdHY7cdRkKTebKoEM6yaE) | 3:20 | 2023-02-26 |  |
+| [Club Bizarre](https://open.spotify.com/track/4fHug3zCanK33sdvticISi) | [U96](https://open.spotify.com/artist/0RhnKJThw36HFitqY6dYgd) | [Club Bizarre](https://open.spotify.com/album/49CWPw9MGkEvc78gTjLnEe) | 5:00 | 2025-06-02 |  |
 | [Club classics](https://open.spotify.com/track/7BoOmRrtNCbIT9yQ4xidk5) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Club classics / B2b](https://open.spotify.com/album/1SVYaK0V3lULwQ0rtnrIy3) | 2:33 | 2024-04-22 |  |
 | [Club classics featuring bb trickz](https://open.spotify.com/track/2zbtUOuh8lREqhg8JCRrhs) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 2:54 | 2024-10-14 |  |
 | [Club Cyberia](https://open.spotify.com/track/3OPwVR3dVHEuWkNYk6LsQl) | [TOKYOPILL](https://open.spotify.com/artist/39kuwM2oBNmrM3kEYVmk2X) | [Abandon The Flesh !](https://open.spotify.com/album/5UbQTFCWSpqzy8ZwviEJQ6) | 1:36 | 2022-10-13 |  |
@@ -1146,7 +1147,7 @@
 | [Love](https://open.spotify.com/track/2Kerz9H9IejzeIpjhDJoYG) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Lust For Life](https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo) | 4:32 | 2021-08-05 |  |
 | [Love On The Brain](https://open.spotify.com/track/5oO3drDxtziYU2H1X23ZIp) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:44 | 2021-08-05 |  |
 | [Love Story](https://open.spotify.com/track/28iWca1I2wjlrkfiMMP0aL) | [Sarah Cothran](https://open.spotify.com/artist/3kft86DbqCNr7rjq3pEj0G) | [Love Story](https://open.spotify.com/album/0ao7Hy2A1MbyH8CccdzOgx) | 3:10 | 2021-08-05 |  |
-| [Love Taste](https://open.spotify.com/track/0XVoD3TmJVEYdRzZoe0Ewy) | [Moe Shop](https://open.spotify.com/artist/7cvljqLNhWNFMb8wP2NImJ), [Jamie Paige](https://open.spotify.com/artist/790JtoMXsEVQqzkerV3xuf), [Shiki\-TMNS](https://open.spotify.com/artist/433MAtNbNMBD9ErZQBBnXb) | [Love Taste](https://open.spotify.com/album/0r9YlVLiJf93hXHxCiJKCt) | 2:56 | 2022-06-10 |  |
+| [Love Taste](https://open.spotify.com/track/0XVoD3TmJVEYdRzZoe0Ewy) | [Moe Shop](https://open.spotify.com/artist/7cvljqLNhWNFMb8wP2NImJ) | [Love Taste](https://open.spotify.com/album/0r9YlVLiJf93hXHxCiJKCt) | 2:56 | 2022-06-10 |  |
 | [Love The Lows](https://open.spotify.com/track/7zMdkX1VNdKgSJPEti8OwT) | [Montee](https://open.spotify.com/artist/2rgFqpsqtoEJGOr0JzFxtG) | [Love The Lows](https://open.spotify.com/album/50JKpF36EA6xWYomnonM8E) | 3:11 | 2025-02-03 |  |
 | [LOVE\. FEAT\. ZACARI.](https://open.spotify.com/track/6PGoSes0D9eUDeeAafB2As) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 3:33 | 2021-08-05 |  |
 | [Love?](https://open.spotify.com/track/4MVJvkKhoeLPH3BcssmVpC) | [Strapping Young Lad](https://open.spotify.com/artist/457qPvtiBTIl6LR4dZiKZy) | [Alien](https://open.spotify.com/album/6SS8I9qRTwh0tMdAYoTbat) | 4:53 | 2022-02-18 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is BK. The essential tracks, all in one playlist.",
-  "num_followers": 78923,
+  "num_followers": 79062,
   "original_name": "This Is BK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDpGgAAAAADcAFtERiMw9Hr9ZgJThM//",
+  "snapshot_id": "aDuYAAAAAABp6H3JN3ApgzEFg4arC0z+",
   "tracks": [
     {
       "added_at": null,
@@ -1063,6 +1063,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "MPC (M\u00fasica Popular Carioca)",
+        "url": "https://open.spotify.com/album/6eyTN2TvyY5vcbu7Di6E3R"
+      },
+      "artists": [
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        },
+        {
+          "name": "Naldo Benny",
+          "url": "https://open.spotify.com/artist/4xnFkvb5Pk259qAXQ6yrYU"
+        },
+        {
+          "name": "Fernanda Abreu",
+          "url": "https://open.spotify.com/artist/23T5kuXiRZWsH5w1lxowMh"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "DJ Chernobyl",
+          "url": "https://open.spotify.com/artist/64TsgRO3AX0B5lDwTKqZjW"
+        }
+      ],
+      "duration_ms": 114461,
+      "name": "PASSE A RESPEITAR",
+      "url": "https://open.spotify.com/track/7pNRL7S26wxE7afedHhQPt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dois",
         "url": "https://open.spotify.com/album/5NRBahRXTDabcbEVvCGtAm"
       },
@@ -1123,6 +1155,30 @@
       "duration_ms": 251668,
       "name": "Julius",
       "url": "https://open.spotify.com/track/525iKRpCJuNRyA5OTUNzla"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FRAGMENTADO",
+        "url": "https://open.spotify.com/album/00EpdnJTbeKfWrc7FI7Q2H"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "$amuka",
+          "url": "https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj"
+        }
+      ],
+      "duration_ms": 149095,
+      "name": "ANJO DA MADRUGADA",
+      "url": "https://open.spotify.com/track/2c0x0hg7DlzlPk6XLXhNgH"
     }
   ],
   "unique_name": "This Is BK",

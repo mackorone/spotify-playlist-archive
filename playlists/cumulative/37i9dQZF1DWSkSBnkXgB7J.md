@@ -2,9 +2,9 @@
 
 ### [RADAR ARABIA](https://open.spotify.com/playlist/37i9dQZF1DWSkSBnkXgB7J)
 
-> The exciting new music on our radar in the Middle East and North Africa\.  Cover: Kawtar
+> The exciting new music on our radar in the Middle East and North Africa\.  Cover: Nasser
 
-162 songs - 8 hr 34 min
+163 songs - 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [LDAKHEL MIYET](https://open.spotify.com/track/4QmTJOzF7FcVscManv5ktY) | [Hackler](https://open.spotify.com/artist/10kr1Y0j9ZsKYTfgqyrQYt), [Yvzid](https://open.spotify.com/artist/1hiAzHtDperYB5FhcWzJsW) | [LDAKHEL MIYET](https://open.spotify.com/album/5Lh6JYukdMCgahLYz0smCK) | 3:14 | 2025-01-29 |  |
 | [Leeh Aashgah](https://open.spotify.com/track/0TBgkcyxayUBByqDt0HhNR) | [Meteb Alshalan](https://open.spotify.com/artist/7HRVFYJ71mBbcv8gA2qEjA) | [Leeh Aashgah](https://open.spotify.com/album/3txXZExrTSWJaDgIMS4MOv) | 4:04 | 2022-06-24 | 2022-11-09 |
 | [LEH](https://open.spotify.com/track/3S2UO7Oy97Zibylp8rMQuR) | [Nasser](https://open.spotify.com/artist/2oVmRIBicoQpEtrwww7dJO), [Kay](https://open.spotify.com/artist/2ZizUpffI2ErDfcsqrRGoG) | [LEH](https://open.spotify.com/album/0aywGK6kFqvMU2SnkylR4p) | 2:40 | 2025-04-30 |  |
+| [Limites](https://open.spotify.com/track/6RpulWynN6H9WFZ43zYW70) | [ZAKLOOW](https://open.spotify.com/artist/1YXtbOgnaz82aSuMnWSukx), [KALIL](https://open.spotify.com/artist/2dvRuyAsoUIYUNKnP2miWR), [777YM](https://open.spotify.com/artist/0RM7X5kb4RzuDItJhqy3A1) | [Limites](https://open.spotify.com/album/1oLQ0QuxUPXkwDvgS54P8I) | 3:16 | 2025-06-02 |  |
 | [LOVE DOCTOR](https://open.spotify.com/track/3cyW7qRBsH3S95gP1IuXmS) | [DONMD](https://open.spotify.com/artist/7Bmr57mxS6riZhuVMQpGD6), [Hkmk](https://open.spotify.com/artist/0Tze8Gw1ML0ApNSPytouXg) | [LOVE DOCTOR](https://open.spotify.com/album/3aCQHE7XZbTczZvUwRKqza) | 2:01 | 2024-01-09 | 2024-04-19 |
 | [LOVE DOCTOR](https://open.spotify.com/track/76IYiajfXenzXODVm000sw) | [DONMD](https://open.spotify.com/artist/7Bmr57mxS6riZhuVMQpGD6), [Hkmk](https://open.spotify.com/artist/0Tze8Gw1ML0ApNSPytouXg) | [LOVE DOCTOR](https://open.spotify.com/album/6ICmtrFdtxFnCkZzscSQpU) | 2:01 | 2022-06-24 | 2025-01-30 |
 | [Ma Bansak](https://open.spotify.com/track/6MphGwh3Oa0AcCGoRiQG4g) | [zeyne](https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf) | [Ma Bansak](https://open.spotify.com/album/6nclujWYoBILoSWMsidMrb) | 3:03 | 2024-05-14 |  |

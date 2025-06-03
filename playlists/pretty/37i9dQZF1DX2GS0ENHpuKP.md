@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GS0ENHpuKP.md) - [plain]
 
 > <a href="spotify:artist:77J3V0V7sEOf5ifCDBSNaJ">Nu Genea</a>'s favorite tracks\. Updated regularly\. Curated by Nu Genea\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,026 likes - 54 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,067 likes - 54 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GS0ENHpuKP.md) - [plain]
 | 53 | [Sexy Pummarola](https://open.spotify.com/track/6gXj04PNcGzYS0LjNVrxNh) | [Gibo & Pummarola Band](https://open.spotify.com/artist/7fDyEm4yGOFMKnWv9GFRXA) | [Napoli Segreta Vol.2](https://open.spotify.com/album/4OFycCEd9tvzBSXGc3tVaG) | 3:31 |
 | 54 | [No Nos Pararan](https://open.spotify.com/track/47uSDINq6LvvNdMPvs82WV) | [Charanga 76](https://open.spotify.com/artist/6bB0iS1H2zn09k8kExHknf) | [No Nos Pararan](https://open.spotify.com/album/5cI6VjFpoHnMSnWtOMO7uW) | 9:34 |
 
-Snapshot ID: `AAAAADTWs7Yg1H5yfDle6GLgN6sVwX+I`
+Snapshot ID: `Z23uRQAAAAD7mUXH16XWcmDz/quDsHYB`

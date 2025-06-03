@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 
 > Paris c'est magique, c'est trop ma ville, ça bouge de tous les côtés \#fyp
 
-[Spotify](https://open.spotify.com/user/spotify) - 745,563 likes - 90 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 746,505 likes - 90 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 | 89 | [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 |
 | 90 | [Mec de la rue](https://open.spotify.com/track/65wLKpTngPpQ9zs8WBT3e8) | [Moubarak](https://open.spotify.com/artist/5E62kscxqQ6HRcRRsxm1n1) | [Mec de la rue](https://open.spotify.com/album/323w5jHskUoIN7ogHUqGu6) | 3:34 |
 
-Snapshot ID: `aDvwFwAAAAAvfmbWV8lAcTpvDyzLVyWH`
+Snapshot ID: `aD23xgAAAABUBD1i1dNg3e65BgeKqY80`

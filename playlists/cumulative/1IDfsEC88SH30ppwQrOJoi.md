@@ -4,7 +4,7 @@
 
 > High energy, club songs from around the world! <a href="https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA">Jaxomy</a> on the cover\. Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-404 songs - 20 hr 52 min
+406 songs - 20 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [Jungle](https://open.spotify.com/track/0yVNtNWZshsOXu0GLWp07P) | [1991](https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy), [Alex Hosking](https://open.spotify.com/artist/5YCU9eHY4IYTyNa8XRFuw9) | [Jungle](https://open.spotify.com/album/4eZtcLOUFdM3ScPCGERBvx) | 3:31 | 2024-08-23 |  |
 | [Kids](https://open.spotify.com/track/0OaocSJofzn35x0d1zYBkG) | [Flexxus](https://open.spotify.com/artist/0KIOQL6cgarrHCSaIdIMJv) | [Kids](https://open.spotify.com/album/7BjiTaogvuGSkQQ8U6KCPR) | 2:10 | 2023-11-03 | 2024-03-14 |
 | [Kill For This Shit \(feat\. Young Dolph\)](https://open.spotify.com/track/5ScpTvVlLoTG9pEJiO1LZF) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Kill For This Shit \(feat\. Young Dolph\)](https://open.spotify.com/album/0WEHkvTwLphaOKZMM1kpok) | 3:17 | 2024-03-13 |  |
+| [La Bomba](https://open.spotify.com/track/3mp0R7UzCB9tP0tjBCtGr0) | [Aphesta](https://open.spotify.com/artist/7zWSFa0jzUynkGowMgzH46) | [Wet Mode](https://open.spotify.com/album/2zJnjm8f9oJjOnnnRhRYMw) | 2:29 | 2025-06-02 |  |
 | [La Discoteca](https://open.spotify.com/track/6gJQywNtkGHqMAvchQjeVo) | [BIIANCO](https://open.spotify.com/artist/4Axsf7QVnPabbam5y6NwLt), [Mary Droppinz](https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS), [My Name Is Alex](https://open.spotify.com/artist/1MaDqHjCtpHgPJHQz5bV2C) | [La Discoteca](https://open.spotify.com/album/4BbsMlNvp4jNA6nkAHzu6M) | 3:16 | 2024-04-26 |  |
 | [La Fiesta](https://open.spotify.com/track/3SrNF6KtlYy8xVOHi8F9xC) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF) | [La Fiesta](https://open.spotify.com/album/5cb83Ji1ELlkefe567WoSx) | 3:45 | 2023-10-30 | 2024-03-14 |
 | [La Musica](https://open.spotify.com/track/7AAV2G6lxJhMm3Dq2LUNwW) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Mairee](https://open.spotify.com/artist/0e3qT2AqBNTqmo0d5OMzd6) | [La Musica](https://open.spotify.com/album/6oosHftkdOTw9x6dm6NnCr) | 2:17 | 2024-05-17 |  |
@@ -376,6 +377,7 @@
 | [Thong Song \(with Sisqo\)](https://open.spotify.com/track/3TPBlHxV9hPKRQIpcqia79) | [Joezi](https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B), [ADAME \(US\)](https://open.spotify.com/artist/5ciK0pfast3uHtwtQgk7gW), [Sisqo](https://open.spotify.com/artist/6x9QLdzo6eBZxJ1bHsDkjg) | [Thong Song \(with Sisqo\)](https://open.spotify.com/album/7qZbztobMbghX2XWHbmppu) | 3:17 | 2025-04-28 |  |
 | [Throw Your Hands](https://open.spotify.com/track/3qXzSsbqXAKdvuqQs9ngLl) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Throw Your Hands](https://open.spotify.com/album/3keETtjEnJS2M0AUuNNiZw) | 3:11 | 2023-05-12 | 2024-03-14 |
 | [Time Expands](https://open.spotify.com/track/22nmVMHu9jWcoRwNvtQuSE) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [Time Expands](https://open.spotify.com/album/5WFhrKjglAEdacNAi77K1M) | 3:24 | 2023-09-30 | 2024-03-14 |
+| [Tivoli \(KREAM Remix\)](https://open.spotify.com/track/2XpnR1Ly4bKk7K2sxJkM7U) | [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s), [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Tivoli \(KREAM Remix\)](https://open.spotify.com/album/5dV5M5LZ7wQDfAYp039hO6) | 3:14 | 2025-06-02 |  |
 | [To The Club](https://open.spotify.com/track/08owNR8LaRREKGk40OFX8r) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [Spankox](https://open.spotify.com/artist/15VeucLAy98diDPJ0T3J2V) | [To The Club](https://open.spotify.com/album/6FeEAKGv25NvQLMpopmu8o) | 3:00 | 2025-01-13 |  |
 | [Toca's Miracle](https://open.spotify.com/track/3bcfuk7hCaST9Bapjbatf8) | [Fappe & Bru](https://open.spotify.com/artist/0cQWPaFUVBhwMCkRaCm4bX), [Fragma](https://open.spotify.com/artist/2t9efDsc10DtZpi4LP3BJJ) | [Toca's Miracle](https://open.spotify.com/album/4Sj4vFxsEiz85oypqhL3qZ) | 2:51 | 2024-11-01 |  |
 | [Told You](https://open.spotify.com/track/6jSLaYL3asiPzk0mCSm5pF) | [FutureShape](https://open.spotify.com/artist/0blllSlSM8o1rGyCTuIekr) | [Told You](https://open.spotify.com/album/66PrrpxI8kGjsn3OZeUP5M) | 2:24 | 2023-07-28 | 2024-03-14 |

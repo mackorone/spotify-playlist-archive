@@ -4,7 +4,7 @@
 
 > T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: LYKN
 
-703 songs - 1 day 17 hr 30 min
+704 songs - 1 day 17 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [LIAR](https://open.spotify.com/track/5dpJemvWkTEM3qIKSbKB82) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [LIAR](https://open.spotify.com/album/5ykB9BRD65FWWxEuiED21R) | 3:31 | 2024-09-12 | 2025-03-02 |
 | [Life Boy \(พูดไปก็ไลฟ์บอย\)](https://open.spotify.com/track/6PBIcQaSWsv3EBExPSk9H3) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [Life Boy \(พูดไปก็ไลฟ์บอย\)](https://open.spotify.com/album/5jteqptiESbFUa4kEPwiqK) | 3:20 | 2023-05-04 | 2024-07-27 |
 | [Light it up](https://open.spotify.com/track/5a3ahIUsesEbEpgglAG3Rz) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [Light it up](https://open.spotify.com/album/2QwevYKKWJkQVqJ024I7or) | 2:50 | 2024-04-11 | 2024-04-26 |
-| [Like You](https://open.spotify.com/track/1iBYMUTBFJDkAW8zQQWGNl) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [Like You](https://open.spotify.com/album/7sb7JwqC9frJEdDinAVU0P) | 2:04 | 2025-05-12 |  |
+| [Like You](https://open.spotify.com/track/1iBYMUTBFJDkAW8zQQWGNl) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [Like You](https://open.spotify.com/album/7sb7JwqC9frJEdDinAVU0P) | 2:04 | 2025-05-12 | 2025-06-03 |
 | [LIKELY](https://open.spotify.com/track/1D3jkC5lc9XZHKWUpY9j0d) | [THI\-O](https://open.spotify.com/artist/7vYaE3YGPOeipQnjSCVPM1) | [LIKELY](https://open.spotify.com/album/2uEmklXEiChMwe6YK4osXv) | 2:46 | 2024-06-06 | 2024-06-14 |
 | [Living Death](https://open.spotify.com/track/0ze2gwpSfT2leQALslUXId) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [Living Death](https://open.spotify.com/album/13Lok3WGq1u7Kby0x9hF5Y) | 4:18 | 2025-04-24 |  |
 | [Long Run](https://open.spotify.com/track/07FoWeMGtWfL80KWEVFtqx) | [BRIGHT](https://open.spotify.com/artist/00AG9ycUdGUSIWuekBMp5H) | [Long Run](https://open.spotify.com/album/55vik9rFq6FwoSIgqM8179) | 3:37 | 2024-04-18 | 2024-05-02 |
@@ -621,6 +621,7 @@
 | [เสียใจไม่เสียดาย \(No Love\)](https://open.spotify.com/track/4XjY4hGqiLjZQnlxCemA9F) | [ALALA](https://open.spotify.com/artist/5GY9bf48Z59vy7dcwbn7yt) | [เสียใจไม่เสียดาย \(No Love\)](https://open.spotify.com/album/2R4hww1wYXvKb5Yu3EGL2n) | 3:23 | 2023-06-01 | 2023-06-16 |
 | [เสื้อตัวเล็ก \(Chob Kub Khun\)](https://open.spotify.com/track/7jLdjsFuLefnYSkDYxfDu9) | [BELL WARISARA](https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY) | [เสื้อตัวเล็ก \(Chob Kub Khun\)](https://open.spotify.com/album/24KFghzsx4qWrq6B9U9ZOI) | 3:15 | 2022-07-07 | 2022-07-23 |
 | [เส้นเรื่องเดิม \(RERUN\)](https://open.spotify.com/track/7kYkOkwL7644XyOdjQ9zo5) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [เส้นเรื่องเดิม \(RERUN\)](https://open.spotify.com/album/26LY4e9rP1alRPyBwokxsW) | 3:31 | 2023-09-13 | 2024-03-15 |
+| [เหตุผลของวันนี้ \(Flower\)](https://open.spotify.com/track/3PabyxIj11p70zsuEcNaFK) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [เหตุผลของวันนี้ \(Flower\)](https://open.spotify.com/album/3YXge7R4yMJitwAJhHaPxu) | 3:53 | 2025-06-02 |  |
 | [เหตุผลข้อเดียว \(I Mean\)](https://open.spotify.com/track/7mhv19fY8rvuuIey7mrwD2) | [NEVONE](https://open.spotify.com/artist/04iMi6PaEHR1pbgh5LK8nZ) | [เหตุผลข้อเดียว \(I Mean\)](https://open.spotify.com/album/3GQ88RTjXv4YvbdzUsX7nl) | 3:18 | 2024-07-11 | 2024-07-19 |
 | [เหนือฟ้า \(ABOVE\) \- Ost\. ข้ามฟ้าเคียงเธอ The Next Prince Series](https://open.spotify.com/track/3u6ehLHBIe0SiwR0amlskf) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [เหนือฟ้า \(ABOVE\) \[Ost\. ข้ามฟ้าเคียงเธอ The Next Prince Series\]](https://open.spotify.com/album/0cJSCTNljetysSWUYORnUU) | 3:50 | 2025-05-01 | 2025-05-23 |
 | [เหนื่อยหน่อยนะ \(SOMEONE LIKE ME\)](https://open.spotify.com/track/1iB4DlhihIiLpXB6rTDtkO) | [GEMINI](https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei) | [เหนื่อยหน่อยนะ \(SOMEONE LIKE ME\) \- Single](https://open.spotify.com/album/083WVo2isnQjzo2Z0IiYHZ) | 2:56 | 2024-08-15 | 2024-11-15 |

@@ -4,7 +4,7 @@
 
 > qunnie on the cover 🫧
 
-525 songs - 1 day 7 hr 5 min
+526 songs - 1 day 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -335,6 +335,7 @@
 | [nothing stays the same](https://open.spotify.com/track/1G5BjlSpXHxNYrekbizoqB) | [katie phelan](https://open.spotify.com/artist/7g4ZlfLhJhCxpaMPUH2PY4) | [nothing stays the same](https://open.spotify.com/album/5LwN7m2X4JWl0k3Pcpky1v) | 3:49 | 2025-05-09 |  |
 | [October \(October Version\)](https://open.spotify.com/track/3yNu9MBN7cBxMY17fxinZD) | [HAPPY LANDING](https://open.spotify.com/artist/2Jsv2nBcTfKpM9dbZcBbk6) | [October \(October Version\)](https://open.spotify.com/album/3uf5rVvGGDmnbWBH0ZvJse) | 4:37 | 2023-10-06 | 2024-04-13 |
 | [October Moon](https://open.spotify.com/track/3YsdzICwd73j0iZZB3l4z9) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [October Moon](https://open.spotify.com/album/330v2AkPhkpww8XyWcllyp) | 4:06 | 2024-10-11 | 2025-05-10 |
+| [Oh No! \- Edit](https://open.spotify.com/track/6WNz0P5M39PYy06ujl54Ku) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Oh No! \(Edit\)](https://open.spotify.com/album/1bRxGv1rHtNJmVb6pOXHkv) | 3:26 | 2025-06-02 |  |
 | [Old Car](https://open.spotify.com/track/3o6wfrXEOOd1wk836lNyQS) | [Chrissy](https://open.spotify.com/artist/3QwRBjTeM46BQmREpCiL6f) | [Old Car](https://open.spotify.com/album/0dY7aaSn3OtgYSyeVl73hA) | 3:19 | 2024-10-09 | 2025-05-10 |
 | [Older](https://open.spotify.com/track/2EBtLxQSV8EHpk4gHoMnl3) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/5Tz4JnX2qcVxDDLpG8d2LY) | 3:21 | 2024-02-13 | 2024-03-16 |
 | [On My Way](https://open.spotify.com/track/74cDV5HXtQmQ1hMfa8JoIK) | [June McDoom](https://open.spotify.com/artist/01dkMVgxs4d9pNMIOgyXVV) | [On My Way](https://open.spotify.com/album/1Ny40get2xI8Jrrl4MuOr4) | 3:32 | 2023-10-06 | 2024-04-13 |

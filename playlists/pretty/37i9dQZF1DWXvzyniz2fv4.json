@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 158707,
+  "num_followers": 158702,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -1063,6 +1063,26 @@
     {
       "added_at": "2025-05-31 21:42:36",
       "album": {
+        "name": "Vis\u00f5es",
+        "url": "https://open.spotify.com/album/1WKOJzsIGF9y2ZxWysT9R7"
+      },
+      "artists": [
+        {
+          "name": "Zero Pacceli",
+          "url": "https://open.spotify.com/artist/62sKdgq98PB8klSTM8Qvaw"
+        },
+        {
+          "name": "Mc Maha",
+          "url": "https://open.spotify.com/artist/2tz0dkPlnWB4NcHNIqWPgh"
+        }
+      ],
+      "duration_ms": 159117,
+      "name": "Vis\u00f5es",
+      "url": "https://open.spotify.com/track/6bBJHkIhYhQCARd5xqO8eO"
+    },
+    {
+      "added_at": "2025-05-31 21:42:36",
+      "album": {
         "name": "Vento Bom",
         "url": "https://open.spotify.com/album/2h0iw6R2fq3xCWDQvmIS1l"
       },
@@ -1131,6 +1151,26 @@
     {
       "added_at": "2025-05-31 21:42:36",
       "album": {
+        "name": "Ir Embora",
+        "url": "https://open.spotify.com/album/4P0ILvy6Lb8hvEwY8RtcFj"
+      },
+      "artists": [
+        {
+          "name": "Taz Mureb",
+          "url": "https://open.spotify.com/artist/58Edhhh8yg8UogYP33f2hW"
+        },
+        {
+          "name": "Scarlet Ohana",
+          "url": "https://open.spotify.com/artist/1kjSl7qb7J7qQetAGS3Wn3"
+        }
+      ],
+      "duration_ms": 125932,
+      "name": "Ir Embora",
+      "url": "https://open.spotify.com/track/0OE6lDNDdWrHJc9Ke19aJO"
+    },
+    {
+      "added_at": "2025-05-31 21:42:36",
+      "album": {
         "name": "Calor",
         "url": "https://open.spotify.com/album/7FCf4MvjfVvtt4fvIB375L"
       },
@@ -1155,46 +1195,6 @@
     {
       "added_at": "2025-05-31 21:42:36",
       "album": {
-        "name": "Ir Embora",
-        "url": "https://open.spotify.com/album/4P0ILvy6Lb8hvEwY8RtcFj"
-      },
-      "artists": [
-        {
-          "name": "Taz Mureb",
-          "url": "https://open.spotify.com/artist/58Edhhh8yg8UogYP33f2hW"
-        },
-        {
-          "name": "Scarlet Ohana",
-          "url": "https://open.spotify.com/artist/1kjSl7qb7J7qQetAGS3Wn3"
-        }
-      ],
-      "duration_ms": 125932,
-      "name": "Ir Embora",
-      "url": "https://open.spotify.com/track/0OE6lDNDdWrHJc9Ke19aJO"
-    },
-    {
-      "added_at": "2025-05-31 21:42:36",
-      "album": {
-        "name": "Mist\u00e9rio",
-        "url": "https://open.spotify.com/album/3kBRkJc0JKJ7Cb9PRbs5HG"
-      },
-      "artists": [
-        {
-          "name": "Knust",
-          "url": "https://open.spotify.com/artist/7Ceg1mJmu4lAzuhQU9hQFJ"
-        },
-        {
-          "name": "CMK",
-          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
-        }
-      ],
-      "duration_ms": 142105,
-      "name": "Mist\u00e9rio",
-      "url": "https://open.spotify.com/track/2syPgLsmPg8dBNvqdKhCnc"
-    },
-    {
-      "added_at": "2025-05-31 21:42:36",
-      "album": {
         "name": "\u00c9 Voc\u00ea",
         "url": "https://open.spotify.com/album/5gATIdtYF8ER6ROdxO8mGa"
       },
@@ -1215,6 +1215,26 @@
       "duration_ms": 197067,
       "name": "\u00c9 Voc\u00ea",
       "url": "https://open.spotify.com/track/1e75Ro02st0st8uA2hsUxl"
+    },
+    {
+      "added_at": "2025-05-31 21:42:36",
+      "album": {
+        "name": "Mist\u00e9rio",
+        "url": "https://open.spotify.com/album/3kBRkJc0JKJ7Cb9PRbs5HG"
+      },
+      "artists": [
+        {
+          "name": "Knust",
+          "url": "https://open.spotify.com/artist/7Ceg1mJmu4lAzuhQU9hQFJ"
+        },
+        {
+          "name": "CMK",
+          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
+        }
+      ],
+      "duration_ms": 142105,
+      "name": "Mist\u00e9rio",
+      "url": "https://open.spotify.com/track/2syPgLsmPg8dBNvqdKhCnc"
     },
     {
       "added_at": "2025-05-31 21:42:36",
@@ -1271,26 +1291,6 @@
       "duration_ms": 206769,
       "name": "Nossas M\u00eddias",
       "url": "https://open.spotify.com/track/1VYll7Pj0Bvr2C9uQYqKIA"
-    },
-    {
-      "added_at": "2025-05-31 21:42:36",
-      "album": {
-        "name": "Vis\u00f5es",
-        "url": "https://open.spotify.com/album/1WKOJzsIGF9y2ZxWysT9R7"
-      },
-      "artists": [
-        {
-          "name": "Zero Pacceli",
-          "url": "https://open.spotify.com/artist/62sKdgq98PB8klSTM8Qvaw"
-        },
-        {
-          "name": "Mc Maha",
-          "url": "https://open.spotify.com/artist/2tz0dkPlnWB4NcHNIqWPgh"
-        }
-      ],
-      "duration_ms": 159117,
-      "name": "Vis\u00f5es",
-      "url": "https://open.spotify.com/track/6bBJHkIhYhQCARd5xqO8eO"
     },
     {
       "added_at": "2025-05-31 21:42:36",

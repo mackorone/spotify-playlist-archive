@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > Celebrating 10 years of the best new hip\-hop music from new, independent artists\.  Cover: <a href="spotify:artist:3FFfAZsrsx8ot1m6H5vzQc">Zukenee<br/></a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,127 likes - 100 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,186 likes - 100 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,21 +14,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 4 | [Decisions](https://open.spotify.com/track/478xhrRXUu6AUxWyxIHeVB) | [Big Ro6](https://open.spotify.com/artist/4Jucp7VkE23J0DndVXzJGM) | [Decisions](https://open.spotify.com/album/1o0mFLt8eSj6vDQCRhgOBU) | 3:01 |
 | 5 | [Shit Talking](https://open.spotify.com/track/6PHxRktBz4Rl0Xfq1nkuec) | [Grateful](https://open.spotify.com/artist/37Largjw2AHmX1HGGbl6kB) | [Shit Talking](https://open.spotify.com/album/5G2ba8ZCeJtHdR1i78Jyp8) | 2:45 |
 | 6 | [Literally](https://open.spotify.com/track/0Ju3rXJ23Y00CNJZsowzk0) | [Ferrari Simmons](https://open.spotify.com/artist/0qXZJoLjVOogkJMUruBHd8), [Belly Gang Kushington](https://open.spotify.com/artist/7oHPIc7BYAIUhYFF6hSggI) | [Literally](https://open.spotify.com/album/4ZPqGFENk1nov8h8DkDfIc) | 1:49 |
-| 7 | [No Date](https://open.spotify.com/track/6UuG4xWBi4Qw74LwUzlhj1) | [MexikoDro](https://open.spotify.com/artist/6VTn4Wmhm4uD4UNFcEIkEP) | [No Date](https://open.spotify.com/album/4r8YnQJmCGURwZZlAApkUm) | 2:41 |
-| 8 | [Im So ATL](https://open.spotify.com/track/6B3evHyQCMysT7Qa2gEu3A) | [Bankroll Ni](https://open.spotify.com/artist/6557ikOFsjiDmV7gjHYuiD) | [Im So ATL](https://open.spotify.com/album/4bcvWXBjMb02i99YXUJR4z) | 2:04 |
-| 9 | [Affirmations](https://open.spotify.com/track/7HN4SqrMZ30m4RWYm29gJv) | [Flippa T](https://open.spotify.com/artist/7ybmXfgq1wUp1tdU9Wnx1I) | [Affirmations](https://open.spotify.com/album/3zkiLXpBUqqyHIoK3RD7Ex) | 2:04 |
-| 10 | [Bunna Summa](https://open.spotify.com/track/4OGAwFoXdtYTNitXb40ZVV) | [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB) | [Bunna Summa](https://open.spotify.com/album/4ePUbQBPZ4a553ap9NTSqK) | 2:27 |
-| 11 | [Jagger](https://open.spotify.com/track/1Xo1xMK0kBA7W8KpoizQwf) | [Lil 6](https://open.spotify.com/artist/2Ro8nJQrWimpIrsVnpvHgL) | [Who Is 6?](https://open.spotify.com/album/1Q7ZsJKDMzTgXD7kiQyvIQ) | 1:45 |
-| 12 | [Fine](https://open.spotify.com/track/7yk7hhiCxNEJgGzmZPGdrM) | [Big Yba](https://open.spotify.com/artist/1RI955NtytmC8WSVGGva9p), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Way 2 Playa](https://open.spotify.com/album/6HJWVTQRNVBrPlO7qugm2O) | 2:55 |
-| 13 | [Back Of My Mind \(feat\. Nino Paid\)](https://open.spotify.com/track/4YXPLCOzpEhrLbveYod0k8) | [Rockout Danny](https://open.spotify.com/artist/6zeQl72GknqjTGCbrzvSbc), [Nino Paid](https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H) | [Back Of My Mind \(feat\. Nino Paid\)](https://open.spotify.com/album/5C82P33f089DBN4VRhnwnL) | 2:00 |
-| 14 | [My World](https://open.spotify.com/track/5PCn4ysnzhILLhQY0u4Ans) | [Chuckyy](https://open.spotify.com/artist/0HRGx78eQaMqoHoopLfi2h) | [My World](https://open.spotify.com/album/3WRgF7kV3rACmcjk8JDbdh) | 2:37 |
-| 15 | [Come Home](https://open.spotify.com/track/0OUJusExWi6PM06g3cpwbV) | [YFG FATSO](https://open.spotify.com/artist/33YsWRCg88zGFdA0xjxeLO) | [Come Home](https://open.spotify.com/album/6dgiL9q5Ckw8U3V14w1zYH) | 2:32 |
-| 16 | [Sydney](https://open.spotify.com/track/0Rloqtpp3slSMXe7zG4Obx) | [DontKallMeLuxxy](https://open.spotify.com/artist/4ZGM59eHu7wOCnUZjQV1Vi), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Sydney](https://open.spotify.com/album/2evq9fRF1F98Jn3vPebA0p) | 2:25 |
-| 17 | [Make It Look Sexy](https://open.spotify.com/track/03Sgcs0ua5GfNSj6nxUMvG) | [Stunna Sandy](https://open.spotify.com/artist/5M4V7RDb1KJHbuHLn1XEh0) | [Make It Look Sexy](https://open.spotify.com/album/4NGww4sc0PTeW47dsAtALE) | 2:38 |
-| 18 | [keep steady](https://open.spotify.com/track/3UsJUXvHb7qz4GiQtEc4a4) | [sosocamo](https://open.spotify.com/artist/6hpztnbgmaneFFGGnEOVjd) | [keep steady](https://open.spotify.com/album/54IUGypqXx17Z0MhhJ7MhL) | 1:39 |
-| 19 | [thing fa chrome](https://open.spotify.com/track/2Ivu4aXe8Vs4QsjajSXqCe) | [Jaybexo](https://open.spotify.com/artist/2EiZrhJaUqMPjo8qlVC93L) | [thing fa chrome](https://open.spotify.com/album/7cxoO5CeL1betO5Logzqib) | 2:41 |
-| 20 | [Perfect Timing](https://open.spotify.com/track/2r5Jr3cGJh2o1c04Al9pne) | [Shedeur Sanders](https://open.spotify.com/artist/2cDrq2rlvZccVCFrBwRrAs) | [Perfect Timing](https://open.spotify.com/album/1ink26LlxcUpm8A28hKWvz) | 1:59 |
-| 21 | [Anyways](https://open.spotify.com/track/3ISlnQ4IjlcezriNDhJ8WV) | [Hurricane Wisdom](https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7), [TnTXD](https://open.spotify.com/artist/3MnXXt7rpUrlpgrvgzYFAp) | [Anyways](https://open.spotify.com/album/3PyytgXdiBfLQsa7mKU25V) | 1:36 |
+| 7 | [Not Worth It](https://open.spotify.com/track/6hNz8fIpc5xgvlcAmrZ6qH) | [Dc2trill](https://open.spotify.com/artist/3LVus8IbMtxb8idFCCSsLI) | [Community Service](https://open.spotify.com/album/1XJTG3zHRkcQBviB8SgUrQ) | 1:52 |
+| 8 | [No Date](https://open.spotify.com/track/6UuG4xWBi4Qw74LwUzlhj1) | [MexikoDro](https://open.spotify.com/artist/6VTn4Wmhm4uD4UNFcEIkEP) | [No Date](https://open.spotify.com/album/4r8YnQJmCGURwZZlAApkUm) | 2:41 |
+| 9 | [Im So ATL](https://open.spotify.com/track/6B3evHyQCMysT7Qa2gEu3A) | [Bankroll Ni](https://open.spotify.com/artist/6557ikOFsjiDmV7gjHYuiD) | [Im So ATL](https://open.spotify.com/album/4bcvWXBjMb02i99YXUJR4z) | 2:04 |
+| 10 | [Affirmations](https://open.spotify.com/track/7HN4SqrMZ30m4RWYm29gJv) | [Flippa T](https://open.spotify.com/artist/7ybmXfgq1wUp1tdU9Wnx1I) | [Affirmations](https://open.spotify.com/album/3zkiLXpBUqqyHIoK3RD7Ex) | 2:04 |
+| 11 | [Bunna Summa](https://open.spotify.com/track/4OGAwFoXdtYTNitXb40ZVV) | [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB) | [Bunna Summa](https://open.spotify.com/album/4ePUbQBPZ4a553ap9NTSqK) | 2:27 |
+| 12 | [Jagger](https://open.spotify.com/track/1Xo1xMK0kBA7W8KpoizQwf) | [Lil 6](https://open.spotify.com/artist/2Ro8nJQrWimpIrsVnpvHgL) | [Who Is 6?](https://open.spotify.com/album/1Q7ZsJKDMzTgXD7kiQyvIQ) | 1:45 |
+| 13 | [Fine](https://open.spotify.com/track/7yk7hhiCxNEJgGzmZPGdrM) | [Big Yba](https://open.spotify.com/artist/1RI955NtytmC8WSVGGva9p), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Way 2 Playa](https://open.spotify.com/album/6HJWVTQRNVBrPlO7qugm2O) | 2:55 |
+| 14 | [Back Of My Mind \(feat\. Nino Paid\)](https://open.spotify.com/track/4YXPLCOzpEhrLbveYod0k8) | [Rockout Danny](https://open.spotify.com/artist/6zeQl72GknqjTGCbrzvSbc), [Nino Paid](https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H) | [Back Of My Mind \(feat\. Nino Paid\)](https://open.spotify.com/album/5C82P33f089DBN4VRhnwnL) | 2:00 |
+| 15 | [My World](https://open.spotify.com/track/5PCn4ysnzhILLhQY0u4Ans) | [Chuckyy](https://open.spotify.com/artist/0HRGx78eQaMqoHoopLfi2h) | [My World](https://open.spotify.com/album/3WRgF7kV3rACmcjk8JDbdh) | 2:37 |
+| 16 | [Come Home](https://open.spotify.com/track/0OUJusExWi6PM06g3cpwbV) | [YFG FATSO](https://open.spotify.com/artist/33YsWRCg88zGFdA0xjxeLO) | [Come Home](https://open.spotify.com/album/6dgiL9q5Ckw8U3V14w1zYH) | 2:32 |
+| 17 | [Sydney](https://open.spotify.com/track/0Rloqtpp3slSMXe7zG4Obx) | [DontKallMeLuxxy](https://open.spotify.com/artist/4ZGM59eHu7wOCnUZjQV1Vi), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Sydney](https://open.spotify.com/album/2evq9fRF1F98Jn3vPebA0p) | 2:25 |
+| 18 | [Make It Look Sexy](https://open.spotify.com/track/03Sgcs0ua5GfNSj6nxUMvG) | [Stunna Sandy](https://open.spotify.com/artist/5M4V7RDb1KJHbuHLn1XEh0) | [Make It Look Sexy](https://open.spotify.com/album/4NGww4sc0PTeW47dsAtALE) | 2:38 |
+| 19 | [keep steady](https://open.spotify.com/track/3UsJUXvHb7qz4GiQtEc4a4) | [sosocamo](https://open.spotify.com/artist/6hpztnbgmaneFFGGnEOVjd) | [keep steady](https://open.spotify.com/album/54IUGypqXx17Z0MhhJ7MhL) | 1:39 |
+| 20 | [thing fa chrome](https://open.spotify.com/track/2Ivu4aXe8Vs4QsjajSXqCe) | [Jaybexo](https://open.spotify.com/artist/2EiZrhJaUqMPjo8qlVC93L) | [thing fa chrome](https://open.spotify.com/album/7cxoO5CeL1betO5Logzqib) | 2:41 |
+| 21 | [Perfect Timing](https://open.spotify.com/track/2r5Jr3cGJh2o1c04Al9pne) | [Shedeur Sanders](https://open.spotify.com/artist/2cDrq2rlvZccVCFrBwRrAs) | [Perfect Timing](https://open.spotify.com/album/1ink26LlxcUpm8A28hKWvz) | 1:59 |
 | 22 | [Ik I Look Good](https://open.spotify.com/track/5I400k7mpNcENAusso5ePA) | [DEMIYAA](https://open.spotify.com/artist/2VFnxZPBUoglahI0kc6dvc) | [Bonnie & Clyde](https://open.spotify.com/album/2SIRyuc77wACmEDeM32Pf1) | 2:00 |
 | 23 | [Stick Up](https://open.spotify.com/track/0PNR8Ckjga06INhVnhB7nd) | [Raq baby](https://open.spotify.com/artist/2MEiPjmRDl1ftTEaBD3B7D) | [Stick Up](https://open.spotify.com/album/7fMUMNlcXprqV36aIF0sum) | 2:07 |
 | 24 | [WOW! \(feat\. Chris Patrick\)](https://open.spotify.com/track/1agG4cpBUBITSJ4fYQ5bMV) | [D2x](https://open.spotify.com/artist/39Cb8HYiuT4clBeNABSjPA), [Chris Patrick](https://open.spotify.com/artist/6wFu8qYepLnl61GixCI5cu) | [THE HUNGER ERA](https://open.spotify.com/album/4kgSaSR2prl1qV8aqThp2B) | 4:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 99 | [Happy New Year](https://open.spotify.com/track/2C9WzP04bjlFLH4avRt19V) | [Ben Reilly](https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv) | [Happy New Year](https://open.spotify.com/album/7zUcDimGsVU8YH4MzkmQSe) | 3:57 |
 | 100 | [Stripper Song](https://open.spotify.com/track/07no3lBTGZKjl9HpxYiyFn) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [They Left Me With A Gun](https://open.spotify.com/album/1NFdQaJCODmmkMnPfzHDXD) | 2:37 |
 
-Snapshot ID: `aDa7/AAAAACi7P97JMjRuV45QznknaQI`
+Snapshot ID: `aD3wiwAAAAAjDKNQxV86aK+cjUTaX21H`

@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 02 Jun 03:03 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 03 Jun 22:03 UTC.
 
-4,852 songs - 11 day 6 hr 4 min
+4,854 songs - 11 day 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -581,6 +581,7 @@
 | [BOOM BAP](https://open.spotify.com/track/2CpQjdYa6NunbPzGUteF4i) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [BOOM BAP](https://open.spotify.com/album/6kQ44jxgMNT1Rn8o1kuIB1) | 2:14 | 2024-08-23 | 2024-08-28 |
 | [Boom Boom Back](https://open.spotify.com/track/2VGtqvu66pNze1L7vFcRNN) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Boom Boom Back](https://open.spotify.com/album/4U2OigPyy9uJ4K8yKbKwUi) | 3:24 | 2024-05-07 | 2024-05-10 |
 | [BOOOOOORING](https://open.spotify.com/track/70o4Z35wOgtzQEAxLZuPtc) | [babyMINT](https://open.spotify.com/artist/3QBGARmgMgRi08atqAWAV2) | [BOOOOOORING](https://open.spotify.com/album/6VXCZBD2Hn005pri5hmwKg) | 2:56 | 2024-08-20 | 2024-08-23 |
+| [Booted Up](https://open.spotify.com/track/7iYmPfTr3qpVKrEtCxIpZU) | [GELO](https://open.spotify.com/artist/5FZN8ElUU5zENi2IK7gMnu) | [Booted Up](https://open.spotify.com/album/2cxNVaMeyRzhSyEQblZcF0) | 2:42 | 2025-06-02 |  |
 | [Bored](https://open.spotify.com/track/0fw83rSEAVNp8jQRH2bfAE) | [Joeyy](https://open.spotify.com/artist/7hkaLWxN3ZmMVTn1qEpPdM) | [Bored](https://open.spotify.com/album/6eWlitVfgq4RsD8ZhzSGmb) | 1:55 | 2024-12-01 | 2024-12-06 |
 | [Born 2 Lose](https://open.spotify.com/track/23jXlmyI48r5wMNaEUAJ4Q) | [Sematary](https://open.spotify.com/artist/1GLnyPuL45vOsZPs5iANcC) | [Born 2 Lose](https://open.spotify.com/album/5DtOVJRwY4p4UeECbBcdFT) | 3:03 | 2025-04-04 | 2025-04-15 |
 | [Born Fire](https://open.spotify.com/track/2FktPXK8yLMFyx6ZTQtRSm) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT](https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2) | 2:16 | 2025-03-14 | 2025-03-27 |
@@ -1540,7 +1541,7 @@
 | [Forever Young](https://open.spotify.com/track/3bg2qahpZmsg5wV2EMPXIk) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Alphaville](https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Forever Young](https://open.spotify.com/album/5a450MS1eKGQQAsqgvsZ6J) | 2:36 | 2024-10-18 | 2024-10-24 |
 | [Forever Yung](https://open.spotify.com/track/2tUvuACq5JYZfvJ8KwAoAE) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Forever Yung](https://open.spotify.com/album/2UCX45uBhiJyucuXNNNxWr) | 3:20 | 2025-02-21 | 2025-03-02 |
 | [Forget It](https://open.spotify.com/track/2KGbe11xuFTb1L7VSb6QDR) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Forget It](https://open.spotify.com/album/1KVD8DBaK6XZSzMnV2CjsF) | 4:01 | 2024-08-13 | 2024-08-17 |
-| [Forgiving](https://open.spotify.com/track/4Suzf2e7cS5K1aj3tLiwGv) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Forgiving](https://open.spotify.com/album/7trEwuPPg2WdoGBkEkp9bY) | 2:40 | 2025-05-26 |  |
+| [Forgiving](https://open.spotify.com/track/4Suzf2e7cS5K1aj3tLiwGv) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Forgiving](https://open.spotify.com/album/7trEwuPPg2WdoGBkEkp9bY) | 2:40 | 2025-05-26 | 2025-06-03 |
 | [FORMIDABLE](https://open.spotify.com/track/5CIu7QMbF0cdalpFsZbkDT) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [FORMIDABLE](https://open.spotify.com/album/0SMGp4F2NJH7sX2s4wv6HY) | 2:30 | 2024-09-17 | 2024-09-19 |
 | [Fortnight \(feat\. Post Malone\) \- Acoustic Version](https://open.spotify.com/track/2BUTSRKPGRsyc9FnsC5Udd) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Fortnight \(Acoustic Version\)](https://open.spotify.com/album/5IYMYmX28qpI6OEnQhdazX) | 3:48 | 2024-07-09 | 2024-07-11 |
 | [Fortress](https://open.spotify.com/track/27T8hy2nkfnIxZtnAvGmNc) | [Cryogeyser](https://open.spotify.com/artist/3BORonJcAjc2wbSv1DXbTZ) | [Fortress](https://open.spotify.com/album/2GQds1WI4z0WtmiuPVbrjv) | 4:18 | 2024-10-21 | 2024-10-25 |
@@ -1781,6 +1782,7 @@
 | [haiti](https://open.spotify.com/track/49SqhZMyNNNwlQ6rIem6ui) | [Your Stepdad](https://open.spotify.com/artist/4l7BJOIRyFkQT9QD96m8tu) | [haiti](https://open.spotify.com/album/2PrDChZBa8lPeJCGhe64H3) | 1:32 | 2024-07-24 | 2024-07-27 |
 | [Hal Ashby](https://open.spotify.com/track/3KutrW5yHciWy8G7d250BP) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Hal Ashby](https://open.spotify.com/album/1POPLkadaqRnEJQLkQnXVq) | 2:55 | 2024-09-05 | 2024-09-07 |
 | [Hallelujah](https://open.spotify.com/track/78a91L74IHZVQNyh3wgE3d) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc) | [Hallelujah](https://open.spotify.com/album/1acUnqBZF7dYFpnPyrtFrd) | 3:09 | 2024-07-26 | 2024-07-31 |
+| [HALLELUJAH](https://open.spotify.com/track/2l6UQIQwYpRF0GMfzyB2Xs) | [Ye](https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq) | [HALLELUJAH](https://open.spotify.com/album/3AVb7KzXBlB3eEeracWO8Z) | 2:18 | 2025-06-02 |  |
 | [Hallelujah Bruv](https://open.spotify.com/track/0oyOsaqUQhvZH7Dfavot0g) | [Tapir!](https://open.spotify.com/artist/7dYpljfleToKnSmBFqjqkd) | [Hallelujah Bruv](https://open.spotify.com/album/2XOlDfipPw0DbVptNQlFsd) | 2:01 | 2024-08-15 | 2024-08-17 |
 | [Hallelujah!](https://open.spotify.com/track/7lbPVYxNxuQMdDpC4lwv5n) | [Haich Ber Na](https://open.spotify.com/artist/5W4B7OYk43jiH6qLcZ66Qd), [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [Hallelujah!](https://open.spotify.com/album/5X6t1Y5kuS47gJSwfrAEH0) | 2:37 | 2024-08-07 | 2024-08-09 |
 | [HALLOWEEN FREESTYLE](https://open.spotify.com/track/1Y2ohtaV7873XVPzpXgLRn) | [evilgiane](https://open.spotify.com/artist/4bbAeMRdMbfCLVSlpryAVV), [Guapo](https://open.spotify.com/artist/1KWQVpABJxgYvLY5pNNZV6) | [HALLOWEEN FREESTYLE](https://open.spotify.com/album/4htYUjnyQYUKm4xYTnnwci) | 1:51 | 2024-10-16 | 2024-10-18 |
@@ -3440,7 +3442,7 @@
 | [Reunion](https://open.spotify.com/track/5QX1eYqwtdVl7VrSapQvcm) | [Kardashev](https://open.spotify.com/artist/5UYpPowESfmqU3fD6fJFox) | [Reunion](https://open.spotify.com/album/5K2Hm7jLC0oI8jPZOSfbHE) | 4:52 | 2025-02-28 | 2025-03-06 |
 | [REV](https://open.spotify.com/track/5YOgKyFaUMVxEXDYwB1ovq) | [From First To Last](https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN) | [REV](https://open.spotify.com/album/7jzfYMXQOSGn8rm6rbHoVx) | 3:28 | 2024-09-20 | 2024-09-25 |
 | [REVERSE](https://open.spotify.com/track/5KlKadHo3z2nuSpWZNgpj3) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [REVERSE](https://open.spotify.com/album/2agh9SrSkdac9tUYbHOeum) | 3:30 | 2024-07-27 | 2024-08-01 |
-| [Revery](https://open.spotify.com/track/0Vn099e0jlAgV0TE5sOre1) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [Revery](https://open.spotify.com/album/5yNd7mpvNnQWDHUr9WvKPE) | 3:12 | 2025-05-23 |  |
+| [Revery](https://open.spotify.com/track/0Vn099e0jlAgV0TE5sOre1) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [Revery](https://open.spotify.com/album/5yNd7mpvNnQWDHUr9WvKPE) | 3:12 | 2025-05-23 | 2025-06-03 |
 | [Reweave](https://open.spotify.com/track/1biDb1M2wIXtweXwY4Huhi) | [Konomi Suzuki](https://open.spotify.com/artist/3O0kLS5sLZ41XZRxjBKmLF) | [Reweave](https://open.spotify.com/album/5yRwrdOi9JkgYTU1NRrc7B) | 3:57 | 2024-10-03 | 2024-10-05 |
 | [REWIND DAT!](https://open.spotify.com/track/1sWtcehE0D7ROBvpWY9fod) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [REWIND DAT!](https://open.spotify.com/album/0BeFr3YY23WOBS4BpHVaKw) | 1:45 | 2025-02-25 | 2025-03-01 |
 | [REX](https://open.spotify.com/track/13dNuSbgdXdzIaSH1RxhdF) | [Camellia](https://open.spotify.com/artist/4bwIf0yXJf0F9AmOl2J78M) | [REX](https://open.spotify.com/album/3ix5u88koqhbzehH2cc7qL) | 5:32 | 2024-10-28 | 2024-10-31 |

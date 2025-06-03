@@ -1,6 +1,6 @@
 {
   "description": "catch a vibe \ud83c\udf39",
-  "num_followers": 69020,
+  "num_followers": 69035,
   "original_name": "crush",
   "owner": {
     "name": "Spotify",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2025-05-07 06:26:02",
       "album": {
+        "name": "On Your Own Love Again",
+        "url": "https://open.spotify.com/album/44iuWeTEtDDk9Ll3A7O8F2"
+      },
+      "artists": [
+        {
+          "name": "Jessica Pratt",
+          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
+        }
+      ],
+      "duration_ms": 235666,
+      "name": "Back, Baby",
+      "url": "https://open.spotify.com/track/5Pm59vQU1KTcCkg4nZ3SZu"
+    },
+    {
+      "added_at": "2025-05-07 06:26:02",
+      "album": {
         "name": "No Nein",
         "url": "https://open.spotify.com/album/5vmCLooZQ8zXFbabT1nvxP"
       },
@@ -1079,18 +1095,18 @@
     {
       "added_at": "2025-05-07 06:26:02",
       "album": {
-        "name": "On Your Own Love Again",
-        "url": "https://open.spotify.com/album/44iuWeTEtDDk9Ll3A7O8F2"
+        "name": "Anything in Return",
+        "url": "https://open.spotify.com/album/1WiKAuQmbYIxDv2UzMwrBq"
       },
       "artists": [
         {
-          "name": "Jessica Pratt",
-          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
         }
       ],
-      "duration_ms": 235666,
-      "name": "Back, Baby",
-      "url": "https://open.spotify.com/track/5Pm59vQU1KTcCkg4nZ3SZu"
+      "duration_ms": 253119,
+      "name": "Rose Quartz",
+      "url": "https://open.spotify.com/track/4zhQpcdgO2OFUMRzcgSJu1"
     },
     {
       "added_at": "2025-05-07 06:26:02",
@@ -1107,22 +1123,6 @@
       "duration_ms": 162353,
       "name": "FIND YOUR WAY BACK",
       "url": "https://open.spotify.com/track/65kk9CAAqFI3LWBEhUwVqd"
-    },
-    {
-      "added_at": "2025-05-07 06:26:02",
-      "album": {
-        "name": "Anything in Return",
-        "url": "https://open.spotify.com/album/1WiKAuQmbYIxDv2UzMwrBq"
-      },
-      "artists": [
-        {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
-        }
-      ],
-      "duration_ms": 253119,
-      "name": "Rose Quartz",
-      "url": "https://open.spotify.com/track/4zhQpcdgO2OFUMRzcgSJu1"
     },
     {
       "added_at": "2025-05-07 06:26:02",

@@ -2668,7 +2668,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 167294,
       "name": "Jatt Disda",
       "url": "https://open.spotify.com/track/3IJcfo7tASk7YqTC2aifog"
@@ -2694,7 +2694,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 133033,
       "name": "Jatt Fire Maarda",
       "url": "https://open.spotify.com/track/18UrlmmcnIxxDRmtGz1dCB"
@@ -4180,6 +4180,36 @@
       "duration_ms": 216774,
       "name": "NO MORE SHADA",
       "url": "https://open.spotify.com/track/42JDl7zaIHMWqiyXvQqHDQ"
+    },
+    {
+      "album": {
+        "name": "Scarface",
+        "url": "https://open.spotify.com/album/1OjJWLu2xn4KaJiOhtSCc1"
+      },
+      "artists": [
+        {
+          "name": "Harsh Likhari",
+          "url": "https://open.spotify.com/artist/2R4dpXgKNBna1nbMHVcYdf"
+        },
+        {
+          "name": "Dark Soul Studioz",
+          "url": "https://open.spotify.com/artist/3EZPIndtuKArWIo9IgLMwg"
+        },
+        {
+          "name": "Jasmeen Akhtar",
+          "url": "https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C"
+        },
+        {
+          "name": "Dr.Luv",
+          "url": "https://open.spotify.com/artist/6efsv8aZDeldoGxCCxj9ek"
+        }
+      ],
+      "date_added": "2025-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183750,
+      "name": "Not Yet Started",
+      "url": "https://open.spotify.com/track/3casreDgdhjNojP0MCMOKf"
     },
     {
       "album": {
@@ -5906,7 +5936,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-02",
+      "date_removed": null,
       "duration_ms": 170322,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/1mWmBaq051j74b1MviNVLR"

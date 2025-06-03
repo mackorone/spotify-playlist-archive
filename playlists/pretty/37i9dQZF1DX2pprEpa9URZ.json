@@ -1,6 +1,6 @@
 {
   "description": "Deep electronic and organic house sounds, inspired by the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 855653,
+  "num_followers": 855827,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
@@ -247,6 +247,26 @@
     {
       "added_at": "2025-05-30 09:57:19",
       "album": {
+        "name": "Sentimental (Sombras)",
+        "url": "https://open.spotify.com/album/3PuKobf2zMiYe686HFaQiy"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        },
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        }
+      ],
+      "duration_ms": 213442,
+      "name": "Sentimental - Sombras",
+      "url": "https://open.spotify.com/track/5rl7bbc4BX52AqIhKI2PK1"
+    },
+    {
+      "added_at": "2025-05-30 09:57:19",
+      "album": {
         "name": "Masterclass",
         "url": "https://open.spotify.com/album/0EnaDpMlUTsWUVRPhwxPCD"
       },
@@ -263,6 +283,26 @@
       "duration_ms": 212000,
       "name": "Masterclass",
       "url": "https://open.spotify.com/track/043vqBDn7RzuxJ1FF35Qht"
+    },
+    {
+      "added_at": "2025-05-30 09:57:19",
+      "album": {
+        "name": "Love\u2019s A Game",
+        "url": "https://open.spotify.com/album/0OuwtqtwwnHQRwwwJ2Kdcd"
+      },
+      "artists": [
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        },
+        {
+          "name": "Bipolar Sunshine",
+          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
+        }
+      ],
+      "duration_ms": 206585,
+      "name": "Love\u2019s A Game",
+      "url": "https://open.spotify.com/track/0ytQmrJaRbb6Ogw1C55sV5"
     },
     {
       "added_at": "2025-05-30 09:57:19",
@@ -287,26 +327,6 @@
       "duration_ms": 162100,
       "name": "No Bad Vibes (with Jayda G)",
       "url": "https://open.spotify.com/track/4DK8lTWgFCZRcErLgHQXWl"
-    },
-    {
-      "added_at": "2025-05-30 09:57:19",
-      "album": {
-        "name": "Sentimental (Sombras)",
-        "url": "https://open.spotify.com/album/3PuKobf2zMiYe686HFaQiy"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        },
-        {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
-        }
-      ],
-      "duration_ms": 213442,
-      "name": "Sentimental - Sombras",
-      "url": "https://open.spotify.com/track/5rl7bbc4BX52AqIhKI2PK1"
     },
     {
       "added_at": "2025-05-30 09:57:19",
@@ -347,26 +367,6 @@
       "duration_ms": 258515,
       "name": "Hold Me",
       "url": "https://open.spotify.com/track/2zVvXkIvGus2Q1jjNGR0T2"
-    },
-    {
-      "added_at": "2025-05-30 09:57:19",
-      "album": {
-        "name": "Love\u2019s A Game",
-        "url": "https://open.spotify.com/album/0OuwtqtwwnHQRwwwJ2Kdcd"
-      },
-      "artists": [
-        {
-          "name": "Adriatique",
-          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
-        },
-        {
-          "name": "Bipolar Sunshine",
-          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
-        }
-      ],
-      "duration_ms": 206585,
-      "name": "Love\u2019s A Game",
-      "url": "https://open.spotify.com/track/0ytQmrJaRbb6Ogw1C55sV5"
     },
     {
       "added_at": "2025-05-30 09:57:19",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2025-05-30 09:57:19",
       "album": {
-        "name": "Take My Soul",
-        "url": "https://open.spotify.com/album/4ipFhUfKtqjGtioSnXAjaT"
-      },
-      "artists": [
-        {
-          "name": "Monkey Safari",
-          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
-        }
-      ],
-      "duration_ms": 406000,
-      "name": "Take My Soul",
-      "url": "https://open.spotify.com/track/6phgQswSRcZUp5vTOSGzqv"
-    },
-    {
-      "added_at": "2025-05-30 09:57:19",
-      "album": {
         "name": "Ma Gally",
         "url": "https://open.spotify.com/album/1komNaPBI0xb2FNDYRy6BC"
       },
@@ -1167,6 +1151,38 @@
       "duration_ms": 433330,
       "name": "Ya Nahar Ya Gamel",
       "url": "https://open.spotify.com/track/4SKb9f6WJrAWaIzabSdUqy"
+    },
+    {
+      "added_at": "2025-05-30 09:57:19",
+      "album": {
+        "name": "Take My Soul",
+        "url": "https://open.spotify.com/album/4ipFhUfKtqjGtioSnXAjaT"
+      },
+      "artists": [
+        {
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+        }
+      ],
+      "duration_ms": 406000,
+      "name": "Take My Soul",
+      "url": "https://open.spotify.com/track/6phgQswSRcZUp5vTOSGzqv"
+    },
+    {
+      "added_at": "2025-05-30 09:57:19",
+      "album": {
+        "name": "Magic Workout",
+        "url": "https://open.spotify.com/album/3Pxw0B2kNOVpHs4A0xaIY7"
+      },
+      "artists": [
+        {
+          "name": "islandman",
+          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
+        }
+      ],
+      "duration_ms": 335877,
+      "name": "Magic Workout",
+      "url": "https://open.spotify.com/track/0TnHMErhQe43aDAVWEuS71"
     },
     {
       "added_at": "2025-05-30 09:57:19",
@@ -1203,22 +1219,6 @@
       "duration_ms": 416014,
       "name": "Voyager",
       "url": "https://open.spotify.com/track/0OVVi02RRqLJY7ycxJRKa8"
-    },
-    {
-      "added_at": "2025-05-30 09:57:19",
-      "album": {
-        "name": "Magic Workout",
-        "url": "https://open.spotify.com/album/3Pxw0B2kNOVpHs4A0xaIY7"
-      },
-      "artists": [
-        {
-          "name": "islandman",
-          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
-        }
-      ],
-      "duration_ms": 335877,
-      "name": "Magic Workout",
-      "url": "https://open.spotify.com/track/0TnHMErhQe43aDAVWEuS71"
     },
     {
       "added_at": "2025-05-30 09:57:19",
@@ -1267,26 +1267,6 @@
     {
       "added_at": "2025-05-30 09:57:19",
       "album": {
-        "name": "Alegria",
-        "url": "https://open.spotify.com/album/2GYVyRdzg3rddBm88AEUsE"
-      },
-      "artists": [
-        {
-          "name": "THEMBA",
-          "url": "https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC"
-        },
-        {
-          "name": "DJ Kent",
-          "url": "https://open.spotify.com/artist/7eNwLlauwL6tZwbFzJHWAN"
-        }
-      ],
-      "duration_ms": 224467,
-      "name": "Alegria",
-      "url": "https://open.spotify.com/track/3SrFmPoczDXSzrUTeCWZYD"
-    },
-    {
-      "added_at": "2025-05-30 09:57:19",
-      "album": {
         "name": "Bem a Tempo (Yemanjo Remix)",
         "url": "https://open.spotify.com/album/4hAhIqwRzsd1KLMcHYOlN2"
       },
@@ -1331,18 +1311,22 @@
     {
       "added_at": "2025-05-30 09:57:19",
       "album": {
-        "name": "Solstice Vibes III",
-        "url": "https://open.spotify.com/album/7CUKEZ8e3CrjmuhAPDrBCF"
+        "name": "Alegria",
+        "url": "https://open.spotify.com/album/2GYVyRdzg3rddBm88AEUsE"
       },
       "artists": [
         {
-          "name": "Agawe",
-          "url": "https://open.spotify.com/artist/0JDQtfHCZKUpi3CJRkX2cn"
+          "name": "THEMBA",
+          "url": "https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC"
+        },
+        {
+          "name": "DJ Kent",
+          "url": "https://open.spotify.com/artist/7eNwLlauwL6tZwbFzJHWAN"
         }
       ],
-      "duration_ms": 403831,
-      "name": "Flowers in Mind",
-      "url": "https://open.spotify.com/track/5h88XmzAYzb6Quy9C9VRsz"
+      "duration_ms": 224467,
+      "name": "Alegria",
+      "url": "https://open.spotify.com/track/3SrFmPoczDXSzrUTeCWZYD"
     },
     {
       "added_at": "2025-05-30 09:57:19",
@@ -1383,6 +1367,22 @@
     {
       "added_at": "2025-05-30 09:57:19",
       "album": {
+        "name": "Solstice Vibes III",
+        "url": "https://open.spotify.com/album/7CUKEZ8e3CrjmuhAPDrBCF"
+      },
+      "artists": [
+        {
+          "name": "Agawe",
+          "url": "https://open.spotify.com/artist/0JDQtfHCZKUpi3CJRkX2cn"
+        }
+      ],
+      "duration_ms": 403831,
+      "name": "Flowers in Mind",
+      "url": "https://open.spotify.com/track/5h88XmzAYzb6Quy9C9VRsz"
+    },
+    {
+      "added_at": "2025-05-30 09:57:19",
+      "album": {
         "name": "Perreo (Edit)",
         "url": "https://open.spotify.com/album/6vflECfIgd02x0qNbHpCFi"
       },
@@ -1407,18 +1407,18 @@
     {
       "added_at": "2025-05-30 09:57:19",
       "album": {
-        "name": "Siren",
-        "url": "https://open.spotify.com/album/6cNPWbCd1pyK7jAgZYa3VF"
+        "name": "Love And Hate",
+        "url": "https://open.spotify.com/album/1NEZ9FtarC6DX5hbnC7H1c"
       },
       "artists": [
         {
-          "name": "KARABA",
-          "url": "https://open.spotify.com/artist/1Pc6cL3vajo5Vx0XhguGWy"
+          "name": "Bedouin",
+          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
         }
       ],
-      "duration_ms": 280162,
-      "name": "Siren",
-      "url": "https://open.spotify.com/track/2fU6FZYhp33uEIc8HLYUdv"
+      "duration_ms": 267004,
+      "name": "Love And Hate",
+      "url": "https://open.spotify.com/track/5Vt5PmlQvb0U9HbEX0qYRi"
     },
     {
       "added_at": "2025-05-30 09:57:19",
@@ -1443,18 +1443,18 @@
     {
       "added_at": "2025-05-30 09:57:19",
       "album": {
-        "name": "Love And Hate",
-        "url": "https://open.spotify.com/album/1NEZ9FtarC6DX5hbnC7H1c"
+        "name": "Siren",
+        "url": "https://open.spotify.com/album/6cNPWbCd1pyK7jAgZYa3VF"
       },
       "artists": [
         {
-          "name": "Bedouin",
-          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
+          "name": "KARABA",
+          "url": "https://open.spotify.com/artist/1Pc6cL3vajo5Vx0XhguGWy"
         }
       ],
-      "duration_ms": 267004,
-      "name": "Love And Hate",
-      "url": "https://open.spotify.com/track/5Vt5PmlQvb0U9HbEX0qYRi"
+      "duration_ms": 280162,
+      "name": "Siren",
+      "url": "https://open.spotify.com/track/2fU6FZYhp33uEIc8HLYUdv"
     },
     {
       "added_at": "2025-05-30 09:57:19",

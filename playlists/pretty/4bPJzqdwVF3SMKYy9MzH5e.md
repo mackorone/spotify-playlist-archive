@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,141 songs - 4 day 18 hr 46 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,142 songs - 4 day 18 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1419,7 +1419,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 1409 | [Picture This](https://open.spotify.com/track/0f2uHiRUJoiUIPVzcpPosh) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [Bonito Generation](https://open.spotify.com/album/0dAMC0nNikIjhD8LeRZfhH) | 3:24 |
 | 1410 | [Hey Parents](https://open.spotify.com/track/7BXhoa9BEQ5u4Qu6PMu5rl) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [Bonito Generation](https://open.spotify.com/album/0dAMC0nNikIjhD8LeRZfhH) | 3:22 |
 | 1411 | [Graduation](https://open.spotify.com/track/2oNLDoWxa2UniEXpF69oUJ) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [Bonito Generation](https://open.spotify.com/album/0dAMC0nNikIjhD8LeRZfhH) | 3:19 |
-| 1412 | [Love Taste](https://open.spotify.com/track/0XVoD3TmJVEYdRzZoe0Ewy) | [Moe Shop](https://open.spotify.com/artist/7cvljqLNhWNFMb8wP2NImJ), [Jamie Paige](https://open.spotify.com/artist/790JtoMXsEVQqzkerV3xuf), [Shiki\-TMNS](https://open.spotify.com/artist/433MAtNbNMBD9ErZQBBnXb) | [Love Taste](https://open.spotify.com/album/0r9YlVLiJf93hXHxCiJKCt) | 2:56 |
+| 1412 | [Love Taste](https://open.spotify.com/track/0XVoD3TmJVEYdRzZoe0Ewy) | [Moe Shop](https://open.spotify.com/artist/7cvljqLNhWNFMb8wP2NImJ) | [Love Taste](https://open.spotify.com/album/0r9YlVLiJf93hXHxCiJKCt) | 2:56 |
 | 1413 | [Californication](https://open.spotify.com/track/48UPSzbZjgc449aqz8bxox) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Californication \(Deluxe Edition\)](https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi) | 5:29 |
 | 1414 | [Post Rave Maximalist](https://open.spotify.com/track/39yRcZYyAxUsb4S7kQBpJB) | [Machine Girl](https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0) | [Wlfgrl](https://open.spotify.com/album/1xbcqJ0EAMxyGyffMzO8rL) | 2:28 |
 | 1415 | [うずまき](https://open.spotify.com/track/6pD8zEYJc0096VvUQAcEO0) | [Machine Girl](https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0) | […Because I’m Young Arrogant and Hate Everything You Stand For](https://open.spotify.com/album/2e5IzvDrIc8656bHTx3fE5) | 3:52 |
@@ -2149,5 +2149,6 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2139 | [Hombres y Mujeres](https://open.spotify.com/track/6RcGfVTAMeUONOC39N50xi) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [DIAMANTE](https://open.spotify.com/album/6KoGMkF6Fp3W9C339E5eVx) | 2:28 |
 | 2140 | [Globo \(feat\. Blessd & Kofla\)](https://open.spotify.com/track/3QyQNNpJg7spXyMzobBoX3) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Kofla](https://open.spotify.com/artist/3uvuXrgd8H5Gwnubvtm0sk) | [Globo \(feat\. Blessd & Kofla\)](https://open.spotify.com/album/1kUmugvmPWIY6ZEODVrMSx) | 3:13 |
 | 2141 | [Manijas](https://open.spotify.com/track/6bMFQO0shjWyrAVe1I2Nsw) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc) | [NO HAY VERANO SIN GORDO](https://open.spotify.com/album/0SXbX6oObgnZs6JquWEz0P) | 3:25 |
+| 2142 | [Club Bizarre](https://open.spotify.com/track/4fHug3zCanK33sdvticISi) | [U96](https://open.spotify.com/artist/0RhnKJThw36HFitqY6dYgd) | [Club Bizarre](https://open.spotify.com/album/49CWPw9MGkEvc78gTjLnEe) | 5:00 |
 
-Snapshot ID: `AAAEO62S1D3r7ikbkSoxl/f8LfIWIYWN`
+Snapshot ID: `AAAEPMsz0mjmMp0NTqP7O0QLn7KfxqAs`

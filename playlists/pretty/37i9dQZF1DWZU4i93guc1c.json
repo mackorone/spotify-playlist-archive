@@ -1,6 +1,6 @@
 {
   "description": "\u0410\u043a\u0442\u0443\u0430\u043b\u044c\u043d\u0456 \u0445\u0456\u0442\u0438 \u0442\u0430 \u043f\u0440\u043e\u0440\u0438\u0432\u043d\u0456 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u043d\u0435\u0437\u0430\u043b\u0435\u0436\u043d\u043e\u0457 \u043c\u0456\u0441\u0446\u0435\u0432\u043e\u0457 \u043c\u0443\u0437\u0438\u043a\u0438. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: \u041a\u0440\u0438\u0445\u0456\u0442\u043a\u0430, Qarpa, \u042e\u043b\u0456\u044f \u041b\u043e\u0440\u0434",
-  "num_followers": 38607,
+  "num_followers": 38605,
   "original_name": "\u0456\u043d\u0434\u0456",
   "owner": {
     "name": "Spotify",
@@ -383,26 +383,6 @@
     {
       "added_at": "2025-05-30 14:48:39",
       "album": {
-        "name": "\u043a\u0438\u0457\u0432-\u043d\u044c\u044e-\u0439\u043e\u0440\u043a",
-        "url": "https://open.spotify.com/album/1pEJUVKehVzrUPZSUFZK6F"
-      },
-      "artists": [
-        {
-          "name": "Liza Bibikova",
-          "url": "https://open.spotify.com/artist/5QCvdC4Oxl2Uzzcehr1Knz"
-        },
-        {
-          "name": "BAH.ROMA",
-          "url": "https://open.spotify.com/artist/1xhTkIWAZxPeZpJWbjClqL"
-        }
-      ],
-      "duration_ms": 194594,
-      "name": "\u043a\u0438\u0457\u0432-\u043d\u044c\u044e-\u0439\u043e\u0440\u043a",
-      "url": "https://open.spotify.com/track/1AVRmL5zK400J56dNJj0i1"
-    },
-    {
-      "added_at": "2025-05-30 14:48:39",
-      "album": {
         "name": "\u0427\u0423\u0416\u0406\u042e \u042f",
         "url": "https://open.spotify.com/album/6BYXvDUKBwdObrJdvNWYr7"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 203538,
       "name": "\u0427\u0423\u0416\u0406\u042e \u042f",
       "url": "https://open.spotify.com/track/3Pc3jFRVSUvMKLsna4KNe1"
+    },
+    {
+      "added_at": "2025-05-30 14:48:39",
+      "album": {
+        "name": "\u043a\u0438\u0457\u0432-\u043d\u044c\u044e-\u0439\u043e\u0440\u043a",
+        "url": "https://open.spotify.com/album/1pEJUVKehVzrUPZSUFZK6F"
+      },
+      "artists": [
+        {
+          "name": "Liza Bibikova",
+          "url": "https://open.spotify.com/artist/5QCvdC4Oxl2Uzzcehr1Knz"
+        },
+        {
+          "name": "BAH.ROMA",
+          "url": "https://open.spotify.com/artist/1xhTkIWAZxPeZpJWbjClqL"
+        }
+      ],
+      "duration_ms": 194594,
+      "name": "\u043a\u0438\u0457\u0432-\u043d\u044c\u044e-\u0439\u043e\u0440\u043a",
+      "url": "https://open.spotify.com/track/1AVRmL5zK400J56dNJj0i1"
     },
     {
       "added_at": "2025-05-30 14:48:39",
@@ -651,22 +651,6 @@
     {
       "added_at": "2025-05-30 14:48:39",
       "album": {
-        "name": "\u0411\u0430\u043b\u043a\u043e\u043d",
-        "url": "https://open.spotify.com/album/1B5vHqGUt39Kkb5dKt2T2s"
-      },
-      "artists": [
-        {
-          "name": "Shmiska",
-          "url": "https://open.spotify.com/artist/0896FugzPOpBDwYEfhMAVY"
-        }
-      ],
-      "duration_ms": 159692,
-      "name": "\u0411\u0430\u043b\u043a\u043e\u043d",
-      "url": "https://open.spotify.com/track/7tZhv0C5uC5lH7fhheFuRH"
-    },
-    {
-      "added_at": "2025-05-30 14:48:39",
-      "album": {
         "name": "\u043f\u02bc\u044f\u0442\u043d\u0438\u0446\u044f",
         "url": "https://open.spotify.com/album/2gwjNgM5G4iGDtZoHgwN6F"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 180750,
       "name": "\u043e\u0431\u0435\u0440\u0435\u0436\u043d\u043e! \u0440\u043e\u0437\u0431\u0438\u0442\u0435!",
       "url": "https://open.spotify.com/track/23os5lle4XZzaOQmMTKaPM"
+    },
+    {
+      "added_at": "2025-05-30 14:48:39",
+      "album": {
+        "name": "\u0411\u0430\u043b\u043a\u043e\u043d",
+        "url": "https://open.spotify.com/album/1B5vHqGUt39Kkb5dKt2T2s"
+      },
+      "artists": [
+        {
+          "name": "Shmiska",
+          "url": "https://open.spotify.com/artist/0896FugzPOpBDwYEfhMAVY"
+        }
+      ],
+      "duration_ms": 159692,
+      "name": "\u0411\u0430\u043b\u043a\u043e\u043d",
+      "url": "https://open.spotify.com/track/7tZhv0C5uC5lH7fhheFuRH"
     },
     {
       "added_at": "2025-05-30 14:48:39",
@@ -959,22 +959,6 @@
     {
       "added_at": "2025-05-30 14:48:39",
       "album": {
-        "name": "One More Time",
-        "url": "https://open.spotify.com/album/3wD4nqS8OS7VoRdzOLJjrY"
-      },
-      "artists": [
-        {
-          "name": "ESELISHA",
-          "url": "https://open.spotify.com/artist/5bNRVyulb3jLRbGj5zfRHE"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "One More Time",
-      "url": "https://open.spotify.com/track/0ZQDSff4T0oo9Ul8qgYDnu"
-    },
-    {
-      "added_at": "2025-05-30 14:48:39",
-      "album": {
         "name": "\u0421\u043e\u043d\u044f",
         "url": "https://open.spotify.com/album/7CpkR3HYyFu49gGUaSkdyd"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 250956,
       "name": "\u0421\u043e\u043d\u044f",
       "url": "https://open.spotify.com/track/5cNeKQ02zQ3H4lrtHKohXh"
+    },
+    {
+      "added_at": "2025-05-30 14:48:39",
+      "album": {
+        "name": "One More Time",
+        "url": "https://open.spotify.com/album/3wD4nqS8OS7VoRdzOLJjrY"
+      },
+      "artists": [
+        {
+          "name": "ESELISHA",
+          "url": "https://open.spotify.com/artist/5bNRVyulb3jLRbGj5zfRHE"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "One More Time",
+      "url": "https://open.spotify.com/track/0ZQDSff4T0oo9Ul8qgYDnu"
     },
     {
       "added_at": "2025-05-30 14:48:39",
@@ -1023,18 +1023,22 @@
     {
       "added_at": "2025-05-30 14:48:39",
       "album": {
-        "name": "\u043a\u0440\u0438\u0433\u0430",
-        "url": "https://open.spotify.com/album/3xrdwbsn8sCNSLUZRkifnG"
+        "name": "\u0422\u0456\u043b\u044c\u043a\u0438 \u0432 \u041a\u0438\u0454\u0432\u0456",
+        "url": "https://open.spotify.com/album/0HYJSAOFcv7yQuIrvYxCyU"
       },
       "artists": [
         {
-          "name": "\u041d\u0430\u0441\u0442\u044f \u0413\u043e\u043d\u0446\u0443\u043b",
-          "url": "https://open.spotify.com/artist/3HFo8jLzABeRjbns3XAUFt"
+          "name": "Cepasa",
+          "url": "https://open.spotify.com/artist/5fJEnhCIEvK6eevDCVJ1k1"
+        },
+        {
+          "name": "Artem Borodatiuk",
+          "url": "https://open.spotify.com/artist/2y8mm7IQmQtr5ZpyY39fdK"
         }
       ],
-      "duration_ms": 204375,
-      "name": "\u043a\u0440\u0438\u0433\u0430",
-      "url": "https://open.spotify.com/track/5SfbIKHUMO1f1lTOTHyaN9"
+      "duration_ms": 199556,
+      "name": "\u0422\u0456\u043b\u044c\u043a\u0438 \u0432 \u041a\u0438\u0454\u0432\u0456",
+      "url": "https://open.spotify.com/track/3iyAfCTVpbomAFbZxretpr"
     },
     {
       "added_at": "2025-05-30 14:48:39",
@@ -1055,6 +1059,22 @@
     {
       "added_at": "2025-05-30 14:48:39",
       "album": {
+        "name": "\u043a\u0440\u0438\u0433\u0430",
+        "url": "https://open.spotify.com/album/3xrdwbsn8sCNSLUZRkifnG"
+      },
+      "artists": [
+        {
+          "name": "\u041d\u0430\u0441\u0442\u044f \u0413\u043e\u043d\u0446\u0443\u043b",
+          "url": "https://open.spotify.com/artist/3HFo8jLzABeRjbns3XAUFt"
+        }
+      ],
+      "duration_ms": 204375,
+      "name": "\u043a\u0440\u0438\u0433\u0430",
+      "url": "https://open.spotify.com/track/5SfbIKHUMO1f1lTOTHyaN9"
+    },
+    {
+      "added_at": "2025-05-30 14:48:39",
+      "album": {
         "name": "\u043c\u0443\u043d\u043b\u0430\u0439\u0442",
         "url": "https://open.spotify.com/album/2lvPf1aFDEDtPfX6zVStK5"
       },
@@ -1067,22 +1087,6 @@
       "duration_ms": 126857,
       "name": "\u043c\u0443\u043d\u043b\u0430\u0439\u0442",
       "url": "https://open.spotify.com/track/00TKkaqkpJgRUlZBkzBBQd"
-    },
-    {
-      "added_at": "2025-05-30 14:48:39",
-      "album": {
-        "name": "\u0420\u0443\u043a\u043e\u043a\u0440\u0438\u043b\u0430",
-        "url": "https://open.spotify.com/album/1riuflPrPnY1MyPyxEeifl"
-      },
-      "artists": [
-        {
-          "name": "\u041a\u0430\u0436\u0430\u043d\u043d\u0430",
-          "url": "https://open.spotify.com/artist/3OTyLjDNzzo72TGG8GwiDk"
-        }
-      ],
-      "duration_ms": 156888,
-      "name": "\u042f\u0431\u043b\u0443\u0447\u043a\u043e",
-      "url": "https://open.spotify.com/track/5i4GcoXoi0brjJRqfenfC5"
     },
     {
       "added_at": "2025-05-30 14:48:39",
@@ -1103,6 +1107,22 @@
     {
       "added_at": "2025-05-30 14:48:39",
       "album": {
+        "name": "\u0420\u0443\u043a\u043e\u043a\u0440\u0438\u043b\u0430",
+        "url": "https://open.spotify.com/album/1riuflPrPnY1MyPyxEeifl"
+      },
+      "artists": [
+        {
+          "name": "\u041a\u0430\u0436\u0430\u043d\u043d\u0430",
+          "url": "https://open.spotify.com/artist/3OTyLjDNzzo72TGG8GwiDk"
+        }
+      ],
+      "duration_ms": 156888,
+      "name": "\u042f\u0431\u043b\u0443\u0447\u043a\u043e",
+      "url": "https://open.spotify.com/track/5i4GcoXoi0brjJRqfenfC5"
+    },
+    {
+      "added_at": "2025-05-30 14:48:39",
+      "album": {
         "name": "\u0424\u0430\u0442\u0430",
         "url": "https://open.spotify.com/album/3lxbhmhTvCy7FH2Vi6ia7L"
       },
@@ -1115,26 +1135,6 @@
       "duration_ms": 247702,
       "name": "\u041d\u0435\u0441\u0443\u043c\u043d\u0430\u044f",
       "url": "https://open.spotify.com/track/4n8Y2TOX0wRZdYzUY8nlqG"
-    },
-    {
-      "added_at": "2025-05-30 14:48:39",
-      "album": {
-        "name": "\u0422\u0456\u043b\u044c\u043a\u0438 \u0432 \u041a\u0438\u0454\u0432\u0456",
-        "url": "https://open.spotify.com/album/0HYJSAOFcv7yQuIrvYxCyU"
-      },
-      "artists": [
-        {
-          "name": "Cepasa",
-          "url": "https://open.spotify.com/artist/5fJEnhCIEvK6eevDCVJ1k1"
-        },
-        {
-          "name": "Artem Borodatiuk",
-          "url": "https://open.spotify.com/artist/2y8mm7IQmQtr5ZpyY39fdK"
-        }
-      ],
-      "duration_ms": 199556,
-      "name": "\u0422\u0456\u043b\u044c\u043a\u0438 \u0432 \u041a\u0438\u0454\u0432\u0456",
-      "url": "https://open.spotify.com/track/3iyAfCTVpbomAFbZxretpr"
     },
     {
       "added_at": "2025-05-30 14:48:39",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2025-05-30 14:48:39",
       "album": {
-        "name": "\u041f\u0456\u0448\u0430\u043a",
-        "url": "https://open.spotify.com/album/48cFt2mOEUxbJBXhWeORqX"
-      },
-      "artists": [
-        {
-          "name": "Intermezzo",
-          "url": "https://open.spotify.com/artist/6BSuzS2Q1E75dXsghaVNHf"
-        }
-      ],
-      "duration_ms": 139200,
-      "name": "\u041f\u0456\u0448\u0430\u043a",
-      "url": "https://open.spotify.com/track/5i4J0Wx6lMDp0zLy0OU4Aw"
-    },
-    {
-      "added_at": "2025-05-30 14:48:39",
-      "album": {
         "name": "\u0413\u043e\u043b\u043e\u0441\u043e\u0432\u0456",
         "url": "https://open.spotify.com/album/3XOQ6ceTCx4rUjM2hskKGv"
       },
@@ -1343,6 +1327,22 @@
     {
       "added_at": "2025-05-30 14:48:39",
       "album": {
+        "name": "\u041f\u0456\u0448\u0430\u043a",
+        "url": "https://open.spotify.com/album/48cFt2mOEUxbJBXhWeORqX"
+      },
+      "artists": [
+        {
+          "name": "Intermezzo",
+          "url": "https://open.spotify.com/artist/6BSuzS2Q1E75dXsghaVNHf"
+        }
+      ],
+      "duration_ms": 139200,
+      "name": "\u041f\u0456\u0448\u0430\u043a",
+      "url": "https://open.spotify.com/track/5i4J0Wx6lMDp0zLy0OU4Aw"
+    },
+    {
+      "added_at": "2025-05-30 14:48:39",
+      "album": {
         "name": "\u0421\u0443\u0442\u0456\u043d\u043a\u0438",
         "url": "https://open.spotify.com/album/69pKv2BekWnZCLMIRZAGcH"
       },
@@ -1359,26 +1359,18 @@
     {
       "added_at": "2025-05-30 14:48:39",
       "album": {
-        "name": "\u041c\u0456\u0441\u0442\u043e",
-        "url": "https://open.spotify.com/album/2RlktSZOBN3sKgvCRV1Pw4"
+        "name": "\u044f \u0454 \u0440\u0430\u043d\u0430 / \u044f \u0454 \u043d\u0456\u0436",
+        "url": "https://open.spotify.com/album/1Xu46wHIEnQ86soI44DtmG"
       },
       "artists": [
         {
-          "name": "\u041e\u043a\u043e\u043b\u0438\u0446\u044f",
-          "url": "https://open.spotify.com/artist/5aT55rNZ3OB3zuQ8i2XKX0"
-        },
-        {
-          "name": "\u0421rybye",
-          "url": "https://open.spotify.com/artist/1YG5fefxqEOuV3vICFgzXt"
-        },
-        {
-          "name": "\u043d\u0430 \u0457\u0457 \u043e\u0441\u043d\u043e\u0432\u0456",
-          "url": "https://open.spotify.com/artist/41McSRHiLhBgkLHPJorSLy"
+          "name": "The Soul Delusion",
+          "url": "https://open.spotify.com/artist/4Zayd3BUGqyOQIhEZXbuUi"
         }
       ],
-      "duration_ms": 126136,
-      "name": "\u041c\u0456\u0441\u0442\u043e",
-      "url": "https://open.spotify.com/track/0qpuExro0xkaUNP2O2M4dv"
+      "duration_ms": 185437,
+      "name": "\u044f \u0454 \u0440\u0430\u043d\u0430 / \u044f \u0454 \u043d\u0456\u0436",
+      "url": "https://open.spotify.com/track/0RlHrI103DK2g6oI7YzE5O"
     }
   ],
   "unique_name": "\u0456\u043d\u0434\u0456",

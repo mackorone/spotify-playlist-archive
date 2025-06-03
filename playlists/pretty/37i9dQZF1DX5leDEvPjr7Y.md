@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5leDEvPjr7Y.md) - [plain]
 
 > A playlist by <a href="spotify:artist:4e9vQfyvvDlcQAkjSdFE4x">Maya Hawke</a> inspired by "Big Idea" from her new album <a href="spotify:album:5AyYM1rZBAiLO0EcgLEaJ2">Chaos Angel</a> \. Welcome to <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">mixtape</a>, a curator's playground.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,327 likes - 30 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,332 likes - 30 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5leDEvPjr7Y.md) - [plain]
 | 29 | [hangar](https://open.spotify.com/track/1nXiUKuAu4mHte6Gt2HRdJ) | [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [plague town](https://open.spotify.com/album/4vE4Kr73Pai0UGZ98J4tW6) | 2:45 |
 | 30 | [Song Beneath the Song](https://open.spotify.com/track/4LFiAJjGrIiePoXhtuzpVI) | [Maria Taylor](https://open.spotify.com/artist/6iKiDPed4LAQEcPZpvf00m) | [11:11](https://open.spotify.com/album/64Fhhh19SSsFbs8hATtPNS) | 3:59 |
 
-Snapshot ID: `AAAAADiF1WWn1Vr3nrTNW6hVb+4OkGfN`
+Snapshot ID: `Zn9AUwAAAABjat6DnLu0AisrJ8HQNGdq`

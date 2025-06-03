@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Miley Cyrus, Rose Villain e Tony Effe, Serena Brancale e Alessandra Amoroso, Alfa, Lorde e tanti altri!
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,184 likes - 95 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,202 likes - 95 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 68 | [Listen to me](https://open.spotify.com/track/6LLmloLPHUbx9LoqzooTUF) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [Listen to me](https://open.spotify.com/album/4Hza6L0yTT56WE9hAzLfXx) | 3:08 |
 | 69 | [Karma](https://open.spotify.com/track/25ZsA23GKv5Ca3j1o86jK6) | [Olivia Addams](https://open.spotify.com/artist/56o9EclNeDcE7p8txENfLn) | [Karma](https://open.spotify.com/album/2TrO5yFPGmv1C3QWJcgnkE) | 2:11 |
 | 70 | [Lucky](https://open.spotify.com/track/2Qzvu6KH3kzdvagAG3lzDg) | [Francis On My Mind](https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc) | [Lucky](https://open.spotify.com/album/3dM2QCvKEt1HiHY2vUBqSC) | 2:29 |
-| 71 | [Bella Vita](https://open.spotify.com/track/2rtY25y4dpI58ZZnD5RFhS) | [Thys](https://open.spotify.com/artist/6x8tZ30aFwdl50YjETAppR), [Simon Says!](https://open.spotify.com/artist/186v5tVeJT1K15be0J5vKe), [Elasi](https://open.spotify.com/artist/2IH3lriPtap4OENe2LXVgW) | [Bella Vita](https://open.spotify.com/album/77cc5OsaMAz80k0ySozcv5) | 4:00 |
+| 71 | [Bella Vita](https://open.spotify.com/track/2rtY25y4dpI58ZZnD5RFhS) | [Thys](https://open.spotify.com/artist/6x8tZ30aFwdl50YjETAppR), [Simon Says!](https://open.spotify.com/artist/186v5tVeJT1K15be0J5vKe), [ELASI](https://open.spotify.com/artist/3C8AlXFIhzxJ4BCKxNQJJ6) | [Bella Vita](https://open.spotify.com/album/77cc5OsaMAz80k0ySozcv5) | 4:00 |
 | 72 | [TANK IT](https://open.spotify.com/track/4ubO4kObhIGP6kHN1QPE3r) | [Sentimento](https://open.spotify.com/artist/3jCZxcHy73RLlHU5WWZDqa) | [TANK IT](https://open.spotify.com/album/081KqR46idkIxhnf5TgQLD) | 2:37 |
 | 73 | [ragazzi della pioggia](https://open.spotify.com/track/2uprWB7GF1T7p4TaycDXqT) | [Alek](https://open.spotify.com/artist/6JWeknFiJE42BXED1AGOvY) | [ragazzi della pioggia](https://open.spotify.com/album/17Bx2ewtOb0eSWH0AfFOuP) | 2:35 |
 | 74 | [Ragazzo della Strada](https://open.spotify.com/track/7H4vsL5F8Mm9farf0eoI1M) | [CIL](https://open.spotify.com/artist/6mt0m8Ugh2vjYBbMJEo5PJ) | [Ragazzo della Strada](https://open.spotify.com/album/6dYPYBzXNlTWGjS0H8a25B) | 2:28 |

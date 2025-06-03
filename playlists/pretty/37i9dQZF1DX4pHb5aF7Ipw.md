@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by  Krish Rao, Mankirat Kang, Emiway Bantai and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,273 likes - 75 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,283 likes - 75 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 74 | [West Side Story](https://open.spotify.com/track/427pUS3t1kn404S79KWaiN) | [Iqbal](https://open.spotify.com/artist/6RWbIF7ghLlX3R3J32QRTp) | [Not Dead Yet](https://open.spotify.com/album/7oWC5Z4SOOpwTWp2A5p5Lv) | 3:36 |
 | 75 | [Gori Police \(Laal Rang Dian Akhan\) \- From "Kanneda"](https://open.spotify.com/track/1kzxAS1IfMKmC1HHYjBrUs) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE) | [Kanneda \(Original Series Soundtrack\)](https://open.spotify.com/album/2HF4aHW9ZSlzbLhidUnDLJ) | 2:12 |
 
-Snapshot ID: `AAAAAD0YPkV+tm90BmVGz47bQDiflUkC`
+Snapshot ID: `aDmP1AAAAAArpbphOqGDmFZu+TFOCaGe`

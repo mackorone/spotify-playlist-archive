@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,546,123 likes - 85 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,546,113 likes - 85 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 84 | [Curious about you](https://open.spotify.com/track/4NkwAY248EipSQ4SMp7nV6) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [Curious about you](https://open.spotify.com/album/3qXGpeLVb06vcBRaod0dXV) | 3:00 |
 | 85 | [capsule](https://open.spotify.com/track/5fzvL9CZiaMUzNcRSNsLEN) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [capsule](https://open.spotify.com/album/4WqcLhG9RRrwaXQFlwAFPw) | 4:54 |
 
-Snapshot ID: `AAAAAMa5G2b10h7DR6IaEsNAoMmYIXcX`
+Snapshot ID: `aDh2ewAAAAAiQm2aogrhYszw1fbOc2p1`

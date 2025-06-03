@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 
 > Bold and pioneering\. LGBTQIA+ artists and allies at the center of electronic music culture\. Cover: Frankie Grande
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,918 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,925 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 | 74 | [Pleasure](https://open.spotify.com/track/1kLDRsnkreQD4UTf8kHg51) | [Comanavago](https://open.spotify.com/artist/2UC2VMVP6wuURHTgns8OoP) | [Pleasure](https://open.spotify.com/album/4ubV3S1cCFNl1bD3V0wpkp) | 3:24 |
 | 75 | [thicc](https://open.spotify.com/track/7tNUNRjg5Q5JaGg5Q0zK0o) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Cosha](https://open.spotify.com/artist/5P8FHUS4EuE2FXskLnqkAg), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq) | [Club Shy \(extended\)](https://open.spotify.com/album/1ojjeSCH0gg7T5StxFJx7g) | 3:42 |
 
-Snapshot ID: `aDnmSwAAAAC/B5N2pLEkbhEK6ybUXlWa`
+Snapshot ID: `aDnmSwAAAAC179L8m1bhjVojDepmstJ9`

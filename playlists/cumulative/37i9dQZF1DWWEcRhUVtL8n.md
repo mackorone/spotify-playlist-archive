@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: girl in red
 
-2,126 songs - 4 day 16 hr 32 min
+2,127 songs - 4 day 16 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -504,6 +504,7 @@
 | [Devil Laugh](https://open.spotify.com/track/3EsEyGSbW9y53RmozHYysM) | [Mallory Merk](https://open.spotify.com/artist/5GHFapUxfP2H2xxuMytwaF) | [Counterparts](https://open.spotify.com/album/2qMPs3Ait3arKNnj3MSwxX) | 3:23 | 2021-08-13 | 2022-04-09 |
 | [Diamond Boy \(DTM\)](https://open.spotify.com/track/0SCIwbS0Q4etwJmDyNjHaQ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 3:37 | 2024-12-20 |  |
 | [Did I Make You Up?](https://open.spotify.com/track/4RE7fFJNIZiO9ngs883gFG) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Did I Make You Up?](https://open.spotify.com/album/5BFctZsAHYCWm2QOF3GRHc) | 2:29 | 2022-10-18 | 2023-04-01 |
+| [Did I Say Too Much](https://open.spotify.com/track/4f8dJP5n2xlwMYLWVuLsfS) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Did I Say Too Much](https://open.spotify.com/album/2xn4IEQqM44vDqisznRvZn) | 3:08 | 2025-05-30 |  |
 | [Did You Ever Care](https://open.spotify.com/track/246ulfN1L8Jdh93rbkxj0j) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Did You Ever Care / Dead End](https://open.spotify.com/album/5K6NNj0Fnh6ZSQXpwAiyor) | 2:05 | 2025-01-31 | 2025-03-01 |
 | [Didn't Make It](https://open.spotify.com/track/293vQBzppoLGqWgSwOzmxC) | [Charli Adams](https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2) | [Didn't Make It](https://open.spotify.com/album/4bswjAv070Cs95SI60avQV) | 3:51 | 2020-10-13\* | 2021-06-01 |
 | [DIE TRYING](https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 3:15 | 2025-02-14 |  |
@@ -813,7 +814,7 @@
 | [Heartbursts](https://open.spotify.com/track/5V4i2kBeZyum825gCiq1Qr) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Heartbursts](https://open.spotify.com/album/4OeOB6zCJam1BGBodrnmoj) | 3:55 | 2022-03-04 | 2022-07-27 |
 | [Heartquake](https://open.spotify.com/track/6vcC7pldyTPKjZJFvY3v7Q) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Heartquake](https://open.spotify.com/album/1Ug1cKJWf6t7qlKQEfKs4R) | 3:38 | 2023-06-30 | 2023-09-09 |
 | [Hearts in Halves](https://open.spotify.com/track/6OtIOeIZIfRWQ251IgzUFb) | [Cub Sport](https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt) | [Hearts in Halves](https://open.spotify.com/album/2Z3NZ83Q44ogEhdL2IBSPh) | 3:15 | 2020-10-20 | 2020-10-21 |
-| [Hearts Intuition](https://open.spotify.com/track/1envNC0ZHjXxqNUaMNSwsH) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [What Happened To The Heart? \(Deluxe\)](https://open.spotify.com/album/7GnH4NzxlsMd5EijCfUAkM) | 3:21 | 2025-05-02 |  |
+| [Hearts Intuition](https://open.spotify.com/track/1envNC0ZHjXxqNUaMNSwsH) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [What Happened To The Heart? \(Deluxe\)](https://open.spotify.com/album/7GnH4NzxlsMd5EijCfUAkM) | 3:21 | 2025-05-02 | 2025-06-03 |
 | [Heathens](https://open.spotify.com/track/6yTbMlD00yPN4fcCmUM1DB) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Heathens](https://open.spotify.com/album/727TuBQgwg62XhwClV7GtK) | 3:45 | 2021-12-03 | 2022-04-21 |
 | [Heather Grey](https://open.spotify.com/track/3NnOxkPPHIuM4jWPWyNz9O) | [Public Library Commute](https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY) | [Heather Grey](https://open.spotify.com/album/6OKDedyhI5AAFETKwyuS3Q) | 2:37 | 2022-06-01 | 2022-06-23 |
 | [Heaven Has To Happen](https://open.spotify.com/track/4yYLuj2ePdDTkCvmXB6E8y) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Heaven Has To Happen / The Opener](https://open.spotify.com/album/3F0abiQJAThM8Y6csoOMrC) | 3:29 | 2024-08-23 | 2024-09-21 |

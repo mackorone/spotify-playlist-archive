@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 
 > Evadez\-vous tout en douceur...
 
-[Spotify](https://open.spotify.com/user/spotify) - 619,873 likes - 60 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 619,921 likes - 60 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 | 59 | [Paper Aeroplane](https://open.spotify.com/track/6c9SmUfwftGeJco0vfcrO5) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B), [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Paper Aeroplane](https://open.spotify.com/album/3MxeJ3l9I7eEvjsIhbAuae) | 3:08 |
 | 60 | [Chasing The Sun](https://open.spotify.com/track/4IezR8hidwHgipPxpSpNZT) | [Braaten](https://open.spotify.com/artist/0odPXKGYqtTpiWJFBhqyVB), [Peachy Pete](https://open.spotify.com/artist/0bsZ7TPFHa56cscyXwqfER) | [Chasing The Sun](https://open.spotify.com/album/46wRcmlHlTQ7GbiRdq7ufV) | 2:26 |
 
-Snapshot ID: `aDjZCAAAAABi/yca2pSU7GM2QLc2JdEX`
+Snapshot ID: `AAAAANmGuSNJkClaozMo3N6HDvSECOhz`

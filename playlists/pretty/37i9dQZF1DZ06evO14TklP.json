@@ -1,12 +1,12 @@
 {
   "description": "This is Ebony. The essential tracks, all in one playlist.",
-  "num_followers": 13063,
+  "num_followers": 13078,
   "original_name": "This Is Ebony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDpGgAAAAADhV47k3J2bQcropZGOahlx",
+  "snapshot_id": "aDuYAAAAAACgcMt4guAFQMtehMIM0AvW",
   "tracks": [
     {
       "added_at": null,
@@ -144,9 +144,9 @@
           "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
         }
       ],
-      "duration_ms": 167625,
-      "name": "Extraordin\u00e1ria",
-      "url": "https://open.spotify.com/track/3WC5FPpPuiU8eauNnyY8dK"
+      "duration_ms": 162797,
+      "name": "Gin Com Suco De Laranja",
+      "url": "https://open.spotify.com/track/5SUAeZK4t0cgV4xf7ZK6QM"
     },
     {
       "added_at": null,
@@ -220,9 +220,9 @@
           "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
         }
       ],
-      "duration_ms": 162797,
-      "name": "Gin Com Suco De Laranja",
-      "url": "https://open.spotify.com/track/5SUAeZK4t0cgV4xf7ZK6QM"
+      "duration_ms": 167625,
+      "name": "Extraordin\u00e1ria",
+      "url": "https://open.spotify.com/track/3WC5FPpPuiU8eauNnyY8dK"
     },
     {
       "added_at": null,
@@ -563,6 +563,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Reuni\u00e3o Dos Cria",
+        "url": "https://open.spotify.com/album/2oqaYk1IfIY8HwOinCT2Pq"
+      },
+      "artists": [
+        {
+          "name": "A Banca Records",
+          "url": "https://open.spotify.com/artist/0Do6bAo2kcVLp7ekzypskJ"
+        },
+        {
+          "name": "Dfideliz",
+          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
+        },
+        {
+          "name": "Sidoka",
+          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        }
+      ],
+      "duration_ms": 228283,
+      "name": "Reuni\u00e3o Dos Cria",
+      "url": "https://open.spotify.com/track/08rJlLJtCWCENyxjkPM3Ns"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ELAS PINTAM",
         "url": "https://open.spotify.com/album/7ehwNnbvptTziab8QZkXV7"
       },
@@ -603,38 +635,6 @@
       "duration_ms": 147119,
       "name": "Pensamentos Intrusivos (Uma s\u00e9rie Netflix \"Nova Cena\")",
       "url": "https://open.spotify.com/track/3KkmOuhoMzJJxLWDwQFSH8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reuni\u00e3o Dos Cria",
-        "url": "https://open.spotify.com/album/2oqaYk1IfIY8HwOinCT2Pq"
-      },
-      "artists": [
-        {
-          "name": "A Banca Records",
-          "url": "https://open.spotify.com/artist/0Do6bAo2kcVLp7ekzypskJ"
-        },
-        {
-          "name": "Dfideliz",
-          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
-        },
-        {
-          "name": "Sidoka",
-          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
-        },
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        }
-      ],
-      "duration_ms": 228283,
-      "name": "Reuni\u00e3o Dos Cria",
-      "url": "https://open.spotify.com/track/08rJlLJtCWCENyxjkPM3Ns"
     },
     {
       "added_at": null,

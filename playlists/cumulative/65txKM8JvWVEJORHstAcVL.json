@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-03-06",
   "description": "La Llista amb els 45 \u00e8xits de Flaixbac. Actualitzada cada diumenge de 17 h a 21 h amb en Jordi Cuadras. Vota el pr\u00f2xim n\u00famero 1 de La Llista a la nostra web: https:&#x2F;&#x2F;flaixbac.cat&#x2F;la-llista",
-  "name": "LA LLISTA DE FLAIXBAC (25/5/2025)",
+  "name": "LA LLISTA DE FLAIXBAC (1/6/2025)",
   "tracks": [
     {
       "album": {
@@ -1045,6 +1045,28 @@
     },
     {
       "album": {
+        "name": "Estrella",
+        "url": "https://open.spotify.com/album/4h1gOcRIha3vpaX5oMo1td"
+      },
+      "artists": [
+        {
+          "name": "Alfred Garc\u00eda",
+          "url": "https://open.spotify.com/artist/0CQgFG7XHyXRpSi24kl0cx"
+        },
+        {
+          "name": "Alvaro Soler",
+          "url": "https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe"
+        }
+      ],
+      "date_added": "2025-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171160,
+      "name": "Estrella",
+      "url": "https://open.spotify.com/track/7C21gNXsV6dKk8fnCenDof"
+    },
+    {
+      "album": {
         "name": "Exotica",
         "url": "https://open.spotify.com/album/3Xa6Auj3cpJ6vAnch7vsCD"
       },
@@ -1188,7 +1210,7 @@
       ],
       "date_added": "2024-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 156923,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/3bg2qahpZmsg5wV2EMPXIk"
@@ -1308,7 +1330,7 @@
       ],
       "date_added": "2025-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 151450,
       "name": "HEM VINGUT A JUGAR",
       "url": "https://open.spotify.com/track/381uhXd2a52f6WiLtjiCZs"
@@ -2048,6 +2070,32 @@
       "duration_ms": 165676,
       "name": "Next Summer",
       "url": "https://open.spotify.com/track/6xZCDUaY4XzlhCSHKSW7rf"
+    },
+    {
+      "album": {
+        "name": "NO \u00c9S MIAMI",
+        "url": "https://open.spotify.com/album/3W20utgkDw9OwMqF8I8yf6"
+      },
+      "artists": [
+        {
+          "name": "Buhos",
+          "url": "https://open.spotify.com/artist/7BdgXLhynRQk78pKkhAsAR"
+        },
+        {
+          "name": "Els Catarres",
+          "url": "https://open.spotify.com/artist/0InCPtI0kadS7s3cZrcbbY"
+        },
+        {
+          "name": "Henry Mendez",
+          "url": "https://open.spotify.com/artist/4mnY9Vvz3GXQIyHljvWnY1"
+        }
+      ],
+      "date_added": "2025-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157213,
+      "name": "NO \u00c9S MIAMI",
+      "url": "https://open.spotify.com/track/6dEsxPaNst8eZHClWD6qu4"
     },
     {
       "album": {

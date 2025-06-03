@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > De nieuwste Nederlandse pop! Cover: Guus Meeuwis & MAKSIM
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,552 likes - 80 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,535 likes - 80 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,17 +14,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 4 | [Turbulentie](https://open.spotify.com/track/01IWBNOH5JcGbLbafHHJqr) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Turbulentie](https://open.spotify.com/album/7fcv7MQ7LmjTGgrcuhJ4Zh) | 3:01 |
 | 5 | [Batterij](https://open.spotify.com/track/2MoLobj6hxy9NdH59TImPL) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Batterij](https://open.spotify.com/album/3iUA629Sgwm5LKaBXfS3bw) | 2:28 |
 | 6 | [Een Nacht Als Deze](https://open.spotify.com/track/6NETlrbxNer7Yj9NXhgTiA) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Een Nacht Als Deze](https://open.spotify.com/album/5gYLd9YEiTZCDPR0lkiGt6) | 3:00 |
-| 7 | [Hartslag](https://open.spotify.com/track/2JH8u157TEJOojZ4GfRxUv) | [Mees](https://open.spotify.com/artist/69JBEM02xkpzdC6nuafOiI) | [Hartslag](https://open.spotify.com/album/0mpT1ek8Dt0m3w7oowVJpN) | 2:21 |
-| 8 | [De Lieve Jongen](https://open.spotify.com/track/4abBs6DIk89PJKl3wXOwum) | [Myrte Michels](https://open.spotify.com/artist/1toTl1rdtV8matFNkDsrWV) | [De Lieve Jongen](https://open.spotify.com/album/4ecm0EqGoKQsvdOMe2pwzN) | 3:00 |
-| 9 | [Met Of Zonder Jou](https://open.spotify.com/track/6EkLMgBYvDlRnj2UOtG622) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Met Of Zonder Jou](https://open.spotify.com/album/4CkPHyIcpSHZEDpGySN8WT) | 3:02 |
-| 10 | [NOG 1 KEER](https://open.spotify.com/track/1tSmrzHgtQf70rtrnmga65) | [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [NOG 1 KEER](https://open.spotify.com/album/6FP8fDIZKajzB2p5X0OPSY) | 2:29 |
-| 11 | [Echo](https://open.spotify.com/track/7uxIqlS7WnDOB7XtAH2X3i) | [Ruben Annink](https://open.spotify.com/artist/0qZWRrQj38rwkxeRQ3HowZ) | [Echo](https://open.spotify.com/album/2bW3wNkvjiuqBEPRMM3ZOh) | 3:04 |
-| 12 | [Miljonair](https://open.spotify.com/track/0SJvHaZlRRWFI4UKikZaZn) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Miljonair](https://open.spotify.com/album/2jqgoXgJJ1fVsDr1aaGFdE) | 2:55 |
-| 13 | [Summer Love](https://open.spotify.com/track/0YjXevB90M9K34TOx4q02S) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi), [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [Summer Love](https://open.spotify.com/album/4VDwEXL99iyW8h5irzXg8S) | 2:35 |
-| 14 | [Beneden](https://open.spotify.com/track/7ubZ97TycJ5fWKKgbFQlue) | [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [Beneden](https://open.spotify.com/album/5Krch4sKh7GtD6gXdz4edE) | 2:15 |
-| 15 | [Toxisch](https://open.spotify.com/track/3O4Uzb4REHZFaywzeWB65g) | [Maxime](https://open.spotify.com/artist/67ijcDBwFthXo6WRpEl6kR) | [Toxisch](https://open.spotify.com/album/38nHPtWUaI6m5E52I8CDFC) | 2:42 |
-| 16 | [Is Dit Het Begin](https://open.spotify.com/track/07lupz26MMAyPhUOqCMBvl) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F) | [Voor Altijd](https://open.spotify.com/album/5BBER32xJPBci9lHzOEPub) | 2:49 |
-| 17 | [Levensecht](https://open.spotify.com/track/6kcXHR2Uf0WFGkTY3xfqJw) | [Hansen Tomas](https://open.spotify.com/artist/6LpWW2eQCLzIIJEVys9Xg5) | [Levensecht](https://open.spotify.com/album/7zJD5mnLr5NQc9taRrFuDb) | 2:54 |
+| 7 | [Miljonair](https://open.spotify.com/track/0SJvHaZlRRWFI4UKikZaZn) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Miljonair](https://open.spotify.com/album/2jqgoXgJJ1fVsDr1aaGFdE) | 2:55 |
+| 8 | [Hartslag](https://open.spotify.com/track/2JH8u157TEJOojZ4GfRxUv) | [Mees](https://open.spotify.com/artist/69JBEM02xkpzdC6nuafOiI) | [Hartslag](https://open.spotify.com/album/0mpT1ek8Dt0m3w7oowVJpN) | 2:21 |
+| 9 | [Levensecht](https://open.spotify.com/track/6kcXHR2Uf0WFGkTY3xfqJw) | [Hansen Tomas](https://open.spotify.com/artist/6LpWW2eQCLzIIJEVys9Xg5) | [Levensecht](https://open.spotify.com/album/7zJD5mnLr5NQc9taRrFuDb) | 2:54 |
+| 10 | [De Lieve Jongen](https://open.spotify.com/track/4abBs6DIk89PJKl3wXOwum) | [Myrte Michels](https://open.spotify.com/artist/1toTl1rdtV8matFNkDsrWV) | [De Lieve Jongen](https://open.spotify.com/album/4ecm0EqGoKQsvdOMe2pwzN) | 3:00 |
+| 11 | [Met Of Zonder Jou](https://open.spotify.com/track/6EkLMgBYvDlRnj2UOtG622) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Met Of Zonder Jou](https://open.spotify.com/album/4CkPHyIcpSHZEDpGySN8WT) | 3:02 |
+| 12 | [NOG 1 KEER](https://open.spotify.com/track/1tSmrzHgtQf70rtrnmga65) | [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [NOG 1 KEER](https://open.spotify.com/album/6FP8fDIZKajzB2p5X0OPSY) | 2:29 |
+| 13 | [Echo](https://open.spotify.com/track/7uxIqlS7WnDOB7XtAH2X3i) | [Ruben Annink](https://open.spotify.com/artist/0qZWRrQj38rwkxeRQ3HowZ) | [Echo](https://open.spotify.com/album/2bW3wNkvjiuqBEPRMM3ZOh) | 3:04 |
+| 14 | [Summer Love](https://open.spotify.com/track/0YjXevB90M9K34TOx4q02S) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi), [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [Summer Love](https://open.spotify.com/album/4VDwEXL99iyW8h5irzXg8S) | 2:35 |
+| 15 | [Beneden](https://open.spotify.com/track/7ubZ97TycJ5fWKKgbFQlue) | [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [Beneden](https://open.spotify.com/album/5Krch4sKh7GtD6gXdz4edE) | 2:15 |
+| 16 | [Toxisch](https://open.spotify.com/track/3O4Uzb4REHZFaywzeWB65g) | [Maxime](https://open.spotify.com/artist/67ijcDBwFthXo6WRpEl6kR) | [Toxisch](https://open.spotify.com/album/38nHPtWUaI6m5E52I8CDFC) | 2:42 |
+| 17 | [Is Dit Het Begin](https://open.spotify.com/track/07lupz26MMAyPhUOqCMBvl) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F) | [Voor Altijd](https://open.spotify.com/album/5BBER32xJPBci9lHzOEPub) | 2:49 |
 | 18 | [Doen](https://open.spotify.com/track/6hKLaBGGh3Q4HohBByoQYC) | [Joël Domingos](https://open.spotify.com/artist/5LzkF8ZUuxdSg8BCEwrosb) | [Doen EP](https://open.spotify.com/album/5rrG9ajt9SFTR4s5Yihs1n) | 2:40 |
 | 19 | [Welkom Bij Mij](https://open.spotify.com/track/1hXUCUtghj8SY82qc2nWJO) | [Amina](https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc) | [Welkom Bij Mij](https://open.spotify.com/album/0G5ePOWQIL9b8hWuMpuoif) | 2:47 |
 | 20 | [Secret \(Geheim\)](https://open.spotify.com/track/59TKLZBHtgqBDCDpduFW2P) | [Lisa Rose](https://open.spotify.com/artist/6Yd501ivYxC2FYhPiiWr6F), [Toby De Leeuw](https://open.spotify.com/artist/3EJUpTAIxAA9tVmfCvpdFD) | [Secret \(Geheim\)](https://open.spotify.com/album/3u8GssKZ5oTJuLy5z6zJfi) | 2:43 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 79 | [1 Dans](https://open.spotify.com/track/2kO7seuAYgbVWVvVzLZSP3) | [Guusje](https://open.spotify.com/artist/3JrsxoRQjMCK7UjatNPTGx) | [Doodgewoon](https://open.spotify.com/album/33R9zCzhjy1G0uDU76nmlF) | 3:06 |
 | 80 | [Bouwen Met Jou](https://open.spotify.com/track/2y9PqJ3Nhmsr0J6wgxQV5J) | [Lloyd De Meza](https://open.spotify.com/artist/59YkJoBLjFwDTvLGOpDgR7) | [Bouwen Met Jou](https://open.spotify.com/album/2eyxNgqrG2GfVPGY8Yzubs) | 3:25 |
 
-Snapshot ID: `aDjZAAAAAAAFnFi1OK2kWVfcj4oOZwnk`
+Snapshot ID: `aD2V3gAAAACbgr33Bpq+UjT2kujTCILz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Det er fredag! Ny musik fra Gobs, Miley Cyrus, Tate McRae og mange flere 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,540 likes - 104 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,541 likes - 104 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 103 | [Manager](https://open.spotify.com/track/3FU0FXgspXpU5wrFfllULK) | [Darling Darlene](https://open.spotify.com/artist/7eVZP15eSwEOMxFY7rnDYg) | [Manager](https://open.spotify.com/album/73ZYlfGbuKdUQg65ColE9M) | 3:52 |
 | 104 | [Waste my time](https://open.spotify.com/track/4xCLq4cUWXD5FZS7sRImSL) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Waste my time](https://open.spotify.com/album/3VsSZzexEbHqQu1hfDrpEY) | 4:28 |
 
-Snapshot ID: `aDjZBQAAAAAAx1liSkCOT/4l9DlPzV0Q`
+Snapshot ID: `aDjZBQAAAAAH3VfWyTN4psWvIkl9RCwf`

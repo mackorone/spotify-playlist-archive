@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Những 🎶 từ những cái tên có thể bạn chưa biết\. Ảnh bìa: Phượng Vũ
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,214 likes - 66 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,211 likes - 66 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 55 | [không muốn em rời xa](https://open.spotify.com/track/6FbhRedTTilaEczFX8VKuL) | [hien long](https://open.spotify.com/artist/3ZoGyHXJPPWTohaQJhy82n) | [RỒNG](https://open.spotify.com/album/5f1bcgiWThqn5HioXecj03) | 2:31 |
 | 56 | [Hoa Lá Thay Lòng](https://open.spotify.com/track/7lfLDclvqtfbaR503tuI75) | [Pinky Vanh](https://open.spotify.com/artist/64pk9TSotiH3VRJc2oEHhz), [1988s](https://open.spotify.com/artist/0cAKOLP1t0NumK6BGVlNdX) | [Hoa Lá Thay Lòng](https://open.spotify.com/album/7nYD3jMFYEQe4KSd1FhYl2) | 4:56 |
 | 57 | [Chạy Về Nơi Phía Mặt Trời](https://open.spotify.com/track/6IKRjp4iigEg6N4Z0MyXyF) | [Hekii](https://open.spotify.com/artist/6WMFJ9mRl9DUqzrXzfMqzD), [MTK](https://open.spotify.com/artist/7pcn7teH989aO0IXdbxk67) | [Chạy Về Nơi Phía Mặt Trời](https://open.spotify.com/album/4peSym136eP5JmfcKIZPHh) | 3:30 |
-| 58 | [Chiếc Wave Tàu](https://open.spotify.com/track/6RzR9nmbY3aqHvFftBCEWz) | [Linh Lor](https://open.spotify.com/artist/2z9C9qgku8ZmBd5FXlSmJu), [TL](https://open.spotify.com/artist/6rqwuDJ2iotb5QyNywZzKS), [Gin](https://open.spotify.com/artist/6v1utSMlhHdZFKn8w98FP7) | [Chiếc Wave Tàu](https://open.spotify.com/album/7FHo8KZeEVyVzB2sQTtOdI) | 1:56 |
+| 58 | [Chiếc Wave Tàu](https://open.spotify.com/track/6RzR9nmbY3aqHvFftBCEWz) | [Linh Lor](https://open.spotify.com/artist/2z9C9qgku8ZmBd5FXlSmJu), [TL](https://open.spotify.com/artist/6jvPklMXALaKOpjqm8gT74), [Gin](https://open.spotify.com/artist/6v1utSMlhHdZFKn8w98FP7) | [Chiếc Wave Tàu](https://open.spotify.com/album/7FHo8KZeEVyVzB2sQTtOdI) | 1:56 |
 | 59 | [Bình Thường Thôi](https://open.spotify.com/track/474krlvkxmqwsNQTOnUNHu) | [Jammy](https://open.spotify.com/artist/3tM3yiUNKbuTj1eQ4JkgAq) | [Bình Thường Thôi](https://open.spotify.com/album/0hRhlfGsAYRB2qbPbB1dst) | 4:47 |
 | 60 | [TUSOKHONG](https://open.spotify.com/track/2d1dBb8U2YKrinYmtp2BP8) | [Linh Lor](https://open.spotify.com/artist/2z9C9qgku8ZmBd5FXlSmJu), [Thịnh Qino](https://open.spotify.com/artist/7DDgdpUIK4BiTaJAzt5wv6) | [TUSOKHONG](https://open.spotify.com/album/4rGQ6F4JZkyiKZK1fsjcQV) | 2:25 |
 | 61 | [từng ngày từng đêm](https://open.spotify.com/track/1SaftDx7pLLNdOSI2tLmK1) | [MAYonair](https://open.spotify.com/artist/4cuCzi4VvHHwwowu56Ejm5) | [từng ngày từng đêm](https://open.spotify.com/album/3nbCHL7fpaEAzMnkqufZnB) | 2:48 |

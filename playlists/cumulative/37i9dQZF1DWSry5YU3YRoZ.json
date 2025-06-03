@@ -302,7 +302,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 169645,
       "name": "Dear my dear",
       "url": "https://open.spotify.com/track/6R8sp9YDH1h7Gn65wnaHaY"
@@ -382,7 +382,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 235106,
       "name": "Don\u2032t Move Away",
       "url": "https://open.spotify.com/track/24P7QAGjSohYUki76zBm4y"
@@ -862,10 +862,28 @@
       ],
       "date_added": "2025-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 246831,
       "name": "If You Want",
       "url": "https://open.spotify.com/track/04ocoQQKTdBFFX3iE0QiCL"
+    },
+    {
+      "album": {
+        "name": "Plant",
+        "url": "https://open.spotify.com/album/5KftzhKELNjc4oxGiGQvRf"
+      },
+      "artists": [
+        {
+          "name": "KIMSEJEONG",
+          "url": "https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu"
+        }
+      ],
+      "date_added": "2025-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242680,
+      "name": "In My Dream",
+      "url": "https://open.spotify.com/track/59aPed7AGGtbC4ro8Bc6BW"
     },
     {
       "album": {
@@ -1000,6 +1018,24 @@
       "duration_ms": 282887,
       "name": "Knees",
       "url": "https://open.spotify.com/track/3Sc3OHN2EnhsKwzt7hMFKQ"
+    },
+    {
+      "album": {
+        "name": "LOVER",
+        "url": "https://open.spotify.com/album/2E1J6sAvJIYboa13mkcilz"
+      },
+      "artists": [
+        {
+          "name": "Yoon Hyun Sang",
+          "url": "https://open.spotify.com/artist/390z2RITWBFLpD6HTC5UV2"
+        }
+      ],
+      "date_added": "2025-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129880,
+      "name": "Layed Memory",
+      "url": "https://open.spotify.com/track/4TWeNgudXpHfv3qhRaoFwy"
     },
     {
       "album": {
@@ -1594,6 +1630,24 @@
       "duration_ms": 175582,
       "name": "Summer christmas",
       "url": "https://open.spotify.com/track/4g2OdIK8z0fKDQG3UOapi4"
+    },
+    {
+      "album": {
+        "name": "My Blue has always been Shattered by the Night",
+        "url": "https://open.spotify.com/album/2N2teRvKYYxgY0vh5c4aef"
+      },
+      "artists": [
+        {
+          "name": "Kim Hyunchang",
+          "url": "https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB"
+        }
+      ],
+      "date_added": "2025-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242600,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/0CAZxQvGYpHEatgbECwkuV"
     },
     {
       "album": {

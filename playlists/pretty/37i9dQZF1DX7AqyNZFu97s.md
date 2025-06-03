@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK & Ireland\. Cover: IDEMI
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,470 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,477 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 99 | [ISO](https://open.spotify.com/track/73ey35FCk88uo0NbvEX9DV) | [Lance A](https://open.spotify.com/artist/0fdCjtR1V4tSbkShNAXeNq) | [ISO](https://open.spotify.com/album/1exGXDA5ktfUtrqfUOV3Rr) | 2:37 |
 | 100 | [Rosie](https://open.spotify.com/track/49vLCIHFZZDZHNbNPMJIue) | [Tilly Louise](https://open.spotify.com/artist/3NT9rxRQ2o4qUYpHRJY76O) | [Rosie](https://open.spotify.com/album/2NhyGITGhRcOql1Sz3b7UA) | 4:06 |
 
-Snapshot ID: `aDZECwAAAADlJMU2o79Y18YSpDDob97V`
+Snapshot ID: `aDZECwAAAABqJGmaI9Qze8UWwJgkmL9O`

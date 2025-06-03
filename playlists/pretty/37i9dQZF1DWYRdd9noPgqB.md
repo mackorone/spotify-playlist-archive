@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 
 > La playlist qui fait du bien ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,445 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,460 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 | 49 | [Wolves](https://open.spotify.com/track/5ipY4ESaKDX78QMHHIIwMH) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g) | [Feathers And Stone](https://open.spotify.com/album/3AEUs7oHvxIE1RuZEGyL7T) | 3:02 |
 | 50 | [Still Holdin’ On](https://open.spotify.com/track/4nlhCw17IBZBkQr1F4rSsD) | [Gizmo Varillas](https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj) | [Still Holdin’ On](https://open.spotify.com/album/1RfnFvYlW6vM7wdaOPg9RY) | 3:33 |
 
-Snapshot ID: `aDjY/gAAAAA7tXpkkrRXnm/AKldUCbmD`
+Snapshot ID: `aDjY/gAAAACG0eNGsrT7Ojca/pu0hvTh`

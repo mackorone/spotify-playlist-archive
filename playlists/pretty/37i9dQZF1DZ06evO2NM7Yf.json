@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDpGgAAAAADEdWksj6Pox0g9ZaCz751V",
+  "snapshot_id": "aDuYAAAAAAC5To8xq2DJdO6BWWzeKfyU",
   "tracks": [
     {
       "added_at": null,
@@ -75,18 +75,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "breakup with a friend",
-        "url": "https://open.spotify.com/album/0CYC2EhUKwBOQzyroumu3i"
+        "name": "Nosebleeds: Encore",
+        "url": "https://open.spotify.com/album/19BoWVjerUhTZXmTlVGCoJ"
       },
       "artists": [
+        {
+          "name": "MisterWives",
+          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
+        },
         {
           "name": "Meg Smith",
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 162000,
-      "name": "breakup with a friend",
-      "url": "https://open.spotify.com/track/5jO40JD6eHrxuHnnhG676n"
+      "duration_ms": 164213,
+      "name": "Sideways (feat. Meg Smith)",
+      "url": "https://open.spotify.com/track/5XnHGjcnDMw0KWe4lJzqSD"
     },
     {
       "added_at": null,
@@ -107,22 +111,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nosebleeds: Encore",
-        "url": "https://open.spotify.com/album/19BoWVjerUhTZXmTlVGCoJ"
+        "name": "breakup with a friend",
+        "url": "https://open.spotify.com/album/0CYC2EhUKwBOQzyroumu3i"
       },
       "artists": [
-        {
-          "name": "MisterWives",
-          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
-        },
         {
           "name": "Meg Smith",
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 164213,
-      "name": "Sideways (feat. Meg Smith)",
-      "url": "https://open.spotify.com/track/5XnHGjcnDMw0KWe4lJzqSD"
+      "duration_ms": 162000,
+      "name": "breakup with a friend",
+      "url": "https://open.spotify.com/track/5jO40JD6eHrxuHnnhG676n"
     },
     {
       "added_at": null,
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 164933,
-      "name": "American in Paris",
-      "url": "https://open.spotify.com/track/5gB9Gv6bWUDEThBzZA4gDj"
+      "duration_ms": 182500,
+      "name": "Because of Me",
+      "url": "https://open.spotify.com/track/4k5gEEKBU2Oml9GxZEGWLu"
     },
     {
       "added_at": null,
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 182500,
-      "name": "Because of Me",
-      "url": "https://open.spotify.com/track/4k5gEEKBU2Oml9GxZEGWLu"
+      "duration_ms": 164933,
+      "name": "American in Paris",
+      "url": "https://open.spotify.com/track/5gB9Gv6bWUDEThBzZA4gDj"
     },
     {
       "added_at": null,

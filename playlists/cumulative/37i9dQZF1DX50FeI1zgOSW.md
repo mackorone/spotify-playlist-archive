@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Bebhumika
 
-544 songs - 1 day 7 hr 1 min
+545 songs - 1 day 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -521,6 +521,7 @@
 | [Vengai Penne](https://open.spotify.com/track/5l2kfVTuAkV7Fh3e98XmeT) | [Rukhsar Bandhukia](https://open.spotify.com/artist/7fbLHUFs78wFd4KxpQB1vC), [Mohan Rajan](https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma), [Mann Taneja](https://open.spotify.com/artist/4nrzV0KNK93wplq40UzfkW) | [Vengai Penne](https://open.spotify.com/album/2mMZVC8DDZ9avU17VSmWNB) | 3:22 | 2023-05-22 | 2023-11-16 |
 | [VENKUZHALI](https://open.spotify.com/track/4oIGqgabBXnjr6uwBplh1i) | [Martin Kartenjer](https://open.spotify.com/artist/3OY61Sme8AYjtKYCzmReCw), [L J Vijay](https://open.spotify.com/artist/2ownGwkMOO4BCycYkRShYP), [Shibi Srinivasan](https://open.spotify.com/artist/5MDIxdYBWgk1ZTcvb3GKf5) | [VENKUZHALI](https://open.spotify.com/album/3HN4AEXQO0Sw2PiUqwIq8l) | 3:43 | 2024-08-21 | 2024-08-29 |
 | [Vennilavaai Vandhaale](https://open.spotify.com/track/0tIlact95s381sOKIbwjAZ) | [Nikhil Babu](https://open.spotify.com/artist/6TPGxT8g78X6vuRsSnTws5), [Unnimaya Nambeesan](https://open.spotify.com/artist/0TZGMs6fsn4cdwJqwk4gX2), [Divyavalli Santhosh](https://open.spotify.com/artist/5nAN46NfWgmicMH2vMPaHD) | [Vennilavaai Vandhaale](https://open.spotify.com/album/5WT8YCt48vk8rDj0BPfFW3) | 4:54 | 2025-04-24 |  |
+| [Venum Nee Venum](https://open.spotify.com/track/04XtkCYGskFi06D6pQFJjN) | [A R Anandh](https://open.spotify.com/artist/0g4Lzawjm4gE1sjed9U02Y), [Keerthanaa Karthikeyan](https://open.spotify.com/artist/7v44e3vQ4VxxsFztCosTMl) | [Venum Nee Venum](https://open.spotify.com/album/0qtNcKOTSBeyjCdm8J86XZ) | 3:55 | 2025-06-02 |  |
 | [Veruthu Pochu](https://open.spotify.com/track/5G8ax76K5ZmOgi2KRkaaDk) | [Shyam Sasikumar](https://open.spotify.com/artist/4UsEnWXfJJrVNNEv4fClaT), [Dacalty](https://open.spotify.com/artist/7n15OEL121OCN7hOZnhZEd) | [Palaya Folder](https://open.spotify.com/album/53ZtBsYjTasQUCmg3Qd8Hz) | 2:04 | 2023-03-21 | 2023-09-26 |
 | [Vetti Bandha](https://open.spotify.com/track/6uWLo9rRdsIqDuJM5P6SR8) | [$carce](https://open.spotify.com/artist/71LOuajUcL1fBqE6rA1nTc), [Jeruson](https://open.spotify.com/artist/08z8cYk0E56BpT6vSS04ss) | [Vetti Bandha](https://open.spotify.com/album/6X7eqIR21LshdkNUYLgOGR) | 2:07 | 2024-03-17 | 2024-10-12 |
 | [Vibe](https://open.spotify.com/track/2VxxQVa3U732LlzN0dn3FF) | [Mc Bhaashi](https://open.spotify.com/artist/7lZin56OSjFKERgNRdQetu), [Kronixx Beatz](https://open.spotify.com/artist/3g0ARpBNmP6uSSzPXuW2SJ) | [Vibe](https://open.spotify.com/album/5X5R50RKlsXPo3zKZnf1jz) | 2:08 | 2024-12-13 | 2024-12-26 |

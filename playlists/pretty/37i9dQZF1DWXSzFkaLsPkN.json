@@ -1,6 +1,6 @@
 {
   "description": "Hindi hai, Indie hai! Cover- Utsavi Jha\n",
-  "num_followers": 129499,
+  "num_followers": 129518,
   "original_name": "hIndies",
   "owner": {
     "name": "Spotify",
@@ -243,6 +243,22 @@
     {
       "added_at": "2025-05-30 06:36:40",
       "album": {
+        "name": "Paaro",
+        "url": "https://open.spotify.com/album/0PCzppXRIq0vcx2eDw8PdD"
+      },
+      "artists": [
+        {
+          "name": "Aditya Rikhari",
+          "url": "https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D"
+        }
+      ],
+      "duration_ms": 153214,
+      "name": "Paaro",
+      "url": "https://open.spotify.com/track/5ByLpy1feHoHXoM4IC4BvW"
+    },
+    {
+      "added_at": "2025-05-30 06:36:40",
+      "album": {
         "name": "Mismatched: Season 2 (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/0bPV8j4jfsKeoW5P3YQInX"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 197763,
       "name": "Kho Gaye",
       "url": "https://open.spotify.com/track/2QophXhN2Ls2URfoPmiviC"
-    },
-    {
-      "added_at": "2025-05-30 06:36:40",
-      "album": {
-        "name": "Paaro",
-        "url": "https://open.spotify.com/album/0PCzppXRIq0vcx2eDw8PdD"
-      },
-      "artists": [
-        {
-          "name": "Aditya Rikhari",
-          "url": "https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D"
-        }
-      ],
-      "duration_ms": 153214,
-      "name": "Paaro",
-      "url": "https://open.spotify.com/track/5ByLpy1feHoHXoM4IC4BvW"
     },
     {
       "added_at": "2025-05-30 06:36:40",
@@ -343,6 +343,22 @@
     {
       "added_at": "2025-05-30 06:36:40",
       "album": {
+        "name": "Teri Yaad",
+        "url": "https://open.spotify.com/album/1QE4rDAvMrYGSpVdbrFIRH"
+      },
+      "artists": [
+        {
+          "name": "Aditya Rikhari",
+          "url": "https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D"
+        }
+      ],
+      "duration_ms": 230649,
+      "name": "Teri Yaad",
+      "url": "https://open.spotify.com/track/3uUAbrwsttRpv2kfAvAUN9"
+    },
+    {
+      "added_at": "2025-05-30 06:36:40",
+      "album": {
         "name": "Sadqay",
         "url": "https://open.spotify.com/album/6DCDw6OlKLmVlVrp9J6YWD"
       },
@@ -367,22 +383,6 @@
     {
       "added_at": "2025-05-30 06:36:40",
       "album": {
-        "name": "Teri Yaad",
-        "url": "https://open.spotify.com/album/1QE4rDAvMrYGSpVdbrFIRH"
-      },
-      "artists": [
-        {
-          "name": "Aditya Rikhari",
-          "url": "https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D"
-        }
-      ],
-      "duration_ms": 230649,
-      "name": "Teri Yaad",
-      "url": "https://open.spotify.com/track/3uUAbrwsttRpv2kfAvAUN9"
-    },
-    {
-      "added_at": "2025-05-30 06:36:40",
-      "album": {
         "name": "Meri Banogi Kya",
         "url": "https://open.spotify.com/album/0cpuLQbNPdQtnKsjbu6NsW"
       },
@@ -399,6 +399,58 @@
       "duration_ms": 215035,
       "name": "Meri Banogi Kya",
       "url": "https://open.spotify.com/track/6gprR0rGv59wALbBU7yZkl"
+    },
+    {
+      "added_at": "2025-05-30 06:36:40",
+      "album": {
+        "name": "Alfaazo",
+        "url": "https://open.spotify.com/album/6xy5HvqMaDhB1EGlqE5iju"
+      },
+      "artists": [
+        {
+          "name": "Mitraz",
+          "url": "https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX"
+        }
+      ],
+      "duration_ms": 158447,
+      "name": "Alfaazo",
+      "url": "https://open.spotify.com/track/6KvXpACADAz73IPrCgXobL"
+    },
+    {
+      "added_at": "2025-05-30 06:36:40",
+      "album": {
+        "name": "Savera",
+        "url": "https://open.spotify.com/album/3JEj0JqpBIbAiIJ3SyADpd"
+      },
+      "artists": [
+        {
+          "name": "Iqlipse Nova",
+          "url": "https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk"
+        },
+        {
+          "name": "Anubha Bajaj",
+          "url": "https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H"
+        }
+      ],
+      "duration_ms": 143472,
+      "name": "Savera",
+      "url": "https://open.spotify.com/track/4XA2TXEycTQL3xhPV7L2kt"
+    },
+    {
+      "added_at": "2025-05-30 06:36:40",
+      "album": {
+        "name": "Sahiba",
+        "url": "https://open.spotify.com/album/250nGZusEhq33ZIZYJ7eVb"
+      },
+      "artists": [
+        {
+          "name": "Aditya Rikhari",
+          "url": "https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D"
+        }
+      ],
+      "duration_ms": 190098,
+      "name": "Sahiba",
+      "url": "https://open.spotify.com/track/0eLtIxPRNJfsmehITZ1qaJ"
     },
     {
       "added_at": "2025-05-30 06:36:40",
@@ -431,74 +483,6 @@
     {
       "added_at": "2025-05-30 06:36:40",
       "album": {
-        "name": "Savera",
-        "url": "https://open.spotify.com/album/3JEj0JqpBIbAiIJ3SyADpd"
-      },
-      "artists": [
-        {
-          "name": "Iqlipse Nova",
-          "url": "https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk"
-        },
-        {
-          "name": "Anubha Bajaj",
-          "url": "https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H"
-        }
-      ],
-      "duration_ms": 143472,
-      "name": "Savera",
-      "url": "https://open.spotify.com/track/4XA2TXEycTQL3xhPV7L2kt"
-    },
-    {
-      "added_at": "2025-05-30 06:36:40",
-      "album": {
-        "name": "Alfaazo",
-        "url": "https://open.spotify.com/album/6xy5HvqMaDhB1EGlqE5iju"
-      },
-      "artists": [
-        {
-          "name": "Mitraz",
-          "url": "https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX"
-        }
-      ],
-      "duration_ms": 158447,
-      "name": "Alfaazo",
-      "url": "https://open.spotify.com/track/6KvXpACADAz73IPrCgXobL"
-    },
-    {
-      "added_at": "2025-05-30 06:36:40",
-      "album": {
-        "name": "Sahiba",
-        "url": "https://open.spotify.com/album/250nGZusEhq33ZIZYJ7eVb"
-      },
-      "artists": [
-        {
-          "name": "Aditya Rikhari",
-          "url": "https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D"
-        }
-      ],
-      "duration_ms": 190098,
-      "name": "Sahiba",
-      "url": "https://open.spotify.com/track/0eLtIxPRNJfsmehITZ1qaJ"
-    },
-    {
-      "added_at": "2025-05-30 06:36:40",
-      "album": {
-        "name": "Lamhey",
-        "url": "https://open.spotify.com/album/1jZWNePo4dPSElLKJ0I2zA"
-      },
-      "artists": [
-        {
-          "name": "Anubha Bajaj",
-          "url": "https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H"
-        }
-      ],
-      "duration_ms": 148966,
-      "name": "Lamhey",
-      "url": "https://open.spotify.com/track/5Z2GQ0eBKoatNYqbGayihP"
-    },
-    {
-      "added_at": "2025-05-30 06:36:40",
-      "album": {
         "name": "Better With You",
         "url": "https://open.spotify.com/album/4SLRZ2hzrapT1iMVOhFhJ3"
       },
@@ -519,18 +503,18 @@
     {
       "added_at": "2025-05-30 06:36:40",
       "album": {
-        "name": "Mulaqat",
-        "url": "https://open.spotify.com/album/2LBQG9vBtXEL7RD4FUTJTa"
+        "name": "Lamhey",
+        "url": "https://open.spotify.com/album/1jZWNePo4dPSElLKJ0I2zA"
       },
       "artists": [
         {
-          "name": "Prateek Kuhad",
-          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+          "name": "Anubha Bajaj",
+          "url": "https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H"
         }
       ],
-      "duration_ms": 246519,
-      "name": "Mulaqat",
-      "url": "https://open.spotify.com/track/7uZLUFqPgGqwzD5rzOl8Sa"
+      "duration_ms": 148966,
+      "name": "Lamhey",
+      "url": "https://open.spotify.com/track/5Z2GQ0eBKoatNYqbGayihP"
     },
     {
       "added_at": "2025-05-30 06:36:40",
@@ -547,6 +531,22 @@
       "duration_ms": 258716,
       "name": "Muskurahat",
       "url": "https://open.spotify.com/track/6oURWs2pULRYC9JAhLEaw8"
+    },
+    {
+      "added_at": "2025-05-30 06:36:40",
+      "album": {
+        "name": "Mulaqat",
+        "url": "https://open.spotify.com/album/2LBQG9vBtXEL7RD4FUTJTa"
+      },
+      "artists": [
+        {
+          "name": "Prateek Kuhad",
+          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        }
+      ],
+      "duration_ms": 246519,
+      "name": "Mulaqat",
+      "url": "https://open.spotify.com/track/7uZLUFqPgGqwzD5rzOl8Sa"
     },
     {
       "added_at": "2025-05-30 06:36:40",
@@ -795,22 +795,6 @@
     {
       "added_at": "2025-05-30 06:36:40",
       "album": {
-        "name": "Goodbye",
-        "url": "https://open.spotify.com/album/3IXc2Y2hrRoa8gFA87lfw7"
-      },
-      "artists": [
-        {
-          "name": "lekhak",
-          "url": "https://open.spotify.com/artist/7EzXvSTOIXrtaL87k7aoBG"
-        }
-      ],
-      "duration_ms": 178898,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/5JdeSgIBqpdoC3RudqPkCu"
-    },
-    {
-      "added_at": "2025-05-30 06:36:40",
-      "album": {
         "name": "Katputli Ke Dhaage",
         "url": "https://open.spotify.com/album/6C4fAoH6g6MAfWjjaeUaWP"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 173764,
       "name": "Katputli Ke Dhaage",
       "url": "https://open.spotify.com/track/520NVZmA0cXVRrUUg0hOsc"
+    },
+    {
+      "added_at": "2025-05-30 06:36:40",
+      "album": {
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/3IXc2Y2hrRoa8gFA87lfw7"
+      },
+      "artists": [
+        {
+          "name": "lekhak",
+          "url": "https://open.spotify.com/artist/7EzXvSTOIXrtaL87k7aoBG"
+        }
+      ],
+      "duration_ms": 178898,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/5JdeSgIBqpdoC3RudqPkCu"
     },
     {
       "added_at": "2025-05-30 06:36:40",
@@ -1551,26 +1551,6 @@
     {
       "added_at": "2025-05-30 06:36:40",
       "album": {
-        "name": "Kehndi Hai",
-        "url": "https://open.spotify.com/album/6LwC2nt0yfSGOjE5UPghLN"
-      },
-      "artists": [
-        {
-          "name": "Zanai Bhosle",
-          "url": "https://open.spotify.com/artist/1KXshKZ6e6JsZ6boHGgkXX"
-        },
-        {
-          "name": "Siddhant Bhosle",
-          "url": "https://open.spotify.com/artist/72FQZIJkOLdKV0YKqS024h"
-        }
-      ],
-      "duration_ms": 149927,
-      "name": "Kehndi Hai",
-      "url": "https://open.spotify.com/track/2UqVw7C652TCZrc1ZA8CbE"
-    },
-    {
-      "added_at": "2025-05-30 06:36:40",
-      "album": {
         "name": "Heeriye",
         "url": "https://open.spotify.com/album/4aMIA4pmWtLP4VoLveg8dj"
       },
@@ -1603,6 +1583,26 @@
       "duration_ms": 228614,
       "name": "Baavre Ho Gaye",
       "url": "https://open.spotify.com/track/6eqPTXbERj4fj48rKzT0TZ"
+    },
+    {
+      "added_at": "2025-05-30 06:36:40",
+      "album": {
+        "name": "Kehndi Hai",
+        "url": "https://open.spotify.com/album/6LwC2nt0yfSGOjE5UPghLN"
+      },
+      "artists": [
+        {
+          "name": "Zanai Bhosle",
+          "url": "https://open.spotify.com/artist/1KXshKZ6e6JsZ6boHGgkXX"
+        },
+        {
+          "name": "Siddhant Bhosle",
+          "url": "https://open.spotify.com/artist/72FQZIJkOLdKV0YKqS024h"
+        }
+      ],
+      "duration_ms": 149927,
+      "name": "Kehndi Hai",
+      "url": "https://open.spotify.com/track/2UqVw7C652TCZrc1ZA8CbE"
     },
     {
       "added_at": "2025-05-30 06:36:40",
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2025-05-30 06:36:40",
       "album": {
+        "name": "Meri Baari",
+        "url": "https://open.spotify.com/album/6CZIFpN6kaO3BRnlZoACbB"
+      },
+      "artists": [
+        {
+          "name": "Iqlipse Nova",
+          "url": "https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk"
+        }
+      ],
+      "duration_ms": 199800,
+      "name": "Meri Baari",
+      "url": "https://open.spotify.com/track/0XdDE6lmn5srPDUDBq5xcg"
+    },
+    {
+      "added_at": "2025-05-30 06:36:40",
+      "album": {
         "name": "Rootho Na",
         "url": "https://open.spotify.com/album/7hqFafe5aIpab9Tx78q5mn"
       },
@@ -1735,22 +1751,6 @@
       "duration_ms": 230322,
       "name": "Rootho Na",
       "url": "https://open.spotify.com/track/3iianNzrInP4BTd6NYCq3g"
-    },
-    {
-      "added_at": "2025-05-30 06:36:40",
-      "album": {
-        "name": "Meri Baari",
-        "url": "https://open.spotify.com/album/6CZIFpN6kaO3BRnlZoACbB"
-      },
-      "artists": [
-        {
-          "name": "Iqlipse Nova",
-          "url": "https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk"
-        }
-      ],
-      "duration_ms": 199800,
-      "name": "Meri Baari",
-      "url": "https://open.spotify.com/track/0XdDE6lmn5srPDUDBq5xcg"
     },
     {
       "added_at": "2025-05-30 06:36:40",

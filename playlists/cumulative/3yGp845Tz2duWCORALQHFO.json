@@ -18489,6 +18489,24 @@
     },
     {
       "album": {
+        "name": "Fight the Dark",
+        "url": "https://open.spotify.com/album/4GTPSnuPGbC7x9DfMO5hCe"
+      },
+      "artists": [
+        {
+          "name": "H-Tech",
+          "url": "https://open.spotify.com/artist/7wt6rKGKpEdy9H5lYArhfG"
+        }
+      ],
+      "date_added": "2025-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235448,
+      "name": "Fight the Dark",
+      "url": "https://open.spotify.com/track/61AMpQIi9N3WUueGcoESHg"
+    },
+    {
+      "album": {
         "name": "Fibonacci Pt 1: Oblivion",
         "url": "https://open.spotify.com/album/4Ou53cCMdT8DPtVqcAHd7k"
       },

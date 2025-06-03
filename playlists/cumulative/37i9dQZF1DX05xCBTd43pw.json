@@ -1370,7 +1370,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 164501,
       "name": "Counting Days",
       "url": "https://open.spotify.com/track/6ujzmWSyfa57nVtjNO54G0"
@@ -1646,7 +1646,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-02",
+      "date_removed": null,
       "duration_ms": 255375,
       "name": "dormant plants",
       "url": "https://open.spotify.com/track/1rS3xMPOBLjS6Nm4MlYiN7"
@@ -1834,7 +1834,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 152000,
       "name": "ENEMY",
       "url": "https://open.spotify.com/track/2ml2U1MZUnXfnHPghzQZ7q"
@@ -5758,6 +5758,24 @@
       "duration_ms": 180141,
       "name": "The Code",
       "url": "https://open.spotify.com/track/1EjIXKhNHI00ZLMRpS8iz8"
+    },
+    {
+      "album": {
+        "name": "XAOS",
+        "url": "https://open.spotify.com/album/5GYm9Ud8aGdBB86V5PDU1g"
+      },
+      "artists": [
+        {
+          "name": "Kae",
+          "url": "https://open.spotify.com/artist/1fSG1RjY50eGpdvtHECCRm"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140750,
+      "name": "THE LOVER",
+      "url": "https://open.spotify.com/track/51IMjTw9T8BliGgPMSFqEr"
     },
     {
       "album": {

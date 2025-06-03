@@ -1,6 +1,6 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 806280,
+  "num_followers": 806380,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
@@ -395,6 +395,22 @@
     {
       "added_at": "2025-05-24 16:32:59",
       "album": {
+        "name": "Black Pumas",
+        "url": "https://open.spotify.com/album/4KJGypBUe7ANibtri1msUe"
+      },
+      "artists": [
+        {
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+        }
+      ],
+      "duration_ms": 246120,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/4j5x8nURU1SNMFvVxcJj65"
+    },
+    {
+      "added_at": "2025-05-24 16:32:59",
+      "album": {
         "name": "Eddie",
         "url": "https://open.spotify.com/album/5FTrv0ut24vm76hx1WuWSN"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 290893,
       "name": "Out Of Love",
       "url": "https://open.spotify.com/track/3hNywmR93yvj68y2zl8mRt"
-    },
-    {
-      "added_at": "2025-05-24 16:32:59",
-      "album": {
-        "name": "Black Pumas",
-        "url": "https://open.spotify.com/album/4KJGypBUe7ANibtri1msUe"
-      },
-      "artists": [
-        {
-          "name": "Black Pumas",
-          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
-        }
-      ],
-      "duration_ms": 246120,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/4j5x8nURU1SNMFvVxcJj65"
     },
     {
       "added_at": "2025-05-24 16:32:59",
@@ -811,6 +811,22 @@
     {
       "added_at": "2025-05-24 16:32:59",
       "album": {
+        "name": "Anne, If",
+        "url": "https://open.spotify.com/album/1yfivCG34it3wTbqsbNlBX"
+      },
+      "artists": [
+        {
+          "name": "GHOSTWOMAN",
+          "url": "https://open.spotify.com/artist/4IEpQR24sUgq6BQw2MdZIy"
+        }
+      ],
+      "duration_ms": 191451,
+      "name": "The End of a Gun",
+      "url": "https://open.spotify.com/track/6LXQQXcSOcQ7ohdfR2tqC5"
+    },
+    {
+      "added_at": "2025-05-24 16:32:59",
+      "album": {
         "name": "One and Only",
         "url": "https://open.spotify.com/album/7CXmRX6T71T7xgTqZtHNsM"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 256240,
       "name": "Summer Breeze",
       "url": "https://open.spotify.com/track/5i6CpkeePD4aKacf0cmZqg"
-    },
-    {
-      "added_at": "2025-05-24 16:32:59",
-      "album": {
-        "name": "Anne, If",
-        "url": "https://open.spotify.com/album/1yfivCG34it3wTbqsbNlBX"
-      },
-      "artists": [
-        {
-          "name": "GHOSTWOMAN",
-          "url": "https://open.spotify.com/artist/4IEpQR24sUgq6BQw2MdZIy"
-        }
-      ],
-      "duration_ms": 191451,
-      "name": "The End of a Gun",
-      "url": "https://open.spotify.com/track/6LXQQXcSOcQ7ohdfR2tqC5"
     },
     {
       "added_at": "2025-05-24 16:32:59",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2025-05-24 16:32:59",
       "album": {
-        "name": "Last One Standing (Radio Edit)",
-        "url": "https://open.spotify.com/album/1bvPZK9ZXI8y8qDX4XO6rY"
-      },
-      "artists": [
-        {
-          "name": "Monophonics",
-          "url": "https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw"
-        }
-      ],
-      "duration_ms": 203589,
-      "name": "Last One Standing - Radio Edit",
-      "url": "https://open.spotify.com/track/2mRNzUxMguZuN4BdyjCGnz"
-    },
-    {
-      "added_at": "2025-05-24 16:32:59",
-      "album": {
         "name": "Lonesome No More",
         "url": "https://open.spotify.com/album/3Po6WS22068XclNCiZqDIi"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 187542,
       "name": "Love You Most",
       "url": "https://open.spotify.com/track/7p9FUXsiQD12A3LMxkzzMh"
+    },
+    {
+      "added_at": "2025-05-24 16:32:59",
+      "album": {
+        "name": "Last One Standing (Radio Edit)",
+        "url": "https://open.spotify.com/album/1bvPZK9ZXI8y8qDX4XO6rY"
+      },
+      "artists": [
+        {
+          "name": "Monophonics",
+          "url": "https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw"
+        }
+      ],
+      "duration_ms": 203589,
+      "name": "Last One Standing - Radio Edit",
+      "url": "https://open.spotify.com/track/2mRNzUxMguZuN4BdyjCGnz"
     },
     {
       "added_at": "2025-05-24 16:32:59",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2025-05-24 16:32:59",
       "album": {
+        "name": "Tako Tsubo (Extended)",
+        "url": "https://open.spotify.com/album/5TzIufkUkIyyDmWse36b9p"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        }
+      ],
+      "duration_ms": 268179,
+      "name": "Off to the Side",
+      "url": "https://open.spotify.com/track/23I5jM64mGFDmYAUpcYBO4"
+    },
+    {
+      "added_at": "2025-05-24 16:32:59",
+      "album": {
         "name": "Laurence",
         "url": "https://open.spotify.com/album/4q1YH9oZxmdYu34ucwxPP5"
       },
@@ -1495,22 +1511,6 @@
       "duration_ms": 212413,
       "name": "Laurence",
       "url": "https://open.spotify.com/track/3kVukBQ3JeKNxcI89pi5xL"
-    },
-    {
-      "added_at": "2025-05-24 16:32:59",
-      "album": {
-        "name": "Tako Tsubo (Extended)",
-        "url": "https://open.spotify.com/album/5TzIufkUkIyyDmWse36b9p"
-      },
-      "artists": [
-        {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        }
-      ],
-      "duration_ms": 268179,
-      "name": "Off to the Side",
-      "url": "https://open.spotify.com/track/23I5jM64mGFDmYAUpcYBO4"
     },
     {
       "added_at": "2025-05-24 16:32:59",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2025-05-24 16:32:59",
       "album": {
-        "name": "Picture Frame",
-        "url": "https://open.spotify.com/album/6LaTToJMRmCo1Wtxb2NyhU"
-      },
-      "artists": [
-        {
-          "name": "Hector Morlet",
-          "url": "https://open.spotify.com/artist/1xgCILfNVWEJx7EBN1rC2A"
-        }
-      ],
-      "duration_ms": 195276,
-      "name": "Picture Frame",
-      "url": "https://open.spotify.com/track/0DkZynmdHveUtwaas1Xj2m"
-    },
-    {
-      "added_at": "2025-05-24 16:32:59",
-      "album": {
         "name": "Freedom to Talk",
         "url": "https://open.spotify.com/album/1TLnvPTgtZXvCGhIvzl2pf"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 233500,
       "name": "Lament for the Sky",
       "url": "https://open.spotify.com/track/6O20789Z3l8ttvdxHJgzqy"
+    },
+    {
+      "added_at": "2025-05-24 16:32:59",
+      "album": {
+        "name": "Picture Frame",
+        "url": "https://open.spotify.com/album/6LaTToJMRmCo1Wtxb2NyhU"
+      },
+      "artists": [
+        {
+          "name": "Hector Morlet",
+          "url": "https://open.spotify.com/artist/1xgCILfNVWEJx7EBN1rC2A"
+        }
+      ],
+      "duration_ms": 195276,
+      "name": "Picture Frame",
+      "url": "https://open.spotify.com/track/0DkZynmdHveUtwaas1Xj2m"
     },
     {
       "added_at": "2025-05-24 16:32:59",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2025-05-24 16:32:59",
       "album": {
-        "name": "People Never Change",
-        "url": "https://open.spotify.com/album/44fRKtfgTRHDYyUnC0N4LR"
-      },
-      "artists": [
-        {
-          "name": "Peter Cat Recording Co.",
-          "url": "https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV"
-        }
-      ],
-      "duration_ms": 165040,
-      "name": "People Never Change - Radio Edit",
-      "url": "https://open.spotify.com/track/0BEU8reIpQUKYtFg6O7fU9"
-    },
-    {
-      "added_at": "2025-05-24 16:32:59",
-      "album": {
         "name": "Blossom Dearie Sings (45th Anniversary Edition)",
         "url": "https://open.spotify.com/album/7ylVNuVPvO6dAS84nuQE7A"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 176718,
       "name": "Somebody New",
       "url": "https://open.spotify.com/track/2Br3fsJf9k9ciS5jiDxpDQ"
+    },
+    {
+      "added_at": "2025-05-24 16:32:59",
+      "album": {
+        "name": "People Never Change",
+        "url": "https://open.spotify.com/album/44fRKtfgTRHDYyUnC0N4LR"
+      },
+      "artists": [
+        {
+          "name": "Peter Cat Recording Co.",
+          "url": "https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV"
+        }
+      ],
+      "duration_ms": 165040,
+      "name": "People Never Change - Radio Edit",
+      "url": "https://open.spotify.com/track/0BEU8reIpQUKYtFg6O7fU9"
     },
     {
       "added_at": "2025-05-24 16:32:59",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2025-05-24 16:32:59",
       "album": {
-        "name": "THE ROAD TO CLOSURE",
-        "url": "https://open.spotify.com/album/3lKDEtsAPHQx71OL5z1gbI"
-      },
-      "artists": [
-        {
-          "name": "Yoandri",
-          "url": "https://open.spotify.com/artist/7uCNYKOeuyGcoxaP1Y095d"
-        }
-      ],
-      "duration_ms": 177410,
-      "name": "GLITTER",
-      "url": "https://open.spotify.com/track/4z2DYBA49RMJiOmPgS9u4Y"
-    },
-    {
-      "added_at": "2025-05-24 16:32:59",
-      "album": {
         "name": "Warm Blanket",
         "url": "https://open.spotify.com/album/15PX5VAhMxwfD2wt6KZGVS"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 281186,
       "name": "Born Too Late",
       "url": "https://open.spotify.com/track/2f79cCVgumma4V11XQEhAu"
+    },
+    {
+      "added_at": "2025-05-24 16:32:59",
+      "album": {
+        "name": "THE ROAD TO CLOSURE",
+        "url": "https://open.spotify.com/album/3lKDEtsAPHQx71OL5z1gbI"
+      },
+      "artists": [
+        {
+          "name": "Yoandri",
+          "url": "https://open.spotify.com/artist/7uCNYKOeuyGcoxaP1Y095d"
+        }
+      ],
+      "duration_ms": 177410,
+      "name": "GLITTER",
+      "url": "https://open.spotify.com/track/4z2DYBA49RMJiOmPgS9u4Y"
     },
     {
       "added_at": "2025-05-24 16:32:59",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2025-05-24 16:32:59",
       "album": {
-        "name": "run away",
-        "url": "https://open.spotify.com/album/4BEaDLxgqqoAvE5xFOs9Iz"
-      },
-      "artists": [
-        {
-          "name": "Yoandri",
-          "url": "https://open.spotify.com/artist/7uCNYKOeuyGcoxaP1Y095d"
-        }
-      ],
-      "duration_ms": 205379,
-      "name": "run away",
-      "url": "https://open.spotify.com/track/5Rhj7fTs9HlJLH9T1iyn2B"
-    },
-    {
-      "added_at": "2025-05-24 16:32:59",
-      "album": {
         "name": "The Outsiders Are Back",
         "url": "https://open.spotify.com/album/1zL1bCnuSQsWuao9g7urmb"
       },
@@ -1935,18 +1919,18 @@
     {
       "added_at": "2025-05-24 16:32:59",
       "album": {
-        "name": "More Or Less",
-        "url": "https://open.spotify.com/album/6h89MkTciHXow6Jc2lcfVL"
+        "name": "run away",
+        "url": "https://open.spotify.com/album/4BEaDLxgqqoAvE5xFOs9Iz"
       },
       "artists": [
         {
-          "name": "Dan Mangan",
-          "url": "https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n"
+          "name": "Yoandri",
+          "url": "https://open.spotify.com/artist/7uCNYKOeuyGcoxaP1Y095d"
         }
       ],
-      "duration_ms": 242893,
-      "name": "Lynchpin",
-      "url": "https://open.spotify.com/track/3JqlzKVpYrUFgKuH6VQ9MP"
+      "duration_ms": 205379,
+      "name": "run away",
+      "url": "https://open.spotify.com/track/5Rhj7fTs9HlJLH9T1iyn2B"
     },
     {
       "added_at": "2025-05-24 16:32:59",
@@ -1963,6 +1947,22 @@
       "duration_ms": 193727,
       "name": "Madagascar",
       "url": "https://open.spotify.com/track/5S3qQPyFEezyWBFemwm1Yq"
+    },
+    {
+      "added_at": "2025-05-24 16:32:59",
+      "album": {
+        "name": "More Or Less",
+        "url": "https://open.spotify.com/album/6h89MkTciHXow6Jc2lcfVL"
+      },
+      "artists": [
+        {
+          "name": "Dan Mangan",
+          "url": "https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n"
+        }
+      ],
+      "duration_ms": 242893,
+      "name": "Lynchpin",
+      "url": "https://open.spotify.com/track/3JqlzKVpYrUFgKuH6VQ9MP"
     },
     {
       "added_at": "2025-05-24 16:32:59",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 
 > Naya Hip\-Hop Hindi! Cover: Siroyi
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,330 likes - 84 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,347 likes - 84 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

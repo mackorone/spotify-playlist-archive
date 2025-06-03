@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFvjKUi5y4xB.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2OQUEjDiPXqgRWrUP6v3mU">Jozzy</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3 likes - 113 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 4 likes - 113 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,14 +96,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFvjKUi5y4xB.md) - [plain]
 | 86 | [Come See About Me](https://open.spotify.com/track/6krlaVoMa32qiHjaqyoFAg) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Good Morning Gorgeous](https://open.spotify.com/album/0vUPpxeQjTDxcvV86y6G18) | 3:28 |
 | 87 | [On My Own](https://open.spotify.com/track/33mpr2hHInkxat4XTj5cMj) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [STAY](https://open.spotify.com/album/733z83e8O7NxUNJvLXmmZp) | 3:44 |
 | 88 | [Love Will Never](https://open.spotify.com/track/050Mdmq9cgmQVqfjXmk507) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Good Morning Gorgeous](https://open.spotify.com/album/0vUPpxeQjTDxcvV86y6G18) | 3:29 |
-| 89 | [Talkin](https://open.spotify.com/track/59a8CMQljChNGgqXCQ0H4G) | [Alex Vaughn](https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq) | [The Hurtbook](https://open.spotify.com/album/3DgrGbWzykeORAYXR0SnUb) | 1:57 |
-| 90 | [Real One](https://open.spotify.com/track/2gtPsXfyc1CHhzAla6AYMd) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [777](https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O) | 2:26 |
+| 89 | [Real One](https://open.spotify.com/track/2gtPsXfyc1CHhzAla6AYMd) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [777](https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O) | 2:26 |
+| 90 | [Talkin](https://open.spotify.com/track/59a8CMQljChNGgqXCQ0H4G) | [Alex Vaughn](https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq) | [The Hurtbook](https://open.spotify.com/album/3DgrGbWzykeORAYXR0SnUb) | 1:57 |
 | 91 | [Failing in Love](https://open.spotify.com/track/7C4UqTnN2qvB32PGzJBSYt) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Good Morning Gorgeous](https://open.spotify.com/album/3nsB4o3510eSLWoFdE6wqA) | 3:18 |
 | 92 | [Love Just Ain't Enough \(feat\. Timbaland\)](https://open.spotify.com/track/6bEEZMWK9sr4LIUlpckKHd) | [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Code Red](https://open.spotify.com/album/6swMxrdIwr5SMa2R3Zfqp9) | 3:22 |
 | 93 | [Come See About Me \(feat\. Fabolous\)](https://open.spotify.com/track/775mTs2XLCRrnJL79TKFYo) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [Good Morning Gorgeous \(Deluxe\)](https://open.spotify.com/album/5K3aBzXwBvSltrtfBNYRl6) | 4:24 |
 | 94 | [Call My Name](https://open.spotify.com/track/4m4wyXlAU06JmgzJMxvOiz) | [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [Code Red](https://open.spotify.com/album/6swMxrdIwr5SMa2R3Zfqp9) | 4:13 |
-| 95 | [Code Red \(feat\. Missy Elliott & Laiyah\)](https://open.spotify.com/track/2xMmmIOl2nUNZ2Dh7MS8rK) | [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Laiyah](https://open.spotify.com/artist/793DeApRlFsQlb9OX2NJoH) | [Code Red](https://open.spotify.com/album/6swMxrdIwr5SMa2R3Zfqp9) | 4:24 |
-| 96 | [Nasty \(Interlude\)](https://open.spotify.com/track/27DFNVHVPunYM8vOFuV92X) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [The Love Album: Off The Grid](https://open.spotify.com/album/1Z67w2JtLfO8D2dP0Mwpy1) | 1:40 |
+| 95 | [Nasty \(Interlude\)](https://open.spotify.com/track/27DFNVHVPunYM8vOFuV92X) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [The Love Album: Off The Grid](https://open.spotify.com/album/1Z67w2JtLfO8D2dP0Mwpy1) | 1:40 |
+| 96 | [Code Red \(feat\. Missy Elliott & Laiyah\)](https://open.spotify.com/track/2xMmmIOl2nUNZ2Dh7MS8rK) | [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Laiyah](https://open.spotify.com/artist/793DeApRlFsQlb9OX2NJoH) | [Code Red](https://open.spotify.com/album/6swMxrdIwr5SMa2R3Zfqp9) | 4:24 |
 | 97 | [Float](https://open.spotify.com/track/3yrb5TaPw3RZLc1e7lxcjS) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP) | [Second Nature](https://open.spotify.com/album/265qYIYPxwGIkeGPfuFFBU) | 3:20 |
 | 98 | [Favorite Shirt](https://open.spotify.com/track/2YIk0lw0WSdsDwWsHKLUtx) | [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Songs For Women, Free Game For Niggas \(Deluxe Edition\)](https://open.spotify.com/album/1IjQ0pJkd3F5w7OSylMaJY) | 3:21 |
 | 99 | [Never Lonely \(feat\. Jozzy\) \[from Insecure: Music From The HBO Original Series, Season 4\]](https://open.spotify.com/track/2DKngADmYRacJPTxEgysqR) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Raedio](https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Never Lonely \(feat\. Jozzy\) \[from Insecure: Music From The HBO Original Series, Season 4\]](https://open.spotify.com/album/1qL3Oe50xzWCWvBAjxibZu) | 2:13 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFvjKUi5y4xB.md) - [plain]
 | 112 | [Songs for Women](https://open.spotify.com/track/5gRUEMbzjBYe146BYIUlXK) | [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Songs for Women, Free Game for Niggas \- EP](https://open.spotify.com/album/64iyjndrqCyY9dbldsSZx1) | 3:28 |
 | 113 | [Funny Friends](https://open.spotify.com/track/7pdXnEdEPcYjWFq03RpFdx) | [Jo'zzy](https://open.spotify.com/artist/0uamFSGtLGcaBgPdI6cnRh) | [Funny Friends](https://open.spotify.com/album/5i41XIJIKOfqqVN4uCsctr) | 2:12 |
 
-Snapshot ID: `AbzAcgAAAACmrt4QMT1TYCWzRKcPl30n`
+Snapshot ID: `AbzF1gAAAAA8HkQr3pIChh6GgpwyfQVv`

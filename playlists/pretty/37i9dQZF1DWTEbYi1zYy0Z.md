@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 
 > So fresh, so smooth\. Cover: Boney James
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,660 likes - 100 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,687 likes - 100 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 99 | [Undulation](https://open.spotify.com/track/5iIWIbNwJRudKJfAzAD7YH) | [Kayla Waters](https://open.spotify.com/artist/20DXNOp0Em8SisS8UjxPiA) | [Undulation](https://open.spotify.com/album/39FFRTCXimTQgkeQ2pBv6d) | 4:53 |
 | 100 | [On Cue](https://open.spotify.com/track/7h6eJosC9GG9AfsnGFJWMc) | [Rick Habana](https://open.spotify.com/artist/1auijsxorLLC20UDzLG7ds), [Ragan Whiteside](https://open.spotify.com/artist/4cvyvGmavtDowPmJMHMlUq) | [On Cue](https://open.spotify.com/album/79jVgrYIs5r3IaSSW6k1uI) | 3:49 |
 
-Snapshot ID: `aDktTgAAAACtirxUShME7dHC5fOaBwP1`
+Snapshot ID: `aDktTgAAAAC0EezavJilaU37PkvoFMqj`

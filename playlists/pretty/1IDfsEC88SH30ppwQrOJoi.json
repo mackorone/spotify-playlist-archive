@@ -1,12 +1,12 @@
 {
   "description": "High energy, club songs from around the world! <a href=\"https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA\">Jaxomy</a> on the cover. Follow <a href=\"http://open.spotify.com/user/ultramusicofficial\">our profile</a> for more playlists.",
-  "num_followers": 14325,
+  "num_followers": 14326,
   "original_name": "Ultra Club Hits",
   "owner": {
     "name": "Ultra Records",
     "url": "https://open.spotify.com/user/ultramusicofficial"
   },
-  "snapshot_id": "AAAKW//9dsCZ8eq3ElnmbvmiJ/0jdL1f",
+  "snapshot_id": "AAAKXQOOWbNb1RpsH7xailj8pQxmpydA",
   "tracks": [
     {
       "added_at": "2024-04-26 12:50:00",
@@ -2723,6 +2723,42 @@
       "duration_ms": 219677,
       "name": "The Moment",
       "url": "https://open.spotify.com/track/0POaQOUC3UylJONLtU3LSL"
+    },
+    {
+      "added_at": "2025-06-02 13:54:26",
+      "album": {
+        "name": "Tivoli (KREAM Remix)",
+        "url": "https://open.spotify.com/album/5dV5M5LZ7wQDfAYp039hO6"
+      },
+      "artists": [
+        {
+          "name": "Steve Angello",
+          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+        },
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "duration_ms": 194960,
+      "name": "Tivoli (KREAM Remix)",
+      "url": "https://open.spotify.com/track/2XpnR1Ly4bKk7K2sxJkM7U"
+    },
+    {
+      "added_at": "2025-06-02 13:57:48",
+      "album": {
+        "name": "Wet Mode",
+        "url": "https://open.spotify.com/album/2zJnjm8f9oJjOnnnRhRYMw"
+      },
+      "artists": [
+        {
+          "name": "Aphesta",
+          "url": "https://open.spotify.com/artist/7zWSFa0jzUynkGowMgzH46"
+        }
+      ],
+      "duration_ms": 149959,
+      "name": "La Bomba",
+      "url": "https://open.spotify.com/track/3mp0R7UzCB9tP0tjBCtGr0"
     }
   ],
   "unique_name": "Ultra Club Hits",

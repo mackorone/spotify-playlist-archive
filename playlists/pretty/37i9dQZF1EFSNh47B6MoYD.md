@@ -117,8 +117,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 107 | [Somos Panamá](https://open.spotify.com/track/6h0h3gP5pNvoRv0MFGtIcW) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Panamá Mía](https://open.spotify.com/album/11NwW5Y133MwLsll261Lzv) | 3:02 |
 | 108 | [Donde \(Xeque\-Mate\)](https://open.spotify.com/track/314hiE2Yr06A9gDHNg7Pyr) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq), [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp) | [Donde \(Xeque\-Mate\)](https://open.spotify.com/album/06ZepOfHjDSp99jAECXmjW) | 3:26 |
 | 109 | [En Exclusiva](https://open.spotify.com/track/2DjMvChCKP3nOoQ9VlKcxW) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Erika Músika](https://open.spotify.com/album/718iVK5qShRrlc1ESGXu8Q) | 4:26 |
-| 110 | [Soy Lo Que Soy](https://open.spotify.com/track/1wv1manNi61gGyXnKtrDDC) | [Banda Fortuna](https://open.spotify.com/artist/7tdLl1TJQ80SBEBGN8r0AY) | [Porque La Fortuna Es Tuya](https://open.spotify.com/album/6RsPPBohTTFjGyEa7sbf1g) | 3:00 |
-| 111 | [Back to the Basics](https://open.spotify.com/track/1u3e9Vhg9LYv6GvLN6xqUD) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Back to the Basics](https://open.spotify.com/album/6foXmtdGJFnpyzdolnSTpM) | 3:28 |
+| 110 | [Back to the Basics](https://open.spotify.com/track/1u3e9Vhg9LYv6GvLN6xqUD) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Back to the Basics](https://open.spotify.com/album/6foXmtdGJFnpyzdolnSTpM) | 3:28 |
+| 111 | [Soy Lo Que Soy](https://open.spotify.com/track/1wv1manNi61gGyXnKtrDDC) | [Banda Fortuna](https://open.spotify.com/artist/7tdLl1TJQ80SBEBGN8r0AY) | [Porque La Fortuna Es Tuya](https://open.spotify.com/album/6RsPPBohTTFjGyEa7sbf1g) | 3:00 |
 | 112 | [Por Eso Me Voy](https://open.spotify.com/track/6wmG6oTCXdGzo2lqrKN5GQ) | [Christian Pagán](https://open.spotify.com/artist/2xdAxBwqgTeQmJs5CZwC4Z), [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [De Miles A Uno](https://open.spotify.com/album/2zasLrVORM3LSxqGNVbhzX) | 3:55 |
 | 113 | [Mañana Es Muy Tarde](https://open.spotify.com/track/7ktVgQqSv1WacAf0KEym73) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Dentro Y Fuera](https://open.spotify.com/album/6kwCKTwZI1wgBQZzK2NKAf) | 3:45 |
 | 114 | [Ten Cuidao \- En Vivo](https://open.spotify.com/track/1Cb0jvXLZAaXeQpxMErBrD) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [En Concierto \(En Vivo\)](https://open.spotify.com/album/6PqPQj8baWFcoxKk4G8eTx) | 3:35 |
@@ -152,4 +152,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 142 | [Entre el Piano y el Amor](https://open.spotify.com/track/6LRGICKeYv2OgYtpjGPtmY) | [Fernando Acosta](https://open.spotify.com/artist/4nTDn2UoT14TUvuNn05NM5) | [Entre el Piano y el Amor](https://open.spotify.com/album/5zPHOmWSNzyncdUinKCVZJ) | 4:38 |
 | 143 | [A Punto de Naufragar](https://open.spotify.com/track/0CMlI2cENOzR1xsBohRovm) | [Fernando Acosta](https://open.spotify.com/artist/4nTDn2UoT14TUvuNn05NM5) | [Entre el Piano y el Amor](https://open.spotify.com/album/5zPHOmWSNzyncdUinKCVZJ) | 4:29 |
 
-Snapshot ID: `AbzAQAAAAACDmqr1egrOW1ggYbCDRSGs`
+Snapshot ID: `AbzGEgAAAAC17bKBnz/A/1HMte4HySbG`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Ryan Castro, Myke Towers & Quevedo, Aitana, Ángela Aguilar and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 615,897 likes - 52 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 615,923 likes - 52 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 13 | [El Problema \(2020\)](https://open.spotify.com/track/5C5MyN6NWwcvcJNud1bkEp) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [El Problema \(2020\)](https://open.spotify.com/album/7A7fxgXTMgJ0qGnMIzj0YG) | 2:30 |
 | 14 | [Volver a Verte](https://open.spotify.com/track/5tQSwzIY7MUXsGD2pVrpCB) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX), [Zaider](https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz) | [Volver a Verte](https://open.spotify.com/album/6xn0R7Iv47dIgId3xv9zaw) | 3:03 |
 | 15 | [Huir](https://open.spotify.com/track/4F4bjPeMNJDrGK1FJW215W) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Lia Kali](https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89) | [Huir](https://open.spotify.com/album/58OJHw3hvgRhaoQHlmGV08) | 2:28 |
-| 16 | [Dices](https://open.spotify.com/track/5SrslfaStQIlKKIwDDKx3n) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [Dices](https://open.spotify.com/album/2Gimm3eroIJ7USyse1tHdG) | 3:33 |
+| 16 | [Dices \(Bonus Track\)](https://open.spotify.com/track/5SrslfaStQIlKKIwDDKx3n) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [Dices \(Bonus Track\)](https://open.spotify.com/album/2Gimm3eroIJ7USyse1tHdG) | 3:33 |
 | 17 | [Seguimo a lo Under](https://open.spotify.com/track/2jfN0x37f1x3w0PNwLMnxZ) | [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Nico Canada](https://open.spotify.com/artist/0yqEvM2Huy4NWzhKK7hPFF) | [Seguimo a lo Under](https://open.spotify.com/album/7Bev0mIjfx6a9DKV6DHgsk) | 2:19 |
 | 18 | [Mal Escrito](https://open.spotify.com/track/6MAqeJpsP5at9E4XxHC9Hj) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Malú](https://open.spotify.com/artist/3TLGNOdp1UWYMnV5XG9HkR) | [Mal Escrito](https://open.spotify.com/album/17oWbo1RgkBhXCdRcwJEFs) | 3:01 |
 | 19 | [Es Tan Corta la Vida](https://open.spotify.com/track/7gySsUqpWJhn76VDeAAV3Y) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Es Tan Corta la Vida](https://open.spotify.com/album/5kvEHpZK5jxDLnthN7GB5D) | 2:48 |

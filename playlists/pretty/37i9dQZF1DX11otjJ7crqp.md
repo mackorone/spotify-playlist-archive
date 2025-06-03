@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > All this week's best new pop releases\. Cover: Conan Gray
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,945 likes - 170 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,502 likes - 170 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 45 | [trying to forget](https://open.spotify.com/track/1GHdmBcOxQSIVDJkqRuZIy) | [Ally Bakst](https://open.spotify.com/artist/2KvrULKGb5VQs6eZysNU11) | [in my head](https://open.spotify.com/album/7xVHnGKfYZNGwng4S59neP) | 3:00 |
 | 46 | [fallin](https://open.spotify.com/track/6J89QL6f71Lj6MOlNxtKbd) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [fallin](https://open.spotify.com/album/456qNRSk1ZPn8JZfuccAoL) | 2:36 |
 | 47 | [Summer Nights](https://open.spotify.com/track/03sfZuHY4SFlPaWoC5vLup) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [myne](https://open.spotify.com/artist/34WPfL387QxZ5t8epiRnTL) | [Summer Nights](https://open.spotify.com/album/0fhDL3ImX8l2gI0qpIG5Ql) | 2:42 |
-| 48 | [Marianne](https://open.spotify.com/track/0SE3l5jJOpGxqXqvT3fkhS) | [Eli](https://open.spotify.com/artist/3z4L3novn4XHxQiHUsoCqP) | [Marianne](https://open.spotify.com/album/0ucvu4XHxscTNmujLfQTQs) | 3:10 |
+| 48 | [Marianne](https://open.spotify.com/track/0SE3l5jJOpGxqXqvT3fkhS) | [Eli](https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1) | [Marianne](https://open.spotify.com/album/0ucvu4XHxscTNmujLfQTQs) | 3:10 |
 | 49 | [blonde](https://open.spotify.com/track/2yRUkIXdgVvyXmd2oInA1n) | [Lily Knott](https://open.spotify.com/artist/5aMFV1cLrvinPeoITxMFhW) | [blonde](https://open.spotify.com/album/3avpX068ebxCGzHCPUuTFk) | 2:52 |
 | 50 | [Swedish Girl](https://open.spotify.com/track/4KDxyRMRBTmjZ7sgfqJrPg) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [Swedish Girl](https://open.spotify.com/album/2HQ34fRPNtVvWJjXo101Yo) | 2:33 |
 | 51 | [Spiral](https://open.spotify.com/track/1WVKamUNm7hBCFrbXMyPWY) | [Luna Jones](https://open.spotify.com/artist/6ZAC4z2jh5hlryaE1pv0pN) | [Spiral](https://open.spotify.com/album/7qcRGXRDEsNa4A8NnbZKDs) | 3:40 |
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 169 | [DROP TOP](https://open.spotify.com/track/63gioPx2WipyXiigLMf1nB) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [MY EYES OPEN VVIDE](https://open.spotify.com/album/4n3pIffNB5CVVBmfhATTo8) | 3:15 |
 | 170 | [Candy](https://open.spotify.com/track/0msaU8EK13ajrXaF3SqoKy) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Off With Her Head \(Deluxe\)](https://open.spotify.com/album/4bcWoSYbchMcE9vz8SWAFU) | 2:43 |
 
-Snapshot ID: `AAAAANU7rTqn3CGTz+ueEW+I5ubiXkFG`
+Snapshot ID: `aDktTwAAAACg+8/pRpKefd+ZIMYvMcee`

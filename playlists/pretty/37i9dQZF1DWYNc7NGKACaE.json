@@ -163,6 +163,26 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
+        "name": "Plug! (Speed Plug)",
+        "url": "https://open.spotify.com/album/16zg9fzXtFEqb0q0367yxd"
+      },
+      "artists": [
+        {
+          "name": "Muzzi",
+          "url": "https://open.spotify.com/artist/6J9B0QuNm4QTuyjsHveigy"
+        },
+        {
+          "name": "Edubeatz",
+          "url": "https://open.spotify.com/artist/1uAxRk8YHpAKbwCG2xNlf8"
+        }
+      ],
+      "duration_ms": 102250,
+      "name": "Plug! (Speed Plug)",
+      "url": "https://open.spotify.com/track/3LZIqLS8BfUZp9T1k39IZb"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
         "name": "202 (Speed)",
         "url": "https://open.spotify.com/album/6uH5sAKYYfL8BdqI2YOmhJ"
       },
@@ -187,26 +207,6 @@
       "duration_ms": 142006,
       "name": "202 - Speed",
       "url": "https://open.spotify.com/track/29wpflca4iReYa4UX7lSYg"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
-        "name": "Plug! (Speed Plug)",
-        "url": "https://open.spotify.com/album/16zg9fzXtFEqb0q0367yxd"
-      },
-      "artists": [
-        {
-          "name": "Muzzi",
-          "url": "https://open.spotify.com/artist/6J9B0QuNm4QTuyjsHveigy"
-        },
-        {
-          "name": "Edubeatz",
-          "url": "https://open.spotify.com/artist/1uAxRk8YHpAKbwCG2xNlf8"
-        }
-      ],
-      "duration_ms": 102250,
-      "name": "Plug! (Speed Plug)",
-      "url": "https://open.spotify.com/track/3LZIqLS8BfUZp9T1k39IZb"
     },
     {
       "added_at": "2024-07-08 19:10:57",
@@ -727,6 +727,22 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
+        "name": "SPEED Versions",
+        "url": "https://open.spotify.com/album/5hqTK4W81BhI8srFdaCIyw"
+      },
+      "artists": [
+        {
+          "name": "rs9",
+          "url": "https://open.spotify.com/artist/3pg4wlhwWAUDvmONc1O0i9"
+        }
+      ],
+      "duration_ms": 106392,
+      "name": "Plug do S\u00e3o Jo\u00e3o SPEED",
+      "url": "https://open.spotify.com/track/5aIwsGfLgCrafntNMP8S2l"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
         "name": "Sou Eu (Speed)",
         "url": "https://open.spotify.com/album/0ImQiX9qXLJPxNm70WS0F6"
       },
@@ -747,22 +763,6 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
-        "name": "SPEED Versions",
-        "url": "https://open.spotify.com/album/5hqTK4W81BhI8srFdaCIyw"
-      },
-      "artists": [
-        {
-          "name": "rs9",
-          "url": "https://open.spotify.com/artist/3pg4wlhwWAUDvmONc1O0i9"
-        }
-      ],
-      "duration_ms": 106392,
-      "name": "Plug do S\u00e3o Jo\u00e3o SPEED",
-      "url": "https://open.spotify.com/track/5aIwsGfLgCrafntNMP8S2l"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
         "name": "011 \u00c9 o Ddd",
         "url": "https://open.spotify.com/album/3dqDCBoecBp7CqMbxP5pjj"
       },
@@ -779,6 +779,30 @@
       "duration_ms": 144302,
       "name": "011 \u00c9 o Ddd - Speed Up",
       "url": "https://open.spotify.com/track/5cAeEKEsxXj6RpzGhJUgyG"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
+        "name": "Manda \u00c1udio (Sped Funk)",
+        "url": "https://open.spotify.com/album/0zuN31JROjiQnzQm0KGtkk"
+      },
+      "artists": [
+        {
+          "name": "Penedo",
+          "url": "https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        },
+        {
+          "name": "Tkd",
+          "url": "https://open.spotify.com/artist/1GYx2LBI5bt0xRUpvdGYYt"
+        }
+      ],
+      "duration_ms": 99759,
+      "name": "Manda \u00c1udio (Sped Funk)",
+      "url": "https://open.spotify.com/track/0Xawar2jiwMz36PD5M1gJ0"
     },
     {
       "added_at": "2024-07-08 19:10:57",
@@ -811,30 +835,6 @@
       "duration_ms": 75971,
       "name": "Ela T\u00e1 Querendo - Remix",
       "url": "https://open.spotify.com/track/3AB3etyCs8orfDXKB7OVez"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
-        "name": "Manda \u00c1udio (Sped Funk)",
-        "url": "https://open.spotify.com/album/0zuN31JROjiQnzQm0KGtkk"
-      },
-      "artists": [
-        {
-          "name": "Penedo",
-          "url": "https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T"
-        },
-        {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
-        },
-        {
-          "name": "Tkd",
-          "url": "https://open.spotify.com/artist/1GYx2LBI5bt0xRUpvdGYYt"
-        }
-      ],
-      "duration_ms": 99759,
-      "name": "Manda \u00c1udio (Sped Funk)",
-      "url": "https://open.spotify.com/track/0Xawar2jiwMz36PD5M1gJ0"
     },
     {
       "added_at": "2024-07-08 19:10:57",

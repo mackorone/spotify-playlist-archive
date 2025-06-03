@@ -4,7 +4,7 @@
 
 > Start your morning right with this collection of funky, soulful, jazzy tunes.
 
-308 songs - 19 hr 50 min
+310 songs - 19 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Baby Teeth](https://open.spotify.com/track/5tOG1r4LehagewzOCEBOfb) | [Girlhood](https://open.spotify.com/artist/1zmozsuAfLwrawutG7x9VA) | [Girlhood Vol\. 1](https://open.spotify.com/album/54t1EkbtMPWHBVsMunKp7e) | 2:46 | 2024-04-11 | 2024-11-23 |
 | [Back for More](https://open.spotify.com/track/5XMO90auPHxUwZtTmWaCP5) | [Cool Million](https://open.spotify.com/artist/40pKzFK6Z2CnPOaaMqC7lG), [Eugene Wilde](https://open.spotify.com/artist/0RrDVgg5a8CuIshK0Wnpjv) | [Back for More](https://open.spotify.com/album/7Ebqd2aKNcelzNbTvG9glF) | 4:32 | 2021-12-13 | 2022-01-11 |
 | [Back of My Hand \(Live\)](https://open.spotify.com/track/2luK9cqWdNKliKj7xQVaa3) | [Stephen Day](https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5), [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Original Songs and Sound \(Deluxe Version\)](https://open.spotify.com/album/09wgEiUurhXuqsEOrpk1ud) | 4:25 | 2021-12-13 | 2022-12-03 |
+| [Backline](https://open.spotify.com/track/5Gy7Y76JiEIq9G8gFwhKzh) | [Rob de Boer](https://open.spotify.com/artist/0sTfdqZ9u7yVZCNzRl9qFX) | [Man to You](https://open.spotify.com/album/7LeMwzTaHAdDzXeQfKxb09) | 2:35 | 2025-06-02 |  |
 | [Backpack](https://open.spotify.com/track/7hAhUocEpwCc91YlDkhHCP) | [Shamis](https://open.spotify.com/artist/6zJSQoZfurX2beU3qbe717), [Rebiere](https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y) | [Backpack](https://open.spotify.com/album/23VitqlOhg49f9RSxVNqAF) | 5:11 | 2024-02-23 | 2024-10-26 |
 | [Bad Feeling](https://open.spotify.com/track/5L3rFG7ttfr4OK87dbUfle) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Influence EP](https://open.spotify.com/album/6znFcVbDZJpb6w4bSdRrXv) | 3:26 | 2021-12-13 | 2022-06-17 |
 | [Bat \(For You\)](https://open.spotify.com/track/2vC2SmmDqsXEIK6JL29siK) | [MMYYKK](https://open.spotify.com/artist/1tCMk7g0K58M82X2kNxlGT) | [ElectroSoul](https://open.spotify.com/album/7asruEMSmzaLp7FPOJEs32) | 2:49 | 2024-07-26 |  |
@@ -58,6 +59,7 @@
 | [Changes](https://open.spotify.com/track/2BRlr1GWfNxtZllyf5YB17) | [Stefan Sands](https://open.spotify.com/artist/63iNYBnrXorH2RsjM1KOfv) | [Changes](https://open.spotify.com/album/2oow0cVzVXw7FOAxKyjD1v) | 3:32 | 2025-02-10 |  |
 | [Cinnamon Curls](https://open.spotify.com/track/4GSEf95lL4csXQlT2RGfOe) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Cinnamon Curls](https://open.spotify.com/album/49F31VHQxwOLpTRBsQboBL) | 4:06 | 2025-04-04 |  |
 | [Cold](https://open.spotify.com/track/4saR4OyR8NalWxaDjN5cVf) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx), [Myles Sanko](https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G) | [Cold](https://open.spotify.com/album/1sdWZoa3udg3L1l3EuNk8j) | 3:57 | 2024-06-28 |  |
+| [Coltrane](https://open.spotify.com/track/5bkI4gJhfKheZ5WwgjvN5c) | [Cymande](https://open.spotify.com/artist/4hfcSstwnyuBoek1dQwLkG) | [Renascence](https://open.spotify.com/album/0jHsTZnD9lsOWvZBkVtNDY) | 4:51 | 2025-06-02 |  |
 | [Come Home \(feat\. André 3000\)](https://open.spotify.com/track/6RpunyUP44SDweJPDScLSF) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [Ventura](https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY) | 4:26 | 2022-12-05 | 2025-03-08 |
 | [Come In My Kitchen](https://open.spotify.com/track/2Vr3sHONmr4oBHkim59hAw) | [Diplomats of Solid Sound](https://open.spotify.com/artist/2BNkflUlJ7uUr06ltR93mU), [The Diplomettes](https://open.spotify.com/artist/33sEjzZ7kpL9bnsrRy4D78) | [S/t](https://open.spotify.com/album/6N05syPvpoGsL5ZOnqQwQs) | 3:24 | 2021-12-13 | 2022-04-29 |
 | [Come on with the Good Thing](https://open.spotify.com/track/2oy3lFLrv7iO7XqhvEpBLB) | [MF Robots](https://open.spotify.com/artist/3gfBx0SvMGdMQ2ZsjPvIV4) | [Music for Robots](https://open.spotify.com/album/63Op2LSvKkLkbKxTIUkwwc) | 5:19 | 2021-12-13 | 2022-05-18 |
@@ -183,7 +185,7 @@
 | [Neon Noir](https://open.spotify.com/track/36YNheAQ0FKZ4I9qaYIY6P) | [QUANZA](https://open.spotify.com/artist/7hs8g3jBavjFRILV4XJlTy) | [Neon Noir](https://open.spotify.com/album/5dQ3Erj2BjGL1XjCL9PS5i) | 4:40 | 2021-12-13 | 2022-04-29 |
 | [Never Again](https://open.spotify.com/track/7cupwop4yM9LIjKcKSCTai) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [Never Again](https://open.spotify.com/album/50xj6Y8y3UbmoqzkrOHFkO) | 3:34 | 2024-10-25 |  |
 | [New Day \(Otis Parham\)](https://open.spotify.com/track/4Za8yDzEhc8uZMBQRkiaGr) | [Sean C\. Johnson](https://open.spotify.com/artist/6jwSgdzEmAv7K0c4G8kq1H) | [New Day \(Otis Parham\)](https://open.spotify.com/album/03ytEPT6foahNKKrJMoGgm) | 3:15 | 2021-12-13 | 2022-10-01 |
-| [No Matter What They Say](https://open.spotify.com/track/7FNuJJ4vC8gRZqdIZfZ28U) | [Kymara](https://open.spotify.com/artist/0fpdyv56I16Z3FyGnN5xR7) | [No Matter What They Say](https://open.spotify.com/album/2C5XfFX5Ur1uSh5EMrTVsz) | 3:32 | 2023-10-03 |  |
+| [No Matter What They Say](https://open.spotify.com/track/7FNuJJ4vC8gRZqdIZfZ28U) | [Kymara](https://open.spotify.com/artist/0fpdyv56I16Z3FyGnN5xR7) | [No Matter What They Say](https://open.spotify.com/album/2C5XfFX5Ur1uSh5EMrTVsz) | 3:32 | 2023-10-03 | 2025-06-03 |
 | [No One's Watching Me \- feat\. Olivia Dean](https://open.spotify.com/track/0g8prUwwlED3F3y0ZNe8p0) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Dance, No One's Watching](https://open.spotify.com/album/08jeayZieCHTosu0K5tzf9) | 4:22 | 2025-05-19 |  |
 | [No Reply](https://open.spotify.com/track/2VbNBhOi7n7WX1yCVfy77I) | [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l) | [No Reply](https://open.spotify.com/album/5yMxPV2nkSUlpzLfm2q0VJ) | 2:57 | 2021-12-13 | 2024-08-03 |
 | [No Reply](https://open.spotify.com/track/3K7WdPYz7vcHMCsyBjK9vL) | [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l) | [No Reply](https://open.spotify.com/album/3eUHennkieRuxq8S1mclhY) | 2:57 | 2022-10-14 | 2024-04-19 |
@@ -205,7 +207,7 @@
 | [Pure Gold](https://open.spotify.com/track/3ZS0ao05ZDmPSO4q1riUf3) | [Liquid Spirits](https://open.spotify.com/artist/1Mpk8lMyFVI8UOe4MivsJJ) | [Pure Gold](https://open.spotify.com/album/3zjqX3wVedOOx9yRANaUTS) | 2:49 | 2022-04-28 | 2025-01-11 |
 | [R.L.M](https://open.spotify.com/track/7xrp1M7PQfRh5fsT8dOGnj) | [MRCY](https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh) | [R.L.M](https://open.spotify.com/album/5jk1ZbZsxdmcKNFKmDO2nF) | 3:45 | 2024-09-20 |  |
 | [Red Moon](https://open.spotify.com/track/44tb4TdFVliafU17EQg28J) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Red Moon](https://open.spotify.com/album/1ThA4wB67vZ6r540BIRbAa) | 3:32 | 2025-05-19 |  |
-| [Reverence](https://open.spotify.com/track/5HsDGaUBBBWBCpIjpHuB2T) | [Re:um](https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe) | [Reverence](https://open.spotify.com/album/6l1B36T3ydZoaEdxtNrw5m) | 2:19 | 2024-06-28 |  |
+| [Reverence](https://open.spotify.com/track/5HsDGaUBBBWBCpIjpHuB2T) | [Re:um](https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe) | [Reverence](https://open.spotify.com/album/6l1B36T3ydZoaEdxtNrw5m) | 2:19 | 2024-06-28 | 2025-06-03 |
 | [Rewind](https://open.spotify.com/track/0jL1liKSwSLIfX7IdXt5jW) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [Rewind](https://open.spotify.com/album/264U9Nc6nLZFf6n3FatCnc) | 2:44 | 2025-05-14 |  |
 | [Ringing With Love](https://open.spotify.com/track/2CcosXxDkanGpGMCjX3UeZ) | [Noa Lauryn](https://open.spotify.com/artist/6bukZqzHUL1BdEXfa1wLz9), [Maddy Moreah](https://open.spotify.com/artist/0ITnYfCgaZPWFXJ2Yir6gY), [DAVIES](https://open.spotify.com/artist/04q7KeD8GMTsUEtIqO4N4Y) | [Ringing With Love](https://open.spotify.com/album/3yAEUE3qdYhA2qqoA1GULk) | 3:10 | 2025-02-10 |  |
 | [Rise](https://open.spotify.com/track/5IHTebQWVq7axBYbKcpstz) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Rise](https://open.spotify.com/album/5h38EAp7olx8LgrfGyyxnf) | 3:03 | 2024-08-02 |  |

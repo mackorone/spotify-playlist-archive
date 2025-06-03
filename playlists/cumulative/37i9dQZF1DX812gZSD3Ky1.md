@@ -2,7 +2,7 @@
 
 ### [Viral Hits Thailand](https://open.spotify.com/playlist/37i9dQZF1DX812gZSD3Ky1)
 
-> เพลงสากลฮิต และเพลงในกระแสตอนนี้\. ศิลปิน: Elliot James Reay
+> ปกพิเศษวันกอดแมวสากล! เพลงสากลฮิต และเพลงในกระแสตอนนี้\. ศิลปิน: WIM
 
 589 songs - 1 day 7 hr 51 min
 

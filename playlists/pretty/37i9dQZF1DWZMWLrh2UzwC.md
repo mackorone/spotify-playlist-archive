@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Mimifly, Miley Cyrus, Lorde, Zynakal, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,756 likes - 122 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,760 likes - 122 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 93378,
+  "num_followers": 93377,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -439,22 +439,6 @@
     {
       "added_at": "2025-05-29 22:00:27",
       "album": {
-        "name": "Goodwill",
-        "url": "https://open.spotify.com/album/0HegWmmtx1ptOmFGDCvL7G"
-      },
-      "artists": [
-        {
-          "name": "Weeping Willows",
-          "url": "https://open.spotify.com/artist/6f3he2xOHHHSZ0JVhTRIVj"
-        }
-      ],
-      "duration_ms": 316124,
-      "name": "Love Is Everywhere",
-      "url": "https://open.spotify.com/track/0NRT9PQ5zQtGKPQqXAVbMb"
-    },
-    {
-      "added_at": "2025-05-29 22:00:27",
-      "album": {
         "name": "Andetag",
         "url": "https://open.spotify.com/album/1JB6bXA1MbGzHRHuAIX86o"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 215546,
       "name": "Andetag",
       "url": "https://open.spotify.com/track/53Gb8cD4FeyswcA9S1HyQ2"
+    },
+    {
+      "added_at": "2025-05-29 22:00:27",
+      "album": {
+        "name": "Goodwill",
+        "url": "https://open.spotify.com/album/0HegWmmtx1ptOmFGDCvL7G"
+      },
+      "artists": [
+        {
+          "name": "Weeping Willows",
+          "url": "https://open.spotify.com/artist/6f3he2xOHHHSZ0JVhTRIVj"
+        }
+      ],
+      "duration_ms": 316124,
+      "name": "Love Is Everywhere",
+      "url": "https://open.spotify.com/track/0NRT9PQ5zQtGKPQqXAVbMb"
     },
     {
       "added_at": "2025-05-29 22:00:27",
@@ -979,22 +979,6 @@
     {
       "added_at": "2025-05-29 22:00:27",
       "album": {
-        "name": "Dagar utan slut",
-        "url": "https://open.spotify.com/album/11bnmwGiPmxTDtbnBPxSq3"
-      },
-      "artists": [
-        {
-          "name": "Andreas Weise",
-          "url": "https://open.spotify.com/artist/0G74PWccc2UbEEHNKVVaKB"
-        }
-      ],
-      "duration_ms": 162332,
-      "name": "Dagar utan slut",
-      "url": "https://open.spotify.com/track/4lJ8etGLqabsSiJSmcHVWU"
-    },
-    {
-      "added_at": "2025-05-29 22:00:27",
-      "album": {
         "name": "Forgetting To Forget You",
         "url": "https://open.spotify.com/album/11EYPT9zI046s68U5vgDzn"
       },
@@ -1011,18 +995,18 @@
     {
       "added_at": "2025-05-29 22:00:27",
       "album": {
-        "name": "Via Dolorosa, Maria Magdalenas k\u00e4rlek",
-        "url": "https://open.spotify.com/album/2jQQCQDZUQu6VS2G658Ts0"
+        "name": "Dagar utan slut",
+        "url": "https://open.spotify.com/album/11bnmwGiPmxTDtbnBPxSq3"
       },
       "artists": [
         {
-          "name": "Carola",
-          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
+          "name": "Andreas Weise",
+          "url": "https://open.spotify.com/artist/0G74PWccc2UbEEHNKVVaKB"
         }
       ],
-      "duration_ms": 251200,
-      "name": "Han lever (Himmelsf\u00e4rden)",
-      "url": "https://open.spotify.com/track/4NFx0vyHFKhGKXT99ecdNq"
+      "duration_ms": 162332,
+      "name": "Dagar utan slut",
+      "url": "https://open.spotify.com/track/4lJ8etGLqabsSiJSmcHVWU"
     },
     {
       "added_at": "2025-05-29 22:00:27",
@@ -1047,6 +1031,22 @@
       "duration_ms": 238226,
       "name": "H\u00f6r mig!",
       "url": "https://open.spotify.com/track/4dyQBbtqbsbh23yWPc7Gqu"
+    },
+    {
+      "added_at": "2025-05-29 22:00:27",
+      "album": {
+        "name": "Via Dolorosa, Maria Magdalenas k\u00e4rlek",
+        "url": "https://open.spotify.com/album/2jQQCQDZUQu6VS2G658Ts0"
+      },
+      "artists": [
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
+        }
+      ],
+      "duration_ms": 251200,
+      "name": "Han lever (Himmelsf\u00e4rden)",
+      "url": "https://open.spotify.com/track/4NFx0vyHFKhGKXT99ecdNq"
     },
     {
       "added_at": "2025-05-29 22:00:27",
@@ -1087,6 +1087,26 @@
       "duration_ms": 208571,
       "name": "Til the music starts again",
       "url": "https://open.spotify.com/track/68hnuOkBpjcx2p1nJqbYR1"
+    },
+    {
+      "added_at": "2025-05-29 22:00:27",
+      "album": {
+        "name": "Maja H\u00f6nstjuv",
+        "url": "https://open.spotify.com/album/12gQc5Gu8LolcsQzFvc7Sd"
+      },
+      "artists": [
+        {
+          "name": "Larz-Kristerz",
+          "url": "https://open.spotify.com/artist/17KXKtZXlDTWr7lHCsnNQ3"
+        },
+        {
+          "name": "Mariette",
+          "url": "https://open.spotify.com/artist/76nW12AUcUVEiC8fwFoAns"
+        }
+      ],
+      "duration_ms": 204560,
+      "name": "Maja H\u00f6nstjuv",
+      "url": "https://open.spotify.com/track/7pntr5gKTnl51C3NV1fPBG"
     },
     {
       "added_at": "2025-05-29 22:00:27",
@@ -1171,22 +1191,18 @@
     {
       "added_at": "2025-05-29 22:00:27",
       "album": {
-        "name": "Maja H\u00f6nstjuv",
-        "url": "https://open.spotify.com/album/12gQc5Gu8LolcsQzFvc7Sd"
+        "name": "Country Tack Vare Er",
+        "url": "https://open.spotify.com/album/2sXz2Jq8DLIO07jujbXavD"
       },
       "artists": [
         {
-          "name": "Larz-Kristerz",
-          "url": "https://open.spotify.com/artist/17KXKtZXlDTWr7lHCsnNQ3"
-        },
-        {
-          "name": "Mariette",
-          "url": "https://open.spotify.com/artist/76nW12AUcUVEiC8fwFoAns"
+          "name": "Erika Jonsson",
+          "url": "https://open.spotify.com/artist/3hmxqVdRQUfpPNDpV5VqLx"
         }
       ],
-      "duration_ms": 204560,
-      "name": "Maja H\u00f6nstjuv",
-      "url": "https://open.spotify.com/track/7pntr5gKTnl51C3NV1fPBG"
+      "duration_ms": 207184,
+      "name": "Country Tack Vare Er",
+      "url": "https://open.spotify.com/track/0WjdxPtgxzlHrOCil5b1DL"
     },
     {
       "added_at": "2025-05-29 22:00:27",
@@ -1203,22 +1219,6 @@
       "duration_ms": 215504,
       "name": "Seven Days Of Heaven",
       "url": "https://open.spotify.com/track/4FdVXLaBpWLNshAzXP4WAa"
-    },
-    {
-      "added_at": "2025-05-29 22:00:27",
-      "album": {
-        "name": "Country Tack Vare Er",
-        "url": "https://open.spotify.com/album/2sXz2Jq8DLIO07jujbXavD"
-      },
-      "artists": [
-        {
-          "name": "Erika Jonsson",
-          "url": "https://open.spotify.com/artist/3hmxqVdRQUfpPNDpV5VqLx"
-        }
-      ],
-      "duration_ms": 207184,
-      "name": "Country Tack Vare Er",
-      "url": "https://open.spotify.com/track/0WjdxPtgxzlHrOCil5b1DL"
     },
     {
       "added_at": "2025-05-29 22:00:27",
@@ -1287,6 +1287,26 @@
     {
       "added_at": "2025-05-29 22:00:27",
       "album": {
+        "name": "V\u00e5rens sista dag",
+        "url": "https://open.spotify.com/album/13ashXdwC7vLnIzHxoj3r9"
+      },
+      "artists": [
+        {
+          "name": "Peter \u00c5berg",
+          "url": "https://open.spotify.com/artist/6w3u7zBIx64OqhpYoBfwfL"
+        },
+        {
+          "name": "Annika Wickihalder",
+          "url": "https://open.spotify.com/artist/6GmRbmLWorahORMpb3T7of"
+        }
+      ],
+      "duration_ms": 159624,
+      "name": "V\u00e5rens sista dag",
+      "url": "https://open.spotify.com/track/4zdxv1jc9eFaH4aTouIG3p"
+    },
+    {
+      "added_at": "2025-05-29 22:00:27",
+      "album": {
         "name": "A Sinner's Life",
         "url": "https://open.spotify.com/album/5Nifo1lIWSMahJWQWbTZjQ"
       },
@@ -1315,6 +1335,26 @@
       "duration_ms": 189250,
       "name": "R\u00e4dda mig - Akustisk Version",
       "url": "https://open.spotify.com/track/2kyaSOYJpZ6pDS2YVSuxtN"
+    },
+    {
+      "added_at": "2025-05-29 22:00:27",
+      "album": {
+        "name": "Du l\u00e4ngtar bort",
+        "url": "https://open.spotify.com/album/6QNGCI3PqSDORrueoaC5wK"
+      },
+      "artists": [
+        {
+          "name": "Svenska Akademien",
+          "url": "https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS"
+        },
+        {
+          "name": "Kristin Amparo",
+          "url": "https://open.spotify.com/artist/2vxWDuk2inw00eo3Hag2QR"
+        }
+      ],
+      "duration_ms": 273287,
+      "name": "Du l\u00e4ngtar bort",
+      "url": "https://open.spotify.com/track/7wHzj6EPkLK8GasG0NVFe0"
     },
     {
       "added_at": "2025-05-29 22:00:27",
@@ -1351,26 +1391,6 @@
     {
       "added_at": "2025-05-29 22:00:27",
       "album": {
-        "name": "V\u00e5rens sista dag",
-        "url": "https://open.spotify.com/album/13ashXdwC7vLnIzHxoj3r9"
-      },
-      "artists": [
-        {
-          "name": "Peter \u00c5berg",
-          "url": "https://open.spotify.com/artist/6w3u7zBIx64OqhpYoBfwfL"
-        },
-        {
-          "name": "Annika Wickihalder",
-          "url": "https://open.spotify.com/artist/6GmRbmLWorahORMpb3T7of"
-        }
-      ],
-      "duration_ms": 159624,
-      "name": "V\u00e5rens sista dag",
-      "url": "https://open.spotify.com/track/4zdxv1jc9eFaH4aTouIG3p"
-    },
-    {
-      "added_at": "2025-05-29 22:00:27",
-      "album": {
         "name": "Back To The Sea",
         "url": "https://open.spotify.com/album/6i7fu0R1ZzqIIeSDkx4N5B"
       },
@@ -1383,26 +1403,6 @@
       "duration_ms": 193666,
       "name": "Back To The Sea",
       "url": "https://open.spotify.com/track/3xmuxebLOqRf9AsIy5QaRq"
-    },
-    {
-      "added_at": "2025-05-29 22:00:27",
-      "album": {
-        "name": "Du l\u00e4ngtar bort",
-        "url": "https://open.spotify.com/album/6QNGCI3PqSDORrueoaC5wK"
-      },
-      "artists": [
-        {
-          "name": "Svenska Akademien",
-          "url": "https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS"
-        },
-        {
-          "name": "Kristin Amparo",
-          "url": "https://open.spotify.com/artist/2vxWDuk2inw00eo3Hag2QR"
-        }
-      ],
-      "duration_ms": 273287,
-      "name": "Du l\u00e4ngtar bort",
-      "url": "https://open.spotify.com/track/7wHzj6EPkLK8GasG0NVFe0"
     },
     {
       "added_at": "2025-05-29 22:00:27",
@@ -1471,6 +1471,42 @@
     {
       "added_at": "2025-05-29 22:00:27",
       "album": {
+        "name": "Fait Accompli",
+        "url": "https://open.spotify.com/album/4T8T9Kx1tC96ltSpDzeyYt"
+      },
+      "artists": [
+        {
+          "name": "Mariette",
+          "url": "https://open.spotify.com/artist/76nW12AUcUVEiC8fwFoAns"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Fait Accompli",
+      "url": "https://open.spotify.com/track/1UOcJZoRbbYwC874JFZo0f"
+    },
+    {
+      "added_at": "2025-05-29 22:00:27",
+      "album": {
+        "name": "Dear Mr. President",
+        "url": "https://open.spotify.com/album/7aeMGFb5gjcRucCgWo0Edz"
+      },
+      "artists": [
+        {
+          "name": "M\u00c4KI",
+          "url": "https://open.spotify.com/artist/12VNlem2IOoPA01BYFoWBa"
+        },
+        {
+          "name": "Anders Bagge",
+          "url": "https://open.spotify.com/artist/7MgeBZ2pgnnkISLd8wsn0T"
+        }
+      ],
+      "duration_ms": 216355,
+      "name": "Dear Mr. President",
+      "url": "https://open.spotify.com/track/01jqIjPTEGfl1WszmcTofg"
+    },
+    {
+      "added_at": "2025-05-29 22:00:27",
+      "album": {
         "name": "Allting blir bra",
         "url": "https://open.spotify.com/album/6zemClBcSflGzjqB8K2LYR"
       },
@@ -1483,38 +1519,6 @@
       "duration_ms": 159533,
       "name": "Allting blir bra",
       "url": "https://open.spotify.com/track/4FweMnXDJSEs6tciVzBerT"
-    },
-    {
-      "added_at": "2025-05-29 22:00:27",
-      "album": {
-        "name": "Sl\u00e5 upp dina f\u00f6nster (musik f\u00f6r sorgfyllda br\u00f6st)",
-        "url": "https://open.spotify.com/album/5g5O50A5IQhBppY1hcaIEe"
-      },
-      "artists": [
-        {
-          "name": "Sofia Karlsson",
-          "url": "https://open.spotify.com/artist/2tKGISNf0bei0IxfLQGMEt"
-        }
-      ],
-      "duration_ms": 271435,
-      "name": "Sl\u00e5 upp dina f\u00f6nster (musik f\u00f6r sorgfyllda br\u00f6st)",
-      "url": "https://open.spotify.com/track/5puE0tlsaUSm5zxqBc8mkl"
-    },
-    {
-      "added_at": "2025-05-29 22:00:27",
-      "album": {
-        "name": "Vaggvisor med Perrelli",
-        "url": "https://open.spotify.com/album/6hdlcqRwVgoIjo5IFShQ70"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Perrelli",
-          "url": "https://open.spotify.com/artist/39Waq6UmqYCBEuyv8M8kjl"
-        }
-      ],
-      "duration_ms": 257454,
-      "name": "Ser du m\u00e5nen d\u00e4r du \u00e4r ikv\u00e4ll",
-      "url": "https://open.spotify.com/track/6LDQVt0SBoqGSEkov9tD3q"
     }
   ],
   "unique_name": "Aktuellt",

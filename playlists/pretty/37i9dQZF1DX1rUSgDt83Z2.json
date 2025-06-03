@@ -1,12 +1,12 @@
 {
   "description": "Mooi van eigen bodem \ud83c\uddf3\ud83c\uddf1",
-  "num_followers": 38737,
+  "num_followers": 38787,
   "original_name": "Helemaal NL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDy/4QAAAADwiGphhjj0cr9bDh+r0JAx",
+  "snapshot_id": "aD2XvgAAAACUzI+0xrXSTfyF9hxrhaPY",
   "tracks": [
     {
       "added_at": "2025-05-26 11:33:46",
@@ -27,22 +27,6 @@
       "duration_ms": 158857,
       "name": "De Stad",
       "url": "https://open.spotify.com/track/2N0J2JFNDuRh4bEiaYWTHY"
-    },
-    {
-      "added_at": "2025-05-26 11:33:46",
-      "album": {
-        "name": "Rode Draad",
-        "url": "https://open.spotify.com/album/6i3eCPcLlIIWLXNgrO6CgH"
-      },
-      "artists": [
-        {
-          "name": "Hannah Mae",
-          "url": "https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG"
-        }
-      ],
-      "duration_ms": 176333,
-      "name": "Rode Draad",
-      "url": "https://open.spotify.com/track/0e5UQrLjnsLmnUUraqXLcE"
     },
     {
       "added_at": "2025-05-26 11:33:46",
@@ -71,6 +55,22 @@
       "duration_ms": 175979,
       "name": "Op Jou Heb Ik Gewacht",
       "url": "https://open.spotify.com/track/0uOc3SO3ZkrNeL5khr4GUn"
+    },
+    {
+      "added_at": "2025-05-26 11:33:46",
+      "album": {
+        "name": "Rode Draad",
+        "url": "https://open.spotify.com/album/6i3eCPcLlIIWLXNgrO6CgH"
+      },
+      "artists": [
+        {
+          "name": "Hannah Mae",
+          "url": "https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG"
+        }
+      ],
+      "duration_ms": 176333,
+      "name": "Rode Draad",
+      "url": "https://open.spotify.com/track/0e5UQrLjnsLmnUUraqXLcE"
     },
     {
       "added_at": "2025-05-26 11:33:46",
@@ -163,26 +163,6 @@
     {
       "added_at": "2025-05-26 11:33:46",
       "album": {
-        "name": "Yuppentent (feat. Ruben Annink)",
-        "url": "https://open.spotify.com/album/51a4KaNOPyKDtEWfyjGUsE"
-      },
-      "artists": [
-        {
-          "name": "Danique",
-          "url": "https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0"
-        },
-        {
-          "name": "Ruben Annink",
-          "url": "https://open.spotify.com/artist/0qZWRrQj38rwkxeRQ3HowZ"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Yuppentent (feat. Ruben Annink)",
-      "url": "https://open.spotify.com/track/2dohF6KwQqz9oGPm0oXvaj"
-    },
-    {
-      "added_at": "2025-05-26 11:33:46",
-      "album": {
         "name": "Tussen Jou en Mij",
         "url": "https://open.spotify.com/album/5vIgGlwoi1hLNQfhn5PVcm"
       },
@@ -207,6 +187,22 @@
     {
       "added_at": "2025-05-26 11:33:46",
       "album": {
+        "name": "Morgen Wordt Fantastisch",
+        "url": "https://open.spotify.com/album/2gwvQ8E4bcZbua78zLrj61"
+      },
+      "artists": [
+        {
+          "name": "Acda en de Munnik",
+          "url": "https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh"
+        }
+      ],
+      "duration_ms": 158604,
+      "name": "Morgen Wordt Fantastisch",
+      "url": "https://open.spotify.com/track/2UI9rmmINuXVWeOrprjWBy"
+    },
+    {
+      "added_at": "2025-05-26 11:33:46",
+      "album": {
         "name": "Wat Is Dan Liefde",
         "url": "https://open.spotify.com/album/62HLijQSSFCY1yP8TMpqyl"
       },
@@ -223,18 +219,22 @@
     {
       "added_at": "2025-05-26 11:33:46",
       "album": {
-        "name": "Morgen Wordt Fantastisch",
-        "url": "https://open.spotify.com/album/2gwvQ8E4bcZbua78zLrj61"
+        "name": "Yuppentent (feat. Ruben Annink)",
+        "url": "https://open.spotify.com/album/51a4KaNOPyKDtEWfyjGUsE"
       },
       "artists": [
         {
-          "name": "Acda en de Munnik",
-          "url": "https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh"
+          "name": "Danique",
+          "url": "https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0"
+        },
+        {
+          "name": "Ruben Annink",
+          "url": "https://open.spotify.com/artist/0qZWRrQj38rwkxeRQ3HowZ"
         }
       ],
-      "duration_ms": 158604,
-      "name": "Morgen Wordt Fantastisch",
-      "url": "https://open.spotify.com/track/2UI9rmmINuXVWeOrprjWBy"
+      "duration_ms": 170000,
+      "name": "Yuppentent (feat. Ruben Annink)",
+      "url": "https://open.spotify.com/track/2dohF6KwQqz9oGPm0oXvaj"
     },
     {
       "added_at": "2025-05-26 11:33:46",
@@ -363,22 +363,6 @@
     {
       "added_at": "2025-05-26 11:33:46",
       "album": {
-        "name": "Wat Als Ik Wat Mis",
-        "url": "https://open.spotify.com/album/0LwwaLVVLn7hCXYoojVZwQ"
-      },
-      "artists": [
-        {
-          "name": "Danilo Kuiters",
-          "url": "https://open.spotify.com/artist/4kTi1Mu4eeie3aIRImqdyu"
-        }
-      ],
-      "duration_ms": 165001,
-      "name": "Wat Als Ik Wat Mis",
-      "url": "https://open.spotify.com/track/6M8VUoELSGXNSPDJrU3JNQ"
-    },
-    {
-      "added_at": "2025-05-26 11:33:46",
-      "album": {
         "name": "Bemin Me Later (uit Liefde Voor Muziek)",
         "url": "https://open.spotify.com/album/3re6bQy0aCXahB7xVZ7H8P"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 218906,
       "name": "Bemin Me Later (uit Liefde Voor Muziek)",
       "url": "https://open.spotify.com/track/4Ei1vwJylQLwqLkl2XJmiM"
+    },
+    {
+      "added_at": "2025-05-26 11:33:46",
+      "album": {
+        "name": "Wat Als Ik Wat Mis",
+        "url": "https://open.spotify.com/album/0LwwaLVVLn7hCXYoojVZwQ"
+      },
+      "artists": [
+        {
+          "name": "Danilo Kuiters",
+          "url": "https://open.spotify.com/artist/4kTi1Mu4eeie3aIRImqdyu"
+        }
+      ],
+      "duration_ms": 165001,
+      "name": "Wat Als Ik Wat Mis",
+      "url": "https://open.spotify.com/track/6M8VUoELSGXNSPDJrU3JNQ"
     },
     {
       "added_at": "2025-05-26 11:33:46",
@@ -443,22 +443,6 @@
     {
       "added_at": "2025-05-26 11:33:46",
       "album": {
-        "name": "Vrouw Van De Wereld",
-        "url": "https://open.spotify.com/album/5kOYsrWUtHR6QL0MzuyJFh"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00eb Livay",
-          "url": "https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE"
-        }
-      ],
-      "duration_ms": 173031,
-      "name": "Patronen",
-      "url": "https://open.spotify.com/track/1df6j97W2WPuIprZJQ9TxV"
-    },
-    {
-      "added_at": "2025-05-26 11:33:46",
-      "album": {
         "name": "Ik Kom Weer Thuis",
         "url": "https://open.spotify.com/album/4oFvk66h8AGIxNyh0sFkhk"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 183281,
       "name": "Ik Kom Weer Thuis",
       "url": "https://open.spotify.com/track/5VzimlAe6d9QJgCYgWky8v"
+    },
+    {
+      "added_at": "2025-05-26 11:33:46",
+      "album": {
+        "name": "Vrouw Van De Wereld",
+        "url": "https://open.spotify.com/album/5kOYsrWUtHR6QL0MzuyJFh"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Livay",
+          "url": "https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE"
+        }
+      ],
+      "duration_ms": 173031,
+      "name": "Patronen",
+      "url": "https://open.spotify.com/track/1df6j97W2WPuIprZJQ9TxV"
     },
     {
       "added_at": "2025-05-26 11:33:46",
@@ -523,6 +523,22 @@
     {
       "added_at": "2025-05-26 11:33:46",
       "album": {
+        "name": "Alles Wat Ik Zoek (Radio Edit)",
+        "url": "https://open.spotify.com/album/5UUFAAiSKelbyEjBLzepjt"
+      },
+      "artists": [
+        {
+          "name": "Hiigo",
+          "url": "https://open.spotify.com/artist/49wmW9ZxLK5Fg0grFZl0iX"
+        }
+      ],
+      "duration_ms": 168871,
+      "name": "Alles Wat Ik Zoek - Radio Edit",
+      "url": "https://open.spotify.com/track/1XdUtqaf0KdDxgnO8wY1y3"
+    },
+    {
+      "added_at": "2025-05-26 11:33:46",
+      "album": {
         "name": "Iedereen is van de wereld (Titelsong Van De Film 'Iedereen is van de wereld')",
         "url": "https://open.spotify.com/album/5M6BCWP2bNLQd35bksJ1NC"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 165493,
       "name": "Iedereen is van de wereld (Titelsong Van De Film 'Iedereen is van de wereld')",
       "url": "https://open.spotify.com/track/3oom0huw1DOVJp9PvhbPEv"
-    },
-    {
-      "added_at": "2025-05-26 11:33:46",
-      "album": {
-        "name": "Alles Wat Ik Zoek (Radio Edit)",
-        "url": "https://open.spotify.com/album/5UUFAAiSKelbyEjBLzepjt"
-      },
-      "artists": [
-        {
-          "name": "Hiigo",
-          "url": "https://open.spotify.com/artist/49wmW9ZxLK5Fg0grFZl0iX"
-        }
-      ],
-      "duration_ms": 168871,
-      "name": "Alles Wat Ik Zoek - Radio Edit",
-      "url": "https://open.spotify.com/track/1XdUtqaf0KdDxgnO8wY1y3"
     },
     {
       "added_at": "2025-05-26 11:33:46",

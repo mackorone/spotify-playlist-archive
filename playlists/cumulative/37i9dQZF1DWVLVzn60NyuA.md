@@ -4,7 +4,7 @@
 
 > Afro, Caribbean & Latin sounds for that summer vibe
 
-539 songs - 1 day 4 hr 24 min
+540 songs - 1 day 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Apart](https://open.spotify.com/track/54ddFMbGCrLfS7nJOE0xbO) | [Ricky Blaze](https://open.spotify.com/artist/5WFPVKybSiU6x8HBTACfpr), [Alexus Rose](https://open.spotify.com/artist/3bwrDV53J1QI93OHu3pClk), [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA) | [Apart](https://open.spotify.com/album/58kFj4Po9Ml6IsaptlHM9K) | 3:23 | 2021-12-16 | 2022-05-17 |
 | [Arranca \(feat\. Omega\)](https://open.spotify.com/track/6IdcyYfBz9LG3SWIKVyNgh) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0) | [Arranca \(feat\. Omega\)](https://open.spotify.com/album/3d0XlD9jrpNetVgDfsErG4) | 2:46 | 2023-04-10 |  |
 | [Asiwaju](https://open.spotify.com/track/6z5y2kdxF4XrEVRFVqdGVL) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [RU The World](https://open.spotify.com/album/676QN3uS7pzWA0Or87JTcN) | 3:36 | 2024-03-27 |  |
+| [Ate Ta Bin](https://open.spotify.com/track/0Zq2IYn11N8L9AMwZTXhOe) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88) | [Ate Ta Bin](https://open.spotify.com/album/1Q1QhYc66msOSb4JKZgkjV) | 2:22 | 2025-05-29 |  |
 | [Atlantis](https://open.spotify.com/track/0qlCLYmWUwebbDwRrL2x9h) | [Dave Nunes](https://open.spotify.com/artist/1Jo0kVGvfYzeXGjMUvfmLR), [WaxFiend](https://open.spotify.com/artist/052544MnsA3CEiQtQHlx7r), [Saint Ronil](https://open.spotify.com/artist/1cnBbwuD3CUvOf981TFR34), [Yung Dada](https://open.spotify.com/artist/69G9yOls2tiws5DaLkXZnJ), [CHAMOS](https://open.spotify.com/artist/2HEwUTzrG0SLQLLSQQGBWi) | [Atlantis](https://open.spotify.com/album/6Tbso6hKAJh87lbG9qnJHR) | 3:34 | 2023-08-16 | 2024-01-09 |
 | [attention \(with Justin Bieber\)](https://open.spotify.com/track/6tTeRmhhuwDl5Y4UiJdHuO) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [attention \(with Justin Bieber\)](https://open.spotify.com/album/0fGPQwybhz88QkKXZpfkwj) | 3:00 | 2022-08-25 |  |
 | [Azul](https://open.spotify.com/track/2lCkncy6bIB0LTMT7kvrD1) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Colores](https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis) | 3:25 | 2025-02-27 |  |
@@ -77,7 +78,7 @@
 | [Bounce It \(feat\. Stonebwoy\)](https://open.spotify.com/track/5NpET8pwPjwxU2XD1W4rT5) | [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Bounce It \(feat\. Stonebwoy\)](https://open.spotify.com/album/6tBI6y43IXJ1GMUeFsiNEf) | 3:09 | 2021-12-16 | 2022-06-14 |
 | [Break of Dawn](https://open.spotify.com/track/0fFYQpXcySoP1aTAesmNTO) | [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB), [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Four](https://open.spotify.com/album/796mwl4j1EFonUd7zdA6g5) | 3:34 | 2022-02-17 | 2023-03-01 |
 | [Bribi Na Krakti](https://open.spotify.com/track/4uwZyeKZbgqHu3PglkidZp) | [Asgar Koster](https://open.spotify.com/artist/3hHIesbkC2Xk1K4Mfu9fcB), [Raff Chanco](https://open.spotify.com/artist/6GKp8qf4scLrccFA2hg4GM), [Jay Square](https://open.spotify.com/artist/4ceNIljsUqVgaD7VYbzYIO) | [Bribi Na Krakti](https://open.spotify.com/album/4uSxSMY9KlvM4wZETpJzJA) | 2:04 | 2021-12-16 | 2022-02-24 |
-| [Bring It](https://open.spotify.com/track/3gS80FzuNsJ4iTFrNh6tTY) | [DJ Ecko](https://open.spotify.com/artist/2SxKRbDOk3ZbpXxzKCwS0J), [Stefario](https://open.spotify.com/artist/0pMIyWZ9WFbOCVqRaavWhj), [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA) | [Bring It](https://open.spotify.com/album/0GRrax56zKbepKz9U8Vh0y) | 2:32 | 2021-12-16 |  |
+| [Bring It](https://open.spotify.com/track/3gS80FzuNsJ4iTFrNh6tTY) | [DJ Ecko](https://open.spotify.com/artist/2SxKRbDOk3ZbpXxzKCwS0J), [Stefario](https://open.spotify.com/artist/0pMIyWZ9WFbOCVqRaavWhj), [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA) | [Bring It](https://open.spotify.com/album/0GRrax56zKbepKz9U8Vh0y) | 2:32 | 2021-12-16 | 2025-06-03 |
 | [Bruddah](https://open.spotify.com/track/3QHsfDrqAmuS6yUVuI3tad) | [Darrell Cole](https://open.spotify.com/artist/7MfUUL2EyTCm4rLuvbK72a) | [Bruddah](https://open.spotify.com/album/598LuzcbVG0bkLVFXtSG0z) | 3:58 | 2021-12-16 | 2022-07-29 |
 | [Buga \(Lo Lo Lo\)](https://open.spotify.com/track/4eZZofkV1OQ9GDqAgHqNpA) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Buga \(Lo Lo Lo\)](https://open.spotify.com/album/0nNEQYgoVlVYZEOrAC2D3h) | 3:03 | 2022-06-09 |  |
 | [Burdens Heavy](https://open.spotify.com/track/0il2VwVzkVst3YUdWZJHO2) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [The Healer Riddim](https://open.spotify.com/album/30WeIpYX5ycJR5cxrwD04I) | 3:52 | 2021-12-16 | 2022-05-13 |

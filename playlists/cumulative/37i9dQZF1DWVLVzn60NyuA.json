@@ -511,6 +511,24 @@
     },
     {
       "album": {
+        "name": "Ate Ta Bin",
+        "url": "https://open.spotify.com/album/1Q1QhYc66msOSb4JKZgkjV"
+      },
+      "artists": [
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142088,
+      "name": "Ate Ta Bin",
+      "url": "https://open.spotify.com/track/0Zq2IYn11N8L9AMwZTXhOe"
+    },
+    {
+      "album": {
         "name": "Atlantis",
         "url": "https://open.spotify.com/album/6Tbso6hKAJh87lbG9qnJHR"
       },
@@ -1550,7 +1568,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 152232,
       "name": "Bring It",
       "url": "https://open.spotify.com/track/3gS80FzuNsJ4iTFrNh6tTY"

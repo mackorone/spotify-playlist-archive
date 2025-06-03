@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa4ZtoHhRxv.md) - [plain]
 
 > Keep the Spotify House party going on the Country Club Rooftop, hosted by Country Night!
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,700 likes - 83 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,728 likes - 83 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa4ZtoHhRxv.md) - [plain]
 | 82 | [Hot Sauce](https://open.spotify.com/track/31kPsiy1Lwo81YqOensCZh) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [BRELAND EP](https://open.spotify.com/album/61oSbcEqPRT4bTnP4YCQvt) | 2:24 |
 | 83 | [Tequila \- R3HAB Remix](https://open.spotify.com/track/3fsT6VEOxJz3j8cqhzK19Y) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Tequila \(The Remixes\)](https://open.spotify.com/album/0mbXdG2oPnAa1FY1H5EpxZ) | 2:37 |
 
-Snapshot ID: `aDu4dgAAAAAWBO0oRF9hkZ13NjpR5oV5`
+Snapshot ID: `aDu4dgAAAACSbPIa4Z72whBWSKKZYJMM`

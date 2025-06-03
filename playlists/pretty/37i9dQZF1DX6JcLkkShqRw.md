@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JcLkkShqRw.md) - [plain]
 
 > Flow sudamericano con Lucky Brown & Rei.
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,327 likes - 113 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,308 likes - 113 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JcLkkShqRw.md) - [plain]
 | 17 | [Instinto](https://open.spotify.com/track/7jE7CQhkmGW8ENmPRpVHXb) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Dysbit](https://open.spotify.com/artist/2WcCTeyPFxpiGwlntz0X2V) | [Instinto](https://open.spotify.com/album/4Pvnapg8SdNVRvA6Xv75xo) | 2:14 |
 | 18 | [Ay Mamasita](https://open.spotify.com/track/2xPdYKH4tKDThf6p6sqLtD) | [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc) | [Ay Mamasita](https://open.spotify.com/album/6YUB8mVHkQodN4g0HV9R3V) | 2:49 |
 | 19 | [chirlito](https://open.spotify.com/track/3wYaY2LTiEM4fXUnmS9J45) | [Frozouda](https://open.spotify.com/artist/6pCBRiHhyUMQBqs0WUSxEL), [JuicyNise](https://open.spotify.com/artist/0MSw8gYA4pujLZst10Zve8), [Knak](https://open.spotify.com/artist/3IYKcXI1sFqT1ZtfyoW55C) | [FRO!](https://open.spotify.com/album/3CqJ9pw9gAGhHi1DHjtD1f) | 2:32 |
-| 20 | [No me hables de tu ex Pt2](https://open.spotify.com/track/1geNjaZ8rd1dAIMpmMoq3V) | [icody2077](https://open.spotify.com/artist/3lsLey0P7Fjje7RXPnkfgm), [Rayder](https://open.spotify.com/artist/33PpkcHB2eCvphzqqqDAmC), [Bardo](https://open.spotify.com/artist/344GueD4a3lOx05pX5I6n6), [Ntz Prod.](https://open.spotify.com/artist/1ccA0mpefambHcCa8DjZM9) | [No me hables de tu ex Pt2](https://open.spotify.com/album/7ESgKrpeveptH9i92wyRK5) | 2:44 |
+| 20 | [No me hables de tu ex Pt2](https://open.spotify.com/track/1geNjaZ8rd1dAIMpmMoq3V) | [icody2077](https://open.spotify.com/artist/3lsLey0P7Fjje7RXPnkfgm), [Rayder](https://open.spotify.com/artist/7a1HswkFWD9wiyWp0FPrGm), [Bardo](https://open.spotify.com/artist/344GueD4a3lOx05pX5I6n6), [Ntz Prod.](https://open.spotify.com/artist/1ccA0mpefambHcCa8DjZM9) | [No me hables de tu ex Pt2](https://open.spotify.com/album/7ESgKrpeveptH9i92wyRK5) | 2:44 |
 | 21 | [Hay algo que me gusta de vos](https://open.spotify.com/track/0WRq3spKONBevBxFTBpE7h) | [Khappa](https://open.spotify.com/artist/716e8qkglnLkQH9jt1itI1) | [Hay algo que me gusta de vos](https://open.spotify.com/album/3i0UgpIRGgnPry7KZFR9hX) | 2:05 |
 | 22 | [aura talk](https://open.spotify.com/track/4HTlBVWZuJ0aOmp27tW5CN) | [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir), [Zell](https://open.spotify.com/artist/0bslv0fksKPyiH3LQqHagi) | [aura talk](https://open.spotify.com/album/41kv68SyrrGk56ktXLIFTy) | 2:43 |
 | 23 | [Unico](https://open.spotify.com/track/7foPkDMwJV056Oz8RrgGrQ) | [Fede Guelmos](https://open.spotify.com/artist/5dDCTUrju2Z1XtbD45ZMR8), [Turde](https://open.spotify.com/artist/4QvojSqsHuURFc49UBjugU) | [Unico](https://open.spotify.com/album/22I6pS9IbkEdvorlSoUYW3) | 1:21 |

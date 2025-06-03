@@ -1216,7 +1216,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-31",
+      "date_removed": null,
       "duration_ms": 220838,
       "name": "Assumptions",
       "url": "https://open.spotify.com/track/2vTmp13DDKIRWTHPRYNfEh"
@@ -1654,7 +1654,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 156734,
       "name": "Bayern Demon",
       "url": "https://open.spotify.com/track/3kMDwJfJC8uxvmYy2zuMTn"
@@ -4476,7 +4476,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-29",
+      "date_removed": null,
       "duration_ms": 186206,
       "name": "Dreamers - Embody Remix",
       "url": "https://open.spotify.com/track/5vfYmoD0Of4mxxg23HBb9Z"
@@ -5712,7 +5712,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 163898,
       "name": "Floki Lost Soul",
       "url": "https://open.spotify.com/track/3J2BSDbetaIANrqzN0nr3N"
@@ -8091,6 +8091,24 @@
     },
     {
       "album": {
+        "name": "I LOVE YOU SO JUMPSTYLE",
+        "url": "https://open.spotify.com/album/13wMHcPH63ZmggCoKEWVCI"
+      },
+      "artists": [
+        {
+          "name": "HUSSVRX",
+          "url": "https://open.spotify.com/artist/4TgCsF3vsrTJqitJbXhHWW"
+        }
+      ],
+      "date_added": "2025-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189147,
+      "name": "I LOVE YOU SO JUMPSTYLE - Slowed",
+      "url": "https://open.spotify.com/track/7mhsDo1g4jIVxVaHSqChQ5"
+    },
+    {
+      "album": {
         "name": "PSY 8th 4X2=8",
         "url": "https://open.spotify.com/album/5AtBwO35tOSWvxS4nFWHAi"
       },
@@ -9524,7 +9542,7 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-02",
+      "date_removed": null,
       "duration_ms": 99285,
       "name": "LOS VOLTAJE",
       "url": "https://open.spotify.com/track/4LkkRLP8pldQer1YRrHwkx"
@@ -10596,7 +10614,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 172383,
       "name": "Milkshake Man",
       "url": "https://open.spotify.com/track/1kvxvVdeauiXc5ue0Z3HoS"
@@ -14492,7 +14510,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-31",
+      "date_removed": null,
       "duration_ms": 118500,
       "name": "sadisfaction",
       "url": "https://open.spotify.com/track/56gZxUfJbUeKtr2qs3lOiL"
@@ -22970,7 +22988,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 132666,
       "name": "\u041a\u0430\u043a \u043b\u044e\u0431\u043e\u0432\u044c",
       "url": "https://open.spotify.com/track/6gGMt6bmwIha98rnYt3TJ3"
@@ -23678,7 +23696,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 132800,
       "name": "\u041a\u0443\u0445\u043d\u0438 - Acoustic Version",
       "url": "https://open.spotify.com/track/2kdqEnDyLr9ZzEn92O3HRn"
@@ -25344,7 +25362,7 @@
       ],
       "date_added": "2024-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 196935,
       "name": "\u041d\u0435\u0436\u043d\u0430\u044f \u041b\u044e\u0431\u043e\u0432\u044c",
       "url": "https://open.spotify.com/track/6hCZqjIrd68aT1Ce9lpF8e"
@@ -28548,7 +28566,7 @@
       ],
       "date_added": "2025-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-05",
+      "date_removed": null,
       "duration_ms": 157714,
       "name": "\u0421\u043b\u0451\u0437\u044b (\u0410\u043a\u0443\u043b\u0430 Remix)",
       "url": "https://open.spotify.com/track/6Z7fobmTZl3xHxOY2Z7tPk"

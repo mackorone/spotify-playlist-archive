@@ -4,7 +4,7 @@
 
 > Tämän hetken kovimmat suomihitit\. Kannessa ABREU.
 
-578 songs - 1 day 4 hr 57 min
+579 songs - 1 day 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -421,6 +421,7 @@
 | [San Francisco Boy](https://open.spotify.com/track/76NMPdhz29sqm6pOnRkhd6) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r), [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [San Francisco Boy](https://open.spotify.com/album/1zQJ4WlT5SLCNZNrMErnwb) | 2:34 | 2025-01-30 | 2025-03-28 |
 | [Sanat joilla puhutaan](https://open.spotify.com/track/4dJ8cD9Pn8mvTzvcdtLVD5) | [Ida Paul & Kalle Lindroth](https://open.spotify.com/artist/1pbX4qbCZOyiRA0ih5jGfX), [Ida Paul](https://open.spotify.com/artist/69pjn3Oxt0azUYEw9NE4S0), [Kalle Lindroth](https://open.spotify.com/artist/49PPHx2WvBFfsk6RKE0lCi) | [Sanat joilla puhutaan](https://open.spotify.com/album/4GmWPlVrwKGO3I14ohGnRV) | 2:52 | 2024-08-09 | 2024-09-27 |
 | [Sano vaan](https://open.spotify.com/track/3bmaYlyaca8hvQ7cUEzHhG) | [costee](https://open.spotify.com/artist/3I4GcOB25cSJHa9d7Bsgji) | [Sano vaan](https://open.spotify.com/album/3SZuNM26rWPkYk5LGoiDjf) | 2:48 | 2024-07-02 | 2024-10-25 |
+| [Sasha](https://open.spotify.com/track/4Bfuv305X5QqEGnufnfBla) | [Alina Burnet](https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J) | [Sasha](https://open.spotify.com/album/1gDeiAIRl8hRfX3gwe7TYz) | 2:32 | 2025-06-02 |  |
 | [Sata shottii](https://open.spotify.com/track/4SzyvEZEyXIYiIe4rpsxcO) | [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Tähtisumua](https://open.spotify.com/album/0QKY0hyk6h6hkytXBY9Jt4) | 2:25 | 2024-10-17 | 2025-04-25 |
 | [Satama](https://open.spotify.com/track/1osPz2rgtdywUR6ut6eIMU) | [KUUMAA](https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr) | [Satama](https://open.spotify.com/album/1w9whtxDsbfopzVe6hlWjS) | 2:40 | 2024-07-25 | 2024-11-29 |
 | [Satamiljoonaa puutarhaa](https://open.spotify.com/track/39x6zXiaXKfwJSJpR4FbL8) | [Tomi Saario](https://open.spotify.com/artist/1p1Q1tRavrbMGCgJdf9G0H) | [Satamiljoonaa puutarhaa](https://open.spotify.com/album/4tylfswbdsNVbacXVqy7md) | 3:10 | 2024-09-12 | 2024-10-04 |

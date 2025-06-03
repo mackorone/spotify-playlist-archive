@@ -4,7 +4,7 @@
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Arron Rebustes, JAO
 
-400 songs - 1 day 1 hr 10 min
+401 songs - 1 day 1 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,6 +196,7 @@
 | [lanamantayo](https://open.spotify.com/track/2W7YhtNKlOluSN4rFjCs3L) | [Kenaniah](https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS) | [lanamantayo](https://open.spotify.com/album/2RoMwtu2ESdIt1HYYAStGs) | 3:25 | 2024-07-02 | 2024-07-09 |
 | [Langit](https://open.spotify.com/track/0mwJVnMPx7dUODRpBfFLzi) | [Jed Baruelo](https://open.spotify.com/artist/6EigliA66uumHSob7cOG1y) | [Langit](https://open.spotify.com/album/0TXzVqUogh7QWTFdg8NtIS) | 4:18 | 2024-07-02 | 2024-09-25 |
 | [Larawan](https://open.spotify.com/track/7KGw4emQ399EbF331j3b6d) | [Rangel](https://open.spotify.com/artist/0bleiPugTnkqSUBnepa7Xi) | [Larawan](https://open.spotify.com/album/3XARO9hODVmLRGVGX5w1gC) | 3:22 | 2025-03-21 | 2025-05-31 |
+| [LASIK](https://open.spotify.com/track/5da5VCHTC3516y0y8p40Ee) | [HEY JUNE!](https://open.spotify.com/artist/4Bxk4PebmsWgvjMrtQqBvq) | [Curiosity Killed the Cat](https://open.spotify.com/album/5duuHmLrcRq26ePcf7XBFd) | 3:45 | 2025-06-02 |  |
 | [Last Christmas](https://open.spotify.com/track/6Qup707RazMQCWMZ634P41) | [Bugoy Drilon](https://open.spotify.com/artist/0kRAKgEOVI43Qkz9PLmPt8) | [Last Christmas](https://open.spotify.com/album/6rHFVlylIzRnNgk042i8jT) | 2:26 | 2024-12-25 | 2025-03-01 |
 | [Lederhosen \(feat\. ivoimpreso\)](https://open.spotify.com/track/2H7BnU6vKUxUS1RyIBNb9b) | [barb.](https://open.spotify.com/artist/3c97nGqpNhVKMhxn8zEB33), [Ivo Impreso](https://open.spotify.com/artist/55tfcOHVK67vg8BQZ7sZBV) | [Lederhosen \(feat\. ivoimpreso\)](https://open.spotify.com/album/2ALHofwweByHLJDXAkyF5J) | 3:56 | 2025-03-21 | 2025-05-31 |
 | [Let Me Down Easy](https://open.spotify.com/track/0VA4cCl0VCKzAstFBTRQSW) | [Jolianne](https://open.spotify.com/artist/0GuaoBVOFuVXuhbrmSD1je) | [Plain Girl](https://open.spotify.com/album/65ocMvFK1JMXvWac79SFjP) | 3:04 | 2025-01-31 | 2025-04-16 |

@@ -1,12 +1,12 @@
 {
   "description": "This is H\u00e9ctor Lavoe. The essential tracks, all in one playlist.",
-  "num_followers": 174104,
+  "num_followers": 174151,
   "original_name": "This Is H\u00e9ctor Lavoe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDpGgAAAAADiBGbL5cQY4dp4iEyA1LU/",
+  "snapshot_id": "aDuYAAAAAACTxVz5T+ror9VH77/CYz6k",
   "tracks": [
     {
       "added_at": null,
@@ -651,26 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Gran Fuga",
-        "url": "https://open.spotify.com/album/5fY6IgtUM14tFh6iHwbT6l"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 263773,
-      "name": "Abuelita",
-      "url": "https://open.spotify.com/track/2N5H8pIB12voccA8FPEHZ8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Juicio",
         "url": "https://open.spotify.com/album/3VGeuVPBeITXJwWt2YUPZW"
       },
@@ -687,22 +667,6 @@
       "duration_ms": 316680,
       "name": "Pira\u00f1a",
       "url": "https://open.spotify.com/track/2SdrV0mPzc8UZ89a3Eg1z6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De Ti Depende",
-        "url": "https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 275760,
-      "name": "De Ti Depende",
-      "url": "https://open.spotify.com/track/6V0m5eu38vtpaVTqdCKxxV"
     },
     {
       "added_at": null,
@@ -727,6 +691,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "De Ti Depende",
+        "url": "https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 275760,
+      "name": "De Ti Depende",
+      "url": "https://open.spotify.com/track/6V0m5eu38vtpaVTqdCKxxV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Revent\u00f3",
         "url": "https://open.spotify.com/album/1NFazvS6xURLqpqQVuGXBD"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 387600,
       "name": "D\u00e9jala Que Siga",
       "url": "https://open.spotify.com/track/1M97ayCQqyCCsiSs2OIBb9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Gran Fuga",
+        "url": "https://open.spotify.com/album/5fY6IgtUM14tFh6iHwbT6l"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 263773,
+      "name": "Abuelita",
+      "url": "https://open.spotify.com/track/2N5H8pIB12voccA8FPEHZ8"
     },
     {
       "added_at": null,

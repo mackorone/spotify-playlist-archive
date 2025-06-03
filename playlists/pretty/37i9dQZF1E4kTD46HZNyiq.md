@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 
 ### [NIGHT TRAVELER Radio](https://open.spotify.com/playlist/37i9dQZF1E4kTD46HZNyiq)
 
-> With The Wild Wind, Rhineland, LAVE and more
+> With Laureline, The Wild Wind, Rhineland and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 2,090 likes - 50 songs - 3 hr 16 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 | 49 | [I Got It](https://open.spotify.com/track/2hfoVrTEJFOf4U0WctEcJI) | [The Wild Wind](https://open.spotify.com/artist/377Knb6HRXkcDKafzqtt5y) | [Cutting Edge Stuff](https://open.spotify.com/album/1CwW0jNyO2eLdu7Udf6M8D) | 3:48 |
 | 50 | [Washed Wine](https://open.spotify.com/track/6ZEdXD3Eeh34PPNXcF0Tdz) | [LAVE](https://open.spotify.com/artist/5MahcP4Ovco9oORrQRaUqp) | [Washed Wine](https://open.spotify.com/album/6cPnpY4PBuarcZVCOkddjA) | 3:39 |
 
-Snapshot ID: `aD0W5AAAAAAVZ5bY3C0AI8o3NItWj3In`
+Snapshot ID: `aD5sCAAAAAA0o2FXS3PBctoCC/mSOL23`

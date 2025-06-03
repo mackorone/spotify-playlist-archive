@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKNf5jGX6m.md) - [plain]
 
 > New age music for balancing mind and body.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,034,798 likes - 165 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,035,060 likes - 165 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -174,4 +174,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKNf5jGX6m.md) - [plain]
 | 164 | [Aurora's Embrace](https://open.spotify.com/track/15xJU9AwlLlAwkcONJKVA2) | [Eternalistic](https://open.spotify.com/artist/77efGNIP8xtX0iCb5RCHCG) | [Aurora's Embrace](https://open.spotify.com/album/7zztbmjwx3irdB7sGoMNTs) | 2:59 |
 | 165 | [Arctic Sleep](https://open.spotify.com/track/6dyuOdbEfV5bjkjku0QmpQ) | [Nekane Silver](https://open.spotify.com/artist/4U43EfgJP8ydde513Puqat) | [Arctic Sleep](https://open.spotify.com/album/2EQaP49EfLST5k5UD1wFJX) | 2:28 |
 
-Snapshot ID: `AAAAAOHlwcCOmigl2EjEuWdlZdoVVkjO`
+Snapshot ID: `aDXVHAAAAAC3b4YNzLiFifkR2HGqtnlU`

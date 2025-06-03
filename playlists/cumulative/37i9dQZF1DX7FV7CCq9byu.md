@@ -4,7 +4,7 @@
 
 > Det bästa från svensk & internationell pop.
 
-875 songs - 1 day 20 hr 40 min
+878 songs - 1 day 20 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Amor Criminal](https://open.spotify.com/track/70VKe2la96bP5mCcR3C7q7) | [Sofia Monroy](https://open.spotify.com/artist/3EdzgrCDNF4fwzSBM63Q2o) | [Amor Criminal](https://open.spotify.com/album/2oUIW9LzryBrnFVu6VsA14) | 2:26 | 2024-09-05 | 2024-10-04 |
 | [Andarna](https://open.spotify.com/track/3LbU3hQgMSyRHqYcGXVFLx) | [Eah Jé](https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc) | [Andarna](https://open.spotify.com/album/7xzfbsn3XlOxsemWxzykqY) | 3:46 | 2025-05-22 |  |
 | [ANDAS](https://open.spotify.com/track/2VvYf4OJSTI5BZeVK00qTi) | [Clara Klingenström](https://open.spotify.com/artist/3tl4Gc5RItD9lE6MJZGhLg) | [ANDAS](https://open.spotify.com/album/696P0o5kuqLoXYW2CYBiQe) | 3:03 | 2024-11-14 | 2025-01-17 |
+| [Andra sidan \(vi är klara\)](https://open.spotify.com/track/4zShxXNfJ8QuBo0KOzg3lV) | [Lukas Söderholm](https://open.spotify.com/artist/6H3bChd6nBuQ7bzGzYSDqB) | [Andra sidan \(vi är klara\)](https://open.spotify.com/album/5Enp8TTAJW8rI59xbBdNb9) | 2:35 | 2025-06-02 |  |
 | [andromeda](https://open.spotify.com/track/7g0RxMZlNSrlTwEVRXqv8L) | [BELL](https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4) | [brb…<3](https://open.spotify.com/album/2Tv0WnJJ1HR6iTLXMZlqty) | 2:27 | 2024-06-27 | 2024-07-05 |
 | [Angel Of My Dreams](https://open.spotify.com/track/46cW6zufU9Woo11TLs2i6X) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Angel Of My Dreams](https://open.spotify.com/album/6Wf3fqCoGcOYah2lTcwyAA) | 3:17 | 2024-08-06 | 2024-09-13 |
 | [Angela](https://open.spotify.com/track/0ltWabjFKp4e1qqS93DI2n) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Pink Velvet Theatre](https://open.spotify.com/album/5vFDUbMumlLOjC75rHioJC) | 4:12 | 2024-10-24 | 2025-01-10 |
@@ -409,6 +410,7 @@
 | [Jobba](https://open.spotify.com/track/4vrPc2YtsWzhB8K2t9S9WP) | [IRMELI](https://open.spotify.com/artist/7cEc46TFuOcBiE04sy33jv) | [Jobba](https://open.spotify.com/album/3XAs2lplnR6bzHWrxHIwwa) | 2:41 | 2025-03-27 | 2025-04-25 |
 | [Josephine](https://open.spotify.com/track/57KEhRQ7WjjYHjTIMBL8t0) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK), [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Josephine](https://open.spotify.com/album/4uOsx4KUO4ziKOeKQOZhpH) | 3:43 | 2024-09-13 | 2024-10-25 |
 | [June](https://open.spotify.com/track/6xeW7VxuO6X11pcK0rKJhk) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Sick To My Stomach](https://open.spotify.com/album/1TI2bQeR8meH1imvwWQ2wj) | 3:18 | 2024-09-26 | 2024-10-25 |
+| [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY) | 2:22 | 2025-06-02 |  |
 | [Just Us \(feat\. Doja Cat\)](https://open.spotify.com/track/1SVhTS4l0sLFsP2Abme05l) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Just Us \(feat\. Doja Cat\)](https://open.spotify.com/album/6EIo8YVBZEHJFvX6xh9bMy) | 2:52 | 2025-03-21 | 2025-05-02 |
 | [kanske lika bra att vi lägger av när vi ligger bra](https://open.spotify.com/track/3VtnMvL2Tpq56AmitlTFYh) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [kanske lika bra att vi lägger av när vi ligger bra](https://open.spotify.com/album/3SNoO3phfgMtYdnWCzR7OF) | 3:05 | 2025-04-24 |  |
 | [Kaprifol](https://open.spotify.com/track/4sfYzFbJbiXm1lvsoDOtZS) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Kaprifol](https://open.spotify.com/album/41XXzH7d7sd6yKcxQz0aXP) | 3:55 | 2025-01-09 | 2025-03-14 |
@@ -791,6 +793,7 @@
 | [TRIPPIN](https://open.spotify.com/track/4ml1Eq4wmcdfN0Q6pNEly7) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [TRIPPIN](https://open.spotify.com/album/6csFTPBuceEsBcSHGzQTaJ) | 3:22 | 2024-06-27 | 2024-08-23 |
 | [Troubled Waters](https://open.spotify.com/track/3xohRHSBI2i0HolJPlN85v) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Troubled Waters](https://open.spotify.com/album/54V4i5OLHNmaiXIgK7urCp) | 3:17 | 2024-09-05 | 2024-12-20 |
 | [Trubbel & Kaos](https://open.spotify.com/track/0F9XxIEX9ETweXamPrdCgO) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk) | [Trubbel & Kaos](https://open.spotify.com/album/4CH6ktJkCRBzMBcmpgEuMS) | 3:31 | 2025-05-22 |  |
+| [Truth](https://open.spotify.com/track/4mSDOE2kImbodUtKFLmcqm) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Truth](https://open.spotify.com/album/1PoebRqjvlN71Tjdwg6I37) | 3:27 | 2025-06-02 |  |
 | [Try Your Luck](https://open.spotify.com/track/4OeHwa1G1CXBnbqZokaMwk) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Second Self](https://open.spotify.com/album/7wamK6t2NizBz3HScDpRY0) | 2:43 | 2025-05-22 |  |
 | [Tur i oturen](https://open.spotify.com/track/3StEuRZxRwnI715XuNyk2K) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Tur i oturen](https://open.spotify.com/album/1vwBrTS2u2X0FPRQcjinhe) | 2:57 | 2025-01-23 | 2025-03-25 |
 | [Turn Back Time](https://open.spotify.com/track/7obICqf7aulekVSLLxSub5) | [Rasmus Hagen](https://open.spotify.com/artist/2xE7TMnsr4hxdQW5F3urtq) | [Turn Back Time](https://open.spotify.com/album/0xT0uCQ4nxKrUZv5RRZkfo) | 3:01 | 2025-02-13 | 2025-03-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 
 > Listen to women in Canada, at full volume\. Co\-curated by Alex Porat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,738 likes - 40 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,741 likes - 40 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 | 39 | [Coule](https://open.spotify.com/track/4kRFCrDbPc6eo9Qqt85uZA) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [Dogue](https://open.spotify.com/album/749uCoBXgdFaC9VJZtA1oL) | 2:52 |
 | 40 | [Pleurer sur le dancefloor](https://open.spotify.com/track/1vCYeOOZSOdMAdpc8TFQwJ) | [Naomi](https://open.spotify.com/artist/7kCkigPAOvUemaGziItnCo), [Marie\-Mai](https://open.spotify.com/artist/1BmW7gk5sNUff7U3JEWqxa) | [Un coin sombre pour danser \(Deluxe\)](https://open.spotify.com/album/2QWGzkMKjkIB1u49I5wLv3) | 2:57 |
 
-Snapshot ID: `aBra4wAAAABeGJaMtnBDK3Qs4DVOwhVx`
+Snapshot ID: `aBra4wAAAAAe/EGkRsQOHxBK+IvuD0FX`

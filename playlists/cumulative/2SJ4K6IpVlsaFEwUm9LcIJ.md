@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: may\-june 2025 \(previous playlists archived on my profile\)
 
-593 songs - 1 day 10 hr 14 min
+594 songs - 1 day 10 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [Fall](https://open.spotify.com/track/0vrCyUnCmMcUNGIA5GKgZD) | [Sway](https://open.spotify.com/artist/1bElSTQqO1Vd1pia2t7JeS) | [The Millia Pink And Green](https://open.spotify.com/album/7EHablbY72TGgPQb3FGN9h) | 6:35 | 2024-11-29 | 2024-12-04 |
 | [Fallen Leaves](https://open.spotify.com/track/4u5mES4rljkyCtLOPLCDj1) | [Teenage Fanclub](https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW) | [Man\-Made](https://open.spotify.com/album/1B0lXu8AkBqJ1Sq02Howa1) | 3:31 | 2024-12-27 | 2025-01-12 |
 | [Falling Backwards](https://open.spotify.com/track/3DYTT6HXBesNRtfFYAYVTY) | [Brittle Stars](https://open.spotify.com/artist/6uZBMEZeMcDuBoamJ7wLf5) | [Garage Sale EP + Remixes](https://open.spotify.com/album/1pcaVlKBjlBWSUqfcELSzO) | 1:40 | 2024-01-31 | 2024-03-10 |
+| [Falling Down a Dam of Mashed Potatoes](https://open.spotify.com/track/5y69U1bw1dBixUL1nViDXr) | [Lawrence](https://open.spotify.com/artist/0P42vB5p3jd1P4ScFQg2YI) | [Childish Music](https://open.spotify.com/album/6LABtUVPmwMWuRoQ8vg1Gp) | 3:43 | 2025-06-03 |  |
 | [family and friends](https://open.spotify.com/track/3CkNXbhCLFk4o7GJduateb) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [family and friends](https://open.spotify.com/album/6y6YITcW11LC9K83uH6XYR) | 2:56 | 2024-09-18 | 2024-11-14 |
 | [Far Away Chant](https://open.spotify.com/track/4CjW0aU1a6Q8SrnGfLJWGx) | [African Head Charge](https://open.spotify.com/artist/4eOZAQytg3U2l0WTClghDQ) | [My Life In A Hole In The Ground](https://open.spotify.com/album/39ritWVnJCxRNhyj8mRSI8) | 4:04 | 2025-02-26 | 2025-03-03 |
 | [Feeling Sad Tonight](https://open.spotify.com/track/3UKhzKdWIM8vd1qWPxLRkP) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Rhymes & Reasons](https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv) | 3:13 | 2024-11-13 | 2025-01-12 |

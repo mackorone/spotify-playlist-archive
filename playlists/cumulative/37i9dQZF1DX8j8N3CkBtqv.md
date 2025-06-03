@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring Bhoomi,  Masala Coffee and other exciting artists.
 
-1,064 songs - 2 day 10 hr 2 min
+1,065 songs - 2 day 10 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Aaghaaz](https://open.spotify.com/track/4RGU0e3tMHMY9f12bmM5p1) | [Moosa Saleem](https://open.spotify.com/artist/16m66acFCoUlPwjQf9D6fN), [Soham Mallick](https://open.spotify.com/artist/0xEem18avGCL5Bacbup8Ue), [Saptak Chatterjee](https://open.spotify.com/artist/7rcHjaw38oHqxTjwQUnlRc) | [Aaghaaz](https://open.spotify.com/album/5hKk5gTfnrNlCs9LQUkbfQ) | 3:48 | 2024-04-12 | 2024-06-22 |
 | [Aaghaz](https://open.spotify.com/track/19AP3k64HdqYVvVbXbgk45) | [Swattrex](https://open.spotify.com/artist/1c4IXYT2idOski3WEtfJpW), [Shubham](https://open.spotify.com/artist/68ZWfWtbgNFunDDaLEPqXY) | [Safar](https://open.spotify.com/album/696394NG1QEWfygeHt6nQk) | 3:59 | 2024-07-05 | 2024-08-10 |
 | [Aaghaz\-E\-Ishq](https://open.spotify.com/track/1wqqyytFD8HoKWg06T1GCo) | [Satyajeet Jena](https://open.spotify.com/artist/35DaFPNjk0o133rxjRJ0W7), [Mrityunjay Pandey](https://open.spotify.com/artist/3oWgKfqTjiy5zDRX5dL5ps) | [Aaghaz\-E\-Ishq](https://open.spotify.com/album/4uq2U5N93OI2poB5vN4urI) | 4:21 | 2024-12-20 | 2025-05-03 |
+| [Aahista](https://open.spotify.com/track/2zNh45mWOtcjqR7ngX5oTJ) | [Savera](https://open.spotify.com/artist/3CVXA5TAWpmfGPqyMqXpPb) | [Aahista](https://open.spotify.com/album/3veutYP2aHnBgmSbtI61t1) | 2:13 | 2025-05-30 |  |
 | [Aaj Kal](https://open.spotify.com/track/2kdomqzVkUfjIMURSnqByy) | [Anurag Saikia](https://open.spotify.com/artist/6hzngLO20cX5IGqT0hVv1G), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Avinash Chouhan](https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj) | [Aaj Kal](https://open.spotify.com/album/5Z3rCu6ZTbNCS8RacJ3JnJ) | 3:33 | 2023-04-14 | 2023-06-30 |
 | [Aaj Phir](https://open.spotify.com/track/0ZhUr44gkooybSmoNgqjya) | [Raghav Kaushik](https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H), [Shruti Prakash](https://open.spotify.com/artist/4wTxusmB0eB08npurjqk5T) | [Aaj Phir](https://open.spotify.com/album/6KdQegAYeMPv8oIIjAtndT) | 1:09 | 2023-06-30 | 2023-07-29 |
 | [Aaj Rang Hai](https://open.spotify.com/track/2T02TsMZTTEVJeuSwCyD1w) | [Aanchal Shrivastava](https://open.spotify.com/artist/5jQ7dwP6Bg20NgOKozwTI4) | [Aaj Rang Hai](https://open.spotify.com/album/1BSSoO2kKSgWCUpXuM34tC) | 2:22 | 2023-08-10 | 2023-09-02 |
@@ -550,7 +551,7 @@
 | [Kya Batayein](https://open.spotify.com/track/15WruziiMBbDObB8K0bnWp) | [Samyak Prasana](https://open.spotify.com/artist/64j5rJTsD25fTAcOiZWAiY), [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C) | [Kya Batayein](https://open.spotify.com/album/0yI5u4TLl0Gw3nfj1LQnZ7) | 3:00 | 2025-04-18 |  |
 | [Kya Fayeda](https://open.spotify.com/track/4RbLpueIJyEkiq312bSyCh) | [Arham Fulfagar](https://open.spotify.com/artist/4ul4X6GIdmYLXjWpsYRU4E) | [Kya Fayeda](https://open.spotify.com/album/5hDa8k1MufdYjX0NNvEjFn) | 2:03 | 2023-12-01 | 2024-01-13 |
 | [Kya Hai Mera](https://open.spotify.com/track/2iseU7GmuGOusviAfuUWzj) | [Neyhal](https://open.spotify.com/artist/58nYUsnl5ST7wD1VY49b31), [Arham Fulfagar](https://open.spotify.com/artist/4ul4X6GIdmYLXjWpsYRU4E) | [Kya Hai Mera](https://open.spotify.com/album/4KpUlllQmVL5BUfPFS3L1s) | 2:43 | 2024-02-02 | 2024-03-09 |
-| [Kya Hi Hai](https://open.spotify.com/track/29SvIDiQWM8qoGaN0TvXRh) | [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16), [Rahul Shah](https://open.spotify.com/artist/3oEonEOikYn2hqvZ3oWpiu) | [Kya Hi Hai](https://open.spotify.com/album/7c9Q4FXPaX6EAafvJuu0VQ) | 3:19 | 2025-04-04 |  |
+| [Kya Hi Hai](https://open.spotify.com/track/29SvIDiQWM8qoGaN0TvXRh) | [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16), [Rahul Shah](https://open.spotify.com/artist/3oEonEOikYn2hqvZ3oWpiu) | [Kya Hi Hai](https://open.spotify.com/album/7c9Q4FXPaX6EAafvJuu0VQ) | 3:19 | 2025-04-04 | 2025-06-03 |
 | [Kya Kahein](https://open.spotify.com/track/1v6g0O3B9MmLPW8jNKPSQg) | [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5), [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx) | [Kya Kahein](https://open.spotify.com/album/1uMj48Dc1VRH70MzQWqZIk) | 3:07 | 2025-03-21 |  |
 | [Kya Karenge](https://open.spotify.com/track/5uU4M939yF9SjiRxEyLL2E) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK) | [Kya Karenge](https://open.spotify.com/album/16Jn9TKOvst1QG4PpRYgKc) | 3:45 | 2023-10-27 | 2023-12-09 |
 | [Kya Tum Mere](https://open.spotify.com/track/3tTZ5tIhbeWF12mbITtHKe) | [boys from marsss](https://open.spotify.com/artist/5UaZTW4g6ypNCmyXpFiYbU) | [Kya Tum Mere](https://open.spotify.com/album/06BGofXggJPSJL8weRFNeN) | 2:48 | 2025-02-28 | 2025-04-19 |

@@ -2217,6 +2217,24 @@
     },
     {
       "album": {
+        "name": "2009, Year Of Us - The Third Mini Album",
+        "url": "https://open.spotify.com/album/5AH7uBaxp7ojNCvImOeZvC"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219053,
+      "name": "JoJo",
+      "url": "https://open.spotify.com/track/4eIio2I0jXuzvQaoYQZWPT"
+    },
+    {
+      "album": {
         "name": "Jumping",
         "url": "https://open.spotify.com/album/2qBs9GPXk8C28SXX2FOzh1"
       },
@@ -3514,7 +3532,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 198946,
       "name": "Ring My Bell",
       "url": "https://open.spotify.com/track/19euxgpVaBlvBOIRTLsgJQ"

@@ -1,12 +1,12 @@
 {
   "description": "This is Mariah Carey. The essential tracks, all in one playlist.",
-  "num_followers": 500748,
+  "num_followers": 500854,
   "original_name": "This Is Mariah Carey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDpGgAAAAADM4OIDwCe1xPcEHlDU0xPR",
+  "snapshot_id": "aDuYAAAAAAB7Gmc47dlPDJvw8hsa2SCw",
   "tracks": [
     {
       "added_at": null,
@@ -955,22 +955,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Breakdown EP",
-        "url": "https://open.spotify.com/album/6PfEOXBX3iiNNsDbhGTBlT"
+        "name": "The Emancipation Of Mimi (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/0O4U8aVbBcWrq38ax0T6AO"
       },
       "artists": [
         {
           "name": "Mariah Carey",
           "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        },
-        {
-          "name": "Bone Thugs-N-Harmony",
-          "url": "https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg"
         }
       ],
-      "duration_ms": 296800,
-      "name": "Breakdown (feat. Bone Thugs-n-Harmony) - The Mo' Thugs Remix",
-      "url": "https://open.spotify.com/track/5XK0dMccjLSG1oVrEzN6Fz"
+      "duration_ms": 189800,
+      "name": "When I Feel It",
+      "url": "https://open.spotify.com/track/2Pz1LM9mjuGUscM4gk6GME"
     }
   ],
   "unique_name": "This Is Mariah Carey",

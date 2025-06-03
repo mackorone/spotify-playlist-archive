@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 
 > The new wave of Latin pop 🌊 Cover: BORJA
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,223 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,226 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 49 | [CHINA pt.1](https://open.spotify.com/track/75DYvU5DoaSVGd9O3N8KTT) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [CHINA pt.1](https://open.spotify.com/album/6yi4nzL3N9HwC6Q0hdM1QS) | 3:46 |
 | 50 | [Sola](https://open.spotify.com/track/6ypxZlBgfczJnNLWvx0ytg) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [Sola](https://open.spotify.com/album/4CMuT50pdU5XwFls4pgLCZ) | 2:13 |
 
-Snapshot ID: `aDktYQAAAAB8H2LqbVxebJqO+YVyhfLh`
+Snapshot ID: `aDktYQAAAAD5egfXJJ9jitPAoMFe2HBL`

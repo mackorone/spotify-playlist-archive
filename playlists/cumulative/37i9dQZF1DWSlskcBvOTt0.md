@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-933 songs - 3 day 7 hr 46 min
+934 songs - 3 day 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,7 +289,7 @@
 | [Fixed Nostalgia](https://open.spotify.com/track/1NrxsJ8tPjxG24VWXA4k8P) | [Ditian](https://open.spotify.com/artist/6JIvK1wvwFlrjpAWjETPLx) | [Dixon & Âme Present Limbo](https://open.spotify.com/album/4mG0wdymDEjVc8S8LcShI5) | 7:46 | 2021-05-26 | 2022-04-21 |
 | [Fizzy Pop](https://open.spotify.com/track/7LmGa79StJLeRa7MANCorW) | [Layla Benitez](https://open.spotify.com/artist/3StMSo3rzsZBfuGaGLq3IE), [Max Milner](https://open.spotify.com/artist/0WFFfBGhY0aC6MQiQ1UQi8) | [Fizzy Pop](https://open.spotify.com/album/18udJDR6IOSryeSoikVva6) | 4:08 | 2022-08-05 | 2023-07-07 |
 | [Float \(feat\. BAYLI\)](https://open.spotify.com/track/20fWv7580PvwdmWnVqHPDc) | [Sparrow & Barbossa](https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [Float \(feat\. BAYLI\)](https://open.spotify.com/album/7oGQVPQR0LNdBcGpFaDag5) | 2:54 | 2025-05-23 |  |
-| [Flora](https://open.spotify.com/track/2KOZxPEN0SpuzR8dPal8As) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83) | [Flora](https://open.spotify.com/album/33WKJM2wXacefLeiFUIyq1) | 3:22 | 2024-11-15 |  |
+| [Flora](https://open.spotify.com/track/2KOZxPEN0SpuzR8dPal8As) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83) | [Flora](https://open.spotify.com/album/33WKJM2wXacefLeiFUIyq1) | 3:22 | 2024-11-15 | 2025-06-03 |
 | [Flores \- Meera \(NO\) Remix](https://open.spotify.com/track/7hJdfNjNHfzXMEmO5PIObo) | [Emanuel Satie](https://open.spotify.com/artist/3veg7sFGWTk62Ecwj6mzij), [Maga](https://open.spotify.com/artist/3SLZrLX47S9PmPRabiESVl), [Meera \(NO\)](https://open.spotify.com/artist/5dlUBPnFrAnjqC9hvEpEYi) | [Flores \(Meera Remix\)](https://open.spotify.com/album/0vNnO7EV8asQ3ZcHxXy8lk) | 8:16 | 2024-04-19 | 2024-07-09 |
 | [Florianopolis](https://open.spotify.com/track/0Mn0K9k16wbDlyOPm0k4nU) | [BADDIES ONLY](https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [Florianopolis](https://open.spotify.com/album/4RJ3PkqGmetEBDM5At7cpj) | 2:21 | 2022-09-16 | 2022-09-24 |
 | [Fluminnese \- Edit](https://open.spotify.com/track/5s9tEo2dnKiXIYZiossJjF) | [Gorje Hewek](https://open.spotify.com/artist/0HBaoUIo3fXlnWz1dc4mro), [Lost Desert](https://open.spotify.com/artist/6N2bCZFo999TqhtdPTnLyq), [Volen Sentir](https://open.spotify.com/artist/7scXA3hBD8JyGGajVR9q9l) | [Fluminnese \(Edit\)](https://open.spotify.com/album/58v3VkgqWzK4UFBn9RymaB) | 4:37 | 2022-02-18 | 2022-07-29 |
@@ -939,6 +939,7 @@
 | [YOUR NAME](https://open.spotify.com/track/7uHnPv1DBxADOMBemb1Xdn) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [SILVERLAKE 03](https://open.spotify.com/album/3EHHWKU0W1jIsFcmpaXqas) | 5:11 | 2023-10-06 | 2024-04-19 |
 | [Your Voice \- Adam Port Remix](https://open.spotify.com/track/1Rv6Lfdcny3Avjmpm4W4YM) | [Caiiro](https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY), [AWEN](https://open.spotify.com/artist/5uOaNXrr4qGx9YXbo9HaUl), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk) | [Your Voice \(Adam Port Remix\)](https://open.spotify.com/album/7i97hHLFqXAVFIIsUGw2Da) | 4:20 | 2022-08-19 | 2024-04-19 |
 | [Your Way](https://open.spotify.com/track/2V64rudkFZ9gciglMM0t5S) | [Emanuele Esposito](https://open.spotify.com/artist/0dnLkdyWw9XCNQhGln0HZU), [Darksidevinyl](https://open.spotify.com/artist/7JgdmzLGGrt808y5C1STh0) | [Your Way](https://open.spotify.com/album/0QZrG85ir88fpUnbxzgFe6) | 6:18 | 2022-09-30 | 2022-10-29 |
+| [Yours to Take](https://open.spotify.com/track/1lCnkwov638dkrJhQf2nmv) | [Samm \(BE\)](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0), [Ajna \(BE\)](https://open.spotify.com/artist/6TILJrqby5UzMV1EemkxtN) | [Yours to Take](https://open.spotify.com/album/6chCBhvEyDp2WexX9hi7is) | 5:02 | 2025-05-30 |  |
 | [Zodiac](https://open.spotify.com/track/1yZBuUYcA0Ug7Y7ImNdhwt) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Zodiac](https://open.spotify.com/album/6dylMlHC16SU924l7a6UGV) | 5:42 | 2023-05-12 | 2024-04-13 |
 | [Águila Vuela](https://open.spotify.com/track/7aXrG73Gaol5K7pJwyY2yf) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m), [Meta\_](https://open.spotify.com/artist/4b2jMQx1533SIiypVXVJ8J) | [Águila Vuela](https://open.spotify.com/album/2ea6IQF8ALW452y6Jdi8Ai) | 6:52 | 2023-08-25 | 2023-10-01 |
 

@@ -4,7 +4,7 @@
 
 > Chill out and relax to the breeziest hits from the Philippines.
 
-240 songs - 15 hr 39 min
+241 songs - 15 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,7 @@
 | [Nananaginip](https://open.spotify.com/track/5DX70OMOt1uV17YyCSWxUs) | [Hey Its Je](https://open.spotify.com/artist/2Cm26ufVCzZu7XVrLH3P6O) | [Nananaginip](https://open.spotify.com/album/7GPHsF3g1ISuCekfzxrMh6) | 4:37 | 2024-02-28 | 2024-04-04 |
 | [Nandito](https://open.spotify.com/track/3yO2w4yahMDqQ8dI3MtnZF) | [figvres](https://open.spotify.com/artist/4ShxxebL6hOdEveQSOVZkV) | [Nandito](https://open.spotify.com/album/3xlq1xz7FYfdFqzB6P4rE8) | 4:26 | 2024-07-24 | 2024-08-22 |
 | [Nang Tahimik](https://open.spotify.com/track/2ZvnsAhdcPO0P6pM4JWmKs) | [geiko](https://open.spotify.com/artist/6buyTec2V7K6LVmL74MLl2) | [Nang Tahimik](https://open.spotify.com/album/5gC6gRRQB40oSPOoyPMDdA) | 5:34 | 2024-12-16 | 2025-01-28 |
-| [Nangangamba](https://open.spotify.com/track/1dcNEEtODRVZEevQ20Cgmy) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Nangangamba](https://open.spotify.com/album/4kHntHygZZcKMRXGE2k1Fw) | 3:30 | 2023-10-18 |  |
+| [Nangangamba](https://open.spotify.com/track/1dcNEEtODRVZEevQ20Cgmy) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Nangangamba](https://open.spotify.com/album/4kHntHygZZcKMRXGE2k1Fw) | 3:30 | 2023-10-18 | 2025-06-03 |
 | [naninibago \(mapanlinlang na pahiwatig\)](https://open.spotify.com/track/4FW9aXKqd7pwgfOyyHlQj1) | [Kenaniah](https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS) | [naninibago \(mapanlinlang na pahiwatig\)](https://open.spotify.com/album/2ygYBpH1Xxm7JJCgqjvbkN) | 4:26 | 2025-02-12 | 2025-03-19 |
 | [Napaibig](https://open.spotify.com/track/28DCyWkWSCPjb8ep3IGq59) | [DaivJstn](https://open.spotify.com/artist/5j1gxsK1zOS8kQNzKTH7as) | [Napaibig](https://open.spotify.com/album/6gHJZCG4Hx74KrUg5NT5kQ) | 3:24 | 2024-02-28 | 2024-04-04 |
 | [Never Close Enough](https://open.spotify.com/track/0GJNCSUYSDNyYJlbp6cLD8) | [Kristel Fulgar](https://open.spotify.com/artist/1260cBYXTbcaPim1WPOXFG) | [Never Close Enough](https://open.spotify.com/album/0rCGtPHkwr7Kvhoz0AIur2) | 4:15 | 2024-02-20 | 2024-04-04 |
@@ -172,6 +172,7 @@
 | [Palapit Sa Ü](https://open.spotify.com/track/1c82x61tkS3Piyt7l39Ouu) | [geiko](https://open.spotify.com/artist/6buyTec2V7K6LVmL74MLl2) | [Palapit Sa Ü](https://open.spotify.com/album/3YyLO6slRwlirN8KJkamTB) | 3:17 | 2025-05-21 |  |
 | [Pamamaalam](https://open.spotify.com/track/6OSekJDcxZkthDnEycnRLr) | [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [Pamamaalam](https://open.spotify.com/album/1EwEagKWXDpCHa7W1imleB) | 3:46 | 2024-11-20 | 2024-11-30 |
 | [Pambihira](https://open.spotify.com/track/1Q8Y8NRb5Ug9OPSxJRmW01) | [Kiyo](https://open.spotify.com/artist/6gcteR920pLEynlHzjSRYd), [Zild](https://open.spotify.com/artist/7BxbcnOfx5r4d53UQl2I1s) | [Pambihira](https://open.spotify.com/album/0GKilAe9xZorJi7OthEzWu) | 4:08 | 2025-05-09 | 2025-05-22 |
+| [Panaginip](https://open.spotify.com/track/6XHUlDl2PJMEecKyN6aAkO) | [nicole](https://open.spotify.com/artist/64c6qxJIkcvJP3glpCkWHp) | [Panaginip](https://open.spotify.com/album/7zA0i3A5ALkRYkLgb9cShq) | 5:17 | 2025-06-02 |  |
 | [panalangin](https://open.spotify.com/track/68doFzNBmManicbD9yfRoA) | [syd hartha](https://open.spotify.com/artist/3BQ7MYNeB0wMPtHYPWvu1C) | [panalangin](https://open.spotify.com/album/662zfB0NP7XjMNIiup69jj) | 2:42 | 2024-07-24 | 2024-08-22 |
 | [Panata](https://open.spotify.com/track/5o5rOj568TLbuwXvwA9WIZ) | [Tothapi](https://open.spotify.com/artist/2AcrkelR47hApTQirQhv6F) | [Panata](https://open.spotify.com/album/51Vzo7JDGZNoQriQk3wx4u) | 4:35 | 2025-02-12 | 2025-03-19 |
 | [Pangalawang Ulan](https://open.spotify.com/track/2UqeYYd5gqpAgV1YOjtfeO) | [brando bal](https://open.spotify.com/artist/5PEsNoUzsAqT1INR1N4HY0) | [Pangalawang Ulan](https://open.spotify.com/album/2Zz2esghd8bhZZ4lMqn4zH) | 5:23 | 2024-05-08 | 2024-05-16 |

@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2023-07-28",
-  "description": "Endlich Fr\u00fchling mit allen Songs f\u00fcr l\u00e4ngere Tage!",
-  "name": "Familienzeit: Fr\u00fchling",
+  "description": "Zeit f\u00fcr Plantschen, Eis & Freibadpommes.",
+  "name": "Familienzeit: Sommer",
   "tracks": [
     {
       "album": {
@@ -68,7 +68,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-31",
+      "date_removed": null,
       "duration_ms": 137665,
       "name": "A, B, C, das H\u00e4schen sitzt im Klee",
       "url": "https://open.spotify.com/track/1oFKQ9dnl9tgAXok64HZ4E"
@@ -90,6 +90,28 @@
       "duration_ms": 126232,
       "name": "Ab in den Urlaub",
       "url": "https://open.spotify.com/track/7vQrNHZjGHQqrsXpCSXh89"
+    },
+    {
+      "album": {
+        "name": "Ab zum Meer / \u041a\u044a\u043c \u043c\u043e\u0440\u0435\u0442\u043e",
+        "url": "https://open.spotify.com/album/62ZBqsYXJUUVvKJ7lbPkxg"
+      },
+      "artists": [
+        {
+          "name": "Team Karacho",
+          "url": "https://open.spotify.com/artist/3zpraed9irHtJGfIgOC4KR"
+        },
+        {
+          "name": "Senta",
+          "url": "https://open.spotify.com/artist/7uVDfCKp96l3xCHFYf39vU"
+        }
+      ],
+      "date_added": "2025-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119341,
+      "name": "Ab zum Meer / \u041a\u044a\u043c \u043c\u043e\u0440\u0435\u0442\u043e",
+      "url": "https://open.spotify.com/track/1mTbOFrGaEaLA9RwXV1EB7"
     },
     {
       "album": {
@@ -438,7 +460,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-08",
+      "date_removed": null,
       "duration_ms": 167090,
       "name": "Baller mit meinem Rad",
       "url": "https://open.spotify.com/track/4mqMxZjFLrTi7lwPdnYxHm"
@@ -558,7 +580,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 146546,
       "name": "Bunte Blumen auf der Wiese",
       "url": "https://open.spotify.com/track/2cKgAEfsp3zVyhiLHwQ0p6"
@@ -880,7 +902,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-10",
+      "date_removed": null,
       "duration_ms": 116826,
       "name": "Das Lied Vom Sommer",
       "url": "https://open.spotify.com/track/0BOKpBh5fifQRTzXkIkzaE"
@@ -1030,7 +1052,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-17",
+      "date_removed": null,
       "duration_ms": 147571,
       "name": "Das Sommertier",
       "url": "https://open.spotify.com/track/7zqWKN7UOLNHVBP7a22gm9"
@@ -1230,7 +1252,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-10",
+      "date_removed": null,
       "duration_ms": 171350,
       "name": "Der Gorilla mit der Sonnenbrille",
       "url": "https://open.spotify.com/track/06YuiCN18BLvxwAmHx3KLK"
@@ -1388,7 +1410,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 113127,
       "name": "Der Mai ist gekommen",
       "url": "https://open.spotify.com/track/0BAeOswy8zqael94JgdGFQ"
@@ -1406,7 +1428,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 178026,
       "name": "Der Mai, der Mai, der lustige Mai",
       "url": "https://open.spotify.com/track/1FzrqPhsuTzoPNw0cVhtuy"
@@ -1552,7 +1574,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 175916,
       "name": "Der tollste Tag deines Lebens",
       "url": "https://open.spotify.com/track/0LucQd1DOdPIZ5U0PgK9A6"
@@ -1884,7 +1906,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 220173,
       "name": "Drachenwind",
       "url": "https://open.spotify.com/track/67vOXepMNB0ZDQlnANzsr5"
@@ -2186,7 +2208,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-10",
+      "date_removed": null,
       "duration_ms": 197346,
       "name": "Eis Eis Baby",
       "url": "https://open.spotify.com/track/2mWUXqkl0VdrMuDgHYM8Jc"
@@ -2318,7 +2340,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-10",
+      "date_removed": null,
       "duration_ms": 148000,
       "name": "Es ist Sommer",
       "url": "https://open.spotify.com/track/1d8zn2LjqJU1rwuXXVjilB"
@@ -2394,7 +2416,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-10",
+      "date_removed": null,
       "duration_ms": 214920,
       "name": "Ferien!",
       "url": "https://open.spotify.com/track/3Yi0KHkf6ngSK78cCLDX9T"
@@ -2532,7 +2554,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 170413,
       "name": "Freunde finden / Devenir Amis (feat. ZO\u00cb M\u00cb)",
       "url": "https://open.spotify.com/track/2dJp0mQxfRsZcVMJM6w40j"
@@ -2640,7 +2662,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 177293,
       "name": "Fr\u00fchling!",
       "url": "https://open.spotify.com/track/0Q7RAfNgc6iLtYHHywpTO1"
@@ -2676,7 +2698,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 123320,
       "name": "Fr\u00fchlingslied",
       "url": "https://open.spotify.com/track/4BZlk53PYePRPAB8Bmdnzt"
@@ -2806,7 +2828,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-10",
+      "date_removed": null,
       "duration_ms": 182213,
       "name": "Glitzer",
       "url": "https://open.spotify.com/track/7igJwFCV2rDA9j7t9t4eJE"
@@ -2944,7 +2966,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-08",
+      "date_removed": null,
       "duration_ms": 214546,
       "name": "Hakuna Matata",
       "url": "https://open.spotify.com/track/2C91VnXhPNC6jVFgWObd7t"
@@ -2962,7 +2984,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 100142,
       "name": "Hallihallo, lieber Fr\u00fchling",
       "url": "https://open.spotify.com/track/4nSdquBYRb98DekxpK36Yc"
@@ -3640,7 +3662,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 194080,
       "name": "H\u00e4schen h\u00fcpf",
       "url": "https://open.spotify.com/track/3nBg8DJv1zuUpZAlNpRdhn"
@@ -3694,7 +3716,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 168200,
       "name": "H\u00e4schenparty",
       "url": "https://open.spotify.com/track/1nKFydN5UZzLxnHVZrw7MQ"
@@ -3894,7 +3916,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 110937,
       "name": "Ich lieb den Fr\u00fchling",
       "url": "https://open.spotify.com/track/72UWqWn7JLxjhQiX8zpey1"
@@ -3920,7 +3942,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 117213,
       "name": "Ich lieb den Fr\u00fchling",
       "url": "https://open.spotify.com/track/3UvFfxNQFGEa1jIOVWuyrf"
@@ -3964,7 +3986,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 124426,
       "name": "Ich liebe den Fr\u00fchling \ud83d\ude0a",
       "url": "https://open.spotify.com/track/40l8za7YRSWkNGaTdBelUB"
@@ -4060,7 +4082,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-10",
+      "date_removed": null,
       "duration_ms": 119215,
       "name": "Idas Sommerlied",
       "url": "https://open.spotify.com/track/5VA3fG24jDSYj8QB1eAUtX"
@@ -4144,7 +4166,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 134506,
       "name": "Im Fr\u00fchtau zu Berge",
       "url": "https://open.spotify.com/track/7I8Eo73Pmvnc1HBwP2eDtO"
@@ -4198,7 +4220,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 100132,
       "name": "Im M\u00e4rzen der Bauer",
       "url": "https://open.spotify.com/track/0TvMafU339waUj547Wpujx"
@@ -4252,7 +4274,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-10",
+      "date_removed": null,
       "duration_ms": 210333,
       "name": "In den Urlaub",
       "url": "https://open.spotify.com/track/3N84t07BWwkHopG8rQB4qc"
@@ -4408,7 +4430,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 56745,
       "name": "Jetzt f\u00e4ngt das sch\u00f6ne Fr\u00fchjahr an",
       "url": "https://open.spotify.com/track/3lBlo2fMGuYMva0jYxKeJS"
@@ -5112,7 +5134,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 190226,
       "name": "Kunterbunte Jahreszeiten",
       "url": "https://open.spotify.com/track/3f1o3xCeuyP7WDnfOlprgQ"
@@ -5232,7 +5254,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 174934,
       "name": "Lass die dicke Jacke hier",
       "url": "https://open.spotify.com/track/7HbaL8KZwadxAEZMhS3XKy"
@@ -5716,7 +5738,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-10",
+      "date_removed": null,
       "duration_ms": 147375,
       "name": "LiederTiger Lied",
       "url": "https://open.spotify.com/track/7rgPG4aQ0s7J5hspb7Zc6w"
@@ -5734,7 +5756,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-10",
+      "date_removed": null,
       "duration_ms": 249506,
       "name": "Macarena",
       "url": "https://open.spotify.com/track/4oaj36KzXRgDg4McgcTsZK"
@@ -6238,7 +6260,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 193693,
       "name": "Nach drau\u00dfen gehn",
       "url": "https://open.spotify.com/track/2cqVti1MrsPMW010dEY99r"
@@ -6292,7 +6314,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 118532,
       "name": "No Problama",
       "url": "https://open.spotify.com/track/1baMW3mcV1KzQ89lZrNkaC"
@@ -6654,7 +6676,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-10",
+      "date_removed": null,
       "duration_ms": 114258,
       "name": "Plitsch, plitsch, platsch",
       "url": "https://open.spotify.com/track/5D0Dsd7CecM74CahtrIioW"
@@ -6954,7 +6976,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 149360,
       "name": "Rumspringen",
       "url": "https://open.spotify.com/track/6vMv8uw1u2T0OvlZsvX8bZ"
@@ -7363,6 +7385,24 @@
     },
     {
       "album": {
+        "name": "Sommerbrille",
+        "url": "https://open.spotify.com/album/42Zwv4MVwF55fo7GAjPtgO"
+      },
+      "artists": [
+        {
+          "name": "LiederTiger",
+          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
+        }
+      ],
+      "date_added": "2025-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156450,
+      "name": "Sommerbrille",
+      "url": "https://open.spotify.com/track/1iLdE6oZKQTijqzo5WNc7C"
+    },
+    {
+      "album": {
         "name": "Sommerkinder",
         "url": "https://open.spotify.com/album/6yWDhurBL3quArg4JJ7WgH"
       },
@@ -7392,7 +7432,7 @@
       ],
       "date_added": "2024-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-10",
+      "date_removed": null,
       "duration_ms": 178280,
       "name": "Sommerkinder",
       "url": "https://open.spotify.com/track/2reHbWEZw5ANVmIL9pjw01"
@@ -7786,7 +7826,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 133579,
       "name": "Teilen",
       "url": "https://open.spotify.com/track/3ZOnYrn1P9oH2cAstCRfvn"
@@ -8516,7 +8556,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 157793,
       "name": "Wenn es Fr\u00fchling wird im Hasenland",
       "url": "https://open.spotify.com/track/7MPobyJg4jGMalvxGZRXRE"
@@ -8828,7 +8868,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-10",
+      "date_removed": null,
       "duration_ms": 178426,
       "name": "Wir holen euch ab",
       "url": "https://open.spotify.com/track/76mevuKh4WonFC305wU9BD"

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDpGgAAAAADSvI5WX+4uvKgcpcBFP+oZ",
+  "snapshot_id": "aDuYAAAAAADIT5kXvxoYAiRfnjEDu9k/",
   "tracks": [
     {
       "added_at": null,
@@ -171,6 +171,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nada Pode Calar Um Adorador",
+        "url": "https://open.spotify.com/album/4zlSXPnTQZOMipWUAzYLyE"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 322943,
+      "name": "Nada Pode Calar um Adorador",
+      "url": "https://open.spotify.com/track/1yGsdYR6HBxRTMVJzD5FED"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "O Milagre Sou Eu",
         "url": "https://open.spotify.com/album/7g8BLM7W9A6uzvapx0IcjF"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 246013,
       "name": "O Milagre Sou Eu",
       "url": "https://open.spotify.com/track/4OrQaYo5LtcNlHMBntcyf7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nada Pode Calar Um Adorador",
-        "url": "https://open.spotify.com/album/4zlSXPnTQZOMipWUAzYLyE"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 322943,
-      "name": "Nada Pode Calar um Adorador",
-      "url": "https://open.spotify.com/track/1yGsdYR6HBxRTMVJzD5FED"
     },
     {
       "added_at": null,
@@ -463,26 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bondade de Deus (Goodness of God) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/4nopLVQt4ORCAzAsFisfGy"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Weslei Santos",
-          "url": "https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi"
-        }
-      ],
-      "duration_ms": 329248,
-      "name": "Bondade de Deus (Goodness of God) - Ao Vivo",
-      "url": "https://open.spotify.com/track/6lC6UDR9sBHagx4R1q4t7c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nada Pode Calar Um Adorador",
         "url": "https://open.spotify.com/album/4zlSXPnTQZOMipWUAzYLyE"
       },
@@ -515,6 +495,26 @@
       "duration_ms": 291646,
       "name": "Deus no Controle",
       "url": "https://open.spotify.com/track/3BhJP1pvSi2VQdin38456g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bondade de Deus (Goodness of God) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/4nopLVQt4ORCAzAsFisfGy"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Weslei Santos",
+          "url": "https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi"
+        }
+      ],
+      "duration_ms": 329248,
+      "name": "Bondade de Deus (Goodness of God) - Ao Vivo",
+      "url": "https://open.spotify.com/track/6lC6UDR9sBHagx4R1q4t7c"
     },
     {
       "added_at": null,

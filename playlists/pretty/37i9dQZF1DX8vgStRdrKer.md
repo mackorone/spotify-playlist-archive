@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vgStRdrKer.md) - [plain]
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  <a href=https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM?si=6j4C8WSDTUy9023842Y1Sg>Abbey Ojomu</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,801 likes - 149 songs - 13 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,816 likes - 149 songs - 13 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vgStRdrKer.md) - [plain]
 | 27 | [Holy Spirit Come and Stay](https://open.spotify.com/track/4uxMYXzf8mXIpDp2O3zmsS) | [Tres Dei](https://open.spotify.com/artist/0QxXcWpb9kKHHbx10pIVcC) | [Holy Spirit Come and Stay](https://open.spotify.com/album/3hV9iIimP66jcwdS2nplQJ) | 4:32 |
 | 28 | [DODOnDAWA \- Extended Version](https://open.spotify.com/track/1fgL1JV4NPRaXmJ7MoOTCW) | [TESTIMONY JAGA](https://open.spotify.com/artist/0RuEx08C8sVTmomMsW9N3h), [BBO](https://open.spotify.com/artist/2uaQ0i7hnhD1rRwDOSCkOd) | [DODOnDAWA \(Extended Version\)](https://open.spotify.com/album/1QU3F0GcrX1vGU41l4nAtz) | 10:08 |
 | 29 | [Testify](https://open.spotify.com/track/03B6wjiG0kuJlWCv3neYcg) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Jvson](https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F), [Lekan Salamii](https://open.spotify.com/artist/2S8pBLSlvmEiRPl2SMPfPB) | [Testify](https://open.spotify.com/album/0YnszxnoNksutwA8iVijVt) | 2:34 |
-| 30 | [Song Of My Father \(Live\)](https://open.spotify.com/track/7eBpg6M5HmQ24lKbV4p8af) | [Onome Ovwori](https://open.spotify.com/artist/3BVYzOXEHmFZGLy9jHiXIy), [David Nkennor](https://open.spotify.com/artist/4IunI41jLkKQaKyb3dYESN) | [Song Of My Father \(Live\)](https://open.spotify.com/album/59f6I1iAqoyrvz36Js2fgc) | 5:47 |
+| 30 | [Song Of My Father \(Live\) \- Revisitation](https://open.spotify.com/track/7eBpg6M5HmQ24lKbV4p8af) | [Onome Ovwori](https://open.spotify.com/artist/3BVYzOXEHmFZGLy9jHiXIy), [David Nkennor](https://open.spotify.com/artist/4IunI41jLkKQaKyb3dYESN) | [Song Of My Father \(Live\) \[Revisitation\]](https://open.spotify.com/album/59f6I1iAqoyrvz36Js2fgc) | 5:47 |
 | 31 | [Awudeli Kimi \- Live At The Octagon / 2024](https://open.spotify.com/track/16SHtnLYIh8YXJE6d8BN30) | [Musa Yende](https://open.spotify.com/artist/04lvbGgTkiM8PjDktWQehd) | [Sustained By Grace](https://open.spotify.com/album/5RWsRd2bGY4sjXWC25emKV) | 8:46 |
 | 32 | [Comma](https://open.spotify.com/track/3R2NzmOCiMWyKM4v2KSyXz) | [Lilmizzy](https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy), [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X), [Gospel hints](https://open.spotify.com/artist/2MrSx4lzfedSt9CycfCvvc) | [Comma](https://open.spotify.com/album/16YlnmkAdcfpt3NQPhr1J3) | 3:10 |
 | 33 | [Yes, I Know](https://open.spotify.com/track/3v7RvFFJkYMQU1m7VF9Qp0) | [Chris Else](https://open.spotify.com/artist/0RfGDCR6iUaAP2h3BxNHjP) | [Yes, I Know](https://open.spotify.com/album/3IebSqR46WJAtVMSwJZPOn) | 3:43 |

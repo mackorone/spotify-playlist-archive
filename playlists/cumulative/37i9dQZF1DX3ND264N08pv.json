@@ -418,7 +418,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 187200,
       "name": "Bass Face",
       "url": "https://open.spotify.com/track/4AuEotNw42YumygG85tYyV"
@@ -1016,7 +1016,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 196571,
       "name": "Coco's Revenge - Mind Compressor Remix",
       "url": "https://open.spotify.com/track/1Ef9OrhjeHgcTAO5jSoF8K"
@@ -3156,6 +3156,28 @@
       "duration_ms": 205664,
       "name": "I'm A Raver",
       "url": "https://open.spotify.com/track/1zdCuA3OezPXkK2raYt0BY"
+    },
+    {
+      "album": {
+        "name": "IGNITED",
+        "url": "https://open.spotify.com/album/7e95lVONxm71pHFikMCfRa"
+      },
+      "artists": [
+        {
+          "name": "D-Fence",
+          "url": "https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv"
+        },
+        {
+          "name": "Nolz",
+          "url": "https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA"
+        }
+      ],
+      "date_added": "2025-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233270,
+      "name": "IGNITED",
+      "url": "https://open.spotify.com/track/1t0ocUZ9WdvP1145j7h0HM"
     },
     {
       "album": {
@@ -6524,6 +6546,28 @@
       "duration_ms": 175800,
       "name": "Trip to Scotland",
       "url": "https://open.spotify.com/track/2HOWJ0NsgkKTnxxKK9NUIr"
+    },
+    {
+      "album": {
+        "name": "Trip to USA",
+        "url": "https://open.spotify.com/album/6PXiP9YTgcag50QtDVUqM7"
+      },
+      "artists": [
+        {
+          "name": "Dr. Peacock",
+          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
+        },
+        {
+          "name": "Lil Texas",
+          "url": "https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5"
+        }
+      ],
+      "date_added": "2025-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Trip to USA",
+      "url": "https://open.spotify.com/track/1iHzaNUUAq4dAH5drnioPq"
     },
     {
       "album": {

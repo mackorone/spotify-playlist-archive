@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 
 > Techno is a state of mind\. Cover: Nicole Moudaber
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,070 likes - 129 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,101 likes - 129 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 128 | [Pleasure On My Mind \- Edit](https://open.spotify.com/track/7hjGu0gXza29dqs1EcDbyp) | [Marie Davidson](https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF) | [Pleasure on My Mind](https://open.spotify.com/album/61kjqrcmAEAuNlIdBigDys) | 3:33 |
 | 129 | [Digeridoo \- Cr7E Version](https://open.spotify.com/track/2Ujum3PkQL0x3QMnGoJGPf) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Digeridoo \(Expanded Edition\)](https://open.spotify.com/album/58H1ArDcd3bUzOK0cn31lD) | 7:25 |
 
-Snapshot ID: `aCdllgAAAADWZMGOJe3acVZlC13qU3Lj`
+Snapshot ID: `aCdllgAAAACWch6pZEEL2ardhYm3frUb`

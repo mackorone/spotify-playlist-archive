@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnRw5VvmZDb.md) - [plain]
 
 > Inspired by the arts and his own vivid imagination, Debussy defined a new era of musical impressionism\. Discover his dreamlike preludes, suites and songs right here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,043 likes - 59 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,086 likes - 59 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnRw5VvmZDb.md) - [plain]
 | 58 | [Hommage à Haydn, L\. 115](https://open.spotify.com/track/5VK4Z6CU4qVCBEiOtkCAi9) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Zoltán Kocsis](https://open.spotify.com/artist/5Gi9bw3svtZMwonzcQG2wm) | [The Debussy Edition](https://open.spotify.com/album/65YLzvhQgye36MsOVkHd1Y) | 2:22 |
 | 59 | [Préludes, Book 2, L\. 123: No\. 12, Feux d'artifice](https://open.spotify.com/track/0Ti94IweT3up4u8Kaq0xlf) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Paavali Jumppanen](https://open.spotify.com/artist/2JJt1fJt5ORY0mCtYADW5N) | [Debussy: Préludes & Children's Corner](https://open.spotify.com/album/3k3CQZWtkCm8bVurrw6H1Z) | 4:55 |
 
-Snapshot ID: `AAAAAOJUlWl/zLzoRMMvqhJ3TrvCfvd+`
+Snapshot ID: `ZIxdDQAAAAACR9PpghtNKLT/QacIB3iv`

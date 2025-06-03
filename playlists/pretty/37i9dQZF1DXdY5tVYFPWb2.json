@@ -1,6 +1,6 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 173463,
+  "num_followers": 173481,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
@@ -767,6 +767,22 @@
     {
       "added_at": "2025-05-27 15:00:06",
       "album": {
+        "name": "VARIETY (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/3CBcuIFKPBBTHy7wLfGudH"
+      },
+      "artists": [
+        {
+          "name": "Mariya Takeuchi",
+          "url": "https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N"
+        }
+      ],
+      "duration_ms": 295453,
+      "name": "\u30d7\u30e9\u30b9\u30c6\u30a3\u30c3\u30af\u30fb\u30e9\u30d6 - 12\" Original Length ReMix",
+      "url": "https://open.spotify.com/track/6FhRpVWOtflqDk2UjWMY2N"
+    },
+    {
+      "added_at": "2025-05-27 15:00:06",
+      "album": {
         "name": "Drink!",
         "url": "https://open.spotify.com/album/781ggo4OZzeu39c9S3lf3n"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 187862,
       "name": "Drink!",
       "url": "https://open.spotify.com/track/16OYugyNRr5pxjWZEfkU6b"
-    },
-    {
-      "added_at": "2025-05-27 15:00:06",
-      "album": {
-        "name": "VARIETY (30th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/3CBcuIFKPBBTHy7wLfGudH"
-      },
-      "artists": [
-        {
-          "name": "Mariya Takeuchi",
-          "url": "https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N"
-        }
-      ],
-      "duration_ms": 295453,
-      "name": "\u30d7\u30e9\u30b9\u30c6\u30a3\u30c3\u30af\u30fb\u30e9\u30d6 - 12\" Original Length ReMix",
-      "url": "https://open.spotify.com/track/6FhRpVWOtflqDk2UjWMY2N"
     },
     {
       "added_at": "2025-05-27 15:00:06",
@@ -855,22 +855,6 @@
     {
       "added_at": "2025-05-27 15:00:06",
       "album": {
-        "name": "My Plan",
-        "url": "https://open.spotify.com/album/5tnh0GwxdYRH5aVxVBm52e"
-      },
-      "artists": [
-        {
-          "name": "DURDN",
-          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
-        }
-      ],
-      "duration_ms": 223350,
-      "name": "My Plan",
-      "url": "https://open.spotify.com/track/2MKuMuQZbLOW16zXQksZse"
-    },
-    {
-      "added_at": "2025-05-27 15:00:06",
-      "album": {
         "name": "from JAPAN 2",
         "url": "https://open.spotify.com/album/6MQkhc7AduXNgGCv43WCxl"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 275973,
       "name": "\u9769\u547d\u524d\u591c",
       "url": "https://open.spotify.com/track/2vOeE2Uh2UDG5jow8F2WQ9"
+    },
+    {
+      "added_at": "2025-05-27 15:00:06",
+      "album": {
+        "name": "My Plan",
+        "url": "https://open.spotify.com/album/5tnh0GwxdYRH5aVxVBm52e"
+      },
+      "artists": [
+        {
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+        }
+      ],
+      "duration_ms": 223350,
+      "name": "My Plan",
+      "url": "https://open.spotify.com/track/2MKuMuQZbLOW16zXQksZse"
     },
     {
       "added_at": "2025-05-27 15:00:06",
@@ -955,22 +955,6 @@
     {
       "added_at": "2025-05-27 15:00:06",
       "album": {
-        "name": "cherish",
-        "url": "https://open.spotify.com/album/3hJezmiYPXSjbYEsJ0Xu30"
-      },
-      "artists": [
-        {
-          "name": "KIRINJI",
-          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
-        }
-      ],
-      "duration_ms": 279120,
-      "name": "\u300c\u3042\u306e\u5a18\u306f\u8ab0\uff1f\u300d\u3068\u304b\u8a00\u308f\u305b\u305f\u3044",
-      "url": "https://open.spotify.com/track/4oHcqir3Q8Rr8x7xJiGao4"
-    },
-    {
-      "added_at": "2025-05-27 15:00:06",
-      "album": {
         "name": "PARAISO",
         "url": "https://open.spotify.com/album/2nlSDINS6XaxOTGIvld3u0"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 244905,
       "name": "Climax Night",
       "url": "https://open.spotify.com/track/3O4SdpqF7RzZkA79cRBvwV"
+    },
+    {
+      "added_at": "2025-05-27 15:00:06",
+      "album": {
+        "name": "cherish",
+        "url": "https://open.spotify.com/album/3hJezmiYPXSjbYEsJ0Xu30"
+      },
+      "artists": [
+        {
+          "name": "KIRINJI",
+          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
+        }
+      ],
+      "duration_ms": 279120,
+      "name": "\u300c\u3042\u306e\u5a18\u306f\u8ab0\uff1f\u300d\u3068\u304b\u8a00\u308f\u305b\u305f\u3044",
+      "url": "https://open.spotify.com/track/4oHcqir3Q8Rr8x7xJiGao4"
     },
     {
       "added_at": "2025-05-27 15:00:06",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2025-05-27 15:00:06",
       "album": {
-        "name": "Black or White?",
-        "url": "https://open.spotify.com/album/3SXdTmlIBdOs3KrFriCo0Q"
-      },
-      "artists": [
-        {
-          "name": "First Love is Never Returned",
-          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
-        }
-      ],
-      "duration_ms": 214053,
-      "name": "Black or White?",
-      "url": "https://open.spotify.com/track/3zwQBA4eghhpOvY0afEOug"
-    },
-    {
-      "added_at": "2025-05-27 15:00:06",
-      "album": {
         "name": "SEPTEMBER",
         "url": "https://open.spotify.com/album/1z9aAHNTNB1heqRfK501Rn"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 275560,
       "name": "SEPTEMBER",
       "url": "https://open.spotify.com/track/0hh8HEObfyaRV7jZyVOPR1"
+    },
+    {
+      "added_at": "2025-05-27 15:00:06",
+      "album": {
+        "name": "Black or White?",
+        "url": "https://open.spotify.com/album/3SXdTmlIBdOs3KrFriCo0Q"
+      },
+      "artists": [
+        {
+          "name": "First Love is Never Returned",
+          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
+        }
+      ],
+      "duration_ms": 214053,
+      "name": "Black or White?",
+      "url": "https://open.spotify.com/track/3zwQBA4eghhpOvY0afEOug"
     },
     {
       "added_at": "2025-05-27 15:00:06",
@@ -1359,6 +1359,38 @@
     {
       "added_at": "2025-05-27 15:00:06",
       "album": {
+        "name": "CITY POP LOVERS",
+        "url": "https://open.spotify.com/album/3Npp8Wobd8XRztK3xVVu48"
+      },
+      "artists": [
+        {
+          "name": "Yu Sakai",
+          "url": "https://open.spotify.com/artist/2rgC29v3ZYaGgbzPGh3d9Y"
+        },
+        {
+          "name": "Ovall",
+          "url": "https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv"
+        },
+        {
+          "name": "Kan Sano",
+          "url": "https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9"
+        },
+        {
+          "name": "Michael Kaneko",
+          "url": "https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb"
+        },
+        {
+          "name": "Hiro-a-key",
+          "url": "https://open.spotify.com/artist/3xST4IdzibYK6K3IAtcaVe"
+        }
+      ],
+      "duration_ms": 339226,
+      "name": "SPARKLE",
+      "url": "https://open.spotify.com/track/14Z9RrWIwkULvaOpppqAxb"
+    },
+    {
+      "added_at": "2025-05-27 15:00:06",
+      "album": {
         "name": "\u30a4\u30f3\u30ca\u30fc\u30c0\u30a4\u30a2\u30ed\u30b0",
         "url": "https://open.spotify.com/album/4bhJB89vkQ7S1jgpeOvPqs"
       },
@@ -1395,38 +1427,6 @@
     {
       "added_at": "2025-05-27 15:00:06",
       "album": {
-        "name": "CITY POP LOVERS",
-        "url": "https://open.spotify.com/album/3Npp8Wobd8XRztK3xVVu48"
-      },
-      "artists": [
-        {
-          "name": "Yu Sakai",
-          "url": "https://open.spotify.com/artist/2rgC29v3ZYaGgbzPGh3d9Y"
-        },
-        {
-          "name": "Ovall",
-          "url": "https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv"
-        },
-        {
-          "name": "Kan Sano",
-          "url": "https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9"
-        },
-        {
-          "name": "Michael Kaneko",
-          "url": "https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb"
-        },
-        {
-          "name": "Hiro-a-key",
-          "url": "https://open.spotify.com/artist/3xST4IdzibYK6K3IAtcaVe"
-        }
-      ],
-      "duration_ms": 339226,
-      "name": "SPARKLE",
-      "url": "https://open.spotify.com/track/14Z9RrWIwkULvaOpppqAxb"
-    },
-    {
-      "added_at": "2025-05-27 15:00:06",
-      "album": {
         "name": "snow love",
         "url": "https://open.spotify.com/album/67HG1uLY4tFmC6L3aNxjmS"
       },
@@ -1459,38 +1459,6 @@
     {
       "added_at": "2025-05-27 15:00:06",
       "album": {
-        "name": "\u30aa\u30c8\u30ca\u306e\u6642\u9593",
-        "url": "https://open.spotify.com/album/0geyTyvqhnQeIyBbKeuDo9"
-      },
-      "artists": [
-        {
-          "name": "RUNG HYANG",
-          "url": "https://open.spotify.com/artist/2g6WKZC8HgvOmNWzP6WflQ"
-        }
-      ],
-      "duration_ms": 207014,
-      "name": "\u30aa\u30c8\u30ca\u306e\u6642\u9593",
-      "url": "https://open.spotify.com/track/7ySx8EW2buRTE4WWkZbbH2"
-    },
-    {
-      "added_at": "2025-05-27 15:00:06",
-      "album": {
-        "name": "Forgotten Shores",
-        "url": "https://open.spotify.com/album/6LyMqxaatfs73KcRmZqaOr"
-      },
-      "artists": [
-        {
-          "name": "\u89d2\u677e \u654f\u751f",
-          "url": "https://open.spotify.com/artist/3sQKcUtvMwpzlc7j0wSkxJ"
-        }
-      ],
-      "duration_ms": 280346,
-      "name": "Blue Swell",
-      "url": "https://open.spotify.com/track/2OQrmBc1a1JLiNug5uvexJ"
-    },
-    {
-      "added_at": "2025-05-27 15:00:06",
-      "album": {
         "name": "Inner Ocean",
         "url": "https://open.spotify.com/album/1wtnBDpaRDystPjLmcX2D1"
       },
@@ -1507,18 +1475,18 @@
     {
       "added_at": "2025-05-27 15:00:06",
       "album": {
-        "name": "Rainy Runway",
-        "url": "https://open.spotify.com/album/2QtIY3WAWrq8KsFtZe13JH"
+        "name": "\u30aa\u30c8\u30ca\u306e\u6642\u9593",
+        "url": "https://open.spotify.com/album/0geyTyvqhnQeIyBbKeuDo9"
       },
       "artists": [
         {
-          "name": "KIRINJI",
-          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
+          "name": "RUNG HYANG",
+          "url": "https://open.spotify.com/artist/2g6WKZC8HgvOmNWzP6WflQ"
         }
       ],
-      "duration_ms": 241680,
-      "name": "Rainy Runway",
-      "url": "https://open.spotify.com/track/3bkWf5QEbNlshZMmGcYxbK"
+      "duration_ms": 207014,
+      "name": "\u30aa\u30c8\u30ca\u306e\u6642\u9593",
+      "url": "https://open.spotify.com/track/7ySx8EW2buRTE4WWkZbbH2"
     },
     {
       "added_at": "2025-05-27 15:00:06",
@@ -1543,6 +1511,38 @@
     {
       "added_at": "2025-05-27 15:00:06",
       "album": {
+        "name": "Rainy Runway",
+        "url": "https://open.spotify.com/album/2QtIY3WAWrq8KsFtZe13JH"
+      },
+      "artists": [
+        {
+          "name": "KIRINJI",
+          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
+        }
+      ],
+      "duration_ms": 241680,
+      "name": "Rainy Runway",
+      "url": "https://open.spotify.com/track/3bkWf5QEbNlshZMmGcYxbK"
+    },
+    {
+      "added_at": "2025-05-27 15:00:06",
+      "album": {
+        "name": "Forgotten Shores",
+        "url": "https://open.spotify.com/album/6LyMqxaatfs73KcRmZqaOr"
+      },
+      "artists": [
+        {
+          "name": "\u89d2\u677e \u654f\u751f",
+          "url": "https://open.spotify.com/artist/3sQKcUtvMwpzlc7j0wSkxJ"
+        }
+      ],
+      "duration_ms": 280346,
+      "name": "Blue Swell",
+      "url": "https://open.spotify.com/track/2OQrmBc1a1JLiNug5uvexJ"
+    },
+    {
+      "added_at": "2025-05-27 15:00:06",
+      "album": {
         "name": "READY",
         "url": "https://open.spotify.com/album/00uQzIjKyIV5GEzBXIb5Os"
       },
@@ -1555,6 +1555,22 @@
       "duration_ms": 227951,
       "name": "READY",
       "url": "https://open.spotify.com/track/5oXVRN6QDQCXRnKeR1NAXm"
+    },
+    {
+      "added_at": "2025-05-27 15:00:06",
+      "album": {
+        "name": "Yin Yang",
+        "url": "https://open.spotify.com/album/5vFiiyKT8keR7XHQB7Ii8i"
+      },
+      "artists": [
+        {
+          "name": "Mime",
+          "url": "https://open.spotify.com/artist/57eMezj5cRrIJreMdbecEh"
+        }
+      ],
+      "duration_ms": 222464,
+      "name": "\u30a8\u30e1\u30e9\u30eb\u30c9\u30b0\u30ea\u30fc\u30f3\u306e\u63fa\u3089\u3081\u304d",
+      "url": "https://open.spotify.com/track/2OkLRX5QF4RGNnCbeFlFwX"
     },
     {
       "added_at": "2025-05-27 15:00:06",
@@ -1591,34 +1607,22 @@
     {
       "added_at": "2025-05-27 15:00:06",
       "album": {
-        "name": "Yin Yang",
-        "url": "https://open.spotify.com/album/5vFiiyKT8keR7XHQB7Ii8i"
+        "name": "Loneliness",
+        "url": "https://open.spotify.com/album/0rtgFB3NTb4M2hjJcU05zJ"
       },
       "artists": [
         {
-          "name": "Mime",
-          "url": "https://open.spotify.com/artist/57eMezj5cRrIJreMdbecEh"
-        }
-      ],
-      "duration_ms": 222464,
-      "name": "\u30a8\u30e1\u30e9\u30eb\u30c9\u30b0\u30ea\u30fc\u30f3\u306e\u63fa\u3089\u3081\u304d",
-      "url": "https://open.spotify.com/track/2OkLRX5QF4RGNnCbeFlFwX"
-    },
-    {
-      "added_at": "2025-05-27 15:00:06",
-      "album": {
-        "name": "Once Upon a Night",
-        "url": "https://open.spotify.com/album/3PDXFarV1SrfDwaWQBArbe"
-      },
-      "artists": [
+          "name": "Funkindustry",
+          "url": "https://open.spotify.com/artist/0QYdME0a29bLqdSqKaprOX"
+        },
         {
-          "name": "Billyrrom",
-          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+          "name": "Natsu Summer",
+          "url": "https://open.spotify.com/artist/4l3pCmSMjqdSkhWUZp6jCD"
         }
       ],
-      "duration_ms": 223395,
-      "name": "Once Upon a Night",
-      "url": "https://open.spotify.com/track/6WKv7u984pHLpvQsQ3DsQD"
+      "duration_ms": 254929,
+      "name": "Loneliness",
+      "url": "https://open.spotify.com/track/0dPQXzKfYSVPCoTftltoiC"
     },
     {
       "added_at": "2025-05-27 15:00:06",
@@ -1635,6 +1639,22 @@
       "duration_ms": 304266,
       "name": "\u590f\u591c\u306e\u30de\u30b8\u30c3\u30af",
       "url": "https://open.spotify.com/track/4H15DPcx96pHtUdICF8Chc"
+    },
+    {
+      "added_at": "2025-05-27 15:00:06",
+      "album": {
+        "name": "Once Upon a Night",
+        "url": "https://open.spotify.com/album/3PDXFarV1SrfDwaWQBArbe"
+      },
+      "artists": [
+        {
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+        }
+      ],
+      "duration_ms": 223395,
+      "name": "Once Upon a Night",
+      "url": "https://open.spotify.com/track/6WKv7u984pHLpvQsQ3DsQD"
     },
     {
       "added_at": "2025-05-27 15:00:06",
@@ -1659,22 +1679,6 @@
     {
       "added_at": "2025-05-27 15:00:06",
       "album": {
-        "name": "Blessings of the Sun",
-        "url": "https://open.spotify.com/album/1AJute2GlhIg4DmgLG121e"
-      },
-      "artists": [
-        {
-          "name": "\u70cf\u514e -uto-",
-          "url": "https://open.spotify.com/artist/1mRH8Ts0ab2eegJfZsqPwc"
-        }
-      ],
-      "duration_ms": 281257,
-      "name": "Goes On",
-      "url": "https://open.spotify.com/track/0ABdjpCuLnTTluGGdlDfja"
-    },
-    {
-      "added_at": "2025-05-27 15:00:06",
-      "album": {
         "name": "\u30d6\u30eb\u30fc\u30e9\u30a4\u30c8",
         "url": "https://open.spotify.com/album/13FfzSty8Mw77tHNyPE3cu"
       },
@@ -1691,30 +1695,18 @@
     {
       "added_at": "2025-05-27 15:00:06",
       "album": {
-        "name": "\u3044\u3048\u306a\u3044",
-        "url": "https://open.spotify.com/album/64CZVcDI0nZSz0HkpRhlcH"
+        "name": "Blessings of the Sun",
+        "url": "https://open.spotify.com/album/1AJute2GlhIg4DmgLG121e"
       },
       "artists": [
         {
-          "name": "MAISONdes",
-          "url": "https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM"
-        },
-        {
-          "name": "\u5802\u6751\u7483\u7fbd",
-          "url": "https://open.spotify.com/artist/6s5z8omxqZ2k0gdGUSB0hp"
-        },
-        {
-          "name": "301",
-          "url": "https://open.spotify.com/artist/2NYKFt0lji6afg6POKWPrr"
-        },
-        {
-          "name": "GeG",
-          "url": "https://open.spotify.com/artist/4sh0yr2z7vdKqzahUgQ5Oi"
+          "name": "\u70cf\u514e -uto-",
+          "url": "https://open.spotify.com/artist/1mRH8Ts0ab2eegJfZsqPwc"
         }
       ],
-      "duration_ms": 216204,
-      "name": "\u3044\u3048\u306a\u3044",
-      "url": "https://open.spotify.com/track/5zU11rGz9E06aZRUO8E3rm"
+      "duration_ms": 281257,
+      "name": "Goes On",
+      "url": "https://open.spotify.com/track/0ABdjpCuLnTTluGGdlDfja"
     },
     {
       "added_at": "2025-05-27 15:00:06",

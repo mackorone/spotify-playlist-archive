@@ -6219,6 +6219,24 @@
     },
     {
       "album": {
+        "name": "Puppet Stringers",
+        "url": "https://open.spotify.com/album/23gzdvkfw6DHXhNU2FK1XZ"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169659,
+      "name": "Puppet Stringers",
+      "url": "https://open.spotify.com/track/4LW2otQQtTwdzuQ4nZPbhN"
+    },
+    {
+      "album": {
         "name": "Put On Dog",
         "url": "https://open.spotify.com/album/0GYRu2d493XVadeoJjxfAR"
       },
@@ -8074,7 +8092,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 157946,
       "name": "Trembling Level",
       "url": "https://open.spotify.com/track/6nTpkrt5jhJFJzao1Figes"

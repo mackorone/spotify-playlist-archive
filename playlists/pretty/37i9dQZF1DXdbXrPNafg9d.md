@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Alex G
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,314,168 likes - 200 songs - 11 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,314,085 likes - 200 songs - 11 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,28 +27,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 17 | [e\-Asphyxiation](https://open.spotify.com/track/67xO4UUjCfL5YpOKQcLFtp) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [e\-Asphyxiation](https://open.spotify.com/album/3RsFtvsQWCcZ0jkC8cMYRf) | 3:38 |
 | 18 | [Stranglers](https://open.spotify.com/track/4VnMFlkMkhNa821NMvkTjE) | [Miynt](https://open.spotify.com/artist/4grFkvUAEj8IWdGDEJ2F4b) | [Rain Money Dogs](https://open.spotify.com/album/79USiXeKEd2sgnEzStvmFj) | 3:35 |
 | 19 | [Dialing In](https://open.spotify.com/track/7mCMTIXtBm2QxoULtEsSu7) | [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [Dialing In](https://open.spotify.com/album/3TCiNEzwse1s2hArQotFMK) | 4:40 |
-| 20 | [CPR](https://open.spotify.com/track/4shJVGH4xRWChBSkHHamxv) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [CPR](https://open.spotify.com/album/74nethFnPNZe86ksfRl0gh) | 2:50 |
-| 21 | [Horses Can't Outrun Me](https://open.spotify.com/track/1z5OtnMX5b0heflQGJoCCk) | [Susannah Joffe](https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw) | [Horses Can't Outrun Me](https://open.spotify.com/album/6E8NpD4VwO3OfiP7PFEHUV) | 4:00 |
-| 22 | [Green Love](https://open.spotify.com/track/6tqKDaysOGsxyHALlKnoNp) | [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0) | [Green Love](https://open.spotify.com/album/4Sf5v9UdN3tT6gVksg9KCB) | 2:24 |
-| 23 | [drains](https://open.spotify.com/track/73kYiEtR4NgVdIyQF3pYsK) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [drains](https://open.spotify.com/album/29Zc1IOVFcFA3uBq0ykR4Q) | 3:48 |
-| 24 | [charlie](https://open.spotify.com/track/7KSNuSwVTXM624F82het3B) | [Ella Woolsey](https://open.spotify.com/artist/6ZA874uHCLTNsLGKVUdbB9) | [blue angels](https://open.spotify.com/album/5sgqFO94iFfjpRc4rA54Eh) | 3:06 |
-| 25 | [Swedish Girl](https://open.spotify.com/track/4KDxyRMRBTmjZ7sgfqJrPg) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [Swedish Girl](https://open.spotify.com/album/2HQ34fRPNtVvWJjXo101Yo) | 2:33 |
-| 26 | [loves got a lot to give](https://open.spotify.com/track/4ttwqUPAUHNaO4oyho7EWw) | [Sughn](https://open.spotify.com/artist/0BPCwLHpZIpVlVXcZyH2CB) | [what was left](https://open.spotify.com/album/3BQX4CZVpazjHpgMReoGvF) | 0:57 |
-| 27 | [Cynical](https://open.spotify.com/track/4MxiJ97y5kgK7Y9SX3NXm3) | [Sea Lemon](https://open.spotify.com/artist/6Oy4STraI9APdMoCO5te6w) | [Cynical](https://open.spotify.com/album/2aB0cfwaJSkhLNGTC4MdP0) | 2:31 |
-| 28 | [Stroom](https://open.spotify.com/track/2c2x2KQdf8vTi0WlENNHXQ) | [Green Gardens](https://open.spotify.com/artist/5EwUOG0SThYLLXclwy1PiO) | [Stroom](https://open.spotify.com/album/2n2FkT870hnN8lryVswMyK) | 1:57 |
-| 29 | [Push the Dove](https://open.spotify.com/track/2bM6M8MYwNHY0NH8kk80dt) | [e4444e](https://open.spotify.com/artist/6LZ9PLlrea4f1JZycPxsyC) | [Authentic Natural Tradition](https://open.spotify.com/album/3pwDE4fSZ5BsTnUTHZrHCR) | 4:25 |
-| 30 | [summer's scorch](https://open.spotify.com/track/7GPixB0TmbVFLIPgWrgdvM) | [Jahnah Camille](https://open.spotify.com/artist/5GDXbZvMrkJk33BqFmeXqS) | [summer's scorch](https://open.spotify.com/album/7yKYH2ydvNc8TwDRTXCVYf) | 2:55 |
-| 31 | [Wolf River](https://open.spotify.com/track/5XyN4ThYy7yLPol7FEGRty) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Wolf River](https://open.spotify.com/album/134mZBbvgtMVVdxG1BItmx) | 3:41 |
-| 32 | [special](https://open.spotify.com/track/06pGjykKy9y55C5o9Unk0p) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [special](https://open.spotify.com/album/18xLIvrq9zSmW3UljQgxKj) | 2:18 |
-| 33 | [paper doll](https://open.spotify.com/track/6bNg1NJzBC8HErlyiCJCYV) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [paper doll](https://open.spotify.com/album/10F8JH1StBCcOea8iSJwhS) | 3:15 |
-| 34 | [Harsh Love](https://open.spotify.com/track/6kdHY97UbXDdxfExPF45su) | [Blue Foundation](https://open.spotify.com/artist/1FWybrAwiSa0zKibdLfZZr), [Helena Gao](https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h) | [Close To The Knife](https://open.spotify.com/album/3av2n4bZhUwbSL54kdV0th) | 3:29 |
-| 35 | [Good Faith](https://open.spotify.com/track/6DfO2zxqlNm6WOiZgGhm3M) | [Hudson Freeman](https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8) | [Good Faith](https://open.spotify.com/album/2tfIl5SWjq5muFjpdEi2fl) | 4:02 |
-| 36 | [Father Brown's](https://open.spotify.com/track/6LYIGbuRodiM14X2jhvYsJ) | [Kean Kavanagh](https://open.spotify.com/artist/7bSUVGOUQn87z2HRy0Ha3B) | [Father Brown's](https://open.spotify.com/album/3gHQRNWfZC0pac0DTk53WO) | 4:59 |
-| 37 | [She Knows Me](https://open.spotify.com/track/19PkTJpzPdvb40rEV1JQiV) | [LAUNDRY DAY](https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk) | [She Knows Me](https://open.spotify.com/album/4U1309DvQfYCeiFWBiUDlr) | 3:29 |
-| 38 | [Blisters](https://open.spotify.com/track/1A7PqR5g8ohmDNiv9lW3Ca) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Blisters](https://open.spotify.com/album/5vzXPWpstjR61UTpczsUeu) | 3:43 |
-| 39 | [Hard To Love](https://open.spotify.com/track/6ARUQIGXr0dsocvuqKnkuN) | [Sally Shapiro](https://open.spotify.com/artist/0Guuvi7P0R6ZuX2DeL1m9M) | [Ready To Live A Lie](https://open.spotify.com/album/7bFwMjZ3aiEVrbGxRTVQH8) | 4:51 |
-| 40 | [Cutterpillow](https://open.spotify.com/track/49jaaNDXs4MtSB385rYBmG) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [Cutterpillow](https://open.spotify.com/album/4UWQh3BN66Ba2Q8FHFEujq) | 2:17 |
-| 41 | [Small Change](https://open.spotify.com/track/6iCH68EVZeUm0qlIBp5GOO) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Small Change](https://open.spotify.com/album/3RZwwR7eh3FvVekFA2ivNp) | 2:45 |
+| 20 | [Send It Back](https://open.spotify.com/track/6FDYvTpaGaGjXqsnNhUPXm) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Send It Back](https://open.spotify.com/album/1w88Rkop980Vu2KBZQbPM6) | 2:53 |
+| 21 | [CPR](https://open.spotify.com/track/4shJVGH4xRWChBSkHHamxv) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [CPR](https://open.spotify.com/album/74nethFnPNZe86ksfRl0gh) | 2:50 |
+| 22 | [Horses Can't Outrun Me](https://open.spotify.com/track/1z5OtnMX5b0heflQGJoCCk) | [Susannah Joffe](https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw) | [Horses Can't Outrun Me](https://open.spotify.com/album/6E8NpD4VwO3OfiP7PFEHUV) | 4:00 |
+| 23 | [Green Love](https://open.spotify.com/track/6tqKDaysOGsxyHALlKnoNp) | [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0) | [Green Love](https://open.spotify.com/album/4Sf5v9UdN3tT6gVksg9KCB) | 2:24 |
+| 24 | [drains](https://open.spotify.com/track/73kYiEtR4NgVdIyQF3pYsK) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [drains](https://open.spotify.com/album/29Zc1IOVFcFA3uBq0ykR4Q) | 3:48 |
+| 25 | [charlie](https://open.spotify.com/track/7KSNuSwVTXM624F82het3B) | [Ella Woolsey](https://open.spotify.com/artist/6ZA874uHCLTNsLGKVUdbB9) | [blue angels](https://open.spotify.com/album/5sgqFO94iFfjpRc4rA54Eh) | 3:06 |
+| 26 | [Swedish Girl](https://open.spotify.com/track/4KDxyRMRBTmjZ7sgfqJrPg) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [Swedish Girl](https://open.spotify.com/album/2HQ34fRPNtVvWJjXo101Yo) | 2:33 |
+| 27 | [loves got a lot to give](https://open.spotify.com/track/4ttwqUPAUHNaO4oyho7EWw) | [Sughn](https://open.spotify.com/artist/0BPCwLHpZIpVlVXcZyH2CB) | [what was left](https://open.spotify.com/album/3BQX4CZVpazjHpgMReoGvF) | 0:57 |
+| 28 | [Cynical](https://open.spotify.com/track/4MxiJ97y5kgK7Y9SX3NXm3) | [Sea Lemon](https://open.spotify.com/artist/6Oy4STraI9APdMoCO5te6w) | [Cynical](https://open.spotify.com/album/2aB0cfwaJSkhLNGTC4MdP0) | 2:31 |
+| 29 | [Stroom](https://open.spotify.com/track/2c2x2KQdf8vTi0WlENNHXQ) | [Green Gardens](https://open.spotify.com/artist/5EwUOG0SThYLLXclwy1PiO) | [Stroom](https://open.spotify.com/album/2n2FkT870hnN8lryVswMyK) | 1:57 |
+| 30 | [Push the Dove](https://open.spotify.com/track/2bM6M8MYwNHY0NH8kk80dt) | [e4444e](https://open.spotify.com/artist/6LZ9PLlrea4f1JZycPxsyC) | [Authentic Natural Tradition](https://open.spotify.com/album/3pwDE4fSZ5BsTnUTHZrHCR) | 4:25 |
+| 31 | [summer's scorch](https://open.spotify.com/track/7GPixB0TmbVFLIPgWrgdvM) | [Jahnah Camille](https://open.spotify.com/artist/5GDXbZvMrkJk33BqFmeXqS) | [summer's scorch](https://open.spotify.com/album/7yKYH2ydvNc8TwDRTXCVYf) | 2:55 |
+| 32 | [Wolf River](https://open.spotify.com/track/5XyN4ThYy7yLPol7FEGRty) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Wolf River](https://open.spotify.com/album/134mZBbvgtMVVdxG1BItmx) | 3:41 |
+| 33 | [special](https://open.spotify.com/track/06pGjykKy9y55C5o9Unk0p) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [special](https://open.spotify.com/album/18xLIvrq9zSmW3UljQgxKj) | 2:18 |
+| 34 | [paper doll](https://open.spotify.com/track/6bNg1NJzBC8HErlyiCJCYV) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [paper doll](https://open.spotify.com/album/10F8JH1StBCcOea8iSJwhS) | 3:15 |
+| 35 | [Harsh Love](https://open.spotify.com/track/6kdHY97UbXDdxfExPF45su) | [Blue Foundation](https://open.spotify.com/artist/1FWybrAwiSa0zKibdLfZZr), [Helena Gao](https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h) | [Close To The Knife](https://open.spotify.com/album/3av2n4bZhUwbSL54kdV0th) | 3:29 |
+| 36 | [Good Faith](https://open.spotify.com/track/6DfO2zxqlNm6WOiZgGhm3M) | [Hudson Freeman](https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8) | [Good Faith](https://open.spotify.com/album/2tfIl5SWjq5muFjpdEi2fl) | 4:02 |
+| 37 | [Father Brown's](https://open.spotify.com/track/6LYIGbuRodiM14X2jhvYsJ) | [Kean Kavanagh](https://open.spotify.com/artist/7bSUVGOUQn87z2HRy0Ha3B) | [Father Brown's](https://open.spotify.com/album/3gHQRNWfZC0pac0DTk53WO) | 4:59 |
+| 38 | [She Knows Me](https://open.spotify.com/track/19PkTJpzPdvb40rEV1JQiV) | [LAUNDRY DAY](https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk) | [She Knows Me](https://open.spotify.com/album/4U1309DvQfYCeiFWBiUDlr) | 3:29 |
+| 39 | [Blisters](https://open.spotify.com/track/1A7PqR5g8ohmDNiv9lW3Ca) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Blisters](https://open.spotify.com/album/5vzXPWpstjR61UTpczsUeu) | 3:43 |
+| 40 | [Hard To Love](https://open.spotify.com/track/6ARUQIGXr0dsocvuqKnkuN) | [Sally Shapiro](https://open.spotify.com/artist/0Guuvi7P0R6ZuX2DeL1m9M) | [Ready To Live A Lie](https://open.spotify.com/album/7bFwMjZ3aiEVrbGxRTVQH8) | 4:51 |
+| 41 | [Cutterpillow](https://open.spotify.com/track/49jaaNDXs4MtSB385rYBmG) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [Cutterpillow](https://open.spotify.com/album/4UWQh3BN66Ba2Q8FHFEujq) | 2:17 |
 | 42 | [Blister](https://open.spotify.com/track/3InSQjWvh4fKQx1BBiA4Nl) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Blister](https://open.spotify.com/album/1j6EOOgb7OtwaTPu1aA0gi) | 2:59 |
 | 43 | [Trapped in the Neon Lights](https://open.spotify.com/track/2U1ZEejCS3AM1JCxPiwK3T) | [The Mighty Project](https://open.spotify.com/artist/1Uz7BX5Tgwzc08SzJytGJg) | [The Best Die Immortalised](https://open.spotify.com/album/4G8oWo1Lb45TAWb97IGk38) | 3:46 |
 | 44 | [Of The Sorrows](https://open.spotify.com/track/3liBzXCnXG0oserFPXFS8R) | [For Those I Love](https://open.spotify.com/artist/3X4mDEa1fff0zpbBp8wiOZ) | [Of The Sorrows](https://open.spotify.com/album/74FsSXffJtdMdsUHmn9NBY) | 5:33 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 199 | [Diva](https://open.spotify.com/track/6ynQk8NlYeRv0KnrCU0ppi) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Diva](https://open.spotify.com/album/0JV0FSaxRPredegMlY1tYi) | 4:16 |
 | 200 | [Conversation Overtime](https://open.spotify.com/track/30UFEBDXv0Kgt9x0jrtKzG) | [Mustard Service](https://open.spotify.com/artist/7kAZYW5e5hQHYGQ0XHYhns) | [Conversation Overtime](https://open.spotify.com/album/15zkafkucFbEhJnG29EGTU) | 3:14 |
 
-Snapshot ID: `aDoo9AAAAABNUDwDRwWd6WUfkxSy6iXH`
+Snapshot ID: `aD3QgwAAAADg8VRMUzvaIrr7i0eQxQ4J`

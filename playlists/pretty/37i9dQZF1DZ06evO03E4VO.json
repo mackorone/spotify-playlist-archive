@@ -1,12 +1,12 @@
 {
   "description": "This is Alaina Castillo. The essential tracks, all in one playlist.",
-  "num_followers": 4750,
+  "num_followers": 4751,
   "original_name": "This Is Alaina Castillo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDpGgAAAAADQBhmxh6YVPFPCmnupoqxq",
+  "snapshot_id": "aDuYAAAAAABziAtbI25C2PYhseLB2rG7",
   "tracks": [
     {
       "added_at": null,
@@ -75,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "blink of an eye",
-        "url": "https://open.spotify.com/album/7DS8opcjcZNh1QVHPm3L3Z"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 199314,
-      "name": "blink of an eye",
-      "url": "https://open.spotify.com/track/4Kc7BvNsfQqqSbhqCrSQ6z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "last night",
         "url": "https://open.spotify.com/album/0CoGTbkwsNheCdBFtY4qBD"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 199932,
       "name": "last night",
       "url": "https://open.spotify.com/track/0HMQ493c8db2ALqW7sYGhr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "blink of an eye",
+        "url": "https://open.spotify.com/album/7DS8opcjcZNh1QVHPm3L3Z"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 199314,
+      "name": "blink of an eye",
+      "url": "https://open.spotify.com/track/4Kc7BvNsfQqqSbhqCrSQ6z"
     },
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
         }
       ],
-      "duration_ms": 205626,
-      "name": "indica",
-      "url": "https://open.spotify.com/track/5xYeduRB8cgNdtAdwxqbQq"
+      "duration_ms": 181480,
+      "name": "stfu (i got u)",
+      "url": "https://open.spotify.com/track/7IPYZOkcGbjkBAOgeZrav2"
     },
     {
       "added_at": null,
@@ -404,25 +404,9 @@
           "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
         }
       ],
-      "duration_ms": 181480,
-      "name": "stfu (i got u)",
-      "url": "https://open.spotify.com/track/7IPYZOkcGbjkBAOgeZrav2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "lips (Original Music from The L Word: Generation Q)",
-        "url": "https://open.spotify.com/album/6inpQzVk0xceOKGckmQ0hx"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 187853,
-      "name": "lips - Original Music from The L Word: Generation Q",
-      "url": "https://open.spotify.com/track/461V74msd3fIqrQyy4ZoqC"
+      "duration_ms": 205626,
+      "name": "indica",
+      "url": "https://open.spotify.com/track/5xYeduRB8cgNdtAdwxqbQq"
     },
     {
       "added_at": null,
@@ -439,6 +423,22 @@
       "duration_ms": 202706,
       "name": "wish you were here",
       "url": "https://open.spotify.com/track/6KtJt7GzE8W5V29xgVGC0K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "lips (Original Music from The L Word: Generation Q)",
+        "url": "https://open.spotify.com/album/6inpQzVk0xceOKGckmQ0hx"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 187853,
+      "name": "lips - Original Music from The L Word: Generation Q",
+      "url": "https://open.spotify.com/track/461V74msd3fIqrQyy4ZoqC"
     },
     {
       "added_at": null,
@@ -491,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "wishlist",
+        "url": "https://open.spotify.com/album/4lR8d9biYRzivkjR2YNxN8"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 203093,
+      "name": "wishlist",
+      "url": "https://open.spotify.com/track/5A7c78ufMETDVBmFADFMJv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "mensajes de voz",
         "url": "https://open.spotify.com/album/3ke91rZeapK58zUwhdztrX"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 183200,
       "name": "fantasies",
       "url": "https://open.spotify.com/track/4IBBzp0rA5acqhx8oGbYQM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "wishlist",
-        "url": "https://open.spotify.com/album/4lR8d9biYRzivkjR2YNxN8"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 203093,
-      "name": "wishlist",
-      "url": "https://open.spotify.com/track/5A7c78ufMETDVBmFADFMJv"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "mensajes de voz",
-        "url": "https://open.spotify.com/album/3ke91rZeapK58zUwhdztrX"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 235480,
-      "name": "triste como yo",
-      "url": "https://open.spotify.com/track/51gGn8YO9k4HlWBuH1A7ZF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "the voicenotes",
         "url": "https://open.spotify.com/album/0u0XemQDEsApGFSI1Yr379"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 203627,
       "name": "voicenote",
       "url": "https://open.spotify.com/track/7lOlTpLweCJXsrx9YiMbN3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "mensajes de voz",
+        "url": "https://open.spotify.com/album/3ke91rZeapK58zUwhdztrX"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 235480,
+      "name": "triste como yo",
+      "url": "https://open.spotify.com/track/51gGn8YO9k4HlWBuH1A7ZF"
     },
     {
       "added_at": null,

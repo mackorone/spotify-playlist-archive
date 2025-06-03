@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYvexEL7O6ws.md) - [plain]
 
 > The label's essential tracks by PARTYNEXTDOOR, Drake, Naomi Sharon and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,132 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,125 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYvexEL7O6ws.md) - [plain]
 | 99 | [Instinct \(feat\. MadeinTYO\)](https://open.spotify.com/track/49VzL5oBsUICN7U34T98b9) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [MadeinTYO](https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ) | [Nocturnal](https://open.spotify.com/album/6qQ53ChF4TLjNxw0X83obV) | 2:54 |
 | 100 | [Her Way](https://open.spotify.com/track/3JEJwjqLkg2Jbau5922CAb) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR TWO](https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ) | 3:36 |
 
-Snapshot ID: `AAAAAGO5f7kc414Ieb5uzpbe3QI1HX5L`
+Snapshot ID: `aCNpjwAAAACKgHptTQs7b/dblaHeQjpq`

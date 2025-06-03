@@ -4,7 +4,7 @@
 
 > Megapark bis Bierkönig \- Malle ist nur einmal im Jahr!
 
-175 songs - 8 hr 50 min
+176 songs - 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [PECH & SCHWEFEL](https://open.spotify.com/track/29QMGzrf349SV10G5sxEk8) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD), [Matthias Reim](https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3) | [DORFDiSKO ZWEi](https://open.spotify.com/album/2Ca43km7ALoz3Qk6Gbj4JQ) | 3:18 | 2023-07-14 | 2024-04-19 |
 | [Peter Pan](https://open.spotify.com/track/5CvAzdenlzv3ImMcG7awJV) | [Julian Sommer](https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ), [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4) | [Peter Pan](https://open.spotify.com/album/6z3sGEQXxPO0lx5SOWGHgn) | 3:30 | 2023-07-14 |  |
 | [Pyrotechnik](https://open.spotify.com/track/0qZ3G41U3JOIPGRoGMdaLP) | [Balkonultra](https://open.spotify.com/artist/244Mbyb5jTFQa0iT8f0ihz), [Marc Eggers](https://open.spotify.com/artist/7jJXsd4MyYxs06qwrs5Wtf), [Ikke Hüftgold](https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf) | [Pyrotechnik](https://open.spotify.com/album/1co3KxwhOSQRoJcJepGElm) | 2:57 | 2024-06-18 |  |
+| [Rakete \- Party Edit](https://open.spotify.com/track/1bPPGrKv9D6z4RSwYm76QY) | [Mätropolis](https://open.spotify.com/artist/7iYhDa5Ucrs8Ucsi0Vv1uG), [Dj Aaron](https://open.spotify.com/artist/0pVuJqYW9lsToZRBmkFXPJ) | [Rakete \(Party Edit\)](https://open.spotify.com/album/2YP8W81DKC5crHKWHaLKM3) | 3:08 | 2025-06-02 |  |
 | [Rapunzel \- DJ Robin Remix](https://open.spotify.com/track/2WQBFD9aMY1HldcU7Ekvp1) | [Die Draufgänger](https://open.spotify.com/artist/6poBa7e0hqMo8tfNjh0TAV), [Ikke Hüftgold](https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf), [DJ Robin](https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz) | [Rapunzel \(DJ Robin Remix\)](https://open.spotify.com/album/3dr4AKRx355JOuK77zvyvX) | 2:45 | 2023-07-14 |  |
 | [Regenbogenfarben](https://open.spotify.com/track/1L0zpRujG3Rgq7K1I8E3nD) | [Kerstin Ott](https://open.spotify.com/artist/1F30RWETubxDmbyfxeVPg7) | [Mut zur Katastrophe \(Gold Edition\)](https://open.spotify.com/album/1JqPV9DwyuinpMM7FqasGU) | 3:46 | 2024-03-27 |  |
 | [RESPEKTLOS](https://open.spotify.com/track/2vFtIRRnVeelWIv6SIzTc6) | [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4) | [RESPEKTLOS](https://open.spotify.com/album/2lMKUB1k6foUaPsfe7yJUD) | 2:21 | 2024-08-30 | 2025-01-02 |
@@ -158,7 +159,7 @@
 | [Sauftourist](https://open.spotify.com/track/61eiAAYLa2sygwdg7nt1qL) | [Ikke Hüftgold](https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf) | [Sauftourist](https://open.spotify.com/album/66sLyPMmwDoRqYo0XU3YLX) | 2:50 | 2023-07-14 | 2023-09-24 |
 | [Schaf](https://open.spotify.com/track/0wD53LCFE5T7wnvu9nohaW) | [Kool Savas](https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD), [Chris Tall](https://open.spotify.com/artist/0exB6UwclmlyA9gRpitxTZ) | [Schaf](https://open.spotify.com/album/40wVAvHCbmwu0NHGUumOro) | 2:26 | 2024-11-29 | 2025-03-18 |
 | [Schau mal herein](https://open.spotify.com/track/0f6pPvxwkvBFaIpfhAQHgt) | [Helene Fischer](https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W), [Florian Silbereisen](https://open.spotify.com/artist/4zgxsfsKRmAn6Wj2HXRYcq) | [Schau mal herein](https://open.spotify.com/album/69m1H2ksabmBn4oCQzYut7) | 3:03 | 2025-02-19 |  |
-| [Scheiss auf Schickimicki \- Video Edit](https://open.spotify.com/track/2Vz4iMRlwS95zChQbZo4HL) | [Stefan Stürmer](https://open.spotify.com/artist/6jvJeMzlBK7kW5LQUePR6q), [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4) | [Scheiss auf Schickimicki \(Video Edit\)](https://open.spotify.com/album/28NwJjbkVrQ1J7NfS8ed5I) | 3:18 | 2023-09-18 |  |
+| [Scheiss auf Schickimicki \- Video Edit](https://open.spotify.com/track/2Vz4iMRlwS95zChQbZo4HL) | [Stefan Stürmer](https://open.spotify.com/artist/6jvJeMzlBK7kW5LQUePR6q), [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4) | [Scheiss auf Schickimicki \(Video Edit\)](https://open.spotify.com/album/28NwJjbkVrQ1J7NfS8ed5I) | 3:18 | 2023-09-18 | 2025-06-03 |
 | [Scheißegal, ich feier \- Radio Edit](https://open.spotify.com/track/59OdgXmYQOW5oGmOQlyPEg) | [Mütze Katze](https://open.spotify.com/artist/1NIZkVWOktJ496divSh7cF) | [Scheißegal, ich feier \(Radio Edit\)](https://open.spotify.com/album/5b9J518c3kaHN5FIZ4EOhY) | 2:44 | 2023-07-14 | 2025-02-13 |
 | [Schief gehen](https://open.spotify.com/track/66FyslpuLrB0HmnKFEDWAZ) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [Alexander Eder](https://open.spotify.com/artist/4AlPM4fME9Zlju99rXyaQE) | [Schief gehen](https://open.spotify.com/album/14sUgKqN9E96R3B0fLv4lo) | 2:36 | 2025-05-22 |  |
 | [Schnelle Brille](https://open.spotify.com/track/2jZhxHB4xaTaxktl8bcl6z) | [Nancy Franck](https://open.spotify.com/artist/1TgdpH31IOzayp4PFpSUqD) | [Schnelle Brille](https://open.spotify.com/album/4UzKoWcOCq6GUpvE9I9xQ5) | 2:17 | 2023-12-19 |  |

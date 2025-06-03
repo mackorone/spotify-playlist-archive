@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 
 > Welcome to DISCOLAND 🪩🕺🏽 it's a happy place
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,738 likes - 200 songs - 11 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,762 likes - 200 songs - 11 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 | 29 | [Stars On 45 Theme](https://open.spotify.com/track/76ymDmRsIGS1HpxdYp8keA) | [Sgt Slick](https://open.spotify.com/artist/64rqoVt9ShRtUCU0bPKQll) | [Stars On 45 Theme](https://open.spotify.com/album/5uM2QXuRO8mjyi81Cx3Pco) | 2:48 |
 | 30 | [Weekend](https://open.spotify.com/track/5OBcmwFWq6d3CMOjH2QuBt) | [The Reflex](https://open.spotify.com/artist/6E7SbenCPEit9gDFnMlDUA) | [Weekend](https://open.spotify.com/album/3y6t3M1IEoKCXynUrJx7Jv) | 2:59 |
 | 31 | [pillowtalk \(with yung bae\)](https://open.spotify.com/track/0azGwVInzyPDUrOQ3qlq4B) | [GUDFELLA](https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO), [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX) | [pillowtalk \(with yung bae\)](https://open.spotify.com/album/1IM8QiIWRJzcWbuRTqH89n) | 3:05 |
-| 32 | [Bella Vita](https://open.spotify.com/track/2rtY25y4dpI58ZZnD5RFhS) | [Thys](https://open.spotify.com/artist/6x8tZ30aFwdl50YjETAppR), [Simon Says!](https://open.spotify.com/artist/186v5tVeJT1K15be0J5vKe), [Elasi](https://open.spotify.com/artist/2IH3lriPtap4OENe2LXVgW) | [Bella Vita](https://open.spotify.com/album/77cc5OsaMAz80k0ySozcv5) | 4:00 |
+| 32 | [Bella Vita](https://open.spotify.com/track/2rtY25y4dpI58ZZnD5RFhS) | [Thys](https://open.spotify.com/artist/6x8tZ30aFwdl50YjETAppR), [Simon Says!](https://open.spotify.com/artist/186v5tVeJT1K15be0J5vKe), [ELASI](https://open.spotify.com/artist/3C8AlXFIhzxJ4BCKxNQJJ6) | [Bella Vita](https://open.spotify.com/album/77cc5OsaMAz80k0ySozcv5) | 4:00 |
 | 33 | [We Got To Hit It Off \(Dimitri From Paris Liberated Women Mix \- Edit\)](https://open.spotify.com/track/3MPbNCW7Iroa8aZRcaHnJP) | [Millie Jackson](https://open.spotify.com/artist/27XI002zivG9xuzrZ9dIb1), [Dimitri From Paris](https://open.spotify.com/artist/5Il27M5JXuQLgwDgVrQMgo) | [We Got To Hit It Off \(Dimitri From Paris Liberated Women Mix\)](https://open.spotify.com/album/5241huGlDz9oZs9Oz9Ah3H) | 3:36 |
 | 34 | [Attention](https://open.spotify.com/track/1oXqOjCEwbyDU0X6Ymy2xC) | [Arpy Brown](https://open.spotify.com/artist/74FtMGqsZm74eumHo8Fi3V) | [Attention](https://open.spotify.com/album/6xZtW8spi08b0VZeolb99r) | 2:20 |
 | 35 | [Enjoy Your Life](https://open.spotify.com/track/0hlddFDTZxC81BMFC2WINw) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Oby Onyioha](https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY) | [Eternal Reverie](https://open.spotify.com/album/7xDQlillR9FwIIoxgKSEQb) | 3:34 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 | 199 | [Tell Me What You Want](https://open.spotify.com/track/6MRUQNjaUud1TiFBRV8HNq) | [Oden & Fatzo](https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Tell Me What You Want](https://open.spotify.com/album/4rd5c66hQdMosQrB7O7zHi) | 2:40 |
 | 200 | [We Got To Hit It Off \(Opolopo Remix\)](https://open.spotify.com/track/74CrbocUJfjuuXkcjf2D8R) | [Millie Jackson](https://open.spotify.com/artist/27XI002zivG9xuzrZ9dIb1), [Opolopo](https://open.spotify.com/artist/5WaobPZaAjGIIlabFX3I94) | [We Got To Hit It Off \(Opolopo Remix\)](https://open.spotify.com/album/1xwl1Z51yWHYyqSjEY3H1l) | 5:43 |
 
-Snapshot ID: `aDnkkwAAAAAPVAwQQQyz1Cx5TJg6ynFv`
+Snapshot ID: `AAAAAH9MSQzWxiR8p37quDG0l/XAr0f5`

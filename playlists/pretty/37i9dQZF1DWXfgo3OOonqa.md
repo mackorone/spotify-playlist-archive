@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,271 likes - 110 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,277 likes - 110 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [SO FLY](https://open.spotify.com/track/7pYIvfiuhSmXAFKIOXZkUN) | [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp), [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [SO FLY](https://open.spotify.com/album/46Us73Zf2d29CpStD22nbG) | 2:00 |
-| 2 | [Förstå mig](https://open.spotify.com/track/3j0HI048DJuzpG7oTugkBF) | [Y4ska](https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Y4](https://open.spotify.com/album/1Hmubk9vXxysBNC3qv9iGe) | 1:50 |
-| 3 | [Rina Rina](https://open.spotify.com/track/1h6bh1BOjKahFpWiKbFopa) | [Sarettii](https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi) | [TRIBE](https://open.spotify.com/album/6bnoFxa1viWWld2TlNKagJ) | 2:34 |
-| 4 | [DÄR FÖR MIG](https://open.spotify.com/track/2M92LSUxeYDRIAD1lyphzo) | [Montana](https://open.spotify.com/artist/2RmwY9PuyhQF6SrNAZJwQG) | [DÄR FÖR MIG](https://open.spotify.com/album/0CqUH2J0iqAYXcTAkF3hYA) | 1:52 |
-| 5 | [VAD GÖR DOM?](https://open.spotify.com/track/1yqSSkjBk0GSh7TQdDpwY5) | [Mohelá](https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ) | [VAD GÖR DOM?](https://open.spotify.com/album/3Aa5QXzsIwGoPUxesq7ZoK) | 2:32 |
+| 1 | [Rina Rina](https://open.spotify.com/track/1h6bh1BOjKahFpWiKbFopa) | [Sarettii](https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi) | [TRIBE](https://open.spotify.com/album/6bnoFxa1viWWld2TlNKagJ) | 2:34 |
+| 2 | [SO FLY](https://open.spotify.com/track/7pYIvfiuhSmXAFKIOXZkUN) | [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp), [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [SO FLY](https://open.spotify.com/album/46Us73Zf2d29CpStD22nbG) | 2:00 |
+| 3 | [Förstå mig](https://open.spotify.com/track/3j0HI048DJuzpG7oTugkBF) | [Y4ska](https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Y4](https://open.spotify.com/album/1Hmubk9vXxysBNC3qv9iGe) | 1:50 |
+| 4 | [VAD GÖR DOM?](https://open.spotify.com/track/1yqSSkjBk0GSh7TQdDpwY5) | [Mohelá](https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ) | [VAD GÖR DOM?](https://open.spotify.com/album/3Aa5QXzsIwGoPUxesq7ZoK) | 2:32 |
+| 5 | [DÄR FÖR MIG](https://open.spotify.com/track/2M92LSUxeYDRIAD1lyphzo) | [Montana](https://open.spotify.com/artist/2RmwY9PuyhQF6SrNAZJwQG) | [DÄR FÖR MIG](https://open.spotify.com/album/0CqUH2J0iqAYXcTAkF3hYA) | 1:52 |
 | 6 | [00:42](https://open.spotify.com/track/2UAPfh7Iwcz2a8P5qmXxpn) | [Sarettii](https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi) | [00:42](https://open.spotify.com/album/1FYKCczUjRwsavPxIYST4c) | 2:00 |
-| 7 | [KOMPLICERAD](https://open.spotify.com/track/3kFX0nbRMNndsrOvADE6or) | [yoChris](https://open.spotify.com/artist/6zGzgzbLgfqpV9dxw1iyno), [Kayen](https://open.spotify.com/artist/3ntW47aiIFFvi4glmmP8a1) | [KOMPLICERAD](https://open.spotify.com/album/6dd0onLCsChb0wSaLzleVB) | 2:16 |
-| 8 | [Aktiv](https://open.spotify.com/track/2QCYJLzM6FJMPwBw9JcgFp) | [Nuqi](https://open.spotify.com/artist/2I1j9kLL2wXV0KnKjs4Cz5), [Mukki](https://open.spotify.com/artist/3ajzLIlWCy0ypXarTE871Y) | [Aktiv](https://open.spotify.com/album/6qLUeiPU7lubELgsJMb9ff) | 2:03 |
-| 9 | [Allt Ja Sagt](https://open.spotify.com/track/0wTMnyphTnhWvs92czXhL2) | [Y4ska](https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8), [Lekaye](https://open.spotify.com/artist/1ex9QsvTSM6iNuLh1lkJUM), [ROMANOS](https://open.spotify.com/artist/5GT8ltnqVPe7Zf8Ynrb5mV) | [Allt Ja Sagt](https://open.spotify.com/album/7E3onZZyusR6FhduyhiyFB) | 2:16 |
+| 7 | [Aktiv](https://open.spotify.com/track/2QCYJLzM6FJMPwBw9JcgFp) | [Nuqi](https://open.spotify.com/artist/2I1j9kLL2wXV0KnKjs4Cz5), [Mukki](https://open.spotify.com/artist/3ajzLIlWCy0ypXarTE871Y) | [Aktiv](https://open.spotify.com/album/6qLUeiPU7lubELgsJMb9ff) | 2:03 |
+| 8 | [Allt Ja Sagt](https://open.spotify.com/track/0wTMnyphTnhWvs92czXhL2) | [Y4ska](https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8), [Lekaye](https://open.spotify.com/artist/1ex9QsvTSM6iNuLh1lkJUM), [ROMANOS](https://open.spotify.com/artist/5GT8ltnqVPe7Zf8Ynrb5mV) | [Allt Ja Sagt](https://open.spotify.com/album/7E3onZZyusR6FhduyhiyFB) | 2:16 |
+| 9 | [KOMPLICERAD](https://open.spotify.com/track/3kFX0nbRMNndsrOvADE6or) | [yoChris](https://open.spotify.com/artist/6zGzgzbLgfqpV9dxw1iyno), [Kayen](https://open.spotify.com/artist/3ntW47aiIFFvi4glmmP8a1) | [KOMPLICERAD](https://open.spotify.com/album/6dd0onLCsChb0wSaLzleVB) | 2:16 |
 | 10 | [On & On](https://open.spotify.com/track/67KLoprszFAPHd933JNswt) | [Deso](https://open.spotify.com/artist/1U3mO1k6m4lSlusDwdNOZZ) | [On & On](https://open.spotify.com/album/2u3nKfUz0wqvgJD1PiMWSw) | 2:01 |
 | 11 | [Bad Bunny](https://open.spotify.com/track/5MssSbOHsF0nGCj9tttufS) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [Bad Bunny](https://open.spotify.com/album/4VTI0uQI2V4w1NpMpGyZ31) | 2:56 |
 | 12 | [AMSTERDAM](https://open.spotify.com/track/1kH8GGDj8UFLx7UoDZDeEy) | [HAVAL](https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt) | [AMSTERDAM](https://open.spotify.com/album/4edAV3LleI1OX0w04NzcPF) | 2:10 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 109 | [STORSTAD](https://open.spotify.com/track/59LPXzVSMbC2QXixBJoMN5) | [Montana](https://open.spotify.com/artist/2RmwY9PuyhQF6SrNAZJwQG) | [STORSTAD](https://open.spotify.com/album/6aIHMKiQOKXcFlDLLZxM8D) | 2:01 |
 | 110 | [ord mot ord](https://open.spotify.com/track/5KqdQSnwZHvSkzjfBToKga) | [GG](https://open.spotify.com/artist/5NxuYq2W1QB6qpPxNYVumI) | [ord mot ord](https://open.spotify.com/album/57O0oZw1dXNehqQmLQdlwB) | 2:39 |
 
-Snapshot ID: `AAAAAFOW55y7rI4djK8vSFZLjvdH0H2R`
+Snapshot ID: `aD1kqgAAAAACVgN+Nl+xc8YL3n1D6zSo`

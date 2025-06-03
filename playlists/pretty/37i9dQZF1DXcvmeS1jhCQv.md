@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 
 > New tunes from Ireland for your discovery\. Cover: Cliffords
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,233 likes - 70 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,234 likes - 70 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 | 69 | [Comedy Jam](https://open.spotify.com/track/0BJiQ5rBPpIEanpZCWumAV) | [Curtisy](https://open.spotify.com/artist/5VMnilBpX9s4C1HBnTCX35) | [WHAT WAS THE QUESTION \(Deluxe'd\)](https://open.spotify.com/album/2PDLo9TCl6ecDQTHlBXy9U) | 1:43 |
 | 70 | [Blind Dem](https://open.spotify.com/track/7vEAT61DMYQKS3UqUch4ka) | [Elzzz](https://open.spotify.com/artist/0fGy9jPiPxcaoXHpQnjPy7) | [Blind Dem](https://open.spotify.com/album/5WKCmEKKdr1ox5oClJknrF) | 2:20 |
 
-Snapshot ID: `aDmhuwAAAABVyVNDqKPKWGTf5nvNl9n7`
+Snapshot ID: `AAAAANITLvNemIiwuPiLGC98nH7K6t9B`

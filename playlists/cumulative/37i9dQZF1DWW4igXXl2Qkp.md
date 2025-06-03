@@ -4,7 +4,7 @@
 
 > Celebrating 10 years of the best new hip\-hop music from new, independent artists\.  Cover: <a href="spotify:artist:3FFfAZsrsx8ot1m6H5vzQc">Zukenee<br/></a>
 
-1,802 songs - 3 day 5 hr 25 min
+1,803 songs - 3 day 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [Anything I Want](https://open.spotify.com/track/4B9hLmAE1ln9HFWeyd5R3L) | [Kings](https://open.spotify.com/artist/32GMj177nVLZPp3lqVrCXp) | [Anything I Want](https://open.spotify.com/album/4oM14dSjci8M4412lOqNQN) | 2:12 | 2023-09-27 | 2023-11-30 |
 | [Anything You Want](https://open.spotify.com/track/4hinXOJmKCmYv6p2maNGpw) | [Lil Sil](https://open.spotify.com/artist/6XMLYRQKAjxZF6V9IlxjVq) | [Anything You Want](https://open.spotify.com/album/3YUIX8vSWKkk6GnYmhyTh5) | 2:12 | 2021-12-01 | 2022-01-14 |
 | [Anytime](https://open.spotify.com/track/76aNeKFASLz6UE6rmcZvXz) | [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [Anytime](https://open.spotify.com/album/5HNPfgoy393M0xbdZzAmKd) | 2:00 | 2022-04-06 | 2022-05-19 |
-| [Anyways](https://open.spotify.com/track/3ISlnQ4IjlcezriNDhJ8WV) | [Hurricane Wisdom](https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7), [TnTXD](https://open.spotify.com/artist/3MnXXt7rpUrlpgrvgzYFAp) | [Anyways](https://open.spotify.com/album/3PyytgXdiBfLQsa7mKU25V) | 1:36 | 2025-05-23 |  |
+| [Anyways](https://open.spotify.com/track/3ISlnQ4IjlcezriNDhJ8WV) | [Hurricane Wisdom](https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7), [TnTXD](https://open.spotify.com/artist/3MnXXt7rpUrlpgrvgzYFAp) | [Anyways](https://open.spotify.com/album/3PyytgXdiBfLQsa7mKU25V) | 1:36 | 2025-05-23 | 2025-06-03 |
 | [apathy](https://open.spotify.com/track/0FbvZWH5U89TSqtbSMo39N) | [bronclair](https://open.spotify.com/artist/5FTkkcSCHksqiJqQMPYoH6) | [apathy](https://open.spotify.com/album/0z5F3pShCMnNCiqlkeyfdD) | 1:53 | 2023-03-29 | 2023-05-18 |
 | [APPARENT](https://open.spotify.com/track/1XhINAXbdbMNo8nAAM8xXN) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb) | [APPARENT](https://open.spotify.com/album/7mlxFceSjfCACrEhIwVscy) | 1:36 | 2022-06-01 | 2022-08-04 |
 | [appetite](https://open.spotify.com/track/0fdHJqg7tEprDJAk32pMow) | [Mati](https://open.spotify.com/artist/16nyx3S0mgSs2cGlw9Sol8) | [appetite](https://open.spotify.com/album/05CpKNKVTuiPgqnVkpksrw) | 3:08 | 2024-06-19 | 2024-08-29 |
@@ -1159,6 +1159,7 @@
 | [Not Regular](https://open.spotify.com/track/7mByAdVTexOBRENqm8AD5Y) | [Btb Dezz](https://open.spotify.com/artist/7dsfjJOEJ0naEgecbf0lol) | [Not Regular](https://open.spotify.com/album/14Pn8nSdYBEMSZ2BuGu0HR) | 3:50 | 2025-02-12 |  |
 | [Not That Simple](https://open.spotify.com/track/5bMj885rdf14vMri390d37) | [Harrison First](https://open.spotify.com/artist/0lcIRzEVZTKyNiEct4UKTo) | [Not That Simple](https://open.spotify.com/album/5wMuamc5ZTJO4R2M0eVJRK) | 2:13 | 2024-01-10 | 2024-03-21 |
 | [NOT THE ONE](https://open.spotify.com/track/19klnHuCJeI8cFAdofKIlk) | [Chy Cartier](https://open.spotify.com/artist/4qxFzMJxrNzlv11J7pCY5q) | [NOT THE ONE](https://open.spotify.com/album/7ky33adA4nCmKbr1dmx66h) | 2:32 | 2025-02-19 | 2025-04-10 |
+| [Not Worth It](https://open.spotify.com/track/6hNz8fIpc5xgvlcAmrZ6qH) | [Dc2trill](https://open.spotify.com/artist/3LVus8IbMtxb8idFCCSsLI) | [Community Service](https://open.spotify.com/album/1XJTG3zHRkcQBviB8SgUrQ) | 1:52 | 2025-06-02 |  |
 | [Not Yours](https://open.spotify.com/track/41WxDDKjJ0gu3vSw1yT2Rw) | [Dono](https://open.spotify.com/artist/5wyWKmk8XPhoJlD6rnw0eG) | [Not Yours](https://open.spotify.com/album/3in0lEx2FWN13v1GJamzJr) | 2:03 | 2025-04-16 | 2025-04-24 |
 | [Note to Self](https://open.spotify.com/track/5fALZEGm33LptW0iWs8W27) | [Oke Junior](https://open.spotify.com/artist/5vjAO8SJCky5YKbuJXxP9g) | [Note to Self](https://open.spotify.com/album/4FD1LtVI76yUoWsQmciGxZ) | 2:35 | 2023-08-30 | 2023-11-16 |
 | [Nothin To Talk About](https://open.spotify.com/track/1Bsp5OUfJWrxBwfwDDNbJX) | [Drayco McCoy](https://open.spotify.com/artist/4bVa2CaqxYufM2gnNg0RGf) | [Nothin To Talk About](https://open.spotify.com/album/0P7m9XJvISQqJVY0Y8x8FB) | 1:50 | 2023-10-18 | 2023-11-30 |

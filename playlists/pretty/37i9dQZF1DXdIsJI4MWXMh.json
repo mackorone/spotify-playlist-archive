@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A gastar la suela con lo mejor de la ranchera chilena! Foto: Grupo Z\u00fambale Primo, & Coraz\u00f3n Serrano.",
-  "num_followers": 73775,
+  "num_followers": 73786,
   "original_name": "Ranchera Chilena",
   "owner": {
     "name": "Spotify",
@@ -595,42 +595,6 @@
     {
       "added_at": "2025-04-25 03:00:28",
       "album": {
-        "name": "Por una Yegua No Se para la Trilla",
-        "url": "https://open.spotify.com/album/1ImwrMRcka92sIKex1lbmm"
-      },
-      "artists": [
-        {
-          "name": "Grupo el duelo",
-          "url": "https://open.spotify.com/artist/00q1iEmkH6dNeT4Os4mAOv"
-        },
-        {
-          "name": "RIVALES DE CHILE",
-          "url": "https://open.spotify.com/artist/33AD9OZTMS2oNnsuDcVw9g"
-        }
-      ],
-      "duration_ms": 186513,
-      "name": "Ni Que Fueras la Mas Buena",
-      "url": "https://open.spotify.com/track/69CiCaacgCf6S6GBMIgpm0"
-    },
-    {
-      "added_at": "2025-04-25 03:00:28",
-      "album": {
-        "name": "En 3d y a Todo Color",
-        "url": "https://open.spotify.com/album/4izoOBAYsECpgty3zi9w80"
-      },
-      "artists": [
-        {
-          "name": "Los Potros Del Sur",
-          "url": "https://open.spotify.com/artist/6zWLSfAWJ35c78VgLRs7EY"
-        }
-      ],
-      "duration_ms": 223085,
-      "name": "Mentirosa",
-      "url": "https://open.spotify.com/track/4fLSNdj45MMwAynymYuWJz"
-    },
-    {
-      "added_at": "2025-04-25 03:00:28",
-      "album": {
         "name": "Escribiendo Nuestra Historia",
         "url": "https://open.spotify.com/album/5XE8kPI7VGYBwczrlaL1Xb"
       },
@@ -651,18 +615,38 @@
     {
       "added_at": "2025-04-25 03:00:28",
       "album": {
-        "name": "Escribiendo Nuestra Historia",
-        "url": "https://open.spotify.com/album/6QoONIyh3A2VhSXtuLcncS"
+        "name": "En 3d y a Todo Color",
+        "url": "https://open.spotify.com/album/4izoOBAYsECpgty3zi9w80"
       },
       "artists": [
         {
-          "name": "Los Bohemios de Chile",
-          "url": "https://open.spotify.com/artist/093pBQ2Jix4lhkhgMg5ye4"
+          "name": "Los Potros Del Sur",
+          "url": "https://open.spotify.com/artist/6zWLSfAWJ35c78VgLRs7EY"
         }
       ],
-      "duration_ms": 252651,
-      "name": "Deja de Llorar",
-      "url": "https://open.spotify.com/track/6uFhH3AMgjOfIbMmnH7XA2"
+      "duration_ms": 223085,
+      "name": "Mentirosa",
+      "url": "https://open.spotify.com/track/4fLSNdj45MMwAynymYuWJz"
+    },
+    {
+      "added_at": "2025-04-25 03:00:28",
+      "album": {
+        "name": "Por una Yegua No Se para la Trilla",
+        "url": "https://open.spotify.com/album/1ImwrMRcka92sIKex1lbmm"
+      },
+      "artists": [
+        {
+          "name": "Grupo el duelo",
+          "url": "https://open.spotify.com/artist/00q1iEmkH6dNeT4Os4mAOv"
+        },
+        {
+          "name": "RIVALES DE CHILE",
+          "url": "https://open.spotify.com/artist/33AD9OZTMS2oNnsuDcVw9g"
+        }
+      ],
+      "duration_ms": 186513,
+      "name": "Ni Que Fueras la Mas Buena",
+      "url": "https://open.spotify.com/track/69CiCaacgCf6S6GBMIgpm0"
     },
     {
       "added_at": "2025-04-25 03:00:28",
@@ -687,22 +671,18 @@
     {
       "added_at": "2025-04-25 03:00:28",
       "album": {
-        "name": "Y SI TE VAS",
-        "url": "https://open.spotify.com/album/7JlQnCT6iFSamTll6m17Pp"
+        "name": "Escribiendo Nuestra Historia",
+        "url": "https://open.spotify.com/album/6QoONIyh3A2VhSXtuLcncS"
       },
       "artists": [
         {
-          "name": "J Matt",
-          "url": "https://open.spotify.com/artist/7yx74uBZexx52wjBFKoe96"
-        },
-        {
-          "name": "Balbi El Chamako",
-          "url": "https://open.spotify.com/artist/3k090bKo2iSqNdowffKHrt"
+          "name": "Los Bohemios de Chile",
+          "url": "https://open.spotify.com/artist/093pBQ2Jix4lhkhgMg5ye4"
         }
       ],
-      "duration_ms": 187557,
-      "name": "Y SI TE VAS",
-      "url": "https://open.spotify.com/track/2lns8DjLPHeb8pC5Kz4jB4"
+      "duration_ms": 252651,
+      "name": "Deja de Llorar",
+      "url": "https://open.spotify.com/track/6uFhH3AMgjOfIbMmnH7XA2"
     },
     {
       "added_at": "2025-04-25 03:00:28",
@@ -723,6 +703,26 @@
     {
       "added_at": "2025-04-25 03:00:28",
       "album": {
+        "name": "Y SI TE VAS",
+        "url": "https://open.spotify.com/album/7JlQnCT6iFSamTll6m17Pp"
+      },
+      "artists": [
+        {
+          "name": "J Matt",
+          "url": "https://open.spotify.com/artist/7yx74uBZexx52wjBFKoe96"
+        },
+        {
+          "name": "Balbi El Chamako",
+          "url": "https://open.spotify.com/artist/3k090bKo2iSqNdowffKHrt"
+        }
+      ],
+      "duration_ms": 187557,
+      "name": "Y SI TE VAS",
+      "url": "https://open.spotify.com/track/2lns8DjLPHeb8pC5Kz4jB4"
+    },
+    {
+      "added_at": "2025-04-25 03:00:28",
+      "album": {
         "name": "Descaderando Viejos por Todo Chile",
         "url": "https://open.spotify.com/album/1s7OSAGyz5wM1C0qm2Cb6Q"
       },
@@ -735,22 +735,6 @@
       "duration_ms": 287040,
       "name": "Me Vas a Extra\u00f1ar",
       "url": "https://open.spotify.com/track/5yPGRcZj487QaIP6Qfi1DW"
-    },
-    {
-      "added_at": "2025-04-25 03:00:28",
-      "album": {
-        "name": "Rom\u00e1nticos De La Cumbia",
-        "url": "https://open.spotify.com/album/6kKzbk6N2ETObv20GHtUU3"
-      },
-      "artists": [
-        {
-          "name": "Los Supercumbieros de Galvarino",
-          "url": "https://open.spotify.com/artist/4oRCNvfODxOI6kQ8dLdcq9"
-        }
-      ],
-      "duration_ms": 283637,
-      "name": "L\u00e1grimas Frente Al Mar",
-      "url": "https://open.spotify.com/track/2ViguB6mM2tIdesiPtowFV"
     },
     {
       "added_at": "2025-04-25 03:00:28",
@@ -787,6 +771,22 @@
       "duration_ms": 188133,
       "name": "Mis Ojos Estuvieron Llorando",
       "url": "https://open.spotify.com/track/0T9VAznUOBpYvyFsn6Lz3U"
+    },
+    {
+      "added_at": "2025-04-25 03:00:28",
+      "album": {
+        "name": "Rom\u00e1nticos De La Cumbia",
+        "url": "https://open.spotify.com/album/6kKzbk6N2ETObv20GHtUU3"
+      },
+      "artists": [
+        {
+          "name": "Los Supercumbieros de Galvarino",
+          "url": "https://open.spotify.com/artist/4oRCNvfODxOI6kQ8dLdcq9"
+        }
+      ],
+      "duration_ms": 283637,
+      "name": "L\u00e1grimas Frente Al Mar",
+      "url": "https://open.spotify.com/track/2ViguB6mM2tIdesiPtowFV"
     },
     {
       "added_at": "2025-04-25 03:00:28",
@@ -831,22 +831,6 @@
     {
       "added_at": "2025-04-25 03:00:28",
       "album": {
-        "name": "\u00c9xitos Inolvidables",
-        "url": "https://open.spotify.com/album/750F3BvETRBIM13YvhQXpq"
-      },
-      "artists": [
-        {
-          "name": "Los Reales del Valle",
-          "url": "https://open.spotify.com/artist/6PMVAKrQsE450lfX25uEgO"
-        }
-      ],
-      "duration_ms": 213529,
-      "name": "El Amante Apasionado",
-      "url": "https://open.spotify.com/track/72zI9fJ5NLz9TG7Q0XTXXS"
-    },
-    {
-      "added_at": "2025-04-25 03:00:28",
-      "album": {
         "name": "Nacieron para Triunfar, Vol. 1",
         "url": "https://open.spotify.com/album/37wrVwHHXeP8fHf8E8dPw0"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 169466,
       "name": "Sombrero Vaquero",
       "url": "https://open.spotify.com/track/3dNAZRp5BnwVuKa7NDjGfE"
+    },
+    {
+      "added_at": "2025-04-25 03:00:28",
+      "album": {
+        "name": "\u00c9xitos Inolvidables",
+        "url": "https://open.spotify.com/album/750F3BvETRBIM13YvhQXpq"
+      },
+      "artists": [
+        {
+          "name": "Los Reales del Valle",
+          "url": "https://open.spotify.com/artist/6PMVAKrQsE450lfX25uEgO"
+        }
+      ],
+      "duration_ms": 213529,
+      "name": "El Amante Apasionado",
+      "url": "https://open.spotify.com/track/72zI9fJ5NLz9TG7Q0XTXXS"
     },
     {
       "added_at": "2025-04-25 03:00:28",
@@ -951,22 +951,6 @@
     {
       "added_at": "2025-04-25 03:00:28",
       "album": {
-        "name": "Aqu\u00ed Hay Para Llevar",
-        "url": "https://open.spotify.com/album/1XrJVHOxIyDnfz1oZ938PX"
-      },
-      "artists": [
-        {
-          "name": "Ojos de Luna",
-          "url": "https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp"
-        }
-      ],
-      "duration_ms": 190266,
-      "name": "Aqu\u00ed Hay Para Llevar",
-      "url": "https://open.spotify.com/track/3U9Z6c42sI0RlaW06WDPAk"
-    },
-    {
-      "added_at": "2025-04-25 03:00:28",
-      "album": {
         "name": "Lo Mejor 25 \u00c9xitos",
         "url": "https://open.spotify.com/album/2aXbc0E0847VqiSWrbsVc4"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 154746,
       "name": "La Guaracha del Fay Fay",
       "url": "https://open.spotify.com/track/3HaboMKL38YA8iHQZSejKt"
+    },
+    {
+      "added_at": "2025-04-25 03:00:28",
+      "album": {
+        "name": "Aqu\u00ed Hay Para Llevar",
+        "url": "https://open.spotify.com/album/1XrJVHOxIyDnfz1oZ938PX"
+      },
+      "artists": [
+        {
+          "name": "Ojos de Luna",
+          "url": "https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp"
+        }
+      ],
+      "duration_ms": 190266,
+      "name": "Aqu\u00ed Hay Para Llevar",
+      "url": "https://open.spotify.com/track/3U9Z6c42sI0RlaW06WDPAk"
     },
     {
       "added_at": "2025-04-25 03:00:28",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2025-04-25 03:00:28",
       "album": {
-        "name": "Por una Yegua No Se para la Trilla",
-        "url": "https://open.spotify.com/album/1ImwrMRcka92sIKex1lbmm"
-      },
-      "artists": [
-        {
-          "name": "Grupo el duelo",
-          "url": "https://open.spotify.com/artist/00q1iEmkH6dNeT4Os4mAOv"
-        }
-      ],
-      "duration_ms": 193125,
-      "name": "La Mesa 20",
-      "url": "https://open.spotify.com/track/0hDEKg9kg4d46bXmtZzYJO"
-    },
-    {
-      "added_at": "2025-04-25 03:00:28",
-      "album": {
         "name": "Para Mi Gente Campesina",
         "url": "https://open.spotify.com/album/0WR66V5mPl5xkTLBo4LYAE"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 192776,
       "name": "Vivo la Vida",
       "url": "https://open.spotify.com/track/5dSElsITPbdki1S7PuWtjV"
+    },
+    {
+      "added_at": "2025-04-25 03:00:28",
+      "album": {
+        "name": "Por una Yegua No Se para la Trilla",
+        "url": "https://open.spotify.com/album/1ImwrMRcka92sIKex1lbmm"
+      },
+      "artists": [
+        {
+          "name": "Grupo el duelo",
+          "url": "https://open.spotify.com/artist/00q1iEmkH6dNeT4Os4mAOv"
+        }
+      ],
+      "duration_ms": 193125,
+      "name": "La Mesa 20",
+      "url": "https://open.spotify.com/track/0hDEKg9kg4d46bXmtZzYJO"
     },
     {
       "added_at": "2025-04-25 03:00:28",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2025-04-25 03:00:28",
       "album": {
+        "name": "Me Voy a Lanzar",
+        "url": "https://open.spotify.com/album/6C290sB6hyH66rNUqu70jt"
+      },
+      "artists": [
+        {
+          "name": "RIVALES DE CHILE",
+          "url": "https://open.spotify.com/artist/33AD9OZTMS2oNnsuDcVw9g"
+        }
+      ],
+      "duration_ms": 177363,
+      "name": "Me Voy a Lanzar",
+      "url": "https://open.spotify.com/track/6AS0noGYYnY35moMZw1SdH"
+    },
+    {
+      "added_at": "2025-04-25 03:00:28",
+      "album": {
         "name": "A Trav\u00e9s del Vaso (Remix)",
         "url": "https://open.spotify.com/album/34BUoxHKkDIPjrfjJWLS84"
       },
@@ -1271,22 +1287,6 @@
     {
       "added_at": "2025-04-25 03:00:28",
       "album": {
-        "name": "Me Voy a Lanzar",
-        "url": "https://open.spotify.com/album/6C290sB6hyH66rNUqu70jt"
-      },
-      "artists": [
-        {
-          "name": "RIVALES DE CHILE",
-          "url": "https://open.spotify.com/artist/33AD9OZTMS2oNnsuDcVw9g"
-        }
-      ],
-      "duration_ms": 177363,
-      "name": "Me Voy a Lanzar",
-      "url": "https://open.spotify.com/track/6AS0noGYYnY35moMZw1SdH"
-    },
-    {
-      "added_at": "2025-04-25 03:00:28",
-      "album": {
         "name": "La Diuca",
         "url": "https://open.spotify.com/album/7xzyEyU06MNtW4VlOVH9E7"
       },
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2025-04-25 03:00:28",
       "album": {
+        "name": "Traicionera / Como Dejar de Amarte / Entre Golpes y Besos (\u00c9xitos Festivos 2021- 2022)",
+        "url": "https://open.spotify.com/album/4dkGzuwOhPqQWkU0IZmNut"
+      },
+      "artists": [
+        {
+          "name": "Los Charros de Luchito y Rafael",
+          "url": "https://open.spotify.com/artist/35qSQ3Rr7VGXFyB8qimJUq"
+        }
+      ],
+      "duration_ms": 684016,
+      "name": "Traicionera / Como Dejar de Amarte / Entre Golpes y Besos (\u00c9xitos Festivos 2021- 2022)",
+      "url": "https://open.spotify.com/track/6UsLVRx4zeVOkqJrHV2fZF"
+    },
+    {
+      "added_at": "2025-04-25 03:00:28",
+      "album": {
         "name": "Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/1qE854buRuUPuvoHNkgb7I"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 235600,
       "name": "Golpes y Besos",
       "url": "https://open.spotify.com/track/0RnzGw4vP6XEZbEIHOPFNT"
-    },
-    {
-      "added_at": "2025-04-25 03:00:28",
-      "album": {
-        "name": "Traicionera / Como Dejar de Amarte / Entre Golpes y Besos (\u00c9xitos Festivos 2021- 2022)",
-        "url": "https://open.spotify.com/album/4dkGzuwOhPqQWkU0IZmNut"
-      },
-      "artists": [
-        {
-          "name": "Los Charros de Luchito y Rafael",
-          "url": "https://open.spotify.com/artist/35qSQ3Rr7VGXFyB8qimJUq"
-        }
-      ],
-      "duration_ms": 684016,
-      "name": "Traicionera / Como Dejar de Amarte / Entre Golpes y Besos (\u00c9xitos Festivos 2021- 2022)",
-      "url": "https://open.spotify.com/track/6UsLVRx4zeVOkqJrHV2fZF"
     },
     {
       "added_at": "2025-04-25 03:00:28",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2025-04-25 03:00:28",
       "album": {
+        "name": "Amor Traicionero",
+        "url": "https://open.spotify.com/album/1rBNGTq5QjIQNAQPoCMaei"
+      },
+      "artists": [
+        {
+          "name": "Los Charros de Luchito y Rafael",
+          "url": "https://open.spotify.com/artist/35qSQ3Rr7VGXFyB8qimJUq"
+        }
+      ],
+      "duration_ms": 256346,
+      "name": "Amor Traicionero",
+      "url": "https://open.spotify.com/track/0wR0jWstWqLdQvjdalQIKM"
+    },
+    {
+      "added_at": "2025-04-25 03:00:28",
+      "album": {
         "name": "Cumbias",
         "url": "https://open.spotify.com/album/3mPPWnzitqTU3DnKj6njLY"
       },
@@ -1535,22 +1551,6 @@
       "duration_ms": 235994,
       "name": "El Chorito de Violeta",
       "url": "https://open.spotify.com/track/3vNVMRiqxnmrUobBOMpzaW"
-    },
-    {
-      "added_at": "2025-04-25 03:00:28",
-      "album": {
-        "name": "Amor Traicionero",
-        "url": "https://open.spotify.com/album/1rBNGTq5QjIQNAQPoCMaei"
-      },
-      "artists": [
-        {
-          "name": "Los Charros de Luchito y Rafael",
-          "url": "https://open.spotify.com/artist/35qSQ3Rr7VGXFyB8qimJUq"
-        }
-      ],
-      "duration_ms": 256346,
-      "name": "Amor Traicionero",
-      "url": "https://open.spotify.com/track/0wR0jWstWqLdQvjdalQIKM"
     },
     {
       "added_at": "2025-04-25 03:00:28",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2025-04-25 03:00:28",
       "album": {
-        "name": "Relatos de Mi Vida",
-        "url": "https://open.spotify.com/album/1GnYrWZ2wYT2ud9NjYfD3g"
-      },
-      "artists": [
-        {
-          "name": "Los Rancheros De Rio Maule",
-          "url": "https://open.spotify.com/artist/6r90tCIVqGvSHLouiTUhQW"
-        }
-      ],
-      "duration_ms": 264448,
-      "name": "Cantina de Mi Barrio",
-      "url": "https://open.spotify.com/track/2DvRbLLYXSNuzwdwr0Ymi3"
-    },
-    {
-      "added_at": "2025-04-25 03:00:28",
-      "album": {
         "name": "Alex y el Clan Azabache",
         "url": "https://open.spotify.com/album/1Xk4fcTkrVsPHbtSHlaYWJ"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 180708,
       "name": "S\u00e1cale Leche a la Vaca",
       "url": "https://open.spotify.com/track/1VfOAcpdLVMd5M1FdyA6XO"
+    },
+    {
+      "added_at": "2025-04-25 03:00:28",
+      "album": {
+        "name": "Galantes y Caballeros",
+        "url": "https://open.spotify.com/album/2Chfx3gyFuWYb7NfjM9pW2"
+      },
+      "artists": [
+        {
+          "name": "LOS FLORES DE YUNGAY",
+          "url": "https://open.spotify.com/artist/6HEzbcgaRaKUB5c6ztRgPD"
+        }
+      ],
+      "duration_ms": 152816,
+      "name": "Galantes y Caballeros",
+      "url": "https://open.spotify.com/track/41d9HYA4qgfQ51sc5Vvyjg"
     }
   ],
   "unique_name": "Ranchera Chilena",

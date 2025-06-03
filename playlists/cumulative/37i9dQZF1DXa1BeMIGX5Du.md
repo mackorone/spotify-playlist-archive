@@ -4,7 +4,7 @@
 
 > The perfectly brewed cup, the perfect songs to match\. Your happy place is right here.
 
-416 songs - 1 day 1 hr 16 min
+418 songs - 1 day 1 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Carry You](https://open.spotify.com/track/3CQuCLPRRf5cD9Xubjcrf2) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT) | 4:32 | 2022-08-25 | 2024-03-01 |
 | [Carry You](https://open.spotify.com/track/6csk7RGrFhxbi6hPwQImPf) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/3DBne1mcu8Glvx5au357Io) | 4:32 | 2022-03-25 | 2022-10-03 |
 | [Carry You](https://open.spotify.com/track/6ffJ9jgxnipGi0SBzDAbqY) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/2FiJglbmAD9roZsCwKJYIb) | 4:32 | 2022-06-17 | 2022-09-15 |
-| [Castle in the Sky](https://open.spotify.com/track/0t8Vgctrq6YBkXyDjv7fx9) | [HALES](https://open.spotify.com/artist/0SgD0ob1dliSxZWHc4Dp1K) | [Castle in the Sky](https://open.spotify.com/album/5D4Tiuj0afCX0UHB4aD99r) | 2:44 | 2024-05-24 |  |
+| [Castle in the Sky](https://open.spotify.com/track/0t8Vgctrq6YBkXyDjv7fx9) | [HALES](https://open.spotify.com/artist/0SgD0ob1dliSxZWHc4Dp1K) | [Castle in the Sky](https://open.spotify.com/album/5D4Tiuj0afCX0UHB4aD99r) | 2:44 | 2024-05-24 | 2025-06-03 |
 | [Celebrate The Rain](https://open.spotify.com/track/54XBPBqALnQ4pG8wXFefJu) | [Kyle Lionhart](https://open.spotify.com/artist/3VLXw7Phdo2mLlUoB5B59j) | [Celebrate The Rain](https://open.spotify.com/album/2ErZZsh3psYgmiH2VLia05) | 4:35 | 2025-03-24 |  |
 | [Changeophelia](https://open.spotify.com/track/1gZgvCvAGkM5dHwDZq39Dn) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [Changeophelia](https://open.spotify.com/album/47fCEhb4VKV4J4Hnwlw2vA) | 4:06 | 2022-08-25 | 2024-04-19 |
 | [Childhood](https://open.spotify.com/track/5ZfXfUXQ5BgGw7U8Y4nEfT) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Childhood](https://open.spotify.com/album/4NCx3ON0rvFuramqtPsbkk) | 3:02 | 2025-01-21 |  |
@@ -93,7 +93,7 @@
 | [Do I Wanna Know? \- BBC Live Lounge](https://open.spotify.com/track/32btQnrL0HR6M1KKAPf3D3) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Special Edition\)](https://open.spotify.com/album/5PaHwpTefKhQa6Yqsj9WRH) | 4:17 | 2025-02-25 |  |
 | [Do You Haunt Me](https://open.spotify.com/track/2ADlSEarDUKjsnuMMPgnak) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Do You Haunt Me](https://open.spotify.com/album/2TxFjmhQQpz4WQRkNgoYl3) | 3:13 | 2024-08-26 |  |
 | [Do You Love Me Lately?](https://open.spotify.com/track/03ZQhvP0UXQvUhGxlGqOSq) | [Emily Keener](https://open.spotify.com/artist/6DSgiEGO7rSPIq4KFrkE2b) | [Do You Love Me Lately?](https://open.spotify.com/album/7GadhWeYQHdY9XUM6YUMvK) | 3:56 | 2022-03-25 | 2024-02-17 |
-| [Doctor Doctor](https://open.spotify.com/track/6kAKAVqL4v1VoCX0FdWSPv) | [Way Dynamic](https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk) | [Duck](https://open.spotify.com/album/67xloF0stkFh62tuSV3hWR) | 3:49 | 2024-06-18 |  |
+| [Doctor Doctor](https://open.spotify.com/track/6kAKAVqL4v1VoCX0FdWSPv) | [Way Dynamic](https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk) | [Duck](https://open.spotify.com/album/67xloF0stkFh62tuSV3hWR) | 3:49 | 2024-06-18 | 2025-06-03 |
 | [doing my best](https://open.spotify.com/track/2jEK6rkAJ82GjVSoIkxxyr) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [doing my best](https://open.spotify.com/album/1igte7adJCqP9ayDlbBCdC) | 3:02 | 2025-02-17 |  |
 | [Dolly](https://open.spotify.com/track/64Wk4YklGLIfT3BaAhtrPr) | [Geowulf](https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ) | [Dolly](https://open.spotify.com/album/0SO3o4OeB8ewVF8uWgXBHa) | 3:39 | 2024-06-18 | 2024-10-07 |
 | [Don't Do Me Good](https://open.spotify.com/track/4WtLOsAci79NIpW5ukeM47) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Weird Faith](https://open.spotify.com/album/40hflv8qjnNzLA2ZrFA3yv) | 4:13 | 2024-02-16 | 2024-04-19 |
@@ -246,6 +246,7 @@
 | [Making It Through](https://open.spotify.com/track/0qGEFPVwq5NMah8QFbVMkm) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Light, Dark, Light Again](https://open.spotify.com/album/7kGXsZHSwblgzytzITVbLg) | 4:42 | 2024-02-16 | 2024-09-03 |
 | [Male Fantasy](https://open.spotify.com/track/4ak9GGe6afmi2HbxEjvhIC) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:14 | 2022-03-25 | 2022-10-11 |
 | [Mansion](https://open.spotify.com/track/7ksg8Q9dVls297TACKj91s) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Mansion](https://open.spotify.com/album/3AiBf52cAcDxVpFnfx8Xjr) | 3:31 | 2024-04-18 | 2025-02-25 |
+| [Marlay Park](https://open.spotify.com/track/4Uh27w3SzvO8EPOk42xe9z) | [Amble](https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI) | [Reverie](https://open.spotify.com/album/16QA9SMR24G6Jf5GvJBJB8) | 3:44 | 2025-06-02 |  |
 | [Matches](https://open.spotify.com/track/4WD2uWSnU5NmwrfZRM0Vpo) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [Matches](https://open.spotify.com/album/4yeVLevHA6aGtIifw9T1WI) | 2:17 | 2024-07-28 |  |
 | [Maybe If I Wore Sunglasses Inside I Won't Feel Tired](https://open.spotify.com/track/3ABzFrPGGVBjn87dLV5g6f) | [Jess Ribeiro](https://open.spotify.com/artist/7AUTmLTFczsYPnMDaLrU0N) | [Summer Of Love](https://open.spotify.com/album/3mFgQhjQyNHOJa23AQ1N2X) | 4:25 | 2024-04-11 | 2024-06-19 |
 | [Maybe If I Wore Sunglasses Inside I Won't Feel Tired](https://open.spotify.com/track/3Tq6aeGI1qf9jxdp8UHPfv) | [Jess Ribeiro](https://open.spotify.com/artist/7AUTmLTFczsYPnMDaLrU0N) | [Summer Of Love](https://open.spotify.com/album/3GuV77axWfjrvU90iuJevs) | 4:25 | 2024-04-11 | 2024-04-19 |
@@ -287,6 +288,7 @@
 | [Piece Of Me](https://open.spotify.com/track/4tqHf5fTWCKXTOTP427cac) | [East of Indigo](https://open.spotify.com/artist/3FFF05AP4ymKxFgQCLlvIg), [Heath Lancaster](https://open.spotify.com/artist/68TOnnspagXYYpJH35qMeU), [Jess Josie Lee](https://open.spotify.com/artist/7yyRoG7q9ljvxCMy7CScuz) | [Piece Of Me](https://open.spotify.com/album/3ZljxSb9FYk4xeszx0F4OD) | 2:57 | 2025-02-03 |  |
 | [Please Slow Down \- Rubber Bridge Version](https://open.spotify.com/track/3oL8uIUXlo0D8CDvS3mlXR) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Please Slow Down \(Rubber Bridge Version\)](https://open.spotify.com/album/48VHjICRdvDvlHZIKWEnMP) | 2:43 | 2024-08-26 | 2025-02-18 |
 | [pocket protector](https://open.spotify.com/track/0woOAqSvbjSMR8BDHxzEkw) | [Alexander Biggs](https://open.spotify.com/artist/0ecqKW5XAse2iABt1eDvvo) | [pocket protector](https://open.spotify.com/album/7liiUvBztzf5TrSHwXIVxo) | 3:38 | 2024-03-07 | 2024-10-22 |
+| [Raindrops](https://open.spotify.com/track/3eMf2Hy7xiFWu7e6K8ZOeS) | [Kim Churchill](https://open.spotify.com/artist/0ZmJRBCKYicwq9n4FjZpho), [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T) | [It's Lovely To Have You Here: Extended Stay](https://open.spotify.com/album/2lIUVPA23AFgUKwOcwMTxc) | 4:15 | 2025-06-02 |  |
 | [Rather Be Lonely](https://open.spotify.com/track/1R10uSrxB4bPPlimJ5ZYl0) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Rather Be Lonely](https://open.spotify.com/album/4K3LRhzDcshQB1sJHrRIzc) | 3:08 | 2024-04-02 | 2024-07-29 |
 | [re: Stacks \- Spotify Singles](https://open.spotify.com/track/6X6fJzF0BGbUk6mhqNvgZZ) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Spotify Singles](https://open.spotify.com/album/3pTs60Mj7DSSseycisLJxf) | 5:09 | 2022-03-25 | 2024-03-08 |
 | [Rent California](https://open.spotify.com/track/5pM6G3SNUe0YIvdbo6YMV8) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Rent California](https://open.spotify.com/album/0LYAS83ZYKtL3JYwZOWAKV) | 4:03 | 2024-12-09 |  |

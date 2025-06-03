@@ -1313,6 +1313,24 @@
     },
     {
       "album": {
+        "name": "Blinking In Berlin",
+        "url": "https://open.spotify.com/album/6al02TgjtUUG54lNqNdrmM"
+      },
+      "artists": [
+        {
+          "name": "Oscar Borough",
+          "url": "https://open.spotify.com/artist/6lZJ2oVnnpzQ0txPEJWpPW"
+        }
+      ],
+      "date_added": "2025-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258000,
+      "name": "Blinking In Berlin",
+      "url": "https://open.spotify.com/track/2upriAUxLdmot1q3HgNprA"
+    },
+    {
+      "album": {
         "name": "Blood On The Tracks",
         "url": "https://open.spotify.com/album/2in8PukfFD2nrX6ecDKnbF"
       },
@@ -1866,7 +1884,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 215904,
       "name": "Dress to Kill",
       "url": "https://open.spotify.com/track/5pIVgpPHmPgERktrcUlg9O"

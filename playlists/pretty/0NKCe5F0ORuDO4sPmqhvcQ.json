@@ -1,12 +1,12 @@
 {
   "description": "selects from music we've been listening to @ Moving Castle. Manila Killa's album, Dusk drops July 21st!",
-  "num_followers": 20550,
+  "num_followers": 20549,
   "original_name": "Moving Castle Monthly",
   "owner": {
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "AAAqUEEkGXWro3/IxD3FVHkYfXYFvyfm",
+  "snapshot_id": "AAAqUeO6X7zS82fFtXf4+VjjkYsSJOsK",
   "tracks": [
     {
       "added_at": "2024-10-28 23:42:32",
@@ -2727,6 +2727,26 @@
       "duration_ms": 199708,
       "name": "OBSESSION",
       "url": "https://open.spotify.com/track/53fHl9iLv7G9IFo6PrWKEK"
+    },
+    {
+      "added_at": "2025-06-03 00:18:06",
+      "album": {
+        "name": "Hate It When It's You",
+        "url": "https://open.spotify.com/album/0GLWXYcVqqiWSNaqunDzVC"
+      },
+      "artists": [
+        {
+          "name": "yetep",
+          "url": "https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC"
+        },
+        {
+          "name": "Trella",
+          "url": "https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT"
+        }
+      ],
+      "duration_ms": 229846,
+      "name": "Hate It When It's You",
+      "url": "https://open.spotify.com/track/6ARHAMBOpkkQBVNHmTRxiX"
     }
   ],
   "unique_name": "Moving Castle Monthly",

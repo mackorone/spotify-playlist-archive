@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 
 > Слухай українських виконавиць на повну гучність! Добірка створена разом зі Юлею Юріною.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,838 likes - 54 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,841 likes - 54 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 | 21 | [Комета](https://open.spotify.com/track/1uKrEkG8aRqiPW7D0OwkOY) | [ТУЧА](https://open.spotify.com/artist/33dwxPM7czY6r7pQNq3nvQ) | [Комета](https://open.spotify.com/album/4COICbeHqQwLqHhIRq61C6) | 2:33 |
 | 22 | [На вихованні в любові](https://open.spotify.com/track/2EpaopmDJIeXKcnRCmIeD1) | [Olena Karas](https://open.spotify.com/artist/2RgUI6cIgCmVSjPEriMWsh) | [На вихованні в любові](https://open.spotify.com/album/6rNsucV5FfYV5EV8kuGheD) | 2:36 |
 | 23 | [пʼятниця](https://open.spotify.com/track/53QTVw9eRlzqJLS6tpyO8h) | [alekkksa](https://open.spotify.com/artist/3KiFi7CRRoB44ztX3jRyk0) | [пʼятниця](https://open.spotify.com/album/2gwjNgM5G4iGDtZoHgwN6F) | 2:10 |
-| 24 | [так звучить Київ](https://open.spotify.com/track/0oQUE2uMzIIfeI9NuncukP) | [NANA](https://open.spotify.com/artist/5nqfEPmgH1HtrcPJeIt51G) | [так звучить Київ](https://open.spotify.com/album/1vEmce6iNJKrmnGPDeBLA0) | 2:22 |
+| 24 | [так звучить Київ](https://open.spotify.com/track/0oQUE2uMzIIfeI9NuncukP) | [NANA SOLIS](https://open.spotify.com/artist/2MbhsS27wmrUhv5ZvvYy0L) | [так звучить Київ](https://open.spotify.com/album/1vEmce6iNJKrmnGPDeBLA0) | 2:22 |
 | 25 | [Повернення \(Вікторія Амеліна\)](https://open.spotify.com/track/2m5KwX9Z6prP7ER0r1Nt3J) | [Dakh Daughters](https://open.spotify.com/artist/74sycYE6hlYuoelM902cE0) | [Повернення \(Вікторія Амеліна\)](https://open.spotify.com/album/3WNsAVX5oiwcAI5rINPH3O) | 5:13 |
 | 26 | [Відпускать](https://open.spotify.com/track/61HRkWp2aPfnroCjpyUnok) | [Ortea](https://open.spotify.com/artist/1HCPxmb0WFMbUWUHNoumjy), [Liia](https://open.spotify.com/artist/4ZaYuzOFbJK15bG3qOzaiQ) | [Відпускать](https://open.spotify.com/album/1fkUJJaUU0oUqvBuEoCFg0) | 3:10 |
 | 27 | [Ворожка](https://open.spotify.com/track/4WXeFAn9PXe5d94obKMvI1) | [Victoria Niro](https://open.spotify.com/artist/0Fnwu2Efik3XglLCqUXJVo) | [Ворожка](https://open.spotify.com/album/6vT3AiOh4npmVmpNIrFjK2) | 2:56 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 
 > Posłuchaj zwycięzców i nominowanych do nagród Fryderyk w kategorii muzyka rozrywkowa i jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,676 likes - 79 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,671 likes - 79 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,14 +39,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 29 | [Zaopiekuj się mną](https://open.spotify.com/track/2ARY8GEdjYuyo5FrNnRUYn) | [KARAŚ/ROGUCKI](https://open.spotify.com/artist/1ZAGaCgMaOtt2yOUm1Qq6x) | [Atlas Iskier](https://open.spotify.com/album/6oi4yuECBxANeBl9Y21AGU) | 4:13 |
 | 30 | [Północ](https://open.spotify.com/track/50wRVL5qab62jxUXkc5YQs) | [Natalia Szroeder](https://open.spotify.com/artist/2DhJauCHKgwVilZO9A8og3) | [REM](https://open.spotify.com/album/60pr4OenpcPMFiEkKObw6g) | 3:17 |
 | 31 | [Zagrajmy](https://open.spotify.com/track/4p9Z6HmEeO3ucTOmgpbgf9) | [Wiktor Waligóra](https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL) | [Czekam na świt](https://open.spotify.com/album/2H3xnoal5SM4eEUeluu47n) | 3:16 |
-| 32 | [Himalaje](https://open.spotify.com/track/6XYglXD1932VGqiT9wduK7) | [Mela Koteluk](https://open.spotify.com/artist/5GTjrNnnlOPxOgi3JAW2Eq) | [Himalaje](https://open.spotify.com/album/4WE6hJbRnm1QgSgIegKs2m) | 3:27 |
-| 33 | [Gymnopedie](https://open.spotify.com/track/6sw7RatlLS3neerVArXPKu) | [Adam Baldych](https://open.spotify.com/artist/6oiyvsyWed0CUGZvOKRXJE), [Leszek Możdżer](https://open.spotify.com/artist/4iJve8QGQMl0PpIDmRG73G) | [Passacaglia](https://open.spotify.com/album/0oclKCCHh2pgR5M5bolNST) | 3:42 |
-| 34 | [mleko i mood](https://open.spotify.com/track/3TfzSFyKBsbG1ozryAp2Pa) | [Ania Szlagowska](https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D) | [Pierwsza Płyta](https://open.spotify.com/album/72McWq9uYMN4JFg7JaL9MJ) | 3:22 |
+| 32 | [mleko i mood](https://open.spotify.com/track/3TfzSFyKBsbG1ozryAp2Pa) | [Ania Szlagowska](https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D) | [Pierwsza Płyta](https://open.spotify.com/album/72McWq9uYMN4JFg7JaL9MJ) | 3:22 |
+| 33 | [Himalaje](https://open.spotify.com/track/6XYglXD1932VGqiT9wduK7) | [Mela Koteluk](https://open.spotify.com/artist/5GTjrNnnlOPxOgi3JAW2Eq) | [Himalaje](https://open.spotify.com/album/4WE6hJbRnm1QgSgIegKs2m) | 3:27 |
+| 34 | [Gymnopedie](https://open.spotify.com/track/6sw7RatlLS3neerVArXPKu) | [Adam Baldych](https://open.spotify.com/artist/6oiyvsyWed0CUGZvOKRXJE), [Leszek Możdżer](https://open.spotify.com/artist/4iJve8QGQMl0PpIDmRG73G) | [Passacaglia](https://open.spotify.com/album/0oclKCCHh2pgR5M5bolNST) | 3:42 |
 | 35 | [Sama na planecie](https://open.spotify.com/track/7vkqcXmr6nI81lTf6I4rUg) | [Natalia Szroeder](https://open.spotify.com/artist/2DhJauCHKgwVilZO9A8og3) | [REM](https://open.spotify.com/album/60pr4OenpcPMFiEkKObw6g) | 3:22 |
 | 36 | [Kercelak](https://open.spotify.com/track/1GY109fE6b5yk7sTJPkbsf) | [O.S.T.R.](https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv) | [XX](https://open.spotify.com/album/2JNJIrNKcypEDAzoG2PkFL) | 3:12 |
 | 37 | [Together \- Pejzaż Remix](https://open.spotify.com/track/6kVLk2VH5SxaOA3RRFrLt7) | [Skalpel](https://open.spotify.com/artist/4NMgXxIMZeiJ5PqxdA0t6q), [Pejzaż](https://open.spotify.com/artist/5PWnUGbA3SNGNE7U9YPnXH) | [Recut](https://open.spotify.com/album/5vJeXyvdrDhN91UZd1tmQ7) | 4:10 |
-| 38 | [Tobie](https://open.spotify.com/track/4NEbNfStSM8HL2rKsOL485) | [Anna Rusowicz](https://open.spotify.com/artist/6IspiJXVuNtRG4FmiOyWoP) | [Dziewczyna Słońca](https://open.spotify.com/album/77sBcNUn2TzDDvYld2wIVL) | 5:36 |
-| 39 | [Kozak](https://open.spotify.com/track/2wFlYA0aXE6oVz9BWgmhLX) | [Błoto](https://open.spotify.com/artist/28k8arToA1cflcvaH5T4Zv) | [Grzybnia](https://open.spotify.com/album/25Fegxpmg9CEEjCqTnbxg6) | 2:53 |
+| 38 | [Kozak](https://open.spotify.com/track/2wFlYA0aXE6oVz9BWgmhLX) | [Błoto](https://open.spotify.com/artist/28k8arToA1cflcvaH5T4Zv) | [Grzybnia](https://open.spotify.com/album/25Fegxpmg9CEEjCqTnbxg6) | 2:53 |
+| 39 | [Tobie](https://open.spotify.com/track/4NEbNfStSM8HL2rKsOL485) | [Anna Rusowicz](https://open.spotify.com/artist/6IspiJXVuNtRG4FmiOyWoP) | [Dziewczyna Słońca](https://open.spotify.com/album/77sBcNUn2TzDDvYld2wIVL) | 5:36 |
 | 40 | [Warszawa Wschodnia](https://open.spotify.com/track/6p5BVXBjh0JYPU955lWJX6) | [Tomasz Makowiecki](https://open.spotify.com/artist/5BndU3xioxu02gpARK3ssF) | [Bailando](https://open.spotify.com/album/3T2yJp99ZSAjzHZl4nxupe) | 4:43 |
 | 41 | [Chłopcy](https://open.spotify.com/track/05crgQcMRFJtiDMkA1PIIl) | [Myslovitz](https://open.spotify.com/artist/3sntDD4Y2K97qvDq3GPqZ5) | [WIECZORAMI CHŁOPCY WYCHODZĄ NA ULICE](https://open.spotify.com/album/4OErdxqjwIww9QbHzguIz4) | 5:21 |
 | 42 | [PRZYJEDŹ](https://open.spotify.com/track/4n2ENH767mh8hQv6Q83uHS) | [Dominika Płonka](https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8), [DZIARMA](https://open.spotify.com/artist/6LwJ1zgqEFyIwXzDD44Qsn), [Miroff](https://open.spotify.com/artist/6BanFN5Xaq11YYRogYOtnD), [ciiicho](https://open.spotify.com/artist/0rQ5OCXcg33fZtgN6hv76Z) | [DOMINIKA DANIELA](https://open.spotify.com/album/1XDk6ptjiofedB6LTtRKOK) | 2:29 |

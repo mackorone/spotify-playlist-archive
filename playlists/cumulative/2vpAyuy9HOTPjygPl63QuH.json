@@ -9475,6 +9475,24 @@
     },
     {
       "album": {
+        "name": "Do U Like It?",
+        "url": "https://open.spotify.com/album/2ghSJRqd2QhOCu7wz16Bbz"
+      },
+      "artists": [
+        {
+          "name": "DA$ON",
+          "url": "https://open.spotify.com/artist/3EsqI4Ji25nJea9qsLMAGQ"
+        }
+      ],
+      "date_added": "2025-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238153,
+      "name": "Do U Like It?",
+      "url": "https://open.spotify.com/track/2Sl9NDr5tSLeand3FCvKSg"
+    },
+    {
+      "album": {
         "name": "Do What You Want",
         "url": "https://open.spotify.com/album/4lCFkQUgP7I2Wpl5tEP7fq"
       },

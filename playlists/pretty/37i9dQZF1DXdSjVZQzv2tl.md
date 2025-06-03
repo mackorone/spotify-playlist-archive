@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 
 > O melhor do sertanejo em uma só playlist! Foto: Luccas & Rodrigo, Vitor e Luan
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,943,835 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,943,849 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 | 49 | [Filho da Mãe \- Ao Vivo](https://open.spotify.com/track/7opE9OJaqrvkQspmfJdVsS) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Filho da Mãe \(Ao Vivo\)](https://open.spotify.com/album/0qRxN9Kk8579hU3yTjyR92) | 2:17 |
 | 50 | [Término Covarde \- Ao Vivo](https://open.spotify.com/track/2DtHi3V76ntRw1RIKgYMfe) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [In Casa \(Ao Vivo\)](https://open.spotify.com/album/6HRnBP63zoxLHmmfeovVMX) | 2:33 |
 
-Snapshot ID: `aDoxUAAAAADAc2fa2SgY+tkVBWESZjQn`
+Snapshot ID: `AAAAAJivylMG4DUtEIzgdK51Cf39RXm9`

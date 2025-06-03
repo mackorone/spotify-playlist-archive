@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 
 > a little indie, a little pop\.  Cover: Eli
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,295 likes - 65 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,313 likes - 65 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Marianne](https://open.spotify.com/track/0SE3l5jJOpGxqXqvT3fkhS) | [Eli](https://open.spotify.com/artist/3z4L3novn4XHxQiHUsoCqP) | [Marianne](https://open.spotify.com/album/0ucvu4XHxscTNmujLfQTQs) | 3:10 |
+| 1 | [Marianne](https://open.spotify.com/track/0SE3l5jJOpGxqXqvT3fkhS) | [Eli](https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1) | [Marianne](https://open.spotify.com/album/0ucvu4XHxscTNmujLfQTQs) | 3:10 |
 | 2 | [Starry Eyed \(with Chelsea Cutler\)](https://open.spotify.com/track/4qPEcB7tDrrGu0eheFa6H4) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Starry Eyed \(with Chelsea Cutler\)](https://open.spotify.com/album/2DWfZUkKHwa4IA9bqUnjIj) | 2:16 |
 | 3 | [Same Mouth](https://open.spotify.com/track/3eVNwlFGyGwaLGIS71cS8a) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [Same Mouth](https://open.spotify.com/album/0gpl7Z4SNjlyELHad9yiWn) | 2:36 |
 | 4 | [Stunner](https://open.spotify.com/track/55g2TpbGrXxLdekbyui2Sl) | [Carter Vail](https://open.spotify.com/artist/4Bu9DnBZ12oX7MiiaJy9hK) | [Stunner](https://open.spotify.com/album/7CdSPlqEI5a2yYlESsTIgG) | 2:15 |

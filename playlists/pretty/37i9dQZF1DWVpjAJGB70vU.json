@@ -1,6 +1,6 @@
 {
   "description": "We're celebrating 30 years of Shania Twain's timeless album \"The Woman In Me\" on 90s Country! ",
-  "num_followers": 2020086,
+  "num_followers": 2020507,
   "original_name": "90s Country",
   "owner": {
     "name": "Spotify",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2025-02-07 16:35:27",
       "album": {
+        "name": "Always & Forever",
+        "url": "https://open.spotify.com/album/28ZWOeiZ8l4Uydl3hZjvgv"
+      },
+      "artists": [
+        {
+          "name": "Randy Travis",
+          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+        }
+      ],
+      "duration_ms": 219506,
+      "name": "I Told You So",
+      "url": "https://open.spotify.com/track/6QUEB3DDAD7oJhbIZF2v4Y"
+    },
+    {
+      "added_at": "2025-02-07 16:35:27",
+      "album": {
         "name": "A Thousand Memories",
         "url": "https://open.spotify.com/album/3dD77M8Lo9Ag3rSvzTD7Kb"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 243106,
       "name": "That Ain't My Truck",
       "url": "https://open.spotify.com/track/7riuy1t0Kt3SRgMtFxX0FR"
-    },
-    {
-      "added_at": "2025-02-07 16:35:27",
-      "album": {
-        "name": "On the Other Hand - All the Number Ones",
-        "url": "https://open.spotify.com/album/0UCCMRZib7d6eCdEWQiPJ3"
-      },
-      "artists": [
-        {
-          "name": "Randy Travis",
-          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
-        }
-      ],
-      "duration_ms": 186746,
-      "name": "If I Didn't Have You",
-      "url": "https://open.spotify.com/track/52erNkfUKv34u02CjcHOPj"
     },
     {
       "added_at": "2025-02-07 16:35:27",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2025-02-07 16:35:27",
       "album": {
+        "name": "On the Other Hand - All the Number Ones",
+        "url": "https://open.spotify.com/album/0UCCMRZib7d6eCdEWQiPJ3"
+      },
+      "artists": [
+        {
+          "name": "Randy Travis",
+          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+        }
+      ],
+      "duration_ms": 186746,
+      "name": "If I Didn't Have You",
+      "url": "https://open.spotify.com/track/52erNkfUKv34u02CjcHOPj"
+    },
+    {
+      "added_at": "2025-02-07 16:35:27",
+      "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/3BGPil8BDPVoDK0lnUPtvb"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 186066,
       "name": "The Way You Love Me",
       "url": "https://open.spotify.com/track/6vgN6KGstss0GnBbKlMNK9"
-    },
-    {
-      "added_at": "2025-02-07 16:35:27",
-      "album": {
-        "name": "Always & Forever",
-        "url": "https://open.spotify.com/album/28ZWOeiZ8l4Uydl3hZjvgv"
-      },
-      "artists": [
-        {
-          "name": "Randy Travis",
-          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
-        }
-      ],
-      "duration_ms": 219506,
-      "name": "I Told You So",
-      "url": "https://open.spotify.com/track/6QUEB3DDAD7oJhbIZF2v4Y"
     },
     {
       "added_at": "2025-02-07 16:35:27",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2025-02-07 16:35:27",
       "album": {
-        "name": "Greatest Hits: Mark Chesnutt",
-        "url": "https://open.spotify.com/album/3BHgJUyzqtmUFnUngsDVeg"
-      },
-      "artists": [
-        {
-          "name": "Mark Chesnutt",
-          "url": "https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS"
-        }
-      ],
-      "duration_ms": 163560,
-      "name": "It's A Little Too Late - 1996 Greatest Hits Version",
-      "url": "https://open.spotify.com/track/0D5L0ZxGyhEFTqhfiXwYxw"
-    },
-    {
-      "added_at": "2025-02-07 16:35:27",
-      "album": {
         "name": "It Matters to Me",
         "url": "https://open.spotify.com/album/6Ki8tNYdetzeYqijkDlmds"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 197666,
       "name": "It Matters to Me",
       "url": "https://open.spotify.com/track/3rXdABev6vQtBCElztIl7m"
+    },
+    {
+      "added_at": "2025-02-07 16:35:27",
+      "album": {
+        "name": "Greatest Hits: Mark Chesnutt",
+        "url": "https://open.spotify.com/album/3BHgJUyzqtmUFnUngsDVeg"
+      },
+      "artists": [
+        {
+          "name": "Mark Chesnutt",
+          "url": "https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS"
+        }
+      ],
+      "duration_ms": 163560,
+      "name": "It's A Little Too Late - 1996 Greatest Hits Version",
+      "url": "https://open.spotify.com/track/0D5L0ZxGyhEFTqhfiXwYxw"
     },
     {
       "added_at": "2025-02-07 16:35:27",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2025-02-07 16:35:27",
       "album": {
-        "name": "When Love Finds You",
-        "url": "https://open.spotify.com/album/33XyyiV7lMXdFbsorjt1sB"
-      },
-      "artists": [
-        {
-          "name": "Vince Gill",
-          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
-        }
-      ],
-      "duration_ms": 259160,
-      "name": "Whenever You Come Around",
-      "url": "https://open.spotify.com/track/3PHLZ5wmtyZha1pp2405OT"
-    },
-    {
-      "added_at": "2025-02-07 16:35:27",
-      "album": {
         "name": "High Lonesome",
         "url": "https://open.spotify.com/album/3AFctn1twGQe6rPHzPvR02"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 160360,
       "name": "Better Class of Losers",
       "url": "https://open.spotify.com/track/3EiXWMUIE0bNNo36suPrRQ"
+    },
+    {
+      "added_at": "2025-02-07 16:35:27",
+      "album": {
+        "name": "When Love Finds You",
+        "url": "https://open.spotify.com/album/33XyyiV7lMXdFbsorjt1sB"
+      },
+      "artists": [
+        {
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
+        }
+      ],
+      "duration_ms": 259160,
+      "name": "Whenever You Come Around",
+      "url": "https://open.spotify.com/track/3PHLZ5wmtyZha1pp2405OT"
     },
     {
       "added_at": "2025-02-07 16:35:27",
@@ -2263,22 +2263,6 @@
     {
       "added_at": "2025-02-07 16:35:27",
       "album": {
-        "name": "Watch Me",
-        "url": "https://open.spotify.com/album/6o4D7rnYiEamaKelYwsw87"
-      },
-      "artists": [
-        {
-          "name": "Lorrie Morgan",
-          "url": "https://open.spotify.com/artist/0khzcQ6PQU5a6dl1Qss3pt"
-        }
-      ],
-      "duration_ms": 164293,
-      "name": "What Part of No",
-      "url": "https://open.spotify.com/track/074RB4dBpZ4ySuQRyG8SMk"
-    },
-    {
-      "added_at": "2025-02-07 16:35:27",
-      "album": {
         "name": "Tattoos & Scars",
         "url": "https://open.spotify.com/album/3mn4zmXpOqjClIslp0P4O5"
       },
@@ -2295,18 +2279,18 @@
     {
       "added_at": "2025-02-07 16:35:27",
       "album": {
-        "name": "Young Man",
-        "url": "https://open.spotify.com/album/23dwTNazk2yGjtVSMzgxBH"
+        "name": "Watch Me",
+        "url": "https://open.spotify.com/album/6o4D7rnYiEamaKelYwsw87"
       },
       "artists": [
         {
-          "name": "Billy Dean",
-          "url": "https://open.spotify.com/artist/3cMyqwpNT2D8f0WuaRzzZX"
+          "name": "Lorrie Morgan",
+          "url": "https://open.spotify.com/artist/0khzcQ6PQU5a6dl1Qss3pt"
         }
       ],
-      "duration_ms": 214466,
-      "name": "Only Here For A Little While",
-      "url": "https://open.spotify.com/track/6JCKHmZ30oadQW44GzsdNB"
+      "duration_ms": 164293,
+      "name": "What Part of No",
+      "url": "https://open.spotify.com/track/074RB4dBpZ4ySuQRyG8SMk"
     },
     {
       "added_at": "2025-02-07 16:35:27",
@@ -2323,6 +2307,22 @@
       "duration_ms": 298560,
       "name": "How Can I Help You Say Goodbye",
       "url": "https://open.spotify.com/track/04f1rOkeyOqYQQzPJZk9JS"
+    },
+    {
+      "added_at": "2025-02-07 16:35:27",
+      "album": {
+        "name": "Young Man",
+        "url": "https://open.spotify.com/album/23dwTNazk2yGjtVSMzgxBH"
+      },
+      "artists": [
+        {
+          "name": "Billy Dean",
+          "url": "https://open.spotify.com/artist/3cMyqwpNT2D8f0WuaRzzZX"
+        }
+      ],
+      "duration_ms": 214466,
+      "name": "Only Here For A Little While",
+      "url": "https://open.spotify.com/track/6JCKHmZ30oadQW44GzsdNB"
     },
     {
       "added_at": "2025-02-07 16:35:27",

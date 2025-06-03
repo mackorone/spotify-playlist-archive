@@ -149,9 +149,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 139 | [Lay Your Blame](https://open.spotify.com/track/2WY45hIMy9LW1aYRWciZbm) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv), [J Warner](https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo) | [No Logic](https://open.spotify.com/album/7D9Cg5C2gXofYhGEUbCWuh) | 3:09 |
 | 140 | [Gulible](https://open.spotify.com/track/2KLTc4Rz7YBc9sc6vJLTSl) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [Love Just Ain't Enough](https://open.spotify.com/album/1l1sAe6hsLPPFjm2UvwSc3) | 3:18 |
 | 141 | [Lessons](https://open.spotify.com/track/05ATcXKI7xUOoOFz0KWHAH) | [Charles Hamilton](https://open.spotify.com/artist/4jOUE5phvhoCUHQBZ3uMyM), [Sam Bruno](https://open.spotify.com/artist/2PgOtERwe37cW1U9z7zAHb) | [The Black Box](https://open.spotify.com/album/2eYRi6t0GbWNxhLY8r7IPT) | 3:27 |
-| 142 | [L Word](https://open.spotify.com/track/1oc2IjNoUMrCiQ5dA6ggP6) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [Love Just Ain't Enough](https://open.spotify.com/album/1l1sAe6hsLPPFjm2UvwSc3) | 3:39 |
-| 143 | [Back to Love](https://open.spotify.com/track/5CvjyttMuXKAyfBjV1iSJ3) | [Algee Smith](https://open.spotify.com/artist/10gHoEHUPNcTFsyVR2YyeA) | [Listen](https://open.spotify.com/album/6CYTungb6eOWUboOc9SPk2) | 3:12 |
-| 144 | [Manifesting](https://open.spotify.com/track/1iEKheX3sTJa6VHwqk7dK3) | [Louise](https://open.spotify.com/artist/27ul3mOdPyXZEtI17EjCWa) | [Confessions \(Deluxe Edition\)](https://open.spotify.com/album/0nYaOfGZJF8e7vgkh2z5As) | 2:57 |
+| 142 | [Manifesting](https://open.spotify.com/track/1iEKheX3sTJa6VHwqk7dK3) | [Louise](https://open.spotify.com/artist/27ul3mOdPyXZEtI17EjCWa) | [Confessions \(Deluxe Edition\)](https://open.spotify.com/album/0nYaOfGZJF8e7vgkh2z5As) | 2:57 |
+| 143 | [L Word](https://open.spotify.com/track/1oc2IjNoUMrCiQ5dA6ggP6) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [Love Just Ain't Enough](https://open.spotify.com/album/1l1sAe6hsLPPFjm2UvwSc3) | 3:39 |
+| 144 | [Back to Love](https://open.spotify.com/track/5CvjyttMuXKAyfBjV1iSJ3) | [Algee Smith](https://open.spotify.com/artist/10gHoEHUPNcTFsyVR2YyeA) | [Listen](https://open.spotify.com/album/6CYTungb6eOWUboOc9SPk2) | 3:12 |
 | 145 | [Over You](https://open.spotify.com/track/5Wde3lrtqj94TuX997Nx77) | [Toni Romiti](https://open.spotify.com/artist/0taUqKeI9JbGZECxu5bVV0), [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [State of Mine](https://open.spotify.com/album/4cZD8qhHoQCXXEcIbnZ6gD) | 2:54 |
 | 146 | [Sicko](https://open.spotify.com/track/1HviCfLLU3yd7SktE1AmvO) | [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [The Drama](https://open.spotify.com/album/7t04xptRT83AnNFdsajTYQ) | 3:32 |
 | 147 | [Friday](https://open.spotify.com/track/2vTf9a0lLSWVKNtwpVQ498) | [Tommy Down](https://open.spotify.com/artist/01gw02eOtd3kFn3f3rGlxg) | [Friday](https://open.spotify.com/album/49CKOwAEpZZn1L9CDbNibI) | 4:28 |
@@ -192,4 +192,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 182 | [Complicated](https://open.spotify.com/track/0q5e7MQkxdsjyXvi0R9r9x) | [Frank](https://open.spotify.com/artist/67AaTjklnlY8WITqoNBC0n) | [Devil's Got Your Gold](https://open.spotify.com/album/2aAmkJUKCQdkiEBRUTGErp) | 3:52 |
 | 183 | [What You Waiting For](https://open.spotify.com/track/1RCvjgA7wXjBcQuIJpKOG3) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Renditions of Sigala](https://open.spotify.com/album/5XoymdXUuLAHi2VoOiI2Th) | 3:46 |
 
-Snapshot ID: `AbzAcgAAAAAGL9zgqqvtv3PuaB0YyOw5`
+Snapshot ID: `AbzF1gAAAAD7NRq9Tjez0ROXSYpDskqT`

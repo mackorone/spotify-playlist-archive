@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,070 songs - 2 day 17 hr 40 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,069 songs - 2 day 17 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1063,20 +1063,19 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 1053 | [Hero](https://open.spotify.com/track/6lg8POBTkaNP3QziiL2Wa1) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [I Heard That Noise](https://open.spotify.com/album/3hXswlXaEoYMiBQ9TZN2wR) | 3:14 |
 | 1054 | [I Punched Through The Wall](https://open.spotify.com/track/49lYeNtjK2w2gErCYz2ljk) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [I Heard That Noise](https://open.spotify.com/album/3hXswlXaEoYMiBQ9TZN2wR) | 3:08 |
 | 1055 | [Drawn Away](https://open.spotify.com/track/3NipzSKSELraJND5tcVlGV) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [I Heard That Noise](https://open.spotify.com/album/3hXswlXaEoYMiBQ9TZN2wR) | 3:32 |
-| 1056 | [BROKEN ROAD](https://open.spotify.com/track/6zNbjGO87XDGVaRdq2wXXm) | [DONDA](https://open.spotify.com/artist/1t9YWEQIh5ciiliO2C8Mew) | [DONDA 2](https://open.spotify.com/album/5qmBulRQR05gKH2r7fRofg) | 1:40 |
-| 1057 | [Tell Me You Love Me](https://open.spotify.com/track/12TuGHYMlodnW9X2NaL37v) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Magpie \(Expansion Pack\)](https://open.spotify.com/album/50bSJ3cQRYKSTR5NcGL97a) | 3:34 |
-| 1058 | [Your Long Black Hair \- Full Band](https://open.spotify.com/track/5fJ8CKkoUVgkB3D2Z04G6f) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Magpie \(Expansion Pack\)](https://open.spotify.com/album/50bSJ3cQRYKSTR5NcGL97a) | 3:34 |
-| 1059 | [Neverland](https://open.spotify.com/track/0F4KRoicBk9v9lrcbHQt67) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Neverland](https://open.spotify.com/album/3HXiOLdmPqItX7vSLvCt0m) | 3:56 |
-| 1060 | [Crying, Laughing, Loving, Lying](https://open.spotify.com/track/6P3vusStV43K0SOHyLeYjY) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Magpie \(Expansion Pack\)](https://open.spotify.com/album/50bSJ3cQRYKSTR5NcGL97a) | 3:35 |
-| 1061 | [Goodbye, Old Friend](https://open.spotify.com/track/7ICqrDwJVol0urvgt2GGGY) | [Alexandra Savior](https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa) | [Beneath The Lilypad](https://open.spotify.com/album/3nuV6fPLQr62sQpBRBz1Pf) | 3:44 |
-| 1062 | [All of the Girls](https://open.spotify.com/track/6ippX1G4fx5HV4xxN5hdPi) | [Alexandra Savior](https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa) | [Beneath The Lilypad](https://open.spotify.com/album/3nuV6fPLQr62sQpBRBz1Pf) | 3:05 |
-| 1063 | [Venus](https://open.spotify.com/track/7sF85mgMWu3Rm7eR1cExAE) | [Alexandra Savior](https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa) | [Beneath The Lilypad](https://open.spotify.com/album/3nuV6fPLQr62sQpBRBz1Pf) | 2:53 |
-| 1064 | [Let Me Out](https://open.spotify.com/track/1tV70Jik9oSqiEdCgTZKVp) | [Alexandra Savior](https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa) | [Beneath The Lilypad](https://open.spotify.com/album/3nuV6fPLQr62sQpBRBz1Pf) | 2:30 |
-| 1065 | [Old Oregon](https://open.spotify.com/track/60fAaxT50QRUWIMUuWRyd3) | [Alexandra Savior](https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa) | [Beneath The Lilypad](https://open.spotify.com/album/3nuV6fPLQr62sQpBRBz1Pf) | 3:11 |
-| 1066 | [Beneath The Lilypad](https://open.spotify.com/track/5a4TVULMHuxkkfSClpRpgk) | [Alexandra Savior](https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa) | [Beneath The Lilypad](https://open.spotify.com/album/3nuV6fPLQr62sQpBRBz1Pf) | 1:20 |
-| 1067 | [The Harvest is Thoughtless](https://open.spotify.com/track/3IIcSXb4h75SaLEMypzgVu) | [Alexandra Savior](https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa) | [Beneath The Lilypad](https://open.spotify.com/album/3nuV6fPLQr62sQpBRBz1Pf) | 3:07 |
-| 1068 | [You Make It Easier](https://open.spotify.com/track/2toz89nXx6wvBvfhQ6RLwi) | [Alexandra Savior](https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa) | [Beneath The Lilypad](https://open.spotify.com/album/3nuV6fPLQr62sQpBRBz1Pf) | 4:51 |
-| 1069 | [WHY \(feat\. Luke Combs\)](https://open.spotify.com/track/6rBPoogiDaypPr8YrtUHCm) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [WHY \(feat\. Luke Combs\)](https://open.spotify.com/album/3FRmZ7sBVy7qooBD84kqTE) | 2:57 |
-| 1070 | [Backseat](https://open.spotify.com/track/7yT4NJt5rgmVoMJMGPULcj) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Backseat](https://open.spotify.com/album/4SnYbgZqKOxc2eCRdMS3xu) | 6:23 |
+| 1056 | [Tell Me You Love Me](https://open.spotify.com/track/12TuGHYMlodnW9X2NaL37v) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Magpie \(Expansion Pack\)](https://open.spotify.com/album/50bSJ3cQRYKSTR5NcGL97a) | 3:34 |
+| 1057 | [Your Long Black Hair \- Full Band](https://open.spotify.com/track/5fJ8CKkoUVgkB3D2Z04G6f) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Magpie \(Expansion Pack\)](https://open.spotify.com/album/50bSJ3cQRYKSTR5NcGL97a) | 3:34 |
+| 1058 | [Neverland](https://open.spotify.com/track/0F4KRoicBk9v9lrcbHQt67) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Neverland](https://open.spotify.com/album/3HXiOLdmPqItX7vSLvCt0m) | 3:56 |
+| 1059 | [Crying, Laughing, Loving, Lying](https://open.spotify.com/track/6P3vusStV43K0SOHyLeYjY) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Magpie \(Expansion Pack\)](https://open.spotify.com/album/50bSJ3cQRYKSTR5NcGL97a) | 3:35 |
+| 1060 | [Goodbye, Old Friend](https://open.spotify.com/track/7ICqrDwJVol0urvgt2GGGY) | [Alexandra Savior](https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa) | [Beneath The Lilypad](https://open.spotify.com/album/3nuV6fPLQr62sQpBRBz1Pf) | 3:44 |
+| 1061 | [All of the Girls](https://open.spotify.com/track/6ippX1G4fx5HV4xxN5hdPi) | [Alexandra Savior](https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa) | [Beneath The Lilypad](https://open.spotify.com/album/3nuV6fPLQr62sQpBRBz1Pf) | 3:05 |
+| 1062 | [Venus](https://open.spotify.com/track/7sF85mgMWu3Rm7eR1cExAE) | [Alexandra Savior](https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa) | [Beneath The Lilypad](https://open.spotify.com/album/3nuV6fPLQr62sQpBRBz1Pf) | 2:53 |
+| 1063 | [Let Me Out](https://open.spotify.com/track/1tV70Jik9oSqiEdCgTZKVp) | [Alexandra Savior](https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa) | [Beneath The Lilypad](https://open.spotify.com/album/3nuV6fPLQr62sQpBRBz1Pf) | 2:30 |
+| 1064 | [Old Oregon](https://open.spotify.com/track/60fAaxT50QRUWIMUuWRyd3) | [Alexandra Savior](https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa) | [Beneath The Lilypad](https://open.spotify.com/album/3nuV6fPLQr62sQpBRBz1Pf) | 3:11 |
+| 1065 | [Beneath The Lilypad](https://open.spotify.com/track/5a4TVULMHuxkkfSClpRpgk) | [Alexandra Savior](https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa) | [Beneath The Lilypad](https://open.spotify.com/album/3nuV6fPLQr62sQpBRBz1Pf) | 1:20 |
+| 1066 | [The Harvest is Thoughtless](https://open.spotify.com/track/3IIcSXb4h75SaLEMypzgVu) | [Alexandra Savior](https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa) | [Beneath The Lilypad](https://open.spotify.com/album/3nuV6fPLQr62sQpBRBz1Pf) | 3:07 |
+| 1067 | [You Make It Easier](https://open.spotify.com/track/2toz89nXx6wvBvfhQ6RLwi) | [Alexandra Savior](https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa) | [Beneath The Lilypad](https://open.spotify.com/album/3nuV6fPLQr62sQpBRBz1Pf) | 4:51 |
+| 1068 | [WHY \(feat\. Luke Combs\)](https://open.spotify.com/track/6rBPoogiDaypPr8YrtUHCm) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [WHY \(feat\. Luke Combs\)](https://open.spotify.com/album/3FRmZ7sBVy7qooBD84kqTE) | 2:57 |
+| 1069 | [Backseat](https://open.spotify.com/track/7yT4NJt5rgmVoMJMGPULcj) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Backseat](https://open.spotify.com/album/4SnYbgZqKOxc2eCRdMS3xu) | 6:23 |
 
-Snapshot ID: `AAAI+3VUINP0I02FHXel4HRRsTuguE33`
+Snapshot ID: `AAAI/LjsrUvzV+U4Kp+0my+eWjld1aQn`

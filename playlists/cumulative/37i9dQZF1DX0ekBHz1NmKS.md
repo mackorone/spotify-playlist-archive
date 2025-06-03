@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,888 songs - 4 day 2 hr 0 min
+1,889 songs - 4 day 2 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1186,6 +1186,7 @@
 | [Nätterna](https://open.spotify.com/track/0sO9OAIoecb2YxmCQohWGq) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Nätterna](https://open.spotify.com/album/30F33A6kVzeBE6qKcBLTz7) | 2:58 | 2021-12-16 | 2022-03-11 |
 | [Nätterna i Göteborg](https://open.spotify.com/track/1Yn8nh3NeSEfA7Oo9dqCvR) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Nätterna i Göteborg](https://open.spotify.com/album/2MKfycYePF6VAf9jg2ToaZ) | 2:51 | 2023-01-05 | 2023-10-06 |
 | [Någon annan](https://open.spotify.com/track/4U4MUPj7cOrLnB5UntZHJ4) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Någon annan](https://open.spotify.com/album/3llaSsqHtdwCAHogwaDcNW) | 3:15 | 2021-12-16 | 2022-03-08 |
+| [Någon annan än dig](https://open.spotify.com/track/4r1TW43zghVN80uLJxxk9d) | [Henric Edström](https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA), [JULI](https://open.spotify.com/artist/4L3VEiHYe7BxQsHloHXGzf) | [Någon annan än dig](https://open.spotify.com/album/2ygUzWnMr5uTK4ddjDZdKB) | 2:44 | 2025-05-29 |  |
 | [Någon kommer älska dig igen](https://open.spotify.com/track/3ZiSSGYuMe8pfCZcUnktZs) | [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK), [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [Någon kommer älska dig igen](https://open.spotify.com/album/7dGKpA9bFVYoVEKKsX2VMK) | 3:19 | 2025-02-06 | 2025-05-23 |
 | [Någon någonsin](https://open.spotify.com/track/5pU720mII2FlXPVF2eALff) | [Paul Rey](https://open.spotify.com/artist/5FjiYgLczmrP2j1gijAGWp) | [Någon någonsin](https://open.spotify.com/album/0GTKBK5CRMNryQ9Xy95SPx) | 2:29 | 2022-04-22 | 2022-07-29 |
 | [Nån annan](https://open.spotify.com/track/3P8yoq6ztDKZnJKE9EXZr3) | [Hanna Raf](https://open.spotify.com/artist/0wJIlyUsEBrhbWh97uyqwW) | [Nån annan](https://open.spotify.com/album/6udwzmJoBJyXvgehKuVF0A) | 3:08 | 2024-04-18 | 2024-05-10 |
@@ -1228,7 +1229,7 @@
 | [Only Heart That's Bleeding](https://open.spotify.com/track/5Uyh904h8oFtT7MsrEDFNc) | [Josefine Ridell](https://open.spotify.com/artist/0AAjLPnvriz6ZX3huVVko8) | [When You Were Mine](https://open.spotify.com/album/4M24A6zHYnqqZAOjta3FjC) | 3:08 | 2024-06-20 | 2024-08-23 |
 | [Only love can save us](https://open.spotify.com/track/5b4GcXk4b1TWqDDvPHTKe7) | [Da Buzz](https://open.spotify.com/artist/3fl4q8rdZhxwVs9yG2rpz0) | [Only love can save us](https://open.spotify.com/album/6pIMv1amZWerjS6nm6BYSe) | 3:13 | 2024-05-16 | 2024-06-14 |
 | [Only Wit U](https://open.spotify.com/track/3aQaxtRXSnUP30wnecYsl8) | [Deki Alem](https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52) | [Fluent Stutter](https://open.spotify.com/album/5Yt14bxTQxx2FbFcmTjAYA) | 3:17 | 2023-10-05 | 2023-10-20 |
-| [Opening Act](https://open.spotify.com/track/31ipMJcQ781rbIVshfR5pz) | [Maja Ivarsson](https://open.spotify.com/artist/7mZEi87Lf4Bxy4XQwIyOEK) | [Kamikaze Life EP](https://open.spotify.com/album/5RPK7laTtrNhcZcSS2rvkz) | 2:16 | 2025-03-07 |  |
+| [Opening Act](https://open.spotify.com/track/31ipMJcQ781rbIVshfR5pz) | [Maja Ivarsson](https://open.spotify.com/artist/7mZEi87Lf4Bxy4XQwIyOEK) | [Kamikaze Life EP](https://open.spotify.com/album/5RPK7laTtrNhcZcSS2rvkz) | 2:16 | 2025-03-07 | 2025-06-03 |
 | [Orange Lemonade](https://open.spotify.com/track/6vIiQXppIWFcsgROMY8TGb) | [Charlie South](https://open.spotify.com/artist/12n8WUOyeP6V8jwgC4G97e), [Manon Lamartine](https://open.spotify.com/artist/1zcAHdb8ppOg7wV3Aaagvw) | [Orange Lemonade](https://open.spotify.com/album/3T3loB8qptlgjUWH1RPXbD) | 2:54 | 2025-04-17 |  |
 | [Ordna sig](https://open.spotify.com/track/7uFizp3Ub3xTv4qSxNTTGO) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Ordna sig](https://open.spotify.com/album/6nX94IWKw5BwI7eitPb5aP) | 2:31 | 2024-06-06 | 2024-08-09 |
 | [Ordning & Reda](https://open.spotify.com/track/7ALAfr3jpBnXKZ3g1hdlH3) | [STOR](https://open.spotify.com/artist/4XLISC9SzRTcR34fosyMtw) | [Ordning & Reda](https://open.spotify.com/album/6S6sAs5yDpBxJiHUy9b8NB) | 2:21 | 2022-06-30 | 2022-10-25 |

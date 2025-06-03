@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2023-07-11",
-  "description": "Les meilleurs hits de la pop maghr\u00e9bine. Cover: Douaa Lahyaoui",
-  "name": "Top Maghreb Pop",
+  "description": "\u0623\u062d\u0633\u0646 \u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0628\u0648\u0628 \u0627\u0644\u0645\u063a\u0631\u0628\u064a \u0645\u062c\u0645\u0648\u0639\u064a\u0646 \u0641\u064a \u0628\u0648\u0628\u0633\u062a\u0627\u0631\u0632",
+  "name": "POPSTARS*",
   "tracks": [
     {
       "album": {
@@ -78,6 +78,24 @@
       "duration_ms": 160758,
       "name": "3tih",
       "url": "https://open.spotify.com/track/3f3rQiGhPdF2ysJeuL5SCk"
+    },
+    {
+      "album": {
+        "name": "7ALI",
+        "url": "https://open.spotify.com/album/55NR3kBy6YcxNJlRWdjsc4"
+      },
+      "artists": [
+        {
+          "name": "Salma Rachid",
+          "url": "https://open.spotify.com/artist/4pHZS56EczdBUlgPuUypUa"
+        }
+      ],
+      "date_added": "2025-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198823,
+      "name": "7ALI",
+      "url": "https://open.spotify.com/track/1qjxkqOs2llVRf2TGl9Vyl"
     },
     {
       "album": {
@@ -392,7 +410,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 245142,
       "name": "Ana W Nti",
       "url": "https://open.spotify.com/track/4980zLaGgwv5ZE2K5Xv5BR"
@@ -1528,7 +1546,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 168365,
       "name": "Jamais yensak",
       "url": "https://open.spotify.com/track/3GyPvyyT9hEjug54SdiN06"
@@ -1946,7 +1964,7 @@
       ],
       "date_added": "2025-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 177073,
       "name": "Love",
       "url": "https://open.spotify.com/track/3Jet2WFgU8NlW7J4xZHa7s"
@@ -2210,6 +2228,24 @@
       "duration_ms": 184041,
       "name": "Malak",
       "url": "https://open.spotify.com/track/3Xj2v1c3y5rm9L7CjmSCrA"
+    },
+    {
+      "album": {
+        "name": "Mali",
+        "url": "https://open.spotify.com/album/0N8j1mxPghNwB09CQy13aT"
+      },
+      "artists": [
+        {
+          "name": "Kawtar",
+          "url": "https://open.spotify.com/artist/4B9s73FXhLx5FXLabyWa2m"
+        }
+      ],
+      "date_added": "2025-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177115,
+      "name": "Mali",
+      "url": "https://open.spotify.com/track/68usOQC8GTlFTsUxyBaFhU"
     },
     {
       "album": {
@@ -2850,6 +2886,24 @@
       "duration_ms": 195903,
       "name": "Slahi",
       "url": "https://open.spotify.com/track/6lZFFlcjp7inSNs7j5GVp2"
+    },
+    {
+      "album": {
+        "name": "Sur Sc\u00e8ne",
+        "url": "https://open.spotify.com/album/0i3B0umXdZhbmv4sbvdMft"
+      },
+      "artists": [
+        {
+          "name": "Zina Daoudia",
+          "url": "https://open.spotify.com/artist/7z6FZ4HMfpp3zHy5OFq93i"
+        }
+      ],
+      "date_added": "2025-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262000,
+      "name": "Sur Sc\u00e8ne",
+      "url": "https://open.spotify.com/track/4WGEf48LVSVHL1lnJwcd79"
     },
     {
       "album": {

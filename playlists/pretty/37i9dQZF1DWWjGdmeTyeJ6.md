@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > Celebrating 10 years of the best new music by independent artists and labels\. Cover: Olivia C\. Dacal
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,223,682 likes - 199 songs - 10 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,223,664 likes - 199 songs - 10 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

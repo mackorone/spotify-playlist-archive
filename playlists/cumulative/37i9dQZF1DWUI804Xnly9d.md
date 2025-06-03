@@ -4,13 +4,13 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-544 songs - 1 day 6 hr 28 min
+545 songs - 1 day 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [90's Kid](https://open.spotify.com/track/267GHnAzfVj04A6ErbCOSD) | [Tony Kakkar](https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv) | [90's Kid](https://open.spotify.com/album/2TeDSPSdj1UC36nj3G4nam) | 1:58 | 2024-08-14 | 2024-08-24 |
 | [Aa Bhi Jaa](https://open.spotify.com/track/2UhGH6QOvugViwXNTLEN2L) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Do Aur Do Pyaar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4u9BrvsOQ5Cda7oKgIvSAa) | 2:24 | 2024-04-15 | 2024-06-29 |
-| [Aa Gaye](https://open.spotify.com/track/2Y0dIYsDmjVUiLkBmxsu6Q) | [The Tapi Project](https://open.spotify.com/artist/1PaDBY2ifUow90EJUJWC9T) | [Aa Gaye](https://open.spotify.com/album/4GJ93ilT4VvRNC0LNx9NYg) | 2:36 | 2025-05-15 |  |
+| [Aa Gaye](https://open.spotify.com/track/2Y0dIYsDmjVUiLkBmxsu6Q) | [The Tapi Project](https://open.spotify.com/artist/1PaDBY2ifUow90EJUJWC9T) | [Aa Gaye](https://open.spotify.com/album/4GJ93ilT4VvRNC0LNx9NYg) | 2:36 | 2025-05-15 | 2025-06-03 |
 | [Aa Milke Baate Zindagi](https://open.spotify.com/track/4OLU7HbSkmhoxuoZCEO1Vo) | [Sagar Siddham](https://open.spotify.com/artist/3XldFTs2E3AIRnP6ht5jcL), [Pallavi Jamindar Siddham](https://open.spotify.com/artist/5IUmaGr0oynNc6WnOoT3Ee) | [Aa Milke Baate Zindagi](https://open.spotify.com/album/1p3RjUC8pYQ3TAS57zLuHb) | 4:07 | 2024-01-15 | 2024-02-21 |
 | [Aahatien](https://open.spotify.com/track/1bK62cy1tyNFuq7DRLFUwe) | [Ishan Thakur](https://open.spotify.com/artist/5LyL2JxB3tk1cHmmpEGz56) | [Aahatien](https://open.spotify.com/album/2B2ctyT0LkheNR31bJQ4u9) | 3:43 | 2024-11-07 | 2024-11-21 |
 | [Aaj Bhi](https://open.spotify.com/track/2w9KJ4hHUJZq2kqcQt5CPb) | [Sanjay S Yadav](https://open.spotify.com/artist/6rgc6AL16aoiwofPPzsoLU), [Sanjay\-Aditya](https://open.spotify.com/artist/6mwBx00BmtwLeHQeDMXOj1), [Abhishek T](https://open.spotify.com/artist/17UDlf4LCPZdWnS6QPZRvf) | [Aaj Bhi](https://open.spotify.com/album/1y9DiLSl3NACA8ttjc16oR) | 3:33 | 2025-01-03 | 2025-02-13 |
@@ -296,6 +296,7 @@
 | [Le Chal](https://open.spotify.com/track/6LJQ4RhoTFi7KcE57QYCp6) | [Manan Chowdhry](https://open.spotify.com/artist/4kwiOM4JVugEgeXSflae9Q), [Swarup Chattopadhyay](https://open.spotify.com/artist/1yatlDm4IYtiBSR7EtOh2Y) | [Le Chal](https://open.spotify.com/album/0n0lSrFEANOi4cCQ8JUkCX) | 2:52 | 2024-05-31 | 2024-07-05 |
 | [Le ja](https://open.spotify.com/track/4lggh4NT569bKe4GUH8qN6) | [Akashdeep Sengupta](https://open.spotify.com/artist/1Taiu6ysv5t5sVhhMYYucf), [Shubham Shirule](https://open.spotify.com/artist/6beOaVvPVwBvJMHZZox3p1) | [Le ja](https://open.spotify.com/album/3Hghdp415d0JyWwA9mUHH2) | 3:55 | 2024-05-31 | 2024-07-09 |
 | [Learn To Love](https://open.spotify.com/track/1WjCn7G3DFoUoef9KOUA7L) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Rajat Arora](https://open.spotify.com/artist/2ubmAXEE8tHwcw8xRHDSh7) | [Learn To Love](https://open.spotify.com/album/0KcRvG80OuG5emQMmV45kT) | 2:59 | 2024-09-03 | 2025-02-04 |
+| [Loriyan](https://open.spotify.com/track/4Nk2m91a4fVN3HJ2nTbxLs) | [Rudraaksh](https://open.spotify.com/artist/13C0l0ksCc9MBMLHslZaLE) | [Loriyan](https://open.spotify.com/album/5XoCFH6XKQLTrhLMgYJVWq) | 2:32 | 2025-06-02 |  |
 | [Love Strings](https://open.spotify.com/track/0X74jZuAmNab2gOmZpGkrC) | [Honeyjeet Singh](https://open.spotify.com/artist/6Q7V7hUyKWeIzBz8X90PhZ) | [Love Strings](https://open.spotify.com/album/78SUVtYpOdV367OE30nglI) | 2:58 | 2025-02-03 | 2025-04-19 |
 | [Lovestruck](https://open.spotify.com/track/2uo1gmZZrFGkEP5gAqDhR7) | [Reshabh Chhabra](https://open.spotify.com/artist/0CH9aQmuz1i2RyBW4dOtIk), [KNOJIA](https://open.spotify.com/artist/0giaHm23OwBcUmSVKXndAB) | [Lovestruck](https://open.spotify.com/album/1yCz8yC7MWRjSo8HwhcSyi) | 3:14 | 2024-03-12 | 2024-07-23 |
 | [Mahi Mere Mahi](https://open.spotify.com/track/1sllzIqIynjYvzFNrXsFjs) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Mahi Mere Mahi](https://open.spotify.com/album/1hxEJVTQVGFz4xbuvS2kHK) | 2:58 | 2025-05-21 |  |

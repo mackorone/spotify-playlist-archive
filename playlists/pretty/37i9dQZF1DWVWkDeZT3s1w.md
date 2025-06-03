@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWkDeZT3s1w.md) - [plain]
 
 > Grandes relatos de toque reflexivo y visión consciente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,771 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,803 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWkDeZT3s1w.md) - [plain]
 | 43 | [Espacio](https://open.spotify.com/track/4Qlji49yh5giZ1FaGrcka1) | [Bocafloja](https://open.spotify.com/artist/2bj9MQez88g09q4NSr2xjS) | [Espacio](https://open.spotify.com/album/4jsKse94WxNSuO6osmSyNs) | 4:35 |
 | 44 | [Dolor](https://open.spotify.com/track/4fCg5TdCsAaf2sizMKYFjm) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Laberinto ELC](https://open.spotify.com/artist/1Cd5Kq0yfp0WqfiryLu4bu) | [Dolor](https://open.spotify.com/album/1QXRglXocvvIB7lroBNUc8) | 4:25 |
 | 45 | [La teoría de la evolución](https://open.spotify.com/track/23fBYz4RKFRmzvo2jnedTl) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd), [Trafikante de Almas](https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP) | [La teoría de la evolución](https://open.spotify.com/album/5vWUoxOP6KnDTYVENv4Kqy) | 2:53 |
-| 46 | [Relojito](https://open.spotify.com/track/6FMbb1G5p7H0n6lDxsZYKt) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Relojito](https://open.spotify.com/album/34FyjWq7YB1bIGkBKCjRwu) | 2:24 |
+| 46 | [Esto Es México](https://open.spotify.com/track/7wQnxrNTZiOPjZu1kXUttb) | [Elote el Barbaro](https://open.spotify.com/artist/0yWcBatdQPfGvY4XEGeD6m), [Sinful](https://open.spotify.com/artist/0Pe4PWfk1dWblSMuxQbKt2) | [Tiempos Muertos](https://open.spotify.com/album/23MFmAALUwxvxcW0yBBXpV) | 4:46 |
 | 47 | [Intraterreno](https://open.spotify.com/track/5bcrz9x6c3NfiZlvQNlzzW) | [Mecal](https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5) | [Intraterreno](https://open.spotify.com/album/5ozLNE6qkjZGJ5Inf54tX5) | 3:54 |
-| 48 | [Esto Es México](https://open.spotify.com/track/7wQnxrNTZiOPjZu1kXUttb) | [Elote el Barbaro](https://open.spotify.com/artist/0yWcBatdQPfGvY4XEGeD6m), [Sinful](https://open.spotify.com/artist/0Pe4PWfk1dWblSMuxQbKt2) | [Tiempos Muertos](https://open.spotify.com/album/23MFmAALUwxvxcW0yBBXpV) | 4:46 |
-| 49 | [Parlante](https://open.spotify.com/track/0NLbyORu1l5SNT0ZNDOU6L) | [Al2 El Aldeano](https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA), [Valles T](https://open.spotify.com/artist/2h5NjKTy7y3blBMgsNusrt), [Raymond Daniel](https://open.spotify.com/artist/033jXqXsPX6VM4DNx6F0tB) | [Parlante](https://open.spotify.com/album/3alCeWkJMPizFI5bO70mw3) | 4:21 |
+| 48 | [Parlante](https://open.spotify.com/track/0NLbyORu1l5SNT0ZNDOU6L) | [Al2 El Aldeano](https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA), [Valles T](https://open.spotify.com/artist/2h5NjKTy7y3blBMgsNusrt), [Raymond Daniel](https://open.spotify.com/artist/033jXqXsPX6VM4DNx6F0tB) | [Parlante](https://open.spotify.com/album/3alCeWkJMPizFI5bO70mw3) | 4:21 |
+| 49 | [Relojito](https://open.spotify.com/track/6FMbb1G5p7H0n6lDxsZYKt) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Relojito](https://open.spotify.com/album/34FyjWq7YB1bIGkBKCjRwu) | 2:24 |
 | 50 | [La Capital Del Pecado](https://open.spotify.com/track/5sxIv3QmlnQ4u5NxPM1E7V) | [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X), [Zirck Saucedo](https://open.spotify.com/artist/4T69z0gm8SP5HxlUBMMXpR) | [La Capital Del Pecado](https://open.spotify.com/album/5ZhKILys7Vne4fJ1gvWZVc) | 2:43 |
 | 51 | [Esquirlas](https://open.spotify.com/track/4uGERRF2SWPcfSVfvNq2Jd) | [Lirika Inverza](https://open.spotify.com/artist/214wdmDstodTL0SEEPDyxb), [Montebel](https://open.spotify.com/artist/3n3xqTWiJ5cThzS3UsDQUV) | [Esquirlas](https://open.spotify.com/album/5I9JiAxaMBqrWqwoTa1VKi) | 3:40 |
 | 52 | [Ellas](https://open.spotify.com/track/5OqS4GrqPeL1EcFNxGAJ5y) | [Akil Ammar](https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr), [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [Ellas](https://open.spotify.com/album/4VpdPretQ3aI1cwXFhlFhY) | 4:44 |

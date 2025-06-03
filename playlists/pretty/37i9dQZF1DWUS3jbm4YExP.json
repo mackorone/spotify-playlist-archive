@@ -1,6 +1,6 @@
 {
   "description": "Groovy sounds from around the world.",
-  "num_followers": 822595,
+  "num_followers": 822816,
   "original_name": "Global Groove",
   "owner": {
     "name": "Spotify",
@@ -335,6 +335,22 @@
     {
       "added_at": "2025-05-30 09:28:10",
       "album": {
+        "name": "S\u00e9rie Samba Soul",
+        "url": "https://open.spotify.com/album/6D52C2o93yMKyXqOiXRd3A"
+      },
+      "artists": [
+        {
+          "name": "Dom Salvador & Aboli\u00e7\u00e3o",
+          "url": "https://open.spotify.com/artist/0Aanlviesqoy29lgsP9OC6"
+        }
+      ],
+      "duration_ms": 152733,
+      "name": "Hei! Voc\u00ea",
+      "url": "https://open.spotify.com/track/3Ztfe3UOfRkjTpajSYZ4qy"
+    },
+    {
+      "added_at": "2025-05-30 09:28:10",
+      "album": {
         "name": "\u00c7a fait 2x plus de bien",
         "url": "https://open.spotify.com/album/5v03jp3rrC4R0AVFlMsMAE"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 208153,
       "name": "\u00c7a fait du bien - Voilaaa Remix",
       "url": "https://open.spotify.com/track/35iCo2B0jaGwYpaFP2fFZ8"
-    },
-    {
-      "added_at": "2025-05-30 09:28:10",
-      "album": {
-        "name": "S\u00e9rie Samba Soul",
-        "url": "https://open.spotify.com/album/6D52C2o93yMKyXqOiXRd3A"
-      },
-      "artists": [
-        {
-          "name": "Dom Salvador & Aboli\u00e7\u00e3o",
-          "url": "https://open.spotify.com/artist/0Aanlviesqoy29lgsP9OC6"
-        }
-      ],
-      "duration_ms": 152733,
-      "name": "Hei! Voc\u00ea",
-      "url": "https://open.spotify.com/track/3Ztfe3UOfRkjTpajSYZ4qy"
     },
     {
       "added_at": "2025-05-30 09:28:10",
@@ -659,38 +659,6 @@
     {
       "added_at": "2025-05-30 09:28:10",
       "album": {
-        "name": "Adagio",
-        "url": "https://open.spotify.com/album/3qgAUF0EAfwmsGH6lFrZiO"
-      },
-      "artists": [
-        {
-          "name": "\u03a3tella",
-          "url": "https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu"
-        }
-      ],
-      "duration_ms": 176026,
-      "name": "Adagio",
-      "url": "https://open.spotify.com/track/1BOvtLCCUsAaObd94hdaS8"
-    },
-    {
-      "added_at": "2025-05-30 09:28:10",
-      "album": {
-        "name": "Caosmosi",
-        "url": "https://open.spotify.com/album/3c5kIKIGE3lDvyDehcbqzP"
-      },
-      "artists": [
-        {
-          "name": "Addict Ameba",
-          "url": "https://open.spotify.com/artist/4Au0CBfj9kSp1qOUBFMCjb"
-        }
-      ],
-      "duration_ms": 303733,
-      "name": "Caosmosi",
-      "url": "https://open.spotify.com/track/75f7i3yQ0HYtaZ0iuN0p3y"
-    },
-    {
-      "added_at": "2025-05-30 09:28:10",
-      "album": {
         "name": "Mistakes on Purpose (Ethiopiques 30)",
         "url": "https://open.spotify.com/album/5Vg9np3c5uQSZFwvFyDpoW"
       },
@@ -711,22 +679,38 @@
     {
       "added_at": "2025-05-30 09:28:10",
       "album": {
-        "name": "you loved me like a fool",
-        "url": "https://open.spotify.com/album/7KQlh5j0jNYc44xwUGbOBJ"
+        "name": "Caosmosi",
+        "url": "https://open.spotify.com/album/3c5kIKIGE3lDvyDehcbqzP"
       },
       "artists": [
         {
-          "name": "Stuzzi",
-          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
-        },
-        {
-          "name": "Amanda Bergman",
-          "url": "https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80"
+          "name": "Addict Ameba",
+          "url": "https://open.spotify.com/artist/4Au0CBfj9kSp1qOUBFMCjb"
         }
       ],
-      "duration_ms": 214638,
-      "name": "you loved me like a fool",
-      "url": "https://open.spotify.com/track/63XHC6Djfms8EIj0sYn74n"
+      "duration_ms": 303733,
+      "name": "Caosmosi",
+      "url": "https://open.spotify.com/track/75f7i3yQ0HYtaZ0iuN0p3y"
+    },
+    {
+      "added_at": "2025-05-30 09:28:10",
+      "album": {
+        "name": "Up and Away",
+        "url": "https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk"
+      },
+      "artists": [
+        {
+          "name": "\u03a3tella",
+          "url": "https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu"
+        },
+        {
+          "name": "Redinho",
+          "url": "https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB"
+        }
+      ],
+      "duration_ms": 191471,
+      "name": "Up and Away",
+      "url": "https://open.spotify.com/track/6r7fP6eQHull2Y8GECHYfI"
     },
     {
       "added_at": "2025-05-30 09:28:10",
@@ -747,6 +731,26 @@
       "duration_ms": 244075,
       "name": "Danza Maril\u00f9 (feat. Fabiana Martone)",
       "url": "https://open.spotify.com/track/6JZOZWEpu1hcTCz28rnQwJ"
+    },
+    {
+      "added_at": "2025-05-30 09:28:10",
+      "album": {
+        "name": "you loved me like a fool",
+        "url": "https://open.spotify.com/album/7KQlh5j0jNYc44xwUGbOBJ"
+      },
+      "artists": [
+        {
+          "name": "Stuzzi",
+          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
+        },
+        {
+          "name": "Amanda Bergman",
+          "url": "https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80"
+        }
+      ],
+      "duration_ms": 214638,
+      "name": "you loved me like a fool",
+      "url": "https://open.spotify.com/track/63XHC6Djfms8EIj0sYn74n"
     },
     {
       "added_at": "2025-05-30 09:28:10",
@@ -839,22 +843,22 @@
     {
       "added_at": "2025-05-30 09:28:10",
       "album": {
-        "name": "Up and Away",
-        "url": "https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk"
+        "name": "Com Amor Bahia",
+        "url": "https://open.spotify.com/album/4zfAEE9mRmv6x5X7QhPW92"
       },
       "artists": [
         {
-          "name": "\u03a3tella",
-          "url": "https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu"
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
         },
         {
-          "name": "Redinho",
-          "url": "https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB"
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
         }
       ],
-      "duration_ms": 191471,
-      "name": "Up and Away",
-      "url": "https://open.spotify.com/track/6r7fP6eQHull2Y8GECHYfI"
+      "duration_ms": 168183,
+      "name": "Com Amor Bahia",
+      "url": "https://open.spotify.com/track/4ona06RUBn7vLcIixJXPZw"
     },
     {
       "added_at": "2025-05-30 09:28:10",
@@ -887,22 +891,18 @@
     {
       "added_at": "2025-05-30 09:28:10",
       "album": {
-        "name": "Com Amor Bahia",
-        "url": "https://open.spotify.com/album/4zfAEE9mRmv6x5X7QhPW92"
+        "name": "Adagio",
+        "url": "https://open.spotify.com/album/3qgAUF0EAfwmsGH6lFrZiO"
       },
       "artists": [
         {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
-        },
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+          "name": "\u03a3tella",
+          "url": "https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu"
         }
       ],
-      "duration_ms": 168183,
-      "name": "Com Amor Bahia",
-      "url": "https://open.spotify.com/track/4ona06RUBn7vLcIixJXPZw"
+      "duration_ms": 176026,
+      "name": "Adagio",
+      "url": "https://open.spotify.com/track/1BOvtLCCUsAaObd94hdaS8"
     },
     {
       "added_at": "2025-05-30 09:28:10",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2025-05-30 09:28:10",
       "album": {
+        "name": "Como Fuego",
+        "url": "https://open.spotify.com/album/2cob5a2IGcGDa0CuYS3jLi"
+      },
+      "artists": [
+        {
+          "name": "Reyna Tropical",
+          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
+        }
+      ],
+      "duration_ms": 184925,
+      "name": "Como Fuego",
+      "url": "https://open.spotify.com/track/44E4aMwLp8EosJDp8WyQe4"
+    },
+    {
+      "added_at": "2025-05-30 09:28:10",
+      "album": {
         "name": "La Matanza",
         "url": "https://open.spotify.com/album/2CbqEOFIp1BIRIs3NPUVU6"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 201562,
       "name": "La Matanza",
       "url": "https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp"
-    },
-    {
-      "added_at": "2025-05-30 09:28:10",
-      "album": {
-        "name": "Como Fuego",
-        "url": "https://open.spotify.com/album/2cob5a2IGcGDa0CuYS3jLi"
-      },
-      "artists": [
-        {
-          "name": "Reyna Tropical",
-          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
-        }
-      ],
-      "duration_ms": 184925,
-      "name": "Como Fuego",
-      "url": "https://open.spotify.com/track/44E4aMwLp8EosJDp8WyQe4"
     },
     {
       "added_at": "2025-05-30 09:28:10",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2025-05-30 09:28:10",
       "album": {
-        "name": "Dancing While Falling",
-        "url": "https://open.spotify.com/album/0OQDgPsunDOfPiRAuS87ng"
-      },
-      "artists": [
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        },
-        {
-          "name": "Rationale",
-          "url": "https://open.spotify.com/artist/2IQDM5URYGYfSMmwhTCmyy"
-        }
-      ],
-      "duration_ms": 195020,
-      "name": "Unconditional (feat. Rationale)",
-      "url": "https://open.spotify.com/track/7a6tkmsh9RXN0bQ9BSM7td"
-    },
-    {
-      "added_at": "2025-05-30 09:28:10",
-      "album": {
         "name": "Beyond Our Shores",
         "url": "https://open.spotify.com/album/3hpJyiPBMya8b1FKhyj75e"
       },
@@ -1155,6 +1135,26 @@
       "duration_ms": 170483,
       "name": "You Got This",
       "url": "https://open.spotify.com/track/2h2aS5GMCPRNLE0xvgci9j"
+    },
+    {
+      "added_at": "2025-05-30 09:28:10",
+      "album": {
+        "name": "Dancing While Falling",
+        "url": "https://open.spotify.com/album/0OQDgPsunDOfPiRAuS87ng"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        },
+        {
+          "name": "Rationale",
+          "url": "https://open.spotify.com/artist/2IQDM5URYGYfSMmwhTCmyy"
+        }
+      ],
+      "duration_ms": 195020,
+      "name": "Unconditional (feat. Rationale)",
+      "url": "https://open.spotify.com/track/7a6tkmsh9RXN0bQ9BSM7td"
     },
     {
       "added_at": "2025-05-30 09:28:10",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2025-05-30 09:28:10",
       "album": {
+        "name": "Perak",
+        "url": "https://open.spotify.com/album/5FdHePoYyJiUsjG0ownNbb"
+      },
+      "artists": [
+        {
+          "name": "Thee Marloes",
+          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
+        }
+      ],
+      "duration_ms": 172777,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/3lNXj5FX51jm3jqqWVUpXM"
+    },
+    {
+      "added_at": "2025-05-30 09:28:10",
+      "album": {
         "name": "Charanga",
         "url": "https://open.spotify.com/album/0GRIwTPZZAH3iibc3Yb7oe"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 266820,
       "name": "Charanga",
       "url": "https://open.spotify.com/track/7CxwPOWDUC26Ia1odk1Mdj"
-    },
-    {
-      "added_at": "2025-05-30 09:28:10",
-      "album": {
-        "name": "Perak",
-        "url": "https://open.spotify.com/album/5FdHePoYyJiUsjG0ownNbb"
-      },
-      "artists": [
-        {
-          "name": "Thee Marloes",
-          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
-        }
-      ],
-      "duration_ms": 172777,
-      "name": "I Know",
-      "url": "https://open.spotify.com/track/3lNXj5FX51jm3jqqWVUpXM"
     },
     {
       "added_at": "2025-05-30 09:28:10",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2025-05-30 09:28:10",
       "album": {
-        "name": "Tropics",
-        "url": "https://open.spotify.com/album/1BnY0XdMPXBPzDXglO3tfG"
-      },
-      "artists": [
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        }
-      ],
-      "duration_ms": 149745,
-      "name": "Tropics",
-      "url": "https://open.spotify.com/track/4EF3IusotKC8IoC1CuZFc5"
-    },
-    {
-      "added_at": "2025-05-30 09:28:10",
-      "album": {
         "name": "Yalli Betiheb Elna'na'",
         "url": "https://open.spotify.com/album/4CdEHczQJUHdGhacWYQ6vH"
       },
@@ -1415,18 +1399,34 @@
     {
       "added_at": "2025-05-30 09:28:10",
       "album": {
-        "name": "Consulate Case",
-        "url": "https://open.spotify.com/album/2B2hJboEgiEV4e2oSDMx7s"
+        "name": "Tropics",
+        "url": "https://open.spotify.com/album/1BnY0XdMPXBPzDXglO3tfG"
       },
       "artists": [
         {
-          "name": "Surprise Chef",
-          "url": "https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj"
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
         }
       ],
-      "duration_ms": 207202,
-      "name": "Consulate Case",
-      "url": "https://open.spotify.com/track/0ftvZIxENBCdDWEeaSOFva"
+      "duration_ms": 149745,
+      "name": "Tropics",
+      "url": "https://open.spotify.com/track/4EF3IusotKC8IoC1CuZFc5"
+    },
+    {
+      "added_at": "2025-05-30 09:28:10",
+      "album": {
+        "name": "Objectif perfection",
+        "url": "https://open.spotify.com/album/4tNjmSfuLCcrdgXb0AdfJ0"
+      },
+      "artists": [
+        {
+          "name": "Balla Et Ses Balladins",
+          "url": "https://open.spotify.com/artist/2qNmQvibIVFYLfpbWmyWuO"
+        }
+      ],
+      "duration_ms": 462000,
+      "name": "Paulette",
+      "url": "https://open.spotify.com/track/0xLRcC54BxwGkDw09zJqrS"
     },
     {
       "added_at": "2025-05-30 09:28:10",
@@ -1451,34 +1451,18 @@
     {
       "added_at": "2025-05-30 09:28:10",
       "album": {
-        "name": "Objectif perfection",
-        "url": "https://open.spotify.com/album/4tNjmSfuLCcrdgXb0AdfJ0"
+        "name": "Consulate Case",
+        "url": "https://open.spotify.com/album/2B2hJboEgiEV4e2oSDMx7s"
       },
       "artists": [
         {
-          "name": "Balla Et Ses Balladins",
-          "url": "https://open.spotify.com/artist/2qNmQvibIVFYLfpbWmyWuO"
+          "name": "Surprise Chef",
+          "url": "https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj"
         }
       ],
-      "duration_ms": 462000,
-      "name": "Paulette",
-      "url": "https://open.spotify.com/track/0xLRcC54BxwGkDw09zJqrS"
-    },
-    {
-      "added_at": "2025-05-30 09:28:10",
-      "album": {
-        "name": "TIMBO PROGRESSION",
-        "url": "https://open.spotify.com/album/70u6cm5Wp983688TTctIGW"
-      },
-      "artists": [
-        {
-          "name": "Timbaland",
-          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
-        }
-      ],
-      "duration_ms": 166370,
-      "name": "Lion's Roar",
-      "url": "https://open.spotify.com/track/2ivzpUIo5dl90YTmxOryOq"
+      "duration_ms": 207202,
+      "name": "Consulate Case",
+      "url": "https://open.spotify.com/track/0ftvZIxENBCdDWEeaSOFva"
     },
     {
       "added_at": "2025-05-30 09:28:10",
@@ -1499,22 +1483,18 @@
     {
       "added_at": "2025-05-30 09:28:10",
       "album": {
-        "name": "Marvin",
-        "url": "https://open.spotify.com/album/0JStflx0reeYHxiTIy0SQO"
+        "name": "TIMBO PROGRESSION",
+        "url": "https://open.spotify.com/album/70u6cm5Wp983688TTctIGW"
       },
       "artists": [
         {
-          "name": "Laurent Bardainne",
-          "url": "https://open.spotify.com/artist/077jd0crcXmExS5nOSDhQw"
-        },
-        {
-          "name": "Tigre d'Eau Douce",
-          "url": "https://open.spotify.com/artist/2J0cbdwUlJkBYkQYIDDU5k"
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
         }
       ],
-      "duration_ms": 235795,
-      "name": "Porsche 944",
-      "url": "https://open.spotify.com/track/6JSkc4vPxHuTqgSuJ2vMu9"
+      "duration_ms": 166370,
+      "name": "Lion's Roar",
+      "url": "https://open.spotify.com/track/2ivzpUIo5dl90YTmxOryOq"
     },
     {
       "added_at": "2025-05-30 09:28:10",
@@ -1535,6 +1515,26 @@
       "duration_ms": 293999,
       "name": "Homo Sapiens",
       "url": "https://open.spotify.com/track/7237Rc0OgaozeyigB1VPn0"
+    },
+    {
+      "added_at": "2025-05-30 09:28:10",
+      "album": {
+        "name": "Marvin",
+        "url": "https://open.spotify.com/album/0JStflx0reeYHxiTIy0SQO"
+      },
+      "artists": [
+        {
+          "name": "Laurent Bardainne",
+          "url": "https://open.spotify.com/artist/077jd0crcXmExS5nOSDhQw"
+        },
+        {
+          "name": "Tigre d'Eau Douce",
+          "url": "https://open.spotify.com/artist/2J0cbdwUlJkBYkQYIDDU5k"
+        }
+      ],
+      "duration_ms": 235795,
+      "name": "Porsche 944",
+      "url": "https://open.spotify.com/track/6JSkc4vPxHuTqgSuJ2vMu9"
     },
     {
       "added_at": "2025-05-30 09:28:10",
@@ -1587,22 +1587,18 @@
     {
       "added_at": "2025-05-30 09:28:10",
       "album": {
-        "name": "Dubby Sunday",
-        "url": "https://open.spotify.com/album/5dWRxAldaLhTCV6eBDHWBt"
+        "name": "Tropicoso",
+        "url": "https://open.spotify.com/album/481L9QkG0QiHGYBkDzqqsz"
       },
       "artists": [
         {
-          "name": "Nacho Maldonado",
-          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
-        },
-        {
-          "name": "Israel Arteaga",
-          "url": "https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP"
+          "name": "Jungle Fire",
+          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
         }
       ],
-      "duration_ms": 348662,
-      "name": "Dubby Sunday",
-      "url": "https://open.spotify.com/track/2zdLcpv8D5mdyrF5QXEnbc"
+      "duration_ms": 152600,
+      "name": "Comencemos (Let's Start)",
+      "url": "https://open.spotify.com/track/44kT6XsCkSGb9wNQ5qGXvg"
     },
     {
       "added_at": "2025-05-30 09:28:10",
@@ -1627,18 +1623,22 @@
     {
       "added_at": "2025-05-30 09:28:10",
       "album": {
-        "name": "Tropicoso",
-        "url": "https://open.spotify.com/album/481L9QkG0QiHGYBkDzqqsz"
+        "name": "Dubby Sunday",
+        "url": "https://open.spotify.com/album/5dWRxAldaLhTCV6eBDHWBt"
       },
       "artists": [
         {
-          "name": "Jungle Fire",
-          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
+          "name": "Nacho Maldonado",
+          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
+        },
+        {
+          "name": "Israel Arteaga",
+          "url": "https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP"
         }
       ],
-      "duration_ms": 152600,
-      "name": "Comencemos (Let's Start)",
-      "url": "https://open.spotify.com/track/44kT6XsCkSGb9wNQ5qGXvg"
+      "duration_ms": 348662,
+      "name": "Dubby Sunday",
+      "url": "https://open.spotify.com/track/2zdLcpv8D5mdyrF5QXEnbc"
     },
     {
       "added_at": "2025-05-30 09:28:10",
@@ -1703,6 +1703,22 @@
     {
       "added_at": "2025-05-30 09:28:10",
       "album": {
+        "name": "Los Santos y Pecadores",
+        "url": "https://open.spotify.com/album/05DKwPpIQiGJTKxEqvDJsu"
+      },
+      "artists": [
+        {
+          "name": "Battle of Santiago",
+          "url": "https://open.spotify.com/artist/39Pu6fhvnHzWYqZlngV8dl"
+        }
+      ],
+      "duration_ms": 198767,
+      "name": "Blossom",
+      "url": "https://open.spotify.com/track/68Ck9sVtvLBnyklKBhppty"
+    },
+    {
+      "added_at": "2025-05-30 09:28:10",
+      "album": {
         "name": "Monte Carlo",
         "url": "https://open.spotify.com/album/0gWgIzow11rFcxJ4rnjxNE"
       },
@@ -1727,18 +1743,22 @@
     {
       "added_at": "2025-05-30 09:28:10",
       "album": {
-        "name": "Los Santos y Pecadores",
-        "url": "https://open.spotify.com/album/05DKwPpIQiGJTKxEqvDJsu"
+        "name": "Frente Cumbiero Meets Mad Professor",
+        "url": "https://open.spotify.com/album/1dnal49FIWH19CsWYjYMOV"
       },
       "artists": [
         {
-          "name": "Battle of Santiago",
-          "url": "https://open.spotify.com/artist/39Pu6fhvnHzWYqZlngV8dl"
+          "name": "Frente Cumbiero",
+          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
+        },
+        {
+          "name": "Mad Professor",
+          "url": "https://open.spotify.com/artist/3hbnUwHvxyFxeJ9veCzOE7"
         }
       ],
-      "duration_ms": 198767,
-      "name": "Blossom",
-      "url": "https://open.spotify.com/track/68Ck9sVtvLBnyklKBhppty"
+      "duration_ms": 263933,
+      "name": "Chucusteady",
+      "url": "https://open.spotify.com/track/1mUPcRmSmi2XsKAOWFKAF1"
     },
     {
       "added_at": "2025-05-30 09:28:10",
@@ -1771,26 +1791,6 @@
       "duration_ms": 188200,
       "name": "Corre Riba, Corre Baixo",
       "url": "https://open.spotify.com/track/3ln5s4LFL2hRnpTCddKEST"
-    },
-    {
-      "added_at": "2025-05-30 09:28:10",
-      "album": {
-        "name": "Frente Cumbiero Meets Mad Professor",
-        "url": "https://open.spotify.com/album/1dnal49FIWH19CsWYjYMOV"
-      },
-      "artists": [
-        {
-          "name": "Frente Cumbiero",
-          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
-        },
-        {
-          "name": "Mad Professor",
-          "url": "https://open.spotify.com/artist/3hbnUwHvxyFxeJ9veCzOE7"
-        }
-      ],
-      "duration_ms": 263933,
-      "name": "Chucusteady",
-      "url": "https://open.spotify.com/track/1mUPcRmSmi2XsKAOWFKAF1"
     },
     {
       "added_at": "2025-05-30 09:28:10",
@@ -1871,6 +1871,22 @@
     {
       "added_at": "2025-05-30 09:28:10",
       "album": {
+        "name": "Claude Fontaine",
+        "url": "https://open.spotify.com/album/0N3jnwoj19u35NojyETlk7"
+      },
+      "artists": [
+        {
+          "name": "Claude Fontaine",
+          "url": "https://open.spotify.com/artist/34Ri1nJORbduGK8LLHz61Y"
+        }
+      ],
+      "duration_ms": 246386,
+      "name": "Play by Play",
+      "url": "https://open.spotify.com/track/3fgD4imzFk4b5PfixFqLBF"
+    },
+    {
+      "added_at": "2025-05-30 09:28:10",
+      "album": {
         "name": "merlot and grigio",
         "url": "https://open.spotify.com/album/6RVaGktr5I9iuvJVF5ft1B"
       },
@@ -1887,22 +1903,6 @@
       "duration_ms": 206265,
       "name": "merlot and grigio",
       "url": "https://open.spotify.com/track/0Jc9dn7LaihjTPFoq4Eynp"
-    },
-    {
-      "added_at": "2025-05-30 09:28:10",
-      "album": {
-        "name": "Claude Fontaine",
-        "url": "https://open.spotify.com/album/0N3jnwoj19u35NojyETlk7"
-      },
-      "artists": [
-        {
-          "name": "Claude Fontaine",
-          "url": "https://open.spotify.com/artist/34Ri1nJORbduGK8LLHz61Y"
-        }
-      ],
-      "duration_ms": 246386,
-      "name": "Play by Play",
-      "url": "https://open.spotify.com/track/3fgD4imzFk4b5PfixFqLBF"
     },
     {
       "added_at": "2025-05-30 09:28:10",
@@ -1943,22 +1943,18 @@
     {
       "added_at": "2025-05-30 09:28:10",
       "album": {
-        "name": "Mount Pleasant Remixed, Vol. 1",
-        "url": "https://open.spotify.com/album/3ALtmr92YLgAb6cO2liYHK"
+        "name": "Adada",
+        "url": "https://open.spotify.com/album/6NahKzvjOBtVirZIVWdey4"
       },
       "artists": [
         {
-          "name": "Smoove & Turrell",
-          "url": "https://open.spotify.com/artist/2H1QvrzVgcOKPRpYF8xDUn"
-        },
-        {
-          "name": "Dr Rubberfunk",
-          "url": "https://open.spotify.com/artist/7jOCklAiBleLs7aGsFaDep"
+          "name": "islandman",
+          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
         }
       ],
-      "duration_ms": 226568,
-      "name": "Flames to Feed - Dr Rubberfunk Remix",
-      "url": "https://open.spotify.com/track/2fgh5ZPeZbQ9y8b7AWC4iZ"
+      "duration_ms": 330000,
+      "name": "Adada",
+      "url": "https://open.spotify.com/track/3p1uB1JCsNLrrp0emWOwH4"
     },
     {
       "added_at": "2025-05-30 09:28:10",
@@ -1975,6 +1971,26 @@
       "duration_ms": 202104,
       "name": "Verde",
       "url": "https://open.spotify.com/track/6sqG1sGiZ5xy58TDkeo9rS"
+    },
+    {
+      "added_at": "2025-05-30 09:28:10",
+      "album": {
+        "name": "Mount Pleasant Remixed, Vol. 1",
+        "url": "https://open.spotify.com/album/3ALtmr92YLgAb6cO2liYHK"
+      },
+      "artists": [
+        {
+          "name": "Smoove & Turrell",
+          "url": "https://open.spotify.com/artist/2H1QvrzVgcOKPRpYF8xDUn"
+        },
+        {
+          "name": "Dr Rubberfunk",
+          "url": "https://open.spotify.com/artist/7jOCklAiBleLs7aGsFaDep"
+        }
+      ],
+      "duration_ms": 226568,
+      "name": "Flames to Feed - Dr Rubberfunk Remix",
+      "url": "https://open.spotify.com/track/2fgh5ZPeZbQ9y8b7AWC4iZ"
     },
     {
       "added_at": "2025-05-30 09:28:10",
@@ -2059,6 +2075,22 @@
     {
       "added_at": "2025-05-30 09:28:10",
       "album": {
+        "name": "The Age of Aquarius",
+        "url": "https://open.spotify.com/album/4hocimNA2HqHGJENlvTvws"
+      },
+      "artists": [
+        {
+          "name": "Yin Yin",
+          "url": "https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2"
+        }
+      ],
+      "duration_ms": 368108,
+      "name": "Sh\u0113nzhou V.",
+      "url": "https://open.spotify.com/track/0AULxj8PjVnPL8vuUGwVkb"
+    },
+    {
+      "added_at": "2025-05-30 09:28:10",
+      "album": {
         "name": "Mabanzo",
         "url": "https://open.spotify.com/album/27YMkY29ejf68IpDywP91w"
       },
@@ -2075,18 +2107,18 @@
     {
       "added_at": "2025-05-30 09:28:10",
       "album": {
-        "name": "The Age of Aquarius",
-        "url": "https://open.spotify.com/album/4hocimNA2HqHGJENlvTvws"
+        "name": "Morning Sun",
+        "url": "https://open.spotify.com/album/6gn7yCcrqB7zDovRUrn8ZH"
       },
       "artists": [
         {
-          "name": "Yin Yin",
-          "url": "https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2"
+          "name": "Sampology",
+          "url": "https://open.spotify.com/artist/4si18qS80CBDvSo59qthZJ"
         }
       ],
-      "duration_ms": 368108,
-      "name": "Sh\u0113nzhou V.",
-      "url": "https://open.spotify.com/track/0AULxj8PjVnPL8vuUGwVkb"
+      "duration_ms": 304827,
+      "name": "Morning Sun",
+      "url": "https://open.spotify.com/track/0ODz72aWsdWhKqgEmJYZ7Q"
     },
     {
       "added_at": "2025-05-30 09:28:10",
@@ -2119,22 +2151,6 @@
       "duration_ms": 235250,
       "name": "Mam Yinne Wa",
       "url": "https://open.spotify.com/track/08k6ZsTPo7ws120ty9nvHM"
-    },
-    {
-      "added_at": "2025-05-30 09:28:10",
-      "album": {
-        "name": "Adada",
-        "url": "https://open.spotify.com/album/6NahKzvjOBtVirZIVWdey4"
-      },
-      "artists": [
-        {
-          "name": "islandman",
-          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
-        }
-      ],
-      "duration_ms": 330000,
-      "name": "Adada",
-      "url": "https://open.spotify.com/track/3p1uB1JCsNLrrp0emWOwH4"
     },
     {
       "added_at": "2025-05-30 09:28:10",
@@ -2191,38 +2207,6 @@
     {
       "added_at": "2025-05-30 09:28:10",
       "album": {
-        "name": "Morning Sun",
-        "url": "https://open.spotify.com/album/6gn7yCcrqB7zDovRUrn8ZH"
-      },
-      "artists": [
-        {
-          "name": "Sampology",
-          "url": "https://open.spotify.com/artist/4si18qS80CBDvSo59qthZJ"
-        }
-      ],
-      "duration_ms": 304827,
-      "name": "Morning Sun",
-      "url": "https://open.spotify.com/track/0ODz72aWsdWhKqgEmJYZ7Q"
-    },
-    {
-      "added_at": "2025-05-30 09:28:10",
-      "album": {
-        "name": "El Sonido Nuevo de",
-        "url": "https://open.spotify.com/album/1UHFfBD2kb9JeUcnQqsOUh"
-      },
-      "artists": [
-        {
-          "name": "Pachyman",
-          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
-        }
-      ],
-      "duration_ms": 200458,
-      "name": "Towards The Mountain",
-      "url": "https://open.spotify.com/track/4Wp7sd3BXs68y8qhEl2Ixa"
-    },
-    {
-      "added_at": "2025-05-30 09:28:10",
-      "album": {
         "name": "Dejate Llevar",
         "url": "https://open.spotify.com/album/4Drqq5fk908c6oGJcGJkKg"
       },
@@ -2239,6 +2223,22 @@
       "duration_ms": 301723,
       "name": "Dejate Llevar",
       "url": "https://open.spotify.com/track/7FDSyaGSN7CjMcd7jXWq9Z"
+    },
+    {
+      "added_at": "2025-05-30 09:28:10",
+      "album": {
+        "name": "El Sonido Nuevo de",
+        "url": "https://open.spotify.com/album/1UHFfBD2kb9JeUcnQqsOUh"
+      },
+      "artists": [
+        {
+          "name": "Pachyman",
+          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
+        }
+      ],
+      "duration_ms": 200458,
+      "name": "Towards The Mountain",
+      "url": "https://open.spotify.com/track/4Wp7sd3BXs68y8qhEl2Ixa"
     },
     {
       "added_at": "2025-05-30 09:28:10",
@@ -2279,22 +2279,6 @@
     {
       "added_at": "2025-05-30 09:28:10",
       "album": {
-        "name": "Agar",
-        "url": "https://open.spotify.com/album/4997xeKpXksWmrxR0GnDoz"
-      },
-      "artists": [
-        {
-          "name": "Cavolo Nero",
-          "url": "https://open.spotify.com/artist/5ewSUyw8Gl9p38R1uxHuJU"
-        }
-      ],
-      "duration_ms": 300000,
-      "name": "Agar",
-      "url": "https://open.spotify.com/track/7KxCbBeAHa5gBbLXPNzzaD"
-    },
-    {
-      "added_at": "2025-05-30 09:28:10",
-      "album": {
         "name": "Mama",
         "url": "https://open.spotify.com/album/1ZvCj7rr10to6fz4dzGCgv"
       },
@@ -2319,34 +2303,18 @@
     {
       "added_at": "2025-05-30 09:28:10",
       "album": {
-        "name": "Angels On A Pin",
-        "url": "https://open.spotify.com/album/5dfGRfsik4iBH05h9OfUe1"
+        "name": "Agar",
+        "url": "https://open.spotify.com/album/4997xeKpXksWmrxR0GnDoz"
       },
       "artists": [
         {
-          "name": "Louie Zong",
-          "url": "https://open.spotify.com/artist/7jOY91ZU7kn86slH3fBbaD"
+          "name": "Cavolo Nero",
+          "url": "https://open.spotify.com/artist/5ewSUyw8Gl9p38R1uxHuJU"
         }
       ],
-      "duration_ms": 284361,
-      "name": "Angels On A Pin",
-      "url": "https://open.spotify.com/track/6HjWUmDcJCvWXeXNMYyqrV"
-    },
-    {
-      "added_at": "2025-05-30 09:28:10",
-      "album": {
-        "name": "Under No Nation (Radio Edit)",
-        "url": "https://open.spotify.com/album/6NpZ9v8aJwdLdhhVEJq3Lm"
-      },
-      "artists": [
-        {
-          "name": "Goat",
-          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
-        }
-      ],
-      "duration_ms": 184256,
-      "name": "Under No Nation - Radio Edit",
-      "url": "https://open.spotify.com/track/4FtumUPkZgKXyItJx2telR"
+      "duration_ms": 300000,
+      "name": "Agar",
+      "url": "https://open.spotify.com/track/7KxCbBeAHa5gBbLXPNzzaD"
     },
     {
       "added_at": "2025-05-30 09:28:10",
@@ -2371,6 +2339,22 @@
     {
       "added_at": "2025-05-30 09:28:10",
       "album": {
+        "name": "Under No Nation (Radio Edit)",
+        "url": "https://open.spotify.com/album/6NpZ9v8aJwdLdhhVEJq3Lm"
+      },
+      "artists": [
+        {
+          "name": "Goat",
+          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
+        }
+      ],
+      "duration_ms": 184256,
+      "name": "Under No Nation - Radio Edit",
+      "url": "https://open.spotify.com/track/4FtumUPkZgKXyItJx2telR"
+    },
+    {
+      "added_at": "2025-05-30 09:28:10",
+      "album": {
         "name": "Hafa",
         "url": "https://open.spotify.com/album/2kv0GcPQvtQgDnUpTmlDSI"
       },
@@ -2387,22 +2371,6 @@
       "duration_ms": 249982,
       "name": "Agua Viva",
       "url": "https://open.spotify.com/track/5qQviPvlrLAezMa8EzmZev"
-    },
-    {
-      "added_at": "2025-05-30 09:28:10",
-      "album": {
-        "name": "Yar\u0131n Yoksa",
-        "url": "https://open.spotify.com/album/5l7ypUMco5BLsIYBjIYWay"
-      },
-      "artists": [
-        {
-          "name": "Derya Y\u0131ld\u0131r\u0131m & Grup \u015eim\u015fek",
-          "url": "https://open.spotify.com/artist/2Y0SH69uxHrHrjiZCuTSaT"
-        }
-      ],
-      "duration_ms": 214039,
-      "name": "\u00c7i\u00e7ek A\u00e7\u0131yor",
-      "url": "https://open.spotify.com/track/3HpWj8DChKRuR28pnrHK6p"
     },
     {
       "added_at": "2025-05-30 09:28:10",
@@ -2427,22 +2395,34 @@
     {
       "added_at": "2025-05-30 09:28:10",
       "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/0S4s1FCxl8wwfEhq0HFHE7"
+        "name": "Angels On A Pin",
+        "url": "https://open.spotify.com/album/5dfGRfsik4iBH05h9OfUe1"
       },
       "artists": [
         {
-          "name": "Alpha Blondy",
-          "url": "https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG"
-        },
-        {
-          "name": "Koffi Olomide",
-          "url": "https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb"
+          "name": "Louie Zong",
+          "url": "https://open.spotify.com/artist/7jOY91ZU7kn86slH3fBbaD"
         }
       ],
-      "duration_ms": 377873,
-      "name": "Je ne suis pas f\u00e2ch\u00e9",
-      "url": "https://open.spotify.com/track/4liMJ96BXjEhfgujdQy6mv"
+      "duration_ms": 284361,
+      "name": "Angels On A Pin",
+      "url": "https://open.spotify.com/track/6HjWUmDcJCvWXeXNMYyqrV"
+    },
+    {
+      "added_at": "2025-05-30 09:28:10",
+      "album": {
+        "name": "Yar\u0131n Yoksa",
+        "url": "https://open.spotify.com/album/5l7ypUMco5BLsIYBjIYWay"
+      },
+      "artists": [
+        {
+          "name": "Derya Y\u0131ld\u0131r\u0131m & Grup \u015eim\u015fek",
+          "url": "https://open.spotify.com/artist/2Y0SH69uxHrHrjiZCuTSaT"
+        }
+      ],
+      "duration_ms": 214039,
+      "name": "\u00c7i\u00e7ek A\u00e7\u0131yor",
+      "url": "https://open.spotify.com/track/3HpWj8DChKRuR28pnrHK6p"
     },
     {
       "added_at": "2025-05-30 09:28:10",
@@ -2463,6 +2443,26 @@
     {
       "added_at": "2025-05-30 09:28:10",
       "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/0S4s1FCxl8wwfEhq0HFHE7"
+      },
+      "artists": [
+        {
+          "name": "Alpha Blondy",
+          "url": "https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG"
+        },
+        {
+          "name": "Koffi Olomide",
+          "url": "https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb"
+        }
+      ],
+      "duration_ms": 377873,
+      "name": "Je ne suis pas f\u00e2ch\u00e9",
+      "url": "https://open.spotify.com/track/4liMJ96BXjEhfgujdQy6mv"
+    },
+    {
+      "added_at": "2025-05-30 09:28:10",
+      "album": {
         "name": "Sifat Manusia / Mang Becak",
         "url": "https://open.spotify.com/album/0qkb2Lded5ImCpSRBc5u4c"
       },
@@ -2475,6 +2475,22 @@
       "duration_ms": 330133,
       "name": "Sifat Manusia",
       "url": "https://open.spotify.com/track/0BUxDnHTI6mGmGw82U1G4l"
+    },
+    {
+      "added_at": "2025-05-30 09:28:10",
+      "album": {
+        "name": "Psych\u00e9",
+        "url": "https://open.spotify.com/album/2reVfEaxKuDfrvMx5HwtZT"
+      },
+      "artists": [
+        {
+          "name": "Psych\u00e9",
+          "url": "https://open.spotify.com/artist/3dJYYbVWTtMBsYktGL8uO5"
+        }
+      ],
+      "duration_ms": 221582,
+      "name": "Cumbia Mah\u00e0re",
+      "url": "https://open.spotify.com/track/6TPlBBLFOCQ8hPwIntQvKG"
     },
     {
       "added_at": "2025-05-30 09:28:10",
@@ -2515,22 +2531,6 @@
     {
       "added_at": "2025-05-30 09:28:10",
       "album": {
-        "name": "Psych\u00e9",
-        "url": "https://open.spotify.com/album/2reVfEaxKuDfrvMx5HwtZT"
-      },
-      "artists": [
-        {
-          "name": "Psych\u00e9",
-          "url": "https://open.spotify.com/artist/3dJYYbVWTtMBsYktGL8uO5"
-        }
-      ],
-      "duration_ms": 221582,
-      "name": "Cumbia Mah\u00e0re",
-      "url": "https://open.spotify.com/track/6TPlBBLFOCQ8hPwIntQvKG"
-    },
-    {
-      "added_at": "2025-05-30 09:28:10",
-      "album": {
         "name": "Tropical Man",
         "url": "https://open.spotify.com/album/1vCmWn5jPAyvENTVPzUUXW"
       },
@@ -2567,22 +2567,6 @@
       "duration_ms": 443989,
       "name": "Asiko (In a Silent Mix) - Motor City Drum Ensemble Remix",
       "url": "https://open.spotify.com/track/6VJxaWAaMSKZsZNtZxpVan"
-    },
-    {
-      "added_at": "2025-05-30 09:28:10",
-      "album": {
-        "name": "Super Hands",
-        "url": "https://open.spotify.com/album/6lPykRLCCoDV1PqSZptU0E"
-      },
-      "artists": [
-        {
-          "name": "Roi Turbo",
-          "url": "https://open.spotify.com/artist/4T2y3FbT8mM5JEp41gXtEP"
-        }
-      ],
-      "duration_ms": 318519,
-      "name": "Super Hands",
-      "url": "https://open.spotify.com/track/3JUsUtZa4sO0hxznNSD35u"
     },
     {
       "added_at": "2025-05-30 09:28:10",
@@ -2651,6 +2635,22 @@
       "duration_ms": 222453,
       "name": "Lupita",
       "url": "https://open.spotify.com/track/1Xnf2h75C55EKU8H9msq7G"
+    },
+    {
+      "added_at": "2025-05-30 09:28:10",
+      "album": {
+        "name": "Super Hands",
+        "url": "https://open.spotify.com/album/6lPykRLCCoDV1PqSZptU0E"
+      },
+      "artists": [
+        {
+          "name": "Roi Turbo",
+          "url": "https://open.spotify.com/artist/4T2y3FbT8mM5JEp41gXtEP"
+        }
+      ],
+      "duration_ms": 318519,
+      "name": "Super Hands",
+      "url": "https://open.spotify.com/track/3JUsUtZa4sO0hxznNSD35u"
     }
   ],
   "unique_name": "Global Groove",

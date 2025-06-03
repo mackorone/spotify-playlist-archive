@@ -4,7 +4,7 @@
 
 > كل شي خليجي جديد
 
-411 songs - 1 day 4 hr 15 min
+412 songs - 1 day 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [La Habibi](https://open.spotify.com/track/59oMFuaoYUGYm6Vq9zQclY) | [Myriam Fares](https://open.spotify.com/artist/1YnW3KicGQq3zD9LcdGJSh) | [La Habibi](https://open.spotify.com/album/504YfpyNOeMJ8AK5RWE4fA) | 2:52 | 2025-04-10 |  |
 | [La Teharef](https://open.spotify.com/track/5aBHfsSGRuPxPdu3JPEusq) | [Natasha](https://open.spotify.com/artist/7MBJMXAEJuzO754trRIuHu) | [لا تحرف](https://open.spotify.com/album/3GQwWZK3ojppjzPkRGj7x5) | 3:54 | 2022-06-02 | 2023-01-10 |
 | [Laalaha Khierah](https://open.spotify.com/track/6idBQjC1kZMtrvVyWaLsAK) | [Waed](https://open.spotify.com/artist/2lJxCVBy3A4nHP3kh1lkDg) | [Laalaha Khierah](https://open.spotify.com/album/58ZvMH4DjAoNkY3r7vx32g) | 5:05 | 2024-02-21 | 2024-10-11 |
+| [Labba Ghalak](https://open.spotify.com/track/7s69csDDFLra4cViwDXG97) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Labba Ghalak](https://open.spotify.com/album/2DlF4zMTimbBjfXtFiNQGE) | 3:32 | 2025-06-02 |  |
 | [Lail EL Mefarag](https://open.spotify.com/track/2jr8YIesCQsPzjLpjwJx20) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Lail EL Mefarag](https://open.spotify.com/album/4lHyB1fOo2GPI34u47qwSD) | 4:34 | 2022-09-30 | 2023-05-03 |
 | [Lak Saqeni Al Rab](https://open.spotify.com/track/1UyCd0dfP02R4AUwWllZCx) | [Abdul Majeed Abdullah](https://open.spotify.com/artist/2RxCv6j8Wu2rYbmtOBvg6F) | [Lak Saqeni Al Rab](https://open.spotify.com/album/4Nh1qUEn7dP8s6Q5FMBfP3) | 4:30 | 2024-08-08 |  |
 | [Lammah](https://open.spotify.com/track/0Hk9OFVAxB6mxTtLmmFdkT) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Lammah](https://open.spotify.com/album/6Slm5v59bwaVCCVVIiCrQM) | 3:41 | 2024-07-26 | 2025-04-29 |

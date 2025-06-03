@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Global.
 
-3,835 songs - 8 day 11 hr 40 min
+3,836 songs - 8 day 11 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1225,7 +1225,8 @@
 | [Für immer Frühling](https://open.spotify.com/track/3pn5z4CvMz95uEysWBUYCc) | [soffie](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Für immer Frühling](https://open.spotify.com/album/5CiWnH7Pwp3re6czR6FLCN) | 2:00 | 2024-02-20 | 2024-03-13 |
 | [Fırtınadayım](https://open.spotify.com/track/3QopdONAzZHRO1P4UQrNvw) | [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Maya](https://open.spotify.com/album/1SjI5mOEGsnrfHRR4zY88f) | 4:22 | 2022-11-19 | 2023-01-12 |
 | [FΛSHION](https://open.spotify.com/track/4YQgOgIElFtEvwJQ9ArWL7) | [Britney Manson](https://open.spotify.com/artist/7GtPtPbDC5CLNzSNxVpqaf) | [FΛSHION](https://open.spotify.com/album/7umRaDZ9FqTaL2EWZvGMEX) | 2:26 | 2023-09-15 | 2023-10-25 |
-| [G Luv](https://open.spotify.com/track/2O9suqOFtahgIoIwLbWYpP) | [1550 Collective](https://open.spotify.com/artist/6pFVpPXx3hu9oid9hLKWeI) | [G Luv](https://open.spotify.com/album/2Y4kFBXNRJYcaK4p2qZhvx) | 7:16 | 2025-05-31 |  |
+| [G Luv](https://open.spotify.com/track/2O9suqOFtahgIoIwLbWYpP) | [1550 Collective](https://open.spotify.com/artist/6pFVpPXx3hu9oid9hLKWeI) | [G Luv](https://open.spotify.com/album/2Y4kFBXNRJYcaK4p2qZhvx) | 7:16 | 2025-05-31 | 2025-06-03 |
+| [G Luv](https://open.spotify.com/track/7rPCoHeFhATM6JiiNKw5fL) | [1550 Collective](https://open.spotify.com/artist/6pFVpPXx3hu9oid9hLKWeI) | [G Luv](https://open.spotify.com/album/3yKtXAlEVZ3xLz55XcWJUl) | 7:16 | 2025-06-02 |  |
 | [GAJA \- Eurovision Edit](https://open.spotify.com/track/0wNpA89DLOyKlZZVJ7wCac) | [Justyna Steczkowska](https://open.spotify.com/artist/4MoS5osilxUivShOUtUoZP) | [GAJA \(Eurovision Edit\)](https://open.spotify.com/album/5c5XVlbDvejnJUm3eEdN2N) | 3:00 | 2025-05-18 | 2025-05-24 |
 | [Gala bunga matahari](https://open.spotify.com/track/5eBk8ZXcd0pb0AO4a5PpOg) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [MARKERS AND SUCH PENS FLASHDISKS](https://open.spotify.com/album/5uAcLj2EJLtQtKMyDYCI0Q) | 3:29 | 2024-06-30 | 2024-08-20 |
 | [Gamzedeyim Deva Bulmam](https://open.spotify.com/track/6glvSyTo1y4WLtX0mnDq83) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT), [Çağrı Çelik](https://open.spotify.com/artist/7wqnPyXma7EKSYt4CVzNjq) | [Gamzedeyim Deva Bulmam](https://open.spotify.com/album/3Tltrhd0u9g6cFjJiB0k8E) | 5:16 | 2021-12-27 | 2022-02-01 |

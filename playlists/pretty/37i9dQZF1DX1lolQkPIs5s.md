@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lolQkPIs5s.md) - [plain]
 
 > ディズニーの人気曲を集めた公式プレイリスト♪<br/>ディズニー・アニメーション最新作『モアナと伝説の海2』の楽曲から、『アナと雪の女王』、『アラジン』、『ライオン・キング』等をセレクト！
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,993 likes - 111 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,997 likes - 111 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lolQkPIs5s.md) - [plain]
 | 110 | [What a Dog/He's a Tramp](https://open.spotify.com/track/44X7szBAN7bQMFh9xrt1GE) | [Oliver Wallace](https://open.spotify.com/artist/497FibW7265st1H0UfpGb2), [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Lady and the Tramp \(Original Motion Picture Soundtrack/Japan Release Version\)](https://open.spotify.com/album/3MOq0aoWf3AzFqTUHkyu9T) | 2:24 |
 | 111 | [You Can Fly! You Can Fly! You Can Fly!](https://open.spotify.com/track/1oCWDZnMEoFakm7kULMkz0) | [Bobby Driscoll](https://open.spotify.com/artist/4CkLcamYYOTtKnLWjuUDyr), [Kathryn Beaumont](https://open.spotify.com/artist/762gpacQ6WcT75zlkrc3Ls), [Paul Collins](https://open.spotify.com/artist/1aL3c8BNATMQEsauxJoYn7), [Tommy Luske](https://open.spotify.com/artist/51AV2GURH2q9LqgBcUsUJf), [The Jud Conlon Chorus](https://open.spotify.com/artist/5s5jvj5TkkMkQDR28awRsA) | [Peter Pan \(Original Motion Picture Soundtrack/Japan Release Version\)](https://open.spotify.com/album/7kEi0qHJUCk5nHPbBMsxrW) | 4:24 |
 
-Snapshot ID: `aC+/2wAAAACapWsjhnJYM1Jy1KirnIR6`
+Snapshot ID: `aC+/2wAAAAB39MG0eQqnkT6prmSHW+ma`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFNWN7fsnAm.md) - [plain]
 
 > Listen to <a href="spotify:artist:1yqxFtPHKcGcv6SXZNdyT9">MK</a>'s favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,533 likes - 60 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,547 likes - 60 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFNWN7fsnAm.md) - [plain]
 | 59 | [Raided](https://open.spotify.com/track/5QPcUCAPr9GvckcUXbF15Z) | [Tigerblind](https://open.spotify.com/artist/3Uy3rel4Zw9anDMtPIU9IA) | [RISE Vol\. 1](https://open.spotify.com/album/0Jdqo1euENNI6FfpvdPTAa) | 3:36 |
 | 60 | [Wassablah](https://open.spotify.com/track/32cEwNAX7orz0FGL5XK8gw) | [Detlef](https://open.spotify.com/artist/5lZ8HC92jRDlyeq0vSxGeI) | [One Hundred](https://open.spotify.com/album/5VTEH3n6YgqcFL5EyxxHRQ) | 6:28 |
 
-Snapshot ID: `AAAAAE21GY38sEwtamiYj9slnJJZIMP7`
+Snapshot ID: `Z9i79QAAAACinXrfVsbs2wod8KFDvUnH`

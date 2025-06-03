@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Yailín La Más Viral
 
-[Spotify](https://open.spotify.com/user/spotify) - 889,206 likes - 67 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 889,063 likes - 67 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 18 | [No Te Soltaré](https://open.spotify.com/track/2A0m04EDTwS2V5VXYGuX8t) | [Miguel Bueno](https://open.spotify.com/artist/3frx2nsVBAA3DvbKTE9JeT) | [No Te Soltaré](https://open.spotify.com/album/5VBD9gdyGCL81c1mkww9p6) | 2:37 |
 | 19 | [El Problema \(2020\)](https://open.spotify.com/track/5C5MyN6NWwcvcJNud1bkEp) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [El Problema \(2020\)](https://open.spotify.com/album/7A7fxgXTMgJ0qGnMIzj0YG) | 2:30 |
 | 20 | [Me Retiro](https://open.spotify.com/track/0iWO3A7RCIFZvLvVfIOW4h) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Me Retiro](https://open.spotify.com/album/4e54zPQ8pqXkFHTKL7xLVj) | 4:08 |
-| 21 | [Dices](https://open.spotify.com/track/5SrslfaStQIlKKIwDDKx3n) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [Dices](https://open.spotify.com/album/2Gimm3eroIJ7USyse1tHdG) | 3:33 |
+| 21 | [Dices \(Bonus Track\)](https://open.spotify.com/track/5SrslfaStQIlKKIwDDKx3n) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [Dices \(Bonus Track\)](https://open.spotify.com/album/2Gimm3eroIJ7USyse1tHdG) | 3:33 |
 | 22 | [Huir](https://open.spotify.com/track/4F4bjPeMNJDrGK1FJW215W) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Lia Kali](https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89) | [Huir](https://open.spotify.com/album/58OJHw3hvgRhaoQHlmGV08) | 2:28 |
 | 23 | [Negro Como Yo](https://open.spotify.com/track/6grawZlIoj9VHim59FaQZo) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Pneuma](https://open.spotify.com/album/0a6JfB23BjM0aj9vSsnoMv) | 3:23 |
 | 24 | [LA CASA](https://open.spotify.com/track/2n1E7SJqifjfTd6RIhAZ0y) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [LA CASA](https://open.spotify.com/album/0RYFFKow3QTNAOLK2lYeeO) | 3:18 |

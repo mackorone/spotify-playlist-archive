@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\.  cover: Cover: Hiroyuki Sawano
 
-[Spotify](https://open.spotify.com/user/spotify) - 466,591 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 466,789 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 | 74 | [Q](https://open.spotify.com/track/3quLLbcBipdInn9sHY3q7e) | [majiko](https://open.spotify.com/artist/6HX4Jrnb0WhEv9goeGoh6p) | [Q](https://open.spotify.com/album/2AlYyM8w72MVLy0BPtu1nI) | 3:35 |
 | 75 | [ロりロっきゅんロぼ♡](https://open.spotify.com/track/69VFHkh8kGA8l6pm22s2aK) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [ロりロっきゅんロぼ♡](https://open.spotify.com/album/1PSryRQzOsnmY1hVeKPboB) | 3:36 |
 
-Snapshot ID: `aDh2ewAAAADeoL0KDFlsOCwq3wfVQVNr`
+Snapshot ID: `aDh2ewAAAAA2qmVDfHfEH9k5dic3zpwj`

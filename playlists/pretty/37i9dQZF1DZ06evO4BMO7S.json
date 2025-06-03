@@ -1,12 +1,12 @@
 {
   "description": "This is Japanese Breakfast. The essential tracks, all in one playlist.",
-  "num_followers": 21486,
+  "num_followers": 21509,
   "original_name": "This Is Japanese Breakfast",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDpGgAAAAADWuUn8N5YPtAdg9JkYFcF9",
+  "snapshot_id": "aDuYAAAAAABzaWEMDd/gaGkq94JivPb6",
   "tracks": [
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Psychopomp",
-        "url": "https://open.spotify.com/album/3CeBfyjSIfbWyf0RTNbq1G"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 173070,
-      "name": "Rugged Country",
-      "url": "https://open.spotify.com/track/5ezE3J5CjlBdPp2BFn8P7P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nobody Sees Me Like You Do",
         "url": "https://open.spotify.com/album/6W8UhZlIF4yuQolmJPAO1P"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 211635,
       "name": "Nobody Sees Me Like You Do",
       "url": "https://open.spotify.com/track/3vGsonmcc2Y7x8BZYKnjhi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Psychopomp",
+        "url": "https://open.spotify.com/album/3CeBfyjSIfbWyf0RTNbq1G"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 173070,
+      "name": "Rugged Country",
+      "url": "https://open.spotify.com/track/5ezE3J5CjlBdPp2BFn8P7P"
     },
     {
       "added_at": null,

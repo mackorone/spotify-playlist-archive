@@ -4,7 +4,7 @@
 
 > 
 
-1,035 songs - 2 day 3 hr 24 min
+1,037 songs - 2 day 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -665,6 +665,7 @@
 | [One of Us](https://open.spotify.com/track/0KBg8fop4DsefGLKkkuenn) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [2000](https://open.spotify.com/album/261LWEVYViMXijB95mAty3) | 4:02 | 2024-01-05 | 2024-04-24 |
 | [ONE WATCH \(feat\. Young Thug\)](https://open.spotify.com/track/60XGm1Hmyx7UliCAYjiCd8) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [WUNNA \(Deluxe\)](https://open.spotify.com/album/6FfYIKA59pCFs2d1FB79Pq) | 3:55 | 2023-12-12 | 2025-05-21 |
 | [One Way!](https://open.spotify.com/track/2659CRCrqaXCaYBMtKrdYi) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [One Way!](https://open.spotify.com/album/6hVJx6AudFaeCyHCECXHcy) | 2:46 | 2022-09-04 | 2023-04-12 |
+| [Only A Fool Would Say That](https://open.spotify.com/track/7GVvj4zJNVuBJSl6StEfn5) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Can't Buy A Thrill](https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p) | 2:55 | 2025-06-02 |  |
 | [OnMyList](https://open.spotify.com/track/6AQzASAlkQfTGOuoGKpSEf) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [OnMyList](https://open.spotify.com/album/2Vpbvodjmuf7fRnfAnbUNA) | 1:57 | 2023-01-04 | 2023-05-09 |
 | [Oooooh \(feat\. Young Scooter\)](https://open.spotify.com/track/5FMH3g2VYH4manoJWEDhUk) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Beast Mode](https://open.spotify.com/album/02Mp4Q83TVhpe8VeCpMZjZ) | 3:09 | 2024-12-03 |  |
 | [OPM BABI](https://open.spotify.com/track/76yJsfb1CUy5Um8nFL7jKQ) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 2:53 | 2025-06-01 |  |
@@ -760,6 +761,7 @@
 | [Remember Me](https://open.spotify.com/track/5EgXLyqdXCxUvH0epLMNkh) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Remember Me](https://open.spotify.com/album/1TGUj5rKqXIR2KRTs9wAXZ) | 1:49 | 2022-08-28 | 2023-05-09 |
 | [Remind Me \- Remastered](https://open.spotify.com/track/4nFtNdjJtuRXmThiJo7Z5t) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Straight from the Heart \(Remastered\)](https://open.spotify.com/album/2tc6ZlzJS56yiVvo40R03g) | 5:19 | 2025-04-14 |  |
 | [Remind Me Of The Summer](https://open.spotify.com/track/1ygKFnCswaecNGoDCe1S4R) | [1Huntxr](https://open.spotify.com/artist/2HQTplk1FBI562SZfiAAH4) | [Remind Me Of The Summer](https://open.spotify.com/album/5I3svUTCPnECckzaOY2R0Z) | 3:39 | 2022-12-21 | 2023-08-20 |
+| [Reminiscing \- Remastered 2010](https://open.spotify.com/track/7i3xpu7SFWvzhGa9AZyySR) | [Little River Band](https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg) | [Sleeper Catcher \(Remastered 2022\)](https://open.spotify.com/album/5XXymqS9NunPlUbovZK8WJ) | 4:17 | 2025-06-02 |  |
 | [Rental](https://open.spotify.com/track/0rDLJbeXXNLZ2gbPOm87Ar) | [Lunarrr](https://open.spotify.com/artist/0Tlfd0GGFcWZxrbdkykoxn) | [Rental](https://open.spotify.com/album/70ODUDHIEOZ96NJMSgBPSn) | 4:43 | 2023-03-20 | 2023-12-14 |
 | [Rich As Hell](https://open.spotify.com/track/5A6tFAdihqILHJrWuR6wD4) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [AI YoungBoy 2](https://open.spotify.com/album/1nzUj7VkiaytMmf2KrhK2L) | 3:35 | 2022-08-26 | 2025-05-21 |
 | [Rich Muthafucka](https://open.spotify.com/track/3rlFWxApRYFp56vXCqt5fO) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Trap God 2](https://open.spotify.com/album/327qRhLMXOOwsx3IXxZZxM) | 3:18 | 2025-05-07 | 2025-05-21 |

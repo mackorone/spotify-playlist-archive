@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 
 > Porque no to' e' Dembow en RD loco\. Portada: Rochy RD
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,808 likes - 105 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,896 likes - 105 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 | 9 | [La Patrulla](https://open.spotify.com/track/6Q3f0PpLowVMddWQfF0TlA) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Luis Brown](https://open.spotify.com/artist/1f7FtdbdaRjeeOr0gK9f3L), [Lil Naay](https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [La Patrulla](https://open.spotify.com/album/4iPUAL1LLPnd3jTjn3PbWn) | 4:30 |
 | 10 | [K Chula](https://open.spotify.com/track/6BQ13I6TnfZw6kv0hXxFyb) | [Little Homie](https://open.spotify.com/artist/7HDjs7xzL0m2IbJcg3qnky), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [OKEIFLOU](https://open.spotify.com/artist/151g6ClefcL7Owo9EZNz9e) | [K Chula](https://open.spotify.com/album/4lGeTVuxQaXo47lU1aTpTa) | 3:13 |
 | 11 | [Hablamos Depues](https://open.spotify.com/track/6Zz5ksmtmU2zV6cppStbq7) | [Lil Naay](https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ) | [Hablamos Depues](https://open.spotify.com/album/5LY1clBYUi4kT2eoyQTSgi) | 2:12 |
-| 12 | [Tot\* Lindo](https://open.spotify.com/track/5JZTKJNb9rEBVrTaeGmzXR) | [Huan62](https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Tot\* Lindo](https://open.spotify.com/album/7eWha7YanswaJf9OG4mlMQ) | 2:57 |
+| 12 | [Toto Lindo](https://open.spotify.com/track/5JZTKJNb9rEBVrTaeGmzXR) | [Huan62](https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Toto Lindo](https://open.spotify.com/album/7eWha7YanswaJf9OG4mlMQ) | 2:57 |
 | 13 | [Jordan](https://open.spotify.com/track/01lBbwfpFzwaPE1UA5PBCO) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [Jordan](https://open.spotify.com/album/26DlMNvl4XJqWZMxdeaftH) | 2:27 |
 | 14 | [Donde Te Veo](https://open.spotify.com/track/4atZ4UXQXgGpTL1nTQCWEa) | [Quimico Ultra Mega](https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX), [Nino Freestyle](https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV) | [Donde Te Veo](https://open.spotify.com/album/5dmn16c1SJTyvuqtEBwylN) | 3:41 |
 | 15 | [Que Arrebate](https://open.spotify.com/track/35SYYvWMpHSBxbJUv3Md0L) | [Yaisel LM](https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL), [Lil Naay](https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ), [Sugarhill Ddot](https://open.spotify.com/artist/63X7mnpy2kfkDtltarrWD1), [Slayter](https://open.spotify.com/artist/44cW3xznP61BXbu0e7fgxn), [Huan62](https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU) | [Que Arrebate](https://open.spotify.com/album/5hvzQKasYaXtHIxCt1VysV) | 3:20 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 | 104 | [De Donde DeteL](https://open.spotify.com/track/0CTXvW9mmeAxdpTzUrzO49) | [Dexter Music](https://open.spotify.com/artist/5pzzsAs3nFK4EX9lZB0MdG), [MR\. Yeison](https://open.spotify.com/artist/4ieXJFMJnmtKA88Mu4wuy6), [Carlito Codigo](https://open.spotify.com/artist/5UteEvNs5R2nAmmv55R9bR) | [De Donde DeteL](https://open.spotify.com/album/5jNAZ9H5ioVV4HPmk5aJrR) | 2:57 |
 | 105 | [Mi Cumpleaños](https://open.spotify.com/track/6lUkI7SY70TDVAK0uM7Iax) | [Oscar27 RD](https://open.spotify.com/artist/4R0nILcaUVAFyVcAgkWnuv), [Moncholo La Vainilla](https://open.spotify.com/artist/11QRlEwbooxjVZNRQHH1KX) | [Mi Cumpleaños](https://open.spotify.com/album/4OtYYYUyVaCOPX0EftDCn5) | 2:16 |
 
-Snapshot ID: `aDt1UgAAAAA93UokY5hX4pXCtV4+2xkX`
+Snapshot ID: `aDt1UgAAAADUkGEocV1YXD6vVeRUPGf8`

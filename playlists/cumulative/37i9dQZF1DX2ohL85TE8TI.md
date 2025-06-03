@@ -2,9 +2,9 @@
 
 ### [K\-OST Center](https://open.spotify.com/playlist/37i9dQZF1DX2ohL85TE8TI)
 
-> Hot & new K\-Drama OSTs are here! \(Cover: 귀궁 \(The Haunted Palace\)\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
+> Hot & new K\-Drama OSTs are here! \(Cover: 금주를 부탁해 \(Second Shot at Love\)\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
 
-1,055 songs - 2 day 16 hr 4 min
+1,057 songs - 2 day 16 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,6 +231,7 @@
 | [Dreamer](https://open.spotify.com/track/7jNY7h3A7Xf4ZcBlAfai6Q) | [Lee Sun Bin](https://open.spotify.com/artist/7fIixACoi67hBc7Pua9Vj3) | [Work Later Drink Now, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/6OYnyMysSFPmywGpAKE6yN) | 3:36 | 2021-12-19 | 2022-02-22 |
 | [Dreaming \(From "SHOW MUSICAL Dream High"\)](https://open.spotify.com/track/0GaLB4VZOg6LBG4Q94RDZt) | [Kim Soo Hyun](https://open.spotify.com/artist/4rrL5p18CxtmmkT66SuKzZ), [Isaac Hong](https://open.spotify.com/artist/4bST03NJ0YEysocK5AV1wB) | [Dreaming \(From "SHOW MUSICAL Dream High"\)](https://open.spotify.com/album/5cC19bAq7vfQBv5cluTcS3) | 3:50 | 2025-03-13 |  |
 | [Dreaming island](https://open.spotify.com/track/0210Q6C5j957tPr56bFMSm) | [Kim jeong yeon](https://open.spotify.com/artist/0fOwDvBMW0CjSlYkNvhNEn) | [Yeosu Tourism Web Drama Dreaming Island \(Original Television Soundtrack\)](https://open.spotify.com/album/5SV6IokslMVptGmnzFjspE) | 3:35 | 2023-06-22 | 2023-11-16 |
+| [Dreamy walk \(The Haunted Palace : Original Television Soundtrack\)](https://open.spotify.com/track/7FYEfCXLgsWSbKd7BVsF4c) | [Song Sohee](https://open.spotify.com/artist/4YYi3ZB0jCYkNx9Fi3Z5AW) | [The Haunted Palace OST Part.5](https://open.spotify.com/album/3pytWLLOH6SkBjRrcHSuYW) | 3:26 | 2025-06-02 |  |
 | [Dried flowers](https://open.spotify.com/track/2snMOjdFLFn9NK1JUKDIhp) | [Sook Haeng](https://open.spotify.com/artist/5QTxqx4z0IjcFRGJFoXKQ3) | [Bravo&&My Life OST Part.17](https://open.spotify.com/album/3Ie830tkNbMzKsCEV6On5w) | 3:53 | 2022-06-18 | 2022-09-06 |
 | [Drive Away](https://open.spotify.com/track/6QE9JHwECUV28SeCVk4zO1) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Drive Away \(Marriage Or Death X SURAN\)](https://open.spotify.com/album/2IbKSIHCu6c5Tfw5SjbDCA) | 3:29 | 2022-05-11 | 2022-07-09 |
 | [Dun Dun Dun](https://open.spotify.com/track/0YsHHjzUMxe6m7k0iNr8al) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [Kill Heel, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/01yKFxJyLAHjBreWHYgKAc) | 3:15 | 2022-04-12 | 2022-06-21 |
@@ -319,7 +320,7 @@
 | [Happy For Love](https://open.spotify.com/track/56MoHxJvpi1XJUX4fDfOqF) | [Able](https://open.spotify.com/artist/5QLTdB5zd44gkuqSjUVIWl) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.25](https://open.spotify.com/album/1cHdaXL8j9CWm8gOpiGEIT) | 3:20 | 2022-12-26 | 2023-03-28 |
 | [Happy Together](https://open.spotify.com/track/6NQdJHESu8Xn6bTJcMFY95) | [Yoo Yeon Seok](https://open.spotify.com/artist/6xPx7ZAh3o3PMkpk8VDeGj), [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Bro & Marble OST Part.3](https://open.spotify.com/album/74RUwEEOsXNabNhjuaq6km) | 2:40 | 2023-08-16 | 2024-02-11 |
 | [Hard to Say I Love You](https://open.spotify.com/track/2ilUqImdWBVPrzWL4kTbxx) | [Zia](https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk) | [Red Balloon OST Part.3](https://open.spotify.com/album/5fvFvfK7fzy9jTZdiqGPNS) | 4:05 | 2023-01-26 | 2023-06-03 |
-| [Hear Me Out](https://open.spotify.com/track/3kIfkgbWkry7J3I97frclr) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [When The Phone Rings, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/5oILTtaFeYOUWCVklmz9Fs) | 3:43 | 2024-12-17 |  |
+| [Hear Me Out](https://open.spotify.com/track/3kIfkgbWkry7J3I97frclr) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [When The Phone Rings, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/5oILTtaFeYOUWCVklmz9Fs) | 3:43 | 2024-12-17 | 2025-06-03 |
 | [Heart Flutter](https://open.spotify.com/track/0lpRU36tC5Cq5crfYOCB6b) | [dori](https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7) | [Queen of Tears \(Original Television Soundtrack\), Pt.10](https://open.spotify.com/album/54gULZ4uWxUIqt8Ehj2wAf) | 3:40 | 2024-04-23 | 2024-10-12 |
 | [Heart Race](https://open.spotify.com/track/60uh5g34YgIU9QIOt87Jcg) | [Byeol Eun](https://open.spotify.com/artist/6PlVpPXatgot82WQgqM6S2) | [Heartbeat \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/7hEX5GwUJ01iAcbH8B1KTN) | 3:20 | 2023-07-17 | 2023-12-11 |
 | [Heavenly Ever After](https://open.spotify.com/track/7kjVCymE7vn0HizmGCGFWQ) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Heavenly Ever After](https://open.spotify.com/album/0aYRlVT4Mt63KpofZcaBoc) | 4:55 | 2025-04-22 |  |
@@ -886,7 +887,7 @@
 | [The way to lose you \(Korean Ver.\)](https://open.spotify.com/track/551Lg3Jo8w4aP0gBmgf3qQ) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [10CM X MY DEMON](https://open.spotify.com/album/75T4CuttGSiyjXZyKHvh3d) | 4:21 | 2024-01-05 | 2024-08-03 |
 | [The Way to love myself](https://open.spotify.com/track/0FT9NEMK3ndpjPNFwfOSjh) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [Doctor Slump \(Original Television Soundtrack\) Pt.3](https://open.spotify.com/album/19AaWH1Naf7VdrsSDkNtsH) | 3:29 | 2024-02-10 | 2024-09-12 |
 | [There For You](https://open.spotify.com/track/4D3Wo2n0MuTT0DL0zKFGFI) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Our Beloved Summer \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/0FVboRKTx9X0g0ywM3GlbY) | 3:40 | 2021-12-24 | 2022-04-13 |
-| [Think about you](https://open.spotify.com/track/4og3b64aWTdgVk1ILheWxG) | [YEJI](https://open.spotify.com/artist/3skli1w2n0nOZ4qkDbvV2m) | [Love Your Enemy OST Part 3](https://open.spotify.com/album/0PHVTVnoPMOdTmKUVog8hB) | 3:09 | 2024-12-02 |  |
+| [Think about you](https://open.spotify.com/track/4og3b64aWTdgVk1ILheWxG) | [YEJI](https://open.spotify.com/artist/3skli1w2n0nOZ4qkDbvV2m) | [Love Your Enemy OST Part 3](https://open.spotify.com/album/0PHVTVnoPMOdTmKUVog8hB) | 3:09 | 2024-12-02 | 2025-06-03 |
 | [Thinkin' bout you](https://open.spotify.com/track/5JSvKELGVdBIWXQjE8R4ku) | [JUNGSOOMIN](https://open.spotify.com/artist/5e907QyP66bLqY6UiT2sXc) | [Who Is She OST Part.6](https://open.spotify.com/album/7xkFhHcnET3g5RygYULKdB) | 3:01 | 2025-01-21 |  |
 | [Thirsty for Love](https://open.spotify.com/track/5QnpMpYEE2LSFegbHFbkYd) | [건지](https://open.spotify.com/artist/79xtZ56bsMOQwiTe5Ob1jD) | [Red Balloon OST Part.6](https://open.spotify.com/album/5tKkrid72hWtqtor3nQWL6) | 3:47 | 2023-02-24 | 2023-07-18 |
 | [This night](https://open.spotify.com/track/4TpvzMWFgeIU188OdlNhGh) | [Park Soo Jin](https://open.spotify.com/artist/2u5C3Wks2FJrz5N86nNiXT) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.14](https://open.spotify.com/album/4lpNUxhIWHe91XS8evCBXF) | 4:03 | 2022-07-04 | 2022-11-04 |
@@ -998,6 +999,7 @@
 | [Would you like me](https://open.spotify.com/track/4nvf8V44QTeORi8apz4VIX) | [Ants](https://open.spotify.com/artist/0VyTbC31dnoiKg02B3PQaL) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.21](https://open.spotify.com/album/6g8FOyfEQ1vPbcNFMPzzHA) | 3:27 | 2022-09-19 | 2023-01-14 |
 | [Wounded Heart](https://open.spotify.com/track/1XSb5DFDpPLOudodZ8zJ7G) | [Choi Nakta](https://open.spotify.com/artist/2c4q6Dkm6fPxNPYD22R3yr) | [Poong, the Joseon Psychiatrist2 \(Original Television Soundtrack\), Pt.4](https://open.spotify.com/album/4NB44IaxN0aVXyCbP21Tvm) | 4:24 | 2023-02-09 | 2023-06-03 |
 | [Yellow Light](https://open.spotify.com/track/55187ICycOt3kwQa9Vurne) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [KING THE LAND \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/1bxEuWvP16Vgtf8RniANEg) | 3:30 | 2023-06-22 | 2023-11-16 |
+| [Yellow Spring](https://open.spotify.com/track/0JyVtfJ6Z8T6VHXG1iD1pE) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Our Unwritten Seoul \(Original Soundtrack\) Part.1](https://open.spotify.com/album/1Ik6DilWLiFqclv5tiJ4T8) | 4:00 | 2025-06-02 |  |
 | [You](https://open.spotify.com/track/4P31D4cdzUl3Afg64Jznri) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [Agency \(Original Television Soundtrack, Pt\. 4\)](https://open.spotify.com/album/2SBWXosNjKbNpsg3naiIqu) | 3:51 | 2023-02-03 | 2023-06-03 |
 | [You & I](https://open.spotify.com/track/7zOvEE9tAfffU3m0QbdyIP) | [ECLIPSE](https://open.spotify.com/artist/5Nw7qx3NoHzpw59WYcJTve) | [Lovely Runner, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/0yaxMWGvOI7jSirSsKQj37) | 2:49 | 2024-05-24 | 2024-10-11 |
 | [You & Me](https://open.spotify.com/track/56s9zc3mWOFpU8zj882CWD) | [wYte](https://open.spotify.com/artist/6ku0yqiBqUvtZ16Pi3soDC) | [Twinkling Watermelon \(Original Television Soundtrack\) Pt\. 10](https://open.spotify.com/album/2ryKXv8I2Eb2K3SKBtdnfQ) | 3:10 | 2023-11-14 | 2024-05-28 |

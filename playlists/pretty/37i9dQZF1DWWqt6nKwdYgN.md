@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 
 > ¡Lo más fresco del hip\-hop en español! DannyLux en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,565 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,569 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 | 49 | [Amole](https://open.spotify.com/track/6mBVqBGbWoOxoWrv4iMeyW) | [Nitro Goyri](https://open.spotify.com/artist/6GepbWxBVP643J6R0rb9tE), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [Amole](https://open.spotify.com/album/3y1OVGGuxTEPldi1tm1lCy) | 2:38 |
 | 50 | [Rubaiyat](https://open.spotify.com/track/2pKna1QpEpKTss92GnhsSn) | [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf), [Rafael Lechowski](https://open.spotify.com/artist/307pYxWsFHn3u9gMe8vaf3), [Titó](https://open.spotify.com/artist/0sHxrLxSTgcgReYfT3MvYO) | [Rubaiyat](https://open.spotify.com/album/5Q798rmzhAbFNcE5MTsVmH) | 4:00 |
 
-Snapshot ID: `aDAPAgAAAACEUXAY8GI+mlIrXm92bA7b`
+Snapshot ID: `aDAPAgAAAACs7Bs4Dx1jiB2HaevtxNti`

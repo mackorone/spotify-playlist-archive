@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 21,417 likes - 137 songs - 7 hr 39 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 21,418 likes - 137 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 21 | [Hate It When It's You](https://open.spotify.com/track/6ARHAMBOpkkQBVNHmTRxiX) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [Trella](https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT) | [Hate It When It's You](https://open.spotify.com/album/0GLWXYcVqqiWSNaqunDzVC) | 3:49 |
 | 22 | [Past Life](https://open.spotify.com/track/5PqFt3Pnb3M2E6ZXIrMnZd) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t), [Wolfgang Gartner](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK) | [Past Life](https://open.spotify.com/album/3yYBUvD5wxPYd5kZIVWh4w) | 3:14 |
 | 23 | [Mash It Up!](https://open.spotify.com/track/3FxAgkGhrw9QbvRq5FiCnI) | [Hydraulix](https://open.spotify.com/artist/0v6pkn5nWfqK3vgeg0gl0W), [Robustt](https://open.spotify.com/artist/2MQru8GnhECYTThfJvRtyR) | [Mash It Up!](https://open.spotify.com/album/45EK9FW71cKG4BxJhds5Ih) | 3:17 |
-| 24 | [Bella Vita](https://open.spotify.com/track/2rtY25y4dpI58ZZnD5RFhS) | [Thys](https://open.spotify.com/artist/6x8tZ30aFwdl50YjETAppR), [Simon Says!](https://open.spotify.com/artist/186v5tVeJT1K15be0J5vKe), [Elasi](https://open.spotify.com/artist/2IH3lriPtap4OENe2LXVgW) | [Bella Vita](https://open.spotify.com/album/77cc5OsaMAz80k0ySozcv5) | 4:00 |
+| 24 | [Bella Vita](https://open.spotify.com/track/2rtY25y4dpI58ZZnD5RFhS) | [Thys](https://open.spotify.com/artist/6x8tZ30aFwdl50YjETAppR), [Simon Says!](https://open.spotify.com/artist/186v5tVeJT1K15be0J5vKe), [ELASI](https://open.spotify.com/artist/3C8AlXFIhzxJ4BCKxNQJJ6) | [Bella Vita](https://open.spotify.com/album/77cc5OsaMAz80k0ySozcv5) | 4:00 |
 | 25 | [LSD \- Lunice Remix](https://open.spotify.com/track/0XwSZI15u6ii1cx16zbvZv) | [Laroie](https://open.spotify.com/artist/3vm1wp0nCMQSIaPVT6f0IY), [Lunice](https://open.spotify.com/artist/5I0593TTVPzkanWW8xsTns) | [LSD \(Remixes\)](https://open.spotify.com/album/7CGnFn7vMTqJ3kJXqzZgyM) | 3:15 |
 | 26 | [Can't Get It Back](https://open.spotify.com/track/2vXTOPfMg5Z7BzHZyUKhN5) | [Flava D](https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ), [SOLAH](https://open.spotify.com/artist/4jrJBSg0c2qx8SMGa7ququ) | [Can't Get It Back](https://open.spotify.com/album/08e6REimB73yJJvTdDjZxV) | 3:45 |
 | 27 | [WGD?](https://open.spotify.com/track/6048IThGxHgLCR5x633pC0) | [wes mills](https://open.spotify.com/artist/0EuHfcxMPDNkOjGVF4e1KT) | [old fashion](https://open.spotify.com/album/3J9UL1UYWZBJU0yuRoM1Hk) | 2:14 |

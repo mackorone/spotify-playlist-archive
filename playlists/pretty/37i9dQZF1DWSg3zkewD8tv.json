@@ -1,6 +1,6 @@
 {
   "description": "An all-Australian soundtrack to snags, bread and tomato sauce!",
-  "num_followers": 341099,
+  "num_followers": 341113,
   "original_name": "Aussie BBQ",
   "owner": {
     "name": "Spotify",
@@ -437,22 +437,6 @@
       "url": "https://open.spotify.com/track/5iAxcPoyxt0HWU5sZToqe5"
     },
     {
-      "added_at": "2024-12-12 13:00:03",
-      "album": {
-        "name": "PRATTS & PAIN",
-        "url": "https://open.spotify.com/album/64vC3GWaE8ryklQD2fNosa"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 185213,
-      "name": "Foam",
-      "url": "https://open.spotify.com/track/4lfuRRTLD4UFkSVVArVVaK"
-    },
-    {
       "added_at": "2022-07-12 10:53:53",
       "album": {
         "name": "Odyssey Number Five",
@@ -467,6 +451,22 @@
       "duration_ms": 276626,
       "name": "My Happiness",
       "url": "https://open.spotify.com/track/2pxxVkNhrRST8fpgA12ru8"
+    },
+    {
+      "added_at": "2024-12-12 13:00:03",
+      "album": {
+        "name": "PRATTS & PAIN",
+        "url": "https://open.spotify.com/album/64vC3GWaE8ryklQD2fNosa"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 185213,
+      "name": "Foam",
+      "url": "https://open.spotify.com/track/4lfuRRTLD4UFkSVVArVVaK"
     },
     {
       "added_at": "2022-07-12 10:53:53",
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-07-12 10:53:53",
       "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/6FTq1YhYJLetfJQrq02gdv"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 230640,
-      "name": "Can't Get You out of My Head",
-      "url": "https://open.spotify.com/track/7m2g1kKuF7Tre2PzjK3Lnh"
-    },
-    {
-      "added_at": "2022-07-12 10:53:53",
-      "album": {
         "name": "Semantics (Remastered)",
         "url": "https://open.spotify.com/album/4NppVsUOi3ao3DVS8z2C8o"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 254213,
       "name": "Brother",
       "url": "https://open.spotify.com/track/5KrdYQS4U1Emzer8QShBE7"
+    },
+    {
+      "added_at": "2022-07-12 10:53:53",
+      "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/6FTq1YhYJLetfJQrq02gdv"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 230640,
+      "name": "Can't Get You out of My Head",
+      "url": "https://open.spotify.com/track/7m2g1kKuF7Tre2PzjK3Lnh"
     },
     {
       "added_at": "2022-07-12 10:53:53",
@@ -791,22 +791,6 @@
     {
       "added_at": "2022-07-12 10:53:53",
       "album": {
-        "name": "Learn to Exist",
-        "url": "https://open.spotify.com/album/3DWhWfiW17a3UbKhdGCyyt"
-      },
-      "artists": [
-        {
-          "name": "The Jungle Giants",
-          "url": "https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt"
-        }
-      ],
-      "duration_ms": 221493,
-      "name": "She's a Riot",
-      "url": "https://open.spotify.com/track/4xy9nsO8EX4OR0c6lf0WFu"
-    },
-    {
-      "added_at": "2022-07-12 10:53:53",
-      "album": {
         "name": "Running Free",
         "url": "https://open.spotify.com/album/05frF9sl7GngNlYJp7V6fe"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 207960,
       "name": "April Sun in Cuba",
       "url": "https://open.spotify.com/track/0NKv1n25UpKKhZbp5UVV6P"
+    },
+    {
+      "added_at": "2022-07-12 10:53:53",
+      "album": {
+        "name": "Go Farther In Lightness",
+        "url": "https://open.spotify.com/album/0leVOEw8L2TnAfLGwkFnab"
+      },
+      "artists": [
+        {
+          "name": "Gang of Youths",
+          "url": "https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8"
+        }
+      ],
+      "duration_ms": 319346,
+      "name": "Let Me Down Easy",
+      "url": "https://open.spotify.com/track/7DPQwyMQADl9Y8oSvSVpfg"
     }
   ],
   "unique_name": "Aussie BBQ",

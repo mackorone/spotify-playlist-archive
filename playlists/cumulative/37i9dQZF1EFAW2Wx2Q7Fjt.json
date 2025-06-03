@@ -287,6 +287,24 @@
     },
     {
       "album": {
+        "name": "Dynasty",
+        "url": "https://open.spotify.com/album/2XbCpM1MlrsMG6QODWt08N"
+      },
+      "artists": [
+        {
+          "name": "Teddy Sutton",
+          "url": "https://open.spotify.com/artist/58MGMvhrKqPVwa9nqrOdj3"
+        }
+      ],
+      "date_added": "2025-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143230,
+      "name": "Are You Serious?",
+      "url": "https://open.spotify.com/track/0cX8jpeqgYcoBsFREgmgGY"
+    },
+    {
+      "album": {
         "name": "Baby Blue Bathing Suit",
         "url": "https://open.spotify.com/album/0utcSpsj5S64rk7Ob05iYv"
       },

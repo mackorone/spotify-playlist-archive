@@ -2431,6 +2431,24 @@
     },
     {
       "album": {
+        "name": "Nergis",
+        "url": "https://open.spotify.com/album/5abBVBfMYsJyV5iQjVnEms"
+      },
+      "artists": [
+        {
+          "name": "Kalabal\u0131klar",
+          "url": "https://open.spotify.com/artist/2h1njP9dxIRtOeSNQGJJcw"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177750,
+      "name": "Nergis",
+      "url": "https://open.spotify.com/track/10Pn2qxE9uYfqnQmAnnreY"
+    },
+    {
+      "album": {
         "name": "Normalde",
         "url": "https://open.spotify.com/album/2IXnb0005FkTtvxvpZNiYs"
       },
@@ -3070,7 +3088,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 234887,
       "name": "Sorma",
       "url": "https://open.spotify.com/track/1t5QrgICG308reHk4Ohm7N"

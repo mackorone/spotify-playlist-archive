@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxoleDT3ILq.md) - [plain]
 
 > Todo el sonido indie de Chile\. Foto: Diego Lorenzini y Simón Campusano
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,741 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,722 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxoleDT3ILq.md) - [plain]
 | 99 | [Karma](https://open.spotify.com/track/2XxJKaZNhPanBkpGSMoApE) | [Charly Benavente](https://open.spotify.com/artist/38RtVKKRJwYGkKJDuZtHJP) | [Karma](https://open.spotify.com/album/7kP9AmZtw94OKJ9WwCbcs4) | 3:16 |
 | 100 | [Retazos de Diciembre](https://open.spotify.com/track/0z0emm8aLLdj2Ds3OuT9Kl) | [Patio Solar](https://open.spotify.com/artist/5vA7SVYlKJGW6NGkKaSEax) | [Retazos de Diciembre](https://open.spotify.com/album/5mHbPynGq3gEUgZ3QaNmc5) | 3:00 |
 
-Snapshot ID: `aDkfOwAAAADsQNRVEt1NU8dkPOexfyob`
+Snapshot ID: `aDkfOwAAAABpVVpxQNzT13a2QA7uvcRw`

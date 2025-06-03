@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX812gZSD3Ky1.md) - [plain]
 
 ### [Viral Hits Thailand](https://open.spotify.com/playlist/37i9dQZF1DX812gZSD3Ky1)
 
-> เพลงสากลฮิต และเพลงในกระแสตอนนี้\. ศิลปิน: Elliot James Reay
+> ปกพิเศษวันกอดแมวสากล! เพลงสากลฮิต และเพลงในกระแสตอนนี้\. ศิลปิน: WIM
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,217 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,221 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX812gZSD3Ky1.md) - [plain]
 | 99 | [Senopati in the Rain](https://open.spotify.com/track/3ydP2Te1Tm99wizbhC55FD) | [Jordan Susanto](https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI) | [Jordan](https://open.spotify.com/album/2GzoMwLkAXmod1QjiCD4bu) | 4:20 |
 | 100 | [Forever and a Day](https://open.spotify.com/track/5EsomcnjMHOqvPqrdwvV28) | [Gabe Watkins](https://open.spotify.com/artist/2GtFIN8b3SolBC7mmCPAAA) | [Forever and a Day](https://open.spotify.com/album/1cKyhSylwnsOBj797Amt2r) | 3:18 |
 
-Snapshot ID: `aDnHmwAAAAALAZrMSDfY3NWyzXueI6CQ`
+Snapshot ID: `aD3rdwAAAAC3vB3IG01+bTpzA0uXHD79`

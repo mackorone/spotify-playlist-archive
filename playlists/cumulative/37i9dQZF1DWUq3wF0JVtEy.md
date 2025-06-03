@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-532 songs - 1 day 1 hr 55 min
+533 songs - 1 day 1 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Combo](https://open.spotify.com/track/6nAWXxK1jWkYWzExetkboS) | [Karma Child](https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7) | [Combo](https://open.spotify.com/album/6stJfQJm5ooEJJoufO41Mn) | 2:41 | 2023-12-08 | 2024-09-16 |
 | [Come Together](https://open.spotify.com/track/33FAo8SU8bu8o5o2RMvQuZ) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [DJ Glen](https://open.spotify.com/artist/7FhUEuhPe1odyNav1iHfvd) | [Come Together](https://open.spotify.com/album/0Z4NciZWgkICzAsdchEWep) | 3:39 | 2023-03-24 | 2023-06-03 |
 | [Concentrate](https://open.spotify.com/track/3BmJBrQVekUXuUZbaGHjzU) | [MAKJ](https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C), [TJR](https://open.spotify.com/artist/2L8yW8GIoirHEdeW4bWQXq) | [Concentrate](https://open.spotify.com/album/7JXGN7gAAXh8FGr04Y8qn3) | 2:48 | 2023-12-15 | 2024-01-27 |
-| [Crazy](https://open.spotify.com/track/4ij2abVupX0NTWG5TuKe02) | [Rnbstylerz](https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg) | [Crazy](https://open.spotify.com/album/2gZzx7A5qnSbcO7OmTPAja) | 2:46 | 2023-10-06 |  |
+| [Crazy](https://open.spotify.com/track/4ij2abVupX0NTWG5TuKe02) | [Rnbstylerz](https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg) | [Crazy](https://open.spotify.com/album/2gZzx7A5qnSbcO7OmTPAja) | 2:46 | 2023-10-06 | 2025-06-03 |
 | [Crying Rainbows](https://open.spotify.com/track/4OGZ1wSoJFi84gxk2kflAc) | [Thomas Gold](https://open.spotify.com/artist/1XLjkBxFokuDTlHt0mQkRe), [Lucas Butler](https://open.spotify.com/artist/50rD5iXXJY35zmuYs2POjk), [Some](https://open.spotify.com/artist/21Sh5EcNtL9tl8YeT7t81M) | [Crying Rainbows](https://open.spotify.com/album/2phQvsZHBah8uJ9R8M6OQc) | 2:54 | 2024-08-30 | 2025-03-08 |
 | [Crystallise](https://open.spotify.com/track/7jJfACKhaxK3kF3bda6AVS) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Crystallise](https://open.spotify.com/album/11faQiUnyNFKWJYpj1HXsK) | 3:02 | 2021-10-29 | 2022-11-12 |
 | [Cum Check This](https://open.spotify.com/track/7H5SIexFiXI5Li5qyV2TID) | [FETISH](https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o) | [Cum Check This](https://open.spotify.com/album/3b7bk20U1R74sAi7xKHQxJ) | 3:11 | 2021-10-29 | 2022-06-07 |
@@ -240,6 +240,7 @@
 | [I Wanna](https://open.spotify.com/track/05a3JJNTzhoBFtux514zLj) | [JSTJR](https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP), [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH) | [I Wanna](https://open.spotify.com/album/4hCKZABBaMgkZgDb7CizQR) | 2:35 | 2022-12-02 |  |
 | [I Wanna Talk](https://open.spotify.com/track/0ql60H0AnQOdxiC7Oh3pJN) | [Wenzday](https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2) | [I Wanna Talk](https://open.spotify.com/album/5Xd5xwTvOltxDikPLTEcw5) | 2:57 | 2024-10-04 | 2025-04-09 |
 | [I WANT](https://open.spotify.com/track/6tkQHOd8Wgf2ZpecK9sXGs) | [G\-Pol](https://open.spotify.com/artist/3O5mszIMh6g6Dt7YlhCIPM), [Lambi](https://open.spotify.com/artist/0kcZZU0MJOYaosYfTfAa0H) | [I WANT](https://open.spotify.com/album/3TxoC4oZUoxlGAXa6qNfWO) | 2:50 | 2022-01-21 | 2022-02-02 |
+| [I'm a Man](https://open.spotify.com/track/3zzzMsXOCCkPAFr2zbmKzY) | [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40), [MAKJ](https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C), [Faiolli](https://open.spotify.com/artist/6oBVe2YK3rG8pS4eLf36wO) | [I'm a Man](https://open.spotify.com/album/3N9SCz8ypCUZ9KL07wv6EQ) | 2:47 | 2025-05-30 |  |
 | [I'm Drunk \(feat\. AMY MIYÚ\)](https://open.spotify.com/track/0WW8txqecanm76y5Je34nf) | [Yung Felix](https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu), [AMY MIYÚ](https://open.spotify.com/artist/5Cd6yDDRckU2zVyAzAMbLl) | [I'm Drunk \(feat\. AMY MIYÚ\)](https://open.spotify.com/album/0wuMHJgOAu6cCsJUyyMAta) | 2:30 | 2023-08-04 |  |
 | [IDGAF](https://open.spotify.com/track/5x2hXRoEDfEF67WvWqoCqY) | [NO SIGNE](https://open.spotify.com/artist/1DoFYfnZ1zTlWU9ZGJLNuX), [Rell Rock](https://open.spotify.com/artist/7C55ODE3QMcBdgc7RtkBgq) | [IDGAF](https://open.spotify.com/album/1zNDh14KDji9oaZ9VYMIJG) | 3:00 | 2022-06-10 |  |
 | [Illusion](https://open.spotify.com/track/2Uk3eji99feKwQWknWUx4P) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Crunr](https://open.spotify.com/artist/6NpDx4k32E3pChXfXeDVTr) | [Illusion](https://open.spotify.com/album/1K5HiEm4XcBAxxrk0afaQE) | 3:17 | 2022-09-09 | 2023-01-06 |

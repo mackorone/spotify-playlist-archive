@@ -955,6 +955,28 @@
     },
     {
       "album": {
+        "name": "Ultimate Dump Gawd",
+        "url": "https://open.spotify.com/album/7BY0QMRC18N9sxaXqYkzNP"
+      },
+      "artists": [
+        {
+          "name": "Tha God Fahim",
+          "url": "https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        }
+      ],
+      "date_added": "2025-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152344,
+      "name": "Gfy",
+      "url": "https://open.spotify.com/track/5JiVyJ1g6BuikD3OKkvWhL"
+    },
+    {
+      "album": {
         "name": "FLDSZN",
         "url": "https://open.spotify.com/album/0RZYy9Yf5t1mGtMDhI9q0B"
       },
@@ -1878,7 +1900,7 @@
       ],
       "date_added": "2025-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 156786,
       "name": "Shogun Jump",
       "url": "https://open.spotify.com/track/0UznY2XztSP2pP3fhW3d9U"

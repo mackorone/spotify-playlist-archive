@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qNE4zrflL7.md) - [plain]
 
 > The songs that influenced everything that has happened since\. Cover: The Rolling Stones
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,349 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,363 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

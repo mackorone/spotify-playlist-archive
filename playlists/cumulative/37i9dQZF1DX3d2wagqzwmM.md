@@ -4,7 +4,7 @@
 
 > Big rooms and big sounds\. Cover: Blasterjaxx
 
-595 songs - 1 day 6 hr 22 min
+596 songs - 1 day 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -379,7 +379,7 @@
 | [Open Sesame \(Abracadabra\) \[feat\. Leila K\]](https://open.spotify.com/track/4ygydEkcYBt05oS9sHxZ8h) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Leila K](https://open.spotify.com/artist/61Da4fqVMgPoo9mYY0R3k6) | [Open Sesame \(Abracadabra\) \[feat\. Leila K\]](https://open.spotify.com/album/1tx6xMbBZE2CbstHPHVWo5) | 3:39 | 2024-02-01 | 2025-03-07 |
 | [Open Your Eyes](https://open.spotify.com/track/3adEmuBPBZR04wFiIE9qHL) | [POLTERGST](https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM) | [Open Your Eyes](https://open.spotify.com/album/4crL4998au9yLFpCDKPEJK) | 3:05 | 2024-07-19 |  |
 | [Our Happiness](https://open.spotify.com/track/1cz2AfXziuBivVSLmThU6g) | [AVAO](https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw), [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V) | [Our Happiness](https://open.spotify.com/album/6HJRgQY8cQ9vuffzbWcnZq) | 3:31 | 2023-08-24 | 2023-09-08 |
-| [Our House](https://open.spotify.com/track/4OIZob7JDiTYBh5GZCKUgH) | [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK), [Disco Fries](https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U), [Fatman Scoop](https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6) | [Our House](https://open.spotify.com/album/5OwBxi1qtoiCQZnBd9jkCs) | 3:12 | 2024-08-29 |  |
+| [Our House](https://open.spotify.com/track/4OIZob7JDiTYBh5GZCKUgH) | [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK), [Disco Fries](https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U), [Fatman Scoop](https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6) | [Our House](https://open.spotify.com/album/5OwBxi1qtoiCQZnBd9jkCs) | 3:12 | 2024-08-29 | 2025-06-03 |
 | [Out Of My Mind](https://open.spotify.com/track/2lHbjYorH8BIRB0ZmYQqix) | [AVAO](https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw) | [Out Of My Mind](https://open.spotify.com/album/6IKPeWYde8fISw5VixzNvU) | 2:29 | 2025-03-06 |  |
 | [Out Of My Mind](https://open.spotify.com/track/2wSudk1Z9HMdPNrWnwu6mc) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV) | [Out Of My Mind](https://open.spotify.com/album/2TbwXR0NgqoHoHjorIX3s5) | 3:00 | 2022-04-14 | 2022-07-29 |
 | [P.R.O.G.](https://open.spotify.com/track/4dpNQuxo6xz66pDsvtUR4j) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX) | [P.R.O.G.](https://open.spotify.com/album/2pYk1rLEFSKdJLd67mdIAd) | 2:58 | 2022-08-18 | 2022-09-19 |
@@ -520,6 +520,7 @@
 | [The Ashes](https://open.spotify.com/track/77TqubLV7jUg5fxvOCbjtM) | [NIVIRO](https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T) | [The Ashes](https://open.spotify.com/album/1zdhuNHo4sdVF90RMtqVDG) | 4:11 | 2022-04-14 | 2022-05-29 |
 | [The Beach \- AFROJACK Edit](https://open.spotify.com/track/73DHxu38MmCnyelusfdugf) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [The Beach \(AFROJACK Edit\)](https://open.spotify.com/album/5j4CqqNOwZN4Yw3AhB9Mgq) | 2:46 | 2023-11-27 | 2024-04-24 |
 | [The Captain](https://open.spotify.com/track/4NGwhkwJzROYFJKNFmFHus) | [HIJCKD](https://open.spotify.com/artist/4oFuOElyTlMdZMXMQBSdVq) | [The Captain](https://open.spotify.com/album/0hc4lRGEKpOzSdd2KXZ47j) | 3:12 | 2022-12-27 | 2023-01-03 |
+| [The Chant](https://open.spotify.com/track/51iiwYPDTDrOTMPct3wlW5) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Ryos](https://open.spotify.com/artist/7us9kFadl2fztbHSvlNk6M) | [The Chant](https://open.spotify.com/album/14cDD5QjVN1LxYtiS5bzHI) | 3:37 | 2025-06-02 |  |
 | [The Chant](https://open.spotify.com/track/16NC74ajzZCjs4RbA1Zxwn) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Accepted Concept](https://open.spotify.com/album/5026e5pinYOgls5mjv1duU) | 2:51 | 2023-10-05 | 2024-07-19 |
 | [The Chase](https://open.spotify.com/track/00JoqMc5KZFLpdrtymo6f0) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [The Chase](https://open.spotify.com/album/2oR0zKDQpFKxWJjyHqrDpq) | 3:14 | 2022-07-28 | 2022-09-02 |
 | [The Chase](https://open.spotify.com/track/4Y8PGabkHNMDRmlKSYh8qK) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [The Chase](https://open.spotify.com/album/5koPzfr85wkv99rVjVKTXX) | 2:27 | 2025-05-08 |  |

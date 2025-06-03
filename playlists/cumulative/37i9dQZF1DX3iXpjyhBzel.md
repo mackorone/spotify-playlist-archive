@@ -4,7 +4,7 @@
 
 > A música certa para o seu momento de adoração\. Foto: Julliany Souza
 
-338 songs - 1 day 9 hr 34 min
+339 songs - 1 day 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Deixa a Lágrima Descer \- Ao Vivo](https://open.spotify.com/track/5bBP61uqc7W0FyGCLuWACI) | [Jessé Aguiar](https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC) | [Deixa a Lágrima Descer \(Ao Vivo\)](https://open.spotify.com/album/4GZBjxgLrhaNYyRO5szYgf) | 5:42 | 2022-11-25 | 2023-02-04 |
 | [Dependente](https://open.spotify.com/track/6jTbdr0MpxuP6nyJOXcMqW) | [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL) | [Dependente \(Ao Vivo\)](https://open.spotify.com/album/724QZLpvmUYnZ8FwbgAkZ9) | 5:54 | 2023-07-07 | 2025-01-25 |
 | [Deserto \(Ao Vivo\)](https://open.spotify.com/track/1a5LfJGq0vuCWQ9Mme0Ac7) | [Maria Marçal](https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk) | [Deserto \(Ao Vivo\)](https://open.spotify.com/album/3dRnmYdGMMDgBxx3vdd6yW) | 4:28 | 2022-09-30 | 2024-07-19 |
+| [Deus Coloca O Chão \- Ao Vivo](https://open.spotify.com/track/5S0FRi4n38dDHrDl3C5MSR) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB), [Deive Leonardo](https://open.spotify.com/artist/2yXSYL4govoGkKNqq6BJQW) | [Deus Coloca O Chão \(Ao Vivo\)](https://open.spotify.com/album/1ntpRjk2x5nSwb7eEaX2mN) | 5:41 | 2025-06-02 |  |
 | [Deus Cuida De Mim \- Ao Vivo](https://open.spotify.com/track/4C3JM08kRIAowxZJHuZ6Mk) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Memórias 3 \- Lado A \(Ao Vivo\)](https://open.spotify.com/album/6YyvuTGa4V9R37qFNXQ0tI) | 4:28 | 2022-09-09 | 2024-07-19 |
 | [Deus de Milagres \- Ao Vivo](https://open.spotify.com/track/2pniWHcFFrhNfR5SlUB5Ba) | [Mari Borges](https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6) | [Deus de Milagres \(Ao Vivo\)](https://open.spotify.com/album/5rIIyLwfSFv7ZaxjZyCbI9) | 5:48 | 2023-12-22 | 2024-04-27 |
 | [Deus Emanuel](https://open.spotify.com/track/03SWHCfQMEKBcTd6E6jvgP) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [Deus Emanuel](https://open.spotify.com/album/5yZ3LemPIfc59PbOqv0Gq4) | 5:16 | 2022-09-09 | 2022-11-26 |
@@ -123,7 +124,7 @@
 | [Eu Não Mudo \(Ao Vivo\)](https://open.spotify.com/track/5CMsJa45lcaRyXORxodImT) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Eu Não Mudo \(Ao Vivo\)](https://open.spotify.com/album/7koLVQPec7CXl0dDJa9p9d) | 4:41 | 2023-07-14 | 2023-08-05 |
 | [Eu Não Perdi o Controle \(Ao Vivo\)](https://open.spotify.com/track/5smxm1Rp8wsWaei8VBtKm5) | [Maria Marçal](https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk) | [Eu Não Perdi o Controle \(Ao Vivo\)](https://open.spotify.com/album/6QZ6abxy3XaFJyytXZZNft) | 6:18 | 2023-01-13 | 2025-04-04 |
 | [Eu Quero Ser Grato](https://open.spotify.com/track/7v8Ui8MWtxBIBNtTgHWWwZ) | [Gabriel Brito](https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm), [Kaique e Felipe](https://open.spotify.com/artist/0JRPF8WIKUtSO2IUYfrcuh) | [Eu Quero Ser Grato](https://open.spotify.com/album/6FTw5OQuXaNQzMKPkxM2D0) | 3:12 | 2024-11-30 | 2025-05-17 |
-| [Eu Sou Teu Pai \- Ao Vivo](https://open.spotify.com/track/6VpGzXV2kAxB59UOGGl4yP) | [Valesca Mayssa](https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Eu Sou Teu Pai \(Ao Vivo\)](https://open.spotify.com/album/2jAWSHULqC5TTIiPgf0QYV) | 6:16 | 2023-09-01 |  |
+| [Eu Sou Teu Pai \- Ao Vivo](https://open.spotify.com/track/6VpGzXV2kAxB59UOGGl4yP) | [Valesca Mayssa](https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Eu Sou Teu Pai \(Ao Vivo\)](https://open.spotify.com/album/2jAWSHULqC5TTIiPgf0QYV) | 6:16 | 2023-09-01 | 2025-06-03 |
 | [Eu Só Quero Adorar](https://open.spotify.com/track/0NUF4588gE3fH3GJdNtQFr) | [Giselli Cristina](https://open.spotify.com/artist/3UZ4OGYI3ycaPT42PUS25B), [Nícolas Henrique](https://open.spotify.com/artist/5xvISfiKpFFkYr6MUfEbnU) | [Eu Só Quero Adorar](https://open.spotify.com/album/0J0CZ6pQkckFYkOfWxBfBs) | 4:15 | 2025-05-16 |  |
 | [Eu Te Entrego o Meu Dia](https://open.spotify.com/track/4bridq05nWYVVn9tGkBHeU) | [Israel Salazar](https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC) | [Eu Te Entrego o Meu Dia](https://open.spotify.com/album/4BHgauOFV4ubkrynteDF3p) | 3:19 | 2025-01-24 |  |
 | [Eu Te Ouvi \- Ao Vivo](https://open.spotify.com/track/6Nd8xm5PxHE3E7cRtDRfP8) | [Mari Borges](https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Eu Te Ouvi \(Ao Vivo\)](https://open.spotify.com/album/2U9dIctF3FOBSdHS4n1nnt) | 4:03 | 2024-07-19 |  |

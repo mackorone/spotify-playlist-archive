@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKOGt2rVvOT.md) - [plain]
 
 > 這些歌還很紅也！已經有兩三年了？高人氣金曲讓你一路聽下去！Cover: 就以斯 \(JOYCE\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,612 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,633 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKOGt2rVvOT.md) - [plain]
 | 49 | [男人啊](https://open.spotify.com/track/2eOxchn7qR1VjGFRJyQqK3) | [Sam Lee](https://open.spotify.com/artist/7ya3wFqG9X35S7L7XSrE2i) | [男人啊](https://open.spotify.com/album/4AkyfM5nQEQhrPMvsFKFrX) | 4:01 |
 | 50 | [我不該哭 feat\. 告五人](https://open.spotify.com/track/50vXWjM76GMrmZlIJD2RwQ) | [Power Station](https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy), [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [結伴](https://open.spotify.com/album/5P7W9ZOIIManMjXgMuPCbA) | 4:43 |
 
-Snapshot ID: `aCqgvAAAAACPoM/8wFPcADSl8COj4w08`
+Snapshot ID: `aCqgvAAAAAAGpYbzptDQ4r8aHey8F0ZL`

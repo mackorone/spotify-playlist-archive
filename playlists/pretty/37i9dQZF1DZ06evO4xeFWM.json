@@ -1,12 +1,12 @@
 {
   "description": "This is Bastille. The essential tracks, all in one playlist.",
-  "num_followers": 217678,
+  "num_followers": 217703,
   "original_name": "This Is Bastille",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDpGgAAAAAAQcW/7O5VQq3hn42dFy9qi",
+  "snapshot_id": "aDuYAAAAAAAwrSNAs6VpZlThRefYlfFG",
   "tracks": [
     {
       "added_at": null,
@@ -223,22 +223,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Home Before The World Ends",
-        "url": "https://open.spotify.com/album/53SZYASReMx3CIFrlGa2wy"
+        "name": "VS. (Other People\u2019s Heartache, Pt. III)",
+        "url": "https://open.spotify.com/album/1YXsPGQingGkJZLA8uuQNL"
       },
       "artists": [
         {
-          "name": "Will Varley",
-          "url": "https://open.spotify.com/artist/6sKGpXFS8bI6lKbRfhl52T"
-        },
-        {
           "name": "Bastille",
           "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        },
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        },
+        {
+          "name": "Skunk Anansie",
+          "url": "https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF"
         }
       ],
-      "duration_ms": 199506,
-      "name": "Home Before The World Ends",
-      "url": "https://open.spotify.com/track/33QOISLy6UEQBDBUhH2DPp"
+      "duration_ms": 279247,
+      "name": "Remains (Bastille Vs. Rag\u2019N\u2019Bone Man Vs. Skunk Anansie)",
+      "url": "https://open.spotify.com/track/6G43t8BCjmJyPGwNrAAPPV"
     },
     {
       "added_at": null,
@@ -275,26 +279,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "VS. (Other People\u2019s Heartache, Pt. III)",
-        "url": "https://open.spotify.com/album/1YXsPGQingGkJZLA8uuQNL"
+        "name": "Home Before The World Ends",
+        "url": "https://open.spotify.com/album/53SZYASReMx3CIFrlGa2wy"
       },
       "artists": [
         {
+          "name": "Will Varley",
+          "url": "https://open.spotify.com/artist/6sKGpXFS8bI6lKbRfhl52T"
+        },
+        {
           "name": "Bastille",
           "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        },
-        {
-          "name": "Rag'n'Bone Man",
-          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
-        },
-        {
-          "name": "Skunk Anansie",
-          "url": "https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF"
         }
       ],
-      "duration_ms": 279247,
-      "name": "Remains (Bastille Vs. Rag\u2019N\u2019Bone Man Vs. Skunk Anansie)",
-      "url": "https://open.spotify.com/track/6G43t8BCjmJyPGwNrAAPPV"
+      "duration_ms": 199506,
+      "name": "Home Before The World Ends",
+      "url": "https://open.spotify.com/track/33QOISLy6UEQBDBUhH2DPp"
     },
     {
       "added_at": null,

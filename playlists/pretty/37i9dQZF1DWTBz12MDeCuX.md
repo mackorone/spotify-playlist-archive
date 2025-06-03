@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: MAJAN, $OHO BANI
 
-[Spotify](https://open.spotify.com/user/spotify) - 478,114 likes - 100 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 478,072 likes - 100 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 99 | [i guess u never really cared about me](https://open.spotify.com/track/2hyyp0mZc5QFY5YQeyv7oP) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i guess u never really cared about me](https://open.spotify.com/album/7CHoqxYsAtC7YZZDa1t95z) | 3:11 |
 | 100 | [glücklich ohne dich](https://open.spotify.com/track/64eMg1XPRTKjtoW6ohdN6S) | [Anna Grey](https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q) | [glücklich ohne dich](https://open.spotify.com/album/7LvFdCU6m28MfVDgEwy5HQ) | 2:33 |
 
-Snapshot ID: `aDjY/AAAAABMsQ967zmH1lVVDMB+DqB+`
+Snapshot ID: `AAAAALhbTOyhF0Ahi2fH22deYPPIRKCB`

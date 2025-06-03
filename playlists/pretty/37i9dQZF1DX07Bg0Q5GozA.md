@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Yuksek
 
-[Spotify](https://open.spotify.com/user/spotify) - 449,930 likes - 75 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 449,889 likes - 75 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [All The Love](https://open.spotify.com/track/3hAfmM8O1VgtFmSfbm5FSc) | [Everything Is Art](https://open.spotify.com/artist/4CNfRyL59In8QRz94NE63M), [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM) | [All The Love](https://open.spotify.com/album/0AfvonhHpPRUz6fpPy7RHu) | 3:36 |
 | 75 | [your love](https://open.spotify.com/track/1TMMQi589Us8RtorHffrO6) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl), [David Bay](https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo) | [your love](https://open.spotify.com/album/1bsPkjL5lhR3QeuaOWZDfs) | 3:27 |
 
-Snapshot ID: `aDmFoAAAAAC6T839xwPYzENDu8tOS+ad`
+Snapshot ID: `aDmFoAAAAABjk6x4PFMVBxPizDXr8/0u`

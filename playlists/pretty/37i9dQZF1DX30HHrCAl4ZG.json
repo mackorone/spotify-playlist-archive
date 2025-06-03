@@ -1,12 +1,12 @@
 {
   "description": "Explore all things indie rock right now. Featuring music from Foxwarren",
-  "num_followers": 830274,
+  "num_followers": 830155,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDoqLAAAAADFd5dUWMOVKi35wwP1QJlG",
+  "snapshot_id": "aD3v3AAAAABAZ5am5c/2cUsgyF6NSFUO",
   "tracks": [
     {
       "added_at": "2025-05-30 04:00:30",
@@ -227,6 +227,22 @@
       "duration_ms": 182123,
       "name": "BOYS WITH THE CHARACTERISTICS OF WOLVES",
       "url": "https://open.spotify.com/track/1TkJJEmsVvlE3rvWEq9glK"
+    },
+    {
+      "added_at": "2025-06-02 18:39:24",
+      "album": {
+        "name": "Phonetics On and On",
+        "url": "https://open.spotify.com/album/7C51cbjlLSILLTMVnxbrOc"
+      },
+      "artists": [
+        {
+          "name": "Horsegirl",
+          "url": "https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra"
+        }
+      ],
+      "duration_ms": 185915,
+      "name": "Switch Over",
+      "url": "https://open.spotify.com/track/1SFVei3ZUf3EuJdvKqmGKv"
     },
     {
       "added_at": "2025-05-30 04:00:30",

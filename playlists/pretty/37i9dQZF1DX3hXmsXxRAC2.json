@@ -1,6 +1,6 @@
 {
   "description": "Las voces que inmortalizaron las canciones del Divo de Ju\u00e1rez.",
-  "num_followers": 348285,
+  "num_followers": 348332,
   "original_name": "Cancionero Juan Gabriel",
   "owner": {
     "name": "Spotify",
@@ -215,22 +215,6 @@
     {
       "added_at": "2024-07-02 23:46:15",
       "album": {
-        "name": "Ska a La Carta",
-        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 270860,
-      "name": "Yo No Naci Para Amar",
-      "url": "https://open.spotify.com/track/7qQMiNcXYmkx6G3sZ5ljDm"
-    },
-    {
-      "added_at": "2024-07-02 23:46:15",
-      "album": {
         "name": "Victor Garc\u00eda",
         "url": "https://open.spotify.com/album/7f2HP5bNAaD5avrcW4qdV1"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 230800,
       "name": "He Venido a Pedirte Perd\u00f3n (with HA-ASH)",
       "url": "https://open.spotify.com/track/0yNBnX5iuu108NLpxcI2Yw"
+    },
+    {
+      "added_at": "2024-07-02 23:46:15",
+      "album": {
+        "name": "Ska a La Carta",
+        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 270860,
+      "name": "Yo No Naci Para Amar",
+      "url": "https://open.spotify.com/track/7qQMiNcXYmkx6G3sZ5ljDm"
     },
     {
       "added_at": "2024-07-02 23:46:15",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-07-02 23:46:15",
       "album": {
-        "name": "Mexicano",
-        "url": "https://open.spotify.com/album/35pQAHKoqPw8GQyghvhx8R"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
-        }
-      ],
-      "duration_ms": 477760,
-      "name": "Viva Juan Gabriel / Popurr\u00ed",
-      "url": "https://open.spotify.com/track/7bK7yujTLTLzHo5kZMryjL"
-    },
-    {
-      "added_at": "2024-07-02 23:46:15",
-      "album": {
         "name": "Mi Tributo a Juan Gabriel",
         "url": "https://open.spotify.com/album/1ZM8dXmYIl3fQ97HDzf9C1"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 431533,
       "name": "Medley: Caray / Esta Noche Voy a Verla / Juntos",
       "url": "https://open.spotify.com/track/0lyyfkIsFODWphGaSs2DFQ"
+    },
+    {
+      "added_at": "2024-07-02 23:46:15",
+      "album": {
+        "name": "Mexicano",
+        "url": "https://open.spotify.com/album/35pQAHKoqPw8GQyghvhx8R"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        }
+      ],
+      "duration_ms": 477760,
+      "name": "Viva Juan Gabriel / Popurr\u00ed",
+      "url": "https://open.spotify.com/track/7bK7yujTLTLzHo5kZMryjL"
     },
     {
       "added_at": "2024-07-02 23:46:15",
@@ -1131,6 +1131,26 @@
     {
       "added_at": "2024-07-02 23:46:15",
       "album": {
+        "name": "Fue un Placer Conocerte: Gracias Juan Gabriel, Vol. 1",
+        "url": "https://open.spotify.com/album/53mW1mcrK5HCENdQKkwVtV"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 210042,
+      "name": "Fue un Placer Conocerte",
+      "url": "https://open.spotify.com/track/2keN15BswHOxejdRAaMT8s"
+    },
+    {
+      "added_at": "2024-07-02 23:46:15",
+      "album": {
         "name": "M\u00e9xico & Amigos",
         "url": "https://open.spotify.com/album/4YzNjecIvmLFEby13NOBmj"
       },
@@ -1163,26 +1183,6 @@
       "duration_ms": 170685,
       "name": "Me Gustas Mucho",
       "url": "https://open.spotify.com/track/4GTbtRKeOTMoQ1OJyXKQpU"
-    },
-    {
-      "added_at": "2024-07-02 23:46:15",
-      "album": {
-        "name": "Fue un Placer Conocerte: Gracias Juan Gabriel, Vol. 1",
-        "url": "https://open.spotify.com/album/53mW1mcrK5HCENdQKkwVtV"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        },
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 210042,
-      "name": "Fue un Placer Conocerte",
-      "url": "https://open.spotify.com/track/2keN15BswHOxejdRAaMT8s"
     },
     {
       "added_at": "2024-07-02 23:46:15",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-07-02 23:46:15",
       "album": {
-        "name": "Amanecida Con Todo Y Con Todos",
-        "url": "https://open.spotify.com/album/2KAiIn3T5KHdbHOdzNsFvV"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 215882,
-      "name": "La Farsante",
-      "url": "https://open.spotify.com/track/64iXvXF27Kf02B2Q6Wdr9N"
-    },
-    {
-      "added_at": "2024-07-02 23:46:15",
-      "album": {
         "name": "Fue un Placer Conocerte: Gracias Juan Gabriel, Vol. 1",
         "url": "https://open.spotify.com/album/53mW1mcrK5HCENdQKkwVtV"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 284665,
       "name": "Costumbres",
       "url": "https://open.spotify.com/track/0onqUSXlBN3jzAvbdJttvM"
+    },
+    {
+      "added_at": "2024-07-02 23:46:15",
+      "album": {
+        "name": "Amanecida Con Todo Y Con Todos",
+        "url": "https://open.spotify.com/album/2KAiIn3T5KHdbHOdzNsFvV"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 215882,
+      "name": "La Farsante",
+      "url": "https://open.spotify.com/track/64iXvXF27Kf02B2Q6Wdr9N"
     },
     {
       "added_at": "2024-07-02 23:46:15",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-07-02 23:46:15",
       "album": {
-        "name": "Costumbres",
-        "url": "https://open.spotify.com/album/6J2K7NA4m8O3NuaFYpeFWz"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Contreras",
-          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
-        }
-      ],
-      "duration_ms": 284421,
-      "name": "Costumbres",
-      "url": "https://open.spotify.com/track/0isfyPlYuItuJ0C43tIBM4"
-    },
-    {
-      "added_at": "2024-07-02 23:46:15",
-      "album": {
         "name": "Fue un Placer Conocerte: Gracias Juan Gabriel, Vol. 1",
         "url": "https://open.spotify.com/album/53mW1mcrK5HCENdQKkwVtV"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 224480,
       "name": "Ya Lo S\u00e9 Que Tu Te Vas",
       "url": "https://open.spotify.com/track/6br5jCk7DvwwHSApUzSURM"
+    },
+    {
+      "added_at": "2024-07-02 23:46:15",
+      "album": {
+        "name": "Costumbres",
+        "url": "https://open.spotify.com/album/6J2K7NA4m8O3NuaFYpeFWz"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Contreras",
+          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
+        }
+      ],
+      "duration_ms": 284421,
+      "name": "Costumbres",
+      "url": "https://open.spotify.com/track/0isfyPlYuItuJ0C43tIBM4"
     },
     {
       "added_at": "2024-07-02 23:46:15",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2024-07-02 23:46:15",
       "album": {
-        "name": "Abr\u00e1zame Muy Fuerte",
-        "url": "https://open.spotify.com/album/2RE4qRw0o1RYdbgeHQ12ap"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 274680,
-      "name": "Abr\u00e1zame Muy Fuerte",
-      "url": "https://open.spotify.com/track/7xPWqlo1ufSDmy5nCzN8rV"
-    },
-    {
-      "added_at": "2024-07-02 23:46:15",
-      "album": {
         "name": "Pepe Aguilar MTV Unplugged [(MTV Unplugged) [En Vivo]]",
         "url": "https://open.spotify.com/album/4H1UMurbDPzRjrRA5l0nNp"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 294760,
       "name": "Siempre en Mi Mente - MTV Unplugged [En Vivo]",
       "url": "https://open.spotify.com/track/15eHUj2OnfDrbKiIboohEx"
+    },
+    {
+      "added_at": "2024-07-02 23:46:15",
+      "album": {
+        "name": "Abr\u00e1zame Muy Fuerte",
+        "url": "https://open.spotify.com/album/2RE4qRw0o1RYdbgeHQ12ap"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 274680,
+      "name": "Abr\u00e1zame Muy Fuerte",
+      "url": "https://open.spotify.com/track/7xPWqlo1ufSDmy5nCzN8rV"
     },
     {
       "added_at": "2024-07-02 23:46:15",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-07-02 23:46:15",
       "album": {
-        "name": "Antologia De Juan Gabriel",
-        "url": "https://open.spotify.com/album/0PdCVDLLPyONwCzOAoeQtc"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Te Lo Pido Por Favor",
-      "url": "https://open.spotify.com/track/6N5SqUoEdM4JU0YOGZfPyT"
-    },
-    {
-      "added_at": "2024-07-02 23:46:15",
-      "album": {
         "name": "Fue un Placer Conocerte: Gracias Juan Gabriel, Vol. 1",
         "url": "https://open.spotify.com/album/53mW1mcrK5HCENdQKkwVtV"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 423919,
       "name": "Hasta Que Te Conoc\u00ed",
       "url": "https://open.spotify.com/track/4hVpVysNagHdtH4IipkRqM"
+    },
+    {
+      "added_at": "2024-07-02 23:46:15",
+      "album": {
+        "name": "Antologia De Juan Gabriel",
+        "url": "https://open.spotify.com/album/0PdCVDLLPyONwCzOAoeQtc"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Te Lo Pido Por Favor",
+      "url": "https://open.spotify.com/track/6N5SqUoEdM4JU0YOGZfPyT"
     },
     {
       "added_at": "2024-07-02 23:46:15",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-07-02 23:46:15",
       "album": {
-        "name": "Mis Covers",
-        "url": "https://open.spotify.com/album/2KvM2ocXX8DEyvu7cAMfuJ"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas",
-      "url": "https://open.spotify.com/track/5YjqUsdVbg9ZugYZjaL1TF"
-    },
-    {
-      "added_at": "2024-07-02 23:46:15",
-      "album": {
         "name": "Fue un Placer Conocerte: Gracias Juan Gabriel, Vol. 1",
         "url": "https://open.spotify.com/album/53mW1mcrK5HCENdQKkwVtV"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 154739,
       "name": "No Vale la Pena",
       "url": "https://open.spotify.com/track/1ftjkFH9RUzPjPTM9tJbWa"
+    },
+    {
+      "added_at": "2024-07-02 23:46:15",
+      "album": {
+        "name": "Mis Covers",
+        "url": "https://open.spotify.com/album/2KvM2ocXX8DEyvu7cAMfuJ"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas",
+      "url": "https://open.spotify.com/track/5YjqUsdVbg9ZugYZjaL1TF"
     },
     {
       "added_at": "2024-07-02 23:46:15",

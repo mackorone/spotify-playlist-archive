@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > Experience the lastest and the greatest Worship music right here, right now\. Cover:  SEU Worship
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,030,903 likes - 98 songs - 8 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,030,880 likes - 98 songs - 8 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 9 | [Be Glad \- Live](https://open.spotify.com/track/1nQBOC7j1ioRhiwU1LZCyn) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Be Glad \(Live\)](https://open.spotify.com/album/5FpPcbGEK4AuHjO2EUf9wy) | 8:53 |
 | 10 | [You Are My King \(Amazing Love\) \- Spotify Singles](https://open.spotify.com/track/4LEGdbJ3sb6P1IAMfOBrEN) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [You Are My King \(Amazing Love\) \[Spotify Singles\]](https://open.spotify.com/album/7h8KQPYyfseCnFQJJm7BGl) | 4:14 |
 | 11 | [Abandoned \- from the studio](https://open.spotify.com/track/5aWskDGYyxDRd2iV3wo56U) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [How I'd sing it on a sunday \(from the studio\)](https://open.spotify.com/album/6XASIVGRg698fngttJKmUE) | 5:12 |
-| 12 | [Inhabit \- Live](https://open.spotify.com/track/7uV23diPvoJDAtiCUehgdn) | [Austin Johnson](https://open.spotify.com/artist/2BPfjNofqF1uBvxJ3kUTbO), [Kory Miller](https://open.spotify.com/artist/0QCjdltvL9ZrRhayylw97h), [Hannah Waters](https://open.spotify.com/artist/4ikD0yzW2w4xoY6xBla98L), [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [Inhabit \(Live\)](https://open.spotify.com/album/7JKsu4MIWFQd1SSakrv41q) | 9:37 |
+| 12 | [Inhabit \- Live](https://open.spotify.com/track/7uV23diPvoJDAtiCUehgdn) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Austin Johnson](https://open.spotify.com/artist/2BPfjNofqF1uBvxJ3kUTbO), [Kory Miller](https://open.spotify.com/artist/0QCjdltvL9ZrRhayylw97h), [Hannah Waters](https://open.spotify.com/artist/4ikD0yzW2w4xoY6xBla98L) | [Inhabit \(Live\)](https://open.spotify.com/album/7JKsu4MIWFQd1SSakrv41q) | 9:37 |
 | 13 | [Greatly To Be Praised \- Live](https://open.spotify.com/track/4nxbshOlmnBPG94wjMHsaU) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2), [Jessie Harris](https://open.spotify.com/artist/1d5o5nKTHxv0gr9avqdTmA) | [Greatly To Be Praised \(Live\)](https://open.spotify.com/album/2OSFDqMbtiqHrSVXbWbQHM) | 8:58 |
 | 14 | [Up To Something \(Live\)](https://open.spotify.com/track/4xK22fRATicm5NnGFiMNLk) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr), [Kory Miller](https://open.spotify.com/artist/0QCjdltvL9ZrRhayylw97h) | [The King Is Coming \(Live\)](https://open.spotify.com/album/56MsqgmCerGPZtCnfDE5LH) | 5:02 |
 | 15 | [Presence Of The Lord \- Live](https://open.spotify.com/track/2QcJrVRd2WkyL17vMe48i4) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Derek Johnson](https://open.spotify.com/artist/3967KnQedbgX8KdNTXhm7y) | [Worthy Of Hallelujah \(Live\)](https://open.spotify.com/album/3wtjYn5O0FawhiX7M5XodK) | 5:21 |

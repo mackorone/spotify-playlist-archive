@@ -2,7 +2,7 @@
 
 ### [K\-Folk/Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 장재인\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
+> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 본하\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
 576 songs - 1 day 10 hr 5 min
 
@@ -142,7 +142,7 @@
 | [falling flowers \(With Yebit\)](https://open.spotify.com/track/40bCu5YdC5LJXpcG86R8Fi) | [Sweden Laundry](https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp) | [Lyrical 1 – Afterimage](https://open.spotify.com/album/6XTJ0oUripnxcG2X0jCWKo) | 3:14 | 2022-01-13 | 2022-04-21 |
 | [Fallin’](https://open.spotify.com/track/3ADWPCUm96c7ruPWgzkcTa) | [HARU](https://open.spotify.com/artist/3cR6bND96I3hsUFvymOM8A) | [Show Window : The Queen's House Part.2](https://open.spotify.com/album/4rJQnh1YlWW275NVDx21ln) | 3:45 | 2021-12-10 | 2022-04-16 |
 | [farewell](https://open.spotify.com/track/5hA75OHYKyPHy4kgeweYdN) | [kennytheking](https://open.spotify.com/artist/4693A2I2TyU25cJJLJXgYS) | [farewell](https://open.spotify.com/album/3eTH3qFWitLWTLh8iRNrOd) | 2:39 | 2023-02-14 | 2023-02-25 |
-| [Favorite Things](https://open.spotify.com/track/0rRoduSihSovRXNUSL4K01) | [Bok Dajin](https://open.spotify.com/artist/3CHmUAP0mBZtBzCMXKQ4Lx) | [Favorite Things](https://open.spotify.com/album/3AtZHZXImr6t1OatiMH19Z) | 3:08 | 2024-12-05 |  |
+| [Favorite Things](https://open.spotify.com/track/0rRoduSihSovRXNUSL4K01) | [Bok Dajin](https://open.spotify.com/artist/3CHmUAP0mBZtBzCMXKQ4Lx) | [Favorite Things](https://open.spotify.com/album/3AtZHZXImr6t1OatiMH19Z) | 3:08 | 2024-12-05 | 2025-06-03 |
 | [figure8](https://open.spotify.com/track/0NX3sVBBiOqL0nprLHTeT0) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [dopamine](https://open.spotify.com/album/7FOdOoz6j0vcY8UlIbft76) | 3:49 | 2024-06-19 | 2024-09-03 |
 | [Fine](https://open.spotify.com/track/4QaqH8QPjz88z79Vo8tpEc) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Fine](https://open.spotify.com/album/2KKDysbROKOvoGMokZADLZ) | 4:11 | 2022-02-18 | 2022-04-20 |
 | [Fine](https://open.spotify.com/track/6CdUgvL597jWmW4w8P5kHs) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [My Voice \- The 1st Album](https://open.spotify.com/album/6DlCl3hBP1Gwhn0tgitGfN) | 3:29 | 2021-12-10 |  |
@@ -287,7 +287,7 @@
 | [Love U \(feat\. J\_ust\)](https://open.spotify.com/track/4Umuqgh54N3EsC9G1ChxVc) | [Who R U?](https://open.spotify.com/artist/0raZp61hFiFlRDWtEqX1HK), [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [Daily](https://open.spotify.com/album/5r4renU9S9JbftT1CC8IfV) | 4:22 | 2022-01-13 | 2022-07-09 |
 | [Love Won't Let Me Be 사랑하고 사랑하며 또 사랑을 하네](https://open.spotify.com/track/4SWki9wQIvFyyzoEu9ye3T) | [OGon](https://open.spotify.com/artist/3MXhVdiw3Cl3EP66WoPEha) | [Love Won't Let Me Be 사랑하고 사랑하며 또 사랑을 하네](https://open.spotify.com/album/0o5tn8fdskeD9nrx0eYJ5A) | 3:41 | 2022-03-31 | 2022-04-12 |
 | [Love, Maybe \(Acoustic Ver.\)](https://open.spotify.com/track/3V2fMXzPJLkIQyRgwOLgip) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [Love, Maybe \(A Business Proposal OST Bonus Track\)](https://open.spotify.com/album/7I3EMy3n72e6ABSq4Ubhoz) | 2:51 | 2022-04-12 |  |
-| [Loveless Night](https://open.spotify.com/track/3D51P7X8MO6G6YaynJsprB) | [KWON SOON IL](https://open.spotify.com/artist/1e7AZDBG64lv62iUtQ6nTf) | [Twinkling Watermelon \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/1uPd7ZyJe84CbFHoNco4ne) | 4:17 | 2023-11-10 | 2025-05-30 |
+| [Loveless Night](https://open.spotify.com/track/3D51P7X8MO6G6YaynJsprB) | [KWON SOON IL](https://open.spotify.com/artist/1e7AZDBG64lv62iUtQ6nTf) | [Twinkling Watermelon \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/1uPd7ZyJe84CbFHoNco4ne) | 4:17 | 2023-11-10 |  |
 | [lueur](https://open.spotify.com/track/2C74IomQPvdPBkMXyGGbiW) | [Kim Hyunchang](https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB) | [souhait](https://open.spotify.com/album/5gikxLdFWi2K2hpVlhseXE) | 4:22 | 2025-05-28 |  |
 | [Making Memories](https://open.spotify.com/track/6WhLfYQ0pPKOVPBLE0B99M) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [the late Kim Hyun\-sik's 30th Anniversary Memorial Album "Making Memories" Part 4](https://open.spotify.com/album/7wU4uoS5zUzkQeXe10sxI3) | 4:28 | 2022-03-31 | 2022-04-21 |
 | [Malibu Orange](https://open.spotify.com/track/2mFRIZpQVeTRLDIuspIj66) | [Park So Eun](https://open.spotify.com/artist/20gFWTh2tofhLIjyn2fHeG) | [Malibu Orange](https://open.spotify.com/album/5IwfAOlbbLtXQeYsd74Ds4) | 2:22 | 2022-04-12 | 2022-04-15 |

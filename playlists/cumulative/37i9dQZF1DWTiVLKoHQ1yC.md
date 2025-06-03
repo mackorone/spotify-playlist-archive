@@ -4,7 +4,7 @@
 
 > Come alive with this progressive & melodic house selection.
 
-288 songs - 19 hr 45 min
+289 songs - 19 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [Love Is Enough](https://open.spotify.com/track/0gET2J2Mq8ym97aOSffW1P) | [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR), [Sue McLaren](https://open.spotify.com/artist/7AzAtQ0LFRXazvHMDx620D) | [Love Is Enough](https://open.spotify.com/album/2CqlLD4Ho2MmE4HV4UNryN) | 2:56 | 2024-04-05 | 2024-06-21 |
 | [Love Loud](https://open.spotify.com/track/3DGlzGu8B8YE0Eklb4QIdG) | [Ciaran McAuley](https://open.spotify.com/artist/4tTgD3KLaNlHg2nxAgGaRi), [Ciaran McAuley presents Elï](https://open.spotify.com/artist/0mD8WnekMqwZfNT3s5CwCp) | [Love Loud](https://open.spotify.com/album/7ofobncYCierBbrI0Gmo5x) | 2:54 | 2024-03-01 | 2024-03-15 |
 | [Love You Got](https://open.spotify.com/track/6Fn0PW0rmdTQ3jbpynyGIu) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [Love You Got](https://open.spotify.com/album/4JBhIRt38otXkigmi7w8YG) | 4:33 | 2024-07-11 | 2025-02-14 |
+| [Love’s A Game](https://open.spotify.com/track/0ytQmrJaRbb6Ogw1C55sV5) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Love’s A Game](https://open.spotify.com/album/0OuwtqtwwnHQRwwwJ2Kdcd) | 3:26 | 2025-05-29 |  |
 | [Lungs](https://open.spotify.com/track/7ooSRbTulJUUtatq4pl80X) | [Artche](https://open.spotify.com/artist/75urDDpUkt0jMdQgVx3XFV) | [Lungs](https://open.spotify.com/album/5zgVbEqb773OX6liiiZ7Ap) | 6:43 | 2022-01-14 | 2023-08-16 |
 | [Manaya](https://open.spotify.com/track/4acEjzjiCG8CFaQSw7BZ1J) | [Trance Wax](https://open.spotify.com/artist/28Rn5KfDspTUHLpPfPF8EE) | [Beul Un Latha](https://open.spotify.com/album/33aIxvWUZEkt5y6bHRGrqA) | 3:25 | 2022-01-14 | 2022-07-29 |
 | [Martin](https://open.spotify.com/track/6o9cf8uFietnTZLtSGCvHH) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Bloom](https://open.spotify.com/album/57OLEpkhCXysV9FWrSbwid) | 3:49 | 2024-10-24 |  |
@@ -221,7 +222,7 @@
 | [See You In Dreams](https://open.spotify.com/track/3Qpu1wWIAot60NJc2gbUUW) | [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs), [Be No Rain](https://open.spotify.com/artist/0ToTNYPspLv4FWbcpXgOUt) | [See You In Dreams](https://open.spotify.com/album/3C3KUYrEI6XYlwf0n4h2Wz) | 4:31 | 2024-07-05 | 2024-09-29 |
 | [Sehnsucht](https://open.spotify.com/track/7MtWt7agVZGngXRPhH7E9u) | [Purple Schulz](https://open.spotify.com/artist/4hT1uhDdszqVZRRBuDw1aO), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV), [YORK](https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q) | [Sehnsucht](https://open.spotify.com/album/7pEY3B2tKY9KjYmJ1EwkUf) | 3:56 | 2024-03-15 | 2024-05-12 |
 | [Selbst](https://open.spotify.com/track/0J6O7RnXKPtkMXy5xknwT3) | [Herr Lang](https://open.spotify.com/artist/1QWAUgdcriLwIL5o0ZT0b5) | [Home](https://open.spotify.com/album/6b510MW2DE4m6icWc4AOOP) | 5:23 | 2022-01-14 | 2024-02-23 |
-| [Seventeen](https://open.spotify.com/track/7JWcNzIEvT4YIS0hplWZBs) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [YOTTO](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [White Lies](https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910) | [Seventeen](https://open.spotify.com/album/18n4STVyi9RQAlFSYINDf3) | 3:23 | 2025-04-03 |  |
+| [Seventeen](https://open.spotify.com/track/7JWcNzIEvT4YIS0hplWZBs) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [YOTTO](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [White Lies](https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910) | [Seventeen](https://open.spotify.com/album/18n4STVyi9RQAlFSYINDf3) | 3:23 | 2025-04-03 | 2025-06-03 |
 | [Shallow Water](https://open.spotify.com/track/74gSgOTNzmotJKcyKRpjom) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Shallow Water](https://open.spotify.com/album/4cMVEtKn0ikqpYrHpHq89w) | 3:22 | 2024-07-05 |  |
 | [Shimmer](https://open.spotify.com/track/7AbYGhAapbr9yxFe6IycxR) | [Kyau & Albert](https://open.spotify.com/artist/0pyi4vNCq5T6GgV1rt7ncc) | [Shimmer](https://open.spotify.com/album/3fuaGLXhZvnGJKd2HfOLev) | 3:10 | 2022-01-14 | 2023-04-16 |
 | [Shiver](https://open.spotify.com/track/1ls2PNiOHOxmSfHRyslgAl) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Shiver](https://open.spotify.com/album/1mJnSN0jQDklAu7SoSF8Vs) | 3:54 | 2024-02-16 | 2024-10-25 |

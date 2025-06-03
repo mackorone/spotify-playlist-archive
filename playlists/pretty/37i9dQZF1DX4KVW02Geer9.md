@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KVW02Geer9.md) - [plain]
 
 > クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: Joe Armon\-Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,209 likes - 77 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,218 likes - 77 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

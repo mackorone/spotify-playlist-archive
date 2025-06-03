@@ -3918,7 +3918,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-02",
+      "date_removed": null,
       "duration_ms": 91466,
       "name": "BRR BRR PATAPIM FUNK",
       "url": "https://open.spotify.com/track/3F0tBEiEV4TeU1SPHqso7M"
@@ -4458,7 +4458,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 180533,
       "name": "Canto A La Madre - Tema Remasterizado",
       "url": "https://open.spotify.com/track/0ON1eJLbEYcRAP6ofjUw0r"
@@ -10680,7 +10680,7 @@
       ],
       "date_added": "2025-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 194000,
       "name": "Goodbye My Baby",
       "url": "https://open.spotify.com/track/4qULsv8t3CLDbHHU4cimpU"
@@ -11586,7 +11586,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 145696,
       "name": "Hit the Ground",
       "url": "https://open.spotify.com/track/7wAuksvJErTLz0OHTDJPIa"
@@ -13852,7 +13852,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 195892,
       "name": "Limonar",
       "url": "https://open.spotify.com/track/5A0BHKTVDwtO2X20EDiZlG"
@@ -16704,7 +16704,7 @@
       ],
       "date_added": "2025-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-26",
+      "date_removed": null,
       "duration_ms": 170650,
       "name": "MONTAGEM ALUCINANTE",
       "url": "https://open.spotify.com/track/62JWbd7wXwfHTVOA8lSoSF"
@@ -18405,6 +18405,28 @@
     },
     {
       "album": {
+        "name": "suburban daredevil",
+        "url": "https://open.spotify.com/album/16g3MJk9OmtNXwRrrPMPUK"
+      },
+      "artists": [
+        {
+          "name": "wifiskeleton",
+          "url": "https://open.spotify.com/artist/0TvvDswOgvPbgSPK2RDf62"
+        },
+        {
+          "name": "i wanna be a jack-o-lantern",
+          "url": "https://open.spotify.com/artist/2kU94AZG0xEVKnOUKDbEfg"
+        }
+      ],
+      "date_added": "2025-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90067,
+      "name": "Nope your too late i already died",
+      "url": "https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G"
+    },
+    {
+      "album": {
         "name": "Nossas Fotos",
         "url": "https://open.spotify.com/album/3aVb56y4Uwa70qqEnlq4yi"
       },
@@ -19164,6 +19186,14 @@
         {
           "name": "Scythermane",
           "url": "https://open.spotify.com/artist/5dDNNq04RjKXFOADdHd6VX"
+        },
+        {
+          "name": "NXGHT!",
+          "url": "https://open.spotify.com/artist/7lAaAGxYxk2GH8cMbTEwAL"
+        },
+        {
+          "name": "DJ DYLANFK",
+          "url": "https://open.spotify.com/artist/26COCLBHY0CCqCbSlIKWee"
         },
         {
           "name": "KGJ",
@@ -30462,7 +30492,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-01",
+      "date_removed": null,
       "duration_ms": 228099,
       "name": "Your Body",
       "url": "https://open.spotify.com/track/1NKjc6bRHutPoaVtYclFC3"

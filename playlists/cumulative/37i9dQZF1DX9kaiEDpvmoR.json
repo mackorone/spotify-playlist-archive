@@ -995,6 +995,28 @@
     },
     {
       "album": {
+        "name": "Dear Mr. President",
+        "url": "https://open.spotify.com/album/7aeMGFb5gjcRucCgWo0Edz"
+      },
+      "artists": [
+        {
+          "name": "M\u00c4KI",
+          "url": "https://open.spotify.com/artist/12VNlem2IOoPA01BYFoWBa"
+        },
+        {
+          "name": "Anders Bagge",
+          "url": "https://open.spotify.com/artist/7MgeBZ2pgnnkISLd8wsn0T"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216355,
+      "name": "Dear Mr. President",
+      "url": "https://open.spotify.com/track/01jqIjPTEGfl1WszmcTofg"
+    },
+    {
+      "album": {
         "name": "Dekadens",
         "url": "https://open.spotify.com/album/1cn8W6KWoiDuEnb2TYCyIJ"
       },
@@ -1898,6 +1920,24 @@
       "duration_ms": 239173,
       "name": "Fading Like A Rose (Original +2 bpm)",
       "url": "https://open.spotify.com/track/3TbqYPh4PhmpP7zQYt8iRq"
+    },
+    {
+      "album": {
+        "name": "Fait Accompli",
+        "url": "https://open.spotify.com/album/4T8T9Kx1tC96ltSpDzeyYt"
+      },
+      "artists": [
+        {
+          "name": "Mariette",
+          "url": "https://open.spotify.com/artist/76nW12AUcUVEiC8fwFoAns"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Fait Accompli",
+      "url": "https://open.spotify.com/track/1UOcJZoRbbYwC874JFZo0f"
     },
     {
       "album": {
@@ -5170,7 +5210,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 257454,
       "name": "Ser du m\u00e5nen d\u00e4r du \u00e4r ikv\u00e4ll",
       "url": "https://open.spotify.com/track/6LDQVt0SBoqGSEkov9tD3q"
@@ -5318,7 +5358,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 271435,
       "name": "Sl\u00e5 upp dina f\u00f6nster (musik f\u00f6r sorgfyllda br\u00f6st)",
       "url": "https://open.spotify.com/track/5puE0tlsaUSm5zxqBc8mkl"

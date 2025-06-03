@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDpGgAAAAAADz9xtl7ufyUMzpres8UXj",
+  "snapshot_id": "aDuYAAAAAADtQJY+YV3dSvQYq1sIbues",
   "tracks": [
     {
       "added_at": null,
@@ -174,11 +174,19 @@
         {
           "name": "Irv Gotti",
           "url": "https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF"
+        },
+        {
+          "name": "D.O. Cannons",
+          "url": "https://open.spotify.com/artist/0goZfLP9o3cMDjawhuYfI5"
+        },
+        {
+          "name": "Young Merc",
+          "url": "https://open.spotify.com/artist/6RdgFuRxWjCYZZzUKjFJBG"
         }
       ],
-      "duration_ms": 42826,
-      "name": "Boss - Skit",
-      "url": "https://open.spotify.com/track/2x81bnQVQEqhV0IWIbsMQk"
+      "duration_ms": 236680,
+      "name": "Hard Livin'",
+      "url": "https://open.spotify.com/track/7Ekfi0norL9U3umpqrBmXo"
     },
     {
       "added_at": null,
@@ -250,19 +258,11 @@
         {
           "name": "Irv Gotti",
           "url": "https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF"
-        },
-        {
-          "name": "D.O. Cannons",
-          "url": "https://open.spotify.com/artist/0goZfLP9o3cMDjawhuYfI5"
-        },
-        {
-          "name": "Young Merc",
-          "url": "https://open.spotify.com/artist/6RdgFuRxWjCYZZzUKjFJBG"
         }
       ],
-      "duration_ms": 236680,
-      "name": "Hard Livin'",
-      "url": "https://open.spotify.com/track/7Ekfi0norL9U3umpqrBmXo"
+      "duration_ms": 42826,
+      "name": "Boss - Skit",
+      "url": "https://open.spotify.com/track/2x81bnQVQEqhV0IWIbsMQk"
     },
     {
       "added_at": null,

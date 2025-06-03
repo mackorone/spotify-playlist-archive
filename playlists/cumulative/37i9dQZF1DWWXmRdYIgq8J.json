@@ -150,7 +150,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 224966,
       "name": "Balkissoon",
       "url": "https://open.spotify.com/track/2tx8gLbf1Iy7GbgV6vFl57"
@@ -1129,6 +1129,32 @@
     },
     {
       "album": {
+        "name": "Hot Up (Marc Farfan Roadmix)",
+        "url": "https://open.spotify.com/album/5KtPF2i3l4FjLoIIeKlAQe"
+      },
+      "artists": [
+        {
+          "name": "Ravi B",
+          "url": "https://open.spotify.com/artist/6r9ZI8cFoP2cbszW50tdJj"
+        },
+        {
+          "name": "Yung Bredda",
+          "url": "https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL"
+        },
+        {
+          "name": "Marc Marfan",
+          "url": "https://open.spotify.com/artist/0BnTr459qNonFoeEOsCEmS"
+        }
+      ],
+      "date_added": "2025-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180895,
+      "name": "Hot Up - Marc Farfan Roadmix",
+      "url": "https://open.spotify.com/track/434mGAieof1vAHaiKmOCKr"
+    },
+    {
+      "album": {
         "name": "Gangs Of Wasseypur",
         "url": "https://open.spotify.com/album/5lOKYvuSy6buolqIHSUwpG"
       },
@@ -1177,6 +1203,24 @@
     },
     {
       "album": {
+        "name": "I will never",
+        "url": "https://open.spotify.com/album/6D6iPF4XKRayqMGV4W5qrN"
+      },
+      "artists": [
+        {
+          "name": "Tony Cuttz",
+          "url": "https://open.spotify.com/artist/1RKtqg73XAszkc4ueaWLKU"
+        }
+      ],
+      "date_added": "2025-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209684,
+      "name": "I will never",
+      "url": "https://open.spotify.com/track/1Z52ZHbHD6jFaDyMHdnXiH"
+    },
+    {
+      "album": {
         "name": "Soca Gold 2013",
         "url": "https://open.spotify.com/album/5IUSWCDg7mjjflea2V86mC"
       },
@@ -1214,7 +1258,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 202080,
       "name": "Indian Gyal",
       "url": "https://open.spotify.com/track/0Gwrr6kSMTbKoDhyNZPgY0"
@@ -1538,7 +1582,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 201163,
       "name": "Legend",
       "url": "https://open.spotify.com/track/6e5mgv3aosMtxjI15UssZp"
@@ -1788,7 +1832,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 264440,
       "name": "Omere",
       "url": "https://open.spotify.com/track/3tFQKzmd075MoWRYzph1pN"
@@ -2131,6 +2175,24 @@
     },
     {
       "album": {
+        "name": "Take Me Higher",
+        "url": "https://open.spotify.com/album/3ii1WYdMsi8rgRAItvItAJ"
+      },
+      "artists": [
+        {
+          "name": "Savita Singh",
+          "url": "https://open.spotify.com/artist/41QsX79zGwzoMh8CnPG6Lp"
+        }
+      ],
+      "date_added": "2025-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185760,
+      "name": "Take Me Higher",
+      "url": "https://open.spotify.com/track/5JGsCNlb8iYkbT7mowcbAe"
+    },
+    {
+      "album": {
         "name": "Karmageddon",
         "url": "https://open.spotify.com/album/7IvdAbaAIemMYVDljaCiEc"
       },
@@ -2252,6 +2314,24 @@
       "duration_ms": 283440,
       "name": "Tu tani se lage hai",
       "url": "https://open.spotify.com/track/00vleY8Bli2zfCLsmBjb6B"
+    },
+    {
+      "album": {
+        "name": "Vitamin D",
+        "url": "https://open.spotify.com/album/6eUo0npwgBpo0cKQ7XtiOK"
+      },
+      "artists": [
+        {
+          "name": "Yung Bredda",
+          "url": "https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL"
+        }
+      ],
+      "date_added": "2025-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170769,
+      "name": "Vitamin D",
+      "url": "https://open.spotify.com/track/2ayBxvV8lstsAY0grHVc4q"
     },
     {
       "album": {

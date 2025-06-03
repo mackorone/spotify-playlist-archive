@@ -1,6 +1,6 @@
 {
   "description": "Experience the lastest and the greatest Worship music right here, right now. Cover:  SEU Worship",
-  "num_followers": 1030903,
+  "num_followers": 1030880,
   "original_name": "WorshipNow",
   "owner": {
     "name": "Spotify",
@@ -212,6 +212,10 @@
       },
       "artists": [
         {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
           "name": "Austin Johnson",
           "url": "https://open.spotify.com/artist/2BPfjNofqF1uBvxJ3kUTbO"
         },
@@ -222,10 +226,6 @@
         {
           "name": "Hannah Waters",
           "url": "https://open.spotify.com/artist/4ikD0yzW2w4xoY6xBla98L"
-        },
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         }
       ],
       "duration_ms": 577170,

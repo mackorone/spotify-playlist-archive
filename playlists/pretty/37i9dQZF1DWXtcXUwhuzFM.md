@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musiikkia Gaselleilta & Karri Koiralta, ABREUlta & Biziltä, Costilta, Beeltä ja monelta muulta!
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,173 likes - 105 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,170 likes - 105 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

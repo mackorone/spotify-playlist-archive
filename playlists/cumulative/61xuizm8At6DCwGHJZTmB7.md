@@ -4,7 +4,7 @@
 
 > Top Christian Worship 2025 \| Happy Easter 2025! Praise and Worship with today's top Worship tracks\. From Bible study to Sunday Morning Worship\. Featuring artist's like Chris Tomlin, Kari Jobe, Cody Carnes and Benjamin William Hastings! Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>
 
-616 songs - 2 day 11 hr 52 min
+617 songs - 2 day 11 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [Fear of God ∞](https://open.spotify.com/track/27GcUxI5ScpItTrA82fwSD) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [INFINITY](https://open.spotify.com/album/026YDYCcrzKoCrELvYR1ZM) | 4:33 | 2024-08-09 |  |
 | [Feet Of Jesus \- Live](https://open.spotify.com/track/7qFFLnZWMwWfPz7a48rfD9) | [Legacy Nashville](https://open.spotify.com/artist/0z4zqQUZicpUdBmnLRvFje), [Brian Nhira](https://open.spotify.com/artist/7D9JzM95gIe11f6L3h1w1L) | [Feet Of Jesus](https://open.spotify.com/album/1VASykZhXp5GVqqaGefALC) | 5:13 | 2024-02-23 | 2024-03-02 |
 | [Fight Like Heaven \- Live](https://open.spotify.com/track/5T2VAEWGNEn9jTYWybdx98) | [Open Heaven](https://open.spotify.com/artist/5mCCAerun72aycTarMpOYw) | [Fight Like Heaven \(Live\)](https://open.spotify.com/album/2spilxwgXTY5KhbkUumcSU) | 6:08 | 2024-03-04 | 2024-09-10 |
+| [Fill The Room](https://open.spotify.com/track/1L4QH0PU87Pqg1tvcuj2xA) | [Michael Bethany](https://open.spotify.com/artist/6leYBoSGoXZllPhCTjKtQe), [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [Fill The Room](https://open.spotify.com/album/0j7zShoDhCDIveyQstr8o3) | 5:46 | 2025-06-02 |  |
 | [Fill The Room \- Live](https://open.spotify.com/track/6tuoiqr1a8soQQmXtCfuAy) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Michael Bethany](https://open.spotify.com/artist/6leYBoSGoXZllPhCTjKtQe), [KJ Scriven](https://open.spotify.com/artist/7z6VyUifcnT3j1q6i9UZLC) | [Fill The Room \(Live\)](https://open.spotify.com/album/40QzUvVGbFbJEwLI49aTPl) | 7:00 | 2023-08-25 | 2023-12-14 |
 | [Fill The Room \- Live](https://open.spotify.com/track/2fPHMY0y9v8liK2WLbm60r) | [Michael Bethany](https://open.spotify.com/artist/6leYBoSGoXZllPhCTjKtQe) | [Overflow \(Live\)](https://open.spotify.com/album/34ySYJ3ZOxIi3PFoydDpJi) | 10:14 | 2023-06-30 | 2024-04-19 |
 | [Firm Foundation \(He Won't\)](https://open.spotify.com/track/4Pk1GDnV9cTAx2gs3bJX9V) | [Maranatha! Music](https://open.spotify.com/artist/67OFzndMlzj7cDF2BqnwYe) | [Firm Foundation \(He Won't\)](https://open.spotify.com/album/4xoabnZnUHQDAWZJ5f0oZl) | 5:24 | 2022-06-10 | 2022-12-02 |

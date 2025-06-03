@@ -1,12 +1,12 @@
 {
   "description": "This is Dharius. The essential tracks, all in one playlist.",
-  "num_followers": 122576,
+  "num_followers": 122582,
   "original_name": "This Is Dharius",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDpGgAAAAABTK8AH1b8fdeCI8SGUdgu5",
+  "snapshot_id": "aDuYAAAAAABlwheKE75odooKHcM2FnFN",
   "tracks": [
     {
       "added_at": null,
@@ -935,30 +935,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Misi\u00f3n (Episodio 4)",
-        "url": "https://open.spotify.com/album/5TzgFVuMKUDiyYPtMiX66e"
-      },
-      "artists": [
-        {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-        },
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "name": "Tiro Loko",
-          "url": "https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx"
-        }
-      ],
-      "duration_ms": 293325,
-      "name": "La Misi\u00f3n (Episodio 4)",
-      "url": "https://open.spotify.com/track/3TAzpSBGCZvFe3XuHevWoW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oro en la Medalla",
         "url": "https://open.spotify.com/album/7ldWaPET5zr62xHpJCVZWO"
       },
@@ -979,6 +955,30 @@
       "duration_ms": 155700,
       "name": "Oro en la Medalla",
       "url": "https://open.spotify.com/track/2TYVh81Hg2FyNq8MRkTd5H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Misi\u00f3n (Episodio 4)",
+        "url": "https://open.spotify.com/album/5TzgFVuMKUDiyYPtMiX66e"
+      },
+      "artists": [
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "Tiro Loko",
+          "url": "https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx"
+        }
+      ],
+      "duration_ms": 293325,
+      "name": "La Misi\u00f3n (Episodio 4)",
+      "url": "https://open.spotify.com/track/3TAzpSBGCZvFe3XuHevWoW"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 
 > Enjoy the folk from Punjab\. Cover: Gurdas Maan
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,695 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,703 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 | 13 | [Kut Kut Bajra](https://open.spotify.com/track/6fmbKu5CWedYNefsiT9CcE) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Kut Kut Bajra](https://open.spotify.com/album/0jsdirkN0wv9O1DFb5xp93) | 2:35 |
 | 14 | [Gidda](https://open.spotify.com/track/6yAhxwmFN24AlXxloASVD6) | [Satwant Kaur](https://open.spotify.com/artist/3q3BQzCBV9zDEC2KouwmP4), [Kudrat Kaur](https://open.spotify.com/artist/2AS8kPljekqO3AMBJylyop) | [Darra \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/12PVaEbyDEXApwa2DJvEn1) | 5:58 |
 | 15 | [Ik Jogi aa Gya](https://open.spotify.com/track/2rk1APwyNw3H0BmfiONgyu) | [Arash Riaz](https://open.spotify.com/artist/42fD5qdpYX9oe3MD7wByhf), [Parwaaz Gill](https://open.spotify.com/artist/5jmBUt1mJQmrCriEgOJSFM), [Karanvir Klair](https://open.spotify.com/artist/7eCmvzU59pXo2zmjAlcRFz) | [Ik Jogi aa Gya](https://open.spotify.com/album/4m5xMq1O6qZVU35zIcUDxi) | 4:46 |
-| 16 | [Yaar Da Deedar](https://open.spotify.com/track/4O80V1njTN0UR7zOoAPcMz) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl), [Farasat Anees](https://open.spotify.com/artist/05miC2ndfE3ZyZ7xCMnZzm), [Toshi](https://open.spotify.com/artist/3oa0mere2rG4b7cdsX7SFv), [HAVI](https://open.spotify.com/artist/3P8ZD2X9kQJfeVcjr3GLP4) | [Yaar Da Deedar](https://open.spotify.com/album/1kmdcWwbSifyKdDBHPLu2O) | 2:43 |
-| 17 | [Sajna Ve Sajna](https://open.spotify.com/track/4eIOdicpfNZq1CHTD6U2BW) | [Gurdas Maan](https://open.spotify.com/artist/3ttzOzBpRWRBzhn6thqhdT) | [Gurdas Maan Hits](https://open.spotify.com/album/33JWCJhCr7UJMa3UZbeNeJ) | 6:22 |
+| 16 | [Sajna Ve Sajna](https://open.spotify.com/track/4eIOdicpfNZq1CHTD6U2BW) | [Gurdas Maan](https://open.spotify.com/artist/3ttzOzBpRWRBzhn6thqhdT) | [Gurdas Maan Hits](https://open.spotify.com/album/33JWCJhCr7UJMa3UZbeNeJ) | 6:22 |
+| 17 | [Yaar Da Deedar](https://open.spotify.com/track/4O80V1njTN0UR7zOoAPcMz) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl), [Farasat Anees](https://open.spotify.com/artist/05miC2ndfE3ZyZ7xCMnZzm), [Toshi](https://open.spotify.com/artist/3oa0mere2rG4b7cdsX7SFv), [HAVI](https://open.spotify.com/artist/3P8ZD2X9kQJfeVcjr3GLP4) | [Yaar Da Deedar](https://open.spotify.com/album/1kmdcWwbSifyKdDBHPLu2O) | 2:43 |
 | 18 | [SADAY TAN WERAY STAGE MIX](https://open.spotify.com/track/7viVJ6GFyi2pQlF3LaGMSK) | [Fahad Hussayn](https://open.spotify.com/artist/0p3VEKw41HS3eN9Ox8UbyE), [Manwa Sisters](https://open.spotify.com/artist/4cTJlFl12X2yS9ZVVQRoqs) | [SADAY TAN WERAY STAGE MIX](https://open.spotify.com/album/7K0uJSqy656c7kYprr9lAm) | 4:24 |
 | 19 | [Duma Dum Mast Qalandar](https://open.spotify.com/track/02c0dOVxkBAHXP8nxFsgKB) | [Hans Raj Hans](https://open.spotify.com/artist/7967TUOaS203OMlBrsHS8X) | [The Best of Hans Raj Hans](https://open.spotify.com/album/2IWlYsJ3zRA2umEAYccWtK) | 8:52 |
 | 20 | [Kala Dooria](https://open.spotify.com/track/2IvSrdat1OK4xMArwWEWyt) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC), [Prakash Kaur](https://open.spotify.com/artist/51te2iwubcXb5dKxUxpWkh) | [Virasat\-E\-Punjab, Vol\. 1](https://open.spotify.com/album/7BLztbcJkDA2UvmCsrU7fW) | 2:59 |

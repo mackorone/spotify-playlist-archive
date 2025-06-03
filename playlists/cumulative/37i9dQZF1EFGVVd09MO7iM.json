@@ -2946,7 +2946,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-01",
+      "date_removed": null,
       "duration_ms": 230803,
       "name": "Chella Ride - EP Version",
       "url": "https://open.spotify.com/track/6K87YSk3Ut5Qqx9Aqaagut"
@@ -4480,7 +4480,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 201386,
       "name": "Edibles (feat. T.I.)",
       "url": "https://open.spotify.com/track/26ZpMFioXWuHehA1bhU6Zc"
@@ -7109,6 +7109,24 @@
     },
     {
       "album": {
+        "name": "Nothing (Deluxe Explicit Version)",
+        "url": "https://open.spotify.com/album/1yy1UWlWsmbOJzQmcHlMyx"
+      },
+      "artists": [
+        {
+          "name": "N.E.R.D",
+          "url": "https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi"
+        }
+      ],
+      "date_added": "2025-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247920,
+      "name": "Help Me",
+      "url": "https://open.spotify.com/track/1ul72Mbytb5rHabdu3OY7V"
+    },
+    {
+      "album": {
         "name": "Born 2 Rap",
         "url": "https://open.spotify.com/album/4UFn9Lp48TeDrdOmIEKQDV"
       },
@@ -7124,7 +7142,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 138183,
       "name": "Help Me - Interlude",
       "url": "https://open.spotify.com/track/6RRa3GBgI0navRIE7IDce4"
@@ -10390,7 +10408,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-03",
       "duration_ms": 234093,
       "name": "Lil Homie",
       "url": "https://open.spotify.com/track/616qr0MI4Jsen5kNNrwdH4"

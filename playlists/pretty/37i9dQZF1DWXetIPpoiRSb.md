@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 
 > pop music will never be low brow ≠ cover: lorde
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,118 likes - 80 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,069 likes - 80 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Man Of The Year](https://open.spotify.com/track/1hoeP1oPYlhcv6iRCtB7pT) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Man Of The Year](https://open.spotify.com/album/1QSIGmlbg2zqpGbWXJNJeW) | 3:00 |
-| 2 | [Marianne](https://open.spotify.com/track/0SE3l5jJOpGxqXqvT3fkhS) | [Eli](https://open.spotify.com/artist/3z4L3novn4XHxQiHUsoCqP) | [Marianne](https://open.spotify.com/album/0ucvu4XHxscTNmujLfQTQs) | 3:10 |
+| 2 | [Marianne](https://open.spotify.com/track/0SE3l5jJOpGxqXqvT3fkhS) | [Eli](https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1) | [Marianne](https://open.spotify.com/album/0ucvu4XHxscTNmujLfQTQs) | 3:10 |
 | 3 | [Heartbreak](https://open.spotify.com/track/0d0NQXUrO7WnlUvN2clj69) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Plæygirl](https://open.spotify.com/album/7gT1PWuFHJMn0gFxHKZROu) | 3:06 |
 | 4 | [Fame is a Gun](https://open.spotify.com/track/1c2AFg2WpURtpsOTMr6ZBX) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Fame is a Gun](https://open.spotify.com/album/3SbgH2k3eJ6dPqAhbTBFzm) | 3:03 |
 | 5 | [January 19](https://open.spotify.com/track/2iOIngyjdy2L7qONMfTHeD) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [January 19](https://open.spotify.com/album/28jjDEKDaLJW6ZT2FkVuZa) | 2:35 |

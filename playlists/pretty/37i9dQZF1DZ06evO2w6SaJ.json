@@ -1,12 +1,12 @@
 {
   "description": "This is Crazy Town. The essential tracks, all in one playlist.",
-  "num_followers": 6501,
+  "num_followers": 6502,
   "original_name": "This Is Crazy Town",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDpGgAAAAABhVsmtZvUVHMBCBlQ5FLpG",
+  "snapshot_id": "aDuYAAAAAAC6v3EHzlc0L443kUMQc0y2",
   "tracks": [
     {
       "added_at": null,
@@ -244,13 +244,17 @@
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         },
         {
-          "name": "Fann",
-          "url": "https://open.spotify.com/artist/45R5D1DlUbEW43Q1OHA3ft"
+          "name": "J. Angel",
+          "url": "https://open.spotify.com/artist/2Ntv9L9Iq5ExDIPxSkcfWP"
+        },
+        {
+          "name": "DJ Am",
+          "url": "https://open.spotify.com/artist/073pd2NojHfYRNGOFUQEmN"
         }
       ],
-      "duration_ms": 189893,
-      "name": "Baby You Don't Know",
-      "url": "https://open.spotify.com/track/347222YpEP2tSehBnN8b3T"
+      "duration_ms": 212306,
+      "name": "Born to Raise Hell",
+      "url": "https://open.spotify.com/track/0dKYukgkmv37SebbuUE6YJ"
     },
     {
       "added_at": null,
@@ -316,17 +320,13 @@
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         },
         {
-          "name": "J. Angel",
-          "url": "https://open.spotify.com/artist/2Ntv9L9Iq5ExDIPxSkcfWP"
-        },
-        {
-          "name": "DJ Am",
-          "url": "https://open.spotify.com/artist/073pd2NojHfYRNGOFUQEmN"
+          "name": "Fann",
+          "url": "https://open.spotify.com/artist/45R5D1DlUbEW43Q1OHA3ft"
         }
       ],
-      "duration_ms": 212306,
-      "name": "Born to Raise Hell",
-      "url": "https://open.spotify.com/track/0dKYukgkmv37SebbuUE6YJ"
+      "duration_ms": 189893,
+      "name": "Baby You Don't Know",
+      "url": "https://open.spotify.com/track/347222YpEP2tSehBnN8b3T"
     },
     {
       "added_at": null,
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         }
       ],
-      "duration_ms": 173773,
-      "name": "Waste of My Time",
-      "url": "https://open.spotify.com/track/41Siv7nwJP05nZZeSfHj5r"
+      "duration_ms": 196160,
+      "name": "Take It To The Bridge",
+      "url": "https://open.spotify.com/track/51pnpNaAkB5YWAXZhsW3Fh"
     },
     {
       "added_at": null,
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         }
       ],
-      "duration_ms": 196160,
-      "name": "Take It To The Bridge",
-      "url": "https://open.spotify.com/track/51pnpNaAkB5YWAXZhsW3Fh"
+      "duration_ms": 173773,
+      "name": "Waste of My Time",
+      "url": "https://open.spotify.com/track/41Siv7nwJP05nZZeSfHj5r"
     },
     {
       "added_at": null,

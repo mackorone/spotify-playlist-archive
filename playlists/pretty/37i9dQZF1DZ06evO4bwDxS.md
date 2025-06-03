@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bwDxS.md) - [plain]
 
 > This is Sabrina Carpenter\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 559,899 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 560,420 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bwDxS.md) - [plain]
 | 49 | [Hands](https://open.spotify.com/track/7ydN6k1pLu6GRJsJpFXnYu) | [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c), [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Hands](https://open.spotify.com/album/0VlO7qV6DhO0qyVrDOMpUn) | 2:46 |
 | 50 | [Take On the World \- Theme Song From "Girl Meets World"](https://open.spotify.com/track/5lz0NiPw32Gq4kMIUJvuw2) | [Rowan Blanchard](https://open.spotify.com/artist/45af7IeC0N5gQ9cyoIFyS6), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Take On the World \(Theme Song From "Girl Meets World"\)](https://open.spotify.com/album/2gfzrQkA6WzsX13kOhf3wU) | 3:12 |
 
-Snapshot ID: `aDpGgAAAAADGjSsZl0d9nzPS8oFZESb+`
+Snapshot ID: `aDuYAAAAAADQgD2EQKSVZstrK3dfK89D`

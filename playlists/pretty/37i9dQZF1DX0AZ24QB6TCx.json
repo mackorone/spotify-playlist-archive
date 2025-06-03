@@ -1,6 +1,6 @@
 {
   "description": "Relax with deep house and electronica.",
-  "num_followers": 318758,
+  "num_followers": 318774,
   "original_name": "Afterhours",
   "owner": {
     "name": "Spotify",
@@ -451,6 +451,22 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
+        "name": "Rosewood",
+        "url": "https://open.spotify.com/album/0jjMHsOQJzzRi3JpxiS5xj"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 242773,
+      "name": "Rosewood",
+      "url": "https://open.spotify.com/track/3MOhipHFUkGpS0rV7cKrJO"
+    },
+    {
+      "added_at": "2024-08-09 18:28:29",
+      "album": {
         "name": "Laika.",
         "url": "https://open.spotify.com/album/67BUFgh99F0rfnZOKrxPSP"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 180458,
       "name": "Laika.",
       "url": "https://open.spotify.com/track/3EA4UHJwQhkGDEoESpz0px"
-    },
-    {
-      "added_at": "2024-08-09 18:28:29",
-      "album": {
-        "name": "Rosewood",
-        "url": "https://open.spotify.com/album/0jjMHsOQJzzRi3JpxiS5xj"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 242773,
-      "name": "Rosewood",
-      "url": "https://open.spotify.com/track/3MOhipHFUkGpS0rV7cKrJO"
     },
     {
       "added_at": "2024-08-09 18:28:29",
@@ -715,6 +715,22 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
+        "name": "Moss",
+        "url": "https://open.spotify.com/album/0OTOcLpCVrU0eP90v8Zocc"
+      },
+      "artists": [
+        {
+          "name": "Duskus",
+          "url": "https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD"
+        }
+      ],
+      "duration_ms": 171470,
+      "name": "Moss",
+      "url": "https://open.spotify.com/track/2OVo7I9IuGruvsOj83jvtQ"
+    },
+    {
+      "added_at": "2024-08-09 18:28:29",
+      "album": {
         "name": "Carry On (EarthLife Remix)",
         "url": "https://open.spotify.com/album/5jgBumNN6nizRLyRDEqDh4"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 218789,
       "name": "Carry On - EarthLife Remix",
       "url": "https://open.spotify.com/track/5u0cZgMKrameRM0UsT1IxF"
-    },
-    {
-      "added_at": "2024-08-09 18:28:29",
-      "album": {
-        "name": "Moss",
-        "url": "https://open.spotify.com/album/0OTOcLpCVrU0eP90v8Zocc"
-      },
-      "artists": [
-        {
-          "name": "Duskus",
-          "url": "https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD"
-        }
-      ],
-      "duration_ms": 171470,
-      "name": "Moss",
-      "url": "https://open.spotify.com/track/2OVo7I9IuGruvsOj83jvtQ"
     },
     {
       "added_at": "2024-08-09 18:28:29",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
-        "name": "Three Drums",
-        "url": "https://open.spotify.com/album/6zPGFGI2VVFGbiGTlsI237"
-      },
-      "artists": [
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 495858,
-      "name": "Three Drums",
-      "url": "https://open.spotify.com/track/2FRIWWs5xxPoQrk5pMmsQN"
-    },
-    {
-      "added_at": "2024-08-09 18:28:29",
-      "album": {
         "name": "Madman",
         "url": "https://open.spotify.com/album/4WFXuTDpA77bBtWuv4t74a"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 448000,
       "name": "Madman",
       "url": "https://open.spotify.com/track/4LXl83AHAkdMVLWoFfKF31"
+    },
+    {
+      "added_at": "2024-08-09 18:28:29",
+      "album": {
+        "name": "Three Drums",
+        "url": "https://open.spotify.com/album/6zPGFGI2VVFGbiGTlsI237"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 495858,
+      "name": "Three Drums",
+      "url": "https://open.spotify.com/track/2FRIWWs5xxPoQrk5pMmsQN"
     },
     {
       "added_at": "2024-08-09 18:28:29",
@@ -1059,26 +1059,6 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
-        "name": "Serene",
-        "url": "https://open.spotify.com/album/73dpopJTXHYaGTNH5u2PJC"
-      },
-      "artists": [
-        {
-          "name": "M1NT",
-          "url": "https://open.spotify.com/artist/5gzGYECW5rYT6NccH5zZGL"
-        },
-        {
-          "name": "blnkspc_",
-          "url": "https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa"
-        }
-      ],
-      "duration_ms": 249806,
-      "name": "Serene",
-      "url": "https://open.spotify.com/track/0KNrPsq3ny0d7pfI4Ujl2s"
-    },
-    {
-      "added_at": "2024-08-09 18:28:29",
-      "album": {
         "name": "Some Type Of Skin",
         "url": "https://open.spotify.com/album/1kLM9sRXSaIxGRz18pE6DU"
       },
@@ -1095,6 +1075,26 @@
       "duration_ms": 204693,
       "name": "Some Type of Skin - Sofia Kourtesis Remix",
       "url": "https://open.spotify.com/track/3JESF4y5o29QYebTheGju0"
+    },
+    {
+      "added_at": "2024-08-09 18:28:29",
+      "album": {
+        "name": "Serene",
+        "url": "https://open.spotify.com/album/73dpopJTXHYaGTNH5u2PJC"
+      },
+      "artists": [
+        {
+          "name": "M1NT",
+          "url": "https://open.spotify.com/artist/5gzGYECW5rYT6NccH5zZGL"
+        },
+        {
+          "name": "blnkspc_",
+          "url": "https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa"
+        }
+      ],
+      "duration_ms": 249806,
+      "name": "Serene",
+      "url": "https://open.spotify.com/track/0KNrPsq3ny0d7pfI4Ujl2s"
     },
     {
       "added_at": "2024-08-09 18:28:29",
@@ -1275,22 +1275,18 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
-        "name": "Forelsket",
-        "url": "https://open.spotify.com/album/4jTwsVQan0LMDtyH4Ko0N7"
+        "name": "Eyes Alive",
+        "url": "https://open.spotify.com/album/6NAGlFY0sQqLG6eQxzR6X5"
       },
       "artists": [
         {
-          "name": "Buddha-Bar",
-          "url": "https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ"
-        },
-        {
-          "name": "Milo H\u00e4fliger",
-          "url": "https://open.spotify.com/artist/6dmIQsOoChrgOZc6hveoHT"
+          "name": "HVOB",
+          "url": "https://open.spotify.com/artist/6RAx8RRxoHeJIqD2d0EjOa"
         }
       ],
-      "duration_ms": 336874,
-      "name": "Forelsket",
-      "url": "https://open.spotify.com/track/4GKaQwQjOpx6TBc3M9ubDp"
+      "duration_ms": 365069,
+      "name": "Eyes Alive",
+      "url": "https://open.spotify.com/track/4MA5ZAVcGUzomiE4uJSPUb"
     }
   ],
   "unique_name": "Afterhours",

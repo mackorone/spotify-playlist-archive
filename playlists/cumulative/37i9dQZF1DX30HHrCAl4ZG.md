@@ -4,7 +4,7 @@
 
 > Explore all things indie rock right now\. Featuring music from Foxwarren
 
-1,909 songs - 4 day 11 hr 24 min
+1,910 songs - 4 day 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1611,6 +1611,7 @@
 | [Sweet Tooth](https://open.spotify.com/track/5dtgtmWdO4pOASLQdOfWSr) | [MyKey](https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9) | [Sweet Tooth](https://open.spotify.com/album/7zSMZnX4BvUQNYQLMN54Yo) | 2:13 | 2021-06-07 | 2022-06-10 |
 | [Swell blue](https://open.spotify.com/track/1eNqSVl5fEn6l9I9w0JBFJ) | [60 juno](https://open.spotify.com/artist/6BMp2cQhN9C3Vl8PLzLvw9) | [Swell blue](https://open.spotify.com/album/7sFOT66j6WXgZqn1Yh2OIr) | 3:01 | 2024-05-24 | 2024-07-19 |
 | [Swimming In The Glow](https://open.spotify.com/track/48eM70y3zAE9zZDCCwuxNz) | [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m) | [Permanent Pleasure](https://open.spotify.com/album/0pWnkMrtwLUodyWJVHcdMF) | 2:54 | 2024-05-17 | 2024-08-24 |
+| [Switch Over](https://open.spotify.com/track/1SFVei3ZUf3EuJdvKqmGKv) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Phonetics On and On](https://open.spotify.com/album/7C51cbjlLSILLTMVnxbrOc) | 3:05 | 2025-06-02 |  |
 | [Swooning](https://open.spotify.com/track/2OPh8c8b2jKTAp5WWpLSxd) | [JW Francis](https://open.spotify.com/artist/11DpUQDuQFFuGU8VXny3K6) | [Dream House](https://open.spotify.com/album/6N0rJRL8OvM3YYRiyXHVyc) | 3:24 | 2023-01-27 | 2023-04-09 |
 | [Sword](https://open.spotify.com/track/52abQEHHYwE5eGxLG0zcH5) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Sword](https://open.spotify.com/album/0oPDylAtcGw4FPvMcRDse8) | 2:26 | 2025-03-14 | 2025-04-19 |
 | [T Love](https://open.spotify.com/track/1DMLc4avhS9tZZqI8VVtr5) | [Quarters of Change](https://open.spotify.com/artist/0mnruuV4CcKu7Ux7kBZ5sa) | [T Love](https://open.spotify.com/album/3ppnqC8JtzBM9nq6VZbEqB) | 5:10 | 2022-04-08 | 2022-10-01 |

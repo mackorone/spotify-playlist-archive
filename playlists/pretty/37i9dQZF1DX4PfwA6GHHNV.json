@@ -1,6 +1,6 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil.",
-  "num_followers": 20793,
+  "num_followers": 20803,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -471,6 +471,30 @@
     {
       "added_at": "2025-05-30 14:08:50",
       "album": {
+        "name": "N\u00f3s 2 no Erro Dnv",
+        "url": "https://open.spotify.com/album/0cAa6iqT0Ow594pAz7HpoV"
+      },
+      "artists": [
+        {
+          "name": "Doug O.",
+          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
+        },
+        {
+          "name": "RT Mallone",
+          "url": "https://open.spotify.com/artist/3R10G1MFkbrhqtyPuCZe9k"
+        },
+        {
+          "name": "DJFILLSP",
+          "url": "https://open.spotify.com/artist/4bNL7mdXdO73ABIkXvjDa7"
+        }
+      ],
+      "duration_ms": 245052,
+      "name": "N\u00f3s 2 no Erro Dnv",
+      "url": "https://open.spotify.com/track/4NMRGlWYJTaEp6pttEuQDc"
+    },
+    {
+      "added_at": "2025-05-30 14:08:50",
+      "album": {
         "name": "De Lua",
         "url": "https://open.spotify.com/album/0Cjb1U6WfJ97NhMegCmyWa"
       },
@@ -643,30 +667,6 @@
     {
       "added_at": "2025-05-30 14:08:50",
       "album": {
-        "name": "N\u00f3s 2 no Erro Dnv",
-        "url": "https://open.spotify.com/album/0cAa6iqT0Ow594pAz7HpoV"
-      },
-      "artists": [
-        {
-          "name": "Doug O.",
-          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
-        },
-        {
-          "name": "RT Mallone",
-          "url": "https://open.spotify.com/artist/3R10G1MFkbrhqtyPuCZe9k"
-        },
-        {
-          "name": "DJFILLSP",
-          "url": "https://open.spotify.com/artist/4bNL7mdXdO73ABIkXvjDa7"
-        }
-      ],
-      "duration_ms": 245052,
-      "name": "N\u00f3s 2 no Erro Dnv",
-      "url": "https://open.spotify.com/track/4NMRGlWYJTaEp6pttEuQDc"
-    },
-    {
-      "added_at": "2025-05-30 14:08:50",
-      "album": {
         "name": "Afasta",
         "url": "https://open.spotify.com/album/5PZq9lvlzx0yx6eXsVPZ4k"
       },
@@ -775,26 +775,6 @@
     {
       "added_at": "2025-05-30 14:08:50",
       "album": {
-        "name": "Quem Me Guia",
-        "url": "https://open.spotify.com/album/1MNQjQiYxY1Nyq5znoHvlq"
-      },
-      "artists": [
-        {
-          "name": "Amorim",
-          "url": "https://open.spotify.com/artist/3FVZlbowUWV4h0nKFKVb0a"
-        },
-        {
-          "name": "meLLo",
-          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
-        }
-      ],
-      "duration_ms": 149575,
-      "name": "Quem Me Guia",
-      "url": "https://open.spotify.com/track/06QfdMI94z1klI0tyPa1qq"
-    },
-    {
-      "added_at": "2025-05-30 14:08:50",
-      "album": {
         "name": "B\u00f3ra",
         "url": "https://open.spotify.com/album/4S7dUAVhzijrwmyXFAeEmv"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 235800,
       "name": "B\u00f3ra",
       "url": "https://open.spotify.com/track/72Sh71maWsoTAJpWDZnpBt"
+    },
+    {
+      "added_at": "2025-05-30 14:08:50",
+      "album": {
+        "name": "Quem Me Guia",
+        "url": "https://open.spotify.com/album/1MNQjQiYxY1Nyq5znoHvlq"
+      },
+      "artists": [
+        {
+          "name": "Amorim",
+          "url": "https://open.spotify.com/artist/3FVZlbowUWV4h0nKFKVb0a"
+        },
+        {
+          "name": "meLLo",
+          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
+        }
+      ],
+      "duration_ms": 149575,
+      "name": "Quem Me Guia",
+      "url": "https://open.spotify.com/track/06QfdMI94z1klI0tyPa1qq"
     },
     {
       "added_at": "2025-05-30 14:08:50",

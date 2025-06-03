@@ -2,7 +2,7 @@
 
 ### [Hot Hits NL](https://open.spotify.com/playlist/37i9dQZF1DWSBi5svWQ9Nk)
 
-> De heetste 50! Cover: Frenna
+> De heetste 50 in NL! Cover: Frenna
 
 457 songs - 22 hr 29 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1DOwtSHKzJzutiL99WYwb0.md) - [plain]
 
 > Collections made with EVERY kind of newly released 'K\-Pop Bias' all over the world\. Cover: IU
 
-[K\-Pop Bias](https://open.spotify.com/user/fo9j3i5p2w7xubdtzqpd4h0ta) - 755 likes - 100 songs - 5 hr 8 min
+[K\-Pop Bias](https://open.spotify.com/user/fo9j3i5p2w7xubdtzqpd4h0ta) - 756 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
