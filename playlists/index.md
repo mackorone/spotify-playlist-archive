@@ -1,4 +1,4 @@
-## Playlists \(8517\)
+## Playlists \(8518\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -8224,6 +8224,7 @@
 - [studying like oppenheimer](/playlists/pretty/1BC7DsARF1AbyFwyfGl0ay.md)
 - [suave](/playlists/pretty/37i9dQZF1DWSjuSq42neMu.md)
 - [summer songs](/playlists/pretty/37i9dQZF1DWSwyaV6GLT48.md)
+- [summer ‘25](/playlists/pretty/6wfWLPaA4twP6IyGlGVACS.md)
 - [sunshine indie](/playlists/pretty/37i9dQZF1DWUWC0NIJDJKL.md)
 - [supermoon](/playlists/pretty/37i9dQZF1DX1mk3h024lZT.md)
 - [suíte.](/playlists/pretty/37i9dQZF1DXbFiKKs5CKio.md)
