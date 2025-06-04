@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Rap napoletano e il meglio della scena campana\. Luchè e Geolier in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,784 likes - 57 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,807 likes - 57 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 56 | [COMME E 'MERICAN](https://open.spotify.com/track/79RxhsVu4IhMdD9V1Binmg) | [Im Envy](https://open.spotify.com/artist/7ytMeRTs8xzSNOEOLnwEm7), [Nicola Siciliano](https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt) | [COMME E 'MERICAN](https://open.spotify.com/album/6xRUQgMxjRnEqL8If3NooS) | 2:28 |
 | 57 | [SINALOA](https://open.spotify.com/track/4Due7F4EdqTFwsFWaOvjhg) | [Capozanarky](https://open.spotify.com/artist/4L2hq3OboU70UVsqOrU6qt), [Paulbeatzz](https://open.spotify.com/artist/6fXM11nMcMwHW9ssWL4cK5) | [SINALOA](https://open.spotify.com/album/68VJSGdVIXGWkIrtH5LYA2) | 2:50 |
 
-Snapshot ID: `AAAAAPT0z9jWTSm/x3aJ7Au0HHT+BFU0`
+Snapshot ID: `aDjZLgAAAAB1fRrjXjLeyEsZYcfLLpMA`

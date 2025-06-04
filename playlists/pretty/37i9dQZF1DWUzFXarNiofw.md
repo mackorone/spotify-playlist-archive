@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Odeal
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,088,620 likes - 275 songs - 14 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,088,633 likes - 275 songs - 14 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -258,7 +258,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 248 | [Spin](https://open.spotify.com/track/1LIfmKeMM2zuLoq5i2pst9) | [Kevin Ross](https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY) | [Love Uptempo, Vol\. 1](https://open.spotify.com/album/2PaP55BeDRsZIaSpzV8PjJ) | 2:36 |
 | 249 | [Ken Doll](https://open.spotify.com/track/5cecqx5yqGOrtBADz9YNza) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH) | [All American F⭐ckBoy](https://open.spotify.com/album/66HGhKZrlYQQ92lKSGvj0r) | 3:40 |
 | 250 | [Reflection Station](https://open.spotify.com/track/2FVeGN6UivfGO0NgkQJoVU) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Reflection Station](https://open.spotify.com/album/1oMi1a907xnUtyMm7RxmSk) | 2:45 |
-| 251 | [Stingy](https://open.spotify.com/track/6gBEXaVx380CGNyqUs4qWN) | [JANE HANDCOCK](https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD) | [Stingy](https://open.spotify.com/album/0Y5XRImXd06igIrUqkP7s6) | 4:12 |
+| 251 | [Stingy](https://open.spotify.com/track/6gBEXaVx380CGNyqUs4qWN) | [JANE HANDCOCK](https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD) | [Stingy](https://open.spotify.com/album/0Y5XRImXd06igIrUqkP7s6) | 4:11 |
 | 252 | [Garden Of Eden](https://open.spotify.com/track/26fMSKkUlIQVNrd1EAMzAk) | [Kadeem Tyrell](https://open.spotify.com/artist/5EpRGVPs8i7MKQSCxLLauh) | [Garden Of Eden](https://open.spotify.com/album/0vWXtqfmrjUTlcdpdsdMvA) | 2:26 |
 | 253 | [Easy](https://open.spotify.com/track/1ltbVCtfEocAPCUuaLV9tH) | [Jazlyn Martin](https://open.spotify.com/artist/6qnQ8pEWian26DWdjRMXr0) | [Easy](https://open.spotify.com/album/5b1GQko1DZQGmFG68ShW5q) | 2:48 |
 | 254 | [Secret](https://open.spotify.com/track/6ADV6Op1j4gme59akATsHz) | [Kalenbree](https://open.spotify.com/artist/7hu8hEXPfDyrrVhlqt8Hyq) | [Secret](https://open.spotify.com/album/1imYB0TvxM3JqiSgLvE237) | 2:32 |

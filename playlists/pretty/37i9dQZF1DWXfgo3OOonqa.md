@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,277 likes - 110 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,288 likes - 110 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Rina Rina](https://open.spotify.com/track/1h6bh1BOjKahFpWiKbFopa) | [Sarettii](https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi) | [TRIBE](https://open.spotify.com/album/6bnoFxa1viWWld2TlNKagJ) | 2:34 |
-| 2 | [SO FLY](https://open.spotify.com/track/7pYIvfiuhSmXAFKIOXZkUN) | [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp), [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [SO FLY](https://open.spotify.com/album/46Us73Zf2d29CpStD22nbG) | 2:00 |
+| 2 | [SO FLY](https://open.spotify.com/track/7pYIvfiuhSmXAFKIOXZkUN) | [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY), [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [SO FLY](https://open.spotify.com/album/46Us73Zf2d29CpStD22nbG) | 2:00 |
 | 3 | [Förstå mig](https://open.spotify.com/track/3j0HI048DJuzpG7oTugkBF) | [Y4ska](https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Y4](https://open.spotify.com/album/1Hmubk9vXxysBNC3qv9iGe) | 1:50 |
 | 4 | [VAD GÖR DOM?](https://open.spotify.com/track/1yqSSkjBk0GSh7TQdDpwY5) | [Mohelá](https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ) | [VAD GÖR DOM?](https://open.spotify.com/album/3Aa5QXzsIwGoPUxesq7ZoK) | 2:32 |
 | 5 | [DÄR FÖR MIG](https://open.spotify.com/track/2M92LSUxeYDRIAD1lyphzo) | [Montana](https://open.spotify.com/artist/2RmwY9PuyhQF6SrNAZJwQG) | [DÄR FÖR MIG](https://open.spotify.com/album/0CqUH2J0iqAYXcTAkF3hYA) | 1:52 |

@@ -4,7 +4,7 @@
 
 > Check out the emerging independent tracks from these Telugu Artists!! Cover : Hemachandra
 
-367 songs - 22 hr 2 min
+368 songs - 22 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -296,6 +296,7 @@
 | [Ready Go](https://open.spotify.com/track/5QmSQ0e0BdUquiGNYqDzg7) | [Roll Rida](https://open.spotify.com/artist/6xikG2kDoIZnB78TBPXlkj), [Agastya Raag](https://open.spotify.com/artist/0OUdZWbooKMMlCqAzLAu8I) | [Ready Go](https://open.spotify.com/album/28CSQfrblfjehPQWLVPwwq) | 2:49 | 2024-12-13 | 2025-01-30 |
 | [SA NI SA GA MA](https://open.spotify.com/track/1s371qM1lEeyGneuZcD0EG) | [MaaHaa](https://open.spotify.com/artist/2nON7IMoqVBIWONZabqWBC), [Hemachandra Vedala](https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN) | [SA NI SA GA MA](https://open.spotify.com/album/4ciUgN97ydTzxfyWkYDEib) | 2:23 | 2024-07-31 | 2024-09-12 |
 | [Saagave Manasa](https://open.spotify.com/track/59sZ0SlnVdZGHR6psqE8HW) | [Indosoul by Karthick Iyer](https://open.spotify.com/artist/04czw5AgY218VUkgCtwRv9), [Sreerama Chandra](https://open.spotify.com/artist/2bfyLSCw72lQ5qoD8cdVBB), [Maalavika Sundar](https://open.spotify.com/artist/6FziTGxRwHQviQ4uZdSdIP) | [Saagave Manasa](https://open.spotify.com/album/4X1Mxr9lLfdiRyFEo4GIKw) | 4:27 | 2023-07-24 | 2025-04-05 |
+| [Sakhiye](https://open.spotify.com/track/2a8w4nzNhzGbjWv07gmDnr) | [Krishna Tejasvi](https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q), [Srirag Vadlakonda](https://open.spotify.com/artist/6OCxOIWN5WGB9iZSnYqwRb) | [Sakhiye](https://open.spotify.com/album/15e9cIt413nP4KTTJd4sRe) | 3:50 | 2025-06-03 |  |
 | [Salary Anthem](https://open.spotify.com/track/56maqkaAZuj7u3U2gzobrM) | [M\. Dheeraj](https://open.spotify.com/artist/6HPzEJPKMONBrhsP9uPfjI) | [Salary Anthem](https://open.spotify.com/album/2AwJaeAb8OepO4YaQljKct) | 4:07 | 2024-07-29 | 2024-10-11 |
 | [Sandela Kusuni](https://open.spotify.com/track/5yg0VylKGCJhL2jIu3D0Oq) | [Sunitha Upadrasta](https://open.spotify.com/artist/3kAWPYJkfMsEY15eG83QrE) | [Sandela Kusuni](https://open.spotify.com/album/3FtLruzrqugjfqV4xX6VTr) | 4:43 | 2024-01-18 | 2024-08-20 |
 | [Sara Sara](https://open.spotify.com/track/44cftS2B4BP2bvOSarSM6x) | [Kiran Surath N](https://open.spotify.com/artist/3HtIU5rxQT1V2GiAorUK8I) | [Sara Sara](https://open.spotify.com/album/6OKdkEQdcwGyhvkaocFwZm) | 1:04 | 2023-10-11 | 2023-12-30 |

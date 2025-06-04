@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > Celebrating 10 years of  the best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/5DP3h81xD3klfn0M47GZlK?si=oYSYzsfNRsSn7In5zvFsew"> threetwenty</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,977 likes - 461 songs - 23 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,003 likes - 461 songs - 23 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -308,7 +308,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 298 | [Bestfriends](https://open.spotify.com/track/3QHgIF4U9NM6NHP5PJeDC2) | [Twellly](https://open.spotify.com/artist/1isLpCDTiMLbyn5PMKU9Jo) | [He Loves Me Not \(Deluxe\)](https://open.spotify.com/album/56LZZC0T0HE1HjmiPOtnxV) | 2:46 |
 | 299 | [How Do You Live?](https://open.spotify.com/track/4CLB73395TvuuLjI7li43s) | [CANDIACE](https://open.spotify.com/artist/5JszSvXkRAk75bLoZDOHkP) | [How Do You Live?](https://open.spotify.com/album/042cFA4bp0RSoEdPjBoQ5R) | 3:21 |
 | 300 | [TAKES TWO TO TANGO](https://open.spotify.com/track/58h0eY4GbidYlPoFRMQlme) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [Slailah](https://open.spotify.com/artist/22iYTRzRdq07ngvF5ZAC5U), [Mikkah](https://open.spotify.com/artist/77L9ffhefvK540POxDBkRA) | [TAKES TWO TO TANGO](https://open.spotify.com/album/6T3PBBwxvTcaKD3gdkK2GB) | 3:29 |
-| 301 | [FUZZ](https://open.spotify.com/track/4nSpvnYtgNaJYfPP0vCunR) | [Orlando & the Rumors](https://open.spotify.com/artist/1kEtsRBZYfwcUsiokSFcxA) | [FUZZ](https://open.spotify.com/album/3eBDQX5xV9W6gtWwB9rnO3) | 3:11 |
+| 301 | [FUZZ](https://open.spotify.com/track/4nSpvnYtgNaJYfPP0vCunR) | [Orlando & The Rumors](https://open.spotify.com/artist/1kEtsRBZYfwcUsiokSFcxA) | [FUZZ](https://open.spotify.com/album/3eBDQX5xV9W6gtWwB9rnO3) | 3:11 |
 | 302 | [Deeply](https://open.spotify.com/track/3Js5jiG3nYQbm4yoq9372I) | [SHERIE](https://open.spotify.com/artist/22QPHxxyb3RvIFvct9EAbu) | [Deeply](https://open.spotify.com/album/4OjGwIYSgFDGhUrg2Hrdxo) | 3:28 |
 | 303 | [AppleBottoms](https://open.spotify.com/track/0jlnuSgf8GBhTWaUaLZRjj) | [DEVA](https://open.spotify.com/artist/0EdwY8DfBqB83R45WnHJDg) | [AppleBottoms](https://open.spotify.com/album/2Ja9BQXIIxcAB6K6BUF3kH) | 2:30 |
 | 304 | [Hollywood Dream](https://open.spotify.com/track/1cnSZzg5RB4SYfqwHJx8wm) | [Elijah Boothe](https://open.spotify.com/artist/1TtLXPC4UOnkVvGao9cDx5) | [Hollywood Dream](https://open.spotify.com/album/2mcPq9N3350Yz26mbBlCIR) | 3:28 |

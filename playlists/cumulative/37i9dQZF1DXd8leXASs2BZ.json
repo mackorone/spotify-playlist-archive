@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-09",
-  "description": "\u3044\u3088\u3044\u3088POP YOURS\u958b\u50ac! // Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: 7",
+  "description": "\u3044\u3088\u3044\u3088POP YOURS\u958b\u50ac! // Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: Joe Cupertino",
   "name": "+81 Connect FRESH",
   "tracks": [
     {
@@ -890,6 +890,48 @@
       "duration_ms": 80253,
       "name": "Agari",
       "url": "https://open.spotify.com/track/4qcn2xQJDMliNK4dUiVXX1"
+    },
+    {
+      "album": {
+        "name": "AGEASHI (feat. Flight-A, Crazy-K, BARCO, Swag-A & ACHA)",
+        "url": "https://open.spotify.com/album/4MjuQaO8z0ZLwCLJvXWWUq"
+      },
+      "artists": [
+        {
+          "name": "GREEN KIDS",
+          "url": "https://open.spotify.com/artist/033K0BXzkUzfXaqg4FyDBE"
+        },
+        {
+          "name": "Rhea\u03b7",
+          "url": "https://open.spotify.com/artist/1hFjgzChpadO5bHy1EW7ri"
+        },
+        {
+          "name": "Flight-A",
+          "url": "https://open.spotify.com/artist/1THqfAAgE7cG20VwdMu0dh"
+        },
+        {
+          "name": "CRAZY-K",
+          "url": "https://open.spotify.com/artist/3iU3MjOPvtqLWhNjZbFUaK"
+        },
+        {
+          "name": "BARCO",
+          "url": "https://open.spotify.com/artist/5zhO8Dv5JVs3P9bnFVRIgR"
+        },
+        {
+          "name": "Swag-A",
+          "url": "https://open.spotify.com/artist/1rsNd66RgHfpsr8poImDDm"
+        },
+        {
+          "name": "acha",
+          "url": "https://open.spotify.com/artist/2dGmHsaMrg4ugaPitdCLDA"
+        }
+      ],
+      "date_added": "2025-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196048,
+      "name": "AGEASHI (feat. Flight-A, Crazy-K, BARCO, Swag-A & ACHA)",
+      "url": "https://open.spotify.com/track/6cjX3CHPAnMSSCEwhBMoWZ"
     },
     {
       "album": {
@@ -2604,7 +2646,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 207970,
       "name": "boy",
       "url": "https://open.spotify.com/track/5opegTCWKUO2ucc1dP6erj"
@@ -2895,6 +2937,28 @@
     },
     {
       "album": {
+        "name": "Can't nobody",
+        "url": "https://open.spotify.com/album/2K8ajxQJrxoOQTK3pCvaNs"
+      },
+      "artists": [
+        {
+          "name": "K!-Ki",
+          "url": "https://open.spotify.com/artist/1nTqyCFJfhtuYzYk7rXRWc"
+        },
+        {
+          "name": "Gold Digga",
+          "url": "https://open.spotify.com/artist/2XsUp7bFg2HhVw53ubcrvI"
+        }
+      ],
+      "date_added": "2025-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150886,
+      "name": "Can't nobody",
+      "url": "https://open.spotify.com/track/61CoYCcBFtkLrg6U45vLPQ"
+    },
+    {
+      "album": {
         "name": "Car Chase",
         "url": "https://open.spotify.com/album/4uXD57d0qXKSOQRTRTTPii"
       },
@@ -2998,7 +3062,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 246827,
       "name": "CHA CHA \u611b",
       "url": "https://open.spotify.com/track/0xUlzv4pnxwaecooxhIhHJ"
@@ -4286,7 +4350,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 135175,
       "name": "DOMINATION - Drill remix",
       "url": "https://open.spotify.com/track/7uDE971BzeKFOiX4Td7iho"
@@ -4838,7 +4902,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 188295,
       "name": "DUMP!",
       "url": "https://open.spotify.com/track/6DmK3A22PshWUdGioiQvzs"
@@ -5660,6 +5724,24 @@
       "duration_ms": 198097,
       "name": "Feel Missing",
       "url": "https://open.spotify.com/track/6FtSuG6TbvD3u5wydy7I2d"
+    },
+    {
+      "album": {
+        "name": "Feelin'",
+        "url": "https://open.spotify.com/album/4BCm2iWnlSCAWCftsrWAFk"
+      },
+      "artists": [
+        {
+          "name": "XENO",
+          "url": "https://open.spotify.com/artist/7BTcTywq9yvwNUWzNOLasA"
+        }
+      ],
+      "date_added": "2025-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123344,
+      "name": "Feelin'",
+      "url": "https://open.spotify.com/track/6wCapug34hPOOUSSJMVOiP"
     },
     {
       "album": {
@@ -7016,6 +7098,24 @@
       "duration_ms": 232350,
       "name": "GONG",
       "url": "https://open.spotify.com/track/1yXrDx1K5K8c9yaX9Dh73C"
+    },
+    {
+      "album": {
+        "name": "Goofy",
+        "url": "https://open.spotify.com/album/2LUsxKAvjC4cZi1AuVi6li"
+      },
+      "artists": [
+        {
+          "name": "AI jacky",
+          "url": "https://open.spotify.com/artist/6cOuEef5ejInNSGz7d2OLU"
+        }
+      ],
+      "date_added": "2025-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108000,
+      "name": "Goofy",
+      "url": "https://open.spotify.com/track/1oY5ZxYdICMef7DkjrXQPa"
     },
     {
       "album": {
@@ -10043,6 +10143,32 @@
     },
     {
       "album": {
+        "name": "LOVE (feat. Has-ki & WeSSker)",
+        "url": "https://open.spotify.com/album/35cW0T1D3kfLgtyTnsISdw"
+      },
+      "artists": [
+        {
+          "name": "Neo Dull Gal",
+          "url": "https://open.spotify.com/artist/1d6kbQK4mir4XWuZFz6O5H"
+        },
+        {
+          "name": "Has-ki",
+          "url": "https://open.spotify.com/artist/7pvleOZtwMfQPOkZ57czSA"
+        },
+        {
+          "name": "WeSSker",
+          "url": "https://open.spotify.com/artist/48sZzOWgl5UNqG9hFvKH5v"
+        }
+      ],
+      "date_added": "2025-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119280,
+      "name": "LOVE (feat. Has-ki & WeSSker)",
+      "url": "https://open.spotify.com/track/3t09Kfw1ZMxmE9jm3wXtLc"
+    },
+    {
+      "album": {
         "name": "Love Cluster",
         "url": "https://open.spotify.com/album/5Vt8hjlmhAqKPT7Z5y0zWL"
       },
@@ -10130,7 +10256,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 184000,
       "name": "Lucy & David",
       "url": "https://open.spotify.com/track/3OjHOM6xDHStqwZ8hI8ggL"
@@ -10170,6 +10296,24 @@
       "duration_ms": 170670,
       "name": "luv me",
       "url": "https://open.spotify.com/track/6Ubbqf9MfShGKeRAaJOnwN"
+    },
+    {
+      "album": {
+        "name": "#Yataallday, Vol. 5",
+        "url": "https://open.spotify.com/album/2b11jV6S7G7UK77Mf0XZUE"
+      },
+      "artists": [
+        {
+          "name": "Donatello",
+          "url": "https://open.spotify.com/artist/3LIELR66S03Dx4FkUcxSfT"
+        }
+      ],
+      "date_added": "2025-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227684,
+      "name": "Mac Miller",
+      "url": "https://open.spotify.com/track/41jtCNe3Zsobh3ESiXxnvt"
     },
     {
       "album": {
@@ -11073,6 +11217,24 @@
     },
     {
       "album": {
+        "name": "Nanishiteru?",
+        "url": "https://open.spotify.com/album/2miQa6FAN9y9XFIgIyDzue"
+      },
+      "artists": [
+        {
+          "name": "TOKINE",
+          "url": "https://open.spotify.com/artist/3Tg1uV8PDqrVWiPHOBZumU"
+        }
+      ],
+      "date_added": "2025-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Nanishiteru?",
+      "url": "https://open.spotify.com/track/1OgQCm898YAryLgIKDiJhf"
+    },
+    {
+      "album": {
         "name": "NARI-A-GARI",
         "url": "https://open.spotify.com/album/62chPPgbtNWbyCoaU4AsyR"
       },
@@ -11771,6 +11933,24 @@
     },
     {
       "album": {
+        "name": "NONE",
+        "url": "https://open.spotify.com/album/7t7jVf67S6dFMvqPBpc9kX"
+      },
+      "artists": [
+        {
+          "name": "Joe Cupertino",
+          "url": "https://open.spotify.com/artist/7GPbYvtgh7IeS2vZMEz1Xe"
+        }
+      ],
+      "date_added": "2025-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216779,
+      "name": "NONE",
+      "url": "https://open.spotify.com/track/033XLUF0JKchTq8esT2clY"
+    },
+    {
+      "album": {
         "name": "about me",
         "url": "https://open.spotify.com/album/5AFqjtAnnkW0yAjMvg7hW2"
       },
@@ -12112,7 +12292,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 149454,
       "name": "omoi",
       "url": "https://open.spotify.com/track/7olTMtrNFCBPHmtSltZ6vS"
@@ -13468,7 +13648,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 190169,
       "name": "Rapstar Cypher 2024 (feat. Tepa Roucci, Luka Hatakeyama, TOKYOSEKAI & Leon Fanourakis)",
       "url": "https://open.spotify.com/track/65dMNm6DZhoULy9XRd1n2v"
@@ -16404,7 +16584,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 138653,
       "name": "Thru the night",
       "url": "https://open.spotify.com/track/6PXwCHwKYa6XBmuejjLQgD"
@@ -17316,7 +17496,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 123673,
       "name": "WASABI",
       "url": "https://open.spotify.com/track/7mZzkZf5iGWUgoKIqE3oSU"
@@ -18286,6 +18466,28 @@
       "duration_ms": 136636,
       "name": "Youth",
       "url": "https://open.spotify.com/track/5cacwNDm744DRT4ja7je6t"
+    },
+    {
+      "album": {
+        "name": "YUKI",
+        "url": "https://open.spotify.com/album/3kVh6iJsBiSex81wQvgJc2"
+      },
+      "artists": [
+        {
+          "name": "ORCO",
+          "url": "https://open.spotify.com/artist/6nofUffzNKs9FFeO6oYeZn"
+        },
+        {
+          "name": "BHS Svve",
+          "url": "https://open.spotify.com/artist/6uFfH7ZHSnHMXjNCgpIWb2"
+        }
+      ],
+      "date_added": "2025-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192004,
+      "name": "YUKI",
+      "url": "https://open.spotify.com/track/5KjyspvAkdJu7YwcV1Fz6f"
     },
     {
       "album": {
@@ -19952,7 +20154,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 154874,
       "name": "\u9aea\u5207\u3063\u305f",
       "url": "https://open.spotify.com/track/4BrMFJHZUlaosh8wSVwebo"

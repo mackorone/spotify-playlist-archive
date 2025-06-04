@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > the deep & minimal side of house and techno ⛏️⛏️ <br/>with Chris Stussy
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,857 likes - 125 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,924 likes - 125 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 44 | [One Wish](https://open.spotify.com/track/7u9E3xd7bjWHO6qCfvgcoH) | [James Poole](https://open.spotify.com/artist/14jYWAqwskpQJI3Uzg8XdT) | [One Wish](https://open.spotify.com/album/3Y4bISRO7LD505ifa0WuXj) | 2:45 |
 | 45 | [GOT TA DO](https://open.spotify.com/track/0wvpy78rv1CnPfR1Yjb3RC) | [Luke Andy](https://open.spotify.com/artist/4FxJtBwCaADws2F7xmpZQS) | [GOT TA DO](https://open.spotify.com/album/6U3QiYzcN9YDnvFXKwnydu) | 6:00 |
 | 46 | [AAAAaaaa](https://open.spotify.com/track/2L334OjbOswSQbX3qXqfgc) | [nocapz.](https://open.spotify.com/artist/5lX1pToBfEkhwZ5Y5ZiRqT) | [AAAAaaaa](https://open.spotify.com/album/4DDe7US1xhE5ZhWTK2nQhe) | 3:28 |
-| 47 | [Timbuktu \- Amê Remix \- Jerome Sydenham's Special Edit](https://open.spotify.com/track/2Q93Svo9osiBd5ZxPrd67g) | [Jerome Sydenham](https://open.spotify.com/artist/4e7xQaHgOjyFZtSic0Nk9B), [Dennis Ferrer](https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi), [Fatima Njai](https://open.spotify.com/artist/2ZsFEqTaZHuETRbQfgBsQS), [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Timbuktu \(Amê Remix \- Jerome Sydenham's Special Edit\)](https://open.spotify.com/album/3fAX5wjbBB2P12fyHeeNKq) | 6:35 |
+| 47 | [Timbuktu \- Âme Remix \- Jerome Sydenham's Special Edit](https://open.spotify.com/track/2Q93Svo9osiBd5ZxPrd67g) | [Jerome Sydenham](https://open.spotify.com/artist/4e7xQaHgOjyFZtSic0Nk9B), [Dennis Ferrer](https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi), [Fatima Njai](https://open.spotify.com/artist/2ZsFEqTaZHuETRbQfgBsQS), [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Timbuktu \(Âme Remix \- Jerome Sydenham's Special Edit\)](https://open.spotify.com/album/3fAX5wjbBB2P12fyHeeNKq) | 6:35 |
 | 48 | [Body Talk](https://open.spotify.com/track/7EH5ckWU3lKHRYG38SiH1n) | [Enzo is Burning](https://open.spotify.com/artist/2KIWGryAlZJj1PwpdRTDCB) | [Body Talk](https://open.spotify.com/album/3sYrcueAC7h1sQwDzyOMlz) | 3:01 |
 | 49 | [Caught Up In Your Love](https://open.spotify.com/track/0DqoMb5k3NMkl0c8HwB6GP) | [Tre Reynolds](https://open.spotify.com/artist/4htqxxCTnN5A4dSrw1yfP2) | [Caught Up In Your Love](https://open.spotify.com/album/0yWqznzr2sfi11ZcNgm8Tx) | 3:07 |
 | 50 | [BBBROOKLYN](https://open.spotify.com/track/2zOUPzHq4kCR3QkYTpYDTH) | [Slugg](https://open.spotify.com/artist/5Q2x75NUXnoDOXCKItVxZ0) | [BBBROOKLYN](https://open.spotify.com/album/3Zf7LeIY7yCHCTy2yApG0B) | 3:48 |

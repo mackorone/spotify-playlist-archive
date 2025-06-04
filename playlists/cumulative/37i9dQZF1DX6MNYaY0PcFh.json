@@ -467,6 +467,28 @@
     },
     {
       "album": {
+        "name": "Blessings",
+        "url": "https://open.spotify.com/album/4hqW4hFvE5noV2fOm1hwRy"
+      },
+      "artists": [
+        {
+          "name": "p-rallel",
+          "url": "https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD"
+        },
+        {
+          "name": "Sam Deeley",
+          "url": "https://open.spotify.com/artist/39ua9laH0TKglA12ltoJrX"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238167,
+      "name": "Blessings",
+      "url": "https://open.spotify.com/track/4qhPIPQYiVBTac3t0LvnRs"
+    },
+    {
+      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/11mDSGxGocTqdiPgYqYfRh"
       },
@@ -3220,7 +3242,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 200930,
       "name": "My World",
       "url": "https://open.spotify.com/track/31BVToYJwvaDoA4SARM2ex"
@@ -4241,7 +4263,7 @@
     },
     {
       "album": {
-        "name": "Slow Burner (feat. Original Koffee)",
+        "name": "Slow Burner",
         "url": "https://open.spotify.com/album/6j4ffFjnsHqYexblnGJwdB"
       },
       "artists": [
@@ -4258,7 +4280,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 212647,
-      "name": "Slow Burner (feat. Original Koffee)",
+      "name": "Slow Burner",
       "url": "https://open.spotify.com/track/1Siu5Bnrt90vtjUddXeTUg"
     },
     {

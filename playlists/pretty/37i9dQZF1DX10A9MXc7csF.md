@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: Los Aptos
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,975 likes - 95 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,004 likes - 95 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 8 | [CHAMPAGNE](https://open.spotify.com/track/0mfemgLsr0ucLSOBOc4xJ0) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [CHAMPAGNE](https://open.spotify.com/album/7EHBvCmhU7R8aN0w1AdtS1) | 3:15 |
 | 9 | [PICASSO](https://open.spotify.com/track/0uGbZpw3WJBtLAnVqBVBpi) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Ya No Se Llevan Serenatas](https://open.spotify.com/album/6MRvPbmvRXntgB8DiDsIT6) | 3:36 |
 | 10 | [SIRENA](https://open.spotify.com/track/0Ap4GNJxy2n1Z0tJcXU9GE) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [LEYENDA](https://open.spotify.com/album/1wsPO4l5EFeVpmZESwYWnY) | 4:13 |
-| 11 | [De Repentazo \- feat\. JR Torres](https://open.spotify.com/track/2DtbwVqV2C8mUbIcMqXt29) | [Montana](https://open.spotify.com/artist/2o9qwAYrLQE4XxQ5uFnwC2), [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj) | [DE REPENTAZO](https://open.spotify.com/album/3132K5lXI7Y73DyL4EbV3O) | 2:32 |
+| 11 | [De Repentazo](https://open.spotify.com/track/2DtbwVqV2C8mUbIcMqXt29) | [Montana](https://open.spotify.com/artist/2o9qwAYrLQE4XxQ5uFnwC2), [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj) | [DE REPENTAZO](https://open.spotify.com/album/3132K5lXI7Y73DyL4EbV3O) | 2:32 |
 | 12 | [Mantenganse Lejos](https://open.spotify.com/track/346xCEMT4ki8zJcjK7I7n6) | [Tony Loya](https://open.spotify.com/artist/6n4UZ6Nju0cFj8VSoYCN6L), [Equipo SN](https://open.spotify.com/artist/4Wo4ytHNE8lwaK6zuyxIf8) | [Mantenganse Lejos](https://open.spotify.com/album/3vSo1pQwwJmyuInUmksIe4) | 2:09 |
 | 13 | [A Dos De Borrarte](https://open.spotify.com/track/3jYascbB2wNuSgKmQfLyxI) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Nadie Se Va Como Llegó](https://open.spotify.com/album/3ODLqXINKLL2qIRUe2AH35) | 3:09 |
 | 14 | [CARO](https://open.spotify.com/track/57npVcXIJCygQKhGCrEyVD) | [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [CARO](https://open.spotify.com/album/0BE3kLK5Mjx6wWOSrvFN4s) | 3:24 |

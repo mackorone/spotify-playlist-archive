@@ -2,9 +2,9 @@
 
 ### [No Borders](https://open.spotify.com/playlist/37i9dQZF1DWTZ3p56HpBDG)
 
-> Best of South Asian diaspora\. Cover:  Nafeesisboujee
+> Best of South Asian diaspora\. Cover: Akshara
 
-255 songs - 13 hr 15 min
+256 songs - 13 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [G.O.A.T Flow \(feat\. THEMXXNLIGHT\) \[Produced by Cardo, Co\-Produced by ID Labs\]](https://open.spotify.com/track/6PVX4IODZNDM9qSvf8sh4e) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [THEMXXNLIGHT](https://open.spotify.com/artist/7crF48BmAnNaoNU8QPVld0) | [Fly Times Vol\. 1: The Good Fly Young](https://open.spotify.com/album/2bwyHN2Y9iljWbUZYPXMrC) | 3:17 | 2021-11-10 | 2022-07-19 |
 | [Galti](https://open.spotify.com/track/12CA5Cx43B13vInuePIITD) | [Mumzy Stranger](https://open.spotify.com/artist/1ZjTtkG8iHppYgibGNc4rw) | [Galti](https://open.spotify.com/album/1bkmF78PpX9Pq9fEOGR3C2) | 3:16 | 2024-08-08 |  |
 | [Ghazab Kiya](https://open.spotify.com/track/6x87ncNAvRpLgglWXO67FW) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Ghazab Kiya](https://open.spotify.com/album/4BrDfbyfW3AcWDVTiW752e) | 3:26 | 2023-05-04 |  |
+| [GLASS](https://open.spotify.com/track/5jaxPt8oCblbSxqY7TixCR) | [Akshara](https://open.spotify.com/artist/7j6UTsx4e5HxsHMPXCYy7Z), [Avara](https://open.spotify.com/artist/63PeJBCkvzMDtyfc0krQyd) | [GLASS](https://open.spotify.com/album/1MkOg5siqJAMG4yolXbONI) | 2:31 | 2025-06-03 |  |
 | [Gluttony](https://open.spotify.com/track/1O1XxaZ8Yyjxl6mlN18Xz4) | [Shreea Kaul](https://open.spotify.com/artist/1c203LuoIFKuIn2X5Uz5lE) | [Gluttony](https://open.spotify.com/album/20tenLppJDI4jly4ZmPNrz) | 3:09 | 2021-11-10 | 2022-07-19 |
 | [Good Love 2.0](https://open.spotify.com/track/5OAvraChe33vVCHMUBV38W) | [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F) | [damnshestamil](https://open.spotify.com/album/5Uape09ZvhDOfCmSqQN8Wm) | 2:54 | 2022-10-06 |  |
 | [Good Luck](https://open.spotify.com/track/6IVsYkP3RWt3AwMeHOgDFF) | [Abhi The Nomad](https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4) | [Abhi vs The Universe](https://open.spotify.com/album/7npnMZIzcTaC9dFh2iqm0w) | 2:15 | 2022-10-06 |  |

@@ -644,7 +644,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 150000,
       "name": "badgalz",
       "url": "https://open.spotify.com/track/2ZgjcdeZnEhgqdgvJrPFlm"
@@ -934,7 +934,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 256570,
       "name": "Bounce Back",
       "url": "https://open.spotify.com/track/7iWv7OdGJMMZKOSTnWcnVh"
@@ -1316,7 +1316,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 281346,
       "name": "Cigarety",
       "url": "https://open.spotify.com/track/1XIbDyk2cYuhmPa0cO0zqN"
@@ -1334,7 +1334,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 147334,
       "name": "Cleopatra",
       "url": "https://open.spotify.com/track/0jUTZXbThcmKvEihop5gTZ"
@@ -1868,6 +1868,28 @@
       "duration_ms": 155250,
       "name": "DREAM GIRL",
       "url": "https://open.spotify.com/track/1jr8IJdmfU3ikome8GdvjX"
+    },
+    {
+      "album": {
+        "name": "Du\u0161a",
+        "url": "https://open.spotify.com/album/2paxBSxiupK9atZKq4JVVc"
+      },
+      "artists": [
+        {
+          "name": "Zuzana Mikulcova",
+          "url": "https://open.spotify.com/artist/3DuhjH3LQhXz6nV3rNu7pd"
+        },
+        {
+          "name": "Bene",
+          "url": "https://open.spotify.com/artist/3UDQ6kYeaZyUQWAW79DaA5"
+        }
+      ],
+      "date_added": "2025-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242322,
+      "name": "Du\u0161a",
+      "url": "https://open.spotify.com/track/4BbXpj2kzIwdphR6RaAw5a"
     },
     {
       "album": {
@@ -3009,6 +3031,24 @@
     },
     {
       "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/5qXjb6kT9M6t0ShMR0nX5X"
+      },
+      "artists": [
+        {
+          "name": "Emma Drobna",
+          "url": "https://open.spotify.com/artist/08vJe8xHzqcXV9xRuvcxEh"
+        }
+      ],
+      "date_added": "2025-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164546,
+      "name": "High",
+      "url": "https://open.spotify.com/track/0HWCXlp7kBl6GrIx3JTP1x"
+    },
+    {
+      "album": {
         "name": "High Speed",
         "url": "https://open.spotify.com/album/3wTJ3PFS3cbO2IJ84CMBQu"
       },
@@ -3169,6 +3209,24 @@
     },
     {
       "album": {
+        "name": "hot",
+        "url": "https://open.spotify.com/album/24Eaq4Qz3FokOEmgJrstoG"
+      },
+      "artists": [
+        {
+          "name": "SARA NOFF",
+          "url": "https://open.spotify.com/artist/6AwdWKprr1dAF2xmTCutDi"
+        }
+      ],
+      "date_added": "2025-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116800,
+      "name": "hot",
+      "url": "https://open.spotify.com/track/4Ph2F8NAZ70Rx0c7dOgRqN"
+    },
+    {
+      "album": {
         "name": "HOT OR NOT?",
         "url": "https://open.spotify.com/album/2VjksdbwEU5mvDu0YIgrh7"
       },
@@ -3220,6 +3278,28 @@
       "duration_ms": 160000,
       "name": "How Deep is Your Love",
       "url": "https://open.spotify.com/track/7lEUuoe4TA3IocEMvQ4Pps"
+    },
+    {
+      "album": {
+        "name": "How Loud Is No Sound",
+        "url": "https://open.spotify.com/album/1mkwgszl3tgdWvJ41rCBLq"
+      },
+      "artists": [
+        {
+          "name": "&Tilly",
+          "url": "https://open.spotify.com/artist/6ywghg7NMnYNOY8HVATu1N"
+        },
+        {
+          "name": "UAP",
+          "url": "https://open.spotify.com/artist/1fEqRExfCuTtAfM8md9Phf"
+        }
+      ],
+      "date_added": "2025-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "How Loud Is No Sound",
+      "url": "https://open.spotify.com/track/0TAv2OwPhFpyDxji2OeHsk"
     },
     {
       "album": {
@@ -3634,6 +3714,24 @@
       "duration_ms": 186405,
       "name": "if i fall for you",
       "url": "https://open.spotify.com/track/1vtHdaq48zvFsHjYkn8R9a"
+    },
+    {
+      "album": {
+        "name": "If I'm Honest",
+        "url": "https://open.spotify.com/album/3AWcznXIrulQychq6pG56F"
+      },
+      "artists": [
+        {
+          "name": "We Are Domi",
+          "url": "https://open.spotify.com/artist/68nZwIknhC5s9gLHPly09S"
+        }
+      ],
+      "date_added": "2025-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181113,
+      "name": "If I'm Honest",
+      "url": "https://open.spotify.com/track/3PE4yrxnwlTJeZhn9wNvJU"
     },
     {
       "album": {
@@ -4513,6 +4611,24 @@
     },
     {
       "album": {
+        "name": "KL\u00cd\u010c",
+        "url": "https://open.spotify.com/album/2fDttIQgSmwABCIcxaAMyM"
+      },
+      "artists": [
+        {
+          "name": "Ivana Korolov\u00e1",
+          "url": "https://open.spotify.com/artist/5ZpCmHPGMuIfAcHWcg8hSs"
+        }
+      ],
+      "date_added": "2025-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195483,
+      "name": "KL\u00cd\u010c",
+      "url": "https://open.spotify.com/track/7t9JnxXnqO1TYFxoLeh2LF"
+    },
+    {
+      "album": {
         "name": "Koloto\u010d",
         "url": "https://open.spotify.com/album/5oRzRvCHH8B7wT3X59wp7X"
       },
@@ -4564,6 +4680,24 @@
       "duration_ms": 181558,
       "name": "Kompas",
       "url": "https://open.spotify.com/track/1ClUlIQhst7KRVjCuQei00"
+    },
+    {
+      "album": {
+        "name": "Kontrast",
+        "url": "https://open.spotify.com/album/53kkOrkrxhZIK61TU0mouB"
+      },
+      "artists": [
+        {
+          "name": "Izabel",
+          "url": "https://open.spotify.com/artist/1h8IuG3Fm7KFiNtE7C4oHd"
+        }
+      ],
+      "date_added": "2025-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173913,
+      "name": "Kontrast",
+      "url": "https://open.spotify.com/track/0mjNKKh8uINRz12DHGtXbx"
     },
     {
       "album": {
@@ -4770,6 +4904,24 @@
       "duration_ms": 227115,
       "name": "Lep\u0161\u00ed svet",
       "url": "https://open.spotify.com/track/2v69sBDSYs4CcD7Q4vXZ0W"
+    },
+    {
+      "album": {
+        "name": "The Buzz",
+        "url": "https://open.spotify.com/album/0kjmBztq5cDAjhyhB0oOTE"
+      },
+      "artists": [
+        {
+          "name": "Tolstoys",
+          "url": "https://open.spotify.com/artist/19eCt7jL2g5BAktLU1KI2J"
+        }
+      ],
+      "date_added": "2025-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288651,
+      "name": "Let The Love In",
+      "url": "https://open.spotify.com/track/2MSMgb8LHWWM3fCQ6cnpep"
     },
     {
       "album": {
@@ -5120,7 +5272,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 126000,
       "name": "LOUTKA",
       "url": "https://open.spotify.com/track/7JJn2ofnKuKCMDgKePrcCX"
@@ -5608,6 +5760,24 @@
       "duration_ms": 163520,
       "name": "MAYDAY",
       "url": "https://open.spotify.com/track/4JX0m4HeEP7J8S1x3WgtkD"
+    },
+    {
+      "album": {
+        "name": "Medzi nami",
+        "url": "https://open.spotify.com/album/3055m9zpx8Ohl7RFI297IN"
+      },
+      "artists": [
+        {
+          "name": "Jana Kirschner",
+          "url": "https://open.spotify.com/artist/3sakSn9xHMLlqQxOnQ57fB"
+        }
+      ],
+      "date_added": "2025-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204257,
+      "name": "Medzi nami - Tituln\u00e1 piese\u0148 k seri\u00e1lu Lebo medve\u010f",
+      "url": "https://open.spotify.com/track/4LvimcNlYEXNIrZTZkS9pf"
     },
     {
       "album": {
@@ -6503,6 +6673,24 @@
     },
     {
       "album": {
+        "name": "Nem\u00e1m z\u00e1jem",
+        "url": "https://open.spotify.com/album/0on3NZVztjzrrZ6ZsujGR2"
+      },
+      "artists": [
+        {
+          "name": "n\u011bco n\u011bco",
+          "url": "https://open.spotify.com/artist/65AeVBpWjG1fuOBkuMaHQw"
+        }
+      ],
+      "date_added": "2025-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190773,
+      "name": "Nem\u00e1m z\u00e1jem",
+      "url": "https://open.spotify.com/track/7JqzyEdyHkatAjV7oUmFSi"
+    },
+    {
+      "album": {
         "name": "Nenad\u011bl\u00e1\u0161 nic",
         "url": "https://open.spotify.com/album/4RmksZqJvhgeexH8Pk1OBL"
       },
@@ -6764,6 +6952,24 @@
       "duration_ms": 153998,
       "name": "No ne",
       "url": "https://open.spotify.com/track/5FGWgx9LwXG3sNIYknUeRj"
+    },
+    {
+      "album": {
+        "name": "and I forever will",
+        "url": "https://open.spotify.com/album/3SPEGbtbOhCnjaq63MB6QZ"
+      },
+      "artists": [
+        {
+          "name": "TIMEA",
+          "url": "https://open.spotify.com/artist/6r2KeAcGJeDDXmQoFdlcw1"
+        }
+      ],
+      "date_added": "2025-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177553,
+      "name": "NOV\u00c9 TELO",
+      "url": "https://open.spotify.com/track/5tOhbmJP38RCDpHejD98fJ"
     },
     {
       "album": {
@@ -7608,7 +7814,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 199318,
       "name": "Pist\u00e1cie",
       "url": "https://open.spotify.com/track/5YGSgkf3EwptDJVui3TotY"
@@ -8998,7 +9204,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 199550,
       "name": "Shady",
       "url": "https://open.spotify.com/track/0djglhj1sOKlInax4HOgvL"
@@ -9654,7 +9860,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 171265,
       "name": "SOULMATE",
       "url": "https://open.spotify.com/track/6gc5VDInSx3s0MBqwmB6Gz"
@@ -9940,6 +10146,24 @@
       "duration_ms": 167974,
       "name": "stuck in the cloud",
       "url": "https://open.spotify.com/track/3bvzNtR80zFbbVCFjyXt7Y"
+    },
+    {
+      "album": {
+        "name": "Ja, S\u00e1ra",
+        "url": "https://open.spotify.com/album/4nv3fKGDfVWJEbIiSYkZte"
+      },
+      "artists": [
+        {
+          "name": "Sara Rikas",
+          "url": "https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo"
+        }
+      ],
+      "date_added": "2025-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158010,
+      "name": "St\u00e1le som",
+      "url": "https://open.spotify.com/track/7JeVRhvdsU2s6HpuUPdEuA"
     },
     {
       "album": {
@@ -10502,7 +10726,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 162317,
       "name": "Things We Can\u2019t Change",
       "url": "https://open.spotify.com/track/5ye69m9BT1uKBxmrI4tg3O"
@@ -10744,7 +10968,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 117096,
       "name": "Tokyo",
       "url": "https://open.spotify.com/track/34bxnWVxYn4tSqaPZ0Vn3d"
@@ -10910,6 +11134,24 @@
       "duration_ms": 160903,
       "name": "Tudu Tudu Tu",
       "url": "https://open.spotify.com/track/72UIs3n4aCN6GInoLSNQBV"
+    },
+    {
+      "album": {
+        "name": "TURN IT ON",
+        "url": "https://open.spotify.com/album/1E92Z7tNpzthZertgGf81x"
+      },
+      "artists": [
+        {
+          "name": "The Youniverse",
+          "url": "https://open.spotify.com/artist/1TIOHaY7eRJ6jZVA1NLYrk"
+        }
+      ],
+      "date_added": "2025-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257948,
+      "name": "TURN IT ON",
+      "url": "https://open.spotify.com/track/70aikt3gZulhIT2czZq9bJ"
     },
     {
       "album": {
@@ -11108,7 +11350,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 176100,
       "name": "Ut\u00edk\u00e1m",
       "url": "https://open.spotify.com/track/5Bq5TDiOzOW3AXR7DUZ1jc"
@@ -11530,7 +11772,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 186891,
       "name": "Vo vln\u00e1ch",
       "url": "https://open.spotify.com/track/1WdHUh2v06A6vE8ZwZ9FQO"
@@ -12614,7 +12856,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 214125,
       "name": "\u0158eka",
       "url": "https://open.spotify.com/track/1yEmZ1SeeB5q9pa3InajFP"

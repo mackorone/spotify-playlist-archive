@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Keinemusik
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,596 likes - 99 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,634 likes - 99 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 73 | [Not Ready for This](https://open.spotify.com/track/0gyS0E1tRStw3Rv3jmos64) | [Mika Heggemann](https://open.spotify.com/artist/629DRpzxtk6FhLuqMfSqqP), [Teletech](https://open.spotify.com/artist/30tToHC6q3nB7Lious0MZW) | [Anti Club](https://open.spotify.com/album/5gTVJcv2cgoNwqLfPxTBKG) | 5:13 |
 | 74 | [The Kingdom](https://open.spotify.com/track/3rv5ILFO1NYZMymrk6962N) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Radical Redemption](https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC) | [The Kingdom](https://open.spotify.com/album/2huIIggdRS5Ndv1887BiKq) | 2:34 |
 | 75 | [Hardcore Vibes](https://open.spotify.com/track/6GTyZph2sNYIDnUZNSFoy2) | [Remady](https://open.spotify.com/artist/3JxNeLgMuJI0DEmDt9dLzc) | [Hardcore Vibes](https://open.spotify.com/album/5GmY1udsIswK6zxwMGXivJ) | 2:12 |
-| 76 | [Slow Burner \(feat\. Original Koffee\)](https://open.spotify.com/track/1Siu5Bnrt90vtjUddXeTUg) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [Original Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Slow Burner \(feat\. Original Koffee\)](https://open.spotify.com/album/6j4ffFjnsHqYexblnGJwdB) | 3:32 |
+| 76 | [Slow Burner](https://open.spotify.com/track/1Siu5Bnrt90vtjUddXeTUg) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [Original Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Slow Burner](https://open.spotify.com/album/6j4ffFjnsHqYexblnGJwdB) | 3:32 |
 | 77 | [Monster Paradise](https://open.spotify.com/track/71BQG6SlpeXpdx7PJaFNnB) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Bombs Away](https://open.spotify.com/artist/1YlyxjwYNSjBD0NAJGEfWB) | [Monster Paradise](https://open.spotify.com/album/0zCqTL9pofyiYRf1t3bKAf) | 2:45 |
 | 78 | [Nobody Else But U](https://open.spotify.com/track/3iagcHosUvxs9876pJwZKI) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0) | [Nobody Else But U](https://open.spotify.com/album/6vNxyOKtUI4bpLKOtYlIkY) | 3:20 |
 | 79 | [Last Days of Summer](https://open.spotify.com/track/0R3bd9YzOJx34Cc7gCg10f) | [Cuebrick](https://open.spotify.com/artist/2ONoOunWxnWn1DikA6rjBM), [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv), [Kilian K](https://open.spotify.com/artist/04sHHRws8Q7apGxRnUnjQs), [Dom Fricot](https://open.spotify.com/artist/4O4jSSDSarGDFwSNdq83Nr) | [Last Days of Summer](https://open.spotify.com/album/6RLQN48bn30t7gtH4F1Bn2) | 3:03 |

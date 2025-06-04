@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 
 > Lo mejor de junio 2025\. Cover: rusowsky
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,538,782 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,538,685 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 49 | [DESEO](https://open.spotify.com/track/0J2YHeebc3HvUDl2XDPu7d) | [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG), [Sky Rompiendo](https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW) | [NACER DE NUEVO](https://open.spotify.com/album/2Q3qBzFiex2SN5hWMEJj1H) | 2:21 |
 | 50 | [Lipstick ;\*](https://open.spotify.com/track/1lkaSFy9fe9Ra9XUCQ43Rq) | [Esteesgarcia](https://open.spotify.com/artist/0rpoBOaSqljEMecAxSw26j) | [Lipstick ;\*](https://open.spotify.com/album/20trmfQgWbTcyQl7beIfPb) | 3:21 |
 
-Snapshot ID: `aDjergAAAAALfocJoSQ/E4V/BVEOxJqs`
+Snapshot ID: `AAAAAJWF5No6Q6Wt73wCLkkVW5kwU2Ma`

@@ -1,6 +1,6 @@
 {
   "description": "Top flight Caribbean influenced bangers made in Uganda ",
-  "num_followers": 1510,
+  "num_followers": 1509,
   "original_name": "Kidandali Parte",
   "owner": {
     "name": "Spotify",
@@ -527,30 +527,6 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
-        "name": "Getting Better",
-        "url": "https://open.spotify.com/album/4k0zaChGbs479PYPo1EWUC"
-      },
-      "artists": [
-        {
-          "name": "Ambassada",
-          "url": "https://open.spotify.com/artist/6qpyACpw41RivvvNo2LjsS"
-        },
-        {
-          "name": "Pallaso",
-          "url": "https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5"
-        },
-        {
-          "name": "Ps Wilson Bugembe",
-          "url": "https://open.spotify.com/artist/0klkSQ9nnuVVrURzP6QKzD"
-        }
-      ],
-      "duration_ms": 245363,
-      "name": "Getting Better",
-      "url": "https://open.spotify.com/track/6fkrSntANiQEQhFMkswCrd"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
         "name": "Nkwatewa",
         "url": "https://open.spotify.com/album/6kgT8uvBzofMYLxeqx6rBe"
       },
@@ -571,6 +547,30 @@
       "duration_ms": 181890,
       "name": "Nkwatewa",
       "url": "https://open.spotify.com/track/4fvpUiaak8u4jjcW9WQCJg"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
+        "name": "Getting Better",
+        "url": "https://open.spotify.com/album/4k0zaChGbs479PYPo1EWUC"
+      },
+      "artists": [
+        {
+          "name": "Ambassada",
+          "url": "https://open.spotify.com/artist/6qpyACpw41RivvvNo2LjsS"
+        },
+        {
+          "name": "Pallaso",
+          "url": "https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5"
+        },
+        {
+          "name": "Ps Wilson Bugembe",
+          "url": "https://open.spotify.com/artist/0klkSQ9nnuVVrURzP6QKzD"
+        }
+      ],
+      "duration_ms": 245363,
+      "name": "Getting Better",
+      "url": "https://open.spotify.com/track/6fkrSntANiQEQhFMkswCrd"
     },
     {
       "added_at": "2024-03-01 12:07:08",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
-        "name": "Rambada",
-        "url": "https://open.spotify.com/album/3CemRlISKRsUZTfpexaEK0"
-      },
-      "artists": [
-        {
-          "name": "Vyper Ranking",
-          "url": "https://open.spotify.com/artist/5oqBr2TaQCIsLGIDNGyexQ"
-        }
-      ],
-      "duration_ms": 161632,
-      "name": "Rambada",
-      "url": "https://open.spotify.com/track/05snCTfapTB6et7XoqIUDB"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
         "name": "Stupid",
         "url": "https://open.spotify.com/album/0dNQmVpyFpFjazSiMwyvpW"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 217338,
       "name": "Stupid",
       "url": "https://open.spotify.com/track/2GQFN64gmx6tGYW5y3VLFA"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
+        "name": "Rambada",
+        "url": "https://open.spotify.com/album/3CemRlISKRsUZTfpexaEK0"
+      },
+      "artists": [
+        {
+          "name": "Vyper Ranking",
+          "url": "https://open.spotify.com/artist/5oqBr2TaQCIsLGIDNGyexQ"
+        }
+      ],
+      "duration_ms": 161632,
+      "name": "Rambada",
+      "url": "https://open.spotify.com/track/05snCTfapTB6et7XoqIUDB"
     },
     {
       "added_at": "2024-03-01 12:07:08",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
-        "name": "Randomly",
-        "url": "https://open.spotify.com/album/3riIOAhXg6Zo3GNze6M08e"
-      },
-      "artists": [
-        {
-          "name": "Beenie Gunter",
-          "url": "https://open.spotify.com/artist/6DxTQayPPAyuz433BQmLtE"
-        }
-      ],
-      "duration_ms": 163846,
-      "name": "Randomly",
-      "url": "https://open.spotify.com/track/1Fv38gwrECsHY2LyNwsnl1"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
         "name": "Tebali Ready",
         "url": "https://open.spotify.com/album/4yafC0oNDkExVSN21Nie1P"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 159853,
       "name": "Tebali Ready",
       "url": "https://open.spotify.com/track/11GS4DjFxj9GHPnlOhKe5K"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
+        "name": "Randomly",
+        "url": "https://open.spotify.com/album/3riIOAhXg6Zo3GNze6M08e"
+      },
+      "artists": [
+        {
+          "name": "Beenie Gunter",
+          "url": "https://open.spotify.com/artist/6DxTQayPPAyuz433BQmLtE"
+        }
+      ],
+      "duration_ms": 163846,
+      "name": "Randomly",
+      "url": "https://open.spotify.com/track/1Fv38gwrECsHY2LyNwsnl1"
     },
     {
       "added_at": "2024-03-01 12:07:08",

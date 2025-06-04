@@ -1373,6 +1373,28 @@
     },
     {
       "album": {
+        "name": "brand new teeth",
+        "url": "https://open.spotify.com/album/2jxdO5piZh8yURPkJddghF"
+      },
+      "artists": [
+        {
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+        },
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+        }
+      ],
+      "date_added": "2025-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267254,
+      "name": "brand new teeth",
+      "url": "https://open.spotify.com/track/52DB1pkUN9cyYjLK0vmI0s"
+    },
+    {
+      "album": {
         "name": "Bread",
         "url": "https://open.spotify.com/album/7jNNp7jkP40DU2vF09iYuA"
       },
@@ -3114,7 +3136,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 221525,
       "name": "For You - Many Selves Version",
       "url": "https://open.spotify.com/track/1ZomkKbXsQoycnKzGV6NIZ"
@@ -5476,6 +5498,24 @@
       "duration_ms": 375385,
       "name": "LMKWYGH",
       "url": "https://open.spotify.com/track/2wiIWQzSZ06GbgkABk4pT6"
+    },
+    {
+      "album": {
+        "name": "London Summers",
+        "url": "https://open.spotify.com/album/6L0fjCZSfZxhavSOOh4ohF"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "date_added": "2025-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217636,
+      "name": "London Summers",
+      "url": "https://open.spotify.com/track/1vCnTZE7PVUakwkqCnIhrn"
     },
     {
       "album": {
@@ -9280,7 +9320,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 176121,
       "name": "Temptress",
       "url": "https://open.spotify.com/track/3oRXIgoaxiemxMk3uXmH7N"
@@ -10047,6 +10087,24 @@
     },
     {
       "album": {
+        "name": "Tokyo",
+        "url": "https://open.spotify.com/album/3nh5xJdRaQTBqNRcyeXrMT"
+      },
+      "artists": [
+        {
+          "name": "WIM",
+          "url": "https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz"
+        }
+      ],
+      "date_added": "2025-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152125,
+      "name": "Tokyo",
+      "url": "https://open.spotify.com/track/78scp8RmPk3Ove8b5qrhw2"
+    },
+    {
+      "album": {
         "name": "Tokyo Lift (5am)",
         "url": "https://open.spotify.com/album/5VOkDAIt6P6s1eNRhay1xE"
       },
@@ -10120,7 +10178,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 223278,
       "name": "Toothache",
       "url": "https://open.spotify.com/track/6plp1nJtm4Y3m87qmDCy61"

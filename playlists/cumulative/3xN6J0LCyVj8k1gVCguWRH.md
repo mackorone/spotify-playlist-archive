@@ -4,7 +4,7 @@
 
 > What&\#x27;s gonna be the song of the Summer 2025!?
 
-4,987 songs - 11 day 15 hr 19 min
+4,989 songs - 11 day 15 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1401,7 +1401,7 @@
 | [Familiar Friend](https://open.spotify.com/track/7kMThpIu48L8aXjTmGfpzb) | [Alex Togashii](https://open.spotify.com/artist/0HVbw8ntLBVDL9fpJYMljZ) | [Familiar Friend](https://open.spotify.com/album/79xAQ8u00zRdmvLIp1q7cr) | 3:50 | 2022-03-28 | 2022-04-14 |
 | [Family Is Forever](https://open.spotify.com/track/6kZsfwG6V6I3hOs0yq2gag) | [Steve Maggiora](https://open.spotify.com/artist/2bcMIMHrZ3PRRf8T9cbyod) | [Unburdened](https://open.spotify.com/album/5Qmu4TqwIxzDEPi3wydJ97) | 2:28 | 2025-04-23 | 2025-05-05 |
 | [Famous](https://open.spotify.com/track/2QKRw7FCHQlf5BnyzfqP7Z) | [ERLY](https://open.spotify.com/artist/2z7Bw7TpA0GEbtU3dJRK6I) | [Famous](https://open.spotify.com/album/6wdgS4Kf0SeJYj94dGnHfC) | 2:54 | 2024-09-06 | 2025-03-10 |
-| [Famous](https://open.spotify.com/track/7c250SE0pSpbqedl7hKDyj) | [Murder Pop](https://open.spotify.com/artist/6wkAkougMk6JdWAe042rYV) | [For Love & Murder](https://open.spotify.com/album/6dhfocpWO77fa0Xcnp7hFt) | 3:56 | 2025-05-24 |  |
+| [Famous](https://open.spotify.com/track/7c250SE0pSpbqedl7hKDyj) | [Murder Pop](https://open.spotify.com/artist/6wkAkougMk6JdWAe042rYV) | [For Love & Murder](https://open.spotify.com/album/6dhfocpWO77fa0Xcnp7hFt) | 3:56 | 2025-05-24 | 2025-06-04 |
 | [Fancy](https://open.spotify.com/track/3PyophwfgOqcTcL9ZTmfXk) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x), [Prodéje](https://open.spotify.com/artist/0WUZY9y7pD32XT7vDZKslp) | [Fancy](https://open.spotify.com/album/5J9YfYw8g7zr5hIsI10OAr) | 3:04 | 2021-04-23 | 2021-05-05 |
 | [Fantasmas](https://open.spotify.com/track/53FbFxiRAPp0OKnQ3MZUdZ) | [New Sex Machine](https://open.spotify.com/artist/0csIrndJ6nijz5bSRcAhQv) | [Fantasmas](https://open.spotify.com/album/2EpuMBGDCKqhGG856YrdWd) | 3:38 | 2023-12-19 | 2024-01-02 |
 | [Fantasmas](https://open.spotify.com/track/5MkDOoJYGxrw3zoezAVUQK) | [New Sex Machine](https://open.spotify.com/artist/0csIrndJ6nijz5bSRcAhQv) | [Fantasmas](https://open.spotify.com/album/3yuSnytQB4z7MnFEILvvQC) | 3:38 | 2024-01-12 | 2024-01-24 |
@@ -2218,6 +2218,7 @@
 | [Is the Juice Worth the Squeeze](https://open.spotify.com/track/1hEPIQxS1KHHd2iXaYfHGT) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x), [Prodéje](https://open.spotify.com/artist/0WUZY9y7pD32XT7vDZKslp) | [Is the Juice Worth the Squeeze](https://open.spotify.com/album/2pcDfVkZRMXayA0vt0BWUK) | 3:15 | 2022-10-31 | 2022-11-21 |
 | [is this as good as it gets?](https://open.spotify.com/track/6T67uQrMBlD7uc8QcQroD2) | [chasing luma](https://open.spotify.com/artist/7gu7zV4EPRuD1gVQgFtsFH) | [is this as good as it gets?](https://open.spotify.com/album/1RbqmWFJRz8ZBZWVrS2hpr) | 2:48 | 2024-11-08 | 2024-11-20 |
 | [Is This Love](https://open.spotify.com/track/0cW1T1WXllrstd0qQ6Y6ZU) | [Tara Hack](https://open.spotify.com/artist/0c0qWJf7rBSadLkd5uufYm) | [Is This Love](https://open.spotify.com/album/1EYZRXIOuVBPlmLHledk1u) | 3:20 | 2024-02-20 | 2024-02-28 |
+| [Island](https://open.spotify.com/track/5pkVDFKc4rnrpPLagBU9tP) | [XAXA](https://open.spotify.com/artist/2Rtn7OFpkjyS5OXGaKzwW1) | [Island](https://open.spotify.com/album/0zxKiDbFHPliuI2TJeo8TK) | 2:39 | 2025-06-03 |  |
 | [Islands 666](https://open.spotify.com/track/16Yelu4DCDryBwD3x7d76j) | [Griffith James](https://open.spotify.com/artist/0lSfUP83siewf0pciB2iXP) | [Comfortably High](https://open.spotify.com/album/63T4B7eiV6fz3BfeFo1mXL) | 3:39 | 2021-09-19 | 2021-10-04 |
 | [Issues \(Can you let go of me?\)](https://open.spotify.com/track/0Fg0rHqPfHZCxgGCTBY9OF) | [Rylai](https://open.spotify.com/artist/7KDj25EE7znAHMUL9DQEQz) | [Issues \(Can you let go of me?\)](https://open.spotify.com/album/4Pl9ca3mA9GZ0BCI1VNHTQ) | 3:30 | 2022-09-09 | 2024-02-11 |
 | [Issues \(Can you let go of me?\)](https://open.spotify.com/track/0CXMsnz6VnPEkShtCq1siD) | [Rylai](https://open.spotify.com/artist/7KDj25EE7znAHMUL9DQEQz) | [Issues \(Can you let go of me?\)](https://open.spotify.com/album/0eSNDuRELbOl6sQga0R6lc) | 3:30 | 2025-04-09 | 2025-04-20 |
@@ -2418,7 +2419,7 @@
 | [Lean On Me](https://open.spotify.com/track/0YCELaUtj7DZ7AUXoYyK8Z) | [Hero Da Kyng](https://open.spotify.com/artist/5b6xoFlWI8D7XFQMwnGE6r) | [Lean On Me](https://open.spotify.com/album/66aalciMfBRygXCBySPJgP) | 2:30 | 2024-05-10 | 2024-05-22 |
 | [Leave](https://open.spotify.com/track/7ojOuwJIa8JHqQBtiGe6fG) | [Jacob Miller](https://open.spotify.com/artist/5ETV1D5HBcoygYbYGEAln6) | [Leave](https://open.spotify.com/album/2Ec0JzyMefidRWUoITDtJN) | 4:27 | 2022-01-28 | 2022-02-13 |
 | [leave her](https://open.spotify.com/track/1jRTd3222ruwh0czzrjZKo) | [kid apollo](https://open.spotify.com/artist/13aNIXsYtPJ8kUmv9VgU7u) | [leave her](https://open.spotify.com/album/4u7DeTIrAdV5lvatL0iWlO) | 3:03 | 2022-10-31 | 2022-11-21 |
-| [Leave It \- Acoustic](https://open.spotify.com/track/548IbHVmoE36ws8cpv7IKW) | [Caleb Flint](https://open.spotify.com/artist/6waeHMbG6L2SfnVLCB2uvA) | [Leave It \(Acoustic\)](https://open.spotify.com/album/7ym4EQehhbWjYFEA9cbfSE) | 2:58 | 2025-05-23 |  |
+| [Leave It \- Acoustic](https://open.spotify.com/track/548IbHVmoE36ws8cpv7IKW) | [Caleb Flint](https://open.spotify.com/artist/6waeHMbG6L2SfnVLCB2uvA) | [Leave It \(Acoustic\)](https://open.spotify.com/album/7ym4EQehhbWjYFEA9cbfSE) | 2:58 | 2025-05-23 | 2025-06-04 |
 | [Leave It On The Floor](https://open.spotify.com/track/2sYMZ154MSn1nYEBnsyXfz) | [Frankie Zulferino](https://open.spotify.com/artist/1e2qCgABcOAaTeqLHHFkvC) | [Leave It On The Floor](https://open.spotify.com/album/0mOkUy4lrQxvqDIsCcj1Pn) | 3:50 | 2023-08-25 | 2024-02-11 |
 | [Leave Me Alone \- Radio Edit](https://open.spotify.com/track/0KvlHmo9eESDJZ6HlwBQId) | [YLLOW](https://open.spotify.com/artist/2V4UFfOx7rKFQffasDTLEp), [Vyel](https://open.spotify.com/artist/5xmehWlamvEZUh99hiIL7e) | [Leave Me Alone](https://open.spotify.com/album/0KjlI5dFICMSRxhHaIk1me) | 3:06 | 2021-02-19 | 2021-04-26 |
 | [Leave On](https://open.spotify.com/track/3cW5hkEti7bgrHGHrlEgkI) | [Smith William](https://open.spotify.com/artist/5DxdZin9LBhrN8SLwTg9fr) | [Soundtrack to a Daydream](https://open.spotify.com/album/771YFM8J5owQTbwzgwioLf) | 3:51 | 2024-12-03 | 2024-12-15 |
@@ -3001,6 +3002,7 @@
 | [Nick Of Time](https://open.spotify.com/track/1gqk2dawfdLdn4XamF27cx) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Nick Of Time](https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln) | 3:52 | 2020-08-20 | 2023-08-28 |
 | [Nico's Exorcism Dance](https://open.spotify.com/track/3XGzAIo7x8k9h4YKkswMHy) | [NTHNL](https://open.spotify.com/artist/5QryVzY6vVbE1gej2L42ux) | [Cosmic Flute Rides Again](https://open.spotify.com/album/5jeY5UDKprTPQuPX8VBKig) | 2:39 | 2023-03-24 | 2023-04-13 |
 | [Night Fire](https://open.spotify.com/track/1lKaKOHHWlbK4LKn8K8FkU) | [Lightbulb the Entertainer](https://open.spotify.com/artist/5vG0ex3chH3Z7DOzQmyfeB) | [Night Fire](https://open.spotify.com/album/1Ue4o2M2KPV4WZB4vS89FM) | 3:35 | 2024-08-07 | 2024-08-19 |
+| [Night Like This](https://open.spotify.com/track/1qKIRNweuXSFK8np3Rc1Da) | [The Sultan](https://open.spotify.com/artist/5T41RBybGyziQJ8ImxjomX) | [Night Like This](https://open.spotify.com/album/0A5Z1MVmgIOrf22MNmsLiZ) | 2:21 | 2025-06-03 |  |
 | [Night Skies](https://open.spotify.com/track/4RNKofeyQuBizGTSKyrkrG) | [ONLYYREECE](https://open.spotify.com/artist/3gepT42nGN2OEyQ5FmnDNU) | [Night Skies](https://open.spotify.com/album/0i2FaXMnXBc55s0SKwg0gH) | 3:41 | 2024-06-15 | 2024-06-27 |
 | [Nightlife](https://open.spotify.com/track/3zdu4JE1HuGCe6uMISMszm) | [Frankie Aero](https://open.spotify.com/artist/0mAUuCDjHfmsNsmfLvd9SX) | [Nightlife](https://open.spotify.com/album/2l4KhjaKmkG0YIufYZMuEk) | 2:05 | 2024-01-08 | 2024-01-16 |
 | [Nightmare](https://open.spotify.com/track/7CW6sqI4UD5ZHpvp9hQc0i) | [Fabio Noventa](https://open.spotify.com/artist/0MIzQkmOMwk3Ku6RHmo7Gf) | [Nightmare](https://open.spotify.com/album/0LRF4AYKjR8E1aHMJVrAqI) | 2:23 | 2025-02-05 | 2025-02-17 |
@@ -3439,7 +3441,7 @@
 | [Puppet \(Remix\)](https://open.spotify.com/track/0CVYn08YYfxnTtZ2INXoj6) | [nys the halfsoul](https://open.spotify.com/artist/2RRycyJ57DBC9gGiPBZz0l), [FK](https://open.spotify.com/artist/4yXJ0seawIpcG3BOPr9eKG) | [Puppet \(Remix\)](https://open.spotify.com/album/3RCuPZ794WLACLF7w87VUV) | 3:38 | 2024-09-02 | 2024-09-14 |
 | [Puppy Dog](https://open.spotify.com/track/13O36COxxWjcvc9r5Zsd1P) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [Puppy Dog](https://open.spotify.com/album/76gFoEHYVhnXoVIbEOCgAo) | 3:30 | 2020-03-11 | 2020-04-09 |
 | [Purple Fog](https://open.spotify.com/track/1875SOvAgcm7XgcJzUcigr) | [Electronic Ghost Machine](https://open.spotify.com/artist/71ziaQGPpNbEeUWkxB621i) | [Purple Fog](https://open.spotify.com/album/3mXFHLoB1DzZJjI2vM94AD) | 3:23 | 2022-07-22 | 2022-08-08 |
-| [Purple Haze](https://open.spotify.com/track/1tYF1iMjJLNjYi0ka0whGA) | [The Static Dive](https://open.spotify.com/artist/2bo4x9G5fsOOqdTfyqPulX) | [Purple Haze](https://open.spotify.com/album/02hNOJxAQivtNDUQoAAjDO) | 3:10 | 2025-05-23 |  |
+| [Purple Haze](https://open.spotify.com/track/1tYF1iMjJLNjYi0ka0whGA) | [The Static Dive](https://open.spotify.com/artist/2bo4x9G5fsOOqdTfyqPulX) | [Purple Haze](https://open.spotify.com/album/02hNOJxAQivtNDUQoAAjDO) | 3:10 | 2025-05-23 | 2025-06-04 |
 | [Purple Lights](https://open.spotify.com/track/27LbOnQDsuVCj45XTcfnGZ) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x) | [Purple Lights](https://open.spotify.com/album/58nnWXMNP6rMVyN4EazeFR) | 3:25 | 2019-12-03 | 2019-12-11 |
 | [Purple Vibe](https://open.spotify.com/track/3t3i0UrUWY9peqGNv1FC0l) | [Saint Stacy](https://open.spotify.com/artist/5jvug60dRrKFRuQp8zKn9G) | [Purple Vibe](https://open.spotify.com/album/0iix9XgCNDMrYeQ8YLUHoq) | 3:18 | 2023-07-15 | 2023-08-04 |
 | [Push Me Away](https://open.spotify.com/track/4w5hSY2DseUHQDoCVGV5J2) | [EXVCT](https://open.spotify.com/artist/0RTnIEzAVkgAvxAm5XFU9h) | [From The Future To The Garage](https://open.spotify.com/album/7qzw882Ol8ld2jZ3IDC2yd) | 2:41 | 2023-12-15 | 2024-01-02 |

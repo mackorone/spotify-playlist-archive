@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover:  Kizz Daniel
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,185 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,261 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 15 | [Girlfriend \(feat\. Tayc\)](https://open.spotify.com/track/2zrvFZHDSxreEJoQx4BRGm) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Girlfriend \(feat\. Tayc\)](https://open.spotify.com/album/68Gsi5EWwLNh7lj5Jw6S9V) | 2:50 |
 | 16 | [London Summers](https://open.spotify.com/track/1vCnTZE7PVUakwkqCnIhrn) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [London Summers](https://open.spotify.com/album/6L0fjCZSfZxhavSOOh4ohF) | 3:37 |
 | 17 | [Toro \- A COLORS SHOW](https://open.spotify.com/track/5ch484wWUkTPp6saoxACAN) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Toro \- A COLORS SHOW](https://open.spotify.com/album/04VbzJIXJCG2AZ3j4at6by) | 3:14 |
-| 18 | [Amina \(feat\. Ste Milano\)](https://open.spotify.com/track/2pKtmJkSS6EPKlcuUFkVxL) | [AKIM PAPICHULO](https://open.spotify.com/artist/4YoNTFyTQlpPs0y603bBS6), [Ste Milano](https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd) | [LOVE CONTENT \(Pt\. 1\)](https://open.spotify.com/album/708N6j6rRage0rjl7p0qC4) | 2:20 |
+| 18 | [Amina](https://open.spotify.com/track/2pKtmJkSS6EPKlcuUFkVxL) | [AKIM PAPICHULO](https://open.spotify.com/artist/4YoNTFyTQlpPs0y603bBS6), [Ste Milano](https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd) | [LOVE CONTENT \(Pt\. 1\)](https://open.spotify.com/album/708N6j6rRage0rjl7p0qC4) | 2:20 |
 | 19 | [YOU AND ME](https://open.spotify.com/track/3SAacqnIY8kK9McSIRC9Rv) | [PapaRaZzle](https://open.spotify.com/artist/4hfjJtqZRM6khacMfYHwTL) | [YOU AND ME](https://open.spotify.com/album/2Lx9x55fGEtryAOZhXorMF) | 2:41 |
 | 20 | [Pikachu](https://open.spotify.com/track/5oeJLAPg60CeNRhugx97NO) | [Wilson](https://open.spotify.com/artist/7ndfTr3ku2KUcZY73ZIX6j) | [Thérapie](https://open.spotify.com/album/7jElTv2Gm36NOpymhRrHZL) | 2:03 |
 | 21 | [Sixth Sense](https://open.spotify.com/track/6mwss5opb48PmLi1wf9H2I) | [Thutmose](https://open.spotify.com/artist/1igl9M102nuD96lo3ZoW5d), [AMANi](https://open.spotify.com/artist/1sQLw35hDRaCMyfWODi2vl) | [Sixth Sense](https://open.spotify.com/album/6CKRtVzH77QIb6FFXPQIlb) | 3:03 |

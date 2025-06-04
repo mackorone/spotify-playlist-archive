@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIm5Nuoh0vn.md) - [plain]
 
 > Enjoy Music From "Fruits Basket"! TVアニメ『フルーツバスケット』の魅力を歴代のOP/ED主題歌、サントラでお届けします。©高屋奈月・白泉社/フルーツバスケット製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,731 likes - 55 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,735 likes - 55 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIm5Nuoh0vn.md) - [plain]
 | 54 | [Fruits Basket \- Alt version](https://open.spotify.com/track/20kULMIWTRY9xBdkpJgwww) | [Masaru Yokoyama](https://open.spotify.com/artist/3RN3VTAcHI62WWV3PlwlLK) | [フルーツバスケット 1st season オリジナル・サウンドコレクション](https://open.spotify.com/album/6MR1Vu8CMqGspMSrh4UrwF) | 2:25 |
 | 55 | [Repeat And Repeat](https://open.spotify.com/track/6SrB40OTEUqRKcP9ZIHLnO) | [Masaru Yokoyama](https://open.spotify.com/artist/3RN3VTAcHI62WWV3PlwlLK) | [フルーツバスケット 1st season オリジナル・サウンドコレクション](https://open.spotify.com/album/6MR1Vu8CMqGspMSrh4UrwF) | 2:22 |
 
-Snapshot ID: `ZIxWUgAAAAB12umpVxm7siN7PiKJsc6P`
+Snapshot ID: `ZIxWUgAAAADApR1rBGS2nkGKQUB6aedz`

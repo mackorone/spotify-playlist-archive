@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4sOuCZZM60YHkWWZVqZPXn">Robert Lopez</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-210 songs - 9 hr 32 min
+211 songs - 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,8 @@
 | [I Am Not Alone](https://open.spotify.com/track/52tM4KWWdgrhyiOACmXKZG) | [Up Here \- Cast](https://open.spotify.com/artist/69aGXX2T28iQOy1teJy61L), [Carlos Valdes](https://open.spotify.com/artist/4Ya1zqEk4JbCoyZBgUMNKI), [Emilia Suárez](https://open.spotify.com/artist/63N2LyprPztDL4WwgiZ7L5) | [Up Here \(Original Series Soundtrack\)](https://open.spotify.com/album/4ytsQEFFvWKALIRLkMBZxx) | 2:50 | 2024-07-26 |  |
 | [I Am with You \- From "At Home with Olaf"](https://open.spotify.com/track/2whVuvILLIbe1pP869sss8) | [Josh Gad](https://open.spotify.com/artist/4dSQICBjdUIp5iK6RRU2bY) | [I Am with You \(From “At Home with Olaf”\)](https://open.spotify.com/album/0NKY7311fpYNrs4YlcoJlN) | 1:49 | 2024-07-26 |  |
 | [I Believe](https://open.spotify.com/track/4YfNmQKnrX5DrlAxSAnMoA) | [Andrew Rannells](https://open.spotify.com/artist/0GxSAKOw8AV0JsEQ0HYY4b) | [The Book Of Mormon \(Original Broadway Cast Recording\)](https://open.spotify.com/album/5yauUuXppqUj2ulor38hvI) | 4:42 | 2024-07-26 |  |
-| [I Can't Lose You](https://open.spotify.com/track/7t4ZFjHW2BZwOaOtIg0NO3) | [Courtney Monsma](https://open.spotify.com/artist/1QBVJcLteI6vFtLTxraD2v), [Jemma Rix](https://open.spotify.com/artist/7oNLeZJJCOy7gEwUbbo4P8) | [In The Light](https://open.spotify.com/album/4uvHiOQSf5MQrWsppyqYeC) | 3:06 | 2024-07-26 |  |
+| [I Can't Lose You](https://open.spotify.com/track/7t4ZFjHW2BZwOaOtIg0NO3) | [Courtney Monsma](https://open.spotify.com/artist/1QBVJcLteI6vFtLTxraD2v), [Jemma Rix](https://open.spotify.com/artist/7oNLeZJJCOy7gEwUbbo4P8) | [In The Light](https://open.spotify.com/album/4uvHiOQSf5MQrWsppyqYeC) | 3:06 | 2024-07-26 | 2025-06-04 |
+| [I Can't Lose You \- From "Frozen: The Broadway Musical"](https://open.spotify.com/track/2Ki4rydvngfkyEn7cTTxj4) | [Caroline Bowman](https://open.spotify.com/artist/0gu3llwN4eXvpqpy8Z4REK), [Caroline Innerbichler](https://open.spotify.com/artist/2azTMlva8DehSZ0wuIPUIL) | [I Can't Lose You \(From "Frozen: The Broadway Musical"\)](https://open.spotify.com/album/7oRHPg60pbVbAZUxa6feBw) | 3:04 | 2025-06-03 |  |
 | [I Feel Like I've Always Known You \(Wedding\)](https://open.spotify.com/track/5UssUugtXbB2bhfBur3csu) | [Up Here \- Cast](https://open.spotify.com/artist/69aGXX2T28iQOy1teJy61L), [Aisha Jackson](https://open.spotify.com/artist/2X0luv37eF4krzDbMT7G7e) | [Up Here \(Original Series Soundtrack\)](https://open.spotify.com/album/4ytsQEFFvWKALIRLkMBZxx) | 2:47 | 2024-07-26 |  |
 | [I Feel Like I've Always Known You \(Woods\)](https://open.spotify.com/track/0MhIlSwUk4qfcl51y8m2Cl) | [Up Here \- Cast](https://open.spotify.com/artist/69aGXX2T28iQOy1teJy61L), [Mae Whitman](https://open.spotify.com/artist/4vOzhuYhVNHVToghhXMwPw), [Carlos Valdes](https://open.spotify.com/artist/4Ya1zqEk4JbCoyZBgUMNKI) | [Up Here \(Original Series Soundtrack\)](https://open.spotify.com/album/4ytsQEFFvWKALIRLkMBZxx) | 2:20 | 2024-07-26 |  |
 | [I Seek the Truth \- Outtake](https://open.spotify.com/track/1Nfgqsdtb3XbznbDppYlw5) | [Kristen Anderson\-Lopez](https://open.spotify.com/artist/3CneYb5exy4KOtvCCrozDD), [Patti Murin](https://open.spotify.com/artist/4wWuKGRcPwVaItabLxnObP) | [Frozen 2 \(Banda Sonora Original en Español/Edición Deluxe\)](https://open.spotify.com/album/1ltVI90usp38HOd7QmSSD2) | 4:01 | 2025-01-18 | 2025-01-20 |

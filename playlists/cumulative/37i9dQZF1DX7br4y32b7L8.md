@@ -4,10 +4,11 @@
 
 > songs voor je playlist! \#fyp
 
-720 songs - 1 day 12 hr 29 min
+721 songs - 1 day 12 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [1+1 \(Outside\)](https://open.spotify.com/track/2MPWNU7QkwmBNAoHdYLYfW) | [Dior](https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt), [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4) | [1+1 \(Outside\)](https://open.spotify.com/album/0W9yMPmPSIwvjKDv5jPPPJ) | 2:38 | 2025-06-03 |  |
 | [10/10](https://open.spotify.com/track/1Na008bZjzO3CR3JiHIZ3C) | [Romy Indy](https://open.spotify.com/artist/6JhADekMjsEbsfmBxjsmjQ) | [10/10](https://open.spotify.com/album/5VWPkqPUYktdoEVXIPhoRc) | 1:37 | 2025-04-09 |  |
 | [100 Gram Uit Nederland](https://open.spotify.com/track/5oVVU5t4eaIPH3Fsvfb0Dw) | [Opgekonkerd](https://open.spotify.com/artist/4wCyv0VP2QBapdMQvXrCFN), [Offensief](https://open.spotify.com/artist/5och3wqTbvZpmyYX8bPimR), [HET POMPSTATION](https://open.spotify.com/artist/6TQQsMsMKQBHjZrFv63d90), [Yung Petsi](https://open.spotify.com/artist/3fLUixLOM1KxH2PgdN3PMK) | [100 Gram Uit Nederland](https://open.spotify.com/album/7BUvK6HKtF5qaIHwR3cD8U) | 2:52 | 2024-06-24 | 2024-10-08 |
 | [1001 Arabian Nights](https://open.spotify.com/track/2TL9ng664CxAiRs37Hfa2Z) | [Chipz](https://open.spotify.com/artist/770rU18or2uAGT21xyvpzp) | [The World Of CH!PZ \(Deluxe version\)](https://open.spotify.com/album/3fuyXU6qRuSyC8yK3cMu83) | 3:06 | 2023-02-23 | 2023-03-04 |

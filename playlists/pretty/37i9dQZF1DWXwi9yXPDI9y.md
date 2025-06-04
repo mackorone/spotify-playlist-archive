@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwi9yXPDI9y.md) - [plain]
 
 > Have a drink and relax to the Jazz played in the background in the bar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,882 likes - 100 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,969 likes - 100 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwi9yXPDI9y.md) - [plain]
 | 45 | [When Your Lover Has Gone](https://open.spotify.com/track/4cAZSwLu81TpobAB0M9kz4) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baker's Holiday](https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR) | 2:54 |
 | 46 | [If You Could See Me Now](https://open.spotify.com/track/3k1fRAaUFBPMNkulplHupK) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Moon Beams \[Original Jazz Classics Remasters\]](https://open.spotify.com/album/3QTdjueo8EUx1sMLcPbNZc) | 4:29 |
 | 47 | [Excerpts From The Blues](https://open.spotify.com/track/4jY2c0mzMwB9PZbGEeCZZn) | [Ahmad Jamal](https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O) | [Happy Moods](https://open.spotify.com/album/0wulNVxoVugGBX7bwAAmGj) | 3:04 |
-| 48 | [Misty](https://open.spotify.com/track/3jaoAZieoSp9hOW6g84YnQ) | [Don Byas](https://open.spotify.com/artist/71M7lckOooBtdsLfD1qqqa) | [Amoureusement Vôtre](https://open.spotify.com/album/2F7LDeynUriBihPqWRgwQC) | 3:06 |
-| 49 | [Little White Lies](https://open.spotify.com/track/2LyNm94f8adOw3frDUHB5o) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Swings Lightly](https://open.spotify.com/album/3UC5JUy1CydJYU53KAtbdH) | 2:34 |
+| 48 | [Little White Lies](https://open.spotify.com/track/2LyNm94f8adOw3frDUHB5o) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Swings Lightly](https://open.spotify.com/album/3UC5JUy1CydJYU53KAtbdH) | 2:34 |
+| 49 | [Misty](https://open.spotify.com/track/3jaoAZieoSp9hOW6g84YnQ) | [Don Byas](https://open.spotify.com/artist/71M7lckOooBtdsLfD1qqqa) | [Amoureusement Vôtre](https://open.spotify.com/album/2F7LDeynUriBihPqWRgwQC) | 3:06 |
 | 50 | [My Conception](https://open.spotify.com/track/0xc3Zk647proIQWvRaXlsh) | [Sonny Clark](https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8) | [My Conception](https://open.spotify.com/album/4kyXSmqZ7WVTjodTRR4wgZ) | 4:44 |
 | 51 | [I Guess I'll Have To Change My Plan](https://open.spotify.com/track/0G1hOjlv35tcw3i1mgv8xG) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm) | [The Jazz Giants '56](https://open.spotify.com/album/7vuPKUQhuvq0GFnmojAkX1) | 9:29 |
 | 52 | [It Had To Be You](https://open.spotify.com/track/6nRX1T6aaqZLIA4KUldLTC) | [Dinah Shore](https://open.spotify.com/artist/73xrrv4ZrlpLi1q0Q34wiK), [André Previn](https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq) | [Great Ladies Of Song / Spotlight On Dinah Shore](https://open.spotify.com/album/5ilLtUVtszxkepkVCrqECy) | 3:24 |
@@ -75,9 +75,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwi9yXPDI9y.md) - [plain]
 | 65 | [You Turned The Tables On Me](https://open.spotify.com/track/1uO3R3HU9kC5xXjtun60pH) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB), [Oscar Peterson Quartet](https://open.spotify.com/artist/4NQPiiaJak2p93c2hl5rNQ) | [Anita Sings The Most](https://open.spotify.com/album/3kInD4ls57TJY4ATGDIqAS) | 3:43 |
 | 66 | [If I Had You \- Bonus Track](https://open.spotify.com/track/54U0BdTlsSah7SI6bxJeF6) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [For Those In Love \(Expanded Edition\)](https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2) | 4:45 |
 | 67 | [D & E](https://open.spotify.com/track/6IXPs28Up5f65Wg3sHzBsS) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [We Get Requests](https://open.spotify.com/album/4rCo3zGQW3xzkuHYwhJg40) | 5:10 |
-| 68 | [Autumn Leaves](https://open.spotify.com/track/5DiKG8ujZkxOKn4o8bodAI) | [Stan Getz Quintet](https://open.spotify.com/artist/2N3DoTjaVvmRZIx6AIkOv5), [Jimmy Raney](https://open.spotify.com/artist/42MZam7rropEzPCxlGTmOs) | [Autumn Leaves](https://open.spotify.com/album/0G6O2FuXK2CrwyzxcEpGsK) | 3:02 |
+| 68 | [Dear Lord](https://open.spotify.com/track/4GibdmpjKroUfLrbBVdWNp) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Dear Old Stockholm](https://open.spotify.com/album/6P6XOKteZFhhaCs1duL40k) | 5:30 |
 | 69 | [I Concentrate On You](https://open.spotify.com/track/3NgTr2ajVlWGTUrSUiHq6J) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX) | [Steppin'Out: Astaire Sings](https://open.spotify.com/album/2y3qfwH8IhIcWeRFBFArD6) | 2:47 |
-| 70 | [Dear Lord](https://open.spotify.com/track/4GibdmpjKroUfLrbBVdWNp) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Dear Old Stockholm](https://open.spotify.com/album/6P6XOKteZFhhaCs1duL40k) | 5:30 |
+| 70 | [Autumn Leaves](https://open.spotify.com/track/5DiKG8ujZkxOKn4o8bodAI) | [Stan Getz Quintet](https://open.spotify.com/artist/2N3DoTjaVvmRZIx6AIkOv5), [Jimmy Raney](https://open.spotify.com/artist/42MZam7rropEzPCxlGTmOs) | [Autumn Leaves](https://open.spotify.com/album/0G6O2FuXK2CrwyzxcEpGsK) | 3:02 |
 | 71 | [The Things We Did Last Summer](https://open.spotify.com/track/0ijX6kf5z4BDTEZCVKUKr2) | [Dizzy Reece](https://open.spotify.com/artist/748mYOdaWuFH4wXCvsvInR) | [Comin' On](https://open.spotify.com/album/3wY41DkrRiCgdK3VqIyBmr) | 6:17 |
 | 72 | [Diane](https://open.spotify.com/track/1Bc6DBlULAm002j4GeXP68) | [Miles Davis Quintet](https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx) | [Steamin' \[Rudy Van Gelder edition\]](https://open.spotify.com/album/6KJgxZYve2dbchVjw3MxBQ) | 7:47 |
 | 73 | [Embraceable You](https://open.spotify.com/track/4xRmeIsHXdGmjmJgyKSEx4) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO), [Max Roach](https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g) | [Brownie: The Complete EmArcy Recordings Of Clifford Brown](https://open.spotify.com/album/7tJS8e9TvcDxD6M9DSqIra) | 3:01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 
 > From Durban and Cape Town to the globe, yasuka leyonto! Cover:  <a href="https://open.spotify.com/artist/0UiPZvfKIwLbsxGZcQCWhq?si=f2UGVE4uQ8mmaC41VIvvSA">We Dem Boyz</a>, <a href="https://open.spotify.com/artist/78WiGrXy247kAziQ7GATKv?si=Vsa5BPnMSFiRl7RAdboUhQ">Dee Traits</a>, <a href="https://open.spotify.com/artist/1or4sxcSSFThb2p8VuK8Sn?si=RWY\-7lImTBy0nSEpB95DMw">ZVRI</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,513 likes - 55 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,544 likes - 55 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

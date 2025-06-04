@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Lee Vasi
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,923 likes - 99 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,949 likes - 99 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,6 +106,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 96 | [I Made It](https://open.spotify.com/track/3HrFG2EttmPaatFspolS8c) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [I Made It](https://open.spotify.com/album/4w92AtMsH4DAWIFsPvyt1k) | 3:51 |
 | 97 | [Marble Heart](https://open.spotify.com/track/3xfmsSEsYDnzbqf1uvjLbe) | [Hunter Plake](https://open.spotify.com/artist/7dToZgn1tZjiCKeT1y60zw), [Michael Monroe](https://open.spotify.com/artist/2DjzwlGxl8RUPTvvB9hgHv) | [Marble Heart](https://open.spotify.com/album/2V6vrIwLigJ6OQaqMcY85Y) | 3:48 |
 | 98 | [Lift My Eyes](https://open.spotify.com/track/5kg519nV965s3Mg5UcQuOV) | [Josh Wright](https://open.spotify.com/artist/0okSx9dxCq2J9CYuAQalp2) | [Lift My Eyes](https://open.spotify.com/album/5nKUFMFCT0WCg4iWvEDTmi) | 3:39 |
-| 99 | [SPRING](https://open.spotify.com/track/73OB35LFRhwA6mXkyAKjET) | [Citizen Way](https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4), [Ben Calhoun](https://open.spotify.com/artist/3DoB8IT5SRyA12rBhSqVkW), [Ava Calhoun](https://open.spotify.com/artist/1KzVqWVsYaIUlgtbGI09wx) | [SPRING](https://open.spotify.com/album/5bh73n2pSw0LujyHDzOZYP) | 3:51 |
+| 99 | [SPRING](https://open.spotify.com/track/73OB35LFRhwA6mXkyAKjET) | [Citizen Way](https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4), [Ava Calhoun](https://open.spotify.com/artist/1KzVqWVsYaIUlgtbGI09wx) | [SPRING](https://open.spotify.com/album/5bh73n2pSw0LujyHDzOZYP) | 3:51 |
 
-Snapshot ID: `aDllOwAAAABlegx8vrL05vCqId8IPtF0`
+Snapshot ID: `aDllOwAAAABUeISW03AWUH0W4xs9m0kW`

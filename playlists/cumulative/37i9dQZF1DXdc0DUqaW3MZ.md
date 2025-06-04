@@ -4,13 +4,13 @@
 
 > 
 
-446 songs - 1 day 2 hr 15 min
+447 songs - 1 day 2 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10%](https://open.spotify.com/track/41SwdQIX8Hy2u6fuEDgvWr) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 3:06 | 2021-12-07 | 2023-12-14 |
 | [1985](https://open.spotify.com/track/5DCoLPjn4bBNmf41iVG5Vh) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD) | [1985](https://open.spotify.com/album/2vjBfzq0CoilOQluDuD9Ny) | 2:50 | 2021-12-07 | 2023-10-01 |
-| [4mysoul](https://open.spotify.com/track/65WJw3Poze7Lnf4U0R465p) | [Joe Hertz](https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman), [Louis VI](https://open.spotify.com/artist/7tQDfSGEfN1CJcCmnnN4FV) | [4mysoul](https://open.spotify.com/album/22IQuoj7FA21jKOdgU0xd3) | 3:16 | 2024-07-26 |  |
+| [4mysoul](https://open.spotify.com/track/65WJw3Poze7Lnf4U0R465p) | [Joe Hertz](https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman), [Louis VI](https://open.spotify.com/artist/7tQDfSGEfN1CJcCmnnN4FV) | [4mysoul](https://open.spotify.com/album/22IQuoj7FA21jKOdgU0xd3) | 3:16 | 2024-07-26 | 2025-06-04 |
 | [5 AM](https://open.spotify.com/track/3sImbceGM6mUQhItLE57EM) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [5 AM](https://open.spotify.com/album/0EW965r0StvkvLONKpqVO9) | 3:24 | 2022-04-11 | 2022-04-19 |
 | [6 Feet Under](https://open.spotify.com/track/2wuGCJX1moO4WM3ngRzMQu) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [6 Feet Under](https://open.spotify.com/album/5pIx44PmYO4QfehWZBvdQt) | 3:21 | 2022-04-11 | 2022-04-18 |
 | [87 Days](https://open.spotify.com/track/0gZoK6Q1RJ46fyeC2Ib0r2) | [Haich Ber Na](https://open.spotify.com/artist/5W4B7OYk43jiH6qLcZ66Qd) | [From Then 'til Now](https://open.spotify.com/album/3zj3M9adqCVVP07vYWgMQh) | 3:41 | 2021-12-07 | 2022-07-28 |
@@ -325,6 +325,7 @@
 | [o shit!](https://open.spotify.com/track/0RQpg3Q0QOxp6gqDpE8uWH) | [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [o shit!](https://open.spotify.com/album/14V0wL2inmCogS2KVsWNm2) | 2:16 | 2022-04-11 | 2024-07-19 |
 | [Off Kilter](https://open.spotify.com/track/2nC7BtBWQ0fxpdkuuLzrdv) | [Harvey Causon](https://open.spotify.com/artist/7CfGxgCfRwumbKatrTjC4d) | [Fourth Wall](https://open.spotify.com/album/6f5i8vNHXp944iy5UPvSI7) | 3:46 | 2021-12-07 | 2022-07-01 |
 | [On The Low](https://open.spotify.com/track/0TvWlnaVTQK0R5eE8Q8iyi) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE) | [House of LION BABE](https://open.spotify.com/album/5IUfjrEOi16wUrxDArk0NQ) | 3:46 | 2024-09-19 | 2024-11-26 |
+| [Open](https://open.spotify.com/track/4W4avlhWR1Wr5497wJ7766) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU), [SAMSON](https://open.spotify.com/artist/2I2FhyufVacXGtnLVt5mcp) | [Open](https://open.spotify.com/album/14LybCLgQLN86HTfDKK8rQ) | 2:41 | 2025-05-29 |  |
 | [Open Wound \(feat\. Jaz Karis\)](https://open.spotify.com/track/0LT0xPstNiyifLa3k72SNg) | [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M), [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Open Wound \(feat\. Jaz Karis\)](https://open.spotify.com/album/1ZG0gj6CjoX3TCDNSAAIQP) | 4:08 | 2022-01-28 | 2022-04-19 |
 | [Options](https://open.spotify.com/track/6Yzhq2R3VhLHKckf9uZScm) | [Luke Dunleavy](https://open.spotify.com/artist/2hrlyfscnm84Inpkn8hpga) | [Options](https://open.spotify.com/album/5l9d6ouHBALjKHgrbWJJZ2) | 3:41 | 2022-04-11 | 2022-04-17 |
 | [OUR LOVE \(80'S\)](https://open.spotify.com/track/02SqV6QA81sYUUlWPEme9O) | [YOURS](https://open.spotify.com/artist/1Jlo1wSVOtMmEMpTbhEdI7) | [OUR LOVE \(80'S\)](https://open.spotify.com/album/7HNr7sE0iiucFcESRnOUjX) | 2:59 | 2024-03-22 | 2025-02-20 |

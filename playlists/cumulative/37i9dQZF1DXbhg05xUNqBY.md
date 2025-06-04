@@ -4,7 +4,7 @@
 
 > As you lay yourself to sleep, or take some time to rest, may you have peace, and be still, relaxing to these calming songs of faith.
 
-251 songs - 16 hr 59 min
+252 songs - 17 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Be Still](https://open.spotify.com/track/1Teva30jEfi9cEfDbQ1D9A) | [Amanda Danziger](https://open.spotify.com/artist/6l3sdAWFkzODyjVA2TXp6i), [Filipe Michael](https://open.spotify.com/artist/1lj5Uym0VUFOqO5R6cE3OC) | [Seasons](https://open.spotify.com/album/3nUYvwazbTWIhGSjVHbfCu) | 3:52 | 2024-07-26 | 2025-04-05 |
 | [Be Still and Know](https://open.spotify.com/track/4HYualIRbm2DhNTEvjMzKJ) | [Ginny Owens](https://open.spotify.com/artist/2mVoAGALkIviYCkBDNDKcn) | [Be Still and Know](https://open.spotify.com/album/3TXcaiiumNrakisWU7UFv1) | 5:04 | 2024-07-26 | 2025-04-05 |
 | [Be Still and Know](https://open.spotify.com/track/6UTBlLVJwOmDPMEnUdi8pS) | [Sam Wilson](https://open.spotify.com/artist/1xMJN0U9b27oxBXc4KYhP5) | [Be Still and Know](https://open.spotify.com/album/653IELo7MeLiwPFGKOmxtF) | 4:43 | 2024-06-23 |  |
-| [Be Still and Know His Name \(Even the Wind and the Waves\)](https://open.spotify.com/track/3VA7CpYINh4vDtaitU90az) | [Salt Of The Sound](https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB) | [Be Still and Know His Name \(Even the Wind and the Waves\)](https://open.spotify.com/album/64szHbQOTmhNi0w5Bl8PsV) | 3:19 | 2024-07-26 |  |
+| [Be Still and Know His Name \(Even the Wind and the Waves\)](https://open.spotify.com/track/3VA7CpYINh4vDtaitU90az) | [Salt Of The Sound](https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB) | [Be Still and Know His Name \(Even the Wind and the Waves\)](https://open.spotify.com/album/64szHbQOTmhNi0w5Bl8PsV) | 3:19 | 2024-07-26 | 2025-06-04 |
 | [Be Still, My Soul](https://open.spotify.com/track/08qfhtBomaGcFN9KLnbOoW) | [Nathan Pacheco](https://open.spotify.com/artist/6WfsgevyXjoFI4tT5ghvhV), [Simply Three](https://open.spotify.com/artist/4ZZVk8undJqXJqQ1GHCTp2) | [Abide with Me](https://open.spotify.com/album/2r0AErpMk2EvvqbNCLYl7Q) | 4:20 | 2024-07-26 | 2025-04-05 |
 | [Be Thou My Vision](https://open.spotify.com/track/1ygyed6ppQD1GRSKw5Bm21) | [Cherry Wee](https://open.spotify.com/artist/6s9lmiBnWMbiiUnuaTARaa) | [Be Thou My Vision](https://open.spotify.com/album/1dpxwkXjH3SkFEKoqG8NW7) | 3:36 | 2021-10-31 | 2024-07-27 |
 | [Be With You](https://open.spotify.com/track/2GNV0qwulPbZTDZUb1XR2b) | [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [Like Flowers In The Sun](https://open.spotify.com/album/4nbH1p3U2Dy1qYITuu3rff) | 3:58 | 2025-04-05 |  |
@@ -98,6 +98,7 @@
 | [I See You](https://open.spotify.com/track/4TK6reOnF7h4My580fx47A) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [I See You](https://open.spotify.com/album/6ei0YKLSRcI7tcsF80aVZI) | 3:18 | 2021-10-31 | 2023-01-24 |
 | [I Surrender](https://open.spotify.com/track/2nU2moLrkMrkWZeKazp1Zy) | [Kaye\-Marie](https://open.spotify.com/artist/51V84X0Uw6QQ8a31yRLTeN) | [I Surrender](https://open.spotify.com/album/58xaNILsFV4VFsZEwmxeLt) | 3:21 | 2025-04-05 |  |
 | [I Surrender All](https://open.spotify.com/track/7iDNE7y4h38VHNUGmbXODa) | [Chad Graham](https://open.spotify.com/artist/4Pxdl89t4lmaURMT1Yakep), [Fallon Graham](https://open.spotify.com/artist/5j3s0l1jY44TmPB6jwKvOg) | [I Surrender All](https://open.spotify.com/album/2EPz6MwlWzAYR7qYViQiE4) | 3:37 | 2024-07-26 | 2025-04-05 |
+| [I Surrender All](https://open.spotify.com/track/3DaufJs6cRVQknTEcCRSdm) | [Jimmy Clifton](https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t) | [I Surrender All](https://open.spotify.com/album/6mUo2Ci6XJMvCmtcbyDJ2r) | 2:12 | 2025-04-05 |  |
 | [I Thank God](https://open.spotify.com/track/7ImIqqZ1Fmz0hMo5cu298d) | [Genavieve Linkowski](https://open.spotify.com/artist/3ZTcBbm31RFUaoTeFAuiJF) | [I Thank God](https://open.spotify.com/album/5WM4v69Mjz5u9aqT5bFpcU) | 3:41 | 2025-04-05 |  |
 | [I Will Sing](https://open.spotify.com/track/1hp6XGO7kEyHhswy8ivk5y) | [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN) | [I Will Sing](https://open.spotify.com/album/190lL6QopbCPkkch1Y1cl8) | 4:14 | 2023-02-07 | 2024-07-27 |
 | [If I Had Stayed](https://open.spotify.com/track/5wWQWPXrFhGcs1qCZtSA8D) | [Gatton](https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE) | [If I Had Stayed](https://open.spotify.com/album/6LyuOSTe7Igm3efNqvOn4J) | 2:11 | 2021-10-31 | 2024-04-19 |

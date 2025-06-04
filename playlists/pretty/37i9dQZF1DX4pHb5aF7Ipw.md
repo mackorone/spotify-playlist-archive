@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by  Krish Rao, Mankirat Kang, Emiway Bantai and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,283 likes - 75 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,299 likes - 75 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 4 | [Relentless](https://open.spotify.com/track/1YaIZ7lP0aRsbSQA2MIwJp) | [Manwal](https://open.spotify.com/artist/591aJOvKL4jvZljzwGU9Df), [Mahiwaal](https://open.spotify.com/artist/0oYAdne8qNXVtzbuU88ssO), [Rob C](https://open.spotify.com/artist/4hEz4Vg09BEJcypoN4WnAi) | [Relentless](https://open.spotify.com/album/7iL0ucIW0nbC60TxEDgmNm) | 3:02 |
 | 5 | [Toxic Drip](https://open.spotify.com/track/6IGrZMv5qXSXiLNJZDOfpg) | [Arryan GT](https://open.spotify.com/artist/6ZGD1LA06US85gHUVQSsm1), [Sahil](https://open.spotify.com/artist/5zfyrMMV91M9IqDecokant) | [Toxic Drip](https://open.spotify.com/album/08ZE2kYWTb0qdj3i5ULcRF) | 2:42 |
 | 6 | [Downky](https://open.spotify.com/track/2XgrdUzlkjz9OXoJV08G6K) | [Sardar Khehra](https://open.spotify.com/artist/3YhEUyspZuU7pfEzmpFCsP), [Jay Trak](https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu), [4TheWorld](https://open.spotify.com/artist/1NmxtNejR6ZXZUFcEyrBm1) | [Downky](https://open.spotify.com/album/58AXDoWhFSQvzgw9LDhwjG) | 2:52 |
-| 7 | [Bond of Majha](https://open.spotify.com/track/7ijF8lTejQ2I0D4EwCNSLF) | [Roop Bhullar](https://open.spotify.com/artist/0sYnCQ9Eb3RbEHOqVQST8d), [Amrit Randhawa](https://open.spotify.com/artist/3rDsVH9W3JfU3JuGX7wZux), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Bond of Majha](https://open.spotify.com/album/5bdD11ITM66GUG9HAK1LPk) | 3:52 |
+| 7 | [Bond of Majha](https://open.spotify.com/track/7ijF8lTejQ2I0D4EwCNSLF) | [Roop Bhullar](https://open.spotify.com/artist/0sYnCQ9Eb3RbEHOqVQST8d), [Amrit Randhawa](https://open.spotify.com/artist/3rDsVH9W3JfU3JuGX7wZux), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Bond of Majha](https://open.spotify.com/album/5bdD11ITM66GUG9HAK1LPk) | 3:44 |
 | 8 | [Jimmy Sher](https://open.spotify.com/track/36K0cLbCcBA3VB8iY87gaa) | [Bella](https://open.spotify.com/artist/5gzMmZ8RKovEfs38ca7hkG), [Abhi Kesla](https://open.spotify.com/artist/1NVrTipROaOFk58cgq77XM) | [Jimmy Sher](https://open.spotify.com/album/2KlH1yUgZIwqbN1LgZVmHd) | 2:36 |
 | 9 | [IT'S HARD](https://open.spotify.com/track/6N36CAotAK2yNvYr0U9SQV) | [BIG KAY SMG](https://open.spotify.com/artist/0z4Mzficie9vUzDmz4Hy9G), [Baggh\-e SMG](https://open.spotify.com/artist/4eu7AyzvnafwOygTQlfAMu), [Farmaan SMG](https://open.spotify.com/artist/3yXzSYXBOTZ0m1QAfjlzKK) | [Let's Create The Time](https://open.spotify.com/album/3NmTGpv5G7o6xV0y7xkY3b) | 3:06 |
 | 10 | [Back From Death](https://open.spotify.com/track/4TRBVuKi6YOzz4df6nYeV5) | [Bob.B Randhawa](https://open.spotify.com/artist/64v80BSPBbO4NG2EKLdbgC), [Inder D Last Level](https://open.spotify.com/artist/5mHnBqe0ORanNO0oeIWX2d) | [Back From Death](https://open.spotify.com/album/4XqH8TsA4GocrbAwk0uKqW) | 8:07 |

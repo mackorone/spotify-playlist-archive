@@ -4,7 +4,7 @@
 
 > Guè e Rasty Kilo in cover della playlist con il top dello street rap italiano ⛓️
 
-804 songs - 1 day 12 hr 55 min
+805 songs - 1 day 12 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [ADVICE](https://open.spotify.com/track/3gQkyNcw4YuyeUcFM5d9TB) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41) | [LISTA 47](https://open.spotify.com/album/3MMMbRt5PJf5zXmFoe94D4) | 3:03 | 2022-07-04 | 2022-10-11 |
 | [After](https://open.spotify.com/track/77DhzkWWWPA6FRuTwsoHms) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [After](https://open.spotify.com/album/1niG3nOiP5JszHBbqHnjuh) | 2:24 | 2025-04-10 | 2025-05-02 |
 | [AGITATO](https://open.spotify.com/track/6OIPXBCDzV0RO0beUqoW42) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [AGITATO](https://open.spotify.com/album/5NuXTus8ALMOuPhH2C3Co9) | 1:54 | 2023-10-19 | 2024-01-05 |
-| [AHAH \(feat\. Niky Savage\)](https://open.spotify.com/track/69m545gEKvvfSv92peqDuS) | [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9), [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg) | [GOLD FELLA](https://open.spotify.com/album/1zH7mceEpfzW3a2018ioKu) | 2:38 | 2025-04-17 |  |
+| [AHAH \(feat\. Niky Savage\)](https://open.spotify.com/track/69m545gEKvvfSv92peqDuS) | [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9), [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg) | [GOLD FELLA](https://open.spotify.com/album/1zH7mceEpfzW3a2018ioKu) | 2:38 | 2025-04-17 | 2025-06-04 |
 | [AIR MAX 90 \(feat\. Kuremino\)](https://open.spotify.com/track/22D1XemG6NppUXflcQaJtS) | [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2), [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n) | [AIR MAX 90 \(feat\. Kuremino\)](https://open.spotify.com/album/5NEuYSI8dgMlWiGzuogQkc) | 2:22 | 2025-04-03 | 2025-05-02 |
 | [aka DOLCE&GABBANA](https://open.spotify.com/track/3UbG721DOAQ0mO3Vgrnnwa) | [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu), [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM) | [aka DOLCE&GABBANA](https://open.spotify.com/album/0OTeSPwWYq1Bw9jLcxAsKZ) | 1:53 | 2022-08-12 | 2022-09-23 |
 | [Akrapovič \(feat\. Artie 5ive\)](https://open.spotify.com/track/1RZQfURtYA7RYzontyWTI5) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [Tropico Del Capricorno](https://open.spotify.com/album/6YBqlDGZ2JHa5ThndFJcf1) | 2:52 | 2025-01-09 |  |
@@ -328,6 +328,7 @@
 | [GRAMMELOT](https://open.spotify.com/track/0QZYznuUxIPXs7gY8CPvS4) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [The Globe](https://open.spotify.com/album/0Wp32iRbmSA3VvGZmAYjDv) | 1:36 | 2023-09-14 | 2024-01-18 |
 | [GTA](https://open.spotify.com/track/1sMzjYyFSWexHB145BgD6O) | [LJK](https://open.spotify.com/artist/6KPfd2qfwePi6IM7RyQ3hd), [Voleur pnz](https://open.spotify.com/artist/6BGAhqSN3qEqlZRpMogAFN) | [Ghettosuperstar](https://open.spotify.com/album/4EjqOuqjcPm50M6cMZwGYN) | 2:37 | 2023-03-24 | 2023-10-06 |
 | [GTA \(feat\. Ghali\)](https://open.spotify.com/track/2rWPeV0Wvjx8VpAyOsfgir) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [ICON](https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW) | 2:08 | 2024-03-14 | 2024-05-14 |
+| [GTA 2](https://open.spotify.com/track/2mBwUewWnDzIjI4Fplc3ZJ) | [LJK](https://open.spotify.com/artist/6KPfd2qfwePi6IM7RyQ3hd), [Voleur pnz](https://open.spotify.com/artist/6BGAhqSN3qEqlZRpMogAFN) | [GTA 2](https://open.spotify.com/album/5EO4lKGdinEX8jMI2av0Ze) | 2:33 | 2025-06-03 |  |
 | [Guai \(feat\. Fre\_nky\)](https://open.spotify.com/track/0gkuPf9a7MRecMn2GVc2uX) | [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd), [Fre\_nky](https://open.spotify.com/artist/1CGjnYcvLGQhbAGVIR8aBW) | [Ninho De La Calle](https://open.spotify.com/album/5kY0llILiYXXRouvjRSBEB) | 2:30 | 2024-05-02 | 2024-06-28 |
 | [GUAI \(feat\. Néza, Nabi\)](https://open.spotify.com/track/460LskH33h1kqiXfNx1ehm) | [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX), [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO), [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [BISHA](https://open.spotify.com/album/4s1b2WEZ7veqh7QcxrQGxx) | 3:48 | 2024-11-14 | 2025-01-10 |
 | [GUARDA COME FL3XO](https://open.spotify.com/track/5TlndMPcKVEaTsBtbmMuBW) | [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41) | [GUARDA COME FL3XO](https://open.spotify.com/album/3WoOhPK946IoZwevCoayvR) | 2:28 | 2024-05-16 | 2024-06-21 |

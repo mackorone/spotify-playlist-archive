@@ -125,6 +125,24 @@
     },
     {
       "album": {
+        "name": "Aao Sajan",
+        "url": "https://open.spotify.com/album/5V9VzKeL3tkW3lLy1X2Z0z"
+      },
+      "artists": [
+        {
+          "name": "Manasi Shah",
+          "url": "https://open.spotify.com/artist/6NtTwYPmadVqUOjyIjcdLs"
+        }
+      ],
+      "date_added": "2025-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213619,
+      "name": "Aao Sajan",
+      "url": "https://open.spotify.com/track/00SWo3RjHsRBUvvR1Sg5Us"
+    },
+    {
+      "album": {
         "name": "Aaye Hain Samjhane Log - Single",
         "url": "https://open.spotify.com/album/7xrGnhOnRu2wdzcndieCaO"
       },
@@ -1134,7 +1152,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 314000,
       "name": "Bhor Bhayi",
       "url": "https://open.spotify.com/track/64txAeGrepJepCeaFvNLH2"

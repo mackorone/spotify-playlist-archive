@@ -1,6 +1,6 @@
 {
   "description": "Os grandes artistas da MPB. Foto: Caetano & Beth\u00e2nia",
-  "num_followers": 1413064,
+  "num_followers": 1413273,
   "original_name": "O Melhor da MPB",
   "owner": {
     "name": "Spotify",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2025-05-30 05:19:13",
       "album": {
+        "name": "Elis Regina Em Falso Brilhante",
+        "url": "https://open.spotify.com/album/1F57xqKnbpTQB2SPoovTGJ"
+      },
+      "artists": [
+        {
+          "name": "Elis Regina",
+          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+        }
+      ],
+      "duration_ms": 260493,
+      "name": "Como Nossos Pais",
+      "url": "https://open.spotify.com/track/4dIWbsYRqqTcLKf4bVU4kk"
+    },
+    {
+      "added_at": "2025-05-30 05:19:13",
+      "album": {
         "name": "Constru\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/5YARZzYbonX4CbZ5hucHPc"
       },
@@ -1327,26 +1343,6 @@
       "duration_ms": 383706,
       "name": "Constru\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/1ECean5dVz7mYQ07mdVGKT"
-    },
-    {
-      "added_at": "2025-05-30 05:19:13",
-      "album": {
-        "name": "Bossa Nova",
-        "url": "https://open.spotify.com/album/2KJsAjK0T585kFmFA3O7vr"
-      },
-      "artists": [
-        {
-          "name": "Vin\u00edcius",
-          "url": "https://open.spotify.com/artist/5b2ylVrhm7GKFoUjuNk1Op"
-        },
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        }
-      ],
-      "duration_ms": 229013,
-      "name": "Eu Sei Que Vou Te Amar",
-      "url": "https://open.spotify.com/track/3s4gwVdy6g4KmBLerpNMIK"
     },
     {
       "added_at": "2025-05-30 05:19:13",
@@ -1367,18 +1363,22 @@
     {
       "added_at": "2025-05-30 05:19:13",
       "album": {
-        "name": "Elis Regina Em Falso Brilhante",
-        "url": "https://open.spotify.com/album/1F57xqKnbpTQB2SPoovTGJ"
+        "name": "Bossa Nova",
+        "url": "https://open.spotify.com/album/2KJsAjK0T585kFmFA3O7vr"
       },
       "artists": [
         {
-          "name": "Elis Regina",
-          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+          "name": "Vin\u00edcius",
+          "url": "https://open.spotify.com/artist/5b2ylVrhm7GKFoUjuNk1Op"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
         }
       ],
-      "duration_ms": 260493,
-      "name": "Como Nossos Pais",
-      "url": "https://open.spotify.com/track/4dIWbsYRqqTcLKf4bVU4kk"
+      "duration_ms": 229013,
+      "name": "Eu Sei Que Vou Te Amar",
+      "url": "https://open.spotify.com/track/3s4gwVdy6g4KmBLerpNMIK"
     },
     {
       "added_at": "2025-05-30 05:19:13",

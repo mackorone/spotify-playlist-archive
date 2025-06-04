@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKyQ5vVryAF.md) - [plain]
 
 > These are the songs that have shaped <a href="https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3?si=4fd57d141abb418a">Cage The Elephant's</a> alternative spirit\. Check out the latest COUNTER//CULTURE mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI?si=8688dba1fca74b00">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,599 likes - 30 songs - 1 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,610 likes - 30 songs - 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKyQ5vVryAF.md) - [plain]
 | 29 | [Burning](https://open.spotify.com/track/4JFet0crxTPHFV2n1ZqZKV) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Cool It Down](https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj) | 4:05 |
 | 30 | [I Love You](https://open.spotify.com/track/3ABFbSGqDSmsNf3OuqvPJi) | [Gloom Girl MFG](https://open.spotify.com/artist/2UXI5X9jhT0bwCO13Gb3LL) | [Polycrisis](https://open.spotify.com/album/7GVSZ3bRudjRc2ywH9GITp) | 3:07 |
 
-Snapshot ID: `ZqxZwAAAAAAHRZtDfJuarIemCzn5qAke`
+Snapshot ID: `AAAAANZ1HknsnJE4cB04gdNHTB9EX2x4`

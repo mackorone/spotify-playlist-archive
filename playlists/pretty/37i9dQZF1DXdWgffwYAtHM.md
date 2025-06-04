@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWgffwYAtHM.md) - [plain]
 
 > Creators que você precisa ter no RADAR\. Capa: <a href="spotify:show:1QrMXzBqJt5WAlzCsUmHNu">Estavu Show</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,839 likes - 16 songs - 13 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,840 likes - 17 songs - 13 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,6 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWgffwYAtHM.md) - [plain]
 | 13 | [de onde nós viemos \#54](https://open.spotify.com/episode/7xjBktqUhf38xLNWMJgGiH) | [bom mesmo é ser emocionada](https://open.spotify.com/show/27BapqwMhGJQ28paJU8bDE) | [bom mesmo é ser emocionada](https://open.spotify.com/album/27BapqwMhGJQ28paJU8bDE) | 36:36 |
 | 14 | [O QUE TEM NA SUA CARTEIRA? \#50 \| Jana Rosa, Empresária e Criadora de Conteúdo](https://open.spotify.com/episode/0yh8GCGb8SmYcuU4I4bepv) | [O que tem na sua carteira?](https://open.spotify.com/show/0TAMn2YGFdRgi3odrRdlQG) | [O que tem na sua carteira?](https://open.spotify.com/album/0TAMn2YGFdRgi3odrRdlQG) | 1:14:37 |
 | 15 | [INTIMIDADES SINTÉTICAS](https://open.spotify.com/episode/4psrr7b7VHi6nlPgjf4fxN) | [vibes em análise](https://open.spotify.com/show/42CNqtkx9yd1cIg0E6E9rL) | [vibes em análise](https://open.spotify.com/album/42CNqtkx9yd1cIg0E6E9rL) | 1:15:08 |
-| 16 | [todo mundo precisa de colo](https://open.spotify.com/episode/719QRG0UD4FX8vjDiOBxgI) | [fiz o que pude ¯\\\_\(ツ\)\_/¯ ](https://open.spotify.com/show/6yTHTc5kaZj85vstsFV7GP) | [fiz o que pude ¯\\\_\(ツ\)\_/¯ ](https://open.spotify.com/album/6yTHTc5kaZj85vstsFV7GP) | 17:24 |
+| 16 | [Não vai comer cookies, hein](https://open.spotify.com/episode/61typkCQwXUcr3BaKSTx2i) | [Assustador, Bizarro e Misterioso](https://open.spotify.com/show/6bSPrd8qTvWFk6e2NtZBbR) | [Assustador, Bizarro e Misterioso](https://open.spotify.com/album/6bSPrd8qTvWFk6e2NtZBbR) | 16:38 |
+| 17 | [todo mundo precisa de colo](https://open.spotify.com/episode/719QRG0UD4FX8vjDiOBxgI) | [fiz o que pude ¯\\\_\(ツ\)\_/¯ ](https://open.spotify.com/show/6yTHTc5kaZj85vstsFV7GP) | [fiz o que pude ¯\\\_\(ツ\)\_/¯ ](https://open.spotify.com/album/6yTHTc5kaZj85vstsFV7GP) | 17:24 |
 
 Snapshot ID: `aD2d8QAAAAA2xUBEDQ2xUVnout+ZVMhT`

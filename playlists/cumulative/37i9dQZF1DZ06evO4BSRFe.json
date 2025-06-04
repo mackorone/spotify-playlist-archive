@@ -690,7 +690,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 191266,
       "name": "La noche que Chicago muri\u00f3",
       "url": "https://open.spotify.com/track/2fz0tjz7uUMY9jIxIUTd4H"
@@ -967,6 +967,24 @@
     },
     {
       "album": {
+        "name": "Mi chica ideal (Lo B\u00e1sico)",
+        "url": "https://open.spotify.com/album/5339bPdH9NLYMEvDZQZS90"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2025-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154546,
+      "name": "Mi chica ideal",
+      "url": "https://open.spotify.com/track/34JErr9kKYsVRoqNlXDqVT"
+    },
+    {
+      "album": {
         "name": "La reina de las bandas Vol. I",
         "url": "https://open.spotify.com/album/78dh7yHMwbb3dPUqmEDxj2"
       },
@@ -978,7 +996,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 154546,
       "name": "Mi chica ideal",
       "url": "https://open.spotify.com/track/3QukO1TbU8SvQQrkwFoKWF"
@@ -1104,7 +1122,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-26",
+      "date_removed": null,
       "duration_ms": 141533,
       "name": "No compro amores",
       "url": "https://open.spotify.com/track/3RFaoL5rTwLJN0SgG6ERdq"

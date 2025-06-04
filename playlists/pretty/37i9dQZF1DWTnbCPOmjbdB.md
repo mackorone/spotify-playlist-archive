@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 
 > Najlepsze polskie piosenki na czasie\. Cover: Dawid Kwiatkowski
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,775 likes - 60 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,810 likes - 60 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 | 3 | [Doby hotelowe \(projekt BABIE LATO, Santander Letnie Brzmienia\)](https://open.spotify.com/track/55GDsCEh37TxrVjpi3QEp8) | [BABIE LATO](https://open.spotify.com/artist/0n6yaHp7ZDCuHJlNtN0q3G), [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ), [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV), [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [BABIE LATO 2025](https://open.spotify.com/album/0XY9z5aKZOt9KtwXmkejbO) | 2:37 |
 | 4 | [Siostra](https://open.spotify.com/track/6tqLDvntpOCReWMz5iujGx) | [Julia Rocka](https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN) | [Gorset](https://open.spotify.com/album/0qpw7taZ590do6gljRq0Zb) | 2:43 |
 | 5 | [Dorosłe serce](https://open.spotify.com/track/1MpBOOe0CLZU0Bw8uxDtHi) | [WERSOW](https://open.spotify.com/artist/1FIoGhkDJAWOqXT1I85GRC) | [Dorosłe serce](https://open.spotify.com/album/6OaTF9AMvwqYc7zVHrtPrz) | 3:10 |
-| 6 | [PAPA](https://open.spotify.com/track/6HOP0e9qTfrQsufQYa926U) | [Fausti](https://open.spotify.com/artist/6A1ynRvP3mW9mlLkWcSnlx) | [PAPA](https://open.spotify.com/album/5kySf48UI9Sg1skQKJXkDJ) | 2:48 |
+| 6 | [PAPA](https://open.spotify.com/track/6HOP0e9qTfrQsufQYa926U) | [Fausti](https://open.spotify.com/artist/6A1ynRvP3mW9mlLkWcSnlx), [2K](https://open.spotify.com/artist/0awWNjR5qmSZsQVFAo2NsR) | [PAPA](https://open.spotify.com/album/5kySf48UI9Sg1skQKJXkDJ) | 2:48 |
 | 7 | [samoloty](https://open.spotify.com/track/2sHiHyAQZCD7oPXo1eBAbL) | [Dawid Podsiadło](https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW), [Kaśka Sochacka](https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN), [ZORZA](https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX) | [samoloty i nadprzestrzenie](https://open.spotify.com/album/0StAZ0TQ0RlUAxLOjXPne8) | 4:04 |
 | 8 | [Dom Nad Wodą](https://open.spotify.com/track/4yYEMvHEvmT2V7BQNReuIv) | [Pezet](https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7), [Auer](https://open.spotify.com/artist/4oRFYtb8Wfcsbaga2VqR1N) | [Dom Nad Wodą](https://open.spotify.com/album/7vq9UO4zeOLafqzhwdOx5h) | 3:14 |
 | 9 | [Chcę Ciebie częściej](https://open.spotify.com/track/6pMLpqFEmvZKwPcIC16fdl) | [Maciej Skiba](https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq) | [Chcę Ciebie częściej](https://open.spotify.com/album/02Kv8S3E8SRvT14ylhpGH7) | 3:01 |

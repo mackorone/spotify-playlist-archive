@@ -1,12 +1,12 @@
 {
   "description": "This is Within Temptation. The essential tracks, all in one playlist.",
-  "num_followers": 165915,
+  "num_followers": 165938,
   "original_name": "This Is Within Temptation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDuYAAAAAACxcI52834dl/y1HIuEr7mK",
+  "snapshot_id": "aDzpgAAAAAA0kC5+dJT9jNK43k/d+Ji2",
   "tracks": [
     {
       "added_at": null,
@@ -126,11 +126,15 @@
         {
           "name": "Within Temptation",
           "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        },
+        {
+          "name": "Keith Caputo",
+          "url": "https://open.spotify.com/artist/0o3RyxUXp69fLCpMxuOLsz"
         }
       ],
-      "duration_ms": 290946,
-      "name": "All I Need",
-      "url": "https://open.spotify.com/track/02oW7CYWjfiCs1rZs7GNes"
+      "duration_ms": 313333,
+      "name": "What Have You Done (feat. Keith Caputo)",
+      "url": "https://open.spotify.com/track/2OHeJR6Cfvm42512gonFRh"
     },
     {
       "added_at": null,
@@ -194,15 +198,11 @@
         {
           "name": "Within Temptation",
           "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        },
-        {
-          "name": "Keith Caputo",
-          "url": "https://open.spotify.com/artist/0o3RyxUXp69fLCpMxuOLsz"
         }
       ],
-      "duration_ms": 313333,
-      "name": "What Have You Done (feat. Keith Caputo)",
-      "url": "https://open.spotify.com/track/2OHeJR6Cfvm42512gonFRh"
+      "duration_ms": 290946,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/02oW7CYWjfiCs1rZs7GNes"
     },
     {
       "added_at": null,
@@ -287,22 +287,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "See What's On The Inside (Deluxe)",
-        "url": "https://open.spotify.com/album/39irqLBf1rIbVtzmnl9qnA"
+        "name": "Hydra (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3RIcwy3cr1cvUibW8W0yoI"
       },
       "artists": [
         {
-          "name": "Asking Alexandria",
-          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
-        },
-        {
           "name": "Within Temptation",
           "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        },
+        {
+          "name": "Dave Pirner",
+          "url": "https://open.spotify.com/artist/0DGexM9UeEMijhLRbKetCN"
         }
       ],
-      "duration_ms": 185542,
-      "name": "Faded Out (feat. Within Temptation)",
-      "url": "https://open.spotify.com/track/5yc4CGOURXVKgSkKZ0PoLB"
+      "duration_ms": 243213,
+      "name": "Whole World Is Watching (feat. Dave Pirner)",
+      "url": "https://open.spotify.com/track/4KfTYPo9x23c4tuuRptg1d"
     },
     {
       "added_at": null,
@@ -323,22 +323,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hydra (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3RIcwy3cr1cvUibW8W0yoI"
+        "name": "See What's On The Inside (Deluxe)",
+        "url": "https://open.spotify.com/album/39irqLBf1rIbVtzmnl9qnA"
       },
       "artists": [
         {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
         },
         {
-          "name": "Dave Pirner",
-          "url": "https://open.spotify.com/artist/0DGexM9UeEMijhLRbKetCN"
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
         }
       ],
-      "duration_ms": 243213,
-      "name": "Whole World Is Watching (feat. Dave Pirner)",
-      "url": "https://open.spotify.com/track/4KfTYPo9x23c4tuuRptg1d"
+      "duration_ms": 185542,
+      "name": "Faded Out (feat. Within Temptation)",
+      "url": "https://open.spotify.com/track/5yc4CGOURXVKgSkKZ0PoLB"
     },
     {
       "added_at": null,
@@ -491,18 +491,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Q-Music Sessions",
-        "url": "https://open.spotify.com/album/1MjWXMQjJUaNzhpur6nzdb"
+        "name": "Hydra (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3RIcwy3cr1cvUibW8W0yoI"
       },
       "artists": [
         {
           "name": "Within Temptation",
           "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        },
+        {
+          "name": "Howard Jones",
+          "url": "https://open.spotify.com/artist/5T0Vi8WwwfjX9tmUI9Mae9"
         }
       ],
-      "duration_ms": 194546,
-      "name": "Radioactive",
-      "url": "https://open.spotify.com/track/1H1U3PbWhxkUUG9HNEZEn7"
+      "duration_ms": 293240,
+      "name": "Dangerous (feat. Howard Jones)",
+      "url": "https://open.spotify.com/track/3BYtn1zK991rGwWo5TW9e6"
     },
     {
       "added_at": null,
@@ -543,28 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hydra (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3RIcwy3cr1cvUibW8W0yoI"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        },
-        {
-          "name": "Howard Jones",
-          "url": "https://open.spotify.com/artist/5T0Vi8WwwfjX9tmUI9Mae9"
-        }
-      ],
-      "duration_ms": 293240,
-      "name": "Dangerous (feat. Howard Jones)",
-      "url": "https://open.spotify.com/track/3BYtn1zK991rGwWo5TW9e6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mother Earth",
-        "url": "https://open.spotify.com/album/1Ly5R8riIWwOfcugMwC7t3"
+        "name": "The Q-Music Sessions",
+        "url": "https://open.spotify.com/album/1MjWXMQjJUaNzhpur6nzdb"
       },
       "artists": [
         {
@@ -572,41 +556,9 @@
           "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
         }
       ],
-      "duration_ms": 331280,
-      "name": "Mother Earth",
-      "url": "https://open.spotify.com/track/0vZzCD8Gy1w6ph5PzLctVo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Heart Of Everything",
-        "url": "https://open.spotify.com/album/4jE1uyxDWwHuSGQmbsusLM"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        }
-      ],
-      "duration_ms": 268373,
-      "name": "Frozen",
-      "url": "https://open.spotify.com/track/1uo6IzolNNLFNpyQGDZwJ5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Resist (Extended Deluxe)",
-        "url": "https://open.spotify.com/album/1SL2IdaCrXDtv695Px6AXR"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        }
-      ],
-      "duration_ms": 336080,
-      "name": "Supernova",
-      "url": "https://open.spotify.com/track/4GBbBy05LoSveNxjKxj26m"
+      "duration_ms": 194546,
+      "name": "Radioactive",
+      "url": "https://open.spotify.com/track/1H1U3PbWhxkUUG9HNEZEn7"
     },
     {
       "added_at": null,
@@ -627,6 +579,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mother Earth",
+        "url": "https://open.spotify.com/album/1Ly5R8riIWwOfcugMwC7t3"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "duration_ms": 331280,
+      "name": "Mother Earth",
+      "url": "https://open.spotify.com/track/0vZzCD8Gy1w6ph5PzLctVo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Resist (Extended Deluxe)",
+        "url": "https://open.spotify.com/album/1SL2IdaCrXDtv695Px6AXR"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "duration_ms": 336080,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/4GBbBy05LoSveNxjKxj26m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Heart Of Everything",
+        "url": "https://open.spotify.com/album/4jE1uyxDWwHuSGQmbsusLM"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "duration_ms": 268373,
+      "name": "Frozen",
+      "url": "https://open.spotify.com/track/1uo6IzolNNLFNpyQGDZwJ5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Silent Force",
         "url": "https://open.spotify.com/album/1sxSd1h4vEICnl5Q3scnGI"
       },
@@ -643,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Heart Of Everything",
-        "url": "https://open.spotify.com/album/4jE1uyxDWwHuSGQmbsusLM"
+        "name": "Bleed Out",
+        "url": "https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY"
       },
       "artists": [
         {
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
         }
       ],
-      "duration_ms": 333866,
-      "name": "The Howling",
-      "url": "https://open.spotify.com/track/4EJLjbM1gGjy8UlhtMY44C"
+      "duration_ms": 270066,
+      "name": "Bleed Out",
+      "url": "https://open.spotify.com/track/3ReLAPAiX6UyNijXoH5w7Q"
     },
     {
       "added_at": null,
@@ -675,6 +675,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Heart Of Everything",
+        "url": "https://open.spotify.com/album/4jE1uyxDWwHuSGQmbsusLM"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "duration_ms": 333866,
+      "name": "The Howling",
+      "url": "https://open.spotify.com/track/4EJLjbM1gGjy8UlhtMY44C"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Fool's Parade",
         "url": "https://open.spotify.com/album/74uk0pmQPbVyZ5y4dlSF8h"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 222128,
       "name": "A Fool's Parade",
       "url": "https://open.spotify.com/track/1Okd6fnFsU1mZeiFcYSaTT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bleed Out",
-        "url": "https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        }
-      ],
-      "duration_ms": 270066,
-      "name": "Bleed Out",
-      "url": "https://open.spotify.com/track/3ReLAPAiX6UyNijXoH5w7Q"
     },
     {
       "added_at": null,

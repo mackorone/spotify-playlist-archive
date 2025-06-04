@@ -11619,6 +11619,24 @@
     },
     {
       "album": {
+        "name": "rush",
+        "url": "https://open.spotify.com/album/2zkVfZmA2L2bgQyjFJIdJM"
+      },
+      "artists": [
+        {
+          "name": "nomu.",
+          "url": "https://open.spotify.com/artist/2NSBzBPu05xNzAUv10mdTc"
+        }
+      ],
+      "date_added": "2025-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82300,
+      "name": "rush",
+      "url": "https://open.spotify.com/track/6iodxbdw2EE2J0Jt10jH2q"
+    },
+    {
+      "album": {
         "name": "NCS: The Best of 2016",
         "url": "https://open.spotify.com/album/2PbNOsRy7jYiiljcig1xeQ"
       },

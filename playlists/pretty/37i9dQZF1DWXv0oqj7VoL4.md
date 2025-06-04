@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXv0oqj7VoL4.md) - [plain]
 
 > Music from "Dr.STONE" /「Dr.STONE」の楽曲を1つのプレイリストで。©米スタジオ・Boichi／集英社・Dr.STONE製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,028 likes - 56 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,054 likes - 56 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXv0oqj7VoL4.md) - [plain]
 | 55 | [Steadily, Step By Step \- 堤博明](https://open.spotify.com/track/7A5rex7Nc4Muy2RTDQRDSw) | [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [『Dr.STONE』 オリジナル・サウンドトラック 4](https://open.spotify.com/album/4WKfSsZqmBJObUlZIwWevp) | 2:43 |
 | 56 | [Meeting Again \- 堤博明](https://open.spotify.com/track/3RrEB1S97b7vFsZJcgmb2U) | [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [『Dr.STONE』 オリジナル・サウンドトラック 4](https://open.spotify.com/album/4WKfSsZqmBJObUlZIwWevp) | 3:46 |
 
-Snapshot ID: `aDXdQgAAAABXh0YI2jCE4V0cPgr2oyTk`
+Snapshot ID: `aDXdQgAAAAATdqAwyKuBuo1hwdKkHgAN`

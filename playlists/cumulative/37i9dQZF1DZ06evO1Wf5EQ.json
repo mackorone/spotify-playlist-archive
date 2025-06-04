@@ -329,6 +329,32 @@
     },
     {
       "album": {
+        "name": "Department Q (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1e5HzQzwRsdWNh2m5kDOUy"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        },
+        {
+          "name": "Alejandro Rafael Rivera",
+          "url": "https://open.spotify.com/artist/7lQk0Mnfyr5MTaxjKEdRa7"
+        },
+        {
+          "name": "Brian Kilgore",
+          "url": "https://open.spotify.com/artist/19hHxqWssEZPiOWfklrBJ7"
+        }
+      ],
+      "date_added": "2025-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 36448,
+      "name": "Department Q",
+      "url": "https://open.spotify.com/track/39Vwrh3qa7GOTpSJBYoKAj"
+    },
+    {
+      "album": {
         "name": "Chupa (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/6GGqqXXRUwPfbkLaUD65mm"
       },
@@ -1226,7 +1252,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 78496,
       "name": "The Scholar's Mate",
       "url": "https://open.spotify.com/track/2qKga0VHaH41ajUMbVofcb"
@@ -1262,7 +1288,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-31",
+      "date_removed": null,
       "duration_ms": 184293,
       "name": "Training With Mr. Schaibel",
       "url": "https://open.spotify.com/track/1GZgxiTmZPfeYKsWQddxWV"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Ayoub Hattab\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,800 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,802 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,15 +13,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 | 3 | [Lwad Wadi](https://open.spotify.com/track/6TVOld6LKKDZxIgFLp7gaE) | [JAMRAH جَمْرَهْ](https://open.spotify.com/artist/0xyOmQLLbfLXZ47KdwjDa4) | [Lwad Wadi](https://open.spotify.com/album/42sHriXfgIFyyUXiDaynqT) | 3:42 |
 | 4 | [برقص عل احزان](https://open.spotify.com/track/701o32JXLUpsioqlsBGC9G) | [Qetoo](https://open.spotify.com/artist/6XnHQclydV6kIVoBClncdF) | [برقص عل احزان](https://open.spotify.com/album/0fYArJcRhUrpU4YYZ1ihqw) | 1:52 |
 | 5 | [ANA O YAK](https://open.spotify.com/track/5qgV6qJoQrBZ4CHHJy9Yuy) | [NA](https://open.spotify.com/artist/5WDfOtUWevOrIsfyYyktQl) | [HOB CYCLE](https://open.spotify.com/album/1c1FgOqKp5KlZaFifjlwmo) | 3:03 |
-| 6 | [Gorouh](https://open.spotify.com/track/46l81bmCrF9fjbkd2RnODg) | [Nour Khan](https://open.spotify.com/artist/2xI0X8RCZHFCbtBlNJsZzs), [Ahmed Kore](https://open.spotify.com/artist/7qqYaSjNjs4rUmtrgAqIpI) | [Gorouh](https://open.spotify.com/album/4beWCebiyx4Hc0ZQ0G4e3V) | 2:52 |
-| 7 | [انا وانت](https://open.spotify.com/track/14JgycDjp70uvPpebq7Ijq) | [Hala](https://open.spotify.com/artist/30cNtjePd99qoDYYbjHG4k), [Badran](https://open.spotify.com/artist/00OR5zC9Om6wu6xRg2WGqP) | [انا وانت](https://open.spotify.com/album/7gLVh02tmLj3XfCxn15jc3) | 3:19 |
-| 8 | [Hayni Hoon](https://open.spotify.com/track/4snQ2N9PijxVCyRaeefvUk) | [Luay Hijazeen](https://open.spotify.com/artist/2a1uAKszGY1wTHnbT0Y9Y8) | [Hayni Hoon](https://open.spotify.com/album/2WrZYy9wUqMi9bQ3nN2pDr) | 3:07 |
-| 9 | [وقت الفراق](https://open.spotify.com/track/0oikCaTV3ZMxWUTxDeF3HC) | [Wazeer](https://open.spotify.com/artist/44uG5qaf4POeVrqI6anrr4) | [وقت الفراق](https://open.spotify.com/album/1EbaIOOBWGwbArlafQPqqH) | 3:10 |
-| 10 | [Wein Hal Ghaybe](https://open.spotify.com/track/5utpreqHOAzJr8mdgW1Dp5) | [Talia Lahoud](https://open.spotify.com/artist/2GZKdLlhqyduNJvT1CcaGD) | [Wein Hal Ghaybe](https://open.spotify.com/album/6tQQ242xkPSa0VI4gdbxhh) | 3:11 |
-| 11 | [NDOOR](https://open.spotify.com/track/5VvyfodDsYCGVOh3bexgOZ) | [DAL!A](https://open.spotify.com/artist/08EnT3I7K1Z8P6knbWaDt7) | [NDOOR](https://open.spotify.com/album/1Cvl5RXMUg3bPCZjenPKT0) | 3:00 |
-| 12 | [200](https://open.spotify.com/track/3rrS7mcwknkYKMyuc35cqR) | [Sakt](https://open.spotify.com/artist/1eMFiDZA4Kzrzru5Ni4zWy), [REVU](https://open.spotify.com/artist/11Hsr9QUjZgI5ABHm4urjT) | [200](https://open.spotify.com/album/5fh9U7dE6CMhhuEfWtBEi5) | 2:02 |
-| 13 | [MRKCH](https://open.spotify.com/track/21sihy54rK2RVHgpogB9AL) | [HAITHAM](https://open.spotify.com/artist/5pZ5uVUIz65rgtDeQBLVYg) | [EL HOB BYLSA3 SIKA](https://open.spotify.com/album/2g9Ghear5Jw0KnLtd13S9o) | 2:44 |
-| 14 | [BENT LA VILLE](https://open.spotify.com/track/2YvytImQbrU0VT1tbudn56) | [Ot Sygma](https://open.spotify.com/artist/6iYlYhdwAMFKhDpEDlrtw2) | [BENT LA VILLE](https://open.spotify.com/album/6OK3GjpMgORNbpfT9CjaGT) | 2:14 |
+| 6 | [انا وانت](https://open.spotify.com/track/14JgycDjp70uvPpebq7Ijq) | [Hala](https://open.spotify.com/artist/30cNtjePd99qoDYYbjHG4k), [Badran](https://open.spotify.com/artist/00OR5zC9Om6wu6xRg2WGqP) | [انا وانت](https://open.spotify.com/album/7gLVh02tmLj3XfCxn15jc3) | 3:19 |
+| 7 | [Hayni Hoon](https://open.spotify.com/track/4snQ2N9PijxVCyRaeefvUk) | [Luay Hijazeen](https://open.spotify.com/artist/2a1uAKszGY1wTHnbT0Y9Y8) | [Hayni Hoon](https://open.spotify.com/album/2WrZYy9wUqMi9bQ3nN2pDr) | 3:07 |
+| 8 | [وقت الفراق](https://open.spotify.com/track/0oikCaTV3ZMxWUTxDeF3HC) | [Wazeer](https://open.spotify.com/artist/44uG5qaf4POeVrqI6anrr4) | [وقت الفراق](https://open.spotify.com/album/1EbaIOOBWGwbArlafQPqqH) | 3:10 |
+| 9 | [Wein Hal Ghaybe](https://open.spotify.com/track/5utpreqHOAzJr8mdgW1Dp5) | [Talia Lahoud](https://open.spotify.com/artist/2GZKdLlhqyduNJvT1CcaGD) | [Wein Hal Ghaybe](https://open.spotify.com/album/6tQQ242xkPSa0VI4gdbxhh) | 3:11 |
+| 10 | [NDOOR](https://open.spotify.com/track/5VvyfodDsYCGVOh3bexgOZ) | [DAL!A](https://open.spotify.com/artist/08EnT3I7K1Z8P6knbWaDt7) | [NDOOR](https://open.spotify.com/album/1Cvl5RXMUg3bPCZjenPKT0) | 3:00 |
+| 11 | [200](https://open.spotify.com/track/3rrS7mcwknkYKMyuc35cqR) | [Sakt](https://open.spotify.com/artist/1eMFiDZA4Kzrzru5Ni4zWy), [REVU](https://open.spotify.com/artist/11Hsr9QUjZgI5ABHm4urjT) | [200](https://open.spotify.com/album/5fh9U7dE6CMhhuEfWtBEi5) | 2:02 |
+| 12 | [MRKCH](https://open.spotify.com/track/21sihy54rK2RVHgpogB9AL) | [HAITHAM](https://open.spotify.com/artist/5pZ5uVUIz65rgtDeQBLVYg) | [EL HOB BYLSA3 SIKA](https://open.spotify.com/album/2g9Ghear5Jw0KnLtd13S9o) | 2:44 |
+| 13 | [BENT LA VILLE](https://open.spotify.com/track/2YvytImQbrU0VT1tbudn56) | [Ot Sygma](https://open.spotify.com/artist/6iYlYhdwAMFKhDpEDlrtw2) | [BENT LA VILLE](https://open.spotify.com/album/6OK3GjpMgORNbpfT9CjaGT) | 2:14 |
+| 14 | [Jwenet Douur](https://open.spotify.com/track/7Ap4rkh0kdMlwBRRBZSJjk) | [6faith](https://open.spotify.com/artist/6VsbRaKk9a3kJFDbUNhMlJ) | [Jwenet Douur](https://open.spotify.com/album/4gIhAPiwEM9gHDtadrd0BF) | 3:11 |
 | 15 | [MSH ANANEYA](https://open.spotify.com/track/5TkWSUSXXZhcS7Ta3yBWW1) | [Nada Nader](https://open.spotify.com/artist/5LGQwjfTimjVhHHWCVP6Lz) | [MSH ANANEYA](https://open.spotify.com/album/2hIsHEVUK08rHXutBFK4i7) | 2:47 |
 | 16 | [Akhir mra andwi 3lik](https://open.spotify.com/track/6L4GDVK68EqR55ZU9S1AzZ) | [Aujiss](https://open.spotify.com/artist/3EmUIvtqE5NxhLi9LowaFt) | [Akhir mra andwi 3lik](https://open.spotify.com/album/0ImYUSh7Nm5weQenDdzWPt) | 3:43 |
 | 17 | [بطل اللّيل](https://open.spotify.com/track/5EkZW0pGpwaVkPomonWYsd) | [Nour Yamm](https://open.spotify.com/artist/0DiKAWOh13CGK5v0f8KyXR) | [بطل اللّيل](https://open.spotify.com/album/6O9WlkU4z1lN6zH0BfvILZ) | 3:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 | 49 | [Miskeen](https://open.spotify.com/track/0HmCXt2AJVvEYPDu3vJVsY) | [Asayel](https://open.spotify.com/artist/31UcNVT6d7myOObOy0LsNS), [Hyper249](https://open.spotify.com/artist/3T7CEZ4h8vXO8kEftlggOI) | [Miskeen](https://open.spotify.com/album/2depylvdwDuSDuO3H5JHOE) | 4:10 |
 | 50 | [TUTA \- توته](https://open.spotify.com/track/1dnnMwsZ88p48Ae0hW74q2) | [KairoKid](https://open.spotify.com/artist/4zmDtmTxro17k6QWwNfheh), [Double Zuksh](https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo), [Mousv](https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah) | [TUTA \- توته](https://open.spotify.com/album/3lrJTMp0zrm0QGusIyOPk3) | 3:00 |
 
-Snapshot ID: `aDb5dAAAAADn6pZZ1wR2wH9Jn4g3exts`
+Snapshot ID: `aD6G4QAAAADKsWgZe0N3kfR4N56r7yM1`

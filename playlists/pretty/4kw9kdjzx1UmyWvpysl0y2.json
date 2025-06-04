@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125290,
+  "num_followers": 125291,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUJs0Xo2XEqCxwkCzGxz9SW5gXEo/Z",
+  "snapshot_id": "AAAUKCLq85eYWT8/3WMENbOk9Wazk8GS",
   "tracks": [
+    {
+      "added_at": "2025-06-03 17:12:59",
+      "album": {
+        "name": "Phrases",
+        "url": "https://open.spotify.com/album/19GD0Nkfy9wMeHm9vCwZjc"
+      },
+      "artists": [
+        {
+          "name": "Liam Thomas",
+          "url": "https://open.spotify.com/artist/0CDvUUuendAExit0nkRVpN"
+        },
+        {
+          "name": "Finding Mero",
+          "url": "https://open.spotify.com/artist/01F2xKu2BblqA0nG21zvzs"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Phrases",
+      "url": "https://open.spotify.com/track/47DoFOZM42XrsMXprOHSAt"
+    },
     {
       "added_at": "2025-06-02 14:38:51",
       "album": {
@@ -1131,54 +1151,6 @@
       "duration_ms": 221720,
       "name": "Afterlife",
       "url": "https://open.spotify.com/track/6WBUjjJfJfCuAw2QKrduFv"
-    },
-    {
-      "added_at": "2025-03-12 15:00:44",
-      "album": {
-        "name": "Anxious",
-        "url": "https://open.spotify.com/album/2fvpGsmXuNd24IC3gEABHU"
-      },
-      "artists": [
-        {
-          "name": "Viperactive",
-          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
-        }
-      ],
-      "duration_ms": 142204,
-      "name": "Anxious",
-      "url": "https://open.spotify.com/track/0aIZGMXxGwKfkIOwiTzY82"
-    },
-    {
-      "added_at": "2025-03-11 15:32:19",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/6HKKBO75lKYdWJPdW76Gmp"
-      },
-      "artists": [
-        {
-          "name": "ALLKNIGHT",
-          "url": "https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/0OprknYuyOUDWdEPY1aSDN"
-    },
-    {
-      "added_at": "2025-03-10 15:14:14",
-      "album": {
-        "name": "Old School",
-        "url": "https://open.spotify.com/album/7Moh1CwiKkoFwm6R4nVfnV"
-      },
-      "artists": [
-        {
-          "name": "Rameses B",
-          "url": "https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO"
-        }
-      ],
-      "duration_ms": 162068,
-      "name": "Old School",
-      "url": "https://open.spotify.com/track/4PJ2d3KGZ0goovJMHOpxwr"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://open.spotify.com/playlist/5FWhibjoWhSsyfQveXzmRv?si=0a61027ee6a34d36\">HBO's Rap Sh!t</a>",
-  "num_followers": 40862,
+  "num_followers": 40875,
   "original_name": "HBO Rap Sh!t's Taste",
   "owner": {
     "name": "Spotify",
@@ -651,6 +651,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Who Don't Like Dollaz",
+        "url": "https://open.spotify.com/album/23uhkVlRY5xibU4tWEYaxQ"
+      },
+      "artists": [
+        {
+          "name": "Zoey Dollaz",
+          "url": "https://open.spotify.com/artist/39Uhf21aJFjMLus1j0YGT8"
+        }
+      ],
+      "duration_ms": 193358,
+      "name": "Blow a Check",
+      "url": "https://open.spotify.com/track/3IKaK0z2lNVzX6gBH2ReDw"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "The Bastard Tape, Vol. 1",
         "url": "https://open.spotify.com/album/2N2geXZotNXw4nqi2bk00J"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 229090,
       "name": "Sleeping With the Enemy",
       "url": "https://open.spotify.com/track/0ISoKjo9JVUB97JMgygRZP"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Who Don't Like Dollaz",
-        "url": "https://open.spotify.com/album/23uhkVlRY5xibU4tWEYaxQ"
-      },
-      "artists": [
-        {
-          "name": "Zoey Dollaz",
-          "url": "https://open.spotify.com/artist/39Uhf21aJFjMLus1j0YGT8"
-        }
-      ],
-      "duration_ms": 193358,
-      "name": "Blow a Check",
-      "url": "https://open.spotify.com/track/3IKaK0z2lNVzX6gBH2ReDw"
     },
     {
       "added_at": "2022-10-01 16:00:00",

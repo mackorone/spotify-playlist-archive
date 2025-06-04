@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDhy/wAAAAByCfMq7z5WTofmppHxcxmG",
+  "snapshot_id": "aD6K8QAAAACVnna6fsWZuIGuZTlH1tam",
   "tracks": [
     {
       "added_at": "2025-04-11 08:27:10",
@@ -23,6 +23,26 @@
       "duration_ms": 141600,
       "name": "Apashampakirikiri",
       "url": "https://open.spotify.com/track/5Aq0ncMH951va6Rm3owSLy"
+    },
+    {
+      "added_at": "2025-06-03 05:41:05",
+      "album": {
+        "name": "Sakhiye",
+        "url": "https://open.spotify.com/album/15e9cIt413nP4KTTJd4sRe"
+      },
+      "artists": [
+        {
+          "name": "Krishna Tejasvi",
+          "url": "https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q"
+        },
+        {
+          "name": "Srirag Vadlakonda",
+          "url": "https://open.spotify.com/artist/6OCxOIWN5WGB9iZSnYqwRb"
+        }
+      ],
+      "duration_ms": 230526,
+      "name": "Sakhiye",
+      "url": "https://open.spotify.com/track/2a8w4nzNhzGbjWv07gmDnr"
     },
     {
       "added_at": "2025-04-29 07:08:11",

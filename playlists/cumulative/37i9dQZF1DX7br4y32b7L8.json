@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "1+1 (Outside)",
+        "url": "https://open.spotify.com/album/0W9yMPmPSIwvjKDv5jPPPJ"
+      },
+      "artists": [
+        {
+          "name": "Dior",
+          "url": "https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt"
+        },
+        {
+          "name": "Cristian D",
+          "url": "https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4"
+        }
+      ],
+      "date_added": "2025-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158132,
+      "name": "1+1 (Outside)",
+      "url": "https://open.spotify.com/track/2MPWNU7QkwmBNAoHdYLYfW"
+    },
+    {
+      "album": {
         "name": "10/10",
         "url": "https://open.spotify.com/album/5VWPkqPUYktdoEVXIPhoRc"
       },

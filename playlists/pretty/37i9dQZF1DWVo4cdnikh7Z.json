@@ -1,12 +1,12 @@
 {
   "description": "New Music from Kollywood.\nCover : Thug Life",
-  "num_followers": 706819,
+  "num_followers": 706872,
   "original_name": "Latest Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDgTdgAAAACGNOqXxoSJ7YIUuZ1aOGQ9",
+  "snapshot_id": "aD7aOAAAAAD5DK5IFs4JY+Zf2ZfPw8/A",
   "tracks": [
     {
       "added_at": "2025-04-18 07:55:48",
@@ -297,6 +297,50 @@
       "url": "https://open.spotify.com/track/3MELuNUntwMZwsNK9zNxJi"
     },
     {
+      "added_at": "2025-06-03 11:17:04",
+      "album": {
+        "name": "Kadha Kadha Kadhai (From \"Kuberaa\")(Tamil)",
+        "url": "https://open.spotify.com/album/1ePOWnAnqQTEcFCeRUSsjt"
+      },
+      "artists": [
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Hyde Karty",
+          "url": "https://open.spotify.com/artist/5diOq1Qfzspw7pN99vd8bH"
+        },
+        {
+          "name": "Kareemulla",
+          "url": "https://open.spotify.com/artist/3onQjdKtimcLmb0IXJ2eq0"
+        },
+        {
+          "name": "Viveka",
+          "url": "https://open.spotify.com/artist/5r80gH9ibGjUVSQrXD8W7Z"
+        }
+      ],
+      "duration_ms": 180728,
+      "name": "Kadha Kadha Kadhai (From \"Kuberaa\")(Tamil)",
+      "url": "https://open.spotify.com/track/1f6Dcmxj9PxONsOecc3uwO"
+    },
+    {
+      "added_at": "2025-06-03 11:19:20",
+      "album": {
+        "name": "Only Fans",
+        "url": "https://open.spotify.com/album/1yiOp0VQox1dog9oRIgZng"
+      },
+      "artists": [
+        {
+          "name": "Hiphop Tamizha",
+          "url": "https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q"
+        }
+      ],
+      "duration_ms": 168402,
+      "name": "Only Fans",
+      "url": "https://open.spotify.com/track/3sgUiQHGyHVAavw8HAh80W"
+    },
+    {
       "added_at": "2025-05-24 15:45:43",
       "album": {
         "name": "Thug Life (Tamil)",
@@ -413,6 +457,34 @@
       "url": "https://open.spotify.com/track/2X3loZP2xh8RJQh4SfbnVZ"
     },
     {
+      "added_at": "2025-06-03 11:17:04",
+      "album": {
+        "name": "Kuberaa (Tamil)",
+        "url": "https://open.spotify.com/album/4ZIbeqRaN1kf81K3Rtnd3K"
+      },
+      "artists": [
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Dhanush",
+          "url": "https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz"
+        },
+        {
+          "name": "Deepak Blue",
+          "url": "https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf"
+        },
+        {
+          "name": "Viveka",
+          "url": "https://open.spotify.com/artist/5r80gH9ibGjUVSQrXD8W7Z"
+        }
+      ],
+      "duration_ms": 99000,
+      "name": "Trance of Kuberaa (Tamil)",
+      "url": "https://open.spotify.com/track/53HU2EKhEXLFg2nvdg30nH"
+    },
+    {
       "added_at": "2025-05-24 15:45:43",
       "album": {
         "name": "Thug Life (Tamil)",
@@ -489,30 +561,6 @@
       "url": "https://open.spotify.com/track/2uaVmUsrF5bGQFd7zn65gk"
     },
     {
-      "added_at": "2025-05-27 12:40:39",
-      "album": {
-        "name": "O RAASA (From \"the Verdict\")",
-        "url": "https://open.spotify.com/album/1AuIrh5hgBOfqwT94j5h9I"
-      },
-      "artists": [
-        {
-          "name": "Aditya Rao",
-          "url": "https://open.spotify.com/artist/1R1TnxUWLvnOzsBChmemTa"
-        },
-        {
-          "name": "Shakthisree Gopalan",
-          "url": "https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP"
-        },
-        {
-          "name": "Ragavan Gopalsamy",
-          "url": "https://open.spotify.com/artist/3GNsmhlTSZPPLriWLP0kp4"
-        }
-      ],
-      "duration_ms": 233142,
-      "name": "O RAASA - From \"the Verdict\"",
-      "url": "https://open.spotify.com/track/4JIh69MLCmYGNejZiOeNyP"
-    },
-    {
       "added_at": "2025-05-24 15:45:43",
       "album": {
         "name": "Thug Life (Tamil)",
@@ -531,26 +579,6 @@
       "duration_ms": 159212,
       "name": "Let's Play",
       "url": "https://open.spotify.com/track/329hLnLm3VVSPr0kNCsjLn"
-    },
-    {
-      "added_at": "2025-05-21 08:49:40",
-      "album": {
-        "name": "Ace Anthem (From \"Ace\")",
-        "url": "https://open.spotify.com/album/7M4HfCk1Hj2AZAJtg2yIbr"
-      },
-      "artists": [
-        {
-          "name": "Justin Prabhakaran",
-          "url": "https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr"
-        },
-        {
-          "name": "Ratty Adhiththan",
-          "url": "https://open.spotify.com/artist/06qlB4GYIEJsYDEh6yhTuF"
-        }
-      ],
-      "duration_ms": 149735,
-      "name": "Ace Anthem - From \"Ace\"",
-      "url": "https://open.spotify.com/track/0cDjhYuB47TEgLtCktBJiy"
     },
     {
       "added_at": "2025-05-13 14:04:00",
@@ -633,30 +661,6 @@
       "url": "https://open.spotify.com/track/2wrpWCyg46DmeWPkImC58W"
     },
     {
-      "added_at": "2025-05-27 12:40:39",
-      "album": {
-        "name": "AEDHUM SOLLAMAL (From \"the Verdict\")",
-        "url": "https://open.spotify.com/album/2K0PbFsPbyjxUlIN4CSWoE"
-      },
-      "artists": [
-        {
-          "name": "Aditya Rao",
-          "url": "https://open.spotify.com/artist/1R1TnxUWLvnOzsBChmemTa"
-        },
-        {
-          "name": "Priyanka NK",
-          "url": "https://open.spotify.com/artist/2ur0GHc7zvYZXe0WjIKd2K"
-        },
-        {
-          "name": "Madhan Karky",
-          "url": "https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7"
-        }
-      ],
-      "duration_ms": 300631,
-      "name": "AEDHUM SOLLAMAL - From \"the Verdict\"",
-      "url": "https://open.spotify.com/track/6PqpywLdPvYm4PuJcxyYlU"
-    },
-    {
       "added_at": "2025-04-23 10:39:11",
       "album": {
         "name": "Tourist Family (Original Motion Picture Soundtrack)",
@@ -681,30 +685,6 @@
       "url": "https://open.spotify.com/track/0XFlAzCP6N036svSRGwH6m"
     },
     {
-      "added_at": "2025-05-20 10:04:18",
-      "album": {
-        "name": "Enna Da Polappu Idhu (From \"Madras Matinee\")",
-        "url": "https://open.spotify.com/album/3HmyFxnBE1LRauLK3DmceZ"
-      },
-      "artists": [
-        {
-          "name": "K C Balasarangan",
-          "url": "https://open.spotify.com/artist/7b5pJ3sqgxxD2BYEQKl9eQ"
-        },
-        {
-          "name": "Vadivelu",
-          "url": "https://open.spotify.com/artist/4SlCFtxWUAnjCBqoq4zeS5"
-        },
-        {
-          "name": "Snekan",
-          "url": "https://open.spotify.com/artist/0yVM51NiuZZxKHfjTYeWvN"
-        }
-      ],
-      "duration_ms": 235602,
-      "name": "Enna Da Polappu Idhu (From \"Madras Matinee\")",
-      "url": "https://open.spotify.com/track/4p9Qo0XSJuipmnsMQbuwu7"
-    },
-    {
       "added_at": "2025-05-13 13:56:51",
       "album": {
         "name": "Diya Diya (From \"Bun Butter Jam\")",
@@ -727,66 +707,6 @@
       "duration_ms": 284288,
       "name": "Diya Diya (From \"Bun Butter Jam\")",
       "url": "https://open.spotify.com/track/1STlFliJfXSK8UAIF8H1Mi"
-    },
-    {
-      "added_at": "2025-05-23 05:28:47",
-      "album": {
-        "name": "Ace (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6tXUZPWXVaGSg2Bxs8nYj8"
-      },
-      "artists": [
-        {
-          "name": "Sam C.S.",
-          "url": "https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa"
-        },
-        {
-          "name": "Iykki Berry",
-          "url": "https://open.spotify.com/artist/0I0EZKnUpimGfzPY17L1yD"
-        }
-      ],
-      "duration_ms": 131428,
-      "name": "Poka Rap",
-      "url": "https://open.spotify.com/track/4FqhuCmM2eZ5hq3jbwhukf"
-    },
-    {
-      "added_at": "2025-05-22 06:05:54",
-      "album": {
-        "name": "Asura Hananam (From \"Hari Hara Veera Mallu\") [Tamil]",
-        "url": "https://open.spotify.com/album/4qsX6HODps2SsX4GQidtJ5"
-      },
-      "artists": [
-        {
-          "name": "Maragadhamani",
-          "url": "https://open.spotify.com/artist/1bRcW8SnU3AKrhzxnbdR64"
-        },
-        {
-          "name": "Airaa Udupi",
-          "url": "https://open.spotify.com/artist/1zlUAFoQSKwMdElF0UiiPR"
-        },
-        {
-          "name": "Kala Bhairava",
-          "url": "https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14"
-        },
-        {
-          "name": "Saicharan Bhaskaruni",
-          "url": "https://open.spotify.com/artist/32rgf5uvf7GtEPjrHyJ6uU"
-        },
-        {
-          "name": "Lokeshwar Edara",
-          "url": "https://open.spotify.com/artist/7ag0al5P3y3IzzEh0G7YL8"
-        },
-        {
-          "name": "Hymath Mohammed",
-          "url": "https://open.spotify.com/artist/3J1GpjoKtKt2jMkQJAeiRV"
-        },
-        {
-          "name": "Pa. Vijay",
-          "url": "https://open.spotify.com/artist/1dg4azP3LshEhi3moXgJQv"
-        }
-      ],
-      "duration_ms": 245583,
-      "name": "Asura Hananam (From \"Hari Hara Veera Mallu\") [Tamil]",
-      "url": "https://open.spotify.com/track/1WsWAUCopCJ2NampaDzJAB"
     },
     {
       "added_at": "2025-04-17 06:45:08",
@@ -901,78 +821,6 @@
       "url": "https://open.spotify.com/track/6tvhzzgS7pYBcMZgu89xJ0"
     },
     {
-      "added_at": "2025-05-21 12:45:40",
-      "album": {
-        "name": "Yeno Yeno (From \"Azadi\")",
-        "url": "https://open.spotify.com/album/6uR7cyS1VQWhT8dOoaYzrn"
-      },
-      "artists": [
-        {
-          "name": "Varun Unni",
-          "url": "https://open.spotify.com/artist/2W423FPGk8uamQ3AZpb0hT"
-        },
-        {
-          "name": "Aravind Srinivas",
-          "url": "https://open.spotify.com/artist/4D3Rik34ofGp07ieu9zENY"
-        },
-        {
-          "name": "Naveen Bharathi",
-          "url": "https://open.spotify.com/artist/1B3EG1myMgdRwViPIA2p3S"
-        }
-      ],
-      "duration_ms": 235479,
-      "name": "Yeno Yeno (From \"Azadi\")",
-      "url": "https://open.spotify.com/track/3On7jKMjzBcUm4sM55jba4"
-    },
-    {
-      "added_at": "2025-05-16 14:14:44",
-      "album": {
-        "name": "Janaku Jikkan (From \"Vembu\")",
-        "url": "https://open.spotify.com/album/04QfIQr1Prjyp1eWZ1pBJi"
-      },
-      "artists": [
-        {
-          "name": "Manikandan murali",
-          "url": "https://open.spotify.com/artist/0VUmwMAVcspZlS7a0ELgLg"
-        },
-        {
-          "name": "Anthony Daasan",
-          "url": "https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv"
-        },
-        {
-          "name": "V. Justin Prabu",
-          "url": "https://open.spotify.com/artist/5mDlYwIU2RKkihKWeZh2re"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Janaku Jikkan (From \"Vembu\")",
-      "url": "https://open.spotify.com/track/2phHLqpgsS9EufBj7YgLyF"
-    },
-    {
-      "added_at": "2025-05-23 05:28:47",
-      "album": {
-        "name": "Ace (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6tXUZPWXVaGSg2Bxs8nYj8"
-      },
-      "artists": [
-        {
-          "name": "Sam C.S.",
-          "url": "https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa"
-        },
-        {
-          "name": "Kapil Kapilan",
-          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
-        },
-        {
-          "name": "Karthik Netha",
-          "url": "https://open.spotify.com/artist/3o7GGc9KjbLzTCwOq9WL55"
-        }
-      ],
-      "duration_ms": 176949,
-      "name": "Paarvai Thani",
-      "url": "https://open.spotify.com/track/56oeMRbEbB0wyRTaXkYvoo"
-    },
-    {
       "added_at": "2025-04-23 09:24:08",
       "album": {
         "name": "King of Thugs (From \"Thug Life\") (Tamil)",
@@ -1063,30 +911,6 @@
       "duration_ms": 194069,
       "name": "Ranagalam",
       "url": "https://open.spotify.com/track/14x5ptixA4uglhogqrdpFU"
-    },
-    {
-      "added_at": "2025-05-05 05:55:09",
-      "album": {
-        "name": "Cinemakaran (From \"Devil's Double Next Level\")",
-        "url": "https://open.spotify.com/album/4gLd7E6UyMSPtOWltlDmxR"
-      },
-      "artists": [
-        {
-          "name": "ofRO",
-          "url": "https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts"
-        },
-        {
-          "name": "Vangal Pulla Vicky",
-          "url": "https://open.spotify.com/artist/5eJHTflIBLyKN3EvU1rDAu"
-        },
-        {
-          "name": "Thamizh Aadhavan",
-          "url": "https://open.spotify.com/artist/2naoxh21roEyvOd7NWwDUb"
-        }
-      ],
-      "duration_ms": 135428,
-      "name": "Cinemakaran - From \"Devil's Double Next Level\"",
-      "url": "https://open.spotify.com/track/1XJDOTyFIoD7YMCps8XgGZ"
     },
     {
       "added_at": "2025-05-13 14:04:00",
@@ -1183,30 +1007,6 @@
       "duration_ms": 178985,
       "name": "Kannale Pesuma",
       "url": "https://open.spotify.com/track/25jONjOI9xr6sixqNOEhwk"
-    },
-    {
-      "added_at": "2025-03-22 02:20:44",
-      "album": {
-        "name": "Veera Dheera Sooran (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1hqxdOOQtLnoqoh1tL36Y6"
-      },
-      "artists": [
-        {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
-        },
-        {
-          "name": "Haricharan",
-          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
-        },
-        {
-          "name": "Shweta Mohan",
-          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
-        }
-      ],
-      "duration_ms": 212210,
-      "name": "Kalloorum",
-      "url": "https://open.spotify.com/track/67Wp0iVQWeH3lwQAuIdthY"
     },
     {
       "added_at": "2025-04-25 04:07:24",
@@ -1313,26 +1113,6 @@
       "url": "https://open.spotify.com/track/4VqPXfmpDdXSVigT8nkiJP"
     },
     {
-      "added_at": "2025-03-22 02:20:44",
-      "album": {
-        "name": "Veera Dheera Sooran (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1hqxdOOQtLnoqoh1tL36Y6"
-      },
-      "artists": [
-        {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
-        },
-        {
-          "name": "Sadhika K R",
-          "url": "https://open.spotify.com/artist/2ES35LM2c97AhayaTYvZ6P"
-        }
-      ],
-      "duration_ms": 164400,
-      "name": "Aaathi Adi Aaathi",
-      "url": "https://open.spotify.com/track/5KQ3EeRbFdYzLquWmN5WXU"
-    },
-    {
       "added_at": "2025-04-04 06:03:12",
       "album": {
         "name": "Kalyana Kalavaram (From \"Love Marriage\")",
@@ -1347,30 +1127,6 @@
       "duration_ms": 201951,
       "name": "Kalyana Kalavaram (From \"Love Marriage\")",
       "url": "https://open.spotify.com/track/12cGbxEKm36O7koYFGj5YE"
-    },
-    {
-      "added_at": "2025-04-08 10:16:39",
-      "album": {
-        "name": "Aghathiyaa - Tamil (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3RI9rVupeVeqYUzrjWXnsG"
-      },
-      "artists": [
-        {
-          "name": "Yuvan Shankar Raja",
-          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
-        },
-        {
-          "name": "Pa. Vijay",
-          "url": "https://open.spotify.com/artist/1dg4azP3LshEhi3moXgJQv"
-        },
-        {
-          "name": "Sathyaprakash",
-          "url": "https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn"
-        }
-      ],
-      "duration_ms": 224044,
-      "name": "Thurigaiye Thurigaiye",
-      "url": "https://open.spotify.com/track/7olcTqNqCqeDnjlfmJMjQ8"
     },
     {
       "added_at": "2025-03-30 00:53:29",
@@ -1441,42 +1197,6 @@
       "url": "https://open.spotify.com/track/18RWJYKcaXYRscnJeUNEh3"
     },
     {
-      "added_at": "2025-03-26 14:57:53",
-      "album": {
-        "name": "Blud Is On His Way (From \"PR04\")",
-        "url": "https://open.spotify.com/album/1scvYLK8VHrroOWnZhu4Qx"
-      },
-      "artists": [
-        {
-          "name": "Sai Abhyankkar",
-          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
-        }
-      ],
-      "duration_ms": 77080,
-      "name": "Blud Is On His Way - From \"PR04\"",
-      "url": "https://open.spotify.com/track/0AIuNCZrate6MIxM2djNI9"
-    },
-    {
-      "added_at": "2025-03-22 02:20:44",
-      "album": {
-        "name": "Veera Dheera Sooran (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1hqxdOOQtLnoqoh1tL36Y6"
-      },
-      "artists": [
-        {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
-        },
-        {
-          "name": "Velmurugan",
-          "url": "https://open.spotify.com/artist/70jbLrKZefy2ynyGrHvVNi"
-        }
-      ],
-      "duration_ms": 183875,
-      "name": "Ayla Allela",
-      "url": "https://open.spotify.com/track/6Dz7WgsWwFUFPioUB3c596"
-    },
-    {
       "added_at": "2025-04-03 11:24:53",
       "album": {
         "name": "School (Original Motion Picture Soundtrack)",
@@ -1499,62 +1219,6 @@
       "duration_ms": 274714,
       "name": "Sittukoru Kattupadu Othuvaruma",
       "url": "https://open.spotify.com/track/2Lsp0zNGRkAyytcoPvft6L"
-    },
-    {
-      "added_at": "2025-03-24 13:56:21",
-      "album": {
-        "name": "Dragon (Original Score)",
-        "url": "https://open.spotify.com/album/4J53sSdhRl5wA2qfw5AWy2"
-      },
-      "artists": [
-        {
-          "name": "Leon James",
-          "url": "https://open.spotify.com/artist/0wv5i0ds2z040yx7oL6UZy"
-        }
-      ],
-      "duration_ms": 119300,
-      "name": "Gumthalakadi Gala Gala",
-      "url": "https://open.spotify.com/track/3CaQ7uPo5xOIFLXpL1HZLg"
-    },
-    {
-      "added_at": "2025-03-24 13:56:21",
-      "album": {
-        "name": "Dragon (Original Score)",
-        "url": "https://open.spotify.com/album/4J53sSdhRl5wA2qfw5AWy2"
-      },
-      "artists": [
-        {
-          "name": "Leon James",
-          "url": "https://open.spotify.com/artist/0wv5i0ds2z040yx7oL6UZy"
-        }
-      ],
-      "duration_ms": 74196,
-      "name": "Birth of Dragon",
-      "url": "https://open.spotify.com/track/3os9yPh7n79Wk1UNPvY8CJ"
-    },
-    {
-      "added_at": "2025-03-22 02:24:27",
-      "album": {
-        "name": "Idhayam (From \"Once More\")",
-        "url": "https://open.spotify.com/album/7ExRAD8avgtjKVFDXYsWOI"
-      },
-      "artists": [
-        {
-          "name": "Hesham Abdul Wahab",
-          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
-        },
-        {
-          "name": "Vineeth Sreenivasan",
-          "url": "https://open.spotify.com/artist/2uocTdMBXjTsS7QmAj7src"
-        },
-        {
-          "name": "Vignesh Srikanth",
-          "url": "https://open.spotify.com/artist/4tJEEeKyEuYWQLzBz0a8p1"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Idhayam - From \"Once More\"",
-      "url": "https://open.spotify.com/track/3WEHEubXe0I1Sne6NS8DnQ"
     }
   ],
   "unique_name": "Latest Tamil",

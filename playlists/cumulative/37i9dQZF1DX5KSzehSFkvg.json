@@ -1856,7 +1856,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 161538,
       "name": "LEHMAM - \u0627\u0644\u062d\u0645\u0627\u0645",
       "url": "https://open.spotify.com/track/2t3xxs1AIrW9qKDte5JAVk"
@@ -2177,6 +2177,24 @@
     },
     {
       "album": {
+        "name": "MAHBOULA",
+        "url": "https://open.spotify.com/album/6xxm174FrG6Mni52k9UFWL"
+      },
+      "artists": [
+        {
+          "name": "Manal",
+          "url": "https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F"
+        }
+      ],
+      "date_added": "2025-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169565,
+      "name": "MAHBOULA",
+      "url": "https://open.spotify.com/track/4AS0ncb4OzzAjwvsgWu9XV"
+    },
+    {
+      "album": {
         "name": "Makhelaw magalou",
         "url": "https://open.spotify.com/album/1aiMHJEw75iDP9reYTQ4lO"
       },
@@ -2304,7 +2322,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 238882,
       "name": "MARJANA",
       "url": "https://open.spotify.com/track/5lWQ5qYAy2pe11J3Ze7u9o"
@@ -2412,7 +2430,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 198595,
       "name": "Mimti",
       "url": "https://open.spotify.com/track/6MZ3lIqUARBkZEDERr6tlF"
@@ -3157,6 +3175,28 @@
     },
     {
       "album": {
+        "name": "YA BABA",
+        "url": "https://open.spotify.com/album/1HGvr8M7zmT4qZlKf1lKZK"
+      },
+      "artists": [
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        },
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        }
+      ],
+      "date_added": "2025-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168894,
+      "name": "YA BABA",
+      "url": "https://open.spotify.com/track/48l6xps5kWSsxtYdXHgz0Y"
+    },
+    {
+      "album": {
         "name": "Ya Bent Nass",
         "url": "https://open.spotify.com/album/7etlW0csrc4pTaLA55M1cH"
       },
@@ -3302,6 +3342,28 @@
       "duration_ms": 178737,
       "name": "Youm Machi Aadi",
       "url": "https://open.spotify.com/track/4PNqyp3pp5c3A8jM8YgsSN"
+    },
+    {
+      "album": {
+        "name": "Zendaya",
+        "url": "https://open.spotify.com/album/33hMxOxJZVA8XuvN07tuq9"
+      },
+      "artists": [
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        },
+        {
+          "name": "Zouhair Bahaoui",
+          "url": "https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6"
+        }
+      ],
+      "date_added": "2025-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184568,
+      "name": "Zendaya",
+      "url": "https://open.spotify.com/track/7oZZcZOMSG743m8awHqWGS"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 
 > New music by the heaviest independent artists every Wednesday\. Cover: DIESECT
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,019 likes - 75 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,040 likes - 75 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 | 74 | [STAIN](https://open.spotify.com/track/6xcoa669YknFFOICTWrca1) | [Wither//Bloom](https://open.spotify.com/artist/2Zx7gOdSeToesLI2cDQnfd) | [STAIN](https://open.spotify.com/album/5SDokcHTkrn34sa3ljA2As) | 3:18 |
 | 75 | [Dying Wisdom](https://open.spotify.com/track/1HcrY7PKXdn7xGAAtByqff) | [Between The Lakes](https://open.spotify.com/artist/7uLa4LuYx19XT2ssR0zzEp) | [Dying Wisdom](https://open.spotify.com/album/1XPcgHjPblSz9ED1tLKANC) | 4:03 |
 
-Snapshot ID: `AAAAAAkriIyuU54G/+20vy3OJhut7j5F`
+Snapshot ID: `aDktUQAAAABCAvHQr0CptFKsjyjSMDmQ`

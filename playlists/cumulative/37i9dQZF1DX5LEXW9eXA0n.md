@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover: IU\(아이유\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,491 songs - 4 day 0 hr 37 min
+1,492 songs - 4 day 0 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -467,6 +467,7 @@
 | [How Can I Love](https://open.spotify.com/track/6Ng2yfcoYIbLigfjEqAoPF) | [Lee A Young](https://open.spotify.com/artist/5FpU6Sx82VSTvnoxtbVv6q) | [How Can I Love \(Lee A Young X Desperate Ballad Project\)](https://open.spotify.com/album/305WI1edktJgtvSia1X1pm) | 4:04 | 2025-04-22 | 2025-05-31 |
 | [How can I love the heartbreak, you're the one I love](https://open.spotify.com/track/0hqj5JBnFt1BHEz2UCFwrl) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [SAILING](https://open.spotify.com/album/7C0Ci0alKWwwXPIFYEdVcn) | 4:50 | 2024-08-10 | 2025-04-23 |
 | [How could you](https://open.spotify.com/track/49vI2GkYDR5sKmINKsQd96) | [LEE SEUNG HWAN](https://open.spotify.com/artist/6LPV5KZBc1zBjX8AFZ2WWY), [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [How could you](https://open.spotify.com/album/6Tv0HmutNYBa1IK3scNXYo) | 4:11 | 2021-12-23 | 2022-07-08 |
+| [How Could You Leave](https://open.spotify.com/track/4JkWWPrKOfUG5bwGlrm3qr) | [HYB \(Huh Gak,Shin Yong Jae,Onestar\)](https://open.spotify.com/artist/75LV0HV0cURCViNnAZ1SQt) | [H.Y.B\. Project \#3 \- How Could You Leave](https://open.spotify.com/album/6gilkQOwgtBJJZPyCcQKbE) | 3:23 | 2025-06-04 |  |
 | [How did we](https://open.spotify.com/track/5MstaTKdwp6gVpaEFfvZrP) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [Hello](https://open.spotify.com/album/2aCYxRu2ETq1u3MlR4c86z) | 3:52 | 2022-01-03 | 2022-06-14 |
 | [How have you been](https://open.spotify.com/track/2HVku0IEbTB41iQvAJKQuJ) | [Kim Sol](https://open.spotify.com/artist/2ZXy5pIbcsRpQSdJ7ORUdb) | [How have you been](https://open.spotify.com/album/6nESHbjPc2o0YzWj9zh5bq) | 3:01 | 2023-01-11 | 2023-02-25 |
 | [How have you been](https://open.spotify.com/track/0ydUYcJeaUlOaFOFV6o1e1) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [The Dreamest](https://open.spotify.com/album/3WlZ4ckBpoZeZCTVGF7fXV) | 4:30 | 2025-04-25 |  |
@@ -496,7 +497,7 @@
 | [I Don't Deserve to Be Loved](https://open.spotify.com/track/2eI8WM0a0KLjQnWiyPMIic) | [Baek Grim](https://open.spotify.com/artist/6mVsxcJyevC8Aqe722CfFB) | [I Don't Deserve to Be Loved](https://open.spotify.com/album/7xUxFxbvpseFMhAQGSwmjE) | 3:45 | 2022-07-04 | 2022-09-30 |
 | [I don't want to try too hard](https://open.spotify.com/track/5i4AG1SJzoaZA9BRIcLIkd) | [Broccoli, you too?](https://open.spotify.com/artist/1gq4XavqmZhqOzEkpFBz1j) | [I don't want to try too hard](https://open.spotify.com/album/2DAMtOoAtOxIb7hCdrzS2V) | 3:25 | 2024-09-23 | 2025-01-22 |
 | [I feel](https://open.spotify.com/track/0D87LPNSFzltA0IPc9C8MN) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [I feel](https://open.spotify.com/album/2bBm0Jj6uyLCUMmqiwL2xY) | 3:46 | 2023-03-15 | 2023-07-18 |
-| [I Feel It Now](https://open.spotify.com/track/0oqk3ugFbaGhEmuUFaUaHy) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [When The Phone Rings, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/09APlXxudP3YywxqQnH6dU) | 3:53 | 2025-01-02 |  |
+| [I Feel It Now](https://open.spotify.com/track/0oqk3ugFbaGhEmuUFaUaHy) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [When The Phone Rings, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/09APlXxudP3YywxqQnH6dU) | 3:53 | 2025-01-02 | 2025-06-04 |
 | [I feel so alone](https://open.spotify.com/track/4RDeeHsaxvS9jr2aUzyhXg) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [수상한 작업실 Episode 2](https://open.spotify.com/album/5EjqxCdy711Yzx4Rgo9aLp) | 2:49 | 2023-01-20 | 2023-02-15 |
 | [I fell in love](https://open.spotify.com/track/0RwR8PxosWbhF5BEh6QNZl) | [Bernard Park](https://open.spotify.com/artist/53Yqe3arWNbYQCw4kk1Qmv) | [Three Siblings Bravely OST Part.11 \(Soundtrack\)](https://open.spotify.com/album/76xtmmZDBqGTKrrqX9qTzm) | 3:29 | 2023-02-24 | 2023-06-23 |
 | [I got lucky](https://open.spotify.com/track/2xqZgDhbEzNIQGEz8HdrkJ) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [Shape of me](https://open.spotify.com/album/1GU9TwATIkJ6GpVqrtX2ju) | 4:16 | 2023-05-05 | 2023-05-16 |

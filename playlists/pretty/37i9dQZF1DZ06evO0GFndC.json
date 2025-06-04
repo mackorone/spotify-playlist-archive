@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Los de la O. The essential tracks, all in one playlist.",
-  "num_followers": 59937,
+  "num_followers": 59951,
   "original_name": "This Is Grupo Los de la O",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDuYAAAAAADkj+nFC+nxa8CJ7DtoDLYD",
+  "snapshot_id": "aDzpgAAAAAD4vEWOckGKRTyGe3obCAOr",
   "tracks": [
     {
       "added_at": null,
@@ -467,6 +467,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Revelaciones de un Cholo (Explicit)",
+        "url": "https://open.spotify.com/album/6YDlFoq197LU4wmrDsuEsw"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "duration_ms": 236472,
+      "name": "Revelaciones de un Cholo",
+      "url": "https://open.spotify.com/track/072kXoaiQYWVbWOnCN6Qdg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Proyecto A",
         "url": "https://open.spotify.com/album/4v6dj7Tfa3wyALxNvMx6bQ"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 191750,
       "name": "Buenas Vibras",
       "url": "https://open.spotify.com/track/14ZjoQB3VZFISRZTjrVGhj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Revelaciones de un Cholo (Explicit)",
-        "url": "https://open.spotify.com/album/6YDlFoq197LU4wmrDsuEsw"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        }
-      ],
-      "duration_ms": 236472,
-      "name": "Revelaciones de un Cholo",
-      "url": "https://open.spotify.com/track/072kXoaiQYWVbWOnCN6Qdg"
     },
     {
       "added_at": null,
@@ -523,26 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bien Equipados",
-        "url": "https://open.spotify.com/album/2f0KcsjEftYpn1OmCJAs2P"
-      },
-      "artists": [
-        {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
-        },
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        }
-      ],
-      "duration_ms": 170461,
-      "name": "Bien Equipados",
-      "url": "https://open.spotify.com/track/58jOk6VlZQxcUADl5RhOEq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sin Hacer Ruido",
         "url": "https://open.spotify.com/album/6wWICPpm8uk6FkPO9kGObs"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 155499,
       "name": "Sin Hacer Ruido",
       "url": "https://open.spotify.com/track/3jAVdwO7ycWZOJl76vn3c9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bien Equipados",
+        "url": "https://open.spotify.com/album/2f0KcsjEftYpn1OmCJAs2P"
+      },
+      "artists": [
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        },
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "duration_ms": 170461,
+      "name": "Bien Equipados",
+      "url": "https://open.spotify.com/track/58jOk6VlZQxcUADl5RhOEq"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Resiliencia",
-        "url": "https://open.spotify.com/album/5JlfkaYprQ3oDcaRtBOz4w"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        }
-      ],
-      "duration_ms": 192085,
-      "name": "Brillo Propio",
-      "url": "https://open.spotify.com/track/7cVgN6hkW4FY8jEdO0ZA4S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Proyecto A",
         "url": "https://open.spotify.com/album/4v6dj7Tfa3wyALxNvMx6bQ"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 162500,
       "name": "Legado",
       "url": "https://open.spotify.com/track/5jd85MnXpMNa6OxhLJKwQQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Resiliencia",
+        "url": "https://open.spotify.com/album/5JlfkaYprQ3oDcaRtBOz4w"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "duration_ms": 192085,
+      "name": "Brillo Propio",
+      "url": "https://open.spotify.com/track/7cVgN6hkW4FY8jEdO0ZA4S"
     },
     {
       "added_at": null,
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
         }
       ],
-      "duration_ms": 194000,
-      "name": "Tras las Rejas",
-      "url": "https://open.spotify.com/track/2Tgp4BW9S6xSRg4qL8a4vo"
+      "duration_ms": 212499,
+      "name": "Puro Gas",
+      "url": "https://open.spotify.com/track/1sRDG9M3EuT2Bm4PfRqYGQ"
     },
     {
       "added_at": null,
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
         }
       ],
-      "duration_ms": 212499,
-      "name": "Puro Gas",
-      "url": "https://open.spotify.com/track/1sRDG9M3EuT2Bm4PfRqYGQ"
+      "duration_ms": 194000,
+      "name": "Tras las Rejas",
+      "url": "https://open.spotify.com/track/2Tgp4BW9S6xSRg4qL8a4vo"
     },
     {
       "added_at": null,

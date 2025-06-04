@@ -1,6 +1,6 @@
 {
   "description": "Pegue seu caf\u00e9, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.",
-  "num_followers": 806270,
+  "num_followers": 806293,
   "original_name": "Cafezinho",
   "owner": {
     "name": "Spotify",
@@ -767,6 +767,22 @@
     {
       "added_at": "2025-05-30 05:19:26",
       "album": {
+        "name": "Beleza. Mas agora a gente faz o que com isso?",
+        "url": "https://open.spotify.com/album/0cOW8fhryMaZZG4Mo0VuEf"
+      },
+      "artists": [
+        {
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        }
+      ],
+      "duration_ms": 158461,
+      "name": "A Janela, Carolina",
+      "url": "https://open.spotify.com/track/08ccPaMAsu7IYnbFDJxUoH"
+    },
+    {
+      "added_at": "2025-05-30 05:19:26",
+      "album": {
         "name": "Por Pouco (Bit Box)",
         "url": "https://open.spotify.com/album/0h4xTADMMdMSOQraeakiEC"
       },
@@ -799,22 +815,6 @@
     {
       "added_at": "2025-05-30 05:19:26",
       "album": {
-        "name": "Beleza. Mas agora a gente faz o que com isso?",
-        "url": "https://open.spotify.com/album/0cOW8fhryMaZZG4Mo0VuEf"
-      },
-      "artists": [
-        {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
-        }
-      ],
-      "duration_ms": 158461,
-      "name": "A Janela, Carolina",
-      "url": "https://open.spotify.com/track/08ccPaMAsu7IYnbFDJxUoH"
-    },
-    {
-      "added_at": "2025-05-30 05:19:26",
-      "album": {
         "name": "Quase Sem Querer",
         "url": "https://open.spotify.com/album/5v12mn6fKImJjZR9D3QZME"
       },
@@ -827,26 +827,6 @@
       "duration_ms": 216842,
       "name": "Quase Sem Querer",
       "url": "https://open.spotify.com/track/0dPfujTAOWHFvAef50QvGi"
-    },
-    {
-      "added_at": "2025-05-30 05:19:26",
-      "album": {
-        "name": "Deixei Meu Cora\u00e7\u00e3o na Bahia",
-        "url": "https://open.spotify.com/album/4uWDjpJIOf7tnRy5Ksj6GA"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00e3 Yvys",
-          "url": "https://open.spotify.com/artist/34ykAn2yxSBubidCEVIccc"
-        },
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 148186,
-      "name": "Deixei Meu Cora\u00e7\u00e3o Na Bahia",
-      "url": "https://open.spotify.com/track/3UCQb7VmveT6wKndqJXdsQ"
     },
     {
       "added_at": "2025-05-30 05:19:26",
@@ -871,6 +851,26 @@
       "duration_ms": 196771,
       "name": "J\u00f3ia",
       "url": "https://open.spotify.com/track/5PJZbd8I7PrQDDDcehVU6M"
+    },
+    {
+      "added_at": "2025-05-30 05:19:26",
+      "album": {
+        "name": "Deixei Meu Cora\u00e7\u00e3o na Bahia",
+        "url": "https://open.spotify.com/album/4uWDjpJIOf7tnRy5Ksj6GA"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00e3 Yvys",
+          "url": "https://open.spotify.com/artist/34ykAn2yxSBubidCEVIccc"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 148186,
+      "name": "Deixei Meu Cora\u00e7\u00e3o Na Bahia",
+      "url": "https://open.spotify.com/track/3UCQb7VmveT6wKndqJXdsQ"
     },
     {
       "added_at": "2025-05-30 05:19:26",
@@ -927,22 +927,6 @@
     {
       "added_at": "2025-05-30 05:19:26",
       "album": {
-        "name": "Pra Gente Acordar",
-        "url": "https://open.spotify.com/album/2IoDCH4Y4KTTTm399IUwzI"
-      },
-      "artists": [
-        {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
-        }
-      ],
-      "duration_ms": 156906,
-      "name": "Voltar \u00e0 Bahia",
-      "url": "https://open.spotify.com/track/4pGs8iERniTESwC4pl6bXr"
-    },
-    {
-      "added_at": "2025-05-30 05:19:26",
-      "album": {
         "name": "A Paz (Ao Vivo)",
         "url": "https://open.spotify.com/album/4BXhVxKouNYfRoR6iPnYuv"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 274304,
       "name": "A Paz - Ao Vivo",
       "url": "https://open.spotify.com/track/409yVdUeXfYJY7MeY0SKRf"
+    },
+    {
+      "added_at": "2025-05-30 05:19:26",
+      "album": {
+        "name": "Pra Gente Acordar",
+        "url": "https://open.spotify.com/album/2IoDCH4Y4KTTTm399IUwzI"
+      },
+      "artists": [
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        }
+      ],
+      "duration_ms": 156906,
+      "name": "Voltar \u00e0 Bahia",
+      "url": "https://open.spotify.com/track/4pGs8iERniTESwC4pl6bXr"
     },
     {
       "added_at": "2025-05-30 05:19:26",
@@ -1199,26 +1199,6 @@
     {
       "added_at": "2025-05-30 05:19:26",
       "album": {
-        "name": "Disritmia / Ex-Amor",
-        "url": "https://open.spotify.com/album/2LB5wjsGBFqaguPFGy1t3j"
-      },
-      "artists": [
-        {
-          "name": "Martinho Da Vila",
-          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
-        },
-        {
-          "name": "Preta Gil",
-          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
-        }
-      ],
-      "duration_ms": 299724,
-      "name": "Disritmia / Ex-Amor",
-      "url": "https://open.spotify.com/track/51CCN24j1CLClG3jDOe6yb"
-    },
-    {
-      "added_at": "2025-05-30 05:19:26",
-      "album": {
         "name": "Voando (Nel Blu Dipinto Di Blu)",
         "url": "https://open.spotify.com/album/1QQkssDjcaEVl6pJhSOWIQ"
       },
@@ -1239,22 +1219,22 @@
     {
       "added_at": "2025-05-30 05:19:26",
       "album": {
-        "name": "Quase Um Segundo",
-        "url": "https://open.spotify.com/album/5W3Uj6xgFVyH1Z6oNk6Nc2"
+        "name": "Disritmia / Ex-Amor",
+        "url": "https://open.spotify.com/album/2LB5wjsGBFqaguPFGy1t3j"
       },
       "artists": [
         {
-          "name": "X\u00eania Fran\u00e7a",
-          "url": "https://open.spotify.com/artist/1v0rEJk9ZuCrCQDvCXbO3D"
+          "name": "Martinho Da Vila",
+          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
         },
         {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+          "name": "Preta Gil",
+          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
         }
       ],
-      "duration_ms": 252436,
-      "name": "Quase Um Segundo",
-      "url": "https://open.spotify.com/track/1L9980Y779SA7ZWer3JAUg"
+      "duration_ms": 299724,
+      "name": "Disritmia / Ex-Amor",
+      "url": "https://open.spotify.com/track/51CCN24j1CLClG3jDOe6yb"
     },
     {
       "added_at": "2025-05-30 05:19:26",
@@ -1271,6 +1251,26 @@
       "duration_ms": 211253,
       "name": "Vumbora Amar",
       "url": "https://open.spotify.com/track/56qoy2jHvVhU9BVQn218dQ"
+    },
+    {
+      "added_at": "2025-05-30 05:19:26",
+      "album": {
+        "name": "Quase Um Segundo",
+        "url": "https://open.spotify.com/album/5W3Uj6xgFVyH1Z6oNk6Nc2"
+      },
+      "artists": [
+        {
+          "name": "X\u00eania Fran\u00e7a",
+          "url": "https://open.spotify.com/artist/1v0rEJk9ZuCrCQDvCXbO3D"
+        },
+        {
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+        }
+      ],
+      "duration_ms": 252436,
+      "name": "Quase Um Segundo",
+      "url": "https://open.spotify.com/track/1L9980Y779SA7ZWer3JAUg"
     },
     {
       "added_at": "2025-05-30 05:19:26",

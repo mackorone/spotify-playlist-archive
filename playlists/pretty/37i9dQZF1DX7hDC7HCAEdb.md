@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hDC7HCAEdb.md) - [plain]
 
 > The best new alternative sounds from Scotland\. Cover: VUKOVI
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,965 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,967 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hDC7HCAEdb.md) - [plain]
 | 74 | [Song 01](https://open.spotify.com/track/5S0f0luti3eyDSg6AUG43R) | [No Windows](https://open.spotify.com/artist/2UgDlLTqaZiPL107iNQSOr) | [Song 01](https://open.spotify.com/album/6pUCCBvaNVVzpK5KSLZYFV) | 3:54 |
 | 75 | [Only This Could Happen To Me](https://open.spotify.com/track/4tkNRCnN7TGV1ukMfIXuaU) | [Spyres](https://open.spotify.com/artist/0gu9FiIFp32jTZSCRhdqFO) | [Karaoke Sellouts](https://open.spotify.com/album/6HinBdxcvcnRmm4QKvDP1d) | 3:24 |
 
-Snapshot ID: `Z1Li+gAAAAB5BIhPzdsvZ/YT3zw+pdp+`
+Snapshot ID: `Z1Li+gAAAAC0U2GScRR+gPumM5ZAOKxK`

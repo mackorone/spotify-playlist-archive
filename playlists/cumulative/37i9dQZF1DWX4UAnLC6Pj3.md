@@ -2,9 +2,9 @@
 
 ### [Banda 2025](https://open.spotify.com/playlist/37i9dQZF1DWX4UAnLC6Pj3)
 
-> ¡Los éxitos de banda que necesitas! Banda Los Sebastianes en portada.
+> ¡Los éxitos de banda que necesitas! Banda MS en portada.
 
-485 songs - 1 day 1 hr 43 min
+486 songs - 1 day 1 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,7 +182,7 @@
 | [Esta Vez Soy Yo](https://open.spotify.com/track/6D9q9JuF13LSpuXE2U4Yar) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Que Tusa](https://open.spotify.com/album/7hJXZfOy3YoEOIy0cL5qIm) | 4:13 | 2022-07-01 | 2023-08-05 |
 | [Estoy Loquito De La Cabeza](https://open.spotify.com/track/0Ig02WNXDRo0kzpZiK9O7m) | [King Clave](https://open.spotify.com/artist/71FVpPyLHxYTn3CfUOJq7f) | [Estoy Loquito De La Cabeza](https://open.spotify.com/album/7AJ0LNQpnrFXe6L8wqrPJf) | 2:32 | 2024-06-28 | 2024-07-13 |
 | [Estuve](https://open.spotify.com/track/3AzYL6aGCfkbtoGvP9Vwbs) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Estuve](https://open.spotify.com/album/3QFuxWR9lWZ4H7NlT2yQny) | 3:32 | 2023-12-01 | 2024-06-12 |
-| [Estás Cancelada](https://open.spotify.com/track/2AmgtgMbKtLszGa4Xgh6I0) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Edición Limitada](https://open.spotify.com/album/5d4TvsUqIKmZQV3Pr5nHaF) | 2:48 | 2025-03-07 |  |
+| [Estás Cancelada](https://open.spotify.com/track/2AmgtgMbKtLszGa4Xgh6I0) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Edición Limitada](https://open.spotify.com/album/5d4TvsUqIKmZQV3Pr5nHaF) | 2:48 | 2025-03-07 | 2025-06-04 |
 | [Eva María \- En Vivo](https://open.spotify.com/track/1CozjSifqoiO7EQCxASENG) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Los Prohibidos en Concierto \(En Vivo\)](https://open.spotify.com/album/3gzdYEAAQztvZRwOHcWFR6) | 2:56 | 2024-12-20 |  |
 | [Experiencia Religiosa](https://open.spotify.com/track/3djWOHPhNgMAVrt3ncEP0R) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [Experiencia Religiosa](https://open.spotify.com/album/5zYmXwAGPsDadjbncry3PY) | 3:28 | 2025-03-21 |  |
 | [Fiestas, Tragos, Noche Loca](https://open.spotify.com/track/2um0106nrjNOayotnhbKMZ) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Sigan Hablando](https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK) | 2:40 | 2023-01-06 | 2024-12-21 |
@@ -271,6 +271,7 @@
 | [Mi Ex Quiere Volver](https://open.spotify.com/track/0bGFH1rrhG1JhSsG8ri96s) | [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Para Dolido y Mas](https://open.spotify.com/album/4faVNzoqQtdJhRk27iPYZH) | 3:16 | 2024-09-20 | 2024-10-15 |
 | [Mi Funeral](https://open.spotify.com/track/0pt2Wx1hLbzObpTkFYyKGW) | [Victor Garcia](https://open.spotify.com/artist/4GZOqR1Cx6YeBN2Lmv0B1e), [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [Mi Funeral](https://open.spotify.com/album/4zuLwWLiQPvgHBbpASMgAx) | 3:19 | 2025-01-10 | 2025-06-02 |
 | [Mi Gusto Es](https://open.spotify.com/track/7rY1SSgMIoXIXHH0EVjBPI) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernández Con Banda](https://open.spotify.com/album/6n0eMRKCOG1L43GxxQ66d0) | 3:34 | 2024-11-29 |  |
+| [Mi Mayor Anhelo \- REMASTERIZADO](https://open.spotify.com/track/3VLjIedrArb67ZJ9KxEbyP) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Mi Mayor Anhelo \(REMASTERIZADO\)](https://open.spotify.com/album/1vH4vRKMXbLq9TEiSgw24W) | 3:32 | 2025-06-03 |  |
 | [Mi Primer Día Sin Ti](https://open.spotify.com/track/5aqdKsrmMcyN8KnHxiCbYb) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Mi Primer Día Sin Ti](https://open.spotify.com/album/0tQfgcjum8RhiYhMEAsil5) | 3:10 | 2025-02-28 |  |
 | [Mi Ranchito / La Feria De Las Flores / Los Pajaros / La Vaquilla /Mi Gusto Es / Arboles De La Barranca \- En Vivo](https://open.spotify.com/track/3UvpQZxXWN0HVCsOgMegQW) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr), [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT), [Joel Elizalde](https://open.spotify.com/artist/55EA5tfk6pyYA7L6Hgb5Nr), [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g), [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW), [El Cachorro](https://open.spotify.com/artist/0VPMSg2yfRBQaPP89fwbMM) | [Pistiembre Todo El Año \(En Vivo\)](https://open.spotify.com/album/4Q7M6FhTy0WhQcqHr8uIQt) | 19:47 | 2022-01-28 | 2022-12-24 |
 | [Mientras Me Voy](https://open.spotify.com/track/184ZZoYZ0dyt0lzevDOlKS) | [Carlos Sarabia](https://open.spotify.com/artist/1aLC6PgrX4A5tfrpQozpQw), [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [Mientras Me Voy](https://open.spotify.com/album/0h2fL4XUbnWEJuJ9sTvzdy) | 2:22 | 2022-07-01 | 2022-07-29 |

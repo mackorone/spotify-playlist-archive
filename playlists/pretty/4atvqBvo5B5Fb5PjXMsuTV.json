@@ -1,13 +1,125 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 03 Jun 22:03 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 04 Jun 22:03 UTC.",
   "num_followers": 94,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAASSNadP39d+jrOJ7q7Wa2FtpeiajwZ",
+  "snapshot_id": "AAASUcG2ojXUtYn4xzz78xSSY8m5qM41",
   "tracks": [
+    {
+      "added_at": "2025-06-03 18:03:47",
+      "album": {
+        "name": "Incomprehensible",
+        "url": "https://open.spotify.com/album/7IcMyoc3AX2VU0WG6vpMB7"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 233307,
+      "name": "Incomprehensible",
+      "url": "https://open.spotify.com/track/1sXdUadp0TcENaTscPUu8v"
+    },
+    {
+      "added_at": "2025-06-03 18:03:47",
+      "album": {
+        "name": "And a Big Load",
+        "url": "https://open.spotify.com/album/6johubE9tj9mVKstuoxUtx"
+      },
+      "artists": [
+        {
+          "name": "Hot Mulligan",
+          "url": "https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI"
+        }
+      ],
+      "duration_ms": 173791,
+      "name": "And a Big Load",
+      "url": "https://open.spotify.com/track/5mxDaiHCQ4btY3slwG5l5b"
+    },
+    {
+      "added_at": "2025-06-03 13:03:40",
+      "album": {
+        "name": "DEAD",
+        "url": "https://open.spotify.com/album/3gnscgQrOmEJdOYZRKa4LD"
+      },
+      "artists": [
+        {
+          "name": "Sudan Archives",
+          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "DEAD",
+      "url": "https://open.spotify.com/track/6r2VHQDYBLFnuBqzE0V2Or"
+    },
+    {
+      "added_at": "2025-06-03 22:03:46",
+      "album": {
+        "name": "Where To Look",
+        "url": "https://open.spotify.com/album/4fwjQarLnKj466NhmGtlgc"
+      },
+      "artists": [
+        {
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+        }
+      ],
+      "duration_ms": 290618,
+      "name": "Where To Look",
+      "url": "https://open.spotify.com/track/6fp01DAoqsZNyTwZidZ74I"
+    },
+    {
+      "added_at": "2025-06-03 13:03:40",
+      "album": {
+        "name": "Cutthroat",
+        "url": "https://open.spotify.com/album/6C4fHqAWoZdy7A4o07euoP"
+      },
+      "artists": [
+        {
+          "name": "shame",
+          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
+        }
+      ],
+      "duration_ms": 194491,
+      "name": "Cutthroat",
+      "url": "https://open.spotify.com/track/5cQmKBhv5Ui17M4hopt2TX"
+    },
+    {
+      "added_at": "2025-06-03 13:03:40",
+      "album": {
+        "name": "CONTROL",
+        "url": "https://open.spotify.com/album/3RY4HDEF0YABQgGyXeaOcI"
+      },
+      "artists": [
+        {
+          "name": "Frost Children",
+          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "CONTROL",
+      "url": "https://open.spotify.com/track/4PFlZpluDUhUpo2QH1a7ph"
+    },
+    {
+      "added_at": "2025-06-03 18:03:47",
+      "album": {
+        "name": "The Rope",
+        "url": "https://open.spotify.com/album/27ABxgs5YasDR0BxiPMiId"
+      },
+      "artists": [
+        {
+          "name": "Wunderhorse",
+          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
+        }
+      ],
+      "duration_ms": 190574,
+      "name": "The Rope",
+      "url": "https://open.spotify.com/track/6HYHIPcS5U0PLhD6u43MRX"
+    },
     {
       "added_at": "2025-06-01 08:03:42",
       "album": {
@@ -155,6 +267,22 @@
       "duration_ms": 149711,
       "name": "Diamond Stitching",
       "url": "https://open.spotify.com/track/1cVDuG58Cj3RGe8ySKwY6i"
+    },
+    {
+      "added_at": "2025-06-03 08:03:49",
+      "album": {
+        "name": "just have PATIENCE",
+        "url": "https://open.spotify.com/album/6JRMa3tSweP6kdYTeKN9mK"
+      },
+      "artists": [
+        {
+          "name": "$NOT",
+          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
+        }
+      ],
+      "duration_ms": 143551,
+      "name": "just have PATIENCE",
+      "url": "https://open.spotify.com/track/1idt9jqgfTMir2gRfVi6mg"
     },
     {
       "added_at": "2025-05-30 08:03:50",
@@ -361,6 +489,22 @@
       "url": "https://open.spotify.com/track/75ZvCtDorLfeaaTKyX7s1z"
     },
     {
+      "added_at": "2025-06-03 18:03:47",
+      "album": {
+        "name": "Marianne",
+        "url": "https://open.spotify.com/album/0ucvu4XHxscTNmujLfQTQs"
+      },
+      "artists": [
+        {
+          "name": "Eli",
+          "url": "https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1"
+        }
+      ],
+      "duration_ms": 190032,
+      "name": "Marianne",
+      "url": "https://open.spotify.com/track/0SE3l5jJOpGxqXqvT3fkhS"
+    },
+    {
       "added_at": "2025-06-01 03:03:26",
       "album": {
         "name": "nova trama",
@@ -439,6 +583,22 @@
       "duration_ms": 383400,
       "name": "Backseat",
       "url": "https://open.spotify.com/track/7yT4NJt5rgmVoMJMGPULcj"
+    },
+    {
+      "added_at": "2025-06-03 22:03:46",
+      "album": {
+        "name": "bad move",
+        "url": "https://open.spotify.com/album/69bOvwTatPDKglfGB6dKcU"
+      },
+      "artists": [
+        {
+          "name": "funeral",
+          "url": "https://open.spotify.com/artist/3f0Mhz0oXmnsnehuEGTrfd"
+        }
+      ],
+      "duration_ms": 166473,
+      "name": "bad move",
+      "url": "https://open.spotify.com/track/1fyJYB9kMyiNZ1Lto9tbk6"
     },
     {
       "added_at": "2025-05-31 08:03:16",
@@ -667,170 +827,6 @@
       "duration_ms": 228999,
       "name": "drains",
       "url": "https://open.spotify.com/track/73kYiEtR4NgVdIyQF3pYsK"
-    },
-    {
-      "added_at": "2025-05-31 03:03:13",
-      "album": {
-        "name": "married in a year",
-        "url": "https://open.spotify.com/album/4Z89smavs4VPZe5cjMD8JA"
-      },
-      "artists": [
-        {
-          "name": "Brendan Abernathy",
-          "url": "https://open.spotify.com/artist/39ETOzAilLp4bcJAUU8mmW"
-        }
-      ],
-      "duration_ms": 212446,
-      "name": "married in a year",
-      "url": "https://open.spotify.com/track/31AKnxr2GiReMwxFMYhHgV"
-    },
-    {
-      "added_at": "2025-05-25 08:03:28",
-      "album": {
-        "name": "Poet | Artist",
-        "url": "https://open.spotify.com/album/2ZrLQa73Q3wW2SXZPkSVED"
-      },
-      "artists": [
-        {
-          "name": "SHINee",
-          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
-        }
-      ],
-      "duration_ms": 204026,
-      "name": "Poet | Artist",
-      "url": "https://open.spotify.com/track/2cCoa7dwECGNlmLVV1Fgjf"
-    },
-    {
-      "added_at": "2025-05-29 22:04:19",
-      "album": {
-        "name": "Static",
-        "url": "https://open.spotify.com/album/0dIUyDOee6mcb4HlZormFi"
-      },
-      "artists": [
-        {
-          "name": "FLAVOR FOLEY",
-          "url": "https://open.spotify.com/artist/2f5AcZbndYPEd7W5EfsZjY"
-        }
-      ],
-      "duration_ms": 244300,
-      "name": "Static",
-      "url": "https://open.spotify.com/track/0LM5WETPwSiXS5iqOO0Hua"
-    },
-    {
-      "added_at": "2025-05-24 03:02:53",
-      "album": {
-        "name": "Finest",
-        "url": "https://open.spotify.com/album/6EIzf0WuxDzRbYmEWV0wXj"
-      },
-      "artists": [
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        }
-      ],
-      "duration_ms": 201481,
-      "name": "Finest",
-      "url": "https://open.spotify.com/track/2YPAdqWqaT5fb6iE8BEZHT"
-    },
-    {
-      "added_at": "2025-05-23 13:03:54",
-      "album": {
-        "name": "GoROUND",
-        "url": "https://open.spotify.com/album/4sCHp2XDbooZoty8Hq4foY"
-      },
-      "artists": [
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
-        }
-      ],
-      "duration_ms": 121519,
-      "name": "GoROUND",
-      "url": "https://open.spotify.com/track/4YtuYDR319Xp5GsguDOMcw"
-    },
-    {
-      "added_at": "2025-05-23 13:03:54",
-      "album": {
-        "name": "clich\u00e9",
-        "url": "https://open.spotify.com/album/2zCyRKoQozz3iTdTi3o8mi"
-      },
-      "artists": [
-        {
-          "name": "mgk",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        }
-      ],
-      "duration_ms": 176242,
-      "name": "clich\u00e9",
-      "url": "https://open.spotify.com/track/3aD33slymVwdEcdbKUBnDu"
-    },
-    {
-      "added_at": "2025-05-23 18:03:12",
-      "album": {
-        "name": "FINGER",
-        "url": "https://open.spotify.com/album/1ThMkYLRdD5obUheU3QgJO"
-      },
-      "artists": [
-        {
-          "name": "Mother Mother",
-          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
-        }
-      ],
-      "duration_ms": 179426,
-      "name": "FINGER",
-      "url": "https://open.spotify.com/track/0NPkaQcG0lTv1KBtlgpMFy"
-    },
-    {
-      "added_at": "2025-05-28 18:04:05",
-      "album": {
-        "name": "HOLLYWOOD",
-        "url": "https://open.spotify.com/album/0pg3WtuKm4GlckMugbml46"
-      },
-      "artists": [
-        {
-          "name": "YG",
-          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
-        },
-        {
-          "name": "Shoreline Mafia",
-          "url": "https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ"
-        }
-      ],
-      "duration_ms": 180380,
-      "name": "HOLLYWOOD",
-      "url": "https://open.spotify.com/track/0uAmR0yTDNAaXA5jPGOrir"
-    },
-    {
-      "added_at": "2025-05-23 13:03:54",
-      "album": {
-        "name": "Violent Nature",
-        "url": "https://open.spotify.com/album/0NpIXEaW7ekAxVqOJ8GmAe"
-      },
-      "artists": [
-        {
-          "name": "I Prevail",
-          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
-        }
-      ],
-      "duration_ms": 130806,
-      "name": "Violent Nature",
-      "url": "https://open.spotify.com/track/4wG1qk65XGBixayITnktbO"
-    },
-    {
-      "added_at": "2025-05-23 22:03:08",
-      "album": {
-        "name": "PARANOIA.",
-        "url": "https://open.spotify.com/album/4S65UMxUGogJERqXWAdEXU"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
-        }
-      ],
-      "duration_ms": 186248,
-      "name": "PARANOIA.",
-      "url": "https://open.spotify.com/track/4fbNiLNjjCTHZAIkcG5aIh"
     }
   ],
   "unique_name": "New Singles Now",

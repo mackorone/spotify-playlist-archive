@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 
 > Where faith meets R&B\. Cover: Reyne L.
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,258 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,297 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 | 79 | [Sunshine](https://open.spotify.com/track/1EgIKxaz00bsPiPjz27tS9) | [Nia Allen](https://open.spotify.com/artist/5NtYK3nuKd8l8nlUcgAgOg), [Jor'dan Armstrong](https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8) | [Sunshine](https://open.spotify.com/album/2fS54bNlWaaWzJgRY0RbAk) | 3:21 |
 | 80 | [Calling](https://open.spotify.com/track/1sVJEHRc5dz1ZbLxy7kVn5) | [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y), [Nuelzo](https://open.spotify.com/artist/6CPuXxiR9CqQ0d2irmAlnR) | [Calling](https://open.spotify.com/album/7bZFT8tE9Tmno9fIKXPDtk) | 2:25 |
 
-Snapshot ID: `AAAAANAUIxQrFgvSxv5RM+Gi9mwJtcv7`
+Snapshot ID: `aCeHcgAAAAAfoJEW+ExPnimxnuy7Sif2`

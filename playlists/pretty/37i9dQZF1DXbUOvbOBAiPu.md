@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Damso, Guus Meeuwis/MAKSIM, Miley Cyrus and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,833 likes - 91 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,818 likes - 91 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 69 | [Danser sous la pluie](https://open.spotify.com/track/5qIEWRKT7HQQbjyOQdE2IM) | [Fabb'](https://open.spotify.com/artist/4zcxYrZnKtVVYk9eUfHGxW) | [Danser sous la pluie](https://open.spotify.com/album/16WVBml62T2GKEXd2oa2XO) | 2:15 |
 | 70 | [Soon](https://open.spotify.com/track/0MrNnkV7aeurjxCLM72OjJ) | [B O I](https://open.spotify.com/artist/0WiWO8olpTnc1FXkxZHLln) | [E.P.](https://open.spotify.com/album/036nnFAtC5vDW1w8iiaozj) | 4:14 |
 | 71 | [Turbulentie](https://open.spotify.com/track/01IWBNOH5JcGbLbafHHJqr) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Turbulentie](https://open.spotify.com/album/7fcv7MQ7LmjTGgrcuhJ4Zh) | 3:01 |
-| 72 | [Hoe hou ik dit vast](https://open.spotify.com/track/4ELJFskubTyiQQJeWfFUvq) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e), [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Hoe hou ik dit vast](https://open.spotify.com/album/3qXuDOAngn1VBoXcPYf3jh) | 3:40 |
+| 72 | [Hoe hou ik dit vast](https://open.spotify.com/track/4ELJFskubTyiQQJeWfFUvq) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e), [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Hoe hou ik dit vast](https://open.spotify.com/album/3qXuDOAngn1VBoXcPYf3jh) | 3:38 |
 | 73 | [Zing](https://open.spotify.com/track/3qfq6MjJDJS8NIUXScuHm0) | [Augustijn](https://open.spotify.com/artist/5pgj94XEmNfGDvO294g34K) | [Zing](https://open.spotify.com/album/2seMYZyDDhofSiQrQuJPU6) | 2:11 |
 | 74 | [Land van de Ster](https://open.spotify.com/track/4UgkuHuaaP3o3PzzZduTp4) | [Camilo Donoso](https://open.spotify.com/artist/3qj7uooEuvlbYrKVEr0rm7) | [Land van de Ster](https://open.spotify.com/album/4sW9oQ1gWnNdqaucaFi5Td) | 3:25 |
 | 75 | [London Summers](https://open.spotify.com/track/1vCnTZE7PVUakwkqCnIhrn) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [London Summers](https://open.spotify.com/album/6L0fjCZSfZxhavSOOh4ohF) | 3:37 |

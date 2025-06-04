@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Isadora Pompeo
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,911 likes - 50 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,006 likes - 50 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 49 | [No Caminho do Deserto](https://open.spotify.com/track/1FKou8Hhi6IzoSF9jYNIh7) | [Bekah Costa](https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb) | [No Caminho do Deserto](https://open.spotify.com/album/1GTHKgf9IyR5UUKlHQfykq) | 4:32 |
 | 50 | [Indefeso \- Ao Vivo](https://open.spotify.com/track/7BCOLWluIGAQBwBWOt4lZ8) | [Charles Martins](https://open.spotify.com/artist/0PoK8mi9oxmm3OGq9qqrPu) | [Indefeso \(Ao Vivo\)](https://open.spotify.com/album/2NcDBYfDwb5yQoGe8BLghh) | 7:18 |
 
-Snapshot ID: `aDkfgQAAAACzevz/kSmCslE7dKd8wWSt`
+Snapshot ID: `aDkfgQAAAADQaMXSoCFEkSdqTs5a+aeK`

@@ -1,12 +1,12 @@
 {
   "description": "This is Jes\u00fas Adri\u00e1n Romero. The essential tracks, all in one playlist.",
-  "num_followers": 205571,
+  "num_followers": 205597,
   "original_name": "This Is Jes\u00fas Adri\u00e1n Romero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDuYAAAAAAAX99eDaNo8VFgsvjZ+3sPT",
+  "snapshot_id": "aDzpgAAAAABWZCYY+tnOu60Uhgutflyo",
   "tracks": [
     {
       "added_at": null,
@@ -347,22 +347,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Epicentro Live (Desde Monterrey, M\u00e9xico)",
-        "url": "https://open.spotify.com/album/4Y3TnnR2RL0CvLayGIqqbw"
+        "name": "Origen Y Esencia",
+        "url": "https://open.spotify.com/album/1M2YOSUuNw8Lf4fSXRJ8FS"
       },
       "artists": [
-        {
-          "name": "V\u00e1stago Epicentro",
-          "url": "https://open.spotify.com/artist/2QsFnVJDNGsrjUWB4q6GVT"
-        },
         {
           "name": "Jes\u00fas Adri\u00e1n Romero",
           "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
         }
       ],
-      "duration_ms": 255746,
-      "name": "Indomable - Live",
-      "url": "https://open.spotify.com/track/5FUsHxUB7MVpM6sRSjCZbD"
+      "duration_ms": 227426,
+      "name": "Olvid\u00e9 Cuidar Mi Huerto",
+      "url": "https://open.spotify.com/track/6gtlcSHmAiNl53YS1Nqa4L"
     },
     {
       "added_at": null,
@@ -383,18 +379,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Origen Y Esencia",
-        "url": "https://open.spotify.com/album/1M2YOSUuNw8Lf4fSXRJ8FS"
+        "name": "Epicentro Live (Desde Monterrey, M\u00e9xico)",
+        "url": "https://open.spotify.com/album/4Y3TnnR2RL0CvLayGIqqbw"
       },
       "artists": [
+        {
+          "name": "V\u00e1stago Epicentro",
+          "url": "https://open.spotify.com/artist/2QsFnVJDNGsrjUWB4q6GVT"
+        },
         {
           "name": "Jes\u00fas Adri\u00e1n Romero",
           "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
         }
       ],
-      "duration_ms": 227426,
-      "name": "Olvid\u00e9 Cuidar Mi Huerto",
-      "url": "https://open.spotify.com/track/6gtlcSHmAiNl53YS1Nqa4L"
+      "duration_ms": 255746,
+      "name": "Indomable - Live",
+      "url": "https://open.spotify.com/track/5FUsHxUB7MVpM6sRSjCZbD"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un Brote De Adoraci\u00f3n 2",
-        "url": "https://open.spotify.com/album/1nWtxLTRWll8sj2QPF6QQU"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
-        }
-      ],
-      "duration_ms": 314709,
-      "name": "Mi Vida Sin Ti",
-      "url": "https://open.spotify.com/track/5NhRLlH43KnFvNzkQj8Az1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sencillos",
         "url": "https://open.spotify.com/album/5GafkqDsApJB9fSB0IkrX5"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 279466,
       "name": "Princesas M\u00e1gicas - En Vivo",
       "url": "https://open.spotify.com/track/4N3sG9h9pnbmIy8MaxcTxG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Un Brote De Adoraci\u00f3n 2",
+        "url": "https://open.spotify.com/album/1nWtxLTRWll8sj2QPF6QQU"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        }
+      ],
+      "duration_ms": 314709,
+      "name": "Mi Vida Sin Ti",
+      "url": "https://open.spotify.com/track/5NhRLlH43KnFvNzkQj8Az1"
     },
     {
       "added_at": null,

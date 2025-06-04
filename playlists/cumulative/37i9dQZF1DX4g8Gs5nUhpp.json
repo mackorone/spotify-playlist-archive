@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "V-Pop n\u1edf hoa tr\u00ean nh\u1eefng kh\u00fac ca n\u00e0y. \u1ea2nh b\u00eca: MIN",
+  "description": "V-Pop n\u1edf hoa tr\u00ean nh\u1eefng kh\u00fac ca n\u00e0y. \u1ea2nh b\u00eca: Ho\u00e0ng T\u00f4n",
   "name": "V-Pop Kh\u00f4ng Th\u1ec3 Thi\u1ebfu",
   "tracks": [
     {
@@ -2196,7 +2196,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 251786,
       "name": "Em C\u00f2n Nh\u1edb Anh Kh\u00f4ng - Remastered",
       "url": "https://open.spotify.com/track/7q1qYSyRkGT4ZaCc2ZQihP"
@@ -2901,6 +2901,28 @@
     },
     {
       "album": {
+        "name": "Hi\u1ec7n T\u1ea1i",
+        "url": "https://open.spotify.com/album/5o0u5CEtLf9vLtnXTw8ABr"
+      },
+      "artists": [
+        {
+          "name": "Tuimi",
+          "url": "https://open.spotify.com/artist/2dP2cG3zK05Y1jtb8Kwdpm"
+        },
+        {
+          "name": "Rhymastic",
+          "url": "https://open.spotify.com/artist/0gGd4WhPXBSgDX6fdOHcOw"
+        }
+      ],
+      "date_added": "2025-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268327,
+      "name": "Hi\u1ec7n T\u1ea1i",
+      "url": "https://open.spotify.com/track/5gb7vv04eAuLtTlETODPo4"
+    },
+    {
+      "album": {
         "name": "Hoa C\u1ecf Lau",
         "url": "https://open.spotify.com/album/3jjbONfjvGpMwi7JPGXZIM"
       },
@@ -3456,6 +3478,24 @@
       "duration_ms": 164266,
       "name": "K\u00eca B\u00f3ng D\u00e1ng Ai",
       "url": "https://open.spotify.com/track/5gBLuVQ6Ba7Ab6nlTROxFY"
+    },
+    {
+      "album": {
+        "name": "K\u1ebb T\u01b0\u01a1ng T\u01b0",
+        "url": "https://open.spotify.com/album/6YVGgpKzfo3xDrfXkEUT45"
+      },
+      "artists": [
+        {
+          "name": "Khiem",
+          "url": "https://open.spotify.com/artist/2xyEAgqFAAy5yqRZ7mHd9c"
+        }
+      ],
+      "date_added": "2025-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225145,
+      "name": "K\u1ebb T\u01b0\u01a1ng T\u01b0",
+      "url": "https://open.spotify.com/track/0a9vqN7kIiSJcb2sNky6pS"
     },
     {
       "album": {
@@ -5038,7 +5078,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 185546,
       "name": "N\u1ebeU KHI \u1ea4Y",
       "url": "https://open.spotify.com/track/40jjlmDAskFndmzjWVoCQk"
@@ -5952,7 +5992,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 149045,
       "name": "thi\u00ean th\u1ea7n gi\u00e1ng Tr\u1ea7n",
       "url": "https://open.spotify.com/track/6qt79zQbwrcAetyyxE4nd0"
@@ -6484,6 +6524,28 @@
       "duration_ms": 194182,
       "name": "Tr\u01b0\u1edbc Khi Em T\u1ed3n T\u1ea1i",
       "url": "https://open.spotify.com/track/1yo967mk7CpjvruNxBecOY"
+    },
+    {
+      "album": {
+        "name": "t\u00e2m tr\u00ed lang thang",
+        "url": "https://open.spotify.com/album/46Lf1gPNwYWk9eLS0vtzrc"
+      },
+      "artists": [
+        {
+          "name": "\u00c1nh S\u00e1ng AZA",
+          "url": "https://open.spotify.com/artist/0agWx6vy0Ss4FGafO8bEYc"
+        },
+        {
+          "name": "Negav",
+          "url": "https://open.spotify.com/artist/4fg8aMZ23d2bxKz7r2vt9v"
+        }
+      ],
+      "date_added": "2025-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237931,
+      "name": "t\u00e2m tr\u00ed lang thang",
+      "url": "https://open.spotify.com/track/3W77mLoXjQEkNjxvYRifjG"
     },
     {
       "album": {
@@ -7534,7 +7596,7 @@
       ],
       "date_added": "2025-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 250722,
       "name": "\u00d4m Em Th\u1eadt L\u00e2u",
       "url": "https://open.spotify.com/track/0oLdpAqSgmSyqzXJo4XHig"

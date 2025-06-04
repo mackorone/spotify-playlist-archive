@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0rsqS3HgjHgpjcvfZX8OmF.md) - [plain]
 
 > The best and latest rock and alternative\. Cover: Rise Against
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 9,872 likes - 81 songs - 4 hr 57 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 9,871 likes - 81 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

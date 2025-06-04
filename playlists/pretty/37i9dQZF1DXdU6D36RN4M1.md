@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdU6D36RN4M1.md) - [plain]
 
 > y no llore, nomás acuérdese 🍺✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,230 likes - 85 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,432 likes - 85 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdU6D36RN4M1.md) - [plain]
 | 84 | [Con Un Beso](https://open.spotify.com/track/7ikpCS4DKHBtPytW3hqTKz) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Grandes Boleros Arrolladores](https://open.spotify.com/album/5OXBG13qAQGkPLr6xzx2Nt) | 2:55 |
 | 85 | [Sentimiento de Dolor](https://open.spotify.com/track/2tLcEO81CKYa87Jf9NR6fx) | [Jessie Morales El Original De La Sierra](https://open.spotify.com/artist/268KnHQWmmgiX2O8bxoknW) | [Ranchero y Mucho Más](https://open.spotify.com/album/22V4Ns9jAEuymbDB6hGrFD) | 2:11 |
 
-Snapshot ID: `ZzeL0AAAAAA0RbaEdHeAw4mLLNJCsLP2`
+Snapshot ID: `AAAAAHtt0ZJyp7+7Yjm9Imcih+xEHo4i`

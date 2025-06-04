@@ -4550,7 +4550,7 @@
           "url": "https://open.spotify.com/artist/2ft7vEW2Liid1yZbmR5bF2"
         },
         {
-          "name": "Lumen",
+          "name": "LUMEN",
           "url": "https://open.spotify.com/artist/1JM1n7fWKg7BYuZjhV9FWR"
         },
         {
@@ -6336,7 +6336,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 162400,
       "name": "I'll Be Good",
       "url": "https://open.spotify.com/track/7z7KWEjCMJh0V6oenkmeqq"
@@ -8278,6 +8278,28 @@
       "duration_ms": 183040,
       "name": "Mantra Reactor",
       "url": "https://open.spotify.com/track/30KENMJmhUaG8Op6upzNoc"
+    },
+    {
+      "album": {
+        "name": "Mash It Up!",
+        "url": "https://open.spotify.com/album/45EK9FW71cKG4BxJhds5Ih"
+      },
+      "artists": [
+        {
+          "name": "Hydraulix",
+          "url": "https://open.spotify.com/artist/0v6pkn5nWfqK3vgeg0gl0W"
+        },
+        {
+          "name": "Robustt",
+          "url": "https://open.spotify.com/artist/2MQru8GnhECYTThfJvRtyR"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197142,
+      "name": "Mash It Up!",
+      "url": "https://open.spotify.com/track/3FxAgkGhrw9QbvRq5FiCnI"
     },
     {
       "album": {

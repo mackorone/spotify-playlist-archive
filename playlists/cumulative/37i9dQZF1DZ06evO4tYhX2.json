@@ -1055,6 +1055,36 @@
     },
     {
       "album": {
+        "name": "Dios En Casa",
+        "url": "https://open.spotify.com/album/5Zo2mPc7RXI8OgLA63AEDn"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Maverick City Musica",
+          "url": "https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a"
+        },
+        {
+          "name": "Josh Morales",
+          "url": "https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS"
+        },
+        {
+          "name": "Luis Morales Jr.",
+          "url": "https://open.spotify.com/artist/2u08hrNlco1QqvcgRCdnKh"
+        }
+      ],
+      "date_added": "2025-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 619080,
+      "name": "J\u00fabilo",
+      "url": "https://open.spotify.com/track/5fMr359jsPc4EeQTNItnhQ"
+    },
+    {
+      "album": {
         "name": "Mil Generaciones",
         "url": "https://open.spotify.com/album/7He2T1RondwBwTaEofMIsA"
       },
@@ -1908,7 +1938,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 231291,
       "name": "Siempre Fuiste T\u00fa (En Vivo)",
       "url": "https://open.spotify.com/track/0IfMJUJydrnsmpffAopUNe"

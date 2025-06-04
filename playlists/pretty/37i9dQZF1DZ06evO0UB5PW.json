@@ -1,12 +1,12 @@
 {
   "description": "This is Mastodon. The essential tracks, all in one playlist.",
-  "num_followers": 59038,
+  "num_followers": 59051,
   "original_name": "This Is Mastodon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDuYAAAAAACyszp6RPW3BgijiGR/ifa2",
+  "snapshot_id": "aDzpgAAAAADM7XM4juJsS09cRePXfPrq",
   "tracks": [
     {
       "added_at": null,
@@ -651,6 +651,22 @@
       "duration_ms": 654293,
       "name": "The Czar: Usurper / Escape / Martyr / Spiral",
       "url": "https://open.spotify.com/track/2LMjQnKH7sQzOD0l8q6eWz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Hunter (Deluxe)",
+        "url": "https://open.spotify.com/album/7GHaFBpmPwSAWaw4rHhVyF"
+      },
+      "artists": [
+        {
+          "name": "Mastodon",
+          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+        }
+      ],
+      "duration_ms": 207320,
+      "name": "Black Tongue",
+      "url": "https://open.spotify.com/track/0mc0SaUktWUvWuvLcsbGxo"
     },
     {
       "added_at": null,

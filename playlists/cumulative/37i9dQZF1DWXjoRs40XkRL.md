@@ -4,7 +4,7 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-371 songs - 1 day 10 hr 50 min
+372 songs - 1 day 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Aaj Rang Hai \- Sufi Expressions](https://open.spotify.com/track/2MZiWzBGuyaiNDdry7Sxg8) | [Kshitij Tarey](https://open.spotify.com/artist/1W8O3VMkoLKHlnPtojVU8l) | [Aaj Rang Hai \(Sufi Expressions\)](https://open.spotify.com/album/31TAjuLbbBqGGXqkzdrCZY) | 3:58 | 2024-09-20 | 2025-01-08 |
 | [Aakhiyaan Laagi](https://open.spotify.com/track/3SeyoWxJ18DVuoHRkj2Zgc) | [DEW](https://open.spotify.com/artist/3kTz6jnByrB7YKt0sEQC8s), [Sanchari Nag](https://open.spotify.com/artist/3Vdi9hu61GlWNIvJH51AmE) | [Aakhiyaan Laagi](https://open.spotify.com/album/4blxL5lxD7ihKqoFqT9k0A) | 3:05 | 2024-03-15 | 2025-05-23 |
 | [Aan Milo Sajna](https://open.spotify.com/track/3IIqpaAs6d5ZFSW8NExVN8) | [Rishabh Srivastava](https://open.spotify.com/artist/4heuryKQnH5KRfVWO6Rmjl) | [Aan Milo Sajna](https://open.spotify.com/album/2cj2Ig40zfQualDkWWI4Vj) | 3:37 | 2024-08-18 | 2024-09-21 |
+| [Aao Sajan](https://open.spotify.com/track/00SWo3RjHsRBUvvR1Sg5Us) | [Manasi Shah](https://open.spotify.com/artist/6NtTwYPmadVqUOjyIjcdLs) | [Aao Sajan](https://open.spotify.com/album/5V9VzKeL3tkW3lLy1X2Z0z) | 3:33 | 2025-06-03 |  |
 | [Aaye Hain Samjhane Log](https://open.spotify.com/track/1Wn4zfB2f3E2fM9fEFvzcH) | [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT), [Pratibha Singh Baghel](https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P) | [Aaye Hain Samjhane Log \- Single](https://open.spotify.com/album/7xrGnhOnRu2wdzcndieCaO) | 4:47 | 2022-05-17 | 2025-06-01 |
 | [Aaye Na Balam](https://open.spotify.com/track/7lVPuhH2BjjDEVzBZBPJaL) | [Nesz](https://open.spotify.com/artist/2G3O79IP2hfuZjJ7RyjZWj), [Vaishnavi](https://open.spotify.com/artist/5cOsPxjOTOovRWboflO8CZ) | [Aaye Na Balam](https://open.spotify.com/album/00oSm4ubHzQkPJMRuobGky) | 3:00 | 2024-03-06 | 2024-09-10 |
 | [Ab Mori Chhaad De](https://open.spotify.com/track/07Ssi0muLx96jEPFDqTNPf) | [Muheet Bharti](https://open.spotify.com/artist/0HXiaOEvokxAkvyMIq88jJ), [Pratibha Singh Baghel](https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P), [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq) | [Ab Mori Chhaad De](https://open.spotify.com/album/5pf1eQ4E1YMSJvVLBecgVx) | 4:17 | 2022-12-13 | 2023-06-03 |
@@ -63,7 +64,7 @@
 | [Bhagwaan](https://open.spotify.com/track/2dJtvlQNYOyblWQlWjZynb) | [Masala Coffee](https://open.spotify.com/artist/3w277raenZNQPvrbv1DoMs) | [Bhagwaan](https://open.spotify.com/album/7MrqeUhJJfwDk45JztAF9j) | 4:34 | 2024-07-30 |  |
 | [Bheeji Jaaun Main](https://open.spotify.com/track/3K1tRdMtJl2Jvzk5H1IRXy) | [Rachana Kaura](https://open.spotify.com/artist/7Eqim29q20JDpjncFAIES7), [Abhimanyu\-Pragya](https://open.spotify.com/artist/1seJPM2gF3Bqhnr3T8yqPr) | [Bheeji Jaaun Main](https://open.spotify.com/album/2XEC4SbUA9qtP4dGrRe9L7) | 3:05 | 2025-02-06 | 2025-02-26 |
 | [Bhim](https://open.spotify.com/track/2CpX8zSTnl2yJIFyiXMgHx) | [Joel Veena](https://open.spotify.com/artist/1jHZD5DHGnhcb2XCmwx1pj) | [Bhim](https://open.spotify.com/album/1Mw4V0SJP9YBRyVJK8YsXT) | 4:38 | 2022-05-17 | 2023-06-22 |
-| [Bhor Bhayi](https://open.spotify.com/track/64txAeGrepJepCeaFvNLH2) | [INSYNC](https://open.spotify.com/artist/19vhG6MY7yUn1uyBFHfK40) | [Bhor Bhayi](https://open.spotify.com/album/2Ufh4166inMXn43jqGmQ7r) | 5:14 | 2023-09-11 |  |
+| [Bhor Bhayi](https://open.spotify.com/track/64txAeGrepJepCeaFvNLH2) | [INSYNC](https://open.spotify.com/artist/19vhG6MY7yUn1uyBFHfK40) | [Bhor Bhayi](https://open.spotify.com/album/2Ufh4166inMXn43jqGmQ7r) | 5:14 | 2023-09-11 | 2025-06-04 |
 | [Blessing the Bride \(Baisa\)](https://open.spotify.com/track/79osQzagWc3CI97LvAXXWH) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Romy](https://open.spotify.com/artist/5bk4s1Xe4xxlrTcRC9Dwek) | [Shades of Cashmere](https://open.spotify.com/album/14rJsFPIXADiSOxf9uIrZo) | 3:49 | 2022-05-17 | 2023-07-21 |
 | [Blue](https://open.spotify.com/track/4x2hfelYZwgaQqPZK6vRBV) | [Shadow and Light](https://open.spotify.com/artist/6BG3rlgfBM8V8JStjm7IFa) | [Shadow & Light](https://open.spotify.com/album/42xkHkLWrhCDUoHK90hyy2) | 3:53 | 2022-05-17 | 2023-03-10 |
 | [Bolan Lagi Koyaliya](https://open.spotify.com/track/1Zi4I12vKHIPlvk87ZeD3Q) | [Sunanda Sharma](https://open.spotify.com/artist/58xqyuk3chk5HkHjIYQOd4) | [Bolan Lagi Koyaliya](https://open.spotify.com/album/5GL9gT2Im6VSG7elwNijXd) | 12:29 | 2025-01-06 | 2025-01-18 |

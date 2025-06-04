@@ -1,12 +1,12 @@
 {
   "description": "This is Adrianne Lenker. The essential tracks, all in one playlist.",
-  "num_followers": 15581,
+  "num_followers": 15608,
   "original_name": "This Is Adrianne Lenker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDuYAAAAAAAiZBBSk7sJfPaK8eqOHvUb",
+  "snapshot_id": "aDzpgAAAAAC236q64u+xtDLNvRshL21B",
   "tracks": [
     {
       "added_at": null,
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 209960,
-      "name": "Lighthouse",
-      "url": "https://open.spotify.com/track/0UyXrymHlgh92dmiqgHyz5"
+      "duration_ms": 163666,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/45kpjdeuV0YugvErFYRXYl"
     },
     {
       "added_at": null,
@@ -636,25 +636,9 @@
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 163666,
-      "name": "Butterfly",
-      "url": "https://open.spotify.com/track/45kpjdeuV0YugvErFYRXYl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live at Revolution Hall",
-        "url": "https://open.spotify.com/album/75we1a6BxIFyoUrmW6fhdu"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 92827,
-      "name": "indiana & sneezing",
-      "url": "https://open.spotify.com/track/0c2QahAGwUgKgBdhS7WGcm"
+      "duration_ms": 209960,
+      "name": "Lighthouse",
+      "url": "https://open.spotify.com/track/0UyXrymHlgh92dmiqgHyz5"
     },
     {
       "added_at": null,
@@ -671,6 +655,22 @@
       "duration_ms": 1272830,
       "name": "music for indigo",
       "url": "https://open.spotify.com/track/1OzuAHfmr8Vg3eVvEbAR0p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live at Revolution Hall",
+        "url": "https://open.spotify.com/album/75we1a6BxIFyoUrmW6fhdu"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 92827,
+      "name": "indiana & sneezing",
+      "url": "https://open.spotify.com/track/0c2QahAGwUgKgBdhS7WGcm"
     },
     {
       "added_at": null,
@@ -711,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live at Revolution Hall",
-        "url": "https://open.spotify.com/album/75we1a6BxIFyoUrmW6fhdu"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 268133,
-      "name": "little things - live",
-      "url": "https://open.spotify.com/track/3D1HgplVqbguLDIPXBuDjj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Once A Bunch",
         "url": "https://open.spotify.com/album/1TckrkAuaA4tkLqgOVzvdC"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 299354,
       "name": "Once A Bunch",
       "url": "https://open.spotify.com/track/7wWjWDPpoewHcwzr9ZKfvz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live at Revolution Hall",
+        "url": "https://open.spotify.com/album/75we1a6BxIFyoUrmW6fhdu"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 268133,
+      "name": "little things - live",
+      "url": "https://open.spotify.com/track/3D1HgplVqbguLDIPXBuDjj"
     },
     {
       "added_at": null,

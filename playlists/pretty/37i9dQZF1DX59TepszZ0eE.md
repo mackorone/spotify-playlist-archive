@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 
 > Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/2xYE0LYxFRGK9CQxLlkE7H?si=jJtz30JSR1OryH1Mf10DtA>Nontokozo Mkhize</a>"
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,856 likes - 100 songs - 10 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,931 likes - 100 songs - 10 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

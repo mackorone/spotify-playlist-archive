@@ -4,7 +4,7 @@
 
 > Atmospheric and emotional piano pieces.
 
-251 songs - 13 hr 34 min
+253 songs - 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Improvisation No\. 1](https://open.spotify.com/track/7CfQ6IUB9zTIH3XduqrdMP) | [Elias Kiefer](https://open.spotify.com/artist/1zCiyHNwt0y29fTHrBvamB) | [Improvisation No\. 1](https://open.spotify.com/album/2hCv6EDrKkpbdoE8cgYFU4) | 2:41 | 2025-03-26 |  |
 | [In the Waiting](https://open.spotify.com/track/0WzetzBykY3fl41dEJjoYa) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [You Finally Knew](https://open.spotify.com/album/7asD3WvGakevPFYg89jh9K) | 2:39 | 2021-12-10 |  |
 | [Inno \(Prologo\)](https://open.spotify.com/track/4CYoKviFpkT3XC6nDbjYte) | [Dardust](https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt) | [\#002 Hymns](https://open.spotify.com/album/0tVvs2WoGh1ZkYp9ZuGkot) | 2:43 | 2022-02-25 |  |
+| [Insight LII](https://open.spotify.com/track/6YrKYzdU55RDAbTVUWXlVN) | [Julien Marchal](https://open.spotify.com/artist/7e4AmALFiKR69Xra2EksPU) | [INSIGHT V](https://open.spotify.com/album/43GybSeMG6Na9A6ih4p0In) | 2:39 | 2025-06-03 |  |
 | [Inventing Light](https://open.spotify.com/track/0yquufspHuwdG9o7hVNv26) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Inventing Light](https://open.spotify.com/album/0hoJC8NU80jLnsw8l5iZq0) | 3:02 | 2021-12-10 | 2025-03-27 |
 | [Jay](https://open.spotify.com/track/24FZP1U7646LkL8F0i2Dvv) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [The Summer Portraits](https://open.spotify.com/album/1WHbPQWHCi2LD1EBqq5AMs) | 3:12 | 2025-02-19 |  |
 | [K.A.H.D\. \- Home Session](https://open.spotify.com/track/79NexPR54Uygigj6OynSn0) | [Christian Badzura](https://open.spotify.com/artist/4o4c7wie7O9R8ju7JWtHsQ), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Reflections Pt\. 2 / Debussy: Canope](https://open.spotify.com/album/1HNnHVV9ITkbflRYzsxFJH) | 4:21 | 2021-12-10 | 2023-01-04 |
@@ -127,6 +128,7 @@
 | [Lumière](https://open.spotify.com/track/3iNliE9VdKaPmpUangZfTB) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Tales Of Solace](https://open.spotify.com/album/7M7ZlXalpujk6zXlhb1J4s) | 4:11 | 2021-12-10 | 2024-09-14 |
 | [Lumières](https://open.spotify.com/track/5a25wA4ObPtHPqxa5FQWtm) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [Lumières](https://open.spotify.com/album/5HXlQ7GvXy7iORgnYJIi8o) | 3:48 | 2023-03-03 |  |
 | [Lunae](https://open.spotify.com/track/2c5hCxzQSRQR4XAiAEetEl) | [Jordain Wallace](https://open.spotify.com/artist/3DNVxNhoLQt9Q4HqzTPajS) | [To/Day](https://open.spotify.com/album/7cr80VXUNFKIVENIDuery7) | 3:40 | 2021-12-10 |  |
+| [Madeleine](https://open.spotify.com/track/4nU39sK6ROGe5RtAHo4CAr) | [Nora](https://open.spotify.com/artist/6ynrf4I6YaSySGVy4xv6rw) | [Measure for Measure](https://open.spotify.com/album/0p2Z6cBSudTVozQDSx8lNq) | 2:07 | 2025-06-03 |  |
 | [Mamma](https://open.spotify.com/track/75HnNeRjD1HzKnpMRuoaKV) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Mamma](https://open.spotify.com/album/6o4CktR4yXJnpFqs9BDgpo) | 3:11 | 2023-03-03 | 2025-05-17 |
 | [Mantra.](https://open.spotify.com/track/1k5XyTq6BeOu8Pv3ZL9Sh2) | [Erwin Deleux](https://open.spotify.com/artist/3CH0YOw0yK2qWURgB92DSk) | [Mantra.](https://open.spotify.com/album/4TbEVZrI3fvbjlQoVjnlAS) | 6:17 | 2021-12-10 | 2023-01-04 |
 | [Mazurek](https://open.spotify.com/track/64yYKXLXDlIPKknfoQ4k2H) | [Władysław Szpilman](https://open.spotify.com/artist/0lTe15Ofpyg39nXvLNAfcm), [Yulianna Avdeeva](https://open.spotify.com/artist/3eDciSEz4VLXT167KNKDHF) | [Szpilman: Mazurek](https://open.spotify.com/album/1X7ui7Ns2P2zwuRiInc4F1) | 2:23 | 2024-09-06 |  |

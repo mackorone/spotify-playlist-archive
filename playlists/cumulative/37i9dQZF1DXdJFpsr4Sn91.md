@@ -4,7 +4,7 @@
 
 > Nousussa olevat hitit\. 👑 Kannessa OLGA\. 👑
 
-749 songs - 1 day 13 hr 21 min
+750 songs - 1 day 13 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,6 +261,7 @@
 | [I'm The Drama](https://open.spotify.com/track/21KShmFSfzVOaYAJmMLbHG) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm The Drama](https://open.spotify.com/album/6rhEdVWLmMzxnp8KVppcjx) | 2:36 | 2024-07-02 | 2024-08-30 |
 | [IBZ \(feat\. T Swoop & Nelli Orell\)](https://open.spotify.com/track/2DjLdWKFTuG6qqE6yTlKuj) | [Aste](https://open.spotify.com/artist/0FgPkjSOY3FoLQRXeNbkhL), [T Swoop](https://open.spotify.com/artist/3XB4IVNkzpc80d9qmthhl3), [Nelli Orell](https://open.spotify.com/artist/1Buj43f2VREVfcmEsNBjVd) | [IBZ \(feat\. T Swoop & Nelli Orell\)](https://open.spotify.com/album/0Z6bOiJgEL0JaLlzOgezgd) | 2:30 | 2024-07-04 | 2024-09-06 |
 | [ICH KOMME](https://open.spotify.com/track/52NFoPnzxOKPIcJIQ9mb5Q) | [Erika Vikman](https://open.spotify.com/artist/6JVB6uiYxpF2K1PGsPRpWR) | [ICH KOMME](https://open.spotify.com/album/37Jo8WGCWZTAv53vweYlYx) | 3:00 | 2025-01-16 | 2025-05-30 |
+| [Ievan Polkka](https://open.spotify.com/track/2YWTBz2n9ucqx0OAHzVQCz) | [Robbe](https://open.spotify.com/artist/58imfUscPVwuhuHt1MpBDA), [M\-T3CK](https://open.spotify.com/artist/4mCm9ow3qRnd421ECLiRPY), [BVBATZ](https://open.spotify.com/artist/4TNv2qUxg5z1yjKeDgY0EV) | [Ievan Polkka](https://open.spotify.com/album/24Z6v6rf6xFHbUQTMPjtwd) | 2:33 | 2025-06-03 |  |
 | [If U Want Me](https://open.spotify.com/track/3IHmHyrPhfrzhcPmpvXmai) | [BLANKA](https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm) | [If U Want Me](https://open.spotify.com/album/4u6d52P49fIgGPBEljxhkG) | 2:52 | 2024-07-02 | 2024-07-27 |
 | [Iha miten vaa](https://open.spotify.com/track/3Pf2yQgJ1B8vKgPFd1oOXC) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Iha miten vaa](https://open.spotify.com/album/5yn9M6Cd8HYBCt1Yvt5Wrm) | 3:16 | 2024-10-24 | 2024-12-13 |
 | [Ihan vaan ihminen](https://open.spotify.com/track/4q043Fo5avTZt1s8T0Y5qK) | [Mira Luoti](https://open.spotify.com/artist/5j9mMB9gew9wNCvFJWiNho) | [Ihan vaan ihminen](https://open.spotify.com/album/6U0nK3F7Qk7n7nyq6ACMLb) | 3:10 | 2025-03-28 | 2025-04-25 |

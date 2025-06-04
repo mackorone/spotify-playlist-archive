@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-934 songs - 3 day 7 hr 52 min
+935 songs - 3 day 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -677,6 +677,7 @@
 | [Push Me](https://open.spotify.com/track/7GgtQOS5ZySXkzw2Qsl21y) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Push Me](https://open.spotify.com/album/5iPPHGZzzZJYk4rbI2MWAd) | 5:24 | 2023-09-15 | 2024-08-24 |
 | [Pyxis](https://open.spotify.com/track/4VfESynVjdqW2aXQk4SMKs) | [Tim Green](https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB) | [Pyxis EP](https://open.spotify.com/album/4HFq51XXEP4uPzcCACtYyT) | 7:44 | 2022-03-11 | 2022-07-26 |
 | [Quetzal](https://open.spotify.com/track/3onp9CePJ7sNcJjIARM5YG) | [Montezuma](https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU) | [Quetzal](https://open.spotify.com/album/0GB8eQGSI1PgdPqV7IrLMK) | 7:37 | 2021-04-21 | 2023-02-01 |
+| [Radiance](https://open.spotify.com/track/26Ei09sNb2GAUlKhSMb6n4) | [Arodes](https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47), [PÆDE](https://open.spotify.com/artist/0q9ulkly0h5gV9BLdyQGnQ) | [Radiance](https://open.spotify.com/album/1YhHRHvLm1M7gb2vzrGgeQ) | 3:30 | 2025-05-30 |  |
 | [Rainchecks In Montreal \- Roy Rosenfeld Remix](https://open.spotify.com/track/5GkhUSAoSz7Pp4F6VIUbVw) | [Guy Gerber](https://open.spotify.com/artist/3bqBkAzdPwEDe1JUvb7ZeC), [Roy Rosenfeld](https://open.spotify.com/artist/4YklksA8yDtpluCCh945Sk) | [Rainchecks In Montreal](https://open.spotify.com/album/7hyqsbXob3bcwk8Jml4rfP) | 8:00 | 2023-09-22 | 2024-08-20 |
 | [Ramona](https://open.spotify.com/track/1EroNKATh80TwDZLtPKPNN) | [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF) | [Ramona](https://open.spotify.com/album/25bJfT3QJehxDxwSAOkKIc) | 7:03 | 2021-10-15 | 2022-07-17 |
 | [Rational Utopia](https://open.spotify.com/track/1zZrBI8daxuMRJQqE0CkaO) | [Toto Chiavetta](https://open.spotify.com/artist/0DBwNrdGSluzJl24pHRiOk) | [Rational Utopia](https://open.spotify.com/album/0FFLuWqNeJc2HxROaNDH99) | 8:18 | 2022-06-10 | 2022-08-04 |
@@ -882,7 +883,7 @@
 | [Venus](https://open.spotify.com/track/7L567iPcbnYYpmfduZsj8n) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [Niko Schwind](https://open.spotify.com/artist/4jPpDbD1ERO3zjBon97ECM) | [Celestial Bodies](https://open.spotify.com/album/2kySDejbrQxj5HGuhXUXyT) | 6:23 | 2023-02-17 | 2023-04-21 |
 | [Viking](https://open.spotify.com/track/0SD82lVuflMLT8S4BamWtp) | [Adam Husa](https://open.spotify.com/artist/0fLNKqkCYBUhjSHX3yVZ3i), [M O N I T O R S](https://open.spotify.com/artist/6ZxQphvx5MuI3m1xzHSE6C) | [Viking](https://open.spotify.com/album/5J4gonRmEDbWf0bdqBaph7) | 6:58 | 2021-04-21 | 2022-06-30 |
 | [Visions](https://open.spotify.com/track/34Q9Ai7qwAYdFnFegPxeqD) | [Rodriguez Jr.](https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y), [Liset Alea](https://open.spotify.com/artist/3a8PdRbZ7j6TigKKUukGqv), [RJLA](https://open.spotify.com/artist/5kNFgh5lrjDoe6HtpTzRHf) | [Visions](https://open.spotify.com/album/0uiBVJj45bQNSh0kYsUnav) | 3:31 | 2023-05-05 | 2023-06-06 |
-| [Voices](https://open.spotify.com/track/453srtIQeJkXx3xbPZC6Pv) | [Jamek Ortega](https://open.spotify.com/artist/0z4954ccQLUdwTHCSMXtem) | [Voices](https://open.spotify.com/album/7CBAW6Fk7QWpu96q4Vxi9b) | 4:58 | 2024-07-12 |  |
+| [Voices](https://open.spotify.com/track/453srtIQeJkXx3xbPZC6Pv) | [Jamek Ortega](https://open.spotify.com/artist/0z4954ccQLUdwTHCSMXtem) | [Voices](https://open.spotify.com/album/7CBAW6Fk7QWpu96q4Vxi9b) | 4:58 | 2024-07-12 | 2025-06-04 |
 | [Voices In My Head](https://open.spotify.com/track/2rKgp5Ih2eNVVGl6Yqn5VW) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [Voices In My Head](https://open.spotify.com/album/6qqH0iIEkz9tsrjjuyESDT) | 3:34 | 2023-02-10 | 2023-05-15 |
 | [Voices of Salvation](https://open.spotify.com/track/4GY2MQG6X5ueZWB9IVqWXB) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Signals](https://open.spotify.com/album/3YWkAZqJYfmZAAtqdLUXJ5) | 6:40 | 2022-04-19 | 2022-05-26 |
 | [Voicing Something \- Adriatique Remix](https://open.spotify.com/track/4eJ4jBDqGwA9Z9kesunDQE) | [Johannes Brecht](https://open.spotify.com/artist/1VFwWJaTMckGNeRWak0cXi), [Luke Marzec](https://open.spotify.com/artist/5X0GAEimapMzpG5Q7Sibmh), [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB) | [Live and Love EP](https://open.spotify.com/album/2AcfJOvLQ9LwpmnM4cY8JW) | 7:24 | 2022-04-19 | 2022-08-06 |

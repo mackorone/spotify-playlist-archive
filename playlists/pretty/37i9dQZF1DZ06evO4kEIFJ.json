@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Nas X. The essential tracks, all in one playlist.",
-  "num_followers": 164140,
+  "num_followers": 164149,
   "original_name": "This Is Lil Nas X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDuYAAAAAABuDDj2wd7q9Xezw1idxfE9",
+  "snapshot_id": "aDzpgAAAAABtD9TeD3ceG0h6PBO/omzA",
   "tracks": [
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Days Before Dreamboy",
-        "url": "https://open.spotify.com/album/1oqxzh4V3jEnNedwoL408R"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 215325,
-      "name": "DREAMBOY",
-      "url": "https://open.spotify.com/track/2UNrGCSaMhtIY22gaiQuGm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SWISH",
         "url": "https://open.spotify.com/album/0yIBwiuxmH7yAtIYBZFGbS"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 221665,
       "name": "SWISH",
       "url": "https://open.spotify.com/track/3yFGk28PqlcjYu7dxA2fTY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Days Before Dreamboy",
+        "url": "https://open.spotify.com/album/1oqxzh4V3jEnNedwoL408R"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 215325,
+      "name": "DREAMBOY",
+      "url": "https://open.spotify.com/track/2UNrGCSaMhtIY22gaiQuGm"
     },
     {
       "added_at": null,
@@ -563,26 +563,6 @@
       "duration_ms": 151839,
       "name": "light! (with Lil Nas X & 9lives)",
       "url": "https://open.spotify.com/track/3WuWoY8tx0ySmCd5ErgEiF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Panini",
-        "url": "https://open.spotify.com/album/21fDNiQ3MEunNtjqIhDt6G"
-      },
-      "artists": [
-        {
-          "name": "Vishaniman",
-          "url": "https://open.spotify.com/artist/5TfNRqPfAs5VrCAqddaR8S"
-        },
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 153328,
-      "name": "Panini ' Hindi Version",
-      "url": "https://open.spotify.com/track/2An7LbgaZNR8BXjC94wHiP"
     }
   ],
   "unique_name": "This Is Lil Nas X",

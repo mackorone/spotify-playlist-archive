@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: <a href="https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI?si=pZd5xTWbS6KQnHksuM\-mhA">Lawrence Oyor</a> and <a href="https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo?si=oEIhXaAvRNOzYfmAkDZ8tA">Gaise Baba</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,653 likes - 120 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,672 likes - 120 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

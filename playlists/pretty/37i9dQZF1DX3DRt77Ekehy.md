@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DRt77Ekehy.md) - [plain]
 
 > A positive Solfeggio Frequency, used by many for meditation, manifestation and healing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,230 likes - 198 songs - 9 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,410 likes - 198 songs - 9 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -207,4 +207,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DRt77Ekehy.md) - [plain]
 | 197 | [Comforting 432hz](https://open.spotify.com/track/6pecbIcNuLhePHZxxfdDuS) | [Deep Allure](https://open.spotify.com/artist/7BSP7jTW5vRe9uUiRBcZFU) | [Comforting 432hz](https://open.spotify.com/album/4oE5FUPog7P1krcayn9opN) | 2:33 |
 | 198 | [432Hz \- Asteroid Lullaby](https://open.spotify.com/track/0rifZEkCPWjrjTPfdkWT2X) | [Shiroishi](https://open.spotify.com/artist/2fTvBtxiW8RC5E2ns1AmZC) | [432Hz \- Asteroid Lullaby](https://open.spotify.com/album/0XIQ7CVp168yGK8x5qs6py) | 3:13 |
 
-Snapshot ID: `aBDZjQAAAAAKt/tRep4HdbNXaybORXIv`
+Snapshot ID: `aBDZjQAAAAC1tJpDiFM9C4OmXkrrnh5p`

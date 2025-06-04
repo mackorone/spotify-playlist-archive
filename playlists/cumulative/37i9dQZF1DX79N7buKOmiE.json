@@ -395,6 +395,24 @@
     },
     {
       "album": {
+        "name": "Bolyongok (Akusztik)",
+        "url": "https://open.spotify.com/album/3saq4vCQhghUYNsOgWOnIo"
+      },
+      "artists": [
+        {
+          "name": "Gubik Petra",
+          "url": "https://open.spotify.com/artist/7nKX6TixFzhTgdgxUECCjS"
+        }
+      ],
+      "date_added": "2025-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187333,
+      "name": "Bolyongok - Akusztik",
+      "url": "https://open.spotify.com/track/1NJW3mUdwy1VEU9pRap5az"
+    },
+    {
+      "album": {
         "name": "Borosty\u00e1n",
         "url": "https://open.spotify.com/album/3cyuGB0gib9RzhYDbCYCg9"
       },
@@ -620,7 +638,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 210400,
       "name": "Dallal vigasztal",
       "url": "https://open.spotify.com/track/2no4VfnRuNU9dgAL31uVhr"
@@ -732,10 +750,28 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 156705,
       "name": "disposable",
       "url": "https://open.spotify.com/track/6vUys32HHMu5PEBvP30pcM"
+    },
+    {
+      "album": {
+        "name": "Disszonancia",
+        "url": "https://open.spotify.com/album/6uz80SiAoGnh8HKkN68YMT"
+      },
+      "artists": [
+        {
+          "name": "Lenkke_",
+          "url": "https://open.spotify.com/artist/4tX2dLblK9T1yJ9s6dYjZr"
+        }
+      ],
+      "date_added": "2025-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271532,
+      "name": "Disszonancia",
+      "url": "https://open.spotify.com/track/3aDJqahNjqfn7CCMRRAjQd"
     },
     {
       "album": {
@@ -848,6 +884,24 @@
       "duration_ms": 194000,
       "name": "Elf\u00e1radtam",
       "url": "https://open.spotify.com/track/0zzmj3qlJdET4mzpDahSKg"
+    },
+    {
+      "album": {
+        "name": "Holnap K\u00f6dd\u00e9 V\u00e1lok",
+        "url": "https://open.spotify.com/album/7ena1eQ54CA4RJkFjF2ovg"
+      },
+      "artists": [
+        {
+          "name": "perp\u0113tuum",
+          "url": "https://open.spotify.com/artist/6Y3vndDz3h2yZJQ5AfbLfp"
+        }
+      ],
+      "date_added": "2025-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185175,
+      "name": "Elhagyom",
+      "url": "https://open.spotify.com/track/6a4MKH3FyNz3RXs4hDSG9F"
     },
     {
       "album": {
@@ -974,7 +1028,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 262956,
       "name": "evil under the sun",
       "url": "https://open.spotify.com/track/4XHRRRIGi3zi3Ee4Hr84a1"
@@ -1108,6 +1162,24 @@
       "duration_ms": 205000,
       "name": "Free",
       "url": "https://open.spotify.com/track/7nyA6tPueYZDKqyeTpxL2k"
+    },
+    {
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/3HBXeJtGACcOJJSyNjpS29"
+      },
+      "artists": [
+        {
+          "name": "Kozmofobe",
+          "url": "https://open.spotify.com/artist/3m05mEFAg4bupnO9nDiNwP"
+        }
+      ],
+      "date_added": "2025-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223000,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/4DQdfGR7KYX3AUCAnCETqc"
     },
     {
       "album": {
@@ -1425,6 +1497,24 @@
     },
     {
       "album": {
+        "name": "Heavy",
+        "url": "https://open.spotify.com/album/0mRl73eyHJCaSBGK6LwjFp"
+      },
+      "artists": [
+        {
+          "name": "NOIRA",
+          "url": "https://open.spotify.com/artist/0UWpD8yCQsAW8g5hL7AtKo"
+        }
+      ],
+      "date_added": "2025-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/7F2WIjC9uAe8v1xSKscnd9"
+    },
+    {
+      "album": {
         "name": "'13",
         "url": "https://open.spotify.com/album/3fRMFPhsOGtbgNze0R0rAv"
       },
@@ -1570,7 +1660,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 129845,
       "name": "Igaz-Hamis",
       "url": "https://open.spotify.com/track/78AN6stv60uHGYUVqfQq6s"
@@ -1702,10 +1792,36 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 139764,
       "name": "Jamais vu",
       "url": "https://open.spotify.com/track/0wS5m8Eu6683iwC2DzRqDp"
+    },
+    {
+      "album": {
+        "name": "Jerik\u00f3",
+        "url": "https://open.spotify.com/album/455HvLY620gM3Ia8tO7JR7"
+      },
+      "artists": [
+        {
+          "name": "Indigo",
+          "url": "https://open.spotify.com/artist/7JpalwREu08h1nkdkmh2ZA"
+        },
+        {
+          "name": "Dan Pinto",
+          "url": "https://open.spotify.com/artist/5Bg0nn9wJutwmaNhhld2Xw"
+        },
+        {
+          "name": "OB",
+          "url": "https://open.spotify.com/artist/04DZtaXcurMKKFIdV4FNvt"
+        }
+      ],
+      "date_added": "2025-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Jerik\u00f3",
+      "url": "https://open.spotify.com/track/2buK5D1SetmgAPAl10tCq3"
     },
     {
       "album": {
@@ -2396,7 +2512,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 188070,
       "name": "Minden nappal",
       "url": "https://open.spotify.com/track/0eZ9FQ2Cyn5hLNl276YAu3"
@@ -3158,7 +3274,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 155368,
       "name": "Rossz \u00e9jszak\u00e1k",
       "url": "https://open.spotify.com/track/2Ezv1mtCVFSbxBmuFf8gD0"
@@ -3266,7 +3382,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 357794,
       "name": "Side Of You",
       "url": "https://open.spotify.com/track/0jPfxSl1KsNnTFACeRGj4Y"
@@ -3681,6 +3797,24 @@
     },
     {
       "album": {
+        "name": "Tavaszod",
+        "url": "https://open.spotify.com/album/3BNzU0xKTDR3JIe3Msk9iF"
+      },
+      "artists": [
+        {
+          "name": "klou",
+          "url": "https://open.spotify.com/artist/658THFg57KdcVZD90RmV21"
+        }
+      ],
+      "date_added": "2025-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189333,
+      "name": "Tavaszod",
+      "url": "https://open.spotify.com/track/2Uf5EHEbHmhqiS12vLY4Wy"
+    },
+    {
+      "album": {
         "name": "Temeg\u00e9n",
         "url": "https://open.spotify.com/album/4fTxzt1AmW9PofflebFXfA"
       },
@@ -4008,6 +4142,28 @@
       "duration_ms": 229320,
       "name": "Valaki mondja meg",
       "url": "https://open.spotify.com/track/3Sy654BUKRa8LBdGFwqRXg"
+    },
+    {
+      "album": {
+        "name": "Mix\u00e1t EP",
+        "url": "https://open.spotify.com/album/2Vi8goRDK6ffjl6piULB8B"
+      },
+      "artists": [
+        {
+          "name": "Sisi",
+          "url": "https://open.spotify.com/artist/6DM0KWyDnsqdKIfFvk6d8f"
+        },
+        {
+          "name": "WaTa",
+          "url": "https://open.spotify.com/artist/0y4UlAL3MRNRaPWGzZrmT0"
+        }
+      ],
+      "date_added": "2025-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184748,
+      "name": "Varacskos \u00c1lmok",
+      "url": "https://open.spotify.com/track/4IHsZsWinOHs7nR4KgWYJX"
     },
     {
       "album": {

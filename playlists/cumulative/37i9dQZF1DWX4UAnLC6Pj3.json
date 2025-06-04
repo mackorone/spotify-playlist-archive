@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-04",
-  "description": "\u00a1Los \u00e9xitos de banda que necesitas! Banda Los Sebastianes en portada.",
+  "description": "\u00a1Los \u00e9xitos de banda que necesitas! Banda MS en portada.",
   "name": "Banda 2025",
   "tracks": [
     {
@@ -3420,7 +3420,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 168480,
       "name": "Est\u00e1s Cancelada",
       "url": "https://open.spotify.com/track/2AmgtgMbKtLszGa4Xgh6I0"
@@ -5168,6 +5168,24 @@
       "duration_ms": 214258,
       "name": "Mi Gusto Es",
       "url": "https://open.spotify.com/track/7rY1SSgMIoXIXHH0EVjBPI"
+    },
+    {
+      "album": {
+        "name": "Mi Mayor Anhelo (REMASTERIZADO)",
+        "url": "https://open.spotify.com/album/1vH4vRKMXbLq9TEiSgw24W"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2025-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212042,
+      "name": "Mi Mayor Anhelo - REMASTERIZADO",
+      "url": "https://open.spotify.com/track/3VLjIedrArb67ZJ9KxEbyP"
     },
     {
       "album": {

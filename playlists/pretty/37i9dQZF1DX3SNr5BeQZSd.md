@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 
 > the freshest trending lofi beats for chill, focus, or study vibes
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,587 likes - 100 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,642 likes - 100 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 | 99 | [Round The Clock](https://open.spotify.com/track/2PWxtlIklTGlWqf73KI9z7) | [Two Scents](https://open.spotify.com/artist/7sRau6OFIdLc2jMdzZRt81), [Lotus Beats](https://open.spotify.com/artist/667RkTKDzJP6Hi3viSrkWI) | [Round The Clock](https://open.spotify.com/album/6ee59iUVi8f52FaxThEYYo) | 1:48 |
 | 100 | [bubbles](https://open.spotify.com/track/1r1nsmEX2SxUn71NNpiWZG) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [bubbles](https://open.spotify.com/album/0kQ5meQ8gpcXMnlEO2ciO1) | 2:03 |
 
-Snapshot ID: `aC/y1gAAAABgJvDoRGrqZdq2pn48Lup5`
+Snapshot ID: `aC/y1gAAAADxL87yDRkKQDZhhFIGPIF2`

@@ -8479,6 +8479,24 @@
     },
     {
       "album": {
+        "name": "H.Y.B. Project #3 - How Could You Leave",
+        "url": "https://open.spotify.com/album/6gilkQOwgtBJJZPyCcQKbE"
+      },
+      "artists": [
+        {
+          "name": "HYB (Huh Gak,Shin Yong Jae,Onestar)",
+          "url": "https://open.spotify.com/artist/75LV0HV0cURCViNnAZ1SQt"
+        }
+      ],
+      "date_added": "2025-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203026,
+      "name": "How Could You Leave",
+      "url": "https://open.spotify.com/track/4JkWWPrKOfUG5bwGlrm3qr"
+    },
+    {
+      "album": {
         "name": "Hello",
         "url": "https://open.spotify.com/album/2aCYxRu2ETq1u3MlR4c86z"
       },
@@ -9020,7 +9038,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 233050,
       "name": "I Feel It Now",
       "url": "https://open.spotify.com/track/0oqk3ugFbaGhEmuUFaUaHy"

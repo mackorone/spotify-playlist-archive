@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Ayoub Hattab\. Artwork: Isu Kim
 
-422 songs - 22 hr 32 min
+423 songs - 22 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,7 @@
 | [GHORBA](https://open.spotify.com/track/6bIPcudk3VzLyYyMC0xY0k) | [DJIZA](https://open.spotify.com/artist/21wg9OKxtB2sZVuhBaEwCk) | [Solo](https://open.spotify.com/album/6ZDxReuxHMGratcdTG2iPN) | 2:29 | 2024-08-13 | 2024-11-27 |
 | [GOLI KEEF](https://open.spotify.com/track/6ODpRk4WvS0BjprjMSrVkn) | [Kali\-B](https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j), [Soufiane Az](https://open.spotify.com/artist/28Q2uRWOQJHFGUy1VBCY04) | [GOLI KEEF](https://open.spotify.com/album/3hsD6eDgWKGNELPCekCl1f) | 2:50 | 2024-11-26 |  |
 | [Gone](https://open.spotify.com/track/5yf2fztisvgjZSoOQJVoZe) | [Abra Salem](https://open.spotify.com/artist/5FO7kzy6wVe7lGKOOGZ1y6), [Sophie Smith](https://open.spotify.com/artist/7KZ7EJISLPcfp8ujPTYNir) | [Gone](https://open.spotify.com/album/5CoFXUrSCKTgIQKUOo3Mh8) | 4:12 | 2023-05-24 | 2023-09-07 |
-| [Gorouh](https://open.spotify.com/track/46l81bmCrF9fjbkd2RnODg) | [Nour Khan](https://open.spotify.com/artist/2xI0X8RCZHFCbtBlNJsZzs), [Ahmed Kore](https://open.spotify.com/artist/7qqYaSjNjs4rUmtrgAqIpI) | [Gorouh](https://open.spotify.com/album/4beWCebiyx4Hc0ZQ0G4e3V) | 2:52 | 2025-05-28 |  |
+| [Gorouh](https://open.spotify.com/track/46l81bmCrF9fjbkd2RnODg) | [Nour Khan](https://open.spotify.com/artist/2xI0X8RCZHFCbtBlNJsZzs), [Ahmed Kore](https://open.spotify.com/artist/7qqYaSjNjs4rUmtrgAqIpI) | [Gorouh](https://open.spotify.com/album/4beWCebiyx4Hc0ZQ0G4e3V) | 2:52 | 2025-05-28 | 2025-06-04 |
 | [Greedy](https://open.spotify.com/track/5rS361ITtlivgOlz9PcxM7) | [Nawal](https://open.spotify.com/artist/4I7cv8uAvHYwNrMgHer9bV), [NBL](https://open.spotify.com/artist/5mEoje9uiOkieG0o7eKZ5D) | [Greedy](https://open.spotify.com/album/4F6PiOx1sG3nj2qsENKwow) | 3:19 | 2023-08-23 | 2024-05-01 |
 | [Grounding Place](https://open.spotify.com/track/5k42ev7lFesuG1UAlrKT3l) | [Nora Toutain](https://open.spotify.com/artist/7LXP2eZLFZYdpUi29xOF1A) | [Grounding Place](https://open.spotify.com/album/0mHtsfh7zOubxpNTDVzXKP) | 3:46 | 2022-10-25 | 2023-02-15 |
 | [Hacienda Freestyle](https://open.spotify.com/track/5K80Yyzo9qWJrZdstbStsl) | [Batawi](https://open.spotify.com/artist/5cIaZnrOBI0QNakgSCXIJe) | [Hacienda Freestyle](https://open.spotify.com/album/3lpoJy2tpRppUQKmLk6nX2) | 2:56 | 2024-06-26 | 2024-10-02 |
@@ -167,6 +167,7 @@
 | [Jah!](https://open.spotify.com/track/3i7Rhc5SfwV7KxdOCJoMD1) | [Chase](https://open.spotify.com/artist/2QGv8ZbI72ZIpY9GUifmbp) | [Jah!](https://open.spotify.com/album/5yXt4Hx0Wx0sEaVZMfmJzN) | 3:11 | 2023-06-20 | 2024-02-08 |
 | [Jiddo](https://open.spotify.com/track/6pczaXrplw78wIo3D9zuLM) | [Mvndila](https://open.spotify.com/artist/4xChDGJOSeebJva9pcvmSJ) | [Jiddo](https://open.spotify.com/album/0SladTRgQhrI8r1zZt62gY) | 2:24 | 2024-04-30 | 2024-08-14 |
 | [Jnah Etteir](https://open.spotify.com/track/0hId55Px1FQ6prjA0ddNRs) | [Fulan](https://open.spotify.com/artist/4EUpixEhMIiyIPz8TzVpqk) | [Jnah Etteir](https://open.spotify.com/album/2Z8TgcTzKNQNBhcllwkbtr) | 2:48 | 2024-08-13 | 2024-11-07 |
+| [Jwenet Douur](https://open.spotify.com/track/7Ap4rkh0kdMlwBRRBZSJjk) | [6faith](https://open.spotify.com/artist/6VsbRaKk9a3kJFDbUNhMlJ) | [Jwenet Douur](https://open.spotify.com/album/4gIhAPiwEM9gHDtadrd0BF) | 3:11 | 2025-06-03 |  |
 | [Kalam Kteer](https://open.spotify.com/track/2MPhQqiPRsHJUVZqAW3xNi) | [Montiyago](https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk) | [Kalam Kteer](https://open.spotify.com/album/7ticL8OnOkr0oJ9VdssO3a) | 2:52 | 2022-11-01 | 2023-01-18 |
 | [KALIMNI](https://open.spotify.com/track/09kxB0BiZpFdjCTavu1YSt) | [Omar Whosof](https://open.spotify.com/artist/3yT8ShXUgEHCcPm8zYKnDF), [Soufroud](https://open.spotify.com/artist/42vfCMrTqlboQmnADL4FEB) | [KALIMNI](https://open.spotify.com/album/04xQVq2R04Hwd7MshKExFA) | 3:15 | 2023-01-31 | 2023-03-02 |
 | [Kam Marra](https://open.spotify.com/track/15tIRJQC1h2ruUIhPgGilA) | [Mira Habash](https://open.spotify.com/artist/67rrdqoZIyGLwoVaqYDm0F) | [Kam Marra](https://open.spotify.com/album/4UCSHPuzE1YTd8FR35h1Ew) | 3:09 | 2024-05-14 | 2024-08-14 |

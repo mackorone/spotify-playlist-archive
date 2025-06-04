@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: Tee Grizzley
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,235,042 likes - 101 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,235,108 likes - 101 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 100 | [Chicken](https://open.spotify.com/track/6fqzZqYPeKPtzrl6Fp1WT4) | [El Snappo](https://open.spotify.com/artist/0GJvhbSzCx9kT4jb7yd4eS) | [Chicken](https://open.spotify.com/album/09sFKMpWQlPhOH4AGDXQlX) | 2:05 |
 | 101 | [FOOT SOLDIERS](https://open.spotify.com/track/2MjMV7Z1X9lvZ00SUbH6dr) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [SPEAK NOW OR...](https://open.spotify.com/album/3JfTxMny1oIZDmYcBnoHWT) | 3:25 |
 
-Snapshot ID: `aDktYgAAAAB6vX4uIF4jKxLyi8uW9lwD`
+Snapshot ID: `AAAAAPtDYWwX/aZA9tY+DMnTGNOeveZr`

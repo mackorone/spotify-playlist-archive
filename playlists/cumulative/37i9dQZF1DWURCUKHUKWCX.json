@@ -1747,6 +1747,24 @@
     },
     {
       "album": {
+        "name": "INSIGHT V",
+        "url": "https://open.spotify.com/album/43GybSeMG6Na9A6ih4p0In"
+      },
+      "artists": [
+        {
+          "name": "Julien Marchal",
+          "url": "https://open.spotify.com/artist/7e4AmALFiKR69Xra2EksPU"
+        }
+      ],
+      "date_added": "2025-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159239,
+      "name": "Insight LII",
+      "url": "https://open.spotify.com/track/6YrKYzdU55RDAbTVUWXlVN"
+    },
+    {
+      "album": {
         "name": "Inventing Light",
         "url": "https://open.spotify.com/album/0hoJC8NU80jLnsw8l5iZq0"
       },
@@ -2228,6 +2246,24 @@
       "duration_ms": 220500,
       "name": "Lunae",
       "url": "https://open.spotify.com/track/2c5hCxzQSRQR4XAiAEetEl"
+    },
+    {
+      "album": {
+        "name": "Measure for Measure",
+        "url": "https://open.spotify.com/album/0p2Z6cBSudTVozQDSx8lNq"
+      },
+      "artists": [
+        {
+          "name": "Nora",
+          "url": "https://open.spotify.com/artist/6ynrf4I6YaSySGVy4xv6rw"
+        }
+      ],
+      "date_added": "2025-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127865,
+      "name": "Madeleine",
+      "url": "https://open.spotify.com/track/4nU39sK6ROGe5RtAHo4CAr"
     },
     {
       "album": {

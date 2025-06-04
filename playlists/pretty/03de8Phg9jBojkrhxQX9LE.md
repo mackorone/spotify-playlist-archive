@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 21,418 likes - 137 songs - 7 hr 39 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 21,423 likes - 137 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 13 | [Yeah Yeah](https://open.spotify.com/track/3cYTnUooCbwikxo74eKc5Q) | [1991](https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy), [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV), [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9) | [Yeah Yeah](https://open.spotify.com/album/2p9GM8iVsMDpgDk2dQSPoK) | 3:24 |
 | 14 | [Body \(Across The Floor\)](https://open.spotify.com/track/727H4R9r9H8vyDPTJDgfhU) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL) | [Body \(Across The Floor\)](https://open.spotify.com/album/2HmPuNq7YL8zxaLNRZQj2v) | 3:24 |
 | 15 | [CHAOS \- Flux Pavilion Remix](https://open.spotify.com/track/5OkBX1LOenfqijPdGrsN38) | [MUST DIE!](https://open.spotify.com/artist/4aBx7mA6lUOVhEsjokZrXb), [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk) | [CHAOS \(Flux Pavilion Remix\)](https://open.spotify.com/album/5AvYQ8dqOgkLcJ6ShFniBo) | 3:30 |
-| 16 | [Slow Burner \(feat\. Original Koffee\)](https://open.spotify.com/track/1Siu5Bnrt90vtjUddXeTUg) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [Original Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Slow Burner \(feat\. Original Koffee\)](https://open.spotify.com/album/6j4ffFjnsHqYexblnGJwdB) | 3:32 |
+| 16 | [Slow Burner](https://open.spotify.com/track/1Siu5Bnrt90vtjUddXeTUg) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [Original Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Slow Burner](https://open.spotify.com/album/6j4ffFjnsHqYexblnGJwdB) | 3:32 |
 | 17 | [All Night](https://open.spotify.com/track/7414PwrGrM8pICDbOtfkW2) | [CHROMEBODIES](https://open.spotify.com/artist/5SY7jZZAfGLD3R9FYwoYGI), [Cleopard2000](https://open.spotify.com/artist/32EPfJgEPYMc9W0qTJPGjl) | [All Night / Drowning](https://open.spotify.com/album/0qslrSlgmOiLbqjle05QN0) | 2:14 |
 | 18 | [Save The Cat](https://open.spotify.com/track/0L0DVRuUZ0lJIyq8oNQtF9) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B) | [Save The Cat](https://open.spotify.com/album/3lF11dYBA2aml6FwhXBh5k) | 2:52 |
 | 19 | [Lose My Mind](https://open.spotify.com/track/0b1Hl2o1a1Z2ScSvImmVDE) | [Darby](https://open.spotify.com/artist/6rErJmMCoNHUX0Z99uBB8m), [Strobez](https://open.spotify.com/artist/1af1aCeFBW4yyWUbGAC6mO) | [Lose My Mind](https://open.spotify.com/album/0RZWXjXZDItdGJkTGgc7OE) | 2:44 |

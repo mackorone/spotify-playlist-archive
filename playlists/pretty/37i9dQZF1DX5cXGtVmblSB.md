@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cXGtVmblSB.md) - [plain]
 
 > Soft music to calm down cats, kittens and their humans.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,750 likes - 155 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,866 likes - 155 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cXGtVmblSB.md) - [plain]
 | 154 | [Hortus](https://open.spotify.com/track/4lWR4THBvha8RGEczIxe6r) | [neon cosmo](https://open.spotify.com/artist/5JJlwfHP7R3sSWfrDn4FOV) | [Hortus](https://open.spotify.com/album/3tmZNMYzhmydv7EmuByHoK) | 2:37 |
 | 155 | [Sun Bells](https://open.spotify.com/track/1f5BNfpT1tP7LpD9zri8wD) | [Earthbound](https://open.spotify.com/artist/0F1aPOoP68MvFLfZ4fyP03) | [Sun Bells](https://open.spotify.com/album/0euFYTO4xkTMu8vKzTDBgf) | 3:24 |
 
-Snapshot ID: `aBoBFQAAAAC5CbKUFrcVI+ax/Xq8qOST`
+Snapshot ID: `aBoBFQAAAABk5l5+bnELFO4DYSYYd7Yp`

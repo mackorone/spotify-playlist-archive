@@ -1,6 +1,6 @@
 {
   "description": "Hardcore, Frenchcore and uptempo to get you pumped",
-  "num_followers": 84264,
+  "num_followers": 84280,
   "original_name": "Hardcore Rage 2025",
   "owner": {
     "name": "Spotify",
@@ -687,6 +687,30 @@
     {
       "added_at": "2025-06-02 11:16:04",
       "album": {
+        "name": "Kamikaze",
+        "url": "https://open.spotify.com/album/49C4pHCfwYCc0XeSSeJvV0"
+      },
+      "artists": [
+        {
+          "name": "Major Conspiracy",
+          "url": "https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc"
+        },
+        {
+          "name": "The Dope Doctor",
+          "url": "https://open.spotify.com/artist/5aoT8gj20bt8UN42nzbAHh"
+        },
+        {
+          "name": "EZG",
+          "url": "https://open.spotify.com/artist/19a4917FBnuYz90ezDrKv4"
+        }
+      ],
+      "duration_ms": 220950,
+      "name": "Kamikaze",
+      "url": "https://open.spotify.com/track/3BaGQ8tsutNrim7MGWBjbC"
+    },
+    {
+      "added_at": "2025-06-02 11:16:04",
+      "album": {
         "name": "F.R.E.N.C.H.C.O.R.E.",
         "url": "https://open.spotify.com/album/08UAg9MSdmXQ2IBnhJx6eC"
       },
@@ -711,30 +735,6 @@
       "duration_ms": 158750,
       "name": "F.R.E.N.C.H.C.O.R.E.",
       "url": "https://open.spotify.com/track/48KVM5tvfliqY6l7kduiPF"
-    },
-    {
-      "added_at": "2025-06-02 11:16:04",
-      "album": {
-        "name": "Kamikaze",
-        "url": "https://open.spotify.com/album/49C4pHCfwYCc0XeSSeJvV0"
-      },
-      "artists": [
-        {
-          "name": "Major Conspiracy",
-          "url": "https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc"
-        },
-        {
-          "name": "The Dope Doctor",
-          "url": "https://open.spotify.com/artist/5aoT8gj20bt8UN42nzbAHh"
-        },
-        {
-          "name": "EZG",
-          "url": "https://open.spotify.com/artist/19a4917FBnuYz90ezDrKv4"
-        }
-      ],
-      "duration_ms": 220950,
-      "name": "Kamikaze",
-      "url": "https://open.spotify.com/track/3BaGQ8tsutNrim7MGWBjbC"
     },
     {
       "added_at": "2025-06-02 11:16:04",
@@ -871,26 +871,6 @@
     {
       "added_at": "2025-06-02 11:16:04",
       "album": {
-        "name": "13th Hour",
-        "url": "https://open.spotify.com/album/3o1ZBqfs69XWB4JvEyLRUG"
-      },
-      "artists": [
-        {
-          "name": "D'ort",
-          "url": "https://open.spotify.com/artist/7H96PqbTkVRtQTdBNtiljh"
-        },
-        {
-          "name": "Jiyagi",
-          "url": "https://open.spotify.com/artist/1W62M2K9f0mwHdXhtywK4l"
-        }
-      ],
-      "duration_ms": 161999,
-      "name": "13th Hour",
-      "url": "https://open.spotify.com/track/1rgdTcDjGjOLW1apRVcIA7"
-    },
-    {
-      "added_at": "2025-06-02 11:16:04",
-      "album": {
         "name": "Bounce To This (Official Bounce Anthem 2024)",
         "url": "https://open.spotify.com/album/0JXxPzx1VLj9K59oWSW5AR"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 196800,
       "name": "Bounce To This - Official Bounce Anthem 2024",
       "url": "https://open.spotify.com/track/67sXGYP0pSj9CM8cb3BFeX"
+    },
+    {
+      "added_at": "2025-06-02 11:16:04",
+      "album": {
+        "name": "13th Hour",
+        "url": "https://open.spotify.com/album/3o1ZBqfs69XWB4JvEyLRUG"
+      },
+      "artists": [
+        {
+          "name": "D'ort",
+          "url": "https://open.spotify.com/artist/7H96PqbTkVRtQTdBNtiljh"
+        },
+        {
+          "name": "Jiyagi",
+          "url": "https://open.spotify.com/artist/1W62M2K9f0mwHdXhtywK4l"
+        }
+      ],
+      "duration_ms": 161999,
+      "name": "13th Hour",
+      "url": "https://open.spotify.com/track/1rgdTcDjGjOLW1apRVcIA7"
     },
     {
       "added_at": "2025-06-02 11:16:04",

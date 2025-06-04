@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUakt2wHhaeT.md) - [plain]
 
 > The best songs from the new shows and the buzziest hits\. Cover: SMASH
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,548 likes - 55 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,549 likes - 55 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUakt2wHhaeT.md) - [plain]
 | 54 | [Done For](https://open.spotify.com/track/3MfTo3Q0ZCrhCsQJZ8u6iZ) | [Jorge Rivera\-Herrans](https://open.spotify.com/artist/2kdmTOXncgNHSuYVMhdd5I), [Talya Sindel](https://open.spotify.com/artist/2cjhj5CXQPAr8nHi0Sd8fz) | [EPIC: The Circe Saga \(Official Concept Album\)](https://open.spotify.com/album/5a3uE0AyEWhLumIHo9WkWN) | 2:27 |
 | 55 | [Feel Like This](https://open.spotify.com/track/7i07v9Uf3jgHcSh2D2Zkjn) | [Jonny Amies](https://open.spotify.com/artist/2JY5SABZuugEGP21u683ye), [The Little Big Things](https://open.spotify.com/artist/5Z72Rl23lcZZ8ipkWfLcnw) | [The Little Big Things \(Original West End Cast Recording\)](https://open.spotify.com/album/7FUdcVrbpNnC6mDEqwNeHn) | 3:22 |
 
-Snapshot ID: `aC/y6gAAAACqOqONFZqbA18x3FlhK56R`
+Snapshot ID: `AAAAAFTbLnO5AzLhfovArCUMVTW2Ha4I`

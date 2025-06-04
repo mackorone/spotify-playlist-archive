@@ -4,7 +4,7 @@
 
 > Gentle instrumental covers of known songs.
 
-626 songs - 1 day 7 hr 50 min
+630 songs - 1 day 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [Ghost](https://open.spotify.com/track/7DCs0VpiINdXfpz8VgC4sD) | [Jennifer Toledo](https://open.spotify.com/artist/6r0yeyjdGpvfPhPVeaq877) | [Ghost](https://open.spotify.com/album/7Fq1BHzu1qsdmUsIGMrJU2) | 2:34 | 2023-11-17 |  |
 | [Ghost Again](https://open.spotify.com/track/0dTy1UqD6BblPJtTFXVheS) | [Rita May](https://open.spotify.com/artist/7aHv2HgCuDTe3VU99UWkLm) | [Ghosts Again](https://open.spotify.com/album/6xTKawI8bmXF7IN23OQ1ym) | 4:10 | 2023-04-28 |  |
 | [Girl on fire](https://open.spotify.com/track/4IuATSvO2qXkgTRuHC8LYq) | [Taylor Stone](https://open.spotify.com/artist/4RG7tWsxcGEyY5EtLKW4X7) | [Girl on fire](https://open.spotify.com/album/2zOAwVXSVxjxbp74MFl1oQ) | 3:32 | 2023-04-14 |  |
+| [Girls Just Wanna Have Fun](https://open.spotify.com/track/6dOoalWQfgbn4SC4mJb3NV) | [Samantha Foster](https://open.spotify.com/artist/0YBUHAWLRIYv0e1aTE6lJx) | [Girls Just Wanna Have Fun](https://open.spotify.com/album/0FrdR2uZtbCOFCl6qgt5AM) | 2:32 | 2025-06-03 |  |
 | [Glimpse of Us](https://open.spotify.com/track/65XhsRgziVdrFepq8HxMWv) | [Missy Styles](https://open.spotify.com/artist/0vWkhydunTgnAEyMOV2NFj) | [Glimpse of Us](https://open.spotify.com/album/3X5wz8QMdsBu1jEOni8xAL) | 3:11 | 2022-12-02 | 2025-02-15 |
 | [Glimpse Of Us](https://open.spotify.com/track/3abibsY2agRmaw2lAHC7Cu) | [Sunshine Piano](https://open.spotify.com/artist/7oUNbKpGsnj1jo0oPLV1JT) | [Glimpse Of Us](https://open.spotify.com/album/0NSYtRGshPfeN5uFPx03pa) | 2:22 | 2022-09-05 | 2022-12-02 |
 | [Go your own way](https://open.spotify.com/track/16pcdSTB0XzKh0fDa2bqHt) | [Anissa Henderson](https://open.spotify.com/artist/7hWN9tSQOmj0pafX5UWsjE) | [Somewhere only we know](https://open.spotify.com/album/7sTmrR8KKOUvFIM1RgeSbx) | 3:02 | 2022-12-02 | 2024-11-09 |
@@ -295,6 +296,7 @@
 | [Imagine](https://open.spotify.com/track/0JWLHBuJtbbR9ycmxVvmu7) | [Walter Penn](https://open.spotify.com/artist/2CWnlvisVPTCncNKI0k3U9) | [Imagine](https://open.spotify.com/album/4eXY3l7p4tlcSopoPBBUQ6) | 2:23 | 2023-01-20 |  |
 | [In My Life](https://open.spotify.com/track/1lht5O6NWqeXzlG1cpf2si) | [Jason Lumen](https://open.spotify.com/artist/071OvtGYQ4tEbj8YMxN0du) | [In My Life](https://open.spotify.com/album/3DRRgwbS1VFuoIn1tyMUUt) | 2:51 | 2023-03-17 |  |
 | [In The Air Tonight](https://open.spotify.com/track/6NTdYJI8jF1fsIg9VBz15H) | [Saken Ball](https://open.spotify.com/artist/20APR8hr4zLQDIqGRCBZs9) | [In The Air Tonight](https://open.spotify.com/album/21IBJizjTDWLzK0NDf8J6w) | 3:51 | 2022-06-08 | 2023-03-18 |
+| [In The Stars](https://open.spotify.com/track/5ag98t2kFpZmtUOtJRECE2) | [Lana Jax](https://open.spotify.com/artist/099eQJfZHFRrXejOGPzGY3) | [In The Stars](https://open.spotify.com/album/2fiDcQIOOYhDKkJRgnF4Gi) | 3:18 | 2025-06-03 |  |
 | [In The Wee Small Hours Of The Morning](https://open.spotify.com/track/4J0oxow7HyeyOkM1ZGdnLP) | [Milad Greenland](https://open.spotify.com/artist/72SSLPJ7pQvCRIGGscVrnr) | [In The Wee Small Hours Of The Morning](https://open.spotify.com/album/6jTDr4TpAN3rCnRlfP9qt5) | 1:58 | 2023-04-28 | 2023-06-03 |
 | [In Your Eyes](https://open.spotify.com/track/5W6zXdPsiOog0v4k8IuWNK) | [Fileas Aunad](https://open.spotify.com/artist/4mqtOkMvlltg6gGDEVNsN7) | [In Your Eyes](https://open.spotify.com/album/1W2qb46rf1tenU6ZA0LQuS) | 3:13 | 2023-03-17 |  |
 | [INDUSTRY BABY](https://open.spotify.com/track/551IYhuA3GdDy35qn0VAjL) | [Loftet](https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12) | [INDUSTRY BABY](https://open.spotify.com/album/4aUWDI0XA6M75Yfu3LD7tr) | 2:32 | 2022-12-02 | 2023-06-03 |
@@ -388,6 +390,7 @@
 | [Night Changes](https://open.spotify.com/track/5PgHmtuPjhreShfiZXK6mH) | [Vic Carnes](https://open.spotify.com/artist/3b0FZ0avKzKFw9ZEJacpx0) | [Night Changes](https://open.spotify.com/album/0XScF6kh4dPuFX757xUyZF) | 3:23 | 2023-11-17 |  |
 | [Nights in white satin](https://open.spotify.com/track/2j8e5FzNDN1Qs0mAcCUzgN) | [Winston Brey](https://open.spotify.com/artist/5PTB02QceIVI0Fogokj6v7) | [Nights in white satin](https://open.spotify.com/album/4PO6LHupf2iLLOP13enrOl) | 2:06 | 2023-09-22 |  |
 | [No Surprises](https://open.spotify.com/track/51sVrKfRknbj5PGg3dVspr) | [Odette Pineda](https://open.spotify.com/artist/2Eiqzzb4kGdlWttizRLpaw) | [No Surprises](https://open.spotify.com/album/4xge3Hsn6XDhchQEElHkG9) | 3:38 | 2023-04-14 |  |
+| [No Woman No Cry](https://open.spotify.com/track/3cFLrjyNb9NGJITwPZdDlb) | [Man In The Moon](https://open.spotify.com/artist/6BTjmaexyRi0mmlipQ2Dnz) | [No Woman No Cry](https://open.spotify.com/album/1N5KfOFp3G7AJ2oIHnGvj1) | 3:54 | 2025-06-03 |  |
 | [Nothing Compares 2 U](https://open.spotify.com/track/0rPLpzCJKIwMkM5GHZNm4F) | [Isobel Fontenay](https://open.spotify.com/artist/17qS41Pzc9yp8aOWJiey0Z) | [Nothing Compares 2 U](https://open.spotify.com/album/2DNhkwLs1DMGYrQjBbamuF) | 3:13 | 2022-01-21 | 2023-04-29 |
 | [Nothing Compares to You](https://open.spotify.com/track/1Y1EQY6SvWIelDrbGPoGTO) | [Rhys Wells](https://open.spotify.com/artist/4im1JHdAIz4yOsjizlGZzt) | [Nothing Compares to You](https://open.spotify.com/album/3MKo4eOVqTJeokHlNJ6UMh) | 2:58 | 2023-10-20 |  |
 | [Nothing's Gonna Change My Love for You](https://open.spotify.com/track/0tSC38lQ2G9GKYZJ0C4WEM) | [Luis Diseminado](https://open.spotify.com/artist/7HxrZhLg59A2fZKgDWbebz) | [Nothing's Gonna Change My Love for You](https://open.spotify.com/album/0jFZAaQyoXkD0Orn05x8OU) | 3:10 | 2024-03-01 |  |
@@ -547,6 +550,7 @@
 | [Tiny Dancer](https://open.spotify.com/track/3KGkRYOsnZ8eQSRITbcVpq) | [Alexander Gresham](https://open.spotify.com/artist/3oF3p8Hna0Ly0WWrnseRNN) | [Tiny Dancer](https://open.spotify.com/album/0x1kRSsUT2O14cz9hvR66N) | 3:11 | 2025-02-14 |  |
 | [Titanium](https://open.spotify.com/track/7HpOhVbSYn8BNAEiSdvTFv) | [Chloe Welch](https://open.spotify.com/artist/3KLQ9EVYCMPlY6e8qCagzD) | [Titanium](https://open.spotify.com/album/02eiU5EW1pa8QDg7mczqPk) | 2:34 | 2023-01-20 |  |
 | [Too Good At Goodbyes](https://open.spotify.com/track/22pfvS6erjOrnAWrPpKyaO) | [Moelizi](https://open.spotify.com/artist/3Ai64gmUdBby8LEa6HRWEJ) | [Too Good At Goodbyes](https://open.spotify.com/album/7qqJJIUinG6YGnTqsRiFuc) | 3:04 | 2022-09-30 |  |
+| [Too Good At Goodbyes](https://open.spotify.com/track/0IUnaP0Oov12pWc6xkFN9u) | [Saken Ball](https://open.spotify.com/artist/20APR8hr4zLQDIqGRCBZs9) | [Too Good At Goodbyes](https://open.spotify.com/album/25L7uxEVbeCdbo3sTQCtXh) | 3:07 | 2025-06-03 |  |
 | [Top Gun Anthem](https://open.spotify.com/track/7AzvPbLe8PdckwzQ2QUGOp) | [Mario Cabrera](https://open.spotify.com/artist/2jxGXKxdhbWgtylGviMHZh) | [Top Gun Anthem](https://open.spotify.com/album/0EO7Sx80EQEl2ZfgKmM6sY) | 2:59 | 2022-09-30 | 2023-02-10 |
 | [Top Gun Anthem](https://open.spotify.com/track/4b8s8t43DOjfR4kTttvQ21) | [Tim Raymond](https://open.spotify.com/artist/4kYHqjNdzbIyg2EsqY0nWe) | [Top Gun Anthem](https://open.spotify.com/album/6MHmSIIGEWdoTTuQRyyCZf) | 2:40 | 2023-04-14 | 2023-06-16 |
 | [Torn](https://open.spotify.com/track/1Lr1cw5eLWcX7pcVu0WUfR) | [Brennan Lynch](https://open.spotify.com/artist/17pyV0hn7BcEd4esh9GvHX) | [Torn](https://open.spotify.com/album/5xmSaUNIPXxsjg8hZLyPPj) | 2:55 | 2023-04-14 | 2023-06-09 |

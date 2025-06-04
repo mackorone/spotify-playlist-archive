@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-21",
-  "description": "\u9019\u4e9b\u6b4c\u9084\u5f88\u7d05\u4e5f\uff01\u5df2\u7d93\u6709\u5169\u4e09\u5e74\u4e86\uff1f\u9ad8\u4eba\u6c23\u91d1\u66f2\u8b93\u4f60\u4e00\u8def\u807d\u4e0b\u53bb\uff01Cover: \u5c31\u4ee5\u65af (JOYCE)",
+  "description": "\u9019\u4e9b\u6b4c\u9084\u5f88\u7d05\u4e5f\uff01\u5df2\u7d93\u4e0d\u53ea\u4e00\u5e74\u4e86\uff1f\u9ad8\u4eba\u6c23\u91d1\u66f2\u8b93\u4f60\u4e00\u8def\u807d\u4e0b\u53bb\uff01Cover: \u52d5\u529b\u706b\u8eca (Power Station)",
   "name": "\u9ad8\u4eba\u6c23\u91d1\u66f2",
   "tracks": [
     {
@@ -2522,7 +2522,7 @@
       ],
       "date_added": "2025-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 222750,
       "name": "\u60f3\u4e86\u59b3\uff16\u6b21",
       "url": "https://open.spotify.com/track/3bUqboGbgoKR2JMnojkpgf"
@@ -2926,7 +2926,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 166010,
       "name": "\u6211\u671f\u5f85\u7684\u4e0d\u662f\u96ea (\u800c\u662f\u6709\u4f60\u7684\u51ac\u5929)",
       "url": "https://open.spotify.com/track/5DO7rqTWMnC9Q7pB4PtfWR"
@@ -3222,7 +3222,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-15",
+      "date_removed": null,
       "duration_ms": 253026,
       "name": "\u6700\u7b28\u7684\u601d\u5ff5",
       "url": "https://open.spotify.com/track/1ad7DutOiTpbcSGTuyJkGu"
@@ -3565,6 +3565,24 @@
     },
     {
       "album": {
+        "name": "\u73ab\u7470\u5c11\u5e74 - From THE FIRST TAKE",
+        "url": "https://open.spotify.com/album/5o0kzdpGdsavvzBjhQTdkH"
+      },
+      "artists": [
+        {
+          "name": "JOLIN",
+          "url": "https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL"
+        }
+      ],
+      "date_added": "2025-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195032,
+      "name": "\u73ab\u7470\u5c11\u5e74 - From THE FIRST TAKE",
+      "url": "https://open.spotify.com/track/4UOZ3duqmEfMKXqvkZeboh"
+    },
+    {
+      "album": {
         "name": "\u73fe\u5728\u662f\u4ec0\u9ebc\u6642\u8fb0\u4e86",
         "url": "https://open.spotify.com/album/087F57aCMcaiIh4HUX9GcE"
       },
@@ -3594,7 +3612,7 @@
       ],
       "date_added": "2025-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 241832,
       "name": "\u7537\u4eba\u554a",
       "url": "https://open.spotify.com/track/2eOxchn7qR1VjGFRJyQqK3"
@@ -3724,7 +3742,7 @@
       ],
       "date_added": "2025-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 275570,
       "name": "\u76f8\u6fe1\u4ee5\u6cab (Netflix\u5f71\u96c6\u300a\u611b\u611b\u5167\u542b\u5149\u300b\u4e3b\u984c\u66f2)",
       "url": "https://open.spotify.com/track/21uMmwh6LWCYMZsBpvK8pT"
@@ -3926,6 +3944,28 @@
       "duration_ms": 186506,
       "name": "\u7f38",
       "url": "https://open.spotify.com/track/2OL3D6q6Qs1PY0NV3u4dNu"
+    },
+    {
+      "album": {
+        "name": "\u8056\u8a95\u661f (feat. \u694a\u745e\u4ee3)",
+        "url": "https://open.spotify.com/album/4rg2QiBWFYBzKtdcJeHnP7"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        },
+        {
+          "name": "Gary Yang",
+          "url": "https://open.spotify.com/artist/4iFznCrxI2nlVer46cgvWG"
+        }
+      ],
+      "date_added": "2025-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182727,
+      "name": "\u8056\u8a95\u661f (feat. \u694a\u745e\u4ee3)",
+      "url": "https://open.spotify.com/track/6IHerlmqWsMK5pfEGMBnAY"
     },
     {
       "album": {
@@ -4400,7 +4440,7 @@
       ],
       "date_added": "2025-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 204214,
       "name": "\u8f7b\u5524\u4f60\u7684\u540d\u5b57",
       "url": "https://open.spotify.com/track/3ooeTC9M6tgvfCkFfLLTR9"
@@ -4534,6 +4574,28 @@
       "duration_ms": 265813,
       "name": "\u9084\u5728\u6d41\u6d6a",
       "url": "https://open.spotify.com/track/0ATZVWuix4MxihrbCnZBfy"
+    },
+    {
+      "album": {
+        "name": "\u65e5\u8207\u591c\uff0c\u8ddf\u81ea\u5df1\u8aaa\u665a\u5b89",
+        "url": "https://open.spotify.com/album/6eZ6GBoYL3HAezneabIq49"
+      },
+      "artists": [
+        {
+          "name": "Della",
+          "url": "https://open.spotify.com/artist/1EUq1MC4vfYYxcVK9aJnXf"
+        },
+        {
+          "name": "\u9e8b\u5148\u751f \u8056\u7693",
+          "url": "https://open.spotify.com/artist/2f4KWRo28DeC9ejEfJdL5E"
+        }
+      ],
+      "date_added": "2025-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261213,
+      "name": "\u9084\u662f\u731c\u4e0d\u900f\u7684\u4eba (feat.\u9e8b\u5148\u751f \u8056\u7693)",
+      "url": "https://open.spotify.com/track/4YxDyhzQJ5UbQoyZxuMi6q"
     },
     {
       "album": {
@@ -4758,6 +4820,24 @@
       "duration_ms": 227307,
       "name": "\u9858\u4f60\u5feb\u6a02\u8207\u6211\u6709\u95dc",
       "url": "https://open.spotify.com/track/5A8tNprmuwjPEVSkgCdoWz"
+    },
+    {
+      "album": {
+        "name": "BAD HABITS",
+        "url": "https://open.spotify.com/album/4Ch2nOdim0blFYGm9H8ahM"
+      },
+      "artists": [
+        {
+          "name": "Ella Chen",
+          "url": "https://open.spotify.com/artist/1DNci4XjJlglg629j3yO5n"
+        }
+      ],
+      "date_added": "2025-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235146,
+      "name": "\u9858\u671b\u6e05\u55ae",
+      "url": "https://open.spotify.com/track/33dPneq32ukOurEHgkqulN"
     },
     {
       "album": {

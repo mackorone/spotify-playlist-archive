@@ -1787,24 +1787,6 @@
     },
     {
       "album": {
-        "name": "Axe - \u015eeker O\u011flan",
-        "url": "https://open.spotify.com/album/4lONUWHJE5G4Bd4tjyR8Ar"
-      },
-      "artists": [
-        {
-          "name": "cakal",
-          "url": "https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2"
-        }
-      ],
-      "date_added": "2025-05-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 132589,
-      "name": "Axe - \u015eeker O\u011flan",
-      "url": "https://open.spotify.com/track/7wqZCecEsVapxvvTY6Xhl3"
-    },
-    {
-      "album": {
         "name": "Ayak \u0130zi",
         "url": "https://open.spotify.com/album/4uT07SIj336XzBB41JmFmk"
       },
@@ -4683,7 +4665,7 @@
     },
     {
       "album": {
-        "name": "Bu Gece \u0130stanbul'da (feat. Ya\u015far)",
+        "name": "Bu Gece \u0130stanbul'da",
         "url": "https://open.spotify.com/album/0btaRzZJNgq63ujEHmTp8t"
       },
       "artists": [
@@ -27812,6 +27794,24 @@
       "duration_ms": 166101,
       "name": "\u015eehrin \u00dcst\u00fcnde",
       "url": "https://open.spotify.com/track/6S3Yzdc9oqkjEimXeaADQ0"
+    },
+    {
+      "album": {
+        "name": "\u015eeker O\u011flan",
+        "url": "https://open.spotify.com/album/4lONUWHJE5G4Bd4tjyR8Ar"
+      },
+      "artists": [
+        {
+          "name": "cakal",
+          "url": "https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132589,
+      "name": "\u015eeker O\u011flan",
+      "url": "https://open.spotify.com/track/7wqZCecEsVapxvvTY6Xhl3"
     },
     {
       "album": {

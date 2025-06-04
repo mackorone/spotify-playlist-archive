@@ -4,7 +4,7 @@
 
 > Creators que você precisa ter no RADAR\. Capa: <a href="spotify:show:1QrMXzBqJt5WAlzCsUmHNu">Estavu Show</a>
 
-139 songs - 3 day 22 hr 5 min
+140 songs - 3 day 22 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [MÃES SUFICIENTEMENTE NARCISISTAS](https://open.spotify.com/episode/47NORZdLle3IBHkCBVkx1z) | [vibes em análise](https://open.spotify.com/show/42CNqtkx9yd1cIg0E6E9rL) | [vibes em análise](https://open.spotify.com/album/42CNqtkx9yd1cIg0E6E9rL) | 1:09:56 | 2024-07-31 | 2024-09-03 |
 | [Nem os céticos conseguem explicar esse caso](https://open.spotify.com/episode/5UX83Zgw6wHlfL0jPSshBX) | [Assustador, Bizarro e Misterioso](https://open.spotify.com/show/6bSPrd8qTvWFk6e2NtZBbR) | [Assustador, Bizarro e Misterioso](https://open.spotify.com/album/6bSPrd8qTvWFk6e2NtZBbR) | 20:54 | 2024-09-02 | 2024-10-02 |
 | [nunca parece ser o suficiente](https://open.spotify.com/episode/41v42mKfPz2BDtHSRq4CyQ) | [fiz o que pude ¯\\\_\(ツ\)\_/¯ ](https://open.spotify.com/show/6yTHTc5kaZj85vstsFV7GP) | [fiz o que pude ¯\\\_\(ツ\)\_/¯ ](https://open.spotify.com/album/6yTHTc5kaZj85vstsFV7GP) | 17:51 | 2025-05-01 | 2025-06-03 |
+| [Não vai comer cookies, hein](https://open.spotify.com/episode/61typkCQwXUcr3BaKSTx2i) | [Assustador, Bizarro e Misterioso](https://open.spotify.com/show/6bSPrd8qTvWFk6e2NtZBbR) | [Assustador, Bizarro e Misterioso](https://open.spotify.com/album/6bSPrd8qTvWFk6e2NtZBbR) | 16:38 | 2025-06-02 |  |
 | [O JOVEM BRUXO CHAMADO NEIL GOBLE \- Histórias pra Adulto Dormir \(Som de Tempestade\)](https://open.spotify.com/episode/61iMn6OjTS2pTFYBC3ukir) | [Histórias pra adulto dormir](https://open.spotify.com/show/10naLy8QHctu1ODM0BqxEt) | [Histórias pra adulto dormir](https://open.spotify.com/album/10naLy8QHctu1ODM0BqxEt) | 15:15 | 2024-09-02 | 2024-10-02 |
 | [O MAL\-AMADO \- Histórias pra Adulto Dormir](https://open.spotify.com/episode/5QlAv3wWjyAowtLlx8qsej) | [Histórias pra adulto dormir](https://open.spotify.com/show/10naLy8QHctu1ODM0BqxEt) | [Histórias pra adulto dormir](https://open.spotify.com/album/10naLy8QHctu1ODM0BqxEt) | 17:07 | 2024-06-28 | 2024-08-01 |
 | [o medo de perder tudo](https://open.spotify.com/episode/5XFx8pIWOsny8bFMR5dX3Z) | [Colo de amiga por @sofidisse](https://open.spotify.com/show/5j7Xq0NEDtSOahTZK3bVLc) | [Colo de amiga por @sofidisse](https://open.spotify.com/album/5j7Xq0NEDtSOahTZK3bVLc) | 31:23 | 2025-05-01 | 2025-06-03 |

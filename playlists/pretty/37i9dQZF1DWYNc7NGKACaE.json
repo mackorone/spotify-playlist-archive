@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 84727,
+  "num_followers": 84729,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
@@ -551,26 +551,6 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
-        "name": "Kill Bill - Speed",
-        "url": "https://open.spotify.com/album/65EoSVA4XRpos1EZEgu2KB"
-      },
-      "artists": [
-        {
-          "name": "Cabrxlzin",
-          "url": "https://open.spotify.com/artist/72ZS9JdFcROgzmTG2jmhkF"
-        },
-        {
-          "name": "\u00e9oTGL",
-          "url": "https://open.spotify.com/artist/5h32OOrRYLBSUfE7COLjfx"
-        }
-      ],
-      "duration_ms": 88068,
-      "name": "Kill Bill - Speed",
-      "url": "https://open.spotify.com/track/2BFlLdo7yye9ZNXlCo3xbS"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
         "name": "Joga na Cara (Vers\u00e3o Speed)",
         "url": "https://open.spotify.com/album/2Lh5XIcVNQdd8Dq2lglDGo"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 97714,
       "name": "Joga na Cara (Vers\u00e3o Speed)",
       "url": "https://open.spotify.com/track/1pVFSyBX7zVzZtcI5a9y5z"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
+        "name": "Kill Bill - Speed",
+        "url": "https://open.spotify.com/album/65EoSVA4XRpos1EZEgu2KB"
+      },
+      "artists": [
+        {
+          "name": "Cabrxlzin",
+          "url": "https://open.spotify.com/artist/72ZS9JdFcROgzmTG2jmhkF"
+        },
+        {
+          "name": "\u00e9oTGL",
+          "url": "https://open.spotify.com/artist/5h32OOrRYLBSUfE7COLjfx"
+        }
+      ],
+      "duration_ms": 88068,
+      "name": "Kill Bill - Speed",
+      "url": "https://open.spotify.com/track/2BFlLdo7yye9ZNXlCo3xbS"
     },
     {
       "added_at": "2024-07-08 19:10:57",

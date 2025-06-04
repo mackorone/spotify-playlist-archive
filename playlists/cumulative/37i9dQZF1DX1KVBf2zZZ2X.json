@@ -844,7 +844,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 187250,
       "name": "Compassion",
       "url": "https://open.spotify.com/track/5tfjNUVtd6wbHnIwGUuHA8"
@@ -1226,6 +1226,24 @@
       "duration_ms": 129750,
       "name": "Evening meditation",
       "url": "https://open.spotify.com/track/3hk0ICZCX8X0xGvel6hkyj"
+    },
+    {
+      "album": {
+        "name": "Far Away",
+        "url": "https://open.spotify.com/album/1i1qbq7Toqfq84FClzRrUK"
+      },
+      "artists": [
+        {
+          "name": "Ani",
+          "url": "https://open.spotify.com/artist/3W5apiMDqy6v6ai4tP3SkX"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169342,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/3vnJ6sp5LZC3FrvWovd1Bn"
     },
     {
       "album": {

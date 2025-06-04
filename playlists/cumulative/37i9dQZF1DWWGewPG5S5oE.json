@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-09",
-  "description": "\u65e5\u672c\u306e\u73fe\u4ee3\u30b8\u30e3\u30ba\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002 cover: H ZETTRIO",
+  "description": "\u65e5\u672c\u306e\u73fe\u4ee3\u30b8\u30e3\u30ba\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002 cover: 4Aces",
   "name": "Modern Jazz Japan",
   "tracks": [
     {
@@ -636,7 +636,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 377533,
       "name": "Balloon Pop",
       "url": "https://open.spotify.com/track/2mv2NSOOvCWnWw1THcueTu"
@@ -2210,7 +2210,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 465000,
       "name": "FIRST NOTE",
       "url": "https://open.spotify.com/track/03IckTW2qNaWUvrOHtuYhL"
@@ -2610,6 +2610,24 @@
       "duration_ms": 190430,
       "name": "Hatsukoi no Akuma -Dance With The Devil-",
       "url": "https://open.spotify.com/track/0xP8UvYMtR5LGq3tsJ1JO3"
+    },
+    {
+      "album": {
+        "name": "TAPES of ACES - Side B",
+        "url": "https://open.spotify.com/album/4GWw6OkGV9ma2g9tgXcICQ"
+      },
+      "artists": [
+        {
+          "name": "4Aces",
+          "url": "https://open.spotify.com/artist/0cGZA2kMIfhG2EJ4O6cIoL"
+        }
+      ],
+      "date_added": "2025-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235392,
+      "name": "Hayai",
+      "url": "https://open.spotify.com/track/0r2do7LTucZoqeK7eKgiM1"
     },
     {
       "album": {
@@ -4146,7 +4164,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-02",
+      "date_removed": null,
       "duration_ms": 230057,
       "name": "Night flight",
       "url": "https://open.spotify.com/track/0C6V5RSz6pdfc2WE8NOsJk"
@@ -4958,7 +4976,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-27",
+      "date_removed": null,
       "duration_ms": 258183,
       "name": "Rhapsody in Summer",
       "url": "https://open.spotify.com/track/23qk2CJ5m5Qw4X5xWAC3E6"
@@ -5306,7 +5324,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 250079,
       "name": "Silent Dancer",
       "url": "https://open.spotify.com/track/6QePiHLvjWrVITs8ddewDG"
@@ -5638,7 +5656,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-19",
+      "date_removed": null,
       "duration_ms": 342146,
       "name": "STEPS OF THE BLUE",
       "url": "https://open.spotify.com/track/5gF1MiHJNecYAu3wQyGdne"
@@ -6402,7 +6420,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 258663,
       "name": "Tokyo",
       "url": "https://open.spotify.com/track/1KurCtUeLJhAYsHNhyOFJP"

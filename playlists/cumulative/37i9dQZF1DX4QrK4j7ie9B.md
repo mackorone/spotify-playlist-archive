@@ -4,7 +4,7 @@
 
 > The ultimate classical playlist for post\-workout stretching, meditation and mindfulness.
 
-78 songs - 5 hr 27 min
+79 songs - 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Naive Music: No\. 2, Nocturne](https://open.spotify.com/track/1D1PqVxn8ZzeMA66T7mS1o) | [Valentin Silvestrov](https://open.spotify.com/artist/1bauOA5U5M3RwH2euX3Eq6), [Elisaveta Blumina](https://open.spotify.com/artist/2PfSqNvD6yUMeq9krR7X3g) | [Silvestrov: Piano Music](https://open.spotify.com/album/5YKfDffKCC2f5vmeljPWv2) | 2:35 | 2021-03-18 |  |
 | [Naive Music: No\. 2\. Nocturne](https://open.spotify.com/track/1Px3T30V89JCSKZkgyAb4W) | [Valentin Silvestrov](https://open.spotify.com/artist/1bauOA5U5M3RwH2euX3Eq6), [Elisaveta Blumina](https://open.spotify.com/artist/2PfSqNvD6yUMeq9krR7X3g) | [Silvestrov: Piano Music](https://open.spotify.com/album/0MF4s1iTa2la59V01TGEgW) | 2:35 | 2021-03-18 | 2024-04-19 |
 | [Night Wave \- Julien Marchal Remix](https://open.spotify.com/track/1UrTS3o13421j7Wq5EKJr0) | [Zeb Samuels](https://open.spotify.com/artist/4tNpitVfhjvN9Jov2ruIjS), [Julien Marchal](https://open.spotify.com/artist/7e4AmALFiKR69Xra2EksPU) | [Night Wave](https://open.spotify.com/album/0x5Cu6bkvrKDZbgCM8HAf0) | 4:43 | 2021-03-18 |  |
+| [Nowhere Again, Kinder](https://open.spotify.com/track/0FWmFX1gjFYM54jKEFtcW3) | [Snorri Hallgrímsson](https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs) | [Nowhere Again, Kinder](https://open.spotify.com/album/4f3OMmwhteWPpnZVBPfrqI) | 3:01 | 2025-06-03 |  |
 | [On the Nature of Daylight](https://open.spotify.com/track/56oReVXIfUO9xkX7pHmEU0) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Louisa Fuller](https://open.spotify.com/artist/557AjoqV9wVpa8vO2k4wuJ), [Natalia Bonner](https://open.spotify.com/artist/4d6eKLLJbe2ZeiL07Du7vB), [John Metcalfe](https://open.spotify.com/artist/6s8AUvcmf2fp0Kh7PctPnd), [Philip Sheppard](https://open.spotify.com/artist/6qzi6mPoJU4cBlO76U1Il1), [Chris Worsey](https://open.spotify.com/artist/33TpuAICGC2gekoZZDDZhE) | [The Blue Notebooks \(15 Years\)](https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo) | 6:11 | 2021-03-18 |  |
 | [Orchestral Suite No\. 3 in D Major, BWV 1068: II\. Air "On a G String" \(Arr\. for Piano\)](https://open.spotify.com/track/4WH081NcZkk93PVK2S3q5N) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Romance](https://open.spotify.com/album/4TnEt9eadhYke8xi04QG22) | 5:28 | 2021-03-18 |  |
 | [Orfeo ed Euridice, Act II: Dance of the Blessed Spirits, "Mélodie" \(arr\. I\. Friedman for piano\)](https://open.spotify.com/track/3xIu6hYXz0gTjJtmGu60M8) | [Ignaz Friedman](https://open.spotify.com/artist/5AKZimIhSv9dORIVH1MChg), [Christoph Willibald Gluck](https://open.spotify.com/artist/7vfydQ0nVBVgJ0ajs8EtRM), [Joseph Banowetz](https://open.spotify.com/artist/0ufn7M4jawS5MQ03CIluFo) | [Friedman: Piano Transcriptions](https://open.spotify.com/album/4L8tF28TUH4Ude4IEhMH1b) | 4:11 | 2021-03-18 | 2024-04-19 |

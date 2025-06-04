@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Mt\. Joy
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,279 likes - 90 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,293 likes - 90 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 | 89 | [You \(find love\)](https://open.spotify.com/track/5RUzMmosI7RUfxCZJoEkz2) | [EASY EASY](https://open.spotify.com/artist/7EflARVegRjDm9gcQOSQjT) | [You \(find love\)](https://open.spotify.com/album/49tWMJw5UWC596GJFAamWS) | 3:37 |
 | 90 | [Stars And Sons](https://open.spotify.com/track/17r1eCC7OwNOrxrzMT9Yp1) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Stars And Sons / Almost Crimes](https://open.spotify.com/album/0rTfdnqZBNLNqebyomwhTF) | 4:28 |
 
-Snapshot ID: `aDmDdwAAAABe4mm+X8Ff58Jlf8B6bEHn`
+Snapshot ID: `AAAAAKGetxNhnab7YHVDdviaiK/VK06r`

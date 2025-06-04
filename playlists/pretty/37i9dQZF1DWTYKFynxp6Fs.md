@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTYKFynxp6Fs.md) - [plain]
 
 > Every song that's Trending NOW from Malayalam! <br/>Cover: Rifle Club
 
-[Spotify](https://open.spotify.com/user/spotify) - 464,196 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 464,472 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTYKFynxp6Fs.md) - [plain]
 | 3 | [Kanmanipoove \(From "Thudarum"\)](https://open.spotify.com/track/3AAJmTVOJS55CpYFiCnXVh) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt), [M\. G\. Sreekumar](https://open.spotify.com/artist/3wjaprBWmoSJn4KP9tgkxt) | [Kanmanipoove \(From "Thudarum"\)](https://open.spotify.com/album/35VA3fNZ0phKkGL4usVvz9) | 5:54 |
 | 4 | [Kannodu \- Live](https://open.spotify.com/track/5daE0LYn2yQquJ9BUTma2f) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS), [Mridula Warrier](https://open.spotify.com/artist/6XtMSGKU7YkkK8Y9ENfHeh) | [Kannodu \(Live\)](https://open.spotify.com/album/1C1whckbFcGGOUqzySzALK) | 3:37 |
 | 5 | [Santhamee Rathri](https://open.spotify.com/track/3jJpvQCe9y25vLRwoaTwvL) | [K\. J\. Yesudas](https://open.spotify.com/artist/2wPsNCwhEGb0KvChZ5DD52) | [Johny Walker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0vNuoVon5CBMw8yqg0AEo3) | 5:25 |
-| 6 | [CHAAK](https://open.spotify.com/track/75bFXmSzjxpyWDRNgsW8OQ) | [AZWIN](https://open.spotify.com/artist/79AwAZkhxUkl7fsIrYcdE8), [JOKER390P](https://open.spotify.com/artist/1IVjFQKbSitl1XikHLdxlW), [Efy Music](https://open.spotify.com/artist/1DDwkZwiamO6HSJdB6DtYY) | [CHAAK](https://open.spotify.com/album/3aszUJVOWfne09WCBb5f9r) | 2:44 |
+| 6 | [Vaada Veda \(From "Narivetta"\)](https://open.spotify.com/track/71rsifxqhk2Gd2AsfqAwDX) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt), [Vedan](https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf) | [Vaada Veda \(From "Narivetta"\)](https://open.spotify.com/album/3NWG1BlajaLq6xXGyFrckV) | 3:59 |
 | 7 | [Hope Song \- From "Sarkeet"](https://open.spotify.com/track/3y7140pwsQ8wmxGj2hQhLG) | [Govind Vasantha](https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2), [Anwar Ali](https://open.spotify.com/artist/6ccDjsU6h03TcrKOvBeiu2) | [Hope Song \(From "Sarkeet"\)](https://open.spotify.com/album/3tVFNHqPaP67LmLbxL5eXc) | 3:02 |
 | 8 | [Pacha Parishkari](https://open.spotify.com/track/1AX9IVuMQ9WThp1koU7sdY) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ), [Jay Stellar](https://open.spotify.com/artist/7xf80lxGAylsBqdiQP0mRk) | [Pacha Parishkari](https://open.spotify.com/album/1PFv6IHNN4aVjxqLNph5rG) | 2:58 |
 | 9 | [Killer On The Loose](https://open.spotify.com/track/5h5z6chD6MFiM07t0n13uK) | [Rex Vijayan](https://open.spotify.com/artist/0LbVwcfU9ifwvdgDPLgOxZ), [The Imbachi](https://open.spotify.com/artist/4ZUtfxl9eSCS2TVCirtxef) | [Rifle Club \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ljauieQ7eWxhZkn6PfxTV) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTYKFynxp6Fs.md) - [plain]
 | 49 | [Nilaavil Ellame](https://open.spotify.com/track/09KdVJCUon1OvPmST9uJKt) | [Sachin Warrier](https://open.spotify.com/artist/7wkeZcQtvDAeGvrTQO2hfK) | [Aanandam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1LclXEFqKkhF2S481SsAWs) | 3:17 |
 | 50 | [Alif](https://open.spotify.com/track/0BdsMf23c1amsuZxqqFLI0) | [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [SA](https://open.spotify.com/artist/3eaS0SB97IZ1TVFv4XiTdm), [ABRAW](https://open.spotify.com/artist/2MAFVN4H9fnFcLlPYb1T6L) | [Alif](https://open.spotify.com/album/2OG7wgIZqAxzTiUBT4zVhU) | 3:01 |
 
-Snapshot ID: `aDQQdAAAAACZyUDW/io0ui8yzQy7Hywv`
+Snapshot ID: `aD6tBQAAAADvWclXbZlWT4le/1vLNEEW`

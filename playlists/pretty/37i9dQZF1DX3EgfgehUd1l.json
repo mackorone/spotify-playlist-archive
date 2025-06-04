@@ -1,6 +1,6 @@
 {
   "description": "Vintage easy listening from the fifties...",
-  "num_followers": 174070,
+  "num_followers": 174081,
   "original_name": "Easy 50s",
   "owner": {
     "name": "Spotify",
@@ -767,6 +767,22 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
+        "name": "The Single Collection, Vol. 1",
+        "url": "https://open.spotify.com/album/1pmKZnDtUJACH85pfDAHDr"
+      },
+      "artists": [
+        {
+          "name": "The Four Preps",
+          "url": "https://open.spotify.com/artist/5MsnoFODDc5nxWrjm99Zew"
+        }
+      ],
+      "duration_ms": 143266,
+      "name": "Big Man",
+      "url": "https://open.spotify.com/track/0KayDFomB8iDyAdOpKfKTK"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
         "name": "The Best of Don Cherry",
         "url": "https://open.spotify.com/album/0hmtoNydN3gGXdxhts4Zf4"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 155066,
       "name": "Band of Gold (with Ray Conniff & His Orchestra & Chorus)",
       "url": "https://open.spotify.com/track/1cn68NZRQSnergWSf1o1hd"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
-        "name": "The Single Collection, Vol. 1",
-        "url": "https://open.spotify.com/album/1pmKZnDtUJACH85pfDAHDr"
-      },
-      "artists": [
-        {
-          "name": "The Four Preps",
-          "url": "https://open.spotify.com/artist/5MsnoFODDc5nxWrjm99Zew"
-        }
-      ],
-      "duration_ms": 143266,
-      "name": "Big Man",
-      "url": "https://open.spotify.com/track/0KayDFomB8iDyAdOpKfKTK"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Summer Holiday",
-        "url": "https://open.spotify.com/album/3qwiCEbQuOZ3UO2DO4YhIw"
-      },
-      "artists": [
-        {
-          "name": "Johnnie Ray",
-          "url": "https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq"
-        }
-      ],
-      "duration_ms": 157493,
-      "name": "Just Walkin' in the Rain",
-      "url": "https://open.spotify.com/track/5zIrB8lgWBmhHeV00mCN75"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/5W8G2sRRXvYTuuFu4Jinmc"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 149093,
       "name": "I Need You Now - 2001 Remastered",
       "url": "https://open.spotify.com/track/0gxpt81ZzaX0x72k1NOojB"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Summer Holiday",
+        "url": "https://open.spotify.com/album/3qwiCEbQuOZ3UO2DO4YhIw"
+      },
+      "artists": [
+        {
+          "name": "Johnnie Ray",
+          "url": "https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq"
+        }
+      ],
+      "duration_ms": 157493,
+      "name": "Just Walkin' in the Rain",
+      "url": "https://open.spotify.com/track/5zIrB8lgWBmhHeV00mCN75"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1063,38 +1063,18 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Very Best Of",
-        "url": "https://open.spotify.com/album/4KB7NVgy3aKibqM1VqHd84"
+        "name": "Ruby Murray - Greatest Hits",
+        "url": "https://open.spotify.com/album/5w3MZ0imkrTr5nkxy5IeWO"
       },
       "artists": [
         {
-          "name": "Perry Como",
-          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
-        },
-        {
-          "name": "Henri Ren\u00e9 & His Orchestra and Chorus",
-          "url": "https://open.spotify.com/artist/6Sf3oBWXwLFaEDDprUAc4v"
+          "name": "Ruby Murray",
+          "url": "https://open.spotify.com/artist/6b8vSsnQwT73gACLGMs0qn"
         }
       ],
-      "duration_ms": 185466,
-      "name": "Wanted (with Henri Ren\u00e9 & His Orchestra and Chorus)",
-      "url": "https://open.spotify.com/track/554BJuPGuQB8u1PKg4LBvB"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
-        "name": "Street Of Memories",
-        "url": "https://open.spotify.com/album/6PN0sBIqdjtodywtNBBzrX"
-      },
-      "artists": [
-        {
-          "name": "Johnnie Ray",
-          "url": "https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq"
-        }
-      ],
-      "duration_ms": 143506,
-      "name": "Walking My Baby Back Home",
-      "url": "https://open.spotify.com/track/0zLMXELSW0q0HvBvVLF139"
+      "duration_ms": 156373,
+      "name": "I'll Come When You Call",
+      "url": "https://open.spotify.com/track/1fuzK1I8Wi2d0lS1UPv4bG"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1115,18 +1095,38 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Ruby Murray - Greatest Hits",
-        "url": "https://open.spotify.com/album/5w3MZ0imkrTr5nkxy5IeWO"
+        "name": "Street Of Memories",
+        "url": "https://open.spotify.com/album/6PN0sBIqdjtodywtNBBzrX"
       },
       "artists": [
         {
-          "name": "Ruby Murray",
-          "url": "https://open.spotify.com/artist/6b8vSsnQwT73gACLGMs0qn"
+          "name": "Johnnie Ray",
+          "url": "https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq"
         }
       ],
-      "duration_ms": 156373,
-      "name": "I'll Come When You Call",
-      "url": "https://open.spotify.com/track/1fuzK1I8Wi2d0lS1UPv4bG"
+      "duration_ms": 143506,
+      "name": "Walking My Baby Back Home",
+      "url": "https://open.spotify.com/track/0zLMXELSW0q0HvBvVLF139"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Very Best Of",
+        "url": "https://open.spotify.com/album/4KB7NVgy3aKibqM1VqHd84"
+      },
+      "artists": [
+        {
+          "name": "Perry Como",
+          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+        },
+        {
+          "name": "Henri Ren\u00e9 & His Orchestra and Chorus",
+          "url": "https://open.spotify.com/artist/6Sf3oBWXwLFaEDDprUAc4v"
+        }
+      ],
+      "duration_ms": 185466,
+      "name": "Wanted (with Henri Ren\u00e9 & His Orchestra and Chorus)",
+      "url": "https://open.spotify.com/track/554BJuPGuQB8u1PKg4LBvB"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Trying",
-        "url": "https://open.spotify.com/album/6wNlsCkqpdsIU4CGHUgWij"
-      },
-      "artists": [
-        {
-          "name": "The Hilltoppers",
-          "url": "https://open.spotify.com/artist/6qcybypxBn4XlMcYJHhViw"
-        }
-      ],
-      "duration_ms": 165466,
-      "name": "Only You (and You Alone)",
-      "url": "https://open.spotify.com/track/6meUbywMo1j9kxiL58s6f1"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "All the Greatest Hits Ever Made, Vol. 2 (Remastered)",
         "url": "https://open.spotify.com/album/5zQ5WRP0Fp7gVZrWTVl4gR"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 170343,
       "name": "Changing Partners - Remastered",
       "url": "https://open.spotify.com/track/6xtJ7cccbNbmCiwk3NzIpB"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Trying",
+        "url": "https://open.spotify.com/album/6wNlsCkqpdsIU4CGHUgWij"
+      },
+      "artists": [
+        {
+          "name": "The Hilltoppers",
+          "url": "https://open.spotify.com/artist/6qcybypxBn4XlMcYJHhViw"
+        }
+      ],
+      "duration_ms": 165466,
+      "name": "Only You (and You Alone)",
+      "url": "https://open.spotify.com/track/6meUbywMo1j9kxiL58s6f1"
     },
     {
       "added_at": "2023-10-17 16:18:55",

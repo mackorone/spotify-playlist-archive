@@ -1,6 +1,6 @@
 {
   "description": "for the baddies.",
-  "num_followers": 339757,
+  "num_followers": 339910,
   "original_name": "ALLURE",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2025-05-23 04:00:54",
       "album": {
-        "name": "System Of A Down (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3sSfjX4fhZonjyZ10x0l0f"
-      },
-      "artists": [
-        {
-          "name": "System Of A Down",
-          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
-        }
-      ],
-      "duration_ms": 215440,
-      "name": "Spiders",
-      "url": "https://open.spotify.com/track/4vAHXnJ5YWLq5hbIVzZS1h"
-    },
-    {
-      "added_at": "2025-05-23 04:00:54",
-      "album": {
         "name": "Team Sleep (U.S. Release)",
         "url": "https://open.spotify.com/album/7BORauiIbjPkOVRzSq38DP"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 188133,
       "name": "Blvd. Nights",
       "url": "https://open.spotify.com/track/7xDAU9IAMyWjl7ia3hRxs7"
+    },
+    {
+      "added_at": "2025-05-23 04:00:54",
+      "album": {
+        "name": "System Of A Down (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3sSfjX4fhZonjyZ10x0l0f"
+      },
+      "artists": [
+        {
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+        }
+      ],
+      "duration_ms": 215440,
+      "name": "Spiders",
+      "url": "https://open.spotify.com/track/4vAHXnJ5YWLq5hbIVzZS1h"
     },
     {
       "added_at": "2025-05-23 04:00:54",
@@ -699,22 +699,6 @@
     {
       "added_at": "2025-05-23 04:00:54",
       "album": {
-        "name": "Sleepyhead",
-        "url": "https://open.spotify.com/album/16ks7N4Ur7Zz3wycIUfIMw"
-      },
-      "artists": [
-        {
-          "name": "Jutes",
-          "url": "https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4"
-        }
-      ],
-      "duration_ms": 192340,
-      "name": "Sleepyhead",
-      "url": "https://open.spotify.com/track/7qiYSGc57LcmKTdBi0J14a"
-    },
-    {
-      "added_at": "2025-05-23 04:00:54",
-      "album": {
         "name": "OMENS",
         "url": "https://open.spotify.com/album/67A2X3ahwYQbykxxKGaJJW"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 205222,
       "name": "OMENS",
       "url": "https://open.spotify.com/track/73kLliVaEaxT3qsGjKyxDB"
+    },
+    {
+      "added_at": "2025-05-23 04:00:54",
+      "album": {
+        "name": "Sleepyhead",
+        "url": "https://open.spotify.com/album/16ks7N4Ur7Zz3wycIUfIMw"
+      },
+      "artists": [
+        {
+          "name": "Jutes",
+          "url": "https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4"
+        }
+      ],
+      "duration_ms": 192340,
+      "name": "Sleepyhead",
+      "url": "https://open.spotify.com/track/7qiYSGc57LcmKTdBi0J14a"
     },
     {
       "added_at": "2025-05-23 04:00:54",
@@ -863,30 +863,6 @@
     {
       "added_at": "2025-05-23 04:00:54",
       "album": {
-        "name": "THE DRAIN",
-        "url": "https://open.spotify.com/album/5QKeZAJVAx2OtEsMALM0Cz"
-      },
-      "artists": [
-        {
-          "name": "Bad Omens",
-          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
-        },
-        {
-          "name": "HEALTH",
-          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
-        },
-        {
-          "name": "SWARM",
-          "url": "https://open.spotify.com/artist/07OF36h5y4S6s9ckQliaj3"
-        }
-      ],
-      "duration_ms": 225701,
-      "name": "THE DRAIN",
-      "url": "https://open.spotify.com/track/0LSgZIdGUQtaXxlFN9thhc"
-    },
-    {
-      "added_at": "2025-05-23 04:00:54",
-      "album": {
         "name": "...And Everything In Between",
         "url": "https://open.spotify.com/album/3LDYeoNeId8Eb6ssztA8B8"
       },
@@ -907,6 +883,30 @@
       "duration_ms": 270546,
       "name": "Die On The Cross Of The Martyr",
       "url": "https://open.spotify.com/track/2MuPNWG7PIUQccZljWGx6W"
+    },
+    {
+      "added_at": "2025-05-23 04:00:54",
+      "album": {
+        "name": "THE DRAIN",
+        "url": "https://open.spotify.com/album/5QKeZAJVAx2OtEsMALM0Cz"
+      },
+      "artists": [
+        {
+          "name": "Bad Omens",
+          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
+        },
+        {
+          "name": "HEALTH",
+          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
+        },
+        {
+          "name": "SWARM",
+          "url": "https://open.spotify.com/artist/07OF36h5y4S6s9ckQliaj3"
+        }
+      ],
+      "duration_ms": 225701,
+      "name": "THE DRAIN",
+      "url": "https://open.spotify.com/track/0LSgZIdGUQtaXxlFN9thhc"
     },
     {
       "added_at": "2025-05-23 04:00:54",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2025-05-23 04:00:54",
       "album": {
-        "name": "Spiral",
-        "url": "https://open.spotify.com/album/1VkpBOu4KIcL8u9tAkocie"
-      },
-      "artists": [
-        {
-          "name": "ThxSoMch",
-          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
-        }
-      ],
-      "duration_ms": 168221,
-      "name": "Spiral",
-      "url": "https://open.spotify.com/track/1IutoMzbuf3hVtP4KS9W37"
-    },
-    {
-      "added_at": "2025-05-23 04:00:54",
-      "album": {
         "name": "Lonely Day - Spotify Singles",
         "url": "https://open.spotify.com/album/2GUhX1GveJBRtgpyUQhTSY"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 156000,
       "name": "Lonely Day - Spotify Singles",
       "url": "https://open.spotify.com/track/2bmGjqYsvXVTt1CRfUicIH"
+    },
+    {
+      "added_at": "2025-05-23 04:00:54",
+      "album": {
+        "name": "Spiral",
+        "url": "https://open.spotify.com/album/1VkpBOu4KIcL8u9tAkocie"
+      },
+      "artists": [
+        {
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+        }
+      ],
+      "duration_ms": 168221,
+      "name": "Spiral",
+      "url": "https://open.spotify.com/track/1IutoMzbuf3hVtP4KS9W37"
     },
     {
       "added_at": "2025-05-23 04:00:54",

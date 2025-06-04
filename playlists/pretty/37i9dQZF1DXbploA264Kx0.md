@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbploA264Kx0.md) - [plain]
 
 > Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: LIU KOI
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,269 likes - 52 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,268 likes - 52 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbploA264Kx0.md) - [plain]
 | 51 | [EXX](https://open.spotify.com/track/1uxpdBypxB44G4F6insgK3) | [Mandark](https://open.spotify.com/artist/7znAteIK9wAnN6URYwFsks) | [EXX](https://open.spotify.com/album/4tjS7UM9uRgqw6MBvfqkIS) | 2:20 |
 | 52 | [through the echoes](https://open.spotify.com/track/3v6c70hy2lWTisOBOJRiY5) | [Dizparity](https://open.spotify.com/artist/0DYcDpgiVTcXJszxcswVce), [SOPHY](https://open.spotify.com/artist/5Hx1PRV6i7vQdc8gAGE8eq) | [through the echoes](https://open.spotify.com/album/5uqI4OPlSpqSRHQ9YkSrdG) | 4:14 |
 
-Snapshot ID: `aDiEkQAAAADwl0nSIOFBlq7GnTm9Dp4V`
+Snapshot ID: `aDiEkQAAAABOD5I2ZGeh/QEzFw5ULOsD`

@@ -674,7 +674,7 @@
       ],
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 347317,
       "name": "Bliss",
       "url": "https://open.spotify.com/track/3CCBNEcg3etv2gppDhs3At"
@@ -3820,7 +3820,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 214602,
       "name": "Restless",
       "url": "https://open.spotify.com/track/5mQjywJBjvmuqWfWwYR0q0"
@@ -4463,6 +4463,24 @@
     },
     {
       "album": {
+        "name": "Take Me Home",
+        "url": "https://open.spotify.com/album/2V4riUyELekYW4yYGBm2ti"
+      },
+      "artists": [
+        {
+          "name": "Bearcubs",
+          "url": "https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "Take Me Home",
+      "url": "https://open.spotify.com/track/4sEmzYN4u5TqD5fAUrlSb5"
+    },
+    {
+      "album": {
         "name": "You'll Understand",
         "url": "https://open.spotify.com/album/6c94J2yum9wHxmbSB27YXE"
       },
@@ -5054,6 +5072,28 @@
       "duration_ms": 172000,
       "name": "Voyagers",
       "url": "https://open.spotify.com/track/31wIzUj1Uw1olBO9Vlh0Tz"
+    },
+    {
+      "album": {
+        "name": "wandering",
+        "url": "https://open.spotify.com/album/1wcy3owX9Vu3C9G0J4Gstl"
+      },
+      "artists": [
+        {
+          "name": "airshade",
+          "url": "https://open.spotify.com/artist/78PMYaOMIdiuJBtmSIFluQ"
+        },
+        {
+          "name": "limedisx.",
+          "url": "https://open.spotify.com/artist/5NGCRjAltWbKLm8yD4RNRO"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196173,
+      "name": "wandering",
+      "url": "https://open.spotify.com/track/2WjG4e7q79njtAPGzW6tGb"
     },
     {
       "album": {

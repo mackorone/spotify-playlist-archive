@@ -14451,6 +14451,28 @@
     },
     {
       "album": {
+        "name": "Radiance",
+        "url": "https://open.spotify.com/album/1YhHRHvLm1M7gb2vzrGgeQ"
+      },
+      "artists": [
+        {
+          "name": "Arodes",
+          "url": "https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47"
+        },
+        {
+          "name": "P\u00c6DE",
+          "url": "https://open.spotify.com/artist/0q9ulkly0h5gV9BLdyQGnQ"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210549,
+      "name": "Radiance",
+      "url": "https://open.spotify.com/track/26Ei09sNb2GAUlKhSMb6n4"
+    },
+    {
+      "album": {
         "name": "Rainchecks In Montreal",
         "url": "https://open.spotify.com/album/7hyqsbXob3bcwk8Jml4rfP"
       },
@@ -18948,7 +18970,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 298125,
       "name": "Voices",
       "url": "https://open.spotify.com/track/453srtIQeJkXx3xbPZC6Pv"

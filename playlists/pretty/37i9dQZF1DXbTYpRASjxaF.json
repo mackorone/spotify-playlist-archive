@@ -1,6 +1,6 @@
 {
   "description": "Todos pro alto, cada um com o seu. Foto: LX, Abbot",
-  "num_followers": 133079,
+  "num_followers": 133083,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -331,8 +331,8 @@
     {
       "added_at": "2025-05-30 14:19:32",
       "album": {
-        "name": "S\u00f3 Vil\u00e3o, Aqui N\u00e3o Tem Her\u00f3i",
-        "url": "https://open.spotify.com/album/2vMgIV8p4Lo4ZlaclzOyqt"
+        "name": "DOIS Quebrada Inteligente",
+        "url": "https://open.spotify.com/album/00pkLBvnhBT2avjAwmcSwY"
       },
       "artists": [
         {
@@ -340,29 +340,17 @@
           "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
         },
         {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
         },
         {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "Toledo",
-          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
-        },
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        },
-        {
-          "name": "Bvga Beatz",
-          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+          "name": "99 no beat",
+          "url": "https://open.spotify.com/artist/4J4rtJoJeqy7Q1q2jfWJ2j"
         }
       ],
-      "duration_ms": 177144,
-      "name": "MANDRAKA DO MOMENTO",
-      "url": "https://open.spotify.com/track/5CUH8hEmgqsfQ3jKTPJLdm"
+      "duration_ms": 225230,
+      "name": "ODNUM ao Contr\u00e1rio!",
+      "url": "https://open.spotify.com/track/1N69vOh56cn1SXEA1pj7AR"
     },
     {
       "added_at": "2025-05-30 14:19:32",
@@ -579,6 +567,30 @@
     {
       "added_at": "2025-05-30 14:19:32",
       "album": {
+        "name": "MPC (M\u00fasica Popular Carioca)",
+        "url": "https://open.spotify.com/album/6eyTN2TvyY5vcbu7Di6E3R"
+      },
+      "artists": [
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "LEALL",
+          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "PIXAD\u00c3O NO BAILE",
+      "url": "https://open.spotify.com/track/7m0VqTlGjyR123V2VhBXKk"
+    },
+    {
+      "added_at": "2025-05-30 14:19:32",
+      "album": {
         "name": "Funk Supera\u00e7\u00e3o (Ao Vivo)",
         "url": "https://open.spotify.com/album/2KvTPBd1l052Tnk3RxU6tt"
       },
@@ -595,6 +607,42 @@
       "duration_ms": 208241,
       "name": "Novos Ricos - Ao Vivo",
       "url": "https://open.spotify.com/track/68eRXsHoxQMBxtTR60hKPv"
+    },
+    {
+      "added_at": "2025-05-30 14:19:32",
+      "album": {
+        "name": "S\u00f3 Vil\u00e3o, Aqui N\u00e3o Tem Her\u00f3i",
+        "url": "https://open.spotify.com/album/2vMgIV8p4Lo4ZlaclzOyqt"
+      },
+      "artists": [
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Toledo",
+          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        }
+      ],
+      "duration_ms": 177144,
+      "name": "MANDRAKA DO MOMENTO",
+      "url": "https://open.spotify.com/track/5CUH8hEmgqsfQ3jKTPJLdm"
     },
     {
       "added_at": "2025-05-30 14:19:32",
@@ -623,54 +671,6 @@
       "duration_ms": 224680,
       "name": "Bag",
       "url": "https://open.spotify.com/track/56wZGer3DfhZXC6v30Ya1w"
-    },
-    {
-      "added_at": "2025-05-30 14:19:32",
-      "album": {
-        "name": "DOIS Quebrada Inteligente",
-        "url": "https://open.spotify.com/album/00pkLBvnhBT2avjAwmcSwY"
-      },
-      "artists": [
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
-        },
-        {
-          "name": "99 no beat",
-          "url": "https://open.spotify.com/artist/4J4rtJoJeqy7Q1q2jfWJ2j"
-        }
-      ],
-      "duration_ms": 225230,
-      "name": "ODNUM ao Contr\u00e1rio!",
-      "url": "https://open.spotify.com/track/1N69vOh56cn1SXEA1pj7AR"
-    },
-    {
-      "added_at": "2025-05-30 14:19:32",
-      "album": {
-        "name": "MPC (M\u00fasica Popular Carioca)",
-        "url": "https://open.spotify.com/album/6eyTN2TvyY5vcbu7Di6E3R"
-      },
-      "artists": [
-        {
-          "name": "Papatinho",
-          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "LEALL",
-          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "PIXAD\u00c3O NO BAILE",
-      "url": "https://open.spotify.com/track/7m0VqTlGjyR123V2VhBXKk"
     },
     {
       "added_at": "2025-05-30 14:19:32",
@@ -807,30 +807,6 @@
     {
       "added_at": "2025-05-30 14:19:32",
       "album": {
-        "name": "Akilla On The Radar Freestyle",
-        "url": "https://open.spotify.com/album/1pR1h8zOGtfbar68dHbWxL"
-      },
-      "artists": [
-        {
-          "name": "On The Radar",
-          "url": "https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz"
-        },
-        {
-          "name": "Akilla",
-          "url": "https://open.spotify.com/artist/4AlpcXJqYvX4ovs4zEb2UB"
-        },
-        {
-          "name": "Chris Helv",
-          "url": "https://open.spotify.com/artist/46ltQzSRoYg6rocYPTARX3"
-        }
-      ],
-      "duration_ms": 111118,
-      "name": "Akilla On The Radar Freestyle",
-      "url": "https://open.spotify.com/track/74ufXZKMlPBqIVp7N444Nf"
-    },
-    {
-      "added_at": "2025-05-30 14:19:32",
-      "album": {
         "name": "IAMBINHU",
         "url": "https://open.spotify.com/album/7BpvuVN4bsFdncN2KLkBLU"
       },
@@ -855,6 +831,30 @@
       "duration_ms": 151525,
       "name": "Destaque",
       "url": "https://open.spotify.com/track/5T9Vw3RD6MaVXC0Y3Gkfr9"
+    },
+    {
+      "added_at": "2025-05-30 14:19:32",
+      "album": {
+        "name": "Akilla On The Radar Freestyle",
+        "url": "https://open.spotify.com/album/1pR1h8zOGtfbar68dHbWxL"
+      },
+      "artists": [
+        {
+          "name": "On The Radar",
+          "url": "https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz"
+        },
+        {
+          "name": "Akilla",
+          "url": "https://open.spotify.com/artist/4AlpcXJqYvX4ovs4zEb2UB"
+        },
+        {
+          "name": "Chris Helv",
+          "url": "https://open.spotify.com/artist/46ltQzSRoYg6rocYPTARX3"
+        }
+      ],
+      "duration_ms": 111118,
+      "name": "Akilla On The Radar Freestyle",
+      "url": "https://open.spotify.com/track/74ufXZKMlPBqIVp7N444Nf"
     },
     {
       "added_at": "2025-05-30 14:19:32",
@@ -1115,26 +1115,6 @@
     {
       "added_at": "2025-05-30 14:19:32",
       "album": {
-        "name": "Pool Party (REMIX)",
-        "url": "https://open.spotify.com/album/4taE9ArMoOwN0sLTUEl3NX"
-      },
-      "artists": [
-        {
-          "name": "Elic\u00ea",
-          "url": "https://open.spotify.com/artist/7IWi4NOiLz0JJ0qJhCYLN0"
-        },
-        {
-          "name": "maiarealplug",
-          "url": "https://open.spotify.com/artist/17LZpvf2Ij3oiy8ZfIgEGy"
-        }
-      ],
-      "duration_ms": 113428,
-      "name": "Pool Party - REMIX",
-      "url": "https://open.spotify.com/track/4cxsm2hqesps5p43PNEd96"
-    },
-    {
-      "added_at": "2025-05-30 14:19:32",
-      "album": {
         "name": "Remessa Estrangeira (Remix)",
         "url": "https://open.spotify.com/album/5ZbWv2KbDYbhZTLcLrlBPr"
       },
@@ -1151,6 +1131,26 @@
       "duration_ms": 117125,
       "name": "Remessa Estrangeira - Remix",
       "url": "https://open.spotify.com/track/7uAJuitwU51BhTzlTIIsKN"
+    },
+    {
+      "added_at": "2025-05-30 14:19:32",
+      "album": {
+        "name": "Pool Party (REMIX)",
+        "url": "https://open.spotify.com/album/4taE9ArMoOwN0sLTUEl3NX"
+      },
+      "artists": [
+        {
+          "name": "Elic\u00ea",
+          "url": "https://open.spotify.com/artist/7IWi4NOiLz0JJ0qJhCYLN0"
+        },
+        {
+          "name": "maiarealplug",
+          "url": "https://open.spotify.com/artist/17LZpvf2Ij3oiy8ZfIgEGy"
+        }
+      ],
+      "duration_ms": 113428,
+      "name": "Pool Party - REMIX",
+      "url": "https://open.spotify.com/track/4cxsm2hqesps5p43PNEd96"
     },
     {
       "added_at": "2025-05-30 14:19:32",

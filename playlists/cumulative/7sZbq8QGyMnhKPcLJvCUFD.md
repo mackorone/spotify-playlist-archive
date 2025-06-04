@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-712 songs - 1 day 12 hr 1 min
+713 songs - 1 day 12 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -555,6 +555,7 @@
 | [Running Away](https://open.spotify.com/track/7HJSanooTjRCfNpSY4J7lj) | [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t), [Abstrakt](https://open.spotify.com/artist/2a0PIzFpYjhOabDRcUmUnQ), [Perk Pietrek](https://open.spotify.com/artist/7gVaS1q03Q8Dliy2lDXLx3) | [Running Away](https://open.spotify.com/album/4luyrFOvpeHNC8qpy6Ab0O) | 2:31 | 2022-04-07 | 2023-04-28 |
 | [Running Wild](https://open.spotify.com/track/7Mp1SXLvQEh02nVsLNnmLR) | [Wiguez](https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU), [Vizzen](https://open.spotify.com/artist/0EKwbldduMcVWub0o2V5e5), [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs) | [Running Wild](https://open.spotify.com/album/6VZdLgAn691GkOqHxWZwP4) | 3:05 | 2022-11-24 | 2023-04-28 |
 | [Rush](https://open.spotify.com/track/45NFKx36T2kIrKmIRykcc3) | [iFeature](https://open.spotify.com/artist/1NkeIgGpORkhxCUluCnnFT) | [Rush](https://open.spotify.com/album/2yajINb11ZN7C7HtOEGJuE) | 3:32 | 2023-03-31 | 2023-08-10 |
+| [rush](https://open.spotify.com/track/6iodxbdw2EE2J0Jt10jH2q) | [nomu.](https://open.spotify.com/artist/2NSBzBPu05xNzAUv10mdTc) | [rush](https://open.spotify.com/album/2zkVfZmA2L2bgQyjFJIdJM) | 1:22 | 2025-06-03 |  |
 | [Safe & Sound](https://open.spotify.com/track/4CkyxWtYZZxNsbdYxnh4Ft) | [Different Heaven](https://open.spotify.com/artist/0pCGA9tdtbWwo1pKIs0CFx) | [NCS: The Best of 2016](https://open.spotify.com/album/2PbNOsRy7jYiiljcig1xeQ) | 3:24 | 2023-08-08 | 2023-12-14 |
 | [Samurai](https://open.spotify.com/track/45hr1fXe8raIz3Q851CFa2) | [Jim Yosef](https://open.spotify.com/artist/40HDiLfKm0tXk2FxlJx6aO) | [Samurai](https://open.spotify.com/album/7zbwXAxBnAuoJfmZ7m4duL) | 3:20 | 2022-08-09 | 2023-04-28 |
 | [Savannah](https://open.spotify.com/track/0ZdUHFxifUJNqo7G4aJzoF) | [Diviners](https://open.spotify.com/artist/22lnnGKlaDxk8sfzCNRJuA), [Philly K.](https://open.spotify.com/artist/1v8lhkt5jZgHT8xi1wYNUS) | [Savannah](https://open.spotify.com/album/71cGzXXQV7S3GWFIS57IO5) | 3:28 | 2023-08-08 | 2023-12-14 |

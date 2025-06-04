@@ -6173,6 +6173,28 @@
     },
     {
       "album": {
+        "name": "Sakhiye",
+        "url": "https://open.spotify.com/album/15e9cIt413nP4KTTJd4sRe"
+      },
+      "artists": [
+        {
+          "name": "Krishna Tejasvi",
+          "url": "https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q"
+        },
+        {
+          "name": "Srirag Vadlakonda",
+          "url": "https://open.spotify.com/artist/6OCxOIWN5WGB9iZSnYqwRb"
+        }
+      ],
+      "date_added": "2025-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230526,
+      "name": "Sakhiye",
+      "url": "https://open.spotify.com/track/2a8w4nzNhzGbjWv07gmDnr"
+    },
+    {
+      "album": {
         "name": "Salary Anthem",
         "url": "https://open.spotify.com/album/2AwJaeAb8OepO4YaQljKct"
       },

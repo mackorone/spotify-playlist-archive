@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Aleyna Tilki, Mabel Matiz ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,741 likes - 117 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,766 likes - 117 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 19 | [Lovin Myself](https://open.spotify.com/track/2ttIodvY52FYgod5qrcQHN) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Lovin Myself](https://open.spotify.com/album/5vWfr5gSeCbqFwutBK7sDp) | 2:56 |
 | 20 | [In The Middle](https://open.spotify.com/track/3nmvNpobyMN4Ggw7tYcqSF) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI), [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Hope We Have Fun](https://open.spotify.com/album/3r5ik8QohUa56zacmEyAdb) | 2:59 |
 | 21 | [ORIGINAL](https://open.spotify.com/track/5cGVzKtpAVYJakSGLg323D) | [Rockywhereyoubeen](https://open.spotify.com/artist/5pieMKHiTXhVZEmlMT0ij7), [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [Avie](https://open.spotify.com/artist/3HjE47TE0eAsXavKpEOp7i), [Orco](https://open.spotify.com/artist/0fu2mSZ27dPE5OElHvgQP7), [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI) | [ORIGINAL](https://open.spotify.com/album/7cskRHFG3WHGxv1BRXDPRH) | 3:10 |
-| 22 | [Bu Gece İstanbul'da \(feat\. Yaşar\)](https://open.spotify.com/track/30uiyMhrc8NJ1Vatkc74NV) | [Kaan Ozturk](https://open.spotify.com/artist/7JuzlI4jLuHqIDOp9H4HBb), [Yaşar](https://open.spotify.com/artist/50AOA3aPd6tc928KEYaljF) | [Bu Gece İstanbul'da \(feat\. Yaşar\)](https://open.spotify.com/album/0btaRzZJNgq63ujEHmTp8t) | 3:31 |
+| 22 | [Bu Gece İstanbul'da \(feat\. Yaşar\)](https://open.spotify.com/track/30uiyMhrc8NJ1Vatkc74NV) | [Kaan Ozturk](https://open.spotify.com/artist/7JuzlI4jLuHqIDOp9H4HBb), [Yaşar](https://open.spotify.com/artist/50AOA3aPd6tc928KEYaljF) | [Bu Gece İstanbul'da](https://open.spotify.com/album/0btaRzZJNgq63ujEHmTp8t) | 3:31 |
 | 23 | [Çek Git](https://open.spotify.com/track/4ap4o3GpdfsLeWYJzuU3GH) | [Bilal Sonses](https://open.spotify.com/artist/6iBdV6h17D1kOnK9lFyWo3) | [Çek Git](https://open.spotify.com/album/2fQRoyOxPDbv2eVTtuiCVO) | 2:09 |
 | 24 | [Bizi Hatırla](https://open.spotify.com/track/0dyPmEqxzXSv9OJYguvnzT) | [Ozbi](https://open.spotify.com/artist/4DG2pTwQBor7a6wtoEABau) | [Bizi Hatırla](https://open.spotify.com/album/4rUTSfCgCjmkQSff9DoIPV) | 5:19 |
 | 25 | [Takıldım Sana](https://open.spotify.com/track/20oS8t4KsAjtbPUXTK70xW) | [İkilem](https://open.spotify.com/artist/4hjJDrv2KkIEW1AslTEtv3) | [Takıldım Sana](https://open.spotify.com/album/60LQCWj8XfrQ1wkEU8vN6x) | 2:54 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 27 | [Mazide](https://open.spotify.com/track/470IpPjOzbvgnQ8dFwuEdj) | [Rafet El Roman](https://open.spotify.com/artist/5gs9qloTR5m6dM0ScMty3H), [Su El Roman](https://open.spotify.com/artist/6Kvx121MepdDM6XxgxPvij) | [Mazide](https://open.spotify.com/album/4G3J8FNGmmzVCa9XzbkWn9) | 3:15 |
 | 28 | [Yasaklamadım Mı](https://open.spotify.com/track/1kXn9zkGoz3evY0GwCaR3w) | [Linet](https://open.spotify.com/artist/31TJIzpuFOgX8owcV3nTrE) | [Anlat](https://open.spotify.com/album/1BYkVloGTIQZ8AQ2lhdBF1) | 2:38 |
 | 29 | [BRR](https://open.spotify.com/track/68oCqEUTxopNzM2sdXY82F) | [D\-azy](https://open.spotify.com/artist/5xP5qr6ClCfcCk0kkp8OMJ) | [BRR](https://open.spotify.com/album/79p5QqPwUJyqWvV1U6Dk0e) | 1:45 |
-| 30 | [Axe \- Şeker Oğlan](https://open.spotify.com/track/7wqZCecEsVapxvvTY6Xhl3) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Axe \- Şeker Oğlan](https://open.spotify.com/album/4lONUWHJE5G4Bd4tjyR8Ar) | 2:12 |
+| 30 | [Şeker Oğlan](https://open.spotify.com/track/7wqZCecEsVapxvvTY6Xhl3) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Şeker Oğlan](https://open.spotify.com/album/4lONUWHJE5G4Bd4tjyR8Ar) | 2:12 |
 | 31 | [Crazy For It](https://open.spotify.com/track/0nZUQdt97RJ429I0FuAO2r) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Vinson](https://open.spotify.com/artist/1ER9vmM8lqAB19a30WwA0b), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Crazy For It](https://open.spotify.com/album/6M1Ll5Gwpeyvpc0xYmhTT1) | 4:10 |
 | 32 | [Me, Myself and The Night](https://open.spotify.com/track/7mKy65CyVCmawYMw3JJGPQ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Me, Myself and The Night](https://open.spotify.com/album/7bSQts9CfkAh6MNQ7BkBjy) | 4:11 |
 | 33 | [MAD](https://open.spotify.com/track/6vM1GSndPtQk7AmqEmNAPH) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [MAD](https://open.spotify.com/album/6e3hxK9NnMP08e6GBC1WIV) | 3:19 |

@@ -4,7 +4,7 @@
 
 > A mix of the best modern Deathcore tracks\. Cover: Shadow of Intent
 
-659 songs - 1 day 18 hr 40 min
+660 songs - 1 day 18 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -513,7 +513,7 @@
 | [Set the World on Fire](https://open.spotify.com/track/6UzntVyCu5wfJkjb5ddczQ) | [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk), [UnityTX](https://open.spotify.com/artist/3uPce3TKw7cjheMNhuhNs9) | [Set the World on Fire](https://open.spotify.com/album/3EWHosgZgHFx7SI2iTI2ZW) | 2:49 | 2025-04-25 |  |
 | [Seven Souls](https://open.spotify.com/track/5BVgixsn2PgaNzI9tZSjfm) | [Carnifex](https://open.spotify.com/artist/4nqY8hkQNkHaDq4fdVxdYr) | [Seven Souls](https://open.spotify.com/album/0bBueyc98CNTvVvJJBqXL5) | 4:43 | 2021-12-17 | 2025-03-15 |
 | [SHALLOW GRAVE](https://open.spotify.com/track/4IRI94PiTsO8GPmEjBa5iO) | [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8), [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk) | [SHALLOW GRAVE](https://open.spotify.com/album/53ikhdZE3GFL8A1ATJDJNJ) | 1:31 | 2025-01-17 | 2025-04-27 |
-| [Shard Throat](https://open.spotify.com/track/3E2cJPNoEPrrxxZUihLQMU) | [Gutrectomy](https://open.spotify.com/artist/0GAUayKtM7XULaNosOHwaD) | [Shard Throat](https://open.spotify.com/album/6YDZrM7UvIVHtgo8P08XrD) | 2:33 | 2025-01-17 |  |
+| [Shard Throat](https://open.spotify.com/track/3E2cJPNoEPrrxxZUihLQMU) | [Gutrectomy](https://open.spotify.com/artist/0GAUayKtM7XULaNosOHwaD) | [Shard Throat](https://open.spotify.com/album/6YDZrM7UvIVHtgo8P08XrD) | 2:33 | 2025-01-17 | 2025-06-04 |
 | [Shepherd](https://open.spotify.com/track/1HEeNe1VoY6HlnoN9gDMuv) | [Fit For An Autopsy](https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i) | [Shepherd](https://open.spotify.com/album/4K0BaqCecm68KFC748kBzA) | 4:11 | 2021-12-17 | 2022-07-25 |
 | [Shock Tactics \(1000v\)](https://open.spotify.com/track/6gpBsJWLB5qhY60wik87jo) | [To The Grave](https://open.spotify.com/artist/3jr9qsKWQjf3iMNQ3rWVDQ) | [Shock Tactics \(1000v\)](https://open.spotify.com/album/5BFAfdSGioyMmIVYag9i3w) | 4:28 | 2023-06-30 | 2024-08-24 |
 | [Short Fused](https://open.spotify.com/track/3rMBPvlH23tC5BGc2THgTi) | [Traitors](https://open.spotify.com/artist/1GkXxneFQE4d5YTsrbN6Ya) | [Short Fused](https://open.spotify.com/album/2hBwdiivLPHVEC8M8DYDpD) | 2:46 | 2021-12-17 | 2022-02-11 |
@@ -533,6 +533,7 @@
 | [Sort Sommer](https://open.spotify.com/track/4XqiGdFGZ88BXhNGovcUwb) | [CABAL](https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO), [FABRÄK](https://open.spotify.com/artist/1EhjKyONmOvWHQuGANLcU8) | [Sort Sommer](https://open.spotify.com/album/5jdUeAqwzHL2EoscFAUeJN) | 2:52 | 2024-06-25 | 2024-08-24 |
 | [Soul Drift](https://open.spotify.com/track/2bVg5VVZvE7fAEwse71wRw) | [The Browning](https://open.spotify.com/artist/4DSNcg40nf6T3eNAObq1Lo) | [Soul Drift](https://open.spotify.com/album/0cyRaMB5eKaw3y0IKkmdtF) | 2:47 | 2024-10-18 | 2025-03-15 |
 | [Spawn of Decay](https://open.spotify.com/track/1tqJHuTMqMV1IDaOcTjtEM) | [The Archaic Epidemic](https://open.spotify.com/artist/5g1ErYWibd11yq9eJkL38l) | [Spawn of Decay](https://open.spotify.com/album/6LsqLflc8xUk2YvyYHOvUa) | 3:19 | 2024-08-23 | 2025-03-15 |
+| [SPECTER](https://open.spotify.com/track/3IJT9IkrnCcRVEQRFXlwOl) | [Monochromatic Black](https://open.spotify.com/artist/22jL7DWPeqnMN1v9spmkxz) | [SPECTER](https://open.spotify.com/album/7J778cP4g1pROg081pIdM0) | 3:45 | 2025-05-30 |  |
 | [Spirit Side Dreaming](https://open.spotify.com/track/2tSD44vMbqFgVpsUFJgtCl) | [Solution .45](https://open.spotify.com/artist/4g9Ml8899yUDi8YLnfZxmi) | [Spirit Side Dreaming](https://open.spotify.com/album/4OMhHRFQis9LzRmqxtHRjx) | 3:46 | 2021-12-17 | 2022-07-25 |
 | [Spiteful Nature](https://open.spotify.com/track/6bLT2cXYDuDuaHcgQcXjep) | [I Shall Devour](https://open.spotify.com/artist/0FucnPgykhKoPTybQL5Qkm) | [The Misanthropist](https://open.spotify.com/album/3OlDPRhqOBpxp9JNxLFj3w) | 3:37 | 2021-12-17 | 2022-02-02 |
 | [Stained In Rot](https://open.spotify.com/track/5omTf1GVagsjkhr0m79auk) | [Ov Sulfur](https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC) | [Stained In Rot](https://open.spotify.com/album/7KFFVBoluljAYYKEYdLqSu) | 4:14 | 2022-10-27 | 2024-08-24 |

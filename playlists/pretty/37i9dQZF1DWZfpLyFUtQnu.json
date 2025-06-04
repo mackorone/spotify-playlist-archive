@@ -1,6 +1,6 @@
 {
   "description": "Les plus belles ballades de la chanson fran\u00e7aise d'hier et d'aujourd'hui.",
-  "num_followers": 101839,
+  "num_followers": 101869,
   "original_name": "Douce France",
   "owner": {
     "name": "Spotify",
@@ -567,22 +567,6 @@
     {
       "added_at": "2024-10-03 14:22:43",
       "album": {
-        "name": "Jamais Content",
-        "url": "https://open.spotify.com/album/7fj2NNii1Wlw8loDuYg9Yw"
-      },
-      "artists": [
-        {
-          "name": "Alain Souchon",
-          "url": "https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x"
-        }
-      ],
-      "duration_ms": 211213,
-      "name": "All\u00f4 maman bobo",
-      "url": "https://open.spotify.com/track/6feRXBskplLVuNov74Rep3"
-    },
-    {
-      "added_at": "2024-10-03 14:22:43",
-      "album": {
         "name": "Tarentelle",
         "url": "https://open.spotify.com/album/74ZWi5tnm2gY5ubaMMfSgu"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 258826,
       "name": "Prendre un enfant",
       "url": "https://open.spotify.com/track/5ArboR4WpgNf6bClJA8Xiw"
+    },
+    {
+      "added_at": "2024-10-03 14:22:43",
+      "album": {
+        "name": "Jamais Content",
+        "url": "https://open.spotify.com/album/7fj2NNii1Wlw8loDuYg9Yw"
+      },
+      "artists": [
+        {
+          "name": "Alain Souchon",
+          "url": "https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x"
+        }
+      ],
+      "duration_ms": 211213,
+      "name": "All\u00f4 maman bobo",
+      "url": "https://open.spotify.com/track/6feRXBskplLVuNov74Rep3"
     },
     {
       "added_at": "2024-10-03 14:22:43",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-10-03 14:22:43",
       "album": {
-        "name": "70eme Anniversaire",
-        "url": "https://open.spotify.com/album/3DhqKZkYpaJA3LnAgzRvuq"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hallyday",
-          "url": "https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA"
-        }
-      ],
-      "duration_ms": 274840,
-      "name": "Je te promets",
-      "url": "https://open.spotify.com/track/66qec4opk3ESgF5SqYlux2"
-    },
-    {
-      "added_at": "2024-10-03 14:22:43",
-      "album": {
         "name": "Petite Amie (Edition D\u00e9lice)",
         "url": "https://open.spotify.com/album/2aVn7kwlqc8OmtEqpmuf3N"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 186026,
       "name": "Manque d'Amour",
       "url": "https://open.spotify.com/track/3AtdizIe78tjWmbyZbgIoV"
+    },
+    {
+      "added_at": "2024-10-03 14:22:43",
+      "album": {
+        "name": "70eme Anniversaire",
+        "url": "https://open.spotify.com/album/3DhqKZkYpaJA3LnAgzRvuq"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hallyday",
+          "url": "https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA"
+        }
+      ],
+      "duration_ms": 274840,
+      "name": "Je te promets",
+      "url": "https://open.spotify.com/track/66qec4opk3ESgF5SqYlux2"
     },
     {
       "added_at": "2024-10-03 14:22:43",
@@ -1239,22 +1239,18 @@
     {
       "added_at": "2024-10-03 14:22:43",
       "album": {
-        "name": "Loin des yeux",
-        "url": "https://open.spotify.com/album/5u3mERrsCPzvwICP88yNil"
+        "name": "La nuit (Version acoustique)",
+        "url": "https://open.spotify.com/album/0wstgbk3ju0NhMX2CiqA7S"
       },
       "artists": [
         {
-          "name": "Boulevard des Airs",
-          "url": "https://open.spotify.com/artist/6px2zTzjQAPLkuea5qQ2Gx"
-        },
-        {
-          "name": "Vianney",
-          "url": "https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6"
+          "name": "Piedbois",
+          "url": "https://open.spotify.com/artist/6du4xPxjM9fbB5pUBTZjea"
         }
       ],
-      "duration_ms": 167933,
-      "name": "Allez reste (feat. Vianney)",
-      "url": "https://open.spotify.com/track/3heHzzI6Grlj4xTeoLOO56"
+      "duration_ms": 231155,
+      "name": "La nuit - Version acoustique",
+      "url": "https://open.spotify.com/track/5oMxSGCH3VN6WGmQFfWalA"
     }
   ],
   "unique_name": "Douce France",

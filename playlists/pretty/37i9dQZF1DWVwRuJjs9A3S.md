@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > All the highlights from the world of indie! Cover: girl in red
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,463 likes - 157 songs - 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,506 likes - 157 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -166,4 +166,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 | 156 | [As Fast as I Can](https://open.spotify.com/track/4pdGAWBW9VTLO5ENRCbiCx) | [Yndling](https://open.spotify.com/artist/2X2ErfWZbEsawLjylqXM3m) | [As Fast as I Can](https://open.spotify.com/album/6ZTTykFPE3rbc3I7Qv62qm) | 4:11 |
 | 157 | [Reach Out And Kiss Me](https://open.spotify.com/track/59Qv0E4uhUEdJIElLFiN8N) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Reach Out And Kiss Me](https://open.spotify.com/album/1QWOmlkjOJFF7f39IAsRUX) | 3:30 |
 
-Snapshot ID: `aDjY+AAAAAAHeyHrF8R0wCZEdTOpAG3B`
+Snapshot ID: `aDjY+AAAAADg2PhXzyVv0yu37LoAGYIZ`

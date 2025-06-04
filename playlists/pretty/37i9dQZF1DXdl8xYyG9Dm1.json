@@ -1,6 +1,6 @@
 {
   "description": "The latest straight bars and Afro-Trap. Cover: Nasty C",
-  "num_followers": 172190,
+  "num_followers": 172232,
   "original_name": "Afro Bars ",
   "owner": {
     "name": "Spotify",
@@ -507,6 +507,38 @@
     {
       "added_at": "2025-05-26 10:58:20",
       "album": {
+        "name": "RAVAGE",
+        "url": "https://open.spotify.com/album/4FNo7grg0Z6cbOwgzNwyD9"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 185500,
+      "name": "Don't Leave",
+      "url": "https://open.spotify.com/track/3e7FAWKNVUGQJvyUQMZ5EB"
+    },
+    {
+      "added_at": "2025-05-26 10:58:20",
+      "album": {
+        "name": "IRON BOY",
+        "url": "https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 161639,
+      "name": "Soma Obi",
+      "url": "https://open.spotify.com/track/6QLkRE9Px8RvInJGvms5X6"
+    },
+    {
+      "added_at": "2025-05-26 10:58:20",
+      "album": {
         "name": "Boss Zonke Forever",
         "url": "https://open.spotify.com/album/1OxiVsJTxKRHkkQhBaCdgb"
       },
@@ -543,38 +575,6 @@
       "duration_ms": 296633,
       "name": "Cishe Ngaposta (feat. 25K, Focalistic, Blxckie, K.Keed, Blue Pappi & Lowfeye)",
       "url": "https://open.spotify.com/track/0xIfAKsvzEFc0sY250davF"
-    },
-    {
-      "added_at": "2025-05-26 10:58:20",
-      "album": {
-        "name": "IRON BOY",
-        "url": "https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 161639,
-      "name": "Soma Obi",
-      "url": "https://open.spotify.com/track/6QLkRE9Px8RvInJGvms5X6"
-    },
-    {
-      "added_at": "2025-05-26 10:58:20",
-      "album": {
-        "name": "RAVAGE",
-        "url": "https://open.spotify.com/album/4FNo7grg0Z6cbOwgzNwyD9"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 185500,
-      "name": "Don't Leave",
-      "url": "https://open.spotify.com/track/3e7FAWKNVUGQJvyUQMZ5EB"
     },
     {
       "added_at": "2025-05-26 10:58:20",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2025-05-26 10:58:20",
       "album": {
-        "name": "Push It",
-        "url": "https://open.spotify.com/album/6tIveFyAHJc6EHKxbDQxHY"
-      },
-      "artists": [
-        {
-          "name": "K.O",
-          "url": "https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z"
-        }
-      ],
-      "duration_ms": 198187,
-      "name": "Push It",
-      "url": "https://open.spotify.com/track/6ljHcnMZWFWI6yi3KR6Elh"
-    },
-    {
-      "added_at": "2025-05-26 10:58:20",
-      "album": {
         "name": "No Love In Lagos",
         "url": "https://open.spotify.com/album/3qUxHQMBLeBWsBTkPnhXb3"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 189199,
       "name": "No Love In Lagos",
       "url": "https://open.spotify.com/track/3S612TExInLWnYOsQ9Ti9y"
+    },
+    {
+      "added_at": "2025-05-26 10:58:20",
+      "album": {
+        "name": "Push It",
+        "url": "https://open.spotify.com/album/6tIveFyAHJc6EHKxbDQxHY"
+      },
+      "artists": [
+        {
+          "name": "K.O",
+          "url": "https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z"
+        }
+      ],
+      "duration_ms": 198187,
+      "name": "Push It",
+      "url": "https://open.spotify.com/track/6ljHcnMZWFWI6yi3KR6Elh"
     },
     {
       "added_at": "2025-05-26 10:58:20",

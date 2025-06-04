@@ -4,7 +4,7 @@
 
 > Discover the best in new music from Aotearoa\. Cover: Lorde
 
-277 songs - 16 hr 0 min
+278 songs - 16 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Circling the City](https://open.spotify.com/track/7b6X8K150JyakOpe61ULc2) | [Mel Parsons](https://open.spotify.com/artist/2mKPHz3RD0bMrQqKFnrwrC) | [Circling the City](https://open.spotify.com/album/6sGfZDOIcyYMQRdXdFbytn) | 2:48 | 2024-05-20 | 2024-11-08 |
 | [City Limits](https://open.spotify.com/track/7sEDFfSn2m88Clrjq8V8Sv) | [Coast Arcade](https://open.spotify.com/artist/1QfAgtBvfQQTNZjqSGyTEC) | [City Limits](https://open.spotify.com/album/5I9p558GnUlIcsJtSO9YZl) | 3:37 | 2024-11-07 | 2024-12-05 |
 | [Come Find Me](https://open.spotify.com/track/19fGfFfOBcjDbU4HRWrkz9) | [JessB](https://open.spotify.com/artist/3dnNuI5EU8TEdiAT73kj27) | [Come Find Me](https://open.spotify.com/album/44sMQlTP4ahbNno2fTfWZo) | 2:27 | 2024-05-20 | 2024-11-08 |
+| [Coming Home](https://open.spotify.com/track/6KAA7BldTJgqfPv5pvqhqj) | [Blindspott](https://open.spotify.com/artist/3ygVOsvZu30UQVK26idggu) | [Vol\. 3](https://open.spotify.com/album/2ybYUrbmkPXadAjJWmtcje) | 4:06 | 2025-05-29 |  |
 | [Commit](https://open.spotify.com/track/7gUkDBWUdzGnAQWSKuAHQm) | [Katchafire](https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa) | [Commit](https://open.spotify.com/album/5e7TomyDOkTyYSVJnu4sJo) | 3:21 | 2024-08-15 | 2025-03-21 |
 | [Concubine](https://open.spotify.com/track/044xTtECAue47UQ8kxnvfL) | [NO CIGAR](https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT) | [The Great Escape](https://open.spotify.com/album/6FFK9dODdAHQuxCaldqIhb) | 4:16 | 2024-05-20 |  |
 | [Cookie](https://open.spotify.com/track/0xdwUjqxpzEt7jZC0n0aN7) | [Corrella](https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX) | [Skeletons](https://open.spotify.com/album/4mJCH5WicAkf9wevEjVeuV) | 3:57 | 2024-11-28 |  |
@@ -255,7 +256,7 @@
 | [The Moment](https://open.spotify.com/track/2SoLQFVozStiRRyptGbkmW) | [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti), [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [The Moment](https://open.spotify.com/album/41FS6HFv3K8xX66nuv3269) | 4:03 | 2024-09-12 | 2024-11-08 |
 | [The Question](https://open.spotify.com/track/04rb28OYuKeNCQ1VuWYxZ0) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [The Question](https://open.spotify.com/album/4JBi6qB6f8nHn7TT3bpHHZ) | 3:16 | 2025-02-20 |  |
 | [The War On Art](https://open.spotify.com/track/0xvUrLHBEKgrd8kP0khZJz) | [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [The War On Art](https://open.spotify.com/album/40kwfY8ftMdKWH2gpYGyWe) | 3:04 | 2024-05-20 | 2025-01-24 |
-| [thought of you](https://open.spotify.com/track/1BLhi5rDFlPkRk8gbp4uiI) | [teo glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [thought of you](https://open.spotify.com/album/7x6JnVTlfYdQOIskmq0aab) | 3:45 | 2024-10-24 |  |
+| [thought of you](https://open.spotify.com/track/1BLhi5rDFlPkRk8gbp4uiI) | [teo glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [thought of you](https://open.spotify.com/album/7x6JnVTlfYdQOIskmq0aab) | 3:45 | 2024-10-24 | 2025-06-04 |
 | [Three](https://open.spotify.com/track/7yRGKQBt5wlZE3RfkOZ5Ta) | [Haz' Beats](https://open.spotify.com/artist/2PMFm0z412L9xRCPRfMmkN), [Miloux](https://open.spotify.com/artist/0wxqHrY3M43hkutOC6qDHW) | [Brunette](https://open.spotify.com/album/6xvdBlf0b0yoKMX87honRj) | 3:20 | 2024-05-20 | 2024-08-16 |
 | [Through the Night](https://open.spotify.com/track/0ZN8kajcWw7pDNzTgsYMLB) | [Troy Kingi](https://open.spotify.com/artist/5B3LZw3NTEg074irKeEAom) | [Leatherman & the Mojave Green](https://open.spotify.com/album/4yk7MTt8bfsZbJFJ7CI93I) | 4:44 | 2024-08-15 | 2024-11-08 |
 | [Tief Im Wald](https://open.spotify.com/track/2JOieVIEDws6VOe5T0dGpu) | [Kiki Rockwell](https://open.spotify.com/artist/5HuKMWteBRI09tWyKeQE1F) | [Tief Im Wald](https://open.spotify.com/album/3VAlGVnh10qltWmjMu6Ioy) | 3:38 | 2024-05-20 |  |

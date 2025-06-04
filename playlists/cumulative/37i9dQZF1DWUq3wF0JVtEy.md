@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-533 songs - 1 day 1 hr 58 min
+534 songs - 1 day 2 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,6 +227,7 @@
 | [Hostile](https://open.spotify.com/track/6LUzj32ZNLC5Ogju5UfSEi) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [Heritage](https://open.spotify.com/album/4hO0xNT3cqylkfL5Raw3zG) | 2:33 | 2023-05-12 | 2025-01-01 |
 | [Hot In Here](https://open.spotify.com/track/2Hzg6GI93wgnIiiU6ZrLhP) | [Steff da Campo](https://open.spotify.com/artist/7Bo6vpAmmhylCRWoHSBkcZ) | [Hot In Here](https://open.spotify.com/album/2MrCpTiC2GIarhN5FrTGHV) | 2:31 | 2022-02-11 | 2022-08-06 |
 | [House Music Forever](https://open.spotify.com/track/4ip0qLoYmHJiDEj4f5MnOp) | [Sidney Samson](https://open.spotify.com/artist/3XonXgjEAAXVl0WKLF1Z4g), [Jules Brand](https://open.spotify.com/artist/0GRc1U1eKmnVnUalj7HQDZ), [Sjaak](https://open.spotify.com/artist/2YjydjpJfm9VAtiV0XRmkm) | [House Music Forever](https://open.spotify.com/album/0Muc3IDPrYJKiCkp9XpNC5) | 3:14 | 2022-04-01 | 2022-04-21 |
+| [HOUSE PARTY](https://open.spotify.com/track/0cdhN1HqOz9ji1sdZbqSe2) | [ESCARGOT](https://open.spotify.com/artist/4eQbb3mhoL4GjbMW7AHza3), [SNAILS](https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6) | [HOUSE PARTY](https://open.spotify.com/album/1vUtPZOCuQuByE1TVXgA2H) | 3:05 | 2025-05-30 |  |
 | [How it is](https://open.spotify.com/track/7HQEKWXO8oGMvnGSvhRK4j) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [How it is](https://open.spotify.com/album/2DjP7cXRnwyry7ji5iVYcc) | 3:01 | 2022-06-10 | 2023-10-28 |
 | [How Ya Like Me Now](https://open.spotify.com/track/0gwYFWhj6jgKDFdca5JezC) | [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [Wolfgang Gartner](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK), [Ericka Guitron](https://open.spotify.com/artist/3mlE1ilnSHt92U8W3TQwqF) | [EMBRACE](https://open.spotify.com/album/3QnqZrz7k2KCutkHSzfV4M) | 2:40 | 2022-07-22 | 2022-08-30 |
 | [How Ya Like Me Now](https://open.spotify.com/track/3tMf4R0lz5CEOUfliQiitr) | [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [Wolfgang Gartner](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK), [Ericka Guitron](https://open.spotify.com/artist/3mlE1ilnSHt92U8W3TQwqF) | [How Ya Like Me Now](https://open.spotify.com/album/10jY7uLOtgbUtCmDrY6LJA) | 2:40 | 2022-04-01 | 2022-07-29 |
@@ -369,7 +370,7 @@
 | [Nostalgia](https://open.spotify.com/track/7weI2jby4EDuZlWCVMB2xz) | [Mesto](https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9), [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT) | [Nostalgia](https://open.spotify.com/album/4Hltgbaee9ENN0q6PeoPHx) | 3:15 | 2023-06-30 | 2023-11-11 |
 | [Not Alone \- Don Diablo VIP Mix](https://open.spotify.com/track/3h4K8EOqmbnfdpemic1XUW) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS) | [Not Alone \(Don Diablo VIP Mix\)](https://open.spotify.com/album/5qCcm5p7HSsO244iIFKggX) | 2:31 | 2023-02-17 | 2025-02-16 |
 | [Not Dancing](https://open.spotify.com/track/2ipTMqLLogZOwB3VXafqTR) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6) | [Not Dancing](https://open.spotify.com/album/1O5tGALZgYG6VHycsGKsIu) | 2:43 | 2021-10-29 | 2022-04-28 |
-| [NRG](https://open.spotify.com/track/0zEwlfpJgIMzh3BV0UiQ3l) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV), [Eleganto](https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V), [Kota](https://open.spotify.com/artist/63QiIbACG85n38thH1gJry) | [NRG](https://open.spotify.com/album/55rwbbipDik1y3Q0Fesmb4) | 3:40 | 2023-07-28 |  |
+| [NRG](https://open.spotify.com/track/0zEwlfpJgIMzh3BV0UiQ3l) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV), [Eleganto](https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V), [Kota](https://open.spotify.com/artist/63QiIbACG85n38thH1gJry) | [NRG](https://open.spotify.com/album/55rwbbipDik1y3Q0Fesmb4) | 3:40 | 2023-07-28 | 2025-06-04 |
 | [Nudes](https://open.spotify.com/track/6mjCVjYkqyo4IG4nMhlpD2) | [Flakkë](https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1) | [Nudes](https://open.spotify.com/album/4vtBTnn8AbVYqYnHZf3NVb) | 2:16 | 2023-01-06 | 2023-03-25 |
 | [Obsessed](https://open.spotify.com/track/4RxMBaWraYDLmpz5fs6UaE) | [Millean.](https://open.spotify.com/artist/6t39nKNQpLjO5HNannzNfz) | [Obsessed](https://open.spotify.com/album/1hsb6RcJ9etjnn4nl1qv9c) | 3:13 | 2024-02-23 | 2024-05-05 |
 | [Obsession](https://open.spotify.com/track/6pzwST348GM51L1zoZ65Or) | [Dyro](https://open.spotify.com/artist/03MVmfitJTVJIxYmObhQn9), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Obsession](https://open.spotify.com/album/2G8oQgv9JwmFvjJL20OK38) | 2:26 | 2024-06-07 | 2024-11-24 |

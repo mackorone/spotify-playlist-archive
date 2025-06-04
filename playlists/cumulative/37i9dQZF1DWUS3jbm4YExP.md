@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-802 songs - 2 day 9 hr 12 min
+804 songs - 2 day 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [A Nambra](https://open.spotify.com/track/5VVM5EX9i5rDvbyHHogoYb) | [Mong Tong](https://open.spotify.com/artist/61QVaGjYK4UNd6uTz7Lzuo) | [Mystery 秘神](https://open.spotify.com/album/0iz5iVfY8aQiVDY6k3eefT) | 5:30 | 2021-10-06 | 2022-04-21 |
 | [Abyssinian Suite, Pt\. 4](https://open.spotify.com/track/3PBZeQmbywJVKdlRBzSg2C) | [The Shaolin Afronauts](https://open.spotify.com/artist/5zcJp5jvssOgZXcxI1wuWe) | [The Fundamental Nature of Being, Part One](https://open.spotify.com/album/2dQZmSuAqCRaVvcqJ4Robi) | 4:52 | 2022-09-30 | 2022-12-13 |
 | [Actions and Consequences](https://open.spotify.com/track/3JXrvGKhezDdBxGmz1KXy5) | [Chris Obehi](https://open.spotify.com/artist/34T24CJ5oXL7TMqxkdkDpI) | [Actions and Consequences](https://open.spotify.com/album/4TcfBR8Ns7hwJScmp9Pp43) | 4:56 | 2022-02-25 | 2022-07-24 |
-| [Adada](https://open.spotify.com/track/3p1uB1JCsNLrrp0emWOwH4) | [islandman](https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4) | [Adada](https://open.spotify.com/album/6NahKzvjOBtVirZIVWdey4) | 5:30 | 2025-05-30 |  |
+| [Adada](https://open.spotify.com/track/3p1uB1JCsNLrrp0emWOwH4) | [islandman](https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4) | [Adada](https://open.spotify.com/album/6NahKzvjOBtVirZIVWdey4) | 5:30 | 2025-05-30 | 2025-06-04 |
 | [Adagio](https://open.spotify.com/track/1BOvtLCCUsAaObd94hdaS8) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Adagio](https://open.spotify.com/album/3qgAUF0EAfwmsGH6lFrZiO) | 2:56 | 2025-02-21 |  |
 | [Adará](https://open.spotify.com/track/3OGKGvLhd2rN04g2iaCXVs) | [Abayomy Afrobeat Orquestra](https://open.spotify.com/artist/4W4o1hLeSM7vPjsZtxkAnv), [Orlando Julius](https://open.spotify.com/artist/5nmP3vKUqynlECpm2ura7L) | [Adará](https://open.spotify.com/album/3OcEePOxppfqTeK0jmICgo) | 4:27 | 2021-10-06 | 2022-04-19 |
 | [Afande](https://open.spotify.com/track/43m8rKCOHn5WIFnPLorqdI) | [Skinshape](https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Afande](https://open.spotify.com/album/4vYCv3i9i3jSe0EyZDsy5F) | 5:23 | 2021-10-06 |  |
@@ -437,6 +437,7 @@
 | [Macumba de Marea](https://open.spotify.com/track/34NHlhFXYug6lChbveHIVU) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Nidia Gongora](https://open.spotify.com/artist/5Ln6VxkwRDdAH40Lel6Yj8) | [Almas Conectadas](https://open.spotify.com/album/2ecxzRChLnsvsmrF3DXp4Z) | 5:11 | 2022-04-26 | 2022-07-29 |
 | [Magica Nueva](https://open.spotify.com/track/6BMnWybJGa1ECarOi99Xvo) | [Junglelyd](https://open.spotify.com/artist/4iZlSQSRIZ5HYEwwcfbR0c) | [Paracaídas](https://open.spotify.com/album/6EPBq63T1DMFseKbMJ4qwm) | 3:19 | 2021-10-06 | 2022-04-21 |
 | [Mahal](https://open.spotify.com/track/0iiB9CYptXO5Fz728LHHsQ) | [Glass Beams](https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF) | [Mahal](https://open.spotify.com/album/65vbRZn1cqkjyjMtlsbDGT) | 3:21 | 2024-03-05 |  |
+| [Mais além \(Beyond\)](https://open.spotify.com/track/6ruAYarEGAhBlKXeip5nYN) | [Zuco 103](https://open.spotify.com/artist/7m5FwndSbCRd5vJvgviUCA) | [Mais além \(Beyond\)](https://open.spotify.com/album/0ZZS2TrYk46doyRvE1qzvb) | 3:28 | 2025-06-03 |  |
 | [Make It Right](https://open.spotify.com/track/0KjwYVDuTHrfN36XSWEQc5) | [Johnny!](https://open.spotify.com/artist/0qdofS3PCyg0WmhycmvnYk) | [Make It Right](https://open.spotify.com/album/1d99bHzvTbXCiTyqyuWMK8) | 4:00 | 2021-10-06 | 2022-07-18 |
 | [Makeda](https://open.spotify.com/track/0nNTh1E26SQGtgdETLnsEb) | [PS5](https://open.spotify.com/artist/7nFGSs3Km6Li7tJocJbLdO) | [Unconscious Collective](https://open.spotify.com/album/3IVOpoj5MwZ3TE2iWM0FNL) | 5:53 | 2021-10-06 |  |
 | [Makhafi](https://open.spotify.com/track/5IHUtO6caNT23Al1oyRAYh) | [Jantra](https://open.spotify.com/artist/3MxZN1bBa3Skcr8qR22mNN) | [Makhafi](https://open.spotify.com/album/4JvXYvW1OSHQY5smCvNtOt) | 5:19 | 2023-06-16 | 2023-07-19 |
@@ -668,7 +669,7 @@
 | [Sun Khosi](https://open.spotify.com/track/0TFR4fugISTa7kMxqY6JJj) | [Ruby Rushton](https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF) | [Sun Khosi](https://open.spotify.com/album/1MZqnwoL3zZjYWSSgGJ3Cb) | 3:56 | 2021-10-06 | 2024-04-08 |
 | [Sun Khosi](https://open.spotify.com/track/5jY2fC4kHyTwFfThR7CFTh) | [Ruby Rushton](https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF) | [Sun Khosi](https://open.spotify.com/album/5NgVPG2bQoy2wlGTFZZdRV) | 3:56 | 2021-10-06 | 2022-06-24 |
 | [Sunset Sound](https://open.spotify.com/track/7c1pACjA4ahceDSuGEJspA) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [The Return of…](https://open.spotify.com/album/5cAjRyb94Tzoqk25z9nSvA) | 3:44 | 2021-10-06 |  |
-| [Super Hands](https://open.spotify.com/track/3JUsUtZa4sO0hxznNSD35u) | [Roi Turbo](https://open.spotify.com/artist/4T2y3FbT8mM5JEp41gXtEP) | [Super Hands](https://open.spotify.com/album/6lPykRLCCoDV1PqSZptU0E) | 5:18 | 2025-02-21 |  |
+| [Super Hands](https://open.spotify.com/track/3JUsUtZa4sO0hxznNSD35u) | [Roi Turbo](https://open.spotify.com/artist/4T2y3FbT8mM5JEp41gXtEP) | [Super Hands](https://open.spotify.com/album/6lPykRLCCoDV1PqSZptU0E) | 5:18 | 2025-02-21 | 2025-06-04 |
 | [Suro Nipa](https://open.spotify.com/track/74hBqD4AZElwmfRxR9dOPZ) | [K.O.G](https://open.spotify.com/artist/6n5BdjorrfFAe3OVqHHfUi), [The Zongo Brigade](https://open.spotify.com/artist/0smAHgNDEZESnCeJmPkWAd) | [Wahala Wahala](https://open.spotify.com/album/1tFmkdeVZL0epm6ma8GWwx) | 6:01 | 2021-10-06 |  |
 | [Survivors](https://open.spotify.com/track/4sg3rIj6Esyuj327oi3OXe) | [Los 300](https://open.spotify.com/artist/0zexiVTqcXkhGabeCpmsmV), [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT), [JJ Machuca](https://open.spotify.com/artist/5HV5YoINWiO98Oqtipy4Nt) | [Survivors](https://open.spotify.com/album/5JEFICrjmFlibba2Ebk4tN) | 4:56 | 2022-02-18 | 2022-04-07 |
 | [Sweet Danger](https://open.spotify.com/track/1IPRwv7FqZvdaawA2YWCcQ) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Sweet Danger](https://open.spotify.com/album/6pIdfb0OaCvfzN6QxKOJQ2) | 2:40 | 2025-04-15 |  |
@@ -759,6 +760,7 @@
 | [Vérité](https://open.spotify.com/track/5LFckjiAEHV0Ee3WvgpNns) | [Cinnaman](https://open.spotify.com/artist/2UHOxilPkRsyFp4EQu8Sq4), [Oko Ebombo](https://open.spotify.com/artist/0nxkDLU7KQX931VkQqaGwJ) | [Kingfisher](https://open.spotify.com/album/2HASBznAXZVZpBoaUb4ooF) | 3:50 | 2021-10-06 | 2024-04-28 |
 | [Waile](https://open.spotify.com/track/2SQ1RHD0v47oggTFmR68q1) | [WITCH](https://open.spotify.com/artist/0LMkPoi2xIgpOPUSJMftqM) | [Waile](https://open.spotify.com/album/2cYQVweVo4ZuMgIB40YRxl) | 5:15 | 2022-09-30 | 2022-11-22 |
 | [Waile](https://open.spotify.com/track/7CrdlbRadEBmd16KQWt4xf) | [WITCH](https://open.spotify.com/artist/0LMkPoi2xIgpOPUSJMftqM) | [Zango](https://open.spotify.com/album/2J92im3sUEJM3pvDqDeS7f) | 5:15 | 2023-10-05 | 2024-01-23 |
+| [Waiting For The Punchline \(Swallertrip\)](https://open.spotify.com/track/740u0eelwwCQ6pfgQzg1Gy) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Waiting For The Punchline \(Swallertrip\)](https://open.spotify.com/album/1EnXmluTzfCoiEluGATRLp) | 3:23 | 2025-06-03 |  |
 | [Warni Warni](https://open.spotify.com/track/3cAeVEM3e2qv2V4lVhMpdR) | [Omar Souleyman](https://open.spotify.com/artist/11dMqVZY4PHgVL80tejvHK) | [Wenu Wenu](https://open.spotify.com/album/3E2DQ7tVjC1zcgiCSTIoaC) | 6:52 | 2025-05-09 |  |
 | [Watany Al Kabir](https://open.spotify.com/track/4Uompvio1rSmz6geQU9Pkl) | [Ibrahim Hesnawi](https://open.spotify.com/artist/6tPa6NxEdaNHWKupImT46F) | [The Father of Libyan Reggae \(Habibi Funk 024\)](https://open.spotify.com/album/0SmSMo59rx6TuI0B8lsQuZ) | 5:44 | 2023-11-13 | 2024-06-02 |
 | [Watch me Dance](https://open.spotify.com/track/0k6HX2fPPzis023sE7qRGl) | [The Architect](https://open.spotify.com/artist/6HzVTgf7SWVWNo93bT5TEv) | [Watch me Dance](https://open.spotify.com/album/3kIrTLMiV5lbcZ6Dne5AvZ) | 3:22 | 2021-10-06 | 2022-04-21 |

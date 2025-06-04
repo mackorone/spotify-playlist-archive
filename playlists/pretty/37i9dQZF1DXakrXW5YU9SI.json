@@ -1,6 +1,6 @@
 {
   "description": "S\u0142o\u0144ce, le\u017cak i letnia b\u0142ogo\u015b\u0107 w d\u017awi\u0119kach \u2600\ufe0f",
-  "num_followers": 335244,
+  "num_followers": 335272,
   "original_name": "Letni chill",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,6 @@
     {
       "added_at": "2025-05-31 22:00:18",
       "album": {
-        "name": "Henry, come on",
-        "url": "https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 311269,
-      "name": "Henry, come on",
-      "url": "https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl"
-    },
-    {
-      "added_at": "2025-05-31 22:00:18",
-      "album": {
         "name": "Man Of The Year",
         "url": "https://open.spotify.com/album/1QSIGmlbg2zqpGbWXJNJeW"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 180433,
       "name": "Man Of The Year",
       "url": "https://open.spotify.com/track/1hoeP1oPYlhcv6iRCtB7pT"
+    },
+    {
+      "added_at": "2025-05-31 22:00:18",
+      "album": {
+        "name": "Henry, come on",
+        "url": "https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 311269,
+      "name": "Henry, come on",
+      "url": "https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl"
     },
     {
       "added_at": "2025-05-31 22:00:18",
@@ -407,22 +407,6 @@
     {
       "added_at": "2025-05-31 22:00:18",
       "album": {
-        "name": "Chc\u0119 Ciebie cz\u0119\u015bciej",
-        "url": "https://open.spotify.com/album/02Kv8S3E8SRvT14ylhpGH7"
-      },
-      "artists": [
-        {
-          "name": "Maciej Skiba",
-          "url": "https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq"
-        }
-      ],
-      "duration_ms": 181875,
-      "name": "Chc\u0119 Ciebie cz\u0119\u015bciej",
-      "url": "https://open.spotify.com/track/6pMLpqFEmvZKwPcIC16fdl"
-    },
-    {
-      "added_at": "2025-05-31 22:00:18",
-      "album": {
         "name": "Hemingway",
         "url": "https://open.spotify.com/album/3JKMx86ymxWRpnBhmbBAus"
       },
@@ -439,34 +423,18 @@
     {
       "added_at": "2025-05-31 22:00:18",
       "album": {
-        "name": "Don't Let Me Go",
-        "url": "https://open.spotify.com/album/5ipsC4SrBYv87aO75cHV7o"
+        "name": "Chc\u0119 Ciebie cz\u0119\u015bciej",
+        "url": "https://open.spotify.com/album/02Kv8S3E8SRvT14ylhpGH7"
       },
       "artists": [
         {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+          "name": "Maciej Skiba",
+          "url": "https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq"
         }
       ],
-      "duration_ms": 292093,
-      "name": "Don't Let Me Go",
-      "url": "https://open.spotify.com/track/6syQOKJfd5BR6z5YAGzQaa"
-    },
-    {
-      "added_at": "2025-05-31 22:00:18",
-      "album": {
-        "name": "Swedish Girl",
-        "url": "https://open.spotify.com/album/2HQ34fRPNtVvWJjXo101Yo"
-      },
-      "artists": [
-        {
-          "name": "Saga Faye",
-          "url": "https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv"
-        }
-      ],
-      "duration_ms": 153937,
-      "name": "Swedish Girl",
-      "url": "https://open.spotify.com/track/4KDxyRMRBTmjZ7sgfqJrPg"
+      "duration_ms": 181875,
+      "name": "Chc\u0119 Ciebie cz\u0119\u015bciej",
+      "url": "https://open.spotify.com/track/6pMLpqFEmvZKwPcIC16fdl"
     },
     {
       "added_at": "2025-05-31 22:00:18",
@@ -487,6 +455,38 @@
       "duration_ms": 179900,
       "name": "In The Middle",
       "url": "https://open.spotify.com/track/3nmvNpobyMN4Ggw7tYcqSF"
+    },
+    {
+      "added_at": "2025-05-31 22:00:18",
+      "album": {
+        "name": "Swedish Girl",
+        "url": "https://open.spotify.com/album/2HQ34fRPNtVvWJjXo101Yo"
+      },
+      "artists": [
+        {
+          "name": "Saga Faye",
+          "url": "https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv"
+        }
+      ],
+      "duration_ms": 153937,
+      "name": "Swedish Girl",
+      "url": "https://open.spotify.com/track/4KDxyRMRBTmjZ7sgfqJrPg"
+    },
+    {
+      "added_at": "2025-05-31 22:00:18",
+      "album": {
+        "name": "Don't Let Me Go",
+        "url": "https://open.spotify.com/album/5ipsC4SrBYv87aO75cHV7o"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 292093,
+      "name": "Don't Let Me Go",
+      "url": "https://open.spotify.com/track/6syQOKJfd5BR6z5YAGzQaa"
     },
     {
       "added_at": "2025-05-31 22:00:18",
@@ -523,6 +523,22 @@
     {
       "added_at": "2025-05-31 22:00:18",
       "album": {
+        "name": "Afterlife",
+        "url": "https://open.spotify.com/album/0DnQhNQf6xRTkN1nVC4l1i"
+      },
+      "artists": [
+        {
+          "name": "Alex G",
+          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
+        }
+      ],
+      "duration_ms": 210306,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/0yYQbFuqvXyZc46e2QEqI7"
+    },
+    {
+      "added_at": "2025-05-31 22:00:18",
+      "album": {
         "name": "NAPISZ JAK B\u0118DZIESZ",
         "url": "https://open.spotify.com/album/3GT8nm2EifN5XETCqz1ILe"
       },
@@ -539,6 +555,22 @@
       "duration_ms": 168000,
       "name": "JAKBY JUTRA MIA\u0141O NIE BY\u0106",
       "url": "https://open.spotify.com/track/32RXEFUIE21OJkIy57jOTU"
+    },
+    {
+      "added_at": "2025-05-31 22:00:18",
+      "album": {
+        "name": "W moim starym mieszkaniu pali si\u0119 \u015bwiat\u0142o",
+        "url": "https://open.spotify.com/album/4e9Fcc1Fo5zM9pUCpHVZaQ"
+      },
+      "artists": [
+        {
+          "name": "Ma\u0142y Atlas Burz",
+          "url": "https://open.spotify.com/artist/7eP4lYsmLi8Y70j0IUMO7V"
+        }
+      ],
+      "duration_ms": 233576,
+      "name": "Chmurne mira\u017ce",
+      "url": "https://open.spotify.com/track/0MRtKOCTj4wsjOi9NZDuqA"
     },
     {
       "added_at": "2025-05-31 22:00:18",
@@ -567,22 +599,6 @@
     {
       "added_at": "2025-05-31 22:00:18",
       "album": {
-        "name": "W moim starym mieszkaniu pali si\u0119 \u015bwiat\u0142o",
-        "url": "https://open.spotify.com/album/4e9Fcc1Fo5zM9pUCpHVZaQ"
-      },
-      "artists": [
-        {
-          "name": "Ma\u0142y Atlas Burz",
-          "url": "https://open.spotify.com/artist/7eP4lYsmLi8Y70j0IUMO7V"
-        }
-      ],
-      "duration_ms": 233576,
-      "name": "Chmurne mira\u017ce",
-      "url": "https://open.spotify.com/track/0MRtKOCTj4wsjOi9NZDuqA"
-    },
-    {
-      "added_at": "2025-05-31 22:00:18",
-      "album": {
         "name": "Momenty",
         "url": "https://open.spotify.com/album/1JZJaY1HGGVOpui0YhFsMr"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 178893,
       "name": "O Pani!",
       "url": "https://open.spotify.com/track/12BwVTLEvpQREU9mmb8H3C"
-    },
-    {
-      "added_at": "2025-05-31 22:00:18",
-      "album": {
-        "name": "Afterlife",
-        "url": "https://open.spotify.com/album/0DnQhNQf6xRTkN1nVC4l1i"
-      },
-      "artists": [
-        {
-          "name": "Alex G",
-          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
-        }
-      ],
-      "duration_ms": 210306,
-      "name": "Afterlife",
-      "url": "https://open.spotify.com/track/0yYQbFuqvXyZc46e2QEqI7"
     },
     {
       "added_at": "2025-05-31 22:00:18",
@@ -827,22 +827,6 @@
     {
       "added_at": "2025-05-31 22:00:18",
       "album": {
-        "name": "PO FAKCIE",
-        "url": "https://open.spotify.com/album/4JecW1pAXfshamrTxIvlv6"
-      },
-      "artists": [
-        {
-          "name": "Mateusz G\u0119dek",
-          "url": "https://open.spotify.com/artist/1cfpfsSRiNBDnteA7s1hQD"
-        }
-      ],
-      "duration_ms": 186206,
-      "name": "Na cz\u0119\u015bci pierwsze",
-      "url": "https://open.spotify.com/track/3B63eSVNQC2AOYjWR5vWwV"
-    },
-    {
-      "added_at": "2025-05-31 22:00:18",
-      "album": {
         "name": "Hotelowe piosenki",
         "url": "https://open.spotify.com/album/0xHVSF52jWBSJRx7TxlNNS"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 198333,
       "name": "Do jutra",
       "url": "https://open.spotify.com/track/5lxEfHFCyhsJFDGiYlTWoZ"
+    },
+    {
+      "added_at": "2025-05-31 22:00:18",
+      "album": {
+        "name": "PO FAKCIE",
+        "url": "https://open.spotify.com/album/4JecW1pAXfshamrTxIvlv6"
+      },
+      "artists": [
+        {
+          "name": "Mateusz G\u0119dek",
+          "url": "https://open.spotify.com/artist/1cfpfsSRiNBDnteA7s1hQD"
+        }
+      ],
+      "duration_ms": 186206,
+      "name": "Na cz\u0119\u015bci pierwsze",
+      "url": "https://open.spotify.com/track/3B63eSVNQC2AOYjWR5vWwV"
     },
     {
       "added_at": "2025-05-31 22:00:18",
@@ -891,6 +891,22 @@
     {
       "added_at": "2025-05-31 22:00:18",
       "album": {
+        "name": "Green Love",
+        "url": "https://open.spotify.com/album/4Sf5v9UdN3tT6gVksg9KCB"
+      },
+      "artists": [
+        {
+          "name": "TRIST\u00c1N!",
+          "url": "https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0"
+        }
+      ],
+      "duration_ms": 144240,
+      "name": "Green Love",
+      "url": "https://open.spotify.com/track/6tqKDaysOGsxyHALlKnoNp"
+    },
+    {
+      "added_at": "2025-05-31 22:00:18",
+      "album": {
         "name": "On Your Side",
         "url": "https://open.spotify.com/album/0XssrYPsFdL02B2phBvl4f"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 273829,
       "name": "Kalifornia",
       "url": "https://open.spotify.com/track/2s33rfHUFAxiTh9AzSUloU"
-    },
-    {
-      "added_at": "2025-05-31 22:00:18",
-      "album": {
-        "name": "Green Love",
-        "url": "https://open.spotify.com/album/4Sf5v9UdN3tT6gVksg9KCB"
-      },
-      "artists": [
-        {
-          "name": "TRIST\u00c1N!",
-          "url": "https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0"
-        }
-      ],
-      "duration_ms": 144240,
-      "name": "Green Love",
-      "url": "https://open.spotify.com/track/6tqKDaysOGsxyHALlKnoNp"
     },
     {
       "added_at": "2025-05-31 22:00:18",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2025-05-31 22:00:18",
       "album": {
-        "name": "in the woods",
-        "url": "https://open.spotify.com/album/3ITa8cc3RszOtg0VwgxBpK"
+        "name": "Bez",
+        "url": "https://open.spotify.com/album/2GVXwKnRnPkdKdxCfrb3kG"
       },
       "artists": [
         {
-          "name": "shama",
-          "url": "https://open.spotify.com/artist/1HhRfvC2bS9XeeiR5I5UmI"
+          "name": "maks.tachasiuk",
+          "url": "https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz"
         }
       ],
-      "duration_ms": 146584,
-      "name": "in the woods",
-      "url": "https://open.spotify.com/track/03lBsuElyuMhHK3Za6D8OC"
+      "duration_ms": 232950,
+      "name": "Bez",
+      "url": "https://open.spotify.com/track/4a6NXd5qrJv6AJrKlkZg04"
     }
   ],
   "unique_name": "Letni chill",

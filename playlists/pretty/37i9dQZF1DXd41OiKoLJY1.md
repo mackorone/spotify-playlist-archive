@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Celebrating 10 years of fresh releases from your future favorite artists\. Cover: Kim Leo Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,204 likes - 135 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,209 likes - 135 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

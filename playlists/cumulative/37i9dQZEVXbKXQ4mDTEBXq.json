@@ -774,7 +774,7 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-21",
+      "date_removed": null,
       "duration_ms": 251173,
       "name": "Can't we just be cute? -Kawaii Dakejya Damedesuka?-",
       "url": "https://open.spotify.com/track/0fsVjBFdwAzVViFD5KIIsA"
@@ -1664,7 +1664,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 170666,
       "name": "Frisco",
       "url": "https://open.spotify.com/track/5cgAh7vXzSLenjobNszFqB"
@@ -2282,7 +2282,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 171013,
       "name": "i_DOG",
       "url": "https://open.spotify.com/track/7Di6C0eNJYr8vNCd5LWGOl"
@@ -6360,7 +6360,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 219252,
       "name": "\u306a\u3093\u3067\u3082\u306a\u3044\u3088\u3001",
       "url": "https://open.spotify.com/track/5W7Y92LB4jWvu9NeEQ0GZl"
@@ -7491,6 +7491,24 @@
     },
     {
       "album": {
+        "name": "\u30cf\u30ec\u30f3\u30c1",
+        "url": "https://open.spotify.com/album/7FlnNVqs9nwO2NKe37zxFh"
+      },
+      "artists": [
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        }
+      ],
+      "date_added": "2025-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198709,
+      "name": "\u30cf\u30ec\u30f3\u30c1",
+      "url": "https://open.spotify.com/track/2BfzhBl79bcPOHHXAXJkTY"
+    },
+    {
+      "album": {
         "name": "\u30cf\u30fc\u30c8",
         "url": "https://open.spotify.com/album/2TMrGnNWnF1GgUwRY427zk"
       },
@@ -8130,7 +8148,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 203040,
       "name": "\u30ed\u30df\u30b8\u30e5\u30ea",
       "url": "https://open.spotify.com/track/3TJPkm6FGLjAgtoF3SiVyK"

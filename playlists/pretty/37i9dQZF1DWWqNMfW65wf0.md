@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNMfW65wf0.md) - [plain]
 
 > you are feeling sleepy, just go to sleep  💤
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,363 likes - 113 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,460 likes - 113 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNMfW65wf0.md) - [plain]
 | 112 | [Hiking With Friends](https://open.spotify.com/track/7v9Brf9lQzUXaAje1sKJ53) | [Jack Allenson](https://open.spotify.com/artist/3xmdKBMDTE4t48Il54UmBb) | [Hiking With Friends](https://open.spotify.com/album/5cQah2fqRS6p4GyfxhM6se) | 3:54 |
 | 113 | [Marvel Statues](https://open.spotify.com/track/1tIHEoAZldLDgtUzSv3hcC) | [AuraLoom](https://open.spotify.com/artist/2ZYVbc2WImD0mJNivdjZPV) | [Marvel Statues](https://open.spotify.com/album/0ZhLeDoEoVgYZP5YzDaOyz) | 3:01 |
 
-Snapshot ID: `aCx++gAAAADtkbkiDoPXSMSSqpSVZeTq`
+Snapshot ID: `aCx++gAAAABG9tqQ4d1bNq1AH9+U6D5I`

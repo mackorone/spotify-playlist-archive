@@ -1352,7 +1352,7 @@
       ],
       "date_added": "2024-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-03",
+      "date_removed": null,
       "duration_ms": 373761,
       "name": "Hai Vi Sao Lac",
       "url": "https://open.spotify.com/track/6qXIRHWkzCtEPERZGXO5C2"
@@ -1920,7 +1920,7 @@
       ],
       "date_added": "2024-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 320892,
       "name": "Li\u00ean kh\u00fac D\u1ea5u ch\u00e2n k\u1ef7 ni\u1ec7m",
       "url": "https://open.spotify.com/track/2UvwNy4NzDXF0OXhrTIALT"
@@ -2224,7 +2224,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 389350,
       "name": "Loai Hoa Khong Vo",
       "url": "https://open.spotify.com/track/3hhECOQCFVBzMwy0E3LSYn"
@@ -2470,7 +2470,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 338155,
       "name": "M\u00f9a Xu\u00e2n C\u01b0\u1edbi Em",
       "url": "https://open.spotify.com/track/1R4Xdk4V3jyFOQOY6kl2Ts"
@@ -2918,7 +2918,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 316928,
       "name": "Ngay Vui Qua Mau",
       "url": "https://open.spotify.com/track/1t72SNEH2cWtXI0Hj2Ib4V"
@@ -3617,6 +3617,24 @@
     },
     {
       "album": {
+        "name": "Kh\u00fac T\u00ecnh X\u01b0a 6",
+        "url": "https://open.spotify.com/album/3RTJLsZ2JBfATm9RvQVAf4"
+      },
+      "artists": [
+        {
+          "name": "L\u1ec7 Quy\u00ean",
+          "url": "https://open.spotify.com/artist/4F5jaYapI8RtTpqwaYs4IF"
+        }
+      ],
+      "date_added": "2025-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234480,
+      "name": "N\u1ed7i Bu\u1ed3n G\u00e1c Tr\u1ecd",
+      "url": "https://open.spotify.com/track/3pFEx8XYWo6c2rCpjQr3DW"
+    },
+    {
+      "album": {
         "name": "Ng\u01b0\u1eddi Ph\u1ee5 T\u00ecnh T\u00f4i",
         "url": "https://open.spotify.com/album/30NR2qhdstcERTNSbfH8P7"
       },
@@ -3848,7 +3866,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-02",
+      "date_removed": null,
       "duration_ms": 361078,
       "name": "Pho Dem",
       "url": "https://open.spotify.com/track/5iQuBfaljFa5W5W2QpGici"
@@ -4936,7 +4954,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 275442,
       "name": "Tr\u1ea3 L\u1ea1i Th\u1eddi Gian",
       "url": "https://open.spotify.com/track/0I9NZiLwDs2lLw5zREgyse"
@@ -5226,7 +5244,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-02",
+      "date_removed": null,
       "duration_ms": 425994,
       "name": "T\u1ea1 T\u1eeb Trong \u0110\u00eam",
       "url": "https://open.spotify.com/track/7J1Np3eRmXmLAbzVadZewG"
@@ -5408,6 +5426,24 @@
       "duration_ms": 342540,
       "name": "V\u1ec1 \u0110\u00e2u M\u00e1i T\u00f3c Ng\u01b0\u1eddi Th\u01b0\u01a1ng",
       "url": "https://open.spotify.com/track/3mpQ1AviqQ8iC9H5AaVVWu"
+    },
+    {
+      "album": {
+        "name": "Kh\u00fac T\u00ecnh X\u01b0a 6",
+        "url": "https://open.spotify.com/album/3RTJLsZ2JBfATm9RvQVAf4"
+      },
+      "artists": [
+        {
+          "name": "L\u1ec7 Quy\u00ean",
+          "url": "https://open.spotify.com/artist/4F5jaYapI8RtTpqwaYs4IF"
+        }
+      ],
+      "date_added": "2025-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303850,
+      "name": "V\u1ec1 \u0110\u00e2u M\u00e1i T\u00f3c Ng\u01b0\u1eddi Th\u01b0\u01a1ng",
+      "url": "https://open.spotify.com/track/1uyjScv0NWtjXuktSjEFKr"
     },
     {
       "album": {

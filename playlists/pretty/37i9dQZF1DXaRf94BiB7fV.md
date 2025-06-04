@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > The best new music by independent artists and labels in India\. Cover: Shruti Prakash, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,106 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,122 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sapno Ki Baarish](https://open.spotify.com/track/5iwDRDMYvots5xNNllWtDE) | [Shruti Prakash](https://open.spotify.com/artist/4wTxusmB0eB08npurjqk5T) | [Sapno Ki Baarish](https://open.spotify.com/album/030cigzBOr71Mk2g3Y2a62) | 2:47 |
-| 2 | [Bhul Na Jaana](https://open.spotify.com/track/0wFns369LXvtWbawB4I1q5) | [Kinjal Chatterjee](https://open.spotify.com/artist/6NXTDlHdilNA2CtajWTQFa), [Mahendra Dhirajlal Kamdar](https://open.spotify.com/artist/008i2UfJvuTt22XDlELKwK) | [Bhul Na Jaana](https://open.spotify.com/album/1QySXSZZtIeQ8iE6fVio8V) | 4:04 |
+| 2 | [Bhul Na Jaana](https://open.spotify.com/track/0wFns369LXvtWbawB4I1q5) | [Neil\-Niraj](https://open.spotify.com/artist/6hbAORztbTtFWYgkyECsug), [Kinjal Chatterjee](https://open.spotify.com/artist/6NXTDlHdilNA2CtajWTQFa), [Mahendra Dhirajlal Kamdar](https://open.spotify.com/artist/008i2UfJvuTt22XDlELKwK) | [Bhul Na Jaana](https://open.spotify.com/album/1QySXSZZtIeQ8iE6fVio8V) | 4:04 |
 | 3 | [Together Forever](https://open.spotify.com/track/3un8ppOoNRtIIhdo5L1pyJ) | [Akaash Ampili](https://open.spotify.com/artist/1AnxdG3K7LwJ9OplsErWob), [Kausthub Ravi](https://open.spotify.com/artist/3pysnK1PMZyR181lw3tjEx) | [Together Forever](https://open.spotify.com/album/1J5xYyAqGmRkicS3bDGRDR) | 3:35 |
 | 4 | [Gal Gal](https://open.spotify.com/track/0azQE36qawqCEPvkfOXU2H) | [Shubham Kabra](https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy) | [Gal Gal](https://open.spotify.com/album/0kIXL8SbZWdISCBWx1LJg6) | 2:45 |
 | 5 | [Rakhna Jo Chaha](https://open.spotify.com/track/6DbIrOzonxL8O8jpkFLpKQ) | [Riya Goley](https://open.spotify.com/artist/4ySpRlOBEyFbpSla57Tm9B), [ZRYA](https://open.spotify.com/artist/3rXwnEWqZbpPVPL1mAKot7) | [Rakhna Jo Chaha](https://open.spotify.com/album/7IhUwwGC6CdZwGm40Jwk4P) | 2:55 |

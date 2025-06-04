@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cgnKcytSCK.md) - [plain]
 
 > Music from the world of Sinners, now in theaters\. Curated by Ryan Coogler and Ludwig Göransson.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,491 likes - 74 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,307 likes - 74 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cgnKcytSCK.md) - [plain]
 | 19 | [Troubled Waters / Homesick](https://open.spotify.com/track/67OS2zUpPpLtJDt02yOxiw) | [OG DAYV](https://open.spotify.com/artist/2eSQStXY58BrvMNOWJcIrr), [Uncle James](https://open.spotify.com/artist/4W3GoXL0mb3A0CHNbPWC58), [Sinners Movie](https://open.spotify.com/artist/0SBtkuQnoKrDFqsMNrFzhU) | [Sinners \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0zjAqh1Fr7XQWy1SlzGhMn) | 4:15 |
 | 20 | [Pale, Pale Moon](https://open.spotify.com/track/3zYGlW1wIrpbo9vG79ZfMn) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB), [Sinners Movie](https://open.spotify.com/artist/0SBtkuQnoKrDFqsMNrFzhU) | [Sinners \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0zjAqh1Fr7XQWy1SlzGhMn) | 5:01 |
 | 21 | [I Lied to You \(Radio Edit\)](https://open.spotify.com/track/6cXuJmJcjV7aa0rRHtAkuK) | [Miles Caton](https://open.spotify.com/artist/0EEwD5PTnNLxUfAS22mErL), [Sinners Movie](https://open.spotify.com/artist/0SBtkuQnoKrDFqsMNrFzhU) | [Sinners \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0zjAqh1Fr7XQWy1SlzGhMn) | 2:54 |
-| 22 | [Pick Poor Robin Clean](https://open.spotify.com/track/7l3i12wLd4Zq32D8LUvLx6) | [Geeshie Wiley](https://open.spotify.com/artist/1cKNtCaFs3dRO88WDOVTeg), [Sinners Movie](https://open.spotify.com/artist/0SBtkuQnoKrDFqsMNrFzhU) | [Sinners \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0zjAqh1Fr7XQWy1SlzGhMn) | 3:12 |
+| 22 | [Pick Poor Robin Clean](https://open.spotify.com/track/7l3i12wLd4Zq32D8LUvLx6) | [Lillie Mae "Geetchie" Wiley](https://open.spotify.com/artist/14Ucg3o0RTFxhj06riK0Vq), [Sinners Movie](https://open.spotify.com/artist/0SBtkuQnoKrDFqsMNrFzhU) | [Sinners \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0zjAqh1Fr7XQWy1SlzGhMn) | 3:12 |
 | 23 | [Dark Road Blues](https://open.spotify.com/track/4GfeF91zYNEDeCpHgpM190) | [Willie Lofton](https://open.spotify.com/artist/5f0CgU806B0KdEd0QY7Bf9) | [Jackson Blues \(1928\-1938\)](https://open.spotify.com/album/31yxpUSQbO6Oa586lMo9a9) | 3:03 |
 | 24 | [Last Kind Words Blues](https://open.spotify.com/track/1o9D6eNx48cZyu5hlDnjNj) | [Geeshie Wiley](https://open.spotify.com/artist/1cKNtCaFs3dRO88WDOVTeg) | [Paramount Blues \- Lock and Key Blues](https://open.spotify.com/album/5IiApIz41TnFX0NNTmYNoC) | 3:02 |
 | 25 | [Canned Heat Blues](https://open.spotify.com/track/1Uk2MppskA0wnHUj8JwYfC) | [Tommy Johnson](https://open.spotify.com/artist/6n4r5eMU2ZUiHPPWhFDcHq) | [Tommy Johnson 1928 \- 1929](https://open.spotify.com/album/1BrjO0ZJTNZliuhAi9Orf7) | 3:39 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cgnKcytSCK.md) - [plain]
 | 73 | [I've Seen Enough of This Place](https://open.spotify.com/track/1SM05AwO0Meh0xicU6LDds) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL), [Sinners Movie](https://open.spotify.com/artist/0SBtkuQnoKrDFqsMNrFzhU) | [Sinners \(Original Motion Picture Score\)](https://open.spotify.com/album/6PQXsiHd4AjrAqhWLd5HyT) | 1:35 |
 | 74 | [Free For A Day \(feat\. Miles Caton\)](https://open.spotify.com/track/4yb0s7A7GKpIXrw404GWin) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL), [Sinners Movie](https://open.spotify.com/artist/0SBtkuQnoKrDFqsMNrFzhU), [Miles Caton](https://open.spotify.com/artist/0EEwD5PTnNLxUfAS22mErL) | [Sinners \(Original Motion Picture Score\)](https://open.spotify.com/album/6PQXsiHd4AjrAqhWLd5HyT) | 3:55 |
 
-Snapshot ID: `aAHOmwAAAACiWTy5I6BgJU/tAQCo/xtP`
+Snapshot ID: `AAAAADYz/t4a1t+/uW3ctDcl5AjU3v7E`

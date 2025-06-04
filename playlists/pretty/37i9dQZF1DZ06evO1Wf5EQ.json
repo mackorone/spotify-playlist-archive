@@ -1,12 +1,12 @@
 {
   "description": "This is Carlos Rafael Rivera. The essential tracks, all in one playlist.",
-  "num_followers": 722,
+  "num_followers": 724,
   "original_name": "This Is Carlos Rafael Rivera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDuYAAAAAABKUEEfarOTytkiyCUlZUaR",
+  "snapshot_id": "aDzpgAAAAAAWoYZnAE31TKGiZMoG6/oq",
   "tracks": [
     {
       "added_at": null,
@@ -55,6 +55,30 @@
       "duration_ms": 108178,
       "name": "Supper at Six",
       "url": "https://open.spotify.com/track/63jsh7N63DiaxMZjOTpaOV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Department Q (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1e5HzQzwRsdWNh2m5kDOUy"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        },
+        {
+          "name": "Alejandro Rafael Rivera",
+          "url": "https://open.spotify.com/artist/7lQk0Mnfyr5MTaxjKEdRa7"
+        },
+        {
+          "name": "Brian Kilgore",
+          "url": "https://open.spotify.com/artist/19hHxqWssEZPiOWfklrBJ7"
+        }
+      ],
+      "duration_ms": 36448,
+      "name": "Department Q",
+      "url": "https://open.spotify.com/track/39Vwrh3qa7GOTpSJBYoKAj"
     },
     {
       "added_at": null,
@@ -132,9 +156,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 166320,
-      "name": "Thirty Horses",
-      "url": "https://open.spotify.com/track/1x0z9afsXvpw5iCF9ZliId"
+      "duration_ms": 135493,
+      "name": "Welcome To LaBelle",
+      "url": "https://open.spotify.com/track/39ymvR1OhXUe0qt7YeFA7y"
     },
     {
       "added_at": null,
@@ -180,9 +204,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 135493,
-      "name": "Welcome To LaBelle",
-      "url": "https://open.spotify.com/track/39ymvR1OhXUe0qt7YeFA7y"
+      "duration_ms": 166320,
+      "name": "Thirty Horses",
+      "url": "https://open.spotify.com/track/1x0z9afsXvpw5iCF9ZliId"
     },
     {
       "added_at": null,
@@ -260,9 +284,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 78496,
-      "name": "The Scholar's Mate",
-      "url": "https://open.spotify.com/track/2qKga0VHaH41ajUMbVofcb"
+      "duration_ms": 184293,
+      "name": "Training With Mr. Schaibel",
+      "url": "https://open.spotify.com/track/1GZgxiTmZPfeYKsWQddxWV"
     },
     {
       "added_at": null,

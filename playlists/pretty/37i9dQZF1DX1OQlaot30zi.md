@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Guè e Rasty, Fibra, Faneto, Slings e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,323 likes - 128 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,331 likes - 128 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Il contatto](https://open.spotify.com/track/3wxQq6ZLZg1TwUl9OyYEWr) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Rasty Kilo](https://open.spotify.com/artist/0W7yEx7tCUH0FGMHB3DUL8) | [KG](https://open.spotify.com/album/2BZoZOivm2Khc1jSTRaswS) | 3:33 |
 | 2 | [Fuorilegge \(feat\. Sayf\)](https://open.spotify.com/track/04BOFFqWdb2oxhYYJdCM11) | [Disme](https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p), [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB) | [Fuorilegge \(feat\. Sayf\)](https://open.spotify.com/album/3B6NcRZgnqP8bnzcWBuNPR) | 2:06 |
-| 3 | [Zelensky \(Red Bull 64 Bars\)](https://open.spotify.com/track/1Mu5vugMIYlroUhsEBvUcr) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC), [Amadeus](https://open.spotify.com/artist/4uk6XMocbVsxmas3nvRFfb), [Chef P](https://open.spotify.com/artist/17OoMUl7RXgn7VyqYEfYWv), [James Logan](https://open.spotify.com/artist/0Murtw7qBtLsRqzV6KHtI1) | [Zelensky \(Red Bull 64 Bars\)](https://open.spotify.com/album/46ZAKcnXju1m9Gik2LOp7R) | 4:49 |
+| 3 | [Zelensky \(Red Bull 64 Bars\)](https://open.spotify.com/track/1Mu5vugMIYlroUhsEBvUcr) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC), [Amadeus](https://open.spotify.com/artist/4uk6XMocbVsxmas3nvRFfb), [Chef P](https://open.spotify.com/artist/60woSXy76lvwPIYUahR9WZ), [James Logan](https://open.spotify.com/artist/0Murtw7qBtLsRqzV6KHtI1) | [Zelensky \(Red Bull 64 Bars\)](https://open.spotify.com/album/46ZAKcnXju1m9Gik2LOp7R) | 4:49 |
 | 4 | [Suicide Doors](https://open.spotify.com/track/3S0CGNd6V6XzHlQcbZlgiQ) | [Faneto](https://open.spotify.com/artist/51101YZl9bczaDPDfVHCB4) | [Suicide Doors](https://open.spotify.com/album/5PCxicUXAOi4M3OUtmslVa) | 2:24 |
 | 5 | [Skrt](https://open.spotify.com/track/1nl6Iyk1lzQExVVZxm73pD) | [Slings](https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj) | [Skrt](https://open.spotify.com/album/39vofHj5dL8IM77TZBaicf) | 2:00 |
 | 6 | [victoria's secret \(feat\. Tony Effe\)](https://open.spotify.com/track/5V23eJS0UViOQ3vZcACHsv) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [victoria's secret \(feat\. Tony Effe\)](https://open.spotify.com/album/2pE4SGeEyGs4EJY3AYPA70) | 3:14 |

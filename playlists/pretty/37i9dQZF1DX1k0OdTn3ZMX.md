@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 
 > nü\-metal revival is happening here and now with Nevertel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,505 likes - 74 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,577 likes - 74 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Break These Chains \(feat\. Niko Vilhelm of Blind Channel\)](https://open.spotify.com/track/03epNQcpWbIg6kWRIWLfN7) | [The Rasmus](https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl), [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [Break These Chains \(feat\. Niko Vilhelm of Blind Channel\)](https://open.spotify.com/album/7ouCL5sH19AwXq1VMHhXmV) | 3:43 |
-| 2 | [Saccharine](https://open.spotify.com/track/1NiPI7ATyw4ZwI2b858XrT) | [VIOLENT VIRA](https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S) | [Saccharine](https://open.spotify.com/album/4JKSFwpmyXKYnSdplEcKXz) | 3:12 |
-| 3 | [Best Of Luck](https://open.spotify.com/track/7kw2xdUJ9oTyLogUu02grR) | [Tetrarch](https://open.spotify.com/artist/5e43m4iYsZF54tHcJNAVU2) | [The Ugly Side Of Me](https://open.spotify.com/album/2LiI9IglMpdWBRTMAQmDug) | 3:06 |
-| 4 | [All Wrong](https://open.spotify.com/track/4o8v3qZ0nBh2k5EpdS1IK7) | [MoistCr1tikal](https://open.spotify.com/artist/3NTvftovapkDsi2pc7eeS0), [Nik Nocturnal](https://open.spotify.com/artist/1Gc5ZiJhqjQQcfvMTSCa3q), [Knosis](https://open.spotify.com/artist/5o1BN92ZEG8TucPzj6czCh) | [All Wrong](https://open.spotify.com/album/1JDT7uQeWyt8HIEZnmv2pv) | 3:02 |
-| 5 | [Let You Fade](https://open.spotify.com/track/3GZt2N9dSfNCL6ArCFDpOc) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [From Zero \(Deluxe Edition\)](https://open.spotify.com/album/5QfFvOMOJ0CrIDmu33RmSJ) | 3:28 |
-| 6 | [Will You Love Me When I’m Dead](https://open.spotify.com/track/4z4JQxp5ddY3Z8ETnaPPAK) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Will You Love Me When I’m Dead](https://open.spotify.com/album/2zs0gJMS21tocKOXpWvPxU) | 3:13 |
-| 7 | [Out Of My Hands](https://open.spotify.com/track/2kXZtvoyK5AZTRajyxu7ZJ) | [Earshot](https://open.spotify.com/artist/6eeYhqOX2cpsiHY6gVuvPA) | [Out Of My Hands](https://open.spotify.com/album/7qeM2xCuKqRzlI1XjVUjzG) | 3:20 |
-| 8 | [A primeval detachment](https://open.spotify.com/track/7qb1JeP4fdlMS8ZhM6nyoI) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [A primeval detachment](https://open.spotify.com/album/4tMrAzr6WmnG2q3GR4euIu) | 4:29 |
-| 9 | [Silence](https://open.spotify.com/track/5nCkU8SFcpmRMDSQ72Krd0) | [Empire Fall](https://open.spotify.com/artist/3LURa20zIKdXG4MHqz70zp) | [Silence](https://open.spotify.com/album/2KjHwgdCvcgmOBCA2jnxUY) | 3:28 |
+| 1 | [Saccharine](https://open.spotify.com/track/1NiPI7ATyw4ZwI2b858XrT) | [VIOLENT VIRA](https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S) | [Saccharine](https://open.spotify.com/album/4JKSFwpmyXKYnSdplEcKXz) | 3:12 |
+| 2 | [Will You Love Me When I’m Dead](https://open.spotify.com/track/4z4JQxp5ddY3Z8ETnaPPAK) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Will You Love Me When I’m Dead](https://open.spotify.com/album/2zs0gJMS21tocKOXpWvPxU) | 3:13 |
+| 3 | [Silence](https://open.spotify.com/track/5nCkU8SFcpmRMDSQ72Krd0) | [Empire Fall](https://open.spotify.com/artist/3LURa20zIKdXG4MHqz70zp) | [Silence](https://open.spotify.com/album/2KjHwgdCvcgmOBCA2jnxUY) | 3:28 |
+| 4 | [Break These Chains \(feat\. Niko Vilhelm of Blind Channel\)](https://open.spotify.com/track/03epNQcpWbIg6kWRIWLfN7) | [The Rasmus](https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl), [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [Break These Chains \(feat\. Niko Vilhelm of Blind Channel\)](https://open.spotify.com/album/7ouCL5sH19AwXq1VMHhXmV) | 3:43 |
+| 5 | [Best Of Luck](https://open.spotify.com/track/7kw2xdUJ9oTyLogUu02grR) | [Tetrarch](https://open.spotify.com/artist/5e43m4iYsZF54tHcJNAVU2) | [The Ugly Side Of Me](https://open.spotify.com/album/2LiI9IglMpdWBRTMAQmDug) | 3:06 |
+| 6 | [All Wrong](https://open.spotify.com/track/4o8v3qZ0nBh2k5EpdS1IK7) | [MoistCr1tikal](https://open.spotify.com/artist/3NTvftovapkDsi2pc7eeS0), [Nik Nocturnal](https://open.spotify.com/artist/1Gc5ZiJhqjQQcfvMTSCa3q), [Knosis](https://open.spotify.com/artist/5o1BN92ZEG8TucPzj6czCh) | [All Wrong](https://open.spotify.com/album/1JDT7uQeWyt8HIEZnmv2pv) | 3:02 |
+| 7 | [Let You Fade](https://open.spotify.com/track/3GZt2N9dSfNCL6ArCFDpOc) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [From Zero \(Deluxe Edition\)](https://open.spotify.com/album/5QfFvOMOJ0CrIDmu33RmSJ) | 3:28 |
+| 8 | [Out Of My Hands](https://open.spotify.com/track/2kXZtvoyK5AZTRajyxu7ZJ) | [Earshot](https://open.spotify.com/artist/6eeYhqOX2cpsiHY6gVuvPA) | [Out Of My Hands](https://open.spotify.com/album/7qeM2xCuKqRzlI1XjVUjzG) | 3:20 |
+| 9 | [A primeval detachment](https://open.spotify.com/track/7qb1JeP4fdlMS8ZhM6nyoI) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [A primeval detachment](https://open.spotify.com/album/4tMrAzr6WmnG2q3GR4euIu) | 4:29 |
 | 10 | [The Love You Took Away](https://open.spotify.com/track/5PAj0hJpYDs3eT7hmu0izg) | [Villain of the Story](https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE) | [The Love You Took Away](https://open.spotify.com/album/1vmQbqagHVLfzRmWuFqJ5X) | 4:16 |
 | 11 | [I WON'T BACK DOWN](https://open.spotify.com/track/7nBKzSA8l5msyNV4wkDvQp) | [From Fall to Spring](https://open.spotify.com/artist/373XSzgRHjl6imFLdGNlQm) | [I WON'T BACK DOWN](https://open.spotify.com/album/10C6jOFAImGjenVam7idgu) | 3:21 |
 | 12 | [Turn It Up, Bitch](https://open.spotify.com/track/2KlKLcZPU4CptMCQ3TY5ls) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [STILL SUCKS](https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ) | 2:20 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 | 73 | [Bomb.com](https://open.spotify.com/track/3LRfBx8Z1PMQEwlFIyeNAs) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI) | [Bomb.com](https://open.spotify.com/album/5pBDxsLn3W3V8ZAvt1QZ1m) | 2:30 |
 | 74 | [LOTUS](https://open.spotify.com/track/2rYj6DXSO7B0H7MajunV07) | [Deijuvhs](https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C) | [LOTUS](https://open.spotify.com/album/1xn196oTyd4kH1o2ZYZzPu) | 3:19 |
 
-Snapshot ID: `aDktTwAAAABTwCsTBBho9airCtNjgVd1`
+Snapshot ID: `aD6h2gAAAAC9eJrwUlW0MP0+QMRFrA7u`

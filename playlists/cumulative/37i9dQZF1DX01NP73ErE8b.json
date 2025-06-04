@@ -1094,7 +1094,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 151961,
       "name": "CITT\u00c0 BRUCIATA",
       "url": "https://open.spotify.com/track/4zBPnaMz5ebUL3hIvJkG4r"
@@ -1724,7 +1724,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 173437,
       "name": "ESTREMO",
       "url": "https://open.spotify.com/track/6Q7DveRtCfLSMSg4p6VL82"
@@ -2618,7 +2618,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 191500,
       "name": "LA GELOSIA",
       "url": "https://open.spotify.com/track/4zqzwofYeyScZ7ix0KmclN"
@@ -2874,7 +2874,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 160856,
       "name": "LUNA ROSSA",
       "url": "https://open.spotify.com/track/6EAQyb4xYTzPYkxaAOwWKo"
@@ -3442,6 +3442,24 @@
       "duration_ms": 184228,
       "name": "NERO GOTICO",
       "url": "https://open.spotify.com/track/6KbUvkzreQlxHvqaCaBLRs"
+    },
+    {
+      "album": {
+        "name": "NEXT",
+        "url": "https://open.spotify.com/album/2F36LMCm7c54Ik6cU0FFjD"
+      },
+      "artists": [
+        {
+          "name": "Willie Peyote",
+          "url": "https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC"
+        }
+      ],
+      "date_added": "2025-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193184,
+      "name": "NEXT",
+      "url": "https://open.spotify.com/track/0RcyTmiVTIN7Fvv7bLkJYx"
     },
     {
       "album": {

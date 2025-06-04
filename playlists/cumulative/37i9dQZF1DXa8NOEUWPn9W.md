@@ -4,7 +4,7 @@
 
 > House music lives here\. United under one roof, featuring BLOND:ISH, Moby, and Kiko Franco
 
-1,179 songs - 2 day 20 hr 32 min
+1,180 songs - 2 day 20 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -439,6 +439,7 @@
 | [Good Love](https://open.spotify.com/track/0ZVjgfaC2Ptrod9v6p9KFP) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [RoRo](https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff) | [Good Love](https://open.spotify.com/album/4SCAkvXJmXuvoQTlQU7Q48) | 2:49 | 2023-05-19 | 2024-06-22 |
 | [Good Times](https://open.spotify.com/track/0pU3JciYtev8rQ99dhO5QG) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Good Times](https://open.spotify.com/album/0skglkvEMwvJmlStmSTWc5) | 4:10 | 2021-07-31 | 2022-05-28 |
 | [Goodnight](https://open.spotify.com/track/6meRSRdVv5HcIhS3YNpi2S) | [Husko](https://open.spotify.com/artist/5n0AvUDa25XR3AYRvocSaT) | [Goodnight](https://open.spotify.com/album/2HiCO9dQGz0zjzLn9vNajB) | 3:50 | 2021-12-18 | 2022-04-21 |
+| [Got The Funk](https://open.spotify.com/track/62HMqOpPcNgECRoOMUD8B2) | [Low Steppa](https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob), [Capri](https://open.spotify.com/artist/4eHpewi8qb1L05TZvgKn7Z) | [Got The Funk](https://open.spotify.com/album/7suz7uIzl0sWYEaGjU5g8R) | 3:04 | 2025-05-30 |  |
 | [Got Time For Me \(with Channel Tres\)](https://open.spotify.com/track/3YQNUCe3btF2wUQpzfaodu) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Got Time For Me \(with Channel Tres\)](https://open.spotify.com/album/02YZvXUwPEvxb0YLdI7oEk) | 2:59 | 2023-05-19 | 2023-09-09 |
 | [Got to Love](https://open.spotify.com/track/1no0u5mO6IY3B2L6dEzVrj) | [Tough Love](https://open.spotify.com/artist/16KSSLMXOdKQ2MHt9bOHTG) | [Got to Love](https://open.spotify.com/album/0haMb1gqT0oBzxt8oBNzyL) | 3:05 | 2021-03-27\* | 2021-05-03 |
 | [Gotta Let You Go](https://open.spotify.com/track/7Ikf5qsW8GxJq0ZfpZUHsX) | [Felix Leiter](https://open.spotify.com/artist/0NgdQNyMEbiVR0HBpzMptO), [Ango Tamarin](https://open.spotify.com/artist/7uSgmPTHeYgIu7Q5JwQpQy), [Dominica](https://open.spotify.com/artist/6bETcPKjsI4UE4ZMHtcZCh) | [Gotta Let You Go](https://open.spotify.com/album/6yCg2t2ZZ7LBjIHsR3DVND) | 2:47 | 2023-04-07 | 2023-08-05 |
@@ -500,7 +501,7 @@
 | [I Call That Love](https://open.spotify.com/track/6Oltskbk87ykZQfMPviudp) | [LA Riots](https://open.spotify.com/artist/5NnQdLx16ClNP5haoGdjk7), [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Laura White](https://open.spotify.com/artist/4eWvHAcWh3Hq6DYJ9K3mD4) | [I Call That Love](https://open.spotify.com/album/2jLRgD6Vcvrq9gvHQiZ0NV) | 3:54 | 2021-03-27\* | 2021-08-28 |
 | [I Can't Take No More](https://open.spotify.com/track/6AT2JACN4Fi5MPSBwuxnHJ) | [Tita Lau](https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h) | [I Can't Take No More](https://open.spotify.com/album/49jiyoCe2xxbyVvXNrDqKV) | 2:37 | 2024-02-23 | 2024-03-09 |
 | [I Confess \(feat\. ROMÉO\)](https://open.spotify.com/track/60aUfRZyvfi37ibBdiTJ9f) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o), [ROMÉO](https://open.spotify.com/artist/6UZAR4NCq8pcvxGZVlfuf2) | [I Confess \(feat\. ROMÉO\)](https://open.spotify.com/album/5zJDTUAiTmQUKbq7hOo64b) | 2:37 | 2022-06-10 | 2022-11-13 |
-| [I Don't Mind](https://open.spotify.com/track/6dDcpNl8BYL4gnuxMmYpAe) | [Sem Jacobs](https://open.spotify.com/artist/4IDxbXfz5yMK7OGD4sdRjt), [Esra Nuray](https://open.spotify.com/artist/6OcDeuYpbb3U1QSTeQPuA7) | [I Don't Mind](https://open.spotify.com/album/1B7r591yLIpkYA4Q3cgubw) | 3:35 | 2025-04-25 |  |
+| [I Don't Mind](https://open.spotify.com/track/6dDcpNl8BYL4gnuxMmYpAe) | [Sem Jacobs](https://open.spotify.com/artist/4IDxbXfz5yMK7OGD4sdRjt), [Esra Nuray](https://open.spotify.com/artist/6OcDeuYpbb3U1QSTeQPuA7) | [I Don't Mind](https://open.spotify.com/album/1B7r591yLIpkYA4Q3cgubw) | 3:35 | 2025-04-25 | 2025-06-04 |
 | [I Don't Wanna Work](https://open.spotify.com/track/5pfvr2T90tLuAFyJC2VSxv) | [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [I Don't Wanna Work](https://open.spotify.com/album/0T0cj4HTUWr5RJ2cpZ11eQ) | 2:35 | 2023-09-29 | 2023-12-09 |
 | [I Don't Want You Back \- Radio Mix](https://open.spotify.com/track/1kGWup2OZMbwMqDF67Koex) | [Ramona Brooks](https://open.spotify.com/artist/5Cahebgy60NokCUF6zwFEY) | [I Don't Want You Back \(Radio Mix\)](https://open.spotify.com/album/0RYjsZMEHNITPKUtWOzikL) | 4:48 | 2022-12-28 | 2023-01-06 |
 | [I Go \- DJ Koze Remix](https://open.spotify.com/track/3GHJ47kr5h2nisPvaRGBFT) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [I Go \(Remixes\)](https://open.spotify.com/album/6vSb44JSrhaD24qkr8wNUj) | 5:29 | 2022-04-06 | 2022-09-17 |

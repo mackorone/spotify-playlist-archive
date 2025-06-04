@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 
 > Mt\. Joy along with the hottest alternative songs right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 602,707 likes - 75 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 602,721 likes - 75 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 | 74 | [Fuck Off](https://open.spotify.com/track/52L8TAHmnao8FWoMiOj9hZ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Saviors \(édition de luxe\)](https://open.spotify.com/album/6j1TdmSs8ROkx7pDBwSJrO) | 2:03 |
 | 75 | [Livin' Wrong](https://open.spotify.com/track/6NGlYe5ONZL7ia5UgBHDbK) | [honestav](https://open.spotify.com/artist/5LvRazQ7EDZLfQU4HYc6XF) | [Livin' Wrong](https://open.spotify.com/album/3butJXIqn1VxR5N29zOBb4) | 2:39 |
 
-Snapshot ID: `aDkv1QAAAABR4RLxUQUBwRUI5BYosK0C`
+Snapshot ID: `aDkv1QAAAADl7/JHOgfxJsffUlUGybgN`

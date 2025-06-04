@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: Theresa Phondo & Praise Umali
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,194 likes - 100 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,228 likes - 100 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 | 99 | [How Great Thou Art](https://open.spotify.com/track/7D1WuQYqXlLd2ZlTghv6iV) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Jenge](https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT) | [How Great Thou Art](https://open.spotify.com/album/7j0vex4YSlNjS5U3SKi5RC) | 2:04 |
 | 100 | [resolve\~](https://open.spotify.com/track/7BMymBTTpyv5eUdEo8ZB4r) | [Armand Mukenge](https://open.spotify.com/artist/03FQiZQOAx6vSqB5HflG9i) | [resolve\~](https://open.spotify.com/album/49aeURRkNoDukqUGy68vLo) | 2:39 |
 
-Snapshot ID: `aDj1XAAAAADHnMVYtAT3W/g60L56QNJV`
+Snapshot ID: `aDj1XAAAAAAH++vA9g7Zn25OkWIsnujf`

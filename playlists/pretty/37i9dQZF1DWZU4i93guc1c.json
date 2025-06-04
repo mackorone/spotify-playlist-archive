@@ -1,6 +1,6 @@
 {
   "description": "\u0410\u043a\u0442\u0443\u0430\u043b\u044c\u043d\u0456 \u0445\u0456\u0442\u0438 \u0442\u0430 \u043f\u0440\u043e\u0440\u0438\u0432\u043d\u0456 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u043d\u0435\u0437\u0430\u043b\u0435\u0436\u043d\u043e\u0457 \u043c\u0456\u0441\u0446\u0435\u0432\u043e\u0457 \u043c\u0443\u0437\u0438\u043a\u0438. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: \u041a\u0440\u0438\u0445\u0456\u0442\u043a\u0430, Qarpa, \u042e\u043b\u0456\u044f \u041b\u043e\u0440\u0434",
-  "num_followers": 38605,
+  "num_followers": 38607,
   "original_name": "\u0456\u043d\u0434\u0456",
   "owner": {
     "name": "Spotify",
@@ -911,6 +911,22 @@
     {
       "added_at": "2025-05-30 14:48:39",
       "album": {
+        "name": "Sweet",
+        "url": "https://open.spotify.com/album/7KdIsa5eE5iT8IpdDhPerg"
+      },
+      "artists": [
+        {
+          "name": "LATEXFAUNA",
+          "url": "https://open.spotify.com/artist/23z16jDNwdZLV9fvE7KliP"
+        }
+      ],
+      "duration_ms": 280613,
+      "name": "Sweet",
+      "url": "https://open.spotify.com/track/3dR6r6wjWnibs1hzNyvLW5"
+    },
+    {
+      "added_at": "2025-05-30 14:48:39",
+      "album": {
         "name": "\u0413\u043e\u043b\u0430 \u043f\u0440\u0430\u0432\u0434\u0430",
         "url": "https://open.spotify.com/album/0AwITtNogPRuPOmbgPdNbV"
       },
@@ -927,18 +943,22 @@
     {
       "added_at": "2025-05-30 14:48:39",
       "album": {
-        "name": "Sweet",
-        "url": "https://open.spotify.com/album/7KdIsa5eE5iT8IpdDhPerg"
+        "name": "\u0422\u0456\u043b\u044c\u043a\u0438 \u0432 \u041a\u0438\u0454\u0432\u0456",
+        "url": "https://open.spotify.com/album/0HYJSAOFcv7yQuIrvYxCyU"
       },
       "artists": [
         {
-          "name": "LATEXFAUNA",
-          "url": "https://open.spotify.com/artist/23z16jDNwdZLV9fvE7KliP"
+          "name": "Cepasa",
+          "url": "https://open.spotify.com/artist/5fJEnhCIEvK6eevDCVJ1k1"
+        },
+        {
+          "name": "Artem Borodatiuk",
+          "url": "https://open.spotify.com/artist/2y8mm7IQmQtr5ZpyY39fdK"
         }
       ],
-      "duration_ms": 280613,
-      "name": "Sweet",
-      "url": "https://open.spotify.com/track/3dR6r6wjWnibs1hzNyvLW5"
+      "duration_ms": 199556,
+      "name": "\u0422\u0456\u043b\u044c\u043a\u0438 \u0432 \u041a\u0438\u0454\u0432\u0456",
+      "url": "https://open.spotify.com/track/3iyAfCTVpbomAFbZxretpr"
     },
     {
       "added_at": "2025-05-30 14:48:39",
@@ -991,22 +1011,6 @@
     {
       "added_at": "2025-05-30 14:48:39",
       "album": {
-        "name": "\u0437\u0430\u0447\u0430\u0440\u0443\u0432\u0430\u0432",
-        "url": "https://open.spotify.com/album/4QrNGszNGpGM5bN0RvoKv3"
-      },
-      "artists": [
-        {
-          "name": "vioria",
-          "url": "https://open.spotify.com/artist/75hPP2pTme0pcRcSAqWRfT"
-        }
-      ],
-      "duration_ms": 140133,
-      "name": "\u0437\u0430\u0447\u0430\u0440\u0443\u0432\u0430\u0432",
-      "url": "https://open.spotify.com/track/3gGneWtwWtJO1eoX7bTaDo"
-    },
-    {
-      "added_at": "2025-05-30 14:48:39",
-      "album": {
         "name": "\u0410\u0443\u0434\u0456\u043e\u0454\u0431\u043e\u043b\u043e\u0433\u0456\u044f",
         "url": "https://open.spotify.com/album/2iD7x4fjETShVr4GPUe9HZ"
       },
@@ -1023,22 +1027,18 @@
     {
       "added_at": "2025-05-30 14:48:39",
       "album": {
-        "name": "\u0422\u0456\u043b\u044c\u043a\u0438 \u0432 \u041a\u0438\u0454\u0432\u0456",
-        "url": "https://open.spotify.com/album/0HYJSAOFcv7yQuIrvYxCyU"
+        "name": "\u0437\u0430\u0447\u0430\u0440\u0443\u0432\u0430\u0432",
+        "url": "https://open.spotify.com/album/4QrNGszNGpGM5bN0RvoKv3"
       },
       "artists": [
         {
-          "name": "Cepasa",
-          "url": "https://open.spotify.com/artist/5fJEnhCIEvK6eevDCVJ1k1"
-        },
-        {
-          "name": "Artem Borodatiuk",
-          "url": "https://open.spotify.com/artist/2y8mm7IQmQtr5ZpyY39fdK"
+          "name": "vioria",
+          "url": "https://open.spotify.com/artist/75hPP2pTme0pcRcSAqWRfT"
         }
       ],
-      "duration_ms": 199556,
-      "name": "\u0422\u0456\u043b\u044c\u043a\u0438 \u0432 \u041a\u0438\u0454\u0432\u0456",
-      "url": "https://open.spotify.com/track/3iyAfCTVpbomAFbZxretpr"
+      "duration_ms": 140133,
+      "name": "\u0437\u0430\u0447\u0430\u0440\u0443\u0432\u0430\u0432",
+      "url": "https://open.spotify.com/track/3gGneWtwWtJO1eoX7bTaDo"
     },
     {
       "added_at": "2025-05-30 14:48:39",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2025-05-30 14:48:39",
       "album": {
-        "name": "\u0422\u0430\u043a \u043d\u0456\u0436\u043d\u043e",
-        "url": "https://open.spotify.com/album/0IXqSPTUJRzNsQNDigCvSw"
-      },
-      "artists": [
-        {
-          "name": "GEZWEIRDO",
-          "url": "https://open.spotify.com/artist/6bTAQ6F3BQfGWbqLz0xk46"
-        }
-      ],
-      "duration_ms": 184256,
-      "name": "\u0422\u0430\u043a \u043d\u0456\u0436\u043d\u043e",
-      "url": "https://open.spotify.com/track/41rQGeONHiocYIGRpB5Aqv"
-    },
-    {
-      "added_at": "2025-05-30 14:48:39",
-      "album": {
         "name": "\u0441\u043e\u043d",
         "url": "https://open.spotify.com/album/2n99kt5LUbfB3ZoY8cIMqz"
       },
@@ -1243,6 +1227,22 @@
     {
       "added_at": "2025-05-30 14:48:39",
       "album": {
+        "name": "\u0422\u0430\u043a \u043d\u0456\u0436\u043d\u043e",
+        "url": "https://open.spotify.com/album/0IXqSPTUJRzNsQNDigCvSw"
+      },
+      "artists": [
+        {
+          "name": "GEZWEIRDO",
+          "url": "https://open.spotify.com/artist/6bTAQ6F3BQfGWbqLz0xk46"
+        }
+      ],
+      "duration_ms": 184256,
+      "name": "\u0422\u0430\u043a \u043d\u0456\u0436\u043d\u043e",
+      "url": "https://open.spotify.com/track/41rQGeONHiocYIGRpB5Aqv"
+    },
+    {
+      "added_at": "2025-05-30 14:48:39",
+      "album": {
         "name": "\u0424\u0430\u0442\u0430",
         "url": "https://open.spotify.com/album/3lxbhmhTvCy7FH2Vi6ia7L"
       },
@@ -1255,6 +1255,38 @@
       "duration_ms": 171081,
       "name": "\u0423\u0441\u0456 \u0432 \u043c\u0435\u043d\u0456",
       "url": "https://open.spotify.com/track/4OVrTzb3SOKSaqgHX8KYda"
+    },
+    {
+      "added_at": "2025-05-30 14:48:39",
+      "album": {
+        "name": "\u0413\u043e\u043b\u043e\u0441\u043e\u0432\u0456",
+        "url": "https://open.spotify.com/album/3XOQ6ceTCx4rUjM2hskKGv"
+      },
+      "artists": [
+        {
+          "name": "IRYN",
+          "url": "https://open.spotify.com/artist/5oD5C0wSepvoGEDPtZHcKB"
+        },
+        {
+          "name": "BADWOR7H",
+          "url": "https://open.spotify.com/artist/4ZKMKmBEUvsbivCpxQhRgD"
+        },
+        {
+          "name": "\u043d\u0430 \u0457\u0457 \u043e\u0441\u043d\u043e\u0432\u0456",
+          "url": "https://open.spotify.com/artist/41McSRHiLhBgkLHPJorSLy"
+        },
+        {
+          "name": "POPIL",
+          "url": "https://open.spotify.com/artist/24aU0N7zrhEXFJkl48F1he"
+        },
+        {
+          "name": "Roma Leshchuk",
+          "url": "https://open.spotify.com/artist/00bSPDMO30gt7hwasNUe7S"
+        }
+      ],
+      "duration_ms": 150468,
+      "name": "\u0413\u043e\u043b\u043e\u0441\u043e\u0432\u0456",
+      "url": "https://open.spotify.com/track/4VKzMoQ9vfkaTUqKDKLhd5"
     },
     {
       "added_at": "2025-05-30 14:48:39",
@@ -1291,38 +1323,6 @@
       "duration_ms": 225000,
       "name": "\u0427\u0422\u041c\u0421",
       "url": "https://open.spotify.com/track/4DIAfmFZWw2ygROPNyqEwj"
-    },
-    {
-      "added_at": "2025-05-30 14:48:39",
-      "album": {
-        "name": "\u0413\u043e\u043b\u043e\u0441\u043e\u0432\u0456",
-        "url": "https://open.spotify.com/album/3XOQ6ceTCx4rUjM2hskKGv"
-      },
-      "artists": [
-        {
-          "name": "IRYN",
-          "url": "https://open.spotify.com/artist/5oD5C0wSepvoGEDPtZHcKB"
-        },
-        {
-          "name": "BADWOR7H",
-          "url": "https://open.spotify.com/artist/4ZKMKmBEUvsbivCpxQhRgD"
-        },
-        {
-          "name": "\u043d\u0430 \u0457\u0457 \u043e\u0441\u043d\u043e\u0432\u0456",
-          "url": "https://open.spotify.com/artist/41McSRHiLhBgkLHPJorSLy"
-        },
-        {
-          "name": "POPIL",
-          "url": "https://open.spotify.com/artist/24aU0N7zrhEXFJkl48F1he"
-        },
-        {
-          "name": "Roma Leshchuk",
-          "url": "https://open.spotify.com/artist/00bSPDMO30gt7hwasNUe7S"
-        }
-      ],
-      "duration_ms": 150468,
-      "name": "\u0413\u043e\u043b\u043e\u0441\u043e\u0432\u0456",
-      "url": "https://open.spotify.com/track/4VKzMoQ9vfkaTUqKDKLhd5"
     },
     {
       "added_at": "2025-05-30 14:48:39",

@@ -1511,6 +1511,24 @@
     },
     {
       "album": {
+        "name": "FLOW THE MAX !!!",
+        "url": "https://open.spotify.com/album/1a2YLSyokgLs0QB6nnmk3A"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2025-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236613,
+      "name": "Won't you stay",
+      "url": "https://open.spotify.com/track/2EvdVQMNgSFYvl2jRrd2Vx"
+    },
+    {
+      "album": {
         "name": "#5",
         "url": "https://open.spotify.com/album/0Q1yRFAqGMM58SjTyPT3xV"
       },
@@ -2172,7 +2190,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 242173,
       "name": "\u9065\u304b\u5f7c\u65b9",
       "url": "https://open.spotify.com/track/2IDmgPzLORjRMVnfiUtNax"

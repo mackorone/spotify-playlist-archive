@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe3uGcHMBcq.md) - [plain]
 
 > Sing\-along with new music from Zombies 4 Dawn of the Vampires to get ready for the Descendants/Zombies: Worlds Collide Tour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,900 likes - 181 songs - 8 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,901 likes - 181 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

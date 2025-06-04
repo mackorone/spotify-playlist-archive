@@ -149,6 +149,42 @@
     },
     {
       "album": {
+        "name": "Opus 27",
+        "url": "https://open.spotify.com/album/2nLgxZWm1oTtCeC4zwtaOe"
+      },
+      "artists": [
+        {
+          "name": "Lauren Malyon",
+          "url": "https://open.spotify.com/artist/0RiBP0mcfAcHqaA3NPUxWl"
+        }
+      ],
+      "date_added": "2025-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190677,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/4dYFO12EuM5ddqQaSA4rfm"
+    },
+    {
+      "album": {
+        "name": "Aimai",
+        "url": "https://open.spotify.com/album/55K7pJ3R8LSvNhPU9akT5m"
+      },
+      "artists": [
+        {
+          "name": "Hello Artemisia!",
+          "url": "https://open.spotify.com/artist/5A05k3XjnB2j83Vw8Iigx3"
+        }
+      ],
+      "date_added": "2025-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131112,
+      "name": "Aimai",
+      "url": "https://open.spotify.com/track/5Y0zD7CZqb13bjjFld0z79"
+    },
+    {
+      "album": {
         "name": "Anduin",
         "url": "https://open.spotify.com/album/3sCqMRUttYpfs0tEnnFBVb"
       },
@@ -1154,10 +1190,28 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 180324,
       "name": "Drifting",
       "url": "https://open.spotify.com/track/6ZPr9b4odEGaYIFdYDRGM4"
+    },
+    {
+      "album": {
+        "name": "duality",
+        "url": "https://open.spotify.com/album/7ukYmIyIG3A4Kuy8PEpsVo"
+      },
+      "artists": [
+        {
+          "name": "BARTH.",
+          "url": "https://open.spotify.com/artist/6oM4pj0cViaM9uaplSkKAl"
+        }
+      ],
+      "date_added": "2025-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127000,
+      "name": "duality",
+      "url": "https://open.spotify.com/track/5iUgwYTzvf76rHHFpYAWpS"
     },
     {
       "album": {
@@ -1212,6 +1266,24 @@
       "duration_ms": 260560,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/5pJiOBUlMmk3dv1kx2rqPu"
+    },
+    {
+      "album": {
+        "name": "Eclosion",
+        "url": "https://open.spotify.com/album/25HmPblvhLIyo64ch9IMPX"
+      },
+      "artists": [
+        {
+          "name": "Lumen Atlas",
+          "url": "https://open.spotify.com/artist/0vDZe8eJxdzdC8EbJRjbKx"
+        }
+      ],
+      "date_added": "2025-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131721,
+      "name": "Eclosion",
+      "url": "https://open.spotify.com/track/03VSAx4NPQO6zu2NYSj8Ie"
     },
     {
       "album": {
@@ -1698,6 +1770,24 @@
       "duration_ms": 207168,
       "name": "Gentle Serenity",
       "url": "https://open.spotify.com/track/4amhCY18OuVRix7E1vUZJb"
+    },
+    {
+      "album": {
+        "name": "Green Lane",
+        "url": "https://open.spotify.com/album/54GK11ZT8B08WR9FSHSsBD"
+      },
+      "artists": [
+        {
+          "name": "Jonny Nash",
+          "url": "https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde"
+        }
+      ],
+      "date_added": "2025-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Green Lane",
+      "url": "https://open.spotify.com/track/2IuF5WeOCUy4iTkxjsZHwW"
     },
     {
       "album": {
@@ -2458,7 +2548,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 163398,
       "name": "Morning Green",
       "url": "https://open.spotify.com/track/5XgIPGkUM3MhURbU31plkc"
@@ -3077,6 +3167,24 @@
     },
     {
       "album": {
+        "name": "Sapphire Dust",
+        "url": "https://open.spotify.com/album/616NOARyfUZuV6MKM1Fg1P"
+      },
+      "artists": [
+        {
+          "name": "Lifou",
+          "url": "https://open.spotify.com/artist/30A8LRNZBq4B0GmcpvK0Cc"
+        }
+      ],
+      "date_added": "2025-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145822,
+      "name": "Sapphire Dust",
+      "url": "https://open.spotify.com/track/5FVjQGYh71zgRiO537UQAd"
+    },
+    {
+      "album": {
         "name": "Sarek",
         "url": "https://open.spotify.com/album/2CmyrbcaDXk5SulZg9nRIi"
       },
@@ -3088,7 +3196,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 130250,
       "name": "Sarek",
       "url": "https://open.spotify.com/track/7tN9gRPc8eYR9mS5cQsV0M"
@@ -3459,6 +3567,24 @@
     },
     {
       "album": {
+        "name": "Spaces",
+        "url": "https://open.spotify.com/album/7eIDp6qnWDaJstg45CVCy1"
+      },
+      "artists": [
+        {
+          "name": "myndstream",
+          "url": "https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3"
+        }
+      ],
+      "date_added": "2025-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232554,
+      "name": "Spaces",
+      "url": "https://open.spotify.com/track/0syqpdhBVg2Kt4j8qhJsQP"
+    },
+    {
+      "album": {
         "name": "Spacing Out",
         "url": "https://open.spotify.com/album/5hE8ZK0cuu8oLp6K8uEtdP"
       },
@@ -3722,10 +3848,28 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-04",
       "duration_ms": 154421,
       "name": "Sweet Gesture",
       "url": "https://open.spotify.com/track/72qpJcGJO8yGMDoJpKsMBQ"
+    },
+    {
+      "album": {
+        "name": "Tachocline",
+        "url": "https://open.spotify.com/album/55jBv8TMzpzEUMKxz9CLM5"
+      },
+      "artists": [
+        {
+          "name": "By Lotus",
+          "url": "https://open.spotify.com/artist/2abf5MCGiDUvtFfBU3tHw8"
+        }
+      ],
+      "date_added": "2025-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175771,
+      "name": "Tachocline",
+      "url": "https://open.spotify.com/track/4m7TNxKkqSukLG6nyetoa1"
     },
     {
       "album": {
@@ -4682,6 +4826,24 @@
       "duration_ms": 208101,
       "name": "You Name It (Paris)",
       "url": "https://open.spotify.com/track/10m6I0dBFWiIrIC1ucVhic"
+    },
+    {
+      "album": {
+        "name": "Zenith",
+        "url": "https://open.spotify.com/album/2sWQYLr4ZtuoYBEzxWq5i6"
+      },
+      "artists": [
+        {
+          "name": "Chris Haugen",
+          "url": "https://open.spotify.com/artist/2lD7A7VWRgToPFUUKm58kZ"
+        }
+      ],
+      "date_added": "2025-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166538,
+      "name": "Zenith",
+      "url": "https://open.spotify.com/track/1S8d3I6D4hqGCq4DJ5Ddhk"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWXrDQedVqw6q"

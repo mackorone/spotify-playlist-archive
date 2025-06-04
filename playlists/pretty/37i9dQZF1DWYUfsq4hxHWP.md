@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Celebrating 10 years of the best new country music from independent artists\. Cover: Emily Ann Roberts, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,986 likes - 206 songs - 10 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,006 likes - 206 songs - 10 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -215,4 +215,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 205 | [Forever Us](https://open.spotify.com/track/6X7Cu3tY6RAed2yTyH66KI) | [Raya](https://open.spotify.com/artist/1BJkgqWpgABRMDN5VXlSQ4) | [Forever Us](https://open.spotify.com/album/6lgjT8dvoZztnLlWZ0wvyX) | 2:56 |
 | 206 | [Drink Alone](https://open.spotify.com/track/37P30RCev9b4o0KCLqrTzf) | [Graham Trude](https://open.spotify.com/artist/5oakW2vUELPELkOw5Vzv2p) | [Drink Alone](https://open.spotify.com/album/2w2db0NnT6PMo42ZHzOHZs) | 3:39 |
 
-Snapshot ID: `aDchhwAAAABcxTIkNhcDbTtk3JLJqI/5`
+Snapshot ID: `aDchhwAAAACjw5q7OeNGXXgCR915LAG7`

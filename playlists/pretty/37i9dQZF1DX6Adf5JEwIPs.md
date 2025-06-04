@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Ángela Aguilar
 
-[Spotify](https://open.spotify.com/user/spotify) - 704,110 likes - 60 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 704,124 likes - 60 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 14 | [El Borracho](https://open.spotify.com/track/62hv0T4fiR88wH4H83EX6S) | [Los Titanes De Durango](https://open.spotify.com/artist/3wGRXHdFCbyHhyVbdAWNrd), [Marco Flores Y La Jerez](https://open.spotify.com/artist/3cseuYmozraz4XJn6nDo80) | [El Borracho](https://open.spotify.com/album/2f0LPmjEB9i2zwL0Yrv4M2) | 2:14 |
 | 15 | [CASTIGO](https://open.spotify.com/track/1x0S0tqbakof1xny43nOSA) | [India Martinez](https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Aguachile](https://open.spotify.com/album/6G5UTGp9bHYZkGCiVDcknp) | 3:02 |
 | 16 | [Super Cargado](https://open.spotify.com/track/7bsmK02VPHgsz5syHK1UqZ) | [Grupo Los Chavalos](https://open.spotify.com/artist/3J8o4uEwZq2fYACRxm4rgf), [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP) | [Super Cargado](https://open.spotify.com/album/0zs1u4saQv427ET6FxLC6j) | 3:24 |
-| 17 | [De Repentazo \- feat\. JR Torres](https://open.spotify.com/track/2DtbwVqV2C8mUbIcMqXt29) | [Montana](https://open.spotify.com/artist/2o9qwAYrLQE4XxQ5uFnwC2), [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj) | [DE REPENTAZO](https://open.spotify.com/album/3132K5lXI7Y73DyL4EbV3O) | 2:32 |
+| 17 | [De Repentazo](https://open.spotify.com/track/2DtbwVqV2C8mUbIcMqXt29) | [Montana](https://open.spotify.com/artist/2o9qwAYrLQE4XxQ5uFnwC2), [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj) | [DE REPENTAZO](https://open.spotify.com/album/3132K5lXI7Y73DyL4EbV3O) | 2:32 |
 | 18 | [Amor En El Olvido](https://open.spotify.com/track/3y693nnd7aP66dVggw0pLA) | [Marisela](https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2), [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g) | [Amor En El Olvido](https://open.spotify.com/album/6M8L0f29erdNbDKQAoIXv3) | 3:22 |
 | 19 | [Gorron Camuflajeado](https://open.spotify.com/track/0S3mwuj8AzujWzPi7j5XHM) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Toño Y Freddy](https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw) | [Gorron Camuflajeado](https://open.spotify.com/album/2QLPLIZbAl4Al8DLPObtW6) | 2:40 |
 | 20 | [Mi Gruñon De Oro](https://open.spotify.com/track/5jpuWrJS34sNzUywqgtgJa) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Perfil](https://open.spotify.com/album/1XMCnii3oHdnBQyZN7w9P7) | 2:42 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 59 | [El Amor Se Nos Murió](https://open.spotify.com/track/02jqwZFMopZvdDWft8kjHY) | [Gabriella](https://open.spotify.com/artist/1n6ZR4WIvyvuioc07O5UiM) | [Yo No Te Perdí](https://open.spotify.com/album/7bsa7v7vABNSPTPIWraHkS) | 3:48 |
 | 60 | [Me Está Marcando El Diablo](https://open.spotify.com/track/3K1Tvu5CRfCxCSfA9Xz3ly) | [MANCANDY](https://open.spotify.com/artist/1MYMkIxhD5Gsq0u0NhPFVq) | [Romantikón](https://open.spotify.com/album/6wo8YWVaWzbNWEbfqs0KKQ) | 2:20 |
 
-Snapshot ID: `aDlJbQAAAACfF07NjFctPEJ23iDIzdWP`
+Snapshot ID: `aDlJbQAAAAAd6T1Oo/eE5urZl7ElddFi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WLOwiFoIBJ.md) - [plain]
 
 > These are the songs that have shaped <a href="https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE?si=qdWK3\-k8R2u1\_TroCpsRWg">Kevin Abstract's</a> alternative spirit\. Check out the latest COUNTER//CULTURE mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI"> here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,864 likes - 30 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,882 likes - 30 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WLOwiFoIBJ.md) - [plain]
 | 29 | [Gnaw](https://open.spotify.com/track/4KwttC1ZokLqillyhJgSe8) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Race](https://open.spotify.com/album/3hY0WIR79EKnQcwUsyRy5m) | 3:21 |
 | 30 | [The Cold Part](https://open.spotify.com/track/3knvtUJiuDs1WZsbrR1puY) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [The Moon & Antarctica](https://open.spotify.com/album/5SbcupirEParczvqqyUPXL) | 5:00 |
 
-Snapshot ID: `ZaDHUAAAAACCgXjYCxsaPf8tpnmIeDUp`
+Snapshot ID: `ZaDHUAAAAABn0pUjNKZfTMUbH1MXbLam`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GRgeFnUb3o.md) - [plain]
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,251 likes - 61 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,274 likes - 61 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GRgeFnUb3o.md) - [plain]
 | 60 | [Good Enough](https://open.spotify.com/track/26lgpX6SguLbcahokmPLTW) | [Mudhoney](https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9) | [Every Good Boy Deserves Fudge](https://open.spotify.com/album/3C5VFKLpr6ppPRHrInLNeI) | 3:25 |
 | 61 | [Marijuana](https://open.spotify.com/track/61bdPPJFoRLK4zrmOALWdh) | [The Reverend Horton Heat](https://open.spotify.com/artist/4byZW0sEv5RUoyQBfv7CPw) | [Smoke 'em if You Got 'em](https://open.spotify.com/album/0L6bVkOPxVbkBvjTRTT7jz) | 4:49 |
 
-Snapshot ID: `Zow2ywAAAABFGWKz3PwnC6dhWheGLR68`
+Snapshot ID: `Zow2ywAAAACVBAb/QWRPaBwCV/60F05Y`

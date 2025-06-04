@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdoMAjKwiHY5.md) - [plain]
 
 > Got Fray\-fever? Or craving some DeGraw\-delights? Board the Train\-train and enjoy these pop/rock favorites\. Cover: Counting Crows
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,138 likes - 78 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,151 likes - 78 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdoMAjKwiHY5.md) - [plain]
 | 77 | [Sleepwalker](https://open.spotify.com/track/5szl1EdOw3CuvItkpGuDHk) | [The Wallflowers](https://open.spotify.com/artist/0jJNGWrpjGIHUdTTJiIYeB) | [Breach](https://open.spotify.com/album/0NkjpLDsYnqAdfEre7EHNL) | 3:31 |
 | 78 | [Be Like That](https://open.spotify.com/track/3PbHle8KhJp6GuO1jLdEmQ) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [The Better Life](https://open.spotify.com/album/5gO2acKSOaJnP0Mcy8IpU6) | 4:25 |
 
-Snapshot ID: `Z7gIaAAAAAD7NyJWQXOR4gFgOCKU3RKG`
+Snapshot ID: `Z7gIaAAAAAC3IlNqapb6tlDoCoM+52WO`

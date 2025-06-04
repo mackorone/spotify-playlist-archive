@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > Wekelijkse update met Hollands en volks\. Cover: Mart Hoogkamer
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,358 likes - 70 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,379 likes - 70 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 69 | [Vanavond zijn we hier](https://open.spotify.com/track/5QdaMBEwFiOOFMxOIMGbLZ) | [Helemaal Hollands](https://open.spotify.com/artist/0VTDgLvqZBSYXBE5d8ouhE) | [Vanavond zijn we hier](https://open.spotify.com/album/6yjeyDSub3nnIWwIcx6QiQ) | 3:02 |
 | 70 | [Waar Ga Jij Zo Laat Naar Toe?](https://open.spotify.com/track/1h7NnmLh0prY3A1aipbKK7) | [Delano Bisschops](https://open.spotify.com/artist/1Euc01XIupZAthccgXPuG5) | [Waar Ga Jij Zo Laat Naar Toe?](https://open.spotify.com/album/6JLzDKtWuwy3ivpYRSkCSO) | 3:32 |
 
-Snapshot ID: `aDjZAAAAAABYyijU753fB5ohMEAtKn+4`
+Snapshot ID: `aD7XhgAAAABpikXvWUV5KQv917bhzOBz`

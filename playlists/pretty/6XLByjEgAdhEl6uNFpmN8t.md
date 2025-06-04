@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6XLByjEgAdhEl6uNFpmN8t.md) - [plain]
 
 > 
 
-[vida\_bence](https://open.spotify.com/user/vida_bence) - 1 like - 107 songs - 5 hr 27 min
+[vida\_bence](https://open.spotify.com/user/vida_bence) - 1 like - 108 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,5 +115,6 @@ pretty - [cumulative](/playlists/cumulative/6XLByjEgAdhEl6uNFpmN8t.md) - [plain]
 | 105 | [Paranoiás](https://open.spotify.com/track/30ezZEzXPCyUUv8Rr8lnB4) | [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv), [M Ricch](https://open.spotify.com/artist/4mT5vbooKo8dycjBCo9a4h) | [Paranoia](https://open.spotify.com/album/40oR75NLHfJOhC3gSX5khZ) | 3:23 |
 | 106 | [Vinnipu](https://open.spotify.com/track/3yLlQXH3AucZNk0SEB80Kc) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [Vinnipu](https://open.spotify.com/album/4vrF4zMQLZIiRXVbLZbS9J) | 1:48 |
 | 107 | [Bőrdzseki](https://open.spotify.com/track/0Q7svGLDz6ENSjCKFm3cWr) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG), [VALMAR](https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh) | [AZ ALBUM](https://open.spotify.com/album/3TqmUOKPmFUO7Dg3VDgEXN) | 2:42 |
+| 108 | [SÖTÉT](https://open.spotify.com/track/68SnGU5Oa3SEV7y8w1L9bk) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [SÖTÉT](https://open.spotify.com/album/5OGJpFmfbmdUyWGF3PiA5z) | 2:24 |
 
-Snapshot ID: `AAAAyklgnJeertu+YjqEIg/2dRb+yzAW`
+Snapshot ID: `AAAAy6J8zx3Sq5gS23RiWl2TBGGU85yy`

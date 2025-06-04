@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,696 likes - 515 songs - 1 day 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,812 likes - 515 songs - 1 day 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -187,7 +187,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 177 | [Higher](https://open.spotify.com/track/6LbA4zFOqvuHx3Zn1FyLiR) | [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf) | [Higher](https://open.spotify.com/album/0laWiilr8KsdXWT2n2HAjW) | 2:26 |
 | 178 | [just stand there](https://open.spotify.com/track/2D9a9CXeo3HFtVeaNlzp4a) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [ten days](https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh) | 4:20 |
 | 179 | [TRIPPIN](https://open.spotify.com/track/4ml1Eq4wmcdfN0Q6pNEly7) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [TRIPPIN](https://open.spotify.com/album/6csFTPBuceEsBcSHGzQTaJ) | 3:22 |
-| 180 | [Signs](https://open.spotify.com/track/0bjGpxgwmM0LzWl23PumOh) | [ayokay](https://open.spotify.com/artist/4BzCdhJTyTS3gumq9xmymb) | [Signs](https://open.spotify.com/album/4HI9x4NkVlJ0i9AehbKbpl) | 3:47 |
+| 180 | [Signs](https://open.spotify.com/track/0bjGpxgwmM0LzWl23PumOh) | [mor•a•mor](https://open.spotify.com/artist/6wUeDwFETrFhhC1GaKMC42) | [Signs](https://open.spotify.com/album/4HI9x4NkVlJ0i9AehbKbpl) | 3:47 |
 | 181 | [Highlight \- jigitz Remix](https://open.spotify.com/track/0S2M1qkve0r09dvQw4WmbE) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt), [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [Highlight \(jigitz Remix\)](https://open.spotify.com/album/1P0suDsFOBQ5UVZHvWvrdj) | 4:06 |
 | 182 | [Run](https://open.spotify.com/track/0vwtjsp4jjmTNiUnHNX0xd) | [Discrete](https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov), [Welt](https://open.spotify.com/artist/4hlzEVQyBgze0kLOLwTV2r) | [Run](https://open.spotify.com/album/2ECuabiMF6S0TAVRO6fS4F) | 3:01 |
 | 183 | [Often](https://open.spotify.com/track/44QZweE0DwqYkjyAySHY61) | [Takis](https://open.spotify.com/artist/2UP3E5PuFYs6mRpeuXJUq4) | [Often](https://open.spotify.com/album/5SFDE5073LzAsA0UmkpeKO) | 2:55 |

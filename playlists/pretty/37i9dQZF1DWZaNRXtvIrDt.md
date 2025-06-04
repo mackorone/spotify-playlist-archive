@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > A new world of alternative electronic music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,136 likes - 79 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,138 likes - 79 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 78 | [Elastic \- Phase I](https://open.spotify.com/track/2HIvQNnCxhuQUoUirbng0f) | [Opal Sunn](https://open.spotify.com/artist/78S74FaXeZ5e7JyMF8Axok) | [Elastic](https://open.spotify.com/album/3YHLj3TfhUY5fXbPb3CfQc) | 10:28 |
 | 79 | [\~O.V.O\~](https://open.spotify.com/track/1hpIlvnByp3N9H0mjtjC8w) | [Cousin](https://open.spotify.com/artist/3riNyLWUNSai045asUQE3Q) | [\~O.V.O\~](https://open.spotify.com/album/3ULCMpZ7fnBHoHkIH3TNtn) | 5:30 |
 
-Snapshot ID: `aDhoYwAAAAB2Ac0jsdZ4A7YaSJQfzCXF`
+Snapshot ID: `AAAAACM4kPMbUWBmHEGdjbS+tHolcYnX`

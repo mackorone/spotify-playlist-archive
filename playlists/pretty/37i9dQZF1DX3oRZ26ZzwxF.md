@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oRZ26ZzwxF.md) - [plain]
 
 > Le meilleur du rap africain francophone\. Photo : J\-Haine
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,825 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,853 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oRZ26ZzwxF.md) - [plain]
 | 10 | [Deodorant](https://open.spotify.com/track/1ZXvWdX8l4j7JLL9kSoiT5) | [Toofan](https://open.spotify.com/artist/5BfpzKNakWiXUNm1RfBgUi) | [Deodorant](https://open.spotify.com/album/4KZT1WtDnBnkww8q53m0xo) | 2:01 |
 | 11 | [Monalisa](https://open.spotify.com/track/55UrNTlMsd1ADUZ4kzriV7) | [Suspect95](https://open.spotify.com/artist/1iOxNiCG89VJAPdTzJKKQ9), [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS) | [Monalisa](https://open.spotify.com/album/4nqE8lMwgzg9BeQEWNLHba) | 2:57 |
 | 12 | [Décalé chinois](https://open.spotify.com/track/6XbDnaBXrY0rhEbWG9miWX) | [MRKing](https://open.spotify.com/artist/5OLzYSgM51p6y0RV3STRZH) | [Décalé chinois](https://open.spotify.com/album/7h7xQluLbnIFe3tYLxI3Af) | 3:05 |
-| 13 | [Vieux Menthos \(feat\. Fior 2 Bior\)](https://open.spotify.com/track/3wyvqqmtDte3VjI0qNtvqi) | [AKIM PAPICHULO](https://open.spotify.com/artist/4YoNTFyTQlpPs0y603bBS6), [Fior 2 Bior](https://open.spotify.com/artist/1Aa3gpwuQeWHXUkjCa6BrL) | [LOVE CONTENT \(Pt\. 1\)](https://open.spotify.com/album/708N6j6rRage0rjl7p0qC4) | 2:17 |
+| 13 | [Vieux Menthos](https://open.spotify.com/track/3wyvqqmtDte3VjI0qNtvqi) | [AKIM PAPICHULO](https://open.spotify.com/artist/4YoNTFyTQlpPs0y603bBS6), [Fior 2 Bior](https://open.spotify.com/artist/1Aa3gpwuQeWHXUkjCa6BrL) | [LOVE CONTENT \(Pt\. 1\)](https://open.spotify.com/album/708N6j6rRage0rjl7p0qC4) | 2:17 |
 | 14 | [Satanana \(feat\. DRE\-A\)](https://open.spotify.com/track/0QgxlcdUM6wUniw0ppYQlG) | [EBOLOKO](https://open.spotify.com/artist/3nUEeV8UXAOUqpXm6WahYR), [DRE\-A](https://open.spotify.com/artist/7fgp0tqyX3Rccl9P9042mE) | [Satanana \(feat\. DRE\-A\)](https://open.spotify.com/album/6RrXnrMFJMjdzVBploTzHD) | 2:49 |
 | 15 | [Drill Décalé](https://open.spotify.com/track/59YGtVBwuMBDhU07urpA1d) | [Safarel Obiang](https://open.spotify.com/artist/6AmjB7L0xr4B5iriGwHjxK), [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS) | [L’hybride](https://open.spotify.com/album/4i6y2mFHotCm1CEkjFOPEg) | 2:44 |
 | 16 | [NOUVEAU DEPART](https://open.spotify.com/track/4g84qKeORneas4FmwngVr1) | [døpelym](https://open.spotify.com/artist/6CIALFc80ExDhcy2xI6eJs) | [NOUVEAU DEPART](https://open.spotify.com/album/4ujvMhSP81fvCHa0IeKqgt) | 2:31 |

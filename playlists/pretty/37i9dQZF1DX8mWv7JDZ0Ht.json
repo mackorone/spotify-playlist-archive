@@ -1,6 +1,6 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto: Rebeca",
-  "num_followers": 437863,
+  "num_followers": 437851,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -331,6 +331,22 @@
     {
       "added_at": "2025-05-23 03:00:12",
       "album": {
+        "name": "Depois do Fim (Deluxe)",
+        "url": "https://open.spotify.com/album/4Rfk2LiqBbz0FH97L9WWoy"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        }
+      ],
+      "duration_ms": 132439,
+      "name": "C\u00f3cegas",
+      "url": "https://open.spotify.com/track/0OXEKRIQpYwKxgyiFdaNz3"
+    },
+    {
+      "added_at": "2025-05-23 03:00:12",
+      "album": {
         "name": "Quem \u00c9 Voc\u00ea?",
         "url": "https://open.spotify.com/album/1uYirHTJk4GYz1QpgDRLtk"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 224500,
       "name": "Quem \u00c9 Voc\u00ea?",
       "url": "https://open.spotify.com/track/0fburSFYhNq39QBirzGILU"
-    },
-    {
-      "added_at": "2025-05-23 03:00:12",
-      "album": {
-        "name": "Depois do Fim (Deluxe)",
-        "url": "https://open.spotify.com/album/4Rfk2LiqBbz0FH97L9WWoy"
-      },
-      "artists": [
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        }
-      ],
-      "duration_ms": 132439,
-      "name": "C\u00f3cegas",
-      "url": "https://open.spotify.com/track/0OXEKRIQpYwKxgyiFdaNz3"
     },
     {
       "added_at": "2025-05-23 03:00:12",
@@ -399,22 +399,6 @@
     {
       "added_at": "2025-05-23 03:00:12",
       "album": {
-        "name": "\u00c2mbar",
-        "url": "https://open.spotify.com/album/25iYTRlmDMaSMYMedcjkEl"
-      },
-      "artists": [
-        {
-          "name": "Tain\u00e1",
-          "url": "https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC"
-        }
-      ],
-      "duration_ms": 172586,
-      "name": "\u00c2mbar",
-      "url": "https://open.spotify.com/track/3tZSEpmI6vAJO5iAZVrQvN"
-    },
-    {
-      "added_at": "2025-05-23 03:00:12",
-      "album": {
         "name": "Noites De Monza",
         "url": "https://open.spotify.com/album/7M8OrSrFiDbJoYVbUReWeH"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 171311,
       "name": "Noites De Monza",
       "url": "https://open.spotify.com/track/604SDg8AblpTWXWv1dgy4b"
+    },
+    {
+      "added_at": "2025-05-23 03:00:12",
+      "album": {
+        "name": "\u00c2mbar",
+        "url": "https://open.spotify.com/album/25iYTRlmDMaSMYMedcjkEl"
+      },
+      "artists": [
+        {
+          "name": "Tain\u00e1",
+          "url": "https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC"
+        }
+      ],
+      "duration_ms": 172586,
+      "name": "\u00c2mbar",
+      "url": "https://open.spotify.com/track/3tZSEpmI6vAJO5iAZVrQvN"
     },
     {
       "added_at": "2025-05-23 03:00:12",
@@ -515,22 +515,6 @@
     {
       "added_at": "2025-05-23 03:00:12",
       "album": {
-        "name": "P E R T O",
-        "url": "https://open.spotify.com/album/2yZsWNbI68GdHoFr8e9LwF"
-      },
-      "artists": [
-        {
-          "name": "S\u00e1vio",
-          "url": "https://open.spotify.com/artist/4ElL2M4IPZftmoEmkHgMiz"
-        }
-      ],
-      "duration_ms": 155205,
-      "name": "N\u00e3o Presta",
-      "url": "https://open.spotify.com/track/7hM8V71vwDG1FsuJSsiPX3"
-    },
-    {
-      "added_at": "2025-05-23 03:00:12",
-      "album": {
         "name": "O Nosso Amor \u00c9 T\u00e3o Bom",
         "url": "https://open.spotify.com/album/4bUSX0FXo1yRNfZqKVcIc7"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 202806,
       "name": "O Nosso Amor \u00c9 T\u00e3o Bom",
       "url": "https://open.spotify.com/track/4Qrdq3VURmpiKZNLgk3Ve8"
+    },
+    {
+      "added_at": "2025-05-23 03:00:12",
+      "album": {
+        "name": "P E R T O",
+        "url": "https://open.spotify.com/album/2yZsWNbI68GdHoFr8e9LwF"
+      },
+      "artists": [
+        {
+          "name": "S\u00e1vio",
+          "url": "https://open.spotify.com/artist/4ElL2M4IPZftmoEmkHgMiz"
+        }
+      ],
+      "duration_ms": 155205,
+      "name": "N\u00e3o Presta",
+      "url": "https://open.spotify.com/track/7hM8V71vwDG1FsuJSsiPX3"
     },
     {
       "added_at": "2025-05-23 03:00:12",
@@ -563,22 +563,6 @@
     {
       "added_at": "2025-05-23 03:00:12",
       "album": {
-        "name": "Caso eu Case",
-        "url": "https://open.spotify.com/album/1AXAbo0MahhFvMssaQeLKN"
-      },
-      "artists": [
-        {
-          "name": "Bryan Behr",
-          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
-        }
-      ],
-      "duration_ms": 215943,
-      "name": "Caso eu Case",
-      "url": "https://open.spotify.com/track/3j2UOXZPxtom0x0TnR15mu"
-    },
-    {
-      "added_at": "2025-05-23 03:00:12",
-      "album": {
         "name": "Vest\u00edgios",
         "url": "https://open.spotify.com/album/22GNKVFgtKmIwjyMU0WRwE"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 153714,
       "name": "Vest\u00edgios",
       "url": "https://open.spotify.com/track/6NbNukziHssaBCFssf7vIk"
+    },
+    {
+      "added_at": "2025-05-23 03:00:12",
+      "album": {
+        "name": "Caso eu Case",
+        "url": "https://open.spotify.com/album/1AXAbo0MahhFvMssaQeLKN"
+      },
+      "artists": [
+        {
+          "name": "Bryan Behr",
+          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
+        }
+      ],
+      "duration_ms": 215943,
+      "name": "Caso eu Case",
+      "url": "https://open.spotify.com/track/3j2UOXZPxtom0x0TnR15mu"
     },
     {
       "added_at": "2025-05-23 03:00:12",
@@ -815,22 +815,6 @@
     {
       "added_at": "2025-05-23 03:00:12",
       "album": {
-        "name": "Tanto",
-        "url": "https://open.spotify.com/album/6UnPlaIzrlpTwH40c9Z1R1"
-      },
-      "artists": [
-        {
-          "name": "Bruna Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p"
-        }
-      ],
-      "duration_ms": 186465,
-      "name": "Tanto",
-      "url": "https://open.spotify.com/track/39y7YPqa1gxJPq52KkOAzV"
-    },
-    {
-      "added_at": "2025-05-23 03:00:12",
-      "album": {
         "name": "Me Deixa Ser S\u00f3 Teu",
         "url": "https://open.spotify.com/album/7DVILBii25JRTBNEs2FSpo"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 160000,
       "name": "Me Deixa Ser S\u00f3 Teu",
       "url": "https://open.spotify.com/track/7BbvwwfefoDf88vcb1YKJq"
+    },
+    {
+      "added_at": "2025-05-23 03:00:12",
+      "album": {
+        "name": "Tanto",
+        "url": "https://open.spotify.com/album/6UnPlaIzrlpTwH40c9Z1R1"
+      },
+      "artists": [
+        {
+          "name": "Bruna Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p"
+        }
+      ],
+      "duration_ms": 186465,
+      "name": "Tanto",
+      "url": "https://open.spotify.com/track/39y7YPqa1gxJPq52KkOAzV"
     },
     {
       "added_at": "2025-05-23 03:00:12",
@@ -899,22 +899,6 @@
     {
       "added_at": "2025-05-23 03:00:12",
       "album": {
-        "name": "me chama",
-        "url": "https://open.spotify.com/album/4NnpkK3fq5tFtrwB36gQ8R"
-      },
-      "artists": [
-        {
-          "name": "Clara Valverde",
-          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
-        }
-      ],
-      "duration_ms": 157846,
-      "name": "me chama",
-      "url": "https://open.spotify.com/track/5zxmVREF4n8VpCzkSBuvjY"
-    },
-    {
-      "added_at": "2025-05-23 03:00:12",
-      "album": {
         "name": "Todas as Saudades",
         "url": "https://open.spotify.com/album/58NY935b2aa1TF9JMvKTAH"
       },
@@ -951,6 +935,22 @@
     {
       "added_at": "2025-05-23 03:00:12",
       "album": {
+        "name": "me chama",
+        "url": "https://open.spotify.com/album/4NnpkK3fq5tFtrwB36gQ8R"
+      },
+      "artists": [
+        {
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+        }
+      ],
+      "duration_ms": 157846,
+      "name": "me chama",
+      "url": "https://open.spotify.com/track/5zxmVREF4n8VpCzkSBuvjY"
+    },
+    {
+      "added_at": "2025-05-23 03:00:12",
+      "album": {
         "name": "TR\u00d3PICO 96 (Edi\u00e7\u00e3o de Ver\u00e3o)",
         "url": "https://open.spotify.com/album/4VqaMQC992nJjlkOVDlmyJ"
       },
@@ -967,22 +967,6 @@
     {
       "added_at": "2025-05-23 03:00:12",
       "album": {
-        "name": "Meu Corpo Pede",
-        "url": "https://open.spotify.com/album/6GyMWHsdiT8h6G6olgh1Iu"
-      },
-      "artists": [
-        {
-          "name": "Estev\u00e3o F\u00e9lix",
-          "url": "https://open.spotify.com/artist/4KKwxa2esB1M0euBbBDAui"
-        }
-      ],
-      "duration_ms": 173365,
-      "name": "Meu corpo pede",
-      "url": "https://open.spotify.com/track/145xL4bCzmtUDz8JBfP18u"
-    },
-    {
-      "added_at": "2025-05-23 03:00:12",
-      "album": {
         "name": "Entre o Nada e o Infinito",
         "url": "https://open.spotify.com/album/6Bcfg7Jp8jXh0sWfANpW4H"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 175080,
       "name": "acende essa ponta",
       "url": "https://open.spotify.com/track/4s5kTZGsaOJuFAWPvkERe5"
+    },
+    {
+      "added_at": "2025-05-23 03:00:12",
+      "album": {
+        "name": "Meu Corpo Pede",
+        "url": "https://open.spotify.com/album/6GyMWHsdiT8h6G6olgh1Iu"
+      },
+      "artists": [
+        {
+          "name": "Estev\u00e3o F\u00e9lix",
+          "url": "https://open.spotify.com/artist/4KKwxa2esB1M0euBbBDAui"
+        }
+      ],
+      "duration_ms": 173365,
+      "name": "Meu corpo pede",
+      "url": "https://open.spotify.com/track/145xL4bCzmtUDz8JBfP18u"
     },
     {
       "added_at": "2025-05-23 03:00:12",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2025-05-23 03:00:12",
       "album": {
-        "name": "Eu, Camar\u00e3o e Ela",
-        "url": "https://open.spotify.com/album/2SsdHcWLg4OdAB8k8VIftB"
-      },
-      "artists": [
-        {
-          "name": "Pedro Em\u00edlio",
-          "url": "https://open.spotify.com/artist/7ksllq82eO4mTbz0dKvQ5N"
-        }
-      ],
-      "duration_ms": 160145,
-      "name": "Eu, Camar\u00e3o e Ela",
-      "url": "https://open.spotify.com/track/4PW7jCKTgMvyEP07HMtN0v"
-    },
-    {
-      "added_at": "2025-05-23 03:00:12",
-      "album": {
         "name": "Inverno Sem Ver\u00e3o",
         "url": "https://open.spotify.com/album/0ZAIm8VlJw8IqQ3UmYMEnf"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 230333,
       "name": "Inverno Sem Ver\u00e3o",
       "url": "https://open.spotify.com/track/6M5FpmdT1YWh3Nu16azdL9"
+    },
+    {
+      "added_at": "2025-05-23 03:00:12",
+      "album": {
+        "name": "Eu, Camar\u00e3o e Ela",
+        "url": "https://open.spotify.com/album/2SsdHcWLg4OdAB8k8VIftB"
+      },
+      "artists": [
+        {
+          "name": "Pedro Em\u00edlio",
+          "url": "https://open.spotify.com/artist/7ksllq82eO4mTbz0dKvQ5N"
+        }
+      ],
+      "duration_ms": 160145,
+      "name": "Eu, Camar\u00e3o e Ela",
+      "url": "https://open.spotify.com/track/4PW7jCKTgMvyEP07HMtN0v"
     },
     {
       "added_at": "2025-05-23 03:00:12",

@@ -4,7 +4,7 @@
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:0WqsT2a4CBuQ0LC7vrJD0H">Nino Paid</a>
 
-2,348 songs - 4 day 8 hr 22 min
+2,349 songs - 4 day 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [All Love](https://open.spotify.com/track/7IKnEGBksiu4UWv4HOYrAH) | [Heembeezy](https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei), [Wizz Havinn](https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE) | [All Love](https://open.spotify.com/album/3WPlFCZf68H67CsvrzJp1f) | 2:37 | 2023-07-07 | 2023-08-12 |
 | [All Love](https://open.spotify.com/track/7qiqChGX27g39lIhBWZKGK) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [All Love](https://open.spotify.com/album/1HBEA5Xw6jOhKyjVaWlsdL) | 2:02 | 2024-03-22 | 2024-03-30 |
 | [All Mine](https://open.spotify.com/track/03e6ATyNO3OTDDPjElXQWF) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [All Mine](https://open.spotify.com/album/62dxP5Rds4BGwzjbJlMvgI) | 2:20 | 2024-10-18 | 2024-11-30 |
-| [all my hoes](https://open.spotify.com/track/1lHBWS4ql7BGKCWkwTV4Ca) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [all my hoes](https://open.spotify.com/album/0yypup3UfzoZwa0HF3lrd3) | 1:56 | 2025-04-18 |  |
+| [all my hoes](https://open.spotify.com/track/1lHBWS4ql7BGKCWkwTV4Ca) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [all my hoes](https://open.spotify.com/album/0yypup3UfzoZwa0HF3lrd3) | 1:56 | 2025-04-18 | 2025-06-04 |
 | [All Night Long](https://open.spotify.com/track/3gw2cdej8K6EaLEzAgs4U0) | [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [All Night Long](https://open.spotify.com/album/3WKSeXqTJkMAP8qFYAYSFR) | 2:40 | 2023-11-24 | 2024-02-03 |
 | [All Star Team](https://open.spotify.com/track/1XymOhvY6pThNXJWYzP5h0) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [All Star Team](https://open.spotify.com/album/3cAqYBlosbQg5TmcKu6qjf) | 1:47 | 2023-06-09 | 2023-07-22 |
 | [Allegations \(feat\. Pooh Shiesty\)](https://open.spotify.com/track/1Fhb9neDPyEyTaZZ3qmIn4) | [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [King Of Killbranch](https://open.spotify.com/album/1NDrL1t8NNB233FRqbzzoK) | 2:40 | 2022-01-12 | 2022-02-26 |
@@ -1889,6 +1889,7 @@
 | [Slow It Down \(feat\. 310babii\) \- Remix](https://open.spotify.com/track/4ZBAIrRUGcRnTWWNEVlnWi) | [John Mackk](https://open.spotify.com/artist/57Ay3Ye4cloEzuDSTYQ1kw), [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [Slow It Down \(feat\. 310babii\) \[Remix\]](https://open.spotify.com/album/07nA13Tm7sd6fnjQtcUWHM) | 2:51 | 2023-11-17 | 2024-02-10 |
 | [SLUT ME OUT 2](https://open.spotify.com/track/22yRHdYBLZMi7xnvBioqkP) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [SLUT ME OUT 2](https://open.spotify.com/album/5BEgYBYUzfvGoU1uLHvGRA) | 2:15 | 2024-04-12 | 2024-12-28 |
 | [Smackers 2](https://open.spotify.com/track/4qYTLmo3tuCCRNYCVsEjF7) | [BAK Jay](https://open.spotify.com/artist/7L2tttKztwzcNqrKUiEbZR), [FBG Murda](https://open.spotify.com/artist/7epN7rM4Hg4WRdl9e4Rsr5) | [Youngest In Charge](https://open.spotify.com/album/6NDswpknmIfgeWySwkmo6u) | 2:30 | 2025-01-31 | 2025-02-22 |
+| [Small Talk](https://open.spotify.com/track/1odrqfthbGoAF92G1Pyu4C) | [Ovrkast.](https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7), [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [While The Iron Is Hot](https://open.spotify.com/album/0cFavtnkVxB3dpml8KpJEg) | 3:13 | 2025-06-03 |  |
 | [Small Town Hero](https://open.spotify.com/track/1uJlJyphY1YXiFWzsTo8qe) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn) | [Small Town Hero](https://open.spotify.com/album/42No6q5fgA1s4qx8Of7E9J) | 2:57 | 2022-07-15 | 2022-09-10 |
 | [Smile](https://open.spotify.com/track/4Vujm3j3rDSsOD6oukgxLI) | [Calboy](https://open.spotify.com/artist/0HkcYmcjrBR3SCw9Ld5VZk) | [Smile](https://open.spotify.com/album/2bhiFZR9bJPKg9O5GfyInE) | 1:46 | 2024-02-23 | 2024-03-16 |
 | [SMOKE YOU OUT](https://open.spotify.com/track/5O1sQhL8Y70DCBUUr8O8fF) | [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [SMOKE YOU OUT](https://open.spotify.com/album/2Ck6R1B3YCfmh7OUipcIrH) | 2:02 | 2024-11-15 | 2025-01-07 |

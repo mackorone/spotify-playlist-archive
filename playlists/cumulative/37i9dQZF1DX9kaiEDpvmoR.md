@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-381 songs - 21 hr 58 min
+382 songs - 22 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Allt jag önskar mig](https://open.spotify.com/track/7vzK22Wey9TkDh0TuWsIf7) | [Moa Lignell](https://open.spotify.com/artist/0HrcSCqklP5G1QFHrIiztO) | [Allt jag önskar mig](https://open.spotify.com/album/1g4yNbMkcAtmCmG9sTMOUb) | 3:10 | 2024-11-07 | 2024-11-09 |
 | [Alltid Du \(feat\. Etta Zelmani\)](https://open.spotify.com/track/2fHWPfD2wEX03IaohJyt9Z) | [Dregen](https://open.spotify.com/artist/663P1NUOnzy8MiAjQFXVYA), [Etta Zelmani](https://open.spotify.com/artist/5DtXIIm0QQSZ9mv6Ie0Ua0) | [Alltid Du](https://open.spotify.com/album/7bBq9PjJ0457BqQGMHDzUG) | 3:08 | 2024-10-10 | 2024-11-23 |
 | [Alltid för alltid](https://open.spotify.com/track/05NfDxkW5lY35zcEMyoaNQ) | [Tiger](https://open.spotify.com/artist/13daebbVeDg0MQzofle4hQ) | [Alltid för alltid](https://open.spotify.com/album/2dMsFd4EfIc2MagYvYlSQO) | 3:20 | 2024-08-15 | 2024-09-27 |
-| [Allting blir bra](https://open.spotify.com/track/4FweMnXDJSEs6tciVzBerT) | [Daniel Norberg](https://open.spotify.com/artist/4TeKX72ppmEegQRU2suRFy) | [Allting blir bra](https://open.spotify.com/album/6zemClBcSflGzjqB8K2LYR) | 2:39 | 2025-05-15 |  |
+| [Allting blir bra](https://open.spotify.com/track/4FweMnXDJSEs6tciVzBerT) | [Daniel Norberg](https://open.spotify.com/artist/4TeKX72ppmEegQRU2suRFy) | [Allting blir bra](https://open.spotify.com/album/6zemClBcSflGzjqB8K2LYR) | 2:39 | 2025-05-15 | 2025-06-04 |
 | [Allting som vi har](https://open.spotify.com/track/4QHM0KVcosRyE3biAv6cnj) | [Sonja Aldén](https://open.spotify.com/artist/3XyHsKlvXenLURpECPEQOJ) | [Allting som vi har](https://open.spotify.com/album/0c3sJv3umy4jAtHNOb9azY) | 3:12 | 2025-04-24 |  |
 | [Andetag](https://open.spotify.com/track/53Gb8cD4FeyswcA9S1HyQ2) | [Milly](https://open.spotify.com/artist/6a13c73elKEirrb8R2Iz8j) | [Andetag](https://open.spotify.com/album/1JB6bXA1MbGzHRHuAIX86o) | 3:35 | 2025-05-22 |  |
 | [Andra Människor](https://open.spotify.com/track/0dDYfyfGJuvitw2nD1gsv5) | [Staffan Hellstrand](https://open.spotify.com/artist/0smhbmfhr1L1vFZskdZIsl) | [Andra Människor](https://open.spotify.com/album/2dIu1oVslVt4jnqgcArKNL) | 2:42 | 2025-03-13 | 2025-03-21 |
@@ -182,6 +182,7 @@
 | [Jag Vill Inte Va Med](https://open.spotify.com/track/4XcVFMu1a1DMVxriUSSqps) | [Avantgardet](https://open.spotify.com/artist/7eX1F6FIRszrebMLdM1BpQ) | [Noof Belfast – Nybro City](https://open.spotify.com/album/5WstAcClR0wOb8M18QSEKz) | 4:04 | 2024-10-24 | 2024-11-08 |
 | [Jag vill stanna här](https://open.spotify.com/track/1UZ6xtJ0O1t7FggXjILBfR) | [Staffan Hellstrand](https://open.spotify.com/artist/0smhbmfhr1L1vFZskdZIsl) | [Jag vill stanna här](https://open.spotify.com/album/4dyngznUL3t27C2W2kasOB) | 3:23 | 2024-06-27 | 2024-08-09 |
 | [Jag vill tacka livet](https://open.spotify.com/track/7bgXaQmsifJMTDk80rNd5U) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Så mycket bättre 2024 \(Tolkningarna\)](https://open.spotify.com/album/5MW11hiXsVTNA6gGekn8Dq) | 3:57 | 2024-10-24 | 2025-05-02 |
+| [Jag vände aldrig om](https://open.spotify.com/track/5m3P3SMrHH3GW5O44H88Af) | [Arvid Nero](https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew) | [Jag vände aldrig om](https://open.spotify.com/album/3859Rp7oMrd8bRJv1DYKuT) | 3:36 | 2025-05-29 |  |
 | [John Denver](https://open.spotify.com/track/3HOC5uwF0MNosxfhsaY8pG) | [A Choir of Ghosts](https://open.spotify.com/artist/2spgv5QYbYsLypU8NmjZ4L), [Lina Cooper](https://open.spotify.com/artist/0YxNJr7YsY95zd86zCjSYH) | [John Denver](https://open.spotify.com/album/3pltBUwOjquyV9i6IUt9uG) | 3:07 | 2024-06-27 | 2024-09-20 |
 | [Josephine](https://open.spotify.com/track/57KEhRQ7WjjYHjTIMBL8t0) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK), [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Josephine](https://open.spotify.com/album/4uOsx4KUO4ziKOeKQOZhpH) | 3:43 | 2024-09-12 | 2024-11-10 |
 | [Just idag är jag stark](https://open.spotify.com/track/55Q0BY1or6HxXvflwj4opH) | [Arvid Nero](https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew) | [Just idag är jag stark](https://open.spotify.com/album/5qcYzNYt4RXgqb1mG5LIFV) | 3:26 | 2025-01-23 |  |

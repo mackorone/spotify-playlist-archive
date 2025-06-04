@@ -2,9 +2,9 @@
 
 ### [Women of Anime](https://open.spotify.com/playlist/37i9dQZF1DXblYBkrEcpLK)
 
-> Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: 星街すいせい Hoshimachi Suisei
+> Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: ASCA
 
-754 songs - 2 day 1 hr 58 min
+755 songs - 2 day 2 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,6 +229,7 @@
 | [milky way](https://open.spotify.com/track/3lKpFtBHX0Q17ABO380mhv) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [We will](https://open.spotify.com/album/0r5oazd96lslNQTYaBXd2g) | 3:32 | 2024-09-12 | 2025-02-12 |
 | [Momoiro Kataomoi \- From CrosSing](https://open.spotify.com/track/3w9Y16TCQvLe3HXc1b3whd) | [Tachibana Hina](https://open.spotify.com/artist/3A6gmtAT07cw8v4QP25sCo) | [Momoiro Kataomoi \- From CrosSing](https://open.spotify.com/album/5vAJTeQLsiaYLWCzaoVW1D) | 4:18 | 2023-11-16 | 2023-12-20 |
 | [Moonlight Magic](https://open.spotify.com/track/71OPYknlGaRHqKrgIrLLwt) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [blossom](https://open.spotify.com/album/57CWfsD6tG1RFbYPIslgxT) | 4:09 | 2022-06-09 | 2022-07-25 |
+| [MOONWORK](https://open.spotify.com/track/3TDHoVJgHjsU9Ky2v1cZ07) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [MOONWORK](https://open.spotify.com/album/2NK3lfUUWC0oB8omR53KxM) | 4:44 | 2025-06-03 |  |
 | [MY VOICE](https://open.spotify.com/track/7hP8TRaqvJd4nwGmz9mGme) | [工藤晴香](https://open.spotify.com/artist/0U9bZHBbrFVL4T4NShSvdc) | [MY VOICE](https://open.spotify.com/album/1bRoDKeDqu1o1KPWhH1yLH) | 3:41 | 2022-06-24 | 2022-07-06 |
 | [narrow](https://open.spotify.com/track/2l5LkdRTsylhqx3LPM7l4N) | [楠木 ともり](https://open.spotify.com/artist/0eic2NIS2q4R4jZpKSH7cr) | [narrow](https://open.spotify.com/album/7jwJgkGWSepDEsapqf1E3h) | 4:52 | 2022-06-09 | 2022-07-27 |
 | [Never Let It Go](https://open.spotify.com/track/0j4avB5X9orUlcVMOFYlTh) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [Never Let It Go](https://open.spotify.com/album/0IfxyrotK7g8vQKLRHZOFI) | 3:45 | 2025-02-11 | 2025-03-12 |
@@ -376,7 +377,7 @@
 | [VIVID WORLD](https://open.spotify.com/track/13gw5jBlx5lupIiuKFfAtm) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [VIVID](https://open.spotify.com/album/0ej3wD67mgjmuKAixMHW9n) | 4:10 | 2024-04-16 | 2024-04-24 |
 | [VOLTAGE](https://open.spotify.com/track/1ochPJNz2afOUWuFKm18zm) | [Anly](https://open.spotify.com/artist/5yJK9kmUG5wPAPDfaaandz) | [VOLTAGE](https://open.spotify.com/album/3z5JK4QaE9LvXveYO5q695) | 3:49 | 2022-06-09 | 2022-07-25 |
 | [WANNA BE BRIGHT](https://open.spotify.com/track/6goE7SDnVT1NRujeZsy9Jn) | [ギルドロップス](https://open.spotify.com/artist/5us2QyJXHZ8bV0QtJmgvCI) | [WANNA BE BRIGHT](https://open.spotify.com/album/0jF1IDaIZba0NqHuIceebs) | 4:27 | 2022-06-24 | 2022-07-04 |
-| [Watch Me](https://open.spotify.com/track/38FcQO2ta2pScW2sriQI2x) | [天乃リリサ\(CV: 前田佳織里\)](https://open.spotify.com/artist/45jvvs4IN2pZgwFeg8fFYz), [橘 美花莉\(CV: 鬼頭明里\)](https://open.spotify.com/artist/641mK2fFkWZEWGCG6iWh2J) | [Watch Me](https://open.spotify.com/album/6L3pgqAZQFAxGGmpVsoQR1) | 3:27 | 2024-08-22 |  |
+| [Watch Me](https://open.spotify.com/track/38FcQO2ta2pScW2sriQI2x) | [天乃リリサ\(CV: 前田佳織里\)](https://open.spotify.com/artist/45jvvs4IN2pZgwFeg8fFYz), [橘 美花莉\(CV: 鬼頭明里\)](https://open.spotify.com/artist/641mK2fFkWZEWGCG6iWh2J) | [Watch Me](https://open.spotify.com/album/6L3pgqAZQFAxGGmpVsoQR1) | 3:27 | 2024-08-22 | 2025-06-04 |
 | [wavy flow](https://open.spotify.com/track/5qfFXRzbfiPrxRmYUdv9Of) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [wavy flow](https://open.spotify.com/album/6Q6nv2x3HSl4WZ5s0I7lzo) | 3:25 | 2022-06-09 | 2022-07-29 |
 | [Way to go](https://open.spotify.com/track/5CZ9ZyPs6di7ScOJa6YQmJ) | [MindaRyn](https://open.spotify.com/artist/7MSns7VCEysJJhcp67gvtZ) | [Way to go](https://open.spotify.com/album/7zEQZQRLbiXZynF6MCJFxW) | 4:03 | 2023-01-10 | 2023-02-08 |
 | [WE ARE THE FUTURE](https://open.spotify.com/track/24JsKK6aVyDRvRN4yNYZhE) | [立花響\(CV:悠木碧\)](https://open.spotify.com/artist/7Fk3tFYsbDQIWVB3Pmi4Ox), [キャロル・マールス・ディーンハイム\(CV:水瀬いのり\)](https://open.spotify.com/artist/6jkSPcxNIDcgVbhhOlU8lG) | [戦姫絶唱シンフォギアXD UNLIMITED キャラクターソングシングル](https://open.spotify.com/album/4ORfUlNVOQYYkju8XCHHLP) | 4:02 | 2024-01-18 | 2024-01-31 |

@@ -4,7 +4,7 @@
 
 > Enjoy the lo\-fi beat with oriental colors.
 
-357 songs - 19 hr 49 min
+358 songs - 19 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [22 Samurai](https://open.spotify.com/track/1ApKMc4Rbzb77dqpcYMY0s) | [RŮDE](https://open.spotify.com/artist/4CWpoyuE7e9NvBkUSTmJfq) | [Eternal Youth](https://open.spotify.com/album/6STwjBCu3CTEViSxJChKlV) | 2:56 | 2024-07-02 |  |
 | [3\-OUT](https://open.spotify.com/track/67PEoIjllIpuM0lLuetEJ5) | [NEUL](https://open.spotify.com/artist/5SaYHywNAcLUqIFcel7xwn) | [Piece Of Love](https://open.spotify.com/album/69A1ez7jfXMcLGOWRCk7lf) | 2:54 | 2022-05-03 | 2022-07-24 |
 | [A Breath of Fresh Air](https://open.spotify.com/track/35TPzWmdsSgpfJ9zp8p3tt) | [DaniSogen](https://open.spotify.com/artist/7igN8kqLCyyGn6QoVmB6CO) | [In Search of Peace](https://open.spotify.com/album/276Q8fWLfzZPp16nnH9dqb) | 2:38 | 2024-07-02 | 2024-09-02 |
+| [A Hero Is Born](https://open.spotify.com/track/4SJJkTyFoNcXQYfMr9x3or) | [Elijah Nang](https://open.spotify.com/artist/0yIO6HI875mLzamqmjjFFU), [Kalaido](https://open.spotify.com/artist/5LXHT7v9uYGrsyEnL9q9K8) | [Gaijin II Tale of Rai](https://open.spotify.com/album/79ynbZwBXsmdFZw8Oa0FMK) | 3:18 | 2025-05-23 |  |
 | [A longing night](https://open.spotify.com/track/4yTPo66vy8AATxNvNyLqN5) | [40](https://open.spotify.com/artist/0XXy0YzgbA0CW9zDM8yxpD) | [Illusion](https://open.spotify.com/album/6uu5CP0ipD9JZ6wyl14QXc) | 3:01 | 2022-05-03 | 2024-07-03 |
 | [A Rounded Stone 모난돌 \(Monthly Project 2019 February Yoon Jong Shin\)](https://open.spotify.com/track/2QvAqO6f2sbjGnLaAdlaNI) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [A Rounded Stone 모난돌 \(Monthly Project 2019 February Yoon Jong Shin\)](https://open.spotify.com/album/6roGryreinaVwywhgupU4w) | 4:31 | 2022-05-03 | 2022-07-05 |
 | [A villain is born](https://open.spotify.com/track/342FlGcgU1lx4T9KqnzprJ) | [Elijah Nang](https://open.spotify.com/artist/0yIO6HI875mLzamqmjjFFU), [Tenno](https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp) | [Gaijin III Rise of Jiro](https://open.spotify.com/album/68W1fqGzQdkUU0uqkQ1ehR) | 2:58 | 2024-07-02 | 2025-05-02 |
@@ -251,7 +252,7 @@
 | [ROSE](https://open.spotify.com/track/0OGI8Mqjdy9BM9kuxCfyUg) | [EDEN](https://open.spotify.com/artist/1NKjYoo9hYXCKSlxecTY49), [SONG JU HEE 송주희](https://open.spotify.com/artist/7I028o0Vby3syaeumHkoFU) | [ROSE](https://open.spotify.com/album/6zKyJ7bOK8dTaXiGIFeCPd) | 2:58 | 2022-05-03 | 2022-07-27 |
 | [s p r i n g \(st\) r o l l](https://open.spotify.com/track/2DOhi5lfz2qsnOCF63Ac94) | [Nohidea](https://open.spotify.com/artist/5b0XQwyoJBFd3MwL2YxEPO) | [home movies](https://open.spotify.com/album/1zGOEsbvEZz6RYhE7kytDF) | 1:27 | 2024-07-02 |  |
 | [Sage](https://open.spotify.com/track/63yGlWei594l3Me8KaKF2G) | [Tophat Panda](https://open.spotify.com/artist/2WhnHknWvBgrC3pHYKDMSs), [milligon](https://open.spotify.com/artist/62h3mAlyYduSmprbNEdKKD) | [Sage](https://open.spotify.com/album/26BmBroNz25vIvfSXU5rwd) | 2:27 | 2024-07-02 |  |
-| [Sakai](https://open.spotify.com/track/2ZROj14YkoeoqWxDvphqb0) | [Chau Sara](https://open.spotify.com/artist/4VjWi8luQOkJ3hLEW7UMhl) | [Sakai](https://open.spotify.com/album/4sqbLBBQhZiFCNkDs01AvC) | 2:46 | 2024-07-02 |  |
+| [Sakai](https://open.spotify.com/track/2ZROj14YkoeoqWxDvphqb0) | [Chau Sara](https://open.spotify.com/artist/4VjWi8luQOkJ3hLEW7UMhl) | [Sakai](https://open.spotify.com/album/4sqbLBBQhZiFCNkDs01AvC) | 2:46 | 2024-07-02 | 2025-06-04 |
 | [Sakura Season](https://open.spotify.com/track/690j6xy0m3P2lqX4u6ei1E) | [Simon Groß](https://open.spotify.com/artist/4pQcgEsdyEy5XTd0QMmjvD) | [Sakura Season](https://open.spotify.com/album/3zDAiR6CbwlH8Jodmi1VYQ) | 2:46 | 2024-07-02 | 2025-03-21 |
 | [Sakura Temple](https://open.spotify.com/track/2GVaw6ZH10v87Anbhay6eG) | [Vindu](https://open.spotify.com/artist/2CRx4wZoJ1wJLX6DtKJpej) | [Sakura Temple](https://open.spotify.com/album/6bWl64ciGr8yUrQnlJbpI3) | 2:48 | 2024-07-02 | 2025-01-04 |
 | [Sakura Trees](https://open.spotify.com/track/3F0mcxksBp33QrL6oyjvLN) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Buena Vista](https://open.spotify.com/album/5mgVRRHjtl9fSY3rUHysJx) | 1:39 | 2024-07-02 |  |
