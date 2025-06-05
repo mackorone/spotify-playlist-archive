@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YhSbTs17ha.md) - [plain]
 
 > Las canciones de pop más exitosas en México\. Shakira & Alejandro Sanz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,729,929 likes - 86 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,730,019 likes - 86 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

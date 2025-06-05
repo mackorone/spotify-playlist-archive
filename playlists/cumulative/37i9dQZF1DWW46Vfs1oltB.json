@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The fresh & hottest K-Hip hop tracks. (Cover:\nDabin(\ud64d\ub2e4\ube48))",
+  "description": "The fresh & hottest K-Hip hop tracks. (Cover:\nOwen(\uc624\uc67c))",
   "name": "KrOWN",
   "tracks": [
     {
@@ -29281,6 +29281,28 @@
     },
     {
       "album": {
+        "name": "Exit Wounds",
+        "url": "https://open.spotify.com/album/5U2gLisF6YBhdDhK9uJ1Re"
+      },
+      "artists": [
+        {
+          "name": "Nosun",
+          "url": "https://open.spotify.com/artist/0BHYZCuuyLl53LVgeC3pUa"
+        },
+        {
+          "name": "Hash Swan",
+          "url": "https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172812,
+      "name": "Tasty (Feat. Hash Swan)",
+      "url": "https://open.spotify.com/track/7taO0KwT0XClF20ueI7KT6"
+    },
+    {
+      "album": {
         "name": "Tasty x Tasty",
         "url": "https://open.spotify.com/album/0edv4ueAsyeQ7uYnIG6ddF"
       },
@@ -33292,6 +33314,24 @@
       "duration_ms": 189103,
       "name": "WIN",
       "url": "https://open.spotify.com/track/3h7iRort6R0M8qIl1LgBbI"
+    },
+    {
+      "album": {
+        "name": "Exit Wounds",
+        "url": "https://open.spotify.com/album/5U2gLisF6YBhdDhK9uJ1Re"
+      },
+      "artists": [
+        {
+          "name": "Nosun",
+          "url": "https://open.spotify.com/artist/0BHYZCuuyLl53LVgeC3pUa"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168012,
+      "name": "Windows",
+      "url": "https://open.spotify.com/track/0xRttor4u8kuCuXxSilrWe"
     },
     {
       "album": {

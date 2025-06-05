@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/2SJ4K6IpVlsaFEwUm9LcIJ.md) - cumulative - [plain](/playlists/plain/2SJ4K6IpVlsaFEwUm9LcIJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2SJ4K6IpVlsaFEwUm9LcIJ)
 
-### [friends and strangers](https://open.spotify.com/playlist/2SJ4K6IpVlsaFEwUm9LcIJ)
+### [friends and lovers](https://open.spotify.com/playlist/2SJ4K6IpVlsaFEwUm9LcIJ)
 
 > what i&\#x27;m listening to: may\-june 2025 \(previous playlists archived on my profile\)
 

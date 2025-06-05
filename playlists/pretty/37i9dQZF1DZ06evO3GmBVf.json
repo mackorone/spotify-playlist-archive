@@ -1,12 +1,12 @@
 {
   "description": "This is Lefty Sm. The essential tracks, all in one playlist.",
-  "num_followers": 201720,
+  "num_followers": 201765,
   "original_name": "This Is Lefty Sm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDzpgAAAAAA+NLXxK9B63uveXW3Vm0rz",
+  "snapshot_id": "aD47AAAAAADcSYXfsF5MmXg0yhWe6jPO",
   "tracks": [
     {
       "added_at": null,
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don Tan",
-        "url": "https://open.spotify.com/album/1IJ0pZPxux1IynJDH0pNJP"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 252616,
-      "name": "Don Tan",
-      "url": "https://open.spotify.com/track/2B38Yqihpc3i28Uf4WlRf8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En La Nube",
         "url": "https://open.spotify.com/album/1J6jzIMsRgkA6LkTfWxu7V"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 212519,
       "name": "En La Nube",
       "url": "https://open.spotify.com/track/469SKsdluQm37fIYZpJzKF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don Tan",
+        "url": "https://open.spotify.com/album/1IJ0pZPxux1IynJDH0pNJP"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 252616,
+      "name": "Don Tan",
+      "url": "https://open.spotify.com/track/2B38Yqihpc3i28Uf4WlRf8"
     },
     {
       "added_at": null,
@@ -511,26 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lonestar Luchador",
-        "url": "https://open.spotify.com/album/1tX0d5OqKOCkif6yja3TpK"
-      },
-      "artists": [
-        {
-          "name": "That Mexican OT",
-          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
-        },
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 144414,
-      "name": "Barrio (with Lefty Sm)",
-      "url": "https://open.spotify.com/track/31L6JkBku2Oq4D5IvuOvYv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Jale Vale",
         "url": "https://open.spotify.com/album/6yhtC7PRmrYg3idBB7I3sx"
       },
@@ -547,6 +527,26 @@
       "duration_ms": 174708,
       "name": "Mi Jale Vale",
       "url": "https://open.spotify.com/track/1iDBvtahnuXFaLit47gZ3h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lonestar Luchador",
+        "url": "https://open.spotify.com/album/1tX0d5OqKOCkif6yja3TpK"
+      },
+      "artists": [
+        {
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 144414,
+      "name": "Barrio (with Lefty Sm)",
+      "url": "https://open.spotify.com/track/31L6JkBku2Oq4D5IvuOvYv"
     },
     {
       "added_at": null,
@@ -851,30 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Click Clack",
-        "url": "https://open.spotify.com/album/5rHtSYUHWTm6Jr76MVeGAE"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        },
-        {
-          "name": "Chain Trackz",
-          "url": "https://open.spotify.com/artist/58HXUsUwpjyLNpaKs4gMvM"
-        }
-      ],
-      "duration_ms": 178461,
-      "name": "Click Clack",
-      "url": "https://open.spotify.com/track/0YCWXhQ8rSi03cHRD4UTm6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Me Pregunten",
         "url": "https://open.spotify.com/album/4MNPJVnFFM2njQr7ksEiGu"
       },
@@ -915,6 +891,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Me Sali\u00f3 Caro",
+        "url": "https://open.spotify.com/album/452UvA8ezntpnKuferwxay"
+      },
+      "artists": [
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 177312,
+      "name": "Me Sali\u00f3 Caro",
+      "url": "https://open.spotify.com/track/2lj7jB5D4OuurRaynHAW8y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ingrata",
         "url": "https://open.spotify.com/album/6SNEqAhkOIaXgEeQEhrA9b"
       },
@@ -935,22 +931,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Sali\u00f3 Caro",
-        "url": "https://open.spotify.com/album/452UvA8ezntpnKuferwxay"
+        "name": "Click Clack",
+        "url": "https://open.spotify.com/album/5rHtSYUHWTm6Jr76MVeGAE"
       },
       "artists": [
         {
-          "name": "Toser One",
-          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
         },
         {
           "name": "Lefty Sm",
           "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Chain Trackz",
+          "url": "https://open.spotify.com/artist/58HXUsUwpjyLNpaKs4gMvM"
         }
       ],
-      "duration_ms": 177312,
-      "name": "Me Sali\u00f3 Caro",
-      "url": "https://open.spotify.com/track/2lj7jB5D4OuurRaynHAW8y"
+      "duration_ms": 178461,
+      "name": "Click Clack",
+      "url": "https://open.spotify.com/track/0YCWXhQ8rSi03cHRD4UTm6"
     },
     {
       "added_at": null,

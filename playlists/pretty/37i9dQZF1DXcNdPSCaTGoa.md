@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 
 > South African gems across the decades\. Cover: <a href="https://open.spotify.com/artist/5HE0pmik1Vo6uww4nZKxli?si=2VnM\_9GqSrCkUNwtfpaCPQ">Pro Kid</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,836 likes - 60 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,887 likes - 60 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDzpgAAAAACb6cbls79jgKXsTqagN0iQ",
+  "snapshot_id": "aD47AAAAAADquMSLppS2DbVgWjUfptxP",
   "tracks": [
     {
       "added_at": null,
@@ -55,30 +55,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHARTiANDO",
-        "url": "https://open.spotify.com/album/5oQb5xuVZSmrgRfCR0v1G7"
-      },
-      "artists": [
-        {
-          "name": "Latinnites Music",
-          "url": "https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv"
-        },
-        {
-          "name": "Engel Montaz",
-          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
-        },
-        {
-          "name": "Diamond la Mafia",
-          "url": "https://open.spotify.com/artist/5rlinmh5Y0p4zfMY5qngpX"
-        }
-      ],
-      "duration_ms": 172198,
-      "name": "CHARTiANDO",
-      "url": "https://open.spotify.com/track/5FQku4nE0zRYSg2tnPo4XW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Billetes Verdes (Live)",
         "url": "https://open.spotify.com/album/3AsUuUspzDF9ZEUnkPjVw2"
       },
@@ -91,6 +67,22 @@
       "duration_ms": 119043,
       "name": "Billetes Verdes - Live",
       "url": "https://open.spotify.com/track/496qqEB2xvMZWf2paWmzTO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quedate (Live)",
+        "url": "https://open.spotify.com/album/0VM1G9J7kPpcxaHJ5SPWPi"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        }
+      ],
+      "duration_ms": 210333,
+      "name": "Quedate - Live",
+      "url": "https://open.spotify.com/track/2tOYbLXrwEKCVwTNYBupYc"
     },
     {
       "added_at": null,
@@ -115,22 +107,6 @@
       "duration_ms": 215000,
       "name": "Cupido",
       "url": "https://open.spotify.com/track/21AShE3yF3gqN1EHw3aEmH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quedate (Live)",
-        "url": "https://open.spotify.com/album/0VM1G9J7kPpcxaHJ5SPWPi"
-      },
-      "artists": [
-        {
-          "name": "Engel Montaz",
-          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
-        }
-      ],
-      "duration_ms": 210333,
-      "name": "Quedate - Live",
-      "url": "https://open.spotify.com/track/2tOYbLXrwEKCVwTNYBupYc"
     },
     {
       "added_at": null,
@@ -175,22 +151,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desire",
-        "url": "https://open.spotify.com/album/0KSoZkdQ8u9uGe6GTFSjDz"
-      },
-      "artists": [
-        {
-          "name": "Engel Montaz",
-          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
-        }
-      ],
-      "duration_ms": 165168,
-      "name": "Pegate",
-      "url": "https://open.spotify.com/track/0dfdg93deJMozKJk2Uxqj9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Puto Amo",
         "url": "https://open.spotify.com/album/2Kz1M3efVHHJ9f4azQ14zA"
       },
@@ -203,6 +163,30 @@
       "duration_ms": 126205,
       "name": "El Puto Amo",
       "url": "https://open.spotify.com/track/2cE8NFkwGrPBUwChlpkqaG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/0KSoZkdQ8u9uGe6GTFSjDz"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        },
+        {
+          "name": "Kuv507",
+          "url": "https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg"
+        },
+        {
+          "name": "Latinnites Music",
+          "url": "https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv"
+        }
+      ],
+      "duration_ms": 171860,
+      "name": "Culiacan",
+      "url": "https://open.spotify.com/track/20iFe0nIF1BefqYeTFtXYN"
     },
     {
       "added_at": null,
@@ -247,30 +231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desire",
-        "url": "https://open.spotify.com/album/0KSoZkdQ8u9uGe6GTFSjDz"
-      },
-      "artists": [
-        {
-          "name": "Engel Montaz",
-          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
-        },
-        {
-          "name": "Kuv507",
-          "url": "https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg"
-        },
-        {
-          "name": "Latinnites Music",
-          "url": "https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv"
-        }
-      ],
-      "duration_ms": 171860,
-      "name": "Culiacan",
-      "url": "https://open.spotify.com/track/20iFe0nIF1BefqYeTFtXYN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pilita",
         "url": "https://open.spotify.com/album/6izvyhwMROBRGRZewggfra"
       },
@@ -283,6 +243,22 @@
       "duration_ms": 178560,
       "name": "Pilita",
       "url": "https://open.spotify.com/track/3W1X4YpgycUPuYfQ1wwU18"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/14Hne9pWpQnWu7SxVcapIT"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Vibrador",
+      "url": "https://open.spotify.com/track/4h3i4yz7mkw1H9XG9VMkjQ"
     },
     {
       "added_at": null,
@@ -351,38 +327,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desire",
-        "url": "https://open.spotify.com/album/14Hne9pWpQnWu7SxVcapIT"
+        "name": "CHARTiANDO",
+        "url": "https://open.spotify.com/album/5oQb5xuVZSmrgRfCR0v1G7"
       },
       "artists": [
         {
-          "name": "Engel Montaz",
-          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Vibrador",
-      "url": "https://open.spotify.com/track/4h3i4yz7mkw1H9XG9VMkjQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mi Camino",
-        "url": "https://open.spotify.com/album/3rGcy1mGPvJi07RXYJBoaY"
-      },
-      "artists": [
+          "name": "Latinnites Music",
+          "url": "https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv"
+        },
         {
           "name": "Engel Montaz",
           "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
         },
         {
-          "name": "Latinnites Music",
-          "url": "https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv"
+          "name": "Diamond la Mafia",
+          "url": "https://open.spotify.com/artist/5rlinmh5Y0p4zfMY5qngpX"
         }
       ],
-      "duration_ms": 167659,
-      "name": "Mi Camino",
-      "url": "https://open.spotify.com/track/6m9BrQKlWR8DWg0sxvs9JP"
+      "duration_ms": 172198,
+      "name": "CHARTiANDO",
+      "url": "https://open.spotify.com/track/5FQku4nE0zRYSg2tnPo4XW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/0KSoZkdQ8u9uGe6GTFSjDz"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        }
+      ],
+      "duration_ms": 165168,
+      "name": "Pegate",
+      "url": "https://open.spotify.com/track/0dfdg93deJMozKJk2Uxqj9"
     },
     {
       "added_at": null,
@@ -407,8 +387,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Tu Manera",
-        "url": "https://open.spotify.com/album/5AklCOG5R0PEysXDGtybTK"
+        "name": "Tu No Me Conoces",
+        "url": "https://open.spotify.com/album/0Kf2Cxcg7mLyurZaNlpbbe"
       },
       "artists": [
         {
@@ -416,13 +396,33 @@
           "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
         },
         {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+          "name": "Lito Kirino",
+          "url": "https://open.spotify.com/artist/68w2t0wbrGnxSIUHzWs5bt"
         }
       ],
-      "duration_ms": 284000,
-      "name": "A Tu Manera",
-      "url": "https://open.spotify.com/track/5FFiCQigo3piRCEyj2l8sU"
+      "duration_ms": 211000,
+      "name": "Tu No Me Conoces",
+      "url": "https://open.spotify.com/track/5hagWOIk1mHOJBlnaf5Sl0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Camino",
+        "url": "https://open.spotify.com/album/3rGcy1mGPvJi07RXYJBoaY"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        },
+        {
+          "name": "Latinnites Music",
+          "url": "https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv"
+        }
+      ],
+      "duration_ms": 167659,
+      "name": "Mi Camino",
+      "url": "https://open.spotify.com/track/6m9BrQKlWR8DWg0sxvs9JP"
     },
     {
       "added_at": null,
@@ -443,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu No Me Conoces",
-        "url": "https://open.spotify.com/album/0Kf2Cxcg7mLyurZaNlpbbe"
+        "name": "A Tu Manera",
+        "url": "https://open.spotify.com/album/5AklCOG5R0PEysXDGtybTK"
       },
       "artists": [
         {
@@ -452,13 +452,13 @@
           "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
         },
         {
-          "name": "Lito Kirino",
-          "url": "https://open.spotify.com/artist/68w2t0wbrGnxSIUHzWs5bt"
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
         }
       ],
-      "duration_ms": 211000,
-      "name": "Tu No Me Conoces",
-      "url": "https://open.spotify.com/track/5hagWOIk1mHOJBlnaf5Sl0"
+      "duration_ms": 284000,
+      "name": "A Tu Manera",
+      "url": "https://open.spotify.com/track/5FFiCQigo3piRCEyj2l8sU"
     },
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Provoca",
-        "url": "https://open.spotify.com/album/61KINxMTi3tqeCEppDskc4"
-      },
-      "artists": [
-        {
-          "name": "Engel Montaz",
-          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
-        }
-      ],
-      "duration_ms": 206785,
-      "name": "Provoca",
-      "url": "https://open.spotify.com/track/3I7DArlMv8E8FiRslMLvVz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Prende (Discoteca)",
         "url": "https://open.spotify.com/album/7FqXBSC3ja8EISmUblKn5B"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 188917,
       "name": "Prende - Discoteca",
       "url": "https://open.spotify.com/track/24pZuJwBZIfn6kwBJ2UdMj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Provoca",
+        "url": "https://open.spotify.com/album/61KINxMTi3tqeCEppDskc4"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        }
+      ],
+      "duration_ms": 206785,
+      "name": "Provoca",
+      "url": "https://open.spotify.com/track/3I7DArlMv8E8FiRslMLvVz"
     },
     {
       "added_at": null,

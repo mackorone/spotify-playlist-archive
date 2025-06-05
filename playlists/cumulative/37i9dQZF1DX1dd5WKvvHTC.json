@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Highlighting key releases from this month's most exciting songwriters from around the globe. Cover: Lydia Vaughan",
+  "description": "Highlighting key releases from this month's most exciting songwriters from around the globe. Cover: Kyle Sturrock",
   "name": "Noteable",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 250062,
       "name": "\"Honey\"",
       "url": "https://open.spotify.com/track/5GLKvPekYHl6vtiFHKU8A1"
@@ -70,7 +70,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 151067,
       "name": "**NYB**",
       "url": "https://open.spotify.com/track/1x9PxhI3ccK3lbIsDpTL0p"
@@ -88,7 +88,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 252593,
       "name": "12 Blown Tires",
       "url": "https://open.spotify.com/track/43sc5VGNzFauUOnepR9VSc"
@@ -308,7 +308,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 138931,
       "name": "All I Know (with Khalid) - Piano Version",
       "url": "https://open.spotify.com/track/4EW2Bxt1kBDkNlqw5byc0b"
@@ -706,7 +706,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 181518,
       "name": "Backup Plan (feat. Luke Combs)",
       "url": "https://open.spotify.com/track/58is1MxJ0mafkdwalyYanU"
@@ -822,7 +822,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 173064,
       "name": "Bar None",
       "url": "https://open.spotify.com/track/212xtcXoSqbbwFAYd0zvNP"
@@ -1013,6 +1013,24 @@
     },
     {
       "album": {
+        "name": "Bitter",
+        "url": "https://open.spotify.com/album/19Em3gh4ztHRTteK7CyV0G"
+      },
+      "artists": [
+        {
+          "name": "Maya Lane",
+          "url": "https://open.spotify.com/artist/0lJErEVo2bXW4P2nsOmf25"
+        }
+      ],
+      "date_added": "2025-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182218,
+      "name": "Bitter",
+      "url": "https://open.spotify.com/track/1JrIkicBjYm4Cl0dstCi9q"
+    },
+    {
+      "album": {
         "name": "Algorithm",
         "url": "https://open.spotify.com/album/4L587s3QXoaroQTIdDWBiW"
       },
@@ -1032,6 +1050,68 @@
       "duration_ms": 224218,
       "name": "Blame (feat. Teddy Swims)",
       "url": "https://open.spotify.com/track/4VXxMNuT0hEzRL4R4YA7Ib"
+    },
+    {
+      "album": {
+        "name": "Blessings (Extended Mix)",
+        "url": "https://open.spotify.com/album/3jwNaiTAngnNWGlc7foowN"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "date_added": "2025-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330322,
+      "name": "Blessings - Extended Mix",
+      "url": "https://open.spotify.com/track/7D80TMT1hUj4okrfiSi8iL"
+    },
+    {
+      "album": {
+        "name": "Blisters",
+        "url": "https://open.spotify.com/album/5vzXPWpstjR61UTpczsUeu"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        }
+      ],
+      "date_added": "2025-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223202,
+      "name": "Blisters",
+      "url": "https://open.spotify.com/track/1A7PqR5g8ohmDNiv9lW3Ca"
+    },
+    {
+      "album": {
+        "name": "Bloodline (with Jelly Roll)",
+        "url": "https://open.spotify.com/album/2KoAn4MyptQWG1qBx7mu01"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2025-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182008,
+      "name": "Bloodline (with Jelly Roll)",
+      "url": "https://open.spotify.com/track/0qmhTHMVxnXRmT5N92wTD9"
     },
     {
       "album": {
@@ -1484,7 +1564,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 165800,
       "name": "Church and State",
       "url": "https://open.spotify.com/track/4skvN6fgJd2yAyIeu042G9"
@@ -1524,7 +1604,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 170067,
       "name": "Click",
       "url": "https://open.spotify.com/track/60SxHckGUdjV71vjX4WTUM"
@@ -1869,6 +1949,24 @@
     },
     {
       "album": {
+        "name": "De Mi Mama",
+        "url": "https://open.spotify.com/album/50tkdz4Wi44sWMBrsr9HWn"
+      },
+      "artists": [
+        {
+          "name": "CARO CAXI",
+          "url": "https://open.spotify.com/artist/2l3I6o9jYGKXHtN5GB4VgJ"
+        }
+      ],
+      "date_added": "2025-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157440,
+      "name": "De Mi Mama",
+      "url": "https://open.spotify.com/track/7BPoULxnx0qk2GHfUz2DFE"
+    },
+    {
+      "album": {
         "name": "Dear Me (From The Original Documentary \"Diane Warren: Relentless\")",
         "url": "https://open.spotify.com/album/5rFSttIqFbbi0DkoejrmXH"
       },
@@ -1960,7 +2058,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 167142,
       "name": "Desert Rose",
       "url": "https://open.spotify.com/track/2NwuMyjjrQGuNgLvOOfinV"
@@ -2408,7 +2506,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 250483,
       "name": "End of the World",
       "url": "https://open.spotify.com/track/5SxahezRlC0saXbCALfB7c"
@@ -2723,6 +2821,24 @@
     },
     {
       "album": {
+        "name": "Friend Of Mine (from the Smurfs Movie Soundtrack)",
+        "url": "https://open.spotify.com/album/5i62DNndG868cvPfeedCoW"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2025-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205270,
+      "name": "Friend Of Mine - from the Smurfs Movie Soundtrack",
+      "url": "https://open.spotify.com/track/5lfzLOP9FL1U76rtOCLlcs"
+    },
+    {
+      "album": {
         "name": "FRIENDZONE",
         "url": "https://open.spotify.com/album/4Azxmej19KS4JDIEKiRJno"
       },
@@ -2792,7 +2908,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 167000,
       "name": "Futuro Amor",
       "url": "https://open.spotify.com/track/3rTNN6PFvYXEn0UNvhn5Qd"
@@ -3046,7 +3162,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 206333,
       "name": "Gods Don't Pray",
       "url": "https://open.spotify.com/track/7eovh5cO9CBhsMoDhYEXca"
@@ -3216,7 +3332,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 133894,
       "name": "HAKiA",
       "url": "https://open.spotify.com/track/2R7tJQlT37TxQ1jzu9ez7K"
@@ -3234,7 +3350,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 162580,
       "name": "Halo",
       "url": "https://open.spotify.com/track/188hYGlwfixzHUaS7ltIOA"
@@ -3440,7 +3556,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 232346,
       "name": "Hey California",
       "url": "https://open.spotify.com/track/2ZscgmJkvK3ycdU8e2D580"
@@ -3589,6 +3705,24 @@
     },
     {
       "album": {
+        "name": "Music For People Who Believe In Love",
+        "url": "https://open.spotify.com/album/3ZuXKlQ48SrFaJU9KDrIkE"
+      },
+      "artists": [
+        {
+          "name": "Joe Jonas",
+          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
+        }
+      ],
+      "date_added": "2025-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198460,
+      "name": "Honey Blonde",
+      "url": "https://open.spotify.com/track/4A2jbfMjTwAbqf5rJ0BTLh"
+    },
+    {
+      "album": {
         "name": "HOROSCOPE (feat. Pharrell Williams)",
         "url": "https://open.spotify.com/album/4GYjTuUIbdIiUYOQvUiTZy"
       },
@@ -3622,7 +3756,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 154162,
       "name": "how u been?",
       "url": "https://open.spotify.com/track/14MljYk21TMPj3cOQ8Rsz6"
@@ -4046,7 +4180,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 168000,
       "name": "june",
       "url": "https://open.spotify.com/track/6PBJfoq40a8gsUULbn0oyG"
@@ -4126,6 +4260,28 @@
       "duration_ms": 166206,
       "name": "Just In Case",
       "url": "https://open.spotify.com/track/02Ya2Q08bBKFqUJvjmyRXK"
+    },
+    {
+      "album": {
+        "name": "Just Keep Watching (From F1\u00ae The Movie)",
+        "url": "https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        },
+        {
+          "name": "F1 The Album",
+          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
+        }
+      ],
+      "date_added": "2025-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142550,
+      "name": "Just Keep Watching (From F1\u00ae The Movie)",
+      "url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
     },
     {
       "album": {
@@ -4339,6 +4495,28 @@
     },
     {
       "album": {
+        "name": "Ya No Se Llevan Serenatas",
+        "url": "https://open.spotify.com/album/6MRvPbmvRXntgB8DiDsIT6"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "date_added": "2025-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153262,
+      "name": "LA TROKA",
+      "url": "https://open.spotify.com/track/7xj4fHsCPJDZwZZzgZQ9z0"
+    },
+    {
+      "album": {
         "name": "Last Rodeo",
         "url": "https://open.spotify.com/album/0z16H1eVy83zbWEsIXPDui"
       },
@@ -4390,6 +4568,24 @@
       "duration_ms": 209113,
       "name": "Late Bloomer",
       "url": "https://open.spotify.com/track/6sd6ivmgEL3ql7v4mfTGz5"
+    },
+    {
+      "album": {
+        "name": "LATINA FOREVA",
+        "url": "https://open.spotify.com/album/78F52tGWKs5rW8dzJWYjQT"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "date_added": "2025-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159452,
+      "name": "LATINA FOREVA",
+      "url": "https://open.spotify.com/track/10MpBpx64MNixmUMNj7f6b"
     },
     {
       "album": {
@@ -4610,7 +4806,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 123300,
       "name": "Little Bit",
       "url": "https://open.spotify.com/track/01FQiwhUa3CXLYBH5qSs0N"
@@ -4741,6 +4937,24 @@
     },
     {
       "album": {
+        "name": "LOSE",
+        "url": "https://open.spotify.com/album/35i1fiNgfmWAJmZXq5yNcR"
+      },
+      "artists": [
+        {
+          "name": "Nectar Woode",
+          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
+        }
+      ],
+      "date_added": "2025-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184529,
+      "name": "LOSE",
+      "url": "https://open.spotify.com/track/5Pa7SJ7aMDV8UCBp8ILzbb"
+    },
+    {
+      "album": {
         "name": "Lose Myself",
         "url": "https://open.spotify.com/album/6mb5ssPdOGysVCZ54xvdKM"
       },
@@ -4858,7 +5072,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 225050,
       "name": "Love Don't Leave",
       "url": "https://open.spotify.com/track/355w5JvB0PlhQRjZXaGQMc"
@@ -4950,7 +5164,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 161632,
       "name": "Lucky October",
       "url": "https://open.spotify.com/track/5jbMNZLyMOz6Yrwr7ox7aK"
@@ -5128,7 +5342,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 213962,
       "name": "Maybe One Day",
       "url": "https://open.spotify.com/track/6Ay6wQhWJbmzrqpfx7wA1K"
@@ -5186,7 +5400,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 151810,
       "name": "Mind Reader (with Meghan Trainor)",
       "url": "https://open.spotify.com/track/7oN7VcpfjpSyuzScL3930l"
@@ -5226,6 +5440,24 @@
       "duration_ms": 182064,
       "name": "Miss Me Too",
       "url": "https://open.spotify.com/track/1sfg5AQ5NFecKm6GO7dkdo"
+    },
+    {
+      "album": {
+        "name": "Momma Song",
+        "url": "https://open.spotify.com/album/6kJgAmZWR69446e3gVZbxE"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "date_added": "2025-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197160,
+      "name": "Momma Song",
+      "url": "https://open.spotify.com/track/2TOEn8TnvwiQgwZdqVtfH5"
     },
     {
       "album": {
@@ -5388,7 +5620,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 166784,
       "name": "New York",
       "url": "https://open.spotify.com/track/0hYdZ4x8b3bEbc9Bpn2pQh"
@@ -5601,6 +5833,28 @@
     },
     {
       "album": {
+        "name": "Not At This Party (David Guetta Remix)",
+        "url": "https://open.spotify.com/album/2PdajQLCzFMKVuJgnRTTaR"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "date_added": "2025-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171488,
+      "name": "Not At This Party - David Guetta Remix",
+      "url": "https://open.spotify.com/track/6eAdBskdGxnbUVXxEUu3io"
+    },
+    {
+      "album": {
         "name": "Book of Elmer",
         "url": "https://open.spotify.com/album/58RtDg4DiLNcnG1fdi7rXx"
       },
@@ -5778,7 +6032,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 179973,
       "name": "ONE",
       "url": "https://open.spotify.com/track/7Dsa5qbNja1h8VOW7DzpYm"
@@ -5800,6 +6054,24 @@
       "duration_ms": 235520,
       "name": "One More Chance",
       "url": "https://open.spotify.com/track/7tlu6XbVvRpm6S49fevTuU"
+    },
+    {
+      "album": {
+        "name": "Only Happen",
+        "url": "https://open.spotify.com/album/4MEMDFaYFsHgCrTzwbufQR"
+      },
+      "artists": [
+        {
+          "name": "Nectar Woode",
+          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
+        }
+      ],
+      "date_added": "2025-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208711,
+      "name": "Only Happen",
+      "url": "https://open.spotify.com/track/2zQt3vKJafeBV6JjZD7oSn"
     },
     {
       "album": {
@@ -6438,7 +6710,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 180032,
       "name": "Revolving door",
       "url": "https://open.spotify.com/track/541sN2qNfIlllGn9nGOQoC"
@@ -6756,7 +7028,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 166769,
       "name": "SENSITIVE",
       "url": "https://open.spotify.com/track/6fkuAAKYJAnWolyQow4fD2"
@@ -7006,7 +7278,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 165000,
       "name": "Slow Motion - Gil Glaze Remix",
       "url": "https://open.spotify.com/track/4Bgo7Yh44W6Y4WQWeMRhNM"
@@ -7614,10 +7886,32 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 132539,
       "name": "Talk",
       "url": "https://open.spotify.com/track/2TuxpGjF4fPTNLMXP28xYb"
+    },
+    {
+      "album": {
+        "name": "TaTaTa (feat. Travis Scott)",
+        "url": "https://open.spotify.com/album/5g7VbiVwXeu8lVdj4tpAZ5"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2025-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150651,
+      "name": "TaTaTa (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/7iCvoWlfuJ1y7zibnh1EW9"
     },
     {
       "album": {
@@ -7636,6 +7930,24 @@
       "duration_ms": 174723,
       "name": "Teardrops",
       "url": "https://open.spotify.com/track/2SYovto91rjt4Dh5w330JJ"
+    },
+    {
+      "album": {
+        "name": "Texas",
+        "url": "https://open.spotify.com/album/32EJshiL5lZHoDJEoZVowz"
+      },
+      "artists": [
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        }
+      ],
+      "date_added": "2025-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170106,
+      "name": "Texas",
+      "url": "https://open.spotify.com/track/3yU9fLsuDYjzVyZW2FLUqY"
     },
     {
       "album": {
@@ -7748,7 +8060,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 273748,
       "name": "The First Time Ever I Saw Your Face (with Hozier)",
       "url": "https://open.spotify.com/track/4yzyi2v0QhJuumnhldtVNi"
@@ -7952,7 +8264,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 170041,
       "name": "Think Of Me",
       "url": "https://open.spotify.com/track/3RvkuiK2x5BlSQWYqTYjIS"
@@ -8543,6 +8855,28 @@
     },
     {
       "album": {
+        "name": "Walk of Fame (feat. Brittany Howard) [Edit]",
+        "url": "https://open.spotify.com/album/1vnLbFcRPUR6q9vkFuJY26"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        },
+        {
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+        }
+      ],
+      "date_added": "2025-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217582,
+      "name": "Walk of Fame (feat. Brittany Howard) - Edit",
+      "url": "https://open.spotify.com/track/22tmzHt5QJ2sMKJefaqkjn"
+    },
+    {
+      "album": {
         "name": "Want Me Back",
         "url": "https://open.spotify.com/album/1EJOnER455lMjyT3kndqC5"
       },
@@ -9054,6 +9388,24 @@
       "duration_ms": 205626,
       "name": "Wonder Woman",
       "url": "https://open.spotify.com/track/0s2f8k9pavqKj9NfCXRZNH"
+    },
+    {
+      "album": {
+        "name": "Music For People Who Believe In DNCE",
+        "url": "https://open.spotify.com/album/5i9q6otDNQm25gyl5Ik3F3"
+      },
+      "artists": [
+        {
+          "name": "Joe Jonas",
+          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
+        }
+      ],
+      "date_added": "2025-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150474,
+      "name": "Work It Out",
+      "url": "https://open.spotify.com/track/3dfSKcVcxle6GUL6i7FBjm"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 
 > Lo nuevo y lo más escuchado del pop\. Foto: Yami Safdie & Rusherking.
 
-[Spotify](https://open.spotify.com/user/spotify) - 562,530 likes - 102 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 562,525 likes - 102 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

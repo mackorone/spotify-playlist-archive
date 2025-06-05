@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdp5bwJ1FHFe.md) - [plain]
 
 > Soft rain for restful sleeping
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,396 likes - 200 songs - 9 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,581 likes - 200 songs - 9 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

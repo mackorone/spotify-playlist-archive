@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 
 > a playlist without boundaries, featuring girl in red 🪐
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,128 likes - 80 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,101 likes - 80 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 | 79 | [Kiss Me Like You're Leaving](https://open.spotify.com/track/6rA5wCxRTEE5G2EWwrQY4e) | [Jem Cassar\-Daley](https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j) | [Kiss Me Like You're Leaving](https://open.spotify.com/album/4kStSM0UKjniVUclhDnieM) | 3:40 |
 | 80 | [TRUTH DARES](https://open.spotify.com/track/6v5idSBv62Ps5UTtn2UdSM) | [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [BUTTERFLY TO A FLAME](https://open.spotify.com/album/039s679sGg1czeDaW17El4) | 3:48 |
 
-Snapshot ID: `aDjm/gAAAABoqGJ5drAmPDpXkX1U/J8X`
+Snapshot ID: `AAAAADhxKEfoCO7ynNMjnzMXmFcmUuWC`

@@ -1,12 +1,12 @@
 {
   "description": "This is Juice WRLD. The essential tracks, all in one playlist.",
-  "num_followers": 1645445,
+  "num_followers": 1645505,
   "original_name": "This Is Juice WRLD",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDzpgAAAAABEZ3UA6CTlZbXtxM7zXm4/",
+  "snapshot_id": "aD47AAAAAAA/Pi8PYgylLsZkDkJ2cgnX",
   "tracks": [
     {
       "added_at": null,
@@ -459,6 +459,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "whoa (mind in awe) [Remix]",
+        "url": "https://open.spotify.com/album/3hHy7rbqe1OvUZ1B2qvJ59"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        },
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 196341,
+      "name": "whoa (mind in awe) - Remix",
+      "url": "https://open.spotify.com/track/7pOwvbmszmfUmKlZoiMnGh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Party Never Ends 2.0",
         "url": "https://open.spotify.com/album/7kOpqRCEqTTzcGc4CwEFph"
       },
@@ -507,26 +527,6 @@
       "duration_ms": 186945,
       "name": "Black & White",
       "url": "https://open.spotify.com/track/1fCeXjoRExPP2qwSBh2aST"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "whoa (mind in awe) [Remix]",
-        "url": "https://open.spotify.com/album/3hHy7rbqe1OvUZ1B2qvJ59"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        },
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 196341,
-      "name": "whoa (mind in awe) - Remix",
-      "url": "https://open.spotify.com/track/7pOwvbmszmfUmKlZoiMnGh"
     },
     {
       "added_at": null,

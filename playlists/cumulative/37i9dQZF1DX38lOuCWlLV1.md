@@ -4,7 +4,7 @@
 
 > When you know, you know\. Eclectic love songs with delicate lyrics that say it best.
 
-212 songs - 13 hr 45 min
+213 songs - 13 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Dreams \- 2004 Remaster](https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 4:17 | 2021-02-05 |  |
 | [Eat, Sleep, Wake \(Nothing But You\)](https://open.spotify.com/track/3nClCcBmn9NnrRQkQTkx1J) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [Everything Else Has Gone Wrong](https://open.spotify.com/album/11yHtE6IzOk6elh9cJzldJ) | 3:39 | 2023-02-01 |  |
 | [Elevator Love Letter](https://open.spotify.com/track/6A5bHvnKMwuOoBqNmqFxUn) | [Stars](https://open.spotify.com/artist/2EO56JK4txid1Pss9GVbOL) | [Heart](https://open.spotify.com/album/68yFYlGmujSAKiX1xyuVJR) | 4:03 | 2021-02-05 | 2022-07-21 |
-| [Eyes](https://open.spotify.com/track/1a9czdo8IX5InOiSOg6xpv) | [Rogue Wave](https://open.spotify.com/artist/2JSc53B5cQ31m0xTB7JFpG) | [Eyes](https://open.spotify.com/album/7KMiuupbbjzq7tzwCC0rhc) | 2:28 | 2021-02-05 |  |
+| [Eyes](https://open.spotify.com/track/1a9czdo8IX5InOiSOg6xpv) | [Rogue Wave](https://open.spotify.com/artist/2JSc53B5cQ31m0xTB7JFpG) | [Eyes](https://open.spotify.com/album/7KMiuupbbjzq7tzwCC0rhc) | 2:28 | 2021-02-05 | 2025-06-05 |
 | [Fade Into You](https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [So Tonight That I Might See](https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA) | 4:55 | 2021-02-05 |  |
 | [Fall in Love with You.](https://open.spotify.com/track/2JAiwcWRLIRI4uiroJ86U7) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Fall in Love with You.](https://open.spotify.com/album/3KceyThuQEyMcqKIXchsSe) | 2:12 | 2022-10-12 | 2022-11-14 |
 | [Fall in Love with You.](https://open.spotify.com/track/31MQR9rOHRXyg4J01hRY1h) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Fall in Love with You.](https://open.spotify.com/album/5nXW8DTden7uHd0eyZengc) | 2:12 | 2022-02-03 | 2022-07-29 |
@@ -74,6 +74,7 @@
 | [First Day of My Life](https://open.spotify.com/track/0eBryM7ePQH3Klt3jz8xZd) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [I'm Wide Awake, It's Morning](https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7) | 3:08 | 2022-07-01 | 2024-04-19 |
 | [Flightless Bird, American Mouth](https://open.spotify.com/track/1fEGtTZjrjJW8eUeewnNJR) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [The Shepherd's Dog](https://open.spotify.com/album/3fzjXU2SSKero9gVMcPivX) | 4:01 | 2021-07-27 |  |
 | [Flowers & Chocolate](https://open.spotify.com/track/3ne8gcrNZD2lJihBGl5RC5) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Flowers & Chocolate](https://open.spotify.com/album/3Ir7nA3B734XS42NL5HfCW) | 3:15 | 2023-02-14 | 2023-04-20 |
+| [Forever Ever After](https://open.spotify.com/track/4MGnciz1ka4fYa3gJO8NTM) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Greyhound](https://open.spotify.com/album/3GeBXNOa1KPiFXNyAqeChF) | 4:56 | 2025-06-04 |  |
 | [Four Walls](https://open.spotify.com/track/4KMkYJO98I5GeumT8iq0j7) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Four Walls](https://open.spotify.com/album/13shwIKrctXBGx7WbzpPYp) | 3:28 | 2021-02-05 | 2022-07-29 |
 | [Girl](https://open.spotify.com/track/1wQBI2DEYltF2XlKs07D7G) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Girl](https://open.spotify.com/album/1XDMRGqkkBwQYLgNKCGFlt) | 3:31 | 2022-10-12 | 2023-03-08 |
 | [Glory Box](https://open.spotify.com/track/3Ty7OTBNSigGEpeW2PqcsC) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Dummy](https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno) | 5:08 | 2023-02-01 |  |

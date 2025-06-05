@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFFegQlq0Hb.md) - [plain]
 
 > Enjoy music and podcast from Jujutsu Kaisen!
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,431 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,503 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Yuki Chiba\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,910 likes - 119 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,922 likes - 119 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 91 | [Everyday Ppl](https://open.spotify.com/track/4lByw72kjhpT6ptlFBCjxi) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [The Hics](https://open.spotify.com/artist/2XHJ36WzMJKpDk6fLl6lMo) | [Everyday Ppl](https://open.spotify.com/album/3BikBH6HJVrNZDNJLPnAXm) | 4:19 |
 | 92 | [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 |
 | 93 | [The Expendables](https://open.spotify.com/track/1dUmZH6gK5xGY5r1mKN2Ka) | [G\-Deep](https://open.spotify.com/artist/04TBxwAscXweXCGgYdQ3zE), [Cappadonna](https://open.spotify.com/artist/0dS5xeDefwoUNasLUHnCjR), [Kidd Kidd](https://open.spotify.com/artist/2zJoKYyLmhvsq3ORbXE7xF), [SAI](https://open.spotify.com/artist/3hDZ1fLtdLgmpWkbpjaf3x) | [The Expendables](https://open.spotify.com/album/0uWOHD1D4l5MqFuWKduPTl) | 5:07 |
-| 94 | [METATRON](https://open.spotify.com/track/0kaDuqfiEeUGa9SYKHEEmI) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [METATRON](https://open.spotify.com/album/55L4dwxaTZIwY0bRk4nFzn) | 2:43 |
+| 94 | [METATRON \- feat\. Lola Moxom](https://open.spotify.com/track/0kaDuqfiEeUGa9SYKHEEmI) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ), [Lola Moxom](https://open.spotify.com/artist/108GZkpexhWFatGlQTbb1g) | [METATRON \(feat\. Lola Moxom\)](https://open.spotify.com/album/55L4dwxaTZIwY0bRk4nFzn) | 2:43 |
 | 95 | [No Names](https://open.spotify.com/track/06WyZQHz4FS4HRNn7BiVQL) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [No Names](https://open.spotify.com/album/77adhn6C62mCgTj94kxXpF) | 1:47 |
 | 96 | [The Louvre](https://open.spotify.com/track/54blTc3AnAVPehzb7u3TDs) | [Statik Selektah](https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [Rome Streetz](https://open.spotify.com/artist/7c0zOr4ffb5eteXrxWt7oB), [Stove God Cooks](https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv) | [The Louvre](https://open.spotify.com/album/6190G0Qx9vwR0gINCGumqH) | 4:09 |
 | 97 | [The Grinch](https://open.spotify.com/track/09VfkVlQG7MRdk9nVEgjzQ) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [The Grinch](https://open.spotify.com/album/4OGUwy4Oc6i3Sv39G8NpCg) | 2:15 |

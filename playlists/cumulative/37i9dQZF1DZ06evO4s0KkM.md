@@ -4,7 +4,7 @@
 
 > This is Dropkick Murphys\. The essential tracks, all in one playlist.
 
-120 songs - 6 hr 27 min
+121 songs - 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [For Boston](https://open.spotify.com/track/7GnGIJAJPwzaU2C7IXnlxp) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Sing Loud, Sing Proud](https://open.spotify.com/album/6nSdfegzGY00ZxQbWheM1K) | 1:33 | 2022-09-16 | 2024-07-02 |
 | [Fortunate Son](https://open.spotify.com/track/4XzxcPPwxCSEVn8qneqL3s) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Singles Collection Vol\. 2](https://open.spotify.com/album/1S7FQvutnvemp9eHsvGpxJ) | 2:38 | 2022-09-16 |  |
 | [God Willing](https://open.spotify.com/track/05EYDQNbnDUdWt3zyFzQ9Z) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Meanest of Times](https://open.spotify.com/album/6jGmS4aaYHvyRhKzACeQij) | 3:16 | 2022-09-16 | 2022-10-13 |
-| [God Willing](https://open.spotify.com/track/7fgK2S0XAGZk7gG3bwhXik) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Meanest Of Times](https://open.spotify.com/album/3yvUrHVpwhjIVz6MJvaQVX) | 3:16 | 2024-03-08 |  |
+| [God Willing](https://open.spotify.com/track/7fgK2S0XAGZk7gG3bwhXik) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Meanest Of Times](https://open.spotify.com/album/3yvUrHVpwhjIVz6MJvaQVX) | 3:16 | 2024-03-08 | 2025-06-05 |
 | [Going Out In Style](https://open.spotify.com/track/0I90T32j5YVYMdD4zi2Naf) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Going Out In Style](https://open.spotify.com/album/4Adk6f8Ikbd17xCYWRpE1r) | 4:08 | 2022-09-16 |  |
 | [Good As Gold](https://open.spotify.com/track/29w2i0wJXNtrHoY3uLpXlB) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Turn Up That Dial \(Expanded Edition\)](https://open.spotify.com/album/7izrrrhMXbgAk5OEECRTu8) | 3:20 | 2022-09-16 | 2022-10-13 |
 | [Gotta Get To Peekskill \(feat\. Violent Femmes\)](https://open.spotify.com/track/17hb9Umsj8gB9dsRnyRX9J) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx), [Violent Femmes](https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy) | [Gotta Get To Peekskill \(feat\. Violent Femmes\)](https://open.spotify.com/album/3LKeCdJ9O8Y9aW6UADSE26) | 2:46 | 2023-04-02 | 2023-12-14 |
@@ -124,6 +124,7 @@
 | [When I Was A Little Boy](https://open.spotify.com/track/4AnsvntwCYKAuKkUaG851H) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Okemah Rising](https://open.spotify.com/album/40SrskkBlg2KUdW4zhG2hK) | 2:32 | 2023-05-15 | 2023-06-12 |
 | [Where Trouble Is At](https://open.spotify.com/track/2wMNOJzXVsTYBynwWu9l9F) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [This Machine Still Kills Fascists \(Expanded Edition\)](https://open.spotify.com/album/3WK3HkX9lTZIhnHdehjEGB) | 2:33 | 2023-02-06 | 2023-02-09 |
 | [Where Trouble Is At](https://open.spotify.com/track/3NDnVXyl83rLQSALHn2HFT) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [This Machine Still Kills Fascists](https://open.spotify.com/album/4o7P2SaOMsHMgsWcnXrsT3) | 2:33 | 2022-10-04 | 2023-02-07 |
+| [Who'll Stand With Us?](https://open.spotify.com/track/7l7rmR8robHgvvKxxdCgiy) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Who'll Stand With Us?](https://open.spotify.com/album/43HNaHn8x5EEiydIJFZtWs) | 3:51 | 2025-06-05 |  |
 | [Worker's Song](https://open.spotify.com/track/6GHfiU4OrRvOVuC9yn8Txl) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Blackout](https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza) | 3:32 | 2022-09-16 |  |
 | [You'll Never Walk Alone](https://open.spotify.com/track/4DSNKOpbGJ891TB2sEIKH4) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [11 Short Stories of Pain & Glory](https://open.spotify.com/album/6KLf1lMP6iFIRzxKcD7PFz) | 3:22 | 2023-02-22 |  |
 | [You'll Never Walk Alone](https://open.spotify.com/track/6CGlNIDb7YCC9wA2L5I9NT) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [11 Short Stories of Pain & Glory](https://open.spotify.com/album/2x8e1IYd6eaQzAi7X2oRMB) | 3:22 | 2022-09-16 | 2023-02-23 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0uKvcl.md) - [plain]
 
 > This is Howlin' Wolf\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,078 likes - 45 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,079 likes - 45 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0uKvcl.md) - [plain]
 | 21 | [How Many More Years](https://open.spotify.com/track/0MkINaEoNBJfG9G6ewd4xM) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Moanin' In The Moonlight](https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam) | 2:43 |
 | 22 | [Built For Comfort](https://open.spotify.com/track/21SP5PYTLcth1BjKfqyKBO) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Real Folk Blues](https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0) | 2:39 |
 | 23 | [Worried About My Baby](https://open.spotify.com/track/35s3je4P8U5HkmwnYGCr22) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [Charlie Watts](https://open.spotify.com/artist/5e50biMeBYtqgeMAAMPi9k), [Bill Wyman](https://open.spotify.com/artist/5TKEKLhk0wTKM5m61BtKQC) | [The London Howlin’ Wolf Sessions \(Deluxe Edition\)](https://open.spotify.com/album/0Ja5leAzA5UZPhQC07U10l) | 2:55 |
-| 24 | [Cryin' at Daybreak](https://open.spotify.com/track/5qCis4a4VWrU4YbZ8gRQMW) | [Swing Republic](https://open.spotify.com/artist/0iOe7zpme8Z6oTs4ffvJjX), [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Electro Blues \- In House Selection](https://open.spotify.com/album/3WIp2Kipz5Wc4OPLvQ54iW) | 3:47 |
+| 24 | [I'm The Wolf](https://open.spotify.com/track/1q16Hi8bxSD1DGbMH01lUT) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [More Real Folk Blues](https://open.spotify.com/album/0VhNNQHnR3ZVTgeEGBTAYS) | 2:54 |
 | 25 | [Ooh, Baby / Wrecking My Love Life \- Medley](https://open.spotify.com/track/0lp6c7BBYNlDVksKGQqy8X) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Super Super Blues Band](https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc) | 6:34 |
-| 26 | [I'm The Wolf](https://open.spotify.com/track/1q16Hi8bxSD1DGbMH01lUT) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [More Real Folk Blues](https://open.spotify.com/album/0VhNNQHnR3ZVTgeEGBTAYS) | 2:54 |
+| 26 | [Cryin' at Daybreak](https://open.spotify.com/track/5qCis4a4VWrU4YbZ8gRQMW) | [Swing Republic](https://open.spotify.com/artist/0iOe7zpme8Z6oTs4ffvJjX), [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Electro Blues \- In House Selection](https://open.spotify.com/album/3WIp2Kipz5Wc4OPLvQ54iW) | 3:47 |
 | 27 | [Do The Do](https://open.spotify.com/track/2J2G92kpvzKJHLSTB1HXME) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [Charlie Watts](https://open.spotify.com/artist/5e50biMeBYtqgeMAAMPi9k), [Bill Wyman](https://open.spotify.com/artist/5TKEKLhk0wTKM5m61BtKQC) | [The London Howlin’ Wolf Sessions \(Deluxe Edition\)](https://open.spotify.com/album/0Ja5leAzA5UZPhQC07U10l) | 2:19 |
 | 28 | [Going Back Home](https://open.spotify.com/track/2I48KvJxmIXeIZJjmrJxHW) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Smokestack Lightning /The Complete Chess Masters 1951\-1960](https://open.spotify.com/album/0Oc3QMGeNj9JC7f0rBaP8Q) | 2:39 |
 | 29 | [My Life \- Single Version](https://open.spotify.com/track/155NceRDOs2fZUXdNTNxvA) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Ain't Gonna Be Your Dog: Chess Collectibles Vol\. 2](https://open.spotify.com/album/6QdJm82BTysvMJVoT7nF61) | 3:01 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0uKvcl.md) - [plain]
 | 44 | [Oh Red](https://open.spotify.com/track/3rWhFabcpnpCF9iSWAZqKo) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Memphis Sessions](https://open.spotify.com/album/4IyU5b7kkJzHQzxHalKSlp) | 2:44 |
 | 45 | [You Turn Slick On Me](https://open.spotify.com/track/4vFSTxdwlrZJrN5hx6D4ik) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Back Door Wolf](https://open.spotify.com/album/4vh7IH7qY7ToZsSUeNseLt) | 4:53 |
 
-Snapshot ID: `aDzpgAAAAACWC6stMGhJHl4ytvjpuVYv`
+Snapshot ID: `aD47AAAAAADHag7v9+GmiyJi7yw7K34v`

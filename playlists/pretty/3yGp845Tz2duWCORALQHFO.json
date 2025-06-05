@@ -1,12 +1,12 @@
 {
   "description": "EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!",
-  "num_followers": 26150,
+  "num_followers": 26151,
   "original_name": "NEW EDM 2025 \u26a1 EDM HITS 2025 \u26a1 MUSICA ELECTRONICA 2025",
   "owner": {
     "name": "EDM Sauce",
     "url": "https://open.spotify.com/user/edmsauce"
   },
-  "snapshot_id": "AABjPT8THQssecsvqcB7Z1PKUM2klBL3",
+  "snapshot_id": "AABjP504FOzqYV6b1RbjonJpW3ovb1M3",
   "tracks": [
     {
       "added_at": "2025-05-29 16:19:18",
@@ -205,6 +205,26 @@
       "url": "https://open.spotify.com/track/78RMLi8fjTWLU72Rf2hn1W"
     },
     {
+      "added_at": "2025-06-04 18:48:53",
+      "album": {
+        "name": "Constellations (Jono Stephenson Remix)",
+        "url": "https://open.spotify.com/album/5TvCBHplI7VmOCzbVAYrs7"
+      },
+      "artists": [
+        {
+          "name": "PLS&TY",
+          "url": "https://open.spotify.com/artist/14byx2nRysWNtgauCXscKT"
+        },
+        {
+          "name": "Jono Stephenson",
+          "url": "https://open.spotify.com/artist/21MbQv1rCoPiOUq7f3cdHL"
+        }
+      ],
+      "duration_ms": 203240,
+      "name": "Constellations - Jono Stephenson Remix",
+      "url": "https://open.spotify.com/track/5IQ2d2CqsxQC8w4JVgtbiZ"
+    },
+    {
       "added_at": "2025-06-01 19:43:51",
       "album": {
         "name": "Space",
@@ -279,6 +299,34 @@
       "duration_ms": 153000,
       "name": "House Wife",
       "url": "https://open.spotify.com/track/2ei47Cmnr9hykUEczmvNgk"
+    },
+    {
+      "added_at": "2025-06-04 18:48:51",
+      "album": {
+        "name": "Infectious (Aurion Skye Remix)",
+        "url": "https://open.spotify.com/album/4mRT1TJwvETIt9U3mljQP0"
+      },
+      "artists": [
+        {
+          "name": "tyDi",
+          "url": "https://open.spotify.com/artist/7tOUuyCplrFWLXCZuhE3C4"
+        },
+        {
+          "name": "Hiroshi Daisuki",
+          "url": "https://open.spotify.com/artist/33dyguPO2umrmJdfoOrm4v"
+        },
+        {
+          "name": "Aurion Skye",
+          "url": "https://open.spotify.com/artist/5pjrXQJiE2WmcrMBXYNKgi"
+        },
+        {
+          "name": "Chusap",
+          "url": "https://open.spotify.com/artist/0P6OwtBYDXTCwksGaLFrts"
+        }
+      ],
+      "duration_ms": 228571,
+      "name": "Infectious - Aurion Skye Remix",
+      "url": "https://open.spotify.com/track/6qDWQAfmXEJj5iZww4kdRb"
     },
     {
       "added_at": "2025-05-29 16:19:18",

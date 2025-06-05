@@ -4,7 +4,7 @@
 
 > Den bästa och största rocklistan i Sverige! ⚡️
 
-307 songs - 19 hr 33 min
+308 songs - 19 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,6 +206,7 @@
 | [Perfect Soul](https://open.spotify.com/track/7FjRNlmPtWb1ra46t14rUN) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Perfect Soul](https://open.spotify.com/album/6trbYqn0Og2FEmucGshPg5) | 3:59 | 2024-11-21 |  |
 | [Perfume Of The Timeless](https://open.spotify.com/track/2XXXvrIkEBtR3LlbfJExpJ) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Perfume Of The Timeless](https://open.spotify.com/album/2lzs5KtWl3eovh9AMdWwCt) | 8:12 | 2024-06-27 | 2025-04-12 |
 | [Pink Fang](https://open.spotify.com/track/6N2OH7MKytiW3YZ3GqQGOv) | [Vokonis](https://open.spotify.com/artist/3DZoit5R0ahZQCNLbDnNxr) | [Pink Fang](https://open.spotify.com/album/48xvECMQfRGH7se6T7fXB1) | 4:03 | 2024-08-22 | 2024-09-20 |
+| [Plastic Heart](https://open.spotify.com/track/0x4RCugHzWzSigzcuMul6E) | [Shiraz Lane](https://open.spotify.com/artist/0TTu3zbvW4iFfls1GDbyGk) | [Plastic Heart](https://open.spotify.com/album/1lNArS99wMBTcXHrRdYpQz) | 3:18 | 2025-06-04 |  |
 | [Puppy](https://open.spotify.com/track/6Qysn1iEj418NwIx8K19RC) | [One Morning Left](https://open.spotify.com/artist/4QGKWF55nqfGYToZkoZPRF) | [Puppy](https://open.spotify.com/album/420NMIp6t3lUUOMKU8QWOV) | 2:40 | 2025-01-16 | 2025-01-23 |
 | [QWERTY](https://open.spotify.com/track/4XyH7K2OWCkpABzPU18B2B) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Papercuts](https://open.spotify.com/album/1xyqxAgu1JMOQe9AdRTNSl) | 3:21 | 2024-06-27 | 2024-10-18 |
 | [Random Acts of Violence](https://open.spotify.com/track/1Hf0eeTmSfBncaTGXgp6Ah) | [Fixation](https://open.spotify.com/artist/4XbPyHXCANCyqyrqALccrI) | [Random Acts of Violence](https://open.spotify.com/album/0bXLGRMVw2yxYLDCCfn2vX) | 4:06 | 2024-06-27 | 2024-11-19 |

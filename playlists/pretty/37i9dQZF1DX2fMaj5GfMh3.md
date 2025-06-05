@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 
 > De nieuwste pop songs\. Cover: Alex Warren & Jelly Roll
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,174 likes - 88 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,173 likes - 88 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

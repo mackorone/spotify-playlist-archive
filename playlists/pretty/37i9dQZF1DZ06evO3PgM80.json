@@ -1,12 +1,12 @@
 {
   "description": "This is Julia Vit\u00f3ria. The essential tracks, all in one playlist.",
-  "num_followers": 20702,
+  "num_followers": 20709,
   "original_name": "This Is Julia Vit\u00f3ria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDzpgAAAAAB21pQf3Img70uaG34GtGLq",
+  "snapshot_id": "aD47AAAAAABJhfyKCDZQDFzNtXx6vzSg",
   "tracks": [
     {
       "added_at": null,
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/0ySwpAxnbxGkqSVKp81Nqo"
         }
       ],
-      "duration_ms": 278840,
-      "name": "Eu Me Rendo - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4g92G2KdbzOPfXtvbTkazd"
+      "duration_ms": 254253,
+      "name": "Me Atraiu - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3Jo1orSzj5tJHRrUGFed11"
     },
     {
       "added_at": null,
@@ -448,9 +448,9 @@
           "url": "https://open.spotify.com/artist/0ySwpAxnbxGkqSVKp81Nqo"
         }
       ],
-      "duration_ms": 254253,
-      "name": "Me Atraiu - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3Jo1orSzj5tJHRrUGFed11"
+      "duration_ms": 278840,
+      "name": "Eu Me Rendo - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4g92G2KdbzOPfXtvbTkazd"
     },
     {
       "added_at": null,
@@ -631,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vem",
-        "url": "https://open.spotify.com/album/4w9Ym45CNTgnyTNaMXsJ1w"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 382880,
-      "name": "Vem",
-      "url": "https://open.spotify.com/track/3Yop3QUpr2wfe2MObnpZ2b"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Perto Eu Quero Estar (Ao Vivo)",
         "url": "https://open.spotify.com/album/4YJCr4MpR5LE6WBMMcBT4x"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 252866,
       "name": "Perto Eu Quero Estar - Ao Vivo",
       "url": "https://open.spotify.com/track/0qcVbrMV3FW3BnKOadt3Xw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vem",
+        "url": "https://open.spotify.com/album/4w9Ym45CNTgnyTNaMXsJ1w"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 382880,
+      "name": "Vem",
+      "url": "https://open.spotify.com/track/3Yop3QUpr2wfe2MObnpZ2b"
     },
     {
       "added_at": null,
@@ -795,26 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu \u00c9s Rei",
-        "url": "https://open.spotify.com/album/0cZcSReFhsKGSKx2XT19W7"
-      },
-      "artists": [
-        {
-          "name": "Arthur Callazans",
-          "url": "https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS"
-        },
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 421395,
-      "name": "Tu \u00c9s Rei",
-      "url": "https://open.spotify.com/track/1ZRqhv2xiJWVrSOaD5VLpm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "O Meu Pai \u00c9 Bom (Ao Vivo)",
         "url": "https://open.spotify.com/album/2fCwHzbPlz7WSywTzroQO5"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 532577,
       "name": "O Meu Pai \u00c9 Bom - Ao Vivo",
       "url": "https://open.spotify.com/track/1EZ8LejBperuDSPr004cpU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tu \u00c9s Rei",
+        "url": "https://open.spotify.com/album/0cZcSReFhsKGSKx2XT19W7"
+      },
+      "artists": [
+        {
+          "name": "Arthur Callazans",
+          "url": "https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS"
+        },
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 421395,
+      "name": "Tu \u00c9s Rei",
+      "url": "https://open.spotify.com/track/1ZRqhv2xiJWVrSOaD5VLpm"
     },
     {
       "added_at": null,

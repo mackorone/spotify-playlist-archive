@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Celebrating 10 years of fresh releases from your future favorite artists\. Cover: Kim Leo Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,209 likes - 135 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,211 likes - 135 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 6 | [kung kita](https://open.spotify.com/track/2H6gDD9gBor59QpKD68WVs) | [Bad$auce](https://open.spotify.com/artist/30EyI8OA6yiuGS9ioQDf18) | [kung kita](https://open.spotify.com/album/5vVfX8XRF2Wom3KnL8OJM4) | 3:12 |
 | 7 | [Bat Sayo Pa](https://open.spotify.com/track/3yUOhMlmDe7nI4dghQ6SHf) | [Mark Daniel](https://open.spotify.com/artist/0wdZsNcM1BUFzG1Oss3HQ1) | [Bat Sayo Pa](https://open.spotify.com/album/5INJYJPlJEDNFmkwDLsvMT) | 4:30 |
 | 8 | [NEWSOUNDNEWGIMMICK](https://open.spotify.com/track/7ujtn8a8LYzEtKgl7n4GYO) | [Jnuzh](https://open.spotify.com/artist/7HyJFrpVIEYmf2tRMVU8hk), [Aoii](https://open.spotify.com/artist/429QIz0N9BbtfG7QVaTxXp) | [NEWSOUNDNEWGIMMICK](https://open.spotify.com/album/0uNcpQvRYQiqJih9QBOcIe) | 1:19 |
-| 9 | [Superproxy \(feat\. Stef Aranas\)](https://open.spotify.com/track/5SwzzlLtqERPr5NvtzRhRx) | [Amateurish](https://open.spotify.com/artist/6EeQGeq2NmQ0QpSxFUudLp), [Stef Aranas](https://open.spotify.com/artist/741S9vc1M279OomvdEsFhg) | [Superproxy \(feat\. Stef Aranas\)](https://open.spotify.com/album/6FMu7cGippahWIWbtYPFzG) | 6:27 |
+| 9 | [Superproxy \(feat\. Stef Aranas\)](https://open.spotify.com/track/5SwzzlLtqERPr5NvtzRhRx) | [Amateurish](https://open.spotify.com/artist/6EeQGeq2NmQ0QpSxFUudLp), [Stef Aranas](https://open.spotify.com/artist/741S9vc1M279OomvdEsFhg) | [Superproxy \(feat\. Stef Aranas\)](https://open.spotify.com/album/6FMu7cGippahWIWbtYPFzG) | 6:22 |
 | 10 | [Talk \(To the Girl\)](https://open.spotify.com/track/1hS1cgmwCWuaTCq7iXsFA2) | [Ventura](https://open.spotify.com/artist/5VGXRx8itEcICtHlmeeqZR) | [Do You Even \(See Me\)](https://open.spotify.com/album/62C4dBzp3yNPRabzcpRDyj) | 2:16 |
 | 11 | [Push & Pull](https://open.spotify.com/track/1EjFbItivShmPdTm1s7pV8) | [Wuji Wuji](https://open.spotify.com/artist/0XOopFmIHGMexuiv5VOiYs) | [NOVISION](https://open.spotify.com/album/7tXi3ZJFZgetvWN63iRKgx) | 2:54 |
 | 12 | [Ang Huling El Bimbo](https://open.spotify.com/track/5HWwcAy9gHBFF6CZsZwZl1) | [Pinkmen](https://open.spotify.com/artist/6XNIDeowERJg7IRUiAsDrU) | [Ang Huling El Bimbo](https://open.spotify.com/album/5sNqlWyvq7MPSYRSXZLNAO) | 6:10 |

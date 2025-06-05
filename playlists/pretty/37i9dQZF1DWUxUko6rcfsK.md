@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxUko6rcfsK.md) - [plain]
 
 > Het leven is prachtig en dat verdient goede muziek
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,348 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,330 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [People Watching](https://open.spotify.com/track/3ZZyUf7WkhfN1JkQZZ00fI) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching](https://open.spotify.com/album/2Qg1mJJObwIAJiFHTQvl9E) | 5:11 |
 | 2 | [Caroline](https://open.spotify.com/track/4fPZyUU0MmUJuVlJ9IjJe6) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [RUSHMERE](https://open.spotify.com/album/15oPzWZQmZyyrsJt4st3U4) | 3:20 |
-| 3 | [Could Have Been Us](https://open.spotify.com/track/4YnwFg1qB2E6euEB6a9v9q) | [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD), [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Could Have Been Us](https://open.spotify.com/album/6MBWWDyw0JTFgbP1E14fr8) | 3:16 |
+| 3 | [Rescue Me](https://open.spotify.com/track/6layeClm9iQ1xOPYZ9zbJU) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Rescue Me](https://open.spotify.com/album/2xpvAnyCde4Q20Q193vfgR) | 2:47 |
 | 4 | [I Hope It All Works Out](https://open.spotify.com/track/0tdO9pgHBCo2LCmWzfwZTy) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [I Hope It All Works Out](https://open.spotify.com/album/57AwLs6IEbB6eicGU0483i) | 2:47 |
 | 5 | [ALL MY LOVE](https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:42 |
 | 6 | [Something](https://open.spotify.com/track/1qWkZqddBfB2gT9timbnN4) | [Hiqpy](https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq) | [Something](https://open.spotify.com/album/7LiLmYbPYkFyyaHnDLlE4P) | 4:21 |
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxUko6rcfsK.md) - [plain]
 | 18 | [Honey \- Single Version](https://open.spotify.com/track/7JplJCCUuo2o6emhE3f3SK) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Honey](https://open.spotify.com/album/2tgMULeDaymA173kWVgCZS) | 3:15 |
 | 19 | [Before It Might Be Gone](https://open.spotify.com/track/4QqixSXWSTWq1rC5DzCz92) | [The Vices](https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj) | [Before It Might Be Gone](https://open.spotify.com/album/3EVICWZusdGvnKGYkY9AGM) | 4:56 |
 | 20 | [Where Do You Go](https://open.spotify.com/track/1fIt37a7s0wj1OvQY7KCB7) | [Lucas Hamming](https://open.spotify.com/artist/4iDpNIlF0YzksZ35iQf196) | [Where Do You Go](https://open.spotify.com/album/6nOTgMbtPFVxNWdHam8dTm) | 3:09 |
-| 21 | [Rescue Me](https://open.spotify.com/track/6layeClm9iQ1xOPYZ9zbJU) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Rescue Me](https://open.spotify.com/album/2xpvAnyCde4Q20Q193vfgR) | 2:47 |
-| 22 | [Forever Ayayay](https://open.spotify.com/track/5Z50CiMHjQ5bk013yfWeTU) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Sunkissed](https://open.spotify.com/album/5IxTreJqAgwytAjsGZDSNV) | 3:36 |
-| 23 | [Sinatra](https://open.spotify.com/track/4J5TEKLKS3hXWlPv0HDe5n) | [Lenny Monsou](https://open.spotify.com/artist/1mCVKxQihZkfBjdphoGLT3) | [Sinatra](https://open.spotify.com/album/1i5Ver0UuKtGr1eJSlbyXL) | 3:14 |
+| 21 | [Forever Ayayay](https://open.spotify.com/track/5Z50CiMHjQ5bk013yfWeTU) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Sunkissed](https://open.spotify.com/album/5IxTreJqAgwytAjsGZDSNV) | 3:36 |
+| 22 | [Sinatra](https://open.spotify.com/track/4J5TEKLKS3hXWlPv0HDe5n) | [Lenny Monsou](https://open.spotify.com/artist/1mCVKxQihZkfBjdphoGLT3) | [Sinatra](https://open.spotify.com/album/1i5Ver0UuKtGr1eJSlbyXL) | 3:14 |
+| 23 | [Could Have Been Us](https://open.spotify.com/track/4YnwFg1qB2E6euEB6a9v9q) | [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD), [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Could Have Been Us](https://open.spotify.com/album/6MBWWDyw0JTFgbP1E14fr8) | 3:16 |
 | 24 | [Medusa](https://open.spotify.com/track/1B7xiLBhKRBpD5KlnEWtrR) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Medusa](https://open.spotify.com/album/3e2KRazxHkewQA3WL20fqQ) | 2:37 |
 | 25 | [Cowboys of Los](https://open.spotify.com/track/4sPsl1gLOaq5yiCKo1UbBc) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Cowboys of Los](https://open.spotify.com/album/218OGsKxVoDNZwue6n2yXH) | 4:03 |
 | 26 | [Broke](https://open.spotify.com/track/3UeVin0MUnhQdSRF4pxgfn) | [Wulf](https://open.spotify.com/artist/134sCDSe1w2zPnfCG4hT0f) | [Broke](https://open.spotify.com/album/0O32VuAQRu1yxK8kYGw13E) | 2:41 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxUko6rcfsK.md) - [plain]
 | 59 | [My Blood](https://open.spotify.com/track/2cZePrelIrMYPgwoWsuKIJ) | [DI\-RECT](https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q) | [My Blood](https://open.spotify.com/album/07QS9kZSBXmEIDj7knle6G) | 3:41 |
 | 60 | [I Will Go There \(feat\. remme\)](https://open.spotify.com/track/71V025BxBhBKJNHAky0ZfM) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX), [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [I Will Go There \(feat\. remme\)](https://open.spotify.com/album/5cs3LTA5B9mHiTzolOdH55) | 3:20 |
 
-Snapshot ID: `aD2rTwAAAAAmxT5Aj9nGDkct512RKqDf`
+Snapshot ID: `aECkagAAAABGVZycjfCrNY3mY6/2dfR2`

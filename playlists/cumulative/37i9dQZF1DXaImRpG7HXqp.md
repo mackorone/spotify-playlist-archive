@@ -4,7 +4,7 @@
 
 > Keep calm with instrumental acoustic tracks.
 
-832 songs - 1 day 12 hr 9 min
+833 songs - 1 day 12 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -839,6 +839,7 @@
 | [You´ll Be In My heart](https://open.spotify.com/track/0SV5qCggYI52A7xPVNUeD5) | [Larry Eagler](https://open.spotify.com/artist/6BAFOyxrRfvSvjpcNxp3rs) | [You´ll Be In My heart](https://open.spotify.com/album/36q4eAeAtx39HyVxBwONzU) | 4:00 | 2022-09-23 | 2023-03-10 |
 | [Zanzibar](https://open.spotify.com/track/4eEltFAvLftzlLETebDlX7) | [Reynold Silva](https://open.spotify.com/artist/2REYOFNT6o4YPzD3HopPuG) | [Alexa](https://open.spotify.com/album/3abMftE4tiNEMRTPC0XfSB) | 2:59 | 2021-12-08 | 2022-08-05 |
 | [Zita](https://open.spotify.com/track/06atvPAAccSFyPWrQuxjrr) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Zita](https://open.spotify.com/album/1fpvvgQM16OfF1PjHmH64r) | 3:00 | 2022-03-04 | 2023-05-13 |
+| [Zumala](https://open.spotify.com/track/5Vl1Hua7EURdz34EnfwrKl) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Zumala](https://open.spotify.com/album/6AQTp4aTLOS1Z4XfAKxfVd) | 2:51 | 2025-06-04 |  |
 | [Zweiter Frühling](https://open.spotify.com/track/6nm7hwoso95QfUJSgCz5fz) | [Carsten Meyer](https://open.spotify.com/artist/6je5sFIVVOMLNUeTVnx3v6) | [Zweiter Frühling](https://open.spotify.com/album/5wmlwdZTpNEFTheAEhl0nU) | 3:35 | 2021-12-08 | 2022-06-10 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

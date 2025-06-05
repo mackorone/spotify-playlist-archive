@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBH5YfEiy7g.md) - [plain]
 
 > Praise and Worship your way with the best South African Gospel music\.  Cover: <a href="https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2?si=uGuuK6QzQtSEFeMF2uASxQ">Benjamin Dube</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,036 likes - 100 songs - 10 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,462 likes - 100 songs - 10 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBH5YfEiy7g.md) - [plain]
 | 48 | [Jesu Ufik'ekuseni \- Live](https://open.spotify.com/track/0Md6sFVsOn5rUMrUoX922l) | [Sipho Ngwenya](https://open.spotify.com/artist/72Tl2cXPC1vmagob3mPdoe), [Thinah Zungu](https://open.spotify.com/artist/0gqiNXIGbyBCBsbQ4TWJlg) | [Intimate Worship Season, Vol\. 2 \(Live\)](https://open.spotify.com/album/467zjiBxAx2DLgW9jKt96E) | 6:59 |
 | 49 | [Jesu ‘Lidwala](https://open.spotify.com/track/2LzE0NjnRkCnWUceB7bGiD) | [Lusanda Beja](https://open.spotify.com/artist/0YUGmCeW5yRmxinae7xxPe) | [Jesu 'lidwala](https://open.spotify.com/album/64Ten8WmX26OtfIxbwwtM9) | 9:40 |
 | 50 | [Haleluyah Mdumiseni \- Live](https://open.spotify.com/track/0cnL9GGXyZen3MtNb4pQCl) | [Lebo Sekgobela](https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx) | [Restored \(Live\)](https://open.spotify.com/album/4CVpV7NAYwOeWuZ9FSbFZ5) | 7:13 |
-| 51 | [Ukhuphila Kwethu](https://open.spotify.com/track/5MQblyyQ4AdnWWZwZI2jvW) | [Reginald Jabu](https://open.spotify.com/artist/7JH7vnM5DFedm2lcpddAj4) | [Ukhuphila Kwethu](https://open.spotify.com/album/7IQECBtOUX5SF0lWG2SVSM) | 10:00 |
+| 51 | [Ukuphila Kwethu](https://open.spotify.com/track/5MQblyyQ4AdnWWZwZI2jvW) | [Reginald Jabu](https://open.spotify.com/artist/7JH7vnM5DFedm2lcpddAj4) | [Ukuphila Kwethu](https://open.spotify.com/album/7IQECBtOUX5SF0lWG2SVSM) | 10:00 |
 | 52 | [Ulwandle](https://open.spotify.com/track/6ilg9EOG5RkRtHxjiUQwSZ) | [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Egameni LikaJesu](https://open.spotify.com/album/5GyAo0sFpDRvvkXH7xT35R) | 4:16 |
 | 53 | [Moyongcwele 2.0 \(feat\. Xolly Mncwango & Dumi Mkokstad\)](https://open.spotify.com/track/2Fr91FaX7a7lw66N3bB0gJ) | [Nontokozo Mkhize](https://open.spotify.com/artist/2xYE0LYxFRGK9CQxLlkE7H), [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4), [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Moyongcwele 2.0 \(feat\. Xolly Mncwango & Dumi Mkokstad\)](https://open.spotify.com/album/2olLcwxLFYjAEGeMUr710p) | 5:08 |
 | 54 | [Awudeli Kimi \- Live At The Octagon / 2024](https://open.spotify.com/track/16SHtnLYIh8YXJE6d8BN30) | [Musa Yende](https://open.spotify.com/artist/04lvbGgTkiM8PjDktWQehd) | [Sustained By Grace](https://open.spotify.com/album/5RWsRd2bGY4sjXWC25emKV) | 8:46 |

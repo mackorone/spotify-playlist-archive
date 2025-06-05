@@ -1,12 +1,12 @@
 {
   "description": "This is Labrinth. The essential tracks, all in one playlist.",
-  "num_followers": 151851,
+  "num_followers": 151865,
   "original_name": "This Is Labrinth",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDzpgAAAAACfJPcQJ4hHMfSaMtX2EOnr",
+  "snapshot_id": "aD47AAAAAACKAtFPPP4IWZNlyyd3ZoHU",
   "tracks": [
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "S.W.M.F.",
-        "url": "https://open.spotify.com/album/2sfHdpolaidE0tV9uBfLqG"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 146500,
-      "name": "S.W.M.F. - Edit",
-      "url": "https://open.spotify.com/track/6kfvLmh6Lxvk0L2glYUYkL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Ordinary",
         "url": "https://open.spotify.com/album/67TMvbWsbRX8mhZVxJJoYu"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 184795,
       "name": "No Ordinary",
       "url": "https://open.spotify.com/track/5GSKLdbgKfoOmZxgwUKBEp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "S.W.M.F.",
+        "url": "https://open.spotify.com/album/2sfHdpolaidE0tV9uBfLqG"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 146500,
+      "name": "S.W.M.F. - Edit",
+      "url": "https://open.spotify.com/track/6kfvLmh6Lxvk0L2glYUYkL"
     },
     {
       "added_at": null,
@@ -575,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wonder Woman (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0KAhv0UFmkjf2MpTFh0KNd"
+        "name": "LABRINTH, SIA & DIPLO PRESENT... LSD",
+        "url": "https://open.spotify.com/album/0ujHQ5WCLuKJQXOqXpGtpf"
       },
       "artists": [
         {
@@ -584,13 +584,21 @@
           "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
         },
         {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
           "name": "Labrinth",
           "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        },
+        {
+          "name": "LSD",
+          "url": "https://open.spotify.com/artist/6IZ4ctovY9dl7bgHClAvKJ"
         }
       ],
-      "duration_ms": 240960,
-      "name": "To Be Human (feat. Labrinth)",
-      "url": "https://open.spotify.com/track/1ZZBpYcE6uw4vsZwhXGv0e"
+      "duration_ms": 186120,
+      "name": "Angel in Your Eyes (feat. Sia, Diplo, and Labrinth)",
+      "url": "https://open.spotify.com/track/6k71NlTnn41Vk7RJX7CSbY"
     },
     {
       "added_at": null,
@@ -627,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "LABRINTH, SIA & DIPLO PRESENT... LSD",
-        "url": "https://open.spotify.com/album/0ujHQ5WCLuKJQXOqXpGtpf"
+        "name": "Wonder Woman (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0KAhv0UFmkjf2MpTFh0KNd"
       },
       "artists": [
         {
@@ -636,21 +644,13 @@
           "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
         },
         {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
           "name": "Labrinth",
           "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        },
-        {
-          "name": "LSD",
-          "url": "https://open.spotify.com/artist/6IZ4ctovY9dl7bgHClAvKJ"
         }
       ],
-      "duration_ms": 186120,
-      "name": "Angel in Your Eyes (feat. Sia, Diplo, and Labrinth)",
-      "url": "https://open.spotify.com/track/6k71NlTnn41Vk7RJX7CSbY"
+      "duration_ms": 240960,
+      "name": "To Be Human (feat. Labrinth)",
+      "url": "https://open.spotify.com/track/1ZZBpYcE6uw4vsZwhXGv0e"
     },
     {
       "added_at": null,

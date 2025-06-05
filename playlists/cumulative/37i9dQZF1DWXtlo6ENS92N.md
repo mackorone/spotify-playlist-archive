@@ -2,7 +2,7 @@
 
 ### [Bollywood Central](https://open.spotify.com/playlist/37i9dQZF1DWXtlo6ENS92N)
 
-> Bollywood Central, jab baje toh seedha dil ke centre mein lage 🫶🏼 Cover \- Bhool Bhulaiyaa 3
+> Bollywood Central, jab baje toh seedha dil ke centre mein lage 🫶🏼 Cover \- RRKPK
 
 180 songs - 12 hr 2 min
 

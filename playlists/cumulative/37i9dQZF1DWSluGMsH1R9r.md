@@ -4,7 +4,7 @@
 
 > Calm piano music for enhanced concentration.
 
-747 songs - 1 day 8 hr 0 min
+750 songs - 1 day 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Bonjour](https://open.spotify.com/track/3Ww0Guhe9loz9l2L1kZGWb) | [Oscar Mallen](https://open.spotify.com/artist/0rpHfK2QFCVaoXwooHki3o) | [Bonjour](https://open.spotify.com/album/4pKg8wGdu05SMyu7FpvNjD) | 2:39 | 2024-05-01 |  |
 | [Born To Live](https://open.spotify.com/track/1C0RA3kpeaa5NOstlwzPCQ) | [Phoebe Weber](https://open.spotify.com/artist/2WgYyclJDRvXJaeSw1N0O4) | [Born To Live](https://open.spotify.com/album/0MLSAK0yRUh7ptFnYAsEnI) | 2:46 | 2021-12-07 | 2022-04-21 |
 | [Broken Wings](https://open.spotify.com/track/6DsrTcbNItkd09LUx61ZGd) | [Fredrik Lundberg](https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3) | [Broken Wings](https://open.spotify.com/album/7yhv9BZoyPY5xlf1LAzW8V) | 2:00 | 2021-12-07 | 2024-03-20 |
+| [Brûlante](https://open.spotify.com/track/1odAiMcVPK2ICByCZ47Uxk) | [Lucien Vallière](https://open.spotify.com/artist/4JmBqZlqb5nwbJYRYe4l5G) | [Brûlante](https://open.spotify.com/album/61xylbaTzrl6BCKITSXEFN) | 2:24 | 2025-06-04 |  |
 | [Bubbles](https://open.spotify.com/track/2IdLxL6CPq1bUiMRIenO9J) | [Michel Jean](https://open.spotify.com/artist/4ctoiVR4Okq67Q9vyl3jcz) | [Bubbles](https://open.spotify.com/album/1LrUfRnXCEQCCP3OL48I8K) | 2:14 | 2021-12-07 | 2023-01-27 |
 | [Bulles à facettes](https://open.spotify.com/track/6cPE6jra0BmU8kLzgeUZbb) | [Jordane Tumarinson](https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw) | [Bulles à facettes](https://open.spotify.com/album/3bvtiUyD3XAR3lL04QKuib) | 3:13 | 2021-12-07 | 2023-01-27 |
 | [Calendula](https://open.spotify.com/track/03Nkx8cSVdDlS7FOQ3kQm6) | [Leandra Masi](https://open.spotify.com/artist/6fWhWlXrWSGvZMWrsL0lim) | [Calendula](https://open.spotify.com/album/2V3g7LmL3tX3XNsSpUZJOz) | 2:54 | 2021-12-07 | 2024-02-06 |
@@ -262,6 +263,7 @@
 | [Hindsight](https://open.spotify.com/track/0k8MgafLdbRrQaqPbklNtN) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Hindsight](https://open.spotify.com/album/6kioGbNjNtqk7fmhcDBleD) | 1:50 | 2021-12-07 | 2023-07-25 |
 | [Hiraeth](https://open.spotify.com/track/7Bu7bhBR0ZzJYV6rXy2WBE) | [Friedrich Hahn](https://open.spotify.com/artist/6RTZD5u0Respn5hQRVBB1C) | [Hiraeth](https://open.spotify.com/album/0X7oAZw91zTDeDYBo8csfR) | 2:27 | 2024-12-04 |  |
 | [Histoire d'un Jour](https://open.spotify.com/track/16QEKihp9N6eHLbeIat4jb) | [Amandine Moulin](https://open.spotify.com/artist/0sVyGAiXwDz3NKBLpwY69j) | [Histoire d'un Jour](https://open.spotify.com/album/6E6rkMC4rUvfUbJr19ppjs) | 2:25 | 2021-12-07 | 2023-01-27 |
+| [Hivon](https://open.spotify.com/track/4R5hrJSecDyvtD80GZLAGs) | [Xaverius Love](https://open.spotify.com/artist/614WSOcC6h559Do1UR6k97) | [Hivon](https://open.spotify.com/album/23jcFelRsPzQYacsgJ2HDI) | 2:42 | 2025-06-04 |  |
 | [Homage](https://open.spotify.com/track/5imJAvlEBQf9OWjogd3VEm) | [Inside Lands](https://open.spotify.com/artist/7fQumDmow1qrPuRXqMHUa7) | [Homage](https://open.spotify.com/album/0U0hTrIvfgJCB59rb8sApb) | 2:43 | 2021-12-07 | 2023-01-27 |
 | [Homebound](https://open.spotify.com/track/2TSm3aFc5f0tgzsVhIbMxp) | [Serge Dusault](https://open.spotify.com/artist/2RV3XBg4xGArDfTzQ1apdz) | [Homebound](https://open.spotify.com/album/05upCw1lmnqV6dO7xFRTz8) | 2:53 | 2022-01-18 | 2022-12-24 |
 | [Homestead](https://open.spotify.com/track/2yZU1Y2Zagb4Ymm5gK72ab) | [Chris Donner](https://open.spotify.com/artist/4xwCgzlPsRwNfHdvlLwCsH) | [Homestead](https://open.spotify.com/album/2FSycLXewsbnvoqm6F5oKv) | 2:42 | 2022-03-01 | 2022-07-16 |
@@ -593,6 +595,7 @@
 | [Sogni di Positano](https://open.spotify.com/track/3tRkhS5byc7Dt4zjwliaWY) | [Nascondiglio](https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK) | [Sogni di Positano](https://open.spotify.com/album/3mdlYi31wx0txhBSKaSP6x) | 3:27 | 2024-01-09 |  |
 | [Solemn Resolve](https://open.spotify.com/track/1wDBNwgv9WWqJIdZ6bIv8Z) | [Simon Vouet](https://open.spotify.com/artist/4lj4RXgWmv0T5xx561yT1b) | [Solemn Resolve](https://open.spotify.com/album/2AC4nZdkODSXUiQAX8UbIM) | 2:18 | 2022-02-01 | 2025-05-31 |
 | [Solitude](https://open.spotify.com/track/1zFkdQz9JTr02jBEekVp8e) | [Barry Hudson\-Taylor](https://open.spotify.com/artist/3MuhX7tuEdOUvsOGg7ui02) | [Solitude](https://open.spotify.com/album/60GqHa76MYi3AKen22bzVe) | 3:22 | 2021-12-07 | 2023-10-05 |
+| [solitude](https://open.spotify.com/track/6I5VqsFIZMoDtW4Fi3V7tH) | [reinë](https://open.spotify.com/artist/4KMRoxw1UPjNsfY53yIfYR) | [solitude](https://open.spotify.com/album/5o9hDc5y1jfM2NH07QVoWl) | 2:31 | 2025-06-04 |  |
 | [Solkysst](https://open.spotify.com/track/0flcIAMaspYd4r5KIoZJ5L) | [Nordiska Piano](https://open.spotify.com/artist/5u56NAhIzusR5Q8dfFpdtq) | [Solkysst](https://open.spotify.com/album/0QLhrApLnQX972jZsz8n5n) | 2:20 | 2021-12-07 | 2025-02-19 |
 | [Something \(Nothing\)](https://open.spotify.com/track/5pgQi74y4bGoT3bYFKZagk) | [Christopher Dicker](https://open.spotify.com/artist/3WrvWolT9GYQzCudBunNu3) | [Ephemera](https://open.spotify.com/album/7r69JJ8k1o0wwjV16KczHZ) | 2:38 | 2021-12-07 | 2024-10-16 |
 | [Something Like Love](https://open.spotify.com/track/1SHZMSLi7z0lNlo6ljl0PC) | [James Keer](https://open.spotify.com/artist/2IJ2zbVdi2aR2DAM8boOE8) | [Something Like Love](https://open.spotify.com/album/5TF7WCLi2ysXIp8m88L2Nr) | 2:42 | 2021-12-07 | 2022-04-21 |

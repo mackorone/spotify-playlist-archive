@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Bostik. The essential tracks, all in one playlist.",
-  "num_followers": 6048,
+  "num_followers": 6054,
   "original_name": "This Is Banda Bostik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDzpgAAAAAB0dT0935fXrxhRPXZdeUrA",
+  "snapshot_id": "aD47AAAAAADzoRCDQSyXJ60egSTsrlMj",
   "tracks": [
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Capturados",
-        "url": "https://open.spotify.com/album/3yAAIY2FjKw8IkOVTEguWu"
-      },
-      "artists": [
-        {
-          "name": "Banda Bostik",
-          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
-        }
-      ],
-      "duration_ms": 191750,
-      "name": "Maribel",
-      "url": "https://open.spotify.com/track/24R36ZDhCWbXsucZwm4LBc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Genoma Humano",
         "url": "https://open.spotify.com/album/7vN4m21unn7Fy7splGXC62"
       },
@@ -804,9 +788,25 @@
           "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
         }
       ],
-      "duration_ms": 156548,
-      "name": "Blue Suede Shoes",
-      "url": "https://open.spotify.com/track/73jOGdULRXfR02W41tyP9u"
+      "duration_ms": 191750,
+      "name": "Maribel",
+      "url": "https://open.spotify.com/track/24R36ZDhCWbXsucZwm4LBc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Genoma Humano",
+        "url": "https://open.spotify.com/album/7vN4m21unn7Fy7splGXC62"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "duration_ms": 340560,
+      "name": "Ave Nocturna",
+      "url": "https://open.spotify.com/track/7ebnVkj8vrXaPD51rSw0ia"
     }
   ],
   "unique_name": "This Is Banda Bostik",

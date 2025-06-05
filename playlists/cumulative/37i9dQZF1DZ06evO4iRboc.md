@@ -42,6 +42,6 @@
 | [Valentine](https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:48 | 2025-03-04 |  |
 | [What Love Will Do to You](https://open.spotify.com/track/4TvZH3MgJ1ZNBPquN2xwjK) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:51 | 2025-03-04 |  |
 | [Where or When](https://open.spotify.com/track/4gJXJkd0zFFanZL2w0RsMB) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Where or When](https://open.spotify.com/album/70L7alOq247J9W6jGo3PqR) | 3:23 | 2025-03-04 |  |
-| [Ég Veit Þú Kemur \- Live at The Symphony](https://open.spotify.com/track/3X87xXj9SO8crggRjenwYZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Iceland Symphony Orchestra](https://open.spotify.com/artist/3RPu1pwXXrPqamAp6OHZ8b) | [A Night At The Symphony](https://open.spotify.com/album/0ONGXnqkOl98GYJy619wqn) | 3:36 | 2025-03-04 |  |
+| [Ég Veit Þú Kemur \- Live at The Symphony](https://open.spotify.com/track/3X87xXj9SO8crggRjenwYZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Iceland Symphony Orchestra](https://open.spotify.com/artist/3RPu1pwXXrPqamAp6OHZ8b) | [A Night At The Symphony](https://open.spotify.com/album/0ONGXnqkOl98GYJy619wqn) | 3:36 | 2025-03-04 | 2025-06-05 |
 
 \*This playlist was first scraped on 2025-03-04. Prior content cannot be recovered.

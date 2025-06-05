@@ -4,7 +4,7 @@
 
 > This is Banda Rafaga\. The essential tracks, all in one playlist.
 
-126 songs - 6 hr 58 min
+127 songs - 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [Como Me Dolió Tu Adiós](https://open.spotify.com/track/5OybPwUZOo6Gacxt331dEg) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Para Ellas](https://open.spotify.com/album/0qdsE73HbB4e6weGZqekHv) | 2:54 | 2025-04-15 |  |
 | [Como Me Dolió Tu Adiós](https://open.spotify.com/track/6ftWmU96nKeUc8yvNcCHig) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Para Ellas](https://open.spotify.com/album/0PtRxQa8bn2Twomg9uwL39) | 2:54 | 2022-06-01 | 2025-04-15 |
 | [Cuando los Frijoles Bailan](https://open.spotify.com/track/5Bw0TMUnKPQjgrylJehdFq) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Soy de Carne y Hueso](https://open.spotify.com/album/1Z0XIv35WxRIsrHFERZfBq) | 3:25 | 2022-06-26 | 2022-07-14 |
-| [Cuando los Frijoles Bailan](https://open.spotify.com/track/3smdOWr3WUsWUL7Lu8NgTY) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Soy de Carne Y Hueso](https://open.spotify.com/album/0odEw39wF4LrGZdSxf9urQ) | 3:25 | 2023-01-15 |  |
+| [Cuando los Frijoles Bailan](https://open.spotify.com/track/5Exwl1qLAY1HBVdbdwK5hF) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [No Pares De Bailar Con...](https://open.spotify.com/album/32GtSnkO0D1YziU8TMHU7K) | 3:25 | 2025-06-05 |  |
+| [Cuando los Frijoles Bailan](https://open.spotify.com/track/3smdOWr3WUsWUL7Lu8NgTY) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Soy de Carne Y Hueso](https://open.spotify.com/album/0odEw39wF4LrGZdSxf9urQ) | 3:25 | 2023-01-15 | 2025-06-05 |
 | [De Punta a Punta](https://open.spotify.com/track/5wzPYuHhdRdqMFerU4bGVS) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Llévame Contigo](https://open.spotify.com/album/4qMiExdPt18UlftnXrZitv) | 2:56 | 2022-08-30 | 2023-03-30 |
 | [De Que Me Sirve](https://open.spotify.com/track/20WWOcsooLMpsxCroHVAEP) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Y Todavía Hay Amor](https://open.spotify.com/album/4DnkB5NeZ51czGipXVAkWF) | 2:17 | 2022-06-01 | 2025-04-07 |
 | [De Que Me Sirve](https://open.spotify.com/track/2QmqGGck3wh0vfKRFUpdP0) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Y Todavía Hay Amor](https://open.spotify.com/album/2LuwmVfxHSTDH0ElkczrQl) | 2:17 | 2025-04-07 |  |

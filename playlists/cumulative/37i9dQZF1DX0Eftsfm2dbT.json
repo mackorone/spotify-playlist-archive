@@ -2571,6 +2571,24 @@
     },
     {
       "album": {
+        "name": "ATTM",
+        "url": "https://open.spotify.com/album/2eXkcDZknmelQnJBvjuV0O"
+      },
+      "artists": [
+        {
+          "name": "Whoopee Bomb",
+          "url": "https://open.spotify.com/artist/6RKtwqOBWohO7mOrmSA6g3"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199488,
+      "name": "ATTM",
+      "url": "https://open.spotify.com/track/1sDxuQ3G975pePaB0YYVsl"
+    },
+    {
+      "album": {
         "name": "AUTHENTIC",
         "url": "https://open.spotify.com/album/6t9aL62gaDkhmo4s4XglOx"
       },

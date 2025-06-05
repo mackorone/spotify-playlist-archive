@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain](/playlists/plain/2SJ4K6IpVlsaFEwUm9LcIJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2SJ4K6IpVlsaFEwUm9LcIJ)
 
-### [friends and strangers](https://open.spotify.com/playlist/2SJ4K6IpVlsaFEwUm9LcIJ)
+### [friends and lovers](https://open.spotify.com/playlist/2SJ4K6IpVlsaFEwUm9LcIJ)
 
 > what i&\#x27;m listening to: may\-june 2025 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,052 likes - 35 songs - 2 hr 6 min
+[margeaux](https://open.spotify.com/user/1220511975) - 23,057 likes - 35 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 34 | [Falling Down a Dam of Mashed Potatoes](https://open.spotify.com/track/5y69U1bw1dBixUL1nViDXr) | [Lawrence](https://open.spotify.com/artist/0P42vB5p3jd1P4ScFQg2YI) | [Childish Music](https://open.spotify.com/album/6LABtUVPmwMWuRoQ8vg1Gp) | 3:43 |
 | 35 | [Afterlife](https://open.spotify.com/track/0yYQbFuqvXyZc46e2QEqI7) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Afterlife](https://open.spotify.com/album/0DnQhNQf6xRTkN1nVC4l1i) | 3:30 |
 
-Snapshot ID: `AAAMhP3fvg6Lqy3FwfThh0x7p3e+ktbM`
+Snapshot ID: `AAAMhllXf5vnxuRrJ+DB0tu3PEgFWemT`

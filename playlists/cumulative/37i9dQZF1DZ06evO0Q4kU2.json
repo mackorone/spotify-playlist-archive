@@ -394,6 +394,24 @@
     {
       "album": {
         "name": "Piano Works",
+        "url": "https://open.spotify.com/album/2L6ycFm7EmNupQkxgmdwEq"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195154,
+      "name": "Filma Solo",
+      "url": "https://open.spotify.com/track/0Zhq33AjWPz0vwdQwrCnrm"
+    },
+    {
+      "album": {
+        "name": "Piano Works",
         "url": "https://open.spotify.com/album/1tASsj4SDpPR8UIHjKMjch"
       },
       "artists": [
@@ -404,7 +422,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 195154,
       "name": "Filma Solo",
       "url": "https://open.spotify.com/track/6MPpYctLr7JXWIAcD1feq8"

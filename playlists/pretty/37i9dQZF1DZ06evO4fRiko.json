@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Brown. The essential tracks, all in one playlist.",
-  "num_followers": 931819,
+  "num_followers": 932095,
   "original_name": "This Is Chris Brown",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDzpgAAAAADT9VwrAFjnE4rnFntwXrvH",
+  "snapshot_id": "aD47AAAAAACs7tA+zU+dm1gwfFq5CBZs",
   "tracks": [
     {
       "added_at": null,
@@ -759,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Exclusive (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6p5pW2WwgVECsOhrXPAyhI"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 223186,
+      "name": "Wall To Wall",
+      "url": "https://open.spotify.com/track/5Zu4UO0QlderRYNPFkbJeO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Some Days I\u2019m Good, Some Days I\u2019m Not",
         "url": "https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG"
       },
@@ -795,6 +811,26 @@
       "duration_ms": 217800,
       "name": "Show Me (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/4q6dqyGM25sKFU8nYAGRe4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "X (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3LByoNjO4gbuX5D0u26LDY"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Aaliyah",
+          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
+        }
+      ],
+      "duration_ms": 237986,
+      "name": "Don't Think They Know (feat. Aaliyah)",
+      "url": "https://open.spotify.com/track/3uVCPFmavlWGQUqeYh8HhR"
     },
     {
       "added_at": null,
@@ -839,26 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "X (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3LByoNjO4gbuX5D0u26LDY"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Aaliyah",
-          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
-        }
-      ],
-      "duration_ms": 237986,
-      "name": "Don't Think They Know (feat. Aaliyah)",
-      "url": "https://open.spotify.com/track/3uVCPFmavlWGQUqeYh8HhR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "F.A.M.E. (Expanded Edition)",
         "url": "https://open.spotify.com/album/6df0qvkMXoyHGt9J8cujZb"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 266306,
       "name": "Wet The Bed (feat. Ludacris)",
       "url": "https://open.spotify.com/track/2xRGPubKBTHX6iyrpQvtCy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Exclusive (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6p5pW2WwgVECsOhrXPAyhI"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 223186,
-      "name": "Wall To Wall",
-      "url": "https://open.spotify.com/track/5Zu4UO0QlderRYNPFkbJeO"
     },
     {
       "added_at": null,

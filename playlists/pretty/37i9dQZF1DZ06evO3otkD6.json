@@ -1,12 +1,12 @@
 {
   "description": "This is Belinda. The essential tracks, all in one playlist.",
-  "num_followers": 77890,
+  "num_followers": 77942,
   "original_name": "This Is Belinda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDzpgAAAAACCPSIg+K61e2u1ACzprUw3",
+  "snapshot_id": "aD47AAAAAACskX+nF7O5BFUoAFpbdV6+",
   "tracks": [
     {
       "added_at": null,
@@ -659,6 +659,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Me Minti\u00f3, Mentiras, Mentiras",
+        "url": "https://open.spotify.com/album/2bybT6eYlVyATbKkp7DF5Z"
+      },
+      "artists": [
+        {
+          "name": "Mentiras: La Serie",
+          "url": "https://open.spotify.com/artist/1Ju2DSDLHCKEfy6WfsOkzK"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Diana Bovio",
+          "url": "https://open.spotify.com/artist/62IAzVoIjzzHeBZ6Glodjp"
+        }
+      ],
+      "duration_ms": 147804,
+      "name": "El Me Minti\u00f3, Mentiras, Mentiras",
+      "url": "https://open.spotify.com/track/00Ff62DUnnKp5NICapdAVz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blink Twice (Dos Veces Remix)",
         "url": "https://open.spotify.com/album/29rcLP1Uni7elTtxuiXF1J"
       },
@@ -731,30 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Me Minti\u00f3, Mentiras, Mentiras",
-        "url": "https://open.spotify.com/album/2bybT6eYlVyATbKkp7DF5Z"
-      },
-      "artists": [
-        {
-          "name": "Mentiras: La Serie",
-          "url": "https://open.spotify.com/artist/1Ju2DSDLHCKEfy6WfsOkzK"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        },
-        {
-          "name": "Diana Bovio",
-          "url": "https://open.spotify.com/artist/62IAzVoIjzzHeBZ6Glodjp"
-        }
-      ],
-      "duration_ms": 147804,
-      "name": "El Me Minti\u00f3, Mentiras, Mentiras",
-      "url": "https://open.spotify.com/track/00Ff62DUnnKp5NICapdAVz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Belinda",
         "url": "https://open.spotify.com/album/572O2aMDzsHhr48257pOZM"
       },
@@ -767,22 +767,6 @@
       "duration_ms": 184000,
       "name": "Vivir - Any Better",
       "url": "https://open.spotify.com/track/4iygID6PWnRGNk9pqBpHE6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Catarsis",
-        "url": "https://open.spotify.com/album/7zOaF1rmHsRNkBd6QZd3Qg"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 239440,
-      "name": "En El Amor Hay Que Perdonar",
-      "url": "https://open.spotify.com/track/6UmXPaLkNGp0NvMaKeJ0oi"
     },
     {
       "added_at": null,
@@ -803,6 +787,22 @@
       "duration_ms": 184185,
       "name": "Un Traguito",
       "url": "https://open.spotify.com/track/5OSrMt5y9dExB2J5vMdTVk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Catarsis",
+        "url": "https://open.spotify.com/album/7zOaF1rmHsRNkBd6QZd3Qg"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 239440,
+      "name": "En El Amor Hay Que Perdonar",
+      "url": "https://open.spotify.com/track/6UmXPaLkNGp0NvMaKeJ0oi"
     },
     {
       "added_at": null,
@@ -1103,26 +1103,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Cheetah Girls 2",
-        "url": "https://open.spotify.com/album/10ATF34xwqoGlmm5vsgOSG"
-      },
-      "artists": [
-        {
-          "name": "Drew Seeley",
-          "url": "https://open.spotify.com/artist/1ryIDQiTzFFxHmmjijqghs"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 192146,
-      "name": "Dance With Me",
-      "url": "https://open.spotify.com/track/2sggS6A5pA0KWaleWsHzmL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ao Vivo No Rio",
         "url": "https://open.spotify.com/album/6ed1a9UMAj76mV1NIj1gJ6"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 250106,
       "name": "Meu Menino (Minha Menina) - Ao Vivo",
       "url": "https://open.spotify.com/track/2NLJfVCpdjTXVvs1fUXn0W"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Cheetah Girls 2",
+        "url": "https://open.spotify.com/album/10ATF34xwqoGlmm5vsgOSG"
+      },
+      "artists": [
+        {
+          "name": "Drew Seeley",
+          "url": "https://open.spotify.com/artist/1ryIDQiTzFFxHmmjijqghs"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 192146,
+      "name": "Dance With Me",
+      "url": "https://open.spotify.com/track/2sggS6A5pA0KWaleWsHzmL"
     },
     {
       "added_at": null,

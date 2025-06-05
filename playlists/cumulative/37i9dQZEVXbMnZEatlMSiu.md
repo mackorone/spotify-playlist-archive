@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Taiwan.
 
-1,265 songs - 3 day 2 hr 26 min
+1,267 songs - 3 day 2 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,7 +302,7 @@
 | [Hard to Love](https://open.spotify.com/track/3MJhPqL2IgGs7gHEB2M35q) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 2:42 | 2022-09-17 | 2023-04-03 |
 | [Hate You](https://open.spotify.com/track/5ONOlTiqymhzwcFjqcIT6E) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 2:34 | 2023-11-04 | 2023-11-09 |
 | [Have A Nice Day](https://open.spotify.com/track/0dS8gBiRyiohkB2Z45rA0V) | [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [Have A Nice Day](https://open.spotify.com/album/0JN2lwS7ZIwFWBgPSs23gF) | 4:23 | 2021-06-25 | 2022-03-16 |
-| [HBD](https://open.spotify.com/track/0PvRQaGO5lkS7uqdsOHdvI) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 5th Album 'HAPPY BURSTDAY'](https://open.spotify.com/album/0xlyof8BowaJtYPsxWYmkN) | 2:35 | 2025-05-27 |  |
+| [HBD](https://open.spotify.com/track/0PvRQaGO5lkS7uqdsOHdvI) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 5th Album 'HAPPY BURSTDAY'](https://open.spotify.com/album/0xlyof8BowaJtYPsxWYmkN) | 2:35 | 2025-05-27 | 2025-06-05 |
 | [Headliner](https://open.spotify.com/track/6Es0Sxn1yE7L0T1YxrYHKX) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 11th Mini Album 'SEVENTEENTH HEAVEN'](https://open.spotify.com/album/1rE0Gy69MFUh4GuXafWd0f) | 3:09 | 2023-10-25 | 2023-10-27 |
 | [HEALTHY MIND](https://open.spotify.com/track/45KiqsIQx2j966sJMZNpWm) | [NICKTHEREAL](https://open.spotify.com/artist/1fHw35wWkpOw05sswFSl70) | [HEALTHY MIND](https://open.spotify.com/album/7rF3aB66LyTbANkEKA2bfO) | 2:53 | 2021-09-09 | 2021-09-25 |
 | [Heart on the Window \(with WENDY\)](https://open.spotify.com/track/0gzXQHsv4zYHQ1pvlyYZZa) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV), [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Happy \- :D \(Remixes\)](https://open.spotify.com/album/6MNt88F7umrtkwUPcOgG69) | 2:57 | 2024-11-20 | 2024-12-01 |
@@ -440,7 +440,7 @@
 | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/album/3awd1TKrdd3emCecvza61j) | 3:00 | 2025-02-01 | 2025-03-09 |
 | [Love Language](https://open.spotify.com/track/3wBeIjb0vtiTwIQPce2stZ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Love Language](https://open.spotify.com/album/5BeSpFkdJkSc9phzT3bJSs) | 2:57 | 2025-05-03 | 2025-05-15 |
 | [Love Lee](https://open.spotify.com/track/1qosh64U6CR5ki1g1Rf2dZ) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [Love Lee](https://open.spotify.com/album/47xcjDSi1t6pQE2RvXKdUF) | 2:59 | 2023-10-29 | 2023-11-05 |
-| [Love Me Again](https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 3:02 | 2023-08-12 | 2025-06-04 |
+| [Love Me Again](https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 3:02 | 2023-08-12 |  |
 | [Love Me Like That](https://open.spotify.com/track/1lhm29o3syw122xynSKaAK) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Nevertheless, \(Original Television Soundtrack, Pt\. 6\)](https://open.spotify.com/album/4MLxdCgljBck6ddj3BKFTi) | 3:31 | 2021-08-07 | 2021-10-17 |
 | [Love Song](https://open.spotify.com/track/2XEtdVgbgltXfzVQppAkbi) | [Khalil Fong](https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd) | [未來](https://open.spotify.com/album/4y11FrvacuhutkuV9T1mlq) | 4:29 | 2025-03-02 | 2025-03-19 |
 | [Love U Like That](https://open.spotify.com/track/3rmqiQbzPDx7A8p88IRFKg) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Love U Like That](https://open.spotify.com/album/4L1fTiCm419aQYUbfRJ3mA) | 3:31 | 2023-09-01 | 2023-10-09 |
@@ -832,7 +832,7 @@
 | [不愛自己了](https://open.spotify.com/track/1kX9OkIAcrYldGseNeSkXo) | [Marz23](https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9) | [不遠處](https://open.spotify.com/album/3OfDmuDl9aMma0I8JxtYeA) | 4:16 | 2023-04-29 | 2023-05-03 |
 | [不愛自己了](https://open.spotify.com/track/6iapOcmDAFnNQ3Bz0U6s3Y) | [Marz23](https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9) | [不愛自己了](https://open.spotify.com/album/6XNIzjnjbV9DbsaHG7xZGb) | 4:18 | 2023-04-11 | 2023-04-30 |
 | [不搖滾](https://open.spotify.com/track/1ZgxIcqFpdHYIF7pjHe1Yc) | [831](https://open.spotify.com/artist/3TtgOeQcNkf9WVDA4xPBJM), [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [\[ 人生就是用來XX的 \] 2021 線上生日趴 \(Live Session\)](https://open.spotify.com/album/2wsteom79gJHf9C6EAZ7df) | 4:51 | 2021-10-02 | 2021-10-07 |
-| [不是因為天氣晴朗才愛你](https://open.spotify.com/track/2VEt42QSQxILgEf9B50xxm) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [不是因為天氣晴朗才愛你](https://open.spotify.com/album/6JuW0a9a9irzx0QkYC9eLI) | 4:00 | 2021-06-08 |  |
+| [不是因為天氣晴朗才愛你](https://open.spotify.com/track/2VEt42QSQxILgEf9B50xxm) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [不是因為天氣晴朗才愛你](https://open.spotify.com/album/6JuW0a9a9irzx0QkYC9eLI) | 4:00 | 2021-06-08 | 2025-06-05 |
 | [不期而遇的夏天 \- 電影《不期而遇的夏天》主題曲](https://open.spotify.com/track/5QRgqxZ4XQadnaOBjt2dN1) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [不期而遇的夏天 \(電影《不期而遇的夏天》主題曲\)](https://open.spotify.com/album/2nLHmTomlBgsZP7OWxpEjC) | 3:30 | 2021-09-25 | 2021-09-26 |
 | [不為誰而作的歌](https://open.spotify.com/track/0VqSdtXseb9khdZrnYVyM1) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | ["和自己對話" 實驗專輯](https://open.spotify.com/album/2BllRBDJwm9kthtOoYTzNK) | 4:25 | 2024-06-03 | 2025-05-14 |
 | [不能說的秘密](https://open.spotify.com/track/77jIEebt4z9WzaI6LsntDG) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [不能說的秘密電影原聲帶](https://open.spotify.com/album/7eoWv4CgghZ0gvWjjdye98) | 4:56 | 2024-12-08 | 2024-12-13 |
@@ -933,6 +933,7 @@
 | [失物招領\(電影《以年為單位的戀愛》情感主題曲\)](https://open.spotify.com/track/6arzoxKHtpm9UAgbw5jfO6) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [失物招領\(電影《以年為單位的戀愛》情感主題曲\)](https://open.spotify.com/album/3RVkgn1DUFegm00z0qgseU) | 4:06 | 2022-01-19 | 2022-02-09 |
 | [失重前幸福](https://open.spotify.com/track/3SJgTyb8a7z66suw0kBZ0T) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [I](https://open.spotify.com/album/26yqvFjCkJ4W69WDtnnz6f) | 3:40 | 2021-06-04 | 2022-12-01 |
 | [失重前幸褔](https://open.spotify.com/track/0NHsxQj4j6gPz8PdRc5KKh) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [失重前幸褔](https://open.spotify.com/album/462ekXKIYZgxtRXMmRcioa) | 3:42 | 2021-03-27\* | 2021-04-15 |
+| [奉劝](https://open.spotify.com/track/7aRmOzf96wEFudbh02cRPe) | [en](https://open.spotify.com/artist/7z7tLLiBfmH0kZ2lNVs8LW) | [奉劝](https://open.spotify.com/album/4yFe0E7JTDIGLHDwuF9hxq) | 4:14 | 2025-06-04 |  |
 | [她沒在看我](https://open.spotify.com/track/5QbK5PrR9wbog3M5vVAn2n) | [瘦子E.SO](https://open.spotify.com/artist/2qXGNIlmY3JrYkxOWyXZsd) | [Outta Body靈魂出竅](https://open.spotify.com/album/5qiMTeDKaY3cfqZeBG0xUY) | 2:58 | 2021-03-27\* | 2021-10-27 |
 | [好不容易 \(《華燈初上》片尾曲\)](https://open.spotify.com/track/6jNy9WM3zyvG9E5bdVALl8) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [好不容易](https://open.spotify.com/album/5mahTh3xdvMSH7N01fAEFg) | 4:55 | 2021-12-15 | 2023-08-24 |
 | [好心情](https://open.spotify.com/track/6EgON1H8N1DtJQSPYD2nVA) | [CoCo Lee](https://open.spotify.com/artist/3ioHf138TiMxYRCWmC8yJX) | [Sunny Day 好心情](https://open.spotify.com/album/1l27426A8E0QFaZu670vNo) | 4:54 | 2023-07-07 | 2023-07-09 |
@@ -1050,7 +1051,7 @@
 | [才二十三](https://open.spotify.com/track/6n3qQHQbECGcP0n6vlw2kF) | [Khalil Fong](https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd) | [才二十三](https://open.spotify.com/album/6uPqB8zj9kTr3McW4TiVrh) | 3:44 | 2024-08-24 | 2024-08-26 |
 | [披星戴月的想你](https://open.spotify.com/track/7tgzj2IqzSgUpxUhjmcF5m) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [我肯定在幾百年前就說過愛你](https://open.spotify.com/album/7yvCk24AtE9k0vLcolSs2i) | 5:49 | 2021-03-27\* | 2024-04-21 |
 | [抱一抱一下](https://open.spotify.com/track/6SGR2LQdKn1mqbwVNR8kz7) | [831](https://open.spotify.com/artist/3TtgOeQcNkf9WVDA4xPBJM), [柯佳嬿](https://open.spotify.com/artist/0L61ClriEEw74NE3HCTkAS) | [抱一抱一下](https://open.spotify.com/album/0f4nwlvnd30tiDBXPj7r3U) | 3:31 | 2021-11-25 | 2021-12-10 |
-| [接住你](https://open.spotify.com/track/4cCpt3dT86O3F7OgkK5n8o) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [接住你](https://open.spotify.com/album/6QQAuZsNxOMqwntwfrtb4c) | 5:09 | 2025-05-24 |  |
+| [接住你](https://open.spotify.com/track/4cCpt3dT86O3F7OgkK5n8o) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [接住你](https://open.spotify.com/album/6QQAuZsNxOMqwntwfrtb4c) | 5:09 | 2025-05-24 | 2025-06-05 |
 | [摩登愛情 \(feat\. Julia Wu\)](https://open.spotify.com/track/7unyqNvWBxK0LHQ0sqrEar) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [摩登愛情 \(feat\. Julia Wu\)](https://open.spotify.com/album/1iyFNSnMgc0y4tzSvuD6EM) | 3:15 | 2022-01-13 | 2022-01-19 |
 | [摯友](https://open.spotify.com/track/1bQHKplf5fkkecalhAgYp0) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [LINK](https://open.spotify.com/album/1nf7xBTx71de6f2EQtusMz) | 5:18 | 2022-05-13 | 2024-01-13 |
 | [摯友](https://open.spotify.com/track/5evE7bweEhX83fd1ZmwPjP) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [摯友](https://open.spotify.com/album/5XhdyuaZcuvgWVR135euye) | 5:13 | 2023-05-20 | 2024-11-20 |
@@ -1139,6 +1140,7 @@
 | [皆可](https://open.spotify.com/track/5tU8tlGuxmCjNdl5eP9oGR) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [無人知曉](https://open.spotify.com/album/6bCnbjqqRgcPCpJwcnoLju) | 4:30 | 2021-08-24 | 2021-08-25 |
 | [盡情旋轉](https://open.spotify.com/track/3X52jcMIDlgzN1jqqLRxuM) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [盡情旋轉](https://open.spotify.com/album/4qk6nDEJ6cauHb54YjRmnX) | 4:13 | 2021-12-02 | 2021-12-16 |
 | [相愛就是說了100次對不起](https://open.spotify.com/track/0XycphC58RpvIxvHfCN3hX) | [Crispy脆樂團](https://open.spotify.com/artist/5AO5nzx14PfLNfVgYVd0rw) | [愛是我們必經的辛苦](https://open.spotify.com/album/393Q9l2o8kkGFhtD4kYkav) | 4:24 | 2022-10-12 | 2022-10-20 |
+| [看着我的眼睛说](https://open.spotify.com/track/5cOXSOo4olhVLVSpQBvQaP) | [张远](https://open.spotify.com/artist/4Q6r8rqOodVCDkbAYm7F18) | [看着我的眼睛说](https://open.spotify.com/album/1QNyyhTWQ72AGuv88AJqOj) | 4:20 | 2025-06-04 |  |
 | [看着我的眼睛说 \- Live](https://open.spotify.com/track/1cgz7ebMOUWlhrLX8aGp5A) | [姚晓棠](https://open.spotify.com/artist/011UpPnnyUWchmKVyFFByL), [张远](https://open.spotify.com/artist/4Q6r8rqOodVCDkbAYm7F18) | [天赐的声音第六季 第7期 \(Live）](https://open.spotify.com/album/7yLaKkL28aVE72dRjkt4Nv) | 4:40 | 2025-06-03 |  |
 | [真心話](https://open.spotify.com/track/06Hci8wC8NSf2r5OHqhivw) | [李浩瑋 Howard Lee](https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs) | [Fly Machine](https://open.spotify.com/album/73uMsPJLL8PQlQVx9CmeDV) | 4:03 | 2024-01-08 | 2024-02-08 |
 | [真的傻 \(電影《一吻定情》追愛版主題曲\)](https://open.spotify.com/track/7mCr6Rn5jx04Fisvts97Z3) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [真的傻 \(電影《一吻定情》追愛版主題曲\)](https://open.spotify.com/album/1kwz2DPjIizXiCnWz6ru2s) | 4:16 | 2021-03-27\* | 2021-10-23 |

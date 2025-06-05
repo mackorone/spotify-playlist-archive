@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZheHO7xislj.md) - [plain](/playlists/plain/37i9dQZF1DWZheHO7xislj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZheHO7xislj)
 
-### [Romantic Dinner](https://open.spotify.com/playlist/37i9dQZF1DWZheHO7xislj)
+### [Soul Dinner](https://open.spotify.com/playlist/37i9dQZF1DWZheHO7xislj)
 
-> Selection of soul music for the perfect romantic dinner.
+> Selection of soul music for the perfect dinner.
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,112 likes - 200 songs - 13 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,105 likes - 200 songs - 13 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZheHO7xislj.md) - [plain]
 | 199 | [Until You Came Into My Life](https://open.spotify.com/track/0dVeBXkfWALnOSs6N3lrxm) | [Ann Peebles](https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB) | [Big Little Lies \(Music from Season 2 of the HBO Limited Series\)](https://open.spotify.com/album/5bVh1bvKmcaBUjQwcapIEN) | 3:12 |
 | 200 | [Do I Move You?](https://open.spotify.com/track/0F4uVFLLDzkpJppPZT1bZt) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [The Very Best Of](https://open.spotify.com/album/3WVB8a1INWqY6TUieQzn9t) | 2:44 |
 
-Snapshot ID: `aCshoAAAAADJ2K2Rte82Vihb8u29xmlr`
+Snapshot ID: `aECjiwAAAACBFiSF+IBNCIc/KOi1wmGB`

@@ -1,12 +1,12 @@
 {
   "description": "This is Offset. The essential tracks, all in one playlist.",
-  "num_followers": 117293,
+  "num_followers": 117297,
   "original_name": "This Is Offset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDzpgAAAAAA9VusxCzbJU9zJx67Lxz+2",
+  "snapshot_id": "aD47AAAAAADuk6dqtICf1dY6s2i2oXgP",
   "tracks": [
     {
       "added_at": null,
@@ -402,11 +402,15 @@
         {
           "name": "Offset",
           "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
         }
       ],
-      "duration_ms": 96013,
-      "name": "ON THE RIVER",
-      "url": "https://open.spotify.com/track/1aLpfH1M7Y4ZngOmSiHk0l"
+      "duration_ms": 188333,
+      "name": "WORTH IT (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/7kp6XhIxrvNb8BgTwLjaEx"
     },
     {
       "added_at": null,
@@ -502,15 +506,11 @@
         {
           "name": "Offset",
           "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
         }
       ],
-      "duration_ms": 188333,
-      "name": "WORTH IT (feat. Don Toliver)",
-      "url": "https://open.spotify.com/track/7kp6XhIxrvNb8BgTwLjaEx"
+      "duration_ms": 96013,
+      "name": "ON THE RIVER",
+      "url": "https://open.spotify.com/track/1aLpfH1M7Y4ZngOmSiHk0l"
     },
     {
       "added_at": null,
@@ -1095,26 +1095,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quality Control: Control The Streets Volume 1",
-        "url": "https://open.spotify.com/album/07Jvk8tGuaMhR4H72znlLJ"
+        "name": "Plug Talk",
+        "url": "https://open.spotify.com/album/77QaRhETtj1oS39f6bbfOa"
       },
       "artists": [
         {
-          "name": "Quality Control",
-          "url": "https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S"
+          "name": "The Plug",
+          "url": "https://open.spotify.com/artist/5r3fI2q1YU3QyVP7oncOQ9"
+        },
+        {
+          "name": "D-Block Europe",
+          "url": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
         },
         {
           "name": "Offset",
           "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
-      "duration_ms": 207389,
-      "name": "Hook Up",
-      "url": "https://open.spotify.com/track/0gUGjvCXLxvLoBLXJVrUSl"
+      "duration_ms": 245333,
+      "name": "Rich (feat. D Block Europe & Offset)",
+      "url": "https://open.spotify.com/track/0YTXcXihG2qpxb3U3LbPfc"
     }
   ],
   "unique_name": "This Is Offset",

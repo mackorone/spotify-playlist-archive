@@ -4,7 +4,7 @@
 
 > Il concerto di Joan Thiele al MI AMI è stato bellissimo, e quindi l'abbiamo messo su Indie Italia 🌻 \(foto di kimberley ross\)
 
-309 songs - 16 hr 21 min
+310 songs - 16 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [Hiroshima \(feat\. piazzabologna\)](https://open.spotify.com/track/4YlYUNwfcrjro882XpvEJ9) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe), [piazzabologna](https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp) | [DISCO DEFAULT](https://open.spotify.com/album/0fzEQdXr2Z9r5VvnskQUkz) | 2:55 | 2024-06-27 | 2024-07-19 |
 | [HO SBAGLIATO ANCORA](https://open.spotify.com/track/33LYvdSbeXaVc5PEIsjR6Z) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h) | [HO SBAGLIATO ANCORA](https://open.spotify.com/album/05KkTlwyI1nwyfIkp5BEqA) | 3:10 | 2024-10-31 | 2025-05-20 |
 | [Il contrario](https://open.spotify.com/track/2E8ai3RmWiD32U1PsraeUh) | [Anna Carol](https://open.spotify.com/artist/6BJWROUyan9xhxGKBcrT1I) | [Il contrario](https://open.spotify.com/album/2MD2qbFC4zYdr1ZuGtuswq) | 2:54 | 2025-01-09 | 2025-03-21 |
-| [Il lungoriva di Genova](https://open.spotify.com/track/6QZsLOzlZfGqpGqXKOw2Bb) | [Gaia Banfi](https://open.spotify.com/artist/60hS0Wt0Px2B3rr9Zzur8E) | [La Maccaia](https://open.spotify.com/album/4atG7yAO3KzgNissARQQM4) | 3:29 | 2025-04-24 |  |
+| [Il lungoriva di Genova](https://open.spotify.com/track/6QZsLOzlZfGqpGqXKOw2Bb) | [Gaia Banfi](https://open.spotify.com/artist/60hS0Wt0Px2B3rr9Zzur8E) | [La Maccaia](https://open.spotify.com/album/4atG7yAO3KzgNissARQQM4) | 3:29 | 2025-04-24 | 2025-06-05 |
 | [Il mio risveglio](https://open.spotify.com/track/3PgPdRH5lf65fRNeUXptju) | [Lamante](https://open.spotify.com/artist/2xeeRKVa5SjYer8xeOMHgd) | [In Memoria Di](https://open.spotify.com/album/1lwUJdcej4UlbTFVyyShUF) | 2:41 | 2024-12-12 | 2025-01-10 |
 | [Il morso di Tyson](https://open.spotify.com/track/2UTQn14EQXOmzuTGerjSZ5) | [Brunori Sas](https://open.spotify.com/artist/2p2SZoUTvT4dbL2xXXJXwy) | [Il morso di Tyson](https://open.spotify.com/album/4SxlTcymVxxvlAXBWZQIzJ) | 4:00 | 2024-11-20 | 2025-05-20 |
 | [IL PRIMO TAKE](https://open.spotify.com/track/3RNmrzkZ1AMGvjHIlvF57x) | [Carl Brave](https://open.spotify.com/artist/29nrwultxQ8jENVmXoyMqK) | [NOTTI BRAVE AMARCORD](https://open.spotify.com/album/2eA4hR2JvFIH64t62rmB1J) | 3:42 | 2025-04-24 |  |
@@ -165,6 +165,7 @@
 | [Los Angeles](https://open.spotify.com/track/1FAM18Z4mFvKwYxketR1OT) | [Lucrezia](https://open.spotify.com/artist/2aJKv3evpIuadnARe0UPbl) | [Los Angeles](https://open.spotify.com/album/7GysRxTAg4WPtrOwzbGPJe) | 3:25 | 2024-08-01 | 2024-09-20 |
 | [Luce](https://open.spotify.com/track/0mZBQzifh9ST6r6dh4bf6k) | [SELMI](https://open.spotify.com/artist/52ckPP690n7mGS4jQIDbys) | [Luce](https://open.spotify.com/album/34AXcqy0NG1YIKCakYx732) | 2:44 | 2025-05-15 |  |
 | [Lucifero \(feat\. Mecna\)](https://open.spotify.com/track/2fH7Bv4NyaRoKQLB09qvGg) | [Lunedì Notte](https://open.spotify.com/artist/6h4IzimRxLUfq88yFpDEhM), [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [Lunedì Notte \(EP\)](https://open.spotify.com/album/05bfFYyavH3l2smbxIyTnx) | 3:27 | 2024-10-10 | 2024-12-06 |
+| [LUNA ROSSA](https://open.spotify.com/track/5DS6xSSSdwbHvA8YLZ5IEr) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [LUNA ROSSA](https://open.spotify.com/album/3uXtqoexXZ6H8jK1DUKZf2) | 2:40 | 2025-06-04 |  |
 | [L’URLO](https://open.spotify.com/track/69WECrwaM5riHmVhOkWreo) | [CIMINI](https://open.spotify.com/artist/5vfXc5u6I4DVgjBHJ7XWLf) | [L’URLO](https://open.spotify.com/album/1kKm2vGDm5OCU6s581DHRA) | 2:20 | 2024-10-10 | 2024-10-18 |
 | [M'annegasti](https://open.spotify.com/track/7LEUTklCDHl0AWkgRsd3gS) | [Dente](https://open.spotify.com/artist/7uGQOfydy4DpqrM8XhyIdt) | [M'annegasti](https://open.spotify.com/album/1Qdb4Rvn66Eookw953zCeT) | 2:35 | 2025-03-11 | 2025-04-04 |
 | [Mal di te](https://open.spotify.com/track/4OkzRJ7eaAtIeaRZEqDLaz) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Mal di te](https://open.spotify.com/album/6xHBZ21IhmGakzi2Vd1OtA) | 2:59 | 2025-01-16 |  |
@@ -217,7 +218,7 @@
 | [Per me è ok \(feat\. Angelica\)](https://open.spotify.com/track/3t1xFmZjn2a2klm4G9H5k7) | [CanovA](https://open.spotify.com/artist/6Htt1E5lJ37HjcEPsTdYPA), [Angelica](https://open.spotify.com/artist/3aFnXkfp5Z2Ac9DLorgJ4S) | [Per me è ok \(feat\. Angelica\)](https://open.spotify.com/album/2j55jiGOigGx65ikcY1tX2) | 2:49 | 2024-10-24 | 2024-11-15 |
 | [Per Non Sentire La Fine Del Mondo](https://open.spotify.com/track/6s67ZfGsYCd0rsAKtLXCiC) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Hello World](https://open.spotify.com/album/6O4eR8oKckFf9eDfFS9kkc) | 3:00 | 2024-12-05 | 2024-12-20 |
 | [Perché Mi Sono Innamorato Di Te](https://open.spotify.com/track/54MXoyw8OtbaHWSkC5mwI2) | [TROPICO](https://open.spotify.com/artist/11wRTRhOoRE8kcDgtAmuJW) | [Perché Mi Sono Innamorato Di Te](https://open.spotify.com/album/4aky7YfNOnCE7tlwwmVLmd) | 3:56 | 2025-04-10 | 2025-05-16 |
-| [Perché?](https://open.spotify.com/track/5mQgkvtfhFCfmCaBf7q0t4) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [Perché?](https://open.spotify.com/album/4Hmy4uGcFPhvlwyvXXvLGf) | 3:39 | 2024-11-14 |  |
+| [Perché?](https://open.spotify.com/track/5mQgkvtfhFCfmCaBf7q0t4) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [Perché?](https://open.spotify.com/album/4Hmy4uGcFPhvlwyvXXvLGf) | 3:39 | 2024-11-14 | 2025-06-05 |
 | [Periferia](https://open.spotify.com/track/1EcVrX4oy3Z9mUjsvhsIEh) | [ceneri](https://open.spotify.com/artist/1RpjdVVigmI1T1UW8gxXJz) | [Periferia](https://open.spotify.com/album/5imPI6T7UGse84jzoy1Zcy) | 3:05 | 2024-06-27 | 2024-09-27 |
 | [Petrolio](https://open.spotify.com/track/5FWe1oExQtR9v9FvhqXWr8) | [Jacopo Èt](https://open.spotify.com/artist/1ubMZaQDpIlttCHLbIBUqy) | [Sammy, Cabiria, etc\. etc.](https://open.spotify.com/album/65Wv5uZO75nHQM7dMAadZW) | 3:06 | 2025-04-03 | 2025-04-18 |
 | [Petrolio](https://open.spotify.com/track/2QH9o0EPJGUElDByARkXuy) | [M.E.R.L.O.T](https://open.spotify.com/artist/061DeTQNd4aDwb6VqHq8O1) | [Petrolio](https://open.spotify.com/album/1K36hYryitp9VKOpoCUspA) | 3:03 | 2025-04-17 | 2025-05-09 |

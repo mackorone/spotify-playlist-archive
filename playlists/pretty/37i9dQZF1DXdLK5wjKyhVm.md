@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLK5wjKyhVm.md) - [plain]
 
 > Blissed out beats and head nodding grooves \- Relax, study and vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,957 likes - 230 songs - 8 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,030 likes - 230 songs - 8 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,7 +126,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLK5wjKyhVm.md) - [plain]
 | 116 | [Atlantic Ocean](https://open.spotify.com/track/79ueipIReBsOjdT1nusFnC) | [Loomington](https://open.spotify.com/artist/3ROJ8HN1XE4TIV86RgP4OA) | [Atlantic Ocean](https://open.spotify.com/album/6JcBrBWZTSLr6xVb7Pb7Hw) | 2:00 |
 | 117 | [Coast Line](https://open.spotify.com/track/1TaHc8PNPFGy0skXd7xVwO) | [Kristoffer Eikrem](https://open.spotify.com/artist/2TxDDfPwhWPoKJKhEcnv3h) | [Coast Line](https://open.spotify.com/album/3jlDw3y33691pr2DnZjSUo) | 2:45 |
 | 118 | [The City](https://open.spotify.com/track/4lZQn9ZVkTbzehDoj3SQin) | [Audio Phill](https://open.spotify.com/artist/3X8s6pf8NBV2nl9Gvcbptb) | [The City](https://open.spotify.com/album/4mEfZGlxMcC0EioQfzvnyx) | 2:02 |
-| 119 | [Small Tree](https://open.spotify.com/track/5wY9QAud2eaaFYAbH4Wbpf) | [Juliette](https://open.spotify.com/artist/2A9ozO2R5liuK6dMrhJwnQ) | [Small Tree](https://open.spotify.com/album/3cCL0cd0s7JVQCr9TmSZW2) | 2:59 |
+| 119 | [Small Tree](https://open.spotify.com/track/5wY9QAud2eaaFYAbH4Wbpf) | [Juliette](https://open.spotify.com/artist/0iAtf1P8o5GEjcoflDhVcp) | [Small Tree](https://open.spotify.com/album/3cCL0cd0s7JVQCr9TmSZW2) | 2:59 |
 | 120 | [The Tallest Mountain](https://open.spotify.com/track/14rZzlYzQ5emCMpb5FLeR5) | [Cyber Bloom](https://open.spotify.com/artist/3zeayfTUAD4ekNKbjFmRA7) | [The Tallest Mountain](https://open.spotify.com/album/38OaG5sdb67iy5IFNPpcwy) | 2:16 |
 | 121 | [cicada](https://open.spotify.com/track/2oUg0uJXtNDownLGl6ElWk) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [cicada](https://open.spotify.com/album/4OJbgFW3kP1feBf35xOK2I) | 2:07 |
 | 122 | [When I Get A Lil' Older](https://open.spotify.com/track/18vC8S9aI8kUMW49pJHdZR) | [Sid Southside](https://open.spotify.com/artist/4TiVNrltbnF40ju8ZrCgmG) | [I Recognize](https://open.spotify.com/album/0m84fp41o0EaSIf9SInbIo) | 2:31 |
@@ -239,4 +239,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLK5wjKyhVm.md) - [plain]
 | 229 | [Tea Leaves](https://open.spotify.com/track/7LINIBYL3Nqc4tK7mmmWsx) | [littlehouse](https://open.spotify.com/artist/2FNVpme1c5oaaSp8ubShra), [Devon Rea](https://open.spotify.com/artist/5r4pQdeOkSMx1y2NNMDSlu) | [Tea Leaves](https://open.spotify.com/album/6kWCwBJw2tWfoVWP5gGJAv) | 2:06 |
 | 230 | [Only Memories](https://open.spotify.com/track/087DXuWYOFFXpslcEpD3mY) | [SanelliX](https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu) | [Only Memories](https://open.spotify.com/album/6J9Coi8rv4rv7l27AoiSIv) | 2:14 |
 
-Snapshot ID: `aAigGQAAAAAE0nOpJciZTZifHYHQQzkF`
+Snapshot ID: `aAigGQAAAAA98+cuctgjgbePt6TMdJPu`

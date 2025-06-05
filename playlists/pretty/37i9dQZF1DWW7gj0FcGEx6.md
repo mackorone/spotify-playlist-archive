@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 
 > The latest, greatest cinema soundtracks from the big and small screen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,339 likes - 195 songs - 8 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,367 likes - 195 songs - 8 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -204,4 +204,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 194 | [Down To Gamble](https://open.spotify.com/track/6HOiOpLDvsG9V1iOYaJVzY) | [A\. Patrick Rose](https://open.spotify.com/artist/7IeuRiygQDV9e8b1FoDYkW) | [Seal Team: Season 7 \(Original Series Soundtrack\)](https://open.spotify.com/album/2saqLx6LukC7StYrfXaR3e) | 2:41 |
 | 195 | [Philanthropy](https://open.spotify.com/track/73wgieG76nuZYWrBTU4axw) | [Dan Deacon](https://open.spotify.com/artist/5Z3IWpvwOvoaWodujHw7xh) | [What's Next? The Future with Bill Gates \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/72UZZ0NF7pDiCHy02Cd3fp) | 1:32 |
 
-Snapshot ID: `aDljCgAAAABoKueSCRJbJ1tkVFbO5MP8`
+Snapshot ID: `aDljCgAAAABScnOSZ1esw87zQrWXtbPY`

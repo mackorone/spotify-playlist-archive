@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: Aminé
 
-[Spotify](https://open.spotify.com/user/spotify) - 965,113 likes - 100 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 965,088 likes - 100 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 23 | [XXXL Tee](https://open.spotify.com/track/2R4zCGSZCB9c3BK8B4Ohjg) | [Ray Vaughn](https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg) | [The Good The Bad The Dollar Menu](https://open.spotify.com/album/3Uh6x05rLt3AIQJMzA50vw) | 3:17 |
 | 24 | [13MOS](https://open.spotify.com/track/0Z3HNhCwr080usObQtSw1q) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [13 Months of Sunshine](https://open.spotify.com/album/5B4zpYhcIOJXQO7YWBh0LE) | 4:21 |
 | 25 | [Attached](https://open.spotify.com/track/5rqKu6vhb4YX5dpNBa6viG) | [Azizi Gibson](https://open.spotify.com/artist/2NjfafEappzvGGGDdMRJMP), [Kamandi](https://open.spotify.com/artist/4pSowxoZVdsKUyTkhU9ebC) | [Attached](https://open.spotify.com/album/5RJaPLD9i62mUjAUO43SaE) | 4:00 |
-| 26 | [METATRON](https://open.spotify.com/track/0kaDuqfiEeUGa9SYKHEEmI) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [METATRON](https://open.spotify.com/album/55L4dwxaTZIwY0bRk4nFzn) | 2:43 |
+| 26 | [METATRON \- feat\. Lola Moxom](https://open.spotify.com/track/0kaDuqfiEeUGa9SYKHEEmI) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ), [Lola Moxom](https://open.spotify.com/artist/108GZkpexhWFatGlQTbb1g) | [METATRON \(feat\. Lola Moxom\)](https://open.spotify.com/album/55L4dwxaTZIwY0bRk4nFzn) | 2:43 |
 | 27 | [Again](https://open.spotify.com/track/3YZF7oBXjZ0BQX4LwFq3ih) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [Again](https://open.spotify.com/album/5DTfFUKdmyA52M8JuqM55D) | 2:47 |
 | 28 | [Lock In](https://open.spotify.com/track/0rxtYFP3ki4nP44Vdi6lH0) | [Bruiser Wolf](https://open.spotify.com/artist/2WWAtobfGkojaSqMRN5V67), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg) | [Lock In](https://open.spotify.com/album/50vTrNCMOzrYVnt3Ua2ZPw) | 1:49 |
 | 29 | [Weight On Me](https://open.spotify.com/track/2UyKJ6rfSlAOHNd6J4h1F1) | [Peter $un](https://open.spotify.com/artist/7cLB1w50gSrBCzcD68UMuG), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Weight On Me](https://open.spotify.com/album/70aGDFO0P0wjy3LyfkEnsz) | 3:50 |

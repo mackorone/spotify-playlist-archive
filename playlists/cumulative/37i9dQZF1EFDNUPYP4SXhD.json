@@ -749,6 +749,24 @@
     },
     {
       "album": {
+        "name": "Bajo El Sol",
+        "url": "https://open.spotify.com/album/6ziFA6M7TxdCQ2bxplctdK"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2025-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185312,
+      "name": "Bajo El Sol",
+      "url": "https://open.spotify.com/track/57mxKzlcRGGZKLlVVDpztL"
+    },
+    {
+      "album": {
         "name": "Bandida",
         "url": "https://open.spotify.com/album/5KpspLxsm5AzGLSsIxJrD2"
       },

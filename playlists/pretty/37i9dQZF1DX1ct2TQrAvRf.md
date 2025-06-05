@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ct2TQrAvRf.md) - [plain]
 
 > India's Rap Scene\. Cover \- KR$NA
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,007 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 413,232 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ct2TQrAvRf.md) - [plain]
 | 6 | [Russian Bandana](https://open.spotify.com/track/1dFrZr9eMUsFqeag04ClqD) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Russian Bandana](https://open.spotify.com/album/6CLIf42g7M6k0nE3vlcqud) | 3:17 |
 | 7 | [Regions](https://open.spotify.com/track/41rBgLENFkfdMRT7ZyZKQC) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0) | [By Any Means](https://open.spotify.com/album/4Gn0Jhsoq3Q0a5TtoSb35D) | 2:46 |
 | 8 | [Triple OG](https://open.spotify.com/track/5PvdeOHYM1Te6XB1C81zoz) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Phenom](https://open.spotify.com/artist/03hG7s3MUquIZwa4OvtLD7) | [Triple OG](https://open.spotify.com/album/7Jf2RyjfocosqLFzTfVH4O) | 3:03 |
-| 9 | [KL42](https://open.spotify.com/track/2akQaKSgo8XjKj5eqccOV4) | [GABRI](https://open.spotify.com/artist/4NPVKDDjJUl4qJX0soxyng) | [KL42](https://open.spotify.com/album/7jp8mlpnbba5T3Mjj0A49w) | 2:39 |
+| 9 | [KL42](https://open.spotify.com/track/2akQaKSgo8XjKj5eqccOV4) | [GABRI](https://open.spotify.com/artist/4NPVKDDjJUl4qJX0soxyng), [Kevin Soney](https://open.spotify.com/artist/7dGRq77QLo5zlEMXGEd3wI) | [KL42](https://open.spotify.com/album/7jp8mlpnbba5T3Mjj0A49w) | 2:39 |
 | 10 | [Lalkara](https://open.spotify.com/track/2oenSXLDbWVaaL7QjSGYj5) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 2:40 |
 | 11 | [O Maara](https://open.spotify.com/track/1ITjI93dSk97kr6kx4qCU7) | [Paal Dabba](https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx), [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Thug Life \(Original Motion Picture Soundtrack\) \(Tamil Version\)](https://open.spotify.com/album/4mtJ8fAvA3D9oNLkeOM4ST) | 3:00 |
 | 12 | [Aura](https://open.spotify.com/track/5shPYn8ItWhDUj9EUuJzpq) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Sicario](https://open.spotify.com/album/7vpQCYM9kT9jhKa2MEzZSl) | 2:45 |

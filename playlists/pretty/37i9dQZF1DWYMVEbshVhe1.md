@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMVEbshVhe1.md) - [plain]
 
 > Encanto tells the tale of the Madrigals, an extraordinary family who live in a wondrous place called an Encanto\. The film features all\-new songs by Lin\-Manuel Miranda and score by Germaine Franco\. Stream Disney's Encanto on Disney+.
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,716 likes - 54 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,688 likes - 54 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMVEbshVhe1.md) - [plain]
 | 53 | [All Of You \- Instrumental](https://open.spotify.com/track/3bKY8qGrxlhZojriFo3Svh) | [Lin\-Manuel Miranda](https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 4:53 |
 | 54 | [Colombia, Mi Encanto \- Instrumental](https://open.spotify.com/track/5fJRmqR1WXlVJvFpkPzS29) | [Lin\-Manuel Miranda](https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 2:54 |
 
-Snapshot ID: `ZIsSzwAAAAAH/81l+tQp1c29IG31EuHN`
+Snapshot ID: `AAAAAGlchIbeM9x8HUiBsTpbwe9WpKBH`

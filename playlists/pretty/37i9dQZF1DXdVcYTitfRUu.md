@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVcYTitfRUu.md) - [plain]
 
 > 감성 가득한 노래와 함께 부드럽게 핸들을 돌려보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,253 likes - 80 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,258 likes - 80 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [To You](https://open.spotify.com/track/0Vm57FDy9ANofqxnweBSyN) | [KEN](https://open.spotify.com/artist/08fiOzXWHTizuWGyS1dWu6) | [To You](https://open.spotify.com/album/13twQej8IAGbw2yNjJ4wmS) | 4:32 |
+| 1 | [How Could You Leave](https://open.spotify.com/track/4JkWWPrKOfUG5bwGlrm3qr) | [HYB \(Huh Gak,Shin Yong Jae,Onestar\)](https://open.spotify.com/artist/75LV0HV0cURCViNnAZ1SQt) | [H.Y.B\. Project \#3 \- How Could You Leave](https://open.spotify.com/album/6gilkQOwgtBJJZPyCcQKbE) | 3:23 |
 | 2 | [Slow Dancing](https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:07 |
-| 3 | [Beautiful Days](https://open.spotify.com/track/2QpkJZZRkVkNvbfGNlZgVv) | [2AM](https://open.spotify.com/artist/5SnaL8SsjGMHQNyqpa8Zos) | [Beautiful Days](https://open.spotify.com/album/5e09GzU4VA4DPxTLwJQ5T5) | 3:42 |
+| 3 | [Never Ending Story](https://open.spotify.com/track/3iJxBDym1SeqNqJqnvreHK) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [A flower bookmark, Pt\. 3](https://open.spotify.com/album/4TeDL95L9OTCpYnuQwlrwY) | 3:44 |
 | 4 | [Sudden Shower](https://open.spotify.com/track/1OhIn0L6iofnk5bjalWfHq) | [ECLIPSE](https://open.spotify.com/artist/5Nw7qx3NoHzpw59WYcJTve) | [Lovely Runner, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/0yaxMWGvOI7jSirSsKQj37) | 3:53 |
-| 5 | [I Miss You So Much](https://open.spotify.com/track/6JN2WrqaJaZkLnwh6r9ePU) | [Zia](https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk) | [I Miss You So Much](https://open.spotify.com/album/6NzFiw1xQd5DWm3cJGhqmU) | 3:38 |
+| 5 | [My Beautiful](https://open.spotify.com/track/0OWjkDCOYkYuTywsArE77r) | [DK](https://open.spotify.com/artist/4l7mkcB0cZgIQrcd2AsQI3) | [My Beautiful](https://open.spotify.com/album/2yqVf851PURotpnwn92Zsy) | 4:42 |
 | 6 | [Hurt](https://open.spotify.com/track/5expoVGQPvXuwBBFuNGqBd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 2:57 |
 | 7 | [Rainy Days](https://open.spotify.com/track/5ydjxBSUIDn26MFzU3asP4) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 2:59 |
 | 8 | [Heavenly Ever After](https://open.spotify.com/track/7kjVCymE7vn0HizmGCGFWQ) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Heavenly Ever After](https://open.spotify.com/album/0aYRlVT4Mt63KpofZcaBoc) | 4:55 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVcYTitfRUu.md) - [plain]
 | 79 | [How you feelin' \(From "Love Scout" : Original Soundtrack\)](https://open.spotify.com/track/6kihmLVLuCAptKWX167SgR) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [How you feelin' \(From "Love Scout" : Original Soundtrack\) Part\. 2](https://open.spotify.com/album/7gEevtkLPJZrGRdGi6FoHb) | 3:44 |
 | 80 | [Attention \(Feat\. DAWN, BLASÉ\)](https://open.spotify.com/track/0sB1ut1esPaRqabYjWEj1Z) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj), [DAWN 던](https://open.spotify.com/artist/7DxCK6bwfQC3F2ajZ02R2F), [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0) | [Love Sick](https://open.spotify.com/album/35taXjwOGmbL92CzJBjqek) | 2:58 |
 
-Snapshot ID: `aC61ngAAAACwuvnEtMev+bHXqBHmfGW+`
+Snapshot ID: `aEEIdwAAAACdQGNwuloh8ASI8K0A8of5`

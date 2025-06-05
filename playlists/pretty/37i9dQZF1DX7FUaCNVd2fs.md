@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FUaCNVd2fs.md) - [plain]
 
 > Sleepy, cosy piano music for snoozing, power naps and relaxation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,474 likes - 160 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,501 likes - 160 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,23 +15,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FUaCNVd2fs.md) - [plain]
 | 5 | [The Land You Belong](https://open.spotify.com/track/0VJwxkumrClrt4Y41evUpy) | [Dario Crisman](https://open.spotify.com/artist/3z9wB1A84KYedTTWy1ciHF) | [The Land You Belong](https://open.spotify.com/album/3uj2AIVg0qfo3NR2HlGkEq) | 2:24 |
 | 6 | [This Silent Night](https://open.spotify.com/track/5jGACx1QuHblS6yNrBSeEU) | [Minnie Aoyama](https://open.spotify.com/artist/5AmhcDvUI7dmOI8U57NoC4) | [This Silent Night](https://open.spotify.com/album/6HbFMkBUb1jTvnjKcmClOX) | 2:05 |
 | 7 | [Cádiz](https://open.spotify.com/track/2fQTBDA81IyaYgtr2Gz4Wl) | [Vic Carnes](https://open.spotify.com/artist/3b0FZ0avKzKFw9ZEJacpx0) | [Cádiz](https://open.spotify.com/album/5YBGQGNe1qX309BmK6eDFL) | 2:12 |
-| 8 | [So Still](https://open.spotify.com/track/5Oyts6S9nV0eKgpN8pZMQj) | [Derina Berger](https://open.spotify.com/artist/2WLjhCbRQU05hDnmU7DeIQ) | [So Still](https://open.spotify.com/album/2r6SI58mqGIUTngRoGPFUo) | 2:18 |
-| 9 | [Cornerstone](https://open.spotify.com/track/50asLnxLvpjOfFv7f20Ol5) | [Aveline Evan](https://open.spotify.com/artist/3Wrv7jhidzGqxmx2bmubem) | [Cornerstone](https://open.spotify.com/album/1pcfLlpMAQ6jPx9eI39aDs) | 2:40 |
-| 10 | [nocturnal summer](https://open.spotify.com/track/5fGKMCSBHAhRW9923UBO3c) | [forever day](https://open.spotify.com/artist/2xZ6v1AA2KEKLIYafq7a0a) | [nocturnal summer & road to isabelle](https://open.spotify.com/album/23aavgdGxGJIduhBWoOfSu) | 2:37 |
-| 11 | [Clear And Calm](https://open.spotify.com/track/4Gn7QkFfIUdoJnRnmMBIZ7) | [Wolf Keller](https://open.spotify.com/artist/0nL3okOqVl6PvsOmtzWwkb) | [Clear And Calm](https://open.spotify.com/album/2JUNDwk1OCuOqTLdgbS8zv) | 2:10 |
-| 12 | [A Different Story](https://open.spotify.com/track/2kk5IhP7CETo9dlG9yMaa5) | [Jonam Breuer](https://open.spotify.com/artist/70wQIh59h8RCbhUE61arYu) | [A Different Story](https://open.spotify.com/album/6cOPkFFcRnazHp6wYRp2R6) | 2:10 |
-| 13 | [Night Clouds](https://open.spotify.com/track/0OpqhQTV2qBimQyFhQAuDF) | [Domi Nova](https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz) | [Night Clouds](https://open.spotify.com/album/7lSnDLFVQkxKYmtPQWeFTd) | 2:52 |
-| 14 | [Contemplating the Horizon](https://open.spotify.com/track/0YWCYAFinPOcx2CHG0bwr3) | [Saverio Lobeone](https://open.spotify.com/artist/0nAp5pLclY53Fdzm3cdm5N) | [Contemplating the Horizon](https://open.spotify.com/album/1MUae59pDReQvn12s6UsUD) | 2:41 |
-| 15 | [It's Gonna Be Alright](https://open.spotify.com/track/4oiKoBCIYz7sFlEOdrfsbY) | [Melanié Poret](https://open.spotify.com/artist/1qP02f6jA0m3AZ8devpRNu) | [It's Gonna Be Alright](https://open.spotify.com/album/5LsPM7x2VLXIwymnMEnaxq) | 2:09 |
-| 16 | [Nordic Sunset](https://open.spotify.com/track/6daWwJ5d0lswGClgWB18Pc) | [Foora](https://open.spotify.com/artist/4xrxBC3PuUnnlziFfHdvYJ) | [Nordic Sunset](https://open.spotify.com/album/65Cml5MnWFs3jeca3oiyGl) | 2:30 |
-| 17 | [Goodmight](https://open.spotify.com/track/7rLMGoaWru8BOjoU73vXO1) | [Linior](https://open.spotify.com/artist/6IBrNzuYAMMWiTAg3xJRgw) | [Goodmight](https://open.spotify.com/album/7vBcf7bIKJfuYvSucoHNAE) | 2:13 |
+| 8 | [Cornerstone](https://open.spotify.com/track/50asLnxLvpjOfFv7f20Ol5) | [Aveline Evan](https://open.spotify.com/artist/3Wrv7jhidzGqxmx2bmubem) | [Cornerstone](https://open.spotify.com/album/1pcfLlpMAQ6jPx9eI39aDs) | 2:40 |
+| 9 | [A Different Story](https://open.spotify.com/track/2kk5IhP7CETo9dlG9yMaa5) | [Jonam Breuer](https://open.spotify.com/artist/70wQIh59h8RCbhUE61arYu) | [A Different Story](https://open.spotify.com/album/6cOPkFFcRnazHp6wYRp2R6) | 2:10 |
+| 10 | [So Still](https://open.spotify.com/track/5Oyts6S9nV0eKgpN8pZMQj) | [Derina Berger](https://open.spotify.com/artist/2WLjhCbRQU05hDnmU7DeIQ) | [So Still](https://open.spotify.com/album/2r6SI58mqGIUTngRoGPFUo) | 2:18 |
+| 11 | [nocturnal summer](https://open.spotify.com/track/5fGKMCSBHAhRW9923UBO3c) | [forever day](https://open.spotify.com/artist/2xZ6v1AA2KEKLIYafq7a0a) | [nocturnal summer & road to isabelle](https://open.spotify.com/album/23aavgdGxGJIduhBWoOfSu) | 2:37 |
+| 12 | [Clear And Calm](https://open.spotify.com/track/4Gn7QkFfIUdoJnRnmMBIZ7) | [Wolf Keller](https://open.spotify.com/artist/0nL3okOqVl6PvsOmtzWwkb) | [Clear And Calm](https://open.spotify.com/album/2JUNDwk1OCuOqTLdgbS8zv) | 2:10 |
+| 13 | [It's Gonna Be Alright](https://open.spotify.com/track/4oiKoBCIYz7sFlEOdrfsbY) | [Melanié Poret](https://open.spotify.com/artist/1qP02f6jA0m3AZ8devpRNu) | [It's Gonna Be Alright](https://open.spotify.com/album/5LsPM7x2VLXIwymnMEnaxq) | 2:09 |
+| 14 | [Night Clouds](https://open.spotify.com/track/0OpqhQTV2qBimQyFhQAuDF) | [Domi Nova](https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz) | [Night Clouds](https://open.spotify.com/album/7lSnDLFVQkxKYmtPQWeFTd) | 2:52 |
+| 15 | [Contemplating the Horizon](https://open.spotify.com/track/0YWCYAFinPOcx2CHG0bwr3) | [Saverio Lobeone](https://open.spotify.com/artist/0nAp5pLclY53Fdzm3cdm5N) | [Contemplating the Horizon](https://open.spotify.com/album/1MUae59pDReQvn12s6UsUD) | 2:41 |
+| 16 | [Goodmight](https://open.spotify.com/track/7rLMGoaWru8BOjoU73vXO1) | [Linior](https://open.spotify.com/artist/6IBrNzuYAMMWiTAg3xJRgw) | [Goodmight](https://open.spotify.com/album/7vBcf7bIKJfuYvSucoHNAE) | 2:13 |
+| 17 | [Quiet Moments](https://open.spotify.com/track/2Zof2lqNWh3mum2rtnQsCc) | [Monir Bresegeut](https://open.spotify.com/artist/3Z6Wqjodzje8ZoJJgV71lj) | [Quiet Moments](https://open.spotify.com/album/1lQIkbvbkJqqK3t7t8iwcc) | 2:00 |
 | 18 | [For A Moment](https://open.spotify.com/track/1mKHZDWICROPP1gmOg1mn2) | [Haley Morrison](https://open.spotify.com/artist/3OMlFyzbxE7bDYBg4GiwET) | [For A Moment](https://open.spotify.com/album/0uQtP6n33MGR13YOZz4pmO) | 3:21 |
-| 19 | [Fernweh](https://open.spotify.com/track/2ZiPXDK7uxEQtvlPwyQn5a) | [Cole Neumann](https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi) | [Fernweh](https://open.spotify.com/album/4UDwsawToHCgtQgNNGT8rd) | 2:04 |
-| 20 | [voler](https://open.spotify.com/track/5q78LVLnM2EFEyQpVym3qU) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [voler](https://open.spotify.com/album/2mSjBOywrt6qYKniIOhIdk) | 2:33 |
-| 21 | [Quiet Moments](https://open.spotify.com/track/2Zof2lqNWh3mum2rtnQsCc) | [Monir Bresegeut](https://open.spotify.com/artist/3Z6Wqjodzje8ZoJJgV71lj) | [Quiet Moments](https://open.spotify.com/album/1lQIkbvbkJqqK3t7t8iwcc) | 2:00 |
+| 19 | [moonlight in my heart](https://open.spotify.com/track/2PquyxqnifehQWWYRQm7wE) | [Rocky Road Heaven](https://open.spotify.com/artist/5Sl6AeIxVJBWaJp4kWYeQ9) | [moonlight in my heart](https://open.spotify.com/album/2cgT5qag7EB0BEtZJZ9qzd) | 2:38 |
+| 20 | [Fernweh](https://open.spotify.com/track/2ZiPXDK7uxEQtvlPwyQn5a) | [Cole Neumann](https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi) | [Fernweh](https://open.spotify.com/album/4UDwsawToHCgtQgNNGT8rd) | 2:04 |
+| 21 | [Nordic Sunset](https://open.spotify.com/track/6daWwJ5d0lswGClgWB18Pc) | [Foora](https://open.spotify.com/artist/4xrxBC3PuUnnlziFfHdvYJ) | [Nordic Sunset](https://open.spotify.com/album/65Cml5MnWFs3jeca3oiyGl) | 2:30 |
 | 22 | [Nuit Claire](https://open.spotify.com/track/6tCcyb0NtqtKCMHzX2YZIh) | [Les Rêveries](https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O) | [Nuit Claire](https://open.spotify.com/album/3j4Rvcw23462SvnuIf5PgC) | 2:44 |
-| 23 | [Approaching View](https://open.spotify.com/track/0mF6mYZxi3HLMfKJpXT6JT) | [Keith Foster](https://open.spotify.com/artist/5e1yO1Z9BVf2csEYLGqQ2j) | [Approaching View](https://open.spotify.com/album/4LemwZw7HfUQQ63MqzVuHz) | 2:25 |
-| 24 | [moonlight in my heart](https://open.spotify.com/track/2PquyxqnifehQWWYRQm7wE) | [Rocky Road Heaven](https://open.spotify.com/artist/5Sl6AeIxVJBWaJp4kWYeQ9) | [moonlight in my heart](https://open.spotify.com/album/2cgT5qag7EB0BEtZJZ9qzd) | 2:38 |
+| 23 | [voler](https://open.spotify.com/track/5q78LVLnM2EFEyQpVym3qU) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [voler](https://open.spotify.com/album/2mSjBOywrt6qYKniIOhIdk) | 2:33 |
+| 24 | [Approaching View](https://open.spotify.com/track/0mF6mYZxi3HLMfKJpXT6JT) | [Keith Foster](https://open.spotify.com/artist/5e1yO1Z9BVf2csEYLGqQ2j) | [Approaching View](https://open.spotify.com/album/4LemwZw7HfUQQ63MqzVuHz) | 2:25 |
 | 25 | [Meaning Of Life](https://open.spotify.com/track/3m6dt7vpVFKM6VawzTUSbR) | [Our Sense](https://open.spotify.com/artist/7vUyFSVFxPY2dxiiosiqhY) | [Meaning Of Life](https://open.spotify.com/album/0JTJbjoyZxpYEGROgEriRU) | 2:34 |
 | 26 | [Mystic Rivers](https://open.spotify.com/track/24qUwzHcqj4x9JIJ5FP5JO) | [Malmkvist](https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l) | [Mystic Rivers](https://open.spotify.com/album/2J5LFFXdwIVXxLSmm3wxej) | 3:11 |
 | 27 | [For Hannah](https://open.spotify.com/track/18vwnhgOGi7GDZxbglYac7) | [Gia](https://open.spotify.com/artist/2EF6KwiVbFHUsL53LQ2y4R) | [For Hannah](https://open.spotify.com/album/6nHjXDACCN3DnmrLD3Epih) | 2:52 |
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FUaCNVd2fs.md) - [plain]
 | 159 | [Moonlight](https://open.spotify.com/track/5kxplUhUr8OpwOpJ2Ururp) | [Regnør](https://open.spotify.com/artist/2bmadkijrsqPPsROnqeXIq) | [Moonlight](https://open.spotify.com/album/1JCaugOpvQEqJxoKFxBkqd) | 3:18 |
 | 160 | [Tra Di Noi](https://open.spotify.com/track/7yJJuCckCfvjuIVDK96KlL) | [Valentina Romano](https://open.spotify.com/artist/0fQjueuVmR5XSCP0BtGdu1) | [Tra Di Noi](https://open.spotify.com/album/0J5qqU8x786MCP07FHgJGa) | 2:30 |
 
-Snapshot ID: `aDcoHwAAAADJP7cx6ZdVXV3zi/X5jwne`
+Snapshot ID: `aEAXfgAAAAB7721e9h7gd+REhssI6q46`

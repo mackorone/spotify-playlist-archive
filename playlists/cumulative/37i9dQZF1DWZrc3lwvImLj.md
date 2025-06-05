@@ -4,7 +4,7 @@
 
 > lowkey crying.
 
-475 songs - 20 hr 46 min
+476 songs - 20 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,6 +210,7 @@
 | [Le marchand de sable est passé](https://open.spotify.com/track/4ZHotLx5jX1MPDixEhEakI) | [Delit Quirion](https://open.spotify.com/artist/3Mw8wFkvBzL2syoPuEhM3X) | [Le marchand de sable est passé](https://open.spotify.com/album/6sPS38qm4ZftAtfS8C9iKH) | 3:45 | 2021-12-14 | 2022-01-06 |
 | [lei sogna di noi](https://open.spotify.com/track/2myAatrsAXWSYBCJzphYle) | [Zeppi](https://open.spotify.com/artist/1s7kBMoO84Vhl5aYQx4LOO) | [lei sogna di noi](https://open.spotify.com/album/6hEEE80InjpeOtNaMxFTu5) | 2:00 | 2021-12-14 | 2023-10-11 |
 | [Leiting](https://open.spotify.com/track/1PX6YVAs4nULKjBpuFSrUR) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Leiting](https://open.spotify.com/album/0E0k45Lz3OaMJSwtI5cPSd) | 2:38 | 2022-04-22 |  |
+| [Light as Silk](https://open.spotify.com/track/4iI8IJzjds4PqdgV1uTcIT) | [Kyo Himura](https://open.spotify.com/artist/3zJyClRhsSeHXs3PAHMRC1) | [Light as Silk](https://open.spotify.com/album/5O2gOX2GsYduepBmORG4Rl) | 3:04 | 2025-06-04 |  |
 | [Like Before](https://open.spotify.com/track/4gh3kOpFSQPn6jGOI0gZPm) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Like Before](https://open.spotify.com/album/7KG32lDHhYrznuU2EXHJPp) | 2:15 | 2021-12-14 | 2022-04-15 |
 | [Lillian](https://open.spotify.com/track/4cwSFF1hXI78ZTmREh6Yww) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP), [Søren Tarding](https://open.spotify.com/artist/1bHfoau7ud3dvN33mMtzuj) | [Lillian](https://open.spotify.com/album/76qmoKhO9fwNsUh1BOcnPf) | 2:07 | 2022-09-23 | 2022-11-13 |
 | [Lillian](https://open.spotify.com/track/5lcjalUNbHaaSvXRTtYd1p) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP), [Søren Tarding](https://open.spotify.com/artist/1bHfoau7ud3dvN33mMtzuj) | [Mursejler](https://open.spotify.com/album/4fQTzcMpCxxpajM3dMUqID) | 2:07 | 2022-07-28 | 2023-10-11 |

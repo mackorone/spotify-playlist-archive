@@ -1,12 +1,12 @@
 {
   "description": "This is Patti Smith. The essential tracks, all in one playlist.",
-  "num_followers": 51545,
+  "num_followers": 51551,
   "original_name": "This Is Patti Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDzpgAAAAADabyf2PbPt/vUIr446w+L2",
+  "snapshot_id": "aD47AAAAAAAMWeQd3hmcEQONX66ulj4l",
   "tracks": [
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 309143,
-      "name": "My Madrigal",
-      "url": "https://open.spotify.com/track/71hxmZWsasa71twZ6Mn93Y"
+      "duration_ms": 228743,
+      "name": "Wicked Messenger",
+      "url": "https://open.spotify.com/track/2CKlx0XM0zACsOfl3SWE2w"
     },
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 468863,
-      "name": "Where Duty Calls",
-      "url": "https://open.spotify.com/track/3kdwpUPHqdjUJwkYUUaHSI"
+      "duration_ms": 304671,
+      "name": "As The Night Goes By",
+      "url": "https://open.spotify.com/track/3DjteqYqBVPCV3rgVs7udt"
     },
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 228743,
-      "name": "Wicked Messenger",
-      "url": "https://open.spotify.com/track/2CKlx0XM0zACsOfl3SWE2w"
+      "duration_ms": 309143,
+      "name": "My Madrigal",
+      "url": "https://open.spotify.com/track/71hxmZWsasa71twZ6Mn93Y"
     },
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 304671,
-      "name": "As The Night Goes By",
-      "url": "https://open.spotify.com/track/3DjteqYqBVPCV3rgVs7udt"
+      "duration_ms": 468863,
+      "name": "Where Duty Calls",
+      "url": "https://open.spotify.com/track/3kdwpUPHqdjUJwkYUUaHSI"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trampin'",
-        "url": "https://open.spotify.com/album/3od0OdWDIIO8fF9Plb8Qiu"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 296506,
-      "name": "Mother Rose",
-      "url": "https://open.spotify.com/track/5MCHIUiEjVJKuKxoMgLVZe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Radio Ethiopia",
         "url": "https://open.spotify.com/album/7jmAoRWQ9qUXtRXUOW2agu"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 189733,
       "name": "Ask the Angels",
       "url": "https://open.spotify.com/track/6BmAr1i0Jnk8ztzRVQHyEi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trampin'",
+        "url": "https://open.spotify.com/album/3od0OdWDIIO8fF9Plb8Qiu"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 296506,
+      "name": "Mother Rose",
+      "url": "https://open.spotify.com/track/5MCHIUiEjVJKuKxoMgLVZe"
     },
     {
       "added_at": null,
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 259906,
-      "name": "Distant Fingers",
-      "url": "https://open.spotify.com/track/5fI00jX4cWUfCGpYvchDjR"
+      "duration_ms": 201800,
+      "name": "Pumping",
+      "url": "https://open.spotify.com/track/49TDyRgRbpvpDOZJOslDlh"
     },
     {
       "added_at": null,
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 201800,
-      "name": "Pumping",
-      "url": "https://open.spotify.com/track/49TDyRgRbpvpDOZJOslDlh"
+      "duration_ms": 259906,
+      "name": "Distant Fingers",
+      "url": "https://open.spotify.com/track/5fI00jX4cWUfCGpYvchDjR"
     },
     {
       "added_at": null,

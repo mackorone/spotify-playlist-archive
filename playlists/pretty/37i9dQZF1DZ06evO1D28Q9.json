@@ -1,12 +1,12 @@
 {
   "description": "This is Stefanie. The essential tracks, all in one playlist.",
-  "num_followers": 117,
+  "num_followers": 116,
   "original_name": "This Is Stefanie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDzpgAAAAAAx0/HGnr+DGXnNcdK9h7D+",
+  "snapshot_id": "aD47AAAAAACuCmeRSXp0FfowU7IcQG5+",
   "tracks": [
     {
       "added_at": null,
@@ -20,13 +20,13 @@
           "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
         },
         {
-          "name": "Mahmundi",
-          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
         }
       ],
-      "duration_ms": 180312,
-      "name": "FUGIR N\u00c3O ADIANTA",
-      "url": "https://open.spotify.com/track/463cD2sfyCzpK8f8q9idTI"
+      "duration_ms": 227700,
+      "name": "PURO LOVE",
+      "url": "https://open.spotify.com/track/1VE784EuezLLhTd6YItf0f"
     },
     {
       "added_at": null,
@@ -124,13 +124,13 @@
           "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
         },
         {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+          "name": "Mahmundi",
+          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
         }
       ],
-      "duration_ms": 227700,
-      "name": "PURO LOVE",
-      "url": "https://open.spotify.com/track/1VE784EuezLLhTd6YItf0f"
+      "duration_ms": 180312,
+      "name": "FUGIR N\u00c3O ADIANTA",
+      "url": "https://open.spotify.com/track/463cD2sfyCzpK8f8q9idTI"
     },
     {
       "added_at": null,
@@ -228,33 +228,21 @@
           "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
         },
         {
-          "name": "Rodrigo Ogi",
-          "url": "https://open.spotify.com/artist/74DmeplOsb1zShj5BqqkbQ"
-        }
-      ],
-      "duration_ms": 222861,
-      "name": "POR UM FIO",
-      "url": "https://open.spotify.com/track/2N86zDyttkJVK5wJ4J7P7z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Raio de Sol",
-        "url": "https://open.spotify.com/album/61y0M6ss6NwQcBv52L7vpk"
-      },
-      "artists": [
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+          "name": "Daniel Ganjaman",
+          "url": "https://open.spotify.com/artist/3NlKFt1ZE1pkpH0CpYDDqK"
         },
         {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+          "name": "Grou",
+          "url": "https://open.spotify.com/artist/07DFKI84JMzC8YCkUdfDzV"
+        },
+        {
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
         }
       ],
-      "duration_ms": 172676,
-      "name": "Raio de Sol",
-      "url": "https://open.spotify.com/track/1u7RX4YgssTUMne4VpbHRU"
+      "duration_ms": 176911,
+      "name": "N\u00c3O PIRAR",
+      "url": "https://open.spotify.com/track/72J7GBimJeoTkXjXbRqxCA"
     },
     {
       "added_at": null,
@@ -275,6 +263,26 @@
       "duration_ms": 227377,
       "name": "Pelos Meus Amores",
       "url": "https://open.spotify.com/track/43Gm484d6Vmkvhb3FutdT9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Raio de Sol",
+        "url": "https://open.spotify.com/album/61y0M6ss6NwQcBv52L7vpk"
+      },
+      "artists": [
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        },
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "duration_ms": 172676,
+      "name": "Raio de Sol",
+      "url": "https://open.spotify.com/track/1u7RX4YgssTUMne4VpbHRU"
     },
     {
       "added_at": null,
@@ -324,21 +332,13 @@
           "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
         },
         {
-          "name": "Daniel Ganjaman",
-          "url": "https://open.spotify.com/artist/3NlKFt1ZE1pkpH0CpYDDqK"
-        },
-        {
-          "name": "Grou",
-          "url": "https://open.spotify.com/artist/07DFKI84JMzC8YCkUdfDzV"
-        },
-        {
-          "name": "Ana Tijoux",
-          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+          "name": "Rodrigo Ogi",
+          "url": "https://open.spotify.com/artist/74DmeplOsb1zShj5BqqkbQ"
         }
       ],
-      "duration_ms": 176911,
-      "name": "N\u00c3O PIRAR",
-      "url": "https://open.spotify.com/track/72J7GBimJeoTkXjXbRqxCA"
+      "duration_ms": 222861,
+      "name": "POR UM FIO",
+      "url": "https://open.spotify.com/track/2N86zDyttkJVK5wJ4J7P7z"
     },
     {
       "added_at": null,
@@ -543,62 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Em Nome do Vento",
-        "url": "https://open.spotify.com/album/6N10FMJ4WvCaYhCVt1fmUE"
-      },
-      "artists": [
-        {
-          "name": "Kivitz",
-          "url": "https://open.spotify.com/artist/7sua8S5Zjhkru2Ma50lfHL"
-        },
-        {
-          "name": "Dona Kelly ao Cubo",
-          "url": "https://open.spotify.com/artist/25NRP4dtD2mSIwAtuh8apL"
-        },
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        }
-      ],
-      "duration_ms": 273365,
-      "name": "A Voz",
-      "url": "https://open.spotify.com/track/6iqoDOuXWIIh1eg01gWDba"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hip Hop Machine Temporada 2",
-        "url": "https://open.spotify.com/album/5H5GGraw2Bn43x6KvaOVRI"
-      },
-      "artists": [
-        {
-          "name": "Leo Gandelman",
-          "url": "https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW"
-        },
-        {
-          "name": "Machine Series",
-          "url": "https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG"
-        },
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        },
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        }
-      ],
-      "duration_ms": 348314,
-      "name": "Raio De Sol",
-      "url": "https://open.spotify.com/track/1A60gepW790C5S9JKATGQB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Azz Veizz (Das Minas)",
         "url": "https://open.spotify.com/album/4xcSH0hD8XqnSecEJVAbPv"
       },
@@ -643,6 +587,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hip Hop Machine Temporada 2",
+        "url": "https://open.spotify.com/album/5H5GGraw2Bn43x6KvaOVRI"
+      },
+      "artists": [
+        {
+          "name": "Leo Gandelman",
+          "url": "https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW"
+        },
+        {
+          "name": "Machine Series",
+          "url": "https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG"
+        },
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        },
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "duration_ms": 348314,
+      "name": "Raio De Sol",
+      "url": "https://open.spotify.com/track/1A60gepW790C5S9JKATGQB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "O Rap \u00e9 PRETO! pt. 2",
         "url": "https://open.spotify.com/album/49sXlIhtbRTaRDud1qZNR0"
       },
@@ -667,6 +639,54 @@
       "duration_ms": 247745,
       "name": "O Rap \u00e9 PRETO! pt. 2",
       "url": "https://open.spotify.com/track/5FmPre7XLYJ3U2nJJa8flw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Em Nome do Vento",
+        "url": "https://open.spotify.com/album/6N10FMJ4WvCaYhCVt1fmUE"
+      },
+      "artists": [
+        {
+          "name": "Kivitz",
+          "url": "https://open.spotify.com/artist/7sua8S5Zjhkru2Ma50lfHL"
+        },
+        {
+          "name": "Dona Kelly ao Cubo",
+          "url": "https://open.spotify.com/artist/25NRP4dtD2mSIwAtuh8apL"
+        },
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        }
+      ],
+      "duration_ms": 273365,
+      "name": "A Voz",
+      "url": "https://open.spotify.com/track/6iqoDOuXWIIh1eg01gWDba"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mixtape Eu e a Minha Habitual Falta de Modera\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/6t842Uq5dvHxYxPanUrUPD"
+      },
+      "artists": [
+        {
+          "name": "Gigante No Mic",
+          "url": "https://open.spotify.com/artist/5NjusDYM3H7nGyjgDOtLNX"
+        },
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        }
+      ],
+      "duration_ms": 298412,
+      "name": "Quem \u00c9 Voc\u00ea?",
+      "url": "https://open.spotify.com/track/5Qboq3MHp7FJ7FfKAaW4aG"
     },
     {
       "added_at": null,
@@ -715,26 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mixtape Eu e a Minha Habitual Falta de Modera\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/6t842Uq5dvHxYxPanUrUPD"
-      },
-      "artists": [
-        {
-          "name": "Gigante No Mic",
-          "url": "https://open.spotify.com/artist/5NjusDYM3H7nGyjgDOtLNX"
-        },
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        }
-      ],
-      "duration_ms": 298412,
-      "name": "Quem \u00c9 Voc\u00ea?",
-      "url": "https://open.spotify.com/track/5Qboq3MHp7FJ7FfKAaW4aG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rimas & Melodias",
         "url": "https://open.spotify.com/album/55K5ih7JhMrNR6YecU84Vb"
       },
@@ -779,34 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coroa de Flores",
-        "url": "https://open.spotify.com/album/3f7dUQ3DMZj7716gOuMXhm"
-      },
-      "artists": [
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        },
-        {
-          "name": "Gigante No Mic",
-          "url": "https://open.spotify.com/artist/5NjusDYM3H7nGyjgDOtLNX"
-        },
-        {
-          "name": "Grou",
-          "url": "https://open.spotify.com/artist/07DFKI84JMzC8YCkUdfDzV"
-        },
-        {
-          "name": "Nave",
-          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
-        }
-      ],
-      "duration_ms": 258656,
-      "name": "Coroa de Flores",
-      "url": "https://open.spotify.com/track/4gC1q2s1k9PveA0EebXLzP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Mensagem",
         "url": "https://open.spotify.com/album/2VuAaT3eTjX109FTmDlIf9"
       },
@@ -839,6 +811,34 @@
       "duration_ms": 382450,
       "name": "N\u00f3s Somos Pesados",
       "url": "https://open.spotify.com/track/3MWnRLlZM2P7YqUF8Xva7q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coroa de Flores",
+        "url": "https://open.spotify.com/album/3f7dUQ3DMZj7716gOuMXhm"
+      },
+      "artists": [
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        },
+        {
+          "name": "Gigante No Mic",
+          "url": "https://open.spotify.com/artist/5NjusDYM3H7nGyjgDOtLNX"
+        },
+        {
+          "name": "Grou",
+          "url": "https://open.spotify.com/artist/07DFKI84JMzC8YCkUdfDzV"
+        },
+        {
+          "name": "Nave",
+          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
+        }
+      ],
+      "duration_ms": 258656,
+      "name": "Coroa de Flores",
+      "url": "https://open.spotify.com/track/4gC1q2s1k9PveA0EebXLzP"
     },
     {
       "added_at": null,
@@ -1144,9 +1144,9 @@
           "url": "https://open.spotify.com/artist/2HwGMsVf8kqckNXfE06IIk"
         }
       ],
-      "duration_ms": 219402,
-      "name": "Paradoxo",
-      "url": "https://open.spotify.com/track/6DkhnKObVAmjqTNSbFi4Ee"
+      "duration_ms": 226304,
+      "name": "Viv\u00eancia",
+      "url": "https://open.spotify.com/track/6TbXGlMwt5pmPA24TEuBnv"
     },
     {
       "added_at": null,
@@ -1212,9 +1212,9 @@
           "url": "https://open.spotify.com/artist/2HwGMsVf8kqckNXfE06IIk"
         }
       ],
-      "duration_ms": 226304,
-      "name": "Viv\u00eancia",
-      "url": "https://open.spotify.com/track/6TbXGlMwt5pmPA24TEuBnv"
+      "duration_ms": 219402,
+      "name": "Paradoxo",
+      "url": "https://open.spotify.com/track/6DkhnKObVAmjqTNSbFi4Ee"
     },
     {
       "added_at": null,

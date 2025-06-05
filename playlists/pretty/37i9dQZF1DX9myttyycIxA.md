@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Forth Wanderers
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,636 likes - 110 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,639 likes - 110 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

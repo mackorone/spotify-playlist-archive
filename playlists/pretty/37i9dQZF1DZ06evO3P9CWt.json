@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDzpgAAAAABbX+Zl1ASpqH3/S0kDfxlB",
+  "snapshot_id": "aD47AAAAAAC0L5E3++URTFaZwKum1Czd",
   "tracks": [
     {
       "added_at": null,
@@ -839,26 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PRISCILLA",
-        "url": "https://open.spotify.com/album/7CwRBVDac8q1nUsl5Fx7Ik"
-      },
-      "artists": [
-        {
-          "name": "PRISCILLA",
-          "url": "https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 136037,
-      "name": "10/10",
-      "url": "https://open.spotify.com/track/3c2kCfk3gt82jFroErOvBa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AFTER",
         "url": "https://open.spotify.com/album/4aj7OO4L022IGAz5zbQwJZ"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 150824,
       "name": "Penetra - Pedro Sampaio Remix",
       "url": "https://open.spotify.com/track/7hPSlGAChIcqAbBXFgbcdq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PRISCILLA",
+        "url": "https://open.spotify.com/album/7CwRBVDac8q1nUsl5Fx7Ik"
+      },
+      "artists": [
+        {
+          "name": "PRISCILLA",
+          "url": "https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 136037,
+      "name": "10/10",
+      "url": "https://open.spotify.com/track/3c2kCfk3gt82jFroErOvBa"
     },
     {
       "added_at": null,
@@ -947,26 +947,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eu Nunca Fui Embora",
-        "url": "https://open.spotify.com/album/518eTaR0LiBmCtyjepuLaB"
-      },
-      "artists": [
-        {
-          "name": "Fresno",
-          "url": "https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 199629,
-      "name": "Eu Te Amo / Eu Te Odeio (I\u00d4-I\u00d4)",
-      "url": "https://open.spotify.com/track/3GFMmirWIKNp8OyMSf83Dg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Brava",
         "url": "https://open.spotify.com/album/5obU0I3k0EkmZl8L3a6dY1"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 192456,
       "name": "Caliente (feat. Pabllo Vittar)",
       "url": "https://open.spotify.com/track/75V0RdaCFKsQZX91mI9AD3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eu Nunca Fui Embora",
+        "url": "https://open.spotify.com/album/518eTaR0LiBmCtyjepuLaB"
+      },
+      "artists": [
+        {
+          "name": "Fresno",
+          "url": "https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 199629,
+      "name": "Eu Te Amo / Eu Te Odeio (I\u00d4-I\u00d4)",
+      "url": "https://open.spotify.com/track/3GFMmirWIKNp8OyMSf83Dg"
     },
     {
       "added_at": null,

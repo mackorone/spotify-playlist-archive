@@ -4,7 +4,7 @@
 
 > 아 나도 모르겠다\~ idk idk idkkk\~
 
-90 songs - 4 hr 48 min
+93 songs - 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,13 +90,16 @@
 | [When do I get that chicken?](https://open.spotify.com/track/2qeNam9eMMKZ5TuFjbDMkF) | [OFF THE TOWN](https://open.spotify.com/artist/51BaBbyJMybOQKMUSYhi0z) | [When do I get that chicken?](https://open.spotify.com/album/3gio8FNEYMEB9CwKyzOtjI) | 3:16 | 2024-10-08 |  |
 | [Why Would I](https://open.spotify.com/track/3eM97YUH843ud44wHHQtjB) | [Kim Gyeol](https://open.spotify.com/artist/2gnOw5uU4XQZtSpXxKsJOf) | [Why Would I](https://open.spotify.com/album/5B36kfBGZVKH1xC5H0MqGu) | 2:56 | 2023-11-09 |  |
 | [Workaholic \(feat\. ASH ISLAND\)](https://open.spotify.com/track/5arR24jdVitzSURvv5hwIq) | [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [Workaholic \(feat\. ASH ISLAND\)](https://open.spotify.com/album/5Rxn1cnJLLf8qgYJzB4KLu) | 3:13 | 2024-03-29 |  |
+| [YES MAN](https://open.spotify.com/track/55EwqptSKkVJjdaJG8LlQN) | [MongDoll](https://open.spotify.com/artist/7b4YrLbDfaE2rbhbWZvTYf) | [YES MAN](https://open.spotify.com/album/7MsumZ5RaI96ToAiBhs36v) | 3:33 | 2025-06-04 |  |
 | [YOLO!!](https://open.spotify.com/track/58ArJNuSY3iTL6SyTVtMhw) | [Hongbi](https://open.spotify.com/artist/7C016qCdmnw6SsBk0D6MlD) | [YOLO!!](https://open.spotify.com/album/5pgMsHengwvJz9vYopbFGj) | 3:29 | 2023-11-09 | 2024-04-19 |
 | [YOLO!!](https://open.spotify.com/track/7CzlruoUvMHw2ilEEXjPRL) | [Hongbi](https://open.spotify.com/artist/7C016qCdmnw6SsBk0D6MlD) | [YOLO!!](https://open.spotify.com/album/4H9NHqoHnM5eOl5JVQ47PT) | 3:29 | 2024-04-17 |  |
 | [나인데](https://open.spotify.com/track/03a3V3WdtWcNCvFr8S2i26) | [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [나인데](https://open.spotify.com/album/6EhGT1web7FrTH942QvH1B) | 2:41 | 2025-04-08 |  |
 | [내가 들었는데](https://open.spotify.com/track/5aZ1058WKY8rvEK9Bcrftg) | [TIKITIK](https://open.spotify.com/artist/4I5VHsJIkTdNbQNC2xkSEO) | [내가 들었는데](https://open.spotify.com/album/0OSQOFnrNebz3m98FQtQxD) | 1:18 | 2024-03-08 |  |
 | [놀래!](https://open.spotify.com/track/7i7UcFcEpbY3Ihzv1KZBi7) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Every DAY6 August](https://open.spotify.com/album/3ElTy5eVezQCNrgAbTii5m) | 3:16 | 2025-04-08 |  |
+| [설명하기 귀찮은 밤](https://open.spotify.com/track/34NbLGushBGKom3ifJYNiP) | [Frankie Summer](https://open.spotify.com/artist/3uTI0eDlNwwnQKj2gnleTf) | [설명하기 귀찮은 밤](https://open.spotify.com/album/4rhYsEfByflKLrZwNxsRM9) | 4:27 | 2025-06-04 |  |
 | [원래 이래](https://open.spotify.com/track/01B3FayTL6QIffJ2dK5fHf) | [Lee Aram](https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1) | [The Way I Am](https://open.spotify.com/album/6E1Qw5tiLmmIErOTfOfGiG) | 2:37 | 2025-04-08 |  |
 | [집에 가자](https://open.spotify.com/track/3X9sF773dNepwR2E08HWzJ) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [Stairs](https://open.spotify.com/album/5NegqDbGVQWj9H4Nn6bh1k) | 3:53 | 2025-04-16 |  |
+| [집콕](https://open.spotify.com/track/13Uc2oj4Tbzo3WT4ESAZ1b) | [406 Project](https://open.spotify.com/artist/3bXpLpVdhS8IBPYk5mNg6n) | [Stage](https://open.spotify.com/album/0CwkRRIj7uV2cVaXufndNN) | 2:39 | 2025-06-04 |  |
 | [퇴근송](https://open.spotify.com/track/3ng50xRbD3N6DQ4spEV95u) | [Mozzi Melody](https://open.spotify.com/artist/3lS7ikkk4ZZPpq2K2gbTCv), [서다람](https://open.spotify.com/artist/4LilDDUso3RAK8xYxOoDWB) | [퇴근송](https://open.spotify.com/album/2xxlleJJyP8gWA2wHhZ7tp) | 3:12 | 2025-04-30 |  |
 
 \*This playlist was first scraped on 2023-11-11. Prior content cannot be recovered.

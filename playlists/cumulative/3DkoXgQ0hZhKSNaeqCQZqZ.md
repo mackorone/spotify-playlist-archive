@@ -4,7 +4,7 @@
 
 > All songs made for furs, by furs\.  Check top 25 @ spotify.furrest.net
 
-348 songs - 18 hr 24 min
+349 songs - 18 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,6 +266,7 @@
 | [Rose\-Tinted Glasses](https://open.spotify.com/track/71ykIZT3YrrA4tCc1rGFng) | [Anthemics](https://open.spotify.com/artist/5Resf7AxjXHnKIYgsDgPlv) | [Hiraeth](https://open.spotify.com/album/6adnvm6S8BEKBn6AsyHWd5) | 3:24 | 2023-12-15 |  |
 | [ROYALTY](https://open.spotify.com/track/7km3vpKM3z7Febi2p69ij3) | [Hi I'm Case](https://open.spotify.com/artist/5KpXcJfw137FINbN6Ukcvt) | [ROYALTY](https://open.spotify.com/album/7x8QpxqMPfoN2rOYP50QGx) | 3:05 | 2025-03-01 |  |
 | [rubicon](https://open.spotify.com/track/4la9cJckhhANFdSIMlycTw) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Stephanafro](https://open.spotify.com/artist/3EKlD3ejEcFDsUe5ZvjzMf) | [Raised by Aliens](https://open.spotify.com/album/1mTM51rvOXPen3pVzekCf3) | 3:46 | 2024-12-06 |  |
+| [run amok!](https://open.spotify.com/track/2j1Wv50igdxKp2JTsqzkdd) | [sharkbarksss](https://open.spotify.com/artist/7wrGMUFl9bK7T4st7GG1wS) | [run amok!](https://open.spotify.com/album/1GuaHRa0owkz2jxmqh3Q4J) | 3:03 | 2025-06-05 |  |
 | [RUSH!](https://open.spotify.com/track/5qXCO06nIc5y70qxieIL7X) | [GABUISLOST](https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH), [2bagBreezoo](https://open.spotify.com/artist/2E2XL9Qlb1osAU441gxBYf) | [all these faces](https://open.spotify.com/album/4mbDXws5cJGdqkVDLcOM66) | 3:08 | 2025-02-03 |  |
 | [RUSH!](https://open.spotify.com/track/6fbkYgGPkflSxMPOXSqrKW) | [GABUISLOST](https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH), [2bagBreezoo](https://open.spotify.com/artist/2E2XL9Qlb1osAU441gxBYf) | [RUSH!](https://open.spotify.com/album/2LeHZqC5P8Ma1V26G6oA8d) | 3:08 | 2024-08-15 |  |
 | [Sahabat Terbaik Sedunia](https://open.spotify.com/track/0CvIcRCHW5WJaiCd8jteNN) | [Labirhin](https://open.spotify.com/artist/2rYGNtQDYXTIbFHWYUCFqJ), [Aural Alliance](https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu) | [Sahabat Terbaik Sedunia](https://open.spotify.com/album/4yYII4HdTiOkcrwJHoXCas) | 1:23 | 2024-02-09 |  |

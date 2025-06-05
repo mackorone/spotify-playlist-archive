@@ -3300,7 +3300,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 166611,
       "name": "ANEMA E CORE",
       "url": "https://open.spotify.com/track/5M8Z823Sb2BhMpecHksN0T"
@@ -5442,7 +5442,7 @@
       ],
       "date_added": "2025-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 178883,
       "name": "BELLA DAVVERO",
       "url": "https://open.spotify.com/track/4HDX2Orm48gaWCyg9F5ZAs"
@@ -12872,7 +12872,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 185503,
       "name": "Destri",
       "url": "https://open.spotify.com/track/7nRFsITVaSHko2Fw2Gcy59"
@@ -18014,7 +18014,7 @@
       ],
       "date_added": "2025-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-03",
+      "date_removed": null,
       "duration_ms": 176999,
       "name": "FW/SS25 (Freestyle)",
       "url": "https://open.spotify.com/track/1mErhpOIVgy2JPLO7KlI60"
@@ -39318,7 +39318,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-03",
+      "date_removed": null,
       "duration_ms": 177120,
       "name": "PRONTO COME VA",
       "url": "https://open.spotify.com/track/6CvJtmzjDkWCeGt4nT2l1O"
@@ -42884,6 +42884,28 @@
       "duration_ms": 227333,
       "name": "SENZA TEMPO (feat. Izi)",
       "url": "https://open.spotify.com/track/1NgWfYWI2bzBjBI0TsxvWU"
+    },
+    {
+      "album": {
+        "name": "SERENATA",
+        "url": "https://open.spotify.com/album/1kknmZi7U32CSSrRVRfaqz"
+      },
+      "artists": [
+        {
+          "name": "Serena Brancale",
+          "url": "https://open.spotify.com/artist/7108jelN43seqWILMvJwKi"
+        },
+        {
+          "name": "Alessandra Amoroso",
+          "url": "https://open.spotify.com/artist/2pjb5ffSoVTr5lRYQXlnPu"
+        }
+      ],
+      "date_added": "2025-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188373,
+      "name": "SERENATA",
+      "url": "https://open.spotify.com/track/18phYWPlfxvF9jmUVwkb4c"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1mA1xzh8OIViazS0AQy5un.md) - [plain]
 
 > This is a collaborative playlist that a bunch of lovely people in the DCA fandom \(including myself\) came up with that are just pure DCA vibes \(or perhaps for an AU twist!\)
 
-[thatmooncake](https://open.spotify.com/user/31uxz2oxbogfcep4e6oz3lk7hbnu) - 247 likes - 700 songs - 1 day 15 hr 44 min
+[thatmooncake](https://open.spotify.com/user/31uxz2oxbogfcep4e6oz3lk7hbnu) - 248 likes - 703 songs - 1 day 15 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -708,5 +708,8 @@ pretty - [cumulative](/playlists/cumulative/1mA1xzh8OIViazS0AQy5un.md) - [plain]
 | 698 | [PANIC ATTACK](https://open.spotify.com/track/7Gf6BvF5vHKq1ZABgdbMkx) | [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9) | [PANIC ATTACK](https://open.spotify.com/album/49iWkiTVH0JxJM36bVT7ey) | 2:29 |
 | 699 | [I Really F\*\*ked It Up](https://open.spotify.com/track/4MTPjzLzoi4HiR5fRAQ2Hx) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [I Really F\*\*ked It Up](https://open.spotify.com/album/6N1ZdKUo4kw13gQMGQX4iZ) | 2:45 |
 | 700 | [Wires Crossed](https://open.spotify.com/track/0dI23ZVQTJq9wlx8Wm3nre) | [Dom Fera](https://open.spotify.com/artist/2qmjAtWVjMPWHHDdWilU6a) | [Wires Crossed](https://open.spotify.com/album/0wDqCohxL8ao0ilO0XUykz) | 3:02 |
+| 701 | [Poppin Skittles](https://open.spotify.com/track/4DGzhzGdTIpEHDYynp1hzS) | [Madilyn Mei](https://open.spotify.com/artist/3MHgwXo5vVzHqGMKWRoLer) | [Poppin Skittles](https://open.spotify.com/album/6KQg2eWegfyiime59AGe5E) | 2:33 |
+| 702 | [What’s Going On?!](https://open.spotify.com/track/5s7nzC5NOwTo61L1NBGH26) | [Madilyn Mei](https://open.spotify.com/artist/3MHgwXo5vVzHqGMKWRoLer) | [What’s Going On?!](https://open.spotify.com/album/1wQ7VxnsFQC75cuF3k6VtO) | 4:03 |
+| 703 | [The Main Character](https://open.spotify.com/track/2NHntfUPC17b0nmilAWl87) | [Will Wood](https://open.spotify.com/artist/1VQ8riQ31zVHtlxiCC9EZE) | ["In case I make it,"](https://open.spotify.com/album/0O6onBuhBVzHtJb9bk4rOV) | 4:25 |
 
-Snapshot ID: `AAACz0aYdzyyhCDDWdxVfKf4KrPE055P`
+Snapshot ID: `AAAC0kdQ2nJyo2oHld4KTKd5Li88FUMu`

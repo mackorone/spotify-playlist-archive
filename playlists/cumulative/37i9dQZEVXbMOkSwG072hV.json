@@ -5324,7 +5324,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-04",
+      "date_removed": null,
       "duration_ms": 191014,
       "name": "Atabaque do Mal",
       "url": "https://open.spotify.com/track/19PCph3kIvuqnkSDVQKLr8"
@@ -7032,7 +7032,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 195000,
       "name": "Bala",
       "url": "https://open.spotify.com/track/6cuVMT669LLP4AfocnkZMQ"
@@ -8872,7 +8872,7 @@
       ],
       "date_added": "2023-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-12",
+      "date_removed": null,
       "duration_ms": 217160,
       "name": "Better Than Revenge",
       "url": "https://open.spotify.com/track/1By2VQkUN0Frd8mKNV5NYC"
@@ -8890,7 +8890,7 @@
       ],
       "date_added": "2025-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 217173,
       "name": "Better Than Revenge",
       "url": "https://open.spotify.com/track/55mh9j2aB7xZ1Oh463gK8k"
@@ -26345,6 +26345,24 @@
     },
     {
       "album": {
+        "name": "Somos Todos Ful\u00f4 de Mandacaru - Ao Vivo",
+        "url": "https://open.spotify.com/album/0mwsnH8eBHtyNShc3ydd99"
+      },
+      "artists": [
+        {
+          "name": "Ful\u00f4 de Mandacaru",
+          "url": "https://open.spotify.com/artist/4ZXOgn1JEmyKTXan6OXj7h"
+        }
+      ],
+      "date_added": "2025-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104004,
+      "name": "Fogo Sem Fuzil - Ao Vivo",
+      "url": "https://open.spotify.com/track/2jGI0YKeZ2pTvt8Q00esje"
+    },
+    {
+      "album": {
         "name": "Fogo, Terra, Ar - Interestelar",
         "url": "https://open.spotify.com/album/0t7k0DeBlKDthDQ8TqNNFR"
       },
@@ -29332,7 +29350,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-04",
+      "date_removed": null,
       "duration_ms": 88000,
       "name": "Here - Hoodtrap",
       "url": "https://open.spotify.com/track/3TV8Ik12q8dyTYxxmVubC7"
@@ -29350,7 +29368,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 88000,
       "name": "Here - Hoodtrap",
       "url": "https://open.spotify.com/track/5FZ6d4zDp9dEO7psmtGSac"
@@ -32494,7 +32512,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 289313,
       "name": "Jo\u00e3o 20 + pra Sempre - Ao Vivo",
       "url": "https://open.spotify.com/track/1S9fKs0sAdZPlL8ViOARnS"
@@ -66209,6 +66227,32 @@
     },
     {
       "album": {
+        "name": "Teu Preferido",
+        "url": "https://open.spotify.com/album/089I2QRM8Ytp6vn7zzqT7E"
+      },
+      "artists": [
+        {
+          "name": "DJ BRIZY",
+          "url": "https://open.spotify.com/artist/2ILIlhH5IJbgrq6dZa7wei"
+        },
+        {
+          "name": "Mc Rodrigo do CN",
+          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
+        },
+        {
+          "name": "FreesTyle Sounds",
+          "url": "https://open.spotify.com/artist/2220tqsEJ1MrEmNhf7q3MI"
+        }
+      ],
+      "date_added": "2025-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136153,
+      "name": "Teu Preferido",
+      "url": "https://open.spotify.com/track/58d1Gf3p4FWKNnGuq00wXT"
+    },
+    {
+      "album": {
         "name": "COWBOY CARTER",
         "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
       },
@@ -70766,7 +70810,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 144700,
       "name": "Vai Tomar Madeira",
       "url": "https://open.spotify.com/track/13GInxhBytDexl6eobQ6pg"

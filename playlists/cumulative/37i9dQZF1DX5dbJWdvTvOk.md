@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-800 songs - 1 day 10 hr 6 min
+801 songs - 1 day 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,7 +203,7 @@
 | [Drifting Into Dusk](https://open.spotify.com/track/22fbNUersaC8uZBUaHSwv8) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Drifting Into Dusk](https://open.spotify.com/album/6mfgd9Sehm6Xm2WWAx1lIv) | 2:54 | 2025-05-13 |  |
 | [Dripping Ink](https://open.spotify.com/track/7oSRJwhRI80F6aMV33dZ9t) | [Somerset Kent](https://open.spotify.com/artist/4Mh07BnVno64HfPVnpy1aw) | [Dripping Ink](https://open.spotify.com/album/7rxlruoX81Q26EZoVK7sr1) | 1:42 | 2025-01-27 | 2025-04-08 |
 | [Droplets](https://open.spotify.com/track/4jiLmkrPY1FBPrQH4OINHb) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Droplets](https://open.spotify.com/album/3Kwg8RafrMsS05OQSuRRqP) | 3:06 | 2025-02-19 |  |
-| [Droplets](https://open.spotify.com/track/5dqXVZIkN8zzWQTStYGr0i) | [Mino Lawrence](https://open.spotify.com/artist/7HHsz4iMR3pWHCusoe8Yyb) | [Droplets](https://open.spotify.com/album/3hgVEb5uOhSbwPnosbYMZt) | 2:22 | 2023-04-21 |  |
+| [Droplets](https://open.spotify.com/track/5dqXVZIkN8zzWQTStYGr0i) | [Mino Lawrence](https://open.spotify.com/artist/7HHsz4iMR3pWHCusoe8Yyb) | [Droplets](https://open.spotify.com/album/3hgVEb5uOhSbwPnosbYMZt) | 2:22 | 2023-04-21 | 2025-06-05 |
 | [Dubrovnik](https://open.spotify.com/track/6bTvNM2GfDx56jhng3K6Uj) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Dubrovnik](https://open.spotify.com/album/00ofzPCdvfpTcffTPxqoZr) | 2:05 | 2023-05-12 | 2024-10-02 |
 | [Dusk](https://open.spotify.com/track/0dsETyiKlFL83feD6wNHl2) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [Dusk](https://open.spotify.com/album/6alx16iPXm9cGR5w7fuGJj) | 2:34 | 2023-09-29 |  |
 | [Dédalo](https://open.spotify.com/track/4pHPnIjlTG5FSmOB4Boau3) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Dédalo](https://open.spotify.com/album/5726Mmo8ZRu6uis1KCe3KW) | 2:02 | 2023-02-24 | 2023-04-22 |
@@ -664,6 +664,7 @@
 | [Stando Solo](https://open.spotify.com/track/2kPLnIedP1tABSr0zwJwL3) | [Lennox Lorenzo](https://open.spotify.com/artist/6t2AbQr1GudAPoxHZSsOTM) | [Stando Solo](https://open.spotify.com/album/5KXSQosrVZTcDVYf1N78G1) | 2:36 | 2023-04-21 |  |
 | [Steps ahead](https://open.spotify.com/track/38HxNjQa0seDx02w8fEhLM) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Steps ahead](https://open.spotify.com/album/0XJK0qLoz7yt1v6CskH7E0) | 2:49 | 2024-04-19 |  |
 | [Stille Morgen](https://open.spotify.com/track/4pAiNoP7gIY4WcNftHGuHD) | [Gunni Møller](https://open.spotify.com/artist/1W3Msj0w5UgqoO24nOybtE) | [Stille Morgen](https://open.spotify.com/album/6kEivxJRru5Z2n0qTDD4xx) | 2:10 | 2023-04-21 | 2023-10-18 |
+| [Stillness in Bloom](https://open.spotify.com/track/1u3IqBRU3qSgDlBUUnIGwz) | [Enzo Costa](https://open.spotify.com/artist/08bZKTxSPaQAvmzc5YvDAQ) | [Stillness in Bloom](https://open.spotify.com/album/0am2Sx7Xgcjkjn6a2bBqzq) | 2:24 | 2025-06-04 |  |
 | [Stockholm Waltz](https://open.spotify.com/track/4qH4Otl7cbyUjg7kshFzUr) | [Julian Vigil](https://open.spotify.com/artist/37iIAObpTKbDOZ9BjSrmMv) | [Stockholm Waltz](https://open.spotify.com/album/0Vl8Nl9s21QHz3fSk3U623) | 2:20 | 2022-09-16 | 2023-04-22 |
 | [Stolen Moments](https://open.spotify.com/track/1oEq1W6ChwTxUE87Jx9MFG) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Stolen Moments](https://open.spotify.com/album/1VVynhg0E343qOHIlqfULV) | 2:42 | 2023-04-21 | 2024-10-02 |
 | [Stop and Look Around](https://open.spotify.com/track/1BfJtG4eD6TElscodj2YdK) | [Alexas Lucio](https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ) | [Stop and Look Around](https://open.spotify.com/album/6eywL18F7LHmJm5KqCCfdI) | 1:58 | 2024-06-14 | 2025-04-08 |

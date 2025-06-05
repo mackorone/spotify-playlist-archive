@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 
 > ร่วมฉลอง 10 ปี Fresh Finds เพลย์ลิสต์ ฟังผลงานจากศิลปินรุ่นใหม่กัน\. ศิลปิน: Stang Tari\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,931 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,929 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

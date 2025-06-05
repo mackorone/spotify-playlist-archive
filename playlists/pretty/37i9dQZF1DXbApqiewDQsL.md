@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Ivan Orozco
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,763 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,789 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 | 49 | [El Motivo](https://open.spotify.com/track/07AukPkkdJ0zF3xiJR1W9e) | [Fina Lealtad](https://open.spotify.com/artist/1Z2SV0W1NNKxMKZkASOyq4) | [Vuelo Hacia Ti](https://open.spotify.com/album/4n1IVcK68DF49rdtk9rbFc) | 2:27 |
 | 50 | [PAPA](https://open.spotify.com/track/1qC6lXfkDiC1Z0c44VB6PD) | [Eddie Lopez](https://open.spotify.com/artist/78lwxNkpmf48Md5SLVm3ib) | [PAPA](https://open.spotify.com/album/6o7vcr3hyVkGhDAg5cDY6G) | 3:31 |
 
-Snapshot ID: `aDktYwAAAABmwCtRsYOWqUFlJzARolgL`
+Snapshot ID: `AAAAALcYs4Dgnp+/vNUVSwIAfBoGaMRJ`

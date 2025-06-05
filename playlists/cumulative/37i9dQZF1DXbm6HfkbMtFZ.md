@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-634 songs - 1 day 14 hr 6 min
+636 songs - 1 day 14 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,6 +229,7 @@
 | [Hypnosis](https://open.spotify.com/track/3cxqVYtrpDyAC4faMJgB9A) | [Holy Hive](https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw) | [Float Back To You](https://open.spotify.com/album/3QAqLB0l9c1OD2GG2fsW5F) | 3:51 | 2022-07-26 | 2024-03-22 |
 | [I Don't](https://open.spotify.com/track/7Gzm2IS4zLi5W46dudWn7H) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [What Now](https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2) | 3:22 | 2024-03-07 |  |
 | [I Don't Care](https://open.spotify.com/track/2e1j5sMegdfPy1PkE48GmI) | [Final Solution](https://open.spotify.com/artist/1D6tXJA1oytyecOREfZuSj) | [Brotherman: OST by The Final Solution](https://open.spotify.com/album/61yGaQjQVWNtk7NRYndFXf) | 4:17 | 2022-03-30 | 2022-04-18 |
+| [I Don't Really Care for You](https://open.spotify.com/track/38x9U1nlxCblWCmu6g4mPy) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [If My Wife New I'd Be Dead \(Deluxe\)](https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh) | 4:04 | 2025-06-04 |  |
 | [I Don't Wanna Lose](https://open.spotify.com/track/1o3QC3SiP40iupA6hzx4EH) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [I Don't Wanna Lose](https://open.spotify.com/album/1TDcYaDlJPVDJWfNjS8LM9) | 3:20 | 2022-02-23 | 2022-04-28 |
 | [I Got You](https://open.spotify.com/track/58CA5g0ZdqNs8muUjJOOBt) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL) | [I Got You](https://open.spotify.com/album/2JmTTmTc2j0xWYba6DzqsX) | 3:12 | 2025-04-09 |  |
 | [I Just Want To Talk To You](https://open.spotify.com/track/0amEuqSuEc6YSUSQjhs5Wr) | [Charles Brown](https://open.spotify.com/artist/21DZF1qKLhIEpKTNvCA3tg), [Sleepy Creek](https://open.spotify.com/artist/28YkKGShPsq7y6Pf7NKE97) | [Circles](https://open.spotify.com/album/7iRIgmwpX7Qv1QUiCQj7pV) | 3:11 | 2023-04-25 | 2024-06-17 |
@@ -327,6 +328,7 @@
 | [Lost](https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:54 | 2023-06-14 | 2023-08-30 |
 | [Lost In This City](https://open.spotify.com/track/2Z4GLUVtWq0C95WSeJtWIM) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [Westbound EP](https://open.spotify.com/album/7KE6QLulOMXqVsN4XiJvxF) | 4:29 | 2022-03-30 | 2022-04-21 |
 | [Lou's Tune](https://open.spotify.com/track/5crkOzXbUZ5SOSkSat7g4T) | [DARGZ](https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN), [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV) | [Lou's Tune](https://open.spotify.com/album/7qjmrPRpj4ppzd6rQRLj0A) | 1:42 | 2024-04-10 |  |
+| [Love Is A Place](https://open.spotify.com/track/3G1ZLjtCjNC0qusZkWt5or) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U) | [Feel Good](https://open.spotify.com/album/0F74qX4d5E7Qq6vrTb9nrE) | 3:05 | 2025-06-04 |  |
 | [Love Is The Way](https://open.spotify.com/track/1CKfCj9izL24zGTrO6QTFE) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Love Is The Way](https://open.spotify.com/album/63VRCc7KmT6zhL9BiGluQ0) | 2:59 | 2023-04-25 | 2024-04-19 |
 | [Love Is The Way](https://open.spotify.com/track/4Z0aGS1P0KxyPlBpqHpJ0F) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Love Is The Way](https://open.spotify.com/album/1WiszSvpOFgvxk1d0pCFMw) | 2:59 | 2022-12-28 | 2023-04-30 |
 | [Love Survive](https://open.spotify.com/track/34nEzGUaDhG63sgBoql2EL) | [Michael Nau](https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs) | [Love Survive](https://open.spotify.com/album/4FRWa4MJSeId62zVtrYMQw) | 2:48 | 2021-12-16 | 2022-04-21 |
@@ -374,7 +376,7 @@
 | [Na Verdade Não Tá](https://open.spotify.com/track/665AwXHDziganl1HWvAxls) | [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Músicas Para Churrasco \(Vol\. 2\)](https://open.spotify.com/album/56JLHwd02Av3sKJC5qfuOZ) | 2:55 | 2022-03-30 | 2022-04-20 |
 | [Nantucket Island](https://open.spotify.com/track/5Cl0T1nwxwxyMnrAXz9uQB) | [Willie Wright](https://open.spotify.com/artist/3dH7ZRgXMUUsJrhHeDPftx) | [Telling The Truth](https://open.spotify.com/album/7JAl7nvl1tO0xrIZxX8q0w) | 3:42 | 2022-06-21 |  |
 | [Need Your Love](https://open.spotify.com/track/3zYQ1KXzqBWRsxIqdVMoYF) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [Face Your Fear](https://open.spotify.com/album/3Can2qB9S1pOcElpkfExB1) | 2:57 | 2022-03-30 | 2022-10-04 |
-| [Never Go Away](https://open.spotify.com/track/6OMF3MNGK6rGWSnNVEUsJC) | [John Andrews & The Yawns](https://open.spotify.com/artist/7mFbJCyj7A2bykWgBTHZwZ) | [Never Go Away](https://open.spotify.com/album/3Qwykk2n6UzG8KlFuywd2M) | 4:04 | 2025-04-29 |  |
+| [Never Go Away](https://open.spotify.com/track/6OMF3MNGK6rGWSnNVEUsJC) | [John Andrews & The Yawns](https://open.spotify.com/artist/7mFbJCyj7A2bykWgBTHZwZ) | [Never Go Away](https://open.spotify.com/album/3Qwykk2n6UzG8KlFuywd2M) | 4:04 | 2025-04-29 | 2025-06-05 |
 | [New Light](https://open.spotify.com/track/3bH4HzoZZFq8UpZmI2AMgV) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [New Light](https://open.spotify.com/album/5fEgDYFPUcvQy21TYoLEZ0) | 3:36 | 2022-03-30 | 2022-04-21 |
 | [New Light](https://open.spotify.com/track/4T6FWA703h6H7zk1FoSARw) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 3:37 | 2022-07-26 | 2024-04-19 |
 | [New Light](https://open.spotify.com/track/41f8HyuxASzuEcEs01x10O) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Treino Pop 2022](https://open.spotify.com/album/1NeZ6oYVALUuygJwW5zvve) | 3:37 | 2022-11-11 | 2022-11-14 |
@@ -456,7 +458,7 @@
 | [Rolodex](https://open.spotify.com/track/2qTh3LFhX5hlJ47i2bTvHK) | [Jonny Kosmo](https://open.spotify.com/artist/6VyZH1zto2r7gkSYsUUBEx) | [Light Speaks the Quilt](https://open.spotify.com/album/3maM5jsIfu1ALqYLr0Viov) | 2:56 | 2024-12-09 |  |
 | [Rose Pink Cadillac](https://open.spotify.com/track/3YC7FYhduZbYObLRCdhANa) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Rose Pink Cadillac](https://open.spotify.com/album/0JUuId9ZVeNiCk9KGtAUuv) | 4:21 | 2021-12-16 | 2023-11-11 |
 | [Rose Pink Cadillac](https://open.spotify.com/track/5J59tqY0Ad4r27tJJajzyB) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Rose Pink Cadillac](https://open.spotify.com/album/2VaOn32haUapQOYnerK32W) | 4:21 | 2023-09-19 | 2024-04-19 |
-| [run away](https://open.spotify.com/track/5Rhj7fTs9HlJLH9T1iyn2B) | [Yoandri](https://open.spotify.com/artist/7uCNYKOeuyGcoxaP1Y095d) | [run away](https://open.spotify.com/album/4BEaDLxgqqoAvE5xFOs9Iz) | 3:25 | 2025-04-29 |  |
+| [run away](https://open.spotify.com/track/5Rhj7fTs9HlJLH9T1iyn2B) | [Yoandri](https://open.spotify.com/artist/7uCNYKOeuyGcoxaP1Y095d) | [run away](https://open.spotify.com/album/4BEaDLxgqqoAvE5xFOs9Iz) | 3:25 | 2025-04-29 | 2025-06-05 |
 | [Run Your Mouth](https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Run Your Mouth](https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP) | 2:40 | 2024-03-21 | 2025-01-02 |
 | [Runaway](https://open.spotify.com/track/5DbjBx6vF4qXtnbW10H07f) | [Mtbrd](https://open.spotify.com/artist/6vXJ4kIg2HlqsSfX3S1RHV) | [Smoovies](https://open.spotify.com/album/0KbK0uCkZ2i6hwXvA5Ib7N) | 2:44 | 2022-03-30 | 2022-04-20 |
 | [Running Away](https://open.spotify.com/track/0wpjR48SjbwsHxd7CeaRse) | [Joey Dosik](https://open.spotify.com/artist/3kANxNTLNOhxpOPoCbGq9E) | [Game Winner \- EP \(Deluxe Edition\)](https://open.spotify.com/album/3YgyDtXFVN2AVMPZE1GfFV) | 4:31 | 2021-12-16 | 2022-07-29 |

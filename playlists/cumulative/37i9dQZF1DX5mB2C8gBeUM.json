@@ -7623,6 +7623,24 @@
     },
     {
       "album": {
+        "name": "Sippin Country",
+        "url": "https://open.spotify.com/album/4tWkV00ldGSxSwCBrCrvZd"
+      },
+      "artists": [
+        {
+          "name": "Lil Man J",
+          "url": "https://open.spotify.com/artist/5zfsO7xEsAQylcNrIdKm9H"
+        }
+      ],
+      "date_added": "2025-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159622,
+      "name": "Sippin Country",
+      "url": "https://open.spotify.com/track/04uX1QLFvK4AnJTiPsh2Jq"
+    },
+    {
+      "album": {
         "name": "Slow",
         "url": "https://open.spotify.com/album/7FKTfpN6qcqlNqJ46UAUjT"
       },

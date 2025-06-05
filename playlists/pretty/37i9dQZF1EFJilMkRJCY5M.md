@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5MvQUYjD2Ap5Ga6pD5YN9g">Emily Falvey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169 likes - 108 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 169 likes - 109 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 42 | [Side of My Heart](https://open.spotify.com/track/4TyHsq64NdNohtPyV4ZtUD) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Side of My Heart](https://open.spotify.com/album/3RLtuIWyS3J1I7StTvBDBc) | 3:13 |
 | 43 | [Homesick](https://open.spotify.com/track/1xLJqyCa4Soe31BJ5TCReE) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Born in July](https://open.spotify.com/album/3Y22F7f6OISIYwTirf2E6R) | 2:55 |
 | 44 | [I Didn't Love You](https://open.spotify.com/track/0PgPGluNJgg4Tzy9sTmTeq) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [I Didn't Love You](https://open.spotify.com/album/0pdfobBNkrXR21XW204Sws) | 2:59 |
-| 45 | [Numb](https://open.spotify.com/track/17XexdiAjHvTdNj24ayQle) | [Elephants Everywhere](https://open.spotify.com/artist/6BWEZz5zvfJGBjJZhlAWM5), [FOSTER](https://open.spotify.com/artist/4wl3djIA2tCPxv3pH7Rs0M) | [Numb](https://open.spotify.com/album/1MSGqY6VGYPektAZVtGosL) | 3:34 |
-| 46 | [navy blue](https://open.spotify.com/track/1nktLG5wi8D5CyE5Mj7Zq2) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [wear your heart out](https://open.spotify.com/album/4KOM21G440kOOadSRiTeEu) | 3:28 |
+| 45 | [navy blue](https://open.spotify.com/track/1nktLG5wi8D5CyE5Mj7Zq2) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [wear your heart out](https://open.spotify.com/album/4KOM21G440kOOadSRiTeEu) | 3:28 |
+| 46 | [Numb](https://open.spotify.com/track/17XexdiAjHvTdNj24ayQle) | [Elephants Everywhere](https://open.spotify.com/artist/6BWEZz5zvfJGBjJZhlAWM5), [FOSTER](https://open.spotify.com/artist/4wl3djIA2tCPxv3pH7Rs0M) | [Numb](https://open.spotify.com/album/1MSGqY6VGYPektAZVtGosL) | 3:34 |
 | 47 | [That Was All You](https://open.spotify.com/track/4OuDH82pXLHUcrO5prgVNA) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [History of Breaking Up \(Part Two\)](https://open.spotify.com/album/7ovnzMBjDsLZ1y5v1nSURW) | 2:55 |
 | 48 | [Same Team](https://open.spotify.com/track/52MFjMbUfxVJw3N1Ue7aQR) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [Wild Thing](https://open.spotify.com/album/33RnkjYAI2ltETjA3EIAZI) | 2:54 |
 | 49 | [Feel Free](https://open.spotify.com/track/7mQECZHQmEBEdXbpaBZNSH) | [Bandēs](https://open.spotify.com/artist/7vcT2s2G1IlCiIP3OBA8Af), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Feel Free](https://open.spotify.com/album/5UjIjX0L2nzxLJdTl12TD2) | 3:22 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 75 | [Think of You](https://open.spotify.com/track/7Kv6dG9sVPnJuKmCQdrlUs) | [Thimlife](https://open.spotify.com/artist/5hlGugY24gHs0FqG05AgN0), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Think of You](https://open.spotify.com/album/4sdfdyZcABEAT0dm6BjAHa) | 3:25 |
 | 76 | [Unbreakup](https://open.spotify.com/track/6Pc4PWAChVirhXD7v9TBKa) | [Oliver Blank](https://open.spotify.com/artist/2GXTCh27OeQa4ee7fTs1ha), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Unbreakup](https://open.spotify.com/album/3HVVrtcAkV7oArIPGQV0GQ) | 3:44 |
 | 77 | [Evergreen](https://open.spotify.com/track/1lQSetX6AhrCJD2sU7Jfph) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Evergreen](https://open.spotify.com/album/4uMpjZ3LcrGuAB8RuB0eFf) | 2:21 |
-| 78 | [I Don't Wanna Know](https://open.spotify.com/track/6zos5IEbqa0cTuJfb2jOQE) | [Jaycee Grace Connolly](https://open.spotify.com/artist/5rydSiv6N3eXbZYIHAAf5d) | [I Don't Wanna Know](https://open.spotify.com/album/5Een1BOqoOeOKJ5V1QKNsO) | 2:56 |
-| 79 | [American Dream](https://open.spotify.com/track/5ERwxnaMQKOnSPD4Odayg7) | [Jonathan Hutcherson](https://open.spotify.com/artist/1hOBbdBjbeXf3uO1ik4G43) | [American Dream](https://open.spotify.com/album/5AHDW1DFSiGIs6USHhaWJl) | 3:06 |
+| 78 | [American Dream](https://open.spotify.com/track/5ERwxnaMQKOnSPD4Odayg7) | [Jonathan Hutcherson](https://open.spotify.com/artist/1hOBbdBjbeXf3uO1ik4G43) | [American Dream](https://open.spotify.com/album/5AHDW1DFSiGIs6USHhaWJl) | 3:06 |
+| 79 | [I Don't Wanna Know](https://open.spotify.com/track/6zos5IEbqa0cTuJfb2jOQE) | [Jaycee Grace Connolly](https://open.spotify.com/artist/5rydSiv6N3eXbZYIHAAf5d) | [I Don't Wanna Know](https://open.spotify.com/album/5Een1BOqoOeOKJ5V1QKNsO) | 2:56 |
 | 80 | [Getaway](https://open.spotify.com/track/4WXOMShFoM0V05dDSC5dkR) | [Lindsay James](https://open.spotify.com/artist/4cBmS6uvIFgrRQGOCAuNZz) | [Getaway](https://open.spotify.com/album/0hxe8OBCWXDjgCfTCUjm1p) | 3:27 |
 | 81 | [Lemonade](https://open.spotify.com/track/4LZAmygVtCeHBw7YYHGd9y) | [Sarah Allison Turner](https://open.spotify.com/artist/5HKrm4aihaeEPAezAxT24Z) | [Lemonade](https://open.spotify.com/album/4neiwFOPRfS89VoQ0BusHw) | 2:44 |
 | 82 | [LONELY PLACE](https://open.spotify.com/track/4aQ1hgPKHr74xqQUUwAour) | [Josie Dunne](https://open.spotify.com/artist/2KgFtUjEtayfuximKppSAq) | [EPISODE 5: DUMB / LONELY PLACE](https://open.spotify.com/album/63ygNpVZyoKuUoDMdzDDqb) | 1:03 |
@@ -116,5 +116,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 106 | [Close](https://open.spotify.com/track/3lhEsT2z3kVegKaI05Osy5) | [Leslie Powell](https://open.spotify.com/artist/67tylszKgAZkKeJ0hCMyjU) | [Close](https://open.spotify.com/album/5s4eJ8bI2QJTrsd1tVHJet) | 3:14 |
 | 107 | [Love's Contagious](https://open.spotify.com/track/0UjBGfWrjApND3MKR6winT) | [Darby](https://open.spotify.com/artist/151Z1Ly2l0u5Vm4zugwQTT) | [Love's Contagious](https://open.spotify.com/album/6iZ25yelMx8XcA85uW96dR) | 2:19 |
 | 108 | [Are We Still Good](https://open.spotify.com/track/1E4lKGhLeldkoBiocnsptN) | [Forrest Finn](https://open.spotify.com/artist/4CHpwd1pdYUKJaGKbElg3m) | [Spotlight](https://open.spotify.com/album/7uj8AZOnobHVP6GEwGlCj0) | 2:57 |
+| 109 | [Parallel Universe](https://open.spotify.com/track/7Bjeh8lHQZMolHSm4kX2Ie) | [Navyhue](https://open.spotify.com/artist/1ab6W5waGBlE1nmkVtLdX5) | [Parallel Universe](https://open.spotify.com/album/00zC5ot02HOcq5pf9odGIw) | 3:32 |
 
-Snapshot ID: `AbzLngAAAAAq3UdvjckvM3r+f7SPee02`
+Snapshot ID: `AbzRSAAAAABGepphgVh0XuvS2rGLzn/0`

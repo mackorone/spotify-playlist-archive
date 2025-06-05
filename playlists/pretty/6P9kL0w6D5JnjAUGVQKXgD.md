@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6P9kL0w6D5JnjAUGVQKXgD.md) - [plain]
 
 > EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net\. With: Kriss Reeve, Jackson Wang, Galantis, MK
 
-[EDM Charts](https://open.spotify.com/user/edmcharts.net) - 47,278 likes - 100 songs - 5 hr 5 min
+[EDM Charts](https://open.spotify.com/user/edmcharts.net) - 47,273 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,9 +75,9 @@ pretty - [cumulative](/playlists/cumulative/6P9kL0w6D5JnjAUGVQKXgD.md) - [plain]
 | 65 | [Addict](https://open.spotify.com/track/05RC1yOB6HMqq2Q3gQb3Kb) | [Morgan Page](https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b), [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq) | [Addict](https://open.spotify.com/album/5dudS3F8bE4CgRo3PmaLJd) | 2:45 |
 | 66 | [Voices \(feat\. TZAR\)](https://open.spotify.com/track/7aAWrDRy3T52A95bDNfdlO) | [Brooks](https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e), [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Tzar](https://open.spotify.com/artist/6oMBHWDRue76zAGaT8Rxw0) | [Voices \(feat\. TZAR\)](https://open.spotify.com/album/11bZPXUTpZ8RsEpZMZOKKR) | 3:12 |
 | 67 | [Tell It To My Heart](https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Tell It To My Heart](https://open.spotify.com/album/27rVuwJ0g0eKRpnvEhQl3G) | 2:45 |
-| 68 | [Comes Down](https://open.spotify.com/track/2pHphXOJZdc6NWgenTkaXd) | [Avondzy](https://open.spotify.com/artist/6wBne3PTBbY53TRCAnAS5u), [BAF](https://open.spotify.com/artist/1mhpQdXVCnq31AwzgCPxK9) | [Comes Down](https://open.spotify.com/album/207g5xOP3R7qaSVBERdXqP) | 2:21 |
+| 68 | [Rasputin](https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Rasputin](https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd) | 3:06 |
 | 69 | [Comes Down](https://open.spotify.com/track/2pHphXOJZdc6NWgenTkaXd) | [Avondzy](https://open.spotify.com/artist/6wBne3PTBbY53TRCAnAS5u), [BAF](https://open.spotify.com/artist/1mhpQdXVCnq31AwzgCPxK9) | [Comes Down](https://open.spotify.com/album/207g5xOP3R7qaSVBERdXqP) | 2:21 |
-| 70 | [Rasputin](https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Rasputin](https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd) | 3:06 |
+| 70 | [Comes Down](https://open.spotify.com/track/2pHphXOJZdc6NWgenTkaXd) | [Avondzy](https://open.spotify.com/artist/6wBne3PTBbY53TRCAnAS5u), [BAF](https://open.spotify.com/artist/1mhpQdXVCnq31AwzgCPxK9) | [Comes Down](https://open.spotify.com/album/207g5xOP3R7qaSVBERdXqP) | 2:21 |
 | 71 | [Breaking Me](https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Breaking Me](https://open.spotify.com/album/3nBQlhUvErkw8DVpF47WAn) | 2:46 |
 | 72 | [Another Day In Paradise](https://open.spotify.com/track/0HjogmklU56Soh2HNhbWer) | [House Arrest](https://open.spotify.com/artist/5oggarLMIMIMhyOvjzj0a6), [Bikini Bandits](https://open.spotify.com/artist/2UJZu7S4F22tWYZ2CdsJQr), [Lumin8](https://open.spotify.com/artist/6sVfVaXwlrK0MPkrU8EOtp) | [Another Day In Paradise](https://open.spotify.com/album/46qdwgGcHUVjHFvGuq9Ld8) | 2:07 |
 | 73 | [Know Your Worth](https://open.spotify.com/track/0TrPqhAMoaKUFLR7iYDokf) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Know Your Worth](https://open.spotify.com/album/0uLz2ygHQAtLknyGasJOr5) | 3:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/6P9kL0w6D5JnjAUGVQKXgD.md) - [plain]
 | 99 | [More Than Friends](https://open.spotify.com/track/53SnCRcGrB2UCqNGyYZhJD) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [More Than Friends](https://open.spotify.com/album/6A764hvsFQK48oNsYo7q9M) | 2:20 |
 | 100 | [Secrets](https://open.spotify.com/track/66W1rVTnEv86dIkFhoiElg) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Secrets](https://open.spotify.com/album/6AgcNXTAFBxcOFRfxHUtxs) | 2:56 |
 
-Snapshot ID: `AAAH+50Byp64iU3pddV4mAMYUisgtsUc`
+Snapshot ID: `AAAH/OpALD8c/4ebqw3fCsbNFV8fzWXA`

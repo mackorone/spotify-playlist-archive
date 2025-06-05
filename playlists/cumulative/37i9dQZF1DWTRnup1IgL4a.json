@@ -4207,6 +4207,24 @@
     },
     {
       "album": {
+        "name": "Small Things",
+        "url": "https://open.spotify.com/album/5blNaBqiCuNqDouOkRZlzk"
+      },
+      "artists": [
+        {
+          "name": "Julian Rivers",
+          "url": "https://open.spotify.com/artist/6Kz9TTn0UKMFKI4gC9g3Hb"
+        }
+      ],
+      "date_added": "2025-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162374,
+      "name": "Small Things",
+      "url": "https://open.spotify.com/track/5qvMw2Hr3BuphsulOSUU5n"
+    },
+    {
+      "album": {
         "name": "Soft Rain",
         "url": "https://open.spotify.com/album/1wt6ILOvZuZrvbVYb94PXP"
       },

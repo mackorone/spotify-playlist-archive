@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvNG1v6uWvH.md) - [plain]
 
 > Loksins New Music Friday! Ný tónlist frá Birnir, Aron Can, Lorde  og mörgum fleiri!
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,265 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,264 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

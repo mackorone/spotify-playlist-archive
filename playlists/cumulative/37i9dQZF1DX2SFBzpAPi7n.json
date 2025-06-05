@@ -3396,7 +3396,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 167800,
       "name": "Discord",
       "url": "https://open.spotify.com/track/2kTKlEtnGx5z8oi4O06yqC"
@@ -4166,7 +4166,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 300786,
       "name": "Event Horizon",
       "url": "https://open.spotify.com/track/6RBziRcDeiho3iTPdtEeg9"
@@ -14524,7 +14524,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-03",
+      "date_removed": null,
       "duration_ms": 223026,
       "name": "The 6th Summer",
       "url": "https://open.spotify.com/track/1lODrFR40rSNAw5cX4j2J2"
@@ -16432,6 +16432,24 @@
       "duration_ms": 283033,
       "name": "WINDFALL",
       "url": "https://open.spotify.com/track/4vDQif49Q72QYDvv6wY3Jm"
+    },
+    {
+      "album": {
+        "name": "wing",
+        "url": "https://open.spotify.com/album/6spb6NqhJ6knea1WA151WV"
+      },
+      "artists": [
+        {
+          "name": "The Stray",
+          "url": "https://open.spotify.com/artist/7CedIKpt1GTubqlwD149d6"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173026,
+      "name": "wing",
+      "url": "https://open.spotify.com/track/0p4OOOcnvqlAeg4ZC1hpKG"
     },
     {
       "album": {

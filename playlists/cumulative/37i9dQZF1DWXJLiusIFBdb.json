@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/2Zt36TQLYR245njjr3rR0l"
+      },
+      "artists": [
+        {
+          "name": "\u82a6\u7530\u83dc\u540d\u5b50",
+          "url": "https://open.spotify.com/artist/7tbgB78LexnWXuIARLJYg4"
+        }
+      ],
+      "date_added": "2025-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215073,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/6b2KRSiAOIDrGUSgfuv4iP"
+    },
+    {
+      "album": {
         "name": "Fate/Grand Order Original Soundtrack \u2161",
         "url": "https://open.spotify.com/album/1edxRVpijTZyUtXFH3DIUm"
       },

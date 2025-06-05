@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Manusia Aksara
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,860 likes - 100 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,868 likes - 100 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 | 99 | [Rindu](https://open.spotify.com/track/07Pb2bHaD0QnsoEyCggpqE) | [Chrisalia](https://open.spotify.com/artist/53b5B5Gxk2C8JdtmLdcvjg) | [Rindu](https://open.spotify.com/album/5I9GnQQZQvxYrXenQb5fW5) | 4:05 |
 | 100 | [UH! \(ghosted\)](https://open.spotify.com/track/3RGfTflTIJQMDY28yUsfKw) | [Yotari](https://open.spotify.com/artist/2IGbyqqfidUAYqW19slJuR), [Saykoji](https://open.spotify.com/artist/6N981Y5JhkKTEH37pq4ImZ) | [UH! \(ghosted\)](https://open.spotify.com/album/46wz8M1IRfe345WlsIp5IF) | 3:14 |
 
-Snapshot ID: `aDkazQAAAABDNkKoK4nW11U9tE02hUQN`
+Snapshot ID: `aDkazQAAAADQv2zAqYhFe3NY5fRjBjWH`

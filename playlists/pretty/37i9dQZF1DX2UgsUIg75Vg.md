@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chill r&b\. Cover: JayDon
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,382,090 likes - 180 songs - 9 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,381,903 likes - 180 songs - 9 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

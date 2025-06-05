@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tuUiirhaT3.md) - [plain]
 
 > Calm ambient music with gentle nature sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 963,623 likes - 98 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 963,675 likes - 98 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tuUiirhaT3.md) - [plain]
 | 97 | [Curled silence](https://open.spotify.com/track/2UmPertU9XzVjsUOXSdibs) | [Hello Artemisia!](https://open.spotify.com/artist/5A05k3XjnB2j83Vw8Iigx3) | [Curled silence](https://open.spotify.com/album/5qmhHkETswNSnrLhfZQMqG) | 2:50 |
 | 98 | [Flow](https://open.spotify.com/track/24S8iaidseXQRjB95t3P4E) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Flow](https://open.spotify.com/album/7zh4s3MKpQp4Rv878PH9J5) | 4:17 |
 
-Snapshot ID: `aD6tsQAAAAA6FTQWQXN+RUi7ZM10oZR4`
+Snapshot ID: `aD6tsQAAAACgO17eD1KjO/Pj4jBOhuoD`

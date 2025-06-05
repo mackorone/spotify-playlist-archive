@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gPDOAK0Yqv.md) - [plain]
 
 > A hypnotic journey through Melodic Techno\. Photographer: Kevin Mazur via Getty Images
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,471 likes - 125 songs - 8 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,551 likes - 125 songs - 8 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

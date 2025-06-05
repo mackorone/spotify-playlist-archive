@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: kingdmusic & Luma Elpidio
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,125 likes - 99 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,142 likes - 99 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 95 | [Gospel Gyration Praise](https://open.spotify.com/track/5Xlvp9uxsGS05pUoFyqIHF) | [Sini Dagana](https://open.spotify.com/artist/4Qe3zkPW4YTQrde2Ef0dJb) | [Gospel Gyration Praise](https://open.spotify.com/album/6a86EokSQpzN3wluTEnBFB) | 5:55 |
 | 96 | [Help Me](https://open.spotify.com/track/2oxgnhoKOLpHElv1YDObkU) | [ECHO EDGE](https://open.spotify.com/artist/1hlvpNS7MoN7MlfxcxxQ8j), [Zic Music](https://open.spotify.com/artist/4Lhk9QRuOkcVzs140NrOyu), [SOD MUSIQ](https://open.spotify.com/artist/7mnFt3PI9H2cGgHDLROJHY) | [Help Me](https://open.spotify.com/album/1hzM5DtCPW5rRm9p5z48CG) | 3:09 |
 | 97 | [PRAY](https://open.spotify.com/track/54olarKIJgpFzd67yaEKC6) | [Daniel Mylez](https://open.spotify.com/artist/3PoZsBUVUU8Veps0p9dabE), [Egar Boi](https://open.spotify.com/artist/5BgxilmpjhmqEFKqoQnmIV) | [PRAY](https://open.spotify.com/album/76WzGvyauaHgZWJwnJS6j4) | 2:32 |
-| 98 | [Ukhuphila Kwethu](https://open.spotify.com/track/5MQblyyQ4AdnWWZwZI2jvW) | [Reginald Jabu](https://open.spotify.com/artist/7JH7vnM5DFedm2lcpddAj4) | [Ukhuphila Kwethu](https://open.spotify.com/album/7IQECBtOUX5SF0lWG2SVSM) | 10:00 |
+| 98 | [Ukuphila Kwethu](https://open.spotify.com/track/5MQblyyQ4AdnWWZwZI2jvW) | [Reginald Jabu](https://open.spotify.com/artist/7JH7vnM5DFedm2lcpddAj4) | [Ukuphila Kwethu](https://open.spotify.com/album/7IQECBtOUX5SF0lWG2SVSM) | 10:00 |
 | 99 | [Agunechemba Abatago \(Reloaded\)](https://open.spotify.com/track/6KefAs4cR2bYPMwlTPHqzJ) | [Minister Prudence](https://open.spotify.com/artist/1nyFNgSDFMVOez6h1v8Ya5) | [Agunechemba Abatago \(Reloaded\)](https://open.spotify.com/album/6VJPM3BfsCouMet7ChT7zY) | 4:50 |
 
 Snapshot ID: `aDj1WgAAAAArw7HMf8LSY4rY5pM67SSs`

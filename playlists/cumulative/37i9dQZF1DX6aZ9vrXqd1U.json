@@ -1157,6 +1157,24 @@
     },
     {
       "album": {
+        "name": "Event Horizon",
+        "url": "https://open.spotify.com/album/5umDF5oA8I7SOntiv6GKWD"
+      },
+      "artists": [
+        {
+          "name": "Momoiro Clover Z",
+          "url": "https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN"
+        }
+      ],
+      "date_added": "2025-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234633,
+      "name": "Event Horizon",
+      "url": "https://open.spotify.com/track/1hHkOBpuly0rAoFuKWy5CM"
+    },
+    {
+      "album": {
         "name": "Evergreen",
         "url": "https://open.spotify.com/album/3JMe5yYrT8ZPKvfwiI9JAe"
       },

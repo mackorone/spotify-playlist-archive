@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrhFFq3bnGV.md) - [plain]
 
 > Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Societeit de Harmonie, Natasya Elvira
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,477 likes - 88 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,507 likes - 88 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVskFRGurTfg.md) - [plain]
 
 > Éxitos urbanos de Latinoamérica con Young Miko.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,444,904 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,445,263 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVskFRGurTfg.md) - [plain]
 | 5 | [LATINA FOREVA](https://open.spotify.com/track/10MpBpx64MNixmUMNj7f6b) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [LATINA FOREVA](https://open.spotify.com/album/78F52tGWKs5rW8dzJWYjQT) | 2:39 |
 | 6 | [MÁS QUE ALGO](https://open.spotify.com/track/3Ob9NJaBlOGDvndnG6G2PW) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [LO MISMO DE SIEMPRE](https://open.spotify.com/album/3beZ5DRcWVTpXaU3ViLIF6) | 4:02 |
 | 7 | [Te Regalo](https://open.spotify.com/track/2318Aoqig6HS9YkHGlAm8T) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [J Abecia](https://open.spotify.com/artist/2EaASUee9MEeEnMXGwnSOC) | [Te Regalo](https://open.spotify.com/album/0k43xjg0bI0CcNOA1agoxO) | 2:27 |
-| 8 | [Pal de Velitas](https://open.spotify.com/track/6IJyLHfGGkb7oQy3DlLAs5) | [Mark B.](https://open.spotify.com/artist/0zZJhc1T0zBurhnBwQ2fcu), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Pal de Velitas](https://open.spotify.com/album/1GfqbuNz62Jquht7sDp2Yy) | 3:09 |
+| 8 | [Pal de Velitas](https://open.spotify.com/track/6IJyLHfGGkb7oQy3DlLAs5) | [Mark B.](https://open.spotify.com/artist/0zZJhc1T0zBurhnBwQ2fcu), [Alofoke Music](https://open.spotify.com/artist/0UvglCoh34HxaRZP1DWhjY), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Pal de Velitas](https://open.spotify.com/album/1GfqbuNz62Jquht7sDp2Yy) | 3:09 |
 | 9 | [COSAS QUE NO TE DIJE](https://open.spotify.com/track/5xSt1wxZobFcLzHrFakv6z) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [COSAS QUE NO TE DIJE](https://open.spotify.com/album/52te2AyrVAYPc04onR1Lfy) | 3:44 |
 | 10 | [Tus Labios](https://open.spotify.com/track/2TH1PC40oO9mXbLTOUBnJ8) | [Barboza](https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG), [Jheral](https://open.spotify.com/artist/4zsxko6Co1HikDuBTWcm7E) | [Tus Labios](https://open.spotify.com/album/4WDgotfIeCmw83TOWFDwBa) | 2:44 |
 | 11 | [quédate](https://open.spotify.com/track/6VfL3MEuYeJbDlD8m011HR) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [BORONDO](https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4) | 2:56 |

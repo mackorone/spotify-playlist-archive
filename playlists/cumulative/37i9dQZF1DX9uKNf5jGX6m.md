@@ -4,7 +4,7 @@
 
 > New age music for balancing mind and body.
 
-886 songs - 1 day 19 hr 53 min
+889 songs - 1 day 20 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [By Night](https://open.spotify.com/track/3GUcRSX4iicaUG2K2g4bBH) | [Hain Sona](https://open.spotify.com/artist/6Caj9wTooVGTk1edAU4uXD) | [By Night](https://open.spotify.com/album/0XD64OAteO7YJRXdMfnuKb) | 2:44 | 2022-12-14 | 2025-05-08 |
 | [Caelum](https://open.spotify.com/track/3IhzOZvoIivYAzzUEZhIyv) | [Szigeti Aliz](https://open.spotify.com/artist/5MYqSmIAMjoiBp8suHqGaA) | [Caelum](https://open.spotify.com/album/62ccvdP66pR3MYVc4UxjeF) | 3:04 | 2021-12-21 | 2023-01-21 |
 | [Calliope](https://open.spotify.com/track/6eMGauOwocBkrNs1XCyXxN) | [Arlette Leduc](https://open.spotify.com/artist/3LyPSzNbQ3R4cgHZDUP06T) | [Calliope](https://open.spotify.com/album/0mfDJ8H14pyrzKVa0Oe5Zc) | 2:56 | 2022-07-28 | 2023-01-04 |
+| [Calm](https://open.spotify.com/track/05wMNPFJQHvjSy2lqfaEBs) | [Leo Lindholm](https://open.spotify.com/artist/4rkUkNV8IzVS3jRYgPmB8h) | [Calm](https://open.spotify.com/album/5GWMDujpDXBVnw3RIOJ3LF) | 2:56 | 2025-06-04 |  |
 | [Calm Rivers](https://open.spotify.com/track/6KUSRcBYmNADirGQcEZ2gK) | [La Reve](https://open.spotify.com/artist/2ErQOxV30K78vn1Keuop5S) | [Wings of Glass](https://open.spotify.com/album/21e20xZy03LjLjyKeD3URK) | 3:03 | 2021-12-21 | 2022-08-12 |
 | [Calming Down](https://open.spotify.com/track/30kmgRQJxOJM8JmhLCTF33) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Acceptance](https://open.spotify.com/album/5TifGwgK5S9VTApf5z4Qfx) | 3:36 | 2021-12-21 | 2022-07-29 |
 | [Calming Eternity](https://open.spotify.com/track/4HJdSjBogB3I06ObjTQ0MS) | [Celestial Aura](https://open.spotify.com/artist/7LsUHcMzywHjrdzx759ZcV) | [Calming Eternity](https://open.spotify.com/album/7o4w9cfr2M5GOidRJVO1UO) | 2:58 | 2024-06-10 |  |
@@ -225,6 +226,7 @@
 | [Dreaming in Slow Motion](https://open.spotify.com/track/0qKUnciVE4ofI2u0yReMqK) | [Eternalistic](https://open.spotify.com/artist/77efGNIP8xtX0iCb5RCHCG) | [Dreaming in Slow Motion](https://open.spotify.com/album/6tHyV0uyMNpb7zZ2H5SeAL) | 2:32 | 2025-02-26 |  |
 | [Dreamland](https://open.spotify.com/track/4YasydFack9jd9mO9XLalo) | [Buddha’s Sleep](https://open.spotify.com/artist/32JsxZpT1TFmRtCJzr7lg2) | [Dreamland](https://open.spotify.com/album/0GJnbOxhKQcTXWOcue9n8S) | 2:20 | 2022-10-03 | 2023-01-21 |
 | [Dreams in the Wind](https://open.spotify.com/track/4D0uy3JWqfanEiYfYK6lcq) | [Sal Lastra](https://open.spotify.com/artist/3aJYpSuHbjZsn6oONgiBwa) | [Dreams in the Wind](https://open.spotify.com/album/1XoR9Y5odF9JgYgpptubAD) | 3:20 | 2021-12-21 | 2022-09-23 |
+| [Drift Away](https://open.spotify.com/track/5f79zre6pvb8XifuMBG7fk) | [Jack Allenson](https://open.spotify.com/artist/3xmdKBMDTE4t48Il54UmBb) | [Drift Away](https://open.spotify.com/album/3wOFfNETbCuQUJ5fFJGjdk) | 2:33 | 2025-06-04 |  |
 | [Driftwood](https://open.spotify.com/track/5IOSHTjNe5zUAGyfcsHcWy) | [Puddle of Head](https://open.spotify.com/artist/1PKiNVaiRPXCXRF3gqbMqi) | [Driftwood](https://open.spotify.com/album/3DXYDlXzdP8haFrB38a8aO) | 3:06 | 2024-01-26 |  |
 | [Drommenes Verden](https://open.spotify.com/track/3ztpmZj6p47tlck3NVQrV7) | [Casper Bjerke](https://open.spotify.com/artist/2txNKTOHpcXh0tC1wZ2FD4) | [Drommenes Verden](https://open.spotify.com/album/3c79pszHaQH1pCys52fp7j) | 3:19 | 2022-10-15 | 2025-01-08 |
 | [Droplet of Grace](https://open.spotify.com/track/3W2UlaHx93we9YqM1BvjFZ) | [South Noon](https://open.spotify.com/artist/0V4IA3EpmXCk58fcNVYFA6) | [Droplet of Grace](https://open.spotify.com/album/2Fp93WU1JUHpRmtEknRne7) | 3:06 | 2023-08-29 | 2025-03-27 |
@@ -852,6 +854,7 @@
 | [Valley Below](https://open.spotify.com/track/1HLt6MKMbg9TCFwBMBqf7l) | [Sôfur](https://open.spotify.com/artist/4Ooe7DB6fuhAtdr6tXVJfT) | [Valley Below](https://open.spotify.com/album/01W9ohHQbktMJTcthXMuQL) | 3:22 | 2023-06-20 | 2025-05-08 |
 | [Veilless](https://open.spotify.com/track/23y3iLdIBGDsCmZ2W6R7LT) | [Adriana Milou](https://open.spotify.com/artist/1hdDs4wK0nVxEMPc1IXXRb) | [Veilless](https://open.spotify.com/album/5g3U1Y4eqaNcSffpD61Syy) | 2:18 | 2022-05-31 | 2024-09-19 |
 | [Vettvangur](https://open.spotify.com/track/7ofIUuvWCuvoaFvlFYZ81d) | [V3rkefni 1](https://open.spotify.com/artist/5ri9bptYMMNYWNsdGs3g68) | [Vettvangur](https://open.spotify.com/album/1OcfeatynGjmEsWxcbVUoF) | 2:34 | 2022-10-25 | 2024-12-03 |
+| [Viken](https://open.spotify.com/track/76hiEMaK20GMxKFzQc7UbM) | [Lejo](https://open.spotify.com/artist/5AK84Ka91VoQyA1CmwGbAf) | [Viken](https://open.spotify.com/album/5s3owslHvSy1sKLQAea8Xc) | 2:14 | 2025-06-04 |  |
 | [Villa Onieva](https://open.spotify.com/track/3ec9xaaV7mYDlki1e7unJS) | [Two Nighthawks](https://open.spotify.com/artist/2NLqaUdpQiy4muH1ZU8OoA) | [Villa Onieva](https://open.spotify.com/album/4NBR5FA5Mjny5cmtKgreUZ) | 2:58 | 2024-10-24 |  |
 | [Vindur Efni](https://open.spotify.com/track/7MAHynUNLiCEXmJFPfsFZj) | [Astra Sky](https://open.spotify.com/artist/3VpKQ8XUwdGp6vQ5QQ3ZbP) | [Vindur Efni](https://open.spotify.com/album/6t1wbs7UXo2sk3bI90qQ1K) | 2:21 | 2025-05-20 |  |
 | [Vinternatt](https://open.spotify.com/track/1d6EuB0bXkLEucV1U7Scov) | [Iben Haugen](https://open.spotify.com/artist/3l78xKQ87BafNzCaqvHjow) | [Vinternatt](https://open.spotify.com/album/6c8RJY0IdrYktS0c1V8a9U) | 2:38 | 2022-12-14 | 2024-10-25 |

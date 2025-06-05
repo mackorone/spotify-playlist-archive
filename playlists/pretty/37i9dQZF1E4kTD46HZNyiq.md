@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 
 ### [NIGHT TRAVELER Radio](https://open.spotify.com/playlist/37i9dQZF1E4kTD46HZNyiq)
 
-> With The Wild Wind, Rhineland, Laureline and more
+> With Laureline, The Wild Wind, LAVE and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 2,090 likes - 50 songs - 3 hr 15 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 | 49 | [Dissonance](https://open.spotify.com/track/5T6HL1eFT1CG27YQpiNWsQ) | [LAVE](https://open.spotify.com/artist/5MahcP4Ovco9oORrQRaUqp) | [Dissonance](https://open.spotify.com/album/3cEKSeXdmw4sOgRGcSrWWU) | 2:35 |
 | 50 | [Electric Rhythm](https://open.spotify.com/track/7Mg8FYcBYgRZq1CKMuwjwS) | [Township](https://open.spotify.com/artist/2Vs3yC6wp5GVocVYcukOct) | [Electric Rhythm](https://open.spotify.com/album/32GtpXrFWK54RnaKa2l2zT) | 3:48 |
 
-Snapshot ID: `aD+lFQAAAADvOT84T5M09/CfpCeabvj/`
+Snapshot ID: `aEERoQAAAAAGwU7eb0M6ADQol+fB39Hh`

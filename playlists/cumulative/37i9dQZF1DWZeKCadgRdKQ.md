@@ -4,7 +4,7 @@
 
 > Keep calm and focus with ambient electric guitar.
 
-897 songs - 1 day 21 hr 22 min
+900 songs - 1 day 21 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,6 +264,7 @@
 | [Extension](https://open.spotify.com/track/7cpZLMamKPbJnV3hMAof98) | [Oblivion](https://open.spotify.com/artist/5bay23a7lnykOEQWt7FVnQ) | [Extension](https://open.spotify.com/album/5dZ9B7wDetwuHLmxHsEeJS) | 2:30 | 2023-09-22 | 2024-09-03 |
 | [Fading In](https://open.spotify.com/track/6vcxeAeNm3N9KnX1XJ6btV) | [Subtle Realms](https://open.spotify.com/artist/5VmH0IT0jOTTDj41AtVrPs) | [Fading In](https://open.spotify.com/album/3fSfKMTw8fK0YVDhb9Z2CS) | 2:54 | 2025-04-23 |  |
 | [Faint Embers](https://open.spotify.com/track/60hpbKc5us1i3LT8WDtNBc) | [Serene Skies](https://open.spotify.com/artist/3S0qJncVtbLRcrgcVflyY9) | [Faint Embers](https://open.spotify.com/album/393tEHUaGLLtkC5v1ZYmoY) | 2:53 | 2025-05-21 |  |
+| [fall deeply](https://open.spotify.com/track/43SiqHE5XFhQxAwcVOZi6v) | [Harry Bloom](https://open.spotify.com/artist/0nACN1QCrIGr7S2ATgH5ja) | [fall deeply](https://open.spotify.com/album/1svuLX2RUD1PBzLzIVwHj5) | 2:48 | 2025-06-04 |  |
 | [Fallen](https://open.spotify.com/track/5M88pavKSWfH8YEjNHDNP6) | [Elise Magnefold](https://open.spotify.com/artist/6NwzoAF59ghN7JuBvwHVex) | [Rusted Waters](https://open.spotify.com/album/1kG7ooS7ra0bNHkwXCLf3c) | 4:38 | 2019-06-19\* | 2020-08-07 |
 | [Falling Rivers](https://open.spotify.com/track/1Tx1CeHCaOHPvYD25thsRq) | [Yolta](https://open.spotify.com/artist/1FcdysxmyKBfSOyVppN3sw) | [Falling Rivers](https://open.spotify.com/album/6UbSWl0n82pfw3J5TlUI63) | 3:38 | 2021-03-24 | 2024-05-12 |
 | [Fanshawe](https://open.spotify.com/track/3kaRUmBVjpS5pcT6JKB1jE) | [El Ten Eleven](https://open.spotify.com/artist/0d1j4VJ7gzAJaDslzmjTF0) | [El Ten Eleven](https://open.spotify.com/album/1j1FvT4EyX9ZIHKlPnUFRL) | 5:12 | 2019-05-26\* | 2019-06-19 |
@@ -558,6 +559,7 @@
 | [Orion's Belt](https://open.spotify.com/track/2p36nzolzAlLbaFAQiqfPd) | [Lykke Juno](https://open.spotify.com/artist/6cJCpDjNQBjGqBNB453M9J) | [Orion's Belt](https://open.spotify.com/album/5SrmFEQRtxMlegiboE6oX4) | 1:58 | 2023-03-31 | 2023-07-29 |
 | [Oscillation](https://open.spotify.com/track/0rZ0wSyuHnIb5ViR9EDdgH) | [Mimber](https://open.spotify.com/artist/4L3x3vTCpJgWtpD1wd4L01) | [Oscillation](https://open.spotify.com/album/6IMdxAN1dBLS1l0doB7D8y) | 2:23 | 2024-02-13 | 2024-09-03 |
 | [ouma](https://open.spotify.com/track/0WRbfmpoYdrlMRv4BmJcPS) | [Fall Ball](https://open.spotify.com/artist/4fuQaoYKyoJhGu6Vabhrv3) | [ouma](https://open.spotify.com/album/4WrX59hznwV9m58GN5J4EZ) | 2:57 | 2021-12-22 | 2023-11-25 |
+| [Outdoors](https://open.spotify.com/track/5FWfUeYvoKI9PCM6NHf5HS) | [Pete McMurray](https://open.spotify.com/artist/0axEcnxjPL29xOVtOW2RSN) | [Outdoors](https://open.spotify.com/album/0C53oSDfBf1TAOH89CuEWN) | 2:10 | 2025-06-04 |  |
 | [Overnight](https://open.spotify.com/track/4fFWgiplAvOOfHJ5rrvW7x) | [Aksel Rune](https://open.spotify.com/artist/0aHXh9twlvt1B0nI5vpEzA) | [Overnight](https://open.spotify.com/album/1zpBq1Mlz7eUVPHAwxdlL2) | 2:46 | 2024-12-18 |  |
 | [Overture](https://open.spotify.com/track/6Xcbf5km5dY2xqnDctdjMx) | [Lights & Motion](https://open.spotify.com/artist/3ff1CmU6qfTqRAmdrq8EEG) | [Bloom](https://open.spotify.com/album/4N11Xw4rtuswjOeZjqKgay) | 3:17 | 2019-06-19\* | 2022-10-15 |
 | [Pale Lights](https://open.spotify.com/track/12xTeDRkdcJdyCEjQ7FPvk) | [This Patch of Sky](https://open.spotify.com/artist/5SizWbJ5S7KxIR8e07jvqf) | [Pale Lights](https://open.spotify.com/album/170J5TNlVewS7Tr8d3sAWI) | 4:42 | 2019-06-19\* | 2019-06-27 |
@@ -728,6 +730,7 @@
 | [Sunday on my mind](https://open.spotify.com/track/5vAUwAzCryz0XuR6QdGwbk) | [Joy Parade](https://open.spotify.com/artist/4obAvtejwiAj0YW3Q4CH1o) | [Sunday on my mind](https://open.spotify.com/album/2oD0p4xOfR8YrwNN0fFCtd) | 2:04 | 2023-02-17 | 2024-11-22 |
 | [Sunrise](https://open.spotify.com/track/0tgMoWV59lNPjuenr5mqvt) | [Elise Magnefold](https://open.spotify.com/artist/6NwzoAF59ghN7JuBvwHVex) | [Sunrise](https://open.spotify.com/album/7wIxTaDBUvGwrHCMS2Effs) | 2:49 | 2019-06-19\* | 2021-09-14 |
 | [Sunset Lake](https://open.spotify.com/track/2xqU2c2BdHhKpDMHCK8I2f) | [Stellar Luminous](https://open.spotify.com/artist/1dgWSlkCY69O3oTa1u6vKN) | [Sunset Lake](https://open.spotify.com/album/0uvhMpXODkLIPRkRpujnu9) | 2:14 | 2024-07-14 | 2025-04-24 |
+| [Supernova](https://open.spotify.com/track/67tYSmfEqkMp0HZJ0MysNk) | [Louaminé](https://open.spotify.com/artist/6ZuFc28ghG17tRPI8ZNpTF) | [Supernova](https://open.spotify.com/album/0IHvZvxIkwk65WcXi347bU) | 2:23 | 2025-06-04 |  |
 | [Supernovas](https://open.spotify.com/track/60pJo7veaWc8yLHYyFfnB2) | [William Roud](https://open.spotify.com/artist/0KhhuDNDaeL6SOVM6K6Lt1) | [Supernovas](https://open.spotify.com/album/6ue3ZpkjQ2A4IwCgeq4MJR) | 3:02 | 2019-05-26\* | 2020-08-07 |
 | [Suspended Belief](https://open.spotify.com/track/4MpFWA4sVQYVlEsZCWeHU3) | [Amaranth Cove](https://open.spotify.com/artist/1Gt39QnTBTndeyiJ5SO04q) | [Expansion](https://open.spotify.com/album/2mCu9wgBh9IYpDrTwJVnse) | 2:58 | 2019-06-19\* | 2020-10-08 |
 | [Sustainable](https://open.spotify.com/track/4bA8sob1x8iLZJVMbVVetn) | [Gabriel Stone](https://open.spotify.com/artist/2n5cofsnSYMHUF8C9TmIA1) | [Sustainable](https://open.spotify.com/album/10IfJhJYCIexK1MhCKQR3W) | 2:23 | 2025-04-11 |  |

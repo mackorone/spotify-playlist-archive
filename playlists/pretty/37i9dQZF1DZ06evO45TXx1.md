@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45TXx1.md) - [plain]
 
 > This is Mc Luanna\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,982 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,992 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45TXx1.md) - [plain]
 | 49 | [Hino Delas](https://open.spotify.com/track/2k7EbkIovGbJJCWy7OoOgb) | [Cristal](https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [MDN Beatz](https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1) | [Hino Delas](https://open.spotify.com/album/7yZ4A2amuedBlNHRC9ESMd) | 2:19 |
 | 50 | [iPhone 12](https://open.spotify.com/track/0e66BfYoPfihbRJCfIunrR) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Trap de Quebra](https://open.spotify.com/album/1HMjNCSWltt5Iz3VTr2Oa0) | 2:47 |
 
-Snapshot ID: `aDzpgAAAAACojTC0zZ1OYQCGgmJCQxWr`
+Snapshot ID: `aD47AAAAAABdpCUj4i+Vc8Yj7Z6WFdzL`

@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Trouble At The Henhouse",
+        "url": "https://open.spotify.com/album/5mMBYPBUI6jHW40ASk1ekn"
+      },
+      "artists": [
+        {
+          "name": "The Tragically Hip",
+          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        }
+      ],
+      "date_added": "2025-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223133,
+      "name": "Ahead By A Century",
+      "url": "https://open.spotify.com/track/2SVEOxPGB8Z8WikO4DppNA"
+    },
+    {
+      "album": {
         "name": "...Somewhere More Familiar",
         "url": "https://open.spotify.com/album/2lHGAzINLOdD0505xdjpyZ"
       },
@@ -655,6 +673,24 @@
     },
     {
       "album": {
+        "name": "Living Under June",
+        "url": "https://open.spotify.com/album/4459ANZzMiQV2nvpH8lc6O"
+      },
+      "artists": [
+        {
+          "name": "Jann Arden",
+          "url": "https://open.spotify.com/artist/1aftUCES5zD5xXI7O9ZF9F"
+        }
+      ],
+      "date_added": "2025-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255893,
+      "name": "Insensitive",
+      "url": "https://open.spotify.com/track/0yx00RNuvZY5Vn8nlpUnMk"
+    },
+    {
+      "album": {
         "name": "Tragic Kingdom",
         "url": "https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8"
       },
@@ -706,6 +742,24 @@
       "duration_ms": 213266,
       "name": "Let's Talk About Sex",
       "url": "https://open.spotify.com/track/6hTBP6QLwJdxbKyLlLXrGo"
+    },
+    {
+      "album": {
+        "name": "Mad Mad World",
+        "url": "https://open.spotify.com/album/5mJYFwj51OpBqRSxZCBLTT"
+      },
+      "artists": [
+        {
+          "name": "Tom Cochrane",
+          "url": "https://open.spotify.com/artist/5Jj4mqGYiplyowPLKkJLHt"
+        }
+      ],
+      "date_added": "2025-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266560,
+      "name": "Life Is A Highway",
+      "url": "https://open.spotify.com/track/0hKF8N8aflF1uDzEEnPr2j"
     },
     {
       "album": {
@@ -1092,7 +1146,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 211466,
       "name": "Steal My Sunshine - Single Version",
       "url": "https://open.spotify.com/track/5Muvh0ooAJkSgBylFyI3su"
@@ -1110,7 +1164,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 267293,
       "name": "Step by Step",
       "url": "https://open.spotify.com/track/6J6RWKCPN5RFKHUKEUFjxS"
@@ -1482,7 +1536,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 245200,
       "name": "You Gotta Be",
       "url": "https://open.spotify.com/track/6CU0zWIWVTEnmWpSjVHM93"

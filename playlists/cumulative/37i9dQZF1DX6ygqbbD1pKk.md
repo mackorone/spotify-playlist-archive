@@ -4,7 +4,7 @@
 
 > Todos tus éxitos favoritos de Disney\. Lilo & Stitch, Moana 2, Encanto y mucho más!
 
-145 songs - 7 hr 23 min
+146 songs - 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Parte de él](https://open.spotify.com/track/1DJICuMsoD3ZmhWTOPydKr) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ), [Isela Sotelo](https://open.spotify.com/artist/5pfjnWnr2y2f72qbIG2tfO), [J.A.C\. Redford](https://open.spotify.com/artist/12SZOUcX7wqG0xugqIu4HH) | [La Sirenita \(Banda Sonora Original en Español\)](https://open.spotify.com/album/64at2CIfC4MgtN5u0HNkVw) | 3:15 | 2024-04-30 |  |
 | [Parte de él](https://open.spotify.com/track/7DEIeEbkqRxINlC1S9a9dx) | [Yatzil Aguirre](https://open.spotify.com/artist/4VY7dLY79eX2M52UWV7583) | [La Sirenita \(Banda Sonora Original en Español/Edición Deluxe\)](https://open.spotify.com/album/4JMFuXaUW3P9P3l324vCoG) | 3:34 | 2023-09-15 |  |
 | [Príncipe Alí](https://open.spotify.com/track/4deFjaHvIsvW4WtKuxxvdN) | [Rubén Trujillo](https://open.spotify.com/artist/6KT2TYbf3hbyQsye7cpqOV) | [Aladdín \(Edición Especial/Banda Sonora Original en Español\)](https://open.spotify.com/album/4Aq9s6WnRz26dN0SYEueJk) | 2:51 | 2023-09-15 |  |
+| [Quiero ser tu amigo \- De "Elio"](https://open.spotify.com/track/43LLsp1QqLLTNyqf3ornst) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [Quiero ser tu amigo \(De "Elio"\)](https://open.spotify.com/album/320KFLnpIoDsUswaa2VnOu) | 2:26 | 2025-06-04 |  |
 | [Real Gone](https://open.spotify.com/track/45dGKmN6jw7PgK6Dw2rEp2) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Cars \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Xiz5kq12VOzTw9Kun7m0f) | 3:20 | 2024-04-30 |  |
 | [Recuérdame](https://open.spotify.com/track/3f3eX1P1jcRAmnBggOCRo3) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Coco \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5) | 2:43 | 2023-09-15 |  |
 | [Recuérdame \(Reencuentro\)](https://open.spotify.com/track/2xTHxR4fJHIesUAc3MC0oD) | [Luis Ángel Gómez Jaramillo](https://open.spotify.com/artist/6UaKHgRNaUxQfQD67gzgc5), [Rocío Garcel](https://open.spotify.com/artist/2R4SiTDQBbsEJ9TRP8UAZy) | [Coco \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5) | 1:13 | 2024-04-30 |  |

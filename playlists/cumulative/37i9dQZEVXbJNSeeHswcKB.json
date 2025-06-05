@@ -1305,6 +1305,24 @@
     },
     {
       "album": {
+        "name": "MHD",
+        "url": "https://open.spotify.com/album/7qPBQAVq0CscTtNmCTIzYE"
+      },
+      "artists": [
+        {
+          "name": "MHD",
+          "url": "https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV"
+        }
+      ],
+      "date_added": "2025-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137133,
+      "name": "Afro Trap Pt. 3 (Champions League)",
+      "url": "https://open.spotify.com/track/0D0np8Odu1PNamKfajA6AX"
+    },
+    {
+      "album": {
         "name": "Afterglow",
         "url": "https://open.spotify.com/album/5bb2Sf8jps2DTyI2urMThV"
       },
@@ -1850,7 +1868,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 205714,
       "name": "Als Het Avond Is",
       "url": "https://open.spotify.com/track/1MWpdDDf3Yk0w6o4oviMFY"
@@ -9252,7 +9270,7 @@
       ],
       "date_added": "2024-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-22",
+      "date_removed": null,
       "duration_ms": 178401,
       "name": "Dolce Camara",
       "url": "https://open.spotify.com/track/15vGti1ooNZFlDUdlLukX6"
@@ -11380,7 +11398,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 171386,
       "name": "Fibonacci",
       "url": "https://open.spotify.com/track/5xt3hz2g92uvp1WLHVtD2o"
@@ -25326,7 +25344,7 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 173538,
       "name": "Piano",
       "url": "https://open.spotify.com/track/6xOiC7SgWCFsipcM69jIDO"
@@ -29530,7 +29548,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-04",
+      "date_removed": null,
       "duration_ms": 165978,
       "name": "SOIS PAS TIMIDE",
       "url": "https://open.spotify.com/track/1sccu8ze6ETRiNbNH9pj5N"

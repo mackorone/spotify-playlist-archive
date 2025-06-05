@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 
 > Det bästa från svensk & internationell pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,664 likes - 118 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,660 likes - 118 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [känna det igen](https://open.spotify.com/track/2IzwU2LnVFlCGl7IHtYNJk) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [känna det igen](https://open.spotify.com/album/5vzCIN20OYgpflQNSH9566) | 3:08 |
 | 2 | [Lys på mig](https://open.spotify.com/track/3kbNesyQPnUreP6bD7aADS) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Lys på mig](https://open.spotify.com/album/3WzL7EQg84unvvF8q3Cq5M) | 2:39 |
-| 3 | [Swedish Girl](https://open.spotify.com/track/4KDxyRMRBTmjZ7sgfqJrPg) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [Swedish Girl](https://open.spotify.com/album/2HQ34fRPNtVvWJjXo101Yo) | 2:33 |
-| 4 | [Konfetti](https://open.spotify.com/track/57ilwMdNXbsbVaP8GtfEIB) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY), [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Konfetti](https://open.spotify.com/album/4aWHBRPvgHpM39DUrvCMTR) | 3:14 |
+| 3 | [Konfetti](https://open.spotify.com/track/57ilwMdNXbsbVaP8GtfEIB) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY), [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Konfetti](https://open.spotify.com/album/4aWHBRPvgHpM39DUrvCMTR) | 3:14 |
+| 4 | [Swedish Girl](https://open.spotify.com/track/4KDxyRMRBTmjZ7sgfqJrPg) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [Swedish Girl](https://open.spotify.com/album/2HQ34fRPNtVvWJjXo101Yo) | 2:33 |
 | 5 | [Hej där mitt hjärta](https://open.spotify.com/track/1oBZzUV7j9zivts8gfZXNR) | [Ida\-Lova](https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO) | [Hej där mitt hjärta](https://open.spotify.com/album/1ttH6BHuYoqCiOzn84Sb9p) | 3:21 |
 | 6 | [Konstig](https://open.spotify.com/track/78IoQCso4Czg6mL2Lis59F) | [Oskar Linnros](https://open.spotify.com/artist/3E8Mx37sikkaFoX5DRecLi) | [Konstig](https://open.spotify.com/album/6Y5EpVWxV6Fn3vEEAdNKNQ) | 3:00 |
 | 7 | [FaceTime](https://open.spotify.com/track/61E9a3TY4BNTBOuTa5jqJK) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Okej att dö](https://open.spotify.com/album/2N6zGSJKBKGOLMUwxnwx2B) | 2:24 |
-| 8 | [cliché](https://open.spotify.com/track/3aD33slymVwdEcdbKUBnDu) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [cliché](https://open.spotify.com/album/2zCyRKoQozz3iTdTi3o8mi) | 2:56 |
-| 9 | [Lovin Myself](https://open.spotify.com/track/2ttIodvY52FYgod5qrcQHN) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Lovin Myself](https://open.spotify.com/album/5vWfr5gSeCbqFwutBK7sDp) | 2:56 |
-| 10 | [Sommarkatt](https://open.spotify.com/track/57AHVmaxTYWoBBB5CFr9Ts) | [Lov1](https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK) | [Sommarkatt](https://open.spotify.com/album/17jcApM4Eibe8do5pJTNCD) | 3:28 |
-| 11 | [Tusen spänn](https://open.spotify.com/track/01RdEXps15f3VmQMV6OuTM) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp), [Fanny Avonne](https://open.spotify.com/artist/3TwYZ3UPAb6MI7e1dkbiF8) | [Tusen spänn](https://open.spotify.com/album/65IQow1xXrvDc5j1H0DJiL) | 3:10 |
-| 12 | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY) | 2:22 |
+| 8 | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY) | 2:22 |
+| 9 | [cliché](https://open.spotify.com/track/3aD33slymVwdEcdbKUBnDu) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [cliché](https://open.spotify.com/album/2zCyRKoQozz3iTdTi3o8mi) | 2:56 |
+| 10 | [Lovin Myself](https://open.spotify.com/track/2ttIodvY52FYgod5qrcQHN) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Lovin Myself](https://open.spotify.com/album/5vWfr5gSeCbqFwutBK7sDp) | 2:56 |
+| 11 | [Sommarkatt](https://open.spotify.com/track/57AHVmaxTYWoBBB5CFr9Ts) | [Lov1](https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK) | [Sommarkatt](https://open.spotify.com/album/17jcApM4Eibe8do5pJTNCD) | 3:28 |
+| 12 | [Tusen spänn](https://open.spotify.com/track/01RdEXps15f3VmQMV6OuTM) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp), [Fanny Avonne](https://open.spotify.com/artist/3TwYZ3UPAb6MI7e1dkbiF8) | [Tusen spänn](https://open.spotify.com/album/65IQow1xXrvDc5j1H0DJiL) | 3:10 |
 | 13 | [Suddiga tankar](https://open.spotify.com/track/4WUgzuDPuG37Fcm8sx0hdU) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Suddiga tankar](https://open.spotify.com/album/51iXYtZyNGHWc9HXx9vZjR) | 3:28 |
 | 14 | [Easy Lover](https://open.spotify.com/track/2OBzYCYMNsD6yhBZZSs0xg) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Something Beautiful](https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ) | 3:06 |
 | 15 | [BALENCIAGA COVERED EYES](https://open.spotify.com/track/3KokqGsGKwLNjHxLbRIBQt) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [BALENCIAGA COVERED EYES](https://open.spotify.com/album/65keRrrRODi48zyrWoS949) | 4:05 |
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 | 117 | [Lose Yourself](https://open.spotify.com/track/5ROQZz09NH2V9uMA3nrTiK) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Lose Yourself](https://open.spotify.com/album/0IXM5PRVeRZEFC43V1FurB) | 2:54 |
 | 118 | [Moln & Sommarregn](https://open.spotify.com/track/18q6GQAd9VK6IRzz6xofKN) | [Vince Wavy](https://open.spotify.com/artist/1SqKGJizWclJMBj6HETaTW) | [Moln & Sommarregn](https://open.spotify.com/album/67TZQ41vEtrLZbxWzzG9vT) | 3:07 |
 
-Snapshot ID: `aD1kbgAAAABBji1Vs8KylDSG2qP+Sawc`
+Snapshot ID: `aEBAKgAAAACRpcKqbaNAD2w7LOBV/nxi`

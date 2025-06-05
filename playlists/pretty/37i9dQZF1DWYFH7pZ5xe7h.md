@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFH7pZ5xe7h.md) - [plain]
 
 > Enter a world of stunning melodies and absolutely enormous hammers; this is the music of Mahler.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,968 likes - 70 songs - 13 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,975 likes - 70 songs - 13 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

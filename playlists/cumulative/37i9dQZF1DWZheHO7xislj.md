@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZheHO7xislj.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZheHO7xislj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZheHO7xislj)
 
-### [Romantic Dinner](https://open.spotify.com/playlist/37i9dQZF1DWZheHO7xislj)
+### [Soul Dinner](https://open.spotify.com/playlist/37i9dQZF1DWZheHO7xislj)
 
-> Selection of soul music for the perfect romantic dinner.
+> Selection of soul music for the perfect dinner.
 
 490 songs - 1 day 7 hr 36 min
 

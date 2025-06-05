@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4aluxi.md) - [plain]
 
 > This is Amy Grant\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,469 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,470 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,18 +45,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4aluxi.md) - [plain]
 | 35 | [Lead Me On](https://open.spotify.com/track/0viCxBdQvd5WE4M1lXzv7u) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Lead Me On](https://open.spotify.com/album/7ETJhSThtcyCrQg4CuZfrX) | 5:36 |
 | 36 | [Raining On The Inside](https://open.spotify.com/track/5bZJhaDjmiyd3mmorGRRGS) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Age To Age](https://open.spotify.com/album/4VMXOQ84AZcpGJNwbkWD53) | 4:12 |
 | 37 | [Power In The Blood](https://open.spotify.com/track/1qpejsyCvpyZAtkg8J3r8q) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Be Still And Know..\. Hymns & Faith](https://open.spotify.com/album/10qWQHGVyXvQf8FQNQRkZu) | 3:51 |
-| 38 | [Doubly Good To You \- Remastered](https://open.spotify.com/track/0d7Vaa81BKaaFNh0loZLKT) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Straight Ahead \(Remastered\)](https://open.spotify.com/album/1WPeYTE7GEqRzDNyRQQj28) | 3:14 |
-| 39 | [A Woman](https://open.spotify.com/track/6hCJLBQi1UmxvryFRZgwHu) | [FAITHFUL](https://open.spotify.com/artist/5v6CYScuXE6A8BGVp5bRqW), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es), [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [FAITHFUL: Go and Speak](https://open.spotify.com/album/0mm5FD6nio4NSm9YMa0Vum) | 5:20 |
+| 38 | [A Woman](https://open.spotify.com/track/6hCJLBQi1UmxvryFRZgwHu) | [FAITHFUL](https://open.spotify.com/artist/5v6CYScuXE6A8BGVp5bRqW), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es), [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [FAITHFUL: Go and Speak](https://open.spotify.com/album/0mm5FD6nio4NSm9YMa0Vum) | 5:20 |
+| 39 | [Doubly Good To You \- Remastered](https://open.spotify.com/track/0d7Vaa81BKaaFNh0loZLKT) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Straight Ahead \(Remastered\)](https://open.spotify.com/album/1WPeYTE7GEqRzDNyRQQj28) | 3:14 |
 | 40 | [Arms Of Love](https://open.spotify.com/track/3cOpBTr6c4c6k0GyGT4xm0) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Age To Age](https://open.spotify.com/album/4VMXOQ84AZcpGJNwbkWD53) | 3:23 |
 | 41 | [My Jesus, I Love Thee](https://open.spotify.com/track/5tDeg3UaEMAN8duYwTPiXW) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Legacy...Hymns & Faith](https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs) | 3:34 |
-| 42 | [These are the Days \(feat\. Amy Grant\)](https://open.spotify.com/track/0e2r8Zr2AwxTMynkTMCkMg) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [These Are The Days](https://open.spotify.com/album/63QBet7zgxhRlR5B8iWob7) | 4:50 |
-| 43 | [Father's Eyes](https://open.spotify.com/track/39dCwla9fnPt3RQHjwPQ5s) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [My Father's Eyes](https://open.spotify.com/album/7EJzRX6PB2SySpeD4wdb6S) | 4:06 |
-| 44 | [Lucky One](https://open.spotify.com/track/7dcTSq2HC4kzvcWFcSfJy1) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [House Of Love \(Remastered\)](https://open.spotify.com/album/3zGpXofO95slQYAQqeBYnb) | 4:09 |
-| 45 | [Stay For A While](https://open.spotify.com/track/5kKdMpS0kUxrMqLzgQvPTr) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [The Collection](https://open.spotify.com/album/5cG6J4bVB9pqCMnnHkxLYi) | 5:35 |
-| 46 | [Faithful \(feat\. Amy Grant\)](https://open.spotify.com/track/2i8MZLqzbsXXHlPx3AFT66) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [No Matter What](https://open.spotify.com/album/2xTLCFPgsnkscDd73jfq2V) | 3:50 |
+| 42 | [Faithful \(feat\. Amy Grant\)](https://open.spotify.com/track/2i8MZLqzbsXXHlPx3AFT66) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [No Matter What](https://open.spotify.com/album/2xTLCFPgsnkscDd73jfq2V) | 3:50 |
+| 43 | [Lucky One](https://open.spotify.com/track/7dcTSq2HC4kzvcWFcSfJy1) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [House Of Love \(Remastered\)](https://open.spotify.com/album/3zGpXofO95slQYAQqeBYnb) | 4:09 |
+| 44 | [Stay For A While](https://open.spotify.com/track/5kKdMpS0kUxrMqLzgQvPTr) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [The Collection](https://open.spotify.com/album/5cG6J4bVB9pqCMnnHkxLYi) | 5:35 |
+| 45 | [Father's Eyes](https://open.spotify.com/track/39dCwla9fnPt3RQHjwPQ5s) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [My Father's Eyes](https://open.spotify.com/album/7EJzRX6PB2SySpeD4wdb6S) | 4:06 |
+| 46 | [These are the Days \(feat\. Amy Grant\)](https://open.spotify.com/track/0e2r8Zr2AwxTMynkTMCkMg) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [These Are The Days](https://open.spotify.com/album/63QBet7zgxhRlR5B8iWob7) | 4:50 |
 | 47 | [Could I Have This Dance](https://open.spotify.com/track/0eXpvoN6ReEXq8jAMDOxxD) | [Anne Murray](https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Duets: Friends & Legends](https://open.spotify.com/album/6BaLWbrpawEf3ZqO9xgtWd) | 3:18 |
 | 48 | [Be Still And Know](https://open.spotify.com/track/3WD7NRVmvnoNwVf3NtufTc) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Be Still And Know..\. Hymns & Faith](https://open.spotify.com/album/10qWQHGVyXvQf8FQNQRkZu) | 3:53 |
-| 49 | [Softly And Tenderly](https://open.spotify.com/track/29kWfrWp7XaxcEHK1VNeV1) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Legacy...Hymns & Faith](https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs) | 4:03 |
-| 50 | [All I Ever Have To Be](https://open.spotify.com/track/2DIfq3gn9mHzWwvP1UIxNn) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Never Alone \(Remastered\)](https://open.spotify.com/album/1zlf9fxadKTjVlWLrg1bYT) | 2:36 |
+| 49 | [Everywhere I Go](https://open.spotify.com/track/5k9C1AK3bLo4igQ29fh1L4) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Unguarded](https://open.spotify.com/album/3ahs2R10w4vhfnbfZ92pDp) | 4:35 |
+| 50 | [Softly And Tenderly](https://open.spotify.com/track/29kWfrWp7XaxcEHK1VNeV1) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Legacy...Hymns & Faith](https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs) | 4:03 |
 
-Snapshot ID: `aDzpgAAAAADfQbkgT+CTa24x3ogY0ALy`
+Snapshot ID: `aD47AAAAAACsDtpdjgnr1u7gisMGb4Op`

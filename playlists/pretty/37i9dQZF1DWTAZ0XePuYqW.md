@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAZ0XePuYqW.md) - [plain]
 
 > MOLIY's got that big energy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,348 likes - 70 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,377 likes - 70 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAZ0XePuYqW.md) - [plain]
 | 12 | [Push Up](https://open.spotify.com/track/6CqfT2mBl9VLQhtqoyhOOh) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Push Up](https://open.spotify.com/album/6PvoR8c8d5WymGZdY4roxw) | 2:42 |
 | 13 | [dirty luv \(i like it\)](https://open.spotify.com/track/38xo9GzCrivAa2bYLTri4r) | [Pat Lok](https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh), [F\-MACK](https://open.spotify.com/artist/5HsVRV401ljXRVxZAXA0L5) | [dirty luv \(i like it\)](https://open.spotify.com/album/4HbNoLfXR2R33eeWutludN) | 2:58 |
 | 14 | [Illegal](https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:29 |
-| 15 | [Manía](https://open.spotify.com/track/79aIchpmJXJPDx9J68r3Hg) | [Pangaea](https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE), [Jazz Alonso](https://open.spotify.com/artist/2ghMQoYAKLMNHs896hl93k) | [Manía](https://open.spotify.com/album/6Q7DhlfnFSV2LM4J2hvHMy) | 2:51 |
+| 15 | [Manía](https://open.spotify.com/track/79aIchpmJXJPDx9J68r3Hg) | [Pangaea](https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE), [Jazz Alonso](https://open.spotify.com/artist/7eSY3eOVSH5SLYU0BV9sCY) | [Manía](https://open.spotify.com/album/6Q7DhlfnFSV2LM4J2hvHMy) | 2:51 |
 | 16 | [Vacay](https://open.spotify.com/track/2Z94scAOu1QPc9JBy4x44S) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Vacay](https://open.spotify.com/album/6g4FBDcga66XtqlchM1alX) | 2:22 |
 | 17 | [Devotion](https://open.spotify.com/track/3BM5hoJ168Kh4hYEhiNxwK) | [Lance Savali](https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd) | [Devotion](https://open.spotify.com/album/47IOO7TrIL82e6P2d809N9) | 2:16 |
 | 18 | [X\-Rated](https://open.spotify.com/track/2vFabIc6h3F6GiZCsxq8zw) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Funkdoobiest](https://open.spotify.com/artist/0pbj7bsLCiQ5f8P9mFnuPN) | [X\-Rated](https://open.spotify.com/album/64a4S0L82vMJcOppgnYxmo) | 3:04 |
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAZ0XePuYqW.md) - [plain]
 | 23 | [PIECE OF ME](https://open.spotify.com/track/2RegJ8Fl86Oo9UF8lT7Mrc) | [Mel Pacifico](https://open.spotify.com/artist/6PcQSmloJGR0tXTz74MHGx), [Pell](https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi) | [PIECE OF ME](https://open.spotify.com/album/5GFU5hTcCgaQk2DWlYc5Db) | 4:07 |
 | 24 | [Back Back](https://open.spotify.com/track/4SemgzO11NrBjAeO7lxj8N) | [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Set The Tone](https://open.spotify.com/album/1R2kDXi7J13y9NMUGYiQVm) | 2:01 |
 | 25 | [NEW JAZZ SCHMELL](https://open.spotify.com/track/7ykuqDu99KoMR4rrIMYjo4) | [HiTech](https://open.spotify.com/artist/2Au9zIICTEr0oeV1iQrJ6X) | [HONEYPAQQ Vol\. 1](https://open.spotify.com/album/39a65YwPV02rR2sHpA9qe6) | 2:32 |
-| 26 | [METATRON](https://open.spotify.com/track/0kaDuqfiEeUGa9SYKHEEmI) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [METATRON](https://open.spotify.com/album/55L4dwxaTZIwY0bRk4nFzn) | 2:43 |
+| 26 | [METATRON \- feat\. Lola Moxom](https://open.spotify.com/track/0kaDuqfiEeUGa9SYKHEEmI) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ), [Lola Moxom](https://open.spotify.com/artist/108GZkpexhWFatGlQTbb1g) | [METATRON \(feat\. Lola Moxom\)](https://open.spotify.com/album/55L4dwxaTZIwY0bRk4nFzn) | 2:43 |
 | 27 | [Fake ID \(Coke & Rum Remix\)](https://open.spotify.com/track/2VuzBUB5V9AlpniCUhaszP) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3), [GEE LEE](https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5) | [Fake ID \(Coke & Rum Remix\)](https://open.spotify.com/album/33UfArB1wqUntTPUbsFmUD) | 2:06 |
 | 28 | [One One Time](https://open.spotify.com/track/1FeAGhoYss8MkCih7wNd0I) | [IDRIS](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [KCee](https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG) | [One One Time](https://open.spotify.com/album/6CZs48MveP2X8GlqoKJm2j) | 3:04 |
 | 29 | [Pipe Down](https://open.spotify.com/track/2HMQKE6g3NRdP7CcJxAA8x) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [Pipe Down](https://open.spotify.com/album/2lyag7Tml8AyBbzm84ftCQ) | 2:59 |

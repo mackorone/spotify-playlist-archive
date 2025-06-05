@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1m0d2h.md) - [plain]
 
 > This is Sleep Token\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,239 likes - 36 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,392 likes - 36 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1m0d2h.md) - [plain]
 | 19 | [Aqua Regia](https://open.spotify.com/track/5ub6Cb5yKmgGGwjvqZM1gI) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Take Me Back To Eden](https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY) | 3:56 |
 | 20 | [Mine](https://open.spotify.com/track/3mkxroy1t6J9HGywwjjE5a) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [This Place Will Become Your Tomb](https://open.spotify.com/album/4SD2UxRO9OgeSCQK0PN7cC) | 4:56 |
 | 21 | [Sugar](https://open.spotify.com/track/6kxSspYgCP6DmpLwqmrZ3O) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Sundowning](https://open.spotify.com/album/5XWsBMTe4JPtH4qmvYUm86) | 4:52 |
-| 22 | [Provider](https://open.spotify.com/track/7JVAVLkkhpKOp8g4jX5Z12) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Even In Arcadia](https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj) | 6:05 |
+| 22 | [Damocles](https://open.spotify.com/track/3enIFKYJKSVyjXVzmup28I) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Even In Arcadia](https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj) | 4:24 |
 | 23 | [Chokehold](https://open.spotify.com/track/1Uifdytv882RtTn6Gr4xAA) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Take Me Back To Eden](https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY) | 5:04 |
 | 24 | [Fall For Me](https://open.spotify.com/track/3UwtS13MeMT2Nu2rRwa50I) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [This Place Will Become Your Tomb](https://open.spotify.com/album/4SD2UxRO9OgeSCQK0PN7cC) | 2:26 |
 | 25 | [Nazareth](https://open.spotify.com/track/2S53xe3CB5RgDELKeU97g0) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Two](https://open.spotify.com/album/0uJFMTUwVP3tunKmWC8INs) | 5:36 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1m0d2h.md) - [plain]
 | 35 | [Shelter \- from the room below](https://open.spotify.com/track/4UgjE3JRXh1Y4xHU6DAvzL) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Sundowning \(Deluxe\)](https://open.spotify.com/album/21XQQZZq1cO45mJ2U3vVdp) | 3:12 |
 | 36 | [When the Bough Breaks](https://open.spotify.com/track/4By7rlsQO5KBN9vWgSPHBa) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [One](https://open.spotify.com/album/6NJfEwMs0sdtxoDQyAo3jv) | 7:35 |
 
-Snapshot ID: `aDzpgAAAAADT5s0YJ+6hftgfKFsFY2bj`
+Snapshot ID: `aD47AAAAAADmMsL+I7L4Tc/jtdYDW8bR`

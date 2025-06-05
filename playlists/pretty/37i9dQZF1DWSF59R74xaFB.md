@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSF59R74xaFB.md) - [plain]
 
 > El amor no se escucha, se siente...
 
-[Spotify](https://open.spotify.com/user/spotify) - 544,313 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 544,348 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSF59R74xaFB.md) - [plain]
 | 6 | [Mamá](https://open.spotify.com/track/5DCCCNDhkcw1k3VMBN9zrx) | [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn), [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A) | [Mamá](https://open.spotify.com/album/02Vg0bEN68tF5ySg2T6H0I) | 3:22 |
 | 7 | [Donde Quiero Estar](https://open.spotify.com/track/5XYl7VCCuwDP6ZCeBBI3KH) | [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay), [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [ARENBI](https://open.spotify.com/album/6T3L1YGecsCqOvXA5W1ML9) | 4:35 |
 | 8 | [¿Quién Lo Hará?](https://open.spotify.com/track/6cA1CHqfjoGUo232kJtjMC) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [¿Quién Lo Hará?](https://open.spotify.com/album/2R49ZJBfLIOSUEolXRoO6n) | 3:18 |
-| 9 | [Si Tuviera Que Elegir](https://open.spotify.com/track/2i9seTIiIfd2kmFztBKDnT) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/4T8maF6dwMACedvUiU4X56) | [Si Tuviera Que Elegir](https://open.spotify.com/album/5yHkUAMz02bkq7P2R6Ne59) | 4:20 |
+| 9 | [Si Tuviera Que Elegir](https://open.spotify.com/track/2i9seTIiIfd2kmFztBKDnT) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Si Tuviera Que Elegir](https://open.spotify.com/album/5yHkUAMz02bkq7P2R6Ne59) | 4:20 |
 | 10 | [En Otra Vida](https://open.spotify.com/track/0EhmTBq33eARyOz3SIi4P2) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [En Otra Vida](https://open.spotify.com/album/2YB2eziTKgn9bnRz7prmoP) | 2:33 |
 | 11 | [Hasta la Raíz](https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 3:41 |
 | 12 | [pijama.](https://open.spotify.com/track/3oCKpnwoT4g9adu3O1yyZ3) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [Au](https://open.spotify.com/album/68gJgiFvFFokWUzezIIiQt) | 2:38 |

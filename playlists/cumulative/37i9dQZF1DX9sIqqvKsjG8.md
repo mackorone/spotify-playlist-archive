@@ -4,7 +4,7 @@
 
 > Soft and contemplative piano music to help you focus and chill.
 
-947 songs - 1 day 16 hr 29 min
+949 songs - 1 day 16 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Beaux rêves](https://open.spotify.com/track/0VHi3PLzP7SMwqkGnKxi1y) | [Eagle Lake](https://open.spotify.com/artist/4vOO570FcsEOodJuMh98EP) | [Beaux rêves](https://open.spotify.com/album/5v24BnULMZWMJ7aJLtXvEb) | 2:13 | 2022-02-01 | 2023-09-23 |
 | [Because I Miss You](https://open.spotify.com/track/6AMskZ3bXPZ68yRaqL6MeL) | [Emíl Miati](https://open.spotify.com/artist/48EpjmQVDjsx1pW9eil7dr) | [Because I Miss You](https://open.spotify.com/album/1H6OzMtSDUQi95GR4TEdPo) | 2:25 | 2021-12-07 | 2022-10-14 |
 | [Beck](https://open.spotify.com/track/2gx4U9R8v4vZBcxKIV8oLz) | [JF Pierre](https://open.spotify.com/artist/0F6Qj5Fha0HvLddRfhbZ5E) | [Le Pommier](https://open.spotify.com/album/57cKftLAQQTrYafu75bPwO) | 2:17 | 2023-01-09 | 2024-12-12 |
+| [Before Sunset](https://open.spotify.com/track/26licdts7EZ9dLaKd8NNh4) | [Rudy Bloom](https://open.spotify.com/artist/6kw1TTFYSs8rMUKWOm7kTI) | [Before Sunset](https://open.spotify.com/album/27HI1XKXwpZWZSRIDXKTHe) | 2:11 | 2025-06-04 |  |
 | [Before You Leave](https://open.spotify.com/track/5r4tOJk4xR3J4SQS52GO4l) | [Henriette Fleich](https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi) | [Before You Leave](https://open.spotify.com/album/59XlugrAgS9ZEQ8UsZ5zPd) | 2:08 | 2024-02-27 | 2025-05-17 |
 | [Bellevue](https://open.spotify.com/track/40z1F06SK2TWTrozGft2vp) | [Leyland Rogers](https://open.spotify.com/artist/6P5vbqhRX2ZrMmFLQHZ3Mr) | [Bellevue](https://open.spotify.com/album/3PY8KrpMXFaTfy2hhYBXJk) | 2:00 | 2021-12-07 | 2022-11-12 |
 | [Belonging](https://open.spotify.com/track/6RQo40Vh1f5NCn14I04Kpp) | [Felix Møller](https://open.spotify.com/artist/07DAhsZBe6MWpQkiSJHdLL) | [Belonging](https://open.spotify.com/album/4xFCnNBnu0rDejXyJa6P89) | 3:38 | 2022-06-07 | 2022-09-24 |
@@ -718,6 +719,7 @@
 | [Solace](https://open.spotify.com/track/0c3pAQGKjwHKo9ilC8i8c5) | [Armando Bauer](https://open.spotify.com/artist/1pIK8qkorRfrjvr4Idrm9W) | [Solace](https://open.spotify.com/album/5ECVYCYDwCfXed8eeJuIIj) | 1:57 | 2022-05-05 | 2023-07-26 |
 | [Solemn Resolve](https://open.spotify.com/track/1wDBNwgv9WWqJIdZ6bIv8Z) | [Simon Vouet](https://open.spotify.com/artist/4lj4RXgWmv0T5xx561yT1b) | [Solemn Resolve](https://open.spotify.com/album/2AC4nZdkODSXUiQAX8UbIM) | 2:18 | 2022-02-01 | 2023-03-21 |
 | [Solitude](https://open.spotify.com/track/6KwukSNprvd825Fk56LQ4k) | [Jerome Louis](https://open.spotify.com/artist/0PZxdzq1JhF2EQDjtvO5uJ) | [Solitude](https://open.spotify.com/album/3f5HapuwApFeaFvATqJGfN) | 2:29 | 2024-04-22 |  |
+| [solitude](https://open.spotify.com/track/6I5VqsFIZMoDtW4Fi3V7tH) | [reinë](https://open.spotify.com/artist/4KMRoxw1UPjNsfY53yIfYR) | [solitude](https://open.spotify.com/album/5o9hDc5y1jfM2NH07QVoWl) | 2:31 | 2025-06-04 |  |
 | [Something \(Nothing\)](https://open.spotify.com/track/5pgQi74y4bGoT3bYFKZagk) | [Christopher Dicker](https://open.spotify.com/artist/3WrvWolT9GYQzCudBunNu3) | [Ephemera](https://open.spotify.com/album/7r69JJ8k1o0wwjV16KczHZ) | 2:38 | 2021-12-07 | 2023-01-27 |
 | [Something Like Love](https://open.spotify.com/track/1SHZMSLi7z0lNlo6ljl0PC) | [James Keer](https://open.spotify.com/artist/2IJ2zbVdi2aR2DAM8boOE8) | [Something Like Love](https://open.spotify.com/album/5TF7WCLi2ysXIp8m88L2Nr) | 2:42 | 2021-12-07 | 2022-01-05 |
 | [Sonata](https://open.spotify.com/track/4GlviVjDNvQruNqzTwcYai) | [Madelene Olsson](https://open.spotify.com/artist/32zdWfzzE8XBuoOPEzJcS3) | [Sonata](https://open.spotify.com/album/0wWUeek23P7AXtX4syYrC0) | 4:23 | 2023-09-11 | 2025-05-17 |

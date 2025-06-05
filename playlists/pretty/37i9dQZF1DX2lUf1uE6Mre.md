@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lUf1uE6Mre.md) - [plain]
 
 > Die Playlist zur Wasserpfeife\. Cover: SHABAB
 
-[Spotify](https://open.spotify.com/user/spotify) - 915,162 likes - 80 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 915,154 likes - 80 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

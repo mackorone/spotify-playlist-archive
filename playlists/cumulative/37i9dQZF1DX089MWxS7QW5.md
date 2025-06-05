@@ -2,7 +2,7 @@
 
 ### [K\-R&B Now](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Jang Soo Bin\(장수빈\)\)
+> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: youz\)
 
 531 songs - 1 day 4 hr 44 min
 

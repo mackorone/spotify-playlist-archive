@@ -4,7 +4,7 @@
 
 > Relax to some gentle percussion from all corners of the globe.
 
-144 songs - 8 hr 29 min
+145 songs - 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Shooting Star](https://open.spotify.com/track/7gguitGiTNaDg2NFKBEkRC) | [Suntam](https://open.spotify.com/artist/102ZisJTB3o3NFyOaDMXGP) | [Shooting Star](https://open.spotify.com/album/0JiBMAYQroXPn8YykRcQBo) | 2:15 | 2025-03-18 |  |
 | [Slow Pace Papa](https://open.spotify.com/track/78ReLTBbzeqosiozbRwDkG) | [Southside Beatsters](https://open.spotify.com/artist/3TYCmQgTFXUbE460KfTlYe) | [Brewin' Afro Beats](https://open.spotify.com/album/0kET8NvmV0lCfGhFFfG1Wn) | 3:08 | 2022-05-19 |  |
 | [Slumber Lands](https://open.spotify.com/track/2B2wYizsFdlMUr8CP69ab2) | [Erastox](https://open.spotify.com/artist/3zPEKgYbraip77EsVefCbd) | [Slumber Lands](https://open.spotify.com/album/7HsSck718XGQAJyvvPLacT) | 3:04 | 2025-02-05 |  |
+| [Solitude Conscience](https://open.spotify.com/track/0pRtAfGhXjMop0RGbx4M2W) | [Mandala Dreams](https://open.spotify.com/artist/3i1TDsrVS40yt81IHvWkg1) | [Solitude Conscience](https://open.spotify.com/album/1mRnmAvDa3CqDMiAlwVdyP) | 2:37 | 2025-06-04 |  |
 | [Song of the Morning](https://open.spotify.com/track/4fqfpPg6umah8ZSgCJtXtT) | [Jeremy Arndt](https://open.spotify.com/artist/7KZzcubMLbaEJMPIHw9Q1T) | [Journeys: Handpan Solo](https://open.spotify.com/album/32VPq59sHG028ot4awVMUW) | 3:56 | 2022-05-19 |  |
 | [Sparrow Song](https://open.spotify.com/track/1aVJxI2dZXD6TQ3zHVIDhl) | [Stone Steps](https://open.spotify.com/artist/4FDTSH6593ZrweLvsonjQ5) | [Sparrow Song](https://open.spotify.com/album/2KSKfnP1uoUSJOLlS1uWTx) | 2:06 | 2024-03-05 |  |
 | [Spirit Glow](https://open.spotify.com/track/572nNmnWtvn1ON7C6XkuCW) | [SoulPan](https://open.spotify.com/artist/55TPaWQiFcIRFc6bAAWiO5) | [Spirit Glow](https://open.spotify.com/album/7a6x1SFiLRKuUuI6kPncSX) | 2:09 | 2025-05-16 |  |

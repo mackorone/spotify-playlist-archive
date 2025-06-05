@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4D8xyoXUDhng.md) - [plain]
 
 > With Sunday Service Choir, Commissioned, Tasha Page\-Lockhart and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 245 likes - 50 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 246 likes - 50 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4D8xyoXUDhng.md) - [plain]
 | 49 | [I Belong Here](https://open.spotify.com/track/22tu08CfFWq1nkJiOBp0xa) | [Rudy Currence](https://open.spotify.com/artist/1XjkqiNiTkbF2FOEDMNqC8) | [Stained Glass Windows](https://open.spotify.com/album/1q710a6wLm18GHUA1eAMRb) | 4:33 |
 | 50 | [This Is How I'm Telling It Now](https://open.spotify.com/track/2V657fsNLpR0Fg6jafgJPA) | [Mikael Karlsson](https://open.spotify.com/artist/1XNtgBboL5YQGHqM8zFFDx), [Callie Day](https://open.spotify.com/artist/7rq2boa3cUriEls0PJedCH) | [Play \(Original Soundtrack\)](https://open.spotify.com/album/50ke6e7oCuoIAxcHFjuDXz) | 6:41 |
 
-Snapshot ID: `aD++QwAAAACXcWHtJ6upsUjgt3i83tHY`
+Snapshot ID: `aEERoAAAAAA2Mm1/vPIeqxabbwfHsMaI`

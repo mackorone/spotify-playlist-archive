@@ -4,7 +4,7 @@
 
 > Concéntrate al máximo, sin distracciones.
 
-726 songs - 1 day 6 hr 49 min
+729 songs - 1 day 6 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Boulangerie](https://open.spotify.com/track/2r91I9ptlPt7l5AesfBngD) | [Sebastian Henson](https://open.spotify.com/artist/2R3cJyoHQFK2fiXvH6k1q1) | [Afterglow](https://open.spotify.com/album/0jSbpFdSEs1ZvWUIB38RsJ) | 2:47 | 2022-06-07 | 2024-05-08 |
 | [Bridge to Nowhere](https://open.spotify.com/track/1A6rVJJddqf7ct6FnK6cHE) | [Novum Cordis](https://open.spotify.com/artist/3iSbAtzrrSEaZlc16jeS9d) | [Bridge to Nowhere](https://open.spotify.com/album/75eFUsF34geJ4j4CiPD5Jt) | 2:51 | 2022-06-07 | 2022-09-24 |
 | [Broken River](https://open.spotify.com/track/2sxEgzrFsAjBq0Yf3PBIfI) | [Lama House](https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ) | [The Great Migration](https://open.spotify.com/album/0fqDjNTc077SL0JcMAjKvF) | 2:55 | 2022-06-07 | 2023-04-12 |
+| [Brûlante](https://open.spotify.com/track/1odAiMcVPK2ICByCZ47Uxk) | [Lucien Vallière](https://open.spotify.com/artist/4JmBqZlqb5nwbJYRYe4l5G) | [Brûlante](https://open.spotify.com/album/61xylbaTzrl6BCKITSXEFN) | 2:24 | 2025-06-04 |  |
 | [Bulles à facettes](https://open.spotify.com/track/6cPE6jra0BmU8kLzgeUZbb) | [Jordane Tumarinson](https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw) | [Bulles à facettes](https://open.spotify.com/album/3bvtiUyD3XAR3lL04QKuib) | 3:13 | 2022-06-07 | 2022-07-20 |
 | [Caliesa](https://open.spotify.com/track/4Lj9Ap737rbqtH2Zd6skxa) | [Max Sauer](https://open.spotify.com/artist/6CoTGSKTkd6yzRDg8TKdPy) | [Caliesa](https://open.spotify.com/album/1b1nYVqpwxtu5GpoOeEW7k) | 2:52 | 2022-06-07 | 2022-09-15 |
 | [Calm and Free](https://open.spotify.com/track/6CpfrXki7I0NzaMIoE740P) | [Henriette Wieder](https://open.spotify.com/artist/7GWPvFRZCifzgsgILH13s0) | [Calm and Free](https://open.spotify.com/album/6lsQoXThAFoOrdSPGvenzI) | 2:27 | 2024-05-07 | 2025-04-26 |
@@ -250,6 +251,7 @@
 | [Hilma](https://open.spotify.com/track/7vcKDlb5hV7vWJUhIVcX5W) | [Dirk van Arnhem](https://open.spotify.com/artist/40yZwvRyg1OUOAonHfozfM) | [Hilma](https://open.spotify.com/album/1ZfQb0993HOLiF53xHOURB) | 2:38 | 2022-06-07 | 2023-03-26 |
 | [Hindsight](https://open.spotify.com/track/0k8MgafLdbRrQaqPbklNtN) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Hindsight](https://open.spotify.com/album/6kioGbNjNtqk7fmhcDBleD) | 1:50 | 2022-06-07 | 2023-07-25 |
 | [Hiraeth](https://open.spotify.com/track/7Bu7bhBR0ZzJYV6rXy2WBE) | [Friedrich Hahn](https://open.spotify.com/artist/6RTZD5u0Respn5hQRVBB1C) | [Hiraeth](https://open.spotify.com/album/0X7oAZw91zTDeDYBo8csfR) | 2:27 | 2024-12-04 |  |
+| [Hivon](https://open.spotify.com/track/4R5hrJSecDyvtD80GZLAGs) | [Xaverius Love](https://open.spotify.com/artist/614WSOcC6h559Do1UR6k97) | [Hivon](https://open.spotify.com/album/23jcFelRsPzQYacsgJ2HDI) | 2:42 | 2025-06-04 |  |
 | [Homage](https://open.spotify.com/track/5imJAvlEBQf9OWjogd3VEm) | [Inside Lands](https://open.spotify.com/artist/7fQumDmow1qrPuRXqMHUa7) | [Homage](https://open.spotify.com/album/0U0hTrIvfgJCB59rb8sApb) | 2:43 | 2022-06-07 | 2023-10-05 |
 | [Hope Remains](https://open.spotify.com/track/5MNa6Zx5BvwO1YeXxb0W04) | [Noomi Meerbach](https://open.spotify.com/artist/2xKGduzNgzli3Ei0q1ofUh) | [Hope Remains](https://open.spotify.com/album/5qWrilEui29XPFmyE9Agqk) | 2:49 | 2025-03-21 |  |
 | [House of the Rising Sun](https://open.spotify.com/track/6exjuFon5neQuOyrqVoBgQ) | [Lars Florence](https://open.spotify.com/artist/4ruYri05LUlpHAX2k9Pyo2) | [House of the Rising Sun](https://open.spotify.com/album/3SAkKz7Km8eVzgnKk1bsPW) | 2:18 | 2024-11-12 | 2025-04-10 |
@@ -562,6 +564,7 @@
 | [Solace](https://open.spotify.com/track/0c3pAQGKjwHKo9ilC8i8c5) | [Armando Bauer](https://open.spotify.com/artist/1pIK8qkorRfrjvr4Idrm9W) | [Solace](https://open.spotify.com/album/5ECVYCYDwCfXed8eeJuIIj) | 1:57 | 2022-06-07 | 2022-09-15 |
 | [Solemn Resolve](https://open.spotify.com/track/1wDBNwgv9WWqJIdZ6bIv8Z) | [Simon Vouet](https://open.spotify.com/artist/4lj4RXgWmv0T5xx561yT1b) | [Solemn Resolve](https://open.spotify.com/album/2AC4nZdkODSXUiQAX8UbIM) | 2:18 | 2022-06-07 | 2025-04-26 |
 | [Solitude](https://open.spotify.com/track/1zFkdQz9JTr02jBEekVp8e) | [Barry Hudson\-Taylor](https://open.spotify.com/artist/3MuhX7tuEdOUvsOGg7ui02) | [Solitude](https://open.spotify.com/album/60GqHa76MYi3AKen22bzVe) | 3:22 | 2022-06-07 | 2024-11-20 |
+| [solitude](https://open.spotify.com/track/6I5VqsFIZMoDtW4Fi3V7tH) | [reinë](https://open.spotify.com/artist/4KMRoxw1UPjNsfY53yIfYR) | [solitude](https://open.spotify.com/album/5o9hDc5y1jfM2NH07QVoWl) | 2:31 | 2025-06-04 |  |
 | [Something Like Love](https://open.spotify.com/track/1SHZMSLi7z0lNlo6ljl0PC) | [James Keer](https://open.spotify.com/artist/2IJ2zbVdi2aR2DAM8boOE8) | [Something Like Love](https://open.spotify.com/album/5TF7WCLi2ysXIp8m88L2Nr) | 2:42 | 2022-06-07 | 2024-02-06 |
 | [Somewhere](https://open.spotify.com/track/1xR0V8wNOmGjNd9L6lo7wM) | [Elijah Reeves](https://open.spotify.com/artist/70bBmVAlNo8W2qGhWp1mR8) | [Somewhere](https://open.spotify.com/album/6OqeW7XaGyyQvz6BHGNeL7) | 3:05 | 2023-07-04 |  |
 | [somewhere else, together](https://open.spotify.com/track/4Pl37bufUvxJOhLJIfLCcl) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [somewhere else, together](https://open.spotify.com/album/1qLrUd6oXUZoNGZAVY8mDX) | 3:09 | 2023-11-28 |  |

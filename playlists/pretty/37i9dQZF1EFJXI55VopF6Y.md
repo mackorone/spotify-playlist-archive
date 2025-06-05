@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJXI55VopF6Y.md) - [plain]
 | 7 | [My Man](https://open.spotify.com/track/4tK0GeX97WbX4jgf1EIGOL) | [Mnelia](https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec) | [My Man](https://open.spotify.com/album/6WVs3cfYvBdZVRYqZjfNmg) | 2:07 |
 | 8 | [Bad Thing](https://open.spotify.com/track/4iQz6o1dEA3dZY81d3DiJm) | [Jesy Nelson](https://open.spotify.com/artist/73KwqWuob0R53I14Vs56p9) | [Bad Thing](https://open.spotify.com/album/0QY0A6aKhw0f2D1RfpCYk7) | 3:33 |
 | 9 | [CLOUD 9](https://open.spotify.com/track/1EV5az9KISodiYS8CmfRY0) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [Levent Geiger](https://open.spotify.com/artist/7JSBgXyCDzX24iZCHJofIG) | [CLOUD 9](https://open.spotify.com/album/0KyciVZWjNOZkzvFpnHqb5) | 2:22 |
-| 10 | [Another Broken Heart](https://open.spotify.com/track/7MGEno7KAP4QgcBMGZzusR) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [HARD](https://open.spotify.com/album/3b1SWPjpkf4jEDtnNQdfu4) | 2:47 |
-| 11 | [Konfetti](https://open.spotify.com/track/57ilwMdNXbsbVaP8GtfEIB) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY), [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Konfetti](https://open.spotify.com/album/4aWHBRPvgHpM39DUrvCMTR) | 3:14 |
+| 10 | [Konfetti](https://open.spotify.com/track/57ilwMdNXbsbVaP8GtfEIB) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY), [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Konfetti](https://open.spotify.com/album/4aWHBRPvgHpM39DUrvCMTR) | 3:14 |
+| 11 | [Another Broken Heart](https://open.spotify.com/track/7MGEno7KAP4QgcBMGZzusR) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [HARD](https://open.spotify.com/album/3b1SWPjpkf4jEDtnNQdfu4) | 2:47 |
 | 12 | [Whatever](https://open.spotify.com/track/1tgFUm1rKdUFzqelAe3NE3) | [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [Accidentally On Purpose \- The 2nd Mini Album](https://open.spotify.com/album/70RduzYb3gbtmVs88CpAHV) | 3:05 |
 | 13 | [Downtown](https://open.spotify.com/track/1FkXVtAp8pkRwJC5dDluGS) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Downtown](https://open.spotify.com/album/3PCZx0TcwxK6iT409tDUn8) | 2:11 |
 | 14 | [Anticipate](https://open.spotify.com/track/0MnN06Sz5ImI6yL0TLMB0n) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [No Hard Feelings](https://open.spotify.com/album/2RSNvfNgodiGerFWq3ETci) | 2:22 |
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJXI55VopF6Y.md) - [plain]
 | 33 | [Homesick](https://open.spotify.com/track/3bi38Ij1hlTBjp62XipZr6) | [Victor Franco](https://open.spotify.com/artist/5sNbaOCPAZXHDCWobWHYWv), [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Self Portrait](https://open.spotify.com/album/3anhy2RLYZnslzRhyjy0Ep) | 2:41 |
 | 34 | [Too Much](https://open.spotify.com/track/1dqav7nwo6Y7Vpx1ypHCOA) | [Victor Franco](https://open.spotify.com/artist/5sNbaOCPAZXHDCWobWHYWv), [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [Self Portrait](https://open.spotify.com/album/3anhy2RLYZnslzRhyjy0Ep) | 3:06 |
 
-Snapshot ID: `AbzLlAAAAABh+vD3ezEAYoTflIqDBuer`
+Snapshot ID: `AbzRSAAAAAA4tmO+kstYRBloYsPhv6eH`

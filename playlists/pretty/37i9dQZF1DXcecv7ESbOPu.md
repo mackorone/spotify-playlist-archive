@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Oskar Linnros, Lorde, Sarettii och Victor Leksell med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,159 likes - 97 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,160 likes - 97 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 55 | [Where Did You Go? \- Bonus Track](https://open.spotify.com/track/6vLs1SrgbJkCclbn1Hqhyd) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WITHERED](https://open.spotify.com/album/2uPr7JseOfZGpsefGTaxLB) | 3:02 |
 | 56 | [Alle vil til himmelen](https://open.spotify.com/track/2HrQbrT7N3VcV3PmZIy9Wq) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td), [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Alle vil til himmelen](https://open.spotify.com/album/4vzLkPviZltNi8oI7F6e2Z) | 2:25 |
 | 57 | [Work Hard Not Smart](https://open.spotify.com/track/726YgtTmavsRQcSQ1jy2Zh) | [Salvatore Ganacci](https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F) | [Work Hard Not Smart](https://open.spotify.com/album/2dQYYKaBfO97Wqy1m2VMJ7) | 2:24 |
-| 58 | [Superhero \(feat\. Isak Heim\)](https://open.spotify.com/track/3gJxcvGTCtBngxYsgP7XQT) | [Rat City](https://open.spotify.com/artist/6VSMAVF00xwG8Adoqnbqy6), [Isak Heim](https://open.spotify.com/artist/3noOJBzljbPMoifF6wY12v) | [Superhero \(feat\. Isak Heim\)](https://open.spotify.com/album/2CMvDS3QKvYghNwzfWbAJL) | 3:03 |
+| 58 | [Superhero](https://open.spotify.com/track/3gJxcvGTCtBngxYsgP7XQT) | [Rat City](https://open.spotify.com/artist/6VSMAVF00xwG8Adoqnbqy6), [Isak Heim](https://open.spotify.com/artist/3noOJBzljbPMoifF6wY12v) | [Superhero](https://open.spotify.com/album/2CMvDS3QKvYghNwzfWbAJL) | 3:03 |
 | 59 | [Waste my time](https://open.spotify.com/track/4xCLq4cUWXD5FZS7sRImSL) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Waste my time](https://open.spotify.com/album/3VsSZzexEbHqQu1hfDrpEY) | 4:28 |
 | 60 | [KOMPLICERAD](https://open.spotify.com/track/3kFX0nbRMNndsrOvADE6or) | [yoChris](https://open.spotify.com/artist/6zGzgzbLgfqpV9dxw1iyno), [Kayen](https://open.spotify.com/artist/3ntW47aiIFFvi4glmmP8a1) | [KOMPLICERAD](https://open.spotify.com/album/6dd0onLCsChb0wSaLzleVB) | 2:16 |
 | 61 | [On & On](https://open.spotify.com/track/67KLoprszFAPHd933JNswt) | [Deso](https://open.spotify.com/artist/1U3mO1k6m4lSlusDwdNOZZ) | [On & On](https://open.spotify.com/album/2u3nKfUz0wqvgJD1PiMWSw) | 2:01 |

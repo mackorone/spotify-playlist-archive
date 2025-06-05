@@ -1197,6 +1197,24 @@
     },
     {
       "album": {
+        "name": "Hivon",
+        "url": "https://open.spotify.com/album/23jcFelRsPzQYacsgJ2HDI"
+      },
+      "artists": [
+        {
+          "name": "Xaverius Love",
+          "url": "https://open.spotify.com/artist/614WSOcC6h559Do1UR6k97"
+        }
+      ],
+      "date_added": "2025-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162430,
+      "name": "Hivon",
+      "url": "https://open.spotify.com/track/4R5hrJSecDyvtD80GZLAGs"
+    },
+    {
+      "album": {
         "name": "Holding Hands",
         "url": "https://open.spotify.com/album/3sMHlbyicRDFi4n57C0HTc"
       },

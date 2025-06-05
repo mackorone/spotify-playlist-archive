@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > Salmo in cover della playlist urban più grande in Italia 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,012,622 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,012,683 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 49 | [Fuorilegge \(feat\. Sayf\)](https://open.spotify.com/track/04BOFFqWdb2oxhYYJdCM11) | [Disme](https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p), [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB) | [Fuorilegge \(feat\. Sayf\)](https://open.spotify.com/album/3B6NcRZgnqP8bnzcWBuNPR) | 2:06 |
 | 50 | [Dopo la festa](https://open.spotify.com/track/5tAEhUSnGWITaeYGEk7eYS) | [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n) | [Dopo la festa](https://open.spotify.com/album/2UtqLbRI8uE95DbF06Jy3J) | 2:21 |
 
-Snapshot ID: `aD7BlgAAAADtVtlejAd9ddpiFKAdIEYC`
+Snapshot ID: `aD7BlgAAAAB/IXvgj8olqdMF/EARozT/`

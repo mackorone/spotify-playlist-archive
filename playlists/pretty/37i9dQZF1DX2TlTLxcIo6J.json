@@ -1,13 +1,121 @@
 {
-  "description": "New songwriters on the horizon from around the world. Cover: <a href=\"spotify:artist:0QPC36N4aQVrUp0NzaSXHI\">Mamii</a.>.",
-  "num_followers": 14165,
+  "description": "New songwriters on the horizon from around the world. Cover: UV Killin Em",
+  "num_followers": 14178,
   "original_name": "RADAR Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8t9wQAAAABS3QV8qd0QTYWxYIUEC+iH",
+  "snapshot_id": "aECNTgAAAADtleFQjLVYIWp2sP4BvJSK",
   "tracks": [
+    {
+      "added_at": "2025-06-04 18:15:42",
+      "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 222568,
+      "name": "EL CL\u00faB",
+      "url": "https://open.spotify.com/track/0iKo4pNNjHHdKUcFARlfCa"
+    },
+    {
+      "added_at": "2025-06-04 18:15:42",
+      "album": {
+        "name": "minisode 3: TOMORROW",
+        "url": "https://open.spotify.com/album/0mDwrOXZHN1lgCNeBvkBbj"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "duration_ms": 162642,
+      "name": "The Killa (I Belong to You)",
+      "url": "https://open.spotify.com/track/33RfPb7Vca7s2x5xzXR5E3"
+    },
+    {
+      "added_at": "2025-06-04 18:15:42",
+      "album": {
+        "name": "For All The Dogs",
+        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 319191,
+      "name": "Rich Baby Daddy (feat. Sexyy Red & SZA)",
+      "url": "https://open.spotify.com/track/1yeB8MUNeLo9Ek1UEpsyz6"
+    },
+    {
+      "added_at": "2025-06-04 18:15:42",
+      "album": {
+        "name": "F-1 Trillion: Long Bed",
+        "url": "https://open.spotify.com/album/4f2G7uAWqzpOPwEfCDV87A"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 167833,
+      "name": "Back To Texas",
+      "url": "https://open.spotify.com/track/4fe6BhZYJJw7XRZk6muwzm"
+    },
+    {
+      "added_at": "2025-06-04 18:15:42",
+      "album": {
+        "name": "Still Sleep?",
+        "url": "https://open.spotify.com/album/38nZLvJx8A9p4YYpTG5iFP"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+        }
+      ],
+      "duration_ms": 123986,
+      "name": "2055",
+      "url": "https://open.spotify.com/track/4XvcHTUfIlWfyJTRG0aqlo"
+    },
+    {
+      "added_at": "2024-09-12 10:00:00",
+      "album": {
+        "name": "Aunque No Sea Conmigo",
+        "url": "https://open.spotify.com/album/1nv68APHpQMhYtlqln442M"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        },
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        }
+      ],
+      "duration_ms": 179648,
+      "name": "Aunque No Sea Conmigo",
+      "url": "https://open.spotify.com/track/6GfqNqXkAofNOakU77MWEb"
+    },
     {
       "added_at": "2025-03-07 23:14:09",
       "album": {
@@ -107,22 +215,6 @@
     {
       "added_at": "2024-11-15 06:28:43",
       "album": {
-        "name": "@dannocean",
-        "url": "https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 159849,
-      "name": "Fuera del mercado",
-      "url": "https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0"
-    },
-    {
-      "added_at": "2024-11-15 06:28:43",
-      "album": {
         "name": "AMOR",
         "url": "https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj"
       },
@@ -159,22 +251,6 @@
     {
       "added_at": "2024-11-15 06:28:43",
       "album": {
-        "name": "GUAP\u00cdSIMA BUEN\u00cdSIMA",
-        "url": "https://open.spotify.com/album/02Kb0jYPDw2TsBNEyvDH7F"
-      },
-      "artists": [
-        {
-          "name": "DAAZ",
-          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
-        }
-      ],
-      "duration_ms": 168648,
-      "name": "GUAP\u00cdSIMA BUEN\u00cdSIMA",
-      "url": "https://open.spotify.com/track/2xaKMrNkGVqK5eNgZcg4P3"
-    },
-    {
-      "added_at": "2024-11-15 06:28:43",
-      "album": {
         "name": "Correcaminos",
         "url": "https://open.spotify.com/album/5URH83B2vJrrZ47uTOb3zQ"
       },
@@ -191,6 +267,22 @@
       "duration_ms": 182106,
       "name": "Correcaminos",
       "url": "https://open.spotify.com/track/3aCLD0IqnpnG09ZhfyUqIC"
+    },
+    {
+      "added_at": "2024-11-15 06:28:43",
+      "album": {
+        "name": "GUAP\u00cdSIMA BUEN\u00cdSIMA",
+        "url": "https://open.spotify.com/album/02Kb0jYPDw2TsBNEyvDH7F"
+      },
+      "artists": [
+        {
+          "name": "DAAZ",
+          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+        }
+      ],
+      "duration_ms": 168648,
+      "name": "GUAP\u00cdSIMA BUEN\u00cdSIMA",
+      "url": "https://open.spotify.com/track/2xaKMrNkGVqK5eNgZcg4P3"
     },
     {
       "added_at": "2024-10-04 16:45:07",
@@ -223,26 +315,6 @@
     {
       "added_at": "2024-10-04 16:45:07",
       "album": {
-        "name": "Dreaming",
-        "url": "https://open.spotify.com/album/6vtJCIuHJ4mpti8K7iZ0kv"
-      },
-      "artists": [
-        {
-          "name": "DUKE.",
-          "url": "https://open.spotify.com/artist/3h1Z9rpBcFzTmW47vymTQA"
-        },
-        {
-          "name": "Harry Stone",
-          "url": "https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96"
-        }
-      ],
-      "duration_ms": 165560,
-      "name": "Dreaming",
-      "url": "https://open.spotify.com/track/2BNWWQ51ZuP6uQHNWRvQzP"
-    },
-    {
-      "added_at": "2024-10-04 16:45:07",
-      "album": {
         "name": "Nothing Like I Feel",
         "url": "https://open.spotify.com/album/4xPplqhlQ0AW1nivLgbKJz"
       },
@@ -259,6 +331,26 @@
       "duration_ms": 174801,
       "name": "Do Am Again",
       "url": "https://open.spotify.com/track/3cctXWWs1Z8j5BYp9TyV98"
+    },
+    {
+      "added_at": "2024-10-04 16:45:07",
+      "album": {
+        "name": "Dreaming",
+        "url": "https://open.spotify.com/album/6vtJCIuHJ4mpti8K7iZ0kv"
+      },
+      "artists": [
+        {
+          "name": "DUKE.",
+          "url": "https://open.spotify.com/artist/3h1Z9rpBcFzTmW47vymTQA"
+        },
+        {
+          "name": "Harry Stone",
+          "url": "https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96"
+        }
+      ],
+      "duration_ms": 165560,
+      "name": "Dreaming",
+      "url": "https://open.spotify.com/track/2BNWWQ51ZuP6uQHNWRvQzP"
     },
     {
       "added_at": "2024-10-04 16:45:07",
@@ -283,6 +375,42 @@
     {
       "added_at": "2024-09-12 10:00:00",
       "album": {
+        "name": "RADIO SAKURA",
+        "url": "https://open.spotify.com/album/5MHSMa7gBXLoOGIPbNtOCo"
+      },
+      "artists": [
+        {
+          "name": "Rose Villain",
+          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "duration_ms": 175293,
+      "name": "COME UN TUONO (feat. Gu\u00e8)",
+      "url": "https://open.spotify.com/track/0lXVWzLwDnKB7Ro5p0AJPg"
+    },
+    {
+      "added_at": "2024-11-15 06:28:43",
+      "album": {
+        "name": "@dannocean",
+        "url": "https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 159849,
+      "name": "Fuera del mercado",
+      "url": "https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0"
+    },
+    {
+      "added_at": "2024-09-12 10:00:00",
+      "album": {
         "name": "FACE",
         "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
       },
@@ -295,22 +423,6 @@
       "duration_ms": 212241,
       "name": "Like Crazy",
       "url": "https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR"
-    },
-    {
-      "added_at": "2024-09-12 10:00:00",
-      "album": {
-        "name": "BE",
-        "url": "https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 207481,
-      "name": "Life Goes On",
-      "url": "https://open.spotify.com/track/5FVbvttjEvQ8r2BgUcJgNg"
     },
     {
       "added_at": "2024-09-12 10:00:00",
@@ -331,6 +443,22 @@
       "duration_ms": 182618,
       "name": "Brooklyn",
       "url": "https://open.spotify.com/track/6VcBDMF2ykm5HDcJMVLRZW"
+    },
+    {
+      "added_at": "2024-09-12 10:00:00",
+      "album": {
+        "name": "BE",
+        "url": "https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 207481,
+      "name": "Life Goes On",
+      "url": "https://open.spotify.com/track/5FVbvttjEvQ8r2BgUcJgNg"
     },
     {
       "added_at": "2024-09-12 10:00:00",
@@ -397,10 +525,10 @@
       "url": "https://open.spotify.com/track/394IT4yrYjwT65ePqKLFbq"
     },
     {
-      "added_at": "2024-09-12 10:00:00",
+      "added_at": "2025-06-04 18:15:42",
       "album": {
-        "name": "go (feat. Sam Smith)",
-        "url": "https://open.spotify.com/album/3zTbB7N63JZkS6I6zuooMs"
+        "name": "Go (Remixes)",
+        "url": "https://open.spotify.com/album/1kGbwOHke3PrRnZAmlkoOu"
       },
       "artists": [
         {
@@ -414,7 +542,35 @@
       ],
       "duration_ms": 215841,
       "name": "go (feat. Sam Smith)",
-      "url": "https://open.spotify.com/track/0dkPo2Tvo0PhGJaUAvk4pC"
+      "url": "https://open.spotify.com/track/7kgNbYOyDZPzDVE89mLs1O"
+    },
+    {
+      "added_at": "2024-09-12 10:00:00",
+      "album": {
+        "name": "Skrillex and Diplo present Jack \u00dc",
+        "url": "https://open.spotify.com/album/6bfkwBrGYKJFk6Z4QVyjxd"
+      },
+      "artists": [
+        {
+          "name": "Jack \u00dc",
+          "url": "https://open.spotify.com/artist/1HxJeLhIuegM3KgvPn8sTa"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "kai",
+          "url": "https://open.spotify.com/artist/6xHUXzrfhFgnIv86EBR3Ml"
+        }
+      ],
+      "duration_ms": 242068,
+      "name": "Mind (feat. Kai)",
+      "url": "https://open.spotify.com/track/6ZpR2XFuQJSHAQwg9495KZ"
     },
     {
       "added_at": "2024-09-12 10:00:00",
@@ -507,54 +663,6 @@
     {
       "added_at": "2024-09-12 10:00:00",
       "album": {
-        "name": "RADIO SAKURA",
-        "url": "https://open.spotify.com/album/5MHSMa7gBXLoOGIPbNtOCo"
-      },
-      "artists": [
-        {
-          "name": "Rose Villain",
-          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
-        },
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        }
-      ],
-      "duration_ms": 175293,
-      "name": "COME UN TUONO (feat. Gu\u00e8)",
-      "url": "https://open.spotify.com/track/0lXVWzLwDnKB7Ro5p0AJPg"
-    },
-    {
-      "added_at": "2024-09-12 10:00:00",
-      "album": {
-        "name": "Skrillex and Diplo present Jack \u00dc",
-        "url": "https://open.spotify.com/album/6bfkwBrGYKJFk6Z4QVyjxd"
-      },
-      "artists": [
-        {
-          "name": "Jack \u00dc",
-          "url": "https://open.spotify.com/artist/1HxJeLhIuegM3KgvPn8sTa"
-        },
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "kai",
-          "url": "https://open.spotify.com/artist/6xHUXzrfhFgnIv86EBR3Ml"
-        }
-      ],
-      "duration_ms": 242068,
-      "name": "Mind (feat. Kai)",
-      "url": "https://open.spotify.com/track/6ZpR2XFuQJSHAQwg9495KZ"
-    },
-    {
-      "added_at": "2024-09-12 10:00:00",
-      "album": {
         "name": "STAINS",
         "url": "https://open.spotify.com/album/77QgUYaKPNBK58mobKp7g7"
       },
@@ -589,10 +697,10 @@
       "url": "https://open.spotify.com/track/04B64zIf89qyXyEoxFS3pH"
     },
     {
-      "added_at": "2024-09-12 10:00:00",
+      "added_at": "2025-06-04 18:15:42",
       "album": {
-        "name": "No Romeo",
-        "url": "https://open.spotify.com/album/3uCOV1a01TIpU0BOr2B0CX"
+        "name": "No Romeo EP",
+        "url": "https://open.spotify.com/album/6dpPmjQADL8JE813YWKfQ3"
       },
       "artists": [
         {
@@ -602,7 +710,7 @@
       ],
       "duration_ms": 191026,
       "name": "No Romeo",
-      "url": "https://open.spotify.com/track/4qnZCHbYsdUzjeyRXPDjlB"
+      "url": "https://open.spotify.com/track/2n4U8Qf9vkpl6rFQnXtLK5"
     },
     {
       "added_at": "2024-09-12 10:00:00",
@@ -751,26 +859,6 @@
     {
       "added_at": "2024-09-12 10:00:00",
       "album": {
-        "name": "Aunque No Sea Conmigo",
-        "url": "https://open.spotify.com/album/1nv68APHpQMhYtlqln442M"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        },
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        }
-      ],
-      "duration_ms": 179648,
-      "name": "Aunque No Sea Conmigo",
-      "url": "https://open.spotify.com/track/6GfqNqXkAofNOakU77MWEb"
-    },
-    {
-      "added_at": "2024-09-12 10:00:00",
-      "album": {
         "name": "Policeman",
         "url": "https://open.spotify.com/album/1wK2qJAZACswet6W4Id2ft"
       },
@@ -843,22 +931,6 @@
     {
       "added_at": "2024-09-12 10:00:00",
       "album": {
-        "name": "Crocodiles",
-        "url": "https://open.spotify.com/album/6cLS5tRoyiw8U6lH1Zc4UX"
-      },
-      "artists": [
-        {
-          "name": "Cian Ducrot",
-          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
-        }
-      ],
-      "duration_ms": 240065,
-      "name": "Crocodiles",
-      "url": "https://open.spotify.com/track/03pMITmL4qouGlrfTAhX9W"
-    },
-    {
-      "added_at": "2024-09-12 10:00:00",
-      "album": {
         "name": "Esc\u00e2ndalo \u00cdntimo",
         "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
       },
@@ -871,6 +943,22 @@
       "duration_ms": 173725,
       "name": "Principalmente Me Sinto Arrasada",
       "url": "https://open.spotify.com/track/24LGL93o3wuVuYLCBhV3c5"
+    },
+    {
+      "added_at": "2025-06-04 18:15:42",
+      "album": {
+        "name": "Make Believe",
+        "url": "https://open.spotify.com/album/6Cg42RsUj2uTvThXnIHedJ"
+      },
+      "artists": [
+        {
+          "name": "Cian Ducrot",
+          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
+        }
+      ],
+      "duration_ms": 240065,
+      "name": "Crocodiles",
+      "url": "https://open.spotify.com/track/3S83qk7cILQeQhguBaWi7x"
     },
     {
       "added_at": "2024-09-12 10:00:00",
@@ -927,22 +1015,6 @@
     {
       "added_at": "2024-09-12 10:00:00",
       "album": {
-        "name": "Perfect on Me",
-        "url": "https://open.spotify.com/album/6y79bH31Bg9wxSeNRTl5WL"
-      },
-      "artists": [
-        {
-          "name": "Ryan Mack",
-          "url": "https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt"
-        }
-      ],
-      "duration_ms": 164536,
-      "name": "Perfect on Me",
-      "url": "https://open.spotify.com/track/3aABZMfYArSNlD1muV1wsK"
-    },
-    {
-      "added_at": "2024-09-12 10:00:00",
-      "album": {
         "name": "mariposas",
         "url": "https://open.spotify.com/album/5oSxZwLHXX8NOpayMUC9VH"
       },
@@ -959,6 +1031,22 @@
       "duration_ms": 154000,
       "name": "mariposas",
       "url": "https://open.spotify.com/track/5R2hNuiiwnKVAUNktF9j2Y"
+    },
+    {
+      "added_at": "2024-09-12 10:00:00",
+      "album": {
+        "name": "Perfect on Me",
+        "url": "https://open.spotify.com/album/6y79bH31Bg9wxSeNRTl5WL"
+      },
+      "artists": [
+        {
+          "name": "Ryan Mack",
+          "url": "https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt"
+        }
+      ],
+      "duration_ms": 164536,
+      "name": "Perfect on Me",
+      "url": "https://open.spotify.com/track/3aABZMfYArSNlD1muV1wsK"
     },
     {
       "added_at": "2024-09-12 10:00:00",
@@ -1141,10 +1229,10 @@
       "url": "https://open.spotify.com/track/3W8LZctsNYqn2DQCJTrLB4"
     },
     {
-      "added_at": "2024-09-12 10:00:00",
+      "added_at": "2025-06-04 18:15:42",
       "album": {
         "name": "okokok",
-        "url": "https://open.spotify.com/album/0a6WPtwGDH6doaQoBiIp2C"
+        "url": "https://open.spotify.com/album/4zP1fNxeLTQrG5usaotiPg"
       },
       "artists": [
         {
@@ -1154,7 +1242,7 @@
       ],
       "duration_ms": 158896,
       "name": "okokok",
-      "url": "https://open.spotify.com/track/5VML2SOtSpYIKxtAQ3oAzq"
+      "url": "https://open.spotify.com/track/4qxoOkUtMcTzY3S0eHUziY"
     },
     {
       "added_at": "2024-09-12 10:00:00",
@@ -1189,10 +1277,10 @@
       "url": "https://open.spotify.com/track/0w2xc98HHlWQlwuPeKcmu4"
     },
     {
-      "added_at": "2024-09-12 10:00:00",
+      "added_at": "2025-06-04 18:15:42",
       "album": {
-        "name": "Things You Said",
-        "url": "https://open.spotify.com/album/4Clwks3ojJZkBakCQGqeW9"
+        "name": "Weak Teeth",
+        "url": "https://open.spotify.com/album/1vRRpWjoj8bSCOY28wGWDy"
       },
       "artists": [
         {
@@ -1202,7 +1290,7 @@
       ],
       "duration_ms": 203140,
       "name": "Things You Said",
-      "url": "https://open.spotify.com/track/5MYAjxYvtSkUQzOgtnntTH"
+      "url": "https://open.spotify.com/track/6CJQts0D5UNDV1i2Q7Vdso"
     },
     {
       "added_at": "2024-09-12 10:00:00",
@@ -1303,86 +1391,6 @@
       "duration_ms": 175058,
       "name": "Cosas Que Dijimos De Hacer",
       "url": "https://open.spotify.com/track/4vmRgsol9d9ktaY5aoNFUf"
-    },
-    {
-      "added_at": "2024-09-12 10:00:00",
-      "album": {
-        "name": "TAXI DRIVER",
-        "url": "https://open.spotify.com/album/6et3LALeDMavQqtIn2AC3Z"
-      },
-      "artists": [
-        {
-          "name": "Rkomi",
-          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
-        }
-      ],
-      "duration_ms": 172461,
-      "name": "INSUPERABILE",
-      "url": "https://open.spotify.com/track/3nNxdeQX9iFeuosMcFEeDd"
-    },
-    {
-      "added_at": "2024-09-12 10:00:00",
-      "album": {
-        "name": "Ya Sup\u00e9rame (En Vivo)",
-        "url": "https://open.spotify.com/album/1Aiov6IELpNAdCHMzbz6Ml"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 189050,
-      "name": "Ya Sup\u00e9rame (En Vivo)",
-      "url": "https://open.spotify.com/track/6HIIuuUIEzH1meVdGbMXyf"
-    },
-    {
-      "added_at": "2024-09-12 10:00:00",
-      "album": {
-        "name": "Hope For Sale",
-        "url": "https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi"
-      },
-      "artists": [
-        {
-          "name": "Chiiild",
-          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
-        }
-      ],
-      "duration_ms": 138760,
-      "name": "Lotus",
-      "url": "https://open.spotify.com/track/3TGGENjrxEOwl1zBZZqKGc"
-    },
-    {
-      "added_at": "2024-09-12 10:00:00",
-      "album": {
-        "name": "The Melodic Blue (Deluxe)",
-        "url": "https://open.spotify.com/album/5Co3CGD9lBQVNnn7q0px1g"
-      },
-      "artists": [
-        {
-          "name": "Baby Keem",
-          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
-        }
-      ],
-      "duration_ms": 141953,
-      "name": "patience interlude",
-      "url": "https://open.spotify.com/track/24xpL4l70GDGIVFIxLbW8s"
-    },
-    {
-      "added_at": "2024-09-12 10:00:00",
-      "album": {
-        "name": "Obsessed With You",
-        "url": "https://open.spotify.com/album/1gXyOc0Unev5AqD9X248v9"
-      },
-      "artists": [
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 108650,
-      "name": "Obsessed With You",
-      "url": "https://open.spotify.com/track/4PYfFHKfjYz6dwAtZhBy1z"
     }
   ],
   "unique_name": "RADAR Songwriters",

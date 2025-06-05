@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Tate McRae, Miley Cyrus, Lil Tecca, Lorde, Leon Thomas, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,383,977 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,383,701 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

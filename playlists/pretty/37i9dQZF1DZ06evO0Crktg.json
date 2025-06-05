@@ -1,12 +1,12 @@
 {
   "description": "This is Jelly Roll. The essential tracks, all in one playlist.",
-  "num_followers": 295587,
+  "num_followers": 295753,
   "original_name": "This Is Jelly Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDzpgAAAAABBFnJMN8+RtsZcL3lXiBFY",
+  "snapshot_id": "aD47AAAAAADaPArncLaEwcK6a3CxoL8S",
   "tracks": [
     {
       "added_at": null,
@@ -351,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dreams Don\u2019t Die",
-        "url": "https://open.spotify.com/album/0kS7VkeLcJrWUwLUIMfP7Z"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 181933,
-      "name": "Dreams Don\u2019t Die",
-      "url": "https://open.spotify.com/track/2ZiIL3VpkHlZ6tfNIfQU6q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Addiction Kills",
         "url": "https://open.spotify.com/album/1S7q7yBHK7Pxd8KDgn3iqP"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 198115,
       "name": "Only",
       "url": "https://open.spotify.com/track/4ZuiBNRL7M6ZIICenuF0zm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dreams Don\u2019t Die",
+        "url": "https://open.spotify.com/album/0kS7VkeLcJrWUwLUIMfP7Z"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 181933,
+      "name": "Dreams Don\u2019t Die",
+      "url": "https://open.spotify.com/track/2ZiIL3VpkHlZ6tfNIfQU6q"
     },
     {
       "added_at": null,
@@ -647,8 +647,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Beautiful Disaster",
-        "url": "https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ"
+        "name": "Waylon & Willie 2",
+        "url": "https://open.spotify.com/album/4o9I622N2dNhGOiaHqjwad"
       },
       "artists": [
         {
@@ -656,13 +656,13 @@
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         },
         {
-          "name": "Brix",
-          "url": "https://open.spotify.com/artist/4LsrAQY9ShOYMMZEhZ2tN2"
+          "name": "Struggle Jennings",
+          "url": "https://open.spotify.com/artist/7HnPsSFnXUJ8XiHt1UuQ23"
         }
       ],
-      "duration_ms": 254277,
-      "name": "Life",
-      "url": "https://open.spotify.com/track/1fnHcFqvzsTtXNDnm1rVf9"
+      "duration_ms": 249302,
+      "name": "Fall in the Fall",
+      "url": "https://open.spotify.com/track/6bXSfLBuqFQtVHNLxXbqbk"
     },
     {
       "added_at": null,
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Waylon & Willie 2",
-        "url": "https://open.spotify.com/album/4o9I622N2dNhGOiaHqjwad"
+        "name": "A Beautiful Disaster",
+        "url": "https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ"
       },
       "artists": [
         {
@@ -692,13 +692,13 @@
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         },
         {
-          "name": "Struggle Jennings",
-          "url": "https://open.spotify.com/artist/7HnPsSFnXUJ8XiHt1UuQ23"
+          "name": "Brix",
+          "url": "https://open.spotify.com/artist/4LsrAQY9ShOYMMZEhZ2tN2"
         }
       ],
-      "duration_ms": 249302,
-      "name": "Fall in the Fall",
-      "url": "https://open.spotify.com/track/6bXSfLBuqFQtVHNLxXbqbk"
+      "duration_ms": 254277,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/1fnHcFqvzsTtXNDnm1rVf9"
     },
     {
       "added_at": null,

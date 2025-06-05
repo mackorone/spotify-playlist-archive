@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSpF87bP6JSF.md) - [plain]
 
 > Los éxitos del pop latino, con María Becerra y Paulo Londra en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,639,269 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,639,376 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSpF87bP6JSF.md) - [plain]
 | 49 | [NO SÉ QUIÉN SOS](https://open.spotify.com/track/4nq6FkC0jH2fgfVSziGMmZ) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [NO SÉ QUIÉN SOS](https://open.spotify.com/album/79X2IHIzg5pNlc7K4Ag6Vy) | 3:03 |
 | 50 | [Salida de Chicas](https://open.spotify.com/track/1w1bTqBDXvCv1tQqql8pSu) | [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [De Chava](https://open.spotify.com/album/44pDDIFsx4YTZkKPErlEtn) | 2:48 |
 
-Snapshot ID: `aDmOUAAAAADtOgNmtOi5XBHXQ0Tq9pJw`
+Snapshot ID: `aDmOUAAAAAB8tqXR17l27efdIujVt7nr`

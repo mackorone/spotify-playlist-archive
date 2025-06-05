@@ -2,7 +2,7 @@
 
 ### [This Is Frequency](https://open.spotify.com/playlist/37i9dQZF1DWVgsJtp58d1t)
 
-> Happy Black Music Month! Cover: <a href="spotify:artist:0ynzbXwyCzxicMKHBoOkSH">EKKSTACY<br/></a>
+> Happy Black Music Month! Cover: EKKSTACY
 
 4,684 songs - 9 day 21 hr 5 min
 

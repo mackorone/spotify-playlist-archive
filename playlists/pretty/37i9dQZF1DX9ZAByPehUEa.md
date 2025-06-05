@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 
 > Welcome to DISCOLAND 🪩🕺🏽 it's a happy place
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,790 likes - 200 songs - 11 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,834 likes - 200 songs - 11 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 | 21 | [Stars Above](https://open.spotify.com/track/36vtpWkQyA2wTxkH8taIHg) | [Swoosh](https://open.spotify.com/artist/2WCrtPixyggICoueTKsjjG), [bad tuner](https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm) | [Stars Above](https://open.spotify.com/album/2fg5mQkGQRT3ELk0KZeu6B) | 3:10 |
 | 22 | [The Mirror](https://open.spotify.com/track/0xTfRaYHf5dedyIpsxB56N) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [The Mirror](https://open.spotify.com/album/0tlHGgceJBa5z3PrHOatgO) | 2:53 |
 | 23 | [Save My Life](https://open.spotify.com/track/1qlDfQfqMVgAIX3bGSr5EJ) | [Benny Mussa](https://open.spotify.com/artist/3JNbl0jPjCNLrZrCbqku6f) | [Save My Life](https://open.spotify.com/album/6YZT6tRvHJ6jGFSKVbg5tF) | 2:50 |
-| 24 | [Love Shak \- Radio Edit](https://open.spotify.com/track/6NVR5KJq823OCLLTxoQ7z9) | [Hatiras](https://open.spotify.com/artist/7DQ8fX4Fbi43HaesfrVYpO) | [Love Shack](https://open.spotify.com/album/6oapx3eotD9rIQCMf0Wc55) | 2:14 |
+| 24 | [Love Shack \- Radio Edit](https://open.spotify.com/track/6NVR5KJq823OCLLTxoQ7z9) | [Hatiras](https://open.spotify.com/artist/7DQ8fX4Fbi43HaesfrVYpO) | [Love Shack](https://open.spotify.com/album/6oapx3eotD9rIQCMf0Wc55) | 2:14 |
 | 25 | [Some Lovin'](https://open.spotify.com/track/5f8a5o83cFkWV5pzfAFUQp) | [Mystic Jungle](https://open.spotify.com/artist/0h3E1GEycmeNQ5USViniCF) | [Sunset Breaker](https://open.spotify.com/album/4mAacSAE2aZwAv4SFccjBo) | 5:27 |
 | 26 | [People Dancing](https://open.spotify.com/track/2WNA3xEFSvzlAbDxYBxEEW) | [Alex Preston](https://open.spotify.com/artist/0f8HuVIxsHG6bnEZsz0RuD), [Mo'funk](https://open.spotify.com/artist/2HAVduv3u0f2Q4NrJHUgDb), [Secret Weapons \(AU\)](https://open.spotify.com/artist/0irxNrU481uHuIyDJg6HUb) | [People Dancing](https://open.spotify.com/album/2qiWOdEHHVsmSYxs7GKm7Z) | 2:34 |
 | 27 | [Dime Girl](https://open.spotify.com/track/7eu3iYBABXk0QTjfIBJMSW) | [Ari Bald](https://open.spotify.com/artist/4BIUrqQlg2nOgFdem5DTup), [CJ Scott](https://open.spotify.com/artist/0thkTEQ87kDOsVs9ohjiCl), [Ari Bald & CJ Scott](https://open.spotify.com/artist/0E6gscdNMDFByNLHQkm4aG) | [Dime Girl](https://open.spotify.com/album/68P4N1NCqbfbTjdtIgPD5c) | 4:46 |

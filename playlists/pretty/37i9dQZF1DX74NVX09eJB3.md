@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74NVX09eJB3.md) - [plain]
 
 > Get ready to hit the jackpot with these classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,030 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,051 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74NVX09eJB3.md) - [plain]
 | 49 | [Livin' It Up](https://open.spotify.com/track/62W5VouctXG9jggZdHaEi1) | [Mandrill](https://open.spotify.com/artist/6RWnslEkqboHbDg0OUabe5) | [Livin' It Up](https://open.spotify.com/album/2ArLz9gq7VhXgnB5s6IFdH) | 4:21 |
 | 50 | [I Just Want To Celebrate](https://open.spotify.com/track/4iW98ZK1gNzcXmQ5TgTD9X) | [Rare Earth](https://open.spotify.com/artist/6eEsIl4wosvhuWI0mfXxAF) | [One World](https://open.spotify.com/album/06GIYaoyaDb2POMp79QomX) | 3:37 |
 
-Snapshot ID: `ZowyqAAAAABRud5PtLtcftV2EfPugITi`
+Snapshot ID: `ZowyqAAAAABciEm6RUnVMP3y6exMhZf6`

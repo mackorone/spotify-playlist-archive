@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Ny musikk fra Ari Bajgora, Girl In Red og mange flere!🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,321 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,326 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 29 | [Hunger](https://open.spotify.com/track/4ymrDw34Yx1oxU1R5yNdeR) | [Metteson](https://open.spotify.com/artist/6I6dO1Ytvcv32R1uzP5oZD) | [Hunger](https://open.spotify.com/album/0hqTGruzlfIeA1xoPDF52W) | 2:48 |
 | 30 | [For Deg](https://open.spotify.com/track/4jMsQvW6xAz4lYqYfhzlCX) | [Admiral P](https://open.spotify.com/artist/2P87oRX5tCFl1PYQRbPCPD), [Sisi](https://open.spotify.com/artist/6V0Hohamsv9EgCqBWGl8Gw) | [For Deg](https://open.spotify.com/album/4a80OCZgTL6AYne2Tg9JJF) | 2:48 |
 | 31 | [jeg vil ligge med deg](https://open.spotify.com/track/5o2xmURvl3LwBmLe34gEPj) | [Vidar Villa](https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg) | [jeg vil ligge med deg](https://open.spotify.com/album/7B5U8GPorGyO7pT8DmXGbA) | 2:52 |
-| 32 | [Superhero \(feat\. Isak Heim\)](https://open.spotify.com/track/3gJxcvGTCtBngxYsgP7XQT) | [Rat City](https://open.spotify.com/artist/6VSMAVF00xwG8Adoqnbqy6), [Isak Heim](https://open.spotify.com/artist/3noOJBzljbPMoifF6wY12v) | [Superhero \(feat\. Isak Heim\)](https://open.spotify.com/album/2CMvDS3QKvYghNwzfWbAJL) | 3:03 |
+| 32 | [Superhero](https://open.spotify.com/track/3gJxcvGTCtBngxYsgP7XQT) | [Rat City](https://open.spotify.com/artist/6VSMAVF00xwG8Adoqnbqy6), [Isak Heim](https://open.spotify.com/artist/3noOJBzljbPMoifF6wY12v) | [Superhero](https://open.spotify.com/album/2CMvDS3QKvYghNwzfWbAJL) | 3:03 |
 | 33 | [Zombie](https://open.spotify.com/track/7DQotDUGnJkXgNJv363GXF) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Zombie](https://open.spotify.com/album/2VjTqSwV1IY3a4kFdurCVv) | 4:06 |
 | 34 | [Innerst Inne](https://open.spotify.com/track/54RcZJNtXhna8aoRG7YdQG) | [Vamp](https://open.spotify.com/artist/5kOdtYNbevIlgUOQkhASnk), [Kringkastingsorkesteret](https://open.spotify.com/artist/0VYvMrH6w1PZuy8MUbHkHB) | [Innerst Inne](https://open.spotify.com/album/62XuZlazQJyfagckJ2MyFW) | 2:57 |
 | 35 | [CPR](https://open.spotify.com/track/4shJVGH4xRWChBSkHHamxv) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [CPR](https://open.spotify.com/album/74nethFnPNZe86ksfRl0gh) | 2:50 |

@@ -1,12 +1,12 @@
 {
   "description": "This is RIOPY. The essential tracks, all in one playlist.",
-  "num_followers": 10900,
+  "num_followers": 10901,
   "original_name": "This Is RIOPY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDzpgAAAAAA5tlb5NuIXZQpWMGgoXzsT",
+  "snapshot_id": "aD47AAAAAACOsK2pfn6jsTJeDHrhlxeC",
   "tracks": [
     {
       "added_at": null,
@@ -79,8 +79,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Way of Light",
-        "url": "https://open.spotify.com/album/6APpiI9vmvZIBwdDJ93fIF"
+        "name": "Le R\u00eave d'une note",
+        "url": "https://open.spotify.com/album/3kaHw48zUVcXBK5wCsWITY"
       },
       "artists": [
         {
@@ -88,9 +88,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 196906,
-      "name": "My Way of Light",
-      "url": "https://open.spotify.com/track/4WkLksTwTw88ZgFMTg48Vz"
+      "duration_ms": 189346,
+      "name": "Le r\u00eave d'une note",
+      "url": "https://open.spotify.com/track/2xDBwhsdKnawySo4jswvjT"
     },
     {
       "added_at": null,
@@ -111,8 +111,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Le R\u00eave d'une note",
-        "url": "https://open.spotify.com/album/3kaHw48zUVcXBK5wCsWITY"
+        "name": "My Way of Light",
+        "url": "https://open.spotify.com/album/6APpiI9vmvZIBwdDJ93fIF"
       },
       "artists": [
         {
@@ -120,9 +120,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 189346,
-      "name": "Le r\u00eave d'une note",
-      "url": "https://open.spotify.com/track/2xDBwhsdKnawySo4jswvjT"
+      "duration_ms": 196906,
+      "name": "My Way of Light",
+      "url": "https://open.spotify.com/track/4WkLksTwTw88ZgFMTg48Vz"
     },
     {
       "added_at": null,
@@ -419,8 +419,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thrive",
-        "url": "https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T"
+        "name": "Emotive Piano",
+        "url": "https://open.spotify.com/album/5lnRrm27QJNpbFCUBb7WSJ"
       },
       "artists": [
         {
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 252160,
-      "name": "Ever After",
-      "url": "https://open.spotify.com/track/7FcOEkthAu7DrEKJt4qqYB"
+      "duration_ms": 77999,
+      "name": "Changing Times",
+      "url": "https://open.spotify.com/track/5XEwkz6o2JWAQL9xmtJC3X"
     },
     {
       "added_at": null,
@@ -451,8 +451,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emotive Piano",
-        "url": "https://open.spotify.com/album/5lnRrm27QJNpbFCUBb7WSJ"
+        "name": "Thrive",
+        "url": "https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T"
       },
       "artists": [
         {
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 77999,
-      "name": "Changing Times",
-      "url": "https://open.spotify.com/track/5XEwkz6o2JWAQL9xmtJC3X"
+      "duration_ms": 252160,
+      "name": "Ever After",
+      "url": "https://open.spotify.com/track/7FcOEkthAu7DrEKJt4qqYB"
     },
     {
       "added_at": null,
@@ -643,26 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meditation 66",
-        "url": "https://open.spotify.com/album/62VLkrAkCtoMehAQSelT13"
-      },
-      "artists": [
-        {
-          "name": "TUNE YOUR MIND",
-          "url": "https://open.spotify.com/artist/1RiPQVwSrI0TAJDYNAJtp1"
-        },
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 1369525,
-      "name": "Flow State 22",
-      "url": "https://open.spotify.com/track/0E9NGd4NMBF93UBzrEv7u5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Meditation 111",
         "url": "https://open.spotify.com/album/418PRzkbwMn1lsbNtBWHeC"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 208871,
       "name": "Falling into a Dream",
       "url": "https://open.spotify.com/track/6RGnazKbWUw3YQUR9Cd5Y3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Meditation 66",
+        "url": "https://open.spotify.com/album/62VLkrAkCtoMehAQSelT13"
+      },
+      "artists": [
+        {
+          "name": "TUNE YOUR MIND",
+          "url": "https://open.spotify.com/artist/1RiPQVwSrI0TAJDYNAJtp1"
+        },
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 1369525,
+      "name": "Flow State 22",
+      "url": "https://open.spotify.com/track/0E9NGd4NMBF93UBzrEv7u5"
     },
     {
       "added_at": null,

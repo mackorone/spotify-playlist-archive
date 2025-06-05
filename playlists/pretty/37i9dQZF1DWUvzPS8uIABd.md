@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 
 > Tämän hetken kovimmat suomihitit\. Kannessa ABREU.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,343 likes - 76 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,353 likes - 76 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Äiti Teresa \(feat\. Bizi\)](https://open.spotify.com/track/0qhInLAWcI38LnFEcKa2FV) | [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7), [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Äiti Teresa \(feat\. Bizi\)](https://open.spotify.com/album/49KPpjc1firTCQNTJAGn1i) | 2:44 |
-| 2 | [Terapiaa](https://open.spotify.com/track/4fQEoBhm2FlRVRRhhzCBMg) | [Ira](https://open.spotify.com/artist/2UkgjMChHf3vFEwOzLE5o9) | [Terapiaa](https://open.spotify.com/album/2oNqdpIWcoit3LsYhXszDP) | 2:51 |
-| 3 | [Herkkukauppa \(Bam Tsiki Tsiki\)](https://open.spotify.com/track/09rz8UVupw08GyfqSX92oo) | [AikaPoliisi](https://open.spotify.com/artist/2k8fCxI9Og8jLjsYmotd7J) | [Herkkukauppa \(Bam Tsiki Tsiki\)](https://open.spotify.com/album/02AAVxfdMqurVFDJMXTmCw) | 3:45 |
-| 4 | [Aja tai kuole](https://open.spotify.com/track/7m7Mmlw9m1NJxcYbvdW2z7) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV), [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ) | [Aja tai kuole](https://open.spotify.com/album/5H5orhEdULcEb6yiV1yCxZ) | 3:15 |
-| 5 | [Vihaajat vihaa](https://open.spotify.com/track/0eSQ3lbfVY9MgPD7lGsGSq) | [Bee](https://open.spotify.com/artist/4pR2IcLEPu4KFVAmanNG1f) | [Vihaajat vihaa](https://open.spotify.com/album/4oMcUFaqqJHu4mCR0NxHbX) | 2:32 |
+| 2 | [Herkkukauppa \(Bam Tsiki Tsiki\)](https://open.spotify.com/track/09rz8UVupw08GyfqSX92oo) | [AikaPoliisi](https://open.spotify.com/artist/2k8fCxI9Og8jLjsYmotd7J) | [Herkkukauppa \(Bam Tsiki Tsiki\)](https://open.spotify.com/album/02AAVxfdMqurVFDJMXTmCw) | 3:45 |
+| 3 | [Aja tai kuole](https://open.spotify.com/track/7m7Mmlw9m1NJxcYbvdW2z7) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV), [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ) | [Aja tai kuole](https://open.spotify.com/album/5H5orhEdULcEb6yiV1yCxZ) | 3:15 |
+| 4 | [Vihaajat vihaa](https://open.spotify.com/track/0eSQ3lbfVY9MgPD7lGsGSq) | [Bee](https://open.spotify.com/artist/4pR2IcLEPu4KFVAmanNG1f) | [Vihaajat vihaa](https://open.spotify.com/album/4oMcUFaqqJHu4mCR0NxHbX) | 2:32 |
+| 5 | [Terapiaa](https://open.spotify.com/track/4fQEoBhm2FlRVRRhhzCBMg) | [Ira](https://open.spotify.com/artist/2UkgjMChHf3vFEwOzLE5o9) | [Terapiaa](https://open.spotify.com/album/2oNqdpIWcoit3LsYhXszDP) | 2:51 |
 | 6 | [H2O](https://open.spotify.com/track/2Gu3aoD9aHHmou6AuL0K71) | [Nuppu Oinas](https://open.spotify.com/artist/04EWHXfeAXqrKdqLA7bqxZ) | [H2O](https://open.spotify.com/album/3MomlB2MOvJ2oPE7LvIJXe) | 3:03 |
 | 7 | [Mun ihminen](https://open.spotify.com/track/3VEV0SQHNl533SrB6bbIPY) | [ELLIMEI](https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra) | [Mun ihminen](https://open.spotify.com/album/4f3ETbbOr26nV6wlK4KoNl) | 2:33 |
 | 8 | [Kaihosielu](https://open.spotify.com/track/6bh5bVJ3agYEEZAduje0Zu) | [Komiat](https://open.spotify.com/artist/3AmLhgSu80YTQarQMWXwna) | [Kaihosielu](https://open.spotify.com/album/3DrQkAh6kHbcxVPJd71vaI) | 2:45 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 | 75 | [Parasta aikaa](https://open.spotify.com/track/5v8BGpuURGF8ydZAomM0WZ) | [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2), [Sliki](https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt) | [Parasta aikaa](https://open.spotify.com/album/1GIr1W3rj6izFP6EVshBo0) | 2:08 |
 | 76 | [Onks tää vakavaa?](https://open.spotify.com/track/0X0jxZAzdCRDtPgVtMz3Ow) | [Tuure Boelius](https://open.spotify.com/artist/4qojHFVaMgvpZZ1LW0L9To) | [Onks tää vakavaa?](https://open.spotify.com/album/7bP5f8d0pMEB3VH0RfTZqU) | 2:40 |
 
-Snapshot ID: `aD3tnwAAAAB6JNsxTlZx0dsI7q5pSBK1`
+Snapshot ID: `aD/wPQAAAABkFWTcKQm12VS3ANnq6a5n`

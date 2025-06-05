@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29WNJPsxILP.md) - [plain]
 
 > Best of Hindi Hip\-Hop! Cover: Emiway Bantai
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,470 likes - 75 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,508 likes - 75 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29WNJPsxILP.md) - [plain]
 | 22 | [Dooriyaan](https://open.spotify.com/track/6X7v8svA1VDvf2moH1ak4T) | [Aniket Raturi](https://open.spotify.com/artist/1jXFRp4614WZlih5QJ51RS), [KALAM INK](https://open.spotify.com/artist/6VbH1XK4t6KE5s3k85MTBd) | [Rum, Racks & Roses](https://open.spotify.com/album/3245DFN5KDH97r6PbUznuu) | 3:46 |
 | 23 | [Karta Kya Hai](https://open.spotify.com/track/55rsHTpDenL0DajypexEI6) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F), [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36) | [How Much a Rhyme Costs?](https://open.spotify.com/album/6adVQtQUqBzdWx49n03C4G) | 3:24 |
 | 24 | [Bt Ho Gayi](https://open.spotify.com/track/0TzpHT6hJ5pb3P6CqIduh3) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Hustle 2.0](https://open.spotify.com/album/0eNoZ7pnoeiq2iF7scY3ss) | 2:40 |
-| 25 | [MR\. RAMBO](https://open.spotify.com/track/3YVxblHOR89srfFJ30liuz) | [YUNG SAMMY](https://open.spotify.com/artist/3N1efxORHI0hvpUGNr0QpW), [DESI TRILL](https://open.spotify.com/artist/22FwGMhBDU8drx91GTxkxJ) | [MR\. RAMBO](https://open.spotify.com/album/03Mg1MxsoIbNZMeso2Zc3L) | 2:14 |
+| 25 | [MR\. RAMBO](https://open.spotify.com/track/3YVxblHOR89srfFJ30liuz) | [YUNG SAMMY](https://open.spotify.com/artist/3N1efxORHI0hvpUGNr0QpW), [DESI TRILL](https://open.spotify.com/artist/22FwGMhBDU8drx91GTxkxJ), [Wamp](https://open.spotify.com/artist/6zpUQnCceOC1hkBQWLrZKk) | [MR\. RAMBO](https://open.spotify.com/album/03Mg1MxsoIbNZMeso2Zc3L) | 2:14 |
 | 26 | [Naksha](https://open.spotify.com/track/3syqe1nnZ4eHjhsc0qM5UW) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo) | [SHAKTI](https://open.spotify.com/album/6Mwca6sXGKb25VkAc1e6X3) | 3:26 |
 | 27 | [Dhak Dhak](https://open.spotify.com/track/7iIEFHrNvn6buQdP9dJY1N) | [Aanchal Tyagi](https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off), [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI), [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C) | [Dhak Dhak](https://open.spotify.com/album/1bfaIV1LAAiy22ZGGHzSq2) | 3:22 |
 | 28 | [Classmate](https://open.spotify.com/track/0xKEqBJh5uYsjM4yYRdmyJ) | [Karun](https://open.spotify.com/artist/7FvX2e6CgYllzgZ9uempWF), [Nanku](https://open.spotify.com/artist/1ZBspcSxfWh6GuxjGr5u0p), [Adil](https://open.spotify.com/artist/3iTfVWPV4ur3XkrBwz41VZ) | [Classmate](https://open.spotify.com/album/7p9kZpL7HHbfNhZNrlhezX) | 3:29 |

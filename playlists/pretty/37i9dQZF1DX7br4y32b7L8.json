@@ -1,15 +1,31 @@
 {
   "description": "songs voor je playlist! #fyp",
-  "num_followers": 42529,
+  "num_followers": 42546,
   "original_name": "Viral Hits NL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD7uggAAAABXmpJqLaKkx8JbHQ3X+fyA",
+  "snapshot_id": "aEAHfAAAAACtrMNPCDAfwrzntgPKa0/j",
   "tracks": [
     {
-      "added_at": "2025-06-03 12:45:54",
+      "added_at": "2025-06-04 08:44:44",
+      "album": {
+        "name": "Baila de Gasolina",
+        "url": "https://open.spotify.com/album/2ojXXfh1QKhimrvz4wt97G"
+      },
+      "artists": [
+        {
+          "name": "Effe Serieus",
+          "url": "https://open.spotify.com/artist/3NRhf1UyPB4XwxBq1eQE93"
+        }
+      ],
+      "duration_ms": 140782,
+      "name": "Baila de Gasolina",
+      "url": "https://open.spotify.com/track/43TPlT0l0HXLtKUOUoY3gY"
+    },
+    {
+      "added_at": "2025-06-04 08:44:44",
       "album": {
         "name": "Devotion",
         "url": "https://open.spotify.com/album/47IOO7TrIL82e6P2d809N9"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/3BM5hoJ168Kh4hYEhiNxwK"
     },
     {
-      "added_at": "2025-06-03 12:45:54",
+      "added_at": "2025-06-04 08:44:44",
       "album": {
         "name": "Vaitimbora",
         "url": "https://open.spotify.com/album/0cIKxynxh628Q7qOyamXLe"
@@ -45,7 +61,7 @@
       "url": "https://open.spotify.com/track/0QAUgW2vTmlUWhbiNeSkWm"
     },
     {
-      "added_at": "2025-06-03 12:45:54",
+      "added_at": "2025-06-04 08:44:44",
       "album": {
         "name": "Man of the Year",
         "url": "https://open.spotify.com/album/5xJdeEZGQxF8KXVOlEQHj2"
@@ -61,43 +77,7 @@
       "url": "https://open.spotify.com/track/1agLiWjSBYSTsKZLudOunC"
     },
     {
-      "added_at": "2025-06-03 12:45:54",
-      "album": {
-        "name": "Lil Freakje",
-        "url": "https://open.spotify.com/album/5qSSgAxAPQ4tfDeodFFc7A"
-      },
-      "artists": [
-        {
-          "name": "Kraantje Pappie",
-          "url": "https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q"
-        },
-        {
-          "name": "ADF Samski",
-          "url": "https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8"
-        }
-      ],
-      "duration_ms": 214446,
-      "name": "Lil Freakje",
-      "url": "https://open.spotify.com/track/7tqg41RdA6MLUrUbcNrFoJ"
-    },
-    {
-      "added_at": "2025-06-03 12:45:54",
-      "album": {
-        "name": "Y Que Fue?",
-        "url": "https://open.spotify.com/album/6ZhfK221NirEZkXoXdTyQw"
-      },
-      "artists": [
-        {
-          "name": "Don Miguelo",
-          "url": "https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf"
-        }
-      ],
-      "duration_ms": 163759,
-      "name": "Y Que Fue?",
-      "url": "https://open.spotify.com/track/5UcVIU1tsbN7ZsOSpR8AFD"
-    },
-    {
-      "added_at": "2025-06-03 12:45:54",
+      "added_at": "2025-06-04 08:44:44",
       "album": {
         "name": "1+1 (Outside)",
         "url": "https://open.spotify.com/album/0W9yMPmPSIwvjKDv5jPPPJ"
@@ -117,7 +97,43 @@
       "url": "https://open.spotify.com/track/2MPWNU7QkwmBNAoHdYLYfW"
     },
     {
-      "added_at": "2025-06-03 12:45:54",
+      "added_at": "2025-06-04 08:44:44",
+      "album": {
+        "name": "Lil Freakje",
+        "url": "https://open.spotify.com/album/5qSSgAxAPQ4tfDeodFFc7A"
+      },
+      "artists": [
+        {
+          "name": "Kraantje Pappie",
+          "url": "https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q"
+        },
+        {
+          "name": "ADF Samski",
+          "url": "https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8"
+        }
+      ],
+      "duration_ms": 214446,
+      "name": "Lil Freakje",
+      "url": "https://open.spotify.com/track/7tqg41RdA6MLUrUbcNrFoJ"
+    },
+    {
+      "added_at": "2025-06-04 08:44:44",
+      "album": {
+        "name": "Y Que Fue?",
+        "url": "https://open.spotify.com/album/6ZhfK221NirEZkXoXdTyQw"
+      },
+      "artists": [
+        {
+          "name": "Don Miguelo",
+          "url": "https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf"
+        }
+      ],
+      "duration_ms": 163759,
+      "name": "Y Que Fue?",
+      "url": "https://open.spotify.com/track/5UcVIU1tsbN7ZsOSpR8AFD"
+    },
+    {
+      "added_at": "2025-06-04 08:44:44",
       "album": {
         "name": "Borderline",
         "url": "https://open.spotify.com/album/7orKsJO9Qi5l33hosrYYAf"
@@ -137,7 +153,7 @@
       "url": "https://open.spotify.com/track/5LrWZ8K4SPr1Qe0ZBqJGTq"
     },
     {
-      "added_at": "2025-06-03 12:45:54",
+      "added_at": "2025-06-04 08:44:44",
       "album": {
         "name": "Shake It To The Max (FLY) (Remix)",
         "url": "https://open.spotify.com/album/7jhHpyhKorvt65mYvuhlBs"
@@ -165,7 +181,7 @@
       "url": "https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza"
     },
     {
-      "added_at": "2025-06-03 12:45:54",
+      "added_at": "2025-06-04 08:44:44",
       "album": {
         "name": "Waarom Nou Niet (Kleuren)",
         "url": "https://open.spotify.com/album/44thAf5VLWaQSYiEKpEZeA"
@@ -181,7 +197,7 @@
       "url": "https://open.spotify.com/track/6FqOih5ok2Hwn8EkrEIY5X"
     },
     {
-      "added_at": "2025-06-03 12:45:54",
+      "added_at": "2025-06-04 08:44:44",
       "album": {
         "name": "Can't Decide",
         "url": "https://open.spotify.com/album/2VezYvaKWplhVgqRq1mEKD"
@@ -205,7 +221,7 @@
       "url": "https://open.spotify.com/track/10pfamFYvg5ftwq6rGJrWx"
     },
     {
-      "added_at": "2025-06-03 12:45:54",
+      "added_at": "2025-06-04 08:44:44",
       "album": {
         "name": "CRUSH",
         "url": "https://open.spotify.com/album/3fAbIQ4KlgfrbFmIPDJQO0"
@@ -229,7 +245,7 @@
       "url": "https://open.spotify.com/track/5GKsUqnQ90T5kkvG6u30wZ"
     },
     {
-      "added_at": "2025-06-03 12:45:54",
+      "added_at": "2025-06-04 08:44:44",
       "album": {
         "name": "Viraal",
         "url": "https://open.spotify.com/album/1XUoGpopyjrDTJTkCSRHAw"
@@ -245,7 +261,7 @@
       "url": "https://open.spotify.com/track/2P4ywspztlDq513vHHXN99"
     },
     {
-      "added_at": "2025-06-03 12:45:54",
+      "added_at": "2025-06-04 08:44:44",
       "album": {
         "name": "There She Goes",
         "url": "https://open.spotify.com/album/3gHDnPPOgXcueJrL1r03q2"
@@ -269,7 +285,7 @@
       "url": "https://open.spotify.com/track/2aSjWonALEwE3wTpjYMvc7"
     },
     {
-      "added_at": "2025-06-03 12:45:54",
+      "added_at": "2025-06-04 08:44:44",
       "album": {
         "name": "Oceaan",
         "url": "https://open.spotify.com/album/1QkBBd2wfYd0LNGopd4gOw"
@@ -285,7 +301,7 @@
       "url": "https://open.spotify.com/track/3XHVACVno8XRN5ViQykG2A"
     },
     {
-      "added_at": "2025-06-03 12:45:54",
+      "added_at": "2025-06-04 08:44:44",
       "album": {
         "name": "Pure Heroine",
         "url": "https://open.spotify.com/album/2nPokmAvYy5qYO4rFU7ZDm"
@@ -301,7 +317,7 @@
       "url": "https://open.spotify.com/track/38WyDtxZhxm63jiythwemE"
     },
     {
-      "added_at": "2025-06-03 12:45:54",
+      "added_at": "2025-06-04 08:44:44",
       "album": {
         "name": "Hart In Brand",
         "url": "https://open.spotify.com/album/5Gtvc0bWyrMfYqJwAKup8V"
@@ -321,23 +337,7 @@
       "url": "https://open.spotify.com/track/30k0WUGuf3QCotkXbxnrOx"
     },
     {
-      "added_at": "2025-06-03 12:45:54",
-      "album": {
-        "name": "Baila de Gasolina",
-        "url": "https://open.spotify.com/album/2ojXXfh1QKhimrvz4wt97G"
-      },
-      "artists": [
-        {
-          "name": "Effe Serieus",
-          "url": "https://open.spotify.com/artist/3NRhf1UyPB4XwxBq1eQE93"
-        }
-      ],
-      "duration_ms": 140782,
-      "name": "Baila de Gasolina",
-      "url": "https://open.spotify.com/track/43TPlT0l0HXLtKUOUoY3gY"
-    },
-    {
-      "added_at": "2025-06-03 12:45:54",
+      "added_at": "2025-06-04 08:44:44",
       "album": {
         "name": "Show Me Love",
         "url": "https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6"
@@ -357,7 +357,23 @@
       "url": "https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa"
     },
     {
-      "added_at": "2025-06-03 12:45:54",
+      "added_at": "2025-06-04 08:44:44",
+      "album": {
+        "name": "Wasmachine",
+        "url": "https://open.spotify.com/album/5sGEhRZFrnLB3K9brHUqVF"
+      },
+      "artists": [
+        {
+          "name": "Romy Indy",
+          "url": "https://open.spotify.com/artist/6JhADekMjsEbsfmBxjsmjQ"
+        }
+      ],
+      "duration_ms": 97687,
+      "name": "Wasmachine",
+      "url": "https://open.spotify.com/track/07ljnBvIzzbVuiKciLLEm1"
+    },
+    {
+      "added_at": "2025-06-04 08:44:44",
       "album": {
         "name": "Baille",
         "url": "https://open.spotify.com/album/3070nvzG2FbwF1H3oYmMFs"
@@ -373,7 +389,7 @@
       "url": "https://open.spotify.com/track/0vBqDdVYnqGAD41TsizN73"
     },
     {
-      "added_at": "2025-06-03 12:45:54",
+      "added_at": "2025-06-04 08:44:44",
       "album": {
         "name": "Lotje",
         "url": "https://open.spotify.com/album/0YJfvsHFmJBpI7sj4SbWq2"
@@ -397,7 +413,7 @@
       "url": "https://open.spotify.com/track/2wu9tmhmdwIk0IcCHPndhI"
     },
     {
-      "added_at": "2025-06-03 12:45:54",
+      "added_at": "2025-06-04 08:44:44",
       "album": {
         "name": "Nachtvlinder 2",
         "url": "https://open.spotify.com/album/0bQsTCXR5uOP4C8vD9sC3r"
@@ -421,7 +437,7 @@
       "url": "https://open.spotify.com/track/5ao2Yb1Ec7YbY1gHqtZAV5"
     },
     {
-      "added_at": "2025-06-03 12:45:54",
+      "added_at": "2025-06-04 08:44:44",
       "album": {
         "name": "Altijd Vrijgezel",
         "url": "https://open.spotify.com/album/4OgdH30iQ4Bh2mBNNgiyFM"
@@ -437,7 +453,7 @@
       "url": "https://open.spotify.com/track/3AbyKaiTknW5Db0wpens5Y"
     },
     {
-      "added_at": "2025-06-03 12:45:54",
+      "added_at": "2025-06-04 08:44:44",
       "album": {
         "name": "Connie Francis Sings Second Hand Love & Other Hits",
         "url": "https://open.spotify.com/album/6CTiCTGft53NcVMsAxxgCQ"
@@ -453,7 +469,7 @@
       "url": "https://open.spotify.com/track/5GQPBzoRBDxcAjwSSluQXD"
     },
     {
-      "added_at": "2025-06-03 12:45:54",
+      "added_at": "2025-06-04 08:44:44",
       "album": {
         "name": "Lady Killers II (Christoph Andersson Remix)",
         "url": "https://open.spotify.com/album/1tmjsiIUIlF0Zyaj2J5vI1"
@@ -473,7 +489,7 @@
       "url": "https://open.spotify.com/track/0QRhtV1MwywpkLTvCdMaWq"
     },
     {
-      "added_at": "2025-06-03 12:45:54",
+      "added_at": "2025-06-04 08:44:44",
       "album": {
         "name": "The Caledonian Fig Tree",
         "url": "https://open.spotify.com/album/61sSD9oG2awgIu3FRCgrP0"
@@ -489,7 +505,7 @@
       "url": "https://open.spotify.com/track/0ZIxdZXPHnjUT3PdBKRziQ"
     },
     {
-      "added_at": "2025-06-03 12:45:54",
+      "added_at": "2025-06-04 08:44:44",
       "album": {
         "name": "Vooral Jong Blijven (Expanded Edition)",
         "url": "https://open.spotify.com/album/5J17QDbNTMngf3C5OkYb4P"
@@ -505,7 +521,7 @@
       "url": "https://open.spotify.com/track/3Jry4QiSVo9HmSj7o17j0H"
     },
     {
-      "added_at": "2025-06-03 12:45:54",
+      "added_at": "2025-06-04 08:44:44",
       "album": {
         "name": "De Lieve Jongen",
         "url": "https://open.spotify.com/album/4ecm0EqGoKQsvdOMe2pwzN"
@@ -521,7 +537,7 @@
       "url": "https://open.spotify.com/track/4abBs6DIk89PJKl3wXOwum"
     },
     {
-      "added_at": "2025-06-03 12:45:54",
+      "added_at": "2025-06-04 08:44:44",
       "album": {
         "name": "Dat Type Of Gurl",
         "url": "https://open.spotify.com/album/2n2sXuFZW2FrhI8JYhicI7"
@@ -537,7 +553,7 @@
       "url": "https://open.spotify.com/track/37IZHbmUmuhZITM4SW6PtV"
     },
     {
-      "added_at": "2025-06-03 12:45:54",
+      "added_at": "2025-06-04 08:44:44",
       "album": {
         "name": "Say My Name (Remix)",
         "url": "https://open.spotify.com/album/5zs9KJ2YsEjRzafvTdYTsk"
@@ -557,7 +573,7 @@
       "url": "https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32"
     },
     {
-      "added_at": "2025-06-03 12:45:54",
+      "added_at": "2025-06-04 08:44:44",
       "album": {
         "name": "Boy Meets World",
         "url": "https://open.spotify.com/album/2Qq4N5lYtsZspF2QFLKcbY"
@@ -577,7 +593,7 @@
       "url": "https://open.spotify.com/track/3FjK86616FbluOfTxNK2gY"
     },
     {
-      "added_at": "2025-06-03 12:45:54",
+      "added_at": "2025-06-04 08:44:44",
       "album": {
         "name": "Echte Liefde Is Te Koop",
         "url": "https://open.spotify.com/album/5FdoE9L40YPXKy7co8DDbR"
@@ -593,7 +609,7 @@
       "url": "https://open.spotify.com/track/7tW2Md8xOwnKPIYhCqPiU4"
     },
     {
-      "added_at": "2025-06-03 12:45:54",
+      "added_at": "2025-06-04 08:44:44",
       "album": {
         "name": "Weet Je Wel Wie Wij Zijn",
         "url": "https://open.spotify.com/album/39JuHfmF5pj8Ieo2qcZYJ0"
@@ -613,7 +629,7 @@
       "url": "https://open.spotify.com/track/2ATpRdUd9evdQfH5a7PvYn"
     },
     {
-      "added_at": "2025-06-03 12:45:54",
+      "added_at": "2025-06-04 08:44:44",
       "album": {
         "name": "May the Forze Be with You",
         "url": "https://open.spotify.com/album/4WMailt3JxCYn1RnoiAQAP"
@@ -629,7 +645,7 @@
       "url": "https://open.spotify.com/track/6L931X4LbkLbvOpJp04YbE"
     },
     {
-      "added_at": "2025-06-03 12:45:54",
+      "added_at": "2025-06-04 08:44:44",
       "album": {
         "name": "Mixtape 2, Rap 'N Borie",
         "url": "https://open.spotify.com/album/5XtKjZcO6XO1OiCuONGyJS"
@@ -645,7 +661,7 @@
       "url": "https://open.spotify.com/track/68gkB9GBHeTotKGqtPMGUX"
     },
     {
-      "added_at": "2025-06-03 12:45:54",
+      "added_at": "2025-06-04 08:44:44",
       "album": {
         "name": "undressed",
         "url": "https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D"
@@ -661,7 +677,7 @@
       "url": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"
     },
     {
-      "added_at": "2025-06-03 12:45:54",
+      "added_at": "2025-06-04 08:44:44",
       "album": {
         "name": "Sigma Boy (\u0421\u0438\u0433\u043c\u0430 \u0411\u043e\u0439)",
         "url": "https://open.spotify.com/album/6jUkntzXG3w4sngQqkt5EH"
@@ -681,7 +697,7 @@
       "url": "https://open.spotify.com/track/23UBSdCPcsloNVmQZ508Zv"
     },
     {
-      "added_at": "2025-06-03 12:45:54",
+      "added_at": "2025-06-04 08:44:44",
       "album": {
         "name": "PASSO BEM SOLTO",
         "url": "https://open.spotify.com/album/0I7096R74VFP2xnMmp33sY"
@@ -697,7 +713,7 @@
       "url": "https://open.spotify.com/track/4sTlQPMyoFMPdhAJvErBN3"
     },
     {
-      "added_at": "2025-06-03 12:45:54",
+      "added_at": "2025-06-04 08:44:44",
       "album": {
         "name": "10/10",
         "url": "https://open.spotify.com/album/5VWPkqPUYktdoEVXIPhoRc"
@@ -713,7 +729,7 @@
       "url": "https://open.spotify.com/track/1Na008bZjzO3CR3JiHIZ3C"
     },
     {
-      "added_at": "2025-06-03 12:45:54",
+      "added_at": "2025-06-04 08:44:44",
       "album": {
         "name": "Achteruit (feat. Bizzey & Trobi)",
         "url": "https://open.spotify.com/album/0TqtTiVPUo1CjarIxlL2DH"
@@ -737,7 +753,7 @@
       "url": "https://open.spotify.com/track/4iMT7wRGEJdLvknC3JFjwS"
     },
     {
-      "added_at": "2025-06-03 12:45:54",
+      "added_at": "2025-06-04 08:44:44",
       "album": {
         "name": "I Surrender (Remix)",
         "url": "https://open.spotify.com/album/7yaehZezasawQfcqWOkbcT"
@@ -757,7 +773,7 @@
       "url": "https://open.spotify.com/track/7GDEIrIOGdE5AkQfuk1FA3"
     },
     {
-      "added_at": "2025-06-03 12:45:54",
+      "added_at": "2025-06-04 08:44:44",
       "album": {
         "name": "Hotel Cabana (Deluxe Version)",
         "url": "https://open.spotify.com/album/6ubgnzYckmWTNuCpc5Di5i"
@@ -777,7 +793,7 @@
       "url": "https://open.spotify.com/track/3wPPWcVuinAU7dXcJXtCID"
     },
     {
-      "added_at": "2025-06-03 12:45:54",
+      "added_at": "2025-06-04 08:44:44",
       "album": {
         "name": "Francis (Deluxe)",
         "url": "https://open.spotify.com/album/7grJqgWAfkay4AI7XubQYc"
@@ -797,7 +813,7 @@
       "url": "https://open.spotify.com/track/1oDGSDSB1WMKOJ9Uan2xhK"
     },
     {
-      "added_at": "2025-06-03 12:45:54",
+      "added_at": "2025-06-04 08:44:44",
       "album": {
         "name": "Not Like Us",
         "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
@@ -813,7 +829,7 @@
       "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
     },
     {
-      "added_at": "2025-06-03 12:45:54",
+      "added_at": "2025-06-04 08:44:44",
       "album": {
         "name": "MALA M\u00cdA",
         "url": "https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy"
@@ -833,7 +849,7 @@
       "url": "https://open.spotify.com/track/3D24ErT1MMmUfXWotSj2A2"
     },
     {
-      "added_at": "2025-06-03 12:45:54",
+      "added_at": "2025-06-04 08:44:44",
       "album": {
         "name": "Colores",
         "url": "https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis"
@@ -849,7 +865,7 @@
       "url": "https://open.spotify.com/track/2lCkncy6bIB0LTMT7kvrD1"
     },
     {
-      "added_at": "2025-06-03 12:45:54",
+      "added_at": "2025-06-04 08:44:44",
       "album": {
         "name": "Love Me Not / Love Is Blind",
         "url": "https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g"
@@ -865,7 +881,7 @@
       "url": "https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52"
     },
     {
-      "added_at": "2025-06-03 12:45:54",
+      "added_at": "2025-06-04 08:44:44",
       "album": {
         "name": "The Gifted",
         "url": "https://open.spotify.com/album/1f2ggF7K0aDz88Xg4b3Vr2"
@@ -885,7 +901,7 @@
       "url": "https://open.spotify.com/track/2FGKofI4AJN91ofBNDmWWB"
     },
     {
-      "added_at": "2025-06-03 12:45:54",
+      "added_at": "2025-06-04 08:44:44",
       "album": {
         "name": "Good Girl Gone Bad",
         "url": "https://open.spotify.com/album/4OXnPSBtZo8PBFiTOfuumP"
@@ -901,7 +917,7 @@
       "url": "https://open.spotify.com/track/5EcG8eMMlwkHRVa4aTR1qd"
     },
     {
-      "added_at": "2025-06-03 12:45:54",
+      "added_at": "2025-06-04 08:44:44",
       "album": {
         "name": "Raise!",
         "url": "https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg"
@@ -917,7 +933,7 @@
       "url": "https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8"
     },
     {
-      "added_at": "2025-06-03 12:45:54",
+      "added_at": "2025-06-04 08:44:44",
       "album": {
         "name": "The Lady Killer (Deluxe)",
         "url": "https://open.spotify.com/album/5uR0dqBMYWZFYJT7mvPZ82"
@@ -933,7 +949,7 @@
       "url": "https://open.spotify.com/track/3ydfhgIZIc2j39NLIhpJpq"
     },
     {
-      "added_at": "2025-06-03 12:45:54",
+      "added_at": "2025-06-04 08:44:44",
       "album": {
         "name": "Wat Is Dan Liefde",
         "url": "https://open.spotify.com/album/62HLijQSSFCY1yP8TMpqyl"
@@ -949,7 +965,7 @@
       "url": "https://open.spotify.com/track/07jhRADuYVbpnmanPyoNQ2"
     },
     {
-      "added_at": "2025-06-03 12:45:54",
+      "added_at": "2025-06-04 08:44:44",
       "album": {
         "name": "chille guy",
         "url": "https://open.spotify.com/album/0fHVPIbtXgbAv0LJnri8jR"
@@ -965,7 +981,7 @@
       "url": "https://open.spotify.com/track/7BDorbvHZ7gcHwEZLu06eY"
     },
     {
-      "added_at": "2025-06-03 12:45:54",
+      "added_at": "2025-06-04 08:44:44",
       "album": {
         "name": "Echte liefde",
         "url": "https://open.spotify.com/album/2Jbcfc2CLMC0KPa6m0h7fd"
@@ -981,7 +997,7 @@
       "url": "https://open.spotify.com/track/6F6S3TLKWLCedkJhrUFQ2k"
     },
     {
-      "added_at": "2025-06-03 12:45:54",
+      "added_at": "2025-06-04 08:44:44",
       "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
         "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
@@ -997,7 +1013,7 @@
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
     },
     {
-      "added_at": "2025-06-03 12:45:54",
+      "added_at": "2025-06-04 08:44:44",
       "album": {
         "name": "Messy",
         "url": "https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh"
@@ -1013,7 +1029,7 @@
       "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
     },
     {
-      "added_at": "2025-06-03 12:45:54",
+      "added_at": "2025-06-04 08:44:44",
       "album": {
         "name": "Subliminal (La face cach\u00e9e)",
         "url": "https://open.spotify.com/album/5EU9LqPsBwrhq4Iqx0xMVd"
@@ -1029,7 +1045,7 @@
       "url": "https://open.spotify.com/track/4w47YE9rjhmZUdtZjSCb82"
     },
     {
-      "added_at": "2025-06-03 12:45:54",
+      "added_at": "2025-06-04 08:44:44",
       "album": {
         "name": "Eatin' Good",
         "url": "https://open.spotify.com/album/3lqXzStQ53mRbPtJeKZQIB"
@@ -1045,7 +1061,7 @@
       "url": "https://open.spotify.com/track/0qh5uqeiEI4S48mm8PrznZ"
     },
     {
-      "added_at": "2025-06-03 12:45:54",
+      "added_at": "2025-06-04 08:44:44",
       "album": {
         "name": "Constellations",
         "url": "https://open.spotify.com/album/4b1xWMGSJAtnnQxd2JVDw6"
@@ -1061,7 +1077,7 @@
       "url": "https://open.spotify.com/track/6XZFPFanJb6RKGvuAAv3g8"
     },
     {
-      "added_at": "2025-06-03 12:45:54",
+      "added_at": "2025-06-04 08:44:44",
       "album": {
         "name": "The Days (NOTION Remix)",
         "url": "https://open.spotify.com/album/15gT6ikjvzrlIxQ5eTpqLJ"
@@ -1081,7 +1097,7 @@
       "url": "https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8"
     },
     {
-      "added_at": "2025-06-03 12:45:54",
+      "added_at": "2025-06-04 08:44:44",
       "album": {
         "name": "Her Eyes",
         "url": "https://open.spotify.com/album/7L9r0s6fR9PNZg6KC6cSfx"
@@ -1097,7 +1113,7 @@
       "url": "https://open.spotify.com/track/2140Txb63i5WGqFZX52gag"
     },
     {
-      "added_at": "2025-06-03 12:45:54",
+      "added_at": "2025-06-04 08:44:44",
       "album": {
         "name": "Follow You",
         "url": "https://open.spotify.com/album/3xAcJuzZ9QQuMbuuViPOfE"
@@ -1113,7 +1129,7 @@
       "url": "https://open.spotify.com/track/7cMhicmOIwfJlWURl90AOc"
     },
     {
-      "added_at": "2025-06-03 12:45:54",
+      "added_at": "2025-06-04 08:44:44",
       "album": {
         "name": "Blikkendag",
         "url": "https://open.spotify.com/album/5dpLNuG6TiMugxpqyLDGZB"
@@ -1133,7 +1149,7 @@
       "url": "https://open.spotify.com/track/3HcIbVeDYLg8u2DiqM4zuT"
     },
     {
-      "added_at": "2025-06-03 12:45:54",
+      "added_at": "2025-06-04 08:44:44",
       "album": {
         "name": "Dirty Cash (Money Talks)",
         "url": "https://open.spotify.com/album/2d9NxyCSygtJcvsAmBtXOj"
@@ -1153,7 +1169,7 @@
       "url": "https://open.spotify.com/track/2VyvDGdcVY04cNYou9MFVX"
     },
     {
-      "added_at": "2025-06-03 12:45:54",
+      "added_at": "2025-06-04 08:44:44",
       "album": {
         "name": "Gimmie Di Whine",
         "url": "https://open.spotify.com/album/1Ruqmodafo0G28ccaMgr8R"
@@ -1177,7 +1193,7 @@
       "url": "https://open.spotify.com/track/2ZepfwlAgurKDSLNZl9XQW"
     },
     {
-      "added_at": "2025-06-03 12:45:54",
+      "added_at": "2025-06-04 08:44:44",
       "album": {
         "name": "LET'S GO",
         "url": "https://open.spotify.com/album/7sma9kYAXjPX6ABANXmCbe"
@@ -1197,7 +1213,7 @@
       "url": "https://open.spotify.com/track/20Y4EAmSXru3foatDg4OqN"
     },
     {
-      "added_at": "2025-06-03 12:45:54",
+      "added_at": "2025-06-04 08:44:44",
       "album": {
         "name": "Kisses (feat. bbyclose)",
         "url": "https://open.spotify.com/album/3eIA3WFdBvYVUP8sVD5p34"
@@ -1221,7 +1237,7 @@
       "url": "https://open.spotify.com/track/1bJRd2ey6ER7neSxZwYdAG"
     },
     {
-      "added_at": "2025-06-03 12:45:54",
+      "added_at": "2025-06-04 08:44:44",
       "album": {
         "name": "Free (feat. Starsplash)",
         "url": "https://open.spotify.com/album/3g4YQYRWn89pIIAGhRIqNf"
@@ -1245,7 +1261,7 @@
       "url": "https://open.spotify.com/track/1Juo1H8h7Gbg4m0d9qOdxq"
     },
     {
-      "added_at": "2025-06-03 12:45:54",
+      "added_at": "2025-06-04 08:44:44",
       "album": {
         "name": "Don't Copy My Flow",
         "url": "https://open.spotify.com/album/3uxZV2XyunoLM15AMYl4au"
@@ -1269,7 +1285,7 @@
       "url": "https://open.spotify.com/track/44HTE9IdjUk01DEAp54amH"
     },
     {
-      "added_at": "2025-06-03 12:45:54",
+      "added_at": "2025-06-04 08:44:44",
       "album": {
         "name": "Flitsmeister",
         "url": "https://open.spotify.com/album/6oVwizQaFIHHVVykUYsdpj"
@@ -1289,7 +1305,7 @@
       "url": "https://open.spotify.com/track/5Jge7TWCxstcZNfGIRSevt"
     },
     {
-      "added_at": "2025-06-03 12:45:54",
+      "added_at": "2025-06-04 08:44:44",
       "album": {
         "name": "Ze Willen Mee",
         "url": "https://open.spotify.com/album/4co7IlC064DlTfPGatPM7B"
@@ -1317,7 +1333,7 @@
       "url": "https://open.spotify.com/track/2zW8y5ry4YudAPnLmagr1c"
     },
     {
-      "added_at": "2025-06-03 12:45:54",
+      "added_at": "2025-06-04 08:44:44",
       "album": {
         "name": "Pr\u00f3xima Estaci\u00f3n: Esperanza",
         "url": "https://open.spotify.com/album/4t1LLdXiWTfoywqricztFo"
@@ -1333,7 +1349,7 @@
       "url": "https://open.spotify.com/track/6b37xrsNCWYIUphFBazqD6"
     },
     {
-      "added_at": "2025-06-03 12:45:54",
+      "added_at": "2025-06-04 08:44:44",
       "album": {
         "name": "Yamore",
         "url": "https://open.spotify.com/album/5wKcgs8bejansNdK6IJC0C"
@@ -1365,7 +1381,7 @@
       "url": "https://open.spotify.com/track/480j122Gpi252OIfy4SNzm"
     },
     {
-      "added_at": "2025-06-03 12:45:54",
+      "added_at": "2025-06-04 08:44:44",
       "album": {
         "name": "Pretty Girls Remix Pack",
         "url": "https://open.spotify.com/album/4Wmt3X6XnB7UF2JxYXcJSk"
@@ -1389,7 +1405,7 @@
       "url": "https://open.spotify.com/track/0BQhQL9MIIOvkufAPkqq1q"
     },
     {
-      "added_at": "2025-06-03 12:45:54",
+      "added_at": "2025-06-04 08:44:44",
       "album": {
         "name": "Macarena",
         "url": "https://open.spotify.com/album/15x23pLQyRifNSNESswpN0"

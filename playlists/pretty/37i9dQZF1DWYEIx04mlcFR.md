@@ -10,7 +10,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 |---|---|---|---|---|
 | 1 | [el mundo no se acaba si te vas](https://open.spotify.com/track/7hZqQVzxR1zXOczT2zNJMD) | [NXNNI](https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK) | [mi mundo kawaii](https://open.spotify.com/album/3OaTo7T5LVBfIVc5DtuOIN) | 2:56 |
 | 2 | [PLAYA ÑAOTEVIA](https://open.spotify.com/track/2H4V2pWq2Nvu1IR9mCZRvw) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [PLAYA ÑAOTEVIA](https://open.spotify.com/album/54CVY89ugGiyxs7A9b7yqT) | 2:55 |
-| 3 | [2016](https://open.spotify.com/track/5sbZTCchgVQfxDMwMOtwcq) | [Sofish](https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB) | [2016](https://open.spotify.com/album/531QfnEmKNv2z1LXVEUghN) | 1:57 |
+| 3 | [2016](https://open.spotify.com/track/5sbZTCchgVQfxDMwMOtwcq) | [Sofish](https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB) | [2016](https://open.spotify.com/album/531QfnEmKNv2z1LXVEUghN) | 1:56 |
 | 4 | [pijama.](https://open.spotify.com/track/3oCKpnwoT4g9adu3O1yyZ3) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [Au](https://open.spotify.com/album/68gJgiFvFFokWUzezIIiQt) | 2:38 |
 | 5 | [Nocturna \- Remix](https://open.spotify.com/track/1Pm96NkK5n5JTiMux2a7Hw) | [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4), [BUDAYA](https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U) | [Nocturna \(Remix\)](https://open.spotify.com/album/64KBVRY3R66jdxb9w99ZVH) | 3:55 |
 | 6 | [Yo Nunca Fui Tu Flaco](https://open.spotify.com/track/4NQCngk0WSnf47q5Ql3sAX) | [El Toed](https://open.spotify.com/artist/1FtiJnQyLN1nHqWz6ALjyh) | [Yo Nunca Fui Tu Flaco](https://open.spotify.com/album/55YZvoQkX5O0VJ7uamdCfV) | 2:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 49 | [SAMPLE](https://open.spotify.com/track/7BJnKDg5L76sozy9KPzJXN) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [SAMPLE](https://open.spotify.com/album/3O8Ne1bfLwW9ddFvltybCh) | 2:39 |
 | 50 | [me va a costar](https://open.spotify.com/track/0Y7NqQ9RNoHZHDTeDS4UnO) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [me va a costar](https://open.spotify.com/album/7MgPJ608fJvGMf7xCJlPq9) | 3:48 |
 
-Snapshot ID: `aDlJawAAAABFeSMpKdewut6Iz3R/QAgc`
+Snapshot ID: `AAAAAImawKTaKpS9DVEbGWDevCSFGJ+j`

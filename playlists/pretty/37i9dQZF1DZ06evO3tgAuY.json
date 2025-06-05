@@ -1,12 +1,12 @@
 {
   "description": "This is Alex Favela. The essential tracks, all in one playlist.",
-  "num_followers": 2275,
+  "num_followers": 2274,
   "original_name": "This Is Alex Favela",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDzpgAAAAAAA4gsU2zXxkF4ptbcXKaMn",
+  "snapshot_id": "aD47AAAAAACLMhohoMJd9JA4GsM/wiK9",
   "tracks": [
     {
       "added_at": null,
@@ -739,26 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nos Gusto El Estilo",
-        "url": "https://open.spotify.com/album/07U20gKzQjfP4e6IyubdMI"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Perfil SS",
-          "url": "https://open.spotify.com/artist/24ieVGvAttWOws9ZuFeOXc"
-        }
-      ],
-      "duration_ms": 179141,
-      "name": "Nos Gusto El Estilo",
-      "url": "https://open.spotify.com/track/5tiJ93Am2OQNMCkTAxHBpd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tiempos Duros",
         "url": "https://open.spotify.com/album/1grOOSZFlQSPqxZEvo4t6C"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 145493,
       "name": "El Dragon",
       "url": "https://open.spotify.com/track/0jZScMFNGw4Lfc7ezSJFVT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nos Gusto El Estilo",
+        "url": "https://open.spotify.com/album/07U20gKzQjfP4e6IyubdMI"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Perfil SS",
+          "url": "https://open.spotify.com/artist/24ieVGvAttWOws9ZuFeOXc"
+        }
+      ],
+      "duration_ms": 179141,
+      "name": "Nos Gusto El Estilo",
+      "url": "https://open.spotify.com/track/5tiJ93Am2OQNMCkTAxHBpd"
     },
     {
       "added_at": null,
@@ -811,26 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Marin",
-        "url": "https://open.spotify.com/album/4eASAZRdq38xNSpvPnJULX"
-      },
-      "artists": [
-        {
-          "name": "David Santos",
-          "url": "https://open.spotify.com/artist/3sc9qeCcbKwYiiBspwVUzU"
-        },
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 133923,
-      "name": "El Marin",
-      "url": "https://open.spotify.com/track/5anAtF4GsmsWMeZ1z4HVkg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tiempos Duros",
         "url": "https://open.spotify.com/album/1grOOSZFlQSPqxZEvo4t6C"
       },
@@ -863,6 +843,58 @@
       "duration_ms": 160362,
       "name": "Dejate Llevar",
       "url": "https://open.spotify.com/track/2wYXO8oP8xJlDexYHSZaiR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Marin",
+        "url": "https://open.spotify.com/album/4eASAZRdq38xNSpvPnJULX"
+      },
+      "artists": [
+        {
+          "name": "David Santos",
+          "url": "https://open.spotify.com/artist/3sc9qeCcbKwYiiBspwVUzU"
+        },
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 133923,
+      "name": "El Marin",
+      "url": "https://open.spotify.com/track/5anAtF4GsmsWMeZ1z4HVkg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo Desde CLN Tololoche Edition",
+        "url": "https://open.spotify.com/album/0nQSOTRnaZSOyj3pF15S9z"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 119920,
+      "name": "Medio Fresa - En Vivo",
+      "url": "https://open.spotify.com/track/4epfxYcztlxebaoBOQvddw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tiempos Duros",
+        "url": "https://open.spotify.com/album/1grOOSZFlQSPqxZEvo4t6C"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 154154,
+      "name": "Que Cambie",
+      "url": "https://open.spotify.com/track/3rYH7ZzFDnBkV5CSCa7nYS"
     },
     {
       "added_at": null,
@@ -907,38 +939,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tiempos Duros",
-        "url": "https://open.spotify.com/album/1grOOSZFlQSPqxZEvo4t6C"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 154154,
-      "name": "Que Cambie",
-      "url": "https://open.spotify.com/track/3rYH7ZzFDnBkV5CSCa7nYS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Vivo Desde CLN Tololoche Edition",
-        "url": "https://open.spotify.com/album/0nQSOTRnaZSOyj3pF15S9z"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 119920,
-      "name": "Medio Fresa - En Vivo",
-      "url": "https://open.spotify.com/track/4epfxYcztlxebaoBOQvddw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Canchame",
         "url": "https://open.spotify.com/album/3DEQ1q5V010o1E8zoCSVvr"
       },
@@ -959,26 +959,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Los Angeles Hay Que Tenerle Cuidado",
-        "url": "https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B"
-      },
-      "artists": [
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        },
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 275136,
-      "name": "Mr. Seal The Deal",
-      "url": "https://open.spotify.com/track/12ecK1xV4KZ1fHiGo6MlIt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tiempos Duros",
         "url": "https://open.spotify.com/album/1grOOSZFlQSPqxZEvo4t6C"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 183360,
       "name": "Pa Que Hablen De Verdad",
       "url": "https://open.spotify.com/track/3mMJwhbV6dcACewyXQgKEg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Los Angeles Hay Que Tenerle Cuidado",
+        "url": "https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B"
+      },
+      "artists": [
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        },
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 275136,
+      "name": "Mr. Seal The Deal",
+      "url": "https://open.spotify.com/track/12ecK1xV4KZ1fHiGo6MlIt"
     }
   ],
   "unique_name": "This Is Alex Favela",

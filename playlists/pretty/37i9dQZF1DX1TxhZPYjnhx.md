@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TxhZPYjnhx.md) - [plain]
 
 > Discover new favorites or tomorrow's hits today\. Cover: Lorde
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,577 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,578 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TxhZPYjnhx.md) - [plain]
 | 73 | [GOAT](https://open.spotify.com/track/0T4IEn0sf3jKA74S0MOnaJ) | [KRU](https://open.spotify.com/artist/2rcRcfzOWMvNbRPKg5SBjr) | [Kaset](https://open.spotify.com/album/7J9EgZ74dLsD1WnFOVBYEC) | 3:45 |
 | 74 | [Blessings](https://open.spotify.com/track/78nx0HDJIFD5xDq2L5420Z) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Blessings](https://open.spotify.com/album/5awEnPUdqgYwqsc33hPk52) | 3:39 |
 | 75 | [Hand That Feeds \- From the Film Ballerina](https://open.spotify.com/track/0svd9Ojc1lK8tmp7bRwO7N) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Amy Lee](https://open.spotify.com/artist/0fGVuq5ed21pM7iWwTcMyk) | [Hand That Feeds \(From the Film Ballerina\)](https://open.spotify.com/album/11mWSwVmv4qfmi2BVHDXmg) | 3:06 |
-| 76 | [prettiest to love](https://open.spotify.com/track/3YOBIeAaPz5i5ciwwBRG6P) | [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW) | [PIN PROJECT X YUJI](https://open.spotify.com/album/4sin6fYg1pOYJLQRkcH45n) | 2:42 |
+| 76 | [prettiest to love](https://open.spotify.com/track/3YOBIeAaPz5i5ciwwBRG6P) | [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW) | [PIN X YUJI](https://open.spotify.com/album/4sin6fYg1pOYJLQRkcH45n) | 2:42 |
 | 77 | [Hooked](https://open.spotify.com/track/2eCESimcY5kb5j6EwR4E4E) | [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P) | [Hooked](https://open.spotify.com/album/259hWQhXBOcAcNMM299FbZ) | 2:24 |
 | 78 | [Love Again](https://open.spotify.com/track/0A3omwhvYCn1Hg27VliWen) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Everything I've Wanted To Say](https://open.spotify.com/album/6ZPOaniWpQLMPp6YTmi8Td) | 2:06 |
 | 79 | [Pookie](https://open.spotify.com/track/6vw9OTw8rBhatDSdlxVIuF) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Day & Night](https://open.spotify.com/album/087SnCtQCK0szSftQ2KYTF) | 2:32 |

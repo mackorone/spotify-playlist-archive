@@ -4,7 +4,7 @@
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-376 songs - 16 hr 31 min
+377 songs - 16 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,8 +63,8 @@
 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2024-03-15 | 2024-04-20 |
 | [ESCAPE \(Bang Chan & Hyunjin\)](https://open.spotify.com/track/3azJdRk8qSuApz5irmde3R) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Mixtape : dominATE](https://open.spotify.com/album/4fTGqjAolmy05iQwHq7n6x) | 3:11 | 2025-03-28 | 2025-04-04 |
 | [ESCAPE \(Bang Chan & Hyunjin\)](https://open.spotify.com/track/5v6c5XtD3zKPvgUknF7h9K) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Mixtape : dominATE](https://open.spotify.com/album/6lGezrzEsfsCvwVn3PzxeP) | 3:11 | 2025-03-28 | 2025-04-05 |
-| [Espresso Macchiato](https://open.spotify.com/track/3gWBWLw3J3XTy3QTo36GqJ) | [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK) | [Espresso Macchiato](https://open.spotify.com/album/6oyTmTZoCYK6zyoaOPK9ns) | 2:53 | 2025-05-23 | 2025-05-31 |
-| [Espresso Macchiato](https://open.spotify.com/track/4zpNfuWJA3K4d9TS4qnOIB) | [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK) | [Espresso Macchiato](https://open.spotify.com/album/6i83szVwI1FZFeMQHobNsj) | 2:53 | 2025-05-23 |  |
+| [Espresso Macchiato](https://open.spotify.com/track/3gWBWLw3J3XTy3QTo36GqJ) | [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK) | [Espresso Macchiato](https://open.spotify.com/album/6oyTmTZoCYK6zyoaOPK9ns) | 2:53 | 2025-05-23 |  |
+| [Espresso Macchiato](https://open.spotify.com/track/4zpNfuWJA3K4d9TS4qnOIB) | [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK) | [Espresso Macchiato](https://open.spotify.com/album/6i83szVwI1FZFeMQHobNsj) | 2:53 | 2025-05-23 | 2025-06-05 |
 | [F\*CK OFF](https://open.spotify.com/track/0w9ZBj1sdjzemjX2E8WONY) | [NEWLIGHTCHILD](https://open.spotify.com/artist/6OYItdfhVXpz16ZvpFq7Uh) | [NIGHT FOR EVER](https://open.spotify.com/album/3iGmfrdym4uPxjWa82zWrS) | 1:43 | 2024-01-26 | 2024-04-13 |
 | [Fake ID](https://open.spotify.com/track/74kalpHrS2ngqa68XFL0dS) | [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz), [Icegergert](https://open.spotify.com/artist/4z3TiM4dsnvWDRcnqf3l0r) | [Fake ID](https://open.spotify.com/album/1rQNxdOWEaDyxF0bldJ7eI) | 3:49 | 2025-04-18 |  |
 | [Falling Down \- Bonus Track](https://open.spotify.com/track/4jvjzW7Hm0yK4LvvE0Paz9) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Come Over When You're Sober, Pt\. 2](https://open.spotify.com/album/52JymrguPgkmmwLaWIusst) | 3:16 | 2025-02-28 | 2025-03-08 |
@@ -131,7 +131,8 @@
 | [Railway \(Bang Chan\)](https://open.spotify.com/track/4vNhzQfgfWIzOxbB8HfIHa) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [HOP](https://open.spotify.com/album/3IGZmUJql41Q2FSIBweSsz) | 2:53 | 2024-12-20 | 2024-12-28 |
 | [Rainy Days](https://open.spotify.com/track/5ydjxBSUIDn26MFzU3asP4) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 2:59 | 2024-09-13 | 2024-12-07 |
 | [Rebirth \(Intro\)](https://open.spotify.com/track/7gMfVc4zfNIxuMyMGglOHa) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 2:24 | 2025-05-09 |  |
-| [Rock That Body](https://open.spotify.com/track/2WQ09wqQBIOor7Q0VpIDBK) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\) \[Deluxe Version\]](https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX) | 4:28 | 2025-05-30 |  |
+| [Rock That Body](https://open.spotify.com/track/2WQ09wqQBIOor7Q0VpIDBK) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\) \[Deluxe Version\]](https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX) | 4:28 | 2025-05-30 | 2025-06-05 |
+| [Rock That Body](https://open.spotify.com/track/7K8XoQXZBffc4xG2xIQHMO) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\)](https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB) | 4:28 | 2025-05-30 |  |
 | [Running Wild](https://open.spotify.com/track/50zAEIE4B1QqhPjRMK2Xmh) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Happy \- :'\) \(Remixes\)](https://open.spotify.com/album/3nRmQ70bczWCLWyj1aRbt6) | 2:31 | 2025-01-10 | 2025-01-18 |
 | [SAMAYA PERVAYA](https://open.spotify.com/track/0avFSJ9URBdqNM2M2ekzFa) | [LOVV66](https://open.spotify.com/artist/5A9NWhs9ydYZPGgvcWI8Ms) | [SAMAYA PERVAYA](https://open.spotify.com/album/32b2Lta0ZHNuQCNb7DGj7O) | 3:48 | 2024-05-24 | 2024-06-01 |
 | [SAVE DAT](https://open.spotify.com/track/7l8Q5hVtKz2Ztold6N2gLh) | [Toxi$](https://open.spotify.com/artist/2hTmpvdwhpNZryOkwTisRW), [Egor Kreed](https://open.spotify.com/artist/2KoLmBXwsgMkfAvoPBlPmb) | [SAVE DAT](https://open.spotify.com/album/5CrotczMtH0A2uHaCOPYb7) | 2:29 | 2024-03-29 | 2024-04-27 |

@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Nordics](https://open.spotify.com/playlist/37i9dQZF1DX2gIolsgpyjq)
 
-> Fresh Finds Nordics x STHLMFW! See Dione perform at Space By on June 3rd!
+> Fresh Finds Nordics x STHLMFW! See Melina Do Rosario perform at Space By on June 4th!
 
 1,106 songs - 2 day 10 hr 13 min
 

@@ -15003,6 +15003,24 @@
     },
     {
       "album": {
+        "name": "Zumala",
+        "url": "https://open.spotify.com/album/6AQTp4aTLOS1Z4XfAKxfVd"
+      },
+      "artists": [
+        {
+          "name": "Marcio Philomena",
+          "url": "https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2"
+        }
+      ],
+      "date_added": "2025-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171659,
+      "name": "Zumala",
+      "url": "https://open.spotify.com/track/5Vl1Hua7EURdz34EnfwrKl"
+    },
+    {
+      "album": {
         "name": "Zweiter Fr\u00fchling",
         "url": "https://open.spotify.com/album/5wmlwdZTpNEFTheAEhl0nU"
       },

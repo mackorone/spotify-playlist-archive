@@ -2,20 +2,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover: IU\(아이유\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover: 조째즈\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,373 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,425 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ballad, Ryeoyo\_Roy Kim](https://open.spotify.com/track/6idTWd3WzBZlslTMmElNLz) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Ballad, Ryeoyo\_Roy Kim](https://open.spotify.com/album/4x2si1Gvye6X3Jxhqy963K) | 0:05 |
-| 2 | [Never Ending Story](https://open.spotify.com/track/3iJxBDym1SeqNqJqnvreHK) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [A flower bookmark, Pt\. 3](https://open.spotify.com/album/4TeDL95L9OTCpYnuQwlrwY) | 3:44 |
-| 3 | [How Could You Leave](https://open.spotify.com/track/4JkWWPrKOfUG5bwGlrm3qr) | [HYB \(Huh Gak,Shin Yong Jae,Onestar\)](https://open.spotify.com/artist/75LV0HV0cURCViNnAZ1SQt) | [H.Y.B\. Project \#3 \- How Could You Leave](https://open.spotify.com/album/6gilkQOwgtBJJZPyCcQKbE) | 3:23 |
-| 4 | [Yellow Spring](https://open.spotify.com/track/0JyVtfJ6Z8T6VHXG1iD1pE) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Our Unwritten Seoul \(Original Soundtrack\) Part.1](https://open.spotify.com/album/1Ik6DilWLiFqclv5tiJ4T8) | 4:00 |
-| 5 | [2025 Monthly Yoon Repair May \- A Year](https://open.spotify.com/track/5RdBOgpkT7aZcXJWTTQfYx) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [2025 Monthly Yoon Repair May \- A Year](https://open.spotify.com/album/5vYgBIGxDFNRPn3zMRqQWd) | 5:03 |
-| 6 | [Marry me](https://open.spotify.com/track/22sx5e3qU4B6n7ZpLFinZe) | [Gitae](https://open.spotify.com/artist/7AQ2PocMnNWx7lwz4E1or6), [Sin Ye Young](https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF) | [Marry me](https://open.spotify.com/album/0mqPlCFmBFcAMF2hOA8wUL) | 4:27 |
-| 7 | [The Homework of Goodbye](https://open.spotify.com/track/04btnsdOITgvLcdOIHOcGr) | [Cha ga eul](https://open.spotify.com/artist/4mSV7GdIFUByJJVxI4HyOi) | [The Homework of Goodbye](https://open.spotify.com/album/4kTO5C4sjdAa9BRoej39hY) | 3:33 |
-| 8 | [LOVE](https://open.spotify.com/track/4i1LAgQdsq1D28nPiFKPyh) | [ZO ZAZZ](https://open.spotify.com/artist/7oefVAcL2YuRdata5VCUzf) | [LOVE](https://open.spotify.com/album/7FIXWzYrIEkGVh0jMkyBEz) | 4:19 |
+| 2 | [LOVE](https://open.spotify.com/track/4i1LAgQdsq1D28nPiFKPyh) | [ZO ZAZZ](https://open.spotify.com/artist/7oefVAcL2YuRdata5VCUzf) | [LOVE](https://open.spotify.com/album/7FIXWzYrIEkGVh0jMkyBEz) | 4:19 |
+| 3 | [Never Ending Story](https://open.spotify.com/track/3iJxBDym1SeqNqJqnvreHK) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [A flower bookmark, Pt\. 3](https://open.spotify.com/album/4TeDL95L9OTCpYnuQwlrwY) | 3:44 |
+| 4 | [How Could You Leave](https://open.spotify.com/track/4JkWWPrKOfUG5bwGlrm3qr) | [HYB \(Huh Gak,Shin Yong Jae,Onestar\)](https://open.spotify.com/artist/75LV0HV0cURCViNnAZ1SQt) | [H.Y.B\. Project \#3 \- How Could You Leave](https://open.spotify.com/album/6gilkQOwgtBJJZPyCcQKbE) | 3:23 |
+| 5 | [Yellow Spring](https://open.spotify.com/track/0JyVtfJ6Z8T6VHXG1iD1pE) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Our Unwritten Seoul \(Original Soundtrack\) Part.1](https://open.spotify.com/album/1Ik6DilWLiFqclv5tiJ4T8) | 4:00 |
+| 6 | [2025 Monthly Yoon Repair May \- A Year](https://open.spotify.com/track/5RdBOgpkT7aZcXJWTTQfYx) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [2025 Monthly Yoon Repair May \- A Year](https://open.spotify.com/album/5vYgBIGxDFNRPn3zMRqQWd) | 5:03 |
+| 7 | [Marry me](https://open.spotify.com/track/22sx5e3qU4B6n7ZpLFinZe) | [Gitae](https://open.spotify.com/artist/7AQ2PocMnNWx7lwz4E1or6), [Sin Ye Young](https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF) | [Marry me](https://open.spotify.com/album/0mqPlCFmBFcAMF2hOA8wUL) | 4:27 |
+| 8 | [The Homework of Goodbye](https://open.spotify.com/track/04btnsdOITgvLcdOIHOcGr) | [Cha ga eul](https://open.spotify.com/artist/4mSV7GdIFUByJJVxI4HyOi) | [The Homework of Goodbye](https://open.spotify.com/album/4kTO5C4sjdAa9BRoej39hY) | 3:33 |
 | 9 | [Lighthouse](https://open.spotify.com/track/7MtSbLLRwJQlPE3zRM6Fwy) | [YUN MIN SOO](https://open.spotify.com/artist/1chAxRqxKcAEVRmsMlXScd), [Lee Ye Joon](https://open.spotify.com/artist/0pi0UqDbdqphea7hTxQyby) | [Lighthouse](https://open.spotify.com/album/7HSDyvSeIpgDjU2FtFmCYj) | 4:10 |
 | 10 | [Fleeting: Time That Won’t Return](https://open.spotify.com/track/4xQtEwsRpDt1Hw9Xf3Y6GP) | [Hwang Karam](https://open.spotify.com/artist/61jr8e2uLQusD1PLqTKqQc) | [Fleeting: Time That Won’t Return \(Oh My Ghost Clients Original Soundtrack Part.1\)](https://open.spotify.com/album/2VW0gXd0Rp9m83I13T5pMK) | 4:27 |
 | 11 | [My Beautiful](https://open.spotify.com/track/0OWjkDCOYkYuTywsArE77r) | [DK](https://open.spotify.com/artist/4l7mkcB0cZgIQrcd2AsQI3) | [My Beautiful](https://open.spotify.com/album/2yqVf851PURotpnwn92Zsy) | 4:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 99 | [Stitching](https://open.spotify.com/track/2FyMzBBr9xI0GL2du2KJsI) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Stitch](https://open.spotify.com/album/49l21eblkkpfozaTjlpphW) | 2:56 |
 | 100 | [Stroll](https://open.spotify.com/track/1ksogiV5AnuwcejwfKpNKK) | [Kim Dong Ryul](https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV) | [Stroll](https://open.spotify.com/album/72LyvyO7wpv7ADawbJqHTG) | 5:06 |
 
-Snapshot ID: `aD+hhgAAAABw3X5NiHCT4hNN7+1cRqPW`
+Snapshot ID: `aEABFAAAAAAy7F2iddrnbQpQdk1rC4Ah`

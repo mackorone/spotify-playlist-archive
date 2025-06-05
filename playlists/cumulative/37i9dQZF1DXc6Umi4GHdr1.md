@@ -4,7 +4,7 @@
 
 > Acoustic instrumental guitar to help focus the mind and concentrate on the task at hand.
 
-432 songs - 19 hr 10 min
+434 songs - 19 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -326,6 +326,7 @@
 | [Sirius](https://open.spotify.com/track/0SeZxemKR9G0OZ9peDOMjK) | [Serena Perez](https://open.spotify.com/artist/2zkK4XfOHnssYBDk6Vp5PR) | [Sirius](https://open.spotify.com/album/6uhWaOInvJrT8zV8YbGiN6) | 1:52 | 2023-01-06 | 2023-08-26 |
 | [Skyline](https://open.spotify.com/track/285lEr4h595zVTecy0u7Nf) | [Owen Larssen](https://open.spotify.com/artist/5KC38oAHkvoeZvx2k9Pwlo) | [Skyline](https://open.spotify.com/album/7fcgX0jd8ZbfyuPDUKWabu) | 1:44 | 2023-05-26 | 2023-06-16 |
 | [Sleeping Petals](https://open.spotify.com/track/1ySgmcM7rIXu5QbVr17F61) | [Zinning](https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S) | [Sleeping Petals](https://open.spotify.com/album/5vIEQ4I8N1Nowe6s25HWL4) | 2:21 | 2024-05-24 |  |
+| [Slowed by Time](https://open.spotify.com/track/4jdOVJzC2JYKMwfgat1Rdh) | [Logan Connors](https://open.spotify.com/artist/5isnVGl3x963Fl8DCH1zsk) | [Slowed by Time](https://open.spotify.com/album/3sNV8v8XF2A15Ai4lFzBfX) | 2:18 | 2025-06-04 |  |
 | [Sommersby](https://open.spotify.com/track/01n9zpPrEWCKsH6o27WwWR) | [Joseph Cline](https://open.spotify.com/artist/4I9DN3aBJSdzI26IuzVl0h) | [Sommersby](https://open.spotify.com/album/5q7aaYPfvt8uOpaLJudHjH) | 1:48 | 2023-04-28 | 2023-08-26 |
 | [Sonnensterne](https://open.spotify.com/track/3y1gTkcn6Vp1qFj0mLWH5L) | [Arno Pohl](https://open.spotify.com/artist/711DDi0p3SKq9UI82cvuhT) | [Waldschlaf](https://open.spotify.com/album/7dE6eIR5CifPhi9u2EuZtq) | 3:26 | 2021-12-10 | 2023-09-01 |
 | [Sonora Sunshine](https://open.spotify.com/track/0BT47n9p88wIwm7yNPvvLN) | [Cary Bestwood](https://open.spotify.com/artist/1qE78k5MwKFre0e74P3lQV) | [Sonora Sunshine](https://open.spotify.com/album/6Q48kfNKXooTHk6T5DLWCT) | 1:51 | 2023-08-24 | 2023-08-26 |
@@ -434,6 +435,7 @@
 | [With Languor](https://open.spotify.com/track/7wcUEnW420sjGIpD5XZTvK) | [Michelle Qureshi](https://open.spotify.com/artist/2tnTYLzDkug2iNhsBpWmuG) | [Within](https://open.spotify.com/album/65eOKdl0MxptxgnpDiM8ax) | 3:19 | 2024-02-02 |  |
 | [Wonder's Pyre](https://open.spotify.com/track/6POun1Z6NKg9JpWdb3pRFF) | [Iris Dauphin](https://open.spotify.com/artist/0XlymLAYuZ9DubWIEUmFR0) | [Wonder's Pyre](https://open.spotify.com/album/18Kyuf3AqYSQHuj0Uuat5V) | 2:49 | 2023-03-10 | 2023-08-26 |
 | [Yellow](https://open.spotify.com/track/27DodeB1seENJxnWojPa6G) | [Walter Penn](https://open.spotify.com/artist/2CWnlvisVPTCncNKI0k3U9) | [Yellow](https://open.spotify.com/album/6ogaGgYB25jgZmCo405fq6) | 2:31 | 2023-03-31 | 2023-08-26 |
+| [Yesterday’s Horizon](https://open.spotify.com/track/6aRIyvjb1r0ckDtWTAnawQ) | [Andie Wiess](https://open.spotify.com/artist/2ftzvO6OIPDrv4Fh7jMNFX) | [Yesterday’s Horizon](https://open.spotify.com/album/19Qh83lPIJvJmZwmin92d7) | 2:48 | 2025-06-04 |  |
 | [Yesteryear](https://open.spotify.com/track/26onATmE5ib4iKkPfvHtnw) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [Yesteryear](https://open.spotify.com/album/5Uu6qKT8FsFyUD0tRDIfxZ) | 2:39 | 2023-11-24 | 2024-05-24 |
 | [You](https://open.spotify.com/track/3zEaOi0tey7BFPnr2lPtzL) | [Celestial Conscience](https://open.spotify.com/artist/0UG5sCzTJoQXp7RvjoypkI) | [Snow](https://open.spotify.com/album/47LYgd993iWAisa3vGEPMu) | 1:13 | 2022-09-09 | 2023-08-26 |
 | [You And I](https://open.spotify.com/track/5O4RUMAcxxW5wp2xSZgJGA) | [Benjamins Friend](https://open.spotify.com/artist/54Pp9oG56ETWzr0DC65tld) | [You And I](https://open.spotify.com/album/52j0T9y4wXx64YmnUCMGSK) | 2:33 | 2024-05-10 |  |

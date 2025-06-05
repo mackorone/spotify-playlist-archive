@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78yU2od6grb.md) - [plain]
 
 > Quer fazer aquele exercício empolgante e sem estresse? Fizemos uma playlist com o som certo para você alcançar novas metas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 553,123 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 553,071 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78yU2od6grb.md) - [plain]
 | 46 | [THE END](https://open.spotify.com/track/4w7vZjpsnpKizj7NE0Nuld) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [THE END](https://open.spotify.com/album/1uLwrKImFoCGDkQt1F0Y1e) | 3:26 |
 | 47 | [Nobody](https://open.spotify.com/track/736MgYHdLtKTBKGJTutpGz) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Nobody](https://open.spotify.com/album/2IOxCs33hAnjIQrdwJqFKb) | 3:19 |
 | 48 | [You Need To Calm Down \- Clean Bandit Remix](https://open.spotify.com/track/7Bjf96uNizpvXLvNyOJpst) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM) | [You Need To Calm Down \(Clean Bandit Remix\)](https://open.spotify.com/album/531nfs5NPsmkRC1LJb1cdj) | 2:32 |
-| 49 | [Forget About Me](https://open.spotify.com/track/6EafRI0UtUidrZbbKpFRYq) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [Forget About Me](https://open.spotify.com/album/7uMat3U8ZyA28xalhv39r5) | 2:57 |
+| 49 | [Forget About Me](https://open.spotify.com/track/6EafRI0UtUidrZbbKpFRYq) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh) | [Forget About Me](https://open.spotify.com/album/7uMat3U8ZyA28xalhv39r5) | 2:57 |
 | 50 | [I Do \- with Zeeba](https://open.spotify.com/track/6lgLLgwC7vKguYUPSszMNt) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [I Do \(with Zeeba\)](https://open.spotify.com/album/1m1opaakLIL6TzL7NjFhso) | 2:53 |
 | 51 | [Another Place](https://open.spotify.com/track/4ENLZqdPMDub5us6YLSAKa) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Doom Days](https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF) | 3:31 |
 | 52 | [Home Sweet Home \(feat\. ALMA & Digital Farm Animals\)](https://open.spotify.com/track/3vIPdMmbsye0YMhXy4GeXt) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8), [Digital Farm Animals](https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh) | [Home Sweet Home \(feat\. ALMA & Digital Farm Animals\)](https://open.spotify.com/album/4JMUcayU11ORfD6m7nt5kk) | 2:57 |

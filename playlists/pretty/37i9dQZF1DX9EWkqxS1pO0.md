@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9EWkqxS1pO0.md) - [plain]
 
 > Yeni favori sanatçını keşfet ⚡ Kapak: KAOL
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,461 likes - 75 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,465 likes - 75 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

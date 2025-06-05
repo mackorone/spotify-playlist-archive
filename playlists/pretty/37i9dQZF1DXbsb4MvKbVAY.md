@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsb4MvKbVAY.md) - [plain]
 
 > Mielenkiintoisimmat biisit ensisoitossa\. ❤️‍🔥 Kannessa Aliisa Syrjä.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,435 likes - 99 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,456 likes - 99 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Aamunkoi](https://open.spotify.com/track/5859nOZaubsLJuwVylSmIY) | [Aliisa Syrjä](https://open.spotify.com/artist/22MRXgWTSxSeQG9NLCMezd) | [Aamunkoi](https://open.spotify.com/album/13Fkv0eke2vYeXdK77jXjS) | 3:03 |
 | 2 | [I'll Be Waiting](https://open.spotify.com/track/6XTU69FaoVOajBXBOP6WhG) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [I'll Be Waiting](https://open.spotify.com/album/3tBpgP3wphhWXwSI0Rxva0) | 2:03 |
-| 3 | [Lovin Myself](https://open.spotify.com/track/2ttIodvY52FYgod5qrcQHN) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Lovin Myself](https://open.spotify.com/album/5vWfr5gSeCbqFwutBK7sDp) | 2:56 |
+| 3 | [Terapiaa](https://open.spotify.com/track/4fQEoBhm2FlRVRRhhzCBMg) | [Ira](https://open.spotify.com/artist/2UkgjMChHf3vFEwOzLE5o9) | [Terapiaa](https://open.spotify.com/album/2oNqdpIWcoit3LsYhXszDP) | 2:51 |
 | 4 | [Aja tai kuole](https://open.spotify.com/track/7m7Mmlw9m1NJxcYbvdW2z7) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV), [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ) | [Aja tai kuole](https://open.spotify.com/album/5H5orhEdULcEb6yiV1yCxZ) | 3:15 |
 | 5 | [Man Of The Year](https://open.spotify.com/track/1hoeP1oPYlhcv6iRCtB7pT) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Man Of The Year](https://open.spotify.com/album/1QSIGmlbg2zqpGbWXJNJeW) | 3:00 |
-| 6 | [Terapiaa](https://open.spotify.com/track/4fQEoBhm2FlRVRRhhzCBMg) | [Ira](https://open.spotify.com/artist/2UkgjMChHf3vFEwOzLE5o9) | [Terapiaa](https://open.spotify.com/album/2oNqdpIWcoit3LsYhXszDP) | 2:51 |
+| 6 | [Lovin Myself](https://open.spotify.com/track/2ttIodvY52FYgod5qrcQHN) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Lovin Myself](https://open.spotify.com/album/5vWfr5gSeCbqFwutBK7sDp) | 2:56 |
 | 7 | [Sasha](https://open.spotify.com/track/4Bfuv305X5QqEGnufnfBla) | [Alina Burnet](https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J) | [Sasha](https://open.spotify.com/album/1gDeiAIRl8hRfX3gwe7TYz) | 2:32 |
 | 8 | [Mä en osaa tanssii \(feat\. Karri Koira\)](https://open.spotify.com/track/7g1CmPDygUhWbEbFT56NGV) | [Gasellit](https://open.spotify.com/artist/1iVTfRuCrTJJ7QudNpQatF), [Karri Koira](https://open.spotify.com/artist/1sQJfOZnTxWUPFb2wjgba5) | [Mä en osaa tanssii \(feat\. Karri Koira\)](https://open.spotify.com/album/522uwsnZbLAr57UwMXoLaB) | 3:33 |
 | 9 | [City of Angels](https://open.spotify.com/track/3Iy2Rtm4Mtyhk4DOYVzvdp) | [OLGA](https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub) | [SAINT OLGA](https://open.spotify.com/album/5YoagvPksDfrafWSapLCxd) | 2:43 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsb4MvKbVAY.md) - [plain]
 | 98 | [Call Me When You Break Up \(with Gracie Abrams\)](https://open.spotify.com/track/4yFPKNzjkCS0PpRzhcvy1d) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Call Me When You Break Up \(with Gracie Abrams\)](https://open.spotify.com/album/4hnX5vXj6JoAhZ2lUrxwn3) | 2:06 |
 | 99 | [Bluebird](https://open.spotify.com/track/2pJL7VBbeO4ZqVIUDf0x9H) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Bluebird](https://open.spotify.com/album/2pOID04Y4JnuqDtCmB8JIw) | 4:02 |
 
-Snapshot ID: `aDjLJwAAAAAxpDaG8N9yhQTl82Jg/IAV`
+Snapshot ID: `aEALCQAAAAAVQ1v+r0C5tForsEqvZzT4`

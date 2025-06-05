@@ -1,12 +1,12 @@
 {
   "description": "This is Adrianne Lenker. The essential tracks, all in one playlist.",
-  "num_followers": 15608,
+  "num_followers": 15621,
   "original_name": "This Is Adrianne Lenker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDzpgAAAAAC236q64u+xtDLNvRshL21B",
+  "snapshot_id": "aD47AAAAAABOWS4wizxz93k4itxjrBf5",
   "tracks": [
     {
       "added_at": null,
@@ -331,22 +331,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "b-sides",
-        "url": "https://open.spotify.com/album/7skmDXP36SNveM5XKFoLuK"
+        "name": "instrumentals",
+        "url": "https://open.spotify.com/album/71q46YDkSq6uXS5WJy4WMk"
       },
       "artists": [
         {
           "name": "Adrianne Lenker",
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        },
-        {
-          "name": "Buck Meek",
-          "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
         }
       ],
-      "duration_ms": 188666,
-      "name": "A Better Time to Meet",
-      "url": "https://open.spotify.com/track/5qBdd2l8sQZe2270342ap7"
+      "duration_ms": 972007,
+      "name": "mostly chimes",
+      "url": "https://open.spotify.com/track/26YdNW3yMLfA5NpTB8wzQy"
     },
     {
       "added_at": null,
@@ -367,18 +363,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "instrumentals",
-        "url": "https://open.spotify.com/album/71q46YDkSq6uXS5WJy4WMk"
+        "name": "b-sides",
+        "url": "https://open.spotify.com/album/7skmDXP36SNveM5XKFoLuK"
       },
       "artists": [
         {
           "name": "Adrianne Lenker",
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        },
+        {
+          "name": "Buck Meek",
+          "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
         }
       ],
-      "duration_ms": 972007,
-      "name": "mostly chimes",
-      "url": "https://open.spotify.com/track/26YdNW3yMLfA5NpTB8wzQy"
+      "duration_ms": 188666,
+      "name": "A Better Time to Meet",
+      "url": "https://open.spotify.com/track/5qBdd2l8sQZe2270342ap7"
     },
     {
       "added_at": null,
@@ -464,41 +464,9 @@
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 197266,
-      "name": "blue and red horses",
-      "url": "https://open.spotify.com/track/4N2LdRzYxtWKTkHH3G9d1L"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "happiness (live)",
-        "url": "https://open.spotify.com/album/5ZBOV5VfT8r4TU17gKOYX0"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 208180,
-      "name": "happiness - live",
-      "url": "https://open.spotify.com/track/43zJRyV2RM1Zk9FIw9xx74"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hours Were the Birds",
-        "url": "https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Hours Were the Birds",
-      "url": "https://open.spotify.com/track/4IRrvuLi0cGNg3XED8H98j"
+      "duration_ms": 148133,
+      "name": "what can you say",
+      "url": "https://open.spotify.com/track/3WZWhKFFfIrs6ykt8kO9Ua"
     },
     {
       "added_at": null,
@@ -523,6 +491,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hours Were the Birds",
+        "url": "https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Hours Were the Birds",
+      "url": "https://open.spotify.com/track/4IRrvuLi0cGNg3XED8H98j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "happiness (live)",
+        "url": "https://open.spotify.com/album/5ZBOV5VfT8r4TU17gKOYX0"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 208180,
+      "name": "happiness - live",
+      "url": "https://open.spotify.com/track/43zJRyV2RM1Zk9FIw9xx74"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "abysskiss",
         "url": "https://open.spotify.com/album/1Bff8eaWt2o058OQIq2OPa"
       },
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 148133,
-      "name": "what can you say",
-      "url": "https://open.spotify.com/track/3WZWhKFFfIrs6ykt8kO9Ua"
+      "duration_ms": 197266,
+      "name": "blue and red horses",
+      "url": "https://open.spotify.com/track/4N2LdRzYxtWKTkHH3G9d1L"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hours Were the Birds",
-        "url": "https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 163666,
-      "name": "Butterfly",
-      "url": "https://open.spotify.com/track/45kpjdeuV0YugvErFYRXYl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "a-sides",
         "url": "https://open.spotify.com/album/5rwqvk7OpTco8gcX8LarT1"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 237066,
       "name": "Money",
       "url": "https://open.spotify.com/track/6uSLk87TiYs9uTqf23k0Sw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hours Were the Birds",
+        "url": "https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 163666,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/45kpjdeuV0YugvErFYRXYl"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hours Were the Birds",
-        "url": "https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 209960,
-      "name": "Lighthouse",
-      "url": "https://open.spotify.com/track/0UyXrymHlgh92dmiqgHyz5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "instrumentals",
         "url": "https://open.spotify.com/album/71q46YDkSq6uXS5WJy4WMk"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 1272830,
       "name": "music for indigo",
       "url": "https://open.spotify.com/track/1OzuAHfmr8Vg3eVvEbAR0p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hours Were the Birds",
+        "url": "https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 209960,
+      "name": "Lighthouse",
+      "url": "https://open.spotify.com/track/0UyXrymHlgh92dmiqgHyz5"
     },
     {
       "added_at": null,

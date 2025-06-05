@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcw5kRGCYhea.md) - [plain]
 
 > Vibrez au rythme des morceaux urbains et Afro en feu 🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,721 likes - 40 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,739 likes - 40 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [YA BABA](https://open.spotify.com/track/48l6xps5kWSsxtYdXHgz0Y) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [YA BABA](https://open.spotify.com/album/1HGvr8M7zmT4qZlKf1lKZK) | 2:48 |
 | 2 | [TAF TAF](https://open.spotify.com/track/6dTXGkUrNYmR8kSfr5MxmW) | [OldyGotTheSound](https://open.spotify.com/artist/5J1oH9bIdN8XDWOQuTZEIn), [Anys](https://open.spotify.com/artist/1YjFEw5PirL57vHDoCMkhw), [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [TAF TAF](https://open.spotify.com/album/5Qw3MvNZK4lOrEHYxl8nYE) | 2:18 |
-| 3 | [LAKAMURA \(LOLE LOLE\)](https://open.spotify.com/track/7GpRfqWrmhflvcIFPcvdS7) | [JamShow](https://open.spotify.com/artist/0nCMA6dYea3Y08bsnB0xrx), [Lakamura](https://open.spotify.com/artist/1ocBu5jVKJJ6xW0Sw0r87b) | [PRIME 6 'FINALE'](https://open.spotify.com/album/47kEZ7v8J6d9sU9rMYg8fB) | 3:19 |
+| 3 | [لولي لولي](https://open.spotify.com/track/7GpRfqWrmhflvcIFPcvdS7) | [JamShow](https://open.spotify.com/artist/0nCMA6dYea3Y08bsnB0xrx), [Lakamura](https://open.spotify.com/artist/1ocBu5jVKJJ6xW0Sw0r87b) | ['برايم 6 'النهائي](https://open.spotify.com/album/47kEZ7v8J6d9sU9rMYg8fB) | 3:19 |
 | 4 | [Totopika](https://open.spotify.com/track/6eb5omKnWjZabRNYVj3Lsj) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Totopika](https://open.spotify.com/album/2RnvdenjPNouk7sUE3aPzg) | 2:19 |
 | 5 | [Mok ya mok](https://open.spotify.com/track/5JobkufjKtdGgCASCaOGCP) | [Benny Adam](https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA), [Khadija El Warzazia](https://open.spotify.com/artist/2ygf9jdzulwgls2Gx1jTdm) | [Mok ya mok](https://open.spotify.com/album/0glB4KAxl5lStonhyTUi1g) | 2:38 |
 | 6 | [Wsalni MSG](https://open.spotify.com/track/2FeOGXvdm9yTD0HaNTqndu) | [Hassa1](https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr), [Flack](https://open.spotify.com/artist/3Fi4gBbVvIHrqEG9TGwRTC) | [Prince](https://open.spotify.com/album/3l2WhIJt45Lw46JOLDfms9) | 2:36 |

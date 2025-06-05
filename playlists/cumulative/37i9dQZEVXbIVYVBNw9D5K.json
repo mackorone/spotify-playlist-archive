@@ -4178,7 +4178,7 @@
       ],
       "date_added": "2025-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-31",
+      "date_removed": null,
       "duration_ms": 208493,
       "name": "Bir Dudaktan",
       "url": "https://open.spotify.com/track/12vJUYMaIzuozhvi3WJsXu"
@@ -4804,6 +4804,24 @@
       "duration_ms": 166000,
       "name": "Bu Son Olsun",
       "url": "https://open.spotify.com/track/5QfhqYAS8wmNnvFuOgLNRs"
+    },
+    {
+      "album": {
+        "name": "Bu Yaz",
+        "url": "https://open.spotify.com/album/7fegHq2yToExda8Z6Ds37N"
+      },
+      "artists": [
+        {
+          "name": "Bahad\u0131r Tatl\u0131\u00f6z",
+          "url": "https://open.spotify.com/artist/2cJHtXWQuFgxQ0GkpE7dNR"
+        }
+      ],
+      "date_added": "2025-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182253,
+      "name": "Bu Yaz",
+      "url": "https://open.spotify.com/track/5R4IMqppkpo0rBBHja7j7J"
     },
     {
       "album": {
@@ -11186,6 +11204,32 @@
       "duration_ms": 169134,
       "name": "HUQQA 2.0",
       "url": "https://open.spotify.com/track/02qInTRFOUrN2BUp1pOwnI"
+    },
+    {
+      "album": {
+        "name": "HUQQA 2.0",
+        "url": "https://open.spotify.com/album/4md7qyWrffHF7HtiNpHYxd"
+      },
+      "artists": [
+        {
+          "name": "SNOW",
+          "url": "https://open.spotify.com/artist/58H98oCs7wfe6XZOgIaT0q"
+        },
+        {
+          "name": "Jeff Redd",
+          "url": "https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx"
+        },
+        {
+          "name": "Emrah Karaduman",
+          "url": "https://open.spotify.com/artist/7FvMAbdiffitFmbuJN3Vsk"
+        }
+      ],
+      "date_added": "2025-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135555,
+      "name": "HUQQA 2.0",
+      "url": "https://open.spotify.com/track/0vqxWNvXvvU8QYOveYiUGZ"
     },
     {
       "album": {
@@ -18688,7 +18732,7 @@
       ],
       "date_added": "2022-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 196800,
       "name": "Saklad\u0131\u011f\u0131n Bir \u015eeyler Var",
       "url": "https://open.spotify.com/track/6t18CcJVpnFAoWfcZxiZtk"
@@ -18990,7 +19034,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 271210,
       "name": "Sayg\u0131mdan",
       "url": "https://open.spotify.com/track/4E10qEzOmTIVmrg6Wz2RHj"
@@ -20020,7 +20064,7 @@
       ],
       "date_added": "2025-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 236888,
       "name": "Son Bir Rica",
       "url": "https://open.spotify.com/track/5mJPC56kBRnB9rLGLs85rr"

@@ -1,12 +1,12 @@
 {
   "description": "This is Sabrina Carpenter. The essential tracks, all in one playlist.",
-  "num_followers": 560968,
+  "num_followers": 561321,
   "original_name": "This Is Sabrina Carpenter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDzpgAAAAAAPOod+ah23veOKcKVtpvp9",
+  "snapshot_id": "aD47AAAAAABTSV4dczKnEKI/H4hZz2VD",
   "tracks": [
     {
       "added_at": null,
@@ -323,18 +323,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "emails i can\u2019t send fwd:",
-        "url": "https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ"
+        "name": "That\u2019s Not How This Works (feat. Dan + Shay & Sabrina Carpenter) [Sabrina\u2019s Version]",
+        "url": "https://open.spotify.com/album/0TN8dXBkeIqDjVfUV3gPpc"
       },
       "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        },
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        },
         {
           "name": "Sabrina Carpenter",
           "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 162748,
-      "name": "things i wish you said",
-      "url": "https://open.spotify.com/track/2t2fnYja6b2pUizMungIo0"
+      "duration_ms": 166640,
+      "name": "That\u2019s Not How This Works (feat. Dan + Shay & Sabrina Carpenter) - Sabrina\u2019s Version",
+      "url": "https://open.spotify.com/track/2WNHUp4s806SJrsj698ZX3"
     },
     {
       "added_at": null,
@@ -371,26 +379,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "That\u2019s Not How This Works (feat. Dan + Shay & Sabrina Carpenter) [Sabrina\u2019s Version]",
-        "url": "https://open.spotify.com/album/0TN8dXBkeIqDjVfUV3gPpc"
+        "name": "emails i can\u2019t send fwd:",
+        "url": "https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ"
       },
       "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        },
-        {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
-        },
         {
           "name": "Sabrina Carpenter",
           "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 166640,
-      "name": "That\u2019s Not How This Works (feat. Dan + Shay & Sabrina Carpenter) - Sabrina\u2019s Version",
-      "url": "https://open.spotify.com/track/2WNHUp4s806SJrsj698ZX3"
+      "duration_ms": 162748,
+      "name": "things i wish you said",
+      "url": "https://open.spotify.com/track/2t2fnYja6b2pUizMungIo0"
     },
     {
       "added_at": null,
@@ -599,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let Me Move You (From the Netflix film Work It)",
-        "url": "https://open.spotify.com/album/3Ytt3q5EhvSCbvCTrVkz11"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 147070,
-      "name": "Let Me Move You - From the Netflix film \"Work It\"",
-      "url": "https://open.spotify.com/track/0roOLcll6SSTYZwsQFmXqP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2kJnIPJHIRZlfOx0TZEKBP"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 233617,
       "name": "I Knew You Were Trouble - Spotify Singles",
       "url": "https://open.spotify.com/track/30QYxvXOJZhGBF6DvpNb8w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let Me Move You (From the Netflix film Work It)",
+        "url": "https://open.spotify.com/album/3Ytt3q5EhvSCbvCTrVkz11"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 147070,
+      "name": "Let Me Move You - From the Netflix film \"Work It\"",
+      "url": "https://open.spotify.com/track/0roOLcll6SSTYZwsQFmXqP"
     },
     {
       "added_at": null,
@@ -747,22 +747,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The 25th Anniversary of Christina Aguilera | Spotify Anniversaries LIVE",
-        "url": "https://open.spotify.com/album/72220mUyaNDhUhz5oIk5yo"
+        "name": "Take On the World (Theme Song From \"Girl Meets World\")",
+        "url": "https://open.spotify.com/album/2gfzrQkA6WzsX13kOhf3wU"
       },
       "artists": [
         {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+          "name": "Rowan Blanchard",
+          "url": "https://open.spotify.com/artist/45af7IeC0N5gQ9cyoIFyS6"
         },
         {
           "name": "Sabrina Carpenter",
           "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 235000,
-      "name": "What a Girl Wants - ft. Sabrina Carpenter - Live - Spotify Anniversaries Version",
-      "url": "https://open.spotify.com/track/3U7M2pRGnFk41lVf6bF2fH"
+      "duration_ms": 192640,
+      "name": "Take On the World - Theme Song From \"Girl Meets World\"",
+      "url": "https://open.spotify.com/track/5lz0NiPw32Gq4kMIUJvuw2"
     },
     {
       "added_at": null,
@@ -799,22 +799,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Take On the World (Theme Song From \"Girl Meets World\")",
-        "url": "https://open.spotify.com/album/2gfzrQkA6WzsX13kOhf3wU"
+        "name": "The 25th Anniversary of Christina Aguilera | Spotify Anniversaries LIVE",
+        "url": "https://open.spotify.com/album/72220mUyaNDhUhz5oIk5yo"
       },
       "artists": [
         {
-          "name": "Rowan Blanchard",
-          "url": "https://open.spotify.com/artist/45af7IeC0N5gQ9cyoIFyS6"
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
         },
         {
           "name": "Sabrina Carpenter",
           "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 192640,
-      "name": "Take On the World - Theme Song From \"Girl Meets World\"",
-      "url": "https://open.spotify.com/track/5lz0NiPw32Gq4kMIUJvuw2"
+      "duration_ms": 235000,
+      "name": "What a Girl Wants - ft. Sabrina Carpenter - Live - Spotify Anniversaries Version",
+      "url": "https://open.spotify.com/track/3U7M2pRGnFk41lVf6bF2fH"
     },
     {
       "added_at": null,

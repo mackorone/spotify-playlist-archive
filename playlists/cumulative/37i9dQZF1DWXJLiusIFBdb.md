@@ -4,7 +4,7 @@
 
 > Music From "Fate/Grand Order"! 音楽で辿る「Fate/Grand Order」の世界!<br/>©TYPE\-MOON / FGO PROJECT
 
-72 songs - 4 hr 32 min
+73 songs - 4 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Beyond the Mirror](https://open.spotify.com/track/32w71jbcBKaaGRMxU9RCdF) | [Fate/Grand Order](https://open.spotify.com/artist/7coG0zLmqTMrvxocjucG4k) | [Fate/Grand Order Waltz in the MOONLIGHT/LOSTROOM song material](https://open.spotify.com/album/6iH4KCoMzKq5QyEldHQMX2) | 3:39 | 2023-12-07 |  |
 | [Bright Voyager](https://open.spotify.com/track/4AKkzUGI7n3YKFDgxn5JB8) | [Fate/Grand Order](https://open.spotify.com/artist/7coG0zLmqTMrvxocjucG4k) | [Fate/Grand Order Waltz in the MOONLIGHT/LOSTROOM song material](https://open.spotify.com/album/6iH4KCoMzKq5QyEldHQMX2) | 5:08 | 2023-12-07 |  |
 | [BURN OUT！](https://open.spotify.com/track/6A2xIrZo7Nqvz4NMu0xsRh) | [Fate/Grand Order](https://open.spotify.com/artist/7coG0zLmqTMrvxocjucG4k) | [Fate/Grand Order Original Soundtrack Ⅱ](https://open.spotify.com/album/1edxRVpijTZyUtXFH3DIUm) | 3:19 | 2023-12-07 |  |
+| [Echoes](https://open.spotify.com/track/6b2KRSiAOIDrGUSgfuv4iP) | [芦田菜名子](https://open.spotify.com/artist/7tbgB78LexnWXuIARLJYg4) | [Echoes](https://open.spotify.com/album/2Zt36TQLYR245njjr3rR0l) | 3:35 | 2025-06-04 |  |
 | [Epic of Remnant](https://open.spotify.com/track/4JmeAG9GlkEmeVeeMm3PPU) | [芳賀 敬太](https://open.spotify.com/artist/62bF9Xu28ByStW6fWw8tGj) | [Fate/Grand Order Original Soundtrack Ⅱ](https://open.spotify.com/album/1edxRVpijTZyUtXFH3DIUm) | 2:37 | 2023-12-07 |  |
 | [Eternity Blue](https://open.spotify.com/track/1ED5ZLCXmM1MCjMuYgEvq9) | [Fate/Grand Order](https://open.spotify.com/artist/7coG0zLmqTMrvxocjucG4k) | [Fate/Grand Order Original Soundtrack Ⅰ](https://open.spotify.com/album/0i7YKsa2uqga79z4KvfXMg) | 4:22 | 2023-12-07 |  |
 | [Fate/Grand Order](https://open.spotify.com/track/5exBfEyebs81BJc7xLOyfb) | [芳賀 敬太](https://open.spotify.com/artist/62bF9Xu28ByStW6fWw8tGj) | [Fate/Grand Order Original Soundtrack Ⅰ](https://open.spotify.com/album/0i7YKsa2uqga79z4KvfXMg) | 3:17 | 2023-12-07 |  |

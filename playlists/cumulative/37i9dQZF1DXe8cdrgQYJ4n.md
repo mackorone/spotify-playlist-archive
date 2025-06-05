@@ -4,7 +4,7 @@
 
 > 솔로여도 괜찮은 나를 위한 노래들
 
-121 songs - 6 hr 20 min
+124 songs - 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,10 +20,11 @@
 | [BIRTHDAY](https://open.spotify.com/track/5XcM0eD1lsWZibqJ9AUTFq) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [BIRTHDAY](https://open.spotify.com/album/3lms4btHVQwQdmlk2a4oQx) | 3:05 | 2022-05-03 |  |
 | [Break](https://open.spotify.com/track/6ZY5lLjDmK6Bzon5vseYLn) | [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [12](https://open.spotify.com/album/5EOIB0TzyKgOG1WoeE9gLE) | 3:04 | 2022-05-03 |  |
 | [Burning Up \(Fire\)](https://open.spotify.com/track/0aE3V0zgSD2YwkEHW42gxG) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Most Beautiful Moment in Life: Young Forever](https://open.spotify.com/album/1k5bJ8l5oL5xxVBVHjil09) | 3:23 | 2022-05-03 |  |
-| [CAVIAR](https://open.spotify.com/track/2aGMvjT2nOUiPM5IcHrCR5) | [CocaNButter](https://open.spotify.com/artist/2S9wwY3J0HrwZHZ6vRPl2q), [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [Street Woman Fighter\(SWF\) Special](https://open.spotify.com/album/3iW6rZmhiSLNveTOrX26z6) | 2:27 | 2022-05-03 |  |
+| [CAVIAR](https://open.spotify.com/track/2aGMvjT2nOUiPM5IcHrCR5) | [CocaNButter](https://open.spotify.com/artist/2S9wwY3J0HrwZHZ6vRPl2q), [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [Street Woman Fighter\(SWF\) Special](https://open.spotify.com/album/3iW6rZmhiSLNveTOrX26z6) | 2:27 | 2022-05-03 | 2025-06-05 |
 | [Check\-In](https://open.spotify.com/track/6W6UgkbWs1O5MCdt4M9aP5) | [sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Seoul Check\-in OST Part 6](https://open.spotify.com/album/6fma7QBBD2qxShJv2jKPcy) | 3:11 | 2022-06-09 |  |
 | [Cheers!](https://open.spotify.com/track/2VFKbSBzOeLq3FFMcrkpXl) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [Work Later Drink Now S2, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/0Z5UmfvsfNUMVedakree1B) | 3:03 | 2023-01-13 | 2024-08-06 |
 | [Cinderella](https://open.spotify.com/track/44p0v6RpEcT0ozV5WSM0b3) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Winter Special Digital Single Album ′Cinderella′](https://open.spotify.com/album/1qozj4ZBLq6zBeNyyWKle1) | 3:00 | 2023-01-10 |  |
+| [CO](https://open.spotify.com/track/6CIZHot9XsXxRgwq0xH40S) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [Substances Dangereuses](https://open.spotify.com/album/3jRMhDdzfU4suvzjQyAsxO) | 3:43 | 2025-06-04 |  |
 | [Cold Blooded](https://open.spotify.com/track/34JfHOd0fcefm4FSPSrIhF) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [Cold Blooded](https://open.spotify.com/album/4CTDrZw6m0dTJX17OCEbfZ) | 2:30 | 2022-05-03 |  |
 | [Could It Be](https://open.spotify.com/track/5EP0eADsE1wRAbnET9k5u8) | [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) | [Could It Be](https://open.spotify.com/album/5vxRsSVH24F86nh4vuQVOI) | 3:09 | 2024-08-05 | 2025-05-25 |
 | [crazy](https://open.spotify.com/track/0MBxvzlUueNHCDwtpwCR4X) | [yooji](https://open.spotify.com/artist/5Spf1uhWdc2CW3fWhZDegU) | [crazy](https://open.spotify.com/album/43QP0dljUrFHbFF3ashcZ0) | 2:38 | 2024-09-02 | 2024-09-30 |
@@ -32,6 +33,7 @@
 | [Diamond](https://open.spotify.com/track/1OjybWpjWBMDxOPNerlmDw) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Diamond](https://open.spotify.com/album/58T3Mkgs37IjcximP129MP) | 2:59 | 2023-06-13 | 2024-08-11 |
 | [Do Not Want To Do It](https://open.spotify.com/track/5LhlnraUYxYccDUqnEayri) | [MEENOI](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Do Not Want To Do It](https://open.spotify.com/album/1QGkSuxkIqUmnX2r2Vdr95) | 3:52 | 2022-07-04 | 2024-04-10 |
 | [Do Not Want To Do It](https://open.spotify.com/track/7zUG4VBAF5hF4x3bUHXDp7) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Do Not Want To Do It](https://open.spotify.com/album/2pMUYU2JxYvFIhLirHp7AK) | 3:52 | 2022-05-03 | 2022-07-29 |
+| [Don't Teach Me](https://open.spotify.com/track/30qGbAR81lNnSmazn6SgAC) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [AMY](https://open.spotify.com/album/0qocbypKL5iOqhvbt3n3uo) | 3:15 | 2025-06-04 |  |
 | [Donut](https://open.spotify.com/track/4WN6ZxyOx9DLGOKonyKRT5) | [SOULBYSEL](https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp), [Image](https://open.spotify.com/artist/58L7Wn6gqkg86DH0I3z2p5) | [SOULBYSEL Compilation 04](https://open.spotify.com/album/6h8gTvlQIvC2ZZCFGTFbgm) | 2:04 | 2023-02-14 | 2023-03-26 |
 | [Dope](https://open.spotify.com/track/7jPCPDYoiaKeK7cgNGpIzq) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Most Beautiful Moment in Life Pt.1](https://open.spotify.com/album/0mEeCuKJQ8Xh9tQ5dMm89X) | 4:00 | 2022-07-04 | 2024-04-19 |
 | [Drink it, Girls!](https://open.spotify.com/track/1iJX2WMpUpYsuxkKLPhVH8) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [Work Later Drink Now S2, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/0eYBfC57JfL2mZgcBTEZnh) | 2:56 | 2023-01-25 |  |
@@ -40,7 +42,7 @@
 | [Flexing On My Ex](https://open.spotify.com/track/44iPFLk5ZdXu8wivdlTcJB) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Metamorphic](https://open.spotify.com/album/6eTCq3XOz0rVJnelXro3Vk) | 3:04 | 2025-04-16 |  |
 | [FREAK](https://open.spotify.com/track/2oldaTAUfGvTXxPZVwvsyu) | [KimYeji](https://open.spotify.com/artist/3XyqYcDNFPFWbyGn8pFTf9) | [TURNED](https://open.spotify.com/album/2HDaGdvnCgxiyUuOIUtm4u) | 3:19 | 2022-05-03 | 2023-05-02 |
 | [Freaky \(Prod\. GroovyRoom\)](https://open.spotify.com/track/4dDRXGfTI5mWBnDuVRxTLe) | [MIRANI](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no) | [Freaky](https://open.spotify.com/album/1Z55bFaYwBmghHzXTpqWYp) | 2:53 | 2022-08-09 |  |
-| [Fuxk off](https://open.spotify.com/track/50ThLixmp3d9GGtyZtqZmu) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [In My Room](https://open.spotify.com/album/6kEpx1z9uVAWuTkHY1bdKG) | 3:02 | 2022-05-03 |  |
+| [Fuxk off](https://open.spotify.com/track/50ThLixmp3d9GGtyZtqZmu) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [In My Room](https://open.spotify.com/album/6kEpx1z9uVAWuTkHY1bdKG) | 3:02 | 2022-05-03 | 2025-06-05 |
 | [Girlfriend](https://open.spotify.com/track/23gW8Hohvb4QSfGoA1OQkk) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [We are](https://open.spotify.com/album/6yawSZpyFEU0wPKhXcEIHI) | 2:42 | 2025-05-22 |  |
 | [Go Away](https://open.spotify.com/track/4ebNVkfNL5kHuxr3o5K93R) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [To Anyone](https://open.spotify.com/album/2SNSGfhfcfBLyQDTXMCPXG) | 3:39 | 2022-05-03 |  |
 | [Go Go](https://open.spotify.com/track/4kZoZfj7IBg8eo1JZ2vsGO) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) | 3:55 | 2022-05-03 |  |
@@ -97,6 +99,7 @@
 | [Paper plane](https://open.spotify.com/track/4zGggtCGV21xQ3L4r6oeAd) | [UMiN](https://open.spotify.com/artist/4ZO41R4CUY3lR4CC0s8I9r) | [VROOM](https://open.spotify.com/album/7keAD81agaGb7GmspbdMXK) | 2:30 | 2022-05-03 | 2022-07-29 |
 | [People like us](https://open.spotify.com/track/6HhhUwGX3emVIxKvVunpp9) | [Lee go do](https://open.spotify.com/artist/18r9qka1AKwgqzUzaLdxhm) | [People like us](https://open.spotify.com/album/20iphJISZQnqBcBxj5qLjJ) | 3:13 | 2022-05-03 | 2022-12-03 |
 | [People like us](https://open.spotify.com/track/7pzn1IRBE4m2Cwod1f2RqI) | [Lee go do](https://open.spotify.com/artist/18r9qka1AKwgqzUzaLdxhm) | [People like us](https://open.spotify.com/album/2vJ9k7X0Bv1H6WgzSWFdTH) | 3:13 | 2022-08-18 | 2024-04-19 |
+| [Perks of break up \(Feat\. Fromm\)](https://open.spotify.com/track/4eT8M5FcvhaG9Rb9sDHtoG) | [Jo Jung Chi](https://open.spotify.com/artist/21fdDnBuLfUeBngh4yAyZJ), [Fromm](https://open.spotify.com/artist/4ht1mwP4ouSu79jOOktCY3) | [3](https://open.spotify.com/album/7Ec8hZ8BMRzSPe7A9Z6eO8) | 3:58 | 2025-06-04 |  |
 | [Pierrot](https://open.spotify.com/track/411fZBnpfU4eIDIZmDKswx) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY](https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap) | 2:50 | 2024-09-02 |  |
 | [Pose](https://open.spotify.com/track/6RTF5urAOB5C52nLxeRK5h) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Queendom \- The 6th Mini Album](https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV) | 3:20 | 2022-05-03 |  |
 | [Pretty Savage](https://open.spotify.com/track/1XnpzbOGptRwfJhZgLbmSr) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 3:21 | 2022-05-03 |  |
@@ -128,6 +131,6 @@
 | [나 홀로 집에 Home Alone](https://open.spotify.com/track/1Hp7T2xCx2AAfWejmJEdsP) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [Right Through Me](https://open.spotify.com/album/5iolZ8XVFQP8lxZVBMXESZ) | 3:22 | 2025-04-16 |  |
 | [남자 없이 잘 살아](https://open.spotify.com/track/7hCnoPpEDBMGnooYnOCRPX) | [miss A](https://open.spotify.com/artist/1BEohdSWSBggmO979tzRwW) | [HUSH](https://open.spotify.com/album/27FDExxvG3h3XCUcJVlVSY) | 3:30 | 2022-05-03 | 2023-08-06 |
 | [쩔어 DOPE](https://open.spotify.com/track/0pGHou9D7JTMKbMfOLKy50) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [화양연화 The Most Beautiful Moment In Life, Pt\. 1](https://open.spotify.com/album/6yRUOoA0Z4jgr6qcKcFAbH) | 4:00 | 2022-05-03 | 2022-07-25 |
-| [혼자라도 좋아](https://open.spotify.com/track/097UCmhpdLbSoWYhxi8fjy) | [이한철](https://open.spotify.com/artist/1BXvzHfW6kvrfQn2MeQyq6), [Hello Ga\-Young](https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo) | [딩고푸드 OST](https://open.spotify.com/album/7qUhNznzzhCegLIdTIoSTi) | 4:02 | 2025-05-28 |  |
+| [혼자라도 좋아](https://open.spotify.com/track/097UCmhpdLbSoWYhxi8fjy) | [이한철](https://open.spotify.com/artist/1BXvzHfW6kvrfQn2MeQyq6), [Hello Ga\-Young](https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo) | [딩고푸드 OST](https://open.spotify.com/album/7qUhNznzzhCegLIdTIoSTi) | 4:02 | 2025-05-28 | 2025-06-05 |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

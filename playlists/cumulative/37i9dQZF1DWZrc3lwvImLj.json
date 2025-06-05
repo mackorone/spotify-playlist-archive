@@ -3641,6 +3641,24 @@
     },
     {
       "album": {
+        "name": "Light as Silk",
+        "url": "https://open.spotify.com/album/5O2gOX2GsYduepBmORG4Rl"
+      },
+      "artists": [
+        {
+          "name": "Kyo Himura",
+          "url": "https://open.spotify.com/artist/3zJyClRhsSeHXs3PAHMRC1"
+        }
+      ],
+      "date_added": "2025-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184541,
+      "name": "Light as Silk",
+      "url": "https://open.spotify.com/track/4iI8IJzjds4PqdgV1uTcIT"
+    },
+    {
+      "album": {
         "name": "Like Before",
         "url": "https://open.spotify.com/album/7KG32lDHhYrznuU2EXHJPp"
       },

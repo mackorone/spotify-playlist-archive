@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 
 > chill beats, lofi vibes, new tracks every week...
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,412,724 likes - 400 songs - 14 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,412,871 likes - 400 songs - 14 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -292,7 +292,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 | 282 | [Dubious](https://open.spotify.com/track/04tk407bfcM10YBLr9lzbl) | [Florence Ada](https://open.spotify.com/artist/55eWRokjrhKoE28jaHJYw7) | [Dubious](https://open.spotify.com/album/4avEsgPYNwzAJcTYAbgsw0) | 1:43 |
 | 283 | [Letting Go](https://open.spotify.com/track/4dBgB0cfiTdzSLQTZiEv1K) | [Blue Bag](https://open.spotify.com/artist/4rtwUGOQwVUZGAlQYh02ar) | [Letting Go](https://open.spotify.com/album/2zOfwIN4w1Rx2Rjjeiw4kl) | 2:09 |
 | 284 | [night shift](https://open.spotify.com/track/62Ee8jiA5IMCyiFTXWA79l) | [Parrot City](https://open.spotify.com/artist/4wAJceeUvp8OumSIyV0qpa) | [night shift](https://open.spotify.com/album/7aLTcn4mY4MuKOYvnyWoyX) | 2:16 |
-| 285 | [Small Tree](https://open.spotify.com/track/5wY9QAud2eaaFYAbH4Wbpf) | [Juliette](https://open.spotify.com/artist/2A9ozO2R5liuK6dMrhJwnQ) | [Small Tree](https://open.spotify.com/album/3cCL0cd0s7JVQCr9TmSZW2) | 2:59 |
+| 285 | [Small Tree](https://open.spotify.com/track/5wY9QAud2eaaFYAbH4Wbpf) | [Juliette](https://open.spotify.com/artist/0iAtf1P8o5GEjcoflDhVcp) | [Small Tree](https://open.spotify.com/album/3cCL0cd0s7JVQCr9TmSZW2) | 2:59 |
 | 286 | [First Things First](https://open.spotify.com/track/5jEGPAOALEaioHHHHeHesB) | [Red Cedar](https://open.spotify.com/artist/38yP6LHyPx5tNW9Il5ADFp) | [First Things First](https://open.spotify.com/album/26GxtM80uLUiS82C069HQm) | 2:06 |
 | 287 | [Another Token Jazz Hour](https://open.spotify.com/track/6eyxWCXr7PTBQpakV1p56O) | [PRGMAT](https://open.spotify.com/artist/3n36M7jE1JSaZ5OXHdxo37) | [Another Token Jazz Hour](https://open.spotify.com/album/7rUfmoClCLgWbltGXW4ty4) | 2:55 |
 | 288 | [College Love](https://open.spotify.com/track/6eLrSZpTldW4qXzZI0xlOg) | [Flo Badabum](https://open.spotify.com/artist/4dMQdNx2YofJBiOfxRLcD0) | [College Love](https://open.spotify.com/album/4tFUzCU0OomrbDuKX5BOHq) | 3:07 |

@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-255 songs - 12 hr 22 min
+256 songs - 12 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Early Forest Serenade](https://open.spotify.com/track/7h95AoSQLXgft5By5ByMnV) | [Clouds Come Down](https://open.spotify.com/artist/6AqxTQj5IlWTwGCwPuxZu8) | [Majestic Light](https://open.spotify.com/album/0sQKEnZqsabnegdMu6cujB) | 2:13 | 2023-06-16 |  |
 | [Earth Song \(Brook\)](https://open.spotify.com/track/2u5SfmEplx0MJZrouALhLd) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [Earth Song](https://open.spotify.com/album/6Ped9Q9msu0Rpm7A0MjYGO) | 3:10 | 2023-04-28 | 2025-02-23 |
 | [Ebb](https://open.spotify.com/track/6DzXikYMPvw1T9rqasupiQ) | [Gleework](https://open.spotify.com/artist/7mpVI32uln65a45ny7L1Pc) | [Ebb](https://open.spotify.com/album/3gwbC6C3G15nY0ktcx09fL) | 2:16 | 2024-12-04 |  |
-| [Echoes Of Dawn](https://open.spotify.com/track/1z47P8YHFuKiylq7Fur1kY) | [Naturalists](https://open.spotify.com/artist/1sp0zRK6eY8NaAYAjBJoAf) | [Echoes of Dawn](https://open.spotify.com/album/6B3pHA7fAP2LPKIo4K05Oi) | 3:02 | 2025-05-28 |  |
+| [Echoes Of Dawn](https://open.spotify.com/track/1z47P8YHFuKiylq7Fur1kY) | [Naturalists](https://open.spotify.com/artist/1sp0zRK6eY8NaAYAjBJoAf) | [Echoes of Dawn](https://open.spotify.com/album/6B3pHA7fAP2LPKIo4K05Oi) | 3:02 | 2025-05-28 | 2025-06-05 |
 | [Eden](https://open.spotify.com/track/0UMFi650xZxD3qj0OxsXKd) | [Nature Pulse](https://open.spotify.com/artist/70vUxFU28oeZCt4GremOQ0) | [Eden](https://open.spotify.com/album/4MQ8zwffRyWpFLh2fZBV9q) | 2:40 | 2025-05-28 |  |
 | [Elsewhere](https://open.spotify.com/track/5cnTweMt0wMIwQ1QrrMn3n) | [Tomorrow and Now](https://open.spotify.com/artist/482UOUYdqsKTTUmnENSKJQ) | [Elsewhere](https://open.spotify.com/album/731Aao1LRdcSKTKI6y65jb) | 3:06 | 2024-10-01 |  |
 | [Emberly Path](https://open.spotify.com/track/6LQiwabLqjy1jEJEACKcyj) | [Peaceful Plausible](https://open.spotify.com/artist/2jBR2Yedi7YgJOjZLDtSJI) | [Emberly Path](https://open.spotify.com/album/2E7vitCgw71paDzGHMukLQ) | 2:59 | 2023-04-28 | 2025-05-22 |
@@ -190,6 +190,7 @@
 | [Restful Petal \- Spa](https://open.spotify.com/track/2po2Rc8mLumB3CmBY9jrX5) | [Endel](https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4) | [Restful Petal](https://open.spotify.com/album/7hZvHFA2dN8Xaus9NmhWrK) | 3:12 | 2023-04-28 |  |
 | [Resting Awareness](https://open.spotify.com/track/75htMeGOTX33uYBoMhC1Ht) | [Coherent Energy](https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP) | [Resting Awareness](https://open.spotify.com/album/1QiQhqFQKsJFk8TWmASgXd) | 3:02 | 2023-04-28 | 2025-05-22 |
 | [Returning](https://open.spotify.com/track/7CIj6Jk5vKNEgxGNRoAWbC) | [Hontoni](https://open.spotify.com/artist/09HhJFJqYmvCCwQwj47Ci4) | [Returning](https://open.spotify.com/album/7mA9IJQZ7wtRYuaQrJ4Vux) | 3:02 | 2023-06-02 |  |
+| [Revelation](https://open.spotify.com/track/2kp3xWNh6qEZ8cNLbl5Cko) | [Mindland](https://open.spotify.com/artist/330UIau66ZSsEGlHH5Wwwg) | [Revelation](https://open.spotify.com/album/0B7u4chWcq7fBvU7EAK3Fj) | 3:10 | 2025-06-04 |  |
 | [Rising Up](https://open.spotify.com/track/52ucjqmX0AZ5NXugBrcJzp) | [Flora Fossils](https://open.spotify.com/artist/76XoeM2KYdI6JJENHKpB6N) | [Rising Up](https://open.spotify.com/album/02AhYeStIFGhVazWU4Xx6Q) | 3:09 | 2025-02-18 |  |
 | [River Breath](https://open.spotify.com/track/1jbmHQILuPj4Tt9AkyMc55) | [Nature Pulse](https://open.spotify.com/artist/70vUxFU28oeZCt4GremOQ0) | [River Breath](https://open.spotify.com/album/0RItQrTpmdXnV34eOSVQWP) | 3:30 | 2024-12-12 | 2025-05-22 |
 | [Robin Choir](https://open.spotify.com/track/3Hb6TtTURzwXFaBoMkUj2u) | [Sarah Loca](https://open.spotify.com/artist/5jZXtbPYjWhoom78Eh14Wd) | [Robin Choir](https://open.spotify.com/album/15yfgasrD61BQmsYx3gaez) | 2:59 | 2023-11-24 | 2025-05-22 |

@@ -4,7 +4,7 @@
 
 > Unwind to these calm classical guitar pieces.
 
-872 songs - 1 day 13 hr 38 min
+873 songs - 1 day 13 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -730,6 +730,7 @@
 | [Stilla skymning](https://open.spotify.com/track/36WuY4qGl7hAxof1KlLpFf) | [Adrian Edblad](https://open.spotify.com/artist/1BULcfR4Qb9AWG696JouwW) | [Stilla skymning](https://open.spotify.com/album/4uy9JXHwv8Hmnn21LorsMm) | 1:50 | 2022-10-07 | 2023-02-11 |
 | [Stille Morgen](https://open.spotify.com/track/4pAiNoP7gIY4WcNftHGuHD) | [Gunni Møller](https://open.spotify.com/artist/1W3Msj0w5UgqoO24nOybtE) | [Stille Morgen](https://open.spotify.com/album/6kEivxJRru5Z2n0qTDD4xx) | 2:10 | 2022-10-28 | 2023-10-13 |
 | [Stillness](https://open.spotify.com/track/6qrErH6mKy8hZbmsx8DzPG) | [Stephen Wake](https://open.spotify.com/artist/2cJYFSoLAYw942cLIRPGK7) | [Stillness](https://open.spotify.com/album/3UGoU9qryYGEtAFkDeFofi) | 1:52 | 2022-08-05 | 2022-11-18 |
+| [Stillness in Bloom](https://open.spotify.com/track/1u3IqBRU3qSgDlBUUnIGwz) | [Enzo Costa](https://open.spotify.com/artist/08bZKTxSPaQAvmzc5YvDAQ) | [Stillness in Bloom](https://open.spotify.com/album/0am2Sx7Xgcjkjn6a2bBqzq) | 2:24 | 2025-06-04 |  |
 | [Stolen Moments](https://open.spotify.com/track/1oEq1W6ChwTxUE87Jx9MFG) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Stolen Moments](https://open.spotify.com/album/1VVynhg0E343qOHIlqfULV) | 2:42 | 2022-11-25 | 2024-04-05 |
 | [Stop and Look Around](https://open.spotify.com/track/1BfJtG4eD6TElscodj2YdK) | [Alexas Lucio](https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ) | [Stop and Look Around](https://open.spotify.com/album/6eywL18F7LHmJm5KqCCfdI) | 1:58 | 2024-06-14 | 2025-04-08 |
 | [Storyteller](https://open.spotify.com/track/7d9uanPShS0NVsESqcArCa) | [Kaspar Mann](https://open.spotify.com/artist/7hZPqfKfcyqVgLOQ5vOGk8) | [Storyteller](https://open.spotify.com/album/3Du4mTpGliNy0e7qAIdR3G) | 3:01 | 2023-06-08 |  |

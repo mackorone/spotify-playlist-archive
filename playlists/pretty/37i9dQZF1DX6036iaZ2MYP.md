@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover:  Kizz Daniel
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,261 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,333 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 49 | [LIFESTYLE](https://open.spotify.com/track/18kZT3bZ8dYuSQpDqb5jxR) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Gen Z](https://open.spotify.com/album/6A9vRCTrmUNqdsW93J3vPK) | 2:55 |
 | 50 | [Jet Li](https://open.spotify.com/track/3qOFym53NBZUQvNM60m4jm) | [Kurtys](https://open.spotify.com/artist/732YXWHf1cGFf2CufOIHsU) | [Frénésie](https://open.spotify.com/album/6KzVnKyftfpUPt7SyTWrZ5) | 2:23 |
 
-Snapshot ID: `aDjm+QAAAAAel5mjJRgNy1DQKgYfUsQ4`
+Snapshot ID: `aDjm+QAAAACKpWnV//+Mhscrc4C3Avdl`

@@ -1,12 +1,12 @@
 {
   "description": "This is KB. The essential tracks, all in one playlist.",
-  "num_followers": 26935,
+  "num_followers": 26933,
   "original_name": "This Is KB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDzpgAAAAAA4RllwGzfoTPMZuc1c7f4s",
+  "snapshot_id": "aD47AAAAAADmWo+ALw1i0BHRLPwqjQTb",
   "tracks": [
     {
       "added_at": null,
@@ -723,26 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "COME THRU",
-        "url": "https://open.spotify.com/album/6p4j0KgKckQYEiAtLoOHub"
-      },
-      "artists": [
-        {
-          "name": "Torey D'Shaun",
-          "url": "https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 159500,
-      "name": "COME THRU",
-      "url": "https://open.spotify.com/track/3U0Goea638QMskz9f7l53B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Good Life",
         "url": "https://open.spotify.com/album/4isPEpuar7DBekswZNoawh"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 246346,
       "name": "One Sixteen",
       "url": "https://open.spotify.com/track/0PxHrnV45CQascq6nWBnLT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "COME THRU",
+        "url": "https://open.spotify.com/album/6p4j0KgKckQYEiAtLoOHub"
+      },
+      "artists": [
+        {
+          "name": "Torey D'Shaun",
+          "url": "https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 159500,
+      "name": "COME THRU",
+      "url": "https://open.spotify.com/track/3U0Goea638QMskz9f7l53B"
     },
     {
       "added_at": null,

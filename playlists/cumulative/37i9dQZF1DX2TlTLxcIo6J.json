@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "New songwriters on the horizon from around the world. Cover: <a href=\"spotify:artist:0QPC36N4aQVrUp0NzaSXHI\">Mamii</a.>.",
+  "description": "New songwriters on the horizon from around the world. Cover: UV Killin Em",
   "name": "RADAR Songwriters",
   "tracks": [
     {
@@ -24,6 +24,24 @@
       "duration_ms": 182482,
       "name": "143",
       "url": "https://open.spotify.com/track/1BjEVZ05sAt56wt4H9GZu8"
+    },
+    {
+      "album": {
+        "name": "Still Sleep?",
+        "url": "https://open.spotify.com/album/38nZLvJx8A9p4YYpTG5iFP"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+        }
+      ],
+      "date_added": "2025-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123986,
+      "name": "2055",
+      "url": "https://open.spotify.com/track/4XvcHTUfIlWfyJTRG0aqlo"
     },
     {
       "album": {
@@ -194,6 +212,24 @@
       "duration_ms": 226733,
       "name": "Awake",
       "url": "https://open.spotify.com/track/5XMtZsNkezcv695DQSZo0L"
+    },
+    {
+      "album": {
+        "name": "F-1 Trillion: Long Bed",
+        "url": "https://open.spotify.com/album/4f2G7uAWqzpOPwEfCDV87A"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "date_added": "2025-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167833,
+      "name": "Back To Texas",
+      "url": "https://open.spotify.com/track/4fe6BhZYJJw7XRZk6muwzm"
     },
     {
       "album": {
@@ -552,7 +588,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 240065,
       "name": "Crocodiles",
       "url": "https://open.spotify.com/track/03pMITmL4qouGlrfTAhX9W"
@@ -570,7 +606,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 240065,
       "name": "Crocodiles",
       "url": "https://open.spotify.com/track/3S83qk7cILQeQhguBaWi7x"
@@ -672,6 +708,24 @@
       "duration_ms": 165560,
       "name": "Dreaming",
       "url": "https://open.spotify.com/track/2BNWWQ51ZuP6uQHNWRvQzP"
+    },
+    {
+      "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2025-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222568,
+      "name": "EL CL\u00faB",
+      "url": "https://open.spotify.com/track/0iKo4pNNjHHdKUcFARlfCa"
     },
     {
       "album": {
@@ -820,7 +874,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 215841,
       "name": "go (feat. Sam Smith)",
       "url": "https://open.spotify.com/track/0dkPo2Tvo0PhGJaUAvk4pC"
@@ -842,7 +896,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 215841,
       "name": "go (feat. Sam Smith)",
       "url": "https://open.spotify.com/track/7kgNbYOyDZPzDVE89mLs1O"
@@ -1080,7 +1134,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 172461,
       "name": "INSUPERABILE",
       "url": "https://open.spotify.com/track/3nNxdeQX9iFeuosMcFEeDd"
@@ -1182,7 +1236,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 138760,
       "name": "Lotus",
       "url": "https://open.spotify.com/track/3TGGENjrxEOwl1zBZZqKGc"
@@ -1514,7 +1568,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 191026,
       "name": "No Romeo",
       "url": "https://open.spotify.com/track/2n4U8Qf9vkpl6rFQnXtLK5"
@@ -1532,7 +1586,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 191026,
       "name": "No Romeo",
       "url": "https://open.spotify.com/track/4qnZCHbYsdUzjeyRXPDjlB"
@@ -1590,10 +1644,28 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 108650,
       "name": "Obsessed With You",
       "url": "https://open.spotify.com/track/4PYfFHKfjYz6dwAtZhBy1z"
+    },
+    {
+      "album": {
+        "name": "okokok",
+        "url": "https://open.spotify.com/album/4zP1fNxeLTQrG5usaotiPg"
+      },
+      "artists": [
+        {
+          "name": "okgiorgio",
+          "url": "https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg"
+        }
+      ],
+      "date_added": "2025-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158896,
+      "name": "okokok",
+      "url": "https://open.spotify.com/track/4qxoOkUtMcTzY3S0eHUziY"
     },
     {
       "album": {
@@ -1608,7 +1680,7 @@
       ],
       "date_added": "2024-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 158896,
       "name": "okokok",
       "url": "https://open.spotify.com/track/5VML2SOtSpYIKxtAQ3oAzq"
@@ -1698,7 +1770,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 141953,
       "name": "patience interlude",
       "url": "https://open.spotify.com/track/24xpL4l70GDGIVFIxLbW8s"
@@ -1828,6 +1900,32 @@
       "duration_ms": 173725,
       "name": "Principalmente Me Sinto Arrasada",
       "url": "https://open.spotify.com/track/24LGL93o3wuVuYLCBhV3c5"
+    },
+    {
+      "album": {
+        "name": "For All The Dogs",
+        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2025-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319191,
+      "name": "Rich Baby Daddy (feat. Sexyy Red & SZA)",
+      "url": "https://open.spotify.com/track/1yeB8MUNeLo9Ek1UEpsyz6"
     },
     {
       "album": {
@@ -2115,6 +2213,24 @@
     },
     {
       "album": {
+        "name": "minisode 3: TOMORROW",
+        "url": "https://open.spotify.com/album/0mDwrOXZHN1lgCNeBvkBbj"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2025-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162642,
+      "name": "The Killa (I Belong to You)",
+      "url": "https://open.spotify.com/track/33RfPb7Vca7s2x5xzXR5E3"
+    },
+    {
+      "album": {
         "name": "Sleepy Soldier",
         "url": "https://open.spotify.com/album/5DsTYhB4bzvBvMSHAu1yiM"
       },
@@ -2180,7 +2296,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 203140,
       "name": "Things You Said",
       "url": "https://open.spotify.com/track/5MYAjxYvtSkUQzOgtnntTH"
@@ -2198,7 +2314,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 203140,
       "name": "Things You Said",
       "url": "https://open.spotify.com/track/6CJQts0D5UNDV1i2Q7Vdso"
@@ -2512,7 +2628,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 189050,
       "name": "Ya Sup\u00e9rame (En Vivo)",
       "url": "https://open.spotify.com/track/6HIIuuUIEzH1meVdGbMXyf"

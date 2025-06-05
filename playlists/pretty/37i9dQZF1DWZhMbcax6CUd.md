@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhMbcax6CUd.md) - [plain]
 
 > Explore the great works of Maurice Ravel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,854 likes - 69 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,876 likes - 69 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

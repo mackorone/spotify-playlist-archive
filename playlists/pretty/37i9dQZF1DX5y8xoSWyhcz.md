@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,343 likes - 115 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,366 likes - 115 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 114 | [27](https://open.spotify.com/track/2ZPjkIT5NNgtJsoPI30DSn) | [Glitter Party](https://open.spotify.com/artist/0aap0g0NB08EJrS6FMDrdB) | [27](https://open.spotify.com/album/3s651dETa8DIP9k1RNPfPP) | 3:18 |
 | 115 | [Into Your Room](https://open.spotify.com/track/3necmcKMz1nk4r5pPbMufR) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Into Your Room](https://open.spotify.com/album/2GKtVgtk2BUhgJ60eYCxws) | 3:29 |
 
-Snapshot ID: `aDktVgAAAABQfepGDNe8FY72Ssn+PdfO`
+Snapshot ID: `AAAAACA9rjRgS9v9sG8MUb31uoJehL84`

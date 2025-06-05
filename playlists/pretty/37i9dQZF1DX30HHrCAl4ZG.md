@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > Explore all things indie rock right now\. Featuring music from Foxwarren
 
-[Spotify](https://open.spotify.com/user/spotify) - 830,028 likes - 102 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 829,899 likes - 102 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

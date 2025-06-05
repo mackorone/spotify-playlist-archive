@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > What&\#x27;s gonna be the song of the Summer 2025!?
 
-[soundsdeli](https://open.spotify.com/user/soundsdeli) - 131,655 likes - 161 songs - 9 hr 24 min
+[soundsdeli](https://open.spotify.com/user/soundsdeli) - 131,647 likes - 165 songs - 9 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 6 | [Bluest Flame](https://open.spotify.com/track/6vuVCtwukUA57ioTnKKeuL) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [I Said I Love You First](https://open.spotify.com/album/6NKinHXUZJNCmVejJfYJKC) | 2:42 |
 | 7 | [party 4 u](https://open.spotify.com/track/2RdEC8Ff83WkX7kDVCHseE) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 4:56 |
 | 8 | [Hush](https://open.spotify.com/track/6zgZQ0Txc4cpF03TAjnEMJ) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Open Hearts \(Deluxe\)](https://open.spotify.com/album/7rkuRWugpXPOj9KVaYQZlM) | 2:09 |
-| 9 | [Island](https://open.spotify.com/track/5pkVDFKc4rnrpPLagBU9tP) | [XAXA](https://open.spotify.com/artist/2Rtn7OFpkjyS5OXGaKzwW1) | [Island](https://open.spotify.com/album/0zxKiDbFHPliuI2TJeo8TK) | 2:39 |
-| 10 | [Simon Says](https://open.spotify.com/track/5qvryamIbb3acLGsQ04nKa) | [Carbonara Collective](https://open.spotify.com/artist/0xQtEAccpoBnlgXdSf75f6), [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [Simon Says](https://open.spotify.com/album/1Qtkz1iDJobo4NNGCT7WXe) | 3:13 |
-| 11 | [Free](https://open.spotify.com/track/05i0gnCc4Tj9Rshavrirfh) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Free](https://open.spotify.com/album/3HfZsOOCcsDXiqciichy9J) | 3:35 |
+| 9 | [Free](https://open.spotify.com/track/05i0gnCc4Tj9Rshavrirfh) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Free](https://open.spotify.com/album/3HfZsOOCcsDXiqciichy9J) | 3:35 |
+| 10 | [Island](https://open.spotify.com/track/5pkVDFKc4rnrpPLagBU9tP) | [XAXA](https://open.spotify.com/artist/2Rtn7OFpkjyS5OXGaKzwW1) | [Island](https://open.spotify.com/album/0zxKiDbFHPliuI2TJeo8TK) | 2:39 |
+| 11 | [Simon Says](https://open.spotify.com/track/5qvryamIbb3acLGsQ04nKa) | [Carbonara Collective](https://open.spotify.com/artist/0xQtEAccpoBnlgXdSf75f6), [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [Simon Says](https://open.spotify.com/album/1Qtkz1iDJobo4NNGCT7WXe) | 3:13 |
 | 12 | [Comfortable](https://open.spotify.com/track/47u8oG8vaUroyPP62EhxuS) | [Jackson B](https://open.spotify.com/artist/1a2ikqvLB5l6U1Oz4kNHHD) | [Comfortable](https://open.spotify.com/album/6rUFg1CI5tPxmjssdY8orf) | 2:43 |
 | 13 | [photos i never deleted](https://open.spotify.com/track/6GhImmqGGOxvktt4L2zZ01) | [Marcel Vines](https://open.spotify.com/artist/3RWStmRNn1y7AnsHaXyfJK) | [photos i never deleted](https://open.spotify.com/album/2ld7n4ieyAGS7vAUJeLBBo) | 2:51 |
 | 14 | [what time is it?](https://open.spotify.com/track/3tK4ThK9o3bsgOti6lvwU0) | [Romcom Soundtrack](https://open.spotify.com/artist/5qWwPCYdNzZ57hiPBtgPmC) | [what time is it?](https://open.spotify.com/album/0Fsv9Ct9OSg4fbR7q1QvQT) | 3:14 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 33 | [Super](https://open.spotify.com/track/4u5hMlAk0FpBsgReJ7Rpfy) | [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [80'z](https://open.spotify.com/album/67YvgeZeleDvyK1sdaxi6G) | 1:43 |
 | 34 | [Nobody](https://open.spotify.com/track/7jxI06NlIowhfcgsAN7Pb6) | [Puma June](https://open.spotify.com/artist/2kZHI8c2WK0bi6EaNAWg2I) | [A Woman That They Want](https://open.spotify.com/album/5HGZWx7Vu6JULPDkSqRjZJ) | 3:01 |
 | 35 | [JAZZ FLUTE](https://open.spotify.com/track/0DXNMyPVEUylRYrFJhSfEE) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [JAZZ FLUTE](https://open.spotify.com/album/3OqpNAnsSVuGyISQZoimtQ) | 2:27 |
-| 36 | [of](https://open.spotify.com/track/4SVFMrIIPvemsB6jaZCpg6) | [Melnik](https://open.spotify.com/artist/3m7ew1V1xjIt0lWHrnzEnd) | [of](https://open.spotify.com/album/20FfwkjAnaAzwu43aUERkz) | 3:16 |
+| 36 | [\*\*\*OF.mp4](https://open.spotify.com/track/4SVFMrIIPvemsB6jaZCpg6) | [Melnik](https://open.spotify.com/artist/3m7ew1V1xjIt0lWHrnzEnd) | [\*\*\*OF.mp4](https://open.spotify.com/album/20FfwkjAnaAzwu43aUERkz) | 3:16 |
 | 37 | [All In Your Head](https://open.spotify.com/track/539pyEsRKAMkxrkrJsYbUl) | [Floral Couches](https://open.spotify.com/artist/3HiT8riBEhEKIuP2fyUOr6) | [All In Your Head](https://open.spotify.com/album/5YsYBYZONLobPu4lfBxWhH) | 3:37 |
 | 38 | [changing with the weather](https://open.spotify.com/track/5j9SscBvzf9lPh3TXVIotH) | [Mistine](https://open.spotify.com/artist/0LQT4rXbAexeMkQq8gGB6d) | [changing with the weather](https://open.spotify.com/album/1sLKrNHIQhuOne9yYu0bxH) | 3:15 |
 | 39 | [Joking](https://open.spotify.com/track/2NeHJnXA3fsCmfKRnCJIQq) | [Lusaint](https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7) | [Joking](https://open.spotify.com/album/1lSICe6rIoZ3OOf4HGTfZU) | 2:38 |
@@ -169,5 +169,9 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 159 | [No Destination](https://open.spotify.com/track/458mhCgYlbmTQrsQc8zUpw) | [Horror Disco](https://open.spotify.com/artist/3GyTVsCcUAIbtVXzxvWOFO) | [No Destination](https://open.spotify.com/album/0au1ZNzuqe0HD1c7C3lI8C) | 3:00 |
 | 160 | [JOY](https://open.spotify.com/track/5IwgfxMsJtsV3iKMTSGzMS) | [Tony Moss](https://open.spotify.com/artist/1k9xtSxFDRv8GVfxC0dVIp), [Bird Tribe](https://open.spotify.com/artist/3TXlzdvGPfqcdclaUSFBDd) | [JOY](https://open.spotify.com/album/2oQclYi9SkLoTAs6IUwp9r) | 3:35 |
 | 161 | [Join The Club](https://open.spotify.com/track/0XlZb87mb6IFxLWBMrEZpk) | [Taylor Teasley](https://open.spotify.com/artist/6XkVX5E2zAdltgDFYMKWJC) | [Join The Club](https://open.spotify.com/album/2gYxTbXTkBxPKysHz2oNAB) | 3:58 |
+| 162 | [Confession](https://open.spotify.com/track/0d6o0j5iW9Ls4ndoUHLrOc) | [PAWPAWTHEDAWG](https://open.spotify.com/artist/7AbDcmHZnaA3O5cIsQuyd1) | [Confession](https://open.spotify.com/album/1cgZuKqhSUYyHpng1dLCHS) | 3:58 |
+| 163 | [Leave Me Alone With My Muse](https://open.spotify.com/track/1n5DSoXXxLjmJwzxyAMC3M) | [PAWPAWTHEDAWG](https://open.spotify.com/artist/7AbDcmHZnaA3O5cIsQuyd1) | [Leave Me Alone](https://open.spotify.com/album/5dufWSUiq1zTgEcZTloz3t) | 3:42 |
+| 164 | [La Nota](https://open.spotify.com/track/3SVzHzomKt0AfMsZwm23NZ) | [Ray Torres](https://open.spotify.com/artist/6VqdAtF2hlMv4MXNPQwWDs) | [La Nota](https://open.spotify.com/album/2tIRWo1Z00iitMVTghyzEx) | 2:04 |
+| 165 | [Como A Las 3](https://open.spotify.com/track/1VA03TjJafyKNEfyVTHTAs) | [Kintsugi](https://open.spotify.com/artist/6Vqa74iOflfEDp9SkEaVn3), [Jeecy ice](https://open.spotify.com/artist/6SbzrZAFHuKivj0ApFOOZt) | [Como A Las 3](https://open.spotify.com/album/0Hdc6DkWP7JDddUkFvPN9L) | 2:42 |
 
-Snapshot ID: `AAAxHtaHYx91sCkql+yux2TxagAnArLS`
+Snapshot ID: `AAAxJrwU5Y3ypsDtAopo7/KvF6yDguLE`

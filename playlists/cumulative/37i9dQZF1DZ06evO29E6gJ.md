@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [40 Cartas](https://open.spotify.com/track/1HS46Ns75Zim9y0KYZmHYe) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Rancheras de Oro, Vol\. II](https://open.spotify.com/album/3UUulmLiWwBFqMCbHEw0nl) | 2:55 | 2022-08-27 |  |
+| [40 Cartas](https://open.spotify.com/track/1HS46Ns75Zim9y0KYZmHYe) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Rancheras de Oro, Vol\. II](https://open.spotify.com/album/3UUulmLiWwBFqMCbHEw0nl) | 2:55 | 2022-08-27 | 2025-06-05 |
 | [Alma Enamorada](https://open.spotify.com/track/1LspOkH26cxHWBV9m10uqn) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [20 Exitos De Oro](https://open.spotify.com/album/1wQNoNPJzVHJpc265eYkG3) | 2:10 | 2022-06-01 | 2025-04-12 |
 | [Alma Enamorada](https://open.spotify.com/track/7eP3e8oSbNoxtZiBn6j5US) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [20 Exitos De Oro](https://open.spotify.com/album/54PiozyCmsyefYSGFw7XCf) | 2:10 | 2025-04-12 |  |
 | [Alma Rendida](https://open.spotify.com/track/4Sc7z9IWXG1XbwCYKEByFX) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [15 Exitos de Los Alegres de Terán, vol\. 1](https://open.spotify.com/album/4jz9JeBYSYRORoyN3kuv8s) | 2:21 | 2024-03-06 |  |

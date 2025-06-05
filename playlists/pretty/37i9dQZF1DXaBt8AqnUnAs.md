@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 
 > aqueles papo de amor tlgd não?
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,802 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,794 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 10 | [Amor](https://open.spotify.com/track/4ReMusWKbNBEP48WMmi2Gh) | [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Franco, The Sir!](https://open.spotify.com/artist/2dSdEXb846NGEN95MkLTYU), [Matheus Muniz](https://open.spotify.com/artist/3ZfuJqd34fmfkTMpqDW2iI), [NAVII](https://open.spotify.com/artist/2HGEM94Dgn5GN35TFjjfgb), [Rob](https://open.spotify.com/artist/2erZl4yKXwwHO92guRhDPw) | [Amor](https://open.spotify.com/album/1nZGtIXkrC6UR9SOHcRl6G) | 2:42 |
 | 11 | [Sem Foto](https://open.spotify.com/track/2xYyitQHifMU31LPWGRVSZ) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [LeodoKick](https://open.spotify.com/artist/1WZNkLRhjvZKzZlSKL7FxX), [Skinny Beats](https://open.spotify.com/artist/0X7BxMRCyABTrHo168C09r) | [Sem Foto](https://open.spotify.com/album/2uKrEWsu00pkCZBZrfgyS2) | 2:56 |
 | 12 | [Qual Sua Intenção?](https://open.spotify.com/track/0cJZMZHKdXKf99f6Ed0S27) | [Massaru](https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU), [Lxcas092](https://open.spotify.com/artist/0xfATw1id7xR7n7WdeKhDi) | [Qual Sua Intenção?](https://open.spotify.com/album/307ylbgZTlJtAnvsuBU5NJ) | 2:27 |
-| 13 | [Inocente](https://open.spotify.com/track/0d401AYZM9Mboeiv4I33jo) | [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB), [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN) | [Inocente](https://open.spotify.com/album/1ayPIjRzCHNw8vqh9I6rTj) | 2:30 |
+| 13 | [Inocente](https://open.spotify.com/track/0d401AYZM9Mboeiv4I33jo) | [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB), [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN), [TcheloBeats](https://open.spotify.com/artist/1jsSoxl3CZZjIEplGDBd3B) | [Inocente](https://open.spotify.com/album/1ayPIjRzCHNw8vqh9I6rTj) | 2:30 |
 | 14 | [Paladar Infantil](https://open.spotify.com/track/2CzIoSG4eDkstyTiXzjryy) | [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30) | [Paladar Infantil](https://open.spotify.com/album/6y1V62Msb6V5oiVJkYa9Dx) | 2:23 |
 | 15 | [Vou Morrer Com Meu Orgulho](https://open.spotify.com/track/6eFQVh2yGRs9P1Ux3MW8hT) | [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH), [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10), [GvsnoBeat](https://open.spotify.com/artist/3XGaWnMifn6JKRERkyUgTk), [Ribb](https://open.spotify.com/artist/0QDtEwBuAbylERTOT4PntE) | [Traumas e Vícios \(Deluxe\)](https://open.spotify.com/album/7w2reeKFOSHAsU3CfIxtK2) | 2:51 |
 | 16 | [Nada Me Complica](https://open.spotify.com/track/1rESMmB9IGfoi9BZVXIgwu) | [Dos Mlk](https://open.spotify.com/artist/6dWDdfqdDSVt4BltsyDBqH), [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl) | [Nada Me Complica](https://open.spotify.com/album/4oyjyRptyxXVZakkYeCCre) | 2:32 |

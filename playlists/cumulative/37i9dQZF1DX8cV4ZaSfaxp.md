@@ -4,7 +4,7 @@
 
 > 찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요\. \(A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers.\)
 
-359 songs - 22 hr 8 min
+362 songs - 22 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [After this night](https://open.spotify.com/track/243eZR6OEAl0AKFAOWH6lK) | [KIM A REUM](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp) | [After this night](https://open.spotify.com/album/1A31imB5bDtcwBogAvxIzG) | 4:22 | 2022-05-11 | 2025-04-25 |
 | [Afterlife \(Feat\. OOHYO\)](https://open.spotify.com/track/3uIZ7nuzrccIBlLQB45p2a) | [Space Cowboy](https://open.spotify.com/artist/6zVZaYShKYDoZRXKTEDIk7), [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Afterlife \(Feat\. OOHYO\)](https://open.spotify.com/album/3yAwMfJl4iH3zmq2HC4d3C) | 4:30 | 2022-05-11 |  |
 | [Afterlife \(Feat\. OOHYO\) \- Voradory Ver.](https://open.spotify.com/track/2CAZNT7E7ZZMDuJrh1f69Q) | [Space Cowboy](https://open.spotify.com/artist/6zVZaYShKYDoZRXKTEDIk7), [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Afterlife \(Feat\. OOHYO\)](https://open.spotify.com/album/3yAwMfJl4iH3zmq2HC4d3C) | 4:12 | 2022-05-11 |  |
-| [Algorithm](https://open.spotify.com/track/0i8K9oyDQSg5tPZUTHPwhX) | [HeeJin](https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks) | [<K>](https://open.spotify.com/album/69pBx0bi45GYip7oXcHbzu) | 3:08 | 2023-11-02 |  |
+| [Algorithm](https://open.spotify.com/track/0i8K9oyDQSg5tPZUTHPwhX) | [HeeJin](https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks) | [<K>](https://open.spotify.com/album/69pBx0bi45GYip7oXcHbzu) | 3:08 | 2023-11-02 | 2025-06-05 |
 | [Algorithm](https://open.spotify.com/track/2tGjh54bikVc5x3dl1pUKx) | [HeeJin](https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks) | [<K>](https://open.spotify.com/album/04UMoeGtpAK6TyqRLllHqs) | 3:08 | 2024-03-29 | 2024-04-19 |
 | [Algorithm \(Eng Ver.\)](https://open.spotify.com/track/13Df3oSCawgxJ0GiwZwAxX) | [HeeJin](https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks) | [Algorithm \(Eng Ver.\)](https://open.spotify.com/album/5ggg0h1Ko4Uy23Nt1AeoqN) | 3:07 | 2024-09-30 | 2024-11-04 |
 | [All flights are delayed](https://open.spotify.com/track/65Rgsz3Q3kfumqAJaVqJca) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [SOUL LADY](https://open.spotify.com/album/16yrp3d9pCJgQK2RMBTtd1) | 1:32 | 2022-05-11 | 2022-07-27 |
@@ -107,6 +107,7 @@
 | [Drive Thru](https://open.spotify.com/track/6QWdR3MXiocvTqsJw4z9eh) | [Wilcox](https://open.spotify.com/artist/6DetogFDfNsSYy4u5OYz7o) | [Drive Thru](https://open.spotify.com/album/4kzzDbJLtozPPuBgpdqEMH) | 3:02 | 2022-05-11 |  |
 | [Drive to 1980 Love](https://open.spotify.com/track/0zUPlJsBcM5XQiJltgRIYF) | [JANE POP](https://open.spotify.com/artist/7G6b59wjxcAlNpSCmfig5u) | [Drive to 1980 Love](https://open.spotify.com/album/5njlZ2Q1ftJUUx6OQ5yKtT) | 3:11 | 2022-05-11 | 2024-05-21 |
 | [Drive to 1980 Love](https://open.spotify.com/track/6wTsVAlBZxi8mdGbbAwcWp) | [JANE POP](https://open.spotify.com/artist/7G6b59wjxcAlNpSCmfig5u) | [Drive to 1980 Love](https://open.spotify.com/album/5Oov22r0e9aNkHqhgrEdOD) | 3:11 | 2024-03-11 | 2024-04-19 |
+| [Déjà vu](https://open.spotify.com/track/2EJNqVk3hMle5BvczZ1hHp) | [Chloe Char](https://open.spotify.com/artist/3kP9joDEb8O36na2Gd6mFJ), [Benny Char](https://open.spotify.com/artist/0fP10sGDcpc0dcfe1QoNhS) | [Déjà vu](https://open.spotify.com/album/5u1A6wqVT0x8Q3FgRUHTBL) | 2:47 | 2025-06-05 |  |
 | [Easy Listening \(Feat\. Lee Joon\) \(Monthly Project 2020 May Yoon Jong Shin\)](https://open.spotify.com/track/0mvmY9ih1yrIRH8tgRIejD) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw), [Lee Joon](https://open.spotify.com/artist/122DvZ07Rzf2ZNyCA6hCQM) | [Easy Listening \(Feat\. Lee Joon\) \(Monthly Project 2020 May Yoon Jong Shin\)](https://open.spotify.com/album/1OsF77dJxBQ32ZcG3BoI09) | 5:34 | 2022-05-11 | 2022-07-21 |
 | [Elastic Love](https://open.spotify.com/track/1M1ra01EyWZXFP1hdvvcPJ) | [Choi HEART](https://open.spotify.com/artist/3NnPQVIU8FpdYz4kWegI7m) | [Elastic Love](https://open.spotify.com/album/5SCdzFlU1PZvvWjQiKmDOC) | 3:38 | 2022-05-11 |  |
 | [Embracing](https://open.spotify.com/track/5Waqzt9QtbAh7MzuZOC01q) | [The Stray](https://open.spotify.com/artist/7CedIKpt1GTubqlwD149d6) | [Embracing](https://open.spotify.com/album/7Bkkj3Tj5I2fGHH0KgwXYD) | 3:22 | 2022-07-22 | 2025-04-18 |
@@ -140,6 +141,7 @@
 | [Gwangalli 광안리](https://open.spotify.com/track/5vakmnmH8tXgOidOG0WGdS) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Gwangalli 광안리](https://open.spotify.com/album/3NCE1jWgZ6CB5tRNPEbevI) | 3:48 | 2022-05-11 | 2022-07-28 |
 | [HANGANG \- Remix](https://open.spotify.com/track/4Ywb56fwQEduZ6DN3wpLoB) | [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL), [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7) | [Submarine](https://open.spotify.com/album/55gSBSGI0ZMuLaCkXN9b4v) | 3:53 | 2022-09-05 | 2022-11-08 |
 | [HANGANG Remix](https://open.spotify.com/track/0hUuSsc5Ej4yVbxd7khYFY) | [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL), [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7) | [Submarine](https://open.spotify.com/album/6z9lCCimp8FEG6az48jEik) | 3:53 | 2022-05-11 | 2022-07-29 |
+| [Happy now?](https://open.spotify.com/track/6RwDUPV6pi85CFV0saJqhy) | [IT’S](https://open.spotify.com/artist/6lESE9VeLV05vQBw8TB4YA) | [line](https://open.spotify.com/album/1gu1o6myP72sB655MR28v7) | 3:43 | 2025-06-05 |  |
 | [Haru](https://open.spotify.com/track/12mRAMsizxyLBIqiQj6Kog) | [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Aquarium](https://open.spotify.com/album/68DQ72Ez9AhEtByI4k9i2Z) | 3:43 | 2022-05-11 | 2022-07-29 |
 | [Haru \(with meenoi\)](https://open.spotify.com/track/7BQfXOQiDBvDr1tamfYwwT) | [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Aquarium](https://open.spotify.com/album/22QfrmF0MIxc9In6DWqF1v) | 3:43 | 2022-07-22 |  |
 | [Headlight](https://open.spotify.com/track/0sphzVqEctdSudjBFLQLEA) | [KIMSAN 김산](https://open.spotify.com/artist/4PiqWnfbWGcCFT2UDxKCf1) | [Headlights](https://open.spotify.com/album/1AwebtVTQvVFyp8goceZOS) | 3:43 | 2022-05-11 | 2022-07-27 |
@@ -152,6 +154,7 @@
 | [I FEEL LOVE](https://open.spotify.com/track/0waWA2gh4t6dEBXcCHapDE) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [SOUL LADY](https://open.spotify.com/album/16yrp3d9pCJgQK2RMBTtd1) | 3:55 | 2022-05-11 | 2022-07-29 |
 | [I Feel You](https://open.spotify.com/track/1gdTztk1x8HCDlxcSR8vp3) | [Wonder Girls](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | [REBOOT](https://open.spotify.com/album/6uZUsBaw4hH7TPa60A1W3a) | 3:25 | 2022-05-11 | 2023-08-06 |
 | [I Feel You](https://open.spotify.com/track/4VDY2adUsc1up1nitWztVg) | [Wonder Girls](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | [REBOOT](https://open.spotify.com/album/3in3RzViPTp3fZo51rmJoB) | 3:25 | 2023-07-13 | 2024-04-19 |
+| [I want to be closer to you](https://open.spotify.com/track/1WfxhZEtlQ9J0B4325cBsF) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [Time\-Lapse](https://open.spotify.com/album/6qqlPpYvObYNofsPxve7cT) | 3:28 | 2025-06-05 |  |
 | [I Was Born Loving You \(feat\. RIPLEY\)](https://open.spotify.com/track/3WSx4hkvGJbp4Rc8IhET0G) | [Scotland Tent](https://open.spotify.com/artist/1STyW22bkr1DBNQnEFZn5o), [RIPLEY](https://open.spotify.com/artist/226NgMhCe19mK7xFekn3TZ) | [I Was Born Loving You](https://open.spotify.com/album/0eER8W2fHYhaJkIYceIBAl) | 3:21 | 2025-05-23 |  |
 | [I Wish](https://open.spotify.com/track/3YtIeHuvBXkJAyv3twOYCC) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Heng:garæ](https://open.spotify.com/album/3q6lN3kfsDgGaQUC7kVASH) | 3:53 | 2022-07-22 | 2024-04-19 |
 | [I Wish](https://open.spotify.com/track/56Ialc7EjXQwdZWLIctijx) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Heng:garæ](https://open.spotify.com/album/3tWstxfjHMtqt2ZsRvhlYy) | 3:53 | 2022-05-11 | 2022-07-29 |
@@ -259,7 +262,7 @@
 | [S.O.S](https://open.spotify.com/track/6AFTQ1U8UwAZt1yG1bs9pN) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [S.O.S](https://open.spotify.com/album/2sfzPfHxZZ5zYro4dHuCjF) | 3:20 | 2022-08-12 | 2023-08-10 |
 | [Sacrifice](https://open.spotify.com/track/5PUXJEyoun8vgcfS0wrWzW) | [UAU](https://open.spotify.com/artist/3zfokQW0XScTuGtTQkl682) | [Playlist \#You Are You](https://open.spotify.com/album/0Z9CrKIgLP09vWer1NGZBJ) | 3:29 | 2025-05-30 |  |
 | [SAY SOMETHING](https://open.spotify.com/track/2gagYYY4R8QimbnFqd96ST) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 4:07 | 2022-05-11 |  |
-| [Scent](https://open.spotify.com/track/1QHhyQMvuCrN1xrtLZttxk) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [Scent](https://open.spotify.com/album/5ub9WgwYDknUaigTqwnf2G) | 3:31 | 2022-07-04 |  |
+| [Scent](https://open.spotify.com/track/1QHhyQMvuCrN1xrtLZttxk) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [Scent](https://open.spotify.com/album/5ub9WgwYDknUaigTqwnf2G) | 3:31 | 2022-07-04 | 2025-06-05 |
 | [Seaside 깊은 밤 깊은 바다](https://open.spotify.com/track/4n7cF3CwbFpW4m3HwS9kEO) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [Rise From The Ashes](https://open.spotify.com/album/0OK6BqDE5hyHR3zSI2POWr) | 3:42 | 2022-05-11 | 2022-07-26 |
 | [Self Camera](https://open.spotify.com/track/04Quw3a7e9R7f2Sr45l6Vx) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [Pink Funky](https://open.spotify.com/album/5Fy5PyBWqMNK7xvXO9Q32f) | 3:17 | 2023-05-05 |  |
 | [SEOUL CITY POP](https://open.spotify.com/track/0Y1aP0BtnHJjM0ugmxCoDL) | [IHYA](https://open.spotify.com/artist/2AoCTD2YuVOY1AHKGx3fqh) | [SEOUL CITY POP \[A\-Side\]](https://open.spotify.com/album/0OXA4wAxuNJO071dZigy23) | 3:22 | 2023-02-14 | 2024-03-31 |
@@ -366,6 +369,6 @@
 | [우리 사랑이 툭 끝나면](https://open.spotify.com/track/4ZXn6hhRmyNTkTcYuiQY3O) | [해인](https://open.spotify.com/artist/6ytR9OnLd6GKqUbY1PyFiS) | [우리 사랑이 툭 끝나면](https://open.spotify.com/album/1Zo5lA52LwDkOCqIh1i53K) | 3:17 | 2024-09-13 | 2024-12-26 |
 | [이 순간 Remember](https://open.spotify.com/track/5RJWYPiBiEtqKDWLfHHr9B) | [Wonder Girls](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | [REBOOT](https://open.spotify.com/album/3qVG71ED0PeWluJVoJaROJ) | 3:45 | 2022-05-11 | 2022-07-26 |
 | [코코넛 러브 Coconut Love](https://open.spotify.com/track/5f1RLYrL4272Gm5lHxuLFD) | [Seoulmoon](https://open.spotify.com/artist/0xsCXMIcnrXhRiNL11HlxP) | [코코넛 러브 Coconut Love](https://open.spotify.com/album/2TDl3weGAb7UUd8xf5CyYk) | 3:14 | 2022-09-05 | 2023-10-05 |
-| [트리트먼트](https://open.spotify.com/track/5Myuon0t8Z4nvlynUaXj64) | [박세웅](https://open.spotify.com/artist/0qsmcnZcse4RGtukiCpvgQ) | [트리트먼트](https://open.spotify.com/album/5l2AccjDSZ93NNqwjH64E1) | 3:17 | 2025-05-30 |  |
+| [트리트먼트](https://open.spotify.com/track/5Myuon0t8Z4nvlynUaXj64) | [박세웅](https://open.spotify.com/artist/0qsmcnZcse4RGtukiCpvgQ) | [트리트먼트](https://open.spotify.com/album/5l2AccjDSZ93NNqwjH64E1) | 3:17 | 2025-05-30 | 2025-06-05 |
 
 \*This playlist was first scraped on 2022-05-15. Prior content cannot be recovered.

@@ -1,12 +1,12 @@
 {
   "description": "This is Am\u00e9n. The essential tracks, all in one playlist.",
-  "num_followers": 6795,
+  "num_followers": 6797,
   "original_name": "This Is Am\u00e9n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDzpgAAAAACBLqQIs9OQeRMXbWkcXKxn",
+  "snapshot_id": "aD47AAAAAAC8baSTPMyWLJK11PE05RKb",
   "tracks": [
     {
       "added_at": null,
@@ -187,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "2020",
-        "url": "https://open.spotify.com/album/2XXSSuTZwjCGyI0yshXmJv"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9n",
-          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
-        }
-      ],
-      "duration_ms": 248784,
-      "name": "Los Finos",
-      "url": "https://open.spotify.com/track/2VZF5V2UtGkcxVsynxLxoE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tiempos de Resurrecci\u00f3n",
         "url": "https://open.spotify.com/album/0eDQe2HtPCCNwJ6DjxnDVN"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 239000,
       "name": "Entre Tus LLamas (El Tunche)",
       "url": "https://open.spotify.com/track/2cmcgsLAcUKc62FrsWvEZu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "2020",
+        "url": "https://open.spotify.com/album/2XXSSuTZwjCGyI0yshXmJv"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "duration_ms": 248784,
+      "name": "Los Finos",
+      "url": "https://open.spotify.com/track/2VZF5V2UtGkcxVsynxLxoE"
     },
     {
       "added_at": null,
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 244869,
-      "name": "Mar\u00eda",
-      "url": "https://open.spotify.com/track/0TELUUtorjfY4gvlaVuiTu"
+      "duration_ms": 374728,
+      "name": "Despierten",
+      "url": "https://open.spotify.com/track/6P4H2ugc3v2fYV8bds4bkc"
     },
     {
       "added_at": null,
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 374728,
-      "name": "Despierten",
-      "url": "https://open.spotify.com/track/6P4H2ugc3v2fYV8bds4bkc"
+      "duration_ms": 244869,
+      "name": "Mar\u00eda",
+      "url": "https://open.spotify.com/track/0TELUUtorjfY4gvlaVuiTu"
     },
     {
       "added_at": null,

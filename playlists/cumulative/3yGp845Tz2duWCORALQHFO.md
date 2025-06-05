@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-3,034 songs - 6 day 20 hr 48 min
+3,036 songs - 6 day 20 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -514,6 +514,7 @@
 | [Connect](https://open.spotify.com/track/6H1fjrF5zmxUUdLerA7HkF) | [Kryder](https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O), [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj) | [Connect](https://open.spotify.com/album/4nLK2scPvvoKozMofiVPxr) | 2:51 | 2024-09-20 | 2024-09-27 |
 | [Connected People](https://open.spotify.com/track/0sNvA6peXfB2Sl4mNdsjKQ) | [Claus Backslash](https://open.spotify.com/artist/5ReRJ7haxeFeSr9BRzJ3T4) | [Connected People](https://open.spotify.com/album/5HVPNZJdxyuaRcQN8z37Xi) | 3:44 | 2024-10-31 | 2024-11-09 |
 | [Constellation](https://open.spotify.com/track/3buatIKFkjY7UrzZh71hax) | [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv), [FRND](https://open.spotify.com/artist/7pMqgUModTCyS7hpa5n2Lc) | [Aura Park](https://open.spotify.com/album/4HqTeQW4BK54pRKvWigmI6) | 3:37 | 2025-04-18 | 2025-04-25 |
+| [Constellations \- Jono Stephenson Remix](https://open.spotify.com/track/5IQ2d2CqsxQC8w4JVgtbiZ) | [PLS&TY](https://open.spotify.com/artist/14byx2nRysWNtgauCXscKT), [Jono Stephenson](https://open.spotify.com/artist/21MbQv1rCoPiOUq7f3cdHL) | [Constellations \(Jono Stephenson Remix\)](https://open.spotify.com/album/5TvCBHplI7VmOCzbVAYrs7) | 3:23 | 2025-06-04 |  |
 | [Contact](https://open.spotify.com/track/5ludDBASLNjFINkMhMs8Al) | [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec), [Brigitte Bardot](https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy) | [Contact](https://open.spotify.com/album/1LOWYMjMQJxGazjrlpnI6L) | 3:12 | 2024-10-04 | 2024-10-12 |
 | [Continuous](https://open.spotify.com/track/0Fxqc3d8yLmpkbAWfM6ZMR) | [IMP Dariush](https://open.spotify.com/artist/0gMVuhhYGMNarfbZdh2FrJ) | [Continuous](https://open.spotify.com/album/1zPcA6x6e1cFoADpNred56) | 2:33 | 2024-10-04 | 2024-10-12 |
 | [Contorted](https://open.spotify.com/track/21XpgQiTcs2oeWimVY5f84) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw) | [Contorted](https://open.spotify.com/album/4F1kwA5jCOMjf4ew9IOOzv) | 3:19 | 2025-04-24 | 2025-05-03 |
@@ -1332,6 +1333,7 @@
 | [Indicator](https://open.spotify.com/track/4kxsrcQVr04uwSVKX1L4UA) | [Allen Watts](https://open.spotify.com/artist/04FzGJxkYQ7zIRoCLQzLqR) | [Indicator](https://open.spotify.com/album/1UE4aHeXVcmlGTUZlCKLCT) | 5:49 | 2024-12-05 | 2024-12-14 |
 | [Indigo Child \(feat\. Michael Bernard Fitzgerald\)](https://open.spotify.com/track/4EHkG4Mzvula9Dozo46UK0) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Michael Bernard Fitzgerald](https://open.spotify.com/artist/7qugSH6OA23DE6I5v4kpdv) | [Indigo Child \(feat\. Michael Bernard Fitzgerald\)](https://open.spotify.com/album/43DE9skvypnCF4t2bLaSOh) | 3:10 | 2025-02-28 | 2025-03-08 |
 | [Infatuated](https://open.spotify.com/track/3p7ufhjWTrCnfyUrYYLzqI) | [Sons Of Maria](https://open.spotify.com/artist/2SfhiNVhk8w8xCQ89P3NPU) | [Infatuated](https://open.spotify.com/album/2Eao2qY23czzXjoh4XysRE) | 2:29 | 2025-01-24 | 2025-02-01 |
+| [Infectious \- Aurion Skye Remix](https://open.spotify.com/track/6qDWQAfmXEJj5iZww4kdRb) | [tyDi](https://open.spotify.com/artist/7tOUuyCplrFWLXCZuhE3C4), [Hiroshi Daisuki](https://open.spotify.com/artist/33dyguPO2umrmJdfoOrm4v), [Aurion Skye](https://open.spotify.com/artist/5pjrXQJiE2WmcrMBXYNKgi), [Chusap](https://open.spotify.com/artist/0P6OwtBYDXTCwksGaLFrts) | [Infectious \(Aurion Skye Remix\)](https://open.spotify.com/album/4mRT1TJwvETIt9U3mljQP0) | 3:48 | 2025-06-04 |  |
 | [INFERNO](https://open.spotify.com/track/6WqNV3V9tITvbjW3R1l4Rd) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Kasablanca](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [INFERNO](https://open.spotify.com/album/098hdrQn281rt3DPWAuHmC) | 2:59 | 2025-01-23 | 2025-02-01 |
 | [Infinite Void](https://open.spotify.com/track/04TTka17Uu2z6AxwEJq3ps) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS), [Unfused](https://open.spotify.com/artist/71JkAolI9Axuvf2lyzEhpq) | [Infinite Void](https://open.spotify.com/album/0E3fBjiZwzShK066zWKaJx) | 4:13 | 2024-07-19 | 2024-07-27 |
 | [Insanity](https://open.spotify.com/track/47zvCGca6f3IrS1l4ZFwg0) | [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ), [DJs From Mars](https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD), [ALEX LNDN](https://open.spotify.com/artist/4RKP5zfiRWMMtF4xMcyvw0) | [Insanity](https://open.spotify.com/album/4UNDP4vUFl4sh0Fjj0AMkR) | 2:18 | 2025-01-17 | 2025-01-24 |

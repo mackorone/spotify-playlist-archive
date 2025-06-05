@@ -2,9 +2,9 @@
 
 ### [K\-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> Future K\-Pop hits! \(Cover: tripleS\)
+> Future K\-Pop hits! \(Cover: KickFlip\)
 
-1,295 songs - 2 day 22 hr 9 min
+1,296 songs - 2 day 22 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [100](https://open.spotify.com/track/65x81o2eIyfQT6hpQkCKhj) | [SuperM](https://open.spotify.com/artist/5BHFSMEjfLVx1JwRWjAOsE) | [100](https://open.spotify.com/album/1JofsmDnFHIiFZ5ecuKPR7) | 3:26 | 2020-10-13\* | 2020-11-16 |
 | [17](https://open.spotify.com/track/7dQEQaqSRFRApHDl2avlT3) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [17](https://open.spotify.com/album/6ap1HVFEbkAkMurMVg3zXM) | 2:50 | 2024-08-08 | 2024-11-02 |
 | [2 KIDS](https://open.spotify.com/track/35IJPK0rh5w4GwKvqHvnoZ) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [2 KIDS](https://open.spotify.com/album/5oFGlBqhY9IYR9slnZjhxH) | 3:33 | 2020-10-13\* | 2020-11-05 |
+| [2 Months](https://open.spotify.com/track/1ayDPLiUj3blLqVkVufY0X) | [UAU](https://open.spotify.com/artist/3zfokQW0XScTuGtTQkl682) | [Playlist \#You Are You](https://open.spotify.com/album/0Z9CrKIgLP09vWer1NGZBJ) | 2:27 | 2025-06-04 |  |
 | [2022 \(Forever\)](https://open.spotify.com/track/11JclvqEv0Zw0VwfgUqoek) | [DKZ](https://open.spotify.com/artist/31eyTcfjAke5hFX3az3nRE) | [DKZ Year End Project Song ′It′s All Right Part.3′](https://open.spotify.com/album/7fLFLF9waiye1D3WYZ0noT) | 3:22 | 2022-12-30 | 2023-02-07 |
 | [25 \- A COLORS SHOW](https://open.spotify.com/track/1szML6Onangw2A3ppLq1ac) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [25 \- A COLORS SHOW](https://open.spotify.com/album/5qi1T2mLicHngZ0rHxeNsC) | 2:46 | 2024-02-26 | 2024-03-31 |
 | [3108](https://open.spotify.com/track/1jJb6ZRhsPVYRKBj4wZ4xc) | [Ha Hyunsang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [3108](https://open.spotify.com/album/0pwKuUl5Rx2o2GWsARCCOU) | 2:58 | 2020-11-11 | 2021-03-10 |

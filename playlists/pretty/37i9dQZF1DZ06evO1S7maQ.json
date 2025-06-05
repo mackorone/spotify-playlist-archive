@@ -1,12 +1,12 @@
 {
   "description": "This is Bruce Springsteen. The essential tracks, all in one playlist.",
-  "num_followers": 642448,
+  "num_followers": 642502,
   "original_name": "This Is Bruce Springsteen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDzpgAAAAAB/EOO8MZUw4oY+X6h+I0k2",
+  "snapshot_id": "aD47AAAAAAA1Udjq0MRD4nm9u3G//322",
   "tracks": [
     {
       "added_at": null,
@@ -515,8 +515,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Letter To You",
-        "url": "https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh"
+        "name": "Darkness On the Edge of Town",
+        "url": "https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc"
       },
       "artists": [
         {
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 295493,
-      "name": "Letter To You",
-      "url": "https://open.spotify.com/track/4Ngh6rMVUCOFK30oO0iEMD"
+      "duration_ms": 237440,
+      "name": "Prove It All Night",
+      "url": "https://open.spotify.com/track/0Ye9OGxiHF3jylblTCuX7Q"
     },
     {
       "added_at": null,
@@ -547,8 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Darkness On the Edge of Town",
-        "url": "https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc"
+        "name": "The Rising",
+        "url": "https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d"
       },
       "artists": [
         {
@@ -556,15 +556,15 @@
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 237440,
-      "name": "Prove It All Night",
-      "url": "https://open.spotify.com/track/0Ye9OGxiHF3jylblTCuX7Q"
+      "duration_ms": 245360,
+      "name": "Lonesome Day",
+      "url": "https://open.spotify.com/track/0R9q3imnid244T1ty47MGs"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Only the Strong Survive",
-        "url": "https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn"
+        "name": "Letter To You",
+        "url": "https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh"
       },
       "artists": [
         {
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 147040,
-      "name": "Do I Love You (Indeed I Do)",
-      "url": "https://open.spotify.com/track/0NdXIfsa0zFZDcCVpUfHQi"
+      "duration_ms": 295493,
+      "name": "Letter To You",
+      "url": "https://open.spotify.com/track/4Ngh6rMVUCOFK30oO0iEMD"
     },
     {
       "added_at": null,
@@ -595,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Rising",
-        "url": "https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d"
+        "name": "Only the Strong Survive",
+        "url": "https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn"
       },
       "artists": [
         {
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 245360,
-      "name": "Lonesome Day",
-      "url": "https://open.spotify.com/track/0R9q3imnid244T1ty47MGs"
+      "duration_ms": 147040,
+      "name": "Do I Love You (Indeed I Do)",
+      "url": "https://open.spotify.com/track/0NdXIfsa0zFZDcCVpUfHQi"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faithless",
-        "url": "https://open.spotify.com/album/0d8swHQ9ch1mzuwKUHOBjj"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 231880,
-      "name": "Faithless",
-      "url": "https://open.spotify.com/track/6UuDamBC3Jd5786vcXUPr4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Western Stars",
         "url": "https://open.spotify.com/album/6BhqPpIgY83rqoZ2L78Lte"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 234240,
       "name": "Hello Sunshine",
       "url": "https://open.spotify.com/track/5bpaHLJ08GNBKW35ZfCYJy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Faithless",
+        "url": "https://open.spotify.com/album/0d8swHQ9ch1mzuwKUHOBjj"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 231880,
+      "name": "Faithless",
+      "url": "https://open.spotify.com/track/6UuDamBC3Jd5786vcXUPr4"
     },
     {
       "added_at": null,

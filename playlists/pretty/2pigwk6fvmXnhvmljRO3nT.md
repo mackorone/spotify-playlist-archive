@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,302 songs - 18 day 23 hr 29 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,312 songs - 19 day 0 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -6166,7 +6166,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 6156 | [Found Me](https://open.spotify.com/track/4m0dj1HxXzFlnIqPkomXQB) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Oncle Jazz](https://open.spotify.com/album/4W4gNYa4tt3t8V6FmONWEK) | 3:31 |
 | 6157 | [Pines](https://open.spotify.com/track/7qFLFQOYcytDd4hejiREzk) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Oncle Jazz](https://open.spotify.com/album/4W4gNYa4tt3t8V6FmONWEK) | 3:42 |
 | 6158 | [Show Me How \(Album V\)](https://open.spotify.com/track/6A46jG17UumVQLqodsFxuV) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Oncle Jazz](https://open.spotify.com/album/4W4gNYa4tt3t8V6FmONWEK) | 3:35 |
-| 6159 | [Morse Code](https://open.spotify.com/track/0FmjQ91CI1HubjGKab5Sx6) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT), [Odile](https://open.spotify.com/artist/311QcY4v519hP7k16DQIO5), [Geoffroy](https://open.spotify.com/artist/6JV9wE1rWfk4fzwwhWwBuc) | [Headroom](https://open.spotify.com/album/2KvYBT9dffNfJqqsLLHyAR) | 3:24 |
+| 6159 | [Morse Code](https://open.spotify.com/track/0FmjQ91CI1HubjGKab5Sx6) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT), [Odile](https://open.spotify.com/artist/311QcY4v519hP7k16DQIO5), [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [Headroom](https://open.spotify.com/album/2KvYBT9dffNfJqqsLLHyAR) | 3:24 |
 | 6160 | [Again](https://open.spotify.com/track/73fuyfiuUsHklXiXew3h5k) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT), [Ghostly Kisses](https://open.spotify.com/artist/5ERwG2bd6IIAdkLQFo40ma) | [Headroom](https://open.spotify.com/album/2KvYBT9dffNfJqqsLLHyAR) | 3:49 |
 | 6161 | [Break for Lovers](https://open.spotify.com/track/13TryBWhlKhLtzivqudzbn) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT), [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Headroom](https://open.spotify.com/album/2KvYBT9dffNfJqqsLLHyAR) | 3:03 |
 | 6162 | [NOKIA](https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 4:01 |
@@ -7310,5 +7310,15 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 7300 | [With Coffee…](https://open.spotify.com/track/7svHY5rTJ1Aotj6sDsDgdV) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Brown Eyes](https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA) | 3:35 |
 | 7301 | [비밀의 화원](https://open.spotify.com/track/2Oe0zgUBGRzkP4KtpIlo8c) | [Lee Sang Eun](https://open.spotify.com/artist/0Gqc2XO4Wu0YpYVWSiDwYt) | [신비체험](https://open.spotify.com/album/52etdX6SVjZQNwQqS74Cys) | 4:09 |
 | 7302 | [초등학교 동창회 가던 날](https://open.spotify.com/track/2CdmBpegNWpHX3Wcy3fJcz) | [여행스케치](https://open.spotify.com/artist/1hjjZKt6yK0bGmubr0yOZ6) | [처음타본 타임머신](https://open.spotify.com/album/6aHpFexUPTYIGNL6uTLPSC) | 4:09 |
+| 7303 | [내 사랑 내곁에](https://open.spotify.com/track/3HaI4ogu2cT7zUOGEjkwVF) | [Kim Hyunshik](https://open.spotify.com/artist/5tYHIUOTcoDw6xMUkLEtzv) | [김현식 Vol.6](https://open.spotify.com/album/0D6Nimd69vVUUfksIKBJ08) | 4:27 |
+| 7304 | [그것만이 내 세상](https://open.spotify.com/track/5fUHeKHYntekbkf6FybjLs) | [Deul Guk Hwa](https://open.spotify.com/artist/1sgkTCF42JGJUIaBP68n6H) | [들국화 1집 행진/사랑일 뿐야](https://open.spotify.com/album/1xiw5yg4K5TAaGEt56pR2K) | 5:26 |
+| 7305 | [언제나 그대 내곁에](https://open.spotify.com/track/5eJJ00mrTWETqIi8T3BE5M) | [Kim Hyunshik](https://open.spotify.com/artist/5tYHIUOTcoDw6xMUkLEtzv) | [김현식 4집 언제나 그대 내곁에](https://open.spotify.com/album/1crwuXQHefD9jgUoJozIxG) | 4:40 |
+| 7306 | [꿈에서 본 거리](https://open.spotify.com/track/7sDSTwpLdrCXRHetyAolSD) | [Blue Sky](https://open.spotify.com/artist/1pzkEz6aaXEEdzoT9iGJwg) | [푸른하늘 4집 \- 꿈에서 본 거리](https://open.spotify.com/album/1FEXN5g2iw7b6VfZ7DBOHt) | 5:20 |
+| 7307 | [시를 위한 시](https://open.spotify.com/track/0VwVysNtXmqrJnZ80fFC1E) | [Lee Moon Sae](https://open.spotify.com/artist/2eVlgLy3Aym09gM3dqx6cq) | [이문세 5집](https://open.spotify.com/album/3lHjQz88de4Wj0fXhkqLos) | 4:00 |
+| 7308 | [Fly, Chick](https://open.spotify.com/track/5jzpCZTsbThwj8y5gvIU17) | [N.EX.T](https://open.spotify.com/artist/1BvcPcQ3raChuHJcAJrvGy) | [The Return Of N.EX.T Pt\. 1 The Being](https://open.spotify.com/album/4hK0Hd9GwgldreY6AtH4JT) | 5:12 |
+| 7309 | [Letter to myself](https://open.spotify.com/track/3maPKFJ0C44eM3ZUSEkUfx) | [Shin Hae Chul](https://open.spotify.com/artist/0X7uU5t8s4p9vXE4PjPvfn) | [Myself](https://open.spotify.com/album/201xIzWgRnQlZXGSkaqYQy) | 4:50 |
+| 7310 | [내가 만일](https://open.spotify.com/track/5CO3WE0VBWr4PMLaWJHmWl) | [안치환](https://open.spotify.com/artist/5XR6Ek5kEhbccI0LDxFcoR) | [안치환4집](https://open.spotify.com/album/0cPXhyYrxNzhhsVd5uLnFa) | 3:51 |
+| 7311 | [How Far I'll Go \- From "Moana"/Soundtrack Version](https://open.spotify.com/track/62wcjED7Q0eZLLtyp2Rlwt) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Summer Songs , Vol\. 2](https://open.spotify.com/album/4AORimNOUL0YaMx9jYx2G8) | 2:43 |
+| 7312 | [Monsters, Inc.](https://open.spotify.com/track/5e0O7MjhNHq9G67qDFM8nR) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Monsters, Inc\. \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7hguux6E8wOGlNsKnZB6Sz) | 2:06 |
 
-Snapshot ID: `AAAHFNO5MtPim9E5Z3DhEkecuVBZWfcz`
+Snapshot ID: `AAAHINB44FHafnFxMyWVXeK2nTtF2ig9`

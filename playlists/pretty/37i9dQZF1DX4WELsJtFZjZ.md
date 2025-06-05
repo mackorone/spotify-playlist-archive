@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WELsJtFZjZ.md) - [plain]
 
 > Mellow songs from the 1980s\. Cover: Luther Vandross
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,475,941 likes - 150 songs - 11 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,476,919 likes - 150 songs - 11 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

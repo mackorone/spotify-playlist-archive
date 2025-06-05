@@ -1,12 +1,12 @@
 {
   "description": "This is Dharius. The essential tracks, all in one playlist.",
-  "num_followers": 122593,
+  "num_followers": 122609,
   "original_name": "This Is Dharius",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDzpgAAAAAAO0stv5qVsFTaz4TWZMCSa",
+  "snapshot_id": "aD47AAAAAAAVni9aKag9EYB4KUYJx4JL",
   "tracks": [
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MSD",
-        "url": "https://open.spotify.com/album/2wdRzxF9wnFKapjvdrNPpb"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 169500,
-      "name": "MSD",
-      "url": "https://open.spotify.com/track/6NKoySwuX4k0UivbwQ9DyY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Liga Malandra 3",
         "url": "https://open.spotify.com/album/6dcUWslTmKR3ymSgSQ1nzy"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 371162,
       "name": "Liga Malandra 3",
       "url": "https://open.spotify.com/track/6fAGdSZyZO3uKF0wdVOuVd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MSD",
+        "url": "https://open.spotify.com/album/2wdRzxF9wnFKapjvdrNPpb"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 169500,
+      "name": "MSD",
+      "url": "https://open.spotify.com/track/6NKoySwuX4k0UivbwQ9DyY"
     },
     {
       "added_at": null,
@@ -843,42 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Retumbando en la Ciudad",
-        "url": "https://open.spotify.com/album/5cufO6yyzjtoouiGKv1R7J"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 214736,
-      "name": "Retumbando en la Ciudad",
-      "url": "https://open.spotify.com/track/729kMWkfzHPcum2dMczWoa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cuando Todo Acaba",
-        "url": "https://open.spotify.com/album/1lSYxwcLpWyqM7pD5N1fAU"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 251416,
-      "name": "Hipocres\u00eda",
-      "url": "https://open.spotify.com/track/4OElCXKZqbE8MhHvhrKX1z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Diablo, La Muerte y Yo",
         "url": "https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj"
       },
@@ -899,6 +863,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cuando Todo Acaba",
+        "url": "https://open.spotify.com/album/1lSYxwcLpWyqM7pD5N1fAU"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 251416,
+      "name": "Hipocres\u00eda",
+      "url": "https://open.spotify.com/track/4OElCXKZqbE8MhHvhrKX1z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Retumbando en la Ciudad",
+        "url": "https://open.spotify.com/album/5cufO6yyzjtoouiGKv1R7J"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 214736,
+      "name": "Retumbando en la Ciudad",
+      "url": "https://open.spotify.com/track/729kMWkfzHPcum2dMczWoa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sin Escapatoria",
         "url": "https://open.spotify.com/album/0CykID0bWBhpZHVjqUlx4B"
       },
@@ -915,6 +915,22 @@
       "duration_ms": 205060,
       "name": "Sin Escapatoria",
       "url": "https://open.spotify.com/track/6cemBZSbpNTZVHIcYoPhEL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Diablo, La Muerte y Yo",
+        "url": "https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 207679,
+      "name": "No tengo amigos",
+      "url": "https://open.spotify.com/track/5Kf28YdJzA9sd1BhpQ1UNr"
     },
     {
       "added_at": null,
@@ -967,22 +983,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Diablo, La Muerte y Yo",
-        "url": "https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 207679,
-      "name": "No tengo amigos",
-      "url": "https://open.spotify.com/track/5Kf28YdJzA9sd1BhpQ1UNr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Inhala",
         "url": "https://open.spotify.com/album/5BC1qGaUadJLd5y4QIhhJS"
       },
@@ -1003,6 +1003,22 @@
       "duration_ms": 245500,
       "name": "Inhala",
       "url": "https://open.spotify.com/track/19U70d6IpR3x8XRBfGMXXI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Diablo, La Muerte y Yo",
+        "url": "https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 209847,
+      "name": "Si la muerte pregunta",
+      "url": "https://open.spotify.com/track/75q22frRWs67LW2ltg7PLC"
     },
     {
       "added_at": null,
@@ -1051,22 +1067,6 @@
       "duration_ms": 140053,
       "name": "Todo El Barrio",
       "url": "https://open.spotify.com/track/2Q102D8aRguZjaq4m6NqpA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Diablo, La Muerte y Yo",
-        "url": "https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 209847,
-      "name": "Si la muerte pregunta",
-      "url": "https://open.spotify.com/track/75q22frRWs67LW2ltg7PLC"
     }
   ],
   "unique_name": "This Is Dharius",

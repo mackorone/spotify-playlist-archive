@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1oZr8mGoQg9aDF1BI1G9QV.md) - [plain]
 
 > Songs that are queer\. TO ME.
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 likes - 27 songs - 1 hr 31 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 likes - 28 songs - 1 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,5 +35,6 @@ pretty - [cumulative](/playlists/cumulative/1oZr8mGoQg9aDF1BI1G9QV.md) - [plain]
 | 25 | [Cancer](https://open.spotify.com/track/0GgN4MhR5GKn5IcKN0e0rG) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 2:22 |
 | 26 | [The Wooded Hills Along the Black Sea](https://open.spotify.com/track/4a4WGeoeja5hlFeOySwwrC) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Songs for Pierre Chuvin](https://open.spotify.com/album/2FHXWD7j8HqJUQzA4ZrHDG) | 2:57 |
 | 27 | [Picture of My Dress](https://open.spotify.com/track/4CI2qX3XYZLv5jIoAwdmz4) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Getting Into Knives](https://open.spotify.com/album/7vc7yVbrVGVAT22WbtLSyd) | 4:20 |
+| 28 | [American Idiot](https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot](https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke) | 2:56 |
 
-Snapshot ID: `AAAAH7jC9kWmxWJr6hIRa3PXiHeF9xw5`
+Snapshot ID: `AAAAIES6CyDtnoBIlSxLzFlqm26ZnMia`

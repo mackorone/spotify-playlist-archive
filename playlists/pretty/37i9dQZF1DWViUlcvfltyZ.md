@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > chillatela anche tu come chillano i Post Nebbia sui seggiolini dell'idroscalo al MI AMI  💆 \(foto di agnese carbone\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,398 likes - 107 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,405 likes - 107 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

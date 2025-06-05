@@ -2,7 +2,7 @@
 
 ### [PARTYNEXTDOOR Radio](https://open.spotify.com/playlist/37i9dQZF1E4sPTJXAlqbkG)
 
-> With Sonder, Summer Walker, Frank Ocean and more
+> With Sonder, Summer Walker, Jacquees and more
 
 678 songs - 1 day 14 hr 28 min
 

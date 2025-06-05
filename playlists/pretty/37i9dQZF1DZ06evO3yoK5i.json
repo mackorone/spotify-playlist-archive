@@ -1,12 +1,12 @@
 {
   "description": "This is Eros Ramazzotti. The essential tracks, all in one playlist.",
-  "num_followers": 239097,
+  "num_followers": 239123,
   "original_name": "This Is Eros Ramazzotti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDzpgAAAAABb2zEqVGPXvBK4PkRrG0UB",
+  "snapshot_id": "aD47AAAAAABURbndgRgQlisuvAbNJ2d0",
   "tracks": [
     {
       "added_at": null,
@@ -211,22 +211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "9",
-        "url": "https://open.spotify.com/album/0orR3i1y0uPP6smKEFFbP8"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 276920,
-      "name": "Un attimo di pace",
-      "url": "https://open.spotify.com/track/0LadgEv7wA33HaHEvuVcyd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The World Of Pavarotti",
         "url": "https://open.spotify.com/album/4sZtLMwl4ga9aV73G1Nn8D"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 275733,
       "name": "Se Bastasse Una Canzone",
       "url": "https://open.spotify.com/track/1Mc6y8Q3MYppvrCylqDkwO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "9",
+        "url": "https://open.spotify.com/album/0orR3i1y0uPP6smKEFFbP8"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 276920,
+      "name": "Un attimo di pace",
+      "url": "https://open.spotify.com/track/0LadgEv7wA33HaHEvuVcyd"
     },
     {
       "added_at": null,
@@ -707,42 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Ogni Senso",
-        "url": "https://open.spotify.com/album/23jtBhTUUUj9LvFlbl3tyD"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        },
-        {
-          "name": "Antonella Bucci",
-          "url": "https://open.spotify.com/artist/0nT6YKCtGrfEDXYVpbonQL"
-        }
-      ],
-      "duration_ms": 264026,
-      "name": "Amarti \u00e8 l'immenso per me",
-      "url": "https://open.spotify.com/track/6QIri6TN34y7YSvcsnT4Ln"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "9 (Remastered 192 khz)",
-        "url": "https://open.spotify.com/album/17ZTVTpJqUfCsk8DdCevD0"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 220120,
-      "name": "Cancion para Ella - Remastered 2021",
-      "url": "https://open.spotify.com/track/3UABn4DBSTTvdyKFZVg9BW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "e2",
         "url": "https://open.spotify.com/album/180OkoknJvtUxYrO0t8y9a"
       },
@@ -763,8 +727,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Love Disney (Latino)",
-        "url": "https://open.spotify.com/album/2Aoj9UQGgww7hWnziqtFLo"
+        "name": "9 (Remastered 192 khz)",
+        "url": "https://open.spotify.com/album/17ZTVTpJqUfCsk8DdCevD0"
       },
       "artists": [
         {
@@ -772,9 +736,29 @@
           "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
         }
       ],
-      "duration_ms": 234493,
-      "name": "En Mi Coraz\u00f3n Vivir\u00e1s",
-      "url": "https://open.spotify.com/track/3aFyXyc3riSZRJq55zzuLJ"
+      "duration_ms": 220120,
+      "name": "Cancion para Ella - Remastered 2021",
+      "url": "https://open.spotify.com/track/3UABn4DBSTTvdyKFZVg9BW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In Ogni Senso",
+        "url": "https://open.spotify.com/album/23jtBhTUUUj9LvFlbl3tyD"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        },
+        {
+          "name": "Antonella Bucci",
+          "url": "https://open.spotify.com/artist/0nT6YKCtGrfEDXYVpbonQL"
+        }
+      ],
+      "duration_ms": 264026,
+      "name": "Amarti \u00e8 l'immenso per me",
+      "url": "https://open.spotify.com/track/6QIri6TN34y7YSvcsnT4Ln"
     },
     {
       "added_at": null,
@@ -807,6 +791,22 @@
       "duration_ms": 253240,
       "name": "Yo sin ti - Remastered 2021",
       "url": "https://open.spotify.com/track/4gXHMiZ4MXRo6nRWzu8oLq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "We Love Disney (Latino)",
+        "url": "https://open.spotify.com/album/2Aoj9UQGgww7hWnziqtFLo"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 234493,
+      "name": "En Mi Coraz\u00f3n Vivir\u00e1s",
+      "url": "https://open.spotify.com/track/3aFyXyc3riSZRJq55zzuLJ"
     },
     {
       "added_at": null,

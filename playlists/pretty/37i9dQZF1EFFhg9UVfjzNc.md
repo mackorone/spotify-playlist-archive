@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5JjUlPENcVZsqsYpaLmlDl">Hananiel Eduardo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 778 likes - 93 songs - 9 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 777 likes - 93 songs - 9 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,9 +78,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 | 68 | [Novo Dia \- Ao Vivo](https://open.spotify.com/track/0KCIqEY6WqxzWL9xL7tifJ) | [Adoração Central](https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4) | [Sobre Coisas Espirituais \(Ao Vivo\)](https://open.spotify.com/album/3B2gYZnNtRRXa4Lr9pAgMX) | 5:04 |
 | 69 | [Jesus \- English Version](https://open.spotify.com/track/0bBHh0MuQgH5dCIy4FP2OC) | [Bianca Azevedo](https://open.spotify.com/artist/69rTWdhFy8ISfufMZI9qd1) | [Vida \(Ao Vivo\)](https://open.spotify.com/album/5GKD4VAYNOg8eQfelgHR4a) | 8:04 |
 | 70 | [Mistério Da Criação \- Ao Vivo](https://open.spotify.com/track/1ndMOeoYBFDegmMheirZcr) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [É Sobre Ele \(Ao Vivo\)](https://open.spotify.com/album/0r2pTLmYNoveZOekuvFg15) | 8:39 |
-| 71 | [Entrega](https://open.spotify.com/track/36dN66P4nDS98xP3RY1akX) | [Chris Duran](https://open.spotify.com/artist/1cuygaMWRUavQ2vfL4v5ex) | [Entrega](https://open.spotify.com/album/5RoCRCrhaE4r9DQzJusMGk) | 6:13 |
-| 72 | [Nos Rendemos a Ti \(Toma O Teu Lugar\)](https://open.spotify.com/track/6c7Ch0zIb7926oTWhQZA8q) | [Fernanda Ferro](https://open.spotify.com/artist/080EtCY2JWqzfNFmEJUW3x) | [Céu na Terra](https://open.spotify.com/album/6um3WlqCMSWWT8auIqxtlG) | 7:30 |
-| 73 | [Quem é Ele \- Ao Vivo](https://open.spotify.com/track/7sbw0RaD6nxalNUtjAcKnB) | [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Quem é Ele \(Ao Vivo\)](https://open.spotify.com/album/7kWHlrt0U9mKj9cUzbFwqu) | 6:39 |
+| 71 | [Quem é Ele \- Ao Vivo](https://open.spotify.com/track/7sbw0RaD6nxalNUtjAcKnB) | [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Quem é Ele \(Ao Vivo\)](https://open.spotify.com/album/7kWHlrt0U9mKj9cUzbFwqu) | 6:39 |
+| 72 | [Entrega](https://open.spotify.com/track/36dN66P4nDS98xP3RY1akX) | [Chris Duran](https://open.spotify.com/artist/1cuygaMWRUavQ2vfL4v5ex) | [Entrega](https://open.spotify.com/album/5RoCRCrhaE4r9DQzJusMGk) | 6:13 |
+| 73 | [Nos Rendemos a Ti \(Toma O Teu Lugar\)](https://open.spotify.com/track/6c7Ch0zIb7926oTWhQZA8q) | [Fernanda Ferro](https://open.spotify.com/artist/080EtCY2JWqzfNFmEJUW3x) | [Céu na Terra](https://open.spotify.com/album/6um3WlqCMSWWT8auIqxtlG) | 7:30 |
 | 74 | [És Bem\-Vindo \- Ao Vivo](https://open.spotify.com/track/4zIOxt1byvZsFFPKJP9z7R) | [Brasa Church Music](https://open.spotify.com/artist/3dkGpbI5k8lDZ4Sk1ykv4A), [Giselle Knevitz](https://open.spotify.com/artist/2vJtvgrtI4T6edVZcC29SM), [Amauri Knevitz Jr](https://open.spotify.com/artist/0F62U3eJ9UOEpoOqdiuzGd) | [Exaltado \(Ao Vivo\)](https://open.spotify.com/album/1jsXrSsrVd690Wa42Y9wZy) | 7:46 |
 | 75 | [Ei, Você](https://open.spotify.com/track/2sLMN5XaiUDDEjIL7Gabxi) | [Fernanda Madaloni](https://open.spotify.com/artist/2zooTs2rDXKbq4kN7BKivZ), [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h) | [Ei, Você](https://open.spotify.com/album/79V8dpsBPYR5I5XKt2mbOh) | 4:34 |
 | 76 | [Que Se Abram Os Portais](https://open.spotify.com/track/1R5utqC4ZIyIyjmmw52OuI) | [Fernanda Ferro](https://open.spotify.com/artist/080EtCY2JWqzfNFmEJUW3x) | [Céu na Terra](https://open.spotify.com/album/6um3WlqCMSWWT8auIqxtlG) | 4:54 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 | 79 | [Nada Vai Nos Separar](https://open.spotify.com/track/6SpfklfmEgkO0ZlZ0szMDJ) | [Fernanda Ferro](https://open.spotify.com/artist/080EtCY2JWqzfNFmEJUW3x) | [Céu na Terra](https://open.spotify.com/album/6um3WlqCMSWWT8auIqxtlG) | 4:01 |
 | 80 | [Jesus](https://open.spotify.com/track/2CKVeV4XTiDJzJ6QhLJdMh) | [Fernanda Ferro](https://open.spotify.com/artist/080EtCY2JWqzfNFmEJUW3x) | [Céu na Terra](https://open.spotify.com/album/6um3WlqCMSWWT8auIqxtlG) | 5:00 |
 | 81 | [A Ti](https://open.spotify.com/track/4xHBqxLXbwemwOnHKfIFjU) | [Fernanda Ferro](https://open.spotify.com/artist/080EtCY2JWqzfNFmEJUW3x) | [Céu na Terra](https://open.spotify.com/album/6um3WlqCMSWWT8auIqxtlG) | 5:33 |
-| 82 | [Exemplo de Maria](https://open.spotify.com/track/460pUpGhBdWKY8t2balfG4) | [Simone Medeiros](https://open.spotify.com/artist/07Ax7WxyKbSR0aIFGzalA5) | [Deixa\-Te Modelar](https://open.spotify.com/album/06sZ6iCaL7EV1HOy8bFGhq) | 4:19 |
-| 83 | [Meu Amado \- Ao Vivo](https://open.spotify.com/track/7cQAzkbSCSbL9Yl0wwy2aa) | [Sarah Oliveira](https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq), [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h) | [Meu Amado \(Ao Vivo\)](https://open.spotify.com/album/3KosRoKDQobyH2Q0wk4H4b) | 10:29 |
+| 82 | [Meu Amado \- Ao Vivo](https://open.spotify.com/track/7cQAzkbSCSbL9Yl0wwy2aa) | [Sarah Oliveira](https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq), [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h) | [Meu Amado \(Ao Vivo\)](https://open.spotify.com/album/3KosRoKDQobyH2Q0wk4H4b) | 10:29 |
+| 83 | [Exemplo de Maria](https://open.spotify.com/track/460pUpGhBdWKY8t2balfG4) | [Simone Medeiros](https://open.spotify.com/artist/07Ax7WxyKbSR0aIFGzalA5) | [Deixa\-Te Modelar](https://open.spotify.com/album/06sZ6iCaL7EV1HOy8bFGhq) | 4:19 |
 | 84 | [Adoração Espontânea \- Ao Vivo](https://open.spotify.com/track/4VgtOEtlLJlpa6okshTlUu) | [Os Bravos](https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm), [JesusCopy Music](https://open.spotify.com/artist/4CDhTrPFRLfba48VJR9L4b), [Laura Souguellis](https://open.spotify.com/artist/0MDyxNYI11EEQWhjsrPFd2) | [Hebreus 1 \(Ao Vivo\)](https://open.spotify.com/album/2iaC0zdDp1yuYAPUBWBjtv) | 21:53 |
 | 85 | [Anseio por Ti](https://open.spotify.com/track/2W12vYVznKRTuW34TM2j0V) | [Simone Medeiros](https://open.spotify.com/artist/07Ax7WxyKbSR0aIFGzalA5) | [Deixa\-Te Modelar](https://open.spotify.com/album/06sZ6iCaL7EV1HOy8bFGhq) | 7:17 |
 | 86 | [Yahweh](https://open.spotify.com/track/7pJSnyBN35grxZ6A0YhWVt) | [Sarah Oliveira](https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq), [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h) | [Yahweh](https://open.spotify.com/album/1XV8OZeIyY9bhPDTr8uzrW) | 6:28 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 | 92 | [Yahweh \- Ao Vivo](https://open.spotify.com/track/02HlnHZ1sYv5W52Tyc5OI2) | [Adoração Central](https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4), [Daiana Celano](https://open.spotify.com/artist/0A7O8vWr8zmjwcZrmswa9o) | [Yahweh \(Ao Vivo\)](https://open.spotify.com/album/6TL5BxQ3bttcye1lmPtTjc) | 6:09 |
 | 93 | [Saudade](https://open.spotify.com/track/4Gu2dzEAkpM9Yz8OqVT0eQ) | [João Rodrigues\_](https://open.spotify.com/artist/3ByLHX1wWv6IzsXCNuq5ng) | [Saudade](https://open.spotify.com/album/02g50GmJy1bCMrMTE9V9Rb) | 3:52 |
 
-Snapshot ID: `AbzLigAAAADyP9zUJpSrYLUfVo9pH3V9`
+Snapshot ID: `AbzRKgAAAAAb/fHmDgZOHdcSNzrxbj4N`

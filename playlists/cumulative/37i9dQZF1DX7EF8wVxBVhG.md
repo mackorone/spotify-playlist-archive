@@ -4,7 +4,7 @@
 
 > Enhance your concentration by traveling through different brainwave frequencies until you reach peak awareness in Gamma state.
 
-345 songs - 17 hr 22 min
+347 songs - 17 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Alpha Binaural Waves 73\-80 Hz](https://open.spotify.com/track/2CvkLqkFrobSA22rGjhatt) | [Sienna Meadows](https://open.spotify.com/artist/2ZDLubEeEfuvABC6vzMMFm) | [Alpha Binaural Waves 73\-80 Hz](https://open.spotify.com/album/32M2RtwbmiD7YgOTtcdoHM) | 2:32 | 2024-06-11 | 2025-02-11 |
 | [Alpha Brain Waves](https://open.spotify.com/track/6K213XpWYPVKMLuPyfPhMV) | [Brainbox](https://open.spotify.com/artist/54SQU5335smXLXiFTvOo30) | [Alpha Brain Waves](https://open.spotify.com/album/2sU1EoTXZJbFBKADZpDl7T) | 2:42 | 2024-06-11 |  |
 | [Alpha Circles 90Hz \- 101Hz](https://open.spotify.com/track/1yJPgthQTuA2AnuzAykO8Z) | [Sound Particles](https://open.spotify.com/artist/0t19WH6KeglNXa5gLjsCwN) | [Sleep Sound](https://open.spotify.com/album/3e9PIFNGipQqAxGUkeOw29) | 3:33 | 2021-04-22 | 2025-02-11 |
-| [Alpha Concentration 107Hz \- 115Hz](https://open.spotify.com/track/5IEoPKlhlxwjnekvHRXXJW) | [Calming Beats](https://open.spotify.com/artist/0J8vrJR47xFULSWnTpv85L) | [Binaural Concentration](https://open.spotify.com/album/0SC46nDHuX7dsxufZ3UV5l) | 2:30 | 2021-09-02 |  |
+| [Alpha Concentration 107Hz \- 115Hz](https://open.spotify.com/track/5IEoPKlhlxwjnekvHRXXJW) | [Calming Beats](https://open.spotify.com/artist/0J8vrJR47xFULSWnTpv85L) | [Binaural Concentration](https://open.spotify.com/album/0SC46nDHuX7dsxufZ3UV5l) | 2:30 | 2021-09-02 | 2025-06-05 |
 | [Alpha Dreams](https://open.spotify.com/track/6cfuBECGdDOtVCsYNU0tdy) | [Binaural State](https://open.spotify.com/artist/50X4WE5GrxrVDrG5vWJMsJ) | [Alpha Dreams](https://open.spotify.com/album/6NN5gHMcp2Foa2zb87tT4c) | 2:17 | 2021-04-22 |  |
 | [Alpha Drone](https://open.spotify.com/track/2TIIo8DDxEuyxQm1wOmG70) | [Sleepy Moon](https://open.spotify.com/artist/2QRn1QIBN1ayOLFvAMVrIc) | [Binaural Reflection](https://open.spotify.com/album/5U85GoDFh2zqCqDf6m9TZo) | 2:38 | 2021-05-06 | 2021-06-18 |
 | [Alpha Equinox 11 Hz](https://open.spotify.com/track/1F76NetapFNFzsU3628zh3) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Binaural Equinox](https://open.spotify.com/album/3ZdozRB0fnNtkWu2GI4f8o) | 2:55 | 2022-12-09 | 2024-12-19 |
@@ -83,6 +83,7 @@
 | [Beta Focus](https://open.spotify.com/track/7xqiZcg3SXvD0FB07Bi4dU) | [Ambient Chronicity](https://open.spotify.com/artist/4JTLdCWEDemwSJPOyNT0h8) | [Brainwave Beta Attention Drones](https://open.spotify.com/album/643dzfyvfwWPF0DTrZt2Zj) | 3:30 | 2019-05-26\* | 2021-04-10 |
 | [Beta Focus 30 Hz](https://open.spotify.com/track/0iGMcgA6DPl1GqbNPtRYNb) | [Noise Shapers](https://open.spotify.com/artist/4Ck8TQHS7YHz4ql7WbAwFY) | [Beta Drones](https://open.spotify.com/album/2UlaFNcdtg84Yfq3KmcSHx) | 3:26 | 2019-05-26\* | 2021-03-10 |
 | [Beta Intelligence](https://open.spotify.com/track/4k5NyKgdxBaE4BZaQH2Vb1) | [The Inner Circle](https://open.spotify.com/artist/0mRW2BlrPBuwMkmtgZbDIB) | [Binaural Sphere](https://open.spotify.com/album/02tvTtzLWwJkElS8m4diA5) | 3:12 | 2021-12-22 | 2022-03-19 |
+| [Beta Motivation 115 Hz \- 131 Hz](https://open.spotify.com/track/5h4hF9FtIksZ7WOjRz5tF7) | [Unconscious Mind](https://open.spotify.com/artist/4z2YcYMIwrt57Yr2REOia0) | [Beta Motivation 115 Hz \- 131 Hz](https://open.spotify.com/album/6tPQe6NkWi0VGJSHL3AXOa) | 3:14 | 2025-06-04 |  |
 | [Beta Sinus 100 Hz \- 114 Hz](https://open.spotify.com/track/5866agZQlTT4KApKmUR5NK) | [Ampinomene](https://open.spotify.com/artist/2gJIRzMe4S1gOOpV5G6pc4) | [Ampinomene](https://open.spotify.com/album/7K1iVbSGN6L22Ci3NiBm75) | 3:20 | 2021-09-16 |  |
 | [Beta Sinus 150 Hz \- 158 Hz](https://open.spotify.com/track/5MQelJ5ZJIKFf2AZDNXoMz) | [Young Grove](https://open.spotify.com/artist/13evvWhJQpp7eMwNomoJ6e) | [Young Grove](https://open.spotify.com/album/6337k53fE94N3Wh6XAgW60) | 3:40 | 2021-09-16 | 2025-02-11 |
 | [Beta Sinus 191 Hz \- L 220 Hz](https://open.spotify.com/track/6pB1rlj3t9CyyQ39LETvnc) | [Mayor Deseo](https://open.spotify.com/artist/5kuSOXj2E125pcnCnhh31g) | [Beta Sinus 191 Hz \- L 220 Hz](https://open.spotify.com/album/1IXb9BD9Syya3mVcUPndQi) | 2:14 | 2021-02-03 | 2021-09-16 |
@@ -223,6 +224,7 @@
 | [Follia Theta 41Hz \- 45Hz](https://open.spotify.com/track/3lropnaQCG86lPbLhr3xPK) | [Rerose](https://open.spotify.com/artist/6LcZxTjlhi7vsqM2acZonn) | [Follia Theta 41Hz \- 45Hz](https://open.spotify.com/album/4vQQDW9pumWwTXYohZOYv2) | 2:03 | 2025-05-28 |  |
 | [forest of sun \(Alpha 110 \- 122 Hz\)](https://open.spotify.com/track/3DjXbleUnCkwtrHMxA21D6) | [golden voyager](https://open.spotify.com/artist/6noA1Q3BQPV4KMIB10iTQe) | [forest of sun & lost lakes \(binaural alpha\)](https://open.spotify.com/album/3pkxq2RxWJ1fiAybfm6uu8) | 3:09 | 2025-01-30 |  |
 | [Forget About It Gamma \(92\-134hz\)](https://open.spotify.com/track/217IZ74v8rn9JIiny8Pvi9) | [Dream State](https://open.spotify.com/artist/1luJRbb6O7s7dczdofVIVs) | [Forget About It Gamma \(92\-134hz\)](https://open.spotify.com/album/1mFBIrvXCFpz6Wq4I57L9o) | 2:34 | 2025-02-10 |  |
+| [Fragancia Delta 91Hz \- 94 Hz](https://open.spotify.com/track/5ThUIvyrQ0vmFRyUaAgQeT) | [Rerose](https://open.spotify.com/artist/6LcZxTjlhi7vsqM2acZonn) | [Fragancia Delta 91Hz \- 94 Hz](https://open.spotify.com/album/2VGGX8pqpJTIYluUNaoRj7) | 2:06 | 2025-06-04 |  |
 | [Galaxy](https://open.spotify.com/track/6ZuUNJiDAEmoDvbvw2B33O) | [The Binaural Monk](https://open.spotify.com/artist/5pvkT3ytMcvZhh1CqW2C6B) | [Galaxy](https://open.spotify.com/album/5cMuf5i2oCmzHFJF1Mrw5j) | 2:10 | 2023-07-06 |  |
 | [Gamma \(L\-73.9Hz R\-111.0Hz\)](https://open.spotify.com/track/6nGYTi1nPFEiZTy1s3Hj3i) | [NREM](https://open.spotify.com/artist/1pNPv0QPiEM6e7ITG8JcUm) | [Binaural Relief](https://open.spotify.com/album/6rVi7kAYDY3yOBm5l0rYva) | 3:52 | 2021-06-04 | 2022-11-24 |
 | [Gamma 100 \- 130 Hz](https://open.spotify.com/track/0cDRrPhgUEpNXDu2p0DEFD) | [Brainbox](https://open.spotify.com/artist/54SQU5335smXLXiFTvOo30) | [Binaural Focus](https://open.spotify.com/album/2xfqm1g8ZVveZ7BmzpqVs7) | 3:12 | 2023-02-28 | 2024-08-31 |

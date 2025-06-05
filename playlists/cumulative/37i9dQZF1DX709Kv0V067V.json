@@ -1497,6 +1497,24 @@
     },
     {
       "album": {
+        "name": "Eden",
+        "url": "https://open.spotify.com/album/4MQ8zwffRyWpFLh2fZBV9q"
+      },
+      "artists": [
+        {
+          "name": "Nature Pulse",
+          "url": "https://open.spotify.com/artist/70vUxFU28oeZCt4GremOQ0"
+        }
+      ],
+      "date_added": "2025-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160055,
+      "name": "Eden",
+      "url": "https://open.spotify.com/track/0UMFi650xZxD3qj0OxsXKd"
+    },
+    {
+      "album": {
         "name": "Syrsor",
         "url": "https://open.spotify.com/album/482vrCgGaxARvZJuLYUiN8"
       },
@@ -3920,7 +3938,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 176115,
       "name": "Secret Garden - Sound Bath",
       "url": "https://open.spotify.com/track/2NFs5RZUd8VBoHy50PBnmL"
@@ -4226,7 +4244,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 158769,
       "name": "Sparkling Aura",
       "url": "https://open.spotify.com/track/1yk6l0oxUqHoUp1SX0vWYG"
@@ -4370,7 +4388,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-20",
+      "date_removed": null,
       "duration_ms": 177600,
       "name": "Summer Night Meditation",
       "url": "https://open.spotify.com/track/5wdxNFZD8ZRglYh65JikGO"

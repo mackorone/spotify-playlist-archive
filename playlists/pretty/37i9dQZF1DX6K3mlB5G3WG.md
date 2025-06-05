@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > Le migliori nuove uscite 🇮🇹 e 🌎! Cover: Tony Effe e Rose Villain
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,409 likes - 163 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,414 likes - 163 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

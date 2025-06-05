@@ -4,7 +4,7 @@
 
 > This is a collaborative playlist that a bunch of lovely people in the DCA fandom \(including myself\) came up with that are just pure DCA vibes \(or perhaps for an AU twist!\)
 
-690 songs - 1 day 15 hr 5 min
+693 songs - 1 day 15 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -477,6 +477,7 @@
 | [Place In The Sun](https://open.spotify.com/track/3cw9n4QEnbG6fPNFF4iqQG) | [Ozomatli](https://open.spotify.com/artist/1An0HCtDktvCBDdFEu7HC0) | [Place In The Sun](https://open.spotify.com/album/4TMuMXY0yekBPg1wCTlvFg) | 2:51 | 2023-04-19 |  |
 | [Plume](https://open.spotify.com/track/5EHMAsay2yotO9ASrXJJaj) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [Chronologic](https://open.spotify.com/album/5Pnctsm9Mi4D6W3DzWckA6) | 3:05 | 2023-04-21 |  |
 | [Pool Party](https://open.spotify.com/track/1ORFX0Ydw9aLcDVo4vHg2n) | [The Aquabats!](https://open.spotify.com/artist/0WgiEOrXlaXJGHKhkd9s4s) | [Myths, Legends And Other Amazing Adventures Vol\. 2](https://open.spotify.com/album/0KPmkUkjGOSYta4AJM1SwJ) | 4:15 | 2023-04-20 |  |
+| [Poppin Skittles](https://open.spotify.com/track/4DGzhzGdTIpEHDYynp1hzS) | [Madilyn Mei](https://open.spotify.com/artist/3MHgwXo5vVzHqGMKWRoLer) | [Poppin Skittles](https://open.spotify.com/album/6KQg2eWegfyiime59AGe5E) | 2:33 | 2025-06-04 |  |
 | [Princess♂](https://open.spotify.com/track/7cYzdrwzYRZ1qKJLMQaw92) | [TOPHAMHAT\-KYO](https://open.spotify.com/artist/2QGB8HqesnKeA5gcLJ0hiZ) | [Watery Autumoon](https://open.spotify.com/album/5RF1M03h6yAwLTFa8RdnhB) | 2:54 | 2023-04-19 |  |
 | [Problems](https://open.spotify.com/track/0mFSV2Bawz8i9wnlc9eYme) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Eureka](https://open.spotify.com/album/5gDuz6zUpE30ShPTJQ6k1C) | 3:27 | 2023-04-19 |  |
 | [Puppet Boy](https://open.spotify.com/track/3sOOE5gy9FI2KuGnjqAiGg) | [DEVO](https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3) | [Shout](https://open.spotify.com/album/1lovdZNZ81fCmzLAkTADwm) | 3:10 | 2023-04-19 |  |
@@ -586,6 +587,7 @@
 | [The Girl and the Robot](https://open.spotify.com/track/6VCqx14OVaX9uwSvC0PvAG) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [Junior](https://open.spotify.com/album/6vQMbwthchxuSioACn2hcE) | 4:28 | 2023-04-19 |  |
 | [The Jester's Dance](https://open.spotify.com/track/5qEZvemAAeZ8E9KmyyGaLe) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [The Jester Race \(Black Ash\-Inheritance Version\)](https://open.spotify.com/album/1oupMKdNzd7u1isqbtM4so) | 2:09 | 2023-10-06 |  |
 | [The Killing Moon](https://open.spotify.com/track/0cOf4csnt4DeXSkFmBjULw) | [Echo & the Bunnymen](https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z) | [Ocean Rain](https://open.spotify.com/album/43jEYhOEU6eWL51lk4l3M7) | 5:48 | 2023-04-19 |  |
+| [The Main Character](https://open.spotify.com/track/2NHntfUPC17b0nmilAWl87) | [Will Wood](https://open.spotify.com/artist/1VQ8riQ31zVHtlxiCC9EZE) | ["In case I make it,"](https://open.spotify.com/album/0O6onBuhBVzHtJb9bk4rOV) | 4:25 | 2025-06-04 |  |
 | [The Merry Go Round Broke Down](https://open.spotify.com/track/7AdvTvpf0fuGEJfmMMdQ0h) | [Belgian Band Organ](https://open.spotify.com/artist/3VGj3eF02itqzTRbesCsxq) | [The Best of the Belgian Band Organ Vol\. 2](https://open.spotify.com/album/3QqPeVgD0CLoEPD7ckvug6) | 2:32 | 2023-04-19 |  |
 | [The Mind Electric](https://open.spotify.com/track/20TDVr3yA4NIb5mOUjnxwE) | [Chonny Jash](https://open.spotify.com/artist/2hvntb0GuCXAFKwgc7X0o5) | [Chonny's Charming Chaos Compendium, Vol\. 1](https://open.spotify.com/album/1k31RUIV6B48wjyjtfgiAe) | 2:59 | 2023-05-04 |  |
 | [The Mind Electric](https://open.spotify.com/track/2aDk1KkyB7ieSwwEDXCHJg) | [Miracle Musical](https://open.spotify.com/artist/2FRXiAz5Uz78LLLSwEUhLt) | [Hawaii: Part II](https://open.spotify.com/album/1CbtBQqibzdxhmpiLD7vzN) | 6:13 | 2023-04-20 |  |
@@ -664,6 +666,7 @@
 | [What I've Done](https://open.spotify.com/track/18lR4BzEs7e3qzc0KVkTpU) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Minutes to Midnight](https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6) | 3:25 | 2023-06-10 |  |
 | [What Is Love \- 7" Mix](https://open.spotify.com/track/2IHaGyfxNoFPLJnaEg4GTs) | [Haddaway](https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma) | [The Album](https://open.spotify.com/album/1LAx7yCVbGwskdnGDof8SC) | 4:30 | 2024-02-20 |  |
 | [What Is Love \- 7" Mix](https://open.spotify.com/track/7JkZ2hQdDonRURJjlMuh8q) | [Haddaway](https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma) | [What Is Love](https://open.spotify.com/album/5IrMfIT621GidGPuOSRTB4) | 4:30 | 2024-05-16 |  |
+| [What’s Going On?!](https://open.spotify.com/track/5s7nzC5NOwTo61L1NBGH26) | [Madilyn Mei](https://open.spotify.com/artist/3MHgwXo5vVzHqGMKWRoLer) | [What’s Going On?!](https://open.spotify.com/album/1wQ7VxnsFQC75cuF3k6VtO) | 4:03 | 2025-06-04 |  |
 | [When the Curtain Falls](https://open.spotify.com/track/2AwO100z28O68p0y6rlWv2) | [Rockit Music](https://open.spotify.com/artist/0pPN4tp51uXAhkDux1Mmn4) | [When the Curtain Falls](https://open.spotify.com/album/3gJOr6qqBiZCNMTiyEJott) | 3:11 | 2023-04-19 |  |
 | [When the Day Met the Night](https://open.spotify.com/track/7v1b3qExlTFrpFWrtcnUpE) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pretty\. Odd.](https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw) | 4:53 | 2023-08-15 |  |
 | [When the Light Comes On](https://open.spotify.com/track/7wtv1AbyHrMTpyK70Nac8U) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [I Like Fun](https://open.spotify.com/album/6pf75x1UmqMiwb8kUTKhHT) | 3:17 | 2023-04-19 |  |

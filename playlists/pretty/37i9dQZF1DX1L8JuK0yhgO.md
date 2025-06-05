@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,776 likes - 70 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,780 likes - 70 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 20 | [Larkspur](https://open.spotify.com/track/4xLQueM974aJVqVlITn5Sw) | [lo\-key design](https://open.spotify.com/artist/4Yw0OkfWbeOb0Q6ATaxZoB) | [Larkspur](https://open.spotify.com/album/068W1DMUh8vkyrQjN2FGb2) | 3:45 |
 | 21 | [アイスコーヒー](https://open.spotify.com/track/0scykecRZGQGPWDmTfm5qt) | [VIDA Hollywood](https://open.spotify.com/artist/5q7ADnpPQgRg9KnOnn5P0I) | [アイスコーヒー](https://open.spotify.com/album/3WI2EajBTsxaYX8W6sTA0O) | 3:14 |
 | 22 | [Joy \(feat\. はいだしょうこ & 渡邉美穂\)](https://open.spotify.com/track/3HO1Hw67XkA53w2zULB2P1) | [Joint Beauty](https://open.spotify.com/artist/74RJ7LQOOa3A0FiCw15PxG), [Shoko Haida](https://open.spotify.com/artist/3SW7viaMu12cE2V3DQPBIx), [渡邉美穂](https://open.spotify.com/artist/0QXKJcC6lboyk1S11nkd9P) | [Joy \(feat\. はいだしょうこ & 渡邉美穂\)](https://open.spotify.com/album/24DYs8pVTkbNuMnnt9Z6vg) | 4:07 |
-| 23 | [N.E.E.D.](https://open.spotify.com/track/4CatdT1GEOwae68j0pYpcv) | [MILES WORD.](https://open.spotify.com/artist/5xvpTxVMiiodss6wkDh15G) | [N.E.E.D.](https://open.spotify.com/album/5yta22erh67hGrZfFAVLD6) | 3:59 |
+| 23 | [N.E.E.D.](https://open.spotify.com/track/4CatdT1GEOwae68j0pYpcv) | [MILES WORD](https://open.spotify.com/artist/4zGeEscPCPkHGctsIivzOz) | [N.E.E.D.](https://open.spotify.com/album/5yta22erh67hGrZfFAVLD6) | 3:59 |
 | 24 | [THE SEQUEL](https://open.spotify.com/track/52ETOkA8Ck9ejwqzWzsHs7) | [舐達麻](https://open.spotify.com/artist/7nDfh01E30OkhgsPKSQzCx) | [GODBREATH BUDDHACESS \(THE RE\-UP EDITION\)](https://open.spotify.com/album/25jbIlO91vnxqRbfFFrkab) | 4:03 |
 | 25 | [Being The Way](https://open.spotify.com/track/2lGEeWV2hqI0NW6YfM5gZb) | [ERA](https://open.spotify.com/artist/4aGl94Ywsv622EAazQVPDQ) | [Being The Way](https://open.spotify.com/album/7hCCtBupy0SdLQ5sKhAuKD) | 2:53 |
 | 26 | [流れる雲のように](https://open.spotify.com/track/6GewLo9YVVlwzICi7XoFuQ) | [JNKMN](https://open.spotify.com/artist/3TAMa7XcdlVoUTc1giFv1L) | [流れる雲のように](https://open.spotify.com/album/1UjNa8YV2d82eh9jC57IF9) | 2:57 |

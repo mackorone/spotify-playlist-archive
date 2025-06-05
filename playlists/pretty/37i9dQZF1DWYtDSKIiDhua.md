@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > The R&B and good vibe tracks for your current mood\. Cover: MILLI
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,520 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,549 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 | 33 | [Mama's Song](https://open.spotify.com/track/6bL7QOp9ou73SGGzMQFCF5) | [Kaelyn](https://open.spotify.com/artist/4cYAwDK42gnycP8fEyLisS) | [Mama's Song](https://open.spotify.com/album/4zjdkey6wFRBEM69zNZmRG) | 2:08 |
 | 34 | [Love Again](https://open.spotify.com/track/0A3omwhvYCn1Hg27VliWen) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Everything I've Wanted To Say](https://open.spotify.com/album/6ZPOaniWpQLMPp6YTmi8Td) | 2:06 |
 | 35 | [Rain \- Remix](https://open.spotify.com/track/5VDUSEit7q2Lx4Uwj9rkKH) | [Daju](https://open.spotify.com/artist/4znXFLA1TOhbTKrgZViWev), [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [Rain \(Remix\)](https://open.spotify.com/album/1UTT030hK9ncLHTIk2QqlV) | 2:50 |
-| 36 | [prettiest to love](https://open.spotify.com/track/3YOBIeAaPz5i5ciwwBRG6P) | [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW) | [PIN PROJECT X YUJI](https://open.spotify.com/album/4sin6fYg1pOYJLQRkcH45n) | 2:42 |
+| 36 | [prettiest to love](https://open.spotify.com/track/3YOBIeAaPz5i5ciwwBRG6P) | [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW) | [PIN X YUJI](https://open.spotify.com/album/4sin6fYg1pOYJLQRkcH45n) | 2:42 |
 | 37 | [Flower Moon](https://open.spotify.com/track/42ff9QhhQJM5StZgnHNAe9) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Flower Moon](https://open.spotify.com/album/7GzYgcJWzgwKQI9BkcATYh) | 4:56 |
 | 38 | [GOOD TALKER](https://open.spotify.com/track/6umNCQeKp2BSnnFklgd0OY) | [antransax](https://open.spotify.com/artist/3E3VtUZsU5Ci439SjOdCd0), [Sonny](https://open.spotify.com/artist/6bsJXQSGOXshn1WvUvzxic) | [GOOD TALKER](https://open.spotify.com/album/0t6g9gnEOrmT9vQ4GfpeO3) | 3:30 |
 | 39 | [Soar](https://open.spotify.com/track/70TG24YZzgb1fmoot4XlI4) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Falling Into Place](https://open.spotify.com/album/19EeD9KxRuWzZaIka0q9af) | 3:41 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 
 > Soft chill for the dreamy  ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,778 likes - 75 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,839 likes - 75 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 | 35 | [Bol Do Na Zara](https://open.spotify.com/track/5XD2tP1DRH2NJgp45HiEQA) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [Bollywood Romantic Songs With Armaan Malik](https://open.spotify.com/album/0TKg5tmAFIIC6iytdXXiM2) | 4:52 |
 | 36 | [Hum Tum](https://open.spotify.com/track/6YRbDkyTzsizAWFz8kwiI7) | [Jatin\-Lalit](https://open.spotify.com/artist/4YgUVg4p7xtMOrOS4GjiJZ), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz), [Babul Supriyo](https://open.spotify.com/artist/7guD32ltIhsA1tHdf7IVe0), [Prasoon Joshi](https://open.spotify.com/artist/0e7Xsukwik0zDaqCcSvJTg) | [Hum Tum](https://open.spotify.com/album/7aybARUBUG9LqNWvJYpNAf) | 5:29 |
 | 37 | [Khwab](https://open.spotify.com/track/59alvnjzlbX6LaHhXGDZYv) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk), [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw) | [Khwab](https://open.spotify.com/album/0ICe966bo3oNsHRIBp4aQ7) | 2:38 |
-| 38 | [Itni Si Baat Hain](https://open.spotify.com/track/3P167vmmGRGKHoy7uDugvy) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Antara Mitra](https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2) | [Azhar](https://open.spotify.com/album/0V1JQaeLB033XjgS7JqNbP) | 4:54 |
+| 38 | [Itni Si Baat Hain](https://open.spotify.com/track/3P167vmmGRGKHoy7uDugvy) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Antara Mitra](https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2), [Manoj Yadav](https://open.spotify.com/artist/0qSfAhYhb7KWEuiLuooBaE) | [Azhar](https://open.spotify.com/album/0V1JQaeLB033XjgS7JqNbP) | 4:54 |
 | 39 | [Tu Jaana Na Piya](https://open.spotify.com/track/4u0D2jZ20wQaEMHBSqsDnZ) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [NEW LIFE](https://open.spotify.com/album/1ERhZcW27LyJkW1w0hy8Tt) | 3:46 |
 | 40 | [Raat Bhar](https://open.spotify.com/track/3ctaMit7CuiHIPVYrRvm15) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Heropanti](https://open.spotify.com/album/3OozDMNwTvyCP4bOhsSou0) | 5:25 |
 | 41 | [Noor E Khuda](https://open.spotify.com/track/55fSZWdcvMPJga3LbiV8jN) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Adnan Sami](https://open.spotify.com/artist/0kJO65h553i1iGsZutBuqz), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [My Name Is Khan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5O06EpSaMFlN0DKqF8hRnK) | 6:37 |

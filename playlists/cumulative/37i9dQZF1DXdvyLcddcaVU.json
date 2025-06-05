@@ -8725,6 +8725,40 @@
     },
     {
       "album": {
+        "name": "Charo Life",
+        "url": "https://open.spotify.com/album/0nO1lieZiO2JTY4dqABRQB"
+      },
+      "artists": [
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        },
+        {
+          "name": "Rako",
+          "url": "https://open.spotify.com/artist/57UNBGWy1iDPVEgSLrBxko"
+        },
+        {
+          "name": "Brigi",
+          "url": "https://open.spotify.com/artist/3Nmgu8A2HfCYSZiAVbTVpc"
+        },
+        {
+          "name": "Trafiquinte",
+          "url": "https://open.spotify.com/artist/5HdWyNYybG0xZOdJOShrd6"
+        },
+        {
+          "name": "Madrane",
+          "url": "https://open.spotify.com/artist/7M2ZGRhAsmh4On0JlVEyCX"
+        }
+      ],
+      "date_added": "2025-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262146,
+      "name": "Matuidi Charo (PSG)",
+      "url": "https://open.spotify.com/track/2CLe4twLMtjKwWzRYzGaIA"
+    },
+    {
+      "album": {
         "name": "Pyramide",
         "url": "https://open.spotify.com/album/2IO8Jize9ml8Gpj4HoJFaF"
       },
@@ -11804,7 +11838,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 158728,
       "name": "Ride Or Die, Pt. 2 (with Villano Antillano & Tokischa)",
       "url": "https://open.spotify.com/track/5oYVxFt2k4SkVp6wzVsFWN"

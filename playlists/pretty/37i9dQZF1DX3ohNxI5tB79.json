@@ -1,45 +1,13 @@
 {
   "description": "Start your morning right with this collection of funky, soulful, jazzy tunes.",
-  "num_followers": 430216,
+  "num_followers": 430276,
   "original_name": "Morning Rhythm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD2RiQAAAADUSlzql6TrBCegY/vtHHSs",
+  "snapshot_id": "aECi8wAAAAAJ5PzxTypiapd6Tl7wx941",
   "tracks": [
-    {
-      "added_at": "2025-06-02 11:56:57",
-      "album": {
-        "name": "Shine On Me",
-        "url": "https://open.spotify.com/album/4AhjruKGfgNYnmPVzl1SRa"
-      },
-      "artists": [
-        {
-          "name": "Joseph Solomon",
-          "url": "https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN"
-        }
-      ],
-      "duration_ms": 214235,
-      "name": "Shine On Me",
-      "url": "https://open.spotify.com/track/3yVH9z8toGlCYGsmkTtT4D"
-    },
-    {
-      "added_at": "2025-06-02 11:56:57",
-      "album": {
-        "name": "Red Moon",
-        "url": "https://open.spotify.com/album/1ThA4wB67vZ6r540BIRbAa"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 212483,
-      "name": "Red Moon",
-      "url": "https://open.spotify.com/track/44tb4TdFVliafU17EQg28J"
-    },
     {
       "added_at": "2025-06-02 11:56:57",
       "album": {
@@ -71,6 +39,38 @@
       "duration_ms": 191689,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/1yQVv5jxjHfx2hP8VUfyiA"
+    },
+    {
+      "added_at": "2025-06-02 11:56:57",
+      "album": {
+        "name": "Red Moon",
+        "url": "https://open.spotify.com/album/1ThA4wB67vZ6r540BIRbAa"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 212483,
+      "name": "Red Moon",
+      "url": "https://open.spotify.com/track/44tb4TdFVliafU17EQg28J"
+    },
+    {
+      "added_at": "2025-06-02 11:56:57",
+      "album": {
+        "name": "Shine On Me",
+        "url": "https://open.spotify.com/album/4AhjruKGfgNYnmPVzl1SRa"
+      },
+      "artists": [
+        {
+          "name": "Joseph Solomon",
+          "url": "https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN"
+        }
+      ],
+      "duration_ms": 214235,
+      "name": "Shine On Me",
+      "url": "https://open.spotify.com/track/3yVH9z8toGlCYGsmkTtT4D"
     },
     {
       "added_at": "2025-06-02 11:56:57",
@@ -123,6 +123,26 @@
       "duration_ms": 237210,
       "name": "Bittersweet",
       "url": "https://open.spotify.com/track/6DKGwoYNtFOScgbtTQO3zn"
+    },
+    {
+      "added_at": "2025-06-02 11:56:57",
+      "album": {
+        "name": "Catch",
+        "url": "https://open.spotify.com/album/1owOw7rhVR0qIeUiOrph0Y"
+      },
+      "artists": [
+        {
+          "name": "Thyme Flies",
+          "url": "https://open.spotify.com/artist/5vvTzfxq87iU4vbka11aEj"
+        },
+        {
+          "name": "SOPH",
+          "url": "https://open.spotify.com/artist/2IOxZ1jOFUN6lxzgOnF8js"
+        }
+      ],
+      "duration_ms": 184218,
+      "name": "Catch",
+      "url": "https://open.spotify.com/track/25Yv7YfWb4kDBVTR0ZUWKn"
     },
     {
       "added_at": "2025-06-02 11:56:57",
@@ -587,26 +607,6 @@
       "duration_ms": 198321,
       "name": "Eon",
       "url": "https://open.spotify.com/track/3rIJKLPUqpXQGWmldbgbxH"
-    },
-    {
-      "added_at": "2025-06-02 11:56:57",
-      "album": {
-        "name": "Catch",
-        "url": "https://open.spotify.com/album/1owOw7rhVR0qIeUiOrph0Y"
-      },
-      "artists": [
-        {
-          "name": "Thyme Flies",
-          "url": "https://open.spotify.com/artist/5vvTzfxq87iU4vbka11aEj"
-        },
-        {
-          "name": "SOPH",
-          "url": "https://open.spotify.com/artist/2IOxZ1jOFUN6lxzgOnF8js"
-        }
-      ],
-      "duration_ms": 184218,
-      "name": "Catch",
-      "url": "https://open.spotify.com/track/25Yv7YfWb4kDBVTR0ZUWKn"
     },
     {
       "added_at": "2025-06-02 11:56:57",

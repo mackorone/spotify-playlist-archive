@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > Se eri al concerto di Sayf al MI AMI già sai 🎺 \(foto di silvia violante rouge\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,873 likes - 70 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,871 likes - 70 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 46 | [AMERICA LATINA](https://open.spotify.com/track/13y76NfspTHFqkRHrpCT9T) | [Myto](https://open.spotify.com/artist/7ArCICJwpNMHWiDMCXiEZO) | [AMERICA LATINA](https://open.spotify.com/album/3oEWPhDzR4ekbxLLAsjqKN) | 2:18 |
 | 47 | [PALAZZI TAG](https://open.spotify.com/track/6hptNIP5clGBqn5Pk8rWbM) | [PRIMA ALBA](https://open.spotify.com/artist/7JBiKcvAbC3B9LlnLr2KBv), [Molo](https://open.spotify.com/artist/3orzMpb0hF6UNoP2mPXBol), [piccolokaiju](https://open.spotify.com/artist/5ROrAM1o4WbOHYJSXgNb8J) | [PALAZZI TAG](https://open.spotify.com/album/6DBYaDwivTs4zZsFSIQp2k) | 2:46 |
 | 48 | [MATERIA DI STRADA](https://open.spotify.com/track/4OsDpL1u8vl0rYdxZ9HpyJ) | [2Rari](https://open.spotify.com/artist/70WMQrrPQeYY9JaPVx1nWf) | [MATERIA DI STRADA](https://open.spotify.com/album/7lDsLoYUELsZm2dJWcrq3E) | 2:43 |
-| 49 | [NON SO COME SI FA](https://open.spotify.com/track/2bpg65BhFsphd5YhtrTZ08) | [Grein](https://open.spotify.com/artist/4uLshhVpsKhrFEuMRVwx2N) | [NON SO COME SI FA](https://open.spotify.com/album/76yI5CXKvQX4JEqidOySQA) | 2:32 |
+| 49 | [NON SO COME SI FA](https://open.spotify.com/track/2bpg65BhFsphd5YhtrTZ08) | [Grein](https://open.spotify.com/artist/4uLshhVpsKhrFEuMRVwx2N), [EMDI](https://open.spotify.com/artist/1Qa7XkZpAw9Nk2nHiQLD6S), [Rivreck](https://open.spotify.com/artist/1nB0WQrdlmT4vEV158VV7i) | [NON SO COME SI FA](https://open.spotify.com/album/76yI5CXKvQX4JEqidOySQA) | 2:32 |
 | 50 | [Gracile](https://open.spotify.com/track/7IayHnlzVnVYAXujazlUp7) | [Dot Valentino](https://open.spotify.com/artist/4kDz1hBY5vGKKH5QYdS9uA) | [DOTTRINA](https://open.spotify.com/album/7LJvG7O5F1nyOrxQzJH6N2) | 2:03 |
 | 51 | [quello che è stato](https://open.spotify.com/track/0txiKoWKRprDZeQqKm8XoT) | [Visino Bianco](https://open.spotify.com/artist/5k9ftVfZWQvoQkIEqcnTwx) | [quello che è stato](https://open.spotify.com/album/4ZdDCD74k8Xoz6PGDsmr6P) | 2:43 |
 | 52 | [Energie](https://open.spotify.com/track/1ryQilIYjZKNQGERDslaRB) | [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D) | [Energie](https://open.spotify.com/album/5H7G8FSkvW0eFoKoSlklF8) | 3:05 |

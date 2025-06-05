@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 
 > Hip hop and rap music from Nigeria\. Cover: Kizz Daniel
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,896 likes - 70 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,962 likes - 70 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

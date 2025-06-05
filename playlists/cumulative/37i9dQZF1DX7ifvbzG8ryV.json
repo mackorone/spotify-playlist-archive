@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-03-28",
-  "description": "From the LGBTQIA+ songwriters that make the music happen. This month's cover: <a href=\"spotify:artist:1klmpKnfBdJkVqr94BnuOF\"> Fancy Hagood </a>",
+  "description": "From the LGBTQIA+ songwriters that make the music happen. This month's cover: <a href=\"spotify:artist:37i9dQZF1EFOVlCEtE0M8P\">Jennifer Decilveo</a>",
   "name": "GLOW Songwriters",
   "tracks": [
     {
@@ -158,6 +158,24 @@
       "duration_ms": 202414,
       "name": "After Hours",
       "url": "https://open.spotify.com/track/4ChomJf8z16E6Zw4EoioYY"
+    },
+    {
+      "album": {
+        "name": "you ruined new york city for me",
+        "url": "https://open.spotify.com/album/4aGGhfTv8mJ9JAiz8dsa0L"
+      },
+      "artists": [
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        }
+      ],
+      "date_added": "2025-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193599,
+      "name": "All Love",
+      "url": "https://open.spotify.com/track/7iv32XEy2HlM7PqQO4lp5f"
     },
     {
       "album": {
@@ -725,6 +743,24 @@
     },
     {
       "album": {
+        "name": "Speak Your Mind (Deluxe)",
+        "url": "https://open.spotify.com/album/7lPoGKpCGgdKFAxpudhAH5"
+      },
+      "artists": [
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        }
+      ],
+      "date_added": "2025-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199773,
+      "name": "Ciao Adios",
+      "url": "https://open.spotify.com/track/01BC4Xj5tfsfV8DLDrma7q"
+    },
+    {
+      "album": {
         "name": "Mad Woman",
         "url": "https://open.spotify.com/album/1jG11sbwvgBovDtIvWMQlq"
       },
@@ -873,6 +909,24 @@
     },
     {
       "album": {
+        "name": "Erika",
+        "url": "https://open.spotify.com/album/3tzAkArHxnx5ncFjKUTBSw"
+      },
+      "artists": [
+        {
+          "name": "Rosemary Joaquin",
+          "url": "https://open.spotify.com/artist/5siWl4GNJu9rBMoexPD9R6"
+        }
+      ],
+      "date_added": "2025-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191166,
+      "name": "Erika",
+      "url": "https://open.spotify.com/track/3LZbjiwzmbsw67vPzAaqTF"
+    },
+    {
+      "album": {
         "name": "Ever Really Ready",
         "url": "https://open.spotify.com/album/5riEm6AVnF7R7JgYWyj0H5"
       },
@@ -884,7 +938,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 237027,
       "name": "Ever Really Ready",
       "url": "https://open.spotify.com/track/2kDR0xZhTNG3gp3ZgZPrdX"
@@ -1133,6 +1187,24 @@
     },
     {
       "album": {
+        "name": "Plastic Hearts",
+        "url": "https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "date_added": "2025-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196760,
+      "name": "High",
+      "url": "https://open.spotify.com/track/2LseyBkPJv7r7wCt2yMEgX"
+    },
+    {
+      "album": {
         "name": "Honeymoon",
         "url": "https://open.spotify.com/album/6R0n0ocKsjOlz4LwKz2gCr"
       },
@@ -1350,7 +1422,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 70588,
       "name": "Inertia",
       "url": "https://open.spotify.com/track/5i2ebk1q837ky2fawuM5Ce"
@@ -1899,6 +1971,24 @@
     },
     {
       "album": {
+        "name": "Cry Baby (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY"
+      },
+      "artists": [
+        {
+          "name": "Melanie Martinez",
+          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
+        }
+      ],
+      "date_added": "2025-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179867,
+      "name": "Play Date",
+      "url": "https://open.spotify.com/track/4DpNNXFMMxQEKl7r0ykkWA"
+    },
+    {
+      "album": {
         "name": "Wisconsin",
         "url": "https://open.spotify.com/album/31RR4pZy65rFv65pX37zyG"
       },
@@ -1946,7 +2036,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 269280,
       "name": "Recognise",
       "url": "https://open.spotify.com/track/6jmobiz0KPfI8xdyevPS1h"
@@ -2004,6 +2094,24 @@
       "duration_ms": 121182,
       "name": "Right Side",
       "url": "https://open.spotify.com/track/0YwibcdL7dk6FywQ47xc86"
+    },
+    {
+      "album": {
+        "name": "Cheers to the Fall",
+        "url": "https://open.spotify.com/album/6Blubl1glavmervPJa3QVs"
+      },
+      "artists": [
+        {
+          "name": "Andra Day",
+          "url": "https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe"
+        }
+      ],
+      "date_added": "2025-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253342,
+      "name": "Rise Up",
+      "url": "https://open.spotify.com/track/0tV8pOpiNsKqUys0ilUcXz"
     },
     {
       "album": {
@@ -2296,7 +2404,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 194917,
       "name": "TELL THE KIDS IT'S ALRIGHT",
       "url": "https://open.spotify.com/track/2RFuXRdVhRUIMJ85j3WRel"
@@ -2426,7 +2534,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 165893,
       "name": "Times Like SIS",
       "url": "https://open.spotify.com/track/4RIzISlyULa7Y6x3NEGlu2"

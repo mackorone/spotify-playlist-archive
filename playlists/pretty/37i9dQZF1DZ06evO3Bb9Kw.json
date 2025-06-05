@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDzpgAAAAACt6FpX3/Izl4Uk33Xt8WLj",
+  "snapshot_id": "aD47AAAAAAC74t17m8ciX9aL6CwBLfKJ",
   "tracks": [
     {
       "added_at": null,
@@ -667,6 +667,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Four The Record",
+        "url": "https://open.spotify.com/album/1Pv6Znx8kGygusP4fqBD7m"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 197600,
+      "name": "Fastest Girl in Town",
+      "url": "https://open.spotify.com/track/6sXK2Fq7Ibi3SN6qYyQgIG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Palomino",
+        "url": "https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 181693,
+      "name": "Geraldene",
+      "url": "https://open.spotify.com/track/0NsuUdm4N9Ih1xluu2cWp0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fooled Around and Fell in Love (feat. Maren Morris, Elle King, Ashley McBryde, Tenille Townes & Caylee Hammack)",
         "url": "https://open.spotify.com/album/6l4667PMmvxv6kEZT1SoPH"
       },
@@ -699,38 +731,6 @@
       "duration_ms": 249573,
       "name": "Fooled Around and Fell in Love (feat. Maren Morris, Elle King, Ashley McBryde, Tenille Townes & Caylee Hammack)",
       "url": "https://open.spotify.com/track/3P9mtsqs0J79yGVmVuAs4B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Palomino",
-        "url": "https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 181693,
-      "name": "Geraldene",
-      "url": "https://open.spotify.com/track/0NsuUdm4N9Ih1xluu2cWp0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Four The Record",
-        "url": "https://open.spotify.com/album/1Pv6Znx8kGygusP4fqBD7m"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 197600,
-      "name": "Fastest Girl in Town",
-      "url": "https://open.spotify.com/track/6sXK2Fq7Ibi3SN6qYyQgIG"
     },
     {
       "added_at": null,

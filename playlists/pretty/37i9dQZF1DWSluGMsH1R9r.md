@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluGMsH1R9r.md) - [plain]
 
 > Calm piano music for enhanced concentration.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,447,636 likes - 154 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,447,646 likes - 157 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -162,5 +162,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluGMsH1R9r.md) - [plain]
 | 152 | [Pure](https://open.spotify.com/track/4PGGCORyVKe2uZh9Dj3koa) | [Mischa](https://open.spotify.com/artist/0uoxi1rtrDUZIJLU64n9Y1) | [Tonals](https://open.spotify.com/album/2lxt90H9hmuEuFLetT9Dvp) | 2:19 |
 | 153 | [Minor Fable](https://open.spotify.com/track/6IJ5eCQNpXifW7OqRK9pQc) | [Luis Berra](https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk) | [Minor Fable](https://open.spotify.com/album/4yq1sWpFO7LgofgmmPEEVC) | 2:01 |
 | 154 | [Bonjour](https://open.spotify.com/track/3Ww0Guhe9loz9l2L1kZGWb) | [Oscar Mallen](https://open.spotify.com/artist/0rpHfK2QFCVaoXwooHki3o) | [Bonjour](https://open.spotify.com/album/4pKg8wGdu05SMyu7FpvNjD) | 2:39 |
+| 155 | [Hivon](https://open.spotify.com/track/4R5hrJSecDyvtD80GZLAGs) | [Xaverius Love](https://open.spotify.com/artist/614WSOcC6h559Do1UR6k97) | [Hivon](https://open.spotify.com/album/23jcFelRsPzQYacsgJ2HDI) | 2:42 |
+| 156 | [solitude](https://open.spotify.com/track/6I5VqsFIZMoDtW4Fi3V7tH) | [reinë](https://open.spotify.com/artist/4KMRoxw1UPjNsfY53yIfYR) | [solitude](https://open.spotify.com/album/5o9hDc5y1jfM2NH07QVoWl) | 2:31 |
+| 157 | [Brûlante](https://open.spotify.com/track/1odAiMcVPK2ICByCZ47Uxk) | [Lucien Vallière](https://open.spotify.com/artist/4JmBqZlqb5nwbJYRYe4l5G) | [Brûlante](https://open.spotify.com/album/61xylbaTzrl6BCKITSXEFN) | 2:24 |
 
-Snapshot ID: `aDmwnQAAAAAtGc38LnSLa/IX5SM6//Au`
+Snapshot ID: `aEAOQgAAAABVN40WGjQoTCjBQ0VRYhi6`

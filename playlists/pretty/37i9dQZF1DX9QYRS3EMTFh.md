@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall, shatta & bouyon du moment\. Photo : Says'z
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,100 likes - 40 songs - 1 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,147 likes - 40 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 39 | [Skincare](https://open.spotify.com/track/4FXQku9Scs1vQTlMzUbJvb) | [Shaz](https://open.spotify.com/artist/4SINBSA4jou9ptE88AYQE9), [Krys](https://open.spotify.com/artist/6d4N9S0QxevupZo0FNXx0D), [Aknose](https://open.spotify.com/artist/1Lqc2Oqyciyq6uvTSNHlwg) | [Skincare](https://open.spotify.com/album/2wv3kmiyYUbKUKfTwzMBF2) | 2:16 |
 | 40 | [GWO BLO](https://open.spotify.com/track/1wWclekpMue2FduTMxaSVM) | [Misié Sadik](https://open.spotify.com/artist/2BfjmShvoGPl4migLIun7a) | [KOÉRANS](https://open.spotify.com/album/1GiMIoNYZ9QtxulhmSACuZ) | 3:06 |
 
-Snapshot ID: `AAAAAMn7kWD7awbdItiDul0oKjFtm8SH`
+Snapshot ID: `aDjY+wAAAAAxhSlvk1yf3bfRxyxRkeCq`

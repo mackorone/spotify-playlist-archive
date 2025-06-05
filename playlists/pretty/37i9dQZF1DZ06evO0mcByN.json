@@ -1,12 +1,12 @@
 {
   "description": "This is Kemilly Santos. The essential tracks, all in one playlist.",
-  "num_followers": 5565,
+  "num_followers": 5572,
   "original_name": "This Is Kemilly Santos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDzpgAAAAAB3PP8/2RXZDHWLxr0zQhFh",
+  "snapshot_id": "aD47AAAAAAAON/CDW4UiqMhjgK4bZyMf",
   "tracks": [
     {
       "added_at": null,
@@ -291,26 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deus do Amanh\u00e3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2gt5VGdLBlCQ26LpV7on4F"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        },
-        {
-          "name": "Pablo Gabriel",
-          "url": "https://open.spotify.com/artist/7jsrzqz6ClJH4P1lBaxNxG"
-        }
-      ],
-      "duration_ms": 349984,
-      "name": "Deus do Amanh\u00e3 - Ao Vivo",
-      "url": "https://open.spotify.com/track/0E06zzkbqnnnzPRtysj4yT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Far\u00e1s Outra Vez",
         "url": "https://open.spotify.com/album/7G8XGVmyU4c0ZOeX5nyzPK"
       },
@@ -327,6 +307,26 @@
       "duration_ms": 246998,
       "name": "Far\u00e1s Outra Vez",
       "url": "https://open.spotify.com/track/3DFHmoWf6DvDlYQWpSGOrj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deus do Amanh\u00e3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2gt5VGdLBlCQ26LpV7on4F"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        },
+        {
+          "name": "Pablo Gabriel",
+          "url": "https://open.spotify.com/artist/7jsrzqz6ClJH4P1lBaxNxG"
+        }
+      ],
+      "duration_ms": 349984,
+      "name": "Deus do Amanh\u00e3 - Ao Vivo",
+      "url": "https://open.spotify.com/track/0E06zzkbqnnnzPRtysj4yT"
     },
     {
       "added_at": null,
@@ -628,25 +628,9 @@
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
         }
       ],
-      "duration_ms": 294053,
-      "name": "Tudo que Deus Falou (Ao Vivo)",
-      "url": "https://open.spotify.com/track/4fjPQ2wFE3R3vYEXR0w4wd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cicatrizes (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/0WC4N0Z7RthAHJMmG3xoPX"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 276480,
-      "name": "Cicatrizes - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/1BwVIZfhJtLZpDVqhIjBLi"
+      "duration_ms": 258880,
+      "name": "A Porta do meu Quarto - Ao Vivo",
+      "url": "https://open.spotify.com/track/7j22XYPTYKpk7QPdG2fCLI"
     },
     {
       "added_at": null,
@@ -671,6 +655,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cicatrizes (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/0WC4N0Z7RthAHJMmG3xoPX"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "duration_ms": 276480,
+      "name": "Cicatrizes - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/1BwVIZfhJtLZpDVqhIjBLi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Plano Original",
         "url": "https://open.spotify.com/album/4bAZtQAOkCmTIKKyA50cCI"
       },
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
         }
       ],
-      "duration_ms": 311450,
-      "name": "Barulho de Milagre",
-      "url": "https://open.spotify.com/track/3km9ZMQcrPrqPn13T7Y5At"
+      "duration_ms": 273913,
+      "name": "A Resposta",
+      "url": "https://open.spotify.com/track/4oNXwuFag2I7YMDLvlldtW"
     },
     {
       "added_at": null,
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
         }
       ],
-      "duration_ms": 258880,
-      "name": "A Porta do meu Quarto - Ao Vivo",
-      "url": "https://open.spotify.com/track/7j22XYPTYKpk7QPdG2fCLI"
+      "duration_ms": 294053,
+      "name": "Tudo que Deus Falou (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4fjPQ2wFE3R3vYEXR0w4wd"
     },
     {
       "added_at": null,
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
         }
       ],
-      "duration_ms": 273913,
-      "name": "A Resposta",
-      "url": "https://open.spotify.com/track/4oNXwuFag2I7YMDLvlldtW"
+      "duration_ms": 311450,
+      "name": "Barulho de Milagre",
+      "url": "https://open.spotify.com/track/3km9ZMQcrPrqPn13T7Y5At"
     },
     {
       "added_at": null,

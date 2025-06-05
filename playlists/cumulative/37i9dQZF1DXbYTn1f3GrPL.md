@@ -4,7 +4,7 @@
 
 > Música serena de piano para dormir.
 
-284 songs - 12 hr 16 min
+285 songs - 12 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Heavens Night](https://open.spotify.com/track/3Tk6k58gIMjQln4tDhVPQV) | [Sean Larson](https://open.spotify.com/artist/1BSEFOJzY8CtMOSxib4sfZ) | [Heavens Night](https://open.spotify.com/album/16wm0WGGZlJbAWqOrAraRF) | 2:18 | 2023-04-03 |  |
 | [Helios](https://open.spotify.com/track/2mzegxnsZYzuDcZD0gcIS0) | [Tommaso Farinetti](https://open.spotify.com/artist/5xt6w0ov3upD2D8eScoH91) | [Helios](https://open.spotify.com/album/7lSooE86ZL7HhFs83COAhk) | 2:50 | 2023-04-03 | 2025-04-26 |
 | [Herz gebrochen](https://open.spotify.com/track/2x6qK1oorFfWjIZ9bRf1MZ) | [Frida Frisk](https://open.spotify.com/artist/7xLTHxwZlyswxyMpdZzI8C) | [Herz gebrochen](https://open.spotify.com/album/6MMQUxAJVvAbp1Vi3Rx2oL) | 2:14 | 2023-04-03 | 2025-04-26 |
+| [Hivon](https://open.spotify.com/track/4R5hrJSecDyvtD80GZLAGs) | [Xaverius Love](https://open.spotify.com/artist/614WSOcC6h559Do1UR6k97) | [Hivon](https://open.spotify.com/album/23jcFelRsPzQYacsgJ2HDI) | 2:42 | 2025-06-04 |  |
 | [Horizon](https://open.spotify.com/track/2sagi6LnzbTNFRMuhrW683) | [Czarina Frost](https://open.spotify.com/artist/3iidbcDBg4BOBD5a927q0Q), [Treman](https://open.spotify.com/artist/7MnTSJ0nl9IdMRSq3vLdGP) | [Horizon](https://open.spotify.com/album/6K3Rrv6q0SWdYHeho5DqdM) | 1:32 | 2023-04-03 | 2023-08-22 |
 | [Hybrid](https://open.spotify.com/track/0vLqzaDXxMtaU6ThEnAU3T) | [I TRAVEL LIGHT](https://open.spotify.com/artist/5i61bdMcPZisNhZbguQpJG) | [Hybrid](https://open.spotify.com/album/4VHxLvgmmo5JvLAhR29Wr6) | 3:15 | 2023-04-03 | 2024-02-14 |
 | [Hymn](https://open.spotify.com/track/1fyzSisXLaQ552QD31P4ot) | [Matt Lingus](https://open.spotify.com/artist/0mnRAVVSkBG8afaNTkh3r5) | [Hymn](https://open.spotify.com/album/0Qy2yQC2LvEBpEDC8PMr89) | 2:57 | 2023-04-03 |  |
@@ -166,7 +167,7 @@
 | [New Era For Me](https://open.spotify.com/track/3e1LaYRy3UgTqOzVEvkaAz) | [Dustin Tomas](https://open.spotify.com/artist/2uflvyKj2mPIzddN3MEjLs) | [New Era For Me](https://open.spotify.com/album/3ZnZYWFkWrgSZNWGg1sOl4) | 2:37 | 2023-11-29 |  |
 | [New Moon](https://open.spotify.com/track/4SWqlyQxKodNKeirLkcysT) | [Hakone](https://open.spotify.com/artist/21exwUEFwK59KTe51vTfjI) | [Beyond The Horizon](https://open.spotify.com/album/424n6K5q9ff7X0dUJooPZn) | 3:00 | 2023-04-03 | 2025-04-26 |
 | [Night Clouds](https://open.spotify.com/track/0OpqhQTV2qBimQyFhQAuDF) | [Domi Nova](https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz) | [Night Clouds](https://open.spotify.com/album/7lSnDLFVQkxKYmtPQWeFTd) | 2:52 | 2023-10-16 |  |
-| [Nighttime](https://open.spotify.com/track/7lOIqEy05P44D2ZDDrUEF4) | [Figgy Malone](https://open.spotify.com/artist/0MeNDWmyEBS65fk2Vihetl) | [Nighttime](https://open.spotify.com/album/7hDXLdzwTJ5GqB7T0A5bnb) | 2:39 | 2025-03-07 |  |
+| [Nighttime](https://open.spotify.com/track/7lOIqEy05P44D2ZDDrUEF4) | [Figgy Malone](https://open.spotify.com/artist/0MeNDWmyEBS65fk2Vihetl) | [Nighttime](https://open.spotify.com/album/7hDXLdzwTJ5GqB7T0A5bnb) | 2:39 | 2025-03-07 | 2025-06-05 |
 | [Nocturne](https://open.spotify.com/track/0poBmYwvWSP2nZYJYbaOu6) | [Francesco Le Metre](https://open.spotify.com/artist/6LhB3BzQTnbX8DVi4GCmrs) | [Nocturne](https://open.spotify.com/album/1IP3Dd2jlEHljD9qw5CLj1) | 3:01 | 2023-04-03 |  |
 | [Nordic Sunset](https://open.spotify.com/track/6daWwJ5d0lswGClgWB18Pc) | [Foora](https://open.spotify.com/artist/4xrxBC3PuUnnlziFfHdvYJ) | [Nordic Sunset](https://open.spotify.com/album/65Cml5MnWFs3jeca3oiyGl) | 2:30 | 2025-01-17 |  |
 | [Notturno](https://open.spotify.com/track/1vwLrgMsd1sCPpXTzXxuBL) | [Finja Seiden](https://open.spotify.com/artist/4HgoiVnZ4T75NSjXygiOyH) | [Notturno](https://open.spotify.com/album/5sTu5u2ARluSip9mOYGXBc) | 3:11 | 2024-03-25 |  |
@@ -189,7 +190,7 @@
 | [Picture Life](https://open.spotify.com/track/4bjAEUYwbMIcd3e86EinLN) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Picture Life](https://open.spotify.com/album/21ZXPpXidDE9KvpZRCB12d) | 2:29 | 2023-11-06 |  |
 | [Pines and Cedars](https://open.spotify.com/track/4EIbWNNAT3TqvzflNhGKyU) | [Maya Sarfatto](https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9) | [Pines and Cedars](https://open.spotify.com/album/6TwmI0pB1GkkKUfXUadzdA) | 2:30 | 2023-04-03 |  |
 | [Prime](https://open.spotify.com/track/0Q9I9kXS2iuhSTiCpBAXHy) | [Colette Blanche](https://open.spotify.com/artist/1DD8UrtrUxPyiRq6uIbXtn) | [Prime](https://open.spotify.com/album/7xZjzgI2IKORmNfaFFoO9t) | 2:17 | 2023-04-03 | 2023-04-13 |
-| [Providential](https://open.spotify.com/track/2SJYDILOKnfms6VeB5nbHV) | [Max Walltine](https://open.spotify.com/artist/1fjExu7rpJivThwzQp5fq5) | [Providential](https://open.spotify.com/album/78MbTcogTNTH2kxhxpNFBx) | 2:42 | 2023-04-03 |  |
+| [Providential](https://open.spotify.com/track/2SJYDILOKnfms6VeB5nbHV) | [Max Walltine](https://open.spotify.com/artist/1fjExu7rpJivThwzQp5fq5) | [Providential](https://open.spotify.com/album/78MbTcogTNTH2kxhxpNFBx) | 2:42 | 2023-04-03 | 2025-06-05 |
 | [Quicksand](https://open.spotify.com/track/17jvo4FD4s17STVTrf099y) | [Margus Paavo](https://open.spotify.com/artist/1rYnDP2t7hKxNQyJP2e66n) | [Quicksand](https://open.spotify.com/album/5ckkKPGjmusZozuLk3EWkq) | 2:49 | 2023-04-03 | 2025-04-26 |
 | [Quiet](https://open.spotify.com/track/2s7vQpVichRlRiyNuIPtKA) | [Naomi Coleman](https://open.spotify.com/artist/3Xv5X7d2v1UchIWXei1xHc) | [Quiet](https://open.spotify.com/album/4gpse5MnShhhOBEa4DDdnp) | 2:22 | 2023-04-03 | 2025-04-26 |
 | [Quiet Moments](https://open.spotify.com/track/2Zof2lqNWh3mum2rtnQsCc) | [Monir Bresegeut](https://open.spotify.com/artist/3Z6Wqjodzje8ZoJJgV71lj) | [Quiet Moments](https://open.spotify.com/album/1lQIkbvbkJqqK3t7t8iwcc) | 2:00 | 2023-08-21 |  |

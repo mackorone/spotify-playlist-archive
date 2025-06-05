@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Evan Craft
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,078 likes - 100 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,112 likes - 100 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 35 | [DIGNO Y SANTO \(DIOS TODO PODEROSO\)](https://open.spotify.com/track/5uDBP2rtMAK9eeJAh49iUE) | [Johan y Sofi](https://open.spotify.com/artist/4QPzngDflVr8Qq8vRgL4qT) | [DIGNO Y SANTO \(DIOS TODO PODEROSO\)](https://open.spotify.com/album/1spgE5T0Xe6bgE9RmVtSzt) | 6:08 |
 | 36 | [El Libro](https://open.spotify.com/track/2m22HfAWrqPQzWGtf7cnls) | [Chanel Novas](https://open.spotify.com/artist/359NLJX4VHDyNLBfybI0Uz) | [El Libro](https://open.spotify.com/album/5rtXqX1bdLs17RkXSsoUKJ) | 7:16 |
 | 37 | [Te Alabamos \(Salmo 96\)](https://open.spotify.com/track/4VWm0bs247Wp76ywifAqM7) | [Doulos](https://open.spotify.com/artist/6QOoxSo6XilQR5Lsyze0Ez) | [Te Alabamos \(Salmo 96\)](https://open.spotify.com/album/1seapbjg4fky5f2I93G3lO) | 4:04 |
-| 38 | [Arder](https://open.spotify.com/track/7a1pv4FnXJuFz8omeLvCO4) | [Cita Con el Padre](https://open.spotify.com/artist/0L6N5Bc6pyZLndWo930w3a) | [Arder](https://open.spotify.com/album/3V0NCgZAxJHl5kK7qRQJWK) | 12:50 |
+| 38 | [ARDER](https://open.spotify.com/track/7a1pv4FnXJuFz8omeLvCO4) | [Cita Con el Padre](https://open.spotify.com/artist/0L6N5Bc6pyZLndWo930w3a) | [ARDER](https://open.spotify.com/album/3V0NCgZAxJHl5kK7qRQJWK) | 12:50 |
 | 39 | [Mi Esperanza \- Live](https://open.spotify.com/track/4mTTeeKIf4IhaP2VLmepls) | [Jennifer Salinas](https://open.spotify.com/artist/7GudoSqEQavoY6X5CtYTp9) | [Mi Esperanza](https://open.spotify.com/album/5OwYP6YOHxqGoy2ayma9nf) | 5:42 |
 | 40 | [La Boda de Cristo](https://open.spotify.com/track/0XS8JOgHeIT5xdiulyOyFg) | [Omar Campos](https://open.spotify.com/artist/2lbWAx5Qo5D7TAbdMZjHNV) | [La Boda de Cristo](https://open.spotify.com/album/1jHaYKEA8RBOoBZOMSfDqO) | 3:41 |
 | 41 | [Eres Quien Reina](https://open.spotify.com/track/0VGEmaw0k8DrcDLo40eRtg) | [Miguelisa](https://open.spotify.com/artist/3ilN2B2CVuG2y2mWZyE3Lf) | [Eres Quien Reina](https://open.spotify.com/album/38n1BvVe8x4uFrylNBErna) | 8:55 |

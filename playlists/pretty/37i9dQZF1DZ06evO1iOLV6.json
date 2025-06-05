@@ -1,12 +1,12 @@
 {
   "description": "This is Patoranking. The essential tracks, all in one playlist.",
-  "num_followers": 11282,
+  "num_followers": 11289,
   "original_name": "This Is Patoranking",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDzpgAAAAABccjzm8tyvkBXBfpgxj02a",
+  "snapshot_id": "aD47AAAAAAC5iTRqwqLx7fKH+XPdJJWP",
   "tracks": [
     {
       "added_at": null,
@@ -187,18 +187,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Three",
-        "url": "https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K"
+        "name": "Jah Eli Jah",
+        "url": "https://open.spotify.com/album/0NB8X5tOAMMgU4lDWei9B4"
       },
       "artists": [
         {
+          "name": "Cobhams Asuquo",
+          "url": "https://open.spotify.com/artist/710wXZlOutU4kV7BeLoVwl"
+        },
+        {
           "name": "Patoranking",
           "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
         }
       ],
-      "duration_ms": 199198,
-      "name": "Abule",
-      "url": "https://open.spotify.com/track/5GmvLu8Ok9KqBakA6jTEVK"
+      "duration_ms": 233764,
+      "name": "Jah Eli Jah",
+      "url": "https://open.spotify.com/track/1PLOmSVGYrTRycWnUAWIaF"
     },
     {
       "added_at": null,
@@ -223,26 +231,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jah Eli Jah",
-        "url": "https://open.spotify.com/album/0NB8X5tOAMMgU4lDWei9B4"
+        "name": "Three",
+        "url": "https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K"
       },
       "artists": [
         {
-          "name": "Cobhams Asuquo",
-          "url": "https://open.spotify.com/artist/710wXZlOutU4kV7BeLoVwl"
-        },
-        {
           "name": "Patoranking",
           "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        },
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
         }
       ],
-      "duration_ms": 233764,
-      "name": "Jah Eli Jah",
-      "url": "https://open.spotify.com/track/1PLOmSVGYrTRycWnUAWIaF"
+      "duration_ms": 199198,
+      "name": "Abule",
+      "url": "https://open.spotify.com/track/5GmvLu8Ok9KqBakA6jTEVK"
     },
     {
       "added_at": null,
@@ -539,26 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ma girl",
-        "url": "https://open.spotify.com/album/6QckTJtuiIKNFFlymaxaos"
-      },
-      "artists": [
-        {
-          "name": "Toofan",
-          "url": "https://open.spotify.com/artist/5BfpzKNakWiXUNm1RfBgUi"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 207272,
-      "name": "Ma girl",
-      "url": "https://open.spotify.com/track/2CUfR68XB0qSpCA5YXFbkO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "One Love (in support of UNICEF)",
         "url": "https://open.spotify.com/album/0GYG8mzT02965RRFiBxfxX"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 207341,
       "name": "One Love (in support of UNICEF)",
       "url": "https://open.spotify.com/track/1KA7SVX5x7TqYvCusGxmc7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ma girl",
+        "url": "https://open.spotify.com/album/6QckTJtuiIKNFFlymaxaos"
+      },
+      "artists": [
+        {
+          "name": "Toofan",
+          "url": "https://open.spotify.com/artist/5BfpzKNakWiXUNm1RfBgUi"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 207272,
+      "name": "Ma girl",
+      "url": "https://open.spotify.com/track/2CUfR68XB0qSpCA5YXFbkO"
     },
     {
       "added_at": null,
@@ -839,26 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In My Head",
-        "url": "https://open.spotify.com/album/0GJWhWInQgWTI9iA7Pi2v1"
-      },
-      "artists": [
-        {
-          "name": "Larry Gaaga",
-          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 194417,
-      "name": "In My Head",
-      "url": "https://open.spotify.com/track/5ooiTZRRjdOlMcNw5hsKlT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Make Am (feat. Ebonyi State Band)",
         "url": "https://open.spotify.com/album/0ansMS1zm0JoxSpDVOGCHS"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 232893,
       "name": "Make Am (feat. Ebonyi State Band)",
       "url": "https://open.spotify.com/track/0URKYeAgtNb9WPf8OCGo7O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/0GJWhWInQgWTI9iA7Pi2v1"
+      },
+      "artists": [
+        {
+          "name": "Larry Gaaga",
+          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 194417,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/5ooiTZRRjdOlMcNw5hsKlT"
     },
     {
       "added_at": null,
@@ -919,6 +919,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Africa Unite",
+        "url": "https://open.spotify.com/album/5wk8v3DlfVtW5ZV5IOAiEY"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 153057,
+      "name": "One Love",
+      "url": "https://open.spotify.com/track/5SbbWSuCgpX1FrEx08LlU8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "W.E.E.D.",
         "url": "https://open.spotify.com/album/5HXfLb3qCRLpkDiRAHWTrY"
       },
@@ -939,26 +959,6 @@
       "duration_ms": 281453,
       "name": "Wait Refix",
       "url": "https://open.spotify.com/track/62NcIDnYukwleoEHIJYvdL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Africa Unite",
-        "url": "https://open.spotify.com/album/5wk8v3DlfVtW5ZV5IOAiEY"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 153057,
-      "name": "One Love",
-      "url": "https://open.spotify.com/track/5SbbWSuCgpX1FrEx08LlU8"
     },
     {
       "added_at": null,
@@ -1063,22 +1063,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Godson",
-        "url": "https://open.spotify.com/album/1zdIcgQ7EZqAF3f48De4fi"
+        "name": "Happy Day",
+        "url": "https://open.spotify.com/album/34hT5nhS00WwzxLY9IhbUD"
       },
       "artists": [
-        {
-          "name": "Marioo",
-          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
-        },
         {
           "name": "Patoranking",
           "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
         }
       ],
-      "duration_ms": 166857,
-      "name": "My Eyes",
-      "url": "https://open.spotify.com/track/15uTXclWHMCmILuIly5XUt"
+      "duration_ms": 260146,
+      "name": "Happy Day",
+      "url": "https://open.spotify.com/track/2SWqkpJmHPnLFaEf4HW7xr"
     }
   ],
   "unique_name": "This Is Patoranking",

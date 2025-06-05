@@ -4,7 +4,7 @@
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-569 songs - 1 day 0 hr 3 min
+570 songs - 1 day 0 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -572,6 +572,7 @@
 | [Wonder's Pyre](https://open.spotify.com/track/6POun1Z6NKg9JpWdb3pRFF) | [Iris Dauphin](https://open.spotify.com/artist/0XlymLAYuZ9DubWIEUmFR0) | [Wonder's Pyre](https://open.spotify.com/album/18Kyuf3AqYSQHuj0Uuat5V) | 2:49 | 2023-02-24 | 2023-05-20 |
 | [Words In The Air](https://open.spotify.com/track/3gD5AaZDbyTSWkH8MHBQHk) | [河合雄三](https://open.spotify.com/artist/5wv91S4FLYDtqDxRnrnEck) | [Words In The Air](https://open.spotify.com/album/1HEjlhLORqSKlIlTRWso1x) | 2:26 | 2022-06-17 | 2022-07-29 |
 | [Yellow Rain](https://open.spotify.com/track/6c7cIoyBvbLvxgofSU7fnv) | [Thomas Luna](https://open.spotify.com/artist/0YbpJ9AVZbi0ygvFCUmCAd) | [Yellow Rain](https://open.spotify.com/album/63wRciH00bfgm5UoFevFyp) | 2:38 | 2022-06-17 | 2023-02-25 |
+| [Yesterday’s Horizon](https://open.spotify.com/track/6aRIyvjb1r0ckDtWTAnawQ) | [Andie Wiess](https://open.spotify.com/artist/2ftzvO6OIPDrv4Fh7jMNFX) | [Yesterday’s Horizon](https://open.spotify.com/album/19Qh83lPIJvJmZwmin92d7) | 2:48 | 2025-06-04 |  |
 | [Yesteryear](https://open.spotify.com/track/26onATmE5ib4iKkPfvHtnw) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [Yesteryear](https://open.spotify.com/album/5Uu6qKT8FsFyUD0tRDIfxZ) | 2:39 | 2023-11-24 | 2024-07-18 |
 | [You're Not Alone](https://open.spotify.com/track/4ROmwACfJCiGMBioN6k0m5) | [Damien Adams](https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg) | [You're Not Alone](https://open.spotify.com/album/0xDfnkhHwktefc4MmHrXuR) | 2:23 | 2023-05-19 | 2023-06-16 |
 | [Yuunagi](https://open.spotify.com/track/1W0TeWjEOb4ATZH7LlneI2) | [paniyolo](https://open.spotify.com/artist/3HXP7bQnSqzXn76CRDRDnr) | [Yuunagi](https://open.spotify.com/album/069HopXqHO0E3rbTGspTzh) | 2:00 | 2022-06-17 | 2023-10-27 |

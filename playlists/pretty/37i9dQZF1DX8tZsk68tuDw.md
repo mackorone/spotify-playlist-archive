@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 
 > Tomorrow's <a href="spotify:genre:edm\_dance">dance</a> hits, with XANDRA
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,931,097 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,930,580 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 | 18 | [Float \(feat\. BAYLI\)](https://open.spotify.com/track/20fWv7580PvwdmWnVqHPDc) | [Sparrow & Barbossa](https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [Float \(feat\. BAYLI\)](https://open.spotify.com/album/7oGQVPQR0LNdBcGpFaDag5) | 2:54 |
 | 19 | [Waste my time](https://open.spotify.com/track/4xCLq4cUWXD5FZS7sRImSL) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Waste my time](https://open.spotify.com/album/3VsSZzexEbHqQu1hfDrpEY) | 4:28 |
 | 20 | [Globo \(feat\. Blessd & Kofla\)](https://open.spotify.com/track/3QyQNNpJg7spXyMzobBoX3) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Kofla](https://open.spotify.com/artist/3uvuXrgd8H5Gwnubvtm0sk) | [Globo \(feat\. Blessd & Kofla\)](https://open.spotify.com/album/1kUmugvmPWIY6ZEODVrMSx) | 3:13 |
-| 21 | [Manía](https://open.spotify.com/track/79aIchpmJXJPDx9J68r3Hg) | [Pangaea](https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE), [Jazz Alonso](https://open.spotify.com/artist/2ghMQoYAKLMNHs896hl93k) | [Manía](https://open.spotify.com/album/6Q7DhlfnFSV2LM4J2hvHMy) | 2:51 |
+| 21 | [Manía](https://open.spotify.com/track/79aIchpmJXJPDx9J68r3Hg) | [Pangaea](https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE), [Jazz Alonso](https://open.spotify.com/artist/7eSY3eOVSH5SLYU0BV9sCY) | [Manía](https://open.spotify.com/album/6Q7DhlfnFSV2LM4J2hvHMy) | 2:51 |
 | 22 | [The One \(feat\. Jocelyn Brown\)](https://open.spotify.com/track/4fErrQvOX1LPDIPFDFI4eM) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a), [Luke Alessi](https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp), [Jocelyn Brown](https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq) | [The One \(feat\. Jocelyn Brown\)](https://open.spotify.com/album/5rlbbiPN65rv6IjLjVmtHg) | 3:02 |
 | 23 | [Bad Habit \- Clüb De Combat Remix](https://open.spotify.com/track/1PNaFj8n0qWDGb1VyIVC6D) | [ATFC](https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs), [Lisa Millett](https://open.spotify.com/artist/5zrJTNerdQM2zcG6G2mCo5), [Clüb De Combat](https://open.spotify.com/artist/0mY4R6feaMEIn9AEO2lMZw) | [Bad Habit \(Clüb De Combat Remix\)](https://open.spotify.com/album/4qUmkVbtxvTPeT7mXp29cC) | 3:45 |
 | 24 | [Your Loving](https://open.spotify.com/track/1HuDcH1KECyj1aCHub4D4G) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E) | [Your Loving](https://open.spotify.com/album/3D2oyrCFxJyoKpBhlyueHK) | 3:24 |

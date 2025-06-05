@@ -2,9 +2,9 @@
 
 ### [RADAR UK & Ireland](https://open.spotify.com/playlist/37i9dQZF1DX9be6QR3XeJp)
 
-> Discover your new favourite artists from UK&IE\. Cover: Cliffords
+> Discover your new favourite artists from UK&IE\. Cover: Victor Ray
 
-312 songs - 16 hr 50 min
+313 songs - 16 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -313,6 +313,7 @@
 | [Wicked & Wild](https://open.spotify.com/track/0g2n5CuQtZ4toia3j2zNRt) | [Claye](https://open.spotify.com/artist/5cxA5TNOxf4h9Y9btuxpCG) | [Wicked & Wild](https://open.spotify.com/album/3SZloThQF14yc3MzUEouP6) | 2:06 | 2022-02-18 |  |
 | [Wicked & Wild](https://open.spotify.com/track/2myNRoPh3Nh8V07gEEchGt) | [Claye](https://open.spotify.com/artist/5cxA5TNOxf4h9Y9btuxpCG) | [Black Magic](https://open.spotify.com/album/0lGLhUdrNZjxJnkmugpY4r) | 2:06 | 2022-11-18 | 2024-04-19 |
 | [Will We Ever Get This Right](https://open.spotify.com/track/7Ck7GSPoBIDwNwcas05Sz1) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Will We Ever Get This Right](https://open.spotify.com/album/7Lh2dKTPYPxdNjxjTn91tZ) | 2:41 | 2022-03-31 |  |
+| [World At My Feet](https://open.spotify.com/track/1wvqFqy2sYYQN7Eyrnva2S) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [I WILL.](https://open.spotify.com/album/2BYVPJNyBUltJDH4rrxvwl) | 2:51 | 2025-06-04 |  |
 | [Worth It](https://open.spotify.com/track/4oecUEFtf9m5x8YQFfE1em) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Worth It](https://open.spotify.com/album/1i1VUVcZdZBU8U87QMOCii) | 3:14 | 2022-02-18 |  |
 | [XO](https://open.spotify.com/track/3N0nHIHc4rXKF3p3lXzXYY) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [XO](https://open.spotify.com/album/7c2tn9kdsI0FlJHJBQH2kI) | 2:14 | 2022-10-13 |  |
 | [You & I](https://open.spotify.com/track/4cpQrTmSubTzMzFgquNpsa) | [CROOKS INC.](https://open.spotify.com/artist/50HRK8mAnUhlSOOp7MgZxp) | [You & I](https://open.spotify.com/album/7cX35zQ6fvQgO5JjSNWmbA) | 3:14 | 2025-03-21 |  |

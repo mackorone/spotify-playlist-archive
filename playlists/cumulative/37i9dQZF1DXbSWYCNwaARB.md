@@ -2,7 +2,7 @@
 
 ### [Girl Krush](https://open.spotify.com/playlist/37i9dQZF1DXbSWYCNwaARB)
 
-> All your girl crushes\(걸크러쉬\) in one place\. \(Cover: IRENE&SEULGI \(아이린&슬기\)\)
+> All your girl crushes\(걸크러쉬\) in one place\. \(Cover: 유아유\(UAU\)\)
 
 545 songs - 1 day 4 hr 28 min
 

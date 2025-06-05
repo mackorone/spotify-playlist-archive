@@ -4,7 +4,7 @@
 
 > 하나 뿐인 내 사랑을 정하는 날\. 따뜻하고 낭만적인 국내 가요와 마음 가득 행복함을 느껴보세요\. \(The day I decide on my one and only love\. Feel the happiness in your heart with warm and romantic domestic songs.\)
 
-63 songs - 4 hr 8 min
+64 songs - 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Kissing You](https://open.spotify.com/track/18fWwTkrIxojEC2gmVyoxS) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [Girls' Generation](https://open.spotify.com/album/2U1BPwhkzHt05OFugiSB3g) | 3:19 | 2024-12-19 |  |
 | [Like A Bird](https://open.spotify.com/track/3CqVJAY7D3jLIILrb6yn9C) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [\[04\]](https://open.spotify.com/album/6zykT8r65vnyisuLsQCcwm) | 3:40 | 2024-12-19 |  |
 | [Love Is All](https://open.spotify.com/track/1QoZ5G6pg7pZgEA7uFpgVh) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [TEAM BABY](https://open.spotify.com/album/4x4xyLYUjyyBqKlkFT4YdY) | 2:44 | 2024-12-19 |  |
+| [Marry me](https://open.spotify.com/track/22sx5e3qU4B6n7ZpLFinZe) | [Gitae](https://open.spotify.com/artist/7AQ2PocMnNWx7lwz4E1or6), [Sin Ye Young](https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF) | [Marry me](https://open.spotify.com/album/0mqPlCFmBFcAMF2hOA8wUL) | 4:27 | 2025-06-04 |  |
 | [Marry Me](https://open.spotify.com/track/7aGU77FK6dBEFKWVKPeKXe) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [마크툽 프로젝트 Vol\. 03](https://open.spotify.com/album/0S9RrasD1Z6Y6Efkd3RfTj) | 4:21 | 2024-12-19 |  |
 | [Marry You](https://open.spotify.com/track/5o7B8smxbomqmWmCYQiCpv) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j), [유연정 \(우주소녀\)](https://open.spotify.com/artist/2Ma3wGxYt90MsYP3lioxkM) | [Marry Me Part.2](https://open.spotify.com/album/5t50FENPyOgMmFedLeVQFg) | 3:37 | 2024-12-19 |  |
 | [Me After You](https://open.spotify.com/track/5AkyvofVWUqds8x1HHgDU9) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Me After You](https://open.spotify.com/album/0caJtWmA3k3kY6kourOUHh) | 4:40 | 2024-12-19 |  |

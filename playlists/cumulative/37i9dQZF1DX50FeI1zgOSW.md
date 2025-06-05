@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Bebhumika
 
-545 songs - 1 day 7 hr 5 min
+546 songs - 1 day 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Anniku Raathiri](https://open.spotify.com/track/3bf3IZr936SL0d45m8xlWo) | [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7) | [Anniku Raathiri](https://open.spotify.com/album/30o1lvT2QicxFzEwo2nloP) | 3:13 | 2023-12-15 | 2024-01-03 |
 | [AntiDrugAnthem](https://open.spotify.com/track/17MWq7zp3NOgLO6Q6at59I) | [Gaana Vinoth](https://open.spotify.com/artist/7N1TA78vXJ1x66NWgSKMMB), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7), [Jerard Felix](https://open.spotify.com/artist/6BXVtOUVrRZfRJqHhlaL4I) | [AntiDrugAnthem](https://open.spotify.com/album/39cUVaQfAHTSGOSZnu2OqB) | 1:51 | 2024-07-09 | 2024-08-11 |
 | [Arakkiye](https://open.spotify.com/track/1wAuEy3S7IMkb4e2z71TKk) | [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r), [Julius Gnanagar](https://open.spotify.com/artist/6mg9ayapkEgFgnjP71yi1V) | [Arakkiye](https://open.spotify.com/album/2wz4GI1MXwXTZMtJFFBsp7) | 3:47 | 2024-09-20 | 2025-02-01 |
+| [Atha Mava](https://open.spotify.com/track/0Xq6zAQzmQTiBckOU4BSVA) | [Neon Kaathadi](https://open.spotify.com/artist/3wQhNdGTR70QKpK8LgHde1) | [Atha Mava](https://open.spotify.com/album/0A6W0ReWy6DnU5NmcqMyK9) | 3:03 | 2025-06-04 |  |
 | [ATHIKAALAI MUDHAL](https://open.spotify.com/track/6OwohvcuvKdUl4vihhYvQf) | [KARKAY](https://open.spotify.com/artist/00YboNb94lHeYpUmmslkqU) | [ATHIKAALAI MUDHAL](https://open.spotify.com/album/4RZj9SVIJwOYgZjqQPcgDT) | 3:37 | 2024-02-14 | 2024-05-21 |
 | [Aval](https://open.spotify.com/track/2hVPu6LXlHS25VAuKi4dw6) | [Prags](https://open.spotify.com/artist/3lEBrr4ctHFkjkLUNJNcCR), [Sudarson Murali](https://open.spotify.com/artist/3tN6lidJb3D8ajB1CR8Fl2) | [Aval](https://open.spotify.com/album/2mtmYPIe6T0m0e1MlkpvQI) | 4:06 | 2024-09-20 | 2025-01-11 |
 | [Aval Thaan Perazhagi](https://open.spotify.com/track/380aoQxGRw6CaOJTtPDHXo) | [SreRam Anand](https://open.spotify.com/artist/5ZOKFwFsIjoCEgdYwkymvm), [Keerthana Saravanan](https://open.spotify.com/artist/3kHn8e6guQNgxN8rI4eejj) | [Aval Thaan Perazhagi](https://open.spotify.com/album/0z0CtrFoI7djxfGhnwOQ8m) | 4:02 | 2024-03-28 | 2024-05-14 |
@@ -113,7 +114,7 @@
 | [Engu Poven?](https://open.spotify.com/track/2WAluA15WXXZBqGcF6m0Vp) | [Rozario](https://open.spotify.com/artist/3y0YUGmWKQZyVnhUNYPchz), [Kiran Surath N](https://open.spotify.com/artist/3HtIU5rxQT1V2GiAorUK8I) | [Engu Poven?](https://open.spotify.com/album/4paIGcasxYVK8teL1wZqnT) | 3:36 | 2024-06-14 | 2024-08-11 |
 | [Enna Mayakkam](https://open.spotify.com/track/06RJLbCMAAdVoMvHjBxdtS) | [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7), [Ailaah](https://open.spotify.com/artist/4HexHcCpsVIy7KsVTq0bnX) | [Mudivili](https://open.spotify.com/album/7txRaw6gINccGbvTdAj6I1) | 2:39 | 2024-07-27 | 2024-09-20 |
 | [Enna Sachitiye](https://open.spotify.com/track/22nFjlgd1pbsUvIWo5pDQV) | [Haswanth Adhi](https://open.spotify.com/artist/0zo8RWL9fAbxFOGPPEKbUm) | [Enna Sachitiye](https://open.spotify.com/album/4p55p6frgV7NlbHhfbIzBt) | 3:11 | 2024-08-21 | 2024-09-19 |
-| [enna seithai anbe?](https://open.spotify.com/track/754fYY1SFIiYRfVxmRGle5) | [Sarah Moses](https://open.spotify.com/artist/5nBPrpouXtarHB3BxfbIuw) | [enna seithai anbe?](https://open.spotify.com/album/4DMZOT0eCbI5Kxy4s2XD7E) | 3:37 | 2025-04-04 |  |
+| [enna seithai anbe?](https://open.spotify.com/track/754fYY1SFIiYRfVxmRGle5) | [Sarah Moses](https://open.spotify.com/artist/5nBPrpouXtarHB3BxfbIuw) | [enna seithai anbe?](https://open.spotify.com/album/4DMZOT0eCbI5Kxy4s2XD7E) | 3:37 | 2025-04-04 | 2025-06-05 |
 | [enna vittu](https://open.spotify.com/track/6OLDFUpW6fpsWONdqW7HEC) | [AE Prince](https://open.spotify.com/artist/1PD5zYoXUX1xKPcV0TOHgS) | [enna vittu](https://open.spotify.com/album/5ZDXqTsFkUB0xcIm69yrf6) | 1:16 | 2024-07-16 | 2024-12-06 |
 | [Ennai vittu](https://open.spotify.com/track/4OAtGQFrZR2hyqBqxve6kE) | [Roshith abdulrahman](https://open.spotify.com/artist/1cmSRUsjBAxwwN0fiYAd1F) | [Ennai vittu](https://open.spotify.com/album/2nEeJ3kvZ23FNldHwJQOHX) | 2:08 | 2025-03-30 | 2025-04-18 |
 | [Fake Escobar](https://open.spotify.com/track/2bc5OEFuJgcEOoLxpmXD0t) | [Vidushaan](https://open.spotify.com/artist/6yr59RSWCxLvcjZIytt1OB), [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r) | [Fake Escobar](https://open.spotify.com/album/0GxmBhQxX8F95Ck7BzR9Wy) | 2:38 | 2024-01-16 | 2024-03-01 |

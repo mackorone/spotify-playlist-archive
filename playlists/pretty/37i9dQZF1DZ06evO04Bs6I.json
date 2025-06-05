@@ -1,12 +1,12 @@
 {
   "description": "This is Isadora Pompeo. The essential tracks, all in one playlist.",
-  "num_followers": 114578,
+  "num_followers": 114594,
   "original_name": "This Is Isadora Pompeo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDzpgAAAAABWbt4lC1Yp4HJe7idRuT0Z",
+  "snapshot_id": "aD47AAAAAACEO/OtNMlSd0qbWxvGMk5s",
   "tracks": [
     {
       "added_at": null,
@@ -587,26 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nada Pode Calar Um Adorador",
-        "url": "https://open.spotify.com/album/4q13cIdJiccllKtmogMEkT"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 292755,
-      "name": "Nada Pode Calar Um Adorador",
-      "url": "https://open.spotify.com/track/6oKhFyUz7kapALHaK0oPfR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Resultado",
         "url": "https://open.spotify.com/album/3Yon9LyJOWdwpwDcoDCvaH"
       },
@@ -619,6 +599,22 @@
       "duration_ms": 200453,
       "name": "Resultado",
       "url": "https://open.spotify.com/track/7aBQQ6sJixQFZCuC3HPVHI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tetelestai (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0S9BqWyHtqkfR1MdAwAIlj"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 354493,
+      "name": "Minha Alma Te Ama (Ao Vivo)",
+      "url": "https://open.spotify.com/track/10x8UTJcYEh4r7hLKj1Emi"
     },
     {
       "added_at": null,
@@ -639,18 +635,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tetelestai (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0S9BqWyHtqkfR1MdAwAIlj"
+        "name": "Nada Pode Calar Um Adorador",
+        "url": "https://open.spotify.com/album/4q13cIdJiccllKtmogMEkT"
       },
       "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
         {
           "name": "Isadora Pompeo",
           "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
         }
       ],
-      "duration_ms": 354493,
-      "name": "Minha Alma Te Ama (Ao Vivo)",
-      "url": "https://open.spotify.com/track/10x8UTJcYEh4r7hLKj1Emi"
+      "duration_ms": 292755,
+      "name": "Nada Pode Calar Um Adorador",
+      "url": "https://open.spotify.com/track/6oKhFyUz7kapALHaK0oPfR"
     },
     {
       "added_at": null,

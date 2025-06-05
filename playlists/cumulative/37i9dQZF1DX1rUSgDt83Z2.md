@@ -4,7 +4,7 @@
 
 > Mooi van eigen bodem 🇳🇱
 
-167 songs - 8 hr 40 min
+168 songs - 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Alle sterke mensen](https://open.spotify.com/track/01a4YW6fMlq7oa3Tlx0yVI) | [Gerson Main](https://open.spotify.com/artist/4Dx8d8fm84Z6b1RDuF4Co7) | [Alle sterke mensen](https://open.spotify.com/album/7CWmjZX0RujBqmDn6EpmuQ) | 2:49 | 2024-06-27 | 2024-09-20 |
 | [Alles Wat Ik Zoek \- Radio Edit](https://open.spotify.com/track/1XdUtqaf0KdDxgnO8wY1y3) | [Hiigo](https://open.spotify.com/artist/49wmW9ZxLK5Fg0grFZl0iX) | [Alles Wat Ik Zoek \(Radio Edit\)](https://open.spotify.com/album/5UUFAAiSKelbyEjBLzepjt) | 2:48 | 2025-02-27 |  |
 | [Allez! Touché!](https://open.spotify.com/track/13s86KfJggu0QBQW4HoYDh) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Parler Français](https://open.spotify.com/album/2jhjGUrHKtd9xZJ3roaee2) | 3:07 | 2025-02-20 | 2025-05-09 |
-| [Als je dat maar weet](https://open.spotify.com/track/0vCYVti6bnSVbkMry56gnV) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4) | [Als je dat maar weet](https://open.spotify.com/album/1lFDMlBZLTEEQapivdovx1) | 2:35 | 2025-01-10 |  |
+| [Als je dat maar weet](https://open.spotify.com/track/0vCYVti6bnSVbkMry56gnV) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4) | [Als je dat maar weet](https://open.spotify.com/album/1lFDMlBZLTEEQapivdovx1) | 2:35 | 2025-01-10 | 2025-06-05 |
 | [Als Je Gaat](https://open.spotify.com/track/7soDg3f7rFxxqyLus0KGYg) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Twee Stappen Voor](https://open.spotify.com/album/75OG2bfTEgaBamluRUEbhS) | 2:58 | 2025-02-20 |  |
 | [Als Nu Nu Is](https://open.spotify.com/track/7BULw4wshBw0FzcosF7wgf) | [Joost & Bar](https://open.spotify.com/artist/5nmQxVw4RSwLYvj5IqfRI1) | [Als Nu Nu Is](https://open.spotify.com/album/2ESWFC4Y56iHorfe5y74V9) | 2:54 | 2024-07-22 | 2025-02-28 |
 | [Alsof](https://open.spotify.com/track/0AqCxKxCmZcLpWW4hD4hWv) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Alsof](https://open.spotify.com/album/6VtLheGYOudLBOwCTkDK9S) | 2:55 | 2024-09-05 | 2025-04-04 |
@@ -44,6 +44,7 @@
 | [Dit Is Zo'n Dag](https://open.spotify.com/track/3fXTq5dSIKlEmXzOoxhJ3B) | [3JS](https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV) | [Dit Is Zo'n Dag](https://open.spotify.com/album/5FO2SsTD9zwJPXGbMwsN0H) | 3:27 | 2025-04-16 | 2025-05-16 |
 | [Door En Door](https://open.spotify.com/track/7cATx9Gorgj9VCl97NCWRe) | [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA) | [Door En Door](https://open.spotify.com/album/4MM2s2BHa319dYoeSD4e9h) | 3:13 | 2025-03-06 | 2025-04-16 |
 | [Droom Een Beetje Meer](https://open.spotify.com/track/31bSYd3Vn2OVmAysLXm3yy) | [Guus Hulshof](https://open.spotify.com/artist/5G2yrrfIxyRjzNGWtz7mYl) | [Droom Een Beetje Meer](https://open.spotify.com/album/5IU8dhrYtcOteiLfPw7HFt) | 3:25 | 2025-04-10 |  |
+| [Echo](https://open.spotify.com/track/7uxIqlS7WnDOB7XtAH2X3i) | [Ruben Annink](https://open.spotify.com/artist/0qZWRrQj38rwkxeRQ3HowZ) | [Echo](https://open.spotify.com/album/2bW3wNkvjiuqBEPRMM3ZOh) | 3:04 | 2025-06-04 |  |
 | [Echte Liefde](https://open.spotify.com/track/2TNoer9mGPTcEApGkgeov2) | [Maxim Froger](https://open.spotify.com/artist/1DBS9sxZ31hPIcJmdH16te) | [Echte Liefde](https://open.spotify.com/album/5X6HJfWLdfrVBOroYScrVD) | 2:35 | 2024-11-07 |  |
 | [Eenzame Nacht](https://open.spotify.com/track/05rDzpftmp52BxVjHta9TI) | [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU) | [Eenzame Nacht](https://open.spotify.com/album/7lFEE4QYgFBzMuwbGbSljV) | 3:19 | 2025-04-03 | 2025-05-09 |
 | [Fiasco](https://open.spotify.com/track/7i5x2DcnSzZaysnT9TIlFu) | [Thijs Boontjes](https://open.spotify.com/artist/7Hx2t9BIWDlr3Bpd6eWmei) | [Fiasco](https://open.spotify.com/album/4OXuvQj5PiA5nwTyDvhBK2) | 2:22 | 2024-09-19 | 2024-10-25 |

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Những 🎶 từ những cái tên có thể bạn chưa biết\. Ảnh bìa: Phượng Vũ
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,207 likes - 66 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,203 likes - 66 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [CHỜ NGÀY KHÔNG NẮNG](https://open.spotify.com/track/3DMOeS29PgLdgaaybtU06E) | [Nie](https://open.spotify.com/artist/11fKQT0P9kw4T6XLsQ2a06), [VUZ](https://open.spotify.com/artist/6XW9SiJzlHNM78vTlzNGf6) | [Em Không Sao](https://open.spotify.com/album/6grbTGbhKTvAFpZ656wQXj) | 4:36 |
-| 2 | [A Ha](https://open.spotify.com/track/0DIxLj89tIXwRhP8EVsFgJ) | [CangCang](https://open.spotify.com/artist/0XnvuKk4tgAlEjjPV833eK), [MICKEY](https://open.spotify.com/artist/5B5evLNd1Borleu5l2xImV) | [A Ha](https://open.spotify.com/album/6X3ONAAtZQ1ndVWuqGRQAs) | 3:24 |
+| 2 | [A Ha](https://open.spotify.com/track/0DIxLj89tIXwRhP8EVsFgJ) | [CangCang](https://open.spotify.com/artist/0XnvuKk4tgAlEjjPV833eK), [MICKEY](https://open.spotify.com/artist/5B5evLNd1Borleu5l2xImV), [YoungBoiDollar](https://open.spotify.com/artist/1VDeHIubtGz8a7wZHY7Ch4) | [A Ha](https://open.spotify.com/album/6X3ONAAtZQ1ndVWuqGRQAs) | 3:24 |
 | 3 | [Khi Ta Yêu Nhau](https://open.spotify.com/track/1o7kaBHLbHXE0nY2FD4txh) | [Kiyoshi Phan](https://open.spotify.com/artist/68NSOMlOaNbs7eYe42qaAc), [Trần Nguyễn Bảo Hân](https://open.spotify.com/artist/31iBIGnueQPkK5VnxF9tQE) | [Khi Ta Yêu Nhau](https://open.spotify.com/album/1dtkliYrEqoOL27MkB8WCM) | 4:03 |
 | 4 | [QUAY VỀ](https://open.spotify.com/track/5iHWbMNn1nmJFS9UpkfOCS) | [EREN](https://open.spotify.com/artist/1CmpPe389rlcewV0pAmxyq), [Bbynascar](https://open.spotify.com/artist/70xqUA23Q0PdxUOMqUCkqR), [Taki](https://open.spotify.com/artist/5Gwp3UAgzZ1v9UjuZJOst2) | [DEJA VU](https://open.spotify.com/album/6BVlsEO0l2upeO4fukXxvf) | 3:03 |
 | 5 | [Welcome Home](https://open.spotify.com/track/78Cs1RJ2FqeouflfUnkBcg) | [LyHan](https://open.spotify.com/artist/70swmqj7c3SHkkdf2SrSUy) | [Welcome Home](https://open.spotify.com/album/4k7A3Ioy7k4sdrev6vtJgT) | 3:30 |

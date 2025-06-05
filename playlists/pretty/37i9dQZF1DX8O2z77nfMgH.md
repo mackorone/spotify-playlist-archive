@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Yailín La Más Viral
 
-[Spotify](https://open.spotify.com/user/spotify) - 888,914 likes - 67 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 888,755 likes - 67 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 66 | [La Balada de los Perros](https://open.spotify.com/track/1HnIc377ZXXsQezcUUbUKI) | [Depresión Sonora](https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO) | [La Balada de los Perros](https://open.spotify.com/album/289HiVlnq15wKmzQ06LfSH) | 2:40 |
 | 67 | [Peter Pan](https://open.spotify.com/track/5rJoqSZx6c9GfJ6cVZ1fhF) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Peter Pan](https://open.spotify.com/album/01GJbBtJUeuyGVbgq5lvqh) | 3:09 |
 
-Snapshot ID: `aDt0rQAAAAC20MOm5uaO2j8GHwKzHI1K`
+Snapshot ID: `aDt0rQAAAADF3CWhBKwJ9+cAJjYsmzg9`

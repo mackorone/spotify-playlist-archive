@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDzpgAAAAABQu7Q+gEeC4cMM/+qlaph9",
+  "snapshot_id": "aD47AAAAAAC/F+EApqqH6VM+b5wvvkzC",
   "tracks": [
     {
       "added_at": null,
@@ -699,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heart. Passion. Pursuit. (Deluxe)",
+        "url": "https://open.spotify.com/album/7BQ2sFd1DNrETEw8xXPUHG"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 333247,
+      "name": "I Will Follow",
+      "url": "https://open.spotify.com/track/38mSgdGYO8FIcunxWbkTqh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Grace (Live/Deluxe)",
         "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 347746,
       "name": "Smile - Live",
       "url": "https://open.spotify.com/track/5XFYRxSFLFnxJOCFqXRLc9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heart. Passion. Pursuit. (Deluxe)",
-        "url": "https://open.spotify.com/album/7BQ2sFd1DNrETEw8xXPUHG"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 231073,
-      "name": "Here",
-      "url": "https://open.spotify.com/track/7enQOizrAIlq1Lu9SSmaPi"
     },
     {
       "added_at": null,
@@ -767,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heart. Passion. Pursuit. (Deluxe)",
+        "url": "https://open.spotify.com/album/7BQ2sFd1DNrETEw8xXPUHG"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 231073,
+      "name": "Here",
+      "url": "https://open.spotify.com/track/7enQOizrAIlq1Lu9SSmaPi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Grace (Live/Deluxe)",
         "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
       },
@@ -783,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heart. Passion. Pursuit. (Deluxe)",
-        "url": "https://open.spotify.com/album/7BQ2sFd1DNrETEw8xXPUHG"
+        "name": "One Place Live",
+        "url": "https://open.spotify.com/album/0Ki9jp3paaKiamzDDHuoyb"
       },
       "artists": [
         {
@@ -792,37 +808,9 @@
           "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
         }
       ],
-      "duration_ms": 333247,
-      "name": "I Will Follow",
-      "url": "https://open.spotify.com/track/38mSgdGYO8FIcunxWbkTqh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Together (We'll Get Through This)",
-        "url": "https://open.spotify.com/album/5Dzgbis6hGQ5btWlMDnoK3"
-      },
-      "artists": [
-        {
-          "name": "Steven Curtis Chapman",
-          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
-        },
-        {
-          "name": "Brad Paisley",
-          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
-        },
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        },
-        {
-          "name": "Lauren Alaina",
-          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
-        }
-      ],
-      "duration_ms": 204601,
-      "name": "Together (We'll Get Through This)",
-      "url": "https://open.spotify.com/track/2tw1U7sV7kvAeAGLU6pFkt"
+      "duration_ms": 183866,
+      "name": "I Love This Place - Live",
+      "url": "https://open.spotify.com/track/0ZwHfP8IYjwn346pI7cGdz"
     },
     {
       "added_at": null,
@@ -843,22 +831,6 @@
       "duration_ms": 214872,
       "name": "Blessings (feat. Tasha Cobbs Leonard)",
       "url": "https://open.spotify.com/track/0USJzZsIiPDbr6ZXgXik7B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "One Place Live",
-        "url": "https://open.spotify.com/album/0Ki9jp3paaKiamzDDHuoyb"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 183866,
-      "name": "I Love This Place - Live",
-      "url": "https://open.spotify.com/track/0ZwHfP8IYjwn346pI7cGdz"
     },
     {
       "added_at": null,
@@ -895,6 +867,34 @@
       "duration_ms": 428354,
       "name": "THIS IS A MOVE (LIVE FROM GREENSBORO)",
       "url": "https://open.spotify.com/track/4chx4qrqcgMalneuDKedPt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Together (We'll Get Through This)",
+        "url": "https://open.spotify.com/album/5Dzgbis6hGQ5btWlMDnoK3"
+      },
+      "artists": [
+        {
+          "name": "Steven Curtis Chapman",
+          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
+        },
+        {
+          "name": "Brad Paisley",
+          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
+        },
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        },
+        {
+          "name": "Lauren Alaina",
+          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
+        }
+      ],
+      "duration_ms": 204601,
+      "name": "Together (We'll Get Through This)",
+      "url": "https://open.spotify.com/track/2tw1U7sV7kvAeAGLU6pFkt"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Midian Lima. The essential tracks, all in one playlist.",
-  "num_followers": 21670,
+  "num_followers": 21673,
   "original_name": "This Is Midian Lima",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDzpgAAAAAANbf24E94lnK6Jxt1+JTrz",
+  "snapshot_id": "aD47AAAAAABSMQChNahp2K+FZzAC8bgF",
   "tracks": [
     {
       "added_at": null,
@@ -483,26 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Job",
-        "url": "https://open.spotify.com/album/5NGqpE0m7PcQ89qJ7joiyZ"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        },
-        {
-          "name": "Arthur Callazans",
-          "url": "https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS"
-        }
-      ],
-      "duration_ms": 324893,
-      "name": "Job",
-      "url": "https://open.spotify.com/track/2M857I621lLa6qTKTGd4Pt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "N\u00e3o Desisto",
         "url": "https://open.spotify.com/album/1y16WYWXU9osg7dSAXViWl"
       },
@@ -539,6 +519,26 @@
       "duration_ms": 281983,
       "name": "Sobrevivi - Live MK 10 MI",
       "url": "https://open.spotify.com/track/2AhWt8NoWzWQOlIj1Ko95B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Job",
+        "url": "https://open.spotify.com/album/5NGqpE0m7PcQ89qJ7joiyZ"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        },
+        {
+          "name": "Arthur Callazans",
+          "url": "https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS"
+        }
+      ],
+      "duration_ms": 324893,
+      "name": "Job",
+      "url": "https://open.spotify.com/track/2M857I621lLa6qTKTGd4Pt"
     },
     {
       "added_at": null,
@@ -686,11 +686,15 @@
         {
           "name": "Midian Lima",
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        },
+        {
+          "name": "Rayssa Barros",
+          "url": "https://open.spotify.com/artist/2xtVXXqM0TxYXIUVN42Hce"
         }
       ],
-      "duration_ms": 314026,
-      "name": "Voc\u00ea N\u00e3o Imagina (Ao Vivo)",
-      "url": "https://open.spotify.com/track/70hw7NRr6BZJZpnyQNC5bx"
+      "duration_ms": 332416,
+      "name": "T\u00e1 Chorando Por Qu\u00ea? (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4Po0RWVCcrtbjio8ORNM9W"
     },
     {
       "added_at": null,
@@ -735,62 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e3o Pare",
-        "url": "https://open.spotify.com/album/19befBP8BMqgHh96PkDHZM"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 276456,
-      "name": "O Pre\u00e7o Foi de Sangue",
-      "url": "https://open.spotify.com/track/7xjM5HubCVLFcgfRCCDO7U"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Midian Lima (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        },
-        {
-          "name": "Rayssa Barros",
-          "url": "https://open.spotify.com/artist/2xtVXXqM0TxYXIUVN42Hce"
-        }
-      ],
-      "duration_ms": 332416,
-      "name": "T\u00e1 Chorando Por Qu\u00ea? (Ao Vivo)",
-      "url": "https://open.spotify.com/track/4Po0RWVCcrtbjio8ORNM9W"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ele N\u00e3o Muda (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6kuJxkE5qwVoYN3e5evSYK"
-      },
-      "artists": [
-        {
-          "name": "Nath\u00e1lia Braga",
-          "url": "https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV"
-        },
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 487671,
-      "name": "Ele N\u00e3o Muda - Ao Vivo",
-      "url": "https://open.spotify.com/track/5CfbgsqU7EEuH3r13XJoCf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Irresist\u00edvel Gl\u00f3ria",
         "url": "https://open.spotify.com/album/74pDWxumSyeuZox1bZNXBw"
       },
@@ -811,6 +759,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Midian Lima (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 314026,
+      "name": "Voc\u00ea N\u00e3o Imagina (Ao Vivo)",
+      "url": "https://open.spotify.com/track/70hw7NRr6BZJZpnyQNC5bx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "N\u00e3o Pare",
+        "url": "https://open.spotify.com/album/19befBP8BMqgHh96PkDHZM"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 276456,
+      "name": "O Pre\u00e7o Foi de Sangue",
+      "url": "https://open.spotify.com/track/7xjM5HubCVLFcgfRCCDO7U"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mais Um Dia",
         "url": "https://open.spotify.com/album/67K8kSFzjEqx7Fk9GO7nil"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 317000,
       "name": "Mais Um Dia",
       "url": "https://open.spotify.com/track/2lpkT44bYWAyMoZ8zMf5Dm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ele N\u00e3o Muda (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6kuJxkE5qwVoYN3e5evSYK"
+      },
+      "artists": [
+        {
+          "name": "Nath\u00e1lia Braga",
+          "url": "https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 487671,
+      "name": "Ele N\u00e3o Muda - Ao Vivo",
+      "url": "https://open.spotify.com/track/5CfbgsqU7EEuH3r13XJoCf"
     },
     {
       "added_at": null,
@@ -867,30 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vivir\u00e1n / Ezequiel / Yo Navegar\u00e9",
-        "url": "https://open.spotify.com/album/5MWCz4F743UEhiBuZHzvqI"
-      },
-      "artists": [
-        {
-          "name": "Arthur Callazans",
-          "url": "https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS"
-        },
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        },
-        {
-          "name": "Misael J",
-          "url": "https://open.spotify.com/artist/2pLxPDg7GPkgozOJLBrfQD"
-        }
-      ],
-      "duration_ms": 829691,
-      "name": "Vivir\u00e1n / Ezequiel / Yo Navegar\u00e9",
-      "url": "https://open.spotify.com/track/5BCguMz6Na0orcfG2zDvqC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A B\u00ean\u00e7\u00e3o do Senhor",
         "url": "https://open.spotify.com/album/6JYB97cfmq5wOBa2u0ZvY9"
       },
@@ -919,6 +895,30 @@
       "duration_ms": 302927,
       "name": "Vida aos Sepulcros (Ao Vivo)",
       "url": "https://open.spotify.com/track/5xHEBgTq1fKc0LYfl3rEHD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vivir\u00e1n / Ezequiel / Yo Navegar\u00e9",
+        "url": "https://open.spotify.com/album/5MWCz4F743UEhiBuZHzvqI"
+      },
+      "artists": [
+        {
+          "name": "Arthur Callazans",
+          "url": "https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        },
+        {
+          "name": "Misael J",
+          "url": "https://open.spotify.com/artist/2pLxPDg7GPkgozOJLBrfQD"
+        }
+      ],
+      "duration_ms": 829691,
+      "name": "Vivir\u00e1n / Ezequiel / Yo Navegar\u00e9",
+      "url": "https://open.spotify.com/track/5BCguMz6Na0orcfG2zDvqC"
     },
     {
       "added_at": null,

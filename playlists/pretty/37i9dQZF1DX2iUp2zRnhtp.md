@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iUp2zRnhtp.md) - [plain]
 
 > vi leker ikke hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,497 likes - 83 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,487 likes - 83 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iUp2zRnhtp.md) - [plain]
 | 6 | [Old Phone](https://open.spotify.com/track/2QxviKpVdEXKDWs706MUZB) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Old Phone](https://open.spotify.com/album/002MjQVkI2aHS733fGjj3S) | 3:41 |
 | 7 | [Konfetti](https://open.spotify.com/track/57ilwMdNXbsbVaP8GtfEIB) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY), [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Konfetti](https://open.spotify.com/album/4aWHBRPvgHpM39DUrvCMTR) | 3:14 |
 | 8 | [St\. Tropez](https://open.spotify.com/track/37p6tirLRljcRz2XhR9G4X) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [St\. Tropez](https://open.spotify.com/album/1VMuWJQJoR0S8fcsXyRLVe) | 2:22 |
-| 9 | [Superhero \(feat\. Isak Heim\)](https://open.spotify.com/track/3gJxcvGTCtBngxYsgP7XQT) | [Rat City](https://open.spotify.com/artist/6VSMAVF00xwG8Adoqnbqy6), [Isak Heim](https://open.spotify.com/artist/3noOJBzljbPMoifF6wY12v) | [Superhero \(feat\. Isak Heim\)](https://open.spotify.com/album/2CMvDS3QKvYghNwzfWbAJL) | 3:03 |
+| 9 | [Superhero](https://open.spotify.com/track/3gJxcvGTCtBngxYsgP7XQT) | [Rat City](https://open.spotify.com/artist/6VSMAVF00xwG8Adoqnbqy6), [Isak Heim](https://open.spotify.com/artist/3noOJBzljbPMoifF6wY12v) | [Superhero](https://open.spotify.com/album/2CMvDS3QKvYghNwzfWbAJL) | 3:03 |
 | 10 | [Sorry I'm Here For Someone Else](https://open.spotify.com/track/3x3K1RP3Zfi2qeMR8kyrNO) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Sorry I'm Here For Someone Else](https://open.spotify.com/album/38PKSUSFXnO4mbUhLC4ELZ) | 2:36 |
 | 11 | [Bare kom](https://open.spotify.com/track/6ofEiPfpIHBp0EvMOqEvlC) | [Ka2](https://open.spotify.com/artist/29f8h7eSlWQAUyfjkdOUGe) | [FULL FYR](https://open.spotify.com/album/2dfh0gZs8T3ir5puEVjfJn) | 3:49 |
 | 12 | [So cool](https://open.spotify.com/track/4OTbRLkWT2kzCyzsoDMbcC) | [Highasakite](https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T), [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [So cool](https://open.spotify.com/album/2FUJFXPzPIpKeSzadgmz6U) | 3:42 |

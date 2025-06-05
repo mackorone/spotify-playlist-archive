@@ -4,7 +4,7 @@
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。cover: 舐達麻
 
-1,678 songs - 3 day 13 hr 33 min
+1,679 songs - 3 day 13 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Assassin \- Remix](https://open.spotify.com/track/2yfiMKCJryhN7QMpJbVZvf) | [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0), [S.J.soldier](https://open.spotify.com/artist/0dFj1rvEIFdLUxWCiqkCTf), [Carz](https://open.spotify.com/artist/2C8Pd4hyOnljituQXkTLZn) | [Assassin \(feat\. S.J.soldier & Carz\) \[Remix\]](https://open.spotify.com/album/1AVLaWJ2CC1dWDKfOfsx7B) | 3:24 | 2025-04-22 |  |
 | [ATTENTION](https://open.spotify.com/track/1ocrIc0ammblLTOuHfXG3d) | [TAXON](https://open.spotify.com/artist/5P4QZuZGQD2FjvNF6lk49r), [Jinmenusagi](https://open.spotify.com/artist/5QSm6dJVv4soCzV7rv4QqE), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9) | [ATTENTION](https://open.spotify.com/album/6yyYGRIhEHSd0RW8EU2dO0) | 3:06 | 2024-02-20 | 2024-03-21 |
 | [ATTENTION](https://open.spotify.com/track/6BKZksyx56fu08aIr57r2U) | [TAXON](https://open.spotify.com/artist/5P4QZuZGQD2FjvNF6lk49r), [Jinmenusagi](https://open.spotify.com/artist/5QSm6dJVv4soCzV7rv4QqE), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9) | [ATTENTION](https://open.spotify.com/album/69hkeaytszlZEHuniaXeJH) | 3:06 | 2024-02-20 | 2024-02-22 |
+| [ATTM](https://open.spotify.com/track/1sDxuQ3G975pePaB0YYVsl) | [Whoopee Bomb](https://open.spotify.com/artist/6RKtwqOBWohO7mOrmSA6g3) | [ATTM](https://open.spotify.com/album/2eXkcDZknmelQnJBvjuV0O) | 3:19 | 2025-06-05 |  |
 | [AUTHENTIC feat\. MC WAMU](https://open.spotify.com/track/21f6slOgVhw0IP8pP6wHHk) | [KJI](https://open.spotify.com/artist/4jgATQDflTgPYAX7dbTXnW), [MC WAMU](https://open.spotify.com/artist/6SwwQdmnk68eMEBGtmlskn) | [AUTHENTIC](https://open.spotify.com/album/6t9aL62gaDkhmo4s4XglOx) | 2:30 | 2023-12-20 | 2023-12-27 |
 | [Avalanche](https://open.spotify.com/track/1zVTqpWUFNwAZgvPOZz5Ev) | [Loota](https://open.spotify.com/artist/2i98we4ZId0tp9xtg2Vte7), [MOSS OMEN](https://open.spotify.com/artist/0QgEEphxOngvFGiuqvido1), [Mechatok](https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW) | [Avalanche](https://open.spotify.com/album/2WOVQ7CNltKcsEjRQBZ92d) | 2:05 | 2025-02-25 | 2025-03-12 |
 | [Away](https://open.spotify.com/track/6sodIGofqqQaGX5v4HgAAk) | [nana](https://open.spotify.com/artist/7uzEQGrUAupBJK2j3uQsoC), [Liza](https://open.spotify.com/artist/2lt6QQR32fKGBooeTvd2wd) | [Away](https://open.spotify.com/album/06tnScz76XaBXOGSYrEayw) | 2:48 | 2023-09-21 | 2023-09-29 |

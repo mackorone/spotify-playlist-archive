@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-996 songs - 2 day 8 hr 6 min
+997 songs - 2 day 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -830,6 +830,7 @@
 | [Sunflowers](https://open.spotify.com/track/5R5oXUlnzXfQZUnbNZz2Dm) | [Seawayz](https://open.spotify.com/artist/1kDtzWANi4LOiGt0uM5Wjr) | [Sunflowers](https://open.spotify.com/album/5Fv4WJupGWoHOMEJZddOR4) | 3:32 | 2023-02-24 | 2023-05-18 |
 | [Sunlight](https://open.spotify.com/track/4ii7MVY3GCm4vQZM6uMDDx) | [Flexible Fire](https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K), [Etza](https://open.spotify.com/artist/5XCGOe3YCAhxsfQIUb5xGe) | [Sunlight](https://open.spotify.com/album/7qPdbWFcEIHUkVMdRdP6kJ) | 3:50 | 2022-02-23 | 2022-05-06 |
 | [Surge](https://open.spotify.com/track/1rBcquk3vLXxSvDl0JSeTY) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv) | [Surge](https://open.spotify.com/album/2BgT3BAKshSa5T98Q5rZds) | 3:40 | 2025-04-25 |  |
+| [Surge \- No Mana Remix](https://open.spotify.com/track/6TrYEKAiC0y71cqplcn0Yy) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [No Mana](https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg) | [Surge \(No Mana Remix\)](https://open.spotify.com/album/6xgYencWHzm6ZKKzUtqPTR) | 3:30 | 2025-06-04 |  |
 | [SURRENDER PEACE!](https://open.spotify.com/track/0ldscHfsL63wYqrhx6Micd) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Let Them Only See Butterflies](https://open.spotify.com/album/4pf4QaR2yjTPk1Two2HPOQ) | 3:14 | 2023-08-10 | 2023-12-14 |
 | [SWEAT!](https://open.spotify.com/track/6Qab7nnQ1JLtpvSvkzB07q) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv) | [SWEAT!](https://open.spotify.com/album/3cKyGMHm0XKQN5Bvx4l0Vu) | 2:39 | 2024-11-22 | 2025-03-04 |
 | [Sweetheart](https://open.spotify.com/track/5RNmbFUSiWxdLq8SiJhQXu) | [Liam Thomas](https://open.spotify.com/artist/0CDvUUuendAExit0nkRVpN) | [Equals](https://open.spotify.com/album/2yobtVPdvXpjv5oYzCX46V) | 3:22 | 2024-10-22 | 2025-01-29 |

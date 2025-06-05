@@ -4,7 +4,7 @@
 
 > Warm indie dance vibes 🌞 the music you need at golden hour
 
-577 songs - 1 day 11 hr 57 min
+578 songs - 1 day 12 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,7 +195,7 @@
 | [Gisèle](https://open.spotify.com/track/6wqv1yeDe2wlPmQEM5ZCYb) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5), [Juicy Cola](https://open.spotify.com/artist/6u9m2Ocxutj8gv7UJdwiWJ) | [Emma Peters \(Remixed\)](https://open.spotify.com/album/5NHfnTwW8s72NU0Fa92jeP) | 3:16 | 2020-12-22 | 2024-04-19 |
 | [Glitter Eyes \(feat\. mindfreakkk\)](https://open.spotify.com/track/2lyUj9ReeWZHSBaw22yqPT) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Glitter Eyes \(feat\. mindfreakkk\)](https://open.spotify.com/album/19NdL3I9k3u1HhVwSaEa02) | 3:45 | 2024-02-13 | 2024-05-11 |
 | [GLOWIN'](https://open.spotify.com/track/6FbAXOSnc5uPQgx2JRly2h) | [Miami Horror](https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37) | [GLOWIN'](https://open.spotify.com/album/28G9HHXs2UcwZPDD7G68qh) | 4:21 | 2025-01-24 |  |
-| [go with u \- Louis La Roche Remix](https://open.spotify.com/track/5FxcDJENpjWY6lL9CnbHgc) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj), [Louis La Roche](https://open.spotify.com/artist/0a03X57i18eG1yBzpmhZAs) | [Someone’s EP II X](https://open.spotify.com/album/6tUqkoCwuE4NffYRmMPVNR) | 4:26 | 2020-12-22 |  |
+| [go with u \- Louis La Roche Remix](https://open.spotify.com/track/5FxcDJENpjWY6lL9CnbHgc) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj), [Louis La Roche](https://open.spotify.com/artist/0a03X57i18eG1yBzpmhZAs) | [Someone’s EP II X](https://open.spotify.com/album/6tUqkoCwuE4NffYRmMPVNR) | 4:26 | 2020-12-22 | 2025-06-05 |
 | [Gonna Be Good](https://open.spotify.com/track/25HTQlirK7IwCS8pD76nvW) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [FINALLY OUT](https://open.spotify.com/album/5YaSxmJgjvtOXIB75Oq3ZE) | 3:16 | 2024-12-20 | 2025-02-09 |
 | [Good Time](https://open.spotify.com/track/4jCaZ9hfqm1CQRvshbvhTU) | [From Dave](https://open.spotify.com/artist/0mZidOoBt44GjnhNMUr9F6), [SUMMERGIRL](https://open.spotify.com/artist/6BtRULhGOoSfhbuf9esr27) | [Good Time](https://open.spotify.com/album/6YytS1n0RZNIXE6kgRRSP8) | 3:05 | 2025-04-23 |  |
 | [Gooey](https://open.spotify.com/track/1gk3FhAV07q9Jg77UxnVjX) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [ZABA](https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi) | 4:49 | 2020-12-22 | 2024-01-27 |
@@ -438,6 +438,7 @@
 | [Should be Fine](https://open.spotify.com/track/294WNoHHRNJ1QMAXy5FdDX) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [Forever](https://open.spotify.com/album/2CKEEhqgIAKmvG6pIdsKq7) | 2:55 | 2023-04-07 | 2024-07-13 |
 | [Show the Way](https://open.spotify.com/track/6TTzOzCtZlUXhouvx2mlgy) | [Gerry Read](https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ) | [Show the Way](https://open.spotify.com/album/0dTnSpQjXjwBLOsLfVBV8J) | 4:21 | 2025-03-28 |  |
 | [Si Te Portas Bonito \- Edit](https://open.spotify.com/track/5s6RZxzKf37QOJfjzSD9L9) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Si Te Portas Bonito](https://open.spotify.com/album/2O1INg3ragKUjPmQ5jMPQy) | 1:57 | 2023-12-01 | 2024-11-22 |
+| [Siesta Freestyle](https://open.spotify.com/track/6ZHKeoIOkvmYUIfxHLtE2Z) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg), [Alicia te quiero](https://open.spotify.com/artist/36sT4wc9jtpjKsa4kXZhkS) | [Dancy Party](https://open.spotify.com/album/3hifRrzUOFSl3BJo2JUqBE) | 3:14 | 2025-06-04 |  |
 | [Simple](https://open.spotify.com/track/05LiQlMRX2PlThoHWPjGae) | [Joe Hertz](https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman), [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [Simple](https://open.spotify.com/album/4w3xE0xHZhglqAd8hXofGw) | 3:48 | 2020-12-22 | 2022-04-19 |
 | [Sister](https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Sister](https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL) | 4:28 | 2020-12-22 | 2024-05-15 |
 | [Skin](https://open.spotify.com/track/2MlkJm5HS8suQmkAuRs6QL) | [Arpy Brown](https://open.spotify.com/artist/74FtMGqsZm74eumHo8Fi3V) | [Skin](https://open.spotify.com/album/43qXSM4fTEvZqvENZor3zK) | 2:08 | 2025-02-14 |  |

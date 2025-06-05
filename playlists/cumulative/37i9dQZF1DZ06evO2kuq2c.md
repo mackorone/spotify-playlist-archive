@@ -4,7 +4,7 @@
 
 > This is Architects\. The essential tracks, all in one playlist.
 
-82 songs - 5 hr 8 min
+83 songs - 5 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Learn to Live](https://open.spotify.com/track/65a0TZb4oPjLeeuD1BAK1L) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [The Here and Now](https://open.spotify.com/album/7EiIIwSiYBkaq741bL6Se3) | 4:01 | 2022-05-30 |  |
 | [living is killing us](https://open.spotify.com/track/1Ho5lI6FHNyG8H7UW5kSrs) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [the classic symptoms of a broken spirit](https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4) | 3:41 | 2022-10-22 | 2022-11-17 |
 | [Meteor](https://open.spotify.com/track/0d2mj7p92bZEckjowsc1a4) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [For Those That Wish To Exist](https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4) | 4:01 | 2022-06-02 |  |
+| [Modern Misery](https://open.spotify.com/track/6jaJVPLZOME4TtgW1Es5NT) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Holy Hell](https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7) | 4:13 | 2025-06-05 |  |
 | [Mortal After All](https://open.spotify.com/track/1rMGbnh7zWGs8ME0mbuVai) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Holy Hell](https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7) | 3:39 | 2022-05-30 | 2023-05-01 |
 | [Naysayer](https://open.spotify.com/track/7l1aujAcBQWpG1nHKOxPGe) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Lost Forever // Lost Together](https://open.spotify.com/album/1j8JsxOsu9e0ChyFO5KOpc) | 3:25 | 2022-10-12 |  |
 | [Nihilist](https://open.spotify.com/track/0LnNkDzIGaYKCvGbe5N9Wo) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [All Our Gods Have Abandoned Us](https://open.spotify.com/album/2NJMu78M8xVy2NAxicD1so) | 2:51 | 2022-05-30 |  |
@@ -83,7 +84,7 @@
 | [tear gas](https://open.spotify.com/track/5dmmNOi4QVrB6TbYDy2GCg) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [tear gas](https://open.spotify.com/album/0lYpKR15pdTLNQuBHXNx6L) | 4:17 | 2022-07-14 | 2022-08-04 |
 | [tear gas](https://open.spotify.com/track/7Igb2aGtzSlisOgXbjmdZW) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [the classic symptoms of a broken spirit](https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4) | 4:17 | 2022-10-27 |  |
 | [The Empty Hourglass](https://open.spotify.com/track/1pk4fwnB6PXa6GMlSrolzq) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [All Our Gods Have Abandoned Us](https://open.spotify.com/album/2NJMu78M8xVy2NAxicD1so) | 4:11 | 2022-05-31 | 2022-09-10 |
-| [The Seventh Circle](https://open.spotify.com/track/74qcviASlpWUM5g35HAV1S) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Holy Hell](https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7) | 1:48 | 2023-04-30 |  |
+| [The Seventh Circle](https://open.spotify.com/track/74qcviASlpWUM5g35HAV1S) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Holy Hell](https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7) | 1:48 | 2023-04-30 | 2025-06-05 |
 | [These Colours Don't Run](https://open.spotify.com/track/564qvXssjJM1BkMm4FgPzA) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Daybreaker \(Deluxe Edition\)](https://open.spotify.com/album/6rvoCczjq9prDGSoxQr1Xq) | 4:01 | 2022-05-30 |  |
 | [when we were young](https://open.spotify.com/track/5wTfzzRW8ddRdgW2kASbox) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [when we were young](https://open.spotify.com/album/2ZGOqvkbQFLEayRqXxGjc9) | 3:13 | 2022-05-30 | 2022-11-13 |
 | [when we were young](https://open.spotify.com/track/7DkN4oeXv2mqyPy0sJNrus) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [the classic symptoms of a broken spirit](https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4) | 3:13 | 2022-11-16 |  |

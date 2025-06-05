@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ZGCSS2mWfQa1SXZ83hZIO">KAYTRANADA</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,075 likes - 158 songs - 9 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,077 likes - 158 songs - 9 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,8 +109,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 99 | [The Fool Pt 3 \(Frame Of Mind\)](https://open.spotify.com/track/2jUOQ4gmWv9dSIxXWlTjd6) | [Shad](https://open.spotify.com/artist/15lOM8PWY9pXQoURZwSZlK), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [A Short Story About A War](https://open.spotify.com/album/7L3Xyl7eFVEqBDnyppNjCw) | 3:29 |
 | 100 | [Find Me](https://open.spotify.com/track/6P2cQF9sdnv17czEnI54BR) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Find Me](https://open.spotify.com/album/0lofjJsdra4ZYC6d4v5Pvg) | 3:42 |
 | 101 | [Hands On Your Knees \(feat\. Kokayi\)](https://open.spotify.com/track/1QKoF35gNN3dCNSGlin8bW) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ), [Kokayi](https://open.spotify.com/artist/2AyMC7HowLT6ULLdKwJSZ2) | [At What Cost](https://open.spotify.com/album/18JrBX1QkpnUSJF3oxX6RX) | 1:55 |
-| 102 | [Drugstore](https://open.spotify.com/track/65sYC4QuRyCxk8sA01EbFs) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Simple.](https://open.spotify.com/album/2BeEXKn0ecWhwxOftmUZhy) | 3:09 |
-| 103 | [Endless Night](https://open.spotify.com/track/0YQ3pxSWszXRbPHZHSvlqU) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [Endless Night](https://open.spotify.com/album/2K7BcBLomfzKDCL9uHr8VY) | 3:27 |
+| 102 | [Endless Night](https://open.spotify.com/track/0YQ3pxSWszXRbPHZHSvlqU) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [Endless Night](https://open.spotify.com/album/2K7BcBLomfzKDCL9uHr8VY) | 3:27 |
+| 103 | [Drugstore](https://open.spotify.com/track/65sYC4QuRyCxk8sA01EbFs) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Simple.](https://open.spotify.com/album/2BeEXKn0ecWhwxOftmUZhy) | 3:09 |
 | 104 | [Gravity](https://open.spotify.com/track/2HYkeK48Ys2UzYt9kGCwiC) | [River Tiber](https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0) | [Illusions](https://open.spotify.com/album/5DRZzDtnYnqvGKiRpRX64T) | 3:14 |
 | 105 | [All We Do](https://open.spotify.com/track/3ruOq5Gd9iZAdU1UP2nDJR) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [JMSN](https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l) | [Kaytra to Do](https://open.spotify.com/album/14RQlFzqaTt8nB8u3SXBRN) | 4:12 |
 | 106 | [A Lite](https://open.spotify.com/track/3CeI4Ri97C26GxShl4sbdY) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Ocean & Montana](https://open.spotify.com/album/6wQHjKlxXujDKgkUXJ4NIv) | 3:31 |
@@ -134,8 +134,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 124 | [New Lover](https://open.spotify.com/track/3A75RXF6osQ8vLMSMbNJ9r) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [Endless Night](https://open.spotify.com/album/2K7BcBLomfzKDCL9uHr8VY) | 1:53 |
 | 125 | [LIES WILL SET YOU FREE](https://open.spotify.com/track/1ntp9QhwKYmikKLiOKrARR) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [LIFE IN HELL](https://open.spotify.com/album/7A6MutudrSxcDa47a6HHOM) | 4:44 |
 | 126 | [Turn Me On](https://open.spotify.com/track/0XPg6Wdh4eIMeibWCwo0Uv) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [Endless Night](https://open.spotify.com/album/2K7BcBLomfzKDCL9uHr8VY) | 3:15 |
-| 127 | [I Know It](https://open.spotify.com/track/4TD1gwKRuP4HOWuijLapui) | [Muzi](https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5) | [Interblaktic](https://open.spotify.com/album/3ZrhMXlyekQsEDYQ45QVO8) | 2:32 |
-| 128 | [Mic On](https://open.spotify.com/track/5XLm5kdumFNGnnXgkFsSJ2) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [WHEN](https://open.spotify.com/album/2HHseNs1ly8ccUuZjGNsQD) | 2:33 |
+| 127 | [Mic On](https://open.spotify.com/track/5XLm5kdumFNGnnXgkFsSJ2) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [WHEN](https://open.spotify.com/album/2HHseNs1ly8ccUuZjGNsQD) | 2:33 |
+| 128 | [I Know It](https://open.spotify.com/track/4TD1gwKRuP4HOWuijLapui) | [Muzi](https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5) | [Interblaktic](https://open.spotify.com/album/3ZrhMXlyekQsEDYQ45QVO8) | 2:32 |
 | 129 | [Thinkin Bout You](https://open.spotify.com/track/2OGES71yUPyUcaMf3ZM6nR) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [ArtScience](https://open.spotify.com/album/3Bn4x1v0uRbt2JwkxVg7Wu) | 3:12 |
 | 130 | [My Crew \(Woooo\)](https://open.spotify.com/track/5h3oR26R9644bteoUeOl46) | [Cadence Weapon](https://open.spotify.com/artist/179CHqJZlZwKBQhjcOeAOS) | [Cadence Weapon](https://open.spotify.com/album/09mEEnenyhutFTC8ivx1s7) | 3:13 |
 | 131 | [Love Or Something](https://open.spotify.com/track/7oARln7vvm7pxWXvJmiVxH) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Ocean & Montana](https://open.spotify.com/album/6wQHjKlxXujDKgkUXJ4NIv) | 2:57 |
@@ -149,8 +149,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 139 | [You And Me](https://open.spotify.com/track/6efwJ8S8qvGIJPCivsXcGX) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [ArtScience](https://open.spotify.com/album/3Bn4x1v0uRbt2JwkxVg7Wu) | 4:38 |
 | 140 | [warmest winter.](https://open.spotify.com/track/1DQV5VtXXo09zuCdsWqDrN) | [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6) | [Euphonyus](https://open.spotify.com/album/7jlnxMcPR6LK0bvBtQyu45) | 3:49 |
 | 141 | [Come Again](https://open.spotify.com/track/0FZv7zASMbqSz3XNL6sAxi) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [Endless Night](https://open.spotify.com/album/2K7BcBLomfzKDCL9uHr8VY) | 2:42 |
-| 142 | [Intro \- Live At Capitol Studios / 2014](https://open.spotify.com/track/0fnld7tIRNZq8Kel2OLcbv) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [Covered \(The Robert Glasper Trio Recorded Live At Capitol Studios\)](https://open.spotify.com/album/24G0m5YTTWxqrRvllb9O7v) | 2:12 |
-| 143 | [Mustang Sally](https://open.spotify.com/track/1vKmMfZszrCAqSAJgLfm04) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [Endless Night](https://open.spotify.com/album/2K7BcBLomfzKDCL9uHr8VY) | 3:17 |
+| 142 | [Mustang Sally](https://open.spotify.com/track/1vKmMfZszrCAqSAJgLfm04) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [Endless Night](https://open.spotify.com/album/2K7BcBLomfzKDCL9uHr8VY) | 3:17 |
+| 143 | [Intro \- Live At Capitol Studios / 2014](https://open.spotify.com/track/0fnld7tIRNZq8Kel2OLcbv) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [Covered \(The Robert Glasper Trio Recorded Live At Capitol Studios\)](https://open.spotify.com/album/24G0m5YTTWxqrRvllb9O7v) | 2:12 |
 | 144 | [Goin](https://open.spotify.com/track/3TAACPVfSwjwZy3Bc4CwC8) | [Diggy](https://open.spotify.com/artist/2LuUALONla8DJRSCiGONBp) | [Lighten Up](https://open.spotify.com/album/2cOUZ5AnAz7dCO2sdIg3Ic) | 2:39 |
 | 145 | [Name Drop Interlude \- Robert Glasper x KAYTRANADA](https://open.spotify.com/track/3z3xbjtTWL4BhZditetd8R) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [Robert Glasper x KAYTRANADA: The ArtScience Remixes](https://open.spotify.com/album/62JcJAgTFI06FHviKCdrro) | 1:39 |
 | 146 | [Outro \- Robert Glasper x KAYTRANADA](https://open.spotify.com/track/31Xy58NK7jr4H05K28EzrH) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [Robert Glasper x KAYTRANADA: The ArtScience Remixes](https://open.spotify.com/album/62JcJAgTFI06FHviKCdrro) | 2:32 |
@@ -167,4 +167,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 157 | [Hold Tight](https://open.spotify.com/track/0pne7H1f67nyV7uPasAatn) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [OASIS](https://open.spotify.com/album/3v8y0QkA77jNoEzDTNUTDH) | 3:28 |
 | 158 | [Undercover](https://open.spotify.com/track/5dUW0FWt3OO052bu7oczo9) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [OASIS](https://open.spotify.com/album/3v8y0QkA77jNoEzDTNUTDH) | 4:07 |
 
-Snapshot ID: `AbzLgAAAAAAYkS024taRfUcm5aQR6qAs`
+Snapshot ID: `AbzRKgAAAAAo+rXlNmVYCpUyW3gGiPq/`

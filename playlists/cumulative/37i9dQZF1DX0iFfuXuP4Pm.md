@@ -2,9 +2,9 @@
 
 ### [Tatak Pinoy](https://open.spotify.com/playlist/37i9dQZF1DX0iFfuXuP4Pm)
 
-> Mga nangunguna sa mundo ng OPM\. Cover: Rob Deniel
+> Mga nangunguna sa mundo ng OPM\. Cover: Over October
 
-325 songs - 20 hr 14 min
+328 songs - 20 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [DUNGKA!](https://open.spotify.com/track/7mqsPvhSR1CtY6PkTf1YVy) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [Simula at Wakas](https://open.spotify.com/album/04tWizEPzUimMQaZKdZwzJ) | 3:35 | 2025-04-30 |  |
 | [ERE](https://open.spotify.com/track/0SuQMjb2TleiKg1ebQSDnX) | [juan karlos](https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ) | [ERE](https://open.spotify.com/album/5Rg4hF4geeE5e01y7Z1JfD) | 4:44 | 2024-01-24 | 2024-02-08 |
 | [Euphoria](https://open.spotify.com/track/6ZqRDyqdQXyUmJBbBTvH8g) | [The Ridleys](https://open.spotify.com/artist/03KZ3tIgA3DSCU4o8PahVG) | [All These and More](https://open.spotify.com/album/7kJi6tJj8GvOoBdhttiO6x) | 3:29 | 2024-08-29 | 2025-01-02 |
+| [Exclusively](https://open.spotify.com/track/6Vd4mP8MtKuWdzphUeDTaz) | [Fly Mama!](https://open.spotify.com/artist/79bsx38e5AAvAb8d0FEuQK) | [Exclusively](https://open.spotify.com/album/0zH2ZvnrqekbUsn7CWwm28) | 3:39 | 2025-06-04 |  |
 | [Eyes Only For Me](https://open.spotify.com/track/6ac9R5HvKZNCGZCXfJSjEx) | [Jay R](https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU), [Regine Velasquez](https://open.spotify.com/artist/3wNylAjJX1PiCpMKx8Lrfp) | [Eyes Only For Me](https://open.spotify.com/album/3LVGzUh9SM0HxA0JbSoXI1) | 4:03 | 2024-02-21 | 2024-03-21 |
 | [Faded \(Raw\)](https://open.spotify.com/track/5AxEGHRwgBqFDZ20ilkCw6) | [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [Faded \(Raw\)](https://open.spotify.com/album/1YoTE6M7v7oQcdv5gHM0kb) | 2:55 | 2024-01-24 | 2024-05-25 |
 | [Fake Faces](https://open.spotify.com/track/4ntKnZnztFdovszJpIoeVO) | [Felip](https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl) | [Fake Faces](https://open.spotify.com/album/7BxA4dGVgGP6JPoXohlnc4) | 2:54 | 2024-04-10 | 2024-05-25 |
@@ -143,7 +144,8 @@
 | [KARMEN](https://open.spotify.com/track/4ecS04LKhx2dFdnVYCYc7B) | [Zae](https://open.spotify.com/artist/7LzHjduJmIQZGQsh8luHkD) | [KARMEN](https://open.spotify.com/album/1nERzbdmnFru3H4cwZFxRU) | 3:47 | 2025-04-02 |  |
 | [Kasama](https://open.spotify.com/track/1qA0gniLfP4RIRmVTEe1eM) | [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh), [Chito Miranda](https://open.spotify.com/artist/72VBk3SEsEFPF948CmkHT4) | [Kasama](https://open.spotify.com/album/2t6TUKXucrJSErtNohifVu) | 4:19 | 2024-10-09 | 2025-04-03 |
 | [Kasing Kasing \(feat\. Kyle Echarri\)](https://open.spotify.com/track/13OhgUF9wgvG30aRARfgrR) | [juan karlos](https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ), [Kyle Echarri](https://open.spotify.com/artist/53qa1XIZ6pZuhrGDetCGew) | [Kasing Kasing \(feat\. Kyle Echarri\)](https://open.spotify.com/album/0eX3ksx0PK4SyQnlNOuUwH) | 4:55 | 2024-01-31 | 2024-03-07 |
-| [Kilala](https://open.spotify.com/track/2wzn9QDSMkZHuxXi7xzHr0) | [Ace Banzuelo](https://open.spotify.com/artist/3f0X043zSojego7Qn4Yi6U) | [Kilala](https://open.spotify.com/album/2wN4WXC3zWNOmwBygIzxiN) | 4:31 | 2025-04-02 |  |
+| [Kidlat](https://open.spotify.com/track/6utifKVIx7dSUzD8D7ivW2) | [Plume](https://open.spotify.com/artist/666ekgxxGiZCImY6lwlOmk) | [Kidlat](https://open.spotify.com/album/3EjMtnIERkGojDYYjZc2uL) | 3:40 | 2025-06-04 |  |
+| [Kilala](https://open.spotify.com/track/2wzn9QDSMkZHuxXi7xzHr0) | [Ace Banzuelo](https://open.spotify.com/artist/3f0X043zSojego7Qn4Yi6U) | [Kilala](https://open.spotify.com/album/2wN4WXC3zWNOmwBygIzxiN) | 4:31 | 2025-04-02 | 2025-06-05 |
 | [Kinakabahan](https://open.spotify.com/track/3FLCi7kmtM5DCStIa3ax4m) | [LILY](https://open.spotify.com/artist/1DFzp62fQet0UoMHoJPn4u) | [Kinakabahan](https://open.spotify.com/album/4QvLVRszyv3WLbZexbVo0W) | 3:47 | 2025-04-09 |  |
 | [Klaro](https://open.spotify.com/track/1jG9Gzu5qarOo1v4qKjLwe) | [Hale](https://open.spotify.com/artist/6Ww3OMFzCaO33ulKh1LBFN) | [Klaro](https://open.spotify.com/album/5ZM2rCkiq7huULAPjbAsIZ) | 4:08 | 2024-02-07 | 2024-02-29 |
 | [Kulimlim](https://open.spotify.com/track/7otcJuVUk3fEbvJ5tNO4af) | [Angela Ken](https://open.spotify.com/artist/7yaaxrkMOWJZXpIYHkppDH) | [Kulimlim](https://open.spotify.com/album/6OhYBRH3PE4wH9t1Yfljpq) | 3:30 | 2024-10-23 | 2025-02-28 |
@@ -160,7 +162,7 @@
 | [Lila](https://open.spotify.com/track/14Edofhd6KHcuO51WitSLV) | [Pastel Sky](https://open.spotify.com/artist/1CAWvuliUzB5ORBEkRoS0r) | [Lila](https://open.spotify.com/album/4QuF85jFBoM63F56LIYZCT) | 3:48 | 2024-07-03 | 2024-08-08 |
 | [Limang Taon](https://open.spotify.com/track/7d4sWEXBTj6qShMbMWpEd3) | [juan karlos](https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ) | [Limang Taon](https://open.spotify.com/album/2EwDlMDhz7mRqS9lMWbGdL) | 5:14 | 2024-05-29 | 2024-06-13 |
 | [Little Paradise](https://open.spotify.com/track/34l48eopIEbS9l475GAFDy) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [Little Paradise](https://open.spotify.com/album/3Dnwf0bINwnc20LQ033gfI) | 3:18 | 2024-03-27 | 2024-05-02 |
-| [Liwanag](https://open.spotify.com/track/6BeFj828zVMPqBGpLTXZoy) | [Sponge Cola](https://open.spotify.com/artist/1tXFYQZSAswt4JLB42lpye) | [Liwanag](https://open.spotify.com/album/0d75tH0TP8q8kwmJVoGCIP) | 3:55 | 2025-04-16 |  |
+| [Liwanag](https://open.spotify.com/track/6BeFj828zVMPqBGpLTXZoy) | [Sponge Cola](https://open.spotify.com/artist/1tXFYQZSAswt4JLB42lpye) | [Liwanag](https://open.spotify.com/album/0d75tH0TP8q8kwmJVoGCIP) | 3:55 | 2025-04-16 | 2025-06-05 |
 | [LNP](https://open.spotify.com/track/6jhiq2JcvZMLFSPpezkgpP) | [Sponge Cola](https://open.spotify.com/artist/1tXFYQZSAswt4JLB42lpye) | [LNP](https://open.spotify.com/album/4KnI9jHizxfkvyegXahVpR) | 3:55 | 2025-05-21 |  |
 | [Love Is](https://open.spotify.com/track/2SABOK9LGZ68jM5TPPHBvD) | [The Ridleys](https://open.spotify.com/artist/03KZ3tIgA3DSCU4o8PahVG) | [Love Is](https://open.spotify.com/album/4RU1GrHbHIXBlrVOrUdwfw) | 3:52 | 2024-07-31 | 2024-12-05 |
 | [Lumayo](https://open.spotify.com/track/6EaSUjAd1Zi2jK6PMqWKEz) | [Over October](https://open.spotify.com/artist/1hMAGfvamVXuSWBFQRFMeq) | [Make Believe](https://open.spotify.com/album/0eVAbAiekijNEO7xTvGn23) | 2:55 | 2024-10-03 | 2025-04-03 |
@@ -168,7 +170,7 @@
 | [Madamot Ka](https://open.spotify.com/track/3sFotCpWY1e84X0YixN4jw) | [CK YG](https://open.spotify.com/artist/57yOAX6apIrclpBG736Uy2), [Baby Blood](https://open.spotify.com/artist/43mQpC11b5yKRPDURZOC76) | [Madamot Ka](https://open.spotify.com/album/483qTGkYt70DoGsnQMLGRB) | 2:15 | 2024-12-11 | 2025-01-02 |
 | [Magkasama](https://open.spotify.com/track/6BYfQMc0AOzjdJl3RjJ6v9) | [Johnoy Danao](https://open.spotify.com/artist/2zFBNsALb4M2FhKl98wcvd), [Project Yazz](https://open.spotify.com/artist/0X79091i0pt4JbrIM1YK3L) | [Magkasama](https://open.spotify.com/album/2vux7phieF991LAvZfMBcR) | 6:15 | 2025-02-06 | 2025-03-14 |
 | [Mahal](https://open.spotify.com/track/17k0CnwqLbTPeR8UL0rNZs) | [Dilaw](https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL) | [Mahal](https://open.spotify.com/album/5eZwzAz76vrv1nzD0xuLrJ) | 3:44 | 2025-01-29 |  |
-| [Mahal Ko](https://open.spotify.com/track/657JgEmBhkPXC6ISFcqp1O) | [Calein](https://open.spotify.com/artist/0DpLoyGVbhOHNR3ht2oO9y) | [Mahal Ko](https://open.spotify.com/album/6CN8Y1WrkOkm2W5kgTQLvn) | 3:08 | 2025-04-23 |  |
+| [Mahal Ko](https://open.spotify.com/track/657JgEmBhkPXC6ISFcqp1O) | [Calein](https://open.spotify.com/artist/0DpLoyGVbhOHNR3ht2oO9y) | [Mahal Ko](https://open.spotify.com/album/6CN8Y1WrkOkm2W5kgTQLvn) | 3:08 | 2025-04-23 | 2025-06-05 |
 | [Mahanap Ka](https://open.spotify.com/track/719RZuG1Pp7GZgY7MRUHhj) | [Paham](https://open.spotify.com/artist/41NKF8NtYx7ZlfIUMwCJ1v) | [Mahanap Ka](https://open.spotify.com/album/5dKlCylJ7kFh4AkD85VDPG) | 2:51 | 2024-08-07 | 2024-12-12 |
 | [Makasarili Malambing](https://open.spotify.com/track/1c6hnvWjzUsJoypgwUV2sE) | [Kristina Dawn](https://open.spotify.com/artist/5Two5JCWeQdaAbGKUFQx8d), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Makasarili Malambing](https://open.spotify.com/album/07y0oEistR8d2JOwd5E67B) | 2:01 | 2024-01-24 | 2024-06-20 |
 | [Makasarili Malambing \(feat\. Hev Abi\)](https://open.spotify.com/track/24lbO7qor0IB4u9uu8pDw8) | [Kristina Dawn](https://open.spotify.com/artist/5Two5JCWeQdaAbGKUFQx8d), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Makasarili Malambing \(feat\. Hev Abi\)](https://open.spotify.com/album/5nRawGHyy4wk6BEudZx0h4) | 2:01 | 2024-03-13 | 2024-04-19 |
@@ -188,6 +190,7 @@
 | [MINAHALAGAD](https://open.spotify.com/track/0k9bmRFeWAKCJm0OtIrbd1) | [Because](https://open.spotify.com/artist/0n4a5imdLBN24fIrBWoqrv), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [MINAHALAGAD](https://open.spotify.com/album/1N6eO3cWQ1LXAJux7E21fD) | 4:11 | 2024-05-01 | 2024-06-01 |
 | [minsan](https://open.spotify.com/track/7sdJVKQdidTOIXHxjY9KqK) | [Ace Banzuelo](https://open.spotify.com/artist/3f0X043zSojego7Qn4Yi6U) | [minsan](https://open.spotify.com/album/0UEnA632PuAMWkvPkwYqrP) | 3:21 | 2024-08-29 | 2024-10-30 |
 | [Mirasol](https://open.spotify.com/track/7zLBGK5lDf5cnAA3ea4xR9) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH) | [Mirasol](https://open.spotify.com/album/4K1X6LZLGRSOXBBaGAqvft) | 3:27 | 2024-10-23 | 2025-01-02 |
+| [Misbehave](https://open.spotify.com/track/4kdK6ElvEvHh3MaD2sBAOh) | [Lola Amour](https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI) | [Misbehave](https://open.spotify.com/album/18BMu9faCjCie5pvbEejmc) | 3:42 | 2025-06-04 |  |
 | [Miss Miss](https://open.spotify.com/track/5mi8Oe95frx6LhvFioXE7t) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Miss Miss](https://open.spotify.com/album/7vX4hut0GPXmfbqbSvz49o) | 4:25 | 2024-01-24 | 2024-10-10 |
 | [Misteryoso](https://open.spotify.com/track/0kE1SmlJNLg14dgdo9kJws) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Misteryoso](https://open.spotify.com/album/6BqP9dOpxUGa7gCunYMw9a) | 3:41 | 2024-05-24 | 2025-05-08 |
 | [Moonlight](https://open.spotify.com/track/7cens2GI2PTemvKNnpjxs8) | [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km), [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP), [Terry Zhong](https://open.spotify.com/artist/6gmZPYIcqdjmkauB2krvSg) | [Moonlight](https://open.spotify.com/album/204uhd5Yr7mUtfydYTnBDQ) | 2:48 | 2024-05-08 | 2024-06-13 |

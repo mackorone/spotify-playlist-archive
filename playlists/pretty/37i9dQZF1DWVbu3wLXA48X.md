@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > yung kai handpicks first 20 tracks that resonate and fuel his creative journey alongside fresh indie cuts from Asia and beyond.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,959 likes - 82 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,000 likes - 82 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

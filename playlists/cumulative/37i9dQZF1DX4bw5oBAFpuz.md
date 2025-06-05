@@ -4,7 +4,7 @@
 
 > Ideale muziek voor de werkdag
 
-552 songs - 1 day 7 hr 36 min
+554 songs - 1 day 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [Dive](https://open.spotify.com/track/51ChrwmUPDJvedPQnIU8Ls) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 3:58 | 2023-02-23 | 2023-04-26 |
 | [Divide](https://open.spotify.com/track/0PbCOBEUjlnvBCe5uCdLlw) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder](https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv) | 3:23 | 2023-02-23 | 2023-06-20 |
 | [Divide](https://open.spotify.com/track/56gDMsPfzD6UNG318InjIU) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder \(2023\)](https://open.spotify.com/album/0uEpKcZU1hGooddCjct4j2) | 3:23 | 2023-06-06 | 2024-04-19 |
-| [Dog in the Park](https://open.spotify.com/track/7aIt9y0iirchcmXvHOrjBs) | [Elephant](https://open.spotify.com/artist/2cwRR7JVxhEre6f0DNRyvW) | [Dog in the Park](https://open.spotify.com/album/6jdS8PKHxrOCoB15wv2QYD) | 3:00 | 2023-08-29 |  |
+| [Dog in the Park](https://open.spotify.com/track/7aIt9y0iirchcmXvHOrjBs) | [Elephant](https://open.spotify.com/artist/2cwRR7JVxhEre6f0DNRyvW) | [Dog in the Park](https://open.spotify.com/album/6jdS8PKHxrOCoB15wv2QYD) | 3:00 | 2023-08-29 | 2025-06-05 |
 | [Don't Break the Heart](https://open.spotify.com/track/4tS2pyUXiaTjHK7vCBomyF) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Evering Road \(Special Edition\)](https://open.spotify.com/album/6dfAua5R07Ex8evOwz5sUU) | 3:49 | 2024-03-21 |  |
 | [Don't Know Why](https://open.spotify.com/track/1zNXF2svmdlNxfS5XeNUgr) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Super Deluxe Edition\)](https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl) | 3:06 | 2023-02-23 | 2024-04-13 |
 | [Don't Let Me Go](https://open.spotify.com/track/6syQOKJfd5BR6z5YAGzQaa) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Don't Let Me Go](https://open.spotify.com/album/5ipsC4SrBYv87aO75cHV7o) | 4:52 | 2025-05-01 |  |
@@ -163,7 +163,7 @@
 | [Georgia](https://open.spotify.com/track/429EttO8gs0bDo2SQfUNSm) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:50 | 2023-02-23 | 2023-04-26 |
 | [get older](https://open.spotify.com/track/2uu7LrCxYJ5WvtyzdxLiPC) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [get older](https://open.spotify.com/album/0WBPBQuEfYJcRmIA3OdJmq) | 2:57 | 2023-02-23 |  |
 | [Get There When I Get There](https://open.spotify.com/track/3A8glnhkz52eDkT5e52xSm) | [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj) | [Left on McKinney](https://open.spotify.com/album/2ALcWB26JayXG3kCosC8F9) | 2:56 | 2024-10-03 |  |
-| [Ghost Of Me](https://open.spotify.com/track/2xmsvPkZ67YgQ4p2ABrnzT) | [Haris](https://open.spotify.com/artist/6tE3YSDrBq015UZTxh9Zki) | [Ghost Of Me](https://open.spotify.com/album/4N4vgV1soaj7LbakmNfwvB) | 3:04 | 2024-11-08 |  |
+| [Ghost Of Me](https://open.spotify.com/track/2xmsvPkZ67YgQ4p2ABrnzT) | [Haris](https://open.spotify.com/artist/6tE3YSDrBq015UZTxh9Zki) | [Ghost Of Me](https://open.spotify.com/album/4N4vgV1soaj7LbakmNfwvB) | 3:04 | 2024-11-08 | 2025-06-05 |
 | [Give Me That Feeling](https://open.spotify.com/track/1TttmYJbJ5SfbmA06qJ8kZ) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B VI](https://open.spotify.com/album/7Cq7tNfVMckpwGX4llhsVN) | 4:14 | 2024-04-11 |  |
 | [Give Me That Feeling](https://open.spotify.com/track/5nqcyjp4fFX7MTsxzXlMdm) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B VI](https://open.spotify.com/album/671hZnMHapwrrMIjousq6l) | 4:14 | 2024-02-26 | 2024-04-19 |
 | [Glow](https://open.spotify.com/track/09NpMJO80vtOO5kH0uKPaw) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673) | [Glow](https://open.spotify.com/album/1R6ntu2OZzt8K8trkqtjPQ) | 3:08 | 2024-03-26 | 2024-05-25 |
@@ -207,6 +207,7 @@
 | [Hold My Girl](https://open.spotify.com/track/42bbDWZ8WmXTH7PkYAlGLu) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 3:31 | 2023-02-23 | 2023-06-07 |
 | [Hold You Up](https://open.spotify.com/track/6mUik98UHYPPDfjqD6sJMG) | [BYNK](https://open.spotify.com/artist/1JHiSrdnSqRoXMDxlrDM57) | [Hold You Up](https://open.spotify.com/album/01CJnyDctw0gw25oLYQUhQ) | 3:09 | 2023-07-20 |  |
 | [Homecoming Queen](https://open.spotify.com/track/28grzRrS5csyaI4uK98IX0) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Better in Blak](https://open.spotify.com/album/0QuumkXPKBWR7wOKUfqQ34) | 3:51 | 2023-02-23 |  |
+| [House On Fire \- Duet Version](https://open.spotify.com/track/3D5RwZZhMiWkI2RrIhyenr) | [Linda Elys](https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf), [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [House On Fire \(Duet Version\)](https://open.spotify.com/album/7dH9OmKx2qWo6zGfd9brou) | 2:59 | 2025-06-04 |  |
 | [How Do I Say Goodbye](https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [How Do I Say Goodbye](https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp) | 2:43 | 2024-09-27 | 2025-02-21 |
 | [How to Save a Life](https://open.spotify.com/track/5fVZC9GiM4e8vu99W0Xf6J) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [How To Save A Life](https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK) | 4:22 | 2023-02-23 | 2024-12-21 |
 | [How To Stop It](https://open.spotify.com/track/1C1zYsvtEw9nROGnQL40wh) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [How To Stop It](https://open.spotify.com/album/1x880PZgDNpeG3M67BmCpX) | 2:44 | 2025-05-08 |  |
@@ -544,6 +545,7 @@
 | [Why Do You Care](https://open.spotify.com/track/3oDn64B3LsqBfcvQA5UJrh) | [RONDÉ](https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr) | [RONDÉ](https://open.spotify.com/album/2sSHHrTuj2PdyjHyQJsCtj) | 3:36 | 2024-04-11 |  |
 | [Why Do You Care](https://open.spotify.com/track/4miesggrLA9agA9lusKhV9) | [RONDÉ](https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr) | [RONDÉ](https://open.spotify.com/album/7oQWTdzb0SHFhWp5cZZvZv) | 3:36 | 2023-04-25 | 2024-03-20 |
 | [Wild Grey Ocean](https://open.spotify.com/track/3NhEHxzfLEzvlYPK9hgmPR) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Wild Grey Ocean](https://open.spotify.com/album/6H7rX9r5UAwdlkDtWOiW6v) | 3:54 | 2023-02-23 | 2023-04-26 |
+| [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 | 2025-06-04 |  |
 | [Wish You Well \(Feat\. Bernard Fanning\)](https://open.spotify.com/track/18DoMepvkwmJk4CPH0HCbk) | [Baker Boy](https://open.spotify.com/artist/6Qpa8xhGsGitz4WBf4BkpK), [Bernard Fanning](https://open.spotify.com/artist/0afemm9P2Bb2LL99xHY32n) | [Wish You Well \(Feat\. Bernard Fanning\)](https://open.spotify.com/album/2xd07PANaM6jBT50rfG50U) | 2:50 | 2024-03-19 | 2025-03-18 |
 | [With You](https://open.spotify.com/track/0Ew7NkseJTFtiFselBmFg1) | [Haris](https://open.spotify.com/artist/6tE3YSDrBq015UZTxh9Zki) | [With You](https://open.spotify.com/album/4y8kGaY6DtdPQ6xWVbzKh4) | 3:39 | 2023-02-23 | 2024-11-05 |
 | [Won't You Stay](https://open.spotify.com/track/3xSBlzT8N3WTXK5phOTIiQ) | [Michael Asnot](https://open.spotify.com/artist/1TfbvyIkRpQHY0JIsX4nuL) | [Won't You Stay](https://open.spotify.com/album/0UMogPftzVp0O5CUkOEr0b) | 2:52 | 2024-09-27 |  |

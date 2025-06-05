@@ -1,12 +1,12 @@
 {
   "description": "Paris c'est magique, c'est trop ma ville, \u00e7a bouge de tous les c\u00f4t\u00e9s #fyp\n",
-  "num_followers": 747442,
+  "num_followers": 748673,
   "original_name": "t'as la ref ?",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD23xgAAAABUBD1i1dNg3e65BgeKqY80",
+  "snapshot_id": "aEBkYwAAAACtH2sZLw2dlTNv1qLbQsrj",
   "tracks": [
     {
       "added_at": "2025-04-15 10:15:06",
@@ -215,6 +215,38 @@
       "duration_ms": 178533,
       "name": "ALICANTE",
       "url": "https://open.spotify.com/track/5BII2RgPk98nXOajxZrODH"
+    },
+    {
+      "added_at": "2025-06-04 15:21:07",
+      "album": {
+        "name": "Charo Life",
+        "url": "https://open.spotify.com/album/0nO1lieZiO2JTY4dqABRQB"
+      },
+      "artists": [
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        },
+        {
+          "name": "Rako",
+          "url": "https://open.spotify.com/artist/57UNBGWy1iDPVEgSLrBxko"
+        },
+        {
+          "name": "Brigi",
+          "url": "https://open.spotify.com/artist/3Nmgu8A2HfCYSZiAVbTVpc"
+        },
+        {
+          "name": "Trafiquinte",
+          "url": "https://open.spotify.com/artist/5HdWyNYybG0xZOdJOShrd6"
+        },
+        {
+          "name": "Madrane",
+          "url": "https://open.spotify.com/artist/7M2ZGRhAsmh4On0JlVEyCX"
+        }
+      ],
+      "duration_ms": 262146,
+      "name": "Matuidi Charo (PSG)",
+      "url": "https://open.spotify.com/track/2CLe4twLMtjKwWzRYzGaIA"
     },
     {
       "added_at": "2025-05-29 22:00:37",
@@ -1539,30 +1571,6 @@
       "duration_ms": 215600,
       "name": "Mai",
       "url": "https://open.spotify.com/track/2qRMnItMLesizxbPqIwcSm"
-    },
-    {
-      "added_at": "2025-03-28 11:40:53",
-      "album": {
-        "name": "Ride Or Die, Pt. 2",
-        "url": "https://open.spotify.com/album/0KSwPzRWwU14SH8QUCwfM0"
-      },
-      "artists": [
-        {
-          "name": "Sevdaliza",
-          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
-        },
-        {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
-        },
-        {
-          "name": "Tokischa",
-          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
-        }
-      ],
-      "duration_ms": 158728,
-      "name": "Ride Or Die, Pt. 2 (with Villano Antillano & Tokischa)",
-      "url": "https://open.spotify.com/track/5oYVxFt2k4SkVp6wzVsFWN"
     },
     {
       "added_at": "2025-04-25 12:28:05",

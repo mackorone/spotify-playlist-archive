@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Jdbs4.md) - [plain]
 
 > This is Bobby Pulido\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,514 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,526 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Jdbs4.md) - [plain]
 | 49 | [Cumbia Vallenata](https://open.spotify.com/track/0Auf3tyYKtcf7tUX3K6kbH) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Bobby](https://open.spotify.com/album/6om6MJErxB1lRwPK6VxChD) | 3:16 |
 | 50 | [Besos y Copas \- En Vivo](https://open.spotify.com/track/3MAWsYmDfawjCo7oHOwFqB) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg), [Alicia Villarreal](https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn) | [Besos y Copas \(En Vivo\)](https://open.spotify.com/album/3n0WJn6V2aE0HoUYgB0Rvd) | 3:07 |
 
-Snapshot ID: `aDzpgAAAAAAr0MKcX6dzeDFJhyqrbFMF`
+Snapshot ID: `aD47AAAAAABkbJNxJE9lbNV+A5olH1d0`

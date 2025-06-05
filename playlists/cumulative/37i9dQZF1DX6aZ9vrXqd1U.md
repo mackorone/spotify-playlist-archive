@@ -4,7 +4,7 @@
 
 > Enjoy music from GUNDAM series! ©創通・サンライズ
 
-361 songs - 1 day 0 hr 44 min
+362 songs - 1 day 0 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [ETERNAL WIND ～ほほえみは光る風の中～](https://open.spotify.com/track/17aPi5ECRAHKv1514TS5vK) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [ETERNAL SONGS Ⅱ](https://open.spotify.com/album/5OCkvfHPhvPTSwuBjz5fAg) | 4:45 | 2024-01-27 | 2024-04-19 |
 | [ETERNAL WIND\~Hohoemi wa Hikaru\-Kaze no Naka\~](https://open.spotify.com/track/3NKoasBeBI1XBlau8zr8bD) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [ETERNAL WIND\~Hohoemi wa Hikaru\-Kaze no Naka\~](https://open.spotify.com/album/6c5jjGBbSPmrTVIL6nHdbH) | 4:45 | 2023-04-21 | 2024-02-17 |
 | [ETERNAL WIND～ほほえみは光る風の中～](https://open.spotify.com/track/0oujcSEZBOPlydWvuendv5) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [ETERNAL WIND～ほほえみは光る風の中～](https://open.spotify.com/album/7JMmZna6FAjM1jzZtucxOw) | 4:45 | 2022-07-27 |  |
+| [Event Horizon](https://open.spotify.com/track/1hHkOBpuly0rAoFuKWy5CM) | [Momoiro Clover Z](https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN) | [Event Horizon](https://open.spotify.com/album/5umDF5oA8I7SOntiv6GKWD) | 3:54 | 2025-06-04 |  |
 | [Evergreen](https://open.spotify.com/track/4CHhKeFXVwFXRtNL1vim6S) | [MIO](https://open.spotify.com/artist/7xS1kMp7pTwOKAB5jRCFRh) | [Evergreen](https://open.spotify.com/album/3JMe5yYrT8ZPKvfwiI9JAe) | 4:52 | 2022-07-27 | 2023-06-10 |
 | [Evergreen](https://open.spotify.com/track/6CkNrJGdibswnhcEjEyfIJ) | [MIO](https://open.spotify.com/artist/7xS1kMp7pTwOKAB5jRCFRh) | [Evergreen](https://open.spotify.com/album/10S8wzzcriaKK86Ea04XOb) | 4:52 | 2023-04-21 | 2024-01-12 |
 | [Fields of hope](https://open.spotify.com/track/2PslNnE0b0Shtx38S5czN1) | [Lacus Clyne \(CV: Rie Tanaka\)](https://open.spotify.com/artist/1aoUdHLSeRNO6NEM7P4RMH) | [Fields of hope](https://open.spotify.com/album/6aI9kR12kkx1YRzRoCBk6E) | 5:09 | 2024-01-11 | 2024-04-19 |

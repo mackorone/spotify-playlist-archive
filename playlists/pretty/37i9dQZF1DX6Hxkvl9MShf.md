@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Hxkvl9MShf.md) - [plain]
 
 > Melodic house and techno to concentrate the mind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,704 likes - 99 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,770 likes - 99 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Hxkvl9MShf.md) - [plain]
 | 98 | [Lonely Night](https://open.spotify.com/track/7kvs3o12r8O88rJL727YWB) | [Paige](https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w), [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC) | [Lonely Night](https://open.spotify.com/album/5SijFh7slOdvypBK269Be6) | 4:18 |
 | 99 | [Renegade \- Adam Ten & Mita Gami Remix](https://open.spotify.com/track/1DdpxHPTsrivn3X0KumOQz) | [Parallelle](https://open.spotify.com/artist/4j2NOrZwtpyVrtrCXsKsag), [Nicolas Masseyeff](https://open.spotify.com/artist/53I5TvFOdroD7UzOlZjtRv), [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [Mita Gami](https://open.spotify.com/artist/6Y9N9gdo5jpzGsExWDymS8) | [Renegade EP](https://open.spotify.com/album/6dgVJGpji0wnAeEt6xc9PA) | 5:33 |
 
-Snapshot ID: `aCjehwAAAACqRc3Srlq0Z7ncuYgIRWOd`
+Snapshot ID: `AAAAANqh/YxJKSQVnRQOQy9vmg9tGcx3`

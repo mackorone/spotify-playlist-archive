@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RrjZR06viH.md) - [plain]
 
 > Sommeren er her!🍹
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,837 likes - 85 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,851 likes - 85 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

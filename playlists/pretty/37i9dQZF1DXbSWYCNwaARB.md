@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSWYCNwaARB.md) - [plain]
 
 ### [Girl Krush](https://open.spotify.com/playlist/37i9dQZF1DXbSWYCNwaARB)
 
-> All your girl crushes\(걸크러쉬\) in one place\. \(Cover: IRENE&SEULGI \(아이린&슬기\)\)
+> All your girl crushes\(걸크러쉬\) in one place\. \(Cover: 유아유\(UAU\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 892,711 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 892,710 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [TILT](https://open.spotify.com/track/1etiDVN61JMXErlRMia2oR) | [Red Velvet \- IRENE & SEULGI](https://open.spotify.com/artist/6bwp9ObI8FWvMPCIWVBmhl) | [TILT \- The 2nd Mini Album](https://open.spotify.com/album/706xdC5SJBOk85HoJSFJeq) | 3:04 |
+| 1 | [2 Months](https://open.spotify.com/track/1ayDPLiUj3blLqVkVufY0X) | [UAU](https://open.spotify.com/artist/3zfokQW0XScTuGtTQkl682) | [Playlist \#You Are You](https://open.spotify.com/album/0Z9CrKIgLP09vWer1NGZBJ) | 2:27 |
 | 2 | [Good Thing](https://open.spotify.com/track/7smHxl3Ga5qJ4LL5pjZPZZ) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [We are](https://open.spotify.com/album/6yawSZpyFEU0wPKhXcEIHI) | 2:34 |
 | 3 | [Gnarly](https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gnarly](https://open.spotify.com/album/25oD4E4cwmG7SCQIoF3ez5) | 2:17 |
-| 4 | [2 Months](https://open.spotify.com/track/1ayDPLiUj3blLqVkVufY0X) | [UAU](https://open.spotify.com/artist/3zfokQW0XScTuGtTQkl682) | [Playlist \#You Are You](https://open.spotify.com/album/0Z9CrKIgLP09vWer1NGZBJ) | 2:27 |
+| 4 | [TILT](https://open.spotify.com/track/1etiDVN61JMXErlRMia2oR) | [Red Velvet \- IRENE & SEULGI](https://open.spotify.com/artist/6bwp9ObI8FWvMPCIWVBmhl) | [TILT \- The 2nd Mini Album](https://open.spotify.com/album/706xdC5SJBOk85HoJSFJeq) | 3:04 |
 | 5 | [DROP TOP](https://open.spotify.com/track/2QmoGPYjajOOCtiv3wQseI) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [MY EYES OPEN VVIDE](https://open.spotify.com/album/0PdpYy9Pe9vZkiDtCMnXRV) | 3:15 |
 | 6 | [HANDS UP](https://open.spotify.com/track/5nMZZAx81447SskgOnuRIe) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [HANDS UP](https://open.spotify.com/album/4M9CaTcousQCoKSz7X2HSQ) | 3:12 |
 | 7 | [HOT](https://open.spotify.com/track/406IpEtZPvbxApWTGM3twY) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT](https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2) | 2:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSWYCNwaARB.md) - [plain]
 | 49 | [I CAN'T STOP ME](https://open.spotify.com/track/37ZtpRBkHcaq6hHy0X98zn) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 3:25 |
 | 50 | [Midas Touch](https://open.spotify.com/track/0vaxYDAuAO1nPolC6bQp7V) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Midas Touch](https://open.spotify.com/album/1HfTA0xDoZ0mswFO3GB3ef) | 2:42 |
 
-Snapshot ID: `aDbU+wAAAACr3tx5jLqfQLuuaqPsXZT/`
+Snapshot ID: `aEACvQAAAADgWa6AbgqOYdpeory9ONwH`

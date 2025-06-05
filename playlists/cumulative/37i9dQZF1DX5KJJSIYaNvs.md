@@ -2,7 +2,7 @@
 
 ### [EQUAL India](https://open.spotify.com/playlist/37i9dQZF1DX5KJJSIYaNvs)
 
-> Listen to women at full volume\. Cover \- Dhvani Bhanushali
+> Listen to women at full volume\. Cover \- Neeti Mohan
 
 520 songs - 1 day 7 hr 27 min
 

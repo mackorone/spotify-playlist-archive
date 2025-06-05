@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: The Rose\(더 로즈\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-961 songs - 2 day 10 hr 44 min
+962 songs - 2 day 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,7 @@
 | [Diamond](https://open.spotify.com/track/5ZmmsJEfOJu5b7JzsLsjFT) | [9duck](https://open.spotify.com/artist/5qGrtWZ90pILRYjvawmTro) | [My Liberation Notes OST Part 8](https://open.spotify.com/album/4TPylqoJdF8ELf8IwTrquV) | 3:04 | 2022-05-24 | 2022-06-21 |
 | [DIAMOND](https://open.spotify.com/track/6uGQf0XAjHkXooeSk3fFAB) | [The VANE](https://open.spotify.com/artist/2zWjCnsFalXdhQ2jxb29Hw) | [DIAMOND](https://open.spotify.com/album/7KE2RqHy21ZGDYNoNCTdw5) | 5:24 | 2022-09-05 | 2022-10-01 |
 | [Diary](https://open.spotify.com/track/3vQsUy6jyZpmc0N4EVQ040) | [COOMO](https://open.spotify.com/artist/1nl4mXUCxItd93nVFI76sX) | [Diary](https://open.spotify.com/album/284VUSuILmOtajZTNXjpeq) | 2:53 | 2024-04-09 | 2024-05-10 |
-| [Discord](https://open.spotify.com/track/2kTKlEtnGx5z8oi4O06yqC) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [1st Single Album 'Harmony from Discord'](https://open.spotify.com/album/0AmeepTU81c9ghVpJpacNc) | 2:47 | 2023-10-18 |  |
+| [Discord](https://open.spotify.com/track/2kTKlEtnGx5z8oi4O06yqC) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [1st Single Album 'Harmony from Discord'](https://open.spotify.com/album/0AmeepTU81c9ghVpJpacNc) | 2:47 | 2023-10-18 | 2025-06-05 |
 | [DIVE](https://open.spotify.com/track/7CBnUjo3qL7c8p129PFqzb) | [Jinyoung](https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7) | [DIVE](https://open.spotify.com/album/4uyM4cCQB9dS18W7YQ1MaH) | 3:19 | 2022-04-12 | 2023-08-24 |
 | [Dive](https://open.spotify.com/track/7yNK1wbcoFYckChKRRWuny) | [TOMMIER](https://open.spotify.com/artist/5Ew54mXT7GnPjS29Z4RVpg) | [Dive](https://open.spotify.com/album/3m0EapQi3Q4YAVaW1RIOeD) | 3:41 | 2022-04-21 | 2022-05-31 |
 | [Do](https://open.spotify.com/track/6tStqbjbMdMRzRWWNvlnqI) | [Chang Kiha](https://open.spotify.com/artist/2kppzekGp379T3M56GYd7d) | [Do / Do or Don't](https://open.spotify.com/album/3se0GBdgs53DJXR7CJb9l6) | 3:41 | 2023-04-05 | 2023-04-15 |
@@ -231,7 +231,7 @@
 | [Euphoria \(Feat\. 123, Milena\)](https://open.spotify.com/track/32oDQqwLzv074PThEuBVpp) | [Minit](https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m), [123](https://open.spotify.com/artist/1cy1oWKlBfDuxBvo9ZiodY), [Milena](https://open.spotify.com/artist/2DMUCQ7G60U498FYCe1lvk) | [Euphoria \(Feat\. 123, Milena\)](https://open.spotify.com/album/6r2MYiNYGJkixMSlWO9sWp) | 3:14 | 2022-05-03 | 2022-07-24 |
 | [EUROPA](https://open.spotify.com/track/4W4VAVZneeUiwApBDFFMoB) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [EUROPA](https://open.spotify.com/album/5yMQGkOurBkgYa6f1vDof9) | 2:51 | 2023-07-24 | 2023-08-18 |
 | [Evening Glow](https://open.spotify.com/track/1Yuua9AnSRDl0taHxpVNzM) | [Dayangsung](https://open.spotify.com/artist/3nVkLQWe6gkgmqia9kl89z) | [A World Full Of Paper Planes & Balloons](https://open.spotify.com/album/5QlrdfNsruHMELFrb9xEDd) | 3:41 | 2022-09-30 | 2022-10-19 |
-| [Event Horizon](https://open.spotify.com/track/6RBziRcDeiho3iTPdtEeg9) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [YOUNHA 6th Album Repackage 'END THEORY : Final Edition'](https://open.spotify.com/album/63mur6I6yCG9cOxOst3i7c) | 5:00 | 2022-04-12 |  |
+| [Event Horizon](https://open.spotify.com/track/6RBziRcDeiho3iTPdtEeg9) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [YOUNHA 6th Album Repackage 'END THEORY : Final Edition'](https://open.spotify.com/album/63mur6I6yCG9cOxOst3i7c) | 5:00 | 2022-04-12 | 2025-06-05 |
 | [EVER](https://open.spotify.com/track/7kZDgpf6ebA3dlgt0vdRv2) | [Hebi](https://open.spotify.com/artist/0hJZEIh0mcRY6wl5LAlpDv) | [EVER](https://open.spotify.com/album/6Hd2ZOJ8Lt8ePovI7ZFpTw) | 3:21 | 2025-03-31 | 2025-04-12 |
 | [Everlasting](https://open.spotify.com/track/2WBN1JHsM6jVzEqRGsjz1z) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [Everlasting](https://open.spotify.com/album/2JAijBbqdC7WGqqcpTE17D) | 4:17 | 2025-05-28 |  |
 | [Extinction](https://open.spotify.com/track/7ophvrIUAHSbf0uCEb5TzB) | [THORNAPPLE](https://open.spotify.com/artist/6S4fsREHT1NEjTb3lYD2pG) | [Animal](https://open.spotify.com/album/4ZALM5WKnmqL1sJouAAFqw) | 4:44 | 2023-08-29 | 2023-10-12 |
@@ -792,7 +792,7 @@
 | [Tempest](https://open.spotify.com/track/4RTeOflkCNdBmJymYk2JJj) | [Huckleberryfinn](https://open.spotify.com/artist/4HWH9BmIaKteAv5RmqWeZa) | [The Devil Judge \(Original Television Soundtrack\)](https://open.spotify.com/album/7dt9sjnoSCVuU4SLnHeFeG) | 4:29 | 2022-05-03 | 2022-07-09 |
 | [That Summer And The Sea](https://open.spotify.com/track/6If1ehcUnAxYI8PfIR3bw0) | [KYUDO](https://open.spotify.com/artist/3rxwS5AqVLUJ775AqSoRDf) | [That Summer And The Sea](https://open.spotify.com/album/03FFrwtrZqixtyp853CB8E) | 5:56 | 2024-11-06 | 2024-12-04 |
 | [That’s all](https://open.spotify.com/track/7tvls0s6SWA9KTEBcrj1RN) | [Yoo Yong Min](https://open.spotify.com/artist/7kDZYNuHj9RBMCJzIrxrme) | [That’s all](https://open.spotify.com/album/7nrWwUHACD51HLQDf1B3PB) | 4:37 | 2025-02-18 | 2025-03-18 |
-| [The 6th Summer](https://open.spotify.com/track/1lODrFR40rSNAw5cX4j2J2) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [ASTERUM : The Shape of Things to Come](https://open.spotify.com/album/0BlLhv46UtmO6UodMnwaYF) | 3:43 | 2023-08-28 | 2025-06-03 |
+| [The 6th Summer](https://open.spotify.com/track/1lODrFR40rSNAw5cX4j2J2) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [ASTERUM : The Shape of Things to Come](https://open.spotify.com/album/0BlLhv46UtmO6UodMnwaYF) | 3:43 | 2023-08-28 |  |
 | [The Answer](https://open.spotify.com/track/6gnCg6Z7WcJ9qt8idMWiaj) | [DAYBREAK](https://open.spotify.com/artist/1uMhweBMKu7nA1IgFc0yN2), [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [daybreak X LUCY : Part.1](https://open.spotify.com/album/7k74Ulb6AeAPYPkUFVntyu) | 3:34 | 2022-04-12 | 2022-07-29 |
 | [The Assignment Song](https://open.spotify.com/track/6AZqC0amAg49hiTk67DWxL) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [The Assignment Song](https://open.spotify.com/album/772jJk9bGdOZB6k6uCWHGE) | 3:49 | 2022-05-02 | 2022-07-17 |
 | [THE BEACON OF HOPE](https://open.spotify.com/track/2ebSlHQJJBhkFZBJN9HJ5A) | [데이먼스 이어 Damons year](https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus) | [THE BEACON OF HOPE](https://open.spotify.com/album/3k86I5vdCvxf2VdUxAGPpv) | 4:44 | 2024-11-20 | 2025-03-25 |
@@ -897,6 +897,7 @@
 | [Wild Flower](https://open.spotify.com/track/4pT0CQMdBUXa6m9hIO1Rm9) | [THE SOLUTIONS](https://open.spotify.com/artist/5fwYrHN92VR90PJQ11ybJ8) | [Wild Flower \(Kim Seong\-geun's Winter Vacation X THE SOLUTIONS\) \[Original Soundtrack\]](https://open.spotify.com/album/3xM4PS68um9nTMv8UYXaSL) | 3:51 | 2025-03-04 | 2025-03-18 |
 | [Wind Blows](https://open.spotify.com/track/3xml6p9dSyY4hVPF6UGtdc) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Dystopia : Road to Utopia\]](https://open.spotify.com/album/6ECUAXThxlRHQ1JPUQJQJG) | 3:17 | 2022-05-03 | 2022-06-22 |
 | [WINDFALL](https://open.spotify.com/track/4vDQif49Q72QYDvv6wY3Jm) | [Batu](https://open.spotify.com/artist/46KDmhUlDVGGuku0s3n06t) | [EMOTION AND HARMONY](https://open.spotify.com/album/03ikfIg0GxnNMlFl6wlKLi) | 4:43 | 2022-10-02 | 2022-10-19 |
+| [wing](https://open.spotify.com/track/0p4OOOcnvqlAeg4ZC1hpKG) | [The Stray](https://open.spotify.com/artist/7CedIKpt1GTubqlwD149d6) | [wing](https://open.spotify.com/album/6spb6NqhJ6knea1WA151WV) | 2:53 | 2025-06-05 |  |
 | [Wings](https://open.spotify.com/track/3LTpV2o1uer2BJ3RlbauKz) | [IRISÉ](https://open.spotify.com/artist/0QQS9kR4qcFg7PLwr3JHgN) | [Wings](https://open.spotify.com/album/1KoXOE4p1UonlE2Q3I1WYb) | 3:08 | 2025-02-18 | 2025-03-18 |
 | [Wings](https://open.spotify.com/track/2X9h9oIzIjv82bTLYDIvjQ) | [LETO](https://open.spotify.com/artist/285lBSkYP90rbAfrASyMnQ) | [Wings](https://open.spotify.com/album/6BnVGBspQY6A12s8mXHqSS) | 3:59 | 2025-02-18 | 2025-03-18 |
 | [Winner](https://open.spotify.com/track/0XrldzaasptUorNkvoOQWU) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [CONNECTION](https://open.spotify.com/album/4JcUtBRZFtwYbhr2CZChcH) | 3:03 | 2025-01-08 | 2025-04-12 |

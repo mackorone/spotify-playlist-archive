@@ -2,9 +2,9 @@
 
 ### [KrOWN](https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB)
 
-> The fresh & hottest K\-Hip hop tracks\. \(Cover:<br/>Dabin\(홍다빈\)\)
+> The fresh & hottest K\-Hip hop tracks\. \(Cover:<br/>Owen\(오왼\)\)
 
-1,535 songs - 3 day 10 hr 55 min
+1,537 songs - 3 day 11 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1288,6 +1288,7 @@
 | [Tango \(Feat\. CAMO, Ourealgoat\) \(Prod\. Way Ched\)](https://open.spotify.com/track/1y6zQbzb5hyvCsjDR8ka6n) | [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr), [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF), [Ourealgoat](https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1) | [Time Table \- The Trip](https://open.spotify.com/album/5XrdPk3JCyE2QVUNeHcfxg) | 3:51 | 2021-12-29 | 2022-07-08 |
 | [Tap Tap Tap \(feat\. BOBBY\)](https://open.spotify.com/track/0gZLrERC3cxIdQME2PNw6m) | [REDDY](https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v), [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS) | [Tap Tap Tap \(feat\. BOBBY\)](https://open.spotify.com/album/1ZJGg7eDhUhlMegDGhGBmV) | 2:42 | 2023-07-18 | 2024-01-06 |
 | [TASTE \(feat\. Tabber\)](https://open.spotify.com/track/1RfpiN8GKqEES1EhbJpv3u) | [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [vangdale](https://open.spotify.com/artist/2lLe2zAxFPSHnAQdarRYFb), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Tabber](https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU) | [KCTAPE, Vol\. 2](https://open.spotify.com/album/2hFmjRT4DsRquVvV1oQZJ2) | 2:43 | 2024-07-31 | 2024-11-21 |
+| [Tasty \(Feat\. Hash Swan\)](https://open.spotify.com/track/7taO0KwT0XClF20ueI7KT6) | [Nosun](https://open.spotify.com/artist/0BHYZCuuyLl53LVgeC3pUa), [Hash Swan](https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg) | [Exit Wounds](https://open.spotify.com/album/5U2gLisF6YBhdDhK9uJ1Re) | 2:52 | 2025-06-05 |  |
 | [Tasty x Tasty](https://open.spotify.com/track/6ubzgznl4lqaCYV2kd7ewv) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [Tasty x Tasty](https://open.spotify.com/album/0edv4ueAsyeQ7uYnIG6ddF) | 2:49 | 2022-10-14 | 2023-03-25 |
 | [Tattoo \(feat\. Jayci yucca, YongYong\)](https://open.spotify.com/track/7wMQDZtqHDxNnQNXitRfZG) | [Minit](https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m), [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM), [YongYong](https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK) | [\#LOVEMEORHATEME](https://open.spotify.com/album/3UIen3gIyymppgXGLjc5xk) | 3:15 | 2022-08-01 | 2022-08-19 |
 | [TAXI \(Feat\. gyun, RB NINE\)](https://open.spotify.com/track/7fWriiUKbUCeX12SDAjCtE) | [Touch the Sky](https://open.spotify.com/artist/5DimH6eLRBfesct7V25Juk), [gyun](https://open.spotify.com/artist/6VCKn1xDNfsGomHvkG5EFF), [RB NINE](https://open.spotify.com/artist/79tuyMDO42MRFpm8gOXn7p) | [Wanju 2 Seoul](https://open.spotify.com/album/0yElXJbxEu1rJH1Kf0KC07) | 3:21 | 2022-12-20 | 2022-12-28 |
@@ -1459,6 +1460,7 @@
 | [Wild Flower \(with youjeen\)](https://open.spotify.com/track/1AZjCZSGEjlxUufFQwSszF) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs), [Youjeen](https://open.spotify.com/artist/4wVcCedmr7FHtUlFnIeJIG) | [Indigo](https://open.spotify.com/album/2wGinO7YWLHN2sULIr4a7v) | 4:33 | 2022-12-14 | 2023-03-28 |
 | [Wild Mess \(Feat\. XINSAYNE\)](https://open.spotify.com/track/3nyocYbiiwRQzpdg5pqjt5) | [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU), [XINSAYNE](https://open.spotify.com/artist/4yY3FsmWRwMIFXRDkMpnBS) | [MODM 2 : The Bento Knight](https://open.spotify.com/album/6tPGbMlyE8TfgpsuY1z4rV) | 3:12 | 2024-10-14 | 2025-01-02 |
 | [WIN](https://open.spotify.com/track/3h7iRort6R0M8qIl1LgBbI) | [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN) | [WIN \(THE SOLDIERS X Simon Dominic\)](https://open.spotify.com/album/0aYZG2KFj0UV2OYpa5HAOS) | 3:09 | 2021-12-21 | 2022-06-11 |
+| [Windows](https://open.spotify.com/track/0xRttor4u8kuCuXxSilrWe) | [Nosun](https://open.spotify.com/artist/0BHYZCuuyLl53LVgeC3pUa) | [Exit Wounds](https://open.spotify.com/album/5U2gLisF6YBhdDhK9uJ1Re) | 2:48 | 2025-06-05 |  |
 | [WING \(feat\. CK\)](https://open.spotify.com/track/4j2mNJUDvI4CMkOoxIs3qA) | [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616), [CK](https://open.spotify.com/artist/18BQUbq4XCDInT5wWN54O8) | [THE SOLOEST](https://open.spotify.com/album/7ytuR23cmbdxlFFBtmRd5T) | 2:53 | 2023-11-08 | 2024-03-09 |
 | [WINNER \(feat\. ASH ISLAND\)](https://open.spotify.com/track/0EUPVKyimfNPxAkF9bNCNx) | [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [LOVE & FIGHT](https://open.spotify.com/album/4fVtbWVZ9WIyuOc6cXKH1V) | 2:54 | 2022-02-08 | 2022-07-04 |
 | [wisdom tooth](https://open.spotify.com/track/671eZOlTnyZgX0V7VPXZiw) | [COCONA](https://open.spotify.com/artist/5UukZH6jYHqTwLSSWGj7FN) | [wisdom tooth](https://open.spotify.com/album/2GPZgGFTgaOkyq1KgBBxSl) | 1:42 | 2024-10-08 | 2024-10-24 |

@@ -204,7 +204,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-04",
+      "date_removed": null,
       "duration_ms": 153750,
       "name": "111",
       "url": "https://open.spotify.com/track/2SPBFiD8iITb8CKJGz1TEQ"
@@ -3054,7 +3054,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 212413,
       "name": "BANDIDA",
       "url": "https://open.spotify.com/track/1vvWri6BpgA6Pqz6JixNFa"
@@ -10302,7 +10302,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-21",
+      "date_removed": null,
       "duration_ms": 462561,
       "name": "ETA - RMX",
       "url": "https://open.spotify.com/track/3YrTrs2hJbLklaBdhr4TrH"
@@ -24854,7 +24854,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 191018,
       "name": "Qu\u00e9 Pasar\u00eda...",
       "url": "https://open.spotify.com/track/0l0vcZMU7AOeQmUIREoI2U"
@@ -28180,7 +28180,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 218305,
       "name": "SOLEAO",
       "url": "https://open.spotify.com/track/3jAshemiRYWukWLtT3Ivrb"
@@ -32286,7 +32286,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 208743,
       "name": "VITAMINA",
       "url": "https://open.spotify.com/track/0DMJz677XfXiiruhIELu2e"
@@ -33147,6 +33147,28 @@
     },
     {
       "album": {
+        "name": "Woy",
+        "url": "https://open.spotify.com/album/2JkcMT5sw72hYSRV7hNKCn"
+      },
+      "artists": [
+        {
+          "name": "Josuan",
+          "url": "https://open.spotify.com/artist/4I8dxVJ518Fc8xqfIilTeU"
+        },
+        {
+          "name": "Eshconinco",
+          "url": "https://open.spotify.com/artist/4GcktEVE1rB4Kyv1woxUrx"
+        }
+      ],
+      "date_added": "2025-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204190,
+      "name": "Woy",
+      "url": "https://open.spotify.com/track/3UB1zEUQBh9Ff1emup6gvW"
+    },
+    {
+      "album": {
         "name": "WYA",
         "url": "https://open.spotify.com/album/510YwmkYmdNRSYPQSxDV2O"
       },
@@ -33702,7 +33724,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-04",
+      "date_removed": null,
       "duration_ms": 129705,
       "name": "Yo s\u00e9",
       "url": "https://open.spotify.com/track/5DdLSEyKh8zgCrJq2hFj92"

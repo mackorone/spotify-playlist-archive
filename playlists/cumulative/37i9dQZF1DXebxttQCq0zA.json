@@ -9435,6 +9435,24 @@
     },
     {
       "album": {
+        "name": "Zephira",
+        "url": "https://open.spotify.com/album/4OoLVP21lpDtYNYpQjx8Yb"
+      },
+      "artists": [
+        {
+          "name": "Celestial Aura",
+          "url": "https://open.spotify.com/artist/7LsUHcMzywHjrdzx759ZcV"
+        }
+      ],
+      "date_added": "2025-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Zephira",
+      "url": "https://open.spotify.com/track/2h2EHxnbJu1mmpmioWUaxl"
+    },
+    {
+      "album": {
         "name": "\u68a6\u8776 - Dream to be a butterfly",
         "url": "https://open.spotify.com/album/4j2aVL8FxwYDS92E0yyUbg"
       },

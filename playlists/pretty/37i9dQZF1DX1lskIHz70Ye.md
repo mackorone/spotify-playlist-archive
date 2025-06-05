@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lskIHz70Ye.md) - [plain]
 
 > Piezas acústicas para cenar a la luz de las velas con alguien especial.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,506 likes - 82 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,522 likes - 82 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lskIHz70Ye.md) - [plain]
 | 81 | [Por Mi Algun Dia Vendras](https://open.spotify.com/track/51FyeJufmEKsnAvs0UXfpw) | [Los Suculentos](https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN) | [Por Mi Algun Dia Vendras](https://open.spotify.com/album/6W9Mi99vA15orWdmxqptJu) | 3:03 |
 | 82 | [El Banco De La Plaza](https://open.spotify.com/track/4dvP23JMvMggnNx9SWSL1d) | [Los Viajantes](https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ) | [El Banco De La Plaza](https://open.spotify.com/album/5eczeMrsbmQ7eMcDEy7od3) | 4:37 |
 
-Snapshot ID: `AAAAAJ8FxWiaPY6L+JKn+jxmSmsO7m7d`
+Snapshot ID: `aDbn9QAAAADd2DfcHLTHdTSoLmNA96BG`

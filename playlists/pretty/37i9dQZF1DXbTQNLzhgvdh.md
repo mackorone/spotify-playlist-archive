@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTQNLzhgvdh.md) - [plain]
 
 > bolsa birkin me pegué un tiro pa comprarla, tu vales eso y más ❤️‍🔥💐✨💸
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,894 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,999 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTQNLzhgvdh.md) - [plain]
 | 99 | [TÚ NAME](https://open.spotify.com/track/3FqUPvubYeRCMsdJ02QyZR) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Dolido Pero No Arrepentido](https://open.spotify.com/album/5WPTc1Xa8REVDQ5YazhNgv) | 2:32 |
 | 100 | [Canción](https://open.spotify.com/track/5ghhbjOImKADh2guhxUivo) | [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r) | [Canción](https://open.spotify.com/album/60XsCvdDOnGsXj7uJlbZZB) | 3:25 |
 
-Snapshot ID: `Z9RRzwAAAAC6BI13+XV4w7sHrptQvypy`
+Snapshot ID: `AAAAALWUVC+oZatP+34kcf5UkYRyJPlQ`

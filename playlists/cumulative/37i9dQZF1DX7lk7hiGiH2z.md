@@ -4,7 +4,7 @@
 
 > Zeit für Plantschen, Eis & Freibadpommes.
 
-462 songs - 21 hr 36 min
+463 songs - 21 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Das rote Pferd](https://open.spotify.com/track/1t5E8PFRGX9XJGsRWBVOEd) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Kinderlieder für Karneval und Fasching \- EP](https://open.spotify.com/album/3I7arjO3aIZ8rwLdLJChzF) | 1:40 | 2024-02-10 | 2025-03-06 |
 | [Das Schneeglöckchen](https://open.spotify.com/track/6LfAr70Pm7LzeQhZXCWKFu) | [Katharina Blume](https://open.spotify.com/artist/0TlcU6fYXkRWNSENlFSl4Y), [Christian König](https://open.spotify.com/artist/6Dgp0ZVwXyJx6M0Na3jTLK) | [Die 40 besten Fingerspiel\-Lieder](https://open.spotify.com/album/2VchLiBoh6mOEH6CnEt4Dq) | 1:06 | 2024-03-01 | 2025-04-15 |
 | [Das singende Känguru](https://open.spotify.com/track/5OlmZ9ZHOUREPYqa81fZFo) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Partylieder für Kinder](https://open.spotify.com/album/1yu8g81F2kZ96GM5rw5Y5Y) | 3:25 | 2024-02-06 | 2025-03-06 |
-| [Das Sommertier](https://open.spotify.com/track/7zqWKN7UOLNHVBP7a22gm9) | [Hurra Kinderlieder](https://open.spotify.com/artist/0tvF8WneD5ortg902Tnm1a) | [Das Sommertier](https://open.spotify.com/album/6UrVYi2MFIOvkwH2pcshrz) | 2:27 | 2023-06-28 |  |
+| [Das Sommertier](https://open.spotify.com/track/7zqWKN7UOLNHVBP7a22gm9) | [Hurra Kinderlieder](https://open.spotify.com/artist/0tvF8WneD5ortg902Tnm1a) | [Das Sommertier](https://open.spotify.com/album/6UrVYi2MFIOvkwH2pcshrz) | 2:27 | 2023-06-28 | 2025-06-05 |
 | [Das Spukhaus in der Siedlung](https://open.spotify.com/track/6gnVw7Sxpxt8D64CZM5hjv) | [Autoscooter Joe](https://open.spotify.com/artist/5BBLRqJIzCbM8ESlNFSqV7) | [Das Spukhaus in der Siedlung](https://open.spotify.com/album/3z03DJIRM6mWVR4CqMYlQP) | 1:53 | 2024-10-25 | 2024-11-05 |
 | [Das Stopptanz Lied](https://open.spotify.com/track/2VLjKFmoIcfRHSviWzVBqo) | [Lichterkinder](https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv) | [Tanz\- und Partylieder](https://open.spotify.com/album/2IWE2VDOZIIbN7wTVPZF8R) | 2:22 | 2024-02-06 | 2025-03-06 |
 | [Das tanzende Alpaka \(Alpaka Song\)](https://open.spotify.com/track/6HA0YUji2p8YD9VZ4jnd3z) | [Der singende Bauernhof](https://open.spotify.com/artist/1phaLooaZs3k7XOl7mCKeo), [Otti Stubs](https://open.spotify.com/artist/6lHHUYCm8z6Ufox7tb54mB) | [Willkommen auf dem singenden Bauernhof](https://open.spotify.com/album/7GG2q94m8WC2EHoQVo84dD) | 2:10 | 2024-03-01 | 2024-04-19 |
@@ -293,6 +293,7 @@
 | [Li\-la\-Lichterfest](https://open.spotify.com/track/6Ghfx94nfsrGk1u19gNBZ6) | [Sandra Lierz](https://open.spotify.com/artist/4hG4b1ak7Az0ODldHsHM8d), [Andreas Schoba: Kinderlieder einfach handgemacht](https://open.spotify.com/artist/3Av62xzOXjxLZ4XAt1V911) | [Li\-la\-Lichterfest](https://open.spotify.com/album/4QNw5XjBJWpzN3pYkR2jsO) | 2:11 | 2023-11-05 | 2024-11-15 |
 | [Licht in der Laterne](https://open.spotify.com/track/0IxjQyVjG13PNDBXL7Ja1L) | [Tara G\. Zintel](https://open.spotify.com/artist/36czNxSZP5QBO6FuXjgLKZ) | [Laterne, Laterne, leuchtet wie die Sterne \(24 Laternenlieder und Martinslieder\)](https://open.spotify.com/album/4Qlhlv3BIQ56gipbzk2Ff4) | 1:25 | 2023-11-07 | 2024-11-15 |
 | [Lichterkinder](https://open.spotify.com/track/0iLyAlInsomkzvxAMYlS6R) | [Lichterkinder](https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv) | [Laternen\- und Herbstlieder](https://open.spotify.com/album/7CIBgDr7rnEI1YeoMLO7Gn) | 4:01 | 2023-11-05 | 2024-11-15 |
+| [Liebesdusche](https://open.spotify.com/track/0M1F8GVMNhz4mTceABRmtd) | [Senta](https://open.spotify.com/artist/7uVDfCKp96l3xCHFYf39vU), [Phela](https://open.spotify.com/artist/4RdpPeOQsSPTOvBXleAp0O) | [Liebesdusche](https://open.spotify.com/album/2uuHniEZdvH69ldP6RztzC) | 2:03 | 2025-06-04 |  |
 | [LiederTiger Lied](https://open.spotify.com/track/7rgPG4aQ0s7J5hspb7Zc6w) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Meine Lieblingskinderlieder](https://open.spotify.com/album/5OZ0HZZkWb2DiHf1sjNanb) | 2:27 | 2024-07-05 |  |
 | [Macarena](https://open.spotify.com/track/4oaj36KzXRgDg4McgcTsZK) | [Los Del Rio](https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk) | [Fiesta Macarena](https://open.spotify.com/album/6yPJmxBhq3zxj9gfTddfyU) | 4:09 | 2023-06-28 |  |
 | [Mama Laudaaa Kidsversion](https://open.spotify.com/track/1nVvvFX4vHuAflVDVnlngP) | [Volker Rosin](https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf), [Specktakel](https://open.spotify.com/artist/1ErIf1pAAaw5upKsCbqhzz) | [Mama Laudaaa Kidsversion](https://open.spotify.com/album/30ZxAZMNlUxPLpYfjmxJoB) | 3:35 | 2024-02-06 | 2025-03-06 |

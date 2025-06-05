@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KXgbK.md) - [plain]
 
 > This is Dolly Parton\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,903 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,921 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KXgbK.md) - [plain]
 | 43 | [9 to 5](https://open.spotify.com/track/7ob0221dnx0OOGVSzNZgXO) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [The Essential Dolly Parton](https://open.spotify.com/album/57T5WXyeDI1wJzvoGva1GS) | 3:00 |
 | 44 | [Wrecking Ball](https://open.spotify.com/track/1Fl4vSE3PegDGtkNL7JXNl) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Wrecking Ball](https://open.spotify.com/album/6ckYZ5KfxoZisFywOMThYd) | 3:55 |
 | 45 | [You Are](https://open.spotify.com/track/6okcxWVQetuXyRKMcVqJXZ) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [New Harvest...First Gathering](https://open.spotify.com/album/1cvsUKsk753nko4CmpzG4H) | 5:15 |
-| 46 | [The Story](https://open.spotify.com/track/4B5rqUfJXLCJl9WMXMHehx) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Cover Stories: Brandi Carlile Celebrates 10 Years of the Story \(An Album to Benefit War Child\)](https://open.spotify.com/album/3eI5yt8PVoaONTDcHHTky7) | 4:17 |
-| 47 | [It Wasn't God Who Made Honky Tonk Angels](https://open.spotify.com/track/0zUXyDr4tSc7iSfdX7Zjtd) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id), [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl) | [Honky Tonk Angels](https://open.spotify.com/album/03vHLq8Zn6OMO2yaScSR8w) | 2:51 |
+| 46 | [It Wasn't God Who Made Honky Tonk Angels](https://open.spotify.com/track/0zUXyDr4tSc7iSfdX7Zjtd) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id), [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl) | [Honky Tonk Angels](https://open.spotify.com/album/03vHLq8Zn6OMO2yaScSR8w) | 2:51 |
+| 47 | [The Story](https://open.spotify.com/track/4B5rqUfJXLCJl9WMXMHehx) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Cover Stories: Brandi Carlile Celebrates 10 Years of the Story \(An Album to Benefit War Child\)](https://open.spotify.com/album/3eI5yt8PVoaONTDcHHTky7) | 4:17 |
 | 48 | [Let It Be \(feat\. Paul McCartney and Ringo Starr\)](https://open.spotify.com/track/67eBprqjXUiKOzoK2jgsCe) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8) | [Let It Be \(feat\. Paul McCartney and Ringo Starr\)](https://open.spotify.com/album/33BWIVo4IBWijRDKMMB5bV) | 4:27 |
 | 49 | [I Will Always Love You](https://open.spotify.com/track/3wTEtCLPMrXkw2bovFIVNO) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Songs of Cinema](https://open.spotify.com/album/7I6nVGkWC7IUrgyaMZiHUw) | 3:36 |
 | 50 | [Shine](https://open.spotify.com/track/4md4KRL6Z9ufa0je0Y3awL) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Little Sparrow](https://open.spotify.com/album/0RYsRBFuNAoqYyHHvSJj6x) | 5:11 |
 
-Snapshot ID: `aDzpgAAAAABiQqhF1d2N/cttV/OpDugV`
+Snapshot ID: `aD47AAAAAACy8Py51yzHmPN8s/4kf2HS`

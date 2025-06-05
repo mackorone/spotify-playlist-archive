@@ -1,12 +1,12 @@
 {
   "description": "This is Edicion Especial. The essential tracks, all in one playlist.",
-  "num_followers": 160012,
+  "num_followers": 160113,
   "original_name": "This Is Edicion Especial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDzpgAAAAADruG9tMv/lWoUjAAaffh++",
+  "snapshot_id": "aD47AAAAAADNHc41Bx0CVUoi6yNsUv1x",
   "tracks": [
     {
       "added_at": null,
@@ -303,6 +303,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Pocho 43",
+        "url": "https://open.spotify.com/album/2pB51s0SsNUxorhGEyAtZM"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 227860,
+      "name": "El Pocho 43",
+      "url": "https://open.spotify.com/track/69DWK7IL1kul2ZK327hn7t"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mi Amor Por Ti (En Vivo)",
         "url": "https://open.spotify.com/album/1948hF6tu8CHLjz7RbTA0H"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 239695,
       "name": "Mi Amor Por Ti (En Vivo)",
       "url": "https://open.spotify.com/track/4s2fRub8kyh1hD2m8xZ9cv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Pocho 43",
-        "url": "https://open.spotify.com/album/2pB51s0SsNUxorhGEyAtZM"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 227860,
-      "name": "El Pocho 43",
-      "url": "https://open.spotify.com/track/69DWK7IL1kul2ZK327hn7t"
     },
     {
       "added_at": null,
@@ -631,22 +631,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Lloro",
-        "url": "https://open.spotify.com/album/2gKxbvUws8depMnbZld0P8"
+        "name": "El Chico (En Vivo)",
+        "url": "https://open.spotify.com/album/6nQUSaf8PN31ZjjAl5LFgF"
       },
       "artists": [
         {
           "name": "Edicion Especial",
           "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        },
-        {
-          "name": "Enigma Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
         }
       ],
-      "duration_ms": 259531,
-      "name": "Que Lloro",
-      "url": "https://open.spotify.com/track/7BqDHVGw4tlgv86QXrEaiJ"
+      "duration_ms": 147602,
+      "name": "El Chico - En Vivo",
+      "url": "https://open.spotify.com/track/74sZC4Ct0aNy3pCzvWV2bL"
     },
     {
       "added_at": null,
@@ -667,18 +663,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Chico (En Vivo)",
-        "url": "https://open.spotify.com/album/6nQUSaf8PN31ZjjAl5LFgF"
+        "name": "Que Lloro",
+        "url": "https://open.spotify.com/album/2gKxbvUws8depMnbZld0P8"
       },
       "artists": [
         {
           "name": "Edicion Especial",
           "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        },
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
         }
       ],
-      "duration_ms": 147602,
-      "name": "El Chico - En Vivo",
-      "url": "https://open.spotify.com/track/74sZC4Ct0aNy3pCzvWV2bL"
+      "duration_ms": 259531,
+      "name": "Que Lloro",
+      "url": "https://open.spotify.com/track/7BqDHVGw4tlgv86QXrEaiJ"
     },
     {
       "added_at": null,

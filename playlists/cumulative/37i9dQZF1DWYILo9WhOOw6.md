@@ -4,7 +4,7 @@
 
 > Use Delta frequencies for the best night's sleep.
 
-173 songs - 8 hr 34 min
+174 songs - 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Essence Delta 72.420 Hz \- 74.420 Hz](https://open.spotify.com/track/4QyqorDjn3vYEdb1vw6eg4) | [Earthbound](https://open.spotify.com/artist/0F1aPOoP68MvFLfZ4fyP03) | [Essence Delta 72.420 Hz \- 74.420 Hz](https://open.spotify.com/album/2z8fHgq8hpxs72Bg3Iq1Bk) | 2:45 | 2024-07-15 |  |
 | [Focusing \(Delta 1 Hz\. Binaural Beats 52\-53 Hz\)](https://open.spotify.com/track/33qUbE0KCoBkGIxFij1rrx) | [Soundtopia](https://open.spotify.com/artist/3dZZaV34fz4h29XOiXY1v4) | [Delta Triggers](https://open.spotify.com/album/1y1PzzpBPpJaOJJhcBxJks) | 3:16 | 2023-05-05 |  |
 | [Forever Care Delta 59\-63hz](https://open.spotify.com/track/4DNSv2RHAHDHcOchbU2qRW) | [Dream State](https://open.spotify.com/artist/1luJRbb6O7s7dczdofVIVs) | [Forever Care Delta 59\-63hz](https://open.spotify.com/album/2xTqxqnZxHsYYN4ZMDY9Ng) | 2:48 | 2024-07-26 |  |
+| [Fragancia Delta 91Hz \- 94 Hz](https://open.spotify.com/track/5ThUIvyrQ0vmFRyUaAgQeT) | [Rerose](https://open.spotify.com/artist/6LcZxTjlhi7vsqM2acZonn) | [Fragancia Delta 91Hz \- 94 Hz](https://open.spotify.com/album/2VGGX8pqpJTIYluUNaoRj7) | 2:06 | 2025-06-04 |  |
 | [Gamma Sinus 70 Hz \- 170 Hz](https://open.spotify.com/track/5mWrcUdd6VebJRdvuRiXM9) | [Theta Aum](https://open.spotify.com/artist/7JqEtz50hLij7xaWbuWV42) | [Theta Aum](https://open.spotify.com/album/1CIuo5ZK4G1l1DAQzRviit) | 3:16 | 2023-01-20 |  |
 | [Healing Vision Delta Binaural 1.5 Hz](https://open.spotify.com/track/6vEQpGqGuoKzspnuTUiLfM) | [Oliver Skye](https://open.spotify.com/artist/28gpguwwTDk8q4dFMzGc1H) | [Healing Vision Delta Binaural 1.5 Hz](https://open.spotify.com/album/6NsxFGlv0p01c63ELnFbOT) | 4:09 | 2024-07-15 |  |
 | [Higher Dreams \(Delta Waves\)](https://open.spotify.com/track/6Zw4Jka2SBzuEeEquCobrB) | [Higher Dreams](https://open.spotify.com/artist/0FflPWbB901dNyJ5vLQMGs) | [Higher Dreams](https://open.spotify.com/album/5qdxTZUkIRXux6K5bWFxLb) | 2:34 | 2023-01-20 |  |

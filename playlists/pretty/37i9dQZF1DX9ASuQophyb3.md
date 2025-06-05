@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 
 > Türkçe pop'un hit şarkıları ve zirveye oynayanlar\.  Kapak: Zeynep Bastık
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,508,032 likes - 49 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,508,296 likes - 49 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,11 +15,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 | 5 | [Buzlu Cam](https://open.spotify.com/track/23KXlmrRHlhSM6iDNZ8gY4) | [Buray](https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd) | [Buzlu Cam](https://open.spotify.com/album/3ElEbr56YR4TRjqLM38G8p) | 2:46 |
 | 6 | [Kayboldum Masalında](https://open.spotify.com/track/1BpEKaFPwQY2KtoDQawpt2) | [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn), [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Kayboldum Masalında](https://open.spotify.com/album/7M2QsyKsuRE2We8pTa2oEc) | 4:15 |
 | 7 | [Serserinim](https://open.spotify.com/track/7EvDurG8Qcx1549Tc7Gzpm) | [Amo988](https://open.spotify.com/artist/05c2IUQGegTcqtWeWwuJ06) | [Serserinim](https://open.spotify.com/album/1aMjQcqxbXFOUj7N00ti5S) | 1:44 |
-| 8 | [Yasemin](https://open.spotify.com/track/1hdJwEj1tD0O5NiWM9U5VW) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz), [Serdar Ortaç](https://open.spotify.com/artist/7BJjzi0JHyDHAsmVe21dGa) | [Yasemin](https://open.spotify.com/album/2Qo7f5utir38YNXkNfFtNZ) | 3:06 |
-| 9 | [Olmaz Mı](https://open.spotify.com/track/77BVrNAmXhm6ZSaD0i4rU3) | [Göksel](https://open.spotify.com/artist/4i4ALRtQQmFxn3BCIB6iC0) | [Olmaz Mı](https://open.spotify.com/album/0SMUXoth0KTUXph4FZ3bbw) | 2:38 |
-| 10 | [Rüyalar Güzeli](https://open.spotify.com/track/4aKmNraLko5Y7Frvtq80xm) | [Sıla](https://open.spotify.com/artist/5gFPi3KWXEwA9bLEO47Ow0) | [Rüyalar Güzeli](https://open.spotify.com/album/21HA8eaQWDVL6U8ZpBx9pm) | 3:17 |
-| 11 | [Çık Buralardan](https://open.spotify.com/track/0E1imq2zxa1hafI08Uzohu) | [Nil Karaibrahimgil](https://open.spotify.com/artist/1PpRPZXSS5ka7m5NW2TO7q) | [Çık Buralardan](https://open.spotify.com/album/1EqjnG06xeFuyqcV47p0TO) | 3:15 |
-| 12 | [Bulamazsın](https://open.spotify.com/track/3MBxOQ98vv9szf1s3DOY0n) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Bulamazsın](https://open.spotify.com/album/4SgjgMKovidKmdAYsxSUEm) | 2:35 |
+| 8 | [Bulamazsın](https://open.spotify.com/track/3MBxOQ98vv9szf1s3DOY0n) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Bulamazsın](https://open.spotify.com/album/4SgjgMKovidKmdAYsxSUEm) | 2:35 |
+| 9 | [Yasemin](https://open.spotify.com/track/1hdJwEj1tD0O5NiWM9U5VW) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz), [Serdar Ortaç](https://open.spotify.com/artist/7BJjzi0JHyDHAsmVe21dGa) | [Yasemin](https://open.spotify.com/album/2Qo7f5utir38YNXkNfFtNZ) | 3:06 |
+| 10 | [Olmaz Mı](https://open.spotify.com/track/77BVrNAmXhm6ZSaD0i4rU3) | [Göksel](https://open.spotify.com/artist/4i4ALRtQQmFxn3BCIB6iC0) | [Olmaz Mı](https://open.spotify.com/album/0SMUXoth0KTUXph4FZ3bbw) | 2:38 |
+| 11 | [Rüyalar Güzeli](https://open.spotify.com/track/4aKmNraLko5Y7Frvtq80xm) | [Sıla](https://open.spotify.com/artist/5gFPi3KWXEwA9bLEO47Ow0) | [Rüyalar Güzeli](https://open.spotify.com/album/21HA8eaQWDVL6U8ZpBx9pm) | 3:17 |
+| 12 | [Çık Buralardan](https://open.spotify.com/track/0E1imq2zxa1hafI08Uzohu) | [Nil Karaibrahimgil](https://open.spotify.com/artist/1PpRPZXSS5ka7m5NW2TO7q) | [Çık Buralardan](https://open.spotify.com/album/1EqjnG06xeFuyqcV47p0TO) | 3:15 |
 | 13 | [Çek Git](https://open.spotify.com/track/4ap4o3GpdfsLeWYJzuU3GH) | [Bilal Sonses](https://open.spotify.com/artist/6iBdV6h17D1kOnK9lFyWo3) | [Çek Git](https://open.spotify.com/album/2fQRoyOxPDbv2eVTtuiCVO) | 2:09 |
 | 14 | [YANILIR GİBİ](https://open.spotify.com/track/20hHiVlL96ctdsrP2Nsydj) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf), [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [TEK KİŞİLİK MASA](https://open.spotify.com/album/1PNjEh6e0T28jszrn3Mwva) | 4:27 |
 | 15 | [Mazide](https://open.spotify.com/track/470IpPjOzbvgnQ8dFwuEdj) | [Rafet El Roman](https://open.spotify.com/artist/5gs9qloTR5m6dM0ScMty3H), [Su El Roman](https://open.spotify.com/artist/6Kvx121MepdDM6XxgxPvij) | [Mazide](https://open.spotify.com/album/4G3J8FNGmmzVCa9XzbkWn9) | 3:15 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 | 48 | [Sana Güvenmiyorum \- Dedub Sessions](https://open.spotify.com/track/1lNcnIU4jtqD69Qtfjh8EJ) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT), [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Sana Güvenmiyorum \(Dedub Sessions\)](https://open.spotify.com/album/5ZcHiC8fUSjtOSDw0JaJGv) | 3:24 |
 | 49 | [Bekleyenim](https://open.spotify.com/track/31eQP55jRbczzhi1YCNynR) | [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Bekleyenim](https://open.spotify.com/album/6Wg2f6kG5Nbqv6GKWbDC7x) | 2:41 |
 
-Snapshot ID: `aD1tnwAAAAAUgkKIVP5E+w7umuwTLGYl`
+Snapshot ID: `aEAQrwAAAAAnZDmywgVWcDuG+Imc/BrS`

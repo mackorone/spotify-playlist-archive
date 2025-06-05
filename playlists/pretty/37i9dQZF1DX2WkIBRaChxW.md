@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WkIBRaChxW.md) - [plain]
 
 > What's happening in r&b, right now – featuring GIVĒON.
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,645 likes - 74 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,648 likes - 74 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WkIBRaChxW.md) - [plain]
 | 73 | [LOVE MAKE](https://open.spotify.com/track/308zMDLftUjMlZkODGUWvd) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [LOVE MAKE](https://open.spotify.com/album/7ksQrL66SNuch6lmxIlVzJ) | 3:34 |
 | 74 | [Burning](https://open.spotify.com/track/1D1M805zV8DwhYXsvJdQZx) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Born in the Wild](https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p) | 2:55 |
 
-Snapshot ID: `aC/y6gAAAADtLQWq6O3WiLO+4xh7uM1t`
+Snapshot ID: `aC/y6gAAAADELsLfanwvDDzSTlPyjXe7`

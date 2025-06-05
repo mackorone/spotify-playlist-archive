@@ -4,7 +4,7 @@
 
 > 2021
 
-128 songs - 8 hr 31 min
+129 songs - 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [I Lust U](https://open.spotify.com/track/0QP0kYZhYHnO8fthKntc8Z) | [Neon Neon](https://open.spotify.com/artist/0GHcMuYNbDXb8cfJ7I5PsD), [Cate Le Bon](https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G) | [Stainless Style](https://open.spotify.com/album/4gwCfJlNCswVeVL4jvYkmA) | 3:00 | 2025-03-05 |  |
 | [In Spite of the Weather \- Bill Ryder\-Jones Re\-Imagining](https://open.spotify.com/track/1LyI8GoZSzCR9BcBAHcAAX) | [Michael Price](https://open.spotify.com/artist/6Ie1HZJ0vFXxxogMhPnZcg), [Bill Ryder\-Jones](https://open.spotify.com/artist/2E70ENJNHoACgzTkJ3QnO4), [Lucy Gaffney](https://open.spotify.com/artist/1dWfI2kDIBAxs8OxI5GUVQ) | [In Spite of the Weather \(Bill Ryder\-Jones Re\-Imagining\)](https://open.spotify.com/album/34tiEPjAQZ8BQwl3HMpIoy) | 5:56 | 2022-06-26 |  |
 | [Iris](https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Dizzy up the Girl](https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T) | 4:49 | 2024-10-19 |  |
+| [Iron Sky \- Abbey Road Live Session](https://open.spotify.com/track/0N29z9eL37fF9A81bJuDuO) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Caustic Love \(Live and In Session\)](https://open.spotify.com/album/2JdkagQIu8f9hSRJJ5rZpP) | 6:11 | 2025-06-04 |  |
 | [Jackie And Wilson](https://open.spotify.com/track/5xo1Gj4WTssjQgQ0w03cf2) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/0Uv83rRhY5QvHKkQoULRKk) | 3:43 | 2025-04-13 |  |
 | [Je te laisserai des mots](https://open.spotify.com/track/0V5cvmTKsYmF5FmGGEAfmS) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Je te laisserai des mots](https://open.spotify.com/album/7KPvATOyLVFbV6UR6DujF8) | 2:40 | 2023-08-11 |  |
 | [Just Can’t Get Enough](https://open.spotify.com/track/1X9TyFXi9fiQgAIWJmSJrw) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [The Beginning \(Deluxe\)](https://open.spotify.com/album/0BkpKcHw606at6Y2cp8kdE) | 3:39 | 2023-02-19 |  |

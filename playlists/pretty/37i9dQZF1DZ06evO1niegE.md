@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1niegE.md) - [plain]
 
 > This is RENEE\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,388 likes - 46 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,397 likes - 46 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,10 +16,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1niegE.md) - [plain]
 | 6 | [Extraños de Nuevo](https://open.spotify.com/track/1HJ0lo09YjPsvlCLBiCmtF) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [R](https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR) | 3:15 |
 | 7 | [El Disfraz \- Re\-versión](https://open.spotify.com/track/2n0ni9f0CyJ5U450rmbDhF) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR), [Denisse Guerrero](https://open.spotify.com/artist/1vVOBTQuNsGrbHedkTKUD5) | [El Disfraz Con Denisse Guerrero \(Re\-versión\)](https://open.spotify.com/album/3vG2KOdXOi9ZugXBNSjoOK) | 2:48 |
 | 8 | [Mechero](https://open.spotify.com/track/2EJeJwsC9ApcPx8rxB5OwO) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Mechero](https://open.spotify.com/album/0LBStN1TwxSXfDlYj1SQIK) | 2:35 |
-| 9 | [Playlist](https://open.spotify.com/track/3KPJ4CtYpCRWt69gYaeQaH) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [NMDQH](https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x) | 3:01 |
+| 9 | [Imperfecto](https://open.spotify.com/track/5V60OhB9WYqDhG8va96eCS) | [Meri Deal](https://open.spotify.com/artist/7zREGj8GMl9UrDa6NPLi0H), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Imperfecto](https://open.spotify.com/album/5ldOIiMp33j3EbswWK0Ipv) | 3:01 |
 | 10 | [Si Tú Quisieras](https://open.spotify.com/track/0stFNtovTjxUl4d6YS8iWQ) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [R](https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR) | 2:23 |
-| 11 | [DAMN!](https://open.spotify.com/track/1uGCxUV2OJngJan7DKjGCo) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [DAMN!](https://open.spotify.com/album/6ISGikUMrS710I2NF5Ityr) | 1:57 |
-| 12 | [Imperfecto](https://open.spotify.com/track/5V60OhB9WYqDhG8va96eCS) | [Meri Deal](https://open.spotify.com/artist/7zREGj8GMl9UrDa6NPLi0H), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Imperfecto](https://open.spotify.com/album/5ldOIiMp33j3EbswWK0Ipv) | 3:01 |
+| 11 | [Playlist](https://open.spotify.com/track/3KPJ4CtYpCRWt69gYaeQaH) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [NMDQH](https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x) | 3:01 |
+| 12 | [DAMN!](https://open.spotify.com/track/1uGCxUV2OJngJan7DKjGCo) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [DAMN!](https://open.spotify.com/album/6ISGikUMrS710I2NF5Ityr) | 1:57 |
 | 13 | [for good \(with RENEE\)](https://open.spotify.com/track/78HK0gO7EqqvTrxvnHX9VP) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [for good \(with RENEE\)](https://open.spotify.com/album/3WdMJuv0B4oYEZBaFVJI2H) | 3:02 |
 | 14 | [Dame Chance \(Rayuela\)](https://open.spotify.com/track/4cTZXPvu2LB6yev8imUWsU) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [R](https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR) | 2:32 |
 | 15 | [Tibio](https://open.spotify.com/track/2iqzKoc9YpedaZGWU1S84i) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [NMDQH](https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x) | 2:30 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1niegE.md) - [plain]
 | 41 | [VHS](https://open.spotify.com/track/3OrVqG7CoKW0RIFeEPLPSY) | [MiSHNRZ](https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Retrofuturismo](https://open.spotify.com/album/2UD0pOeSTiEqLcZNVoX36O) | 2:56 |
 | 42 | [Perfecto](https://open.spotify.com/track/13ONDA0L1dvjt4j8mPU6g8) | [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Perfecto](https://open.spotify.com/album/5k6QNIKLvjMn4nfu3OV7Na) | 2:32 |
 | 43 | [Todo Te Da Igual](https://open.spotify.com/track/3GpXbieCpFyFhripXlvZLJ) | [Soy Os](https://open.spotify.com/artist/2J2jJ0c3IzSL7iF3UQ2pDb), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Todo Te Da Igual](https://open.spotify.com/album/1nFx1eTuIFIgJDtNtVgfwU) | 2:41 |
-| 44 | [Me Desenamoré](https://open.spotify.com/track/2wHPbYYfVrJHHHur6WETtY) | [Flor Ramírez](https://open.spotify.com/artist/1o1zq9nsPVxHhIpnnKdWU3), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR), [Maena](https://open.spotify.com/artist/4I0Qc20Ta3CCnZRkTl5EgM), [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI) | [Me Desenamoré](https://open.spotify.com/album/1kwxYhYVUoAqTS5IjBzxpw) | 3:28 |
-| 45 | [Soy](https://open.spotify.com/track/20uLEIzctSD6LCyCN8DI7R) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Canto Tu Historia \(VOL\. 1\)](https://open.spotify.com/album/5GDSnouaflpMgpevTSYnKz) | 3:07 |
+| 44 | [Soy](https://open.spotify.com/track/20uLEIzctSD6LCyCN8DI7R) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Canto Tu Historia \(VOL\. 1\)](https://open.spotify.com/album/5GDSnouaflpMgpevTSYnKz) | 3:07 |
+| 45 | [Me Desenamoré](https://open.spotify.com/track/2wHPbYYfVrJHHHur6WETtY) | [Flor Ramírez](https://open.spotify.com/artist/1o1zq9nsPVxHhIpnnKdWU3), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR), [Maena](https://open.spotify.com/artist/4I0Qc20Ta3CCnZRkTl5EgM), [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI) | [Me Desenamoré](https://open.spotify.com/album/1kwxYhYVUoAqTS5IjBzxpw) | 3:28 |
 | 46 | [Espero](https://open.spotify.com/track/0V3OIIXCCpNULwcGL5kXP5) | [Tony True and the Tijuana Tres](https://open.spotify.com/artist/0AvWuJUBynDr5nPSoXsLIp), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Antonio El Sincero](https://open.spotify.com/album/1UUdPOgbibHo6m1Z17JeML) | 2:57 |
 
-Snapshot ID: `aDzpgAAAAAAASd+L4JXU7Mj5RUuM430w`
+Snapshot ID: `aD47AAAAAADCuI96SFnLNrBLr1nM8G4J`

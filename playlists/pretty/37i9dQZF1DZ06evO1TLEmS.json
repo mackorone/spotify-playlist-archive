@@ -1,12 +1,12 @@
 {
   "description": "This is Madison Cunningham. The essential tracks, all in one playlist.",
-  "num_followers": 3778,
+  "num_followers": 3779,
   "original_name": "This Is Madison Cunningham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDzpgAAAAAAqtuppPv53roUnJEDb1SNK",
+  "snapshot_id": "aD47AAAAAAACwGJhIrvUpLA2hurUoYZr",
   "tracks": [
     {
       "added_at": null,
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 228013,
-      "name": "L.A. (Looking Alive)",
-      "url": "https://open.spotify.com/track/7zPotVoWNGt5TxFLg24cbT"
+      "duration_ms": 194226,
+      "name": "Trouble Found Me",
+      "url": "https://open.spotify.com/track/5eOvYoXwPk5b3yEIKiphuV"
     },
     {
       "added_at": null,
@@ -672,9 +672,25 @@
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 194226,
-      "name": "Trouble Found Me",
-      "url": "https://open.spotify.com/track/5eOvYoXwPk5b3yEIKiphuV"
+      "duration_ms": 228013,
+      "name": "L.A. (Looking Alive)",
+      "url": "https://open.spotify.com/track/7zPotVoWNGt5TxFLg24cbT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Surprises",
+        "url": "https://open.spotify.com/album/4h8UfmHaGPZDivrHVOjAQi"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 215200,
+      "name": "No Surprises",
+      "url": "https://open.spotify.com/track/4eXOqmr69p5v8mztsEeO1R"
     },
     {
       "added_at": null,
@@ -695,22 +711,6 @@
       "duration_ms": 202319,
       "name": "Be My Witness (feat. Madison Cunningham)",
       "url": "https://open.spotify.com/track/4uPV46l0LEqx6VivcqHCIc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Surprises",
-        "url": "https://open.spotify.com/album/4h8UfmHaGPZDivrHVOjAQi"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 215200,
-      "name": "No Surprises",
-      "url": "https://open.spotify.com/track/4eXOqmr69p5v8mztsEeO1R"
     },
     {
       "added_at": null,
@@ -779,18 +779,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "For The Sake Of The Rhyme",
-        "url": "https://open.spotify.com/album/4BaN7uc9vzyOberlO92BRR"
+        "name": "Folkocracy",
+        "url": "https://open.spotify.com/album/4FYVErCjwVvkO3XpDFtOQ2"
       },
       "artists": [
+        {
+          "name": "Rufus Wainwright",
+          "url": "https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8"
+        },
         {
           "name": "Madison Cunningham",
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 241973,
-      "name": "Beauty Into Clich\u00e9s",
-      "url": "https://open.spotify.com/track/0kUnazSkIJAOJl3GiWEC94"
+      "duration_ms": 194493,
+      "name": "Alone (feat. Madison Cunningham)",
+      "url": "https://open.spotify.com/track/66DbVShEj5r1ozytczOmjn"
     },
     {
       "added_at": null,
@@ -811,22 +815,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Folkocracy",
-        "url": "https://open.spotify.com/album/4FYVErCjwVvkO3XpDFtOQ2"
+        "name": "For The Sake Of The Rhyme",
+        "url": "https://open.spotify.com/album/4BaN7uc9vzyOberlO92BRR"
       },
       "artists": [
-        {
-          "name": "Rufus Wainwright",
-          "url": "https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8"
-        },
         {
           "name": "Madison Cunningham",
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 194493,
-      "name": "Alone (feat. Madison Cunningham)",
-      "url": "https://open.spotify.com/track/66DbVShEj5r1ozytczOmjn"
+      "duration_ms": 241973,
+      "name": "Beauty Into Clich\u00e9s",
+      "url": "https://open.spotify.com/track/0kUnazSkIJAOJl3GiWEC94"
     },
     {
       "added_at": null,

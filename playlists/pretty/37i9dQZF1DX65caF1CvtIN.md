@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65caF1CvtIN.md) - [plain]
 
 > Quiet piano for hope and acceptance in times of hardship.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,607 likes - 142 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,640 likes - 142 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,26 +14,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65caF1CvtIN.md) - [plain]
 | 4 | [soft life](https://open.spotify.com/track/6QzVjefxboaYR4SAsdwliL) | [Jack Ame](https://open.spotify.com/artist/5VFJbcflFyX7bF7yTvtOQQ) | [soft life](https://open.spotify.com/album/46s6Cpy5NhMbRFuhOrx0B8) | 2:15 |
 | 5 | [Daylight](https://open.spotify.com/track/0dVsSv0xlnO3CJd4osrt2w) | [Della Valle](https://open.spotify.com/artist/0QsQ7aCgsuTSOib9lt6NGm) | [Daylight](https://open.spotify.com/album/1MMZ6TC0X0LcztVxsx2oYr) | 2:39 |
 | 6 | [Grounded in Love](https://open.spotify.com/track/6r3yNcTDGZxBsvUi5hwpOf) | [Rocco](https://open.spotify.com/artist/70qMxbmTMbxS4MCjkkZvTH) | [Grounded in Love](https://open.spotify.com/album/7dgM19C1eRfwg33ev3jLV8) | 2:23 |
-| 7 | [Resta Con Me](https://open.spotify.com/track/11kyoJkQePM8zW2kEozhFu) | [Valentina Romano](https://open.spotify.com/artist/0fQjueuVmR5XSCP0BtGdu1) | [Resta Con Me](https://open.spotify.com/album/2BHogXZFHfpMP5qpGYwdqg) | 2:09 |
-| 8 | [first light](https://open.spotify.com/track/7bu870j7iPDSdbMob24mRp) | [Aisen Voight](https://open.spotify.com/artist/6qP2qRYduH4bCfMcSMiglb) | [first light](https://open.spotify.com/album/11ohTTCQ3SNzVb2IjCuuRk) | 2:55 |
-| 9 | [The Path](https://open.spotify.com/track/0VvAvohCa6vbOuhQ9KgYp3) | [Gjermund](https://open.spotify.com/artist/2FZS2EvEvApDSk425z6s4P) | [The Path](https://open.spotify.com/album/5FHFBfF1WAw4Q1FESMFMbU) | 2:12 |
-| 10 | [Ryos](https://open.spotify.com/track/1zTqMY0pncDuHkLsQp9JHr) | [Xaverius Love](https://open.spotify.com/artist/614WSOcC6h559Do1UR6k97) | [Ryos](https://open.spotify.com/album/4biO9FxSiYHRLmplSmmWs0) | 2:09 |
+| 7 | [first light](https://open.spotify.com/track/7bu870j7iPDSdbMob24mRp) | [Aisen Voight](https://open.spotify.com/artist/6qP2qRYduH4bCfMcSMiglb) | [first light](https://open.spotify.com/album/11ohTTCQ3SNzVb2IjCuuRk) | 2:55 |
+| 8 | [Resta Con Me](https://open.spotify.com/track/11kyoJkQePM8zW2kEozhFu) | [Valentina Romano](https://open.spotify.com/artist/0fQjueuVmR5XSCP0BtGdu1) | [Resta Con Me](https://open.spotify.com/album/2BHogXZFHfpMP5qpGYwdqg) | 2:09 |
+| 9 | [Ryos](https://open.spotify.com/track/1zTqMY0pncDuHkLsQp9JHr) | [Xaverius Love](https://open.spotify.com/artist/614WSOcC6h559Do1UR6k97) | [Ryos](https://open.spotify.com/album/4biO9FxSiYHRLmplSmmWs0) | 2:09 |
+| 10 | [The Path](https://open.spotify.com/track/0VvAvohCa6vbOuhQ9KgYp3) | [Gjermund](https://open.spotify.com/artist/2FZS2EvEvApDSk425z6s4P) | [The Path](https://open.spotify.com/album/5FHFBfF1WAw4Q1FESMFMbU) | 2:12 |
 | 11 | [Aging](https://open.spotify.com/track/1Z3GPvWMC2jDt73HTHGsjD) | [Matteus Fortini](https://open.spotify.com/artist/6DSyvYPVE5NaaOO2La5RLb) | [Aging](https://open.spotify.com/album/0TyG2axjCVAsK2UXCHA6xg) | 2:19 |
-| 12 | [Swadhisthana](https://open.spotify.com/track/5tWz0ZTSkBbgDOjKCYUtp6) | [Silicon Silence](https://open.spotify.com/artist/3IsFn83rSDMVENUU5jK5O5) | [Swadhisthana](https://open.spotify.com/album/4Rbm9A3luj0euz4KL7OSV8) | 2:48 |
-| 13 | [Arctico](https://open.spotify.com/track/4wZTveNZkzoZoBKaiDsyYH) | [La Pix](https://open.spotify.com/artist/6TCo3qRn8NmB5p4xJRn9sD) | [Arctico](https://open.spotify.com/album/0GnOZh7LX9k4mRYlzgivKG) | 2:21 |
-| 14 | [lumière](https://open.spotify.com/track/4YLdPo9Jxg4dy5FxL0OFHI) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [lumière](https://open.spotify.com/album/6yNck5Uo4TI3oWz9A87xtx) | 2:34 |
+| 12 | [lumière](https://open.spotify.com/track/4YLdPo9Jxg4dy5FxL0OFHI) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [lumière](https://open.spotify.com/album/6yNck5Uo4TI3oWz9A87xtx) | 2:34 |
+| 13 | [Swadhisthana](https://open.spotify.com/track/5tWz0ZTSkBbgDOjKCYUtp6) | [Silicon Silence](https://open.spotify.com/artist/3IsFn83rSDMVENUU5jK5O5) | [Swadhisthana](https://open.spotify.com/album/4Rbm9A3luj0euz4KL7OSV8) | 2:48 |
+| 14 | [Arctico](https://open.spotify.com/track/4wZTveNZkzoZoBKaiDsyYH) | [La Pix](https://open.spotify.com/artist/6TCo3qRn8NmB5p4xJRn9sD) | [Arctico](https://open.spotify.com/album/0GnOZh7LX9k4mRYlzgivKG) | 2:21 |
 | 15 | [Spring Roses](https://open.spotify.com/track/62T1anGMtce8jCIdXIQRvL) | [Ren Lockhart](https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp) | [Spring Roses](https://open.spotify.com/album/2egZ9KaWhJHiylvZxaUW6F) | 2:41 |
-| 16 | [Dustlight](https://open.spotify.com/track/7lh5pJSumRRSpiK0gqwORR) | [Riku Arai](https://open.spotify.com/artist/464yjGDhosPoKFLRX5vm28) | [Dustlight](https://open.spotify.com/album/2Dn3n3eSJRxPBxWJCuFIRK) | 2:13 |
-| 17 | [Bring the silence](https://open.spotify.com/track/0xX8rlYoCfag1vzsYJOWde) | [Morlya](https://open.spotify.com/artist/3bulcOxlxNQf6IsdtkZZ0R) | [Bring the silence](https://open.spotify.com/album/2Y8JmDSdZtS59CCIMsxe2F) | 2:55 |
-| 18 | [The Land You Belong](https://open.spotify.com/track/0VJwxkumrClrt4Y41evUpy) | [Dario Crisman](https://open.spotify.com/artist/3z9wB1A84KYedTTWy1ciHF) | [The Land You Belong](https://open.spotify.com/album/3uj2AIVg0qfo3NR2HlGkEq) | 2:24 |
-| 19 | [voler](https://open.spotify.com/track/5q78LVLnM2EFEyQpVym3qU) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [voler](https://open.spotify.com/album/2mSjBOywrt6qYKniIOhIdk) | 2:33 |
+| 16 | [Bring the silence](https://open.spotify.com/track/0xX8rlYoCfag1vzsYJOWde) | [Morlya](https://open.spotify.com/artist/3bulcOxlxNQf6IsdtkZZ0R) | [Bring the silence](https://open.spotify.com/album/2Y8JmDSdZtS59CCIMsxe2F) | 2:55 |
+| 17 | [voler](https://open.spotify.com/track/5q78LVLnM2EFEyQpVym3qU) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [voler](https://open.spotify.com/album/2mSjBOywrt6qYKniIOhIdk) | 2:33 |
+| 18 | [Fordi jeg vil](https://open.spotify.com/track/1GwBsmxZo3knfuxkIIoSCs) | [Eline Neteland](https://open.spotify.com/artist/4EXNBWhy685Yit4VemEbR6) | [Fordi jeg vil](https://open.spotify.com/album/6cz5dR8Q4uHCGmqaZDENSo) | 2:43 |
+| 19 | [The Land You Belong](https://open.spotify.com/track/0VJwxkumrClrt4Y41evUpy) | [Dario Crisman](https://open.spotify.com/artist/3z9wB1A84KYedTTWy1ciHF) | [The Land You Belong](https://open.spotify.com/album/3uj2AIVg0qfo3NR2HlGkEq) | 2:24 |
 | 20 | [Silence](https://open.spotify.com/track/6gAiT0trxkYwlMVsvFjmsX) | [Adrián Úlfur](https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw) | [Silence](https://open.spotify.com/album/6FKCRBpmy5c8ejELaFfFt5) | 2:21 |
 | 21 | [Beginnings](https://open.spotify.com/track/07Z42sQFooVNSyoJjknCDz) | [Néer](https://open.spotify.com/artist/5yYwQWCRkaZAIOThUKNo5n) | [Beginnings](https://open.spotify.com/album/4wtOORXX25j7SZSMbb5VmY) | 2:16 |
 | 22 | [In the Quiet Hours](https://open.spotify.com/track/0mhzqS1uEIQm49i8yH7eUh) | [Harmonic Reverie](https://open.spotify.com/artist/5MQgVlRZZAASmBxSk6bbqi) | [In the Quiet Hours](https://open.spotify.com/album/0Hxyrm1hOIXjJFcXb51kn8) | 3:19 |
 | 23 | [Quiet Reverie](https://open.spotify.com/track/1uGHNaIqgdSVkW9Edz20Og) | [Siri Eijde](https://open.spotify.com/artist/2ND34rpSifp76bnMDtffEV) | [Quiet Reverie](https://open.spotify.com/album/5HFnlATLEcpPTZzjtifDQS) | 2:27 |
-| 24 | [le voyageur](https://open.spotify.com/track/2P98sgjysEmr03BP9oeAVV) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [le voyageur](https://open.spotify.com/album/4LmxUW2uMCOho2RHATKWvX) | 2:30 |
-| 25 | [Fordi jeg vil](https://open.spotify.com/track/1GwBsmxZo3knfuxkIIoSCs) | [Eline Neteland](https://open.spotify.com/artist/4EXNBWhy685Yit4VemEbR6) | [Fordi jeg vil](https://open.spotify.com/album/6cz5dR8Q4uHCGmqaZDENSo) | 2:43 |
-| 26 | [The Sound of Light](https://open.spotify.com/track/23BuLC49RZuPbIGZriYDNI) | [Antoine Fauré](https://open.spotify.com/artist/5TOgvcEmZnjyDHGdnQP4nL) | [The Sound of Light](https://open.spotify.com/album/3IdvazfYUOel4zSdILAHcF) | 2:33 |
+| 24 | [The Sound of Light](https://open.spotify.com/track/23BuLC49RZuPbIGZriYDNI) | [Antoine Fauré](https://open.spotify.com/artist/5TOgvcEmZnjyDHGdnQP4nL) | [The Sound of Light](https://open.spotify.com/album/3IdvazfYUOel4zSdILAHcF) | 2:33 |
+| 25 | [Grateful For The Time](https://open.spotify.com/track/4087fSTfSGcZdb7CaTays6) | [Alex Laude](https://open.spotify.com/artist/0MFzcJKiDZl0lPHraV0abV) | [Grateful For The Time](https://open.spotify.com/album/7lU9zqz8ky2VXhYv5PDm0R) | 2:30 |
+| 26 | [le voyageur](https://open.spotify.com/track/2P98sgjysEmr03BP9oeAVV) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [le voyageur](https://open.spotify.com/album/4LmxUW2uMCOho2RHATKWvX) | 2:30 |
 | 27 | [A Gentle Embrace](https://open.spotify.com/track/3SMmmZaDKKvUcqz8P2ti4w) | [Aron E\. Ross](https://open.spotify.com/artist/0Wq7T2ANEDOqznTzl82hu4) | [A Gentle Embrace](https://open.spotify.com/album/5TuzhOtXZaKJeZMzUwfRAY) | 2:29 |
 | 28 | [Contradictions](https://open.spotify.com/track/3paUjcpKJ910PnpxZJIZfE) | [Domi Nova](https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz) | [Contradictions](https://open.spotify.com/album/58woFKp3lFRTgRlFvfFh5B) | 3:03 |
 | 29 | [The Opening](https://open.spotify.com/track/5usmLdjDelMj2inEm5MmAP) | [Móret Labino](https://open.spotify.com/artist/61wHphM5UzG9uBBXJ3aynP) | [The Opening](https://open.spotify.com/album/0bsAKVLQlW0IpVYZtOmCxb) | 2:20 |
@@ -151,4 +151,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65caF1CvtIN.md) - [plain]
 | 141 | [Empyrean](https://open.spotify.com/track/17RDaw9BH11GDHTDlBi4VW) | [Eva Brummel](https://open.spotify.com/artist/6JCISfcnC2hHTm0uhjrbNy) | [Empyrean](https://open.spotify.com/album/1OOs0fwWFSuP3RqIEwRCiq) | 3:00 |
 | 142 | [On the Stairs](https://open.spotify.com/track/6qedmSEhHCcpsAxSAc0YZ0) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [On the Stairs](https://open.spotify.com/album/1y6ItDuTMzmJfIJ6Z4ghGu) | 2:21 |
 
-Snapshot ID: `aDb1xwAAAADR/kzp1Oxm89VeyJycoGrn`
+Snapshot ID: `aEAFBgAAAACqRapuafm9xei13e7r9z/V`

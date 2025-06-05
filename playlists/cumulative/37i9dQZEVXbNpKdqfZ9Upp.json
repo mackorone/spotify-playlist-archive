@@ -21478,7 +21478,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-01",
+      "date_removed": null,
       "duration_ms": 194680,
       "name": "GUAYA",
       "url": "https://open.spotify.com/track/75hHR4TZqvB22EY0ntZfk1"
@@ -21938,7 +21938,7 @@
       ],
       "date_added": "2025-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 207826,
       "name": "Hawaiian Roller Coaster Ride - From \"Lilo & Stitch\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/6lFJxmeD3Vak3nnoB9bDAi"
@@ -39320,13 +39320,17 @@
           "url": "https://open.spotify.com/artist/0zZJhc1T0zBurhnBwQ2fcu"
         },
         {
+          "name": "Alofoke Music",
+          "url": "https://open.spotify.com/artist/0UvglCoh34HxaRZP1DWhjY"
+        },
+        {
           "name": "El Alfa",
           "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
         }
       ],
       "date_added": "2025-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-04",
+      "date_removed": null,
       "duration_ms": 189866,
       "name": "Pal de Velitas",
       "url": "https://open.spotify.com/track/6IJyLHfGGkb7oQy3DlLAs5"
@@ -50117,6 +50121,24 @@
     },
     {
       "album": {
+        "name": "1989 (Deluxe)",
+        "url": "https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2025-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231000,
+      "name": "Style",
+      "url": "https://open.spotify.com/track/0ug5NqcwcFR2xrfTkc7k8e"
+    },
+    {
+      "album": {
         "name": "The Wolf of Grape Street",
         "url": "https://open.spotify.com/album/3PE60QLwMWd92LYRAEcuml"
       },
@@ -50442,7 +50464,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 103520,
       "name": "Super",
       "url": "https://open.spotify.com/track/4u5hMlAk0FpBsgReJ7Rpfy"
@@ -53784,7 +53806,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 210285,
       "name": "Top Siders - Remix",
       "url": "https://open.spotify.com/track/6CQW2U5qdDJK6vVs4sOam4"
@@ -56448,7 +56470,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-04",
+      "date_removed": null,
       "duration_ms": 135131,
       "name": "Vaitimbora",
       "url": "https://open.spotify.com/track/0QAUgW2vTmlUWhbiNeSkWm"
@@ -57064,7 +57086,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 184743,
       "name": "Vita Fer",
       "url": "https://open.spotify.com/track/3jS9G4KmuOwuawj3k4Smpc"

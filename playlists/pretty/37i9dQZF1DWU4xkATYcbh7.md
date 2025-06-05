@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4xkATYcbh7.md) - [plain]
 
 > Get amped!  Listen to the official soundtrack for Tony Hawk’s Pro Skater 3+4.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,759 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,915 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4xkATYcbh7.md) - [plain]
 | 59 | [Roadkill](https://open.spotify.com/track/6SIY0L1eW6lnspLovq8nCW) | [Starcrawler](https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i) | [She Said](https://open.spotify.com/album/6CCzu7oKzxpJ9pH3aKdAhk) | 2:22 |
 | 60 | [Amoeba](https://open.spotify.com/track/1xQE0QHrmJUQweLoMB0ZWC) | [Adolescents](https://open.spotify.com/artist/2sSmGd0x45FGBtjJwNBSFr) | [Adolescents](https://open.spotify.com/album/4qwDRyH5SwFcjyoOJKbE2d) | 3:06 |
 
-Snapshot ID: `aB4M9gAAAADzHLNOJRuNGsHwCOQqyEkB`
+Snapshot ID: `aB4M9gAAAAA2qb41LSgVgQDCO9nKcosK`

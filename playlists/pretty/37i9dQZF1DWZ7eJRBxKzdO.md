@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7eJRBxKzdO.md) - [plain]
 
 > the summer needs dance hits 😎☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,747,378 likes - 120 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,748,743 likes - 120 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7eJRBxKzdO.md) - [plain]
 | 119 | [Emorio](https://open.spotify.com/track/14VthBnru6kiREQUYAuNSL) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Fafá de Belém](https://open.spotify.com/artist/6n45wsxj6sDedgwEyTza6d) | [Emorio](https://open.spotify.com/album/3yP0Nsb8jyXY4HMNb6tkO9) | 2:43 |
 | 120 | [Can't find you](https://open.spotify.com/track/22u0wscY6rWbbr9M7Ezg4j) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ) | [Can't find you](https://open.spotify.com/album/66oS6DryteXBVpmetDGPAi) | 3:35 |
 
-Snapshot ID: `aC/y2AAAAACeyv4i5bRhIkRSNIl4uc47`
+Snapshot ID: `aD/EzQAAAAAfcMs6R+yDJWkc5+wwEHAU`

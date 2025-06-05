@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdsUUs0FzN4.md) - [plain]
 
 > Cámara mi amor si ya se la sabe que es recio melecio, es pegándonos como chetos a la muela 🥵
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,287 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,300 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

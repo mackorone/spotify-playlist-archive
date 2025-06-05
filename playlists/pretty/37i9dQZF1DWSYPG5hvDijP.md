@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 
 > Naya Hip\-Hop Hindi! Cover: Siroyi
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,363 likes - 84 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,383 likes - 84 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 58 | [They Know Me](https://open.spotify.com/track/0hOYYqyzFpzWiP7yyYAYOo) | [Jerry Thomas](https://open.spotify.com/artist/2MhkV5LSh8Iz9WN7qa0UEb) | [They Know Me](https://open.spotify.com/album/14ZstXFfVrwaN40pBo70KT) | 2:58 |
 | 59 | [Bhai Tu Kaisa Hai](https://open.spotify.com/track/1Gd7pqzob6iTk0u7veEZxy) | [Minta](https://open.spotify.com/artist/7tda05HSCJgxnQLLqzfSNL) | [Bhai Tu Kaisa Hai](https://open.spotify.com/album/2mEMtCk6IYyrwotP005Reb) | 2:16 |
 | 60 | [Priceless](https://open.spotify.com/track/0cff3YCYbencqVuLys9Ae2) | [Dino James](https://open.spotify.com/artist/45PG2L6Fh2XvYL4ONzpdoW) | [Priceless](https://open.spotify.com/album/4LIP8NVDDBNIdqPBqwXhT9) | 2:58 |
-| 61 | [FREAK](https://open.spotify.com/track/40hwyar12FB1T44HaDHzmb) | [THE RDX](https://open.spotify.com/artist/1y3JioFDwjWNWRu3sADndA), [SAMM](https://open.spotify.com/artist/3w2lDO6pRbjbSHDbOvk7YM), [Crasher](https://open.spotify.com/artist/0aWIJRSmD5NRf7jJYEwyNq) | [FREAK](https://open.spotify.com/album/4U9mZ0vvaPkEnmldzn7Owi) | 2:17 |
+| 61 | [FREAK](https://open.spotify.com/track/40hwyar12FB1T44HaDHzmb) | [THE RDX](https://open.spotify.com/artist/1y3JioFDwjWNWRu3sADndA), [samm](https://open.spotify.com/artist/1q52BfUug82PI58meIbm1m), [Crasher](https://open.spotify.com/artist/0aWIJRSmD5NRf7jJYEwyNq) | [FREAK](https://open.spotify.com/album/4U9mZ0vvaPkEnmldzn7Owi) | 2:17 |
 | 62 | [Built Different](https://open.spotify.com/track/0O1gNBUc0idkINLTNNjFjh) | [PNM](https://open.spotify.com/artist/1Kephmmdzn9A1498IX9u0E), [Gary Sidana](https://open.spotify.com/artist/6u3udaZVm2zdnn2uKlMLXd) | [Built Different](https://open.spotify.com/album/7aCbOygTiPQkKTgdYpKfh4) | 3:00 |
 | 63 | [Animal](https://open.spotify.com/track/01kNohcZ34rgxuVsKsbfK6) | [Rob C](https://open.spotify.com/artist/4hEz4Vg09BEJcypoN4WnAi), [Harry Spark](https://open.spotify.com/artist/4rjoncFFlCXRsbwdpfOd1q), [Manj Musik](https://open.spotify.com/artist/7IVzXMMN7fFi7PXxPhXcAB) | [Animal](https://open.spotify.com/album/0nQiELU9DAswP45OmiSaVt) | 2:21 |
 | 64 | [Bansuri](https://open.spotify.com/track/2GIJBiKLp45defdYaWPpV8) | [Sammohit](https://open.spotify.com/artist/0cWoBv3cKhNM18FbRFy2x2), [Mahlan Wala 59](https://open.spotify.com/artist/6AONermxpKHYKrOPPAI5gS), [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu) | [SATTAR](https://open.spotify.com/album/41sSO1HSzxHB5fgbpDLc05) | 2:44 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Ziggy Marley. The essential tracks, all in one playlist.",
-  "num_followers": 34286,
+  "num_followers": 34289,
   "original_name": "This Is Ziggy Marley",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDzpgAAAAAA89H73kvBNba2t0hGRzLGI",
+  "snapshot_id": "aD47AAAAAAAfQV2VyR09SH8UBPOzMnqu",
   "tracks": [
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lift Our Spirits Raise Our Voice",
-        "url": "https://open.spotify.com/album/6adgWIIDhXZrs4WgZWxqUQ"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Lift Our Spirits Raise Our Voice",
-      "url": "https://open.spotify.com/track/7IHx43ARFywJyi0SDbY85D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Feels So Good",
         "url": "https://open.spotify.com/album/4jOVKt6269cQXp5XpFL6kA"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 143400,
       "name": "Raindrops Keep Falling On My Head",
       "url": "https://open.spotify.com/track/31Kn1zCmpf2ki6G3PX1LSo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lift Our Spirits Raise Our Voice",
+        "url": "https://open.spotify.com/album/6adgWIIDhXZrs4WgZWxqUQ"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Lift Our Spirits Raise Our Voice",
+      "url": "https://open.spotify.com/track/7IHx43ARFywJyi0SDbY85D"
     },
     {
       "added_at": null,
@@ -827,26 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Family Time",
-        "url": "https://open.spotify.com/album/3wsu2mRApfZ2eV3lYtg2l3"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 218786,
-      "name": "This Train (feat. Willie Nelson)",
-      "url": "https://open.spotify.com/track/0vs6bNXqs7HnqgsmEoaUaf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Remixes",
         "url": "https://open.spotify.com/album/1UPInuHMWkRodfsDYPyhYx"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 188668,
       "name": "Sunshine (feat. RUSL) - RUSL Remix",
       "url": "https://open.spotify.com/track/7ljp7KHGbCoXSWB8rq6g76"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Family Time",
+        "url": "https://open.spotify.com/album/3wsu2mRApfZ2eV3lYtg2l3"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 218786,
+      "name": "This Train (feat. Willie Nelson)",
+      "url": "https://open.spotify.com/track/0vs6bNXqs7HnqgsmEoaUaf"
     },
     {
       "added_at": null,
@@ -915,6 +915,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/3ARzjkVYs15n01pWaxfHNQ"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 260113,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/5a3yXVAUVvkuASBkK5QC3V"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Family Time",
         "url": "https://open.spotify.com/album/3wsu2mRApfZ2eV3lYtg2l3"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 260853,
       "name": "Family Time (feat. Judah Marley)",
       "url": "https://open.spotify.com/track/34OvVyZ6Vq0AcAnI6LMnjM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Drive",
-        "url": "https://open.spotify.com/album/3ARzjkVYs15n01pWaxfHNQ"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 260113,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/5a3yXVAUVvkuASBkK5QC3V"
     }
   ],
   "unique_name": "This Is Ziggy Marley",

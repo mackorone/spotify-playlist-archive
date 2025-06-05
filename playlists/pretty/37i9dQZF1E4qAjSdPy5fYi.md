@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4qAjSdPy5fYi.md) - [plain]
 
 ### [Kittydog Radio](https://open.spotify.com/playlist/37i9dQZF1E4qAjSdPy5fYi)
 
-> With Joshua Lanuarii, glitterpop!, UrvTek and more
+> With glitterpop!, Joshua Lanuarii, UrvTek and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 583 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 584 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4qAjSdPy5fYi.md) - [plain]
 | 49 | [AlterHuman](https://open.spotify.com/track/5iFc7qq3RJDAvyGSHFm27Z) | [Autumn J.](https://open.spotify.com/artist/5F2rhyaflgXmVeW7NMUXAW) | [AlterHuman](https://open.spotify.com/album/3d0H87jQp62ycZXhCzHlau) | 2:33 |
 | 50 | [adhd music for FURRIES!!!](https://open.spotify.com/track/1VZAXgKpDuJoMVcWHvp1HM) | [glitterpop!](https://open.spotify.com/artist/1QA3mUn9XkVeSoNgWdqZ40) | [adhd music for FURRIES!!!](https://open.spotify.com/album/0XfTGfD8AAHNlb8SMQ7iuf) | 3:12 |
 
-Snapshot ID: `aD++RQAAAAB/sYO8TgHHWISoJ6YZQOm5`
+Snapshot ID: `aED7yQAAAAB17IE4vUA6Qz8+UYnfZUAV`

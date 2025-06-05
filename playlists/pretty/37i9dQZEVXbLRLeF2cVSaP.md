@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,819 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,823 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 25 | [Четыре тридцать](https://open.spotify.com/track/4GBfKfnvmcTcNrlJcV4OLV) | [Violetta Sokolova](https://open.spotify.com/artist/7K2PBAFUE98RKu30clhIms) | [Четыре тридцать](https://open.spotify.com/album/6EspHfqFwGFqqUTLDXJLs1) | 2:13 |
 | 26 | [TOKYO](https://open.spotify.com/track/7MjpBQViz7f1133ni9psvu) | [SQWOZ BAB](https://open.spotify.com/artist/5U2ISoieRzT6TaqiXumcXl) | [TOKYO](https://open.spotify.com/album/1NUsqq4DLad9rGUeDnItGj) | 2:40 |
 | 27 | [Адская колыбельная](https://open.spotify.com/track/2pyjr4JKVkG03LmWBIusur) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [Адская колыбельная](https://open.spotify.com/album/1cmB7sCh1AS1hdpFCbEKOS) | 2:58 |
-| 28 | [Espresso Macchiato](https://open.spotify.com/track/4zpNfuWJA3K4d9TS4qnOIB) | [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK) | [Espresso Macchiato](https://open.spotify.com/album/6i83szVwI1FZFeMQHobNsj) | 2:53 |
+| 28 | [Espresso Macchiato](https://open.spotify.com/track/3gWBWLw3J3XTy3QTo36GqJ) | [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK) | [Espresso Macchiato](https://open.spotify.com/album/6oyTmTZoCYK6zyoaOPK9ns) | 2:53 |
 | 29 | [распять](https://open.spotify.com/track/3pUbDaO5cBfRCZHxSCVMh8) | [greyrock](https://open.spotify.com/artist/3Z2TLso4pM7QrgMgkKVPZB), [tewiq](https://open.spotify.com/artist/48nrvNpJ4gcgWyvheEGg0L), [madk1d](https://open.spotify.com/artist/1Q5COYHgA7ch0y3HqCNgwt) | [распять](https://open.spotify.com/album/3hzcccGZBceumBuBtCNP6P) | 1:59 |
 | 30 | [болен](https://open.spotify.com/track/4HiXhD2daY4ca5nr977V4e) | [dope17](https://open.spotify.com/artist/4RsF5SpJb2R481UMri1VT3), [mapt0v](https://open.spotify.com/artist/5GTZUVrKf86Aco9LJQquxc) | [болен](https://open.spotify.com/album/4c08DJJF9efR9xB43Y8bGg) | 1:28 |
 | 31 | [Жить в кайф](https://open.spotify.com/track/2m3PVx1gsVB5upxi94IW8I) | [Max Korzh](https://open.spotify.com/artist/5meD8C7oGK5yUEY2T7ZZ7W) | [Жить в кайф](https://open.spotify.com/album/4ktDOYU0Jual1ELFTPhFd6) | 2:54 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 47 | [Райские цветы](https://open.spotify.com/track/1DSCMhnFgL4BVI6D8fJJ8a) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [Грустная девчонка с глазами как у собаки](https://open.spotify.com/album/4cRqvcjfnQDxwCTGP2UAUV) | 2:18 |
 | 48 | [OCG](https://open.spotify.com/track/1wz0imYNaHwJbkDrA9GfKR) | [FRIENDLY THUG 52 NGG](https://open.spotify.com/artist/5xtbUYHaOycg6HIi10EZdV), [SaintPrince 52](https://open.spotify.com/artist/3E1U4YuY7Fov6RZ8G6EMpH) | [Graf Monte\-Cristo / Most Valuable Pirate](https://open.spotify.com/album/61ps9wdfl2bgjaKOPQ9zCb) | 2:20 |
 | 49 | [PASSO BEM SOLTO \- Slowed](https://open.spotify.com/track/4sTlQPMyoFMPdhAJvErBN3) | [ATLXS](https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah) | [PASSO BEM SOLTO](https://open.spotify.com/album/0I7096R74VFP2xnMmp33sY) | 1:56 |
-| 50 | [Rock That Body](https://open.spotify.com/track/2WQ09wqQBIOor7Q0VpIDBK) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\) \[Deluxe Version\]](https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX) | 4:28 |
+| 50 | [Rock That Body](https://open.spotify.com/track/7K8XoQXZBffc4xG2xIQHMO) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\)](https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB) | 4:28 |
 
-Snapshot ID: `L9JneAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L9O4+AAAAAAAAAAAAAAAAAAAAAAAAGVu`

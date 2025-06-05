@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcoMxAskrS3P.md) - [plain]
 
 > Get ready for the upcoming festival by listening to the best songs from the festival lineup! \(페스티벌 참가 라인업의 베스트 곡들을 들으며 다가오는 페스티벌을 준비해보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 172 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 179 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcoMxAskrS3P.md) - [plain]
 | 33 | [Wanderer](https://open.spotify.com/track/1i24CcFgh1yrBLdovext8h) | [NELL](https://open.spotify.com/artist/5WY88tCMFA6J6vqSN3MmDZ) | [Wanderer](https://open.spotify.com/album/5reaBV8ZAMTF68sD5M05Mc) | 3:44 |
 | 34 | [Ocean of Light](https://open.spotify.com/track/5gbwmcVNtld1MizUwPheBn) | [NELL](https://open.spotify.com/artist/5WY88tCMFA6J6vqSN3MmDZ) | [Newton’s Apple \(6\)](https://open.spotify.com/album/5gk09M6EOqVlLotppMyaJX) | 5:00 |
 | 35 | [OoWee](https://open.spotify.com/track/1XJyXvzfbOTjsM7rVTx0LI) | [NOWZ](https://open.spotify.com/artist/1iZwr6w3TWPNezX8yCtRBg) | [NOWADAYS](https://open.spotify.com/album/2BBF9OIbchGWTnp7iewVUG) | 2:59 |
-| 36 | [Let's get it](https://open.spotify.com/track/5jXkNKO2sKB2KOf2VRYBeo) | [NOWZ](https://open.spotify.com/artist/6QinNLUkOS5l2l0CPvDcJ6) | [Let's get it](https://open.spotify.com/album/61AITMim6kciS2m15JSZcf) | 2:57 |
+| 36 | [Let's get it](https://open.spotify.com/track/5jXkNKO2sKB2KOf2VRYBeo) | [NOWZ](https://open.spotify.com/artist/1iZwr6w3TWPNezX8yCtRBg) | [Let's get it](https://open.spotify.com/album/61AITMim6kciS2m15JSZcf) | 2:57 |
 | 37 | [Killin' It](https://open.spotify.com/track/2E7qG81LXdZEfobhcrVm06) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [Killin' It](https://open.spotify.com/album/7FbyxnCCfB4t8N8qwHrHi6) | 2:56 |
 | 38 | [DUH!](https://open.spotify.com/track/6Ts5zvNORCcfLG7K5etvuA) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [DUH!](https://open.spotify.com/album/31Q4mSPAjzNEwqSwyBzW5p) | 3:05 |
 | 39 | [T.B.H](https://open.spotify.com/track/39gaUtq2z4ejJbno7tWHbL) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [1st Mini Album 'MANITO'](https://open.spotify.com/album/58749dw7F011CU9lRmX0MO) | 2:55 |

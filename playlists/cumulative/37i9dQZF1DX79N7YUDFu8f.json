@@ -333,6 +333,24 @@
     },
     {
       "album": {
+        "name": "Beautiful",
+        "url": "https://open.spotify.com/album/6ogjzjAHinSMwAeRrEBvhz"
+      },
+      "artists": [
+        {
+          "name": "Solar State",
+          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
+        }
+      ],
+      "date_added": "2025-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193408,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/4ClH9Hzgy2pfpd4UaEbPRd"
+    },
+    {
+      "album": {
         "name": "Erasing Mountains",
         "url": "https://open.spotify.com/album/1sMcJVBw5jhWqbTxSUtatX"
       },
@@ -708,7 +726,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 221578,
       "name": "Daisy Dukes",
       "url": "https://open.spotify.com/track/5FDiYtSHAao9GnAgm2dcST"
@@ -784,6 +802,24 @@
       "duration_ms": 268973,
       "name": "Don't Forget About Me",
       "url": "https://open.spotify.com/track/04eXDIDkXFrfZQeJtLERVh"
+    },
+    {
+      "album": {
+        "name": "Don't Worry",
+        "url": "https://open.spotify.com/album/1lQA1bz1NctMXq6bNL9JwK"
+      },
+      "artists": [
+        {
+          "name": "NIEK",
+          "url": "https://open.spotify.com/artist/2xsUSoWl0cKfLnWuncskZY"
+        }
+      ],
+      "date_added": "2025-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230223,
+      "name": "Don't Worry",
+      "url": "https://open.spotify.com/track/5eGMGG2B3c7TTDwpinXRNv"
     },
     {
       "album": {
@@ -1106,7 +1142,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 207536,
       "name": "Forever",
       "url": "https://open.spotify.com/track/5m73Rb4xnEezVManFujRnC"
@@ -1168,6 +1204,24 @@
       "duration_ms": 278516,
       "name": "garden",
       "url": "https://open.spotify.com/track/7eC9BhFyx9etpODa2p9eRV"
+    },
+    {
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/2CMA7Jmsi4F33ihCXJbymv"
+      },
+      "artists": [
+        {
+          "name": "Moonloops",
+          "url": "https://open.spotify.com/artist/2rXIqzzsMByBxUJhiZPXWo"
+        }
+      ],
+      "date_added": "2025-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165580,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/6R7N4GhS0rm0bVDSJIiyrx"
     },
     {
       "album": {
@@ -3132,7 +3186,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 245945,
       "name": "pass you by",
       "url": "https://open.spotify.com/track/4NVwMupCTfITPXetR5aozp"

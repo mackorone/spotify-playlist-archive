@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdURFimg6Blm.md) - [plain]
 
 > Boost your energy with these dance tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,453,766 likes - 100 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,453,896 likes - 100 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

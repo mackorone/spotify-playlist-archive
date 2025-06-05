@@ -1,12 +1,12 @@
 {
   "description": "This is TOKiMONSTA. The essential tracks, all in one playlist.",
-  "num_followers": 8474,
+  "num_followers": 8476,
   "original_name": "This Is TOKiMONSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDzpgAAAAADDc/v7iN+ls4RvIxjqxN2l",
+  "snapshot_id": "aD47AAAAAACeES1F8ObMT2sRe4DUJQlO",
   "tracks": [
     {
       "added_at": null,
@@ -127,6 +127,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lune Rouge",
+        "url": "https://open.spotify.com/album/54R420j4PLSzgsdIWDkp2Z"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 133130,
+      "name": "Rouge",
+      "url": "https://open.spotify.com/track/5mbQwiRQrca4mf0lahfYe6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Desiderium",
         "url": "https://open.spotify.com/album/5F5I5bpS03YzEwBRH3vrGh"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 210448,
       "name": "Realla",
       "url": "https://open.spotify.com/track/34x4a9pz1wr6kDvwNuVUoI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lune Rouge",
-        "url": "https://open.spotify.com/album/54R420j4PLSzgsdIWDkp2Z"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 133130,
-      "name": "Rouge",
-      "url": "https://open.spotify.com/track/5mbQwiRQrca4mf0lahfYe6"
     },
     {
       "added_at": null,
@@ -203,6 +203,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lune Rouge",
+        "url": "https://open.spotify.com/album/54R420j4PLSzgsdIWDkp2Z"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 264733,
+      "name": "Rose's Thorn",
+      "url": "https://open.spotify.com/track/3r3XSRtRcpoQ87vcpYbP5h"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Creature Dreams",
         "url": "https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 309145,
       "name": "Darkest (Dim)",
       "url": "https://open.spotify.com/track/548HwuXDxj3wxRu45e0uf8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lune Rouge",
-        "url": "https://open.spotify.com/album/54R420j4PLSzgsdIWDkp2Z"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 264733,
-      "name": "Rose's Thorn",
-      "url": "https://open.spotify.com/track/3r3XSRtRcpoQ87vcpYbP5h"
     },
     {
       "added_at": null,
@@ -315,26 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eternal Reverie",
-        "url": "https://open.spotify.com/album/7xDQlillR9FwIIoxgKSEQb"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "Gavin Turek",
-          "url": "https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG"
-        }
-      ],
-      "duration_ms": 170567,
-      "name": "Lucky U",
-      "url": "https://open.spotify.com/track/2hyAkWYn2qNs3gXa1K9luF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oasis Nocturno",
         "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
       },
@@ -355,6 +335,26 @@
       "duration_ms": 212811,
       "name": "Get Me Some",
       "url": "https://open.spotify.com/track/02uIosVt2J6YyX5OWVLPKG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eternal Reverie",
+        "url": "https://open.spotify.com/album/7xDQlillR9FwIIoxgKSEQb"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Gavin Turek",
+          "url": "https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG"
+        }
+      ],
+      "duration_ms": 170567,
+      "name": "Lucky U",
+      "url": "https://open.spotify.com/track/2hyAkWYn2qNs3gXa1K9luF"
     },
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eternal Reverie",
-        "url": "https://open.spotify.com/album/7xDQlillR9FwIIoxgKSEQb"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 181894,
-      "name": "Coraz\u00f3n / Death by Disco, Pt. 2",
-      "url": "https://open.spotify.com/track/2rfFzqB70eKclvzNxqxW3F"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Midnight Menu",
         "url": "https://open.spotify.com/album/14JD9F2KTXf5MhzuCgXoAi"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 146441,
       "name": "Gamble",
       "url": "https://open.spotify.com/track/5JLSIy36h3QNQoanUJOd98"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eternal Reverie",
+        "url": "https://open.spotify.com/album/7xDQlillR9FwIIoxgKSEQb"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 181894,
+      "name": "Coraz\u00f3n / Death by Disco, Pt. 2",
+      "url": "https://open.spotify.com/track/2rfFzqB70eKclvzNxqxW3F"
     },
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eternal Reverie",
-        "url": "https://open.spotify.com/album/7xDQlillR9FwIIoxgKSEQb"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 274838,
-      "name": "Reverie",
-      "url": "https://open.spotify.com/track/76jIZHzRboYpVSqbVCYf5c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Midnight Menu",
         "url": "https://open.spotify.com/album/14JD9F2KTXf5MhzuCgXoAi"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 220032,
       "name": "Lovely Soul",
       "url": "https://open.spotify.com/track/01wmlBhq22bHYCCvmySnzC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eternal Reverie",
+        "url": "https://open.spotify.com/album/7xDQlillR9FwIIoxgKSEQb"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 274838,
+      "name": "Reverie",
+      "url": "https://open.spotify.com/track/76jIZHzRboYpVSqbVCYf5c"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eternal Reverie",
-        "url": "https://open.spotify.com/album/7xDQlillR9FwIIoxgKSEQb"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 113480,
-      "name": "Warm Water (Interlude)",
-      "url": "https://open.spotify.com/track/6y9i1XxvV6UrfIyt43A0ZG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lune Rouge",
         "url": "https://open.spotify.com/album/54R420j4PLSzgsdIWDkp2Z"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 217537,
       "name": "Don't Call Me (feat. Yuna)",
       "url": "https://open.spotify.com/track/56BOZ6JkLSFQxgIDXNLjul"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eternal Reverie",
+        "url": "https://open.spotify.com/album/7xDQlillR9FwIIoxgKSEQb"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 113480,
+      "name": "Warm Water (Interlude)",
+      "url": "https://open.spotify.com/track/6y9i1XxvV6UrfIyt43A0ZG"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eternal Reverie",
-        "url": "https://open.spotify.com/album/7xDQlillR9FwIIoxgKSEQb"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 127240,
-      "name": "Eternal",
-      "url": "https://open.spotify.com/track/15fgfl0mOgsWdf4lNN76ow"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lune Rouge",
         "url": "https://open.spotify.com/album/54R420j4PLSzgsdIWDkp2Z"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 266643,
       "name": "I Wish I Could (feat. Selah Sue)",
       "url": "https://open.spotify.com/track/4LEM9GuAIk6f78yVNI5Ngm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eternal Reverie",
+        "url": "https://open.spotify.com/album/7xDQlillR9FwIIoxgKSEQb"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 127240,
+      "name": "Eternal",
+      "url": "https://open.spotify.com/track/15fgfl0mOgsWdf4lNN76ow"
     },
     {
       "added_at": null,

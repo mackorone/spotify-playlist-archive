@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > Rap from hell\. Cover: $uicideboy$
 
-[Spotify](https://open.spotify.com/user/spotify) - 597,697 likes - 100 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 597,728 likes - 100 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 99 | [THIEF IN THE NIGHT](https://open.spotify.com/track/12kIpARSic31mwXTdUuMLU) | [Kelvin Krash](https://open.spotify.com/artist/4rjJpumNzqRUf75vCzSlQb), [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [THIEF IN THE NIGHT](https://open.spotify.com/album/3ydrHaAw7BOX1gNcqd8Pc4) | 1:59 |
 | 100 | [Out Bound](https://open.spotify.com/track/743lAvxFeQ4urSb4Cy9eWV) | [Lord Distortion](https://open.spotify.com/artist/43tKe2VlroCkY1eSfcwp7f) | [Out Bound](https://open.spotify.com/album/4Ni3S6HTbaAnsuEwoEti3h) | 2:36 |
 
-Snapshot ID: `Zyo7wAAAAABwk7MsHDxMKkokIZ0Z0ihu`
+Snapshot ID: `Zyo7wAAAAAAzemhooAXtEmbL2LA2cePd`

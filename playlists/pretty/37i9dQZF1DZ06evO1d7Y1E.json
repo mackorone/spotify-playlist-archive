@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Poze do Rodo. The essential tracks, all in one playlist.",
-  "num_followers": 117562,
+  "num_followers": 117644,
   "original_name": "This Is Mc Poze do Rodo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDzpgAAAAABYLxHIcGrmZ+rx1rJI6adm",
+  "snapshot_id": "aD47AAAAAABfLMMrDAyjQpfmhUZ+C4dL",
   "tracks": [
     {
       "added_at": null,
@@ -99,6 +99,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eu Fiz o Jogo Virar",
+        "url": "https://open.spotify.com/album/78d91UtLEOTAllTmgDh7n5"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        },
+        {
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
+        }
+      ],
+      "duration_ms": 145573,
+      "name": "Eu Fiz o Jogo Virar",
+      "url": "https://open.spotify.com/track/53BkPZwlaLbW77uV9BnJkl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Let's Go 5",
         "url": "https://open.spotify.com/album/44o1iCizbxPt4a6VJEQOKZ"
       },
@@ -159,34 +187,6 @@
       "duration_ms": 783117,
       "name": "Let's Go 5",
       "url": "https://open.spotify.com/track/1noFyrFs89ASUPka2azbD9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eu Fiz o Jogo Virar",
-        "url": "https://open.spotify.com/album/78d91UtLEOTAllTmgDh7n5"
-      },
-      "artists": [
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        },
-        {
-          "name": "Galdino",
-          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
-        }
-      ],
-      "duration_ms": 145573,
-      "name": "Eu Fiz o Jogo Virar",
-      "url": "https://open.spotify.com/track/53BkPZwlaLbW77uV9BnJkl"
     },
     {
       "added_at": null,
@@ -295,6 +295,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "O S\u00e1bio",
+        "url": "https://open.spotify.com/album/6aONODz5AYfzrNESWC9n4W"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Felipe Rosa",
+          "url": "https://open.spotify.com/artist/3de56pt399CWcGlNa7kB5N"
+        },
+        {
+          "name": "Mandark",
+          "url": "https://open.spotify.com/artist/5zvgzd56jcRvu40O5mdyGB"
+        }
+      ],
+      "duration_ms": 194823,
+      "name": "Mundo Covarde",
+      "url": "https://open.spotify.com/track/1m9gl7AQLRKDoAJnmbjTAF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mixtape Chir\u00f3",
         "url": "https://open.spotify.com/album/2hqitsZt4GZdgn7lFxw08S"
       },
@@ -327,34 +355,6 @@
       "duration_ms": 348292,
       "name": "Capa da Vogue",
       "url": "https://open.spotify.com/track/3rzMu9vRyCZAyGvBaJbL9t"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O S\u00e1bio",
-        "url": "https://open.spotify.com/album/6aONODz5AYfzrNESWC9n4W"
-      },
-      "artists": [
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
-        },
-        {
-          "name": "Felipe Rosa",
-          "url": "https://open.spotify.com/artist/3de56pt399CWcGlNa7kB5N"
-        },
-        {
-          "name": "Mandark",
-          "url": "https://open.spotify.com/artist/5zvgzd56jcRvu40O5mdyGB"
-        }
-      ],
-      "duration_ms": 194823,
-      "name": "Mundo Covarde",
-      "url": "https://open.spotify.com/track/1m9gl7AQLRKDoAJnmbjTAF"
     },
     {
       "added_at": null,
@@ -575,30 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LUME",
-        "url": "https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        }
-      ],
-      "duration_ms": 143255,
-      "name": "Sonho Dos Cria",
-      "url": "https://open.spotify.com/track/6KKT8dzP21J4WwBp9swjob"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desabafo",
         "url": "https://open.spotify.com/album/5glFkBO45WBRpvp4dMWPrm"
       },
@@ -627,6 +603,30 @@
       "duration_ms": 150508,
       "name": "Desabafo",
       "url": "https://open.spotify.com/track/37LWZe5mdHIKuXBh8GuwlH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LUME",
+        "url": "https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        }
+      ],
+      "duration_ms": 143255,
+      "name": "Sonho Dos Cria",
+      "url": "https://open.spotify.com/track/6KKT8dzP21J4WwBp9swjob"
     },
     {
       "added_at": null,
@@ -667,6 +667,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "O S\u00e1bio",
+        "url": "https://open.spotify.com/album/6aONODz5AYfzrNESWC9n4W"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        },
+        {
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
+        }
+      ],
+      "duration_ms": 186947,
+      "name": "Ai Calica",
+      "url": "https://open.spotify.com/track/65CB461aKF5FvIuuzqUgXu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Toma Jack",
         "url": "https://open.spotify.com/album/2RtehDMWnoR1NIKmS1oAJ7"
       },
@@ -699,34 +727,6 @@
       "duration_ms": 246153,
       "name": "Toma Jack",
       "url": "https://open.spotify.com/track/3UsIef0hR8Hroi9tw9Zoef"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O S\u00e1bio",
-        "url": "https://open.spotify.com/album/6aONODz5AYfzrNESWC9n4W"
-      },
-      "artists": [
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "Portugal No Beat",
-          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
-        },
-        {
-          "name": "Galdino",
-          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
-        }
-      ],
-      "duration_ms": 186947,
-      "name": "Ai Calica",
-      "url": "https://open.spotify.com/track/65CB461aKF5FvIuuzqUgXu"
     },
     {
       "added_at": null,
@@ -1431,22 +1431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vida de Chefe",
-        "url": "https://open.spotify.com/album/1AXdA0ag7FPITUgyXsbW8T"
-      },
-      "artists": [
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        }
-      ],
-      "duration_ms": 168018,
-      "name": "Vida de Chefe",
-      "url": "https://open.spotify.com/track/6tMrKuPeS4WXORZf8pASCr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Morena",
         "url": "https://open.spotify.com/album/6R4KQPAhbEZVBgyjuh2mYp"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 161775,
       "name": "Morena",
       "url": "https://open.spotify.com/track/4pjx7niz7aUfoOJOSW0BLM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vida de Chefe",
+        "url": "https://open.spotify.com/album/1AXdA0ag7FPITUgyXsbW8T"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        }
+      ],
+      "duration_ms": 168018,
+      "name": "Vida de Chefe",
+      "url": "https://open.spotify.com/track/6tMrKuPeS4WXORZf8pASCr"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6syClqvfM5aBL0Me93lq5Z.md) - [plain]
 
 > Dead dove, don&\#x27;t eat
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 59 songs - 3 hr 36 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 60 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,5 +67,6 @@ pretty - [cumulative](/playlists/cumulative/6syClqvfM5aBL0Me93lq5Z.md) - [plain]
 | 57 | [Trapped](https://open.spotify.com/track/6DT5d8o7ojxXs1dKwLXRRp) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [The Best of 2Pac](https://open.spotify.com/album/4Y9ISbppFbwk0r1XCLUi0I) | 4:44 |
 | 58 | [Changes](https://open.spotify.com/track/00i2HU7TEzzftShjRrDSEF) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Talent](https://open.spotify.com/artist/33JfM2NgTRFT9wMoQvcv6T) | [The Best of 2Pac](https://open.spotify.com/album/4Y9ISbppFbwk0r1XCLUi0I) | 4:28 |
 | 59 | [Resist The Temptation](https://open.spotify.com/track/2MYy0p8fjsfwmlIe3EafUj) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [The Best of 2Pac](https://open.spotify.com/album/4Y9ISbppFbwk0r1XCLUi0I) | 5:44 |
+| 60 | [American Idiot](https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot](https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke) | 2:56 |
 
-Snapshot ID: `AAAAQHELMowM40MrDOzrwNNYZyhhGxQk`
+Snapshot ID: `AAAAQRvSlQbKSiu/c3rEWdTlIogfJrRo`

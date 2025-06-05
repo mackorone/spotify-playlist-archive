@@ -1,12 +1,12 @@
 {
   "description": "This is J. Cole. The essential tracks, all in one playlist.",
-  "num_followers": 920743,
+  "num_followers": 920800,
   "original_name": "This Is J. Cole",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDzpgAAAAAD3pqI98E01ZD52hlybWEFE",
+  "snapshot_id": "aD47AAAAAAAFdsK+rE/y3ZFrCdgh9Vw2",
   "tracks": [
     {
       "added_at": null,
@@ -787,26 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Might Delete Later",
-        "url": "https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        },
-        {
-          "name": "Bas",
-          "url": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
-        }
-      ],
-      "duration_ms": 135213,
-      "name": "Stealth Mode (feat. Bas)",
-      "url": "https://open.spotify.com/track/3zyjnHtoi8AtiGgZFnJP7O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Revenge Of The Dreamers III",
         "url": "https://open.spotify.com/album/2n3quCZ0anEa46j2IveacI"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 382306,
       "name": "Sacrifices (with EARTHGANG & J. Cole feat. Smino & Saba)",
       "url": "https://open.spotify.com/track/7wTA0NKIm6T7nP2kaymU2a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Might Delete Later",
+        "url": "https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Bas",
+          "url": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
+        }
+      ],
+      "duration_ms": 135213,
+      "name": "Stealth Mode (feat. Bas)",
+      "url": "https://open.spotify.com/track/3zyjnHtoi8AtiGgZFnJP7O"
     },
     {
       "added_at": null,
@@ -875,22 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Snow On Tha Bluff",
-        "url": "https://open.spotify.com/album/0MXpE6m0mEK0r3TuERb9Yd"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 235480,
-      "name": "Snow On Tha Bluff",
-      "url": "https://open.spotify.com/track/1oOEkBNp4zWnkD7nWjJdog"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Revenge Of The Dreamers III",
         "url": "https://open.spotify.com/album/2n3quCZ0anEa46j2IveacI"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 169146,
       "name": "Down Bad (feat. JID, Bas, J. Cole, EARTHGANG & Young Nudy)",
       "url": "https://open.spotify.com/track/36J0iaPDGbYGsHvYpaYs3k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Snow On Tha Bluff",
+        "url": "https://open.spotify.com/album/0MXpE6m0mEK0r3TuERb9Yd"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 235480,
+      "name": "Snow On Tha Bluff",
+      "url": "https://open.spotify.com/track/1oOEkBNp4zWnkD7nWjJdog"
     },
     {
       "added_at": null,

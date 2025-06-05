@@ -4,7 +4,7 @@
 
 > feel the magic with the gems in r&b right now
 
-630 songs - 1 day 8 hr 24 min
+631 songs - 1 day 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,7 +216,7 @@
 | [Go Girlfriend](https://open.spotify.com/track/7sDsbFNNQmG2UmRjHtO7fW) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [11:11 \(Deluxe\)](https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz) | 2:55 | 2025-02-05 | 2025-03-08 |
 | [Gone Girl](https://open.spotify.com/track/2l3UrQ9RRUDHH2H6vUV723) | [Maya Mae](https://open.spotify.com/artist/3Rf9Szpp2LkKOc3SffGinv), [May](https://open.spotify.com/artist/1qUYX7PH6ubHnoCGWbjEW6) | [Gone Girl](https://open.spotify.com/album/0KGCksTaW4MwH3omcckWWU) | 3:01 | 2024-02-29 | 2025-02-06 |
 | [Good Day](https://open.spotify.com/track/6Go0mbl0KkPgQ5lCU4rT06) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Good Day](https://open.spotify.com/album/1dmyYsIIRVePvCLhFb7Dd1) | 4:35 | 2025-05-06 |  |
-| [Good Day](https://open.spotify.com/track/6UzeqhR2HzAp71r7FToxaP) | [ROMAN S](https://open.spotify.com/artist/6tuerTyQCwlUIhVdfmQGKE), [Zackery](https://open.spotify.com/artist/5GQHNdYVBppXNGb7RHJHIc) | [Good Day](https://open.spotify.com/album/5e62sirP6DFfV8Hx2J5tVP) | 2:48 | 2025-06-02 |  |
+| [Good Day](https://open.spotify.com/track/6UzeqhR2HzAp71r7FToxaP) | [ROMAN S](https://open.spotify.com/artist/6tuerTyQCwlUIhVdfmQGKE), [Zackery](https://open.spotify.com/artist/02vFolqTjAUkQ6M2zSgoiN) | [Good Day](https://open.spotify.com/album/5e62sirP6DFfV8Hx2J5tVP) | 2:48 | 2025-06-02 |  |
 | [Good Good](https://open.spotify.com/track/0J1YRLYhTG1MBosjidD7OI) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Good Good](https://open.spotify.com/album/42dnGUpj3OEU4anDNW69j3) | 4:07 | 2023-08-14 | 2024-09-28 |
 | [Goofy](https://open.spotify.com/track/1A5hxo3hCF6FxBunEoKWcS) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Goofy](https://open.spotify.com/album/5JB8bhuOvIwo2CAYUPinmW) | 3:21 | 2023-01-12 | 2023-09-22 |
 | [grateful](https://open.spotify.com/track/7mMzlK2pYVbgkUL1zaGGyV) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 4:01 | 2022-01-20 | 2023-01-13 |
@@ -492,6 +492,7 @@
 | [Simp](https://open.spotify.com/track/1Blus5ZR4S5vAnLfzwAduY) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [Simp](https://open.spotify.com/album/4P8lTjlKEMjE8uDkJBG2Tr) | 2:31 | 2023-02-23 | 2023-11-10 |
 | [sing about love](https://open.spotify.com/track/5B3vp0n7EJch6ExLlyfLdl) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [sing about love](https://open.spotify.com/album/0ZH61KMwJcevDmzFkxVXoz) | 3:34 | 2021-12-16 | 2023-01-13 |
 | [Sleeping On The Phone](https://open.spotify.com/track/1bCNLn0UKZ2wjxN6ZmvcTh) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Small Town Boy](https://open.spotify.com/album/3mSrMuAvI7GNxaxhrTx4ry) | 3:09 | 2021-12-16 | 2022-03-18 |
+| [Sleepwalking](https://open.spotify.com/track/33AhUMkQqyaRGJi0U9hXxt) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Sleepwalking](https://open.spotify.com/album/0Bf1QKo9KdzPtpLY3pRPEO) | 2:42 | 2025-06-04 |  |
 | [Slide](https://open.spotify.com/track/15SHKUdlRaqIVTJWcP5n5a) | [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF), [J Warner](https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo) | [Wish You Were Here](https://open.spotify.com/album/3KzXjaZ3bOVtC6RgFCkUTE) | 3:35 | 2024-02-29 | 2025-02-06 |
 | [Slow Down](https://open.spotify.com/track/2SlLZusHiwJ7sl18O4BssR) | [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY) | [Slow Down](https://open.spotify.com/album/7aSJHePqF7bfzQRVozwj4a) | 2:20 | 2025-05-06 |  |
 | [Slow it Down \(Rose Version\)](https://open.spotify.com/track/6zraPgSDo99uPe7MeimWQN) | [shy ink](https://open.spotify.com/artist/2guvMedMt6BlFklBVfFTR3), [Kish](https://open.spotify.com/artist/2gVFsWpxGngHu7qbYbj8Ci) | [Slow it Down \(Rose Version\)](https://open.spotify.com/album/6PSruIYZmDSEWx0zWBYbLt) | 2:48 | 2022-02-17 | 2023-01-13 |

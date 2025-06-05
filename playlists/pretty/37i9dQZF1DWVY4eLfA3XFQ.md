@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > 50% techno, 50% house 🦋 Tech house technicians, featuring Michael Bibi
 
-[Spotify](https://open.spotify.com/user/spotify) - 680,022 likes - 125 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 680,096 likes - 125 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 | 124 | [Blocked](https://open.spotify.com/track/768JazCT1tUiO0vqp47MXH) | [DJ Minx](https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B) | [Blocked](https://open.spotify.com/album/0x0Ou3FP7rLlFKPkG4sVzF) | 3:21 |
 | 125 | [Dile](https://open.spotify.com/track/7qsyyhllSvwoJl4I1O4VZW) | [Juos](https://open.spotify.com/artist/25b30wypcCBgPGWG28RUcl) | [Welcome to Hell III](https://open.spotify.com/album/4x5D8GnJE4JoAdZI41Z8PF) | 2:30 |
 
-Snapshot ID: `aDktYwAAAABsurEWjhqQp0wHCm+LZnQV`
+Snapshot ID: `aDktYwAAAAB+npfhXoNwy9x4dKb1bGrj`

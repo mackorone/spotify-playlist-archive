@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LNmKG8TiZU.md) - [plain]
 
 > Des titres pop, tout en douceur\. Photo : Selena Gomez & benny blanco
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,892 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,899 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LNmKG8TiZU.md) - [plain]
 | 49 | [Easy](https://open.spotify.com/track/72y7LZzbvrFQJcsNELTtjE) | [Derik Fein](https://open.spotify.com/artist/7CzURHjIfP0ClUnjVRyF1i) | [Easy](https://open.spotify.com/album/6Fdk1QSdUhNWnLeQ64ClZj) | 2:35 |
 | 50 | [ORIGAMI](https://open.spotify.com/track/72NmXqiEP6N6eXBgEBzlWZ) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [SINK NOW, SWIM LATER](https://open.spotify.com/album/3I4wGPLbEK018FP6jk124k) | 3:02 |
 
-Snapshot ID: `AAAAAOb36YOO2OA64bjUlaau4fEVF/q7`
+Snapshot ID: `aCZkAwAAAAB0jjQn8BR5jANB4QZd9pLg`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3pnRTWkm9D7.md) - [plain]
 
 > <a href="spotify:user:spotify:playlist:37i9dQZF1DWXQXM7agvwjO">.ORG</a>  presents Asian Indie songs we loved the most in 2024\. \#SpotifyWrapped Cover: Thee Marloes
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,288 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,287 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

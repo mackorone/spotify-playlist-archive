@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6Jpe4ShQ4FHHUAwgCKE2JO.md) - [plain]
 
 > This country is a corpse
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 likes - 46 songs - 2 hr 50 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 likes - 47 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,5 +54,6 @@ pretty - [cumulative](/playlists/cumulative/6Jpe4ShQ4FHHUAwgCKE2JO.md) - [plain]
 | 44 | [Resist The Temptation](https://open.spotify.com/track/2MYy0p8fjsfwmlIe3EafUj) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [The Best of 2Pac](https://open.spotify.com/album/4Y9ISbppFbwk0r1XCLUi0I) | 5:44 |
 | 45 | [Comfort Eagle](https://open.spotify.com/track/2qQCU22yQXKjhytKUBxa59) | [CAKE](https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV) | [Comfort Eagle](https://open.spotify.com/album/5OCg9OWnL1PY4tW2ON8ssj) | 3:40 |
 | 46 | [The Hand That Feeds](https://open.spotify.com/track/1ejQlif5hMrqgnfnZztCsN) | [The Crane Wives](https://open.spotify.com/artist/5U6leWxYKsuTkd4kXcF1a6) | [Coyote Stories](https://open.spotify.com/album/7LhR1u0oyu001ADfAxEtsS) | 4:27 |
+| 47 | [American Idiot](https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot](https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke) | 2:56 |
 
-Snapshot ID: `AAAAPqzmdK1fRn9Ns1lkdFXHsKledLgA`
+Snapshot ID: `AAAAPxcboesq3tK69pm0miLdqwH8IK1M`

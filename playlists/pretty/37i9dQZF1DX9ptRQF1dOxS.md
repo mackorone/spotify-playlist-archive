@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ptRQF1dOxS.md) - [plain]
 
 > Listen to women at full volume\. Cover: Nilüfer Yanya<br/>💚
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,200 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,201 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,24 +39,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ptRQF1dOxS.md) - [plain]
 | 29 | [The Wind](https://open.spotify.com/track/3CHfuMoubpCT39PBTvAWk9) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Is This Desire?](https://open.spotify.com/album/1LQlpOjLrnNvsqg6tosrYD) | 4:01 |
 | 30 | [PURE LOVE](https://open.spotify.com/track/7dW4sNrBy26jXtvQ1gXbqM) | [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [PURE LOVE](https://open.spotify.com/album/4aUpH9vKU2ghKu6mS2SZIO) | 3:24 |
 | 31 | [DYGA](https://open.spotify.com/track/4qzTOrUEvNLOeR4357KT7W) | [SCARLET](https://open.spotify.com/artist/284gfU2jTQOAWk8WJgYKUj) | [Glorified Daydreams](https://open.spotify.com/album/7ffGEfn3VdpK5e8obkFsAV) | 3:08 |
-| 32 | [Who'd Have Known](https://open.spotify.com/track/3OFacwSNvln7Bcx3wGOpjV) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [It's Not Me, It's You \(Special Edition\)](https://open.spotify.com/album/4zZKTqu7DkowQnO9Bcx4KX) | 3:50 |
-| 33 | [Dog Days Are Over](https://open.spotify.com/track/456WNXWhDwYOSf5SpTuqxd) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Version\)](https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5) | 4:12 |
-| 34 | [U R MINE](https://open.spotify.com/track/35XGKa1TxVMcmUKIPNB5lF) | [Kaeto](https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK) | [INTRO](https://open.spotify.com/album/6nLhO0HjISaaG6Snxi8nMF) | 3:11 |
-| 35 | [Sucker](https://open.spotify.com/track/7KoEgsFYq8mk37AiPqQZKP) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Love Me Please](https://open.spotify.com/album/66ZYTPi0jLZ6geTByqUiIv) | 2:38 |
-| 36 | [Midnight Oil](https://open.spotify.com/track/7kxHjAiIYCM3vU8BA9a6Qe) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Scarlet Lamb](https://open.spotify.com/album/5usTfd8cfuQttU2w3Eh0q3) | 3:26 |
-| 37 | [Smile](https://open.spotify.com/track/0mjOx4zUlL5t4rF1xnrfvi) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1zt521PK0lam6J79DNMIJi) | 3:16 |
-| 38 | [Roads](https://open.spotify.com/track/2sW8fmnISifQTRgnRrQTYW) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Dummy](https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno) | 5:03 |
-| 39 | [What Happened.](https://open.spotify.com/track/4JHIRSicUIwvi997lxoAN3) | [Annie\-Dog](https://open.spotify.com/artist/0kWbyk1GXEB8RrVVOlKmVU) | [15](https://open.spotify.com/album/5eDAiMfKjtgrk5RK7OTfvO) | 2:33 |
-| 40 | [Wish You Were Dead](https://open.spotify.com/track/7oWGcQfpSXUL8c61p6ycrh) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [This Wasn't Meant For You Anyway](https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U) | 3:14 |
-| 41 | [U](https://open.spotify.com/track/1tqIW51IIF0tBOR3CEDAmA) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [U \(Remixes\)](https://open.spotify.com/album/6c5FsWPH0iGnMoTJtMwoBr) | 3:38 |
-| 42 | [Goodnight and Go](https://open.spotify.com/track/4lJjVASVLA8m4RJUCD6MPL) | [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Speak for Yourself \(Deluxe Version\)](https://open.spotify.com/album/5DuihGAcuJdwyktx3EmncM) | 3:52 |
-| 43 | [Never Need Me](https://open.spotify.com/track/2gWY1fvwvKPQFFoahY4p3v) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [What A Devastating Turn of Events](https://open.spotify.com/album/1Td1oiZTQFYR7N1QX00uhr) | 3:25 |
-| 44 | [In Binary](https://open.spotify.com/track/6Etex7fs9liXrnYsfbnDXp) | [Lamb](https://open.spotify.com/artist/08YvZ2qzFrDSITfHLbPKMP) | [Backspace Unwind](https://open.spotify.com/album/671JwUZKW1Qrwh2kEVR9tH) | 5:16 |
-| 45 | [CUPID'S GIRL](https://open.spotify.com/track/6J3iKDREvATgK5GHbc8SAE) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [CUPID'S GIRL](https://open.spotify.com/album/0pPd1jhwuVDqIVOiqYDMcB) | 3:28 |
-| 46 | [the perfect pair](https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:57 |
-| 47 | [Tough Luck](https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Tough Luck](https://open.spotify.com/album/6fUa2nGebxcruwkUtLnOD2) | 3:12 |
+| 32 | [Dog Days Are Over](https://open.spotify.com/track/456WNXWhDwYOSf5SpTuqxd) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Version\)](https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5) | 4:12 |
+| 33 | [U R MINE](https://open.spotify.com/track/35XGKa1TxVMcmUKIPNB5lF) | [Kaeto](https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK) | [INTRO](https://open.spotify.com/album/6nLhO0HjISaaG6Snxi8nMF) | 3:11 |
+| 34 | [Sucker](https://open.spotify.com/track/7KoEgsFYq8mk37AiPqQZKP) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Love Me Please](https://open.spotify.com/album/66ZYTPi0jLZ6geTByqUiIv) | 2:38 |
+| 35 | [Midnight Oil](https://open.spotify.com/track/7kxHjAiIYCM3vU8BA9a6Qe) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Scarlet Lamb](https://open.spotify.com/album/5usTfd8cfuQttU2w3Eh0q3) | 3:26 |
+| 36 | [Smile](https://open.spotify.com/track/0mjOx4zUlL5t4rF1xnrfvi) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1zt521PK0lam6J79DNMIJi) | 3:16 |
+| 37 | [Roads](https://open.spotify.com/track/2sW8fmnISifQTRgnRrQTYW) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Dummy](https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno) | 5:03 |
+| 38 | [What Happened.](https://open.spotify.com/track/4JHIRSicUIwvi997lxoAN3) | [Annie\-Dog](https://open.spotify.com/artist/0kWbyk1GXEB8RrVVOlKmVU) | [15](https://open.spotify.com/album/5eDAiMfKjtgrk5RK7OTfvO) | 2:33 |
+| 39 | [Wish You Were Dead](https://open.spotify.com/track/7oWGcQfpSXUL8c61p6ycrh) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [This Wasn't Meant For You Anyway](https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U) | 3:14 |
+| 40 | [U](https://open.spotify.com/track/1tqIW51IIF0tBOR3CEDAmA) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [U \(Remixes\)](https://open.spotify.com/album/6c5FsWPH0iGnMoTJtMwoBr) | 3:38 |
+| 41 | [Goodnight and Go](https://open.spotify.com/track/4lJjVASVLA8m4RJUCD6MPL) | [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Speak for Yourself \(Deluxe Version\)](https://open.spotify.com/album/5DuihGAcuJdwyktx3EmncM) | 3:52 |
+| 42 | [Never Need Me](https://open.spotify.com/track/2gWY1fvwvKPQFFoahY4p3v) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [What A Devastating Turn of Events](https://open.spotify.com/album/1Td1oiZTQFYR7N1QX00uhr) | 3:25 |
+| 43 | [In Binary](https://open.spotify.com/track/6Etex7fs9liXrnYsfbnDXp) | [Lamb](https://open.spotify.com/artist/08YvZ2qzFrDSITfHLbPKMP) | [Backspace Unwind](https://open.spotify.com/album/671JwUZKW1Qrwh2kEVR9tH) | 5:16 |
+| 44 | [CUPID'S GIRL](https://open.spotify.com/track/6J3iKDREvATgK5GHbc8SAE) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [CUPID'S GIRL](https://open.spotify.com/album/0pPd1jhwuVDqIVOiqYDMcB) | 3:28 |
+| 45 | [the perfect pair](https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:57 |
+| 46 | [Tough Luck](https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Tough Luck](https://open.spotify.com/album/6fUa2nGebxcruwkUtLnOD2) | 3:12 |
+| 47 | [Who'd Have Known](https://open.spotify.com/track/3OFacwSNvln7Bcx3wGOpjV) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [It's Not Me, It's You \(Special Edition\)](https://open.spotify.com/album/4zZKTqu7DkowQnO9Bcx4KX) | 3:50 |
 | 48 | [Road Rage](https://open.spotify.com/track/1A7pz58VR2Lpc19c58QdSo) | [Catatonia](https://open.spotify.com/artist/4Bgfzia8wyaGaTn42egzTv) | [International Velvet](https://open.spotify.com/album/5oORHAxHQggskA01yI3l6a) | 5:08 |
 | 49 | [Feel Anything](https://open.spotify.com/track/3nsHAOlg5kVlbZfkwaSmfZ) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [Feel Anything](https://open.spotify.com/album/3lOds66db1cRvTTO6Gcx4a) | 2:42 |
 | 50 | [Someday Soon](https://open.spotify.com/track/7JDQkqbWrrPabNz1nSC2GB) | [KT Tunstall](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) | [Drastic Fantastic \(Ultimate Edition\)](https://open.spotify.com/album/21tZ8Ewwk2ppGDhvNnLia1) | 3:53 |
 
-Snapshot ID: `aD9+gAAAAAA2Q/WkSAuCrTuFV6qosxag`
+Snapshot ID: `aECf8wAAAAC5kb2PwhPPehUFP0+m+c1U`

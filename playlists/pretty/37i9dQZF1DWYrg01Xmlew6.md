@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Rap napoletano e il meglio della scena campana\. Luchè e Geolier in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,807 likes - 57 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,824 likes - 57 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 7 | [A FACCIA TOJ \(feat\. Vale Lambo\)](https://open.spotify.com/track/768nVxtZe6YhUNSIk54E6q) | [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn), [Dele](https://open.spotify.com/artist/58bdmuoVnCLzq3gqATaLLB) | [CON I MIEI OCCHI \(Deluxe\)](https://open.spotify.com/album/3JmVV05udBd2BR4qiDY3o1) | 2:12 |
 | 8 | [FERRARI \(from "Uonderbois"\)](https://open.spotify.com/track/6RJW9DiBr1RDjgT4GdCSp7) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Dat Boi Dee](https://open.spotify.com/artist/3wDn3kW2zDRLnaQAnX0S3x), [ROOM9](https://open.spotify.com/artist/3k3lLcA3Yy5tW7yhdFaDzU) | [DIO LO SA \- ATTO II](https://open.spotify.com/album/6zm0N3GCyTiHOD7V5i8TZQ) | 2:43 |
 | 9 | [FLOW LACOSTE](https://open.spotify.com/track/2KPjsuO3olYhmtXs9doqnK) | [Kalionte](https://open.spotify.com/artist/4EXgod8ey7HXn2o8zAOcAQ), [Tremezio](https://open.spotify.com/artist/02abHMifVy7w6c885Shskd) | [FLOW LACOSTE](https://open.spotify.com/album/3g90o8oZzDtb2xwr9N0jMZ) | 1:54 |
-| 10 | [HASTA LA MUERTE](https://open.spotify.com/track/7rb3Fo6N2NhbsBlCtNjYUk) | [Capozanarky](https://open.spotify.com/artist/4L2hq3OboU70UVsqOrU6qt) | [HASTA LA MUERTE](https://open.spotify.com/album/7BO0UzQeDgHK3g1rYcw4M5) | 2:34 |
+| 10 | [HASTA LA MUERTE](https://open.spotify.com/track/7rb3Fo6N2NhbsBlCtNjYUk) | [Capozanarky](https://open.spotify.com/artist/4L2hq3OboU70UVsqOrU6qt), [Paulbeatzz](https://open.spotify.com/artist/6fXM11nMcMwHW9ssWL4cK5) | [HASTA LA MUERTE](https://open.spotify.com/album/7BO0UzQeDgHK3g1rYcw4M5) | 2:34 |
 | 11 | [Amen](https://open.spotify.com/track/7pnRnAslrs3aDype0ZfOBq) | [JELECROIS](https://open.spotify.com/artist/2kZAbjn3zWasP4zuwk0QAP), [Sau27](https://open.spotify.com/artist/1KZF3e9QB6eO3h6Nt5pA4P) | [Amen](https://open.spotify.com/album/6WPFLiWImRXK22OqMBOTpE) | 2:17 |
 | 12 | [EL PIBE DE ORO](https://open.spotify.com/track/2bkz0YDgPTNOto5OhskjbS) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Poison Beatz](https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK) | [EL PIBE DE ORO](https://open.spotify.com/album/78Ziu5LJzQEHNrjgW9t1D4) | 2:35 |
 | 13 | [TERRORIST](https://open.spotify.com/track/5REi9GidMTcisKNmXHUyAd) | [El Chapo Junior](https://open.spotify.com/artist/1fWDYRSANxGCdDew83u6Wc), [EMDI](https://open.spotify.com/artist/1Qa7XkZpAw9Nk2nHiQLD6S) | [TERRORIST](https://open.spotify.com/album/0GtfXfhSj43kGiMrq0F16N) | 2:02 |

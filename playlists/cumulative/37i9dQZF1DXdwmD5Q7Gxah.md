@@ -2,9 +2,9 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> <a href="https://loremandfriends.substack.com/p/put\-me\-on\-a\-porch\-with\-a\-crispy\-beverage">Check out our May newsletter!</a> Cover: strongboi
+> <a href="https://loremandfriends.substack.com/p/put\-me\-on\-a\-porch\-with\-a\-crispy\-beverage">Check out our May newsletter!</a> Cover: Ethel Cain
 
-3,383 songs - 7 day 16 hr 19 min
+3,385 songs - 7 day 16 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,6 +265,7 @@
 | [Back To Me](https://open.spotify.com/track/4E0P1xs3JNmsNr5c5nFTZJ) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Back To Me](https://open.spotify.com/album/3y8LtE30zPfQ4sXYRKvt2e) | 3:34 | 2025-04-04 |  |
 | [Back to the Start](https://open.spotify.com/track/1ErY5BBTlfFVnewSQ4rwKY) | [KALI](https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM) | [Back to the Start](https://open.spotify.com/album/1CyBZOTLfg7xpqI72HbGS9) | 3:23 | 2020-11-13 | 2021-04-16 |
 | [Back To Your House](https://open.spotify.com/track/2eK0u7az7XDR6UQ8lSmc9h) | [Solomonophonic](https://open.spotify.com/artist/4Ino9RgrdzNW29Ycx3xxwU) | [Back To Your House](https://open.spotify.com/album/4DOPTgAQYsdF1iGUvH7r8y) | 2:28 | 2020-11-20 | 2021-01-12 |
+| [Backseat](https://open.spotify.com/track/7yT4NJt5rgmVoMJMGPULcj) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Backseat](https://open.spotify.com/album/4SnYbgZqKOxc2eCRdMS3xu) | 6:23 | 2025-06-04 |  |
 | [Backseat](https://open.spotify.com/track/1bm6MSwBgSeXp2UPJ0nqCl) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [Benton Way / Backseat](https://open.spotify.com/album/6QKkWcdvZrQEyIoR1SAjtK) | 3:03 | 2019-12-14 | 2020-05-07 |
 | [backseat](https://open.spotify.com/track/2ivpTUIMtk6YUWmEGEfbpN) | [Sfven](https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb) | [backseat](https://open.spotify.com/album/7nYjwblIZN4P6q597kmjNO) | 3:17 | 2021-10-30 | 2021-12-02 |
 | [Backwards](https://open.spotify.com/track/3HL4n8vCeCyYLxogqkUxup) | [Forrest.](https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ) | [Backwards](https://open.spotify.com/album/67buolBsDm0XkJikkqZRxv) | 2:53 | 2020-08-21 | 2021-03-31 |
@@ -2031,6 +2032,7 @@
 | [Needs](https://open.spotify.com/track/0WKmVAD4VWk5EdTyCFILi4) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [Needs](https://open.spotify.com/album/1QP3qNaDwOJByK4D0WHOFE) | 2:57 | 2019-09-20 | 2020-09-15 |
 | [Needy](https://open.spotify.com/track/7EHZMOUAhYwnAoAO8cIKOw) | [Shrimpnose](https://open.spotify.com/artist/6My0aHQrZyz0vqqcf06s1D), [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [Needy](https://open.spotify.com/album/0DNUQA7dBG8fzvzZd5Tx3f) | 2:38 | 2022-01-21 | 2022-02-26 |
 | [neon](https://open.spotify.com/track/6OowiqIzUaMErs7eKAL9o8) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [still sad still sexy](https://open.spotify.com/album/40lqihqmkBdwM0QczKnoME) | 3:25 | 2019-07-30\* | 2019-10-10 |
+| [Nettles](https://open.spotify.com/track/3xoM5gZ2RVQqLkjqEgrJ4x) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Nettles](https://open.spotify.com/album/5pSV5j43pKRDxvyDgHurDM) | 8:03 | 2025-06-04 |  |
 | [NEVER AGAIN](https://open.spotify.com/track/1ssKH0F6yLc3neySzdUMN2) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [NEVER AGAIN](https://open.spotify.com/album/6cJQHjzKnI1Q9YRrnU1LOW) | 2:25 | 2024-01-12 | 2024-04-19 |
 | [Never Cared](https://open.spotify.com/track/5ZGidWqM4SKev5YSnFH9RK) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw), [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [Never Cared](https://open.spotify.com/album/6TePe3YzQ6I3neT2vuUaRT) | 3:24 | 2019-07-30\* | 2019-12-14 |
 | [NEVER ENOUGH](https://open.spotify.com/track/645zFwzeoDoEkkSLgup2oq) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [LOOK OUT FOR ME](https://open.spotify.com/album/0BUO6QDa4EBoVuMumIaAza) | 4:47 | 2025-05-22 |  |

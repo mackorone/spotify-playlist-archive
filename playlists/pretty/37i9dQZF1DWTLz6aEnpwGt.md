@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLz6aEnpwGt.md) - [plain]
 
 > Bach's most popular piano pieces, performed by the greatest pianists of the last century.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,174 likes - 43 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,201 likes - 43 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

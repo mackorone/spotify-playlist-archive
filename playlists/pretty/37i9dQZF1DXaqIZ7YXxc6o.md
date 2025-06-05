@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: SACHI
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,524 likes - 95 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,527 likes - 95 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 24 | [Ruins](https://open.spotify.com/track/4jfB2EGWbtWzDoM696Ch6u) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Ruins](https://open.spotify.com/album/13xj625T4hyjosgTEZBRLH) | 2:40 |
 | 25 | [DEYA](https://open.spotify.com/track/5Irlkjy18pG847hcN3pJtR) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [DEYA](https://open.spotify.com/album/6DrhGVMKEswgZdbmlsL7ga) | 2:56 |
 | 26 | [Eyes](https://open.spotify.com/track/0eMV7pbegUhXUIMwXRBfHg) | [KSMBA](https://open.spotify.com/artist/6Mlg0F6j2vEBt6d4LqGjoS) | [Eyes](https://open.spotify.com/album/3aWCNnf3sFrYTXKSf8Zowc) | 3:43 |
-| 27 | [Manía](https://open.spotify.com/track/79aIchpmJXJPDx9J68r3Hg) | [Pangaea](https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE), [Jazz Alonso](https://open.spotify.com/artist/2ghMQoYAKLMNHs896hl93k) | [Manía](https://open.spotify.com/album/6Q7DhlfnFSV2LM4J2hvHMy) | 2:51 |
+| 27 | [Manía](https://open.spotify.com/track/79aIchpmJXJPDx9J68r3Hg) | [Pangaea](https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE), [Jazz Alonso](https://open.spotify.com/artist/7eSY3eOVSH5SLYU0BV9sCY) | [Manía](https://open.spotify.com/album/6Q7DhlfnFSV2LM4J2hvHMy) | 2:51 |
 | 28 | [The Longest Road Ahead](https://open.spotify.com/track/5fnzgW7makqBbHDa05X1GR) | [Morgan Page](https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b), [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [The Longest Road Ahead](https://open.spotify.com/album/5TOnyYfdQcJB1woua1596h) | 3:53 |
 | 29 | [TANK IT](https://open.spotify.com/track/4ubO4kObhIGP6kHN1QPE3r) | [Sentimento](https://open.spotify.com/artist/3jCZxcHy73RLlHU5WWZDqa) | [TANK IT](https://open.spotify.com/album/081KqR46idkIxhnf5TgQLD) | 2:37 |
 | 30 | [Shiny Disco Balls](https://open.spotify.com/track/64YbQpF1rTpXpvxbZNAXO9) | [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM), [Benson](https://open.spotify.com/artist/1b4hTx0gHm3uA0AkZ3GdtY) | [Shiny Disco Balls](https://open.spotify.com/album/1tgSEOSxqlemShSJDQwmes) | 3:00 |

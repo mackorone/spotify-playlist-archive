@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXau5inouuhi5.md) - [plain]
 
 > Listen to music and soundtrack from Kingdom Hearts series\. PC\(Steam®\)版『キングダム ハーツ』シリーズ発売記念。シリーズ作品のサウンドトラックを聴いて作品の思い出を振り返ろう。 © Disney.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,540 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,574 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXau5inouuhi5.md) - [plain]
 | 99 | [Dearly Beloved \- Unchained χ Version\-](https://open.spotify.com/track/383hvtumCvxKwCddwT9Po5) | [Yoko Shimomura](https://open.spotify.com/artist/2uDsUIyCIqk9wKj17I8WAH) | [KINGDOM HEARTS \- III, II.8, Unchained χ & Union χ \[Cross\] – \(Original Soundtrack\)](https://open.spotify.com/album/3e7IU11zNQe3GzMnGDeQOX) | 3:29 |
 | 100 | [Dearly Beloved \- χ Back Cover Version\-](https://open.spotify.com/track/7Ey0oCKaw4801SZsPiScqM) | [Yoko Shimomura](https://open.spotify.com/artist/2uDsUIyCIqk9wKj17I8WAH) | [KINGDOM HEARTS \- III, II.8, Unchained χ & Union χ \[Cross\] – \(Original Soundtrack\)](https://open.spotify.com/album/3e7IU11zNQe3GzMnGDeQOX) | 2:14 |
 
-Snapshot ID: `ZsdScAAAAAC5abGdqOULOuYgozjfuWi6`
+Snapshot ID: `ZsdScAAAAABuCEy976T/1cy7grkrOX7R`

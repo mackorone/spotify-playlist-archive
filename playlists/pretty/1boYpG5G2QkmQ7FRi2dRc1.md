@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 
 > A weekly selection of tracks that I love to listen to at home or play out at a party.
 
-[Martin Garrix](https://open.spotify.com/user/martingarrix) - 287,861 likes - 42 songs - 2 hr 15 min
+[Martin Garrix](https://open.spotify.com/user/martingarrix) - 287,831 likes - 42 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 | 37 | [Nirvana \- Hot Since 82 Remix](https://open.spotify.com/track/14Ved6GqEkNGzVV95z7mf4) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Layla Benitez](https://open.spotify.com/artist/3StMSo3rzsZBfuGaGLq3IE), [Max Milner](https://open.spotify.com/artist/0WFFfBGhY0aC6MQiQ1UQi8), [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS) | [Nirvana](https://open.spotify.com/album/3mHZKCz30otPvYF9dac0n0) | 4:05 |
 | 38 | [Past Life](https://open.spotify.com/track/5PqFt3Pnb3M2E6ZXIrMnZd) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t), [Wolfgang Gartner](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK) | [Past Life](https://open.spotify.com/album/3yYBUvD5wxPYd5kZIVWh4w) | 3:14 |
 | 39 | [All My Life](https://open.spotify.com/track/5tjfXXQOYRD9ouvAVTn3XF) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [All My Life](https://open.spotify.com/album/2mBgCtL1Tm0TChhAXUHW98) | 2:07 |
-| 40 | [All Night](https://open.spotify.com/track/4JmiovRPJomax0zPo8pKAM) | [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf), [M.I.L.K](https://open.spotify.com/artist/4cnVHpFiP8c9eHa0SUhjCB) | [All Night](https://open.spotify.com/album/1tt9FEGMULl1oKllYC7oM4) | 3:30 |
+| 40 | [All Night](https://open.spotify.com/track/4JmiovRPJomax0zPo8pKAM) | [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf), [M.I.L.K.](https://open.spotify.com/artist/2ekValwbXG7P55xYXwWOZx) | [All Night](https://open.spotify.com/album/1tt9FEGMULl1oKllYC7oM4) | 3:30 |
 | 41 | [Waterfall](https://open.spotify.com/track/6N9WShRfHZc9jnDDQQaR4N) | [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT), [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K), [LANNÉ](https://open.spotify.com/artist/0K3HwnyYaxoQO9hZCBLtOH) | [Waterfall](https://open.spotify.com/album/0Cd60fjB1sOZJOEiNJ6qww) | 2:36 |
 | 42 | [Hypnotise](https://open.spotify.com/track/3dYAOZ3BPT4alkYsBNlitW) | [Little Foot](https://open.spotify.com/artist/55HmugLcdhmDg6XgceLQr1), [Bianca](https://open.spotify.com/artist/43BmOTbp0fKzSvC4YxykMl) | [Hypnotise](https://open.spotify.com/album/2VFW4mIxHoFwEkqLaRUSFF) | 3:15 |
 

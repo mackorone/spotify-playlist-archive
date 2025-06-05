@@ -1,12 +1,12 @@
 {
   "description": "This is Sof\u00eda Reyes. The essential tracks, all in one playlist.",
-  "num_followers": 43059,
+  "num_followers": 43060,
   "original_name": "This Is Sof\u00eda Reyes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDzpgAAAAAD1vdUtNphecs0w64k18fay",
+  "snapshot_id": "aD47AAAAAAAjwA5zcsGXmCQDK7R+0WHe",
   "tracks": [
     {
       "added_at": null,
@@ -863,26 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "coRaZ\u00d3n fR\u00edO",
-        "url": "https://open.spotify.com/album/1BOeRBIyle4Z12OTGe6zHn"
-      },
-      "artists": [
-        {
-          "name": "Nicole Zignago",
-          "url": "https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP"
-        },
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 204633,
-      "name": "coRaZ\u00d3n fR\u00edO",
-      "url": "https://open.spotify.com/track/63cNIqiYClDvGsvyxaAfA3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MILAMORES",
         "url": "https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 164789,
       "name": "Gaia",
       "url": "https://open.spotify.com/track/43pdManuxxQh80XyU51ybY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "coRaZ\u00d3n fR\u00edO",
+        "url": "https://open.spotify.com/album/1BOeRBIyle4Z12OTGe6zHn"
+      },
+      "artists": [
+        {
+          "name": "Nicole Zignago",
+          "url": "https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 204633,
+      "name": "coRaZ\u00d3n fR\u00edO",
+      "url": "https://open.spotify.com/track/63cNIqiYClDvGsvyxaAfA3"
     },
     {
       "added_at": null,
@@ -1027,26 +1027,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sped Up Songs Vol. 1",
-        "url": "https://open.spotify.com/album/0aWkwVZqDzu02AIUhdqX7L"
-      },
-      "artists": [
-        {
-          "name": "High and Low HITS",
-          "url": "https://open.spotify.com/artist/5Yx5W4EetQuOwbvHrCFL9Y"
-        },
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 170765,
-      "name": "1, 2, 3 - Sped Up",
-      "url": "https://open.spotify.com/track/2RJnhDvc6Z4xwMX6hhkeRX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Goofy, Pt. 2 (Remix)",
         "url": "https://open.spotify.com/album/2azRGXriZ9DLXQ0JGrQBaC"
       },
@@ -1067,6 +1047,26 @@
       "duration_ms": 201061,
       "name": "Goofy, Pt. 2 - Remix",
       "url": "https://open.spotify.com/track/2wBp1MT7ivIUYcF7oVlM3n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sped Up Songs Vol. 1",
+        "url": "https://open.spotify.com/album/0aWkwVZqDzu02AIUhdqX7L"
+      },
+      "artists": [
+        {
+          "name": "High and Low HITS",
+          "url": "https://open.spotify.com/artist/5Yx5W4EetQuOwbvHrCFL9Y"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 170765,
+      "name": "1, 2, 3 - Sped Up",
+      "url": "https://open.spotify.com/track/2RJnhDvc6Z4xwMX6hhkeRX"
     }
   ],
   "unique_name": "This Is Sof\u00eda Reyes",

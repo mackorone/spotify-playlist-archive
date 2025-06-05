@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 
 > Tu lista favorita de Bachata ❤️ Cover: Prince Royce
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,898,194 likes - 59 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,897,813 likes - 59 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

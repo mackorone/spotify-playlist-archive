@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Damso, Miley Cyrus et Zaz au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 374,937 likes - 102 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 374,931 likes - 102 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 74 | [320](https://open.spotify.com/track/6q6F7jNAtgVsEeAkreSJ5h) | [Satine](https://open.spotify.com/artist/7Abx1tdwQoBDWr1nD1o62B) | [Trampoline](https://open.spotify.com/album/3QIL5b9o8459ZGTIQsOZwx) | 2:36 |
 | 75 | [No Love](https://open.spotify.com/track/35hdttiIfLS8MkZPZgRNMx) | [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [Get Sunk](https://open.spotify.com/album/7a2Z3UzPx9HHbRgsJbytdz) | 3:55 |
 | 76 | [Fight Another Day](https://open.spotify.com/track/5Yz5uJTvZtYcblSvTgzhBG) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Fight Another Day](https://open.spotify.com/album/3cMI3AA8VJ0kpooAY6v4ga) | 3:51 |
-| 77 | [All Night](https://open.spotify.com/track/4JmiovRPJomax0zPo8pKAM) | [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf), [M.I.L.K](https://open.spotify.com/artist/4cnVHpFiP8c9eHa0SUhjCB) | [All Night](https://open.spotify.com/album/1tt9FEGMULl1oKllYC7oM4) | 3:30 |
+| 77 | [All Night](https://open.spotify.com/track/4JmiovRPJomax0zPo8pKAM) | [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf), [M.I.L.K.](https://open.spotify.com/artist/2ekValwbXG7P55xYXwWOZx) | [All Night](https://open.spotify.com/album/1tt9FEGMULl1oKllYC7oM4) | 3:30 |
 | 78 | [London Summers](https://open.spotify.com/track/1vCnTZE7PVUakwkqCnIhrn) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [London Summers](https://open.spotify.com/album/6L0fjCZSfZxhavSOOh4ohF) | 3:37 |
 | 79 | [Amour et Haine](https://open.spotify.com/track/5CDyaTaAbWzoozhZwopddf) | [Fanny J](https://open.spotify.com/artist/4UDmRorEV3n7LrvphaEKkw), [T\-Matt](https://open.spotify.com/artist/4TBNXLrjYTkQKZ88FFU2cm) | [Amour et Haine](https://open.spotify.com/album/4pskweqF37wkhfPUrC52f1) | 4:01 |
 | 80 | [Hell](https://open.spotify.com/track/3TICuPxxd2PJ5HwJkQOdWh) | [Noroy](https://open.spotify.com/artist/0FCAKInZeSi1on1FlSPoxt), [Paul Ivory](https://open.spotify.com/artist/4Hw7LmiQH0IISherWAZORV) | [Hell](https://open.spotify.com/album/2BwDdiQ9lDbHcPFasmXHWp) | 3:06 |

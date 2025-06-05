@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,072 likes - 271 songs - 14 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,073 likes - 271 songs - 14 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -168,8 +168,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 158 | [Satisfied](https://open.spotify.com/track/4aAqN4Xzxd7UqG9KpTeVVI) | [Lulu And The Luvvers](https://open.spotify.com/artist/4N3yBX8wmW8uAXW7MdXwdb) | [Something To Shout About](https://open.spotify.com/album/6d1nUCOvcCLhMGzpTjLbQY) | 2:54 |
 | 159 | [Sweet Sweetheart](https://open.spotify.com/track/333YdlIdHL2ZpWoMDGuEKd) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Writer](https://open.spotify.com/album/6sy9uYbSfuhH1HCv2e6269) | 2:43 |
 | 160 | [Let's Start the Party Again](https://open.spotify.com/track/1CQwSqdeaVhoAAFcxRhyaq) | [Little Eva](https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8) | [Uptown](https://open.spotify.com/album/6YPhneHexGxBqdG4JYBjlO) | 2:48 |
-| 161 | [Pocket Money](https://open.spotify.com/track/42A8Z3UJbg0nTp6SOzaGJb) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Carole King: The Ode Collection](https://open.spotify.com/album/3kbEbYvWSub8LsGZpq6lcp) | 2:44 |
-| 162 | [God Only Knows](https://open.spotify.com/track/08eCQi9h03wYDNxtUN94OF) | [The Fun Surfers](https://open.spotify.com/artist/46sr5uwA9UiQgqtVPQMSgM) | [Hot 100 2017: Australia Day](https://open.spotify.com/album/3HQsI1KdfBILNojoVRdDMc) | 2:24 |
+| 161 | [God Only Knows](https://open.spotify.com/track/08eCQi9h03wYDNxtUN94OF) | [The Fun Surfers](https://open.spotify.com/artist/46sr5uwA9UiQgqtVPQMSgM) | [Hot 100 2017: Australia Day](https://open.spotify.com/album/3HQsI1KdfBILNojoVRdDMc) | 2:24 |
+| 162 | [Pocket Money](https://open.spotify.com/track/42A8Z3UJbg0nTp6SOzaGJb) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Carole King: The Ode Collection](https://open.spotify.com/album/3kbEbYvWSub8LsGZpq6lcp) | 2:44 |
 | 163 | [The Awful Truth](https://open.spotify.com/track/111iXVIriBsgidJT1lTIsN) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Really Rosie](https://open.spotify.com/album/2fknQru3D4hvsU7BDfgbSd) | 3:12 |
 | 164 | [That's How Things Go Down](https://open.spotify.com/track/7hKo6FxDo4AQTeo6IOzOd2) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Fantasy](https://open.spotify.com/album/3oBOHwgHLmI3HzN9nxaUZl) | 3:01 |
 | 165 | [Haywood](https://open.spotify.com/track/7E60F1oyjoFq8UGwuhwp7I) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Fantasy](https://open.spotify.com/album/3oBOHwgHLmI3HzN9nxaUZl) | 4:46 |
@@ -280,4 +280,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 270 | [He Who Laughs Last](https://open.spotify.com/track/0CHCBayT9d8c5VJFY8Rfhn) | [Freda Payne](https://open.spotify.com/artist/0701Axu6yvUIoctaKMbDIZ) | [That's a Pretty Good Love](https://open.spotify.com/album/1rYVaZD5cDiOyQhpDD7mjV) | 2:06 |
 | 271 | [So This Is How It Feels](https://open.spotify.com/track/67wjnFeLF2bsZbhDAf85wg) | [The Countrymen](https://open.spotify.com/artist/0C62w20FpxpOHiWM9UCObQ) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:49 |
 
-Snapshot ID: `AbzLqAAAAAC8Ie9DbWXQcJYMKIwhGSrz`
+Snapshot ID: `AbzRSAAAAADNCVLAgUKnuXNQXfLDVq4o`

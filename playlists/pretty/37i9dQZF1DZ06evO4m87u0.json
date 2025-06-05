@@ -1,12 +1,12 @@
 {
   "description": "This is The Black Keys. The essential tracks, all in one playlist.",
-  "num_followers": 294367,
+  "num_followers": 294382,
   "original_name": "This Is The Black Keys",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDzpgAAAAADrVTZSeDAKP2tHilC76Tyl",
+  "snapshot_id": "aD47AAAAAADFJVDFitEziNYqi9g+xQK/",
   "tracks": [
     {
       "added_at": null,
@@ -187,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Attack & Release",
-        "url": "https://open.spotify.com/album/1YHS3Fw8THvsKVVQ1znAqi"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 239146,
-      "name": "I Got Mine",
-      "url": "https://open.spotify.com/track/319zpJMCzpz50Uz0PsjlJN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Turn Blue",
         "url": "https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 410186,
       "name": "Weight of Love",
       "url": "https://open.spotify.com/track/3xMQOd1C3TXsjQ3pmzOmkC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Attack & Release",
+        "url": "https://open.spotify.com/album/1YHS3Fw8THvsKVVQ1znAqi"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 239146,
+      "name": "I Got Mine",
+      "url": "https://open.spotify.com/track/319zpJMCzpz50Uz0PsjlJN"
     },
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ohio Players (Trophy Edition)",
-        "url": "https://open.spotify.com/album/4nL9a6F9au7kYG9KuswdNo"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 162311,
-      "name": "Sin City",
-      "url": "https://open.spotify.com/track/1bETkJvR6zcQ4C3KK4ePVT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rubber Factory",
         "url": "https://open.spotify.com/album/1rlGDm1KQJfDyT5v1U8Xk5"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 172093,
       "name": "Keep Me",
       "url": "https://open.spotify.com/track/5wGmaQYNYxJZrnWykQG3HF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ohio Players (Trophy Edition)",
+        "url": "https://open.spotify.com/album/4nL9a6F9au7kYG9KuswdNo"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 162311,
+      "name": "Sin City",
+      "url": "https://open.spotify.com/track/1bETkJvR6zcQ4C3KK4ePVT"
     },
     {
       "added_at": null,

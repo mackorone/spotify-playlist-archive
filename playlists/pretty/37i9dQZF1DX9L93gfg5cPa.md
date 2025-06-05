@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9L93gfg5cPa.md) - [plain]
 
 > El mejor pop de todos los tiempos\. Foto: KAROL G
 
-[Spotify](https://open.spotify.com/user/spotify) - 866,902 likes - 200 songs - 11 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 866,966 likes - 200 songs - 11 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

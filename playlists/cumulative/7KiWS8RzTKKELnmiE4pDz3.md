@@ -4,7 +4,7 @@
 
 > 
 
-1,045 songs - 2 day 4 hr 11 min
+1,047 songs - 2 day 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [Dedicated \- Remastered](https://open.spotify.com/track/3mOt6mLL8JqvyfeyRyoOYq) | [Digable Planets](https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ) | [Beyond The Spectrum \- The Creamy Spy Chronicles](https://open.spotify.com/album/3IdBHbjMTIPcknxgbqUxub) | 2:45 | 2023-10-03 | 2024-04-24 |
 | [Deja Vu \(feat\. DJ Drama\)](https://open.spotify.com/track/0a5JCzipgKytaoKncMKsHL) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [Ultra 85](https://open.spotify.com/album/6vVOpqIXPbM9vZWzesdTax) | 3:21 | 2024-08-16 | 2024-11-06 |
 | [DELRESTO \(ECHOES\) \(feat\. Beyoncé\)](https://open.spotify.com/track/0OEe83mMZ5kaNw5uZQ7ilG) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:34 | 2023-08-04 | 2024-04-24 |
+| [delusional](https://open.spotify.com/track/5116BQqgzOZ24Dx0ZKkagU) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [delusional](https://open.spotify.com/album/2LHNo0LDY2AszQvSuAMXWy) | 2:11 | 2025-06-04 |  |
 | [Demon](https://open.spotify.com/track/3m2r08Ylrjz6BdL735auPh) | [Slimesito](https://open.spotify.com/artist/1fqzcp3dzZD1YGQ2RT5pYs) | [Rich slime](https://open.spotify.com/album/2Oe8Vc7miZMoHiB6pr1SXX) | 2:27 | 2022-10-18 | 2023-12-14 |
 | [Diamonds \(feat\. Gunna\)](https://open.spotify.com/track/2HIjQZsmscClqRGbfzwAgK) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [So Much Fun \(Deluxe\)](https://open.spotify.com/album/24jAbLMFzCTlIv3kQ94HwK) | 3:30 | 2023-11-29 | 2024-04-24 |
 | [Did It Again](https://open.spotify.com/track/07z3x7UhAHhuBNzAlZ4olU) | [Lunchbox](https://open.spotify.com/artist/4yBk76oymBKTd7fs3XpbId) | [New Jazz](https://open.spotify.com/album/4KIdIkyXLJ73H0ddKVJSl2) | 1:52 | 2023-06-02 | 2023-07-17 |
@@ -466,6 +467,7 @@
 | [Jew On The Canoe](https://open.spotify.com/track/694GED3o0OdFTsoS0aNpEs) | [BLP KOSHER](https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI) | [Blp Kosher And The Magic Dreidel](https://open.spotify.com/album/7KP3jfdAFSjRx1HEQkIyyY) | 2:09 | 2023-03-26 | 2023-12-14 |
 | [Jigsaw Falling Into Place](https://open.spotify.com/track/15ea10YpJIl3mJq75yzqsD) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [In Rainbows](https://open.spotify.com/album/7eyQXxuf2nGj9d2367Gi5f) | 4:08 | 2025-03-11 |  |
 | [Jimmi Diggin' Cats](https://open.spotify.com/track/4wgr6gTTxKqol5hT1cPUdo) | [Digable Planets](https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ) | [Reachin' \(A New Refutation Of Time And Space\)](https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP) | 3:41 | 2023-10-03 | 2024-11-06 |
+| [John Redcorn](https://open.spotify.com/track/3W2nknW1nTuuxUSyFCUCS8) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Chasing Summer](https://open.spotify.com/album/7mU7c3lx4jCFocOYEc2rs7) | 3:07 | 2025-06-04 |  |
 | [Josie](https://open.spotify.com/track/1QgLpUJsmrLG61KDVGT0Ux) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Aja](https://open.spotify.com/album/1hOK2ey9W76x9GnftSRgrw) | 4:33 | 2025-05-01 |  |
 | [Judge Judy](https://open.spotify.com/track/6ie0uyyvOKTTuIFBMPiNIl) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:29 | 2024-11-05 | 2025-05-21 |
 | [Juice WRLD DID \(feat\. Juice WRLD\)](https://open.spotify.com/track/47IySiC5o08gz0z5VDiH93) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 3:27 | 2022-08-26 | 2025-05-21 |

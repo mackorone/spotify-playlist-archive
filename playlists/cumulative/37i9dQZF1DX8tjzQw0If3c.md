@@ -4,7 +4,7 @@
 
 > Listen to the future\. Cover: Dominic Chin
 
-183 songs - 9 hr 57 min
+185 songs - 10 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,12 +119,14 @@
 | [Mindset](https://open.spotify.com/track/5XJm3lWxrPPYI6NrjYik5G) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F), [WILD](https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO) | [Mindset](https://open.spotify.com/album/1jyQeLQXGX3RI1WRMKUhMR) | 3:10 | 2024-11-07 | 2024-12-05 |
 | [Mona](https://open.spotify.com/track/3MG4Cq0ER6iuJoyJQALWIc) | [Amir Hasan](https://open.spotify.com/artist/2OAmsrxhQIJQRat9EY8PxL), [Rebel Asia](https://open.spotify.com/artist/01APErOuxifTzQrdN8kOYn) | [Mona](https://open.spotify.com/album/07AWA7DMdxtvzIpu9Eet89) | 3:02 | 2024-06-27 | 2024-12-05 |
 | [Moon & The Sun](https://open.spotify.com/track/1YHnNk5C8MNLnzNLT7C3Ql) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy), [Bil Musa](https://open.spotify.com/artist/6tWZW3i1byYPxPNW7EZmr9) | [Moon & The Sun](https://open.spotify.com/album/0KaHXAtLJtHWAv4skCm7zT) | 3:24 | 2024-06-27 | 2024-12-05 |
+| [ms\. heartbreak](https://open.spotify.com/track/59Xe9wXvnvUTAIkxOshLbS) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [Road to the Hills](https://open.spotify.com/album/6Up4Igg6cDQkb1MyUzFsy1) | 3:01 | 2025-06-04 |  |
 | [Musnah](https://open.spotify.com/track/3rznXO6e3t8WgvsR2ZOmKK) | [Danial Kifli](https://open.spotify.com/artist/1M0tSSp60yHTRB36GTofGx) | [Musnah](https://open.spotify.com/album/0vfyJDfiIfk9X4lhKob7w2) | 3:59 | 2025-04-15 |  |
 | [My Baby](https://open.spotify.com/track/1pNPH4azbjxxfGvBiDq6W9) | [Adrianna Cinta](https://open.spotify.com/artist/7aGKWIJ44Gs7eQ7cCKVskG) | [My Baby](https://open.spotify.com/album/7vAY2GYdCPYFWE5h1QJD4k) | 2:48 | 2025-02-20 | 2025-04-16 |
 | [My Life](https://open.spotify.com/track/4nkTlqKgdjIO7ZeNCJpbX3) | [Adrianna Cinta](https://open.spotify.com/artist/7aGKWIJ44Gs7eQ7cCKVskG) | [My Life](https://open.spotify.com/album/42vSl0T71w4NCExWs1Pvyf) | 3:18 | 2024-10-24 | 2024-12-05 |
 | [My World](https://open.spotify.com/track/4Jc7Ijwrk9vpQza9wy5eKR) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F) | [HAVEN](https://open.spotify.com/album/2KTbD8VsM0CsyunwTvofAC) | 3:34 | 2025-02-13 | 2025-04-16 |
 | [NEEDY](https://open.spotify.com/track/70TT8nFGh2hPh0W1vMulfP) | [Dominic Chin](https://open.spotify.com/artist/1fQk4DNRfj70qf362wV8GQ) | [NEEDY](https://open.spotify.com/album/5ykpO45Yi24t7ILKq9q2It) | 3:13 | 2025-05-29 |  |
 | [No Hard Feelings](https://open.spotify.com/track/0RkK4CRqDNeOK1OLmZPkdg) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F), [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [WILD](https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO) | [No Hard Feelings](https://open.spotify.com/album/5wqIsjOLz44OyfzD0YB2Pa) | 3:12 | 2024-06-27 | 2025-04-16 |
+| [Not Afraid](https://open.spotify.com/track/5v6ScxMNSZ1KcnMiWjCmPb) | [Yokez](https://open.spotify.com/artist/5wtspqsX3OxPu1JTRQTqus) | [Not Afraid](https://open.spotify.com/album/5gWXGGJNkUgshcOfbJ0CzZ) | 3:06 | 2025-06-04 |  |
 | [NOVEMBER](https://open.spotify.com/track/5QAgbUZoUvLethzw2bTRGt) | [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK), [teem](https://open.spotify.com/artist/0unwNwqhc1Mvt46XAUbukd) | [NOVEMBER](https://open.spotify.com/album/1CZh3LscwOdGeBTB1FqyWg) | 3:28 | 2025-04-15 |  |
 | [oasis](https://open.spotify.com/track/7dxsN7YD2zfUMPqDCFvUvD) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [Road to the Hills](https://open.spotify.com/album/6Up4Igg6cDQkb1MyUzFsy1) | 2:30 | 2025-05-29 |  |
 | [Overdue](https://open.spotify.com/track/3ZMoCrs9O9Ypb5cGmZAUIo) | [RENE](https://open.spotify.com/artist/7oUwiz9DwD9EpLfuhd9xAg) | [Overdue](https://open.spotify.com/album/1m3iY0bFkRFGnXoUDJDLGJ) | 3:00 | 2025-04-15 |  |

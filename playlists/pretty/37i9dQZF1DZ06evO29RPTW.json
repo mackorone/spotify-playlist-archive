@@ -1,12 +1,12 @@
 {
   "description": "This is Rob Zombie. The essential tracks, all in one playlist.",
-  "num_followers": 129511,
+  "num_followers": 129534,
   "original_name": "This Is Rob Zombie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDzpgAAAAADwPsNsqR6bPhi/deVsuVyG",
+  "snapshot_id": "aD47AAAAAAAfLtG+EHR1jebEyEY2x+e/",
   "tracks": [
     {
       "added_at": null,
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser",
-        "url": "https://open.spotify.com/album/4cwVkh8oYGwLGeVM0Jl35K"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 178066,
-      "name": "Satanic Cyanide ! The Killer Rocks On !",
-      "url": "https://open.spotify.com/track/0rYjattOlPzXJ2BBD0sZqM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mondo Sex Head",
         "url": "https://open.spotify.com/album/2Miyi6VLfg7A9ztHxHzyQV"
       },
@@ -783,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Educated Horses",
-        "url": "https://open.spotify.com/album/3zO9FORG6azJrddJu0XyKY"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 249226,
-      "name": "Let It All Bleed Out",
-      "url": "https://open.spotify.com/track/2pdD9sxt4WuYADKACM2JYN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Past, Present & Future",
         "url": "https://open.spotify.com/album/3RjfiKRsIHB7wQ1L6KoDEz"
       },
@@ -819,6 +787,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Educated Horses",
+        "url": "https://open.spotify.com/album/3zO9FORG6azJrddJu0XyKY"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 249226,
+      "name": "Let It All Bleed Out",
+      "url": "https://open.spotify.com/track/2pdD9sxt4WuYADKACM2JYN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser",
         "url": "https://open.spotify.com/album/4cwVkh8oYGwLGeVM0Jl35K"
       },
@@ -828,9 +812,9 @@
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
         }
       ],
-      "duration_ms": 146853,
-      "name": "Medication For The Melancholy",
-      "url": "https://open.spotify.com/track/0868aqEdMFPsiD5jR14BlE"
+      "duration_ms": 178066,
+      "name": "Satanic Cyanide ! The Killer Rocks On !",
+      "url": "https://open.spotify.com/track/0rYjattOlPzXJ2BBD0sZqM"
     },
     {
       "added_at": null,
@@ -847,6 +831,22 @@
       "duration_ms": 156800,
       "name": "Everybody Scream - From \"House Of 1000 Corpses\" Soundtrack",
       "url": "https://open.spotify.com/track/60J3svXDePAmdfbXOOUaSJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser",
+        "url": "https://open.spotify.com/album/4cwVkh8oYGwLGeVM0Jl35K"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 146853,
+      "name": "Medication For The Melancholy",
+      "url": "https://open.spotify.com/track/0868aqEdMFPsiD5jR14BlE"
     }
   ],
   "unique_name": "This Is Rob Zombie",

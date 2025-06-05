@@ -5077,6 +5077,24 @@
     },
     {
       "album": {
+        "name": "run amok!",
+        "url": "https://open.spotify.com/album/1GuaHRa0owkz2jxmqh3Q4J"
+      },
+      "artists": [
+        {
+          "name": "sharkbarksss",
+          "url": "https://open.spotify.com/artist/7wrGMUFl9bK7T4st7GG1wS"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183535,
+      "name": "run amok!",
+      "url": "https://open.spotify.com/track/2j1Wv50igdxKp2JTsqzkdd"
+    },
+    {
+      "album": {
         "name": "all these faces",
         "url": "https://open.spotify.com/album/4mbDXws5cJGdqkVDLcOM66"
       },

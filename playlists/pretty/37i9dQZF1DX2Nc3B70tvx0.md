@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 
 > The best of right now\. Cover: Matt Berninger
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,036,193 likes - 134 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,035,424 likes - 134 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,7 +133,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 | 123 | [It's Amazing To Be Young](https://open.spotify.com/track/2m3SuMEdjlOWVN05steEXf) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [It's Amazing To Be Young](https://open.spotify.com/album/7MvJ6Zr1OEcMYUxHZA9gWs) | 3:30 |
 | 124 | [Pale Blue Eyes](https://open.spotify.com/track/4aK4bJInGOV0Skp8uYrWuE) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Pale Blue Eyes](https://open.spotify.com/album/2LnTh8KbcYBW8C8WmVS46D) | 3:09 |
 | 125 | [Not In Surrender](https://open.spotify.com/track/0hCmWAC2RJQUsNmpc3FKVq) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Not In Surrender](https://open.spotify.com/album/478tECKEaP8MWWtx4BfsKO) | 3:19 |
-| 126 | [Blue Dream](https://open.spotify.com/track/4HpVJ2UQyBLT5UpnG4UdgW) | [The Crowd](https://open.spotify.com/artist/738r8BCGhwUA9G61A2cNYK), [Alec Joseph](https://open.spotify.com/artist/5Qq0XKw1W1jzVAcyYkckkr), [Caye](https://open.spotify.com/artist/3kkoYvxvV00UXPJCqMCljL) | [Blue Dream](https://open.spotify.com/album/7AKd3CD7QYFQSO35LBvxlt) | 3:55 |
+| 126 | [Blue Dream](https://open.spotify.com/track/4HpVJ2UQyBLT5UpnG4UdgW) | [The Crowd](https://open.spotify.com/artist/738r8BCGhwUA9G61A2cNYK), [Qualia](https://open.spotify.com/artist/5Qq0XKw1W1jzVAcyYkckkr), [Caye](https://open.spotify.com/artist/3kkoYvxvV00UXPJCqMCljL) | [Blue Dream](https://open.spotify.com/album/7AKd3CD7QYFQSO35LBvxlt) | 3:55 |
 | 127 | [Marseille](https://open.spotify.com/track/43qx8PEmvj1r7xO9BKjS3a) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Divinations](https://open.spotify.com/album/2uISRQaBpbTvGQL67DEFcV) | 3:56 |
 | 128 | [Omorfo Mou](https://open.spotify.com/track/0KfsgnDl1DxrudLyDrD1Iq) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Omorfo Mou](https://open.spotify.com/album/0c7AnOZzrNxSSNwEotCL8m) | 2:47 |
 | 129 | [All I Ever Asked \(with sombr\)](https://open.spotify.com/track/3h1SACNX5U6CytntiBHEZn) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [All I Ever Asked \(with sombr\)](https://open.spotify.com/album/5QJmeE6V1Rs9CdYvt7II8x) | 3:37 |

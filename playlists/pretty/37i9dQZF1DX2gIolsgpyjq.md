@@ -2,17 +2,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 ### [Fresh Finds Nordics](https://open.spotify.com/playlist/37i9dQZF1DX2gIolsgpyjq)
 
-> Fresh Finds Nordics x STHLMFW! See Dione perform at Space By on June 3rd!
+> Fresh Finds Nordics x STHLMFW! See Melina Do Rosario perform at Space By on June 4th!
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,792 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,829 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Feel](https://open.spotify.com/track/4LsdMjrRHFLsOXwlqwBStU) | [Dione](https://open.spotify.com/artist/7KDUMWHH2AF8xfp5HV79aK) | [Feel](https://open.spotify.com/album/5HaVKrsJKLpgB9Gte6rrbu) | 3:51 |
-| 2 | [Bottles In The VIP](https://open.spotify.com/track/3AONABToF1FxJCo1tStGqS) | [Prof\. Stranger](https://open.spotify.com/artist/10oCYNVAWe1XK0Ui8sgzgp) | [Bottles In The VIP](https://open.spotify.com/album/3rAA1TtfkvujanGyqwdrIQ) | 4:00 |
-| 3 | [ENEMI](https://open.spotify.com/track/2aUHSZTvA0LQYGJngCzzrY) | [LUJAIN](https://open.spotify.com/artist/6gkdUNajvm1NZbynggJN1G) | [VANGUARD](https://open.spotify.com/album/5ASdDp4YsOskyKskXCnMIc) | 2:16 |
-| 4 | [Communicate](https://open.spotify.com/track/0BwZU4Ppxt4Zcjw9FoMyBA) | [Melina Do Rosario](https://open.spotify.com/artist/0cSEtYQdOXcBDyslRAAd9h) | [Communicate](https://open.spotify.com/album/72azl7sTyT3PgPuvyeoD8d) | 2:27 |
-| 5 | [electric dream](https://open.spotify.com/track/3owm6kuLMIw8qOYuUB3HAT) | [Silent Boy](https://open.spotify.com/artist/6mF4BkHXn187nmDfA7d9Mu), [MASAKA](https://open.spotify.com/artist/6tn3C5xHZDyUoqd0yTPawY), [defyer](https://open.spotify.com/artist/4gzhQmub5TDvQ9cgvhvOUE) | [electric dream](https://open.spotify.com/album/61qNaShSguYm9aWHrqQmPs) | 2:43 |
+| 1 | [Communicate](https://open.spotify.com/track/0BwZU4Ppxt4Zcjw9FoMyBA) | [Melina Do Rosario](https://open.spotify.com/artist/0cSEtYQdOXcBDyslRAAd9h) | [Communicate](https://open.spotify.com/album/72azl7sTyT3PgPuvyeoD8d) | 2:27 |
+| 2 | [electric dream](https://open.spotify.com/track/3owm6kuLMIw8qOYuUB3HAT) | [Silent Boy](https://open.spotify.com/artist/6mF4BkHXn187nmDfA7d9Mu), [MASAKA](https://open.spotify.com/artist/6tn3C5xHZDyUoqd0yTPawY), [defyer](https://open.spotify.com/artist/4gzhQmub5TDvQ9cgvhvOUE) | [electric dream](https://open.spotify.com/album/61qNaShSguYm9aWHrqQmPs) | 2:43 |
+| 3 | [Feel](https://open.spotify.com/track/4LsdMjrRHFLsOXwlqwBStU) | [Dione](https://open.spotify.com/artist/7KDUMWHH2AF8xfp5HV79aK) | [Feel](https://open.spotify.com/album/5HaVKrsJKLpgB9Gte6rrbu) | 3:51 |
+| 4 | [Bottles In The VIP](https://open.spotify.com/track/3AONABToF1FxJCo1tStGqS) | [Prof\. Stranger](https://open.spotify.com/artist/10oCYNVAWe1XK0Ui8sgzgp) | [Bottles In The VIP](https://open.spotify.com/album/3rAA1TtfkvujanGyqwdrIQ) | 4:00 |
+| 5 | [ENEMI](https://open.spotify.com/track/2aUHSZTvA0LQYGJngCzzrY) | [LUJAIN](https://open.spotify.com/artist/6gkdUNajvm1NZbynggJN1G) | [VANGUARD](https://open.spotify.com/album/5ASdDp4YsOskyKskXCnMIc) | 2:16 |
 | 6 | [Trouble Man](https://open.spotify.com/track/1Kq3MVDWzzC4m1C2cTpSir) | [Nápoles](https://open.spotify.com/artist/3Dobjv7S9rOSiQMb1Jjnk1) | [Silk City](https://open.spotify.com/album/3iL9ksv1iHHHROAIZrP8AV) | 3:06 |
 | 7 | [Can't Go Back](https://open.spotify.com/track/2u5JUUkazRj0CCfYt4uZSO) | [Aggy Ally](https://open.spotify.com/artist/0BA6Cx7qcqWVHg0dUjDsZs) | [Why Keep Trying?](https://open.spotify.com/album/1ru0RHTdao2mgYC8iJ5yBx) | 2:35 |
 | 8 | [Her \(Never Like This\)](https://open.spotify.com/track/6YnsAiMmdM4KwlcAF2ynyw) | [Florian Hope](https://open.spotify.com/artist/4ugVS3CJ6GIxUX24WXXrcN) | [Her \(Never Like This\)](https://open.spotify.com/album/67PHWWXqPg7eKB8kUodhw5) | 2:40 |
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 | 12 | [Full Mind](https://open.spotify.com/track/5E7SVNWMKAP2rAfexxtSMn) | [Slackin Beats](https://open.spotify.com/artist/7gwV2BYHAZbfgmYaNxbBfw) | [Full Mind](https://open.spotify.com/album/2zEctbKyP1p2DQsx89rv7v) | 3:27 |
 | 13 | [Forever Feels](https://open.spotify.com/track/22vjrhextrynaTozXuIPzI) | [Stefanos Yowhannes](https://open.spotify.com/artist/3DPvgiToOaxx6HKfs0S3IG) | [Stuck in Transit](https://open.spotify.com/album/5SqxHrJCOzSAfyVOu83lab) | 2:28 |
 | 14 | [25](https://open.spotify.com/track/1JhnFt8s8U69X4Mz0oV0uP) | [ louii lane](https://open.spotify.com/artist/0fvGg23DNfUvCS0dHT7g8v) | [25](https://open.spotify.com/album/6oYKdE9V4G2glbCL7IONTR) | 2:43 |
-| 15 | [Look At Me](https://open.spotify.com/track/5fCFcvq313ZNgHAqFZTN51) | [Elliot](https://open.spotify.com/artist/13HlSDWIZ8CBSq1ruAZxAe) | [Look At Me](https://open.spotify.com/album/0ThHEj3uBQKpzXXjxkNYJz) | 3:18 |
-| 16 | [Herz!](https://open.spotify.com/track/1LVkn0e4yIr7IEI8egrZQA) | [Edgar Homeros](https://open.spotify.com/artist/4j8tcurjLu5pZAi0uogaYg) | [Herz!](https://open.spotify.com/album/2EJrWrZWlWmkE4CXXxmbV7) | 1:59 |
+| 15 | [Herz!](https://open.spotify.com/track/1LVkn0e4yIr7IEI8egrZQA) | [Edgar Homeros](https://open.spotify.com/artist/4j8tcurjLu5pZAi0uogaYg) | [Herz!](https://open.spotify.com/album/2EJrWrZWlWmkE4CXXxmbV7) | 1:59 |
+| 16 | [Look At Me](https://open.spotify.com/track/5fCFcvq313ZNgHAqFZTN51) | [Elliot](https://open.spotify.com/artist/13HlSDWIZ8CBSq1ruAZxAe) | [Look At Me](https://open.spotify.com/album/0ThHEj3uBQKpzXXjxkNYJz) | 3:18 |
 | 17 | [Cut Ties](https://open.spotify.com/track/2aL5XfQLjWpfuf9d8vCXu4) | [ILMA](https://open.spotify.com/artist/28HUvCNgo5vgvf8Sm6wxfs) | [Cut Ties](https://open.spotify.com/album/2r90z0hdzKaRM2PTekvSwe) | 3:52 |
 | 18 | [Alright](https://open.spotify.com/track/3VEi0V2V0k6WGugflTvbRD) | [Pink Butter](https://open.spotify.com/artist/5gTEP7Z60jRE0DSpj48ukM), [Joanné Nugas](https://open.spotify.com/artist/7ArfjsEANVFT6WSDiJ7i8T) | [Alright](https://open.spotify.com/album/0f9ZZk9eht7UF8LCqlr44f) | 4:47 |
 | 19 | [grapevine](https://open.spotify.com/track/7aZwH7gKaSKoLQLGWtppW1) | [pelleklund](https://open.spotify.com/artist/6Es6ICW5sEgL7nOnWam1ep) | [grapevine](https://open.spotify.com/album/6yc54cIWiKoNa8PU0bv7ui) | 2:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 | 99 | [Shiba](https://open.spotify.com/track/6I0BSbYQsRsK2kj8oAePuW) | [Olga Myko](https://open.spotify.com/artist/2dLakvfiBcJx7FUznJn8ct) | [Shiba](https://open.spotify.com/album/6GJRwsLIkBoCHXQby8N9Oq) | 3:05 |
 | 100 | [Rock and Roll, Summer](https://open.spotify.com/track/2wpi25Kv4W62DdDU8jrAFt) | [tibia](https://open.spotify.com/artist/14oZZcBTkCjGNKFIZ8N58t) | [See what heaven looks like now](https://open.spotify.com/album/46MlUsV2c7Jxi8tQItfT57) | 3:10 |
 
-Snapshot ID: `aD1kpgAAAAAnLZDNToMcfbSipfb8AIQV`
+Snapshot ID: `aD/daQAAAABheKU2yWmZzyznNNM7sZbo`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GwdWRQMQpq.md) - [plain]
 
 > The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: PLUTO
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,241,118 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,241,487 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GwdWRQMQpq.md) - [plain]
 | 49 | [Tell Ur Girlfriend](https://open.spotify.com/track/3lMzT16MjAKKXF7pSZn13B) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Tell Ur Girlfriend](https://open.spotify.com/album/0S8DGX9LmBkRSVi3ywcCOT) | 2:04 |
 | 50 | [Ironic](https://open.spotify.com/track/36gwEZRF9Z2EeG3FYkbbmO) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [Ironic](https://open.spotify.com/album/3JEizfDyZUx4Qb18AK4v1f) | 2:08 |
 
-Snapshot ID: `aDktXgAAAAD6g72OiYrrsv36oDNV9klg`
+Snapshot ID: `AAAAAKhBBRV0L74ZI2vwiHOYiWfaW9Uy`

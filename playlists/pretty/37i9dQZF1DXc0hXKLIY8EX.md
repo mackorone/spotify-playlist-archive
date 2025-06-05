@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0hXKLIY8EX.md) - [plain]
 
 > New York, Jersey and Connecticut music breaking waves\. Curated by: <a href="spotify:artist:7sP4SQ0WY6jfps1I19Ot7i">Fridayy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,014 likes - 52 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,029 likes - 52 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0hXKLIY8EX.md) - [plain]
 | 51 | [Make A Way](https://open.spotify.com/track/6VMENZY6c9ZZ39gs0QI8fj) | [Road to Restoration](https://open.spotify.com/artist/5HNGuh45sTuaF2y8xr2nKt), [Vincena](https://open.spotify.com/artist/6MZ1PacnLWwElKALk2bdck) | [Make A Way](https://open.spotify.com/album/153N8baJKH53GqZtpInwRK) | 4:34 |
 | 52 | [Baddest In The Room](https://open.spotify.com/track/6bAhP5wDZy04YjQ1NTcyO5) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Baddest In The Room](https://open.spotify.com/album/0JRe0RRdmICAqEL2lRHozi) | 2:38 |
 
-Snapshot ID: `ZyUCjAAAAADi9bpAUNFs5Xd4Ak04wfMr`
+Snapshot ID: `ZyUCjAAAAAB/HCRSdE760gAPwK4yTMcc`

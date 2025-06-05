@@ -1,12 +1,12 @@
 {
   "description": "This is RENEE. The essential tracks, all in one playlist.",
-  "num_followers": 8388,
+  "num_followers": 8397,
   "original_name": "This Is RENEE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDzpgAAAAAAASd+L4JXU7Mj5RUuM430w",
+  "snapshot_id": "aD47AAAAAADCuI96SFnLNrBLr1nM8G4J",
   "tracks": [
     {
       "added_at": null,
@@ -159,18 +159,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "NMDQH",
-        "url": "https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x"
+        "name": "Imperfecto",
+        "url": "https://open.spotify.com/album/5ldOIiMp33j3EbswWK0Ipv"
       },
       "artists": [
+        {
+          "name": "Meri Deal",
+          "url": "https://open.spotify.com/artist/7zREGj8GMl9UrDa6NPLi0H"
+        },
         {
           "name": "RENEE",
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 181080,
-      "name": "Playlist",
-      "url": "https://open.spotify.com/track/3KPJ4CtYpCRWt69gYaeQaH"
+      "duration_ms": 181181,
+      "name": "Imperfecto",
+      "url": "https://open.spotify.com/track/5V60OhB9WYqDhG8va96eCS"
     },
     {
       "added_at": null,
@@ -191,6 +195,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "NMDQH",
+        "url": "https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 181080,
+      "name": "Playlist",
+      "url": "https://open.spotify.com/track/3KPJ4CtYpCRWt69gYaeQaH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DAMN!",
         "url": "https://open.spotify.com/album/6ISGikUMrS710I2NF5Ityr"
       },
@@ -207,26 +227,6 @@
       "duration_ms": 117606,
       "name": "DAMN!",
       "url": "https://open.spotify.com/track/1uGCxUV2OJngJan7DKjGCo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Imperfecto",
-        "url": "https://open.spotify.com/album/5ldOIiMp33j3EbswWK0Ipv"
-      },
-      "artists": [
-        {
-          "name": "Meri Deal",
-          "url": "https://open.spotify.com/artist/7zREGj8GMl9UrDa6NPLi0H"
-        },
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 181181,
-      "name": "Imperfecto",
-      "url": "https://open.spotify.com/track/5V60OhB9WYqDhG8va96eCS"
     },
     {
       "added_at": null,
@@ -771,6 +771,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Canto Tu Historia (VOL. 1)",
+        "url": "https://open.spotify.com/album/5GDSnouaflpMgpevTSYnKz"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 187573,
+      "name": "Soy",
+      "url": "https://open.spotify.com/track/20uLEIzctSD6LCyCN8DI7R"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Me Desenamor\u00e9",
         "url": "https://open.spotify.com/album/1kwxYhYVUoAqTS5IjBzxpw"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 208755,
       "name": "Me Desenamor\u00e9",
       "url": "https://open.spotify.com/track/2wHPbYYfVrJHHHur6WETtY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Canto Tu Historia (VOL. 1)",
-        "url": "https://open.spotify.com/album/5GDSnouaflpMgpevTSYnKz"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 187573,
-      "name": "Soy",
-      "url": "https://open.spotify.com/track/20uLEIzctSD6LCyCN8DI7R"
     },
     {
       "added_at": null,

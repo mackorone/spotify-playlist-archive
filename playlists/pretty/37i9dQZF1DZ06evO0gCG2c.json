@@ -1,12 +1,12 @@
 {
   "description": "This is Akon. The essential tracks, all in one playlist.",
-  "num_followers": 321179,
+  "num_followers": 321253,
   "original_name": "This Is Akon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDzpgAAAAADhW5sVqINizJtq7DLtkIMg",
+  "snapshot_id": "aD47AAAAAAD9YljsP4zZeYDiaGnEQLHW",
   "tracks": [
     {
       "added_at": null,
@@ -351,22 +351,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Real Testament",
-        "url": "https://open.spotify.com/album/3NoUdjYUcUuRMpOzyapnYW"
+        "name": "Drunk Right Now (Na Na Na) with Akon",
+        "url": "https://open.spotify.com/album/2sAMTwbecMT8kpn4d6d6VV"
       },
       "artists": [
         {
-          "name": "Plies",
-          "url": "https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j"
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
         },
         {
           "name": "Akon",
           "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
         }
       ],
-      "duration_ms": 188493,
-      "name": "Hypnotized (feat. Akon)",
-      "url": "https://open.spotify.com/track/3LN41NUdHkyNqQhi9gExMm"
+      "duration_ms": 198660,
+      "name": "Drunk Right Now (Na Na Na) with Akon",
+      "url": "https://open.spotify.com/track/3985LK4rWojPPqJVFzCy6e"
     },
     {
       "added_at": null,
@@ -431,6 +431,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Real Testament",
+        "url": "https://open.spotify.com/album/3NoUdjYUcUuRMpOzyapnYW"
+      },
+      "artists": [
+        {
+          "name": "Plies",
+          "url": "https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 188493,
+      "name": "Hypnotized (feat. Akon)",
+      "url": "https://open.spotify.com/track/3LN41NUdHkyNqQhi9gExMm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tha Blue Carpet Treatment",
         "url": "https://open.spotify.com/album/5EyEI8tm60S6y2YKbjE0xI"
       },
@@ -447,26 +467,6 @@
       "duration_ms": 178840,
       "name": "I Wanna Fuck You",
       "url": "https://open.spotify.com/track/1G93i9ga7ZPEOqpiNhM1mq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Drunk Right Now (Na Na Na) with Akon",
-        "url": "https://open.spotify.com/album/2sAMTwbecMT8kpn4d6d6VV"
-      },
-      "artists": [
-        {
-          "name": "Josh Ross",
-          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 198660,
-      "name": "Drunk Right Now (Na Na Na) with Akon",
-      "url": "https://open.spotify.com/track/3985LK4rWojPPqJVFzCy6e"
     },
     {
       "added_at": null,

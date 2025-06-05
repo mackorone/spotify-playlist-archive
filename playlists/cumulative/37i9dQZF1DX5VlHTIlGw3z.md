@@ -4,7 +4,7 @@
 
 > 超等身大のむきだし青春＆音楽奮闘漫画『ふつうの軽音部』の世界を彩る楽曲をプレイリストで。本編は <a href=https://shonenjumpplus.com/episode/16457717013869519536>ジャンプ＋</a>で毎週日曜更新。 Enjoy Music from "Girl Meets Rock!".<br/>Ⓒクワハリ・出内テツオ／集英社
 
-36 songs - 2 hr 21 min
+37 songs - 2 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [おしゃかしゃま](https://open.spotify.com/track/39oAp7sfaU9PDaraVLD31O) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [アルトコロニーの定理](https://open.spotify.com/album/5L5EmTd2tdm70Yo0CYLIsg) | 3:48 | 2025-05-29 |  |
 | [はあとぶれいく](https://open.spotify.com/track/5nofQAlk7aSin5fZvkM3Vv) | [ZAZEN BOYS](https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM) | [すとーりーず](https://open.spotify.com/album/5jXQZzyi9xsndYnQsIGrQr) | 3:14 | 2025-05-29 |  |
 | [エンジェルベイビー](https://open.spotify.com/track/1chQj8QU3onRnLz9dGuCwk) | [GING NANG BOYZ](https://open.spotify.com/artist/2dP0aHVXt8dDPCw5d2Jw0m) | [ねえみんな大好きだよ](https://open.spotify.com/album/02oMXyO7O6Xz0yJ3VwOXkX) | 4:55 | 2025-05-29 |  |
-| [サバシスター's THEME \- 2024 ver.](https://open.spotify.com/track/1cvy3uzdTG80BJK31OG9CK) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [覚悟を決めろ!](https://open.spotify.com/album/2eoWg1Bc1vn6m4HxSwya2v) | 3:32 | 2025-06-03 |  |
+| [サバシスター's THEME \- 2024 ver.](https://open.spotify.com/track/1cvy3uzdTG80BJK31OG9CK) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [覚悟を決めろ!](https://open.spotify.com/album/2eoWg1Bc1vn6m4HxSwya2v) | 3:32 | 2025-06-03 | 2025-06-05 |
 | [シンデレラボーイ](https://open.spotify.com/track/1Vqs0lXeJafYZz2sxnfB3V) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [レイジーサンデー](https://open.spotify.com/album/39EU8gQm5E0vUDj9AvKUgr) | 3:54 | 2025-05-29 |  |
 | [ジターバグ](https://open.spotify.com/track/78ooUd8wbjp22IzEPGxlRg) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [BRING YOUR BOARD!!](https://open.spotify.com/album/2WdPiPEVjeDLeOr5sMpT4k) | 3:19 | 2025-05-29 |  |
 | [スピカ](https://open.spotify.com/track/0llYDkfHwnPUM8uU6ubivX) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [花鳥風月+](https://open.spotify.com/album/3CCg3A3M9NtDtBdFmDEhK0) | 4:19 | 2025-05-29 |  |
@@ -40,6 +40,7 @@
 | [理由なき反抗（The Rebel Age）](https://open.spotify.com/track/0SqitAI6LbYnOhQl4alNfL) | [a flood of circle](https://open.spotify.com/artist/1BydOOxI2QltpphEOkKHgl) | [FUCK FOREVER](https://open.spotify.com/album/5dAbHMKxxsRhtGqP1FBJdX) | 3:47 | 2025-05-29 |  |
 | [生活](https://open.spotify.com/track/2ulRrm1q3izEUK29GiAb4L) | [syrup16g](https://open.spotify.com/artist/0nwTdEUuG7c1M3kR9CIIxm) | [COPY](https://open.spotify.com/album/6YoUKpYK9Jnw34lqD7J1ol) | 4:10 | 2025-05-29 |  |
 | [番狂わせ](https://open.spotify.com/track/1r8Tfhx4rDerncDQyuQBEQ) | [Hump Back](https://open.spotify.com/artist/0zgpYPDY3hFaK1DqbWgCjI) | [ACHATTER](https://open.spotify.com/album/5es0pfA2D3jnXp1v1xHHbl) | 3:36 | 2025-05-29 |  |
+| [覚悟を決めろ!](https://open.spotify.com/track/6oGK40sTrlPSkR8yf0f04P) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [覚悟を決めろ!](https://open.spotify.com/album/0jtrUUnMiw14yT1vSyA4mV) | 3:54 | 2025-06-04 |  |
 | [赤橙](https://open.spotify.com/track/5S2SFGhEr3yH4lGeTwTxzO) | [ACIDMAN](https://open.spotify.com/artist/0zEbGW70TQHSOf4Ip1oeVn) | [創](https://open.spotify.com/album/3W3bq97Lb4YOUql3w1heng) | 5:05 | 2025-05-29 |  |
 | [輝きだして走ってく](https://open.spotify.com/track/0I5vZgR5dzOyKrBZNO043W) | [Sambomaster](https://open.spotify.com/artist/5ydDSP9qSxEOlHWnpbblFB) | [ラブ＆ピース！マスターピース！](https://open.spotify.com/album/3BZN3OZTFjJGa0OH0Fo84z) | 4:31 | 2025-05-29 |  |
 | [透明少女](https://open.spotify.com/track/4qkvemDrFXkVSYsNlMdc40) | [Number Girl](https://open.spotify.com/artist/0FXxQ0TEYtebM8gGg0xdoC) | [SCHOOL GIRL DISTORTIONAL ADDICT](https://open.spotify.com/album/0SZzkQKnO96Di2u24UzaWB) | 3:21 | 2025-05-29 |  |

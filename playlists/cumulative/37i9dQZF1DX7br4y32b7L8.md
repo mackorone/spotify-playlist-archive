@@ -4,7 +4,7 @@
 
 > songs voor je playlist! \#fyp
 
-721 songs - 1 day 12 hr 32 min
+722 songs - 1 day 12 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -690,6 +690,7 @@
 | [Wackelkontakt](https://open.spotify.com/track/4x7j9ed3FRH6CHj27kiTQ3) | [Oimara](https://open.spotify.com/artist/7eGuHhstHEA8ipdVjsimYR) | [Wackelkontakt](https://open.spotify.com/album/2ntNmfYAflWmhxMiX9sReB) | 2:48 | 2025-02-10 | 2025-03-06 |
 | [Wagwan](https://open.spotify.com/track/13sO1jcA6RxBPYC79dYGxg) | [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw), [Kater Karma](https://open.spotify.com/artist/4uoA55AcDfXP6BqttlThF2) | [Wagwan](https://open.spotify.com/album/5irEqy9aZI4PRKOwMvNKPQ) | 2:54 | 2024-04-04 | 2024-05-24 |
 | [Waka](https://open.spotify.com/track/0e6n7EUkew8nnSlu40RdQx) | [Bati Sanka](https://open.spotify.com/artist/1XkbW8JrXUwwDpOGkwsuV6), [Nisho](https://open.spotify.com/artist/3NB2kWHcnC2j0PeERDb56O) | [Waka](https://open.spotify.com/album/2Nk0E7cygbtE4CuWocl6OO) | 1:20 | 2024-10-31 | 2025-04-11 |
+| [Wasmachine](https://open.spotify.com/track/07ljnBvIzzbVuiKciLLEm1) | [Romy Indy](https://open.spotify.com/artist/6JhADekMjsEbsfmBxjsmjQ) | [Wasmachine](https://open.spotify.com/album/5sGEhRZFrnLB3K9brHUqVF) | 1:37 | 2025-06-04 |  |
 | [Wat Een Droom Kan Doen](https://open.spotify.com/track/79AxAgyA3ahLtiZIAm9lV9) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Wat Een Droom Kan Doen](https://open.spotify.com/album/1LvAqwKxsCvF7FQ0IsiI4h) | 1:34 | 2024-07-11 | 2024-07-18 |
 | [Wat Is Dan Liefde \- Hazes Is De Basis](https://open.spotify.com/track/07jhRADuYVbpnmanPyoNQ2) | [Silver Metz](https://open.spotify.com/artist/3w4VjT1j3QVUuc63Aq9Nyt) | [Wat Is Dan Liefde](https://open.spotify.com/album/62HLijQSSFCY1yP8TMpqyl) | 2:36 | 2025-02-10 |  |
 | [Wat Is Er Gebeurd](https://open.spotify.com/track/4SBsVlE0RPcONLZePOTpS5) | [Vincent Visser](https://open.spotify.com/artist/5Pt6RzzwjfVqE0TWHyK101), [Jairzinho](https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop) | [Wat Is Er Gebeurd](https://open.spotify.com/album/5QXDJtS4EHkcVK2mYYwCr7) | 2:35 | 2023-03-07 | 2023-05-10 |

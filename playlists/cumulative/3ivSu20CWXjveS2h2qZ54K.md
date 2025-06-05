@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-4,229 songs - 9 day 18 hr 5 min
+4,231 songs - 9 day 18 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2547,6 +2547,7 @@
 | [Nenuphar](https://open.spotify.com/track/4x9yoEqReJGOW7q7O15930) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Nenuphar](https://open.spotify.com/album/7b8GCnrjHnoXtwwEKEpsLp) | 4:15 | 2024-10-18 | 2024-10-26 |
 | [neo roneo](https://open.spotify.com/track/7zoVtzzASRtacCvgQKLFaS) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [neo roneo](https://open.spotify.com/album/23ieEAZkDq0jew4MZmb9zT) | 2:46 | 2024-08-23 | 2024-08-31 |
 | [Neon Signs](https://open.spotify.com/track/1Ar6TClO5jtDLNRDpGbp2w) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Neon Signs](https://open.spotify.com/album/42vZKcVepSEpAt2c1LniXQ) | 5:07 | 2024-10-04 | 2024-10-12 |
+| [Nettles](https://open.spotify.com/track/3xoM5gZ2RVQqLkjqEgrJ4x) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Nettles](https://open.spotify.com/album/5pSV5j43pKRDxvyDgHurDM) | 8:03 | 2025-06-04 |  |
 | [Never Be Yours](https://open.spotify.com/track/3cKnHNL40tqnmjXiv4FOlk) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Never Be Yours](https://open.spotify.com/album/3KWfY3MZ8PGDfjQSwqIxJF) | 3:16 | 2024-06-21 | 2024-06-29 |
 | [Never Change](https://open.spotify.com/track/4heXO8AkvpBMCpknbfeEhm) | [Honey.](https://open.spotify.com/artist/2Rki2mP8GPq0ZTeHqSbcMN) | [Halflove](https://open.spotify.com/album/6pQI6HbJIp2ztSPKTEQgyp) | 3:17 | 2024-10-04 | 2024-10-12 |
 | [NEVER ENOUGH](https://open.spotify.com/track/6ONyZXRIEiZWWnAA1F5YvH) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/36RxuCAJGs9PaH4LQyYLRY) | 4:47 | 2025-04-09 | 2025-04-26 |
@@ -4081,6 +4082,7 @@
 | [Where Does The Light Get In?](https://open.spotify.com/track/58eF1vpClUyeL5SfXN6N1x) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [Where Does The Light Get In?](https://open.spotify.com/album/5iN0xqyvImRpLehFSWZhbx) | 3:08 | 2024-09-06 | 2024-09-14 |
 | [Where Have You Been](https://open.spotify.com/track/4rvgToT6t8w9Vm9MbqjNHa) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Where Have You Been](https://open.spotify.com/album/6Kpy8J83AQc61i8f1RHL3y) | 3:57 | 2025-05-02 | 2025-05-10 |
 | [Where Them Girls At](https://open.spotify.com/track/2OUK5td58k4BV2GvFdfdzr) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [MEGAN](https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8) | 3:11 | 2024-06-28 | 2024-07-13 |
+| [Where To Look](https://open.spotify.com/track/6fp01DAoqsZNyTwZidZ74I) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Where To Look](https://open.spotify.com/album/4fwjQarLnKj466NhmGtlgc) | 4:50 | 2025-06-04 |  |
 | [Where'd It Go Wrong?](https://open.spotify.com/track/3l2asA2bO5lrwuiWneZbh0) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Where'd It Go Wrong?](https://open.spotify.com/album/4iu8klcXQTCzDElkuwHyiL) | 4:11 | 2024-12-20 | 2025-01-11 |
 | [WHERE'S MY VAPE?](https://open.spotify.com/track/398FKmK2bGM2FBmI0g9PnN) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK) | [WHERE'S MY VAPE?](https://open.spotify.com/album/2vNQ3JP3vnNL47n6yx5EIi) | 4:39 | 2024-08-23 | 2024-08-31 |
 | [Where's The Daddy?](https://open.spotify.com/track/2xnFroyqH6GJDkuCUCMTMF) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Where's The Daddy ?](https://open.spotify.com/album/23WBjm2FPx79LEaSKjPWwZ) | 2:52 | 2024-11-08 | 2024-11-16 |

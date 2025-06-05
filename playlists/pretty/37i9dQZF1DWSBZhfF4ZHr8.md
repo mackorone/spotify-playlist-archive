@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 
 > Les meilleures nouveautés de la variété française\. Photo: Marine
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,266 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,269 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 | 49 | [hais moi](https://open.spotify.com/track/6JXTyX1Elucrz7NZpZODIi) | [Moyà](https://open.spotify.com/artist/1Xvap7Au9MqLcUJUCPcJp1) | [hais moi](https://open.spotify.com/album/7EZ5aN2eXA5Hd572iGWdqp) | 2:53 |
 | 50 | [Weekend \- 48H Radio Edit](https://open.spotify.com/track/2qgkmFTjDk13rrdJY7MIKE) | [Rick Pagano](https://open.spotify.com/artist/7kvfne8CQPhLpfCrxDPJlQ) | [Weekend \(48H Radio Edit\)](https://open.spotify.com/album/6JVqrqC8uCUjcMNeIp6e8l) | 2:25 |
 
-Snapshot ID: `aDjY9gAAAAA6M6ol0mIR0LcKY7Lk3zUn`
+Snapshot ID: `aDjY9gAAAAAtlXBzVtRTXraiREUTBtXN`

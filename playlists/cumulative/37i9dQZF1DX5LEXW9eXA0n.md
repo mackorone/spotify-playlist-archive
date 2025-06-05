@@ -2,7 +2,7 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover: IU\(아이유\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover: 조째즈\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
 1,492 songs - 4 day 0 hr 40 min
 

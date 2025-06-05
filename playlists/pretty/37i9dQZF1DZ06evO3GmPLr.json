@@ -1,12 +1,12 @@
 {
   "description": "This is Little Simz. The essential tracks, all in one playlist.",
-  "num_followers": 51117,
+  "num_followers": 51153,
   "original_name": "This Is Little Simz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDzpgAAAAACbvkGOg67CfFIgCeYxp5qw",
+  "snapshot_id": "aD47AAAAAAChytKlM0xOd+58NpWZ0Qpa",
   "tracks": [
     {
       "added_at": null,
@@ -311,18 +311,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drop 7",
-        "url": "https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP"
+        "name": "Paradise Now",
+        "url": "https://open.spotify.com/album/6Yzu9wAkkxRUpEGyVpun81"
       },
       "artists": [
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        },
         {
           "name": "Little Simz",
           "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
         }
       ],
-      "duration_ms": 140733,
-      "name": "Mood Swings",
-      "url": "https://open.spotify.com/track/124nj3QzqpccVdLbiFHPeB"
+      "duration_ms": 161010,
+      "name": "Talk Olympics",
+      "url": "https://open.spotify.com/track/77S6m6lDEpHOUPUG8j9zQj"
     },
     {
       "added_at": null,
@@ -359,22 +363,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paradise Now",
-        "url": "https://open.spotify.com/album/6Yzu9wAkkxRUpEGyVpun81"
+        "name": "Drop 7",
+        "url": "https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP"
       },
       "artists": [
-        {
-          "name": "Obongjayar",
-          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
-        },
         {
           "name": "Little Simz",
           "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
         }
       ],
-      "duration_ms": 161010,
-      "name": "Talk Olympics",
-      "url": "https://open.spotify.com/track/77S6m6lDEpHOUPUG8j9zQj"
+      "duration_ms": 140733,
+      "name": "Mood Swings",
+      "url": "https://open.spotify.com/track/124nj3QzqpccVdLbiFHPeB"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8NOEUWPn9W.md) - [plain]
 
 > House music lives here\. United under one roof, featuring BLOND:ISH, Moby, and Kiko Franco
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,966,611 likes - 125 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,966,557 likes - 125 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8NOEUWPn9W.md) - [plain]
 | 18 | [It Feels So Good](https://open.spotify.com/track/7xFy1kfgGWJWTpx1vSHBLi) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Sonique](https://open.spotify.com/artist/5xtqw2B8z8JGfDYi2eAZHI) | [It Feels So Good](https://open.spotify.com/album/5DkTpze7FxkVlsNgD3jKYO) | 2:40 |
 | 19 | [Stay](https://open.spotify.com/track/4EyIt50f46KvqdJphEPg8U) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Stay](https://open.spotify.com/album/73A8cKzllUa1BwNebMT7xB) | 2:45 |
 | 20 | [I Look Good](https://open.spotify.com/track/2nO5YCEAQLPYKLbza7N64Z) | [Jackie Hollander](https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ), [Lizzy Land](https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux) | [I Look Good](https://open.spotify.com/album/538gE7qZ8YA2vZeYO8jO36) | 2:44 |
-| 21 | [Manía](https://open.spotify.com/track/79aIchpmJXJPDx9J68r3Hg) | [Pangaea](https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE), [Jazz Alonso](https://open.spotify.com/artist/2ghMQoYAKLMNHs896hl93k) | [Manía](https://open.spotify.com/album/6Q7DhlfnFSV2LM4J2hvHMy) | 2:51 |
+| 21 | [Manía](https://open.spotify.com/track/79aIchpmJXJPDx9J68r3Hg) | [Pangaea](https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE), [Jazz Alonso](https://open.spotify.com/artist/7eSY3eOVSH5SLYU0BV9sCY) | [Manía](https://open.spotify.com/album/6Q7DhlfnFSV2LM4J2hvHMy) | 2:51 |
 | 22 | [Runnin'](https://open.spotify.com/track/1PcJZFKTbgVjIozoJufyJy) | [Tomike](https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI), [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf) | [Runnin'](https://open.spotify.com/album/3sXeRvShh6kRd8E61X5icn) | 3:09 |
 | 23 | [Badder](https://open.spotify.com/track/6HnnU52OLpINwucbbiXy5v) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR) | [Badder](https://open.spotify.com/album/4xq8NcQXxBMezVM937XYHo) | 2:50 |
 | 24 | [Dancehall](https://open.spotify.com/track/3XcM7tSvGt8lHtmUkLibWU) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl) | [Dancehall](https://open.spotify.com/album/6ejhPZLlGjXOxUEu1GN9tm) | 2:42 |

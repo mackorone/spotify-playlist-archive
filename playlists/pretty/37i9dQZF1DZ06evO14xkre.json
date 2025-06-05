@@ -1,12 +1,12 @@
 {
   "description": "This is Kali Uchis. The essential tracks, all in one playlist.",
-  "num_followers": 279336,
+  "num_followers": 279455,
   "original_name": "This Is Kali Uchis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDzpgAAAAABJtxeWUgg28uHwARwvOSJy",
+  "snapshot_id": "aD47AAAAAABkLcHwoed/XzaMp3Am2KX2",
   "tracks": [
     {
       "added_at": null,
@@ -478,11 +478,15 @@
         {
           "name": "Kali Uchis",
           "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
         }
       ],
-      "duration_ms": 155083,
-      "name": "Love Between...",
-      "url": "https://open.spotify.com/track/128I36bDgYHU9l2QcgEGcd"
+      "duration_ms": 178274,
+      "name": "Fantasy (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/1dvqHhLNccePPBHq11TW7v"
     },
     {
       "added_at": null,
@@ -554,15 +558,11 @@
         {
           "name": "Kali Uchis",
           "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
         }
       ],
-      "duration_ms": 178274,
-      "name": "Fantasy (feat. Don Toliver)",
-      "url": "https://open.spotify.com/track/1dvqHhLNccePPBHq11TW7v"
+      "duration_ms": 155083,
+      "name": "Love Between...",
+      "url": "https://open.spotify.com/track/128I36bDgYHU9l2QcgEGcd"
     },
     {
       "added_at": null,

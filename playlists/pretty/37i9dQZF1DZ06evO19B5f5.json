@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDzpgAAAAADij1NGMyyl6HJf3u1xjXm4",
+  "snapshot_id": "aD47AAAAAAB1vtsRgaopxDrn/q8x+LMM",
   "tracks": [
     {
       "added_at": null,
@@ -271,6 +271,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Liars",
+        "url": "https://open.spotify.com/album/1JgKjuXBfsamwVZB2KF50i"
+      },
+      "artists": [
+        {
+          "name": "Lauren Aquilina",
+          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
+        }
+      ],
+      "duration_ms": 234173,
+      "name": "Lovers Or Liars",
+      "url": "https://open.spotify.com/track/081IPSY9UWk6RdARdzWVy4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bad People",
         "url": "https://open.spotify.com/album/49zAhCFGgaSPWJJHUvzNec"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 196660,
       "name": "Bad People",
       "url": "https://open.spotify.com/track/2CMA6mhqGhVSn6EQ1StxOa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sinners",
-        "url": "https://open.spotify.com/album/1f17i0gfwq1qwpQ0c7hvY1"
-      },
-      "artists": [
-        {
-          "name": "Lauren Aquilina",
-          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Ugly Truth",
-      "url": "https://open.spotify.com/track/7wm1gpbxjhoxhDb69LqFZg"
     },
     {
       "added_at": null,
@@ -319,8 +319,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Liars",
-        "url": "https://open.spotify.com/album/1JgKjuXBfsamwVZB2KF50i"
+        "name": "Sinners",
+        "url": "https://open.spotify.com/album/1f17i0gfwq1qwpQ0c7hvY1"
       },
       "artists": [
         {
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
         }
       ],
-      "duration_ms": 234173,
-      "name": "Lovers Or Liars",
-      "url": "https://open.spotify.com/track/081IPSY9UWk6RdARdzWVy4"
+      "duration_ms": 192000,
+      "name": "Ugly Truth",
+      "url": "https://open.spotify.com/track/7wm1gpbxjhoxhDb69LqFZg"
     },
     {
       "added_at": null,

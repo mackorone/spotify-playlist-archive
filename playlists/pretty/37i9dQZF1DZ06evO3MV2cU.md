@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MV2cU.md) - [plain]
 
 > This is Chris Tomlin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,625 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,635 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MV2cU.md) - [plain]
 | 42 | [Our God \- Live](https://open.spotify.com/track/1sYMNmv1Fu52OE3bFLADgJ) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Passion: Awakening \(Live\)](https://open.spotify.com/album/79Mqp9oHYgCsGx9n5k7U54) | 5:28 |
 | 43 | [No Greater Love \- As Featured in the Film "The Last Supper"](https://open.spotify.com/track/5woxR7S0ZXk5RWS0kLYGLu) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [No Greater Love \(As Featured in the Film "The Last Supper"\)](https://open.spotify.com/album/2x1WPk4KeLGQa4AKpL6rUJ) | 3:38 |
 | 44 | [Praise Him Forever](https://open.spotify.com/track/62shNor7VDjzBx8SC9YTPm) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Holy Roar](https://open.spotify.com/album/2MsjmtZb4JVzmQ2kmS6dVq) | 4:53 |
-| 45 | [The First Hymn](https://open.spotify.com/track/1Azri3vJMThJNOJF9OTv8m) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Ben Fielding](https://open.spotify.com/artist/33u16EyDkCbsyvh66ujJiO) | [The First Hymn](https://open.spotify.com/album/79DMLr7d7TtolyaV1WZoEq) | 4:11 |
-| 46 | [Jesus Loves Me](https://open.spotify.com/track/1uYzjO9kztEi2KVSS5rDgE) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Love Ran Red](https://open.spotify.com/album/1I5FTCyGotvADiEmqPeWjY) | 3:31 |
-| 47 | [Give Us Clean Hands \- Pour Over Me Album Version](https://open.spotify.com/track/2jjyMzq3pvknVSBeSzjck6) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Pour Over Me \- Worship Together Live 2001](https://open.spotify.com/album/154cvVNb9uaBEqztlz6rmv) | 5:38 |
+| 45 | [Give Us Clean Hands \- Pour Over Me Album Version](https://open.spotify.com/track/2jjyMzq3pvknVSBeSzjck6) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Pour Over Me \- Worship Together Live 2001](https://open.spotify.com/album/154cvVNb9uaBEqztlz6rmv) | 5:38 |
+| 46 | [The First Hymn](https://open.spotify.com/track/1Azri3vJMThJNOJF9OTv8m) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Ben Fielding](https://open.spotify.com/artist/33u16EyDkCbsyvh66ujJiO) | [The First Hymn](https://open.spotify.com/album/79DMLr7d7TtolyaV1WZoEq) | 4:11 |
+| 47 | [Jesus Loves Me](https://open.spotify.com/track/1uYzjO9kztEi2KVSS5rDgE) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Love Ran Red](https://open.spotify.com/album/1I5FTCyGotvADiEmqPeWjY) | 3:31 |
 | 48 | [Here For You \- Live](https://open.spotify.com/track/35xxlDrbgHAbOMYLoTrImH) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Passion: Here For You \(Live\)](https://open.spotify.com/album/0NGmtUx2BoGIxzfaCmLj4O) | 4:40 |
 | 49 | [I See You \(with Brandon Lake\)](https://open.spotify.com/track/5WJbUQV3FbzOxB4tA7yiXF) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Always](https://open.spotify.com/album/72AujkDTGgHNkVcPERPLaE) | 3:50 |
 | 50 | [Yes And Amen](https://open.spotify.com/track/6xYHIXSrucTcC9AXoTBEoB) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Never Lose Sight \(Deluxe Edition\)](https://open.spotify.com/album/7BK26n0Gkw7bvAlAUdU53F) | 5:06 |
 
-Snapshot ID: `aDzpgAAAAAAkpktNk6zNo3z7/sZrlKDt`
+Snapshot ID: `aD47AAAAAABq5dXBhWniU91ZNwDWDsNf`

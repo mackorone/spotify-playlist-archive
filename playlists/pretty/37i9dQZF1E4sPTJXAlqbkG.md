@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4sPTJXAlqbkG.md) - [plain]
 
 ### [PARTYNEXTDOOR Radio](https://open.spotify.com/playlist/37i9dQZF1E4sPTJXAlqbkG)
 
-> With Sonder, Summer Walker, Frank Ocean and more
+> With Sonder, Summer Walker, Jacquees and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,638 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,678 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4sPTJXAlqbkG.md) - [plain]
 | 49 | [Hold Me Down](https://open.spotify.com/track/4s76r7AbquJcTccqJiqdVu) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Freudian](https://open.spotify.com/album/4E1XUBMTpLO7GpBzUo65Jp) | 3:51 |
 | 50 | [Drive By](https://open.spotify.com/track/1kEINOBYcSCQ5RwkP65g2A) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Eric B for President: Term 1](https://open.spotify.com/album/7KNNWIPBk4Josbqhfa2KI3) | 2:58 |
 
-Snapshot ID: `aD+myAAAAABxKwdFGrEAXXI723C+bjub`
+Snapshot ID: `aEEIEwAAAABu0lC3rEmFF5YaP0F+MYZL`

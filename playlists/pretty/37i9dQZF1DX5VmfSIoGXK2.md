@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VmfSIoGXK2.md) - [plain]
 
 > Jazz house is our love language  🌳  with  Chaos In The CBD
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,986 likes - 100 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,045 likes - 100 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VmfSIoGXK2.md) - [plain]
 | 44 | [Blanc](https://open.spotify.com/track/06BAAawbsllT2PAhsqIsiJ) | [Holo](https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX) | [Blanc](https://open.spotify.com/album/5klbjenisysJ9KqsgLm4r1) | 6:18 |
 | 45 | [breathing in](https://open.spotify.com/track/5SQFF77hbKu61zAhuofSx9) | [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [feel it yet?](https://open.spotify.com/album/73TPblj9INiaI87pRaV5EW) | 3:01 |
 | 46 | [Autumn in Amsterdam](https://open.spotify.com/track/0zk9uvElUeSGpeP2Emhugt) | [Jazzwaves](https://open.spotify.com/artist/0Ts3DgksvL8dbF6mUAPFNC) | [Autumn in Amsterdam](https://open.spotify.com/album/4LMnyTKVoP6gOw4dWsKlFl) | 2:45 |
-| 47 | [Mon Coeur](https://open.spotify.com/track/0PAaJeO1U7Q4OgJk7Wx1j3) | [Sajmoonn](https://open.spotify.com/artist/7Jui0pv7zs0Pmbfaqx2Sjh), [TABLE](https://open.spotify.com/artist/1oaW8KNT8qcEb4PsnFjFXm) | [Mon Coeur](https://open.spotify.com/album/3btmLGVI2AlqPtwoeBEt6K) | 4:34 |
+| 47 | [Mon Coeur](https://open.spotify.com/track/0PAaJeO1U7Q4OgJk7Wx1j3) | [Sajmoonn](https://open.spotify.com/artist/7Jui0pv7zs0Pmbfaqx2Sjh), [TABLE](https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy) | [Mon Coeur](https://open.spotify.com/album/3btmLGVI2AlqPtwoeBEt6K) | 4:34 |
 | 48 | [nine thirty \(the glow\)](https://open.spotify.com/track/7fOu8YZoZ13Q8H6A2vm8ie) | [dialE](https://open.spotify.com/artist/2MRAnlUDLuUImm4UEZ9nHB) | [dear dialE](https://open.spotify.com/album/5MuPJGunKGoiPi0NYqiqIE) | 1:34 |
 | 49 | [Tess](https://open.spotify.com/track/4g2IofvpR6XcrX9I1Rui3J) | [Teuteu](https://open.spotify.com/artist/5PXIEgHdDSE1cLCLJ6H9C9) | [Tess](https://open.spotify.com/album/1SpgeROLMxyyyeBEXeu2Es) | 3:32 |
 | 50 | [Leather Loafers](https://open.spotify.com/track/2A1j5MzOI9xQH1godISbki) | [Juando](https://open.spotify.com/artist/5QdanLFGUCg40u4E9OMgBv) | [The Moode Life](https://open.spotify.com/album/1Weqz1h1WtlT8TCplCNBkp) | 3:42 |

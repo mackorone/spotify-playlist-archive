@@ -1,12 +1,12 @@
 {
   "description": "This is Perdidos De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 53662,
+  "num_followers": 53667,
   "original_name": "This Is Perdidos De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDzpgAAAAAACgiBggbe5eCmiMKaKmd1H",
+  "snapshot_id": "aD47AAAAAACjFBXgF4sjWz8i5QjrMyB+",
   "tracks": [
     {
       "added_at": null,
@@ -143,38 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Estas Perdida",
-        "url": "https://open.spotify.com/album/1CEut7ULUXYNOWoqC4Z2Nb"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 217849,
-      "name": "Lo Que Yo Sentia",
-      "url": "https://open.spotify.com/track/5BIpx4Z3ubZDJU2vRJIRR4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Te Vas",
-        "url": "https://open.spotify.com/album/2jq43Yl1uXnYcdn5BPtmxR"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 253478,
-      "name": "Como Te Olvido",
-      "url": "https://open.spotify.com/track/2gmX1m68Py0uWJdWDNlHnC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Parrandero (Remix)",
         "url": "https://open.spotify.com/album/6fQZ0ykhEyv1f6miucC5Ey"
       },
@@ -219,6 +187,38 @@
       "duration_ms": 168127,
       "name": "Parrandero (Remix)",
       "url": "https://open.spotify.com/track/62W6epdy8GM2uthWuelzFV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Te Vas",
+        "url": "https://open.spotify.com/album/2jq43Yl1uXnYcdn5BPtmxR"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 253478,
+      "name": "Como Te Olvido",
+      "url": "https://open.spotify.com/track/2gmX1m68Py0uWJdWDNlHnC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Estas Perdida",
+        "url": "https://open.spotify.com/album/1CEut7ULUXYNOWoqC4Z2Nb"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 217849,
+      "name": "Lo Que Yo Sentia",
+      "url": "https://open.spotify.com/track/5BIpx4Z3ubZDJU2vRJIRR4"
     },
     {
       "added_at": null,
@@ -275,6 +275,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Necesito Una Compa\u00f1era",
+        "url": "https://open.spotify.com/album/6USiqLbBUZ6w9ybSVfg8Ol"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 242007,
+      "name": "Necesito Una Compa\u00f1era",
+      "url": "https://open.spotify.com/track/1DSNRtAdbPdW5mxZTtQHAy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Soy Lo Que Soy",
         "url": "https://open.spotify.com/album/4kDXhqPRkNQ7cRcxjUHfoK"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 157222,
       "name": "Tres Botes",
       "url": "https://open.spotify.com/track/2jnPxRwZw1GmFbQhPOAPGK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Necesito Una Compa\u00f1era",
-        "url": "https://open.spotify.com/album/6USiqLbBUZ6w9ybSVfg8Ol"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 242007,
-      "name": "Necesito Una Compa\u00f1era",
-      "url": "https://open.spotify.com/track/1DSNRtAdbPdW5mxZTtQHAy"
     },
     {
       "added_at": null,
@@ -363,26 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Tu Sonrisa",
-        "url": "https://open.spotify.com/album/7a2CkvPQeStjenYvF2Ozzp"
-      },
-      "artists": [
-        {
-          "name": "Grupo Doble S",
-          "url": "https://open.spotify.com/artist/0iGURLngDC4AjEKaAmF1LF"
-        },
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 181347,
-      "name": "En Tu Sonrisa",
-      "url": "https://open.spotify.com/track/6hzawDp9DjbaRlDsR12R0K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 194500,
       "name": "Me Muero",
       "url": "https://open.spotify.com/track/2mLkhK3qmTTY4rqPNSL1MM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Tu Sonrisa",
+        "url": "https://open.spotify.com/album/7a2CkvPQeStjenYvF2Ozzp"
+      },
+      "artists": [
+        {
+          "name": "Grupo Doble S",
+          "url": "https://open.spotify.com/artist/0iGURLngDC4AjEKaAmF1LF"
+        },
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 181347,
+      "name": "En Tu Sonrisa",
+      "url": "https://open.spotify.com/track/6hzawDp9DjbaRlDsR12R0K"
     },
     {
       "added_at": null,
@@ -471,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tres Botes",
-        "url": "https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 237182,
-      "name": "Si Tu Quieres",
-      "url": "https://open.spotify.com/track/2TbeBA72jmvoAXnBvnezKB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 202826,
       "name": "Juro Por Dios - En Vivo",
       "url": "https://open.spotify.com/track/3RT87P7CZdHibJViDNbQ66"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tres Botes",
+        "url": "https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 237182,
+      "name": "Si Tu Quieres",
+      "url": "https://open.spotify.com/track/2TbeBA72jmvoAXnBvnezKB"
     },
     {
       "added_at": null,
@@ -535,6 +535,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 148302,
+      "name": "Carta Abierta - En Vivo",
+      "url": "https://open.spotify.com/track/6fR8JchZYueUVGY5NojnMs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dariel El Sabroso",
         "url": "https://open.spotify.com/album/198hT0bzo8KylJ1j20RS2T"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 202120,
       "name": "Dariel El Sabroso",
       "url": "https://open.spotify.com/track/3sZeAyxQOsVADzKDRnuvDb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 148302,
-      "name": "Carta Abierta - En Vivo",
-      "url": "https://open.spotify.com/track/6fR8JchZYueUVGY5NojnMs"
     },
     {
       "added_at": null,
@@ -603,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 272939,
+      "name": "Voy A Pintar Mi Raya - En Vivo",
+      "url": "https://open.spotify.com/track/7L7xj3X9mFJmfmdaTyZm3K"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Llores Mas Mis Recuerdos",
         "url": "https://open.spotify.com/album/7K7K6b1Z7G7o5T7i5EdPD0"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 282671,
       "name": "No Llores Mis Recuerdos",
       "url": "https://open.spotify.com/track/69GwBecGipqhLGjlCRGLa5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 272939,
-      "name": "Voy A Pintar Mi Raya - En Vivo",
-      "url": "https://open.spotify.com/track/7L7xj3X9mFJmfmdaTyZm3K"
     },
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tres Botes",
-        "url": "https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 131285,
-      "name": "Siempre Trabajando",
-      "url": "https://open.spotify.com/track/7nK9RJn7XNg5RaRE6v2eQm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 142849,
       "name": "Misa De Cuerpo Presente",
       "url": "https://open.spotify.com/track/3bxCgdxcVwlUTiyu64tdyu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tres Botes",
+        "url": "https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 131285,
+      "name": "Siempre Trabajando",
+      "url": "https://open.spotify.com/track/7nK9RJn7XNg5RaRE6v2eQm"
     },
     {
       "added_at": null,
@@ -743,26 +743,6 @@
       "duration_ms": 174911,
       "name": "Dar\u00eda Todo Por Ti",
       "url": "https://open.spotify.com/track/1LRLWF1pMWCboN4u4xIBOv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "D\u00edganle",
-        "url": "https://open.spotify.com/album/0KvyHutI4hdGctz0SnhT9z"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        },
-        {
-          "name": "Nico Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip"
-        }
-      ],
-      "duration_ms": 180447,
-      "name": "D\u00edganle",
-      "url": "https://open.spotify.com/track/5QnDgXOeUQtDac2uqWecK9"
     },
     {
       "added_at": null,
@@ -923,6 +903,22 @@
       "duration_ms": 163893,
       "name": "Luchon",
       "url": "https://open.spotify.com/track/3SbiPpfN0l8BmeQZOFKUWu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cuando Se Ama A Una Mujer",
+        "url": "https://open.spotify.com/album/5XGayQjKmHFSHvkwaP5zYq"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 216372,
+      "name": "Cuando Se Ama A Una Mujer",
+      "url": "https://open.spotify.com/track/3aYRQn9tW2WSAddn0ZDo8j"
     }
   ],
   "unique_name": "This Is Perdidos De Sinaloa",

@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6TJWXRemQHy.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6TJWXRemQHy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6TJWXRemQHy)
 
-### [a rainy night](https://open.spotify.com/playlist/37i9dQZF1DX6TJWXRemQHy)
+### [mentally i'm here](https://open.spotify.com/playlist/37i9dQZF1DX6TJWXRemQHy)
 
-> you're having a quiet, slow night in listening to the rain dripping on the windows\.  🌧️
+> An ambient + rain playlist\. Blurred city lights, empty sidewalks, and windowpane reflections 🌧️
 
 69 songs - 3 hr 21 min
 

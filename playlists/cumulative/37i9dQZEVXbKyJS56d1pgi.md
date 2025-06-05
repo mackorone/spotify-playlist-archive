@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Portugal.
 
-1,670 songs - 3 day 20 hr 19 min
+1,671 songs - 3 day 20 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1442,7 +1442,7 @@
 | [Também Sonhar](https://open.spotify.com/track/1wTj5ru6fkZLCIF7nLWEcr) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0), [Sara Tavares](https://open.spotify.com/artist/57zZoaRDFEjqRwq6FlT0va) | [You Are Forgiven](https://open.spotify.com/album/2c6j8Ewk519kAxemoQ92mF) | 3:28 | 2023-11-21 | 2023-11-23 |
 | [Tasas Jan](https://open.spotify.com/track/3lnbKYUgI8eQqoWS8NzSLs) | [MousingMousedd](https://open.spotify.com/artist/4LLpZ4hLpsIkgxkVLQ7zYe) | [Tasas Jan](https://open.spotify.com/album/34aWiUwIsVubnHetwHCRKx) | 2:04 | 2024-12-02 | 2024-12-04 |
 | [Taste](https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:37 | 2024-08-24 | 2025-01-08 |
-| [Tata](https://open.spotify.com/track/0fPOFtS7ZylYKcC9b64cSj) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [Afro Fado](https://open.spotify.com/album/0GcsYtidlr4azVnuTjD3KI) | 2:39 | 2023-11-25 |  |
+| [Tata](https://open.spotify.com/track/0fPOFtS7ZylYKcC9b64cSj) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [Afro Fado](https://open.spotify.com/album/0GcsYtidlr4azVnuTjD3KI) | 2:39 | 2023-11-25 | 2025-06-05 |
 | [Tattoo](https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Tattoo](https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp) | 3:03 | 2023-05-15 | 2023-11-26 |
 | [Tchuco Nela](https://open.spotify.com/track/3ShKPhFkexrwl7WoyTtNND) | [MC Rogerinho](https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Tchuco Nela](https://open.spotify.com/album/15MbkLbjzgrQchBQwybR5L) | 2:50 | 2022-05-24 | 2022-09-21 |
 | [Te Amo](https://open.spotify.com/track/5kr0kja5gbZAaT7w3TGKts) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [Yellow](https://open.spotify.com/album/3TnAk6bBJMNeFjOUJMaFFz) | 4:18 | 2022-02-02 | 2022-07-27 |
@@ -1480,6 +1480,7 @@
 | [THE DINER](https://open.spotify.com/track/1LLUoftvmTjVNBHZoQyveF) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:06 | 2024-05-18 | 2024-05-26 |
 | [The Emptiness Machine](https://open.spotify.com/track/1EDPVGbyPKJPeGqATwXZvN) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [From Zero](https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93) | 3:10 | 2024-11-16 | 2024-12-23 |
 | [The Emptiness Machine](https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [The Emptiness Machine](https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ) | 3:10 | 2024-09-07 | 2024-11-17 |
+| [The First Time](https://open.spotify.com/track/7ETIZFr7163zFcz3RxKk5O) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [FUNNY little FEARS](https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa) | 3:38 | 2025-06-04 |  |
 | [THE GREATEST](https://open.spotify.com/track/6TGd66r0nlPaYm3KIoI7ET) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:53 | 2024-05-18 | 2024-06-01 |
 | [the grudge](https://open.spotify.com/track/3Nl5OkkmS5DaBZvuYofpAt) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:09 | 2023-09-09 | 2023-09-13 |
 | [The Heart Part 5](https://open.spotify.com/track/5MMW4CZsZiZt2iuqAXzzWC) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Heart Part 5](https://open.spotify.com/album/5XClh485CRBIIKaNXWWt7Z) | 5:32 | 2022-05-10 | 2022-05-15 |

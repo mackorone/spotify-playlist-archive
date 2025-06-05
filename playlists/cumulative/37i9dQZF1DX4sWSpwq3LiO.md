@@ -4,7 +4,7 @@
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-1,792 songs - 3 day 7 hr 34 min
+1,793 songs - 3 day 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -624,6 +624,7 @@
 | [high above the trees](https://open.spotify.com/track/2BKvoqmJKFjMD87p7o2eRp) | [Maggie Fletcher](https://open.spotify.com/artist/4BAzGcIrYWKK95fYvVaDjI) | [high above the trees](https://open.spotify.com/album/64eS8Jz1rSRTwmHxPufz8P) | 2:06 | 2021-06-24 | 2022-12-06 |
 | [Hindsight](https://open.spotify.com/track/0k8MgafLdbRrQaqPbklNtN) | [Elliott Jacqués](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Hindsight](https://open.spotify.com/album/6kioGbNjNtqk7fmhcDBleD) | 1:50 | 2021-05-22 | 2021-08-05 |
 | [Histoire d'un Jour](https://open.spotify.com/track/16QEKihp9N6eHLbeIat4jb) | [Amandine Moulin](https://open.spotify.com/artist/0sVyGAiXwDz3NKBLpwY69j) | [Histoire d'un Jour](https://open.spotify.com/album/6E6rkMC4rUvfUbJr19ppjs) | 2:25 | 2021-06-24 | 2022-04-15 |
+| [Hivon](https://open.spotify.com/track/4R5hrJSecDyvtD80GZLAGs) | [Xaverius Love](https://open.spotify.com/artist/614WSOcC6h559Do1UR6k97) | [Hivon](https://open.spotify.com/album/23jcFelRsPzQYacsgJ2HDI) | 2:42 | 2025-06-04 |  |
 | [Holding Hands](https://open.spotify.com/track/6hzlEcgzqLW9UbLsUZMTVP) | [Junie Graziano](https://open.spotify.com/artist/3X2b9Hkj2Rk6gnPq8Lv9QT) | [Holding Hands](https://open.spotify.com/album/3sMHlbyicRDFi4n57C0HTc) | 1:39 | 2023-02-03 | 2023-07-19 |
 | [Homage](https://open.spotify.com/track/5imJAvlEBQf9OWjogd3VEm) | [Inside Lands](https://open.spotify.com/artist/7fQumDmow1qrPuRXqMHUa7) | [Homage](https://open.spotify.com/album/0U0hTrIvfgJCB59rb8sApb) | 2:43 | 2021-05-12 | 2022-05-05 |
 | [Home](https://open.spotify.com/track/7eTDwpm5XKKssoMhMbo67y) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq) | [The Beauty Inside \(Original Film Score\)](https://open.spotify.com/album/0gdEKp8PUuksujg3BpVBiP) | 2:40 | 2019-05-26\* | 2019-11-19 |
@@ -1673,7 +1674,7 @@
 | [Valverde](https://open.spotify.com/track/5G1xgH1zCwWF4f5aIOUksB) | [Jacques Ferrandi](https://open.spotify.com/artist/5ZHteW1wcQ0lo61nAFQPV7) | [Duality](https://open.spotify.com/album/3dE84iT1GkIHixshI0twdV) | 2:04 | 2020-06-24 | 2021-02-17 |
 | [Vancouver](https://open.spotify.com/track/6H08IWL5fcTkVyNjNCH2GM) | [Adam Fincher](https://open.spotify.com/artist/0PmeWY74IzTbfmYPC3Fsq6) | [Vancouver](https://open.spotify.com/album/4IdRqAawCzBNThspxGFTbo) | 3:31 | 2020-08-04 | 2021-04-08 |
 | [Včeraj](https://open.spotify.com/track/6o71Foef4Jf2LMFnHuvQo4) | [Zemfira Mironova](https://open.spotify.com/artist/7HdmWISDuEN6CX1zXXaK8H) | [Včeraj](https://open.spotify.com/album/5gR375qQkGA51v1fB4euT9) | 2:05 | 2021-01-05 | 2022-08-27 |
-| [Ved](https://open.spotify.com/track/75XNNOrKVTwJ1lEGbE1a8q) | [Anton Lindholm](https://open.spotify.com/artist/3ZuH0PIvMsQwFwr76OrdnP) | [Ved](https://open.spotify.com/album/0d3FPiEWqaJoxUaJgSSvNg) | 2:17 | 2023-01-27 |  |
+| [Ved](https://open.spotify.com/track/75XNNOrKVTwJ1lEGbE1a8q) | [Anton Lindholm](https://open.spotify.com/artist/3ZuH0PIvMsQwFwr76OrdnP) | [Ved](https://open.spotify.com/album/0d3FPiEWqaJoxUaJgSSvNg) | 2:17 | 2023-01-27 | 2025-06-05 |
 | [Veiled Remembrance](https://open.spotify.com/track/5ottoPWbTULvnKU5PSCysf) | [Mijongya](https://open.spotify.com/artist/7GPrD3dPYED5wENCMHirj7) | [Veiled Remembrance](https://open.spotify.com/album/6qwFoOfdmNmHT0aTrXBlzA) | 2:52 | 2024-07-22 |  |
 | [Veleta](https://open.spotify.com/track/6S7OE2VPyGAEMVotv5jEz1) | [Torsten Hugo](https://open.spotify.com/artist/0tbvvo4GnJ1klnn3H4Mk9g) | [Veleta](https://open.spotify.com/album/5D0Nm6ZKoiVphuMUyuzyiA) | 3:51 | 2021-09-09 | 2022-07-07 |
 | [Velez\-Malaga](https://open.spotify.com/track/2vevoLZEoZTCAYsvc1TDnq) | [Rosa Monteiro](https://open.spotify.com/artist/52Lag2Pn0WtKwomc2lCtZ1) | [Velez\-Malaga](https://open.spotify.com/album/6bmGfliwOLuAcStJqB9sNl) | 3:14 | 2021-09-09 | 2022-05-13 |

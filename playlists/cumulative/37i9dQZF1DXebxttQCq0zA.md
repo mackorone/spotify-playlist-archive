@@ -4,7 +4,7 @@
 
 > Soothing drones, ambient piano and new age music.
 
-524 songs - 1 day 2 hr 9 min
+525 songs - 1 day 2 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -531,6 +531,7 @@
 | [Yoga Suave](https://open.spotify.com/track/0vIbin4bgiEt31PDnxFWcx) | [Devaga](https://open.spotify.com/artist/4j3L8WvbVgQd8R1kAVtJCW) | [Relajación y Meditación](https://open.spotify.com/album/7lf9GNRElS8xe9isYjh3bL) | 2:48 | 2022-05-25 | 2023-04-07 |
 | [Your Echo](https://open.spotify.com/track/6LPw6rbpwC63tQqYK2SWOW) | [Rania Lees](https://open.spotify.com/artist/6pYz2qzA7QjTB03XMd9cdJ) | [Your Echo](https://open.spotify.com/album/7Ilig6sB0IcdM5LPwhcY63) | 2:16 | 2022-05-25 | 2024-08-03 |
 | [Zentrovert](https://open.spotify.com/track/0TV6pAwcHotS0Mhd4YP1bd) | [Chuck Namaste](https://open.spotify.com/artist/156kibEzCQReW228ztwjKK) | [Capricorn Sonata](https://open.spotify.com/album/3TKnynG4exN0O9j5KbSPmO) | 3:18 | 2022-05-25 | 2023-08-12 |
+| [Zephira](https://open.spotify.com/track/2h2EHxnbJu1mmpmioWUaxl) | [Celestial Aura](https://open.spotify.com/artist/7LsUHcMzywHjrdzx759ZcV) | [Zephira](https://open.spotify.com/album/4OoLVP21lpDtYNYpQjx8Yb) | 2:51 | 2025-06-04 |  |
 | [梦蝶 \- Dream to be a butterfly](https://open.spotify.com/track/2hkPUEsERVGoI4DxfZjUj5) | [Yue Yan Jen](https://open.spotify.com/artist/4MBwj0QO9m7CS0pHBfhrkU) | [梦蝶 \- Dream to be a butterfly](https://open.spotify.com/album/4j2aVL8FxwYDS92E0yyUbg) | 2:40 | 2022-05-25 | 2022-09-28 |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

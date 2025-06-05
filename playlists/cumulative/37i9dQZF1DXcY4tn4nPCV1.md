@@ -4,7 +4,7 @@
 
 > A calm, instrumental reading playlist.
 
-492 songs - 20 hr 54 min
+495 songs - 21 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Awakening](https://open.spotify.com/track/4NtQxFOAJhJdScCIgEZkeN) | [Karen LeFrak](https://open.spotify.com/artist/7w0W3SxEy226zQlm1eMnXo), [Jacques van Tuinen](https://open.spotify.com/artist/2cJHx9ShBZorTEnZbVv5nz) | [Awakening](https://open.spotify.com/album/5vsFLDIbHA9rWnTLfM6n6Q) | 1:57 | 2022-07-07 | 2023-07-19 |
 | [Ártabra](https://open.spotify.com/track/3AMGT6wBi8UYxmYK4dS1mP) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Ártabra](https://open.spotify.com/album/1d1jH5lYcRiaRZVCOCSNTe) | 3:22 | 2022-04-04 | 2022-11-19 |
 | [Ática](https://open.spotify.com/track/07g8nWc95mnGgPfRlRq075) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Ática](https://open.spotify.com/album/2UEDt340ibuHflO6Hd2ZEs) | 2:29 | 2022-04-04 | 2023-10-03 |
+| [Back Together](https://open.spotify.com/track/6t4dYNa9xTzWYHpFZmfC7U) | [Samuel Kees](https://open.spotify.com/artist/6KGVoP7dCFZ2FILUCCj4rn) | [Back Together](https://open.spotify.com/album/7aHIJMNdGIzqyNVowCJH52) | 2:48 | 2025-06-04 |  |
 | [Badzura: Muse d'eau](https://open.spotify.com/track/2X32IY314Mt7NRi2taldLX) | [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Reflections Pt\. 3 / RWKS](https://open.spotify.com/album/4lKjOi9WFEBvafMP8IXToY) | 3:33 | 2022-04-04 | 2024-02-03 |
 | [Banquet for A Boy from the Neighbourhood](https://open.spotify.com/track/3qP3pv8Gp8ODZeWm2V9bxc) | [Tim Linghaus](https://open.spotify.com/artist/5pYvEtayIrFGYNKLI9pxKY) | [Yurusu](https://open.spotify.com/album/2mE1jjMKmt8gDX54MyHtQo) | 2:28 | 2022-12-22 | 2025-03-19 |
 | [Bastione](https://open.spotify.com/track/3nMBQwUV1g1pkWxEz4kb2b) | [Robert Gafforelli](https://open.spotify.com/artist/16yfPw6Pf0UdDBX05HqCa7) | [Bastione](https://open.spotify.com/album/6Ayd2MMYR6CCAMSt10tiU3) | 2:37 | 2023-08-22 |  |
@@ -51,6 +52,7 @@
 | [Beckoning](https://open.spotify.com/track/3H1OE9Zplf6jwb9tjMAXFT) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Beckoning](https://open.spotify.com/album/52s8Slpn2zsl7L7SoASh5a) | 2:00 | 2023-11-07 |  |
 | [Before](https://open.spotify.com/track/2QEAwvG61BZ0w3ivNFrhq3) | [Cameron Segal](https://open.spotify.com/artist/2rgYNZpfRVo4CwX3Kxybwj) | [Before](https://open.spotify.com/album/4dIMtBWCADKOaD1F4uD3Eg) | 2:32 | 2025-03-07 | 2025-05-14 |
 | [Before Dawn](https://open.spotify.com/track/42mnMZ6db1BFIzrW89JpoU) | [Shaunta Coburn](https://open.spotify.com/artist/6Brh18kVDBzXLS2Uu38SuX) | [Before Dawn](https://open.spotify.com/album/4v89u5szEzd1HZbltZ8KPq) | 2:17 | 2022-04-04 | 2024-07-30 |
+| [Before Sunset](https://open.spotify.com/track/26licdts7EZ9dLaKd8NNh4) | [Rudy Bloom](https://open.spotify.com/artist/6kw1TTFYSs8rMUKWOm7kTI) | [Before Sunset](https://open.spotify.com/album/27HI1XKXwpZWZSRIDXKTHe) | 2:11 | 2025-06-04 |  |
 | [Before You Leave](https://open.spotify.com/track/5r4tOJk4xR3J4SQS52GO4l) | [Henriette Fleich](https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi) | [Before You Leave](https://open.spotify.com/album/59XlugrAgS9ZEQ8UsZ5zPd) | 2:08 | 2024-03-04 |  |
 | [Before your eyes](https://open.spotify.com/track/4xugZez7zpHFNTgkf0DLV1) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [Before your eyes](https://open.spotify.com/album/0o9d8yy6sU4pkrwu06Y84t) | 3:00 | 2022-04-04 |  |
 | [Behind an Ethereal Veil](https://open.spotify.com/track/0TdAAwbQJyQKBdiDQBY5xa) | [Augustino](https://open.spotify.com/artist/2hl8fayyJZBI8s07wgRbhC) | [Behind An Ethereal Veil](https://open.spotify.com/album/5dMXMcck2Dn1fRchPDD9M0) | 2:24 | 2024-02-14 |  |
@@ -187,6 +189,7 @@
 | [How Soon](https://open.spotify.com/track/3MScOhpysH4pW5PVziEpxS) | [Lucile Garett](https://open.spotify.com/artist/6VcRNGf7V9o2TJSW6leoCZ) | [How Soon](https://open.spotify.com/album/2ZaihQBGWPP9tOy1dprbks) | 2:50 | 2022-04-04 | 2022-12-24 |
 | [Humbly](https://open.spotify.com/track/6MeOCVIU94xMVgr1kTMKRT) | [Gail Singleton](https://open.spotify.com/artist/1VA9HBofA9Pc9Q3DSR4gQw) | [Humbly](https://open.spotify.com/album/7r8ESgCgTKTuJRjAUo7F1I) | 2:12 | 2022-04-04 | 2022-11-19 |
 | [Hymne d'été](https://open.spotify.com/track/1BMXuo67CPYuccFQO0r0v9) | [Gael Motif](https://open.spotify.com/artist/5Cekx8y4a1ldk7upl3DTe3) | [Hymne d'été](https://open.spotify.com/album/5BqIJ93b8hXkeVY2LMPj1G) | 2:14 | 2022-04-04 | 2022-11-19 |
+| [I Dreamed of You](https://open.spotify.com/track/3q5PzPbD5IDrAd3GYmyXvY) | [Eternalistic](https://open.spotify.com/artist/77efGNIP8xtX0iCb5RCHCG) | [I Dreamed of You](https://open.spotify.com/album/6TCwLDqzhLtvdl57BZzH1C) | 2:42 | 2025-06-04 |  |
 | [If I Could Tell You](https://open.spotify.com/track/11Qo1ZRy2R3aC12G33c210) | [Maude Eldridge](https://open.spotify.com/artist/21f60v74DrfHND4HjqmE1u) | [If I Could Tell You](https://open.spotify.com/album/2JPlNFaUONwpq8BiuuxG0z) | 2:23 | 2022-04-04 | 2022-04-29 |
 | [Ignis](https://open.spotify.com/track/0kDuotZ7G61nk9rQNcHBbK) | [Martin Rapide](https://open.spotify.com/artist/0rsshRiKbaGqpYNI0jYNIX) | [Ignis](https://open.spotify.com/album/6Z0Zu6OiJYKJ4FXGl9rpXO) | 3:32 | 2024-01-04 |  |
 | [Il mio cuore brucia per te](https://open.spotify.com/track/2Wvu8d2R1Ish33Jl67JEdI) | [Oddo Fava](https://open.spotify.com/artist/3DbqhQZ1BfpxozIDPMjZDd) | [Il mio cuore brucia per te](https://open.spotify.com/album/65YsTIbDwGwTGVxGjpDMvy) | 2:10 | 2022-04-04 | 2024-04-04 |

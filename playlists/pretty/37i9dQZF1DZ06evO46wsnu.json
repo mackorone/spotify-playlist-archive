@@ -1,12 +1,12 @@
 {
   "description": "This is Rise Against. The essential tracks, all in one playlist.",
-  "num_followers": 172636,
+  "num_followers": 172683,
   "original_name": "This Is Rise Against",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDzpgAAAAABlXhbiaeLIZLWTdtoY4w00",
+  "snapshot_id": "aD47AAAAAACQN2g1Y9hQvOKyiZ+Avsfo",
   "tracks": [
     {
       "added_at": null,
@@ -60,7 +60,7 @@
       "added_at": null,
       "album": {
         "name": "The Sufferer & The Witness",
-        "url": "https://open.spotify.com/album/1VZ0i4vJ0AkPbmpuaktZMJ"
+        "url": "https://open.spotify.com/album/1Vr598HQXjJCwxHale9yQP"
       },
       "artists": [
         {
@@ -70,7 +70,7 @@
       ],
       "duration_ms": 199386,
       "name": "Prayer Of The Refugee",
-      "url": "https://open.spotify.com/track/4OSbctVD37ycS0H3rwRm72"
+      "url": "https://open.spotify.com/track/2VGQ342iuqj6aSaYbyBQVJ"
     },
     {
       "added_at": null,
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Black Market",
-        "url": "https://open.spotify.com/album/65jmbHYm42IEATHEJCbKgC"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 257000,
-      "name": "Tragedy + Time",
-      "url": "https://open.spotify.com/track/39yvhCgBmNrLf0m9lan0Ge"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Endgame",
         "url": "https://open.spotify.com/album/2Gq0ERke26yxdGuRvrqFTD"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 221200,
       "name": "This Is Letting Go",
       "url": "https://open.spotify.com/track/0304Y3lXclcRh5N50KJ3sE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Black Market",
+        "url": "https://open.spotify.com/album/65jmbHYm42IEATHEJCbKgC"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 257000,
+      "name": "Tragedy + Time",
+      "url": "https://open.spotify.com/track/39yvhCgBmNrLf0m9lan0Ge"
     },
     {
       "added_at": null,

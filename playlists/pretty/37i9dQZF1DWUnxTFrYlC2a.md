@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUnxTFrYlC2a.md) - [plain]
 
 > 🔊súbele sin miedo, súbele hasta que reviente 🔊
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,655 likes - 125 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,759 likes - 125 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

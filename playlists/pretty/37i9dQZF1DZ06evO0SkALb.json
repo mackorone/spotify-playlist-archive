@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDzpgAAAAACocnbb+nlKGNvsCP64v5Jy",
+  "snapshot_id": "aD47AAAAAAAmJprr0E4DLyoddtgOkcFz",
   "tracks": [
     {
       "added_at": null,
@@ -551,6 +551,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Black And Blue",
+        "url": "https://open.spotify.com/album/7xYn8t0P9l0Oep0Ycpc7gS"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 215240,
+      "name": "I'd Rather Drink Muddy Water - 2006 Remaster",
+      "url": "https://open.spotify.com/track/1ZGODV0nkzm2GpPKmKWu5k"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Essential Lou Rawls",
         "url": "https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG"
       },
@@ -583,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black And Blue",
-        "url": "https://open.spotify.com/album/7xYn8t0P9l0Oep0Ycpc7gS"
+        "name": "Shades of Blue",
+        "url": "https://open.spotify.com/album/6thOuxCNeHuZpvyw90JlnN"
       },
       "artists": [
         {
@@ -592,9 +608,9 @@
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
         }
       ],
-      "duration_ms": 215240,
-      "name": "I'd Rather Drink Muddy Water - 2006 Remaster",
-      "url": "https://open.spotify.com/track/1ZGODV0nkzm2GpPKmKWu5k"
+      "duration_ms": 232346,
+      "name": "I Go Crazy",
+      "url": "https://open.spotify.com/track/2bElJW7i0Sq8xME6Tk4qiK"
     },
     {
       "added_at": null,
@@ -615,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shades of Blue",
-        "url": "https://open.spotify.com/album/6thOuxCNeHuZpvyw90JlnN"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 232346,
-      "name": "I Go Crazy",
-      "url": "https://open.spotify.com/track/2bElJW7i0Sq8xME6Tk4qiK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Anthology-Lou Rawls",
         "url": "https://open.spotify.com/album/6RZbUqqODcPvuxw6zAD5fX"
       },
@@ -643,6 +643,26 @@
       "duration_ms": 267333,
       "name": "You've Made Me So Very Happy - 2000 Digital Remaster",
       "url": "https://open.spotify.com/track/4q7sSG5Ki7S9DqrjPztywV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stormy Monday",
+        "url": "https://open.spotify.com/album/2E5VtJahYu8mM1fjycL5ds"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        },
+        {
+          "name": "Les McCann",
+          "url": "https://open.spotify.com/artist/07tYu4BGrfeogBobCefkHI"
+        }
+      ],
+      "duration_ms": 357040,
+      "name": "Willow Weep For Me",
+      "url": "https://open.spotify.com/track/2hS8iHYwvSCJCimtWJbjun"
     },
     {
       "added_at": null,
@@ -679,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lou Rawls - The Very Best Of",
+        "url": "https://open.spotify.com/album/0fHzoR2PfTW5FhpVBcNJVN"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 232826,
+      "name": "Wind Beneath My Wings - Single Version",
+      "url": "https://open.spotify.com/track/3U5Lm60H6RteX9C0dpi7QT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Essential Lou Rawls",
         "url": "https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG"
       },
@@ -711,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lou Rawls - The Very Best Of",
-        "url": "https://open.spotify.com/album/0fHzoR2PfTW5FhpVBcNJVN"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 232826,
-      "name": "Wind Beneath My Wings - Single Version",
-      "url": "https://open.spotify.com/track/3U5Lm60H6RteX9C0dpi7QT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "At Last",
         "url": "https://open.spotify.com/album/67kL3Ynn7m3sl8gkharjQb"
       },
@@ -739,26 +759,6 @@
       "duration_ms": 183493,
       "name": "If I Were A Magician",
       "url": "https://open.spotify.com/track/67jdi6oftdZ6Fb6MzzkA5n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stormy Monday",
-        "url": "https://open.spotify.com/album/2E5VtJahYu8mM1fjycL5ds"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        },
-        {
-          "name": "Les McCann",
-          "url": "https://open.spotify.com/artist/07tYu4BGrfeogBobCefkHI"
-        }
-      ],
-      "duration_ms": 357040,
-      "name": "Willow Weep For Me",
-      "url": "https://open.spotify.com/track/2hS8iHYwvSCJCimtWJbjun"
     },
     {
       "added_at": null,

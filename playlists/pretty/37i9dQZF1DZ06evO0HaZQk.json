@@ -1,12 +1,12 @@
 {
   "description": "This is Natalia Lafourcade. The essential tracks, all in one playlist.",
-  "num_followers": 517842,
+  "num_followers": 517873,
   "original_name": "This Is Natalia Lafourcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDzpgAAAAABavzmXoHuz1sSbUQp8P+vY",
+  "snapshot_id": "aD47AAAAAABVwR2MwXTPeHIMDwKq8XqG",
   "tracks": [
     {
       "added_at": null,
@@ -371,26 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos, Vol. 1)",
-        "url": "https://open.spotify.com/album/30isRfL4u7fowKgTVsydDt"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        },
-        {
-          "name": "Los Macorinos",
-          "url": "https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx"
-        }
-      ],
-      "duration_ms": 223426,
-      "name": "Soy Lo Prohibido (feat. Los Macorinos)",
-      "url": "https://open.spotify.com/track/1g2ArBYODteuzTtYN7qOT2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuando Te Muerdes el Labio",
         "url": "https://open.spotify.com/album/0MYpaG2Kjp6ss5g0IgKrE4"
       },
@@ -407,6 +387,26 @@
       "duration_ms": 217400,
       "name": "Diazepam",
       "url": "https://open.spotify.com/track/2KrXkY8yRsncGk2kXPD4Zt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos, Vol. 1)",
+        "url": "https://open.spotify.com/album/30isRfL4u7fowKgTVsydDt"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Los Macorinos",
+          "url": "https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx"
+        }
+      ],
+      "duration_ms": 223426,
+      "name": "Soy Lo Prohibido (feat. Los Macorinos)",
+      "url": "https://open.spotify.com/track/1g2ArBYODteuzTtYN7qOT2"
     },
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que la Vida Vale",
-        "url": "https://open.spotify.com/album/3WnKgNvbPDs3TxizVPYH9J"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 190820,
-      "name": "Que la Vida Vale",
-      "url": "https://open.spotify.com/track/4SDPTQRh2WvydrhBTAmdt1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Timidez (feat. Natalia Lafourcade)",
         "url": "https://open.spotify.com/album/2XaspQ17g3BU4Xkl2fDjV3"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 214186,
       "name": "Timidez (feat. Natalia Lafourcade)",
       "url": "https://open.spotify.com/track/3Riytw4egMe357gWrANdAr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Que la Vida Vale",
+        "url": "https://open.spotify.com/album/3WnKgNvbPDs3TxizVPYH9J"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 190820,
+      "name": "Que la Vida Vale",
+      "url": "https://open.spotify.com/track/4SDPTQRh2WvydrhBTAmdt1"
     },
     {
       "added_at": null,
@@ -911,26 +911,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nave Especial",
-        "url": "https://open.spotify.com/album/0aDzJpuIP4rGj7yjDapFm7"
-      },
-      "artists": [
-        {
-          "name": "Ruzzi",
-          "url": "https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 136341,
-      "name": "Mudanza",
-      "url": "https://open.spotify.com/track/2DTFJilnKTmpWPR17Zn4Sm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ca\u00f3tica Belleza",
         "url": "https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS"
       },
@@ -947,6 +927,26 @@
       "duration_ms": 237880,
       "name": "Ca\u00f3tica Belleza",
       "url": "https://open.spotify.com/track/2mb51571ds4q4XcOP23rF1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nave Especial",
+        "url": "https://open.spotify.com/album/0aDzJpuIP4rGj7yjDapFm7"
+      },
+      "artists": [
+        {
+          "name": "Ruzzi",
+          "url": "https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 136341,
+      "name": "Mudanza",
+      "url": "https://open.spotify.com/track/2DTFJilnKTmpWPR17Zn4Sm"
     }
   ],
   "unique_name": "This Is Natalia Lafourcade",

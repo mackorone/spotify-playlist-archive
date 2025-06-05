@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYHO8PTSQ9fM.md) - [plain]
 
 > Les hits du moment au Maroc\. Cover: Shaw, OldyGotTheSound & Anys
 
-[Spotify](https://open.spotify.com/user/spotify) - 681,553 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 681,634 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [TAF TAF](https://open.spotify.com/track/6dTXGkUrNYmR8kSfr5MxmW) | [OldyGotTheSound](https://open.spotify.com/artist/5J1oH9bIdN8XDWOQuTZEIn), [Anys](https://open.spotify.com/artist/1YjFEw5PirL57vHDoCMkhw), [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [TAF TAF](https://open.spotify.com/album/5Qw3MvNZK4lOrEHYxl8nYE) | 2:18 |
 | 2 | [My Darling \- Habibti](https://open.spotify.com/track/5oflgQFgT6gmPsNGfLzvCI) | [Chella](https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI), [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h) | [My Darling](https://open.spotify.com/album/6HXLr6yIRp4iLM7XViRcTn) | 2:40 |
 | 3 | [Mok ya mok](https://open.spotify.com/track/2yQn0Y5mODyHfCk4oxBPfr) | [Benny Adam](https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA), [Khadija El Warzazia](https://open.spotify.com/artist/2ygf9jdzulwgls2Gx1jTdm) | [Mok ya mok](https://open.spotify.com/album/6bf0QljuZqYPriKjVQtwG7) | 2:38 |
-| 4 | [LAKAMURA \(LOLE LOLE\)](https://open.spotify.com/track/7GpRfqWrmhflvcIFPcvdS7) | [JamShow](https://open.spotify.com/artist/0nCMA6dYea3Y08bsnB0xrx), [Lakamura](https://open.spotify.com/artist/1ocBu5jVKJJ6xW0Sw0r87b) | [PRIME 6 'FINALE'](https://open.spotify.com/album/47kEZ7v8J6d9sU9rMYg8fB) | 3:19 |
+| 4 | [لولي لولي](https://open.spotify.com/track/7GpRfqWrmhflvcIFPcvdS7) | [JamShow](https://open.spotify.com/artist/0nCMA6dYea3Y08bsnB0xrx), [Lakamura](https://open.spotify.com/artist/1ocBu5jVKJJ6xW0Sw0r87b) | ['برايم 6 'النهائي](https://open.spotify.com/album/47kEZ7v8J6d9sU9rMYg8fB) | 3:19 |
 | 5 | [Amnésie](https://open.spotify.com/track/624UJb49U6Wtvoa7aj8nQ2) | [ZAKLOOW](https://open.spotify.com/artist/1YXtbOgnaz82aSuMnWSukx), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [SYMPHONY IX](https://open.spotify.com/album/4OvkJaCZiDU2MNTYxu91RG) | 2:44 |
 | 6 | [Vaitimbora](https://open.spotify.com/track/4PT2ZuTfGLHI86OBqm2Ezt) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Mariana Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Vaitimbora](https://open.spotify.com/album/1XkGjUleNg3jPo1f4j0oFf) | 2:15 |
 | 7 | [PIRATE](https://open.spotify.com/track/7L6iM8mnj0t2WW0Fjre5pG) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [OMEGA](https://open.spotify.com/album/2WOuni1EwCyGVYIeN0LXXt) | 2:59 |

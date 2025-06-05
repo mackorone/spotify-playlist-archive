@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Yuksek
 
-[Spotify](https://open.spotify.com/user/spotify) - 449,839 likes - 75 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 449,804 likes - 75 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [All Night](https://open.spotify.com/track/4JmiovRPJomax0zPo8pKAM) | [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf), [M.I.L.K](https://open.spotify.com/artist/4cnVHpFiP8c9eHa0SUhjCB) | [All Night](https://open.spotify.com/album/1tt9FEGMULl1oKllYC7oM4) | 3:30 |
+| 1 | [All Night](https://open.spotify.com/track/4JmiovRPJomax0zPo8pKAM) | [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf), [M.I.L.K.](https://open.spotify.com/artist/2ekValwbXG7P55xYXwWOZx) | [All Night](https://open.spotify.com/album/1tt9FEGMULl1oKllYC7oM4) | 3:30 |
 | 2 | [Control](https://open.spotify.com/track/6khIJyIvuoJNFMoOgWuu5G) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Seint Monet](https://open.spotify.com/artist/36FUrbueTAg6yUYcJuAkAh) | [Control](https://open.spotify.com/album/0I1kGd5ir00A4OCr1JAthz) | 3:42 |
 | 3 | [take me home](https://open.spotify.com/track/52ih1rEvlGRPheDVzQooA5) | [MXGPU](https://open.spotify.com/artist/7LHpDayfzUPdd5DGAJIrko), [Moullinex](https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr), [GPU Panic](https://open.spotify.com/artist/1kClYC29n6M4YTALilSyY3) | [take me home](https://open.spotify.com/album/1xk1Ig6m5wYUsQpvh5QazQ) | 3:07 |
 | 4 | [Wonderful Life '25](https://open.spotify.com/track/3HiwSiBqwXHy20VUVv44We) | [Hurts](https://open.spotify.com/artist/3w4VAlllkAWI6m0AV0Gn6a), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Wonderful Life '25](https://open.spotify.com/album/1AF8ip6XRTWQkN1y5rQm2a) | 2:58 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [All The Love](https://open.spotify.com/track/3hAfmM8O1VgtFmSfbm5FSc) | [Everything Is Art](https://open.spotify.com/artist/4CNfRyL59In8QRz94NE63M), [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM) | [All The Love](https://open.spotify.com/album/0AfvonhHpPRUz6fpPy7RHu) | 3:36 |
 | 75 | [your love](https://open.spotify.com/track/1TMMQi589Us8RtorHffrO6) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl), [David Bay](https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo) | [your love](https://open.spotify.com/album/1bsPkjL5lhR3QeuaOWZDfs) | 3:27 |
 
-Snapshot ID: `aDmFoAAAAAC6T839xwPYzENDu8tOS+ad`
+Snapshot ID: `AAAAAMysSx3FKgTv9sIGvr9VvXuEhdUJ`

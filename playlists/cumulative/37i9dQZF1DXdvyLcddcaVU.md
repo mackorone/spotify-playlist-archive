@@ -4,7 +4,7 @@
 
 > Paris c'est magique, c'est trop ma ville, ça bouge de tous les côtés \#fyp
 
-763 songs - 1 day 16 hr 6 min
+764 songs - 1 day 16 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -450,6 +450,7 @@
 | [marcel.](https://open.spotify.com/track/5Gr7L38hFMwkMCwKTtvpis) | [Wallace Cleaver](https://open.spotify.com/artist/49qUD3ZuoOWEXwLgDwa3Eg) | [merci](https://open.spotify.com/album/011E6jHkQZ1A9MVHtYLy3b) | 7:24 | 2024-09-13 | 2024-11-09 |
 | [Maria Maria](https://open.spotify.com/track/3XKIUb7HzIF1Vu9usunMzc) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [The Product G&B](https://open.spotify.com/artist/782IpIScTpnDhYb9hyxOu1) | [Supernatural \(Remastered\)](https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq) | 4:21 | 2023-04-07 | 2023-11-11 |
 | [Matinal](https://open.spotify.com/track/2AtUoKcEFgk6mauArknq7B) | [Zé](https://open.spotify.com/artist/4HqcsYNS7yVElPHKULpbqu) | [Matinal](https://open.spotify.com/album/3wemkSz3GnMiNmjnY8ZtcS) | 4:27 | 2025-02-21 | 2025-04-05 |
+| [Matuidi Charo \(PSG\)](https://open.spotify.com/track/2CLe4twLMtjKwWzRYzGaIA) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV), [Rako](https://open.spotify.com/artist/57UNBGWy1iDPVEgSLrBxko), [Brigi](https://open.spotify.com/artist/3Nmgu8A2HfCYSZiAVbTVpc), [Trafiquinte](https://open.spotify.com/artist/5HdWyNYybG0xZOdJOShrd6), [Madrane](https://open.spotify.com/artist/7M2ZGRhAsmh4On0JlVEyCX) | [Charo Life](https://open.spotify.com/album/0nO1lieZiO2JTY4dqABRQB) | 4:22 | 2025-06-04 |  |
 | [Maudit](https://open.spotify.com/track/1pA6YWfmMgbKHk36LtlcUP) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Pyramide](https://open.spotify.com/album/2IO8Jize9ml8Gpj4HoJFaF) | 3:17 | 2024-03-01 | 2025-01-11 |
 | [Maux de tête](https://open.spotify.com/track/5KDvXUv9AB4COeMgOynaTe) | [Niro](https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q) | [Taulier \(La recave\)](https://open.spotify.com/album/4B7L8nTVSgyWXYQ3r1cuvR) | 3:45 | 2024-05-31 |  |
 | [MAYA](https://open.spotify.com/track/6cqJJDfbciv7LUVB384DHw) | [P.L.L](https://open.spotify.com/artist/13RiaFe3XEZ4jw8t6YRquf) | [MAYA](https://open.spotify.com/album/5H7hZGLsJhRUcGk2TGSZIb) | 2:14 | 2023-10-20 | 2024-08-31 |
@@ -604,7 +605,7 @@
 | [RESTE\-LÀ](https://open.spotify.com/track/6yg2N05MAebATBiYQytC6N) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc), [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [BDLM VOL.1](https://open.spotify.com/album/7bwHY8zkw9nqxxw1WIQ7Qa) | 4:02 | 2024-10-04 | 2025-02-22 |
 | [Reviens](https://open.spotify.com/track/1z7GbDQVPdRYFjShnxbT4x) | [NAIMA](https://open.spotify.com/artist/2g2MbXnceRu1A257H9GfFP) | [REVIENS](https://open.spotify.com/album/6xHDF3Qn0f3DUatjk8hIMC) | 4:08 | 2024-03-29 | 2024-04-20 |
 | [Ride](https://open.spotify.com/track/2CBymCr3yvqbxyZpLyZRbW) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Fleur froide](https://open.spotify.com/album/7xZ9nd2ZAoEUDVd0R96yEU) | 3:20 | 2024-05-07 | 2024-10-05 |
-| [Ride Or Die, Pt\. 2 \(with Villano Antillano & Tokischa\)](https://open.spotify.com/track/5oYVxFt2k4SkVp6wzVsFWN) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Ride Or Die, Pt\. 2](https://open.spotify.com/album/0KSwPzRWwU14SH8QUCwfM0) | 2:38 | 2025-03-28 |  |
+| [Ride Or Die, Pt\. 2 \(with Villano Antillano & Tokischa\)](https://open.spotify.com/track/5oYVxFt2k4SkVp6wzVsFWN) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Ride Or Die, Pt\. 2](https://open.spotify.com/album/0KSwPzRWwU14SH8QUCwfM0) | 2:38 | 2025-03-28 | 2025-06-05 |
 | [Ridin'](https://open.spotify.com/track/6CRTGadOztkonI7EDxYNeP) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Trône](https://open.spotify.com/album/2RO5bTmlRq3rlloElsZqVl) | 3:31 | 2024-11-15 |  |
 | [Rihanna](https://open.spotify.com/track/5DNNqYcigiHtQJoxDWAJ0Y) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [17%](https://open.spotify.com/album/0opPqJa8MofqpFXI7Eti8z) | 2:35 | 2025-04-25 |  |
 | [Rihanna](https://open.spotify.com/track/73RQVlMExXaeOi6mnlz3Bb) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [OCHO](https://open.spotify.com/album/50uhiL5gyoAvIBSsrjUP7i) | 2:41 | 2023-06-23 | 2024-03-16 |

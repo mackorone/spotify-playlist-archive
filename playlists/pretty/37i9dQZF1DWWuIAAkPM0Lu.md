@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Det er fredag! Ny musik fra Gobs, Miley Cyrus, Tate McRae og mange flere 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,542 likes - 104 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,544 likes - 104 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

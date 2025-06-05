@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa Sara Bee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,023 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,029 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Leffastara](https://open.spotify.com/track/7ceplN1E5dAupsN6Muxlfr) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [Leffastara](https://open.spotify.com/album/1MXiWQsS8FPDdVx4ih7DUk) | 2:38 |
-| 2 | [Aja tai kuole](https://open.spotify.com/track/7m7Mmlw9m1NJxcYbvdW2z7) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV), [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ) | [Aja tai kuole](https://open.spotify.com/album/5H5orhEdULcEb6yiV1yCxZ) | 3:15 |
-| 3 | [Luuleks \(feat\. Ares\)](https://open.spotify.com/track/1dhyYodxrbpVw1UGpIIe3q) | [Sara Bee](https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb), [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Luuleks \(feat\. Ares\)](https://open.spotify.com/album/5Nnn4fHocRguOixJkN2VEC) | 3:03 |
+| 1 | [Luuleks \(feat\. Ares\)](https://open.spotify.com/track/1dhyYodxrbpVw1UGpIIe3q) | [Sara Bee](https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb), [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Luuleks \(feat\. Ares\)](https://open.spotify.com/album/5Nnn4fHocRguOixJkN2VEC) | 3:03 |
+| 2 | [Leffastara](https://open.spotify.com/track/7ceplN1E5dAupsN6Muxlfr) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [Leffastara](https://open.spotify.com/album/1MXiWQsS8FPDdVx4ih7DUk) | 2:38 |
+| 3 | [Aja tai kuole](https://open.spotify.com/track/7m7Mmlw9m1NJxcYbvdW2z7) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV), [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ) | [Aja tai kuole](https://open.spotify.com/album/5H5orhEdULcEb6yiV1yCxZ) | 3:15 |
 | 4 | [Motion](https://open.spotify.com/track/3teVYJtKx0RynxcYr5Uwq5) | [Davy](https://open.spotify.com/artist/2RttK43esYFkU4hD5BU0AT), [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf) | [Motion](https://open.spotify.com/album/1TFdVr0nYuJCvP1bdyZzBT) | 2:53 |
 | 5 | [Onneks](https://open.spotify.com/track/6Pnv2q27FEAXKAPeuny5w5) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Onneks](https://open.spotify.com/album/47CR0XQ5zbMS7Rg8KIs87e) | 2:40 |
 | 6 | [Mä en osaa tanssii \(feat\. Karri Koira\)](https://open.spotify.com/track/7g1CmPDygUhWbEbFT56NGV) | [Gasellit](https://open.spotify.com/artist/1iVTfRuCrTJJ7QudNpQatF), [Karri Koira](https://open.spotify.com/artist/1sQJfOZnTxWUPFb2wjgba5) | [Mä en osaa tanssii \(feat\. Karri Koira\)](https://open.spotify.com/album/522uwsnZbLAr57UwMXoLaB) | 3:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 49 | [MO MONEY](https://open.spotify.com/track/23i0xkaMkfWJFZKtU8KDLu) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo) | [MO MONEY](https://open.spotify.com/album/30WEad7hUqdDBbl7A8ZEfB) | 1:53 |
 | 50 | [Minä ja mun peiba](https://open.spotify.com/track/7hMbt4gmzTde9JyriJKMCj) | [Röge](https://open.spotify.com/artist/7lqNZs4MdiiHmnO08Nlkp5) | [Minä ja mun peiba](https://open.spotify.com/album/5mL7XyIQruxs1Qb1zid0S0) | 2:32 |
 
-Snapshot ID: `aD3z0QAAAADN4d77tx7qa27XqXx7MRBV`
+Snapshot ID: `aEACTgAAAABiH5CHAS3ms+mduFuapsI5`

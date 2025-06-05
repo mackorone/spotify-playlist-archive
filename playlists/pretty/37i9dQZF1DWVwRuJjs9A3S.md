@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > All the highlights from the world of indie! Cover: girl in red
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,506 likes - 157 songs - 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,541 likes - 157 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

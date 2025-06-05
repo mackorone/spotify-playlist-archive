@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXBHEDDpqLs.md) - [plain]
 
 > the best cuts from the underground 💎 💎 at the heart of club culture
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,490 likes - 100 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,518 likes - 100 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Manía](https://open.spotify.com/track/79aIchpmJXJPDx9J68r3Hg) | [Pangaea](https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE), [Jazz Alonso](https://open.spotify.com/artist/2ghMQoYAKLMNHs896hl93k) | [Manía](https://open.spotify.com/album/6Q7DhlfnFSV2LM4J2hvHMy) | 2:51 |
+| 1 | [Manía](https://open.spotify.com/track/79aIchpmJXJPDx9J68r3Hg) | [Pangaea](https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE), [Jazz Alonso](https://open.spotify.com/artist/7eSY3eOVSH5SLYU0BV9sCY) | [Manía](https://open.spotify.com/album/6Q7DhlfnFSV2LM4J2hvHMy) | 2:51 |
 | 2 | [Esto](https://open.spotify.com/track/5kyIzi0Umx5JaPVYG0iUi6) | [Florentino](https://open.spotify.com/artist/1rhVQSyhxNOMN6RHi2sB44) | [Esto](https://open.spotify.com/album/30u37htVaC8vOAA3rLPqH8) | 5:36 |
 | 3 | [CTX](https://open.spotify.com/track/6JWlIiYcEgYGNF8oNaMpZP) | [Fonzo](https://open.spotify.com/artist/0LEJPVIfO00yDQiUI7d88h), [Roaming Data](https://open.spotify.com/artist/086siaYv8GRd8gvRPnLqIz) | [CTX](https://open.spotify.com/album/0s2SmN5DC2ryPgNvbPQbIr) | 5:20 |
 | 4 | [People Of Guidonia](https://open.spotify.com/track/2J601rdTUpBNHRfN77YwW9) | [Lorenzo\_BITW](https://open.spotify.com/artist/3Za28S9hIyeyGQmAk8d4FV), [BOVE](https://open.spotify.com/artist/32jhKmiFkHPmX4yzVKXIah), [Andrea Colicchia](https://open.spotify.com/artist/0S8KsRL2CK07lpobW38H9g), [Dark Carbonara](https://open.spotify.com/artist/6mpXVCtSOkFJabjkc5Dki7) | [People Of Guidonia](https://open.spotify.com/album/4brBUnQRXIf1kDXfRYCyzs) | 2:57 |

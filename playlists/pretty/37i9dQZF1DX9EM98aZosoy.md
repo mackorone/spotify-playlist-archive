@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9EM98aZosoy.md) - [plain]
 
 > Feiern mit den größten aktuellen und zeitlosen Partyhits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,995,323 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,995,220 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9EM98aZosoy.md) - [plain]
 | 99 | [Call It Love](https://open.spotify.com/track/5YdnOm5990Kfq1Jodws98B) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [Call It Love](https://open.spotify.com/album/5c3YGhnf058Op4YviM73wn) | 2:34 |
 | 100 | [NOW IT'S GONE](https://open.spotify.com/track/5v5yF1qIhHD1ptZoN8dxv7) | [IN PARALLEL](https://open.spotify.com/artist/6xaiGRpXAB9JdoSy3gzw4H) | [NOW IT'S GONE](https://open.spotify.com/album/3OgPt2ujG9tWWoltAU4lbo) | 2:23 |
 
-Snapshot ID: `aC9JFAAAAADGQvyPCgFE2afNrkBNOWrz`
+Snapshot ID: `aD/QkwAAAAD0z9S548EYMQbIJiwz/NFe`

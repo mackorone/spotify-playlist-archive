@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 
 > Damso au top de la première playlist de rap français.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,576,707 likes - 40 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,577,013 likes - 40 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 | 28 | [+34](https://open.spotify.com/track/2bt248qUbKJOGOg1XkOi5T) | [Mister You](https://open.spotify.com/artist/74YbW6s8CZdaYLxJU9HeS7), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [PLS](https://open.spotify.com/album/41ag38GRqYpuKuiGHAS2AN) | 4:29 |
 | 29 | [CARTIER SANTOS](https://open.spotify.com/track/1Mzg6bu3hkCwJKEf7v49MN) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [A LA VIE A LA MORT](https://open.spotify.com/album/22NwdsP47PnWsA58u3z7S9) | 3:03 |
 | 30 | [LA MELO EST DANS LA BOUNCE](https://open.spotify.com/track/6gwT3UA1hjbwT9Pfg0CMXK) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [LA MELO EST DANS LA BOUNCE](https://open.spotify.com/album/662O3guwgkETCs4FcQ9dCi) | 1:49 |
-| 31 | [I'M SORRY](https://open.spotify.com/track/2ynH9ETEo4OgLxNLJrcMKP) | [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [I'M SORRY](https://open.spotify.com/album/2h3yOY17ak9LUJs57SPdn6) | 2:32 |
+| 31 | [I'm Sorry](https://open.spotify.com/track/2ynH9ETEo4OgLxNLJrcMKP) | [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [I'M SORRY](https://open.spotify.com/album/2h3yOY17ak9LUJs57SPdn6) | 2:32 |
 | 32 | [Saturday](https://open.spotify.com/track/6cZn5XS7yHFQ2QUl2noKKw) | [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY) | [Saturday](https://open.spotify.com/album/5GN4mZzXqHUBFOgczhJjwM) | 2:30 |
 | 33 | [SENTIMENTS BILLETS DE 100](https://open.spotify.com/track/76cLUsBm9nexhPSSYo3vo4) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [SENTIMENTS BILLETS DE 100](https://open.spotify.com/album/4tasoVoVkD2w1jhJBHdIGW) | 2:08 |
 | 34 | [La Pluie](https://open.spotify.com/track/2PcRPX3wHqfNYCo7gmD4Zp) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [La Pluie](https://open.spotify.com/album/2OKLI9R3wAUhLghQ9u0FaZ) | 3:55 |

@@ -4,11 +4,12 @@
 
 > Dead dove, don&\#x27;t eat
 
-59 songs - 3 hr 36 min
+60 songs - 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [American Healthcare \(Glitzy\)](https://open.spotify.com/track/3GNTTTs9CVmr8RTrilIBOS) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Public Void](https://open.spotify.com/album/0G2RxSCixG5Nl6jpjwiw2g) | 4:29 | 2023-03-21 |  |
+| [American Idiot](https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot](https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke) | 2:56 | 2025-06-04 |  |
 | [American Remains](https://open.spotify.com/track/4REjaHRPmVb7btssqChJSy) | [The Highwaymen](https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Highwayman 2](https://open.spotify.com/album/7ftmg3XnQcA0bzbWolYzOn) | 4:07 | 2023-04-02 |  |
 | [Birthday Party](https://open.spotify.com/track/7hBRNyuEkGR4qj5nTDGTry) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [Neotheater](https://open.spotify.com/album/02tIakRsIFGW8sO4pBtJgj) | 3:43 | 2024-12-12 |  |
 | [Born2Run](https://open.spotify.com/track/66Dvkzi4HyhKRJsBoOzQVa) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Born2Run](https://open.spotify.com/album/0zdCLnsn9pHHgxEMNEFjR7) | 2:34 | 2024-01-17 |  |

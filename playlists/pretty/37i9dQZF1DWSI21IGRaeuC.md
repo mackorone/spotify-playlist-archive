@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > the deep & minimal side of house and techno ⛏️⛏️ <br/>with Chris Stussy
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,924 likes - 125 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,981 likes - 125 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Can't Decide](https://open.spotify.com/track/10pfamFYvg5ftwq6rGJrWx) | [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc), [Luke Dean](https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4), [Locky](https://open.spotify.com/artist/5ZwpRQ2GBK8tsd6x45Ngwa) | [Can't Decide](https://open.spotify.com/album/2VezYvaKWplhVgqRq1mEKD) | 2:55 |
-| 2 | [WOOP WOOP](https://open.spotify.com/track/1FFm13AYeb7253SEmjBjvP) | [Sidney Charles](https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH), [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [Let's Pardey EP](https://open.spotify.com/album/2t0mh1tAUXkpC1WOnkxhsi) | 2:50 |
-| 3 | [spontaneous combustion!](https://open.spotify.com/track/04wjT0XvCvQjNZtazFMnxX) | [Jay Crusoe](https://open.spotify.com/artist/4ToomtslAOZIEy4UgooZR7) | [spontaneous combustion!](https://open.spotify.com/album/2CWGA9IfKlCDq3YMub0d6B) | 5:42 |
-| 4 | [Reminder](https://open.spotify.com/track/5ci8bT0oHRdbcD2xt1Jor3) | [Blackchild \(ITA\)](https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb) | [Reminder](https://open.spotify.com/album/3hcTbCVZnXCQETeLCLxHGR) | 2:46 |
+| 2 | [Seen It All Before](https://open.spotify.com/track/13aCXkjg3tGFIHxqv8rYGQ) | [Obskür](https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx) | [Seen It All Before](https://open.spotify.com/album/4p3YuS9AMmwHspc1VW3jy2) | 3:28 |
+| 3 | [WOOP WOOP](https://open.spotify.com/track/1FFm13AYeb7253SEmjBjvP) | [Sidney Charles](https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH), [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [Let's Pardey EP](https://open.spotify.com/album/2t0mh1tAUXkpC1WOnkxhsi) | 2:50 |
+| 4 | [spontaneous combustion!](https://open.spotify.com/track/04wjT0XvCvQjNZtazFMnxX) | [Jay Crusoe](https://open.spotify.com/artist/4ToomtslAOZIEy4UgooZR7) | [spontaneous combustion!](https://open.spotify.com/album/2CWGA9IfKlCDq3YMub0d6B) | 5:42 |
 | 5 | [Painless Love](https://open.spotify.com/track/4jjKhNsWl7KVnLb89A1guj) | [SOSA](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Painless Love](https://open.spotify.com/album/19LnQs9DGwR4li0E4IQlXA) | 3:03 |
 | 6 | [Baile De Fantome](https://open.spotify.com/track/0q3HI1pBWomC3MiAEciBkF) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Baile De Fantome EP](https://open.spotify.com/album/2nRQyfyyHQL2E69yDNBuWx) | 4:00 |
 | 7 | [Beachfront Avenue \- Radio Edit](https://open.spotify.com/track/0rmmK4ZwBTzFoBc3Nzod05) | [DAETOR](https://open.spotify.com/artist/0PivHDlqdfJmNugJ2TLXlt) | [Beachfront Avenue EP](https://open.spotify.com/album/2duV8faGujoAbW9zEUDqRa) | 3:54 |
 | 8 | [Won't Stop \(Don't\)](https://open.spotify.com/track/43FiKNMmSDaI7V1U8i5CZI) | [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So) | [Won't Stop \(Don't\)](https://open.spotify.com/album/0wL4LsbLuwgFzqytJj97Lu) | 3:53 |
-| 9 | [Seen It All Before](https://open.spotify.com/track/13aCXkjg3tGFIHxqv8rYGQ) | [Obskür](https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx) | [Seen It All Before](https://open.spotify.com/album/4p3YuS9AMmwHspc1VW3jy2) | 3:28 |
+| 9 | [Reminder](https://open.spotify.com/track/5ci8bT0oHRdbcD2xt1Jor3) | [Blackchild \(ITA\)](https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb) | [Reminder](https://open.spotify.com/album/3hcTbCVZnXCQETeLCLxHGR) | 2:46 |
 | 10 | [Yosemite \- Philip George Remix](https://open.spotify.com/track/7Ix1YfRHAELxNIFqkzQdWl) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [Philip George](https://open.spotify.com/artist/0Q9slhIaEgg190iG8udYIV) | [Yosemite \(Philip George Remix\)](https://open.spotify.com/album/3ICO7iCL1VhEtbt4fSJ46Y) | 4:35 |
 | 11 | [Express](https://open.spotify.com/track/2SFrnZwIXBwpTpVyloEJu3) | [Prunk](https://open.spotify.com/artist/6FJfLfGO9X2AVNz0sFscrG), [RED 87](https://open.spotify.com/artist/61JBUUnDpulV5bmBOPM6o1) | [Express EP](https://open.spotify.com/album/71mFhf4Rq4QcKQvNuRFjo4) | 3:51 |
 | 12 | [Rock Ya Soul](https://open.spotify.com/track/3JgIW0wTM4OnYCdB681PwR) | [Riley \(UK\)](https://open.spotify.com/artist/41vJAAunDUYAg81pOkcWh3) | [Rock Ya Soul EP](https://open.spotify.com/album/5Ys7C0Wc4qLf1UUQqye6b0) | 6:27 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 124 | [GLORY](https://open.spotify.com/track/46Rcl7WOEmG46wTSU02w0X) | [ChaseWest](https://open.spotify.com/artist/4770WxUOyJMOJ1CHiZi2d6) | [GLORY](https://open.spotify.com/album/643cjCm4avt06CjUam9HGK) | 3:11 |
 | 125 | [Lay Back](https://open.spotify.com/track/2ZduBkSGzXxnGMaZAvOusA) | [AG Swifty](https://open.spotify.com/artist/5ryO0Jb1Lgr8knFXONHld2), [Brad Brunner](https://open.spotify.com/artist/3VuRBWq60RkNH59fbf60SL) | [Lay Back EP](https://open.spotify.com/album/1Lm2udPWgVbpmzojgzbKLB) | 3:54 |
 
-Snapshot ID: `aDm05gAAAABlvcviPHCBGqCuqjaZkJTm`
+Snapshot ID: `aEBV/wAAAADd9pgssxyBPU4pbKWp/hdR`

@@ -1,12 +1,12 @@
 {
   "description": "This is Chiquis. The essential tracks, all in one playlist.",
-  "num_followers": 5709,
+  "num_followers": 5710,
   "original_name": "This Is Chiquis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDzpgAAAAAA8Cr7CYECRm9P3QJBBQCW0",
+  "snapshot_id": "aD47AAAAAADwk9Ar3Uh5sbi1ECh/OMW4",
   "tracks": [
     {
       "added_at": null,
@@ -695,6 +695,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Amandote (Mariachi)",
+        "url": "https://open.spotify.com/album/59GDYVDwAI6UNTxEjEQrm6"
+      },
+      "artists": [
+        {
+          "name": "Lorenzo Mendez",
+          "url": "https://open.spotify.com/artist/4ZfUIdc5Zm3N4E05eRSGac"
+        },
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 181521,
+      "name": "Amandote - Mariachi",
+      "url": "https://open.spotify.com/track/4KgVncUSsThkvPBfMsXyXE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Got It From My Mama (Lo Tengo De Mi Mama)",
         "url": "https://open.spotify.com/album/6QXVVqTWjbGQA3RZsYoUDc"
       },
@@ -751,26 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amandote (Mariachi)",
-        "url": "https://open.spotify.com/album/59GDYVDwAI6UNTxEjEQrm6"
-      },
-      "artists": [
-        {
-          "name": "Lorenzo Mendez",
-          "url": "https://open.spotify.com/artist/4ZfUIdc5Zm3N4E05eRSGac"
-        },
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 181521,
-      "name": "Amandote - Mariachi",
-      "url": "https://open.spotify.com/track/4KgVncUSsThkvPBfMsXyXE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Homenaje a la Gran Se\u00f1ora",
         "url": "https://open.spotify.com/album/1c0G1Sx9WCmjEc2a49tFEr"
       },
@@ -791,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Playlist",
-        "url": "https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 218906,
-      "name": "Con La Misma Bala",
-      "url": "https://open.spotify.com/track/39bH2GZGYpB4j6wxtkwLy0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Regresar\u00e1s",
         "url": "https://open.spotify.com/album/2G0rUhLzTVlJrq07AlF2fB"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 170106,
       "name": "No Regresar\u00e1s",
       "url": "https://open.spotify.com/track/0VAAJceCGgRX2qRilcAXxe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Playlist",
+        "url": "https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 218906,
+      "name": "Con La Misma Bala",
+      "url": "https://open.spotify.com/track/39bH2GZGYpB4j6wxtkwLy0"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 
 > The latest tracks from Mad Decent and friends\. Featuring new music from Kito and DJ\_Dave, plus the latest cuts from inter alia, and Varg2TM &amp; DJ Smokey.
 
-[Mad Decent](https://open.spotify.com/user/maddecent) - 50,922 likes - 100 songs - 5 hr 28 min
+[Mad Decent](https://open.spotify.com/user/maddecent) - 50,918 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 | 82 | [When You Sleep](https://open.spotify.com/track/1hbciWy4syeBJeWubluRoX) | [Pastel Ghost](https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W) | [When You Sleep](https://open.spotify.com/album/1VPAKIvzR4qGR9fxnk0iHc) | 4:04 |
 | 83 | [Yiu](https://open.spotify.com/track/4zCa5z42tduunz4hMt8wWq) | [Batu](https://open.spotify.com/artist/4WmdmK9wvEhtRChA2ko9Sr), [Nick León](https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2) | [Yiu](https://open.spotify.com/album/1JZBmCiCFtZB6Fs3HxFMnx) | 4:09 |
 | 84 | [Skipping Class](https://open.spotify.com/track/4wHjrZYm9sW1PJuTElSBq4) | [Nettspend](https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA) | [BAD ASS F\*CKING KID](https://open.spotify.com/album/2j74DNrJ8TgnMEukERqnnm) | 2:13 |
-| 85 | [Pure Smile Snake Venom \- KFR Remix](https://open.spotify.com/track/3yQTatNrFFSYO9u9R0zlK4) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0), [KFR](https://open.spotify.com/artist/2wyfVm9NWgVasdW7iFbYOK) | [Pure Smile Snake Venom \(KFR Remix\)](https://open.spotify.com/album/7ET2kuAugNEuGgIXLdyrbW) | 4:17 |
+| 85 | [Pure Smile Snake Venom \- KFR Remix](https://open.spotify.com/track/3yQTatNrFFSYO9u9R0zlK4) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0), [KARL F RIVAS](https://open.spotify.com/artist/2wyfVm9NWgVasdW7iFbYOK) | [Pure Smile Snake Venom \(KFR Remix\)](https://open.spotify.com/album/7ET2kuAugNEuGgIXLdyrbW) | 4:17 |
 | 86 | [contacto visual](https://open.spotify.com/track/6ZzJriqAFRjOg7VFqGTWkI) | [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir) | [Heráldica +](https://open.spotify.com/album/5uC2ijosFc8oET650PF88C) | 1:56 |
 | 87 | [kiss up](https://open.spotify.com/track/2fzjwZP7S23XQEu53Mw7KZ) | [damon r.](https://open.spotify.com/artist/3LE39lgBs68N41XjxH5cLD) | [kiss up](https://open.spotify.com/album/0mZV4F0FkOUaE7QneZPLEB) | 2:56 |
 | 88 | [Champ](https://open.spotify.com/track/1IpVsKpbAo3jqPlxj1GUtz) | [girlpuppy](https://open.spotify.com/artist/2dV0D4uKMB4c8VhYHzt360) | [Champ](https://open.spotify.com/album/6xXDeJXNDUSWzNTNNXqp61) | 2:58 |

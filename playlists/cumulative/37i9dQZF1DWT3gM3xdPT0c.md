@@ -4,7 +4,7 @@
 
 > Warm instrumental guitar for a gentle start.
 
-428 songs - 18 hr 24 min
+429 songs - 18 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,6 +329,7 @@
 | [Skyward Bound](https://open.spotify.com/track/454UgG5EuBzUCUFWG3xUZ1) | [Victor Lundberg](https://open.spotify.com/artist/3aPt0ITiKD1r1GXV3RvOUh) | [Skyward Bound](https://open.spotify.com/album/1RjGs3V6LFFcKkmrzDrGds) | 3:27 | 2023-08-09 | 2024-04-20 |
 | [Sleeping In](https://open.spotify.com/track/5VLRRFirz43glb8VaLi0u5) | [Damien Adams](https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg) | [Sleeping In](https://open.spotify.com/album/74gHriyoqihLtwbA9LdyTG) | 3:00 | 2023-03-10 | 2025-05-29 |
 | [Sleeping Petals](https://open.spotify.com/track/1ySgmcM7rIXu5QbVr17F61) | [Zinning](https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S) | [Sleeping Petals](https://open.spotify.com/album/5vIEQ4I8N1Nowe6s25HWL4) | 2:21 | 2024-05-24 |  |
+| [Slowed by Time](https://open.spotify.com/track/4jdOVJzC2JYKMwfgat1Rdh) | [Logan Connors](https://open.spotify.com/artist/5isnVGl3x963Fl8DCH1zsk) | [Slowed by Time](https://open.spotify.com/album/3sNV8v8XF2A15Ai4lFzBfX) | 2:18 | 2025-06-04 |  |
 | [Something Special](https://open.spotify.com/track/48KSYU3Ek5PBtRKNgcGoLS) | [Leo Krepper](https://open.spotify.com/artist/67l42DKf27egbfdp0XLpY0) | [Something Special](https://open.spotify.com/album/45ClUpyAnFBixVMmY9hcUm) | 2:48 | 2022-03-04 | 2022-05-27 |
 | [Sommersby](https://open.spotify.com/track/01n9zpPrEWCKsH6o27WwWR) | [Joseph Cline](https://open.spotify.com/artist/4I9DN3aBJSdzI26IuzVl0h) | [Sommersby](https://open.spotify.com/album/5q7aaYPfvt8uOpaLJudHjH) | 1:48 | 2023-04-21 | 2023-08-26 |
 | [Songs of the Giants](https://open.spotify.com/track/5bs6sJukJu0UiFsyzVfH4K) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Songs of the Giants](https://open.spotify.com/album/2HNBzLQD5Vf4bczp7ewJr5) | 2:00 | 2024-02-02 | 2025-05-29 |

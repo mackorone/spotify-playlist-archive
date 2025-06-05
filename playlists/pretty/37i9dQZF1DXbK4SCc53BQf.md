@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbK4SCc53BQf.md) - [plain]
 
 > ¡Aqui están todas las esenciales Tropicales de adoración!
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,077 likes - 65 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,100 likes - 65 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbK4SCc53BQf.md) - [plain]
 | 64 | [Nueva vida](https://open.spotify.com/track/7cE2dtrfKER31utLWdKDHE) | [Pablo Cifuentes](https://open.spotify.com/artist/0e3gPGSlQZEcsaohevhUMt) | [Nueva vida](https://open.spotify.com/album/0HESFuQ7m8CrUmLh2QqMRq) | 3:34 |
 | 65 | [La Puerta Jubilar](https://open.spotify.com/track/0XEv5UiFeT2HGv1sJ5RJuE) | [Marcela Gael](https://open.spotify.com/artist/3TifTnauGsDPu1cPGER7hv) | [La Puerta Jubilar](https://open.spotify.com/album/7fEHti6To6lppufr6Y5P71) | 3:24 |
 
-Snapshot ID: `AAAAAJtsUZ4dbHJK05otJPWM4DaXsWtD`
+Snapshot ID: `aDAR9AAAAACVFXrIBBu+HKFBAzgEny0O`

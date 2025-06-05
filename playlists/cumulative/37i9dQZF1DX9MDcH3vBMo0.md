@@ -4,7 +4,7 @@
 
 > Una bella banda sonora que acompañará tu tiempo de lectura.
 
-819 songs - 1 day 11 hr 35 min
+821 songs - 1 day 11 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Avignon](https://open.spotify.com/track/5TAVI2qJFJMSsfR3qB5Bub) | [Signe Bratlie](https://open.spotify.com/artist/61VEtQG9UwPF5V01eRmZWi) | [Avignon](https://open.spotify.com/album/6y7OWImxz4xSyspxzKsLvl) | 2:43 | 2023-09-11 |  |
 | [Aún Te Veo](https://open.spotify.com/track/3fB2azt4qGQTs2KbSsEmjH) | [Sami Kaur](https://open.spotify.com/artist/5xiFtN2r8Rc3jJ6pkrm7W8) | [Aún Te Veo](https://open.spotify.com/album/5ZG2B564RbdcYWLEjheU77) | 2:30 | 2024-07-29 |  |
 | [Ática](https://open.spotify.com/track/07g8nWc95mnGgPfRlRq075) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Ática](https://open.spotify.com/album/2UEDt340ibuHflO6Hd2ZEs) | 2:29 | 2022-04-21 | 2023-10-03 |
+| [Back Together](https://open.spotify.com/track/6t4dYNa9xTzWYHpFZmfC7U) | [Samuel Kees](https://open.spotify.com/artist/6KGVoP7dCFZ2FILUCCj4rn) | [Back Together](https://open.spotify.com/album/7aHIJMNdGIzqyNVowCJH52) | 2:48 | 2025-06-04 |  |
 | [Balett](https://open.spotify.com/track/5akA0ZrfTGKwyjtHc4fr0p) | [Charles Weathersby](https://open.spotify.com/artist/3PTjnqoKl6QVBWt7bSrhMz) | [Papillon](https://open.spotify.com/album/4efBGcJ0YfvTrZvvKFEJj6) | 4:38 | 2022-04-21 | 2022-07-20 |
 | [Ballerina Light](https://open.spotify.com/track/5Eq3qZckwqaLZq2yEsUAvU) | [Ingemar Aberg](https://open.spotify.com/artist/7qA4SXXE0nQFNPN2qLmT4H) | [Ballerina Light](https://open.spotify.com/album/1E1NYgXEpG8vZWzJl7Y3Mh) | 2:41 | 2022-04-21 | 2022-09-24 |
 | [Beauty Of You](https://open.spotify.com/track/6zkZvCIEpgUUgCz7qSK3Nc) | [Monir Bresegeut](https://open.spotify.com/artist/3Z6Wqjodzje8ZoJJgV71lj) | [Beauty Of You](https://open.spotify.com/album/0Od2qq1KiShZ1Px1Rkka3x) | 2:16 | 2022-04-21 | 2023-05-04 |
@@ -230,6 +231,7 @@
 | [Forgotten Wonders](https://open.spotify.com/track/6Kex7iddmKt0i9pWiNns2i) | [Dreams on Ivories](https://open.spotify.com/artist/7HE4ZAv2dzUX80AKnCOnqV) | [Forgotten Wonders](https://open.spotify.com/album/7ffHf6mFT5zKOGDZuZhYWy) | 2:17 | 2022-04-21 | 2022-07-21 |
 | [Fóra](https://open.spotify.com/track/6ZpsiNnK2yPcigPrtScGHG) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Fóra](https://open.spotify.com/album/5fsRgzEKg3LSht3LtDXJWI) | 2:14 | 2022-04-21 | 2024-04-04 |
 | [Fractions](https://open.spotify.com/track/4zHsgYHkouqqPwlGcgsOVo) | [Tim Firth](https://open.spotify.com/artist/5FMPCZsQPH2NtCGxYXAF2K) | [Fractions](https://open.spotify.com/album/1ZlQ3IKKLFUt7firrpyCD4) | 2:17 | 2024-07-15 |  |
+| [Fragments](https://open.spotify.com/track/3908RXyBz01sSe4SDY9SHw) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Fragments](https://open.spotify.com/album/5m2blnRxFotgjHSeMl1kZl) | 2:00 | 2025-06-04 |  |
 | [Fragrance](https://open.spotify.com/track/6hDznBNAnNaItEKfaJ2z6o) | [Silje Mørk](https://open.spotify.com/artist/3Th7uQxL5iOFrWHZ4GZIzP) | [Fragrance](https://open.spotify.com/album/4P2XA9I1j6EZn8JtaWBGDZ) | 3:18 | 2022-07-20 | 2023-01-21 |
 | [Franklin](https://open.spotify.com/track/1CCaaRbixRWqqHYI6HMlqg) | [Chris Donner](https://open.spotify.com/artist/4xwCgzlPsRwNfHdvlLwCsH) | [Franklin](https://open.spotify.com/album/2eYoxrrloroc4M3lXXs4Sf) | 3:29 | 2022-04-21 | 2024-04-04 |
 | [Fratelli](https://open.spotify.com/track/0ptKkh5g9jnbLnNQjbpBTs) | [Pontus De Bjorn](https://open.spotify.com/artist/0CqDF46d81NfjoRM74rPtl) | [Fratelli](https://open.spotify.com/album/24K76zbkZFeNYrF4rdMUmr) | 2:07 | 2022-04-21 | 2024-04-10 |
@@ -601,7 +603,7 @@
 | [Sentimental Value](https://open.spotify.com/track/42WMpnohvYYVqQkQ3qY57N) | [Casimir Roux](https://open.spotify.com/artist/1IOFwDA1p2w7uEVaKXvHXW) | [Sentimental Value](https://open.spotify.com/album/2KVSgcrMjxVnTBh0FvgUtQ) | 2:09 | 2024-02-27 |  |
 | [Sentinel](https://open.spotify.com/track/6eF8X3wXM9mrwmLPprYEe6) | [Geir Gudmundson](https://open.spotify.com/artist/6Y1fkM0GSMtbOYT8iNjup5) | [Sentinel](https://open.spotify.com/album/30YAFhyQWYw9KnQTD4jABf) | 4:16 | 2022-04-21 | 2024-03-19 |
 | [Seraphic Solace](https://open.spotify.com/track/0byE9qeBvok8PDkX4ZqVwi) | [Panner Garlix](https://open.spotify.com/artist/64ixo2TVhbwcDgM7n4koOR) | [Seraphic Solace](https://open.spotify.com/album/3Rw7NhofrNdF3GFARJ4BkE) | 2:33 | 2024-05-29 |  |
-| [Serein](https://open.spotify.com/track/3z9zZq1x3r6nKf8vwA4XgM) | [Friedrich Hahn](https://open.spotify.com/artist/6RTZD5u0Respn5hQRVBB1C) | [Serein](https://open.spotify.com/album/5rCN5uOrI39NIQZP5CeHNJ) | 2:26 | 2025-05-21 |  |
+| [Serein](https://open.spotify.com/track/3z9zZq1x3r6nKf8vwA4XgM) | [Friedrich Hahn](https://open.spotify.com/artist/6RTZD5u0Respn5hQRVBB1C) | [Serein](https://open.spotify.com/album/5rCN5uOrI39NIQZP5CeHNJ) | 2:26 | 2025-05-21 | 2025-06-05 |
 | [Serenade](https://open.spotify.com/track/0xczKUSyVIfX9rekmTBkbv) | [Ivan Blois](https://open.spotify.com/artist/4dH20BbKaKVPBfwfmvUfZp) | [Serenade](https://open.spotify.com/album/5deoUv9fEIqoxOy1sM3z9M) | 2:25 | 2022-04-21 | 2024-10-23 |
 | [Serene](https://open.spotify.com/track/3dwdsOZ2lvnEfsIwK9hyBX) | [Isobel Watkins](https://open.spotify.com/artist/7q33Rk7eAyVKYNQ8e1yNeq) | [Serene](https://open.spotify.com/album/2RPnCQxP5HRG8u0Avw9b6S) | 2:59 | 2022-04-21 | 2024-10-23 |
 | [Serenity](https://open.spotify.com/track/2yh46DDBBxoDN45rCH8nBt) | [Valérie Beaumont](https://open.spotify.com/artist/1MB6Pvf8JF8zGKtI1LSVjD) | [Retrospection](https://open.spotify.com/album/2TTPCvN55NHOr95q89qmpa) | 2:55 | 2022-04-21 | 2024-03-19 |

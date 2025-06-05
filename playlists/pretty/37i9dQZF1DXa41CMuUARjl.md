@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 
 > This week's handpicked new <a href="spotify:genre:edm\_dance">dance and electronic music</a>, featuring new music from Keinemusik
 
-[Spotify](https://open.spotify.com/user/spotify) - 530,471 likes - 125 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 530,624 likes - 125 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,7 +116,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 | 106 | [Arcade Heartbeat \- Edit](https://open.spotify.com/track/34QpIHKEtFz4vrc0oR41jd) | [Masalo](https://open.spotify.com/artist/6kFJNl3ISQSkOq2iS0Lk53) | [Arcade Heartbeat](https://open.spotify.com/album/0h0j9V3YFEo5el9vDa4Gpf) | 3:35 |
 | 107 | [All My Life](https://open.spotify.com/track/2pTii4tBijcsczNsmeBcSY) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [All My Life](https://open.spotify.com/album/0dHxrUuzYnUMgkulehzveD) | 2:07 |
 | 108 | [Give Me Some Space](https://open.spotify.com/track/3Kh80jj6DQoKidbr6GVFBc) | [Fox Stevenson](https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy) | [Give Me Some Space](https://open.spotify.com/album/3lU7GATykxCanbsUcvhNwV) | 4:17 |
-| 109 | [All Night](https://open.spotify.com/track/4JmiovRPJomax0zPo8pKAM) | [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf), [M.I.L.K](https://open.spotify.com/artist/4cnVHpFiP8c9eHa0SUhjCB) | [All Night](https://open.spotify.com/album/1tt9FEGMULl1oKllYC7oM4) | 3:30 |
+| 109 | [All Night](https://open.spotify.com/track/4JmiovRPJomax0zPo8pKAM) | [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf), [M.I.L.K.](https://open.spotify.com/artist/2ekValwbXG7P55xYXwWOZx) | [All Night](https://open.spotify.com/album/1tt9FEGMULl1oKllYC7oM4) | 3:30 |
 | 110 | [Freak in me](https://open.spotify.com/track/75RHUYE1QnWFOKGRjK0Uxu) | [FOVOS](https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8), [Loosie Grind](https://open.spotify.com/artist/3qOZFyhCatzdumox0KQotv) | [Freak in me](https://open.spotify.com/album/6SaCMljd4oQ2KRnLtHKLRC) | 2:37 |
 | 111 | [I Never Party in Paris](https://open.spotify.com/track/0ny3pe9qHMQtHmTKvsUBFW) | [LB aka LABAT](https://open.spotify.com/artist/02fHczhlgEBCCjzjsNvJAh) | [I Never Party in Paris](https://open.spotify.com/album/6U9gqfcK6jk2FU6EzdgRHJ) | 3:18 |
 | 112 | [Overseas](https://open.spotify.com/track/1qZNtUhzKRdh7DsqvkCuzd) | [GiGi FM](https://open.spotify.com/artist/2I64l1qh83iqkQ3cLRGcPi) | [Overseas](https://open.spotify.com/album/3xXcXR0OwtjR87LFQe7MXr) | 6:45 |

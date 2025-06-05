@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Umko6nOmN7.md) - [plain]
 
 > Favoritlåtar för lugna och sköna stunder.
 
-[Spotify](https://open.spotify.com/user/spotify) - 620,033 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 620,012 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 
 > pop punk, alt, emo, post\-hardcore & more\. Cover: Mayday Parade
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,776 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,762 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 | 73 | [THE OUTSIDE \- OUTSIDERS VERSION](https://open.spotify.com/track/4iGlMhSSuRHUlNAknDjvT8) | [BOYS LIKE GIRLS](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI), [3OH!3](https://open.spotify.com/artist/0FWzNDaEu9jdgcYTbcOa4F), [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr), [The Summer Set](https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w), [The Ready Set](https://open.spotify.com/artist/2eRJjYEaWyGZbOBGYFLBoC) | [THE OUTSIDE \(OUTSIDERS VERSION\)](https://open.spotify.com/album/14kvTa7vi9xBLZqg6lc1Km) | 4:04 |
 | 74 | [nosebleeds](https://open.spotify.com/track/0SMRtXWXIn7Xxr2FyNpyOt) | [senses](https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB) | [i’m still breathing](https://open.spotify.com/album/2AyoTkItCVeDOWklLgo2KI) | 3:02 |
 | 75 | [Swing and Sway](https://open.spotify.com/track/3t4Wpwg36E2VoBUiGKK6Fx) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [Swing and Sway](https://open.spotify.com/album/4C5OhWOC4gGSqVYilg8udW) | 2:58 |
-| 76 | [State of Disrepair](https://open.spotify.com/track/13iYqg2UKxw8AGa1KDdOgT) | [Scary Kids Scaring Kids](https://open.spotify.com/artist/3cdos5vq3wSUR8mEvMiqq9) | [State of Disrepair](https://open.spotify.com/album/4N9uly3Yv9OGClyq6dXbQw) | 3:19 |
+| 76 | [State of Disrepair](https://open.spotify.com/track/13iYqg2UKxw8AGa1KDdOgT) | [Scary Kids Scaring Kids](https://open.spotify.com/artist/3cdos5vq3wSUR8mEvMiqq9), [Paul Rose](https://open.spotify.com/artist/7JzO159pfcNEML7ySqO7nD) | [State of Disrepair](https://open.spotify.com/album/4N9uly3Yv9OGClyq6dXbQw) | 3:19 |
 | 77 | [Goodbye For Now \(feat\. Julien Baker\)](https://open.spotify.com/track/0lPwT1JHuNFeXtIV6i6Eg2) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Spiral In A Straight Line](https://open.spotify.com/album/0P5CZ4l155R1udzsELjXSC) | 4:20 |
 | 78 | [Hotel Lights](https://open.spotify.com/track/5kROR2oGzCpvI49c9fOS6K) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Hotel Lights](https://open.spotify.com/album/1xpHz8TOVagUG0KZzqTxX3) | 2:59 |
 | 79 | [Giving Up](https://open.spotify.com/track/5XYoKiujAKGiHwnU2G0P7C) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Toxic Positivity](https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis) | 3:10 |

@@ -1,12 +1,12 @@
 {
   "description": "This is GloRilla. The essential tracks, all in one playlist.",
-  "num_followers": 38191,
+  "num_followers": 38230,
   "original_name": "This Is GloRilla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDzpgAAAAAB3B0ugWdaI8CKjh44evrHu",
+  "snapshot_id": "aD47AAAAAAB52S17VtLxtmSGLCLh3e8V",
   "tracks": [
     {
       "added_at": null,
@@ -295,6 +295,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Can You Please",
+        "url": "https://open.spotify.com/album/0AuybXvfoqzt1NPpCKiiuI"
+      },
+      "artists": [
+        {
+          "name": "GELO",
+          "url": "https://open.spotify.com/artist/5FZN8ElUU5zENi2IK7gMnu"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 154505,
+      "name": "Can You Please (feat. GloRilla)",
+      "url": "https://open.spotify.com/track/1T86xlq1vFvWWUq1Wl2EiH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Never Need (feat. GloRilla & KARRAHBOOO)",
         "url": "https://open.spotify.com/album/00rWgbD4zkoJ9i9TOMcBAr"
       },
@@ -315,26 +335,6 @@
       "duration_ms": 179795,
       "name": "Never Need (feat. GloRilla & KARRAHBOOO)",
       "url": "https://open.spotify.com/track/2G2uOM1Jex8jtjt4Skqr2c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Can You Please",
-        "url": "https://open.spotify.com/album/0AuybXvfoqzt1NPpCKiiuI"
-      },
-      "artists": [
-        {
-          "name": "GELO",
-          "url": "https://open.spotify.com/artist/5FZN8ElUU5zENi2IK7gMnu"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 154505,
-      "name": "Can You Please (feat. GloRilla)",
-      "url": "https://open.spotify.com/track/1T86xlq1vFvWWUq1Wl2EiH"
     },
     {
       "added_at": null,
@@ -519,26 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drifting Away",
-        "url": "https://open.spotify.com/album/2JkHowxSCOloyq23lbE0Y2"
-      },
-      "artists": [
-        {
-          "name": "OMB Peezy",
-          "url": "https://open.spotify.com/artist/1QdCkPulANBEZiaiAyLkak"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 213608,
-      "name": "Lay Down - Remix",
-      "url": "https://open.spotify.com/track/0X6cTSh5f6uB8Us5jfWkZW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HOOD POET",
         "url": "https://open.spotify.com/album/4Pl5cYTxBkbhMXxFZxuZLW"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 156303,
       "name": "Bad Kids (feat. GloRilla)",
       "url": "https://open.spotify.com/track/0ZiBuLalszaqnmfQ7XrfZn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Drifting Away",
+        "url": "https://open.spotify.com/album/2JkHowxSCOloyq23lbE0Y2"
+      },
+      "artists": [
+        {
+          "name": "OMB Peezy",
+          "url": "https://open.spotify.com/artist/1QdCkPulANBEZiaiAyLkak"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 213608,
+      "name": "Lay Down - Remix",
+      "url": "https://open.spotify.com/track/0X6cTSh5f6uB8Us5jfWkZW"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Ximena Sari\u00f1ana. The essential tracks, all in one playlist.",
-  "num_followers": 63696,
+  "num_followers": 63701,
   "original_name": "This Is Ximena Sari\u00f1ana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDzpgAAAAACGrzPvCZR6lML9aAqxEGrT",
+  "snapshot_id": "aD47AAAAAAAoIKVIRX0L30pDSMBu1lKp",
   "tracks": [
     {
       "added_at": null,
@@ -259,30 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Leaveyourlove (with Ximena Sari\u00f1ana, Rawayana)",
-        "url": "https://open.spotify.com/album/5c2muZTm3fV2s1Jp5YVsVF"
-      },
-      "artists": [
-        {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        },
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        }
-      ],
-      "duration_ms": 182948,
-      "name": "Leaveyourlove (with Ximena Sari\u00f1ana, Rawayana)",
-      "url": "https://open.spotify.com/track/3FBz0UdwVbWHsO0jiG200B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "R\u00edo Salvaje",
         "url": "https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI"
       },
@@ -303,6 +279,30 @@
       "duration_ms": 319026,
       "name": "TQM",
       "url": "https://open.spotify.com/track/3ugSNE8PdPr2sfRWSNfCtX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Leaveyourlove (with Ximena Sari\u00f1ana, Rawayana)",
+        "url": "https://open.spotify.com/album/5c2muZTm3fV2s1Jp5YVsVF"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        },
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "duration_ms": 182948,
+      "name": "Leaveyourlove (with Ximena Sari\u00f1ana, Rawayana)",
+      "url": "https://open.spotify.com/track/3FBz0UdwVbWHsO0jiG200B"
     },
     {
       "added_at": null,
@@ -531,26 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Malcriado",
-        "url": "https://open.spotify.com/album/7cqCTMBfcNv0JBVIMBHwu3"
-      },
-      "artists": [
-        {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 195075,
-      "name": "Fetiche",
-      "url": "https://open.spotify.com/track/0x1QQhfXdWPv8GizKQuEgm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ECOS",
         "url": "https://open.spotify.com/album/49Qd6nYCgc2ra4E3TJHEty"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 190500,
       "name": "Contracorriente",
       "url": "https://open.spotify.com/track/1CPHQNAp1sZddA0Wr0Ty6e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Malcriado",
+        "url": "https://open.spotify.com/album/7cqCTMBfcNv0JBVIMBHwu3"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 195075,
+      "name": "Fetiche",
+      "url": "https://open.spotify.com/track/0x1QQhfXdWPv8GizKQuEgm"
     },
     {
       "added_at": null,

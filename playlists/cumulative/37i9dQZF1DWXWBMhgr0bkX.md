@@ -4,7 +4,7 @@
 
 > Brand new from homegrown talent ft\. Shura
 
-493 songs - 1 day 1 hr 15 min
+496 songs - 1 day 1 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Bittersweet](https://open.spotify.com/track/7fhJE5Ho4MAt38aqRQiDlj) | [Mariella](https://open.spotify.com/artist/1TRFZkvpFayTy7cveLinG6) | [Bittersweet](https://open.spotify.com/album/2CpO7mfSFWxw1CxoQRoDSF) | 4:01 | 2025-04-03 | 2025-04-25 |
 | [blonde](https://open.spotify.com/track/2yRUkIXdgVvyXmd2oInA1n) | [Lily Knott](https://open.spotify.com/artist/5aMFV1cLrvinPeoITxMFhW) | [blonde](https://open.spotify.com/album/3avpX068ebxCGzHCPUuTFk) | 2:52 | 2025-05-29 |  |
 | [Bloom](https://open.spotify.com/track/38AqcVgPDXEb0PtBltxCin) | [aimei 媚](https://open.spotify.com/artist/2ij6gLxPV2uEuRxDwnyBfZ) | [Bloom](https://open.spotify.com/album/17LhwJlAlvNZqufsVPGUQi) | 3:35 | 2024-10-24 | 2025-01-31 |
+| [Blue Lagoon](https://open.spotify.com/track/3t5nTLIDZqxsNi1wAeLvFy) | [PAWWS](https://open.spotify.com/artist/7oTof0LWYf6S0mGq8K02CT) | [Blue Lagoon](https://open.spotify.com/album/7FiwcveyjTrUFk4chU2aFf) | 2:57 | 2025-06-04 |  |
 | [borderline](https://open.spotify.com/track/3cfG7BZUKJuHjXZTpfsjNK) | [Max Pope](https://open.spotify.com/artist/1pW42WHCsBicnNoBkcbD7i) | [borderline](https://open.spotify.com/album/0G2chJn3DFh0FSjdDG9iyT) | 3:25 | 2025-03-28 | 2025-04-18 |
 | [Boy Clothes](https://open.spotify.com/track/7nuCxvFvVT5YEAjSDd6Glr) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [Boy Clothes](https://open.spotify.com/album/6WGqWtYCHsA1St6RupTo4F) | 2:14 | 2025-02-07 | 2025-03-14 |
 | [Boyfriend](https://open.spotify.com/track/7r7RrAfvDiPYXm844DOSYT) | [Dirt Flirt](https://open.spotify.com/artist/3T4wXV4IkOAtdBXIJ2TpLE) | [Boyfriend](https://open.spotify.com/album/55HcEdFWzWzsWkhOH5fU8B) | 3:00 | 2025-03-21 | 2025-04-11 |
@@ -162,6 +163,7 @@
 | [Face Lift](https://open.spotify.com/track/65pdFk8bX2xQajYqma3k7E) | [spyduh](https://open.spotify.com/artist/1EoGxLHT0lZhONgf7McB38) | [Face Lift](https://open.spotify.com/album/5UWddwFbFhdrvBKqg6gCpq) | 3:37 | 2025-04-03 | 2025-04-25 |
 | [Fail](https://open.spotify.com/track/3wb0OtpuyUjZBOxa8HdxhL) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [Fail](https://open.spotify.com/album/6EPz1cdBFPdjoXKdczgdbY) | 2:36 | 2024-08-08 | 2024-10-18 |
 | [Falling in Love](https://open.spotify.com/track/1IGYPkwJnGc9hd4b7uU4zn) | [R.A.E](https://open.spotify.com/artist/1z3xC9ml81L5vugg78Eegq) | [Falling in Love](https://open.spotify.com/album/5TLf0bK9aCh7sEtadKMabz) | 2:51 | 2025-02-28 | 2025-03-21 |
+| [Fallinoutoflove](https://open.spotify.com/track/7j3IY8pacb71agFoOR71et) | [Jelly](https://open.spotify.com/artist/7zPnnhWEDgPkdQseDonPII) | [Fallinoutoflove](https://open.spotify.com/album/4Nlsnk1BHOmS5I7vde272J) | 3:24 | 2025-06-04 |  |
 | [fancy](https://open.spotify.com/track/7J5GcAbZ2rsWk2BzZDVog1) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [fancy / xvideos](https://open.spotify.com/album/073p1oabjQBPOYrAMWOrge) | 2:05 | 2024-12-20 | 2025-02-14 |
 | [Fantasia](https://open.spotify.com/track/5cPKOERv76tk5jpIyBxGW5) | [Michael Aldag](https://open.spotify.com/artist/2e1NO2tyaMZajNoWe71ZiJ) | [Fantasia](https://open.spotify.com/album/1l6X9iGw2UNNqIOHm2KjGi) | 2:26 | 2025-01-31 | 2025-02-21 |
 | [Fantasy](https://open.spotify.com/track/6dpPD92UT5ETTb56EI57yI) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Fantasy](https://open.spotify.com/album/4TLjECteKor6f1j5zpVYYc) | 3:36 | 2024-10-17 | 2025-01-17 |
@@ -247,6 +249,7 @@
 | [idk](https://open.spotify.com/track/2z42a7FZP30eYtu3DZ3us9) | [Maisi](https://open.spotify.com/artist/7aldgASM0QRSQNHTdfBV7W) | [idk](https://open.spotify.com/album/4GdUAcy6VWKYKIEnXkHfT3) | 2:34 | 2025-02-21 | 2025-03-14 |
 | [IDOL](https://open.spotify.com/track/0mnq2lTY2XvbZB8ioo7kCS) | [Ruby Duff](https://open.spotify.com/artist/7arrmC5cRDHLESNxZmUax1) | [IDOL](https://open.spotify.com/album/1u600odm5reUOVxzAV8zOH) | 2:53 | 2024-09-19 | 2024-11-22 |
 | [If I Die Tomorrow](https://open.spotify.com/track/0ybFLlfjdXg0ZYGceAJEwJ) | [Chloe Adams](https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u) | [If I Die Tomorrow](https://open.spotify.com/album/1gi1gEiZJKXErFBTJ87kqY) | 2:58 | 2025-01-10 | 2025-02-14 |
+| [if i had a wish...](https://open.spotify.com/track/7lAO5AorXpnM8dsAfSpPxS) | [Sloane Monroe](https://open.spotify.com/artist/01MmyFSkT8ZGwfp3gocPRQ) | [if i had a wish...](https://open.spotify.com/album/4nbZtHkosaIkBPORU7f2vw) | 2:47 | 2025-06-04 |  |
 | [If U Leave Me](https://open.spotify.com/track/0bHmHNgoovJqwIeEQDQHr0) | [Leonie Biney](https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq) | [If U Leave Me](https://open.spotify.com/album/64cNAPlLpI5W4YWv3J2aKh) | 2:27 | 2024-11-22 | 2025-02-07 |
 | [IKYK](https://open.spotify.com/track/1Dex4T6UbptuDqqdmMT7xw) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [for your validation](https://open.spotify.com/album/1urRiweW0usayaxE3ueVmd) | 2:46 | 2025-01-17 | 2025-02-28 |
 | [Illegal](https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:29 | 2025-05-08 |  |

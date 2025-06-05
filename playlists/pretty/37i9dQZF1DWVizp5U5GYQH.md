@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVizp5U5GYQH.md) - [plain]
 
 > The Anime Awards return soon!  Listen to the music behind the 2025 nominees as you cast your fan vote.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,551 likes - 62 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,624 likes - 62 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVizp5U5GYQH.md) - [plain]
 | 61 | [River](https://open.spotify.com/track/1kPoNSnxGFq5UZbGyNymsK) | [Anonymouz](https://open.spotify.com/artist/6htvT7X1lqrkKpfp0Rv13X) | [River](https://open.spotify.com/album/5sCPmMx3ctNJX7D68kY3A4) | 3:17 |
 | 62 | [絶対零度](https://open.spotify.com/track/389rEslJY9vh7TZemIA4y7) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [絶対零度](https://open.spotify.com/album/4cAgsEZlaDdg3PSH3IAgEy) | 3:18 |
 
-Snapshot ID: `Z+8hJwAAAAA9bM+7A0ksvHeilVXvGU+y`
+Snapshot ID: `Z+8hJwAAAADGFf28gvaq6AtBcLEbDuhb`

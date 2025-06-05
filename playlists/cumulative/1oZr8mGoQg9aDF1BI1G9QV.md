@@ -4,11 +4,12 @@
 
 > Songs that are queer\. TO ME.
 
-27 songs - 1 hr 31 min
+28 songs - 1 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A.C.D.C.](https://open.spotify.com/track/6Ewuk64UgA3MFArybxROJR) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Sinner](https://open.spotify.com/album/3SLCd2QfOJ1c1gqKZRWVI8) | 3:20 | 2024-10-12 |  |
+| [American Idiot](https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot](https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke) | 2:56 | 2025-06-04 |  |
 | [Andrew in Drag](https://open.spotify.com/track/5ehMCdeOhsgsx25M6wAEzu) | [The Magnetic Fields](https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK) | [Love at the Bottom of the Sea](https://open.spotify.com/album/3jtS8e6U6UJzRDdQrg1uNP) | 2:12 | 2024-01-02 |  |
 | [Baby Blue](https://open.spotify.com/track/2dykKyHS9DKf4bJzkI6J5y) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Sinner](https://open.spotify.com/album/3SLCd2QfOJ1c1gqKZRWVI8) | 4:06 | 2024-10-18 |  |
 | [Big Balls](https://open.spotify.com/track/2KmSnPWWCIsEomVsKnbE1a) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Dirty Deeds Done Dirt Cheap](https://open.spotify.com/album/76mvVgXOde87B9aOzLXCOI) | 2:38 | 2024-05-28 |  |

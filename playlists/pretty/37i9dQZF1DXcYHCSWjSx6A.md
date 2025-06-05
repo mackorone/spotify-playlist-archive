@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYHCSWjSx6A.md) - [plain]
 
 > Check out our Kollywood Machos!<br/>Cover : Suriya
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,956 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,998 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

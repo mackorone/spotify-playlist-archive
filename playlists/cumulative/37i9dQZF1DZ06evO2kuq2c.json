@@ -1164,6 +1164,24 @@
           "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
         }
       ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253440,
+      "name": "Modern Misery",
+      "url": "https://open.spotify.com/track/6jaJVPLZOME4TtgW1Es5NT"
+    },
+    {
+      "album": {
+        "name": "Holy Hell",
+        "url": "https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
       "date_removed": "2023-05-01",
@@ -1382,7 +1400,7 @@
       ],
       "date_added": "2023-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 108666,
       "name": "The Seventh Circle",
       "url": "https://open.spotify.com/track/74qcviASlpWUM5g35HAV1S"

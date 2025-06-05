@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDzpgAAAAADkbSqORyTqig/lzRQS10fQ",
+  "snapshot_id": "aD47AAAAAADuY2X8UACKLGEUOaWVRjqQ",
   "tracks": [
     {
       "added_at": null,
@@ -240,9 +240,9 @@
           "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
         }
       ],
-      "duration_ms": 192493,
-      "name": "We're Not Friends",
-      "url": "https://open.spotify.com/track/5rwrtdf4pjvaE96LiZ85KB"
+      "duration_ms": 203493,
+      "name": "Both",
+      "url": "https://open.spotify.com/track/1VZXhaEAeKUaSwUSocl2qp"
     },
     {
       "added_at": null,
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
         }
       ],
-      "duration_ms": 203493,
-      "name": "Both",
-      "url": "https://open.spotify.com/track/1VZXhaEAeKUaSwUSocl2qp"
+      "duration_ms": 192493,
+      "name": "We're Not Friends",
+      "url": "https://open.spotify.com/track/5rwrtdf4pjvaE96LiZ85KB"
     },
     {
       "added_at": null,
@@ -391,22 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Person",
-        "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 219645,
-      "name": "Falling For You",
-      "url": "https://open.spotify.com/track/1WqmNnwx0aIEoEY8h3ayl1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lady Like (Deluxe)",
         "url": "https://open.spotify.com/album/5meYwtXnMng9XzeQ4eoJyO"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 190200,
       "name": "Feeling Things",
       "url": "https://open.spotify.com/track/5WgmV76XjrQ2ABWem3rTM1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good Person",
+        "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 219645,
+      "name": "Falling For You",
+      "url": "https://open.spotify.com/track/1WqmNnwx0aIEoEY8h3ayl1"
     },
     {
       "added_at": null,

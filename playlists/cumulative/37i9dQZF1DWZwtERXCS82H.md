@@ -4,7 +4,7 @@
 
 > Calm and quiet piano music for reading.
 
-814 songs - 1 day 11 hr 13 min
+816 songs - 1 day 11 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Awakening](https://open.spotify.com/track/4NtQxFOAJhJdScCIgEZkeN) | [Karen LeFrak](https://open.spotify.com/artist/7w0W3SxEy226zQlm1eMnXo), [Jacques van Tuinen](https://open.spotify.com/artist/2cJHx9ShBZorTEnZbVv5nz) | [Awakening](https://open.spotify.com/album/5vsFLDIbHA9rWnTLfM6n6Q) | 1:57 | 2022-06-07 | 2023-07-25 |
 | [Aún Te Veo](https://open.spotify.com/track/3fB2azt4qGQTs2KbSsEmjH) | [Sami Kaur](https://open.spotify.com/artist/5xiFtN2r8Rc3jJ6pkrm7W8) | [Aún Te Veo](https://open.spotify.com/album/5ZG2B564RbdcYWLEjheU77) | 2:30 | 2024-07-29 |  |
 | [Ática](https://open.spotify.com/track/07g8nWc95mnGgPfRlRq075) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Ática](https://open.spotify.com/album/2UEDt340ibuHflO6Hd2ZEs) | 2:29 | 2022-04-15 | 2023-10-03 |
+| [Back Together](https://open.spotify.com/track/6t4dYNa9xTzWYHpFZmfC7U) | [Samuel Kees](https://open.spotify.com/artist/6KGVoP7dCFZ2FILUCCj4rn) | [Back Together](https://open.spotify.com/album/7aHIJMNdGIzqyNVowCJH52) | 2:48 | 2025-06-04 |  |
 | [Ballade Pour Elly](https://open.spotify.com/track/0p6olbVHkNaijGRG6IDEnK) | [Oscar Sundberg](https://open.spotify.com/artist/15IHLyiNk8DVf00tp661dp) | [Ballade Pour Elly](https://open.spotify.com/album/4S1yWI2jYomspKaEy8tnoZ) | 4:03 | 2023-04-12 |  |
 | [Beauty Of You](https://open.spotify.com/track/6zkZvCIEpgUUgCz7qSK3Nc) | [Monir Bresegeut](https://open.spotify.com/artist/3Z6Wqjodzje8ZoJJgV71lj) | [Beauty Of You](https://open.spotify.com/album/0Od2qq1KiShZ1Px1Rkka3x) | 2:16 | 2022-04-15 | 2024-04-04 |
 | [Because I Miss You](https://open.spotify.com/track/6AMskZ3bXPZ68yRaqL6MeL) | [Emíl Miati](https://open.spotify.com/artist/48EpjmQVDjsx1pW9eil7dr) | [Because I Miss You](https://open.spotify.com/album/1H6OzMtSDUQi95GR4TEdPo) | 2:25 | 2022-04-15 | 2022-12-24 |
@@ -170,7 +171,7 @@
 | [Dusk to dawn](https://open.spotify.com/track/130InHyyoQxDbRgScp4i6O) | [Miriam Raye](https://open.spotify.com/artist/3zpg5vjPLd2G5hQGaCuTS2) | [Scenery](https://open.spotify.com/album/6zs3f5KpHjW6yvVN5xQ0Bc) | 2:34 | 2022-04-15 | 2022-12-24 |
 | [Early Memories](https://open.spotify.com/track/0yAgdDXxal3Em3W4X1bkGq) | [Anna Landström](https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw) | [Early Memories](https://open.spotify.com/album/0jFxPV4j7bMwugDCJsMt7g) | 2:33 | 2022-04-15 | 2024-03-19 |
 | [Early Morning](https://open.spotify.com/track/5iB8faGsvwZpLm3RIeQO3B) | [Lorraine J\. Kovach](https://open.spotify.com/artist/3H92L5ns19ZFEIcvVj2KhY) | [Early Morning](https://open.spotify.com/album/7viQj7LLIp5cqQTcVXYj7t) | 2:06 | 2022-04-22 | 2024-10-09 |
-| [Echoes](https://open.spotify.com/track/2FOlLBy4G6UKrSNgHrestM) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Echoes](https://open.spotify.com/album/6gLOeTm93OHXZHFPHtsYJ5) | 2:00 | 2023-06-19 |  |
+| [Echoes](https://open.spotify.com/track/2FOlLBy4G6UKrSNgHrestM) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Echoes](https://open.spotify.com/album/6gLOeTm93OHXZHFPHtsYJ5) | 2:00 | 2023-06-19 | 2025-06-05 |
 | [Echoes in a Hollow Sky](https://open.spotify.com/track/6LLTMjixSywlvh1dNhdlfz) | [Silent Turner](https://open.spotify.com/artist/5b44meO3ARfkAgSSrMNZHl) | [Echoes in a Hollow Sky](https://open.spotify.com/album/69kGsQFJ47ZnvRxIEXReIi) | 2:22 | 2025-03-05 |  |
 | [Eclipsis](https://open.spotify.com/track/2vcdqUMFMbKYvqzBYsVZDn) | [Ryley Moss](https://open.spotify.com/artist/0qWu3rMcE5Hp0gcAUjPPAG) | [Eclipsis](https://open.spotify.com/album/58AH9ExVBQglcFuAUpIl4t) | 2:26 | 2023-04-12 |  |
 | [Eden](https://open.spotify.com/track/4jG0jO5ggIh1KLT1GKJeYo) | [Aron Edwards](https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W) | [Eden](https://open.spotify.com/album/0qlURxpEPDS25Wg74IAoeC) | 2:27 | 2022-04-15 | 2024-06-01 |
@@ -235,6 +236,7 @@
 | [Fóra](https://open.spotify.com/track/6ZpsiNnK2yPcigPrtScGHG) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Fóra](https://open.spotify.com/album/5fsRgzEKg3LSht3LtDXJWI) | 2:14 | 2022-04-15 | 2023-05-04 |
 | [Fractions](https://open.spotify.com/track/4zHsgYHkouqqPwlGcgsOVo) | [Tim Firth](https://open.spotify.com/artist/5FMPCZsQPH2NtCGxYXAF2K) | [Fractions](https://open.spotify.com/album/1ZlQ3IKKLFUt7firrpyCD4) | 2:17 | 2024-07-15 |  |
 | [Fragments](https://open.spotify.com/track/70JLpMenajRsMtCXaQ1jzu) | [Domenik Kalinsky](https://open.spotify.com/artist/4JYktW5hRyzdlGNRZDXjkQ) | [Fragments](https://open.spotify.com/album/1Txz3W66EqLF7DPLFGoL3K) | 2:42 | 2022-04-15 | 2022-12-24 |
+| [Fragments](https://open.spotify.com/track/3908RXyBz01sSe4SDY9SHw) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Fragments](https://open.spotify.com/album/5m2blnRxFotgjHSeMl1kZl) | 2:00 | 2025-06-04 |  |
 | [Fratelli](https://open.spotify.com/track/0ptKkh5g9jnbLnNQjbpBTs) | [Pontus De Bjorn](https://open.spotify.com/artist/0CqDF46d81NfjoRM74rPtl) | [Fratelli](https://open.spotify.com/album/24K76zbkZFeNYrF4rdMUmr) | 2:07 | 2022-04-15 | 2022-05-27 |
 | [Free Ground](https://open.spotify.com/track/7q8qkfqoWf64gZPU1vm0LT) | [Lavendle](https://open.spotify.com/artist/4yJMaS2zuoK9RhQWzOE38u) | [Free Ground](https://open.spotify.com/album/7cREA26xmC6RgT0yTYeJPZ) | 2:43 | 2022-04-15 | 2022-05-14 |
 | [Fristad](https://open.spotify.com/track/4G5Zl5CAe63eqW5XrAq9w2) | [Domi Nova](https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz) | [Fristad](https://open.spotify.com/album/5t8CKlRIPsIXa5QITQRjKn) | 2:38 | 2022-04-15 | 2022-05-14 |
@@ -696,7 +698,7 @@
 | [The Fumes](https://open.spotify.com/track/3hFMkp1whfTIyByhaJZh6D) | [Roger Swift](https://open.spotify.com/artist/7LFWOpUVxbAkCBMVycZT5k) | [The Fumes](https://open.spotify.com/album/1VWjsaA5igX9DTdq1aevoI) | 4:00 | 2024-03-18 |  |
 | [The Light Of That Morning](https://open.spotify.com/track/3hA4o2GOVotNTAzZEY7kBj) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [The Light Of That Morning](https://open.spotify.com/album/6uAyUcY2newV2vsoPiBLdV) | 2:34 | 2023-05-03 | 2024-03-19 |
 | [The Lighthouse keeper](https://open.spotify.com/track/0pW7fhQB5zr1hTrEpPsuJc) | [Antoine Di Luzio](https://open.spotify.com/artist/0nvI5DwMokXVsbHH7sBuwv) | [The Lighthouse keeper](https://open.spotify.com/album/3kb1qnpFKZ09wOtBBOX5fP) | 3:03 | 2022-04-27 | 2024-12-18 |
-| [The Lights Around the Shore](https://open.spotify.com/track/1jrfP4XxY3NWBqRJy6sFt7) | [Rory Lewis](https://open.spotify.com/artist/5xMvSh83e0z7eBZSZ8dxKA) | [The Lights Around the Shore](https://open.spotify.com/album/3pWNJJc1R4M1OGArzIxqc6) | 2:51 | 2024-01-05 |  |
+| [The Lights Around the Shore](https://open.spotify.com/track/1jrfP4XxY3NWBqRJy6sFt7) | [Rory Lewis](https://open.spotify.com/artist/5xMvSh83e0z7eBZSZ8dxKA) | [The Lights Around the Shore](https://open.spotify.com/album/3pWNJJc1R4M1OGArzIxqc6) | 2:51 | 2024-01-05 | 2025-06-05 |
 | [The Melting Sun](https://open.spotify.com/track/1fFEpC7OcocrA4zqrWMSlP) | [Eva Starr](https://open.spotify.com/artist/7EgGZxKYGxtAllHEOF7hrU) | [The Melting Sun](https://open.spotify.com/album/4YqdTFxhcRMEWdYoNPjCcO) | 2:07 | 2024-11-05 |  |
 | [The Owl](https://open.spotify.com/track/0YFMpvuxexjjj8lZKYRCrD) | [Valérie Beaumont](https://open.spotify.com/artist/1MB6Pvf8JF8zGKtI1LSVjD) | [The Owl](https://open.spotify.com/album/4D5mDIlOrgRAXMO4hOhYXo) | 2:59 | 2022-04-15 | 2022-05-14 |
 | [The Phenomenon](https://open.spotify.com/track/6QCddEiJ7fLtmoGsq1kWdq) | [Macauley Hubert](https://open.spotify.com/artist/0XeGtlvUw6IYSA0HY3rjF8) | [The Phenomenon](https://open.spotify.com/album/5Z143iLwtuMHwu5NvUafJh) | 2:30 | 2022-04-15 | 2023-04-13 |
@@ -817,7 +819,7 @@
 | [You Name It](https://open.spotify.com/track/4eFAsz4mMrJiFRGqgghYPj) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Day](https://open.spotify.com/album/5BmyU03YgggujG5J2gEfLM) | 7:43 | 2024-04-03 | 2024-10-23 |
 | [Young Love](https://open.spotify.com/track/5LS7VV5Gp3evv8pjcpTDDu) | [Pamela Goldings](https://open.spotify.com/artist/0zz0ZeRODmieOdGKeznHQA) | [Glacier](https://open.spotify.com/album/0D5gc8mGZMBzB5ioXy6fdK) | 2:23 | 2022-04-15 | 2022-05-14 |
 | [Your Heart Will Mend](https://open.spotify.com/track/60bojdGBpwUfilmhILcPsK) | [Donald Kutcher](https://open.spotify.com/artist/5UvqlmBYi8RQyIyNZPiHTh) | [Your Heart Will Mend](https://open.spotify.com/album/35YyAwBX2Ft3ZJArG1Y2DG) | 2:26 | 2022-04-15 | 2024-02-14 |
-| [Your Love](https://open.spotify.com/track/6RpzFmRfyEz2D4Y2k7Z1KA) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [Your Love](https://open.spotify.com/album/5MojebLBYysmuT1qBZTWYX) | 2:43 | 2024-11-12 |  |
+| [Your Love](https://open.spotify.com/track/6RpzFmRfyEz2D4Y2k7Z1KA) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [Your Love](https://open.spotify.com/album/5MojebLBYysmuT1qBZTWYX) | 2:43 | 2024-11-12 | 2025-06-05 |
 | [Your Own Kind](https://open.spotify.com/track/3V6ocwEhy5BD9rpzrLFXfn) | [Maya Sarfatto](https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9) | [Your Own Kind](https://open.spotify.com/album/1WV5E90TCHTaGKRYU9QfoH) | 1:54 | 2022-04-15 | 2023-07-25 |
 | [Zeit der Stille](https://open.spotify.com/track/0uP8U2GsVBIifLbVbvHRid) | [Kal Daniels](https://open.spotify.com/artist/7tSECjYISKAql7IRAqhhYB) | [Herbst Briese](https://open.spotify.com/album/7ffWTDZHGBYKWnLrvAnyvZ) | 3:18 | 2022-04-15 | 2022-05-14 |
 | [Zephyr](https://open.spotify.com/track/0CNhH6mjashU1e7z0j1LXl) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Zephyr](https://open.spotify.com/album/4TR4dko5W6NIFmA4AR4yU4) | 2:40 | 2022-04-15 | 2024-10-02 |

@@ -4,7 +4,7 @@
 
 > This is La Santa Grifa\. The essential tracks, all in one playlist.
 
-78 songs - 5 hr 30 min
+79 songs - 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Azucar Limon](https://open.spotify.com/track/0uHZXo88X7MAzCtcFIn2P9) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Fuera de Órbita](https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF) | 3:54 | 2023-11-10 | 2024-03-27 |
 | [Bailando Con La Muerte](https://open.spotify.com/track/7BaOaWytKiNV4givTdu2Of) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Hasta Donde Se Pueda, Vol\. 2](https://open.spotify.com/album/7rS4uzrg0UHTlv0iKaSGtF) | 6:36 | 2025-06-03 |  |
 | [Bailando Con la Muerte](https://open.spotify.com/track/2vkh4fXp3muk6hgOP7luSu) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Hasta Donde Se Pueda, Vol\. 2](https://open.spotify.com/album/69Jo9dSkh9nTPpASqM49Gk) | 6:39 | 2023-11-10 | 2025-06-03 |
-| [Biscochologo](https://open.spotify.com/track/1IGSqwLXLvTGKolG0TvinU) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Las Chidas Pal Cuarto](https://open.spotify.com/album/5qYizwBXw7HD441oTtqrpg) | 5:20 | 2023-11-10 |  |
+| [Biscochologo](https://open.spotify.com/track/1IGSqwLXLvTGKolG0TvinU) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Las Chidas Pal Cuarto](https://open.spotify.com/album/5qYizwBXw7HD441oTtqrpg) | 5:20 | 2023-11-10 | 2025-06-05 |
+| [Biscochologo](https://open.spotify.com/track/3UzIWeASa8Ngor0aIloJPi) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Las Chidas Pal Cuarto](https://open.spotify.com/album/6eOtwUDg5pVryf6Ry2RH9C) | 5:20 | 2025-06-05 |  |
 | [Cagapalos](https://open.spotify.com/track/45baYHBlvniOn4TTm9tIkZ) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [GH](https://open.spotify.com/artist/6Jd5jcAPjhgYNQFCcZmK5M) | [Santos Grifos, Vol\. 1](https://open.spotify.com/album/1vJm0PP19mjHS2BQfzZP3H) | 4:53 | 2025-05-30 | 2025-06-04 |
 | [Caramelo](https://open.spotify.com/track/4CsFaJKLoZX16bWgpv8Q6P) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Estilo Fino](https://open.spotify.com/album/4yblA3RA4p10vG7lZ45hHh) | 4:14 | 2024-03-26 | 2025-03-17 |
 | [Celoso Enfermo](https://open.spotify.com/track/4MSRj7FoiCamxvqdRJh2Zt) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Hasta Donde Se Pueda, Vol\. 2](https://open.spotify.com/album/69Jo9dSkh9nTPpASqM49Gk) | 6:44 | 2024-05-15 | 2025-05-18 |

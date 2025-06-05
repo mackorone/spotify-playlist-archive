@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91oIci4su1D.md) - [plain]
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a> with Armin Van Buuren
 
-[Spotify](https://open.spotify.com/user/spotify) - 853,827 likes - 167 songs - 9 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 853,922 likes - 167 songs - 9 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

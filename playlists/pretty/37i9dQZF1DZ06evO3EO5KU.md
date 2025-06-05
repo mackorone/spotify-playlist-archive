@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 
 > This is Los Plebes del Rancho de Ariel Camacho\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,901 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,923 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 | 49 | [Mañanitas A Mi Madre](https://open.spotify.com/track/0blxtrjtjnRxbyTMxbLYhT) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Mañanitas A Mi Madre](https://open.spotify.com/album/6lTvPaSu334LT9hhgXD2yi) | 2:11 |
 | 50 | [Enseñame A Olvidar \- En Vivo](https://open.spotify.com/track/2ESkunF1uu2uCuH8FDVnuh) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [En Vivo con Banda Sinaloense La Tuyia de Culiacan, Sinaloa Vol\. 2](https://open.spotify.com/album/2okCaaMVgh8LmwDD7a85oa) | 3:07 |
 
-Snapshot ID: `aDzpgAAAAAD/bVNiD70JHaLWdvfmQfXD`
+Snapshot ID: `aD47AAAAAABMdQ8KjNkNinPMnTJp9R1e`

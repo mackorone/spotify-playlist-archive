@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina, con Xenia y Ganges en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,076 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,035 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 28 | [Good Girl](https://open.spotify.com/track/1KGt05jHnHhFwvw8F5AlOy) | [Jack Rabbit](https://open.spotify.com/artist/2jL9dVkE0xmhsIn0QsNvIp) | [Good Girl](https://open.spotify.com/album/3cYRYP5hyYc6wFpGKiNjqm) | 2:57 |
 | 29 | [Ida y vuelta a Mictlan](https://open.spotify.com/track/20wS9Mq6Mm0itkZoEJiYwo) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP), [Manu Martínez](https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS) | [Ida y vuelta a Mictlan](https://open.spotify.com/album/1sv06fhsPa7EtdC9zWNQjM) | 2:50 |
 | 30 | [El Uniforme](https://open.spotify.com/track/1EspptpHIR5ZZvxxwXJecA) | [Chlöe's Clue](https://open.spotify.com/artist/1sRWTOOn4OvDGoe1oXVFoE) | [El Uniforme](https://open.spotify.com/album/2t3P8CQ36mD93MQdI4Rmp1) | 2:18 |
-| 31 | [2016](https://open.spotify.com/track/5sbZTCchgVQfxDMwMOtwcq) | [Sofish](https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB) | [2016](https://open.spotify.com/album/531QfnEmKNv2z1LXVEUghN) | 1:57 |
+| 31 | [2016](https://open.spotify.com/track/5sbZTCchgVQfxDMwMOtwcq) | [Sofish](https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB) | [2016](https://open.spotify.com/album/531QfnEmKNv2z1LXVEUghN) | 1:56 |
 | 32 | [malibU](https://open.spotify.com/track/4uulymZhmebsjKedRaJ1gQ) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [DAISY](https://open.spotify.com/album/0o1RGF3A02UN1aVAX1SLuQ) | 3:35 |
 | 33 | [Te Fuiste](https://open.spotify.com/track/4jBn233LyLyeAs7uOlRF9N) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Te Fuiste](https://open.spotify.com/album/3mdFbNYsiqHuP3iJNsLErq) | 3:09 |
 | 34 | [Tu casa](https://open.spotify.com/track/4sZfAbGlXcNnDCbf7PmTHx) | [Gauchito Club](https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Tu casa](https://open.spotify.com/album/4z5sGjs4jhI1pE6oWBlmnD) | 2:49 |

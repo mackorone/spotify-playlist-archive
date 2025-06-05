@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 
 > Nousussa olevat hitit\. 👑 Kannessa OLGA\. 👑
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,248 likes - 84 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,246 likes - 84 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 | 4 | [NRO1 BÄMÄ](https://open.spotify.com/track/6cNFoKcRDKFs2j2aUKxYtt) | [OLGA](https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub) | [NRO1 BÄMÄ](https://open.spotify.com/album/4Qw9aHxTzjFkWxZsGiwK8z) | 2:34 |
 | 5 | [Baller](https://open.spotify.com/track/4kbkYbhWNiSJraySknB4hD) | [Abor & Tynna](https://open.spotify.com/artist/58xrjO7pWlfj2C2uksXScP) | [Bittersüß](https://open.spotify.com/album/0PrVmVD88Xk509v7BOT6a2) | 2:39 |
 | 6 | [Paradise \(with Bipolar Sunshine\)](https://open.spotify.com/track/10WWosq6z75o3WGRjL4v2D) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Paradise \(with Bipolar Sunshine\)](https://open.spotify.com/album/6V5S9DCZk49kkNsnIh9gt7) | 3:20 |
-| 7 | [Me, Myself and The Night](https://open.spotify.com/track/7mKy65CyVCmawYMw3JJGPQ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Me, Myself and The Night](https://open.spotify.com/album/7bSQts9CfkAh6MNQ7BkBjy) | 4:11 |
-| 8 | [Kaiken arvoinen](https://open.spotify.com/track/04ItU6vyhnq8QHKIrYqDR1) | [Behm](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE) | [Kaiken arvoinen](https://open.spotify.com/album/6EElBgZ03JW114cldLHg5L) | 3:54 |
+| 7 | [Kaiken arvoinen](https://open.spotify.com/track/04ItU6vyhnq8QHKIrYqDR1) | [Behm](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE) | [Kaiken arvoinen](https://open.spotify.com/album/6EElBgZ03JW114cldLHg5L) | 3:54 |
+| 8 | [Me, Myself and The Night](https://open.spotify.com/track/7mKy65CyVCmawYMw3JJGPQ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Me, Myself and The Night](https://open.spotify.com/album/7bSQts9CfkAh6MNQ7BkBjy) | 4:11 |
 | 9 | [\#eurodab](https://open.spotify.com/track/5LUbJo8GHzcqlCCrE83c05) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r), [Baby Lasagna](https://open.spotify.com/artist/1ncWEkB4AQh1rxC8ObpBoH) | [\#eurodab](https://open.spotify.com/album/1om5mgfzIyl8wK0VExNHCA) | 2:38 |
 | 10 | [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 |
 | 11 | [Samat silmät \(feat\. BESS\)](https://open.spotify.com/track/0UugpyBXMHcOP2ufK5HiD8) | [Ramses II](https://open.spotify.com/artist/0PI47Yot4sf9TVpnINMnPC), [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw) | [Samat silmät \(feat\. BESS\)](https://open.spotify.com/album/3FbxZJa3Sc2hkzD0A1xDaT) | 3:37 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 | 83 | [KRUUNU \(feat\. ibe\)](https://open.spotify.com/track/2OM9fc7sOAdQX2gt5a4PSB) | [MELO](https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [KRUUNU \(feat\. ibe\)](https://open.spotify.com/album/55FzsBDx6O1NbBGjYNhYLv) | 3:36 |
 | 84 | [Motion](https://open.spotify.com/track/3teVYJtKx0RynxcYr5Uwq5) | [Davy](https://open.spotify.com/artist/2RttK43esYFkU4hD5BU0AT), [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf) | [Motion](https://open.spotify.com/album/1TFdVr0nYuJCvP1bdyZzBT) | 2:53 |
 
-Snapshot ID: `aD9EewAAAAD0HcoVeuzqA1rpEFtvsCqu`
+Snapshot ID: `aEAQqgAAAADvz/dZnqSoedQsZn5Rtprn`

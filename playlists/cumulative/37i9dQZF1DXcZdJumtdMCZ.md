@@ -4,7 +4,7 @@
 
 > Best of Tamil Hip\-Hop!<br/>Cover : Asal Kolaar
 
-194 songs - 11 hr 4 min
+195 songs - 11 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [BRAT Theory \(From "BRAT "\) \[Tamil\]](https://open.spotify.com/track/5FGCNCH2vD9wfX8dpnPvJg) | [K.J Iyenar](https://open.spotify.com/artist/48x2n0fDajDy8dejSS83TN), [Arjun Janya](https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ) | [BRAT Theory \(From "BRAT "\) \[Tamil\]](https://open.spotify.com/album/1fo739fjp0Q0zPfPv9JSX4) | 2:40 | 2025-03-30 |  |
 | [Brother Bigson Mandela](https://open.spotify.com/track/2mSoTLvQtGpUpCkxARsY8A) | [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71) | [Valliamma Peraandi \- Vol\. 01](https://open.spotify.com/album/1CUpxD8bx7lF4od9FtAXCG) | 3:11 | 2024-12-29 | 2025-01-31 |
 | [BUILD UP](https://open.spotify.com/track/074cUACH6LjzkaMQ9plZdp) | [sachu Madrasi](https://open.spotify.com/artist/5cTDZIXnv13h05pY6zTQjN), [Atiium](https://open.spotify.com/artist/59FtOOdwOyFCBSRh7drSjU) | [BUILD UP](https://open.spotify.com/album/2DARaFFotC6l4PEoaHPAxM) | 2:35 | 2025-02-21 |  |
+| [Bum Bum](https://open.spotify.com/track/139ea9g2vGIKGLJds7chkE) | [Dev Major](https://open.spotify.com/artist/4Iwi2N3FmmKmxAuGlD3AQv), [NEXA Music](https://open.spotify.com/artist/66NKyTgQP5uRDoy8tN4Gnx), [Iykki Berry](https://open.spotify.com/artist/0I0EZKnUpimGfzPY17L1yD), [JQueen](https://open.spotify.com/artist/6xWnLYqorRmx45XVLwSouu) | [Nexa Music Season 3 \- The Lab \- Playlist 2](https://open.spotify.com/album/1JJnpHKrCEVd8xNXzCqtId) | 3:01 | 2025-06-04 |  |
 | [Cable Raja](https://open.spotify.com/track/7aXTJLef4bYEJlNDFQfpMa) | [Abhishek](https://open.spotify.com/artist/1CwJfbAkP2ZyA2QaF3ZKgE), [Lawrence](https://open.spotify.com/artist/27xnswouhnSbwK92xz6zAm) | [Vaanam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3K2WMhR111JhiLj9VH36Q0) | 3:59 | 2022-02-08 | 2024-09-24 |
 | [CEO in the House](https://open.spotify.com/track/5oFnrSf3YWf4AO6rIy9f96) | [Nakul Abhyankar](https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD), [Blaaze](https://open.spotify.com/artist/4DqSAnlpn10M4pHUFPEt4E) | [Sarkar \(Tamil\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/0BsAtQgtYtnVPPs0v9UO0n) | 3:52 | 2022-02-08 | 2024-12-29 |
 | [Certified Self Made](https://open.spotify.com/track/7ggjfTXTEwRWBMsoSyDFFy) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q) | [Certified Self Made](https://open.spotify.com/album/4Nh6QrBjcTCzkHyzhzq2Ro) | 2:41 | 2025-01-13 |  |
@@ -194,7 +195,7 @@
 | [Vibe](https://open.spotify.com/track/6XTGnaDPuWsHeQ2vVe69vk) | [Paal Dabba](https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx), [Sickflip](https://open.spotify.com/artist/4a5cFa2gISG9QtjELLgYcZ) | [Vibe](https://open.spotify.com/album/4LajkVNcLNkyN4BfAsQNyE) | 1:59 | 2025-03-17 |  |
 | [Vinayagane](https://open.spotify.com/track/6wmdzlkYB7gJHTI2GGvYBj) | [Iykki Berry](https://open.spotify.com/artist/0I0EZKnUpimGfzPY17L1yD), [Dev Major](https://open.spotify.com/artist/4Iwi2N3FmmKmxAuGlD3AQv), [Sirkazhi Govindarajan](https://open.spotify.com/artist/0POTtVVziAK15RvxYMP3H1) | [Vinayagane](https://open.spotify.com/album/0t5Kd5beolLS0GtKHLcIu7) | 1:15 | 2024-12-29 | 2025-01-28 |
 | [Viyugam](https://open.spotify.com/track/2Ps6Zt8739dZimrJvzbxZt) | [Govind Vasantha](https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB), [Asal Kolaar](https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc) | [Fight Club \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4lBvBSjtIVeGFkRqDdhTTV) | 2:52 | 2023-12-13 | 2024-09-24 |
-| [Volume Vachi Kelu](https://open.spotify.com/track/5sjawV7i11W86TgV6kbQvq) | [Zy Scenez](https://open.spotify.com/artist/6Dv2e5rJCOuKLZ606S24ik) | [Volume Vachi Kelu](https://open.spotify.com/album/07hP2XYvgsqzFGm5Mczwqc) | 3:57 | 2025-01-06 |  |
+| [Volume Vachi Kelu](https://open.spotify.com/track/5sjawV7i11W86TgV6kbQvq) | [Zy Scenez](https://open.spotify.com/artist/6Dv2e5rJCOuKLZ606S24ik) | [Volume Vachi Kelu](https://open.spotify.com/album/07hP2XYvgsqzFGm5Mczwqc) | 3:57 | 2025-01-06 | 2025-06-05 |
 | [Welcome To Thiruvizha](https://open.spotify.com/track/6CzLr7SMDZTMXYeBkzPIjl) | [RAK](https://open.spotify.com/artist/5fRjKFvGLlv4XCjkgWuPoT), [daszi](https://open.spotify.com/artist/0afiI57tEFIwLFQBZC71sp) | [Welcome To Thiruvizha](https://open.spotify.com/album/1b7ubyqtZR3cGyTqZu4eMr) | 2:46 | 2025-05-16 |  |
 | [Written By Holy Cow!](https://open.spotify.com/track/0dy7bIOZTmu9SdHygEUvdU) | [Imman Vijay](https://open.spotify.com/artist/5I0kqjiVuNcomVmnFVhvX3), [Meiarivu](https://open.spotify.com/artist/0hCIMGzjKCTxoHrfbJ17jw) | [Written By Holy Cow!](https://open.spotify.com/album/3Ubf6xEUMzT0HqKsGy3Q6B) | 3:23 | 2024-12-29 | 2025-04-19 |
 | [X](https://open.spotify.com/track/0nT73oHjn18NGqReso88f7) | [Paal Dabba](https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx), [SHIV PAUL](https://open.spotify.com/artist/5AA9gS6Kw5CwPGZ8CEoA8f) | [X](https://open.spotify.com/album/75DAoGEmmgDdS9nVm4b1zs) | 2:08 | 2025-01-24 |  |

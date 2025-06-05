@@ -1,12 +1,12 @@
 {
   "description": "This is MC Davo. The essential tracks, all in one playlist.",
-  "num_followers": 226104,
+  "num_followers": 226132,
   "original_name": "This Is MC Davo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDzpgAAAAACfeOEahBaRaSCLv9sQJcYR",
+  "snapshot_id": "aD47AAAAAADqi1mN3gG8vYtOJDB1zikC",
   "tracks": [
     {
       "added_at": null,
@@ -779,30 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Si Pego",
-        "url": "https://open.spotify.com/album/6dQluBGGicYXtzTmzj0j8c"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "Kodigo",
-          "url": "https://open.spotify.com/artist/75UT76qjyWvxN3wtxHExhA"
-        },
-        {
-          "name": "TREN LOKOTE",
-          "url": "https://open.spotify.com/artist/4oQnaHAoScFnKnirYAk1C0"
-        }
-      ],
-      "duration_ms": 206500,
-      "name": "Por Si Pego",
-      "url": "https://open.spotify.com/track/1y6gxADhtRpNq3V8xpYHJb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mentiras",
         "url": "https://open.spotify.com/album/2OppjQEXGEldFhZA7PZwPK"
       },
@@ -823,6 +799,30 @@
       "duration_ms": 283747,
       "name": "Mentiras",
       "url": "https://open.spotify.com/track/2wUmYFiVDBPem4AfPGscsM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Por Si Pego",
+        "url": "https://open.spotify.com/album/6dQluBGGicYXtzTmzj0j8c"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "Kodigo",
+          "url": "https://open.spotify.com/artist/75UT76qjyWvxN3wtxHExhA"
+        },
+        {
+          "name": "TREN LOKOTE",
+          "url": "https://open.spotify.com/artist/4oQnaHAoScFnKnirYAk1C0"
+        }
+      ],
+      "duration_ms": 206500,
+      "name": "Por Si Pego",
+      "url": "https://open.spotify.com/track/1y6gxADhtRpNq3V8xpYHJb"
     },
     {
       "added_at": null,
@@ -872,17 +872,13 @@
           "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
         },
         {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "name": "Samantha Barr\u00f3n",
-          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
+          "name": "Eirian Music",
+          "url": "https://open.spotify.com/artist/4hMiTS2vx4r1mJbR4VUzn4"
         }
       ],
-      "duration_ms": 246605,
-      "name": "Siempre Es Lo Mismo",
-      "url": "https://open.spotify.com/track/2dbH2TKWAKoJxG1W0SZxmM"
+      "duration_ms": 148351,
+      "name": "La Que Dec\u00eda Que No",
+      "url": "https://open.spotify.com/track/3eK1cGd1tYOV64neq82IKu"
     },
     {
       "added_at": null,
@@ -948,13 +944,17 @@
           "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
         },
         {
-          "name": "Eirian Music",
-          "url": "https://open.spotify.com/artist/4hMiTS2vx4r1mJbR4VUzn4"
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Samantha Barr\u00f3n",
+          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
         }
       ],
-      "duration_ms": 148351,
-      "name": "La Que Dec\u00eda Que No",
-      "url": "https://open.spotify.com/track/3eK1cGd1tYOV64neq82IKu"
+      "duration_ms": 246605,
+      "name": "Siempre Es Lo Mismo",
+      "url": "https://open.spotify.com/track/2dbH2TKWAKoJxG1W0SZxmM"
     },
     {
       "added_at": null,
@@ -1187,22 +1187,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Qu\u00e9 Ser\u00e1?",
-        "url": "https://open.spotify.com/album/5cZUVmlDivJW0hNO8VQJ6V"
+        "name": "El Dominio",
+        "url": "https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG"
       },
       "artists": [
         {
           "name": "MC Davo",
           "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "C.R.O",
-          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
         }
       ],
-      "duration_ms": 199531,
-      "name": "Por Qu\u00e9 Ser\u00e1?",
-      "url": "https://open.spotify.com/track/3ZOy45DDnJ5DrRyROqUgLL"
+      "duration_ms": 221146,
+      "name": "Andamos De Parranda",
+      "url": "https://open.spotify.com/track/1s5vd2FOQj34P5vfRRoPHT"
     }
   ],
   "unique_name": "This Is MC Davo",

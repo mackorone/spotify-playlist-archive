@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 
 > Altijd frisse hits! Cover: Morgan Wallen & Tate McRae
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,482 likes - 43 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,492 likes - 43 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [What I Want \(feat\. Tate McRae\)](https://open.spotify.com/track/04emojnbYkrRmv5qtJcgVP) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [I’m The Problem](https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD) | 3:04 |
-| 2 | [RS6](https://open.spotify.com/track/6EqhAlO3OAirPbd1kwIbBX) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [RS6](https://open.spotify.com/album/3NOJ88r8w6wqRtNgQInvzi) | 3:48 |
-| 3 | [Vaitimbora](https://open.spotify.com/track/0QAUgW2vTmlUWhbiNeSkWm) | [Mariana Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S), [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan) | [Vaitimbora](https://open.spotify.com/album/0cIKxynxh628Q7qOyamXLe) | 2:15 |
-| 4 | [Bara Bada Bastu](https://open.spotify.com/track/2gThkoApt6B7ajBWZRLAVv) | [KAJ](https://open.spotify.com/artist/4blbIMKwfzTxHGvN0Est1t) | [Bara Bada Bastu](https://open.spotify.com/album/2zjk45mVWiAZILHTUmR0ON) | 2:46 |
-| 5 | [1+1 \(Outside\)](https://open.spotify.com/track/2MPWNU7QkwmBNAoHdYLYfW) | [Dior](https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt), [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4) | [1+1 \(Outside\)](https://open.spotify.com/album/0W9yMPmPSIwvjKDv5jPPPJ) | 2:38 |
-| 6 | [Devotion](https://open.spotify.com/track/3BM5hoJ168Kh4hYEhiNxwK) | [Lance Savali](https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd) | [Devotion](https://open.spotify.com/album/47IOO7TrIL82e6P2d809N9) | 2:16 |
-| 7 | [MAD](https://open.spotify.com/track/6vM1GSndPtQk7AmqEmNAPH) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [MAD](https://open.spotify.com/album/6e3hxK9NnMP08e6GBC1WIV) | 3:19 |
-| 8 | [Easy Lover](https://open.spotify.com/track/2OBzYCYMNsD6yhBZZSs0xg) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Something Beautiful](https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ) | 3:06 |
-| 9 | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY) | 2:22 |
+| 2 | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY) | 2:22 |
+| 3 | [RS6](https://open.spotify.com/track/6EqhAlO3OAirPbd1kwIbBX) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [RS6](https://open.spotify.com/album/3NOJ88r8w6wqRtNgQInvzi) | 3:48 |
+| 4 | [1+1 \(Outside\)](https://open.spotify.com/track/2MPWNU7QkwmBNAoHdYLYfW) | [Dior](https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt), [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4) | [1+1 \(Outside\)](https://open.spotify.com/album/0W9yMPmPSIwvjKDv5jPPPJ) | 2:38 |
+| 5 | [Vaitimbora](https://open.spotify.com/track/0QAUgW2vTmlUWhbiNeSkWm) | [Mariana Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S), [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan) | [Vaitimbora](https://open.spotify.com/album/0cIKxynxh628Q7qOyamXLe) | 2:15 |
+| 6 | [Bara Bada Bastu](https://open.spotify.com/track/2gThkoApt6B7ajBWZRLAVv) | [KAJ](https://open.spotify.com/artist/4blbIMKwfzTxHGvN0Est1t) | [Bara Bada Bastu](https://open.spotify.com/album/2zjk45mVWiAZILHTUmR0ON) | 2:46 |
+| 7 | [Devotion](https://open.spotify.com/track/3BM5hoJ168Kh4hYEhiNxwK) | [Lance Savali](https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd) | [Devotion](https://open.spotify.com/album/47IOO7TrIL82e6P2d809N9) | 2:16 |
+| 8 | [MAD](https://open.spotify.com/track/6vM1GSndPtQk7AmqEmNAPH) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [MAD](https://open.spotify.com/album/6e3hxK9NnMP08e6GBC1WIV) | 3:19 |
+| 9 | [Easy Lover](https://open.spotify.com/track/2OBzYCYMNsD6yhBZZSs0xg) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Something Beautiful](https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ) | 3:06 |
 | 10 | [Stuk](https://open.spotify.com/track/49BsomzPsrybT3lmKhyVNZ) | [Metejoor](https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE), [LUNA](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf) | [Stuk](https://open.spotify.com/album/3Z3FlnpmuXxxlCkheoGenE) | 3:06 |
 | 11 | [Money Machine](https://open.spotify.com/track/5Cbp8VCgukUrF7EJrzlREW) | [Chavanté](https://open.spotify.com/artist/46hfNL2Bni5Ux8hCDMAjIN), [Kleine John](https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M) | [Money Machine](https://open.spotify.com/album/5sGRRWrkvM2HoA8Q7PM247) | 2:21 |
 | 12 | [Niet Zo](https://open.spotify.com/track/6z3OAI3sNI3TguCplTEfmN) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [Niet Zo](https://open.spotify.com/album/6GiB5mZT5uDEdmwD02JJNu) | 2:42 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 | 42 | [Allerlaatste Keer](https://open.spotify.com/track/60K3UHojqQw1GJKhAF6EM6) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [Allerlaatste Keer](https://open.spotify.com/album/5MoUJ6qQGpX9Twa0J5kSkl) | 2:20 |
 | 43 | [Bluest Flame](https://open.spotify.com/track/4pZc4zC5lAuW7MYD0v5TjH) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [I Said I Love You First...](https://open.spotify.com/album/6mfLgMAN1pZTa2o4LjVGjX) | 2:42 |
 
-Snapshot ID: `aD1aIwAAAAC0WJcDBeNJtcFX+efHaAY3`
+Snapshot ID: `aEAD3QAAAAB3uCHu3i129dTimRGWrgwo`

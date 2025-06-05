@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QClArDhvcW.md) - [plain]
 
 > Laid\-back beats for an easygoing morning.
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,462 likes - 265 songs - 10 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,572 likes - 265 songs - 10 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QClArDhvcW.md) - [plain]
 | 59 | [Imagination](https://open.spotify.com/track/01lao0P5JCzn2CYeHGgtoQ) | [Zesik](https://open.spotify.com/artist/1xNBQYNORzAxrGs8bQEX4I) | [Imagination](https://open.spotify.com/album/00UTRxWSt57LSajAtr5O0k) | 2:00 |
 | 60 | [Garden Suitcase](https://open.spotify.com/track/7M7F46ZhsjjQrat1xsSBnZ) | [hello low](https://open.spotify.com/artist/0rw0XSu4ERGOxViqqBfclo) | [Garden Suitcase](https://open.spotify.com/album/7xMTf3XHD0bDYg0qAybTry) | 2:31 |
 | 61 | [Ducks.](https://open.spotify.com/track/54O4LOGcYGb2iVWHtOTuWu) | [Zola's Tapes](https://open.spotify.com/artist/6GwZeQ69WhS31fHqq46Qny) | [Ducks.](https://open.spotify.com/album/7kMGAW6nqjSaBYTZeXOANU) | 2:03 |
-| 62 | [Hopeful Day](https://open.spotify.com/track/0OSvfJNY2kFt1XOUbLq61y) | [Juliette](https://open.spotify.com/artist/2A9ozO2R5liuK6dMrhJwnQ) | [Hopeful Day](https://open.spotify.com/album/6x2C0qpHjifjYz71FeGEDW) | 2:28 |
+| 62 | [Hopeful Day](https://open.spotify.com/track/0OSvfJNY2kFt1XOUbLq61y) | [Juliette](https://open.spotify.com/artist/0iAtf1P8o5GEjcoflDhVcp) | [Hopeful Day](https://open.spotify.com/album/6x2C0qpHjifjYz71FeGEDW) | 2:28 |
 | 63 | [Dreamscape](https://open.spotify.com/track/6PoDFa9Ywa5m71BPsJkShu) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt), [.Eehou](https://open.spotify.com/artist/5n9SautEmQzoC7G47NBta0) | [Dreamscape](https://open.spotify.com/album/6UoRkiufJnR3rFirrso6ja) | 2:03 |
 | 64 | [Before the sea](https://open.spotify.com/track/4JkukV5QYxyUq4cwgn9BVI) | [Keith Hamasaki](https://open.spotify.com/artist/6nv23J7HXGspwrnU3M3O2i) | [Before the sea](https://open.spotify.com/album/76MYd834C4kMxG3oh5djnd) | 2:33 |
 | 65 | [Kalamos](https://open.spotify.com/track/7uHaPTyjST0BX8ftqLzMqq) | [Drips Zacheer](https://open.spotify.com/artist/6evg3DBRRbN4YNlzbeS6VN), [Soulvibe Cuts](https://open.spotify.com/artist/37qQan0WPQj9vb2GQLYG6M) | [Kalamos](https://open.spotify.com/album/1TdGSHKyi7QNr0a7OVOTT4) | 2:07 |

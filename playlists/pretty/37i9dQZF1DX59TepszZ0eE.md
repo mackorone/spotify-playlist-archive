@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 
 > Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/2xYE0LYxFRGK9CQxLlkE7H?si=jJtz30JSR1OryH1Mf10DtA>Nontokozo Mkhize</a>"
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,931 likes - 100 songs - 10 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,989 likes - 100 songs - 10 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 | 47 | [Bhekani UJehova \- Live](https://open.spotify.com/track/5FZNzkJ9Csk4m9XegJRahx) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration, Vol\. 18: One Purpose \(Live at CityHill Church, Durban 2014\)](https://open.spotify.com/album/3mHxSlMvvFPNA3DSnuYrvr) | 7:13 |
 | 48 | [Ulwandle](https://open.spotify.com/track/6ilg9EOG5RkRtHxjiUQwSZ) | [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Egameni LikaJesu](https://open.spotify.com/album/5GyAo0sFpDRvvkXH7xT35R) | 4:16 |
 | 49 | [Jesu Ufik'ekuseni \- Live](https://open.spotify.com/track/0Md6sFVsOn5rUMrUoX922l) | [Sipho Ngwenya](https://open.spotify.com/artist/72Tl2cXPC1vmagob3mPdoe), [Thinah Zungu](https://open.spotify.com/artist/0gqiNXIGbyBCBsbQ4TWJlg) | [Intimate Worship Season, Vol\. 2 \(Live\)](https://open.spotify.com/album/467zjiBxAx2DLgW9jKt96E) | 6:59 |
-| 50 | [Ukhuphila Kwethu](https://open.spotify.com/track/5MQblyyQ4AdnWWZwZI2jvW) | [Reginald Jabu](https://open.spotify.com/artist/7JH7vnM5DFedm2lcpddAj4) | [Ukhuphila Kwethu](https://open.spotify.com/album/7IQECBtOUX5SF0lWG2SVSM) | 10:00 |
+| 50 | [Ukuphila Kwethu](https://open.spotify.com/track/5MQblyyQ4AdnWWZwZI2jvW) | [Reginald Jabu](https://open.spotify.com/artist/7JH7vnM5DFedm2lcpddAj4) | [Ukuphila Kwethu](https://open.spotify.com/album/7IQECBtOUX5SF0lWG2SVSM) | 10:00 |
 | 51 | [Ngiyamazi Umhlengi Wami \- Live At Cedarwoods of Sandton, 2023](https://open.spotify.com/track/2kUmCaHL6wXqq9CgTpqCBG) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [Ngiyamazi Umhlengi Wam \(Live At Cedarwoods of Sandton, 2023\)](https://open.spotify.com/album/3746LVUDdq2j4dzJAyZVbG) | 3:59 |
 | 52 | [Haleluyah Mdumiseni \- Live](https://open.spotify.com/track/0cnL9GGXyZen3MtNb4pQCl) | [Lebo Sekgobela](https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx) | [Restored \(Live\)](https://open.spotify.com/album/4CVpV7NAYwOeWuZ9FSbFZ5) | 7:13 |
 | 53 | [Nxa ngimbona \(Live at Goshen City Church 2023\)](https://open.spotify.com/track/2JWpFdGDHflpiRpfoRilNL) | [SbuNoah](https://open.spotify.com/artist/6Hmj1Zk3LCAFn8xvujto6O) | [Nxa ngimbona \(Live at Goshen City Church 2023\)](https://open.spotify.com/album/7DkQ7RJcsGJls3WyfQEwwU) | 6:03 |

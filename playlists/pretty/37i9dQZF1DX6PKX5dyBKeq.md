@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 
 > The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: Kwengface
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,396,219 likes - 70 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,396,262 likes - 70 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 | 69 | [GBP \(feat\. 21 Savage\)](https://open.spotify.com/track/5emD8K39MmotlCLOx9qzCH) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [GBP \(feat\. 21 Savage\)](https://open.spotify.com/album/4Ep5kfo5Z40qVV0vBYC8De) | 2:34 |
 | 70 | [All The Smoke](https://open.spotify.com/track/4fj6oKkgpFcWZtV7yUdRKW) | [Asco](https://open.spotify.com/artist/78tb5IXVdgoNDphZXWMN0r) | [All The Smoke](https://open.spotify.com/album/4pZJnb7lGPh8hc7swkVfLu) | 2:49 |
 
-Snapshot ID: `aDjm/gAAAADfN5AlYqkxrUk75FtNUdMn`
+Snapshot ID: `AAAAAJG+DqA5i6vn+TjOVWOxPcKbEF8E`

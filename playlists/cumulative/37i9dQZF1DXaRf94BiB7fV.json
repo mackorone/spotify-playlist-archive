@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels in India. Cover: Shruti Prakash, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels in India. Cover: Abhin Joshi, Artwork: Isu Kim",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -976,7 +976,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 176778,
       "name": "Aaya Na Woh",
       "url": "https://open.spotify.com/track/7lsyXdCPXICJmSTE6FPPg9"
@@ -4432,7 +4432,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 178360,
       "name": "Chaandni Mein Teri Yaadein",
       "url": "https://open.spotify.com/track/60TxYXMOPrk862jJsXFglM"
@@ -4454,6 +4454,36 @@
       "duration_ms": 143125,
       "name": "Chai",
       "url": "https://open.spotify.com/track/5mwyz9v3FkTp80xmReZ8Aj"
+    },
+    {
+      "album": {
+        "name": "Chakka Ghoom",
+        "url": "https://open.spotify.com/album/5bYqMSvX33WOFROI1CNqPE"
+      },
+      "artists": [
+        {
+          "name": "Akash Tripathi",
+          "url": "https://open.spotify.com/artist/04QPutAh48ciDXsD7yuzl4"
+        },
+        {
+          "name": "Akshay Jadhav",
+          "url": "https://open.spotify.com/artist/1qvovvgGVEdrhHTLJYsizG"
+        },
+        {
+          "name": "Akshay Dabhadkar",
+          "url": "https://open.spotify.com/artist/2Upf6WojA7HrgTi2PACRaN"
+        },
+        {
+          "name": "Pankaj Pathe",
+          "url": "https://open.spotify.com/artist/6RsrRQ9Ra9EMif6NLh9KFV"
+        }
+      ],
+      "date_added": "2025-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248739,
+      "name": "Chakka Ghoom",
+      "url": "https://open.spotify.com/track/5oldKUXzCbfGutzmi51Xzi"
     },
     {
       "album": {
@@ -5866,7 +5896,7 @@
       ],
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 201916,
       "name": "Dhaatu",
       "url": "https://open.spotify.com/track/5MI8hbJ99ufuhCwdsxaqdM"
@@ -8493,6 +8523,28 @@
     },
     {
       "album": {
+        "name": "Found Her",
+        "url": "https://open.spotify.com/album/3dDWBAuF5bdkPHDlKA3rn1"
+      },
+      "artists": [
+        {
+          "name": "Dipayon",
+          "url": "https://open.spotify.com/artist/5z8grV7iQOVrl6df7ZRPep"
+        },
+        {
+          "name": "Rooh",
+          "url": "https://open.spotify.com/artist/6CoSN7t1ndmQBydGC4TkZT"
+        }
+      ],
+      "date_added": "2025-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195483,
+      "name": "Found Her",
+      "url": "https://open.spotify.com/track/3gl1q8l386iTvSinXtA0OX"
+    },
+    {
+      "album": {
         "name": "Freefall",
         "url": "https://open.spotify.com/album/7BUQFChLJv6kARWAl73nVx"
       },
@@ -10380,6 +10432,32 @@
       "duration_ms": 162285,
       "name": "Hum Chalein",
       "url": "https://open.spotify.com/track/1t6Y3WoCpSHkkV6XlBzuJZ"
+    },
+    {
+      "album": {
+        "name": "Hum Dono",
+        "url": "https://open.spotify.com/album/3g4Kkd6saQigJaxUy9fSIY"
+      },
+      "artists": [
+        {
+          "name": "Inayat Kaur Bajaj",
+          "url": "https://open.spotify.com/artist/3tUsiQAwzswWX1pTflob0o"
+        },
+        {
+          "name": "UNPLG'd",
+          "url": "https://open.spotify.com/artist/3gKTtA1BK4pq1IIHXAyvgO"
+        },
+        {
+          "name": "Eskay",
+          "url": "https://open.spotify.com/artist/6hL33HOCFIMmF7XqRqv2S6"
+        }
+      ],
+      "date_added": "2025-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74137,
+      "name": "Hum Dono",
+      "url": "https://open.spotify.com/track/43s1OngoLLNAqIPFf2rCJ0"
     },
     {
       "album": {
@@ -14244,6 +14322,28 @@
       "duration_ms": 184138,
       "name": "Kaise Kahein",
       "url": "https://open.spotify.com/track/4X5DgGXjlkHszdFcYlFzdY"
+    },
+    {
+      "album": {
+        "name": "Ek Kamre Ki Zindagi",
+        "url": "https://open.spotify.com/album/6OEnEcgbGhOONF4urn8xPU"
+      },
+      "artists": [
+        {
+          "name": "Abhin Joshi",
+          "url": "https://open.spotify.com/artist/3JpbtSxoGcENGrjtZPWbtq"
+        },
+        {
+          "name": "Abhi Solanki",
+          "url": "https://open.spotify.com/artist/3tC0KUr3YwXIhJ2l6mJ8ob"
+        }
+      ],
+      "date_added": "2025-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218882,
+      "name": "Kaise Kahun",
+      "url": "https://open.spotify.com/track/1DLjYfDBS2bwdpcUyb2sHq"
     },
     {
       "album": {
@@ -19385,6 +19485,24 @@
     },
     {
       "album": {
+        "name": "Mujhse Kabhi To Puch Le",
+        "url": "https://open.spotify.com/album/7cmsjCvEKZFxpsVMzWdQb5"
+      },
+      "artists": [
+        {
+          "name": "Shunya",
+          "url": "https://open.spotify.com/artist/5Oz3oUJpLWYpDMv75dkvc0"
+        }
+      ],
+      "date_added": "2025-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276718,
+      "name": "Mujhse Kabhi To Puch Le",
+      "url": "https://open.spotify.com/track/0PXfmamS6kGlALfyDssRAP"
+    },
+    {
+      "album": {
         "name": "Mujko Yeh Jane Kya Hua",
         "url": "https://open.spotify.com/album/0i2THnHQnQGxunvLBONJB9"
       },
@@ -21313,6 +21431,28 @@
     },
     {
       "album": {
+        "name": "Paradox",
+        "url": "https://open.spotify.com/album/4tkMTGz5TE4zBWuP43h5P1"
+      },
+      "artists": [
+        {
+          "name": "Avinish Bhaskar",
+          "url": "https://open.spotify.com/artist/65AvCHIGl1w7iCG8xnCGq8"
+        },
+        {
+          "name": "SARBAN",
+          "url": "https://open.spotify.com/artist/0AsJ5YnFuadSRkABCNK9k2"
+        }
+      ],
+      "date_added": "2025-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146921,
+      "name": "Paradox",
+      "url": "https://open.spotify.com/track/4puMwTpllRA56a8TtQEpjd"
+    },
+    {
+      "album": {
         "name": "Paranoid",
         "url": "https://open.spotify.com/album/73HzBHmFwFOcVOLMzUHsMd"
       },
@@ -22720,7 +22860,7 @@
       ],
       "date_added": "2025-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 196460,
       "name": "Rang",
       "url": "https://open.spotify.com/track/4rsZfDAo6vC9vtQhA0jX43"
@@ -22800,7 +22940,7 @@
       ],
       "date_added": "2025-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 154320,
       "name": "Rangeela Mora Saajna",
       "url": "https://open.spotify.com/track/34dwAam1NbXlgUGmo281e4"
@@ -29074,7 +29214,7 @@
       ],
       "date_added": "2025-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-05",
       "duration_ms": 218860,
       "name": "Tu Mila Mujhe",
       "url": "https://open.spotify.com/track/4yx5ScGmOwfzfyiTcA4HpD"

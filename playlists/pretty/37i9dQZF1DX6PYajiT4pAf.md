@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Aitana, Myke Towers con Quevedo, Miley Cyrus, DELLAFUENTE y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 360,863 likes - 84 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 360,884 likes - 84 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

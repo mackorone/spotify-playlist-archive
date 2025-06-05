@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Uruguay.
 
-1,033 songs - 2 day 6 hr 34 min
+1,034 songs - 2 day 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -540,7 +540,7 @@
 | [Maquillaje](https://open.spotify.com/track/16flcJEZHzqoSRv7Ku5gjJ) | [Renn](https://open.spotify.com/artist/25HXdVQcRMRgDKWbk5cn0G), [Yexel](https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL) | [Maquillaje](https://open.spotify.com/album/0CLVKodSfi7SSMDFQutIhy) | 3:31 | 2024-03-20 | 2024-07-04 |
 | [Maquillaje](https://open.spotify.com/track/4eMgCEivrlABjwo0ZiY95d) | [Renn](https://open.spotify.com/artist/25HXdVQcRMRgDKWbk5cn0G), [Yexel](https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL) | [Maquillaje](https://open.spotify.com/album/0L16XNlcuTsjZutD11ixsz) | 3:31 | 2024-03-19 | 2024-03-21 |
 | [Maquillaje \- Remix](https://open.spotify.com/track/5tA0dW3vNglRMQRVn5oXhU) | [refracted arg](https://open.spotify.com/artist/6xXSh0V8MmmCJ5CGwxV0OV) | [Diablos, Doble A](https://open.spotify.com/album/6VCKimznrPSiFMKfGICXrw) | 3:27 | 2024-04-20 | 2024-04-24 |
-| [Mariposas](https://open.spotify.com/track/66EoJdYZiJkuQGXRCwZwfx) | [La Penúltima](https://open.spotify.com/artist/07y4PkqTJCaJAjQ1jCKoJx) | [Mariposas](https://open.spotify.com/album/1jBDxHoiS1cRThUp4CGZH4) | 2:44 | 2024-12-26 |  |
+| [Mariposas](https://open.spotify.com/track/66EoJdYZiJkuQGXRCwZwfx) | [La Penúltima](https://open.spotify.com/artist/07y4PkqTJCaJAjQ1jCKoJx) | [Mariposas](https://open.spotify.com/album/1jBDxHoiS1cRThUp4CGZH4) | 2:44 | 2024-12-26 | 2025-06-05 |
 | [Marisola](https://open.spotify.com/track/2pR6bipXfJySBhje19SW02) | [Stars Music Chile](https://open.spotify.com/artist/2NZD6Gqfk60GEcAAnJKVsR), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz) | [Marisola](https://open.spotify.com/album/6pEq0eQ4Jk0C7plPyyyXDp) | 3:04 | 2022-09-02 | 2022-12-25 |
 | [Marisola \- Remix](https://open.spotify.com/track/0NO2zL0kw8sGGnaMvHKAZF) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz), [Stars Music Chile](https://open.spotify.com/artist/2NZD6Gqfk60GEcAAnJKVsR) | [Marisola \(Remix\)](https://open.spotify.com/album/262bymaji1sJPAldR7YyaH) | 3:57 | 2022-12-17 | 2023-06-25 |
 | [Maroon](https://open.spotify.com/track/3eX0NZfLtGzoLUxPNvRfqm) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:38 | 2022-10-22 | 2022-10-27 |
@@ -617,6 +617,7 @@
 | [Mírame](https://open.spotify.com/track/2btNsI4OvcVl7SAHQQDHFB) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Mírame](https://open.spotify.com/album/5oCAS6VzHoESewtXUGMqbz) | 2:37 | 2024-07-12 | 2024-12-26 |
 | [N.C.L.C](https://open.spotify.com/track/5PtzdNNJuu0PVtbNg18MF3) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Antes de Ameri](https://open.spotify.com/album/2A7S80QXLWlzw41LwkRYRU) | 1:26 | 2023-06-24 | 2023-06-26 |
 | [N5](https://open.spotify.com/track/6WZk0S0t6YP414VJz99mWT) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [N5](https://open.spotify.com/album/0vWaEsVo9edkkpkGWAUqBd) | 2:34 | 2022-07-09 | 2022-09-15 |
+| [Nadie Dijo \- Remix](https://open.spotify.com/track/16zPOaEXzmKVAQ8bPPebtZ) | [Ariann Music](https://open.spotify.com/artist/11FSIXdc7G5imj7GMxIJd3), [Juli Obregon](https://open.spotify.com/artist/7iHca5RSetSirlL3e44eKn) | [Nadie Dijo \(Remix\)](https://open.spotify.com/album/0dL6gycR630upMdWrFoYHm) | 2:40 | 2025-06-04 |  |
 | [NADIE SABE](https://open.spotify.com/track/23d8v6tU6lR77pFKsApMtF) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 6:19 | 2023-10-14 | 2023-10-17 |
 | [Natanael Cano: Bzrp Music Sessions, Vol\. 59](https://open.spotify.com/track/2DbV9TSdeGr5FobCFDRzvq) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Natanael Cano: Bzrp Music Sessions, Vol\. 59](https://open.spotify.com/album/2QIjTJqytJ9ksvoS1jpM90) | 2:35 | 2024-04-05 | 2024-04-21 |
 | [Nathy Peluso: Bzrp Music Sessions, Vol\. 36](https://open.spotify.com/track/78SeXVRJ7KCqVmOwTiFjnI) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Nathy Peluso](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Nathy Peluso: Bzrp Music Sessions, Vol\. 36](https://open.spotify.com/album/3aZthZKHMbbleXcilISjha) | 2:51 | 2021-03-27\* | 2021-04-24 |

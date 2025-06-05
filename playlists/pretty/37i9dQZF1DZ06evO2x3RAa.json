@@ -1,12 +1,12 @@
 {
   "description": "This is Sonny Okosun. The essential tracks, all in one playlist.",
-  "num_followers": 522,
+  "num_followers": 523,
   "original_name": "This Is Sonny Okosun",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDzpgAAAAAA4tk4+ORWIxHx3opNHCRLn",
+  "snapshot_id": "aD47AAAAAAC+mNUMBpylNFqW92DfbV4O",
   "tracks": [
     {
       "added_at": null,
@@ -63,22 +63,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fly African Eagle: The Best Of African Reggae",
-        "url": "https://open.spotify.com/album/0ZaWEsLFBTZUGPxPrdkfS1"
-      },
-      "artists": [
-        {
-          "name": "Sonny Okosun",
-          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
-        }
-      ],
-      "duration_ms": 428866,
-      "name": "Fire In Soweto",
-      "url": "https://open.spotify.com/track/2FzRgmksG8ZTUkYFCQ76TE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wind Of Change",
         "url": "https://open.spotify.com/album/2mGBmoVvEmVS2fV1zZMisz"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 415733,
       "name": "African Soldier",
       "url": "https://open.spotify.com/track/4OsMVzpf3ZB0iK1mtA1em5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "51 Lex Presents: Arise",
+        "url": "https://open.spotify.com/album/4M1JVqohTqHghNEgqEtMUl"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "duration_ms": 268626,
+      "name": "Amen Amen",
+      "url": "https://open.spotify.com/track/38mVByC9CdaVvw2DXg4aWR"
     },
     {
       "added_at": null,
@@ -127,8 +127,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "51 Lex Presents: Arise",
-        "url": "https://open.spotify.com/album/4M1JVqohTqHghNEgqEtMUl"
+        "name": "Fly African Eagle: The Best Of African Reggae",
+        "url": "https://open.spotify.com/album/0ZaWEsLFBTZUGPxPrdkfS1"
       },
       "artists": [
         {
@@ -136,9 +136,9 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 268626,
-      "name": "Amen Amen",
-      "url": "https://open.spotify.com/track/38mVByC9CdaVvw2DXg4aWR"
+      "duration_ms": 428866,
+      "name": "Fire In Soweto",
+      "url": "https://open.spotify.com/track/2FzRgmksG8ZTUkYFCQ76TE"
     },
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Papa's Land",
-        "url": "https://open.spotify.com/album/04Sl9MBUWL41KI56OwnTJz"
-      },
-      "artists": [
-        {
-          "name": "Sonny Okosun",
-          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
-        }
-      ],
-      "duration_ms": 497560,
-      "name": "Papa's Land",
-      "url": "https://open.spotify.com/track/6TuDhb3IC3BrIdVmgzEWd5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Holy Wars",
         "url": "https://open.spotify.com/album/5aJleqa0jPmMRMXoJHwMhI"
       },
@@ -463,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "3rd World",
-        "url": "https://open.spotify.com/album/5OaZVrFg7EniD0OoPY88fE"
+        "name": "Papa's Land",
+        "url": "https://open.spotify.com/album/04Sl9MBUWL41KI56OwnTJz"
       },
       "artists": [
         {
@@ -472,9 +456,9 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 501040,
-      "name": "3rd World",
-      "url": "https://open.spotify.com/track/1DXU71tYbpeCoM8CKyWjdh"
+      "duration_ms": 497560,
+      "name": "Papa's Land",
+      "url": "https://open.spotify.com/track/6TuDhb3IC3BrIdVmgzEWd5"
     },
     {
       "added_at": null,
@@ -495,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Gospel Of Ozziddi",
-        "url": "https://open.spotify.com/album/3cchvmfihgV7H5wEETAwmv"
+        "name": "3rd World",
+        "url": "https://open.spotify.com/album/5OaZVrFg7EniD0OoPY88fE"
       },
       "artists": [
         {
@@ -504,9 +488,9 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 556386,
-      "name": "Carnival",
-      "url": "https://open.spotify.com/track/6KqfVscd4axF02j6WKXdSM"
+      "duration_ms": 501040,
+      "name": "3rd World",
+      "url": "https://open.spotify.com/track/1DXU71tYbpeCoM8CKyWjdh"
     },
     {
       "added_at": null,
@@ -543,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ozziddi For Sale",
-        "url": "https://open.spotify.com/album/4nqdN4uSiIFoVf0tO7Pf5k"
-      },
-      "artists": [
-        {
-          "name": "Sonny Okosun",
-          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
-        }
-      ],
-      "duration_ms": 913786,
-      "name": "Chant Of The Slaves Let My People Go",
-      "url": "https://open.spotify.com/track/5TNMhY9CQmZgCcNlrgetCt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Papa's Land",
         "url": "https://open.spotify.com/album/04Sl9MBUWL41KI56OwnTJz"
       },
@@ -575,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wind Of Change",
-        "url": "https://open.spotify.com/album/2mGBmoVvEmVS2fV1zZMisz"
-      },
-      "artists": [
-        {
-          "name": "Sonny Okosun",
-          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
-        }
-      ],
-      "duration_ms": 417493,
-      "name": "Mohammed",
-      "url": "https://open.spotify.com/track/67I3LlIvgexE0QGIl26Oeb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Gospel Of Ozziddi",
         "url": "https://open.spotify.com/album/3cchvmfihgV7H5wEETAwmv"
       },
@@ -600,9 +552,9 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 441920,
-      "name": "O'Nambia",
-      "url": "https://open.spotify.com/track/49QRYBgtP3Daz4y9gx2i8Z"
+      "duration_ms": 556386,
+      "name": "Carnival",
+      "url": "https://open.spotify.com/track/6KqfVscd4axF02j6WKXdSM"
     },
     {
       "added_at": null,
@@ -616,9 +568,25 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 684933,
-      "name": "Festival Of The Hunters",
-      "url": "https://open.spotify.com/track/0Fm2iZEvHUxZVS2a1tJP9v"
+      "duration_ms": 913786,
+      "name": "Chant Of The Slaves Let My People Go",
+      "url": "https://open.spotify.com/track/5TNMhY9CQmZgCcNlrgetCt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wind Of Change",
+        "url": "https://open.spotify.com/album/2mGBmoVvEmVS2fV1zZMisz"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "duration_ms": 417493,
+      "name": "Mohammed",
+      "url": "https://open.spotify.com/track/67I3LlIvgexE0QGIl26Oeb"
     },
     {
       "added_at": null,

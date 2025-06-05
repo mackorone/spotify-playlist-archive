@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: SG Lewis
 
-[Spotify](https://open.spotify.com/user/spotify) - 533,322 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 533,353 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 5 | [Satellite](https://open.spotify.com/track/3G1RtodEV0bvOHjlct2Ein) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Obi Franky](https://open.spotify.com/artist/7wcA5gBY4GRUDwcfyoj0p0), [ILĀ](https://open.spotify.com/artist/2vHCmNtVE5TAEgVn024QTF), [Trans Voices](https://open.spotify.com/artist/6WOjBUzx8rMrwCdVtU4WVN) | [Satellite](https://open.spotify.com/album/6Yl7EPUb6JzmtFrKODskn9) | 4:24 |
 | 6 | [Marseille](https://open.spotify.com/track/1CZ0Q8EpbCBz3CvMPtrW7v) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Marseille](https://open.spotify.com/album/4lNXxO3pxla3Di3JEMVtu6) | 2:25 |
 | 7 | [2011](https://open.spotify.com/track/1yR8bzEUw1hNCwdl0oXXWV) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0) | [2011](https://open.spotify.com/album/2BAazPbKqWC2V8HbcINUdg) | 4:29 |
-| 8 | [Manía](https://open.spotify.com/track/79aIchpmJXJPDx9J68r3Hg) | [Pangaea](https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE), [Jazz Alonso](https://open.spotify.com/artist/2ghMQoYAKLMNHs896hl93k) | [Manía](https://open.spotify.com/album/6Q7DhlfnFSV2LM4J2hvHMy) | 2:51 |
+| 8 | [Manía](https://open.spotify.com/track/79aIchpmJXJPDx9J68r3Hg) | [Pangaea](https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE), [Jazz Alonso](https://open.spotify.com/artist/7eSY3eOVSH5SLYU0BV9sCY) | [Manía](https://open.spotify.com/album/6Q7DhlfnFSV2LM4J2hvHMy) | 2:51 |
 | 9 | [Your Loving](https://open.spotify.com/track/1HuDcH1KECyj1aCHub4D4G) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E) | [Your Loving](https://open.spotify.com/album/3D2oyrCFxJyoKpBhlyueHK) | 3:24 |
 | 10 | [Back Of My Mind](https://open.spotify.com/track/0BsTNIr80SYSFFs1fexIYe) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Back Of My Mind](https://open.spotify.com/album/5FbCCShqNJtt539lKupcF4) | 4:26 |
 | 11 | [glory](https://open.spotify.com/track/4eRhnf2tZGwBqkGxUd6MWs) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ), [fenoaltea](https://open.spotify.com/artist/3bxcQZiTtcX1GtUljswo2L) | [glory](https://open.spotify.com/album/7xZTjW4Soxw9Mp1E7mMKoT) | 2:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 99 | [Paloma](https://open.spotify.com/track/0XFaih4JWTQp66hTX4uDaZ) | [SOBSTORY](https://open.spotify.com/artist/62PBdD7isGPH0H71lLUqa9) | [Paloma](https://open.spotify.com/album/2nu5p2z9XDeb03r1D11c4Q) | 5:40 |
 | 100 | [Pure Love](https://open.spotify.com/track/3Ip1IDLv288gDeHm85dzJG) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg), [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL) | [Pure Love](https://open.spotify.com/album/3oq00BFmWA0gbTgzDvpnQC) | 4:24 |
 
-Snapshot ID: `aDjm+wAAAAD+hDljWTASocTVp6vi/rfs`
+Snapshot ID: `AAAAABeSWv8ZvSfAQODzxrQ2mz/RDzPM`

@@ -1,12 +1,12 @@
 {
   "description": "This is Queen. The essential tracks, all in one playlist.",
-  "num_followers": 4947572,
+  "num_followers": 4947690,
   "original_name": "This Is Queen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDzpgAAAAAAKITm3RZxP9anPT0+4MJl9",
+  "snapshot_id": "aD47AAAAAAAAkjnqSXeL4T7stdo5chkI",
   "tracks": [
     {
       "added_at": null,
@@ -143,22 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Works (Deluxe Edition 2011 Remaster)",
-        "url": "https://open.spotify.com/album/61foK8xa76FEOk36uOxoc9"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 258013,
-      "name": "I Want To Break Free - Single Remix",
-      "url": "https://open.spotify.com/track/2AkmdLbVKS1steeZdy8H1l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Day At The Races (Deluxe Edition 2011 Remaster)",
         "url": "https://open.spotify.com/album/4KZGe18wZJbXL6JLW4KyLc"
       },
@@ -175,8 +159,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "News Of The World (2011 Remaster)",
-        "url": "https://open.spotify.com/album/7tB40pGzj6Tg0HePj2jWZt"
+        "name": "The Works (Deluxe Edition 2011 Remaster)",
+        "url": "https://open.spotify.com/album/61foK8xa76FEOk36uOxoc9"
       },
       "artists": [
         {
@@ -184,9 +168,9 @@
           "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
         }
       ],
-      "duration_ms": 179200,
-      "name": "We Are The Champions - Remastered 2011",
-      "url": "https://open.spotify.com/track/1lCRw5FEZ1gPDNPzy1K4zW"
+      "duration_ms": 258013,
+      "name": "I Want To Break Free - Single Remix",
+      "url": "https://open.spotify.com/track/2AkmdLbVKS1steeZdy8H1l"
     },
     {
       "added_at": null,
@@ -203,6 +187,22 @@
       "duration_ms": 179600,
       "name": "Killer Queen - Remastered 2011",
       "url": "https://open.spotify.com/track/4cIPLtg1avt2Jm3ne9S1zy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "News Of The World (2011 Remaster)",
+        "url": "https://open.spotify.com/album/7tB40pGzj6Tg0HePj2jWZt"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 179200,
+      "name": "We Are The Champions - Remastered 2011",
+      "url": "https://open.spotify.com/track/1lCRw5FEZ1gPDNPzy1K4zW"
     },
     {
       "added_at": null,

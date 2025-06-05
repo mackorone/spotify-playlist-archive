@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 
 > The Midwest is always on time\. Cover: 42 Dugg
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,815 likes - 100 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,849 likes - 100 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 | 99 | [Precision](https://open.spotify.com/track/4qHSpiBmwLyjbaDPENrySq) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Better Me Than You](https://open.spotify.com/album/4Re8JSuo0lUxYCMjDnafvd) | 2:44 |
 | 100 | [Dear Fren](https://open.spotify.com/track/5a8XfB6605lKdiHw2CBuHC) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Maybe in Nirvana](https://open.spotify.com/album/7jZyhVwszdGpCFnhRGZqAv) | 3:02 |
 
-Snapshot ID: `aDktXAAAAABqGfmMqvHliUHSYShOfMPf`
+Snapshot ID: `aDktXAAAAAA7GbRc8ogx6g/SKum9yfcp`

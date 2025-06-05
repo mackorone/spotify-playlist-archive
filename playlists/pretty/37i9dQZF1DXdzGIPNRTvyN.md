@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzGIPNRTvyN.md) - [plain]
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-[Spotify](https://open.spotify.com/user/spotify) - 560,528 likes - 195 songs - 9 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 560,925 likes - 195 songs - 9 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -204,4 +204,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzGIPNRTvyN.md) - [plain]
 | 194 | [Solar Skies](https://open.spotify.com/track/1W3SYju3DvZHWgNSzb3N0S) | [Caelestis Nati](https://open.spotify.com/artist/5FYjMehrDmyDkbZqpYP1j8) | [Solar Skies](https://open.spotify.com/album/1cNfEsEpQg6o6Pw9z4EnZc) | 2:40 |
 | 195 | [Dreamer's Lagoon](https://open.spotify.com/track/2ThXAQ9aRCJEBi3uwL6szQ) | [Infinity Drifter](https://open.spotify.com/artist/66Nsavr2JDxr4253JILk4B) | [Dreamer's Lagoon](https://open.spotify.com/album/0lUTIBDFnQAtBaK24GrjgR) | 3:34 |
 
-Snapshot ID: `aDcjLwAAAAANQBbGLQaJqD9J1WpwYEU7`
+Snapshot ID: `aEBEdgAAAABubV9zjJbvYPPJrdGxDXGJ`

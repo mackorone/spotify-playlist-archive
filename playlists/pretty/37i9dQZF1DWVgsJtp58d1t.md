@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 ### [This Is Frequency](https://open.spotify.com/playlist/37i9dQZF1DWVgsJtp58d1t)
 
-> Happy Black Music Month! Cover: <a href="spotify:artist:0ynzbXwyCzxicMKHBoOkSH">EKKSTACY<br/></a>
+> Happy Black Music Month! Cover: EKKSTACY
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,092,291 likes - 125 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,092,227 likes - 125 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 124 | [Mic On](https://open.spotify.com/track/5XLm5kdumFNGnnXgkFsSJ2) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [WHEN](https://open.spotify.com/album/2HHseNs1ly8ccUuZjGNsQD) | 2:33 |
 | 125 | [FEEL THE BA$S \(Prelude\) \[feat\. BEAM\]](https://open.spotify.com/track/15pe8BxUJUXkCmgzummpM9) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [FEEL THE BA$S \(Prelude\) \[feat\. BEAM\]](https://open.spotify.com/album/6O3UM4OUBoqq7YHgctMBiX) | 1:37 |
 
-Snapshot ID: `aD9GBQAAAADAoPmkZECbDqbwo+MshtRe`
+Snapshot ID: `aECr/QAAAABg4Ez6hg+LeaBpKWkSTE4U`

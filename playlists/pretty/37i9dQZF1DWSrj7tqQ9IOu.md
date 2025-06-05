@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover : Odetto
 
-[Spotify](https://open.spotify.com/user/spotify) - 406,885 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 406,875 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [The Edge of Light](https://open.spotify.com/track/35cYKUPuED9RTI2GaQI3dl) | [Later.](https://open.spotify.com/artist/1f5I47xuO3sDZm0hQ8y0nq) | [Golden Bay](https://open.spotify.com/album/4AlegZ2nupO33LjHg09HuW) | 3:58 |
 | 50 | [The First Picture of You](https://open.spotify.com/track/5nrJvKAjTYbdnF4MWVruZV) | [Nouvelle Vague](https://open.spotify.com/artist/4h7NLIlg1oYdEtfQJfyto0), [Anjaa](https://open.spotify.com/artist/59bBzMdhPynQmBjE3dyrTz) | [Should I Stay or Should I Go? \(Deluxe Edition\)](https://open.spotify.com/album/24u41k1HrbUwvSWYKQcx4T) | 3:48 |
 
-Snapshot ID: `aDjY/AAAAAAkTecWlUR98dSZmbz6KKQm`
+Snapshot ID: `AAAAAKWjM3fU76huaKM0yiz5TBeZECa6`

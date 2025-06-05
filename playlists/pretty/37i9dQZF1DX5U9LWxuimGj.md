@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U9LWxuimGj.md) - [plain]
 
 ### [Country Latino](https://open.spotify.com/playlist/37i9dQZF1DX5U9LWxuimGj)
 
-> Country music with a Latin flair\. Cover: Sammy Arriaga
+> Country music with a Latin flair\. Cover: Carín León
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,529 likes - 72 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,553 likes - 72 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Moves Like Mexico](https://open.spotify.com/track/7CXsYMRVnn5s1Sak8BFYLX) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3) | [Moves Like Mexico](https://open.spotify.com/album/6izPcQeJPv06E1yqnl824M) | 3:12 |
-| 2 | [She Hurts Like Tequila](https://open.spotify.com/track/0STyXMnPEAN9Y8F2AB2W3L) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [She Hurts Like Tequila](https://open.spotify.com/album/1rkFmAJVDy10lLw7st5bwd) | 3:22 |
+| 1 | [She Hurts Like Tequila](https://open.spotify.com/track/0STyXMnPEAN9Y8F2AB2W3L) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [She Hurts Like Tequila](https://open.spotify.com/album/1rkFmAJVDy10lLw7st5bwd) | 3:22 |
+| 2 | [Moves Like Mexico](https://open.spotify.com/track/7CXsYMRVnn5s1Sak8BFYLX) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3) | [Moves Like Mexico](https://open.spotify.com/album/6izPcQeJPv06E1yqnl824M) | 3:12 |
 | 3 | [Feathered Indians](https://open.spotify.com/track/03Ude4OR82LXBtu7219PNQ) | [Julio Caesar](https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K) | [Feathered Indians](https://open.spotify.com/album/2ON8RNhgYzgE0915GuvSet) | 2:51 |
 | 4 | [LOW ROAD \- SPANISH VERSION](https://open.spotify.com/track/0Gk6S8LHNwCj9mUOZVryYD) | [Adrien Nunez](https://open.spotify.com/artist/6R2UojZrKYDr0RiP9jROAJ) | [ALTERNATE VERSIONS](https://open.spotify.com/album/0GnbxvjgEGZ8cbWkmjHIbE) | 2:57 |
 | 5 | [Así Es En México](https://open.spotify.com/track/43XcfjGlvXAAuvQRm4x0xC) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3) | [Así Es En México](https://open.spotify.com/album/5QOqnwiTogCQwzflruX8WZ) | 3:12 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U9LWxuimGj.md) - [plain]
 | 71 | [LA LLUVIA \(with Jordyn Shellhart\)](https://open.spotify.com/track/2OSkxJooTe20Djkvepb7QT) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [Jordyn Shellhart](https://open.spotify.com/artist/4KKlcB7shlFTD98I5JNSuE) | [DLUX](https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ) | 3:33 |
 | 72 | [Space in My Heart](https://open.spotify.com/track/4vMI6s3uwWcxcAqVoXkATn) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Space in My Heart](https://open.spotify.com/album/7CATUcNzHCmx3vsOETqKM9) | 2:58 |
 
-Snapshot ID: `aCa4YgAAAADl2Q51CBy6aIMMuoHAtzFs`
+Snapshot ID: `aECEPQAAAAB/yi0/1ZeGKs9Ih+5F9LVD`

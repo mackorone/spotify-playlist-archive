@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 
 > 兩人成組、三人成團，硬地主流都開花！風格豐富力量大！Cover: 血肉果汁機 \(Flesh Juicer\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,198 likes - 82 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,200 likes - 82 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

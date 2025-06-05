@@ -4,7 +4,7 @@
 
 > Get a great night's sleep with these soft acoustic guitar tunes.
 
-305 songs - 13 hr 2 min
+306 songs - 13 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,6 +241,7 @@
 | [Sleepover](https://open.spotify.com/track/3qQ1RkMq1Fc3Kf1beqcZDZ) | [Robert Delofeu](https://open.spotify.com/artist/05HoDshGmaZHJBCs6HWFA3) | [Sleepover](https://open.spotify.com/album/78ncS8rEV6irr9m1Nhtro1) | 1:38 | 2022-07-01 | 2022-08-19 |
 | [Sleepy Memories](https://open.spotify.com/track/4X204zuz3JNU17UHLcY36G) | [Kaupe Guitar Ensemble](https://open.spotify.com/artist/0Wo8Y1Wd6sJYBiQYjGCvdO) | [Sleepy Memories](https://open.spotify.com/album/1IYGo28GGZ5Ir5kleLswla) | 3:05 | 2024-10-01 | 2025-03-12 |
 | [Slowmood](https://open.spotify.com/track/2uBdx5OBEQmRIBcM7FSnSB) | [Mike Duff](https://open.spotify.com/artist/3CCA4rgJaywSdKgYyuBzQy) | [Slowmood](https://open.spotify.com/album/5E4adlY3rgcjvPrA3jqE0L) | 2:15 | 2023-02-24 |  |
+| [Small Things](https://open.spotify.com/track/5qvMw2Hr3BuphsulOSUU5n) | [Julian Rivers](https://open.spotify.com/artist/6Kz9TTn0UKMFKI4gC9g3Hb) | [Small Things](https://open.spotify.com/album/5blNaBqiCuNqDouOkRZlzk) | 2:42 | 2025-06-04 |  |
 | [Soft Rain](https://open.spotify.com/track/3XVYaiSb0e492iJuyfOrd4) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [Soft Rain](https://open.spotify.com/album/1wt6ILOvZuZrvbVYb94PXP) | 2:13 | 2024-12-10 |  |
 | [Softly Falling \- Guitar Version](https://open.spotify.com/track/0SvvodEiTxOor9LbluX31v) | [Brie Michelle](https://open.spotify.com/artist/4cmtHcvJeFJIYBNXVmRzGz) | [Softly Falling \- Guitar Version](https://open.spotify.com/album/4YsBZRtkKjwetx2CJtrnAr) | 2:17 | 2022-07-01 | 2023-06-09 |
 | [Softly Spoken](https://open.spotify.com/track/3fdjOJT2aXArEAmx68eK8P) | [Atticus Laines](https://open.spotify.com/artist/5lvoIhUaKTZ5DPNElfgAu6) | [Softly Spoken \- Guitar Version](https://open.spotify.com/album/25eYx7OeEr6auVC04XSUlr) | 1:30 | 2022-06-17 | 2023-08-26 |

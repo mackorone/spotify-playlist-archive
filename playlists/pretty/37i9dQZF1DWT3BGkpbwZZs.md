@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT3BGkpbwZZs.md) - [plain]
 
 > Everyone hungers for something\. Listen to the music from and inspired by The Hunger Games and Ballad of Songbirds and Snakes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,739 likes - 64 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,822 likes - 64 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT3BGkpbwZZs.md) - [plain]
 | 63 | [Flicker \(Kanye West Rework\)](https://open.spotify.com/track/4wio3OpeY6qhi9Pzy98JR5) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [The Hunger Games: Mockingjay Pt\. 1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/56bAWM3HFElgEjdnraBqvQ) | 4:12 |
 | 64 | [Original Beast](https://open.spotify.com/track/0ysh1Bix0wTyzQWUYqVhrh) | [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd) | [The Hunger Games: Mockingjay Pt\. 1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/56bAWM3HFElgEjdnraBqvQ) | 4:21 |
 
-Snapshot ID: `ZuzzQAAAAAB/4nvY93MUJz2fCTo5aAX8`
+Snapshot ID: `ZuzzQAAAAABsIy2RxLqRXrDRMqhgpHCx`

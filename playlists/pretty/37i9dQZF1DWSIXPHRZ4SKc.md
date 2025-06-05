@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIXPHRZ4SKc.md) - [plain]
 
 > It's how you wear the mask that matters\. Music from and inspired by Spider\-Man: Into the Spider\-Verse and Spider\-Man: Across the Spider\-Verse.
 
-[Spotify](https://open.spotify.com/user/spotify) - 804,673 likes - 77 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 804,775 likes - 77 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

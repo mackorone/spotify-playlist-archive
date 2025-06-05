@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Guè e Rasty, Fibra, Faneto, Slings e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,331 likes - 128 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,332 likes - 128 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 80 | [Alzala \(feat\. Faneto\)](https://open.spotify.com/track/2n7ytyBiJlyiS7ZvBK2X64) | [Waze RRX](https://open.spotify.com/artist/12wWvc6Z0111IfGRncCtwD), [Faneto](https://open.spotify.com/artist/51101YZl9bczaDPDfVHCB4) | [MOON\-XTRA](https://open.spotify.com/album/5cgbPhZqZqfXcmm3xE9X13) | 2:16 |
 | 81 | [FREEZECORLEONE](https://open.spotify.com/track/2AvV99XXdPO5FV1Qlh3nMH) | [Raspyy](https://open.spotify.com/artist/06aQxTBpi11b8LTWNw4yCd), [Maska](https://open.spotify.com/artist/6SiEcWAwt9JaK8RwV3AFk7) | [FREEZECORLEONE](https://open.spotify.com/album/3MV2GOdSi4rsLKltG3ajDM) | 2:04 |
 | 82 | [AMERICA LATINA](https://open.spotify.com/track/13y76NfspTHFqkRHrpCT9T) | [Myto](https://open.spotify.com/artist/7ArCICJwpNMHWiDMCXiEZO) | [AMERICA LATINA](https://open.spotify.com/album/3oEWPhDzR4ekbxLLAsjqKN) | 2:18 |
-| 83 | [NON SO COME SI FA](https://open.spotify.com/track/2bpg65BhFsphd5YhtrTZ08) | [Grein](https://open.spotify.com/artist/4uLshhVpsKhrFEuMRVwx2N) | [NON SO COME SI FA](https://open.spotify.com/album/76yI5CXKvQX4JEqidOySQA) | 2:32 |
+| 83 | [NON SO COME SI FA](https://open.spotify.com/track/2bpg65BhFsphd5YhtrTZ08) | [Grein](https://open.spotify.com/artist/4uLshhVpsKhrFEuMRVwx2N), [EMDI](https://open.spotify.com/artist/1Qa7XkZpAw9Nk2nHiQLD6S), [Rivreck](https://open.spotify.com/artist/1nB0WQrdlmT4vEV158VV7i) | [NON SO COME SI FA](https://open.spotify.com/album/76yI5CXKvQX4JEqidOySQA) | 2:32 |
 | 84 | [Miami Vice \(feat\. Sfera Ebbasta, Simba La Rue\)](https://open.spotify.com/track/2aJW4z2EoahGBpU3asFclE) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [Il mio lato peggiore](https://open.spotify.com/album/6K8pT0jcCAkrw8VjWiSXI8) | 4:05 |
 | 85 | [20PAIA / FANCULO](https://open.spotify.com/track/2SaTKzZRfvXOjHjX52dHos) | [Promessa](https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN), [IDUA](https://open.spotify.com/artist/10MRM6SOHyREmzwlDFbXof) | [VITE SGRAMMATE](https://open.spotify.com/album/67SfuiDNcf4E76QmAv5gVx) | 2:25 |
 | 86 | [La mia vittoria \(feat\. Giorgia, Marracash\)](https://open.spotify.com/track/3KNZJB6GW71aBtfeeknoVq) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Il mio lato peggiore](https://open.spotify.com/album/6K8pT0jcCAkrw8VjWiSXI8) | 4:16 |

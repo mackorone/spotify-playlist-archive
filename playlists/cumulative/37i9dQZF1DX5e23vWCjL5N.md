@@ -4,7 +4,7 @@
 
 > Punchline, storytelling, rap italiano\. Cover: Salmo
 
-263 songs - 13 hr 45 min
+264 songs - 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Cuore Dormitorio \(feat\. Tony Boy\)](https://open.spotify.com/track/21icm40PhwGXUDgetpiYmD) | [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF) | [Identità](https://open.spotify.com/album/5nxW9sJlywI1NGdLfaXMAN) | 2:44 | 2025-04-18 |  |
 | [Cuoreapezzi \(feat\. Guè & Joshua\)](https://open.spotify.com/track/5y9qQCvRJmDHOgrxZ4c6Cr) | [Neffa](https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Joshua](https://open.spotify.com/artist/5MmLJMV7gqiV3RgmqTgAKO) | [Canerandagio \- Parte 1](https://open.spotify.com/album/6KJJfteoBkSM7g9OUZMUDc) | 2:37 | 2025-04-17 |  |
 | [C’era Una Volta In Italia](https://open.spotify.com/track/6qECCt8d4AQt0cEv307MLa) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv) | [Club Dogo](https://open.spotify.com/album/3nPgVpEmlL2JCf2yhdEcFy) | 3:05 | 2024-01-12 |  |
+| [Dedicated \(feat\. Noyz Narcos\)](https://open.spotify.com/track/4iIGP2u4BftHmMenXYWOyt) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Rasty Kilo](https://open.spotify.com/artist/0W7yEx7tCUH0FGMHB3DUL8), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY) | [KG](https://open.spotify.com/album/2BZoZOivm2Khc1jSTRaswS) | 3:56 | 2025-06-04 |  |
 | [Dentro di me](https://open.spotify.com/track/7yLuwRipesZLX1xAqY3cjz) | [Beba](https://open.spotify.com/artist/6ZpOQK1OKdCybuOgMkdbUh) | [Dentro di me](https://open.spotify.com/album/4G7K8YMU8vCtPr9SiOZ0if) | 2:37 | 2024-02-22 | 2024-03-29 |
 | [DM \(feat\. Tedua\)](https://open.spotify.com/track/3Rc5bO1LQjlVPalGDwTsMa) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [Containers](https://open.spotify.com/album/4gjJj6UCG1hitjAk1CdgDc) | 3:06 | 2024-10-10 | 2024-12-14 |
 | [DOLCEVITA](https://open.spotify.com/track/3aSeeZMwVQViHVXHXWPMc4) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [LOCURA](https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj) | 3:23 | 2024-09-19 | 2025-05-17 |

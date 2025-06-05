@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wZT8UwYjVl.md) - [plain]
 
 > A classic musical reimagined \- listen to the music from West Side Story, only in theaters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,904 likes - 22 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,903 likes - 22 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

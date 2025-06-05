@@ -4,7 +4,7 @@
 
 > Suomen suurin ja paras rock\-soittolista\. Kannessa Ghost.
 
-251 songs - 16 hr 24 min
+252 songs - 16 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Breakdown](https://open.spotify.com/track/4oz7h7UlHn1bFmyiPL5cYh) | [Memoremains](https://open.spotify.com/artist/59YzmPPL4s9KUfV4kqWYS1) | [Toxic Devotion](https://open.spotify.com/album/0aLWmzGP8roFLiJGxktRmw) | 2:49 | 2025-05-08 |  |
 | [Bring Me To Life](https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm) | 3:55 | 2024-09-11 | 2024-11-08 |
 | [Broken Bones](https://open.spotify.com/track/00uprylngMBwUkN4VujpuV) | [Moon Shot](https://open.spotify.com/artist/7q6MMOgRRdkw9Xw5xAfQa9) | [Broken Bones](https://open.spotify.com/album/4fZkBEbDEvVWwjW1wKpUjv) | 2:58 | 2025-01-16 | 2025-04-18 |
-| [Bullshit](https://open.spotify.com/track/1R68TlNOuu6ERdjQv1Rmsx) | [Shiraz Lane](https://open.spotify.com/artist/0TTu3zbvW4iFfls1GDbyGk) | [Bullshit](https://open.spotify.com/album/0z7CdOXnxXHc2t4J2bWFxc) | 3:53 | 2025-04-11 |  |
+| [Bullshit](https://open.spotify.com/track/1R68TlNOuu6ERdjQv1Rmsx) | [Shiraz Lane](https://open.spotify.com/artist/0TTu3zbvW4iFfls1GDbyGk) | [Bullshit](https://open.spotify.com/album/0z7CdOXnxXHc2t4J2bWFxc) | 3:53 | 2025-04-11 | 2025-06-05 |
 | [By a Monster’s Hand](https://open.spotify.com/track/57Q2OMlhA2r4GOPPfcqqR9) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [By a Monster’s Hand](https://open.spotify.com/album/1v2xwYDX1DPiIqIR4mKJxV) | 3:42 | 2025-03-06 | 2025-04-04 |
 | [Call of the Night](https://open.spotify.com/track/57QjQeKO0GqG004JoqZyTZ) | [Dynazty](https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV) | [Call of the Night](https://open.spotify.com/album/7e7XJxVyMLTYPjQlnLOLMM) | 3:34 | 2025-01-09 | 2025-02-14 |
 | [Can't Put Out the Fire](https://open.spotify.com/track/4l1riVSKc7WJBw2zxdFh90) | [Thundermother](https://open.spotify.com/artist/18jTFcgHRRYHdwdof1MDZw) | [Can't Put Out the Fire](https://open.spotify.com/album/04hERRotffJJgN6S5Dadey) | 3:16 | 2025-01-16 | 2025-03-14 |
@@ -163,6 +163,7 @@
 | [Paradise](https://open.spotify.com/track/0QtYu8F2zWeMPk7bLB2Des) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq), [Elize Ryd](https://open.spotify.com/artist/4aHpq3SeE9HiKNft9Bcj55) | [Paradise](https://open.spotify.com/album/1sADPht6zP5bBXlNitLRuQ) | 3:00 | 2025-04-24 |  |
 | [Peacefield](https://open.spotify.com/track/6KEMumkYvsrGsl485JwN0u) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Peacefield](https://open.spotify.com/album/5vNvNASfnf2MVIrnoLr1OE) | 5:40 | 2025-04-23 |  |
 | [Perfect Soul](https://open.spotify.com/track/7FjRNlmPtWb1ra46t14rUN) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Perfect Soul](https://open.spotify.com/album/6trbYqn0Og2FEmucGshPg5) | 3:59 | 2024-11-21 |  |
+| [Plastic Heart](https://open.spotify.com/track/0x4RCugHzWzSigzcuMul6E) | [Shiraz Lane](https://open.spotify.com/artist/0TTu3zbvW4iFfls1GDbyGk) | [Plastic Heart](https://open.spotify.com/album/1lNArS99wMBTcXHrRdYpQz) | 3:18 | 2025-06-04 |  |
 | [Popular Monster](https://open.spotify.com/track/4GssB27iJeqmfGxS94Tfij) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [Popular Monster](https://open.spotify.com/album/4gxFqhVYU4wp1XDH1KiIo4) | 3:40 | 2024-09-11 | 2025-05-17 |
 | [Power Of The Beast](https://open.spotify.com/track/3HtHib9t0FmC9sl1gsFobY) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [Power Of The Beast](https://open.spotify.com/album/3rSHTToST4ZTeHDHwCbbHp) | 4:29 | 2024-09-11 | 2024-11-08 |
 | [Prty Till The End Of The World](https://open.spotify.com/track/4Q5KSpuSVgZLWOfdrbTQFo) | [Stereo Terror](https://open.spotify.com/artist/5bVlFc0dTBJM87T4Z0djch) | [Prty Till The End Of The World](https://open.spotify.com/album/2Vlme3iynKizn8w61Hste5) | 3:00 | 2024-12-12 | 2025-03-21 |

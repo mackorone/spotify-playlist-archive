@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Ka1phroYqFsQPPQ1FOyBA">Trey Campbell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-174 songs - 9 hr 38 min
+175 songs - 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,8 +13,9 @@
 | [Actress](https://open.spotify.com/track/1ajlpHpd9b8Yf36KTT6EXw) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [Actress](https://open.spotify.com/album/7MYz8LyncTdKmzaf9a9bCx) | 3:58 | 2023-12-13 | 2025-03-31 |
 | [Actress](https://open.spotify.com/track/4zgIOCDE23hczp6120IZ5N) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [The Long Way Round](https://open.spotify.com/album/0wrJiW6NCHWxgc0T9HHYU9) | 3:58 | 2025-03-30 |  |
 | [ALL OVER AGAIN](https://open.spotify.com/track/3LpbHOkTRZ0ls06L0xKdpH) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [DISC TWO](https://open.spotify.com/album/4oLifZ7YzWlekv5sfcqmPp) | 2:07 | 2022-07-11 |  |
+| [All the Way](https://open.spotify.com/track/4EKw1hTrMpJqa0R8ndbQbD) | [Katie Pearlman](https://open.spotify.com/artist/1Q9KyQkc3vODeRt9OfItxl) | [Mantra Songs](https://open.spotify.com/album/3o5fIfq58YkADC9gkFEfDE) | 3:30 | 2025-06-04 |  |
 | [All the Way](https://open.spotify.com/track/4HOee5nD88uaSCJ00eYsR4) | [Katie Pearlman](https://open.spotify.com/artist/1Q9KyQkc3vODeRt9OfItxl) | [Mantra Songs](https://open.spotify.com/album/6Jyzb9eljiiOneflz9vl08) | 3:30 | 2021-12-27 | 2025-05-03 |
-| [All The Way](https://open.spotify.com/track/24v6zSy2p5m21hogyFbrG2) | [Katie Pearlman](https://open.spotify.com/artist/1Q9KyQkc3vODeRt9OfItxl) | [All The Way](https://open.spotify.com/album/2IAcsdIOCVNqgfdTTL10nu) | 3:31 | 2025-05-02 |  |
+| [All The Way](https://open.spotify.com/track/24v6zSy2p5m21hogyFbrG2) | [Katie Pearlman](https://open.spotify.com/artist/1Q9KyQkc3vODeRt9OfItxl) | [All The Way](https://open.spotify.com/album/2IAcsdIOCVNqgfdTTL10nu) | 3:31 | 2025-05-02 | 2025-06-05 |
 | [Always Love](https://open.spotify.com/track/02TtDZcUvEJGFJSJ6fTMfn) | [Lauren Jauregui](https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU) | [Always Love](https://open.spotify.com/album/6jvytXvGQ8DWZYXcL1rYba) | 3:20 | 2022-11-26 | 2023-05-30 |
 | [Always Love](https://open.spotify.com/track/0Yt6dZi9jhnaCmzoJddPnt) | [Lauren Jauregui](https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU) | [In Between](https://open.spotify.com/album/0rfdzpUAMNtYie0qZCg8XA) | 3:20 | 2023-05-29 |  |
 | [At Least We Tried](https://open.spotify.com/track/6vykq1FmiHr7e5CPyPyHX4) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Give Or Take](https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L) | 3:32 | 2022-08-12 |  |

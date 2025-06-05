@@ -2,9 +2,9 @@
 
 ### [Satang Mix \(사탕 믹스\)](https://open.spotify.com/playlist/37i9dQZF1DWTTHy0vndijk)
 
-> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. \(Cover: KIIRAS \(키라스\)\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
+> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. \(Cover: USPEER \(유스피어\)\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
 
-479 songs - 1 day 2 hr 18 min
+480 songs - 1 day 2 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -365,7 +365,7 @@
 | [Smooth Sailing](https://open.spotify.com/track/0eBKVjyBWAEpxZn6q5QdS0) | [cignature](https://open.spotify.com/artist/5x9WawpXGR82PWDFk9CKYQ) | [4th EP Album 'Us in the Summer'](https://open.spotify.com/album/3VQXrqt21tT3CEetwBqWLb) | 3:36 | 2023-08-30 | 2023-10-12 |
 | [SNAPSHOT](https://open.spotify.com/track/4KLaauSZqxvJdakttvM0zQ) | [Jessica](https://open.spotify.com/artist/7jPVuaaHLs4QVSuN561jZt) | [Jessica & Krystal \- US Road Trip \(Original Soundtrack, Pt\. 2\)](https://open.spotify.com/album/5dlu2im51A1k7XbiuR8Xki) | 3:10 | 2021-11-29 | 2022-07-20 |
 | [Sooo LUCKY](https://open.spotify.com/track/1wA1P29wRxxk9UxhgxxCsm) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/5W75ifcHJzBAfHezBMfhPI) | 3:22 | 2021-11-29 | 2022-07-27 |
-| [SOS](https://open.spotify.com/track/3X76Lal4GwBFqriHz1FbLU) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Love Tune](https://open.spotify.com/album/4jCiEqSvakhAN2n7Gr2r2r) | 3:07 | 2024-09-20 |  |
+| [SOS](https://open.spotify.com/track/3X76Lal4GwBFqriHz1FbLU) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Love Tune](https://open.spotify.com/album/4jCiEqSvakhAN2n7Gr2r2r) | 3:07 | 2024-09-20 | 2025-06-05 |
 | [SOURPATCH](https://open.spotify.com/track/6fuMhofxOh5ZmDWUYZnfaO) | [HITGS](https://open.spotify.com/artist/5a83Luu0ndnR1enk1rn83V) | [The 1st Single Album \- Things we love : H](https://open.spotify.com/album/3ioR7gHeadrflzwM5oGqu4) | 2:49 | 2025-04-30 |  |
 | [Sparkling Rain](https://open.spotify.com/track/5LokC9peDfvMTpAPjMIlV6) | [hyeon seo park](https://open.spotify.com/artist/3ikV9ZwFZz1DDiTc6xbMAW) | [Sparkling Rain](https://open.spotify.com/album/4uCCdIu2Ug9CBtTW11LtiZ) | 3:26 | 2022-07-04 | 2022-07-09 |
 | [Special](https://open.spotify.com/track/7D98DR6SUkx8qpCgtczVmg) | [Gyubin](https://open.spotify.com/artist/7nScMbyBG94XsSpe7yrImS), [Kim Jong Wan of NELL](https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH) | [Special](https://open.spotify.com/album/1NUn2bpUugGemKtw5udFGO) | 4:17 | 2024-05-24 | 2024-06-13 |
@@ -480,6 +480,7 @@
 | [Young, Dumb, Stupid](https://open.spotify.com/track/09BWOhiJUaYufcOiKCA973) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Young, Dumb, Stupid](https://open.spotify.com/album/4OEXCY70MiuMJaenbxxRb2) | 3:10 | 2023-05-09 | 2024-04-19 |
 | [Young, Dumb, Stupid](https://open.spotify.com/track/2s2PGt2yeQly8auhPuHGIn) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Young, Dumb, Stupid](https://open.spotify.com/album/5JdSdoglRlxgJDWiprRtY0) | 3:10 | 2023-03-13 | 2023-06-08 |
 | [YoYo](https://open.spotify.com/track/1WpZTJ75xyLy7EQtK8zYb6) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [Re:Scene](https://open.spotify.com/album/1C78MdRvc88435lTnGxGUF) | 3:30 | 2024-03-27 | 2024-04-19 |
+| [ZOOM](https://open.spotify.com/track/5koizuWzXgVvvJxeToiU1t) | [USPEER](https://open.spotify.com/artist/1p7Fm42iZrBEvG2wIaRCoL) | [SPEED ZONE](https://open.spotify.com/album/6eWgaSgtuchEdVEuJ5TOiX) | 2:58 | 2025-06-04 |  |
 | [날 바라바라봐 LOOK AT ME](https://open.spotify.com/track/6fNZs2SjBVvsT1xYOVuPDq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [twicetagram](https://open.spotify.com/album/7dOZAeST5qCpfpQRAHq9sa) | 3:13 | 2022-01-26 | 2022-06-16 |
 | [내 다리를 봐](https://open.spotify.com/track/7tHD9W1csiXXcfYL9v5Rba) | [Dalshabet](https://open.spotify.com/artist/10xsuRNvidaOLxWd3fRIel) | [Be Ambitious](https://open.spotify.com/album/3YZ0la892g3mx8f9ZVcK5q) | 3:24 | 2022-01-17 | 2022-04-20 |
 | [너에게 주고 싶은 세 가지](https://open.spotify.com/track/6O9XDUYZ2QUW6C60xewOzG) | [JUNIEL](https://open.spotify.com/artist/0F8gvxccUYPndXVsyLmCi6) | [너에게 주고 싶은 세 가지](https://open.spotify.com/album/2fxzplzb6bXwWjmTuSSdZm) | 3:26 | 2023-09-27 | 2023-10-12 |

@@ -2,7 +2,7 @@
 
 ### [Country Latino](https://open.spotify.com/playlist/37i9dQZF1DX5U9LWxuimGj)
 
-> Country music with a Latin flair\. Cover: Sammy Arriaga
+> Country music with a Latin flair\. Cover: Carín León
 
 200 songs - 10 hr 59 min
 

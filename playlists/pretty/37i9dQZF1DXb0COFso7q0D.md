@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0COFso7q0D.md) - [plain]
 
 > The playlist sin fronteras elevando a la Música Mexicana\. Cover: Esau Ortiz, Luis R Conriquez, Oscar Maydon, Victor Mendivil & Alemán
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,371,985 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,371,880 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

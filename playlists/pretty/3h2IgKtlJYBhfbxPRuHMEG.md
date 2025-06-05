@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3h2IgKtlJYBhfbxPRuHMEG.md) - [plain]
 
 > The best Bass, EDM, Trap, Electronic, Drum&amp;Bass\. Cover: Torcha
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 505 likes - 63 songs - 3 hr 35 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 504 likes - 63 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
